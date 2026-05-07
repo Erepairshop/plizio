@@ -6,6 +6,7 @@ import StructuredData, { createStateStructuredData } from "@/components/seo/Stru
 import { bundeslandSubregions } from "@/lib/visualLab/maps/bundeslandSubregions";
 import {
   COUNTRY_COPY,
+  getCountryCopy,
   SEO_COPY,
   absoluteUrl,
   getStateAlternates,
@@ -89,7 +90,7 @@ export default async function StatePage({
   if (country !== countrySlugFor(lang, countryId)) notFound();
 
   const copy = SEO_COPY[lang];
-  const countryCopy = COUNTRY_COPY[countryId][lang];
+  const countryCopy = getCountryCopy(countryId, lang);
   const groups = groupPoisForState(region.id);
   const subregions = (bundeslandSubregions as any)[region.id];
 

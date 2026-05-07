@@ -5,6 +5,7 @@ import PoiGalleryCard from "@/components/seo/PoiGalleryCard";
 import StructuredData, { createPoiStructuredData, createFaqStructuredData } from "@/components/seo/StructuredData";
 import {
   COUNTRY_COPY,
+  getCountryCopy,
   SEO_COPY,
   absoluteUrl,
   getPoiAlternates,
@@ -109,7 +110,7 @@ export default async function PoiPage({
   const { poi, region } = match;
   const countryId = getCountryId(region.id);
   const copy = SEO_COPY[resolved.lang as Lang];
-  const countryCopy = COUNTRY_COPY[countryId][resolved.lang as Lang];
+  const countryCopy = getCountryCopy(countryId, resolved.lang as Lang);
   const related = getRelatedPois(poi);
   const geoFacts = geographicFacts(poi);
   const description = (poi.description as Record<string, string> | undefined)?.[resolved.lang as Lang] || poi.description?.de || "";

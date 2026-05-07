@@ -7,6 +7,7 @@ import { romaniaMap, romaniaViewBox } from "@/lib/visualLab/maps/romania.svg";
 import { magyarorszagMap, magyarorszagViewBox } from "@/lib/visualLab/maps/magyarorszag.svg";
 import {
   COUNTRY_COPY,
+  getCountryCopy,
   SEO_COPY,
   countryMetadata,
   getCountryAlternates,
@@ -65,7 +66,7 @@ export default async function CountryPage({
   if (country !== countrySlugFor(lang, countryId)) notFound();
 
   const copy = SEO_COPY[lang];
-  const countryCopy = COUNTRY_COPY[countryId][lang];
+  const countryCopy = getCountryCopy(countryId, lang);
   const alternates = getCountryAlternates(countryId);
   
   const countryRegions = regions.filter(r => {
