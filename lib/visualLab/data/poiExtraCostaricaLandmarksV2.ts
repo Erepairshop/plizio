@@ -24,27 +24,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Inaugurat în 2011", "Cadou de la guvernul chinez", "Casa echipei naționale", "Capacitate: 35.000"],
       en: ["Opened in 2011", "Gift from the Chinese government", "Home of the national football team", "Capacity: 35,000"]
     },
-    factsAdvanced: {
-      de: ["Baukosten von etwa 100 Millionen US-Dollar, vollständig von China finanziert.", "Sitzplatzkapazität für genau 35.175 Zuschauer bei Sportveranstaltungen.", "Die Gesamtfläche des Stadions beträgt rund 34.122 Quadratmeter.", "Ausgestattet mit einer 400-Meter-Leichtathletikbahn mit acht Bahnen.", "Verfügt über zwei riesige HD-Videowände für optimale Sicht von allen Plätzen.", "Das Projekt erforderte über 800 chinesische Fachkräfte für den Bau.", "Erster zertifizierter umweltfreundlicher Sportkomplex in der Region.", "Beherbergt büros für 32 nationale Sportverbände Costa Ricas."],
-      hu: [
-      "A stadion építése körülbelül 100 millió amerikai dollárba került, amit Kína finanszírozott.",
-      "A lelátók pontosan 35 175 néző befogadására alkalmasak sporteseményeken.",
-      "Az építmény teljes alapterülete mintegy 34 122 négyzetmétert tesz ki.",
-      "A pályát egy nyolcsávos, 400 méteres, nemzetközi szabványú atlétikai futókör veszi körül.",
-      "Két hatalmas HD kivetítő biztosítja a láthatóságot a stadion minden pontjáról.",
-      "Az építkezésen több mint 800 kínai szakmunkás dolgozott feszített tempóban.",
-      "Ez volt az első tanúsítottan környezetbarát sportkomplexum a közép-amerikai régióban.",
-      "A stadionon belül 32 különböző nemzeti sportág szövetségi irodája kapott helyet."
-    ],
-      ro: [
-        "Construcția stadionului a costat aproximativ 100 de milioane de dolari americani, fiind finanțată integral de China.",
-        "Capacitatea tribunelor este de exact 35.175 de spectatori pentru evenimente sportive.",
-        "Suprafața totală a stadionului este de aproximativ 34.122 de metri pătrați.",
-        "Este dotat cu o pistă de atletism de 400 de metri cu opt culoare, conform standardelor internaționale.",
-        "Două ecrane HD gigantice asigură vizibilitatea din orice punct al stadionului."
-      ],
-      en: []
-    }, image: "/poi-images/cr-estadio-nacional-landmarks-v2.webp"},
+     image: "/poi-images/cr-estadio-nacional-landmarks-v2.webp"},
   {
     id: "cr-puente-de-la-amistad-landmarks-v2",
     type: "landmark",
@@ -67,27 +47,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Inaugurat în 2003", "Scurtează timpul de călătorie spre Peninsula Nicoya", "Cadou din partea Taiwanului", "Lungime: 780 m"],
       en: ["Opened in 2003", "Shortens travel time to Nicoya Peninsula", "Gift from Taiwan", "Length: 780 m"]
     },
-    factsAdvanced: {
-      de: ["Gesamtlänge der Brücke beträgt 780 Meter über den Tempisque-Fluss.", "Besteht aus einer Schrägseilsektion von 260 Metern Länge.", "Die Kosten für den Bau beliefen sich auf ca. 27 Millionen US-Dollar.", "Der Hauptpylon erreicht eine beeindruckende Höhe von etwa 80 Metern.", "Wurde in einer Rekordzeit von nur 24 Monaten fertiggestellt.", "Verkürzt die Fahrzeit zur Nicoya-Halbinsel um durchschnittlich 45 Minuten.", "Die Fahrbahnbreite beträgt 13,3 Meter für zwei Fahrspuren.", "Hält Windgeschwindigkeiten von bis zu 150 km/h und starken Erdbeben stand."],
-      hu: [
-      "A híd teljes hossza 780 méter, amellyel a Tempisque folyó legszélesebb részét íveli át.",
-      "A szerkezet egy 260 méter hosszú ferdekábeles szakaszból és egy fix rámpából áll.",
-      "A kivitelezés összköltsége megközelítőleg 27 millió amerikai dollár volt.",
-      "A fő tartópillér, amely a kábeleket tartja, körülbelül 80 megasra nyúlik.",
-      "A hidat rekordidő alatt, mindössze 24 hónapos munkálatokkal építették fel.",
-      "Az átkelés átlagosan 45 perccel rövidíti le az utazási időt a Nicoya-félszigetre.",
-      "Az útpálya szélessége 13,3 méter, amely két sávot és gyalogos járdákat foglal magában.",
-      "A szerkezetet úgy tervezték, hogy ellenálljon a 150 km/órás szélnek és az erős földrengéseknek."
-    ],
-      ro: [
-        "Lungimea totală a podului este de 780 de metri, traversând cea mai lată parte a râului Tempisque.",
-        "Structura include o secțiune hobanată de 260 de metri lungime.",
-        "Costurile de construcție s-au ridicat la aproximativ 27 de milioane de dolari americani.",
-        "Pilonul principal care susține cablurile atinge o înălțime impresionantă de aproximativ 80 de metri.",
-        "Podul a fost construit într-un timp record de doar 24 de luni."
-      ],
-      en: []
-    }, image: "/poi-images/cr-puente-de-la-amistad-landmarks-v2.webp"},
+     image: "/poi-images/cr-puente-de-la-amistad-landmarks-v2.webp"},
   {
     id: "cr-museo-ninos-landmarks-v2",
     type: "landmark",
@@ -110,27 +70,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Inaugurat în 1994", "Într-un fost penitenciar central", "Peste 40 de expoziții interactive", "Promovează învățarea prin joacă"],
       en: ["Opened in 1994", "Located in a former central penitentiary", "Over 40 interactive exhibits", "Promotes learning through play"]
     },
-    factsAdvanced: {
-      de: ["Das Gebäude diente von 1910 bis 1979 als Zentralgefängnis von San José.", "Beherbergt mehr als 40 verschiedene interaktive Ausstellungsräume.", "Empfängt jährlich über 250.000 Besucher, vor allem Schulklassen.", "Die Ausstellungsfläche erstreckt sich über mehrere Etagen in der alten Festung.", "Verfügt über ein eigenes Theater mit Platz für 300 Zuschauer.", "Bietet Simulationen von Naturphänomenen wie Erdbeben für Bildungszwecke.", "Das Museum ist Teil des Centro Costarricense de Ciencia y Cultura.", "Die Mauern der alten Festung sind stellenweise über einen Meter dick."],
-      hu: [
-      "Az épület 1910 és 1979 között San José központi börtöneként funkcionált.",
-      "Több mint 40 különböző interaktív kiállítóteremnek ad otthont az épületben.",
-      "Évente több mint 250 000 látogatót fogad, akiknek nagy része iskolás csoport.",
-      "A kiállítótér az egykori erődítmény több szintjén és szárnyában terül el.",
-      "A múzeum saját színházteremmel rendelkezik, amely 300 néző befogadására alkalmas.",
-      "Természeti jelenségeket, például földrengéseket bemutató szimulációkat is kínálnak.",
-      "A komplexum a Costa Rica-i Tudományos és Kulturális Központ részét képezi.",
-      "A régi erőd falai helyenként az egy méteres vastagságot is meghaladják."
-    ],
-      ro: [
-        "Clădirea a servit ca închisoare centrală din San José între anii 1910 și 1979.",
-        "Găzduiește peste 40 de săli de expoziție interactive diferite pe mai multe niveluri.",
-        "Primește anual peste 250.000 de vizitatori, majoritatea fiind grupuri școlare.",
-        "Muzeul dispune de propriul teatru cu o capacitate de 300 de locuri.",
-        "Zidurile vechii fortărețe au o grosime care depășește, în unele locuri, un metru."
-      ],
-      en: []
-    }, image: "/poi-images/cr-museo-ninos-landmarks-v2.webp"},
+     image: "/poi-images/cr-museo-ninos-landmarks-v2.webp"},
   {
     id: "cr-museo-nacional-landmarks-v2",
     type: "landmark",
@@ -153,27 +93,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Într-o fostă cazarmă", "Fondat în 1887", "Sfere de piatră precolumbiene", "Simbol al abolirii armatei"],
       en: ["Located in a former military barracks", "Founded in 1887", "Pre-Columbian stone spheres", "Symbol of military abolition"]
     },
-    factsAdvanced: {
-      de: ["Gegründet am 4. Mai 1887 unter der Regierung von Bernardo Soto Alfaro.", "Die Bellavista-Festung wurde ursprünglich im Jahr 1917 als Kaserne erbaut.", "Beherbergt über 45.000 Objekte in der archäologischen Sammlung.", "Die Sammlung präkolumbischer Steinkugeln umfasst Stücke mit bis zu 2 Metern Durchmesser.", "Der Schmetterlingsgarten im Innenhof beheimatet über 25 verschiedene Arten.", "Enthält eine umfangreiche historische Bibliothek mit über 30.000 Bänden.", "Das Museum wurde 1950 in die ehemalige Kaserne verlegt.", "Die Festungsmauern bieten einen 360-Grad-Blick über das Zentrum von San José."],
-      hu: [
-      "A múzeumot 1887. május 4-én alapították Bernardo Soto Alfaro kormánya alatt.",
-      "A Bellavista erőd eredetileg katonai laktanyának épült 1917-ben.",
-      "A régészeti gyűjtemény több mint 45 000 tárgyat foglal magában.",
-      "A kiállított prekolumbián kőgolyók némelyike eléri a 2 méteres átmérőt.",
-      "A belső udvarban található pillangóskertben több mint 25 faj él.",
-      "A múzeum történelmi könyvtára több mint 30 000 kötetet őriz.",
-      "Az intézmény 1950-ben költözött át a jelenlegi erődépületbe.",
-      "Az erőd bástyáiról 360 fokos panoráma nyílik San José belvárosára."
-    ],
-      ro: [
-        "Muzeul a fost fondat pe 4 mai 1887, sub guvernarea lui Bernardo Soto Alfaro.",
-        "Fortăreața Bellavista a fost construită inițial ca unitate militară în anul 1917.",
-        "Colecția arheologică cuprinde peste 45.000 de obiecte istorice.",
-        "Sferele de piatră precolumbiene expuse pot atinge diametre de până la 2 metri.",
-        "Grădina de fluturi din curtea interioară găzduiește peste 25 de specii diferite."
-      ],
-      en: []
-    }, image: "/poi-images/cr-museo-nacional-landmarks-v2.webp"},
+     image: "/poi-images/cr-museo-nacional-landmarks-v2.webp"},
   {
     id: "cr-teatro-melico-salazar-landmarks-v2",
     type: "landmark",
@@ -196,27 +116,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Construit în anii 1920", "Stil neoclasic", "Numit după un tenor celebru", "Accent pe cultura populară"],
       en: ["Built in the 1920s", "Neoclassical style", "Named after a famous tenor", "Focus on popular culture"]
     },
-    factsAdvanced: {
-      de: ["Eröffnet am 7. Oktober 1928 unter dem Namen 'Teatro Raventós'.", "Das Theater bietet Platz für insgesamt 1.180 Zuschauer auf drei Ebenen.", "Nach einem schweren Brand im Jahr 1967 wurde es aufwendig restauriert.", "Wurde 1985 offiziell in Teatro Popular Melico Salazar umbenannt.", "Die Bühne hat eine nutzbare Fläche von etwa 140 Quadratmetern.", "Das Gebäude wurde zum architektonischen Erbe Costa Ricas erklärt.", "Verfügt über ein modernes digitales Licht- und Soundsystem für Großproduktionen.", "Befindet sich direkt an der Avenida Segunda, der Hauptverkehrsader der Stadt."],
-      hu: [
-      "A színház 1928. október 7-én nyitotta meg kapuit Teatro Raventós néven.",
-      "A nézőtér összesen 1180 látogató befogadására alkalmas három szinten.",
-      "Egy 1967-es súlyos tűzvész után az épületet aprólékosan restaurálták.",
-      "Hivatalosan 1985-ben keresztelték át Melico Salazar Népszínházzá.",
-      "A színpad hasznos alapterülete megközelítőleg 140 négyzetméter.",
-      "Az épületet Costa Rica nemzeti építészeti örökségének részévé nyilvánították.",
-      "Modern digitális fény- és hangtechnikával rendelkezik a nagyprodukciókhoz.",
-      "Közvetlenül az Avenida Segunda-n, a főváros egyik fő közlekedési ütőerén fekszik."
-    ],
-      ro: [
-        "Teatrul și-a deschis porțile pe 7 octombrie 1928, sub numele de \\\"Teatro Raventós\\\".",
-        "Capacitatea totală este de 1.180 de spectatori, distribuiți pe trei niveluri.",
-        "După un incendiu grav în 1967, clădirea a fost restaurată meticulos.",
-        "A fost redenumit oficial Teatrul Popular Melico Salazar în anul 1985.",
-        "Clădirea a fost declarată parte a patrimoniului arhitectural național al Costăi Ricăi."
-      ],
-      en: []
-    }, image: "/poi-images/cr-teatro-melico-salazar-landmarks-v2.webp"},
+     image: "/poi-images/cr-teatro-melico-salazar-landmarks-v2.webp"},
   {
     id: "cr-correos-costa-rica-landmarks-v2",
     type: "landmark",
@@ -239,27 +139,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Construit în 1917", "Stil neorenascentist francez", "Găzduiește Muzeul Poștal", "Reper arhitectural"],
       en: ["Built in 1917", "French Neorenaissance style", "Houses the Postal Museum", "Architectural landmark"]
     },
-    factsAdvanced: {
-      de: ["Erbaut zwischen 1914 und 1917 vom Architekten Luis Llach.", "Das Gebäude beherbergt das Philatelistische Museum von Costa Rica im zweiten Stock.", "Verfügt über eine markante Fassade mit korinthischen Säulen und Skulpturen.", "Wurde 1980 zum nationalen historischen Denkmal erklärt.", "Die Baukosten beliefen sich damals auf rund 400.000 Gold-Colones.", "Beherbergt eine Sammlung von über 20.000 verschiedenen Briefmarken.", "Die Uhr an der Vorderseite stammt aus der Gründungszeit und funktioniert noch.", "Zentraler Knotenpunkt für das nationale Postnetz mit hunderten von Postfächern."],
-      hu: [
-      "Az épület 1914 és 1917 között épült Luis Llach építész tervei alapján.",
-      "A második emeleten található a Costa Rica-i Filatéliai Múzeum.",
-      "A homlokzatot korinthoszi oszlopok és allegorikus szobrok díszítik.",
-      "Az épületet 1980-ban nemzeti történelmi műemlékké nyilvánították.",
-      "Az építés költsége akkoriban mintegy 400 000 arany colones volt.",
-      "A múzeumban több mint 20 000 különböző postabélyeget őriznek.",
-      "A homlokzati óra az építés idejéből származik és ma is pontosan jár.",
-      "A nemzeti postahálózat központi csomópontja több száz bérelt postafiókkal."
-    ],
-      ro: [
-        "Clădirea a fost construită între 1914 și 1917, după planurile arhitectului Luis Llach.",
-        "Găzduiește Muzeul Filatelic din Costa Rica la cel de-al doilea etaj.",
-        "Fațada este decorată cu coloane corintice și sculpturi alegorice spectaculoase.",
-        "A fost declarată monument istoric național în anul 1980.",
-        "Ceasul de pe fațadă datează din perioada construcției și funcționează și astăzi."
-      ],
-      en: []
-    }, image: "/poi-images/cr-correos-costa-rica-landmarks-v2.webp"},
+     image: "/poi-images/cr-correos-costa-rica-landmarks-v2.webp"},
   {
     id: "cr-museo-jade-landmarks-v2",
     type: "landmark",
@@ -282,27 +162,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Peste 7.000 de piese", "Artefacte precolumbiene", "Clădire modernă din 2014", "Cinci niveluri de expoziție"],
       en: ["Over 7,000 pieces", "Pre-Columbian artifacts", "Modern building since 2014", "Five levels of exhibits"]
     },
-    factsAdvanced: {
-      de: ["Beherbergt mehr als 7.000 Katalogisierte Stücke aus Jade, Keramik und Stein.", "Das neue fünfstöckige Gebäude wurde im Jahr 2014 eröffnet.", "Die Ausstellungsfläche umfasst rund 6.900 Quadratmeter.", "Besitzt die größte Sammlung amerikanischer Jade weltweit.", "Die ältesten Stücke in der Sammlung datieren zurück bis 500 v. Chr.", "Das Museum wurde ursprünglich 1977 vom INS (Instituto Nacional de Seguros) gegründet.", "Verfügt über ein fortschrittliches System zur Klimakontrolle für die empfindlichen Exponate.", "Die Fassade besteht aus dunklen Glas- und Betonplatten, die Jade-Strukturen imitieren."],
-      hu: [
-      "A gyűjtemény több mint 7000 katalogizált jáde-, kerámia- és kőtárgyat tartalmaz.",
-      "Az új, ötszintes múzeumi épületet 2014-ben adták át a nagyközönségnek.",
-      "A kiállítótér teljes területe megközelítőleg 6900 négyzetméter.",
-      "Itt őrzik a világ legnagyobb amerikai prekolumbián jáde-kollekcióját.",
-      "A legrégebbi darabok Krisztus előtt 500-ból származnak.",
-      "A múzeumot eredetileg 1977-ben alapította az Állami Biztosító Intézet (INS).",
-      "Korszerű klímaszabályozó rendszer védi az érzékeny műtárgyakat a párától.",
-      "A homlokzat sötét üveg- és betonpanelei a jáde természetes szerkezetét imitálják."
-    ],
-      ro: [
-        "Găzduiește peste 7.000 de piese catalogate din jad, ceramică și piatră.",
-        "Noua clădire cu cinci etaje a fost inaugurată în anul 2014.",
-        "Suprafața expozițională acoperă aproximativ 6.900 de metri pătrați.",
-        "Cele mai vechi piese din colecție datează din anul 500 î.Hr.",
-        "Fațada din sticlă închisă și panouri de beton imită structura naturală a jadului."
-      ],
-      en: []
-    }, image: "/poi-images/cr-museo-jade-landmarks-v2.webp"},
+     image: "/poi-images/cr-museo-jade-landmarks-v2.webp"},
   {
     id: "cr-museo-arte-costarricense-landmarks-v2",
     type: "landmark",
@@ -325,27 +185,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Inaugurat în 1978", "Colecție vastă de artă națională", "Salonul de Aur cu basorelief", "Grădină de sculpturi"],
       en: ["Opened in 1978", "Comprehensive collection of national art", "Golden Hall with stucco mural", "Sculpture garden"]
     },
-    factsAdvanced: {
-      de: ["Das Gebäude diente von 1940 bis 1955 als Terminal des Flughafens La Sabana.", "Das Museum wurde offiziell am 3. April 1978 eröffnet.", "Die Sammlung umfasst über 6.000 Kunstwerke nationaler und internationaler Künstler.", "Das Stuckrelief im Salón Dorado bedeckt eine Fläche von 150 Quadratmetern.", "Der Skulpturengarten beherbergt etwa 30 permanente Großplastiken.", "Das Gebäude wurde 1986 zum nationalen historischen Denkmal erklärt.", "Beherbergt Werke von berühmten Künstlern wie Francisco Zúñiga und Max Jiménez.", "Der Eintritt ist für viele Bildungsgruppen und an bestimmten Tagen frei."],
-      hu: [
-      "Az épület 1940 és 1955 között a La Sabana repülőtér utastermináljaként szolgált.",
-      "A múzeumot hivatalosan 1978. április 3-án nyitották meg.",
-      "A gyűjtemény több mint 6000 hazai és nemzetközi műalkotást tartalmaz.",
-      "A Salón Dorado stukkódomborműve összesen 150 négyzetméternyi felületet fed le.",
-      "A szoborkertben körülbelül 30 állandó, nagyméretű plasztika látható.",
-      "Az épületet 1986-ban nemzeti történelmi műemlékké nyilvánították.",
-      "Olyan híres művészek alkotásait őrzik itt, mint Francisco Zúñiga és Max Jiménez.",
-      "A belépés sok oktatási csoport számára és bizonyos napokon ingyenes."
-    ],
-      ro: [
-        "Clădirea a servit ca terminal al aeroportului La Sabana între 1940 și 1955.",
-        "Muzeul a fost inaugurat oficial la data de 3 aprilie 1978.",
-        "Colecția cuprinde peste 6.000 de opere de artă naționale și internaționale.",
-        "Basorelieful din Salón Dorado acoperă o suprafață totală de 150 de metri pătrați.",
-        "Grădina de sculpturi găzduiește aproximativ 30 de lucrări monumentale permanente."
-      ],
-      en: []
-    }, image: "/poi-images/cr-museo-arte-costarricense-landmarks-v2.webp"},
+     image: "/poi-images/cr-museo-arte-costarricense-landmarks-v2.webp"},
   {
     id: "cr-iglesia-de-coronado-landmarks-v2",
     type: "landmark",
@@ -368,27 +208,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Construită în anii 1930", "Stil neogotic", "Turnuri gemene înalte", "Monument național de arhitectură"],
       en: ["Built in the 1930s", "Neo-Gothic style", "Tall twin spires", "National architectural monument"]
     },
-    factsAdvanced: {
-      de: ["Der Bau der heutigen Kirche begann im Jahr 1930 und dauerte mehrere Jahre.", "Die tragende Struktur besteht vollständig aus importierten Stahlrahmen.", "Die Zwillingstürme erreichen eine Höhe von etwa 45 Metern.", "Die Buntglasfenster wurden in deutschen Werkstätten gefertigt.", "Wurde nach dem Entwurf des Architekten Teodorico Quirós erbaut.", "Das Gebäude ist als nationales historisch-architektonisches Erbe gelistet.", "Befindet sich auf einer Höhe von ca. 1.385 Metern über dem Meeresspiegel.", "Die Kirche ist dem Heiligen Isidor dem Bauern (San Isidro Labrador) gewidmet."],
-      hu: [
-      "A jelenlegi templom építése 1930-ban kezdődött és több évig tartott.",
-      "A teherhordó szerkezet teljes egészében importált acélvázból áll.",
-      "Az ikertornyok magassága eléri a körülbelül 45 métert.",
-      "A díszes ólomüveg ablakokat németországi műhelyekben készítették.",
-      "Az épület Teodorico Quirós neves építész tervei alapján készült.",
-      "A templom a nemzeti történelmi-építészeti örökség listáján szerepel.",
-      "Körülbelül 1385 méteres tengerszint feletti magasságban található.",
-      "A templomot védőszentjének, Földműves Szent Izidornak szentelték."
-    ],
-      ro: [
-        "Construcția bisericii actuale a început în 1930 și a durat câțiva ani.",
-        "Structura de rezistență este formată integral din cadre de oțel importate.",
-        "Turnurile gemene ating o înălțime de aproximativ 45 de metri.",
-        "Vitraliile artistice au fost realizate în ateliere specializate din Germania.",
-        "Biserica este dedicată Sfântului Isidor Plugarul (San Isidro Labrador)."
-      ],
-      en: []
-    }, image: "/poi-images/cr-iglesia-de-coronado-landmarks-v2.webp"},
+     image: "/poi-images/cr-iglesia-de-coronado-landmarks-v2.webp"},
   {
     id: "cr-templo-musica-landmarks-v2",
     type: "landmark",
@@ -411,27 +231,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Construit în 1920", "Replică a Templului Trianon din Versailles", "Loc pentru concerte și evenimente", "Simbol al orașului"],
       en: ["Built in 1920", "Replica of the Trianon Temple in Versailles", "Venue for concerts and events", "City symbol"]
     },
-    factsAdvanced: {
-      de: ["Eingeweiht am 24. Dezember 1920 während der Weihnachtsfeierlichkeiten.", "Entworfen vom costa-ricanischen Architekten José Francisco 'Chicón' Salazar.", "Besteht vollständig aus Stahlbeton, einer damals neuen Bautechnik.", "Ist eine Replik des Tempels der Liebe im Garten von Versailles, Frankreich.", "Wurde 1975 zum nationalen historischen Denkmal erklärt.", "Dient als zentraler Punkt für den 'Transitarte', ein großes jährliches Kunstfestival.", "Der Pavillon hat einen kreisförmigen Grundriss mit acht korinthischen Säulen.", "Wurde an der Stelle eines alten Kiosks aus Holz erbaut."],
-      hu: [
-      "1920. december 24-én, a karácsonyi ünnepek alatt avatták fel.",
-      "José Francisco \\\"Chicón\\\" Salazar costa rica-i építész tervezte.",
-      "Teljes egészében vasbetonból készült, ami akkoriban új technológiának számított.",
-      "A versailles-i kertben található Szerelem Templomának hű másolata.",
-      "Az építményt 1975-ben nemzeti történelmi műemlékké nyilvánították.",
-      "A \\\"Transitarte\\\" nevű nagyszabású művészeti fesztivál központi helyszíne.",
-      "A pavilon kör alaprajzú, és nyolc korinthoszi oszlop tartja a tetőt.",
-      "Egy korábbi, fából készült zenepavilon helyére építették fel."
-    ],
-      ro: [
-        "A fost inaugurat pe 24 decembrie 1920, în timpul sărbătorilor de Crăciun.",
-        "Proiectul a fost realizat de arhitectul costarican José Francisco \\\"Chicón\\\" Salazar.",
-        "Este construit integral din beton armat, o tehnologie inovatoare la acea vreme.",
-        "A fost declarat monument istoric național în anul 1975.",
-        "Pavilionul are un plan circular susținut de opt coloane corintice."
-      ],
-      en: []
-    }, image: "/poi-images/cr-templo-musica-landmarks-v2.webp"},
+     image: "/poi-images/cr-templo-musica-landmarks-v2.webp"},
   {
     id: "cr-monumento-nacional-costa-rica-landmarks-v2",
     type: "landmark",
@@ -454,27 +254,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Dezvelit în 1895", "Simbolizează victoria asupra lui William Walker", "Creat de un artist francez", "Piesa centrală a Parcului Național"],
       en: ["Unveiled in 1895", "Symbolizes victory over William Walker", "Created by a French artist", "Centerpiece of the National Park"]
     },
-    factsAdvanced: {
-      de: ["Das Denkmal wurde vom französischen Bildhauer Louis-Robert Carrier-Belleuse geschaffen.", "Es wurde am 15. September 1895 offiziell enthüllt.", "Die gesamte Skulpturengruppe ist aus Bronze gegossen und steht auf einem Granitsockel.", "Stellt die fünf zentralamerikanischen Staaten (Costa Rica, Guatemala, El Salvador, Honduras, Nicaragua) dar.", "Das Denkmal wiegt mehrere Tonnen und wurde in Einzelteilen aus Europa verschifft.", "Die zentrale Frauenfigur stellt Costa Rica dar, die die Flagge hält.", "Der am Boden liegende Filibuster symbolisiert William Walker.", "Es gilt als das bedeutendste Denkmal für die nationale Identität des Landes."],
-      hu: [
-      "Az emlékművet Louis-Robert Carrier-Belleuse francia szobrász készítette.",
-      "Hivatalos leleplezése 1895. szeptember 15-én történt.",
-      "A teljes szoborcsoport bronzból készült és gránit talpazaton áll.",
-      "Az öt alak az öt közép-amerikai államot (Costa Rica, Guatemala, El Salvador, Honduras, Nicaragua) képviseli.",
-      "A több tonnás alkotást darabokban szállították ide Európából hajóval.",
-      "A központi nőalak Costa Ricát jelképezi, aki a nemzeti lobogót tartja.",
-      "A földön fekvő figura a kalandor William Walkert szimbolizálja.",
-      "Ez az ország legjelentősebb, a nemzeti identitást kifejező köztéri szobra."
-    ],
-      ro: [
-        "Monumentul a fost creat de sculptorul francez Louis-Robert Carrier-Belleuse.",
-        "A fost dezvelit oficial la data de 15 septembrie 1895.",
-        "Întregul grup statuar este turnat în bronz și este așezat pe un soclu de granit.",
-        "Lucrarea cântărește câteva tone și a fost expediată din Europa în secțiuni.",
-        "Figura feminină centrală reprezintă Costa Rica, ținând drapelul național."
-      ],
-      en: []
-    }, image: "/poi-images/cr-monumento-nacional-costa-rica-landmarks-v2.webp"},
+     image: "/poi-images/cr-monumento-nacional-costa-rica-landmarks-v2.webp"},
   {
     id: "cr-ruinas-de-cartago-landmarks-v2",
     type: "landmark",
@@ -497,27 +277,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Construcția a început în secolul al XIX-lea", "Distrusă de cutremur și niciodată finalizată", "Stil romanic", "Înconjurată de o grădină"],
       en: ["Construction began in 19th century", "Destroyed by earthquake and never completed", "Romanesque style", "Surrounded by a garden"]
     },
-    factsAdvanced: {
-      de: ["Der Bau der heutigen Struktur begann im Jahr 1870 auf den Fundamenten früherer Kirchen.", "Das Erdbeben am 4. Mai 1910 zerstörte das Gebäude fast vollständig.", "Die Ruinen wurden 1982 zum nationalen historischen Denkmal erklärt.", "Das Innere beherbergt heute einen gepflegten Garten mit Teichen und Bänken.", "Die Mauern bestehen aus behauenen Steinblöcken und Kalkmörtel.", "Cartago war bis 1823 die Hauptstadt von Costa Rica.", "Die Kirche wurde nie offiziell geweiht, da sie nie fertiggestellt wurde.", "Sie befindet sich direkt gegenüber dem zentralen Platz von Cartago."],
-      hu: [
-      "A jelenlegi struktúra építése 1870-ben kezdődött korábbi templomok alapjain.",
-      "Az 1910. május 4-i földrengés szinte teljesen romba döntötte az épülő templomot.",
-      "A romokat 1982-ben nemzeti történelmi műemlékké nyilvánították.",
-      "A belső területen ma gondozott kert található tavakkal és padokkal.",
-      "A falak faragott kőtömbökből és mészhabarcsból épültek.",
-      "Cartago városa 1823-ig töltötte be Costa Rica fővárosának szerepét.",
-      "A templomot hivatalosan soha nem szentelték fel, mivel nem készült el.",
-      "Közvetlenül Cartago központi tere mellett található a látványos romkert."
-    ],
-      ro: [
-        "Construcția structurii actuale a început în 1870 pe fundațiile unor biserici anterioare.",
-        "Cutremurul din 4 mai 1910 a distrus clădirea aproape în totalitate.",
-        "Ruinele au fost declarate monument istoric național în anul 1982.",
-        "Interiorul găzduiește astăzi o grădină îngrijită cu iazuri și bănci.",
-        "Zidurile sunt construite din blocuri de piatră cioplită și mortar de var."
-      ],
-      en: []
-    }, image: "/poi-images/cr-ruinas-de-cartago-landmarks-v2.webp"},
+     image: "/poi-images/cr-ruinas-de-cartago-landmarks-v2.webp"},
   {
     id: "cr-cenac-landmarks-v2",
     type: "landmark",
@@ -540,27 +300,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Clădire industrială istorică", "Găzduiește teatre, galerii și Ministerul Culturii", "Centru pentru activități artistice", "Inaugurat în 1994"],
       en: ["Historic industrial building", "Houses theaters, galleries, and the Ministry of Culture", "Center for artistic activities", "Opened in 1994"]
     },
-    factsAdvanced: {
-      de: ["Die Fabrica Nacional de Licores wurde an diesem Standort im Jahr 1856 gegründet.", "Der Komplex umfasst eine Fläche von ca. 12.000 Quadratmetern.", "Das Kulturzentrum wurde offiziell am 1. Februar 1994 eingeweiht.", "Beherbergt das Museum für zeitgenössische Kunst und Design (MADC).", "Das 'Teatro 1887' im Inneren ist nach dem Baujahr eines Teils der Fabrik benannt.", "Die ursprünglichen Ziegelmauern und Holzbalken wurden bei der Restaurierung erhalten.", "Verfügt über ein Amphitheater im Freien für Konzerte und Tanzaufführungen.", "Wurde zum nationalen historischen und architektonischen Erbe erklärt."],
-      hu: [
-      "A Nemzeti Likőrgyárat (Fábrica Nacional de Licores) 1856-ban alapították ezen a helyen.",
-      "A kulturális komplexum területe körülbelül 12 000 négyzetmétert tesz ki.",
-      "A központot hivatalosan 1994. február 1-jén avatták fel.",
-      "Itt található a neves Kortárs Művészeti és Design Múzeum (MADC).",
-      "A belső \\\"Teatro 1887\\\" az épület egy részének építési évéről kapta a nevét.",
-      "Az eredeti téglafalakat és fagerendákat a restaurálás során megőrizték.",
-      "A területen szabadtéri amfiteátrum is található koncertekhez és tánchoz.",
-      "Az épületegyüttest nemzeti történelmi-építészeti örökségnek nyilvánították."
-    ],
-      ro: [
-        "Fabrica Națională de Lichior a fost fondată în acest loc în anul 1856.",
-        "Complexul cultural acoperă o suprafață de aproximativ 12.000 de metri pătrați.",
-        "Centrul a fost inaugurat oficial la 1 februarie 1994.",
-        "Zidurile originale de cărămidă și grinzile de lemn au fost păstrate în timpul restaurării.",
-        "Dispune de un amfiteatru în aer liber pentru concerte și spectacole de dans."
-      ],
-      en: []
-    }, image: "/poi-images/cr-cenac-landmarks-v2.webp"},
+     image: "/poi-images/cr-cenac-landmarks-v2.webp"},
   {
     id: "cr-muelle-de-puntarenas-landmarks-v2",
     type: "landmark",
@@ -583,27 +323,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Important pentru navele de croazieră", "Loc popular pentru pescuit și plimbări", "Oferă apusuri minunate", "Inima orașului"],
       en: ["Important for cruise ships", "Popular spot for fishing and strolling", "Offers great sunsets", "Heart of the city"]
     },
-    factsAdvanced: {
-      de: ["Der aktuelle Pier wurde 1928 gebaut und in den letzten Jahren modernisiert.", "Er hat eine Länge von etwa 500 Metern in den Pazifik hinein.", "Kann gleichzeitig zwei große Kreuzfahrtschiffe mit einer Länge von bis zu 300 Metern aufnehmen.", "Puntarenas war im 19. Jahrhundert der wichtigste Exporthafen für Kaffee.", "Der Pier liegt direkt am berühmten Paseo de los Turistas.", "In der Hochsaison legen wöchentlich mehrere internationale Kreuzfahrtschiffe an.", "Diente ursprünglich dem Transport von Waren mit der elektrischen Eisenbahn.", "Bietet eine Wassertiefe von ca. 10 Metern am Ende des Docks."],
-      hu: [
-      "A jelenlegi móló 1928-ban épült, és az elmúlt években modernizálták.",
-      "Körülbelül 500 méter hosszan nyúlik be a Csendes-óceán vizébe.",
-      "Egyszerre két nagy, akár 300 méter hosszú tengerjáró hajót is képes fogadni.",
-      "Puntarenas a 19. században az ország legfontosabb kávéexport-kikötője volt.",
-      "A móló közvetlenül a híres Paseo de los Turistas sétány mellett fekszik.",
-      "A főszezonban hetente több nemzetközi óceánjáró is kiköt itt.",
-      "Eredetileg az elektromos vasúton érkező áruk szállítását szolgálta.",
-      "A móló végén a vízmélység eléri a körülbelül 10 métert."
-    ],
-      ro: [
-        "Actualul debarcader a fost construit în 1928 și modernizat în ultimii ani.",
-        "Se extinde pe o lungime de aproximativ 500 de metri în apele Pacificului.",
-        "Poate găzdui simultan două nave mari de croazieră cu lungimi de până la 300 de metri.",
-        "Puntarenas a fost cel mai important port de export de cafea din țară în secolul al XIX-lea.",
-        "Adâncimea apei la capătul docului este de aproximativ 10 metri."
-      ],
-      en: []
-    }, image: "/poi-images/cr-muelle-de-puntarenas-landmarks-v2.webp"},
+     image: "/poi-images/cr-muelle-de-puntarenas-landmarks-v2.webp"},
   {
     id: "cr-iglesia-de-metal-grecia-landmarks-v2",
     type: "landmark",
@@ -626,27 +346,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       ro: ["Construită în anii 1890", "Complet din metal", "Stil neogotic", "Vopsită în roșu"],
       en: ["Built in the 1890s", "Made entirely of metal", "Neo-Gothic style", "Painted red"]
     },
-    factsAdvanced: {
-      de: ["Wurde vollständig aus in Belgien vorgefertigten Stahlteilen der Firma Forges d'Aiseau erbaut.", "Der Bau begann im Jahr 1891 und dauerte bis zur Einweihung 1897.", "Die Metallteile wurden in 722 Kisten von Europa nach Costa Rica verschifft.", "Insgesamt wiegt die Metallstruktur der Kirche etwa 400 Tonnen.", "Die Kirche ist etwa 35 Meter hoch und hat einen kreuzförmigen Grundriss.", "Die charakteristische rote Farbe dient auch als Schutz gegen Rost.", "Gilt als die einzige Kirche ihrer Art aus reinem Metall in ganz Zentralamerika.", "Befindet sich im Zentrum von Grecia, das oft als sauberste Stadt des Landes bezeichnet wird."],
-      hu: [
-      "Teljes egészében a belga Forges d'Aiseau cégnél gyártott acélelemekből épült.",
-      "Az építkezés 1891-ben kezdődött és a felszentelésig, 1897-ig tartott.",
-      "A fémalkatrészeket 722 ládában szállították Európából Costa Ricába.",
-      "A templom teljes fémszerkezete körülbelül 400 tonnát nyom.",
-      "Az épület mintegy 35 méter magas és kereszt alaprajzú.",
-      "A jellegzetes vörös festés nemcsak dísz, hanem a rozsda elleni védelmet is szolgálja.",
-      "Ez az egyetlen ilyen típusú, tisztán fémből készült templom egész Közép-Amerikában.",
-      "Grecia központjában található, amelyet gyakran az ország legtisztább városának neveznek."
-    ],
-      ro: [
-        "A fost construită integral din elemente de oțel fabricate în Belgia de firma Forges d'Aiseau.",
-        "Piesele metalice au fost expediate din Europa în 722 de lăzi.",
-        "Structura metalică totală a bisericii cântărește aproximativ 400 de tone.",
-        "Biserica are o înălțime de aproximativ 35 de metri și un plan în formă de cruce.",
-        "Culoarea roșie caracteristică servește și ca protecție împotriva ruginii."
-      ],
-      en: []
-    }, image: "/poi-images/cr-iglesia-de-metal-grecia-landmarks-v2.webp"},
+     image: "/poi-images/cr-iglesia-de-metal-grecia-landmarks-v2.webp"},
   {
     id: "cr-jardin-botanico-lankester-landmarks-v2",
     type: "landmark",

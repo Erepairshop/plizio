@@ -290,13 +290,13 @@ export const poiExtraBhutanNatureV2: POI[] = [
     description: {
       de: "Ein mächtiges Bergmassiv im hohen Norden, dessen genaue Grenzzugehörigkeit historisch zwischen Bhutan und China debattiert wurde.",
       hu: "Egy hatalmas hegymasszívum a messzi északon, amelynek pontos hovatartozása történelmileg vita tárgya volt Bhután és Kína között.",
-      ro: "Un masiv muntos impunător în nordul îndepărtat, a cărui apartenență frontalieră a fost dezbătută istoric între Bhutan și China.",
+      ro: "Kula Kangri este unul dintre cele mai înalte vârfuri muntoase din regiune, făcând parte din Himalaya. Muntele atrage alpiniști și cercetători datorită masivității sale impresionante.",
       en: "A massive mountain massif in the far north, whose exact border affiliation has historically been debated between Bhutan and China."
     },
     facts: {
       de: ["Höhe beträgt 7.528 Meter.", "Vollständig von Gletschern umgeben.", "Wurde 1986 erstmals bezwungen."],
       hu: ["Magassága 7528 méter.", "Teljesen gleccserek borítják.", "1986-ban mászta meg először."],
-      ro: ["Fluviul „Tată” transportă ape glaciare din nord și este cunoscut pentru curenții săi furtunoși și reci."],
+      ro: ["Vârf himalayan", "Altitudine ridicată", "Situat la graniță", "Peisaj alpin"],
       en: ["The 'Father River' carries glacial water from the north and is known for its stormy and cold currents."]
     }
   },

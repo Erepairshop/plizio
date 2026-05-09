@@ -20,9 +20,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Natural clearing in Dzanga-Sangha.", "Renowned site for forest elephants.", "Key habitat for forest megafauna.", "Crucial for wildlife conservation efforts.", "Cornerstone for local ecotourism.", "Unique ecological observation site."]
     },
-    factsAdvanced: {
-      ro: ["Activitate: observarea faunei (elefanți).", "Rol: sit unic de habitat.", "Importanță: biodiversitate.", "Localizare: Parcul Național Dzanga-Sangha.", "Resursă: minerale sol.", "Impact: ecoturism."]
-    },
+    
     description: {
       de: "Eine magische Waldlichtung im Herzen des Regenwaldes, wo sich hunderte Waldelefanten versammeln, um wertvolle Mineralien aus dem Boden zu graben. Es ist einer der wenigen Orte auf der Erde, an denen man diese scheuen Riesen in so großer Zahl beobachten kann.",
       hu: "Egy varázslatos erdei tisztás az esőerdő szívében, ahol erdei elefántok százai gyűlnek össze, hogy értékes ásványokat ássanak ki a talajból. Ez azon kevés helyek egyike a Földön, ahol ezeket a félénk óriásokat ilyen nagy számban láthatjuk.",
@@ -53,9 +51,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Protected park in the northeast.", "Represents savanna zone biodiversity.", "Critical habitat for large mammals.", "Essential ecosystem preservation area.", "Bridges savanna and arid environments.", "Key site for northern wildlife."]
     },
-    factsAdvanced: {
-      ro: ["Rol: parc național.", "Localizare: nord-estul țării.", "Importanță: conservarea biodiversității.", "Habitat: savană și pădure.", "Specii: antilope, păsări.", "Impact: echilibru ecologic."]
-    },
+    
     description: {
       de: "In den weiten Savannen des Nordostens erstreckt sich ein unberührtes Refugium für Löwen, Giraffen und Strauße. Diese wilde Landschaft ist geprägt von saisonalen Wasserlöchern, die in der Trockenzeit zum Treffpunkt für zahllose Tierarten werden.",
       hu: "Az északkeleti hatalmas szavannákon az oroszlánok, zsiráfok és struccok érintetlen menedékhelye terül el. Ezt a vad tájat a szezonális itatóhelyek határozzák meg, amelyek a száraz évszakban számtalan állatfaj találkozóhelyévé válnak.",
@@ -86,9 +82,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     factsAdvanced: {
       en: ["One of the largest national parks.", "Diverse savanna and woodland mosaic.", "Central to northern wildlife protection.", "Home to diverse savanna populations.", "Vital for regional environment stability.", "Important ecological research site."]
     },
-    factsAdvanced: {
-      ro: ["Rol: parc național.", "Localizare: regiunea central-nordică.", "Importanță: conservarea megafaunei.", "Habitat: savană.", "Activitate: studiu biologic.", "Impact: ecologie regională."]
-    },
+    
     description: {
       de: "Ein lebendiger Korridor, der es wandernden Herden ermöglicht, sicher zwischen den Schutzgebieten des Nordens zu ziehen. Hier finden Büffel, Antilopen und Leoparden Schutz in einer abwechslungsreichen Landschaft aus Buschland und Flussufern.",
       hu: "Egy élő folyosó, amely lehetővé teszi a vándorló csordák biztonságos vonulását az északi védett területek között. Itt bivalyok, antilopok és leopárdok találnak menedéket a bozótosokból és folyópartokból álló változatos tájon.",
@@ -119,9 +113,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Region defined by pastoral tradition.", "Nomadic cattle-herding lifestyle.", "Adapted to seasonal water availability.", "Reflects nomadic resilience in savanna.", "Major influence on local socio-economics.", "Deeply tied to northern environmental cycles."]
     },
-    factsAdvanced: {
-      ro: ["Activitate: creșterea animalelor.", "Regiune: Vakaga.", "Mod: pastoralism.", "Economie: creșterea animalelor.", "Impact: stil de viață nomad.", "Peisaj: savană."]
-    },
+    
     description: {
       de: "Die endlosen Ebenen der Vakaga-Region sind das Herz der traditionellen Viehzucht. Nomadische Hirten ziehen mit ihren großen Rinderherden durch diese goldene Landschaft, die seit Jahrhunderten den Rhythmus des Lebens im Norden bestimmt.",
       hu: "A Vakaga régió végtelen síkságai a hagyományos állattenyésztés szívét jelentik. Nomád pásztorok vonulnak hatalmas szarvasmarha-csordáikkal ezen az aranyló tájon, amely évszázadok óta meghatározza az északi élet ritmusát.",
@@ -152,9 +144,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Region historically centered on cotton.", "Primary source of rural livelihood.", "Annual cycles define local rhythms.", "Key driver of regional commerce.", "Extensive smallholder cultivation.", "Essential to Ouham social fabric."]
     },
-    factsAdvanced: {
-      ro: ["Activitate: cultivarea bumbacului.", "Regiune: Ouham.", "Importanță: economia rurală.", "Economie: export.", "Impact: susținerea familiilor.", "Resursă: bumbac."]
-    },
+    
     description: {
       de: "In der fruchtbaren Region Ouham erstrecken sich weite Felder mit 'weißem Gold'. Die Baumwollproduktion ist hier tief verwurzelt und bildet die Existenzgrundlage für tausende Familien, die die Pflanzen mit großer Sorgfalt pflegen und ernten.",
       hu: "A termékeny Ouham régióban a 'fehér arany' hatalmas mezői terülnek el. A pamuttermelés itt mélyen gyökerezik, és családok ezreinek biztosít megélhetést, akik nagy gonddal ápolják és takarítják be a növényeket.",
@@ -185,9 +175,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Famous zone for coffee production.", "Thrives in fertile, rain-rich soil.", "Vital source of rural cash income.", "Deeply rooted agricultural heritage.", "Traditional harvesting techniques used.", "Integral to southern forest culture."]
     },
-    factsAdvanced: {
-      ro: ["Activitate: cultivarea cafelei.", "Regiune: Mbaïki.", "Importanță: agricultură comercială.", "Economie: export.", "Climat: tropical umed.", "Impact: agricultură regională."]
-    },
+    
     description: {
       de: "Unter dem schützenden Dach hoher Urwaldbäume gedeihen in der Nähe von Mbaïki aromatische Kaffeebohnen. Das feuchte Klima und die nährstoffreichen Böden der Lobaye-Region verleihen dem Kaffee sein besonderes Aroma, das weit über die Landesgrenzen hinaus geschätzt wird.",
       hu: "Mbaïki közelében, a magas őserdei fák védő lombkoronája alatt aromás kávébabok fejlődnek. A Lobaye régió párás éghajlata és tápanyagban gazdag talaja különleges aromát ad a kávénak, amelyet messze az ország határain túl is értékelnek.",
@@ -218,9 +206,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Center for education and awareness.", "Showcases diverse national fauna.", "Fosters public appreciation of wildlife.", "Vital for local biological learning.", "Important venue for school groups.", "Key urban facility in Bangui."]
     },
-    factsAdvanced: {
-      ro: ["Rol: centru de conservare.", "Localizare: Bangui.", "Importanță: educație ecologică.", "Activitate: observarea speciilor native.", "Impact: ocrotirea naturii.", "Resursă: educație."]
-    },
+    
     description: {
       de: "Der einzige Zoo des Landes bietet den Bewohnern der Hauptstadt eine seltene Gelegenheit, die faszinierende Tierwelt Zentralafrikas hautnah zu erleben. Inmitten von Bangui gelegen, dient er als Bildungsort für Kinder und als sicherer Hafen für verletzte Wildtiere.",
       hu: "Az ország egyetlen állatkertje ritka lehetőséget kínál a főváros lakóinak, hogy közelebbről is megismerjék Közép-Afrika lenyűgöző állatvilágát. Bangui közepén fekszik, oktatási helyszínként szolgál a gyerekeknek és menedékként a sérült vadállatoknak.",
@@ -252,9 +238,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Most popular natural recreation site.", "Scenic waterfalls near Boali town.", "Frequented by visitors from Bangui.", "Symbolizes natural beauty of the region.", "Key destination for weekend escapes.", "Important site for regional tourism."]
     },
-    factsAdvanced: {
-      ro: ["Rol: zonă de recreere.", "Atracție: cascade.", "Activitate: turism în aer liber.", "Importanță: odihnă și relaxare.", "Localizare: lângă Bangui.", "Impact: dezvoltarea turismului."]
-    },
+    
     description: {
       de: "Rund um die tosenden Wasserfälle von Boali erstreckt sich ein beliebtes Ausflugsziel für Familien. Hier können Kinder in der Gischt spielen, während die Eltern die spektakuläre Aussicht genießen – ein Ort der Freude und Entspannung inmitten der Natur.",
       hu: "A dübörgő Boali-vízesések körül egy népszerű családi kirándulóhely terül el. Itt a gyerekek a vízpárában játszhatnak, miközben a szülők a látványos kilátásban gyönyörködnek – az öröm és a kikapcsolódás helye a természet lágy ölén.",
@@ -286,9 +270,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Renowned for cattle ranching.", "Plateau grasses offer excellent grazing.", "Highly productive western livestock region.", "Sustains strong local meat market.", "Maintains traditional pastoral heritage.", "Key agricultural sector for the west."]
     },
-    factsAdvanced: {
-      ro: ["Activitate: creșterea bovinelor.", "Regiune: Nana-Mambéré.", "Economie: producție de carne și lapte.", "Importanță: piețele vestice.", "Impact: susținerea economiei.", "Resursă: bovine."]
-    },
+    
     description: {
       de: "In der hügeligen Landschaft von Nana-Mambéré pulsieren die geschäftigen Viehmärkte, auf denen Händler aus der ganzen Region zusammenkommen. Es ist ein lebendiges Schauspiel aus Farben, Geräuschen und Traditionen, das den wirtschaftlichen Herzschlag der westlichen Savanne bildet.",
       hu: "Nana-Mambéré dombos tájain lüktetnek a nyüzsgő állatvásárok, ahol a régió minden részéről összeülnek a kereskedők. Ez a színek, hangok és hagyományok élénk játéka, amely a nyugati szavanna gazdasági szívverését alkotja.",
@@ -319,9 +301,7 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Biodiversity hotspot for insects.", "Incredible variety of butterfly species.", "Dense forest supports unique microclimate.", "Vital indicator of forest ecosystem health.", "Attracts naturalists and researchers.", "Key for understanding tropical entomology."]
     },
-    factsAdvanced: {
-      ro: ["Activitate: studiu entomologic.", "Regiune: Sangha.", "Importanță: bogăție biologică.", "Habitat: păduri tropicale.", "Impact: diversitate naturală.", "Resursă: specii unice."]
-    },
+    
     description: {
       de: "In den feuchten Uferzonen des Sangha-Flusses tummeln sich tausende farbenfrohe Schmetterlinge. Diese zarten Wesen verwandeln den Regenwald in ein flimmerndes Meer aus Farben und sind ein Indikator für die außergewöhnliche Gesundheit dieses einzigartigen Ökosystems.",
       hu: "A Sangha folyó párás partmenti zónáiban ezer és ezer színes pillangó nyüzsög. Ezek a törékeny lények a színek vibráló tengerévé változtatják az esőerdőt, és ennek az egyedülálló ökoszisztémának a rendkívüli egészségét jelzik.",

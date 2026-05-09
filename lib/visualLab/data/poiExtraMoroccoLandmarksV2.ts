@@ -49,18 +49,8 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "The minaret features a laser pointing towards Mecca."
       ]
     }, image: "/poi-images/ma-casablanca-hassan-ii-mosque-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Hassan-II.-Moschee in Casablanca ist ein architektonisches Meisterwerk und eine der größten Moscheen der Welt. Ihr 210 Meter hohes Minarett ist das zweithöchste der Welt und ein unverkennbares Wahrzeichen der Stadt. Die Moschee wurde unter der Herrschaft von König Hassan II. erbaut und 1993 fertiggestellt. Einzigartig ist ihre Lage direkt am Atlantischen Ozean, wobei ein Teil des Gebetsraumes über dem Wasser zu schweben scheint und durch einen Glasboden den Blick auf die Wellen freigibt. Der Bau vereint traditionelle marokkanische Handwerkskunst wie Zellige-Mosaike, Stuckarbeiten und geschnitztes Zedernholz mit modernster Technologie, darunter ein Dach, das sich öffnen lässt, und ein Laserstrahl an der Spitze des Minaretts, der in Richtung Mekka zeigt. Sie ist eine der wenigen Moscheen in Marokko, die auch von Nicht-Muslimen im Rahmen von Führungen besichtigt werden kann.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Der Bau dauerte sieben Jahre von 1986 bis 1993.", "Bis zu 105.000 Gläubige können in der Moschee und auf dem Vorplatz Platz finden.", "Das Minarett ist 210 Meter hoch.", "Das Dach der Gebetshalle kann innerhalb von fünf Minuten geöffnet werden.", "Tausende von Handwerkern aus ganz Marokko waren am Bau beteiligt.", "Der Komplex umfasst auch eine Medersa, eine Bibliothek und ein Museum.", "Die Moschee wurde teilweise durch eine landesweite öffentliche Spendenaktion finanziert.", "Die Gebetshalle ist groß genug, um den Petersdom in Rom aufzunehmen."],
-      hu: [],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ma-casablanca-cathedral-landmarks-v2",
@@ -109,18 +99,8 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Ceased religious function in 1956."
       ]
     }, image: "/poi-images/ma-casablanca-cathedral-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Kathedrale Sacré-Cœur im Herzen von Casablanca ist ein beeindruckendes Beispiel für die neugotische Architektur mit starken Art-déco- und marokkanischen Einflüssen. Entworfen vom französischen Architekten Paul Tournon und 1930 fertiggestellt, diente sie während der französischen Protektoratszeit als römisch-katholische Kathedrale der Stadt. Ihre strahlend weiße Fassade und die beiden markanten, schlanken Türme machen sie zu einem auffälligen Wahrzeichen. Nach der Unabhängigkeit Marokkos verlor die Kathedrale ihre religiöse Funktion und wurde in ein Kulturzentrum umgewandelt. Heute finden in ihren beeindruckenden Innenräumen Ausstellungen, Konzerte und kulturelle Veranstaltungen statt. Das Gebäude ist ein Symbol für die kosmopolitische Geschichte Casablancas im 20. Jahrhundert und die architektonische Verschmelzung europäischer und lokaler Stile.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Erbaut im Jahr 1930, die Türme wurden später hinzugefügt.", "Diente bis zur Unabhängigkeit Marokkos 1956 als katholische Kathedrale.", "Der Architekt Paul Tournon war ein Spezialist für moderne Kirchenarchitektur.", "Der Stil wird oft als 'maurischer Art déco' beschrieben.", "Die Betonkonstruktion war für die damalige Zeit sehr modern.", "Wird heute für Kunstausstellungen und Kulturveranstaltungen genutzt.", "Die Fenster sind mit geometrischen Mustern anstelle von traditionellen Buntglasfenstern gestaltet.", "Die Kathedrale liegt am Parc de la Ligue Arabe, einer großen Grünanlage."],
-      hu: [],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ma-casablanca-mahkama-landmarks-v2",
@@ -169,18 +149,8 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Access often requires permission."
       ]
     }, image: "/poi-images/ma-casablanca-mahkama-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Mahkama du Pacha (Gericht des Paschas) in Casablanca ist ein prachtvolles Verwaltungsgebäude, das als ein Juwel der ispano-maurischen Architektur gilt. Erbaut in den 1940er und 50er Jahren, diente es ursprünglich als Gerichtshof und Residenz des Paschas von Casablanca. Obwohl es ein offizielles Regierungsgebäude ist, erinnert seine opulente Gestaltung an einen Palast. Der Komplex umfasst über 60 Räume, die um mehrere Innenhöfe mit Gärten und Brunnen angeordnet sind. Jeder Raum ist kunstvoll mit traditionellen marokkanischen Handwerkskünsten dekoriert: filigrane Zellige-Mosaike, feine Stuckarbeiten, geschnitzte Holztüren und bemalte Zedernholzdecken. Die Mahkama ist ein beeindruckendes Zeugnis für die Bewahrung traditioneller Handwerkskunst auch in der modernen Architektur des 20. Jahrhunderts. Der Zugang für Besucher kann eingeschränkt sein, da es sich um ein aktives Gerichtsgebäude handelt.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Entworfen vom französischen Architekten Auguste Cadet.", "Der Bau dauerte von 1941 bis 1952.", "Kombiniert traditionelle andalusische und marokkanische Stilelemente.", "Befindet sich im Habous-Viertel (Nouvelle Médina).", "Die Dekoration wurde von den besten Handwerkern des Landes ausgeführt.", "Diente sowohl als Gericht als auch als Empfangspalast.", "Die Innenhöfe erinnern an die Alhambra in Granada.", "Die Verwendung von Marmor, Holz und Fliesen ist meisterhaft."],
-      hu: [],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ma-casablanca-mohammed-v-square-landmarks-v2",
@@ -229,18 +199,8 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Combines Art Deco with Moorish stylistic elements."
       ]
     }, image: "/poi-images/ma-casablanca-mohammed-v-square-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Platz Mohammed V. ist das administrative und symbolische Herz des modernen Casablanca. Entworfen während der französischen Protektoratszeit vom Architekten Henri Prost, ist der Platz von einer beeindruckenden Ansammlung öffentlicher Gebäude umgeben, die den sogenannten Mauresque-Stil, eine Mischung aus Art déco und traditioneller marokkanischer Architektur, repräsentieren. Dazu gehören das Gerichtsgebäude, die Präfektur, die Post und die Bank Al-Maghrib. Der Platz selbst ist ein beliebter Treffpunkt für Einheimische und bekannt für seinen großen zentralen Springbrunnen, der abends oft in bunten Farben beleuchtet wird. Die zahlreichen Tauben, die von Passanten gefüttert werden, sind ein weiteres charakteristisches Merkmal. Der Platz Mohammed V. ist ein Symbol für das moderne, urbane Marokko und ein hervorragendes Beispiel für die Stadtplanung des frühen 20. Jahrhunderts.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Angelegt in den 1920er Jahren unter dem französischen Generalresidenten Lyautey.", "Wichtige Gebäude wurden vom Architekten Henri Prost entworfen.", "Der Uhrturm der Präfektur ist ein markantes Wahrzeichen.", "Der Platz hieß ursprünglich Place de France, später Place Administrative.", "Ein großer moderner Springbrunnen wurde in den letzten Jahren hinzugefügt.", "Die Architektur sollte eine Brücke zwischen französischer Moderne und marokkanischer Tradition schlagen.", "In der Nähe befindet sich der Parc de la Ligue Arabe.", "Der Platz ist ein lebendiger Ort, der Tag und Nacht von Menschen belebt wird."],
-      hu: [],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ma-tangier-grand-mosque-landmarks-v2",
@@ -1301,9 +1261,7 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Moscheea este situată pe Bulevardul 20 August, în centrul orașului.", "Construcția sa a făcut parte din planul de reconstrucție a orașului.", "Designul său a fost influențat de arhitectura funcționalistă.", "Curtea interioară (sahn) este vastă și include o fântână pentru abluțiune.", "Poate găzdui mii de credincioși în timpul rugăciunilor de vineri.", "Ca și în cazul majorității moscheilor din Maroc, accesul în interior este permis doar musulmanilor.", "Numele 'Loubnane' provine de la piața din apropiere.", "Este un punct de reper important în peisajul urban al noului Agadir."], de: ["Die Baukosten wurden teilweise vom Libanon gespendet.", "Zentrales Wahrzeichen der modernen Stadtplanung Agadirs.", "Besitzt ein kunstvoll verziertes Minarett im andalusischen Stil.", "Die Mosquée Loubnan, auch bekannt als die Libanon-Moschee, ist das wichtigste islamische Gotteshaus im neuen Agadir.", "Sie wurde nach dem verheerenden Erdbeben von 1960 als Symbol der Wiedergeburt und der internationalen Solidarität errichtet.", "Mosquée Loubnan (Große Moschee von Agadir) befindet sich in Marokko."], hu: ["Az építési költségeket részben Libanon adományozta.", "Agadir modern várostervezésének központi nevezetessége.", "Művészien díszített, andalúz stílusú minarettel rendelkezik.", "A Loubnan mecset, más néven Libanon mecset, az új Agadir legfontosabb iszlám imahelye.", "Az 1960-as pusztító földrengés után épült az újjászületés és a nemzetközi szolidaritás szimbólumaként.", "Loubnan mecset (Agadiri Nagymecset) Marokkóban található."], en: ["Construction costs were partially donated by Lebanon.", "Central landmark of Agadir's modern urban planning.", "Features an ornately decorated Andalusian-style minaret.", "Mosquée Loubnan, also known as the Lebanon Mosque, is the most important Islamic place of worship in the new Agadir.", "It was built after the devastating 1960 earthquake as a symbol of rebirth and international solidarity.", "Mosquée Loubnan (Agadir Grand Mosque) is located in Morocco."] },
-    factsAdvanced: {
-      hu: ["Az 1960-as földrengés utáni újjáépítési terv részeként épült.", "Építését részben Libanon állam adományából finanszírozták.", "Jean-François Zevaco, a modernista építészet jeles képviselője tervezte.", "Agadir legnagyobb mecsete.", "Az épület a modern betonépítészetet és a hagyományos marokkói díszítőelemeket ötvözi.", "Minaretje a városközpont egyik legfontosabb tájékozódási pontja.", "Az újjászületett Agadir szimbóluma.", "A belső tér a nagyközönség számára nem látogatható."]
-    },
+    
     description: {
       de: "Die Mosquée Loubnan, auch bekannt als die Libanon-Moschee, ist das wichtigste islamische Gotteshaus im neuen Agadir. Sie wurde nach dem verheerenden Erdbeben von 1960 als Symbol der Wiedergeburt und der internationalen Solidarität errichtet.",
       hu: "A Loubnan mecset, más néven Libanon mecset, az új Agadir legfontosabb iszlám imahelye. Az 1960-as pusztító földrengés után épült az újjászületés és a nemzetközi szolidaritás szimbólumaként.",
@@ -1332,18 +1290,8 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
         "Features an ornately decorated Andalusian-style minaret."
       ]
     }, image: "/poi-images/ma-agadir-grand-mosque-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Mosquée Loubnan (Libanon-Moschee) ist die Große Moschee des modernen Agadir. Sie wurde nach dem verheerenden Erdbeben von 1960 erbaut, das die alte Stadt fast vollständig zerstörte. Die Moschee ist ein zentrales Element des Wiederaufbaus und ein Symbol der Hoffnung und Erneuerung. Ihr Bau wurde teilweise durch eine Spende des libanesischen Staates finanziert, daher der Name. Die Architektur ist eine moderne Interpretation des traditionellen marokkanischen Stils. Das elegante, kunstvoll verzierte Minarett ist ein weithin sichtbares Wahrzeichen in der modernen Skyline von Agadir. Die Moschee ist das wichtigste religiöse Zentrum der Stadt und ein Ort des Gebets für Tausende von Einwohnern. Sie repräsentiert die Widerstandsfähigkeit der Stadt und die internationale Solidarität, die nach der Katastrophe von 1960 gezeigt wurde.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Erbaut als Teil des Wiederaufbauplans nach dem Erdbeben von 1960.", "Teilweise durch eine Spende aus dem Libanon finanziert.", "Entworfen vom marokkanischen Architekten Jean-François Zevaco.", "Ist die größte Moschee in Agadir.", "Die Architektur verbindet modernen Betonbau mit traditionellen marokkanischen Dekorelementen.", "Das Minarett ist ein wichtiges Wahrzeichen im Stadtzentrum.", "Die Moschee ist ein Symbol für die Wiedergeburt von Agadir.", "Für Nicht-Muslime ist der Innenraum nicht zugänglich."],
-      hu: [],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ma-fez-moulay-idriss-ii-landmarks-v2",

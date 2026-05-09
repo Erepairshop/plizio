@@ -1,9 +1,16 @@
-// @ts-nocheck
+﻿// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBeninLandmarksV2: POI[] = [
   {
     id: "stade-amitie-cotonou-landmarks-v2",
+    description: "The primary multi-purpose sports stadium in Cotonou, used for major national and international events. It is a central hub for sports in Benin.",
+    facts: [
+      "Located in Cotonou",
+      "Major sports venue",
+      "Multi-purpose stadium",
+      "National events hub"
+],
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.378, 6.386],
@@ -18,9 +25,29 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Kapazität für etwa 35.000 Zuschauer.", "Das Stadion wurde ursprünglich im Jahr 1982 eröffnet.", "Umfangreich renoviert im Jahr 2005.", "Es ist das größte Stadion der Republik Benin.", "Austragungsort der nationalen Fußballspiele.", "Gelegen in Cotonou, dem wirtschaftlichen Zentrum des Landes."]
-    }, image: "/poi-images/stade-amitie-cotonou-landmarks-v2.webp"},
+    }, image: "/poi-images/stade-amitie-cotonou-landmarks-v2.webp",
+    description: {
+      de: "",
+      hu: "Benin legnagyobb sportlétesítménye Cotonouban, amely az ország labdarúgó-válogatottjának ad otthont és fontos állami események színhelye.",
+      ro: "Cel mai mare stadion din Benin, situat în Cotonou, este principala arenă pentru evenimente sportive și culturale naționale. Stadionul poartă numele Generalului Mathieu Kérékou.",
+      en: ""
+    },
+    facts: {
+      de: [],
+      hu: ["Kapacitás: 35 000 fő", "Helyszín: Cotonou", "Típus: Nemzeti Stadion", "Épült: 1982"],
+      ro: ["Stadion național", "Situat în Cotonou", "Capacitate mare", "Evenimente sportive"],
+      en: []
+    }
+  },
   {
     id: "place-etoile-rouge-cotonou-landmarks-v2",
+    description: "A prominent public square in Cotonou featuring a massive socialist-style monument. It serves as a major intersection and landmark in the city.",
+    facts: [
+      "Cotonou city landmark",
+      "Socialist-style monument",
+      "Major traffic junction",
+      "Public urban space"
+],
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.417, 6.375],
@@ -35,7 +62,20 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Das Denkmal in der Mitte ist der Rote Stern.", "Symbol für die marxistisch-leninistische Vergangenheit Benins.", "Der Platz liegt im Herzen von Cotonou.", "Er ist ein wichtiger Verkehrsknotenpunkt in der Stadt.", "Oftmals Ort für feierliche politische Veranstaltungen.", "Ein unverwechselbares Wahrzeichen von Cotonou."]
-    }, image: "/poi-images/place-etoile-rouge-cotonou-landmarks-v2.webp"},
+    }, image: "/poi-images/place-etoile-rouge-cotonou-landmarks-v2.webp",
+    description: {
+      de: "",
+      hu: "A 'Vörös Csillag tér' Cotonou egyik központi csomópontja és egyben a szocialista korszak emlékműve, amely a város történelmének fontos része.",
+      ro: "Piața Stelei Roșii este un monument iconic din Cotonou, reprezentând perioada socialistă a istoriei Beninului. Este un punct de reper central în capitala economică.",
+      en: ""
+    },
+    facts: {
+      de: [],
+      hu: ["Típus: Köztér", "Jelképe: Vörös csillag", "Helyszín: Cotonou", "Forgalmas csomópont"],
+      ro: ["Monument iconic", "Situată în Cotonou", "Simbol istoric", "Punct de reper"],
+      en: []
+    }
+  },
   {
     id: "ancien-pont-cotonou-landmarks-v2",
     type: "landmark",
@@ -61,6 +101,13 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     }, image: "/poi-images/ancien-pont-cotonou-landmarks-v2.webp"},
   {
     id: "phare-cotonou-landmarks-v2",
+    description: "The lighthouse of Cotonou, which has guided ships along the coast for decades. It remains an iconic maritime landmark for the port city.",
+    facts: [
+      "Cotonou coastal landmark",
+      "Maritime navigation aid",
+      "Historic lighthouse structure",
+      "Port city symbol"
+],
     type: "landmark",
     parent: "BJ-LI",
     coords: [2.427, 6.353],
@@ -75,7 +122,20 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Markiert die Einfahrt zum wichtigen Hafen von Cotonou.", "Ein wesentliches Element für die Sicherheit der Schifffahrt.", "Die Geschichte des Leuchtturms ist eng mit dem Hafen verbunden.", "Bietet eine gute Orientierung an der Atlantikküste.", "Ein charakteristisches Wahrzeichen für die Küstenregion.", "Der Hafen von Cotonou ist der wichtigste Seehafen Benins."]
-    }, image: "/poi-images/phare-cotonou-landmarks-v2.webp"},
+    }, image: "/poi-images/phare-cotonou-landmarks-v2.webp",
+    description: {
+      de: "",
+      hu: "Cotonou történelmi világítótornya, amely a tengeri hajózás biztonságát szolgálja és az ország tengeri kereskedelmének egyik szimbóluma.",
+      ro: "Farul din Cotonou este un punct de reper de navigație istoric de pe coasta Atlanticului. Acesta oferă o panoramă asupra portului și oceanului.",
+      en: ""
+    },
+    facts: {
+      de: [],
+      hu: ["Típus: Világítótorony", "Helyszín: Cotonou", "Szerep: Hajózási biztonság", "Kikötő közelében"],
+      ro: ["Far de navigație", "Coasta Atlanticului", "Situat în Cotonou", "Vedere panoramică"],
+      en: []
+    }
+  },
   {
     id: "place-martyrs-cotonou-landmarks-v2",
     type: "landmark",
@@ -411,13 +471,13 @@ export const poiExtraBeninLandmarksV2: POI[] = [
     },
     description: {
       de: "Das wirtschaftliche Zentrum Nordbenins, ein riesiger Markt, auf dem Produkte aus der gesamten Region gehandelt werden.",
-      hu: "Észak-Benin gazdasági központja, egy hatalmas piac, ahol az egész régió termékei megfordulnak.",
+      hu: "Parakou központi piaca, amely Észak-Benin gazdasági motorja és a régió kereskedelmének legfontosabb központja.",
       ro: "Centrul economic al nordului Beninului, o piață uriașă unde se tranzacționează produse din întreaga regiune.",
       en: "The economic center of northern Benin, a massive market where products from across the region are traded."
     },
     facts: {
       de: ["Zentraler Handelsplatz.", "Berühmt für Textilien.", "Pulsierendes Leben."],
-      hu: ["Központi kereskedelmi helyszín.", "Híres a textilekről.", "Lüktető élet."],
+      hu: ["Típus: Piac", "Helyszín: Parakou", "Fő áru: Textil és élelmiszer", "Északi kereskedelmi központ"],
       ro: ["Piață comercială centrală.", "Faimoasă pentru textile.", "Viață vibrantă."],
       en: ["Central trading hub.", "Famous for textiles.", "Pulsating life."]
     }, image: "/poi-images/grand-marche-parakou-landmarks-v2.webp"},

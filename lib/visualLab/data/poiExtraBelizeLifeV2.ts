@@ -1,4 +1,4 @@
-// @ts-nocheck
+﻿// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-center-life-v2",
@@ -326,13 +326,13 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     coords: [-88.402, 17.236],
     name: { de: "Blue Hole National Park", hu: "Blue Hole Nemzeti Park", ro: "Parcul Național Blue Hole", en: "Blue Hole National Park" },
     description: {
-      de: "Ein familienfreundlicher Naturpark mit Höhlenpfaden und einem natürlichen Schwimmloch.",
+      de: "Ein einzigartiges Naturschutzgebiet, das für seine blaue Cenote und den dichten Dschungel berühmt ist.",
       hu: "Családbarát természetpark barlangösvényekkel és természetes fürdőhelylyel.",
       ro: "Un parc natural prietenos cu familiile, cu trasee prin peșteri und o piscină naturală.",
       en: "A family-friendly nature park with cave trails and a natural swimming hole."
     },
     facts: {
-      de: ["Nahe Belmopan.", "Ideal für Tagesausflüge.", "Wandern und Baden.", "Beliebt bei Familien."],
+      de: ["Cayo Distrikt", "Blaue Cenote", "Dschungelwanderung"],
       hu: ["Belmopan közelében.", "Jó egynapos kiránduláshoz.", "Túrázás és úszás.", "Népszerű a családok körében."],
       ro: ["Aproape de Belmopan.", "Ideal pentru excursii de o zi.", "Drumeții și înot.", "Popular pentru familii."],
       en: ["Near Belmopan.", "Great for day trips.", "Hiking and swimming.", "Popular with families."]
@@ -529,13 +529,13 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     coords: [-88.300, 16.820],
     name: { de: "Sittee River Forest Reserve", hu: "Sittee River Erdőrezervátum", ro: "Rezervația Forestieră Sittee River", en: "Sittee River Forest Reserve" },
     description: {
-      de: "Ein Flusswald mit Mangroven, tropischen Bäumen und reicher Vogelwelt.",
+      de: "Dieses Waldschutzgebiet bietet Lebensraum für zahlreiche Vogelarten und seltene tropische Pflanzen.",
       hu: "Folyó menti erdő mangrovekkal, trópusi fákkal és gazdag madárvilággal.",
       ro: "O pădure riverană cu mangrove, copaci tropicali și avifaună bogată.",
       en: "A river forest with mangroves, tropical trees, and rich birdlife."
     },
     facts: {
-      de: ["Feuchter Tropenwald.", "Viel Vogelbeobachtung.", "Nahe Hopkins.", "Sanfte Flusslandschaft."],
+      de: ["Stann Creek", "Vogelbeobachtung", "Tropenwald"],
       hu: ["Nedves trópusi erdő.", "Sok madármegfigyelés.", "Hopkins közelében.", "Lágy folyóvidék."],
       ro: ["Pădure tropicală umedă.", "Mult birdwatching.", "Aproape de Hopkins.", "Peisaj fluvial blând."],
       en: ["Humid tropical forest.", "Great birdwatching.", "Near Hopkins.", "Gentle river scenery."]
@@ -820,13 +820,13 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     coords: [-88.800, 16.760],
     name: { de: "Maya Mountain Kaffeefarmen", hu: "Maya-hegységi kávéfarmok", ro: "Fermele de cafea din Munții Maya", en: "Maya Mountain Coffee Farms" },
     description: {
-      de: "Kaffeeanbau in den kühleren Höhenlagen der Maya Mountains.",
+      de: "In den Hochlagen der Maya-Berge werden hochwertige Kaffeesorten unter schattigen Bäumen angebaut.",
       hu: "Kávétermesztés a Maya-hegység hűvösebb magasabb részein.",
       ro: "Cultivarea cafelei în zonele mai răcoroase ale Munților Maya.",
       en: "Coffee cultivation in the cooler highlands of the Maya Mountains."
     },
     facts: {
-      de: ["Schattenkaffee.", "Hochlandklima.", "Kleine Produzenten.", "Südliches Belize."],
+      de: ["Maya-Berge", "Kaffeeanbau", "Hochlandklima"],
       hu: ["Árnyékkávé.", "Magaslati klíma.", "Kis termelők.", "Dél-Belize."],
       ro: ["Cafea la umbră.", "Climat montan.", "Producători mici.", "Sudul Belize."],
       en: ["Shade-grown coffee.", "Highland climate.", "Small producers.", "Southern Belize."]

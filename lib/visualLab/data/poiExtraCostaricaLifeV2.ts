@@ -24,12 +24,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       ro: ["Fondat: 1880", "Peste 200 de tarabe", "Mâncare tradițională"],
       en: ["Founded: 1880", "Over 200 stalls", "Traditional food"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A piac több mint 200 kis boltnak és kifőzdének ad otthont.", "Itt található az ország leghíresebb kézműves fagylaltozója, a Lolo Mora.", "Az épületet 1995-ben nemzeti kulturális örökséggé nyilvánították.", "A piac egyik különlegessége a gyógynövények és népi gyógymódok széles kínálata.", "Naponta több tízezer ember fordul meg a szűk folyosókon."],
-      ro: ["Piața găzduiește peste 200 de mici magazine și localuri tradiționale.", "Aici se află Lolo Mora, cea mai faimoasă înghețată artizanală din întreaga țară.", "Clădirea a fost declarată patrimoniu cultural național în anul 1995.", "O specialitate a pieței este gama largă de plante medicinale și remedii populare.", "Zilnic, zeci de mii de oameni trec prin coridoarele înguste ale acestei piețe istorice."],
-      en: []
-    }, image: "/poi-images/mercado-central-life-v2.webp"},
+     image: "/poi-images/mercado-central-life-v2.webp"},
   {
     id: "teatro-nacional-life-v2",
     type: "landmark",
@@ -52,12 +47,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       ro: ["Deschis: 1897", "Stil neoclasic", "Monument cultural"],
       en: ["Opened: 1897", "Neoclassical style", "Cultural monument"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Az építkezést egy speciális kávéadóból finanszírozták a helyi termelők.", "A színház belsejét carrarai márvánnyal és olasz mesterek munkáival díszítették.", "A nézőtér padlója egy speciális mechanizmus segítségével vízszintesbe hozható bálokhoz.", "A színház kávézója, az Alma de Café, a város egyik legelőkelőbb találkozóhelye.", "Az épület csodával határos módon épségben maradt a nagy földrengések során."],
-      ro: ["Construcția a fost finanțată printr-o taxă specială pe cafea plătită de producătorii locali.", "Interiorul este decorat cu marmură de Carrara și opere realizate de maeștri italieni.", "Podeaua sălii de spectacole poate fi ridicată la nivel orizontal pentru baluri printr-un mecanism special.", "Cafeneaua teatrului, Alma de Café, este unul dintre cele mai elegante locuri de întâlnire din oraș.", "Clădirea a supraviețuit miraculos marilor cutremure care au afectat capitala de-a lungul timpului."],
-      en: []
-    }, image: "/poi-images/teatro-nacional-life-v2.webp"},
+     image: "/poi-images/teatro-nacional-life-v2.webp"},
   {
     id: "finca-cafe-life-v2",
     type: "agriculture",
@@ -80,12 +70,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       ro: ["Sol vulcanic", "Cules manual", "Cultivare sustenabilă"],
       en: ["Volcanic soil", "Hand-picked", "Sustainable farming"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Costa Rica volt az első közép-amerikai ország, amely kávét exportált.", "Csak az Arabica fajta termesztése engedélyezett az országban a minőség megőrzése érdekében.", "A kávétermés nagy részét árnyékban termesztik az ökoszisztéma védelméért.", "A szüret általában novembertől márciusig tart.", "Számos birtok kínál 'cupping' (kávékóstoló) túrákat a turistáknak."],
-      ro: ["Costa Rica a fost prima țară din America Centrală care a început să exporte cafea.", "Doar soiul Arabica este permis pentru cultivare în țară pentru a menține standardele de calitate.", "O mare parte din recolta de cafea este cultivată la umbră pentru a proteja ecosistemul local.", "Recoltarea are loc de obicei în perioada dintre lunile noiembrie și martie.", "Numeroase proprietăți oferă tururi de \\\"cupping\\\" pentru ca turiștii să învețe să deguste cafeaua."],
-      en: []
-    }, image: "/poi-images/finca-cafe-life-v2.webp"},
+     image: "/poi-images/finca-cafe-life-v2.webp"},
   {
     id: "feria-agricultor-life-v2",
     type: "agriculture",
@@ -108,12 +93,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       ro: ["Produse proaspete", "Eveniment săptămânal", "Specialități regionale"],
       en: ["Fresh produce", "Weekly event", "Regional specialties"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A piacokon az árakat általában kilóban vagy darabárban adják meg.", "A vásárlók gyakran kapnak kóstolót az ismeretlen gyümölcsökből.", "Itt a legolcsóbb a friss alapanyagok beszerzése az országban.", "A piac fontos szerepet játszik a kistermelők túlélésében.", "Népszerűek a helyben készített frissítő italok, mint a pipa fria (kókuszvíz)."],
-      ro: ["Prețurile în aceste piețe sunt de obicei exprimate pe kilogram sau la bucată.", "Cumpărătorii primesc adesea mostre gratuite pentru a gusta fructe tropicale necunoscute.", "Acesta este cel mai ieftin loc din țară pentru a achiziționa ingrediente proaspete și locale.", "Piața joacă un rol crucial în supraviețuirea economică a micilor producători agricoli.", "Băuturile răcoritoare proaspete, cum ar fi \\\"pipa fria\\\" (apa de cocos), sunt extrem de populare aici."],
-      en: []
-    }, image: "/poi-images/feria-agricultor-life-v2.webp"},
+     image: "/poi-images/feria-agricultor-life-v2.webp"},
   {
     id: "sarchi-crafts-life-v2",
     type: "landmark",
@@ -136,12 +116,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       ro: ["Care cu boi colorate", "Sculptură în lemn", "Patrimoniu cultural"],
       en: ["Colorful oxcarts", "Wood carving", "Cultural heritage"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Az ökrösszekereket eredetileg kávészállításra használták a hegyekben.", "Minden régiónak megvolt a saját jellegzetes festési stílusa.", "A festékeket régen természetes pigmentekből készítették.", "A városban található gyárak több mint 100 éve üzemelnek.", "Sarchíban készülnek az ország legszebb kézzel faragott hintaszékei is."],
-      ro: ["Carele cu boi au fost folosite inițial pentru transportul cafelei din zonele muntoase.", "Fiecare regiune a țării avea propriul său stil distinctiv de pictură pentru aceste care.", "În trecut, culorile folosite pentru decorare erau preparate din pigmenți naturali.", "Fabricile din oraș funcționează de peste 100 de ani, păstrând metodele tradiționale de lucru.", "Sarchí este renumit și pentru producția celor mai frumoase balansoare sculptate manual din țară."],
-      en: []
-    }, image: "/poi-images/sarchi-crafts-life-v2.webp"},
+     image: "/poi-images/sarchi-crafts-life-v2.webp"},
   {
     id: "marimba-music-life-v2",
     type: "landmark",
@@ -164,12 +139,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       ro: ["Instrument național", "Rădăcini afro-indigene", "Tradiție de fiesta"],
       en: ["National instrument", "Afro-indigenous roots", "Fiesta tradition"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A marimbát általában trópusi keményfából, például cocobolóból készítik.", "A hangszer nevét a nemzeti marimba-nap (november 30.) is őrzi.", "Guanacaste-ben szinte minden iskolában tanítják a marimba-játékot.", "Régen tökök szolgáltak rezonátorként a fa billentyűk alatt.", "A zene gyakran mesél el történeteket a régi cowboyok életéből."],
-      ro: ["Marimba este fabricată de obicei din lemn de esență tare tropicală, cum ar fi cocobolo.", "Numele instrumentului este onorat prin Ziua Națională a Marimbei, sărbătorită pe 30 noiembrie.", "În Guanacaste, tehnica de a cânta la marimba este predată în aproape toate școlile locale.", "În trecut, tărtăcuțele serveau drept rezonatoare sub clapele de lemn ale instrumentului.", "Muzica interpretată la marimba spune adesea povești despre viața vechilor cowboy din regiune."],
-      en: []
-    }, image: "/poi-images/marimba-music-life-v2.webp"},
+     image: "/poi-images/marimba-music-life-v2.webp"},
   {
     id: "sabanero-culture-life-v2",
     type: "landmark",
@@ -192,12 +162,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       ro: ["Cowboy din Guanacaste", "Creșterea vitelor", "Fiestas și rodeouri"],
       en: ["Guanacaste cowboys", "Cattle ranching", "Fiestas and rodeos"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A sabanerók eredetileg a spanyol telepesek és az indiánok leszármazottai.", "A munkájukhoz használt speciális nyereg kényelmes a hosszú napi lovagláshoz.", "Híresek a 'bull riding' (bikagovaglás) tudományukról a helyi rodeókon.", "Libéria városa a sabanero kultúra történelmi központja.", "A sabanero konyha alapja a kukorica és a szárított hús."],
-      ro: ["Sabaneros sunt descendenții coloniștilor spanioli și ai populațiilor indigene locale.", "Șaua specială folosită de aceștia este concepută pentru confort în timpul zilelor lungi de călărie.", "Sunt renumiți pentru abilitățile lor la \\\"bull riding\\\" (călăritul taurilor) în cadrul rodeourilor locale.", "Orașul Liberia este considerat centrul istoric și cultural al tradiției sabanero.", "Bucătăria tradițională sabanero se bazează în principal pe porumb și carne uscată la soare."],
-      en: []
-    }, image: "/poi-images/sabanero-culture-life-v2.webp"},
+     image: "/poi-images/sabanero-culture-life-v2.webp"},
   {
     id: "tortilla-tradition-life-v2",
     type: "agriculture",
@@ -220,12 +185,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       ro: ["Făcut manual", "Tehnică antică", "Bază de porumb"],
       en: ["Handmade", "Ancient technique", "Corn-based"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A jó tortilla titka a megfelelő állagú 'masa' (tészta).", "Guanacaste-ben gyakran adnak hozzá sajtot vagy tejszínt a tésztához.", "A tortilla kísérője szinte minden étkezésnek, a reggelitől a vacsoráig.", "A hagyományos comalokat ma is gyakran kézzel készítik agyagból.", "Sok helyen még mindig fatüzelésű kemencéket használnak a sütéshez."],
-      ro: ["Secretul unei tortille reușite constă în consistența perfectă a aluatului numit \\\"masa\\\".", "În Guanacaste, adesea se adaugă brânză sau smântână direct în aluatul pentru tortilla.", "Tortilla însoțește aproape orice masă a zilei, de la micul dejun până la cină.", "Comalurile tradiționale sunt și astăzi adesea fabricate manual din argilă locală.", "Multe gospodării folosesc încă cuptoare cu lemne pentru a obține gustul autentic al tortillei."],
-      en: []
-    }, image: "/poi-images/tortilla-tradition-life-v2.webp"},
+     image: "/poi-images/tortilla-tradition-life-v2.webp"},
   {
     id: "boruca-masks-life-v2",
     type: "landmark",
@@ -248,12 +208,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       ro: ["Tradiție indigenă", "Lemn de balsa", "Motive naturale"],
       en: ["Indigenous tradition", "Balsa wood", "Nature motifs"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A maszkok festéséhez gyakran természetes eredetű festékeket is használnak.", "Az Ördögök Játéka minden év december végén és január elején zajlik.", "A legkeresettebb maszkok az úgynevezett 'ököl-maszkok' (melyek a hódítókra utalnak).", "A faragást és a festést általában a férfiak végzik a faluban.", "A maszkok szimbolizálják a Boruca nép elpusztíthatatlan szellemét."],
-      ro: ["Pentru pictarea măștilor se folosesc adesea coloranți obținuți din surse naturale din pădure.", "Festivalul \\\"Jocul Drăcușorilor\\\" are loc în fiecare an între sfârșitul lui decembrie și începutul lui ianuarie.", "Cele mai căutate măști sunt cele de tip \\\"ecologice\\\", care integrează elemente detaliate de floră și faună.", "Sculptarea și pictarea măștilor sunt activități realizate de obicei de bărbații din sat.", "Aceste măști simbolizează spiritul indestructibil și identitatea culturală a poporului Boruca."],
-      en: []
-    }, image: "/poi-images/boruca-masks-life-v2.webp"},
+     image: "/poi-images/boruca-masks-life-v2.webp"},
   {
     id: "gallo-pinto-life-v2",
     type: "agriculture",
@@ -276,12 +231,7 @@ export const poiExtraCostaricaLifeV2: POI[] = [
       ro: ["Favorit la micul dejun", "Orez și fasole", "Salsa Lizano"],
       en: ["Breakfast favorite", "Rice and beans", "Salsa Lizano"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Nicaragua és Costa Rica évtizedek óta vitázik azon, honnan származik az étel.", "A Gallo Pinto magas fehérje- és rosttartalma miatt rendkívül laktató.", "A Salsa Lizano egy különleges zöldségmártás, amit 1920-ban alkottak meg.", "Minden régiónak megvan a saját apró változtatása a receptben.", "A 'pöttyös' nevet a fehér rizs és a sötét bab keverékének látványáról kapta."],
-      ro: ["Nicaragua și Costa Rica au o dispută de decenii cu privire la originea exactă a acestui preparat.", "Gallo Pinto este extrem de sățios datorită conținutului ridicat de proteine și fibre.", "Salsa Lizano este un sos special de legume, creat în Costa Rica în anul 1920.", "Fiecare regiune a țării are propria sa mică variație în rețeta tradițională de preparare.", "Numele de \\\"pătat\\\" provine de la aspectul vizual al orezului alb amestecat cu fasolea închisă la culoare."],
-      en: []
-    }, image: "/poi-images/gallo-pinto-life-v2.webp"},
+     image: "/poi-images/gallo-pinto-life-v2.webp"},
   {
     id: "balsa-wood-crafts-life-v2",
     type: "landmark",

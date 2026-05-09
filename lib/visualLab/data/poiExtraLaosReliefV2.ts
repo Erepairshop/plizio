@@ -22,13 +22,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Reaches a peak elevation of exactly 2,819 meters above sea level.", "Situated within the heavily forested region of Xiangkhoang Province.", "Stands as the highest point in the extensive Annamite Mountain Range.", "Civilian access is restricted due to unexploded ordnance from the 1970s.", "Serves as a major natural watershed for northern Laotian river systems.", "Its steep slopes are covered by dense, unexplored tropical rainforests."]
     },
-    factsAdvanced: {
-      ro: ["Atinge o altitudine maximă de 2.819 metri deasupra nivelului mării.", "Este situat în partea de nord a provinciei puternic împădurite Xiangkhoang.", "Reprezintă cel mai înalt vârf din vastul lanț muntos Annamit.", "Accesul este restricționat din cauza munițiilor militare neexplodate din anii 1970.", "Acționează ca un bazin hidrografic major pentru râurile din nordul Laosului.", "Pantele sale sunt acoperite aproape în întregime de păduri tropicale dense."]
-    },
-    factsAdvanced: {
-      de: ["Höhe von 2.819 Metern über dem Meeresspiegel.", "Liegt in der Provinz Xiangkhoang.", "Teil des langgestreckten Annamitengebirges.", "Das Gebiet ist wegen alter Munition gesperrt.", "Dient als wichtige Wasserquelle für Nordlaos.", "Tief in dichtem tropischem Regenwald verborgen."],
-      hu: ["A tengerszint feletti magassága eléri a 2819 métert.", "Xiangkhoang tartomány sűrűn erdősült északi részén fekszik.", "A kiterjedt Annamite-hegységrendszer legkiemelkedőbb tagja.", "A terület a fel nem robbant katonai lőszerek miatt lezárt.", "Észak-Laosz egyik legjelentősebb természetes vízgyűjtő medencéje.", "Környezetét szinte áthatolhatatlan esőerdő és meredek sziklák övezik."]
-    },
+    
+    
     description: {
       de: "Der höchste Berg in Laos, Teil des Annamitengebirges, mit einer Höhe von 2.819 Metern.",
       hu: "Laosz legmagasabb hegye, az Annamite-hegység része, 2819 méter magas.",
@@ -61,13 +56,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Features an average elevation of approximately 1,100 meters.", "Home to the famous Plain of Jars, a UNESCO World Heritage Site.", "Endured massive and devastating bombing campaigns between 1964 and 1973.", "The landscape is characterized by extensive savannas and rolling pine-covered hills.", "Historically functioned as the central hub of the ancient Phuan kingdom.", "Offers a noticeably cooler microclimate compared to the tropical lowlands of Laos."]
     },
-    factsAdvanced: {
-      ro: ["Altitudinea medie a podișului este de aproximativ 1.100 de metri.", "Găzduiește faimoasa Câmpie a Urcioarelor, un sit arheologic din Epoca Fierului.", "A suferit bombardamente masive și devastatoare între 1964 și 1973.", "Peisajul este dominat de savane extinse, dealuri și păduri de pini.", "A fost odată centrul înfloritoarei și străvechii culturi Phuan.", "Clima sa temperată contrastează puternic cu junglele joase din Laos."]
-    },
-    factsAdvanced: {
-      de: ["Durchschnittliche Höhe von rund 1.100 Metern.", "Heimat der prähistorischen Ebene der Tonkrüge.", "Erlebte massive Bombardierungen in den 1960er und 1970er Jahren.", "Landschaft dominiert von Grasland und sanften Hügeln.", "Wichtiges Zentrum der laotischen Phuan-Kultur.", "Bietet ein relativ kühles Mikroklima in Laos."],
-      hu: ["Átlagos tengerszint feletti magassága megközelíti az 1100 métert.", "A rejtélyes Kancsók síkságának otthont adó füves fennsík.", "Az 1960-as és 1970-es években súlyos bombázásokat szenvedett el.", "A tájat dombok, fenyőerdők és kiterjedt szavannák alkotják.", "A laoszi phuan kultúra ősi, meghatározó központja volt.", "Hűvösebb klímája miatt jelentősen eltér Laosz trópusi alföldjeitől."]
-    },
+    
+    
     description: {
       de: "Eine große Hochebene in Nordlaos, bekannt für die Ebene der Tonkrüge, eine archäologische Stätte aus der Eisenzeit.",
       hu: "Nagy kiterjedésű fennsík Észak-Laoszban, amely a vaskori régészeti lelőhelyről, a Kancsók síkságáról ismert.",
@@ -100,13 +90,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Elevation ranges between 1,000 and 1,350 meters above sea level.", "Located primarily within the southern province of Champasak.", "Recognized as the premier coffee-producing region in Laos.", "Features the spectacular Tad Fane waterfall with a 120-meter drop.", "The nutrient-rich soil was formed by prehistoric volcanic eruptions.", "Inhabited by numerous indigenous ethnic groups of the Mon-Khmer family."]
     },
-    factsAdvanced: {
-      ro: ["Altitudinea sa variază între 1.000 și 1.350 de metri deasupra mării.", "Este situat predominant în provincia sudică Champasak.", "Reprezintă regiunea principală de cultivare a cafelei premium din Laos.", "Solul său vulcanic bogat s-a format în urma erupțiilor preistorice.", "Găzduiește spectaculoasa cascadă Tad Fane, care are o cădere de 120 de metri.", "Este locuit istoric de diverse grupuri etnice aparținând familiei Mon-Khmer."]
-    },
-    factsAdvanced: {
-      de: ["Liegt auf einer Höhe von 1.000 bis 1.350 Metern.", "Befindet sich hauptsächlich in der Provinz Champasak.", "Berühmt für spektakuläre Wasserfälle wie Tad Fane.", "Hauptanbaugebiet für den hochwertigen laotischen Kaffee.", "Entstand durch historische vulkanische Aktivitäten.", "Heimat vieler Mon-Khmer-sprechender ethnischer Gruppen."],
-      hu: ["Tengerszint feletti magassága 1000 és 1350 méter között mozog.", "Döntően a déli Champasak tartomány területén helyezkedik el.", "A prémium minőségű laoszi kávé legfőbb termővidéke.", "Ősi vulkáni tevékenység formálta a tápanyagban gazdag talaját.", "A Tad Fane vízesés 120 méteres mélységbe zúdul le itt.", "Több őslakos mon-khmer etnikai kisebbség történelmi lakóhelye."]
-    },
+    
+    
     description: {
       de: "Eine Hochebene in Südslaos, bekannt für ihre malerischen Wasserfälle, üppigen Landschaften und Kaffeeplantagen.",
       hu: "Dél-Laoszban található fennsík, amely festői vízeséseiről, buja tájairól és kávéültetvényeiről ismert.",
@@ -139,13 +124,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the remote northernmost forests of Phongsali Province.", "Forms the centerpiece of the 2,220-square-kilometer Phou Den Din National Park.", "Positioned directly along the rugged, mountainous border with Vietnam.", "Access is almost exclusively achieved via long boat journeys on the Nam Ou River.", "Provides a vital protected habitat for endangered Asian elephants.", "Represents one of the largest continuous tracts of untouched forest in Laos."]
     },
-    factsAdvanced: {
-      ro: ["Se află în pădurile îndepărtate ale provinciei nordice Phongsali.", "Este piesa centrală a Parcului Național Phou Den Din, de 2.220 de kilometri pătrați.", "Este amplasat direct de-a lungul graniței muntoase și accidentate cu Vietnamul.", "Accesul este posibil aproape exclusiv navigând în amonte pe râul Nam Ou.", "Protejează o populație critică de elefanți asiatici și primate rare.", "Reprezintă una dintre cele mai mari zone împădurite continue din țară."]
-    },
-    factsAdvanced: {
-      de: ["Befindet sich in der nördlichsten Provinz Phongsali.", "Teil des 2.220 Quadratkilometer großen Phou Den Din Nationalparks.", "Liegt direkt an der unwegsamen Grenze zu Vietnam.", "Beheimatet seltene Arten wie asiatische Elefanten.", "Nur über den Wasserweg auf dem Fluss Nam Ou erreichbar.", "Eines der größten zusammenhängenden Waldgebiete in Laos."],
-      hu: ["A legészakibb Phongsali tartomány áthatolhatatlan erdeiben található.", "A 2220 négyzetkilométeres Phu Den Din Nemzeti Park része.", "Közvetlenül a vietnámi határ mentén, elzárt területen fekszik.", "Csak a Nam Ou folyón felfelé hajózva közelíthető meg.", "Ázsiai elefántok és ritka főemlősök védett menedékhelye.", "Laosz egyik legnagyobb összefüggő, érintetlen erdőtakarója."]
-    },
+    
+    
     description: {
       de: "Ein Berg im Phou Den Din Nationalpark, einem der entlegensten und am wenigsten erforschten Gebiete in Laos.",
       hu: "Hegy a Phou Den Din Nemzeti Parkban, Laosz egyik legeldugottabb és legkevésbé feltárt területén.",
@@ -178,13 +158,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["The Nam Ou River flows for a total distance of 448 kilometers.", "The valley is flanked by vertical limestone karst formations hundreds of meters high.", "The river meets the Mekong River at the famous Pak Ou Caves.", "Historically served as a crucial aquatic transport route for northern tribes.", "Multiple modern hydroelectric dams have been constructed along the river in recent years.", "Renowned for its extremely narrow and deep limestone gorges."]
     },
-    factsAdvanced: {
-      ro: ["Râul Nam Ou traversează munții pe o distanță impresionantă de 448 de kilometri.", "Valea este flancată de formațiuni carstice de calcar înalte de sute de metri.", "Râul se varsă în fluviul Mekong la faimoasele Peșteri Pak Ou.", "A funcționat istoric ca principală arteră de transport pentru triburile nordice.", "În ultimul deceniu, pe râu au fost construite mai multe baraje moderne.", "Este renumită pentru defileurile sale înguste și peisajele stâncoase spectaculoase."]
-    },
-    factsAdvanced: {
-      de: ["Der Fluss Nam Ou erstreckt sich über 448 Kilometer.", "Das Tal ist berühmt für seine steilen Kalksteinberge.", "Mündet bei den Pak-Ou-Höhlen in den Mekongfluss.", "Traditioneller Transportweg für Bergvölker im Norden.", "In den letzten Jahren wurden mehrere Staudämme gebaut.", "Bekannt für seine extrem tiefe und enge Flussschlucht."],
-      hu: ["A Nam Ou folyó 448 kilométer hosszan szeli át a hegyeket.", "A völgyet több száz méter magas, meredek mészkősziklák övezik.", "A Pak Ou barlangoknál egyesül a hatalmas Mekong folyóval.", "Történelmileg az északi hegyi törzsek fő vízi útvonala volt.", "Az elmúlt évtizedben több modern gát is felépült a folyón.", "Ismert a különlegesen szűk és mély karsztos szurdokairól."]
-    },
+    
+    
     description: {
       de: "Das Tal, das vom Fluss Nam Ou durchzogen wird, einem der wichtigsten Flüsse in Laos, bekannt für seine dramatischen Karstlandschaften.",
       hu: "A Nam Ou folyó által képzett völgy, amely Laosz egyik legfontosabb folyója, drámai karsztos tájairól ismert.",
@@ -217,13 +192,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Reaches a towering maximum elevation of 2,620 meters above sea level.", "Situated in the remote, eastern section of Xiangkhoang Province.", "Revered as a deeply sacred site by local ethnic minority communities.", "The upper slopes are enveloped by thick, humid tropical cloud forests.", "Its extreme isolation makes it highly inaccessible to ordinary visitors.", "Believed to host numerous rare and scientifically undocumented plant species."]
     },
-    factsAdvanced: {
-      ro: ["Se înalță la o altitudine impresionantă de 2.620 de metri deasupra mării.", "Este localizat în partea de est, puternic izolată, a provinciei Xiangkhoang.", "Este venerat ca un loc sacru de către minoritățile etnice din împrejurimi.", "Flancurile sunt acoperite de păduri de ceață tropicale și subtropicale dense.", "Izolarea sa extremă îl face foarte greu accesibil pentru vizitatorii obișnuiți.", "Găzduiește o varietate de specii botanice rare, unele probabil încă neidentificate."]
-    },
-    factsAdvanced: {
-      de: ["Erreicht eine beeindruckende Höhe von etwa 2.620 Metern.", "Befindet sich in der zerklüfteten Provinz Xiangkhoang.", "Gilt als heiliger Ort für lokale ethnische Minderheiten.", "Bedeckt mit dichtem tropischem und subtropischem Nebelwald.", "Extrem abgelegen und schwer für Zivilisten erreichbar.", "Bietet Lebensraum für zahlreiche unentdeckte Pflanzenarten."],
-      hu: ["Impozáns, 2620 méteres magasságba emelkedik a tengerszint fölé.", "Xiangkhoang tartomány keleti, elszigetelt részén helyezkedik el.", "A helyi etnikai kisebbségek szent helyként tisztelik a hegyet.", "Oldalait trópusi és szubtrópusi zárt köderdők borítják.", "A civilizációtól távol eső fekvése miatt nehezen megközelíthető.", "Több, a tudomány számára ismeretlen növényfajnak adhat otthont."]
-    },
+    
+    
     description: {
       de: "Ein markanter Berg in der Provinz Xiangkhoang, der eine wichtige Rolle in der lokalen Kultur und den Glaubensvorstellungen spielt.",
       hu: "Jelentős hegy Xiangkhoang tartományban, amely fontos szerepet játszik a helyi kultúrában és hiedelmekben.",
@@ -257,13 +227,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Hosts the massive Nam Theun 2 hydroelectric project, completed in 2010.", "The resulting artificial reservoir covers an area of 450 square kilometers.", "Serves as a primary habitat for the critically endangered saola antelope.", "Located in the eastern, mountainous part of Khammouane Province.", "Borders the biologically rich Nakai-Nam Theun National Protected Area.", "The majority of the electricity generated here is exported to Thailand."]
     },
-    factsAdvanced: {
-      ro: ["Găzduiește masivul proiect hidroelectric Nam Theun 2, dat în folosință în 2010.", "Noul rezervor acoperă o suprafață impresionantă de aproape 450 de kilometri pătrați.", "Este unul dintre habitatele principale pentru antilopa saola, o specie critic amenințată.", "Podișul se află în partea de est a provinciei centrale Khammouane.", "Se învecinează cu Zona Națională Protejată Nakai-Nam Theun, extrem de bogată biologic.", "Majoritatea energiei electrice generate aici este exportată către Thailanda vecină."]
-    },
-    factsAdvanced: {
-      de: ["Heimat des Nam Theun 2 Wasserkraftwerks, fertiggestellt 2010.", "Der Stausee bedeckt etwa 450 Quadratkilometer der Hochebene.", "Wichtigster Lebensraum für das extrem seltene Saola-Rind.", "Befindet sich in der zentralen laotischen Provinz Khammouane.", "Umfasst das Nakai-Nam Theun Nationale Schutzgebiet.", "Spielt eine Schlüsselrolle in der Stromversorgung für Thailand."],
-      hu: ["A 2010-ben átadott Nam Theun 2 vízerőmű központi területe.", "Az újonnan kialakított víztározó közel 450 négyzetkilométert fed le.", "A kritikusan veszélyeztetett szaola antilop fő élőhelye.", "Khammouane tartomány keleti, hegyvidéki részén található.", "A plató a Nam Theun Nemzeti Védett Terület határán fekszik.", "Az itt termelt áram jelentős részét Thaiföldre exportálják."]
-    },
+    
+    
     description: {
       de: "Eine Hochebene in Zentrallaos, die Teil des Nam Theun 2 Wasserkraftprojekts ist, was zur Entstehung eines großen Stausees führte.",
       hu: "Fennsík Közép-Laoszban, a Nam Theun 2 vízerőmű-projekt része, amely egy nagy víztározó létrehozásához vezetett.",
@@ -296,13 +261,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["The pass reaches an elevation of approximately 1,300 meters above sea level.", "Serves as a crucial link between Luang Prabang, Vientiane, and Xiangkhoang.", "Forms one of the most challenging sections of historical National Route 13.", "Notorious among drivers for its dense fog and extreme hairpin turns.", "Acts as an important commercial hub for local Hmong mountain tribes.", "Provides expansive, panoramic views of the surrounding limestone mountain ranges."]
     },
-    factsAdvanced: {
-      ro: ["Altitudinea pasului atinge aproximativ 1.300 de metri deasupra nivelului mării.", "Conectează direct provinciile importante Luang Prabang, Vientiane și Xiangkhoang.", "Este una dintre cele mai dificile secțiuni ale istoricului Drum Național 13.", "Cunoscut printre șoferi pentru ceața deasă și curbele sale periculoase.", "Servește ca punct comercial crucial pentru triburile Hmong din munții înconjurători.", "Oferă o vedere panoramică vastă asupra lanțurilor muntoase calcaroase din regiune."]
-    },
-    factsAdvanced: {
-      de: ["Liegt auf einer Höhe von etwa 1.300 Metern über dem Meer.", "Verbindet die Provinzen Vientiane, Luang Prabang und Xiangkhoang.", "Ein wichtiger Knotenpunkt auf der historischen Nationalstraße 13.", "Berühmt für dichten Nebel und extreme Haarnadelkurven.", "Dient als Handelsroute für die in den Bergen lebenden Hmong.", "Bietet weitreichende Panoramablicke über die laotischen Alpen."],
-      hu: ["Körülbelül 1300 méteres tengerszint feletti magasságban kanyarog.", "Luang Prabang, Vientiane és Xiangkhoang tartományokat köti össze.", "A történelmi 13-as számú főút egyik legkritikusabb szakasza.", "Gyakori köd és extrém éles hajtűkanyarok jellemzik a szakaszt.", "Kereskedelmi csomópont a környező hegyvidéki hmong törzseknek.", "Panorámás kilátást nyújt a laoszi mészkőhegységek láncolataira."]
-    },
+    
+    
     description: {
       de: "Ein strategischer Gebirgspass, der die Provinzen Luang Prabang und Vientiane verbindet und oft als Tor zum Norden bezeichnet wird.",
       hu: "Stratégiai hegyi hágó, amely összeköti Luang Prabang és Vientiane tartományokat, gyakran az észak kapujaként emlegetik.",
@@ -335,13 +295,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Forms the core of the 2,224-square-kilometer Nam Ha National Park.", "The Nam Ha River flowing through the valley is a major tributary of the Mekong.", "Officially recognized as a prestigious ASEAN Heritage Park.", "Pioneered community-led ecotourism models in Southeast Asia during the 1990s.", "Provides critical habitat for endangered Asian predators and rare macaques.", "Dozens of traditional indigenous villages are situated along the riverbanks."]
     },
-    factsAdvanced: {
-      ro: ["Reprezintă inima Parcului Național Nam Ha, care se întinde pe 2.224 kilometri pătrați.", "Râul Nam Ha care traversează valea este un afluent major al Mekongului.", "A fost recunoscut oficial ca un Parc de Patrimoniu al Națiunilor ASEAN.", "Este o regiune pionieră în Asia de Sud-Est pentru ecoturismul condus de comunitate.", "Oferă adăpost unor prădători asiatici periclițați și primate extrem de rare.", "Zeci de sate indigene tradiționale sunt așezate de-a lungul malurilor înguste ale râului."]
-    },
-    factsAdvanced: {
-      de: ["Kerngebiet des 2.224 Quadratkilometer großen Nam Ha Nationalparks.", "Der Fluss Nam Ha ist ein wichtiger Nebenfluss des Mekong.", "Anerkannt als bedeutender ASEAN-Kulturerbe-Park.", "Vorreiterregion für von der Gemeinschaft geführten Ökotourismus.", "Beheimatet seltene asiatische Raubtiere und Primatenarten.", "Zahlreiche indigene Dörfer befinden sich entlang der Flussufer."],
-      hu: ["A 2224 négyzetkilométeres Nam Ha Nemzeti Park szíve.", "A völgyet átszelő Nam Ha folyó a Mekong fontos mellékága.", "Az ASEAN országok kiemelt természeti örökségi parkjává nyilvánították.", "Délkelet-Ázsia egyik úttörő közösségi ökoturisztikai régiója.", "Veszélyeztetett ázsiai ragadozóknak és ritka főemlősöknek ad otthont.", "Több tucat őslakos falu épült a folyó menti keskeny sávokra."]
-    },
+    
+    
     description: {
       de: "Ein Tal im Nam Ha Nationalpark, einem ASEAN-Kulturerbe-Park, der für sein Ökotourismus-Programm bekannt ist.",
       hu: "Völgy a Nam Ha Nemzeti Parkban, amely egy ASEAN Örökség Park, és az ökoturisztikai programjáról ismert.",
@@ -374,13 +329,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Part of the extensive southern section of the Annamite Mountain Range.", "Situated in the heavily forested, remote region of Attapeu Province.", "Forms a natural, rugged geographical border with neighboring Vietnam.", "Vegetation consists primarily of extremely dense, evergreen tropical rainforests.", "Concealed important military logistical routes during the wars of the 20th century.", "Remains one of the least biologically explored areas in southern Laos."]
     },
-    factsAdvanced: {
-      ro: ["Face parte din secțiunea extinsă de sud a masivului lanț muntos Annamit.", "Este situat în regiunea izolată și împădurită a provinciei sud-estice Attapeu.", "Formează o graniță geografică naturală, aspră și greu de traversat, cu Vietnamul.", "Vegetația este dominată de păduri tropicale tropicale veșnic verzi, extrem de dense.", "A ascuns rute militare logistice esențiale în timpul războaielor din secolul XX.", "Rămâne una dintre cele mai puțin explorate zone din punct de vedere biologic din sudul Laosului."]
-    },
-    factsAdvanced: {
-      de: ["Teil des südlichen Abschnitts des Annamitengebirges.", "Liegt in der südöstlichen Provinz Attapeu.", "Bildet eine natürliche geografische Grenze zu Vietnam.", "Die Flora besteht hauptsächlich aus dichtem tropischem Regenwald.", "Historisch wichtig für Transportrouten im 20. Jahrhundert.", "Einer der am wenigsten erforschten Berge in Südslaos."],
-      hu: ["Az Annamite-hegységlánc kiterjedt déli szakaszának része.", "A délkeleti Attapeu tartomány elzárt, sűrűn erdősült régiójában magasodik.", "Természetes és nehezen átjárható földrajzi határt képez Vietnammal.", "A növényzetet dominánsan az örökzöld trópusi esőerdők alkotják.", "A 20. századi háborúk során rejtett katonai útvonalak keresztezték.", "Dél-Laosz egyik biológiailag legkevésbé feltérképezett területe."]
-    },
+    
+    
     description: {
       de: "Ein Berg in der Provinz Attapeu in Südslaos, nahe der Grenze zu Vietnam.",
       hu: "Hegy Attapeu tartományban, Dél-Laoszban, közel a vietnámi határhoz.",
@@ -413,13 +363,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Comprises over 90 distinct archaeological sites spread across the plateau.", "The largest and most massive stone jars weigh an astonishing 14 tons.", "Dated to the Iron Age, spanning roughly from 500 BCE to 500 CE.", "Officially designated as a UNESCO World Heritage Site in 2019.", "Believed to have been used in complex ancient mortuary practices.", "The area suffered immense devastation from aerial bombings in the 1960s and 1970s."]
     },
-    factsAdvanced: {
-      ro: ["Situl cuprinde peste 90 de locații arheologice distincte răspândite pe platou.", "Cele mai masive urcioare de piatră cântăresc un impresionant 14 tone.", "Vechimea lor este datată în Epoca Fierului, între anii 500 î.Hr. și 500 d.Hr.", "A fost înscris oficial în Patrimoniul Mondial UNESCO în anul 2019.", "Au fost probabil utilizate pentru practici mortuare antice și complexe.", "Platoul a suferit bombardamente aeriene masive în anii 1960 și 1970."]
-    },
-    factsAdvanced: {
-      de: ["Umfasst mehr als 90 verschiedene Fundstellen auf der Hochebene.", "Die größten Krüge wiegen bis zu 14 Tonnen.", "Datierung der Krüge reicht in die Eisenzeit (500 v. Chr. bis 500 n. Chr.).", "Wurde 2019 zum UNESCO-Weltkulturerbe ernannt.", "Vermutlich für antike Bestattungspraktiken genutzt.", "Das Gebiet wurde im Vietnamkrieg intensiv bombardiert."],
-      hu: ["Több mint 90 különálló kőkancsós régészeti lelőhelyből áll.", "A legmasszívabb kőedények súlya eléri a lenyűgöző 14 tonnát.", "Az edények kora a vaskorra (i. e. 500 – i. sz. 500) tehető.", "A terület 2019-ben elnyerte az UNESCO Világörökség címet.", "Feltehetően ősi, komplex temetkezési szertartásokhoz használták őket.", "A fennsíkot a vietnámi háború alatt rendkívül hevesen bombázták."]
-    },
+    
+    
     description: {
       de: "Eine Gruppe von Tausenden von steinernen Krügen, die über die Xiangkhoang-Hochebene verstreut sind und zum UNESCO-Weltkulturerbe gehören.",
       hu: "Több ezer kőkorsóból álló csoport, amely a Xiangkhoang-fennsíkon szétszórva található, és az UNESCO Világörökség része.",
@@ -452,13 +397,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Average elevation frequently exceeds 1,500 meters above sea level.", "Shares a long and winding international border with China's Yunnan Province.", "Famous for its ancient pu-erh tea trees, some reaching 400 years of age.", "Home to more than 20 distinct Sino-Tibetan ethnic minority groups.", "The mountain climate is significantly cooler and rainier than the rest of Laos.", "Accessible almost exclusively via steep, winding alpine serpentine roads."]
     },
-    factsAdvanced: {
-      ro: ["Altitudinea medie depășește frecvent 1.500 de metri deasupra nivelului mării.", "Împarte o graniță lungă și sinuoasă cu provincia chineză Yunnan.", "Este faimoasă pentru arborii săi de ceai pu-erh care pot atinge 400 de ani.", "Adăpostește mai mult de 20 de grupuri etnice sino-tibetane distincte.", "Clima montană este considerabil mai rece și ploioasă decât în restul Laosului.", "Este accesibilă aproape exclusiv prin drumuri alpine abrupte și pline de serpentine."]
-    },
-    factsAdvanced: {
-      de: ["Liegt auf durchschnittlich über 1.500 Metern Höhe.", "Teilt direkte Grenzen mit der chinesischen Provinz Yunnan.", "Berühmt für den Anbau von hochwertigem, altem Pu-Erh-Tee.", "Beheimatet mehr als 20 verschiedene sino-tibetische Minderheiten.", "Das Klima ist deutlich kühler als im Rest von Laos.", "Erreichbar über kurvenreiche, steile Bergstraßen."],
-      hu: ["Átlagos magassága meghaladja az 1500 métert a tengerszint felett.", "Közvetlen és hosszú határszakaszon osztozik a kínai Yunnan tartománnyal.", "Híres az ősi, akár 400 éves pu-erh teafáiról és teatermesztéséről.", "Több mint 20 különböző sino-tibeti etnikai kisebbség lakóhelye.", "Éghajlata sokkal hűvösebb és csapadékosabb, mint Laosz többi részén.", "Kizárólag meredek, nehezen járható szerpentinutakon közelíthető meg."]
-    },
+    
+    
     description: {
       de: "Eine bergige Region in der nördlichsten Provinz von Laos, bekannt für ihre ethnische Vielfalt und Teeplantagen.",
       hu: "Hegyvidéki régió Laosz legészakibb tartományában, amely etnikai sokszínűségéről és teaültetvényeiről ismert.",
@@ -492,13 +432,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Sculpted by fertile alluvium deposited by the Mekong River over millennia.", "Represents the most extensive and productive rice-growing region in Laos.", "The nation's capital, Vientiane, is situated directly in the heart of this plain.", "The valley naturally and politically defines the border between Laos and Thailand.", "Plays a critical role in the country's irrigation-based agricultural economy.", "Connected to Thailand via the First Thai-Lao Friendship Bridge."]
     },
-    factsAdvanced: {
-      ro: ["A fost sculptată de aluviunile fertile depuse de fluviul Mekong de-a lungul mileniilor.", "Reprezintă cea mai productivă și extinsă regiune de cultivare a orezului din Laos.", "Capitala țării, Vientiane, este construită chiar în inima acestei câmpii întinse.", "Valea definește în mod natural și politic granița de stat dintre Laos și Thailanda.", "Joacă un rol esențial în agricultura bazată pe irigații a națiunii.", "Podul Prieteniei Thai-Lao face legătura vitală între cele două maluri."]
-    },
-    factsAdvanced: {
-      de: ["Geformt durch die Sedimente des mächtigen Mekongflusses.", "Das bedeutendste landwirtschaftliche Anbaugebiet des Landes.", "Die Hauptstadt Vientiane liegt direkt in dieser weiten Ebene.", "Bildet die offizielle Landesgrenze zwischen Laos und Thailand.", "Besonders wichtig für den Nassreisanbau in der Region.", "Verbunden mit Thailand durch die Erste Thailändisch-Laotische Freundschaftsbrücke."],
-      hu: ["A Mekong folyó évezredes, tápanyagban gazdag hordaléka hozta létre.", "Laosz legkiterjedtebb és legtermékenyebb rizstermelő vidéke.", "A főváros, Vientiane közvetlenül ennek a széles síkságnak a szívében épült.", "A folyóvölgy képezi a hivatalos határvonalat Laosz és Thaiföld között.", "Kritikus szerepet játszik a régió intenzív árasztásos rizstermesztésében.", "Az Első Thai–Lao Barátság Hídja köti össze a túlparttal."]
-    },
+    
+    
     description: {
       de: "Die weite Schwemmlandebene, die die Hauptstadt Vientiane umgibt und durch den Mekong-Fluss geformt wurde.",
       hu: "A Vientiane fővárost körülvevő, a Mekong folyó által formált széles ártéri síkság.",
@@ -531,13 +466,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Composed primarily of massively eroded, ancient limestone formations.", "Home to the famous Kong Lor Cave, a 7-kilometer navigable underground cavity.", "Forms the geological core of the Phou Hin Poun National Protected Area.", "The isolated habitat supports highly specialized, endemic karst-dwelling species.", "The dramatic topography was carved by water erosion over millions of years.", "Attracts thousands of passionate speleologists and rock climbers annually."]
     },
-    factsAdvanced: {
-      ro: ["Peisajul este compus în principal din formațiuni antice de calcar masiv erodat.", "Găzduiește faimoasa Peșteră Kong Lor, o cavitate navigabilă de 7 kilometri.", "Constituie nucleul geologic al Zonei Naționale Protejate Phou Hin Poun.", "Habitatul izolat sprijină specii endemice unice, specializate pentru viața în carst.", "Relieful a fost modelat de forțele puternice ale eroziunii apei de-a lungul a milioane de ani.", "Atrage anual mii de speologi pasionați și alpiniști profesioniști din întreaga lume."]
-    },
-    factsAdvanced: {
-      de: ["Besteht vorwiegend aus alten, verwitterten Kalksteinformationen.", "Heimat der 7 Kilometer langen schiffbaren Kong-Lor-Höhle.", "Zentrum des Nationalen Schutzgebiets Phou Hin Poun.", "Beheimatet spezialisierte, endemische Karst-Tierarten.", "Entstand durch jahrtausendelange Erosion durch Wasser.", "Zieht Höhlenforscher und Kletterer aus aller Welt an."],
-      hu: ["A formációkat ősi, erodált mészkőoszlopok és hegygerincek alkotják.", "A lenyűgöző, 7 kilométer hosszú, hajózható Kong Lor-barlang otthona.", "A Phou Hin Poun Nemzeti Védett Terület geológiai magja.", "Számos extrém ritka, kifejezetten karsztos környezethez alkalmazkodott faj él itt.", "Évmilliók folyamatos víz általi eróziója alakította ki mai formáját.", "A barlangászok és sziklamászók egyik legkedveltebb célpontja a régióban."]
-    },
+    
+    
     description: {
       de: "Eine riesige Region mit Kalksteinbergen, die von unzähligen Höhlen durchzogen ist, einschließlich der Kong-Lor-Höhle.",
       hu: "Hatalmas mészkőhegységi régió, amelyet számtalan barlang szel át, köztük a Kong Lor-barlang.",
@@ -570,13 +500,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Rises in the town of Huay Xai, positioned within the famous Golden Triangle.", "The summit features Wat Chomkhaou Manilat, a historic temple built in 1880.", "Serves as the primary spiritual gathering place for the local Buddhist community.", "Offers clear, panoramic views across the Mekong River to the Thai shoreline.", "Accessible via a steep stairway guarded by traditional, sculpted Naga serpents.", "Highly popular among tourists and locals as a prime sunset viewing location."]
     },
-    factsAdvanced: {
-      ro: ["Se înalță în orașul Huay Xai, chiar în inima faimosului Triunghi de Aur.", "Vârful găzduiește templul budist istoric Wat Chomkhaou Manilat, construit în anul 1880.", "Reprezintă un centru principal de adunare spirituală pentru comunitatea religioasă locală.", "Oferă priveliști clare, panoramice, asupra fluviului Mekong și a malului thailandez.", "Este accesibil printr-o scară tradițională împodobită cu dragoni sacri Naga.", "Este o destinație turistică extrem de populară pentru observarea apusurilor de soare."]
-    },
-    factsAdvanced: {
-      de: ["Befindet sich in Huay Xai im berühmten Goldenen Dreieck.", "Auf dem Gipfel steht der historische Stupa Wat Chomkhaou Manilat.", "Der Tempel auf dem Berg wurde im Jahr 1880 erbaut.", "Bietet eine weite Aussicht auf den Mekong und das thäländische Ufer.", "Erreichbar über eine charakteristische Naga-Treppe.", "Ein zentraler Ort für lokale buddhistische Zeremonien."],
-      hu: ["Huay Xai városában, a hírhedt Aranyháromszög szívében magasodik.", "Csúcsán az 1880-ban épült Wat Chomkhaou Manilat templom található.", "Központi vallási és kulturális gyülekezőhely a helyi buddhisták számára.", "Lenyűgöző, akadálytalan kilátást nyújt a Mekongra és a thaiföldi partokra.", "Egy hagyományos, díszes Naga-sárkányokkal szegélyezett lépcsőn közelíthető meg.", "Népszerű turistacélpont a naplementék megtekintésére."]
-    },
+    
+    
     description: {
       de: "Ein kleiner Berg in der Provinz Bokeo, der für den goldenen Stupa auf seinem Gipfel bekannt ist und einen Panoramablick auf die Umgebung bietet.",
       hu: "Kis hegy Bokeo tartományban, amely a csúcsán lévő arany sztúpáról ismert, és panorámás kilátást nyújt a környékre.",
@@ -609,13 +534,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["The only province in Laos located completely on the western side of the Mekong.", "Shelters approximately 75 percent of the country's entire Asian elephant population.", "Home to the internationally recognized and pioneering Elephant Conservation Center.", "Historically renowned for its immense and highly valuable reserves of teak timber.", "Shares a land border of over 600 kilometers with neighboring Thailand.", "The local highland economy relies heavily on steep, terraced agricultural practices."]
     },
-    factsAdvanced: {
-      ro: ["Este singura provincie din Laos complet izolată la vest de fluviul Mekong.", "Adăpostește aproximativ 75% din populația totală de elefanți asiatici a țării.", "Este sediul internațional recunoscut al Centrului de Conservare a Elefanților.", "A fost renumită din punct de vedere istoric pentru rezervele imense de lemn de tec.", "Împarte o graniță terestră de peste 600 de kilometri cu țara vecină, Thailanda.", "Economia locală din zonele de deal depinde masiv de agricultura pe terase."]
-    },
-    factsAdvanced: {
-      de: ["Einzige laotische Provinz, die vollständig westlich des Mekongs liegt.", "Hauptlebensraum für etwa 75 % der laotischen Elefantenpopulation.", "Heimat des bekannten Elephant Conservation Centers.", "Früher berühmt für seinen immensen Reichtum an Teakholzwäldern.", "Teilt eine über 600 Kilometer lange Grenze mit Thailand.", "Die hügelige Landschaft ist stark von Landwirtschaft geprägt."],
-      hu: ["Az egyetlen laoszi tartomány, amely teljes egészében a Mekongtól nyugatra fekszik.", "A laoszi ázsiai elefántpopuláció mintegy 75 százalékának otthona.", "A nemzetközileg elismert Elefántmegőrzési Központ működési területe.", "Történelmileg híres volt a rendkívül értékes tíkfaerdőiről.", "Több mint 600 kilométer hosszan osztozik a határon Thaifölddel.", "A dombvidéki lakosság nagyrészt teraszos földművelésből él."]
-    },
+    
+    
     description: {
       de: "Eine bergige Region westlich des Mekong, die für das Elefantenschutz-Zentrum und ihre reiche Teakholzwälder bekannt ist.",
       hu: "Hegyvidéki régió a Mekongtól nyugatra, amely az Elefántmegőrzési Központról és gazdag tíkfaerdeiről ismert.",
@@ -648,13 +568,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Formed by the completion of the massive Nam Ngum hydroelectric dam in 1971.", "The total water surface covers a vast area of approximately 250 square kilometers.", "Classified as the largest continuous body of water within the borders of Laos.", "The landscape features hundreds of small islands, which are former hilltops.", "A crucial center for hydroelectric power generation for both Laos and Thailand.", "Supports a vital commercial freshwater fishing industry and local weekend tourism."]
     },
-    factsAdvanced: {
-      ro: ["Lacul a fost format prin finalizarea barajului masiv Nam Ngum în anul 1971.", "Suprafața totală a apei acoperă o arie vastă de aproximativ 250 de kilometri pătrați.", "Este clasificat ca cel mai mare corp de apă continuu din interiorul Laosului.", "Peisajul este marcat de sute de insulițe, care sunt de fapt fostele vârfuri de deal.", "Reprezintă un centru crucial de producție hidroelectrică pentru Laos și Thailanda.", "Susține o industrie importantă a pescuitului de apă dulce și turismul de weekend."]
-    },
-    factsAdvanced: {
-      de: ["Entstand durch den Bau des Nam-Ngum-Staudamms im Jahr 1971.", "Das Reservoir bedeckt eine Fläche von etwa 250 Quadratkilometern.", "Gilt als das größte Gewässer innerhalb der laotischen Grenzen.", "Beinhaltet hunderte kleiner Inseln, die ehemalige Hügelspitzen sind.", "Wichtiger Lieferant von Wasserkraft für Laos und Thailand.", "Ein bedeutendes Zentrum für die laotische Süßwasserfischerei."],
-      hu: ["A hatalmas Nam Ngum-gát 1971-es megépítésével jött létre.", "A tó vízfelszíne megközelítőleg 250 négyzetkilométert foglal el.", "Laosz legnagyobb területű, egybefüggő állóvizeként tartják számon.", "Több száz apró sziget tagolja, amelyek eredetileg magas hegycsúcsok voltak.", "Kiemelkedően fontos vízenergia-termelő központ Laosz és Thaiföld számára.", "Az édesvízi halászat és a hétvégi turizmus egyik legfőbb bázisa."]
-    },
+    
+    
     description: {
       de: "Ein weitläufiges Tal, das durch den Bau des Nam-Ngum-Staudamms überflutet wurde und Hunderte von Inseln schuf.",
       hu: "Kiterjedt völgy, amelyet a Nam Ngum-gát megépítésekor elárasztottak, több száz szigetet hozva létre.",
@@ -687,13 +602,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Extends for a colossal distance of over 1,100 kilometers along the eastern border.", "Often referred to by local populations and historians as the Truong Son Mountains.", "Home to Mount Phou Bia, the highest geographical point in all of Laos.", "Recognized globally as one of the richest ecosystems for undiscovered mammal species.", "Served as a crucial, hidden logistical corridor for the Ho Chi Minh Trail.", "Massively covered by incredibly dense, humid tropical monsoon rainforests."]
     },
-    factsAdvanced: {
-      ro: ["Se întinde pe o distanță colosală de peste 1.100 de kilometri de-a lungul graniței estice.", "Este adesea menționată de populația locală sub denumirea de Munții Truong Son.", "Găzduiește Muntele Phou Bia, cel mai înalt punct geografic din întregul Laos.", "Reprezintă unul dintre cele mai bogate ecosisteme de pe glob în specii nedescoperite.", "A fost un coridor logistic crucial de-a lungul potecii Ho Chi Minh în timpul războiului.", "Este acoperită masiv de păduri musonice tropicale extrem de dense și umede."]
-    },
-    factsAdvanced: {
-      de: ["Erstreckt sich über 1.100 Kilometer entlang der Ostgrenze von Laos.", "Lokal unter dem Namen Truong-Son-Gebirgskette bekannt.", "Der höchste laotische Gipfel, Phou Bia, ist Teil dieser Kette.", "Einer der weltweit wichtigsten Hotspots für unentdeckte Arten.", "Diente während des Vietnamkriegs als Pfad für den Ho-Chi-Minh-Pfad.", "Geprägt von extrem feuchtem, dichtem Monsunwald."],
-      hu: ["Több mint 1100 kilométer hosszan ível Laosz keleti határvonala mentén.", "A helyiek gyakran Truong Son-hegység néven említik.", "Itt emelkedik a Phu Bia, amely az egész ország legmagasabb pontja.", "A Föld egyik legfontosabb, máig felfedezetlen fajokat rejtő ökoszisztémája.", "A vietnámi háború alatt a titkos Ho Si Minh-ösvény kulcsfontosságú szakasza volt.", "Szinte kizárólag sűrű, csapadékos trópusi monszunerdő borítja."]
-    },
+    
+    
     description: {
       de: "Eine große Gebirgskette, die einen Großteil der Grenze zwischen Laos und Vietnam bildet und eine wichtige ökologische Region ist.",
       hu: "Nagy hegylánc, amely Laosz és Vietnam határának nagy részét képezi, és fontos ökológiai régió.",
@@ -726,13 +636,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Functions as a major hydrographic barrier between the Mekong and Nan river systems.", "Extends from northern Thailand deep into the northwestern territories of Laos.", "Geologically composed primarily of hard granite and ancient sandstone layers.", "The highest peaks in the range reach a maximum elevation of 2,079 meters.", "Heavily forested with valuable teak trees and tropical dry broadleaf vegetation.", "The mountain range derives its name from the nearby historic royal city of Luang Prabang."]
     },
-    factsAdvanced: {
-      ro: ["Funcționează ca o barieră hidrografică importantă între sistemele Mekong și Nan.", "Se extinde din nordul Thailandei adânc în teritoriile nord-vestice ale Laosului.", "Sunt compuși din punct de vedere geologic în principal din granit dur și gresie veche.", "Vârfurile cele mai înalte ajung până la altitudinea maximă de 2.079 metri.", "Sunt puternic împăduriți cu arbori de tec valoroși și păduri tropicale uscate.", "Lanțul își trage numele de la vechiul oraș regal și istoric din apropiere, Luang Prabang."]
-    },
-    factsAdvanced: {
-      de: ["Fungiert als natürliche Wasserscheide zwischen Mekong und Nan-Fluss.", "Erstreckt sich von der thäländischen Grenze weit nach Nordlaos.", "Besteht vorwiegend aus Granit und altem Sandstein.", "Die Gipfel erreichen Höhen von bis zu 2.079 Metern.", "Stark von tropischen Trockenwäldern und Teakbäumen bewachsen.", "Benannt nach der historischen laotischen Königsstadt in der Nähe."],
-      hu: ["Fontos geológiai vízválasztó a Mekong és a Nan folyó rendszerei között.", "A thaiföldi határtól mélyen benyúlik Laosz északnyugati vidékeire.", "Kőzetanyagát nagyrészt ősi gránit- és homokkőformációk alkotják.", "Legmagasabb ormai elérik a 2079 méteres tengerszint feletti magasságot.", "Meredek oldalait értékes tíkfák és trópusi lombhullató erdők borítják.", "Nevét a közeli ősi királyi városról, Luang Prabangról kapta."]
-    },
+    
+    
     description: {
       de: "Eine Gebirgskette, die sich von Nordthailand bis nach Westlaos erstreckt und die Wasserscheide zwischen dem Mekong und dem Nan-Fluss bildet.",
       hu: "Hegylánc, amely Észak-Thaiföldtől Nyugat-Laoszig terjed, és vízválasztót képez a Mekong és a Nan folyó között.",
@@ -766,13 +671,8 @@ export const poiExtraLaosReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Its central peak reaches an imposing altitude of approximately 2,256 meters.", "Forms the centerpiece of the vast 5,959-square-kilometer national park.", "In the local dialect, the massif's name literally translates to 'Evergreen Mountain'.", "Serves as one of the last secure refuges for wild Indochinese tigers.", "Completely blanketed by extremely dense, humid tropical montane cloud forests.", "Represents the essential catchment basin for the Nam Et and Nam Khan rivers."]
     },
-    factsAdvanced: {
-      ro: ["Vârful său central atinge o altitudine impunătoare de aproximativ 2.256 de metri.", "Formează piesa centrală a parcului național cu o suprafață vastă de 5.959 kilometri pătrați.", "În limbajul local, numele masivului înseamnă literal \"Muntele Veșnic Verde\".", "Servește ca unul dintre ultimele refugii sigure pentru tigrii sălbatici din Indochina.", "Este complet acoperit de păduri montane tropicale și umede, extrem de dese.", "Reprezintă bazinul de colectare esențial pentru afluenții râurilor Nam Et și Nam Khan."]
-    },
-    factsAdvanced: {
-      de: ["Gipfel erreicht eine Höhe von etwa 2.256 Metern.", "Kerngebiet des 5.959 Quadratkilometer großen Nationalparks.", "Bedeutet in der lokalen Sprache wörtlich \"Immergrüner Berg\".", "Letztes großes Rückzugsgebiet für wilde Tiger in Indochina.", "Von extrem dichten, feuchten Bergregenwäldern bedeckt.", "Quellgebiet für viele Nebenflüsse des Nam Et und Nam Khan."],
-      hu: ["A központi csúcs magassága megközelíti a 2256 métert.", "Az 5959 négyzetkilométeres nemzeti park domináns, központi hegyvonulata.", "A helyi nyelvjárásban a neve szó szerint \"Örökzöld Hegyet\" jelent.", "Indokína egyik utolsó menedéke a vadon élő tigrisek és párducok számára.", "Állandóan nedves, trópusi hegyi köderdők sűrű hálózata fedi.", "A környező völgyekbe futó Nam Et és Nam Khan folyók vízgyűjtője."]
-    },
+    
+    
     description: {
       de: "Ein Bergmassiv im Nam Et-Phou Louey Nationalpark, einem der größten Naturschutzgebiete in Laos.",
       hu: "Hegymasszívum a Nam Et-Phou Louey Nemzeti Parkban, Laosz egyik legnagyobb természetvédelmi területén.",

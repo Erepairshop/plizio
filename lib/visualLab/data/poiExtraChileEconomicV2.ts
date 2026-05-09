@@ -27,38 +27,8 @@ export const poiExtraChileEconomicV2: POI[] = [
       ro: "Un port maritim important din nordul statului Chile, esențial pentru zona de liber schimb ZOFRI.",
       en: "A major seaport in northern Chile, essential for the ZOFRI free trade zone."
     },
-    descriptionAdvanced: {
-      de: "Der Hafen von Iquique fungiert als zentrales Logistikzentrum in Nordchile. Er ist untrennbar mit der Freihandelszone ZOFRI verbunden, die den gesamten nordchilenischen Handel maßgeblich beeinflusst. Die infrastrukturelle Anbindung an internationale Schifffahrtsrouten macht diesen Standort zu einem kritischen Element für den Import und Export in den Andenregionen. Geografie K7 — Regionale Logistik und Wirtschaftsgeografie.",
-      hu: "Az iquiquei kikötő központi logisztikai központként szolgál Észak-Chilében. Elválaszthatatlanul kapcsolódik a ZOFRI szabadkereskedelmi övezethez, amely jelentősen befolyásolja az egész észak-chilei kereskedelmet. A nemzetközi hajózási útvonalakhoz való infrastrukturális összeköttetés kritikus elemmé teszi ezt a helyszínt az Andok régióiba irányuló import és export tekintetében. Földrajz K7 — Regionális logisztika és gazdaságföldrajz.",
-      ro: "Portul Iquique reprezintă un centru logistic vital situat în nordul Chile, având un impact semnificativ asupra economiei regionale. Acesta este strâns legat de zona de liber schimb ZOFRI, facilitând schimburile comerciale internaționale și servind drept poartă de acces pentru mărfurile din regiunile andine. Prin infrastructura sa modernă, portul asigură conexiuni eficiente cu rutele maritime globale, fiind un motor de dezvoltare economică locală. Specialiștii subliniază importanța sa strategică în optimizarea fluxurilor logistice între Chile și piețele externe. Geografie K7 — Logistica regională și geografia economică.",
-      en: "The Port of Iquique serves as a central logistics hub in Northern Chile. It is inextricably linked to the ZOFRI free trade zone, which significantly influences trade across the entire northern region. Its infrastructural connection to international shipping routes makes this location a critical element for import and export in the Andean regions. Geography K7 — Regional logistics and economic geography."
-    },
-    factsAdvanced: {
-      de: [
-        "Wichtigstes Drehkreuz der ZOFRI-Freihandelszone im Norden.",
-        "Essentieller Knotenpunkt für den internationalen Warenhandel in Chile.",
-        "Strategisch günstig gelegene Infrastruktur an der pazifischen Küste.",
-        "Spielte eine Schlüsselrolle bei der wirtschaftlichen Entwicklung der Region Tarapacá."
-      ],
-      hu: [
-        "A ZOFRI szabadkereskedelmi zóna legfontosabb központja északon.",
-        "Elengedhetetlen csomópont Chile nemzetközi árukereskedelmében.",
-        "Stratégiailag előnyös infrastruktúra a Csendes-óceán partján.",
-        "Kulcsszerepet játszott Tarapacá régió gazdasági fejlődésében."
-      ],
-      ro: [
-        "Principalul nod logistic al zonei de liber schimb ZOFRI în nordul Chile.",
-        "Punct esențial pentru tranzitul comercial internațional în regiune.",
-        "Infrastructură maritimă situată strategic pe coasta Oceanului Pacific.",
-        "Un element fundamental pentru dezvoltarea economică a regiunii Tarapacá."
-      ],
-      en: [
-        "Primary logistics hub for the ZOFRI free trade zone in the north.",
-        "Essential transit point for international trade in Chile.",
-        "Strategically located maritime infrastructure on the Pacific coast.",
-        "Key driver for economic development in the Tarapacá region."
-      ]
-    },
+    
+    
     facts: {
       de: [
         "Zentrum der ZOFRI-Freihandelszone.",
@@ -103,38 +73,8 @@ export const poiExtraChileEconomicV2: POI[] = [
       ro: "Cea mai mare facilitate portuară din regiunea Biobío, specializată în silvicultură și containere.",
       en: "The largest port facility in the Biobío Region, specializing in forestry and container cargo."
     },
-    descriptionAdvanced: {
-      de: "Als größte Hafeneinrichtung der Region Biobío ist der Hafen von Coronel ein technologisches Aushängeschild der chilenischen Logistikbranche. Er spielt eine entscheidende Rolle beim Export der für die Region typischen Forstwirtschaftsprodukte und fungiert als moderner Containerumschlagplatz, der tiefgreifende Auswirkungen auf die lokale Wertschöpfungskette und den internationalen Handel hat. Geografie K7 — Regionale Wirtschaftskreisläufe.",
-      hu: "A Biobío régió legnagyobb kikötői létesítményeként a Coronel kikötő a chilei logisztikai ipar technológiai büszkesége. Döntő szerepet játszik a régióra jellemző erdészeti termékek exportjában, és modern konténerrakodóként funkcionál, amely mélyreható hatással van a helyi értékláncra és a nemzetközi kereskedelemre. Földrajz K7 — Regionális gazdasági körforgások.",
-      ro: "Portul Coronel reprezintă cea mai importantă facilitate portuară din regiunea Biobío, fiind un simbol al tehnologiei avansate în logistica chiliană. Acesta joacă un rol crucial în exportul produselor forestiere, care constituie baza economiei locale, și servește drept terminal modern pentru traficul de containere. Impactul său asupra lanțului valoric regional este major, stimulând dezvoltarea economică și comerțul internațional prin eficiență. Infrastructura sa de ultimă generație permite gestionarea unor volume semnificative de mărfuri, consolidându-și poziția de hub strategic. Geografie K7 — Circuite economice regionale.",
-      en: "The Port of Coronel is the largest facility in the Biobío region and a technological beacon for Chile's logistics sector. It plays a crucial role in exporting the forestry products characteristic of the region and functions as a modern container terminal, having profound impacts on the local value chain and international trade. Geography K7 — Regional economic circuits."
-    },
-    factsAdvanced: {
-      de: [
-        "Technologisch fortschrittlichste Hafenanlage in der Biobío-Region.",
-        "Hauptumschlagplatz für regionale Forstwirtschaftsexporte.",
-        "Bedeutender Arbeitgeber und Wirtschaftsmotor für die Stadt Coronel.",
-        "Effiziente Infrastruktur für den modernen Containerverkehr."
-      ],
-      hu: [
-        "Technológiailag a legfejlettebb kikötői létesítmény a Biobío régióban.",
-        "A regionális erdészeti export fő átrakodóhelye.",
-        "Jelentős munkaadó és gazdasági motor Coronel városának.",
-        "Hatékony infrastruktúra a modern konténerforgalom számára."
-      ],
-      ro: [
-        "Cea mai avansată facilitate portuară tehnologic din regiunea Biobío.",
-        "Principal terminal pentru exporturile regionale de produse forestiere.",
-        "Angajator major și motor economic pentru orașul Coronel.",
-        "Infrastructură eficientă pentru traficul modern de containere."
-      ],
-      en: [
-        "Technologically advanced port facility in the Biobío region.",
-        "Main terminal for regional forestry exports.",
-        "Major employer and economic engine for Coronel city.",
-        "Efficient infrastructure for modern container traffic."
-      ]
-    },
+    
+    
     facts: {
       de: [
         "Größter Hafen der Region Biobío.",
@@ -178,38 +118,8 @@ export const poiExtraChileEconomicV2: POI[] = [
       ro: "Un port privat major din regiunea Biobío, care manipulează în principal produse forestiere.",
       en: "A major private port in the Biobío Region, mainly handling forest products."
     },
-    descriptionAdvanced: {
-      de: "Der Hafen Lirquén ist eine bedeutende private Hafenanlage, die strategisch in der Bucht von Concepción liegt. Er dient als essenzielle Schnittstelle für die chilenische Holzindustrie, indem er effiziente Logistiklösungen für den Export von Zellstoff und forstwirtschaftlichen Erzeugnissen bereitstellt und somit direkt zum nationalen Wirtschaftswachstum beiträgt. Wirtschaftskunde K7 — Industrielle Exportwege.",
-      hu: "A Lirquén kikötő egy jelentős magánkikötő, amely stratégiailag a Concepción-öbölben helyezkedik el. A chilei faipar nélkülözhetetlen csomópontjaként hatékony logisztikai megoldásokat kínál a cellulóz és erdészeti termékek exportjához, ezáltal közvetlenül hozzájárulva a nemzeti gazdasági növekedéshez. Gazdaságtan K7 — Ipari exportútvonalak.",
-      ro: "Portul Lirquén constituie o facilitate privată majoră situată strategic în Golful Concepción, fiind esențial pentru infrastructura logistică a Chile. Acesta funcționează ca un punct de legătură critic pentru industria lemnului, oferind soluții avansate pentru exportul de celuloză și produse forestiere către piețele externe. Contribuția sa la creșterea economică națională este semnificativă, facilitând fluxuri comerciale constante și eficiente. Prin investiții continue în capacitățile de operare, portul își menține relevanța ca terminal specializat pentru exporturile regionale. Economie K7 — Rutele exportului industrial.",
-      en: "The Port of Lirquén is a major private facility strategically located in the Bay of Concepción. It serves as an essential interface for the Chilean timber industry, providing efficient logistics solutions for the export of pulp and forest products, thereby directly contributing to national economic growth. Economics K7 — Industrial export routes."
-    },
-    factsAdvanced: {
-      de: [
-        "Wichtiger privater Terminal in der Bucht von Concepción.",
-        "Spezialisierter Umschlagplatz für die chilenische Holz- und Zellstoffindustrie.",
-        "Starke infrastrukturelle Bedeutung für die regionale Exportwirtschaft.",
-        "Kontinuierliche Modernisierung der Anlege- und Ladekapazitäten."
-      ],
-      hu: [
-        "Fontos magánterminál a Concepción-öbölben.",
-        "Szakosodott átrakóhely a chilei fa- és cellulózipar számára.",
-        "Erős infrastrukturális jelentőség a regionális exportgazdaságban.",
-        "A kikötési és rakodási kapacitások folyamatos modernizálása."
-      ],
-      ro: [
-        "Important terminal privat situat în Golful Concepción.",
-        "Facilitate specializată pentru industria chiliană a lemnului și celulozei.",
-        "Semnificație structurală majoră pentru exporturile regionale.",
-        "Modernizare continuă a capacităților de operare și încărcare."
-      ],
-      en: [
-        "Important private terminal in the Bay of Concepción.",
-        "Specialized facility for the Chilean wood and pulp industry.",
-        "Major structural significance for regional exports.",
-        "Continuous modernization of berthing and loading capacities."
-      ]
-    },
+    
+    
     facts: {
       de: [
         "Befindet sich in der Bucht von Concepción.",
@@ -253,38 +163,8 @@ export const poiExtraChileEconomicV2: POI[] = [
       ro: "Un important port comercial din Talcahuano, conectat la centrul industrial regional.",
       en: "An important commercial port in Talcahuano, connected to the regional industrial hub."
     },
-    descriptionAdvanced: {
-      de: "Der Hafen von San Vicente ist ein unverzichtbarer Bestandteil des Hafenkomplexes von Talcahuano. Durch seine tiefen Anlegeplätze bietet er die notwendige Kapazität für große Handelsschiffe, was ihn zu einem zentralen Knotenpunkt für den Industrie- und Güterverkehr in der Region Biobío und für die gesamte chilenische Wirtschaft macht. Geografie K7 — Industrielle Infrastruktur.",
-      hu: "A San Vicente kikötő a talcahuanói kikötőkomplexum elengedhetetlen része. Mélyvízi kikötőhelyeivel biztosítja a szükséges kapacitást a nagy kereskedelmi hajók számára, így a Biobío régió és az egész chilei gazdaság ipari és áruforgalmának központi csomópontjává válik. Földrajz K7 — Ipari infrastruktúra.",
-      ro: "Portul San Vicente reprezintă o componentă vitală a complexului portuar Talcahuano, jucând un rol esențial în infrastructura industrială a Chile. Datorită danei sale de mare adâncime, acesta poate opera nave comerciale de dimensiuni mari, devenind un punct nodal pentru traficul de mărfuri și industrial în regiunea Biobío. Importanța sa economică este majoră, facilitând conexiuni eficiente între centrul industrial regional și piețele internaționale. Geografie K7 — Infrastructură industrială.",
-      en: "The Port of San Vicente is a vital component of the Talcahuano port complex, playing an essential role in Chile's industrial infrastructure. Thanks to its deep-water berth, it can handle large commercial vessels, becoming a nodal point for freight and industrial traffic in the Biobío region. Its economic importance is major, facilitating efficient connections between the regional industrial center and international markets. Geography K7 — Industrial infrastructure."
-    },
-    factsAdvanced: {
-      de: [
-        "Zentraler Handelshafen innerhalb des Talcahuano-Hafenkomplexes.",
-        "Bedeutender Umschlagplatz für diverse Industrie- und Rohstoffgüter.",
-        "Durch leistungsstarke Transportverbindungen direkt in das industrielle Umfeld integriert.",
-        "Verfügt über moderne Terminaleinrichtungen für tiefgehende Handelsschiffe."
-      ],
-      hu: [
-        "Központi kereskedelmi kikötő a talcahuanói kikötőkomplexumon belül.",
-        "Jelentős átrakóhely különféle ipari és nyersanyagok számára.",
-        "Erőteljes szállítási kapcsolatok révén közvetlenül integrálva az ipari környezetbe.",
-        "Modern terminállétesítményekkel rendelkezik mélyvízi kereskedelmi hajók számára."
-      ],
-      ro: [
-        "Port comercial central în cadrul complexului portuar Talcahuano.",
-        "Facilitate majoră de tranzit pentru diverse bunuri industriale și materii prime.",
-        "Integrat direct în ecosistemul industrial local prin conexiuni logistice eficiente.",
-        "Dispune de terminale moderne potrivite pentru nave comerciale de mare tonaj."
-      ],
-      en: [
-        "Central commercial port within the Talcahuano port complex.",
-        "Major transit facility for various industrial and raw goods.",
-        "Directly integrated into the local industrial ecosystem through efficient logistics.",
-        "Features modern terminal facilities for large commercial vessels."
-      ]
-    },
+    
+    
     facts: {
       de: [
         "Teil des Hafenkomplexes von Talcahuano.",
@@ -328,38 +208,8 @@ export const poiExtraChileEconomicV2: POI[] = [
       ro: "Un port major pentru mărfuri în vrac în regiunea Valparaíso, asociat cu industria grea locală.",
       en: "A major bulk cargo port in the Valparaíso Region, associated with local heavy industries."
     },
-    descriptionAdvanced: {
-      de: "Der Hafen von Ventanas in der Region Valparaíso ist auf den Umgang mit Schüttgut spezialisiert und bildet das logistische Rückgrat für die dort ansässige Schwerindustrie. Seine strategische Lage ermöglicht eine effiziente Anbindung an Produktionsstätten, was ihn zu einem zentralen Akteur innerhalb der chilenischen Industrielandschaft macht. Geografie K7 — Rohstofflogistik.",
-      hu: "A Valparaíso régióban található Ventanas kikötő az ömlesztett áruk kezelésére specializálódott, és a helyi nehézipar logisztikai gerincét alkotja. Stratégiai elhelyezkedése lehetővé teszi a termelési létesítményekkel való hatékony összeköttetést, ami központi szereplővé teszi a chilei ipari tájképen belül. Földrajz K7 — Nyersanyag-logisztika.",
-      ro: "Portul Ventanas, situat în regiunea Valparaíso, este specializat în gestionarea mărfurilor în vrac, constituind pilonul logistic pentru industria grea locală. Poziția sa strategică asigură o legătură eficientă cu unitățile de producție din zonă, facilitând fluxurile esențiale de materii prime necesare sectorului industrial chilian. Portul joacă un rol determinant în activitatea economică regională, optimizând operațiunile de import și export. Fiind un nod central în peisajul industrial, acesta susține operațiunile complexe ale fabricilor din Puchuncaví. Geografie K7 — Logistica materiilor prime.",
-      en: "The Port of Ventanas in the Valparaíso region specializes in bulk cargo handling and forms the logistical backbone for the local heavy industry. Its strategic location allows for efficient connectivity to production facilities, making it a key player in the Chilean industrial landscape. Geography K7 — Raw material logistics."
-    },
-    factsAdvanced: {
-      de: [
-        "Spezialisierter Hafen für den effizienten Umgang mit Schüttgut.",
-        "Direkte logistische Verbindung zur Schwerindustrie in der Region Valparaíso.",
-        "Wichtiger Umschlagpunkt für Rohstoffe in Zentralchile.",
-        "Zentraler Bestandteil der industriellen Infrastruktur in Puchuncaví."
-      ],
-      hu: [
-        "Szakosodott kikötő az ömlesztett áruk hatékony kezelésére.",
-        "Közvetlen logisztikai összeköttetés a Valparaíso régió nehéziparával.",
-        "Fontos átrakodási pont a nyersanyagok számára Közép-Chilében.",
-        "A puchuncavíi ipari infrastruktúra központi eleme."
-      ],
-      ro: [
-        "Facilitate portuară specializată pentru manipularea eficientă a mărfurilor în vrac.",
-        "Legătură logistică directă cu industria grea din regiunea Valparaíso.",
-        "Punct critic de tranzit pentru materii prime în centrul statului Chile.",
-        "Element central al infrastructurii industriale din zona Puchuncaví."
-      ],
-      en: [
-        "Specialized port for efficient bulk cargo handling.",
-        "Direct logistical link to heavy industry in the Valparaíso region.",
-        "Important transit point for raw materials in Central Chile.",
-        "Central component of the industrial infrastructure in Puchuncaví."
-      ]
-    },
+    
+    
     facts: {
       de: [
         "Wichtiger Hafen für Schüttgut.",

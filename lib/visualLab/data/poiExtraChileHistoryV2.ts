@@ -25,18 +25,8 @@ export const poiExtraChileHistoryV2: POI[] = [
       ro: "Un oraș minier abandonat din deșertul Atacama, care a înflorit în timpul boom-ului salpetrului din secolul al XIX-lea.",
       en: "An abandoned mining town in the Atacama Desert that flourished during the 19th-century saltpeter boom."
     },
-    descriptionAdvanced: {
-      de: "Humberstone ist ein beeindruckendes Zeugnis des chilenischen Salpeter-Booms. Die Geisterstadt in der Atacama-Wüste zeigt die harte Realität der Berarbeiter im 19. Jahrhundert und bietet heute einen einzigartigen Einblick in die industrielle Architektur und das soziale Leben jener Zeit. Als UNESCO-Weltkulturerbe ist sie von unschätzbarem Wert für das Verständnis der regionalen Wirtschaftsgeschichte.",
-      hu: "Humberstone a chilei salétrom-láz korszakának legjelentősebb mementója az Atacama-sivatag szívében. Az egykori bányaváros ma kísértetvárosként funkcionál, ahol az UNESCO Világörökség részeként megmaradt épületek hűen tükrözik a 19. századi ipari építészetet és a bányászok kőkemény életkörülményeit. A település virágkora az 1870-es évektől az 1930-as évekig tartott, amikor a \\\"fehér arany\\\" néven ismert salétrom Chile gazdaságának motorja volt. Ma a turisták bejárhatják az egykori színházat, a templomot és a bányászlakásokat. Történelem K8 – Az ipari forradalom hatásai Dél-Amerikában.",
-      ro: "Humberstone reprezintă o mărturie impresionantă a perioadei de glorie a exploatării salpetrului în Chile, situată în inima deșertului Atacama. Acest oraș-fantomă, astăzi sit al Patrimoniului Mondial UNESCO, oferă o privire fascinantă asupra arhitecturii industriale din secolul al XIX-lea și a realităților dure ale vieții de miner. În perioada sa de apogeu, între 1870 și 1930, salpetrul, supranumit \\\"aurul alb\\\", a fost motorul principal al economiei chiliene. Vizitatorii pot explora astăzi teatrul, biserica și locuințele muncitorilor, care par înghețate în timp datorită climatului arid. Este un punct esențial pentru înțelegerea revoluției industriale în America de Sud. Istorie K8 — Impactul Revoluției Industriale în America de Sud.",
-      en: "Humberstone stands as a remarkable testament to Chile's saltpeter boom era in the heart of the Atacama Desert. Now a ghost town and UNESCO World Heritage site, its preserved buildings offer a vivid glimpse into 19th-century industrial architecture and the harsh realities of mining life. The town's heyday lasted from the 1870s to the 1930s, when saltpeter, known as 'white gold,' was the engine of the Chilean economy. History K8 — Impact of the Industrial Revolution in South America."
-    },
-    factsAdvanced: {
-      de: ["UNESCO-Welterbestätte als Symbol des Salpeter-Zeitalters.", "Ehemals florierendes Zentrum der chilenischen Salpetergewinnung.", "Dokumentation extremer Lebensbedingungen und industrieller Entwicklung.", "Einblicke in die Architektur und den sozialen Alltag des 19. Jahrhunderts."],
-      hu: ["UNESCO Világörökségi helyszín 2005 óta", "A 19. századi salétrom-kitermelés egyik legfontosabb központja volt", "A sivatagi klíma kiválóan konzerválta az épületeket", "A településen egykor több ezer bányász és családja élt"],
-      ro: ["Sit al Patrimoniului Mondial UNESCO din anul 2005.", "A fost unul dintre cele mai mari centre de extracție a salpetrului.", "Climatul deșertic a conservat excelent structurile din lemn și metal.", "Orașul găzduia mii de muncitori și familiile lor în perioada de boom."],
-      en: ["UNESCO World Heritage site since 2005.", "One of the most important centers of 19th-century saltpeter extraction.", "The desert climate has excellently preserved the buildings.", "The settlement was once home to thousands of miners and their families."]
-    },
+    
+    
     facts: {
       de: ["Es ist ein UNESCO-Weltkulturerbe.", "Die Arbeiter lebten unter extrem harten Bedingungen."],
       hu: ["Az UNESCO Világörökség része.", "A munkások rendkívül zord körülmények között éltek."],
@@ -66,18 +56,8 @@ export const poiExtraChileHistoryV2: POI[] = [
       ro: "Un oraș minier istoric de cupru, construit pe pante abrupte în Anzi, fără străzi pentru mașini.",
       en: "A historic copper mining town built on steep slopes in the Andes with no roads for cars."
     },
-    descriptionAdvanced: {
-      de: "Sewell, auch bekannt als die 'Stadt der Treppen', ist eine architektonische Besonderheit in den chilenischen Anden. Die Kupferminenstadt wurde ohne Straßen für Autos konzipiert und an die steilen Hänge geschmiegt. Als historisches Zeugnis für den Aufbau von Bergbau-Infrastruktur unter extremen topografischen Bedingungen ist Sewell ein einzigartiger Ort, der die Geschichte der Kupferproduktion in Chile lebendig hält.",
-      hu: "Sewell, amelyet gyakran a \\\"lépcsők városának\\\" neveznek, egyedülálló építészeti jelenség a chilei Andok meredek hegyoldalain. Az El Teniente rézbánya munkásai számára alapított város érdekessége, hogy egyetlen autóút sem szeli át; a közlekedés kizárólag lépcsőkön és gyalogutakon történik. A település 2000 méter feletti magasságban fekszik, és fénykorában több mint 15 000 lakosa volt. Színes faházai és különleges városszerkezete miatt 2006 óta az UNESCO Világörökség része. Történelem K8 – Ipari társadalmak és hegyi építészet.",
-      ro: "Sewell, supranumit adesea \\\"Orașul Scărilor\\\", este un fenomen arhitectural unic situat pe pantele abrupte ale munților Anzi, la peste 2.000 de metri altitudine. Fondat în 1905 pentru muncitorii minei de cupru El Teniente, orașul este celebru pentru absența totală a drumurilor auto, transportul realizându-se exclusiv pe mii de trepte și poteci pietonale. Designul său urban vibrant, cu clădiri din lemn viu colorate, reflectă o organizare socială și industrială excepțională pentru epoca sa. La apogeu, Sewell a găzduit peste 15.000 de locuitori, fiind o metropolă montană izolată. Din 2006, este inclus în lista Patrimoniului Mondial UNESCO ca exemplu remarcabil de oraș minier industrial. Istorie K8 — Societăți industriale și arhitectură montană.",
-      en: "Sewell, often called the 'City of Stairs,' is a unique architectural phenomenon nestled on the steep slopes of the Chilean Andes. Founded for the workers of the El Teniente copper mine, the town is notable for having no roads for cars; transport is exclusively via stairs and footpaths. Located at over 2,000 meters altitude, it housed over 15,000 residents at its peak. Its colorful wooden houses and peculiar urban design have made it a UNESCO World Heritage site since 2006. History K8 — Industrial societies and mountain architecture."
-    },
-    factsAdvanced: {
-      de: ["Architektonisch einmalige Bergbaustadt in den Anden.", "Komplett ohne Straßennetz für Autoverkehr konzipiert.", "Historisch bedeutendes Zeugnis der frühen chilenischen Kupferindustrie.", "Bekannt für die typische terrassenartige Bauweise an steilen Hängen."],
-      hu: ["Nincsenek autóutak, csak gyalogos lépcsők", "2130 méteres tengerszint feletti magasságban fekszik", "Az El Teniente, a világ legnagyobb földalatti rézbányája mellett épült", "UNESCO Világörökségi helyszín 2006-tól"],
-      ro: ["Nu există străzi pentru mașini, doar scări pentru pietoni.", "Situat la o altitudine de aproximativ 2.130 de metri.", "A servit drept reședință pentru muncitorii celei mai mari mine subterane de cupru din lume.", "Înscris în Patrimoniul Mondial UNESCO în anul 2006."],
-      en: ["No roads for cars, only pedestrian stairs.", "Located at an altitude of 2,130 meters.", "Built next to El Teniente, the world's largest underground copper mine.", "UNESCO World Heritage site since 2006."]
-    },
+    
+    
     facts: {
       de: ["Wurde 1905 gegründet.", "Bekannt als die Stadt der Treppen."],
       hu: ["1905-ben alapították.", "A lépcsők városaként ismert."],
@@ -107,18 +87,8 @@ export const poiExtraChileHistoryV2: POI[] = [
       ro: "O fortăreață de piatră precolumbiană din nordul statului Chile, construită de atacameños pentru a-și proteja oaza.",
       en: "A pre-Columbian stone fortress in northern Chile built by the Atacameño people to protect their oasis."
     },
-    descriptionAdvanced: {
-      de: "Pukará de Quitor ist ein bedeutendes Zeugnis vorkolumbianischer Baukunst und Verteidigungsstrategie in der Atacama-Wüste. Von den Atacameños errichtet, diente diese Steinfestung zum Schutz ihrer lebenswichtigen Oasen. Sie ist ein zentraler historischer Ort, der Einblicke in die soziale und militärische Organisation der indigenen Völker sowie in ihre Auseinandersetzungen mit der spanischen Eroberung gewährt.",
-      hu: "Pukará de Quitor egy lenyűgöző, 12. századi indián erőd San Pedro de Atacama közelében. A domboldalba épített teraszos kőfalak az atacameño nép védelmi stratégiáját dicsérik, akik innen ellenőrizték az oázist és a környező kereskedelmi útvonalakalat. Az erőd híres az 1540-es ostromról, amikor a spanyol hódítók Pedro de Valdivia vezetésével megtámadták és végül elfoglalták a védőktől. A helyszín ma fontos régészeti terület, ahonnan pazar kilátás nyílik a sivatagi völgyre. Történelem K8 – Prekolumbián civilizációk és a hódítás kora.",
-      ro: "Pukará de Quitor este o fortăreață indigenă impresionantă din secolul al XII-lea, situată în apropiere de San Pedro de Atacama. Zidurile sale de piatră terasate, construite direct în coasta dealului, reflectă strategiile defensive avansate ale poporului Atacameño, care folosea acest loc pentru a supraveghea oaza și rutele comerciale vitale. Cetatea este celebră pentru asediul din 1540, când cuceritorii spanioli conduși de Pedro de Valdivia au atacat și în cele din urmă au capturat-o după o rezistență acerbă. Astăzi, este un sit arheologic major care oferă o perspectivă panoramică asupra Văii de Marte și a deșertului înconjurător. Istorie K8 — Civilizații precolumbiene și era cuceririi.",
-      en: "Pukará de Quitor is an impressive 12th-century indigenous fortress near San Pedro de Atacama. Its terraced stone walls, built into the hillside, reflect the defensive strategies of the Atacameño people, who used it to oversee the oasis and surrounding trade routes. The fortress is famous for the 1540 siege, where Spanish conquerors led by Pedro de Valdivia attacked and eventually captured it. Today, it's an important archaeological site offering panoramic views of the desert valley. History K8 — Pre-Columbian civilizations and the era of conquest."
-    },
-    factsAdvanced: {
-      de: ["Vorkolumbianische Festung der Atacameño-Kultur.", "Strategisch wichtige Verteidigungsanlage zum Schutz der Oasen.", "Historisch bedeutender Ort der Auseinandersetzung mit der spanischen Eroberung.", "Einblicke in die komplexe soziale Organisation indigener Kulturen."],
-      hu: ["Több mint 700 éve épült", "Kőből készült védőfalak és lakóépületek maradványai", "Stratégiai pont a San Pedro-folyó völgyében", "1982-ben nemzeti műemlékké nyilvánították"],
-      ro: ["Construită acum mai bine de 700 de ani.", "Prezintă resturi de ziduri defensive și locuințe circulare din piatră.", "Punct strategic situat în valea râului San Pedro.", "Declarată Monument Național al statului Chile în 1982."],
-      en: ["Built over 700 years ago.", "Remains of stone defensive walls and residential buildings.", "Strategic point in the San Pedro River valley.", "Declared a national monument in 1982."]
-    },
+    
+    
     facts: {
       de: ["Die Festung stammt aus dem 12. Jahrhundert.", "Sie war Schauplatz einer Schlacht gegen die Spanier."],
       hu: ["Az erőd a 12. századból származik.", "A spanyolok elleni csata helyszíne volt."],

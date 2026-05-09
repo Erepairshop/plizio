@@ -201,46 +201,8 @@ export const poiExtraGabonHistoryV2: POI[] = [
       ro: ["Fondat în 1843", "Originea numelui orașului", "Fost post militar", "Poziție strategică pe coastă"],
       en: ["Founded in 1843", "Origin of the city's name", "Former military outpost", "Strategic coastal location"]
     },
-    descriptionAdvanced: {
-          "de": "Das Fort d'Aumale wurde 1843 als erster französischer Militärstützpunkt in Gabun errichtet und bildet den historischen Kern des heutigen Libreville. Dieser strategische Standort sicherte den französischen Einfluss an der Küste und diente als Ausgangspunkt für die Handelsbeziehungen mit den lokalen Stämmen. Für K7-Schüler bietet die Analyse dieses Forts ein klares Verständnis für die koloniale Expansion und ihre Auswirkungen auf die Stadtentwicklung von Libreville.",
-          "hu": "A Fort d'Aumale-t 1843-ban alapították, mint az első francia katonai támaszpontot Gabonban, és ez alkotja a mai Libreville történelmi magját. Ez a stratégiai pont biztosította a francia befolyást a tengerparton, és kiindulópontként szolgált a helyi törzsekkel folytatott kereskedelmi kapcsolatokhoz. A K7-es diákok számára ennek az erődnek az elemzése világosan szemlélteti a gyarmati terjeszkedést és annak hatásait Libreville városfejlődésére.",
-          "ro": "Fortul d'Aumale a fost construit în 1843 ca prima bază militară franceză din Gabon și formează nucleul istoric al orașului Libreville de astăzi. Acest punct strategic a securizat influența franceză pe coastă și a servit ca punct de plecare pentru relațiile comerciale cu triburile locale. Pentru elevii de K7, analiza acestui fort oferă o înțelegere clară a expansiunii coloniale și a impactului acesteia asupra dezvoltării orașului Libreville.",
-          "en": "Fort d'Aumale was built in 1843 as the first French military base in Gabon and forms the historical core of modern-day Libreville. This strategic location secured French influence on the coast and served as a starting point for trade relations with local tribes. For K7 students, the analysis of this fort provides a clear understanding of colonial expansion and its impact on the urban development of Libreville."
-    },
-    factsAdvanced: {
-              "de": [
-                      "Gründungsjahr 1843",
-                      "Historischer Kern von Libreville",
-                      "Strategischer Militärstützpunkt",
-                      "Symbol für koloniale Expansion",
-                      "Namensgeber für die Region",
-                      "Ehemalige Küstenbefestigung"
-              ],
-              "hu": [
-                      "Alapítás éve 1843",
-                      "Libreville történelmi magja",
-                      "Stratégiai katonai támaszpont",
-                      "Gyarmati terjeszkedés szimbóluma",
-                      "A régió névadója",
-                      "Egykori part menti erődítmény"
-              ],
-              "ro": [
-                      "Anul fondării 1843",
-                      "Nucleul istoric din Libreville",
-                      "Bază militară strategică",
-                      "Simbol al expansiunii coloniale",
-                      "Originea numelui regiunii",
-                      "Fostă fortificație costieră"
-              ],
-              "en": [
-                      "Founded in 1843",
-                      "Historical core of Libreville",
-                      "Strategic military base",
-                      "Symbol of colonial expansion",
-                      "Origin of the region's name",
-                      "Former coastal fortification"
-              ]
-      }, image: "/poi-images/fort-aumale-history-v2.webp"},
+    
+     image: "/poi-images/fort-aumale-history-v2.webp"},
   {
     id: "donguila-mission-history-v2",
     type: "historical",
@@ -266,46 +228,8 @@ export const poiExtraGabonHistoryV2: POI[] = [
       ro: ["Fondată în secolul al XIX-lea", "Vedere spre estuar", "Internat istoric", "Arhitectură colonială"],
       en: ["Founded in the 19th century", "Overlooks the estuary", "Historic boarding school", "Colonial architecture"]
     },
-    descriptionAdvanced: {
-          "de": "Die Mission von Donguila am Ufer des Komo-Flusses zählt zu den ältesten christlichen Außenposten Gabuns. Gegründet im 19. Jahrhundert, fungierte sie nicht nur als religiöses Zentrum, sondern auch als wichtiger Bildungsort durch das angeschlossene Internat. Die dort erhaltene koloniale Architektur bietet Schülern der Stufe K6 einen authentischen Einblick in die Bildungsgeschichte und den Einfluss der Missionierung auf die regionale Gesellschaft im 19. Jahrhundert.",
-          "hu": "A Komo folyó mentén található Donguila misszió Gabon egyik legrégebbi keresztény külbirtoka. A 19. században alapított intézmény nemcsak vallási központként, hanem az internátus révén fontos oktatási helyszínként is funkcionált. A megőrzött gyarmati építészet a K6-os szintű diákoknak nyújt hiteles betekintést az oktatástörténetbe és a misszió hatásába a 19. századi regionális társadalomra.",
-          "ro": "Misiunea din Donguila, de pe malul râului Komo, este una dintre cele mai vechi avanposturi creștine din Gabon. Fondată în secolul al XIX-lea, a funcționat nu doar ca centru religios, ci și ca loc important de educație prin internatul atașat. Arhitectura colonială păstrată oferă elevilor de nivel K6 o privire autentică asupra istoriei educației și a influenței misionarismului asupra societății regionale din secolul al XIX-lea.",
-          "en": "The Donguila Mission on the banks of the Komo River is one of the oldest Christian outposts in Gabon. Founded in the 19th century, it served not only as a religious center but also as an important educational site through its boarding school. The preserved colonial architecture provides K6-level students with an authentic insight into the history of education and the influence of missionary work on regional society in the 19th century."
-    },
-    factsAdvanced: {
-              "de": [
-                      "Gründung im 19. Jahrhundert",
-                      "Wichtiger Bildungsstandort",
-                      "Historisches Internat",
-                      "Lage am Komo-Fluss",
-                      "Erhaltener kolonialer Stil",
-                      "Symbol für Missionierung"
-              ],
-              "hu": [
-                      "Alapítás a 19. században",
-                      "Fontos oktatási helyszín",
-                      "Történelmi internátus",
-                      "A Komo folyó mentén",
-                      "Megőrzött gyarmati stílus",
-                      "A missziós munka szimbóluma"
-              ],
-              "ro": [
-                      "Fondată în secolul al XIX-lea",
-                      "Locație educațională importantă",
-                      "Internat istoric",
-                      "Situată pe râul Komo",
-                      "Stil colonial păstrat",
-                      "Simbol al misionarismului"
-              ],
-              "en": [
-                      "Founded in the 19th century",
-                      "Important educational location",
-                      "Historic boarding school",
-                      "Located on the Komo River",
-                      "Preserved colonial style",
-                      "Symbol of missionary work"
-              ]
-      }, image: "/poi-images/donguila-mission-history-v2.webp"},
+    
+     image: "/poi-images/donguila-mission-history-v2.webp"},
   {
     id: "cap-lopez-slave-port-history-v2",
     type: "historical",

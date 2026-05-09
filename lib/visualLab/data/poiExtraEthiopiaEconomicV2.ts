@@ -32,18 +32,8 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       ro: ["Deschis în anul 2016.", "Creează peste 30.000 de locuri de muncă."],
       en: ["Opened in 2016.", "Creates over 30,000 jobs."]
     },
-    descriptionAdvanced: {
-      de: "Der Industriepark Hawassa, 2016 eröffnet, gilt als Leuchtturmprojekt der äthiopischen Industrialisierung. Mit einer Fläche von etwa 140 Hektar bietet er modernste Infrastruktur für Textilproduzenten, die unter anderem für Marken wie PVH (Calvin Klein, Tommy Hilfiger) fertigen. Er spielt eine zentrale Rolle in der Strategie, Äthiopien als globales Textilzentrum zu etablieren. Fächerübergreifend: Wirtschaftswissenschaften K8 — globale Lieferketten.",
-      hu: "A 2016-ban átadott Hawassa Ipari Park az etióp iparosítás zászlóshajója. A kb. 140 hektáros területen modern infrastruktúra várja a textilgyártókat, akik olyan nemzetközi márkák beszállítói, mint a PVH (Calvin Klein, Tommy Hilfiger). A park központi szerepet játszik az ország azon stratégiájában, hogy globális textilipari központtá váljon. Tantárgykapcsolat: Közgazdaságtan K8 — globális ellátási láncok.",
-      ro: "Parcul Industrial Hawassa, deschis în 2016, este considerat proiectul emblematic al industrializării etiopiene. Pe o suprafaÈâۼă de circa 140 de hectare, acesta oferă infrastructură modernă pentru producătorii de textile, care lucrează pentru branduri precum PVH (Calvin Klein, Tommy Hilfiger). Joacă un rol crucial în strategia Etiopiei de a deveni un hub textil global. Interdisciplinar: Economie K8 — lanÈâۼuri de aprovizionare globale.",
-      en: "Opened in 2016, Hawassa Industrial Park is the flagship of Ethiopia's industrialization strategy. Spanning approximately 140 hectares, it provides state-of-the-art infrastructure for textile manufacturers who produce for global brands like PVH (Calvin Klein, Tommy Hilfiger). It is crucial for Ethiopia's goal of becoming a global textile hub. Curriculum: Economics K8 — global supply chains."
-    },
-    factsAdvanced: {
-      de: ["Eröffnet am 13. Juli 2016.", "Investition von rund 250 Millionen USD.", "Schafft mehr als 30.000 Arbeitsplätze.", "Exportorientiertes Produktionszentrum.", "Hostet über 20 internationale Firmen.", "Bedeutend für den Bekleidungssektor."],
-      hu: ["2016. július 13-án nyílt meg.", "Kb. 250 millió USD értékű beruházás.", "Több mint 30 000 munkahelyet biztosít.", "Exportorientált termelési központ.", "Több mint 20 nemzetközi cég működik itt.", "Kiemelt jelentŰ'ségű a ruházati szektorban."],
-      ro: ["Inaugurat pe 13 iulie 2016.", "InvestiÈâۼie de circa 250 milioane USD.", "Creează peste 30.000 de locuri de muncă.", "Hub de producÈâۼie orientat spre export.", "Găzduiește peste 20 de companii internaÈâۼionale.", "EsenÈâۼial pentru sectorul confecÈâۼiilor."],
-      en: ["Opened on July 13, 2016.", "Investment of about 250 million USD.", "Provides over 30,000 jobs.", "Export-oriented production hub.", "Hosts over 20 international firms.", "Key for the apparel sector."]
-    }, image: "/poi-images/hawassa-industrial-park-economic-v2.webp"},
+    
+     image: "/poi-images/hawassa-industrial-park-economic-v2.webp"},
   {
     id: "modjo-dry-port-economic-v2",
     type: "port",
@@ -74,18 +64,8 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
       ro: ["Manipulează peste 70% din marfa maritimă.", "Nod crucial pentru Djibouti."],
       en: ["Handles over 70% of maritime freight.", "Crucial node to Djibouti."]
     },
-    descriptionAdvanced: {
-      de: "Der Trockenhafen Modjo fungiert als lebenswichtige logistische Arterie für das Binnenland Äthiopien. Er wickelt ca. 70 % bis 80 % des gesamten Import- und Exportaufkommens des Landes ab, wobei die Verbindung zum Hafen von Dschibuti über die Schiene die Effizienz drastisch erhöht hat. Fächerübergreifend: Erdkunde K7 — Logistik und Transportwesen.",
-      hu: "A Modjo SzárazkikötŰ' Etiópia létfontosságú logisztikai ütŰ'ere. Az ország teljes import- és exportforgalmának mintegy 70-80%-át kezeli, ahol a Dzsibutival való vasúti összeköttetés drasztikusan megnövelte a hatékonyságot. Tantárgykapcsolat: Földrajz K7 — logisztika és közlekedés.",
-      ro: "Portul Uscat Modjo servește drept arteră logistică vitală pentru Etiopia, Èâۼară fără ieșire la mare. Acesta gestionează aproximativ 70%-80% din volumul total de import-export al Èâۼării, legătura feroviară cu portul Djibouti crescând dramatic eficienÈâۼa. Interdisciplinar: Geografie K7 — logistică și transporturi.",
-      en: "Modjo Dry Port acts as a vital logistical artery for landlocked Ethiopia. It handles about 70-80% of the country's total import and export volume, with the railway connection to the port of Djibouti significantly boosting efficiency. Curriculum: Geography K7 — logistics and transport."
-    },
-    factsAdvanced: {
-      de: ["ÃÅ\\\"ber 70 % des gesamten Frachtvolumens.", "Zentraler Knotenpunkt für Schienengüter.", "Groşe Kapazitäten für Containerlagerung.", "Entlastung der Seehäfen in Dschibuti.", "Erweiterungen seit 2009 kontinuierlich.", "Wichtigster Binnenhafen Äthiopiens."],
-      hu: ["A teljes áruforgalom több mint 70%-a.", "Központi csomópont a vasúti fuvarozásban.", "Nagy kapacitású konténertárolás.", "A dzsibuti tengeri kikötŰ'k tehermentesítése.", "Folyamatos bŰ'vítések 2009 óta.", "Etiópia legfontosabb szárazkikötŰ'je."],
-      ro: ["Peste 70% din volumul total de marfă.", "Nod central pentru transportul feroviar.", "Capacități mari pentru stocarea containerelor.", "Degrevarea porturilor maritime din Djibouti.", "Extinderi continue din 2009.", "Cel mai important port uscat din Etiopia."],
-      en: ["Over 70% of total cargo volume.", "Central hub for rail freight.", "Large capacity for container storage.", "Decongestion of seaports in Djibouti.", "Continuous expansion since 2009.", "Ethiopia's primary dry port."]
-    }, image: "/poi-images/modjo-dry-port-economic-v2.webp"},
+    
+     image: "/poi-images/modjo-dry-port-economic-v2.webp"},
   {
     id: "adama-industrial-park-economic-v2",
     type: "industry",

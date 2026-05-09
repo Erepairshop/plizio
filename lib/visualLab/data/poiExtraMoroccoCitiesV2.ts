@@ -52,18 +52,8 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
         "Known for its modern architecture."
       ]
     },
-    descriptionAdvanced: {
-          de: "",
-          hu: "",
-          ro: "",
-          en: "Casablanca, Morocco's economic capital, is a vibrant metropolis with over 3.3 million inhabitants. The city is world-famous for the Hassan II Mosque, whose 210-meter minaret is one of the tallest in the world. Since the French protectorate era (1912–1956), the city has made a name for itself worldwide through Art Deco architecture and modern design. It is a hub for trade, finance, and industry. Geography K10 — coastal cities and economic spaces."
-    },
-    factsAdvanced: {
-          de: [],
-          hu: [],
-          ro: [],
-          en: ["Founded as a modern port in 1912.", "Hassan II Mosque completed in 1993.", "Port is among the largest in Africa.", "Over 3.3 million inhabitants in the metro area.", "Influence of Art Deco architecture is significant.", "Most important financial center in the Maghreb."]
-    }, image: "/poi-images/ma-casablanca-cities-v2.webp"},
+    
+     image: "/poi-images/ma-casablanca-cities-v2.webp"},
   {
     id: "ma-rabat-cities-v2",
     type: "state-capital",

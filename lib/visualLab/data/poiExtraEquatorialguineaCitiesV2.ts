@@ -81,9 +81,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { hu: ["Kie-Ntem tartomány közigazgatási és gazdasági székhelye.", "A hármashatár (Gínea, Kamerun, Gabon) közelében fekszik.", "Az ország egyik legfontosabb szárazföldi kereskedelmi kapuja.", "A város népessége az utóbbi évtizedekben jelentősen növekedett.", "Saját repülőtérrel rendelkezik a gyorsabb elérhetőség érdekében.", "Híres a katedrálisáról, amely a város egyik fő látványossága."], ro: ["Capitala provinciei Kié-Ntem din nord-estul țării.", "Situat la punctul de frontieră triplă cu Gabon și Camerun.", "Nod comercial major pentru importul de bunuri în Río Muni.", "Găzduiește una dintre cele mai mari și moderne catedrale din țară.", "Populație diversă cu puternice influențe culturale Fang.", "Centru administrativ cheie pentru regiunea continentală de nord.", "Conectat prin drumuri modernizate de Bata și Mongomo."],
       en: ["Located in the northeast of the Rio Muni region.", "Border crossing point with Cameroon and Gabon.", "Key transit hub for goods in the northeast.", "Population is a diverse mix of local ethnic groups.", "Climate characterized by lush tropical rainforests.", "Center of the regional service sector."]
     },
-    factsAdvanced: {
-      de: ["Liegt im Nordosten der Region Río Muni.", "Grenzübergangsstelle zu Kamerun und Gabun.", "Wichtiger Umschlagplatz für Waren im Nordosten.", "Bevölkerung besteht aus einer Mischung lokaler Ethnien.", "Das Klima ist geprägt durch tropische Regenwälder.", "Zentrum des lokalen Dienstleistungssektors."]
-    }
+    
   },
     facts: {
       de: ["Bedeutendes Handelszentrum.", "Wichtiger Knotenpunkt für den grenzüberschreitenden Verkehr."],
@@ -111,9 +109,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { hu: ["Wele-Nzas tartomány fővárosa az ország keleti részén.", "Itt található Afrika egyik legnagyobb temploma, a Mongomói Bazilika.", "A város modern stadionja nemzetközi sporteseményeknek ad otthont.", "Az ország politikai elitjének számos tagja származik innen.", "A város tengerszint feletti magassága kellemesebb klímát biztosít.", "Közvetlen aszfaltozott közúti összeköttetése van Bata városával."], ro: ["Reședința administrativă a provinciei estice Wele-Nzas.", "Găzduiește Bazilica Neprihănitei Zămisliri, una dintre cele mai mari din Africa.", "Centru important pentru evenimente sportive naționale și internaționale.", "Situat strategic la mică distanță de frontiera cu Gabon.", "Beneficiază de un aeroport modern în apropiere, la Mengomeyén.", "Punct central al rețelei rutiere care traversează estul țării.", "Cunoscut pentru spațiile verzi bine întreținute și arhitectura modernă."],
       en: ["Dominated by the architecture of the Basilica of Mongomo.", "Strategically significant location near the Gabonese border.", "Substantial infrastructural investments in recent years.", "Key administrative hub for the eastern region.", "The Basilica is one of the largest in West Africa.", "Economic center for the eastern portion of the country."]
     },
-    factsAdvanced: {
-      de: ["Stadtbild geprägt durch die Basilika von Mongomo.", "Strategisch wichtige Lage nahe der gabunischen Grenze.", "Erlebte in den letzten Jahren bedeutende infrastrukturelle Investitionen.", "Wichtiges Zentrum für die regionale Verwaltung.", "Die Basilika ist eine der größten ihrer Art in Westafrika.", "Wirtschaftliches Zentrum für den östlichen Teil des Landes."]
-    }
+    
   },
     facts: {
       de: ["Heimatstadt mehrerer Präsidenten des Landes.", "Verfügt über eine beeindruckende Basilika."],
@@ -140,9 +136,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { hu: ["Bioko-sziget déli részének legjelentősebb települése.", "Mélyvízi kikötője kulcsszerepet játszik az ország olajiparában.", "A város közelében találhatók a sziget legszebb fehér homokos strandjai.", "A spanyol gyarmati időkben fontos mezőgazdasági kiviteli pont volt.", "Látványos hegyi úton közelíthető meg Malabo felől.", "A város nevét a szigeten élő Bubi népcsoport egyik ágáról kapta."], ro: ["Principalul port de pe coasta de vest a insulei Bioko.", "Găzduiește zona economică specială Luba Freeport.", "Nod logistic vital pentru exploatarea hidrocarburilor marine.", "Situat la aproximativ 50 de kilometri sud-vest de capitala Malabo.", "Punct de plecare pentru expediții către Gran Caldera de Luba.", "Cunoscut istoric pentru exportul de cacao și lemn de esență tare.", "Înconjurat de peisaje vulcanice și păduri tropicale de coastă."],
       en: ["Second-largest settlement on Bioko Island.", "Major deep-water port for timber exports.", "Surrounded by fertile volcanic soil.", "Vital departure point for expeditions into the southern part of the island.", "Climate heavily influenced by moist Atlantic winds.", "Long historical significance as a trading center."]
     },
-    factsAdvanced: {
-      de: ["Zweitgrößte Siedlung auf Bioko.", "Bedeutender Tiefseehafen für Holzexporte.", "Umgeben von vulkanischem Boden.", "Wichtiger Ausgangspunkt für Expeditionen in den Süden der Insel.", "Das Klima ist stark beeinflusst durch die feuchten Winde des Atlantiks.", "Die Stadt hat eine lange Geschichte als Handelsort."]
-    }
+    
   },
     facts: {
       de: ["Bekannt für seine vulkanischen Sandstrände.", "Tor zum südlichen Teil der Insel Bioko."],
@@ -169,9 +163,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { hu: ["Centro Sur tartomány székhelye, az ország földrajzi közepén.", "Körülbelül 600 méteres tengerszint feletti magasságban fekszik.", "A város jelentős oktatási intézményekkel és katolikus misszióval rendelkezik.", "Fontos csomópont a Bata és Mongomo közötti országút mentén.", "A közelben található Monte Alén Park gazdag biodiverzitásáról ismert.", "A város népessége főként a Fang etnikumhoz tartozik."], ro: ["Capitala provinciei Centro Sur, situată în inima continentului.", "Amplasat strategic pe rutele comerciale interioare din Río Muni.", "Cunoscut pentru climatul său montan mai plăcut și răcoros.", "Înconjurat de culmile verzi ale lanțului muntos Niefang.", "Centru administrativ istoric cu arhitectură de epocă conservată.", "Nod important pentru distribuția produselor agricole regionale.", "Găzduiește numeroase instituții de învățământ și sănătate."],
       en: ["Capital of the Centro Sur province.", "Situated in the central highlands of Rio Muni.", "Known for trade in local agricultural products.", "Climate is more temperate than the coastal region due to altitude.", "Critical transit hub for the interior of the country.", "Surrounding area largely comprised of pristine secondary forest."]
     },
-    factsAdvanced: {
-      de: ["Hauptstadt der Provinz Centro Sur.", "Liegt im zentralen Hochland von Río Muni.", "Bekannt für den Handel mit lokalen Agrarprodukten.", "Klima ist aufgrund der Höhenlage gemäßigter als an der Küste.", "Wichtiger Knotenpunkt für den Transit im Landesinneren.", "Die Umgebung besteht weitgehend aus unberührtem Sekundärwald."]
-    }
+    
   },
     facts: {
       de: ["Bekannt für sein kühleres Hochlandklima.", "Zentrum der landwirtschaftlichen Produktion der Region."],
@@ -199,9 +191,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { hu: ["Annobón-sziget egyetlen városa és az ország legdélebbi települése.", "Lakói a Fa d'Ambu nevű portugál alapú kreol nyelvet beszélik.", "A várost 1473-ban fedezték fel portugál hajósok Szent Antal napján.", "Modern mélyvízi kikötője 2010 után készült el.", "A sziget vulkanikus eredete miatt a termőföld nagyon korlátozott.", "Rendszeres repülőjárat köti össze Malabóval és Batával."], ro: ["Cea mai sudică capitală de provincie a Guineei Ecuatoriale.", "Singurul oraș principal de pe insula vulcanică Annobón.", "Locuitorii vorbesc limba Fa d'Ambu, un dialect creol rar.", "Economia locală se bazează aproape exclusiv pe pescuitul artizanal.", "Găzduiește un aeroport modern construit pe teren câștigat din mare.", "Punct central pentru conservarea culturii unice annoboneze.", "Situat într-un cadru natural dramatic între munte și ocean."],
       en: ["Only town on the island of Annobon.", "Distinct linguistic identity rooted in Portuguese influences.", "Geographically distant from the mainland of Equatorial Guinea.", "Island of volcanic origin.", "Economy based largely on traditional small-scale fishing.", "Extremely isolated and peaceful location in the South Atlantic."]
     },
-    factsAdvanced: {
-      de: ["Einzige Stadt auf der Insel Annobón.", "Besondere sprachliche Identität durch portugiesische Wurzeln.", "Geografisch weit vom äquatorialguineischen Festland entfernt.", "Die Insel ist vulkanischen Ursprungs.", "Wirtschaft basiert maßgeblich auf traditionellem Fischfang.", "Sehr isolierte und friedliche Lage im Südatlantik."]
-    }
+    
   },
     facts: {
       de: ["Einzige Stadt auf der Insel Annobón.", "Bewohner sprechen einen portugiesisch-basierten Dialekt."],
@@ -258,9 +248,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { hu: ["Fontos kereskedelmi állomás a Mongomo felé vezető főút mentén.", "A város gazdasága elsősorban az önellátó mezőgazdaságra épül.", "Jelentős vallási központ, több keresztény felekezet templomával.", "A település az utóbbi évtizedben jelentős infrastrukturális fejlődésen ment át.", "Anisoc környezetében még nagy kiterjedésű érintetlen esőerdők találhatóak.", "A város neve a helyi Fang nyelvből származik."], ro: ["Oraș strategic situat în provincia estică Wele-Nzas.", "Punct de oprire important pe axa rutieră principală est-vest.", "Centru vibrant pentru comerțul cu produse agricole locale.", "Beneficiază de facilități moderne de sănătate și educație.", "Populația este majoritar Fang, menținând tradițiile ancestrale.", "Zona înconjurătoare este bogată în resurse forestiere durabile.", "Orașul a cunoscut o expansiune urbană semnificativă recent."],
       en: ["Strategically located in the center of Rio Muni.", "Central marketplace for the surrounding region.", "Known for bustling exchange at the municipal market.", "Junction point for major regional road connections.", "Important supply location for the mainland interior.", "City experiencing steady growth in commercial activity."]
     },
-    factsAdvanced: {
-      de: ["Verkehrsgünstige Lage im Zentrum von Río Muni.", "Zentraler Handelsplatz für die umliegende Region.", "Bekannt für den regen Austausch auf dem städtischen Markt.", "Schnittpunkt wichtiger regionaler Straßenverbindungen.", "Wichtiger Versorgungsstandort im Landesinneren.", "Die Stadt erlebt eine stetige Zunahme an kommerzieller Aktivität."]
-    }
+    
   },
     facts: {
       de: ["Bedeutendes Zentrum für den regionalen Handel.", "Liegt an einer wichtigen Straßenkreuzung."],
@@ -289,9 +277,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       en: ["Situated at the mouth of the Benito River.", "Features a modern bridge for regional connectivity.", "Surrounded by a rich mangrove ecosystem.", "Important local center for fishing.", "Increasing logistical importance.", "Promising location for coastal tourism development."],
       de: ["Gelegen an der Mündung des längsten Flusses des Landes.", "Standort der beeindruckenden Mbini-Brücke (eröffnet 2012).", "Zentrum der handwerklichen Fischerei in der Provinz Litoral.", "Umgeben von ökologisch wertvollen Mangrovensystemen.", "Wichtiger logistischer Verbindungspunkt nach Süden.", "Bietet malerische Sonnenuntergänge über dem Atlantik.", "Basis für Erkundungen des Benito-Flusstals."]
     },
-    factsAdvanced: {
-      hu: ["A Benito-folyó torkolatánál fekszik.", "A város egy modern híddal rendelkezik.", "Gazdag mangrove-ökoszisztéma veszi körül.", "Fontos helyi halászközpont.", "Növekvő logisztikai jelentőségű város.", "A part menti turizmus egyik ígéretes helyszíne."]
-    }
+    
   },
     facts: {
       de: ["Berühmt für die Brücke über den Benito-Fluss.", "Ein beliebtes Ziel für frische Meeresfrüchte."],
@@ -320,9 +306,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       en: ["Located in the province of Wele-Nzas.", "Commercial hub for agricultural trade.", "Main crops cultivated are cassava and cocoa.", "Plays an essential role in regional food supply.", "Surrounding forest areas possess significant biodiversity.", "Local markets serve as the social and economic meeting point of the region."],
       de: ["Bedeutendes Provinzzentrum in Wele-Nzas.", "Knotenpunkt für den Handel mit Agrarprodukten im Südosten.", "Umgeben von unberührten äquatorialen Regenwäldern.", "Standort moderner agro-industrieller Projekte.", "Wichtiger Ort für die Verwaltung des Akonibe-Distrikts.", "Bewahrt reiche Traditionen der Fang-Bevölkerung.", "Strategisch günstig an regionalen Verkehrsachsen gelegen."]
     },
-    factsAdvanced: {
-      hu: ["Wele-Nzas tartomány egyik települése.", "Mezőgazdasági kereskedelmi központ.", "Fő termények: manióka és kakaó.", "Fontos szerepet játszik a regionális élelmiszerellátásban.", "A környező erdős területek jelentős biodiverzitással bírnak.", "A helyi piacok a régió társadalmi és gazdasági találkozópontjai."]
-    }
+    
   },
     facts: {
       de: ["Wichtiger Außenposten im südlichen Waldgebiet.", "Traditionelles Zentrum der Fang-Kultur."],
@@ -352,9 +336,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       en: ["Located in the province of Kie-Ntem.", "Important commercial center near the border.", "Local economy is based on border-zone trade.", "Agricultural crop cultivation is characteristic of the area.", "City features continuously improving infrastructure.", "Central role in regional transit."],
       de: ["Wichtige Grenzstadt im Norden von Kié-Ntem.", "Zentrum für den regionalen Handel mit Kamerun.", "Bekannt für fruchtbare Böden und Kakaoanbau.", "Liegt an einer strategischen Nationalstraße.", "Wichtiger administrativer Hub für den Norden von Río Muni.", "Schmelztiegel regionaler kultureller Einflüsse.", "Fördert die wirtschaftliche Entwicklung des Hinterlandes."]
     },
-    factsAdvanced: {
-      hu: ["Kie-Ntem tartományban található.", "Fontos kereskedelmi központ a határ közelében.", "A helyi gazdaság alapja a határmenti cserekereskedelem.", "Mezőgazdasági termények termesztése jellemző.", "A város folyamatosan fejlődő infrastruktúrával rendelkezik.", "Központi szerepet játszik a regionális tranzitban."]
-    }
+    
   },
     facts: {
       de: ["Wichtig für die Landwirtschaft im Norden.", "Liegt nahe der Grenze zu Kamerun."],
@@ -382,9 +364,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { ro: ["Una dintre cele mai estice localități din Guineea Ecuatorială.", "Situat în provincia Wele-Nzas, lângă granița cu Gabon.", "Centru administrativ pentru un district forestier vast.", "Zona este renumită pentru conservarea tradițiilor Fang.", "Conectat de rețeaua națională de drumuri prin Mongomo.", "Economia se bazează pe resursele naturale și agricultură.", "Punct de control vamal și comercial pentru schimburile cu Gabon."],
       en: ["Inland town in the eastern region.", "Hub for agriculture and forestry management.", "Important connection point between rural and urban regions.", "Central hub for the local community.", "Quiet, traditional settlement.", "Part of the regional food supply chain."]
     },
-    factsAdvanced: {
-      hu: ["Keleti régió szárazföldi városa.", "A mezőgazdaság és erdőgazdálkodás központja.", "Fontos összekötő pont a vidéki és városi régiók között.", "A helyi közösség életének meghatározó állomása.", "Csendesebb, hagyományőrző település.", "A regionális élelmiszerellátás láncolatának része."]
-    }
+    
   },
     facts: {
       de: ["Tor zum Handel mit Gabun.", "Umgeben von weitgehend unberührter Natur."],
@@ -414,9 +394,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       en: ["Situated at the mouth of the Rio Muni estuary.", "Important maritime port city.", "Center for fishing and forestry operations.", "Surrounded by protected mangrove ecosystems.", "Strategic location for southern regional trade.", "Potential hub for future tourism development."],
       de: ["Historisch als Puerto Iradier im 19. Jh. gegründet.", "Südlichste Hafenstadt des kontinentalen Territoriums.", "Strategische Lage an der Mündung des Río Muni.", "Tor für den regionalen Austausch mit Gabun.", "Bekannt für gut erhaltene koloniale Architekturreste.", "Wichtiger Ausgangspunkt für Ökotourismus in Mangroven.", "Zentrum der handwerklichen Krabbenfischerei."]
     },
-    factsAdvanced: {
-      hu: ["A Río Muni torkolatvidékén fekszik.", "Fontos tengeri kikötőváros.", "A halászat és erdőgazdálkodás központja.", "Védett mangrove-ökoszisztémák övezik.", "Stratégiai fekvésű a déli régiók számára.", "Potenciális turisztikai fejlesztési központ."]
-    }
+    
   },
     facts: {
       de: ["Bietet einen weiten Blick über das Ästuar.", "Besitzt gut erhaltene koloniale Gebäude."],
@@ -443,9 +421,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { ro: ["Poarta de acces către Parcul Național Altos de Nsork.", "Situat în sud-estul provinciei Wele-Nzas, într-un relief înalt.", "Centru regional pentru proiecte de conservare a faunei sălbatice.", "Înconjurat de păduri tropicale virgine de o densitate rară.", "Economia locală sprijină activitățile de ecoturism și cercetare.", "Punct de referință pentru studiul gorilelor de câmpie vestice.", "Conectat prin drumuri forestiere modernizate de Aconibe și Mongomo."],
       en: ["Town in the province of Wele-Nzas.", "Commercial hub for surrounding forest regions.", "Collection point for agricultural products.", "Center for traditional farming practices.", "Important regional logistical station.", "Link between rural and urban market chains."]
     },
-    factsAdvanced: {
-      hu: ["Wele-Nzas tartomány városa.", "A környező erdővidékek kereskedelmi központja.", "Mezőgazdasági termékgyűjtőpont.", "Hagyományos gazdálkodási központ.", "Fontos regionális logisztikai állomás.", "A vidéki és városi piacokat összekötő pont."]
-    }
+    
   },
     facts: {
       de: ["Zentrum für Ökotourismus-Initiativen.", "Bekannt für seine hohe biologische Vielfalt."],
@@ -475,9 +451,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       en: ["Located in the eastern part of Bioko Island.", "Historical agricultural center.", "Easy access to volcanic landscapes.", "Quiet, traditional Bioko-style town.", "Played a prominent role in agricultural exports.", "Part of the island's cultural heritage."],
       de: ["Erster Landungsplatz der Spanier auf Bioko im Jahr 1778.", "Historisch bedeutendster Hafen an der Ostküste.", "Ehemals unter dem Namen Concepción bekannt.", "Zentrum des frühen Kakaohandels auf der Insel.", "Malerische Lage zwischen Vulkanbergen und dem Ozean.", "Bewahrt historische Gebäude aus der Kolonialzeit.", "Wichtiger Fixpunkt für die lokale Infrastruktur im Osten."]
     },
-    factsAdvanced: {
-      hu: ["Bioko szigetének keleti részén található.", "Történelmi mezőgazdasági központ.", "Könnyű hozzáférés a vulkanikus tájakhoz.", "Csendes, hagyományos biokói városka.", "Kiemelkedő szerepet játszott az agrárexportban.", "A sziget kulturális örökségének része."]
-    }
+    
   },
     facts: {
       de: ["Liegt an der malerischen Ostküste von Bioko.", "Einst ein wichtiges Zentrum für die Kakaoverarbeitung."],
@@ -505,9 +479,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { ro: ["Capitala provinciei Bioko Norte, situată la est de Malabo.", "Centru agricol important pentru aprovizionarea capitalei.", "Situat pe pantele fertile ale vulcanului Pico Basile.", "Nod administrativ local cu facilități publice în expansiune.", "Conectat prin drumuri moderne de Malabo și Riaba.", "Zonă renumită pentru cultivarea cacaoului de înaltă calitate.", "Păstrează tradiții locale puternice ale populației Bubi."],
       en: ["Situated in the northern part of Bioko Island.", "Region with fertile volcanic soil.", "Hub for banana cultivation.", "Important suburb due to its proximity to Malabo.", "Combination of agriculture and commerce.", "One of the engines of the island's economic growth."]
     },
-    factsAdvanced: {
-      hu: ["Bioko sziget északi részén fekszik.", "Termékeny, vulkanikus talajú régió.", "Központja a banántermesztésnek.", "Malabo közelsége miatt fontos előváros.", "A mezőgazdaság és kereskedelem ötvözete.", "A sziget gazdasági növekedésének egyik motorja."]
-    }
+    
   },
     facts: {
       de: ["Zentrum für den Gemüseanbau.", "Nahe dem Pico Basilé gelegen."],
@@ -534,9 +506,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { ro: ["Centru cultural major al populației Bubi de pe insula Bioko.", "Situat strategic în provincia Bioko Norte, aproape de Malabo.", "Cunoscut pentru arhitectura sa adaptată terenului accidentat.", "Găzduiește festivaluri tradiționale și evenimente folclorice unice.", "Comunitate unită cu o puternică identitate etnică și istorică.", "Oferă panorame impresionante asupra oceanului de pe înălțimi.", "Sursă importantă de forță de muncă și produse agricole pentru capitală."],
       en: ["One of the oldest towns in the northern part of Bioko.", "Center of traditional cultural values.", "Agriculture based on cocoa and banana cultivation.", "Defining scene for local community life.", "Guardian of the island's cultural heritage.", "Continuous modernization alongside traditional roots."]
     },
-    factsAdvanced: {
-      hu: ["Bioko északi részének egyik legrégebbi városa.", "A hagyományos kulturális értékek központja.", "Kakaó és banántermesztés alapú mezőgazdaság.", "A helyi közösségi élet meghatározó színtere.", "A sziget kulturális örökségének egyik őrzője.", "Folyamatos modernizáció a hagyományok mellett."]
-    }
+    
   },
     facts: {
       de: ["Berühmt für traditionelle Tänze und Feste.", "Bietet einen herrlichen Blick auf den Atlantik."],
@@ -563,9 +533,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { ro: ["Nod de transport strategic în centrul regiunii Río Muni.", "Situat pe malul râului Benito, cel mai important curs de apă.", "Punct de legătură între coastă și orașele de frontieră din est.", "Centru comercial regional pentru produsele agricole Fang.", "Găzduiește facilități administrative și de securitate importante.", "Înconjurat de peisaje montane și păduri tropicale dense.", "Orașul a beneficiat de modernizarea infrastructurii rutiere naționale."],
       en: ["Important city in the Rio Muni region.", "Connecting point for the country's internal road network.", "Surrounded by tropical rainforests.", "Commercial hub in the region.", "Contributes to economic stability.", "Example of harmony between nature and human settlement."]
     },
-    factsAdvanced: {
-      hu: ["Río Muni régió egyik fontos városa.", "Az ország belső úthálózatának összekötő pontja.", "Trópusi esőerdők övezik.", "Kereskedelmi központ a régióban.", "Hozzájárul a gazdasági stabilitáshoz.", "A természet és az emberi település harmóniája."]
-    }
+    
   },
     facts: {
       de: ["Tor zum Landesinneren.", "Strategisch günstig an Hauptstraßen gelegen."],
@@ -593,9 +561,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { ro: ["Punct de tranzit vital pe axa rutieră Bata - Ebebiyín.", "Situat în provincia Kié-Ntem, o regiune cu soluri fertile.", "Economia se bazează pe agricultură și micul comerț de tranzit.", "Centru de colectare pentru produsele forestiere din zonă.", "Populație majoritar Fang cu o puternică identitate culturală.", "Localitatea a fost modernizată prin proiecte de electrificare rurală.", "Nod rutier care facilitează accesul către satele din nordul extrem."],
       en: ["Important city in Kie-Ntem province.", "Regional commercial center.", "Strategic logistical role.", "Continuous infrastructural developments.", "Tropical forest and agricultural environment.", "Contributes to local economic growth."]
     },
-    factsAdvanced: {
-      hu: ["Kie-Ntem tartomány fontos városa.", "Regionális kereskedelmi központ.", "Stratégiai logisztikai szerep.", "Folyamatos infrastrukturális fejlesztések.", "Trópusi erdős és mezőgazdasági környezet.", "Hozzájárul a helyi gazdaság növekedéséhez."]
-    }
+    
   },
     facts: {
       de: ["Wichtiger Marktort der Provinz Kié-Ntem.", "Zentrum für landwirtschaftliche Erzeugnisse."],
@@ -622,9 +588,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { ro: ["Situat în provincia Litoral, în hinterlandul orașului Bata.", "Centru local pentru agricultura de subzistență și mică industrie.", "Beneficiază de conexiuni rutiere rapide către portul Bata.", "Zonă în plină dezvoltare rezidențială și infrastructurală.", "Înconjurat de o vegetație tropicală bogată și diversă.", "Punct de tranzit pentru mărfurile care vin din interiorul țării.", "Populația este formată dintr-un amestec de grupuri etnice locale."],
       en: ["Small town in the Rio Muni region.", "Important agricultural commercial station.", "Center for local market activity.", "Convenient commercial services.", "Blend of traditional and modern lifestyles.", "Strong connection to agricultural producers."]
     },
-    factsAdvanced: {
-      hu: ["Río Muni régió kisvárosa.", "Fontos mezőgazdasági kereskedelmi állomás.", "A helyi piaci aktivitás központja.", "Kényelmes kereskedelmi szolgáltatások.", "A hagyományos és modern életmód ötvözete.", "Erős kötődés a mezőgazdasági termelőkhöz."]
-    }
+    
   },
     facts: {
       de: ["Wohngebiet für Pendler nach Bata.", "Gute Anbindung an die Küsteninfrastruktur."],
@@ -652,9 +616,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { ro: ["Centru administrativ în sudul provinciei Centro Sur.", "Situat într-o zonă strategică aproape de frontiera cu Gabon.", "Înconjurat de păduri tropicale primare și un relief deluros.", "Nod comercial local pentru produsele din interiorul continentului.", "Conectat recent prin infrastructură rutieră modernizată.", "Păstrează o identitate culturală Fang foarte puternică.", "Zonă de interes pentru studiile de biodiversitate forestieră."],
       en: ["Settlement in the Centro Sur province.", "Located in the heart of tropical rainforests.", "Center for traditional lifestyles.", "One of the starting points for ecotourism.", "Gateway to the hidden treasures of the region.", "Quiet town with a unique character."]
     },
-    factsAdvanced: {
-      hu: ["Centro Sur tartomány települése.", "Trópusi esőerdők szívében található.", "A hagyományos életmód központja.", "Az ökoturizmus egyik kiindulópontja.", "A régió rejtett kincseinek kapuja.", "Csendes, egyedi karakterű település."]
-    }
+    
   },
     facts: {
       de: ["Zentrum des grenzüberschreitenden Austauschs.", "Umgeben von hügeliger Landschaft."],
@@ -682,9 +644,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { ro: ["Localitate situată în interiorul montan al provinciei Centro Sur.", "Situată în apropierea lanțului muntos strategic Niefang.", "Centru pentru agricultura de subzistență și silvicultură locală.", "Bucură de un microclimat mai răcoros datorită reliefului.", "Populație primitoare care păstrează obiceiurile Fang ancestrale.", "Nod local pe rutele care leagă interiorul de coasta Atlanticului.", "Înconjurată de peisaje forestiere dense și cursuri de apă mici."],
       en: ["One of the towns in the Centro Sur province.", "Agricultural production center.", "Central role in regional supply.", "Provides access to commercial services.", "Slow, sustainable economic development.", "Preserves the rural traditions of the central region."]
     },
-    factsAdvanced: {
-      hu: ["Centro Sur tartomány egyik városa.", "Mezőgazdasági termelő központ.", "Központi szerep a régió ellátásában.", "Hozzáférést biztosít a kereskedelmi szolgáltatásokhoz.", "Lassú, fenntartható gazdasági fejlődés.", "Megőrzi a központi régió falusi hagyományait."]
-    }
+    
   },
     facts: {
       de: ["Bekannt für traditionelle Landwirtschaft.", "Ruhiger Rückzugsort im Binnenland."],
@@ -712,9 +672,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { ro: ["Localitate situată în provincia Litoral, la sud de Bata.", "Centru de colectare pentru produsele agricole de coastă.", "Beneficiază de acces la resursele marine și fluviale din zonă.", "Situat pe ruta rutieră care leagă Bata de estuarul râului Muni.", "Înconjurat de păduri tropicale și zone umede biodiversificate.", "Comunitate bazată pe pescuit artizanal și micul comerț.", "Punct de referință pentru dezvoltarea infrastructurii rurale de coastă."],
       en: ["Settlement in the southern part of the mainland.", "Center for water and forest-based lifestyles.", "Complementary economic activities: fishing and foraging.", "Regional commercial junction.", "Close connections to nature.", "Traditional local community."]
     },
-    factsAdvanced: {
-      hu: ["A szárazföldi rész déli települése.", "A víz és erdő alapú életmód központja.", "Kiegészítő gazdálkodás: halászat és gyűjtögetés.", "Regionális kereskedelmi csomópont.", "Szoros természeti kapcsolatok.", "Hagyományőrző helyi közösség."]
-    }
+    
   },
     facts: {
       de: ["Landwirtschaftliches Versorgungszentrum.", "In der Nähe unberührter Küstenabschnitte."],
@@ -742,9 +700,7 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { ro: ["Centrul administrativ și cultural al insulei Corisco.", "Fost sediu al regatului Benga, cu o istorie precolonială bogată.", "Cunoscut pentru plajele spectaculoase cu nisip alb și fin.", "Găzduiește un aeroport modern care leagă insula de Bata.", "Locuitorii aparțin grupului etnic Benga, cu tradiții maritime.", "Situat într-o zonă strategică pentru resursele marine și turism.", "Unul dintre cele mai izolate și frumoase puncte ale țării."],
       en: ["Located on the island of Corisco.", "Stunning beaches and waters.", "Hub for ecotourism.", "Island of historical significance.", "Unique island culture.", "Potential for sustainable tourism development."]
     },
-    factsAdvanced: {
-      hu: ["Corisco szigetén található.", "Lenyűgöző strandok és vizek.", "Ökoturizmus központja.", "Történelmi jelentőségű sziget.", "Egyedi szigeti kultúra.", "Fenntartható turisztikai potenciál."]
-    }
+    
   },
     facts: {
       de: ["Bekannt für weiße Sandstrände.", "Historisch bedeutend als alter Handelsposten."],
@@ -771,12 +727,8 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { hu: ["Bioko-sziget legmagasabban fekvő állandó települése.", "A Bubi királyok történelmi szálláshelye és spirituális központja.", "Híres a különleges mikroklímájáról, amely alkalmas a tejtermelésre.", "A falu közelében található krátertavak szent helynek számítanak.", "Fontos központja a tudományos kutatásoknak a biodiverzitás miatt.", "A település környékén számos vízesés és barlang található."],
       en: ["Located at an altitude of approximately 1,400 m.", "Renowned for its cool mountain climate.", "Main access point to Lake Biao.", "Majority population of Bubi ethnicity.", "Region is rich in protected mountain forests.", "Historical ties to the development of subsistence agriculture on Bioko."]
     },
-    factsAdvanced: {
-      ro: ["Situat la o altitudine de aproximativ 1.400 m.", "Renumit pentru clima montană rece.", "Punct principal de acces către Lacul Biao.", "Populație majoritară din etnia Bubi.", "Regiunea este bogată în păduri montane protejate.", "Istoric legat de dezvoltarea agriculturii de subzistență în Bioko."]
-    },
-    factsAdvanced: {
-      ro: ["Situat la o altitudine de aproximativ 1.400 m.", "Renumit pentru clima montană rece.", "Punct principal de acces către Lacul Biao.", "Populație majoritară din etnia Bubi.", "Regiunea este bogată în păduri montane protejate.", "Istoric legat de dezvoltarea agriculturii de subzistență în Bioko."]
-    }
+    
+    
   },
     facts: {
       de: ["Heimat des Moca-Tals.", "Wichtiges Gebiet für den Naturschutz."],
@@ -804,12 +756,8 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     factsAdvanced: { hu: ["Történelmi missziós falu Bioko-sziget északi részén.", "A település neve spanyol vallási eredetű (Szent Család).", "Hagyományosan fontos kávétermelő vidék a vulkanikus lankákon.", "Szoros kapcsolatot ápol a fővárossal, Malabóval a kereskedelem révén.", "A helyi közösség nagy hangsúlyt fektet a Bubi hagyományok őrzésére.", "A település környékén számos kisebb patak és forrás található."],
       en: ["Locality situated near the northwestern coast.", "Local economy based on cocoa cultivation.", "Region benefits from a humid climate ideal for tropical crops.", "Limited accessibility, preserving its traditional character.", "Population predominantly involved in agriculture.", "Part of the rural network around Malabo."]
     },
-    factsAdvanced: {
-      ro: ["Localitate situată în apropierea coastei nord-vestice.", "Economia locală bazată pe cultivarea cacauălui.", "Regiunea beneficiază de un climat umed ideal pentru culturi tropicale.", "Accesibilitate limitată, păstrând caracterul tradițional.", "Populație implicată predominant în agricultură.", "Parte a rețelei rurale din jurul Malabo."]
-    },
-    factsAdvanced: {
-      ro: ["Localitate situată în apropierea coastei nord-vestice.", "Economia locală bazată pe cultivarea cacauălui.", "Regiunea beneficiază de un climat umed ideal pentru culturi tropicale.", "Accesibilitate limitată, păstrând caracterul tradițional.", "Populație implicată predominant în agricultură.", "Parte a rețelei rurale din jurul Malabo."]
-    }
+    
+    
   },
     facts: {
       de: ["Bekannt für seine Kakaoplantagen.", "Bewahrt viele lokale Traditionen."],

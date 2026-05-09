@@ -20,9 +20,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Inaugurated in 1940.", "Approximate capacity of 35,000 spectators.", "Central hub for Ethiopian athletics.", "Primary venue for the Ethiopian Cup final.", "Located in the center of Addis Ababa.", "Iconic landmark of Ethiopian sport history."]
     },
-    factsAdvanced: {
-      de: ["Status: Nationalstadion", "Erbaut: 1940er Jahre", "Bedeutung: Sportzentrum Äthiopiens", "Nutzung: Fußballspiele", "Ort: Addis Abeba"]
-    }
+    
   },
     description: {
       en: "A multi-purpose stadium in the heart of Addis Ababa, serving as a major venue for football matches and athletic events.",
@@ -36,12 +34,8 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       hu: ["1940-ben nyitották meg.", "Körülbelül 35 000 néző befogadására alkalmas."],
       ro: ["A fost deschis în 1940.", "Are o capacitate de aproximativ 35.000 de spectatori."]
     },
-    descriptionAdvanced: {
-      hu: "Az Addisz-Abeba Stadion egy történelmileg jelentős sportlétesítmény Etiópia fővárosának szívében, amelyet 1940-ben adtak át. Ez a központi helyszíne a hazai labdarúgó-mérkőzéseknek és a jelentősebb atlétikai versenyeknek, jól tükrözve az ország sportéletének fejlődését. A létesítmény mintegy 35 000 néző befogadására alkalmas, és számos bajnoki címet döntöttek el a pályáján. Központi elhelyezkedése miatt a helyi sportrajongók számára kihagyhatatlan, és a város sporttörténelmének egyik legfontosabb jelképe."
-    },
-    factsAdvanced: {
-      hu: ["1940-ben nyitották meg központi stadionként.", "Körülbelül 35 000 fős nézőtér.", "Fontos helyszíne az Etióp Kupának.", "Addisz-Abeba szívében található.", "Az etióp atlétika központja.", "Nemzetközi labdarúgó-mérkőzések színhelye."]
-    }, image: "/poi-images/addis-ababa-stadium-landmarks-v2.webp"},
+    
+     image: "/poi-images/addis-ababa-stadium-landmarks-v2.webp"},
   {
     id: "au-headquarters-landmarks-v2",
     type: "landmark",
@@ -60,9 +54,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Az Afrikai Unió politikai központja", "Átadás: 2012", "100 méter magas központi torony", "Kínai támogatással épült", "A diplomáciai egység szimbóluma", "Modern építészeti megoldások"]
     },
-    factsAdvanced: {
-      de: ["Funktion: Politisches Zentrum Afrikas", "Bau: Modern, architektonisch bedeutend", "Lage: Addis Abeba", "Bedeutung: Sitz der Afrikanischen Union", "Besonderheit: Diplomatisches Zentrum"]
-    }
+    
   },
     description: {
       en: "The modern complex serving as the headquarters for the African Union, featuring a prominent skyscraper.",
@@ -76,12 +68,8 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
     },
-    descriptionAdvanced: {
-      hu: "Az Afrikai Unió székháza Addisz-Abebában egy modern, 2012-ben átadott épületegyüttes, amely a kontinens diplomáciai életének központja. A 99 méter magas, látványos irodaház az afrikai országok közötti együttműködés adminisztratív bázisa. A központban található a Nagy Gyűlésterem, amely képes több ezer küldöttet fogadni a nemzetközi csúcstalálkozók alkalmával. Az épület a 21. századi Afrika egységét és fejlődését hivatott jelképezni, és a nemzetközi politika meghatározó helyszíne a régióban."
-    },
-    factsAdvanced: {
-      hu: ["2012-ben adták át.", "A központi torony 99 méter magas.", "Az Afrikai Unió székhelye.", "Nagy Gyűlésteremmel rendelkezik.", "Az afrikai diplomácia központja.", "A kontinens egységének jelképe."]
-    }, image: "/poi-images/au-headquarters-landmarks-v2.webp"},
+    
+     image: "/poi-images/au-headquarters-landmarks-v2.webp"},
   {
     id: "cbe-headquarters-landmarks-v2",
     type: "landmark",
@@ -100,9 +88,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Etiópia legmagasabb felhőkarcolója", "Magassága meghaladja a 200 métert", "Az ország legnagyobb pénzintézete", "Addisz-Abeba modern jelképe", "Üveg és acél szerkezet", "Gazdasági dominancia szimbóluma"]
     },
-    factsAdvanced: {
-      de: ["Status: Höchstes Gebäude Äthiopiens", "Funktion: Bankenzentrale", "Architektur: Modernes Design", "Lage: Finanzviertel von Addis Abeba", "Symbol: Wirtschaftliches Wachstum"]
-    }
+    
   },
     description: {
       en: "The tallest building in Ethiopia, serving as the headquarters of the Commercial Bank of Ethiopia.",
@@ -134,9 +120,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Az 1974-es forradalom emlékműve", "Dátum: 27. nap a forradalom kezdetén", "Politikai átalakulás szimbóluma", "Szocialista realista stílusjegyek", "Történelmi jelentőség a fővárosban", "Császárság vége, forradalom kezdete"]
     },
-    factsAdvanced: {
-      de: ["Gedenken: Befreiung 1941", "Ort: Addis Abeba", "Bedeutung: Symbol der Unabhängigkeit", "Besonderheit: Historisches Mahnmal"]
-    }
+    
   },
     description: {
       en: "A historic monument in Addis Ababa commemorating the liberation of Ethiopia from Italian occupation.",
@@ -168,9 +152,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["A 'Harcosok emlékműve'", "Az etióp-szomáli háború áldozatainak", "Derg-rezsim idején épült", "Szovjet típusú monumentális stílus", "Szimbolikus szoboregyüttes", "Politikai és katonai emlékezet"]
     },
-    factsAdvanced: {
-      de: ["Anlass: Gedenken an gefallene Soldaten", "Stil: Monumental-Architektur", "Lage: Addis Abeba", "Historik: 1980er Jahre"]
-    }
+    
   },
     description: {
       en: "A prominent memorial dedicated to Ethiopian and Cuban soldiers involved in the Ogaden War.",

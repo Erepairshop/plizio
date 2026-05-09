@@ -1,4 +1,4 @@
-// @ts-nocheck
+﻿// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraArgentinaLifeV2: POI[] = [
@@ -116,6 +116,13 @@ export const poiExtraArgentinaLifeV2: POI[] = [
   },
   {
     id: "ar-republica-ninos-life-v2",
+    description: "An educational theme park designed for children, built in the style of a miniature city to teach civic values.",
+    facts: [
+      "Theme park",
+      "Civic education",
+      "Miniature city",
+      "Family attraction"
+],
     type: "kid-landmark",
     parent: "AR-B",
     coords: [-58.016, -34.887],

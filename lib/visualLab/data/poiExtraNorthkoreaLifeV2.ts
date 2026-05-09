@@ -22,9 +22,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["Az 1959-ben alapított állatkertet 2016-ban modernizálták és kibővítették.", "A gyűjtemény nagyrészt külföldi vezetőktől származó diplomáciai ajándékokból áll.", "Az állatkertben egy teknős alakú hatalmas természettudományi múzeum is található.", "Saját 'kutyapavilonnal' rendelkezik, ahol az észak-koreai Pungsan vadászkutyát is bemutatják.", "Az állatkert hírhedtté vált egy Azalea nevű csimpánzról, amely naponta egy doboz cigarettát szív el.", "A park rendkívül népszerű hétvégi célpont a phenjani családok számára."],
       en: ["The national zoological park located near Mount Taesong in Pyongyang.", "Established in 1959 under the direct instruction of Kim Il-sung.", "Many animals were originally 'gifts' to the leadership from foreign dignitaries.", "Underwent a massive, state-sponsored renovation and expansion in 2016.", "Features newly added pavilions, a large aquarium, and a natural history museum.", "Serves as a primary leisure and educational destination for Pyongyang residents.", "Animal welfare standards are frequently criticized by international animal rights groups."]
     },
-    factsAdvanced: {
-      de: ["Der Zoo wurde 1959 eröffnet.", "Er erstreckt sich über eine massive Fläche am Berg Taesong.", "Viele Tiere im Zoo waren Geschenke verbündeter Staaten an die Kim-Familie.", "2016 wurde das große Aquarium in Form einer Schildkröte eingeweiht.", "Der Zoo beinhaltet einen speziellen Pavillon nur für Rassehunde.", "In der Vergangenheit kam es oft zu Diskussionen über die Haltungsbedingungen der Tiere."]
-    }
+    
   },
     description: {
       de: "Der Nationalzoo Nordkoreas, gegründet 1959. Er beherbergt eine Vielzahl von Tierarten aus der ganzen Welt.",
@@ -58,9 +56,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A park a Teszong-hegy tövében, az Állatkert és a Botanikus Kert szomszédságában fekszik.", "Az 1970-es években alapították, hogy a fővárosi lakosság hétvégi pihenését szolgálja.", "Hullámvasútjait és játékait a közelmúltban külföldi eszközökkel frissítették.", "A park területén az 5. századi Kogurjo királyság ősi erődítményének falmaradványai is láthatók.", "Az állami ünnepeken (pl. május 1.) hagyományos tömeges piknikek és táncmulatságok helyszíne.", "A jegyárak rendkívül alacsonyak, hogy a munkásosztály számára is elérhető legyen."],
       en: ["Sprawling recreational facility located at the foot of Mount Taesong.", "One of the oldest and largest theme parks in North Korea, opened in 1977.", "Features roller coasters, a Ferris wheel, and traditional carnival rides.", "Located directly adjacent to the Pyongyang Central Zoo.", "A highly popular leisure destination for families during national holidays.", "Meticulously maintained to showcase state provision of public entertainment.", "Provides a rare, relaxed environment distinct from daily ideological rigidity."]
     },
-    factsAdvanced: {
-      de: ["Der Park wurde 1977 für die Bewohner Pjöngjangs eröffnet.", "Er verfügt über Achterbahnen, Autoscooter und ein Riesenrad.", "Der Park ist direkt an das U-Bahn-Netz von Pjöngjang angeschlossen.", "An nationalen Feiertagen finden hier oft große öffentliche Tänze statt.", "Neben Fahrgeschäften gibt es auch ausgedehnte Picknick-Flächen.", "Der Park grenzt direkt an den Zentralen Zoo von Pjöngjang."]
-    }
+    
   },
     description: {
       de: "Ein Vergnügungspark am Berg Taesong, der verschiedene Fahrgeschäfte und Attraktionen für Familien und Kinder bietet.",
@@ -94,9 +90,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["Szukcshon a termékeny nyugati partvidéken, a Joldusamcholli síkságon helyezkedik el.", "Észak-Korea egyik legfőbb rizstermő szövetkezete, amely Phenjant is ellátja.", "A mezőgazdaság nagymértékben függ az emberi kézi erőtől a traktor- és üzemanyaghiány miatt.", "Betakarításkor ('rizscsata') városi lakosokat és diákokat vezényelnek ki a földekre.", "A terület vízellátását egy összetett, évtizedekkel ezelőtt épült csatornarendszer biztosítja.", "A szövetkezeti modell szerint a parasztok a termés egy kis, megállapított hányadát tarthatják meg."],
       en: ["Massive state-run cooperative farm located in South Pyongan Province.", "Situated in the highly fertile Yoldusamcholli Plain region.", "Primarily cultivates rice, corn, and essential vegetables for the state.", "Operates strictly under centralized state planning and quotas.", "Utilizes a mix of aging mechanized equipment and intensive manual labor.", "Workers reside in standardized, state-built agricultural villages.", "Frequently featured in propaganda to promote national food security efforts."]
     },
-    factsAdvanced: {
-      de: ["Der Landkreis Sukchŏn ist eines der Hauptzentren für die Reisproduktion.", "Die Farm liegt in der sehr fruchtbaren Yoldusamcholli-Ebene.", "Die landwirtschaftliche Arbeit wird oft durch landesweite Massenmobilisierungen unterstützt.", "Der Betrieb ist vollständig als Kolchos organisiert.", "Ein großes Netzwerk an Kanälen sichert die Bewässerung.", "Ertragssteigerungen hier werden oft in den staatlichen Medien gefeiert."]
-    }
+    
   },
     description: {
       de: "Ein Beispiel für eine kollektive Farm in der Provinz Süd-Pyongan, die Getreide und Gemüse anbaut.",
@@ -130,9 +124,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A Moranbong domb formája állítólag egy nyíló bazsarózsára emlékeztet.", "Ez Phenjan legismertebb és leglátogatottabb városi parkja a Taedong folyó mentén.", "A park területén ősi, 6. századi városfal-maradványok és pavilonok találhatók.", "Itt magasodik a Felszabadulás Emlékműve, melyet a szovjet Vörös Hadsereg tiszteletére emeltek.", "Hétvégente a helyiek kedvelt piknikező és szabadtéri karaokézó helyszíne.", "A park alatt fut a phenjani metró két legmélyebb állomása."],
       en: ["Highly popular central public park in Pyongyang, known as 'Peony Peak'.", "A premier destination for local weekend picnics, singing, and outdoor dancing.", "Features remnants of ancient Goguryeo-era fortress walls and pavilions.", "Contains the Liberation Monument dedicated to the Soviet Red Army.", "Provides a lively, informal atmosphere contrasting with the city's rigid monuments.", "Often described as the green and cultural heart of the capital.", "Famous for its beautiful floral blooms during the spring season."]
     },
-    factsAdvanced: {
-      de: ["Der Moranbong-Hügel (Pfingstrosenhügel) ist der bekannteste Park Pjöngjangs.", "Auf dem Hügel stehen historische Koryŏ-Pavillons wie der Ryongwang-Pavillon.", "Der Park ist ein Hotspot für Massenpicknicks im Frühling und Sommer.", "Im Park befindet sich das Befreiungsdenkmal für die sowjetische Armee.", "Das Moranbong-Freilichttheater bietet Platz für Tausende Zuschauer.", "Gesang und Akkordeon-Musik sind fester Bestandteil der Picknicks."]
-    }
+    
   },
     description: {
       de: "Ein beliebter Park im Zentrum von Pjöngjang, bekannt für seine schönen Landschaften und historischen Pavillons.",
@@ -166,9 +158,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A Rjongmun-barlang egy több mint 6 kilométer hosszú mészkőbarlang-rendszer.", "A barlangot több tucat hatalmas, mesterségesen kivilágított terem alkotja.", "Az észak-koreai iskolások számára kötelező természeti és tanulmányi kirándulóhely.", "A cseppkőképződmények nevei gyakran a dzsucse-ideológiára és a forradalomra utalnak.", "A barlang mélyén több földalatti vízesés és patak található.", "A háború idején a lakosság és a hadsereg is óvóhelyként használta a labirintust."],
       en: ["Spectacular limestone cave system located in Kujang County.", "Extends for miles deep underground with vast subterranean caverns.", "Renowned for massive, brightly illuminated stalactites and stalagmites.", "Features underground rivers and highly unique rock formations.", "Formations are often given poetic or ideological names by local guides.", "A major destination for domestic tourism and school educational trips.", "Showcases the state's development of natural landmarks for recreation."]
     },
-    factsAdvanced: {
-      de: ["Das Ryongmun-Höhlensystem ist über 6 Kilometer lang.", "Es befindet sich im Landkreis Kujang in der Provinz Nord-P'yŏngan.", "Die Karsthöhlen wurden über Millionen von Jahren geformt.", "Besucherführungen dauern in der Regel zwei Stunden.", "Die unterirdischen Hallen sind mit grellen, farbigen Lichtern illuminiert.", "Die Temperatur in der Höhle bleibt ganzjährig konstant kühl."]
-    }
+    
   },
     description: {
       de: "Ein Naturpark, der ein ausgedehntes Karsthöhlensystem mit beeindruckenden Felsformationen umgibt.",
@@ -202,9 +192,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A megye neve, 'Kvajl', a koreai 'gyümölcs' szóból származik (1967-ben nevezték át).", "A térség Észak-Korea legnagyobb gyümölcstermelő és feldolgozó központja.", "Fő terményei az alma, a körte, az őszibarack és a datolyaszilva.", "A gyümölcsösök kiterjedése meghaladja a 10 000 hektárt a tengerpart mentén.", "A termést konzerváló- és gyümölcslégyárak dolgozzák fel helyben.", "Tavasszal a végtelen, virágzó gyümölcsfák népszerű fotótémát nyújtanak a sajtónak."],
       en: ["Massive agricultural district in South Hwanghae Province.", "The county's name, 'Kwail', literally translates to 'Fruit' in Korean.", "Dedicated almost entirely to the highly organized cultivation of orchard fruits.", "Established as a specialized agricultural zone by Kim Il-sung in 1967.", "Operates a complete supply chain including local canning and processing factories.", "Critical supplier of fresh fruit and juices to Pyongyang.", "Produces fruit products intended for international export to generate revenue."]
     },
-    factsAdvanced: {
-      de: ["Das Wort 'Kwail' bedeutet in der koreanischen Sprache 'Frucht'.", "Der Landkreis besteht fast ausschließlich aus riesigen Obstplantagen.", "Äpfel und Pfirsiche sind die wichtigsten Anbauprodukte der Region.", "Kwail liegt an der Küste der Provinz Süd-Hwanghae.", "Die Plantagen erstrecken sich über mehr als 10.000 Hektar.", "Große Verarbeitungsbetriebe für Säfte befinden sich direkt vor Ort."]
-    }
+    
   },
     description: {
       de: "Eine Region, die für ihre riesigen Obstplantagen bekannt ist. Der Name 'Kwail' bedeutet auf Koreanisch 'Frucht'.",
@@ -238,9 +226,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A Majon strand Észak-Korea egyik legismertebb keleti parti üdülőövezete Hamhungnál.", "A partvonal finom homokos, és a sűrű fenyőerdők egészen a vízig érnek.", "2009-ben egy modern luxusszállodát, a Majon Hotelt adtak át a külföldiek számára.", "Az állam 'jutalom-nyaralásokat' biztosít ide a kiemelkedő munkásoknak.", "A Japán-tenger (Keleti-tenger) vize itt tiszta, de a nyári szezont leszámítva meglehetősen hideg.", "A tengerparti sütögetés ('kagyló BBQ') az egyik legnépszerűbb helyi gasztronómiai élmény."],
       en: ["Well-known coastal recreational area located near the city of Hamhung.", "Features wide, sandy beaches situated along the Sea of Japan.", "A popular summer destination for the political elite and foreign diplomats.", "Utilized as a state-reward vacation spot for highly productive workers.", "Complex includes several hotels, bathing pavilions, and leisure facilities.", "Maintained meticulously despite its relative proximity to heavy industrial zones.", "Provides a rare venue for relaxed summer leisure in the eastern region."]
     },
-    factsAdvanced: {
-      de: ["Das Majon-Resort liegt am Japanischen Meer nahe Hamhŭng.", "Der Sandstrand ist mehrere Kilometer lang und von Pinien gesäumt.", "Das Hotelresort wurde 2009 aufwendig im modernen Stil renoviert.", "Es ist ein bevorzugtes Urlaubsziel für die nordkoreanische Elite.", "Am Strand gibt es Möglichkeiten zum Wellenreiten und Schwimmen.", "Die Anlage verfügt über spezielle Badebereiche für ausländische Touristen."]
-    }
+    
   },
     description: {
       de: "Ein Strandresort in der Nähe von Hamhung mit einem Sandstrand und Badeeinrichtungen, das bei Einheimischen beliebt ist.",
@@ -274,9 +260,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["Mundok Észak-Korea egyik legfontosabb vizes élőhelye és árapálysíksága.", "2018-ban hivatalosan is felkerült a nemzetközi Ramsari Egyezmény listájára.", "A Sárga-tengeri iszapmezők rákokban és puhatestűekben gazdagok a madarak számára.", "Kritikus pihenőhely a Kelet-Ázsia és Ausztrália között vonuló madaraknak.", "Több mint 20 globálisan veszélyeztetett madárfaj, köztük a kanalasgém fordul meg itt.", "A torkolatvidék megóvása nemzetközi természetvédelmi siker Észak-Koreában."],
       en: ["Highly significant ecological wetland located on the western coast.", "Internationally recognized as a Ramsar Wetland of International Importance.", "Serves as a crucial stopover on the East Asian-Australasian Flyway.", "Provides vital sanctuary for millions of migratory birds annually.", "Protects highly endangered species like the Black-faced Spoonbill.", "Features vast, nutrient-rich tidal flats and extensive reed beds.", "A rare site of active cooperation between North Korea and global conservationists."]
     },
-    factsAdvanced: {
-      de: ["Das Mundŏk-Reservat ist ein Wattgebiet am Gelben Meer.", "Es ist ein entscheidender Rastplatz für seltene Zugvögel in Asien.", "Das Schutzgebiet erstreckt sich über fast 4.000 Hektar Gezeitenzone.", "Es ist Heimat für gefährdete Arten wie den Schwanengans.", "Im Jahr 2018 wurde es in die renommierte Ramsar-Konvention aufgenommen.", "Der Schutz der Vögel ist eines der wenigen international gelobten Umweltprojekte Nordkoreas."]
-    }
+    
   },
     description: {
       de: "Ein wichtiges Feuchtgebiet an der Westküste, das als entscheidender Rastplatz für Zugvögel auf der ostasiatisch-australasiatischen Flugroute dient.",
@@ -310,9 +294,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A Rjongak-hegy magassága 292 méter, közvetlenül Phenjan nyugati peremén áll.", "Nevét a hegy alakjáról kapta, amely állítólag egy repülő sárkányhoz hasonlít.", "A terület a phenjani lakosok legkedveltebb tavaszi és őszi túraútvonala.", "A hegyen több pavilon, sportpálya és kiépített piknikező hely található.", "Innen kiváló panoráma nyílik Phenjanra, különösen a Mangjongde kerületre.", "A cseresznyevirágzás (április) a park legforgalmasabb időszaka az évben."],
       en: ["Scenic park located on Mount Ryongak, situated just outside Pyongyang.", "The mountain's name translates to 'Dragon Peak' in English.", "Highly popular local destination for hiking, picnicking, and outdoor barbecues.", "Characterides by lush, dense forests of pine and oak trees.", "Features winding hiking trails and ancient historical pavilions.", "Home to the historic Pobun Temple, adding cultural value to the park.", "Provides an easily accessible nature escape for residents of the capital."]
     },
-    factsAdvanced: {
-      de: ["Ryongak-san bedeutet übersetzt 'Drachenberg'.", "Der Berg liegt etwa 12 Kilometer vom Stadtzentrum Pjöngjangs entfernt.", "Die höchste Erhebung erreicht fast 300 Meter.", "Auf dem Berg befindet sich der historische Pŏpun-Tempel.", "Er ist ein sehr beliebtes Ziel für Wochenendwanderungen der Pjöngjanger.", "Im Herbst zieht der Berg wegen seiner prächtigen Laubfärbung viele Besucher an."]
-    }
+    
   },
     description: {
       de: "Ein großer Naturpark am Berg Ryongak am westlichen Stadtrand von Pjöngjang, der zum Wandern und zur Erholung genutzt wird.",
@@ -346,9 +328,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["Sinphjong a Phenjant és a keleti partot (Vonszan) összekötő autópálya felénél található.", "A drámai sziklák miatt a régiót 'Kis-Kumgang' néven is ismerik.", "Az utazók és a turistabuszok első számú pihenőhelye a hosszú hegyi úton.", "A terület híres a sűrű juhar- és tölgyerdők őszi vörös lombozatáról.", "A közeli vízesések és kristálytiszta források a hely fő attrakciói.", "A helyi éttermek vadon élő növényekből és hegyi gombákból készült ételeket kínálnak."],
       en: ["Striking natural reserve located in North Hwanghae Province.", "Situated strategically halfway between Pyongyang and the coastal city of Wonsan.", "Nicknamed 'Little Kumgang' due to its dramatic, steep rocky cliffs.", "Features pristine river valleys, dense forests, and spectacular waterfalls.", "Serves as a major, mandatory scenic rest stop along the Pyongyang-Wonsan highway.", "Offers accessible hiking trails and stunning panoramic valley viewpoints.", "A popular natural attraction for both domestic citizens and foreign tour groups."]
     },
-    factsAdvanced: {
-      de: ["Sinp'yŏng liegt an der wichtigen Autobahn zwischen Pjöngjang und Wŏnsan.", "Das Gebiet wird oft das 'Kŭmgang-Gebirge von Hwanghae' genannt.", "Die Region verfügt über spektakuläre Karstformationen und Wasserfälle.", "In der Mitte des Tals liegt ein malerischer, künstlicher Stausee.", "Das Resort ist ein beliebter Stopp für Überlandreisende zur Ostküste.", "Es dient zunehmend dem inländischen Wandertourismus."]
-    }
+    
   },
     description: {
       de: "Ein landschaftlich reizvolles Gebiet, das als 'kleiner Kumgang' bekannt ist und für seine malerischen Täler und Wanderwege entwickelt wird.",
@@ -383,9 +363,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A halgazdaság a Csangdzsa folyó hideg, tiszta vizét használja fel.", "Főként pisztrángot és tokhalat tenyésztenek, utóbbit a kaviár miatt is.", "A telep zárt láncú keltető- és vízforgató rendszerekkel van felszerelve.", "Az észak-koreai állam a halászatot a nemzeti fehérjeellátás kulcsának tekinti.", "A tenyésztett halak nagy része a hadsereghez és az elit éttermeibe kerül.", "Kim Dzsongun több alkalommal is hivatalos látogatást tett a létesítményben."],
       en: ["Massive state-run aquaculture facility located in Chagang Province.", "Built along the fast-flowing, clean waters of the Changja River.", "Primarily cultivates high-protein rainbow trout and sturgeon.", "Features massive, tiered concrete breeding ponds utilizing natural currents.", "Designed to significantly boost the national food and protein supply.", "Frequently visited by leadership to emphasize the importance of aquaculture.", "Considered a model for scientific fish farming within the country."]
     },
-    factsAdvanced: {
-      de: ["Die Fischfarm liegt am Changja-Fluss in der Provinz Chagang.", "Die Anlage nutzt das extrem klare, kalte Bergwasser der Region.", "Sie züchtet hauptsächlich Regenbogenforellen und andere Süßwasserfische.", "Kim Jong-un hat die Anlage als nationales Vorzeigeprojekt gefördert.", "Die Farm hilft, die schwierige Proteinversorgung im gebirgigen Norden zu sichern.", "Moderne, teils computergesteuerte Anlagen wurden kürzlich installiert."]
-    }
+    
   },
     description: {
       de: "Eine Aquakulturanlage in der Provinz Chagang, die sich auf die Zucht von Süßwasserfischen zur Versorgung der Region konzentriert.",
@@ -419,9 +397,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A park a keleti parti Vonszan város központjában, a tenger közelében fekszik.", "Modernizálása a 2010-es évek elején kezdődött, külföldi játékgépek behozatalával.", "Az olasz gyártmányú hullámvasút a park egyik legfőbb attrakciója.", "A jegyárakat mesterségesen alacsonyan tartják a helyi lakosok számára.", "Éjszaka díszkivilágítással működik, ami ritkaság a vidéki városokban.", "Rendszeres helyszíne az Ifjúsági Liga által szervezett közösségi eseményeknek."],
       en: ["Coastal amusement park located in the eastern port city of Wonsan.", "Features a modest Ferris wheel and various retro carnival rides.", "Situated directly adjacent to the sea, offering scenic coastal views.", "A central recreational hub for local youth and families.", "Highly popular during national holidays for public singing and dancing.", "Represents state efforts to modernize Wonsan as a leisure destination.", "Offers a relaxed, informal atmosphere distinct from urban centers."]
     },
-    factsAdvanced: {
-      de: ["Der Park liegt direkt an der Hafenpromenade von Wŏnsan.", "Er verfügt über einen klassischen Autoscooter und ein Riesenrad.", "Er wird hauptsächlich von der lokalen Bevölkerung der Ostküste genutzt.", "An Feiertagen finden hier Musikveranstaltungen und Tanzvorführungen statt.", "Im Park werden oft lokal gefangene, gegrillte Meeresfrüchte als Snack angeboten.", "Die Fahrgeschäfte stammen großteils noch aus dem 20. Jahrhundert."]
-    }
+    
   },
     description: {
       de: "Ein öffentlicher Park in Wonsan, der Erholungsflächen, Sportanlagen und Grünflächen für die Bewohner der Stadt bietet.",
@@ -455,9 +431,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["Az 1982-ben nyílt vidámpark Kim Ir Szen szülőfalujának közelében fekszik.", "Több mint 50 különböző játékkal, köztük egy hatalmas dupla hullámvasúttal rendelkezik.", "2012-ben Kim Dzsongun kamerák előtt szidta le a vezetőséget a park rossz állapota miatt.", "A kritikát követően azonnali és teljes felújítást hajtottak végre a területen.", "A park sűrű erdővel körülvett, 70 hektáros területen terül el.", "Nyáron szabadtéri úszómedencéje és vízi parkja a legnépszerűbb."],
       en: ["Expansive amusement park located near Mangyongdae, outside Pyongyang.", "Originally opened in the early 1980s as a premier national theme park.", "Features dual-loop roller coasters and various high-speed rides.", "Suffered significant disrepair during the economic crisis of the 1990s.", "Underwent rapid renovations following a critical inspection by Kim Jong-un in 2012.", "Functions as a primary, though aging, leisure facility for the capital.", "Located near the highly revered birthplace of founder Kim Il-sung."]
     },
-    factsAdvanced: {
-      de: ["Der Mangyongdae-Vergnügungspark wurde am 15. April 1982 eröffnet.", "Er liegt nur wenige Kilometer von Kim Il-sungs angeblichem Geburtshaus entfernt.", "Der Park erstreckt sich über ein sehr waldreiches, hügeliges Gebiet.", "Er verfügt über Nordkoreas größte Achterbahn (Doppellooping).", "2012 wurde der Park nach Kritik durch Kim Jong-un komplett modernisiert.", "Er ist besonders am Tag der Sonne (15. April) extrem gut besucht."]
-    }
+    
   },
     description: {
       de: "Ein Vergnügungspark im Bezirk Mangyongdae von Pjöngjang, der Fahrgeschäfte und Spiele für Besucher bietet.",
@@ -491,9 +465,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A Keszong régió a világ egyik legrégebbi folyamatos ginzengtermő területe.", "A legértékesebb gyökerek növekedési ideje pontosan hat év.", "A növényeket szalmából és nádból készült speciális árnyékolókkal védik a Naptól.", "A 'Vörös ginzeng' a gőzölés és szárítás folyamatáról kapja a nevét.", "Az exportált ginzeng Észak-Korea egyik legmegbízhatóbb bevételi forrása.", "A helyi legendák szerint a ginzeng elűzi az öregedést és minden betegséget gyógyít."],
       en: ["Specialized agricultural zone located around the southern city of Kaesong.", "Internationally renowned for producing premium 'Kaesong Koryo Insam'.", "The region's unique soil and climate create highly potent medicinal roots.", "Cultivation requires specialized shade structures and extensive manual labor.", "Roots typically require a full six years of growth before they are harvested.", "A major luxury export product generating vital foreign currency.", "Highly prized in traditional medicine across East Asia."]
     },
-    factsAdvanced: {
-      de: ["Kaesŏng ist das historische Zentrum des koreanischen Ginseng-Anbaus.", "Der rote Koryŏ-Ginseng muss oft 6 Jahre wachsen, bevor er geerntet wird.", "Er wird in Nordkorea zur Herstellung von Medizin, Tee und Likör genutzt.", "Der Anbau erfordert spezielle schwarze Netze zum Schutz vor direkter Sonne.", "Ginseng aus Kaesŏng ist ein wichtiges Exportgut nach China und Russland.", "Das Dämpfen und Trocknen gibt dem roten Ginseng (Hongsam) seine Farbe."]
-    }
+    
   },
     description: {
       de: "Eine Farm in der Region Kaesong, die sich auf den Anbau des berühmten koreanischen Ginsengs spezialisiert hat, der für seine medizinischen Eigenschaften bekannt ist.",
@@ -527,9 +499,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A tábort 1960-ban alapították a Vonszan melletti sűrű fenyvesekben.", "Kezdetektől fogva fogadott külföldi diákokat a 'baráti' szocialista országokból.", "2014-ben egy teljes körű modernizáción esett át, víziparkkal és akváriummal bővült.", "A táborozók egyenruhát kapnak, és részt vesznek meneteléseken, énekversenyeken is.", "A hazai diákok számára hatalmas kiváltság és jutalom ide bekerülni.", "Az állam 'soft power' eszközként használja az ország pozitív képének terjesztésére."],
       en: ["Sprawling, modernized youth facility located on the coast of Wonsan.", "Originally established in 1960 for youth from allied socialist nations.", "Completely rebuilt and massively expanded under Kim Jong-un in 2014.", "Features indoor water parks, an aquarium, and a 4D theater.", "Serves primarily as an elite reward destination for top North Korean students.", "Still hosts small contingents of international youth from friendly nations.", "Activities combine modern leisure with strict ideological education."]
     },
-    factsAdvanced: {
-      de: ["Das Songdowŏn-Kinderlager wurde 1960 an der Küste von Wŏnsan gegründet.", "Es empfängt oft Delegationen von Kindern aus befreundeten Nationen (z. B. Russland).", "2014 wurde das Lager unter Kim Jong-un massiv zu einem Luxusresort umgebaut.", "Die Anlage umfasst ein Aquarium, ein Stadion und einen großen Wasserpark.", "Nur Kinder mit exzellenten Schulnoten dürfen das Lager besuchen.", "Militärische Disziplin und ideologische Schulung sind Teil des Ferienprogramms."]
-    }
+    
   },
     description: {
       de: "Ein großes Sommerlager in Wonsan für nordkoreanische und internationale Kinder, das kulturellen Austausch fördert.",
@@ -563,9 +533,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A Teszong-víztározó elsődleges funkciója a nyugati síkságok öntözése.", "A hatalmas tóban szervezett állami halgazdálkodás folyik (ponty, amur).", "A helyiek számára engedélyezett a hobbihorgászat a kijelölt partszakaszokon.", "A tó vizét a Taedong folyó vízgyűjtő rendszeréből szivattyúzzák át.", "Nyári hétvégéken népszerű helyszíne a családi csónakázásoknak.", "A téli fagyok idején gyakori a lékhorgászat a vastag jégrétegen keresztül."],
       en: ["Large artificial lake located on the rural outskirts of Pyongyang.", "Originally constructed for massive agricultural irrigation projects.", "Developed into a popular state-sanctioned leisure and fishing area.", "Banks are equipped with dedicated fishing platforms and recreational pavilions.", "Stocked regularly with various freshwater fish species.", "A popular weekend escape for families living in the capital.", "Provides a quiet, natural environment distinct from the bustling city."]
     },
-    factsAdvanced: {
-      de: ["Das Taesong-Reservoir dient in erster Linie der Agrarbewässerung.", "Es liegt am westlichen Rand der Hauptstadt Pjöngjang.", "Der See ist ein Hotspot für das Sport- und Überlebensangeln der Einheimischen.", "Oft werden hier Karpfen, Forellen und Süßwasseraale gefangen.", "Im Winter friert der See zu und wird zum Eisfischen genutzt.", "Das Gebiet ist von bewaldeten Hügeln umgeben und dient als Naherholungsgebiet."]
-    }
+    
   },
     description: {
       de: "Ein großer Stausee in der Nähe von Pjöngjang, der als Erholungsgebiet zum Angeln und Bootfahren dient.",
@@ -599,9 +567,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A folklórpark eredeti, több száz éves hanok udvarházakból áll.", "A szobákat hagyományos koreai 'ondol' rendszerrel, a padló alól fűtik.", "A vendégek a földön, vastag pamutmatracokon (yo) alszanak.", "Itt szolgálják fel a híres 'panszangit', amely akár 12 kis bronztálkás ételből áll.", "A park területén kézműves mesterek mutatják be az ősi szövési és fafaragási technikákat.", "A koreai háború során a terület megmenekült az amerikai bombázásoktól."],
       en: ["Preserved historic district located within the ancient city of Kaesong.", "Designed to immerse visitors in the traditional atmosphere of the Goryeo Dynasty.", "Features beautifully maintained traditional hanok houses with curved roofs.", "Many houses function as authentic restaurants or traditional inns.", "Famous for serving the elaborate Royal 'Pansanggi' multi-course meal.", "Devoid of the typical monolithic socialist architecture found elsewhere.", "A major cultural site celebrating traditional Korean heritage and crafts."]
     },
-    factsAdvanced: {
-      de: ["Der Folklore-Park fungiert als traditionelles Hotel in der Altstadt von Kaesŏng.", "Die Gäste schlafen auf dem Boden in Häusern mit Ondol-Fußbodenheizung.", "Die Gebäude stammen teils aus dem 19. Jahrhundert und wurden restauriert.", "Das Gelände ist von einem kleinen Bachlauf durchzogen.", "Das Essen wird im traditionellen Pansanggi-Stil (viele kleine Messingschalen) serviert.", "Die Zimmer haben Papierfenster und sind mit koreanischer Kunst dekoriert."]
-    }
+    
   },
     description: {
       de: "Ein Park, der traditionelle koreanische Architektur, Bräuche und Lebensweisen aus der Koryo-Dynastie zeigt.",
@@ -635,9 +601,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["Szamdzsijon a Paektu-hegy fagyos fennsíkján fekszik, a rizs számára alkalmatlan klímával.", "Az 1990-es években itt indult el az állami 'Burgonya-forradalom' program.", "A város körüli hatalmas farmokon termesztett burgonya az északi éhínség ellenszere volt.", "A városban egy modern burgonya-feldolgozó üzem működik (liszt, szesz, tészta).", "A 2010-es évek végén Szamdzsijont teljesen újjáépítették 'modellvárosként'.", "Októberben a betakarításkor több ezer fiatalt vezényelnek a földekre segíteni."],
       en: ["Massive agricultural initiative located in high-altitude Ryanggang Province.", "Developed because the harsh, freezing climate is unsuitable for rice.", "Became a major state focus following the severe famine of the 1990s.", "Features vast industrialized fields and cold-resistant crop research institutes.", "Surrounds the recently modernized 'socialist utopia' city of Samjiyon.", "Crucial for providing a stable carbohydrate source for the northern population.", "Farm workers live in newly constructed, heavily subsidized modern housing."]
     },
-    factsAdvanced: {
-      de: ["Samjiyŏn liegt auf einer Hochebene in über 1.300 Metern Höhe.", "Wegen der Kälte ist der Reisanbau dort unmöglich, weshalb Kartoffeln angebaut werden.", "Ende der 1990er Jahre rief der Staat die 'Kartoffel-Revolution' aus.", "Die Farmen in Samjiyŏn sind die produktivsten Kartoffelfarmen des Landes.", "In der Region gibt es auch das staatliche Kartoffelforschungszentrum.", "Samjiyŏn produziert auch große Mengen an Kartoffelstärke für Nudeln."]
-    }
+    
   },
     description: {
       de: "Großflächige Kartoffelfarmen in der kühlen Region Samjiyon, die als Modell für die moderne Landwirtschaft des Landes gelten.",
@@ -671,9 +635,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A park Vonszan város északi részén, sűrű tengerparti fenyvesekben fekszik.", "A terület a kikötőváros lakosságának fő hétvégi menekülőhelye a szmog elől.", "Nevét a közeli Gyémánt-hegységről (Kumgangsan) kapta, bár nem ott helyezkedik el.", "Tökéletes kilátópontokat kínál a tengerre és a vonszani-öböl szigeteire.", "Gyakori helyszíne az állami ünnepekhez köthető szabadtéri táncmulatságoknak.", "Az utak mentén hagyományos koreai 'janggi' (sakk) táblákon játszanak a helyiek."],
       en: ["Lush, sprawling urban public park located in the coastal city of Wonsan.", "Distinct from the famous Mount Kumgang located further south.", "Characterized by dense coastal pine forests and manicured gardens.", "Features walking trails that lead directly to the sandy beaches.", "A central venue for local leisure, outdoor barbecues, and sports.", "Reflects the relatively relaxed, coastal cultural atmosphere of Wonsan.", "Highly popular among locals during the warm summer months."]
     },
-    factsAdvanced: {
-      de: ["Der Park liegt zentral in der Hafenstadt Wŏnsan.", "Er wurde als Miniaturversion der berühmten Kŭmgang-Berge entworfen.", "Künstliche Felsen und Teiche prägen das Landschaftsbild.", "Der Park bietet den Stadtbewohnern einen kühlen Rückzugsort im Sommer.", "Die Bepflanzung umfasst traditionelle koreanische Kiefern.", "Er ist oft Schauplatz für Hochzeitsfotografien von lokalen Paaren."]
-    }
+    
   },
     description: {
       de: "Ein öffentlicher Park in der Küstenstadt Wonsan, benannt nach dem berühmten Kumgang-Gebirge, der als Erholungsort dient.",
@@ -707,9 +669,7 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
       hu: ["A raszoni piac a kínai és orosz turisták/kereskedők legfőbb célpontja a városban.", "Híres a hatalmas méretű hókirályrákokról és friss tengeri sünökről.", "Ez az egyik ritka hely az országban, ahol teljesen nyíltan zajlik az alkudozás.", "A piacon a hivatalos valuta helyett leginkább kínai jüant (RMB) használnak.", "A vásárolt tengeri herkentyűket a piac melletti éttermek azonnal meg is főzik.", "A lazább szabályok miatt az árusok gyakran magánvállalkozóként (donju) működnek."],
       en: ["Bustling commercial hub located in the Rason Special Economic Zone.", "Operates with a surprising degree of capitalistic market freedom.", "Allows independent vendors to sell catches directly to consumers.", "Famous for massive king crabs, sea urchins, and fresh squid.", "Sourced directly from the cold, deep waters of the Sea of Japan.", "Visitors can purchase live seafood and have it cooked on-site.", "A major attraction for Chinese and Russian cross-border tourists."]
     },
-    factsAdvanced: {
-      de: ["Der Markt befindet sich in der Sonderwirtschaftszone Rasŏn.", "Rasŏn grenzt direkt an China und Russland.", "Auf dem Markt kann oft legal mit chinesischem Yuan bezahlt werden.", "Besonders begehrt sind die gigantischen Königskrabben und Seeigel.", "Kunden können den Fisch kaufen und vor Ort frisch kochen lassen.", "Der Markt bietet einen seltenen Einblick in den privaten Kleinhandel in Nordkorea."]
-    }
+    
   },
     description: {
       de: "Ein Markt in der Sonderwirtschaftszone Rason, wo eine Vielzahl von frischen und getrockneten Meeresfrüchten gehandelt wird.",

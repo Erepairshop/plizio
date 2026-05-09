@@ -21,18 +21,8 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["Alapítva: 1886", "Tengerszint feletti magasság: 2355 m", "Népesség: kb. 5 millió fő", "Az Afrikai Unió székhelye", "A város neve 'Új virág'-ot jelent", "Itt található a híres Lucy-lelet a múzeumban"]
     },
-    descriptionAdvanced: {
-      de: "Addis Abeba, 1886 von Kaiser Menelik II. gegründet, ist das politische und wirtschaftliche Herz Äthiopiens. Die Stadt liegt auf einer Höhe von 2.355 Metern am Fuße des Entoto-Gebirges und beherbergt den Hauptsitz der Afrikanischen Union sowie die Wirtschaftskommission der Vereinten Nationen für Afrika. Äthiopiens Hauptstadt ist ein Schmelztiegel der Kulturen, der durch eine faszinierende Mischung aus traditionellen äthiopisch-orthodoxen Kirchen und moderner Architektur geprägt ist. Geografie K7 — Hochland und politische Zentren.",
-      hu: "Addisz-Abeba, amelyet 1886-ban II. Menelik császár alapított, Etiópia politikai és gazdasági központja. A város 2355 méteres tengerszint feletti magasságban, az Entoto-hegység lábánál fekszik, és itt található az Afrikai Unió, valamint az ENSZ Afrikai Gazdasági Bizottságának székhelye. Etiópia fővárosa a kultúrák olvasztótégelye, amelyet a hagyományos etióp ortodox templomok és a modern építészet izgalmas keveréke jellemez. Földrajz K7 — felföldek és politikai központok.",
-      ro: "Addis Abeba, fondată în 1886 de împăratul Menelik al II-lea, este inima politică și economică a Etiopiei. Orașul este situat la o altitudine de 2.355 de metri la poalele munților Entoto și găzduiește sediul Uniunii Africane, precum și Comisia Economică a Națiunilor Unite pentru Africa. Capitala Etiopiei este un creuzet al culturilor, caracterizat printr-un amestec fascinant de biserici tradiționale etiopiene ortodoxe și arhitectură modernă. Geografie K7 — ținuturi înalte și centre politice.",
-      en: "Addis Ababa, founded in 1886 by Emperor Menelik II, is the political and economic heart of Ethiopia. The city lies at an altitude of 2,355 meters at the foot of the Entoto Mountains and hosts the headquarters of the African Union as well as the United Nations Economic Commission for Africa. Ethiopia's capital is a melting pot of cultures, characterized by a fascinating mix of traditional Ethiopian Orthodox churches and modern architecture. Geography K7 — highlands and political centers."
-    },
-    factsAdvanced: {
-      de: ["Gründung im Jahr 1886 durch Menelik II.", "Höhe von 2.355 Metern über dem Meeresspiegel.", "Sitz des Hauptquartiers der Afrikanischen Union.", "Über 3,5 Millionen Einwohner im Großraum.", "Größter Markt Afrikas: Mercato.", "Hauptstadt seit der Stadtgründung."],
-      hu: ["1886-os alapítás II. Menelik által.", "2355 méteres magasság.", "Az Afrikai Unió székhelye.", "Több mint 3,5 millió lakos a nagyvárosi térségben.", "Afrika legnagyobb piaca: Mercato.", "Főváros az alapítás óta."],
-      ro: ["Fondare în 1886 de către Menelik al II-lea.", "Altitudine de 2.355 de metri.", "Sediul Uniunii Africane.", "Peste 3,5 milioane de locuitori în zona metropolitană.", "Cea mai mare piață din Africa: Mercato.", "Capitală de la fondarea orașului."],
-      en: ["Founded in 1886 by Menelik II.", "Elevation of 2,355 meters above sea level.", "Headquarters of the African Union.", "Over 3.5 million inhabitants in the metropolitan area.", "Largest market in Africa: Mercato.", "Capital since the city's foundation."]
-    }, image: "/poi-images/addis-ababa-cities-v2.webp"},
+    
+     image: "/poi-images/addis-ababa-cities-v2.webp"},
   {
     id: "dire-dawa-cities-v2",
     type: "state-capital",
@@ -52,18 +42,8 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["A vasútépítéssel párhuzamosan alapítva", "Fekvése: Etiópia keleti régiója", "Kereskedelmi központ Dzsibuti felé", "A Dechatu folyó mentén terül el", "Kulturálisan sokszínű közösség", "Forró, száraz éghajlat"]
     },
-    descriptionAdvanced: {
-      de: "Dire Dawa entstand 1902 als bedeutender Knotenpunkt der Eisenbahnlinie von Addis Abeba nach Dschibuti. Die Stadt liegt im Osten Äthiopiens und fungiert als wichtige Schnittstelle für den Handel zwischen dem Hochland und dem Roten Meer. Heute ist die Stadt ein Industriestandort mit einem diversifizierten wirtschaftlichen Profil, das von Textilproduktion bis zum Zementbau reicht. Die Architektur der Stadt, insbesondere im alten Viertel 'Addis Ketema', spiegelt die französische und äthiopische Geschichte der Bahnlinie wider. Wirtschaft K8 — Transport und Industrialisierung.",
-      hu: "Dire Dawa 1902-ben jött létre, az Addisz-Abeba és Dzsibuti közötti vasútvonal fontos csomópontjaként. A város Etiópia keleti részén található, és fontos kereskedelmi kapocs a felföld és a Vörös-tenger között. Ma a város ipari központ, sokszínű gazdasági profillal, a textilgyártástól a cementgyártásig. A város építészete, különösen az 'Addis Ketema' óvárosi rész, a vasútvonal francia és etióp történelmét tükrözi. Gazdaságtan K8 — közlekedés és iparosítás.",
-      ro: "Dire Dawa a luat naștere în 1902 ca un nod important al liniei ferate de la Addis Abeba la Djibouti. Orașul este situat în estul Etiopiei și acționează ca o interfață majoră pentru comerțul dintre ținuturile înalte și Marea Roșie. Astăzi, orașul este un centru industrial cu un profil economic diversificat, de la producția de textile la cea de ciment. Arhitectura orașului, în special în vechiul cartier 'Addis Ketema', reflectă istoria franceză și etiopiană a liniei ferate. Economie K8 — transport și industrializare.",
-      en: "Dire Dawa was created in 1902 as a major hub of the railway line from Addis Ababa to Djibouti. The city is located in eastern Ethiopia and acts as an important interface for trade between the highlands and the Red Sea. Today, the city is an industrial location with a diversified economic profile, ranging from textile production to cement manufacturing. The architecture of the city, especially in the old 'Addis Ketema' quarter, reflects the French and Ethiopian history of the railway line. Economics K8 — transportation and industrialization."
-    },
-    factsAdvanced: {
-      de: ["Eisenbahnknotenpunkt seit 1902.", "Zweitgrößte Stadt Äthiopiens.", "Sitz der Dire Dawa Universität.", "Gelegen auf rund 1.200 Metern.", "Wichtiger Standort für Zementwerke.", "Multiethnisches Handelszentrum."],
-      hu: ["Vasúti csomópont 1902 óta.", "Etiópia második legnagyobb városa.", "A Dire Dawa Egyetem székhelye.", "Körülbelül 1200 méteres magasság.", "Fontos cementgyári központ.", "Többnemzetiségű kereskedelmi központ."],
-      ro: ["Nod feroviar din 1902.", "Al doilea oraș ca mărime din Etiopia.", "Sediul Universității Dire Dawa.", "Situat la aproximativ 1.200 de metri.", "Centru important pentru fabricile de ciment.", "Centru comercial multietnic."],
-      en: ["Railway hub since 1902.", "Second largest city of Ethiopia.", "Seat of Dire Dawa University.", "Located at around 1,200 meters.", "Major location for cement plants.", "Multi-ethnic commercial center."]
-    }, image: "/poi-images/dire-dawa-cities-v2.webp"},
+    
+     image: "/poi-images/dire-dawa-cities-v2.webp"},
   {
     id: "mekelle-cities-v2",
     type: "state-capital",
@@ -83,24 +63,10 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Elevation of approx. 2,080 meters.", "Most important educational center of Tigray.", "Rich in potash and salt deposits.", "Known Martyrs' Memorial.", "Home to around 300,000 people.", "Regional economic center."]
     },
-    descriptionAdvanced: {
-      hu: "Mekelle Tigray régió fővárosa, Etiópia északi részén található. A város fontos ipari és oktatási központ, jelentős kálisó-bányászati tevékenységgel a környező régiókban. Történelmileg IV. Johannész császár idején vált igazán jelentőssé, amikor a császári palotát itt építtette fel. A modern Mekelle ma már egyetemi városként is ismert, amely a régió gazdasági vérkeringésének motorja. Földrajz K7 — erőforrások és regionális központok."
-    },
-    factsAdvanced: {
-      hu: ["Tigray régió székhelye", "IV. Johannész palotája itt található", "Jelentős kálisó-bányászat a régióban", "Fontos oktatási és egyetemi város", "Ipari központ az északi régióban", "Gazdasági vérkeringés motorja"]
-    },
-    descriptionAdvanced: {
-      de: "Mek'ele ist die Hauptstadt der Region Tigray und liegt auf einem Hochplateau in rund 2.080 Metern Höhe. Die Stadt gewann durch den Ausbau der Infrastruktur und die Etablierung bedeutender Bildungseinrichtungen, wie der Mekelle-Universität, in den letzten Jahrzehnten enorm an Bedeutung. Das Stadtbild wird durch das massive, weiße Märtyrerdenkmal geprägt, das an den Kampf gegen das Derg-Regime erinnert. Die Region ist auch reich an Bodenschätzen und besitzt eine florierende Salz- und Zementindustrie. Geschichte K8 — Derg-Regime und Moderne.",
-      hu: "Mekelle a Tigré régió fővárosa, egy magas fennsíkon fekszik, körülbelül 2080 méteres magasságban. A város az utóbbi évtizedekben az infrastruktúra bővítése és jelentős oktatási intézmények, például a Mekellei Egyetem létrehozása révén hatalmas jelentőségre tett szert. A városképet a hatalmas, fehér mártíremlékmű uralja, amely a Derg-rezsim elleni harcra emlékeztet. A régió ásványkincsekben is gazdag, virágzó só- és cementiparral rendelkezik. Történelem K8 — Derg-rezsim és modernitás.",
-      ro: "Mek'ele este capitala regiunii Tigray și este situată pe un platou înalt la aproximativ 2.080 de metri altitudine. Orașul a câștigat o importanță imensă în ultimele decenii prin extinderea infrastructurii și înființarea unor instituții de învățământ importante, cum ar fi Universitatea Mekelle. Peisajul urban este dominat de monumentul masiv și alb al martirilor, care amintește de lupta împotriva regimului Derg. Regiunea este, de asemenea, bogată în resurse minerale și are o industrie înfloritoare a sării și a cimentului. Istorie K8 — Regimul Derg și modernitate.",
-      en: "Mek'ele is the capital of the Tigray region and is located on a high plateau at about 2,080 meters altitude. The city has gained immense importance in recent decades through infrastructure expansion and the establishment of major educational institutions, such as Mekelle University. The cityscape is dominated by the massive white Martyrs' Memorial, which commemorates the fight against the Derg regime. The region is also rich in mineral resources and has a thriving salt and cement industry. History K8 — Derg regime and modernity."
-    },
-    factsAdvanced: {
-      de: ["Höhe von ca. 2.080 Metern.", "Wichtigster Bildungsstandort Tigrays.", "Reich an Kali- und Salzvorkommen.", "Bekanntes Märtyrerdenkmal.", "Heimat von rund 300.000 Menschen.", "Regionales Wirtschaftszentrum."],
-      hu: ["Kb. 2080 méteres magasság.", "Tigré legfontosabb oktatási központja.", "Gazdag kálium- és sókészletekben.", "Ismert mártíremlékmű.", "Körülbelül 300 000 ember otthona.", "Regionális gazdasági központ."],
-      ro: ["Altitudine de aprox. 2.080 de metri.", "Cel mai important centru educațional din Tigray.", "Bogată în depozite de potasiu și sare.", "Monumentul martirilor cunoscut.", "Cămin pentru aproximativ 300.000 de oameni.", "Centru economic regional."],
-      en: ["Elevation of approx. 2,080 meters.", "Most important educational center of Tigray.", "Rich in potash and salt deposits.", "Known Martyrs' Memorial.", "Home to around 300,000 people.", "Regional economic center."]
-    }
+    
+    
+    
+    
   },
   {
     id: "gondar-cities-v2",
@@ -121,14 +87,8 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Imperial capital from 1636 to 1864.", "Fasil Ghebbi complex is a UNESCO World Heritage site.", "Located at the foothills of the Simien Mountains.", "Famous for the annual Timkat religious festival.", "Architectural style blends diverse influences.", "Former seat of the Solomonic dynasty.", "Elevation of approximately 2,100 meters."]
     },
-    descriptionAdvanced: {
-      hu: "Gondar az Etióp-magasföld északi részén helyezkedik el, és történelmi jelentősége abból fakad, hogy a 17. és 18. században az Etióp Birodalom fővárosa volt. A város híres a Fasil Ghebbi erődített városrészéről, amely a középkori etióp építészet csúcspontját képviseli és az UNESCO Világörökség része. Palotái, templomai és középkori falai az afrikai építészet egyik legérdekesebb látványosságát alkotják. Történelem K8 — Etióp Birodalom és középkori uralkodók.",
-      ro: "Gondar, cunoscut drept Camelot-ul Africii, a fost capitala imperială a Etiopiei între secolele al XVII-lea și al XIX-lea. Orașul este celebru pentru complexul fortificat Fasil Ghebbi, inclus în patrimoniul mondial UNESCO, care găzduiește castele regale unice, ce îmbină stilurile arhitecturale axumite, portugheze și indiene. Situat la poalele munților Simien, Gondar rămâne un centru cultural și religios vital, renumit pentru celebrarea Timkat, o sărbătoare epifanie de o amploare și coloratură impresionantă. Istorie K7 — dinastiile regale și arhitectura colonială."
-    },
-    factsAdvanced: {
-      hu: ["Az Etióp Birodalom fővárosa volt (17-18. sz.)", "Fasil Ghebbi erődített városrész", "UNESCO Világörökségi helyszín", "Középkori etióp építészet", "Az 'afrikai Camelot'-nak is nevezik", "Számos történelmi palota otthona"],
-      ro: ["Capitală imperială între 1636 și 1864", "Complexul Fasil Ghebbi este patrimoniu UNESCO", "Situat la poalele munților Simien", "Cunoscut pentru sărbătoarea religioasă Timkat", "Arhitectură unică cu influențe portugheze", "A fost centrul puterii dinastiei Solomonide", "Are o altitudine de aproximativ 2.100 m"]
-    }, image: "/poi-images/gondar-cities-v2.webp"},
+    
+     image: "/poi-images/gondar-cities-v2.webp"},
   {
     id: "bahir-dar-cities-v2",
     type: "state-capital",

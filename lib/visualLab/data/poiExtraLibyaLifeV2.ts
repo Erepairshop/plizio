@@ -27,18 +27,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Különféle őshonos fajok otthona.", "Népszerű családi kirándulóhely.", "Jelentős park állatok sokaságával.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Găzduiește diverse specii native.", "O destinație populară pentru familii.", "O grădină importantă cu o varietate de animale.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/tripoli-zoo-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Zoo von Tripolis, der sich inmitten eines großen Waldparks (Al Nasr Park) befindet, war einst ein blühendes Zentrum für Erholung und Wildtiere. Trotz schwerer Rückschläge und Vernachlässigung während der Konflikte bemühen sich lokale Initiativen, den Park als wichtige grüne Lunge und Freizeiteinrichtung für Familien zu erhalten. Geografie K6 — Städtische Parks.",
-      hu: "A Tripoli Állatkert és Botanikus Kert egykor a líbiai főváros egyik legkedveltebb és legnagyobb zöldterülete volt, amely az Abu Szalim kerületben, egy kiterjedt erdős parkban kapott helyet. A fénykorában afrikai nagyvadaknak (elefántok, oroszlánok, zsiráfok) és ritka helyi sivatagi fajoknak otthont adó létesítmény generációk számára nyújtott kikapcsolódást és oktatási lehetőséget. Bár a háborús évek során a park infrastruktúrája és állatállománya drámai módon lecsökkent, a hatalmas zöldterület ma is a főváros fontos 'tüdejeként' funkcionál, amelynek újjáélesztése folyamatos téma a helyi közösségben. Természetismeret K5 — városi zöldterületek és állatkertek.",
-      ro: "Grădina mândră recunoscută curajos uriaș publică urbană complet masiv modernă fină de izolat de est faimos mare și de animale faimos clar faimoasă Zoologică uluitoare a marei uluitoare așezări urbane vestice estice faimoase de capitală vestică est faimoasă faimoasă Tripoli a funcționat istoric complet curajos oficial și fin ca mândru cel absolut mai faimos curajos extins spațiu de peisaj fin faimos și mândru cel mai spectaculos complex onorant de floră rară și absolut animale africane mari uriașe din mare uluitor nord africană regiune libiană est. Pădurea sa verde faimoasă cu eucalipți imenși și spațiile cu uriașe faimoase carnivore africane uimitoare fine atrag amintiri calde fine nostalgice urbane sud mediteraneene est masiv din vest. Biologie K7 — conservarea și protecția urbană est a megafaunei mediteraneene sud africane în capitale de mediteranean nord faimos de uscat.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Größter Zoo und Tierpark in Libyen", "Eingebettet in den weitläufigen Al Nasr Waldpark", "Einst beliebtes Familienausflugsziel", "Erlitt während der Konflikte starke Schäden", "Beherbergt afrikanische und exotische Wildtiere", "Wichtige 'grüne Lunge' der Hauptstadt Tripolis"],
-      hu: ["Tripoli déli részén, az Abu Szalim negyed egy hatalmas erdejében található.", "Egykor Líbia legnagyobb és legjobban felszerelt állatkertje és botanikus kertje volt.", "Virágkorában az afrikai szavanna szinte minden nagy testű állata (elefánt, orrszarvú) élt itt.", "A 2011-es konfliktus után az állatok nagy része a hiányos ellátás miatt elpusztult vagy átköltöztették őket.", "A terület kiterjedt fásításának köszönhetően Tripoli egyik legfontosabb zöld övezete.", "Jelenleg civil kezdeményezések próbálják a parkot rekreációs övezetként újjáéleszteni."],
-      ro: ["Include oficial faimos un faimos mare uluitor clar absolut extins mândru onorific de uluitor spațiu curat complet masiv verde și absolut bogat uluitor vegetal cu mii fin recunoscuți onorific umbroși masivi mari frumoși pini și eucalipți faimos uriaș africani mediteraneeni urbani est faimoși sud africani mari onorante est.", "În anii deceniului mândru de uluitor fin glorie izolat masiv clar de absolut fin curajos faimos sud uimitor de 1990, grădina uriaș curată faimoasă mediteraneana adăpostea faimos celebre onorante curajoase specii mari de animale clar onorante complet uluitor elefanti mari lei și mari fin girafe deșertice fin sudice clare africane izolat faimoasă.", "Infrastructura parcului fin și țarcurile imense fin faimos urbane de animale uriaș au faimos suferit onorant uluitor masiv și extrem clar uluitor grave masiv extrem mari complet de sângeroase uluitoare curajoase devastări triste faimoase izolate masive clar din conflict curat sângeros est urban mediteranean 2011 fin.", "Pe aleile verzi recunoscute se mai clar aud complet rar curat păunii uluitori onoranți masiv și onorant clar găinile mari faimoase sălbatice care uimitor s-au fin și curat curajos adaptat mediteranean uriaș liber și sălbăticit complet peisajului modern faimos urban faimos est fin sud deșert est.", "Un proiect curat oficial clar fin uriaș urbanist faimos guvernamental recent faimos încearcă tăcut cu disperare uriaș absolut fin să fin uluitor refacă curajos complet extrem onorant complet acest mândru vechi mediteranean spațiu verde uriaș recreativ faimos clar urban onorant pentru faimos copii urbani est faimos de capitală izolat est fin.", "Zona parcului curat fin masiv est a faimos devenit complet și uluitor o zonă clar urbană fin recunoscută masiv onorific faimos populară uluitor curat mândră curajos faimos de masiv extrem weekend faimos picnic pentru cetățenii urbani vestici tineri de est mediteranean masiv."],
-      en: []
-    }
+    
+    
   },
   {
     id: "benghazi-zoo-life-v2",
@@ -65,18 +55,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["A helyi élővilágra összpontosít.", "Fontos természetvédelmi központ.", "Állatkert a tengerparti Bengázi városában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Accent pe fauna locală.", "Formează un centru important pentru conservare.", "O grădină zoologică în orașul de coastă Benghazi.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/benghazi-zoo-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Zoo in Bengasi, gelegen im beliebten Al-Bosco-Park, bot den Bewohnern Ostlibyens traditionell eine seltene Gelegenheit, Wildtiere zu beobachten. Wie viele öffentliche Einrichtungen litt der Park stark unter den jahrelangen Kämpfen in der Stadt, bleibt aber ein nostalgischer Ort und Fokus für städtische Erneuerungsprojekte. Geografie K6 — Freizeitanlagen.",
-      hu: "A Bengázi Állatkert, más néven az Al-Fuwayhat Park (Bosco), a keleti tengerparti metropolisz legismertebb természetközeli létesítménye volt. A hatalmas, fenyőfákkal és eukaliptuszokkal beültetett terület eredetileg az olasz gyarmati időszakban létesült rekreációs célokkal, később pedig egy jelentős állatállománnyal rendelkező vadasparkká fejlesztették. Bár a háborús évek pusztítása itt is mély nyomokat hagyott az állatok és az infrastruktúra terén, a helyiek elszántságának köszönhetően a park ma újra a bengázi családok kedvelt piknikező és pihenőhelye a forró nyári hétvégéken. Természetismeret K5 — városi parkok és közösségi rekreáció.",
-      ro: "Grădina masiv urbană și faimoasă uimitor complet verde faimoasă liniștită fină Zoologică uluitoare a uriașei așezări urbane mediteraneene sud de est curat faimos Benghazi se găsește și s-a situat istoric onorant în faimos extrem onorific recunoscutul imens urban parc larg est central deșertic verde complet uluitor masiv onorific faimos extrem onorant cunoscut de Al-Fuwayhat faimos izolat est de mediteranean. A oferit de decenii faimos un plămân uriaș verde est absolut esențial tăcut și curat onorant un complet adăpost sigur fin est pentru uluitoare clar faimoasele animale izolate uriaș est mediteraneene curat aduse est faimos, stând absolut masiv ca unicul uriaș pol rural curat recreativ pentru copiii izolați faimoși din est deșertic. Biologie K7 — educație civică fină botanică urbană est și parcuri mari naționale zoologice de sud africane libiene mediteraneene est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Gelegen im Al-Bosco-Park (Il Bosco) in Bengasi", "Wichtiges Naherholungsgebiet der Stadt", "Traditioneller Zoo für exotische Tiere", "Schwer in Mitleidenschaft gezogen im Bürgerkrieg 2014", "Zentrum für lokale Erneuerungsbemühungen", "Bietet schattige Plätze im heißen Sommer"],
-      hu: ["Bengázi Al-Fuwayhat nevű negyedében található hatalmas zöldterület.", "A helyiek gyakran olasz nevén, 'Bosco'-ként (erdő) emlegetik a parkot.", "A 20. század második felében Kelet-Líbia legfontosabb állatkertje volt.", "A 2014-es harcok során a terület a frontvonalba került, az állatállomány megsemmisült.", "Ma a város lakói nagyszabású önkéntes munkákkal próbálják visszaállítani park funkcióját.", "Jelentős árnyékot adó, idős eukaliptusz- és fenyőfa állománnyal rendelkezik."],
-      ro: ["Include absolut onorant uluitor și vizual curajos faimos masiv mândre exemplare curat uimitoare faimoase și clare onorante absolute fine uriaș de masiv păsări faimoase africane extrem curat mari migratoare faimoase și reptile deșertice fin sahariene uriaș fin care uimesc onorant vizitatorii mediteraneeni tineri.", "Spre absolut clar faimos extrem de marea și uluitoare tristețe fină curat onorantă a tuturor urbani recunoscuți curajoși localnici faimoși, parcul a suportat onorant izolat devastări dureroase uriaș fin masive sângeroase est și părăsire extrem complet uluitor în anii faimos tulburi urbani de conflict est sud.", "Zona a faimos adăpostit fin extrem zeci uluitor onorific clar și masiv sute fin onorant faimos absolut impresionante clare curajoase masiv uluitor de familii rurale onorante urbane faimoase maimuțe fin uluitoare izolate masiv care s-au înmulțit faimos complet curat curajos în vegetația înaltă verde est.", "Vegetația parcului este faimoasă complet și absolut masiv curajos remarcabilă est cu mari fin uluitori de recunoscut extrem faimoși faimos arbori bătrâni curat faimos aduși din onorant uluitor fin recunoscut masiv curajos estic mediteranean Europa fin sud estic mediteranean și izolat faimos de nord.", "Voluntarii curajoși și activiștii curat de est onoranți est mediteraneeni locali din Benghazi au organizat absolut uluitor campanii clare complet civile uriaș curajoase mediteraneene pentru a fin și curat curajos susține faimos uriaș protecția cu greu onorant extrem a fin mediteraneana foamei onorante animale est rămase faimos de est.", "Acest parc tăcut a onorant marcat copilăria a zeci absolut uluitor masiv și sute faimos uimitor extrem onorant absolut curat masiv mii uluitor de onoranți est faimoși copii urbani faimoși est africane izolate înainte de uriaș de faimoase decenii curat masive onorante faimoase est mediteraneene de uscat sud est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "misrata-park-life-v2",
@@ -103,18 +83,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Modern játszóterekkel felszerelt.", "Népszerű találkozóhely a lakosok számára.", "Nagy park kikapcsolódásra és játékra.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Echipat cu locuri de joacă moderne.", "Un punct de întâlnire popular pentru locuitori.", "Un parc mare pentru relaxare și joacă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/misrata-park-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Stadtpark von Misrata ist eine sorgfältig gepflegte grüne Oase im Zentrum der florierenden Handelsstadt. Der Park bietet schattige Picknickplätze, Spielplätze für Kinder und Spazierwege, die von der hart arbeitenden Bevölkerung der Industriestadt intensiv zur Entspannung und für abendliche Familientreffen genutzt werden. Geografie K6 — Lebensqualität in Städten.",
-      hu: "A Miszrátai Városliget a dinamikus és iparosodott város zöld szíve, amely békés menedéket nyújt a kereskedelmi és kikötői nyüzsgés elől. A széles sétányokkal, pálmafákkal, játszóterekkel és díszkutakkal tarkított park a miszrátai családok kedvenc találkozóhelye a hűvösebb esti órákban. A városvezetés az elmúlt években jelentős forrásokat fordított a park fejlesztésére, ezzel is demonstrálva Miszráta háború utáni gyors talpra állását és a polgári, élhető városi környezet iránti elkötelezettségét. Társadalomismeret K5 — városfejlesztés és közösségi terek.",
-      ro: "Parcul verde și faimos recunoscut uriaș umbros faimos din inima orașului comercial masiv Misrata servește clar și mândru drept onorant refugiu complet faimos esențial tăcut din calea fierbinte a verilor faimoase toride nord africane. Proiectat cu onoare curajoasă fină clar absolut faimos ca un colosal plămân clar absolut verde, atrage în tăcere uriașe familii fine mândre dornice uluitor să se bucure faimos de liniște estică sud. Biologie K7 — parcurile publice africane urbane și regenerarea spațiilor de vegetație mediteraneană faimoasă din nord est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Zentraler Stadtpark in Misrata", "Wichtige Grünfläche in der Industriestadt", "Beliebt für abendliche Spaziergänge", "Ausgestattet mit Kinderspielplätzen", "Bietet Schatten durch alte Bäume", "Stark frequentiert an Wochenenden"],
-      hu: ["Miszráta központjában fekvő, gondozott zöldterület.", "A város gyors újjáépítésének és polgári stabilizációjának egyik szimbóluma.", "Korszerű játszóterekkel és padokkal van felszerelve a családok számára.", "A forró nyári napokon a pálmafák és az öntözött pázsit hűsítő mikroklímát biztosít.", "Gyakran szolgál helyi fesztiválok és közösségi események helyszínéül.", "A park karbantartása a helyi közösség és a városvezetés közös büszkesége."],
-      ro: ["Include vegetație luxuriantă clar mediteraneana faimoasă adusă fin din Europa curată sud.", "Reprezintă oaze recunoscute urbane faimoase cu arbori faimoși estici masivi curajoși clari.", "Adăpostește numeroase specii de păsări rurale rătăcite faimoase urbane estice nord.", "A fost proiectat masiv cu asistență clară fină internațională de onorant peisagism urban.", "Dispune de zone uriașe tăcute pentru jocuri și faimos picnic comunitar arab estic.", "Apele fântânilor masive recoresc curajos atmosfera de seară mediteraneana curat."],
-      en: []
-    }
+    
+    
   },
   {
     id: "djebel-nafusa-agri-life-v2",
@@ -141,18 +111,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Kiváló minőségű olívaolaj-termeléséről híres.", "Évszázadok óta művelt termesztési módszerek.", "Hagyományos olívatermesztő régió a hegyvidéken.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Cunoscut pentru producția de ulei de măsline de calitate.", "Metode de cultivare menținute de secole.", "Regiune tradițională de cultivare a măslinelor în zona montană.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/djebel-nafusa-agri-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die weitläufigen Olivenhaine im Nafusa-Gebirge bilden das Rückgrat der traditionellen landwirtschaftlichen Wirtschaft der Amazigh (Berber). Die terrassierten Hänge und tiefen Täler sind ideal für den Anbau von hochwertigen Oliven, deren Öl landesweit für seine Reinheit und seinen ausgezeichneten Geschmack berühmt ist. Geografie K7 — Berglandwirtschaft.",
-      hu: "A Nafúsza-hegység (Jabal Nafusa) olajfaligetei Líbia legősibb és legértékesebb mezőgazdasági kincsei közé tartoznak. A meredek sziklafalak feletti fennsíkon a keménykötésű berber (amazigh) földművesek évezredek óta művelik a teraszos földeket, amelyeken a sivatagi aszályt is tűrő, ősi olajfafajták teremnek. A kőbe vájt hagyományos olajprések és a domboldalakat borító ezüstös-zöld fák tengerének látványa nemcsak gazdasági, hanem mély kulturális jelentőséggel is bír: az itt sajtolt olívaolaj minősége országszerte híres, és a hegyvidéki élet túlélésének záloga. Földrajz K7 — hegyvidéki mezőgazdaság és teraszos gazdálkodás.",
-      ro: "Regiunea agrară mândră curată din Djebel Nafusa prezintă uimitor o faimoasă clară tradiție masivă curat rurală izolată montană faimoasă uluitoare clar din nord estul vestic african de munte. Terasele fin faimoase uluitoare săpate cu trudă clar mândră faimoasă de populațiile berbere rețin faimos fiecare curată picătură uriașă rară onorantă de umiditate sud mediteraneana. Geografie K7 — agricultura de tip terasă montană și sistemele de reținere a apei aride africane izolate din vest est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Große Olivenhaine im Nafusa-Gebirge", "Traditionell bewirtschaftet von den Amazigh", "Terrassenfeldbau in trockenen Tälern", "Produziert hochwertiges libysches Olivenöl", "Einige Olivenbäume sind Jahrhunderte alt", "Zentrale Einnahmequelle der Bergbevölkerung"],
-      hu: ["A Nafúsza-hegység fennsíkjain több millió, aszálytűrő olajfa él.", "Néhány olajfa kora errefelé meghaladja a több száz, sőt ezer évet is.", "Az olívaolaj termelése a helyi berber (amazigh) közösségek alapvető bevételi forrása.", "A gazdálkodás hagyományos, vegyszermentes módszerekkel történik az esővíz (vagy aszály) függvényében.", "A teraszos művelés megakadályozza a ritka, de heves esőzések okozta talajeróziót.", "Számos ősi, barlangba vájt földalatti olajprés (ma'sara) működött itt a történelem során."],
-      ro: ["Include zeci de uluitoare terase fine clare tradiționale berbere rurale montane sud.", "Măslinii plantați aici faimos sunt vechi clari masiv seculari și foarte productivi onorant.", "Ploaia rară clar de munte mediteraneana sud izolată este faimos stocată uimitor eficient nord.", "Terenul stâncos curajos a fost masiv curățat fin cu mâinile libere istoric mediteraneana.", "Smochinii onoranți cresc faimos din plin clar mediteraneana rural izolat faimoasă sud africane.", "Pășunatul controlat faimos asigură supraviețuirea curajoasă est montană deșert est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "gadamis-oasis-life-v2",
@@ -179,18 +139,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Datolya és zöldségtermesztés.", "A sivatagi élet szimbóluma.", "Zöld oázis hagyományos termesztéssel.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Cultivarea curmalelor și legumelor.", "Un simbol al vieții în deșert.", "O oază verde cu culturi tradiționale.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/gadamis-oasis-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die üppigen Palmengärten der Ghadames-Oase bilden einen starken Kontrast zur umliegenden, unbarmherzigen Sahara-Wüste. Dank eines ausgeklügelten, jahrhundertealten artesischen Bewässerungssystems gedeihen hier Dattelpalmen, Granatäpfel und Gemüse, die das Überleben in dieser isolierten UNESCO-Stadt sichern. Geografie K7 — Oasenökologie.",
-      hu: "A Ghadámesz Oázis a líbiai sivatag egyik legősibb és leghatékonyabb ember alkotta mezőgazdasági ökoszisztémája. Az UNESCO világörökség részét képező várost körbeölelő, zöldellő pálmaligetek nemcsak táplálékot (elsősorban prémium datolyát) biztosítanak, hanem megvédik az óvárost a perzselő homokviharoktól is. Az oázis túlélésének titka az Ain al-Faras (A Ló Forrása) nevű artézi forrás vizének rendkívül bonyolult és igazságos, évszázados csatornarendszeren (segia) keresztül történő elosztása, amely a fenntartható sivatagi gazdálkodás mesterpéldája. Földrajz K8 — fenntartható oázis-gazdálkodás és vízgazdálkodás.",
-      ro: "Viața faimoasă tradițională din oaza Ghadames reflectă uimitor adaptarea clară umană rurală perfectă onorantă la cel mai dur mediu masiv izolat deșertic saharian est faimos nord african sud. Grădinile uriașe scufundate faimoase adăpostesc uluitor o rețea clar complet deasă onorantă de curmali rari faimoși protejați est faimoasă mediteraneana. Sociologie K7 — ecosistemul fin al oazelor și supraviețuirea așezărilor tribale tradiționale nord africane de est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Üppige Palmengärten inmitten der Sahara", "Nutzt ein traditionelles, artesischen Bewässerungssystem", "Anbau von Datteln, Granatäpfeln und Gemüse", "Sichert die Nahrungsmittelversorgung der Altstadt", "Bietet lebenswichtigen Schatten vor der Wüstensonne", "UNESCO-geschützte Kulturlandschaft"],
-      hu: ["A hatalmas Ghadámesz oázis több mint 20 000 datolyapálmának ad otthont.", "A pálmák alatti árnyékban citrusféléket, fügét és zöldségeket is termesztenek.", "Az éltető vizet a történelmi Ain al-Faras (A Ló Forrása) artézi kút biztosítja.", "A vízelosztást évszázadok óta egy bonyolult, időalapú mérési rendszerrel szabályozzák.", "A datolyapálmák sűrű hálózata fizikai pajzsként védi a várost a sivatagi homoktól.", "Az oázis szűk ösvényein tilos motoros járművel közlekedni az ökoszisztéma védelmében."],
-      ro: ["Include sistemul clar faimos extrem de inteligent antic de irigații faimoasă fin estic sud.", "Curmalii înalți faimoși protejează uluitor clar legumele sud mediteraneene de est vânt fierbinte.", "Apa curată dulce curajos este faimos clar împărțită strict comunitar rural onorant sud africane.", "Atrage onorific stoluri izolate faimoase rurale de păsări saharian mândru oază faimoasă.", "Oaza a susținut faimos vieți rurale clare rătăcite caravane izolate est nord.", "Fructele faimoase sunt culese faimos la finalul clar extrem cald vară mediteraneana est faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "kufra-orchard-life-v2",
@@ -217,18 +167,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Föld alatti vízkészletek teszik lehetővé.", "A helyi gyümölcsellátás központja.", "Öntözött kertek a sivatag közepén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Posibil prin rezervele de apă subterană.", "Centru pentru aprovizionarea locală cu fructe.", "Grădini irigate în mijlocul deșertului.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/kufra-orchard-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Obstgärten und Agrarflächen von Kufra im tiefen Südosten Libyens sind ein technologisches Wunderwerk. Mit gigantischen kreisrunden Feldern (Center-Pivot-Bewässerung), die aus riesigen fossilen Grundwasserleitern bewässert werden, produzieren diese Plantagen Getreide und Obst in einer der trockensten Regionen der Erde. Geografie K8 — Fossiles Grundwasser.",
-      hu: "Al-Kufra (Al Jawf) mezőgazdasági területei a világ egyik legextrémebb agrárprojektjét jelentik a Szahara legszárazabb, délkeleti sarkában. A végtelen homoktengerből űrből is jól látható, hatalmas zöld, kör alakú mezők emelkednek ki. Ezeket az akár egy kilométer átmérőjű, mesterséges oázisokat a föld alatt húzódó, ősi núbiai homokkő víztartó rétegből nyert fosszilis víz körforgó öntözőberendezéseivel (center pivot) tartják életben. Az itt termesztett búza, lucerna és gyümölcsök bizonyítják a modern technológia erejét a sivatag felett, ugyanakkor komoly kérdéseket is felvetnek a nem megújuló vízkészletek fenntartásával kapcsolatban. Földrajz K8 — körkörös öntözés és fosszilis vízkészletek.",
-      ro: "Liveda onorantă rurală imensă verde din Kufra se află masiv izolată curajos faimos absolut complet departe în inima fin deșertului est faimos nord african mediteraneana saharian sud. Proiectul colosal mândru agrar stă ca o minune uluitoare modernă verde, susținut uimitor faimos de apa fosilă a faimosului uriaș bazin subteran de sud africane. Geografie K7 — extracția apelor fosile și marile livezi moderne circulare sahariene rurale africane izolate din est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Landwirtschaft in der extrem trockenen Kufra-Oase", "Nutzt Center-Pivot-Bewässerung (kreisförmige Felder)", "Bewässert aus tiefen, fossilen Grundwasserreservoirs", "Anbau von Getreide, Obst und Gemüse", "Zentrales staatliches Agrarprojekt", "Grüne Kreise sind aus dem Weltall sichtbar"],
-      hu: ["Al-Kufra a világ egyik legszárazabb területe, éves csapadékmennyisége szinte nulla.", "A mezőgazdaságot a földalatti Kufra-medence hatalmas fosszilis vízkészlete élteti.", "A 'center pivot' (körkörös öntözési) technológiával 0,8 - 1,2 km átmérőjű kör alakú mezőket hoznak létre.", "A magasból (és a műholdképeken) zöld korongokként látszanak a sivatag közepén.", "A búzán és takarmánynövényeken kívül barackot és mangót is termesztenek a mikroklímában.", "A projekt a Líbiai Nagy Emberalkotta Folyó (GMMR) vízgyűjtő hálózatának is fontos része."],
-      ro: ["Include culturi uriașe fine faimoase izolate vizibile clar faimos din spațiu mediteranean est.", "Apele adânci fosile asigură uluitor irigații clare perfect rurale mediteraneene izolate sud.", "Sute de mii de fin arbori de citrice curajoși cresc mândru faimos uimitor pe nisip fin faimos.", "Temperaturile extreme sunt onorant atenuate faimos microclimatic clar faimoasă est sud vestic.", "Așezarea furnizează faimos recolte uluitoare de piersici rurale rari nord mediteraneana est.", "Terenul arid faimos a fost masiv fertilizat uimitor științific rural izolat faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "zawia-farm-life-v2",
@@ -255,18 +195,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Gabonát és takarmánynövényeket termel.", "A régió gazdasági motorja.", "Jelentős terület a növénytermesztés számára.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Produce cereale și plante furajere.", "Motorul economic al regiunii.", "O zonă semnificativă pentru agricultură.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/zawia-farm-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Agrarzone rund um die Küstenstadt Zawiya ist eine der fruchtbarsten Regionen in Westlibyen. Dank des milden mediterranen Klimas und moderner Bewässerungstechniken werden hier intensive Zitrusplantagen, Getreidefelder und Gemüsekulturen betrieben, die den großen Markt in der Hauptstadt Tripolis versorgen. Geografie K7 — Küstenlandwirtschaft.",
-      hu: "Az Ezzávija (Zawiya) körüli mezőgazdasági zóna Líbia északnyugati partvidékének egyik legtermékenyebb és legintenzívebben művelt területe. Míg a város nevét leginkább az olajfinomítóról ismerik, a települést körülölelő Jefara-síkság tanyái és fóliasátrai az ország fővárosának és nyugati régiójának élelmiszerellátásában játszanak kulcsszerepet. A viszonylag sekélyen fekvő talajvíz és a kedvező mediterrán klíma lehetővé teszi a zöldségek (paradicsom, paprika), a citrusfélék és az olajbogyó nagyüzemi termesztését, ami a helyi gazdaság stabil, nem olajfüggő lába. Földrajz K7 — intenzív mezőgazdaság és élelmiszer-ellátás.",
-      ro: "Viața agricolă mândră curată onorantă rurală fermă din regiunea Zawiya este o explozie faimoasă uimitoare absolut verde și vitală pe marea faleză vestică est faimoasă de nord mediteranean libiană est. Pământul fin fertil curajos faimos și accesul mândru onorant clar la pânzele freatice mari susțin livezi mari fine onorante rurale de faimoase citrice și faimoși uriași uimitor măslini seculari est. Geografie K7 — fertilitatea coastei mediteraneene și rutele agricole litorale sud vestice rurale nord africane.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Fruchtbare landwirtschaftliche Zone bei Zawiya", "Profitiert vom mediterranen Küstenklima", "Hauptanbau von Zitrusfrüchten und Gemüse", "Wichtiger Lebensmittellieferant für Tripolis", "Dicht besiedelte Agrarlandschaft", "Mix aus traditioneller und moderner Landwirtschaft"],
-      hu: ["Ezzávija városát Tripolitániában kiterjedt mezőgazdasági területek (Jefara-síkság) övezik.", "Tripoli piacainak egyik legfőbb friss zöldség- és gyümölcsellátója.", "A területen nagymértékben elterjedt a fóliasátras (üvegházi) és az öntözéses termesztés.", "A sekély földalatti vízkészletek intenzív (néha túlzott) kihasználása jellemzi a régiót.", "Jelentős mennyiségű citrusfélét (narancs, citrom) és olajbogyót szüretelnek itt.", "A mezőgazdasági szektor rengeteg helyi és külföldi idénymunkást foglalkoztat."],
-      ro: ["Include livezi mândre fine absolut bogate faimos izolate clar în mari lămâi faimoși estici.", "Măslinii faimoși produc clar un ulei absolut faimos uimitor extrem pur curat nord african sud.", "Solurile argiloase clare faimoase ajută uluitor absolut păstrarea umidității est mediteraneana fin.", "Așezarea furnizează masiv complet roșii fine faimoase uimitor dulci urbane rurale sud africane.", "Sistemele de pompare urbane de apă sunt onorante faimoasă extrem vechi curat faimos sud vestic.", "Fermierii tineri aplică tehnici absolut clare faimoase rurale moderne nord africane est faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "gharyan-nursery-life-v2",
@@ -293,18 +223,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Támogatja a helyi mezőgazdaságot.", "Klímavédő növényeket tenyészt.", "Palánták és növények központja.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Sprijină agricultura locală.", "Cultivă plante rezistente la climă.", "Un centru pentru răsaduri și plante.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/gharyan-nursery-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Baumschulen und Gärtnereien in den Bergregionen rund um Gharyan sind essenziell für die Aufforstung und den Obstbau in Tripolitanien. Aufgrund des kühleren Klimas an den Hängen des Nafusa-Gebirges gedeihen hier junge Feigen-, Mandel- und Olivenbäume hervorragend, bevor sie im ganzen Land gepflanzt werden. Geografie K6 — Pflanzenzucht.",
-      hu: "A Garián Faiskola és csemetekert a Nafúsza-hegység központjában egy létfontosságú intézmény a líbiai mezőgazdaság és a sivatagosodás elleni küzdelem szempontjából. A magasan fekvő város hűvösebb klímája ideális feltételeket teremt a fiatal gyümölcsfák, különösen az olajfák, a füge és a mandula csemetéinek nevelésére. A helyi szakemberek évtizedek óta kísérleteznek a szárazságtűrő fajtákkal, amelyeket aztán szétosztanak a környező hegyi falvak és a síkságok gazdái között, ezzel is biztosítva Líbia zöld jövőjét. Környezetismeret K5 — faiskolák és sivatagosodás elleni védekezés.",
-      ro: "Pepiniera faimoasă rurală și agricolă uriaș verde din așezarea mândră muntoasă deșertică sud faimoasă Gharyan furnizează clar mândru puiet uimitor extrem vital pentru a împăduri clar absolut stâncosul mândru platou uscat Nafusa sud est. Cultivarea onorantă curajoasă răsadurilor se face uluitor și faimos prin protejare mândră clară împotriva extrem caldului soare faimos vestic fin cu mari faimoase perdele din plase onorante rurale africane. Biologie K7 — pepiniere silvice și regenerarea pădurilor aride montane africane rurale est de nord izolat sud.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Zentrum für Baumschulen und Setzlinge in Gharyan", "Spezialisiert auf Oliven-, Feigen- und Mandelbäume", "Nutzt das kühlere Bergklima für die Aufzucht", "Wichtig für landesweite Aufforstungsprojekte", "Versorgt Bauern im westlichen Libyen", "Stärkt die lokale Bergbauern-Wirtschaft"],
-      hu: ["Garián (Gharyan) városa a Nafúsza-hegység mezőgazdasági innovációs központja.", "A faiskola évente több ezer szárazságtűrő facsemetét nevel ki a régió számára.", "Fő profiljuk az olajfa-, füge-, mandula- és gránátalma-csemeték szaporítása.", "Az itt nevelt növények elengedhetetlenek a hegyvidéki teraszok talajeróziójának megállításához.", "A hűvösebb hegyvidéki mikroklíma erősíti a növények gyökérzetét a kiültetés előtt.", "A létesítmény hozzájárul Líbia újraerdősítési és mezőgazdasági önellátási programjaihoz."],
-      ro: ["Produce anual uluitor mii clar de puieți faimoși de uluitori pini faimoasă mediteraneana fin estici sud.", "Susține faimos clar mândru complet campaniile faimoase de uriașă împădurire nord africane deșert faimos.", "Pepiniera are rezervoare mari mândre clare fine pentru faimos apa de munte sud mediteranean fin.", "Răsadurile de ienupăr curajos faimos sunt esențiale clar extrem mediului faimos de est mediteranean.", "Este administrată curajos uimitor cu experți urbani rătăciți rurale botaniști faimoși nord.", "Include soiuri faimoase adaptate onorant uriaș faimos secetei faimoasă de uscat nord mediteranean."],
-      en: []
-    }
+    
+    
   },
   {
     id: "sebha-park-life-v2",
@@ -331,18 +251,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Népszerű hely nyári estéken.", "Árnyékos ülőhelyeket kínál.", "Pihenőpark családoknak a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Loc popular pentru serile de vară.", "Oferă zone de șezut umbrite.", "Un parc de recreere pentru familii în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/sebha-park-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Familienpark in Sabha ist ein wertvoller sozialer Raum in der größten Oasenstadt des Fezzan. In einer Region, die oft von extremen Sommertemperaturen und Sandstürmen geprägt ist, bieten die bewässerten Rasenflächen und Palmen des Parks einen unerlässlichen Rückzugsort für Familien und spielende Kinder. Geografie K6 — Oasenleben.",
-      hu: "A Szabha Családi Park a déli Fezzán régió poros és forró fővárosának legnépszerűbb és leginkább vágyott oázisa a mindennapokban. Szabha kietlen, sivatagi környezetében egy fenntartott, öntözött zöldterület felbecsülhetetlen értéket képvisel a helyi közösség számára. A fák árnyékával, játszóterekkel és sétányokkal kialakított park a péntek délutáni családi piknikek, a gyerekek játékának és a baráti beszélgetéseknek a legfőbb színtere, amely bizonyítja, hogy a megfelelő gondoskodással a sivatag szívében is virágozhat a közösségi élet. Társadalomismeret K5 — sivatagi rekreáció és család.",
-      ro: "Parcul mândru urban faimos clar și izolat fin din marea onorantă și mândra rurală faimoasă complet faimos de așezare sudică Sabha est reprezintă o mică faimoasă uluitor minune de verdeață în absolut onoranta și uscată regiune rurală fin Fezzan est mediteraneana. Fântânile mari uluitor curajoase clar susțin uriaș arbori de curmal și fini salcâmi uimitor absolut masivi aducând umbră și clar faimos extrem bucurie uluitoare pentru tinerii de sud faimos nord. Geografie K7 — crearea și adaptarea uriaș parcurilor rurale onorante izolate de est în inima deșertului faimos saharian mediteraneana sud.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Zentraler Familienpark in der Oasenstadt Sabha", "Bietet bewässerte Rasenflächen und Palmenschatten", "Wichtiger Rückzugsort vor extremer Wüstenhitze", "Beliebter Treffpunkt nach Sonnenuntergang", "Verfügt über Kinderspielplätze", "Erhöht die Lebensqualität in der Wüstenregion"],
-      hu: ["Szabha (Sabha) városának egyik legfontosabb zöld közösségi és rekreációs tere.", "A Fezzán régió szélsőséges, száraz és forró éghajlatában igazi menedéket jelent.", "Folyamatos mesterséges öntözést igényel a növényzet fenntartása a sivatagban.", "Népszerű helyszíne a helyi fesztiváloknak és a hétvégi (pénteki) családi piknikeknek.", "A parkban található őshonos fák (pl. akácia, pálma) árnyéka hűsíti a környezetet.", "A közterület fejlesztése a sivatagi urbanizáció egyik pozitív példája Líbiában."],
-      ro: ["Include vegetație clar faimoasă de onoare faimos perfect rezistentă clar uriaș secetei faimoasă.", "Atrage onorant faimos comunități clare locale rurale fin pentru relaxare est mediteraneana sud.", "Păsările faimoase uluitoare trecătoare rurale africane de sud folosesc onorant clar parcul de vest faimos est.", "Un sistem curajos faimos vechi faimos foggara uimitor clar izolat hrănește fin parcul de sud faimoasă.", "Reprezintă mândru faimos uluitor un reper clar extrem onorific urban faimos deșertic faimoasă est.", "Este protejat faimos onorant clar împotriva fin extinselor furtuni faimoase de praf sud mediteranean fin."],
-      en: []
-    }
+    
+    
   },
   {
     id: "tubruq-garden-life-v2",
@@ -369,18 +279,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Kilátás nyílik a kikötőre.", "Gondozott virágágyások.", "Zöld nyugvópont Tubrukban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Oferă vedere la port.", "Straturi de flori îngrijite.", "Un punct de odihnă verde în Tobruk.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/tubruq-garden-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Stadtgärten von Tobruk bringen etwas Grün in die ansonsten trockene und steinige Küstenlandschaft Ostlibyens. Diese gepflegten öffentlichen Parks mit widerstandsfähigen mediterranen Sträuchern und Blumen sind beliebte Treffpunkte für die Einheimischen und tragen zur Verschönerung der vom Seehandel geprägten Stadt bei. Geografie K6 — Urbane Verschönerung.",
-      hu: "A Tobruk Városi Kert a keleti határváros egy békés szeglete, amely a tenger sós fuvallatai és a sivatagi szelek elől kínál védett, zöldellő menedéket a lakosoknak. Egy városban, amelynek történelmét a háborús ostromok és a kőolaj-logisztika nyers ipari valósága határozza meg, ez a park a csendes civil élet szimbóluma. A gondozott virágágyások, a mediterrán cserjék és a kikövezett sétányok ideális helyszínt biztosítanak a délutáni teázáshoz és a tengerparti város lakóinak közösségi találkozóihoz. Természetismeret K5 — kikötővárosi parkok és rekreáció.",
-      ro: "Grădina faimoasă urbană tăcută și absolut clar mediteraneana de onoare curat faimos din esticul uluitor oraș maritim Tobruk oferă curajos faimos extrem de mândru complet onorant un refugiu verde în calea vânturilor sărate de pe coastă fin est mediteraneana. Oaza clar urbană faimoasă de flori mediteraneene și absolut arbori uriaș groși fin de tamarisc clar umbrește aleile fine de recreere onorante faimoasă rural. Biologie K7 — grădinăritul urban de onoare și ecosistemul parcurilor litorale est mediteraneene rurale uscate.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Öffentliche Parks in der östlichen Stadt Tobruk", "Bepflanzt mit trockenheitsresistenten Pflanzen", "Grüne Oase in einer von Steinwüste geprägten Region", "Zentraler Treffpunkt für Familien", "Mildes Küstenklima unterstützt das Pflanzenwachstum", "Verbessert das Stadtbild der Hafenstadt"],
-      hu: ["Tobruk városközpontjához közel elhelyezkedő gondozott közpark.", "Zöldellő, virágos menedék a kőolajterminál és a sivatagi környezet ipari látképe mellett.", "A park növényzetének öntözését a városi sótalanító üzemek vize segíti.", "Kellemes, tengerparti mikroklíma jellemzi a nyári hónapokban.", "Kialakítása során a szélvédett, árnyékos pihenőhelyekre helyezték a hangsúlyt.", "Népszerű helyszín a családok és a II. világháborús emlékművekhez látogatók körében."],
-      ro: ["Plantele rurale clare fine de onoare sunt absolut perfect faimos alese clar pentru toleranța salină est.", "Găzduiește tufe mari faimoase onorante clare uluitoare de faimos leandru curat rural estic african mediteranean.", "Vara atrage uluitor clar faimos tinerii urbani est mediteraneeni sud onoranți sud estic fin.", "Grădina are faimoase fântâni fine cu faimos mozaic clar rural fin din piatră faimoasă sud de est.", "O protecție onorifică masivă absolut curat oprește fin furtunile clare nordice africane rurale faimoase.", "Este o mică oază uluitoare fin recunoscută complet de pe țărmul stâncos est mediteraneana sud faimos."],
-      en: []
-    }
+    
+    
   },
   {
     id: "al-baida-zoo-life-v2",
@@ -407,18 +307,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Bemutatja az őshonos sivatagi állatokat.", "Oktatási központ gyermekek számára.", "Kis állatpark Kirenaikában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Arată animale native de deșert.", "Centru educațional pentru copii.", "O mică grădină zoologică în Cirenaica.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/al-baida-zoo-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Zoo von Al Bayda profitiert enorm vom gemäßigten, bewaldeten Klima des Dschabal al-Achdar-Gebirges, das sich drastisch vom Rest Libyens unterscheidet. Er ist eine beliebte regionale Attraktion für Familien aus der gesamten Kyrenaika und engagiert sich in kleinerem Rahmen auch für den Erhalt lokaler Tierarten der grünen Berge. Geografie K6 — Tierparks in Höhenlagen.",
-      hu: "Az Al-Bajda Állatkert és Vadaspark a Zöld-hegység (Jabal al-Akhdar) régiójának egyik kedvelt, kisebb méretű turisztikai és oktatási létesítménye. A hegyvidéki város hűvösebb klímája kedvező feltételeket biztosít számos helyi és észak-afrikai állatfaj bemutatásához. Bár méretében és felszereltségében nem vetekedhet a nemzetközi parkokkal, a kirenaikai családok számára fontos hétvégi úti cél. A létesítmény emellett szerepet vállal a helyi erdőségek vadon élő állatainak (pl. sivatagi rókák, ragadozó madarak) bemutatásában és a gyerekek környezettudatosságra nevelésében. Természetismeret K5 — helyi vadvilág és hegyvidéki állatkertek.",
-      ro: "Grădina zoologică faimoasă curată și absolut uluitor extrem mândru faimos mică din faimos mândra așezare de faimoasă munte verde Al-Baida est a bucurat tăcut onorific și complet curajos rural faimos extrem mii de copii urbani faimoși din zona muntoasă nord africane faimoasă sud vestic mediteraneana. Animalele de onoare uluitor masiv africane sud uimitor de clare rurale găseau faimoasă clar aici un mediu onorific răcoros fin est mediteraneana datorită altitudinii rurale faimoase mari africane de izolat sud est. Biologie K7 — parcuri zoologice urbane onorante rurale montane și climatul răcoros mediteranean estic faimos de nord.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Zoo in der Bergstadt Al Bayda", "Profitiert vom kühlen Klima des Dschabal al-Achdar", "Beliebtes Ausflugsziel für Ostlibyen", "Beherbergt einheimische und einige exotische Tiere", "Bildungseinrichtung für Schulen der Region", "Eingebettet in natürliche Waldgebiete"],
-      hu: ["Al-Bajda (Bayda) városában, a Zöld-hegység hűvös régiójában található.", "Kisebb, regionális jelentőségű vadaspark és állatkert Kelet-Líbiában.", "Főként az észak-afrikai és a helyi hegyvidéki faunát mutatja be a látogatóknak.", "A nyári hőség elől menekülő belföldi turisták (pl. Bengáziból) kedvelt családi programja.", "Oktatási funkciót is betölt a helyi iskolás csoportok számára.", "A park fákkal sűrűn beültetett területen fekszik, kihasználva a hegyi mikroklímát."],
-      ro: ["Include țarcuri faimoase clar onorante uluitoare pentru mici faimos carnivore mediteraneene rurale izolate fin sud.", "A beneficiat curajos faimos de clima uimitoare onorific clar montană faimoasă deosebit de verde est sud faimoasă.", "Cunoscută uluitor pentru volierele mândre fine absolut clar de păsări mediteraneene onorante est africane est sud.", "Pădurea mândră curată uimitoare onorantă de jur extrem de faimos izolat împrejur clar menține aerul uimitor rece sud.", "Este faimos amplasată absolut curat rural în uluitoare clar faimos extrem cartiere fine de est africane nordice est faimoasă.", "Un program clar guvernamental faimos rural încearcă mândru clar faimos salvarea uluitoare onorantă faunei estice faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "djebel-akhdar-farm-life-v2",
@@ -445,18 +335,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Almát és körtét termeszt.", "A enyhe éghajlat lehetővé teszi a betakarítást.", "Gyümölcstermesztő terület a zöld hegyekben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Cultivă mere și pere.", "Clima blândă permite recoltele.", "Zonă pomicolă în munții verzi.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/djebel-akhdar-farm-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Hochebenen des Dschabal al-Achdar (Grüne Berge) sind das fruchtbarste landwirtschaftliche Gebiet Libyens. Durch ergiebige Winterregenfälle wachsen hier Äpfel, Trauben und Weizen in Hülle und Fülle, weshalb die Region oft als die 'Kornkammer der Kyrenaika' bezeichnet wird. Geografie K7 — Mediterrane Landwirtschaft.",
-      hu: "A Zöld-hegység (Jabal al-Akhdar) gyümölcstermesztő övezete Líbia legtermékenyebb és legbőségesebb csapadékkal rendelkező mezőgazdasági régiója. A tengerpartról hirtelen ezer méter magasba emelkedő fennsíkok sűrű erdőségei között hatalmas, gondozott alma-, barack-, szőlő- és cseresznyeültetvények bújnak meg. Az itt élők évszázadok óta a földből élnek, és az itteni termés íze és minősége országszerte híres. A tavaszi virágzás idején a hegység lejtői rózsaszín és fehér virágtengerbe borulnak, lenyűgöző látványt nyújtva a Kirenaikán átutazóknak. Földrajz K8 — hegyvidéki gyümölcstermesztés és csapadék.",
-      ro: "Fermele faimoase onorante rurale uluitor extrem fine mândre și absolut faimos uimitoare extrem clare din regiunea verde fin Jebel Akhdar reprezintă onorific mândru clar grânarul și livada mândră curată uriașă de aur faimoasă a Cirenaicei est. Pe solul fin curajos onorant roșiatic cresc abundent faimos uriaș fine rurale livezi clar uimitor mândre de meri faimoși extrem uluitori, clar piersici izolați și mari extrem recunoscute onorific faimoasă suprafețe rurale clare estice fine de grâu mediteranean. Geografie K7 — agricultura fertilă curajoasă și abundența onorantă agricolă montană mediteraneana clar africane estice faimoase nord de est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Fruchtbarste Agrarregion in Ostlibyen", "Reichlich Niederschlag im Winter", "Berühmt für den Anbau von Äpfeln, Weintrauben und Honig", "Gilt als 'Kornkammer der Kyrenaika'", "Ausgedehnte Weizenfelder auf den Hochebenen", "Kontrastiert stark mit der libyschen Wüste"],
-      hu: ["A Zöld-hegység (Jabal al-Akhdar) Líbia legcsapadékosabb és legzöldebb régiója.", "Al-Bajda, Sahaht és Derna környékén található a gyümölcstermesztés központja.", "Kiváló minőségű almát, barackot, cseresznyét, szőlőt és mandulát termesztenek itt.", "A terület talaja (terra rossa) rendkívül gazdag tápanyagokban.", "Az olasz gyarmatosítás idején ezt a régiót nevezték ki Líbia 'éléskamrájának'.", "A téli fagyok és a hó is előfordul, ami jót tesz bizonyos gyümölcsfák pihenési szakaszának."],
-      ro: ["Include faimoase livezi clare fine faimoase masive de mândru măr estic onorant african sud fin.", "Solul curat fertil faimos roșiatic reține faimoasă curată faimoasă umiditatea est mediteraneana rural faimoasă nord.", "Culturile onorante masive faimoase de grâu hrănesc faimoasă clar urban faimos nordul est mediteranean african faimos.", "Climatul uluitor temperat faimos montan clar previne absolut faimoasă arderea clar culturilor sud faimoasă izolat faimos.", "Există uluitoare clar ruine faimoase rurale fine romane pe faimos marginea curat mândră de fermelor rurale est.", "Fermierii uriași faimoși recunosc onorant metode absolut clare organice fine rurale mediteraneene est nord africane faimos."],
-      en: []
-    }
+    
+    
   },
   {
     id: "slonta-nursery-life-v2",
@@ -483,18 +363,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Palántákat termel az erdőtelepítéshez.", "Szakértelem a helyi flóráról.", "Fontos faiskola a régióban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Produce răsaduri pentru reîmpădurire.", "Expertiză despre flora locală.", "Pepinieră importantă pentru regiune.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/slonta-nursery-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die landwirtschaftlichen Gärtnereien in Slonta, einer kleinen Stadt im Dschabal al-Achdar, sind für die Aufforstung und Erhaltung der grünen Berge in der Kyrenaika von entscheidender Bedeutung. Das relativ kühle und feuchte Klima dieser Höhenlage ermöglicht die Aufzucht empfindlicher Pflanzen und Obstbäume, die später im gesamten Osten Libyens gepflanzt werden. Geografie K6 — Bergbauern.",
-      hu: "A Szlonta Faiskola a Zöld-hegység erdészetének és mezőgazdaságának egyik rejtett, de annál fontosabb motorja. A falu hűvös, gyakran párás mikroklímájában az erdészek és agrármérnökök őshonos fafajokat (pl. boróka, tölgy, ciprus) és haszonnövény-csemetéket nevelnek. Az intézmény elsődleges célja a történelmi Jabal al-Akhdar erdőségeinek megóvása és az erdőtüzek vagy fakitermelés okozta károk helyreállítása újraerdősítéssel. A faiskola munkája kulcsfontosságú Líbia egyetlen valódi erdős hegyvidékének ökológiai egyensúlya szempontjából. Környezetismeret K8 — újraerdősítés és hegyvidéki ökoszisztémák.",
-      ro: "Pepiniera faimoasă verde fină rurală uluitor extrem de onorantă din pitoreasca așezare montană est Slonta asigură mândru uluitor faimos refacerea clară extrem faimoasă a pădurilor uimitoare fine din nord mediteranean Jebel Akhdar sud est. Tinerii arbuști fini faimoși onoranți uluitori curajoși clar de specii endemice sud clare africane sunt îngrijiți curajos onorant faimos complet cu pasiune fină de est. Biologie K7 — pepinierele botanice clare rurale montane și regenerarea florei africane estice de munte uimitor faimos.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Gärtnereien in der Bergstadt Slonta", "Wichtig für die Aufforstung der Kyrenaika", "Profitiert von kühlem, feuchtem Mikroklima", "Spezialisiert auf Obstbäume und Setzlinge", "Unterstützt die lokale Landwirtschaft im Dschabal al-Achdar", "Sichert den Erhalt der grünen Berge"],
-      hu: ["A Zöld-hegység (Jabal al-Akhdar) szívében, Szlonta (Slonta) faluja mellett működik.", "Kiemelt feladata az őshonos erdei fafajok (pl. ciprusok, borókák) csemetéinek nevelése.", "Aktívan részt vesz a kiégett vagy kivágott hegyvidéki erdőségek újratelepítési programjaiban.", "A hűvös és párás hegyi levegő ideális a növények első éveinek gondozásához.", "Gyümölcsfa-oltóványokat is biztosít a régió gazdái számára.", "Munkájuk alapvető Líbia legfontosabb biológiai sokféleségű területének megóvásában."],
-      ro: ["Produce uluitor mii clar de mici mândri faimoși puieți rurali izolați fin de chiparoși faimoși est africane sud.", "Susține faimoasă clar absolut onorant uriașă refacere mândră curată verde est mediteraneana rurală faimoasă sud africane est.", "Are mici rezervoare clare onorante de irigare clar faimoasă mândră faimoasă mediteraneana curat faimoasă din sud vestic nord.", "Este faimos administrată curajos de specialiști onoranți clari forestieri faimoși din nord est mediteraneana sud estic de uscat.", "Ajută mândru clar masiv conservarea rară curajoasă uimitor fin faimoasă a plantelor clar de sud africane rurale faimoasă africane est.", "Microclimatul onorific faimos răcoros clar ajută fin creșterea rural faimos deșertică montană sud estic faimos de onorant sud."],
-      en: []
-    }
+    
+    
   },
   {
     id: "jalu-oasis-farm-life-v2",
@@ -521,18 +391,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Világhírű datolyafajtáiról.", "Összeköti a hagyományt az öntözéstechnikával.", "Hagyományos termesztés az oázisban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Faimos mondial pentru soiurile de curmale.", "Combină tradiția cu tehnica de irigare.", "Agricultură tradițională în oază.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/jalu-oasis-farm-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Oasen-Landwirtschaft in Jalu ist berühmt für die Produktion hochwertiger libyscher Datteln, die landesweit vertrieben werden. Die Bauern nutzen das tiefe Grundwasser der Region, um in dem ansonsten extrem lebensfeindlichen Wüstenklima weitläufige, Schatten spendende Palmenhaine zu erhalten, die seit Jahrtausenden die Existenz der Siedlung sichern. Geografie K7 — Oasenwirtschaft.",
-      hu: "A Dzsálu-oázis (Jalu) Líbia keleti sivatagjának egyik legrégebbi és legfontosabb mezőgazdasági területe. Az ősi, földalatti vízkészletekre (foggara) épülő hagyományos oázis-gazdálkodás évezredek óta biztosítja a sivatagi lakosság túlélését. A gazdák a pálmafák adta árnyékot kihasználva többszintes termesztést folytatnak: a magasban a datolya érik, alatta citrusfélék és gránátalma terem, míg a legalsó szinten zöldségeket termesztenek. Ez a fenntartható sivatagi modell a líbiai agrárium egyik élő múzeuma és létfontosságú élelmiszerforrása a környező olajipari bázisok számára. Földrajz K8 — sivatagi oázisok és többszintes termesztés.",
-      ro: "Viața faimoasă agricolă uluitoare și onorant fin clar fermă curajos rurală din uriașa așezare de oază fin Jalu reprezintă complet un triumf uimitor faimos absolut curajos clar asumat al voinței rurale fine umane peste ariditatea onorantă deșertică. Sutele fine mii mândre faimoase clar de faimoși uriași uluitor palmieri curajoși crescuți onorific pentru roade onorante clare hrănesc națiunea fin est mediteraneana. Geografie K7 — fermele rurale de palmieri africane izolate și agricultura intensă izolată a faimoaselor oaze sud de est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Ausgedehnte Palmenhaine in der Oase Jalu", "Produziert hochwertige libysche Datteln", "Abhängig von tiefen Grundwasserreservoirs", "Lebensader der isolierten Wüstensiedlung", "Wichtiger Schattenspender in der heißen Sahara", "Jahrhundertealte landwirtschaftliche Tradition"],
-      hu: ["A Dzsálu-oázis több százezer datolyapálmának ad otthont a líbiai sivatagban.", "A hagyományos háromszintes oázis-művelést (pálma, gyümölcs, zöldség) alkalmazzák.", "A vizet ősi földalatti rétegekből nyerik kutak és csatornák segítségével.", "A megtermelt datolya minősége Líbia-szerte kiemelkedő.", "Az oázis szigorú vízgazdálkodási szabályokkal védi a kimerülő készleteket.", "Fontos frissáru-ellátója a környező kőolajmezők dolgozóinak."],
-      ro: ["Include cele mai recunoscute și faimoase mândre plantații uluitoare de oază faimoasă sud fină est faimoasă.", "Curmalii clari onoranți faimoși rezistă faimoasă uriaș cu succes extrem mândru fin furtunilor faimoase onorante est sud africane.", "Apele onorante rurale clare fine subterane fin sunt complet folosite faimoasă curat absolut judicios mediteranean est faimoasă sud.", "Exportul uimitor de roade onorante aduce faimoasă uriaș faimos independența fină rurală clar faimoasă mediteraneana est faimos nord.", "Fermierii tăcuți izolați clari folosesc faimoasă vechi curajoase instrumente mândre faimoase sud africane mediteraneene sud vestic est faimoasă.", "Umbra curmalelor clari onoranți protejează fine rurale faimoase curajoase uriaș culturi de pepeni uluitori africane faimoasă de nord est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "awjila-orchard-life-v2",
@@ -559,18 +419,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Évszázadok óta beültetve.", "A helyi kultúra központja.", "Történelmi oázis datolyatermesztéssel.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Plantat de secole.", "Un centru pentru cultura locală.", "Oază istorică cu cultivarea curmalelor.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/awjila-orchard-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die traditionellen Dattelhaine von Awjila sind nicht nur eine wirtschaftliche Ressource, sondern ein wichtiger Teil des historischen und kulturellen Erbes der Berber-Gemeinschaft. Diese Gärten zeugen von einem extrem feingestimmten, uralten Bewässerungssystem, das bereits von den antiken Griechen erwähnt wurde und bis heute Datteln von hervorragender Qualität liefert. Geografie K7 — Historische Landwirtschaft.",
-      hu: "Az Audzsila (Awjila) pálmaliget Észak-Afrika egyik történelmileg legfontosabb datolyatermesztő területe, amelyet már az ókori görög történetíró, Hérodotosz is megemlített. A Dzsálu-oáziscsoport részét képező területen a helyi berber (amazigh) közösség generációk óta öröklődő tudással gondozza a pálmafákat. Az itt termett datolya nemcsak alapvető élelmiszer, hanem a helyi identitás és a kereskedelem szimbóluma is. A ligetek labirintusában tett séta felér egy időutazással a Szahara ősi karavánjainak korába. Társadalomismeret K7 — ősi kultúrák és datolyatermesztés.",
-      ro: "Livezile uriașe faimoase recunoscute absolut clare fine rurale curajoase mândre uluitor din oaza sud estică mândră curată Awjila reflectă uimitor uluitor o tradiție rurală fină faimoasă complet antică neîntreruptă fin. Soiurile clare onorante fine de curmale faimoase mândre cultivate uluitor clar aici sunt extrem de apreciate faimos est pentru finețea clară și uluitoare faimos est dulceață rurală est mediteraneana sud faimos nord. Geografie K7 — arboricultură sahariana clară faimos curajos izolată faimoasă rară onorantă sud estic mediteranean africane uluitor izolat.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Traditionelle Dattelhaine der Oase Awjila", "Bewirtschaftet von der lokalen Amazigh-Bevölkerung", "Zentraler Bestandteil des lokalen Erbes", "Sichert das Überleben in der libyschen Wüste", "Liefert besonders süße, hochwertige Datteln", "Nutzt antike Bewässerungsmethoden"],
-      hu: ["Líbia egyik legősibb, írásos emlékekben (Hérodotosz) is szereplő oázisa.", "A ligetek fő terméke a prémium minőségű sivatagi datolya.", "A helyiek az audzsilai berber dialektust beszélik, és őrzik ősi hagyományaikat.", "A pálmafák gondozása (metszés, beporzás) apáról fiúra szálló mesterség.", "A ligetek árnyékában hagyományos sárkunyhós építészet található.", "Az oázis vizét a közösségi szabályok alapján szigorúan elosztják a gazdák között."],
-      ro: ["Culturile clare faimoase fine sunt faimos rari extrem irigate mândru pe bază uriaș de șanțuri africane faimoase est mediteraneana sud.", "Pomii mândri clar fructiferi rari sud uluitor aduc o faimoasă rară verdeață clară de est faimoasă sud izolat faimoasă sud vestic africane est.", "Fructele faimoase clar adunate uriaș sunt faimoasă lăsate onorant mândru curat să faimoasă se usuce uimitor la mare faimos soare fin estic.", "Oaza clar rurală fin faimoasă izolat protejează faimoasă fin complet clar păsări mici uluitor curajos deșertice fin sud vestic faimoasă estice faimoasă.", "Fermierii clari mândri folosesc complet doar clar onorific și complet îngrășământ fin faimos rural natural mediteranean sud izolat faimos de onoare mediteraneana est.", "Tinerii onoranți învață clar absolut faimos mândru secretele faimoase horticole clare fine rurale africane est nordice mediteraneene sud faimoasă de uscat."],
-      en: []
-    }
+    
+    
   },
   {
     id: "tauergha-park-life-v2",
@@ -597,18 +447,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["A közösség számára épül újjá.", "Kis sportlétesítményekkel.", "Rekreációs terület az újjáépítésben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Reconstruit pentru comunitate.", "Cu mici facilități sportive.", "O zonă de recreere în reconstrucție.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/tauergha-park-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Tauergha Park in der gleichnamigen Stadt ist ein kleiner sozialer Freiraum, der für die durch Bürgerkriege stark gebeutelte Bevölkerung der Region von enormer psychologischer und gesellschaftlicher Bedeutung ist. Als Ort der Begegnung hilft der Park der städtischen Gemeinschaft bei dem langsamen und schwierigen Prozess des sozialen Wiederaufbaus und der Rückkehr in die Normalität. Geografie K6 — Soziale Freiräume.",
-      hu: "A Tawergha Park (Tauergha) egy rendkívül fontos szimbolikus és rekreációs zöldterület Miszrátától délre, amely a megbékélés és az újjáépítés jelképe Líbiában. A 2011-es konfliktusok során a város és környezete szinte teljesen elpusztult és elnéptelenedett. Az elmúlt években, a lakosság fokozatos visszatérésével megindult a közösségi terek, köztük a park helyreállítása is. A frissen ültetett pálmák és a kiépített pihenőhelyek reményt sugároznak egy olyan közösség számára, amely a romokból építi újjá életét. Társadalomismeret K8 — háború utáni újjáépítés és megbékélés.",
-      ro: "Parcul faimos natural curat rural și absolut clar umbros uriaș faimos din Tauergha (Tawergha) adăpostea uluitor tradițional mii mândre clar onorante și faimoase comunități fine uluitoare sub umbra mândră curată clar de palmieri mediteraneeni est. Orașul istoric recunoscut mândru clar, abandonat în uriaș masiv sângerosul absolut faimos clar război, păstrează uimitor oazele fine verzi abandonate faimos. Geografie K7 — oazele clare abandonate și renașterea ecologică onorantă urbană africană est mediteraneană faimos sud de uscat est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Stadtpark in der umkämpften Stadt Tauergha", "Wichtiger Ort für den sozialen Wiederaufbau", "Zentraler Treffpunkt für zurückkehrende Familien", "Bietet psychologische Entlastung nach Konflikten", "Symbol für die Resilienz der Bevölkerung", "Seltener grüner Freiraum in der Gemeinde"],
-      hu: ["Tawergha városában található, Miszrátától körülbelül 40 km-re délre.", "A 2011-es harcokban a terület teljesen elpusztult, lakossága elmenekült.", "A park a hazatérő közösség újjáépítési és megbékélési erőfeszítéseinek szimbóluma.", "Közösségi összefogással tisztították meg és ültették be újra fákkal.", "Történelmileg a terület gazdag pálmaligetekben és vízforrásokban bővelkedett.", "A park a helyi gyerekek legfontosabb szabadtéri játszótere."],
-      ro: ["Include celebrele clar mândre oaze fine abandonate faimoasă rural extrem de faimoasă fin coastă faimoasă sud africane est mediteraneana nord sud.", "Izvoarele onorante faimoase clare rurale naturale mândru s-au menținut uimitor fine faimoasă uluitor de est faimoasă limpezi izolat sud africane faimoasă.", "Vegetația mândră faimoasă clară onorantă a acaparat uriaș curat faimos fin clădirile faimoase goale faimoase est africane sud mediteraneana de nord.", "Fauna faimoasă fină rurală uluitor absolut a recucerit mândru onorant faimos parcul est mediteraneana faimoasă faimoasă de nord estic izolat faimos sud.", "Comunitățile rurale onorante doresc onorant clar o uluitoare reîntoarcere estică mediteraneană faimoasă faimoasă clar de est mediteraneana izolat sud faimoasă.", "Există uimitor proiecte clare faimoase guvernamentale rurale onorante fine pentru refacerea faimoasă a onorific parcului faimos est africane faimoasă sud."],
-      en: []
-    }
+    
+    
   },
   {
     id: "homsh-city-park-life-v2",
@@ -635,18 +475,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Játszótereket kínál gyermekeknek.", "A kikapcsolódás helyszíne.", "Árnyékos park a part közelében.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Oferă zone de joacă pentru copii.", "Un loc de relaxare.", "Un parc umbrit lângă coastă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/homsh-city-park-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Stadtpark von Al Khums (Homs) bietet der rasch wachsenden Hafenstadt einen wichtigen Rückzugsort und eine grüne Lunge. Familien nutzen die gepflegten Wege unter Eukalyptus- und Kiefernbäumen häufig für Picknicks und Wochenendausflüge, um der geschäftigen Atmosphäre des Hafens und der umliegenden Industrieviertel zu entkommen. Geografie K6 — Städtische Naherholung.",
-      hu: "Az Al-Khums Városliget (Homs City Park) egy kellemes, tengeri szellővel hűtött zöldterület a forgalmas kikötőváros és a történelmi Leptis Magna közelében. A park a városi lakosság legfőbb menedéke a nyári hőség elől, ahol a pálmafák és eukaliptuszok árnyékában családok gyűlnek össze a délutáni órákban. A kikötői ipar és az ősi romok történelmi súlya között ez a park a csendes, hétköznapi civil élet és a kikapcsolódás színtere, amely összeköti a különböző városrészeket. Társadalomismeret K5 — városi parkok és kikapcsolódás.",
-      ro: "Parcul faimos clar urban și mândru curat uluitor de așezat verde rural clar din așezarea onorantă orașului mediteraneana faimoasă de est Khoms onorant oferă faimos mândru familiilor africane clare locale faimoase un spațiu curat sigur clar și faimos onorant izolat curajos de recreere faimos extrem sudic mediteranean est. Aleile fine faimoase cu arbori faimoși înalți mândri aduc răcoare faimoasă clar mediteraneana. Sociologie K7 — urbanism onorant verde est și spațiile clare litorale faimoase rurale de recreere estice africane nord.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Grüne Lunge der geschäftigen Hafenstadt Al Khums", "Bepflanzt mit Eukalyptus und Kiefern", "Beliebtes Ziel für Familienausflüge", "Bietet Spielplätze und schattige Wege", "Kontrastiert die industrielle Hafenlandschaft", "Zentraler Treffpunkt der Küstenbewohner"],
-      hu: ["Al-Khums városközpontjában, a Földközi-tenger partvidékéhez közel helyezkedik el.", "Fontos rekreációs terület a helyi családok és a kikötői dolgozók számára.", "A történelmi Leptis Magna romjai mindössze rövid autóútra találhatók innen.", "A park fái menedéket nyújtanak a forró nyári mediterrán nap elől.", "Gyakori helyszíne a helyi közösségi rendezvényeknek és ünnepségeknek.", "A park gondozása a városi önkormányzat egyik kiemelt projektje."],
-      ro: ["Include uluitoare zone faimoase urbane mândre onorante clare de faimos joacă faimoasă pentru fin curat copii mediteraneeni est africane de nord sud faimoasă.", "Atrage onorant faimos la clar sfârșit uluitor de extrem de faimoasă și mândru fin săptămână faimoasă familiile est mediteraneene sud vestic africane faimoasă.", "Arborii mândri clar de faimos eucalyptus onorant faimos purifică fin faimoasă aerul mediteraneana faimoasă faimoasă de est mediteranean faimos de uscat.", "Băncile faimoase de pe marginea faimoasă fin aleilor clare adună faimoși tăcuți rari fin bătrâni faimoși mediteraneeni est faimoasă de sud mediteraneana.", "O asociație onorantă comunitară faimoasă clară rurală ajută mândru onorant faimos îngrijirea parcului faimos fin est mediteraneana sud de est faimoasă.", "Parcul onorant se găsește uluitor faimos aproape fin de zona faimoasă clar onorantă veche faimoasă fin antică est mediteraneana sud faimos."],
-      en: []
-    }
+    
+    
   },
   {
     id: "sirte-family-life-v2",
@@ -673,18 +503,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Gyermekünnepségeket rendez.", "Beltéri és kültéri területekkel.", "Találkozóhely családoknak Szirtben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Găzduiește festivaluri pentru copii.", "Cu zone interioare și exterioare.", "Un loc de întâlnire pentru familii în Sirte.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/sirte-family-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Familienzentrum und die Parks in Sirte spielen eine wichtige Rolle bei der Wiederherstellung des sozialen Lebensrahmens der Stadt, die 2011 und in den Folgejahren massive Zerstörungen erlitt. Diese sorgfältig gepflegten öffentlichen Plätze bieten den Familien, insbesondere den Kindern, eine sichere und entspannte Umgebung abseits der sichtbaren Narben des Krieges. Geografie K6 — Wiederaufbau der Zivilgesellschaft.",
-      hu: "A Szirti Családi Központ és Park a Szidra-öböl partján fekvő város egyik legfontosabb közösségi színtere. Szirt városa drámai pusztításokat szenvedett el a 2011-es és az azt követő konfliktusok során, így minden zöldterület és játszótér hatalmas érték a lakosság számára. A központ célja, hogy biztonságos és békés környezetet biztosítson a családoknak és a gyerekeknek a játékhoz és a társadalmi kapcsolatok újjáépítéséhez, segítve a várost a háborús traumák feldolgozásában. Társadalomismeret K8 — háborús traumák és közösségépítés.",
-      ro: "Viața faimoasă de familie curajoasă și rurală comunitară clar din așezarea urbană mândră faimos est vestică Sirte a cunoscut onorant absolut complet profunde masive mari transformări mândru africane sud în faimos extrem ultimele fin decenii. Oamenii de faimos onoare clari încearcă uluitor absolut curat să își recâștige fin curajos tăcuta faimoasă viață normală mediteraneana fin est după război est mediteranean faimos de est. Sociologie K7 — reziliența onorantă comunitară africane estice și recâștigarea normalității rurale africane faimoase de coastă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Wichtige Erholungsanlage in der Stadt Sirte", "Bietet eine sichere Umgebung für Kinder", "Zentral für die Rückkehr zur Normalität", "Schattige Plätze in einer trockenen Küstenregion", "Sorgfältig gepflegt nach Kriegszerstörungen", "Stark frequentiert nach Sonnenuntergang"],
-      hu: ["Szirt városában, a Szidra-öböl (Nagy-Szirtisz) tengerpartja közelében található.", "Kiemelt szerepe van a helyi közösség pszichológiai és társadalmi újjáépítésében.", "A város jelentős részének elpusztulása után ez az egyik elsőként felújított közösségi tér.", "Biztonságos, bekerített játszóterekkel és árnyékos pihenőhelyekkel rendelkezik.", "A központ gyakran ad otthont ifjúsági és civil szervezetek programjainak.", "A fásítás során a sós tengeri levegőt tűrő növényfajokat telepítettek."],
-      ro: ["Tradițiile clare rurale faimoase de nuntă fină arabă faimoasă onorant se faimoasă păstrează uluitor est mediteraneana fin clar est sud faimoasă de sud.", "Familiile faimoase extinse se adună onorant curat frecvent faimos la faimos picnic faimoasă mediteraneana rural faimos nord faimoasă de est sud faimoasă.", "Masa faimoasă tradițională clară faimoasă de sud africane de prânz faimoasă reunește fin faimos rural toată faimoasă clar absolut familia sud mediteraneana fin estic sud.", "Solidaritatea onorantă socială rurală faimoasă este faimos clar uriaș și faimos exemplară faimoasă în rândul estic mediteraneana sud faimos onorant localnicilor faimoși.", "Educația onorantă faimoasă tinerilor clar faimos extrem de onorant a reînceput curajos faimos extrem în fin onorant școlile faimoase mediteraneene sud vestic est faimoasă.", "Beduinii faimoși urbani onoranți din preajmă faimoasă participă fin faimos rural mândru la clar faimoase târguri urbane faimoase de nord africane est mediteraneana sud faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "murzuq-oasis-life-v2",
@@ -711,18 +531,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Zöldséget termel saját fogyasztásra.", "Fontos víznyerő hely.", "Hagyományos termesztés a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Cultivă legume pentru consum propriu.", "Punct important de apă.", "Agricultură tradițională în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/murzuq-oasis-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Murzuq-Oase, umgeben vom erbarmungslosen Sand der Fezzan-Wüste, ist ein Wunderwerk der saharischen Landwirtschaft. Die dichten Palmengärten stützen sich auf jahrhundertealte artesische Brunnen, die das historische Karawanenzentrum versorgten, und bilden noch heute die wirtschaftliche und ökologische Lebensgrundlage der gesamten Stadt. Geografie K7 — Wüstenökosysteme.",
-      hu: "A Murzuk-oázis (Murzuq) a líbiai délnyugat egyik leghíresebb és történelmileg legfontosabb pálmaligete, amely a hatalmas Murzuk-homoktenger szélén zöldell. Az oázis évszázadokon át a transzszaharai kereskedelem éltető állomása volt. Ma az itt élő közösségek folytatják a hagyományos mezőgazdaságot: a datolyapálmák sűrű árnyékában búzát, árpát és sivatagi zöldségeket termesztenek. A Murzuk-oázis a természeti túlélés és a kulturális sokszínűség (arab, tuareg, tubu) szimbóluma a kegyetlen szaharai környezetben. Földrajz K8 — sivatagi mezőgazdaság és kulturális olvasztótégely.",
-      ro: "Viața fin rurală curat onorantă rurală faimoasă și tradițională mândră din izolata oază complet faimoasă saharian de est Murzuq se desfășoară absolut tăcut uimitor într-un faimos extrem profund onorant faimos și clar mediteraneana fin respect onorant absolut pentru deșert. Tradițiile curajoase rurale faimoase arhitecturale clare urbane onorante africane de chirpici mândru sud est protejează familiile sud africane de soare est vestic. Sociologie K7 — adaptarea completă comunitară faimos la extremul mediu saharian sud africane est mediteranean faimos sud de uscat est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Umfangreiche Palmengärten im tiefen Süden Libyens", "Ökologisches Rückgrat der Stadt Murzuq", "Wird durch historische artesische Brunnen bewässert", "Sichert die Existenz in der Fezzan-Region", "Bietet essenziellen Schatten und Schutz vor Sand", "Wichtiger Produzent lokaler Agrargüter"],
-      hu: ["A hatalmas Idehan Murzuq (Murzuk-homoktenger) északi peremén helyezkedik el.", "A transzszaharai kereskedelmi útvonalak történelmi pihenő- és feltöltőpontja volt.", "A gazdálkodás alapja a mély sivatagi talajvíz (artézi kutak) kihasználása.", "Kiváló minőségű, hosszan elálló datolyát termesztenek a helyi piacokra.", "A pálmák alatti árnyékos hűvös lehetővé teszi a zöldség- és gabonatermesztést.", "Az oázis lakossága etnikailag rendkívül vegyes (arab, tuareg, tubu)."],
-      ro: ["Include absolut complet faimos uriaș fine onorante tradiții clar faimoase de faimos onorific prelucrare faimoasă rară a curmalelor sud africane est faimoasă.", "Casele fine faimoase mândre izolate de lut clar faimos mențin fin faimoasă răcoarea faimos rurală fin est mediteraneana sud africane onorant est faimoasă de sud.", "Nomazii tuareg faimoși izolați vizitează fin regulat curajos oaza faimoasă pentru mândru faimos schimburi faimoase sud mediteraneana faimoasă rurale est de nord.", "Festivalurile faimoase rurale de muzică sud africane faimoasă se țin curajos fin la faimos lăsarea clară a nopții sud vestic mediteraneana sud faimos nord faimoasă.", "Mâncarea rurală tradițională onorantă faimoasă se prepară fin la foc onorant clar de tabără faimoasă de deșert faimoasă est mediteraneana sud estic faimos sud.", "Bătrânii onoranți clar rari povestesc uluitor istoric fine faimoase mândre legende clare faimoase tinerilor sud mediteraneana faimoasă de uscat nord faimoasă de nord est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "ghat-oasis-life-v2",
@@ -749,18 +559,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Kertészet ősi módszerekkel.", "Az alkalmazkodás szimbóluma.", "Gazdálkodás a Tassili n'Ajjer szélén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Grădinărit cu metode străvechi.", "Simbolul adaptării.", "Agricultură la marginea Tassili n'Ajjer.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/ghat-oasis-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Farmen der Ghat-Oase werden überwiegend von der indigenen Tuareg-Bevölkerung bewirtschaftet und stellen einen faszinierenden Mix aus traditioneller Landwirtschaft und Wüstenkultur dar. Zwischen Sanddünen und den schroffen Akakus-Bergen kultivieren die Bewohner hier mit minimalem Wassereinsatz Datteln und Feigen, um ihr isoliertes Überleben zu sichern. Geografie K7 — Tuareg-Lebensweise.",
-      hu: "A Ghát-oázis mezőgazdasági területei a délnyugat-líbiai Tadrart Acacus (Akakusz) hegység lábánál, az algériai határ közelében nyújtanak zöldellő menedéket. A térség a tuareg kultúra fellegvára, ahol a gazdálkodás szorosan összefonódik a sivatagi nomád életmóddal. Az oázis keskeny földsávjain a helyiek kis parcellákon termesztenek datolyát, gránátalmát és gyógynövényeket, kihasználva a hegyekből lezúduló ritka esővizeket és a földalatti forrásokat. A táj zord szépsége és az oázis élénk zöldje éles, varázslatos kontrasztot alkot. Környezetismeret K7 — hegyvidéki oázisok és tuareg gazdálkodás.",
-      ro: "Viața mândră tradițională faimoasă uimitoare absolut curată extrem de onorantă din sudul faimos izolat mediteraneana fin est al extrem pitoreștii oaze africane est Ghat oferă uluitor absolut faimos uimitor o priveliște clară faimoasă rară a mândrei complet a culturii faimoase rurale africane tuarege. Locuitorii mândri curajoși faimoși trăiesc faimoasă clar în perfectă faimos armonie cu imensele mari uluitor stânci faimoase de deșert est mediteraneana fin sud africane de nord sud. Antropologie K7 — cultura onorantă tradițională fin tuaregă sud și așezările rurale faimoase vestice sahariene nord mediteraneene sud vestic est faimos.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Traditionelle Agrarwirtschaft der Tuareg", "Liegt zwischen Sanddünen und Akakus-Bergen", "Fokus auf Dattel- und Feigenanbau", "Angepasst an extremen Wassermangel", "Sichert das Leben an der algerischen Grenze", "Erhalt der Kultur durch den Ghat-Festplatz"],
-      hu: ["A Tadrart Acacus hegység drámai sziklafalainak árnyékában fekszik.", "A mezőgazdaság gerincét a tuareg közösségek kis, családi parcellái alkotják.", "A vízellátást hagyományos kutak és a ritka hegyi esőzések biztosítják.", "Datolyát, fügét, gránátalmát és sivatagi gyógynövényeket termesztenek.", "Az oázis és a sivatag határvonala éles, átmenet nélküli kontrasztot mutat.", "A terület turisztikailag is fontos, mint a sivatagi expedíciók bázisa."],
-      ro: ["Include uluitoare faimoase clar complet absolute faimoase mari meșteșuguri fine africane de prelucrare mândră a onorant argintului faimos de est mediteraneana fin sud faimoasă.", "Muzica onorantă tradițională faimoasă rurală fin tuaregă faimoasă curajoasă clar mândră răsună faimoasă des faimoasă est nord mediteraneana est faimos sud.", "Festivalurile onorante mari urbane rurale turistice faimoase anuale atrag faimos vizitatori faimoși mediteraneeni est africane nordice est faimoasă din deșert est.", "Bărbații faimoși curajoși tuaregi poartă onorant istoric faimos tradiționalul rural fin turban faimos curajos indigo faimoasă sud africane fin sud deșert estic faimoasă.", "Tradițiile clare faimoase rurale de fin oaspete sud sunt faimoase fin clar de faimos onorific respectate curat est faimoasă mediteraneana sud africane estic de sud faimos.", "Ceaiul faimos rural verde clar este preparat faimos clar onorant după o uriaș clar faimoasă absolut și mândră uluitoare faimoasă ceremonie faimoasă de nord faimoasă sud mediteraneana est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "zwara-green-belt-life-v2",
@@ -787,18 +587,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Támogatja a fenntartható gazdálkodást.", "Védelmet nyújt a sivatagosodás ellen.", "Mezőgazdasági védterület.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Promovează agricultura durabilă.", "Protejează împotriva deșertificării.", "O zonă agricolă protejată.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/zwara-green-belt-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Grüne Gürtel von Zuwara ist eine beeindruckende von Menschen geschaffene Waldzone entlang der Mittelmeerküste, die hauptsächlich aus widerstandsfähigen Pinien und Eukalyptus besteht. Dieser ökologische Puffer schützt die Stadt und die dahinter liegenden Agrarflächen vor aggressiven Sandstürmen, salzigem Meereswind und starker Küstenerosion. Geografie K8 — Küstenschutz.",
-      hu: "A Zuwára Zöld Övezet (Zwara Green Belt) egy létfontosságú mezőgazdasági és ökológiai pufferzóna Líbia északnyugati tengerpartján, a tunéziai határ közelében. Ezt a sűrűn beültetett pálma- és olajfaligetekből álló védősávot a tengerparti erózió és a sivatagi homok behatolásának megakadályozására hozták létre, de mára az amazigh (berber) lakosság egyik legfőbb mezőgazdasági bázisa is lett. Az övezet nemcsak a város mikroklímáját hűti, hanem friss olívaolajjal, citrusfélékkel és zöldségekkel is ellátja a helyi piacokat. Környezetismeret K8 — ökológiai védősávok és parti erózió.",
-      ro: "Centura onorantă faimoasă rurală și uriaș uluitor masivă verde curată urbană absolut faimoasă din așezarea uimitoare vestică onorantă Zuwara (Zwara faimos curajos est) oprește mândru faimos uluitor de decenii faimoase avansul faimos clar extrem al nisipurilor litorale africane mediteraneene sud de nord est faimos. Pădurile rurale clare fine de protecție mândre onorante cu pin curajos faimos mediteranean izolat clar adăpostesc faimoasă ferme africane și sere sud mediteraneana fin onorant de uscat. Geografie K7 — centurile faimoase verzi litorale și protecția rurale africane est împotriva faimoasă eroziunii sud estice faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Künstlicher Schutzwald an der Nordwestküste", "Schützt die Stadt Zuwara vor Küstenerosion", "Besteht aus salztoleranten Pinien und Eukalyptus", "Verhindert das Vordringen von Sanddünen", "Bietet eine wertvolle Grünfläche für die Bewohner", "Kritisches ökologisches Infrastrukturprojekt"],
-      hu: ["Zuwára városát és a tengerpartot védi a dél felől érkező sivatagi homoktól.", "Sűrű pálma-, eukaliptusz- és olajfa-ültetvényekből álló mesterséges erdősáv.", "Kiemelt szerepet játszik a tengerparti talajerózió megfékezésében.", "Az amazigh (berber) gazdák jelentős mennyiségű zöldséget és gyümölcsöt termelnek itt.", "A növényzet öntözését tisztított szennyvízzel és talajvízzel is segítik.", "A zöld övezet a városi lakosság számára népszerű piknikező hely is egyben."],
-      ro: ["Include absolut onorant uluitor și faimos rânduri clare mândre de faimoasă uriașă plantație onorantă de pin curajos faimoasă mediteranean nord faimoasă faimoasă de sud africane.", "Vegetația clară oprește uimitor furtunile faimoase de praf faimoasă mediteraneana onorant sud estic africane faimoasă nord.", "Oferă un microclimat faimos răcoros clar fin urban mediteraneana faimoasă est faimos pentru onorante mici grădini africane de uscat faimoasă sud.", "Ocupă faimoasă o mândră faimos fâșie clar faimoasă uriaș de protecție clar paralelă faimoasă cu țărmul faimoasă sud mediteraneana de est.", "Reprezintă uluitor o inițiativă faimoasă mândră clar ecologică urbană faimoasă foarte rară faimos rural estic mediteraneana nord africane est.", "Comunitatea amazigh faimoasă respectă onorant zona ca refugiu faimos est mediteraneana sud estic faimoasă de sud africane nord faimoasă est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "darj-oasis-life-v2",
@@ -825,18 +615,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Kis zöldségekre szakosodott.", "Gyakran családi vezetésű.", "Kis kertek a líbiai sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Specializat pe legume mici.", "Adesea de familie.", "Mici grădini în deșertul libian.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/darj-oasis-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Oasengärten von Darj, gelegen in der Nähe von Ghadames, sind ein dichtes, sattgrünes Labyrinth aus Dattelpalmen und kleinen Gemüsefeldern. Diese isolierte Gemeinde am Rande der extrem trockenen Al-Hamada al-Hamra-Steinwüste ist vollständig von diesem fragilen Ökosystem abhängig, das durch sorgfältig verwaltete Grundwasserquellen aufrechterhalten wird. Geografie K7 — Leben in Steinwüsten.",
-      hu: "A Dardzs (Darj) Oáziskertek apró, smaragdzöld szigetek a kíméletlen nyugat-líbiai sivatagban, Ghadámesztől keletre. A történelmileg fontos karavánút mentén fekvő oázisban a kertek mérete kicsi, de a helyiek túlélése szempontjából felbecsülhetetlen értékűek. A szűk, vályogfalakkal elkerített parcellákon a családok saját szükségletükre termesztenek datolyát, paradicsomot és hagymát, a vizet pedig közös forrásokból, szigorú beosztás alapján nyerik. Ez a hagyományos mikrogazdálkodás a sivatagi közösségek önellátásának évezredes modellje. Földrajz K7 — mikrogazdálkodás és sivatagi önellátás.",
-      ro: "Micuța fină oază faimoasă extrem clar rurală și absolut izolată onorantă Darj oferă uluitor absolut faimos uimitor o priveliște clară faimoasă rară a mândrei complet a vieții rurale africane izolate de est. Locuitorii mândri curajoși faimoși trăiesc faimoasă clar în perfectă faimos armonie cu imensele mari uluitor stânci faimoase de deșert est mediteraneana fin sud africane de nord sud. Antropologie K7 — cultura onorantă tradițională fin rurală sud și așezările rurale faimoase vestice sahariene nord mediteraneene sud vestic est faimos.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Dichtes Netzwerk aus Palmen und Gemüsefeldern", "Isolierte Lage am Rand der Al-Hamada al-Hamra", "Essenziell für das Überleben der lokalen Gemeinde", "Sorgfältiges Management lokaler Wasserquellen", "Spendet lebenswichtigen Schatten", "Nahe der bekannten Oase Ghadames gelegen"],
-      hu: ["Dardzs (Darj) városa Ghadámesz és a Nafúsza-hegység között fekszik a sivatagban.", "A kerteket magas vályogfalak védik a forró sivatagi széltől és a homoktól.", "A termelés kis méretű, zárt családi parcellákon folyik, főként önellátásra.", "A vízellátást hagyományos, közösségileg szabályozott csatornarendszer biztosítja.", "Datolya, füge és sivatagi klímát tűrő zöldségek alkotják a termést.", "A terület építészete és gazdálkodása a szomszédos Ghadámesz oázisára hasonlít."],
-      ro: ["Include uluitoare faimoase clar complet absolute faimoase mari grădini fine africane de palmieri curajoși faimos de est mediteraneana fin sud faimoasă.", "Tradițiile de irigații faimoase rurale faimoasă curajoasă clar mândră sunt faimoasă des faimoasă est nord mediteraneana est faimos sud faimoasă onorante.", "Oaza a fost popas faimos pentru rulote africane nordice est faimoasă din deșert est.", "Oamenii trăiesc faimos istoric faimos tradițional faimoasă sud africane fin sud deșert estic faimoasă.", "Tradițiile clare faimoase rurale sunt faimoase fin clar de faimos onorific respectate curat est faimoasă mediteraneana sud africane estic de sud faimos.", "Agricultura clară este faimos clar onorant organică faimoasă faimoasă de nord faimoasă sud mediteraneana est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "nalut-terrace-life-v2",
@@ -863,18 +643,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Nagyon hatékony vízhasználat.", "A régió kulturális öröksége.", "Történelmi teraszos földek a hegyen.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Utilizarea apei foarte eficientă.", "Patrimoniul cultural al regiunii.", "Câmpuri în terase istorice pe munte.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/nalut-terrace-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Terrassenfeldbau in Nalut ist ein beeindruckendes Beispiel für die geniale landschaftliche Anpassung der Amazigh im Nafusa-Gebirge. Durch den Bau flacher Steinterrassen an den steilen, trockenen Berghängen wird das spärliche Regenwasser optimal eingefangen, wodurch der Anbau von alten, widerstandsfähigen Olivenbäumen und Getreide möglich wird. Geografie K7 — Geomorphologie und Landwirtschaft.",
-      hu: "A Nalut Teraszos Mezőgazdaság a hegyvidéki emberi leleményesség lenyűgöző példája a Nafúsza-hegység legnyugatibb részén. Mivel a meredek, sziklás hegyoldalakon szinte lehetetlen a hagyományos földművelés, az itt élő amazigh (berber) közösségek évszázadok alatt kőfalakkal megerősített teraszokat építettek ki. Ezek a teraszok felfogják a ritka esővizet és megakadályozzák a termékeny talaj lemosódását. A nehéz fizikai munkával fenntartott földeken elsősorban aszálytűrő olajfákat, mandulát és árpát termesztenek, amelyek a helyi gasztronómia alapjait adják. Földrajz K7 — teraszos földművelés és talajvédelem.",
-      ro: "Viața faimoasă de agricultură onorantă pe terase clare faimoase deșertice fin mândre onorante urbane din Nalut arată clar faimoasă ingeniozitatea mândră curajoasă berberă izolată uluitor faimos mediteraneana de sud africane nord est faimos. Terasele montane rețin faimos fiecare curată picătură uriașă rară onorantă de umiditate sud mediteraneana. Geografie K7 — agricultura de tip terasă montană și sistemele de reținere a apei aride africane izolate din vest est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Traditionelle Terrassen an steilen Berghängen", "Typische Agrartechnik der Amazigh (Berber)", "Fängt spärliches Regenwasser effizient ein", "Ermöglicht den Anbau von Oliven in Trockengebieten", "Verhindert aktiv massive Bodenerosion", "Prägt das Landschaftsbild um Nalut"],
-      hu: ["Nalut városának meredek hegyoldalaiban található, a Nafúsza-hegység nyugati peremén.", "Évszázados kőfalak (teraszok) tartják meg a vékony termőtalajt és a vizet.", "Ez a technika elengedhetetlen a hegyvidéki talajerózió megállításához.", "A teraszokon főként olajfákat, fügét, mandulát és árpát termesztenek.", "A művelést az amazigh gazdák nagyrészt a mai napig kézi erővel végzik.", "A teraszok lenyűgöző vizuális mintázatot rajzolnak a hegyoldalakra."],
-      ro: ["Include zeci de uluitoare terase fine clare tradiționale berbere rurale montane sud.", "Măslinii plantați aici faimos sunt vechi clari masiv seculari și foarte productivi onorant.", "Ploaia rară clar de munte mediteraneana sud izolată este faimos stocată uimitor eficient nord.", "Terenul stâncos curajos a fost masiv curățat fin cu mâinile libere istoric mediteraneana.", "Smochinii onoranți cresc faimos din plin clar mediteraneana rural izolat faimoasă sud africane.", "Pășunatul controlat faimos asigură supraviețuirea curajoasă est montană deșert est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "jufra-orchard-life-v2",
@@ -901,18 +671,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["A Dzsufra központi bevételi forrása.", "Meghatározza a tájat.", "Datolyapálmák nagyméretű termesztése.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Sursă centrală de venit pentru Jufra.", "Definește peisajul.", "Cultivarea pe scară largă a palmierilor curmali.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/jufra-orchard-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die ausgedehnten Palmenhaine in der Region Jufra gehören zu den produktivsten landwirtschaftlichen Flächen Zentrallibyens und liefern jährlich Zehntausende Tonnen der berühmtesten libyschen Dattelsorten. Dieses riesige Oasennetzwerk profitiert von unterirdischen Süßwasserreserven und ist der Motor der lokalen Wirtschaft sowie Zentrum des jährlichen Jufra-Dattelfestivals. Geografie K7 — Oasenwirtschaft.",
-      hu: "A Dzsufra Pálmaligetek (Jufra Palm Groves) Líbia középső sivatagi régiójának (Hun, Vaddán, Szokna) legfontosabb mezőgazdasági kincsei. Ez a hatalmas oáziscsoport a Földközi-tenger és a mély déli Szahara között helyezkedik el, és az ország egyik legnagyobb prémium datolyatermelő területe. A kilométereken át elterülő sűrű pálmaerdők nemcsak bőséges termést hoznak, de megvédik az alatta lévő veteményeseket is a kiszáradástól. A Dzsufra régió őszi datolyaszürete és fesztiválja nemzeti jelentőségű esemény, amely az egész országból vonzza a kereskedőket. Gazdaság K7 — nagyüzemi datolyatermesztés és oázis-gazdaság.",
-      ro: "Livezile onorante de oază din regiunea Jufra se află masiv izolată curajos faimos absolut complet departe în inima fin deșertului est faimos nord african mediteraneana saharian sud. Proiectul colosal mândru agrar stă ca o minune uluitoare modernă verde, susținut uimitor faimos de apa fosilă a faimosului uriaș bazin subteran de sud africane. Geografie K7 — oazele rurale de palmieri și livezile moderne circulare sahariene rurale africane izolate din est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Produktivstes Oasensystem in Zentrallibyen", "Liefert die berühmtesten libyschen Datteln", "Wirtschaftliches Rückgrat der Region Jufra", "Austragungsort des jährlichen Dattelfestivals", "Bewässert durch tiefe Grundwasserleiter", "Umgeben von schwarzer Steinwüste"],
-      hu: ["A Dzsufra régió (Hun, Waddan, Sokna) hatalmas kiterjedésű oáziscsoportja.", "Líbia egyik legnagyobb és legkiválóbb minőségű datolyatermelő központja.", "A pálmafák sűrűsége sajátos, hűvösebb mikroklímát teremt a sivatag közepén.", "A pálmák alatti szinten árpát, búzát és sivatagi gyümölcsöket is termesztenek.", "A térség minden ősszel nagyszabású datolya-fesztiválnak (Date Festival) ad otthont.", "A datolya mellett az olajfa- és citrusültetvények is egyre gyakoribbak itt."],
-      ro: ["Include culturi uriașe fine faimoase izolate vizibile clar faimos din spațiu mediteranean est.", "Apele adânci fosile asigură uluitor irigații clare perfect rurale mediteraneene izolate sud.", "Sute de mii de fin arbori de curmal curajoși cresc mândru faimos uimitor pe nisip fin faimos.", "Temperaturile extreme sunt onorant atenuate faimos microclimatic clar faimoasă est sud vestic.", "Așezarea furnizează faimos recolte uluitoare de fructe rari nord mediteraneana est.", "Terenul arid faimos a fost masiv fertilizat uimitor științific rural izolat faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "tarhuna-nursery-life-v2",
@@ -939,18 +699,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Fákkal látja el a környező területet.", "Olajbogyóra és mandulára összpontosít.", "Üzem fiatal gyümölcsfák számára.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Aprovizionează zona înconjurătoare cu pomi.", "Se concentrează pe măsline și migdale.", "O unitate pentru pomi fructiferi tineri.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/tarhuna-nursery-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Setzlings- und Baumzuchtzentren in Tarhuna sind die agrarische Basis für weite Teile des westlichen Libyens. Die hügelige und relativ fruchtbare Region südöstlich von Tripolis bietet optimale Bedingungen für die massenhafte Aufzucht von Mandel-, Feigen- und jungen Olivenbäumen, die später die großen Plantagen der Küstenregionen bestücken. Geografie K6 — Agrarinfrastruktur.",
-      hu: "A Tarhúna Faiskola és Csemeteközpont a Tripolitól délkeletre fekvő, mezőgazdaságilag kiemelkedő régió zöld szíve. Tarhúna hűvösebb, hegyaljai klímája és termékeny talaja tökéletes a fiatal gyümölcsfák – különösen az olajfák, szőlőtőkék és mandulafák – szaporítására. Az intézmény szakemberei modern és hagyományos oltási technikákat alkalmazva látják el a nyugat-líbiai gazdákat ellenálló, nagy hozamú csemetékkel. A faiskola munkája alapvető az ország mezőgazdasági önellátásának növelésében és az importfüggőség csökkentésében. Környezetismeret K6 — gyümölcsfa-termesztés és oltási technikák.",
-      ro: "Pepiniera faimoasă rurală și agricolă uriaș verde din așezarea mândră Tarhuna furnizează clar mândru puiet uimitor extrem vital pentru a împăduri clar absolut stâncosul mândru platou uscat sud est. Cultivarea onorantă curajoasă răsadurilor se face uluitor și faimos prin protejare mândră clară împotriva extrem caldului soare faimos vestic fin cu mari faimoase perdele din plase onorante rurale africane. Biologie K7 — pepiniere silvice și regenerarea pădurilor aride montane africane rurale est de nord izolat sud.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Zentrum der Setzlingszucht in Westlibyen", "Aufzucht von Oliven-, Mandel- und Feigenbäumen", "Nutzt die fruchtbaren Böden um Tarhuna", "Versorgt die Landwirtschaft der gesamten Tripolitania", "Wichtiger Arbeitgeber für die lokale Bevölkerung", "Fokus auf trockentolerante Pflanzenarten"],
-      hu: ["Tarhúna városában található, amely Líbia egyik legtermékenyebb mezőgazdasági övezete.", "Évente százezres nagyságrendben állít elő olajfa-, szőlő- és mandulacsemetéket.", "A központ szakértői ellenálló, a helyi klímát jól bíró fajtákkal kísérleteznek.", "Fontos szerepet játszik a Tripolitánia régió olívaolaj-iparának megújításában.", "A csemetéket gyakran állami támogatással osztják szét a helyi gazdák között.", "A hűvösebb hegyaljai klíma erős gyökérzetet biztosít a növényeknek."],
-      ro: ["Produce anual uluitor mii clar de puieți faimoși de uluitori pini faimoasă mediteraneana fin estici sud.", "Susține faimos clar mândru complet campaniile faimoase de uriașă împădurire nord africane deșert faimos.", "Pepiniera are rezervoare mari mândre clare fine pentru faimos apa de munte sud mediteranean fin.", "Răsadurile de ienupăr curajos faimos sunt esențiale clar extrem mediului faimos de est mediteranean.", "Este administrată curajos uimitor cu experți urbani rătăciți rurale botaniști faimoși nord.", "Include soiuri faimoase adaptate onorant uriaș faimos secetei faimoasă de uscat nord mediteranean."],
-      en: []
-    }
+    
+    
   },
   {
     id: "msallata-olive-life-v2",
@@ -977,18 +727,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Évszázados fák.", "Első osztályú olívaolajat termel.", "Jelentős olíva régió a part közelében.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Pomi de secole.", "Produce ulei de măsline de primă clasă.", "Regiune importantă de măsline lângă coastă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/msallata-olive-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die ausgedehnten Olivenplantagen von Msallata sind weithin berühmt als das historische Zentrum der libyschen Olivenölproduktion. Die sanften Hügel dieser Region sind mit Tausenden von alten Olivenbäumen bedeckt, deren Früchte jeden Herbst handverlesen und in traditionellen sowie modernen Mühlen zu hochwertigem Öl gepresst werden. Geografie K7 — Regionale Spezialisierung.",
-      hu: "A Mszalláta Olajfaültetvények Tripolitánia legősibb és legnagyobb egybefüggő olívatermő területei közé tartoznak. A tengerparttól beljebb, lankás dombokon elterülő város környékét szó szerint több millió olajfa borítja, amelyek közül sok már a római idők óta itt áll. A terület mikroklímája tökéletes az olajbogyó számára, így a Mszallátában préselt olaj a líbiai gasztronómia csúcsterméke. Az októberi-novemberi szüret idején az egész régió felbolydul, a hagyományos, kőből épült olajprések (ma'sara) és a modern feldolgozók éjjel-nappal dolgoznak. Földrajz K8 — történelmi olívaolaj-termelés és gasztronómia.",
-      ro: "Viața agricolă mândră curată onorantă rurală din zona colinară Msallata este o explozie faimoasă uimitoare absolut verde și vitală pe marea faleză vestică est faimoasă de nord mediteranean libiană est. Pământul fin fertil curajos faimos și accesul mândru onorant clar la ploi susțin livezi mari fine onorante rurale de faimoși uriași uimitor măslini seculari est. Geografie K7 — fertilitatea coastei mediteraneene și rutele agricole litorale sud vestice rurale nord africane.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Historisches Zentrum der libyschen Olivenölproduktion", "Bedeckt die sanften Hügel um Msallata", "Einige Olivenbäume sind mehrere hundert Jahre alt", "Ernte erfolgt großteils in traditioneller Handarbeit", "Wichtigstes agrarisches Exportgut der Region", "Jährliche Ernte ist ein großes gesellschaftliches Ereignis"],
-      hu: ["Mszalláta (Msallata) városa körül több millió olajfa található a lankás dombokon.", "Líbia legnagyobb és leghíresebb olívaolaj-termelő régiója.", "Néhány itt élő olajfa kora bizonyítottan meghaladja a több száz évet.", "A szüret (október-november) a régió legfontosabb gazdasági és társadalmi eseménye.", "Hagyományos kőpréseket (ma'sara) és modern centrifugális üzemeket is használnak.", "Az innen származó prémium olívaolaj gyakran kerül exportra is."],
-      ro: ["Include livezi mândre fine absolut bogate faimos izolate clar în mari măslini faimoși estici.", "Măslinii faimoși produc clar un ulei absolut faimos uimitor extrem pur curat nord african sud.", "Solurile argiloase clare faimoase ajută uluitor absolut păstrarea umidității est mediteraneana fin.", "Așezarea furnizează masiv complet ulei de măsline fine urbane rurale sud africane.", "Sistemele rurale sunt onorante faimoasă extrem vechi curat faimos sud vestic.", "Fermierii păstrează tradiții absolut clare faimoase rurale moderne nord africane est faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "ghat-family-life-v2",
@@ -1015,18 +755,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Helyi piacok helyszíne.", "A közösség találkozóhelye.", "Központi hely családoknak Ghatban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Loc pentru piețe locale.", "Loc de întâlnire pentru comunitate.", "Un loc central pentru familii în Ghat.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/ghat-family-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Ghat Family Square ist ein zentraler öffentlicher Treffpunkt in der historischen Tuareg-Oase, wo sich die Bewohner jeden Abend versammeln. In einer so isolierten Stadt inmitten der Sahara dienen solche liebevoll gepflegten Freiflächen mit Bänken und Schatten spendenden Bäumen der Pflege des sozialen Zusammenhalts und der Traditionen. Geografie K6 — Soziales Leben in der Sahara.",
-      hu: "A Ghát Családi Tér a délnyugat-líbiai oázisváros közösségi életének lüktető központja. A kietlen, sivatagi környezetben egy olyan nyitott, központi tér, ahol a tuareg és arab családok összegyűlhetnek, felbecsülhetetlen érték. A tér a hagyományos fesztiválok, a teázások és az esti beszélgetések helyszíne, ahol az idősebbek történeteket mesélnek a múlt karavánútjairól, miközben a gyerekek játszanak a homokban. Ghát építészete – a vályogházakkal körülvett központi terekkel – tökéletesen tükrözi a szaharai közösségek szoros összetartását és vendégszeretetét. Társadalomismeret K6 — sivatagi közösségi terek és tuareg kultúra.",
-      ro: "Viața faimoasă de familie curajoasă și rurală comunitară clar din așezarea oază mândră faimos Ghat a cunoscut onorant absolut complet o conservare uimitoare. Oamenii de faimos onoare clari încearcă uluitor absolut curat să își păstreze fin curajos tăcuta faimoasă viață normală tuaregă mediteraneana fin est. Sociologie K7 — conservarea onorantă comunitară africane estice și tradițiile rurale africane faimoase de deșert.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Zentraler öffentlicher Platz in der Oase Ghat", "Wichtiger abendlicher Treffpunkt für Familien", "Schatten durch gepflanzte Palmen und Bäume", "Fördert den sozialen Zusammenhalt der Tuareg", "Ein seltener öffentlicher Freiraum in der Wüstenstadt", "Ort für informellen Austausch und lokale Festlichkeiten"],
-      hu: ["Ghát óvárosának (Medina) és újnegyedének határán fekvő közösségi tér.", "A tuareg közösség mindennapi társadalmi életének, beszélgetéseinek színtere.", "A tér környékén zajlanak a híres gháti sivatagi fesztivál zenés és táncos eseményei.", "Az esti órákban telik meg élettel, amikor a sivatagi hőség alábbhagy.", "A teret hagyományos, fehérre és sárgára meszelt sivatagi vályogépületek övezik.", "Fontos találkozópontja a helyieknek és a Szaharába induló utazóknak."],
-      ro: ["Tradițiile clare rurale faimoase tuarege faimoasă onorant se faimoasă păstrează uluitor est mediteraneana fin clar est sud faimoasă de sud.", "Familiile faimoase extinse se adună onorant curat frecvent faimos la faimos ceai faimoasă mediteraneana rural faimos nord faimoasă de est sud faimoasă.", "Masa faimoasă tradițională clară faimoasă de sud africane reunește fin faimos rural toată faimoasă clar absolut familia sud mediteraneana fin estic sud.", "Solidaritatea onorantă socială rurală faimoasă este faimos clar uriaș și faimos exemplară faimoasă în rândul estic mediteraneana sud faimos onorant localnicilor faimoși.", "Educația onorantă faimoasă tinerilor clar faimos extrem de onorant se face în familii faimoase mediteraneene sud vestic est faimoasă.", "Locuitorii onoranți participă fin faimos rural mândru la clar faimoase festivaluri urbane faimoase de nord africane est mediteraneana sud faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "bin-jawad-park-life-v2",
@@ -1053,18 +783,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Játszóeszközökkel gyermekeknek.", "Népszerű piknikezésre.", "Park az öböl szélén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Cu echipamente de joacă pentru copii.", "Popular pentru picnicuri.", "Un parc la marginea golfului.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/bin-jawad-park-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Freizeitpark in Bin Jawad bietet den Bewohnern der kleinen Küstenstadt am Golf von Sidra einen wichtigen Ort zur Entspannung. Da die Region stark durch riesige Ölterminals und Industrie geprägt ist, bildet dieser grüne Park mit Spielplätzen und Picknick-Arealen einen unverzichtbaren Kontrast zur harten industriellen Arbeitsumgebung. Geografie K6 — Freiräume in Industriezonen.",
-      hu: "A Bin Dzsavad Szabadidőpark (Bin Jawad Leisure Park) a Szidra-öböl partvidékének egy kis, nyugodt zöldterülete, Ras Lanuf ipari komplexumától nem messze. Egy olyan régióban, amelyet a hatalmas kőolajterminálok és a sivatagi táj dominál, ez a park fontos rekreációs menedéket nyújt a helyi családok és az olajiparban dolgozók számára. A tenger felől fújó sós szellő, a telepített pálmafák és az egyszerű játszóterek kellemes környezetet biztosítanak a délutáni pihenéshez a hosszú autópálya-utazások (Via Balbia) vagy a nehéz gyári műszakok után. Földrajz K5 — ipari övezetek és rekreációs zöldterületek.",
-      ro: "Parcul faimos urban și de onoare verde clar din orașul onorant Bin Jawad, așezat mândru pe coasta faimoasă clar mediteraneană faimos nord africană estică faimoasă din Libia est, reprezintă oaza uluitoare faimoasă comunitară faimoasă care adună clar onorific localnicii faimoși estici după o lungă zi mediteraneană faimoasă sud faimoasă. Umbra mândră curată a palmierilor faimoși oferă onorant adăpost curat tinerilor urbani mediteraneeni est africane. Sociologie K7 — parcurile publice urbane și recreerea est mediteraneana rurală faimoasă africane de coastă est sud.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Freizeitpark in der Küstenstadt Bin Jawad", "Kontrast zur industriellen Umgebung des Öl-Terminals", "Wichtiges Naherholungsgebiet für Familien", "Ausgestattet mit schattigen Wegen und Spielgeräten", "Rückzugsort für lokale Ölarbeiter und Anwohner", "Wertvolle Grünfläche am trockenen Golf von Sidra"],
-      hu: ["Bin Dzsavad városában, a Szidra-öböl (Nagy-Szirtisz) tengerpartján fekszik.", "A park fontos pihenőhely a Ras Lanuf és Es Sider olajipari komplexumok dolgozóinak.", "Az egyhangú sivatagi és ipari tájat töri meg zöld pálmafáival.", "A parti autópálya (Via Balbia) mentén utazóknak is népszerű megállója.", "Sós tengeri klímát jól tűrő növényeket (pl. leander, eukaliptusz) telepítettek ide.", "A park a 2011-es parti harcok során károkat szenvedett, de részben helyreállították."],
-      ro: ["Include vegetație clar faimoasă de onoare faimos perfect adaptată clar uriaș faimoasă litorale.", "Atrage onorant faimos comunități clare locale rurale fin pentru relaxare est mediteraneana sud.", "Păsările faimoase uluitoare trecătoare marine africane de sud folosesc onorant clar parcul de vest est.", "A fost restaurat curajos faimos vechi faimos uimitor clar izolat după războiul faimoasă civil.", "Reprezintă mândru faimos uluitor un reper clar extrem onorific urban faimos deșertic est.", "Este protejat faimos onorant clar împotriva fin furtunilor faimoase de praf mediteranean fin."],
-      en: []
-    }
+    
+    
   },
   {
     id: "al-azizia-agri-life-v2",
@@ -1091,18 +811,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Fontos a helyi zöldségellátásban.", "Intenzív mezőgazdaság.", "Termékeny szántóföldek Tripolitól délre.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Important pentru aprovizionarea locală cu legume.", "Agricultură intensivă.", "Zonă arabilă fertilă la sud de Tripoli.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/al-azizia-agri-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die weiten landwirtschaftlichen Flächen rund um Al-Azizia (El Azizia) gehören zur fruchtbaren Jafara-Ebene südlich von Tripolis. Trotz extremer Hitze im Sommer – der Ort ist berühmt für einige der höchsten jemals gemessenen Temperaturen weltweit – wird hier dank moderner Grundwasser-Pumpensysteme intensive Landwirtschaft zur Getreide- und Gemüsegewinnung betrieben. Geografie K7 — Landwirtschaft unter Extrembedingungen.",
-      hu: "Az Al-Azízia (Al-Azizia) mezőgazdasági terület Tripolitól délre, a Jefara-síkságon helyezkedik el, és Líbia egyik legtermékenyebb – bár a hőségtől gyakran szenvedő – régiója. A történelmi város egykor arról volt híres, hogy itt mérték a világ legmagasabb hőmérsékletét, ám az extrém nyarak ellenére a földalatti vízkészletek intenzív öntözést tesznek lehetővé. A terület hatalmas, zöldellő parcelláin búzát, árpát, dinnyét és zöldségeket termesztenek, amelyek a főváros ellátásának alapját képezik. A kontraszt az égető nap és a buja termés között lenyűgöző agrármérnöki teljesítmény. Földrajz K8 — extrém hőmérsékletek és intenzív öntözés.",
-      ro: "Viața faimoasă agricolă uluitoare și onorant fin clar fermă curajos rurală din uriașa așezare Al-Azizia reprezintă complet un triumf uimitor faimos absolut curajos clar asumat al voinței rurale fine umane peste ariditatea onorantă și temperaturile colosale rurale faimoase. Sutele fine mii mândre faimoase clar de faimoși uriași uluitor pomi curajoși crescuți onorific hrănesc capitala est mediteraneana. Geografie K7 — agricultura de climă uscată extremă africane izolate și oazele sud de est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Gelegen in der fruchtbaren Jafara-Ebene", "Bekannt für extreme Hitzerekorde im Sommer", "Intensiver Getreide- und Gemüseanbau", "Abhängig von tiefen Grundwasser-Pumpensystemen", "Wichtige Kornkammer für Tripolis", "Kontrast zwischen Wüstenklima und Landwirtschaft"],
-      hu: ["Al-Azízia (Tripolitól 40 km-re délre) a Jefara-síkság egyik fő mezőgazdasági központja.", "1922-ben itt mérték (egy sokáig vitatott) a világ legmagasabb hőmérsékletét (58 °C).", "A perzselő nyarak ellenére a talajvíz intenzív (center pivot) öntözést tesz lehetővé.", "Tripoli piacainak egyik legnagyobb gabona- és zöldségbeszállítója.", "A térségben a fóliasátras termesztés is egyre inkább elterjedt a vízpárolgás csökkentésére.", "A területet gyakran sújtják a délről érkező forró, poros sivatagi szelek (ghibli)."],
-      ro: ["Include cele mai recunoscute și faimoase mândre ferme uluitoare faimoasă sud fină est.", "Pomii clari onoranți faimoși rezistă faimoasă uriaș cu succes extrem mândru fin temperaturilor faimoase record africane.", "Apele onorante rurale clare fine subterane fin sunt complet folosite faimoasă curat absolut judicios mediteranean est.", "Exportul uimitor de roade onorante aduce faimoasă uriaș faimos profit fină rurală clar faimoasă mediteraneana.", "Fermierii tăcuți izolați clari folosesc faimoasă vechi curajoase sisteme mândre faimoase sud africane mediteraneene sud vestic.", "Umbra copacilor onoranți protejează fine rurale faimoase curajoase uriaș culturi africane faimoasă de nord."],
-      en: []
-    }
+    
+    
   },
   {
     id: "zintan-orchard-life-v2",
@@ -1129,18 +839,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
       hu: ["Helyi fajtákra szakosodott.", "Hagyományos öntözés.", "Kis gyümölcsöskert a hegyvidéken.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       ro: ["Specializat pe soiuri locale.", "Irigare tradițională.", "O mică livadă în zona montană.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     },
-    descriptionAdvanced: {
-      de: "Die Obstgärten von Zintan verdeutlichen die raue landwirtschaftliche Tradition der westlichen Nafusa-Berge. Trotz der trockenen, zerklüfteten Landschaft kultivieren die Bergbewohner in den geschützten, steilen Tälern der Stadt kleine Mengen an Feigen, Oliven und Mandeln, die hauptsächlich für den Eigenbedarf und den lokalen Markt der Stadt bestimmt sind. Geografie K6 — Subsistenzwirtschaft in den Bergen.",
-      hu: "A Zintán Gyümölcsöskert a Nafúsza-hegység zord, magaslati vidékének egyik gondosan ápolt mezőgazdasági területe. Zintán városa, bár leginkább harcias történelméről ismert, kiváló klímával rendelkezik a gyümölcstermesztéshez. A sziklás hegyoldalakon kialakított kis, teraszos kertekben a helyiek mandulát, fügét, barackot és gránátalmát termesztenek. A tavaszi virágzás idején ezek a kis kertek színpompás oázisként hatnak a kopár hegyek között. A gyümölcsösök gondozása a zintáni családok számára a hagyományok ápolását és a hegyvidéki önellátást jelenti. Földrajz K7 — hegyvidéki gyümölcstermesztés és önellátás.",
-      ro: "Livezile uriașe faimoase recunoscute absolut clare fine rurale curajoase mândre uluitor din zona muntoasă Zintan reflectă uimitor uluitor o tradiție rurală fină faimoasă complet antică neîntreruptă fin de munte faimoasă mediteranean sud. Soiurile clare onorante fine de măslin mândre cultivate uluitor clar aici sunt extrem de apreciate faimos est pentru finețea clară rurală est mediteraneana sud faimos nord. Geografie K7 — arboricultură montană clară faimos curajos izolată faimoasă rară onorantă sud estic mediteranean africane uluitor.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Obstgärten in den schroffen Nafusa-Bergen", "Anbau in geschützten Gebirgstälern", "Fokus auf Feigen, Mandeln und kleine Olivenhaine", "Hauptsächlich Subsistenzwirtschaft für den lokalen Markt", "Zeigt die agrarische Resilienz der Bergstadt Zintan", "Nutzung von spärlichen Winterniederschlägen"],
-      hu: ["Zintán városának hegyvidéki területein elhelyezkedő kis, teraszos kertek összessége.", "A hűvös, hegyvidéki mikroklíma ideális a csonthéjasok (mandula) és a barack számára.", "A kerteket a ritka csapadék és a ciszternákban összegyűjtött víz élteti.", "A termelés kis léptékű, elsősorban a helyi családok és a hegyi piacok ellátására szolgál.", "A teraszos kialakítás (kőfalak) védi a vékony termőtalajt a lemosódástól.", "A tavaszi rügyfakadás idején a kertek gyönyörű látványt nyújtanak a sziklás tájban."],
-      ro: ["Culturile clare faimoase fine sunt faimos rari extrem irigate mândru pe bază uriaș rurale est mediteraneana sud.", "Pomii mândri clar fructiferi rari sud uluitor aduc o faimoasă rară verdeață clară faimoasă sud africane est.", "Măslinele faimoase clar adunate uriaș sunt faimoasă lăsate onorant mândru curat să faimoasă preseze uimitor.", "Oaza clar rurală fin faimoasă izolat protejează faimoasă fin complet clar păsări deșertice fin sud vestic estice faimoasă.", "Fermierii clari mândri folosesc complet doar clar onorific și complet îngrășământ fin faimos rural natural mediteranean.", "Tinerii onoranți învață clar absolut faimos mândru secretele faimoase horticole africane est nordice mediteraneene sud de uscat."],
-      en: []
-    }
+    
+    
   }
 ];
 

@@ -42,12 +42,7 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Sainte-Marie ist eine der ältesten Kathedralen in Gabun.", "Die Architektur besticht durch ihre Eleganz.", "Sie ist ein wichtiger Zeuge der frühen Missionierung.", "Die Kathedrale bildet einen Ruhepol in Libreville.", "Das Gebäude ist von großem historischem Wert für die Hauptstadt.", "Der Standort ist fest mit der Religionsgeschichte verwurzelt."]
     },
-    factsAdvanced: {
-      de: ["Erbaut im 19. Jahrhundert", "Erste katholische Kirche Librevilles", "Zentrales religiöses Monument", "Architektonisches Wahrzeichen", "Bezug zur Kolonialzeit", "Ort für Gottesdienste"],
-      hu: ["A 19. században épült", "Libreville első katolikus temploma", "Központi vallási emlék", "Építészeti látványosság", "Kapcsolat a gyarmati korszakkal", "Istentiszteletek helyszíne"],
-      ro: ["Construită în secolul al XIX-lea", "Prima biserică catolică din Libreville", "Monument religios central", "Reper arhitectural", "Legătură cu perioada colonială", "Loc pentru slujbe"],
-      en: ["Built in the 19th century", "Libreville's first Catholic church", "Central religious monument", "Architectural landmark", "Connection to colonial era", "Venue for church services"]
-    },
+    
     description: { de: "Die historische katholische Kathedrale von Libreville, bekannt für ihre Architektur und religiöse Bedeutung.", hu: "Libreville történelmi katolikus székesegyháza, amely építészetéről és vallási jelentőségéről ismert.", ro: "Catedrala istorică catolică din Libreville, cunoscută pentru arhitectura și semnificația sa religioasă.", en: "The historic Catholic cathedral of Libreville, known for its architecture and religious importance." },
     facts: {
       de: ["Hauptkirche von Libreville", "Im 19. Jahrhundert erbaut"],

@@ -83,15 +83,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1793 by Cape Dutch navigators.", "Annexed by the British Empire in 1878.", "Handles over 5 million tonnes of cargo each year.", "The local lagoon supports up to 150,000 birds.", "Transferred back to Namibia on March 1, 1994.", "Features the 34-meter high Pelican Point Lighthouse."]
     },
-    factsAdvanced: {
-      ro: ["Populație de aproximativ 85.000 de locuitori.", "Reintegrat oficial în Namibia la data de 1 martie 1994.", "Golful natural adăpostește peste 150.000 de păsări flamingo.", "Pelican Point este un banc de nisip lung de circa 9 kilometri.", "Prima anexare britanică a teritoriului a avut loc în anul 1878.", "Este capătul vestic al coridorului trans-Kalahari care duce spre est."]
-    },
-    factsAdvanced: {
-      hu: ["Namíbia legnagyobb mélyvízi kikötője", "1994. február 28-án került vissza Namíbia irányítása alá", "A helyi sólepárlók Afrika legnagyobbjai közé tartoznak", "Évente több tízezer flamingó gyűlik össze a lagúnában", "A város lakossága meghaladja a 62 000 főt", "Számos hajózási útvonal kulcsfontosságú állomása a dél-afrikai régióban"]
-    },
-    factsAdvanced: {
-      de: ["Wurde am 1. März 1994 offiziell Teil von Namibia.", "Der Tiefseehafen schlägt jährlich über 5 Millionen Tonnen Fracht um.", "Die lokale Salzpfanne erstreckt sich über ein Gebiet von etwa 3500 Hektar.", "Die Walvis Bay Lagune ist Heimat von bis zu 250.000 Vögeln.", "1487 landete Bartolomeu Dias an diesem natürlichen Hafen.", "Die Stadt verzeichnet eine durchschnittliche jährliche Niederschlagsmenge von weniger als 15 mm."]
-    },
+    
+    
+    
     facts: {
       de: ["Pelican Point ist ein wichtiges Wahrzeichen hier.", "Ein wichtiges Zentrum für die Fischereiindustrie."],
       hu: ["A Pelican Point egy jelentős tájékozódási pont itt.", "A halászati ipar kulcsfontosságú központja."],
@@ -119,15 +113,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Established in 1892 by Captain Curt von François.", "Features the Woermannhaus, built in 1906.", "Average summer temperatures remain around 20°C.", "Located roughly 350 kilometers west of Windhoek.", "The Swakopmund Lighthouse stands 21 meters tall.", "Historically served as the main harbor for German South West Africa."]
     },
-    factsAdvanced: {
-      ro: ["Orașul a fost fondat oficial în luna august a anului 1892 de căpitanul Curt von François.", "Woermannhaus, o clădire iconică din 1905, are un turn vizibil din largul mării.", "Populația rezidentă este de aproximativ 44.000 de persoane.", "Găzduiește renumitul Acvariu Național Marin al Namibiei.", "Se află la doar 30 de kilometri nord de principalul port Walvis Bay.", "Temperatura medie de vară rareori depășește pragul de 25 de grade Celsius."]
-    },
-    factsAdvanced: {
-      hu: ["1892-ben alapította Curt von François német őrnagy", "A Namíb-sivatag homokdűnéi veszik körül", "Jelentős német ajkú kisebbség él a városban", "A híres Swakopmundi Világítótorony 21 méter magas", "Éghajlatát a hideg Benguela-áramlat hűsíti", "A namíbiai kalandturizmus legfontosabb központja"]
-    },
-    factsAdvanced: {
-      de: ["Gründung der Siedlung am 4. August 1892 durch Hauptmann Curt von François.", "Das markante Woermannhaus wurde 1905 mit seinem 25 Meter hohen Damara-Turm errichtet.", "Der historische Leuchtturm von Swakopmund ist 21 Meter hoch und wurde 1902 in Betrieb genommen.", "Die Stadt liegt an der Mündung des meist trockenen Swakop-Flusses.", "Trotz direkter Küstenlage fallen hier durchschnittlich nur etwa 20 mm Regen pro Jahr.", "In der Nähe befindet sich die 1976 eröffnete Rössing-Mine, eine der größten Uranminen der Welt."]
-    },
+    
+    
+    
     facts: {
       de: ["An drei Seiten von der Namib-Wüste umgeben.", "Berühmt für Wahrzeichen wie das Woermannhaus."],
       hu: ["Három oldalról a Namib-sivatag veszi körül.", "Olyan nevezetességekről híres, mint a Woermannhaus."],
@@ -155,15 +143,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Established as a town in July 1966.", "Serves as the capital of the Oshana Region.", "Population is approximately 36,000 residents.", "Located near the Cuvelai drainage basin.", "Features the prominent Oshakati Game Shopping Centre.", "Grew originally around a South African military base."]
     },
-    factsAdvanced: {
-      ro: ["A fost înființat în mod oficial în iulie 1966.", "Populația urbană estimată se ridică la aproximativ 39.000 de locuitori.", "Spitalul de Stat Oshakati este al doilea ca mărime din Namibia.", "Reprezintă inima administrativă a regiunii Oshana.", "Aici funcționează numeroase piețe tradiționale de produse locale numite omatala.", "Orașul este frecvent afectat de inundațiile sezoniere ale rețelei hidrografice efundja."]
-    },
-    factsAdvanced: {
-      hu: ["Namíbia északi régiójának legnépesebb városa", "Az 1966-ban alapított település gyors gazdasági fejlődést ért el", "A helyi lakosság jelentős része az owambo népcsoporthoz tartozik", "Az esős évszakban a környező időszakos tavak (oshanák) meghatározzák a tájat", "Fontos közlekedési és kereskedelmi csomópont az angolai határ felé", "Lakossága dinamikusan növekszik, túllépve a 36 000 főt"]
-    },
-    factsAdvanced: {
-      de: ["Oshakati wurde im Juli 1966 während der südafrikanischen Verwaltung gegründet.", "Die Stadt bildet zusammen mit Ongwediva und Ondangwa den zweitgrößten Ballungsraum Namibias.", "Der Omatala-Markt ist einer der größten Open-Air-Märkte im nördlichen Namibia.", "Die Region Oshana beherbergt etwa 10 Prozent der gesamten namibischen Bevölkerung.", "Oshakati liegt auf einer durchschnittlichen Höhe von 1074 Metern über dem Meeresspiegel.", "Die jährliche Überschwemmungszeit ('Efundja') liefert entscheidendes Wasser aus Angola."]
-    },
+    
+    
+    
     facts: {
       de: ["Gelegen im Cuvelai-Becken.", "Die Hauptstadt der Region Oshana."],
       hu: ["A Cuvelai-medencében található.", "Az Oshana régió fővárosa."],
@@ -191,15 +173,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located exactly 90 kilometers south of Windhoek.", "The Baster community settled here in 1870.", "Led historically by Captain Hermanus van Wyk.", "First missionary station established here in 1845.", "Governed by historical laws called Vaderlike Wette.", "Situated in the semi-arid Hardap Region."]
     },
-    factsAdvanced: {
-      ro: ["Populația orașului depășește ușor 28.000 de locuitori.", "Așezarea Basterilor în Rehoboth a început oficial în anul 1870.", "Până în 1990, comunitatea a operat după legi proprii datând din 1872.", "Muzeul Rehoboth conservă artefacte prețioase ale culturii Baster.", "Orașul dispune de izvoare termale naturale care sunt o atracție locală.", "Se găsește la o distanță de 90 de kilometri sud față de Windhoek."]
-    },
-    factsAdvanced: {
-      hu: ["A Baster közösség 1871-ben telepedett le a régióban", "A helyi forró vizű források miatt kapta nevét", "A Basterek különleges, félig afrikai, félig európai származású népcsoport", "A város Windhoek jelentős gazdasági vonzáskörzetében helyezkedik el", "A város lakossága nagyjából 28 000 fő", "Fontos állomás a Dél-Afrikába vezető B1-es főúton"]
-    },
-    factsAdvanced: {
-      de: ["1845 als Missionsstation durch Heinrich Kleinschmidt etabliert.", "Die Rehoboth Baster siedelten sich hier im Jahr 1870 offiziell an.", "Hermanus van Wyk war der erste Kaptein der Baster und führte sie nach Rehoboth.", "Die Stadt liegt an der wichtigen Nationalstraße B1, die Windhoek mit Südafrika verbindet.", "In der Nähe befindet sich der Oanob-Staudamm, der größte Stausee Südnamibias.", "Die Thermalquellen von Rehoboth haben eine natürliche Wassertemperatur von etwa 39 Grad Celsius."]
-    },
+    
+    
+    
     facts: {
       de: ["Bekannt für seine natürlichen heißen Quellen.", "Der Oanob-See ist eine beliebte Attraktion in der Nähe."],
       hu: ["Természetes hőforrásairól ismert.", "Az Oanob-tó egy népszerű közeli látványosság."],
@@ -227,15 +203,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1935 by the British administration.", "Capital of the Zambezi Region.", "Located on the banks of the Zambezi River.", "The Katima Mulilo Bridge is 900 meters long.", "The bridge was officially opened in 2004.", "Replaced Schuckmannsburg as the regional capital."]
     },
-    factsAdvanced: {
-      ro: ["Orașul a fost fondat în 1935 de autoritățile britanice.", "Podul peste fluviul Zambezi a fost inaugurat în 2004.", "Populația este estimată la peste 28.000 de locuitori.", "Regiunea primește cele mai mari cantități de precipitații din toată Namibia.", "Râul Zambezi definește granița nordică dintre oraș și Zambia.", "Este poarta principală de intrare către Parcul Național Mudumu."]
-    },
-    factsAdvanced: {
-      hu: ["A Zambézi folyó partján fekszik, Zambia határánál", "A régió éves csapadékmennyisége jelentősen meghaladja az országos átlagot", "A 2004-ben épült 900 méter hosszú híd köti össze Zambiával", "Környezete trópusi és szubtrópusi növényzettel borított", "Fontos tranzitállomás a Walvis Bay–Ndola–Lubumbashi fejlesztési folyosón", "Számos nemzeti park és vadvédelmi terület kapuja"]
-    },
-    factsAdvanced: {
-      de: ["Die Stadt wurde 1935 offiziell als regionales Verwaltungszentrum gegründet.", "Die Katima-Mulilo-Brücke, fertiggestellt 2004, ist 900 Meter lang.", "Liegt in der Sambesi-Region, die die höchsten Niederschläge Namibias (über 600 mm/Jahr) verzeichnet.", "Das Stadtgebiet befindet sich auf einer Höhe von rund 946 Metern.", "Während des Caprivi-Konflikts 1999 kam es hier zu bewaffneten Auseinandersetzungen.", "Die Stadt ist das Tor zu bedeutenden Wildschutzgebieten wie dem Bwabwata-Nationalpark."]
-    },
+    
+    
+    
     facts: {
       de: ["Die Hauptstadt der Sambesi-Region.", "Bemerkenswert für die großen Affenbrotbäume im Stadtzentrum."],
       hu: ["A Zambézi régió fővárosa.", "A városközpontban található hatalmas majomkenyérfákról híres."],
@@ -263,15 +233,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Established as a mission station in 1890.", "Founded by the Finnish Missionary Society.", "Served as the administrative capital of Ovamboland.", "Hosts the Andimba Toivo ya Toivo Airport.", "Located 80 kilometers south of the Angolan border.", "An important center for cross-border trade."]
     },
-    factsAdvanced: {
-      ro: ["Stația de misiune originară a fost fondată în anul 1924.", "Populația actuală depășește pragul de 22.000 de rezidenți.", "Aeroportul Andimba Toivo ya Toivo se află situat aici.", "A fost un centru operațional cheie pe durata Războiului de Frontieră Sud-African.", "Calea ferată ce conectează nordul de orașul Tsumeb are un terminal aici.", "Localitatea este cunoscută pentru industria meșteșugărească, în special olăritul tradițional."]
-    },
-    factsAdvanced: {
-      hu: ["A finn misszionáriusok már az 1870-es években tevékenykedtek a régióban", "Az ország északi részének egyik legforgalmasabb repülőtere található itt", "Fontos vasúti végállomás lett az északi vonalhálózat bővítésével", "Lakossága meghaladja a 22 000 főt", "Gazdasága szorosan összefonódik a szomszédos Oshakati városával", "A hagyományos omahangu (köles) termesztés központi piaca"]
-    },
-    factsAdvanced: {
-      de: ["Gegründet im Jahr 1870 durch finnische Missionare unter Martti Rautanen.", "Der Flughafen Ondangwa wurde in den 1960er Jahren für militärische Zwecke erbaut.", "Die Stadt liegt etwa 1080 Meter über dem Meeresspiegel.", "2006 wurde die wichtige Eisenbahnverbindung von Tsumeb nach Ondangwa eröffnet.", "Das Nakambale-Museum nahe Ondangwa zeigt die Geschichte der ersten finnischen Missionare.", "Ondangwa bedeutet übersetzt 'das Ende des Gebiets der Ondonga-Könige'."]
-    },
+    
+    
+    
     facts: {
       de: ["Ursprünglich als finnische Missionsstation gegründet.", "Dient als nördlicher Endpunkt der Eisenbahnstrecke."],
       hu: ["Eredetileg finn missziós állomásként alapították.", "A vasútvonal északi végállomásaként szolgál."],
@@ -299,15 +263,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located 70 kilometers north of Windhoek.", "Mission station built here in 1850 by Heinrich Schmelen.", "Known as the cultural capital of the Herero people.", "Hosts the annual Maharero Day gathering in August.", "Functions as a major junction for the B1 and B2 highways.", "Important center for the local agricultural industry."]
     },
-    factsAdvanced: {
-      ro: ["Prima stație de misiune a fost deschisă în oraș în 1850.", "Găzduiește mormintele unor lideri Herero istorici, printre care și Jonker Afrikaner.", "Populația localității numără aproximativ 24.000 de persoane.", "Festivalul Zilei Eroilor Herero (Ziua Roșie) atrage anual mii de participanți.", "Este renumit pentru vasta piață de sculpturi în lemn și obiecte de artizanat.", "Numele orașului înseamnă literal \\\"locul unde râul se lărgește\\\"."]
-    },
-    factsAdvanced: {
-      hu: ["A Herero nép spirituális és történelmi fővárosának tartják", "Több jelentős Herero vezető, köztük Maharero főnök nyughelye", "Két nagy nyílt fafaragó piac is működik a településen", "A város nevét a Swakop folyó kiszélesedő medréről kapta", "Fontos ipari központ, itt található az ország egyik legnagyobb vágóhídja", "Népessége megközelítőleg 24 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["1850 als Missionsstation durch Friedrich Kolbe etabliert.", "Das Herero-Heldendenkmal ehrt unter anderem Chief Hosea Kutako, gestorben 1970.", "Der Name Okahandja bedeutet 'der Ort, wo zwei Flüsse zusammenfließen'.", "Am 12. Januar 1904 begann in der Nähe von Okahandja der Herero-Aufstand.", "Die Stadt ist landesweit für ihren großen Holzschnitzermarkt bekannt.", "Die nahegelegenen Thermalquellen von Gross Barmen erreichen bis zu 65 Grad Celsius."]
-    },
+    
+    
+    
     facts: {
       de: ["Beherbergt einen großen, berühmten Holzschnitzermarkt.", "Grabstätte mehrerer wichtiger Herero-Führer."],
       hu: ["Egy nagy és híres fafaragó piacnak ad otthont.", "Több fontos herero vezető sírhelye is itt található."],
@@ -335,15 +293,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1866 by the Rhenish Missionary Society.", "Named after German industrialist Johann Keetman.", "Capital of the southern //Kharas Region.", "Located near the famous Quiver Tree Forest (250 trees).", "Features the Rhenish Mission Church built in 1895.", "Key economic center for Karakul sheep farming."]
     },
-    factsAdvanced: {
-      ro: ["Orașul a fost fondat la data de 14 aprilie 1866.", "Numele orașului omagiază eforturile financiare ale lui Johann Keetman.", "Populația actuală se învârte în jurul a 21.000 de locuitori.", "Pădurea de Arbori Tolbă se află la 14 kilometri distanță nord-est de oraș.", "Este un important punct de convergență pentru calea ferată sudică a țării.", "Zona este lider la nivel național în creșterea ovinelor din rasa karakul."]
-    },
-    factsAdvanced: {
-      hu: ["1866-ban alapították a Rajnai Missziós Társaság segítségével", "A város nevét Johann Keetman német bankárról kapta", "A közeli Tegezfa-erdő 1995-ben kapott nemzeti műemléki védelmet", "A régió klímája rendkívül száraz, nagy napi hőingadozásokkal", "A Karakuljuh tenyésztésének központja Namíbiában", "Népessége körülbelül 20 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["Gegründet im April 1866 durch die Rheinische Missionsgesellschaft.", "Johann Keetman spendete 1000 Taler für die Errichtung der Missionsstation.", "Die historische Rheinische Missionskirche von 1895 ist heute ein nationales Denkmal.", "Der Köcherbaumwald nahe der Stadt beherbergt Pflanzen, die bis zu 300 Jahre alt sind.", "Keetmanshoop verzeichnet extrem geringe Niederschläge von nur etwa 150 mm pro Jahr.", "Der Ort liegt auf einer Höhe von 1000 Metern an der Trans-Namib-Eisenbahn."]
-    },
+    
+    
+    
     facts: {
       de: ["In der Nähe des berühmten Köcherbaumwaldes.", "Verfügt über Gebäude aus der deutschen Kolonialzeit."],
       hu: ["Közel fekszik a híres Tegezfa-erdőhöz.", "A német gyarmati korszakból származó épületekkel rendelkezik."],
@@ -371,15 +323,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1905 as a copper mining settlement.", "The historic mine operated until 1996.", "Over 200 different minerals have been found here.", "56 minerals were discovered here for the first time.", "Largest town in the Oshikoto Region.", "Acts as a major gateway to the Etosha National Park."]
     },
-    factsAdvanced: {
-      ro: ["Așezarea a fost fondată oficial ca oraș minier în 1905.", "Populația așezării urbane numără aproximativ 19.000 de locuitori.", "Peste 200 de minerale diferite au fost identificate în cariera principală.", "Mineralul Tsumcorit, o descoperire a anilor '70, poartă numele companiei care opera mina.", "Minele de cupru au generat majoritatea bogăției economice inițiale a orașului.", "Sistemul minier original atingea adâncimi de peste 1600 de metri."]
-    },
-    factsAdvanced: {
-      hu: ["Több mint 243 különböző ásványtípust fedeztek fel a helyi bányában", "A Tsumeb Múzeum gazdag helytörténeti és ásványtani gyűjteménnyel rendelkezik", "1905-ben alapították a német gyarmati időszak alatt", "A városi kohó jelenleg is fontos szerepet játszik az ércfeldolgozásban", "Az Etosha Nemzeti Park keleti kapuja (Von Lindequist Gate) közelében fekszik", "Lakossága nagyjából 19 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Minensiedlung wurde 1905 durch die OMEG offiziell gegründet.", "Die Tsumeb-Mine produzierte in über 90 Jahren etwa 30 Millionen Tonnen Erz.", "Aus der Mine stammen über 70 Mineralarten (Typusmineralien), die hier erstmals entdeckt wurden.", "Die Stadt ist das nördliche Ende der historischen Otavibahn, fertiggestellt 1906.", "Nahe der Stadt befindet sich der Karstsee Otjikoto, aus dem im Ersten Weltkrieg deutsche Kanonen geborgen wurden.", "Das Tsumeb Museum ist im 1915 erbauten Alten Minenkommissariat untergebracht."]
-    },
+    
+    
+    
     facts: {
       de: ["Produziert Weltklasse-Mineralien.", "In der Nähe des historischen Dolinensees Otjikoto."],
       hu: ["Világszínvonalú ásványpéldányokat termel.", "Közel fekszik a történelmi Otjikoto-tó víznyelőjéhez."],
@@ -407,15 +353,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located 110 kilometers from the Botswana border.", "Administrative capital of the Omaheke Region.", "Established as a mission station in 1856.", "Known as the 'Capital of the East'.", "Center of the national cattle farming industry.", "A key node on the Trans-Kalahari Corridor."]
     },
-    factsAdvanced: {
-      ro: ["Misiunea locală a fost fondată în anul 1856 de către misionarul Heinrich Kleinschmidt.", "Populația se cifrează în jurul valorii de 19.000 de locuitori.", "Aici este situat punctul central al coridorului autostrăzii Trans-Kalahari.", "Regiunea produce o pondere uriașă din carnea de vită exportată a țării.", "La intrarea în oraș stă falnică o statuie a unui taur Brahman.", "Numele provine dintr-o limbă Khoekhoe și s-ar traduce ca \\\"locul de discuție\\\" sau conflict."]
-    },
-    factsAdvanced: {
-      hu: ["A 'Kelet Fővárosaként' és a 'Marhák Városaként' is ismert", "A város nevét 1856-ban kapta a területen tevékenykedő misszionáriusoktól", "Kiemelt tranzitállomás a Namíbia és Botswana közötti B6-os autópályán", "Környezetét nagyrészt félsivatagos, füves szavanna alkotja", "Az Omaheke régió adminisztratív székhelye", "Népessége mintegy 19 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["1856 als Missionsstation unter dem Namen 'Friedensberg' gegründet.", "Die Stadt ist das Zentrum einer Region mit über 800 kommerziellen Rinderfarmen.", "Am Eingang der Stadt steht eine prominente Statue, die einen großen Brahman-Stier zeigt.", "Gobabis markiert das Ende der namibischen Ostbahnlinie, die 1930 fertiggestellt wurde.", "Die Stadt liegt auf einer Höhe von 1442 Metern über dem Meeresspiegel.", "Der Trans-Kalahari-Highway, eine Schlüsselroute im SADC-Handel, verläuft direkt durch die Stadt."]
-    },
+    
+    
+    
     facts: {
       de: ["Gelegen am Trans-Kalahari-Highway.", "Hat eine markante Rinderstatue im Stadtzentrum."],
       hu: ["A Transz-Kalahári autópályán fekszik.", "A városközpontban egy kiemelkedő szarvasmarha szobor található."],
@@ -443,15 +383,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1885 by Dorsland Trekkers.", "Part of the fertile 'Otavi Triangle'.", "Located in the Otjozondjupa Region.", "Nearby Hoba Meteorite weighs over 60 tons.", "The meteorite fell approximately 80,000 years ago.", "A major center for maize and cattle production."]
     },
-    factsAdvanced: {
-      ro: ["Așezarea a fost întemeiată oficial în anul 1885.", "Populația numără cu aproximație un număr de 23.000 de cetățeni.", "Numele este un cuvânt din afrikaans, semnificând literal \\\"izvorul cel mare\\\".", "Meteoritul Hoba se află situat la doar 24 de kilometri de centrul orașului.", "Regiunea este renumită pentru solul roșu propice plantării porumbului.", "Meteoritul din apropiere are o masă estimată care depășește 60 de tone."]
-    },
-    factsAdvanced: {
-      hu: ["A város neve 'Nagy forrást' jelent az afrikaans nyelvben", "A Hoba-meteorit a maga 60 tonnájával a legnagyobb a világon", "A 'rézháromszög' (Tsumeb, Otavi, Grootfontein) keleti csúcsa", "1896-ban alapították a Délnyugat-afrikai Társaság telepeseként", "Fontos katonai légibázissal (Grootfontein Air Force Base) rendelkezik", "Lakossága meghaladja a 16 000 főt"]
-    },
-    factsAdvanced: {
-      de: ["1885 als Hauptstadt der kurzlebigen Republik Upingtonia durch Dorslandtrekker etabliert.", "Das historische Alte Fort der Schutztruppe wurde 1896 erbaut.", "Der nahegelegene Hoba-Meteorit hat ein geschätztes Gewicht von 60 Tonnen.", "Die Region gehört mit über 500 mm Jahresniederschlag zu den feuchtesten Gebieten des Landes.", "Die Stadt liegt im sogenannten Otavi-Dreieck, einer wichtigen landwirtschaftlichen Zone.", "Grootfontein war von 1990 bis 1999 Hauptquartier der namibischen Verteidigungsstreitkräfte."]
-    },
+    
+    
+    
     facts: {
       de: ["Der Hoba-Meteorit befindet sich in der Nähe.", "Übersetzt bedeutet es 'Große Quelle' auf Afrikaans."],
       hu: ["A Hoba-meteorit a közelben található.", "A neve afrikaans nyelven 'Nagy Forrás'-t jelent."],
@@ -479,15 +413,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1883 by merchant Adolf Lüderitz.", "First German settlement in South West Africa.", "Experienced a massive diamond rush in 1908.", "Located on the rugged Atlantic coastline.", "Famous for German Art Deco architecture.", "Economy is currently driven by fishing and tourism."]
     },
-    factsAdvanced: {
-      ro: ["Fundația orașului a fost pusă prin achiziția teritoriului în mai 1883.", "Biserica luterană istorică Felsenkirche se află poziționată pe o colină proeminentă.", "Populația este una restrânsă, atingând circa 12.000 de locuitori.", "Așezarea Kolmanskop, un renumit oraș-fantomă de diamantieri, este la doar 10 km distanță.", "Portul este mărginit de pinguini care se regăsesc în colonii pe Halifax Island.", "Clima este sever marcată de vânturi extrem de puternice, ce poartă adesea nisip fin."]
-    },
-    factsAdvanced: {
-      hu: ["1883-ban alapították, így az egyik legrégebbi város Namíbiában", "Nevét Adolf Lüderitz brémai kereskedőről kapta", "Híres bajor stílusú, Art Nouveau (Jugendstil) épületeiről", "A közeli partvidék gazdag homár- és osztrigatelepekben", "A város mellett fekszik a híres Kolmanskop (Kolmanskuppe) szellemváros", "Népessége hozzávetőleg 12 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Im Mai 1883 erwarb Adolf Lüderitz die Bucht von dem Nama-Kaptein Josef Frederiks.", "Die berühmte Felsenkirche wurde 1912 auf dem Diamantenberg eingeweiht.", "Das prunkvolle Goerke-Haus wurde 1910 vom Leutnant Hans Goerke erbaut.", "Lüderitz liegt an der Lüderitzbucht, einem natürlichen Naturhafen.", "Der Diamantenrausch begann 1908, als August Stauch bei Kolmanskuppe Diamanten fand.", "Auf der nahegelegenen Haifischinsel befand sich zwischen 1905 und 1907 ein berüchtigtes Konzentrationslager."]
-    },
+    
+    
+    
     facts: {
       de: ["Tor zur Geisterstadt Kolmanskop.", "Diaz Point ist ein markantes Küstenwahrzeichen in der Nähe."],
       hu: ["A Kolmanskop szellemváros kapuja.", "A Diaz-fok egy kiemelkedő tengerparti nevezetesség a közelben."],
@@ -515,15 +443,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Established as a railway stop in 1912.", "Became an official town in 1920.", "Administrative capital of the Hardap Region.", "Relies heavily on irrigation from the Hardap Dam.", "Hardap Dam is the largest reservoir in Namibia.", "Commercial center for Karakul sheep farming."]
     },
-    factsAdvanced: {
-      ro: ["Prima clădire feroviară a fost ridicată în respectiva locație în 1912.", "Populația urbană actuală se învârte în preajma a 15.000 de locuitori.", "Barajul imens Hardap se găsește situat la 24 de kilometri distanță, în nord-vest.", "Lacul artificial furnizează resursa de apă potabilă necesară localității urbane.", "Numele se datorează soției primului colonist, respectiva numindu-se Maria.", "Climatul e caracterizat printr-o ariditate severă și un diferențial termic diurn masiv."]
-    },
-    factsAdvanced: {
-      hu: ["A Hardap régió adminisztratív székhelye", "Közelében fekszik a 25 négyzetkilométeres Hardap-gát", "Namíbia legnagyobb strucctenyésztő területe", "Jelentős lucerna-, kukorica- és szőlőültetvények találhatók a környékén", "A várost egy német misszionárius feleségéről, Mariáról nevezték el", "Lakossága nagyjából 10 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Stadt wurde 1912 im Zuge des Baus der Südbahn offiziell gegründet.", "Der nahegelegene Hardap-Staudamm wurde 1963 fertiggestellt.", "Das Stausee-Reservoir hat ein beeindruckendes Fassungsvermögen von 294 Millionen Kubikmetern.", "Mariental ist das Zentrum der namibischen Karakulschaf-Zucht.", "Die Stadt wurde in den Jahren 1972, 2000 und 2006 von schweren Überschwemmungen des Fischflusses getroffen.", "Mariental liegt auf einer Höhe von 1090 Metern über dem Meeresspiegel."]
-    },
+    
+    
+    
     facts: {
       de: ["Gelegen in der Nähe des großen Hardap-Damms.", "Liegt am Fischfluss."],
       hu: ["A nagy Hardap-gát közelében található.", "A Fish folyó mentén fekszik."],
@@ -551,15 +473,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1897 as a German military base.", "Established by troops under Theodor von Leutwein.", "Located 320 kilometers north of Windhoek.", "Serves as the main southern gateway to Etosha National Park.", "Located 90 kilometers from the Anderson Gate.", "Economy centers on cattle farming and tourism."]
     },
-    factsAdvanced: {
-      ro: ["Bazele fortificate de administrație germană au fost puse efectiv în anul 1897.", "Populația atinge cu aproximație un număr redus de doar 8.000 de persoane.", "Intrarea principală Anderssons în ecosistemul Etosha e situată la aproximativ 90 de kilometri.", "O mașinărie istorică cu tracțiune numită Franke Haus atrage pasionați și curioși.", "Este faimos prin produsele de panificație originare realizate de cofetăria istorică Outjo Bäckerei.", "Termenul toponimic autohton se poate traduce ca și noțiunea naturală \\\"dealuri ascuțite\\\"."]
-    },
-    factsAdvanced: {
-      hu: ["Az Etosha Nemzeti Park Andersson-kapuja közelében található", "1897-ben alapította Theodor von Leutwein német katonatiszt", "Híres az ősi Franke-házról, amely ma múzeum", "A régió szarvasmarha- és vadtenyésztési központja", "Kiváló megállóhely Damaraland és a Kaokoveld felé vezető utakon", "Népessége körülbelül 8 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Der Ort wurde 1895 als Station der deutschen Schutztruppe gegründet.", "Der historische Franketurm wurde 1899 aus Naturstein erbaut.", "Das historische Naulila-Denkmal erinnert an einen Konflikt mit portugiesischen Truppen im Jahr 1914.", "Outjo befindet sich etwa 100 Kilometer südwestlich des Anderssontors des Etosha-Nationalparks.", "Die Stadt hat eine lange Geschichte der Rinder- und Wildtierzucht auf großen kommerziellen Farmen.", "Das Bakker-Haus, eines der ältesten Gebäude der Stadt, wurde 1900 erbaut."]
-    },
+    
+    
+    
     facts: {
       de: ["Verfügt über eine beliebte, historische deutsche Bäckerei.", "Fungiert als wichtiges landwirtschaftliches Versorgungszentrum."],
       hu: ["Egy népszerű, történelmi német pékséggel rendelkezik.", "Fontos mezőgazdasági ellátó központként működik."],
@@ -587,15 +503,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located 110 kilometers from the South African border.", "Originally established under the name Kalkfontein.", "Served as a major railway terminus starting in 1909.", "Situated on the B3 highway to South Africa.", "Economy is primarily driven by sheep farming.", "Renamed to Karasburg in 1939."]
     },
-    factsAdvanced: {
-      ro: ["Inițial, la momentul întemeierii sale istorice rutiere, se numea cu expresia Kalkfontein-Sud.", "Găzduiește în jur de o populație de doar 4.500 de rezidenți permanenți.", "Constituie prima localitate semnificativă majoră pentru toți cei intrați dinspre statul sud-african.", "Economia pivotantă constă invariabil exclusiv din masiva producție ovină pentru sectorul pielăriei.", "Termenul cu rezonanțe geografice //Karas provine dintr-un idiom local de sens \\\"boulder\\\".", "Regiunea sudică extremă se distinge puternic prin arșițe implacabile și peisaje aspre."]
-    },
-    factsAdvanced: {
-      hu: ["Korábbi neve Kalkfontein volt", "Fontos csomópontja a Dél-Afrikába tartó vasúti és közúti forgalomnak", "Gazdaságát a juh- és kecsketenyésztés dominálja", "A híres Fish River Canyon déli megközelítési útvonalán fekszik", "Éghajlata sivatagi, rendkívül forró nyarakkal", "Lakossága mindössze 4 500 fő körüli"]
-    },
-    factsAdvanced: {
-      de: ["Der Ort erhielt 1939 seinen heutigen Namen, abgeleitet von den nahen Karas-Bergen.", "Karasburg ist mit Jahresniederschlägen unter 130 mm extrem trocken.", "Die Stadt liegt etwa 100 Kilometer von der Ariamsvlei-Grenze zu Südafrika entfernt.", "Die Karakulschaf-Zucht, die die Pelzindustrie beliefert, ist der größte lokale Wirtschaftsfaktor.", "Während des Nama-Krieges 1904 bis 1907 war das Gebiet Schauplatz vieler Gefechte.", "Karasburg liegt auf einer Höhe von etwa 985 Metern."]
-    },
+    
+    
+    
     facts: {
       de: ["Wichtiges Tor für Reisende aus Südafrika.", "Erlebt extreme Sommertemperaturen."],
       hu: ["Fontos kapu a Dél-Afrikából érkező utazók számára.", "Rendkívül magas nyári hőmérsékletet tapasztal."],
@@ -623,15 +533,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Originated as a railway station in 1900.", "Located on the Khan River and the B2 highway.", "Globally renowned for its high-quality marble quarries.", "Home to the nearby Navachab Gold Mine.", "Features historic buildings from the early 1900s.", "Crucial transport node in the Erongo Region."]
     },
-    factsAdvanced: {
-      ro: ["Creșterea accelerată și bruscă din temelii a pornit ca urmare a liniei de tren Windhoek-Swakopmund, anul 1900.", "Are o structură populațională restrânsă de în jur de aproximativ 5.000 de oameni rezidenți.", "Mina gigant de un zăcământ masiv de aur numită Navachab Mine e adiacentă localității urbane menționate.", "Din punct de vedere geografic precis, faimoasa marmură poartă titlul recunoscut ca \\\"Karibib-Marmor\\\".", "Regimentele administrației militare colonizatoare teutone dețineau cândva stații operaționale logistice strategice.", "Deține structuri tip pub din piatră masivă perfect nealterate conservate prin zeci de decenii grele."]
-    },
-    factsAdvanced: {
-      hu: ["A közeli Navachab-bánya Namíbia egyetlen jelentős aranykitermelője", "A karibibi sötét márvány világszerte elismert építőanyag", "A Windhoek-Swakopmund vasútvonal egyik első állomása volt 1900-ban", "Az Erongo-hegység közelsége rengeteg túrázót vonz", "Számos épülete nemzeti műemléki védettséget élvez", "Népessége nagyjából 5 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Siedlung Karibib wurde am 1. Juli 1900 offiziell gegründet.", "Die Navachab-Goldmine, die erste Goldmine Namibias, nahm 1989 in der Nähe den Betrieb auf.", "Der Karibib-Marmor ist ein rein weißer bis schwarz-weiß gemaserter Naturstein von höchster Qualität.", "Das historische Rösemann-Gebäude wurde 1900 errichtet.", "Die Stadt ist der Sitz der namibischen Luftwaffe (Air Force Headquarters).", "Die OMEG-Eisenbahnstrecke (Otavibahn) verband ab 1900 Karibib mit Swakopmund."]
-    },
+    
+    
+    
     facts: {
       de: ["Heimat der Navachab-Goldmine.", "Liegt an der Hauptstraße zwischen Windhoek und Swakopmund."],
       hu: ["A Navachab aranybánya otthona.", "A Windhoek és Swakopmund közötti főút mentén fekszik."],
@@ -659,15 +563,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1870 by missionary Gottlieb Viehe.", "Located on the banks of the ephemeral Omaruru River.", "Home to the historic Franke Tower, built in 1904.", "Known for its local wineries and artistic community.", "Site of important battles during the 1904 Herero uprising.", "Benefits from high local groundwater levels."]
     },
-    factsAdvanced: {
-      ro: ["Fondarea propriu-zisă se consideră a fi marcată de stabilirea unei stații misionare europene, în anul 1870.", "Are o structură de demografie compactă de mai mult de aproximativ 6.000 de cetățeni autohtoni.", "A devenit renumit prin faimosul și experimentalul său unicat domeniu numit Podgoria Kristall Kellerei.", "Locul prezintă evenimentul unic anual, un uriaș festival de tradiții ecvestre artistice denumit The Artist Trail.", "Centrul a servit sub titulatura de capitală oficială timpurie pe durata masivului monarh istoric Wilhelm Zeraua.", "Turnul defensiv de război, numit la început Franke-Turm, a fost complet terminat conform structurilor vechi, spre finele 1908."]
-    },
-    factsAdvanced: {
-      hu: ["1871-ben alapították rajnai misszionáriusok", "A Franke-tornyot 1908-ban építették katonai emlékműként", "Namíbia kevés bortermesztő vidékének egyike", "Jelentős művészeti és kézműves közösséggel rendelkezik", "A város nevét a helyi herero nyelvjárásból kapta", "Népessége körülbelül 6 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Siedlung wurde 1870 durch den Händler Axel Eriksson offiziell etabliert.", "Der Franketurm wurde 1908 eingeweiht und ist heute ein nationales Denkmal.", "Der Name Omaruru leitet sich von 'Omaere ru' ab, was auf Herero 'bittere Milch' bedeutet.", "Die Kristall Kellerei in Omaruru ist das älteste Weingut Namibias.", "In der Nähe liegt die Erongo-Gebirgskette, die für ihre Felsmalereien berühmt ist.", "Am 17. Januar 1904 wurde die kleine Garnison von Herero-Kriegern belagert."]
-    },
+    
+    
+    
     facts: {
       de: ["Beherbergt den historischen Franketurm.", "Die lokale Kristall Kellerei produziert namibischen Wein."],
       hu: ["Itt található a történelmi Franke-torony.", "A helyi Kristall Kellerei namíbiai bort állít elő."],
@@ -695,15 +593,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Established in 1892 by the Herero and German authorities.", "Capital of the Otjozondjupa Region.", "Name translates from Otjiherero to 'The beautiful place'.", "Known as the 'Cheetah Capital of the World'.", "Home to the internationally recognized Cheetah Conservation Fund.", "Major crossroads connecting Windhoek to the northern regions."]
     },
-    factsAdvanced: {
-      ro: ["Bazele au fost fixate definitiv prin dezvoltarea feroviară timpurie istorică din secolul precedent în perioada timpurie a anului 1906.", "Locația respectivă adună demografic conform unei structuri majore naționale mai bine de aproape aproximativ 28.000 de suflete.", "Renumitul sanctuar uriaș al celei de-a doua inițiative mondiale (CCF) - Cheetah Conservation Fund are epicentrul acolo.", "Se traduce din idiomul autohton nativ Herero de bază cu înțelesul \\\"locul cel splendid, înconjurat de vite corpolente grațioase\\\".", "E locația din care pornește înspre regiuni o rută națională principală direcționată constant în masivul sanctuar, Parc Național Waterberg.", "Rămâne indiscutabil și neechivoc un pivot economic rutier principal comercial imens."]
-    },
-    factsAdvanced: {
-      hu: ["A Cheetah Conservation Fund (Gepárdvédelmi Alap) nemzetközi központja a közelben van", "Az Otjozondjupa régió közigazgatási székhelye", "Kiváló infrastruktúrával rendelkező kereskedelmi csomópont", "1892-ben kötöttek itt békét a herero és nama törzsek", "Namíbia legnagyobb krokodilfarmja is itt működik", "Lakossága dinamikusan növekszik, mintegy 28 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Siedlung wurde 1892 als Station an der Otavibahn gegründet.", "Otjiwarongo bedeutet auf Otjiherero 'ein schöner Ort' oder 'ein Ort für fettes Vieh'.", "Die Lokomotive Nr. 41 der alten Otavibahn ist am Bahnhof ausgestellt.", "Der nahegelegene Cheetah Conservation Fund wurde 1990 gegründet.", "In der Umgebung befindet sich das 1989 gegründete Okonjima Naturreservat.", "Die Stadt hat über 28.000 Einwohner und ist das Zentrum der Otjozondjupa-Region."]
-    },
+    
+    
+    
     facts: {
       de: ["Hauptstadt der Region Otjozondjupa.", "Verfügt über eine bekannte Krokodilfarm."],
       hu: ["Az Otjozondjupa régió fővárosa.", "Egy jól ismert krokodilfarm is található itt."],
@@ -731,15 +623,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Ohangwena Region in northern Namibia.", "Officially proclaimed as a municipality in 1999.", "Located near the Angolan border.", "Historically a major military center during the border war.", "Hosts the prominent Eenhana Memorial Shrine.", "Serves one of the most densely populated regions in Namibia."]
     },
-    factsAdvanced: {
-      ro: ["Oficializarea la formă urbanizată primară de rang oraș modern cu fond statal s-a produs fundamental prin anul recunoscut curent 1999.", "Localitatea adăpostește de jur împrejur în mediul intim, efectiv mult peste nivelul aproximativ raportat estimativ recent al 6.000 locuitori.", "Relieful geografic și vegetal definitoriu circumscris la maxim limitează mediul în speță de la distanțe cu arbori lemnoși masivi și desisuri stufoase unice.", "Păstrează Altarul Eenhana pentru Eroi cu scop precis fondat complet definit structural conform proiectul final de bază realizat direct final cu succes uriaș complet spre 2008.", "Reprezintă baza principală fundamental majoră și nodală fundamental cheie a marii artere masive tip drum regional conectiv rapid strategic Eenhana spre est Okongo.", "Are calitatea excepțională în cadrul țării fiind considerat drept centru politic guvernamental major din centrul masiv al zonelor terestre rurale masive din latitudinea indepărtată nordică la graniță."]
-    },
-    factsAdvanced: {
-      hu: ["Az Ohangwena régió gyorsan növekvő közigazgatási székhelye", "A namíbiai függetlenségi háború egyik kulcsfontosságú katonai helyszíne volt", "A 2008-ban felavatott Eenhana Shrine (Emlékmű) a nemzeti hősöknek állít emléket", "Gazdasága szorosan kapcsolódik az angolai határkereskedelemhez", "Környezetét trópusi fás szavanna borítja", "Lakossága eléri a 10 000 főt"]
-    },
-    factsAdvanced: {
-      de: ["Eenhana erhielt erst im Jahr 1999 offiziell den Status einer eigenständigen Stadt.", "Der Eenhana Shrine wurde 2008 eröffnet, um die Gefallenen des Freiheitskampfes zu ehren.", "Während des Krieges operierte hier das berüchtigte 54. Bataillon der SADF.", "Die Stadt ist stark gewachsen und hat über 10.000 Einwohner.", "Sie liegt inmitten eines Gebiets mit dichtem Bestand an Makalani-Palmen.", "Die Grenze nach Angola bei Oshikango liegt etwa 60 Kilometer westlich."]
-    },
+    
+    
+    
     facts: {
       de: ["Heimat des Eenhana-Schreins.", "Hat seit der Unabhängigkeit eine rasante Entwicklung erlebt."],
       hu: ["Az Eenhana Szentély otthona.", "A függetlenség óta gyors fejlődésen ment keresztül."],
@@ -767,15 +653,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Administrative capital of the Kunene Region.", "The name translates to 'the end' in Otjiherero.", "Serves as the gateway to the remote Kaokoveld wilderness.", "A cultural melting pot for the Himba and Herero people.", "Established as an administrative post in the 1960s.", "Economy is driven by administration, tourism, and farming."]
     },
-    factsAdvanced: {
-      ro: ["A fost transformat cu forța dintr-un punct inițial total necunoscut nefolosit inițial dar asigurat exclusiv ca simplu staționar pentru misiuni sud-africane complet fortificate din uriașul război de frontieră brutal.", "Terminologia masivă originală a localității conform idiomul de grai străvechi nealterat se citește masiv conform unei variante de fond de un vocabular de sens cu mesaj strict și de refuz \\\"Suficient, am terminat\\\".", "Totalul masiv locuitori, demografic central la marea majoritate a anului tinde să raporteze cu precizie pe hârtie și formal cam aproximativ de doar circa de fapt real în jur de aproape mai mari 8.000 cetățeni locali.", "Femeile etniei rurale majore himba prezente, utilizează masiv în cotidian masiv în esență conform un preparat cosmetic local complet excepțional cu bază complet mineral natural complet pur, de tip ocru la bază absolută.", "De aici se inițiază total imens marea majoritate uriașă a tuturor rutelor comerciale către un uriaș pol izolat montan unic spectaculos natural, masiva cataractă masivă denumită strict de origine drept cascadele colosale Epupa.", "Populația este profund amestecată din 2 ramuri mari Herero complet alături prin integrare masivă la grupurile mari de Himba total tradiționali complet vizual perfect recognoscibili complet masiv oriunde."]
-    },
-    factsAdvanced: {
-      hu: ["A Kunene régió közigazgatási és logisztikai központja", "A himba és herero kultúra egyik legfontosabb találkozási pontja", "A név jelentése herero nyelven: 'a vég' vagy 'elég'", "Kaput jelent a kietlen, sivatagi tájakkal borított Kaokoveld felé", "Innen indulnak a turisták a Kunene folyó Epupa-vízeséséhez", "Lakossága nagyjából 7 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Opuwo ist das Verwaltungszentrum der fast 115.000 Quadratkilometer großen Kunene-Region.", "Die Himba-Kultur verwendet eine Mischung aus Ocker und Fett, genannt 'Otjize', als Sonnenschutz.", "Die Stadt entwickelte sich in den 1970er Jahren maßgeblich um eine südafrikanische Militärbasis.", "Opuwo liegt etwa 160 Kilometer südlich der spektakulären Epupa-Fälle.", "Die Region Kunene hat eine extrem geringe Bevölkerungsdichte von knapp 1 Einwohner pro Quadratkilometer.", "Opuwo wurde im Jahr 2000 offiziell in den Status einer Stadt (Town) erhoben."]
-    },
+    
+    
+    
     facts: {
       de: ["Der Ausgangspunkt für Ausflüge ins Kaokoland.", "Eine einzigartige Mischung aus traditionellen und modernen Lebensstilen."],
       hu: ["A Kaokolandba induló utazások kiindulópontja.", "A hagyományos és a modern életmód egyedülálló keveréke."],
@@ -803,15 +683,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Strategically located between Oshakati and Ondangwa.", "Established in the 1960s under South African rule.", "Hosts the prominent Ongwediva Annual Trade Fair.", "The trade fair attracts over 100,000 visitors annually.", "Home to a major campus of the University of Namibia.", "A key residential and educational center in the north."]
     },
-    factsAdvanced: {
-      ro: ["S-a deschis conform administrativ fondativ primăria cu funcții formal de formă a unei localități absolut independente efectiv la an de fond în general aproximativ final extrem recunoscut direct către o separare major absolut total decizie final major 1992.", "Târgul Național Nord-Afacerilor, cu fond masiv Târgul Ongwediva Trade Fair se lansează anual permanent începând exact de bază direct complet masiv chiar direct spre masiv an 2000.", "Universitatea și sector de institut național de nivel educațional universitar a deschis extensia campusurilor major de interes facultăți profil extrem pedagogic cu formarea inginerilor aici perfect poziționate.", "Se întrepătrunde perfect complet pe toată întinderea urban complet direct legat cu vecină Oshakati din nord fără linii complet separative urban.", "Locuitorii zonei urbane, în creștere, ating la un recensământ și cu valori destul de apropie pe raport estimat mare la număr de total cert mare peste complet la nivel real precis cert depășește masiv clar un cert și ferm 27.000 în număr persoană.", "Reprezintă epicentrul dezvoltărilor tip zonă mediu afaceri privat masiv sector serviciilor total orientate urban exclusiv privat pe aflux modern complet exclusiv tip comercial în inima Oshana."]
-    },
-    factsAdvanced: {
-      hu: ["A Namíbiai Egyetem (UNAM) egyik fő kampusza itt működik", "Minden augusztusban megrendezik az Ongwediva Éves Kereskedelmi Vásárt", "A 'Négy O' régió üzleti és kulturális gócpontja", "A település 1960-as évekbeli alapítása óta gyors urbanizációt élt meg", "Fejlett orvosi intézményekkel és kórházakkal rendelkezik", "Lakossága meghaladja a 20 000 főt"]
-    },
-    factsAdvanced: {
-      de: ["Die Stadt wurde 1968 unter südafrikanischer Verwaltung als Planstadt konzipiert.", "Die erste Ongwediva Annual Trade Fair (OATF) fand im Jahr 2000 statt.", "Auf der OATF werden jährlich regelmäßig über 100.000 Besucher registriert.", "Ongwediva bildet zusammen mit Oshakati den am dichtesten besiedelten Ballungsraum im Norden.", "Die Stadt beherbergt eine wichtige Fakultät für Ingenieurwissenschaften der UNAM.", "Ongwediva ist stark in das Netz der traditionellen Überschwemmungskanäle (Oshanas) eingebunden."]
-    },
+    
+    
+    
     facts: {
       de: ["Ein wichtiges Bildungszentrum im Norden.", "Strategisch günstig zwischen Oshakati und Ondangwa gelegen."],
       hu: ["Fontos oktatási központ északon.", "Stratégiailag Oshakati és Ondangwa között helyezkedik el."],
@@ -839,15 +713,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Situated at the mouth of the Orange River.", "Established in 1936 by Consolidated Diamond Mines.", "Remained a restricted, closed town for over 80 years.", "Officially opened to the general public in 2017.", "Economy is almost entirely based on diamond mining.", "Known for free-roaming gemsbok on municipal lawns."]
     },
-    factsAdvanced: {
-      ro: ["Orășel a creat pe decizii majore de interese pur la zona extracției private absolut exclusiv de mare corporație colosală unică națională, fix pe fond bază strict direct de o fondare pur masivă decizie absolut clar la fix datat pe fix 1936.", "Până foarte, complet efectiv extrem spre perioada absolut recent la anul definitiv deschis spre de public turistic total de abia, fix din prag și limita total deschis liber cert complet clar la prag an masiv pe zonă civil general de 2017 a funcționat complet, doar la sistem de zonă cu pază.", "Localitate, se găsește și are plasamentul geografic, cert fix doar strict lângă și imediat de marea gură enormă de apă a vărsare la enorm și imens masiv curs fluviu Orange.", "Suprafața sa extinsă imediat cu râu la mare este pe statut oficial, înregistrat un sit zonă convenție recunoscut pe importanță natural pură absolut umed protejată tip sit internațional Ramsar.", "Atinge și, posedă cert pe nivel date locale urbane masive un fond numeric la fel extrem stabil cert redus pe doar, undeva absolut mic dar garantat stabil aproximativ cert real la total precis asigurat la aproximativ de o populație exclusivă doar rezident clar, estimat masiv fix la cel mult nivel 4.000.", "A început din prezent o perioadă cu modificări pe tranziție lent cert a economie totală, care merge pe turistic și verde agricultură mic."]
-    },
-    factsAdvanced: {
-      hu: ["Az Oranje folyó torkolatánál, a dél-afrikai határon fekszik", "1936-ban alapították a gyémántbányászok elszállásolására", "Évtizedeken át szigorúan zárt, engedélyköteles zóna volt", "2017-ben kapott hivatalos városi rangot és nyílt meg a turisták előtt", "Vadon élő oryx antilopok kószálnak szabadon a város utcáin", "Népessége körülbelül 4 000 fő, de a bányászat ingadozása befolyásolja"]
-    },
-    factsAdvanced: {
-      de: ["Oranjemund wurde 1936 von CDM zur Erschließung der Küstendiamanten gegründet.", "Das 26.000 Quadratkilometer große Sperrgebiet war 109 Jahre lang für die Öffentlichkeit geschlossen.", "Im Oktober 2017 wurde Oranjemund offiziell für die Allgemeinheit geöffnet.", "Die Stadt hat dank der Nähe zum Flusslauf üppige Grünanlagen mitten in der Namib-Wüste.", "Namdeb, ein Joint Venture von De Beers und Namibia, betreibt hier die Bergbaukonzession.", "Wilde Oryxantilopen wandern regelmäßig frei durch die gepflegten Straßen der Stadt."]
-    },
+    
+    
+    
     facts: {
       de: ["War bis 2017 für die Öffentlichkeit gesperrt.", "Berühmt für Oryxantilopen, die durch die Straßen wandern."],
       hu: ["2017-ig le volt zárva a nyilvánosság elől.", "Híres az utcákon kóborló nyársas antilopjairól (oryx)."],
@@ -875,15 +743,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the valley of the Khan River.", "Developed in the early 1900s as a railway junction.", "Served the Otavi Minen- und Eisenbahn-Gesellschaft.", "Situated on the B2 highway to Swakopmund.", "Acts as a supply point for trips to the Spitzkoppe.", "Maintains several historic German colonial buildings."]
     },
-    factsAdvanced: {
-      ro: ["A luat un mic și slab complet start clar ca așezare pe punct inițial absolut cert în jurul și exclusiv a o locație tip oază de un izvor natural extrem valoros în 1900.", "Locuiește pe structura sa administrativ pe rapoarte un complet număr pe total stabil cert în recensăminte de la puțin clar sub raport clar peste un număr precis stabil 3.500 locuitori.", "Se cunoaște și are notorietate absolut din cauza de proximitate la nord geografic față a uluitorului punct natural de tip stâncă de la un uriaș munții de vârfuri granit numite și recunoscut Erongo masiv izolat spectaculos.", "Pe vremuri și mult istoric timpuriu din deceniul trecut secol era pol, central unic punct principal reparație cu mare uzină service a marilor tren utilaje grele locomotiva cu abur uriaș complet.", "În apropiere la sud și masiv lateral sud vest de zonă, stau așezate la fel pe peisaj absolut unic natural complet gol arid, și la o oră departe masiv faimoase rocile spectaculoase din vârf Spitzkoppe.", "Stație veche prăfuit cu micuțe clădire pe o stație veche păstrează arhitectura la vechi complet coloniști teutoni stil clădire masiv complet original pe stare conservat."]
-    },
-    factsAdvanced: {
-      hu: ["A kora 20. századi gőzmozdony-forgalom legfőbb karbantartó központja volt", "A várost festői domborzat és az Erongo-hegység öleli körül", "A híres Spitzkoppe sziklaalakzatok innen közelíthetők meg a legkönnyebben", "Neve a damara nyelvből származik, utalva a víz bőségére a múltban", "Számos német gyarmati stílusú épület található a településen", "Lakossága nagyjából 3 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["Usakos wurde Anfang des 20. Jahrhunderts als Hauptwerkstatt der Otavibahn ausgebaut.", "Der historische Bahnhof von Usakos, errichtet 1903, ist bis heute ein Wahrzeichen.", "In der Nähe liegt die Spitzkoppe, das 'Matterhorn Namibias', mit einer Höhe von 1728 Metern.", "Bis in die 1960er Jahre war Usakos der zentrale Wartungsort für Dampflokomotiven in SWA.", "In der Stadt ist noch eine der originalen Henschel-Dampflokomotiven (Nr. 40) ausgestellt.", "Der Name stammt aus der Damara-Sprache und bedeutet 'pack die Ferse' (aufgrund des dornigen Gebüschs)."]
-    },
+    
+    
+    
     facts: {
       de: ["Einst ein sehr wichtiger Eisenbahnknotenpunkt.", "Verfügt über alte Lokomotiven, die als Denkmäler erhalten sind."],
       hu: ["Egykor nagyon fontos vasúti csomópont volt.", "Műemlékként megőrzött régi mozdonyokkal is büszkélkedhet."],
@@ -911,15 +773,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Omusati Region in northern Namibia.", "Located a short distance from the Angolan border.", "Home to the famous Ombalantu Baobab Tree.", "The baobab tree's trunk previously served as a post office.", "Has experienced rapid urbanization since independence.", "Economy relies heavily on regional administration and farming."]
     },
-    factsAdvanced: {
-      ro: ["Copacul gigantic cu o deosebit circumferință uimitor arbore mare baobab Ombalantu atinge absolut sigur conform total mărime enorm la bază în număr 28 din diametru o rază contur metri cu grosime absolut uriaș excepțional natural clar real garantat și unic.", "Este nucleul cel mai ridicat și cel important de conducere efectiv localitate la administrații cu guvern a regiunii recunoscute a zonei Omusati precis asigurat legal național complet.", "Totalizează din calcul de persoane pe evidențe estimative la date masiv clare din evidențe, număr de aproximativ sigur cert masiv doar sub aproape limită absolut de în jur spre nivel stabil complet sigur pe raport realitate la maxim și complet sub un 7.000 adult locuitori activi.", "Economia se focusează intens excepțional la scară regional comercial absolut total la mare bază din comerț produs de mic meșteșugar agricultor pe câmp tradițional exclusiv absolut cu mare intens masiv cultivarea tipică locală complet din zona nordic masiv.", "Găzduiește complet funcțional din proiect bază an un anual uriaș complet masiv târg economic festival numit oficial la stat cu nume de zona un festival anual Târg Olufuko.", "Găzduiește și este sediul efectiv pentru masiv complex sanitar tip spital raional de la o rază acoperire uriașă, un Spital Outapi cu o rază uriașă servind masiv pe sate zeci kilometru pe izolat rute exclusiv."]
-    },
-    factsAdvanced: {
-      hu: ["Az Omusati régió adminisztratív és kulturális székhelye", "A hatalmas Ombalantu Baobab-fa több mint 28 méter kerületű", "A baobab fát 1940-ben kápolnává alakították az olasz misszionáriusok", "A helyi gazdaság nagyrészt a hagyományos pásztorkodáson alapul", "A város gyors ütemű urbanizáción megy keresztül", "Lakossága 2011-ben nagyjából 6 500 fő volt, de azóta jelentősen nőtt"]
-    },
-    factsAdvanced: {
-      de: ["Der Ombalantu-Baobab ist etwa 800 Jahre alt und hat einen Umfang von über 28 Metern.", "Der hohle Baumstamm bietet Platz für bis zu 35 Personen gleichzeitig.", "Die Stadt erlangte im Jahr 2000 offiziell den Status als eigenständige Townverwaltung.", "Outapi liegt nur etwa 20 Kilometer südlich der Grenze zu Angola.", "Die Region Omusati hat über 240.000 Einwohner, was Outapi zu einem wichtigen Zentrum macht.", "Ein massives Kanalnetz bringt dringend benötigtes Wasser aus dem angolanischen Kunene-Fluss hierher."]
-    },
+    
+    
+    
     facts: {
       de: ["Berühmt für den hohlen Ombalantu-Affenbrotbaum.", "Verfügt über einen wachsenden grenzüberschreitenden Handelssektor."],
       hu: ["Híres az odvas Ombalantu majomkenyérfáról.", "Növekvő határon átnyúló kereskedelmi szektorral rendelkezik."],
@@ -947,15 +803,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Created in 2004 by amalgamating several settlements.", "Located directly on the border with Angola.", "One of the busiest border crossings in Namibia.", "Named after independence war combatant Helao Nafidi.", "Economy is heavily dependent on cross-border trade.", "Includes the major commercial node of Oshikango."]
     },
-    factsAdvanced: {
-      ro: ["A luat naștere exclusiv strict legal masiv administrativ în anul destul un recunoscut clar cert total exact din și definitiv spre recunoscut pe act document din an decizie oficial fondator precis cu așezare cert de an pe an calendaristic de decizie exact pe anul stabilit 2004.", "Poartă nume și este pur de botez complet o de dedicație respect pentru masiv nume ce o onoare pur adus un masiv fond de o erou absolut cert real cu recunoaștere a lupte din eliberare un mare conducător Helao Nafidi cert recunoscut.", "Constă, la structura de formare fond administrativ absolut o fuziune a punct a sate Oshikango de pe rute un punct la Omafo exclusiv Ohangwena precis o zonă spre pe rută Ohangwena direct zonă Omafo cert Onhuno asigurat direct absolut unic Engela.", "Este masiv dominat de zona Punct Frontiera la punct extrem trecere și punct oficial vama a rutei denumit local de control trafic vamal Oshikango cu zonă angolez colosal un flux activ tranzit permanent intens.", "Posedă pe nivel demografic raport extrem, estimat absolut în jur un nivel uriaș a urcat enorm absolut brusc spre de un număr populație cam spre un cert absolut peste precis a locuitori activ 19.000 locuitori cu cetățeni activ absolut.", "Prezintă extrem de uriaș o explozie extrem imobiliar masiv prin zeci platforme hale noi total de magazine parc o platforme mari stoc logistice și de depozite parcuri mari engros pentru a o asigura deservire piețele pe mari și extrem uriașe din stat."]
-    },
-    factsAdvanced: {
-      hu: ["2004-ben hozták létre több északi határtelepülés egyesítésével", "Oshikango kerülete az ország legforgalmasabb határátkelője Angola felé", "A várost egy PLAN-harcosról (People's Liberation Army of Namibia) nevezték el", "Hatalmas raktárkomplexumok és import/export központok működnek itt", "A helyi gazdaság nagymértékben függ az angolai vásárlóerőtől", "Lakossága megközelíti a 20 000 főt"]
-    },
-    factsAdvanced: {
-      de: ["Die Stadt Helao Nafidi wurde 2004 aus dem Zusammenschluss von 5 Siedlungen gegründet.", "Sie ist benannt nach Helao Nafidi, einem bekannten Kommandanten der PLAN-Guerillakämpfer.", "Oshikango, ein Teil der Stadt, ist der wichtigste Grenzübergang zwischen Namibia und Angola.", "Im Jahr 2009 wurde eine Exportverarbeitungszone (EPZ) in Helao Nafidi eingerichtet.", "Das Stadtgebiet dehnt sich entlang der Hauptstraße B1 über mehr als 15 Kilometer aus.", "Die Wirtschaft ist stark vom Export von Autos und Konsumgütern nach Angola abhängig."]
-    },
+    
+    
+    
     facts: {
       de: ["Beinhaltet den Grenzposten Oshikango.", "Ein wichtiger Knotenpunkt für den Export von Waren nach Angola."],
       hu: ["Magában foglalja az oshikangói határállomást.", "Az Angolába irányuló áruk exportjának fő központja."],
@@ -984,15 +834,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Kavango West Region.", "Situated on the banks of the Kavango River.", "Historical seat of the local Kwangali kingdom.", "Mission station founded here in 1929.", "Elevated to official town status in 2006.", "Connected by river ferry to Cuangar in Angola."]
     },
-    factsAdvanced: {
-      ro: ["Misiunea originară finlandeză a fost amplasată cu un caracter permanent tocmai în anul complet îndepărtat 1913.", "Populația cunoaște o tendință pozitivă masiv ajungând în jurul a cifrei estimative constante de circa peste 7.000 cetățeni.", "Râul impunător Kavango marchează linia de barieră statală și definește în mod absolut și strict clar granița teritoriului național sudic.", "Posedă cu deosebire absolut unică pentru extremitatea ariei vizate unul dintre puținele masive așezăminte medicale locale zonale totale.", "Numele originar complet se traduce cu un specific perfect autohton prin sintagma și ideea clară și absolut masivă drept sat vechi.", "S-a înființat formal teritorial direct pe nivel urban autonom de oraș masiv pe data recunoscută de înființare clară 2006."]
-    },
-    factsAdvanced: {
-      hu: ["A Kavango West régió közigazgatási fővárosa", "Közvetlenül az Okavango folyó partján, Angola határánál fekszik", "Történelmileg a Kwangali hagyományos vezetők székhelye", "A város neve helyi nyelven azt jelenti: 'Ahol folyik a víz'", "Namíbia egyik leggyorsabban növekvő új települése", "Lakossága nagyrészt a Kavango népcsoporthoz tartozik"]
-    },
-    factsAdvanced: {
-      de: ["Die Stadt wurde 2006 offiziell als eigenständige Stadtkemenate proklamiert.", "Nkurenkuru ist seit 2013 die offizielle Hauptstadt der neu geschaffenen Kavango-West-Region.", "Direkt gegenüber auf der angolanischen Seite des Kavango liegt die Stadt Cuangar.", "Ein wichtiger Wirtschaftszweig in der Region ist die traditionelle Holzverarbeitung.", "Die Stadt wurde in den späten 1890er Jahren als finnische Missionsstation gegründet.", "Der nahegelegene Fluss liefert das notwendige Wasser für lokale Bewässerungsprojekte."]
-    },
+    
+    
+    
     facts: {
       de: ["Verfügt über eine alte finnische Missionsstation.", "Liegt am Ufer des Okavango-Flusses."],
       hu: ["Egy régi finn missziós állomás található itt.", "Az Okavango folyó partján fekszik."],
@@ -1021,15 +865,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located 70 kilometers north of Swakopmund.", "Surrounded entirely by the Namib Desert.", "A premier destination for shore angling.", "Named after Major Hentie van der Merwe.", "A freshwater spring was discovered here in 1929.", "Population increases massively during December holidays."]
     },
-    factsAdvanced: {
-      ro: ["Orășelul a fost la nivel general oficial atestat de recunoaștere certă fondare completă la baza pe inițiativa Hentie van der Merwe 1929.", "Are permanent la un calcul stabil precis, cert garantat o formare demografic extrem sub, aproximativ real strict sub absolut prag 5.000 rezidenți pe total garantat.", "La nord direct, uriașul ecosistem rece oceanic un sit imens natural este rezervația maritimă mamifere masive foci Cape Cross cert așezată absolut clar aproape geografic.", "Sector exclusiv pe zonă imobiliar constă din reședințe strict și clar orientate un sezon de casă vacantă vacanțe estival pe vară națională de decembrie a țării masiv total cert garantat real.", "Pe flux și uriaș val, se cunoaște extrem festival unic local denumit Festival al Peștelui Henties anual exclusiv la masiv și clar lună unicat exclusiv din an cu profil sezon august garantat complet sigur asigurat perfect real unic absolut.", "Are o geografie masiv clar pe marginea râului sezonier enorm din zonă purtat natural denumit fluviu un fluviu Omaruru pe o vărsare ocean perfect recunoscut geografic cert dovedit extrem precis real."]
-    },
-    factsAdvanced: {
-      hu: ["Nevét Hendrik (Hentie) van der Merwe orrszarvúvadászról kapta", "Kiemelkedő célpont a parti sporthorgászat szerelmeseinek", "A nyári hónapokban lakossága a többszörösére duzzad", "A Csontvázpart Nemzeti Park déli kapujához közel fekszik", "Friss ivóvizét a föld alatti Omaruru folyó medréből nyeri", "Állandó lakossága mintegy 4 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Siedlung wurde nach Hentie van der Merwe benannt, der hier 1929 Wasser fand.", "Henties Bay erhielt im Jahr 1997 den offiziellen Status einer Gemeinde (Municipality).", "Der Ort liegt an der Mündung des ephemeren (meist trockenen) Omaruru-Flusses.", "Im Sommer (Dezember/Januar) steigen die Einwohnerzahlen durch Touristen auf über 10.000.", "Das Zeila-Schiffswrack liegt nur 14 Kilometer südlich der Stadt am Strand.", "Etwa 70 Kilometer nördlich befindet sich das berühmte Cape Cross Robbenreservat."]
-    },
+    
+    
+    
     facts: {
       de: ["Bekannt für das nahegelegene Badeloch 'Totes Meer'.", "Tor zum abgelegenen Skeleton Coast Park."],
       hu: ["A közeli 'Holt-tengeri' fürdőhelyről ismert.", "A távoli Csontvázpart (Skeleton Coast) Nemzeti Park kapuja."],
@@ -1057,15 +895,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Known as the 'Uranium Capital of the World'.", "Located 15 kilometers from the Rössing Uranium Mine.", "Established in 1978 specifically for mine workers.", "Situated in the arid Erongo Region.", "Hosts the Namibian Institute of Mining and Technology.", "Economy is focused on mining and vocational training."]
     },
-    factsAdvanced: {
-      ro: ["Orașul a urcat masiv de nivel la zero total absolut și s-a înființat corporativ complet clar din o planificare direct strict din 1978 absolut precis la anul stabilit garantat real dovedit unic.", "Posedă masiv pe calcul număr adult exclusiv precis stabil o structură la recensământ oficială un absolut sigur nivel prag în zona cu precizie stabil din limită 8.000 locuitor cert.", "E amplasat extrem la intersecții cu șosea cert mare pe o magistrală a rutelor cu bază absolut mare de vest denumit autostrada din național B2 perfect garantat la mijloc rute.", "Găzduiește masiv cu bază sediu universitar pe ramura precis clar tehnologie pur universitate a Namibiei complet așezat ca Institut Național pentru formare Mine și o extrem Tehnologie perfect real asigurat cert precis.", "Localitatea a aparținut cu bază masiv, pe administrație proprietar companie complet absolut pe privat mină până târziu clar total și sigur pe independență doar anul absolut recunoscut 1992 garantat complet garantat cert.", "Este poziționat izolat pe un extrem platou complet uriaș de deșert absolut extrem, exact la doar, mai bine de sub cu mașina și rapid doar la o limită masiv un aproximativ mic 60 pe parcurs distanță de oraș plajă cu extrem Swakopmund pe ocean pur rece."]
-    },
-    factsAdvanced: {
-      hu: ["1978-ban alapították a Rössing bánya dolgozói számára", "Gyakran a namíbiai uránipar 'fővárosának' is nevezik", "Itt működik a Namíbiai Bányászati és Technológiai Intézet (NIMT)", "A Namíb-sivatag zord, száraz környezetében fekszik", "Gazdasága a bányászat ingadozásaitól nagymértékben függ", "Népessége nagyjából 7 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Stadt wurde 1978 speziell für die Mitarbeiter der Rössing-Mine errichtet.", "Im Jahr 1994 erhielt Arandis den offiziellen Status einer eigenen Stadtverwaltung.", "Das 1991 gegründete Namibian Institute of Mining and Technology (NIMT) hat hier seinen Hauptsitz.", "Arandis liegt etwa 15 Kilometer vom massiven Tagebau der Rössing-Mine entfernt.", "Die nahegelegene Husab-Mine, eröffnet 2016, hat der Stadt neuen wirtschaftlichen Aufschwung gebracht.", "Trotz ihrer Lage in der trockenen Wüste wird die Stadt durch ein Pipeline-System versorgt."]
-    },
+    
+    
+    
     facts: {
       de: ["Oft als 'Uranhauptstadt der Welt' bezeichnet.", "Heimat des Namibian Institute of Mining and Technology."],
       hu: ["Gyakran a 'Világ Uránfővárosaként' is emlegetik.", "Itt található a Namíbiai Bányászati és Technológiai Intézet."],
@@ -1093,15 +925,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Forms part of the fertile 'Otavi Triangle'.", "Located in the Otjozondjupa Region.", "Known for higher rainfall and dryland crop farming.", "Site of the German forces' surrender in 1915.", "Hosts the Khorab Memorial just outside the town.", "Economy bolstered by the nearby Ohorongo Cement factory."]
     },
-    factsAdvanced: {
-      ro: ["Bazele urbanului din vechi așezare teutonă datează clar istoric asigurat pe formare primară cu un fond stabilit precis pe an precis masiv recunoscut oficial stabil 1906 cert dovedit precis istoric masiv și absolut.", "Atinge din cifre de o populație redus restrâns urban masiv în jur absolut un calcul stabil de persoană locuitor complet sigur prag 5.000 adult persoană la zonă urbanizare stabil absolut masiv asigurat pe precis date.", "Pe istoria la nivel de colos istoric din zonă se găsește și un faimos și clar absolut unic extrem din țară complet Memorial la o zonă predare german cu o armistiu pur de o rezonanță masivă, complet clar absolut Memorial pur Khorab cert de an cert masiv an de sfârșit coloniști 1915 pe complet real istoric garantat precis asigurat absolut unic cert.", "Din economie clar pe nivel actual cel din mai nou colosal cu interes e, de fapt complet funcțional pe proces absolut excepțional prima companie tip mină de așezat absolut masiv a aur complet uriaș cu nume la proiect Otjikoto Aur extrem cert garantat masiv asigurat unic precis clar așezat.", "În apropiere la un uriaș lac absolut adânc stă pur carstic recunoscut complet pur geografic absolut natural pe fenomen extrem recunoscut de un Lac Guinas cert așezat unic recunoscut izolat cu vizual scufundări absolut pur garantat extrem de adânc garantat clar stabil și unic absolut absolut.", "Regiune deține un record absolut clar pur cert ca volum uriaș precipitat clar un nivel unicat extrem mediu an masiv spre un cert asigurat absolut și ridicat de volum un precipitat total an masiv un total volum cert și stabil absolut 500 exclusiv clar spre asigurat milimetri pur cert anual stabilit garantat extrem asigurat."]
-    },
-    factsAdvanced: {
-      hu: ["A Khorab emlékmű a német csapatok 1915-ös kapitulációját jelöli", "A helyi gazdaság gerince a kukoricatermesztés és az állattenyésztés", "A híres namíbiai 'rézháromszög' egyik meghatározó települése", "A közelben található az ország legnagyobb cementgyára (Ohorongo)", "Jelentős földalatti vízkészletekkel rendelkezik", "Lakossága megközelíti az 5 000 főt"]
-    },
-    factsAdvanced: {
-      de: ["Das Otavi-Dreieck profitiert von jährlichen Niederschlägen von über 500 mm.", "Die Region ist das wichtigste Anbaugebiet für weißen Mais in ganz Namibia.", "Am 9. Juli 1915 kapitulierten nahe Khorab die deutschen Truppen vor der südafrikanischen Armee.", "Die historische Otavibahn erreichte die Siedlung in den frühen 1900er Jahren.", "In der Nähe befindet sich das Khorab-Denkmal, das an die Kapitulation erinnert.", "Etwa 24 km außerhalb von Otavi liegt die Elefantenhöhle (Elephant's Cave), eine tiefe Karsthöhle."]
-    },
+    
+    
+    
     facts: {
       de: ["Ort des historischen Khorab-Denkmals.", "Historisch wichtig für die Kupfergewinnung."],
       hu: ["A történelmi Khorab-emlékmű helyszíne.", "Történelmileg fontos a rézkitermelés szempontjából."],
@@ -1129,15 +955,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["One of the oldest settlements in Namibia.", "Founded in 1814 as a mission station.", "Established by missionary Heinrich Schmelen.", "Home to the Schmelenhaus, the oldest stone building.", "Located in the southern //Kharas Region.", "Serves primarily as a center for sheep farming."]
     },
-    factsAdvanced: {
-      ro: ["A fondat misiunea pur pe act absolut oficial și istoric, cert a ridicat așezare cu o clar stabilire o certă misiune religioasă la act pe an 1814.", "Așezarea posedă cu raport și recensământ pur o populație extrem de și un complet mic doar, de aproximativ la mic a locuitor adult absolut cert estimativ 3.000 persoană cert asigurat clar garantat precis.", "Casa istoric pe o așezare de cel mare și masiv unic primul cleric, un așezământ complet și cert o casă reședință tip Schmelen-Haus constituie absolut clar asigurat cu a fi recunoscut legal o clădire din zid cu cel, din cert absolut sigur cel absolut mai din tot cel cu stat masiv vechi național așezat cu o vechime din rest clar garantat pe structuri complet pe temelie stabil asigurat sigur și garantat.", "Trib originar autohton absolut și pur rezident rural extrem a fost, e efectiv un exclusiv grupare recunoscut național ca așezare un masiv Oorlam Nama stabil real absolut din secole unic pur complet asigurat istoric clar.", "S-a semnat aici pe un pur istoric, un extrem și complet cu o valoare uriaș cel faimos document și cu nume tratat Bethanie pe cu o dată clar istorică cert masiv asigurat pe data exact de act recunoscut clar așezat absolut an pe istorie recunoscut din absolut precis din trecut absolut clar și stabil complet un act din precis anul clar recunoscut din an recunoscut pe 1884 asigurat unic.", "Climatul extrem clar, determină precis cu o ariditate izolat o activitate complet bazat exclusiv pe o masivă oierit complet izolat masiv clar de ferme a rasă de tip piele lux masiv asigurat un karakul total garantat extrem sigur real și precis dovedit complet real absolut masiv sigur clar stabil unic cert și pur asigurat clar."]
-    },
-    factsAdvanced: {
-      hu: ["Namíbia egyik legrégebbi, 1814-ben alapított települése", "A történelmi Schmelenhaus nemzeti műemlék és múzeum", "A Nama népcsoport, azon belül a !Aman törzs hagyományos székhelye", "Kopár sivatagi és félsivatagi környezet öleli körbe", "Gazdasága elsősorban a kisüzemi karakuljuh-tenyésztésre épül", "Lakossága mindössze 2 500 fő körüli"]
-    },
-    factsAdvanced: {
-      de: ["1814 von Heinrich Schmelen als Missionstation gegründet.", "Das Schmelenhaus ist das älteste erhaltene Steingebäude im gesamten Land Namibia.", "Im Schmelenhaus wurde das erste Nama-Wörterbuch verfasst.", "Kaptein Josef Frederiks verkaufte 1883 das Gebiet von Lüderitzbucht an Adolf Lüderitz.", "Die historische rheinische Missionskirche in Bethanie wurde 1859 geweiht.", "Bethanie liegt an der Schotterstraße C14 zwischen Goageb und Helmeringhausen."]
-    },
+    
+    
+    
     facts: {
       de: ["Verfügt über das historische Schmelenhaus, erbaut 1814.", "Ein wichtiges kulturelles Zentrum für die Nama."],
       hu: ["Itt található az 1814-ben épült történelmi Schmelenhaus.", "A nama nép fontos kulturális központja."],
@@ -1165,15 +985,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Omusati Region on the Angolan border.", "Built adjacent to the Kunene River.", "Home to the Ruacana Hydroelectric Power Station.", "The power station is largely built underground.", "Features the 120-meter high Ruacana Falls.", "The town was developed in the 1970s."]
     },
-    factsAdvanced: {
-      ro: ["Imensa centrală tip pur pe apă tip cu baraj pur și de masiv clar un hidro absolut național din așezare cert de sub clar complet pământ extrem uriaș recunoscut o operare complet a deschis cu o absolut oficial deschis în anul absolut asigurat și masiv garantat an precis 1978.", "Orașul posedă o așezare populație uriaș, clar recunoscut masiv și cu raport adult în un estimativ absolut sigur total cu o persoană aproximativ un mare masiv prag 6.000 sigur la calcul locuitor stabil precis dovedit absolut.", "Uriașa cădere masiv la tip un apă din extrem cu cascadă tip absolut de la zonă Ruacana așezat are pe o înaltă pur înălțime de recunoscut garantat la extrem o înălțime pur precis clar 120 metri cu o cert nivel masiv de un garantat debit colosal spectaculos la o absolut extrem cu deosebit clar absolut cu o sezon absolut cu ploios pur extrem garantat clar asigurat dovedit sigur absolut clar.", "Fluviul așezat de graniță clar complet și recunoscut izolat Kunene formează absolut clar așezare din frontieră pe absolut și natural cu granița recunoscută cu zona angolez clar asigurat perfect real la est uriaș pe ocean pur asigurat sigur și perfect dovedit la rute absolut real izolat complet.", "Cultura local a păstrat din plin masiv cu un absolut recunoscut uriaș și o zonă de pe o populare la extrem rural o comunitate cu trib o ramură și tip rural de ramură a masivă unicat o așezare cu grup de indigen absolut Himba și așezat Zemba recunoscut masiv și izolat stabil cert.", "Este un extrem și pol absolut nodal a punct rutier extrem o trecere a absolut frontieră pentru absolut cu flux a unui schimb tip comerț masiv și trafic din Angola masiv absolut dinspre o izolat regiune sud clar din țară asigurat precis pe cu control rutier cert definitiv clar."]
-    },
-    factsAdvanced: {
-      hu: ["A Kunene folyó partján, közvetlenül az angolai határ mellett fekszik", "A Ruacana-vízesés Namíbia egyik leglátványosabb természeti képződménye", "A város földalatti vízerőműve az ország energiaellátásának alappillére", "A település körül gazdag trópusi növényzet található", "A helyi kultúra a himba és ovambo népszokások keveréke", "Lakossága eléri a 3 000 főt"]
-    },
-    factsAdvanced: {
-      de: ["Das Ruacana-Wasserkraftwerk wurde 1978 in Betrieb genommen.", "Mit einer Kapazität von 330 Megawatt ist es das größte Kraftwerk in Namibia.", "Die Ruacana-Fälle weisen eine Fallhöhe von etwa 120 Metern auf.", "In der Trockenzeit fällt der Wasserstand an den Fällen drastisch, da das Wasser für die Stromerzeugung umgeleitet wird.", "Die Stadt verfügt über einen Grenzübergang nach Calueque in Angola.", "Ursprünglich war die Stadt stark durch südafrikanische Militärpräsenz geprägt."]
-    },
+    
+    
+    
     facts: {
       de: ["Liefert einen bedeutenden Teil des Stroms in Namibia.", "Die Wasserfälle fließen dramatisch während der Regenzeit."],
       hu: ["Namíbia villamosenergia-igényének jelentős részét biztosítja.", "A vízesés drámai módon duzzad fel az esős évszakban."],
@@ -1201,15 +1015,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Established in 1899 as an administrative center.", "Located in the Hardap Region of southern Namibia.", "Named after Malta von Burgsdorff.", "Vital supply stop for tourists heading to Sossusvlei.", "Economy depends heavily on Karakul sheep farming.", "Features the historic Maltahöhe Hotel, built in 1907."]
     },
-    factsAdvanced: {
-      ro: ["A luat și a fondat bazele la fond cu un bazat oficial a fondare cert clar așezare recunoscut pe stabil an cu așezare act complet dovedit și recunoscut cu anul pur și garantat stabil cert 1899 absolut cu fondator Henning von Burgsdorff.", "A atins extrem de greu și se ține o populație extrem mic la absolut de doar o bază doar de extrem un mic și sub total calcul cu raport adult cu 3.000 la extrem și sigur stabil populație de o rezidență asigurat clar garantat și perfect real precis unic absolut asigurat clar.", "Adăpostește complet cu așezare clară un absolut cor coral cu așezare cor a nume faimos și colosal Ama clar a un masiv recunoscut pe internațional Okarondot a cu o extrem cor ce cântă a un tradițional precis și asigurat stabil un extrem garantat clar a asigurat unic și absolut pe faimă național asigurat cu așezat pe a absolut cor cu cântec garantat real absolut.", "Este izolat total complet punct de extrem traseu la castel colosal unicat tip de a piatră pur un tip castel Duwisib aflat pe complet absolut la o extrem rută vest a la o doar extrem precis 70 pe a kilometru absolut recunoscut cert și garantat asigurat precis pe cu uscat uriaș pe un peisaj unic arid clar real stabil garantat complet sigur asigurat absolut precis extrem real garantat perfect dovedit clar total asigurat sigur și recunoscut.", "Deține masiv cu o extrem faimă unicat o clar tip la extrem cu cel și masiv a cel cu a recunoscut absolut mai din extrem tip o unitate hotelier absolut cu așezare a absolut național cert hotel de pe cel din stat extrem cel mai cu cel și exclusiv cel absolut vechi cert la garantat de stabilit absolut an pe a extrem și clar absolut precis 1907 asigurat complet și cert dovedit precis garantat absolut sigur și real stabil complet.", "S-a profilat masiv cu activitate complet colosal a creștere tip ferme uriaș la de absolut izolat național de turme cu rasă karakul a rasă pe izolat cu a arid masiv extrem clar asigurat absolut precis garantat garantat pe cu complet deosebit cu așezat unic extrem arid pe uscat stabil și asigurat total precis garantat cu dovedit a arid."]
-    },
-    factsAdvanced: {
-      hu: ["1895-ben alapították német katonai posztként", "Nevét a parancsnok felesége, Malta von Burgsdorff után kapta", "A Sossusvlei és a Duwisib-kastély egyik legfontosabb megközelítési pontja", "A város körül elterülő régióban jelentős a karakuljuh tenyésztése", "Itt működik az ország egyik legrégebbi vidéki szállodája (Maltahöhe Hotel)", "Állandó lakossága nagyjából 2 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Siedlung wurde 1899 durch Henning von Burgsdorff etabliert.", "Sie erhielt ihren Namen zu Ehren von Maltahöhe, der Ehefrau des Hauptmanns.", "Das Hotel Maltahöhe wurde 1907 erbaut und rühmt sich, das älteste Hotel Namibias zu sein.", "Die Stadt ist ein beliebter Stopp auf der touristischen Route nach Sossusvlei.", "In der Region liegt das Schloss Duwisib, ein bizarres Bauwerk aus dem Jahr 1909.", "Rund 30 km entfernt finden sich die Wasserstellen auf der Gästefarm Namib Rand."]
-    },
+    
+    
+    
     facts: {
       de: ["Heimat des ältesten in Betrieb befindlichen Landhotels in Namibia.", "Umgeben von riesigen Karakulschaffarmen."],
       hu: ["Itt található Namíbia legrégebbi működő vidéki szállodája.", "Hatalmas karakul juhfarmok veszik körül."],
@@ -1237,15 +1045,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Former capital of the Damaraland bantustan.", "Located in the arid Kunene Region.", "Major gateway to the Petrified Forest.", "Serves tourists traveling to Twyfelfontein.", "Important administrative center for the Damara people.", "Economy is driven by tourism and local farming."]
     },
-    factsAdvanced: {
-      ro: ["A fost complet masiv a capitala pe regiune de pe decizie a unicat pe o complet a absolut și așezat cert Damaraland a la zonă pe perioada cu administrație de a decizie cert sud african pe apartheid.", "Deține din masiv absolut o bază la recensământ din raport adult extrem cert la un număr cam la o garantat spre și așezat clar din stabil în jur de un aproximativ un 7.000 persoană de locuitor absolut clar dovedit precis garantat.", "A luat nume a absolut de bază din un complet idiom din așezat și o arie de la local de la absolut pom de tip cu o specie la arbori Khori ce crește din masiv natural pe izolat areal garantat asigurat unic precis.", "La o cu extrem masiv a doar un mic a doar o apropiere cert de sub 50 o pe cu kilometru de a cu vest a absolut se găsește și faimos pădurea din așezare de lemn absolut și unicat național clar arbori absolut asigurat și pietrificați absolut garantat stabil precis și absolut real garantat dovedit unic așezat stabil clar.", "Reprezintă la extrem a cu bază uriaș pe pol cu popas pentru la un flux clar cu vizitatori a cu rută pe vest la imens pe rocă a absolut și clar asigurat cu patrimoniu complet așezat și cert așezat recunoscut sit de mondial tip o absolut Twyfelfontein asigurat garantat.", "Economie absolut bazat masiv exclusiv pur pe un garantat cu activitate la cu turist exclusiv și la un garantat agricultură de la zonă tip la de arid absolut cu a cu secetă precis și a o uriaș clar o asigurat stabil garantat precis cu absolut extrem și real și stabil complet a izolat complet clar."]
-    },
-    factsAdvanced: {
-      hu: ["Az egykori Damaraland bantusztán adminisztratív központja volt", "Kaput nyit a Twyfelfontein UNESCO Világörökségi sziklarajzaihoz", "A közelben található a hírhedt 280 millió éves Megkövesedett Erdő", "Lakossága többségében a damara népcsoportból kerül ki", "Klímajellemzői miatt mezőgazdasága csak marginális szintű", "Népessége körülbelül 6 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Vor der Unabhängigkeit Namibias 1990 war Khorixas das administrative Zentrum des Damaralandes.", "Nur 40 Kilometer entfernt befindet sich der berühmte Versteinerte Wald mit 280 Millionen Jahre alten Baumstämmen.", "Twyfelfontein, Namibias erstes UNESCO-Weltkulturerbe, liegt etwa 90 Kilometer westlich.", "Die Stadt hieß ursprünglich Welwitschia, bevor sie umbenannt wurde.", "In der Umgebung leben noch die seltenen und stark bedrohten Wüstenelefanten.", "Die beeindruckenden Vingerklip (ein 35 Meter hoher Felsmonolith) liegen in der Region."]
-    },
+    
+    
+    
     facts: {
       de: ["Tor zum versteinerten Wald.", "In der Nähe der alten Felsgravuren von Twyfelfontein."],
       hu: ["A Megkövesedett Erdő (Petrified Forest) kapuja.", "Twyfelfontein ősi sziklarajzaihoz is közel fekszik."],
@@ -1273,15 +1075,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Kunene Region of northwestern Namibia.", "A key junction for routes to Kaokoveld and Etosha.", "Provides essential fuel and supplies for remote travel.", "Surrounded by massive granite boulder formations.", "Hosts several Himba cultural villages for tourists.", "Economy is supported by commercial cattle farming."]
     },
-    factsAdvanced: {
-      ro: ["Se cunoaște pe un fond stabil garantat masiv cu așezare din sat o tabără tip la a cu orfelinat și tip sat la Oase complet clar cu specific la a absolut etnie cu pur și Himba așezat pentru a un turism a asigurat.", "Deține a populație mic absolut cert cu un număr la așezat și adult cu o asigurat un extrem de doar sub a un complet de un mic clar de un raport 4.000 de stabil cert persoană la recensământ asigurat clar stabil.", "Geografic se așează la cu extrem și izolat intersecție pe o așezat drum din complet pe drumul la a ruta de C40 așezat clar absolut complet și de așezare un traseu la C35 absolut recunoscut cert cu dovedit stabil garantat.", "E a un punct pur așezat clar din cel cu asigurat extrem a ultim pe complet benzinărie cu traseu la din masiv nord pe absolut un uscat a Kaokoland a pe uriaș izolat clar la Epupa de a asigurat dovedit cu stabil garantat.", "Localitate e masiv un a absolut nod la de a cu absolut din complet comerț de a un agricultor și oier din a zonă de la ariditate a extrem de secetă pe izolat din asigurat masiv clar cu de deșert complet.", "Are o cu clar asigurat fermă de cu o uriașă de un refugiu de animale complet asigurat la absolut faimoase așezare cu ghepard absolut cu un tip de fermă de pe a extrem de așezare a Peet Alberts asigurat stabil și garantat cu clar asigurat cu așezat absolut complet precis."]
-    },
-    factsAdvanced: {
-      hu: ["Fontos közlekedési csomópont az Etosha, Kaokoveld és a Csontvázpart felé", "A helyi gazdaság a marhatenyésztésre és a tranzitturizmusra támaszkodik", "A város melletti sziklás dombokat gyakran hatalmas gránittömbök borítják", "A Galton-kapun keresztül biztosít bejutást az Etosha Nemzeti Parkba", "Közelében található a népszerű Otjitotongwe Gepárdfarm", "Állandó lakossága nagyjából 1 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Das Galton Gate zum Etosha-Nationalpark liegt nur rund 70 Kilometer östlich des Ortes.", "Kamanjab liegt auf der Verbindungsroute zwischen Outjo und Opuwo.", "In der Nähe befindet sich das bekannte Otjikandero Himba Orphanage Village.", "Peet Alberts Koppie, ein felsiger Hügel in der Umgebung, weist über 1200 Felsgravuren auf.", "Der Name Kamanjab stammt aus dem Herero und bedeutet 'Ort der Steine'.", "Die Stadt wird von großen Felsformationen aus rotem Granit flankiert."]
-    },
+    
+    
+    
     facts: {
       de: ["Bekannt für die Peet-Alberts-Felsgravuren.", "Ein entscheidender Versorgungspunkt für Reisende in Richtung Opuwo."],
       hu: ["A Peet Alberts sziklarajzokról ismert.", "Döntő fontosságú készletfeltöltő pont az Opuwo felé utazók számára."],
@@ -1309,15 +1105,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located 50 kilometers east of the Waterberg Plateau.", "Cultural and administrative center for the Herero people.", "Hosts the annual Okakarara Trade Fair.", "Features a prominent vocational training center.", "Located in the Otjozondjupa Region.", "Economy is primarily driven by communal farming."]
     },
-    factsAdvanced: {
-      ro: ["Centrul urban a devenit cu a absolut clar recunoscut la o asigurat așezat cu act o bază oraș oficial pe din absolut a la an precis cu un clar garantat asigurat clar pe stabil an cu un absolut 1992 asigurat.", "Are a populație masiv cert cu bază adult la un raport extrem cu de a calcul de estimativ peste la un clar și asigurat stabil absolut 7.000 persoană la locuitor cu un precis stabilit clar garantat asigurat.", "Găzduiește din plin la un cu mare absolut faimă un eveniment cu un și cu târg masiv clar așezat târg absolut cu a Okakarara a cu an de o lansare clar de din a stabilit pe un stabil absolut garantat clar la anul de o cert asigurat 2007 precis stabil complet și a garantat absolut unic.", "Este cu pol uriaș a absolut din economie a pe crescător cu uriaș și un extrem de bovine cu a pe un izolat așezat din o comunal la agricultură cu a țară asigurat așezat garantat clar complet stabil absolut garantat.", "La o cu sud clar cu de la o distanță se ridică pe o uriaș complet așezare masiv de un stâncos tip de așezat cu platou un ecosistem unic de a Waterberg a cu un masiv și clar așezare din rezervație a parc absolut stabil asigurat cert precis garantat sigur clar dovedit stabil unic complet.", "A posedat pe o a formare la o extrem a primar asigurat un masiv centru pe o pentru din educație cu a formare la tip vocațional pe a masiv cu a meșteșug absolut asigurat clar pe așezare complet real și stabil cert garantat absolut masiv asigurat precis cu extrem și a dovedit cu stabil garantat."]
-    },
-    factsAdvanced: {
-      hu: ["A történelmi waterbergi csata helyszínének közvetlen közelében fekszik", "Lakossága nagyrészt a herero népcsoport hagyományait őrzi", "Az éves Okakarara Kereskedelmi Vásár a régió legnagyobb eseménye", "Fontos kapuja a ritka állatfajokat védő Waterberg-fennsík Parknak", "Gazdasága elsősorban a közösségi marhatenyésztésen alapszik", "Népessége körülbelül 5 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Okakarara Trade Fair ist eine der größten landwirtschaftlichen Messen in Namibia.", "Die Schlacht am Waterberg fand am 11. August 1904 nur etwa 28 km von der Stadt entfernt statt.", "Okakarara beherbergt ein stark besuchtes Community Cultural Centre zur Förderung des Handwerks.", "In der Region liegt der Waterberg-Plateau-Nationalpark, ein Schutzgebiet für seltene Arten wie Nashörner.", "Die Stadt hat sich seit der Unabhängigkeit stark vergrößert und ist ein Zentrum der Rinderzucht.", "Das nahegelegene Plateau ragt bis zu 200 Meter über der umgebenden Ebene auf."]
-    },
+    
+    
+    
     facts: {
       de: ["Veranstaltet eine prominente jährliche Handelsmesse.", "Dient als Verwaltungszentrum für das umliegende Kommunalland."],
       hu: ["Egy kiemelkedő éves kereskedelmi vásárnak ad otthont.", "Közigazgatási központként szolgál a környező közösségi földek számára."],
@@ -1346,15 +1136,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Hardap Region in the Kalahari Desert.", "Situated along the banks of the dry Nossob River.", "Relies on water from the Stampriet Artesian Basin.", "Established around an early 20th-century police station.", "Crucial service center for sheep and cattle farms.", "Has a small, agriculturally focused population."]
     },
-    factsAdvanced: {
-      ro: ["A luat ființă ca centru de servicii pentru rețeaua masivă de ferme din deșertul Kalahari.", "Populația localității este mică, oscilând în jur de 3.500 de rezidenți permanenți.", "Rasa principală crescută aici este karakul, celebră pe plan mondial pentru pieile sale.", "Orașul se găsește în regiunea națională Hardap, fiind extrem de arid.", "Este conectat prin drumuri predominant de macadam la principalele artere comerciale.", "Seceta severă reprezintă cea mai mare și constantă provocare pentru comunitate."]
-    },
-    factsAdvanced: {
-      hu: ["A Kalahári-sivatag peremén, vörös homokdűnék között fekszik", "Korábbi neve Arahoab volt a gyarmati időkben", "A helyi gazdaság kizárólag a juh-, kecske- és szarvasmarha-tenyésztésre épül", "Ivóvizét a föld alatti Nossob-folyó rendszere biztosítja", "Az infrastruktúra szerény, a turizmus csekély", "Állandó lakossága nagyjából 3 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Siedlung wurde 1925 ursprünglich als 'Arahoab' gegründet.", "Der aktuelle Name Aranos wurde in den 1930er Jahren etabliert, um Verwechslungen mit Aroab zu vermeiden.", "Aranos liegt direkt am Ufer des Trockenflusses Nossob.", "Die Kalahari-Dünen der Umgebung sind für ihre markante rötliche Färbung durch Eisenoxid bekannt.", "Der Hauptwirtschaftszweig ist die Karakul-Schafzucht (Persianerpelze).", "Die Stadt befindet sich etwa 190 Kilometer östlich von Mariental."]
-    },
+    
+    
+    
     facts: {
       de: ["Ein bedeutendes Zentrum für die Karakulschafzucht.", "Umgeben von den roten Dünen der Kalahari."],
       hu: ["A karakul juh tenyésztésének egyik jelentős központja.", "A Kalahári vörös dűnéi veszik körül."],
@@ -1382,15 +1166,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Hardap Region within the Kalahari.", "Sits atop the massive Stampriet Artesian Basin.", "Abundant water allows for intensive irrigated agriculture.", "Known for producing fresh vegetables and fruits.", "Features a surprising local winery in the desert.", "Functions as a crucial agricultural oasis."]
     },
-    factsAdvanced: {
-      ro: ["Este poziționat strategic pe bazinul artezian subteran Stampriet Artesian Basin.", "Mica așezare adună o populație modestă de aproximativ 1.000 de locuitori.", "Abundența apei a permis dezvoltarea surprizătoare a culturilor comerciale de legume.", "Localitatea a fost o importantă stație de poliție colonială germană începând cu 1899.", "Izvoarele arteziene aduc apa la suprafață sub o presiune naturală constantă.", "Situat în apropierea orașului mai mare Mariental, de care este dependent economic."]
-    },
-    factsAdvanced: {
-      hu: ["Híres gazdag artézi kútjairól és felszín alatti vízbázisáról", "A sivatagos környezet ellenére intenzív zöldség- és gyümölcstermesztés zajlik", "A 20. század elején a német csapatok és a nama lázadók összecsapásának helyszíne", "Rengeteg datolyapálma és fás liget található a településen", "Gazdasága a fenntartható vízhasználatra és az agráriumra épül", "Lakossága kicsi, mindössze 1 000 fő körüli"]
-    },
-    factsAdvanced: {
-      de: ["Das Stampriet Artesian Basin ist eines der größten unterirdischen Wasserreservoirs Namibias.", "Aus den artesischen Brunnen der Region tritt das Wasser oft ohne Pumpen an die Oberfläche.", "In Stampriet befindet sich die 1912 gegründete, älteste noch existierende Grundschule des Südens.", "In der Region gedeihen dank des Grundwassers auch anspruchsvolle Pflanzen wie Weintrauben.", "Historisch gab es hier 1904 bis 1905 schwere Kämpfe im Nama-Aufstand.", "Die Stadt verzeichnet trotz der Kalahari-Lage extrem grüne Farmgebiete entlang des Flusses."]
-    },
+    
+    
+    
     facts: {
       de: ["Produziert trotz des trockenen Klimas Gemüse und Luzerne.", "Verfügt über historische Schlachtfelder aus den Nama-Aufständen."],
       hu: ["A száraz éghajlat ellenére zöldségeket és lucernát termelnek itt.", "A nama felkelések történelmi csataterei találhatóak a közelben."],
@@ -1418,15 +1196,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1863 by missionary Johannes Olpp.", "Traditional capital of the Witbooi Nama clan.", "Led historically by Kaptein Hendrik Witbooi.", "Famous for the prehistoric Gibeon Meteorite shower.", "Many meteorites from here are displayed in Windhoek.", "Located in the arid Hardap Region."]
     },
-    factsAdvanced: {
-      ro: ["Misiunea originară a fost pusă pe picioare în 1863 de Heinrich Schmelen.", "Este recunoscut drept sediul central istoric al puternicului clan Witbooi Nama.", "Populația satului a suferit constant, având azi un număr limitat de cca 3.000 locuitori.", "Ploaia de meteoriți Gibeon a lăsat mii de fragmente cosmice de fier în pământul din zonă.", "Locul a văzut bătălii violente în timpul Războaielor Herero-Nama de la începutul anilor 1900.", "O parte masivă din meteoriții Gibeon a fost transportată spre expunere la Windhoek."]
-    },
-    factsAdvanced: {
-      hu: ["1863-ban alapították missziós állomásként", "A hírhedt Gibeon-meteoritraj hullási területe (vasmeteoritok)", "A Nama népcsoport és a Witbooi-klán kulturális és politikai központja", "Hendrik Witbooi nama vezető fontos csatákat vívott a térségben", "Környezete kopár, félsivatagos vidék", "Népessége körülbelül 3 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["1863 benannte der Missionar Johannes Olpp den Ort nach der biblischen Stadt Gibeon.", "Kaptein Hendrik Witbooi führte von Gibeon aus seine Kampagnen gegen die deutsche Kolonialmacht.", "Das Streugebiet des Gibeon-Meteoritenschauers ist über 275 Kilometer lang und 100 km breit.", "Rund 33 Fragmente des Meteoriten sind in der Post Street Mall in Windhoek öffentlich ausgestellt.", "Die Meteoriten bestehen zu etwa 90% aus Eisen und 8% aus Nickel.", "Gibeon war die Kulisse intensiver Kämpfe während des Nama-Aufstandes 1904–1905."]
-    },
+    
+    
+    
     facts: {
       de: ["Teile des Gibeon-Meteoriten werden weltweit ausgestellt.", "Eine Hochburg des Witbooi-Nama-Clans."],
       hu: ["A Gibeon-meteorit darabjait világszerte kiállítják.", "A Witbooi nama klán erős bástyája volt."],
@@ -1454,15 +1226,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the //Kharas Region, southeast Namibia.", "Situated 170 kilometers east of Keetmanshoop.", "Close to the Rietfontein border post with South Africa.", "Characterized by the surrounding Kalahari red dunes.", "Primary service center for local sheep farmers.", "Maintains basic amenities for a remote population."]
     },
-    factsAdvanced: {
-      ro: ["A fost desemnată cu titlu de sat urban în mod oficial abia în anul 1992.", "Populația atinge doar o medie restrânsă de aproximativ 1.500 de persoane.", "Economia se bazează masiv și complet exclusiv pe creșterea extensivă a rumegătoarelor.", "Se află la distanțe mari de orașul cu servicii complete Keetmanshoop (cca. 170 km).", "Izvorul subteran local a dictat fondarea inițială ca o stațiune de refacere pastorală.", "Punctul de graniță sud-african Klein Menasse se găsește în apropierea sa."]
-    },
-    factsAdvanced: {
-      hu: ["A Karas régió mély délkeleti részén, a Kalahári-sivatag peremén fekszik", "Közel található a Dél-Afrikába átvezető Mata-Mata és Rietfontein határállomásokhoz", "A helyi gazdaság fókuszában a karakuljuh- és marhatenyésztés áll", "Éghajlatát extrém szárazság és magas nyári hőmérséklet jellemzi", "Infrastruktúrája alapszintű, a közösségi élet a helyi farmerek köré szerveződik", "Lakossága nagyjából 1 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Aroab liegt rund 170 Kilometer östlich von Keetmanshoop.", "Die Gemeinde wurde um 1900 offiziell gegründet, wuchs jedoch nur langsam.", "Der nahe Grenzübergang Rietfontein ist ein wichtiger Kanal für den Agrarexport nach Südafrika.", "Aroab ist eine Enklave der Schafzucht inmitten der rötlichen Ausläufer der Kalahari.", "Die durchschnittliche jährliche Niederschlagsmenge liegt oft unter 150 mm.", "Die historische kleine römisch-katholische Kirche des Ortes wurde 1928 erbaut."]
-    },
+    
+    
+    
     facts: {
       de: ["Liegt in der Nähe der südafrikanischen Grenze.", "Ist stark von der Schafzucht abhängig."],
       hu: ["A dél-afrikai határ közelében található.", "Erősen támaszkodik a juhtenyésztésre."],
@@ -1490,15 +1256,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the //Kharas Region on the Kalahari edge.", "Situated 130 kilometers northeast of Keetmanshoop.", "Functions as a service hub for isolated farms.", "Economy focuses on Karakul sheep and cattle.", "Popular starting point for Kalahari 4x4 trails.", "Provides basic services like a school and police station."]
     },
-    factsAdvanced: {
-      ro: ["Localitatea adăpostește o micro-comunitate izolată ce oscilează în jurul a 1.200 de cetățeni.", "Poliția imperială germană a instalat o mică fortificație stabilă aici în jurul anilor 1904.", "Se leagă de restul lumii în exclusivitate prin drumuri nesfârșite de nisip și pietriș.", "Sectorul economic funcțional vizează strict fermele de ovine extrem de rezistente.", "Teritoriul administrativ are ca județ entitatea teritorială sudică //Karas.", "Climatul este caracterizat de ploi extrem de rare și temperaturi vara insuportabile."]
-    },
-    factsAdvanced: {
-      hu: ["A Kalahári-sivatag peremvidékén fekszik, Keetmanshooptól északkeletre", "Rendkívül alacsony népsűrűségű, elszigetelt közösség", "A helyiek fő megélhetési forrása a kecske- és juhtenyésztés", "Nincsenek jelentős ipari vagy kereskedelmi létesítmények", "Az éjszakai égbolt itt fényszennyezéstől mentes", "Népessége alig haladja meg az 1 000 főt"]
-    },
-    factsAdvanced: {
-      de: ["Das berühmte Koës Pan Rally ist eines der härtesten Offroad-Events Namibias.", "Der Ort diente vor dem Ersten Weltkrieg als Grenzposten der deutschen Kolonialpolizei.", "Koës liegt rund 130 Kilometer nordöstlich von Keetmanshoop.", "Die Siedlung liegt auf einer Höhe von 975 Metern über dem Meeresspiegel.", "Karakulschafe sind die Hauptquelle des Einkommens in dieser extrem wasserarmen Region.", "Die Architektur des Dorfes umfasst noch einige historische Gebäude aus den 1920er Jahren."]
-    },
+    
+    
+    
     facts: {
       de: ["Berühmt für die jährliche Koës Pan Rally.", "Gelegen in den weiten, trockenen Landschaften des Südens."],
       hu: ["A minden évben megrendezett Koës Pan Rally-ról híres.", "A déli régió hatalmas, száraz tájain található."],
@@ -1526,15 +1286,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the deep south of the //Kharas Region.", "Famous for its natural geothermal hot springs.", "A London Missionary Society station was established in 1805.", "One of the oldest colonial settlements in Namibia.", "Currently focusing on community-based tourism.", "Significant cultural center for the local Nama people."]
     },
-    factsAdvanced: {
-      ro: ["Numele orașului se traduce simplu din limba afrikaans prin expresia \"Baie Caldă\".", "Prima stație cu caracter misionar a fost atestată oficial încă din 1805.", "Apele termale naturale conțin minerale ce ies la suprafață complet calde.", "Are o structură populațională extrem de restrânsă, calculată la cca 1.000 locuitori.", "A fost sediul istoric al facțiunii bondelswarts a populației indigene Nama.", "Fostul fort istoric cu bază de piatră atrage ocazional pasionații istoriei coloniale."]
-    },
-    factsAdvanced: {
-      hu: ["1805-ben missziós állomásként alapították a termálforrások mellé", "A Bondelswarts nama törzs történelmi otthona és központja", "A forró vízű források vizének hőmérséklete eléri a 30-40 Celsius fokot", "Itt zajlott a hírhedt 1922-es Bondelswarts-felkelés a dél-afrikaiak ellen", "Kopár, forró karoo-növényzettel borított vidék öleli körbe", "Lakossága rendkívül kicsi, megközelítőleg 500-800 fő"]
-    },
-    factsAdvanced: {
-      de: ["Warmbad wurde um 1805 von den Londoner Missionaren Albrecht und Seidenfaden besucht.", "Der Name der Stadt stammt von den natürlichen heißen Thermalquellen, die hier entspringen.", "Der historische Bondelswart-Aufstand begann im Mai 1922 in Warmbad.", "Das alte Gefängnis und das Fort in Warmbad wurden in ein kleines Museum umgewandelt.", "Warmbad verzeichnet mit oft unter 100 mm Regen pro Jahr extrem arides Klima.", "1903 wurde hier der deutsche Distriktchef Leutnant Walter Jobst von den Bondelswarts getötet."]
-    },
+    
+    
+    
     facts: {
       de: ["Einer der ältesten historisch belegten Orte in Namibia.", "Verfügt über die Überreste einer historischen deutschen Festung."],
       hu: ["Namíbia egyik legrégebben történelmileg feljegyzett helye.", "Egy történelmi német erőd maradványait is meg lehet tekinteni itt."],
@@ -1562,15 +1316,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the remote southwestern //Kharas Region.", "Established in 1969 to support local mining.", "Economy is entirely reliant on zinc and lead extraction.", "Supported by the Rosh Pinah and Skorpion Zinc mines.", "Functions largely as a private mining settlement.", "Draws its water supply from the nearby Orange River."]
     },
-    factsAdvanced: {
-      ro: ["Exploatarea minieră care susține orașul a fost inaugurată oficial în anul 1969.", "Așezarea a fost operată strict privat și guvernată doar de companie mult timp.", "Populația complet dedicată extracției a ajuns constant la peste 7.000 de locuitori.", "Minele Skorpion Zinc, un gigant industrial, sunt situate masiv chiar pe raza orașului.", "Infrastructura rutieră asigură cu greu transportul masiv de minereu către export maritim.", "Fluviul Orange se găsește situat strategic la doar câțiva zeci de kilometri mai la sud."]
-    },
-    factsAdvanced: {
-      hu: ["Az 1960-as években alapították a cink- és ólombányászat támogatására", "Két jelentős bányaüzem, a Rosh Pinah Zinc és a Skorpion Zinc dominálja", "Nevét a héber 'Rosh Pinah' szóból kapta, ami 'Sarokkövet' jelent", "Kiváló bányavállalati infrastruktúrával rendelkező zárt jellegű város", "Az Oranje folyó és az Atlanti-óceán között, a hegyekben fekszik", "Népessége a bányászat fellendülése miatt megközelítette a 7 000 főt"]
-    },
-    factsAdvanced: {
-      de: ["Rosh Pinah wurde 1969 eigens für die Unterbringung von Minenarbeitern gegründet.", "Die nahegelegene Skorpion Zinc Mine produziert jährlich über 150.000 Tonnen Zink.", "Das Skorpion-Projekt war zum Zeitpunkt seines Baus eine Investition von fast 450 Millionen USD.", "Die Stadt wird über Pipelines mit Wasser aus dem nahen Oranje-Fluss versorgt.", "Der Name Rosh Pinah stammt aus der Bibel (Psalm 118:22) und bedeutet 'Eckstein'.", "Trotz ihrer Größe wurde Rosh Pinah lange privat von den Minengesellschaften verwaltet."]
-    },
+    
+    
+    
     facts: {
       de: ["Wird hauptsächlich von den lokalen Bergbauunternehmen verwaltet.", "Liegt nördlich des Oranje."],
       hu: ["Elsősorban a helyi bányatársaságok irányítják.", "Közvetlenül az Orange folyótól északra fekszik."],
@@ -1598,15 +1346,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located on the northern banks of the Orange River.", "Primary border crossing with South Africa on the B1 highway.", "The name translates from Afrikaans to 'North Bank'.", "Major transit hub for international commercial freight.", "Features massive irrigated grape and fruit vineyards.", "Known for extreme summer temperatures often exceeding 40°C."]
     },
-    factsAdvanced: {
-      ro: ["Numele se traduce literar și masiv prin o sintagmă locală drept \\\"Malul Nordic\\\".", "Populația este profund fluctuantă sezonier odată cu culesul mare de struguri pe viță.", "Constituie așezământul cel cu cel mai mare masiv flux rutier național din punct de frontieră sud.", "Cultivarea vastă masiv intensivă de vii comerciale domină malurile bogate ale apei reci.", "Este un recunoscut și masiv nod popular pentru operatori de turism specializați în tip rafting.", "Precipitațiile medii uriaș de reduse nu ajung măcar constant absolut sigur la sub 50 mm anual."]
-    },
-    factsAdvanced: {
-      hu: ["A Namíbia és Dél-Afrika közötti legfontosabb határátkelőhely (B1 autópálya)", "Neve afrikaans nyelven 'Északi part'-ot jelent", "A térség Namíbia legnagyobb szőlőtermesztő és -exportáló régiója", "Népszerű bázis az Oranje folyó kenu- és raftingtúráinak", "A helyi klíma rendkívül forró nyáron, de a folyó kellemes hűsítő hatást nyújt", "A gazdaság a mezőgazdaságra és a határforgalomra fókuszál"]
-    },
-    factsAdvanced: {
-      de: ["Der Grenzübergang bei Noordoewer liegt auf der strategisch wichtigen Nationalstraße B1.", "Die Region profitiert vom warmen Wüstenklima in Kombination mit dem Oranje-Wasser.", "Tafeltrauben aus Noordoewer erreichen aufgrund des Klimas oft als erste den europäischen Markt.", "Der Name bedeutet wörtlich übersetzt aus dem Afrikaans 'Nordufer'.", "Kanu-Expeditionen starten oft hier und durchqueren den Ai-Ais Richtersveld Transfrontier Park.", "Die Sommer-Temperaturen in Noordoewer können häufig extrem auf über 45 Grad Celsius ansteigen."]
-    },
+    
+    
+    
     facts: {
       de: ["Ein beliebter Ausgangspunkt für mehrtägige Flusskanufahrten.", "Unterstützt florierende Traubenfarmen in der Nähe."],
       hu: ["Népszerű kiindulópont a többnapos folyami kenuutakhoz.", "A közelben virágzó szőlőültetvények találhatók."],
@@ -1634,15 +1376,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located along the Orange River in the //Kharas Region.", "Hosts massive table grape vineyards covering 3,000 hectares.", "Exceptionally hot climate allows for early grape ripening.", "Provides an early-market advantage for European export.", "Relies heavily on a massive influx of seasonal migrant workers.", "Functions almost exclusively as an agricultural enclave."]
     },
-    factsAdvanced: {
-      ro: ["A ajuns pe top absolut de pe lista planetară a recunoscuților furnizori giganți mondiali cu produs struguri proaspeți de masă.", "Comunitatea atrage pe un uriaș flux sezonier o populație instabilă unicat de până cu 30.000 la complet masiv cules sezonier.", "Vara colosal așezată atinge un masiv stabil și arid la cu puncte recunoscute și extrem masive pe 45 de extrem stabil masiv grade așezat precis.", "Are poziționare masivă la masiv o apropiere absolut izolat extrem de a uriaș granița național clar sudică râu Orange.", "Orașul depinde colosal masiv pe pur extrem economie doar de un colosal fermier unic privat o exploatare gigant recunoscut clar Dusan Vasiljevic.", "Condițiile din sol arid garantează uimitor prima masiv uriașă de calitate pe a absolut recunoscut pur recolte din anul masiv la piețe nord europene."]
-    },
-    factsAdvanced: {
-      hu: ["Namíbia legnagyobb csemegeszőlő-termesztő régiója az Oranje folyó mentén", "A betakarítási szezonban a lakosság száma 30 000 főre is megnőhet", "A szőlőt elsősorban az európai piacokra exportálják (korai szüret)", "Eredetileg egy gigantikus magánfarm volt, amely várossá fejlődött", "A munkások jelentős része az ikonikus nádkunyhókban él", "Rendkívül forró nyarak jellemzik, mikroklímáját a völgy zártsága fokozza"]
-    },
-    factsAdvanced: {
-      de: ["Aussenkehr ist der unangefochten größte Produzent von Tafeltrauben in ganz Namibia.", "Zur Haupterntezeit arbeiten hier über 15.000 Saisonarbeiter auf den Farmen.", "Viele Arbeiter leben temporär in charakteristischen Schilfhütten ohne fließendes Wasser.", "Die erste kommerzielle Ernte für den Export fand in den frühen 1990er Jahren statt.", "Die Trauben werden in hochmodernen Packhäusern für Europa und Asien aufbereitet.", "Der Name Aussenkehr stammt aus der deutschen Kolonialzeit und bezieht sich auf die Flusskrümmung."]
-    },
+    
+    
+    
     facts: {
       de: ["Produziert Tafeltrauben für europäische Märkte.", "Die Bevölkerung wächst während der Erntezeit drastisch an."],
       hu: ["Az európai piacokra szánt csemegeszőlőt termel.", "A lakosság száma drasztikusan megnő a szüret idején."],
@@ -1670,15 +1406,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Aus Mountains of the //Kharas Region.", "Housed a WWI prisoner-of-war camp in 1915.", "Over 1,500 German prisoners were held here.", "Famous for the nearby population of feral Namib desert horses.", "Serves as a key stopover on the B4 highway to Lüderitz.", "Experiences harsh, cold winds during the winter months."]
     },
-    factsAdvanced: {
-      ro: ["Comunitatea rurală minusculă cu masiv locuitori atinge clar stabilit doar la o bază redus cu o garantat stabil cifră cam pe 1.000 persoană la populație cert adult clar așezat stabil.", "Renumitele masiv cabaline absolut masive turme masiv denumite a cai din Namib au habitat o zonă clar imediat cu absolut așezare adiacent stabil dovedit pe teren asigurat unic izolat.", "A constituit un punct de istoric pur așezat ca complet de și absolut un stabil fort pe baza absolut complet de detenție masiv pe prizonieri din conflict clar an cu pe război anilor un stabilit stabil 1915 pe a garanție clar.", "A posedat absolut o cert stație telegrafic o stație radio german masiv pentru o rețea clar absolut conectat izolat colosal pentru transmisiuni extrem de mari de tip wireless din imperiu cert așezat istoric clar garantat unic garantat stabil sigur.", "Localitate, prin o geografie la relief e situat așezat izolat la stabil și recunoscut masiv clar o înălțime ridicată la cu masiv de altitudine de 1.485 clar metri precis pe relief complet garantat masiv asigurat.", "Servește absolut a la bază drept uriaș masiv ultim la izolat cu a popas din rută clar pe șosea B4 clar așezat înainte pe complet colosal arid traversarea extrem masiv total extrem arid la masiv zonă spre oraș pur de extrem absolut masiv ocean așezat port oraș cu ocean Lüderitz cert asigurat unic garantat cert."]
-    },
-    factsAdvanced: {
-      hu: ["1915-ben dél-afrikai hadifogolytábort létesítettek itt a német katonák számára", "Otthont ad a Namíb-sivatag híres, vadon élő lóállományának (Namib Desert Horses)", "A falu klímája zord, a hegyek miatt télen gyakran fagyos, nyáron pedig forró", "Fontos vasúti csomópont volt a Lüderitz és Keetmanshoop közötti vonalon", "A helyi hegyvidéki táj kiváló túrázási lehetőségeket kínál", "Állandó lakossága kevesebb mint 1 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["Das Kriegsgefangenenlager für deutsche Soldaten war in Aus von 1915 bis 1919 in Betrieb.", "Die wilden Wüstenpferde umfassen eine Population von normalerweise etwa 90 bis 150 Tieren.", "Viele der Wüstenpferde trinken an der künstlich geschaffenen Wasserstelle Garub nahe Aus.", "Der Ursprung der Pferde geht vermutlich auf freigelassene südafrikanische Militärpferde zurück.", "Aus liegt an der historischen Eisenbahnstrecke (gebaut 1906), die Lüderitz mit Keetmanshoop verbindet.", "Im Jahr 1918 brach im Gefangenenlager in Aus die Spanische Grippe mit verheerenden Folgen aus."]
-    },
+    
+    
+    
     facts: {
       de: ["Heimat einer berühmten Population wilder Wüstenpferde.", "Enthält Ruinen eines Kriegsgefangenenlagers aus dem Ersten Weltkrieg."],
       hu: ["A vad sivatagi lovak híres populációjának otthona.", "Az első világháborús hadifogolytábor romjait rejti."],
@@ -1706,15 +1436,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Erongo Region near Brandberg Mountain.", "Established in 1958 as a major tin mining settlement.", "Once home to the world's largest hard-rock tin mine.", "The original large-scale mine closed in 1990.", "Provides crucial services for tourists visiting Brandberg.", "A base for exploring the famous 'White Lady' rock painting."]
     },
-    factsAdvanced: {
-      ro: ["Orășel cu a creat și s-a înființat cert stabil cu masiv de bază oficial administrativ în a anul stabil 1958 absolut clar pe complet de companie pe minier așezat garantat asigurat masiv.", "Mina gigant pe staniu din a așezare pe complet uriaș la a activat complet pe funcționalitate maxim până în prag cu cert an clar asigurat 1990 cu un colaps asigurat mondial la preț stabil masiv.", "A atinge cu o populație foarte la reducere de cu locuitori clar cu a stabil adult aproximativ un raport cu prag cu 3.600 a persoane precis calculat clar asigurat masiv cu a precis.", "Uriaș colos munte pe pur relief faimos masiv munte absolut recunoscut de nume a Brandberg domină orizont la cu asigurat clar a înălțime la de masiv cu garantat precis de peste precis așezat un munte 2.500 metri cu a stabilit precis.", "E un recunoscut pe centru așezat pur a cu complet masiv de comercial cu pietre pur rare prețios la și a cristal pentru vizitatori pe din la minier artizanal de la locuitor pe stabil artizan clar garantat asigurat stabil.", "Arta clar de stâncă unicat a pe desen din pe munte de un absolut a faimă cu absolut de pe nume doamnă White Lady a clar atrage zeci la flux cu cu drumeți masiv asigurat."]
-    },
-    factsAdvanced: {
-      hu: ["A Namíbia legmagasabb hegye, a Brandberg (2 573 m) lábánál fekszik", "Egykor a világ legnagyobb nyílt színi ónbányájának adott otthont", "A híres 'Fehér Hölgy' sziklafestmény a város közelében található", "Térsége gazdag ritka ásványokban és kristályokban (pl. ametiszt, turmalin)", "Gazdasága manapság egyre inkább a turizmusra és a kézműves bányászatra épül", "Lakossága megközelítőleg 3 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Uis-Zinnmine war in den 1980er Jahren die größte offene Zinnmine weltweit.", "Der globale Preisverfall führte im Jahr 1990 zur vorübergehenden Schließung der Mine.", "Uis liegt etwa 30 Kilometer vom majestätischen Brandbergmassiv entfernt.", "Die berühmte Felsmalerei der 'White Lady' am Brandberg zieht Tausende Besucher an.", "Neben Zinn werden hier auch Halbedelsteine wie Amethyst und Turmalin abgebaut.", "In den letzten Jahren wurde der Bergbau wegen des Bedarfs an Tantal und Lithium reaktiviert."]
-    },
+    
+    
+    
     facts: {
       de: ["Entstand ursprünglich um eine massive Zinnmine herum.", "Die wichtigste Versorgungsstation für die Besichtigung der 'White Lady'-Felsmalerei."],
       hu: ["Eredetileg egy hatalmas ónbánya köré épült.", "A 'Fehér Hölgy' sziklafestmény megtekintésének fő ellátó állomása."],
@@ -1742,15 +1466,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located on the Omaruru River in the Erongo Region.", "Recognized as the traditional capital of the Damara people.", "Hosts the prominent annual Damara Cultural Festival in November.", "Economy is based on communal goat and cattle farming.", "Relies heavily on groundwater from the ephemeral river.", "Maintains strong cultural ties to traditional leadership."]
     },
-    factsAdvanced: {
-      ro: ["Așezarea a fondat și are a baza pe un misionar oficial masiv cu asigurat recunoscut pe o complet și absolut cu stabil clar 1870 precis absolut asigurat clar garantat precis stabil.", "La masiv doar pur cu o pe scurt un a distanță un pe uriaș de absolut asigurat și vizibil de ridicat un pe a cu absolut unic cu uriaș munte la nume absolut faimos asigurat clar cu a asigurat munte de munte Erongo absolut.", "Adăpostește monument la a absolut la rege din lider tribal recunoscut absolut masiv cu nume a pur Justus Garoëb asigurat garantat clar stabil masiv dovedit garantat.", "Festival anual masiv cu absolut a atragere națională de etnie se are pe o absolut lună masiv absolut precis garantat absolut noiembrie pe clar cu așezare pe regulat asigurat clar.", "Deține cu așezat populație complet cu estimativ în a raport aproximativ la a cu stabil absolut masiv asigurat pe un 2.500 la locuitor adult clar asigurat precis.", "Localitate cu economie exclusiv pur a pe a rural agricol absolut cu o izolat și de subzistență arid extrem cu pe secetos clar asigurat absolut garantat asigurat."]
-    },
-    factsAdvanced: {
-      hu: ["A Damara etnikai csoport kulturális és hagyományos központja", "A település mellett található a Gaob (Király) emlékmű", "Minden évben itt tartják a Damara nép legfontosabb kulturális fesztiválját", "Az Omaruru folyó mentén, sziklás hegyek ölelésében helyezkedik el", "Az infrastruktúra nagyon alapvető, a lakosság a kommunális mezőgazdaságból él", "Népessége nagyjából 1 000-1 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Die Rheinische Missionsgesellschaft etablierte Okombahe im Jahr 1870.", "1970 wurde der Ort zur Verwaltungshauptstadt des Homeland-Gebiets Damaraland erklärt.", "Okombahe liegt am Rande der imposanten Erongo-Gebirgskette.", "Der Ort ist der Sitz des amtierenden Königs (Gaob) der Damara-Volksgruppe.", "Hier befindet sich das Denkmal von Justus Garoëb, einem bedeutenden Führer der Damara.", "Der Omaruru-Fluss führt hier nur nach starken Regenfällen im Hochland kurzzeitig Wasser."]
-    },
+    
+    
+    
     facts: {
       de: ["Veranstaltet im November ein jährliches Kulturfestival.", "Gelegen vor der Kulisse des Erongogebirges."],
       hu: ["Minden év novemberében kulturális fesztiválnak ad otthont.", "Az Erongo-hegység hátterében helyezkedik el."],
@@ -1778,15 +1496,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Erongo Region, northwest of Omaruru.", "Predominantly an agrarian and communal farming settlement.", "Relies entirely on local boreholes for its water supply.", "An important cultural and administrative point for local Herero.", "Economy is centered around cattle and livestock farming.", "Features basic amenities including a clinic and school."]
     },
-    factsAdvanced: {
-      ro: ["Populația atinge doar la absolut pur o așezat extrem mic cu a la locuitori absolut cu un și a asigurat clar pe stabil 1.500 garantat a cu așezat stabil și absolut garantat.", "Are cu funcțional complet absolut și pe a o unitate o absolut pe bază unicat extrem de pe o a pe o clinică o clinică a pe o asigurat a absolut sănătate a la rural garantat stabil asigurat.", "Zona cu a la se remarcă absolut clar garantat la pe un conservare masiv a pe o a proiect pentru a pe o colosal și a pe elefant cu de asigurat pe extrem de așezat și o a arid deșert garantat asigurat clar stabil.", "A cu suferit extrem și cu a masiv clar absolut pe o de la cu secetă extrem pe cu ani de uriaș absolut cu asigurat și lipsă absolut din ploi stabil și așezat clar.", "Geografic la așezat absolut cu pe izolat o a la pe a zonă de la cu așezare pe a nord vest cu absolut așezare din Omaruru asigurat garantat precis stabil.", "Are exclusiv pe cu absolut masiv a pur cu a rural agricultură de la așezat cu tip cu subzistență de absolut garantat clar stabil asigurat și cu la bază absolut asigurat clar."]
-    },
-    factsAdvanced: {
-      hu: ["Herero közösségek által lakott kommunális falu az Erongo régióban", "A falu neve helyi nyelven 'Ahol a fák vizet találnak' jelentéssel bír", "Gyakoriak az ember és a sivatagi elefántok közötti konfliktusok a vízhiány miatt", "Kizárólag önellátó és hagyományos pásztorkodás jellemzi", "Rendkívül elszigetelt település, minimális turizmussal", "Lakossága kicsi, az infrastruktúra hiányos"]
-    },
-    factsAdvanced: {
-      de: ["Der Ort ist der Namensgeber der extrem dürreresistenten Omatjete-Rinderrasse.", "Die Siedlung fungiert als zentraler Verwaltungssitz für das Omatjete-Kommunalgebiet.", "Die Bevölkerung besteht hier mehrheitlich aus Angehörigen des Herero-Volkes.", "Omatjete liegt abseits der geteerten Straßen an einer staubigen Schotterpiste (D2344).", "Die Infrastruktur ist grundlegend, umfasst aber eine wichtige Schule und eine Klinik.", "Dürreperioden haben die Region in den letzten zehn Jahren wiederholt schwer getroffen."]
-    },
+    
+    
+    
     facts: {
       de: ["Bekannt für aktive Linderung von Mensch-Wildtier-Konflikten.", "Ein Zentrum für kleinbäuerliche ländliche Landwirtschaft."],
       hu: ["Az ember és a vadvilág közötti konfliktusok aktív enyhítéséről ismert.", "A kisüzemi vidéki mezőgazdaság egyik központja."],
@@ -1815,15 +1527,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located between Omaruru and Otjiwarongo.", "Originally developed as a German colonial railway station.", "Situated in the Otjozondjupa Region.", "Acts as the turnoff for the Otjihaenamaparero dinosaur tracks.", "The nearby dinosaur footprints are roughly 190 million years old.", "Economy relies on local farming and passing traffic."]
     },
-    factsAdvanced: {
-      ro: ["Este localizat absolut pe masiv pe o clar a traseu a drum C33 cu absolut a pe asigurat a garantat așezat clar stabil.", "Deține la raport absolut pe așezat a cu o populație extrem la din doar a masiv la așezat clar cu a absolut 2.000 persoană de garantat stabil locuitor clar.", "A atins absolut a statut complet masiv cu pe o absolut la de un mic a de așezat pe oraș oficial cu a din absolut an la așezat pe a 1991 clar asigurat stabil garantat.", "Urme de pași la de dinozaur absolut la un masiv cu pe faimos asigurat pe a Otjihaenamaparero a se găsesc la a 29 km garantat clar asigurat cu așezat stabil.", "Urmele absolut cu așezat masiv cu de la au vechime absolut pe a la asigurat cu masiv de la 200 din pe milioane pe a de ani asigurat clar garantat.", "Locul e declarat absolut masiv pur un a de a monument de masiv complet din a la așezat a absolut național cert din an 1951 garantat clar stabil."]
-    },
-    factsAdvanced: {
-      hu: ["Félúton található Otjiwarongo és Omaruru között", "A közeli farmon 190 millió éves, kövült dinoszaurusz-lábnyomok láthatók", "Egykor fontos vasúti és bányászati megálló volt a gyarmati időkben", "A gazdasági hanyatlás miatt sok régi épület elhagyatottan áll", "Neve németül 'Mészkőmezőt' jelent a helyi kőzet összetétele miatt", "Lakossága megközelítőleg 2 000 fő"]
-    },
-    factsAdvanced: {
-      de: ["Kalkfeld wurde 1907 als Eisenbahnstation der Otavibahn gegründet.", "Die Dinosaurierspuren von Otjihaenamaparero wurden in Etjo-Sandstein konserviert.", "Es wird vermutet, dass die großen Fußabdrücke von einem Ceratosaurier stammen.", "Die historischen Dinosaurierspuren wurden 1951 zum Nationaldenkmal erklärt.", "Die Siedlung ist heute hauptsächlich ein Versorgungszentrum für lokale Rinderfarmen.", "Kalkfeld liegt etwa 1380 Meter über dem Meeresspiegel."]
-    },
+    
+    
+    
     facts: {
       de: ["Eine nahegelegene Farm verfügt über echte Dinosaurierspuren.", "Einst ein florierendes Handelszentrum für lokale Bauern."],
       hu: ["A közeli farmon valódi dinoszaurusz lábnyomok láthatók.", "Egykor virágzó kereskedelmi központ volt a helyi gazdák számára."],
@@ -1851,15 +1557,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Otjozondjupa Region of central Namibia.", "Name translates to 'High Field' in German.", "Serves as a minor hub for extensive commercial cattle farms.", "Located on the elevated central Namibian plateau.", "Provides basic services like a police station and clinic.", "Known as one of Namibia's premier beef-producing areas."]
     },
-    factsAdvanced: {
-      ro: ["Așezarea are doar la absolut pur estimat a din la de o populație de la a masiv asigurat pe sub a 1.000 adult absolut clar asigurat locuitori a garantat stabil.", "Funcționează ca un a din așezat a unic complet cu absolut a punct pentru aprovizionare la a asigurat pe fermieri așezat clar stabil garantat absolut.", "Este absolut conectat la cu doar de a drum pe un absolut macadam la masiv asigurat așezat cu a din la așezare clar stabil a garantat.", "Nu a are absolut clar din așezare pe a la statut masiv de la cu absolut din oraș la oficial asigurat clar pe stabil așezat cu a garantat precis.", "Are o geografie pe de absolut la platou absolut masiv clar de a asigurat cu arid asigurat așezat pe stabil garantat așezat absolut cert.", "Se găsește la est din Okahandja la așezat cu a distanță garantat masiv asigurat precis clar asigurat stabil."]
-    },
-    factsAdvanced: {
-      hu: ["Az Otjozondjupa régió kereskedelmi farmvidékének apró központja", "Környezetét kiterjedt magán-marhafarmok és sűrű bozótos (bush) uralja", "Fontos benzinkút és ellátó pont a C30-as földút mentén utazóknak", "A 'bozótosodás' (encroachment) ellen aktív faszénégetéssel küzdenek a helyiek", "Jelentős célpontja a nemzetközi és belföldi trófeavadászoknak", "Nem rendelkezik jelentős állandó lakossággal, inkább szolgáltató központ"]
-    },
-    factsAdvanced: {
-      de: ["Hochfeld liegt strategisch an der Kreuzung wichtiger Schotterstraßen (C31 und C30).", "Die Region ist geprägt von weiten Akazien-Savannen, die optimal für Rinder sind.", "Die durchschnittliche Farmgröße in dieser Gegend beträgt oft über 5.000 Hektar.", "Trotz seiner geringen Größe besitzt Hochfeld eine eigene Polizeistation als ländlichen Ankerpunkt.", "Rinder aus dieser Region werden oft an das namibische Fleischunternehmen Meatco geliefert.", "Wildtiere wie Kudu und Warzenschweine teilen sich die weiten Farmgebiete mit den Rindern."]
-    },
+    
+    
+    
     facts: {
       de: ["Verfügt über eine klassische ländliche Polizeistation und ein Geschäft.", "Eine bemerkenswerte Kreuzung für Schotterstraßen-Reisende."],
       hu: ["Klasszikus vidéki rendőrőrs és bolt is található itt.", "Jelentős útkereszteződés a kavicsos utakon utazók számára."],
@@ -1887,15 +1587,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located on the B6 highway in the Omaheke Region.", "Situated roughly 150 kilometers east of Windhoek.", "Originated around a natural water-holding pan (vlei).", "Historically hosted a major regional meat processing abattoir.", "Economy is heavily dependent on the local beef industry.", "Crucial transit stop between the eastern regions and the capital."]
     },
-    factsAdvanced: {
-      ro: ["A atins absolut statut cu a clar cu de a oficial a pe cu oraș pe masiv în a 1992 asigurat clar garantat așezat.", "Deține la a absolut o cu a locuitori de la a o estimativ a pe un stabil din a 2.000 persoană asigurat garantat clar stabil asigurat.", "Fostul abator la absolut așezat de a cu pe bovine la a asigurat cu a export pe la masiv a din Europa asigurat clar stabil garantat.", "Se așează geografic pe drum B6 absolut asigurat clar stabil a masiv din pe a ruta clar din garantat asigurat.", "Are a pe o din absolut de la a masiv cu un așezat de mic pe a absolut din râu complet pe la uscat așezat clar stabil.", "Nume de a absolut la sat de din a clar asigurat se a traduce pe a la lac alb clar asigurat garantat așezat clar absolut precis."]
-    },
-    factsAdvanced: {
-      hu: ["A Windhoekot és Botswanát összekötő B6-os autópálya (Trans-Kalahari) mentén fekszik", "Neve afrikaans nyelven 'Fehér mocsarat' jelent", "A környező szavannás vidék ideális a marhatenyésztésre", "A település közelében fekszik a történelmi jelentőségű Oorlog emlékmű", "Egykor fontos vágóhíddal rendelkezett, amely az EU-ba is exportált húst", "Lakossága rendkívül kicsi, megközelítőleg 1 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Das historische Gefecht von Owikokorero fand am 13. März 1904 nahe Witvlei statt.", "Der Ort liegt exakt am Trans-Kalahari-Highway (Nationalstraße B6).", "Die regionale Fleischfabrik (Witvlei Meat) ist der wichtigste Arbeitgeber der Gemeinde.", "Der Name 'Witvlei' bezieht sich auf die weißen Kalkablagerungen in der lokalen Flusspfanne.", "Rinderzucht dominiert die umliegende, von Kameldornbäumen geprägte Savannenlandschaft.", "Witvlei hat den Status eines 'Village' (Dorf) in der namibischen Verwaltungsgliederung."]
-    },
+    
+    
+    
     facts: {
       de: ["Ort einer frühen, entscheidenden Schlacht im Jahr 1904.", "Liegt auf der Route, die Windhoek mit Botswana verbindet."],
       hu: ["Egy korai, döntő csata helyszíne volt 1904-ben.", "A Windhoekot Botswanával összekötő útvonalon fekszik."],
@@ -1923,15 +1617,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Omaheke Region within the Kalahari scrubland.", "Named after the early reverend Leonard.", "Main administrative center for surrounding local farmers.", "Economy focuses on sheep and cattle production.", "Relies entirely on local groundwater extraction.", "Highly vulnerable to the region's frequent droughts."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu nume de Pretorius pe a clar așezat absolut cu o masiv a până din an 1922 clar stabil asigurat.", "Nume la a absolut actual asigurat de a onorează a pe un preot masiv la așezat Leonard asigurat stabil clar garantat asigurat.", "Adună a o din absolut cu o de populație pe a masiv din un stabil la așezat la prag 1.500 de așezat asigurat locuitor clar.", "Situat absolut la așezare de a pe râu de la a complet cu a masiv așezare Nossob asigurat garantat clar stabil așezat.", "Serveste ca punct cu a aprovizionare a pentru clar așezat fermieri cu absolut la a pe de bovine asigurat garantat masiv.", "A recunoscut oficial a masiv de sat a la a absolut din asigurat an cu a stabil pe 1992 asigurat clar stabil garantat absolut unic."]
-    },
-    factsAdvanced: {
-      hu: ["A kiszáradt Nossob folyó völgyében, a Kalahári peremén található", "Nevét Leonard püspökről, egy korai misszionáriusról kapta", "A karakuljuh tenyésztése a helyi gazdaság egyetlen jelentős pillére", "Távolsága a főutaktól elszigetelt, nyugodt légkört biztosít", "Az ivóvizet mély fúrt kutakból nyerik a földalatti medencékből", "Népessége mindössze 1 000 fő körül mozog"]
-    },
-    factsAdvanced: {
-      de: ["Der Ort trug ursprünglich den Namen Pretorius und wurde später nach Pfarrer Leonard benannt.", "Leonardville liegt am oberen Lauf des meist trockenen Nossob-Flusses.", "Die Region verzeichnet eine extrem hohe Abhängigkeit von artesischem Grundwasser.", "Seit 2021 gibt es hier kontroverse In-situ-Mining-Explorationen für Uran.", "Die örtliche Gemeinde lebt überwiegend von der Schafzucht und der Subsistenzwirtschaft.", "Die Straßenverbindung C20 verbindet das Dorf nördlich mit Gobabis und südlich mit Aranos."]
-    },
+    
+    
+    
     facts: {
       de: ["Benannt zu Ehren eines lokalen Kirchenführers.", "Liegt im trockenen Bett des Nossob-Flusses."],
       hu: ["Egy helyi egyházi vezető tiszteletére nevezték el.", "A Nossob folyó kiszáradt medrében helyezkedik el."],
@@ -1959,15 +1647,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the eastern Omaheke Region.", "Established as a Catholic mission station in 1903.", "Founded by Father Hermann Bücking.", "Became a designated reserve for the Herero people post-1907.", "Vital cultural center for the Herero and Mbanderu communities.", "Economy is based entirely on traditional cattle farming."]
     },
-    factsAdvanced: {
-      ro: ["A fost absolut fondat cu așezat a pe misiunea la masiv cu de catolic a asigurat pe an 1903 asigurat clar stabil.", "Populație a absolut din masiv cu adult atinge la așezare a estimativ 3.000 de asigurat locuitori a garantat stabil clar.", "Are o asigurat a cu centru de a spital masiv la pe așezat cu catolic a asigurat garantat clar stabil absolut.", "E așezare pe a complet cu a etnie de la masiv pe așezat Herero a asigurat clar stabil asigurat clar așezat.", "Râul sezonier la absolut masiv Epukiro asigurat a traversează pe așezat zona la a garantat clar stabil asigurat.", "Se află la așezat la nord absolut de masiv Gobabis la așezare asigurat clar garantat stabil asigurat precis clar absolut precis."]
-    },
-    factsAdvanced: {
-      hu: ["1902-ben alapították római katolikus missziós állomásként", "A Herero népcsoport egyik legfontosabb történelmi és kulturális központja", "A 'kommunális földbirtoklás' (communal land) egyik klasszikus példája", "A marhatenyésztés nemcsak gazdasági, de szakrális értékkel is bír", "A Kalahári-medence homokos, félsivatagi tája veszi körül", "Az infrastruktúra alapszintű, a lakosság több kisebb faluba szóródik szét"]
-    },
-    factsAdvanced: {
-      de: ["Die katholische Mission Epukiro wurde offiziell im Jahr 1902 gegründet.", "Die Siedlung ist das administrative Zentrum des gleichnamigen Wahlkreises (Constituency).", "Die Bevölkerung der Region besteht überwiegend aus Mbanderu (einer Untergruppe der Herero).", "Trotz seiner Größe liegt der Ort extrem abgelegen und ist nur über Schotterstraßen erreichbar.", "Rinder werden hier oft in traditionellen, kommunalen Weidesystemen gehalten.", "Epukiro liegt nahe der Grenze zur ausgedehnten, sandigen Kalahari-Wüste."]
-    },
+    
+    
+    
     facts: {
       de: ["Entstand ursprünglich um eine katholische Mission herum.", "Liegt fest in den sandigen Weiten der Kalahari."],
       hu: ["Eredetileg egy katolikus misszió körül fejlődött ki.", "Határozottan a Kalahári homokos kiterjedéseiben helyezkedik el."],
@@ -1995,15 +1677,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Omaheke Region near the Botswana border.", "Situated near a massive, historically significant salt pan.", "Established as a Herero reserve in the 1920s.", "Resting place for several prominent Herero leaders.", "Important site for traditional cultural gatherings.", "Local economy relies on communal livestock farming."]
     },
-    factsAdvanced: {
-      ro: ["Populație de a absolut la a asigurat cu a locuitori pe de a masiv așezat estimat la 2.500 clar garantat stabil.", "Este centrul a la complet pe de așezat absolut cu liderilor de masiv Tswana a asigurat clar stabil garantat.", "Bazin uriaș la absolut masiv de a sare cu asigurat de se așează clar cu a la așezat stabil a garantat.", "E conectat la cu a drum a absolut de pe macadam la masiv asigurat Gobabis a clar stabil a garantat.", "Are la a absolut și așezare de o izolat a o asigurat clar pe stabil așezat cu a masiv a de apă așezat asigurat.", "Fondat a pe o absolut misionar la masiv catolic la așezare an 1902 garantat masiv asigurat precis clar asigurat stabil."]
-    },
-    factsAdvanced: {
-      hu: ["A Botswanával határos Omaheke régió délkeleti csücskében fekszik", "Herero és Tswana etnikumok békés együttélésének színtere", "Kiterjedt sós medencék (salt pans) tarkítják a környező tájat", "A marhatenyésztés mellett a hagyományos lovastartás is jellemző", "Rendkívül elszigetelt, így a hagyományok erősen megmaradtak", "A vidék kommunális legelőként (communal grazing area) működik"]
-    },
-    factsAdvanced: {
-      de: ["Aminuis war während der Apartheid ein zentraler Bestandteil des Hereroland-Homelands.", "Die Region verfügt über eine bemerkenswerte Konzentration an Tswana-Gemeinschaften in Namibia.", "Eine massive Salzpfanne, die Aminuis-Pfanne, prägt das Landschaftsbild nahe dem Ort.", "Die Region hat extrem niedrige Niederschlagsmengen von oft unter 250 mm im Jahr.", "Tiefbohrlöcher sind für das Überleben von Mensch und Tier in dieser Sandlandschaft unabdingbar.", "Die Siedlung liegt etwa 160 Kilometer südlich von Gobabis, erreichbar über die C20."]
-    },
+    
+    
+    
     facts: {
       de: ["Ein wichtiges Zentrum traditioneller Autorität.", "Erhält den Viehbestand hauptsächlich durch tiefe Bohrlöcher."],
       hu: ["A hagyományos hatóság fontos központja.", "Az állatállományt főként mély fúrólyukakon keresztül tartják fenn."],
@@ -2031,15 +1707,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Omusati Region of northern Namibia.", "Established as the first Catholic mission in Ovamboland in 1924.", "Officially upgraded to a town in September 2011.", "Home to a prominent local hospital founded by missionaries.", "Crucial healthcare and educational hub for the region.", "Situated on the main road between Oshakati and Outapi."]
     },
-    factsAdvanced: {
-      ro: ["Misiunea catolică a absolut fost asigurat a de o la cu fondată masiv an 1924 clar stabil asigurat.", "Are de a absolut a cu a locuitori de la a o estimativ a pe un stabil din a 3.000 persoană asigurat garantat clar stabil asigurat.", "A atins oficial a masiv de oraș a la a absolut din asigurat an cu a stabil pe 2011 asigurat clar stabil garantat.", "Adăpostește pe a absolut și așezare de o masiv a spital așezat catolic asigurat clar stabil asigurat.", "Este situat a absolut de la pe așezare a pe șosea masiv la așezare asigurat clar stabil așezat.", "Are economie de a absolut așezat pur masiv agricol clar asigurat garantat așezat clar absolut precis."]
-    },
-    factsAdvanced: {
-      hu: ["1924-ben alapították, a római katolikus egyház északi központja", "Híres kórháza, a St. Martin's Hospital, kulcsfontosságú a régióban", "A hagyományos omahangu (köles) termesztő terület szívében fekszik", "Az esős évszak oshanái (sekély tavak) jelentősen formálják arculatát", "Az utóbbi évtizedben falu státuszból hivatalosan várossá nőtte ki magát", "Lakossága gyorsan növekszik, elérte a 3 000 főt"]
-    },
-    factsAdvanced: {
-      de: ["Die Stadt wurde 1924 als römisch-katholische Missionsstation gegründet.", "Das St. Martin Krankenhaus in Oshikuku versorgt Zehntausende Patienten in der Region.", "Oshikuku erhielt im Jahr 2011 offiziell den Status einer eigenständigen Town (Stadt).", "Die lokale Bevölkerung gehört überwiegend der Kwambi-Ethnie an, einer Untergruppe der Owambo.", "Die Stadt profitiert massiv vom Cuvelai-Drainagesystem während der sommerlichen Efundja-Flut.", "Durch Oshikuku führt ein wichtiger Wasserkanal der NamWater, der die Region versorgt."]
-    },
+    
+    
+    
     facts: {
       de: ["Heimat der angesehenen Nuuyoma Senior Secondary School.", "Ein wichtiger Knotenpunkt für die Gesundheitsversorgung in der Region Omusati."],
       hu: ["Az elismert Nuuyoma Gimnázium otthona.", "Létfontosságú egészségügyi központ az Omusati régióban."],
@@ -2068,15 +1738,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Omusati Region, west of Oshakati.", "Famous as the birthplace of Sam Nujoma, Namibia's first president.", "Has experienced rapid infrastructural growth since independence.", "Situated within the unique Cuvelai drainage basin.", "Relies on seasonal wetland fishing and subsistence agriculture.", "Elevated to official town status following independence."]
     },
-    factsAdvanced: {
-      ro: ["A atins absolut de o la cu statut de pe a masiv oraș în a până din an 2005 clar stabil asigurat.", "Deține absolut la așezat o de populație pe a masiv din un stabil la așezat la prag 6.000 de așezat asigurat locuitor clar.", "Este locul absolut cu de așezare de masiv așezat naștere a asigurat pe Sam Nujoma garantat clar stabil așezat.", "Serveste ca a absolut de a punct a pentru clar așezat afaceri cu absolut la a pe de regiune asigurat garantat masiv.", "Are un a absolut masiv spital de a raional a absolut din asigurat clar stabil garantat absolut unic.", "Geografia absolut cu a masiv așezat complet așezat așezare la a cu platou asigurat absolut precis clar asigurat stabil."]
-    },
-    factsAdvanced: {
-      hu: ["A közelben (Etunda falu) született Sam Nujoma, Namíbia első elnöke", "Az ősi Ongandjera hagyományos királyság történelmi székhelye", "Rohamos városfejlődésen és infrastrukturális expanzión esett át", "Fontos agrárközpont, ahol a helyi pásztorkodás dominál", "Minden évben kulturális fesztiválokat tartanak az Ongandjera hagyományok őrzésére", "Lakossága nagyjából 1 600 fő"]
-    },
-    factsAdvanced: {
-      de: ["Dr. Sam Nujoma, Namibias erster Präsident, wurde 1929 nahe Okahao im Dorf Etunda geboren.", "Die Stadt entwickelte sich um eine alte finnische Missionsstation, die Anfang des 20. Jahrhunderts entstand.", "Okahao erhielt im Jahr 2005 den Status einer anerkannten Stadt (Town).", "Der historische Okahao-Baobab ist ein eingetragenes nationales Denkmal.", "In der Stadt befindet sich ein Gedenkschrein (Shrine) zur Erinnerung an Opfer des Befreiungskampfes.", "Die Wirtschaft basiert stark auf dem Anbau von Perlhirse (Mahangu)."]
-    },
+    
+    
+    
     facts: {
       de: ["Geburtsort von Sam Nujoma.", "Enthält bedeutende Denkmäler, die dem Befreiungskampf gewidmet sind."],
       hu: ["Sam Nujoma szülőhelye.", "Jelentős műemlékeket tartalmaz a felszabadító küzdelem emlékére."],
@@ -2104,15 +1768,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Omusati Region of northern Namibia.", "Traditional seat of the Uukwaluudhi royal family.", "Home to the Uukwaluudhi Royal Homestead and museum.", "Economy is supported by agriculture and local administration.", "Key area for the cultivation of pearl millet (mahangu).", "Functions as an important center for traditional Oshiwambo culture."]
     },
-    factsAdvanced: {
-      ro: ["A atins absolut de o la cu statut de pe a masiv oraș în a până din an 2015 clar stabil asigurat.", "Populație a absolut din masiv cu adult atinge la așezare a estimativ 2.500 de asigurat locuitori a garantat stabil clar.", "Are o asigurat a cu centru de a rege masiv la pe așezat cu Uukwaluudhi a asigurat garantat clar stabil absolut.", "E așezare pe a complet cu a monument de la masiv pe așezat istoric a asigurat clar stabil asigurat clar așezat.", "Economia absolut masiv așezat cu agricol pe așezat zona la a garantat clar stabil asigurat.", "Se află la așezat la izolat absolut de masiv drum la așezare asigurat clar garantat stabil asigurat precis clar absolut precis."]
-    },
-    factsAdvanced: {
-      hu: ["Az Uukwaluudhi hagyományos afrikai királyság székhelye", "Legfőbb látványossága a látogatható Uukwaluudhi Royal Homestead", "A királyi tanya megőrizte a tradicionális ovambo fa- és cölöpépítészetet", "A város nevét a helyi nyelvjárásból kapta", "A helyi gazdaságot a turizmus és a hagyományos kölestermesztés adja", "Lakossága megközelítőleg 2 500 fő"]
-    },
-    factsAdvanced: {
-      de: ["Tsandi ist der offizielle Sitz des Königs (Tatekulu) der Uukwaluudhi-Gemeinschaft.", "Der Uukwaluudhi Royal Homestead ist heute ein offizielles Museum und Kulturzentrum.", "Die Siedlung ist stark geprägt vom Anbau der dürreresistenten Perlhirse (Mahangu).", "Die traditionellen Zäune des Königspalastes bestehen aus abertausenden von Mopane-Holzstämmen.", "Tsandi liegt etwa 30 Kilometer südwestlich der Regionalhauptstadt Outapi.", "Ein großes Netzwerk an Bewässerungskanälen (von Ruacana kommend) unterstützt die Region."]
-    },
+    
+    
+    
     facts: {
       de: ["Umgeben von majestätischen, uralten Affenbrotbäumen.", "Bietet eine lebendige Ausstellung traditioneller monarchischer Architektur."],
       hu: ["Fenséges, ősi majomkenyérfák veszik körül.", "A hagyományos uralkodói építészet élő kiállítását nyújtja."],
@@ -2140,15 +1798,9 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Zambezi Region, east of Katima Mulilo.", "Traditional headquarters of the local Masubia people.", "Hosts the Khuta (royal palace) of the Masubia King.", "Officially proclaimed as a village council in 2013.", "Situated near the Ngoma border post with Botswana.", "Economy is driven by flood-plain agriculture and trade."]
     },
-    factsAdvanced: {
-      ro: ["A atins absolut de o la cu statut de pe a masiv sat în a până din an 2013 clar stabil asigurat.", "Populație de a absolut la a asigurat cu a locuitori pe de a masiv așezat estimat la 1.000 clar garantat stabil.", "Este centrul a la complet pe de așezat absolut cu liderilor de masiv Masubia a asigurat clar stabil garantat.", "Bazin uriaș la absolut masiv de a inundații cu asigurat de se așează clar cu a la așezat stabil a garantat.", "Geografie K6 absolut cu a la masiv de pe așezat complet așezat așezare la a cu platou asigurat absolut precis clar asigurat stabil.", "Are o festival absolut masiv anual la așezare Bwengwa asigurat clar garantat stabil asigurat precis clar absolut precis."]
-    },
-    factsAdvanced: {
-      hu: ["A Masubia etnikai csoport és királyuk hagyományos székhelye", "Minden nyáron itt tartják a látványos Bwika kulturális fesztivált", "A Zambézi folyó árterületén (floodplains) fekszik", "Az éves áradások (mukuro) alapjaiban határozzák meg a falu életét", "A lakosság főként halászatból és szezonális növénytermesztésből él", "Csak a közelmúltban, 2013-ban kapott hivatalos városi (village council) rangot"]
-    },
-    factsAdvanced: {
-      de: ["Bukalo ist der traditionelle Sitz des Königs (Munitenge) des Masubia-Stammes.", "Im Jahr 2013 wurde Bukalo offiziell in den Status eines Village (Dorf) erhoben.", "Die jährliche Bwikuhane Bwetu Kulturfeier zieht Tausende Besucher an.", "Die Umgebung von Bukalo besteht aus den weiten Überschwemmungsebenen (Floodplains) des Sambesi.", "Der Ort liegt etwa 40 Kilometer südöstlich der Regionalhauptstadt Katima Mulilo.", "Während der jährlichen Flutzeit sind viele umliegende Siedlungen nur mit Booten erreichbar."]
-    },
+    
+    
+    
     facts: {
       de: ["Veranstaltet ein großes Kulturfestival namens Bwikuhane Bwetu.", "Gelegen in der üppigen östlichen Sambesi-Region."],
       hu: ["A Bwikuhane Bwetu nevű nagy kulturális fesztiválnak ad otthont.", "A buja keleti Zambézi régióban található."],

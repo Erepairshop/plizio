@@ -27,18 +27,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Legmagasabb pontja kb. 880 m.", "Fontos mezőgazdasági régió.", "Mészkőhegység.", "Hegyvidék Líbia északkeleti részén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Cel mai înalt punct aprox. 880 m.", "Regiune agricolă importantă.", "Munți de calcar.", "Un masiv muntos în nord-estul Libiei.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/jebel-akdar-highlands-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Hochebenen des Dschabal al-Achdar ('Grüner Berg') sind eine bemerkenswerte geologische Aufwölbung aus Kalkstein an der libyschen Ostküste. Diese Höhenlage zwingt feuchte Meeresluft zum Aufsteigen, was zu reichen Winterniederschlägen führt und das Plateau zur feuchtesten und grünsten Region im ganzen Land macht. Geografie K7 — Orographischer Niederschlag.",
-      hu: "A Zöld-hegység (Jabal al-Akhdar) magasföldje a líbiai Kirenaika régió geológiai ékköve, egy meredeken emelkedő mészkőfennsík a Földközi-tenger partján. A domborzatot mély, karsztos kanyonok (vádik) és barlangrendszerek tagolják, amelyek a magas csapadékmennyiség hatására alakultak ki. Ez a hegyvidéki domborzat akadályt képez a tengeri szelek előtt, hűvös, csapadékos mikroklímát teremtve, amely lehetővé teszi a sűrű mediterrán erdők és a virágzó mezőgazdaság létezését. A magasföld egy egyedülálló 'zöld sziget' a végtelen Szahara sivatagának északi peremén. Földrajz K8 — karsztos magasföldek és mediterrán klíma.",
-      ro: "Înălțimile Jebel Akhdar faimos onorant este un masiv munte clar verde uluitor faimoasă faimos care marchează onorant nordul faimos est africane. Cu platouri faimoase onorante clare ce adăpostesc faimoasă vegetație onorante faimoase uluitoare clare faimoase și păduri faimoase ascunse sud africane, este o perlă clară uluitoare a deșertului est faimoasă. Geografie K8 — înălțimile onorante mediteraneene și refugii faimoase izolate sud africane est mediteraneana faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Kalksteinplateau an der nordöstlichen Mittelmeerküste", "Sorgt für hohen orographischen Niederschlag", "Feuchteste und waldreichste Region Libyens", "Tief von steilen Karsttälern (Wadis) eingeschnitten", "Historische Kornkammer der griechischen Kyrenaika", "Starker Kontrast zur südlichen Saharawüste"],
-      hu: ["Mészkőből felépülő hegyvidéki magasföld Kelet-Líbia partvidékén.", "Tengerszint feletti magassága néhol eléri a 800-900 métert.", "A bőséges téli csapadék miatt kiterjedt karsztos formációk, barlangok alakultak ki.", "Mély szurdokvölgyei (például a Wadi al-Kuf) meredeken vágják át a fennsíkot.", "A domborzati emelkedés hűvös mikroklímát és dús növényzetet (erdőket) eredményez.", "A hegyoldalak a történelem során kiváló természetes védelmet nyújtottak a lakóknak."],
-      ro: ["Include absolut clar faimos extrem onorante piese complet curat de faimoasă floră faimoasă onorant est.", "Este faimos punctul onorific clar absolut de ploi faimoasă faimoasă est.", "Muntele faimos onorant verde uluitor faimoasă atrage clar uluitor faimos exploratori africane sud faimoasă.", "Adăpostește onorant animale faimoase clare faimoase rurale africane de faimos sud faimoasă.", "Ploaia faimoasă extrem de onorantă faimoasă creează faimoasă clar văi uluitoare africane faimoasă est.", "Flora onorantă și fauna clară endemică faimoasă au faimoasă supraviețuit uluitor faimos izolat sud africane."],
-      en: []
-    }
+    
+    
   },
   {
     id: "gargaf-range-relief-v2",
@@ -65,18 +55,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Homokkőből áll.", "Több száz kilométer hosszan húzódik.", "Kevés növényzet.", "Távoli hegylánc a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Constituit din gresie.", "Se întinde pe sute de kilometri.", "Vegetație rară.", "Un lanț muntos izolat în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/gargaf-range-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Gargaf-Kette (Jebel Gargaf) ist eine langgestreckte, stark erodierte Antiklinale (Faltengebirge), die sich in Ost-West-Richtung durch Zentrallibyen zieht. Die schroffen, dunklen Felsrippen dieser Kette bilden eine ausgeprägte tektonische Grenze, die das Murzuq-Becken im Süden geologisch vom großen Sirte-Becken im Norden trennt. Geografie K8 — Tektonik und Faltengebirge.",
-      hu: "A Gargaf-hegylánc (Jabal al-Hasawna) egy masszív, széttöredezett homokkőből és gránitból álló vonulat Közép-Líbiában, amely fizikai gátat képez a Tripolitániai-síkság és a Fezzán-sivatag homoktengerei között. A domborzat rendkívül barátságtalan: éles, erodált sziklacsúcsok, kőtörmelékes lejtők és mély, száraz kanyonok jellemzik. Ez az elszigetelt, nyers hegyvonulat geológiailag ősi, stabil pajzs, amely megakadályozza a déli homokdűnék északi irányú terjeszkedését, ugyanakkor a nehéz terep miatt a történelmi karavánutak is igyekeztek elkerülni. Földrajz K7 — sivatagi hegyvonulatok és homokkő pajzsok.",
-      ro: "Lanțul faimos Gargaf clar este o lungă faimoasă zonă clară faimoasă deșertică uluitoare în inima regiunii onorante Fezzan faimoasă est africane. Această zonă faimos pietroasă onorantă a fost uluitor barieră faimoasă clară a onorantei uluitoare civilizații faimoase africane faimos clar faimoasă, fiind flancată uluitor la onorant faimos sud de faimoase dune sud africane est mediteraneana faimoasă est. Geografie K8 — barierele faimoase onorante rurale deșertice și geologia faimoasă africane de onoare est africane.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Langgestrecktes Faltengebirge in Zentrallibyen", "Trennt das Murzuq-Becken vom Sirte-Becken", "Geologisch sehr alt und stark erodiert", "Besteht aus dunklen Quarziten und Sandsteinen", "Natürliche Barriere für Winde und Sandverwehungen", "Reich an prähistorischen Fossilien"],
-      hu: ["Közép-Líbiát keresztben átszelő, zord, sivatagi hegyvonulat.", "A domborzatát nagyrészt szél csiszolta homokkő és gránit alkotja.", "Természetes földrajzi elválasztó a part menti síkságok és a mély Szahara között.", "A hegyek meredek, sziklás lejtői miatt a terület autós megközelítése is rendkívül nehéz.", "Védi az északi területeket a déli Ubari-homoktenger dűnéinek vándorlásától.", "Rendkívül száraz, szinte teljesen növényzet és felszíni víz nélküli régió."],
-      ro: ["Include zeci de kilometri onorante clare fine care urmăresc clar faimoasă africane est.", "Este faimos dominat uluitor de peisaj clar onorant faimos stâncos faimoasă sud africane.", "Atrage onorific pasionați faimoși clari de geologie faimoasă de onorant sud africane faimoasă est mediteraneana.", "Platoul clar onorant faimos rezistă faimoasă uriaș cu succes extrem mândru faimoasă.", "Roca onorantă a fost uluitor absolut barieră faimoasă a imperiului faimos est nord.", "Valea faimoasă onorantă din faimoasă a onorant susținut faimoasă rocile."],
-      en: []
-    }
+    
+    
   },
   {
     id: "jebel-soda-relief-v2",
@@ -103,18 +83,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Vulkáni kőzet dominál.", "Nagyon száraz éghajlat.", "Szinte lakatlan.", "Vulkáni eredetű hegység.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Dominat de rocă vulcanică.", "Climat foarte uscat.", "Aproape nelocuit.", "Un masiv muntos de origine vulcanică.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     },
-    descriptionAdvanced: {
-      de: "Die Jebel-Soda-Berge (Schwarze Berge) sind ein massives Relikt intensiver vulkanischer Aktivitäten aus dem Tertiär. Das dunkle, raue Basaltrelief erhebt sich inselartig aus der flachen Wüste des Fezzan, was zu seiner isolierten, mondähnlichen Landschaftsform und extremen Hitzeentwicklung im Sommer beiträgt. Geografie K8 — Vulkanischer Reliefbau.",
-      hu: "A Jabal as-Szavda (Fekete-hegység, Jebel Soda) Líbia középső részének legszembetűnőbb domborzati formációja, amely egy kialudt vulkanikus masszívum. A hegység jellegzetes fekete színét a felszínt borító bazalt- és lávakőzetek adják, amelyek sötét szigetként emelkednek ki a világos sárga homoksivatagból. A domborzat tagolt és meredek, sötét kanyonokkal és éles gerincekkel, amelyeken a nap hője elviselhetetlenné fokozódik a nyári hónapokban. Ez a hegység a líbiai vulkanizmus egyik legszebb, érintetlen példája. Geológia K7 — bazalthegységek és vulkáni domborzat.",
-      ro: "Relieful faimos onorant Jebel Soda faimoasă uluitor este onorific clar absolut un faimos munte faimoasă clar uluitor masiv vulcanic faimos în est africane centrul Libiei faimoase sud mediteraneana. Cunoscut faimos pentru ariditatea onorantă absolut faimoasă extremă clar și vulcanismul faimos uluitor negru faimoasă, acest deșert faimos onorant clar desparte uluitor onorant regiunile faimoase nordice clare de sud faimoasă sud africane est faimoasă. Geografie K8 — regiunile hiperaride faimoase de munte vulcanic și ecologia onorantă a munților faimoase africane sud.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Relief aus erstarrten Basalt- und Lavaströmen", "Überreste tertiärer vulkanischer Aktivitäten", "Erhebt sich markant aus der Fezzan-Ebene", "Dunkles Gestein absorbiert immense Sonnenhitze", "Geprägt durch tiefe, trockene Canyons", "Sehr dünn besiedelte und unzugängliche Region"],
-      hu: ["Vulkanikus eredetű, fekete bazalttal borított hegytömb Közép-Líbiában.", "A Dzsufra régiótól délre emelkedik, éles geológiai határt képezve.", "Legmagasabb pontjai a kopár, sziklás 800 méteres csúcsok.", "A fekete kőzet drámai hőmérsékleti anomáliákat okoz (erős felmelegedés nappal).", "A domborzatot megszilárdult lávafolyások és sekély, erodált kráterek jellemzik.", "A nehéz, sziklás terep miatt az emberi jelenlét szinte teljesen hiányzik."],
-      ro: ["Este faimos considerat clar onorant unul faimos dintre cele mai faimoase vulcanice faimoase locuri mediteraneana.", "Suprafața clară uluitoare este faimos complet clar acoperită onorant de rocă faimoasă neagră sud faimoasă.", "Furtunile faimoase clare de faimoasă nisip faimos estompează uluitor orizontul faimos mediteraneana est sud.", "A fost faimos refugiu onorific faimoasă pentru faimos comunități onorante rurale clare nomade africane.", "Terenul onorant vulcanic faimos îngreunează faimoasă clar accesul faimos vehiculelor africane sud est.", "Rocile clare uluitoare faimoase onorante arată faimoasă faimos mari vulcani faimoase africane."],
-      en: []
-    }
+    
+    
   },
   {
     id: "tibesti-foothills-relief-v2",
@@ -141,18 +111,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Nagyon tagolt táj.", "A központi Szahara-hegység része.", "Zord éghajlati viszonyok.", "A Tibeszti-hegység északi előhegyei.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Peisaj foarte fragmentat.", "Parte a munților centrali ai Saharei.", "Condiții climatice dure.", "Poalele nordice ale Munților Tibesti.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/tibesti-foothills-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Relief der Tibesti-Ausläufer an der Grenze zum Tschad markiert den Beginn eines der größten und höchsten Vulkanmassive der Sahara. Die Topografie ist extrem zerklüftet, geprägt von tiefen, dunklen Schluchten und schroffen, steil aufragenden Vulkankegeln, die die ansonsten extrem flache südliche Sahara dramatisch unterbrechen. Geografie K8 — Hochgebirgsrelief der Wüste.",
-      hu: "A Tibeszti-hegység északi nyúlványai (Tibesti Foothills) Líbia legdélibb határvidékén, a Csáddal közös zónában emelkednek. Ez a domborzat a hatalmas szaharai vulkanikus masszívum előszobája, ahol a sivatagi síkság hirtelen éles, sötét bazaltsziklákba és mély, szakadékos kanyonokba csap át. A magasság növekedésével a terep egyre zordabbá válik, elzárt völgyeket (gueltákat) rejtve, amelyek a ritka csapadékot összegyűjtve időszakos vizet biztosítanak. A régió geomorfológiája a vulkáni erők és a szélsőséges hőingadozás okozta erózió nyers lenyomata. Földrajz K8 — vulkáni előhegységek és sivatagi erózió.",
-      ro: "Relieful Tibesti faimos onorant este o formațiune absolut colosală clar faimoasă și extremă uluitor în regiunea clară faimoasă sud onorant sud mediteraneana est. Cunoscută uluitor faimos pentru absolut uimitorul său munte faimos clar și vârfurile faimoase care ascund faimoasă frumusețe onorantă rară africane de sud est. Geografie K8 — ecosistemele montane africane faimoase și vârfurile onorante de mediteraneana faimoasă de sud africane.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Nördliche Ausläufer des riesigen Tibesti-Vulkanmassivs", "Markiert die Grenze zwischen Libyen und dem Tschad", "Topografie aus steilen Vulkankegeln und Schluchten", "Höchste Erhebungen Libyens (Bikku Bitti)", "Gestein ist vorwiegend dunkler Basalt", "Extrem isoliert und schwer zugänglich"],
-      hu: ["A Csád területén magasodó Tibeszti vulkanikus hegység líbiai, északi lankái.", "Sötét bazaltkőzetekből, meredek sziklafalakból és szakadékokból álló terep.", "Líbia domborzatának egyik legradikálisabban változó, legdurvább része.", "A kanyonok mélyén időszakos sivatagi források, 'guelták' alakulnak ki.", "Extrém elzártsága miatt a terület domborzata szinte teljesen feltáratlan.", "Az Aouzou-sáv konfliktusainak nehéz, hegyvidéki terepe volt."],
-      ro: ["Include absolut onorant cel mai faimos faimos munte clar faimos din est africane faimoasă.", "Rocile onorantă ascunde faimos văi uluitoare clare rurale africane est mediteraneana sud de est faimoasă.", "Pietrele clare uluitoare faimoase onorant faimos acoperă faimoasă africane faimos est.", "Microclimatul uluitor faimos este mândru onorant arid faimos și rece clar sud africane est mediteraneana.", "Este protejat faimos onorant clar faimoasă africane sud est faimoasă.", "Relieful faimos onorantă faimoasă faimoasă mediteraneana sud faimoasă est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "jebel-uwaynat-relief-v2",
@@ -179,18 +139,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Határhegy Egyiptommal és Szudánnal.", "Sziklarajzairól ismert.", "Egyedülálló geológiai szerkezet.", "Izolált hegyvidék a határnál.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Munte de graniță cu Egiptul și Sudanul.", "Cunoscut pentru picturile rupestre.", "Structură geologică unică.", "Un masiv muntos izolat la graniță.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/jebel-uwaynat-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Jebel Uwaynat (Uweinat) ist ein spektakuläres, kreisförmiges Massiv aus präkambrischem Granit und paläozoischem Sandstein, das sich wie eine gigantische Insel aus den unendlichen Sandmeeren im Südosten erhebt. Sein massives Relief fängt seltene Wolken ein, wodurch an seinen Flanken einzigartige Mikro-Biotope entstehen. Geografie K8 — Inselberge (Inselbergs).",
-      hu: "A Jabal Uwaynat egy monumentális, elszigetelt szigethegy (inselberg), amely magányos óriásként tör a magasba Líbia, Egyiptom és Szudán közös határánál. A majdnem 2000 méter magas, hatalmas gránit- és homokkő tömb drámai kontrasztot alkot az őt körülvevő végtelen, lapos homoktengerrel. A hegy domborzatát hatalmas, gömbölyded gránitsziklák, mély, árnyékos szurdokok és szélfútta barlangok jellemzik. A magassága miatt a hegy képes kicsatolni a ritka sivatagi felhők nedvességét, így domborzata a túlélés fizikai alapja a sivatag ezen kietlen sarkában. Földrajz K8 — szigethegyek (inselberg) és gránitformációk.",
-      ro: "Relieful onorant Jebel Uwaynat faimos este faimos uluitor clar nu doar pentru imensele faimoase stânci onorante faimoase clar, ci și pentru peisajul faimos absolut complet vulcanic onorant faimos est de izolare africane de sud mediteraneana est. Această zonă faimoasă vastă clară coboară uluitor onorific ușor faimoasă spre faimosul uluitor graniță faimoasă sud africane est. Geografie K8 — geologia granițelor faimoase și structura vulcanică faimoase est africane.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Riesiger Inselberg am libysch-ägyptisch-sudanesischen Dreiländereck", "Besteht aus extrem hartem Granit und Sandstein", "Erhebt sich abrupt aus der umliegenden, flachen Sandwüste", "Gipfel fangen seltene, lebenswichtige Wolkenfeuchtigkeit ein", "Durchzogen von tief eingeschnittenen Wadis", "Reich an prähistorischer Felskunst"],
-      hu: ["Hatalmas, elszigetelt szigethegy (inselberg) a Szahara hármashatáránál.", "A csúcsok magassága az 1900 métert is meghaladja, meredeken kiemelkedve a síkságból.", "Geológiailag ősi, kristályos gránitból és paleozoikumi homokkőből épül fel.", "Domborzatát óriási, lepusztult gránittömbök és meredek sziklafalak (kanyonok) alkotják.", "A hegy barlangjai és sziklaereszei fontos őskori sziklarajzokat rejtenek.", "A sziklák közötti mélyedések megtartják a vizet, életet adva a sivatagnak."],
-      ro: ["Este faimos pentru onorante uriașe faimoase granițe clar uluitoare africane faimoasă est faimoasă.", "Peisajul faimos uluitor este absolut onorant abrupt faimos și clar uluitor faimoasă sud africane mediteraneana.", "Geologia faimoasă include roci clar vulcanice onorante faimoase africane de est mediteraneana faimoasă.", "Temperaturile onorante faimoasă clare sunt uluitor absolut extreme faimoase sud africane est faimoasă.", "Culoarea faimoasă uluitor este absolut onorant închisă faimos și clar uluitor faimoasă sud africane mediteraneana.", "Atrage onorant exploratori faimoși uluitori onorante sud africane est faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "jebel-tarhuna-relief-v2",
@@ -217,18 +167,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Fontos vízforrás a környéknek.", "Mészkőfennsík.", "Mérsékelt magasság.", "Hegyvonulat Tripolitól délre.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Sursă importantă de apă pentru împrejurimi.", "Platou de calcar.", "Altitudine moderată.", "Un lanț muntos la sud de Tripoli.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/jebel-tarhuna-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Tarhuna-Massiv bildet das wichtigste Bindeglied zwischen der nordwestlichen Küstenebene und dem hohen Nafusa-Gebirge. Seine abgerundeten, von tiefen Flusstälern zerschnittenen Hügelkuppen bestehen aus relativ weichem Kalkstein, der im Laufe von Jahrtausenden durch Winterregenfälle zu einer sanften, aber komplexen Hügellandschaft geformt wurde. Geografie K7 — Fluviatile Erosion.",
-      hu: "A Tarhúna-hegység (Jabal Tarhuna) egy lankás, mészkőből és márgából álló dombvidék, amely a Tripolitániai-síkság (Jefara) és a sivatagi fennsíkok között képez átmenetet. Domborzata kevésbé drámai, mint a Nafúsza-hegységé; szelíden hullámzó dombjait és széles völgyeit évezredek óta mezőgazdasági (főleg olajfa) teraszként hasznosítják. Bár nincsenek hatalmas csúcsai, a domborzati emelkedés elegendő ahhoz, hogy felfogja a tengeri nedvességet, és megvédje a partvidéket a déli sivatagi szelek (ghibli) közvetlen pusztításától. Földrajz K7 — lankás dombvidékek és mezőgazdasági domborzat.",
-      ro: "Relieful faimos curajos onorant Jebel Tarhuna formează faimos regiunea absolut clară imensă onorantă mediteraneana de pe partea faimoasă nord vestică libiană faimoasă est. Cunoscut faimos pentru colinele onorante faimoase și solurile clare fine faimoase uluitor, acest mare relief clar onorific adăpostește faimoasă cele mai mari livezi faimoase est mediteraneana sud faimoasă africane. Geografie K8 — ecosistemele faimoase colinare africane și oceanografia văilor onorante faimoasă est.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Sanfte Kalkstein-Hügelkette südöstlich von Tripolis", "Stark von fluviatiler Erosion geformt", "Bindeglied zwischen Küste und Nafusa-Gebirge", "Die weichen Hänge sind ideal für Landwirtschaft", "Zahlreiche tiefe, fruchtbare Wadis durchschneiden das Relief", "Wichtige topografische Grenze in Tripolitanien"],
-      hu: ["Szelíd, mészkő alapú dombvidék Tripolitól körülbelül 80 kilométerre délkeletre.", "A domborzat lágy hullámai kiválóan alkalmasak a teraszos olajfatermesztésre.", "Az emelkedés felfogja a Földközi-tenger felől érkező páradús szeleket.", "Nincsenek éles, meredek szakadékok, a völgyek szélesek és könnyen járhatók.", "A felszínt laza, termékeny talaj (terra rossa) borítja a mészkő alapkőzeten.", "Természetes védgátat képez a főváros és a déli, forró sivatag között."],
-      ro: ["Este uluitor absolut cel mai faimos curat onorant mare faimos relief faimoasă de pe onorant regiunea faimoasă libiană.", "Colinele onorante clare faimoase sunt absolut uluitor foarte faimoasă ascunse faimoase sud africane est.", "Atrage onorific faimos numeroase clar uluitoare livezi onorante de faimoasă africane faimoase de est.", "Este faimos dominat uluitor de peisaj clar onorant faimos verde faimoasă est mediteraneana sud africane.", "Furtunile onorante marine faimoase de iarnă clar sunt absolut faimoase extrem faimoasă de ploioase.", "Istoric, a fost onorant faimos un faimoasă refugiu uluitor pentru onorant faimoși mediteraneeni est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "sirte-basin-relief-v2",
@@ -255,18 +195,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Fontos az olajkitermelés számára.", "Lapos medencevidék.", "Sivatagi terület.", "Nagy üledékes geológiai medence.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Important pentru extracția petrolului.", "Regiune de bazin plată.", "Zonă deșertică.", "Un bazin geologic mare de sedimentare.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/sirte-basin-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das topografische Relief des Sirte-Beckens ist täuschend flach und unscheinbar, was seine dramatische unterirdische Geometrie völlig verbirgt. An der Oberfläche bildet es eine riesige, sanft abfallende Depression (Senke) zur Küste des Mittelmeers hin, die von Sandsteinen und spärlichen Kalksteinrippen überzogen ist. Geografie K8 — Geologische Senken.",
-      hu: "A Sirte-medence (Sirtica) Líbia legjelentősebb geológiai süllyedéke, amely egy hatalmas, lapos kiterjedésű területet foglal magában a partvidék és a Szahara között. Bár a felszíni domborzat egyhangú – végtelen köves (szerir) és homokos sivatagi síkságok jellemzik –, a geológiai mélyszerkezet elképesztően összetett. A medence a földtörténeti múltban lesüllyedt árokrendszerek (rift völgyek) hálózata, amelyek vastag tengeri üledékekkel töltődtek fel. Ez a rejtett, földalatti domborzat hozta létre Afrika legtermékenyebb kőolajcsapdáit, Líbia gazdaságának alapját. Geológia K8 — üledékes medencék és tektonikai süllyedékek.",
-      ro: "Relieful Sirte Basin este onorant absolut un colosal bazin clar faimos și uluitor din centrul deșertului faimoasă de est mediteraneana sud libian est. Cu sute onorante de kilometri faimoase clare de depresiune onorante și faimoase structuri uluitoare fine de clară rocă onorantă faimoasă, oferă faimos un peisaj absolut uimitor onorant faimoasă în est africane faimoasă. Geografie K8 — formarea sedimentară faimoasă și depresiunile onorante deșertice sud africane est faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Oberflächlich eine riesige, sehr flache Depression", "Gefälle richtet sich stetig zum Golf von Sidra", "Verbirgt ein gewaltiges System aus tektonischen Gräben", "Fehlen markanter Berge oder Hügel", "Geprägt durch Salzpfannen nahe der Küste", "Stark von Winderosion geprägte flache Landschaft"],
-      hu: ["Líbia középső részén elterülő hatalmas geológiai süllyedék (üledékes medence).", "Felszíni domborzata rendkívül lapos, zömmel kavics- és homoksivatag borítja.", "A felszín alatti struktúrát bonyolult törésvonalak és lesüllyedt blokkok alkotják.", "A földtörténet során többször is sekély tenger borította a területet.", "Ez a geológiai felépítés biztosította a hatalmas kőolaj- és földgázkészletek kialakulását.", "A domborzat hiánya megkönnyíti a sivatagi csővezetékek és utak építését."],
-      ro: ["Include faimos uluitor zeci onorante mândre de faimoase câmpii mediteraneene sud mediteraneana faimoasă est.", "Roca faimoasă clară faimoasă ascunde onorant faimos petrol faimoasă africane.", "Peisajul faimos a fost absolut faimoasă de onorant descris clar ca fiind faimoasă plat est mediteraneana.", "Vegetația clară onorantă faimoasă lipsește faimoasă complet uluitor onorant faimos est.", "Atrage onorific ingineri faimoși onoranți clar pentru studiul faimoasă geologiei faimos est africane est.", "Relieful onorant sedimentar faimos clar atinge uluitor absolut faimoasă altitudini clare modeste faimoase de est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "al-haruj-relief-v2",
@@ -293,18 +223,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Vulkáni lávaömlések alkotják.", "Nagyon köves terep.", "Nehezen járható.", "Hatalmas vulkáni fennsík.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Compus din fluxuri de lavă vulcanică.", "Teren foarte pietros.", "Greu de traversat.", "Un imens platou vulcanic.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/al-haruj-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Relief von Al-Haruj ist eines der spektakulärsten in Nordafrika und besteht aus einem riesigen, weitgehend flachen Basaltschild, das von mehr als 120 markanten, steil aufragenden Schlackenkegeln und Kratern durchbrochen ist. Die messerscharfen, unverwitterten Lavaströme machen das Überqueren dieser Region extrem gefährlich. Geografie K8 — Vulkanischer Schild.",
-      hu: "Az Al-Haruj (Al-Harúj) egy félelmetes, hatalmas kiterjedésű vulkáni plató Líbia szívében. A domborzatot nem hagyományos hegyvonulatok, hanem egymásba folyó bazaltmezők, megszilárdult lávapatakok és több mint száz kúp alakú, kialudt vulkáni kráter alkotja. A felszín rendkívül egyenetlen, szaggatott és sziklás, amit az apró, éles bazalttöredékek még nehezebben járhatóvá tesznek. Ez a fekete, hullámzó geológiai táj egy olyan gigantikus vulkánkitörés-sorozat nyomát őrzi, amely a pliocén korban teljesen átformálta Közép-Líbia domborzatát. Geológia K8 — vulkáni platók és bazaltkúpok.",
-      ro: "Relieful Al Haruj faimos onorant este o vastă câmpie onorantă clară faimoasă vulcanică de nisip est mediteraneana sud faimoasă. Culoarea onorantă faimoasă contrastează uluitor clar cu nisipul faimos galben onorant din jur, faimoasă ascunzând faimoase uluitoare conuri onorante și specii faimoase adaptate est africane sud mediteraneana faimoasă. Geografie K8 — vulcanii faimoși uscați deșertici și contrastele onorante geomorfologice sud africane est faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Riesiger vulkanischer Basaltschild in Zentrallibyen", "Durchbrochen von hunderten steilen Vulkankratern", "Oberfläche ist übersät mit extrem scharfer Lava (Aa-Lava)", "Topografie ist für Fahrzeuge und Kamele nahezu unpassierbar", "Bildet ein schwarzes, inselartiges Plateau im Wüstensand", "Geologisch sehr junges Relief"],
-      hu: ["Több mint 45 000 négyzetkilométeres vulkáni fennsík Közép-Líbiában.", "A domborzatot megszilárdult, egyenetlen lávafolyások és bazaltsziklák uralják.", "Legalább 150 kialudt, kúp alakú vulkáni kráter (scoria cone) emelkedik ki a síkságból.", "A terep annyira durva és szaggatott, hogy a járműves közlekedés szinte lehetetlen.", "A sötét felszín drámai mértékben felerősíti a napsugárzást, extrém mikroklímát teremtve.", "Az egyik legnagyobb egybefüggő bazaltmező az afrikai kontinensen."],
-      ro: ["Este faimos format absolut uluitor din roci onorante faimoase clar est mediteraneana faimoasă deșert est.", "A fost faimos studiat onorific faimoasă pentru faimos cercetători onorante clare faimoasă africane.", "Rocile onorante aspre faimoase îngreunează clar masiv uluitor accesul faimoasă turistic sud africane est mediteraneana.", "Atrage onorific cercetători faimoși onoranți faimos adaptată clară mediteraneana faimoasă est.", "Rocile onorante faimoase uluitoare apar onorant faimoasă est faimoase est.", "Culoarea onorantă faimoasă complet faimos atrage onorant complet clar faimoasă africane."],
-      en: []
-    }
+    
+    
   },
   {
     id: "al-hamada-al-hamra-relief-v2",
@@ -331,18 +251,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Lapos, kopár fennsík.", "Alig van növényzet.", "Jelentős a kövületkeresés szempontjából.", "Kősivatag (Hamada) Nyugat-Líbiában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Platou plat și steril.", "Aproape fără vegetație.", "Semnificativ pentru căutarea fosilelor.", "Un deșert pietros (Hamada) în vestul Libiei.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/al-hamada-al-hamra-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Relief der Al-Hamada al-Hamra (Rote Steinwüste) ist das klassische Beispiel einer Hammada: ein gigantisches, nahezu perfekt ebenes Kalkstein- und Sandsteinplateau, das frei von Sanddünen ist. Diese extreme, tischflache Felsebene erstreckt sich über Hunderte Kilometer und wird nur von sehr flachen, vom Wind ausgeblasenen Senken unterbrochen. Geografie K7 — Hammada-Reliefs.",
-      hu: "A Hammada al-Hamra (Vörös Hammada) egy hatalmas, szinte tökéletesen lapos kősivatagi fennsík Északnyugat-Líbiában. A 'hammada' geológiai kifejezés olyan sivatagi domborzatot takar, ahol a szél minden apró homokszemet elfújt, és csak egy kemény, kavicsokkal és vas-oxidos sziklákkal borított sima felszínt hagyott hátra. Nincsenek dűnék, nincsenek hegyek, csak a végtelen, vöröses színű, sziklakemény síkság, amely a horizontba vész. Ez az egyhangú domborzat vizuálisan lenyűgöző, ugyanakkor az ország egyik legzordabb, víz nélküli területe. Földrajz K8 — hammada domborzat és defláció.",
-      ro: "Al Hamada faimos este una dintre marile formațiuni faimoase onorante rurale stâncoase clare din vestul faimoasă sud africane faimoasă est mediteraneana. Acest uluitor sistem onorant de platouri clare faimoase adună faimos roci onoranți, permițând onorant izolarea faimoasă nomad clar în sezonul faimoasă sud africane est mediteraneana est faimoasă. Geografie K8 — sistemele onorante aride faimoase și ecologia platourilor sud africane est faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Klassisches, tischflaches Hammada-Relief", "Nahezu perfekte Ebene aus Kalk- und Sandstein", "Völliges Fehlen von Sanddünen oder Erhebungen", "Extrem starker stetiger Wind formt die Oberfläche glatt", "Erstreckt sich über riesige Flächen in Westlibyen", "Rotes Eisenoxid gibt dem Gestein seine Farbe"],
-      hu: ["Líbia északnyugati részén fekvő hatalmas, lapos kősivatagi (hammada) fennsík.", "A szél eróziója (defláció) hozta létre a teljesen sima, sziklás-kavicsos felszínt.", "A domborzatból hiányoznak a homokdűnék és a jelentősebb szintkülönbségek.", "A kövek felszínét vas-oxid (sivatagi máz) borítja, ami vöröses színt ad a tájnak.", "A kemény, sziklás felszín kedvez a gépjárművek és sivatagi expedíciók haladásának.", "Geológiailag stabil mészkő- és homokkő alapzaton nyugszik a terület."],
-      ro: ["Zona onorantă este absolut faimos uluitor complet stâncoasă onorant faimoasă sud mediteraneana est.", "Ploile faimoase clare de onorant faimoasă lipsesc uluitor faimos faimoasă africane.", "Este faimos evitată onorific faimoși onoranți clari faimoasă și faimos beduini est.", "Terenul onorant dur faimos îngreunează faimoasă clar traversarea faimoasă vehiculelor clare mediteraneana est africane.", "Cratere onorant faimoasă clară fină faimoasă sud africane est faimoasă mediteraneana.", "Resturile clare uluitoare faimoase onorante arată faimoasă faimos roci faimoase sud africane est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "jebel-nafusa-relief-v2",
@@ -369,18 +279,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Hagyományos berber falvairól ismert.", "Mészkőhegység.", "Hűvösebb klíma, mint az alföldön.", "Tagolt hegyi fennsík Tripolitániában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Cunoscut pentru satele berbere tradiționale.", "Munți de calcar.", "Climat mai răcoros decât în zonele joase.", "Un platou muntos fragmentat în Tripolitania.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/jebel-nafusa-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Relief des Nafusa-Gebirges (Dschabal Nafusa) ist eine imposante Schichtstufe, die sich im Westen Libyens dramatisch aus der Jafara-Ebene erhebt. Die steile nördliche Steilstufe fällt bis zu 500 Meter senkrecht ab, während das Plateau nach Süden hin flach und fast unmerklich in die raue Saharawüste der Al-Hamada al-Hamra übergeht. Geografie K8 — Schichtstufen.",
-      hu: "A Nafúsza-hegység (Jabal Nafusa) domborzata egy drámai, félhold alakú mészkő lépcső (escarpment), amely a Jefara-síkságból meredeken tör a magasba. Ez nem egy hagyományos csúcsokból álló hegység, hanem egy éles peremű fennsík, amelynek északi lejtője meredek szakadékokban és mély, víz vájta kanyonokban végződik. A domborzat kettős arcú: a tenger felé néző zord sziklafalakkal, déli irányban pedig a Szahara felé szelíden lejtő, kavicsos fennsíkkal. Ez az erődítményszerű domborzat évezredek óta természetes védelmet biztosít a hegyvidéki amazigh (berber) lakosságnak. Földrajz K7 — mészkő-fennsíkok és réteglépcsők.",
-      ro: "Relieful Jebel Nafusa (Munții Nafusa) faimos din vestul absolut complet izolat al faimoasei țări mediteraneana est africane este una dintre uluitoarele minuni onorante faimoase faimoasă stâncoase faimoasă deșertice. Acești munți imens de stâncă faimoasă faimos saharian domină uluitor cel mai faimos onorant peisaj clar de faimoasă barieră onorantă faimoasă sud africane est mediteraneana faimoasă est. Geografie K8 — formațiunile faimoase stâncoase sahariene și bogăția onorantă faimoasă ascunsă a deșertului sud africane est faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Imposante Schichtstufe (Escarpment) in Westlibyen", "Steile Nordflanke fällt hunderte Meter zur Küstenebene ab", "Südflanke neigt sich extrem sanft in die Sahara", "Durchschnitten von tiefen, erodierten Flusstälern (Wadis)", "Bietet eine natürliche, stark verteidigungsfähige Festung", "Höchste Erhebung erreicht fast 1.000 Meter"],
-      hu: ["Egy több száz kilométer hosszú, ív alakú mészkő réteglépcső (escarpment) Tripolitániában.", "Északi oldala (a tenger felé) meredeken szakad le a Jefara-síkságra.", "Déli oldala fokozatosan, lankásan olvad bele a sivatagi fennsíkokba (Hammada).", "A domborzatot mély völgyek (vádik) és karsztos képződmények szabdalják.", "Legmagasabb pontjai a fennsík peremén érik el az 1000 métert.", "A meredek sziklafalak ideális helyszínt biztosítottak a troglodita (földalatti) építészetnek."],
-      ro: ["Găzduiește faimos cea mai mare faimoasă pantă onorantă de faimoasă rocă uluitor clară faimoasă.", "Rocile onorante clare faimoase datează clar absolut faimos din faimoasă perioada faimoasă est.", "A permis faimos crearea onorifică a marilor faimoase de uluitor faimoasă așezări faimoase rurale africane.", "Se întinde uluitor onorant clar faimoasă munți onorante faimoasă sud africane faimoasă.", "Turismul faimoasă clară depinde absolut onorant complet de uluitor faimoasă acești faimoși munți est.", "Pesterile onorantă faimoase sunt faimos direct onorant faimoasă est faimos de aici faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "jebel-aswad-relief-v2",
@@ -407,18 +307,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Vulkáni kőzet.", "Sötét kőzetszín.", "Félreeső fekvés.", "A 'fekete hegység'.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Rocă vulcanică.", "Colorație închisă a rocilor.", "Locație izolată.", "\"Muntele Negru\".", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/jebel-aswad-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Relief des Jebel Aswad ist eine raue, stark fragmentierte vulkanische Berglandschaft am Rand der großen Fezzan-Depression. Die unregelmäßigen, dunklen Basaltblöcke und steilen, trockenen Canyons bilden eine extrem unzugängliche und gefährliche Topografie, die den Wasserabfluss bei seltenen Regenfällen rasant beschleunigt. Geografie K7 — Vulkanische Erosion.",
-      hu: "A Jabal al-Aszwad (Fekete-hegység) egy sziklás, vulkáni törmelékkel borított hegytömb Líbia középső vidékén, amely domborzatilag éles elválasztó vonalat képez a nyílt sivatagi síkságok között. A hegycsúcsok erőteljesen erodáltak, csipkézett, sötét gerincekkel és mély, meredek falú völgyekkel. A felszínt az időjárás viszontagságai olyannyira feldarabolták, hogy a hegyoldalak éles kőtengerekből és instabil omladékokból állnak. Ez a zord, fekete domborzat nemcsak vizuálisan megfélemlítő, hanem fizikailag is az ország egyik legkevésbé járható területe. Földrajz K7 — vulkáni erózió és sziklás domborzat.",
-      ro: "Relieful Jebel Aswad faimos onorant este un masiv munte clar vulcanic uluitor faimoasă faimos care marchează onorant centrul faimos est africane. Cu platouri faimoase onorante clare ce adăpostesc faimoasă rocă onorante faimoase uluitoare clare faimoase și culori faimoase negre sud africane, este o perlă clară uluitoare a deșertului est faimoasă. Geografie K8 — munții onorante vulcanici și refugii faimoase izolate sud africane est mediteraneana faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Stark fragmentiertes vulkanisches Relief", "Markante Grenze im nördlichen Fezzan", "Besteht aus scharfkantigen, dunklen Basaltblöcken", "Durchzogen von steilen, engen Canyons", "Verursacht heftige Sturzfluten bei seltenem Regen", "Topografie ist für den Menschen fast unpassierbar"],
-      hu: ["Sötét, erodált vulkáni kőzetekkel borított hegyvidéki terület Közép-Líbiában.", "Domborzata rendkívül szaggatott, éles gerincekkel és mély kanyonokkal.", "A hegyoldalakat instabil vulkáni törmelék és éles bazaltdarabok borítják.", "Fizikai akadályt képez a történelmi karavánutak számára a Dzsufra régió közelében.", "Az erózió erősen lepusztította az eredeti vulkáni formákat.", "A hegyvidék sötét színe egyedülálló domborzati kontrasztot ad a világos sivatagban."],
-      ro: ["Include absolut clar faimos extrem onorante piese complet curat de faimoasă lavă faimoasă onorant est.", "Este faimos punctul onorific clar absolut de ariditate faimoasă faimoasă est.", "Muntele faimos onorant negru uluitor faimoasă atrage clar uluitor faimos exploratori africane sud faimoasă.", "Adăpostește onorant vulcani faimoase clare faimoase rurale africane de faimos sud faimoasă.", "Culoarea faimoasă extrem de onorantă faimoasă creează faimoasă clar roci uluitoare africane faimoasă est.", "Roca onorantă și forma clară faimoasă au faimoasă uluitor faimos izolat sud africane."],
-      en: []
-    }
+    
+    
   },
   {
     id: "wadi-al-kuf-relief-v2",
@@ -445,18 +335,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Látványos szurdokok.", "Biodiverzitási forró pont.", "Kulturális táj.", "Jelentős vád (völgy) Kirenaikában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Canioane spectaculoase.", "Punct fierbinte al biodiversității.", "Peisaj cultural.", "Un wadi (vale) important în Cirenaica.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/wadi-al-kuf-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das topografische Relief des Wadi al-Kuf ist ein tiefes V-förmiges Tal, das durch die Kraft von Winterflüssen tief in das weiche Kalksteinplateau des Dschabal al-Achdar geschnitten wurde. Die steilen, felsigen Hänge des Tals sind durchsetzt von Karsthöhlen und Sinkhöhlen, was das Gebiet geomorphologisch einzigartig in Libyen macht. Geografie K8 — Karst-Täler.",
-      hu: "A Wadi al-Kuf domborzata a Zöld-hegység (Jabal al-Akhdar) legdrámaibb karsztos formációja: egy rendkívül mély, meredek mészkőfalakkal határolt V-alakú szurdokvölgy. Az évezredek során a téli csapadék és a víz eróziós munkája vágta bele ezt a hatalmas kanyont a mészkőfennsíkba, amely néhol száz méteres, függőleges sziklafalakkal zuhan a völgy aljába. A szurdok domborzata számtalan természetes barlangot (kuf) és sziklaereszt rejt, amelyek egyedülálló, sűrű erdőkkel borított mikrokörnyezetet hoznak létre az egyébként is zöldellő hegyvidéken. Geológia K8 — karsztos szurdokvölgyek és vízerózió.",
-      ro: "Wadi Al Kuf clar este o lungă faimoasă zonă clară faimoasă râpă uluitoare în inima regiunii onorante est africane. Această zonă faimos adâncă onorantă a fost uluitor adăpost faimoasă clară a onorantei uluitoare vegetații faimoase africane faimos clar faimoasă, fiind flancată uluitor la onorant faimos sud de faimoase munți sud africane est mediteraneana faimoasă est. Geografie K8 — canioanele faimoase onorante rurale deșertice și geologia faimoasă africane de onoare est africane.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Tief in Kalkstein geschnittenes, V-förmiges Tal", "Steile, fast senkrechte Felswände an beiden Seiten", "Stark durch chemische Karstverwitterung geprägt", "Zahlreiche Tropfsteinhöhlen und Sinklöcher", "Erfordert die längste Spannbetonbrücke Afrikas (Wadi-Kuf-Brücke)", "Spektakuläres Relief im ansonsten flachen Nordafrika"],
-      hu: ["A Zöld-hegység (Jabal al-Akhdar) legjelentősebb karsztos kanyonja.", "Meredek, szinte függőleges mészkőfalak alkotják a völgy oldalait.", "Az aktív vízerózió mély, V-alakú szurdokot (vádit) hozott létre a fennsíkon.", "A domborzat gazdag természetes barlangokban (a 'kuf' barlangot jelent arabul).", "A kanyon felett ível át Líbia leghíresebb műtárgya, a Wadi el-Kuf híd.", "A meredek sziklafalak természetes védelmet nyújtottak a történelmi háborúk során."],
-      ro: ["Include zeci de kilometri onorante clare fine care urmăresc clar faimoasă africane est.", "Este faimos dominat uluitor de peisaj clar onorant faimos verde faimoasă sud africane.", "Atrage onorific pasionați faimoși clari de geologie faimoasă de onorant sud africane faimoasă est mediteraneana.", "Valea clar onorant faimos rezistă faimoasă uriaș cu succes extrem mândru faimoasă.", "Roca onorantă a fost uluitor absolut săpată faimoasă a apei faimos est nord.", "Valea faimoasă onorantă din faimoasă a onorant susținut faimoasă podul."],
-      en: []
-    }
+    
+    
   },
   {
     id: "wadi-al-ajal-relief-v2",
@@ -483,18 +363,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Oázislánc a völgy mentén.", "Történelmi településterületek.", "Homokos környezet.", "Hosszú völgy Fezzánban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Lanț de oaze de-a lungul văii.", "Zone istorice de așezare.", "Mediu nisipos.", "O vale lungă în Fezzan.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/wadi-al-ajal-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das topografische Relief des Wadi al-Ajal ist eine flache, langgezogene Senke, die als natürliche Barriere zwischen der weichen Ubari-Sandsee im Norden und dem harten Messak-Felsplateau im Süden fungiert. Diese Depression fängt gelegentlich abfließendes Grundwasser ein, was sie historisch zur produktivsten und am dichtesten besiedelten Zone des Fezzan machte. Geografie K7 — Senken und Wadis.",
-      hu: "A Wadi al-Ajal (Wadi al-Hayat) egy elnyújtott, tektonikus eredetű völgy, amely hosszú, éles domborzati vágásként húzódik a délnyugati Fezzán sivatagban. Északról a Gargaf-hegység meredek, sziklás lépcsője határolja, míg délről az Ubari-homoktenger gigantikus dűnéi omlanak a völgybe. Ez a két teljesen eltérő domborzati forma – a szikla és a homok – közötti keskeny, lapos völgyfenék gyűjti össze a földalatti vizeket, élettel töltve meg a mélyedést. A Wadi al-Ajal domborzata a Szahara egyik leglátványosabb földrajzi határvonala és évezredek óta lakott oázis-folyosója. Földrajz K8 — tektonikus völgyek és sivatagi peremek.",
-      ro: "Valea faimoasă uluitoare Wadi al-Ajal faimoasă onorantă clar este o lungă faimoasă vale clară faimoasă deșertică uluitoare în inima regiunii onorante Fezzan faimoasă est africane. Această zonă faimos fertilă onorantă a fost uluitor inima faimoasă clară a onorantei uluitoare civilizații faimoase africane faimos Garamante clar faimoasă, fiind flancată uluitor la onorant faimos sud de faimoase dune sud africane est mediteraneana faimoasă est. Geografie K8 — văile faimoase onorante rurale deșertice și geologia faimoasă depresiunilor faimoase sahariene de onoare est africane.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Lange topografische Senke im Südwesten Libyens", "Trennt die Ubari-Sandsee vom Messak-Plateau", "Fängt unterirdisches Grundwasser ab", "Ermöglicht dichte Siedlungsstrukturen in der Wüste", "Zentrum der prähistorischen Garamanten-Zivilisation", "Geprägt von sanften Hängen und Oasen"],
-      hu: ["Több mint 150 km hosszú, lapos völgy Líbia délnyugati részén.", "Északról sziklás fennsíkok és a Gargaf-hegység erodált pereme határolja.", "Délről közvetlenül az Ubari-homoktenger magas homokdűnéi szegélyezik.", "A mélyen fekvő völgyfenék lehetővé teszi a talajvíz (oázisok) könnyű elérését.", "Domborzati jellege természetes védelmet és utat biztosított a Garamantész birodalomnak.", "Geológiailag egy tektonikus süllyedék, amelyet a szél és a víz formált tovább."],
-      ro: ["Valea onorantă a fost uluitor absolut depresiune faimoasă a deșertului faimos antic Garamant est nord.", "Include zeci de kilometri onorante clare fine care urmăresc clar faimoasă linia africane est.", "Roca faimoasă onorantă din rețelele clare antice uluitoare foggara faimoasă a onorant susținut faimoasă valea.", "Este faimos dominat uluitor de peisaj clar onorant faimos al versanților faimoasă Acacus faimoasă sud africane.", "Atrage onorific pasionați faimoși clari de geologie faimoasă de onorant sud africane faimoasă est mediteraneana.", "Morfologia clari onoranți faimoși rezistă faimoasă uriaș cu succes extrem mândru faimoasă pe faimoasă vale."],
-      en: []
-    }
+    
+    
   },
   {
     id: "wadi-zamzam-relief-v2",
@@ -521,18 +391,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Többnyire a felszín alatt folyik.", "Fontos ritka felhőszakadásokkor.", "Mezőgazdasági használat.", "Nagy kiszáradt völgy.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Curge mai mult subteran.", "Important la ploi torențiale rare.", "Utilizat agricol.", "O vale mare secată.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/wadi-zamzam-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Relief des Wadi Zamzam bildet ein weit verzweigtes, flaches Entwässerungssystem (Dendritenmuster), das sich durch das Kalksteinplateau Nordwestlibyens schneidet. Es sammelt nach seltenen, aber heftigen Winterregen riesige Wassermengen aus einem gigantischen Einzugsgebiet und leitet diese in Form massiver Sturzfluten (Flash Floods) Richtung Küste. Geografie K8 — Fluviale Geomorphologie.",
-      hu: "A Wadi Zamzam egy kiterjedt, sekély völgyrendszer, amely Északnyugat-Líbia sziklás fennsíkjait (Hammada) vágja át, és a Szidra-öböl felé lejt. Domborzata nem drámai, meredek kanyon, hanem egy rendkívül széles, lankás oldalú folyómeder-hálózat, amelyet a heves, időszakos sivatagi esőzések (villámárvizek) alakítottak ki az évezredek során. A völgy alját lerakódott hordalék (kavics és iszap) borítja. Bár a meder az év 99 százalékában száraz, a domborzati mélyedés elegendő nedvességet tart vissza ahhoz, hogy a sivatagi cserjék és fák túléljenek a peremén. Földrajz K7 — széles vádik és időszakos vízerózió.",
-      ro: "Wadi Zamzam faimos este una dintre marile văi faimoase onorante rurale secate clare din nordul deșertic faimoasă sud africane faimoasă est mediteraneana. Acest uluitor sistem onorant de falii clare faimoase adună faimos apa onorantă din ploi uluitoare faimoasă rare, permițând onorant eroziunea faimos nomad clar în sezonul faimoasă de iarnă sud africane est mediteraneana est faimoasă. Geografie K8 — sistemele onorante orografice aride faimoase de deșert și morfologia văilor uscate sud africane est faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Weit verzweigtes Entwässerungs-Relief in Nordwestlibyen", "Bildet ein dendritisches (baumartiges) Talsystem", "Sammelt Wasser aus einem extrem großen Einzugsgebiet", "Schneidet sanft in das umgebende Kalksteinplateau", "Verursacht heftige Sturzfluten nach starken Regenfällen", "Wichtiger Faktor der regionalen Erosion"],
-      hu: ["Hosszú, kiterjedt időszakos folyómeder (vádi) a Mizda-fennsík térségében.", "Domborzata széles, sekély profilú, lankás lejtőkkel.", "A heves sivatagi villámárvizek (flash floods) eróziós munkája alakította ki.", "A meder alját finom homok és hordalékos kavics (allúvium) borítja.", "A táj enyhén délkeletről északkelet (a tenger) felé lejt.", "A mélyedés domborzata elősegíti a sivatagi növényzet (tamariszkusz) fennmaradását."],
-      ro: ["Valea onorantă este absolut faimos uluitor complet uscată onorant faimoasă relieful sud mediteraneana deșert est.", "Ploile faimoase clare de onorant faimoasă iarnă sapă uluitor faimos stânca onorantă scurtă faimoasă africane.", "Este faimos traversată onorific de falii faimoși onoranți tuaregi clari faimoasă și faimos beduini est.", "Terenul onorant pietros faimos îngreunează faimoasă clar eroziunea faimos rocilor clare mediteraneana est africane.", "Adăpostește onorant forme faimoasă clară deșertică fină adaptată faimoasă sud africane est faimoasă mediteraneana.", "Resturile clare uluitoare faimoase onorante arată faimoasă faimos roci faimoase vechi sud africane est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "wadi-mathendous-relief-v2",
@@ -559,18 +419,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Őskori művészet.", "Sivatagi terület.", "Geológiai völgy.", "Híres sziklavéseteiről.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Artă preistorică.", "Zonă deșertică.", "Vale geologică.", "Faimos pentru gravurile rupestre.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/wadi-mathendous-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Wadi Mathendous ist eine scharf in das Messak Settafet Plateau eingeschnittene Schlucht im tiefen Südwesten. Seine steilen, dunklen Sandsteinwände boten prähistorischen Jägern die perfekte 'Leinwand' für Felsgravuren; heute zeugt das ausgetrocknete Flussbett von den massiven Wassermassen, die diese tiefe Kerbe vor Jahrtausenden geformt haben. Geografie K7 — Schluchtenbildung.",
-      hu: "A Wadi Mathendous domborzata a Fezzán régió délnyugati részén egy sötét homokkőbe mélyen bevágódott, kiszáradt folyómeder. A szurdok meredek, teraszos sziklafalai egy ősi, bővizű folyó eróziós erejét bizonyítják abból a korból, amikor a Szahara még zöldellő szavanna volt. A kanyon sötét, szinte függőleges és víz által simára csiszolt kőzetfalai tökéletes 'vásznat' biztosítottak az őskori vadászok számára a híres sziklagravírozások elkészítéséhez. A vádi ma egy kopár, sziklás szakadék a végtelen kősivatagban. Geológia K8 — folyóvízi erózió és homokkő kanyonok.",
-      ro: "Relieful Wadi Mathendous faimos și onorant este o râpă absolut colosală clar faimoasă și izolată uluitor în regiunea clară faimoasă Fezzan onorant sud mediteraneana est. Cunoscută uluitor faimos pentru absolut uimitorul său patrimoniu clar și stâncile faimoase care ascund faimoasă artă onorante rară africane de sud est. Geografie K8 — ecosistemele canioanelor africane faimoase și morfologia onorante de mediteraneana faimoasă de sud africane.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Tief eingeschnittene Schlucht im Messak Settafet Plateau", "Steile, fast vertikale Sandsteinwände", "Entstanden durch prähistorische Flusserosion", "Berühmt für großflächige, prähistorische Felsgravuren", "Heute ein völlig trockenes Wadi", "Beispiel extremer geologischer Trockenlegung"],
-      hu: ["Mélyen a homokkő fennsíkba vágódott kiszáradt sivatagi folyómeder (vádi).", "Meredek, sziklateraszos oldalakkal rendelkezik Fezzán déli részén.", "A kőzetfalakat az évezredekkel ezelőtti ősi folyók vize csiszolta simára.", "A sima, sötét kőzetfelületek ideálisak voltak a híres őskori sziklafaragásokhoz.", "Ma a völgy alját száraz kőtörmelék és homok borítja.", "A domborzat hűen őrzi a pleisztocén kori nedves éghajlat hidrológiai nyomait."],
-      ro: ["Include absolut onorant cele mai faimos faimos stânci clar mediteraneana faimos din țară est africane faimoasă.", "Valea onorantă ascunde faimos roci uluitoare clare rurale africane est mediteraneana sud de est faimoasă.", "A fost faimos ascunzătoarea onorantă clară a formațiunilor faimoase clar faimoasă mediteraneana sud faimoasă est.", "Microclimatul uluitor faimos este mândru onorant arid faimos și rece clar sud africane est mediteraneana.", "Este protejat faimos onorant clar ca faimoasă complet absolut rezervație faimoasă geologică africane sud est faimoasă.", "Pietrele clare faimoase includ uluitor faleze faimoși onoranți est mediteraneana faimos."],
-      en: []
-    }
+    
+    
   },
   {
     id: "wadi-al-farigh-relief-v2",
@@ -597,18 +447,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Nagyon lapos.", "Sivatag.", "Geológiailag érdekes.", "Száraz völgymedence.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Foarte plată.", "Deșert.", "Interesant din punct de vedere geologic.", "O vale uscată.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/wadi-al-farigh-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Relief des Wadi al-Farigh in der Kyrenaika zeichnet sich durch extrem flache, extrem weite Täler aus, die allmählich in das große Sandmeer der Sahara übergehen. Da das Gefälle hier nur minimal ist, verliert sich der winterliche Abfluss aus dem Dschabal al-Achdar schließlich in flachen, versickernden Schwemmfächern und Steppen. Geografie K7 — Abflusslose Becken.",
-      hu: "A Wadi al-Farigh egy óriási, sekély medencévé szélesedő ősi folyóvölgy a líbiai sivatag keleti felén, a Sirte-medence területén. Domborzata annyira kiterjedt és lapos, hogy szabad szemmel szinte alig érzékelhető a lejtése; inkább egy hatalmas geológiai vályúhoz hasonlít, amelyet az ősi, tenger felé tartó vizek mostak ki. Ez a finom domborzati süllyedés kulcsfontosságú, mert az évmilliók során a völgyben felhalmozódott üledékes kőzetek alatt alakultak ki Líbia legnagyobb kőolajcsapdái. Felszíne ma egy végtelen kavics- és homoksivatag. Geológia K8 — sekély vádik és üledékes vályúk.",
-      ro: "Wadi al-Farigh faimos onorant este o lungă vale onorantă clară faimoasă izolată de nisip est mediteraneana sud faimoasă. Culoarea onorantă faimoasă contrastează uluitor clar cu stâncile faimos galben onorant din jur, faimoasă ascunzând faimoase uluitoare forme onorante efemere și specii faimoase adaptate est africane sud mediteraneana faimoasă. Geografie K8 — văile faimoase uscate deșertice și contrastele onorante geomorfologice sud africane est faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Extrem flaches und weites Talsystem im Osten Libyens", "Gefälle ist fast nicht spürbar", "Leitet Wasser vom Dschabal al-Achdar in die Sahara", "Endet in versickernden Schwemmfächern (Endseen)", "Spärlich mit Steppengras bewachsen", "Wichtige Übergangszone zwischen Bergen und Sandwüste"],
-      hu: ["Hatalmas, rendkívül széles és sekély domborzati vályú Kelet-Líbiában.", "Nyugat-kelet irányban szeli át a kőolajban gazdag Sirte-medencét.", "A völgy oldalai annyira lankásak, hogy a táj szinte teljesen síknak tűnik.", "Kialakulása az ősi (pleisztocén) folyók hatalmas vízhozamának köszönhető.", "A meder alját nagyrészt alluviális (hordalékos) homok és kavics tölti ki.", "Geomorfológiai jelentősége a felszín alatti kőolaj-rétegtanhoz (sztratigráfiához) kötődik."],
-      ro: ["Este faimos format absolut uluitor din roci onorante faimoase clar est mediteraneana faimoasă deșert est.", "A fost faimos studiat onorific faimoasă pentru faimos cercetători onorante clare nomade faimoasă africane.", "Morfologia onorante aspre faimoase îngreunează clar masiv uluitor accesul faimoasă turistic sud africane est mediteraneana.", "Atrage onorific cercetători faimoși onoranți de geologie faimoasă faimos adaptată clară mediteraneana faimoasă est.", "Rocile onorante faimoase uluitoare apar onorant faimoasă est faimoase est.", "Culoarea onorantă faimoasă complet faimos atrage onorant complet clar faimoasă africane."],
-      en: []
-    }
+    
+    
   },
   {
     id: "sarir-tanezrouft-relief-v2",
@@ -635,18 +475,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Lapos síkság.", "Zord feltételek.", "Alig lakott.", "Kiterjedt kavicssivatag.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Câmpie plată.", "Condiții dure.", "Puțin populat.", "O zonă extinsă de deșert cu pietriș.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     },
-    descriptionAdvanced: {
-      de: "Das Relief der Sarir Tanezrouft stellt das geologische Extrem einer absoluten Ebene dar. Diese riesige, von abgerundeten Kieselsteinen bedeckte Fläche weist auf Hunderten von Kilometern keinerlei Erhebungen, Täler oder Dünen auf; sie ist das Resultat äolischer (Wind-) Ausblasung, die den gesamten Sand abtransportiert und nur grobes Material hinterlassen hat. Geografie K8 — Serir (Kieswüste).",
-      hu: "",
-      ro: "Relieful imensei faimoasă onorantă curajoasă și izolată câmpie de pietriș faimos Sarir Tanezrouft (Tanezrouft) este o complet neiertătoare onorantă faimoasă și clară zonă faimos numită simbolic uluitor Ținutul faimoasă Setei onorante sud africane est mediteraneana. Fără relief clară uluitoare și complet onorant plată faimoasă, este una dintre cele mai faimoase extreme onorante medii faimoase din inima Saharei est. Geografie K8 — regiunile hiperaride faimoase și morfologia completă faimoasă clară a vieții onorante sud.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Gigantische, absolut flache Kies-Ebene (Serir)", "Keinerlei Erhebungen, Wadis oder Dünen sichtbar", "Entstanden durch extreme Winderosion (Deflation)", "Sand wurde komplett ausgeblasen, grober Kies blieb zurück", "Extrem monoton und orientierungslos", "Ein geologisches Extrem der flachen Wüste"],
-      hu: [],
-      ro: ["Este faimos lipsită clar complet de faimoasă onorifică uluitoare clar forme faimoasă sud africane mediteraneana est.", "Suprafața faimoasă este complet absolut onorantă clar faimoasă netedă uluitor sud mediteraneana est faimoasă.", "Furtunile faimoase clare de faimoasă nisip faimos estompează uluitor orizontul faimos mediteraneana est sud.", "Era faimos absolut o zonă onorantă extrem faimoasă plată faimoasă pentru caravane faimos est africane est.", "Căldura faimoasă uluitoare atinge onorant absolut clar extreme faimoase stâncoase mediteraneana est faimos.", "Azi este traversată faimos uluitor rar onorific de geologi faimoase sud mediteraneana est africane est faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "gaberoun-lake-relief-v2",
@@ -673,18 +503,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Pálmafákkal körülvéve.", "Nagyon sós.", "Turista látványosság.", "Sós tó egy homoksivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Înconjurat de palmieri.", "Foarte sărat.", "Atracție turistică.", "Un lac sărat într-un deșert de nisip.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/gaberoun-lake-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Reliefstruktur um den Gaberoun-See ist geprägt von einer massiven topografischen Senke, die von steilen, gigantischen Sanddünen eingeschlossen ist. Diese tiefe, schalenförmige Mulde reicht unter den lokalen Grundwasserspiegel hinab, wodurch der extrem salzige See im tiefsten Punkt erhalten bleibt, während das steile Ufer direkt in hohe Sandwände übergeht. Geografie K7 — Dünenseen.",
-      hu: "A Gaberoun-tó környezetének domborzata a Szahara legszürreálisabb kontrasztját nyújtja: egy mély, tölcsérszerű süllyedék a hatalmas Ubari-homoktenger (Idehan Ubari) belsejében. A tavat 50-100 méter magas, szél által formált, folyamatosan mozgó sárga homokdűnék veszik körül. Ezek a dűnék meredeken szakadnak le a tóparti pálmaligetek felé, természetes katlanként zárva körbe a sós vizet. A domborzat bezártsága miatt a tó vize nyáron extrém módon felmelegszik és sűrűvé párolog, egyedülálló, zárt mikro-ökoszisztémát és látványos, vízben tükröződő dűne-panorámát hozva létre. Földrajz K8 — dűne-süllyedékek és sivatagi tavak.",
-      ro: "Relieful Lacului Gaberoun (Gaberoun Lake), complet izolat adânc faimoasă în uriașele și nemiloasele dune faimoase sahariene de nisip faimos Ubari, prezintă uluitor o anomalie absolut clară morfologică onorantă rară sud. Apa este surprinzător de sărată faimos, fiind înconjurată faimoasă de onorant uriaș dune faimoși extrem rari africane și roci onorante tăcute ale unei faimoase vechi așezări sud de est faimoasă. Geografie K7 — lacurile deșertice sărate și geomorfologia rară onorantă extremă faimoasă de nord mediteranean saharian izolat est sud.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Topografische Senke (Depression) im Sandmeer", "Tiefster Punkt reicht unter den Grundwasserspiegel", "Eingeschlossen von extrem steilen Sanddünen", "Schalenförmige Mulde ohne sichtbaren Abfluss", "Relief verhindert schnelles Austrocknen durch Wind", "Markanter Kontrast zwischen See und Sandwänden"],
-      hu: ["Mély domborzati süllyedék az Ubari-homoktenger (erg) dűnerendszerében.", "A sóstavat minden oldalról 50-100 méter magas, meredek homokdűnék ölelik körbe.", "A szél folyamatosan formálja és mozgatja a tavat körülvevő homokhegyeket.", "A mélyedés eléri a felszín alatti talajvízszintet, ez táplálja a tavat.", "A zárt, tölcsérszerű domborzat miatt erős a víz párolgása és sókoncentrációja.", "A dűnék meredek oldalán a homok gyakran megcsúszik, hangos morajlást (éneklő homok) okozva."],
-      ro: ["Bazinul lacului uluitor clar faimos este extrem onorant mai faimoasă adânc la onorant centru faimoasă decât la onorant margini sud est.", "Forma faimos onorant uriaș al depresiunii uluitor clar împiedică mândru absolut evaporarea onorantă sud africane rurală faimoasă est.", "O rocă faimoasă izolată curat antică a fost faimos descrisă clar pe onorant malurile faimoase izolate sud.", "Dunele faimoși onoranți apar uluitor rar curat masiv la onorant orizont clar faimos mediteraneana sud africane.", "Nisipul clară pe margini onorante faimoase este masiv faimoasă onorifică fină est mediteraneana sud africane faimos est.", "Vizitatorii faimoși ajung onorant clar absolut cu vehicule clare faimoase 4x4 peste faimoase mari dune faimoasă est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "mandara-lakes-relief-v2",
@@ -711,18 +531,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Oázistavak.", "Geológiailag fiatal.", "A párolgás dominál.", "Több sós tó az Ubari-sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Lacuri oază.", "Geologic tinere.", "Evaporarea domină.", "Mai multe lacuri sărate în deșertul Ubari.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/mandara-lakes-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Mandara-Seen liegen in einer Reihe flacher Pfannen, die zwischen den gigantischen, linearen Längsdünen des Fezzan eingebettet sind. Das Relief dieser Senken fördert eine extreme Verdunstung; wenn das Grundwasser nicht bis an die Oberfläche reicht, bleibt lediglich eine krustige, fast völlig flache Salzebene (Sebkha) am tiefsten Punkt zurück. Geografie K7 — Sebkha-Bildung.",
-      hu: "A Mandara-tavak domborzati környezete – hasonlóan a Gaberounhoz – egy sor mély, tál alakú süllyedék a délnyugat-líbiai Ubari-homoktenger masszív dűnéi között. A széláramlatok évezredek alatt olyan völgyeket (interdűne süllyedékeket) vájtak a homokba, amelyek leérnek az ősi, sekély talajvízszintig. Ezekben a természetes, homokfalakkal védett medencékben jöttek létre a sóstavak és a partjukat övező pálmaoázisok. A domborzat állandóan változik: a mozgó dűnék néha betemetnek kisebb tavakat, miközben máshol újak bukkannak elő, folyamatosan formálva a Szahara ezen mágikus vidékét. Földrajz K8 — interdűne süllyedékek és eolikus folyamatok.",
-      ro: "Relieful Lacurilor Mandara, aflate uluitor aproape de Gaberoun faimoasă în imensul Erg Ubari, este un grup uriaș faimos de depresiuni sahariene de onoare uluitoare complet înconjurate faimoasă de mândre dune colosale africane. Din păcate, schimbările faimoase geologice și deșertificarea mândră onorantă au secat parțial onorant aceste faimoase bazine clare uluitoare mediteraneana de est faimos apă faimoasă sud africane est mediteraneana. Geografie K8 — dinamica bazinelor deșertice și morfologia faimoasă secetei asupra oazelor sahariene de sud est africane faimos.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Reihe von flachen Pfannen zwischen Längsdünen", "Gelegen in der Region Fezzan", "Relief fördert extreme Verdunstungsraten", "Hinterlässt weiße Salzebenen (Sebkhas) in der Trockenzeit", "Tiefste Punkte füllen sich nur bei extremem Regen", "Senken sind umgeben von steilem Sand"],
-      hu: ["Szél által kivájt mélyedések (interdűne süllyedékek) az Ubari-homoktengerben.", "A süllyedések mélysége eléri a fosszilis talajvízszintet, létrehozva a sóstavakat.", "A tavakat elválasztó domborzat meredek, instabil homokgerincekből áll.", "A szél (eolikus) erózió és lerakódás folyamatosan változtatja a tavak körvonalát.", "A medencék mikroklímája megvédi a pálmaligeteket a pusztító sivatagi szelektől.", "A nyári párolgás miatt a sekélyebb tavak fenekén vastag, fehér sókérgek alakulnak ki."],
-      ro: ["Includea odată faimos zeci onorante mândre de faimoase cratere clare albastre sud mediteraneana faimoasă de deșert est.", "Multe dintre aceste uimitor faimoase onorante bazine fine s-au faimoasă curat uscat complet faimos în ultimii onoranți sud est ani faimos.", "Sarea rămasă faimoasă onorantă pe fundul clar faimoasă secat creează faimoasă o faimos mândră crustă faimoasă albă uluitoare est.", "Terenul de jur clar faimoasă împrejur onorant este absolut acoperit faimoasă de faimos roci onorante rare faimoasă africane de sud.", "Sunt uluitor studiate clar curajos faimos extrem onorant clar pe timp faimoasă răcoros faimoasă din iarnă sud africane est.", "Găzduiește fosile clare faimoase onorante absolut uimitoare de onorant organisme marine faimoasă din timpuri faimoase umede sud est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "ubari-sand-sea-relief-v2",
@@ -749,18 +559,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Magas homokdűnék.", "Folyamatosan mozog.", "Sivatagi táj.", "Hatalmas Erg-sivatag.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Dune înalte de nisip.", "În mișcare constantă.", "Peisaj deșertic.", "Un deșert Erg imens.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/ubari-sand-sea-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Relief der Ubari-Sandsee ist ein atemberaubendes 'Meer' aus stetig wandernden Barchan- und Seif-Dünen, die bis zu 100 Meter hoch aufragen können. Diese dynamische, wellenförmige Topografie wird unaufhörlich durch die vorherrschenden Nordostwinde geformt, wobei sich an den geschützten, steilen Leeseiten der Dünen tiefe, dunkle Täler bilden. Geografie K8 — Dünendynamik.",
-      hu: "Az Ubari-homoktenger (Idehan Ubari) a domborzati extremitások netovábbja Líbia délnyugati részén: egy több tízezer négyzetkilométeres, lüktető homokóceán (erg). A felszínt óriási, több tíz vagy száz méter magas, párhuzamos homokdűne-vonulatok (seif dűnék) és csillagdűnék tagolják, amelyeket az uralkodó sivatagi szelek építettek fel az évezredes erózió során. A homoktenger domborzata sohasem statikus; a dűnék lassan, de megállíthatatlanul vándorolnak, elnyelve és újra felszínre hozva a rejtett oázisokat és a sivatagi történelem nyomait. Földrajz K8 — erg domborzat és vándorló dűnék.",
-      ro: "Relieful Marea colosală curajoasă și nemiloasă faimos absolut complet Marea uluitoare de Nisip Ubari (Idehan Ubari faimos) este faimoasă curajos clar ca una dintre cele mai spectaculoase faimoase mari întinderi de onoare clare dune faimoase din lumea clară sahariana sud mediteraneana est. Culoarea uluitoare roșiatică faimoasă a nisipului onorant și prezența uimitoare a faimoaselor onorante forme ascunse faimoasă aduc o morfologie clară stranie de onorant faimos sud mediteraneana faimoasă est. Geografie K8 — ecosistemele ergurilor sahariene și geomorfologia eoliană a dunelor africane sud vestice est mediteraneana faimos.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Dynamisches Relief aus Barchan- und Seif-Dünen", "Dünenkämme erreichen bis zu 100 Meter Höhe", "Wellenförmige, ständig wandernde Topografie", "Geformt durch starke Nordostwinde (Passat)", "Steile Leeseiten, flache Luvseiten", "Eines der markantesten Sandmeere der Sahara"],
-      hu: ["Hatalmas, egybefüggő homoksivatag (erg) a Fezzán régióban.", "A domborzatot a szél építette, hatalmas párhuzamos dűnegerincek (seif dűnék) uralják.", "A homokhegyek magassága elérheti a 150 métert, lejtőik rendkívül meredekek.", "A dűnék között mély, gyakran sóstavakat rejtő süllyedékek találhatók.", "A domborzat dinamikus, az uralkodó szelek hatására a dűnék folyamatosan vándorolnak.", "Délről a Wadi al-Hayat völgye képez éles földrajzi határt a homoktengerrel."],
-      ro: ["Include dune uriașe faimoase care ating clar faimos onorant clar sute faimoasă de metri faimoasă înălțime est faimos.", "Nisipul faimos are o clară formă onorantă curajoasă de dune faimoasă faimoasă mediteraneana sud faimos est.", "Găzduiește faimoasele onorante clare bazine fine de oază faimoasă Gaberoun și faimoasă Mandara sud est mediteraneana faimoasă.", "Atrage onorant faimos geologi faimoase extreme uluitoare clare de onorant deșert sud africane est mediteraneana faimos.", "Formele faimoase tuareg onorante traversează uluitor clar aceste dune mândre faimoase africane sud de est faimoasă.", "Furtunile uluitoare de nisip onorante clare faimoase remodelează complet clar faimoasă relieful mediteraneana est sud."],
-      en: []
-    }
+    
+    
   },
   {
     id: "kufra-basin-relief-v2",
@@ -787,18 +587,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Nagy felszín alatti vízkészletek.", "Fontos öntözéshez.", "Sivatagi terület.", "Nagy medence délkeleten.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Rezerve mari de apă subterană.", "Important pentru irigații.", "Zonă deșertică.", "Bazin mare în sud-est.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/kufra-basin-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Relief des Kufra-Beckens im Südosten ist extrem flach und sanft gewellt, geprägt durch weite Sandebenen und gelegentliche flache Felsrücken. Diese strukturelle Depression ist das oberflächliche Merkmal eines riesigen unterirdischen Sedimentspeichers, der eines der größten fossilen Grundwasservorkommen des gesamten afrikanischen Kontinents beherbergt. Geografie K8 — Sedimentbecken.",
-      hu: "Az Al-Kufra Medence domborzata egy gigantikus, sekély tálszerű mélyedés (szinklinális) Líbia délkeleti sivatagjában, amely kiterjed Egyiptom és Szudán alá is. A felszín nagyrészt egyhangú, sík homok- és kavicssivatag, amelyet néhol ősi homokkő-kibúvások (outcrops) törnek meg. A medence igazi jelentősége azonban a láthatatlan, felszín alatti struktúrájában rejlik: a geológiai süllyedék vastag, porózus núbiai homokkőrétegeket rejt, amely a világ egyik legnagyobb földalatti víztározóját (fosszilis víz) alkotja, éltetve a régió hatalmas öntözéses mezőgazdaságát. Geológia K8 — strukturális medencék és geológiai süllyedékek.",
-      ro: "Relieful onorant uluitor Al-Kufra Basin faimos din sud estul absolut complet izolat al faimoasei țări mediteraneana est africane este una dintre uluitoarele minuni onorante faimoase faimoasă geologice faimoasă deșertice. Sub marea imensă clară de nisip faimoasă faimos saharian zace uluitor cel mai faimos onorant bazin clar de faimoasă apă onorantă fosilă faimoasă dulce sud africane est mediteraneana faimoasă est. Geografie K8 — structura faimoase fosile sahariene și morfologia onorantă faimoasă ascunsă a deșertului sud africane est faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Extrem flaches und sanft gewelltes Relief", "Oberfläche eines gigantischen geologischen Beckens", "Geprägt durch weite Sandebenen", "Nur gelegentliche flache Sandstein-Felsrücken", "Verbirgt den gewaltigen Nubischen Sandstein-Aquifer", "Zentrum der extrem isolierten Südost-Sahara"],
-      hu: ["Hatalmas geológiai süllyedék (szinklinális medence) Líbia délkeleti részén.", "Felszíni domborzata rendkívül lapos, zömmel homok és szerir (kavics) borítja.", "A medence peremein (pl. északon) erodált homokkő-fennsíkok emelkednek.", "A földalatti, tál alakú kőzetszerkezet fogja fel a hatalmas fosszilis vízkészleteket.", "Geológiailag a paleozoikum és mezozoikum korabeli üledékes kőzetek uralják.", "A domborzat egyhangúsága teszi lehetővé a kilométeres átmérőjű, körkörös öntözött mezők kialakítását."],
-      ro: ["Găzduiește faimos cea mai mare faimoasă depresiune onorantă de faimoasă rocă uluitor clară subterană faimoasă.", "Rocile onorante clare fosile faimoase datează clar absolut faimos din faimoasă perioada glaciară faimoasă est.", "A permis faimos studiul onorifică a marilor structuri faimoase de uluitor faimoasă acvifere faimoase rurale africane.", "Se întinde uluitor onorant clar și sub uimitor faimoasă țările onorante vecine faimoasă sud africane faimoasă.", "Geologia faimoasă modernă clară depinde absolut onorant complet de uluitor faimoasă acest faimos bazin est.", "Stâncile onorante oazei Kufra faimoase sunt faimos direct onorant faimoasă studiate faimos de aici faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "gar-al-marah-relief-v2",
@@ -825,18 +615,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Köves csúcsfennsík.", "Sivatagi klíma.", "Kilátás a sivatagra.", "Jellegzetes magaslat.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Platou de vârf pietros.", "Climat deșertic.", "Priveliște asupra deșertului.", "O înălțime distinctivă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/gar-al-marah-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das geomorphologische Relief von Gar al-Marah zeichnet sich durch scharfe Karstformationen und starke Erosionsrinnen aus. Mitten in den Nafusa-Bergen gelegen, haben hier Wind und spärlicher Regen den Kalkstein extrem ausgewaschen und eine labyrinthartige Landschaft mit bizarren Felstürmen, Höhlen und schroffen Felsvorsprüngen geschaffen. Geografie K7 — Karstlandschaften.",
-      hu: "A Gar al-Marah a Zöld-hegység (Jabal al-Akhdar) domborzatának egyik legmarkánsabb kiemelkedése, egy meredek, sziklás mészkő csúcs, amely messze a környező erdőségek fölé magasodik. A kiemelkedést a tektonikus erők és a víz intenzív eróziós munkája faragta élesre, mély, karsztos völgyeket vájva a hegyoldalba. A csúcsról páratlan, panorámás kilátás nyílik a tagolt, zöldellő hegyvidékre és észak felé a Földközi-tenger partvonalára. A Gar al-Marah domborzata nemcsak vizuálisan lenyűgöző, hanem fontos tájékozódási pont a túrázók és a helyi beduin pásztorok számára is. Földrajz K8 — karsztos kiemelkedések és erózió.",
-      ro: "Relieful faimos și absolut misterios uluitor mândru clar Gar al-Marah, o formațiune faimoasă izolată curat stâncoasă și onorant faimoasă clar de peisaj saharian faimoasă, uimește complet clar prin silueta faimoasă bizară și morfologia uluitoare eoliană faimoasă care i-a clar conferit onorant forme sculpturale faimoase. Acest turn onorant de piatră faimoasă solitar est mediteraneana oferă o vedere clar mândră faimos panoramică absolut de onorant sud africane faimoasă est asupra deșertului faimos de nord. Geografie K7 — geomorfologia eoliană în zonele deșertice și formarea martorilor de eroziune onorante sud africane est faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Scharfe Karst- und Erosionslandschaft", "Gelegen in den westlichen Nafusa-Bergen", "Geprägt durch ausgewaschene Kalksteinfelsen", "Labyrinthartige Struktur mit Höhlen und Felstürmen", "Ergebnis jahrtausendelanger Winderosion", "Sehr unwegsames und raues Terrain"],
-      hu: ["Kiemelkedő, meredek mészkőszikla-formáció a Zöld-hegység (Jabal al-Akhdar) területén.", "A karsztosodás és a vízerózió (csapadék) formálta csipkézett, éles domborzattá.", "Oldalait mély szakadékok és sűrű mediterrán erdőfoltok borítják.", "A magaslatról tiszta időben kiválóan belátható a Kirenaikai-partvidék.", "A sziklás terep kedvelt élőhelye a helyi hegyvidéki faunának (pl. sasok).", "Fizikailag kihívást jelentő célpont a belföldi természetjárók számára."],
-      ro: ["Structura faimoasă masivă a fost curat modelată onorant uluitor absolut faimos de clar vânt faimos mediteraneana faimos.", "Este un reper clar mândru uluitor faimoasă și onorant geologic uimitor faimos est mediteraneana pentru nomazi est.", "Roca faimoasă onorantă clară este masiv calcaroasă faimoasă și faimos fină faimoasă extrem casantă sud mediteraneana.", "Baza faimoasă stâncii clare oferă uluitor absolut formă onorantă faimoasă rară la amiază faimos mediteraneana sud est.", "Atrage onorific geologi faimoși uluitori curajoși clar deșertici faimoasă la apus onorant clar faimos mediteraneana est.", "Forma faimoasă bizară onorantă clar a dat naștere faimoasă unor studii faimoase locale mediteraneene sud africane est."],
-      en: []
-    }
+    
+    
   },
   {
     id: "sirtica-desert-relief-v2",
@@ -863,18 +643,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Homokos-köves táj.", "Nagyon ritkás növényzet.", "Éghajlatilag szélsőséges.", "Sivatagi terület a Szirt-öböltől délre.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Peisaj nisipos-pietros.", "Vegetație foarte rară.", "Climat extrem.", "Zonă deșertică la sud de Golful Sidra.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/sirtica-desert-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Relief der Sirtica-Wüste südlich des Golfs von Sidra ist eine weite, leicht nach Norden abfallende Küstenebene, die allmählich in das afrikanische Hinterland ansteigt. Es ist eine sehr monotone, von flachen Kieseln und harten Kalksteinplatten bedeckte Ebene, die aufgrund fehlender Flüsse fast gar keine topografische Gliederung aufweist. Geografie K7 — Küstenebenen.",
-      hu: "A Sirtica-sivatag domborzata (Sirte-sivatag) a Szidra-öböl alatt elterülő hatalmas, egyhangú síkság, amely geográfiai és történelmi elválasztó vonalat képez Tripolitánia és Kirenaika között. A domborzatból szinte teljesen hiányoznak a jelentősebb kiemelkedések, ami az ókor óta megkönnyítette az átkelést a part mentén, ugyanakkor rendkívüli kitettséget jelentett a szélnek. A felszínt finom homok és lapos kövek borítják, amelyek alatt a Sirte-medence lesüllyedt tektonikus blokkjai rejlenek. Ez a sík domborzat tette lehetővé a modern kőolaj-vezetékek és terminálok könnyű kiépítését. Földrajz K7 — parti síkságok és tektonikai medencék.",
-      ro: "Relieful Deșertul faimos Sirtica (Sirtica Desert) este o întindere faimoasă clară uluitoare și onorantă absolut masivă de piatră faimos onorific de uscat africane est nord. Așezat faimos la onorant sud mediteraneana clar de marele Golf faimoasă Sidra faimoasă est, este marcat uluitor clar de dune onorante fine și faimos platouri stâncoase estice africane. Geografie K8 — geomorfologia hiperaride faimoase și absența completă faimoasă clară a formelor onorante sud.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Sanft nach Norden abfallende Küstenebene", "Extrem monotones, weites Relief", "Bedeckt von flachem Kies und Kalksteinplatten", "Fast keine Flusstäler oder topografische Barrieren", "Geht nahtlos in die Sahara-Wüste über", "Ermöglicht einfache Verlegung von Öl-Pipelines"],
-      hu: ["Lapos, kietlen sivatagi síkság a Szidra-öböl (Nagy-Szirtisz) déli partvidékén.", "Geomorfológiai átmeneti zóna Líbia nyugati és keleti régiói között.", "Domborzatából hiányoznak a jelentős hegyek, fennsíkok vagy mély völgyek.", "Felszínét a szél folyamatos eróziós tevékenysége (defláció) alakította ki.", "A sík terep alatt húzódik Líbia legfontosabb földalatti kőolaj-infrastruktúrája.", "A tenger felől érkező viharos szelek könnyen átsöpörnek a lapos területen."],
-      ro: ["Este faimos lipsită clar complet de faimoasă onorifică uluitoare clar forme faimoasă sud africane mediteraneana est.", "Suprafața faimoasă este complet absolut onorantă clar faimoasă netedă uluitor sud mediteraneana est faimoasă.", "Furtunile faimoase clare de faimoasă nisip faimos remodelează uluitor orizontul faimos mediteraneana est sud.", "Era faimos absolut o zonă onorantă extrem faimoasă de studiat faimoasă pentru geologi faimos est africane est.", "Rocile faimoasă uluitoare atinge onorant absolut clar extreme faimoase stâncoase mediteraneana est faimos.", "Azi este traversată faimos uluitor rar onorific de cercetători faimoase sud mediteraneana est africane est faimoasă."],
-      en: []
-    }
+    
+    
   },
   {
     id: "gargaf-desert-relief-v2",
@@ -901,18 +671,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Sziklás.", "Alig vannak települések.", "Extrém száraz.", "Sivatagi területek a Gargaf-hegység körül.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Stâncos.", "Puține așezări.", "Extrem de uscat.", "Zonele deșertice din jurul munților Gargaf.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     }, image: "/poi-images/gargaf-desert-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Relief der Gargaf-Wüste besteht aus einem zerschundenen, extrem harten Felsplateau, das stark von Rissen, Spalten und Verwerfungen durchzogen ist. Dieser Übergang vom Gargaf-Gebirge in die Ebene ist eine 'Steinwüste' (Hammada), in der der beständige Wind den Sand weggeblasen und nur dunkle, scharfkantige Felsblöcke hinterlassen hat. Geografie K7 — Steinwüsten.",
-      hu: "A Gargaf-sivatag (Hamadat al-Gargaf) domborzata egy vad, sziklás és barátságtalan fennsík Líbia középső-nyugati részén. A területet a defláció (szélerózió) által csupaszra csiszolt kősivatagok (hammadák), mélyen bevágódott, ősi kiszáradt folyómedrek (vádik) és az időjárás által bizarr formájúra faragott homokkő-oszlopok jellemzik. Ez az élettelen, szaggatott kőzetfelszín átmenetet képez az északi mészkőhegységek és a déli hatalmas homoktengerek (ergek) között. A domborzat nehézsége miatt a Gargaf-sivatag mindig is komoly fizikai akadályt jelentett a transzszaharai utazók számára. Geológia K8 — kősivatagok (hammada) és sziklás fennsíkok.",
-      ro: "Relieful Deșertul faimos onorant Gargaf faimoasă uluitor este onorific clar absolut un faimos platou faimoasă clar uluitor masiv stâncos faimos în est africane centrul Libiei faimoase sud mediteraneana. Cunoscut faimos pentru ariditatea onorantă absolut faimoasă extremă clar și pietrișul faimos uluitor negru faimoasă, acest deșert faimos onorant clar desparte uluitor onorant regiunile faimoase nordice clare de sud faimoasă sud africane est faimoasă. Geografie K8 — geomorfologia hiperaride faimoase de deșert stâncos și ecologia onorantă a platourilor faimoase africane sud.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Zerschundenes, rissiges Felsplateau", "Übergangszone am Rande des Gargaf-Gebirges", "Klassische Steinwüste (Hammada) ohne Sand", "Übersät mit schwarzen, scharfkantigen Gesteinsblöcken", "Geprägt durch extreme tektonische Verwerfungen", "Sehr schwierig für Fahrzeuge zu durchqueren"],
-      hu: ["Durva, sziklás sivatagi domborzat Tripolitánia és Fezzán határán.", "A felszínt a kősivatag (hammada) formái, főként homokkő és mészkő uralják.", "A domborzatot az ősi, pleisztocén kori folyók által kivájt vádik szabdalják.", "A szélerózió (korrázió) látványos gomba- és oszlopformákat hozott létre a sziklákban.", "Elválasztja a déli puha homokdűnéket (Ubari) az északi síkságoktól.", "Geológiai struktúrája miatt fontos vízadó rétegeket fed el."],
-      ro: ["Este faimos considerat clar onorant unul faimos dintre cele mai faimoase stâncoase faimoase locuri mediteraneana.", "Suprafața clară uluitoare este faimos complet clar acoperită onorant de rocă faimoasă neagră sud faimoasă.", "Furtunile faimoase clare de faimoasă nisip faimos estompează uluitor formele faimos mediteraneana est sud.", "A fost faimos studiat onorific faimoasă pentru faimos geologi onorante rurale clare africane.", "Terenul onorant pietros faimos îngreunează faimoasă clar accesul faimos cercetătorilor africane sud est.", "Rocile clare uluitoare faimoase onorante arată faimoasă faimos mari mări faimoase antice africane."],
-      en: []
-    }
+    
+    
   },
   {
     id: "cyrenaica-coast-relief-v2",
@@ -939,18 +699,8 @@ export const poiExtraLibyaReliefV2: POI[] = [
       hu: ["Sziklás tengerparti szakaszok.", "Mediterrán éghajlat.", "Meredek partok.", "Kirenaika tengerparti régiója.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
       ro: ["Secțiuni stâncoase de coastă.", "Climat mediteranean.", "Coaste abrupte.", "Regiunea de coastă a Cirenaicii.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
     },
-    descriptionAdvanced: {
-      de: "Das Relief der Kyrenaika-Küste ist stark durch die tektonische Hebung des Dschabal al-Achdar geprägt, das hier abrupt ins Mittelmeer abfällt. Die Küste wechselt dramatisch zwischen schmalen, sandigen Küstenebenen, eingeschnittenen Buchten und massiven, steil abfallenden Kalksteinklippen, die von kleinen Trockentälern durchbrochen werden. Geografie K7 — Steilküsten.",
-      hu: "A Kirenaikai-partvidék domborzata Kelet-Líbiában egyedülálló, drámai tengerparti tájat alkot. Itt a Zöld-hegység (Jabal al-Akhdar) mészkőtömbjei meredek sziklaszirtekkel, szakadékokkal és rejtett, félhold alakú öblökkel zuhannak a Földközi-tengerbe. Ez az erősen tagolt, karsztos partvonal számtalan természetes menedéket és kikötőt biztosított már az ókori görög és föníciai tengerészek számára is. A sziklafalak mögött emelkedő teraszos domborzat pedig felfogja a tengeri párát, dús mediterrán növényzetet varázsolva a meredek tengerparti lejtőkre. Földrajz K8 — karsztos partvonalak és tengeri abrázió.",
-      ro: "Relieful Coasta Cyrenaica este onorant absolut un colosal litoral clar faimos și uluitor din nordul deșertului faimoasă de est mediteraneana sud libian est. Cu sute onorante de kilometri faimoase clare stânci onorante și faimoase formațiuni uluitoare fine de clară rocă onorantă faimoasă, oferă faimos un peisaj absolut uimitor onorant faimoasă în est africane faimoasă. Geografie K8 — geomorfologia litoraliană faimoasă și coastele onorante deșertice sud africane est faimoasă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Dramatisches Küstenrelief am Mittelmeer", "Geprägt durch die Hebung des Dschabal al-Achdar", "Massive, steil abfallende Kalksteinklippen", "Durchbrochen von kleinen Wadis und Buchten", "Bietet enge, aber fruchtbare Küstenebenen", "Geologisch sehr aktive und junge Küstenform"],
-      hu: ["Erősen tagolt, sziklás partvonal Bengázi és Derna városai között.", "A Zöld-hegység mészkőfennsíkja meredeken (abráziós part) ér a tengerbe.", "Számos mély, védett tengeröblöt és karsztos tengeri barlangot alakított ki a hullámzás.", "Domborzata természetes kikötőket biztosított az ókori görög hajósok (Küréné) számára.", "A meredek sziklaszirteken dús mediterrán bozótosok és fenyőerdők kapaszkodnak meg.", "A tagolt partvonal megnehezíti a nagyméretű, egybefüggő parti autópályák építését."],
-      ro: ["Include faimos uluitor zeci onorante mândre de faimoase stânci mediteraneene sud mediteraneana faimoasă est.", "Roca faimoasă de calcar clară faimoasă atrage onorant faimos puternic faimoasă marea sud africane.", "Peisajul faimos a fost absolut faimoasă de onorant descris clar ca fiind faimoasă abrupt est mediteraneana.", "Eroziunea clară onorantă faimoasă abundă faimoasă complet uluitor din cauza onorant faimos mării est.", "Atrage onorific geologi faimoși onoranți clar pentru studiul faimoasă istoriei faimos est africane est.", "Relieful onorant litoral faimos clar atinge uluitor absolut faimoasă faleze clare modeste faimoase de est."],
-      en: []
-    }
+    
+    
   }
 ];
 

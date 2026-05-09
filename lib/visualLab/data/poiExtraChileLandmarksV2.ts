@@ -25,18 +25,8 @@ export const poiExtraChileLandmarksV2: POI[] = [
       ro: "Un parc național de renume mondial în Patagonia, cu vârfuri de granit și ghețari spectaculoși.",
       en: "A world-famous national park in Patagonia with striking granite peaks and glaciers."
     },
-    descriptionAdvanced: {
-      de: "Der Nationalpark Torres del Paine ist das wohl bedeutendste Naturjuwel Chiles und ein weltweites Symbol für unberührte Wildnis. Die charakteristischen Granittürme, die dem Park seinen Namen geben, ragen majestätisch über Gletschern und kristallklaren Seen auf. Der Park zieht jährlich tausende Wanderer aus aller Welt an, die die raue Schönheit Patagoniens erleben wollen. Er bietet eine einzigartige Biodiversität und geologische Formationen, die ihn zu einem zentralen Ort für Naturstudien und Abenteuertourismus machen.",
-      hu: "A Torres del Paine Nemzeti Park Chile és talán az egész világ egyik leglenyűgözőbb természeti csodája, amely Patagónia déli részén található. A park névadói a 'Paine-tornyok', három monumentális gránitcsúcs, amelyek az ég felé törnek a türkizkék tavak og hatalmas gleccserek felett. A tájat a Paine-masszívum uralja, amelyet az erózió és a jég formált évmilliókon át. A terület gazdag vadvilággal rendelkezik, ahol pumák, guanakók és andoki kondorkeselyűk élnek szabadon. Világszerte híres a 'W' és 'O' túraútvonalairól, amelyek a természetjárók bakancslistájának állandó szereplői. Földrajz K7 – Gleccserek formálta tájak és magashegyi ökoszisztémák.",
-      ro: "Parcul Național Torres del Paine este bijuteria naturală a statului Chile și un simbol mondial al sălbăticiei neatinse, situat în inima Patagoniei. Parcul este faimos pentru \\\"Turnurile Paine\\\", trei vârfuri colosale de granit care străpung cerul deasupra unor lacuri turcoaz și a unor ghețari masivi. Peisajul este dominat de Masivul Paine, o formațiune geologică spectaculoasă modelată de forțele gheții și ale vântului de-a lungul milioanelor de ani. Biodiversitatea este bogată, fiind locul ideal pentru a observa pume, guanaco și condori andini în habitatul lor natural. Rutele de trekking \\\"W\\\" și \\\"O\\\" sunt recunoscute la nivel internațional, atrăgând anual mii de aventurieri. Geografie K7 — Peisaje modelate de ghețari și ecosisteme montane înalte.",
-      en: "Torres del Paine National Park is one of the most stunning natural wonders of Chile and perhaps the world, located in southern Patagonia. The park is named after the 'Towers of Paine,' three monumental granite peaks reaching for the sky above turquoise lakes and vast glaciers. The landscape is dominated by the Paine Massif, shaped by erosion and ice over millions of years. The area boasts rich wildlife, with pumas, guanacos, and Andean condors living freely. It is world-famous for its 'W' and 'O' trekking routes, which are permanent fixtures on hikers' bucket lists. Geography K7 — Landscapes shaped by glaciers and high mountain ecosystems."
-    },
-    factsAdvanced: {
-      de: ["Weltberühmte Granitformationen im Herzen von Patagonien.", "Zentraler Ankerpunkt für Wandertourismus und Abenteuerreisen in Chile.", "Einzigartiges Ökosystem mit beeindruckenden Gletschern und Seen.", "UNESCO-Biosphärenreservat von globaler Bedeutung."],
-      hu: ["A gránittornyok legmagasabbika 2850 méter", "UNESCO bioszféra-rezervátum 1978 óta", "Itt található a hatalmas Grey-gleccser", "A park területe több mint 180 000 hektár"],
-      ro: ["Cel mai înalt turn de granit măsoară 2.850 de metri.", "Rezervație a Biosferei UNESCO din anul 1978.", "Găzduiește spectaculosul Ghețar Grey.", "Parcul se întinde pe o suprafață de peste 180.000 de hectare."],
-      en: ["The tallest granite tower reaches 2,850 meters.", "UNESCO Biosphere Reserve since 1978.", "Home to the massive Grey Glacier.", "The park covers over 180,000 hectares."]
-    },
+    
+    
     facts: {
       de: ["Die Granittürme sind das Wahrzeichen.", "Der Park ist ein UNESCO-Biosphärenreservat."],
       hu: ["A gránittornyok a park jelképei.", "A park UNESCO bioszféra-rezervátum."],
@@ -66,18 +56,8 @@ export const poiExtraChileLandmarksV2: POI[] = [
       ro: "Un arc natural impresionant pe coastă, lângă Antofagasta.",
       en: "An impressive natural stone arch on the coast near Antofagasta."
     },
-    descriptionAdvanced: {
-      de: "La Portada ist eines der markantesten Naturdenkmäler an der chilenischen Küste. Der beeindruckende natürliche Felsbogen ragt stolz aus dem Pazifischen Ozean hervor und ist ein beliebtes Motiv für Reisende und Fotografen. Die geologische Formation ist nicht nur landschaftlich faszinierend, sondern bietet auch einen wichtigen Lebensraum für zahlreiche Meeresvögel, was sie zu einem Schutzgebiet von ökologischer Bedeutung macht.",
-      hu: "La Portada egy monumentális, természetes kőív Antofagasta partjainál, amely a Csendes-óceán hullámaiból emelkedik ki. A 43 méter magas alakzat sárgás színű üledékes kőzetből és fosszíliákból áll, amelyeket az erózió formált évezredeken keresztül. A név jelentése spanyolul 'A Kapu', és valóban úgy fest, mint egy óriási bejárat a nyílt vízre. A szikla és a környező partszakasz fontos költőhelye számos tengeri madárnak, például a barna pelikánnak és a guay-kormoránnak. Chile egyik leggyakrabban fényképezett természeti látványossága. Földrajz K7 – Abrazíziós partok és tengeri erózió.",
-      ro: "La Portada este un monument natural spectaculos situat în largul coastelor orașului Antofagasta, unde Oceanul Pacific întâlnește deșertul. Această arcadă naturală colosală, înaltă de 43 de metri, este formată din roci sedimentare marine și fosile antice, sculptate de eroziunea marină de-a lungul mileniilor. Numele său înseamnă \\\"Poarta\\\" și oferă una dintre cele mai emblematice imagini ale nordului chilian. Zona este un habitat esențial pentru numeroase specii de păsări marine, cum ar fi pelicanii și cormoranii Guanay, precum și pentru leii de mare. Datorită frumuseții sale geologice și valorii ecologice, La Portada este protejată ca monument natural național. Geografie K7 — Abraziune marină și eroziune costieră.",
-      en: "La Portada is a monumental natural stone arch off the coast of Antofagasta, rising from the waves of the Pacific Ocean. The 43-meter-high structure consists of yellowish sedimentary rock and fossils, shaped by erosion over millennia. The name means 'The Gate' in Spanish, and it indeed looks like a giant entrance to the open water. The rock and surrounding coastline are important nesting sites for many seabirds, such as brown pelicans and Guanay cormorants. It's one of Chile's most photographed natural attractions. Geography K7 — Marine abrasion and coastal erosion."
-    },
-    factsAdvanced: {
-      de: ["Spektakulärer natürlicher Felsbogen an der Küste von Antofagasta.", "Wichtiger Lebensraum für eine Vielzahl von Seevögeln.", "Geologisches Naturdenkmal von nationalem Rang.", "Ein ikonisches Fotomotiv und landschaftliches Highlight in Nordchile."],
-      hu: ["A kőív magassága 43 méter, hossza 70 méter", "1990-ben nyilvánították nemzeti műemlékké", "Sok pelikán és tengeri oroszlán látható a környéken", "A kőzet anyaga miocén kori üledék"],
-      ro: ["Arcada are o înălțime de 43 de metri și o lungime de 70 de metri.", "Declarată Monument Național în anul 1990.", "Zonă bogată în faună, cu numeroși pelicani și lei de mare.", "Roca este compusă din depuneri sedimentare din epoca miocenă."],
-      en: ["The arch is 43 meters high and 70 meters long.", "Declared a national monument in 1990.", "Many pelicans and sea lions are visible in the area.", "The rock material is Miocene sedimentary rock."]
-    },
+    
+    
     facts: {
       de: ["Der Name bedeutet 'Das Portal'.", "Es ist ein geschütztes Naturdenkmal."],
       hu: ["A név jelentése: 'A kapu'.", "Védett természeti emlék."],

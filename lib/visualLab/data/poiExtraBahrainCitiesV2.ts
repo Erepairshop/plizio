@@ -1,4 +1,4 @@
-import type { POI } from "./poi";
+﻿import type { POI } from "./poi";
 
 export const poiExtraBahrainCitiesV2: POI[] = [
   {
@@ -234,7 +234,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     },
     description: {
       de: "Berühmt für ihren traditionellen Markt und das Bildungszentrum der Region.",
-      hu: "Híres a hagyományos piacáról és a régió oktatási központjáról.",
+      hu: "Bahrain egyik jelentős városa, amely oktatási és lakóövezeti központként ismert. A város modern infrastruktúrával rendelkezik, és fontos szerepet tölt be az ország közigazgatásában.",
       ro: "Faimos pentru piața sa tradițională și centrul educațional al regiunii.",
       en: "Famous for its traditional market and as the educational center of the region."
     },
@@ -245,12 +245,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Viele Privatschulen.",
         "Lebendiges Viertel."
       ],
-      hu: [
-        "Hagyományos bazár.",
-        "1968-ban alapították.",
-        "Sok magániskola.",
-        "Élénk negyed."
-      ],
+      hu: ["Lakóövezeti központ", "Oktatási intézmények otthona", "Modern infrastruktúra"],
       ro: [
         "Bazar tradițional.",
         "Fondat în 1968.",
@@ -278,7 +273,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     },
     description: {
       de: "Eine Inselstadt mit starker industrieller Prägung und vielen Palmenhainen.",
-      hu: "Erős ipari jelleggel és sok pálmaligettel rendelkező szigetváros.",
+      hu: "Sitra egy ipari sziget Bahrain keleti partján, amely az olajipar és a finomítók központja. A sziget stratégiai elhelyezkedése miatt kulcsfontosságú az ország gazdasága számára.",
       ro: "Un oraș insular cu un puternic caracter industrial și mulți palmieri.",
       en: "An island city with a strong industrial character and many palm groves."
     },
@@ -289,12 +284,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Viele Dattelpalmen.",
         "Wichtiger Hafen."
       ],
-      hu: [
-        "Szigetváros keleten.",
-        "Az olajipar központja.",
-        "Sok datolyapálma.",
-        "Fontos kikötő."
-      ],
+      hu: ["Ipari sziget", "Olajfinomítók központja", "Keleti partvidéki elhelyezkedés"],
       ro: [
         "Oraș insular în est.",
         "Centrul industriei petroliere.",
@@ -497,18 +487,13 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       en: "Diraz"
     },
     description: {
-      de: "Bekannt für seine archäologischen Stätten, darunter der berühmte Diraz-Tempel.",
+      de: "Diraz ist ein Dorf an der Nordküste Bahrains, das für seine antiken Ausgrabungsstätten bekannt ist. Es liegt in der Nähe des Barbar-Tempels.",
       hu: "Régészeti lelőhelyeiről ismert, beleértve a híres Diráz-templomot.",
       ro: "Cunoscut pentru siturile sale arheologice, inclusiv faimosul templu Diraz.",
       en: "Known for its archaeological sites, including the famous Diraz Temple."
     },
     facts: {
-      de: [
-        "Antiker Diraz-Tempel.",
-        "Dilmun-Kultur.",
-        "Nordwestliche Lage.",
-        "Historisches Dorf."
-      ],
+      de: ["Nordküste Bahrains", "Archäologisch bedeutend", "Nahe Barbar-Tempel", "Wohnort nahe Manama"],
       hu: [
         "Ősi Diráz-templom.",
         "Dilmun kultúra.",
@@ -542,7 +527,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     },
     description: {
       de: "Traditionell ein Fischerdorf, das sich heute in Manamas städtische Struktur integriert hat.",
-      hu: "Hagyományosan egy halászfalu, amely mára beépült Manáma városszerkezetébe.",
+      hu: "Manama közelében található, sűrűn lakott település, amely fejlett kereskedelmi környezettel rendelkezik. A városban számos irodaház és modern lakókomplexum épült az elmúlt években.",
       ro: "În mod tradițional un sat de pescari, acum integrat în structura urbană a orașului Manama.",
       en: "Traditionally a fishing village, now integrated into Manama's urban structure."
     },
@@ -553,12 +538,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Modernes Messezentrum.",
         "Dicht besiedelt."
       ],
-      hu: [
-        "A pénzügyi kikötő közelében.",
-        "Egykor halászfalu.",
-        "Modern kiállítási központ.",
-        "Sűrűn lakott."
-      ],
+      hu: ["Manama közeli település", "Fejlett kereskedelmi negyed", "Modern lakókomplexumok"],
       ro: [
         "Aproape de portul financiar.",
         "Fost sat de pescari.",
@@ -585,24 +565,14 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       en: "Tubli"
     },
     description: {
-      de: "Ein schnell wachsendes Wohngebiet, das für die Tubli-Bucht und ihre Mangroven bekannt ist.",
-      hu: "Gyorsan növekvő lakónegyed, amely a Tubli-öbölről és annak mangroveerdőiről ismert.",
+      de: "Tubli ist eine Siedlung, die vor allem für ihre Bucht und die dortigen Mangrovenwälder bekannt ist. Sie liegt strategisch günstig zwischen Manama und Sitra.",
+      hu: "Tubli városa a híres Tubli-öböl mellett terül el, amely gazdag élővilágáról és mangroveerdeiről ismert. A terület lakóépületekkel és könnyűipari létesítményekkel jellemezhető.",
       ro: "O zonă rezidențială cu creștere rapidă, cunoscută pentru Golful Tubli și mangrovele sale.",
       en: "A fast-growing residential area known for Tubli Bay and its mangroves."
     },
     facts: {
-      de: [
-        "Tubli-Bucht.",
-        "Mangrovenwälder.",
-        "Beliebte Wohngegend.",
-        "Nahe Manama."
-      ],
-      hu: [
-        "Tubli-öböl.",
-        "Mangroveerdők.",
-        "Népszerű lakóövezet.",
-        "Manáma közelében."
-      ],
+      de: ["Bekannt für Mangroven", "Küstennahe Siedlung", "Zwischen Manama und Sitra", "Wichtiges Feuchtgebiet"],
+      hu: ["Mangroveerdők közelsége", "Tubli-öböl partvidéke", "Lakó- és ipari zónák"],
       ro: [
         "Golful Tubli.",
         "Păduri de mangrove.",
@@ -717,24 +687,14 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       en: "Busaiteen"
     },
     description: {
-      de: "Bedeutet wörtlich 'kleine Gärten', heute bekannt für Krankenhäuser und Universitäten.",
-      hu: "Szó szerinti jelentése 'kis kertek', ma kórházakról és egyetemekről ismert.",
+      de: "Busaiteen ist ein Wohngebiet in Muharraq, das direkt am Meer liegt. Es zeichnet sich durch seine moderne Infrastruktur und Küstenpromenaden aus.",
+      hu: "Muharraq szigetén elhelyezkedő tengerparti város, amely csendes lakókörnyezetéről ismert. A város fejlesztései során nagy hangsúlyt fektettek a tengerparti sétányokra.",
       ro: "Înseamnă literal 'grădini mici', astăzi cunoscut pentru spitale și universități.",
       en: "Literally means 'small gardens', today known for hospitals and universities."
     },
     facts: {
-      de: [
-        "Kleine Gärten.",
-        "King Hamad Hospital.",
-        "Wohngebiete.",
-        "Sportclub Busaiteen."
-      ],
-      hu: [
-        "Kis kertek.",
-        "King Hamad Kórház.",
-        "Lakóövezetek.",
-        "Busaiteen sportklub."
-      ],
+      de: ["Teil von Muharraq", "Küstenlage", "Moderne Wohngegend", "Nähe zum Flughafen"],
+      hu: ["Muharraq szigeti elhelyezkedés", "Csendes lakónegyed", "Tengerparti sétányok"],
       ro: [
         "Grădini mici.",
         "Spitalul King Hamad.",
@@ -894,7 +854,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     },
     description: {
       de: "Ein Fischerdorf an der Ostküste Bahrains, das eine zunehmende industrielle Bedeutung hat.",
-      hu: "Halászfalu Bahrein keleti partján, amely egyre nagyobb ipari jelentőséggel bír.",
+      hu: "Egy hagyományos halásztelepülés a fősziget délkeleti részén, amely megőrizte nyugodt jellegét a modern fejlődés mellett is. A település szorosan kötődik a tengeri hagyományokhoz.",
       ro: "Un sat de pescari pe coasta de est a Bahrainului, cu o importanță industrială tot mai mare.",
       en: "A fishing village on the east coast of Bahrain that has increasing industrial importance."
     },
@@ -905,12 +865,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Wachsende Industrie.",
         "Nahe der ALBA-Werke."
       ],
-      hu: [
-        "A keleti parton.",
-        "Hagyományos halászat.",
-        "Növekvő ipar.",
-        "Az ALBA-gyárak közelében."
-      ],
+      hu: ["Délkeleti partvidék", "Hagyományos halászközösség", "Tengeri örökség"],
       ro: [
         "Pe coasta de est.",
         "Pescuit tradițional.",
@@ -981,18 +936,13 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       en: "Barbar"
     },
     description: {
-      de: "Beherbergt den antiken Barbar-Tempel, eine der wichtigsten Ausgrabungsstätten der Region.",
+      de: "Barbar ist ein Dorf im Norden Bahrains, das vor allem wegen der dortigen Ausgrabungen des Barbar-Tempels international bekannt ist. Es hat eine tiefe historische Verwurzelung.",
       hu: "Itt található az ősi Barbar-templom, a régió egyik legfontosabb ásatási helyszíne.",
       ro: "Găzduiește anticul Templu Barbar, unul dintre cele mai importante situri de excavare din regiune.",
       en: "Houses the ancient Barbar Temple, one of the most important excavation sites in the region."
     },
     facts: {
-      de: [
-        "Barbar-Tempel.",
-        "Dilmun-Kulturstätte.",
-        "Grüne Küstengärten.",
-        "Kulturelles Zentrum."
-      ],
+      de: ["Nord-Bahrain", "Tempel-Standort", "Historische Stätte", "Ruhiges Dorfgebiet"],
       hu: [
         "Barbar-templom.",
         "Dilmun kulturális helyszín.",
@@ -1026,7 +976,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     },
     description: {
       de: "Berühmt für sein traditionelles Webhandwerk und die dörfliche Gemeinschaft.",
-      hu: "Híres hagyományos szövőmesterségéről és falusi közösségéről.",
+      hu: "A település történelmileg híres hagyományos szövőiparáról, ahol a helyi kézművesek generációkon át őrizték a technikát. Napjainkban csendes lakóövezetként funkcionál.",
       ro: "Faimos pentru meșteșugul său tradițional de țesut și comunitatea sătească.",
       en: "Famous for its traditional weaving craft and village community."
     },
@@ -1037,12 +987,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Kleine Siedlung.",
         "Kultureller Stolz."
       ],
-      hu: [
-        "Hagyományos szövés.",
-        "Kézművesség.",
-        "Kis település.",
-        "Kulturális büszkeség."
-      ],
+      hu: ["Hagyományos szövőipar", "Kézműves központ", "Csendes lakóövezet"],
       ro: [
         "Țesut tradițional.",
         "Măiestrie artizanală.",
@@ -1069,24 +1014,14 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       en: "Karrana"
     },
     description: {
-      de: "Ein nordwestliches Dorf, das für seine Palmenhaine und landwirtschaftliche Geschichte bekannt ist.",
-      hu: "Északnyugati falu, amely pálmafáiról és mezőgazdasági történelméről ismert.",
+      de: "Karrana ist eine landwirtschaftlich geprägte Siedlung im Norden Bahrains. Das Gebiet ist für seine traditionellen Farmen und Palmenhaine bekannt.",
+      hu: "Bahrain északi részén található mezőgazdasági és lakóterület, amely zöldövezeteiről ismert. A környező kertek és pálmaligetek jellemzik a tájat.",
       ro: "Un sat din nord-vest cunoscut pentru palmierii săi și istoria agricolă.",
       en: "A northwestern village known for its palm groves and agricultural history."
     },
     facts: {
-      de: [
-        "Viele Palmen.",
-        "Agrargeschichte.",
-        "Nahe dem Meer.",
-        "Friedliches Dorf."
-      ],
-      hu: [
-        "Sok pálmafa.",
-        "Mezőgazdasági múlt.",
-        "Közel a tengerhez.",
-        "Békés falu."
-      ],
+      de: ["Nördlicher Bezirk", "Traditionelle Landwirtschaft", "Palmenhaine", "Ländlicher Charakter"],
+      hu: ["Északi elhelyezkedés", "Mezőgazdasági hagyományok", "Zöldövezeti terület"],
       ro: [
         "Mulți palmieri.",
         "Istorie agricolă.",
@@ -1113,24 +1048,14 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       en: "Salmabad"
     },
     description: {
-      de: "Ein wichtiges Industrie- und Wohngebiet im Zentrum des Landes.",
-      hu: "Fontos ipari és lakóövezet az ország központjában.",
+      de: "Salmabad ist ein bedeutendes Industrie- und Gewerbegebiet in Bahrain. Es dient als wichtiger Knotenpunkt für lokales Handwerk und mittelständische Unternehmen.",
+      hu: "Központi elhelyezkedésű város, amely az ipari és raktárlogisztikai központok kedvelt helyszíne Bahrainben. Számos kis- és középvállalkozás telephelye található itt.",
       ro: "O importantă zonă industrială și rezidențială în centrul țării.",
       en: "An important industrial and residential area in the center of the country."
     },
     facts: {
-      de: [
-        "Industriezone.",
-        "Wohnkomplexe.",
-        "Gute Anbindung.",
-        "Starkes Wachstum."
-      ],
-      hu: [
-        "Ipari övezet.",
-        "Lakókomplexumok.",
-        "Jó közlekedés.",
-        "Erős növekedés."
-      ],
+      de: ["Industriezentrum", "Gewerbliche Zone", "Zentrale Lage", "Wichtiges Handwerksgebiet"],
+      hu: ["Logisztikai csomópont", "Ipari zónák", "Központi elhelyezkedés"],
       ro: [
         "Zonă industrială.",
         "Complexe rezidențiale.",
@@ -1158,7 +1083,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     },
     description: {
       de: "Ein Küstendorf, das für die alte Handwerkskunst der Korbwarenherstellung bekannt ist.",
-      hu: "Tengerparti falu, amely a kosárfonás régi kézműves mesterségéről ismert.",
+      hu: "Tengerparti település, amely közel fekszik a Seef kereskedelmi negyedhez és a tengerparti üdülőhelyekhez. A város a modern életmód és a tradicionális környezet ötvözete.",
       ro: "Un sat de coastă cunoscut pentru vechiul meșteșug al confecționării coșurilor.",
       en: "A coastal village known for the ancient craftsmanship of basket making."
     },
@@ -1169,12 +1094,7 @@ export const poiExtraBahrainCitiesV2: POI[] = [
         "Traditionelle Praktiken.",
         "Küstennah gelegen."
       ],
-      hu: [
-        "Kosárfonás.",
-        "Bahrein-erőd közelében.",
-        "Hagyományos módszerek.",
-        "Tengerparti fekvés."
-      ],
+      hu: ["Seef negyed közelsége", "Tengerparti elhelyezkedés", "Kereskedelmi vonzáskörzet"],
       ro: [
         "Confecționarea coșurilor.",
         "Aproape de Fortul Bahrain.",
@@ -1245,24 +1165,14 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       en: "Arad"
     },
     description: {
-      de: "Eine Stadt östlich von Muharraq, bekannt für das historische Arad-Fort.",
-      hu: "Város Muharraktól keletre, amely a történelmi Arád-erődről ismert.",
+      de: "Arad ist eine Stadt auf der Insel Muharraq, die für ihre historische Festung und ihre Küstenlage bekannt ist. Sie dient als wichtiger Wohnstandort.",
+      hu: "Muharraq szigetén elhelyezkedő település, amely kiváló elhelyezkedése miatt közkedvelt a lakók körében. A város több parkkal és közösségi térrel rendelkezik.",
       ro: "Un oraș la est de Muharraq, cunoscut pentru istoricul Fort Arad.",
       en: "A town east of Muharraq, known for the historic Arad Fort."
     },
     facts: {
-      de: [
-        "Historisches Arad-Fort.",
-        "Insel-Dorf.",
-        "Moderne Entwicklung.",
-        "Nahe dem Flughafen."
-      ],
-      hu: [
-        "Történelmi Arád-erőd.",
-        "Szigetfalu.",
-        "Modern fejlesztések.",
-        "Repülőtér közelében."
-      ],
+      de: ["Insel Muharraq", "Historische Festung", "Wohnstadt", "Nahe Flughafen"],
+      hu: ["Muharraq szigeti rész", "Közkedvelt lakóövezet", "Közösségi parkok"],
       ro: [
         "Fortul istoric Arad.",
         "Sat insular.",

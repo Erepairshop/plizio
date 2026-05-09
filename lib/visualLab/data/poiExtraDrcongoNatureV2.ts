@@ -25,18 +25,8 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru congo-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"]
     }, image: "/poi-images/congo-river-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Kongó folyó (Fleuve Congo) Közép-Afrika lüktető ütőere, és a Kongói Demokratikus Köztársaság földrajzi, gazdasági és kulturális tengelye. A 4700 kilométer hosszú folyó vízhozamát tekintve (az Amazonas után) a második legnagyobb, legmélyebb (több mint 220 méter mély szakaszokkal) folyó a világon, és az egyetlen nagy folyó, amely kétszer is metszi az Egyenlítőt. Hatalmas vízgyűjtő medencéje Afrika esőerdeinek szívét táplálja. Kisanganitól Kinshasáig több mint ezer kilométeren át hajózható, és ez a szakasz az ország legfontosabb, a nehezen járható dzsungeleket átszelő \\\"autópályája\\\". Vízenergia-potenciálja (különösen az Inga-zúgóknál) egyedülálló a világon. Földrajz K8 — A Kongó folyó, mint Közép-Afrika logisztikai és ökológiai gerince.",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [],
-      hu: ["Vízhozamát és mélységét (helyenként >220 m) tekintve a világ második legnagyobb folyója.", "Hossza 4700 km, és egyedülálló módon kétszer is átszeli az Egyenlítő vonalát.", "Kisangani és Kinshasa közötti hosszú szakasza a régió legfontosabb teherszállítási útvonala.", "A folyó vízgyűjtő területe lefedi a hatalmas egyenlítői Kongó-medence esőerdeit.", "Az Inga-zúgóknál (Livingstone-vízesések) található a világ legnagyobb vízenergia-potenciálja.", "Medre olyan endemikus halfajoknak ad otthont, mint a félelmetes óriás tigrishal (Goliath tigerfish)."],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "tanganyika-lake-nature-v2",
@@ -61,18 +51,8 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru tanganyika-lake-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"]
     }, image: "/poi-images/tanganyika-lake-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Tanganyika-tó Kelet-Afrika Nagy-tavainak egyik leglenyűgözőbbike, amely a Kelet-Afrikai árokrendszer (Nagy-hasadékvölgy) mélyedésében fekszik, és Kongó keleti határát képezi (Burundi, Tanzánia és Zambia mellett). Ez a világ leghosszabb (673 km) és a Bajkál-tó után a második legmélyebb (1470 méter) és legöregebb édesvizű tava, amely a Föld felszíni édesvízkészletének mintegy 16%-át adja. A tó evolúciós szempontból felér a Galápagos-szigetekkel: vizében több mint 250 endemikus (csak itt élő) sügérfaj (Cichlidae) él. Emellett a tó a régió legfontosabb közlekedési és kereskedelmi útvonala is, összekötve Kongó (Kalemie, Uvira) és a szomszédos országok kikötőit. Földrajz K8 — A Nagy-hasadékvölgy tavainak ökológiája és limnológiája.",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [],
-      hu: ["A világ leghosszabb (673 km) édesvízi tava a Kelet-Afrikai árokrendszerben.", "Maximális mélysége eléri az 1470 métert, ezzel a második legmélyebb a Bajkál-tó után.", "A Kongói DK, Tanzánia, Burundi és Zambia osztozik a vizén.", "Rendkívüli biodiverzitású: több száz endemikus sügérfaj (cichlid) él benne.", "Vize izolált, rétegzett; a mélyebb, oxigénmentes rétegek sosem keverednek a felszínnel.", "Létfontosságú közlekedési és halászati bázis a kelet-kongói régió (Kalemie, Uvira) számára."],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ituri-forest-nature-v2",
@@ -97,18 +77,8 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru ituri-forest-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"]
     }, image: "/poi-images/ituri-forest-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az Ituri-erdő (Forêt de l'Ituri) egy hatalmas, mintegy 63 000 négyzetkilométeres egyenlítői esőerdő a Kongói Demokratikus Köztársaság északkeleti részén. Ez a terület a Kongó-medence egyik biológiailag legdiverzebb és legősibb ökoszisztémája. A sűrű, lombkoronával zárt dzsungel ad otthont az okapiknak, erdei elefántoknak és számtalan főemlősfajnak. Az erdő ezenkívül a hagyományos, vadászó-gyűjtögető életmódot folytató pigmeus törzsek (például a Mbuti és Efe népek) ősi otthona, akik hihetetlen tudással rendelkeznek a helyi növény- és állatvilágról. Az erdő integritását sajnos napjainkban az illegális fakitermelés, az orvvadászat és a fegyveres milíciákhoz kötődő kézműves aranybányászat súlyosan veszélyezteti. Földrajz K7 — Sűrű egyenlítői erdők ökológiája és antropológiája.",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [],
-      hu: ["Több mint 63 000 négyzetkilométeres zárt, elsődleges esőerdő Északkelet-Kongóban.", "Otthont ad a Mbuti (pigmeus) vadászó-gyűjtögető közösségeknek.", "A területén található az UNESCO világörökségi Okapi Vadrezervátum.", "A fák lombkoronája olyan sűrű, hogy a talajt alig éri közvetlen napfény.", "Rendkívüli fenyegetést jelent számára az illegális arany- és koltánbányászat.", "Gazdag vízhálózata (pl. az Ituri és Epulu folyók) táplálja a sűrű növényzetet."],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "virunga-mountains-nature-v2",
@@ -133,18 +103,8 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru virunga-mountains-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"]
     }, image: "/poi-images/virunga-mountains-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Virunga-hegység (Montagnes des Virunga) egy lenyűgöző, vulkanikus eredetű hegylánc, amely a Kelet-Afrikai árokrendszer mentén, a Kongói DK, Ruanda és Uganda határán húzódik. A lánc nyolc nagyobb vulkánból áll, amelyek közül kettő – a Nyiragongo és a Nyamuragira – jelenleg is rendkívül aktív, és a világ legaktívabb vulkánjai közé tartozik. A meredek, sűrű esőerdővel borított hegyoldalak a kritikusan veszélyeztetett hegyi gorillák utolsó természetes menedékei. A vulkánok lábánál fekvő termékeny talaj rendkívül sűrűn lakott, ami folyamatos ember-vadvilág konfliktust, valamint a vulkánkitörések miatti katasztrófaveszélyt (például Goma városában) eredményez. Földrajz K8 — Aktív vulkanizmus és endemikus fajok a Nagy-tavaknál.",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [],
-      hu: ["Nyolc vulkánból álló hegylánc a Kongói DK, Ruanda és Uganda határán.", "Két vulkánja, a Nyiragongo és a Nyamuragira a világ legaktívabbjai közé tartozik.", "A hegység a hegyi gorillák (Gorilla beringei beringei) utolsó menedéke.", "A vulkáni hamu miatt a hegyek lábánál a talaj rendkívül termékeny.", "A Karisimbi a hegylánc legmagasabb csúcsa (4507 méter).", "A hegylánc elzárja a Kivu-tó lefolyását Észak (a Nílus) felé, a vizet délre terelve."],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "maiko-forest-nature-v2",
@@ -169,18 +129,8 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru maiko-forest-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"]
     }, image: "/poi-images/maiko-forest-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Maiko-esőerdő a Kongó-medence keleti peremén, Nord-Kivu, Tshopo és Maniema tartományok találkozásánál fekvő, rendkívül sűrű és nehezen megközelíthető trópusi dzsungel. A terület geográfiailag izolált, ami elősegítette számos endemikus (csak itt élő) állatfaj, mint például a kongói páva és a keleti síkvidéki gorilla (Grauer gorilla) fennmaradását. Ugyanez az elszigeteltség és a sűrű lombozat tette az erdőt a 20. század közepétől kezdve (a Simba-lázadás óta) a fegyveres milíciák tökéletes búvóhelyévé. Az erdő mélyén a természetvédelmi munka jelenleg szinte lehetetlen, a fakitermelés és az ásványkincsek illegális bányászata ellenőrizhetetlenül zajlik. Földrajz K7 — Elszigetelt egyenlítői erdők és konfliktuszónák ökológiája.",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [],
-      hu: ["A Kongó-medence egyik legelzártabb, sűrű primer esőerdeje.", "A Grauer gorillák (keleti síkvidéki gorillák) egyik utolsó menedéke.", "Geográfiai adottságai miatt utakon szinte teljesen megközelíthetetlen.", "Évtizedek óta különböző fegyveres milíciák (pl. Mai-Mai) bázisaként szolgál.", "Sűrű vízhálózata táplálja a Lualaba és a Kongó folyók felső szakaszait.", "Itt él a rendkívül ritka és rejtőzködő kongói páva (Afropavo congensis)."],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "lualaba-river-nature-v2",
@@ -205,18 +155,8 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru lualaba-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"]
     },
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Lualaba folyó a Kongó folyó felső, mintegy 1800 kilométer hosszú szakasza. A folyó Katanga tartomány délkeleti hegyvidékén, a zambiai határ közelében ered, majd észak felé tart, átszelve az Upemba-medence mocsárvidékeit és Kisangani városát, ahonnan (a Boyoma-vízesések után) már Kongó néven folytatja útját. A Lualaba a keleti tartományok legfontosabb természetes közlekedési és kereskedelmi útvonala, hatalmas uszályok (baleinières) százai közlekednek rajta. A folyó szakaszosan hajózható, mivel számos vízesés (pl. Pokol Kapuja, Boyoma) szakítja meg az útját, ami a gyarmati időkben megkövetelte a párhuzamos vasútvonalak kiépítését az áruk átrakodásához. Földrajz K7 — Folyórendszerek kialakulása és szakaszos hajózhatóság.",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [],
-      hu: ["A Kongó folyó hivatalos elnevezése a forrástól Kisangani városáig.", "Mintegy 1800 kilométer hosszú, dél-észak irányban szeli át az országot.", "Átfolyik a hatalmas, madarakban gazdag Upemba mocsárvidéken.", "Több ponton vízesések szakítják meg, amelyek megakadályozzák a folyamatos hajózást.", "Déli szakaszán fontos réz- és kobaltszállító útvonal volt történelmileg.", "Kisanganinál a híres Boyoma-vízeséseken (Stanley Falls) keresztül ereszkedik alá."],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "kivu-lake-nature-v2",
@@ -241,18 +181,8 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kivu-lake-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"]
     }, image: "/poi-images/kivu-lake-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Kivu-tó a Nagy-tavak régiójának egyik legszebb, de egyben legveszélyesebb tava is, amely a Kongói Demokratikus Köztársaság és Ruanda határán fekszik. A több mint 2700 négyzetkilométeres, lenyűgöző hegyekkel körülvett tó vulkanikus eredetű, és a Kelet-Afrikai árokrendszerben helyezkedik el. Különlegessége és veszélye a mélyvizében oldott hatalmas mennyiségű metán- és szén-dioxid-gázban rejlik. Bár ez a \\\"robbanó tó\\\" potenciálisan halálos limnológiai kitörést (gázkitörést) okozhat, a mélytengeri gázt napjainkban már technológiai eljárásokkal szivattyúzzák, hogy elektromos áramot termeljenek belőle. A tó emellett fontos kereskedelmi útvonal Bukavu és Goma városai között. Földrajz K8 — Limnológiai gázkitörések veszélye és a metánkitermelés.",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [],
-      hu: ["A Nagy-hasadékvölgy egyik vulkanikus eredetű tava Kongó és Ruanda határán.", "Körülbelül 1460 méteres tengerszint feletti magasságban, hegyek között fekszik.", "Mélyvize hatalmas mennyiségű (kb. 60 km³) oldott metángázt és szén-dioxidot rejt.", "A felhalmozódott gázok miatt fennáll a katasztrofális gázkitörés (limnológiai kitörés) veszélye.", "A gázt jelenleg ipari méretekben szivattyúzzák áramtermelés céljából (főleg a ruandai oldalon).", "Legnagyobb kongói kikötővárosai Goma (északon) és Bukavu (délen)."],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "kasai-river-nature-v2",
@@ -277,18 +207,8 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kasai-river-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"]
     }, image: "/poi-images/kasai-river-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "",
-      hu: "A Kasai folyó a Kongó folyó egyik legnagyobb és legjelentősebb bal oldali mellékfolyója, amely Angolában ered, majd észak felé folyva szeli át a róla elnevezett kongói tartományokat (Kasai, Kasai-Central). A 2153 kilométer hosszú folyó a gyémántbányászat szinonimája: medre és mellékfolyóinak (pl. Tshikapa) hordaléka a világ egyik leggazdagabb alluviális (hordalékos) gyémántlelőhelye. A gyémántásás következtében a folyó vize sok helyen iszapossá és szennyezetté vált, és a meder eróziója is felgyorsult. Emellett a Kasai folyó (Ilebo városától) kulcsfontosságú vízi szállítási útvonal Kinshasa felé a délkeleti bányavidékekről érkező réz és egyéb áruk számára. Földrajz K6 — Alluviális gyémántbányászat és folyami hidrológia.",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [],
-      hu: ["A Kongó folyó hatalmas, 2153 km hosszú bal parti mellékfolyója.", "Forrásvidéke Közép-Angolában található.", "Medre és homokpadjai Kongó legfontosabb hordalékgyémánt-lelőhelyeit rejtik.", "A folyón a kotróhajós és kézi gyémántmosás súlyos ökológiai károkat okozott.", "Ilebo városától északra fontos és viszonylag könnyen hajózható kereskedelmi útvonal.", "A Kwango és a Sankuru folyók a legfőbb mellékvizei."],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "upemba-lake-nature-v2",
@@ -313,18 +233,8 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru upemba-lake-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"]
     }, image: "/poi-images/upemba-lake-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "",
-      hu: "Az Upemba-tó a Lualaba folyó (felső Kongó) medencéjében, Haut-Lomami tartományban elterülő kiterjedt tavak és mocsarak rendszerének központja. A tó sekély vize egy hatalmas, süllyedékben lévő vizesélőhelyet (Upemba-depresszió) alkot, amely az Upemba Nemzeti Park része. Ez az ökoszisztéma az esős és száraz évszakok váltakozásával drasztikusan változtatja a méretét. Az Upemba-tó és a környező mocsarak elengedhetetlen fészkelő- és táplálkozóhelyet biztosítanak számtalan vándormadárnak és endemikus halfajnak. Emellett a tavat szegélyező síkságok a prekoloniális afrikai kultúrák (pl. Luba Királyság) fontos központjai voltak, gazdag régészeti leletekkel (Sanga-kultúra). Földrajz K6 — Szezonális vizesélőhelyek és mocsári ökológia.",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [],
-      hu: ["Sekély tó a Lualaba folyó hatalmas, mocsaras süllyedékében (Haut-Lomami).", "A vízszint és a tó kiterjedése a száraz és nedves évszakok szerint drasztikusan változik.", "A régió több kisebb tavával (pl. Kisale) együtt egy kiterjedt vizesélőhelyet alkot.", "Rendkívül fontos madárélőhely és halászati terület a helyi lakosság számára.", "Környékén virágzott a fejlett, 8. századra visszanyúló vaskori Upemba (Sanga) kultúra.", "Szigorúan védett, bár a halászat és az orvvadászat kihívást jelent az állományra."],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ruwenzori-mountains-nature-v2",

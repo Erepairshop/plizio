@@ -86,11 +86,11 @@ export const poiExtraBahamasNatureV2: POI[] = [
     parent: "BS-CI",
     coords: [-75.45, 24.34],
     name: { de: "Katzeninsel", hu: "Macska-sziget", ro: "Insula Cat", en: "Cat Island" },
-    description: { de: "Eine unberührte Insel mit dem höchsten Punkt der Bahamas, Mount Alvernia.", hu: "Érintetlen sziget a Bahamák legmagasabb pontjával, a Mount Alverniával.", ro: "O insulă neatinsă, cu cel mai înalt punct din Bahamas, Muntele Alvernia.", en: "An unspoiled island featuring the highest point in The Bahamas, Mount Alvernia." },
+    description: { de: "Eine unberührte Insel mit dem höchsten Punkt der Bahamas, Mount Alvernia.", hu: "Érintetlen sziget a Bahamák legmagasabb pontjával, a Mount Alverniával.", ro: "Cat Island este una dintre cele mai puțin dezvoltate și naturale insule din Bahamas, renumită pentru dealurile sale și vegetația luxuriantă. Insula oferă oportunități excelente pentru ecoturism și drumeții.", en: "An unspoiled island featuring the highest point in The Bahamas, Mount Alvernia." },
     facts: {
       de: ["Unberührte Strände", "Hügeliges Gelände", "Reiche Obeah-Folklore"],
       hu: ["Érintetlen strandok", "Dombos terep", "Gazdag Obeah folklór"],
-      ro: ["Plaje virgine", "Teren deluros", "Folclor bogat Obeah"],
+      ro: ["Relief deluros", "Vegetație luxuriantă", "Zona protejată", "Potențial ecoturistic"],
       en: ["Unspoiled beaches", "Hilly terrain", "Rich Obeah folklore"]
     }, image: "/poi-images/cat-island-nature-v2.webp",
     descriptionAdvanced: {

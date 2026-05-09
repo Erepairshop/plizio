@@ -21,12 +21,8 @@ export const poiExtraRwandaNatureV2: POI[] = [
     factsAdvanced: {
       ro: ["Unul dintre Marile Lacuri Africane, situat în Valea Riftului.", "Suprafață totală de aproximativ 2.700 km².", "Adâncimea maximă atinge 480 de metri.", "Nu conține specii periculoase precum crocodilii.", "Sursă majoră de energie datorită depozitelor de metan.", "Găzduiește peste 28 de specii de pești endemici.", "Nod vital pentru transportul comercial între orașele de coastă."]
     },
-    descriptionAdvanced: {
-      de: "Der Kiwusee ist das spektakulärste aquatische Ökosystem Ruandas und einer der tiefsten Seen des afrikanischen Grabenbruchs. Seine Natur ist geprägt von azurblauem Wasser, grünen Hügeln und einer weltweit einzigartigen geologischen Besonderheit: dem Vorkommen von gelöstem Methangas in seinen Tiefen. Als natürliches Landmark bietet der See Lebensraum für zahlreiche Fischarten, darunter die beliebten Sambaza-Sardinen. Die unberührten Uferlandschaften und die zahlreichen Inseln machen ihn zu einem Paradies für den Ökotourismus. Der Kiwusee ist nicht nur eine Quelle für Energie und Nahrung, sondern auch ein Ort von überwältigender natürlicher Schönheit, der das Klima und die Lebensweise im Westen Ruandas maßgeblich beeinflusst. Biologie K4 - Seen und Wasserökosysteme."
-    },
-    factsAdvanced: {
-      de: ["Einer der größten Binnenseen Afrikas (2.700 km²).", "Gehört zu den wenigen 'explodierenden Seen' weltweit durch Methangas.", "Maximale Tiefe von etwa 480 Metern.", "Befindet sich im Albertinischen Grabenbruch.", "Reich an endemischen Fischarten wie Tilapia.", "Wichtigster Wasserspeicher für den Westen Ruandas."]
-    }, image: "/poi-images/lake-kivu-nature-v2.webp"},
+    
+     image: "/poi-images/lake-kivu-nature-v2.webp"},
   {
     id: "nyungwe-forest-nature-v2",
     type: "forest",
@@ -84,12 +80,8 @@ export const poiExtraRwandaNatureV2: POI[] = [
     factsAdvanced: {
       ro: ["Cel mai lung râu din Rwanda și principalul afluent al Nilului Victoria.", "Formează o barieră naturală lungă pe granița cu Tanzania.", "Alimentează o rețea de peste 10 lacuri în estul țării.", "Numele său a fost adoptat de cel mai mare parc național rwandez.", "Cunoscut pentru populațiile mari de crocodili de Nil.", "Jucat un rol istoric în rutele comerciale ale regiunii.", "Ecosistem protejat prin convenții internaționale pentru zone umede."]
     },
-    descriptionAdvanced: {
-      de: "Der Akagera-Fluss ist einer der mächtigsten Ströme Ostafrikas und bildet die natürliche Grenze Ruandas zu Tansania. Er entsteht aus der Vereinigung von Nyabarongo und Akanyaru und speist die Seen des Akagera-Nationalparks. Seine Natur ist geprägt von spektakulären Wasserfällen (wie den Rusumo-Fällen) und tiefen Papyrus-Sümpfen. Der Fluss ist die hydrologische Grundlage für den Osten Ruandas und spielt eine entscheidende Rolle für die Tierwanderungen im Nationalpark. Historisch und geografisch ist der Akagera als bedeutendster Zufluss des Viktoriasees und damit als Hauptquellfluss des Weißen Nils von weltweiter Relevanz. Földrajz K7 - Internationale Flusssysteme."
-    },
-    factsAdvanced: {
-      de: ["Bedeutendster Zufluss des Viktoriasees.", "Bildet die gesamte Ostgrenze Ruandas zu Tansania.", "Bekannt für die spektakulären Rusumo-Wasserfälle.", "Lebensraum für Nilkrokodile und Flusspferde.", "Kernstück des Akagera-Sumpf-Ökosystems.", "Wichtige Route für den regionalen Wasseraustausch."]
-    }, image: "/poi-images/akagera-river-nature-v2.webp"},
+    
+     image: "/poi-images/akagera-river-nature-v2.webp"},
   {
     id: "lake-burera-nature-v2",
     type: "lake",
@@ -109,12 +101,8 @@ export const poiExtraRwandaNatureV2: POI[] = [
     factsAdvanced: {
       ro: ["Lac de baraj vulcanic situat la o altitudine de 1.862 metri.", "Aproape de granița cu Uganda în districtul Burera.", "Legat de Lacul Ruhondo prin cascada Ntaruka.", "Inima peisajului muntos din Provincia de Nord.", "Fără specii periculoase, apele sunt foarte calme.", "Punct de belvedere panoramic spre vulcanul Muhabura.", "Sursă importantă pentru energia hidroelectrică locală."]
     },
-    descriptionAdvanced: {
-      de: "Der Burera-See ist das Juwel im Norden Ruandas und besticht durch seine tiefblaue Farbe und die dramatische Kulisse der Virunga-Vulkane. Zusammen mit seinem Zwillingssee Ruhondo bildet er ein einzigartiges limnologisches System. Die Natur des Sees ist geprägt von steilen Ufern, kleinen Inseln und einer reichen Fischfauna. Der See entstand durch vulkanische Lavaströme, die den Abfluss lokaler Flüsse blockierten, was ihn zu einem faszinierenden Beispiel für die geologische Formung der Landschaft macht. Für Naturliebhaber bietet Burera eine friedliche Alternative zu den größeren Seen des Landes. Er ist ein wichtiger Wasserspeicher und trägt durch Wasserkraftprojekte zur Energieversorgung der Region bei. Biologie K4 - Vulkanische Seen."
-    },
-    factsAdvanced: {
-      de: ["Malerischer Kratersee am Fuße des Muhabura.", "Entstanden durch vulkanische Blockierung von Flusstälern.", "Teil der spektakulären 'Twin Lakes' Region.", "Wichtiger Standort für die ökologische Binnenfischerei.", "Bietet Lebensraum für zahlreiche endemische Algenarten.", "Zentrum für nachhaltigen Kanu- und Bootstourismus."]
-    }, image: "/poi-images/lake-burera-nature-v2.webp"},
+    
+     image: "/poi-images/lake-burera-nature-v2.webp"},
   {
     id: "lake-ruhondo-nature-v2",
     type: "lake",
@@ -134,12 +122,8 @@ export const poiExtraRwandaNatureV2: POI[] = [
     factsAdvanced: {
       ro: ["Situat la o altitudine de aproximativ 1.764 metri.", "Al doilea dintre cele două lacuri gemene vulcanice.", "Înconjurat de dealuri verzi cu pante foarte abrupte.", "Găzduiește specii de pești endemici și numeroase păsări.", "Punct de acces pentru turismul de aventură cu caiacul.", "Vederi uluitoare spre masivul vulcanic Virunga.", "Ecosistem protejat pentru importanța sa hidrologică."]
     },
-    descriptionAdvanced: {
-      de: "Der Ruhondo-See ist der direkte Nachbar des Burera-Sees und bildet mit ihm das Duo der berühmten 'Twin Lakes' im Norden Ruandas. Seine Natur ist geprägt von einer tiefgrünen Wasserfläche und den steil aufragenden Hängen der Virunga-Vulkane. Der See ist ein wichtiges Ökosystem für zahlreiche Wasservögel und dient den lokalen Gemeinschaften als reiche Fischquelle. Die geologische Geschichte des Ruhondo ist eng mit dem Vulkanismus der Region verknüpft, da Lavaströme einst den natürlichen Abfluss versperrten und so dieses malerische Becken schufen. Besucher schätzen die Stille und die spektakulären Reflexionen der Berge auf der Wasseroberfläche. Biologie K4 - Ökosysteme von Binnenseen."
-    },
-    factsAdvanced: {
-      de: ["Teil der spektakulären Zwillingsseen im Musanze-Gebiet.", "Geologisch durch vulkanische Blockade entstanden.", "Wichtiger Lebensraum für Eisvögel und Reiher.", "Dient der Regulierung des Wasserhaushalts für die Ntaruka-Wasserkraft.", "Umgeben von intensiv genutzten Terrassenfeldern.", "Bietet Panorama-Aussichten auf den Mount Muhabura."]
-    }, image: "/poi-images/lake-ruhondo-nature-v2.webp"},
+    
+     image: "/poi-images/lake-ruhondo-nature-v2.webp"},
   {
     id: "mount-bisoke-nature-v2",
     type: "mountain",
@@ -235,12 +219,8 @@ export const poiExtraRwandaNatureV2: POI[] = [
     factsAdvanced: {
       ro: ["Singurul parc de tip 'Big Five' safari din Rwanda.", "Suprafață de peste 1.100 km² de biodiversitate protejată.", "Adăpostește rari rinoceri negri și lei reintroduși recent.", "Include unul dintre cele mai mari sisteme de zone umede din regiune.", "Găzduiește peste 500 de specii de păsări identificate.", "Destinație principală pentru safari auto și croaziere pe lac.", "Sursă majoră de venituri din ecoturism pentru Provincia de Est."]
     },
-    descriptionAdvanced: {
-      de: "Der Akagera-Nationalpark im Osten Ruandas bietet einen faszinierenden Kontrast zu den bergigen Regionen des Westens. Geprägt von weiten Savannen, sanften Hügeln und einem komplexen System aus Seen und Feuchtgebieten, ist er Ruandas einzige Big-Five-Destination. Die Natur hier ist wild und vielfältig; Löwen, Nashörner, Elefanten und Leoparden streifen durch das Grasland, während Flusspferde und Krokodile die Gewässer bewohnen. Akagera ist ein Paradebeispiel für erfolgreiches Parkmanagement und Wiederansiedlungsprojekte. Der Park bietet eine authentische afrikanische Safari-Erfahrung und unterstreicht die landschaftliche Vielfalt Ruandas, die von Regenwäldern bis hin zu Trockensavannen reicht. Biologie K4 - Das Ökosystem der Savanne."
-    },
-    factsAdvanced: {
-      de: ["Einziger Savannen-Nationalpark in Ruanda.", "Heimat der 'Big Five' (Löwe, Leopard, Elefant, Nashorn, Büffel).", "Größtes geschütztes Feuchtgebiet in Zentralafrika.", "Grenzt an den Akagera-Fluss und Tansania.", "Wichtiges Refugium für den seltenen Schuhschnabel-Storch.", "Erfolgreiche Privatisierung und Schutz durch African Parks."]
-    }, image: "/poi-images/akagera-national-park-nature-v2.webp"},
+    
+     image: "/poi-images/akagera-national-park-nature-v2.webp"},
   {
     id: "gishwati-mukura-nature-v2",
     type: "forest",
@@ -337,12 +317,8 @@ export const poiExtraRwandaNatureV2: POI[] = [
     factsAdvanced: {
       ro: ["Cel mai lung râu aflat în totalitate pe teritoriul Rwandei.", "Alimentează numeroase proiecte de irigații și hidrocentrale.", "Formează o barieră naturală între mai multe provincii.", "Valea râului adăpostește ecosisteme bogate de păsări acvatice.", "Sursă importantă de materiale de construcții (nisip și argilă).", "Monitorizat constant pentru calitatea apei și controlul eroziunii.", "Componentă vitală a bazinului superior al Nilului."]
     },
-    descriptionAdvanced: {
-      de: "Der Nyabarongo ist der längste Fluss Ruandas und die wichtigste Lebensader des Landes. Er entspringt im Nyungwe-Regenwald und windet sich in unzähligen Schleifen durch das gesamte Staatsgebiet, bevor er sich mit dem Akanyaru vereinigt und den Akagera bildet. Die Natur des Flusses ist geprägt von weiten Überschwemmungsebenen und fruchtbaren Tälern, die intensiv landwirtschaftlich genutzt werden. Der Nyabarongo ist zudem eine bedeutende Energiequelle durch Wasserkraftwerke und ein wichtiges Transportmittel für lokale Gemeinschaften. Ökologisch ist der Fluss jedoch durch Sedimentation und Bergbauaktivitäten herausgefordert, was ihn zu einem zentralen Thema des nationalen Umweltschutzes macht. Földrajz K7 - Flussläufe und ihre Bedeutung."
-    },
-    factsAdvanced: {
-      de: ["Längster Fluss innerhalb Ruandas (ca. 300 km).", "Hauptquellfluss des Nils in Ruanda.", "Entspringt im Distrikt Nyamagabe im Primärwald.", "Bedeutend für die Stromerzeugung durch Wasserkraft.", "Bildet weite Sumpfgebiete, die als Vogelschutzgebiete dienen.", "Haupttransportweg für Agrarprodukte in Zentralsüd-Ruanda."]
-    }, image: "/poi-images/nyabarongo-river-nature-v2.webp"},
+    
+     image: "/poi-images/nyabarongo-river-nature-v2.webp"},
   {
     id: "lake-ihema-nature-v2",
     type: "lake",
@@ -362,12 +338,8 @@ export const poiExtraRwandaNatureV2: POI[] = [
     factsAdvanced: {
       ro: ["Cel mai mare lac din interiorul Parcului Național Akagera.", "Aria suprafeței de apă este de aproximativ 90 km².", "Adăpostește una dintre cele mai mari concentrații de hipopotami.", "Habitat crucial pentru crocodilul de Nil în Rwanda.", "Punct strategic pentru birdwatching internațional.", "Se învecinează direct cu granița naturală cu Tanzania.", "Sursă vitală de apă pentru fauna sălbatică în sezonul secetos."]
     },
-    descriptionAdvanced: {
-      de: "Der Ihema-See ist das größte Gewässer innerhalb des Akagera-Nationalparks und ein Highlight für jeden Safarigast. Seine Natur ist wild und unberührt; die Ufer sind gesäumt von Papyrus-Sümpfen, in denen zahlreiche Flusspferde und Krokodile leben. Der See ist zudem ein international bedeutender Standort für die Vogelbeobachtung, mit einer der höchsten Dichten an Wasservögeln in Ostafrika. Eine Bootsfahrt auf dem Ihema ermöglicht Begegnungen mit Elefanten, die zum Trinken ans Ufer kommen, und bietet Einblicke in ein intaktes aquatisches Ökosystem der Savanne. Ihema symbolisiert die wilde, wasserreiche Seite des ruandischen Ostens. Biologie K4 - Savannenseen und ihre Fauna."
-    },
-    factsAdvanced: {
-      de: ["Größter See im Akagera-Nationalpark.", "Heimat einer der größten Flusspferd-Populationen der Region.", "Wichtiger Brutplatz für den bedrohten Schuhschnabel-Storch.", "Umgeben von weiten Papyrus-Gürteln.", "Ort für geführte Safari-Bootsfahrten.", "Sichert das Überleben der Großsäuger während der Trockenzeit."]
-    }, image: "/poi-images/lake-ihema-nature-v2.webp"},
+    
+     image: "/poi-images/lake-ihema-nature-v2.webp"},
   {
     id: "mukungwa-river-nature-v2",
     type: "river",
@@ -387,12 +359,8 @@ export const poiExtraRwandaNatureV2: POI[] = [
     factsAdvanced: {
       ro: ["Principalul curs de apă care drenează bazinul vulcanilor.", "Alimentat prin cascada Ntaruka din Lacul Burera.", "Popular pentru turismul de aventură (canoe și rafting).", "Traversează zone agricole extrem de productive.", "Găzduiește mai multe micro-centrale hidroelectrice.", "Biodiversitate bogată de-a lungul malurilor sale înverzite.", "Afluent important al sistemului râului Nyabarongo."]
     },
-    descriptionAdvanced: {
-      de: "Der Mukungwa-Fluss ist ein bedeutendes Gewässer im Norden Ruandas, das das Wasser aus den Vulkanregionen und den Zwillingsseen Burera und Ruhondo abführt. Seine Natur ist geprägt von einer hohen Fließgeschwindigkeit und zahlreichen Stromschnellen, was ihn zu einer der wichtigsten Quellen für die Stromerzeugung des Landes macht. Der Fluss durchquert fruchtbare Vulkanlandschaften und ist lebensnotwendig für die Bewässerung der Kartoffel- und Gemüsefelder in der Musanze-Region. Mukungwa ist zudem ein beliebtes Ziel für Abenteuertouristen, die hier Kanutouren durch die malerische Hügellandschaft unternehmen. Er verdeutlicht die dynamische Verbindung zwischen Vulkanismus, Wasserhaushalt und Landwirtschaft. Földrajz K7 - Gebirgsflüsse und Energienutzung."
-    },
-    factsAdvanced: {
-      de: ["Hauptabfluss der Zwillingsseen Burera und Ruhondo.", "Speist bedeutende Wasserkraftwerke (Ntaruka und Mukungwa).", "Bedeutendster Fluss der Nordprovinz.", "Beliebtes Ziel für Wildwasser-Kajak und Kanu-Safaris.", "Wichtige Wasserquelle für die Stadt Musanze.", "Geprägt durch kristallklares Wasser aus vulkanischen Quellen."]
-    }, image: "/poi-images/mukungwa-river-nature-v2.webp"},
+    
+     image: "/poi-images/mukungwa-river-nature-v2.webp"},
   {
     id: "rurubu-river-nature-v2",
     type: "river",

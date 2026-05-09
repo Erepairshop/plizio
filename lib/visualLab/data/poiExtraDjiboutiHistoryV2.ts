@@ -20,9 +20,7 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Wurde im Jahr 1906 offiziell eingeweiht.", "Befindet sich im historischen Viertel von Dschibuti-Stadt.", "Gilt als architektonisches Wahrzeichen der Hauptstadt.", "Kombiniert osmanische und klassische arabische Bauelemente.", "Wurde im Laufe der Jahrzehnte mehrfach behutsam restauriert.", "Bietet Platz für über tausend Gläubige bei großen Gebeten."]
     },
-    factsAdvanced: {
-      ro: ["Fondată la începutul secolului al XX-lea.", "Situată în cartierul istoric al orașului Djibouti.", "Reprezintă un punct de referință arhitectural.", "Arhitectură specifică cu influențe arabe clasice.", "A fost restaurată în mai multe rânduri.", "Capacitate mare de primire pentru rugăciuni comune."]
-    }
+    
   },
     description: {
       de: "Diese markante Moschee im Herzen von Dschibuti-Stadt wurde 1906 erbaut und ist eines der bekanntesten historischen Symbole der Hauptstadt.",
@@ -54,9 +52,7 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Umfasst hunderte von antiken Gravuren auf Basaltgestein.", "Befindet sich in der abgelegenen nördlichen Region Tadjourah.", "Stellt Tiere dar, die heute in dieser Region ausgestorben sind.", "Liefert Beweise für klimatische Veränderungen über Jahrtausende.", "Belegt eine kontinuierliche menschliche Besiedlung seit der Jungsteinzeit.", "Gilt als eine der größten Felskunst-Galerien des afrikanischen Kontinents."]
     },
-    factsAdvanced: {
-      ro: ["Include sute de gravuri rupestre antice.", "Sit situat în regiunea de nord a țării.", "Petroglifele prezintă animale dispărute local.", "Oferă date despre climatul preistoric al regiunii.", "Atestă prezența umană din perioadele timpurii.", "Sit protejat pentru valoarea arheologică excepțională."]
-    }
+    
   },
     description: {
       de: "Ein außergewöhnliches prähistorisches Felskunst-Areal, das Tausende von Gravuren aus der Jungsteinzeit zeigt, die Tiere und das menschliche Leben darstellen.",
@@ -88,9 +84,7 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Der erste Turm wurde 1889 von den französischen Behörden erbaut.", "Strategisch günstig am nördlichen Eingang zum Golf von Tadjoura gelegen.", "Essenziell für die Sicherheit des Schiffsverkehrs durch die Meerenge.", "Wahrzeichen der frühen französischen Präsenz in der Region Obock.", "Spielt auch heute noch eine aktive Rolle im Navigationssystem.", "Die Region ist bekannt für ihre starken und tückischen Meeresströmungen."]
     },
-    factsAdvanced: {
-      ro: ["Construit de autoritățile coloniale franceze.", "Situat strategic la intrarea în Golful Tadjourah.", "Esențial pentru siguranța traficului maritim prin strâmtoare.", "Structură metalică înaltă, vizibilă de la mare distanță.", "Joacă un rol activ în sistemul de navigație actual.", "Zona este caracterizată de curenți marini puternici."]
-    }
+    
   },
     description: {
       de: "Der ursprüngliche Leuchtturm wurde Ende des 19. Jahrhunderts von den Franzosen erbaut, um die Schifffahrt am gefährlichen Eingang zum Roten Meer zu leiten.",
@@ -122,9 +116,7 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Im späten 19. Jahrhundert zur Grenzsicherung befestigt.", "Strategisch positioniert an den traditionellen Landhandelsrouten.", "Hauptsächlich aus lokalem Gestein und Korallenkalk erbaut.", "Diente als wichtiger militärischer Beobachtungsposten.", "Bekannt für das gescheiterte russische Kolonialprojekt 1889.", "Die Ruinen gelten heute als bedeutendes historisches Denkmal."]
     },
-    factsAdvanced: {
-      ro: ["Fortificat în secolul al XIX-lea.", "Situat strategic pe rutele comerciale terestre.", "Construit în principal din piatră locală.", "A servit drept punct de observație militară.", "Zona a cunoscut schimbări politice frecvente.", "Ruinele sunt un sit de interes istoric local."]
-    }
+    
   },
     description: {
       de: "Die Ruinen dieses Forts erinnern an den kurzlebigen Versuch Russlands im Jahr 1889, eine Kolonie namens 'Neu-Moskau' in Afrika zu gründen.",

@@ -23,15 +23,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Moroni became the official capital of the Comoros in 1962.", "Mount Karthala, overlooking the city, stands at 2,361 meters.", "The historic Medina district dates back to the 10th century.", "The city's architecture showcases a blend of Arab and Swahili influences.", "Moroni's port handles the majority of the nation's imports and exports.", "The climate is tropical-maritime, characterized by high humidity.", "It is the main administrative and political center of the Union of the Comoros."]
     },
-    factsAdvanced: {
-      ro: ["Capitala Uniunii Comorelor", "Situat la baza muntelui Karthala", "Populație de aproximativ 50.000 locuitori", "Port principal al țării", "Fondat în secolul al X-lea", "Centrul cultural al arhipelagului"]
-    },
-    factsAdvanced: {
-      hu: ["A Karthala-vulkán 2361 méteres magasságával a világ egyik legaktívabb pajzsvulkánja.", "Moroni 1962 óta tölti be a Comore-szigetek fővárosának szerepét.", "A város történelmi központja, a Medina, a 10. században kezdett kiépülni.", "A helyi kikötő az ország legfontosabb tengeri kapuja, a kereskedelmi áruk döntő része itt érkezik.", "Moroni éghajlata trópusi-maritim, magas páratartalommal és jelentős csapadékkal.", "A város egyedi építészeti öröksége a szuahéli kultúra és az iszlám hagyományok szimbiózisát tükrözi.", "Moroni stratégiai elhelyezkedése lehetővé teszi a szigetközi közlekedés koordinálását."]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt seit 1962", "Gelegen auf 0 bis 50m Meereshöhe", "Wichtigster Hafen der Insel Grande Comore", "Karthala ist 2361m hoch", "Klimazone tropisch-maritim", "Zentrum der Regierung", "Stadtgründung im 10. Jahrhundert"]
-    }
+    
+    
+    
   },
     facts: {
       de: ["Größte Stadt des Landes", "Wichtiger Hafen am Indischen Ozean", "Gegründet im 10. Jahrhundert"],
@@ -60,15 +54,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Mutsamudu is the administrative and commercial capital of Anjouan.", "The city's citadel, built in the 18th century, is a major historical landmark.", "It hosts the most modern deep-water port in the Comorian archipelago.", "The city plays a pivotal role in exporting ylang-ylang and vanilla.", "Founded in 1482, it retains significant medieval architectural features.", "The population is approximately 25,000, continuing to grow as a trade center.", "It handles nearly 40% of the country's total agricultural exports."]
     },
-    factsAdvanced: {
-      ro: ["Capitala insulei Anjouan", "Fondat în anul 1482", "Al doilea oraș ca mărime din țară", "Port comercial important", "Cunoscut pentru cetatea sa istorică", "Arhitectură de tip medina"]
-    },
-    factsAdvanced: {
-      hu: ["Mutsamudu Anjouan szigetének gazdasági központja, a legfontosabb mélyvízi kikötővel.", "A város feletti citadellát a 18. században építették, ma az egyik legfontosabb történelmi látnivaló.", "Az ország ylang-ylang illóolaj-termelésének központi elosztóhelye.", "A város lakossága meghaladja a 25 000 főt, folyamatos növekedést mutatva.", "A kikötő lehetővé teszi a kereskedelmi kapcsolatok fenntartását Grande Comore-ral.", "A meredek városi utcák és a városképet meghatározó régi épületek a szuahéli várostervezés emlékét őrzik.", "Mutsamudu a Comore-szigeteki agrártermék-export mintegy 40%-át bonyolítja le."]
-    },
-    factsAdvanced: {
-      de: ["Zweitgrößte Stadt der Komoren", "Tiefer Naturhafen", "Historische Zitadelle aus dem 18. Jhd", "Zentrum für Vanilleexport", "Bevölkerung ca. 25.000", "Wichtige Handelsroute Anjouan-Grande Comore", "Steile Stadtgassen"]
-    }
+    
+    
+    
   },
     facts: {
       de: ["Besitzt einen Tiefwasserhafen", "Bekannt für seine historische Zitadelle", "Wichtiges Handelszentrum"],
@@ -97,15 +85,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Fomboni is the capital of the smallest Comorian island, Mohéli.", "It serves as the main gateway to the Mohéli Marine Park.", "The town is known for its quiet, traditional lifestyle and atmosphere.", "Local fishing is a sustainable practice and a primary economic activity.", "It features significant protected nesting sites for marine turtles.", "The population is approximately 15,000, maintaining a small-town character.", "The town serves as a crucial hub for local island trade and maritime conservation."]
     },
-    factsAdvanced: {
-      ro: ["Capitala insulei Mohéli", "Cel mai mic oraș capitală din Comore", "Acces către Parcul Marin Mohéli", "Centru pentru pescuit local", "Situat în golful Fomboni", "Populație de aproximativ 15.000 locuitori"]
-    },
-    factsAdvanced: {
-      hu: ["Fomboni a Comore-szigetek legkisebb szigetének, Mohélinek a közigazgatási központja.", "A közelében található Mohéli-tengeri Park az ország első és egyetlen tengeri védett területe.", "A város gazdaságának gerincét a kisméretű, fenntartható halászat és a mezőgazdaság alkotja.", "Fomboni ismert a tengeri teknősök fészkelőhelyeinek védelméről és a természetközeli turizmusról.", "A település a hagyományos comorei életmód megőrzője, távol a nagyvárosok zajától.", "A városka környéke kiváló terep a trópusi tengeri élővilág tanulmányozására.", "Fomboni piacai az elsődleges kereskedelmi találkozópontok a sziget lakossága számára."]
-    },
-    factsAdvanced: {
-      de: ["Kleinste Inselhauptstadt", "Eingang zum Mohéli-Meerespark", "Fischerei als Hauptwirtschaftszweig", "Traditioneller Lebensstil", "Ruhige Küstenlage", "Bekannt für den Schutz der Meeresschildkröten", "Marktplatz als sozialer Mittelpunkt"]
-    }
+    
+    
+    
   },
     facts: {
       de: ["Ruhige Hafenstadt", "Tor zum Mohéli-Meerespark", "Bedeutendes Fischereizentrum"],
@@ -134,15 +116,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Domoni served as the political center and sultan's residence in the 18th century.", "The town is famous for its intricate, historically carved wooden doors.", "It is one of the oldest settlements on Anjouan, dating back to the 15th century.", "The historic Medina district is noted for its stone-built architecture.", "Domoni remains a candidate for UNESCO World Heritage recognition.", "It was a key stop in the historic spice trade across the Indian Ocean.", "The town has produced several former political leaders of the Comoros."]
     },
-    factsAdvanced: {
-      ro: ["Centru comercial istoric pe Anjouan", "Cunoscut pentru moscheile medievale", "Oraș cu ziduri vechi de protecție", "Loc de naștere al foștilor președinți", "Patrimoniu arhitectural de piatră", "Situat pe coasta de est a insulei"]
-    },
-    factsAdvanced: {
-      hu: ["Domoni Anjouan egyik legrégebbi és kulturálisan legjelentősebb városa.", "Az egykori szultáni rezidencia ma is jelentős történelmi épületekkel rendelkezik.", "A város a híres, művészien faragott, hagyományos comorei faajtóiról vált ismertté.", "Domoni az 1700-as években Anjouan szigetének politikai központja volt.", "A város a fűszerkereskedelem fontos állomása volt az évszázadok során.", "A település utcáin az arab és afrikai kultúrák évszázados összefonódása figyelhető meg.", "Domoni a mai napig az UNESCO-világörökségi jelöltek között szerepel kulturális értékei miatt."]
-    },
-    factsAdvanced: {
-      de: ["Ehemalige Residenz von Sultanen", "Swahili-Architektur als Erbe", "Berühmt für geschnitzte Türen", "Historisches Handelszentrum", "Wichtiger Gewürzmarkt", "UNESCO-Welterbe-Kandidat", "Alter Hafen mit Tradition"]
-    }
+    
+    
+    
   },
     facts: {
       de: ["Ehemalige Hauptstadt von Anjouan", "Berühmt für geschnitzte Holztüren", "Wichtiger Gewürzmarkt"],
@@ -171,15 +147,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Mitsamiouli is the most important northern tourism hub on Grande Comore.", "The town boasts some of the archipelago's best white sand beaches.", "Directly accessible coral reefs support high marine biodiversity.", "It is a renowned center for traditional Comorian dance and folklore.", "The town balances local fishing practices with growing tourism services.", "Geographically, it is located near the northernmost point of Grande Comore.", "The town is a popular destination for international divers and snorkelers."]
     },
-    factsAdvanced: {
-      ro: ["Situat în nordul Grande Comore", "Cunoscut pentru plajele cu nisip alb", "Centru regional agricol", "Populație de aproximativ 10.000 locuitori", "Poartă către coasta de nord", "Aproape de Parcul Marin Mitsamiouli"]
-    },
-    factsAdvanced: {
-      hu: ["Mitsamiouli Grande Comore szigetének legjelentősebb turisztikai központja.", "A part menti korallzátonyok gazdag tengeri biodiverzitásnak adnak otthont.", "A város a szigetország egyik legszebb, fehér homokos strandjával rendelkezik.", "Mitsamiouli a hagyományos comorei tánckultúra egyik legfontosabb őrzője.", "A település a tengeri halászat mellett a turisztikai szolgáltatásokból tartja fenn magát.", "Földrajzilag a sziget legészakibb pontjához közel helyezkedik el.", "A környékbeli vizek népszerűek a búvárkodók és snorkelezők körében."]
-    },
-    factsAdvanced: {
-      de: ["Nördlichstes Tourismuszentrum", "Korallenriffe direkt vor der Küste", "Berühmt für Sandstrände", "Traditionelle Tanzkultur", "Nahe der Inselspitze gelegen", "Fischerei als Lebensgrundlage", "Wichtiger Ort für Wassersport"]
-    }
+    
+    
+    
   },
     facts: {
       de: ["Zentrum des Tourismus", "Berühmt für traditionelle Tänze", "Nahegelegene Korallenriffe"],
@@ -208,15 +178,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Ouani houses the only civilian airport on the island of Anjouan.", "It acts as a primary logistical supplement to the capital, Mutsamudu.", "The cultivation and processing of ylang-ylang are key economic activities.", "The town has experienced rapid infrastructure growth in recent years.", "It serves as a central hub for the island's internal trade.", "The proximity to the airport makes it vital for the island's tourism sector.", "Population growth is driven by employment opportunities in transport and trade."]
     },
-    factsAdvanced: {
-      ro: ["Locația aeroportului din Anjouan", "Oraș de tranzit logistic", "Situat lângă Mutsamudu", "Centru agricol în dezvoltare", "Populație de aproximativ 8.000 locuitori", "Conectează insula prin aer"]
-    },
-    factsAdvanced: {
-      hu: ["Ouani ad otthont Anjouan szigetének egyetlen polgári repülőterének.", "A település a sziget fővárosának, Mutsamudunak a legfontosabb közlekedési kiegészítője.", "Az ylang-ylang termesztése és feldolgozása a város környékének meghatározó tevékenysége.", "A település az utóbbi években gyors infrastrukturális fejlődésen ment keresztül.", "Ouani a sziget belső kereskedelmének egyik alapvető csomópontja.", "A repülőtér közelsége miatt a turizmus szempontjából is kiemelt jelentőségű terület.", "A lakosság száma a repülőtéri munkahelyek és kereskedelem vonzereje miatt folyamatosan nő."]
-    },
-    factsAdvanced: {
-      de: ["Beherbergt Anjouan-Flughafen", "Wichtiger Transitknoten", "Agrarwirtschaftliche Umgebung", "Zentrum für Ylang-Ylang-Handel", "Wachsende Siedlungsstruktur", "Nahe der Hauptstadt gelegen", "Touristische Anlaufstelle"]
-    }
+    
+    
+    
   },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt", "Landwirtschaftliche Umgebung", "Zentrum für Ylang-Ylang"],
@@ -246,15 +210,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Mbéni is a key religious and educational center in northeast Grande Comore.", "Its historic mosques are among the oldest architectural landmarks on the island.", "The town serves as a major marketplace for agricultural produce from surrounding villages.", "Community life is deeply defined by long-standing religious festivals and traditions.", "The town's architecture provides a clear example of traditional Swahili urban structure.", "Its local market is one of the largest agricultural product exchange sites in the region.", "The town community is actively involved in preserving ancient Comorian customs."]
     },
-    factsAdvanced: {
-      ro: ["Situat pe coasta nord-estică", "Centru social și cultural activ", "Cunoscut pentru festivaluri locale", "Populație de aproximativ 7.000 locuitori", "Economie bazată pe agricultură", "Zonă de coastă pitorească"]
-    },
-    factsAdvanced: {
-      hu: ["Mbéni Grande Comore északkeleti részének legjelentősebb vallási oktatási központja.", "A város történelmi mecsetei a sziget legöregebb építészeti emlékei közé tartoznak.", "A település a környékbeli agrártelepülések kereskedelmi elosztóhelye.", "A város élete szorosan összefonódik a vallási fesztiválokkal és hagyományokkal.", "Mbéni építészete jól példázza a hagyományos szuahéli kisvárosi szerkezetet.", "A helyi piac a régió legnagyobb agrártermék-felvevő piaca.", "A város közössége aktívan ápolja az ősi comorei népszokásokat."]
-    },
-    factsAdvanced: {
-      de: ["Wichtiges Handelszentrum im Nordosten", "Berühmt für historische Moscheen", "Zentrum für religiöse Feste", "Umliegende Agrarflächen", "Traditionelle Stadtstruktur", "Kulturelles Erbe der Swahili", "Wichtiger lokaler Marktort"]
-    }
+    
+    
+    
   },
     facts: {
       de: ["Bekannt für religiöse Feste", "Handelszentrum der Region", "Historische Moscheen"],
@@ -284,15 +242,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Foumbouni is the main center for the Badjini region in southern Grande Comore.", "It is one of the best-preserved examples of traditional Swahili trade architecture.", "The local harbor is the primary center for southern island fishing activities.", "The town acts as a central marketplace for produce from southern agricultural zones.", "Historical importance as a commercial center in the region remains evident.", "The urban environment is representative of the southern island's coastal ecosystem.", "The town's historic role has been pivotal in the region's southern trade routes."]
     },
-    factsAdvanced: {
-      ro: ["Situat în sudul Grande Comore", "Istorie bogată în tradiții", "Centru al regiunii Badjini", "Populație de aproximativ 6.500 locuitori", "Port local de pescuit", "Aproape de vulcani activi"]
-    },
-    factsAdvanced: {
-      hu: ["Foumbouni a Grande Comore-sziget déli régiójának legfontosabb központja.", "A település a hagyományos szuahéli kereskedelmi építészet egyik legépebben maradt képviselője.", "A helyi kikötő a sziget déli halászati tevékenységének központja.", "A város a déli mezőgazdasági területek terményeinek legfőbb piaci helyszíne.", "Foumbouni kultúrájában a hagyományos tengeri kereskedelem emléke a mai napig meghatározó.", "A város környezete kiválóan reprezentálja a sziget déli partvidékének növényzetét.", "A település történelmi szerepe a dél-comorei régióban kiemelkedő."]
-    },
-    factsAdvanced: {
-      de: ["Wichtigste Stadt im Süden", "Traditionelle Swahili-Architektur", "Fischereihafen von Bedeutung", "Zentraler Marktort", "Historisch gewachsene Siedlung", "Kultureller Ankerpunkt im Süden", "Handelsposten am Indischen Ozean"]
-    }
+    
+    
+    
   },
     facts: {
       de: ["Traditionelle Architektur", "Hafen für lokale Fischer", "Wichtiger Marktort"],
@@ -322,15 +274,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Iconi was a major former seat of the sultans on Grande Comore.", "The town is known for its dramatic rocky coastline and natural defenses.", "Multiple historical ruins stand as reminders of the town's past prominence.", "Iconi is an iconic site of historical resistance in Comorian heritage.", "The traditional stone-built architecture reflects sophisticated historical building techniques.", "It was one of the earliest and most significant historical political centers.", "The town's heritage is deeply connected to ancient social and ancestral traditions."]
     },
-    factsAdvanced: {
-      ro: ["Fostă capitală de sultanat", "Situat pe o poziție strategică stâncoasă", "Vestigii ale vechilor fortificații", "Istorie medievală complexă", "Populație de aproximativ 6.000 locuitori", "Centru istoric pe Grande Comore"]
-    },
-    factsAdvanced: {
-      hu: ["Iconi Grande Comore egyik legkorábban alapított és történelmileg legfontosabb városa.", "A település hosszú ideig a szultánok székhelyeként és hatalmi központjaként működött.", "A város a drámai sziklás partvonaláról és természetes védműveiről ismert.", "Számos történelmi rom és építmény emlékeztet a város egykori dicsőségére.", "Iconi a comorei történelemben a szabadságért folytatott küzdelmek ikonikus helyszíne.", "A település a hagyományos comorei kőépítészeti kultúra kiemelkedő példája.", "A város szellemi öröksége az ősi comorei társadalmi berendezkedés emlékét őrzi."]
-    },
-    factsAdvanced: {
-      de: ["Ehemalige Sultansresidenz", "Sehr alte Stadtgeschichte", "Spektakuläre Felsküste", "Historische Ruinen vor Ort", "Symbol für den Widerstand", "Wichtiger Ort für Ahnenverehrung", "Traditionelle Steinbauweise"]
-    }
+    
+    
+    
   },
     facts: {
       de: ["Ehemalige Sultansresidenz", "Berühmte Felsküste", "Historische Ruinen"],
@@ -359,15 +305,9 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Nioumachoua is a key ecotourism hub on the island of Mohéli.", "It is located near protected marine reserves with rich biological diversity.", "The local community actively practices and promotes sustainable fishing.", "The town is a prime location for exploring the region's coral reefs.", "Community-based conservation is central to the town's future development.", "It serves as a primary access point to the southern islets.", "The town demonstrates the success of sustainable development in island ecosystems."]
     },
-    factsAdvanced: {
-      ro: ["Situat pe insula Mohéli", "Poartă spre Parcul Marin", "Centru pentru turism sustenabil", "Populație de aproximativ 5.000 locuitori", "Zonă protejată marină", "Punct de plecare pentru explorări"]
-    },
-    factsAdvanced: {
-      hu: ["Nioumachoua Mohéli szigetének déli partvidékén, természetvédelmi területek közvetlen szomszédságában fekszik.", "A város az egyik leggyorsabban fejlődő ökoturisztikai központ a szigetországban.", "A település környéke kiemelkedő biológiai sokféleséggel rendelkezik a tengeri faunában.", "A helyiek a turizmus mellett hagyományosan a tengeri halászatra támaszkodnak.", "Nioumachoua a közösségalapú természetvédelem egyik comorei példaképe.", "A városból könnyen megközelíthetők a Mohéli-tengeri Park legszebb szigetei.", "Az itt végzett természetvédelmi munka globálisan is példaértékűnek számít."]
-    },
-    factsAdvanced: {
-      de: ["Zentrum des Ökotourismus", "Südküste von Mohéli", "Reiches maritimes Leben", "Nächstgelegen zu vorgelagerten Inseln", "Traditionelle Fischerdörfer in der Nähe", "Wachsende touristische Infrastruktur", "Hohe Biodiversität"]
-    }
+    
+    
+    
   },
     facts: {
       de: ["Zentrum des Ökotourismus", "Blick auf vorgelagerte Inseln", "Reiche Meeresfauna"],
@@ -395,12 +335,8 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Sima is one of the most important agricultural towns in western Anjouan.", "It is a center for the cultivation of high-quality premium vanilla.", "The town's geography is characterized by fertile, hilly landscapes.", "The local economy relies heavily on agricultural product processing.", "The community's livelihood is closely linked to the global spice markets.", "Terraced cultivation is visible in the hills surrounding the town.", "Sima acts as a primary motor for Anjouan's agrarian economy."]
     },
-    factsAdvanced: {
-      ro: ["Situat pe insula Anjouan", "Regiune agricolă fertilă", "Altitudine medie ridicată", "Populație de aproximativ 4.500 locuitori", "Centru pentru producția de vanilie", "Relief muntos caracteristic"]
-    },
-    factsAdvanced: {
-      hu: ["Sima a Comore-szigetek nyugati mezőgazdasági régiójának egyik legfontosabb városa.", "A település a prémium kategóriájú vanília termesztésének központja.", "A város fekvését a termékeny, dombos táj és a trópusi növényzet jellemzi.", "Sima gazdasága nagymértékben a mezőgazdasági termékfeldolgozásra épül.", "A helyi közösség megélhetése szorosan kapcsolódik a globális fűszerpiachoz.", "A domborzati viszonyok miatt a város határaiban jellegzetes teraszos művelés látható.", "A település a Comore-szigeteki agrár-gazdaság egyik motorjának számít."]
-    }
+    
+    
   },
     facts: {
       de: ["Landwirtschaftliches Zentrum", "Bekannt für Vanilleanbau", "Hügelige Umgebung"],
@@ -428,12 +364,8 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Tsembehou is situated in the temperate highlands of Anjouan.", "It is one of the most important centers for Comorian coffee production.", "The town is a popular starting point for highland tourism and trekking.", "Panoramas from the town offer some of the island's best scenic views.", "The cooler climate allows for the cultivation of non-coastal crops.", "Agriculture in the town specializes in high-value highland produce.", "The town provides an extensive network of trails for nature exploration."]
     },
-    factsAdvanced: {
-      ro: ["Situat în centrul Anjouan", "Nod pentru comerț intern", "Economie bazată pe agricultură", "Populație de aproximativ 4.000 locuitori", "Zona muntoasă a insulei", "Punct strategic de legătură"]
-    },
-    factsAdvanced: {
-      hu: ["Tsembehou az Anjouan-felföld mérsékeltebb klímájú régiójában fekszik.", "A település a comorei kávétermelés egyik legfontosabb központja.", "A város környéke népszerű célpont a felföldi turizmus és túrázás számára.", "A környező völgyekre nyíló panoráma Anjouan egyik legszebb kilátását biztosítja.", "A hűvösebb éghajlat miatt itt olyan növények is teremnek, amelyek az alacsonyabb szinteken nem.", "A város gazdasága a speciális felföldi növénytermesztésre szakosodott.", "A helyi közösség gazdag túraútvonal-hálózattal teszi vonzóvá a régiót."]
-    }
+    
+    
   },
     facts: {
       de: ["Mildes Klima", "Bedeutende Kaffeeproduktion", "Wanderwege in der Nähe"],
@@ -461,12 +393,8 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Itsandra was a former royal capital of Grande Comore.", "Proximity to Moroni has driven rapid modern economic and residential growth.", "The town's white sand beaches are among the most popular in the region.", "Ruins of royal palaces stand as reminders of the town's monarchical past.", "Fishing remains a key activity alongside an increasing tourism sector.", "It serves as a vital cultural link between the capital and the northern island regions.", "The town's architecture features a blend of royal historical and modern influences."]
     },
-    factsAdvanced: {
-      ro: ["Fostă capitală regală", "Situat aproape de Moroni", "Ruinele palatului regal", "Istorie bogată în sultani", "Populație de aproximativ 3.500 locuitori", "Patrimoniu istoric semnificativ"]
-    },
-    factsAdvanced: {
-      hu: ["Itsandra az ország egyik legrégebbi és egykori királyi székhelye.", "A város a főváros, Moroni közelsége miatt gyors gazdasági fejlődésen ment át.", "A helyi fehér homokos strandok a legnépszerűbb tengerparti szakaszok közé tartoznak.", "A város történelmi központjában található romok a királyi múltat idézik.", "A halászat mellett az idegenforgalom is kulcsfontosságú a település életében.", "Itsandra fontos kulturális kapocs a főváros és a sziget északi részei között.", "A település építészete a királyi korszak és a modern comorei stílus keveréke."]
-    }
+    
+    
   },
     facts: {
       de: ["Alte königliche Hauptstadt", "Schöner weißer Sandstrand", "Bekannt für Fischfang"],
@@ -495,12 +423,8 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Ntsoudjini is a primary center for religious education on Grande Comore.", "The town was strategically built on a hill for historical defense.", "It houses several historically significant mosques that anchor community life.", "The town is known for its preservation of intellectual and scholarly traditions.", "Its culture is defined by deep adherence to ancient social customs.", "The hill-top setting has helped preserve its distinct cultural isolation.", "Ntsoudjini's community life is heavily centered around religious festivals."]
     },
-    factsAdvanced: {
-      ro: ["Situat pe Grande Comore", "Cunoscut pentru tradiții conservate", "Centru cultural local", "Populație de aproximativ 3.500 locuitori", "Arhitectură tradițională comoriană", "Atmosferă comunitară puternică"]
-    },
-    factsAdvanced: {
-      hu: ["Ntsoudjini Grande Comore egyik legfontosabb vallási oktatási központja.", "A várost egy domb tetejére építették, ami történelmi védettséget biztosított számára.", "A település számos történelmi mecsettel rendelkezik, amelyek a vallási élet központjai.", "A város szellemi öröksége az ősi comorei tudósréteg hagyományait őrzi.", "Ntsoudjini a sziget vallási életének és oktatásának egyik meghatározó helyszíne.", "A közösség aktívan ápolja az iszlám kultúrával összefonódott népi hagyományokat.", "A település domborzati elhelyezkedése és építészete is tükrözi hagyományőrző jellegét."]
-    }
+    
+    
   },
     facts: {
       de: ["Religiöses Bildungszentrum", "Gegründet auf einem Hügel", "Wichtige Moscheen"],
@@ -529,12 +453,8 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Koimbani serves as the administrative and commercial hub for the Oichili region.", "The town is surrounded by expansive coconut plantations and lush vegetation.", "It plays a key role in aggregating agricultural products from rural hinterlands.", "The town acts as a bridge between the island's coast and its interior.", "Administration in Koimbani is central to local governance and development.", "The regional infrastructure relies on Koimbani for local service delivery.", "The town's setting is representative of Grande Comore's eastern plant biodiversity."]
     },
-    factsAdvanced: {
-      ro: ["Situat pe Grande Comore", "Regiune rurală agricolă", "Economie bazată pe culturi locale", "Populație de aproximativ 3.000 locuitori", "Zonă izolată și liniștită", "Peisaj natural nealterat"]
-    },
-    factsAdvanced: {
-      hu: ["Koimbani az Oichili-régió közigazgatási és kereskedelmi központja.", "A települést hatalmas kókuszültetvények és buja trópusi vegetáció veszi körül.", "A városka kulcsszerepet játszik a környékbeli agrártermékek elosztásában.", "Adminisztratív központként a régió életének koordinátora.", "A település a tengerpart és a szigetbelső közötti kereskedelmi kapcsolatok hídja.", "Koimbani környezete a Grande Comore-sziget keleti felének növényvilágát tükrözi.", "A város a régió lakosságának alapvető szolgáltatásokat biztosító központja."]
-    }
+    
+    
   },
     facts: {
       de: ["Regionales Verwaltungszentrum", "Umgeben von Kokospalmen", "Lokaler Handelsplatz"],
@@ -562,9 +482,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Situat pe insula Anjouan", "Rol agricol important", "Regiune muntoasă", "Populație de aproximativ 2.800 locuitori", "Centru de producție locală", "Comunitate rurală activă"]
     },
-    factsAdvanced: {
-      hu: ["Adda-Douéni az Anjouan-sziget keleti felének egyik legnépesebb települése.", "A város élénk piaca az egész keleti régió gazdasági központja.", "A népsűrűség Anjouan egyik legmagasabbja, ami meghatározza a város szerkezetét.", "A mezőgazdasági termékek kereskedelme a város életének alapja.", "A településen a kézműves hagyományok a mai napig a kereskedelem részét képezik.", "Adda-Douéni a keleti szigetrégió kereskedelmi központjaként működik.", "A város szerkezete jól tükrözi a szűkös terület hatékony közösségi hasznosítását."]
-    }
+    
   },
     facts: {
       de: ["Hohe Bevölkerungsdichte", "Handelszentrum für Agrarprodukte", "Lebhafter Markt"],
@@ -591,9 +509,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Situat pe coasta de sud a Anjouan", "Cunoscut pentru plajele sale", "Istorie comercială locală", "Populație de aproximativ 2.500 locuitori", "Zonă de coastă pitorească", "Economie mixtă (pescuit/agricultură)"]
     },
-    factsAdvanced: {
-      hu: ["Moya Anjouan szigetének déli partvidékén, gyönyörű természeti környezetben fekszik.", "A város a tengeri halászat mellett a turisztikai szolgáltatásokra épít.", "A település környéke népszerű célpont a természetkedvelők körében.", "A tengerpart tisztasága és a gazdag tengeri élővilág a régió egyik vonzereje.", "Moya a déli partvidék egyik legfontosabb kis-települése.", "A város a csendes, természetközeli turizmus fejlesztésének mintahelyszíne.", "A halászat és a turizmus egyensúlya biztosítja a közösség fejlődését."]
-    }
+    
   },
     facts: {
       de: ["Schöne Strände", "Wichtiger Fischereiplatz", "Beliebtes Ausflugsziel"],
@@ -620,9 +536,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Situat în zonele înalte Anjouan", "Centru agricol și forestier", "Altitudine ridicată", "Populație de aproximativ 2.500 locuitori", "Peisaj muntos", "Comunitate bazată pe resurse forestiere"]
     },
-    factsAdvanced: {
-      hu: ["Mrémani az Anjouan-felföld déli részén fekszik, hűvösebb klímájú területen.", "A szegfűszegtermesztés a város környékének egyik legfontosabb gazdasági tevékenysége.", "A városból nyíló panoráma Anjouan egyik legszebb kilátását kínálja.", "A hegyvidéki agrárkultúra miatt a növényzet eltér a tengerparti területektől.", "A település a hegyi turizmus és túrázás egyik fontos kiindulópontja.", "Mrémani mezőgazdasági termékei a világpiaci export szempontjából jelentősek.", "A város környezete a felföldi comorei életmód legautentikusabb bemutatója."]
-    }
+    
   },
     facts: {
       de: ["Kühleres Bergklima", "Zentrum für Nelkenanbau", "Panoramablick"],
@@ -650,9 +564,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Situat pe insula Anjouan", "Cunoscut pentru moschei vechi", "Importanță culturală locală", "Populație de aproximativ 2.200 locuitori", "Arhitectură religioasă istorică", "Comunitate tradițională"]
     },
-    factsAdvanced: {
-      hu: ["Mirontsi a főváros, Mutsamudu egyik legfontosabb elővárosi lakóövezete.", "A település népessége folyamatosan nő a gazdasági lehetőségek vonzereje miatt.", "Mirontsi infrastrukturális fejlesztése kiemelt fontosságú a fővárosi régió számára.", "A város a fővárosi munkaerőpiac fontos lakóhelyi bázisa.", "Mirontsi az egyik leggyorsabban fejlődő szuburbanizációs zóna Anjouanon.", "A közoktatási igények a népességnövekedés miatt a városfejlesztés fókuszában állnak.", "A település szoros kapcsolatban áll a fővárosi kereskedelmi hálózattal."]
-    }
+    
   },
     facts: {
       de: ["Nahe am Haupthafen", "Wachsende Bevölkerung", "Küstenlage"],
@@ -680,9 +592,7 @@ export const poiExtraComorosCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Situat pe coasta Mohéli", "Centru regional pentru coastă", "Economie bazată pe pescuit", "Populație de aproximativ 2.000 locuitori", "Acces facil la ocean", "Zonă liniștită și naturală"]
     },
-    factsAdvanced: {
-      hu: ["Wanani Mohéli szigetének egyik meghatározó, hagyományőrző települése.", "A kézműves hagyományok itt a közösségi élet egyik legfontosabb része.", "A város a sziget belsejének mezőgazdasági termelési központja.", "A település megőrizte a hagyományos comorei falusi életmódot.", "Wanani távol a turista-központoktól, a természetközeli életre fókuszál.", "A helyi kézművesség a sziget kulturális örökségének része.", "A település környezete a szigetbelső biodiverzitását és növényvilágát tükrözi."]
-    }
+    
   },
     facts: {
       de: ["Landwirtschaftlich geprägt", "Lokales Handwerk", "Inselinneres"],

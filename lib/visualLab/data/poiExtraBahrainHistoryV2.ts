@@ -1,4 +1,4 @@
-import type { POI } from "./poi";
+﻿import type { POI } from "./poi";
 
 export const poiExtraBahrainHistoryV2: POI[] = [
   {
@@ -58,7 +58,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     },
     description: {
       de: "Eine im 15. Jahrhundert im typisch arabischen Stil erbaute Festung, die vor der Küste Muharraqs lag.",
-      hu: "A 15. században épült, tipikusan arab stílusú erőd, amely Muharrak partjainál feküdt.",
+      hu: "A 15. századból származó erőd, amely stratégiai védelmi pontot jelentett az ország történelme során. Az építmény a tradicionális bahreini építészet ékes példája.",
       ro: "O fortăreață construită în secolul al XV-lea în stil tipic arab, situată în largul coastei Muharraq.",
       en: "A fort built in the 15th century in a typical Arab style, located off the coast of Muharraq."
     },
@@ -69,12 +69,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
         "Restauriert in den 1980ern.",
         "Beliebt für Festivals."
       ],
-      hu: [
-        "Négyzet alakú.",
-        "Henger alakú tornyok.",
-        "Az 1980-as években restaurálták.",
-        "Népszerű fesztiválhelyszín."
-      ],
+      hu: ["15. századi építés", "Stratégiai védelmi pont", "Tradicionális építészet"],
       ro: [
         "Formă pătrată.",
         "Turnuri cilindrice.",
@@ -145,18 +140,13 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       en: "Barbar Temple"
     },
     description: {
-      de: "Ein archäologischer Komplex mit drei übereinander errichteten Tempeln aus der Dilmun-Zeit, dem Gott Enki gewidmet.",
+      de: "Der Barbar-Tempel ist eine archäologische Stätte aus der Dilmun-Kultur, die aus drei aufeinanderfolgenden Tempelbauten besteht. Er stammt aus dem 3. Jahrtausend v. Chr.",
       hu: "Régészeti komplexum a Dilmun korszakból származó három egymásra épült templommal, amelyet Enki istennek szenteltek.",
       ro: "Un complex arheologic cu trei temple construite unul peste altul din perioada Dilmun, dedicate zeului Enki.",
       en: "An archaeological complex with three temples built on top of each other from the Dilmun period, dedicated to the god Enki."
     },
     facts: {
-      de: [
-        "Drei Bauphasen.",
-        "Gewidmet dem Gott Enki.",
-        "Heilige Quelle im Zentrum.",
-        "Entdeckt 1954."
-      ],
+      de: ["Dilmun-Kultur", "3. Jahrtausend v. Chr.", "Archäologische Stätte", "Drei Tempelbauphasen"],
       hu: [
         "Három építési fázis.",
         "Enki istennek szentelték.",
@@ -629,18 +619,13 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       en: "Abu Mahir Fort"
     },
     description: {
-      de: "Eine historische Festung auf Muharraq, die einst den Seeweg zum Perlenfischerhafen bewachte.",
+      de: "Das Abu-Mahir-Fort ist ein historisches Verteidigungsbauwerk auf der Insel Muharraq, das den Hafen schützte. Es ist heute Teil des Pearling-Path-Wanderwegs.",
       hu: "Történelmi erőd Muharrak szigetén, amely egykor a gyöngyhalászkikötő felé vezető tengeri utat őrizte.",
       ro: "O fortăreață istorică pe Muharraq, care păzea cândva ruta maritimă spre portul pescuitorilor de perle.",
       en: "A historic fort on Muharraq that once guarded the sea route to the pearling port."
     },
     facts: {
-      de: [
-        "Teil des Perlenpfades.",
-        "Strategische Verteidigung.",
-        "Oft umgebaut.",
-        "Erste Station der Perlentaucher."
-      ],
+      de: ["Muharraq-Insel", "Historisches Fort", "Pearling-Path-Route", "Ehemaliger Hafenstandort"],
       hu: [
         "A gyöngyhalász ösvény része.",
         "Stratégiai védelem.",

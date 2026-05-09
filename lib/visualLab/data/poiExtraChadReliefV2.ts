@@ -22,15 +22,9 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       en: ["The lowest point in Chad at roughly 150 meters elevation.", "World's most productive source of atmospheric mineral dust.", "Dust storms transport nutrients to the Amazon Basin.", "Site of intense aeolian erosion in the Sahara.", "A critical area for global climatic and biogeochemical cycles.", "Basin topography shaped by millennia of wind activity."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      ro: ["Depresiunea are o altitudine medie de 150-160 metri.", "Este considerată cea mai activă sursă de praf din lume.", "Praful ajunge până în Amazon, fertilizând jungla sud-americană.", "Regiunea a fost în trecut parte a unui lac uriaș, Mega-Ciad.", "Vânturile harmattan ating viteze extrem de ridicate aici.", "Se întinde pe o suprafață de mii de kilometri pătrați."]
-    },
-    factsAdvanced: {
-      de: ["Tiefster Punkt innerhalb des gesamten Tschadbeckens", "Globale Hauptquelle für mineralischen Wüstenstaub", "Dynamische Senke mit wüstenbildenden Prozessen", "Wichtiger Klimafaktor durch interkontinentalen Staubaustrag", "Faszinierend aktive geologische Senkenlandschaft", "Beispiel für Klima-Geologie-Wechselwirkung"]
-    },
+    
+    
+    
     description: {
       de: "Die Bodélé-Depression ist die tiefste Stelle des Tschadbeckens und eine der weltweit aktivsten Quellen für Mineralstaub.",
       hu: "A Bodélé-mélyföld a Csád-medence legmélyebb pontja, és a világ egyik legjelentősebb ásványi porforrása.",
@@ -63,15 +57,9 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Massive sandstone plateau in northeastern Chad.", "Dominant landscape feature with high, wind-sculpted cliffs.", "Forms a natural boundary between northern Saharan regions.", "Sculpted over millions of years by Saharan wind erosion.", "Key landmark along traditional nomadic migration routes.", "Remote area with sparse human settlement."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      ro: ["Platoul este compus în principal din formațiuni de gresie.", "Se situează în regiunea Ennedi-Est.", "Altitudinea sa variază între 500 și 800 de metri.", "Este una dintre zonele cu cea mai redusă populație din Ciad.", "Prezintă dovezi ale unor rețele hidrografice străvechi.", "Eroziunea eoliană a creat structuri geologice unice aici."]
-    },
-    factsAdvanced: {
-      de: ["Abgelegenes, zerklüftetes Sandsteinplateau im Nordosten", "Reich an prähistorischen Fossilienfunden", "Bizarre Felsformationen durch äolische Erosion", "Offenes Archiv der lokalen Erdgeschichte", "Extrem einsame und unberührte Wüstennatur", "Symbol für das geologische Erbe im Nordosten"]
-    },
+    
+    
+    
     description: {
       de: "Ein abgelegenes Sandsteinplateau im Nordosten des Landes, bekannt für seine bizarren Felsformationen und Fossilien.",
       hu: "Távoli homokkőfennsík az ország északkeleti részén, amely bizarr sziklaalakzatairól és fosszíliáiról ismert.",
@@ -104,15 +92,9 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Geological basin located in northern Chad.", "Characterized by large sandy expanses and rocky outcrops.", "Formed through ancient tectonic and erosional processes.", "Captures critical local groundwater in the desert basin.", "Important site for understanding regional Saharan relief.", "Located near the Ennedi Plateau landmark."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      ro: ["Este situată la sud de Platoul Erdi.", "A fost formată în principal prin procese de eroziune și acumulare.", "Zona este caracterizată de alternanța dintre nisip și rocă dură.", "În timpul sezonului ploios, pot apărea mici zone inundate temporar.", "Fauna și flora sunt extrem de rare și adaptate la secetă.", "Depresiunea are o lungime de peste 100 de kilometri."]
-    },
-    factsAdvanced: {
-      de: ["Weitläufiges, trockenes Becken zwischen Gebirgszügen", "Klassische Wüstenlandschaft mit Wanderdünen", "Barrierezone in der geologischen Struktur", "Herausforderndes Gebiet für die nomadische Navigation", "Extremes Wüstenklima mit hohen Temperaturschwankungen", "Natürliches Puffergebiet im Nordosten"]
-    },
+    
+    
+    
     description: {
       de: "Eine weite Senke zwischen dem Ennedi-Massiv und dem Erdi-Plateau, geprägt von Wanderdünen und Wüstenklima.",
       hu: "Hatalmas mélyedés az Ennedi-masszívum és az Erdi-fennsík között, vándorló dűnékkel és sivatagi éghajlattal.",
@@ -145,15 +127,9 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       en: ["High-altitude volcanic massif in the Tibesti Mountains.", "Features steep volcanic flanks and deep, rugged ravines.", "Contributes to the complex relief of northern Chad.", "Ancient volcanic structure in the Sahara Shield.", "Key landmark for assessing northern Chadian geology.", "Remote terrain that challenges desert transit."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      ro: ["Este un masiv de origine vulcanică din Tibesti.", "Suprafața sa este compusă din roci bazaltice.", "Altitudinea depășește frecvent 2.000 de metri.", "Activitatea vulcanică a încetat în perioada terțiară.", "Zona este complet aridă, fără cursuri de apă permanente.", "Este situat în inima Munților Tibesti."]
-    },
-    factsAdvanced: {
-      de: ["Spektakuläres Vulkanplateau des Tibesti-Systems", "Ausgedehnte Kaldera an einem der Gipfel", "Zeuge vergangener vulkanischer Kraftentfaltung", "Herausragender Beobachtungspunkt für die Region", "Geologisch bedeutende Formation im Norden", "Teil eines riesigen vulkanischen Komplexes"]
-    },
+    
+    
+    
     description: {
       de: "Ein markantes Vulkanplateau im Tibesti-Gebirge mit einer ausgedehnten Kaldera auf seinem Gipfel.",
       hu: "Jellegzetes vulkáni fennsík a Tibeszti-hegységben, csúcsán kiterjedt kalderával.",
@@ -186,15 +162,9 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       en: ["Volcanic massif and part of the Tibesti network.", "Contributed to the dramatic peaks and canyons of northern Chad.", "Steep relief impacts local temperature and micro-weather.", "A key site for studying Saharan volcanic uplift.", "Provides geological data on the Earth's northern crust.", "Visual marker of geological forces in the Sahara."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      ro: ["Complexul este situat în partea centrală a munților Tibesti.", "Formațiunile vulcanice sunt predominant bazaltice.", "Este un munte care atinge înălțimi considerabile.", "Eroziunea a creat văi adânci în structura sa.", "Zona este izolată și dificil de accesat.", "Climatul de aici este de tip montan saharian, cu diferențe mari de temperatură."]
-    },
-    factsAdvanced: {
-      de: ["Raues und zerklüftetes Vulkansystem im Tibesti", "Fast unzugängliche Bergwelt in extremer Isolation", "Dokumentation vulkanischer Entwicklungsphasen", "Herausforderndes Gebiet für geologische Studien", "Symbol für die Einsamkeit der Sahara-Gipfel", "Monument der geologischen Strenge"]
-    },
+    
+    
+    
     description: {
       de: "Einer der vielen vulkanischen Massive des Tibesti, bekannt für seine zerklüfteten Abhänge und isolierte Lage.",
       hu: "A Tibeszti számos vulkáni masszívumának egyike, amely egyenetlen lejtőiről és elszigetelt fekvéséről ismert.",
@@ -226,12 +196,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Face parte din munții vulcanici Tibesti.", "Regiunea este bogată în roci de origine magmatică.", "Altitudinea medie a masivului este peste 1.500 de metri.", "Peisajul este caracterizat prin platouri și vârfuri erodate.", "Nu există vegetație permanentă din cauza lipsei precipitațiilor.", "Este situat într-o zonă cu acces restricționat."]
-    },
-    factsAdvanced: {
-      de: ["Imposantes Massiv im nördlichen Tibesti", "Hervorragender Ausblick über die Zentralsahara", "Steile Wände als natürliche Landmarke", "Stellvertretend für die archaische Gestalt des Tibesti", "Wichtiger Orientierungspunkt in der Region", "Symbol für die Weite der Sahara-Landschaften"]
-    },
+    
+    
     description: {
       de: "Ein bedeutendes Bergmassiv im nördlichen Tibesti, das weite Ausblicke über die Zentralsahara bietet.",
       hu: "Jelentős hegymasszívum az északi Tibesztiben, amely széles kilátást nyújt a Közép-Szaharára.",
@@ -263,12 +229,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Dunele pot atinge înălțimi de peste 100 de metri.", "Regiunea Borkou este cunoscută pentru furtunile de nisip frecvente.", "Forma dunelor este dictată de direcția constantă a vântului.", "Dunele se deplasează încet, dar continuu.", "Este una dintre zonele cu cel mai scăzut nivel de precipitații din țară.", "Nisipul este compus predominant din particule de cuarț."]
-    },
-    factsAdvanced: {
-      de: ["Großflächige Felder aus aktiven Sicheldünen", "Dynamische Wüstenlandschaft durch Wind geformt", "Paradebeispiel für äolische Erosionsprozesse", "Ästhetisches Highlight des Nordostens", "Ständige Veränderung von Form und Lage durch Wind", "Lebendiges Bild der Sahara-Kräfte"]
-    },
+    
+    
     description: {
       de: "Ausgedehnte Felder von Sicheldünen in der Borkou-Region, die durch starke Nordostwinde geformt werden.",
       hu: "Kiterjedt sarlódűne-mezők a Borkou-régióban, amelyeket az erős északkeleti szelek formálnak.",
@@ -301,12 +263,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Este un masiv izolat în regiunea centrală.", "Geologic, este mai vechi decât masivul Tibesti.", "Altitudinea sa este modestă comparativ cu munții din nord.", "Este format din roci sedimentare și cristaline.", "Regiunea din jurul masivului este folosită pentru creșterea animalelor.", "A servit istoric ca punct de reper pentru caravanele comerciale."]
-    },
-    factsAdvanced: {
-      de: ["Markante vulkanische Felsgipfel in flacher Ebene", "Geologisches Kuriosum im Flachland", "Wichtige natürliche Orientierungshilfe", "Beständiges Monument der Erosion", "Symbol für geologische Vielfalt des Tschadbeckens", "Starke optische Kontraste zur Umgebung"]
-    },
+    
+    
     description: {
       de: "Drei markante Felsgipfel in der Nähe des Tschadsees, die wie Inseln aus der flachen Savanne herausragen.",
       hu: "Három jellegzetes sziklacsúcs a Csád-tó közelében, amelyek szigetként emelkednek ki a lapos szavannából.",
@@ -338,12 +296,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Craterul are un diametru impresionant de câțiva kilometri.", "Este situat în masivul Emi Koussi.", "Pereții craterului sunt compuși din roci vulcanice stratificate.", "Este un crater de tip caldera.", "Zona este complet lipsită de vegetație.", "Accesul în crater este dificil și necesită echipament special."]
-    },
-    factsAdvanced: {
-      de: ["Spektakulärer Krater tief im Emi-Koussi-Massiv", "Bekannt für unwirkliche weiße Natron-Schichten", "Zeugnis früherer intensiver hydrothermaler Prozesse", "Einer der am schwersten erreichbaren Orte", "Geologische Rarität in der Vulkanlandschaft", "Wichtiger Punkt für wissenschaftliche Untersuchungen"]
-    },
+    
+    
     description: {
       de: "Ein tiefer Vulkankrater innerhalb der Emi Koussi Kaldera, bekannt für seine weißen Natronschichten.",
       hu: "Mély vulkáni kráter az Emi Koussi kalderájában, amely fehér nátrium-rétegeiről ismert.",
@@ -375,12 +329,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Podisurile sunt situate în zona Fâșiei Aozou.", "Altitudinea medie depășește 1.000 de metri.", "Regiunea a fost subiectul unor dispute teritoriale în trecut.", "Relieful este dominat de platouri stâncoase și pante abrupte.", "Eroziunea eoliană este factorul principal care modelează peisajul.", "Nu există așezări permanente în această zonă montană."]
-    },
-    factsAdvanced: {
-      de: ["Bergige Grenzregion im hohen Norden", "Geprägt durch schroffe, tiefe Täler", "Strategisch bedeutende Region mit historischer Last", "Einsame und karge Gebirgsschönheit", "Historisch Schauplatz von Grenzkonflikten", "Symbol für die Abgeschiedenheit im Norden"]
-    },
+    
+    
     description: {
       de: "Eine gebirgige Grenzregion im hohen Norden, geprägt durch schroffe Täler und historische Grenzkonflikte.",
       hu: "Hegyes határvidék a messzi északon, zord völgyekkel és történelmi határkonfliktusokkal.",
@@ -412,12 +362,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Masivul este situat în regiunea Guéra.", "Altitudinea sa maximă atinge aproximativ 1.000 de metri.", "Este un masiv de origine cristalină și vulcanică veche.", "Zona adăpostește specii rare de floră și faună adaptate.", "Prezintă formațiuni stâncoase neobișnuite create de eroziune.", "Este un punct strategic pentru gestionarea resurselor de apă."]
-    },
-    factsAdvanced: {
-      de: ["Dominantes Gebirgsmassiv in der Guéra-Region", "Ökologischer Ankerpunkt durch kühleres Mikroklima", "Wichtige Wasserquelle für die Umgebung", "Symbol für die Stärke und Beständigkeit", "Bedeutung als natürliches Monument", "Einfluss auf die soziale Struktur der Region"]
-    },
+    
+    
     description: {
       de: "Ein markantes Gebirgsmassiv in der Guéra-Region, das die umliegenden Ebenen deutlich überragt.",
       hu: "Jellegzetes hegymasszívum a Guéra-régióban, amely jelentősen kiemelkedik a környező síkságokból.",
@@ -449,12 +395,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["A fost un canal hidrografic activ în perioadele umede ale Saharei.", "Numele său înseamnă 'Râul Gazelelor' în arabă.", "Se întinde pe sute de kilometri de la nord la sud.", "Regiunea este acum predominant acoperită de nisip și sedimente.", "Este un culoar important pentru migrația animalelor sălbatice.", "Depresiunea este un martor al evoluției climatice din Africa."]
-    },
-    factsAdvanced: {
-      de: ["Fossiles Flussbett und historische Verbindung", "Zeugnis des radikalen hydrologischen Wandels", "Wichtige Nord-Süd-Route durch das Land", "Ehemalige Verbindung des Mega-Tschadsees", "Ermöglicht Blick auf die einstige Macht des Wassers", "Narrativ für die Klimageschichte der Sahara"]
-    },
+    
+    
     description: {
       de: "Ein ausgetrocknetes Flusstal, das einst den Tschadsee mit der Bodélé-Depression verband.",
       hu: "Kiszáradt folyóvölgy, amely egykor a Csád-tavat kötötte össze a Bodélé-mélyfölddel.",
@@ -486,12 +428,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Escarpamentul se întinde pe o lungime semnificativă.", "Este una dintre principalele bariere naturale din nord-est.", "Structura este compusă din gresie și roci sedimentare.", "Eroziunea a creat peșteri și adăposturi naturale pe versanți.", "Zona este recunoscută pentru importanța sa geologică.", "Peisajul oferă o panoramă asupra deșertului din jurul Ennedi."]
-    },
-    factsAdvanced: {
-      de: ["Beeindruckende geologische Geländestufe in Borkou", "Dokumentation geologischer Krustenbewegungen", "Natürliches Hindernis in der Wüstenlandschaft", "Ideales Studienobjekt für Ablagerungsphasen", "Mächtiges Zeugnis der geologischen Dynamik", "Strukturprägendes Element im Norden"]
-    },
+    
+    
     description: {
       de: "Eine beeindruckende geologische Verwerfung in der Borkou-Region, die eine steile Geländestufe bildet.",
       hu: "Lenyűgöző geológiai vetődés a Borkou-régióban, amely meredek tereplépcsőt alkot.",
@@ -523,12 +461,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Dealurile sunt formate din roci sedimentare și magmatice.", "Sunt situate în apropierea masivelor mai mari din centru.", "Altitudinea lor oferă o vedere asupra câmpiilor limitrofe.", "Regiunea este folosită intens pentru păstoritul sezonier.", "Vegetația este predominant de tip savană aridă.", "Formațiunile sunt rezultatul unor procese de modelare vechi."]
-    },
-    factsAdvanced: {
-      de: ["Welliges Hügelland im Übergang zum Sudan", "Wichtige Weidegebiete für nomadische Hirten", "Sanfter Kontrast zur flachen Wüstenumgebung", "Typische Landschaft der Übergangszone", "Subtile landschaftliche Schönheit im Osten", "Ökologisch wichtiges Gebiet für die nomadische Wirtschaft"]
-    },
+    
+    
     description: {
       de: "Eine hügelige Landschaft im Osten des Tschad, die den Übergang zum Sudan bildet.",
       hu: "Dombos táj Csád keleti részén, amely az átmenetet képezi Szudán felé.",
@@ -560,12 +494,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Masivul este situat în regiunea estică a țării.", "Altitudinea medie este semnificativă pentru regiune.", "Este o sursă importantă de colectare a apei de ploaie.", "Relieful este format din roci cristaline vechi.", "Zona este populată de comunități de păstori nomazi.", "Există numeroase văi adânci numite local wadi-uri."]
-    },
-    factsAdvanced: {
-      de: ["Zerklüftete Gebirgslandschaft im Wadi-Fira-Gebiet", "Bekannt für karge Schönheit und raue Gipfel", "Historisch bedeutend als Orientierungspunkt", "Strategische Lage mit wechselvoller Geschichte", "Einsame Täler als Rückzugsort für die Stille", "Wichtiger Standort für die nomadische Weidewirtschaft"]
-    },
+    
+    
     description: {
       de: "Ein zerklüftetes Gebirge im Wadi-Fira-Gebiet, bekannt für seine strategische Lage und karge Schönheit.",
       hu: "Zord hegyvidék Wadi Fira területén, amely stratégiai fekvéséről és kopár szépségéről ismert.",
@@ -598,12 +528,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Platoul este situat în regiunea Wadi Fira.", "Altitudinea sa este caracteristică pentru zona de tranziție.", "Este o regiune importantă pentru nomadismul pastoral.", "Formațiunile geologice includ gresii și roci cristaline.", "Zona este recunoscută pentru peisajele sale vaste și izolate.", "Wadi-urile care străbat platoul sunt esențiale pentru supraviețuire."]
-    },
-    factsAdvanced: {
-      de: ["Trockenes und weites Hochplateau im Osten", "Land der Hirten und nomadischen Weidewirtschaft", "Harte Lebensbedingungen in der Abgeschiedenheit", "Geologische Beständigkeit in der Sahel-Natur", "Symbol für die Resilienz der nomadischen Bevölkerung", "Weitläufiges und anspruchsvolles Landschaftsgebiet"]
-    },
+    
+    
     description: {
       de: "Ein trockenes Hochplateau im Osten des Landes, das vor allem von Hirtennomaden genutzt wird.",
       hu: "Száraz fennsík az ország keleti részén, amelyet elsősorban pásztornomádok használnak.",
@@ -635,12 +561,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Este parte din sistemul Ennedi-Est.", "Structura platoului este dominată de gresii erodate.", "Peisajul este caracterizat prin platouri și formațiuni stâncoase.", "Zona este foarte puțin locuită din cauza condițiilor extreme.", "Eroziunea eoliană a sculptat forme de relief unice.", "Este un sit de interes pentru studiul evoluției Saharei."]
-    },
-    factsAdvanced: {
-      de: ["Extrem abgelegene und einsame Plateau-Region", "Fast vollständiges Fehlen von Vegetation", "Absoluter Steinwüsten-Charakter", "Herausforderndes Gebiet für Wüsten-Entdecker", "Labor für geologische und meteorologische Forschung", "Grenze der Bewohnbarkeit in der Sahara"]
-    },
+    
+    
     description: {
       de: "Ein weites, einsames Plateau an der Nordgrenze des Tibesti-Massivs, fast völlig vegetationslos.",
       hu: "Hatalmas, magányos fennsík a Tibeszti-masszívum északi határán, szinte teljesen növényzet nélkül.",
@@ -672,12 +594,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Situat în regiunea centrală, oferă o vedere panoramică.", "Este un masiv format din roci cristaline.", "Zona este utilizată pentru păstoritul tradițional.", "Altitudinea sa favorizează formarea unor rețele de scurgere temporare.", "Masivul este un punct strategic pentru populațiile locale.", "Peisajul este diversificat de văi adânci și culmi stâncoase."]
-    },
-    factsAdvanced: {
-      de: ["Markanter Gebirgszug mit monumentalen Granitfelsen", "Geologisches Highlight der Guéra-Region", "Skulpturale Gesteinsformationen in natürlicher Kulisse", "Wichtiger Raum für die lokale Flora und Fauna", "Symbol für die Kraft geologischer Prozesse", "Unverwechselbares Wahrzeichen des Herzen der Guéra"]
-    },
+    
+    
     description: {
       de: "Ein Gebirgszug im Herzen der Guéra-Region, bekannt für seine markanten Granitfelsen.",
       hu: "Hegylánc a Guéra-régió szívében, amely jellegzetes gránitszikláiról ismert.",
@@ -710,12 +628,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Este situată în zona de tranziție spre savană.", "Joacă un rol activ în protecția mediului local.", "Vegetația forestieră este adaptată la perioade lungi de secetă.", "Zona susține un ecosistem diversificat.", "Este un punct cheie pentru conservarea resurselor naturale.", "Pădurea ajută la reținerea apei în sol în timpul sezonului ploios."]
-    },
-    factsAdvanced: {
-      de: ["Einer der letzten dichten Waldbestände des Südens", "Wichtige ökologische Nische für tropische Arten", "Stabilisierung des Bodens und des Mikroklimas", "Fragiler Rückzugsort für bedrohte Fauna", "Symbol für die ökologische Vielfalt des Südens", "Grünes Herz mit hoher Bedeutung für den Schutz"]
-    },
+    
+    
     description: {
       de: "Einer der verbleibenden dichten Waldbestände im Süden des Tschad, ein Rückzugsort für tropische Arten.",
       hu: "Csád déli részének egyik megmaradt sűrű erdőállománya, trópusi fajok menedékhelye.",
@@ -747,12 +661,8 @@ export const poiExtraChadReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      ro: ["Situată în sud, într-o zonă cu biodiversitate ridicată.", "Este esențială pentru protejarea solului fertil.", "Ecosistemul susține numeroase specii de păsări și animale.", "Comunitățile locale beneficiază de resurse forestiere regenerabile.", "Zona este sub presiunea expansiunii terenurilor agricole.", "Pădurea Kyabe joacă un rol în ciclul local al precipitațiilor."]
-    },
-    factsAdvanced: {
-      de: ["Wichtiger Waldbestand in der Moyen-Chari-Region", "Schlüsselgebiet für lokale Biodiversität", "Entscheidend für den regionalen Wasserhaushalt", "Natürlicher Puffer gegen Austrocknung", "Modellbeispiel für lokale Schutzgebietsverwaltung", "Integraler Teil des lokalen Klimaschutzes"]
-    },
+    
+    
     description: {
       de: "Ein wichtiges Waldgebiet in der Moyen-Chari-Region, das die lokale Artenvielfalt und das Klima schützt.",
       hu: "Fontos erdőterület a Moyen-Chari régióban, amely védi a helyi biológiai sokféleséget és az éghajlatot.",

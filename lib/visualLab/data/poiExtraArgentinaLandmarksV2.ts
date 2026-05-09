@@ -1,9 +1,16 @@
-// @ts-nocheck
+﻿// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraArgentinaLandmarksV2: POI[] = [
   {
     id: "obelisco-buenos-aires-landmarks-v2",
+    description: "An iconic monument located in the center of Buenos Aires, symbolising the city's identity.",
+    facts: [
+      "Iconic monument",
+      "Buenos Aires",
+      "City symbol",
+      "Modern landmark"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3816, -34.6037],
@@ -27,6 +34,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/obelisco-buenos-aires-landmarks-v2.webp"},
   {
     id: "casa-rosada-landmarks-v2",
+    description: "The executive mansion and office of the President of Argentina, famous for its pink exterior.",
+    facts: [
+      "Executive mansion",
+      "Presidential office",
+      "Buenos Aires",
+      "Historic landmark"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3702, -34.6081],
@@ -50,6 +64,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/casa-rosada-landmarks-v2.webp"},
   {
     id: "teatro-colon-landmarks-v2",
+    description: "One of the world's most acclaimed opera houses, known for its incredible acoustics and beauty.",
+    facts: [
+      "Opera house",
+      "Acoustics",
+      "Buenos Aires",
+      "Cultural landmark"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3831, -34.6011],
@@ -73,6 +94,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/teatro-colon-landmarks-v2.webp"},
   {
     id: "puente-de-la-mujer-landmarks-v2",
+    description: "A modern, rotating footbridge in the Puerto Madero district, symbolising female grace.",
+    facts: [
+      "Footbridge",
+      "Puerto Madero",
+      "Modern design",
+      "Buenos Aires"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3646, -34.6083],
@@ -96,6 +124,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/puente-de-la-mujer-landmarks-v2.webp"},
   {
     id: "floralis-generica-landmarks-v2",
+    description: "A giant metal flower sculpture that opens and closes throughout the day.",
+    facts: [
+      "Metal sculpture",
+      "Flower design",
+      "Modern art",
+      "Buenos Aires"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3934, -34.5830],
@@ -119,6 +154,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/floralis-generica-landmarks-v2.webp"},
   {
     id: "palacio-barolo-landmarks-v2",
+    description: "An exquisite building inspired by Dante's Divine Comedy, known for its unique tower.",
+    facts: [
+      "Inspirational design",
+      "Dante's Divine Comedy",
+      "Unique tower",
+      "Buenos Aires"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3858, -34.6095],
@@ -142,6 +184,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/palacio-barolo-landmarks-v2.webp"},
   {
     id: "recoleta-cemetery-landmarks-v2",
+    description: "A historic cemetery featuring elaborate mausoleums, including the grave of Eva Perón.",
+    facts: [
+      "Historic cemetery",
+      "Elaborate tombs",
+      "Eva Perón",
+      "Cultural site"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3929, -34.5875],
@@ -165,6 +214,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/recoleta-cemetery-landmarks-v2.webp"},
   {
     id: "metropolitan-cathedral-landmarks-v2",
+    description: "The main Catholic church in Buenos Aires, reflecting neoclassical architecture and history.",
+    facts: [
+      "Cathedral",
+      "Neoclassical style",
+      "Buenos Aires",
+      "Religious site"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3734, -34.6075],
@@ -188,6 +244,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/metropolitan-cathedral-landmarks-v2.webp"},
   {
     id: "la-bombonera-landmarks-v2",
+    description: "The legendary home stadium of Boca Juniors, known for its unique shape and fan atmosphere.",
+    facts: [
+      "Football stadium",
+      "Boca Juniors",
+      "Buenos Aires",
+      "Iconic venue"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3647, -34.6356],
@@ -211,6 +274,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/la-bombonera-landmarks-v2.webp"},
   {
     id: "estadio-monumental-landmarks-v2",
+    description: "The largest football stadium in Argentina and home to the national team.",
+    facts: [
+      "Football stadium",
+      "River Plate",
+      "Largest venue",
+      "Buenos Aires"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.4498, -34.5453],
@@ -234,6 +304,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/estadio-monumental-landmarks-v2.webp"},
   {
     id: "cabildo-buenos-aires-landmarks-v2",
+    description: "The site of the May Revolution, representing the birth of Argentine independence.",
+    facts: [
+      "Historic building",
+      "May Revolution",
+      "Buenos Aires",
+      "Independence site"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3742, -34.6083],
@@ -257,6 +334,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/cabildo-buenos-aires-landmarks-v2.webp"},
   {
     id: "monumento-nacional-bandera-landmarks-v2",
+    description: "An imposing monument in Rosario, dedicated to the creation of the Argentine flag.",
+    facts: [
+      "National monument",
+      "Rosario city",
+      "Flag creation",
+      "Patriotic landmark"
+],
     type: "landmark",
     parent: "AR-S",
     coords: [-60.6272, -32.9479],
@@ -280,6 +364,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/monumento-nacional-bandera-landmarks-v2.webp"},
   {
     id: "cristo-redentor-andes-landmarks-v2",
+    description: "A symbolic statue on the border with Chile, representing peace between the two nations.",
+    facts: [
+      "Peace monument",
+      "Andes border",
+      "Christ statue",
+      "Symbolic site"
+],
     type: "landmark",
     parent: "AR-M",
     coords: [-70.0710, -32.8257],
@@ -303,6 +394,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/cristo-redentor-andes-landmarks-v2.webp"},
   {
     id: "basilica-de-lujan-landmarks-v2",
+    description: "A massive Neo-Gothic basilica and a major pilgrimage site for Catholics in Argentina.",
+    facts: [
+      "Major basilica",
+      "Neo-Gothic style",
+      "Pilgrimage site",
+      "Religious landmark"
+],
     type: "landmark",
     parent: "AR-B",
     coords: [-59.1215, -34.5645],
@@ -326,6 +424,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/basilica-de-lujan-landmarks-v2.webp"},
   {
     id: "iglesia-san-francisco-salta-landmarks-v2",
+    description: "A famous church in Salta, known for its striking red and yellow facade and colonial beauty.",
+    facts: [
+      "Historic church",
+      "Salta city",
+      "Colonial style",
+      "Visual landmark"
+],
     type: "landmark",
     parent: "AR-A",
     coords: [-65.4080, -24.7895],
@@ -349,6 +454,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/iglesia-san-francisco-salta-landmarks-v2.webp"},
   {
     id: "pucara-de-tilcara-landmarks-v2",
+    description: "A restored pre-Inca fortress located in the dramatic landscape of Tilcara.",
+    facts: [
+      "Pre-Inca site",
+      "Fortress ruins",
+      "Tilcara region",
+      "Historic landmark"
+],
     type: "landmark",
     parent: "AR-Y",
     coords: [-65.4027, -23.5855],
@@ -372,6 +484,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/pucara-de-tilcara-landmarks-v2.webp"},
   {
     id: "ruinas-de-quilmes-landmarks-v2",
+    description: "Remains of an ancient city, illustrating the resistance of the Quilmes people against colonization.",
+    facts: [
+      "Ancient ruins",
+      "Quilmes people",
+      "History of resistance",
+      "Tucumán"
+],
     type: "landmark",
     parent: "AR-T",
     coords: [-66.0270, -26.5160],
@@ -396,6 +515,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
   },
   {
     id: "san-ignacio-mini-landmarks-v2",
+    description: "Well-preserved remains of a Jesuit mission, providing insight into 17th-century missionary life.",
+    facts: [
+      "Jesuit mission",
+      "UNESCO site",
+      "Misiones region",
+      "Historic ruins"
+],
     type: "landmark",
     parent: "AR-N",
     coords: [-55.5312, -27.2562],
@@ -419,6 +545,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/san-ignacio-mini-landmarks-v2.webp"},
   {
     id: "manzana-jesuitica-landmarks-v2",
+    description: "A collection of historic Jesuit buildings in Córdoba, listed as a world heritage site.",
+    facts: [
+      "Jesuit site",
+      "Córdoba city",
+      "World heritage",
+      "Historic landmark"
+],
     type: "landmark",
     parent: "AR-X",
     coords: [-64.1865, -31.4183],
@@ -442,6 +575,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/manzana-jesuitica-landmarks-v2.webp"},
   {
     id: "faro-les-eclaireurs-landmarks-v2",
+    description: "A scenic lighthouse in the Beagle Channel, often called the lighthouse at the end of the world.",
+    facts: [
+      "Scenic lighthouse",
+      "Beagle Channel",
+      "Ushuaia region",
+      "Iconic structure"
+],
     type: "landmark",
     parent: "AR-V",
     coords: [-68.1833, -54.8700],
@@ -465,6 +605,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/faro-les-eclaireurs-landmarks-v2.webp"},
   {
     id: "monumento-al-indio-landmarks-v2",
+    description: "A tribute monument celebrating the indigenous roots and heritage of Argentina's northwestern region.",
+    facts: [
+      "Indigenous monument",
+      "Tribute site",
+      "Cultural landmark",
+      "Northwest region"
+],
     type: "landmark",
     parent: "AR-T",
     coords: [-65.6592, -27.0683],
@@ -488,6 +635,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/monumento-al-indio-landmarks-v2.webp"},
   {
     id: "planetario-galileo-galilei-landmarks-v2",
+    description: "A popular planetarium in Buenos Aires, recognized for its distinctive modern design.",
+    facts: [
+      "Planetarium",
+      "Modern design",
+      "Buenos Aires",
+      "Educational landmark"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.4116, -34.5695],
@@ -511,6 +665,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/planetario-galileo-galilei-landmarks-v2.webp"},
   {
     id: "torre-monumental-landmarks-v2",
+    description: "A historic clock tower in Buenos Aires, formerly known as the Torre de los Ingleses.",
+    facts: [
+      "Historic clock tower",
+      "Buenos Aires",
+      "British gift",
+      "Landmark structure"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3746, -34.5919],
@@ -534,6 +695,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/torre-monumental-landmarks-v2.webp"},
   {
     id: "palacio-aguas-corrientes-landmarks-v2",
+    description: "A visually stunning building that once served as a major water pumping station, known for its facade.",
+    facts: [
+      "Historic facade",
+      "Water station",
+      "Buenos Aires",
+      "Architectural landmark"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3941, -34.5997],
@@ -557,6 +725,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/palacio-aguas-corrientes-landmarks-v2.webp"},
   {
     id: "mnba-buenos-aires-landmarks-v2",
+    description: "The National Museum of Fine Arts, housing a vast collection of Argentine and international art.",
+    facts: [
+      "Fine Arts Museum",
+      "National institution",
+      "Buenos Aires",
+      "Cultural landmark"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3929, -34.5841],
@@ -580,6 +755,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/mnba-buenos-aires-landmarks-v2.webp"},
   {
     id: "centro-cultural-kirchner-landmarks-v2",
+    description: "A large cultural center housed in a historic building, hosting various arts and musical performances.",
+    facts: [
+      "Cultural center",
+      "Historic building",
+      "Buenos Aires",
+      "Arts venue"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3697, -34.6036],
@@ -604,6 +786,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
   },
   {
     id: "congreso-nacion-argentina-landmarks-v2",
+    description: "The monumental building housing the Argentine National Congress, with a prominent dome.",
+    facts: [
+      "Congress building",
+      "Monumental dome",
+      "Buenos Aires",
+      "Political landmark"
+],
     type: "landmark",
     parent: "AR-C",
     coords: [-58.3927, -34.6097],
@@ -627,6 +816,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/congreso-nacion-argentina-landmarks-v2.webp"},
   {
     id: "dique-san-roque-landmarks-v2",
+    description: "A large dam in the Córdoba province, significant for its role in energy and tourism.",
+    facts: [
+      "Historic dam",
+      "Córdoba province",
+      "Tourist attraction",
+      "Energy landmark"
+],
     type: "landmark",
     parent: "AR-X",
     coords: [-64.4428, -31.3789],
@@ -650,6 +846,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/dique-san-roque-landmarks-v2.webp"},
   {
     id: "puente-rosario-victoria-landmarks-v2",
+    description: "A long cable-stayed bridge spanning the Paraná River, connecting the provinces of Santa Fe and Entre Ríos.",
+    facts: [
+      "Cable-stayed bridge",
+      "Paraná River",
+      "Engineering landmark",
+      "Regional connection"
+],
     type: "landmark",
     parent: "AR-S",
     coords: [-60.6775, -32.8681],
@@ -673,6 +876,13 @@ export const poiExtraArgentinaLandmarksV2: POI[] = [
     }, image: "/poi-images/puente-rosario-victoria-landmarks-v2.webp"},
   {
     id: "viaducto-la-polvorilla-landmarks-v2",
+    description: "A famous high-altitude railway viaduct, a marvel of engineering on the Train to the Clouds route.",
+    facts: [
+      "Railway viaduct",
+      "Engineering marvel",
+      "Salta province",
+      "High altitude"
+],
     type: "landmark",
     parent: "AR-A",
     coords: [-66.2307, -24.1994],

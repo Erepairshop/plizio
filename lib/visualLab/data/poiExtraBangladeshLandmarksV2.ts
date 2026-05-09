@@ -314,12 +314,12 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     parent: "BD-10",
     coords: [91.8219, 22.3421],
     name: { de: "Zentrales Eisenbahngebäude", hu: "Központi Vasúti Épület", ro: "Clădirea Centrală a Căilor Ferate", en: "Central Railway Building" },
-    description: { de: "Ein historisches britisches Kolonialgebäude in Chittagong, das von landschaftlicher Schönheit umgeben ist.", hu: "Történelmi brit gyarmati épület Csittagongban, amelyet festői természeti szépség vesz körül.", ro: "O clădire istorică colonială britanică din Chittagong, înconjurată de frumusețea peisajului natural.", en: "A historic British colonial building in Chittagong, surrounded by scenic natural beauty." },
+    description: { de: "Ein historisches britisches Kolonialgebäude in Chittagong, das von landschaftlicher Schönheit umgeben ist.", hu: "Történelmi brit gyarmati épület Csittagongban, amelyet festői természeti szépség vesz körül.", ro: "O clădire istorică colonială britanică din Chittagong, înconjurată de frumusețea peisajului natural.", en: "A prominent colonial-era administrative building in Chittagong, serving as a historic landmark." },
     facts: {
       de: ["1872 erbaut.", "Hauptsitz der östlichen Eisenbahn.", "Wichtiges kulturelles Erbe von Chittagong."],
       hu: ["1872-ben épült.", "A keleti vasútvonal központja.", "Csittagong fontos kulturális öröksége."],
       ro: ["Construită în 1872.", "Sediul central al căilor ferate din est.", "Important patrimoniu cultural din Chittagong."],
-      en: ["Built in 1872.", "Headquarters of the Eastern Railway.", "Important cultural heritage of Chittagong."]
+      en: ["Colonial architecture", "Administrative history", "Located in Chittagong", "Historic site"]
     },
     
      image: "/poi-images/bd-central-railway-building-landmarks-v2.webp",

@@ -1,4 +1,4 @@
-// @ts-nocheck
+﻿// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBeninNatureV2: POI[] = [
@@ -18,7 +18,20 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Länge von etwa 510 Kilometern.", "Größter Fluss des Landes Benin.", "Mündet in die Nokoué-Lagune nördlich von Cotonou.", "Bedeutend für die Bewässerung der Landwirtschaft.", "Lebensraum für zahlreiche Süßwasserfische.", "Flussverlauf durch mehrere Klimazonen."]
-    }, image: "/poi-images/oueme-river-nature-v2.webp"},
+    }, image: "/poi-images/oueme-river-nature-v2.webp",
+    description: {
+      de: "",
+      hu: "Az Ouémé Benin leghosszabb folyója, amelynek vízgyűjtő területe létfontosságú az ország mezőgazdasága és vízellátása szempontjából.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: [],
+      hu: ["Típus: Folyó", "Hossz: 510 km", "Szerep: Vízellátás", "Mezőgazdasági jelentőség"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "niger-river-benin-nature-v2",
     type: "river",
@@ -35,7 +48,20 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Bildet einen bedeutenden Teil der Staatsgrenze im Norden.", "Drittlängster Fluss Afrikas.", "Wichtige Lebensader für die Menschen in der Region.", "Lebensraum für Flusspferde und Krokodile.", "Bedeutendes Zentrum für den regionalen Fischfang.", "Die Uferbereiche bieten Weideflächen für das Vieh."]
-    }, image: "/poi-images/niger-river-benin-nature-v2.webp"},
+    }, image: "/poi-images/niger-river-benin-nature-v2.webp",
+    description: {
+      de: "",
+      hu: "A Niger folyó az ország északi határán halad át, jelentős szerepet játszva az ökoszisztémák és a vízi szállítás fenntartásában.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: [],
+      hu: ["Típus: Folyó", "Helyszín: Északi határ", "Jelentőség: Határfolyó", "Ökológiai szerep"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "pendjari-river-nature-v2",
     type: "river",
@@ -52,7 +78,20 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lebensader des Pendjari-Nationalparks.", "Zentrale Wasserquelle für Elefantenherden.", "Die Trockenzeit macht das Gebiet besonders wildreich.", "Wichtiger Lebensraum für gefährdete Arten.", "Die Flussufer bieten ein reiches Ökosystem.", "Der Park ist ein UNESCO-Biosphärenreservat."]
-    }, image: "/poi-images/pendjari-river-nature-v2.webp"},
+    }, image: "/poi-images/pendjari-river-nature-v2.webp",
+    description: {
+      de: "",
+      hu: "A Pendjari folyó a nemzeti park ökoszisztémájának gerince, amely egész évben biztosítja a vizet a régió vadállománya számára.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: [],
+      hu: ["Típus: Folyó", "Helyszín: Pendjari Nemzeti Park", "Szerep: Vízkészlet", "Ökológiai gerinc"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "mekrou-river-nature-v2",
     type: "river",
@@ -135,13 +174,13 @@ export const poiExtraBeninNatureV2: POI[] = [
     },
     description: {
       de: "Der Couffo ist ein Fluss im Südwesten Benins, der in den Ahémé-See mündet.",
-      hu: "A Couffo egy folyó Benin délnyugati részén, amely az Ahémé-tóba torkollik.",
+      hu: "A Couffo folyó a délnyugati régió fontos vízfolyása, amely táplálja a környező vizes élőhelyeket és a mezőgazdasági területeket.",
       ro: "Couffo este un râu în sud-vestul Beninului, care se varsă în Lacul Ahémé.",
       en: "The Couffo is a river in southwestern Benin that empties into Lake Ahémé."
     },
     facts: {
       de: ["Entspringt in Togo.", "Speist den Ahémé-See mit Süßwasser.", "Wichtig für den Fischfang in der Region."],
-      hu: ["Togóban ered.", "Édesvízzel táplálja az Ahémé-tavat.", "Fontos a régió halászata számára."],
+      hu: ["Típus: Folyó", "Régió: Délnyugat", "Szerep: Vízi élőhelyek", "Mezőgazdasági vízforrás"],
       ro: ["Izvorăște din Togo.", "Alimentează Lacul Ahémé cu apă dulce.", "Important pentru pescuitul din regiune."],
       en: ["Originates in Togo.", "Feeds Lake Ahémé with fresh water.", "Important for fishing in the region."]
     }, image: "/poi-images/couffo-river-nature-v2.webp"},

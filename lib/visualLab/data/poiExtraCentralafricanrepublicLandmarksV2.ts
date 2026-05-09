@@ -20,9 +20,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Major religious landmark in Bangui.", "Reflects colonial-era architectural influence.", "Central hub for the Christian community.", "Recognizable feature of the Bangui skyline.", "Important site for cultural tourism.", "Represents regional religious history."]
     },
-    factsAdvanced: {
-      ro: ["Rol: lăcaș de cult principal.", "Arhitectură: reper urban.", "Localizare: Bangui.", "Importanță: simbol religios.", "Activitate: viață religioasă.", "Impact: peisaj urban."]
-    },
+    
     description: {
       de: "Die imposante Kathedrale aus roten Backsteinen ist das bedeutendste religiöse Bauwerk der Hauptstadt und ein Wahrzeichen der Stadt.",
       hu: "A vörös téglából épült impozáns székesegyház a főváros legjelentősebb vallási épülete és a város egyik jelképe.",
@@ -53,9 +51,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Prominent monument in central Bangui.", "Symbolizes post-colonial national identity.", "Commemorates significant local history.", "Notable structure in the capital's core.", "Cultural landmark for visitors.", "Reflects national symbolic architecture."]
     },
-    factsAdvanced: {
-      ro: ["Rol: simbol național.", "Localizare: Bangui.", "Importanță: afirmarea identității.", "Activitate: comemorare istorică.", "Impact: peisaj urban.", "Resursă: monument."]
-    },
+    
     description: {
       de: "Ein monumentales Bauwerk im Zentrum von Bangui, das zu Ehren des ersten Präsidenten Barthélemy Boganda errichtet wurde.",
       hu: "Monumentális építmény Bangui központjában, amelyet az első elnök, Barthélemy Boganda tiszteletére emeltek.",
@@ -86,9 +82,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Central public square of Bangui.", "Hub for major national gatherings.", "Center for political and administrative life.", "Surrounded by key government offices.", "Historically vital for political change.", "Symbolic heart of national governance."]
     },
-    factsAdvanced: {
-      ro: ["Rol: centru civic urban.", "Localizare: Bangui.", "Importanță: manifestări oficiale.", "Activitate: viață publică.", "Impact: nucleu politic.", "Peisaj: piață centrală."]
-    },
+    
     description: {
       de: "Der zentrale Platz von Bangui ist das Herz des politischen und gesellschaftlichen Lebens der Stadt.",
       hu: "Bangui központi tere, amely a város politikai és társadalmi életének szíve.",
@@ -119,9 +113,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Official presidential palace.", "Symbol of national sovereignty.", "Located in the capital, Bangui.", "Center for national executive power.", "Architectural profile defines state presence.", "Vital national governmental site."]
     },
-    factsAdvanced: {
-      ro: ["Rol: sediul puterii politice.", "Localizare: Bangui.", "Importanță: simbol administrativ.", "Activitate: putere de stat.", "Impact: simbol al națiunii.", "Arhitectură: reprezentativă."]
-    },
+    
     description: {
       de: "Der offizielle Amtssitz des Präsidenten der Zentralafrikanischen Republik, ein prächtiges Gebäude mit Blick auf die Stadt.",
       hu: "A Közép-afrikai Köztársaság elnökének hivatalos rezidenciája, pompás épület kilátással a városra.",
@@ -152,9 +144,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Largest national stadium in Bangui.", "Named after first president Barthélemy Boganda.", "Hub for sports and cultural events.", "Center for national community gatherings.", "Significant cultural symbol for the youth.", "Venue for important national assemblies."]
     },
-    factsAdvanced: {
-      ro: ["Rol: arenă sportivă principală.", "Localizare: Bangui.", "Importanță: centru cultural sportiv.", "Activitate: evenimente sportive.", "Impact: cultura sportivă.", "Capacitate: mare."]
-    },
+    
     description: {
       de: "Das Nationalstadion der Zentralafrikanischen Republik ist der größte Sportkomplex des Landes und Austragungsort wichtiger Spiele.",
       hu: "A Közép-afrikai Köztársaság nemzeti stadionja az ország legnagyobb sportkomplexuma és fontos mérkőzések helyszíne.",
@@ -185,9 +175,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Dedicated to national martyrs.", "Commemorates historical sacrifices.", "Important site for collective memory.", "Symbol of modern national history.", "Located in the capital, Bangui.", "Fosters national pride and reflection."]
     },
-    factsAdvanced: {
-      ro: ["Rol: monument comemorativ.", "Localizare: Bangui.", "Importanță: libertate și independență.", "Activitate: reculegere.", "Impact: respect național.", "Resursă: comemorare."]
-    },
+    
     description: {
       de: "Ein bedeutendes Denkmal in Bangui, das den Opfern der politischen Unruhen und Kämpfe für die Demokratie gewidmet ist.",
       hu: "Jelentős emlékmű Banguiban, amelyet a politikai zavargások és a demokráciáért vívott harcok áldozatainak szenteltek.",
@@ -218,9 +206,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Central religious site for Bangui Muslims.", "Symbolizes religious and cultural diversity.", "Vital center for community interaction.", "Landmark in the Bangui urban fabric.", "Place of worship and social cohesion.", "Historically significant religious site."]
     },
-    factsAdvanced: {
-      ro: ["Rol: lăcaș de cult principal.", "Localizare: Bangui.", "Importanță: viață comunitară.", "Activitate: viață religioasă.", "Impact: diversitate culturală.", "Arhitectură: distinctă."]
-    },
+    
     description: {
       de: "Das wichtigste islamische Gotteshaus in der Hauptstadt, gelegen im bevölkerungsreichen Stadtteil PK5.",
       hu: "A főváros legfontosabb iszlám imaháza, amely a sűrűn lakott PK5 negyedben található.",
@@ -251,9 +237,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Administrative seat of local government.", "Manages urban services in Bangui.", "Located in the city center core.", "Key site for civic affairs management.", "Symbol of modern urban administration.", "Architecturally reflects capital evolution."]
     },
-    factsAdvanced: {
-      ro: ["Rol: sediu administrație locală.", "Localizare: Bangui.", "Importanță: gestionarea serviciilor.", "Activitate: administrație urbană.", "Impact: dezvoltare locală.", "Servicii: publice."]
-    },
+    
     description: {
       de: "Das Verwaltungszentrum der Stadt Bangui, ein elegantes Gebäude, das die lokale Verwaltung beherbergt.",
       hu: "Bangui város közigazgatási központja, egy elegáns épület, amely a helyi önkormányzatnak ad otthont.",
@@ -284,9 +268,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Institution for national history and arts.", "Preserves ethnographic and cultural artifacts.", "Provides context for national diversity.", "Hub for research and local education.", "Essential for heritage conservation.", "Displays significant national cultural works."]
     },
-    factsAdvanced: {
-      ro: ["Rol: instituție culturală și istorică.", "Localizare: Bangui.", "Importanță: conservarea culturii.", "Activitate: etnografie și artă.", "Impact: educație culturală.", "Colecție: istorie națională."]
-    },
+    
     description: {
       de: "Das Museum bewahrt das kulturelle Erbe der Zentralafrikanischen Republik, einschließlich Kunst und ethnischer Artefakte.",
       hu: "A múzeum a Közép-afrikai Köztársaság kulturális örökségét őrzi, beleértve a művészeti és néprajzi tárgyakat.",
@@ -317,9 +299,7 @@ export const poiExtraCentralafricanrepublicLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Primary institution for higher education.", "Formative site for national leadership.", "Central hub for intellectual development.", "Vital for national scientific discourse.", "Crucial for the future of the nation.", "Largest academic campus in the country."]
     },
-    factsAdvanced: {
-      ro: ["Rol: instituție de învățământ superior.", "Localizare: Bangui.", "Importanță: formare profesională.", "Activitate: educație și inovație.", "Impact: dezvoltarea liderilor.", "Domenii: diverse."]
-    },
+    
     description: {
       de: "Die einzige öffentliche Universität des Landes und ein bedeutendes Zentrum für höhere Bildung und Forschung.",
       hu: "Az ország egyetlen állami egyeteme, a felsőoktatás és a kutatás jelentős központja.",

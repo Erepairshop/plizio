@@ -25,35 +25,8 @@ export const poiExtraChileLifeV2: POI[] = [
       ro: "O grădină zoologică populară situată pe dealul San Cristóbal din Santiago, care adăpostește multe specii de animale native din America de Sud.",
       en: "A popular zoo located on the side of San Cristóbal Hill in Santiago, home to many native South American animal species."
     },
-    descriptionAdvanced: {
-      de: "Der Nationalzoo von Chile am Hang des San Cristóbal-Hügels ist eines der beliebtesten Ausflugsziele in Santiago. Mit seiner spektakulären Lage bietet er nicht nur einen fantastischen Blick über die Hauptstadt, sondern auch eine wichtige Bildungsplattform für die Tierwelt Südamerikas. Besucher können hier eine Vielzahl einheimischer Arten in einer Umgebung entdecken, die Naturschutz und Erholung harmonisch verbindet.",
-      hu: "A Chilei Nemzeti Állatkert Santiago szívében, a San Cristóbal-hegy lankáin található, és az ország legfontosabb állatkertje. Az 1925-ben alapított intézmény különleges elhelyezkedése miatt nemcsak az állatok megfigyelésére kiváló, hanem pazar kilátást is nyújt a fővárosra. Az állatkert nagy hangsúlyt fektet a dél-amerikai őshonos fajok, például a kondorkeselyű, a puma és a ritka Darwin-béka védelmére és bemutatására. A látogatók a hegyre vezető híres siklóval (funicular) is megközelíthetik a bejáratot. Oktatási programjaival az ország egyik legfontosabb természetvédelmi tudásközpontja. Biológia K6 – Dél-amerikai fauna és fajmegőrzés.",
-      ro: "Grădina Zoologică Națională din Chile, cocoțată pe versanții dealului San Cristóbal din Santiago, este una dintre cele mai vizitate destinații ale capitalei. Locația sa spectaculoasă oferă nu doar o priveliște panoramică asupra orașului, ci și o platformă educațională vitală pentru fauna din America de Sud. Vizitatorii pot descoperi o varietate de specii native, cum ar fi condorul andin, puma și broasca lui Darwin, într-un mediu care îmbină conservarea cu recreerea. Fiind parte a Parcului Metropolitan, accesul se poate face pitoresc prin intermediul funicularului istoric. Grădina joacă un rol esențial în programele de reproducere a speciilor pe cale de dispariție. Biologie K6 — Fauna sud-americană și conservarea speciilor.",
-      en: "The Chilean National Zoo, perched on the slopes of San Cristóbal Hill, is one of Santiago's most popular destinations. Its spectacular location offers not only fantastic views of the capital but also a vital educational platform for South American wildlife. Visitors can discover a variety of native species in an environment that harmoniously blends conservation and recreation. Geography K7 — Explore the historical, cultural, and geographical significance of this site."
-    },
-    factsAdvanced: {
-      de: [
-        "Zentraler Zoo am ikonischen San Cristóbal-Hügel in Santiago.",
-        "Fokussiert auf den Schutz und die Präsentation der Fauna Südamerikas.",
-        "Wichtiger Ort für Umweltbildung in der chilenischen Hauptstadt.",
-        "Naherholungsziel mit strategischer Anbindung an die städtische touristische Infrastruktur."
-      ],
-      hu: [
-        "1925-ben nyitotta meg kapuit",
-        "Több mint 150 különböző állatfaj él itt", "A híres santiago-i sikló egyik állomása az állatkertnél van", "Fontos kutatási központ a veszélyeztetett andoki fajok számára"],
-      ro: [
-        "Inaugurată oficial în anul 1925.",
-        "Găzduiește peste 150 de specii diferite de animale.",
-        "Una dintre stațiile funicularului din Santiago este chiar la intrarea grădinii.",
-        "Centru major de cercetare pentru specii andine pe cale de dispariție."
-      ],
-      en: [
-        "Located on the iconic San Cristóbal Hill in Santiago.",
-        "Focuses on the protection and presentation of South American fauna.",
-        "Important site for environmental education in the Chilean capital.",
-        "Recreational destination with strategic ties to the city's tourist infrastructure."
-      ]
-    },
+    
+    
     facts: {
       de: [
         "Wurde 1925 gegründet.",

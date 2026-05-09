@@ -53,14 +53,14 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     name: { de: "Rinpung Dzong", hu: "Rinpung Dzong", ro: "Rinpung Dzong", en: "Rinpung Dzong" },
     description: {
       de: "Eine riesige Festung und Klosteranlage im Paro-Tal, erbaut 1646. Sie ist ein hervorragendes Beispiel für die traditionelle bhutanische Architektur.",
-      hu: "Hatalmas erőd- és kolostoregyüttes a Paro-völgyben, amelyet 1646-ban építettek. A hagyományos bhutáni építészet kiváló példája.",
-      ro: "O fortăreață și mănăstire uriașă în valea Paro, construită în 1646. Este un exemplu excelent de arhitectură tradițională bhutaneză.",
+      hu: "A Rinpung Dzong egy 17. századi erődített kolostor, amely Paro völgyének közigazgatási és vallási központja. Az épület a bhutáni építészet egyik legkiemelkedőbb példája, amely évszázadokon át védelmet nyújtott a régió számára.",
+      ro: "Rinpung Dzong este o fortăreață și mănăstire budistă emblematică situată în districtul Paro. Această structură istorică a servit ca centru administrativ și religios de secole.",
       en: "A massive fortress and monastery complex in the Paro Valley, built in 1646. It is an excellent example of traditional Bhutanese architecture."
     },
     facts: {
       de: ["Erbaut im Jahr 1646.", "Bedeutet \"Festung auf einem Juwelenhaufen\".", "Drehort für \"Little Buddha\"."],
-      hu: ["1646-ban építették.", "Jelentése \"Erőd az ékszerek halmán\".", "A \"Kis Buddha\" forgatási helyszíne."],
-      ro: ["Construită în 1646.", "Înseamnă \"Fortăreață pe o grămadă de bijuterii\".", "Locație de filmare pentru \"Little Buddha\"."],
+      hu: ["Épült 1644-ben", "Paro völgy központja", "Vallási és adminisztratív", "Hagyományos építészet"],
+      ro: ["Construit în 1644", "Situat în Paro", "Arhitectură tradițională", "Centru monastic"],
       en: ["Built in 1646.", "Means \"Fortress on a heap of jewels\".", "Filming location for \"Little Buddha\"."]
     },
     factsAdvanced: {
@@ -339,13 +339,13 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     name: { de: "Jakar Dzong", hu: "Jakar Dzong", ro: "Jakar Dzong", en: "Jakar Dzong" },
     description: {
       de: "Auch bekannt als die \"Festung des weißen Vogels\", wurde sie im 16. Jahrhundert erbaut und beherrscht das Chokhor-Tal in Bumthang.",
-      hu: "A \"Fehér madár erődjeként\" is ismert épületet a 16. században építették, és a Chokhor-völgyet uralja Bumthangban.",
+      hu: "A Jakar Dzong, más néven a „fehér madár erődje”, a 16. században épült Bumthang völgyében. Ez az egyik legnagyobb dzong Bhutánban, amely központi szerepet játszott a régió történetében és buddhista közösségi életében.",
       ro: "Cunoscută și ca \"Fortăreața păsării albe\", a fost construită în secolul al XVI-lea și domină valea Chokhor din Bumthang.",
       en: "Also known as the \"Fortress of the White Bird\", it was built in the 16th century and dominates the Chokhor Valley in Bumthang."
     },
     facts: {
       de: ["Gegründet im Jahr 1549.", "Der Umfang beträgt 1,5 km.", "Sitz der Verwaltung von Bumthang."],
-      hu: ["1549-ben alapították.", "Kerülete 1,5 km.", "Bumthang közigazgatásának székhelye."],
+      hu: ["16. századi alapítás", "Bumthang völgy", "Nagy méretű erőd", "Vallási központ"],
       ro: ["Fondată în 1549.", "Circumferința este de 1,5 km.", "Sediul administrației din Bumthang."],
       en: ["Founded in 1549.", "Circumference is 1.5 km.", "Seat of Bumthang's administration."]
     },
@@ -405,13 +405,13 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     name: { de: "Trashigang Dzong", hu: "Trashigang Dzong", ro: "Trashigang Dzong", en: "Trashigang Dzong" },
     description: {
       de: "Die \"Festung des glückverheißenden Berges\", erbaut 1659, verteidigte den Osten Bhutans gegen tibetische Invasionen und dominiert die Region Trashigang.",
-      hu: "A \"Kedvező hegy erődje\", amelyet 1659-ben építettek, Bhután keleti részét védte a tibeti inváziókkal szemben, és uralja a Trashigang régiót.",
+      hu: "A Trashigang Dzongot 1659-ben alapították, és stratégiai fekvése miatt évszázadokig védelmezte a keleti régiót a betolakodókkal szemben. Ma a körzet adminisztratív központja, amely a bhutáni hagyományokat és a buddhista kultúrát őrzi.",
       ro: "„Fortăreața muntelui de bun augur”, construită în 1659, apăra estul Bhutanului împotriva invaziilor tibetane și domină regiunea Trashigang.",
       en: "The \"Fortress of the Auspicious Mountain\", built in 1659, defended eastern Bhutan against Tibetan invasions and dominates the Trashigang region."
     },
     facts: {
       de: ["Erbaut im Jahr 1659.", "Liegt an einem steilen Abhang.", "Verwaltungszentrum im Osten."],
-      hu: ["1659-ben épült.", "Egy meredek lejtőn fekszik.", "A keleti régió közigazgatási központja."],
+      hu: ["Alapítva 1659-ben", "Keleti közigazgatási központ", "Stratégiai fekvés", "Kulturális örökség"],
       ro: ["Construită în 1659.", "Situată pe o pantă abruptă.", "Centru administrativ în est."],
       en: ["Built in 1659.", "Located on a steep slope.", "Administrative center in the east."]
     },
@@ -427,14 +427,14 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     name: { de: "Dechen-Phodrang-Kloster", hu: "Dechen Phodrang kolostor", ro: "Mănăstirea Dechen Phodrang", en: "Dechen Phodrang Monastery" },
     description: {
       de: "Dieses historische Kloster war der ursprüngliche Standort des Tashichho Dzong, bis es verlegt wurde. Heute dient es als staatliche Klosterschule.",
-      hu: "Ez a történelmi kolostor volt a Tashichho Dzong eredeti helye, amíg át nem helyezték. Ma állami kolostori iskolaként működik.",
-      ro: "Această mănăstire istorică a fost locația inițială a Tashichho Dzong până când a fost mutată. Astăzi servește ca școală monahală de stat.",
+      hu: "A Dechen Phodrang kolostor Thimphu városában található, és egykor a királyi rezidencia volt, mielőtt szerzetesi iskolává alakították volna át. Az épület jelentős buddhista művészeti értékeket, köztük 12. századi festményeket őriz.",
+      ro: "Dechen Phodrang este una dintre cele mai vechi mănăstiri din Thimphu, găzduind o școală monastică pentru călugării tineri. Clădirea păstrează numeroase picturi murale vechi și sculpturi valoroase.",
       en: "This historical monastery was the original site of the Tashichho Dzong until it was relocated. Today it serves as a state monastic school."
     },
     facts: {
       de: ["Bedeutet \"Palast der großen Wonne\".", "Ehemaliger Standort der Festung.", "Beherbergt alte Gemälde."],
-      hu: ["Jelentése \"A nagy gyönyör palotája\".", "Az erőd egykori helyszíne.", "Régi festményeknek ad otthont."],
-      ro: ["Înseamnă \"Palatul marii fericiri\".", "Fostul amplasament al fortăreței.", "Găzduiește picturi vechi."],
+      hu: ["Thimphu székhelyen", "Egykori királyi rezidencia", "Szerzetesi iskola", "12. századi kincsek"],
+      ro: ["Situat în Thimphu", "Centru de învățământ", "Picturi murale vechi", "Fondat istoric"],
       en: ["Means \"Palace of Great Bliss\".", "Former site of the fortress.", "Houses old paintings."]
     },
     factsAdvanced: {

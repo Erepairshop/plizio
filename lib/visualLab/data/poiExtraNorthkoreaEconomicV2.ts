@@ -24,9 +24,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Complexul Kim Chaek este cea mai mare și importantă uzină siderurgică din Coreea de Nord.", "A fost înființat în anii 1930 în timpul administrației coloniale japoneze a Coreei.", "Produce volume masive de oțel laminat și fontă esențiale pentru industria de apărare.", "Facilitatea a fost extinsă și modernizată considerabil cu ajutor tehnic sovietic.", "Complexul este atât de vast încât dispune de propriile docuri și infrastructură portuară.", "Zeci de mii de muncitori lucrează în furnalele și sectoarele acestui combinat uriaș."],
       en: ["Located in the major northeastern industrial city of Chongjin.", "Originally established during the Japanese colonial era in the 1930s.", "One of the largest and most critical steel producing facilities in North Korea.", "Processes iron ore supplied directly from the massive Musan Iron Mine.", "Struggles with outdated machinery and chronic national energy shortages.", "A frequent subject of state propaganda emphasizing industrial self-reliance.", "Produces steel for domestic military, construction, and infrastructure projects."]
     },
-    factsAdvanced: {
-      de: ["Das Werk in Chŏngjin ist das größte Stahlwerk Nordkoreas.", "Ursprünglich wurde es in den 1930er Jahren von Japanern gegründet.", "Der Ausbau nach 1953 erfolgte mit Hilfe der Sowjetunion.", "Der Komplex verfügt über eigene Kraftwerke und Eisenbahnsysteme.", "Es ist benannt nach General Kim Chaek, der im Koreakrieg fiel.", "Der angeschlossene Hafen ermöglicht direkten Erz- und Kohleimport."]
-    }
+    
   },
     description: {
       de: "Ein großes Stahlwerk in der Stadt Chongjin, das für die nordkoreanische Wirtschaft von entscheidender Bedeutung ist.",
@@ -62,9 +60,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Complexul din Hŭngnam a fost fondat la sfârșitul anilor 1920 sub ocupația japoneză.", "La momentul inaugurării sale, era recunoscut drept cel mai vast complex chimic asiatic.", "Producția sa majoră constă în amoniac și cantități uriașe de îngrășăminte cu azot.", "Producția este esențială pentru a compensa deficiențele majore ale solului nord-coreean.", "Facilitatea dictează și domină în întregime peisajul industrial al orașului Hŭngnam.", "Randamentul uzinei este un factor critic care determină direct nivelul recoltelor agricole anuale."],
       en: ["Massive chemical facility located in the coastal city of Hamhung.", "Originally established in 1927 during the Japanese colonial period.", "Primary producer of essential agricultural fertilizers for the entire nation.", "Suspected by international observers of producing chemical weapons.", "Once considered the largest chemical manufacturing plant in Asia.", "Underwent extensive state-mandated modernization efforts in the 2010s.", "Crucial to maintaining North Korea's precarious agricultural food supply."]
     },
-    factsAdvanced: {
-      de: ["Der Hŭngnam-Düngemittelkomplex wurde 1927 gegründet.", "Er war zur Zeit seiner Gründung die größte chemische Anlage Asiens.", "Die Fabrik produziert überwiegend Stickstoff- und Ammoniakdünger.", "Die Produktion ist überlebenswichtig für die nordkoreanische Landwirtschaft.", "Im Koreakrieg wurde die Anlage fast vollständig zerstört und neu aufgebaut.", "Hŭngnam liegt in der Provinz Süd-Hamgyŏng."]
-    }
+    
   },
     description: {
       de: "Ein riesiger Industriekomplex in Hungnam, der für die Produktion von Düngemitteln für die Landwirtschaft des Landes von entscheidender Bedeutung ist.",
@@ -100,9 +96,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Mina Musan se numără printre cele mai mari exploatări de minereu de fier la zi din Asia.", "Extractează în principal minereu de magnetit de calitate superioară din structurile terasate.", "Furnizează materia primă direct Complexului Siderurgic Kim Chaek din orașul Chŏngjin.", "Volume semnificative de minereu extras sunt exportate pe rute comerciale către China.", "Transportul se realizează printr-o infrastructură modernizată de rețele feroviare și conducte.", "Proiectul combină mineritul extrem de dur cu peisajul natural muntos și înzăpezit."],
       en: ["The largest open-pit iron mine in Asia, visible from satellite imagery.", "Located in North Hamgyong Province near the border with China.", "Primary supplier of iron ore for North Korea's domestic steel industry.", "Historically a major source of foreign currency through exports to China.", "Operates a massive fleet of heavy excavation and transport machinery.", "Connected by a dedicated railway line to the Chongjin Steel Works.", "Estimated to hold billions of tons of low-grade iron ore reserves."]
     },
-    factsAdvanced: {
-      de: ["Musan ist die größte Eisenerzmine Nordkoreas und eine der größten Asiens.", "Die Mine wird im offenen Tagebau betrieben.", "Die nachgewiesenen Eisenerzreserven betragen mehrere Milliarden Tonnen.", "Ein Großteil des Erzes wird über eine 98 Kilometer lange Pipeline nach Chŏngjin gepumpt.", "Die Mine liegt nahe der chinesischen Grenze am Tumen-Fluss.", "Der Abbau begann industriell während der japanischen Kolonialzeit."]
-    }
+    
   },
     description: {
       de: "Eine der größten Eisenerzminen Asiens, die sich in Musan befindet und die nordkoreanische Stahlindustrie versorgt.",
@@ -138,9 +132,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Portul Rasŏn este remarcabil datorită apelor sale de mare adâncime care nu îngheață niciodată.", "Se află într-o poziție strategică rară, exact la granița Coreei de Nord cu Rusia și China.", "Portul este utilizat masiv de companiile ruse și chineze pentru tranzitul comercial.", "Facilitează exporturile de cărbune și alte mărfuri brute direct către regiunea Pacificului.", "A atras injecții de capital extern pentru a-și moderniza și extinde infrastructura operațională.", "Modernizările i-au permis să acosteze și să deservească vapoare container de mari dimensiuni."],
       en: ["Strategically vital ice-free port located in the extreme northeast.", "Part of the Rason Special Economic Zone established in 1992.", "Designed to handle international transit trade for Russia and China.", "Features a Russian-gauge railway directly linking to the Trans-Siberian network.", "Contains specialized piers for handling coal, timber, and general cargo.", "Offers landlocked northeastern Chinese provinces access to the Pacific Ocean.", "Development has been hindered by stringent international economic sanctions."]
     },
-    factsAdvanced: {
-      de: ["Der Hafen Rasŏn liegt in Nordkoreas ältester Sonderwirtschaftszone.", "Der Hafen ist ganzjährig eisfrei.", "Er verfügt über drei große Piers für Massengüter und Container.", "Der Hafen ist direkt an das russische Eisenbahnnetz angebunden.", "Russland hat 2014 den Hafen von Rajin umfassend modernisiert.", "Der Hafen schlägt jährlich Millionen Tonnen russischer Kohle um."]
-    }
+    
   },
     description: {
       de: "Ein strategisch wichtiger, eisfreier Hafen in der Sonderwirtschaftszone Rason, der den Handel mit China und Russland erleichtert.",
@@ -176,9 +168,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Fabrica din Sinŭiju este cea mai apreciată facilitate de bunuri de larg consum din țară.", "Produce gama de lux nord-coreeană de produse de înfrumusețare denumită \"Pomhyanggi\".", "Formulele cosmetice utilizează intens faimosul ginseng Koryŏ din regiunea Kaesŏng.", "Complexul a fost recent modernizat cu sisteme de fabricație și ambalare automatizate.", "Produsele sunt utilizate frecvent de stat ca daruri diplomatice de înaltă calitate.", "O parte importantă a stocurilor fabricate este destinată vânzării comerciale în China."],
       en: ["Famous light industry enterprise located in the border city of Sinuiju.", "Produces the prominent state-promoted 'Pomhyanggi' (Spring Scent) brand.", "Frequently featured in state media during leadership inspection tours.", "Utilizes domestic ingredients, notably high-quality Kaesong ginseng.", "Showcases modernized, automated production lines in state propaganda.", "Products are highly sought after by the North Korean elite.", "Represents the regime's push to improve domestic consumer goods."]
     },
-    factsAdvanced: {
-      de: ["Die Sinŭiju-Kosmetikfabrik produziert die Marke 'Pomhyanggi' (Frühlingsduft).", "Die Produkte verwenden häufig Extrakte aus nordkoreanischem Ginseng.", "Die Fabrik befindet sich in der Grenzstadt Sinŭiju.", "Sie gilt als die modernste Kosmetikanlage in Nordkorea.", "Der Staat investierte stark in die Automatisierung der Fabrik.", "Die Kosmetika werden auch ins benachbarte China exportiert."]
-    }
+    
   },
     description: {
       de: "Eine bekannte Fabrik in Sinuiju, die eine Reihe von Kosmetika für den nordkoreanischen Markt herstellt.",
@@ -214,9 +204,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Centrala Pukch'ang este de departe cea mai mare facilitate de generare a energiei din țară.", "Funcționează aproape exclusiv pe seama cărbunelui furnizat de minele de la Kaechŏn și Tŏkchŏn.", "Structura sa uriașă a fost planificată și construită în perioada anilor 1970.", "Are rolul esențial de a furniza curent electric constant pentru capitala Phenian.", "Alimentează energetic principalele complexe siderurgice și chimice din regiunea vestică.", "Emisiile nefiltrate ale centralei constituie o cauză principală a poluării atmosferice locale."],
       en: ["The largest coal-fired thermal power station in North Korea.", "Located in South Pyongan Province near extensive coal mining regions.", "Provides a massive portion of the electricity for Pyongyang and heavy industry.", "Originally constructed with extensive Soviet technical assistance in the 1960s.", "Requires a massive, continuous supply of coal to maintain operations.", "Struggles with aging infrastructure and declining operational efficiency.", "A major source of severe industrial air pollution in the region."]
     },
-    factsAdvanced: {
-      de: ["Das Pukch'ang-Wärmekraftwerk ist das größte Kraftwerk Nordkoreas.", "Die installierte Leistung beträgt geschätzt 1.600 Megawatt.", "Das Kraftwerk wird fast ausschließlich mit lokal abgebauter Kohle betrieben.", "Es liefert einen großen Teil der Elektrizität für Pjöngjang.", "Die Anlage wurde in den späten 1960er und 1970er Jahren massiv ausgebaut.", "Das Kraftwerk beschäftigt Tausende von Arbeitern im Vierschichtbetrieb."]
-    }
+    
   },
     description: {
       de: "Das größte Wärmekraftwerk in Nordkorea, das einen erheblichen Teil des Stroms des Landes erzeugt.",
@@ -252,9 +240,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Hidrocentrala Sup'ung este situată pe fluviul Yalu, la frontiera dintre Coreea de Nord și China.", "A fost construită și finalizată oficial sub ingineria japoneză în anul 1943.", "În momentul construirii sale, a fost al doilea cel mai mare baraj hidroelectric la nivel global.", "Energia electrică produsă este divizată într-un raport de 50-50 cu guvernul de la Beijing.", "Barajul gigant asigură, pe lângă energie, și un control hidrologic eficient anti-inundații.", "Datorită puterii sale strategice, a fost o țintă majoră a bombardierelor din anii 1950-1953."],
       en: ["Massive hydroelectric dam spanning the Yalu River border with China.", "Constructed during the Japanese colonial period in the late 1930s.", "Once considered the largest hydroelectric power facility in Asia.", "Electrical output is shared equally between North Korea and China.", "The dam structure is over 100 meters tall and nearly 900 meters long.", "Survived extensive, targeted aerial bombardment during the Korean War.", "Provides critical power to industrial centers in both nations."]
     },
-    factsAdvanced: {
-      de: ["Das Sup'ung-Wasserkraftwerk liegt am Yalu-Fluss an der Grenze zu China.", "Es wurde 1943 während der japanischen Besatzung fertiggestellt.", "Der Damm ist über 100 Meter hoch und fast 900 Meter lang.", "Die erzeugte Elektrizität wird zwischen China und Nordkorea geteilt.", "1952 wurde das Kraftwerk im Koreakrieg stark bombardiert.", "Es war bei seiner Fertigstellung eines der größten Wasserkraftwerke der Welt."]
-    }
+    
   },
     description: {
       de: "Ein großes Wasserkraftwerk am Yalu-Fluss, das gemeinsam mit China betrieben wird und Strom für beide Länder liefert.",
@@ -290,9 +276,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Siderurgia Hwanghae reprezintă prima fabrică integrată de oțel construită în Peninsula Coreeană.", "Acest combinat colosal este situat în orașul portuar Songnim, de-a lungul râului Taedong.", "Specializarea sa de bază constă în producția grea de fontă, profiluri de oțel și plăci masive.", "Produsele rezultate sunt piloni pentru șantierele navale și industria grea a apărării naționale.", "Din lipsa cărbunelui de cocsificare, a dezvoltat independent metoda unică \"Fierul Juche\".", "Tehnologia Juche utilizează cu succes antracitul extras local pentru a menține producția independentă."],
       en: ["Sprawling heavy industry facility located in the city of Songnim.", "One of the country's most important producers of pig iron and steel.", "Crucial supplier of materials for state construction and the military.", "Highly reliant on domestically sourced coal and iron ore.", "Frequently utilized as a symbol of the 'Juche' ideology in state media.", "Features older infrastructure that requires constant, labor-intensive maintenance.", "Located near the Taedong River for logistical transport access."]
     },
-    factsAdvanced: {
-      de: ["Das Hwanghae-Stahlwerk befindet sich in der Stadt Songnim.", "Es war das erste integrierte Stahlwerk auf der koreanischen Halbinsel.", "Das Werk nutzt teilweise die 'Juche-Eisen'-Technologie mit heimischer Kohle.", "Der Komplex liegt günstig am schiffbaren Taedong-Fluss.", "Tausende Arbeiter sind im Komplex und der angeschlossenen Stadt beschäftigt.", "Es liefert den primären Stahl für die Konstruktionsindustrie in Pjöngjang."]
-    }
+    
   },
     description: {
       de: "Eines der größten Stahlwerke in Nordkorea, gelegen in Songnim. Es spielt eine zentrale Rolle in der Schwerindustrie des Landes.",
@@ -328,9 +312,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Portul maritim Tanchŏn este poarta exclusivă de export pentru mineralele Coreei de Nord.", "Manevrează zilnic cantități industriale formidabile de magnezit pur, zinc și plumb brut.", "Minereurile încărcate aici provin direct din renumita Mină Komdok și complexele locale de procesare.", "La începutul anilor 2010, instalația a suferit dragări majore și modernizări tehnice critice.", "Capacitatea crescută permite preluarea rapidă și încărcarea navelor vrachiere de mare tonaj străine.", "Reprezintă o arteră vitală care generează intrări financiare și valută forte esențiale pentru stat."],
       en: ["Specialized maritime facility located in South Hamgyong Province.", "Extensively modernized to handle mineral exports from the Komdok region.", "Crucial node for generating foreign currency through bulk ore exports.", "Features deep-water berths capable of accommodating large cargo vessels.", "Equipped with extensive conveyor systems for rapid bulk loading.", "Directly linked by rail to major inland mining complexes.", "Primary export hub for North Korean zinc, lead, and magnesite."]
     },
-    factsAdvanced: {
-      de: ["Der Hafen Tanchŏn ist spezialisiert auf den Export von Mineralien.", "Er schlägt massiv Zink, Blei und Magnesit um.", "Die Infrastruktur des Hafens wurde 2012 umfassend modernisiert.", "Der Hafen ist direkt mit der gigantischen Komdok-Mine verbunden.", "Er verfügt über spezielle Förderbänder für die Beladung von Massengut.", "Tanchŏn ist eine der wichtigsten Einnahmequellen für Devisen."]
-    }
+    
   },
     description: {
       de: "Ein wichtiger Hafen an der Ostküste, der für den Export von Magnesit und anderen Mineralien aus den nahegelegenen Minen von Tanchon dient.",
@@ -366,9 +348,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Mina Kŭmgol, situată în districtul Komdok, este cel mai masiv extractor de plumb și zinc din țară.", "Acest complex de extragere se extinde printr-o rețea subterană vastă de sute de kilometri.", "Minereul obținut din acești munți este recunoscut global pentru puritatea și calitatea sa superioară.", "Materia extrasă se îndreaptă fie spre cuptoarele de topire regionale, fie spre portul extern Tanchŏn.", "Productivitatea uriașă se menține în ciuda provocărilor tehnologice aspre și a lipsei de electricitate.", "Rămâne unul dintre puținele active naturale nord-coreene care pot domina o piață mondială."],
       en: ["Considered one of the largest lead and zinc deposits in the world.", "Located in the rugged mountainous terrain of South Hamgyong Province.", "Consists of a massive, multi-tiered underground mining network.", "A critical economic asset providing raw materials for export and defense.", "Supports a vast surrounding company town dedicated to the mining industry.", "Frequently suffers from severe flooding caused by seasonal typhoons.", "Directly connected by specialized railways to the Port of Tanchon."]
     },
-    factsAdvanced: {
-      de: ["Kŭmgol ist die größte Blei- und Zinkmine Nordkoreas.", "Die Mine befindet sich im gebirgigen Komdok-Gebiet.", "Einige der unterirdischen Stollen reichen hunderte Meter tief.", "Das Erz wird per spezieller Eisenbahn zum Hafen Tanchŏn transportiert.", "Die Mine existiert seit der japanischen Kolonialzeit.", "Die Erze sind eine der wenigen von Sanktionen weniger betroffenen Exportgüter."]
-    }
+    
   },
     description: {
       de: "Teil des Komdok-Bergbaukomplexes, einer der größten Produzenten von Blei und Zink in Asien.",
@@ -404,9 +384,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Complexul gigantic Sunchŏn ilustrează idealurile supreme de independență materială și autarhie.", "A fost ridicat în anii 1980 exclusiv pentru prelucrarea la scară națională a fibrei textile vinalon.", "Procedeul inovator autohton fabrică fibra strict din materii abundente: calcar obișnuit și cărbune.", "Platforma se întinde pe suprafețe extinse, semănând cu un adevărat labirint de țevi și furnale înalte.", "Combinatul satisface și nevoia disperată a sectorului agrar pentru îngrășăminte chimice industriale.", "Construirea lui a eliminat teoretic vulnerabilitatea țării de a importa produse pe bază de petrol."],
       en: ["Sprawling chemical production facility located in South Pyongan Province.", "Built in the late 1980s to expand the production of synthetic vinalon.", "Utilizes domestically sourced limestone and anthracite coal.", "Vinalon is celebrated in state propaganda as the 'Juche fiber'.", "Suffered significant operational decline during the 1990s economic crisis.", "Recent state campaigns have attempted to revitalize its chemical output.", "Also designed to produce critical agricultural fertilizers."]
     },
-    factsAdvanced: {
-      de: ["Der Sunchŏn-Komplex produziert Vinalon, die 'Juche-Faser'.", "Vinalon wird in Nordkorea aus Kalkstein und Anthrazitkohle hergestellt.", "Das Werk umfasst eine Fläche von mehreren Quadratkilometern.", "Der Bau des gigantischen Komplexes begann in den späten 1980er Jahren.", "Die Fabrik produziert neben Textilien auch wichtige chemische Düngemittel.", "Der Standort wurde gewählt wegen der nahen Kalkstein- und Kohleminen."]
-    }
+    
   },
     description: {
       de: "Eine große Fabrikanlage, die Vinalon herstellt, eine synthetische Faser, die aus Anthrazitkohle und Kalkstein entwickelt wurde.",
@@ -442,9 +420,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Fabrica de Textile din capitală este detașat cel mai masiv pilon al industriei ușoare naționale.", "Forța sa vastă de muncă, evaluată la zeci de mii de angajați, este preponderent feminină.", "Funcționează ca un micro-oraș izolat, deținând intern propriile cămine sociale, clinici și grădinițe.", "Secțiile de producție folosesc exclusiv materiale precum vinalon autohton, mătase naturală și bumbac.", "Uzina este responsabilă pentru confecționarea tuturor uniformelor școlare standardizate din țară.", "Statutul său de fabrică-model atrage vizite de lucru regulate din partea înaltelor eșaloane de stat."],
       en: ["One of the largest light industry textile complexes in North Korea.", "Located on the eastern bank of the Taedong River in Pyongyang.", "Mass-produces cotton, rayon, and silk fabrics for domestic use.", "Employs a massive, predominantly female workforce.", "Features extensive on-site dormitories, nurseries, and social facilities.", "Frequently highlighted as a model enterprise in state propaganda.", "Originally established during the post-liberation period in the late 1940s."]
     },
-    factsAdvanced: {
-      de: ["Die Textilfabrik Pjöngjang ist die größte Textilfabrik Nordkoreas.", "Sie beschäftigt überwiegend weibliche Arbeitskräfte.", "Das Werk ist berühmt für die Produktion von Schul- und Arbeitsuniformen.", "Kim Il-sung wies 1948 den Bau dieser Anlage an.", "Die Fabrik besitzt umfangreiche soziale Einrichtungen für die Arbeiter.", "In den Hallen werden Seide, Baumwolle und die Kunstfaser Vinalon verarbeitet."]
-    }
+    
   },
     description: {
       de: "Eine der größten Textilfabriken in Pjöngjang, die zu Ehren von Kim Jong-suk, der Frau von Kim Il-sung, benannt wurde.",
@@ -480,9 +456,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Numele unității \"8 Februarie\" a fost oferit pentru a onora aniversarea fondării Armatei Populare.", "Inaugurat grandios în anul 1961, acesta este locul exact unde s-a inventat producția masivă de vinalon.", "Acest combinat stă la baza statutului orașului Hamhŭng de principal bastion chimic al națiunii.", "Extrage textile durabile strict din materie brută nord-coreeană, folosind calcar și cărbune natural.", "Crearea sa a stopat oficial și brusc dependența țării de achiziționarea volumelor imense de bumbac extern.", "Infrastructura prelucrează cantități formidabile de calcar zilnic în zecile sale de cuptoare și reactoare."],
       en: ["Original mass production site of North Korea's indigenous vinalon fiber.", "Located in the major eastern industrial city of Hamhung.", "Named after the founding date of the Korean People's Army.", "Established in 1961 as a symbol of socialist self-reliance (Juche).", "Creates synthetic textiles using abundant domestic coal and limestone.", "Operates as a massive, self-contained industrial ecosystem.", "Was severely impacted by national energy shortages in the 1990s."]
     },
-    factsAdvanced: {
-      de: ["Der Komplex in Hamhŭng wurde am 8. Februar 1961 eröffnet.", "Er ist die erste Vinalon-Fabrik Nordkoreas.", "Die Technologie für Vinalon wurde von dem koreanischen Chemiker Ri Sung-gi entwickelt.", "Die Anlage nutzt Kalkstein aus der Region als Hauptrohstoff.", "Der Komplex ist der Hauptarbeitgeber der Stadt Hamhŭng.", "Neben Textilien werden auch Farbstoffe und industrielle Chemikalien hergestellt."]
-    }
+    
   },
     description: {
       de: "Ein weiterer großer Vinalon-Produktionskomplex in der Nähe von Hamhung, der nach dem Gründungstag der Koreanischen Volksarmee benannt ist.",
@@ -518,9 +492,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Complexul industrial Taean a fost inaugurat și complet funcțional încă din anii 1970.", "S-a profilat pe crearea mașinăriilor gigantice, incluzând turbine grele și generatoare vitale barajelor.", "Piesele obținute aici sunt de o necesitate critică pentru dezvoltarea rețelelor electrice de stat.", "Această zonă a definitiat modelul istoric de administrare nord-coreean numit \"Sistemul de Muncă Taean\".", "Echipamentul halelor masive de oțel susține cu succes asamblarea pieselor de mii de tone.", "Facilitatea deservește cu o eficiență rară toate mega-proiectele de hidrocentrale montane."],
       en: ["Premier state enterprise manufacturing massive industrial machinery.", "Located near the western port city of Nampo.", "Origin of the 'Taean Work System' management model introduced in 1961.", "Produces giant turbines and generators for hydroelectric power plants.", "Manufactures custom metallurgical equipment for steel complexes.", "Vital for maintaining the nation's heavy infrastructure and power grid.", "Operates under a strict collective party committee leadership system."]
     },
-    factsAdvanced: {
-      de: ["Der Taean-Komplex baut Turbinen und Generatoren für nordkoreanische Kraftwerke.", "Er befindet sich in der Stadt Taean, südwestlich von Pjöngjang.", "Die Anlage ist Namensgeber des ideologischen 'Taean-Arbeitssystems'.", "Das Werk kann Maschinenteile fertigen, die hunderte Tonnen wiegen.", "Der Bau des heutigen massiven Komplexes begann 1977.", "Das Werk ist direkt an den Schiffsverkehr auf dem Taedong-Fluss angebunden."]
-    }
+    
   },
     description: {
       de: "Ein großer Industriekomplex in der Nähe von Nampo, der auf die Herstellung von schwerem Gerät für Kraftwerke spezialisiert ist.",
@@ -556,9 +528,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Complexul poartă denumirea venerabilă în presa de stat de \"Mama Fabricilor\" din Coreea de Nord.", "Uzina creează exclusiv echipamente ultra-specializate destinate funcționării celorlalte combinate grele.", "S-a evidențiat prin construcția formidabilă de compresoare chimice de înaltă presiune și prese hidraulice.", "A contribuit direct și majoritar cu componente și utilaje pentru dotarea marilor complexe de Vinalon.", "Angajații sunt slăviți oficial pentru ingeniozitatea lor de a fabrica mașinării complexe cu resurse izolate.", "Acest stabiliment reflectă puritatea și supremația tehnologică a ideologiei de independență Juche."],
       en: ["Highly revered as the 'mother factory' of the machine-building industry.", "Located in the eastern industrial hub of Hamhung.", "Specializes in massive industrial compressors and custom machine tools.", "Famous for independently building a colossal 8,000-ton press.", "A major symbol of North Korean technological self-sufficiency.", "Deeply integrated into both civilian and covert defense manufacturing.", "Supplies critical engineering components to chemical and metallurgical plants."]
     },
-    factsAdvanced: {
-      de: ["Der Ryongsong-Komplex wird in Nordkorea oft als 'Mutter der Fabriken' gefeiert.", "Die Fabrik baut Hochdruckkompressoren für die chemische Industrie.", "Sie befindet sich in der industriellen Küstenstadt Hamhŭng.", "Ryongsong produzierte 1985 Nordkoreas erste 10.000-Tonnen-Presse.", "Das Kombinat rüstet viele der anderen großen Fabriken im Land aus.", "Die Anlage wurde ursprünglich während der Kolonialzeit für die Düngemittelindustrie gegründet."]
-    }
+    
   },
     description: {
       de: "Eine große Maschinenfabrik in Hamhung, die maßgeschneiderte schwere Maschinen und Industrieanlagen herstellt.",
@@ -594,9 +564,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Siderurgia Kim Ch'aek reprezintă centrul principal al producției metalurgice nord-coreene.", "Poartă numele faimosului general și strateg Kim Ch'aek din Războiul din Coreea.", "Complexul este situat strategic în orașul de coastă Chŏngjin.", "Materia primă este pompată printr-o conductă unică lungă de 98 kilometri din Mina Musan.", "Produce marea majoritate a oțelului structural necesar pentru armată și industria navală.", "Furnalele și uzinele sale masive de cocs domină complet orizontul industrial al orașului."],
       en: ["The largest and most crucial metallurgical enterprise in North Korea.", "Located in the northeastern industrial port city of Chongjin.", "Heavily rebuilt and expanded with Soviet technical assistance.", "Primary producer of steel plating and structural beams for the nation.", "Endures systemic challenges like erratic power and outdated blast furnaces.", "Portrayed in state media as the unbreakable backbone of the economy.", "Named in honor of General Kim Chaek, a prominent revolutionary figure."]
     },
-    factsAdvanced: {
-      de: ["Es ist das größte Stahlwerk auf der gesamten koreanischen Halbinsel.", "Eine 98 Kilometer lange Pipeline versorgt das Werk mit Eisenerz.", "Es wurde nach General Kim Ch'aek benannt.", "Die riesigen Hochöfen wurden mit sowjetischer Unterstützung errichtet.", "Das Werk hat einen eigenen Tiefseehafen für den Export.", "Die Stahlerzeugung hier ist essenziell für die nordkoreanische Rüstung."]
-    }
+    
   },
     description: {
       de: "Ein weiteres großes Stahlwerk, gelegen in der Stadt Kimchaek. Es ist ein wichtiger Pfeiler der nordkoreanischen Schwerindustrie.",
@@ -632,9 +600,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Fabrica din Kusŏng este producătorul de top al mașinilor-unelte cu comandă numerică (CNC).", "Echipamentele construite aici sunt esențiale pentru frezarea precisă a componentelor militare și civile.", "Software-ul CNC dezvoltat la Kusŏng este o prioritate a cercetării de stat nord-coreene.", "Se află în provincia P'yŏngan de Nord, într-o regiune protejată de un relief colinar.", "Utilajele produse sprijină masiv eforturile regimului de a-și moderniza restul parcului industrial.", "Instalația este adesea vizitată de conducerea superioară pentru a lăuda \"autosuficiența tehnologică\"."],
       en: ["Highly secretive manufacturing facility in North Pyongan Province.", "Nominally produces civilian lathes and advanced CNC machinery.", "Identified internationally as a hub for ballistic missile component production.", "Manufactures precision parts for artillery and tracked military vehicles.", "Heavily guarded and embedded in defensive mountainous terrain.", "Employs elite engineers working for the state defense sector.", "Frequently inspected by high-ranking military leadership."]
     },
-    factsAdvanced: {
-      de: ["Die Fabrik ist der Hauptproduzent von CNC-Maschinen in Nordkorea.", "Sie befindet sich in der Stadt Kusŏng in Nord-P'yŏngan.", "Werkzeugmaschinen aus Kusŏng werden landesweit zur Modernisierung eingesetzt.", "Die staatliche Propaganda lobt die Fabrik oft für ihre Eigenständigkeit.", "Die Maschinen sind entscheidend für feine zivile und militärische Bauteile.", "Das Werk entwickelt eigene Software für die computergesteuerte Fertigung."]
-    }
+    
   },
     description: {
       de: "Eine wichtige Fabrik in Kusong, die sich auf die Herstellung von Werkzeugmaschinen für andere Industrien spezialisiert hat.",
@@ -670,9 +636,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Complexul Anju este de departe cel mai vast bazin de extracție a cărbunelui din țară.", "Antracitul extras aici alimentează majoritatea centralelor termice și oțelăriilor nord-coreene.", "Zona arată ca un peisaj industrial complet modelat de puțuri și guri de extracție.", "Trenurile de marfă încărcate la Anju deservesc prioritar capitala și centrele chimice.", "Munca de o dificultate extremă din subteran este constant aclamată de propaganda națională.", "Oprirea minelor din această regiune ar duce rapid la o criză energetică generalizată în stat."],
       en: ["Expansive network of subterranean coal mines in South Pyongan Province.", "Located within the resource-rich Anju Basin.", "Primary supplier of anthracite coal to the Pukchang Thermal Power Plant.", "Critical to maintaining North Korea's strategy of energy independence.", "Mining conditions are notoriously difficult and highly dangerous.", "Frequently suffers from deep shaft flooding and outdated ventilation.", "Employs a massive workforce to manually extract vital energy resources."]
     },
-    factsAdvanced: {
-      de: ["Der Anju-Komplex ist das wichtigste Kohleabbaugebiet Nordkoreas.", "Die Minen fördern hauptsächlich hochwertige Anthrazitkohle.", "Das Abbaugebiet liegt am Ch'ŏngch'ŏn-Fluss.", "Die Kohle versorgt Nordkoreas wichtigste Wärmekraftwerke, wie Pukch'ang.", "Der Komplex besteht aus einem Netzwerk Dutzender einzelner Tiefbauminen.", "Die Kohle aus Anju wird auch an Chemiefabriken zur Vinalon-Produktion geliefert."]
-    }
+    
   },
     description: {
       de: "Eines der größten Kohlebergbaugebiete in Nordkorea, das sich in der Provinz Süd-Pyongan befindet.",
@@ -709,9 +673,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Phenian-Est este centrala termică responsabilă de încălzirea cartierelor rezidențiale ale capitalei.", "Unitatea utilizează masiv combustibil fosil, primind zilnic mii de tone de cărbune.", "Pompează apă fierbinte într-un sistem vast de conducte subterane destinate blocurilor comuniste.", "Coșurile de fum ale centralei sunt vizibile de la mari distanțe de oriunde din oraș.", "Deși vitală, unitatea este un factor major de generare a smogului gros în timpul iernii.", "Menținerea funcționării ei constante este o chestiune de securitate națională pentru capitală."],
       en: ["Critical energy facility located in the eastern districts of Pyongyang.", "Constructed with substantial Soviet technical assistance in the 1980s.", "Provides vital centralized district heating to residential apartment blocks.", "Relies on massive, continuous rail deliveries of coal.", "Essential for urban survival during the harsh North Korean winters.", "Operations are frequently hindered by aging infrastructure and fuel shortages.", "A major contributor to air pollution within the capital city."]
     },
-    factsAdvanced: {
-      de: ["Das Kraftwerk liegt am östlichen Ufer des Taedong-Flusses in Pjöngjang.", "Es ist ein wichtiges Kraftwerk mit Kraft-Wärme-Kopplung.", "Die Anlage versorgt einen großen Teil der Hauptstadt mit Fernwärme.", "Das Kraftwerk wurde in den späten 1980er Jahren errichtet.", "Es verbrennt fast ausschließlich im Inland abgebaute Steinkohle.", "Aufgrund des Alters kämpft die Anlage oft mit Effizienzproblemen."]
-    }
+    
   },
     description: {
       de: "Ein wichtiges Kraftwerk, das die Hauptstadt Pjöngjang mit Strom und Fernwärme versorgt.",
@@ -747,9 +709,7 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ro: ["Hidrocentrala Wiwŏn este amplasată pe fluviul Yalu, la frontiera chino-nord-coreeană.", "A fost construită și dată în exploatare la sfârșitul anilor 1980 printr-un efort comun bilateral.", "Energia hidroelectrică obținută este împărțită frățește între Coreea de Nord și China.", "Joacă un rol esențial în alimentarea complexului militar-industrial ascuns în provincia Chagang.", "Barajul captează rezervele masive de apă dulce formate din topirea zăpezilor de pe Muntele Paektu.", "Reprezintă o lucrare de inginerie masivă construită într-o regiune alpină greu accesibilă."],
       en: ["Major hydroelectric facility located on the Yalu River.", "Operates as a joint economic venture between North Korea and China.", "Creates a massive reservoir in the mountainous Chagang Province.", "Electricity output is divided between the North Korean and Chinese grids.", "Provides stable power to secretive industrial zones in Chagang.", "Exemplifies strategic infrastructural ties along the border.", "Features a massive concrete dam structure spanning the river valley."]
     },
-    factsAdvanced: {
-      de: ["Das Wiwŏn-Wasserkraftwerk ist ein Gemeinschaftsprojekt mit China.", "Es liegt am Yalu-Fluss in der Provinz Chagang.", "Der Staudamm wurde Ende der 1980er Jahre fertiggestellt.", "Die produzierte Wasserkraft wird zwischen beiden Ländern aufgeteilt.", "Das Kraftwerk nutzt die Topografie der nördlichen Gebirgszüge ideal aus.", "Es versorgt viele Rüstungs- und Maschinenbaufabriken der Region mit Strom."]
-    }
+    
   },
     description: {
       de: "Ein Wasserkraftwerk am Yalu-Fluss, das gemeinsam mit China als Teil einer Kaskade von Dämmen betrieben wird.",

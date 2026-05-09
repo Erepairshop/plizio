@@ -375,13 +375,13 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     name: { de: "Penden Zementfabrik (Gomtu)", hu: "Penden Cementgyár (Gomtu)", ro: "Fabrica de Ciment Penden (Gomtu)", en: "Penden Cement Authority (Gomtu)" },
     description: {
       de: "Das älteste und eines der größten Zementwerke Bhutans in Gomtu. Die Produktion ist essenziell für die Infrastrukturprojekte des Landes und den Bau der riesigen Wasserkraftwerke.",
-      hu: "Bhután legrégebbi és egyik legnagyobb cementgyára Gomtuban. A termelés elengedhetetlen az ország infrastrukturális projektjeihez és a hatalmas vízerőművek építéséhez.",
+      hu: "A Penden Cement Authority Bhután egyik legnagyobb ipari létesítménye, amely jelentősen hozzájárul az ország építőiparának fejlődéséhez. A vállalat modern technológiát alkalmaz a cementgyártásban, kielégítve a hazai és a regionális keresletet.",
       ro: "Cea mai veche și una dintre cele mai mari fabrici de ciment din Bhutan, în Gomtu. Producția este esențială pentru proiectele de infrastructură ale țării și pentru construcția marilor hidrocentrale.",
       en: "Bhutan's oldest and one of its largest cement plants in Gomtu. The production is essential for the country's infrastructure projects and the construction of massive hydropower plants."
     },
     facts: {
       de: ["Gegründet 1974", "Erstes großes Zementwerk", "Wichtig für Staudämme", "Liegt in Gomtu, Samtse"],
-      hu: ["Alapítva: 1974", "Első nagy cementgyár", "Fontos a gátakhoz", "Gomtuban, Samtse körzetben található"],
+      hu: ["Bhutáni ipari vállalat", "Építőanyag-gyártás", "Regionális beszállító", "Gazdasági pillér"],
       ro: ["Înființată în 1974", "Prima mare fabrică de ciment", "Importantă pentru baraje", "Situată în Gomtu, Samtse"],
       en: ["Established in 1974", "First major cement plant", "Crucial for dam building", "Located in Gomtu, Samtse"]
     },

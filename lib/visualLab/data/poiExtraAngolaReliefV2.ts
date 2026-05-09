@@ -345,12 +345,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-MAL",
     coords: [16.0, -9.5],
     name: { de: "Malanje-Hochland", hu: "Malanje-felföld", ro: "Podi?ul Malanje", en: "Malanje Plateau" },
-    description: { de: "Ebene Hochlandschaft.", hu: "Síksági felföld.", ro: "Un platou fertil situat în partea central-nordică, esențial pentru agricultură și climatul regional.", en: "Flat highland landscape." },
+    description: { de: "Ebene Hochlandschaft.", hu: "Síksági felföld.", ro: "Un platou fertil situat în partea central-nordică, esențial pentru agricultură și climatul regional.", en: "A high plateau region characteristic of the diverse topographical structure of northern Angola." },
     facts: {
       de: ["Günstige landwirtschaftliche Böden.", "Offene Flächen."],
       hu: ["Kedvezo mezogazdasági talajok.", "Nyílt területek."],
       ro: ["Situat în Malanje", "Regiune fertilă", "Relief platou"],
-      en: ["Favorable agricultural soils.", "Open areas."]
+      en: ["High plateau region", "Northern topography", "Elevated landscape", "Geological feature"]
     },
     descriptionAdvanced: {
       de: "Malanje-Hochland ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Ebene Hochlandschaft. Günstige landwirtschaftliche Böden. Offene Flächen. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
@@ -371,12 +371,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-LSU",
     coords: [19.5, -9.0],
     name: { de: "Lunda-Steilstufe", hu: "Lunda-lépcso", ro: "Escarpa Lunda", en: "Lunda Escarpment" },
-    description: { de: "Geländestufe im Nordosten.", hu: "Tereplépcso északkeleten.", ro: "O formațiune de escarpă notabilă care marchează tranziția între regiunile joase și podișurile înalte.", en: "Escarpment in the northeast." },
+    description: { de: "Geländestufe im Nordosten.", hu: "Tereplépcso északkeleten.", ro: "O formațiune de escarpă notabilă care marchează tranziția între regiunile joase și podișurile înalte.", en: "A significant escarpment marking the transition between the central plateau and coastal plains." },
     facts: {
       de: ["Übergang zur Kongo-Senke.", "Steiles Profil."],
       hu: ["Átmenet a Kongó-medencéhez.", "Meredek profil."],
       ro: ["Bariera geografică", "Formațiune de escarpă", "Diferență de nivel"],
-      en: ["Transition to Congo basin.", "Steep profile."]
+      en: ["Transition escarpment", "Central plateau border", "Geological cliff formation", "Regional topography"]
     },
     descriptionAdvanced: {
       de: "Lunda-Steilstufe ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Geländestufe im Nordosten. Übergang zur Kongo-Senke. Steiles Profil. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
@@ -397,12 +397,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-UIG",
     coords: [15.0, -7.0],
     name: { de: "Uíge-Hügel", hu: "Uíge-dombok", ro: "Colinele Uíge", en: "Uíge Hills" },
-    description: { de: "Hügellandschaft im Norden.", hu: "Dombvidék északon.", ro: "O zonă deluroasă pitorească situată în nordul țării, caracterizată prin vegetație bogată și relief unduit.", en: "Hilly landscape in the north." },
+    description: { de: "Hügellandschaft im Norden.", hu: "Dombvidék északon.", ro: "O zonă deluroasă pitorească situată în nordul țării, caracterizată prin vegetație bogată și relief unduit.", en: "A hilly region contributing to the complex and varied landscape of the Uíge province." },
     facts: {
       de: ["Sehr grün.", "Hohe Niederschläge."],
       hu: ["Nagyon zöld.", "Magas csapadék."],
       ro: ["Situat în Uíge", "Relief deluros", "Peisaj verde"],
-      en: ["Very green.", "High rainfall."]
+      en: ["Hilly region", "Varied landscape", "Uíge province topography", "Natural terrain relief"]
     },
     descriptionAdvanced: {
       de: "Uíge-Hügel ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Hügellandschaft im Norden. Sehr grün. Hohe Niederschläge. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
@@ -449,12 +449,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-NAM",
     coords: [12.5, -15.5],
     name: { de: "Namibe-Ebene", hu: "Namibe-síkság", ro: "Câmpia Namibe", en: "Namibe Plain" },
-    description: { de: "Küstenebene.", hu: "Parti síkság.", ro: "O câmpie aridă extinsă care se întinde de-a lungul coastei de sud, fiind una dintre cele mai secetoase zone.", en: "Coastal plain." },
+    description: { de: "Küstenebene.", hu: "Parti síkság.", ro: "O câmpie aridă extinsă care se întinde de-a lungul coastei de sud, fiind una dintre cele mai secetoase zone.", en: "A vast, arid coastal plain extending along the desert coastline of the Namibe province." },
     facts: {
       de: ["Trocken.", "Wenig Vegetation."],
       hu: ["Száraz.", "Kevés növényzet."],
       ro: ["Zona de coastă", "Câmpie deșertică", "Climă aridă"],
-      en: ["Dry.", "Little vegetation."]
+      en: ["Arid coastal plain", "Desert coastline", "Namibe province feature", "Flat topographical zone"]
     },
     descriptionAdvanced: {
       de: "Namibe-Ebene ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Küstenebene. Trocken. Wenig Vegetation. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
@@ -475,12 +475,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-CUS",
     coords: [14.5, -10.5],
     name: { de: "Cumbira", hu: "Cumbira", ro: "Cumbira", en: "Cumbira" },
-    description: { de: "Berg in Cuanza Sul.", hu: "Hegy Cuanza Sulban.", ro: "Munte în Cuanza Sul.", en: "Mountain in Cuanza Sul." },
+    description: { de: "Berg in Cuanza Sul.", hu: "Hegy Cuanza Sulban.", ro: "Munte în Cuanza Sul.", en: "A mountain prominence providing a distinct relief feature in the regional landscape." },
     facts: {
       de: ["Waldbedeckt.", "Steile Flanken."],
       hu: ["Erdo borítja.", "Meredek oldalak."],
       ro: ["Acoperit de padure.", "Flancuri abrupte."],
-      en: ["Forest-covered.", "Steep flanks."]
+      en: ["Mountain prominence", "Distinct relief feature", "Natural regional elevation", "Topographical landmark"]
     },
     descriptionAdvanced: {
       de: "Cumbira ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Berg in Cuanza Sul. Waldbedeckt. Steile Flanken. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
@@ -527,12 +527,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.3, -15.1],
     name: { de: "Tundavala", hu: "Tundavala", ro: "Tundavala", en: "Tundavala" },
-    description: { de: "Steilabbruch bei Lubango.", hu: "Merdek szakadék Lubango közelében.", ro: "O formațiune muntoasă spectaculoasă, faimoasă pentru prăpăstiile sale adânci și vedere asupra platoului.", en: "Steep escarpment near Lubango." },
+    description: { de: "Steilabbruch bei Lubango.", hu: "Merdek szakadék Lubango közelében.", ro: "O formațiune muntoasă spectaculoasă, faimoasă pentru prăpăstiile sale adânci și vedere asupra platoului.", en: "A dramatic mountain gap and plateau edge known for its sheer vertical drops." },
     facts: {
       de: ["Spektakulärer Abgrund.", "Sehr hoch."],
       hu: ["Látványos szakadék.", "Nagyon magas."],
       ro: ["Situat în Lubango", "Fisură geologică", "Punct de panoramă"],
-      en: ["Spectacular abyss.", "Very high."]
+      en: ["Dramatic mountain gap", "Sheer plateau edge", "Vertical cliff drops", "Topographical highlight"]
     },
     descriptionAdvanced: {
       de: "Tundavala ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Steilabbruch bei Lubango. Spektakulärer Abgrund. Sehr hoch. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
@@ -553,12 +553,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.5, -15.0],
     name: { de: "Humpata-Hochland", hu: "Humpata-felföld", ro: "Podi?ul Humpata", en: "Humpata Plateau" },
-    description: { de: "Kühles Hochland.", hu: "Huvös felföld.", ro: "Un platou înalt cu un microclimat unic, situat în apropierea orașului Lubango, cunoscut pentru biodiversitatea sa.", en: "Cool highland." },
+    description: { de: "Kühles Hochland.", hu: "Huvös felföld.", ro: "Un platou înalt cu un microclimat unic, situat în apropierea orașului Lubango, cunoscut pentru biodiversitatea sa.", en: "A cool, high-altitude plateau area famous for its unique mountain climate and scenery." },
     facts: {
       de: ["Günstiges Klima.", "Touristisch bekannt."],
       hu: ["Kedvezo éghajlat.", "Turisztikailag ismert."],
       ro: ["Situat în Huíla", "Platou muntos", "Microclimat specific"],
-      en: ["Favorable climate.", "Known for tourism."]
+      en: ["High-altitude plateau", "Cool mountain climate", "Scenic landscape", "Geographic plateau zone"]
     },
     descriptionAdvanced: {
       de: "Humpata-Hochland ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Kühles Hochland. Günstiges Klima. Touristisch bekannt. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
@@ -579,12 +579,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-MOX",
     coords: [20.0, -12.5],
     name: { de: "Mochico", hu: "Mochico", ro: "Mochico", en: "Mochico" },
-    description: { de: "Erhebung im Osten.", hu: "Emelkedo keleten.", ro: "Un munte proeminent care se ridică peste peisajul regiunii, oferind un punct de reper geografic important.", en: "Elevation in the east." },
+    description: { de: "Erhebung im Osten.", hu: "Emelkedo keleten.", ro: "Un munte proeminent care se ridică peste peisajul regiunii, oferind un punct de reper geografic important.", en: "A mountain peak and surrounding highland area defining the local rugged terrain." },
     facts: {
       de: ["Flache Gipfel.", "Savannen-Landschaft."],
       hu: ["Lapos csúcsok.", "Szavannás táj."],
       ro: ["Înălțime dominantă", "Formațiune muntoasă", "Reper geografic"],
-      en: ["Flat peaks.", "Savannah landscape."]
+      en: ["Mountain peak area", "Rugged highland terrain", "Local relief feature", "Topographical height"]
     },
     descriptionAdvanced: {
       de: "Mochico ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Erhebung im Osten. Flache Gipfel. Savannen-Landschaft. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
@@ -605,12 +605,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-LNO",
     coords: [19.5, -8.5],
     name: { de: "Lunda-Hochland", hu: "Lunda-felföld", ro: "Podi?ul Lunda", en: "Lunda Plateau" },
-    description: { de: "Weite Hochebene.", hu: "Széles fennsík.", ro: "Un podiș vast care ocupă o mare parte din estul Angolei, influențând rețeaua hidrografică regională.", en: "Vast plateau." },
+    description: { de: "Weite Hochebene.", hu: "Széles fennsík.", ro: "Un podiș vast care ocupă o mare parte din estul Angolei, influențând rețeaua hidrografică regională.", en: "A wide-reaching plateau characterizing much of the elevated interior of eastern Angola." },
     facts: {
       de: ["Diamantenvorkommen.", "Wichtiges Relief."],
       hu: ["Gyémántlelohelyek.", "Fontos domborzati elem."],
       ro: ["Podis vast", "Estul Angolei", "Zonă de cumpănă de ape"],
-      en: ["Diamond deposits.", "Important relief element."]
+      en: ["Wide-reaching plateau", "Elevated interior", "Eastern Angola topography", "Large-scale landscape"]
     },
     descriptionAdvanced: {
       de: "Lunda-Hochland ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Weite Hochebene. Diamantenvorkommen. Wichtiges Relief. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
@@ -631,12 +631,12 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-BIE",
     coords: [17.0, -11.5],
     name: { de: "Oberes Cuanza-Tal", hu: "Felso-Cuanza-völgy", ro: "Valea superioara a Cuanzei", en: "Upper Cuanza Valley" },
-    description: { de: "Ursprung des Cuanza.", hu: "A Cuanza eredete.", ro: "O vale fertilă creată de râul Cuanza, fiind inima geografică și economică a multor activități agricole.", en: "Origin of the Cuanza." },
+    description: { de: "Ursprung des Cuanza.", hu: "A Cuanza eredete.", ro: "O vale fertilă creată de râul Cuanza, fiind inima geografică și economică a multor activități agricole.", en: "A significant river valley shaping the surrounding geography and regional relief." },
     facts: {
       de: ["Hügeliges Gelände.", "Viele Quellen."],
       hu: ["Dombos terep.", "Sok forrás."],
       ro: ["Vale de râu", "Bazinul râului Cuanza", "Regiune fertilă"],
-      en: ["Hilly terrain.", "Many springs."]
+      en: ["River valley feature", "Shaped geography", "Regional relief system", "Important drainage valley"]
     },
     descriptionAdvanced: {
       de: "Oberes Cuanza-Tal ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Ursprung des Cuanza. Hügeliges Gelände. Viele Quellen. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",

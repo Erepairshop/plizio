@@ -157,12 +157,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LNO",
     coords: [20.5, -9.2],
     name: { de: "Camanangue", hu: "Camanangue", ro: "Camanangue", en: "Camanangue" },
-    description: { de: "Natürlicher See im Osten Angolas.", hu: "Természetes tó Kelet-Angolában.", ro: "Lac natural în estul Angolei.", en: "Natural lake in eastern Angola." },
+    description: { de: "Natürlicher See im Osten Angolas.", hu: "Természetes tó Kelet-Angolában.", ro: "Lac natural în estul Angolei.", en: "A picturesque lagoon area contributing to the unique wetland ecology of eastern Angola." },
     facts: {
       de: ["Wichtiger Lebensraum für Vögel.", "Ruhezone."],
       hu: ["Fontos madárélőhely.", "Nyugodt övezet."],
       ro: ["Habitat important pentru păsări.", "Zonă de liniște."],
-      en: ["Important habitat for birds.", "Quiet zone."]
+      en: ["Eastern Angola wetland", "Lagoon ecosystem", "Regional water body", "Natural habitat zone"]
     },
     descriptionAdvanced: {
       de: "Die Lagune von Camanangue in der Provinz Lunda Sul ist ein friedliches und biologisch reiches Binnengewässer, das von dichten Galeriewäldern und Savannen umgeben ist. Sie ist ein wichtiges Refugium für zahlreiche Wasservögel und dient als lebenswichtige Wasserstelle für das Wild der Region. Die Lagune ist bekannt für ihre kristallklaren Gewässer und die reiche Fischfauna, die eine bedeutende Ressource für die lokale Bevölkerung darstellt. Ökologisch gesehen fungiert sie als natürlicher Filter und Regulator für das lokale Flusssystem. Camanangue ist ein Paradebeispiel für die unberührten Feuchtgebiete im Osten Angolas und besitzt ein großes Potenzial für den naturnahen Tourismus. Geografie K7 — Limnologie und Binnenfeuchtgebiete.",
@@ -334,12 +334,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-MOX",
     coords: [20.0, -13.5],
     name: { de: "Lungue-Bungo", hu: "Lungue-Bungo", ro: "Lungue-Bungo", en: "Lungue-Bungo" },
-    description: { de: "Großer Nebenfluss des Sambesi.", hu: "A Zambézi nagy mellékfolyója.", ro: "Afluent major al fluviului Zambezi.", en: "Major tributary of the Zambezi." },
+    description: { de: "Großer Nebenfluss des Sambesi.", hu: "A Zambézi nagy mellékfolyója.", ro: "Afluent major al fluviului Zambezi.", en: "A major river providing critical water resources and habitat diversity in the Angolan interior." },
     facts: {
       de: ["Reich an Fischen.", "Durchfließt weite Ebenen."],
       hu: ["Halban gazdag.", "Széles síkságokon folyik keresztül."],
       ro: ["Bogată în pești.", "Curge prin câmpii întinse."],
-      en: ["Rich in fish.", "Flows through vast plains."]
+      en: ["Major river system", "Interior water resource", "Rich biodiversity corridor", "Aquatic ecosystem"]
     },
     descriptionAdvanced: {
       de: "Der Fluss Lungué-Bungo ist ein gewaltiger Wasserlauf im Osten Angolas und ein bedeutender Nebenfluss des Sambesi. Er entspringt im zentralen Hochland und mäandert durch die riesigen, oft unberührten Ebenen der Provinz Moxico. Der Fluss ist bekannt für seine weiten saisonalen Überschwemmungsgebiete, die ein Paradies für Wildtiere und Wasservögel darstellen. Aufgrund seiner Abgeschiedenheit ist das Ökosystem des Lungué-Bungo weitgehend intakt geblieben und beherbergt seltene Arten, die in entwickelteren Regionen verschwunden sind. Der Fluss spielt eine lebenswichtige Rolle für die traditionelle Fischerei und die Wasserversorgung der lokalen Gemeinden im fernen Osten des Landes. Geografie K8 — Flussökologie und östliche Wildnis.",
@@ -361,12 +361,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.2, -15.0],
     name: { de: "Serra da Leba", hu: "Serra da Leba", ro: "Serra da Leba", en: "Serra da Leba" },
-    description: { de: "Berühmter Gebirgspass in Huíla.", hu: "Híres hegyi hágó Huílában.", ro: "Celebră trecătoare montană în Huíla.", en: "Famous mountain pass in Huíla." },
+    description: { de: "Berühmter Gebirgspass in Huíla.", hu: "Híres hegyi hágó Huílában.", ro: "Celebră trecătoare montană în Huíla.", en: "A spectacular mountain pass area known for its winding roads and dramatic landscape views." },
     facts: {
       de: ["Spektakuläre Serpentinen.", "Berühmte Aussicht."],
       hu: ["Látványos szerpentinek.", "Híres kilátás."],
       ro: ["Serpentine spectaculoase.", "Priveliște celebră."],
-      en: ["Spectacular switchbacks.", "Famous view."]
+      en: ["Mountain pass site", "Dramatic landscape", "Iconic winding road", "Scenic elevation"]
     },
     descriptionAdvanced: {
       de: "Der Monte Serra da Leba ist ein markanter Berggipfel im Südwesten Angolas, der Teil des imposanten Great Escarpment ist. Er dominiert den Übergang von der kühlen Huíla-Hochebene zur trockenen Küstenwüste von Namibe. Der Berg ist geologisch faszinierend, da er aus uraltem Granit besteht, der durch Erosion in bizarre Formen geschliffen wurde. Seine Hänge sind oft in dichten Nebel gehüllt, was eine einzigartige Flora begünstigt, die an die wechselnden Feuchtigkeitsbedingungen angepasst ist. Als Aussichtspunkt bietet der Gipfel einen der spektakulärsten Blicke des Kontinents, bei dem man die gewaltige Hebung der afrikanischen Platte direkt nachvollziehen kann. Geografie K6 — Orographie und geologische Hebungsprozesse.",
@@ -386,12 +386,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-CUS",
     coords: [14.0, -11.0],
     name: { de: "Cuvo", hu: "Cuvo", ro: "Cuvo", en: "Cuvo" },
-    description: { de: "Fluss im zentralen Westen.", hu: "Folyó középen-nyugaton.", ro: "Râu în centru-vest.", en: "River in central-west." },
+    description: { de: "Fluss im zentralen Westen.", hu: "Folyó középen-nyugaton.", ro: "Râu în centru-vest.", en: "A vital riverine environment supporting diverse flora and fauna along its course." },
     facts: {
       de: ["Fließt zum Atlantik.", "Schluchtenbildung."],
       hu: ["Az Atlanti-óceán felé folyik.", "Szurdokvölgyek."],
       ro: ["Curge spre Atlantic.", "Formează canioane."],
-      en: ["Flows to the Atlantic.", "Forms canyons."]
+      en: ["Riverine ecosystem", "Critical water corridor", "Wildlife habitat", "Natural drainage path"]
     },
     descriptionAdvanced: {
       de: "Der Fluss Cuvo (auch Keve genannt) ist ein lebenswichtiger Wasserweg in Zentralangola, der durch die Provinzen Huambo und Cuanza Sul fließt. Er ist bekannt für seinen enormen Wasserreichtum und die spektakuläre Passage durch die Gebirgsrandstufe, wo er die berühmten Binga-Wasserfälle bildet. Der Cuvo spielt eine zentrale Rolle bei der Bewässerung der fruchtbaren Ebenen von Porto Amboim und ist ein Hotspot für die Biodiversität. Entlang seines Laufs finden sich dichte Uferwälder, die seltene Tier- und Pflanzenarten beherbergen. Für die lokale Wirtschaft ist der Fluss zudem eine wichtige Quelle für die Fischerei und bietet großes Potenzial für die hydroelektrische Nutzung. Geografie K7 — Flusstaldynamik und Ökosystemleistungen.",
@@ -411,12 +411,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BGO",
     coords: [13.5, -8.5],
     name: { de: "Bengo-Wald", hu: "Bengo-erdő", ro: "Pădurea Bengo", en: "Bengo Forest" },
-    description: { de: "Waldgebiet nahe Luanda.", hu: "Erdőterület Luanda közelében.", ro: "O zonă forestieră densă situată în provincia Bengo, cu o biodiversitate bogată și importanță ecologică locală.", en: "Forest area near Luanda." },
+    description: { de: "Waldgebiet nahe Luanda.", hu: "Erdőterület Luanda közelében.", ro: "O zonă forestieră densă situată în provincia Bengo, cu o biodiversitate bogată și importanță ecologică locală.", en: "A forest region in Bengo province showcasing indigenous woodland and vegetation." },
     facts: {
       de: ["Grüner Gürtel.", "Lokale Flora."],
       hu: ["Zöld övezet.", "Helyi növényzet."],
       ro: ["Situată în Bengo", "Vegetație tropicală", "Importanță ecologică"],
-      en: ["Green belt.", "Local flora."]
+      en: ["Bengo province forest", "Indigenous woodland", "Vegetation zone", "Regional forest ecosystem"]
     },
     descriptionAdvanced: {
       de: "Der Bengo-Wald ist ein bedeutendes tropisches Waldgebiet im Norden Angolas, das für seinen Reichtum an wertvollen Hölzern und seine hohe Biodiversität bekannt ist. Er bildet einen Teil der grünen Lunge des Landes und spielt eine entscheidende Rolle für das regionale Mikroklima und die Wasserregulierung im Bengo-Becken. Der Wald beherbergt zahlreiche seltene Tierarten, darunter Primaten und eine Vielzahl tropischer Vögel. Für die lokale Wirtschaft ist der Wald eine Quelle für forstwirtschaftliche Produkte, die nachhaltig bewirtschaftet werden. Der Schutz des Bengo-Waldes ist eine Priorität, um die Entwaldung zu stoppen und den ökologischen Reichtum der Region für künftige Generationen zu bewahren. Geografie K7 — Forstökologie und nachhaltige Bewirtschaftung.",
@@ -438,12 +438,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BIE",
     coords: [17.0, -12.0],
     name: { de: "Mungue", hu: "Mungue", ro: "Mungue", en: "Mungue" },
-    description: { de: "Kleinerer See in Bié.", hu: "Kisebb tó Biében.", ro: "Un lac liniștit situat într-o regiune pitorească, oferind un habitat important pentru fauna aviară locală.", en: "Smaller lake in Bié." },
+    description: { de: "Kleinerer See in Bié.", hu: "Kisebb tó Biében.", ro: "Un lac liniștit situat într-o regiune pitorească, oferind un habitat important pentru fauna aviară locală.", en: "A serene lake environment known for its natural beauty and local aquatic wildlife." },
     facts: {
       de: ["Ruhiges Gewässer.", "In Hochlandlage."],
       hu: ["Csendes víz.", "Felföldi elhelyezkedés."],
       ro: ["Habitat acvatic", "Loc de observație aviară", "Cadru natural"],
-      en: ["Quiet water.", "Highland location."]
+      en: ["Serene lake environment", "Natural aquatic wildlife", "Regional water habitat", "Scenic natural site"]
     },
     descriptionAdvanced: {
       de: "Der Mungue-See in der Provinz Cunene ist ein wichtiges saisonales Gewässer im trockenen Süden Angolas. Er ist Teil des komplexen Cuvelai-Systems, bei dem Wasser aus dem Hochland in flache Senken (Chanas) fließt. Der See ist von existenzieller Bedeutung für die Viehzucht der Ovambo-Völker, da er während der Trockenzeit als zentrale Tränke für riesige Rinderherden dient. Ökologisch löst die Füllung des Sees eine explosionsartige Vermehrung von Wasserorganismen und Vögeln aus. Mungue ist ein faszinierendes Beispiel für die Anpassung des Lebens an extreme jahreszeitliche Schwankungen der Wasserverfügbarkeit in der semiariden Zone Angolas. Geografie K7 — Ephemere Gewässer und Trockenzonenhydrologie.",
@@ -463,12 +463,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.25, -8.75],
     name: { de: "Ilha de Luanda", hu: "Ilha de Luanda", ro: "Ilha de Luanda", en: "Ilha de Luanda" },
-    description: { de: "Touristische Insel vor der Hauptstadt.", hu: "Turisztikai sziget a főváros előtt.", ro: "O peninsulă iconică ce delimitează golful Luanda de Oceanul Atlantic, fiind un centru de agrement și natură.", en: "Tourist island off the capital." },
+    description: { de: "Touristische Insel vor der Hauptstadt.", hu: "Turisztikai sziget a főváros előtt.", ro: "O peninsulă iconică ce delimitează golful Luanda de Oceanul Atlantic, fiind un centru de agrement și natură.", en: "A narrow coastal island separating the Luanda Bay from the Atlantic Ocean." },
     facts: {
       de: ["Sehr belebt.", "Strände vorhanden."],
       hu: ["Nagyon forgalmas.", "Strandok vannak."],
       ro: ["Situată lângă Luanda", "Bariera naturală", "Centru de agrement"],
-      en: ["Very busy.", "Beaches available."]
+      en: ["Coastal sand spit", "Luanda Bay barrier", "Atlantic Ocean border", "Popular coastal area"]
     },
     descriptionAdvanced: {
       de: "Die Ilha de Luanda ist eine faszinierende natürliche Formation, die das Gesicht der angolanischen Hauptstadt prägt. Diese schmale Sandzunge erstreckt sich über mehrere Kilometer und bildet eine schützende Barriere für die Bucht von Luanda gegen die Wellen des Atlantiks. Die Insel ist ein ökologisch dynamisches System mit Sandstränden, Mangrovenresten und einer reichen maritimen Flora. Sie ist nicht nur das wichtigste Erholungsgebiet für die Stadtbevölkerung, sondern auch ein vitaler Raum für die lokale Fischereikultur. Die Ilha symbolisiert das Leben am Ozean und ist ein unverzichtbares Element für das maritime Mikroklima der Metropole. Geografie K7 — Küstenmorphologie und marine Ökosysteme.",
@@ -513,12 +513,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BIE",
     coords: [17.5, -13.0],
     name: { de: "Bue", hu: "Bue", ro: "Bue", en: "Bue" },
-    description: { de: "Erhebung im Zentrum.", hu: "Emelkedő a központban.", ro: "Un munte proeminent care domină peisajul regiunii sale, oferind puncte de panoramă spectaculoase asupra zonei.", en: "Elevation in the center." },
+    description: { de: "Erhebung im Zentrum.", hu: "Emelkedő a központban.", ro: "Un munte proeminent care domină peisajul regiunii sale, oferind puncte de panoramă spectaculoase asupra zonei.", en: "A highland mountain peak offering panoramic views of the surrounding natural landscape." },
     facts: {
       de: ["Im Hochland.", "Sanfte Hänge."],
       hu: ["A felföldön.", "Szelíd lejtők."],
       ro: ["Formațiune muntoasă", "Punct de observație", "Peisaj stâncos"],
-      en: ["In the highlands.", "Gentle slopes."]
+      en: ["Highland mountain peak", "Panoramic viewpoint", "Natural rugged terrain", "Elevated ecosystem"]
     },
     descriptionAdvanced: {
       de: "Der Monte Bué ist eine markante Erhebung im zentralen Hochland, die für ihre landschaftliche Schönheit und ihre ökologische Vielfalt bekannt ist. Der Berg ist Teil eines komplexen Reliefs, das durch Erosion und tektonische Prozesse geformt wurde. Die Hänge des Monte Bué sind von einer Mischung aus Savanne und dichten Waldinseln bedeckt, die als Refugien für die lokale Fauna dienen. Der Gipfel bietet einen weiten Blick über das Bié-Plateau und ist ein wichtiger Orientierungspunkt für Reisende in der Region. Er spielt eine Rolle als lokaler Wasserspeicher und speist zahlreiche Bäche, die zur Fruchtbarkeit des Umlands beitragen. Geografie K7 — Gebirgsökologie und Plateaulandschaften.",
@@ -563,12 +563,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LNO",
     coords: [18.0, -7.0],
     name: { de: "Kwango", hu: "Kwango", ro: "Kwango", en: "Kwango" },
-    description: { de: "Fluss an der Nordostgrenze.", hu: "Folyó az északkeleti határon.", ro: "Râu la granița de nord-est.", en: "River on the northeast border." },
+    description: { de: "Fluss an der Nordostgrenze.", hu: "Folyó az északkeleti határon.", ro: "Râu la granița de nord-est.", en: "An important river forming a natural boundary and supporting significant river basin life." },
     facts: {
       de: ["Grenzfluss.", "Wichtiges Einzugsgebiet."],
       hu: ["Határfolyó.", "Fontos vízgyűjtő terület."],
       ro: ["Râu de frontieră.", "Bazin hidrografic important."],
-      en: ["Border river.", "Important catchment area."]
+      en: ["Important river basin", "Natural geographic boundary", "Aquatic life support", "Regional water flow"]
     },
     descriptionAdvanced: {
       de: "Der Fluss Kwango (Cuango) ist eine der mächtigsten Wasseradern im Nordosten Angolas und ein bedeutender Grenzhüter zur Demokratischen Republik Kongo. Er entspringt im zentralen Hochland und durchfließt tiefe Täler und dichte tropische Wälder, bevor er im Norden in den Kasai mündet. Der Kwango ist weltweit für seinen Reichtum an Diamanten bekannt, die durch die Erosion aus dem Gestein gewaschen wurden. Ökologisch ist der Fluss eine lebenswichtige Quelle für die Biodiversität der Lunda-Region und beherbergt zahlreiche Fischarten und Flusspferde. Seine ungebändigte Kraft und die reiche Flora an seinen Ufern machen ihn zu einem Symbol für die Wildnis des angolanischen Nordostens. Geografie K8 — Flussökologie und Rohstoffvorkommen.",
@@ -588,12 +588,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.2, -12.5],
     name: { de: "Boco", hu: "Boco", ro: "Boco", en: "Boco" },
-    description: { de: "Gipfel im Huambo-Gebiet.", hu: "Csúcs a Huambo régióban.", ro: "O înălțime muntoasă caracteristică terenului variat al Angolei, cu o floră și faună specifică zonelor de altitudine.", en: "Peak in the Huambo region." },
+    description: { de: "Gipfel im Huambo-Gebiet.", hu: "Csúcs a Huambo régióban.", ro: "O înălțime muntoasă caracteristică terenului variat al Angolei, cu o floră și faună specifică zonelor de altitudine.", en: "A prominent mountain feature contributing to the diverse topography of the region." },
     facts: {
       de: ["Steiniges Gelände.", "Schöne Aussicht."],
       hu: ["Köves terep.", "Szép kilátás."],
       ro: ["Altitudine medie", "Flora montană", "Zona de interes geologic"],
-      en: ["Rocky terrain.", "Beautiful view."]
+      en: ["Mountain landscape feature", "Regional topography", "Natural terrain elevation", "Geographic landmark"]
     },
     descriptionAdvanced: {
       de: "Der Monte Boco ist eine markante Erhebung im Hochland der Provinz Benguela, die durch ihre geologische Struktur und biologische Vielfalt besticht. Der Berg ist Teil eines Plateausystems, das den Übergang zur Küstenebene markiert. Die Hänge des Monte Boco sind von einer Mischung aus Savannenvegetation und dichten Gehölzen bedeckt, die als Rückzugsgebiet für zahlreiche Tierarten dienen. Der Gipfel bietet einen weiten Ausblick über das fruchtbare Hinterland und ist ein wichtiger Orientierungspunkt für die regionale Navigation. Geologisch besteht der Berg aus uralten Gesteinen, die reich an Mineralien sind. Er spielt eine Rolle im lokalen Wasserkreislauf und speist mehrere Bäche der Region. Geografie K7 — Gebirgslandschaften und Erosionsformen.",
@@ -638,12 +638,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LSU",
     coords: [17.8, -9.0],
     name: { de: "Cuango", hu: "Cuango", ro: "Cuango", en: "Cuango" },
-    description: { de: "Fluss durch die Provinz Lunda Sul.", hu: "Folyó Lunda Sul tartományon keresztül.", ro: "Râu prin provincia Lunda Sul.", en: "River through Lunda Sul province." },
+    description: { de: "Fluss durch die Provinz Lunda Sul.", hu: "Folyó Lunda Sul tartományon keresztül.", ro: "Râu prin provincia Lunda Sul.", en: "A significant waterway flowing through the north, essential for local biodiversity." },
     facts: {
       de: ["Diamantengebiet.", "Saisonal hoch."],
       hu: ["Gyémántvidék.", "Szezonálisan magas."],
       ro: ["Zonă cu diamante.", "Debite sezoniere mari."],
-      en: ["Diamond area.", "Seasonally high."]
+      en: ["Northern waterway", "Essential river system", "Local biodiversity hub", "Water resource zone"]
     },
     descriptionAdvanced: {
       de: "Der Fluss Cuango ist ein mächtiger Wasserlauf im Nordosten Angolas und ein bedeutender Nebenfluss des Kasai im Kongo-Becken. Er ist weltberühmt für seinen Reichtum an Diamanten, die durch die Erosion aus dem Gestein gewaschen wurden. Der Cuango fließt durch tiefe Täler und dichte tropische Wälder und bildet über weite Strecken die Grenze zur Demokratischen Republik Kongo. Ökologisch ist der Fluss eine lebenswichtige Ader für die Biodiversität der Lunda-Region und beherbergt zahlreiche Fischarten und Flusspferde. Seine ungebändigte Kraft und die reiche Flora an seinen Ufern machen ihn zu einem Symbol für die Wildnis des angolanischen Nordostens. Geografie K8 — Flussökologie und Rohstoffvorkommen.",
@@ -663,12 +663,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-NAM",
     coords: [11.8, -16.6],
     name: { de: "Ilha dos Tigres", hu: "Ilha dos Tigres", ro: "Ilha dos Tigres", en: "Ilha dos Tigres" },
-    description: { de: "Ehemalige Insel, jetzt Halbinsel.", hu: "Volt sziget, ma félsziget.", ro: "O insulă fascinantă în sudul Angolei, cunoscută pentru izolarea sa și peisajele deșertice care se întâlnesc cu oceanul.", en: "Former island, now a peninsula." },
+    description: { de: "Ehemalige Insel, jetzt Halbinsel.", hu: "Volt sziget, ma félsziget.", ro: "O insulă fascinantă în sudul Angolei, cunoscută pentru izolarea sa și peisajele deșertice care se întâlnesc cu oceanul.", en: "A remote coastal island area known for its stark desert landscape and history." },
     facts: {
       de: ["Trockenes Klima.", "Einstige Siedlung."],
       hu: ["Száraz éghajlat.", "Volt település."],
       ro: ["Situată în Namibe", "Insulă deșertică", "Izolare geografică"],
-      en: ["Dry climate.", "Former settlement."]
+      en: ["Remote coastal island", "Desert island landscape", "Geographically isolated", "Historical site context"]
     },
     descriptionAdvanced: {
       de: "Die Ilha dos Tigres (Tigerinsel) in der Provinz Namibe ist die größte Insel Angolas und einer der isoliertesten und geheimnisvollsten Orte des Landes. Ursprünglich war sie eine Halbinsel, wurde aber 1962 durch einen gewaltigen Sturm vom Festland getrennt. Die Insel beherbergt die Geisterstadt einer ehemaligen Fischerkolonie, die aufgrund von Wassermangel verlassen wurde. Heute ist die Ilha dos Tigres ein unberührtes Naturparadies und ein wichtiges Schutzgebiet für Seevögel, Meeresschildkröten und Robben. Die extremen Wüstenbedingungen und der tosende Atlantik schaffen eine surreale Landschaft, die zu den faszinierendsten des afrikanischen Kontinents gehört. Geografie K8 — Küstendynamik und maritime Ökosysteme.",
@@ -688,12 +688,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LNO",
     coords: [21.5, -7.5],
     name: { de: "Kassai", hu: "Kassai", ro: "Kassai", en: "Kassai" },
-    description: { de: "Großer Grenzfluss im Nordosten.", hu: "Nagy határfolyó északkeleten.", ro: "Mare râu de frontieră în nord-est.", en: "Major border river in the northeast." },
+    description: { de: "Großer Grenzfluss im Nordosten.", hu: "Nagy határfolyó északkeleten.", ro: "Mare râu de frontieră în nord-est.", en: "A major river contributing to the extensive hydrographic network of northern Angola." },
     facts: {
       de: ["Nebenfluss des Kongo.", "Dschungelregion."],
       hu: ["A Kongó mellékfolyója.", "Dzsungelrégió."],
       ro: ["Afluent al fluviului Congo.", "Regiune de junglă."],
-      en: ["Tributary of the Congo.", "Jungle region."]
+      en: ["Major river system", "Extensive hydrographic link", "Northern water network", "Regional ecosystem support"]
     },
     descriptionAdvanced: {
       de: "Der Fluss Kassai ist einer der mächtigsten Ströme des afrikanischen Kontinents und bildet im Nordosten Angolas die Lebensader der Provinz Lunda Sul. Er ist ein Hauptnebenfluss des Kongo und bekannt für seinen enormen Wasserreichtum und die spektakulären Landschaften entlang seines Laufs. Der Kassai spielt eine zentrale Rolle im regionalen Ökosystem und bietet Lebensraum für eine unglaubliche Vielfalt an Fischen, Reptilien und Säugetieren. Für die Wirtschaft ist der Fluss als Transportweg und potenzielle Energiequelle von großer Bedeutung. In seinen Uferzonen finden sich dichte tropische Regenwälder, die eine der letzten Wildnisse Angolas darstellen. Er ist ein Symbol für die gewaltige hydrographische Kraft Zentralafrikas. Geografie K8 — Großflusssysteme und tropische Biodiversität.",
@@ -738,12 +738,12 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-CCU",
     coords: [19.0, -17.5],
     name: { de: "Cuito", hu: "Cuito", ro: "Cuito", en: "Cuito" },
-    description: { de: "Nebenfluss im Südosten.", hu: "Mellékfolyó délkeleten.", ro: "Afluent în sud-est.", en: "Tributary in the southeast." },
+    description: { de: "Nebenfluss im Südosten.", hu: "Mellékfolyó délkeleten.", ro: "Afluent în sud-est.", en: "A river known for its contribution to the ecological richness of the southern landscapes." },
     facts: {
       de: ["Sumpfgebiete.", "Naturschutzgebiet."],
       hu: ["Mocsaras területek.", "Természetvédelmi terület."],
       ro: ["Zone mlăștinoase.", "Arie protejată."],
-      en: ["Swamp areas.", "Protected area."]
+      en: ["Southern river system", "Ecological resource", "Landcape water link", "Riverine biodiversity zone"]
     },
     descriptionAdvanced: {
       de: "Der Fluss Cuito im Südosten Angolas ist einer der wasserreichsten und unberührtesten Nebenflüsse des Okavango-Systems. Er entspringt in den regenreichen Gebieten von Moxico und fließt in südlicher Richtung durch die Provinz Cuando Cubango. Der Cuito ist bekannt für sein extrem stabiles Abflussverhalten und seine weiten, ökologisch intakten Überschwemmungsflächen. Er spielt eine entscheidende Rolle für die Wasserversorgung des Okavango-Deltas in Botswana. Aufgrund seiner Abgeschiedenheit ist das Ökosystem des Cuito ein weltweit bedeutendes Refugium für seltene Wildtiere und Wasservögel. Der Fluss ist ein Symbol für die wilde und majestätische Natur der 'verlorenen Welt' Angolas. Geografie K8 — Transnationale Flusssysteme und Wildnisschutz.",

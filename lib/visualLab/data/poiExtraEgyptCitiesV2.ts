@@ -27,12 +27,7 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ro: ["Situat pe râul Nil.", "Centrul politicii și culturii."],
       en: ["Located on the Nile River.", "Center of politics and culture."]
     },
-    factsAdvanced: {
-      de: ["Kairo ist die größte Stadt Afrikas.", "Der Bau begann 969 n. Chr.", "Der Kairo-Turm ist 187 Meter hoch.", "Die Stadt liegt am Ufer des Nils.", "Die Metropolregion umfasst über 20 Millionen Menschen.", "Die Universität al-Azhar wurde 970 n. Chr. gegründet."],
-      hu: ["Kairó Afrika legnagyobb városa.", "Az építkezés 969-ben kezdődött.", "A Kairói-torony 187 méter magas.", "A város a Nílus partján fekszik.", "A metropolisz több mint 20 millió lakosú.", "Az al-Azhar Egyetemet 970-ben alapították."],
-      ro: ["Cairo este cel mai mare oraș din Africa.", "Construcția a început în 969 d.Hr.", "Turnul Cairo are 187 de metri înălțime.", "Orașul este situat pe malul Nilului.", "Zona metropolitană are peste 20 de milioane de oameni.", "Universitatea al-Azhar a fost fondată în 970 d.Hr."],
-      en: ["Cairo is Africa's largest city.", "Construction began in 969 AD.", "The Cairo Tower is 187 meters tall.", "The city sits on the Nile's banks.", "The metro area holds over 20 million people.", "Al-Azhar University was founded in 970 AD."]
-    }, image: "/poi-images/cairo-cities-v2.webp"},
+     image: "/poi-images/cairo-cities-v2.webp"},
   {
     id: "alexandria-cities-v2",
     type: "city",

@@ -25,9 +25,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["1956 és 1961 között épült.", "Kialakítása egy lótusznövényre emlékeztet.", "Egyiptom legmagasabb építménye.", "Egy 187 méter magas, szabadon álló beton tévétorony Kairóban, amely panorámás kilátást nyújt a városra.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja."],
       en: ["Built between 1956 and 1961.", "Designed to resemble a lotus plant.", "Tallest structure in Egypt.", "A free-standing concrete television tower in Cairo, standing at 187 meters and offering panoramic views of the city.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa."]
     },
-    factsAdvanced: {
-      de: ["Bauzeit: 1956–1961", "Architekt: Naoum Shebib", "Höhe: 187 Meter", "Standort: Insel Gezira, Kairo", "Konstruktionsmaterial: Stahlbeton", "Design-Inspiration: Lotosblüte"]
-    }
+    
   },
     description: {
       de: "Ein 187 Meter hoher, freistehender Fernsehturm aus Beton, der einen Panoramablick auf Kairo bietet.",
@@ -64,9 +62,7 @@ export const poiExtraEgyptLandmarksV2: POI[] = [
       hu: ["2002-ben nyitották meg.", "Az ókori Alexandriai Könyvtárnak állít emléket.", "Az olvasóterem nyolcmillió könyv befogadására alkalmas.", "Egy hatalmas könyvtár és kulturális központ az alexandriai Földközi-tenger partján.", "Az Egyiptomi Arab Köztársaság területén található.", "Kapcsolódik a Nílushoz vagy a környező sivatagi térséghez.", "Az északkelet-afrikai forró sivatagi éghajlat alakítja."],
       en: ["Inaugurated in 2002.", "Commemorates the ancient Library of Alexandria.", "Reading room can hold eight million books.", "A major library and cultural center located on the shore of the Mediterranean Sea in Alexandria.", "Located within the Arab Republic of Egypt.", "Connected with the Nile or the surrounding desert area.", "Shaped by the hot desert climate of northeastern Africa."]
     },
-    factsAdvanced: {
-      de: ["Eröffnung: 2002", "Architektur: Snøhetta (Norwegen)", "Kapazität: Bis zu 8 Millionen Bücher", "Design: Kreisform (Sonne)", "Wandinschriften: >100 Schriftsysteme", "Standort: Alexandria, Mittelmeerküste"]
-    }
+    
   },
     description: {
       de: "Eine große Bibliothek und ein Kulturzentrum am Ufer des Mittelmeers in Alexandria.",

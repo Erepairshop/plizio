@@ -22,9 +22,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["Magassága 2744 méter, a vulkán utolsó ismert kitörése 1903-ban történt.", "A kalderában lévő Mennyei-tó (Cshondzsi) a világ egyik legmagasabban fekvő és legmélyebb krátertava.", "A hegy területén található tajga erdők UNESCO Bioszféra Rezervátumként védettek.", "Télen a hőmérséklet gyakran süllyed -40 Celsius-fok alá, a tó befagy.", "A hegy címerállata a rendkívül ritka, kihalófélben lévő szibériai tigris.", "A hegyoldalban számtalan hőforrás és gejzír fakad a vulkáni utóélet részeként."],
       en: ["Massive, active stratovolcano on the border of North Korea and China.", "The highest peak on the Korean Peninsula at 2,744 meters.", "Features the stunning Heaven Lake within its central volcanic caldera.", "The name 'Paektu' translates to 'White Head Mountain' due to its pumice.", "The site of a colossal, world-altering volcanic eruption around 946 AD.", "Surrounded by dense, ancient forests teeming with rare wildlife.", "Considered the most sacred natural site in Korean geography and mythology."]
     },
-    factsAdvanced: {
-      de: ["Der Berg ist mit 2.744 Metern die höchste Erhebung beider Koreas.", "Die fünf Kilometer breite Caldera entstand durch eine Supereruption im Jahr 946.", "Der Himmelssee in der Caldera ist bis zu 384 Meter tief.", "Der Vulkan gilt als ruhend, steht aber unter ständiger Überwachung.", "Das extreme alpine Klima sorgt für acht Monate Schneebedeckung im Jahr.", "Die umliegenden Wälder sind Heimat des gefährdeten Amurtigers."]
-    }
+    
   },
     description: {
       de: "Ein aktiver Vulkan an der Grenze zu China und der höchste Berg der koreanischen Halbinsel. Er gilt als heiliger Ort der Revolution.",
@@ -58,9 +56,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A Mjohjang-hegység Észak-Korea egyik legépebben megőrzött természeti területe.", "Legmagasabb pontja a Piro csúcs, amely 1909 méter magasra emelkedik.", "A hegy nevét a jellegzetes, illatos gyógynövényekről és fákról kapta.", "2009 óta az UNESCO Nemzetközi Bioszféra Rezervátum-hálózatának tagja.", "A hegy oldalában tucatnyi vízesés és smaragdzöld vizű hegyi tó található.", "A szigorú állami védelem miatt a hegy megmenekült az országos méretű erdőirtásoktól."],
       en: ["Spectacular, ecologically pristine mountain range in North Pyongan Province.", "Name translates to 'Mysterious Fragrant Mountains'.", "Heavily protected and designated as a UNESCO biosphere reserve.", "Features steep granite peaks, misty ravines, and countless waterfalls.", "Avoided the severe deforestation seen in other parts of the country.", "Supports incredible biodiversity with over a thousand plant species.", "Provides critical, untouched habitat for endangered regional wildlife."]
     },
-    factsAdvanced: {
-      de: ["Der höchste Gipfel des Myohyang-san, der Piro-bong, ist 1.909 Meter hoch.", "Die UNESCO erklärte das Gebirge 2009 zum Biosphärenreservat.", "Der Name bedeutet 'Berg der geheimnisvollen Düfte' aufgrund der Zypressenwälder.", "Das Gebirge beherbergt viele gefährdete asiatische Schwarzbären.", "Es gibt unzählige hohe Wasserfälle, wie den Ryongyon-Wasserfall.", "Die Granitfelsen formen oft extrem steile, nadelartige Gipfel."]
-    }
+    
   },
     description: {
       de: "Ein Gebirge, das für seine mystische Schönheit und als einer der heiligsten Orte Koreas bekannt ist. Es ist ein UNESCO-Biosphärenreservat.",
@@ -94,9 +90,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A hegyvonulat több mint 12 000 meredek, tűhegyes gránitcsúcsból és sziklából áll.", "Nevét (Gyémánt-hegység) a sziklák napfényben csillogó kristályairól kapta.", "Az őszi időszakban (Phungak néven) a juharfák vörösbe borítják a hegyoldalt.", "1998 és 2008 között több mint egymillió dél-koreai turista látogatta meg a helyszínt.", "A hegy gyomrában smaragdzöld tengerszemek (pl. a Szamil-tó) rejtőznek.", "Egy 2008-as, végzetes határőri lövöldözés óta a déli turizmus teljesen szünetel."],
       en: ["Legendary mountain range located on the eastern coast near the DMZ.", "Name translates to 'Diamond Mountains' due to their sparkling granite.", "Features thousands of jagged, needle-like peaks and deep emerald valleys.", "Divided geographically into Inner, Outer, and Sea Kumgang regions.", "Historically the most celebrated natural landscape in Korean poetry and art.", "Site of a historic, but now suspended, inter-Korean joint tourism project.", "Contains spectacular natural features like the Kuryong Falls."]
     },
-    factsAdvanced: {
-      de: ["Das Kŭmgang-Gebirge wird traditionell als Heimat von 12.000 Felsgipfeln beschrieben.", "Der höchste Gipfel, der Piro-bong, misst 1.638 Meter.", "Das Gebirge hat vier verschiedene Namen, je nach Jahreszeit.", "Zwischen 1998 und 2008 durften Südkoreaner als Touristen in das Gebiet reisen.", "Die Kuryong-Wasserfälle (Neun-Drachen-Wasserfälle) sind eine Hauptattraktion.", "Die bizarren Gesteinsformationen entstanden durch Wind- und Wassererosion."]
-    }
+    
   },
     description: {
       de: "Auch bekannt als Diamantgebirge, berühmt für seine malerischen Felsformationen, Wasserfälle und Teiche.",
@@ -130,9 +124,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A folyó teljes hossza 439 kilométer, Észak-Korea második leghosszabb folyója a Jalu után.", "Phenjan városát kettészelve történelmi és logisztikai központot teremtett.", "Torkolatánál épült meg a hatalmas, 8 km hosszú Nyugati-tengeri Zsiliprendszer (Gát).", "A folyó a főváros ivóvízellátásának és a környező síkságok öntözésének bázisa.", "A folyón a Rungnado és Jangak szigetek fontos rekreációs területek Phenjanban.", "A gát megépülése előtt a tengeri árapály egészen Phenjanig éreztette a hatását."],
       en: ["The most important and prominent waterway in North Korea.", "Flows 439 kilometers from the northern mountains through Pyongyang.", "Empties into the Korea Bay at the western port city of Nampo.", "The central geographical and scenic feature of the capital city.", "Crucial for urban drinking water, agriculture, and industrial transport.", "Flow is heavily managed and regulated by the massive West Sea Barrage.", "The barrage prevents tidal saltwater from intruding into the freshwater supply."]
     },
-    factsAdvanced: {
-      de: ["Der Taedong ist mit 439 Kilometern einer der längsten Flüsse Nordkoreas.", "Er entspringt im Nangnim-Gebirge im nördlichen Inland.", "Der Fluss fließt direkt durch das Zentrum der Hauptstadt Pjöngjang.", "Ein 8 Kilometer langer Staudamm (Westmeer-Staudamm) schützt die Mündung bei Namp'o.", "Der Fluss ist für Frachtschiffe teilweise tief ins Landesinnere schiffbar.", "Er friert im harten nordkoreanischen Winter für mehrere Monate zu."]
-    }
+    
   },
     description: {
       de: "Der zweitlängste Fluss Nordkoreas, der durch die Hauptstadt Pjöngjang fließt.",
@@ -166,9 +158,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A Jalu folyó (Amnok) hossza 790 km, végig Észak-Korea és Kína határát képezi.", "A szent Paektu-hegy (Changbai) krátertavából ered a hegyekből.", "Télen a zord hidegben hetekre, akár hónapokra teljesen befagy a felszíne.", "A folyón épült gátak (pl. Szuphung) Ázsia legfontosabb vízerőművei közé tartoznak.", "A Kínai-koreai Barátság Hídja a legfőbb vasúti és közúti átkelő a folyón.", "A koreai háborúban MacArthur tábornok a Jaluig nyomult, ami kínai támadást váltott ki."],
       en: ["Forms the lengthy northwestern border between North Korea and China.", "Known as the Amnok River in the Korean language.", "Originates from the caldera of Heaven Lake on Paektu Mountain.", "Flows for nearly 800 kilometers into the Yellow Sea.", "Generates massive hydroelectric power through shared international dams.", "The primary geographical corridor for both legal trade and smuggling.", "Historically a perilous crossing point for North Korean defectors."]
     },
-    factsAdvanced: {
-      de: ["Der Yalu (Amnok-gang) ist 790 Kilometer lang.", "Er markiert fast die gesamte westliche Grenze zwischen China und Nordkorea.", "Der Fluss entspringt direkt im Bergsee des Paektu-san.", "Während des Koreakriegs war das Tal als 'MiG Alley' für intensive Luftkämpfe berüchtigt.", "Das Wasser treibt das riesige binationale Sup'ung-Wasserkraftwerk an.", "Bei Sinŭiju verbindet die Chinesisch-Koreanische Freundschaftsbrücke beide Länder."]
-    }
+    
   },
     description: {
       de: "Bildet die Grenze zwischen Nordkorea und China. Auf Koreanisch wird er Amnok genannt.",
@@ -202,9 +192,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A Tumen 521 km hosszan három ország (Észak-Korea, Kína, Oroszország) határát adja.", "Kínával közös szakasza hosszú, Oroszországgal mindössze 17 kilométert határol.", "Sekélysége és keskenysége miatt az 1990-es évek éhínsége alatt a menekülők fő útvonala volt.", "A torkolatvidék, ahol a három ország találkozik (Raszon közelében), fontos madárvonulási terület.", "A téli fagyasztó hidegben a jég vastagsága gyalogos átkelést is lehetővé tesz.", "A kínai és észak-koreai oldalon működő gyárak miatt vizének minősége erősen leromlott."],
       en: ["Forms the northeastern border separating North Korea from China and Russia.", "Originates on the eastern slopes of the sacred Paektu Mountain.", "Significantly shallower and narrower than the western Yalu River.", "The primary, though highly dangerous, route for defectors escaping the country.", "Banks are heavily militarized with strict border security patrols.", "Flows through harsh, rugged terrain into the Sea of Japan.", "Supports local border communities with modest fishing and irrigation."]
     },
-    factsAdvanced: {
-      de: ["Der Tumen-Fluss hat eine Länge von 521 Kilometern.", "Er entspringt an den östlichen Hängen des Berges Paektu.", "Der Fluss bildet die Grenze zu China und Russland.", "Aufgrund seines flachen Bettes ist er im Winter ein oft genutzter Fluchtweg gewesen.", "Die Region um den Fluss ist berüchtigt für extrem harte und schneereiche Winter.", "Das Wasserland am Dreiländereck ist ein wichtiges Refugium für Zugvögel."]
-    }
+    
   },
     description: {
       de: "Ein Fluss, der als Grenze zu China und Russland dient und im Japanischen Meer mündet.",
@@ -238,9 +226,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A Cshongcshon hossza 217 kilométer, északnyugati irányból a Sárga-tengerbe torkollik.", "A folyóvölgy Észak-Korea egyik legfőbb szénbányászati bázisa.", "Az elmúlt 15 évben több kis és közepes lépcsőzetes vízerőművet építettek rá.", "1950 telén a folyó völgye a koreai háború egyik legdöntőbb kínai ellentámadásának helyszíne volt.", "Torkolatánál található a Mundok vándormadár rezervátum hatalmas árapálysíksága.", "A folyó a Nangnim-hegység meredek, sűrű erdőkkel borított lejtőin ered."],
       en: ["Major 217-kilometer waterway located in the northwestern region.", "Flows from the Rangrim Mountains into the Yellow Sea.", "Provides critical water and power to major industrial cities like Huichon.", "Site of the decisive 1950 Battle of the Chongchon River during the Korean War.", "The river basin forms the industrial heartland of North Pyongan Province.", "Heavily utilized for regional agriculture and hydroelectric power generation.", "Suffers from significant environmental degradation due to heavy industry."]
     },
-    factsAdvanced: {
-      de: ["Der Ch'ŏngch'ŏn-Fluss hat eine Länge von etwa 217 Kilometern.", "Sein Name bedeutet 'Klarer Frühlingsfluss'.", "Die Mündung des Flusses am Gelben Meer beherbergt das Mundŏk-Vogelschutzgebiet.", "Das Flusstal trennt das Nangnim-Gebirge vom Kujang-Becken.", "Während des Koreakriegs fand hier Ende 1950 die Schlacht am Ch'ŏngch'ŏn-Fluss statt.", "Der Fluss liefert das Wasser für die riesigen Kohleminen bei Anju."]
-    }
+    
   },
     description: {
       de: "Ein bedeutender Fluss im Westen Nordkoreas, der ins Gelbe Meer mündet.",
@@ -274,9 +260,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A Mennyei-tó a Koreai-félsziget és egyben Kína legmélyebb tava (384 méter).", "A kaldera egy i.sz. 946-os gigantikus vulkánkitörés során alakult ki.", "A tavat közvetlenül átszeli az Észak-Korea és Kína közötti országhatár.", "A tó vizének hőmérséklete nyáron sem emelkedik sokkal fagypont fölé.", "A legenda szerint egy Nessie-hez hasonló krátertavi szörny, a 'Tianchi szörny' él benne.", "Télen a jég vastagsága az 1-1,5 métert is elérheti a zord szeleken."],
       en: ["Breathtaking crater lake located at the summit caldera of Paektu Mountain.", "Straddles the international border between North Korea and China.", "One of the highest crater lakes in the world at an elevation of 2,189 meters.", "Incredibly deep, plunging to a maximum depth of 384 meters.", "Remains frozen solid under thick ice for roughly eight months of the year.", "Considered the most profoundly sacred body of water in Korean culture.", "Subject to local cryptozoological myths about a deep-water monster."]
     },
-    factsAdvanced: {
-      de: ["Der Himmelssee liegt auf einer Höhe von 2.189 Metern über dem Meeresspiegel.", "Er ist der tiefste Kratersee Asiens mit einer maximalen Tiefe von 384 Metern.", "Die Grenze zwischen Nordkorea und China verläuft genau durch die Mitte des Sees.", "Der See wird hauptsächlich von Niederschlägen und heißen Quellen unter Wasser gespeist.", "Im See wurden gelegentlich angebliche Sichtungen eines 'Seeungeheuers' gemeldet.", "Die Durchschnittstemperatur des Sees beträgt knapp über dem Gefrierpunkt."]
-    }
+    
   },
     description: {
       de: "Ein Kratersee auf dem Gipfel des Paektu-Berges an der Grenze zwischen Nordkorea und China.",
@@ -310,9 +294,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A Szidzsung tó egy partmenti lagúna a Japán-tenger partjától néhány száz méterre.", "Több mint 3 négyzetkilométeres, viszonylag sekély édesvízű tó.", "Kiemelkedően magas minőségű gyógyiszapjával reumás betegségeket kezelnek.", "A tó mellett egy állami építésű szanatóriumkomplexum (Sijung Guesthouse) is üzemel.", "A tó vize összeköttetésben áll a tengerrel egy keskeny csatornán keresztül.", "A Phenjan–Kumgang autópálya egyik legkedveltebb pihenőállomása."],
       en: ["Serene coastal lagoon located in Kangwon Province on the eastern coast.", "Separated from the Sea of Japan by a narrow, pine-forested sandbar.", "Famous domestically for its natural, supposedly therapeutic black mud.", "Home to the Sijung Lake Sanatorium, a state-run health retreat.", "A highly popular, scenic stopover for tourists traveling to Mount Kumgang.", "Offers calm, clear waters ideal for boating and relaxed swimming.", "Provides a tranquil contrast to the rugged mountains of the interior."]
     },
-    factsAdvanced: {
-      de: ["Der Sijung-See liegt in der Provinz Kangwŏn direkt an der Ostküste.", "Er ist 3,5 Kilometer lang und durch eine Sandbank vom Meer getrennt.", "Der See ist bekannt für seine Heilschlamm-Behandlungen (Peloidtherapie).", "Ein großes Kurhotel am Ufer bietet diese Schlammbäder an.", "Das Wasser ist leicht brackig, da es noch Verbindungen zum Ozean hat.", "Die weißen Sandstrände am Meer sind vom See aus zu Fuß erreichbar."]
-    }
+    
   },
     description: {
       de: "Eine Küstenlagune in der Provinz Kangwon, bekannt für ihren therapeutischen Schlamm.",
@@ -346,9 +328,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A Nangnim hegység Észak-Korea legfőbb belső vízválasztója kelet és nyugat között.", "Legmagasabb csúcsa, a Vagal-bong 2260 méter magasra emelkedik.", "A hegyláncon átvezető kevés hágó a téli hónapokban a sűrű havazás miatt járhatatlan.", "Sűrű fenyő- és vörösfenyő erdei a faipar fontos bázisai.", "Zord éghajlata miatt Észak-Korea egyik legritkábban lakott területe.", "Barlangjai és rejtett völgyei a koreai háború alatt partizánbázisként szolgáltak."],
       en: ["Forms the rugged geographical spine of northern North Korea.", "Runs north-to-south, dividing the country's eastern and western regions.", "The source region for several major rivers, including the Taedong.", "Incredibly remote, heavily forested, and largely inaccessible to civilians.", "Acts as a natural fortress concealing secretive subterranean military bases.", "Highly unsuitable for agriculture due to steep slopes and harsh climate.", "A critical strategic asset for national defense and survival."]
     },
-    factsAdvanced: {
-      de: ["Das Nangnim-Gebirge teilt Nordkorea in eine Ost- und Westflanke.", "Der höchste Gipfel, der Wagal-bong, erreicht eine Höhe von 2.260 Metern.", "Das Gebirge agiert als klimatische Barriere für den winterlichen Nordwestwind.", "Es ist die Quelle vieler großer Flüsse, wie dem Taedong und dem Ch'ŏngch'ŏn.", "Die Berge sind fast vollständig mit dichten Tannen- und Lärchenwäldern bedeckt.", "Die extrem tiefe Täler machten den Bau einer Ost-West-Eisenbahn sehr schwierig."]
-    }
+    
   },
     description: {
       de: "Eine große Gebirgskette im zentralen und nördlichen Teil Nordkoreas.",
@@ -382,9 +362,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A Mantap-hegy 2205 méter magas, kemény gránitkőzetből áll.", "Kizárólagos helyszíne Észak-Korea összes eddigi kísérleti földalatti atomrobbantásának.", "A legutóbbi, 2017-es termonukleáris teszt során a hegy csúcsa meg is süllyedt.", "Szeizmológusok a gyakori utórengések miatt 'Fáradt Hegy Szindrómát' állapítottak meg.", "A Punggje-ri teszttelep bejáratait hivatalosan 2018-ban nemzetközi újságírók előtt felrobbantották.", "A terület a legmagasabb szintű katonai és titokvédelmi zárlat alatt áll."],
       en: ["A 2,205-meter granite peak located in North Hamgyong Province.", "Internationally infamous as the site of the Punggye-ri Nuclear Test Site.", "The hard granite was extensively tunneled for underground nuclear testing.", "Hosted multiple nuclear weapons tests between 2006 and 2017.", "Suffered structural collapse ('Tired Mountain Syndrome') after the 2017 test.", "Experiences ongoing post-test seismic tremors and small earthquakes.", "A highly classified, strictly militarized exclusion zone."]
     },
-    factsAdvanced: {
-      de: ["Der Mantap-san erreicht eine Höhe von 2.205 Metern.", "Der Berg besteht fast vollständig aus hartem Diorit und Granit.", "Tief im Berg befand sich das Atomtestgelände P'unggye-ri.", "Unter dem Berg fanden alle sechs bisherigen nordkoreanischen Nukleartests statt.", "Nach dem großen Atomtest 2017 wurden leichte Veränderungen in der Bergstruktur (Absenkungen) gemessen.", "Das Testgelände wurde 2018 vor ausländischen Journalisten offiziell gesprengt."]
-    }
+    
   },
     description: {
       de: "Ein Berg in der Provinz Nord-Hamgyong, bekannt als Standort des Kernwaffentestgeländes Punggye-ri.",
@@ -418,9 +396,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A Jangdzsa folyó a Jalu bal oldali, hegyvidéki mellékfolyója.", "Meredek esése miatt Észak-Korea egyik legfőbb vízerőművi központja.", "Vize létfontosságú Csagang tartomány titkos földalatti fegyvergyárai számára.", "Kanggje városa, az északi hadiipar központja is a folyó partján fekszik.", "Vízminősége az ipari létesítmények ellenére a felső szakaszokon viszonylag tiszta.", "A folyóvölgy a koreai háború alatt stratégiai menedékként szolgált az északi erőknek."],
       en: ["Flows through the rugged, mountainous terrain of Chagang Province.", "A critical northern tributary emptying into the Yalu River.", "Heavily dammed to generate essential hydroelectric power for the region.", "Powers secretive munitions and heavy machinery factories in the area.", "Characterized by steep, highly defensible river gorges.", "Forms the backbone of Chagang Province's industrial infrastructure.", "Historically utilized for regional timber transport."]
     },
-    factsAdvanced: {
-      de: ["Der Changja-Fluss ist ein bedeutender Nebenfluss des Yalu.", "Er fließt durch die extrem gebirgige Provinz Chagang.", "Der Fluss durchschneidet die Stadt Kanggye, das Zentrum der Rüstungsindustrie.", "Entlang des Flusses gibt es mehrere Staudämme zur Stromerzeugung.", "Das tiefe Flusstal bot im Koreakrieg Schutz vor Bombardierungen.", "In Kanggye gibt es große Fischfarmen, die das kalte Wasser des Flusses nutzen."]
-    }
+    
   },
     description: {
       de: "Ein Nebenfluss des Yalu-Flusses in der Provinz Chagang, bekannt für seine Wasserkraftwerke.",
@@ -454,9 +430,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["Az Imdzsin folyó 254 km hosszú, Észak-Koreában ered és Délen ömlik a tengerbe.", "A folyó egy szakasza közvetlenül a Demilitarizált Övezeten (DMZ) halad keresztül.", "Az északi gátnyitások (pl. 2009-ben) többször is halálos villámárvizeket okoztak Délen.", "A folyó medre a koreai háború (1951) több véres csatájának (Gloster Hill) is színtere volt.", "Az érintetlen határmenti szakaszon ritka madárfajok (pl. mandzsu daru) fészkelnek.", "Egy híres koreai dal is megénekli a folyót, amely szabadon lépi át az államhatárt."],
       en: ["Flows 254 kilometers from North Korea southward across the DMZ.", "A highly sensitive, heavily militarized waterway along the border.", "Features the Hwanggang Dam on the North Korean side.", "Water flow into South Korea is strictly controlled by northern dams.", "Unannounced dam releases have previously caused fatal downstream floods.", "The river basin is a crucial agricultural zone in the southern provinces.", "Historically the site of the Battle of the Imjin River during the Korean War."]
     },
-    factsAdvanced: {
-      de: ["Der Imjin-Fluss ist insgesamt 254 Kilometer lang.", "Er fließt aus Nordkorea direkt durch die stark verminte DMZ in den Süden.", "Im Koreakrieg 1951 fand hier eine der blutigsten Schlachten statt.", "In der koreanischen Poesie gilt der Fluss als Symbol der traurigen nationalen Teilung.", "Der nordkoreanische Hwanggang-Damm am Oberlauf sorgt oft für Streit wegen Hochwasser in Südkorea.", "Aufgrund der militärischen Sperrgebiete ist die Natur am Fluss extrem unberührt."]
-    }
+    
   },
     description: {
       de: "Ein Fluss, der von Nord- nach Südkorea fließt und in der Nähe von Seoul in den Han-Fluss mündet.",
@@ -491,9 +465,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A tó vízgyűjtő területe a közeli hegyi patakokból és esőzésekből táplálkozik.", "A víz minősége kiváló, részben az ipari létesítmények hiánya miatt.", "Fontos édesvízi tartalék a közeli falvak rizsföldjeinek öntözésére.", "A part mentén sűrű fenyvesek és nyírfaligetek találhatók.", "Helyi szinten kisebb halászati szövetkezetek is hasznosítják a tavat.", "A turisztikai infrastruktúra teljes hiánya miatt a vadvilág megőrizte eredeti állapotát."],
       en: ["Large artificial reservoir located in the northern mountainous region.", "Created primarily to generate hydroelectric power for local industry.", "Surrounded by dense, pristine alpine forests and rugged terrain.", "Provides a critical water reserve for agriculture during dry seasons.", "Supports local wildlife including deer and migratory waterfowl.", "Access is generally restricted to local workers and military personnel.", "Demonstrates the state's extensive hydrological engineering in remote areas."]
     },
-    factsAdvanced: {
-      de: ["Der Sapho-See liegt isoliert in der Gebirgsprovinz Süd-Hamgyŏng.", "Das Wasser des Sees hat aufgrund des tiefen Gesteins eine intensive smaragdgrüne Farbe.", "An den Ufern befinden sich geheime staatliche Villen und Residenzen.", "Das Gebiet um den See ist militärisches und staatliches Sperrgebiet.", "Der See bietet einen perfekten natürlichen Lebensraum für Wasservögel und Rehe.", "Die extreme Stille des Ortes ist ein großer Kontrast zu den industriellen Küstenstädten."]
-    }
+    
   },
     description: {
       de: "Eine weitere Küstenlagune in der Nähe von Hamhung, die ein wichtiger Lebensraum für Vögel ist.",
@@ -528,9 +500,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A vörösfenyő (larch) ritka fenyőféle, amely ősszel aranysárgára színeződik és hullatja a tűleveleit.", "Az Ohjon-ri erdő az északi hideg, hegyvidéki klímában érzi jól magát.", "A terület államilag védett, hogy elkerülje a lakossági tűzifagyűjtés okozta pusztulást.", "Az itteni fákat régen hajóépítéshez és értékes gyantájukért termelték ki.", "Fontos menedéke az északi énekesmadaraknak és kisemlősöknek.", "A területen kutatóállomások vizsgálják a klímaváltozás hatásait a vörösfenyőkre."],
       en: ["Protected expanse of coniferous woodland in the northern highlands.", "Dominated by the highly cold-resistant Korean Larch tree.", "Designated by the state as a 'Natural Monument' for ecological protection.", "Serves as a crucial habitat for resilient northern wildlife species.", "Acts as a vital ecological barrier preventing soil erosion on steep slopes.", "Contrasts sharply with the heavily deforested lower-elevation hillsides.", "Maintains the delicate hydrological balance of the local watersheds."]
     },
-    factsAdvanced: {
-      de: ["Der Lärchenwald liegt in den nordöstlichen Hochgebirgsregionen.", "Die vorherrschende Baumart ist die frostresistente Dahurische Lärche.", "Die Lärchen färben sich im Herbst leuchtend golden und verlieren im Winter ihre Nadeln.", "Das Reservat schützt die einzigartige boreale (taiga-ähnliche) Vegetation Nordkoreas.", "Die Wälder sind Heimat für seltene Säugetiere wie den koreanischen Marderhund.", "Der Wald gilt offiziell als 'Naturdenkmal' und steht unter staatlichem Schutz."]
-    }
+    
   },
     description: {
       de: "Ein Schutzgebiet in der Provinz Ryanggang, das für seine ausgedehnten und alten Lärchenwälder bekannt ist.",
@@ -564,9 +534,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A Rjongnim őserdő Észak-Korea kevés megmaradt elsődleges erdőségeinek egyike.", "A Nangnim-hegység zord, gyakran megközelíthetetlen csúcsain terül el.", "A fák életkora a területen gyakran a 300-400 évet is meghaladja.", "A terület menedéket nyújt az ázsiai fekete medvéknek (örvös medve) és leopárdoknak.", "Az őserdő a Cshongcshon és a Taedong folyók tiszta vízgyűjtő bázisának része.", "Bár védett, a vadászat és az illegális orvvadászat itt is problémát jelenthet."],
       en: ["Exceptionally rare, untouched ancient woodland in the Rangrim Mountains.", "Located in the highly restricted and remote Chagang Province.", "Has never been subjected to commercial logging or agricultural clearance.", "Features massive, centuries-old pines, oaks, and firs.", "Represents the original, primeval ecosystem of the Korean Peninsula.", "A critical sanctuary for endangered apex predators like the Amur leopard.", "Protected inadvertently by the region's extreme isolation and military security."]
     },
-    factsAdvanced: {
-      de: ["Der Ryongnim-Urwald liegt im Zentrum der Bergprovinz Chagang.", "Es ist einer der ältesten und am wenigsten berührten Wälder Nordkoreas.", "Das Gebiet ist schwer zugänglich, weshalb kein industrieller Holzeinschlag stattfindet.", "Der dichte Urwald beheimatet gefährdete Arten wie den asiatischen Schwarzbären.", "Der Waldboden ist berühmt für wild wachsende Pilze und wilden Ginseng.", "Das Ökosystem ähnelt stark den fernen sibirischen Taiga-Wäldern."]
-    }
+    
   },
     description: {
       de: "Ein großes Gebiet unberührter Wälder im Rangrim-Gebirge, das eine reiche Artenvielfalt beherbergt.",
@@ -600,9 +568,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["Az Anam-öbölben az árapály-ingadozás az egyik legnagyobb a világon (kb. 8 méter).", "Apálykor kilométeres szélességben iszapos síkságok kerülnek a felszínre.", "Ez a Kelet-Ázsiai – Ausztrálázsiai madárvonulási útvonal egyik legfőbb megállója.", "Észak-Korea sok árapálysíkságot lecsapolt (polderizáció) gabonatermesztés céljából.", "Az itteni iszap gazdag szerves anyagokban, rákokban és kagylókban.", "A helyiek apálykor gyakran gyűjtenek tengeri herkentyűket kézzel az iszapból."],
       en: ["Vast, nutrient-rich coastal ecosystem on the western Yellow Sea coast.", "Experiences massive daily tidal fluctuations exposing miles of mudflats.", "A vital feeding ground for millions of migratory shorebirds.", "Heavily utilized by locals for harvesting shellfish, crabs, and seaweed.", "Provides a crucial protein supplement to the local coastal diet.", "Increasingly targeted by the state for massive agricultural land reclamation.", "Recognized by international environmental groups for its ecological importance."]
     },
-    factsAdvanced: {
-      de: ["Das Anam-Bucht-Watt liegt an der Westküste am Gelben Meer.", "Die Region hat einen extrem hohen Gezeitenhub von mehreren Metern.", "Das Watt legt bei Ebbe oft Flächen von mehreren Kilometern Breite frei.", "Es ist ein wichtiges Gebiet für die manuelle Sammlung von Muscheln und Seetang.", "Teile des Watts werden vom Staat durch Dämme zu Ackerland ('Neuland') umgewandelt.", "Das Gebiet ist ein entscheidender Zwischenstopp für hunderttausende Zugvögel."]
-    }
+    
   },
     description: {
       de: "Ein wichtiges Feuchtgebiet an der Nordostküste, das als wichtiger Rastplatz für Zugvögel dient.",
@@ -636,9 +602,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A megyét körülölelő erdőségek fő funkciója a hatalmas gyümölcsültetvények védelme.", "A fák szélfogóként működnek a Sárga-tenger felől érkező viharok ellen.", "Leggyakoribb fafajai a vörösfenyő és a helyi tölgyfajták.", "A gyökérzet segít megtartani a csapadékot, ami táplálja az almafákat.", "A terület faunája gazdag apróvadakban és énekesmadarakban.", "A 'Kwail' (Gyümölcs) nevet a megye 1967-ben kapta Kim Ir Szen rendeletére."],
       en: ["Managed woodlands surrounding the massive orchards of Kwail County.", "Maintained primarily to prevent devastating soil erosion and landslides.", "Acts as a crucial ecological barrier protecting valuable fruit crops.", "Functions as a massive windbreak against intense storms from the Yellow Sea.", "Composed of a mix of native deciduous trees and planted pines.", "Demonstrates integrated agricultural and forestry management by the state.", "Provides localized timber and foraging resources for rural workers."]
     },
-    factsAdvanced: {
-      de: ["Die Wälder von Kwail liegen in der Obstbauregion Süd-Hwanghae.", "Sie dienen hauptsächlich als natürlicher Wind- und Erosionsschutz für die Plantagen.", "Die Wälder bestehen überwiegend aus Eichen und Edelkastanien.", "Sie fangen die salzigen und rauen Seewinde vom Gelben Meer ab.", "In den Wäldern wachsen traditionelle koreanische Heilkräuter.", "Das Sammeln von Pilzen ist hier eine wichtige Nebeneinkommensquelle."]
-    }
+    
   },
     description: {
       de: "Ein Gebiet in der Provinz Süd-Hwanghae, dessen Name 'Frucht' bedeutet und das für seine ausgedehnten Obstgärten und Wälder bekannt ist.",
@@ -672,9 +636,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["A Manphung tó Észak-Korea egyik legnagyobb öntözési célú mesterséges tava.", "A neve koreaiul bőséges termést vagy 'tízezer bőséget' jelent.", "A tó vize biztosítja Észak-Phjongan tartomány rizsföldjeinek vízellátását.", "Gátjának megépítése a 'dzsucse' mérnöki képességeinek egyik büszkesége volt.", "Kiterjedt halászati kombinátok működnek a tavon (ponty, ezüstkárász).", "A tó vizének szintje drasztikusan ingadozik a tavaszi aszályok idején."],
       en: ["Large artificial reservoir located in the western inland agricultural region.", "Created primarily to supply massive irrigation networks for farming.", "Ensures a stable water supply during the critical dry spring planting season.", "Bordered by rolling hills and highly organized agricultural collectives.", "Featured in state media as a triumph of 'nature-remaking' campaigns.", "Demonstrates the state's focus on hydrological engineering for food security.", "Also stocked with fish to provide supplementary protein for local workers."]
     },
-    factsAdvanced: {
-      de: ["Der Manphung-See ist ein wichtiges Wasserreservoir in Nord-P'yŏngan.", "Er wurde primär für die Bewässerung der landwirtschaftlichen Ebenen angelegt.", "Der See liefert Wasser für Hunderte Hektar Reisfelder.", "Die Form des Sees ist stark verzweigt und folgt den alten Tälern.", "Er wird intensiv zur Zucht von Süßwasserfischen wie Karpfen genutzt.", "Umgeben von Wäldern bietet er einen natürlichen Lebensraum für Wasservögel."]
-    }
+    
   },
     description: {
       de: "Ein künstlicher See nordöstlich von Pjöngjang, der zur Erholung und Fischerei genutzt wird.",
@@ -708,9 +670,7 @@ export const poiExtraNorthkoreaNatureV2: POI[] = [
       hu: ["Az Ullim-vízesés magassága 75 méter, vizét egy sűrű fenyvesekkel övezett hegyi patak adja.", "A neve ('Ullim') magyarul visszhangot vagy dübörgést jelent.", "A vízesést csak 1999-ben 'fedezték fel' katonai útépítési munkálatok során.", "A lezúduló víz egy 1,5 méter mély, tiszta vizű medencébe érkezik.", "Kim Dzsongil személyesen avatta fel a terület köré épített turisztikai központot 2001-ben.", "A hegyi völgyben télen a vízesés lenyűgöző jégzuhataggá fagy."],
       en: ["Spectacular 75-meter waterfall located in Kangwon Province.", "The name 'Ullim' translates directly to 'Echo' in English.", "Reportedly discovered by soldiers constructing a highway in 2001.", "Rapidly developed by the state into a premier domestic tourist destination.", "Features dedicated viewing pavilions and scenic walking paths.", "A highly popular rest stop on the route between Pyongyang and Wonsan.", "Celebrated in state media as a hidden jewel of the Korean landscape."]
     },
-    factsAdvanced: {
-      de: ["Der Ullim-Wasserfall stürzt beeindruckende 75 Meter in die Tiefe.", "Das Donnern des Wassers gab ihm den Namen 'Echo-Wasserfall'.", "Der Ort liegt in den Bergen der Provinz Kangwŏn.", "Er wurde im Jahr 2001 durch Soldaten der Volksarmee 'entdeckt'.", "Der Wasserfall wurde schnell zu einem staatlich geförderten Touristenziel ausgebaut.", "Das Tal ist für seine extrem kühle, frische Luft im Hochsommer bekannt."]
-    }
+    
   },
     description: {
       de: "Ein relativ neu entdeckter Wasserfall, dessen Name 'Echo' bedeutet und der zu einer Touristenattraktion entwickelt wurde.",

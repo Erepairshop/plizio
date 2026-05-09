@@ -25,12 +25,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Principalul punct de export al bananelor", "Nod central caraibian", "Important pentru exporturi", "Fondat: 1870"],
       en: ["Primary banana export hub", "Major Caribbean transit point", "Vital for national exports", "Founded: 1870"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Itt kötött ki Kolumbusz Kristóf 1502-ben az utolsó útja során.", "A kikötőn keresztül halad át az ország banánexportjának több mint 80%-a.", "A város építészetén érezhető a viktoriánus és a karibi stílus keveredése.", "Az 1991-es földrengés során a partvonal jelentősen megemelkedett.", "Limón az ország egyetlen olyan tartományi székhelye, amely közvetlenül a Karib-tenger partján fekszik."],
-      ro: ["Cristofor Columb a debarcat aici în 1502, în timpul ultimei sale călătorii.", "Peste 80% din exportul de banane al țării trece prin acest port.", "Arhitectura orașului reflectă un amestec de stiluri victoriene și caraibiene.", "În timpul cutremurului din 1991, linia de coastă s-a ridicat semnificativ.", "Limón este singura reședință de provincie din țară situată direct pe malul Mării Caraibilor."],
-      en: []
-    }, image: "/poi-images/puerto-limon-economic-v2.webp"},
+     image: "/poi-images/puerto-limon-economic-v2.webp"},
   {
     id: "puerto-caldera-economic-v2",
     type: "port",
@@ -54,12 +49,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Cel mai important port la Pacific", "Centru de tranzit pentru mărfuri", "Esențial pentru comerțul cu Asia", "Lângă Puntarenas"],
       en: ["Most vital Pacific port", "Major commercial shipping hub", "Central to trans-Pacific trade", "Located near Puntarenas"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A kikötőt az 1980-as évek elején építették ki a modern igényeknek megfelelően.", "Itt található az ország legnagyobb gabonasiló-komplexuma.", "Képes fogadni a legnagyobb Panamax típusú teherhajókat is.", "A kikötő közvetlen összeköttetésben áll a fővárossal a 27-es úton keresztül.", "A tengeráramlatok miatt a kikötő medencéjét rendszeresen kotorni kell."],
-      ro: ["Portul a fost dezvoltat la începutul anilor 1980 pentru a satisface nevoile moderne.", "Aici se află cel mai mare complex de silozuri de cereale din țară.", "Este capabil să primească cele mai mari nave de marfă de tip Panamax.", "Portul este conectat direct cu capitala prin ruta 27.", "Din cauza curenților marini, bazinul portuar trebuie dragat în mod regulat."],
-      en: []
-    }, image: "/poi-images/puerto-caldera-economic-v2.webp"},
+     image: "/poi-images/puerto-caldera-economic-v2.webp"},
   {
     id: "refineria-moin-economic-v2",
     type: "industry",
@@ -83,12 +73,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Cea mai importantă unitate industrială", "Securitatea aprovizionării", "Lângă Puerto Limón", "Operată de RECOPE"],
       en: ["Key industrial facility", "National energy security", "Near Puerto Limon", "Operated by RECOPE"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A finomítót 1963-ban alapították a hazai igények kielégítésére.", "A létesítmény közvetlen csővezeték-kapcsolattal rendelkezik a Központi-völgyhöz.", "Itt tárolják az ország stratégiai üzemanyag-tartalékait.", "A terminál képes fogadni a nagy óéanjáró tankereket is.", "Számos biztonsági és környezetvédelmi tanúsítvánnyal rendelkezik."],
-      ro: ["Rafinăria a fost fondată în 1963 pentru a satisface nevoile interne.", "Instalația are o conexiune directă prin conductă cu Valea Centrală.", "Aici sunt depozitate rezervele strategice de combustibil ale țării.", "Terminalul poate primi tancuri petroliere oceanice mari.", "Deține numeroase certificări de siguranță și de mediu."],
-      en: []
-    }, image: "/poi-images/refineria-moin-economic-v2.webp"},
+     image: "/poi-images/refineria-moin-economic-v2.webp"},
   {
     id: "terminal-apmt-economic-v2",
     type: "port",
@@ -112,12 +97,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Terminal ultramodern", "Semnificativ pentru exportul de banane", "Apă adâncă pentru nave mari", "Bornă de infrastructură"],
       en: ["State-of-the-art terminal", "Key for banana exports", "Deep water for mega vessels", "Infrastructure milestone"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A terminált 2019-ben adták át hivatalosan a forgalomnak.", "Több mint 1 milliárd dolláros beruházásból valósult meg.", "Itt találhatók az ország egyetlen Super Post-Panamax típusú darui.", "A kikötő éves kapacitása meghaladja az 1,2 millió konténert (TEU).", "A mesterséges sziget területe körülbelül 40 hektár."],
-      ro: ["Terminalul a fost dat în folosință oficial în anul 2019.", "A fost realizat printr-o investiție de peste 1 miliard de dolari.", "Aici se află singurele macarale de tip Super Post-Panamax din țară.", "Capacitatea anuală a portului depășește 1,2 milioane de containere (TEU).", "Suprafața insulei artificiale este de aproximativ 40 de hectare."],
-      en: []
-    }, image: "/poi-images/terminal-apmt-economic-v2.webp"},
+     image: "/poi-images/terminal-apmt-economic-v2.webp"},
   {
     id: "parque-industrial-cartago-economic-v2",
     type: "industry",
@@ -141,12 +121,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Centru tehnologic", "Multe companii multinaționale", "Locuri de muncă regionale", "Motor economic"],
       en: ["Tech and electronics hub", "Hosting multinational firms", "Regional job creator", "Economic engine"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A parkot az 1980-as évek közepén hozták létre az iparosítás ösztönzésére.", "Több mint 50 nemzetközi vállalat üzemeltet itt gyártóüzemet.", "Közvetlen vasúti összeköttetése van a Központi-völgy más városaival.", "Az itt dolgozók száma meghaladja a 15 000 főt.", "A park nagy hangsúlyt fektet a fenntartható és zöld ipari megoldásokra."],
-      ro: ["Parcul a fost creat la mijlocul anilor 1980 pentru a stimula industrializarea.", "Peste 50 de companii internaționale operează unități de producție aici.", "Are conexiune feroviară directă cu alte orașe din Valea Centrală.", "Numărul angajaților de aici depășește 15.000 de persoane.", "Parcul pune un mare accent pe soluții industriale durabile și verzi."],
-      en: []
-    }, image: "/poi-images/parque-industrial-cartago-economic-v2.webp"},
+     image: "/poi-images/parque-industrial-cartago-economic-v2.webp"},
   {
     id: "puerto-quepos-economic-v2",
     type: "port",
@@ -170,12 +145,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Important pentru port de agrement", "Pescuit pe coasta Pacificului", "Nod turistic", "Lângă Manuel Antonio"],
       en: ["Key marina infrastructure", "Pacific coastal fishing", "Tourism transit hub", "Near Manuel Antonio"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A kikötőt eredetileg az United Fruit Company építette az 1930-as években.", "A Marina Pez Vela Közép-Amerika egyik legmodernebb jachtkikötője.", "Híres az évi rendszerességgel megrendezett sporthorgász világbajnokságról.", "A város neve a quepo indián törzsre utal, akik eredetileg itt éltek.", "Fontos állomása a Csendes-óceán mentén közlekedő luxus-óceánjáróknak."],
-      ro: ["Portul a fost construit inițial de United Fruit Company în anii 1930.", "Marina Pez Vela este unul dintre cele mai moderne porturi de agrement din America Centrală.", "Este faimos pentru campionatul mondial de pescuit sportiv organizat anual.", "Numele orașului se referă la tribul indian Quepo, care a trăit inițial aici.", "Este o stație importantă pentru navele de croazieră de lux care navighează de-a lungul Pacificului."],
-      en: []
-    }
+    
   },
   {
     id: "zona-franca-heredia-economic-v2",
@@ -200,12 +170,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Avantaje fiscale", "Volum ridicat de export", "Companii tehnologice", "Centru de investiții"],
       en: ["Fiscal incentives", "High export volume", "Tech companies hub", "Primary investment center"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Olyan cégek központja található itt, mint az Amazon, az IBM vagy az Intel.", "Az ország egyik legnagyobb kétnyelvű (angol-spanyol) munkaerő-piaci bázisa.", "A zóna saját megújuló energiaforrásokat is használ a működéséhez.", "Területe több száz hektárnyi modern irodakomplexumot foglal magában.", "A munkavállalók számára kiváló rekreációs és sportolási lehetőségeket biztosítanak."],
-      ro: ["Aici se află sedii ale unor companii precum Amazon, IBM sau Intel.", "Este una dintre cele mai mari baze ale forței de muncă bilingve (engleză-spaniolă) din țară.", "Zona folosește și propriile surse de energie regenerabilă pentru funcționare.", "Suprafața sa cuprinde sute de hectare de complexe de birouri moderne.", "Sunt oferite facilități excelente de recreere și sport pentru angajați."],
-      en: []
-    }, image: "/poi-images/zona-franca-heredia-economic-v2.webp"},
+     image: "/poi-images/zona-franca-heredia-economic-v2.webp"},
   {
     id: "terminal-punta-arenas-economic-v2",
     type: "port",
@@ -229,12 +194,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Terminal de croazieră", "Hub de pescuit", "Punct de plecare pentru turism", "Port istoric"],
       en: ["Cruise ship terminal", "Fishing industry hub", "Tourism departure point", "Historic port facility"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A kikötő mólója (Muelle Grande) majdnem 300 méter hosszan nyúlik a tengerbe.", "A 19. században ökörszekerekkel szállították ide a kávét a hegyekből.", "Itt található az ország leghosszabb tengerparti sétánya.", "Fontos csomópont a közeli szigetekre tartó kirándulóhajók számára.", "A város ad otthont a Csendes-óceán egyik legnagyobb tengerbiológiai kutatóközpontjának."],
-      ro: ["Moll-ul portului (Muelle Grande) se întinde pe aproape 300 de metri în mare.", "În secolul al XIX-lea, cafeaua era transportată aici din munți cu carele cu boi.", "Aici se află cea mai lungă promenadă de pe malul mării din țară.", "Este un nod important pentru ambarcațiunile de excursie către insulele din apropiere.", "Orașul găzduiește unul dintre cele mai mari centre de cercetare în biologie marină de la Pacific."],
-      en: []
-    }
+    
   },
   {
     id: "planta-energia-miravalles-economic-v2",
@@ -259,12 +219,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Energie regenerabilă", "Activitate vulcanică", "Alimentare națională cu energie", "Localizare Guanacaste"],
       en: ["Renewable energy generation", "Volcanic energy capture", "National power grid support", "Located in Guanacaste"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Az erőmű első egységét 1994-ben helyezték üzembe.", "Összesen öt különböző egységből álló komplexum.", "A termelés során keletkező vizet visszasajtolják a földbe a fenntarthatóság érdekében.", "Az erőműnek köszönhetően Costa Rica majdnem 100%-ban megújuló áramot használ.", "A projekt része egy oktatóközpont is, amely a tiszta energiát népszerűsíti."],
-      ro: ["Prima unitate a centralei a fost pusă în funcțiune în 1994.", "Complexul este format din total cinci unități diferite.", "Apa rezultată în timpul producției este injectată înapoi în pământ pentru sustenabilitate.", "Datorită centralei, Costa Rica folosește aproape 100% electricitate regenerabilă.", "Proiectul include și un centru educațional care promovează energia curată."],
-      en: []
-    }, image: "/poi-images/planta-energia-miravalles-economic-v2.webp"},
+     image: "/poi-images/planta-energia-miravalles-economic-v2.webp"},
   {
     id: "parque-industrial-la-ureca-economic-v2",
     type: "industry",
@@ -288,12 +243,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Cluster industrial", "Centru logistic", "Unități de producție", "Angajator în San José"],
       en: ["Industrial cluster", "Logistics hub", "Production facilities", "Major San Jose employer"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Itt találhatók Costa Rica legnagyobb napilapjainak nyomdái.", "A negyed a nevét az őshonos Uruca fáról kapta.", "Az ország gépjármű-importjának jelentős része itt kerül értékesítésre.", "Kiváló összeköttetéssel rendelkezik a Juan Santamaría nemzetközi repülőtérrel.", "A területen számos ipari oktatóközpont is működik."],
-      ro: ["Aici se află tipografiile celor mai mari ziare din Costa Rica.", "Districtul și-a primit numele de la arborele indigen Uruca.", "O parte semnificativă din importurile de vehicule ale țării este vândută aici.", "Are o conexiune excelentă cu Aeroportul Internațional Juan Santamaría.", "În zonă funcționează numeroase centre de formare industrială."],
-      en: []
-    }, image: "/poi-images/parque-industrial-la-ureca-economic-v2.webp"},
+     image: "/poi-images/parque-industrial-la-ureca-economic-v2.webp"},
   {
     id: "terminal-ferry-nicoya-economic-v2",
     type: "port",
@@ -317,12 +267,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Rută de transport esențială", "Logistică turistică", "Transport auto", "Conexiune Guanacaste"],
       en: ["Vital transport route", "Tourism logistics", "Vehicle transport", "Gateway to Guanacaste"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A hajóút körülbelül egy órát vesz igénybe a Nicoya-öbölben.", "A kompok nagy mennyiségű áruszállító teherautót is képesek szállítani.", "Az átkelés során gyakran látni tengeri madarakat és delfineket.", "Népszerű választás a turisták számára, akik Montezuma vagy Santa Teresa felé tartanak.", "A jegyértékesítés mára teljesen online és automatizált."],
-      ro: ["Călătoria cu vaporul durează aproximativ o oră în Golful Nicoya.", "Feriboturile pot transporta și un număr mare de camioane de marfă.", "În timpul traversării, se pot vedea frecvent păsări marine și delfini.", "Este o alegere populară pentru turiștii care se îndreaptă spre Montezuma sau Santa Teresa.", "Vânzarea biletelor este acum complet online și automatizată."],
-      en: []
-    }, image: "/poi-images/terminal-ferry-nicoya-economic-v2.webp"},
+     image: "/poi-images/terminal-ferry-nicoya-economic-v2.webp"},
   {
     id: "puerto-golfito-economic-v2",
     type: "port",
@@ -346,12 +291,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Port sudic", "Zonă de cumpărături duty-free", "Fost centru de banane", "Pescuit"],
       en: ["Southern port city", "Duty-free shopping zone", "Former banana hub", "Commercial fishing"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A Golfo Dulce a világ egyik kevés tengeri fjordjának egyike.", "A vámmentes övezet miatt az ország minden részéből érkeznek ide vásárlók.", "Itt található az ország egyik legjobb állapotban fennmaradt történelmi faépület-együttese.", "Fontos állomása a bálnalesre induló kirándulóhajóknak.", "A kikötő vize rendkívül mély, ami lehetővé tette a hatalmas teherhajók fogadását."],
-      ro: ["Golfo Dulce este unul dintre puținele fiorduri marine din lume.", "Datorită zonei duty-free, aici vin cumpărători din toate părțile țării.", "Aici se află unul dintre cele mai bine conservate ansambluri de clădiri istorice din lemn din țară.", "Este o stație importantă pentru bărcile de excursie care pleacă pentru observarea balenelor.", "Apa portului este extrem de adâncă, ceea ce a permis primirea unor nave de marfă uriașe."],
-      en: []
-    }, image: "/poi-images/puerto-golfito-economic-v2.webp"},
+     image: "/poi-images/puerto-golfito-economic-v2.webp"},
   {
     id: "zona-franca-cartago-economic-v2",
     type: "industry",
@@ -375,12 +315,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Companii de export", "Stimulente pentru investiții", "Cluster industrial", "Creștere economică"],
       en: ["Export-based companies", "Investment incentives", "Industrial cluster", "Economic growth site"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Számos világhírű orvosi műszergyártó vállalat itt állítja elő termékeit.", "A zóna közvetlen autópálya-összeköttetéssel rendelkezik a főváros és a kikötők felé.", "Kiemelt figyelmet fordítanak a helyi közösség képzésére és foglalkoztatására.", "Saját belső biztonsági és logisztikai szolgálattal rendelkezik.", "A park bővítése folyamatos az újabb nemzetközi megkeresések miatt."],
-      ro: ["Numeroase companii de renume mondial producătoare de instrumente medicale își fabrică produsele aici.", "Zona are conexiune directă prin autostradă către capitală și porturi.", "Se acordă o atenție deosebită formării și angajării comunității locale.", "Dispune de propriul serviciu intern de securitate și logistică.", "Extinderea parcului este continuă datorită noilor solicitări internaționale."],
-      en: []
-    }, image: "/poi-images/zona-franca-cartago-economic-v2.webp"},
+     image: "/poi-images/zona-franca-cartago-economic-v2.webp"},
   {
     id: "planta-energia-sandillal-economic-v2",
     type: "industry",
@@ -404,12 +339,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Energie regenerabilă", "Sistemul fluvial Arenal", "Producție de energie", "Infrastructură importantă"],
       en: ["Renewable energy plant", "Arenal river system", "Power generation", "Critical infrastructure"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Az erőművet az 1990-es évek elején helyezték üzembe.", "Kapacitása körülbelül 32 megawatt.", "Része egy nagyobb integrált vízenergia-projektnek az ország északi részén.", "A tározó vize népszerű a vízi sportok és a horgászat kedvelői körében.", "Az erőmű működése teljesen automatizált és távfelügyelt."],
-      ro: ["Centrala a fost pusă în funcțiune la începutul anilor 1990.", "Capacitatea sa este de aproximativ 32 de megawați.", "Face parte dintr-un proiect hidroelectric integrat mai mare în nordul țării.", "Apa din rezervor este populară printre pasionații de sporturi nautice și pescuit.", "Funcționarea centralei este complet automatizată și monitorizată de la distanță."],
-      en: []
-    }, image: "/poi-images/planta-energia-sandillal-economic-v2.webp"},
+     image: "/poi-images/planta-energia-sandillal-economic-v2.webp"},
   {
     id: "puerto-matina-economic-v2",
     type: "port",
@@ -433,12 +363,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Tranzit regional", "Aprovizionare rurală", "Coasta Caraibilor", "Transport local de mărfuri"],
       en: ["Regional transshipment", "Rural supply hub", "Caribbean coast", "Local goods transport"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A 18. században híres volt az illegális kakaókereskedelemről és a kalózokról.", "A területet sűrű csatornahálózat köti össze a Tortuguero régióval.", "Fontos kutatási helyszín a tengeri teknősök védelme szempontjából.", "A talaj rendkívül gazdag vulkáni üledékben, ami kedvez a kakaótermesztésnek.", "A környékbeli lakosság őrzi a hagyományos afro-karibi földművelési módokat."],
-      ro: ["În secolul al XVIII-lea, era faimos pentru comerțul ilegal cu cacao și pentru pirați.", "Zona este conectată de regiunea Tortuguero printr-o rețea densă de canale.", "Este un loc important de cercetare pentru protecția țestoaselor marine.", "Solul este extrem de bogat în sedimente vulcanice, ceea ce favorizează cultivarea de cacao.", "Populația locală păstrează metodele tradiționale de agricultură afro-caraibiană."],
-      en: []
-    }
+    
   },
   {
     id: "zona-franca-el-coyol-economic-v2",
@@ -463,12 +388,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Tehnologie medicală", "Tehnologie de vârf", "Hub de export", "Centru economic"],
       en: ["Medical device manufacturing", "High-end technology", "Export hub", "Economic engine"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Több éven át a világ legjobb szabadkereskedelmi zónái közé választották.", "Itt állítják elő Costa Rica ipari exportjának jelentős hányadát.", "A parkon belül több mint 30 világhírű vállalat működik.", "Saját belső szakképző központtal rendelkezik a munkavállalók számára.", "Kiemelt figyelmet fordítanak a hulladékmentes gyártásra és a víztisztításra."],
-      ro: ["A fost aleasă timp de mai mulți ani printre cele mai bune zone libere din lume.", "Aici se produce o cotă semnificativă din exportul industrial al Costa Ricăi.", "În interiorul parcului operează peste 30 de companii de renume mondial.", "Dispune de propriul centru de formare profesională internă pentru angajați.", "Se acordă o atenție deosebită producției fără deșeuri și purificării apei."],
-      en: []
-    }, image: "/poi-images/zona-franca-el-coyol-economic-v2.webp"},
+     image: "/poi-images/zona-franca-el-coyol-economic-v2.webp"},
   {
     id: "puerto-cocos-economic-v2",
     type: "port",
@@ -492,12 +412,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Bază de cercetare", "Locație izolată", "Patrimoniu mondial UNESCO", "Ancoraj"],
       en: ["Research support base", "Remote location", "UNESCO World Heritage", "Anchorage point"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A sziget több mint 500 kilométerre fekszik a szárazföldtől.", "A kalózlegendák szerint itt rejtették el a híres 'Limai Kincset'.", "Az öböl szikláin több mint 100 történelmi hajófelirat található.", "Csak külön engedéllyel rendelkező túrahajók horgonyozhatnak le itt.", "A sziget az alapja Michael Crichton 'Jurassic Park' könyvének és filmjének."],
-      ro: ["Insula se află la peste 500 de kilometri distanță de continent.", "Conform legendelor piraților, aici ar fi fost ascunsă faimoasa \\\"Comoară din Lima\\\".", "Pe stâncile golfului se găsesc peste 100 de inscripții istorice ale navelor.", "Doar navele de turism cu autorizație specială pot ancora aici.", "Insula a servit drept sursă de inspirație pentru cartea și filmul \\\"Jurassic Park\\\" de Michael Crichton."],
-      en: []
-    }, image: "/poi-images/puerto-cocos-economic-v2.webp"},
+     image: "/poi-images/puerto-cocos-economic-v2.webp"},
   {
     id: "planta-energia-valle-central-economic-v2",
     type: "industry",
@@ -521,12 +436,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Energie regenerabilă", "Energie eoliană", "Curent pentru San José", "Locație Valea Centrală"],
       en: ["Renewable energy", "Wind power", "San Jose power supply", "Central Valley location"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A turbinák magassága meghaladja a 80 métert.", "Több ezer háztartás éves energiaigényét képesek fedezni.", "A helyszín kiválasztását több éves szélsebesség-mérés előzte meg.", "Az erőmű látogatóközpontja bemutatja a szélenergia működését.", "A projekt segített stabilizálni a feszültséget a völgyi elektromos hálózatban."],
-      ro: ["Înălțimea turbinelor depășește 80 de metri.", "Pot acoperi cererea anuală de energie pentru mii de gospodării.", "Selecția locației a fost precedată de câțiva ani de măsurători ale vitezei vântului.", "Centrul de vizitare al parcului prezintă modul de funcționare a energiei eoliene.", "Proiectul a ajutat la stabilizarea tensiunii în rețeaua electrică a văii."],
-      en: []
-    }, image: "/poi-images/planta-energia-valle-central-economic-v2.webp"},
+     image: "/poi-images/planta-energia-valle-central-economic-v2.webp"},
   {
     id: "terminal-puerto-balboa-economic-v2",
     type: "port",
@@ -550,12 +460,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Logistică sudică", "Port regional", "Aprovizionare de coastă", "Suport pentru pescuit"],
       en: ["Southern logistics", "Regional port", "Coastal supplies", "Fishing support"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A terminál fontos állomása a Panama felé tartó kisebb teherhajóknak.", "Saját hűtőházi kapacitással rendelkezik a frissen fogott halak tárolására.", "Gyakran szolgál bázisként a tengerbiológiai kutatóexpedíciók számára.", "A móló közvetlen közelében gyakran látni delfineket és rájákat.", "A területet sűrű növényzet választja el a város központjától."],
-      ro: ["Terminalul este o stație importantă pentru navele de marfă mici care se îndreaptă spre Panama.", "Dispune de propria capacitate de depozitare frigorifică pentru păstrarea peștelui proaspăt prins.", "Servește frecvent ca bază pentru expediții de cercetare în biologie marină.", "În imediata apropiere a docului pot fi văzuți frecvent delfini și pisici de mare.", "Zona este separată de centrul orașului printr-o vegetație densă."],
-      en: []
-    }
+    
   },
   {
     id: "zona-franca-la-negrita-economic-v2",
@@ -580,12 +485,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Produse de export", "Cluster de producție", "Stimulente fiscale", "Regiunea Cartago"],
       en: ["Export goods", "Production cluster", "Tax incentives", "Cartago region"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Olyan cégek telepedtek meg itt, amelyek közép-amerikai terjeszkedésre fókuszálnak.", "Saját logisztikai és elosztó flottát üzemeltetnek a parkon belül.", "A park fontos szerepet játszik a helyi kézműves élelmiszerek ipari méretű exportjában.", "A területen modern víztisztító és hulladékkezelő rendszer működik.", "Közvetlen vasúti csatlakozása segít a nehezebb áruk mozgatásában."],
-      ro: ["S-au stabilit aici companii care se concentrează pe extinderea în America Centrală.", "Operează propria flotă de logistică și distribuție în interiorul parcului.", "Parcul joacă un rol important în exportul la scară industrială al alimentelor artizanale locale.", "În zonă funcționează un sistem modern de purificare a apei și de gestionare a deșeurilor.", "Conexiunea feroviară directă ajută la deplasarea mărfurilor mai grele."],
-      en: []
-    }
+    
   },
   {
     id: "puerto-cito-economic-v2",
@@ -610,12 +510,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Comerț local", "Debarcader de pescuit", "Tranzit mic", "Aprovizionare de coastă"],
       en: ["Local trade", "Fishing pier", "Small transshipment", "Coastal supply"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Híres a reggelente érkező friss homár- és rákfogásokról.", "A móló környéke kiváló hely a tengeri teknősök megfigyelésére a vonulási időszakban.", "A helyi hajósok innen indulnak a távolabbi korallzátonyokhoz halászni.", "A kikötő épületei között több hagyományos faépítésű stég is található.", "Fontos találkozóhely a karibi parti őrség és a helyi lakosok között."],
-      ro: ["Este faimos pentru capturile proaspete de homari și crabi care sosesc dimineața.", "Zona de lângă debarcader este un loc excelent pentru observarea țestoaselor marine în timpul migrației.", "Pescarii locali pleacă de aici către recifele de corali îndepărtate pentru a pescui.", "Printre clădirile portului se află mai multe pontoane tradiționale din lemn.", "Este un punct important de întâlnire între paza de coastă din Caraibe și locuitorii locali."],
-      en: []
-    }, image: "/poi-images/puerto-cito-economic-v2.webp"},
+     image: "/poi-images/puerto-cito-economic-v2.webp"},
   {
     id: "zona-franca-saret-economic-v2",
     type: "industry",
@@ -639,12 +534,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Industrie de producție", "Centru de export", "Localizare avantajoasă", "Proximitate logistică"],
       en: ["Manufacturing industry", "Export center", "Strategic location", "Logistics proximity"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Ez volt az egyik első magánkézben lévő szabadkereskedelmi zóna az országban.", "Saját vámszabad raktárrendszert üzemeltet a nemzetközi tranzitáruk számára.", "A területen belül technológiai inkubátorház is működik start-upok számára.", "Közvetlen kijárattal rendelkezik a Panamerikai főútra.", "A park nagy hangsúlyt fektet az ipari környezet parkosítására és esztétikájára."],
-      ro: ["A fost una dintre primele zone libere private din țară.", "Operează propriul sistem de depozitare vamală pentru mărfurile în tranzit internațional.", "În interiorul zonei funcționează și un incubator tehnologic pentru start-up-uri.", "Are ieșire directă la drumul principal Panamerican.", "Parcul pune un mare accent pe amenajarea peisagistică și estetica mediului industrial."],
-      en: []
-    }
+    
   },
   {
     id: "terminal-puerto-villas-economic-v2",
@@ -669,12 +559,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Comerț regional", "Navigație de coastă", "Aprovizionare Pacific", "Logistică locală"],
       en: ["Regional trade", "Coastal shipping", "Pacific supply", "Local logistics"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A kikötő híres az évi rendszerességgel megrendezett helyi vitorlásversenyeiről.", "Saját közösségi szövetkezet üzemelteti a mólót és a raktárakat.", "Fontos bázisa a környékbeli iskolák tengerbiológiai szakköreinek.", "A móló végéről gyakran látni vonuló bálnákat a főszezonban.", "A kikötő melletti halpiac az egész régió legismertebb beszerzőhelye."],
-      ro: ["Portul este renumit pentru competițiile locale de navigație organizate anual.", "O cooperativă comunitară proprie operează debarcaderul și depozitele.", "Este o bază importantă pentru cercurile de biologie marină ale școlilor din zonă.", "De la capătul debarcaderului pot fi văzute frecvent balene în migrație în timpul sezonului de vârf.", "Piața de pește de lângă port este cel mai cunoscut loc de aprovizionare din întreaga regiune."],
-      en: []
-    }, image: "/poi-images/terminal-puerto-villas-economic-v2.webp"},
+     image: "/poi-images/terminal-puerto-villas-economic-v2.webp"},
   {
     id: "planta-energia-don-pedro-economic-v2",
     type: "industry",
@@ -698,12 +583,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Energie regenerabilă", "Sistemul fluvial Heredia", "Conexiune la rețeaua electrică", "Energie hidro"],
       en: ["Renewable energy", "Heredia river system", "Grid connection", "Hydroelectric power"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["A vízkivételt speciális rácsok védik, hogy a halak ne jussanak be a turbinákba.", "Az erőmű évente több ezer tonna CO2-kibocsátást vált ki.", "A létesítmény közelében fontos ökoturisztikai túraútvonalak futnak.", "A termelt energiát közvetlenül a tartományi elosztóhálózatba táplálják.", "Az erőműnek köszönhetően a környéken jelentősen javult az áramellátás stabilitása."],
-      ro: ["Prizele de apă sunt protejate de grătare speciale pentru a preveni intrarea peștilor în turbine.", "Centrala evită anual emiterea a mii de tone de CO2.", "În apropierea instalației trec rute importante de drumeție pentru ecoturism.", "Energia produsă este introdusă direct în rețeaua de distribuție a provinciei.", "Datorită centralei, stabilitatea alimentării cu energie electrică în zonă s-a îmbunătățit semnificativ."],
-      en: []
-    }, image: "/poi-images/planta-energia-don-pedro-economic-v2.webp"},
+     image: "/poi-images/planta-energia-don-pedro-economic-v2.webp"},
   {
     id: "zona-franca-bes-economic-v2",
     type: "industry",
@@ -727,12 +607,7 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       ro: ["Servicii tehnologice", "Orientat spre export", "Zonă economică", "Avantaje de investiții"],
       en: ["Tech services", "Export-oriented", "Economic zone", "Investment advantages"]
     },
-    factsAdvanced: {
-      de: [],
-      hu: ["Olyan cégek központja található itt, amelyek több nyelven nyújtanak globális támogatást.", "A park épületei energiahatékony megoldásokkal készültek.", "Saját konferencia- és tréningközponttal rendelkezik a vállalatok számára.", "A zóna közvetlen közelében több egyetemi campus is található.", "Kiemelt figyelmet fordítanak a kiberbiztonságra és az adatvédelemre."],
-      ro: ["Găzduiește sedii ale unor companii care oferă asistență globală în mai multe limbi.", "Clădirile parcului au fost construite cu soluții eficiente din punct de vedere energetic.", "Dispune de propriul centru de conferințe și formare pentru companii.", "În imediata apropiere a zonei se află mai multe campusuri universitare.", "Se acordă o atenție deosebită securității cibernetice și protecției datelor."],
-      en: []
-    }
+    
   },
   {
     id: "puerto-cacao-economic-v2",

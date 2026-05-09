@@ -54,13 +54,13 @@ export const poiExtraBhutanLifeV2: POI[] = [
     description: {
       de: "Der erste botanische Park Bhutans, der eine reiche Artenvielfalt mit über 46 Rhododendronarten und vielen heimischen Vögeln bietet.",
       hu: "Bhután első botanikus kertje, amely gazdag biológiai sokféleséget kínál több mint 46 rododendronfajjal és sok őshonos madárral.",
-      ro: "Primul parc botanic din Bhutan, oferind o biodiversitate bogată cu peste 46 de specii de rododendron și multe păsări autohtone.",
+      ro: "Parcul Botanic Regal Lampelri protejează flora bogată a Bhutanului, fiind situat în pasul Dochula. Acesta oferă oportunități de observare a plantelor rare și a speciilor de rododendroni.",
       en: "Bhutan's first botanical park, offering rich biodiversity with over 46 rhododendron species and many native birds."
     },
     facts: {
       de: ["Erster botanischer Park Bhutans", "Auf 47 Quadratkilometern", "Schwerpunkt auf Rhododendren", "Gegründet im Jahr 2008"],
       hu: ["Bhután első botanikus kertje", "47 négyzetkilométeren terül el", "Fókuszban a rododendronok", "2008-ban alapították"],
-      ro: ["Primul parc botanic din Bhutan", "Se întinde pe 47 de kilometri pătrați", "Accent pe rododendroni", "Fondat în 2008"],
+      ro: ["Situat la Dochula", "Diversitate botanică", "Protejează rododendroni", "Parc național"],
       en: ["Bhutan's first botanical park", "Covers 47 square kilometers", "Focuses on rhododendrons", "Founded in 2008"]
     },
     factsAdvanced: {

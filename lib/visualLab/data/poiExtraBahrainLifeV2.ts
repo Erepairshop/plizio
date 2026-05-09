@@ -1,4 +1,4 @@
-import type { POI } from "./poi";
+﻿import type { POI } from "./poi";
 
 export const poiExtraBahrainLifeV2: POI[] = [
   {
@@ -397,13 +397,13 @@ export const poiExtraBahrainLifeV2: POI[] = [
       en: "Al Sayh Walkway"
     },
     description: {
-      de: "Ein malerischer Weg entlang der Küste von Busaiteen, perfekt für Familienausflüge am späten Nachmittag.",
+      de: "Der Al-Sayh-Walkway ist eine beliebte Uferpromenade in Muharraq, die für Spaziergänge und Erholung am Meer geschätzt wird. Er bietet einen Blick auf die Skyline.",
       hu: "Festői út Busaiteen partja mentén, amely tökéletes a késő délutáni családi kirándulásokhoz.",
       ro: "O potecă pitorească de-a lungul coastei Busaiteen, perfectă pentru excursiile de familie după-amiaza târziu.",
       en: "A scenic path along the coast of Busaiteen, perfect for late afternoon family outings."
     },
     facts: {
-      de: ["Herrliche Sonnenuntergänge.", "Meeresbrise.", "Beliebt für Radtouren."],
+      de: ["Muharraq-Promenade", "Uferweg", "Blick auf Manama", "Erholungsgebiet"],
       hu: ["Csodálatos naplementék.", "Tengeri szellő.", "Népszerű kerékpártúrákhoz."],
       ro: ["Apusuri superbe.", "Briza mării.", "Popular pentru plimbări cu bicicleta."],
       en: ["Magnificent sunsets.", "Sea breeze.", "Popular for bike rides."]
@@ -422,13 +422,13 @@ export const poiExtraBahrainLifeV2: POI[] = [
     },
     description: {
       de: "Ein historisch geprägter Park, der um eine alte Süßwasserquelle herum angelegt wurde und die Geschichte der Wasserversorgung Bahrains ehrt.",
-      hu: "Történelmi park, amely egy régi édesvizű forrás köré épült, és Bahrein vízellátásának történetét tiszteli.",
+      hu: "Egy helyi park, amely zöldfelületet biztosít a családok számára a mindennapi kikapcsolódáshoz. A park jól felszerelt pihenőhelyekkel és játszóterekkel várja a látogatókat.",
       ro: "Un parc cu valoare istorică, construit în jurul unui vechi izvor de apă dulce, onorând istoria aprovizionării cu apă a Bahrainului.",
       en: "A historic park built around an old freshwater spring, honoring the history of Bahrain's water supply."
     },
     facts: {
       de: ["Historische Wasserquelle.", "Schattige Dattelpalmen.", "Lehrreiche Hinweisschilder."],
-      hu: ["Történelmi vízforrás.", "Árnyékos datolyapálmák.", "Oktató táblák."],
+      hu: ["Családi pihenőhely", "Zöldövezeti park", "Játszóterek"],
       ro: ["Sursă istorică de apă.", "Curmali umbroși.", "Semne informative."],
       en: ["Historic water source.", "Shady date palms.", "Educational signs."]
     }
@@ -446,13 +446,13 @@ export const poiExtraBahrainLifeV2: POI[] = [
     },
     description: {
       de: "Ein familienfreundlicher Strandabschnitt, der Spielplätze mit einem herrlichen Blick auf das Meer kombiniert.",
-      hu: "Családbarát strandrész, amely egyesíti a játszótereket a tengerre nyíló csodálatos kilátással.",
+      hu: "Karbabad tengerparti része, amely nyilvános parkként szolgál a tengeri kikapcsolódást keresőknek. Kedvelt helyszín a sétákhoz és a tengerparti szabadidős tevékenységekhez.",
       ro: "O porțiune de plajă potrivită pentru familii, care combină locurile de joacă cu o vedere magnifică la mare.",
       en: "A family-friendly stretch of beach that combines playgrounds with a magnificent view of the sea."
     },
     facts: {
       de: ["Flaches Wasser.", "Sichere Spielzonen.", "Nahe dem Bahrain Fort."],
-      hu: ["Sekély víz.", "Biztonságos játszóterek.", "A Bahreini Erőd közelében."],
+      hu: ["Nyilvános tengerpart", "Szabadidős központ", "Sétálóövezet"],
       ro: ["Apă puțin adâncă.", "Zone de joacă sigure.", "Aproape de Fortul Bahrain."],
       en: ["Shallow water.", "Safe play zones.", "Near the Bahrain Fort."]
     }
@@ -470,13 +470,13 @@ export const poiExtraBahrainLifeV2: POI[] = [
     },
     description: {
       de: "Ein großer Vergnügungspark für die Einwohner von Hamad Town mit zahlreichen Rutschen und Freizeitmöglichkeiten für Kinder.",
-      hu: "Nagy vidámpark Hamad Town lakosainak, számos csúszdával és szabadidős lehetőséggel a gyerekek számára.",
+      hu: "Hamad Town egyik központi parkja, amely közösségi találkozóhelyként szolgál a környék lakói számára. A park lehetőséget biztosít sportolásra és szabadtéri eseményekre.",
       ro: "Un parc de distracții mare pentru rezidenții din Hamad Town, cu numeroase tobogane și facilități de agrement pentru copii.",
       en: "A large amusement park for the residents of Hamad Town, featuring numerous slides and recreational facilities for children."
     },
     facts: {
       de: ["Viele Klettergerüste.", "Zentraler Treffpunkt.", "Kostenloser Eintritt."],
-      hu: ["Sok mászóka.", "Központi találkozóhely.", "Ingyenes belépés."],
+      hu: ["Közösségi találkozóhely", "Sportolási lehetőségek", "Szabadtéri események"],
       ro: ["Multe cadre de cățărat.", "Punct central de întâlnire.", "Intrare gratuită."],
       en: ["Many climbing frames.", "Central meeting point.", "Free entry."]
     }

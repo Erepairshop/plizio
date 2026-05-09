@@ -21,12 +21,8 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Premier wildlife refuge for elephants in the Sahel.", "Successful recovery story after periods of high poaching.", "Essential keystone species for savanna grassland health.", "Park is located in southeastern Chad (Salamat region).", "Supports diverse savanna fauna including lions and giraffes.", "A critical area for long-term African wildlife monitoring."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Wichtigstes Schutzgebiet für Elefanten in Zentralafrika", "Erfolgreiches Beispiel für den Schutz vor Wilderei", "Heimat massiver Elefantenherden", "Zentraler Beitrag zum Erhalt der Biodiversität", "Wichtiger Standort für nachhaltigen Tourismus", "Repräsentiert die sudanesische Savannenlandschaft"]
-    },
+    
+    
     description: {
       de: "Eines der bedeutendsten Schutzgebiete für afrikanische Elefanten in Zentralafrika, Heimat riesiger Herden.",
       hu: "Közép-Afrika egyik legfontosabb védett területe az afrikai elefántok számára, hatalmas csordák otthona.",
@@ -58,12 +54,8 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       en: ["A designated Ramsar wetland of international importance.", "Vital stopover for birds on the trans-Saharan migratory path.", "Supports huge colonies of storks, ducks, and pelicans.", "Provides seasonal nesting grounds in central Chad.", "Healthy bird population indicates a productive wetland ecosystem.", "Critical site for monitoring long-distance bird migration."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["UNESCO-Biosphärenreservat", "Essenzieller Rastplatz für tausende Zugvögel", "Vitales Feuchtgebiet in einer ariden Zone", "Lebensraum für seltene Wasservogelarten", "Ökologisches Bindeglied im Sahel", "Wichtiger Standort für ökologische Forschung"]
-    },
+    
+    
     description: {
       de: "Ein wichtiges Feuchtgebiet, das tausenden von Zugvögeln als Rastplatz und Nahrungsquelle dient.",
       hu: "Fontos vizes élőhely, amely költöző madarak ezreinek szolgál pihenőhelyül és táplálékforrásul.",
@@ -95,12 +87,8 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Home to one of the largest hippo populations in Chad.", "Hippos act as critical nutrient recyclers for river health.", "Binder-Léré is a significant biodiversity hotspot in the south.", "Supports diverse semi-aquatic species including reptiles.", "Integrated riverine habitat essential for regional wildlife.", "One of the best locations in Chad for viewing hippos."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Ideales Habitat für große Flusspferdgruppen", "Teil eines grenzüberschreitenden Schutzgebiets", "Bekannt für seltene Wildtierbeobachtungen", "Erhalt der aquatischen Ökosysteme im Südwesten", "Wichtiger Standort für die Forschung an Flusspferden", "Naturerlebnis in unberührter Flusslandschaft"]
-    },
+    
+    
     description: {
       de: "Die Seen und Flüsse der Region bieten einen idealen Lebensraum für große Gruppen von Flusspferden.",
       hu: "A régió tavai és folyói ideális élőhelyet biztosítanak nagy vízilócsoportok számára.",
@@ -132,12 +120,8 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Protects diverse savanna fauna in southern Chad.", "Acts as a transition-zone habitat for desert and tropical species.", "Home to various antelope, primate, and bird populations.", "Focuses on maintaining predator-prey balance in the savanna.", "Crucial area for researching savanna biodiversity.", "A quiet yet essential park for regional wildlife monitoring."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Schutz von Antilopen, Giraffen und Raubkatzen", "Repräsentiert die sudanesische Savannenlandschaft", "Wichtiger Korridor für den Schutz bedrohter Arten", "Erhalt der biologischen Vielfalt im Süden", "Zentrum für den Schutz vor Habitatverlust", "Bedeutender Beitrag zur Erhaltung afrikanischer Wildtiere"]
-    },
+    
+    
     description: {
       de: "Ein Schutzgebiet im Süden, das für seine Vielfalt an Antilopen, Giraffen und Raubkatzen bekannt ist.",
       hu: "Déli védett terület, amely antilopjairól, zsiráfjairól és nagymacskáiról ismert.",
@@ -169,12 +153,8 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Major faunal reserve for restoring extinct species.", "Key site for scimitar-horned oryx reintroduction.", "Located in the Sahel-Saharan transition zone.", "Largest protected area dedicated to desert-adapted fauna.", "Essential program for restoring historical ecological balance.", "Demonstrates successful international wildlife restoration."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Größtes Schutzgebiet zur Ansiedlung der Säbelantilope", "Erfolgsgeschichte der modernen Naturschutzbiologie", "Wegbereiter für den Schutz in der Sahara-Region", "Beweis für die Möglichkeit der Rückführung bedrohter Arten", "Eines der größten Schutzgebiete Afrikas", "Wissenschaftliches Vorzeigeprojekt"]
-    },
+    
+    
     description: {
       de: "Das weltweit größte Reservat zur Wiederansiedlung der Säbelantilope in ihrem natürlichen Lebensraum.",
       hu: "A világ legnagyobb rezervátuma a kardszarvú antilop természetes élőhelyére való visszatelepítésére.",
@@ -206,12 +186,8 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Biologically important savanna zone in southern Chad.", "Known for diverse bird life and small mammal populations.", "Contributes to the ecological health of the Logone river basin.", "Focus area for protecting traditional wildlife habitats.", "Site for observing wildlife in human-influenced landscapes.", "Crucial for maintaining overall regional biodiversity."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Schutzraum für seltene Primaten und Berggazellen", "Einzigartige bergige Topografie", "Forschungsgebiet für zoologische Anpassungsforschung", "Isolierte Lebensräume sichern seltene Arten", "Wichtiger Beitrag zur globalen Biodiversität", "Beispiel für den Schutz spezieller Gebirgsfauna"]
-    },
+    
+    
     description: {
       de: "Ein bergiges Reservat, das seltenen Primaten und Berggazellen einen sicheren Rückzugsort bietet.",
       hu: "Hegyi rezervátum, amely ritka főemlősöknek és hegyi gazelláknak nyújt biztonságos menedéket.",
@@ -243,12 +219,8 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Papyrus provides a crucial sanctuary for fish and amphibians.", "Floating plant islands adapt to lake water level changes.", "Essential for filtering and purifying lake water.", "Acts as a nursery habitat for young aquatic species.", "Key component of Lake Chad's resilient wetland ecosystem.", "Highlights plant adaptation to dynamic desert lakes."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Nachhaltige Nutzung von Papyrus am Tschadsee", "Grundlage für traditionelle Handwerkskunst", "Wichtiger Baustoff für Kanus", "Sichert das Einkommen der lokalen Fischer", "Einzigartige Wasser-Ökologie", "Symbol für gelebte Nachhaltigkeit"]
-    },
+    
+    
     description: {
       de: "Die sumpfigen Ufer des Sees sind ideal für den Anbau von Papyrus, der für traditionelles Handwerk genutzt wird.",
       hu: "A tó mocsaras partjai ideálisak a papirusz termesztéséhez, amelyet hagyományos kézművességhez használnak.",
@@ -280,12 +252,8 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Rice farming is the cornerstone of Logone-region agriculture.", "Relies on natural flooding from the Logone River.", "Traditional practice passed down through generations.", "Creates agricultural 'wetlands' that support local birds.", "Example of sustainable farming integrated with river cycles.", "Central to food security in southern Chadian communities."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Zentrum der tschadischen Reisproduktion", "Nutzt die natürlichen Überschwemmungszyklen des Logone", "Hauptnahrungsmittel für die Region", "Wichtiger Motor für die regionale Wirtschaft", "Innovatives Zentrum der Bewässerungslandwirtschaft", "Wichtiger Pfeiler der nationalen Ernährungssicherheit"]
-    },
+    
+    
     description: {
       de: "Das fruchtbare Schwemmland entlang des Logone-Flusses ist das Zentrum der tschadischen Reisproduktion.",
       hu: "A Logone-folyó menti termékeny ártér a csádi rizstermesztés központja.",
@@ -317,12 +285,8 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Cotton is the primary cash crop in southern Chad.", "Farming rhythm defines the seasonal life of rural villages.", "Thrives in the predictable tropical climate of the south.", "Connects southern farming to national and global markets.", "A pillar of rural economic life in Moyen-Chari.", "Demonstrates agricultural adaptation to tropical savannas."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Hauptanbaugebiet für Baumwolle im Tschad", "Das 'Weiße Gold' als zentraler Exportfaktor", "Rückgrat der wirtschaftlichen Entwicklung im Süden", "Lebensgrundlage für zahlreiche Kleinbauern", "Basis für den industriellen Aufbau der Textilbranche", "Zentraler Wirtschaftsstandort im Süden"]
-    },
+    
+    
     description: {
       de: "Baumwolle ist eines der wichtigsten Exportgüter des Tschad und wird in dieser Region intensiv angebaut.",
       hu: "A gyapot Csád egyik legfontosabb exportcikke, amelyet ebben a régióban intenzíven termesztenek.",
@@ -354,12 +318,8 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       en: ["Date palms are the lifeline for Saharan oasis communities.", "Provides shade, food, and building materials to locals.", "Thrives on groundwater found in Saharan depressions.", "Symbol of survival for travelers crossing the desert.", "Key desert-adapted plant in the Ounianga lake region.", "Most important agricultural tree in the northern Sahara."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Anbau in der extremen Sahara-Umgebung", "Datteln als wichtiges Grundnahrungsmittel", "Symbol der menschlichen Anpassungsfähigkeit", "Oasenwirtschaft als Lebensader", "Wertvolles Handelsgut für die Nomaden", "Nachhaltige Nutzung unter extremen Bedingungen"]
-    },
+    
+    
     description: {
       de: "Mitten in der Sahara ermöglichen die Seen von Ounianga den Anbau von köstlichen Datteln in grünen Oasen.",
       hu: "A Szahara közepén az Ounianga-tavak teszik lehetővé az ízletes dátumok termesztését zöld oázisokban.",
@@ -390,9 +350,7 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Größter Viehmarkt im nationalen Kontext", "Handelsplatz für nomadische Herden", "Zentrum der nationalen Fleischversorgung", "Lebendiges Zeugnis der nomadischen Tradition", "Wichtiger Ort für den nationalen Wohlstand", "Schnittpunkt von ländlicher Tierhaltung und städtischem Handel"]
-    },
+    
     description: {
       de: "Einer der größten Märkte der Region, auf dem Rinder, Schafe und Ziegen aus dem ganzen Land gehandelt werden.",
       hu: "A régió egyik legnagyobb piaca, ahol az ország minden részéből származó szarvasmarhákkal, juhokkal és kecskékkel kereskednek.",
@@ -424,9 +382,7 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Ernährungssicherung durch Erdnussanbau", "Sandige Böden optimal genutzt", "Wichtiges Staple Food und Handelsgut", "Dominanz von kleinen Familienbetrieben", "Wirtschaftliches Standbein im Mayo-Kebbi-Gebiet", "Förderung des ländlichen Zusammenhalts"]
-    },
+    
     description: {
       de: "In den sandigen Böden des Südwestens gedeihen Erdnüsse besonders gut und sind ein wichtiges Grundnahrungsmittel.",
       hu: "A délnyugati rész homokos talajában a földimogyoró különösen jól terem, és fontos alapélelmiszer.",
@@ -457,9 +413,7 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Wichtigstes Transportmittel in der Wüste", "Symbol für sozialen Status und Wohlstand", "Unabdingbar für das Überleben der Nomaden", "Bedeutendes wirtschaftliches Gut in Abéché", "Kulturell tief verwurzelt", "Erlaubt den Handel über weite Sahara-Distanzen"]
-    },
+    
     description: {
       de: "Die Region um Abéché ist bekannt für ihre stolzen Dromedarherden, die seit Jahrhunderten das Leben der Nomaden prägen.",
       hu: "Az Abéché környéki régió büszke dromedárcsordáiról ismert, amelyek évszázadok óta meghatározzák a nomádok életét.",
@@ -490,9 +444,7 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Traditionelle Techniken wie Netz- und Kanufischerei", "Lebenswichtige Versorger für die Hauptstadt", "Eng verbunden mit den Rhythmen des Flusses", "Millennia-alte kulturelle Tradition", "Wichtige Säule der lokalen Ernährung", "Zentrum handwerklicher Fertigkeiten"]
-    },
+    
     description: {
       de: "Entlang des Schari-Flusses nutzen Fischer traditionelle Netze und Kanus, um ihren Lebensunterhalt zu verdienen.",
       hu: "A Chari-folyó mentén a halászok hagyományos hálókat és kenukat használnak megélhetésük biztosítására.",
@@ -523,9 +475,7 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Sicherer Bewegungsraum in der Metropole", "Wichtiger Treffpunkt für lokale Familien", "Förderung des sozialen Miteinanders", "Beitrag zur städtischen Lebensqualität", "Spielfläche abseits des urbanen Verkehrs", "Ort für sportliche Aktivitäten junger Stadtbewohner"]
-    },
+    
     description: {
       de: "Ein beliebter Ort für Familien in der Hauptstadt mit Spielplätzen und Grünflächen zum Toben.",
       hu: "A fővárosi családok kedvelt helye játszóterekkel és zöldfelületekkel a hancúrozáshoz.",
@@ -557,9 +507,7 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Zentraler Erholungs- und Sportort in Moundou", "Speziell auf Jugendliche ausgerichtete Infrastruktur", "Stärkt das soziale Miteinander unter jungen Menschen", "Produktive Alternative zur Freizeitgestaltung", "Wichtiger Teil der sozialen Infrastruktur", "Förderung eines aktiven Lebensstils"]
-    },
+    
     description: {
       de: "Ein Park im Süden des Landes, der Sportplätze und Aktivitäten speziell für Jugendliche anbietet.",
       hu: "Az ország déli részén található park, amely sportpályákat és kifejezetten fiataloknak szóló tevékenységeket kínál.",
@@ -590,9 +538,7 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Kulturelle Bildung durch spielerische Praxis", "Erlernen von Weben und Töpfern", "Förderung junger lokaler Talente", "Sicherung der kulturellen Tradition im Süden", "Wegweisendes pädagogisches Angebot", "Vermittlung handwerklicher Fertigkeiten"]
-    },
+    
     description: {
       de: "In diesem Zentrum können Kinder traditionelle Techniken wie Weberei und Töpferei spielerisch erlernen.",
       hu: "Ebben a központban a gyerekek játékos formában tanulhatnak meg olyan hagyományos technikákat, mint a szövés és a fazekasság.",
@@ -623,9 +569,7 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Geniales Beispiel für wasserbasierte Landwirtschaft", "Wichtiges pädagogisches Labor für Ökologie", "Anbau in einer sich wandelnden Uferumgebung", "Kreative Anpassung an schwierige Bedingungen", "Ziel für lehrreiche Schulausflüge", "Beispiel für die Nutzung natürlicher Ressourcen"]
-    },
+    
     description: {
       de: "Ein faszinierendes Beispiel für Landwirtschaft auf dem Wasser, das Kindern ökologische Zusammenhänge zeigt.",
       hu: "A vízi mezőgazdaság lenyűgöző példája, amely ökológiai összefüggéseket mutat be a gyerekeknek.",
@@ -656,9 +600,7 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Tiefgehende Begegnung mit der Tubu-Kultur", "Lernen über das Leben der Nomaden in der Wüste", "Einblick in das desertische Ökosystem", "Vermittlung von Respekt für verschiedene Lebensweisen", "Erfahrung über den Umgang mit Tieren im Einklang mit der Natur", "Bildungserlebnis abseits des Klassenzimmers"]
-    },
+    
     description: {
       de: "Ein Ort, an dem Kinder das Leben der Wüstennomaden und den Umgang mit Tieren hautnah erleben können.",
       hu: "Olyan hely, ahol a gyerekek testközelből ismerhetik meg a sivatagi nomádok életét és az állatokkal való bánásmódot.",
@@ -690,9 +632,7 @@ export const poiExtraChadLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Lehrreicher Entdeckungspfad für die ganze Familie", "Vermittlung der Bedeutung von Wasser in der Wüste", "Ecologische Zusammenhänge spielerisch erfahren", "Lernort für Kinder im Schatten der Palmen", "Sensibilisierung für den Schutz natürlicher Ressourcen", "Spielerische Bildung zu Oasensystemen"]
-    },
+    
     description: {
       de: "Ein kinderfreundlicher Weg durch die Oase, der die Bedeutung von Wasser in der Wüste spielerisch erklärt.",
       hu: "Gyermekbarát útvonal az oázison keresztül, amely játékosan magyarázza el a víz jelentőségét a sivatagban.",

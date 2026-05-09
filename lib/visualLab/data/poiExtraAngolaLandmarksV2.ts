@@ -7,12 +7,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.2244, -8.8058],
     name: { de: "Festung São Miguel", hu: "São Miguel erőd", ro: "Fortăreața São Miguel", en: "Fortaleza de São Miguel" },
-    description: { de: "Die Festung São Miguel wurde 1576 von den Portugiesen erbaut und ist das älteste noch erhaltene Gebäude in Luanda. Heute beherbergt sie das Museum der Streitkräfte und bietet einen Panoramablick.", hu: "A São Miguel erődöt 1576-ban építették a portugálok, és ez Luanda legrégebbi fennmaradt épülete. Ma a Fegyveres Erők Múzeumának ad otthont, és panorámás kilátást nyújt.", ro: "Fortăreața São Miguel a fost construită de portughezi în 1576 și este cea mai veche clădire din Luanda. Astăzi găzduiește Muzeul Forțelor Armate și oferă vederi panoramice.", en: "Fortaleza de São Miguel was built by the Portuguese in 1576 and is the oldest surviving building in Luanda. Today it houses the Museum of the Armed Forces and offers panoramic views." },
+    description: { de: "Die Festung São Miguel wurde 1576 von den Portugiesen erbaut und ist das älteste noch erhaltene Gebäude in Luanda. Heute beherbergt sie das Museum der Streitkräfte und bietet einen Panoramablick.", hu: "A São Miguel erődöt 1576-ban építették a portugálok, és ez Luanda legrégebbi fennmaradt épülete. Ma a Fegyveres Erők Múzeumának ad otthont, és panorámás kilátást nyújt.", ro: "Fortăreața São Miguel a fost construită de portughezi în 1576 și este cea mai veche clădire din Luanda. Astăzi găzduiește Muzeul Forțelor Armate și oferă vederi panoramice.", en: "This historic 16th-century fortress overlooks Luanda bay and served as a military center for the Portuguese administration." },
     facts: {
       de: ["1576 erbaut.", "Ältestes Gebäude Luandas.", "Museum der Streitkräfte.", "Bietet Panoramablick."],
       hu: ["1576-ban épült.", "Luanda legrégebbi épülete.", "Fegyveres Erők Múzeuma.", "Panorámás kilátást nyújt."],
       ro: ["Construită în 1576.", "Cea mai veche clădire din Luanda.", "Muzeul Forțelor Armate.", "Oferă vederi panoramice."],
-      en: ["Built in 1576.", "Oldest building in Luanda.", "Museum of the Armed Forces.", "Offers panoramic views."]
+      en: ["Built in 1576", "Overlooks Luanda Bay", "Former administrative center", "Portuguese colonial heritage"]
     },
     descriptionAdvanced: {
       de: "Die Fortaleza de São Miguel ist das markanteste historische Wahrzeichen von Luanda und thront auf dem Berg São Miguel. Seit ihrer Gründung im Jahr 1576 war sie das steinerne Symbol der portugiesischen Präsenz in Zentralafrika. Die Festung beeindruckt durch ihre gewaltigen Mauern, die kunstvoll mit Azulejos (portugiesischen Kacheln) verzierten Innenräume und die historischen Kanonen, die noch heute auf den Hafen blicken. Heute dient sie als Militärmuseum und bietet den spektakulärsten Panoramablick über die Hauptstadt und den Atlantik. Für Besucher ist sie der ideale Ausgangspunkt, um die Geschichte Angolas von der Kolonialzeit bis zur Moderne zu verstehen. Geografie K7 — Historische Stadtstrukturen und Denkmalschutz.",
@@ -82,12 +82,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.2355, -8.8144],
     name: { de: "Palácio de Ferro", hu: "Vaspalota", ro: "Palatul de Fier", en: "Palácio de Ferro" },
-    description: { de: "Der Eisenpalast ist ein historisches Gebäude im Zentrum von Luanda, das vermutlich von Gustave Eiffel entworfen wurde. Es wurde in den 1890er Jahren in Frankreich gebaut und nach Angola verschifft.", hu: "A Vaspalota egy történelmi épület Luanda központjában, amelyet feltehetően Gustave Eiffel tervezett. Az 1890-es években épült Franciaországban, és onnan szállították Angolába.", ro: "Palatul de Fier este o clădire istorică din centrul Luandei, despre care se crede că a fost proiectată de Gustave Eiffel. A fost construit în Franța în anii 1890 și expediat în Angola.", en: "The Iron Palace is a historic building in central Luanda, believed to have been designed by Gustave Eiffel. It was built in France in the 1890s and shipped to Angola." },
+    description: { de: "Der Eisenpalast ist ein historisches Gebäude im Zentrum von Luanda, das vermutlich von Gustave Eiffel entworfen wurde. Es wurde in den 1890er Jahren in Frankreich gebaut und nach Angola verschifft.", hu: "A Vaspalota egy történelmi épület Luanda központjában, amelyet feltehetően Gustave Eiffel tervezett. Az 1890-es években épült Franciaországban, és onnan szállították Angolába.", ro: "Palatul de Fier este o clădire istorică din centrul Luandei, despre care se crede că a fost proiectată de Gustave Eiffel. A fost construit în Franța în anii 1890 și expediat în Angola.", en: "An iconic metal structure in central Luanda, often attributed to Gustave Eiffel's workshop." },
     facts: {
       de: ["Aus Eisen gebaut.", "Wahrscheinlich von Eiffel.", "1890er Jahre in Frankreich gebaut.", "In Luanda wiederaufgebaut."],
       hu: ["Vasból épült.", "Valószínűleg Eiffel tervezte.", "1890-es években épült.", "Luandában állították fel."],
       ro: ["Construit din fier.", "Probabil proiectat de Eiffel.", "Construit în anii 1890.", "Reasamblat în Luanda."],
-      en: ["Built of iron.", "Likely designed by Eiffel.", "Built in the 1890s.", "Reassembled in Luanda."]
+      en: ["Constructed in late 19th century", "Prefabricated metal design", "Located in downtown Luanda", "Restored cultural landmark"]
     },
     descriptionAdvanced: {
       de: "Der Palácio de Ferro (Eisenpalast) ist ein architektonisches Juwel in der Unterstadt von Luanda und ein faszinierendes Beispiel für die industrielle Eisenarchitektur des 19. Jahrhunderts. Es wird vermutet, dass das Gebäude in den Werkstätten von Gustave Eiffel in Frankreich entworfen wurde, bevor es durch einen Zufall per Schiff an der angolanischen Küste landete. Der Palast besticht durch seine filigranen Gusseisenstrukturen, die kunstvollen Balkone und die lichtdurchfluteten Innenräume. Nach einer umfassenden Restaurierung dient er heute als Kulturzentrum und Ausstellungsort. Der Palácio de Ferro ist ein Symbol für die kosmopolitische Geschichte Luandas und die frühen globalen Handelsverbindungen. Geschichte K8 — Architektur des 19. Jahrhunderts und Weltausstellungen.",
@@ -132,12 +132,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-BGU",
     coords: [13.4, -12.5833],
     name: { de: "Kirche Nossa Senhora do Pópulo", hu: "Nossa Senhora do Pópulo templom", ro: "Biserica Nossa Senhora do Pópulo", en: "Church of Nossa Senhora do Pópulo" },
-    description: { de: "Die historische Kirche in Benguela wurde 1748 im Barockstil erbaut. Sie ist eines der wichtigsten religiösen Denkmäler der Stadt und wurde aus lokalem Kalkstein errichtet.", hu: "A történelmi templom Benguelában 1748-ban épült barokk stílusban. A város egyik legfontosabb vallási emlékműve, és helyi mészkőből építették.", ro: "Biserica istorică din Benguela a fost construită în 1748 în stil baroc. Este unul dintre cele mai importante monumente religioase din oraș și a fost construită din calcar local.", en: "The historic church in Benguela was built in 1748 in the Baroque style. It is one of the city's most important religious monuments and was constructed from local limestone." },
+    description: { de: "Die historische Kirche in Benguela wurde 1748 im Barockstil erbaut. Sie ist eines der wichtigsten religiösen Denkmäler der Stadt und wurde aus lokalem Kalkstein errichtet.", hu: "A történelmi templom Benguelában 1748-ban épült barokk stílusban. A város egyik legfontosabb vallási emlékműve, és helyi mészkőből építették.", ro: "Biserica istorică din Benguela a fost construită în 1748 în stil baroc. Este unul dintre cele mai importante monumente religioase din oraș și a fost construită din calcar local.", en: "This 17th-century church is one of the oldest religious sites in Luanda, reflecting baroque architectural styles." },
     facts: {
       de: ["1748 erbaut.", "Barocker Baustil.", "Aus lokalem Kalkstein.", "Nationales Monument."],
       hu: ["1748-ban épült.", "Barokk építészeti stílus.", "Helyi mészkőből készült.", "Nemzeti műemlék."],
       ro: ["Construită în 1748.", "Stil arhitectural baroc.", "Din calcar local.", "Monument național."],
-      en: ["Built in 1748.", "Baroque architectural style.", "Made from local limestone.", "National monument."]
+      en: ["Founded in 1634", "Baroque architectural style", "Located in central Luanda", "Significant colonial era site"]
     },
     descriptionAdvanced: {
       de: "Die Kirche Nossa Senhora do Pópulo ist die erste anglikanische Steinkirche in Luanda und ein bedeutendes Denkmal der barocken Kolonialarchitektur. Sie wurde Ende des 16. Jahrhunderts erbaut und war über Jahrhunderte ein Zentrum des religiösen Lebens der Oberschicht in der Hauptstadt. Die Fassade besticht durch ihre schlichte Eleganz, während das Innere wertvolle Altäre und religiöse Kunstwerke beherbergt. Die Kirche überstand zahlreiche historische Umbrüche und ist heute ein geschütztes nationales Denkmal. Sie repräsentiert die Verschmelzung europäischer Sakralbaukunst mit den lokalen Gegebenheiten der afrikanischen Atlantikküste. Geschichte K8 — Sakrale Architektur und Kolonialgeschichte.",
@@ -182,12 +182,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-HL",
     coords: [13.4931, -14.9167],
     name: { de: "Kathedrale von Lubango", hu: "Lubangói Katedrális", ro: "Catedrala din Lubango", en: "Cathedral of Lubango" },
-    description: { de: "Die Kathedrale St. Josef in Lubango zeichnet sich durch ihre markante modernistische Architektur aus. Sie wurde 1939 fertiggestellt und ist das religiöse Zentrum der Stadt.", hu: "A lubangói Szent József Katedrális jellegzetes modernista építészetével tűnik ki. 1939-ben készült el, és a város vallási központja.", ro: "Catedrala Sfântul Iosif din Lubango se distinge prin arhitectura sa modernistă izbitoare. A fost finalizată în 1939 și este centrul religios al orașului.", en: "St. Joseph's Cathedral in Lubango is notable for its striking modernist architecture. Completed in 1939, it is the religious center of the city." },
+    description: { de: "Die Kathedrale St. Josef in Lubango zeichnet sich durch ihre markante modernistische Architektur aus. Sie wurde 1939 fertiggestellt und ist das religiöse Zentrum der Stadt.", hu: "A lubangói Szent József Katedrális jellegzetes modernista építészetével tűnik ki. 1939-ben készült el, és a város vallási központja.", ro: "Catedrala Sfântul Iosif din Lubango se distinge prin arhitectura sa modernistă izbitoare. A fost finalizată în 1939 și este centrul religios al orașului.", en: "A prominent cathedral serving as the seat of the Lubango diocese in southern Angola." },
     facts: {
       de: ["1939 erbaut.", "Modernistisches Design.", "Zwei markante Türme.", "Zentrum von Lubango."],
       hu: ["1939-ben épült.", "Modernista design.", "Két jellegzetes torony.", "Lubango központja."],
       ro: ["Construită în 1939.", "Design modernist.", "Două turnuri distinctive.", "Centrul orașului Lubango."],
-      en: ["Built in 1939.", "Modernist design.", "Two distinctive towers.", "Center of Lubango."]
+      en: ["Center of Lubango diocese", "Southern Angola landmark", "Religious community hub", "Modern architecture style"]
     },
     descriptionAdvanced: {
       de: "Die Kathedrale von Lubango (Sé Catedral de São José) ist ein herausragendes Beispiel für die modernistische Sakralarchitektur im Süden Angolas. Sie wurde in den 1930er Jahren erbaut und besticht durch ihre klaren geometrischen Formen und die markanten Türme, die an den Art-déco-Stil erinnern. Die Kathedrale ist das geistliche Zentrum der Provinz Huíla und ein Symbol für den kulturellen Stolz der Region. Ihr schlichter, aber lichtdurchfluteter Innenraum schafft eine Atmosphäre der Ruhe und Besinnung. Als eines der wichtigsten Gebäude von Lubango ist sie nicht nur für Gläubige, sondern auch für Liebhaber der Architekturgeschichte ein unverzichtbares Ziel. Geschichte K8 — Architekturmoderne im sakralen Kontext.",
@@ -282,12 +282,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-BGO",
     coords: [13.435, -8.7611],
     name: { de: "Monument von Kifangondo", hu: "Kifangondo emlékmű", ro: "Monumentul de la Kifangondo", en: "Monument to the Battle of Kifangondo" },
-    description: { de: "Dieses Denkmal erinnert an die historische Schlacht von Kifangondo im Jahr 1975. Es symbolisiert den angolanischen Sieg, der zur Unabhängigkeitserklärung des Landes führte.", hu: "Ez az emlékmű az 1975-ös történelmi kifangondói csatának állít emléket. Azt az angolai győzelmet szimbolizálja, amely az ország függetlenségének kikiáltásához vezetett.", ro: "Acest monument comemorează bătălia istorică de la Kifangondo din 1975. Simbolizează victoria angoleză care a dus la declararea independenței țării.", en: "This monument commemorates the historic Battle of Kifangondo in 1975. It symbolizes the Angolan victory that led to the country's declaration of independence." },
+    description: { de: "Dieses Denkmal erinnert an die historische Schlacht von Kifangondo im Jahr 1975. Es symbolisiert den angolanischen Sieg, der zur Unabhängigkeitserklärung des Landes führte.", hu: "Ez az emlékmű az 1975-ös történelmi kifangondói csatának állít emléket. Azt az angolai győzelmet szimbolizálja, amely az ország függetlenségének kikiáltásához vezetett.", ro: "Acest monument comemorează bătălia istorică de la Kifangondo din 1975. Simbolizează victoria angoleză care a dus la declararea independenței țării.", en: "A monument commemorating the battle that took place during Angola's transition to independence in 1975." },
     facts: {
       de: ["Erbaut 2004.", "Erinnert an die Schlacht von 1975.", "Nahe Luanda gelegen.", "Unabhängigkeitssymbol."],
       hu: ["2004-ben épült.", "Az 1975-ös csatára emlékeztet.", "Luanda közelében található.", "Függetlenségi szimbólum."],
       ro: ["Construit în 2004.", "Comemorează bătălia din 1975.", "Situat lângă Luanda.", "Simbol al independenței."],
-      en: ["Built in 2004.", "Commemorates 1975 battle.", "Located near Luanda.", "Symbol of independence."]
+      en: ["Commemorates 1975 battle", "Independence era site", "Located near Luanda", "Symbol of national resistance"]
     },
     descriptionAdvanced: {
       de: "Das Monument von Kifangondo, nördlich von Luanda, erinnert an eine der entscheidenden Schlachten der angolanischen Geschichte am Vorabend der Unabhängigkeit 1975. Hier stoppten die angolanischen Streitkräfte mit Unterstützung ihrer Verbündeten den Vormarsch gegnerischer Truppen auf die Hauptstadt. Das imposante Denkmal zeigt Kämpfer in heroischen Posen und symbolisiert den Sieg und die Entschlossenheit der MPLA-Bewegung. Kifangondo ist ein Ort des nationalen Stolzes und ein zentraler Punkt für die offizielle Erinnerungskultur des Landes. Die Lage des Monuments am Fluss Bengo markiert den Ort, an dem das Schicksal des modernen Angola besiegelt wurde. Geschichte K8 — Befreiungskampf und nationale Identität.",
@@ -334,12 +334,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.233, -8.814],
     name: { de: "Kirche Nossa Senhora do Carmo", hu: "Nossa Senhora do Carmo templom", ro: "Biserica Nossa Senhora do Carmo", en: "Church of Nossa Senhora do Carmo" },
-    description: { de: "Eine der ältesten Kirchen in Luanda, erbaut im 17. Jahrhundert. Ihre barocke Fassade und der gut erhaltene Innenraum machen sie zu einem wichtigen historischen Erbe.", hu: "Luanda egyik legrégebbi temploma, a 17. században épült. Barokk homlokzata és jól megőrzött belső tere fontos történelmi örökséggé teszi.", ro: "O biserică istorică din Luanda, remarcabilă prin arhitectura sa colonială bine conservată.", en: "One of the oldest churches in Luanda, built in the 17th century. Its Baroque facade and well-preserved interior make it an important historical heritage site." },
+    description: { de: "Eine der ältesten Kirchen in Luanda, erbaut im 17. Jahrhundert. Ihre barocke Fassade und der gut erhaltene Innenraum machen sie zu einem wichtigen historischen Erbe.", hu: "Luanda egyik legrégebbi temploma, a 17. században épült. Barokk homlokzata és jól megőrzött belső tere fontos történelmi örökséggé teszi.", ro: "O biserică istorică din Luanda, remarcabilă prin arhitectura sa colonială bine conservată.", en: "A historic Catholic church known for its distinctive colonial-era religious art and architecture." },
     facts: {
       de: ["17. Jahrhundert erbaut.", "Barocker Stil.", "Historisches Zentrum.", "Gut erhalten."],
       hu: ["17. században épült.", "Barokk stílus.", "Történelmi központ.", "Jól megőrzött."],
       ro: ["Arhitectură colonială", "Situată în Luanda", "Centru de cult catolic"],
-      en: ["Built in 17th century.", "Baroque style.", "Historic center.", "Well preserved."]
+      en: ["Colonial religious site", "Located in Luanda", "Catholic parish church", "Historical heritage structure"]
     },
     descriptionAdvanced: {
       de: "Die Kirche Nossa Senhora do Carmo in Luanda ist ein herausragendes Denkmal der religiösen Barockarchitektur und eines der wertvollsten Gebäude der Cidade Alta. Sie wurde im 17. Jahrhundert von den Karmelitermönchen erbaut und besticht durch ihre reich verzierte Innenausstattung, insbesondere die vergoldeten Altäre und die Deckenmalereien. Die Kirche war über Jahrhunderte ein Zentrum der Gelehrsamkeit und des Glaubens in der Kolonialhauptstadt. Trotz zahlreicher Umgestaltungen hat sie ihren sakralen Glanz bewahrt und ist heute ein geschütztes nationales Denkmal. Für Besucher bietet sie eine Oase der Ruhe und einen tiefen Einblick in die spirituelle Kunst der Vergangenheit. Geschichte K8 — Sakrale Kunst und Klosterarchitektur.",
@@ -361,12 +361,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-CAB",
     coords: [12.1969, -5.5564],
     name: { de: "Festung Santa Maria de Cabinda", hu: "Santa Maria de Cabinda erőd", ro: "Fortăreața Santa Maria de Cabinda", en: "Fort of Santa Maria of Cabinda" },
-    description: { de: "Eine Festung an der Küste von Cabinda, die während der portugiesischen Kolonialzeit zur Verteidigung des Gebiets diente. Die gut erhaltenen Mauern bieten einen weiten Blick auf den Ozean.", hu: "Egy erőd Cabinda partjainál, amely a portugál gyarmati időkben a terület védelmére szolgált. A jól megőrzött falak széles kilátást nyújtanak az óceánra.", ro: "O fortăreață pe coasta Cabindei, folosită pentru a apăra teritoriul în perioada colonială portugheză. Zidurile bine conservate oferă vederi ample asupra oceanului.", en: "A fort on the coast of Cabinda, used to defend the territory during the Portuguese colonial period. The well-preserved walls offer sweeping ocean views." },
+    description: { de: "Eine Festung an der Küste von Cabinda, die während der portugiesischen Kolonialzeit zur Verteidigung des Gebiets diente. Die gut erhaltenen Mauern bieten einen weiten Blick auf den Ozean.", hu: "Egy erőd Cabinda partjainál, amely a portugál gyarmati időkben a terület védelmére szolgált. A jól megőrzött falak széles kilátást nyújtanak az óceánra.", ro: "O fortăreață pe coasta Cabindei, folosită pentru a apăra teritoriul în perioada colonială portugheză. Zidurile bine conservate oferă vederi ample asupra oceanului.", en: "A coastal fortification in Cabinda province showcasing Angola's complex colonial defense history." },
     facts: {
       de: ["Koloniale Festung.", "Küstenverteidigung.", "In der Exklave Cabinda.", "Historische Mauern."],
       hu: ["Gyarmati erőd.", "Partvédelem.", "A Cabinda exklávéban.", "Történelmi falak."],
       ro: ["Fortăreață colonială.", "Apărare de coastă.", "În exclava Cabinda.", "Ziduri istorice."],
-      en: ["Colonial fort.", "Coastal defense.", "In Cabinda exclave.", "Historic walls."]
+      en: ["Located in Cabinda", "Coastal defense structure", "Colonial military history", "Strategic maritime position"]
     },
     descriptionAdvanced: {
       de: "Das Fort Santa Maria in Cabinda ist eine historische Küstenbefestigung, die die maritime Geschichte der Exklave repräsentiert. Es wurde im 19. Jahrhundert errichtet, um den Hafen und die Interessen der Kolonialmacht vor Angriffen anderer europäischer Nationen und lokalen Konflikten zu schützen. Die Festung liegt strategisch günstig mit Blick auf den Atlantik und diente über lange Zeit als administrativer und militärhistorischer Stützpunkt. Heute sind die Reste des Forts ein geschütztes Denkmal, das Besuchern einen Einblick in die Zeit der Entdeckungen und der frühen kolonialen Präsenz im Norden Angolas bietet. Geschichte K8 — Küstenschutz und maritime Handelsgeschichte.",
@@ -386,12 +386,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.315, -8.93],
     name: { de: "Universitäts-Campus Agostinho Neto", hu: "Agostinho Neto Egyetem Kampusza", ro: "Campusul Universității Agostinho Neto", en: "Agostinho Neto University Campus" },
-    description: { de: "Der weitläufige neue Campus der Universität südlich von Luanda ist ein Meisterwerk der modernen Architektur. Die kreisförmig angeordneten Fakultätsgebäude sind durch schattige Wandelgänge verbunden.", hu: "Az egyetem kiterjedt új kampusza Luandától délre a modern építészet remekműve. A körkörösen elrendezett kari épületeket árnyékos sétányok kötik össze.", ro: "Principalul campus universitar modern situat în apropierea Luandei, destinat educației academice superioare.", en: "The university's sprawling new campus south of Luanda is a masterpiece of modern architecture. The circularly arranged faculty buildings are connected by shaded walkways." },
+    description: { de: "Der weitläufige neue Campus der Universität südlich von Luanda ist ein Meisterwerk der modernen Architektur. Die kreisförmig angeordneten Fakultätsgebäude sind durch schattige Wandelgänge verbunden.", hu: "Az egyetem kiterjedt új kampusza Luandától délre a modern építészet remekműve. A körkörösen elrendezett kari épületeket árnyékos sétányok kötik össze.", ro: "Principalul campus universitar modern situat în apropierea Luandei, destinat educației academice superioare.", en: "The primary campus of Angola's largest public university, named after the country's first president." },
     facts: {
       de: ["2011 eingeweiht.", "Modernes Design.", "Kreisförmiges Layout.", "Größte Uni Angolas."],
       hu: ["2011-ben adták át.", "Modern design.", "Körkörös elrendezés.", "Angola legnagyobb egyeteme."],
       ro: ["Cea mai mare universitate din țară", "Campus modern", "Fondată în 1962"],
-      en: ["Inaugurated in 2011.", "Modern design.", "Circular layout.", "Largest university in Angola."]
+      en: ["Named for Agostinho Neto", "Largest public university", "Academic research center", "Modern educational hub"]
     },
     descriptionAdvanced: {
       de: "Der Campus der Universität Agostinho Neto in Camama ist das akademische Leuchtturmprojekt Angolas. Als größter Bildungskomplex des Landes bietet er modernste Einrichtungen für Lehre und Forschung und dient als Motor für die intellektuelle Souveränität der Nation. Die Architektur ist durch funktionale Eleganz und weitläufige Gemeinschaftsflächen geprägt, die den interdisziplinären Austausch fördern sollen. Der Campus beherbergt die prestigeträchtigsten Fakultäten und eine zentrale Bibliothek, die als Wissensschatzkammer Angolas fungiert. Er ist ein Symbol für die Hoffnung und die Zukunft der angolanischen Jugend im globalen Kontext der Wissenschaft und Technologie. Wirtschaft K6 — Bildung und nationale Entwicklung.",
@@ -411,12 +411,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.415, -8.845],
     name: { de: "Kirche von Sequele", hu: "Sequele temploma", ro: "Biserica din Sequele", en: "Church of Sequele" },
-    description: { de: "Ein herausragendes Beispiel für zeitgenössische Sakralarchitektur in der Neustadt Sequele bei Luanda. Die organischen Formen und die offene Struktur passen sich dem tropischen Klima an.", hu: "A kortárs szakrális építészet kiemelkedő példája a Luanda melletti Sequele újvárosban. Az organikus formák és a nyitott szerkezet alkalmazkodik a trópusi éghajlathoz.", ro: "Un exemplu remarcabil de arhitectură sacră contemporană în noul oraș Sequele, lângă Luanda. Formele organice și structura deschisă se adaptează climatului tropical.", en: "An outstanding example of contemporary sacred architecture in the new city of Sequele near Luanda. The organic forms and open structure adapt to the tropical climate." },
+    description: { de: "Ein herausragendes Beispiel für zeitgenössische Sakralarchitektur in der Neustadt Sequele bei Luanda. Die organischen Formen und die offene Struktur passen sich dem tropischen Klima an.", hu: "A kortárs szakrális építészet kiemelkedő példája a Luanda melletti Sequele újvárosban. Az organikus formák és a nyitott szerkezet alkalmazkodik a trópusi éghajlathoz.", ro: "Un exemplu remarcabil de arhitectură sacră contemporană în noul oraș Sequele, lângă Luanda. Formele organice și structura deschisă se adaptează climatului tropical.", en: "A modern religious structure serving the expanding community of the Sequele housing development." },
     facts: {
       de: ["Zeitgenössische Architektur.", "Offenes Design.", "Teil der Neustadt.", "Klimagerecht."],
       hu: ["Kortárs építészet.", "Nyitott design.", "Az újváros része.", "Klímatudatos."],
       ro: ["Arhitectură contemporană.", "Design deschis.", "Parte a noului oraș.", "Adaptată la climă."],
-      en: ["Contemporary architecture.", "Open design.", "Part of the new city.", "Climate-adapted."]
+      en: ["Serves Sequele area", "Modern construction", "Community religious site", "Recent development project"]
     },
     descriptionAdvanced: {
       de: "Die Kirche von Sequele ist das religiöse und architektonische Zentrum der neuen Stadt Sequele, einem der größten Wohnprojekte in der Nähe von Luanda. Das moderne Gebäude symbolisiert die spirituelle Begleitung der Stadtentwicklung und dient als wichtiger Treffpunkt für die neu angesiedelte Bevölkerung. Die Architektur ist geprägt von zeitgenössischen Formen und einer einladenden Gestaltung, die den Gemeinschaftssinn in der jungen Stadt fördern soll. Als Wahrzeichen der Urbanisierung von Luanda-Bengo zeigt die Kirche die Bedeutung der sozialen und religiösen Infrastruktur in modernen Satellitenstädten. Sie ist ein Ort der Begegnung und des sozialen Austauschs. Geschichte K8 — Moderne Urbanisierung und Sakralbau.",
@@ -436,12 +436,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-BGU",
     coords: [13.385, -12.605],
     name: { de: "Nationalstadion Ombaka", hu: "Ombaka Nemzeti Stadion", ro: "Stadionul Național Ombaka", en: "Estádio Nacional de Ombaka" },
-    description: { de: "Ein modernes Sportstadion in Benguela, das für den Afrika-Cup 2010 gebaut wurde. Es hat eine Kapazität von 35.000 Zuschauern und ein markantes wellenförmiges Dachdesign.", hu: "Egy modern sportstadion Benguelában, amelyet a 2010-es Afrika-kupára építettek. 35 000 fős kapacitással és jellegzetes hullám alakú tetőkialakítással rendelkezik.", ro: "Un stadion sportiv modern din Benguela, construit pentru Cupa Africii din 2010. Are o capacitate de 35.000 de spectatori și un design distinctiv al acoperișului în formă de valuri.", en: "A modern sports stadium in Benguela built for the 2010 Africa Cup. It has a capacity of 35,000 spectators and a distinctive wave-shaped roof design." },
+    description: { de: "Ein modernes Sportstadion in Benguela, das für den Afrika-Cup 2010 gebaut wurde. Es hat eine Kapazität von 35.000 Zuschauern und ein markantes wellenförmiges Dachdesign.", hu: "Egy modern sportstadion Benguelában, amelyet a 2010-es Afrika-kupára építettek. 35 000 fős kapacitással és jellegzetes hullám alakú tetőkialakítással rendelkezik.", ro: "Un stadion sportiv modern din Benguela, construit pentru Cupa Africii din 2010. Are o capacitate de 35.000 de spectatori și un design distinctiv al acoperișului în formă de valuri.", en: "A major multipurpose stadium in Benguela, used for significant national and international sporting events." },
     facts: {
       de: ["Eröffnet 2010.", "35.000 Plätze.", "Wellenförmiges Dach.", "In Benguela gelegen."],
       hu: ["2010-ben nyílt meg.", "35 000 férőhely.", "Hullám alakú tető.", "Benguelában található."],
       ro: ["Deschis în 2010.", "35.000 de locuri.", "Acoperiș ondulat.", "Situat în Benguela."],
-      en: ["Opened in 2010.", "35,000 seats.", "Wave-shaped roof.", "Located in Benguela."]
+      en: ["Located in Benguela", "Multipurpose venue", "Host of 2010 AFCON matches", "Modern sports capacity"]
     },
     descriptionAdvanced: {
       de: "Das Nationalstadion Ombaka in Benguela ist eine der modernsten Sportstätten Angolas und wurde für den Afrika-Cup 2010 errichtet. Es liegt am Rande der Stadt Benguela und besticht durch seine wellenförmige Architektur, die an die Dünen der Region erinnert. Mit einer Kapazität von 35.000 Zuschauern bietet es eine erstklassige Bühne für nationale und internationale Fußballspiele. Das Stadion hat die Provinz Benguela zu einem wichtigen Zentrum für Sporttourismus gemacht und dient als Heimspielstätte für lokale Spitzenklubs. Ombaka ist ein Symbol für die Dezentralisierung großer Infrastrukturprojekte und den sportlichen Enthusiasmus der Menschen in Südangola. Wirtschaft K6 — Sportökonomie und regionale Zentren.",
@@ -461,12 +461,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-HL",
     coords: [13.5281, -14.9381],
     name: { de: "Nationalstadion Tundavala", hu: "Tundavala Nemzeti Stadion", ro: "Stadionul Național Tundavala", en: "Estádio Nacional da Tundavala" },
-    description: { de: "Gelegen in Lubango, ist dieses 20.000-Plätze-Stadion für seine einzigartige architektonische Integration in die umgebende Berglandschaft bekannt.", hu: "A Lubangóban található 20 000 férőhelyes stadion egyedülálló építészeti integrációjáról ismert a környező hegyvidéki tájba.", ro: "Un stadion polivalent situat în Lubango, utilizat pentru evenimente sportive și culturale majore.", en: "Located in Lubango, this 20,000-seat stadium is known for its unique architectural integration into the surrounding mountainous landscape." },
+    description: { de: "Gelegen in Lubango, ist dieses 20.000-Plätze-Stadion für seine einzigartige architektonische Integration in die umgebende Berglandschaft bekannt.", hu: "A Lubangóban található 20 000 férőhelyes stadion egyedülálló építészeti integrációjáról ismert a környező hegyvidéki tájba.", ro: "Un stadion polivalent situat în Lubango, utilizat pentru evenimente sportive și culturale majore.", en: "A modern stadium facility in Lubango, named after the nearby famous Tundavala escarpment." },
     facts: {
       de: ["20.000 Plätze.", "Gebaut für Afrika-Cup.", "Nahe den Tundavala-Spalten.", "Modernes Design."],
       hu: ["20 000 férőhely.", "Az Afrika-kupára épült.", "A Tundavala-hasadék közelében.", "Modern design."],
       ro: ["Capacitate de 20.000 locuri", "Situat în Lubango", "Inaugurat în 2010"],
-      en: ["20,000 seats.", "Built for Africa Cup.", "Near Tundavala gap.", "Modern design."]
+      en: ["Located in Lubango", "Regional sports hub", "Modern infrastructure", "Named after natural site"]
     },
     descriptionAdvanced: {
       de: "Das Nationalstadion Tundavala in Lubango ist eine der modernsten Sportarenen im Süden Angolas und wurde für den Afrika-Cup 2010 errichtet. Es liegt in einer malerischen Umgebung am Fuße der Serra da Chela und bietet Platz für über 20.000 Zuschauer. Die Architektur des Stadions ist modern und funktional und fügt sich harmonisch in die Gebirgslandschaft ein. Es dient als Heimspielstätte für die Spitzenvereine der Provinz Huíla und ist ein Zentrum für große Sport- und Kulturveranstaltungen im Süden des Landes. Tundavala symbolisiert den sportlichen Aufstieg und den Stolz der Bevölkerung von Lubango. Wirtschaft K6 — Sportinfrastruktur und regionale Zentren.",
@@ -540,12 +540,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.229, -8.816],
     name: { de: "Gebäude der Nationalversammlung", hu: "Nemzetgyűlés Épülete", ro: "Clădirea Adunării Naționale", en: "National Assembly Building" },
-    description: { de: "Der beeindruckende neue Parlamentskomplex in Luanda wurde 2015 eingeweiht. Er dominiert die Skyline mit seiner imposanten Kuppel und monumentalen Architektur.", hu: "A lenyűgöző új parlamenti komplexumot Luandában 2015-ben adták át. Impozáns kupolájával és monumentális építészetével uralja a látképet.", ro: "Sediul legislativ al Angolei, locul unde se iau deciziile politice fundamentale ale statului.", en: "The impressive new parliament complex in Luanda was inaugurated in 2015. It dominates the skyline with its imposing dome and monumental architecture." },
+    description: { de: "Der beeindruckende neue Parlamentskomplex in Luanda wurde 2015 eingeweiht. Er dominiert die Skyline mit seiner imposanten Kuppel und monumentalen Architektur.", hu: "A lenyűgöző új parlamenti komplexumot Luandában 2015-ben adták át. Impozáns kupolájával és monumentális építészetével uralja a látképet.", ro: "Sediul legislativ al Angolei, locul unde se iau deciziile politice fundamentale ale statului.", en: "The legislative building in Luanda where the Angolan National Assembly conducts its parliamentary work." },
     facts: {
       de: ["2015 eingeweiht.", "Monumentales Design.", "Große Kuppel.", "Sitz des Parlaments."],
       hu: ["2015-ben adták át.", "Monumentális design.", "Nagy kupola.", "A parlament székhelye."],
       ro: ["Situat în Luanda", "Arhitectură impunătoare", "Centrul democrației angoleze"],
-      en: ["Inaugurated in 2015.", "Monumental design.", "Large dome.", "Seat of parliament."]
+      en: ["Legislative center", "Located in Luanda", "Political decision hub", "Contemporary building design"]
     },
     descriptionAdvanced: {
       de: "Das Gebäude der Nationalversammlung (Assembleia Nacional) in Luanda ist eines der beeindruckendsten modernen Bauwerke Angolas und das Herz der Gesetzgebung des Landes. Es liegt im Regierungsviertel Cidade Alta und besticht durch seine monumentale Architektur mit einer riesigen goldenen Kuppel, die weithin sichtbar ist. Das Bauwerk wurde nach dem Ende des Bürgerkriegs errichtet und symbolisiert die neue Ära der Demokratie und den institutionellen Wiederaufbau des Landes. Mit seinen prunkvollen Sälen und modernster Kommunikationstechnik bietet es Platz für hunderte Abgeordnete und dient als Ort für historische Debatten und Staatsakte. Es ist ein Wahrzeichen des modernen angolanischen Staates. Geschichte K8 — Staatsgründung und parlamentarische Institutionen.",
@@ -615,12 +615,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-CNO",
     coords: [13.9167, -11.3167],
     name: { de: "Fort Kikombo", hu: "Kikombo erőd", ro: "Fortul Kikombo", en: "Fortim do Kikombo" },
-    description: { de: "Ein kleines portugiesisches Küstenfort im Nationalen Denkmalregister Angolas. Es wurde im 17. Jahrhundert zur Abwehr von holländischen Angriffen und zum Schutz des Sklavenhandels errichtet.", hu: "Egy kis portugál parti erőd Angola nemzeti műemlékjegyzékében. A 17. században épült a holland támadások kivédésére és a rabszolgakereskedelem védelmére.", ro: "Un mic fort de coastă portughez aflat în registrul monumentelor naționale din Angola. A fost construit în secolul al XVII-lea pentru a respinge atacurile olandeze.", en: "A small Portuguese coastal fort in Angola's National Register of Monuments. It was built in the 17th century to repel Dutch attacks and protect the slave trade." },
+    description: { de: "Ein kleines portugiesisches Küstenfort im Nationalen Denkmalregister Angolas. Es wurde im 17. Jahrhundert zur Abwehr von holländischen Angriffen und zum Schutz des Sklavenhandels errichtet.", hu: "Egy kis portugál parti erőd Angola nemzeti műemlékjegyzékében. A 17. században épült a holland támadások kivédésére és a rabszolgakereskedelem védelmére.", ro: "Un mic fort de coastă portughez aflat în registrul monumentelor naționale din Angola. A fost construit în secolul al XVII-lea pentru a respinge atacurile olandeze.", en: "A small defensive fort providing historical insight into the regional colonial infrastructure." },
     facts: {
       de: ["17. Jahrhundert erbaut.", "Küstenfestung.", "Nationales Denkmal.", "UNESCO Tentativliste."],
       hu: ["17. században épült.", "Parti erőd.", "Nemzeti műemlék.", "UNESCO várományos."],
       ro: ["Construit în secolul XVII.", "Fortăreață de coastă.", "Monument național.", "Lista tentativă UNESCO."],
-      en: ["Built in 17th century.", "Coastal fort.", "National monument.", "UNESCO Tentative List."]
+      en: ["Defensive fort structure", "Regional historical site", "Colonial era remnant", "Coastal military geography"]
     },
     descriptionAdvanced: {
       de: "Das Fort von Kikombo in der Provinz Cuanza Sul ist eine charmante historische Festung, die direkt an einer malerischen Meeresbucht liegt. Es wurde im 17. Jahrhundert erbaut, um die Wasserstellen für vorbeifahrende Schiffe zu schützen und als kleiner Handelsposten zu dienen. Das Fort spielte eine entscheidende Rolle als Sammelpunkt für die Flotten, die Luanda von den Niederländern zurückeroberten. Mit seinen quadratischen Grundrissen und den gut erhaltenen Mauern ist es ein hervorragendes Beispiel für die kleinere Kolonialarchitektur an der Küste. Kikombo ist heute ein beliebtes Ziel für historisch interessierte Reisende, die die Kombination aus Geschichte und idyllischer Strandlandschaft suchen. Geschichte K8 — Maritime Militärstützpunkte und regionale Handelsgeschichte.",
@@ -690,12 +690,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-NAM",
     coords: [12.15, -15.1961],
     name: { de: "Kathedrale St. Petrus", hu: "Szent Péter Katedrális", ro: "Catedrala Sfântul Petru", en: "St. Peter's Cathedral" },
-    description: { de: "Die Hauptkirche der Küstenstadt Namibe beeindruckt durch ihre klare Architektur und farbenfrohe Fassade. Sie dient als Zentrum für die katholische Gemeinde der Wüstenregion.", hu: "A tengerparti Namibe város főtemploma letisztult építészetével és színes homlokzatával nyűgöz le. A sivatagi régió katolikus közösségének központjaként szolgál.", ro: "Biserica principală a orașului de coastă Namibe impresionează prin arhitectura sa clară și fațada colorată. Servește drept centru pentru comunitatea catolică a regiunii.", en: "The main church of the coastal town of Namibe impresses with its clear architecture and colorful facade. It serves as a center for the Catholic community of the desert region." },
+    description: { de: "Die Hauptkirche der Küstenstadt Namibe beeindruckt durch ihre klare Architektur und farbenfrohe Fassade. Sie dient als Zentrum für die katholische Gemeinde der Wüstenregion.", hu: "A tengerparti Namibe város főtemploma letisztult építészetével és színes homlokzatával nyűgöz le. A sivatagi régió katolikus közösségének központjaként szolgál.", ro: "Biserica principală a orașului de coastă Namibe impresionează prin arhitectura sa clară și fațada colorată. Servește drept centru pentru comunitatea catolică a regiunii.", en: "The main cathedral serving the Catholic population of the Namibe coastal region." },
     facts: {
       de: ["Katholische Kathedrale.", "In Namibe (Moçâmedes).", "Koloniales Erbe.", "Auffällige Architektur."],
       hu: ["Katolikus katedrális.", "Namibe városában.", "Gyarmati örökség.", "Feltűnő építészet."],
       ro: ["Catedrală catolică.", "În orașul Namibe.", "Moștenire colonială.", "Arhitectură impresionantă."],
-      en: ["Catholic cathedral.", "In Namibe.", "Colonial heritage.", "Striking architecture."]
+      en: ["Located in Namibe", "Catholic cathedral site", "Coastal regional landmark", "Religious architectural site"]
     },
     descriptionAdvanced: {
       de: "Die Kathedrale von Namibe (Sé Catedral de Nossa Senhora de Fátima) ist ein markantes religiöses Bauwerk in der Küstenstadt Moçâmedes. Sie zeichnet sich durch ihre moderne, luftige Architektur aus, die ideal an das heiße Wüstenklima angepasst ist. Die Kathedrale ist das geistliche Zentrum der Provinz Namibe und ein Symbol für den katholischen Glauben an der südlichen Atlantikküste. Das Gebäude mit seinen klaren Linien und der strahlend weißen Fassade ist ein wichtiger Orientierungspunkt in der Stadtplanung von Namibe. Im Inneren bietet sie eine kühle und ruhige Atmosphäre für Gebet und Besinnung. Sie dokumentiert die moderne religiöse Entwicklung im unabhängigen Angola. Geschichte K8 — Zeitgenössische Sakralarchitektur an der Küste.",
@@ -740,12 +740,12 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.25, -8.8],
     name: { de: "Festung São Francisco do Penedo", hu: "São Francisco do Penedo erőd", ro: "Fortăreața São Francisco do Penedo", en: "Fortress of São Francisco do Penedo" },
-    description: { de: "Diese Festung aus dem 18. Jahrhundert in Luanda spielte eine wichtige Rolle im Sklavenhandel. Später wurde sie als Gefängnis für politische Gefangene während des Unabhängigkeitskampfes genutzt.", hu: "Ez a 18. századi luandai erőd fontos szerepet játszott a rabszolgakereskedelemben. Később a függetlenségi harc során politikai foglyok börtöneként használták.", ro: "Această fortăreață din secolul al XVIII-lea din Luanda a jucat un rol important în comerțul cu sclavi. Mai târziu a fost folosită ca închisoare pentru deținuții politici.", en: "This 18th-century fortress in Luanda played an important role in the slave trade. It was later used as a prison for political prisoners during the independence struggle." },
+    description: { de: "Diese Festung aus dem 18. Jahrhundert in Luanda spielte eine wichtige Rolle im Sklavenhandel. Später wurde sie als Gefängnis für politische Gefangene während des Unabhängigkeitskampfes genutzt.", hu: "Ez a 18. századi luandai erőd fontos szerepet játszott a rabszolgakereskedelemben. Később a függetlenségi harc során politikai foglyok börtöneként használták.", ro: "Această fortăreață din secolul al XVIII-lea din Luanda a jucat un rol important în comerțul cu sclavi. Mai târziu a fost folosită ca închisoare pentru deținuții politici.", en: "A historic fortress in Luanda with long-standing significance to the city's maritime security." },
     facts: {
       de: ["Im 18. Jh. erbaut.", "Ehemaliges Gefängnis.", "In Luanda gelegen.", "Historisches Denkmal."],
       hu: ["18. században épült.", "Egykori börtön.", "Luandában található.", "Történelmi emlékmű."],
       ro: ["Construită în sec. XVIII.", "Fostă închisoare.", "Situată în Luanda.", "Monument istoric."],
-      en: ["Built in 18th century.", "Former prison.", "Located in Luanda.", "Historical monument."]
+      en: ["Maritime security site", "Luanda coastal landmark", "Colonial period defense", "Historical fortress design"]
     },
     descriptionAdvanced: {
       de: "Die Fortaleza de São Francisco do Penedo ist eine majestätische Festung am Rande des Hafens von Luanda, die auf eine lange und wechselvolle Geschichte zurückblickt. Ursprünglich auf einem Felsen im Meer errichtet, war sie ein zentraler Bestandteil des Verteidigungssystems der Hauptstadt. Die Festung besticht durch ihre massive Bauweise und die strategische Lage, die über Jahrhunderte den Zugang zum Landesinneren kontrollierte. In der neueren Geschichte wurde sie als Ort der Unterdrückung politischer Gegner bekannt, was sie heute zu einem Symbol des Triumphs über die Unfreiheit macht. Der Penedo ist ein unverzichtbares Denkmal für das Verständnis der militärischen und sozialen Dynamik des kolonialen Luanda. Geschichte K8 — Kolonialarchitektur und nationale Befreiung.",

@@ -1,4 +1,4 @@
-// @ts-nocheck
+﻿// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBeninEconomicV2: POI[] = [
@@ -108,13 +108,13 @@ export const poiExtraBeninEconomicV2: POI[] = [
     },
     description: {
       de: "Die führende Brauerei Benins, die eine Vielzahl von Bieren und Erfrischungsgetränken für den gesamten westafrikanischen Markt produziert.",
-      hu: "Benin vezető sörgyára, amely számos sört és üdítőitalt gyárt a teljes nyugat-afrikai piac számára.",
+      hu: "A legnagyobb sÃ¶rgyÃ¡r Beninben, amely 1960-ban nyitotta meg kapuit Cotonouban. Fontos szerepet tÃ¶lt be a helyi gazdasÃ¡gban Ã©s a munkahelyteremtÃ©sben.",
       ro: "Cea mai importantă berărie din Benin, care produce o varietate de beri și băuturi răcoritoare pentru întreaga piață vest-africană.",
       en: "Benin's leading brewery, producing a variety of beers and soft drinks for the entire West African market."
     },
     facts: {
       de: ["Bekannte Marke 'La Béninoise'.", "Große Produktionskapazität.", "Industrielles Wahrzeichen."],
-      hu: ["Ismert 'La Béninoise' márka.", "Nagy termelési kapacitás.", "Ipari jelkép."],
+      hu: ["AlapÃ­tva: 1960", "HelyszÃ­n: Cotonou", "IparÃ¡g: ItalgyÃ¡rtÃ¡s", "Benin vezetÅ‘ sÃ¶ripari vÃ¡llalata"],
       ro: ["Marcă cunoscută 'La Béninoise'.", "Capacitate mare de producție.", "Simbol industrial."],
       en: ["Well-known brand 'La Béninoise'.", "Large production capacity.", "Industrial landmark."]
     }, image: "/poi-images/sobebra-brauerei-cotonou-economic-v2.webp"},
@@ -235,6 +235,13 @@ export const poiExtraBeninEconomicV2: POI[] = [
     }, image: "/poi-images/marmorbruch-idadjo-economic-v2.webp"},
   {
     id: "palmoelraffinerie-agonvy-economic-v2",
+    description: "This facility is a key center for palm oil processing in the Agonvy region. It plays a vital role in local agricultural industrialization.",
+    facts: [
+      "Located in Agonvy",
+      "Processes local palm oil",
+      "Supports rural employment",
+      "Key agricultural industry"
+],
     type: "industry",
     parent: "BJ-OU",
     coords: [2.52, 6.75],
@@ -269,13 +276,13 @@ export const poiExtraBeninEconomicV2: POI[] = [
     },
     description: {
       de: "Das Zentrum der beninischen Fischwirtschaft, an dem täglich Hunderte von Pirogen und Trawlern ihren Fang anlanden.",
-      hu: "A benini halászat központja, ahol naponta több száz piroga és vonóhálós hajó rakodik ki.",
+      hu: "Cotonou fÅ‘ halÃ¡szati kikÃ¶tÅ‘je, amely elengedhetetlen a helyi lakossÃ¡g Ã©lelmezÃ©sÃ©hez Ã©s a gazdasÃ¡gi kereskedelemhez. Naponta halÃ¡szflottÃ¡k szÃ¡zai Ã©rkeznek ide.",
       ro: "Centrul industriei de pescuit din Benin, unde sute de pirogi și traulere își descarcă zilnic captura.",
       en: "The center of Benin's fishing industry, where hundreds of pirogues and trawlers land their catch daily."
     },
     facts: {
       de: ["Großer Fischmarkt.", "Traditionelle Fangmethoden.", "Wichtig für die Ernährung."],
-      hu: ["Nagy halpiac.", "Hagyományos fogási módszerek.", "Fontos az élelmezés szempontjából."],
+      hu: ["TÃ­pus: HalÃ¡szati kikÃ¶tÅ‘", "HelyszÃ­n: Cotonou", "GazdasÃ¡gi szerep: Ã‰lelmiszerellÃ¡tÃ¡s", "Napi forgalom: Magas"],
       ro: ["Piață mare de pește.", "Metode tradiționale de pescuit.", "Important pentru nutriție."],
       en: ["Large fish market.", "Traditional fishing methods.", "Important for nutrition."]
     }, image: "/poi-images/fischereihafen-cotonou-economic-v2.webp"},

@@ -22,9 +22,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A Juche Torony 170 méter magasságával a világ egyik legmagasabb kőobeliszkje.", "1982-ben adták át, napra pontosan Kim Ir Szen születésnapján.", "A torony testét pontosan 25 550 gránitkocka alkotja.", "Az emlékmű tetején lévő fém lángkorona súlya eléri a 20 tonnát.", "A lángkoronát sötétedés után élénkpiros fénnyel világítják meg belülről.", "Az alapzatot nemzetközi Juche-tanulmányozó körök által küldött kőtáblák borítják."],
       en: ["Iconic 170-meter-tall granite spire on the Taedong River.", "Constructed in 1982 to celebrate Kim Il-sung's 70th birthday.", "Physical embodiment of the state ideology of 'Juche' (self-reliance).", "Capped with a massive, illuminated metal torch weighing 45 tons.", "Base features a 30-meter bronze statue of a worker, peasant, and intellectual.", "Contains exactly 25,550 granite blocks, representing days of Kim Il-sung's life.", "Offers a public observation deck providing panoramic views of Pyongyang."]
     },
-    factsAdvanced: {
-      de: ["Der Turm besitzt eine Aussichtsplattform auf 150 Metern Höhe.", "Die rote Fackel ist von innen stark beleuchtet, auch bei Stromausfällen.", "Am Sockel gibt es eine Mauer mit über 250 steinernen Gedenktafeln aus dem Ausland.", "Der Aufzug bringt Touristen und Würdenträger zur Turmspitze.", "Der Turm steht exakt auf einer Achse mit dem Kim-Il-sung-Platz über den Fluss.", "Er wurde in Rekordzeit in weniger als einem Jahr gebaut (1982)."]
-    }
+    
   },
     description: {
       de: "Ein Monument in Pjöngjang, das die Juche-Ideologie symbolisiert. Es ist 170 Meter hoch und bietet einen Panoramablick über die Stadt.",
@@ -58,9 +56,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["60 méteres magasságával a világ legmagasabb diadalíve.", "1982-ben, az észak-koreai államalapító 70. születésnapjára készült el.", "Az emlékmű 25 500 fehér gránitblokkból épült fel.", "Az ív oszlopain a japánellenes partizánharcokat ábrázoló domborművek láthatók.", "A rajta lévő évszámok (1925 és 1945) az ellenállás kezdetét és a felszabadulást jelzik.", "A diadalív tetején lévő tágas termeket és kilátót lifttel lehet megközelíteni."],
       en: ["Colossal granite monument standing 60 meters high.", "Built to commemorate the Korean resistance against Japanese rule.", "Unveiled in 1982 to celebrate Kim Il-sung's 70th birthday.", "Constructed with exactly 25,550 blocks of white granite.", "Deliberately designed to be taller than the Arc de Triomphe in Paris.", "Features intricate bronze reliefs of revolutionary soldiers and citizens.", "Located at the foot of Moran Hill in Pyongyang."]
     },
-    factsAdvanced: {
-      de: ["Der Bogen hat eine Höhe von 60 Metern und eine Breite von 50 Metern.", "Er hat vier massive Gewölbedurchgänge für den Verkehr.", "Die Jahreszahl 1925 markiert den angeblichen Beginn von Kim Il-sungs Widerstand.", "Die Jahreszahl 1945 steht für die Befreiung Koreas von Japan.", "Im Bogen befinden sich Beobachtungsräume und Aufzüge.", "Das Bauwerk wurde im klassischen koreanischen Stil mit modernen Proportionen verziert."]
-    }
+    
   },
     description: {
       de: "Nach dem Vorbild des Arc de Triomphe in Paris erbaut, um der koreanischen Widerstandsbewegung gegen Japan von 1925 bis 1945 zu gedenken.",
@@ -94,9 +90,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["Az épület eredetileg 1976-tól Kim Ir Szen hivatali és lakóhelye volt.", "1994 után több tízmillió dollárból építették át gigantikus mauzóleummá.", "Itt nyugszik Kim Ir Szen és Kim Dzsongil bebalzsamozott teste.", "Az épület Észak-Korea hivatalosan legszentebb területe.", "A termekben a vezetők által használt vonatokat és hajókat is kiállították.", "A látogatóknak szigorú biztonsági és öltözködési protokollokon kell átesniük."],
       en: ["Final resting place of North Korean leaders Kim Il-sung and Kim Jong-il.", "Originally built in 1976 as the official presidential residence.", "Converted into a sprawling mausoleum following Kim Il-sung's death in 1994.", "Features incredibly grandiose interiors with endless marble and chandeliers.", "Houses the embalmed bodies of the leaders in clear glass sarcophagi.", "Displays personal artifacts including the leaders' train cars and a luxury yacht.", "Requires a strict dress code and formal bowing protocols from all visitors."]
     },
-    factsAdvanced: {
-      de: ["Der Platz vor dem Palast fasst Zehntausende von Menschen.", "Das Innere ist fast vollständig mit Marmor und Granit verkleidet.", "Der Palast ist an der Außenfassade nachts tiefrot angestrahlt.", "Besucher erreichen das Hauptgebäude über lange überdachte Laufbänder.", "Das Gelände ist von einem Burggraben-ähnlichen Flusslauf umgeben.", "Fotografieren ist auf dem riesigen Vorplatz nur aus großer Entfernung gestattet."]
-    }
+    
   },
     description: {
       de: "Dient als Mausoleum für Kim Il-sung und Kim Jong-il, die ehemaligen Führer Nordkoreas.",
@@ -130,9 +124,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A Manszude emlékmű központjában álló bronzszobrok 22 méter magasak.", "Kim Ir Szen szobrát 1972-ben, Kim Dzsongilét 2012-ben állították fel.", "A szobrok két oldalán lévő monumentális csoportokban 228 emberalak található.", "A szobrok mögötti épület (Koreai Forradalmi Múzeum) falán egy 70 méteres mozaik látható.", "A helyiek esküvőjük napján is ide zarándokolnak virágot elhelyezni.", "A külföldi turistáknak kötelező a tiszteletteljes meghajlás a szobrok előtt."],
       en: ["The most sacred monumental site in North Korea, located on Mansu Hill.", "Features two 22-meter-tall bronze statues of Kim Il-sung and Kim Jong-il.", "Flanked by 228 massive bronze figures depicting revolutionary struggles.", "Visiting requires formal protocols including presenting flowers and bowing.", "Originally featured only Kim Il-sung; Kim Jong-il was added after his death.", "The statues are brightly illuminated at night regardless of power shortages.", "Photography is strictly regulated to capture the statues in their entirety."]
     },
-    factsAdvanced: {
-      de: ["Die Bronzestatuen der beiden Führer sind 22 Meter hoch.", "Die Statue von Kim Jong-il wurde 2012 nachträglich hinzugefügt.", "Flankierend stehen zwei Monumente mit insgesamt 228 Bronzefiguren.", "Hinter den Statuen befindet sich das Koreanische Revolutionsmuseum.", "Die Statuen blicken genau nach Osten in Richtung des Sonnenaufgangs.", "Kim Il-sung trug anfangs einen Mao-Anzug, was später in einen Anzug geändert wurde."]
-    }
+    
   },
     description: {
       de: "Ein Komplex von Monumenten in Pjöngjang, dessen zentraler Teil zwei 22 Meter hohe Bronzestatuen von Kim Il-sung und Kim Jong-il sind.",
@@ -166,9 +158,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A TV torony 150 méter magas, 1967-ben állították üzembe.", "Tervezésében és építésében a szovjet mérnökök nyújtottak segítséget.", "Kialakítása a híres moszkvai Osztankinó-toronyra emlékeztet.", "Ez az építmény sugározza a Koreai Központi Televízió (KCTV) adásait Phenjanban.", "Felső részén egy kör alakú, panorámás (bár gyakran zárva tartó) rész található.", "A torony környéke, a Moranbong park a phenjaniak kedvelt piknikező helye."],
       en: ["A 150-meter-tall broadcasting tower located in Kaeson Park, Pyongyang.", "Built in 1967 with a design influenced by Moscow's Ostankino Tower.", "Primary transmission hub for state-controlled television broadcasting.", "Features a circular observation deck and a panoramic restaurant.", "Access to the tower's interior is highly restricted for tourists.", "Surrounded by the scenic greenery of Kaeson Park.", "A prominent fixture on the northern skyline of the capital."]
     },
-    factsAdvanced: {
-      de: ["Der Fernsehturm wurde 1967 in Betrieb genommen.", "Er hat eine Gesamthöhe von 150 Metern.", "Das Design ähnelt stark sowjetischen und ostdeutschen Fernsehtürmen.", "Er befindet sich im Kaeson-Park unweit des Triumphbogens.", "Der Turm sendet die Signale für das staatliche Koreanische Zentralfernsehen.", "Die kreisrunde Plattform besitzt ein Restaurant mit Panoramablick."]
-    }
+    
   },
     description: {
       de: "Ein 150 Meter hoher freistehender Betonturm mit einem Beobachtungsdeck und einem Panoramarestaurant.",
@@ -202,9 +192,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["Az emlékmű 1995-ben épült a Koreai Munkapárt 50. születésnapjára.", "A három kéz által tartott eszközök: kalapács (munkás), sarló (paraszt), ecset (értelmiségi).", "A gránit kezek és a tartó oszlopok magassága pontosan 50 méter.", "A műemléket körbevevő gyűrű belső átmérője szintén 50 méter.", "A gyűrű belsejében a párt dicsőséges történelmét ábrázoló domborművek vannak.", "A mögötte lévő lakóházak úgy vannak megtervezve, hogy két lengő vörös zászlót formázzanak."],
       en: ["Unveiled in 1995 to mark the 50th anniversary of the Workers' Party of Korea.", "Features three colossal, 50-meter-tall granite hands.", "Depicts hands holding a hammer, a sickle, and a traditional writing brush.", "Symbolizes the unity of workers, peasants, and intellectuals.", "Encircled by a massive stone ring bearing a revolutionary inscription.", "Located in Pyongyang, designed on an axis with other major monuments.", "A prime example of grandiose socialist monumental architecture."]
     },
-    factsAdvanced: {
-      de: ["Das Monument steht am Rande der Straße der Wiedervereinigung in Pjöngjang.", "Die drei Granitsäulen messen jeweils 50 Meter.", "Der umschließende Ring hat einen Durchmesser von 50 Metern.", "Die Granitkonstruktion symbolisiert die Stabilität der Regierungspartei.", "Hammer, Sichel und Pinsel wiegen Tausende von Tonnen.", "Es wurde am 10. Oktober 1995 der Öffentlichkeit übergeben."]
-    }
+    
   },
     description: {
       de: "Ein Denkmal in Pjöngjang, das die Arbeiterpartei Koreas verherrlicht. Es zeigt einen Hammer, eine Sichel und einen Pinsel.",
@@ -238,9 +226,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A USS Pueblo az egyetlen aktív amerikai hadihajó, amely idegen állam fogságában van.", "1968. január 23-án foglalták le az észak-koreai hadihajók a Japán-tengeren.", "Az incidens majdnem egy második koreai háború kirobbanásához vezetett.", "A hajó belső terei nagyrészt megmaradtak az 1968-as, elfogáskori állapotukban.", "2012 végén a hajót titokban a Taedong folyóra, a phenjani múzeumhoz vontatták.", "A fedélzeten a helyi idegenvezetők rendszeresen bemutatják a hajó fegyverzetét."],
       en: ["American naval intelligence-gathering vessel captured in January 1968.", "The only commissioned U.S. Navy ship currently held captive by a foreign power.", "82 American crew members were held captive for 11 months following the attack.", "Currently moored along the Taedong River in Pyongyang.", "Serves as a major anti-American propaganda museum and tourist attraction.", "Displays alleged espionage equipment and original bullet holes from the attack.", "A constant symbol of the Cold War tensions on the Korean Peninsula."]
     },
-    factsAdvanced: {
-      de: ["Die USS Pueblo wurde am 23. Januar 1968 von Nordkorea gekapert.", "Sie liegt heute als Museumsschiff in Pjöngjang am Flussufer.", "Besucher können die Einschusslöcher vom Überfall besichtigen.", "Es ist das einzige von einer fremden Macht festgehaltene US-Marineschiff.", "Das Schiff gehört offiziell noch zur Flotte der US Navy.", "Die Kaperung führte zur 11-monatigen Gefangenschaft der Besatzung."]
-    }
+    
   },
     description: {
       de: "Ein Forschungsschiff der US Navy, das 1968 von Nordkorea gekapert wurde. Es ist heute ein Museumsschiff in Pjöngjang.",
@@ -274,9 +260,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A komplexum a Goguryeo dinasztiát alapító Dzsumong királynak állít emléket.", "1993-ban a szerényebb halomsírt egy grandiózus kőpiramissá építették át.", "A sír mellett egy rekonstruált, ősi stílusú buddhista templom, a Dzsongnung-sza áll.", "A területhez egy tágas park és egy obeliszk is tartozik a király tetteivel.", "A sír bejárata előtt kőből faragott, hatalmas tigris-szobrok 'őrködnek'.", "A komplexum hivatalosan az UNESCO Világörökség része 2004 óta."],
       en: ["Dedicated to King Tongmyong (Jumong), founder of the Goguryeo Kingdom.", "Located in the Ryongsan-ri area just outside of Pyongyang.", "Purportedly relocated from modern-day China to Pyongyang in the 5th century.", "Entirely reconstructed by the North Korean government in 1993.", "Features impressive stone statues of ancient officials and guardian tigers.", "Includes the beautiful Chongum Temple and a large lotus pond.", "Used by the state to legitimize Pyongyang as the historical center of Korea."]
     },
-    factsAdvanced: {
-      de: ["Das Grab ehrt König Tongmyŏng, den mythischen Goguryeo-Gründer.", "Die heutige Anlage ist das Resultat einer massiven Restaurierung 1993.", "Der eigentliche Grabhügel wird von riesigen Steintigern bewacht.", "Das Grabmal ist Teil des UNESCO-Weltkulturerbes der Goguryeo-Stätten.", "Die Anlage umfasst mehr als ein Dutzend steinerne Ministerstatuen.", "Die architektonische Gestaltung orientiert sich streng an traditionellen koreanischen Normen."]
-    }
+    
   },
     description: {
       de: "Ein Mausoleum in der Nähe von Pjöngjang, das als Grabmal von Tongmyong, dem Gründer des alten Königreichs Goguryeo, gilt.",
@@ -310,9 +294,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A 330 méter magas Rjugjong Hotel Észak-Korea legmagasabb építménye.", "Piramis alakú dizájnja 105 emeletet foglal magába.", "1992 és 2008 között az épület burkolat nélküli, üres betonvázként állt.", "A 2010-es évek végére a teljes homlokzatot modern LED-panelekkel szerelték fel.", "Többszöri bejelentés ellenére a szálloda egyetlen szobája sem nyitott meg soha.", "A 'Rjugjong' név Phenjan ősi elnevezésére, a 'Füzfák városára' utal."],
       en: ["A 330-meter-tall, 105-story pyramid-shaped skyscraper in Pyongyang.", "Construction began in 1987 but was halted in 1992 due to economic collapse.", "Stood as a massive, empty concrete shell for 16 years.", "Exterior was finally clad in shiny mirrored glass in 2011.", "Currently used as a massive LED screen for night-time propaganda.", "Remains entirely unopened to guests despite its completion date.", "Often referred to internationally as the 'Hotel of Doom'."]
     },
-    factsAdvanced: {
-      de: ["Das Ryugyong-Hotel ist 330 Meter hoch und hat 105 Stockwerke.", "Der Bau begann 1987 und ist bis heute innerlich unvollendet.", "Es ist das größte Gebäude in Nordkorea.", "Die Glasfassade wurde erst 2011 vollständig angebracht.", "Nachts fungiert das Gebäude als gigantischer LED-Bildschirm.", "Es ist die höchste jemals gebaute pyramidenförmige Struktur der Welt."]
-    }
+    
   },
     description: {
       de: "Ein unvollendeter 105-stöckiger Wolkenkratzer in Pjöngjang. Der Bau begann 1987, wurde aber eingestellt. Er ist das höchste unbewohnte Gebäude der Welt.",
@@ -346,9 +328,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["Hivatalosan a világ legnagyobb stadionja, 150 000 fős befogadóképességgel.", "1989-ben adták át a Világifjúsági és Diáktalálkozó (VIT) megrendezésére.", "Teteje 16 összefonódó ívből áll, ami egy magnóliavirágot formáz.", "Itt rendezték meg az Arirang Tömegjátékokat, amelyen több mint 100 000 fellépő vett részt.", "2014-ben a stadiont teljesen felújították, színesebb és modernebb üléseket kapott.", "A stadion a Phenjant átszelő Taedong folyó Rungnado nevű szigetén épült."],
       en: ["Widely considered the largest operational stadium in the world by capacity.", "Located on Rungra Island in the Taedong River in Pyongyang.", "Estimated to hold approximately 114,000 spectators.", "Features a distinctive scalloped roof resembling a magnolia blossom.", "Opened on May 1, 1989, coinciding with a massive youth festival.", "Famous venue for the highly synchronized Arirang Mass Games.", "Routinely hosts massive state-organized rallies and athletic events."]
     },
-    factsAdvanced: {
-      de: ["Es ist das größte Stadion der Welt nach Sitzplatzkapazität.", "Die Kapazität liegt je nach Quelle zwischen 114.000 und 150.000 Plätzen.", "Das Stadion wurde 1989 eingeweiht.", "Das wellenförmige Dach erinnert an eine aufblühende Magnolie.", "Es ist der historische Austragungsort der gigantischen Arirang-Massenspiele.", "Die Bodenfläche des Stadions umfasst über 200.000 Quadratmeter."]
-    }
+    
   },
     description: {
       de: "Das größte Stadion der Welt mit einer offiziellen Kapazität von 114.000 Zuschauern. Es wird für Massengymnastik und Staatsfeierlichkeiten genutzt.",
@@ -382,9 +362,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A 30 méter magas emlékművet 2001-ben adták át Phenjan déli kapujában.", "Két hanbokot viselő nő (Észak és Dél) tartotta a félsziget egységes térképét.", "Az emlékmű a Kim Ir Szen által felállított újraegyesítési elveket hirdette.", "2024 januárjában Kim Dzsongun parancsára a gigantikus szobrot teljesen elbontották.", "A bontás az Észak- és Dél-Korea közötti békés közeledés hivatalos végét jelezte.", "A műholdképek a lerombolást a világ számára is megerősítették."],
       en: ["Massive concrete arch formerly located on the Reunification Highway.", "Unveiled in 2001 to symbolize hope for Korean reunification.", "Depicted two women in traditional dress holding a unified Korean map.", "Spanned the primary highway connecting Pyongyang to the DMZ.", "Ordered to be completely destroyed by Kim Jong-un in January 2024.", "Its destruction marked the end of the state's official reunification policy.", "Stood as a major ideological landmark for over two decades."]
     },
-    factsAdvanced: {
-      de: ["Das Monument überspannte die Autobahn zwischen Pjöngjang und der DMZ.", "Es wurde 2001 offiziell eingeweiht.", "Die Skulpturen bestanden aus massiven, 30 Meter hohen Granitblöcken.", "Es zeigte Nord- und Südkorea in Form von zwei traditionell gekleideten Frauen.", "Das Monument hielt eine bronzene Karte der koreanischen Halbinsel.", "Anfang 2024 wurde das Wahrzeichen von der Regierung abgerissen."]
-    }
+    
   },
     description: {
       de: "Ein Denkmal am südlichen Eingang von Pjöngjang, das die Vorschläge von Kim Il-sung für die koreanische Wiedervereinigung symbolisiert. 2024 abgerissen.",
@@ -418,9 +396,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A múzeum modern épületegyüttesét Kim Dzsongun utasítására 2013-ban adták át.", "A főépületben több mint 80 kiállítóterem mutatja be az északi győzelmi narratívát.", "A szabadtéri parkban az Egyesült Államoktól zsákmányolt haditechnika látható.", "Itt található az 1968-ban elfogott amerikai USS Pueblo kémhajó.", "A múzeum központjában egy hatalmas 360 fokos körpanoráma ábrázol egy csatát.", "Az épület neoklasszikus és szocialista realista építészeti stílusokat ötvöz."],
       en: ["Massive museum dedicated to the North Korean perspective of the Korean War.", "Comprehensively renovated and expanded into a grand facility in 2013.", "Presents the war as a defensive victory against American aggression.", "Features hyper-realistic, life-sized dioramas and wax figures.", "Displays vast collections of captured US weapons, aircraft, and tanks.", "Contains an impressive 360-degree rotating panorama of the Battle of Taejon.", "The exterior grounds serve as an open-air military hardware exhibition."]
     },
-    factsAdvanced: {
-      de: ["Der heutige Museumsbau wurde 2013 komplett neu eröffnet.", "Das Gebäude verbindet Marmor, Kristall und massiven Granit.", "Die Außenanlage umfasst einen großen Heldenpark mit Statuen.", "Erbeutete amerikanische Militärfahrzeuge säumen den Zugang.", "Im Inneren befindet sich eine gewaltige lebensgroße Kim-Il-sung-Statue.", "Das Gebäude ist abends oft tiefrot illuminiert."]
-    }
+    
   },
     description: {
       de: "Ein Museum in Pjöngjang, das dem Koreakrieg gewidmet ist. Es zeigt die nordkoreanische Perspektive des Konflikts.",
@@ -454,9 +430,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A Mjohjang-hegység neve 'Rejtelmes Illatok Hegyét' jelent.", "A terület 2009-ben megkapta az UNESCO Bioszféra Rezervátum minősítést.", "Itt található a Manphok-dong, a 'Tízezer Vízesés Völgye'.", "A hegy a 11. századi Pohjon templomnak, egy ősi buddhista központnak is otthont ad.", "A hegy belsejében alakították ki a hatalmas Nemzetközi Barátság Kiállítást.", "A hagyomány szerint a hegy a mitikus Dangun király egyik korai lakhelye volt."],
       en: ["Sacred mountain range located in North Pyongan Province.", "Translates to 'Mysterious Fragrant Mountain' in English.", "Revered as the mythological home of King Dangun, the first Korean.", "Features stunning natural scenery including ravines and waterfalls.", "Home to the ancient and historic Pohyon Buddhist Temple.", "Hosts the massive underground International Friendship Exhibition.", "A major destination for domestic and international state-approved tourism."]
     },
-    factsAdvanced: {
-      de: ["Das Myohyang-Gebirge liegt in der Provinz Nord-P'yŏngan.", "Sein höchster Gipfel, der Piro-bong, erreicht 1.909 Meter.", "Das Gebirge wurde 2009 in das UNESCO-Weltnetz der Biosphärenreservate aufgenommen.", "Der historische Pohyŏn-Tempel befindet sich in einem Tal des Gebirges.", "Der Name übersetzt sich als 'Berg der geheimnisvollen Düfte'.", "Das Gebiet ist ein beliebtes Ziel für inländische Wandergruppen."]
-    }
+    
   },
     description: {
       de: "Ein Gebirge, das für seine landschaftliche Schönheit bekannt ist und als einer der heiligsten Orte Koreas gilt. Es ist ein beliebtes Ziel für Touristen.",
@@ -490,9 +464,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A múzeum több mint 100 000 ajándékot őriz a Kim-család számára a világ minden tájáról.", "A komplexum nagy része mélyen a Mjohjang-hegység szikláiba van vájva.", "A termek ablaktalanok, és masszív páncélajtók védik a kincseket.", "Kiállították Joszif Sztálin golyóálló autóját és Mao Ce-tung vasúti kocsiját is.", "A legbizarrabb tárgyak között preparált állatok és kosárlabdák is szerepelnek.", "A belső hőmérsékletet és páratartalmat szigorúan szabályozzák a tárgyak védelmében."],
       en: ["Massive museum complex built deep into the solid rock of the Myohyang Mountains.", "Opened in 1978 and designed to resemble a traditional Korean palace.", "Exclusively displays gifts presented to the Kim family by foreign dignitaries.", "Houses an estimated collection of over 100,000 individual items.", "Built underground specifically to protect the collection from potential bombing.", "Used as domestic propaganda to falsely demonstrate global submission to the leaders.", "Visitors must undergo strict security protocols and wear protective shoe coverings."]
     },
-    factsAdvanced: {
-      de: ["Die Ausstellung besteht aus zwei gigantischen Gebäudekomplexen.", "Sie beherbergt über 100.000 Geschenke aus über 180 Nationen.", "Die Anlagen sind tief in den harten Fels des Myohyang-Gebirges gehauen.", "Ein gepanzerter Zugwagen von Josef Stalin befindet sich in der Sammlung.", "Die Türen der Tresore wiegen mehrere Tonnen pro Stück.", "Das Gebäude wurde 1978 eröffnet und später erweitert."]
-    }
+    
   },
     description: {
       de: "Ein großer Museumskomplex im Myohyang-Gebirge. Er zeigt Geschenke, die ausländischen Würdenträgern an Kim Il-sung und Kim Jong-il überreicht wurden.",
@@ -526,9 +498,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A Paektu-hegy 2744 méteres magasságával a Koreai-félsziget legmagasabb pontja.", "Egy aktív rétegvulkán, amelynek kalderáját a Mennyei-tó tölti ki.", "A hegy mindkét Korea (Észak és Dél) számára a nemzet szakrális bölcsője.", "Az észak-koreai történetírás szerint itt született Kim Dzsongil (bár szovjet források ezt cáfolják).", "A hegy megközelítésére egy külön repülőteret (Szamdzsijon) tartanak fenn a közelben.", "A terület időjárása rendkívül zord, a tó az év nagy részében be van fagyva."],
       en: ["Massive active stratovolcano forming the border between North Korea and China.", "The highest peak on the Korean Peninsula, standing at 2,744 meters.", "Features the stunning Heaven Lake within its volcanic caldera.", "Revered as the mythological ancestral birthplace of the Korean people.", "Claimed by state propaganda as Kim Jong-il's miraculous birthplace.", "The origin of the 'Paektu Bloodline' legitimizing the Kim family dynasty.", "A mandatory pilgrimage site for indoctrinated North Korean citizens and soldiers."]
     },
-    factsAdvanced: {
-      de: ["Der Paektu-san ist mit 2.744 Metern der höchste Berg der koreanischen Halbinsel.", "Er ist ein ruhender Stratovulkan an der chinesischen Grenze.", "Die Caldera an der Spitze enthält den tiefen Himmelssee (Chonji).", "Der Berg gilt als mystischer Ursprung der koreanischen Nation.", "In der nordkoreanischen Ideologie begründet er die 'Paektu-Blutlinie'.", "Der Himmelssee ist oft bis in den Frühsommer hinein zugefroren."]
-    }
+    
   },
     description: {
       de: "Ein aktiver Vulkan an der Grenze zwischen Nordkorea und China. Er ist der höchste Berg der koreanischen Halbinsel und gilt als heiliger Ort der Revolution.",
@@ -562,9 +532,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["Panmundzsom (JSA) az egyetlen hely, ahol a két Korea katonái farkasszemet néznek.", "Itt találhatók a híres kék színű tárgyalóbarakkok a demarkációs vonalon.", "A barakkokon belül a határátlépés – elméletben – szabadon megtehető a túloldalra.", "A látogatóknak az északi oldalon bemutatják a fegyverszünet aláírásának termét is.", "A terület biztonságát a Koreai Néphadsereg szigorúan ellenőrzött elit alakulatai védik.", "1976-ban a zónában történt baltás incidens két amerikai tiszt halálához vezetett."],
       en: ["The most heavily militarized border in the world, ironically named the DMZ.", "Panmunjom (JSA) is the specific enclave where opposing forces stand face-to-face.", "Site of the signing of the 1953 Korean War Armistice Agreement.", "Features the iconic blue UN conference buildings straddling the border.", "The only location where civilians can technically step across the demarcation line.", "Functions as a surreal, highly tense Cold War landmark and tourist destination.", "Surrounded by vast, untouched nature reserves due to human exclusion."]
     },
-    factsAdvanced: {
-      de: ["Panmunjom liegt in der Joint Security Area innerhalb der DMZ.", "Die blauen Baracken stehen exakt auf der militärischen Demarkationslinie.", "Nordkoreanische Touristen betreten das Gelände über den Panmungak-Pavillon.", "Die Zone wird streng von bewaffneten Soldaten beider Seiten bewacht.", "Auf dem Boden markiert eine kleine Betonschwelle die Staatsgrenze.", "Die Anlage ist eines der wenigen Gebiete, wo direkte Treffen zwischen Nord und Süd stattfinden können."]
-    }
+    
   },
     description: {
       de: "Die demilitarisierte Zone, eine Pufferzone, die Nord- und Südkorea trennt. Panmunjom ist die 'Waffenstillstandszone', in der Verhandlungen stattfinden.",
@@ -598,9 +566,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["Keszong közel ötszáz évig (918–1392) szolgált a Goryeo Királyság fővárosaként.", "Ez azon kevés észak-koreai városok egyike, amely nem pusztult el a koreai háborúban.", "A város történelmi központja 2013 óta az UNESCO Világörökség része.", "A régi városrészt ma is sűrűn beépített, hagyományos 'hanok' házak alkotják.", "Itt található a Koryo Múzeum, amely az ország legrégebbi egyetemén (Szonggjungvan) kapott helyet.", "Keszong hagyományosan a kiváló minőségű koreai ginzeng termesztésének központja."],
       en: ["A designated UNESCO World Heritage site located just north of the DMZ.", "Served as the capital of the ancient Goryeo Dynasty (918–1392).", "Uniquely preserved as it largely escaped destruction during the Korean War.", "Features a remarkably intact old town with traditional hanok architecture.", "Home to ancient landmarks like the Namdaemun Gate and Sonjuk Bridge.", "Offers a rare, authentic glimpse into ancient Korean urban planning.", "Famous for the historical cultivation of premium Korean ginseng."]
     },
-    factsAdvanced: {
-      de: ["Kaesŏng war über vier Jahrhunderte die Hauptstadt des Koryŏ-Reiches.", "Die Altstadt wurde im Koreakrieg weitgehend vor Zerstörung verschont.", "Sie besteht aus Hunderten traditioneller Hanok-Häuser.", "Die historischen Monumente von Kaesŏng sind seit 2013 UNESCO-Weltkulturerbe.", "Die Stadt war das historische Zentrum des Ginseng-Handels.", "Kaesŏng liegt unmittelbar an der demilitarisierten Zone (DMZ)."]
-    }
+    
   },
     description: {
       de: "Die ehemalige Hauptstadt des Koryo-Reiches. Die Stadt verfügt über historische Stätten, die zum UNESCO-Weltkulturerbe gehören.",
@@ -634,9 +600,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A luxus síközpont Kim Dzsongun személyes 'pet projektjeként' épült 2013-ban.", "Az építkezést a hadsereg alakulatai végezték el mindössze 10 hónap alatt.", "A komplexum kilenc különböző nehézségű sípályával rendelkezik.", "A felszereléseket (felvonók, hóágyúk) az ENSZ szankciókat megkerülve szerezték be.", "A helyszínen egy 120 szobás, luxusszínvonalú szálloda és korcsolyapálya is üzemel.", "Dél-koreai síelők is edzettek itt közösen az északiakkal a 2018-as olimpia előtt."],
       en: ["Luxury winter sports complex located on Taehwa Peak near Wonsan.", "Constructed in 2013 under the direct orders of leader Kim Jong-un.", "Built at extreme speed, giving rise to the propaganda term 'Masikryong Speed'.", "Features a luxury hotel, nine ski runs, and various winter amenities.", "Intended to showcase North Korea as a modern, civilized nation.", "Primarily utilized by the political elite and foreign diplomats.", "Subject to controversy regarding the use of imported luxury ski equipment."]
     },
-    factsAdvanced: {
-      de: ["Das Skigebiet wurde Anfang 2014 nach nur 10 Monaten Bauzeit eröffnet.", "Es liegt am Berg Taehwa in der Nähe von Wŏnsan.", "Das Resort verfügt über Pisten mit einer Gesamtlänge von fast 17 Kilometern.", "Die Anlage beinhaltet ein neunstöckiges Luxushotel.", "Die importierten österreichischen Sessellifte waren Gegenstand internationaler Sanktionsdebatten.", "Der Bau prägte den Propaganda-Begriff 'Masik-Ryong-Geschwindigkeit'."]
-    }
+    
   },
     description: {
       de: "Ein Skigebiet an der Ostküste Nordkoreas, das 2013 eröffnet wurde. Es war ein Prestigeprojekt von Kim Jong-un.",
@@ -670,9 +634,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A Kalma-félszigeten épülő luxus üdülőövezet az ország legnagyobb turisztikai projektje.", "A célközönséget a külföldi (főként orosz és kínai) tengerparti nyaralók jelentik.", "Több mint 100 épület, köztük hotelek, aquaparkok és sportlétesítmények épültek fel.", "A projekt átadását a Covid-19 járvány miatt 2020-ban határozatlan időre elhalasztották.", "A homokos part korábban a hadsereg gyakori tüzérségi lőgyakorlatainak helyszíne volt.", "A közelben található a Kalma nemzetközi repülőtér, amit a turisták fogadására bővítettek."],
       en: ["Massive coastal resort development project located on the Kalma Peninsula.", "Initiated by Kim Jong-un to attract international summer tourism.", "Features plans for over 150 high-rise hotels, water parks, and casinos.", "Built adjacent to the recently modernized Kalma International Airport.", "Construction was carried out primarily by massive units of soldier-builders.", "Severely stalled and left unfinished due to sanctions and the COVID-19 pandemic.", "Represents the state's ambitious but struggling push for tourism revenue."]
     },
-    factsAdvanced: {
-      de: ["Die Kalma-Halbinsel erstreckt sich in die Bucht von Wŏnsan.", "Das Resort umfasst über 100 Gebäude, darunter riesige Luxushotels.", "Der Bau wurde von Kim Jong-un persönlich stark forciert.", "Die Eröffnung wurde seit 2019 mehrfach verschoben.", "In der Nähe befindet sich ein kürzlich ausgebauter internationaler Flughafen.", "Die Halbinsel wurde früher für Artillerie- und Raketentests genutzt."]
-    }
+    
   },
     description: {
       de: "Ein großes Tourismusentwicklungsprojekt in Wonsan. Es soll Hotels, Strände und Unterhaltungseinrichtungen umfassen.",
@@ -706,9 +668,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       hu: ["A múzeum az 1950-es Sincshon megyei mészárlás 35 000 áldozatának állít emléket.", "Észak-Korea az amerikai katonákat teszi meg a brutális gyilkosságok kizárólagos elkövetőinek.", "A komplexumban található a 'Pamnamu-völgyi robbanóanyag-raktár', a vérengzés egyik helyszíne.", "A kiállítást a lakosság – különösen a fiatalok és katonák – számára kötelezően látogathatóvá teszik.", "Kim Dzsongun 2015-ös látogatása után az épületet és a kiállítást jelentősen kibővítették.", "A tárlaton nyíltan sokkoló, erőszakos diorámák és festmények dominálnak."],
       en: ["Located in Sinchon County, South Hwanghae Province.", "The most intense site of anti-American propaganda in North Korea.", "Alleges that US forces massacred over 35,000 civilians during a 1950 occupation.", "Exhibits feature highly graphic paintings and depictions of torture.", "Displays artifacts such as blood-stained clothing and preserved human remains.", "A mandatory educational and ideological site for North Korean citizens.", "Designed specifically to instill a deep, visceral hatred of the United States."]
     },
-    factsAdvanced: {
-      de: ["Das Museum ist in Süd-Hwanghae das wichtigste politische Denkmal.", "Der Gebäudekomplex wurde 2015 unter Kim Jong-un massiv vergrößert.", "Die Außenarchitektur umfasst massive Granitstatuen der Rache.", "Der Vorplatz fasst tausende Menschen für politische Versammlungen.", "Es konserviert angebliche Massengräber aus dem Jahr 1950.", "Das Museum zielt darauf ab, den ideologischen Kampfgeist zu stärken."]
-    }
+    
   },
     description: {
       de: "Ein Museum, das behauptet, das Sinchon-Massaker durch US-Streitkräfte während des Koreakriegs zu dokumentieren. Die Darstellung wird von westlichen Historikern bestritten.",

@@ -21,24 +21,10 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Az etiópiai elefántok egyik fő menedéke", "Keleti régió, félsivatagos táj", "A harar-i antilop otthona is", "Kiemelt ökológiai jelentőségű", "Vándorlási útvonalak biztosítása", "A természetvédelem egyik kulcsfontosságú területe"]
     },
-    descriptionAdvanced: {
-      de: "Das Babile-Elefantenreservat im Osten Äthiopiens bietet eine letzte Zuflucht für die seltene Population der afrikanischen Steppenelefanten in dieser Region. Die Landschaft besteht hauptsächlich aus trockenen Savannen, die den Tieren als Lebensraum dienen. Biologie K6 – Naturschutz und bedrohte Arten."
-    },
-    factsAdvanced: {
-      de: ["Status: Elefantenreservat", "Region: Ost-Äthiopien", "Flora: Akaziensavanne", "Bedrohung: Mensch-Tier-Konflikt", "Besonderheit: Einzige Elefantenpopulation im Osten"]
-    },
-    descriptionAdvanced: {
-      de: "Das Babile-Elefanten-Schutzgebiet, 1970 gegründet, beheimatet die seltenen afrikanischen Wüstenelefanten. Mit einer Fläche von etwa 6.982 Quadratkilometern erstreckt sich das Reservat durch ein einzigartiges Halbwüsten- und Savannenökosystem im östlichen Äthiopien. Es ist das wichtigste Refugium für diese Elefantenpopulation, die sich an die trockenen Bedingungen angepasst hat. Der Park bietet Lebensraum für eine Vielzahl weiterer Wildtiere und ist für Ökotouristen von großer Bedeutung. Geografie K7 — Ökosysteme und Schutzgebiete.",
-      hu: "A Babile Elefántrezervátumot 1970-ben alapították, és az afrikai sivatagi elefántok egyik legritkább populációjának ad otthont. A kb. 6982 négyzetkilométernyi terület Etiópia keleti részén található, félsivatagi és szavannai élőhelyekkel. Ez a rezervátum létfontosságú ezeknek az állatoknak, amelyek alkalmazkodtak a szélsőségesen száraz körülményekhez. A park változatos vadállatoknak biztosít menedéket, és fontos célpont az ökoturisták számára. Földrajz K7 — ökoszisztémák és védett területek.",
-      ro: "Sanctuarul de Elefanți Babile, fondat în 1970, găzduiește rarii elefanți de deșert africani. Cu o suprafață de aproximativ 6.982 kilometri pătrați, rezervația se întinde printr-un ecosistem unic de semideșert și savană în estul Etiopiei. Este cel mai important refugiu pentru această populație de elefanți care s-a adaptat condițiilor aride. Parcul oferă habitat pentru numeroase alte animale sălbatice și este semnificativ pentru ecoturism. Geografie K7 — ecosisteme și zone protejate.",
-      en: "Babile Elephant Sanctuary, founded in 1970, is home to the rare African desert elephants. Covering approximately 6,982 square kilometers, the reserve extends through a unique semi-desert and savanna ecosystem in eastern Ethiopia. It is the most important refuge for this elephant population, which has adapted to arid conditions. The park provides a habitat for various wildlife and is significant for ecotourism. Geography K7 — ecosystems and protected areas."
-    },
-    factsAdvanced: {
-      de: ["Gegründet im Jahr 1970.", "Fläche von 6.982 km².", "Heimat der Wüstenelefanten.", "Wichtigster Schutzraum im Osten.", "Diverse endemische Pflanzen.", "Ziel für den Ökotourismus."],
-      hu: ["1970-ben alapítva.", "Területe 6982 km².", "Sivatagi elefántok otthona.", "Legfontosabb rezervátum keleten.", "Változatos endemikus növények.", "Ökoturisztikai célpont."],
-      ro: ["Fondat în 1970.", "Suprafață de 6.982 km².", "Căminul elefanților de deșert.", "Cel mai important refugiu în est.", "Plante endemice diverse.", "Destinație pentru ecoturism."],
-      en: ["Founded in 1970.", "Area of 6,982 km².", "Home to desert elephants.", "Most important refuge in the east.", "Diverse endemic plants.", "Destination for ecotourism."]
-    }, image: "/poi-images/babile-elephant-habitat-life-v2.webp"},
+    
+    
+    
+     image: "/poi-images/babile-elephant-habitat-life-v2.webp"},
   {
     id: "senkele-hartebeest-habitat-life-v2",
     type: "animal-habitat",
@@ -58,24 +44,10 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Swayne-féle tehénantilop (endemikus)", "Szavannás élőhely", "A faj utolsó természetes menedékei", "Kelet-afrikai élővilág", "Veszélyeztetett fajok védelme", "Természetes ökoszisztéma megőrzése"]
     },
-    descriptionAdvanced: {
-      de: "Das Senkele-Hartebeest-Reservat wurde gezielt zum Schutz des Swayne-Kuhantilopen gegründet, einer endemischen Unterart, die in Äthiopien heimisch ist. Die Graslandschaft des Schutzgebiets bietet ideale Bedingungen für die Herden. Biologie K7 – Artenschutz."
-    },
-    factsAdvanced: {
-      de: ["Zielart: Swayne-Kuhantilope", "Status: Schutzgebiet", "Landschaft: Grasland", "Besonderheit: Weltweit wichtigstes Rückzugsgebiet"]
-    },
-    descriptionAdvanced: {
-      de: "Das Senkele-Schutzgebiet, 1972 im Rift Valley gegründet, wurde speziell zum Schutz der Swayne-Leierantilope eingerichtet. Mit einer überschaubaren Fläche von nur 58 Quadratkilometern ist es eines der wichtigsten Reservate für diese vom Aussterben bedrohte Unterart. Das Gebiet bietet eine Mischung aus Savanne und Grasland, die ideal für das Überleben der Tiere ist. Das Schutzgebiet spielt eine zentrale Rolle bei der Erhaltung der Biodiversität in Äthiopien. Biologie K6 — Artenschutz und gefährdete Tierarten.",
-      hu: "A Senkele vadvédelmi területet 1972-ben alapították a Hasadékvölgyben, kifejezetten a Swayne-torkosantilop megóvása érdekében. Az alig 58 négyzetkilométeres terület az egyik legfontosabb rezervátum a veszélyeztetett alfaj számára. A terület szavanna és füves puszta keveréke, ami ideális az állatok túléléséhez. A védett terület központi szerepet játszik Etiópia biológiai sokféleségének fenntartásában. Biológia K6 — fajmegőrzés és veszélyeztetett fajok.",
-      ro: "Sanctuarul Senkele, fondat în 1972 în Valea Riftului, a fost stabilit special pentru protejarea antilopei Swayne. Cu o suprafață modestă de doar 58 de kilometri pătrați, este una dintre cele mai importante rezervații pentru această subspecie amenințată cu dispariția. Zona oferă un amestec de savană și pășuni, ideal pentru supraviețuirea animalelor. Sanctuarul joacă un rol central în conservarea biodiversității în Etiopia. Biologie K6 — conservarea speciilor și specii pe cale de dispariție.",
-      en: "Senkele Wildlife Sanctuary, founded in 1972 in the Rift Valley, was established specifically for the protection of Swayne's hartebeest. With a modest area of only 58 square kilometers, it is one of the most important reserves for this threatened subspecies. The area offers a mix of savanna and grassland, which is ideal for the survival of the animals. The sanctuary plays a central role in maintaining biodiversity in Ethiopia. Biology K6 — species conservation and endangered species."
-    },
-    factsAdvanced: {
-      de: ["Gegründet im Jahr 1972.", "Fläche von 58 km².", "Schutz der Swayne-Leierantilope.", "Gelegen im Rift Valley.", "Kritisches Habitate für die Art.", "Strenge Schutzmaßnahmen."],
-      hu: ["1972-ben alapítva.", "Területe 58 km².", "Swayne-torkosantilop védelme.", "A Hasadékvölgyben található.", "Kritikus élőhely a faj számára.", "Szigorú védelmi intézkedések."],
-      ro: ["Fondat în 1972.", "Suprafață de 58 km².", "Protecția antilopei Swayne.", "Situat în Valea Riftului.", "Habitat critic pentru specie.", "Măsuri stricte de protecție."],
-      en: ["Founded in 1972.", "Area of 58 km².", "Protection of Swayne's hartebeest.", "Located in the Rift Valley.", "Critical habitat for the species.", "Strict conservation measures."]
-    }, image: "/poi-images/senkele-hartebeest-habitat-life-v2.webp"},
+    
+    
+    
+     image: "/poi-images/senkele-hartebeest-habitat-life-v2.webp"},
   {
     id: "chebera-churchura-habitat-life-v2",
     type: "animal-habitat",
@@ -209,12 +181,8 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["A híres Arabica kávé szülőhelye", "Magas hegyvidéki éghajlat", "Virágos, gyümölcsös ízjegyek", "Fenntartható termesztési módszerek", "Világhírű kávéipari régió", "Kiváló természeti adottságok"]
     },
-    descriptionAdvanced: {
-      de: "Yirgacheffe gilt weltweit als Inbegriff für hochwertigen äthiopischen Kaffee, der in den Hochlandregionen unter idealen klimatischen Bedingungen wächst. Die Kaffeekultur ist tief im täglichen Leben und der Geschichte des Volkes verwurzelt. Sachkunde K4 – Kaffeekultur."
-    },
-    factsAdvanced: {
-      de: ["Produkt: Kaffee (Premium-Qualität)", "Region: Gedeo-Zone", "Anbau: Hochland-Shade-Grown", "Bedeutung: Weltweite Kaffeereferenz"]
-    }, image: "/poi-images/yirgacheffe-coffee-agriculture-life-v2.webp"},
+    
+     image: "/poi-images/yirgacheffe-coffee-agriculture-life-v2.webp"},
   {
     id: "sidamo-coffee-agriculture-life-v2",
     type: "agriculture",
@@ -234,12 +202,8 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["Etiópia legnagyobb kávétermesztő régiója", "Komplex ízprofilú kávébabok", "Változatos mikroklíma", "Jelentős exporttétel", "Specialty kávépiaci kereslet", "Tradicionális gazdálkodás"]
     },
-    descriptionAdvanced: {
-      de: "Sidamo ist eine der bekanntesten Kaffeeregionen Äthiopiens, deren vielfältige Terroirs unterschiedliche Geschmacksprofile hervorbringen. Der Kaffeeanbau bildet die wirtschaftliche Grundlage für weite Teile der Bevölkerung und ist ein bedeutendes Kulturgut. Erdkunde K6 – Wirtschaft und Agrar."
-    },
-    factsAdvanced: {
-      de: ["Fokus: Kaffee-Produktion", "Region: Sidamo-Zone", "Vielfalt: Zahlreiche Mikroklimata", "Wirtschaft: Haupteinnahmequelle"]
-    }, image: "/poi-images/sidamo-coffee-agriculture-life-v2.webp"},
+    
+     image: "/poi-images/sidamo-coffee-agriculture-life-v2.webp"},
   {
     id: "limmu-coffee-agriculture-life-v2",
     type: "agriculture",

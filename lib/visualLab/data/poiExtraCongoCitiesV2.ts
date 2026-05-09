@@ -22,15 +22,9 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1880 as a French station.", "Served as the capital of Free France 1940–1943.", "Situated at an altitude of 317 meters.", "Located 474 km from the Atlantic Ocean.", "The city's name honors its founder.", "Home to the iconic Basilica of St. Anne."]
     },
-    factsAdvanced: {
-      ro: ["Fondat în 1880 de Pierre Savorgnan de Brazza", "Capitală situată pe malul drept al fluviului Congo", "Turnul Nabemba are o înălțime de 106 metri", "Situat direct vizavi de capitala Kinshasa", "Centru administrativ al Republicii Congo", "Climat tropical umed pe tot parcursul anului", "Bazilica Sainte-Anne este o bijuterie arhitecturală"]
-    },
-    factsAdvanced: {
-      hu: ["Brazzaville 1880-ban alapított város.", "A város a Kongó folyó partján fekszik.", "A Nabemba-torony az egyik legmagasabb épület.", "A város szemben fekszik Kinshasával.", "A Sainte-Anne bazilika híres építészeti alkotás.", "A város a Kongói Köztársaság fővárosa."]
-    },
-    factsAdvanced: {
-      de: ["Gelegen auf 317 Metern Höhe", "Einwohnerzahl über 2 Millionen Menschen", "Wichtigstes Handelszentrum am Kongo-Fluss", "Gründung durch Pierre Savorgnan de Brazza", "Sitz der Nationalversammlung des Landes", "Klimatisch geprägt durch tropische Regenwaldzone", "Wichtiger Binnenhafen für die gesamte Region"]
-    }
+    
+    
+    
   },
     description: {
       de: "Brazzaville ist die Hauptstadt und größte Stadt der Republik Kongo, am Nordufer des Kongo-Flusses gelegen.",
@@ -64,15 +58,9 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Major port since the 1920s.", "Center of Congolese oil exploration.", "Connected to Brazzaville by the CFCO railway.", "Population exceeds 700,000 residents.", "Known for its deep-water harbor.", "Primary economic engine of the nation."]
     },
-    factsAdvanced: {
-      ro: ["Principalul port maritim al Republicii Congo", "Hub central pentru industria petrolieră", "Conectat prin linia feroviară CFCO cu Brazzaville", "Oraș situat la țărmul Oceanului Atlantic", "A doua cea mai mare aglomerare urbană din țară", "Punct cheie pentru exportul de cherestea", "Economie diversificată pe servicii și logistică"]
-    },
-    factsAdvanced: {
-      hu: ["Pointe-Noire az Atlanti-óceán partján fekszik.", "A város az olajipar központja.", "A Pointe-Noire–Brazzaville vasútvonal kulcsfontosságú.", "A várost a 15. században fedezték fel a portugálok.", "Ez Kongó legfontosabb kereskedelmi kikötője.", "A város jelentős gazdasági központ."]
-    },
-    factsAdvanced: {
-      de: ["Hauptzentrum für kongolesische Erdölproduktion", "Endpunkt der Kongo-Ozean-Bahn", "Wichtigster Tiefseehafen Zentralafrikas", "Stadtgründung im Jahr 1922", "Bekannt für den Bas-Kouilou Küstenabschnitt", "Wirtschaftliches Wachstum durch Logistiksektor", "Klimatisch beeinflusst durch den Atlantischen Ozean"]
-    }
+    
+    
+    
   },
     description: {
       de: "Pointe-Noire ist das wirtschaftliche Zentrum des Landes und der wichtigste Seehafen am Atlantik.",
@@ -106,15 +94,9 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Named after a French administrator.", "Third largest city by population.", "Key junction on the CFCO railway.", "Located in the Niari Valley.", "Important center for the timber trade.", "Known for its mild climate due to elevation."]
     },
-    factsAdvanced: {
-      ro: ["Nod feroviar esențial pe traseul CFCO", "Cunoscut istoric sub numele de Loubomo", "Situat în regiunea fertilă Niari", "Centru comercial pentru produse agricole", "Punct de legătură între coasta Atlantică și capitală", "Infrastructură feroviară dezvoltată în era colonială", "Importanță strategică în logistica națională"]
-    },
-    factsAdvanced: {
-      hu: ["Dolisie a harmadik legnagyobb kongói város.", "A város a Niari-völgyben található.", "Korábbi neve Loubomo volt.", "A vasútvonal mentén fekvő stratégiai központ.", "A környező régió mezőgazdasági központja.", "A város fontos logisztikai pont."]
-    },
-    factsAdvanced: {
-      de: ["Ehemaliger Name bis 1991: Loubomo", "Drittgrößte Stadt der Republik Kongo", "Zentraler Knotenpunkt der Kongo-Ozean-Bahn", "Wichtigstes Handelszentrum der Niari-Region", "Wichtiger Transitpunkt für landwirtschaftliche Exporte", "Strategisch positioniert in der Wald-Savanne-Übergangszone", "Kulturelles Bindeglied zwischen Küste und Binnenland"]
-    }
+    
+    
+    
   },
     description: {
       de: "Dolisie, früher bekannt als Loubomo, ist die drittgrößte Stadt des Landes und ein wichtiger Eisenbahnknotenpunkt.",
@@ -148,15 +130,9 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Known as the 'sugar town'.", "Home to the SARIS-Congo refinery.", "Located in the productive Bouenza region.", "Crucial node for regional agricultural transport.", "Surrounded by vast sugarcane plantations.", "Important hub for local manufacturing."]
     },
-    factsAdvanced: {
-      ro: ["Centru major al industriei zahărului", "Situat în valea fertilă a râului Niari", "Susține economia agricolă regională", "Populație diversă concentrată pe activități industriale", "Rafinăria de zahăr este un pilon economic local", "Regiune cu potențial agricol ridicat", "Nod important pentru procesarea produselor brute"]
-    },
-    factsAdvanced: {
-      hu: ["Nkayi a cukortermelésről ismert város.", "A Niari-völgyben fekszik.", "A helyi cukorgyár a város gazdaságának alapja.", "Jelentős szerepet játszik az cukorexportban.", "A környező termőföldek ideálisak a cukornádtermesztéshez.", "Ipari központ Kongó délnyugati részén."]
-    },
-    factsAdvanced: {
-      de: ["Viertgrößte Stadt der Republik Kongo", "Zentrales Zentrum für die kongolesische Zuckerindustrie", "Große Zuckerrohrplantagen in der Umgebung", "Strategische Lage an der wichtigen Bahnlinie", "Bedeutender Arbeitgeber durch landwirtschaftliche Verarbeitung", "Wichtiges Agrarzentrum der Bouenza-Region", "Klimatische Bedingungen begünstigen ganzjährige Ernte"]
-    }
+    
+    
+    
   },
     description: {
       de: "Nkayi ist eine bedeutende Industriestadt in der Bouenza-Region, bekannt für ihre Zuckerproduktion.",
@@ -191,15 +167,9 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Likouala department.", "Located in the far northeast.", "Vital port for regional supply.", "Surrounded by extensive wetlands.", "Dependent on Oubangui river transport.", "Remote hub for logging and trade."]
     },
-    factsAdvanced: {
-      ro: ["Capitala departamentului Likouala", "Port fluvial strategic pe râul Ubangi", "Poartă de acces către pădurile tropicale", "Centru de distribuție pentru bazinul Congo", "Biodiversitate bogată în împrejurimi", "Economie bazată pe transportul fluvial", "Regiune izolată geografic în nordul țării"]
-    },
-    factsAdvanced: {
-      hu: ["Impfondo a Ubangi folyó partján fekszik.", "A Likouala tartomány székhelye.", "A város a fakitermelés központja.", "Fontos szerepet tölt be a regionális folyami kereskedelemben.", "A terület a trópusi erdők és vizes élőhelyek része.", "Észak-Kongó egyik jelentős települése."]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Likouala-Region", "Gelegen an den Ufern des Oubangui-Flusses", "Tief im kongolesischen Regenwald gelegen", "Logistisch isolierte geografische Lage", "Wichtiger Flusshafen für den regionalen Handel", "Administratives Zentrum für indigene Waldgemeinschaften", "Geografisch geprägt durch das große Sumpfgebiet"]
-    }
+    
+    
+    
   },
     description: {
       de: "Impfondo ist das Verwaltungszentrum der Likouala-Region im Nordosten des Landes, am Fluss Oubangui gelegen.",
@@ -234,15 +204,9 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Administrative hub of Sangha department.", "Strategic port on the Sangha River.", "Main base for regional forestry operations.", "Isolated from the capital by dense forest.", "Population represents various ethnic groups.", "Key transit point for northern trade."]
     },
-    factsAdvanced: {
-      ro: ["Centru major pentru industria lemnului", "Port fluvial activ pe râul Sangha", "Capitală departamentală în nordul țării", "Punct cheie pentru explorarea ecosistemelor forestiere", "Rol strategic în transportul de cherestea", "Conexiune fluvială vitală cu alte regiuni", "Populație implicată în sectorul silvic"]
-    },
-    factsAdvanced: {
-      hu: ["Ouesso a Sangha tartomány székhelye.", "A Sangha folyó partján fekszik.", "Fontos központja a fakitermelésnek.", "A város az északi régió logisztikai központja.", "Környezete gazdag trópusi élővilággal rendelkezik.", "A fakitermelés a város gazdaságának alapja."]
-    },
-    factsAdvanced: {
-      de: ["Zentrum der kongolesischen Forst- und Holzindustrie", "Geografisch gelegen an den Ufern des Sangha-Flusses", "Wichtiger Flusshafen für den Holztransport", "Regionale Hauptstadt der Sangha-Region", "Strategische Lage nahe der kamerunischen Grenze", "Wichtige Fährverbindungen nach Brazzaville", "Klimatisch geprägt durch die äquatoriale Waldzone"]
-    }
+    
+    
+    
   },
     description: {
       de: "Ouésso ist eine Marktstadt im Norden des Kongo am Sangha-Fluss und das Zentrum der Sangha-Region.",
@@ -276,15 +240,9 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Administrative center in Bouenza.", "Focus on cassava production.", "Supports rural smallholder farmers.", "Connects to larger trade networks.", "Market hub for regional produce.", "Known for its agricultural community."]
     },
-    factsAdvanced: {
-      ro: ["Centru administrativ al departamentului Bouenza", "Regiune renumită pentru cultivarea maniocului", "Hub comercial pentru produsele rurale locale", "Conectează comunitățile din sud-vestul țării", "Economie bazată pe agricultură tradițională", "Rol important în securitatea alimentară locală", "Punct de acces către terenuri agricole fertile"]
-    },
-    factsAdvanced: {
-      hu: ["Madingou a Bouenza tartomány székhelye.", "Fontos mezőgazdasági piaci központ.", "A Niari-völgyben helyezkedik el.", "Fő terménye a manióka.", "A régió fontos kereskedelmi pontja.", "A mezőgazdaság a város fő tevékenysége."]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Bouenza-Region", "Zentrum für den regionalen landwirtschaftlichen Handel", "Strategisch gelegen im Herzen der Bouenza-Ebene", "Reich an Obstplantagen und landwirtschaftlichen Märkten", "Verkehrstechnisch erschlossen durch lokale Anbindung", "Wichtiger Knotenpunkt für regionale Verwaltungsaufgaben", "Geografisch eingebettet in eine hügelige Agrarlandschaft"]
-    }
+    
+    
+    
   },
     description: {
       de: "Madingou ist die Hauptstadt der Bouenza-Region und ein wichtiges landwirtschaftliches Versorgungszentrum.",
@@ -318,15 +276,9 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Renamed from Fort-Rousset.", "Capital of the Cuvette department.", "Strategically located in central Congo.", "Known for regional cattle markets.", "Hub for river-based northern trade.", "Important center for local administration."]
     },
-    factsAdvanced: {
-      ro: ["Capitala departamentului Cuvette", "Situat strategic pe râul Kouyou", "Hub comercial pentru regiunea centrală", "Facilitează schimburile între nord și sud", "Pilon administrativ pentru bazinul hidrografic central", "Populație angajată în comerț și servicii", "Importanță istorică în integrarea regională"]
-    },
-    factsAdvanced: {
-      hu: ["Owando a Cuvette tartomány székhelye.", "A Kouyou folyó partján épült.", "Fontos folyami kereskedelmi központ.", "Észak-Kongó logisztikai csomópontja.", "Stratégiai fekvése segíti a regionális kereskedelmet.", "Közigazgatási és kereskedelmi központ."]
-    },
-    factsAdvanced: {
-      de: ["Früherer historischer Name: Fort-Rousset", "Hauptstadt der administrativen Cuvette-Region", "Strategisch gelegen am Kouyou-Fluss", "Wichtiger Knotenpunkt für den Handel im Norden", "Sitz des regionalen Flughafens für den Cuvette-Bereich", "Zentrum für landwirtschaftliche Koordination im Norden", "Klimatisch geprägt durch die Übergangszone des Regenwaldes"]
-    }
+    
+    
+    
   },
     description: {
       de: "Owando, früher Fort-Rousset, ist die Hauptstadt der Cuvette-Region im zentralen Norden des Landes.",
@@ -360,12 +312,8 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Centru administrativ în departamentul Lékoumou", "Situat în zonă cu relief montan", "Hub local pentru produse forestiere", "Acces către peisaje naturale variate", "Economie bazată pe resurse locale", "Rol vital pentru comunitățile din regiunea muntoasă", "Importanță în dezvoltarea economică regională"]
     },
-    factsAdvanced: {
-      hu: ["Sibiti a Lékoumou tartomány székhelye.", "Dombos, erdős területen fekszik.", "Jelentős fakitermelési körzet.", "Mezőgazdasági központ a belvidéken.", "Gazdag természeti erőforrásokkal rendelkezik.", "Tipikus kongói kisváros a Lékoumou régióban."]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der administrativen Lékoumou-Region", "Geografisch geprägt durch hügelige Waldlandschaften", "Klimatisch begünstigte Lage für landwirtschaftliche Anbauformen", "Zentrum für den Handel mit agrarischen Erzeugnissen", "Wichtiger Standort für regionale Verwaltungsorgane", "Ausgangspunkt für die Erforschung der Natur der Region", "Kulturelles Zentrum der lokalen Gemeinschaften in Lékoumou"]
-    }
+    
+    
   },
     description: {
       de: "Sibiti ist die Hauptstadt der Lékoumou-Region und liegt in einer malerischen, hügeligen Waldlandschaft.",
@@ -398,12 +346,8 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Hub comercial în regiunea Plateaux", "Punct strategic pe rutele rutiere naționale", "Centru pentru schimbul de produse agricole", "Deservește comunitățile de pe platourile înalte", "Importanță logistică pentru tranzitul rutier", "Economie susținută de comerțul rutier", "Populație implicată în servicii și agricultură"]
     },
-    factsAdvanced: {
-      hu: ["Gamboma a Plateaux tartomány városa.", "Kereskedelmi útvonalak találkozásánál fekszik.", "A Batéké-fennsík közelében található.", "Jelentős regionális elosztóhely.", "Mezőgazdasági termények központja.", "Fontos szerepet játszik a helyi kereskedelemben."]
-    },
-    factsAdvanced: {
-      de: ["Wichtiger Handelsstandort in der Plateaux-Region", "Strategische Anbindung an die wichtige Nationalstraße 2", "Zentraler Umschlagplatz für regionale Agrarerzeugnisse", "Wichtiger Verkehrsknotenpunkt zwischen Süden und Norden", "Zentrum für die Versorgung umliegender ländlicher Märkte", "Wesentliches Bindeglied für den landesweiten Güterverkehr", "Klimatisch geprägt durch die Hochebenen-Struktur des Plateaux"]
-    }
+    
+    
   },
     description: {
       de: "Gamboma ist eine wichtige Stadt in der Plateaux-Region, bekannt als Handelszentrum an der Nordstraße.",
@@ -436,12 +380,8 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Oraș istoric în regiunea Niari", "Centru comercial pentru comunitățile montane", "Rol în gestionarea resurselor agricole locale", "Poziție strategică în sud-vestul țării", "Istorie marcată de evoluția administrativă", "Economie bazată pe agricultură și servicii", "Punct de legătură între zonele rurale"]
     },
-    factsAdvanced: {
-      hu: ["Mossendjo a Niari tartomány városa.", "Fontos helyi kereskedelmi központ.", "A dombos tájak és erdők határán fekszik.", "A helyi mezőgazdaság központja.", "Gazdag természeti környezettel rendelkezik.", "A kézművesség jellemzi a helyi életet."]
-    },
-    factsAdvanced: {
-      de: ["Historisch bedeutendes Zentrum der Forstwirtschaft", "Ehemalige Minenstadt in der Niari-Region", "Geografisch eingebettet in eine hügelige Waldlandschaft", "Wichtiger Standort für die historische Holzverarbeitung", "Regionale Bedeutung für die ländliche Versorgung", "Strategische Anbindung an die regionale Infrastruktur", "Klimatisch geprägt durch die äquatoriale Zone"]
-    }
+    
+    
   },
     description: {
       de: "Mossendjo ist eine Stadt in der Niari-Region, die historisch eng mit der Forstwirtschaft verbunden ist.",
@@ -475,12 +415,8 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Pool department.", "Located near the national capital.", "Historical focus on local education.", "Key administrative center for the south.", "Resilient community in the Pool area.", "Gateway to southern highland regions."]
     },
-    factsAdvanced: {
-      hu: ["Kinkala a Pool tartomány székhelye.", "Brazzaville közelében található.", "A főváros fontos élelmiszerellátója.", "Mezőgazdasági termelő központ.", "Regionális közigazgatási központ.", "Szerepet játszik az ellátási láncokban."]
-    },
-    factsAdvanced: {
-      de: ["Verwaltungszentrum der Pool-Region", "Strategisch günstige Nähe zur Hauptstadt Brazzaville", "Wichtiges Bindeglied für die urbane Versorgungslogistik", "Zentrum für landwirtschaftliche Koordination im Umland", "Wichtiger Umschlagplatz für Agrarerzeugnisse", "Logistische Bedeutung durch Anbindung an die Hauptstadt", "Klimatisch geprägt durch die südliche Savannen-Übergangszone"]
-    }
+    
+    
   },
     description: {
       de: "Kinkala ist das Verwaltungszentrum der Pool-Region, unweit der Hauptstadt Brazzaville gelegen.",
@@ -513,9 +449,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["Makoua a Cuvette tartományban található.", "Az Egyenlítő közelében fekszik.", "Kapu a trópusi erdőségekhez.", "Kiemelt természeti értékekkel bír.", "Fontos központ a fakitermelésben.", "Növekvő szerep a fenntartható turizmusban."]
     },
-    factsAdvanced: {
-      de: ["Geografisch nahezu exakt auf dem Äquator gelegen", "Lokal bedeutendes Handelszentrum an der Likouala", "Wichtiger Marktplatz für lokale Gemeinschaften", "Klimatisch geprägt durch ganzjährig intensive Feuchtigkeit", "Einzigartige Lage in der tropischen Regenwaldzone", "Regionale Bedeutung für den Austausch im Cuvette-Bereich", "Touristisches Interesse aufgrund der Äquator-Lage"]
-    }
+    
   },
     description: {
       de: "Makoua ist eine Stadt in der Cuvette-Region, die fast genau auf dem Äquator liegt.",
@@ -547,9 +481,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["Djambala a Plateaux tartomány székhelye.", "A Batéké-fennsík egyik központja.", "Szavannás környezet jellemzi.", "Az állattenyésztés a fő megélhetés.", "Közigazgatási és kereskedelmi csomópont.", "A térség központi települése."]
     },
-    factsAdvanced: {
-      de: ["Hauptstadt der administrativen Plateaux-Region", "Geografisch gelegen auf einem Plateau in 800m Höhe", "Klimatisch begünstigte Lage durch kühlere Temperaturen", "Zentrum für spezialisierten Kartoffelanbau", "Regionales Verwaltungs- und Versorgungszentrum", "Wichtiger Ankerpunkt für die Entwicklung der Hochebene", "Landschaftlich geprägt durch weite Hochebenen-Strukturen"]
-    }
+    
   },
     description: {
       de: "Djambala ist die Hauptstadt der Plateaux-Region und liegt auf einer hohen Hochebene.",
@@ -581,9 +513,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["Ewo a Cuvette-Ouest tartomány székhelye.", "Távoli, északi régióban található.", "Sűrű trópusi erdők övezik.", "Fontos kereskedelmi központ a régióban.", "Közigazgatási központja a térségnek.", "Érintetlen természeti környezettel bír."]
     },
-    factsAdvanced: {
-      de: ["Hauptstadt der Cuvette-Ouest-Region", "Tief im Herzen des tropischen Regenwaldes gelegen", "Administrativer Mittelpunkt für abgelegene Waldgebiete", "Zentrale Koordination der nachhaltigen Waldnutzung", "Logistisch herausfordernde geografische Anbindung", "Wichtiger Standort für den Austausch lokaler Gemeinschaften", "Klimatisch geprägt durch hohe tropische Feuchtigkeit"]
-    }
+    
   },
     description: {
       de: "Ewo ist die Hauptstadt der Cuvette-Ouest-Region und liegt im Herzen des tropischen Regenwaldes.",
@@ -735,9 +665,7 @@ export const poiExtraCongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located at major river confluence.", "Primary center for the smoked fish trade.", "Vital transit point for river shipping.", "Daily life centers on the riverbank.", "Trade flows down to Brazzaville.", "Unique settlement pattern on water."]
     },
-    factsAdvanced: {
-      hu: ["Mossaka fontos folyami kikötőváros.", "A Kongó folyó partján fekszik.", "A folyami kereskedelem kulcspontja.", "A halászat a fő gazdasági tevékenység.", "Vízi élővilága rendkívül gazdag.", "Mocsaras környezet jellemzi a vidéket."]
-    }
+    
   },
     description: {
       de: "Mossaka ist eine wichtige Hafenstadt am Zusammenfluss von Kongo und Sangha, bekannt für Fischfang.",

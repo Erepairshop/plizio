@@ -35,12 +35,12 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     parent: "BD-13",
     coords: [90.3958, 24.1844],
     name: { de: "Bangabandhu Sheikh Mujib Safari Park", hu: "Bangabandhu Sheikh Mujib Szafaripark", ro: "Parcul Safari Bangabandhu Sheikh Mujib", en: "Bangabandhu Sheikh Mujib Safari Park" },
-    description: { de: "Ein großer Safaripark in Gazipur, in dem Tiere frei in natürlichen Lebensräumen umherstreifen können.", hu: "Egy nagy szafaripark Gazipurban, ahol az állatok szabadon kószálhatnak természetes élőhelyükön.", ro: "Un mare parc safari în Gazipur, unde animalele pot cutreiera liber în habitate naturale.", en: "A large safari park in Gazipur where animals can roam freely in natural habitats." },
+    description: { de: "Ein großer Safaripark in Gazipur, in dem Tiere frei in natürlichen Lebensräumen umherstreifen können.", hu: "Egy nagy szafaripark Gazipurban, ahol az állatok szabadon kószálhatnak természetes élőhelyükön.", ro: "Un mare parc safari în Gazipur, unde animalele pot cutreiera liber în habitate naturale.", en: "A vast safari park offering visitors a chance to see various wildlife species in a naturalistic habitat." },
     facts: {
       de: ["2013 eröffnet", "Bietet spezielle Tiger- und Löwen-Zonen"],
       hu: ["2013-ban nyílt meg", "Külön tigris- és oroszlánzónákat kínál"],
       ro: ["Deschis în 2013", "Oferă zone speciale pentru tigri și lei"],
-      en: ["Opened in 2013", "Features dedicated tiger and lion zones"]
+      en: ["Wildlife sanctuary", "Educational tourism", "Eco-friendly park", "Regional attraction"]
     }
   },
   {
@@ -77,12 +77,12 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     parent: "BD-13",
     coords: [90.3972, 23.7381],
     name: { de: "Shishu Park", hu: "Shishu Park", ro: "Parcul Shishu", en: "Shishu Park" },
-    description: { de: "Der erste Kinderfreizeitpark in Bangladesch im Herzen von Dhaka, der seit Jahrzehnten junge Besucher erfreut.", hu: "Banglades első gyermekvidámparkja Dakka szívében, amely évtizedek óta szórakoztatja a fiatal látogatókat.", ro: "Primul parc de distracții pentru copii din Bangladesh, situat în inima orașului Dhaka, care încântă tinerii vizitatori de decenii.", en: "The first children's amusement park in Bangladesh, located in the heart of Dhaka, delighting young visitors for decades." },
+    description: { de: "Der erste Kinderfreizeitpark in Bangladesch im Herzen von Dhaka, der seit Jahrzehnten junge Besucher erfreut.", hu: "Banglades első gyermekvidámparkja Dakka szívében, amely évtizedek óta szórakoztatja a fiatal látogatókat.", ro: "Primul parc de distracții pentru copii din Bangladesh, situat în inima orașului Dhaka, care încântă tinerii vizitatori de decenii.", en: "A popular public amusement park in Dhaka, primarily designed for children's entertainment and recreation." },
     facts: {
       de: ["1979 eröffnet", "Bietet klassische Karussells und Fahrgeschäfte"],
       hu: ["1979-ben nyílt meg", "Klasszikus körhintákat és vidámparki játékokat kínál"],
       ro: ["Deschis în 1979", "Oferă carusele și atracții clasice"],
-      en: ["Opened in 1979", "Features classic carousels and amusement rides"]
+      en: ["Child-focused park", "Located in central Dhaka", "Public recreation space", "Popular landmark"]
     }
   },
   {
@@ -91,12 +91,12 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     parent: "BD-13",
     coords: [90.4103, 23.7658],
     name: { de: "Hatirjheel", hu: "Hatirjheel-tó és Park", ro: "Hatirjheel", en: "Hatirjheel" },
-    description: { de: "Ein modernes Erholungsgebiet am Wasser in Dhaka, das bei Einheimischen für abendliche Spaziergänge beliebt ist.", hu: "Egy modern vízparti pihenőövezet Dakkában, amely a helyiek körében népszerű az esti sétákhoz.", ro: "O zonă modernă de recreere pe malul apei în Dhaka, populară printre localnici pentru plimbările de seară.", en: "A modern waterfront recreation area in Dhaka, popular with locals for evening walks." },
+    description: { de: "Ein modernes Erholungsgebiet am Wasser in Dhaka, das bei Einheimischen für abendliche Spaziergänge beliebt ist.", hu: "Egy modern vízparti pihenőövezet Dakkában, amely a helyiek körében népszerű az esti sétákhoz.", ro: "O zonă modernă de recreere pe malul apei în Dhaka, populară printre localnici pentru plimbările de seară.", en: "A major urban development project in Dhaka, providing a scenic lake and recreational space for city residents." },
     facts: {
       de: ["Eröffnet 2013", "Bietet Wasserbusse und bunte Brücken"],
       hu: ["2013-ban nyílt meg", "Vízibuszokat és színes hidakat kínál"],
       ro: ["Deschis în 2013", "Oferă autobuze de apă și poduri colorate"],
-      en: ["Opened in 2013", "Features water buses and colorful bridges"]
+      en: ["Scenic lake project", "Urban recreation hub", "Modern architecture", "Public park"]
     }
   },
   {
@@ -217,12 +217,12 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     parent: "BD-13",
     coords: [90.2872, 23.9351],
     name: { de: "Fantasy Kingdom", hu: "Fantasy Kingdom Vidámpark", ro: "Fantasy Kingdom", en: "Fantasy Kingdom" },
-    description: { de: "Einer der größten und beliebtesten Freizeitparks in Bangladesch, der eine magische Welt für Kinder und Familien bietet.", hu: "Banglades egyik legnagyobb és legnépszerűbb vidámparkja, amely varázslatos világot kínál a gyermekek és családok számára.", ro: "Unul dintre cele mai mari și mai populare parcuri de distracții din Bangladesh, oferind o lume magică pentru copii și familii.", en: "One of the largest and most popular amusement parks in Bangladesh, offering a magical world for children and families." },
+    description: { de: "Einer der größten und beliebtesten Freizeitparks in Bangladesch, der eine magische Welt für Kinder und Familien bietet.", hu: "Banglades egyik legnagyobb és legnépszerűbb vidámparkja, amely varázslatos világot kínál a gyermekek és családok számára.", ro: "Unul dintre cele mai mari și mai populare parcuri de distracții din Bangladesh, oferind o lume magică pentru copii și familii.", en: "An amusement and theme park located on the outskirts of Dhaka, offering various rides and attractions." },
     facts: {
       de: ["2002 eröffnet", "Bietet Achterbahnen und einen Wasserpark"],
       hu: ["2002-ben nyílt meg", "Hullámvasutakat és víziparkot kínál"],
       ro: ["Deschis în 2002", "Oferă montagne rousse și un parc acvatic"],
-      en: ["Opened in 2002", "Features roller coasters and a water park"]
+      en: ["Major theme park", "Family destination", "Extensive park facilities", "Popular weekend spot"]
     }
   },
   {
@@ -231,12 +231,12 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     parent: "BD-13",
     coords: [90.2743, 24.0321],
     name: { de: "Nandan Park", hu: "Nandan Park", ro: "Parcul Nandan", en: "Nandan Park" },
-    description: { de: "Ein großer Vergnügungs- und Wasserpark in Gazipur, der an heißen Tagen eine willkommene Abkühlung für Familien bietet.", hu: "Nagy vidám- és vízipark Gazipurban, amely a forró napokon kellemes felfrissülést nyújt a családok számára.", ro: "Un mare parc de distracții și acvatic în Gazipur, care oferă o răcorire binevenită familiilor în zilele toride.", en: "A large amusement and water park in Gazipur that offers a welcome cool-down for families on hot days." },
+    description: { de: "Ein großer Vergnügungs- und Wasserpark in Gazipur, der an heißen Tagen eine willkommene Abkühlung für Familien bietet.", hu: "Nagy vidám- és vízipark Gazipurban, amely a forró napokon kellemes felfrissülést nyújt a családok számára.", ro: "Un mare parc de distracții și acvatic în Gazipur, care oferă o răcorire binevenită familiilor în zilele toride.", en: "A well-known amusement park offering diverse rides and water-based activities for families." },
     facts: {
       de: ["Eröffnet im Jahr 2003", "Bekannt für sein großes Wellenbad"],
       hu: ["2003-ban nyílt meg", "Nagy hullámmedencéjéről ismert"],
       ro: ["Deschis în 2003", "Cunoscut pentru marea sa piscină cu valuri"],
-      en: ["Opened in 2003", "Known for its large wave pool"]
+      en: ["Amusement park", "Water park activities", "Family-friendly", "Recreational site"]
     }
   },
   {

@@ -21,12 +21,8 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Former capital of the Ouaddaï Empire.", "Ruins date back to the 17th and 18th centuries.", "Features the stone palace of the Ouaddaï sultans.", "Located in the eastern Ouaddaï region.", "Abandoned due to persistent water shortages in the area.", "Represents the zenith of Ouaddaï architecture."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Einstiges Machtzentrum des Wadai-Sultanats", "Palastruinen aus dem 17. Jahrhundert", "Wichtigster Knotenpunkt im Trans-Sahara-Handel", "Sitz der Wadai-Sultane für Jahrhunderte", "UNESCO-Welterbe-Kandidat für kulturelle Bedeutung", "Architektonisches Zeugnis islamischer Baukunst in Zentralafrika"]
-    },
+    
+    
     description: {
       de: "Die Überreste der ehemaligen Hauptstadt des Wadai-Sultanats, bekannt für ihren Palast und ihre Moschee.",
       hu: "A Wadai Szultanátus egykori fővárosának maradványai, amely palotájáról és mecsetéről ismert.",
@@ -59,12 +55,8 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Historic capital of the powerful Kanem Empire.", "Central hub for trans-Saharan commerce for centuries.", "Key administrative center of the Kanem-Bornu state.", "Located in the fertile grasslands near Lake Chad.", "Symbolizes the medieval military power of Kanem.", "Site of intense archaeological research on Sahelian history."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Mächtige Hauptstadt des Kanem-Reiches im Mittelalter", "Politisches und wirtschaftliches Zentrum des 11. Jahrhunderts", "Kontrollpunkt der wichtigen Handelsrouten Afrikas", "Archäologisch wertvolle Stätte für die tschadische Geschichte", "Symbol für die Anfänge der staatlichen Macht", "Kulturelles Bindeglied der Sahelzone"]
-    },
+    
+    
     description: {
       de: "Die einstige Hauptstadt des Kanem-Reiches, die im Mittelalter ein mächtiges politisches Zentrum war.",
       hu: "A Kanem Birodalom egykori fővárosa, amely a középkorban hatalmas politikai központ volt.",
@@ -96,12 +88,8 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Former capital of the ancient Sao civilization.", "Famous for unique terracotta and clay artifact findings.", "Known for its distinct traditional clay architecture.", "Located near the modern capital, N'Djamena.", "Preserves the artistic legacy of the early Sao society.", "Acts as a cultural museum for pre-colonial history."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Traditionelles Dorf der antiken Sao-Zivilisation", "Ehemalige Hauptstadt mit jahrhundertealter Geschichte", "Berühmt für handbemalte Lehmarchitektur", "Zentrum der traditionellen Töpferei und Kunst", "Ganzheitliches Museum für tschadische Kultur", "Wichtiger Ort zum Verständnis vorislamischer Epochen"]
-    },
+    
+    
     description: {
       de: "Ein traditionelles Dorf der Sao-Zivilisation, berühmt für seine farbenfrohe Architektur und Töpferei.",
       hu: "A Sao civilizáció hagyományos faluja, amely színes építészetéről és fazekasságáról híres.",
@@ -133,12 +121,8 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Important regional center in the Kanem area.", "Strategically located on ancient Saharan trade routes.", "Associated with the sultanates that followed the Kanem Empire.", "Key administrative hub for western Chadian populations.", "Historically bridged nomadic desert and settled farmers.", "Maintains a strong regional cultural heritage."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Historischer Sitz des Fitri-Sultanats", "Gelegen am strategisch wichtigen Fitri-See", "Zentraler Ort für religiöses und administratives Leben", "Historische Bedeutung als Handels- und Verwaltungsstadt", "Monarchische Traditionen bis in die Gegenwart", "Wichtiger Ankerpunkt der Fitri-Region"]
-    },
+    
+    
     description: {
       de: "Der historische Sitz des Sultanats von Fitri, gelegen am Ufer des Fitri-Sees.",
       hu: "A Fitri Szultanátus történelmi székhelye a Fitri-tó partján.",
@@ -170,12 +154,8 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Site of the discovery of 'Sahelanthropus tchadensis'.", "Home to 'Toumaï', a 7-million-year-old fossil skull.", "Revolutionized scientific theories of human evolution.", "Located in the Djurab Desert of northern Chad.", "A premier landmark for global anthropological study.", "Evidence of ancient environments before desertification."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Weltweit bedeutende paläontologische Fundstätte", "Discovery-Ort des Hominiden-Schädels 'Abel'", "Nachweis der Existenz früher Hominiden vor 3 Mio. Jahren", "Einstige fruchtbare Landschaft inmitten der heutigen Djourab-Wüste", "Wissenschaftlicher Meilenstein für die Menschheitsgeschichte", "Detaillierte Einblicke in die frühe Evolution"]
-    },
+    
+    
     description: {
       de: "Eine weltweit bedeutende paläontologische Ausgrabungsstätte in der Djourab-Wüste.",
       hu: "Világszinten jelentős őslénytani ásatási terület a Djourab-sivatagban.",
@@ -207,12 +187,8 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Important fossil-rich locality in the Djurab Desert.", "Provides extensive data on ancient Sahelian biodiversity.", "Helps reconstruct ancient environments for early hominids.", "Major site for studying the transition to the Sahara.", "Collaborative site for international scientific research.", "Essential for dating early African evolutionary contexts."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Fundort von 'Toumaï' (Sahelanthropus tchadensis)", "Ältester bekannter Vorfahre des Menschen (ca. 7 Mio. J.)", "Globale wissenschaftliche Sensation aus der Sahara", "Beweis für einst günstige ökologische Bedingungen", "Fundamentaler Beitrag zum Verständnis unserer Herkunft", "Pilgerstätte für die paläontologische Forschung"]
-    },
+    
+    
     description: {
       de: "Der Fundort von 'Toumaï', dem ältesten bekannten Vorfahren der Menschheit.",
       hu: "A 'Toumaï' néven ismert legrégebbi emberi ős megtalálási helye.",
@@ -244,12 +220,8 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Ancient village with ties to early Sao history.", "Known for traditional defensive walls and architecture.", "Located strategically along the Chari River.", "Site of archaeological discoveries of ancient burial mounds.", "Historically key point for river-based defense and trade.", "Provides insights into ancient riverine social structures."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Antike Siedlung der Sao-Kultur mit Erdwällen", "Historische Lehmbauten als architektonische Zeugnisse", "Verteidigungsstrukturen gegen Angriffe", "Zentraler Ort für archäologische Erforschungen", "Einblick in die Organisation vorislamischer Gesellschaften", "Zeugnis der Eisenzeit am Tschadsee"]
-    },
+    
+    
     description: {
       de: "Eine antike Siedlungsstätte der Sao-Kultur mit beeindruckenden Erdwällen.",
       hu: "A Sao kultúra ősi települése lenyűgöző földsáncokkal.",
@@ -281,12 +253,8 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Multi-layered archaeological site near N'Djamena.", "Reveals long-term sequences of regional occupation.", "Key evidence for the Sao and subsequent regional cultures.", "Important for understanding the timeline of Sahelian history.", "Provides crucial stratigraphic data for the region.", "Demonstrates continuous human activity along the Chari."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Archäologischer Siedlungshügel mit jahrhundertelanger Geschichte", "Kontinuierliche Besiedlung durch die Sao-Zivilisation", "Fundort von kunstvollen Terrakotta-Figuren", "Datierung bis in das 5. Jahrhundert vor Christus", "Größte und am dichtesten besiedelte Fundstelle der Region", "Wichtiger Schlüssel zur Erforschung der Sao-Gesellschaft"]
-    },
+    
+    
     description: {
       de: "Ein archäologischer Siedlungshügel, der über Jahrhunderte von der Sao-Zivilisation bewohnt wurde.",
       hu: "Régészeti településdomb, amelyet évszázadokon át a Sao civilizáció lakott.",
@@ -318,12 +286,8 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Site indicating prehistoric seasonal nomad occupation.", "Evidence of ancient tool-use in the Batha plains.", "Key locality for studying early pastoral migration routes.", "Reflects the long history of Chadian nomadic society.", "Provides data on early adaptation to Sahelian climates.", "Shows centuries of movement in the central Sahel."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Bedeutender Fundort der Sao-Kultur", "Reich an antiker Keramik", "Teil eines Netzwerkes befestigter Siedlungen", "Wichtige Zeugnisse der Eisenzeit", "Strategische Nähe zum Schari-Fluss", "Einblick in soziale Hierarchien der Sao"]
-    },
+    
+    
     description: {
       de: "Ein bedeutender archäologischer Fundplatz der Sao-Kultur im Chari-Baguirmi-Gebiet.",
       hu: "A Sao kultúra jelentős régészeti lelőhelye a Chari-Baguirmi területen.",
@@ -355,12 +319,8 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Historical political center for central Chadian sultanates.", "Significant site for studying regional defense strategies.", "Provides evidence of complex pre-colonial social structures.", "Historically controlled vital local resources.", "Illustrates the governance style of small regional states.", "Key locality for central African political history."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Bekannt für große, kunstvolle Urnenbestattungen", "Wichtiger Ort für das kulturelle Erbe der Kotoko", "Bedeutende Funde von Bronzearbeiten", "Beispiel für vorislamische Siedlungsstrukturen", "Einblick in die spirituellen Riten jener Ära", "Schlüssel für das Verständnis kultureller Kontinuität"]
-    },
+    
+    
     description: {
       de: "Eine weitere historische Ausgrabungsstätte der rätselhaften Sao-Riesen im Tschad.",
       hu: "A titokzatos Sao óriások egy másik történelmi ásatási helyszíne Csádban.",
@@ -391,9 +351,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Einzigartige lebensgroße Felsgravuren", "Weltweit bekannt als die 'tanzenden Frauen' von Ennedi", "Über 3000 Jahre alt", "Symbolik für Fruchtbarkeit in der Antike", "Meisterwerk der frühen Wüstenkunst", "Einblick in ästhetische Konzepte prähistorischer Menschen"]
-    },
+    
     description: {
       de: "Eine Stätte mit lebensgroßen Felsgravuren, bekannt als die 'tanzenden Frauen' von Ennedi.",
       hu: "Helyszín életnagyságú sziklavésetekkel, amelyeket az Ennedi 'táncoló nőiként' ismernek.",
@@ -424,9 +382,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Steinzeitliche Petroglifen im Tibesti-Gebirge", "Darstellungen, die eine einst blühende Savanne zeigen", "Zeugnis bedeutender klimatischer Veränderungen", "Szenen von Jägern und Wildtieren", "Tausende Jahre alte historische Dokumente", "Wichtige Quelle für die Klimaforschung"]
-    },
+    
     description: {
       de: "Steinzeitliche Petroglyphen im Tibesti-Gebirge, die eine einstige Savannenlandschaft zeigen.",
       hu: "Kőkorszaki sziklavésetek a Tibeszti-hegységben, amelyek egykori szavanna tájat ábrázolnak.",
@@ -457,9 +413,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Heilige Stätte der Tubu-Nomaden", "Historischer Treffpunkt und Handelsraststätte", "Bekannt für die medizinische Bedeutung der Thermen", "Zentraler sozialer Ankerpunkt im Tibesti", "Beispiel für die Anpassung an extreme Umgebungen", "Jahrhundertealte Tradition der Quellennutzung"]
-    },
+    
     description: {
       de: "Vulkanische Thermalquellen im Tibesti, die seit Jahrhunderten von den Tubu-Nomaden genutzt werden.",
       hu: "Vulkáni hévízforrások a Tibesztiben, amelyeket évszázadok óta használnak a tubu nomádok.",
@@ -490,9 +444,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Spektakuläre Sammlung prähistorischer Felsmalereien", "Enthält Szenen von Jagd und kriegerischen Handlungen", "Leuchtende Pigmente aus der Frühzeit", "Wichtiger Teil des Ennedi-Kulturerbes", "Intime Einblicke in antike Lebenswelten", "Weltweit bedeutende historische Kunststätte"]
-    },
+    
     description: {
       de: "Eine spektakuläre Ansammlung prähistorischer Felsmalereien im Herzen der Sahara.",
       hu: "Történelem előtti sziklarajzok látványos gyűjteménye a Szahara szívében.",
@@ -523,9 +475,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Archäologische Fundstätte mit Bildern aus verschiedenen Epochen", "Darstellungen von Rindern und Hirtenleben", "Kulturelle Brücke zum Wüstenleben", "Reichhaltige Funde an historischen Werkzeugen", "Dokumentation menschlicher Besiedlung im Wandel", "Schlüsselstelle für die Forschung zur Anpassung"]
-    },
+    
     description: {
       de: "Archäologische Stätte nahe der Oase Fada mit Felsmalereien aus verschiedenen Epochen.",
       hu: "Régészeti lelőhely Fada oázisa közelében, különböző korszakokból származó sziklarajzokkal.",
@@ -556,9 +506,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Historische Hauptstadt des Baguirmi-Königreichs", "Gegründet im Jahr 1513", "Palastruinen und Stadtmauerreste erhalten", "Einstiges Zentrum regionaler Handelsmacht", "Symbol für traditionelle tschadische Herrschaft", "Bedeutendes Ziel für die historische Forschung"]
-    },
+    
     description: {
       de: "Die historischen Überreste der Hauptstadt des Baguirmi-Königreichs aus dem 16. Jahrhundert.",
       hu: "A Baguirmi Királyság 16. századi fővárosának történelmi maradványai.",
@@ -589,9 +537,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Kulturelles Herz des Wadai-Sultanats", "Historische und aktuelle Residenz der Sultane", "Prächtige islamische Architektur", "Sitz der Wadai-Tradition und Autorität", "Zentrum des wadaiischen Adels", "Bedeutendes monumentales Wahrzeichen"]
-    },
+    
     description: {
       de: "Der königliche Palastbezirk in Abéché, der das kulturelle Herz des Wadai-Sultanats darstellt.",
       hu: "A királyi palotanegyed Abéchében, amely a Wadai Szultanátus kulturális szíve.",
@@ -622,9 +568,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Heilige Grabstätten der Herrscher des Kanem-Reiches", "Historische Grabmonumente mit spiritueller Bedeutung", "Symbol für die imperiale Macht Kanems", "Ankerpunkt für kulturellen Stolz", "Verbindung zwischen heute und kaiserlichen Vorfahren", "Bedeutender Ort im Norden des Landes"]
-    },
+    
     description: {
       de: "Heilige Grabstätten der Herrscher des Kanem-Reiches, ein spiritueller Ort im Norden.",
       hu: "A Kanem Birodalom uralkodóinak szent temetkezési helye, spirituális hely északon.",
@@ -656,9 +600,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Wichtige historische Karawanenroute", "Verbindungsachse zwischen Tschadsee und Norden", "Förderte die Ausbreitung des Islam", "Existenz von Oasen als kulturelle Ruhepunkte", "Historisches Archiv des Trans-Sahara-Handels", "Zeugnis historischer Handelsbewegungen"]
-    },
+    
     description: {
       de: "Eine historische Karawanenroute durch ein trockenes Tal, das einst den Tschadsee mit dem Norden verband.",
       hu: "Történelmi karavánút egy száraz völgyön át, amely egykor a Csád-tavat kötötte össze az északkal.",
@@ -689,9 +631,7 @@ export const poiExtraChadHistoryV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Administrativer und spiritueller Sitz des Sultans", "Bewahrer des Kanem-Erbes", "Zentrum für den Adel und die Tradition", "Symbol für Kontinuität und Stabilität", "Wichtiger Ort für die Identität Kanems", "Lebendiges Beispiel für die Kraft traditioneller Institutionen"]
-    },
+    
     description: {
       de: "Der administrative und spirituelle Sitz des Sultans von Kanem in der historischen Stadt Mao.",
       hu: "A kanemi szultán közigazgatási és spirituális székhelye Mao történelmi városában.",

@@ -32,18 +32,8 @@ export const poiExtraChinaEconomicV2: POI[] = [
       ro: ["Parte a portului Shenzhen", "Port cu apă adâncă", "Partener comercial major pentru SUA și Europa"],
       en: ["Part of the Port of Shenzhen", "Deep-water port", "Major trade partner for the US and Europe"]
     }, image: "/poi-images/yantian-port-economic-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Hafen Yantian in Shenzhen ist einer der weltweit bedeutendsten Tiefwasser-Containerterminals und ein entscheidendes Bindeglied in der globalen Lieferkette. Er liegt im Osten von Shenzhen und ist Teil des Hafens von Shenzhen, der zu den verkehrsreichsten der Welt gehört. Yantian hat sich auf den Fernhandel, insbesondere mit Nordamerika und Europa, spezialisiert und fertigt die größten Containerschiffe der Welt ab. Dank modernster Automatisierung und intelligenter Logistiksysteme setzt der Hafen Maßstäbe in Sachen Effizienz und Umschlaggeschwindigkeit. Yantian spielt eine zentrale Rolle für die Exportwirtschaft des Perlflussdeltas, da ein erheblicher Teil der in China produzierten Elektronik und Konsumgüter über diesen Hafen den Weltmarkt erreicht. Die kontinuierliche Erweiterung und technologische Aufrüstung sichern Yantians Position als globaler Logistik-Hub.",
-      hu: "A sencseni Yantian kikötő a világ egyik legjelentősebb mélyvízi konténerterminálja és a globális ellátási lánc döntő fontosságú láncszeme. Sencsen keleti részén található, és része a sencseni kikötőkomplexumnak, amely a világ legforgalmasabbjai közé tartozik. Yantian a távolsági kereskedelemre, különösen az Észak-Amerikába és Európába irányuló forgalomra szakosodott, és képes a világ legnagyobb konténerszállító hajóinak fogadására is. A legmodernebb automatizációnak és intelligens logisztikai rendszereknek köszönhetően a kikötő mértékadó az érdékonyság és az átrakodási sebesség terén. Központi szerepet játszik a Gyöngy-folyó deltájának exportgazdaságában, mivel a Kínában gyártott elektronikai és fogyasztási cikkek jelentős része ezen a kapun keresztül jut el a világpiacra.",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Yantian Port ist einer der weltweit größten Single-Terminal-Containerhäfen.", "Er verfügt über eine natürliche Wassertiefe von bis zu 17,6 Metern.", "Der Hafen fertigt über 100 wöchentliche Liniendienste weltweit ab.", "Yantian ist ein Pionier beim Einsatz von automatisierten Portalkranen in China.", "Ein Großteil der US-Importe aus China wird über Yantian abgewickelt.", "Der Hafen hat eine Kapazität von über 13 Millionen TEU (20-Fuß-Standardcontainer) pro Jahr.", "Yantian ist direkt an das nationale Schienennetz angebunden (Intermodalverkehr).", "Der Hafen setzt massiv auf 'Green Port'-Technologien zur Emissionsreduzierung."],
-      hu: ["Yantian a világ egyik legnagyobb egy terminálból álló konténerkikötője.", "Természetes vízmélysége helyenként eléri a 17,6 métert.", "Hetente több mint 100 menetrend szerinti járatot szolgál ki világszerte.", "Úttörő szerepet játszott az automatizált portáldaruk alkalmazásában Kínában.", "Az USA Kínából származó importjának jelentős része Yantianon keresztül érkezik.", "Éves kapacitása meghaladja a 13 millió TEU-t (szabvány konténer).", "Közvetlen vasúti összeköttetéssel rendelkezik a nemzeti hálózathoz.", "Kiemelt hangsúlyt fektet a \\\"zöld kikötő\\\" technológiákra a károsanyag-kibocsátás csökkentése érdekében."],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "zhanjiang-port-economic-v2",
@@ -75,18 +65,8 @@ export const poiExtraChinaEconomicV2: POI[] = [
       ro: ["Cel mai important port pentru țiței din sudul Chinei", "Facilități logistice moderne", "Conexiune la rețeaua feroviară"],
       en: ["Southern China's main crude oil port", "Modern logistics facilities", "Connected to the rail network"]
     }, image: "/poi-images/zhanjiang-port-economic-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Hafen von Zhanjiang im Südwesten der Provinz Guangdong ist ein strategisch wichtiger Seehafen und ein Tor zum Südchinesischen Meer. Aufgrund seiner tiefen natürlichen Wasserwege ist Zhanjiang ideal für den Umschlag von Massengütern wie Eisenerz, Rohöl und Kohle geeignet. Er dient als wichtiges logistisches Drehkreuz für Südwestchina und die Provinzen Yunnan, Guizhou und Sichuan. In den letzten Jahren hat sich Zhanjiang zu einem Zentrum für die petrochemische Industrie und die Stahlproduktion entwickelt, was den Hafen zu einem der wachstumsstärksten Chinas macht. Neben der wirtschaftlichen Bedeutung ist der Hafen auch ein strategischer Stützpunkt der Südflotte der chinesischen Marine. Die Lage an der schmalsten Stelle zwischen dem chinesischen Festland und der Insel Hainan macht Zhanjiang zudem zu einem entscheidenden Punkt für den Inlandsverkehr und die regionale Integration.",
-      hu: "Zhanjiang kikötője Kuangtung tartomány délnyugati részén egy stratégiailag kiemelt fontosságú tengeri kapu a Dél-kínai-tenger felé. Mély, természetes csatornáinak köszönhetően Zhanjiang ideális az ömlesztett áruk, például vasérc, kőolaj és szén kezelésére. Fontos logisztikai csomópontként szolgál Délnyugat-Kína, valamint Jünnan, Kujcsou és Szecsuán tartományok számára. Az elmúlt években Zhanjiang a petrolkémiai ipar és az acélgyártás központjává fejlődött, ami a kikötőt Kína egyik leggyorsabban növekvő tengeri termináljává tette. Gazdasági jelentősége mellett a kikötő a kínai haditengerészet déli flottájának is stratégiai bázisa. A kínai szárazföld és Hajnan-sziget közötti legszűkebb ponton való elhelyezkedése kulcsfontosságúvá teszi a regionális integráció szempontjából.",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Zhanjiang ist der tiefste natürliche Hafen in Südchina.", "Er ist ein wichtiger Knotenpunkt für den Handel mit Südostasien, Afrika und Europa.", "Der Hafen beherbergt eines der größten Terminals für Eisenerz-Umschlag in China.", "Zhanjiang ist der Endpunkt wichtiger Rohöl-Pipelines für Südchina.", "Der Hafen wurde ursprünglich im späten 19. Jahrhundert von den Franzosen als Pachtgebiet ausgebaut.", "Zhanjiang ist ein Zentrum für den Getreideimport und die Futtermittelproduktion.", "Der Hafen verfügt über moderne 400.000-Tonnen-Liegeplätze für Erztanker.", "Zhanjiang spielt eine Schlüsselrolle in der 'Belt and Road'-Initiative als maritimer Hub."],
-      hu: ["Zhanjiang Dél-Kína legmélyebb természetes kikötője.", "Fontos csomópont a Délkelet-Ázsiával, Afrikával és Európával folytatott kereskedelemben.", "Itt található Kína egyik legnagyobb vasérc-átrakodó terminálja.", "Dél-Kína legfontosabb kőolaj-vezetékeinek végpontja.", "A 19. század végén a franciák kezdték el kiépíteni bérelt területként.", "A gabonaimport és a takarmánygyártás egyik meghatározó központja.", "Modern, 400 000 tonnás horgonyzóhelyekkel rendelkezik az érchajók számára.", "Kulcsszerepet játszik a tengeri Selyemút kezdeményezésben mint logisztikai hub."],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "shenhua-shendong-coal-mine-economic-v2",

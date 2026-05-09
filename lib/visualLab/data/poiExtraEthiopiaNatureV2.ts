@@ -17,15 +17,8 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
     factsAdvanced: {
       hu: ["Helyi neve: Tis Abay ('Dohányzó víz')", "A Kék-Nílus egyik fő látványossága", "A Tana-tóból eredő folyón fekszik", "Változó vízhozam az évszakok szerint", "Gazdag élővilág a környéken", "Jelentős turisztikai célpont"]
     },
-    factsAdvanced: {
-      de: ["Fallhöhe: bis zu 45 Meter", "Breite: bis zu 400 Meter in der Regenzeit", "Name: Tis Issat (rauchendes Wasser)", "Lage: Nähe der Stadt Bahir Dar", "Bedeutung: Wichtige Touristenattraktion"]
-    },
-    factsAdvanced: {
-      de: ["Lokaler Name 'Tis Issat' bedeutet 'Rauch des Feuers'.", "Der Wasserfall stürzt in eine bis zu 45 Meter tiefe Schlucht.", "Die Breite kann in der Regenzeit bis zu 400 Meter erreichen.", "Ein Teil des Wassers wird für ein nahegelegenes Wasserkraftwerk genutzt.", "Das Gebiet ist ein wichtiges Ziel für den Ökotourismus.", "Das umliegende Gestein besteht primär aus vulkanischem Basalt."],
-      hu: ["A 'Tis Issat' név jelentése 'A tűz füstje'.", "A vízesés akár 45 méter magasból is alázuhanhat.", "A vízfüggöny szélessége az esős évszakban elérheti a 400 métert.", "A víz egy részét közeli vízerőműbe vezetik el.", "A régió kiemelt ökoturisztikai célpont.", "A vízesés környékét vulkanikus bazaltkőzet alkotja."],
-      ro: ["Numele 'Tis Issat' înseamnă 'Fumul focului'.", "Cascada se prăbușește în defileu de la o înălțime de până la 45 metri.", "Lățimea poate ajunge la 400 metri în sezonul ploios.", "O parte din apă este derivată pentru o hidrocentrală din apropiere.", "Zona este o destinație importantă pentru ecoturism.", "Roca înconjurătoare este formată din bazalt vulcanic."],
-      en: ["The local name 'Tis Issat' translates to 'Smoke of Fire'.", "The falls plunge into a gorge up to 45 meters deep.", "During the rainy season, the falls can reach 400 meters in width.", "Water is diverted for a nearby hydroelectric power station.", "The area is a significant destination for ecotourism.", "The surrounding geology is primarily volcanic basalt."]
-    },
+    
+    
     description: { de: "Ein gewaltiger Wasserfall am Blauen Nil.", hu: "Hatalmas vízesés a Kék-Níluson.", ro: "O cascadă masivă pe Nilul Albastru.", en: "A massive waterfall on the Blue Nile." },
     facts: {
       de: ["Lokaler Name: Tis Issat.", "Bedeutet 'Rauch des Feuers'."],
@@ -48,15 +41,8 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
     factsAdvanced: {
       hu: ["Etiópia legnagyobb tava", "A Kék-Nílus forrásvidéke", "Középkori kolostorok szigeteken", "Gazdag madárvilág és ökoszisztéma", "Létfontosságú a halászatnak", "Kulturális és vallási jelentőség"]
     },
-    factsAdvanced: {
-      de: ["Fläche: ca. 3000 Quadratkilometer", "Status: UNESCO-Biosphärenreservat", "Quelle: Blauer Nil", "Kultur: Historische Klosterinseln", "Bedeutung: Hauptwasserspeicher des Landes"]
-    },
-    factsAdvanced: {
-      de: ["Fläche schwankt saisonal zwischen 3.000 und 3.600 km².", "Es ist der Ursprung des Blauen Nils.", "Auf den Inseln liegen über 20 historische Klöster.", "Die durchschnittliche Tiefe beträgt etwa 8 bis 14 Meter.", "Das Becken entstand durch vulkanische Aktivität im Tertiär.", "Der See ist ein wichtiges Zentrum der lokalen Binnenfischerei."],
-      hu: ["A terület szezonálisan 3000 és 3600 km² között ingadozik.", "Ez a Kék-Nílus fő forrása.", "A szigeteken több mint 20 történelmi kolostor található.", "Az átlagos mélység 8 és 14 méter között van.", "A medence harmadidőszaki vulkanikus tevékenységgel keletkezett.", "A tó a helyi belvízi halászat fontos központja."],
-      ro: ["Suprafața variază sezonier între 3.000 și 3.600 km².", "Este principala sursă a Nilului Albastru.", "Pe insule se găsesc peste 20 de mănăstiri istorice.", "Adâncimea medie este între 8 și 14 metri.", "Bazinul s-a format prin activitate vulcanică în Terțiar.", "Lacul este un centru important pentru pescuitul local."],
-      en: ["Surface area fluctuates seasonally between 3,000 and 3,600 km².", "It is the primary source of the Blue Nile.", "Over 20 historical monasteries are located on its islands.", "Average depth ranges from 8 to 14 meters.", "The basin formed due to volcanic activity in the Tertiary.", "The lake is a major hub for local inland fishing."]
-    },
+    
+    
     description: { de: "Der größte See Äthiopiens und Quelle des Blauen Nils.", hu: "Etiópia legnagyobb tava, a Kék-Nílus forrása.", ro: "Cel mai mare lac din Etiopia și sursa Nilului Albastru.", en: "Ethiopia's largest lake and source of the Blue Nile." },
     facts: {
       de: ["Fläche: ca. 3.000 km².", "Heimat vieler Klöster."],
@@ -83,12 +69,8 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
     factsAdvanced: {
       hu: ["UNESCO Világörökségi helyszín", "Drámai meredélyek és éles csúcsok", "Gelada páviánok otthona", "Ritka, endemikus állatfajok", "Változatos magashegyi klíma", "Híres túrázási célpont"]
     },
-    descriptionAdvanced: {
-      de: "Das Simien-Gebirge wird oft als eines der spektakulärsten Hochgebirge Afrikas bezeichnet. Mit seinen tiefen Schluchten und hohen Plateaus bietet es Heimat für seltene endemische Arten wie den Äthiopischen Wolf und den Dschelada-Pavian. Ein Paradies für Trekking-Begeisterte. Biologie K7 – Endemismus in Äthiopien."
-    },
-    factsAdvanced: {
-      de: ["Status: UNESCO-Welterbe", "Höchster Gipfel: Ras Dashen", "Fauna: Heimat des Äthiopischen Wolfs", "Besonderheit: Einzigartige geologische Erosion", "Landschaft: Tief eingeschnittene Täler"]
-    }, image: "/poi-images/simien-mountains-nature-v2.webp"},
+    
+     image: "/poi-images/simien-mountains-nature-v2.webp"},
   {
     id: "awash-river-nature-v2",
     type: "river",
@@ -108,12 +90,8 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
     factsAdvanced: {
       hu: ["Az etiópiai Rift-völgy fő folyója", "Az Awash Nemzeti Park mentén", "Vadvilág megfigyelőhely", "Létfontosságú az öntözéses gazdálkodáshoz", "Száraz éghajlatú övezeteken halad át", "Gazdag élővilág"]
     },
-    descriptionAdvanced: {
-      de: "Der Awash ist ein bedeutender Fluss in Zentraläthiopien, der in einer endorheischen Senke endet. Sein Einzugsgebiet ist nicht nur für die Landwirtschaft entscheidend, sondern auch für die Paläontologie von großer Bedeutung, da hier wichtige Hominidenfunde entdeckt wurden. Geschichte K6 – Wiege der Menschheit."
-    },
-    factsAdvanced: {
-      de: ["Länge: ca. 1200 Kilometer", "Bedeutung: Landwirtschaftliche Bewässerung", "Paläontologie: Fundort von 'Lucy'", "Region: Zentraläthiopien", "Ende: Abe-See"]
-    }, image: "/poi-images/awash-river-nature-v2.webp"},
+    
+     image: "/poi-images/awash-river-nature-v2.webp"},
   {
     id: "lake-abijatta-nature-v2",
     type: "lake",
@@ -133,12 +111,8 @@ export const poiExtraEthiopiaNatureV2: POI[] = [
     factsAdvanced: {
       hu: ["Sós vizű tó a Rift-völgyben", "Flamingók és vándormadarak otthona", "Az Abijatta-Shalla Nemzeti Park része", "Sajátos kémiai összetételű víz", "Sérülékeny ökoszisztéma", "Fontos madármegfigyelő terület"]
     },
-    descriptionAdvanced: {
-      de: "Der Abijatta-See ist ein flacher Sodasee im Rift Valley, der für seine großen Flamingopopulationen bekannt ist. Aufgrund seiner hohen Alkalität ist er ökologisch hochspezialisiert und bietet ein faszinierendes Naturschauspiel. Biologie K6 – Ökosysteme im Rift Valley."
-    },
-    factsAdvanced: {
-      de: ["Typ: Sodasee", "Lage: Rift Valley", "Fauna: Flamingo-Brutgebiete", "Tiefe: Sehr flach", "Bedeutung: Vogelbeobachtungsgebiet"]
-    }, image: "/poi-images/lake-abijatta-nature-v2.webp"},
+    
+     image: "/poi-images/lake-abijatta-nature-v2.webp"},
   {
     id: "lake-shala-nature-v2",
     type: "lake",

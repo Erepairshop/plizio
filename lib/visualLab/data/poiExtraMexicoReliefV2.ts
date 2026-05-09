@@ -23,60 +23,18 @@ export const poiExtraMexicoReliefV2: POI[] = [
       en: ["The range spans approximately 1,250 km (777 miles) in length.", "Its highest peak is Cerro Mohinora, reaching 3,300 meters (10,827 ft).", "The Copper Canyon system covers over 65,000 square kilometers.", "Formation began during the Laramide orogeny, around 80 million years ago.", "The range is home to over 320 species of resident birds.", "It contains Mexico's largest reserves of timber, primarily pine and oak.", "The name 'Occidental' distinguishes it from the Sierra Madre Oriental to the east.", "Major rivers like the Yaqui, Fuerte, and Santiago have carved its deep canyons."],
       de: ["Das Gebirge entstand vor etwa 80 Millionen Jahren durch vulkanische Aktivitäten.", "Der höchste Gipfel ist der Cerro Mohinora mit einer Höhe von 3.300 Metern.", "Die Kupferschlucht ist teilweise tiefer und weitläufiger als der Grand Canyon in den USA.", "Die Sierra beherbergt die größten Kiefernwälder Mexikos und ist wichtig für die Holzwirtschaft.", "Über 320 Vogelarten sind in den vielfältigen Ökosystemen der Sierra heimisch.", "Die Gebirgskette dient als wichtige Wasserscheide für den Nordwesten des Landes.", "Die berühmte Eisenbahnlinie 'El Chepe' durchquert einen Teil dieses Gebirges."]
     },
-    descriptionAdvanced: {
-      en: "The Sierra Madre Occidental is a massive mountain range system of the North American Cordillera, running 1,250 kilometers from northern Sonora to the Rio Santiago. This range is a product of Cretaceous-Cenozoic volcanic activity, forming a high plateau incised by deep river valleys. Its western slopes facing the Gulf of California are steep and rugged, while the eastern side descends more gently to the Mexican Plateau. The range is a significant climatic divide, separating the wet Pacific coastal plain from the arid interior. It is renowned for its vast biodiversity, hosting a variety of ecosystems from pine-oak forests at high altitudes to tropical dry forests at lower elevations. The Copper Canyon, a series of six interconnected canyons, is one of its most famous features, larger and deeper in parts than the Grand Canyon."
-    },
-    factsAdvanced: {
-      en: ["The range spans approximately 1,250 km (777 miles) in length.", "Its highest peak is Cerro Mohinora, reaching 3,300 meters (10,827 ft).", "The Copper Canyon system covers over 65,000 square kilometers.", "Formation began during the Laramide orogeny, around 80 million years ago.", "The range is home to over 320 species of resident birds.", "It contains Mexico's largest reserves of timber, primarily pine and oak.", "The name 'Occidental' distinguishes it from the Sierra Madre Oriental to the east.", "Major rivers like the Yaqui, Fuerte, and Santiago have carved its deep canyons."]
-    },
-    descriptionAdvanced: {
-      en: "The Sierra Madre Occidental is a massive mountain range system of the North American Cordillera, running 1,250 kilometers from northern Sonora to the Rio Santiago. This range is a product of Cretaceous-Cenozoic volcanic activity, forming a high plateau incised by deep river valleys. Its western slopes facing the Gulf of California are steep and rugged, while the eastern side descends more gently to the Mexican Plateau. The range is a significant climatic divide, separating the wet Pacific coastal plain from the arid interior. It is renowned for its vast biodiversity, hosting a variety of ecosystems from pine-oak forests at high altitudes to tropical dry forests at lower elevations. The Copper Canyon, a series of six interconnected canyons, is one of its most famous features, larger and deeper in parts than the Grand Canyon."
-    },
-    factsAdvanced: {
-      en: ["The range spans approximately 1,250 km (777 miles) in length.", "Its highest peak is Cerro Mohinora, reaching 3,300 meters (10,827 ft).", "The Copper Canyon system covers over 65,000 square kilometers.", "Formation began during the Laramide orogeny, around 80 million years ago.", "The range is home to over 320 species of resident birds.", "It contains Mexico's largest reserves of timber, primarily pine and oak.", "The name 'Occidental' distinguishes it from the Sierra Madre Oriental to the east.", "Major rivers like the Yaqui, Fuerte, and Santiago have carved its deep canyons."]
-    },
-    descriptionAdvanced: {
-      en: "The Sierra Madre Occidental is a massive mountain range system of the North American Cordillera, running 1,250 kilometers from northern Sonora to the Rio Santiago. This range is a product of Cretaceous-Cenozoic volcanic activity, forming a high plateau incised by deep river valleys. Its western slopes facing the Gulf of California are steep and rugged, while the eastern side descends more gently to the Mexican Plateau. The range is a significant climatic divide, separating the wet Pacific coastal plain from the arid interior. It is renowned for its vast biodiversity, hosting a variety of ecosystems from pine-oak forests at high altitudes to tropical dry forests at lower elevations. The Copper Canyon, a series of six interconnected canyons, is one of its most famous features, larger and deeper in parts than the Grand Canyon."
-    },
-    factsAdvanced: {
-      en: ["The range spans approximately 1,250 km (777 miles) in length.", "Its highest peak is Cerro Mohinora, reaching 3,300 meters (10,827 ft).", "The Copper Canyon system covers over 65,000 square kilometers.", "Formation began during the Laramide orogeny, around 80 million years ago.", "The range is home to over 320 species of resident birds.", "It contains Mexico's largest reserves of timber, primarily pine and oak.", "The name 'Occidental' distinguishes it from the Sierra Madre Oriental to the east.", "Major rivers like the Yaqui, Fuerte, and Santiago have carved its deep canyons."]
-    },
-    descriptionAdvanced: {
-      en: "The Sierra Madre Occidental is a massive mountain range system of the North American Cordillera, running 1,250 kilometers from northern Sonora to the Rio Santiago. This range is a product of Cretaceous-Cenozoic volcanic activity, forming a high plateau incised by deep river valleys. Its western slopes facing the Gulf of California are steep and rugged, while the eastern side descends more gently to the Mexican Plateau. The range is a significant climatic divide, separating the wet Pacific coastal plain from the arid interior. It is renowned for its vast biodiversity, hosting a variety of ecosystems from pine-oak forests at high altitudes to tropical dry forests at lower elevations. The Copper Canyon, a series of six interconnected canyons, is one of its most famous features, larger and deeper in parts than the Grand Canyon."
-    },
-    factsAdvanced: {
-      en: ["The range spans approximately 1,250 km (777 miles) in length.", "Its highest peak is Cerro Mohinora, reaching 3,300 meters (10,827 ft).", "The Copper Canyon system covers over 65,000 square kilometers.", "Formation began during the Laramide orogeny, around 80 million years ago.", "The range is home to over 320 species of resident birds.", "It contains Mexico's largest reserves of timber, primarily pine and oak.", "The name 'Occidental' distinguishes it from the Sierra Madre Oriental to the east.", "Major rivers like the Yaqui, Fuerte, and Santiago have carved its deep canyons."]
-    },
-    descriptionAdvanced: {
-      en: "The Sierra Madre Occidental is a massive mountain range system of the North American Cordillera, running 1,250 kilometers from northern Sonora to the Rio Santiago. This range is a product of Cretaceous-Cenozoic volcanic activity, forming a high plateau incised by deep river valleys. Its western slopes facing the Gulf of California are steep and rugged, while the eastern side descends more gently to the Mexican Plateau. The range is a significant climatic divide, separating the wet Pacific coastal plain from the arid interior. It is renowned for its vast biodiversity, hosting a variety of ecosystems from pine-oak forests at high altitudes to tropical dry forests at lower elevations. The Copper Canyon, a series of six interconnected canyons, is one of its most famous features, larger and deeper in parts than the Grand Canyon."
-    },
-    factsAdvanced: {
-      en: ["The range spans approximately 1,250 km (777 miles) in length.", "Its highest peak is Cerro Mohinora, reaching 3,300 meters (10,827 ft).", "The Copper Canyon system covers over 65,000 square kilometers.", "Formation began during the Laramide orogeny, around 80 million years ago.", "The range is home to over 320 species of resident birds.", "It contains Mexico's largest reserves of timber, primarily pine and oak.", "The name 'Occidental' distinguishes it from the Sierra Madre Oriental to the east.", "Major rivers like the Yaqui, Fuerte, and Santiago have carved its deep canyons."]
-    },
-    descriptionAdvanced: {
-      de: "Die Sierra Madre Occidental erstreckt sich als monumentale Bergkette entlang der westlichen Küste Mexikos und bildet das dramatische Rückgrat der Region. Dieses gewaltige Massiv ist geprägt durch tiefe Canyons, unberührte Kiefernwälder und karge Hochebenen, die eine majestätische und wilde Landschaft kreieren. Es fungiert als klimatische Barriere, die den Einfluss des Pazifiks blockiert und so ein einzigartiges Mikroklima für eine außergewöhnliche Pflanzen- und Tierwelt schafft. Die Berge sind zudem Heimat zahlreicher indigener Gruppen, die abseits der Moderne ihre alten Traditionen in den versteckten Tälern pflegen. Für Entdecker bietet diese ungezähmte Gebirgsregion ein raues und unvergessliches Naturabenteuer.",
-      hu: "Sierra Madre Occidental egy figyelemre melto termeszeti taj Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. Kiterjedt hegységrendszer Mexikó nyugati részén, mély kanyonjairól ismert. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Sierra Madre Occidental kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
-      ro: "Sierra Madre Occidental este un lanț muntos spectaculos care se întinde pe mii de kilometri în vestul Mexicului, de-a lungul coastei Oceanului Pacific. Acoperit de păduri dense de pin și stejar, acest masiv reprezintă inima ecologică a regiunii și o barieră naturală impunătoare. Reliefurile sale abrupte ascund faimosul sistem de canioane Barrancas del Cobre, mult mai vast și mai adânc decât Marele Canion din SUA. Munții sunt, de asemenea, căminul istoric al popoarelor indigene precum Tarahumara (Rarámuri), cunoscuți pentru rezistența lor fizică remarcabilă. Geografie K7 — sisteme montane și biodiversitate.",
-      en: "The Sierra Madre Occidental is a massive mountain range system that dominates western Mexico, running parallel to the Pacific coast for approximately 1,500 kilometers. Formed primarily by volcanic activity during the Cenozoic era, this rugged landscape features a series of high plateaus and spectacular canyons, most notably the Copper Canyon (Barrancas del Cobre), which is deeper and larger than the Grand Canyon. The range acts as a significant climatic barrier, capturing moisture from the Pacific and sustaining diverse ecosystems ranging from tropical dry forests at lower elevations to alpine pine-oak forests at the summits. It is a vital region for biodiversity, hosting numerous endemic species, and is the ancestral home of several indigenous groups, including the Tarahumara (Rarámuri), whose culture is deeply intertwined with these formidable mountains."
-    },
-    factsAdvanced: {
-      de: ["Die Bergkette erstreckt sich über fast 1.500 Kilometer von der US-Grenze im Norden bis in den Bundesstaat Jalisco.", "Sie beheimatet das berühmte Kupfercanyon-System, welches noch weitläufiger und tiefer als der Grand Canyon ist.", "Die geologische Formation entstand vor Millionen von Jahren durch massive vulkanische Aktivitäten."],
-      hu: ["Sierra Madre Occidental Mexiko jellegzetes tajformaja.", "A geologiai tortenete sok millio evre nyulik vissza.", "A terulet szamos novenyfajnak es allatfajnak biztosit elohelyet.", "Turistautak vezetnek a legszebb kilatopontokhoz.", "Az eghajlati sajatossagok meghatarozzak a regio noveny vilagat.", "Sierra Madre Occidental kedvelt celpont termeszetmegfigyeleshez es fenykepezeshez.", "A tajat vedett teruletek oltalmazzak."],
-      ro: [
-        "Lanțul muntos se întinde pe o lungime de aproximativ 1.500 de kilometri.",
-        "Cel mai înalt vârf atinge peste 3.300 de metri altitudine.",
-        "Canioanele Barrancas del Cobre au o adâncime maximă de aproape 1.800 de metri.",
-        "Regiunea găzduiește peste 200 de specii de păsări și o mare diversitate de mamifere.",
-        "Eroziunea vulcanică și fluvială de-a lungul a milioane de ani a modelat acest relief dramatic."
-      ],
-      en: [
-        "The range spans from the Arizona border in the north to the Trans-Mexican Volcanic Belt in the south.",
-        "It covers roughly 289,000 square kilometers, representing about 15% of Mexico's total land area.",
-        "The highest peak is Cerro Gordo in Durango, reaching an elevation of 3,340 meters (10,958 feet).",
-        "The Sierra Madre Occidental contains some of Mexico's most important mineral deposits, including silver and gold.",
-        "The region features a unique 'Madrean' sky island ecosystem with high levels of floral and faunal endemism."
-      ]
-    }, image: "/poi-images/sierra-madre-occidental-relief-v2.webp"},
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     image: "/poi-images/sierra-madre-occidental-relief-v2.webp"},
   {
     id: "sierra-madre-oriental-relief-v2",
     type: "mountain",
@@ -98,54 +56,16 @@ export const poiExtraMexicoReliefV2: POI[] = [
       en: ["The range is approximately 1,000 km (620 miles) long.", "Cerro El Potosí is its highest peak at 3,720 meters (12,205 ft).", "It is primarily composed of sedimentary rock from the Cretaceous period.", "The average elevation is around 2,200 meters (7,200 ft).", "It is considered the southern extension of the Rocky Mountains of North America.", "The Huasteca region on its eastern flank is known for its waterfalls and rich biodiversity.", "The range is a classic example of a fold-and-thrust belt mountain system.", "The city of Monterrey is located in a valley completely surrounded by the Sierra Madre Oriental."],
       de: ["Die Berge wurden während der Laramischen Gebirgsbildung zur gleichen Zeit wie die Rocky Mountains gehoben.", "Der Cerro El Potosí ist mit 3.720 Metern der höchste Punkt des Gebirgszuges.", "Besteht überwiegend aus Sedimentgesteinen aus der Kreidezeit, was viele Fossilienfunde ermöglicht.", "Die Huasteca-Region an den Osthängen ist berühmt für ihr türkisblaues Wasser und Wasserfälle.", "Monterrey liegt in einem Tal, das fast vollständig von den Ausläufern dieser Sierra umschlossen ist.", "Das Gebirge beherbergt wichtige Kupfer-, Blei- und Zinkvorkommen.", "In den höheren Lagen finden sich seltene endemische Kiefern- und Eichenarten."]
     },
-    descriptionAdvanced: {
-      en: "Stretching over 1,000 kilometers south from the Rio Grande, the Sierra Madre Oriental is a majestic range of folded mountains, primarily composed of limestone and shale from the Cretaceous period. Formed by the Laramide orogeny, the same tectonic event that raised the Rocky Mountains, its dramatic, elongated ridges and deep valleys run in a roughly north-south direction. The range acts as a critical barrier to moisture from the Gulf of Mexico, creating a stark contrast between its lush, forest-covered eastern slopes and the arid Chihuahuan Desert to its west. Cumbres de Monterrey National Park is one of its most spectacular areas, featuring iconic peaks like Cerro de la Silla. The highest point in the range is Cerro El Potosí, which rises to 3,720 meters."
-    },
-    factsAdvanced: {
-      en: ["The range is approximately 1,000 km (620 miles) long.", "Cerro El Potosí is its highest peak at 3,720 meters (12,205 ft).", "It is primarily composed of sedimentary rock from the Cretaceous period.", "The average elevation is around 2,200 meters (7,200 ft).", "It is considered the southern extension of the Rocky Mountains of North America.", "The Huasteca region on its eastern flank is known for its waterfalls and rich biodiversity.", "The range is a classic example of a fold-and-thrust belt mountain system.", "The city of Monterrey is located in a valley completely surrounded by the Sierra Madre Oriental."]
-    },
-    descriptionAdvanced: {
-      en: "Stretching over 1,000 kilometers south from the Rio Grande, the Sierra Madre Oriental is a majestic range of folded mountains, primarily composed of limestone and shale from the Cretaceous period. Formed by the Laramide orogeny, the same tectonic event that raised the Rocky Mountains, its dramatic, elongated ridges and deep valleys run in a roughly north-south direction. The range acts as a critical barrier to moisture from the Gulf of Mexico, creating a stark contrast between its lush, forest-covered eastern slopes and the arid Chihuahuan Desert to its west. Cumbres de Monterrey National Park is one of its most spectacular areas, featuring iconic peaks like Cerro de la Silla. The highest point in the range is Cerro El Potosí, which rises to 3,720 meters."
-    },
-    factsAdvanced: {
-      en: ["The range is approximately 1,000 km (620 miles) long.", "Cerro El Potosí is its highest peak at 3,720 meters (12,205 ft).", "It is primarily composed of sedimentary rock from the Cretaceous period.", "The average elevation is around 2,200 meters (7,200 ft).", "It is considered the southern extension of the Rocky Mountains of North America.", "The Huasteca region on its eastern flank is known for its waterfalls and rich biodiversity.", "The range is a classic example of a fold-and-thrust belt mountain system.", "The city of Monterrey is located in a valley completely surrounded by the Sierra Madre Oriental."]
-    },
-    descriptionAdvanced: {
-      en: "Stretching over 1,000 kilometers south from the Rio Grande, the Sierra Madre Oriental is a majestic range of folded mountains, primarily composed of limestone and shale from the Cretaceous period. Formed by the Laramide orogeny, the same tectonic event that raised the Rocky Mountains, its dramatic, elongated ridges and deep valleys run in a roughly north-south direction. The range acts as a critical barrier to moisture from the Gulf of Mexico, creating a stark contrast between its lush, forest-covered eastern slopes and the arid Chihuahuan Desert to its west. Cumbres de Monterrey National Park is one of its most spectacular areas, featuring iconic peaks like Cerro de la Silla. The highest point in the range is Cerro El Potosí, which rises to 3,720 meters."
-    },
-    factsAdvanced: {
-      en: ["The range is approximately 1,000 km (620 miles) long.", "Cerro El Potosí is its highest peak at 3,720 meters (12,205 ft).", "It is primarily composed of sedimentary rock from the Cretaceous period.", "The average elevation is around 2,200 meters (7,200 ft).", "It is considered the southern extension of the Rocky Mountains of North America.", "The Huasteca region on its eastern flank is known for its waterfalls and rich biodiversity.", "The range is a classic example of a fold-and-thrust belt mountain system.", "The city of Monterrey is located in a valley completely surrounded by the Sierra Madre Oriental."]
-    },
-    descriptionAdvanced: {
-      en: "Stretching over 1,000 kilometers south from the Rio Grande, the Sierra Madre Oriental is a majestic range of folded mountains, primarily composed of limestone and shale from the Cretaceous period. Formed by the Laramide orogeny, the same tectonic event that raised the Rocky Mountains, its dramatic, elongated ridges and deep valleys run in a roughly north-south direction. The range acts as a critical barrier to moisture from the Gulf of Mexico, creating a stark contrast between its lush, forest-covered eastern slopes and the arid Chihuahuan Desert to its west. Cumbres de Monterrey National Park is one of its most spectacular areas, featuring iconic peaks like Cerro de la Silla. The highest point in the range is Cerro El Potosí, which rises to 3,720 meters."
-    },
-    factsAdvanced: {
-      en: ["The range is approximately 1,000 km (620 miles) long.", "Cerro El Potosí is its highest peak at 3,720 meters (12,205 ft).", "It is primarily composed of sedimentary rock from the Cretaceous period.", "The average elevation is around 2,200 meters (7,200 ft).", "It is considered the southern extension of the Rocky Mountains of North America.", "The Huasteca region on its eastern flank is known for its waterfalls and rich biodiversity.", "The range is a classic example of a fold-and-thrust belt mountain system.", "The city of Monterrey is located in a valley completely surrounded by the Sierra Madre Oriental."]
-    },
-    descriptionAdvanced: {
-      de: "Als beeindruckender östlicher Gebirgszug zieht sich die Sierra Madre Oriental durch Mexiko und fasziniert mit schroffen Kalksteinformationen und tiefen Karsthöhlen. Die steilen Hänge fangen die feuchten Luftmassen vom Golf von Mexiko ab, wodurch dichte, nebeldurchflutete Bergwälder voller üppiger Vegetation entstehen. Spektakuläre Canyons, versteckte Wasserfälle und komplexe Höhlensysteme machen diese Berge zu einem Traumziel für Geologen, Speläologen und Naturliebhaber. In den unzugänglichen Höhen der Berge haben sich seltene Tierarten wie der mexikanische Schwarzbär und der Jaguar einen sicheren Lebensraum bewahrt. Die Sierra Madre Oriental bietet eine dramatische und grüne Alternative zu den trockeneren Bergketten des Westens.",
-      hu: "Sierra Madre Oriental egy figyelemre melto termeszeti taj Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A Mexikói-öböllel párhuzamosan futó hegység. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Sierra Madre Oriental kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
-      ro: "Situat în estul Mexicului, Sierra Madre Oriental este un lanț muntos maiestuos compus în principal din roci calcaroase pliate și faliate. Acest sistem montan acționează ca o barieră climatică majoră, captând umezeala din Golful Mexic și creând păduri tropicale luxuriante pe versanții estici, în contrast cu deșerturile aride de pe partea vestică. Numeroase râuri spectaculoase și cascade impresionante, cum ar fi Cascada de Tamul, au tăiat defileuri adânci în calcarul moale. Diversitatea topografică a regiunii o face un paradis pentru iubitorii de natură și un refugiu esențial pentru flora și fauna endemică. Geografie K7 — bariere orografice și carst.",
-      en: "The Sierra Madre Oriental is a major mountain range in eastern Mexico, stretching over 1,000 kilometers from Coahuila in the north down to the state of Puebla. Unlike its volcanic counterpart in the west, this range is primarily composed of folded sedimentary rocks, mostly limestone and shale, dating back to the Cretaceous period. The range features dramatic ridges and deep valleys, creating a formidable barrier that separates the Gulf Coastal Plain from the Mexican Plateau. It is exceptionally biodiverse, particularly in the cloud forests of the higher elevations, which are home to a vast array of unique plant and animal species. The mountains also play a critical role in the region's hydrology, serving as the source for many of the rivers that flow eastward into the Gulf of Mexico."
-    },
-    factsAdvanced: {
-      de: ["Das Gebirge verläuft über etwa 1.000 Kilometer parallel zur Ostküste des Landes.", "Der höchste Gipfel, der Cerro San Rafael im Bundesstaat Coahuila, erreicht eine Höhe von über 3.700 Metern.", "Die Bergkette ist bekannt für ihre enormen Kalksteinhöhlen und tiefen Schächte, die zu den spektakulärsten der Welt gehören."],
-      hu: ["Sierra Madre Oriental Mexiko jellegzetes tajformaja.", "A geologiai tortenete sok millio evre nyulik vissza.", "A terulet szamos novenyfajnak es allatfajnak biztosit elohelyet.", "Turistautak vezetnek a legszebb kilatopontokhoz.", "Az eghajlati sajatossagok meghatarozzak a regio noveny vilagat.", "Sierra Madre Oriental kedvelt celpont termeszetmegfigyeleshez es fenykepezeshez.", "A tajat vedett teruletek oltalmazzak."],
-      ro: [
-        "Sierra Madre Oriental se întinde pe o distanță de aproximativ 1.000 de kilometri.",
-        "Cel mai înalt punct, Cerro Potosí, se înalță la peste 3.700 de metri.",
-        "Formațiunile carstice masive creează numeroase peșteri și sisteme subterane complexe.",
-        "Parcul Național Cumbres de Monterrey face parte din acest lanț muntos.",
-        "Vegetația variază drastic de la junglă tropicală la păduri de conifere la altitudini mari."
-      ],
-      en: [
-        "The highest point is Cerro Potosí in Nuevo León, standing at 3,713 meters (12,182 feet) above sea level.",
-        "The range was formed during the Laramide orogeny, the same geological event that created the Rocky Mountains.",
-        "It is home to the El Cielo Biosphere Reserve, a unique ecosystem where tropical and temperate species meet.",
-        "The Sierra Madre Oriental contains significant deposits of lead, zinc, and silver.",
-        "Its karst topography has resulted in the formation of some of the world's deepest and most spectacular cave systems."
-      ]
-    }, image: "/poi-images/sierra-madre-oriental-relief-v2.webp"},
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     image: "/poi-images/sierra-madre-oriental-relief-v2.webp"},
   {
     id: "volcan-tacan-relief-v2",
     type: "mountain",
@@ -389,54 +309,16 @@ export const poiExtraMexicoReliefV2: POI[] = [
       en: ["The range is about 1,000 km (620 miles) long.", "Its highest point, Cerro Teotepec, is 3,703 meters (12,149 ft) high.", "It is geologically older than the other Sierra Madre ranges in Mexico.", "The range parallels the Middle America Trench offshore.", "It is one of the world's most important Endemic Bird Areas.", "Acapulco, a major tourist destination, is nestled at the foot of the range.", "The region is a major center for coffee and mezcal production.", "Its rugged terrain has historically isolated many indigenous communities."],
       de: ["Der Gebirgszug ist etwa 1.200 Kilometer lang und verläuft west-östlich parallel zur Küste.", "Der Cerro Tiotepec ist mit etwa 3.550 Metern der höchste Gipfel der Kette.", "Die Region beherbergt eine der höchsten Zahlen endemischer Reptilien- und Amphibienarten.", "Die Sierra ist eine wichtige Barriere gegen tropische Wirbelstürme vom Pazifik.", "Historisch bot das unwegsame Gelände Rückzugsorte für Widerstandskämpfer während der Revolution.", "Die Berge bestehen aus einer komplexen Mischung aus metamorphen und magmatischen Gesteinen.", "Wichtige indigene Gruppen wie die Mixteken und Zapoteken bewohnen seit Jahrtausenden die Täler."]
     },
-    descriptionAdvanced: {
-      en: "The Sierra Madre del Sur extends for 1,000 kilometers along Mexico's southern coast, from southern Michoacán through Guerrero to the Isthmus of Tehuantepec in Oaxaca. This range is geologically distinct and older than the other Sierra Madres, composed of a complex mix of Precambrian and Paleozoic rocks. It is exceptionally rugged, with steep slopes that plunge directly into the Pacific Ocean, creating a narrow and discontinuous coastal plain. The range's highest point is Cerro Teotepec in Guerrero, at 3,703 meters. This isolation has fostered incredible biodiversity and a high degree of endemism, particularly in its cloud forests and pine-oak ecosystems. The region is seismically active due to its proximity to the Middle America Trench."
-    },
-    factsAdvanced: {
-      en: ["The range is about 1,000 km (620 miles) long.", "Its highest point, Cerro Teotepec, is 3,703 meters (12,149 ft) high.", "It is geologically older than the other Sierra Madre ranges in Mexico.", "The range parallels the Middle America Trench offshore.", "It is one of the world's most important Endemic Bird Areas.", "Acapulco, a major tourist destination, is nestled at the foot of the range.", "The region is a major center for coffee and mezcal production.", "Its rugged terrain has historically isolated many indigenous communities."]
-    },
-    descriptionAdvanced: {
-      en: "The Sierra Madre del Sur extends for 1,000 kilometers along Mexico's southern coast, from southern Michoacán through Guerrero to the Isthmus of Tehuantepec in Oaxaca. This range is geologically distinct and older than the other Sierra Madres, composed of a complex mix of Precambrian and Paleozoic rocks. It is exceptionally rugged, with steep slopes that plunge directly into the Pacific Ocean, creating a narrow and discontinuous coastal plain. The range's highest point is Cerro Teotepec in Guerrero, at 3,703 meters. This isolation has fostered incredible biodiversity and a high degree of endemism, particularly in its cloud forests and pine-oak ecosystems. The region is seismically active due to its proximity to the Middle America Trench."
-    },
-    factsAdvanced: {
-      en: ["The range is about 1,000 km (620 miles) long.", "Its highest point, Cerro Teotepec, is 3,703 meters (12,149 ft) high.", "It is geologically older than the other Sierra Madre ranges in Mexico.", "The range parallels the Middle America Trench offshore.", "It is one of the world's most important Endemic Bird Areas.", "Acapulco, a major tourist destination, is nestled at the foot of the range.", "The region is a major center for coffee and mezcal production.", "Its rugged terrain has historically isolated many indigenous communities."]
-    },
-    descriptionAdvanced: {
-      en: "The Sierra Madre del Sur extends for 1,000 kilometers along Mexico's southern coast, from southern Michoacán through Guerrero to the Isthmus of Tehuantepec in Oaxaca. This range is geologically distinct and older than the other Sierra Madres, composed of a complex mix of Precambrian and Paleozoic rocks. It is exceptionally rugged, with steep slopes that plunge directly into the Pacific Ocean, creating a narrow and discontinuous coastal plain. The range's highest point is Cerro Teotepec in Guerrero, at 3,703 meters. This isolation has fostered incredible biodiversity and a high degree of endemism, particularly in its cloud forests and pine-oak ecosystems. The region is seismically active due to its proximity to the Middle America Trench."
-    },
-    factsAdvanced: {
-      en: ["The range is about 1,000 km (620 miles) long.", "Its highest point, Cerro Teotepec, is 3,703 meters (12,149 ft) high.", "It is geologically older than the other Sierra Madre ranges in Mexico.", "The range parallels the Middle America Trench offshore.", "It is one of the world's most important Endemic Bird Areas.", "Acapulco, a major tourist destination, is nestled at the foot of the range.", "The region is a major center for coffee and mezcal production.", "Its rugged terrain has historically isolated many indigenous communities."]
-    },
-    descriptionAdvanced: {
-      en: "The Sierra Madre del Sur extends for 1,000 kilometers along Mexico's southern coast, from southern Michoacán through Guerrero to the Isthmus of Tehuantepec in Oaxaca. This range is geologically distinct and older than the other Sierra Madres, composed of a complex mix of Precambrian and Paleozoic rocks. It is exceptionally rugged, with steep slopes that plunge directly into the Pacific Ocean, creating a narrow and discontinuous coastal plain. The range's highest point is Cerro Teotepec in Guerrero, at 3,703 meters. This isolation has fostered incredible biodiversity and a high degree of endemism, particularly in its cloud forests and pine-oak ecosystems. The region is seismically active due to its proximity to the Middle America Trench."
-    },
-    factsAdvanced: {
-      en: ["The range is about 1,000 km (620 miles) long.", "Its highest point, Cerro Teotepec, is 3,703 meters (12,149 ft) high.", "It is geologically older than the other Sierra Madre ranges in Mexico.", "The range parallels the Middle America Trench offshore.", "It is one of the world's most important Endemic Bird Areas.", "Acapulco, a major tourist destination, is nestled at the foot of the range.", "The region is a major center for coffee and mezcal production.", "Its rugged terrain has historically isolated many indigenous communities."]
-    },
-    descriptionAdvanced: {
-      de: "Die Sierra Madre del Sur schlängelt sich im Süden Mexikos unmittelbar an der Pazifikküste entlang und kreiert dabei dramatische Steilküsten. Diese stark zerklüftete Berglandschaft fungiert als grüne Festung, deren Täler lange Zeit für die abgelegenen indigenen Kulturen als Rückzugsort dienten. In den tieferen Lagen dominiert üppiger tropischer Regenwald, während sich in höheren Gefilden kühle Nebel- und Kiefernwälder ausbreiten. Die steilen Hänge bringen die perfekten Bedingungen für den Anbau des weltberühmten Kaffees und exotischer Früchte aus Oaxaca und Guerrero hervor. Eine Fahrt durch diese Bergkette verspricht tiefe Einblicke in traditionelle mexikanische Bergdörfer und spektakuläre Blicke auf den weiten Ozean.",
-      hu: "Sierra Madre del Sur egy figyelemre melto termeszeti taj Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. Hegység Mexikó déli részén, a Csendes-óceán felett. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Sierra Madre del Sur kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
-      ro: "Sierra Madre del Sur este un lanț muntos accidentat care urmează linia coastei Pacificului în sudul Mexicului, traversând statele Guerrero, Michoacán și Oaxaca. Acești munți abrupți plonjează adesea direct în ocean, creând un litoral spectaculos, presărat cu golfuri izolate și stațiuni balneare renumite precum Acapulco. Din cauza topografiei sale extrem de neregulate, regiunea este destul de inaccesibilă, păstrând comunități indigene izolate și o diversitate culturală și ecologică intactă. Vegetația variază considerabil în funcție de altitudine și expunerea la vânturile marine. Geografie K7 — munți de coastă și izolare topografică.",
-      en: "The Sierra Madre del Sur is an extensive mountain range that runs for roughly 1,000 kilometers along the southern Pacific coast of Mexico, primarily through the states of Michoacán, Guerrero, and Oaxaca. This rugged and geologically complex range is characterized by its steep slopes, deep canyons, and high degree of isolation, which has preserved vast areas of pristine cloud and pine-oak forests. The range is a global hotspot for biodiversity, hosting thousands of endemic plant species and providing critical habitat for animals like the jaguar and the resplendent quetzal. Due to its difficult terrain, much of the Sierra Madre del Sur remains sparsely populated and less developed, serving as a stronghold for diverse indigenous cultures that have maintained traditional land-use practices for centuries."
-    },
-    factsAdvanced: {
-      de: ["Die Bergkette erstreckt sich über etwa 1.200 Kilometer und verläuft sehr dicht entlang der südpazifischen Küste.", "Ihre Topografie ist derart schroff, dass sie eine erhebliche Barriere für den Verkehr und Handel in Südmexiko darstellt.", "Die Region zählt zu den Gebieten mit der höchsten kulture und linguistischen Diversität in ganz Mexiko."],
-      hu: ["Sierra Madre del Sur Mexiko jellegzetes tajformaja.", "A geologiai tortenete sok millio evre nyulik vissza.", "A terulet szamos novenyfajnak es allatfajnak biztosit elohelyet.", "Turistautak vezetnek a legszebb kilatopontokhoz.", "Az eghajlati sajatossagok meghatarozzak a regio noveny vilagat.", "Sierra Madre del Sur kedvelt celpont termeszetmegfigyeleshez es fenykepezeshez.", "A tajat vedett teruletek oltalmazzak."],
-      ro: [
-        "Lungimea totală a lanțului montan depășește 1.200 de kilometri.",
-        "Cel mai înalt vârf este Cerro Quie Yaco, cu o altitudine de 3.710 metri.",
-        "Formațiunile de aici sunt mai vechi din punct de vedere geologic decât cele din Centura Vulcanică.",
-        "Văile înguste ale munților sunt renumite pentru plantațiile tradiționale de cafea și cacao.",
-        "Zguduită frecvent de seisme puternice, zona se află chiar deasupra zonei de subducție a plăcii Cocos."
-      ],
-      en: [
-        "The highest peak is Cerro Tiotepec in Guerrero, reaching 3,550 meters (11,647 feet).",
-        "The range terminates at the Isthmus of Tehuantepec in the east.",
-        "It is known for its exceptional diversity of oak (Quercus) species, with over 50 endemics.",
-        "The range contains significant deposits of gold, silver, and iron ore.",
-        "The mountains fall sharply into the Pacific Ocean, creating the dramatic coastline of the Oaxacan and Guerrero rivieras."
-      ]
-    }, image: "/poi-images/sierra-madre-del-sur-relief-v2.webp"},
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     image: "/poi-images/sierra-madre-del-sur-relief-v2.webp"},
   {
     id: "selva-lacandona-relief-v2",
     type: "forest",

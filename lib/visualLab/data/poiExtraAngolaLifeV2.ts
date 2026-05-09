@@ -32,12 +32,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.2281, -12.7933],
     name: { de: "Fazenda Tchipeio", hu: "Tchipeio Gazdaság", ro: "Ferma Tchipeio", en: "Tchipeio Farm" },
-    description: { de: "Ein landwirtschaftlicher Betrieb, der sich auf den Kaffeeanbau in den Hochländern spezialisiert hat.", hu: "A felföldi kávétermesztésre szakosodott mezőgazdasági üzem.", ro: "O fermă agricolă specializată în cultivarea cafelei în zonele înalte.", en: "An agricultural farm specializing in coffee cultivation in the highlands." },
+    description: { de: "Ein landwirtschaftlicher Betrieb, der sich auf den Kaffeeanbau in den Hochländern spezialisiert hat.", hu: "A felföldi kávétermesztésre szakosodott mezőgazdasági üzem.", ro: "O fermă agricolă specializată în cultivarea cafelei în zonele înalte.", en: "An agricultural farm contributing to local produce development in the region." },
     facts: {
       de: ["Region Huambo", "Hochwertiger Arabica-Kaffee"],
       hu: ["Huambo régió", "Kiváló minőségű arabica kávé"],
       ro: ["Regiunea Huambo", "Cafea arabica de înaltă calitate"],
-      en: ["Huambo region", "High-quality Arabica coffee"]
+      en: ["Local agricultural production", "Regional farming development", "Supports community economy", "Rural infrastructure"]
     },
     descriptionAdvanced: {
       de: "Die Fazenda Tchipeio in der Provinz Huambo ist ein historischer und zugleich moderner Agrarbetrieb, der für seine Expertise in der Saatgutproduktion und Viehzucht bekannt ist. Sie liegt auf dem fruchtbaren Hochlandplateau und profitiert von einer langen Tradition landwirtschaftlicher Exzellenz. Tchipeio dient als Referenzmodell für die Integration von Tierzucht und Ackerbau, wobei die Abfallprodukte der Ernte als Futtermittel genutzt werden. Der Betrieb spielt eine wichtige Rolle bei der Versorgung lokaler Bauern mit qualitativ hochwertigem Saatgut für Mais und Bohnen. Die Fazenda ist ein Symbol für die Beständigkeit und den Innovationsgeist der angolanischen Bauernschaft im zentralen Hochland. Wirtschaft K7 — Saatguttechnologie und integrierte Landwirtschaft.",
@@ -107,12 +107,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-UIG",
     coords: [15.7500, -6.0000],
     name: { de: "Maquela do Zombo Plantage", hu: "Maquela do Zombo Ültetvény", ro: "Plantația Maquela do Zombo", en: "Maquela do Zombo Plantation" },
-    description: { de: "Eine landwirtschaftliche Region im Norden, die für den Anbau tropischer Früchte und Kaffee bekannt ist.", hu: "Északi mezőgazdasági régió, amely trópusi gyümölcsök és kávé termesztéséről ismert.", ro: "O fermă agricolă importantă situată în provincia Uíge, reprezentativă pentru producția locală de cafea și culturi tropicale.", en: "An agricultural region in the north known for cultivating tropical fruits and coffee." },
+    description: { de: "Eine landwirtschaftliche Region im Norden, die für den Anbau tropischer Früchte und Kaffee bekannt ist.", hu: "Északi mezőgazdasági régió, amely trópusi gyümölcsök és kávé termesztéséről ismert.", ro: "O fermă agricolă importantă situată în provincia Uíge, reprezentativă pentru producția locală de cafea și culturi tropicale.", en: "A farmstead located in the northern region, focusing on sustainable agricultural practices." },
     facts: {
       de: ["Uíge Provinz", "Günstiges tropisches Klima"],
       hu: ["Uíge tartomány", "Kedvező trópusi éghajlat"],
       ro: ["Situată în Uíge", "Producție agricolă", "Tradiție în cultivarea cafelei"],
-      en: ["Uíge province", "Favorable tropical climate"]
+      en: ["Northern regional farm", "Sustainable agricultural methods", "Agricultural supply node", "Community support"]
     },
     descriptionAdvanced: {
       de: "Die Fazendas in der Region Maquela do Zombo, Provinz Uíge, sind Zentren der landwirtschaftlichen Erneuerung im Norden Angolas. Inmitten der üppigen Gebirgslandschaft haben sich diese Betriebe auf den Anbau von Kaffee, Erdnüssen und tropischen Früchten spezialisiert. Sie nutzen die fruchtbaren Böden und die hohen Niederschlagsraten der Grenzregion zur Demokratischen Republik Kongo. Diese Fazendas sind nicht nur Produktionsstätten, sondern auch wichtige Knotenpunkte für den regionalen Handel und die Beschäftigung lokaler Gemeinschaften. Die Wiederbelebung der Landwirtschaft in Maquela do Zombo ist ein strategisches Ziel zur Stabilisierung der Nordprovinzen und zur Förderung des Exports. Wirtschaft K7 — Grenznahe Landwirtschaft und Kaffeeexport.",
@@ -157,12 +157,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-NAM",
     coords: [12.0000, -15.0000],
     name: { de: "Namibe Teilreservat", hu: "Namibe Részleges Rezervátum", ro: "Rezervația Parțială Namibe", en: "Namibe Partial Reserve" },
-    description: { de: "Ein Wüstenökosystem, das einzigartige Pflanzenarten und Wüstentiere beherbergt.", hu: "Sivatagi ökoszisztéma, amely egyedülálló növényfajoknak és sivatagi állatoknak ad otthont.", ro: "O zonă protejată cu un ecosistem arid unic, fiind casa speciilor adaptate la condițiile aspre din deșertul Namibe.", en: "A desert ecosystem that hosts unique plant species and desert animals." },
+    description: { de: "Ein Wüstenökosystem, das einzigartige Pflanzenarten und Wüstentiere beherbergt.", hu: "Sivatagi ökoszisztéma, amely egyedülálló növényfajoknak és sivatagi állatoknak ad otthont.", ro: "O zonă protejată cu un ecosistem arid unic, fiind casa speciilor adaptate la condițiile aspre din deșertul Namibe.", en: "A protected area preserving unique desert and coastal flora and fauna of the Namibe region." },
     facts: {
       de: ["Wüstenanpassung", "Einzigartige Flora"],
       hu: ["Sivatagi alkalmazkodás", "Egyedülálló növényvilág"],
       ro: ["Ecosistem arid", "Situată în Namibe", "Biodiversitate unică"],
-      en: ["Desert adaptation", "Unique flora"]
+      en: ["Coastal protected area", "Unique desert biodiversity", "Conservation zone", "Ecosystem study site"]
     },
     descriptionAdvanced: {
       de: "Das Teilreservat von Namibe schützt die einzigartige Flora und Fauna der nördlichen Namib-Wüste in Angola. Es ist ein Ort extremer Bedingungen, in dem das Leben vollständig von den seltenen Nebelereignissen des Atlantiks abhängt. Das Reservat ist berühmt für das Vorkommen der Welwitschia mirabilis, einer Pflanze, die über tausend Jahre alt werden kann, sowie für spezialisierte Insekten- und Reptilienarten. Geologisch ist das Gebiet durch weite Kiesebenen, Sanddünen und schroffe Felsformationen geprägt. Der Schutz des Namibe-Reservats ist von globaler Bedeutung, da es einen einzigartigen evolutionären Raum repräsentiert, in dem sich das Leben an absolute Trockenheit angepasst hat. Geografie K7 — Wüstenökologie und Endemismus.",
@@ -182,12 +182,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-HUI",
     coords: [14.0000, -14.0000],
     name: { de: "Fazenda Cacula", hu: "Cacula Gazdaság", ro: "Ferma Cacula", en: "Cacula Farm" },
-    description: { de: "Ein Betrieb, der für die Viehzucht und den Getreideanbau in der Huíla-Region bekannt ist.", hu: "A Huíla régióban az állattenyésztésről és gabonatermesztésről ismert gazdaság.", ro: "O fermă cunoscută pentru creșterea animalelor și cultivarea cerealelor în regiunea Huíla.", en: "A farm known for livestock breeding and cereal cultivation in the Huíla region." },
+    description: { de: "Ein Betrieb, der für die Viehzucht und den Getreideanbau in der Huíla-Region bekannt ist.", hu: "A Huíla régióban az állattenyésztésről és gabonatermesztésről ismert gazdaság.", ro: "O fermă cunoscută pentru creșterea animalelor și cultivarea cerealelor în regiunea Huíla.", en: "An active agricultural unit promoting rural growth and local food security." },
     facts: {
       de: ["Huíla Provinz", "Traditionelle Landwirtschaft"],
       hu: ["Huíla tartomány", "Hagyományos mezőgazdaság"],
       ro: ["Provincia Huíla", "Agricultură tradițională"],
-      en: ["Huíla province", "Traditional agriculture"]
+      en: ["Rural growth project", "Food security contributor", "Agricultural unit", "Regional employment"]
     },
     descriptionAdvanced: {
       de: "Die Fazenda Cacula in der Provinz Huíla ist ein herausragendes Beispiel für die integrierte Viehzucht und Agrarindustrie im südlichen Hochland. Auf über 1500 Metern Höhe gelegen, bietet sie ideale Bedingungen für die Zucht hochwertiger Rinderrassen und die Produktion von Futtermitteln. Der Betrieb zeichnet sich durch moderne Managementmethoden und eine starke Ausrichtung auf Nachhaltigkeit aus. Cacula beliefert die regionalen Märkte von Lubango und Namibe mit Frischfleisch und Milchprodukten. Die Fazenda fungiert zudem als Bildungszentrum für junge Landwirte und trägt so zur Professionalisierung des Agrarsektors in Angola bei. Wirtschaft K7 — Tierzucht und ländliche Professionalisierung.",
@@ -207,12 +207,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.2200, -8.8400],
     name: { de: "Luanda Kinderspielpark", hu: "Luanda Játszótérpark", ro: "Parc de Joacă Luanda", en: "Luanda Children's Park" },
-    description: { de: "Ein öffentlicher Bereich mit Spielplätzen und Aktivitäten für Kinder im Herzen von Luanda.", hu: "Nyilvános terület játszóterekkel és gyermekprogramokkal Luanda szívében.", ro: "O zonă publică cu locuri de joacă și activități pentru copii în inima orașului Luanda.", en: "A public area with playgrounds and activities for children in the heart of Luanda." },
+    description: { de: "Ein öffentlicher Bereich mit Spielplätzen und Aktivitäten für Kinder im Herzen von Luanda.", hu: "Nyilvános terület játszóterekkel és gyermekprogramokkal Luanda szívében.", ro: "O zonă publică cu locuri de joacă și activități pentru copii în inima orașului Luanda.", en: "A recreational space for children in the capital, providing vital urban green space." },
     facts: {
       de: ["Familienfreundlich", "Stadtmitte"],
       hu: ["Családbarát", "Városközpont"],
       ro: ["Prietenos pentru familii", "Centrul orașului"],
-      en: ["Family friendly", "City center"]
+      en: ["Urban recreational area", "Capital city park", "Children's activity center", "City green space"]
     },
     descriptionAdvanced: {
       de: "Der Parque Infantil in Luanda ist ein wichtiger städtischer Erholungsraum, der speziell für die Bedürfnisse von Kindern und Familien in der Metropole geschaffen wurde. In einer Stadt, die von schnellem Wachstum und dichter Bebauung geprägt ist, bietet dieser Park eine notwendige Grünfläche für Spiel, Sport und soziale Interaktion. Der Park verfügt über moderne Spielplatzanlagen, sichere Laufwege und Bereiche für kulturelle Veranstaltungen im Freien. Er spielt eine zentrale Rolle bei der Verbesserung der Lebensqualität in der Hauptstadt und dient als Vorbild für die Schaffung weiterer urbaner Parks. Hier wird der Fokus auf eine kinderfreundliche Stadtentwicklung deutlich. Geografie K5 — Stadtplanung und Freizeitgestaltung.",
@@ -257,12 +257,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-CUS",
     coords: [14.5000, -10.5000],
     name: { de: "Fazenda Kwanza Sul", hu: "Kwanza Sul Gazdaság", ro: "Ferma Kwanza Sul", en: "Kwanza Sul Farm" },
-    description: { de: "Eine produktive landwirtschaftliche Region, die für Obst- und Gemüseanbau steht.", hu: "Termékeny mezőgazdasági régió, amely zöldség- és gyümölcstermesztéséről ismert.", ro: "O regiune agricolă productivă, cunoscută pentru cultivarea legumelor și fructelor.", en: "A productive agricultural region known for vegetable and fruit cultivation." },
+    description: { de: "Eine produktive landwirtschaftliche Region, die für Obst- und Gemüseanbau steht.", hu: "Termékeny mezőgazdasági régió, amely zöldség- és gyümölcstermesztéséről ismert.", ro: "O regiune agricolă productivă, cunoscută pentru cultivarea legumelor și fructelor.", en: "A significant farm in the Kwanza-Sul province involved in large-scale crop production." },
     facts: {
       de: ["Kwanza Sul Provinz", "Hoher Ertrag"],
       hu: ["Kwanza Sul tartomány", "Magas hozam"],
       ro: ["Provincia Kwanza Sul", "Randament ridicat"],
-      en: ["Kwanza Sul province", "High yield"]
+      en: ["Located in Kwanza-Sul", "Large-scale agriculture", "Regional supply chain", "Rural land development"]
     },
     descriptionAdvanced: {
       de: "Die Fazendas in der Provinz Cuanza Sul sind das Rückgrat der modernen angolanischen Landwirtschaft und ein Beispiel für die erfolgreiche Diversifizierung der Wirtschaft. Diese großflächigen landwirtschaftlichen Betriebe nutzen das fruchtbare Bodenpotenzial und das günstige Klima der Region für den Anbau von Kaffee, Obst und Gemüse. Viele Fazendas haben eine lange Tradition, die bis in die Kolonialzeit zurückreicht, wurden aber nach dem Bürgerkrieg mit massiven Investitionen und modernster Technik wiederbelebt. Sie sind heute bedeutende Arbeitgeber und tragen maßgeblich zur Ernährungssicherheit des Landes bei. Die Kombination aus traditionellem Wissen und moderner Agrartechnologie macht sie zu Zentren des Fortschritts. Wirtschaft K7 — Agrarökonomie und ländliche Entwicklung.",
@@ -282,12 +282,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.4800, -14.9200],
     name: { de: "Umweltzentrum Lubango", hu: "Lubangói Környezetvédelmi Központ", ro: "Centrul de Mediu Lubango", en: "Lubango Environmental Center" },
-    description: { de: "Ein interaktives Zentrum, das Kindern Wissen über die Natur Angolas vermittelt.", hu: "Interaktív központ, amely megtanítja a gyerekeket Angola természetéről.", ro: "Un centru dedicat conservării mediului înconjurător în zona muntoasă din jurul orașului Lubango.", en: "An interactive center that teaches children about the nature of Angola." },
+    description: { de: "Ein interaktives Zentrum, das Kindern Wissen über die Natur Angolas vermittelt.", hu: "Interaktív központ, amely megtanítja a gyerekeket Angola természetéről.", ro: "Un centru dedicat conservării mediului înconjurător în zona muntoasă din jurul orașului Lubango.", en: "An environmental research and education center focusing on preserving Angola's highland biodiversity." },
     facts: {
       de: ["Bildung", "Naturkunde"],
       hu: ["Oktatás", "Természettudomány"],
       ro: ["Situat în Lubango", "Promovează conservarea", "Ecosistem montan"],
-      en: ["Education", "Natural history"]
+      en: ["Environmental research hub", "Highland education center", "Conservation focused", "Biodiversity protection"]
     },
     descriptionAdvanced: {
       de: "Das Umweltzentrum von Lubango ist eine führende Institution für ökologische Bildung und Nachhaltigkeitsforschung im Süden Angolas. Es wurde geschaffen, um das Bewusstsein für die einzigartige Biodiversität der Provinz Huíla zu schärfen und Strategien zum Schutz der bedrohten Gebirgsökosysteme zu entwickeln. Das Zentrum beherbergt Ausstellungen über die Flora und Fauna der Serra da Chela, Forschungslabore und Bildungsräume für Studenten und Schüler. Es spielt eine entscheidende Rolle bei der Koordination von Naturschutzprojekten, wie dem Erhalt seltener Sukkulenten und dem Schutz der Wasserquellen im Hochland. Geografie K7 — Umweltmanagement und nachhaltige Entwicklung.",
@@ -307,12 +307,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-BGO",
     coords: [13.5000, -9.6000],
     name: { de: "Quiçama Nationalpark", hu: "Quiçama Nemzeti Park", ro: "Parcul Național Quiçama", en: "Quiçama National Park" },
-    description: { de: "Ein weitläufiges Schutzgebiet, ideal für Safaris und die Beobachtung afrikanischer Fauna.", hu: "Hatalmas védett terület, ideális szafarikhoz és az afrikai vadvilág megfigyeléséhez.", ro: "Unul dintre cele mai importante parcuri naționale, celebru pentru eforturile sale de repopulare cu animale sălbatice.", en: "A vast protected area, ideal for safaris and observing African wildlife." },
+    description: { de: "Ein weitläufiges Schutzgebiet, ideal für Safaris und die Beobachtung afrikanischer Fauna.", hu: "Hatalmas védett terület, ideális szafarikhoz és az afrikai vadvilág megfigyeléséhez.", ro: "Unul dintre cele mai importante parcuri naționale, celebru pentru eforturile sale de repopulare cu animale sălbatice.", en: "A premier national park known for its successful wildlife rehabilitation programs." },
     facts: {
       de: ["Artenvielfalt", "Große Säugetiere"],
       hu: ["Fajgazdagság", "Nagytestű emlősök"],
       ro: ["Situat lângă Luanda", "Reabilitarea faunei", "Destinație safari"],
-      en: ["Biodiversity", "Large mammals"]
+      en: ["National protected area", "Wildlife rehabilitation site", "Biodiversity hotspot", "Ecotourism destination"]
     },
     descriptionAdvanced: {
       de: "Der Nationalpark Quiçama (Kissama) ist das Flaggschiff des angolanischen Naturschutzes und weltberühmt für seine erfolgreichen Programme zur Wiederansiedlung von Wildtieren. Gelegen südlich von Luanda, bietet er eine atemberaubende Kulisse aus Küstensavanne, dichten Affenbrotbaumwäldern und den Feuchtgebieten des Kwanza-Flusses. Der Park beherbergt heute wieder Elefanten, Giraffen und Zebras, die nach dem Krieg in einer beispiellosen logistischen Operation hierher gebracht wurden. Quiçama ist das am besten entwickelte Ziel für den Ökotourismus in Angola und bietet Besuchern erstklassige Safari-Erlebnisse in unmittelbarer Nähe zur Hauptstadt. Es ist ein Symbol für die Regeneration der Natur und den Schutz des afrikanischen Erbes. Geografie K7 — Großwildschutz und Tourismusmanagement.",
@@ -332,12 +332,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-BGO",
     coords: [13.4150, -12.5700],
     name: { de: "Fazenda Benguela", hu: "Benguela Gazdaság", ro: "Ferma Benguela", en: "Benguela Farm" },
-    description: { de: "Ein landwirtschaftlicher Betrieb in der Küstenregion, bekannt für Sisal und andere Nutzpflanzen.", hu: "Mezőgazdasági üzem a partvidéken, amely szizál és egyéb haszonnövények termesztéséről ismert.", ro: "O fermă agricolă în regiunea de coastă, cunoscută pentru sisal și alte culturi.", en: "An agricultural farm in the coastal region, known for sisal and other crops." },
+    description: { de: "Ein landwirtschaftlicher Betrieb in der Küstenregion, bekannt für Sisal und andere Nutzpflanzen.", hu: "Mezőgazdasági üzem a partvidéken, amely szizál és egyéb haszonnövények termesztéséről ismert.", ro: "O fermă agricolă în regiunea de coastă, cunoscută pentru sisal și alte culturi.", en: "An important agricultural facility in the Benguela province supporting regional markets." },
     facts: {
       de: ["Benguela Küste", "Industriepflanzen"],
       hu: ["Benguela partvidék", "Ipari növények"],
       ro: ["Coasta Benguela", "Plante industriale"],
-      en: ["Benguela coast", "Industrial plants"]
+      en: ["Located in Benguela", "Market supply center", "Agricultural land utility", "Regional food source"]
     },
     descriptionAdvanced: {
       de: "Die Fazendas in der Provinz Benguela sind bedeutende landwirtschaftliche Zentren, die die Tradition des Ackerbaus im zentralen Küstengebiet fortsetzen. Dank des fruchtbaren Bodens im Tal des Flusses Cavaco werden hier in großem Stil Bananen, Zitrusfrüchte und Gemüse für den regionalen Markt und den Export angebaut. Diese Betriebe haben sich in den letzten Jahren durch massive Investitionen in moderne Bewässerungstechnologien und Logistik transformiert. Die Fazendas von Benguela sind entscheidend für die Nahrungsmittelversorgung der Städte Benguela und Lobito und schaffen tausende von ländlichen Arbeitsplätzen. Sie sind ein Modell für die Verbindung von klimatisch begünstigten Lagen mit industrieller Agrarproduktion. Wirtschaft K7 — Küstennahe Landwirtschaft und Bewässerungssysteme.",
@@ -357,12 +357,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.4900, -14.9100],
     name: { de: "Botanischer Garten Lubango", hu: "Lubangói Füvészkert", ro: "Grădina Botanică Lubango", en: "Lubango Botanical Garden" },
-    description: { de: "Ein schöner Garten mit heimischen Pflanzen aus Angola, der auch als Erholungsort dient.", hu: "Szép kert angolai őshonos növényekkel, amely pihenőhelyként is szolgál.", ro: "O grădină botanică ce prezintă flora diversă a platoului Huíla într-un cadru protejat.", en: "A beautiful garden with native plants from Angola, which also serves as a place for relaxation." },
+    description: { de: "Ein schöner Garten mit heimischen Pflanzen aus Angola, der auch als Erholungsort dient.", hu: "Szép kert angolai őshonos növényekkel, amely pihenőhelyként is szolgál.", ro: "O grădină botanică ce prezintă flora diversă a platoului Huíla într-un cadru protejat.", en: "A botanical garden showcasing diverse plant species native to the Angolan highlands." },
     facts: {
       de: ["Heimische Flora", "Erholung"],
       hu: ["Őshonos növényvilág", "Pihenés"],
       ro: ["Situat în Lubango", "Flora platoului Huíla", "Educație botanică"],
-      en: ["Native flora", "Relaxation"]
+      en: ["Highland flora collection", "Botanical study site", "Native plant research", "Educational green space"]
     },
     descriptionAdvanced: {
       de: "Der Botanische Garten von Lubango ist ein bedeutendes wissenschaftliches Zentrum für den Erhalt der Flora des südlichen Hochlands. Dank des gemäßigten Klimas der Provinz Huíla können hier sowohl tropische als auch mediterrane Pflanzenarten gedeihen. Der Garten dient als Forschungsstation der Universität und beherbergt eine beeindruckende Sammlung endemischer Pflanzen, Kräuter und Bäume der Serra da Chela. Für Besucher bietet der Garten ruhige Spazierwege inmitten einer sorgfältig gepflegten Landschaft, die die natürliche Vielfalt der Region widerspiegelt. Er ist ein wichtiger Ort für das Studium der Botanik und den Erhalt seltener Arten, die nur in dieser Höhenlage vorkommen. Geografie K7 — Pflanzengeografie und ökologische Forschung.",
@@ -407,12 +407,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-LNO",
     coords: [20.0000, -8.0000],
     name: { de: "Fazenda Lunda Norte", hu: "Lunda Norte Gazdaság", ro: "Ferma Lunda Norte", en: "Lunda Norte Farm" },
-    description: { de: "Ein landwirtschaftliches Gebiet im Nordosten, bekannt für seine vielfältigen Anbaumöglichkeiten.", hu: "Északkeleti mezőgazdasági terület, amely sokszínű termesztési lehetőségeiről ismert.", ro: "O exploatație agricolă reprezentativă pentru potențialul agricol al regiunii Lunda Norte.", en: "An agricultural area in the northeast, known for its diverse cultivation opportunities." },
+    description: { de: "Ein landwirtschaftliches Gebiet im Nordosten, bekannt für seine vielfältigen Anbaumöglichkeiten.", hu: "Északkeleti mezőgazdasági terület, amely sokszínű termesztési lehetőségeiről ismert.", ro: "O exploatație agricolă reprezentativă pentru potențialul agricol al regiunii Lunda Norte.", en: "An agricultural enterprise in Lunda Norte supporting regional farming and rural development." },
     facts: {
       de: ["Lunda Norte Provinz", "Fruchtbarer Boden"],
       hu: ["Lunda Norte tartomány", "Termékeny talaj"],
       ro: ["Situată în Lunda Norte", "Potențial agricol", "Producție regională"],
-      en: ["Lunda Norte province", "Fertile soil"]
+      en: ["Located in Lunda Norte", "Agricultural enterprise", "Rural development project", "Regional crop production"]
     },
     descriptionAdvanced: {
       de: "Die Fazendas in der Provinz Lunda Norte sind Pioniere der landwirtschaftlichen Erschließung in einer Region, die traditionell vom Bergbau dominiert wird. Diese Betriebe zielen darauf ab, die lokale Bevölkerung unabhängig von Lebensmittelimporten aus der Hauptstadt oder dem Ausland zu machen. Inmitten der Savannen und Flusslandschaften werden Maniok, Reis und Ölpalmen angebaut. Viele Fazendas in Lunda Norte integrieren zudem Fischzuchtprogramme in den zahlreichen Wasserläufen der Region. Sie sind wichtige Impulsgeber für die soziale Stabilität in den Bergbaudistrikten und schaffen alternative Einkommensquellen außerhalb des Diamantensektors. Wirtschaft K7 — Regionale Selbstversorgung und Agrardiversifizierung.",
@@ -432,12 +432,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.2300, -8.8450],
     name: { de: "Cidadela Stadtpark", hu: "Cidadela Városliget", ro: "Parc Urban Cidadela", en: "Cidadela Urban Park" },
-    description: { de: "Ein Park mit vielen Flächen für Kinder und Familien zum Spielen in Luanda.", hu: "Park sok területtel a gyerekek és családok számára a játékhoz Luandában.", ro: "Un spațiu verde recreativ situat în inima urbană a orașului, oferind locuri de relaxare și aer curat.", en: "A park with many spaces for children and families to play in Luanda." },
+    description: { de: "Ein Park mit vielen Flächen für Kinder und Familien zum Spielen in Luanda.", hu: "Park sok területtel a gyerekek és családok számára a játékhoz Luandában.", ro: "Un spațiu verde recreativ situat în inima urbană a orașului, oferind locuri de relaxare și aer curat.", en: "An urban park in Luanda providing a central green space for residents and city activities." },
     facts: {
       de: ["Grünfläche", "Freizeit"],
       hu: ["Zöldterület", "Szabadidő"],
       ro: ["Situat în Luanda", "Spațiu verde urban", "Zona de relaxare"],
-      en: ["Green space", "Recreation"]
+      en: ["Luanda urban park", "Central green space", "Public leisure area", "City infrastructure site"]
     },
     descriptionAdvanced: {
       de: "Der Parque Urbano da Cidadela in Luanda ist ein Beispiel für die Umwandlung ehemaliger Sport- und Militärflächen in moderne Erholungsgebiete. Er ist Teil eines größeren Komplexes, der auch das Cidadela-Stadion umfasst, und dient als grüne Lunge für die dicht besiedelten Stadtteile im Zentrum. Der Park bietet Platz für Freizeitsport, Spaziergänge und kulturelle Darbietungen. Durch seine zentrale Lage ist er leicht erreichbar und wird täglich von tausenden Menschen genutzt. Die Gestaltung des Parks zielt darauf ab, die soziale Kohäsion zu fördern und den Bürgern einen Ort der Ruhe inmitten des hektischen Stadtlebens zu bieten. Geografie K6 — Urbanisierung und öffentliche Räume.",
@@ -457,12 +457,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-BGO",
     coords: [13.4000, -9.5500],
     name: { de: "Quissama Naturreservat", hu: "Quissama Természetvédelmi Terület", ro: "Rezervația Naturală Quissama", en: "Quissama Nature Reserve" },
-    description: { de: "Ein Teil des großen Parkgebiets, das sich auf den Schutz von Lebensräumen für Wildtiere konzentriert.", hu: "A nagy parkterület egy része, amely a vadvilág élőhelyeinek védelmére összpontosít.", ro: "O parte a vastei arii a parcului, concentrată pe protejarea habitatelor pentru animalele sălbatice.", en: "Part of the large park area, focusing on protecting habitats for wild animals." },
+    description: { de: "Ein Teil des großen Parkgebiets, das sich auf den Schutz von Lebensräumen für Wildtiere konzentriert.", hu: "A nagy parkterület egy része, amely a vadvilág élőhelyeinek védelmére összpontosít.", ro: "O parte a vastei arii a parcului, concentrată pe protejarea habitatelor pentru animalele sălbatice.", en: "A protected natural reserve encompassing diverse habitats for Angola's iconic wildlife." },
     facts: {
       de: ["Lebensraumschutz", "Wilde Tiere"],
       hu: ["Élőhelyvédelem", "Vadon élő állatok"],
       ro: ["Protecția habitatului", "Animale sălbatice"],
-      en: ["Habitat protection", "Wild animals"]
+      en: ["Protected natural habitat", "Wildlife preservation site", "Diverse ecology zone", "Important nature reserve"]
     },
     descriptionAdvanced: {
       de: "Das Naturreservat Quissama (Kissama) ist das Aushängeschild des angolanischen Naturschutzes und ein Pionier im Bereich der Wiederansiedlung von Großwild. Gelegen südlich von Luanda, bietet es eine spektakuläre Kulisse aus Küstensavanne, Affenbrotbäumen und dem gewaltigen Kwanza-Fluss. Das Reservat ist weltberühmt für die 'Operation Noahs Arche', bei der per Flugzeug Elefanten und andere Tiere aus kriegsgebeutelten Gebieten und Nachbarländern hierher gebracht wurden. Heute ist Quissama ein florierendes Ökosystem und das am besten zugängliche Wildschutzgebiet für internationale Touristen. Es zeigt eindrucksvoll, wie sich die Natur nach Konflikten mit menschlicher Hilfe regenerieren kann. Geografie K7 — Ökotourismus und Naturschutzmanagement.",
@@ -482,12 +482,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-CAB",
     coords: [12.2000, -5.3000],
     name: { de: "Fazenda Cabinda", hu: "Cabinda Gazdaság", ro: "Ferma Cabinda", en: "Cabinda Farm" },
-    description: { de: "Landwirtschaftliche Aktivitäten in der Cabinda-Exklave, mit Schwerpunkt auf Kakao.", hu: "Mezőgazdasági tevékenységek a Cabinda-exklávéban, a kakaóra összpontosítva.", ro: "Activități agricole în exclava Cabinda, cu accent pe cacao.", en: "Agricultural activities in the Cabinda exclave, with a focus on cocoa." },
+    description: { de: "Landwirtschaftliche Aktivitäten in der Cabinda-Exklave, mit Schwerpunkt auf Kakao.", hu: "Mezőgazdasági tevékenységek a Cabinda-exklávéban, a kakaóra összpontosítva.", ro: "Activități agricole în exclava Cabinda, cu accent pe cacao.", en: "A farmstead in the Cabinda exclave contributing to the regional agricultural sector." },
     facts: {
       de: ["Cabinda Exklave", "Kakaoanbau"],
       hu: ["Cabinda exklávé", "Kakaótermesztés"],
       ro: ["Exclava Cabinda", "Cultivarea cacao"],
-      en: ["Cabinda exclave", "Cocoa farming"]
+      en: ["Located in Cabinda", "Agricultural output site", "Regional food supply", "Rural farm facility"]
     },
     descriptionAdvanced: {
       de: "Die Fazendas in der Provinz Cabinda sind spezialisierte landwirtschaftliche Betriebe, die das Potenzial des feucht-tropischen Klimas im Norden Angolas nutzen. Inmitten der dichten Wälder des Mayombe konzentrieren sich diese Farmen auf die Produktion von Kakao, Kautschuk und wertvollem Hartholz. Diese Fazendas haben eine lange Tradition, die bis in die Kolonialzeit zurückreicht, und werden heute mit modernen Methoden revitalisiert, um die regionale Wirtschaft zu diversifizieren. Sie sind nicht nur Produktionsstätten, sondern auch Zentren für den Schutz der Biodiversität, da sie oft Pufferzonen zum Primärwald bilden. Die Landwirtschaft in Cabinda ist ein wichtiger Baustein für die Ernährungssicherheit und den Export von Nischenprodukten. Wirtschaft K7 — Tropische Plantagenwirtschaft und Forstmanagement.",
@@ -509,12 +509,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.2400, -8.8400],
     name: { de: "Garten der Unabhängigkeit", hu: "Függetlenség Kertje", ro: "Grădina Independenței", en: "Garden of Independence" },
-    description: { de: "Ein öffentlicher Raum in Luanda, der oft für familienorientierte Veranstaltungen genutzt wird.", hu: "Luandai nyilvános tér, amelyet gyakran családközpontú rendezvényekre használnak.", ro: "O grădină publică simbolică pentru istoria recentă a Angolei, situată într-o zonă urbană centrală.", en: "A public space in Luanda, often used for family-oriented events." },
+    description: { de: "Ein öffentlicher Raum in Luanda, der oft für familienorientierte Veranstaltungen genutzt wird.", hu: "Luandai nyilvános tér, amelyet gyakran családközpontú rendezvényekre használnak.", ro: "O grădină publică simbolică pentru istoria recentă a Angolei, situată într-o zonă urbană centrală.", en: "A commemorative garden reflecting Angola's journey to independence and national identity." },
     facts: {
       de: ["Öffentliche Versammlungen", "Familien"],
       hu: ["Nyilvános összejövetelek", "Családok"],
       ro: ["Situat în Luanda", "Simbol al independenței", "Spațiu civic"],
-      en: ["Public gatherings", "Families"]
+      en: ["Commemorative space", "Independence related site", "Civic garden design", "National identity park"]
     },
     descriptionAdvanced: {
       de: "Der Garten der Unabhängigkeit (Jardim da Independência) in Luanda ist ein Ort von hoher symbolischer und gesellschaftlicher Bedeutung im Herzen der Hauptstadt. Er wurde angelegt, um an die Erlangung der Souveränität Angolas 1975 zu erinnern und dient heute als zentraler Erholungsort für die Stadtbevölkerung. Der Garten ist geprägt durch Denkmäler nationaler Helden, kunstvolle Brunnen und gepflegte Alleen, die zum Verweilen einladen. Er ist oft Schauplatz für offizielle Gedenkveranstaltungen, aber auch ein beliebter Treffpunkt für junge Menschen und Familien. Inmitten des hektischen Verkehrs von Luanda bietet er eine notwendige Ruhezone und unterstreicht die historische Identität des modernen Staates. Geschichte K8 — Nationale Identität und städtische Erinnerungskultur.",
@@ -536,12 +536,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.7000, -12.7000],
     name: { de: "Fazenda Huambo", hu: "Huambo Gazdaság", ro: "Ferma Huambo", en: "Huambo Farm" },
-    description: { de: "Ein zentraler landwirtschaftlicher Betrieb in Huambo, spezialisiert auf Getreide.", hu: "Központi mezőgazdasági üzem Huambóban, gabonafélékre szakosodva.", ro: "O fermă agricolă centrală în Huambo, specializată în cereale.", en: "A central agricultural farm in Huambo, specializing in cereals." },
+    description: { de: "Ein zentraler landwirtschaftlicher Betrieb in Huambo, spezialisiert auf Getreide.", hu: "Központi mezőgazdasági üzem Huambóban, gabonafélékre szakosodva.", ro: "O fermă agricolă centrală în Huambo, specializată în cereale.", en: "An agricultural production unit situated in the fertile highlands of Huambo province." },
     facts: {
       de: ["Huambo Region", "Getreideanbau"],
       hu: ["Huambo régió", "Gabonatermesztés"],
       ro: ["Regiunea Huambo", "Cultivarea cerealelor"],
-      en: ["Huambo region", "Cereal cultivation"]
+      en: ["Located in Huambo", "Highland agricultural site", "Fertile land utilization", "Regional production hub"]
     },
     descriptionAdvanced: {
       de: "Die Fazendas in der Provinz Huambo repräsentieren den historischen 'Kornspeicher Angolas' und sind Symbole für den agrarischen Wiederaufbau im zentralen Hochland. Auf über 1700 Metern Höhe gelegen, nutzen diese Betriebe das kühle Klima und die fruchtbaren Böden für den Anbau von Mais, Weizen und Kartoffeln. In den letzten Jahren wurden viele Fazendas modernisiert und mit fortschrittlicher Mechanisierung ausgestattet, um die nationale Nahrungsmittelproduktion zu steigern. Diese Betriebe sind zudem Zentren für die Saatgutvermehrung und die Ausbildung angolanischer Agronomen. Die Fazendas von Huambo spielen eine entscheidende Rolle bei der Versorgung der Metropolen mit Grundnahrungsmitteln und fördern die wirtschaftliche Wiederbelebung des Hochlands. Wirtschaft K7 — Getreidebau und landwirtschaftliche Forschung.",
@@ -563,12 +563,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-BGO",
     coords: [13.4000, -12.5800],
     name: { de: "Benguela Kinderspielpark", hu: "Benguela Játszótérpark", ro: "Parc de Joacă Benguela", en: "Benguela Children's Park" },
-    description: { de: "Ein schöner Kinderspielplatz in der Stadt Benguela, der bei lokalen Familien beliebt ist.", hu: "Szép játszótér Benguela városában, amely népszerű a helyi családok körében.", ro: "Un loc de joacă frumos pentru copii în orașul Benguela, popular printre familiile locale.", en: "A beautiful children's playground in the city of Benguela, popular with local families." },
+    description: { de: "Ein schöner Kinderspielplatz in der Stadt Benguela, der bei lokalen Familien beliebt ist.", hu: "Szép játszótér Benguela városában, amely népszerű a helyi családok körében.", ro: "Un loc de joacă frumos pentru copii în orașul Benguela, popular printre familiile locale.", en: "A community-focused children's play area in the city of Benguela." },
     facts: {
       de: ["Kindgerecht", "Benguela Stadt"],
       hu: ["Gyermekbarát", "Benguela város"],
       ro: ["Prietenos pentru copii", "Orașul Benguela"],
-      en: ["Child-friendly", "Benguela city"]
+      en: ["Benguela city park", "Children's recreational area", "Community facility", "Public leisure space"]
     },
     descriptionAdvanced: {
       de: "Der Parque Infantil in Benguela ist ein zentraler Ort für die Freizeitgestaltung und soziale Entwicklung von Kindern in der historischen Küstenstadt. Er wurde entworfen, um einen sicheren und anregenden Raum für Spiel, Sport und Kreativität zu bieten. Der Park verfügt über moderne Klettergerüste, Grünflächen und schattige Sitzbereiche für Eltern und Betreuer. In der entspannten Atmosphäre von Benguela ist dieser Park ein wichtiger Treffpunkt für Familien und trägt zur Stärkung des Gemeinschaftsgefühls bei. Er spiegelt den kinderfreundlichen Charakter der Provinz Benguela wider und ist ein Symbol für die Investition in die Zukunft der jungen Generation. Geografie K5 — Soziale Infrastruktur und städtische Freizeiträume.",
@@ -588,12 +588,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-MOX",
     coords: [21.5000, -11.5000],
     name: { de: "Lumeje Reservat", hu: "Lumeje Rezervátum", ro: "Rezervația Lumeje", en: "Lumeje Reserve" },
-    description: { de: "Ein Naturschutzgebiet, das den Schutz von Wildtieren im Osten Angolas fördert.", hu: "Természetvédelmi terület, amely elősegíti a vadvilág védelmét Angola keleti részén.", ro: "O rezervație naturală ce protejează flora și fauna specifică bazinului râului Lumeje.", en: "A nature reserve that promotes the conservation of wildlife in eastern Angola." },
+    description: { de: "Ein Naturschutzgebiet, das den Schutz von Wildtieren im Osten Angolas fördert.", hu: "Természetvédelmi terület, amely elősegíti a vadvilág védelmét Angola keleti részén.", ro: "O rezervație naturală ce protejează flora și fauna specifică bazinului râului Lumeje.", en: "A nature reserve focused on protecting local biodiversity in the Lumeje river region." },
     facts: {
       de: ["Ost-Angola", "Wildtiererhalt"],
       hu: ["Kelet-Angola", "Vadvilág megőrzése"],
       ro: ["Situată în Lunda Sul", "Protejează fauna locală", "Biodiversitate riverană"],
-      en: ["Eastern Angola", "Wildlife conservation"]
+      en: ["Local biodiversity focus", "Lumeje river area", "Protected nature site", "Ecological preservation"]
     },
     descriptionAdvanced: {
       de: "Das Lumeje-Reservat in der Provinz Moxico ist ein weitläufiges Schutzgebiet im Osten Angolas, das für seine unberührte Wildnis und seine Wasserreichtümer bekannt ist. Es umfasst weite Savannen, Sumpfgebiete und dichte Galeriewälder entlang des Flusses Lumeje. Das Reservat ist ein wichtiges Habitat für eine Vielzahl von Antilopenarten, Flusspferden und eine reiche Vogelwelt. Aufgrund seiner abgeschiedenen Lage im fernen Osten ist Lumeje ein Ort von hoher wissenschaftlicher Bedeutung für die Erforschung weitgehend ungestörter Ökosysteme. Der Schutz dieses Gebiets ist entscheidend für den Erhalt der biologischen Vielfalt in der flächenmäßig größten Provinz des Landes. Geografie K8 — Feuchtsavannen und Binnengewässerökologie.",
@@ -638,12 +638,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.2600, -8.8500],
     name: { de: "Ökopark Luanda", hu: "Luandai Ökopark", ro: "Parcul Ecologic Luanda", en: "Luanda Eco Park" },
-    description: { de: "Ein Lernort für Kinder über ökologische Zusammenhänge und Umweltschutz.", hu: "Tanulási hely gyerekeknek az ökológiai összefüggésekről és a környezetvédelemről.", ro: "Un parc ecologic ce promovează conservarea naturii și activitățile în aer liber în apropierea capitalei.", en: "A learning place for children about ecological relationships and environmental protection." },
+    description: { de: "Ein Lernort für Kinder über ökologische Zusammenhänge und Umweltschutz.", hu: "Tanulási hely gyerekeknek az ökológiai összefüggésekről és a környezetvédelemről.", ro: "Un parc ecologic ce promovează conservarea naturii și activitățile în aer liber în apropierea capitalei.", en: "An ecological park near the capital designed for conservation education and nature appreciation." },
     facts: {
       de: ["Umweltbildung", "Natur"],
       hu: ["Környezeti nevelés", "Természet"],
       ro: ["Situat în Luanda", "Educație ecologică", "Destinație recreativă"],
-      en: ["Environmental education", "Nature"]
+      en: ["Luanda area ecology park", "Conservation education site", "Nature appreciation area", "Urban nature zone"]
     },
     descriptionAdvanced: {
       de: "Der Ökologische Park von Luanda ist ein wegweisendes Projekt zum Schutz der natürlichen Küstenumwelt inmitten der expandierenden Hauptstadt. Er bietet einen geschützten Raum für die heimische Flora und Fauna der Luanda-Bucht, insbesondere für Mangroven und Küstenvögel. Der Park dient als wichtiges Bildungszentrum, in dem Schülern und Bürgern die Bedeutung des Umweltschutzes und der Nachhaltigkeit vermittelt wird. Durch seine Wanderwege und Beobachtungsstationen ermöglicht er der Stadtbevölkerung einen direkten Kontakt zur Natur, ohne die Stadtgrenzen verlassen zu müssen. Er ist ein Symbol für das Bemühen, Luanda zu einer grüneren und lebenswerteren Metropole zu machen. Geografie K7 — Urbaner Naturschutz und Umweltbildung.",
@@ -663,12 +663,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-MAL",
     coords: [16.6000, -9.8500],
     name: { de: "Cangandala Reservat", hu: "Cangandala Rezervátum", ro: "Rezervația Cangandala", en: "Cangandala Reserve" },
-    description: { de: "Ein wichtiger Schutzraum zur Bewahrung der Riesen-Rappenantilopen-Population.", hu: "Fontos menedék az óriás fekete lóantilop populáció megőrzésére.", ro: "O rezervație creată inițial pentru protejarea antilopei sable gigante, simbolul național al Angolei.", en: "An important sanctuary for the conservation of the giant sable antelope population." },
+    description: { de: "Ein wichtiger Schutzraum zur Bewahrung der Riesen-Rappenantilopen-Population.", hu: "Fontos menedék az óriás fekete lóantilop populáció megőrzésére.", ro: "O rezervație creată inițial pentru protejarea antilopei sable gigante, simbolul național al Angolei.", en: "A critical nature reserve established to protect the Giant Sable Antelope, a national symbol." },
     facts: {
       de: ["Erhaltungszucht", "Seltene Art"],
       hu: ["Megőrző tenyésztés", "Ritka faj"],
       ro: ["Situată în Malanje", "Protecție sable gigante", "Parc național important"],
-      en: ["Conservation breeding", "Rare species"]
+      en: ["Giant Sable protection", "National symbol habitat", "Conservation stronghold", "Critical nature reserve"]
     },
     descriptionAdvanced: {
       de: "Das Reservat von Cangandala in der Provinz Malanje ist weltweit als die Heimat der Riesen-Rappenantilope (Palanca Negra Gigante) berühmt. Es wurde speziell zum Schutz dieser majestätischen Tiere eingerichtet, die das nationale Symbol Angolas darstellen. Das Reservat umfasst eine abwechslungsreiche Landschaft aus Miombo-Wäldern und weiten Grasflächen, die ideale Bedingungen für die Antilopen bieten. Cangandala ist ein Zentrum für intensiven Naturschutz, in dem Forscher und Ranger rund um die Uhr arbeiten, um die Population vor Wilderei zu schützen und zu vermehren. Für Angola ist Cangandala ein Ort von unschätzbarem ökologischem und symbolischem Wert. Geografie K7 — Schutzgebiete und nationale Symbole.",
@@ -715,12 +715,12 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.7500, -12.7500],
     name: { de: "Botanischer Park Huambo", hu: "Huambo Botanikus Park", ro: "Parcul Botanic Huambo", en: "Huambo Botanical Park" },
-    description: { de: "Ein pädagogischer Garten in Huambo, der Familien die Flora Angolas näherbringt.", hu: "Oktatókert Huambóban, amely közelebb hozza a családokhoz Angola növényvilágát.", ro: "O grădină botanică situată în Huambo, concentrată pe studierea și conservarea plantelor din regiunile interioare.", en: "An educational garden in Huambo that brings the flora of Angola closer to families." },
+    description: { de: "Ein pädagogischer Garten in Huambo, der Familien die Flora Angolas näherbringt.", hu: "Oktatókert Huambóban, amely közelebb hozza a családokhoz Angola növényvilágát.", ro: "O grădină botanică situată în Huambo, concentrată pe studierea și conservarea plantelor din regiunile interioare.", en: "A botanical site highlighting the diverse highland vegetation and plant species of central Angola." },
     facts: {
       de: ["Bildung", "Pflanzenwelt"],
       hu: ["Oktatás", "Növényvilág"],
       ro: ["Situat în Huambo", "Cercetare botanică", "Flora platoului central"],
-      en: ["Education", "Plant life"]
+      en: ["Highland botanical site", "Flora diversity showcase", "Educational plant garden", "Regional nature hub"]
     },
     descriptionAdvanced: {
       de: "Der Botanische Park von Huambo ist das grüne Herz der zweitgrößten Stadt Angolas und ein wichtiges Zentrum für die Erhaltung der Hochlandflora. Inmitten des Huambo-Plateaus bietet der Park eine beeindruckende Sammlung einheimischer Baum- und Pflanzenarten, die an das kühlere Gebirgsklima angepasst sind. Er dient sowohl als Forschungsstätte für die Agrarwissenschaftliche Fakultät als auch als beliebter Ort für Umweltbildung und städtische Erholung. Die weitläufigen Alleen und gepflegten Gärten spiegeln die Tradition Huambos als 'Gartenstadt' wider und bieten einen Lebensraum für zahlreiche Vogelarten. Der Park ist ein Symbol für die kulturelle und ökologische Wiederbelebung der Region. Geografie K7 — Urbaner Naturschutz und Hochlandbotanik.",

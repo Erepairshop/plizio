@@ -21,12 +21,8 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1888 by French settlers.", "Primary port city connecting Ethiopia to the Red Sea.", "Population is concentrated in the coastal capital area.", "Houses the historic Hamoudi Mosque, a local landmark.", "Serves as the main logistics hub for the Horn of Africa.", "Elevation is near sea level, typical for coastal ports."]
     },
-    factsAdvanced: {
-      ro: ["Populație estimată la peste 600.000 de locuitori.", "Situat la doar câțiva metri deasupra nivelului mării.", "Portul gestionează peste 90% din comerțul Etiopiei.", "Climat arid cu temperaturi medii ridicate tot anul.", "Fondat oficial în anul 1888 de francezi.", "Punct de intersecție între Marea Roșie și Golful Aden."]
-    },
-    factsAdvanced: {
-      de: ["Gegründet: 1888", "Einwohner: Über 500.000", "Hafenkapazität: Einer der größten in Ostafrika", "Wichtiger Knotenpunkt für äthiopische Importe", "Lage: Am Golf von Tadjoura", "Klima: Heißes Wüstenklima"]
-    }
+    
+    
   },
     description: {
       de: "Die Hauptstadt am Golf von Tadjoura ist das pulsierende Herz des Landes und ein strategisch wichtiger Hafen am Horn von Afrika.",
@@ -59,12 +55,8 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Second-largest urban center in the country.", "Significant stop on the Djibouti-Ethiopia railway.", "Strategically located in the southern interior.", "Surrounded by rocky plateaus and mountain ranges.", "Main economic activities revolve around regional trade.", "Arid climate influences local agriculture and settlement."]
     },
-    factsAdvanced: {
-      ro: ["Situat la o altitudine de aproximativ 750 metri.", "Aproape de granița cu Etiopia și Somalia.", "Centru administrativ pentru regiunea cu același nume.", "Temperatura medie este mai scăzută decât în capitală.", "Regiunea este cunoscută pentru creșterea cămilelor.", "Masivul Arrei domină orizontul orașului."]
-    },
-    factsAdvanced: {
-      de: ["Zweitgrößte Stadt des Landes", "Landschaft: Vulkanische Hügel", "Wichtiger lokaler Markt", "Höhe über Meeresspiegel: Ca. 750 Meter", "Regionale Bedeutung: Zentrum der Region Ali Sabieh", "Wirtschaft: Handel mit Vieh"]
-    }
+    
+    
   },
     description: {
       de: "Die zweitgrößte Stadt des Landes liegt in einer beeindruckenden Bergregion und ist bekannt für ihre Granitfelsen.",
@@ -97,12 +89,8 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Historical center for the regional salt trade.", "Known as the 'White City' for its architecture.", "Oldest continually inhabited settlement in the country.", "Situated at the foot of the Goda Mountains.", "Formerly served as a vital maritime connection point.", "Modern Tadjourah port enhances local trade capacity."]
     },
-    factsAdvanced: {
-      ro: ["Unul dintre cele mai vechi porturi din regiune.", "Cunoscut pentru moscheile sale albe tradiționale.", "Poartă de acces către pădurea protejată Day.", "Golful Tadjourah are o adâncime considerabilă.", "Regiunea a fost centrul sultanatelor Adal.", "Climat influențat de briza mării pe tot parcursul anului."]
-    },
-    factsAdvanced: {
-      de: ["Spitzname: Weiße Stadt", "Lage: Golf von Tadjoura", "Ehemaliges Zentrum des Karawanenhandels", "Architektur: Weiß getünchte Gebäude", "Historische Bedeutung: Sultanatszentrum", "Tourismus: Zugang zu den Goudasee-Bergen"]
-    }
+    
+    
   },
     description: {
       de: "Eine der ältesten Städte des Landes, bekannt als die 'Weiße Stadt' aufgrund ihrer kalkverputzten Häuser.",
@@ -135,12 +123,8 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Served as the original French administrative capital.", "Located at the strategic entrance of the Red Sea.", "Historically significant for French colonial activity.", "Key coastal hub for local fishing industries.", "Geographically positioned near the Mandeb Strait.", "Modern infrastructure projects include a deep-water port."]
     },
-    factsAdvanced: {
-      ro: ["A servit drept prima capitală colonială franceză.", "Situat la intrarea în Strâmtoarea Bab-el-Mandeb.", "Zona este protejată pentru fauna marină rară.", "Rechinii balenă sunt frecvent observați în larg.", "Punct strategic de control al traficului maritim.", "Regiunea a fost explorată intens în secolul XIX."]
-    },
-    factsAdvanced: {
-      de: ["Erste französische Siedlung: 1862", "Strategische Lage: Straße von Bab al-Mandab", "Wirtschaft: Fischerei", "Tourismus: Nähe zu Korallenriffen", "Historische Funktion: Ehemaliger französischer Stützpunkt", "Umgebung: Aride Küstenlandschaft"]
-    }
+    
+    
   },
     description: {
       de: "Diese Küstenstadt war die erste französische Kolonialniederlassung in der Region und bietet einen Blick auf das Rote Meer.",
@@ -173,12 +157,8 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Administrative capital of the Dikhil Region.", "Located near the vast Grand Bara desert plain.", "Critical transit point for cross-border Ethiopian trade.", "Dominated by arid landscapes and basalt rock formations.", "Population is primarily nomadic and pastoralist.", "Access to groundwater is a key factor for settlement."]
     },
-    factsAdvanced: {
-      ro: ["Poartă de acces către Lacul Abbe.", "Oraș fondat în jurul unor surse de apă vitale.", "Punct critic pe ruta către regiunile muntoase.", "Climat deșertic extrem cu variații mari de temperatură.", "Fortul Dikhil a fost construit în perioada colonială.", "Zona este locuită predominant de triburi afar."]
-    },
-    factsAdvanced: {
-      de: ["Region: Hauptstadt der Region Dikhil", "Lage: Landesinnere, nah der äthiopischen Grenze", "Wirtschaft: Viehhandel", "Wichtiger Transitort", "Klima: Sehr trocken und heiß", "Vegetation: Wüsten- und Steppenlandschaft"]
-    }
+    
+    
   },
     description: {
       de: "Ein wichtiges Verwaltungszentrum im Südwesten, das als Tor zum Abbe-See und seinen bizarren Kalksteinformationen dient.",
@@ -210,9 +190,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Liegt auf einer höheren Ebene mit kühlerem Klima.", "Beliebtes Ziel zur Flucht vor der Küstenhitze.", "Regionales Zentrum der Region Arta.", "Umgeben von vulkanischen Bergen und Plateaus.", "Logistischer Knotenpunkt zwischen Küste und Hinterland.", "Beheimatet eine für Hochlandgebiete typische Flora und Fauna."]
     },
-    factsAdvanced: {
-      en: ["Located at a higher altitude, offering a cooler climate.", "Popular destination for escaping coastal heat.", "Regional hub for the Arta Region.", "Surrounded by volcanic mountains and plateaus.", "Logistical junction for transport between coast and interior.", "Supports diverse flora and fauna unique to highland areas."]
-    }
+    
   },
     description: {
       de: "Auf einem Hochplateau gelegen, bietet Arta ein milderes Klima als die Küstenebene und ist ein beliebter Erholungsort.",
@@ -244,9 +222,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Historisch bedeutender Halt an der Bahnstrecke nach Äthiopien.", "Wichtige Wasserstation für Dampflokomotiven in der Kolonialzeit.", "Inmitten der ariden, felsigen Landschaft von Ali Sabieh gelegen.", "Die Umgebung wird von saisonalen Wasserläufen (Wadis) dominiert.", "Infrastrukturreste zeugen von der regionalen Industriegeschichte.", "Dient heute als kleines regionales Zentrum für lokale Hirten."]
     },
-    factsAdvanced: {
-      en: ["Historically significant stop on the railway to Ethiopia.", "Key water station for steam-era railway transport.", "Located in the arid, rocky terrain of the Ali Sabieh Region.", "Environment dominated by seasonal watercourses.", "Infrastructure remnants tell of regional industrial history.", "Serves as a small regional center for local pastoralists."]
-    }
+    
   },
     description: {
       de: "Eine strategisch wichtige Stadt an der Eisenbahnlinie zwischen Dschibuti und Addis Abeba.",
@@ -278,9 +254,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Liegt in der abgelegenen Region Dikhil nahe der Grenze zu Äthiopien.", "Die Wirtschaft basiert stark auf traditioneller Viehzucht.", "Das Gelände besteht aus vulkanischen Formationen und Trockenebenen.", "Strategische Lage für die lokale grenzüberschreitende Mobilität.", "Der Lebensstil der Gemeinschaft ist an extrem trockene Bedingungen angepasst.", "Abhängigkeit von traditionellen Brunnen für Mensch und Vieh."]
     },
-    factsAdvanced: {
-      en: ["Located in the remote Dikhil Region near Ethiopia.", "Economy is heavily centered on traditional pastoralism.", "Terrain consists of volcanic landscapes and arid plains.", "Strategic position for local cross-border mobility.", "Community lifestyle adapted to harsh, dry conditions.", "Reliance on traditional wells for livestock and daily use."]
-    }
+    
   },
     description: {
       de: "Eine Siedlung in der westlichen Wüste, die als wichtiger Stopp auf der Route nach Äthiopien dient.",
@@ -312,9 +286,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Küstenstadt direkt an der Grenze zu Somalia gelegen.", "Fungiert als ein zentraler regionaler Grenzübergangspunkt.", "Geografie geprägt von Küstendünen und Sandstränden.", "Umweltbedingungen werden stark vom Golf von Aden beeinflusst.", "Strategische Bedeutung für Sicherheit und regionalen Handel.", "Wirtschaftliche Aktivitäten konzentrieren sich auf den Grenzbetrieb."]
     },
-    factsAdvanced: {
-      en: ["Coastal town marking the border with Somalia.", "Functions as a key regional border crossing point.", "Geography dominated by coastal dunes and sandy beaches.", "Environmental conditions shaped by the Gulf of Aden.", "Strategic significance for security and regional trade.", "Economic activity centered on local border operations."]
-    }
+    
   },
     description: {
       de: "Die einzige offizielle Grenzstadt zwischen Dschibuti und Somalia, gelegen an der Küste.",
@@ -346,9 +318,7 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Stadt im Landesinneren der nördlichen Region Tadjourah.", "Umgeben von komplexem vulkanischem und gebirgigem Gelände.", "Bevölkerung praktiziert traditionelle Pastoralwirtschaft.", "Bekannt für extrem herausfordernde und trockene Bedingungen.", "Geografisch weitgehend isoliert von den Küstenzentren.", "Lebensstil hängt stark von saisonalen Regenfällen und Brunnen ab."]
     },
-    factsAdvanced: {
-      en: ["Inland town located in the northern Tadjourah Region.", "Surrounded by complex volcanic and mountainous terrain.", "Population practices traditional pastoralism and subsistence.", "Area is noted for extreme and challenging arid conditions.", "Geographically isolated from major coastal urban centers.", "Lifestyle heavily dependent on seasonal rain and wells."]
-    }
+    
   },
     description: {
       de: "Ein abgelegenes Dorf im Norden, bekannt für seine archäologischen Funde und Felsmalereien.",

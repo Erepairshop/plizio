@@ -21,9 +21,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Etiópia legmagasabb csúcsa", "Magasság: 4550 m", "A Simien-hegység része", "Az Etióp-magasföld legmagasabb pontja", "Zord magashegyi klíma", "Kiemelt túrázási célpont"]
     },
-    factsAdvanced: {
-      de: ["Höhe: 4550 Meter", "Ort: Simien-Nationalpark", "Erstbesteigung: 1841 durch Ferret und Galinier", "Status: UNESCO-Welterbe-Region", "Flora: Afroalpine Vegetation", "Fauna: Heimat des Walia-Steinbocks"]
-    }
+    
   },
     facts: {
       de: ["Höhe: 4550 m", "Teil des Simien-Gebirges", "UNESCO-Welterbe"],
@@ -31,18 +29,8 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       ro: ["Înălțime: 4550 m", "Parte a munților Simien", "Patrimoniul mondial UNESCO"],
       en: ["Elevation: 4550 m", "Part of the Simien Mountains", "UNESCO World Heritage site"]
     },
-    descriptionAdvanced: {
-      de: "Ras Daschän ist mit 4550 Metern der höchste Berg Äthiopiens und der zeithöchste Afrikas. Er befindet sich inmitten des dramatischen Simien-Gebirges, das als UNESCO-Welterbe geschützt ist. Die schroffen Felsformationen und tiefen Täler sind Lebensraum für seltene Tierarten wie den Äthiopischen Steinbock und die Dscheladas. Reisende, die diesen Gipfel erklimmen, werden mit einem atemberaubenden Blick über das äthiopische Hochland belohnt, das Geografie K7-Kursen als Fallbeispiel für alpine Ökosysteme in den Tropen dient.",
-      hu: "A 4550 méter magas Ras Dashen Etiópia legmagasabb hegye, egyben Afrika tizedik legmagasabb pontja. A drámai Simien-hegység szívében fekszik, amelyet az UNESCO világörökség részeként tartanak számon. A sziklás csúcsok és mély völgyek olyan ritka fajoknak adnak otthont, mint az etióp kőszáli kecske és a dzseládapávián. A hegymászók számára nyújtott panoráma a K7-es földrajz tantervben az egyenlítői magashegyi élővilág tanulmányozásához ideális példa.",
-      ro: "Cu o înălțime de 4550 de metri, Ras Dashen este cel mai înalt munte din Etiopia și al zecelea ca înălțime din Africa. Situat în inima munților Simien, acesta este protejat ca sit al Patrimoniului Mondial UNESCO. Formațiunile stâncoase abrupte și văile adânci constituie habitatul unor specii rare precum capra de munte etiopiană și babuinul gelada. Ascensiunea pe acest vârf oferă o priveliște spectaculoasă asupra podișului etiopian, fiind un studiu de caz excelent pentru cursurile de geografie (clasa a 7-a) despre ecosistemele alpine tropicale.",
-      en: "Ras Dashen, standing at 4550 meters, is the highest mountain in Ethiopia and the tenth highest in Africa. It is located within the dramatic Simien Mountains, which are protected as a UNESCO World Heritage site. The rugged rock formations and deep valleys provide a habitat for rare species like the Walia ibex and the Gelada baboon. Climbers reaching this summit are rewarded with stunning views over the Ethiopian Highlands, serving as a prime case study in K7 geography for tropical alpine ecosystems."
-    },
-    factsAdvanced: {
-      de: ["Höhe: 4550 m über dem Meeresspiegel.", "Teil des UNESCO-Welterbes Simien-Gebirge.", "Heimat des seltenen Walia-Steinbocks.", "Erstbesteigung erfolgte durch Franzosen im Jahr 1841.", "Gehört zum äthiopischen Hochland-Plateau.", "Das Klima ist durch große Tagestemperaturschwankungen geprägt."],
-      hu: ["Magasság: 4550 méter a tengerszint felett.", "A Simien-hegység az UNESCO világöröksége.", "Az etióp kőszáli kecske egyik utolsó menedéke.", "Az első európai megmászása 1841-ben történt.", "Az etióp fennsík részét képezi.", "A hőmérséklet drasztikusan ingadozik nappal és éjjel."],
-      ro: ["Înălțime: 4550 m deasupra nivelului mării.", "Munții Simien fac parte din Patrimoniul Mondial UNESCO.", "Habitac pentru capra de munte Walia.", "Prima ascensiune europeană a avut loc în 1841.", "Face parte din podișul înalt etiopian.", "Temperaturile oscilează extrem între zi și noapte."],
-      en: ["Elevation: 4550 m above sea level.", "Part of the Simien Mountains UNESCO World Heritage site.", "Habitat for the rare Walia ibex.", "First European ascent recorded in 1841.", "Situated on the Ethiopian Highland Plateau.", "Characterized by high diurnal temperature variation."]
-    }, image: "/poi-images/ras-dashen-relief-v2.webp"},
+    
+     image: "/poi-images/ras-dashen-relief-v2.webp"},
   {
     id: "tulu-dimtu-relief-v2",
     type: "mountain",
@@ -62,9 +50,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["A Bale-hegység legmagasabb pontja", "Magasság: 4377 m", "Etiópia 2. legmagasabb csúcsa", "Bale-hegység Nemzeti Park", "Afro-alpesi élőhelyek", "Vulkanikus eredetű geológia"]
     },
-    factsAdvanced: {
-      de: ["Höhe: 4377 Meter", "Lage: Bale-Mountains-Nationalpark", "Bedeutung: Wichtiger Wasserquellbereich", "Klima: Kaltes Hochgebirgsklima", "Endemismus: Hohe Dichte an Arten"]
-    }
+    
   },
     facts: {
       de: ["Höhe: 4377 m", "Wichtiges Ökosystem", "Vulkanischer Ursprung"],
@@ -91,9 +77,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["A világ egyik legforróbb helye", "Geológiailag aktív Afar-háromszög", "Három tektonikus lemez találkozása", "Sós síkságok és forró források", "Földöntúli, szélsőséges táj", "A legalacsonyabb régiók egyike"]
     },
-    factsAdvanced: {
-      de: ["Tiefe: bis zu -125 Meter", "Temperatur: oft über 50 Grad Celsius", "Phänomen: Tektonische Spreizungszone", "Bodenschätze: Große Salzvorkommen", "Charakter: Geothermisches Hotspot-Gebiet"]
-    }
+    
   },
     facts: {
       de: ["Bis zu 125 m unter dem Meeresspiegel", "Vulkane und Salzseen", "Geologisch aktiv"],
@@ -120,9 +104,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["Folyamatosan működő pajzsvulkán", "Híres aktív lávató", "A világ egyik ritka lávatavú vulkánja", "A Danakil-mélyföld geológiai része", "Tektonikus aktivitás színhelye", "Különleges éjszakai látvány"]
     },
-    factsAdvanced: {
-      de: ["Höhe: 613 Meter", "Eigenschaft: Dauerhafter Lavasee", "Region: Danakil-Senke", "Typ: Schildvulkan", "Besonderheit: Einer der aktivsten Vulkane Afrikas"]
-    }
+    
   },
     facts: {
       de: ["Dauerhafter Lavasee", "Höhe: 613 m", "Besucht von Forschern"],
@@ -199,9 +181,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
     factsAdvanced: {
       hu: ["A Gibe-folyó által kivájt völgy", "Délnyugat-etiópiai földrajzi egység", "Fontos ökológiai folyosó", "Gazdag biodiverzitás", "Trópusi és szavannás növényzet", "Tájképi szempontból meghatározó"]
     },
-    factsAdvanced: {
-      de: ["Region: Zentral-Äthiopien", "Wichtigkeit: Wasserversorgung", "Biodiversität: Hochgradig artenreich", "Geologie: Erosionsgeprägtes Tal"]
-    }
+    
   },
     facts: {
       de: ["Wichtiger Flusslauf", "Biodiversität", "Landwirtschaftlich genutzt"],

@@ -10,9 +10,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Dhaka", hu: "Dakka", ro: "Dhaka", en: "Dhaka" },
     description: {
       de: "Die Hauptstadt von Bangladesch ist das wirtschaftliche und kulturelle Zentrum des Landes, bekannt für ihre unzähligen Rikschas.",
-      hu: "Banglades fővárosa az ország gazdasági és kulturális központja, amely számtalan riksájáról ismert.",
+      hu: "Bangladesh fővárosa és legnépesebb városa, a Buriganga folyó partján fekszik.",
       ro: "Capitala Bangladeshului este centrul economic și cultural al țării, renumită pentru nenumăratele sale ricșe.",
-      en: "The capital of Bangladesh is the economic and cultural center of the country, known for its countless rickshaws.",
+      en: "The capital and largest city of Bangladesh, serving as the nation's political, economic, and cultural hub.",
     },
     
      image: "/poi-images/dhaka-cities-v2.webp",
@@ -37,9 +37,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Chittagong", hu: "Csittagong", ro: "Chittagong", en: "Chittagong" },
     description: {
       de: "Die wichtigste Hafenstadt des Landes liegt am Golf von Bengalen und ist das Herzstück des internationalen Seehandels.",
-      hu: "Az ország legfontosabb kikötővárosa a Bengáli-öböl partján fekszik, és a nemzetközi tengeri kereskedelem központja.",
+      hu: "Az ország legnagyobb kikötővárosa a Karnaphuli folyó torkolatánál, a Bengáli-öböl közelében.",
       ro: "Cel mai important oraș portuar al țării este situat pe Golful Bengal și este inima comerțului maritim internațional.",
-      en: "The country's main port city lies on the Bay of Bengal and is the heart of international maritime trade.",
+      en: "A major coastal city and port, playing a vital role in the country's international trade and economy.",
     },
     
      image: "/poi-images/chittagong-cities-v2.webp",
@@ -64,9 +64,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Khulna", hu: "Khulna", ro: "Khulna", en: "Khulna" },
     description: {
       de: "Die Industriestadt dient als Tor zu den berühmten Sundarbans, dem größten Mangrovenwald der Welt.",
-      hu: "Az iparváros kapuként szolgál a híres Sundarbans felé, amely a világ legnagyobb mangroveerdeje.",
+      hu: "Ipari és kereskedelmi központ délnyugaton, közel a Szundarbansz mangroveerdőhöz.",
       ro: "Orașul industrial servește ca poartă de acces către faimosul Sundarbans, cea mai mare pădure de mangrove din lume.",
-      en: "The industrial city serves as a gateway to the famous Sundarbans, the largest mangrove forest in the world.",
+      en: "An industrial city in southwestern Bangladesh, serving as a gateway to the Sundarbans mangrove forest.",
     },
     
      image: "/poi-images/khulna-cities-v2.webp",
@@ -91,9 +91,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Rajshahi", hu: "Rádzssahi", ro: "Rajshahi", en: "Rajshahi" },
     description: {
       de: "Diese historische Metropole am Ufer des Flusses Padma ist berühmt für ihre Seidenproduktion und Bildungseinrichtungen.",
-      hu: "Ez a történelmi metropolisz a Padma folyó partján híres a selyemgyártásáról és oktatási intézményeiről.",
+      hu: "Az északnyugati régió közigazgatási központja, a Padma folyó partján terül el.",
       ro: "Această metropolă istorică de pe malul râului Padma este renumită pentru producția de mătase și instituțiile educaționale.",
-      en: "This historic metropolis on the banks of the Padma River is famous for its silk production and educational institutions.",
+      en: "An education and administrative center known for its historical sites and proximity to the Padma River.",
     },
     
      image: "/poi-images/rajshahi-cities-v2.webp",
@@ -118,9 +118,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Sylhet", hu: "Szilhet", ro: "Sylhet", en: "Sylhet" },
     description: {
       de: "Im Nordosten gelegen, ist diese Stadt das Zentrum des bengalischen Teeanbaus und reich an islamischen Heiligtümern.",
-      hu: "Az északkeleten fekvő város a bengáli teatermesztés központja, és gazdag iszlám szentélyekben.",
+      hu: "Északkelet-bangladesi város, amely a környező teaültetvényeiről ismert.",
       ro: "Situat în nord-est, acest oraș este centrul cultivării ceaiului bengalez și bogat în sanctuare islamice.",
-      en: "Located in the northeast, this city is the center of Bengali tea cultivation and rich in Islamic shrines.",
+      en: "A city in northeastern Bangladesh famous for its lush tea gardens and spiritual heritage.",
     },
     
      image: "/poi-images/sylhet-cities-v2.webp",
@@ -145,9 +145,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Barisal", hu: "Barisal", ro: "Barisal", en: "Barisal" },
     description: {
       de: "Die Flussstadt im Süden des Landes ist von einem weiten Netz aus Wasserwegen durchzogen und ein Agrarzentrum.",
-      hu: "Az ország déli részén fekvő folyóparti várost kiterjedt vízi utak hálózata szeli át, és jelentős agrárközpont.",
+      hu: "Déli város, a Kirtankhola folyó mentén, gazdag folyóhálózat jellemzi.",
       ro: "Orașul fluvial din sudul țării este străbătut de o vastă rețea de căi navigabile și este un centru agricol.",
-      en: "The river city in the south of the country is crisscrossed by a vast network of waterways and is an agricultural center.",
+      en: "A riverine city in the south, often called the Venice of Bengal due to its many waterways.",
     },
     
      image: "/poi-images/barisal-cities-v2.webp",
@@ -172,9 +172,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Rangpur", hu: "Rangpur", ro: "Rangpur", en: "Rangpur" },
     description: {
       de: "Im Nordwesten gelegen, besitzt die Stadt historische Paläste und spielt eine Schlüsselrolle in der regionalen Landwirtschaft.",
-      hu: "Az északnyugaton fekvő város történelmi palotákkal rendelkezik, és kulcsszerepet játszik a regionális mezőgazdaságban.",
+      hu: "Az északi régió fontos városa, a mezőgazdaság és kereskedelem központja.",
       ro: "Situat în nord-vest, orașul are palate istorice și joacă un rol cheie în agricultura regională.",
-      en: "Located in the northwest, the city features historical palaces and plays a key role in regional agriculture.",
+      en: "A major city in northern Bangladesh known for its rich agricultural production and colonial history.",
     },
     
      image: "/poi-images/rangpur-cities-v2.webp",
@@ -199,9 +199,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Mymensingh", hu: "Mymensingh", ro: "Mymensingh", en: "Mymensingh" },
     description: {
       de: "Am Ufer des alten Brahmaputra gelegen, ist diese Region für ihr reiches literarisches Erbe und landwirtschaftliche Forschung bekannt.",
-      hu: "A régi Brahmaputra partján fekvő régió gazdag irodalmi örökségéről és mezőgazdasági kutatásairól ismert.",
+      hu: "A Brahmaputra folyó partján elterülő város, központi szerepet játszik a régióban.",
       ro: "Situată pe malul vechiului Brahmaputra, această regiune este cunoscută pentru patrimoniul său literar bogat și cercetarea agricolă.",
-      en: "Located on the banks of the old Brahmaputra, this region is known for its rich literary heritage and agricultural research.",
+      en: "A city on the banks of the Brahmaputra River, known for its educational institutions and local trade.",
     },
     
      image: "/poi-images/mymensingh-cities-v2.webp",
@@ -226,9 +226,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Comilla", hu: "Comilla", ro: "Comilla", en: "Comilla" },
     description: {
       de: "Die Stadt nahe der indischen Grenze beherbergt antike buddhistische Ruinen und hat einen wichtigen militärischen Stützpunkt.",
-      hu: "Az indiai határ közelében fekvő város ősi buddhista romoknak ad otthont, és fontos katonai bázissal rendelkezik.",
+      hu: "Történelmi város az ország keleti részén, fontos kereskedelmi és közlekedési pont.",
       ro: "Orașul din apropierea graniței indiene adăpostește ruine budiste antice și are o importantă bază militară.",
-      en: "The city near the Indian border houses ancient Buddhist ruins and has an important military base.",
+      en: "A historic city in eastern Bangladesh, home to significant archaeological sites and educational institutes.",
     },
     
      image: "/poi-images/comilla-cities-v2.webp",
@@ -253,9 +253,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Narayanganj", hu: "Narayanganj", ro: "Narayanganj", en: "Narayanganj" },
     description: {
       de: "Als industrielles Herz nahe Dhaka konzentriert sich diese Stadt auf die Textilproduktion am Ufer des Flusses Shitalakshya.",
-      hu: "Mint ipari központ Dakka közelében, ez a város a textilgyártásra összpontosít a Shitalakshya folyó partján.",
+      hu: "Dhaka szomszédságában fekvő iparváros, a textilipar egyik fő központja.",
       ro: "Ca inimă industrială în apropiere de Dhaka, acest oraș se concentrează pe producția de textile pe malurile râului Shitalakshya.",
-      en: "As an industrial heart near Dhaka, this city focuses on textile production on the banks of the Shitalakshya River.",
+      en: "An industrial city near Dhaka, historically known for its flourishing jute and textile sectors.",
     },
     
      image: "/poi-images/narayanganj-cities-v2.webp",
@@ -334,7 +334,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Kushtia", hu: "Kushtia", ro: "Kushtia", en: "Kushtia" },
     description: {
       de: "Kushtia ist ein tief verwurzeltes kulturelles Zentrum und eng mit dem bengalischen Nationaldichter Rabindranath Tagore verbunden.",
-      hu: "Kushtia egy mélyen gyökerező kulturális központ, amely szorosan kapcsolódik Rabindranáth Tagore bengáli nemzeti költőhöz.",
+      hu: "Kulturális központ, a híres költő, Lalon Shah szülőhelye.",
       ro: "Kushtia este un centru cultural adânc înrădăcinat, strâns asociat cu poetul național bengalez Rabindranath Tagore.",
       en: "Kushtia is a deeply rooted cultural center, closely associated with the Bengali national poet Rabindranath Tagore.",
     },
@@ -361,7 +361,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Jessore", hu: "Jessore", ro: "Jessore", en: "Jessore" },
     description: {
       de: "Die westliche Grenzstadt ist ein wichtiger Handelsknotenpunkt zwischen Bangladesch und dem indischen Westbengalen.",
-      hu: "A nyugati határváros fontos kereskedelmi csomópont Banglades és az indiai Nyugat-Bengál között.",
+      hu: "Az ország délnyugati részének fontos kereskedelmi városa.",
       ro: "Orașul de graniță din vest este un nod comercial important între Bangladesh și Bengalul de Vest indian.",
       en: "The western border town is an important trading hub between Bangladesh and the Indian state of West Bengal.",
     },
@@ -388,7 +388,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Cox's Bazar", hu: "Cox's Bazar", ro: "Cox's Bazar", en: "Cox's Bazar" },
     description: {
       de: "Diese Küstenstadt ist das absolute touristische Zentrum des Landes und bietet endlose Strände am Indischen Ozean.",
-      hu: "Ez a tengerparti város az ország abszolút turisztikai központja, amely végtelen strandokat kínál az Indiai-óceán mentén.",
+      hu: "A világ leghosszabb természetes homokos strandjával rendelkező tengerparti üdülőváros.",
       ro: "Acest oraș de coastă este centrul turistic absolut al țării, oferind plaje nesfârșite de-a lungul Oceanului Indian.",
       en: "This coastal town is the absolute tourist center of the country, offering endless beaches along the Indian Ocean.",
     },
@@ -415,7 +415,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Brahmanbaria", hu: "Brahmanbaria", ro: "Brahmanbaria", en: "Brahmanbaria" },
     description: {
       de: "Die traditionell geprägte Stadt ist ein Zentrum für klassische Musik und alte Handwerkskünste in Bengalen.",
-      hu: "A hagyományokkal átszőtt város a klasszikus zene és a régi kézműves mesterségek központja Bengáliában.",
+      hu: "Keleti város, a Titas folyó partján, híres a zenéjéről és kultúrájáról.",
       ro: "Orașul tradițional este un centru pentru muzica clasică și meșteșugurile vechi din Bengal.",
       en: "The traditional city is a center for classical music and ancient crafts in Bengal.",
     },
@@ -442,7 +442,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Dinajpur", hu: "Dinajpur", ro: "Dinajpur", en: "Dinajpur" },
     description: {
       de: "Die ländliche Stadt im Nordwesten beherbergt kunstvolle historische Gebäude und ist eine wichtige landwirtschaftliche Basis.",
-      hu: "Az északnyugati vidéki város díszes történelmi épületeknek ad otthont, és fontos mezőgazdasági bázis.",
+      hu: "Az északi régió történelmi városa, híres a Kantajew templomról.",
       ro: "Orașul rural din nord-vest găzduiește clădiri istorice ornamentate și este o bază agricolă importantă.",
       en: "The rural city in the northwest is home to ornate historical buildings and is an important agricultural base.",
     },
@@ -469,7 +469,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Pabna", hu: "Pabna", ro: "Pabna", en: "Pabna" },
     description: {
       de: "Pabna ist eine aufstrebende Industrie- und Bildungsstadt, die am nördlichen Ufer des Flusses Padma liegt.",
-      hu: "Pabna egy feltörekvő ipari és oktatási város, amely a Padma folyó északi partján fekszik.",
+      hu: "Fontos város az Ishwardi-tól nem messze, az ország egyik legnagyobb atomerőművének közelében.",
       ro: "Pabna este un oraș industrial și educațional în plină dezvoltare, situat pe malul nordic al râului Padma.",
       en: "Pabna is an emerging industrial and educational city located on the northern bank of the Padma River.",
     },
@@ -496,7 +496,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Tangail", hu: "Tangail", ro: "Tangail", en: "Tangail" },
     description: {
       de: "Die Stadt ist landesweit berühmt für ihre traditionelle Handweberei und die Herstellung hochwertiger Textilien.",
-      hu: "A város országszerte híres a hagyományos kézi szövésről és a kiváló minőségű textíliák gyártásáról.",
+      hu: "Híres a hagyományos 'Tangail sari' textíliáiról.",
       ro: "Orașul este faimos la nivel național pentru țesutul manual tradițional și producția de textile de înaltă calitate.",
       en: "The city is nationally famous for its traditional hand-weaving and the production of high-quality textiles.",
     },
@@ -523,7 +523,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Sirajganj", hu: "Sirajganj", ro: "Sirajganj", en: "Sirajganj" },
     description: {
       de: "Als Tor zum Norden liegt die Stadt strategisch wichtig am Fluss Jamuna und ist ein bedeutender textiler Produktionsstandort.",
-      hu: "Az észak kapujaként a város stratégiai szempontból fontos helyen, a Jamuna folyó partján fekszik, és jelentős textilgyártó központ.",
+      hu: "A Jamuna folyó partján elterülő, kereskedelmi szempontból stratégiai jelentőségű város.",
       ro: "Ca poartă spre nord, orașul este situat strategic pe râul Jamuna și este un important centru de producție textilă.",
       en: "As a gateway to the north, the city is strategically located on the Jamuna River and is an important textile production center.",
     },
@@ -550,7 +550,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Feni", hu: "Feni", ro: "Feni", en: "Feni" },
     description: {
       de: "Die südöstliche Stadt fungiert als wichtiges Handelszentrum zwischen der Hauptstadt und der Hafenstadt Chittagong.",
-      hu: "A délkeleti város fontos kereskedelmi központként működik a főváros és a kikötőváros, Csittagong között.",
+      hu: "Délkeleti város, fontos kereskedelmi és közlekedési csomópont.",
       ro: "Orașul din sud-est acționează ca un centru comercial important între capitală și orașul port Chittagong.",
       en: "The southeastern city acts as a major commercial center between the capital and the port city of Chittagong.",
     },
@@ -577,7 +577,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Jamalpur", hu: "Jamalpur", ro: "Jamalpur", en: "Jamalpur" },
     description: {
       de: "Am westlichen Ufer des Flusses Brahmaputra gelegen, ist diese Stadt reich an handwerklicher Tradition und Folklore.",
-      hu: "A Brahmaputra folyó nyugati partján fekvő város gazdag kézműves hagyományokban és folklórban.",
+      hu: "A Brahmaputra folyó mentén fekvő város, mezőgazdasági és kereskedelmi központ.",
       ro: "Situat pe malul vestic al râului Brahmaputra, acest oraș este bogat în tradiții meșteșugărești și folclor.",
       en: "Located on the western bank of the Brahmaputra River, this city is rich in craft traditions and folklore.",
     },
@@ -604,7 +604,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Naogaon", hu: "Naogaon", ro: "Naogaon", en: "Naogaon" },
     description: {
       de: "Oft als die Kornkammer des Landes bezeichnet, ist diese Region ein riesiger Produzent von Reis und historischen Schätzen.",
-      hu: "A gyakran az ország magtárának nevezett régió hatalmas rizstermelő és történelmi kincsek lelőhelye.",
+      hu: "Az északi régió fontos városa, a híres Paharpur buddhista kolostor közelében.",
       ro: "Adesea denumit grânarul țării, această regiune este un producător imens de orez și comori istorice.",
       en: "Often referred to as the breadbasket of the country, this region is a massive producer of rice and historical treasures.",
     },
@@ -631,7 +631,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Noakhali", hu: "Noakhali", ro: "Noakhali", en: "Noakhali" },
     description: {
       de: "Die küstennahe Stadt besitzt eine ganz eigene Kultur und Sprache und ist bekannt für ihr widerstandsfähiges Volk gegen Naturkatastrophen.",
-      hu: "A partmenti város teljesen sajátos kultúrával és nyelvvel rendelkezik, és ismert a természeti katasztrófákkal szemben ellenálló népéről.",
+      hu: "Délkeleti város, amely a mezőgazdaságról és a folyami közlekedésről ismert.",
       ro: "Orașul de coastă are o cultură și o limbă cu totul unice și este cunoscut pentru poporul său rezistent la dezastrele naturale.",
       en: "The coastal city has a completely unique culture and language and is known for its resilient people against natural disasters.",
     },
@@ -658,7 +658,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Faridpur", hu: "Faridpur", ro: "Faridpur", en: "Faridpur" },
     description: {
       de: "Eine alte Stadt am Ufer des Padma-Flusses, die für ihre Dichter, spirituellen Führer und die Produktion von Jute bekannt ist.",
-      hu: "Egy régi város a Padma folyó partján, amely költőiről, szellemi vezetőiről és jutatermeléséről ismert.",
+      hu: "A Padma folyó partján fekvő város, történelmi jelentőséggel bír.",
       ro: "Un oraș vechi pe malul râului Padma, cunoscut pentru poeții, liderii spirituali și producția de iută.",
       en: "An ancient city on the banks of the Padma River, known for its poets, spiritual leaders, and jute production.",
     },
@@ -685,7 +685,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Saidpur", hu: "Saidpur", ro: "Saidpur", en: "Saidpur" },
     description: {
       de: "Die Eisenbahnstadt im hohen Norden verbindet Handel mit einer vielfältigen Bevölkerung aus verschiedenen Teilen Südasiens.",
-      hu: "A távol-északi vasútváros a kereskedelmet Dél-Ázsia különböző részeiből származó, sokszínű lakossággal ötvözi.",
+      hu: "A híres vasúti csomópont és ipari központ északon.",
       ro: "Orașul feroviar din nordul îndepărtat combină comerțul cu o populație diversă din diferite părți ale Asiei de Sud.",
       en: "The railway city in the far north combines trade with a diverse population from different parts of South Asia.",
     },
@@ -712,7 +712,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Narsingdi", hu: "Narsingdi", ro: "Narsingdi", en: "Narsingdi" },
     description: {
       de: "Unweit von Dhaka ist diese Stadt ein boomendes Zentrum der Textilindustrie und des Handwerks.",
-      hu: "Nem messze Dakkától, ez a város a textilipar és a kézművesség virágzó központja.",
+      hu: "A textilipar és a kereskedelem fellegvára Dakkától keletre.",
       ro: "Nu departe de Dhaka, acest oraș este un centru în plină expansiune al industriei textile și al artizanatului.",
       en: "Not far from Dhaka, this city is a booming center of the textile industry and crafts.",
     },
@@ -739,7 +739,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Chandpur", hu: "Chandpur", ro: "Chandpur", en: "Chandpur" },
     description: {
       de: "Dort wo die mächtigen Flüsse Padma und Meghna zusammenfließen, liegt diese Hafenstadt, berühmt für ihren Speisefisch.",
-      hu: "Ahol a hatalmas Padma és Meghna folyók összefolynak, ott fekszik ez a kikötőváros, amely híres az étkezési halairól.",
+      hu: "Fontos folyami kikötő, a Padma és Meghna folyók találkozásánál.",
       ro: "Acolo unde râurile puternice Padma și Meghna se întâlnesc, se află acest oraș-port, renumit pentru peștele său de consum.",
       en: "Where the mighty Padma and Meghna rivers merge, lies this port city, famous for its food fish.",
     },
@@ -766,7 +766,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Bhola", hu: "Bhola", ro: "Bhola", en: "Bhola" },
     description: {
       de: "Die größte Inselstadt des Landes liegt im Gangesdelta und ist umgeben von einer reichen Flussnaturlandschaft.",
-      hu: "Az ország legnagyobb szigetvárosa a Gangesz deltájában fekszik, és gazdag folyami természeti táj veszi körül.",
+      hu: "Az ország legnagyobb szigetének közigazgatási központja.",
       ro: "Cel mai mare oraș insular din țară este situat în delta Gangelui și este înconjurat de un peisaj natural fluvial bogat.",
       en: "The largest island city in the country is located in the Ganges delta and is surrounded by a rich river natural landscape.",
     },
@@ -793,7 +793,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     name: { de: "Jhenaidah", hu: "Jhenaidah", ro: "Jhenaidah", en: "Jhenaidah" },
     description: {
       de: "Im Südwesten des Landes gelegen, ist diese ruhige Stadt reich an historischen Moscheen und Agrarflächen.",
-      hu: "Az ország délnyugati részén fekvő csendes város gazdag történelmi mecsetekben és mezőgazdasági területekben.",
+      hu: "Délnyugati város, ismert a mezőgazdasági innovációiról.",
       ro: "Situat în sud-vestul țării, acest oraș liniștit este bogat în moschei istorice și terenuri agricole.",
       en: "Located in the southwest of the country, this quiet city is rich in historical mosques and agricultural land.",
     },

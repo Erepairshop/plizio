@@ -22,15 +22,9 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Kenge serves as the administrative seat of Kwango province.", "It is a vital checkpoint on the major RN1 national highway.", "The surrounding area is a significant hub for cassava production.", "Kenge became a provincial capital following the 2015 administrative reforms.", "The climate is typical of a tropical savanna region.", "It is located approximately 300 kilometers from Kinshasa."]
     },
-    factsAdvanced: {
-      ro: ["Kenge este reședința provinciei Kwango.", "Situat pe axa rutieră majoră Kinshasa-Kikwit.", "Altitudine medie de aproximativ 500 metri.", "Populație în creștere accelerată în ultimul deceniu.", "Economie bazată pe comerț și agricultură de subzistență.", "Punct de oprire pentru transportul de mărfuri."]
-    },
-    factsAdvanced: {
-      hu: ["Kenge a Kwango tartomány adminisztratív központja.", "Fontos állomás az N1-es országos főút mentén.", "A város környéke jelentős maniókatermesztő régió.", "A 2015-ös közigazgatási reform óta tartományi székhely.", "A régióban trópusi szavannai éghajlat jellemző.", "A helyi piac a régió gazdasági vérkeringésének alapja."]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Provinz Kwango", "Wichtiger Knotenpunkt der Nationalstraße RN1", "Klima: Tropisch, geprägt durch zwei ausgeprägte Jahreszeiten", "Hauptwirtschaftszweig: Lokaler Handel und Ackerbau", "Gründung der Provinz Kwango im Jahr 2015", "Entfernung zu Kinshasa: Ca. 300 Kilometer"]
-    }
+    
+    
+    
   },
     description: {
       de: "Kenge ist die Hauptstadt der Provinz Kwango und ein wichtiges regionales Handelszentrum.",
@@ -64,15 +58,9 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Situated at the confluence of the Kasai and Kwango rivers.", "Serves as a major historical inland port for the region.", "It is the administrative capital of Kwilu province.", "The region is known for its high agricultural potential.", "The city experiences a humid tropical climate year-round.", "River transport remains the primary logistical artery for the town."]
     },
-    factsAdvanced: {
-      ro: ["Situat la confluența râurilor Kasai și Kwango.", "Port fluvial istoric în Republica Democrată Congo.", "Centru administrativ al regiunii Kwilu.", "Regiunea este bogată în resurse agricole.", "Climat tropical umed pe tot parcursul anului.", "Legături fluviale vitale cu Kinshasa."]
-    },
-    factsAdvanced: {
-      hu: ["Bandundu a Kwilu és Kasai folyók találkozásánál fekszik.", "Az ország egyik legfontosabb folyami kikötővárosa.", "A területet a Kwilu folyó völgye határozza meg.", "Jelentős szerepet játszott az ország folyami kereskedelmében.", "Éghajlata nedves trópusi, bőséges csapadékkal.", "Közigazgatásilag ma a Kwilu tartományhoz tartozik."]
-    },
-    factsAdvanced: {
-      de: ["Lage am Zusammenfluss der Flüsse Kwango und Kasai", "Wichtiger Binnenhafen", "Ehemalige Hauptstadt der Region Bandundu", "Klima: Feucht-tropisches Klima", "Haupttransportmittel: Flusskähne", "Wichtiger Markt für Fischerei und Landwirtschaft"]
-    }
+    
+    
+    
   },
     description: {
       de: "Bandundu, früher Banningville, ist die Hauptstadt der Provinz Kwilu und ein bedeutender Binnenhafen.",
@@ -106,15 +94,9 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["It is the most populous city within Kwilu province.", "Serves as a key port along the Kwilu River network.", "Celebrated for its authentic traditional Pende cultural heritage.", "Acts as a major educational hub for the surrounding districts.", "Cassava processing serves as the backbone of the local economy.", "It represents a critical stop along the strategic N1 national highway."]
     },
-    factsAdvanced: {
-      ro: ["Unul dintre cele mai mari orașe din provincia Kwilu.", "Hub comercial pentru produse agricole tropicale.", "Găzduiește un festival cultural renumit la nivel național.", "Infrastructură rutieră critică pe ruta națională.", "Centru pentru educație și servicii regionale.", "Rol major în producția de manioc."]
-    },
-    factsAdvanced: {
-      hu: ["Kikwit a Kwilu tartomány legnépesebb városa.", "Fontos folyami kikötő a Kwilu folyón.", "A város híres a hagyományos pende kultúráról.", "Jelentős oktatási központ a régióban.", "A manióka-feldolgozás a város gazdaságának motorja.", "Az N1-es út egyik kulcsfontosságú állomása."]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerungsreichste Stadt der Provinz Kwilu", "Wichtiges Bildungs- und Handelszentrum", "Bekannt für den Kikwit-Markt", "Lage am Fluss Kwilu", "Wichtiger Stopppunkt auf der Strecke nach Osten", "Entwicklung durch den Handel mit Palmöl"]
-    }
+    
+    
+    
   },
     description: {
       de: "Kikwit ist die größte Stadt in der Provinz Kwilu und ein bedeutendes wirtschaftliches Zentrum.",
@@ -148,15 +130,9 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Serves as the administrative capital of Mai-Ndombe province.", "Located directly on the shores of Lake Mai-Ndombe.", "The local economy depends primarily on artisanal fishing.", "The region contains vast, ecologically critical swamp forests.", "Access is primarily restricted to fluvial and air transport.", "The town acts as a key administrative hub for the remote region."]
     },
-    factsAdvanced: {
-      ro: ["Reședința provinciei Mai-Ndombe.", "Situat direct pe malul lacului Mai-Ndombe.", "Economie bazată pe pescuitul artizanal.", "Poartă de acces către pădurile tropicale dense.", "Accesibilitate limitată, predominant pe cale fluvială.", "Rol cheie în monitorizarea resurselor acvatice."]
-    },
-    factsAdvanced: {
-      hu: ["Inongo a Mai-Ndombe-tó keleti partján fekszik.", "A tartomány közigazgatási központja.", "A Mai-Ndombe-tó az ország egyik legnagyobb édesvízű tava.", "A területen nagy kiterjedésű mocsaras erdők találhatók.", "Gazdasága alapvetően a tavi halászatra támaszkodik.", "Az utazás a régióba gyakran kisrepülőgépekkel történik."]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Provinz Mai-Ndombe", "Direkte Lage am Mai-Ndombe-See", "Hauptwirtschaftszweig: Fischfang", "Herausfordernde Anbindung an das nationale Straßennetz", "Bedeutung als regionales Verwaltungszentrum", "Ökosystem: Eingebettet in tropische Wälder"]
-    }
+    
+    
+    
   },
     description: {
       de: "Inongo ist die Hauptstadt der Provinz Mai-Ndombe und liegt am Ufer des Mai-Ndombe-Sees.",
@@ -190,15 +166,9 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Administrative capital of Maniema province.", "Located along the banks of the Lualaba River.", "Historical importance as a major river port.", "Key junction in the eastern railway and river transport network.", "Rich historical links to early Arab-Swahili trading caravans.", "The regional climate is defined as equatorial."]
     },
-    factsAdvanced: {
-      ro: ["Reședința provinciei Maniema.", "Port fluvial strategic pe fluviul Congo.", "Nod feroviar important în estul țării.", "Istorie bogată legată de caravanele comerciale swahili.", "Centru administrativ pentru regiunea Maniema.", "Altitudine medie de aproximativ 500 metri."]
-    },
-    factsAdvanced: {
-      hu: ["Maniema tartomány közigazgatási székhelye.", "A Lualaba folyó partján fekvő kikötőváros.", "Fontos vasúti és folyami csomópont.", "Történelmileg az arab kereskedelmi útvonalak része volt.", "A város környéke gazdag mezőgazdasági potenciállal bír.", "A 20. században fontos kereskedelmi és adminisztratív központtá fejlődött."]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Provinz Maniema", "Lage am Fluss Lualaba", "Historischer Verkehrsknotenpunkt (Fluss und Schiene)", "Zentrum für den Handel in der Maniema-Provinz", "Bedeutung für die Logistik im Bergbausektor", "Klima: Äquatorial"]
-    }
+    
+    
+    
   },
     description: {
       de: "Kindu ist die Hauptstadt der Provinz Maniema und ein wichtiger Hafen am Lualaba-Fluss.",
@@ -231,12 +201,8 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Strategically located near the Lualaba River.", "Served as a vital historical trade center in the 19th century.", "Preserves significant historical colonial and pre-colonial architectural features.", "Functions as a key cultural node in the Maniema region.", "Historically associated with the expansion of Swahili-Arab trade networks.", "The local climate is typical of the tropical eastern Congolese region."]
     },
-    factsAdvanced: {
-      ro: ["Situat în apropierea fluviului Lualaba.", "Centru comercial istoric în epoca explorărilor.", "Arhitectură colonială conservată parțial.", "Un important nod cultural în Maniema.", "Istoric legat de expansiunea comercială swahili.", "Climat tropical specific estului congolez."]
-    },
-    factsAdvanced: {
-      de: ["Stadt in der Provinz Maniema", "Historischer Handelsplatz für Swahili-Karawanen", "Zentrum für regionale Märkte", "Kulturell geprägt durch den historischen Austausch", "Lage nahe dem Lualaba-Fluss", "Wichtiger Stopp für den Binnenhandel"]
-    }
+    
+    
   },
     description: {
       de: "Kasongo ist eine historische Stadt in Maniema, bekannt für ihr arabisch-swahilisches Erbe.",
@@ -269,12 +235,8 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Situated in the rich Maniema resource region.", "Local economy is traditionally centered on mining and forestry.", "Serves as a gateway to vast forest areas.", "Altitudes in the region are well-suited for agricultural development.", "Known for its high level of local biological diversity.", "Maintains vital local connections with major towns in Maniema."]
     },
-    factsAdvanced: {
-      ro: ["Situat în bogata regiune Maniema.", "Economie locală bazată pe minerit.", "Poartă de acces către zone forestiere vaste.", "Altitudine medie adecvată pentru agricultură.", "Regiunea este cunoscută pentru diversitatea biologică.", "Legături locale cu principalele orașe din Maniema."]
-    },
-    factsAdvanced: {
-      de: ["Bergbaustadt in der Provinz Maniema", "Bekannt für Kassiterit-Vorkommen", "Wirtschaftszentrum durch Rohstoffabbau", "Geprägt durch industrielle Bergbaugeschichte", "Lage in einem waldreichen Gebiet", "Wichtiger Arbeitgeber für die Region"]
-    }
+    
+    
   },
     description: {
       de: "Kalima ist eine Bergbaustadt in Maniema, die für ihre Zinnvorkommen bekannt ist.",
@@ -307,12 +269,8 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located on the critical Matadi-Kinshasa railway route.", "Important regional center for education and healthcare.", "Situated in the heart of the Kongo Central province.", "Vital logistical role for trade involving the port of Matadi.", "Diverse population centered on professional services.", "Climate is tropical with savanna influences."]
     },
-    factsAdvanced: {
-      ro: ["Situat pe ruta feroviară Matadi-Kinshasa.", "Important centru educativ și medical regional.", "Situat în inima provinciei Kongo Central.", "Rol logistic vital pentru comerțul cu portul Matadi.", "Populație diversă concentrată pe servicii.", "Climat tropical cu influențe de savană."]
-    },
-    factsAdvanced: {
-      de: ["Wichtiger Haltepunkt der Matadi-Kinshasa-Eisenbahn", "Knotenpunkt für Gütertransport zum Atlantik", "Standort für regionale Märkte", "Bedeutung für die Versorgung von Kinshasa", "Geografische Lage in Kongo-Zentral", "Wichtiger Bildungs- und Gesundheitsstandort"]
-    }
+    
+    
   },
     description: {
       de: "Kimpese ist ein bedeutendes landwirtschaftliches und medizinisches Zentrum in Kongo Central.",
@@ -345,12 +303,8 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Traversed by the Inkisi River.", "Close proximity to the famous Zongo Falls.", "Popular tourist destination for visitors from Kinshasa.", "Located within Kongo Central province.", "Economy focused on tourism, local agriculture, and trade.", "Region offers spectacular natural landscapes."]
     },
-    factsAdvanced: {
-      ro: ["Traversat de râul Inkisi.", "În apropierea celebrelor cascade Zongo.", "Destinație turistică pentru vizitatorii din Kinshasa.", "Situat în provincia Kongo Central.", "Economie axată pe turism și agricultură.", "Regiunea oferă peisaje naturale spectaculoase."]
-    },
-    factsAdvanced: {
-      de: ["Bekannt für die Zongo-Wasserfälle", "Standort bedeutender Wasserkraftwerke", "Touristische Destination nahe Kinshasa", "Geografische Lage: Provinz Kongo-Zentral", "Wichtige Energiequelle für die Hauptstadt", "Schützenswerte ökologische Zone"]
-    }
+    
+    
   },
     description: {
       de: "Inkisi ist eine Stadt in Kongo Central, bekannt für die nahegelegenen Zongo-Wasserfälle.",
@@ -383,12 +337,8 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Serves as the gateway to Kongo Central.", "Located at a higher altitude than Kinshasa.", "Key logistical transit point between Matadi and the capital.", "Hilly region ideal for agricultural development.", "Climate is generally cooler than the lower-lying capital region.", "Strategic role in national road transport networks."]
     },
-    factsAdvanced: {
-      ro: ["Poarta de acces către Kongo Central.", "Situat la o altitudine superioară față de Kinshasa.", "Punct de tranzit logistic între Matadi și capitală.", "Regiune colinară ideală pentru agricultură.", "Climat mai răcoros decât în zonele joase.", "Rol strategic în transportul rutier național."]
-    },
-    factsAdvanced: {
-      de: ["Transitstadt nahe Kinshasa", "Bevölkerungswachstum durch Pendler", "Handelsdrehscheibe für Agrarprodukte aus der Provinz", "Wichtiger Stopppunkt auf der Nationalstraße RN1", "Wachsende infrastrukturelle Bedeutung", "Administrative Lage: Kongo-Zentral"]
-    }
+    
+    
   },
     description: {
       de: "Kasangulu ist die dem Westen am nächsten gelegene Stadt zu Kinshasa in der Provinz Kongo Central.",
@@ -421,12 +371,8 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Situated in the Kongo Central province.", "The Mayombe region is renowned for its biodiversity.", "Economy based on agriculture and forestry exploitation.", "Located in close proximity to the border with Angola.", "Climate is humid tropical, typical of coastal zones.", "Important regional role in the west of the country."]
     },
-    factsAdvanced: {
-      ro: ["Situat în provincia Kongo Central.", "Regiunea Mayombe este renumită pentru biodiversitate.", "Economie bazată pe agricultură și exploatare forestieră.", "Situat în apropierea graniței cu Angola.", "Climat tropical umed specific zonelor de coastă.", "Rol regional important în vestul țării."]
-    },
-    factsAdvanced: {
-      de: ["Lage in einer waldreichen Provinz", "Traditionelle Forstwirtschaft", "Reiches Ökosystem in Mai-Ndombe", "Herausforderungen durch nachhaltige Holznutzung", "Regionale Märkte für Naturprodukte", "Wichtiger Standort für lokale Landwirtschaft"]
-    }
+    
+    
   },
     description: {
       de: "Lukula ist eine Stadt in Kongo Central, die für ihre Forstwirtschaft und Landwirtschaft bekannt ist.",
@@ -459,12 +405,8 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in Kongo Central province, within the Mayombe forest.", "Historic region for cocoa production.", "Vital agricultural hub for coffee.", "Hilly landscape and high forest density.", "Favorable climate for export crops.", "Infrastructure oriented towards agriculture."]
     },
-    factsAdvanced: {
-      ro: ["Situat în provincia Kongo Central, în pădurea Mayombe.", "Regiune istorică pentru producția de cacao.", "Centru agricol vital pentru cafea.", "Peisaj colinar și densitate forestieră mare.", "Climat favorabil pentru culturi de export.", "Infrastructură orientată spre agricultură."]
-    },
-    factsAdvanced: {
-      de: ["Wichtiges Zentrum für Kakaoproduktion", "Anbau von Ölpalmen", "Fruchtbares landwirtschaftliches Umland", "Standort regionaler Märkte", "Klima: Heiß und feucht", "Bedeutung für die lokale Exportwirtschaft"]
-    }
+    
+    
   },
     description: {
       de: "Tshela ist ein wichtiges landwirtschaftliches Zentrum im Distrikt Bas-Fleuve.",
@@ -498,12 +440,8 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located at the confluence of the Congo River and the Aruwimi River.", "Strategic inland port in Tshopo province.", "Major historical importance in Congo Basin navigation.", "Checkpoint for goods traveling to Kisangani.", "Active riverine life and economy based on fishing.", "Low average altitude in the river basin."]
     },
-    factsAdvanced: {
-      ro: ["Situat la confluența fluviului Congo cu râul Aruwimi.", "Port fluvial strategic în provincia Tshopo.", "Importanță istorică majoră în navigația bazinului Congo.", "Punct de control pentru mărfuri către Kisangani.", "Viață riverană activă și economie bazată pe pescuit.", "Altitudine medie joasă în bazinul fluviului."]
-    },
-    factsAdvanced: {
-      de: ["Mündung des Aruwimi-Flusses", "Historischer Handels- und Missionsstützpunkt", "Lage am Kongo-Fluss", "Bedeutung für die Flussnavigation", "Regionales Zentrum für Fischer", "Blick auf die historische Architektur"]
-    }
+    
+    
   },
     description: {
       de: "Basoko ist eine Hafenstadt am Kongo-Fluss, an der Mündung des Aruwimi-Flusses.",
@@ -536,12 +474,8 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located at the confluence of the Lomami and Congo rivers.", "Regional center for fishing and agriculture.", "Important node for river transport in Tshopo.", "High ecological importance due to the confluence.", "Local communities closely linked to life on the river.", "Humid tropical climate specific to the central basin."]
     },
-    factsAdvanced: {
-      ro: ["Situat la confluența râurilor Lomami și Congo.", "Centru regional pentru pescuit și agricultură.", "Nod important pentru transportul fluvial în Tshopo.", "Importanță ecologică ridicată datorată confluenței.", "Comunități locale strâns legate de viața pe fluviu.", "Climat tropical umed specific bazinului central."]
-    },
-    factsAdvanced: {
-      de: ["Lage in der Provinz Tshopo", "Sammelzentrum für Waldprodukte", "Region geprägt durch den tropischen Regenwald", "Wichtige Wasserwege", "Fischerei und subsistenzorientierte Landwirtschaft", "Klima: Äquatorial-feucht"]
-    }
+    
+    
   },
     description: {
       de: "Isangi ist eine Stadt am Zusammenfluss der Flüsse Lomami und Kongo.",
@@ -575,12 +509,8 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Hosts a famous agronomic research station.", "Located on the banks of the Congo River in Tshopo province.", "Internationally recognized biosphere reserve.", "Historical center for the study of tropical crops.", "Crucial role in tropical forest conservation.", "Global importance for climate change research."]
     },
-    factsAdvanced: {
-      ro: ["Găzduiește o faimoasă stație de cercetare agronomică.", "Situat pe malul fluviului Congo, în provincia Tshopo.", "Rezervație a biosferei recunoscută internațional.", "Centru istoric pentru studiul culturilor tropicale.", "Rol crucial în conservarea pădurilor tropicale.", "Importanță globală pentru cercetarea climatică."]
-    },
-    factsAdvanced: {
-      de: ["Bekannt durch die Yangambi-Forschungsstation", "Zentrum für tropische Agrarforschung", "UNESCO-Biosphärenreservat", "Bedeutende Artenvielfalt im Umfeld", "Historische Bedeutung für die Forstkunde", "Forschungsschwerpunkt: Erhaltung des Regenwaldes"]
-    }
+    
+    
   },
     description: {
       de: "Yangambi ist bekannt für sein bedeutendes Biosphärenreservat und Forschungszentrum für den Regenwald.",
@@ -612,9 +542,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Important transshipment point for goods moving between rail and river.", "Located near the Stanley Falls.", "Serves as the terminus for river traffic originating from Kisangani.", "Key logistical hub for regional trade in the upper Congo.", "Marks the start of an extensive navigable river reach.", "Strategically located in the Tshopo province."]
     },
-    factsAdvanced: {
-      de: ["Umsteigepunkt für den Warenverkehr", "Lage nahe den Stanley-Fällen", "Endpunkt für den Flussverkehr von Kisangani", "Wichtiger Logistikstandort", "Region: Provinz Tshopo", "Knotenpunkt für regionale Händler"]
-    }
+    
   },
     description: {
       de: "Ubundu ist eine Stadt südlich der Stanley Falls, am schiffbaren Teil des oberen Kongo.",
@@ -646,9 +574,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Important historical railway junction in northern Congo.", "Central hub for the transport of agricultural commodities.", "Development significantly influenced by rail infrastructure.", "Situated on a tributary of the Congo river system.", "Historically functioned as a regional trade center.", "The climate is typical of the tropical northern regions."]
     },
-    factsAdvanced: {
-      de: ["Wichtiger Eisenbahnknotenpunkt im Norden", "Zentrum für den Transport von Agrarprodukten", "Entwicklung durch die Schieneninfrastruktur", "Lage an einem Nebenfluss des Kongo-Flusssystems", "Regionales Handelszentrum", "Klima: Tropisch"]
-    }
+    
   },
     description: {
       de: "Aketi ist eine Stadt in der Provinz Bas-Uele und ein historischer Eisenbahnknotenpunkt.",
@@ -680,9 +606,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Center for cotton research and production.", "Acts as a regional gathering point for agricultural goods.", "Crucial role in the local regional economy.", "Located in the northern part of the country.", "Key center for agricultural innovation and regional development.", "Serves as a vital hub for local agricultural markets."]
     },
-    factsAdvanced: {
-      de: ["Zentrum für die Baumwollproduktion", "Regionale Sammelstelle für Agrargüter", "Bedeutung für die lokale Wirtschaft", "Lage im Norden des Landes", "Landwirtschaftliches Produktionszentrum", "Standort lokaler Märkte"]
-    }
+    
   },
     description: {
       de: "Bambesa ist bekannt für seine landwirtschaftliche Forschungsstation in der Provinz Bas-Uele.",
@@ -715,9 +639,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Historically significant post in the Uele basin.", "Center for trade and cultural exchange between diverse ethnic groups.", "Deeply influenced by the historical colonial administrative presence.", "Serves as a regional anchor for surrounding rural communities.", "Surrounded by a mix of savanna and dense forest ecosystems.", "Regionally important for social and administrative cohesion."]
     },
-    factsAdvanced: {
-      de: ["Historischer Verwaltungsposten im Norden", "Zentrum für den Austausch zwischen Ethnien", "Geprägt durch koloniale Geschichte", "Region: Provinz Bas-Uélé", "Lage im Norden des Landes", "Kulturelles Bindeglied der Region"]
-    }
+    
   },
     description: {
       de: "Niangara ist eine historische Stadt am Uele-Fluss in Haut-Uele.",
@@ -750,9 +672,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Gateway to the Garamba National Park.", "Strategically located in the northeastern part of the country.", "Serves as an essential regional humanitarian hub.", "Located near protected natural areas.", "Area of significant ecological and environmental study.", "Climate is typically tropical, shaped by the savanna ecosystem."]
     },
-    factsAdvanced: {
-      de: ["Lage im Nordosten des Landes", "Ausgangspunkt für Naturtourismus", "Nähe zu geschützten Naturgebieten", "Strategische Bedeutung nahe der Grenze", "Regionales Zentrum für Ökologie", "Klima: Tropisch-savannengeprägt"]
-    }
+    
   },
     description: {
       de: "Dungu liegt am Zusammenfluss der Flüsse Dungu und Kibali im Nordosten des Kongo.",
@@ -784,9 +704,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the northeastern region of Haut-Uele.", "In close proximity to the ecologically significant Garamba National Park.", "Vital local center for agricultural activities.", "Economy is heavily influenced by proximity to conservation zones.", "Region provides important environmental services.", "Climate is typically tropical, reflecting the savanna landscapes."]
     },
-    factsAdvanced: {
-      de: ["Lage im Nordosten nahe der Grenze zum Südsudan", "Nähe zum Garamba-Nationalpark", "Wichtiger Standort für die lokale Agrarwirtschaft", "Bedeutung für die Erhaltung der Artenvielfalt", "Klima: Tropisch-savannengeprägt", "Region: Provinz Haut-Uélé"]
-    }
+    
   },
     description: {
       de: "Faradje ist ein wichtiges Zentrum im Nordosten von Haut-Uele, nahe dem Garamba-Nationalpark.",
@@ -818,9 +736,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Situated at the edge of the vast Ituri rainforest.", "Acts as a major hub for trade in forest products.", "Home to the traditional Mbuti peoples.", "Located in a region with one of the world's highest levels of biodiversity.", "Central junction for transport and trade in the Ituri province.", "Tropical climate, heavily influenced by dense forest cover."]
     },
-    factsAdvanced: {
-      de: ["Lage am Rande des Ituri-Regenwaldes", "Knotenpunkt für den Handel mit Waldprodukten", "Heimat der Mbuti-Völker", "Region mit hoher Biodiversität", "Verkehrsknotenpunkt in der Provinz Ituri", "Klima: Tropisch-feucht"]
-    }
+    
   },
     description: {
       de: "Mambasa liegt im Herzen des Ituri-Regenwaldes und ist ein wichtiger Knotenpunkt.",
@@ -852,9 +768,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Situated in the hilly, mountainous region of Ituri province.", "Serves as a significant regional market center.", "Surrounding areas are characterized by high agricultural productivity.", "Cooler climate compared to the surrounding lowlands.", "Central location for the distribution of local goods.", "Well-adapted to local horticultural and mountain farming practices."]
     },
-    factsAdvanced: {
-      de: ["Region: Provinz Ituri", "Regionales Marktzentrum", "Landwirtschaftlich geprägtes Umland", "Hügelige Landschaftsstruktur", "Wichtiger Ort für lokalen Austausch", "Günstiges Klima für Gartenbau"]
-    }
+    
   },
     description: {
       de: "Djugu ist eine Stadt in der hügeligen Landschaft der Provinz Ituri.",
@@ -886,9 +800,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in North Kivu province.", "Soils are exceptionally fertile due to volcanic activity.", "Primary center for fruit and vegetable cultivation in the east.", "Very close proximity to the Virunga National Park.", "Regional market center with high commercial activity.", "Strategically positioned near international borders."]
     },
-    factsAdvanced: {
-      de: ["Lage in der Provinz Nord-Kivu", "Hohe Fruchtbarkeit durch vulkanische Böden", "Zentrum für den Gemüse- und Obstbau", "Nähe zum Virunga-Nationalpark", "Bedeutender regionaler Markt", "Strategische Lage nahe der Grenze"]
-    }
+    
   },
     description: {
       de: "Rutshuru liegt in einer fruchtbaren Vulkanregion nördlich von Goma in Nord-Kivu.",
@@ -920,9 +832,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Renowned for its cattle ranching and high-quality dairy production.", "Characterized by a significantly cooler mountain climate.", "Located in the hilly, mountainous region of North Kivu.", "A major supplier of dairy products to urban Goma.", "Important area for intensive livestock farming.", "Strategic and significant agricultural region in the province."]
     },
-    factsAdvanced: {
-      de: ["Bekannt für Viehzucht und Milchprodukte", "Kühleres Bergklima", "Bergige Region in Nord-Kivu", "Wichtige Milchlieferantin für Goma", "Landwirtschaftliches Produktionsgebiet", "Strategische Bedeutung in der Provinz"]
-    }
+    
   },
     description: {
       de: "Masisi ist bekannt für seine grünen Hügel und die bedeutende Rinderzucht in Nord-Kivu.",
@@ -954,9 +864,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Situated on a dramatic high plateau.", "Characterized by a temperate, high-altitude climate.", "Primary center for the cultivation of potatoes and cereals.", "Acts as a vital market center for the surrounding agrarian communities.", "Located in the North Kivu province.", "Economically networked with other parts of the eastern province."]
     },
-    factsAdvanced: {
-      de: ["Lage auf einem Hochplateau", "Kühles Hochlandklima", "Anbau von Kartoffeln und Getreide", "Marktzentrum für agrarische Produkte", "Region: Nord-Kivu", "Wichtiger Standort in der Provinz"]
-    }
+    
   },
     description: {
       de: "Lubero ist eine hochgelegene Stadt in Nord-Kivu mit einem gemäßigten Klima.",
@@ -988,9 +896,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Strategically located in a remote, densely forested area.", "Wealthy in valuable mineral deposits.", "Economy is fundamentally defined by the mining sector.", "Faces significant logistical difficulties due to the rugged terrain.", "Acts as a central location for extraction and initial resource processing.", "Located in the North Kivu province."]
     },
-    factsAdvanced: {
-      de: ["Lage in dicht bewaldetem Gebiet", "Reich an Bodenschätzen", "Herausfordernde logistische Erreichbarkeit", "Region: Nord-Kivu", "Geprägt durch den Bergbausektor", "Schützenswerte Waldökosysteme"]
-    }
+    
   },
     description: {
       de: "Walikale ist eine abgelegene Bergbaustadt in Nord-Kivu, reich an Bodenschätzen.",
@@ -1022,9 +928,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located on the scenic western shore of Lake Kivu.", "Benefits from the moderating influence of the lake.", "Important regional center for local fishing resources.", "Key hub for trade between lake-shore communities.", "Strategically located along a major scenic coastal route.", "Region provides a stable environment for diverse economic activities."]
     },
-    factsAdvanced: {
-      de: ["Lage am westlichen Ufer des Kivu-Sees", "Bedeutung der lokalen Fischerei", "Austauschknotenpunkt am See", "Region: Süd-Kivu", "Klima: Angenehm durch See-Einfluss", "Bedeutender regionaler Handelsplatz"]
-    }
+    
   },
     description: {
       de: "Kalehe ist eine Stadt am westlichen Ufer des Kiwusees in Sud-Kivu.",
@@ -1056,9 +960,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the fertile highlands south of Bukavu.", "Characterized by a very high population density.", "Supports intensive agricultural cultivation on the surrounding hills.", "Serves as a vital source of food for the urban center of Bukavu.", "Regionally significant for its highland agrarian productivity.", "Located in the South Kivu province."]
     },
-    factsAdvanced: {
-      de: ["Südlich von Bukavu gelegen", "Hohe Bevölkerungsdichte", "Intensive Landwirtschaft an den Hängen", "Versorgungszentrum für Bukavu", "Region: Süd-Kivu", "Strategische agrarische Bedeutung"]
-    }
+    
   },
     description: {
       de: "Walungu liegt in den fruchtbaren Hochlandregionen von Sud-Kivu.",
@@ -1090,9 +992,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Remote town in the interior of South Kivu.", "Characterized by hilly terrain.", "Notable deposits of gold and other mineral resources.", "Local economy heavily influenced by small-scale artisanal mining.", "Agricultural sector focuses on crops such as coffee and cocoa.", "Situated in a region with high annual rainfall."]
     },
-    factsAdvanced: {
-      de: ["Region: Süd-Kivu", "Hügelige Landschaft", "Vorkommen an Gold und Mineralien", "Geprägt durch kleinteiligen Bergbau", "Herausfordernde Anbindung", "Bedeutung für die lokale Rohstoffwirtschaft"]
-    }
+    
   },
     description: {
       de: "Mwenga ist eine Bergbau- und Agrarstadt in der Provinz Sud-Kivu.",
@@ -1124,9 +1024,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Serves as the administrative capital of one of the largest territories in the province.", "Situated deep within a vast, remote forested region.", "Accessible primarily by air, illustrating the region's infrastructure challenges.", "Key administrative anchor for dispersed forest communities.", "Rich in untapped mineral resources that remain largely unexploited.", "Important social hub for the interior of South Kivu."]
     },
-    factsAdvanced: {
-      de: ["Sehr abgelegene Lage im Regenwald", "Administrativer Fixpunkt", "Geprägt durch die umgebende Waldlandschaft", "Region: Süd-Kivu", "Soziale Bedeutung für die Gemeinschaften", "Herausfordernde Infrastruktur"]
-    }
+    
   },
     description: {
       de: "Shabunda ist die Hauptstadt eines riesigen, abgelegenen Waldgebiets in Sud-Kivu.",
@@ -1158,9 +1056,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Critical railway junction connecting Kalemie and Kindu.", "Important marketplace for local agricultural products.", "Functions as a nexus between mining zones and regional transit routes.", "Positioned in the Tanganyika province.", "Historically affected by regional instability, impacting its economic growth.", "Central point for the transport and trade of regional goods."]
     },
-    factsAdvanced: {
-      de: ["Lage in einer savannenartigen Zone", "Region: Provinz Tanganyika", "Knotenpunkt für Agrarhandel", "Bindeglied zu Bergbaugebieten", "Wichtiger Standort für lokale Märkte", "Klima: Tropische Savanne"]
-    }
+    
   },
     description: {
       de: "Nyunzu ist ein wichtiger Eisenbahnknotenpunkt in der Provinz Tanganyika.",
@@ -1192,9 +1088,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Harbor town located on the western shore of Lake Tanganyika.", "Essential port for regional maritime logistics.", "Lake serves as a primary source of sustenance and transport.", "Historically known as Baudoinville.", "Situated at the foot of a high plateau, influencing its local climate.", "Important node for fishing and international trade exchanges."]
     },
-    factsAdvanced: {
-      de: ["Lage am Ufer des Tanganjika-Sees", "Wichtiger Hafenstandort", "Zentrale Nahrungsquelle: Fischerei", "Transportweg zu Nachbarländern", "Region: Provinz Tanganyika", "Strategische Bedeutung am See"]
-    }
+    
   },
     description: {
       de: "Moba ist eine Hafenstadt am westlichen Ufer des Tanganjikasees.",
@@ -1226,9 +1120,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Situated at the northern end of Lake Mweru, along the Luvua river.", "Strategically located at the border with Zambia.", "Significant center for the fishing industry on Lake Mweru.", "Vital border location facilitating regional economic exchange.", "Equipped with a modern airport, enhancing its regional connectivity.", "Key gateway in the Haut-Katanga province."]
     },
-    factsAdvanced: {
-      de: ["Lage am Mweru-See", "Zentrum für Fischfang", "Handelsplatz nahe der Grenze zu Sambia", "Mündung des Luvua-Flusses", "Region: Provinz Haut-Katanga", "Bedeutung für den regionalen Austausch"]
-    }
+    
   },
     description: {
       de: "Pweto liegt am nördlichen Ende des Mweru-Sees an der Grenze zu Sambia.",
@@ -1260,9 +1152,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Historical mining town in Haut-Katanga province.", "Profoundly linked to the regional copper and cobalt mining sectors.", "Home to major ore processing facilities.", "One of the oldest and most significant mining settlements in the region.", "Central player in the ongoing regional mineral industry.", "Industrial activity is the primary driver of the local economy."]
     },
-    factsAdvanced: {
-      de: ["Zentraler Ort in der Katanga-Bergbauregion", "Wirtschaftlich geprägt durch Kupfer- und Kobaltabbau", "Historische Bergbautradition", "Region: Haut-Katanga", "Wichtiger Arbeitgeberstandort", "Industrielle Infrastruktur"]
-    }
+    
   },
     description: {
       de: "Kambove ist eine historische Bergbaustadt in der Provinz Haut-Katanga.",
@@ -1294,9 +1184,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Southernmost town of the Democratic Republic of the Congo.", "Directly borders Zambia.", "Major railway crossing point for cross-border transit.", "Essential node for the movement of goods and regional trade.", "Strategically located within the industrially active Katanga region.", "Vital link in the Congolese-Zambian economic trade network."]
     },
-    factsAdvanced: {
-      de: ["Grenzstadt zu Sambia", "Knotenpunkt für Transit und Handel", "Wichtige Rolle im Gütertransport", "Region: Haut-Katanga", "Strategische wirtschaftliche Bedeutung", "Verkehrsknotenpunkt"]
-    }
+    
   },
     description: {
       de: "Sakania ist die südlichste Stadt der DR Kongo an der Grenze zu Sambia.",
@@ -1329,9 +1217,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Situated on the banks of the Lualaba River.", "Significant site for both local agriculture and trade.", "Close proximity to major water bodies, including the Upemba region.", "Key center for the distribution of regional products.", "Vital economic anchor for the Haut-Lomami province.", "Deeply connected to the riverine lifestyle of central Congo."]
     },
-    factsAdvanced: {
-      de: ["Lage am Lualaba-Fluss", "Wichtiger Standort für die Landwirtschaft", "Umschlagplatz für Agrarprodukte", "Region: Haut-Lomami", "Versorgungszentrum für die Umgebung", "Klima: Tropisch-warm"]
-    }
+    
   },
     description: {
       de: "Malemba-Nkulu ist eine Stadt am Lualaba-Fluss in der Provinz Haut-Lomami.",
@@ -1363,9 +1249,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Agricultural hub located in western Haut-Lomami province.", "Significant logistics node on the regional railway line.", "Key point for the transport of agricultural commodities to urban markets.", "Home to significant large-scale state agricultural projects.", "Growing importance as a trade and logistical center.", "Vital role in provincial food security and economic growth."]
     },
-    factsAdvanced: {
-      de: ["Wichtiger Standort an der Eisenbahnlinie", "Logistisches Zentrum für Agrarprodukte", "Region: Haut-Lomami", "Bedeutung für die regionale Vernetzung", "Wachsendes Handelszentrum", "Klima: Savannenklima"]
-    }
+    
   },
     description: {
       de: "Kaniama ist ein landwirtschaftliches Zentrum im Westen von Haut-Lomami.",
@@ -1398,9 +1282,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Important agrarian center in Lomami province.", "Known for its high output in crops like cotton.", "Serves as a major marketplace for the distribution of agricultural goods.", "Essential economic hub for the surrounding fertile lands.", "Key contributor to the provincial economic structure.", "Focus on cotton production highlights its regional agricultural potential."]
     },
-    factsAdvanced: {
-      de: ["Region: Lomami", "Bedeutender Anbau von Baumwolle", "Marktzentrum für Agrarprodukte", "Wirtschaftliches Zentrum der Provinz", "Fruchtbares landwirtschaftliches Umland", "Standort regionaler Handelsgesellschaften"]
-    }
+    
   },
     description: {
       de: "Ngandajika ist ein wichtiges Agrarzentrum in der Provinz Lomami.",
@@ -1433,9 +1315,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Strategically located along the major railway line in Lomami.", "Acts as a key stop for freight traffic within the province.", "Central location for the collection and distribution of agricultural goods.", "Surrounded by vast savanna land.", "Plays a strategic role in the regional logistical network.", "Functional node for rural development and transport."]
     },
-    factsAdvanced: {
-      de: ["Wichtiger Handelsort in Lomami", "Knotenpunkt an regionalen Handelsrouten", "Zentrum für Güterumschlag", "Region: Lomami", "Strategische Bedeutung für die Provinz", "Wachsendes urbanes Zentrum"]
-    }
+    
   },
     description: {
       de: "Luputa ist eine Stadt an der Eisenbahnlinie in der Provinz Lomami.",
@@ -1741,9 +1621,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["Az Ubangi-folyó mentén fekszik.", "Fontos határátkelőhely.", "A helyi gazdaság a folyami kereskedelemre épül.", "Jelentős mezőgazdasági potenciál.", "Ökológiailag gazdag folyómenti régió.", "Fontos szerepet tölt be a regionális árucsere-folyamatokban."]
     },
-    factsAdvanced: {
-      de: ["Lage am Ubangi-Fluss", "Wichtiger lokaler Markt", "Region: Nord-Ubangi", "Bedeutung für sozialen und wirtschaftlichen Austausch", "Handel mit grenznahen Waren", "Standort am Flussufer"]
-    }
+    
   },
     description: {
       de: "Yakoma liegt am Zusammenfluss der Flüsse Uele und Mbomou, wo der Ubangi beginnt.",

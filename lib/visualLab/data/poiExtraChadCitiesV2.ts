@@ -22,12 +22,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Established as a French military post in 1900.", "Renamed N'Djamena in 1973.", "Located at the meeting point of the Chari and Logone rivers.", "Major trade and administrative center for Chad.", "Features the iconic Grand Marché and historical architecture.", "Population growth has accelerated significantly since independence."]
     },
-    factsAdvanced: {
-      hu: ["Főváros az 1900-as alapítás óta", "A Logone és a Chari folyók találkozásánál fekszik", "Az ország legfontosabb kereskedelmi csomópontja", "Több mint 1 millió lakosú metropolisz", "A Nemzeti Múzeum otthona", "Stratégiai kapu a Száhel-övezet kereskedelméhez"]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt seit der Gründung im Jahr 1900", "Gelegen an der Mündung des Logone in den Chari", "Wichtigster Umschlagplatz für den Warenverkehr", "Heimat des Nationalmuseums für Geschichte", "Bevölkerung von über 1 Million Einwohnern", "Knotenpunkt für internationale Handelswege"]
-    },
+    
+    
     facts: {
       de: ["Gegründet im Jahr 1900.", "Wichtigstes wirtschaftliches Zentrum."],
       hu: ["1900-ban alapították.", "Az ország legfontosabb gazdasági központja."],
@@ -55,12 +51,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Second-largest city in Chad by population.", "Capital of the Logone Occidental region.", "Key industrial hub for brewing and cotton refining.", "Located in one of Chad's most fertile regions.", "Serves as a crucial regional economic center.", "Well-connected through road networks in the south."]
     },
-    factsAdvanced: {
-      hu: ["Csád második legnagyobb városa", "A nemzeti sörgyártás központja", "Fontos kereskedelmi központ a Logone partján", "Kiemelkedő gyapotfeldolgozó ipar", "A déli régió fő oktatási központja", "A kameruni határhoz közeli stratégiai fekvés"]
-    },
-    factsAdvanced: {
-      de: ["Zweitgrößte Stadt des Landes", "Zentrum der nationalen Brauindustrie", "Wichtiger Binnenhafen am Logone-Fluss", "Strategische Lage nahe der kamerunischen Grenze", "Wachsendes Bildungszentrum im Süden", "Handelsdrehkreuz für Baumwolle und landwirtschaftliche Produkte"]
-    },
+    
+    
     facts: {
       de: ["Zentrum der tschadischen Bierbrauerei.", "Wichtiger Binnenhafen am Logone."],
       hu: ["A csádi sörgyártás központja.", "Fontos folyami kikötő a Logone-on."],
@@ -87,12 +79,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Moyen-Chari region.", "Previously named Fort-Archambault during the colonial era.", "Located strategically along the banks of the Chari River.", "Major center for sugarcane and cotton production.", "Crucial hub for southern Chadian riverine trade.", "Known for its active traditional market culture."]
     },
-    factsAdvanced: {
-      hu: ["Korábbi neve Fort Archambault volt", "A Chari folyó partján fekszik", "Fontos regionális mezőgazdasági központ", "A déli régió közigazgatási központja", "Kereskedelmi csomópont a központi területek felé", "Hosszú történelmi múlt a gyarmati idők óta"]
-    },
-    factsAdvanced: {
-      de: ["Ursprünglicher Name Fort Archambault", "Wichtiger Standort der tschadischen Zuckerindustrie", "Bedeutender Verkehrsknotenpunkt am Chari-Fluss", "Bekannt für eine lebendige Textilproduktion", "Bildungshub für die Region Moyen-Chari", "Milde klimatische Bedingungen das ganze Jahr"]
-    },
+    
+    
     facts: {
       de: ["Ehemals als Fort Archambault bekannt.", "Bedeutender Verkehrsknotenpunkt."],
       hu: ["Korábban Fort Archambault néven volt ismert.", "Jelentős közlekedési csomópont."],
@@ -119,12 +107,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Historic capital of the Ouaddaï Empire.", "Long-standing gateway for trans-Saharan trade caravans.", "Famous for its traditional mud-brick Islamic architecture.", "Major cultural and commercial hub in eastern Chad.", "Historically significant center for regional Islamic studies.", "Currently serves as a key administrative center in the east."]
     },
-    factsAdvanced: {
-      hu: ["Az egykori Ouaddaï Szultánság fővárosa", "Kelet-Csád közigazgatási központja", "Történelmi karavánút-csomópont", "Számos történelmi mecset otthona", "Fontos kereskedelmi kapu Szudán felé", "A keleti nomád régiók kereskedelmi központja"]
-    },
-    factsAdvanced: {
-      de: ["Ehemalige Hauptstadt des Wadai-Sultanats", "Viertgrößte Stadt des Landes", "Historischer Knotenpunkt der Trans-Sahara-Karawanen", "Wichtiger Sitz mehrerer moderner Universitäten", "Bekannt für traditionelle Ledergerberei", "Kulturelles Herz der Region Ouaddaï"]
-    },
+    
+    
     facts: {
       de: ["Historisches Zentrum des Karawanenhandels.", "Sitz mehrerer Universitäten."],
       hu: ["A karavánkereskedelem történelmi központja.", "Számos egyetem székhelye."],
@@ -151,12 +135,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["A growing urban center in the Tandjilé region.", "Serves as a vital regional agricultural market town.", "Trade revolves around millet, sorghum, and peanuts.", "Key node for rural commerce in southern Chad.", "Located in the fertile Tandjilé plains.", "Infrastructure development has accelerated urban growth."]
     },
-    factsAdvanced: {
-      hu: ["A Tandjilé régióhoz tartozik", "Mezőgazdasági kereskedelmi központ", "Kiemelkedő gabonatermesztési régió", "Fontos helyi piac a környező falvak számára", "Növekvő oktatási jelentőség a régióban", "Stratégiai pont a déli mezőgazdasági útvonalakon"]
-    },
-    factsAdvanced: {
-      de: ["Zentrum für die Reisproduktion der Region Tanjilé", "Wichtiger regionaler Marktplatz für Nahrungsmittel", "Strategische Bedeutung für die Ernährungssicherheit", "Wachsende städtische Handelsgemeinschaft", "Verbindungspunkt zu umliegenden landwirtschaftlichen Dörfern", "Typisches Beispiel für die urbane Entwicklung im Süden"]
-    },
+    
+    
     facts: {
       de: ["Wichtig für den Reisanbau.", "Marktplatz für regionale Produkte."],
       hu: ["Fontos a rizstermesztés szempontjából.", "Regionális termékek piaca."],
@@ -183,12 +163,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Administrative hub within the Mandoul region.", "Major center for local cotton production and processing.", "Connects rural farmers to regional market networks.", "Economy focused on food crop and industrial agriculture.", "Strategic location in southern Chadian plains.", "Supports extensive local trade for rural communities."]
     },
-    factsAdvanced: {
-      hu: ["A Mandoul régió központja", "Kiemelkedő gyapottermesztő központ", "Fontos mezőgazdasági élelmiszer-feldolgozó ipar", "A déli régiók növekvő kereskedelmi csomópontja", "Központi szerep a Mandoul gazdasági életében", "Folyamatosan bővülő oktatási infrastruktúra"]
-    },
-    factsAdvanced: {
-      de: ["Regionale Hauptstadt der Region Mandoul", "Zentrum der industriellen Baumwollverarbeitung", "Bekannt für ein mildes und angenehmes Klima", "Handelsknoten für diverse Agrarprodukte", "Wichtiger Bildungsstandort im Süden", "Hohe Bedeutung für den Export von Baumwolle"]
-    },
+    
+    
     facts: {
       de: ["Zentrum der Baumwollproduktion.", "Bekannt für sein mildes Klima."],
       hu: ["A gyapottermelés központja.", "Enyhe éghajlatáról ismert."],
@@ -216,12 +192,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Mayo-Kebbi Ouest administrative region.", "Serves as a key administrative and service hub.", "Located in a fertile zone with agricultural potential.", "Economic importance bolstered by nearby mineral deposits.", "Supports dense local rural population centers.", "Key center for regional infrastructure and governance."]
     },
-    factsAdvanced: {
-      hu: ["A Mayo-Kebbi Ouest régió székhelye", "Jelentős ásványi kincsek a környéken", "Központi mezőgazdasági csomópont", "A kameruni határhoz közeli kereskedelmi központ", "Modern közigazgatási és kereskedelmi központ", "A régió egyik legnagyobb települése"]
-    },
-    factsAdvanced: {
-      de: ["Wichtiger Standort für Goldabbau", "Handelszentrum im Südwesten des Landes", "Vielfältige ethnische und kulturelle Gemeinschaft", "Zentraler Knotenpunkt für lokale Waren", "Wichtige administrative Funktion für die Region", "Bergbau als wirtschaftliches Standbein"]
-    },
+    
+    
     facts: {
       de: ["Berühmt für seine Goldminen.", "Vielfältige ethnische Bevölkerung."],
       hu: ["Híres aranybányáiról.", "Változatos etnikai lakosság."],
@@ -248,12 +220,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Salamat region in the southeast.", "Key hub for livestock and agricultural trade.", "Serves as a gate to Zakouma National Park.", "Convergence point for nomadic and sedentary lifestyles.", "Important administrative center for southeastern Chad.", "Focus on sustainable management of savanna resources."]
     },
-    factsAdvanced: {
-      hu: ["A Salamat régió székhelye", "Fontos állattenyésztési központ", "Kereskedelmi csomópont a keleti Száhel-övezetben", "Nomád és letelepedett kultúrák találkozási pontja", "Kulcsfontosságú közigazgatási szerep a Salamat régióban", "Az áruellátás biztosítása a keleti régiók számára"]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Region Salamat", "Gateway zum berühmten Zakouma-Nationalpark", "Besitzt einen der größten Viehmärkte des Tschad", "Region reich an Wildtieren und unberührter Natur", "Wichtiger logistischer Stützpunkt im Osten", "Bedeutender Ort für den Handel zwischen den Regionen"]
-    },
+    
+    
     facts: {
       de: ["Tor zum Zakouma-Nationalpark.", "Bedeutender Viehmarkt."],
       hu: ["A Zakouma Nemzeti Park kapuja.", "Jelentős állatpiac."],
@@ -280,12 +248,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital city of the Mayo-Kebbi Est region.", "Located strategically on the Logone River.", "Vital hub for river-based transport and trade.", "Surrounded by highly fertile agricultural river plains.", "Historically significant regional trade center.", "Known for active local riverfront markets."]
     },
-    factsAdvanced: {
-      hu: ["A Mayo-Kebbi Est régió központja", "A Logone folyó partján, kameruni határon", "Intenzív kereskedelem Kamerunnal", "Az öntözéses mezőgazdaság központja", "Fontos oktatási és közigazgatási központ", "A régió élelmiszerellátásának biztosítója"]
-    },
-    factsAdvanced: {
-      de: ["Direkte Grenzlage zu Kamerun am Logone-Fluss", "Bedeutendes Zentrum für Fischerei", "Wichtiger Standort für schulische Bildung", "Knotenpunkt des grenzüberschreitenden Handels", "Architektonische Mischung aus Tradition und Moderne", "Kulturelles und wirtschaftliches Tor zum Südwesten"]
-    },
+    
+    
     facts: {
       de: ["Wichtiger Bildungsstandort.", "Zentrum des Fischfangs am Fluss."],
       hu: ["Fontos oktatási központ.", "A folyami halászat központja."],
@@ -312,12 +276,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital city of the Guéra region.", "Located at the base of the mountainous Guéra Massif.", "Acts as a major transit junction between north and south.", "Key administrative hub for central Chad.", "Supports diverse traditional nomadic and farming cultures.", "Serves as a vital regional center for public services."]
     },
-    factsAdvanced: {
-      hu: ["A Guéra régió székhelye", "Kereskedelmi központ a központi régióban", "A Guéra-hegység közelsége", "Fontos állomás a sivatagi kereskedők számára", "A nomád és letelepedett közösségek központja", "A központi régió egyik fő közlekedési állomása"]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Region Guéra", "Kulturelles Zentrum der tschadischen Araber", "Gelegen am Fuße des Abou Telfane-Gebirges", "Bedeutender regionaler Markt für Agrarprodukte", "Beeindruckende Granitlandschaften in der Umgebung", "Strategischer Punkt für den Handel in Zentral-Tschad"]
-    },
+    
+    
     facts: {
       de: ["Zentrum der tschadischen Araber.", "Wichtiger landwirtschaftlicher Markt."],
       hu: ["A csádi arabok központja.", "Fontos mezőgazdasági piac."],
@@ -344,12 +304,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Logone Oriental administrative region.", "Central hub for major oil extraction and processing.", "Witnessed rapid growth due to the petroleum industry.", "Balances industrial activities with regional agriculture.", "Key economic center for southern Chadian development.", "Supports a growing urban population and service sector."]
     },
-    factsAdvanced: {
-      hu: ["A Logone Oriental régió központja", "Csád olajkitermelésének kulcsfontosságú városa", "Az olajipar által generált gyors fejlődés", "Jelentős mezőgazdasági múlt és jelen", "Központi szerep az olajhoz kapcsolódó szolgáltatásokban", "A régió egyik legdinamikusabban növekvő városa"]
-    },
-    factsAdvanced: {
-      de: ["Zentrum der tschadischen Ölindustrie", "Stadt mit bedeutendem wirtschaftlichen Wandel", "Sitz einer wichtigen Diözese", "Wichtiger Verwaltungsstandort im Süden", "Zuzugsort für Arbeitskräfte aus dem gesamten Land", "Strategische Bedeutung für den nationalen Wohlstand"]
-    },
+    
+    
     facts: {
       de: ["Zentrum der tschadischen Ölindustrie.", "Sitz einer Diözese."],
       hu: ["A csádi olajipar központja.", "Egyházmegyei székhely."],
@@ -376,12 +332,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Batha administrative region.", "Major commercial hub for the Chadian livestock trade.", "Located within a semi-arid zone in central Chad.", "Key center for regional agro-pastoral activities.", "Important administrative node in the Batha plains.", "Resilient urban population adapted to desert climates."]
     },
-    factsAdvanced: {
-      hu: ["A Batha régió székhelye", "Kereskedelmi csomópont a nomád útvonalakon", "Hagyományos állattenyésztési központ", "Közigazgatási központ a régióban", "Fontos állomás az áruellátásban", "A sivatagi régiók kereskedelmi találkozópontja"]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Region Batha", "Gelegen im Herzen des Landes am Batha-Fluss", "Strategischer Handels- und Knotenpunkt", "Bedeutender Standort für die nomadische Viehzucht", "Wichtiger Versorgungsstützpunkt in der Sahelzone", "Kulturell eng mit nomadischen Lebensweisen verbunden"]
-    },
+    
+    
     facts: {
       de: ["Strategischer Punkt am Batha-Fluss.", "Wichtig für die Viehzucht."],
       hu: ["Stratégiai pont a Batha-folyónál.", "Fontos az állattenyésztés szempontjából."],
@@ -408,12 +360,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital city of the Kanem administrative region.", "Located in the transitional zone between Sahel and Sahara.", "Key center for regional cattle rearing and oasis farming.", "Historically important crossroads in western Chad.", "Administrative hub for rural Kanem populations.", "Gateway to the northern and western desert areas."]
     },
-    factsAdvanced: {
-      hu: ["A Kanem régió székhelye", "Közel a Csád-tóhoz", "Központja a nomád állattenyésztésnek", "Fontos állomás a sivatagi kereskedelemben", "Közigazgatási szerep a régióban", "Az északnyugati régió közösségeinek összekötője"]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Region Kanem", "Sitz des Sultans von Kanem", "Wichtiger Knotenpunkt für den Salzhandel", "Geografisches Tor zur Sahara-Wüste", "Verbindung zwischen städtischer und nomadischer Lebensweise", "Wichtiger administrativer Stützpunkt im Nordwesten"]
-    },
+    
+    
     facts: {
       de: ["Sitz des Sultans von Kanem.", "Wichtiger Knotenpunkt für Salzhandel."],
       hu: ["A kanemi szultán székhelye.", "A sókereskedelem fontos csomópontja."],
@@ -441,12 +389,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Borkou region in the Sahara.", "Largest and most important oasis town in northern Chad.", "Major logistics hub for desert travel and trade.", "Famous for its abundant and historically important date palms.", "Administrative center for the vast northern desert.", "Key strategic point in the hyper-arid central Sahara."]
     },
-    factsAdvanced: {
-      hu: ["A Borkou régió székhelye", "Mélyen a Szaharában fekvő oázis", "Történelmi karavánút-állomás", "Datolyatermesztés és sivatagi mezőgazdaság", "Az északi területek közigazgatási központja", "Közlekedési csomópont a sivatagi környezetben"]
-    },
-    factsAdvanced: {
-      de: ["Größte Stadt im Norden des Tschad", "Gelegen in einer bedeutenden Oase", "Zentrum der Dattelproduktion", "Wichtiger militärischer Stützpunkt", "Historisch umkämpfter strategischer Ort", "Lebensader inmitten der Sahara"]
-    },
+    
+    
     facts: {
       de: ["Wichtiger Militärstützpunkt.", "Zentrum der Dattelproduktion."],
       hu: ["Fontos katonai támaszpont.", "A datolyatermelés központja."],
@@ -473,12 +417,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Regional administrative town in Hadjer-Lamis.", "Important market for local livestock and crops.", "Key transit point for goods flowing to N'Djamena.", "Economic hub within the western Sahelian zone.", "Supports rural agricultural communities near the capital.", "Vital center for regional administration and services."]
     },
-    factsAdvanced: {
-      hu: ["A Hadjer-Lamis régió székhelye", "Közelség N'Djamenához", "Fontos mezőgazdasági központ", "Kereskedelmi csomópont a régióban", "Áruellátás biztosítása a helyi piacokon", "Meghatározó település a központi régióban"]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Region Hadjer-Lamis", "Wichtiges Tor zur Sahelzone", "Bekannt für seine lebendigen Fleischmärkte", "Wichtiger lokaler Handelsplatz", "Bindeglied zwischen Hauptstadt und Norden", "Knotenpunkt für den regionalen Güterverkehr"]
-    },
+    
+    
     facts: {
       de: ["Tor zur Sahelzone.", "Wichtiger lokaler Handelsplatz."],
       hu: ["A Száhel-övezet kapuja.", "Fontos helyi kereskedelmi központ."],
@@ -505,12 +445,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Administrative center in the Bahr el Ghazal region.", "Essential transit point on the northern trade road.", "Important hub for regional livestock trade.", "Links northern Saharan provinces with southern Chad.", "Serves nomadic and settled local populations.", "Key infrastructural node for central Chadian routes."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági kereskedelmi állomás", "Közigazgatási szerep a régióban", "Hagyományos közösségi élet", "Kulcsfontosságú az áruellátásban", "A régió egyik fontos települése"]
-    },
-    factsAdvanced: {
-      de: ["Strategisch wichtige Stadt in Barh El Gazel", "Gelegen an einer historischen Karawanenroute", "Sitz einer wichtigen Militärakademie", "Zentraler Punkt für den Handel mit Vieh", "Urbane Entwicklung entlang eines ausgetrockneten Flussbetts", "Wichtiger Ort für die Sicherheit und Verwaltung der Region"]
-    },
+    
+    
     facts: {
       de: ["Liegt an einem ausgetrockneten Flussbett.", "Sitz einer Militärakademie."],
       hu: ["Egy kiszáradt folyómeder mentén fekszik.", "Katonai akadémia székhelye."],
@@ -537,12 +473,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Wadi Fira administrative region.", "Located in the remote hilly landscape of eastern Chad.", "Serves as a key link to eastern trade hubs.", "Provides regional services in a semi-arid zone.", "Economically supported by livestock and traditional trade.", "Vital administrative point for eastern highland communities."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági kereskedelmi állomás", "Közigazgatási szerep a régióban", "Hagyományos közösségi élet", "Kulcsfontosságú az áruellátásban", "A régió egyik fontos települése"]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Region Wadi Fira", "Bedeutendes Zentrum für Viehzüchter", "Wüstenähnliches Klima bestimmt den Alltag", "Wichtige administrative und sicherheitspolitische Rolle", "Ausgangspunkt für die Erschließung des Ostens", "Kulturelles Zentrum der lokalen Nomaden"]
-    },
+    
+    
     facts: {
       de: ["Geprägt durch wüstenähnliches Klima.", "Wichtiger Ort für Viehzüchter."],
       hu: ["Sivatagi éghajlat jellemzi.", "Fontos hely az állattenyésztők számára."],
@@ -570,12 +502,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Lac administrative region.", "Located near the shores of Lake Chad.", "Key hub for fishing and regional lake-based trade.", "Associated with unique polder agricultural practices.", "Dynamic economic center due to fluctuating lake levels.", "Important regional hub for governance and lake resources."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági kereskedelmi állomás", "Közigazgatási szerep a régióban", "Hagyományos közösségi élet", "Kulcsfontosságú az áruellátásban", "A régió egyik fontos települése"]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Region Lac", "Gelegen am Ufer des Tschadsees", "Wichtiges Zentrum der Fischerei", "Ehemals bedeutender Hafenstandort", "Lebensgrundlage durch Fischfang und Landwirtschaft", "Symbol für die Anpassung an sich ändernde Umweltbedingungen"]
-    },
+    
+    
     facts: {
       de: ["Zentrum der Fischerei am See.", "Früher ein wichtiger Hafen."],
       hu: ["A tavi halászat központja.", "Korábban fontos kikötő volt."],
@@ -602,12 +530,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Sila administrative region.", "Vital center for eastern regional administration.", "Important location for local trade and rural support.", "Strategic proximity to the eastern Sudanese border.", "Key hub for regional agricultural and nomadic trade.", "Plays a vital role in local humanitarian coordination."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági kereskedelmi állomás", "Közigazgatási szerep a régióban", "Hagyományos közösségi élet", "Kulcsfontosságú az áruellátásban", "A régió egyik fontos települése"]
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt der Region Sila", "Bedeutendes Zentrum für die humanitäre Hilfe", "Lage nahe der Grenze zum Sudan", "Trockenes und herausforderndes Klima", "Wichtiges regionales Verwaltungszentrum", "Marktplatz als zentraler Treffpunkt der Gemeinschaft"]
-    },
+    
+    
     facts: {
       de: ["Bedeutendes Flüchtlingszentrum.", "Geprägt von trockenem Klima."],
       hu: ["Jelentős menekültközpont.", "Száraz éghajlat jellemzi."],
@@ -634,12 +558,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Market town in the Batha administrative region.", "Strategic node on the road between central and eastern Chad.", "Major point for the regional livestock market.", "Distributes essential goods to rural plains communities.", "Provides administrative services to the local area.", "Key center for regional economic exchange in central Chad."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági kereskedelmi állomás", "Közigazgatási szerep a régióban", "Hagyományos közösségi élet", "Kulcsfontosságú az áruellátásban", "A régió egyik fontos települése"]
-    },
-    factsAdvanced: {
-      de: ["Wichtige Stadt in der Region Batha", "Strategisch gelegen am Batha-Fluss", "Bedeutender regionaler Handelsplatz", "Knotenpunkt an der nationalen Verkehrsachse", "Wichtiger Versorgungsort für Reisende", "Verbindung zwischen Agrarregion und Handelszentren"]
-    },
+    
+    
     facts: {
       de: ["Strategischer Verkehrsknotenpunkt.", "Bedeutender regionaler Markt."],
       hu: ["Stratégiai közlekedési csomópont.", "Jelentős regionális piac."],

@@ -26,24 +26,14 @@ export const poiExtraGabonLifeV2: POI[] = [
       ro: "O poiană naturală în Parcul Național Ivindo, cunoscută pentru concentrația mare de elefanți de pădure și gorile.",
       en: "A natural forest clearing in Ivindo National Park, famous for its high concentration of forest elephants and gorillas."
     },
-    descriptionAdvanced: {
-      de: "Langoué Baï ist eine der bedeutendsten Waldlichtungen im Ivindo-Nationalpark und ein zentrales Beobachtungsgebiet für die afrikanische Mega-Fauna. Das Ökosystem ist für seine Mineralienvorkommen im Boden bekannt, die Elefanten und andere Wildtiere anziehen. Es bietet Forschern und Besuchern seltene Einblicke in das Verhalten von Waldelefanten und Gorillas in ungestörter Natur. Földrajz K7 — afrikanische Ökosysteme.",
-      hu: "A Langoué Baï az Ivindo Nemzeti Park egyik legjelentősebb erdei tisztása, és az afrikai megafauna központi megfigyelőhelye. Az ökoszisztéma híres a talajában található ásványi anyagokról, amelyek vonzzák az elefántokat és más vadállatokat. A kutatók és látogatók számára ritka betekintést nyújt az erdei elefántok és gorillák zavartalan viselkedésébe. Földrajz K7 — afrikai ökoszisztémák.",
-      ro: "Langoué Baï este una dintre cele mai importante poieni din Parcul Național Ivindo și un loc central de observare pentru megafauna africană. Ecosistemul este cunoscut pentru depozitele sale de minerale din sol, care atrag elefanții și alte animale sălbatice. Oferă cercetătorilor și vizitatorilor perspective rare asupra comportamentului elefanților de pădure și al gorilelor într-un mediu natural netulburat. Földrajz K7 — ecosisteme africane.",
-      en: "Langoué Baï is one of the most important forest clearings in Ivindo National Park and a central observation area for African megafauna. The ecosystem is known for its soil minerals that attract elephants and other wildlife. It provides researchers and visitors with rare insights into the behavior of forest elephants and gorillas in undisturbed nature. Földrajz K7 — African ecosystems."
-    },
+    
     facts: {
       de: ["Salzhaltige Lichtung", "Elefanten-Beobachtung"],
       hu: ["Sós vizű tisztás", "Elefántmegfigyelés"],
       ro: ["Poiană sărată", "Observarea elefanților"],
       en: ["Saline clearing", "Elephant watching"]
     },
-    factsAdvanced: {
-      de: ["15 Quadratkilometer großes Lichtungsgebiet", "Bis zu 200 Elefanten bei einer Sichtung", "Einzigartige Mineralien-Salzleckstellen", "Seit 2002 Nationalpark-Schutz", "Wichtiger Hotspot für Gorillaforschung", "Entlegen und schwer erreichbar"],
-      hu: ["15 négyzetkilométeres tisztás", "Akár 200 elefánt egyetlen észleléskor", "Egyedülálló ásványi sónyalók", "2002 óta nemzeti parki védelem", "Fontos gócpont a gorillakutatásban", "Elszigetelt és nehezen megközelíthető"],
-      ro: ["Poiană de 15 kilometri pătrați", "Până la 200 de elefanți într-o singură observație", "Sărături minerale unice", "Protecție de parc național din 2002", "Hotspot important pentru cercetarea gorilelor", "Izolat și greu accesibil"],
-      en: ["15 square kilometer clearing area", "Up to 200 elephants in a single sighting", "Unique mineral salt licks", "National park protection since 2002", "Important hotspot for gorilla research", "Remote and hard to access"]
-    }, image: "/poi-images/langoue-bai-life-v2.webp"},
+     image: "/poi-images/langoue-bai-life-v2.webp"},
   {
     id: "moukalaba-doudou-gorilla-life-v2",
     type: "animal-habitat",

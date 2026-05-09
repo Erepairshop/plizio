@@ -21,12 +21,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Surface area once reached 25,000 km² in the 1960s.", "It is located at an altitude of approximately 280 meters.", "The lake is fed primarily by the Chari River.", "It supports livelihoods through fishing, agriculture, and livestock.", "The basin area spans across Chad, Cameroon, Nigeria, and Niger.", "It is a Ramsar wetland of international importance."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Wichtigste Süßwasserquelle der gesamten Sahelregion", "Historisches Relikt des gewaltigen Mega-Tschad-Beckens", "Extrem flacher See mit hoher saisonaler Dynamik", "Essenzielles Rastgebiet für tausende Zugvögel", "Wirtschaftliche Lebensgrundlage für vier Anrainerstaaten", "Einzigartiges Ökosystem mit hoher Biodiversität"]
-    },
+    
+    
     description: {
       de: "Ein historisch bedeutender, flacher See am Rande der Sahara.",
       hu: "Történelmileg jelentős, sekély tó a Szahara szélén.",
@@ -58,12 +54,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Total length is approximately 1,400 kilometers.", "It joins the Logone River at N'Djamena.", "The basin covers an area of about 650,000 km².", "It provides essential water for N'Djamena, the capital city.", "Major tributaries include the Bahr Salamat and Bahr Aouk.", "Crucial for the transportation of goods in southern Chad."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Hauptzufluss des Tschadsees mit 90% Wassereintrag", "Etwa 1.400 Kilometer langer Strom durch Zentralafrika", "Zentraler Faktor für Bewässerungslandwirtschaft im Tschad", "Wichtige Lebensader für den Binnenhandel und Transport", "Saisonale Hochwasserzyklen formen fruchtbare Auen", "Essenzielles Ökosystem für aquatische Fauna"]
-    },
+    
+    
     description: {
       de: "Der Hauptzufluss des Tschadsees, der durch die Hauptstadt fließt.",
       hu: "A Csád-tó fő mellékfolyója, amely a fővároson is keresztülfolyik.",
@@ -95,12 +87,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Flows for approximately 1,000 kilometers.", "Forms a large portion of the Chad-Cameroon border.", "Joins the Chari River at the city of N'Djamena.", "Flooding supports large-scale traditional rice cultivation.", "Known for its rich fish populations supporting local diets.", "The river basin is a key site for sustainable irrigation projects."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Natürliche Grenzlinie zwischen Tschad und Kamerun", "Schafft durch Überflutungen weitreichende Feuchtgebiete", "Wichtiger Lebensraum für eine Vielzahl aquatischer Arten", "Zentrum für bedeutenden Reisbau und Fischerei", "Hydrologisch eng mit dem Schari-Flusssystem vernetzt", "Strukturgebendes Element der Landschaft im Südwesten"]
-    },
+    
+    
     description: {
       de: "Ein bedeutender Fluss im Südwesten, der die Grenze zu Kamerun bildet.",
       hu: "Jelentős folyó délnyugaton, amely Kamerunnal alkot határt.",
@@ -132,12 +120,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Highest peak in the Sahara at 3,415 meters.", "A large shield volcano with two calderas.", "Located in the northern Borkou region.", "Features steep-sided ravines and volcanic cliffs.", "Formed during the Tertiary period by volcanic activity.", "A critical area for studying desert geomorphology."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Höchster Gipfel der gesamten Sahara-Wüste", "Gigantisches vulkanisches Massiv im Tibesti", "Besitzt zwei beeindruckende, tiefgelegene Krater", "Geologisch faszinierende Lavafelder und Gesteinsformationen", "Ein herausforderndes Ziel für geologische Expeditionen", "Monumentales Zeugnis prähistorischer vulkanischer Aktivität"]
-    },
+    
+    
     description: {
       de: "Ein erloschener Vulkan und der höchste Gipfel der Sahara.",
       hu: "Egy kialudt tűzhányó és a Szahara legmagasabb csúcsa.",
@@ -169,12 +153,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Stretches over 100,000 km² in northern Chad.", "Contains several extinct volcanoes and calderas.", "Features rock engravings dating to the Neolithic period.", "Primary habitat for the hardy Toubou nomadic populations.", "Contains significant geothermal hot springs.", "Located far from major urban centers in the Sahara."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Gewaltiges vulkanisches Massiv in der Nord-Sahara", "Höchste und abgelegenste Bergregion der Sahara", "Traditionelle Heimat der Toubou-Nomaden", "Fundort zahlreicher prähistorischer Felsmalereien", "Extrem trockenes und lebensfeindliches Klima", "Einzigartige Symbiose aus Geologie und nomadischer Kultur"]
-    },
+    
+    
     description: {
       de: "Ein gewaltiges Gebirgsmassiv vulkanischen Ursprungs im Norden des Tschad.",
       hu: "Hatalmas vulkáni eredetű hegység Csád északi részén.",
@@ -206,12 +186,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Famous for natural rock arches like the Aloba Arch.", "Contains the Guelta d'Archei, a famous desert oasis.", "Features thousands of years of prehistoric cave paintings.", "A UNESCO World Heritage site since 2016.", "Stands at an average elevation of 1,000 meters.", "Hosts the rare relic population of desert Nile crocodiles."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["UNESCO-Welterbe für seine Sandsteinformationen", "Heimat beeindruckender natürlicher Felsbögen und Türme", "Refugium für seltene Wüstenkrokodile", "Reichhaltige prähistorische Kunst in Felsgrotten", "Geologische Meisterleistung durch Erosion", "Einzigartige Kombination aus Kultur- und Naturerbe"]
-    },
+    
+    
     description: {
       de: "Eine spektakuläre Sandsteinlandschaft mit natürlichen Bögen und Türmen.",
       hu: "Látványos homokkő táj természetes boltívekkel és tornyokkal.",
@@ -243,12 +219,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["A Ramsar site of international importance.", "Located roughly 300 kilometers east of N'Djamena.", "Acts as a major reservoir for local biodiversity.", "Provides water for diverse bird and fish species.", "Size varies drastically between the wet and dry seasons.", "Supports nomadic and settled agricultural livelihoods."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Wichtiger Süßwasser-See und geschütztes Ramsar-Gebiet", "Relikt des Mega-Tschad-Systems", "Essenziell für die lokale Viehzucht und Fischerei", "Lebensader in der ariden zentralen Region", "Reichhaltige Vogel- und Fischfauna", "Stark durch saisonale Dynamik geprägtes Ökosystem"]
-    },
+    
+    
     description: {
       de: "Ein wichtiger Süßwassersee in der Mitte des Landes, ein Ramsar-Gebiet.",
       hu: "Fontos édesvizű tó az ország közepén, Ramsari terület.",
@@ -280,12 +252,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Salamat region of southern Chad.", "Relatively stable freshwater lake compared to northern basins.", "Key source for commercial and subsistence fishing.", "Surrounded by lush savanna-type vegetation.", "Integrated into the wider Bahr Salamat river network.", "Important regional location for biodiversity conservation."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Fast kreisrunder See, wahrscheinlich ein Einschlagkrater", "Reiche Fischbestände dank saisonaler Wasserzufuhr", "Essenziell für die Fischereiwirtschaft im Süden", "Geografisches und geologisches Rätsel der Region", "Ökologische Vernetzung mit dem Bahr Salamat-System", "Landschaftliches Highlight in der Savannenzone"]
-    },
+    
+    
     description: {
       de: "Ein kleiner, fast kreisrunder See im Süden, wahrscheinlich ein Einschlagkrater.",
       hu: "Kicsi, majdnem kör alakú tó délen, valószínűleg becsapódási kráter.",
@@ -317,12 +285,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Comprises 18 distinct lakes in a desert basin.", "A UNESCO World Heritage site designated in 2012.", "Some lakes are hypersaline while others remain freshwater.", "Located in the extremely arid Ennedi region.", "Hydrology sustained by groundwater and ancient aquifers.", "Surrounded by vast, shifting sand dune networks."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["UNESCO-Welterbe aus 18 Seen in der Sahara", "Speisung durch unterirdische fossile Aquifere", "Einzigartige Vielfalt von Süß- und Salzwasserseen", "Faszinierende oasenhafte Wasserlandschaft", "Relikt einer feuchteren Klimaphase der Sahara", "Ökologisches Wunder inmitten der Wüste"]
-    },
+    
+    
     description: {
       de: "Eine Gruppe von 18 Seen in der Wüste, ein UNESCO-Weltnaturerbe.",
       hu: "18 tóból álló csoport a sivatagban, UNESCO világörökségi helyszín.",
@@ -354,12 +318,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Part of the Ounianga UNESCO World Heritage site.", "Maintained by ancient Saharan groundwater aquifers.", "Features unique algae-rich mineral water.", "Critical watering hole for nomadic Saharan fauna.", "Located within the Ennedi region of northern Chad.", "A rare permanent water source in the Sahara Desert."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Einer der farbenprächtigsten Seen der Ounianga-Gruppe", "Ganzjährig wasserführende Oase inmitten von Dünen", "Lebendige Ufervegetation als Kontrast zur Wüste", "Wichtige ökologische Nische für Wüstenbewohner", "Visuelles Highlight durch starke Kontraste", "Resilient gegenüber extremer Verdunstung"]
-    },
+    
+    
     description: {
       de: "Einer der malerischsten Seen der Ounianga-Gruppe, bekannt für seine Farben.",
       hu: "Az Ounianga-csoport egyik legfestőibb tava, színeiről ismert.",
@@ -391,12 +351,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Hosts the last known Nile crocodiles in the Sahara.", "Located within the Ennedi Plateau in northeast Chad.", "A hidden canyon that protects water from evaporation.", "Has served nomads and caravans for over 1,000 years.", "Features ancient rock art surrounding the guelta.", "A site of critical regional biodiversity interest."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Legendäre Schlucht und Wasserstelle im Ennedi", "Letztes Rückzugsort für seltene Wüstenkrokodile", "Essenzielle Tränkestelle für Karawanen", "Dramatische Sandsteinkulisse mit tiefem Wasser", "Symbol für die Geheimnisse und Geschichte der Sahara", "Isolation sorgt für ein einzigartiges Ökosystem"]
-    },
+    
+    
     description: {
       de: "Einer der bekanntesten Guelta-Wasserlöcher in der Sahara, im Ennedi-Massiv.",
       hu: "A Szahara egyik legismertebb sziklamedencéje az Ennedi-hegységben.",
@@ -428,12 +384,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Primary water source for Zakouma National Park.", "A seasonal river system typical of Chadian savannas.", "Crucial for supporting major elephant populations.", "Flows primarily during the summer monsoon season.", "Helps recharge groundwater in southeastern Chad.", "Basin supports diverse agricultural communities."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Lebensader für den Zakouma-Nationalpark", "Saisonale Wasserader mit großer Bedeutung für Wildtiere", "Formt ausgedehnte Auen mit hoher Produktivität", "Fundament für die Artenvielfalt von Zakouma", "Essenziell für die Tränke von Großtieren", "Beispiel für Flussdynamik in Savannen"]
-    },
+    
+    
     description: {
       de: "Ein saisonaler Fluss im Südosten, der durch den Zakouma-Nationalpark fließt.",
       hu: "Szezonális folyó délkeleten, amely a Zakouma Nemzeti Parkon folyik át.",
@@ -465,12 +417,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Forms a major part of the Chad-CAR border.", "A primary tributary feeding the Chari River system.", "Flows through dense savanna woodlands of the south.", "Important region for subsistence fishing and wildlife.", "Water flow is heavily dependent on tropical rainfall.", "Remote landscape characterized by low human density."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Wichtiger Grenzfluss zwischen Tschad und Zentralafrika", "Wasserreicher Strom durch entlegene Feuchtsavannen", "Weitgehend unberührte und natürliche Flussökosysteme", "Hohe Vielfalt an Fisch- und Pflanzenarten", "Wichtiger ökologischer Puffer für die Grenzregion", "Abgelegener Rückzugsort für seltene Wildtiere"]
-    },
+    
+    
     description: {
       de: "Ein Grenzfluss zwischen dem Tschad und der Zentralafrikanischen Republik.",
       hu: "Határfolyó Csád és a Közép-afrikai Köztársaság között.",
@@ -502,12 +450,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["A seasonal artery within southern Chad.", "Significant for local livestock and small-scale farms.", "Seasonal water levels fluctuate with regional rains.", "Provides water to ecosystems during the wet season.", "Forms part of the wider Chari river catchment.", "Landscape characterized by tropical savanna grasses."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Wichtiger Nebenfluss im komplexen Salamat-Becken", "Zentral für das Netz der südöstlichen Wasserläufe", "Regenzeit bestimmt den Wasserfluss maßgeblich", "Unerlässlich für die nomadische Viehzucht", "Wasserader für das ökologische Gefüge der Region", "Abhängigkeit lokaler Wirtschaft von saisonalen Dynamiken"]
-    },
+    
+    
     description: {
       de: "Ein wichtiger Nebenfluss im Salamat-Becken.",
       hu: "Fontos mellékfolyó a Salamat-medencében.",
@@ -539,12 +483,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["A primary agricultural zone in southwestern Chad.", "Rich in wetlands, rivers, and fertile soil.", "Produces significant quantities of cotton and rice.", "Features small-scale irrigation along the river banks.", "Known for its higher population density in Chad.", "Diverse savanna landscape in the southwest."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Hydrologisches Netz verbindet Seen und Benue-Fluss", "Bekannt für seine malerischen Wasserfälle", "Hotspot der regionalen Biodiversität", "Vernetzung über Landesgrenzen hinweg", "Starke saisonale Prägung von Leben und Landwirtschaft", "Beispiel für Interaktion verschiedener Flusssysteme"]
-    },
+    
+    
     description: {
       de: "Ein Fluss im Südwesten, der den Léré-See entwässert.",
       hu: "Folyó délnyugaton, amely a Léré-tavat csapolja le.",
@@ -576,12 +516,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["A productive freshwater lake in southwestern Chad.", "Essential for local fishing and irrigation projects.", "Located within the Mayo-Kebbi drainage network.", "Supports diverse bird life and aquatic species.", "Surrounded by highly fertile agricultural lands.", "Provides a steady supply of fish for the region."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Einzigartiges Refugium für afrikanische Rundschwanzseekühe", "Essenziell für die lokale Fischerei im Südwesten", "Wichtiges Vogelparadies am Seeufer", "Lebenswichtige Ressource für die umliegenden Gemeinschaften", "Stabile ökologische Nische für aquatische Säuger", "Wichtiger Grenzsee zu Kamerun"]
-    },
+    
+    
     description: {
       de: "Ein flacher See im Südwesten des Tschad, bekannt für seine Rundschwanzseekühe.",
       hu: "Sekély tó Csád délnyugati részén, lamantinokról ismert.",
@@ -613,12 +549,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Situated near the town of Léré in southwest Chad.", "Part of the wider Mayo-Kebbi wetland ecosystem.", "Essential for supporting subsistence fishing activities.", "Provides irrigation water for local farmers.", "Supports regional migratory and local bird species.", "A stable water feature in the Chadian southwest."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Idyllisches Gewässer im Mayo-Kebbi-Becken", "Üppige Ufervegetation sorgt für hohes ökologisches Potenzial", "Wichtiger Bestandteil der lokalen Fischereiwirtschaft", "Ein Kleinod der unberührten Natur", "Teil der biologischen Vielfalt des Südwestens", "Harmonische Ergänzung zum Léré-See"]
-    },
+    
+    
     description: {
       de: "Ein Nachbarsee des Léré-Sees im Mayo-Kebbi-Gebiet.",
       hu: "A Léré-tó szomszédja a Mayo-Kebbi területen.",
@@ -650,12 +582,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["An extinct volcano in the Tibesti mountain range.", "Elevation of 3,265 meters above sea level.", "Features a massive, distinct volcanic crater.", "Located in the remote northern desert of Chad.", "Formed through explosive volcanic eruptions.", "A prominent peak in the central Sahara region."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Markanter, junger Vulkankegel im Tibesti", "Prägt die Geologie des nördlichen Hochlands", "Bekannt für seine noch aktiven Fumarolen", "Spektakulärer Blick über das Tibesti-Massiv", "Herausforderndes Ziel für geologische Forschung", "Zeugnis vulkanischer Aktivität in der Sahara"]
-    },
+    
+    
     description: {
       de: "Ein markanter Vulkankegel im Tibesti-Gebirge.",
       hu: "Jellegzetes vulkáni kúp a Tibeszti-hegységben.",
@@ -687,12 +615,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["A large shield volcano in the Tibesti range.", "Known for its high, rugged volcanic gullies.", "One of the major volcanic centers in northern Chad.", "Formed during intense volcanic activity in the Tertiary.", "Provides critical information on Saharan volcanism.", "A landmark for desert navigation in northern Chad."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Großes vulkanisches Massiv mit weiter Kaldera", "Bekannt für seltene Thermalquellen in der Wüste", "Beeindruckende Basaltströme als geologische Zeugen", "Zentraler Baustein des Tibesti-Vulkansystems", "Wichtige Ankerpunkte für Mensch und Tier", "Landschaft aus monumentaler vulkanischer Vergangenheit"]
-    },
+    
+    
     description: {
       de: "Ein großes vulkanisches Massiv mit einer weiten Kaldera.",
       hu: "Hatalmas vulkáni masszívum széles kalderával.",
@@ -724,12 +648,8 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["A volcanic peak within the Tibesti range.", "Known for its vast volcanic debris and rock fields.", "Reflects complex geological processes in northern Chad.", "A challenging and remote part of the Saharan interior.", "Offers insight into past volcanic cycles in the region.", "Contributes to the rugged landscape of northern Chad."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Weitläufiges vulkanisches Hochland im Tibesti", "Landschaft geprägt von Lavaebenen und Vulkankegeln", "Extrem isolierte Lage in der zentralen Sahara", "Geologisch einzigartige Mondlandschaft", "Ort der absoluten Stille", "Faszinierendes Ziel für geologische Entdecker"]
-    },
+    
+    
     description: {
       de: "Ein vulkanisches Hochland im nördlichen Tibesti.",
       hu: "Vulkáni fennsík az északi Tibesztiben.",
@@ -760,9 +680,7 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Extremely isolated and rugged mountain range in the Sahara.", "One of the least accessible regions in northern Chad.", "Features unique jagged sandstone and deep valleys.", "Home to resilient desert-adapted plant life.", "Stands as a testament to geological endurance.", "Remote landscape largely untouched by human activity."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
+    
     description: {
       de: "Der höchste Berg Libyens, der direkt an der Grenze zum Tschad liegt.",
       hu: "Líbia legmagasabb hegye, közvetlenül a csádi határon.",
@@ -793,9 +711,7 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Volcanic mountain range on the Chad-Cameroon border.", "Known for steep cliffs and intricate rock valleys.", "Historically provided refuge for local ethnic populations.", "Supports unique high-altitude terrace farming practices.", "Geographically significant for southern Chadian transit.", "Defines the boundary and topography of the southwest."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
+    
     description: {
       de: "Ein Vulkangebirge an der Grenze zwischen Kamerun und Tschad.",
       hu: "Vulkáni hegység Kamerun és Csád határán.",
@@ -826,9 +742,7 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Rugged highland plateaus separating northern and southern plains.", "Plays a key role in regional rainfall regulation.", "Historically home to the powerful Ouaddaï Kingdom centers.", "Provides natural water sources in the semi-arid east.", "Supports diverse savanna vegetation and grazing grounds.", "Essential geographical feature of the Chadian east."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
+    
     description: {
       de: "Eine hügelige Gebirgsregion im Osten des Landes.",
       hu: "Dombos hegyvidék az ország keleti részén.",
@@ -860,9 +774,7 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Part of the southern tropical savanna-forest mosaic.", "Characterized by diverse tree species and tall grasses.", "Vital habitat for migratory birds and savanna mammals.", "Crucial for maintaining regional ecological stability.", "Represents the natural heritage of southern Chadian forests.", "Important zone for forest and savanna biodiversity monitoring."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
+    
     description: {
       de: "Ein wichtiges Wald- und Schutzgebiet im Süden des Landes.",
       hu: "Fontos erdő és védett terület az ország déli részén.",
@@ -893,9 +805,7 @@ export const poiExtraChadNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Ecologically critical forest corridor in the southwest.", "Dense tree growth supported by nearby wetland moisture.", "Vital refuge for primates and savanna bird species.", "Provides essential resources for local communities.", "Acts as a natural buffer against regional desertification.", "Key site for small-scale forest biodiversity conservation."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
+    
     description: {
       de: "Ein Waldreservat, das Teil des komplexen Binder-Léré-Ökosystems ist.",
       hu: "Erdőrezervátum, amely a komplex Binder-Léré ökoszisztéma része.",

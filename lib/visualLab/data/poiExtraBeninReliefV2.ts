@@ -1,4 +1,4 @@
-// @ts-nocheck
+﻿// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBeninReliefV2: POI[] = [
@@ -15,13 +15,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Ein ausgedehntes Waldschutzgebiet in Zentralbenin, das für seine markanten Granitfelsen und hohe Artenvielfalt bekannt ist.",
-      hu: "Kiterjedt erdőrezervátum Közép-Beninben, amely jellegzetes gránitformációiról és gazdag biodiverzitásáról ismert.",
+      hu: "A Kouffé-hegy a központi országrész domborzatának kiemelkedő része, fontos erdős területekkel és változatos élővilággal.",
       ro: "O rezervă forestieră extinsă în centrul Beninului, cunoscută pentru aflorimentele sale de granit și biodiversitatea ridicată.",
       en: "An extensive forest reserve in central Benin, known for its striking granite outcrops and high biodiversity."
     },
     facts: {
       de: ["Bedeutendes Ökosystem", "Zentralafrikanische Einflüsse", "Granitische Hügelketten"],
-      hu: ["Fontos ökoszisztéma", "Közép-afrikai hatások", "Gránit dombok"],
+      hu: ["Típus: Hegy", "Régió: Közép-Benin", "Domborzat: Kiemelkedés", "Erdős terület"],
       ro: ["Ecosistem important", "Influențe central-africane", "Creste de granit"],
       en: ["Important ecosystem", "Central African influences", "Granite ridges"]
     }, image: "/poi-images/mont-kouffe-relief-v2.webp"},
@@ -38,13 +38,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Ein wichtiges Waldreservat im Departement Borgou, das durch Savannenwälder und eine reiche Vogelwelt geprägt ist.",
-      hu: "Fontos erdőrezervátum Borgou megyében, amelyet szavannaerdők és gazdag madárvilág jellemez.",
+      hu: "A Wari-Maro erdővidék egy jelentős dombos terület, amely a központi régió természetes erdőállományának fontos védett szigete.",
       ro: "O importantă rezervă forestieră în departamentul Borgou, caracterizată prin păduri de savană și o avifaună bogată.",
       en: "An important forest reserve in the Borgou department, characterized by savanna woodlands and rich birdlife."
     },
     facts: {
       de: ["Schutzgebiet für Wildtiere", "Savannenbiom", "Nahe Parakou gelegen"],
-      hu: ["Vadvédelmi terület", "Szavanna biom", "Parakou közelében található"],
+      hu: ["Típus: Erdővidék", "Domborzat: Dombos", "Védett terület", "Természeti érték"],
       ro: ["Arie protejată pentru fauna sălbatică", "Biom de savană", "Situată lângă Parakou"],
       en: ["Wildlife protected area", "Savanna biome", "Located near Parakou"]
     }, image: "/poi-images/wari-maro-forest-relief-v2.webp"},
@@ -84,13 +84,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Ein Teil des Atakora-Systems im Nordwesten, bekannt für seine zerklüfteten Hänge und spektakulären Ausblicke.",
-      hu: "Az Atakora-rendszer része északnyugaton, amely meredek lejtőiről és látványos kilátásáról ismert.",
+      hu: "A Kouandé-vidéki hegyláncok az északnyugati régió jellemző domborzati elemei, amelyek befolyásolják a helyi éghajlatot.",
       ro: "O parte a sistemului Atakora din nord-vest, cunoscută pentru pantele sale abrupte și vederile spectaculoase.",
       en: "A part of the Atakora system in the northwest, known for its rugged slopes and spectacular views."
     },
     facts: {
       de: ["Quellgebiet kleiner Flüsse", "Hügelige Savanne", "Wanderwege"],
-      hu: ["Kis folyók forrásvidéke", "Dombos szavanna", "Túraútvonalak"],
+      hu: ["Típus: Hegylánc", "Régió: Északnyugat", "Domborzat: Hegyvidék", "Éghajlati hatás"],
       ro: ["Zonă de izvor pentru râuri mici", "Savană deluroasă", "Trasee de drumeție"],
       en: ["Source of small rivers", "Hilly savanna", "Hiking trails"]
     }, image: "/poi-images/kouande-mountains-relief-v2.webp"},
@@ -107,13 +107,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Eine beeindruckende Ansammlung von 41 Granithügeln, die das Stadtbild von Dassa-Zoumé prägen und heilig sind.",
-      hu: "41 gránitdomb lenyűgöző együttese, amely meghatározza Dassa-Zoumé városképét és szentnek számít.",
+      hu: "A Dassa-dombság a közép-benini táj jellegzetes része, ismert sziklás képződményeiről és a régió kulturális tájképéről.",
       ro: "O colecție impresionantă de 41 de dealuri de granit care definesc peisajul urban din Dassa-Zoumé și sunt sacre.",
       en: "An impressive collection of 41 granite hills that define the cityscape of Dassa-Zoumé and are considered sacred."
     },
     facts: {
       de: ["41 Granitgipfel", "Heilige Stätten", "Einzigartige Geologie"],
-      hu: ["41 gránitcsúcs", "Szent helyek", "Egyedülálló geológia"],
+      hu: ["Típus: Dombság", "Régió: Közép-Benin", "Domborzat: Sziklás", "Kulturális táj"],
       ro: ["41 de vârfuri de granit", "Locuri sacre", "Geologie unică"],
       en: ["41 granite peaks", "Sacred sites", "Unique geology"]
     }, image: "/poi-images/dassa-hills-relief-v2.webp"},
@@ -130,13 +130,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Ein fruchtbares Hochplateau im Süden Benins, das für seinen reichen Ackerbau und seine historische Bedeutung bekannt ist.",
-      hu: "Termékeny fennsík Benin déli részén, amely gazdag mezőgazdaságáról és történelmi jelentőségéről ismert.",
+      hu: "Az Allada-fennsík egy termékeny domborzati formáció a déli régióban, amely ideális az ananásztermesztéshez.",
       ro: "Un podiș fertil în sudul Beninului, cunoscut pentru agricultura sa bogată și semnificația istorică.",
       en: "A fertile high plateau in southern Benin, known for its rich agriculture and historical significance."
     },
     facts: {
       de: ["Eisenreiche Böden", "Zentrum des Ananasanbaus", "Hügeliges Gelände"],
-      hu: ["Vasban gazdag talaj", "Ananásztermesztés központja", "Dombos terep"],
+      hu: ["Típus: Fennsík", "Régió: Dél-Benin", "Domborzat: Sík/fennsík", "Mezőgazdasági érték"],
       ro: ["Soluri bogate în fier", "Centrul cultivării ananasului", "Teren deluros"],
       en: ["Iron-rich soils", "Center of pineapple cultivation", "Hilly terrain"]
     }, image: "/poi-images/allada-plateau-relief-v2.webp"},
@@ -222,13 +222,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Eine Bergkette an der westlichen Grenze zu Togo, die reich an dichtem Tropenwald und vielfältiger Flora ist.",
-      hu: "Hegylánc a nyugati, Togo-val közös határon, amely sűrű trópusi erdőben és változatos flórában gazdag.",
+      hu: "A Bassila környéki hegyvidék a nyugati határ közelében változatos terepet és fontos erdős élőhelyeket kínál.",
       ro: "Un lanț muntos la granița de vest cu Togo, bogat în păduri tropicale dense și floră diversă.",
       en: "A mountain range on the western border with Togo, rich in dense tropical forest and diverse flora."
     },
     facts: {
       de: ["Grenzgebirge", "Dichte Waldbedeckung", "Holzwirtschaftliches Zentrum"],
-      hu: ["Határhegység", "Sűrű erdőborítottság", "Faipari központ"],
+      hu: ["Típus: Hegyvidék", "Régió: Nyugat", "Domborzat: Változatos", "Erdős élőhely"],
       ro: ["Munți de frontieră", "Acoperire forestieră densă", "Centru de industrie a lemnului"],
       en: ["Border mountains", "Dense forest cover", "Timber industry center"]
     }, image: "/poi-images/bassila-mountains-relief-v2.webp"},
@@ -245,13 +245,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Die fruchtbare Schwemmlandebene entlang des Nigerflusses im äußersten Nordosten Benins.",
-      hu: "A Niger-folyó menti termékeny hordaléksíkság Benin legészakibb részén.",
+      hu: "A Niger-völgy az ország északi részének sík, alacsonyan fekvő, de gazdag vízrajzi jellemzőkkel bíró domborzati egysége.",
       ro: "Câmpia aluvială fertilă de-a lungul fluviului Niger, în extremul nord-est al Beninului.",
       en: "The fertile alluvial plain along the Niger River in the far northeast of Benin."
     },
     facts: {
       de: ["Schwemmland", "Wichtiges Reisanbaugebiet", "Grenze zu Niger"],
-      hu: ["Ártéri terület", "Fontos rizstermesztő vidék", "Határ Nigerrel"],
+      hu: ["Típus: Völgy", "Régió: Észak", "Domborzat: Sík", "Gazdag vízrajz"],
       ro: ["Teren aluvial", "Zonă importantă de cultivare a orezului", "Granița cu Niger"],
       en: ["Alluvial land", "Important rice-growing area", "Border with Niger"]
     }, image: "/poi-images/niger-valley-relief-v2.webp"},
@@ -291,13 +291,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Ein großes Waldreservat im Norden, das als Schutzraum für Elefanten und andere Großsäuger dient.",
-      hu: "Nagy erdőrezervátum északon, amely elefántok és más nagyemlősök számára szolgál menedékhelyül.",
+      hu: "Az Ouenou-Kouandé erdőterület egy dombos régióban fekszik, amely a természetes élővilág és a helyi növényzet védelmét szolgálja.",
       ro: "O mare rezervă forestieră în nord, care servește drept adăpost pentru elefanți și alte mamifere mari.",
       en: "A large forest reserve in the north that serves as a sanctuary for elephants and other large mammals."
     },
     facts: {
       de: ["Elefanten-Refugium", "Großes Areal", "Savannenwald-Mix"],
-      hu: ["Elefánt menedékhely", "Nagy terület", "Szavannaerdő keverék"],
+      hu: ["Típus: Erdőterület", "Domborzat: Dombos", "Természetvédelem", "Helyi flóra"],
       ro: ["Refugiu pentru elefanți", "Suprafață mare", "Amestec de pădure și savană"],
       en: ["Elephant sanctuary", "Large area", "Savanna woodland mix"]
     }, image: "/poi-images/ouenou-kouande-forest-relief-v2.webp"},
@@ -314,13 +314,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Eine malerische Gruppe von Hügeln im Zentrum Benins, die für ihre Jams-Produktion und spirituelle Bedeutung bekannt sind.",
-      hu: "Festői dombcsoport Benin központjában, amely a jamgyökér-termeléséről és spirituális jelentőségéről ismert.",
+      hu: "A Savalou környéki dombok a közép-benini régió jellegzetes és kulturálisan is jelentős domborzati képződményei.",
       ro: "Un grup pitoresc de dealuri în centrul Beninului, cunoscute pentru producția de igname și semnificația lor spirituală.",
       en: "A picturesque group of hills in central Benin, known for their yam production and spiritual significance."
     },
     facts: {
       de: ["Jams-Anbau", "Granitische Felsen", "Kulturelle Riten"],
-      hu: ["Jamgyökér termesztés", "Gránit sziklák", "Kulturális rítusok"],
+      hu: ["Típus: Dombvidék", "Régió: Közép-Benin", "Domborzat: Dombos", "Kulturális jelentőség"],
       ro: ["Cultivarea ignamelor", "Roci de granit", "Ritualuri culturale"],
       en: ["Yam cultivation", "Granite rocks", "Cultural rites"]
     }, image: "/poi-images/savalou-hills-relief-v2.webp"},
@@ -337,13 +337,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Ein kleiner, aber biologisch wertvoller Waldrest im Süden, der seltene Pflanzenarten beherbergt.",
-      hu: "Kicsi, de biológiailag értékes erdőmaradvány délen, amely ritka növényfajoknak ad otthont.",
+      hu: "A Sédent-erdő egy érintetlen, dombos vidék, amely a régió biológiai sokféleségének megőrzésében játszik fontos szerepet.",
       ro: "O mică rămășiță de pădure, dar valoroasă din punct de vedere biologic, în sud, care găzduiește specii de plante rare.",
       en: "A small but biologically valuable forest remnant in the south, home to rare plant species."
     },
     facts: {
       de: ["Seltene Flora", "Reliktwald", "Naturschutzgebiet"],
-      hu: ["Ritka flóra", "Reliktum erdő", "Természetvédelmi terület"],
+      hu: ["Típus: Erdőterület", "Domborzat: Dombos", "Jelleg: Érintetlen", "Biológiai sokféleség"],
       ro: ["Floră rară", "Pădure relictă", "Rezervație naturală"],
       en: ["Rare flora", "Relict forest", "Nature reserve"]
     }, image: "/poi-images/sedent-forest-relief-v2.webp"},
@@ -383,13 +383,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Ein geologisch interessantes Plateau im Südosten, das die historische Stadt Kétou umgibt und fruchtbare Lehmböden besitzt.",
-      hu: "Geológiailag érdekes fennsík délkeleten, amely Kétou történelmi városát veszi körül, és termékeny agyagtalajjal rendelkezik.",
+      hu: "A Kétou-fennsík az ország délkeleti részének termékeny síkvidéki területe, amely mezőgazdasági szempontból kiemelkedő.",
       ro: "Un podiș interesant din punct de vedere geologic în sud-est, care înconjoară orașul istoric Kétou și are soluri argiloase fertile.",
       en: "A geologically interesting plateau in the southeast, surrounding the historical city of Kétou and possessing fertile clay soils."
     },
     facts: {
       de: ["Lehmreiche Böden", "Yoruba-Kerngebiet", "Agrarisch geprägt"],
-      hu: ["Agyagos talaj", "Joruba központi terület", "Mezőgazdasági jellegű"],
+      hu: ["Típus: Fennsík", "Régió: Délkelet", "Domborzat: Síkság", "Mezőgazdasági jelentőség"],
       ro: ["Soluri bogate în argilă", "Zonă centrală Yoruba", "Caracter agrar"],
       en: ["Clay-rich soils", "Yoruba heartland", "Agrarian character"]
     }, image: "/poi-images/ketou-plateau-relief-v2.webp"},
@@ -406,13 +406,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Mehrere Gebirgszüge rund um die Stadt Djougou, die Teil des Atakora-Massivs sind und das regionale Klima beeinflussen.",
-      hu: "Több hegylánc Djougou városa körül, amelyek az Atakora-masszívum részei és befolyásolják a regionális éghajlatot.",
+      hu: "A Djougou környéki hegyek az északnyugati régió változatos domborzatának részei, amelyek a helyi mikroklímát határozzák meg.",
       ro: "Mai multe lanțuri muntoase din jurul orașului Djougou, care fac parte din masivul Atakora și influențează clima regională.",
       en: "Several mountain ranges around the city of Djougou that are part of the Atakora massif and influence the regional climate."
     },
     facts: {
       de: ["Klimatische Barriere", "Quarzit-Gestein", "Regenreiches Gebirge"],
-      hu: ["Éghajlati gát", "Kvarcit kőzet", "Esős hegység"],
+      hu: ["Típus: Hegység", "Régió: Északnyugat", "Domborzat: Hegyvidék", "Mikroklíma"],
       ro: ["Barieră climatică", "Rocă de cuarțit", "Munți ploioși"],
       en: ["Climatic barrier", "Quartzite rock", "Rainy mountains"]
     }, image: "/poi-images/djougou-mountains-relief-v2.webp"},
@@ -429,13 +429,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Ein wichtiges Waldgebiet im Departement Atlantique, das für seine reiche Avifauna und seltene Holzarten geschützt ist.",
-      hu: "Fontos erdőterület Atlantique megyében, amely gazdag madárvilágáról és ritka fafajtáiról ismert.",
+      hu: "A Djigbé-erdővidék egy dombos táj a déli országrészben, amely fontos szerepet játszik a vízgyűjtő területek védelmében.",
       ro: "O zonă forestieră importantă în departamentul Atlantique, protejată pentru avifauna sa bogată și speciile de arbori rare.",
       en: "An important forest area in the Atlantique department, protected for its rich avifauna and rare tree species."
     },
     facts: {
       de: ["Ornithologische Bedeutung", "Holzreservat", "Südliche Zone"],
-      hu: ["Ornitológiai jelentőség", "Farezervátum", "Déli övezet"],
+      hu: ["Típus: Erdővidék", "Régió: Dél", "Domborzat: Dombos", "Vízgyűjtő védelem"],
       ro: ["Semnificație ornitologică", "Rezervă de lemn", "Zonă sudică"],
       en: ["Ornithological significance", "Timber reserve", "Southern zone"]
     }, image: "/poi-images/djigbe-forest-relief-v2.webp"},
@@ -452,13 +452,13 @@ export const poiExtraBeninReliefV2: POI[] = [
     },
     description: {
       de: "Die weite Savannenebene im Nordwesten, die den Pendjari-Fluss umgibt und eine der wildreichsten Regionen Westafrikas ist.",
-      hu: "A tágas szavanna-síkság északnyugaton, amely a Pendjari-folyót veszi körül, és Nyugat-Afrika egyik legvadgazdagabb régiója.",
+      hu: "A Pendjari-síkság a nemzeti park kiterjedt, lapos területe, amely a hatalmas állatcsordák legelőhelyéül szolgál.",
       ro: "Vasta câmpie de savană din nord-vest, care înconjoară râul Pendjari și este una dintre cele mai bogate regiuni în faună sălbatică din Africa de Vest.",
       en: "The wide savanna plain in the northwest that surrounds the Pendjari River and is one of the most wildlife-rich regions in West Africa."
     },
     facts: {
       de: ["Überflutungsebene", "Nationalpark-Teil", "Trockenzeit-Refugium"],
-      hu: ["Ártéri síkság", "Nemzeti park része", "Száraz évszaki menedék"],
+      hu: ["Típus: Síkság", "Helyszín: Pendjari Nemzeti Park", "Domborzat: Lapos", "Legelőhely"],
       ro: ["Câmpie inundabilă", "Parte a parcului național", "Refugiu în sezonul secetos"],
       en: ["Floodplain", "National park part", "Dry season refuge"]
     }

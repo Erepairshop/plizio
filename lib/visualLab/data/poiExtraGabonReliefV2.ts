@@ -86,24 +86,14 @@ export const poiExtraGabonReliefV2: POI[] = [
       ro: "Cel mai înalt munte din Gabon, având aproximativ 1.070 de metri, situat în nord-estul țării.",
       en: "The highest mountain in Gabon, reaching approximately 1,070 meters, located in the northeast."
     },
-    descriptionAdvanced: {
-      de: "Der Mont Bengoué ist mit einer Höhe von etwa 1.070 Metern der höchste Gipfel Gabons und liegt in der nordöstlichen Provinz Ogooué-Ivindo. Er ist ein wesentlicher Bestandteil des Belinga-Gebirgsmassivs, einer Region, die für ihre unberührten Regenwälder und bedeutenden mineralischen Ressourcen bekannt ist. Aufgrund seiner geografischen Isolation und der dichten Bewaldung stellt der Berg ein wichtiges Refugium für seltene Tierarten dar, die in den tiefer gelegenen Regionen durch menschliche Aktivitäten stärker bedroht sind. Für Forscher ist das Massiv von besonderem Interesse, da es Einblicke in die tektonische Geschichte Westzentralafrikas gewährt. In der Plizio-Didaktik passt dies perfekt zum Themenkreis Geografie K7 – Gebirge Afrikas.",
-      hu: "A Mont Bengoué Gabon legmagasabb csúcsa, körülbelül 1070 méteres magasságával, az északkeleti Ogooué-Ivindo tartományban található. A Belinga-hegység szerves részét képezi, amely érintetlen esőerdőiről és jelentős ásványkincseiről ismert. Földrajzi elszigeteltsége és sűrű növényzete miatt a hegy fontos menedékhelyet biztosít olyan ritka állatfajok számára, amelyeket az alacsonyabban fekvő régiókban az emberi tevékenység jobban veszélyeztet. A kutatók számára a masszívum különleges érdeklődésre tart számot, mivel betekintést enged Nyugat-Közép-Afrika tektonikai történetébe. A Plizio tantervben ez tökéletesen illeszkedik a Földrajz K7 – Afrika hegységei témakörbe.",
-      ro: "Mont Bengoué este cel mai înalt vârf din Gabon, având o înălțime de aproximativ 1.070 de metri, situat în provincia nord-estică Ogooué-Ivindo. Este o parte integrantă a masivului muntos Belinga, o regiune cunoscută pentru pădurile tropicale virgine și resursele minerale semnificative. Datorită izolației sale geografice și vegetației dense, muntele reprezintă un refugiu important pentru specii rare de animale care sunt mai amenințate în regiunile joase din cauza activităților umane. Pentru cercetători, masivul este de un interes deosebit, deoarece oferă informații despre istoria tectonică a Africii de Vest-Centrale. În didactica Plizio, acest lucru se potrivește perfect cu tema Geografie K7 – munții Africii.",
-      en: "Mont Bengoué is the highest peak in Gabon, reaching a height of approximately 1,070 meters, located in the northeastern Ogooué-Ivindo province. It is an integral part of the Belinga mountain massif, a region known for its pristine rainforests and significant mineral resources. Due to its geographical isolation and dense vegetation, the mountain serves as an important refuge for rare animal species that are more threatened in the lower-lying regions by human activity. For researchers, the massif is of special interest as it provides insights into the tectonic history of West Central Africa. In the Plizio curriculum, this fits perfectly into the topic of Geography K7 – mountains of Africa."
-    },
+    
     facts: {
       de: ["Höchster Punkt Gabons.", "Teil der Belinga-Berge."],
       hu: ["Gabon legmagasabb pontja.", "A Belinga-hegység része."],
       ro: ["Cel mai înalt punct din Gabon.", "Face parte din Munții Belinga."],
       en: ["Highest point in Gabon.", "Part of the Belinga Mountains."]
     },
-    factsAdvanced: {
-      de: ["Der Mont Bengoué ist Teil des Belinga-Grünsteingürtels.", "Die Region ist reich an riesigen Eisenerzvorkommen.", "Der Berg ist von dichtem Primärwald bedeckt.", "Ein Paradies für Ornithologen aufgrund seltener Vogelarten.", "Das Klima ist hier kühler und feuchter als im Tiefland.", "Die wissenschaftliche Erforschung ist durch das unwegsame Gelände erschwert."],
-      hu: ["A Mont Bengoué a Belinga-zöldkőöv része.", "A régió hatalmas vasérclelőhelyekben gazdag.", "A hegyet sűrű őserdő borítja.", "Az ornitológusok paradicsoma a ritka madárfajok miatt.", "Az éghajlat itt hűvösebb és párásabb, mint az alföldön.", "A tudományos kutatást nehezíti a nehezen járható terep."],
-      ro: ["Mont Bengoué face parte din centura de roci verzi Belinga.", "Regiunea este bogată în zăcăminte imense de minereu de fier.", "Muntele este acoperit de pădure primară densă.", "Un paradis pentru ornitologi datorită speciilor rare de păsări.", "Climatul este mai răcoros și mai umed aici decât în zonele joase.", "Cercetarea științifică este îngreunată de terenul accidentat."],
-      en: ["Mont Bengoué is part of the Belinga greenstone belt.", "The region is rich in huge iron ore deposits.", "The mountain is covered by dense primary forest.", "A paradise for ornithologists due to rare bird species.", "The climate is cooler and more humid here than in the lowlands.", "Scientific research is hampered by the difficult terrain."]
-    }, image: "/poi-images/mont-bengoue-relief-v2.webp"},
+     image: "/poi-images/mont-bengoue-relief-v2.webp"},
   {
     id: "mayombe-range-relief-v2",
     type: "mountain",

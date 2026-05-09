@@ -21,12 +21,8 @@ export const poiExtraRwandaReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Lanț vulcanic format din opt vulcani majori în total.", "Rwanda găzduiește cinci dintre acești coloși vulcanici.", "Relief modelat de activitatea tectonică a Riftului Albertin.", "Altitudini ce variază de la 2.400 m la peste 4.500 m.", "Habitat critic pentru speciile endemice de munte.", "Influențează regimul de precipitații în întreaga regiune de nord.", "Inclus în totalitate în arii protejate (Parcul Național al Vulcanilor)."]
     },
-    descriptionAdvanced: {
-      de: "Das Relief der Virunga-Vulkane im Nordwesten Ruandas ist geprägt von einer Kette imposanter Gipfel, die das Landschaftsbild dominieren. Diese acht Vulkane, die sich über die Grenzen zu Uganda und der DR Kongo erstrecken, bilden eine dramatische Kulisse und sind vulkanischen Ursprungs. Das Relief reicht von steilen, bewaldeten Hängen bis hin zu schroffen, vegetationsarmen Gipfelregionen in über 4.000 Metern Höhe. Die fruchtbaren Lavaböden an den tieferen Hängen ermöglichen eine intensive Landwirtschaft. Diese Gebirgskette ist nicht nur ein bedeutendes Reliefmerkmal, sondern auch ein entscheidendes Klimaelement, das die Niederschläge im Norden Ruandas beeinflusst. Földrajz K7 - Hochgebirgsrelief und Vulkanismus."
-    },
-    factsAdvanced: {
-      de: ["Kette von acht Vulkanen im Norden Ruandas.", "Höchster Punkt ist der Karisimbi mit 4.507 m.", "Dramatische Höhenunterschiede auf engem Raum.", "Relief wurde durch pleistozäne Vulkanausbrüche geformt.", "Wichtige Wasserscheide für den Nordwesten.", "Heimat der seltenen afro-alpinen Flora."]
-    }, image: "/poi-images/virunga-volcanoes-relief-v2.webp"},
+    
+     image: "/poi-images/virunga-volcanoes-relief-v2.webp"},
   {
     id: "karisimbi-mountain-relief-v2",
     type: "mountain",
@@ -46,12 +42,8 @@ export const poiExtraRwandaReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Cel mai înalt punct din Rwanda (4.507 metri).", "Al 11-lea cel mai înalt munte de pe continentul african.", "Vulcan adormit situat între Rwanda și R.D. Congo.", "Numele provine de la 'amasimbi', referindu-se la zăpada de pe vârf.", "Găzduiește stații de cercetare atmosferică la altitudine.", "Relief marcat de pante abrupte și văi glaciare vechi.", "Cea mai provocatoare experiență de trekking din Rwanda."]
     },
-    descriptionAdvanced: {
-      de: "Der Mount Karisimbi ist mit 4.507 Metern die höchste Erhebung Ruandas und das markanteste Reliefmerkmal der Virunga-Kette. Als inaktiver Schichtvulkan zeichnet er sich durch seine symmetrische Kegelform aus, die oft von Wolken oder in der Trockenzeit sogar von einer feinen Eisschicht bedeckt ist. Das Relief des Berges ist durch verschiedene Vegetationsstufen geprägt, die von dichten Bergwäldern bis hin zu alpinen Moorlandschaften reichen. Der Karisimbi dominiert das Panorama des Vulkan-Nationalparks und stellt eine bedeutende physische Barriere für Luftmassen dar, was das Mikroklima der Region prägt. Er ist ein Symbol für die erhabene vertikale Dimension der ruandischen Topografie. Földrajz K7 - Hochgebirgsformen."
-    },
-    factsAdvanced: {
-      de: ["Höchster Gipfel Ruandas (4.507 m ü. M.).", "Geprägt durch eine klassische Vulkankegel-Morphologie.", "Teil des Vulkan-Nationalparks im Nordwesten.", "Namensherkunft 'Amasimbi' bezieht sich auf die weiße Spitze.", "Wichtiger Standort für klimatologische Höhenmessungen.", "Relief bietet Lebensraum für bedrohte Berggorillas."]
-    }, image: "/poi-images/karisimbi-mountain-relief-v2.webp"},
+    
+     image: "/poi-images/karisimbi-mountain-relief-v2.webp"},
   {
     id: "nyiragongo-border-relief-v2",
     type: "mountain",
@@ -71,12 +63,8 @@ export const poiExtraRwandaReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Zonă de contact între plăcile tectonice din Marele Rift.", "Relief influențat de cele mai active fluxuri de lavă din Africa.", "Altitudinea în regiunea de frontieră este de aprox. 1.500 m.", "Soluri de tip andosol, extrem de productive pentru agricultură.", "Micro-relief format din peșteri vulcanice și tuneluri de lavă.", "Proximitate de orașul Rubavu și malul Lacului Kivu.", "Zonă monitorizată permanent pentru activitate seismică."]
     },
-    descriptionAdvanced: {
-      de: "Das Relief an der Grenze zum Nyiragongo ist geprägt von den massiven Lavaströmen und tektonischen Verwerfungen des afrikanischen Grabenbruchs. Obwohl der Hauptkrater in der DR Kongo liegt, erstreckt sich die geologische Wirkung des Vulkans weit in ruandisches Territorium. Das Relief hier ist rau und zerklüftet, gekennzeichnet durch weite Felder aus erstarrter Basaltlava, die die Landschaft in eine dunkle, fast außerirdische Szenerie verwandeln. Diese Formationen zeugen von der ständigen geologischen Aktivität der Region und beeinflussen den Verlauf von Straßen und Siedlungen im Grenzgebiet bei Rubavu. Das Relief des Nyiragongo ist ein beeindruckendes Beispiel für die formgebende Kraft des aktiven Vulkanismus. Geografie K7 - Vulkanische Oberflächenformen."
-    },
-    factsAdvanced: {
-      de: ["Relief geprägt durch junge Lavaströme des 20. und 21. Jahrhunderts.", "Teil des Albertinischen Grabenbruchsystems.", "Gefährdete Zone für vulkanische Schlammströme (Lahare).", "Bietet einzigartige basaltische Felsformationen.", "Landschaftlich markanter Übergang vom Kiwusee zum Hochgebirge.", "Wichtiges Untersuchungsgebiet für die geologische Gefahrenanalyse."]
-    }, image: "/poi-images/nyiragongo-border-relief-v2.webp"},
+    
+     image: "/poi-images/nyiragongo-border-relief-v2.webp"},
   {
     id: "nyungwe-forest-relief-v2",
     type: "forest",
@@ -153,12 +141,8 @@ export const poiExtraRwandaReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Al doilea cel mai înalt vulcan de pe teritoriul Rwandei.", "Relief conic vizibil de pe platourile de est ale țării.", "Posedă un crater de aproximativ 40 de metri adâncime.", "Pantele inferioare formează un relief colinar foarte fertil.", "Barieră naturală ce influențează direcția vânturilor dominante.", "Formațiune geologică stabilă, fără erupții în istoria recentă.", "Parte a liniei muntoase care separă bazinele Nilului și Congo-ului."]
     },
-    descriptionAdvanced: {
-      de: "Der Mount Muhabura dominiert als östliches Ende der Virunga-Kette das Relief im Grenzgebiet zu Uganda. Sein Name 'Der Führer' bezieht sich auf seine exponierte Lage, durch die er weit über die Ebenen sichtbar ist. Das Relief des 4.127 Meter hohen Vulkans ist durch eine fast perfekte Kegelform und einen kleinen, kristallklaren Kratersee an der Spitze gekennzeichnet. Die steilen Hänge weisen markante Vegetationszonen auf, die sich mit der Höhe verändern. Geologisch ist der Muhabura ein Zeugnis für die massiven tektonischen Kräfte am Rande des afrikanischen Grabenbruchs und dient als bedeutender orografischer Fixpunkt im Norden Ruandas. Földrajz K7 - Schichtvulkane und Höhenstufen."
-    },
-    factsAdvanced: {
-      de: ["Dominantes Reliefmerkmal im Nordosten (4.127 m).", "Klassische, steile Vulkankegel-Morphologie.", "Beherbergt einen der höchstgelegenen Seen Ruandas.", "Wichtiges Reliefmerkmal für das Regionalklima.", "Bietet weite Panoramablicke bis zum Viktoriasee.", "Geprägt durch vulkanische Ascheablagerungen."]
-    }, image: "/poi-images/mt-muhabura-relief-v2.webp"},
+    
+     image: "/poi-images/mt-muhabura-relief-v2.webp"},
   {
     id: "gishwati-forest-relief-v2",
     type: "forest",
@@ -217,12 +201,8 @@ export const poiExtraRwandaReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Linie de demarcație hidrologică de importanță africană.", "Sistem montan ce se întinde pe o lungime de peste 160 km în Rwanda.", "Include cele mai înalte vârfuri din afara lanțului vulcanic Virunga.", "Relief format prin ridicarea tectonică a marginilor riftului.", "Acționează ca barieră climatică pentru masele de aer dinspre Congo.", "Sursă pentru cele mai importante râuri rwandeze.", "Topografie marcată de văi adânci și creste ascuțite."]
     },
-    descriptionAdvanced: {
-      de: "Die Kongo-Nil-Wasserscheide ist ein zentrales Reliefmerkmal, das sich von Norden nach Süden durch den Westen Ruandas zieht. Dieses Gebirgsrelief trennt die Einzugsgebiete der beiden größten Flusssysteme Afrikas: des Nils und des Kongos. Das Relief besteht aus einer Kette hoher Berge und plateauförmiger Rücken, die oft über 2.500 Meter ansteigen. Diese topografische Schwelle fängt die feuchten Luftmassen vom Atlantik und dem Indischen Ozean ab, was die hohen Niederschlagsraten in den Bergwäldern erklärt. Die Kongo-Nil-Wasserscheide ist das Rückgrat Ruandas und bestimmt die gesamte Hydrographie des Landes. Wanderwege entlang dieses Reliefs bieten spektakuläre Einblicke in die geographische Seele des Kontinents. Földrajz K7 - Wasserscheiden und Relief."
-    },
-    factsAdvanced: {
-      de: ["Zentraler Gebirgsrücken Ruandas (Congo-Nile Crest).", "Trennt die Entwässerung zum Atlantik und zum Mittelmeer.", "Relief umfasst den Nyungwe-Wald und den Gishwati-Wald.", "Höchste Niederschlagszone des Landes.", "Relief ist durch uralte kristalline Gesteine geprägt.", "Bietet den 'Congo Nile Trail' für den Tourismus."]
-    }
+    
+    
   },
   {
     id: "birunga-mountains-relief-v2",
@@ -262,12 +242,8 @@ export const poiExtraRwandaReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Vulcan cu un relief conic tipic de tip stratovulcan.", "Găzduiește un lac de crater circular la 3.711 m altitudine.", "Pantele inferioare sunt acoperite de soluri vulcanice fertile.", "Relief marcat de prezența unor conuri parazitare mici pe flancuri.", "Parte a graniței naturale muntoase cu R.D. Congo.", "Eroziunea a format trasee naturale folosite de gorile.", "Unul dintre cele mai accesibile reliefuri vulcanice pentru ascensiune."]
     },
-    descriptionAdvanced: {
-      de: "Der Mount Bisoke ist ein markantes Reliefmerkmal in der Virunga-Vulkankette und bekannt für seinen spektakulären Gipfelkratersee. Das Relief des inaktiven Vulkans ist durch steile Hänge geprägt, die von dichtem Bambuswald und afro-alpinem Gebüsch bedeckt sind. Mit einer Höhe von 3.711 Metern stellt er eine wichtige Barriere für feuchte Luftmassen dar, was zu häufigen Nebelbildungen führt. Die geologische Struktur des Bisoke zeigt klassische Merkmale eines Schichtvulkans des ostafrikanischen Grabenbruchs. Für das Relief Ruandas ist der Berg von großer Bedeutung, da er einen wesentlichen Teil des Berggorilla-Habitats bildet. Földrajz K7 - Vulkanische Gebirgsformen."
-    },
-    factsAdvanced: {
-      de: ["Relief mit einem kreisrunden Kratersee am Gipfel.", "Höhe von 3.711 m über dem Meeresspiegel.", "Geprägt durch dichte, vulkanische Böden.", "Teil des grenzüberschreitenden Virunga-Massivs.", "Relief bietet Schutzräume für seltene Primatenarten.", "Wichtiger Punkt für die orografische Niederschlagsbildung."]
-    }, image: "/poi-images/mt-bisoke-relief-v2.webp"},
+    
+     image: "/poi-images/mt-bisoke-relief-v2.webp"},
   {
     id: "mt-gahinga-relief-v2",
     type: "mountain",
@@ -287,12 +263,8 @@ export const poiExtraRwandaReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Altitudine de 3.474 metri, cel mai mic vulcan major din zonă.", "Situat între vulcanii Muhabura și Sabyinyo.", "Adăpostește un mic crater cu diametru de 180 metri.", "Relief marcat de depozite mari de piatră vulcanică poroasă.", "Habitat principal pentru maimuța aurie (Cercopithecus kandti).", "Formează o barieră naturală la granița cu Uganda.", "Traseu de drumeție care traversează păduri de bambus spectaculoase."]
     },
-    descriptionAdvanced: {
-      de: "Der Mount Gahinga weist ein sanfteres Relief im Vergleich zu seinen Nachbarvulkanen auf und zeichnet sich durch einen flachen Gipfelbereich aus, der einst ein bedeutender Krater war. Mit einer Höhe von 3.474 Metern ist er der kleinste der fünf ruandischen Vulkane. Das Relief ist geprägt von Lavahöhlen und vulkanischem Geröll, das der Region ihren Namen gab ('Gahinga' bedeutet 'kleiner Steinhaufen'). Die Hänge sind von üppigem Bergwald bedeckt, der nahtlos in die Ebenen von Uganda übergeht. Gahinga spielt eine wichtige Rolle im lokalen Wasserhaushalt und im Erhalt der Biodiversität der vulkanischen Hochlagen. Földrajz K7 - Vulkanische Kleinformen."
-    },
-    factsAdvanced: {
-      de: ["Relief geprägt durch Lavahöhlen und Geröllfelder.", "Niedrigster Gipfel der ruandischen Virungas (3.474 m).", "Ehemaliger Kraterbereich am Gipfel ist heute bewachsen.", "Wichtiger Korridor für die Migration von Wildtieren.", "Bietet sanftere Aufstiegsrouten als der Sabyinyo.", "Relief ist reich an vulkanischen Mineralien."]
-    }, image: "/poi-images/mt-gahinga-relief-v2.webp"},
+    
+     image: "/poi-images/mt-gahinga-relief-v2.webp"},
   {
     id: "lake-rweru-relief-v2",
     type: "relief",
@@ -351,12 +323,8 @@ export const poiExtraRwandaReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Vulcan stins cu vârful format din creste zimțate.", "Altitudine maximă de 3.669 metri.", "Singurul punct de frontieră triplă din regiunea vulcanilor.", "Numele reflectă profilul său zimțat inconfundabil.", "Relief marcat de eroziune glaciară și eoliană severă.", "Pantele sunt acoperite de păduri montane vechi.", "Oferă cele mai bune vederi panoramice 360 de grade asupra Riftului."]
     },
-    descriptionAdvanced: {
-      de: "Das Relief des Mount Sabyinyo ist einzigartig in der Virunga-Kette, da es durch tief zerklüftete Grate und mehrere Gipfelzacken gekennzeichnet ist, die an 'alte Zähne' erinnern (daher der Name Sabyinyo). Mit einer Höhe von 3.669 Metern markiert das Relief den exakten geografischen Schnittpunkt zwischen Ruanda, Uganda und der DR Kongo. Die Topografie ist extrem steil und felsig, was den Berg zu einer Herausforderung für die Erosion und den Bergsteigertourismus macht. Geologisch ist Sabyinyo der älteste Vulkan der Kette, was seine stark verwitterte und markante Morphologie erklärt. Földrajz K7 - Gebirgsverwitterung und Grenzpunkte."
-    },
-    factsAdvanced: {
-      de: ["Markiert das Dreiländereck (Ruanda, Uganda, DR Kongo).", "Name bedeutet 'Zähne eines alten Mannes'.", "Relief ist stark durch Erosion gezeichnet.", "Ältester Vulkan im Virunga-Massiv.", "Geprägt durch messerscharfe Gebirgsgrate.", "Wichtiges Landmark für die regionale Navigation."]
-    }, image: "/poi-images/mt-sabyinyo-relief-v2.webp"},
+    
+     image: "/poi-images/mt-sabyinyo-relief-v2.webp"},
   {
     id: "lake-burera-relief-v2",
     type: "relief",

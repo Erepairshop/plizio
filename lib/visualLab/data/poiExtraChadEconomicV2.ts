@@ -21,12 +21,8 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       en: ["Major oil extraction site in southern Chad.", "Operational since the early 2000s.", "Connected to the Atlantic coast via the Chad-Cameroon Pipeline.", "Primary source of national export earnings.", "Significant driver of regional infrastructure development.", "Industrial project spanning several decades of operation."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Herzstück der tschadischen Erdölindustrie", "Zentraler Exportpunkt via Pipeline durch Kamerun", "Wichtigster industrieller Wirtschaftsfaktor des Landes", "Umfangreiche moderne Infrastruktur zur Rohölgewinnung", "Entscheidender Faktor für die nationale Energieproduktion", "Schaffung von Arbeitsplätzen durch industrielle Investitionen"]
-    },
+    
+    
     description: {
       de: "Das Doba-Becken ist das Herz der tschadischen Erdölindustrie und ein wichtiger Wirtschaftsfaktor des Landes.",
       hu: "A Doba-medence Csád kőolajiparának szíve és az ország legfontosabb gazdasági bevételi forrása.",
@@ -58,12 +54,8 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       en: ["A key component of the Doba basin oil project.", "Includes large-scale crude oil processing infrastructure.", "Attracts significant international technical investment.", "Major contributor to the local economy in Logone Oriental.", "Managed through complex public-private partnerships.", "Central to Chad's participation in global energy markets."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Größter Förderkomplex im Doba-Projekt", "Enge Kooperation mit internationalen Konsortien", "Kern der technischen Rohölinfrastruktur", "Umfangreiche Kapazitäten zur industriellen Erschließung", "Symbol für den technologischen Fortschritt im Ölsektor", "Zentraler Standort für die tägliche Förderleistung"]
-    },
+    
+    
     description: {
       de: "Eines der größten Fördergebiete innerhalb des Doba-Projekts mit umfangreicher Infrastruktur zur Rohölgewinnung.",
       hu: "A Doba-projekt egyik legnagyobb kitermelési területe, kiterjedt nyersolaj-kitermelési infrastruktúrával.",
@@ -95,12 +87,8 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       en: ["Vital logistical port on the shores of Lake Chad.", "Essential node for regional lakeside trade networks.", "Supports the transport of local fish and crops.", "Facilitates the distribution of consumer goods to islands.", "Logistical hub for local lakeside communities.", "Operationally sensitive to seasonal lake level changes."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Wichtigster Umschlagplatz am Tschadsee", "Schnittstelle für regionalen Handel mit Fisch und Getreide", "Zentraler logistischer Knotenpunkt für den Nordwesten", "Essenziell für den Warenfluss in schwer zugänglichen Regionen", "Wirtschaftliches Zentrum für Fischer und Händler", "Symbol für die maritime Wirtschaft am Tschadsee"]
-    },
+    
+    
     description: {
       de: "Ein wichtiger Umschlagplatz am Tschadsee für den regionalen Handel mit Fisch, Getreide und Handelsgütern.",
       hu: "Fontos kereskedelmi csomópont a Csád-tónál, ahol hallal, gabonával és egyéb árukkal kereskednek.",
@@ -132,12 +120,8 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       en: ["One of the largest industrial breweries in Chad.", "Major employer in the city of Moundou.", "Significant contributor to regional and national tax revenues.", "Key example of southern Chadian industrial diversification.", "Supports extensive local supply and distribution chains.", "Symbol of urban economic development in the south."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Produktionsstätte des national bekannten Gala-Biers", "Eines der erfolgreichsten Industrieunternehmen des Tschad", "Bedeutender Arbeitgeber in Moundou", "Starke Integration in lokale landwirtschaftliche Lieferketten", "Symbol für den privaten Industriesektor im Land", "Wichtiger Beitragszahler zum nationalen Wirtschaftswachstum"]
-    },
+    
+    
     description: {
       de: "Sitz der Brauerei des berühmten Gala-Biers, eines der erfolgreichsten Industrieunternehmen im Süden des Landes.",
       hu: "A híres Gala sör gyára, az ország déli részének egyik legsikeresebb ipari vállalata.",
@@ -169,12 +153,8 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       en: ["Major sugar processing facility in southern Chad.", "Processes sugarcane grown in the fertile Moyen-Chari region.", "Key contributor to agricultural value-added output.", "Provides a reliable market for regional sugarcane farmers.", "Critical industrial component of Sarh's economy.", "Integrates farming and manufacturing in one supply chain."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Zentraler Verarbeiter von regionalem Zuckerrohr", "Pfeiler der industriellen Agrarwirtschaft in Sarh", "Reduzierung der Abhängigkeit von Zuckerimporten", "Wichtiger Absatzmarkt für lokale Kleinbauern", "Symbol für industrielle Wertschöpfung im Tschad", "Sicherung der Versorgung des Binnenmarktes"]
-    },
+    
+    
     description: {
       de: "Die Zuckerfabrik in Sarh verarbeitet Zuckerrohr aus der Region und ist eine Säule der lokalen Agrarindustrie.",
       hu: "A sarhi cukorgyár a régió cukornádtermését dolgozza fel, a helyi agrárbirodalom egyik oszlopa.",
@@ -206,12 +186,8 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       en: ["Essential facility for ginning and processing raw cotton.", "Supports thousands of agricultural families in the region.", "Cotton remains a traditional primary export of Chad.", "Key industrial center for southern Chadian agriculture.", "Ensures raw cotton is prepared for international markets.", "Central to the agrarian economic structure of the region."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Zentrale Anlage zur Baumwollentkörnung im Tschad", "Essenziell für die Vorbereitung des Exports", "Motor der regionalen Textilwirtschaft", "Wichtiger Arbeitsplatzgeber in Bongor", "Verbindung von traditionellem Anbau und industrieller Verarbeitung", "Bedeutender Beitrag zum nationalen Devisenerlös"]
-    },
+    
+    
     description: {
       de: "In dieser Anlage wird Baumwolle für den Export vorbereitet, was Bongor zu einem wichtigen Zentrum der Textilindustrie macht.",
       hu: "Ebben az üzemben készítik elő a gyapotot exportra, így Bongor a textilipar egyik fontos központja.",
@@ -243,12 +219,8 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       en: ["Area of emerging artisanal gold mining activity.", "Significant driver of local informal economic trade.", "Attracts regional labor and new service demands in Pala.", "Economic activity centered in the southwestern region.", "Presents opportunities for local growth and diversification.", "Highlights the importance of resource-based regional income."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Wichtige Goldvorkommen im Südwesten des Tschad", "Kombination aus industriellem und manuellem Abbau", "Anziehungspunkt für zahlreiche Arbeitskräfte", "Wirtschaftsmotor für die Stadt Pala", "Potenzial für den nationalen Bergbausektor", "Wichtiger Faktor für das regionale Wachstum"]
-    },
+    
+    
     description: {
       de: "Bergbaugebiet im Südwesten, in dem Goldvorkommen sowohl industriell als auch handwerklich abgebaut werden.",
       hu: "Délnyugati bányavidék, ahol ipari és kézműves módszerekkel is termelnek ki aranyat.",
@@ -281,12 +253,8 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       en: ["Traditional source of natron mining in western Chad.", "Natron used widely in food and livestock health.", "Key regional commodity traded in Kanem and beyond.", "Extracted from deposits at the edge of the desert.", "Traditional industry integrated into rural livelihoods.", "Continues to serve practical local economic needs today."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Traditionelle Gewinnung aus ausgetrockneten Seen", "Bedeutender Rohstoff in der Region Kanem", "Vielseitig einsetzbar in Viehzucht und Industrie", "Symbol für nachhaltige lokale Ressourcennutzung", "Historisch gewachsene Bergbautradition", "Wertvolles Exportgut der Region Kanem"]
-    },
+    
+    
     description: {
       de: "Natron ist ein traditionelles Bergbauprodukt in der Kanem-Region und wird für Vieh und Industrie genutzt.",
       hu: "A nátron hagyományos bányászati termék a Kanem régióban, az állattenyésztés és az ipar is hasznosítja.",
@@ -318,12 +286,8 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       en: ["Historic leather tanning facility in Abéché.", "Processes hides from extensive local livestock herds.", "Adds significant value to nomadic pastoralist output.", "Supports local craftsmen and regional trade networks.", "Critical industrial hub for eastern Chadian trade.", "Essential part of the Ouaddaï regional economy."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Traditionell geprägtes Zentrum der Lederverarbeitung", "Hohe Qualität für den nationalen und Exportmarkt", "Bedeutender Arbeitgeber in der Ouaddaï-Region", "Symbol für die Verbindung von Tradition und Industrie", "Stärkung der wirtschaftlichen Diversifizierung", "Langjährige Expertise in der Lederveredelung"]
-    },
+    
+    
     description: {
       de: "Die Lederverarbeitung in Abéché ist bekannt für ihre Qualität und versorgt sowohl den lokalen als auch den Exportmarkt.",
       hu: "Az abéchéi bőrfeldolgozás minőségéről híres, a helyi és az exportpiacot is kiszolgálja.",
@@ -355,12 +319,8 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       en: ["Key town servicing the Doba oil-field operations.", "Rapidly grew as a regional services hub for the oil sector.", "Economic activities deeply tied to petroleum cycles.", "Major center for local trade, labor, and housing.", "Located in the oil-rich Logone Oriental area.", "Reflects the localized impact of national industrial projects."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Strategischer technischer Logistikknotenpunkt", "Wartungsbasis für die Ölfelder im Logone Oriental", "Zentrale Versorgungseinheit für Technik und Ersatzteile", "Technischer Motor der Ölindustrie in der Region", "Essenzielle Infrastruktur für den Betrieb der Ölfelder", "Wachsende Bedeutung für die nationale Energiebranche"]
-    },
+    
+    
     description: {
       de: "Ein strategischer Knotenpunkt für die Wartung und Logistik der Ölfelder im Logone Oriental.",
       hu: "Stratégiai csomópont a Logone Oriental olajmezőinek karbantartásához és logisztikájához.",
@@ -391,9 +351,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Zentraler Schlachthof zur Versorgung der Hauptstadt", "Setzt Standards für moderne Fleischverarbeitung", "Wichtiger Arbeitgeber und Motor für den Viehhandel", "Essenzielle Infrastruktur für die urbane Ernährungssicherheit", "Bindeglied zwischen Viehzüchtern und Konsumenten", "Faktor für die Qualitätssicherung der Fleischprodukte"]
-    },
+    
     description: {
       de: "Zentraler Standort für die Fleischverarbeitung in der Hauptstadt, essenziell für die Versorgung der Metropole.",
       hu: "A főváros húsfeldolgozásának központi helyszíne, alapvető a metropolisz ellátásában.",
@@ -425,9 +383,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Bedeutende, noch zu erschließende Eisenerzreserven", "Strategisches Potenzial für die zukünftige Schwerindustrie", "Grundlage für langfristiges Wirtschaftswachstum in Guéra", "Gegenstand intensiver geologischer Untersuchungen", "Chance für eine Transformation des wirtschaftlichen Profils", "Zukunftsrelevantes Projekt für die nationale Wirtschaft"]
-    },
+    
     description: {
       de: "Bedeutendes Erzvorkommen in der Guéra-Region, das als Potenzial für die zukünftige industrielle Entwicklung gilt.",
       hu: "Jelentős érclelőhely a Guéra régióban, amely a jövőbeli ipari fejlődés alapja lehet.",
@@ -458,9 +414,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Grundlage für die lokale Zement- und Bauindustrie", "Versorgungsbasis für die Hauptstadt N'Djamena", "Kostensenkung bei Bauprojekten durch lokale Gewinnung", "Wichtiger Rohstofflieferant für die Modernisierung", "Entscheidend für die nationale Bauinfrastruktur", "Stärkung der industriellen Basis im Westen des Tschad"]
-    },
+    
     description: {
       de: "Dieser Steinbruch liefert Rohstoffe für die Bauindustrie und Zementproduktion im westlichen Tschad.",
       hu: "Ez a bánya biztosítja a nyersanyagot az építőipar és a cementgyártás számára Nyugat-Csádban.",
@@ -491,9 +445,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Zentraler Verladepunkt für Agrargüter am Schari", "Effiziente Transportalternative zum Straßenverkehr", "Drehkreuz für die Versorgung der Hauptstadt N'Djamena", "Entscheidend für den Warenstrom aus dem Süden", "Wichtige logistische Rolle für die Verteilung von Gütern", "Kosteneffiziente logistische Lösung für den Tschad"]
-    },
+    
     description: {
       de: "Ein wichtiger Verladepunkt am Chari-Fluss für den Transport von Agrargütern in Richtung N'Djamena.",
       hu: "Fontos rakodóhely a Chari-folyón a mezőgazdasági áruk N'Djamena felé történő szállításához.",
@@ -524,9 +476,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Zentraler Standort der Baumwollveredelung", "Motor für die regionale wirtschaftliche Wertschöpfung", "Fördert Ausbildung qualifizierter Arbeitskräfte", "Wichtige industrielle Anlage im Süden des Landes", "Wegbereiter für eine eigene Textilindustrie", "Symbol für den industriellen Aufbau im Tschad"]
-    },
+    
     description: {
       de: "Eine der Verarbeitungsstätten für die im Süden angebaute Baumwolle, zentral für die regionale Wertschöpfung.",
       hu: "A délen termesztett gyapot egyik feldolgozóhelye, a regionális értékteremtés központja.",
@@ -557,9 +507,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Traditionelles Zentrum der Natrongewinnung", "Wichtige Einkommensquelle in der Kanem-Region", "Wertvolle Ressource für Viehzucht und Industrie", "Seit Generationen praktiziertes Handwerk", "Symbol für nachhaltige lokale Nutzung", "Einzigartige Bergbautradition in der Wüstenregion"]
-    },
+    
     description: {
       de: "In den Senken um Rig-Rig wird Natron gewonnen, das im gesamten Tschad als Viehfutterzusatz geschätzt wird.",
       hu: "Rig-Rig környéki mélyedésekben termelik ki a nátront, amelyet Csád-szerte állati takarmány-kiegészítőként használnak.",
@@ -590,9 +538,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Zentraler Fischereihafen am Tschadsee", "Essenzielle Lebensgrundlage für die gesamte Region", "Wichtiger Logistikpunkt für den Fischvertrieb", "Zentral für die nationale Proteinversorgung", "Ständig erweiterte Hafeninfrastruktur", "Knotenpunkt für die lokale maritime Wirtschaft"]
-    },
+    
     description: {
       de: "Ein bedeutender Hafen für die Fischereiindustrie am Tschadsee, der Fisch für die Hauptstadt liefert.",
       hu: "A Csád-tó halászati iparának jelentős kikötője, amely hallal látja el a fővárost.",
@@ -623,9 +569,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Wirtschaftliches Zentrum im Südwesten des Tschad", "Schlüsselpunkt für die lokale Fischerei und Handel", "Essenziell für die regionale Ernährungssicherheit", "Organisation der Fischerei- und Handelsnetzwerke", "Motor für Wohlstand in der Region Mayo-Kebbi", "Strategische Lage am Léré-See"]
-    },
+    
     description: {
       de: "Am Léré-See gelegen, ist dieser Ort ein wichtiger Punkt für den Fischfang und den Binnenhandel im Südwesten.",
       hu: "A Léré-tónál található központ a halászat és a délnyugati belföldi kereskedelem fontos pontja.",
@@ -657,9 +601,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Bedeutendes Zentrum für die Viehlogistik", "Zentrales Sammelbecken für den Viehexport", "Knotenpunkt an der Handelsachse Richtung Süden", "Strategisch unverzichtbar für den Tschad-Nigeria-Handel", "Stützpunkt für Viehexportlogistik", "Kulturelles und wirtschaftliches Herz der Viehwirtschaft"]
-    },
+    
     description: {
       de: "Ein wichtiger Handels- und Sammelpunkt für Viehexporte in die Nachbarländer, insbesondere Nigeria.",
       hu: "Fontos kereskedelmi és gyűjtőpont a szomszédos országokba, különösen Nigériába irányuló állatexporthoz.",
@@ -690,9 +632,7 @@ export const poiExtraChadEconomicV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Zentrum der Fleischverarbeitung aus der Batha-Region", "Essenzielle Versorgungseinheit für urbane Märkte", "Schnittstelle zwischen ländlicher Produktion und städtischem Konsum", "Wichtiger Treiber für die lokale Wirtschaft", "Stabile Einnahmequelle für die Bevölkerung", "Strategischer Standort für die Fleischversorgung"]
-    },
+    
     description: {
       de: "In Ati konzentriert sich die Verarbeitung von Fleischprodukten aus der umliegenden Batha-Region.",
       hu: "Atiban összpontosul a környező Batha régióból származó hústermékek feldolgozása.",

@@ -21,18 +21,10 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Founded in 1849 by freed slaves", "Capital city on the Atlantic coast", "Serves as the nation's political hub", "Hosts a major strategic seaport", "Home to approximately 30% of Gabon's population", "Features a humid equatorial climate"]
     },
-    descriptionAdvanced: {
-      ro: "Libreville, capitala Gabonului, este situată pe coasta Golfului Guineei și reprezintă centrul politic și economic al țării. Fondat în 1849 de sclavi eliberați, numele orașului simbolizează libertatea, devenind un port maritim modern care gestionează o mare parte din comerțul exterior gabonez. Cu bulevarde largi și o dezvoltare urbană rapidă, Libreville combină influențele coloniale cu arhitectura contemporană, fiind casa a aproape unei treimi din populația Gabonului. Geografie K7 — așezări urbane și porturi."
-    },
-    factsAdvanced: {
-      ro: ["Fondat oficial în 1849", "Capitală de stat pe coasta Atlanticului", "Centrul politic al Gabonului", "Port maritim strategic", "Adăpostește circa 30% din populația națională", "Climat ecuatorial umed"]
-    },
-    descriptionAdvanced: {
-      de: "Libreville ist die Hauptstadt und größte Stadt Gabuns. Sie liegt an der Küste des Golfs von Guinea und ist das politische, wirtschaftliche und kulturelle Herz des Landes. Die Stadt wurde 1849 von befreiten Sklaven gegründet, worauf ihr Name anspielt. Heute ist Libreville eine moderne Metropole mit großen Boulevards, modernen Gebäuden und einem geschäftigen Hafen, der den Außenhandel Gabuns steuert. Das Stadtbild ist geprägt von der Mischung aus afrikanischen Traditionen und urbanem Lebensstil. Geschichte K8 — Gründung und Moderne."
-    },
-    factsAdvanced: {
-      de: ["Libreville ist die Hauptstadt von Gabun.", "Die Stadt wurde 1849 gegründet.", "Sie liegt am Golf von Guinea.", "Libreville ist das wirtschaftliche Zentrum des Landes.", "Der Hafen der Stadt ist ein Schlüssel für den Import/Export.", "Die Stadt beherbergt fast ein Drittel der Bevölkerung Gabuns."]
-    }, image: "/poi-images/libreville-cities-v2.webp"},
+    
+    
+    
+     image: "/poi-images/libreville-cities-v2.webp"},
   {
     id: "port-gentil-cities-v2",
     type: "state-capital",
@@ -52,12 +44,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Situated on Mandji Island", "Central hub for the national oil industry", "Crucial node for crude oil exports", "Connected by a major Atlantic seaport", "Characterized by a humid equatorial climate", "Exerts major economic influence on the surrounding region"]
     },
-    descriptionAdvanced: {
-      ro: "Situat pe insula Mandji, la gura fluviului Ogooué, Port-Gentil este inima industriei petroliere din Gabon. Orașul a evoluat dintr-un avanpost comercial colonial într-un centru industrial vital, susținut de zăcămintele offshore de țiței și gaze naturale din regiune. În ciuda climatului izolat, acesta joacă un rol crucial în economia națională, fiind unul dintre cele mai importante noduri de export din Africa Centrală. Economie K8 — resurse naturale și industrializare."
-    },
-    factsAdvanced: {
-      ro: ["Situat pe insula Mandji", "Centrul industriei petroliere naționale", "Nod crucial pentru exportul de țiței", "Conectat prin port maritim major", "Climat ecuatorial maritim", "Influență economică majoră asupra regiunii"]
-    }, image: "/poi-images/port-gentil-cities-v2.webp"},
+    
+     image: "/poi-images/port-gentil-cities-v2.webp"},
   {
     id: "franceville-cities-v2",
     type: "state-capital",
@@ -77,18 +65,10 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in eastern Gabon", "Terminus of the Trans-Gabon Railway", "Key administrative center of the Haut-Ogooué province", "Major logistics node for inland trade", "Associated with nearby manganese mining", "Historical origins as a mission station"]
     },
-    descriptionAdvanced: {
-      ro: "Franceville, cunoscut și sub numele de Masuku, este un oraș important din estul Gabonului și reprezintă punctul terminal al celebrei căi ferate Transgaboneze. Situat pe malul râului Ogooué, acesta a devenit un nod logistic esențial pentru transportul manganului extras din minele din Moanda către porturile de coastă. Orașul păstrează elemente din epoca colonială franceză, fiind un centru cultural și academic regional. Transport și logistică K8 — infrastructură feroviară."
-    },
-    factsAdvanced: {
-      ro: ["Punct final al căii ferate Transgaboneze", "Centru logistic pentru mangan", "Situat pe râul Ogooué", "Fondat în timpul epocii coloniale", "Nod academic regional", "Altitudine medie mai mare decât a coastei"]
-    },
-    descriptionAdvanced: {
-      de: "Franceville, auch Masuku genannt, ist die drittgrößte Stadt Gabuns und das Verwaltungszentrum der Provinz Haut-Ogooué. Sie ist ein bedeutendes Bildungs- und Wirtschaftszentrum im Landesinneren und Endpunkt der Transgabonais-Eisenbahn. Die Stadt hat eine lange Geschichte, die bis in die Kolonialzeit zurückreicht. Dank der Nähe zu den Manganminen von Moanda ist Franceville ein wirtschaftlicher Motor der Region. Die Stadt bietet eine Mischung aus moderner Infrastruktur und traditionellen Einflüssen. Geschichte K8 — Kolonialgeschichte und Industrialisierung."
-    },
-    factsAdvanced: {
-      de: ["Franceville ist die Hauptstadt der Provinz Haut-Ogooué.", "Die Stadt ist auch unter dem Namen Masuku bekannt.", "Sie markiert den Endpunkt der Transgabonais-Eisenbahn.", "Franceville liegt in einer Region mit bedeutenden Manganvorkommen.", "Die Stadt wurde 1880 gegründet.", "Sie beherbergt die Universität des Landes."]
-    }, image: "/poi-images/franceville-cities-v2.webp"},
+    
+    
+    
+     image: "/poi-images/franceville-cities-v2.webp"},
   {
     id: "lambarene-cities-v2",
     type: "state-capital",
@@ -108,12 +88,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Site of the famous Albert Schweitzer hospital", "Hospital founded in 1913", "Located along the Ogooué River", "Hub for international humanitarian history", "Surrounded by tropical river ecosystems", "Key historical site for medical studies in Africa"]
     },
-    descriptionAdvanced: {
-      ro: "Lambaréné este un oraș istoric situat pe insulele fluviului Ogooué, cunoscut la nivel mondial datorită spitalului fondat de Albert Schweitzer, laureat al Premiului Nobel pentru Pace. Orașul a devenit un simbol al îngrijirii medicale în Africa Centrală, menținând o legătură strânsă cu tradițiile fluviale și mediul natural înconjurător. Economia locală se bazează pe agricultură, pescuit și turism cultural. Istorie K7 — personalități istorice și medicină."
-    },
-    factsAdvanced: {
-      ro: ["Celebru pentru spitalul lui Albert Schweitzer", "Situat pe insule în Ogooué", "Centru pentru turism medical", "Economie bazată pe pescuit și agricultură", "Punct de reper istoric în Gabon", "Accesibil pe calea apei"]
-    }, image: "/poi-images/lambarene-cities-v2.webp"},
+    
+     image: "/poi-images/lambarene-cities-v2.webp"},
   {
     id: "oyem-cities-v2",
     type: "state-capital",
@@ -133,12 +109,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Capital of the Woleu-Ntem province", "Situated in northern forest zone", "Major regional hub for cocoa production", "Important center for rubber processing", "Gateway town near Cameroon and Equatorial Guinea borders", "Features fertile high-altitude volcanic soils"]
     },
-    descriptionAdvanced: {
-      ro: "Oyem este centrul administrativ al provinciei Woleu-Ntem, situat în nordul Gabonului, într-o regiune caracterizată prin soluri fertile și plantații de cacao și cauciuc. Orașul se află la o altitudine considerabilă, oferind un climat mai temperat comparativ cu zonele de coastă. Acesta reprezintă un punct de legătură strategic pentru comerțul cu țările vecine, Camerun și Guineea Ecuatorială. Agricultură K6 — culturi de export și climat."
-    },
-    factsAdvanced: {
-      ro: ["Capitala provinciei Woleu-Ntem", "Centru pentru producția de cacao", "Regiune cu climat temperat", "Nod comercial strategic la frontiera de nord", "Altitudine ridicată", "Economie bazată pe agricultură"]
-    }, image: "/poi-images/oyem-cities-v2.webp"},
+    
+     image: "/poi-images/oyem-cities-v2.webp"},
   {
     id: "moanda-cities-v2",
     type: "city",
@@ -216,12 +188,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Capitala provinciei Ogooué-Lolo", "Apropiere de zone forestiere protejate", "Centru administrativ regional", "Acces la resurse forestiere", "Climat ecuatorial umed", "Tradiții culturale locale puternice"]
     },
-    descriptionAdvanced: {
-      de: "Koulamoutou ist die Hauptstadt der Provinz Ogooué-Lolo in Zentralgabun. Sie liegt an den Ufern des Flusses Lolo und ist ein regionales Zentrum für Verwaltung, Handel und Bildung. Die Stadt ist in eine hügelige Landschaft eingebettet, die von großen Waldflächen dominiert wird. Koulamoutou spielt eine zentrale Rolle für die Versorgung der umliegenden Gebiete und verbindet die verschiedenen Regionen im Landesinneren Gabuns. Die Stadt ist bekannt für ihre gastfreundliche Atmosphäre. Geografie K6 — Regionale Verwaltungszentren."
-    },
-    factsAdvanced: {
-      de: ["Koulamoutou ist die Hauptstadt der Provinz Ogooué-Lolo.", "Sie liegt am Ufer des Lolo-Flusses.", "Die Stadt ist ein wichtiges regionales Verwaltungszentrum.", "Koulamoutou ist ein Knotenpunkt für den regionalen Handel.", "Die Umgebung ist von bewaldeten Hügeln geprägt.", "Die Stadt ist ein Bildungsstandort in der Provinz."]
-    }, image: "/poi-images/koulamoutou-cities-v2.webp"},
+    
+     image: "/poi-images/koulamoutou-cities-v2.webp"},
   {
     id: "makokou-cities-v2",
     type: "state-capital",
@@ -241,12 +209,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Capitala provinciei Ogooué-Ivindo", "Proximitate față de Parcul Național Ivindo", "Hub pentru ecoturism", "Regiune cu biodiversitate foarte ridicată", "Acces la cascade și păduri virgine", "Climat ecuatorial umed"]
     },
-    descriptionAdvanced: {
-      de: "Makokou ist die Hauptstadt der Provinz Ogooué-Ivindo im Nordosten von Gabun. Die Stadt liegt am Ufer des Ivindo-Flusses und ist ein wichtiges Tor zu einigen der unberührtesten Nationalparks des Landes, darunter der Ivindo-Nationalpark mit seinen spektakulären Wasserfällen. Makokou ist ein Zentrum für den Holzhandel und ein wichtiges Versorgungszentrum für die abgelegenen Gebiete des Nordostens. Das Klima ist tropisch und feucht, was die reiche Flora der Umgebung erklärt. Geografie K7 — Ökotourismus und Naturschutz."
-    },
-    factsAdvanced: {
-      de: ["Makokou ist die Hauptstadt der Provinz Ogooué-Ivindo.", "Die Stadt liegt am Fluss Ivindo.", "Sie ist das Tor zum Ivindo-Nationalpark.", "Makokou ist ein wichtiges Zentrum der Forstwirtschaft.", "Die Stadt ist von Regenwald umgeben.", "Der regionale Handel wird über Makokou gesteuert."]
-    }
+    
+    
   },
   {
     id: "owendo-cities-v2",
@@ -286,12 +250,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Oraș de frontieră în nordul țării", "Hub vital pentru comerțul regional", "Apropiere de granița cu Camerun și Guineea Ecuatorială", "Piețe locale dinamice", "Climat ecuatorial umed", "Regiune cu densitate forestieră ridicată"]
     },
-    descriptionAdvanced: {
-      de: "Bitam ist eine Stadt im Norden Gabuns, in der Provinz Woleu-Ntem, nahe der Grenze zu Kamerun und Äquatorialguinea. Aufgrund dieser Lage fungiert sie als wichtiger Umschlagplatz für den grenzüberschreitenden Handel und ist ein wirtschaftlicher Ankerpunkt für die gesamte Provinz. Die Region um Bitam ist berühmt für ihren Kakaoanbau, der eine tragende Säule der lokalen Wirtschaft darstellt. Das Klima begünstigt die Landwirtschaft, was Bitam zu einem wohlhabenden Marktort macht. Geografie K5 — Grenzüberschreitende Handelsbeziehungen."
-    },
-    factsAdvanced: {
-      de: ["Bitam liegt im Norden der Provinz Woleu-Ntem.", "Die Stadt ist ein bedeutendes Zentrum für den Kakaoanbau.", "Bitam profitiert von ihrer Lage im Dreiländereck.", "Sie ist ein wichtiger Knotenpunkt für den Handel mit Kamerun.", "Die Stadt hat ein tropisches Klima mit hohen Niederschlägen.", "Bitam beherbergt einen der größten Märkte der Region."]
-    }, image: "/poi-images/bitam-cities-v2.webp"},
+    
+     image: "/poi-images/bitam-cities-v2.webp"},
   {
     id: "ntoum-cities-v2",
     type: "city",
@@ -330,12 +290,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Localitate pe râul Ogooué", "Istorie colonială notabilă", "Acces la atracții naturale și peșteri", "Centru pentru industria forestieră", "Provincia Ogooué-Lolo", "Climat tropical umed"]
     },
-    descriptionAdvanced: {
-      de: "Lastoursville, oft auch Lastourville genannt, ist eine Stadt in der Provinz Ogooué-Lolo am Ufer des Ogooué. Der Ort ist historisch bedeutend als wichtiger Knotenpunkt für den Handel auf dem Fluss und später durch den Bau der Eisenbahn. Die Stadt ist bekannt für ihre nahe gelegenen Höhlen, die zu den archäologischen Schätzen der Region gehören. Lastoursville spielt auch heute noch eine wichtige Rolle bei der Holzverarbeitung und dem Transport in Zentralgabun. Geschichte K7 — Handel und Siedlung."
-    },
-    factsAdvanced: {
-      de: ["Lastoursville liegt in der Provinz Ogooué-Lolo.", "Der Ogooué-Fluss ist ein wesentlicher Teil des Stadtbildes.", "Die Stadt ist für ihre Karsthöhlen bekannt.", "Sie ist ein Zentrum der Holzverarbeitungsindustrie.", "Lastoursville war ein wichtiger historischer Handelsort.", "Die Eisenbahnanbindung ist ein zentraler Wirtschaftsfaktor."]
-    }, image: "/poi-images/lastoursville-cities-v2.webp"},
+    
+     image: "/poi-images/lastoursville-cities-v2.webp"},
   {
     id: "okondja-cities-v2",
     type: "city",
@@ -394,12 +350,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Provincia Ngounié", "Punct de aprovizionare pentru zone forestiere", "Acces către parcuri naționale", "Comunități strâns legate de pădure", "Climat tropical umed", "Rol în conservarea resurselor locale"]
     },
-    descriptionAdvanced: {
-      de: "Fougamou liegt in der Provinz Ngounié im Südwesten von Gabun. Die Stadt ist ein wichtiger Knotenpunkt an der Route zwischen dem Landesinneren und der Küste. Durch ihre Lage am Fluss Ngounié ist Fougamou ein bedeutender Ort für den Handel mit Agrarprodukten. Die Umgebung ist für ihre landschaftliche Schönheit bekannt, die durch den Flusslauf und die umgebenden Hügel geprägt ist. Die Stadt dient zudem als Ausgangspunkt für Ausflüge in die nahe gelegenen Nationalparks. Geografie K7 — Regionale Verkehrsknotenpunkte."
-    },
-    factsAdvanced: {
-      de: ["Fougamou liegt in der Provinz Ngounié.", "Die Stadt befindet sich an der wichtigen Nord-Süd-Verkehrsachse.", "Sie liegt am Ufer des Ngounié-Flusses.", "Fougamou ist ein zentraler Handelsplatz für lokale Bauern.", "Die Stadt ist Ausgangspunkt für Ökotourismus-Aktivitäten.", "Die Umgebung zeichnet sich durch Flusstäler und Regenwald aus."]
-    }
+    
+    
   },
   {
     id: "ndende-cities-v2",
@@ -498,12 +450,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Provincia Haut-Ogooué", "Canioane roșii spectaculoase", "Platouri de savană unice", "Centru administrativ local", "Geologie distinctă în Gabon", "Climat tropical"]
     },
-    descriptionAdvanced: {
-      de: "Leconi ist eine Stadt in der Provinz Haut-Ogooué, nahe der Grenze zur Republik Kongo. Die Stadt ist berühmt für ihre spektakulären geologischen Formationen, insbesondere die Leconi-Canyons, die eine weltweit einzigartige Landschaft darstellen. Diese roten Sandsteinformationen ziehen Geologen und Naturinteressierte an. Leconi selbst ist eine beschauliche Stadt, die als lokales Verwaltungszentrum für den umliegenden Distrikt dient. Die Landschaft rund um die Stadt bietet einen starken Kontrast zum sonst üblichen grünen Regenwald. Geografie K8 — Geologie und Landschaftsformen."
-    },
-    factsAdvanced: {
-      de: ["Leconi liegt in der Provinz Haut-Ogooué.", "Die Stadt ist für ihre Canyons bekannt.", "Die Canyons bestehen aus rotem Sandstein.", "Sie liegt in der Nähe der Grenze zur Republik Kongo.", "Leconi ist ein wichtiges regionales Verwaltungszentrum.", "Die Stadtlandschaft ist durch Savanne und Sandstein geprägt."]
-    }, image: "/poi-images/leconi-cities-v2.webp"},
+    
+     image: "/poi-images/leconi-cities-v2.webp"},
   {
     id: "mimongo-cities-v2",
     type: "city",
@@ -562,12 +510,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Nod pe calea ferată Transgaboneză", "Așezat pe râul Ogooué", "Istorie colonială comercială", "Punct de tranzit vital", "Rol economic strategic", "Climat ecuatorial"]
     },
-    descriptionAdvanced: {
-      de: "Booué ist eine strategisch wichtige Stadt im Zentrum Gabuns, an den Ufern des Ogooué-Flusses. Historisch gesehen war Booué ein bedeutender Eisenbahnknotenpunkt an der Transgabonais-Bahnlinie, die das Landesinnere mit der Küste verbindet. Diese Lage hat die Entwicklung der Stadt maßgeblich geprägt und macht sie bis heute zu einem wichtigen Versorgungsort für die Region. Der Fluss Ogooué bildet eine wichtige Lebensader für den Transport und die Versorgung der Bevölkerung. Geografie K7 — Transport und Infrastruktur."
-    },
-    factsAdvanced: {
-      de: ["Booué liegt direkt am Fluss Ogooué.", "Die Stadt war ein zentraler Bahnhof der Transgabonais-Linie.", "Booué dient als Umschlagplatz für Waren im Zentrum Gabuns.", "Der Ort ist umgeben von dichten tropischen Regenwäldern.", "Die Stadt hat eine zentrale Bedeutung für die Logistik im Landesinneren.", "Booué ist ein wichtiger Halt für den Personenverkehr der Eisenbahn."]
-    }, image: "/poi-images/booue-cities-v2.webp"},
+    
+     image: "/poi-images/booue-cities-v2.webp"},
   {
     id: "pana-cities-v2",
     type: "city",
@@ -606,12 +550,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Provincia Estuaire", "Situat la estuarul râului Muni", "Poziție strategică la granița maritimă", "Centru de activități pescărești", "Conexiuni comerciale regionale", "Climat marin tropical"]
     },
-    descriptionAdvanced: {
-      de: "Cocobeach liegt im Nordwesten von Gabun, an der Mündung des Komo-Flusses in den Golf von Guinea. Aufgrund ihrer Lage ist die Stadt historisch als wichtiger Hafenort für den Transport von Holz und anderen Handelsgütern bekannt. Die maritime Umgebung prägt das Leben in Cocobeach, wobei die Fischerei und der Handel die Haupteinnahmequellen der Bewohner sind. Die nahe gelegene Mündung ist ein ökologisch wertvolles Gebiet mit ausgedehnten Mangrovenwäldern. Geografie K5 — Küsten- und Flussregionen."
-    },
-    factsAdvanced: {
-      de: ["Cocobeach liegt an der Mündung des Komo-Flusses.", "Die Stadt hat eine strategische Lage am Golf von Guinea.", "Sie ist ein historischer Hafenort für den Holzexport.", "Die Umgebung ist durch ausgedehnte Mangroven geprägt.", "Fischerei ist eine der Haupteinnahmequellen.", "Cocobeach liegt in der Provinz Estuaire."]
-    }, image: "/poi-images/cocobeach-cities-v2.webp"},
+    
+     image: "/poi-images/cocobeach-cities-v2.webp"},
   {
     id: "kango-cities-v2",
     type: "city",
@@ -631,12 +571,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Nod de tranzit rutier", "Situat pe drumul național către interior", "Poziție strategică între capitală și regiuni", "Punct de aprovizionare pentru călători", "Infrastructură de transport critică", "Climat ecuatorial"]
     },
-    descriptionAdvanced: {
-      de: "Kango liegt in der Provinz Estuaire, strategisch günstig an der Kreuzung wichtiger Straßenverbindungen zwischen Libreville und dem Landesinneren. Die Stadt ist als wichtiger Durchgangsort bekannt und dient als Handelsplatz für die umliegende Region. Durch die Nähe zum Fluss Komo ist der Ort auch für die lokale Fischerei und kleine Flussschifffahrt von Bedeutung. Die Umgebung ist durch typisch äquatoriale Wälder und Feuchtgebiete gekennzeichnet. Geografie K6 — Verkehrsknotenpunkte in Äquatornähe."
-    },
-    factsAdvanced: {
-      de: ["Kango liegt in der Provinz Estuaire.", "Die Stadt ist ein wichtiger Verkehrsknotenpunkt.", "Sie befindet sich unweit von Libreville.", "Der Fluss Komo prägt die lokale Geografie.", "Die Stadt dient als wichtiger Rastplatz für Reisende.", "Die Umgebung ist durch dichten Wald und Feuchtgebiete geprägt."]
-    }, image: "/poi-images/kango-cities-v2.webp"},
+    
+     image: "/poi-images/kango-cities-v2.webp"},
   {
     id: "omboue-cities-v2",
     type: "city",
@@ -715,12 +651,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Provincia Ngounié", "Centru regional pentru agricultură", "Punct de legătură pentru comunitățile rurale", "Acces la servicii administrative", "Economie bazată pe agricultură", "Climat ecuatorial umed"]
     },
-    descriptionAdvanced: {
-      de: "Lebamba ist eine Stadt in der Provinz Ngounié im Südwesten von Gabun. Sie liegt in einer Region, die für ihre landwirtschaftliche Produktivität bekannt ist, insbesondere für den Anbau von Reis, der eine wichtige lokale Einnahmequelle darstellt. Lebamba ist ein charmantes Zentrum, das für seine ruhige Lebensweise geschätzt wird. Die Umgebung ist durch sanfte Täler und Wälder gekennzeichnet, die für die Provinz Ngounié typisch sind. Die Stadt verbindet lokales Handwerk mit dem regionalen Handel. Geografie K5 — Agrarwirtschaft in Zentralafrika."
-    },
-    factsAdvanced: {
-      de: ["Lebamba liegt in der Provinz Ngounié.", "Die Stadt ist ein Zentrum des lokalen Reisanbaus.", "Sie ist ein wichtiger Handelsort für landwirtschaftliche Waren.", "Die Umgebung ist durch Hügellandschaften geprägt.", "Lebamba hat eine ruhige, ländliche Atmosphäre.", "Die Stadt dient als lokaler Verwaltungssitz."]
-    }, image: "/poi-images/lebamba-cities-v2.webp"},
+    
+     image: "/poi-images/lebamba-cities-v2.webp"},
   {
     id: "medouneu-cities-v2",
     type: "city",
@@ -778,12 +710,8 @@ export const poiExtraGabonCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Provincia Ogooué-Lolo", "Cadru pentru activități agricole și forestiere", "Punct de sprijin pentru comunități", "Gestionarea eficientă a resurselor", "Tradiții locale bine conservate", "Climat ecuatorial"]
     },
-    descriptionAdvanced: {
-      de: "Iboundji ist eine Stadt in der Provinz Ogooué-Lolo, im zentral-östlichen Teil von Gabun. Sie liegt in einer bergigen Region, die für ihre malerischen Landschaften und ihren hohen Waldanteil bekannt ist. Iboundji ist ein wichtiges lokales Zentrum für die Bewohner der umliegenden Dörfer und dient als Umschlagplatz für forstwirtschaftliche Erzeugnisse. Die abgeschiedene Lage hat eine starke lokale Identität bewahrt, die sich in den Traditionen der Bewohner widerspiegelt. Geografie K7 — Gebirgsregionen und Ressourcen."
-    },
-    factsAdvanced: {
-      de: ["Iboundji liegt in der Provinz Ogooué-Lolo.", "Die Region ist durch bergiges Gelände geprägt.", "Die Stadt ist ein lokaler Markt für Waldprodukte.", "Iboundji dient als Verwaltungszentrum für den Distrikt.", "Die Umgebung bietet eine hohe Biodiversität.", "Die Stadt ist durch ein begrenztes Straßennetz angebunden."]
-    }
+    
+    
   },
   {
     id: "dienga-cities-v2",

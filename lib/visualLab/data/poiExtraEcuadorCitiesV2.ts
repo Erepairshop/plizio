@@ -21,9 +21,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Cel mai mare oraș din Ecuador cu peste 2,5 milioane de locuitori.", "Anul oficial de fondare este 1538.", "Malecón 2000 se întinde pe 2,5 kilometri.", "Principalele produse de export sunt bananele și cacao.", "Situat la doar câțiva metri deasupra nivelului mării.", "Cel mai important nod pentru comerțul exterior al Ecuadorului."]
     },
-    factsAdvanced: {
-      de: ["Größte Stadt Ecuadors", "Wichtigster Hafen des Landes", "Gegründet im Jahr 1538", "Bekannt für die Malecón 2000", "Tropisches Savannenklima", "Heimat des Parque Seminario mit Leguanen"]
-    }
+    
   },
     facts: {
       de: ["Wichtigster Seehafen des Landes.", "Liegt am Río Guayas.", "Heimat des berühmten Malecón 2000.", "Wurde 1538 offiziell gegründet."],
@@ -31,18 +29,8 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       ro: ["Cel mai important port maritim al țării.", "Situat pe râul Guayas.", "Aici se află faimoasa promenadă Malecón 2000.", "A fost fondat oficial în 1538."],
       en: ["The country's most important seaport.", "Located on the Guayas River.", "Home to the famous Malecón 2000 boardwalk.", "Officially founded in 1538."]
     },
-    descriptionAdvanced: {
-      de: "Guayaquil ist als Ecuadors wirtschaftliches Herzstück bekannt und liegt strategisch günstig am Río Guayas. Die Stadt dient als größter Seehafen des Landes, durch den der Großteil des internationalen Handels abgewickelt wird. Historisch gewachsen, bietet sie heute moderne Infrastrukturen wie den Malecón 2000, eine 2,5 km lange Flusspromenade, die touristische Highlights mit Erholungsflächen verbindet. Im Jahr 1538 offiziell gegründet, hat sich Guayaquil von einem kolonialen Hafen zu einer urbanen Metropole gewandelt. Die Geografie ist geprägt durch die Nähe zum Pazifik und die feuchten Tropenwälder der Region, was das Klima ganzjährig warm hält. Für Schüler der Geografie in der Plizio-Kurrikulum-Reihe (K7) ist Guayaquil ein zentrales Beispiel für die Bedeutung von Küstenstädten bei der wirtschaftlichen Entwicklung eines Landes.",
-      hu: "Guayaquil Ecuador gazdasági központja, amely stratégiailag a Guayas folyó partján fekszik. Az ország legnagyobb tengeri kikötőjeként itt bonyolódik le a nemzetközi kereskedelem jelentős része. A város modern arculatát olyan fejlesztések határozzák meg, mint a 2,5 km hosszú Malecón 2000 sétány, amely a történelmi emlékeket ötvözi a szabadidős terekkel. 1538-as alapítása óta Guayaquil a gyarmati kikötőből modern nagyvárossá alakult át. Földrajzi fekvését a Csendes-óceán közelsége és a régió nedves trópusi erdői határozzák meg, ami egész évben meleg klímát biztosít. A Plizio tantervben (Földrajz K7) Guayaquil kiváló példája annak, hogyan járulnak hozzá a kikötővárosok egy ország gazdasági fejlődéséhez.",
-      ro: "Guayaquil este inima economică a Ecuadorului, situată strategic pe râul Guayas. Ca cel mai mare port maritim al țării, aici se gestionează majoritatea comerțului internațional. Orașul oferă infrastructuri moderne precum Malecón 2000, o promenadă de 2,5 km care îmbină atracțiile turistice cu spațiile de recreere. Fondat oficial în 1538, Guayaquil a evoluat de la un port colonial la o metropolă urbană. Geografia este definită de proximitatea față de Pacific și de pădurile tropicale umede, menținând o climă caldă pe tot parcursul anului. Pentru elevii de la cursurile Plizio (Geografie K7), Guayaquil este un studiu de caz central privind rolul orașelor portuare în dezvoltarea economică.",
-      en: "Guayaquil is known as Ecuador's economic heart, strategically situated on the Guayas River. As the country's largest seaport, it handles the majority of international trade. Modern developments like the 2.5 km long Malecón 2000 promenade blend tourist highlights with recreational spaces. Formally founded in 1538, Guayaquil has evolved from a colonial port into a sprawling urban metropolis. Its geography is defined by its proximity to the Pacific and the surrounding tropical forests, ensuring a warm climate year-round. For geography students in the Plizio curriculum (K7), Guayaquil serves as a key example of how port cities drive national economic development."
-    },
-    factsAdvanced: {
-      de: ["Größte Stadt Ecuadors mit über 2,5 Millionen Einwohnern.", "Offizielles Gründungsjahr ist 1538.", "Der Malecón 2000 erstreckt sich über 2,5 Kilometer.", "Hauptexportgüter sind Bananen und Kakao.", "Liegt nur wenige Meter über dem Meeresspiegel.", "Wichtigster Knotenpunkt des ecuadorianischen Außenhandels."],
-      hu: ["Ecuador legnagyobb városa, több mint 2,5 millió lakossal.", "Hivatalos alapítási év: 1538.", "A Malecón 2000 sétány 2,5 kilométer hosszú.", "Fő exportcikkek: banán és kakaó.", "Alig néhány méterrel a tengerszint felett fekszik.", "Az ecuadori külkereskedelem legfontosabb csomópontja."],
-      ro: ["Cel mai mare oraș din Ecuador cu peste 2,5 milioane de locuitori.", "Anul oficial de fondare este 1538.", "Malecón 2000 se întinde pe 2,5 kilometri.", "Principalele produse de export sunt bananele și cacao.", "Situat la doar câțiva metri deasupra nivelului mării.", "Cel mai important nod pentru comerțul exterior al Ecuadorului."],
-      en: ["Largest city in Ecuador with over 2.5 million inhabitants.", "Official founding year is 1538.", "The Malecón 2000 spans 2.5 kilometers.", "Main export goods are bananas and cocoa.", "Located just a few meters above sea level.", "Most important hub for Ecuadorian foreign trade."]
-    }, image: "/poi-images/guayaquil-cities-v2.webp"},
+    
+     image: "/poi-images/guayaquil-cities-v2.webp"},
   {
     id: "quito-cities-v2",
     type: "state-capital",
@@ -62,9 +50,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Capitala Ecuadorului", "A doua cea mai înaltă capitală din lume", "Centrul istoric este Patrimoniu Mondial UNESCO", "Situat în apropierea Ecuatorului", "Fondat peste ruine incașe în secolul al XVI-lea", "Biserica La Compañía de Jesús renumită pentru decorul din aur"]
     },
-    factsAdvanced: {
-      de: ["Hauptstadt von Ecuador", "Zweithöchste Hauptstadt der Welt", "Historisches Zentrum UNESCO-Weltkulturerbe", "In der Nähe der Äquatorlinie gelegen", "Gründung durch Inka-Ruinen im 16. Jahrhundert", "Hauptkirche La Compañía de Jesús mit Golddekor"]
-    }
+    
   },
     facts: {
       de: ["Liegt auf 2.850 Metern Höhe.", "War das erste UNESCO-Weltkulturerbe.", "Befindet sich nahe dem Äquator.", "Der Vulkan Pichincha überragt die Stadt."],
@@ -72,18 +58,8 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       ro: ["Situat la o altitudine de 2.850 metri.", "A fost primul sit al Patrimoniului Mondial UNESCO.", "Se află aproape de Ecuator.", "Vulcanul Pichincha domină orașul."],
       en: ["Located at an altitude of 2,850 meters.", "It was the first UNESCO World Heritage site.", "Situated near the Equator.", "The Pichincha volcano towers over the city."]
     },
-    descriptionAdvanced: {
-      de: "Quito, die Hauptstadt Ecuadors, ist eine der am höchsten gelegenen Hauptstädte der Welt, gelegen in einem schmalen Andental auf 2.850 Metern. Die Stadt ist für ihre außergewöhnlich gut erhaltene koloniale Altstadt bekannt, die 1978 als erste Stätte weltweit in das UNESCO-Weltkulturerbe aufgenommen wurde. Die Geografie ist geprägt von den Vulkanketten der Anden, wobei der majestätische Pichincha die Stadt überragt. Quito liegt nur etwa 25 Kilometer vom Äquator entfernt, was zu einer einzigartigen Sonneneinstrahlung führt. In der Plizio-Bildungsreihe (Földrajz K7) wird Quito oft im Kontext von Hochgebirgsstädten und deren klimatischen Anpassungen analysiert. Neben der historischen Bedeutung ist Quito ein Zentrum für Kultur und Politik in den Anden.",
-      hu: "Quito, Ecuador fővárosa, a világ egyik legmagasabban fekvő fővárosa, 2850 méteren, egy keskeny andesi völgyben helyezkedik el. A város kivételesen jól megőrzött gyarmati óvárosáról híres, amelyet 1978-ban elsőként vettek fel az UNESCO világörökségi listájára. Földrajzát az Andok vulkánláncai határozzák meg, a fenséges Pichincha vulkánnal a háttérben. Quito mindössze 25 kilométerre fekszik az Egyenlítőtől, ami különleges napsütéses klímát eredményez. A Plizio tantervben (Földrajz K7) Quitót gyakran a magashegyi városok és azok éghajlati adaptációjának összefüggésében elemzik. Történelmi jelentősége mellett Quito az andoki kultúra és politika központja.",
-      ro: "Quito, capitala Ecuadorului, este una dintre cele mai înalte capitale din lume, situată într-o vale îngustă a Anzilor la 2.850 de metri. Orașul este celebru pentru centrul său vechi colonial excepțional conservat, care în 1978 a devenit primul sit din lume înscris în Patrimoniul Mondial UNESCO. Geografia este definită de lanțurile vulcanice ale Anzilor, impunătorul Pichincha dominând orașul. Quito se află la doar 25 de kilometri de Ecuator, ceea ce duce la o incidență solară unică. În seria educațională Plizio (Geografie K7), Quito este adesea analizat în contextul orașelor de mare altitudine și al adaptărilor lor climatice. Pe lângă importanța istorică, Quito este un centru pentru cultură și politică în Anzi.",
-      en: "Quito, the capital of Ecuador, is one of the highest capitals in the world, situated in a narrow Andean valley at 2,850 meters. The city is known for its exceptionally well-preserved colonial historic center, which in 1978 became the first site in the world to be inscribed as a UNESCO World Heritage site. The geography is dominated by the volcanic chains of the Andes, with the majestic Pichincha towering over the city. Quito lies only about 25 kilometers from the equator, resulting in unique solar exposure. In the Plizio curriculum series (Geography K7), Quito is often analyzed in the context of high-mountain cities and their climatic adaptations. Beyond its historical significance, Quito is a hub for culture and politics in the Andes."
-    },
-    factsAdvanced: {
-      de: ["Liegt auf einer Höhe von 2.850 Metern.", "Erste UNESCO-Weltkulturerbestätte (1978).", "Befindet sich 25 km südlich vom Äquator.", "Der Pichincha ist ein aktiver Vulkan nahe der Stadt.", "Das historische Zentrum umfasst 320 Hektar.", "Quito ist das politische und kulturelle Zentrum Ecuadors."],
-      hu: ["2850 méteres tengerszint feletti magasságban fekszik.", "Az első UNESCO világörökségi helyszín (1978).", "25 km-re délre fekszik az Egyenlítőtől.", "A Pichincha egy aktív vulkán a város közelében.", "A történelmi központ 320 hektár területű.", "Quito Ecuador politikai és kulturális központja."],
-      ro: ["Situat la o altitudine de 2.850 de metri.", "Primul sit al Patrimoniului Mondial UNESCO (1978).", "Se află la 25 km sud de Ecuator.", "Pichincha este un vulcan activ în apropierea orașului.", "Centrul istoric acoperă 320 de hectare.", "Quito este centrul politic și cultural al Ecuadorului."],
-      en: ["Located at an altitude of 2,850 meters.", "First UNESCO World Heritage site (1978).", "Situated 25 km south of the Equator.", "Pichincha is an active volcano near the city.", "The historical center covers 320 hectares.", "Quito is the political and cultural hub of Ecuador."]
-    }, image: "/poi-images/quito-cities-v2.webp"},
+    
+     image: "/poi-images/quito-cities-v2.webp"},
   {
     id: "cuenca-cities-v2",
     type: "state-capital",
@@ -103,9 +79,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Al treilea oraș ca mărime din Ecuador", "Patrimoniu Mondial UNESCO din 1999", "Situat la 2.500 de metri altitudine", "Celebru pentru pălăriile Panama", "Centru de artizanat", "Climă blândă pe tot parcursul anului"]
     },
-    factsAdvanced: {
-      de: ["Drittgrößte Stadt Ecuadors", "UNESCO-Welterbe seit 1999", "Gelegen auf 2.500 Metern Höhe", "Bekannt für Panama-Hüte", "Zentrum des Kunsthandwerks", "Klimatisch mild das ganze Jahr"]
-    }
+    
   },
     facts: {
       de: ["Zentrum der Panama-Hut-Produktion.", "Die Altstadt ist UNESCO-Weltkulturerbe.", "Wird von vier Flüssen durchquert.", "Drittgrößte Stadt Ecuadors."],
@@ -113,18 +87,8 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       ro: ["Centrul producției de pălării Panama.", "Centrul vechi este în Patrimoniul Mondial UNESCO.", "Este traversat de patru râuri.", "Al treilea oraș ca mărime din Ecuador."],
       en: ["Center of Panama hat production.", "The historic center is a UNESCO World Heritage site.", "Crossed by four rivers.", "The third-largest city in Ecuador."]
     },
-    descriptionAdvanced: {
-      de: "Cuenca, offiziell Santa Ana de los Cuatro Ríos de Cuenca genannt, liegt im südlichen Hochland Ecuadors auf 2.560 Metern. Die Stadt zeichnet sich durch ihre architektonische Schönheit aus, geprägt von spanischen Kolonialbauten und Kopfsteinpflasterstraßen, was ihr 1999 den UNESCO-Weltkulturerbe-Status einbrachte. Geografisch ist die Region durch vier Flüsse bestimmt, die durch das Stadtgebiet fließen: Tomebamba, Yanuncay, Tarqui und Machángara. Historisch war die Region vor der spanischen Ankunft ein Zentrum der Cañari-Kultur und der Inkas, deren Überreste in der Nähe (Ingapirca) noch zu finden sind. Für Geschichtsinteressierte (Plizio-Kurrikulum K8) stellt Cuenca eine faszinierende Mischung aus vorkolumbianischer Vergangenheit und europäischer Stadtplanung dar.",
-      hu: "Cuenca, hivatalos nevén Santa Ana de los Cuatro Ríos de Cuenca, Ecuador déli hegyvidékén, 2560 méteren fekszik. A várost építészeti szépsége jellemzi, amely a spanyol gyarmati épületek és macskaköves utcák egyvelege, amiért 1999-ben felvették az UNESCO világörökségi listájára. Földrajzilag a régiót négy folyó határozza meg, amelyek átszelik a várost: a Tomebamba, a Yanuncay, a Tarqui és a Machángara. Történelmileg a terület a spanyol érkezés előtt a Cañari-kultúra és az inkák központja volt, amelyek maradványai a közelben (Ingapirca) ma is megtalálhatók. A történelem iránt érdeklődőknek (Plizio tanterv K8) Cuenca a prekolumbán múlt és az európai várostervezés lenyűgöző keverékét kínálja.",
-      ro: "Cuenca, numit oficial Santa Ana de los Cuatro Ríos de Cuenca, este situat în zona înaltă din sudul Ecuadorului, la 2.560 de metri. Orașul se distinge prin frumusețea sa arhitecturală, caracterizată de clădiri coloniale spaniole și străzi pietruite, ceea ce i-a adus statutul de Patrimoniu Mondial UNESCO în 1999. Din punct de vedere geografic, regiunea este definită de patru râuri care curg prin oraș: Tomebamba, Yanuncay, Tarqui și Machángara. Istoric, înainte de sosirea spaniolilor, regiunea a fost un centru al culturii Cañari și al incașilor, ale căror rămășițe pot fi găsite în apropiere (Ingapirca). Pentru pasionații de istorie (curriculum Plizio K8), Cuenca reprezintă un amestec fascinant de trecut precolumbian și planificare urbană europeană.",
-      en: "Cuenca, officially named Santa Ana de los Cuatro Ríos de Cuenca, is located in the southern highlands of Ecuador at 2,560 meters. The city is distinguished by its architectural beauty, characterized by Spanish colonial buildings and cobblestone streets, earning it UNESCO World Heritage status in 1999. Geographically, the region is defined by four rivers that flow through the city: the Tomebamba, Yanuncay, Tarqui, and Machángara. Historically, before the Spanish arrival, the region was a center of the Cañari culture and the Incas, whose remains can still be found nearby (Ingapirca). For history enthusiasts (Plizio curriculum K8), Cuenca offers a fascinating blend of pre-Columbian past and European urban planning."
-    },
-    factsAdvanced: {
-      de: ["Liegt auf 2.560 Metern in den Anden.", "UNESCO-Welterbe seit 1999.", "Durchflossen von vier Flüssen (Tomebamba, Yanuncay, Tarqui, Machángara).", "Ingapirca, das bedeutendste Inka-Monument Ecuadors, liegt in der Nähe.", "Dritte größte Stadt des Landes.", "Bekannt als Zentrum des Panama-Hut-Handwerks."],
-      hu: ["2560 méteren fekszik az Andokban.", "UNESCO világörökség 1999 óta.", "Négy folyó szeli át (Tomebamba, Yanuncay, Tarqui, Machángara).", "Ingapirca, Ecuador legjelentősebb inka emlékműve a közelben található.", "Az ország harmadik legnagyobb városa.", "A panamakalap-készítés központjaként ismert."],
-      ro: ["Situat la 2.560 de metri în Anzi.", "Patrimoniul Mondial UNESCO din 1999.", "Traversat de patru râuri (Tomebamba, Yanuncay, Tarqui, Machángara).", "Ingapirca, cel mai important monument incaș din Ecuador, este în apropiere.", "Al treilea oraș ca mărime din țară.", "Cunoscut ca centru al meșteșugului pălăriilor Panama."],
-      en: ["Located at 2,560 meters in the Andes.", "UNESCO World Heritage site since 1999.", "Crossed by four rivers (Tomebamba, Yanuncay, Tarqui, Machángara).", "Ingapirca, Ecuador's most significant Inca monument, is nearby.", "Third-largest city in the country.", "Known as the center of Panama hat craftsmanship."]
-    }, image: "/poi-images/cuenca-cities-v2.webp"},
+    
+     image: "/poi-images/cuenca-cities-v2.webp"},
   {
     id: "santo-domingo-cities-v2",
     type: "state-capital",
@@ -144,9 +108,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Centru comercial important în zona joasă", "Punct de legătură între Anzi și coastă", "Căminul poporului indigen Tsáchila", "Cunoscut pentru cultivarea fructelor tropicale", "Regiune cu climă tropical-umedă", "Poziție strategică pentru transport"]
     },
-    factsAdvanced: {
-      de: ["Wichtiges Handelszentrum im Tiefland", "Knotenpunkt zwischen Anden und Küste", "Heimat des indigenen Volks der Tsáchila", "Bekannt für den Anbau tropischer Früchte", "Klima: Tropisch-humide Region", "Strategische Verkehrslage"]
-    }
+    
   },
     facts: {
       de: ["Heimat der Tsáchila-Kultur.", "Viertgrößte Stadt des Landes.", "Hat ein tropisches Regenwaldklima.", "Ein wichtiges landwirtschaftliches Zentrum."],
@@ -173,9 +135,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Cunoscută drept Capitala Mondială a Bananelor", "Capitala provinciei El Oro", "Port central: Puerto Bolívar", "Centrul economic al sudului", "Câmpie fertilă de coastă", "Economie de export dominantă"]
     },
-    factsAdvanced: {
-      de: ["Bekannt als Welthauptstadt der Bananen", "Hauptstadt der Provinz El Oro", "Zentraler Hafen: Puerto Bolívar", "Wirtschaftliches Zentrum des Südens", "Fruchtbare Küstenebene", "Dominante Exportwirtschaft"]
-    }
+    
   },
     facts: {
       de: ["Hauptstadt der Provinz El Oro.", "Wichtiger Exporthafen in der Nähe (Puerto Bolívar).", "Das jährliche Bananenfest zieht viele Besucher an.", "Die Landwirtschaft dominiert die lokale Wirtschaft."],
@@ -202,9 +162,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Locație industrială importantă", "Nod logistic pe râul Guayas", "Punct de legătură între cale ferată și port", "Oraș vecin cu Guayaquil", "Dezvoltare industrială puternică", "Nod major pentru navetiști"]
     },
-    factsAdvanced: {
-      de: ["Wichtiger Industriestandort", "Logistik-Hub am Rio Guayas", "Verbindungspunkt für Schiene und Hafen", "Nachbarstadt von Guayaquil", "Starke industrielle Entwicklung", "Bedeutender Pendlerknotenpunkt"]
-    }
+    
   },
     facts: {
       de: ["Wichtiger Eisenbahnknotenpunkt in der Vergangenheit.", "Teil der Metropolregion Guayaquil.", "Stark industrialisiert.", "Schnell wachsende Bevölkerung."],
@@ -231,9 +189,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Centrul industriei de pescuit de ton", "Port semnificativ la Pacific", "Destinație turistică populară (Ruta Soarelui)", "Cunoscut pentru Playa Murciélago", "Punct de oprire pentru navele de croazieră", "Dezvoltare industrială puternică"]
     },
-    factsAdvanced: {
-      de: ["Zentrum der Thunfischindustrie", "Bedeutender Pazifikhafen", "Beliebtes Touristenziel (Sonnenroute)", "Bekannt für den Playa Murciélago", "Anlaufstelle für Kreuzfahrtschiffe", "Starke industrielle Entwicklung"]
-    }
+    
   },
     facts: {
       de: ["Zentrum der ecuadorianischen Thunfischindustrie.", "Zweitgrößter Seehafen des Landes.", "Ein beliebtes Ziel für Kreuzfahrtschiffe.", "Die Kultur der Manteño florierte hier vor der Kolonialisierung."],
@@ -260,9 +216,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Capitala provinciei Manabí", "Numit 'Orașul Tamarindelor Regale'", "Centru comercial regional pentru produse agricole", "Centru administrativ al regiunii", "Climă tropicală", "Semnificativ pentru cultura locală"]
     },
-    factsAdvanced: {
-      de: ["Hauptstadt der Provinz Manabí", "Genannt 'Stadt der königlichen Tamarinden'", "Regionales Handelszentrum für Agrarprodukte", "Verwaltungszentrum der Region", "Tropisches Klima", "Bedeutend für lokale Kultur"]
-    }
+    
   },
     facts: {
       de: ["Hauptstadt der Provinz Manabí.", "Eine der ältesten Städte an der Küste Ecuadors.", "Wichtiges landwirtschaftliches Zentrum für Kaffee und Kakao.", "Wurde 1535 gegründet."],
@@ -289,9 +243,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Numit 'Orașul Turnurilor Albe'", "Situat la poalele vulcanului Imbabura", "Aproape de celebrul lac Yaguarcocha", "Cunoscut ca 'Orașul Primăverii Eterne'", "Centru cultural important", "Situat într-o vale fertilă"]
     },
-    factsAdvanced: {
-      de: ["Genannt 'Stadt der weißen Türme'", "Gelegen am Fuße des Imbabura-Vulkans", "Nahe dem berühmten Yaguarcocha-See", "Bekannt als 'Stadt des ewigen Frühlings'", "Wichtiges kulturelles Zentrum", "Fruchtbare Tal-Lage"]
-    }
+    
   },
     facts: {
       de: ["Hauptstadt der Provinz Imbabura.", "Liegt am Fuß des Vulkans Imbabura.", "Berühmt für das Eis Helados de Paila.", "Wurde 1606 gegründet."],
@@ -318,9 +270,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Punct comercial important pentru banane", "Centru de comerț cu cacao și cafea", "Oraș în creștere rapidă în Los Ríos", "Locație centrală în câmpia de coastă", "Punct de transbordare vital", "Cunoscut pentru piața sa locală"]
     },
-    factsAdvanced: {
-      de: ["Wichtiger Handelsplatz für Bananen", "Zentrum des Kakao- und Kaffeehandels", "Wachstumsstarke Stadt in Los Ríos", "Zentrale Lage in der Küstenebene", "Bedeutender Umschlagplatz", "Bekannt für den lokalen Markt"]
-    }
+    
   },
     facts: {
       de: ["Eines der wichtigsten landwirtschaftlichen Zentren des Landes.", "Liegt am Río Quevedo.", "Hat eine große chinesische Gemeinde.", "Bekannt für die Produktion von Kakao und Bananen."],
@@ -347,9 +297,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Capitala muzicii și culturii din Ecuador", "Unul dintre cele mai vechi orașe ale țării", "Aproape de Parcul Național Podocarpus", "Celebră pentru tradițiile coloniale", "Cunoscută pentru parcurile urbane curate", "Centru cultural în sudul țării"]
     },
-    factsAdvanced: {
-      de: ["Musik- und Kulturhauptstadt Ecuadors", "Eine der ältesten Städte des Landes", "Nähe zum Nationalpark Podocarpus", "Berühmt für koloniale Traditionen", "Bekannt für saubere Stadtparks", "Kulturelles Zentrum im Süden"]
-    }
+    
   },
     facts: {
       de: ["Eine der ältesten Städte in Ecuador (gegründet 1548).", "Pionier bei der Nutzung von erneuerbarer Energie.", "Gastgeber des internationalen Kunstfestivals von Loja.", "In der Nähe liegt das Langlebigkeits-Dorf Vilcabamba."],
@@ -376,9 +324,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     factsAdvanced: {
       ro: ["Capitala provinciei Tungurahua", "Cunoscut pentru 'Festivalul Fructelor și Florilor'", "Reconstrucție după cutremurul din 1949", "Centru al industriei încălțămintei", "Comerț cu articole din piele", "Legătură economică între Anzi și Amazon"]
     },
-    factsAdvanced: {
-      de: ["Hauptstadt der Provinz Tungurahua", "Bekannt für das 'Festival der Früchte und Blumen'", "Wiederaufbau nach Erdbeben 1949", "Zentrum der Schuhindustrie", "Handel mit Lederwaren", "Wirtschaftliches Bindeglied zwischen Anden und Amazonas"]
-    }
+    
   },
     facts: {
       de: ["Wurde 1949 durch ein schweres Erdbeben fast zerstört.", "Ein wichtiges industrielles Zentrum.", "Die Fiesta de las Flores y las Frutas ist weltbekannt.", "Liegt im Tal des Río Ambato."],

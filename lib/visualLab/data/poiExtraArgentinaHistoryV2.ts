@@ -1,9 +1,16 @@
-// @ts-nocheck
+﻿// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraArgentinaHistoryV2: POI[] = [
   {
     id: "ar-cueva-de-las-manos-history-v2",
+    description: "An ancient cave featuring prehistoric paintings of hands, dating back thousands of years.",
+    facts: [
+      "Ancient cave art",
+      "Prehistoric site",
+      "Patagonia region",
+      "UNESCO site"
+],
     type: "historical",
     parent: "AR-Z",
     coords: [-70.1633, -47.1558],
@@ -27,6 +34,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-cueva-de-las-manos-history-v2.webp"},
   {
     id: "ar-nuestra-senora-de-santa-ana-history-v2",
+    description: "The ruins of a Jesuit reduction, reflecting the historical missionary efforts in the Misiones region.",
+    facts: [
+      "Jesuit mission",
+      "Historic ruins",
+      "Misiones region",
+      "17th century"
+],
     type: "historical",
     parent: "AR-N",
     coords: [-55.5802, -27.3872],
@@ -50,6 +64,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-nuestra-senora-de-santa-ana-history-v2.webp"},
   {
     id: "ar-nuestra-senora-de-loreto-history-v2",
+    description: "A former Jesuit reduction site, significant for its historical influence on the indigenous population.",
+    facts: [
+      "Jesuit mission",
+      "Historic ruins",
+      "Missionary site",
+      "17th century"
+],
     type: "historical",
     parent: "AR-N",
     coords: [-55.5186, -27.3325],
@@ -73,6 +94,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-nuestra-senora-de-loreto-history-v2.webp"},
   {
     id: "ar-santa-maria-la-mayor-history-v2",
+    description: "One of the Jesuit missions in the Misiones region, showcasing historical architecture and cultural preservation.",
+    facts: [
+      "Jesuit mission",
+      "Misiones region",
+      "Colonial history",
+      "Cultural heritage"
+],
     type: "historical",
     parent: "AR-N",
     coords: [-55.34, -27.8863],
@@ -96,6 +124,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-santa-maria-la-mayor-history-v2.webp"},
   {
     id: "ar-casa-historica-de-tucuman-history-v2",
+    description: "The site where the Argentine Declaration of Independence was signed in 1816.",
+    facts: [
+      "Independence site",
+      "National monument",
+      "Tucumán city",
+      "Signed 1816"
+],
     type: "historical",
     parent: "AR-T",
     coords: [-65.2036, -26.8305],
@@ -119,6 +154,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-casa-historica-de-tucuman-history-v2.webp"},
   {
     id: "ar-manzana-jesuitica-history-v2",
+    description: "A historical block in Córdoba featuring buildings from the Jesuit period, including the oldest university in Argentina.",
+    facts: [
+      "Jesuit block",
+      "Córdoba city",
+      "Historic university",
+      "Colonial period"
+],
     type: "historical",
     parent: "AR-X",
     coords: [-64.1866, -31.4183],
@@ -142,6 +184,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-manzana-jesuitica-history-v2.webp"},
   {
     id: "ar-estancia-alta-gracia-history-v2",
+    description: "A historic Jesuit estancia in Córdoba, reflecting colonial agricultural and cultural practices.",
+    facts: [
+      "Jesuit estancia",
+      "Córdoba region",
+      "Colonial history",
+      "Historic site"
+],
     type: "historical",
     parent: "AR-X",
     coords: [-64.4285, -31.6583],
@@ -165,6 +214,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-estancia-alta-gracia-history-v2.webp"},
   {
     id: "ar-estancia-jesus-maria-history-v2",
+    description: "An important Jesuit estate, known for its well-preserved colonial structure and winemaking history.",
+    facts: [
+      "Jesuit estate",
+      "Córdoba region",
+      "Winemaking history",
+      "17th century"
+],
     type: "historical",
     parent: "AR-X",
     coords: [-64.095, -30.9819],
@@ -188,6 +244,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-estancia-jesus-maria-history-v2.webp"},
   {
     id: "ar-estancia-santa-catalina-history-v2",
+    description: "A former Jesuit ranch, representative of the religious order's historical economic impact in the region.",
+    facts: [
+      "Jesuit ranch",
+      "Córdoba region",
+      "Colonial history",
+      "17th century"
+],
     type: "historical",
     parent: "AR-X",
     coords: [-64.2383, -30.8731],
@@ -211,6 +274,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-estancia-santa-catalina-history-v2.webp"},
   {
     id: "ar-estancia-caroya-history-v2",
+    description: "A historic Jesuit estancia famous for its role in colonial economy and architecture.",
+    facts: [
+      "Jesuit estancia",
+      "Córdoba region",
+      "Colonial architecture",
+      "Historic estate"
+],
     type: "historical",
     parent: "AR-X",
     coords: [-64.0805, -30.9856],
@@ -234,6 +304,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-estancia-caroya-history-v2.webp"},
   {
     id: "ar-estancia-la-candelaria-history-v2",
+    description: "A remote Jesuit estate located in the mountains of Córdoba, historic for its rural colonial life.",
+    facts: [
+      "Jesuit estate",
+      "Córdoba mountains",
+      "Colonial rural life",
+      "Historic site"
+],
     type: "historical",
     parent: "AR-X",
     coords: [-64.8466, -31.0944],
@@ -257,6 +334,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-estancia-la-candelaria-history-v2.webp"},
   {
     id: "ar-monumento-bandera-history-v2",
+    description: "A major monument in Rosario, dedicated to the creation of the Argentine flag by Manuel Belgrano.",
+    facts: [
+      "National monument",
+      "Rosario city",
+      "Flag history",
+      "Belgrano's legacy"
+],
     type: "historical",
     parent: "AR-S",
     coords: [-60.6277, -32.9477],
@@ -280,6 +364,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-monumento-bandera-history-v2.webp"},
   {
     id: "ar-cayasta-ruins-history-v2",
+    description: "The archaeological site of the first city of Santa Fe, destroyed and then abandoned.",
+    facts: [
+      "Archaeological site",
+      "First Santa Fe",
+      "16th century",
+      "Historic ruins"
+],
     type: "historical",
     parent: "AR-S",
     coords: [-60.161, -31.1969],
@@ -303,6 +394,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-cayasta-ruins-history-v2.webp"},
   {
     id: "ar-shincal-quimivil-history-v2",
+    description: "An significant archaeological site showcasing Inca architecture and influence in Catamarca.",
+    facts: [
+      "Inca site",
+      "Archaeological ruins",
+      "Catamarca region",
+      "Inca heritage"
+],
     type: "historical",
     parent: "AR-K",
     coords: [-67.0166, -27.7011],
@@ -326,6 +424,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-shincal-quimivil-history-v2.webp"},
   {
     id: "ar-tastil-ruins-history-v2",
+    description: "A pre-Columbian city in the Salta region, representing indigenous urban planning before the colonial period.",
+    facts: [
+      "Pre-Columbian site",
+      "Salta region",
+      "Indigenous history",
+      "Historic city"
+],
     type: "historical",
     parent: "AR-A",
     coords: [-65.9189, -24.4533],
@@ -349,6 +454,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-tastil-ruins-history-v2.webp"},
   {
     id: "ar-potrero-payogasta-history-v2",
+    description: "A historical site reflecting early indigenous settlements in the Salta region.",
+    facts: [
+      "Historic settlement",
+      "Salta region",
+      "Indigenous site",
+      "Pre-colonial"
+],
     type: "historical",
     parent: "AR-A",
     coords: [-66.0461, -25.0483],
@@ -372,6 +484,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-potrero-payogasta-history-v2.webp"},
   {
     id: "ar-posta-yatasto-history-v2",
+    description: "A historic colonial post station where key independence figures met during the war.",
+    facts: [
+      "Colonial post",
+      "Independence war",
+      "Salta region",
+      "Historic meeting"
+],
     type: "historical",
     parent: "AR-A",
     coords: [-64.9575, -25.5683],
@@ -395,6 +514,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-posta-yatasto-history-v2.webp"},
   {
     id: "ar-iglesia-yavi-history-v2",
+    description: "A unique colonial church in Yavi, significant for its architectural and historical value in Jujuy.",
+    facts: [
+      "Colonial church",
+      "Jujuy province",
+      "Historic architecture",
+      "17th century"
+],
     type: "historical",
     parent: "AR-Y",
     coords: [-65.4594, -22.1311],
@@ -418,6 +544,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-iglesia-yavi-history-v2.webp"},
   {
     id: "ar-capilla-casabindo-history-v2",
+    description: "A historic chapel famous for its religious and cultural significance in the Jujuy highlands.",
+    facts: [
+      "Historic chapel",
+      "Jujuy highlands",
+      "Religious site",
+      "Indigenous influence"
+],
     type: "historical",
     parent: "AR-Y",
     coords: [-66.0211, -22.9772],
@@ -441,6 +574,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-capilla-casabindo-history-v2.webp"},
   {
     id: "ar-fuerte-patagones-history-v2",
+    description: "The site of a historical fort that played a crucial role in the defense and expansion of the Patagonia region.",
+    facts: [
+      "Historical fort",
+      "Patagonia defense",
+      "Colonial era",
+      "Historic site"
+],
     type: "historical",
     parent: "AR-B",
     coords: [-62.9819, -40.7969],
@@ -464,6 +604,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-fuerte-patagones-history-v2.webp"},
   {
     id: "ar-palacio-san-jose-history-v2",
+    description: "The historical residence of Justo José de Urquiza, a key figure in Argentina's constitutional development.",
+    facts: [
+      "Historical residence",
+      "Urquiza's home",
+      "Entre Ríos",
+      "19th century"
+],
     type: "historical",
     parent: "AR-E",
     coords: [-58.2619, -32.4042],
@@ -487,6 +634,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-palacio-san-jose-history-v2.webp"},
   {
     id: "ar-casa-virrey-liniers-history-v2",
+    description: "A historic colonial house associated with Viceroy Santiago de Liniers, reflecting colonial history.",
+    facts: [
+      "Colonial house",
+      "Viceroy Liniers",
+      "Buenos Aires",
+      "Historic landmark"
+],
     type: "historical",
     parent: "AR-X",
     coords: [-64.43, -31.655],
@@ -510,6 +664,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-casa-virrey-liniers-history-v2.webp"},
   {
     id: "ar-casa-sarmiento-history-v2",
+    description: "The birthplace and historical home of Domingo Faustino Sarmiento, a former Argentine president.",
+    facts: [
+      "Sarmiento birthplace",
+      "San Juan province",
+      "National figure",
+      "Historic site"
+],
     type: "historical",
     parent: "AR-J",
     coords: [-68.5253, -31.5367],
@@ -533,6 +694,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-casa-sarmiento-history-v2.webp"},
   {
     id: "ar-cabildo-salta-history-v2",
+    description: "A well-preserved colonial building that functioned as the administrative center in Salta.",
+    facts: [
+      "Colonial building",
+      "Salta province",
+      "Administrative center",
+      "Historic landmark"
+],
     type: "historical",
     parent: "AR-A",
     coords: [-65.4103, -24.7892],
@@ -556,6 +724,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-cabildo-salta-history-v2.webp"},
   {
     id: "ar-convento-san-bernardo-history-v2",
+    description: "A historic convent in Salta, showcasing impressive colonial architecture and religious heritage.",
+    facts: [
+      "Historic convent",
+      "Salta province",
+      "Colonial architecture",
+      "Religious site"
+],
     type: "historical",
     parent: "AR-A",
     coords: [-65.4053, -24.7897],
@@ -579,6 +754,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-convento-san-bernardo-history-v2.webp"},
   {
     id: "ar-ruinas-tolombon-history-v2",
+    description: "Archaeological ruins in the Salta region, reflecting the lifestyle of indigenous cultures.",
+    facts: [
+      "Archaeological site",
+      "Salta region",
+      "Indigenous ruins",
+      "Historic past"
+],
     type: "historical",
     parent: "AR-A",
     coords: [-65.9542, -26.195],
@@ -602,6 +784,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-ruinas-tolombon-history-v2.webp"},
   {
     id: "ar-pucara-aconquija-history-v2",
+    description: "A mountain fortress demonstrating advanced indigenous engineering in the Catamarca region.",
+    facts: [
+      "Mountain fortress",
+      "Catamarca region",
+      "Inca heritage",
+      "Archaeological site"
+],
     type: "historical",
     parent: "AR-K",
     coords: [-65.9819, -27.7122],
@@ -625,6 +814,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-pucara-aconquija-history-v2.webp"},
   {
     id: "ar-los-menhires-history-v2",
+    description: "A collection of ancient carved stones, significant for its pre-colonial cultural and artistic value.",
+    facts: [
+      "Carved stones",
+      "Pre-colonial art",
+      "Tucumán region",
+      "Indigenous history"
+],
     type: "historical",
     parent: "AR-T",
     coords: [-65.7192, -26.8539],
@@ -648,6 +844,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-los-menhires-history-v2.webp"},
   {
     id: "ar-capilla-huerfanos-history-v2",
+    description: "A historic chapel with religious and community importance, reflecting colonial social structures.",
+    facts: [
+      "Historic chapel",
+      "Córdoba region",
+      "Colonial period",
+      "Community landmark"
+],
     type: "historical",
     parent: "AR-X",
     coords: [-64.1811, -31.4172],
@@ -671,6 +874,13 @@ export const poiExtraArgentinaHistoryV2: POI[] = [
     }, image: "/poi-images/ar-capilla-huerfanos-history-v2.webp"},
   {
     id: "ar-reduccion-yapeyu-history-v2",
+    description: "The birthplace of General José de San Martín, a site of immense historical pride for Argentina.",
+    facts: [
+      "San Martín birthplace",
+      "Corrientes province",
+      "Jesuit history",
+      "National symbol"
+],
     type: "historical",
     parent: "AR-W",
     coords: [-56.8166, -29.4666],

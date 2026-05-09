@@ -21,12 +21,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Este cel mai înalt punct din arhipelagul filipinez.", "Vârful este format dintr-un dom de lavă dacitică acoperit cu depozite de sulf.", "Prezintă pante cu înclinație mare, fiind rezultatul unor mii de ani de erupții constructive.", "Sistemul geotermal de pe munte furnizează o parte semnificativă din electricitatea insulei Mindanao.", "Muntele Apo influențează clima locală, creând un efect de umbră de ploaie în anumite zone.", "Solurile vulcanice de pe versanții inferiori sunt extrem de fertile, favorizând agricultura.", "Vârful muntelui poate înregistra temperaturi apropiate de zero grade în timpul nopții."]
     },
-    factsAdvanced: {
-      hu: ["A Fülöp-szigetek legmagasabb pontja (2.954 m).", "Masszív sztratovulkán három markáns csúccsal.", "A csúcsrégiót vulkáni kőzetek és törmelékmezők jellemzik.", "Aktív szolfatárákkal rendelkezik, amelyek forró kénes gázokat bocsátanak ki.", "Meredek nyugati és lankásabb keleti oldala van.", "A domborzat számos vízesésnek ad otthont az alsóbb lejtőkön.", "A Venado-tó a magashegyi domborzat egyik legfőbb jellemzője.", "Stratégiai kilátópont a Davao-öböl felett."]
-    },
-    factsAdvanced: {
-      de: ["Höchster Punkt der Philippinen (2.954 m).", "Massiver Stratovulkan mit drei markanten Gipfeln.", "Gipfelregion ist durch vulkanische Felsen und Geröllfelder geprägt.", "Besitzt aktive Solfataren, die heiße Schwefelgase ausstoßen.", "Steile Westflanke und sanfter abfallende Ostflanke.", "Topografie beherbergt zahlreiche Wasserfälle an den unteren Hängen.", "Der Venado-See ist ein markantes Merkmal des Hochreliefs.", "Strategischer Aussichtspunkt über den Golf von Davao."]
-    }
+    
+    
   },
     description: {
       de: "Der höchste Berg der Philippinen, ein ruhender Vulkan auf der Insel Mindanao.",
@@ -40,18 +36,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Altitudine: 2.954 metri", "Destinație populară pentru alpiniști", "Habitatul acvilei filipineze"],
       en: ["Elevation: 2,954 meters", "Popular destination for climbers", "Home to the Philippine eagle"]
     }, image: "/poi-images/ph-mount-apo-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der höchste Berg der Philippinen, ein ruhender Vulkan auf der Insel Mindanao. Höhe: 2.954 Meter. Beliebtes Ziel für Bergsteiger. Heimat des philippinischen Adlers. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu. Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten.",
-      hu: "A Fülöp-szigetek legmagasabb hegye, egy szunnyadó vulkán Mindanao szigetén. Magassága: 2954 méter. Népszerű hegymászó célpont. A Fülöp-szigeteki sas otthona. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu. Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait.",
-      ro: "Cel mai înalt munte din Filipine, un vulcan latent pe insula Mindanao. Altitudine: 2.954 metri. Destinație populară pentru alpiniști. Habitatul acvilei filipineze. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific. Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.",
-      en: "The highest mountain in the Philippines, a dormant volcano located on the island of Mindanao. Elevation: 2,954 meters. Popular destination for climbers. Home to the Philippine eagle. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Höhe: 2.954 Meter", "Beliebtes Ziel für Bergsteiger", "Heimat des philippinischen Adlers", "Der höchste Berg der Philippinen, ein ruhender Vulkan auf der Insel Mindanao.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Magassága: 2954 méter", "Népszerű hegymászó célpont", "A Fülöp-szigeteki sas otthona", "A Fülöp-szigetek legmagasabb hegye, egy szunnyadó vulkán Mindanao szigetén.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Altitudine: 2.954 metri", "Destinație populară pentru alpiniști", "Habitatul acvilei filipineze", "Cel mai înalt munte din Filipine, un vulcan latent pe insula Mindanao.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Elevation: 2,954 meters", "Popular destination for climbers", "Home to the Philippine eagle", "The highest mountain in the Philippines, a dormant volcano located on the island of Mindanao.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-pulag-mountain-relief-v2",
@@ -72,12 +58,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Este supranumit 'Locul de joacă al zeilor' datorită norilor care înconjoară vârful.", "Climatul de pe vârf este temperat-rece, cu îngheț frecvent în lunile decembrie și ianuarie.", "Pajiștile de pe culme sunt formate din specii endemice de iarbă de bambus pitic.", "Muntele se află la granița provinciilor Benguet, Ifugao și Nueva Vizcaya.", "Patru specii de bambus montan se găsesc exclusiv pe acest munte.", "Traseele de ascensiune variază de la drumeții ușoare (Ambangeg) la trasee dificile (Akiki).", "Este un sit protejat sub administrarea Departamentului de Mediu și Resurse Naturale (DENR)."]
     },
-    factsAdvanced: {
-      hu: ["A Központi-Kordillerák és Luzon legmagasabb csúcsa (2.922 m).", "Híres a kora reggeli 'Sea of Clouds' (felhőtenger) látványáról.", "A csúcszóna egyedülálló montán füves pusztából áll.", "Itt mérik az ország legalacsonyabb hőmérsékleteit (gyakran 0 fok alatt).", "A Mount Pulag Nemzeti Park központja (kb. 11 500 hektár).", "Az ibaloi és kalanguya törzsek szent temetkezési helye.", "Az Agno és Magat folyók forrásvidékeként szolgál.", "Itt találhatók a magashegyi domborzatra jellemző törpe bambuszerdők."]
-    },
-    factsAdvanced: {
-      de: ["Höchster Gipfel der Zentralkordillere und von Luzon (2.922 m).", "Berühmt für das 'Sea of Clouds' (Wolkenmeer) am frühen Morgen.", "Gipfelzone besteht aus einer einzigartigen montanen Graslandschaft.", "Niedrigste Temperaturen des Landes werden hier gemessen (oft unter 0 Grad).", "Zentrum des Mount Pulag National Park (ca. 11.500 Hektar).", "Heiliger Bestattungsort für die Stämme der Ibaloi und Kalanguya.", "Dient als Quelle für die Flüsse Agno und Magat.", "Beherbergt Zwergbambuswälder, die für das Hochrelief typisch sind."]
-    }
+    
+    
   },
     description: {
       de: "Der höchste Berg Luzons, bekannt für sein 'Wolkenmeer' und die reiche Artenvielfalt.",
@@ -91,18 +73,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Al treilea cel mai înalt munte din Filipine", "Pajiști și păduri de bambus pitic", "Loc sacru pentru triburile indigene"],
       en: ["Third highest mountain in the Philippines", "Grasslands and dwarf bamboo forests", "Sacred site for indigenous tribes"]
     }, image: "/poi-images/ph-pulag-mountain-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der höchste Berg Luzons, bekannt für sein 'Wolkenmeer' und die reiche Artenvielfalt. Drittöchster Berg der Philippinen. Graslandschaften und Zwergbambuswälder. Heiliger Ort für indigene Stämme. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu. Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten.",
-      hu: "Luzon legmagasabb hegye, amely a 'felhőtengeréről' és gazdag biodiverzitásáról ismert. A Fülöp-szigetek harmadik legmagasabb hegye. Füves területek és törpe bambuszerdők. Szent hely az őslakos törzsek számára. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "Cel mai înalt munte din Luzon, faimos pentru 'marea sa de nori' și biodiversitatea bogată. Al treilea cel mai înalt munte din Filipine. Pajiști și păduri de bambus pitic. Loc sacru pentru triburile indigene. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "The highest peak in Luzon, famous for its 'sea of clouds' and rich biodiversity. Third highest mountain in the Philippines. Grasslands and dwarf bamboo forests. Sacred site for indigenous tribes. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Drittöchster Berg der Philippinen", "Graslandschaften und Zwergbambuswälder", "Heiliger Ort für indigene Stämme", "Der höchste Berg Luzons, bekannt für sein 'Wolkenmeer' und die reiche Artenvielfalt.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["A Fülöp-szigetek harmadik legmagasabb hegye", "Füves területek és törpe bambuszerdők", "Szent hely az őslakos törzsek számára", "Luzon legmagasabb hegye, amely a 'felhőtengeréről' és gazdag biodiverzitásáról ismert.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Al treilea cel mai înalt munte din Filipine", "Pajiști și păduri de bambus pitic", "Loc sacru pentru triburile indigene", "Cel mai înalt munte din Luzon, faimos pentru 'marea sa de nori' și biodiversitatea bogată.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Third highest mountain in the Philippines", "Grasslands and dwarf bamboo forests", "Sacred site for indigenous tribes", "The highest peak in Luzon, famous for its 'sea of clouds' and rich biodiversity.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-mayon-volcano-relief-v2",
@@ -123,12 +95,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Mayon este cel mai activ vulcan din Filipine, cu erupții frecvente în secolul XXI.", "Panta versanților superiori depășește adesea 35-40 de grade.", "Efectul vizual de 'con perfect' este mai pronunțat dinspre orașul Legazpi.", "Morfologia vulcanului include fluxuri piroclastice extrem de rapide și periculoase.", "Solul vulcanic din jurul bazei este vital pentru producția de canabă (abaca).", "Este înconjurat de o zonă de pericol permanent de 6 kilometri raza.", "Vulcanul a crescut în înălțime cu câțiva metri în urma depunerilor recente de lavă."]
     },
-    factsAdvanced: {
-      hu: ["Tökéletes kúp alakjáról (Perfect Cone) ismert.", "Sztratovulkán meredek, akár 40 fokos dőlésszöggel.", "Alapjának kerülete kb. 130 kilométer.", "A csúcskráter átmérője körülbelül 500 méter.", "A domborzatot folyamatosan új láva- és hamulerakódások formálják.", "A síkságig érő lahar-csatornák jellemzik.", "A felső lejtők laza vulkáni törmelékből állnak.", "A Bicol-félsziget ikonikus domborzati eleme."]
-    },
-    factsAdvanced: {
-      de: ["Bekannt für seine perfekte Kegelform (Perfect Cone).", "Stratovulkan mit einem steilen Neigungswinkel von bis zu 40 Grad.", "Basisumfang von ca. 130 Kilometern.", "Gipfelkrater hat einen Durchmesser von etwa 500 Metern.", "Das Relief wird ständig durch neue Lava- und Ascheablagerungen geformt.", "Gekennzeichnet durch Laharkanäle, die bis in die Tiefebene reichen.", "Die oberen Hänge bestehen aus losem vulkanischem Geröll.", "Ikonisches Relief der Bicol-Halbinsel."]
-    }
+    
+    
   },
     description: {
       de: "Ein aktiver Vulkan, bekannt für seinen fast perfekten Kegel.",
@@ -142,18 +110,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Situat în provincia Albay", "Cele mai frecvente erupții dintre vulcanii filipinezi", "Periculos și frumos în același timp"],
       en: ["Located in the province of Albay", "Most frequent eruptions of any Philippine volcano", "Simultaneously dangerous and beautiful"]
     }, image: "/poi-images/ph-mayon-volcano-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Ein aktiver Vulkan, bekannt für seinen fast perfekten Kegel. Lage in der Provinz Albay. Häufigste Eruptionen aller philippinischen Vulkane. Gefährlich und schön zugleich. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu. Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten.",
-      hu: "Aktív vulkán, amely szinte tökéletes kúp alakjáról ismert. Albay tartományban található. A Fülöp-szigeteki vulkánok közül a leggyakrabban tör ki. Veszélyes és gyönyörű egyszerre. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "Un vulcan activ renumit pentru conul său aproape perfect. Situat în provincia Albay. Cele mai frecvente erupții dintre vulcanii filipinezi. Periculos și frumos în același timp. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "An active volcano famous for its almost perfect cone shape. Located in the province of Albay. Most frequent eruptions of any Philippine volcano. Simultaneously dangerous and beautiful. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Lage in der Provinz Albay", "Häufigste Eruptionen aller philippinischen Vulkane", "Gefährlich und schön zugleich", "Ein aktiver Vulkan, bekannt für seinen fast perfekten Kegel.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Albay tartományban található", "A Fülöp-szigeteki vulkánok közül a leggyakrabban tör ki", "Veszélyes és gyönyörű egyszerre", "Aktív vulkán, amely szinte tökéletes kúp alakjáról ismert.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Situat în provincia Albay", "Cele mai frecvente erupții dintre vulcanii filipinezi", "Periculos și frumos în același timp", "Un vulcan activ renumit pentru conul său aproape perfect.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Located in the province of Albay", "Most frequent eruptions of any Philippine volcano", "Simultaneously dangerous and beautiful", "An active volcano famous for its almost perfect cone shape.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-cagayan-valley-relief-v2",
@@ -174,12 +132,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Valea se întinde pe o lungime de peste 250 de kilometri și o lățime de 80 de kilometri.", "Sierra Madre funcționează ca o barieră naturală împotriva taifunurilor venite din Pacific.", "Râul Cagayan transportă cantități enorme de sedimente din munți către mare.", "Aici s-au descoperit resturi de hominizi antici și faună dispărută (stegodon).", "Regiunea are un climat marcat de sezoane ploioase intense care provoacă inundații.", "Câmpia este presărată cu numeroase 'meandre părăsite' ale râului principal.", "Este considerată coloana vertebrală a securității alimentare pentru nordul Luzonului."]
     },
-    factsAdvanced: {
-      hu: ["Luzon északi részének legnagyobb alföldi területe.", "A Sierra Madre, a Kordillerák és a Caraballo-hegység zárja körbe.", "Fő vízelvezetője a Cagayan-folyó.", "Az északi rész legfontosabb rizs- és kukoricatermelő régiója.", "A domborzat miatt itt mérik az ország legmagasabb hőmérsékleteit.", "Termékeny hordalékos (alluviális) lerakódásokból áll.", "Történelmileg jelentős őskori leletek lelőhelye.", "Stratégiai kapu Észak-Luzon ellátása szempontjából."]
-    },
-    factsAdvanced: {
-      de: ["Größte Tiefebene im Norden von Luzon.", "Umschlossen von den Sierra Madre, Cordillera und Caraballo Bergen.", "Hauptentwässerung erfolgt durch den Cagayan River.", "Wichtigste Anbauregion für Reis und Mais im Norden.", "Topografie führt zu den höchsten gemessenen Temperaturen des Landes.", "Besteht aus fruchtbaren alluvialen Ablagerungen.", "Historisch bedeutend als Fundort prähistorischer Artefakte.", "Strategische Lage als Portal für die Versorgung Nord-Luzons."]
-    }
+    
+    
   },
     description: {
       de: "Ein großes Tal im Nordosten von Luzon, durch das der längste Fluss der Philippinen, der Cagayan, fließt.",
@@ -193,18 +147,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Înconjurată de munții Sierra Madre și Cordillera Central", "Regiune agricolă importantă", "Bogat în situri arheologice"],
       en: ["Enclosed by the Sierra Madre and Cordillera Central mountain ranges", "Major agricultural region", "Rich in archaeological sites"]
     }, image: "/poi-images/ph-cagayan-valley-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Ein großes Tal im Nordosten von Luzon, durch das der längste Fluss der Philippinen, der Cagayan, fließt. Umschlossen von den Sierra Madre und Cordillera Central Gebirgen. Wichtige landwirtschaftliche Region. Reich an archäologischen Stätten. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Egy nagy völgy Luzon északkeleti részén, amelyet a Fülöp-szigetek leghosszabb folyója, a Cagayan szel át. A Sierra Madre és a Cordillera Central hegységek veszik körül. Fontos mezőgazdasági régió. Régészeti lelőhelyekben gazdag. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "O vale mare în nord-estul Luzonului, drenată de cel mai lung râu din Filipine, râul Cagayan. Înconjurată de munții Sierra Madre și Cordillera Central. Regiune agricolă importantă. Bogat în situri arheologice. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "A large valley in northeastern Luzon, drained by the country's longest river, the Cagayan River. Enclosed by the Sierra Madre and Cordillera Central mountain ranges. Major agricultural region. Rich in archaeological sites. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Umschlossen von den Sierra Madre und Cordillera Central Gebirgen", "Wichtige landwirtschaftliche Region", "Reich an archäologischen Stätten", "Ein großes Tal im Nordosten von Luzon, durch das der längste Fluss der Philippinen, der Cagayan, fließt.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["A Sierra Madre és a Cordillera Central hegységek veszik körül", "Fontos mezőgazdasági régió", "Régészeti lelőhelyekben gazdag", "Egy nagy völgy Luzon északkeleti részén, amelyet a Fülöp-szigetek leghosszabb folyója, a Cagayan szel át.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Înconjurată de munții Sierra Madre și Cordillera Central", "Regiune agricolă importantă", "Bogat în situri arheologice", "O vale mare în nord-estul Luzonului, drenată de cel mai lung râu din Filipine, râul Cagayan.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Enclosed by the Sierra Madre and Cordillera Central mountain ranges", "Major agricultural region", "Rich in archaeological sites", "A large valley in northeastern Luzon, drained by the country's longest river, the Cagayan River.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-bukidnon-plateau-relief-v2",
@@ -225,12 +169,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Este cunoscut drept 'Coșul de fructe al Mindanao' datorită producției masive de ananas.", "Altitudinea oferă un climat răcoros, similar cu cel din zona mediteraneană.", "Platoul este străbătut de râuri majore precum Pulangi și Cagayan.", "Canionul Del Monte este unul dintre cele mai vizibile elemente de relief din zonă.", "Solurile sunt bogate în minerale datorită activității vulcanice antice.", "Se învecinează cu cele mai înalte vârfuri din Mindanao.", "Zona este renumită pentru pășunile sale vaste unde se cresc vitele."]
     },
-    factsAdvanced: {
-      hu: ["Átlagos magassága 300 és 900 méter között van.", "Vulkanikus talajokból és kiterjedt füves pusztákból áll.", "Mély kanyonokat és szurdokokat foglal magában, mint a Mangima-kanyon.", "Mindanao 'éléskamrájának' és 'gyümölcskosarának' tartják.", "A Mount Kitanglad, az ország negyedik legmagasabb hegye határolja.", "Fontos vízgyűjtő terület a Pulangi és Agusan folyók számára.", "A topográfia lehetővé teszi a mérsékelt égövi haszonnövények termesztését.", "Széles panorámát nyújt Mindanao belső területeire."]
-    },
-    factsAdvanced: {
-      de: ["Durchschnittliche Höhe zwischen 300 und 900 Metern.", "Besteht aus vulkanischen Böden und weitläufigen Grasländern.", "Umfasst tiefe Canyons und Schluchten wie den Mangima Canyon.", "Gilt als 'Kornkammer' und 'Früchtekorb' von Mindanao.", "Begrenzt durch den Mount Kitanglad, den vierthöchsten Berg des Landes.", "Wichtiges Wassereinzugsgebiet für den Pulangi und Agusan Fluss.", "Topografie ermöglicht den Anbau von Nutzpflanzen der gemäßigten Zone.", "Bietet weite Panoramablicke über das Landesinnere von Mindanao."]
-    }
+    
+    
   },
     description: {
       de: "Ein ausgedehntes Hochland in Zentral-Mindanao, bekannt als die 'Ananas-Hauptstadt' der Philippinen.",
@@ -244,18 +184,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Producător major de ananas și banane", "Climă mai răcoroasă decât zonele de coastă", "Acasă pentru mai multe grupuri indigene"],
       en: ["Major producer of pineapples and bananas", "Cooler climate than the coastal areas", "Home to several indigenous groups"]
     }, image: "/poi-images/ph-bukidnon-plateau-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Ein ausgedehntes Hochland in Zentral-Mindanao, bekannt als die 'Ananas-Hauptstadt' der Philippinen. Wichtiger Produzent von Ananas und Bananen. Kühleres Klima als die Küstengebiete. Heimat mehrerer indigener Gruppen. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Egy kiterjedt fennsík Közép-Mindanaóban, amelyet a Fülöp-szigetek 'ananász fővárosaként' ismernek. Jelentős ananász- és banántermelő. Hűvösebb éghajlat, mint a part menti területeken. Több őslakos csoport otthona. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "Un platou vast în centrul Mindanao, cunoscut drept 'capitala ananasului' din Filipine. Producător major de ananas și banane. Climă mai răcoroasă decât zonele de coastă. Acasă pentru mai multe grupuri indigene. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "A vast plateau in Central Mindanao, known as the 'Pineapple Capital' of the Philippines. Major producer of pineapples and bananas. Cooler climate than the coastal areas. Home to several indigenous groups. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Wichtiger Produzent von Ananas und Bananen", "Kühleres Klima als die Küstengebiete", "Heimat mehrerer indigener Gruppen", "Ein ausgedehntes Hochland in Zentral-Mindanao, bekannt als die 'Ananas-Hauptstadt' der Philippinen.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Jelentős ananász- és banántermelő", "Hűvösebb éghajlat, mint a part menti területeken", "Több őslakos csoport otthona", "Egy kiterjedt fennsík Közép-Mindanaóban, amelyet a Fülöp-szigetek 'ananász fővárosaként' ismernek.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Producător major de ananas și banane", "Climă mai răcoroasă decât zonele de coastă", "Acasă pentru mai multe grupuri indigene", "Un platou vast în centrul Mindanao, cunoscut drept 'capitala ananasului' din Filipine.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Major producer of pineapples and bananas", "Cooler climate than the coastal areas", "Home to several indigenous groups", "A vast plateau in Central Mindanao, known as the 'Pineapple Capital' of the Philippines.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-chocolate-hills-relief-v2",
@@ -276,12 +206,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Dealurile au înălțimi cuprinse între 30 și 120 de metri.", "Sunt formate din calcar coralier bogat în fosile marine.", "Există peste 1.700 de astfel de dealuri pe o suprafață de 50 km².", "Vârful dealurilor este acoperit de o iarbă specială (Imperata cylindrica).", "Sunt considerate o formă de relief de tip 'mogote' în stadiu avansat.", "Punctul de observație principal se află în localitatea Carmen.", "Oamenii de știință studiază încă procesele hidrogeologice care au creat uniformitatea lor."]
     },
-    factsAdvanced: {
-      hu: ["Egyedülálló kúpkarszt-formáció kb. 1.268 dombból.", "A dombok magassága 30 és 120 méter között váltakozik.", "Mállott tengeri mészkőből épülnek fel.", "Körülbelül 50 négyzetkilométernyi területet fednek le.", "Erózió és tektonikus emelkedés révén jöttek létre.", "A domborzat adja Bohol turisztikai identitásának alapját.", "A dombok közötti völgyekben gyakran rizst termesztenek.", "A Fülöp-szigetek Nemzeti Geológiai Emlékműve."]
-    },
-    factsAdvanced: {
-      de: ["Einzigartige Kegelkarstformation aus ca. 1.268 Hügeln.", "Hügelhöhen variieren zwischen 30 und 120 Metern.", "Besteht aus verwittertem marinen Kalkstein.", "Umfasst eine Fläche von etwa 50 Quadratkilometern.", "Entstanden durch Erosion und tektonische Hebung.", "Das Relief ist namensgebend für die touristische Identität Bohols.", "In den Tälern zwischen den Hügeln wird oft Reis angebaut.", "Nationales Geologisches Monument der Philippinen."]
-    }
+    
+    
   },
     description: {
       de: "Eine geologische Formation in der Provinz Bohol, die aus mindestens 1.268 kegelförmigen Hügeln besteht.",
@@ -295,18 +221,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Dealurile devin maro în timpul sezonului uscat", "Monument geologic național", "Formate prin ridicarea depozitelor de corali"],
       en: ["The hills turn brown during the dry season", "National Geological Monument", "Formed by the uplift of coral deposits"]
     }, image: "/poi-images/ph-chocolate-hills-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Eine geologische Formation in der Provinz Bohol, die aus mindestens 1.268 kegelförmigen Hügeln besteht. Die Hügel werden in der Trockenzeit braun. Nationales geologisches Denkmal. Entstanden durch die Anhebung von Korallenablagerungen. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Egy geológiai képződmény Bohol tartományban, amely legalább 1268 kúp alakú hegyből áll. A dombok a száraz évszakban barnára színeződnek. Nemzeti geológiai emlékmű. Korall lerakódások felemelkedésével jött létre. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "O formațiune geologică în provincia Bohol, compusă din cel puțin 1.268 de dealuri conice. Dealurile devin maro în timpul sezonului uscat. Monument geologic național. Formate prin ridicarea depozitelor de corali. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "A geological formation in the Bohol province, composed of at least 1,268 conical hills. The hills turn brown during the dry season. National Geological Monument. Formed by the uplift of coral deposits. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Die Hügel werden in der Trockenzeit braun", "Nationales geologisches Denkmal", "Entstanden durch die Anhebung von Korallenablagerungen", "Eine geologische Formation in der Provinz Bohol, die aus mindestens 1.268 kegelförmigen Hügeln besteht.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["A dombok a száraz évszakban barnára színeződnek", "Nemzeti geológiai emlékmű", "Korall lerakódások felemelkedésével jött létre", "Egy geológiai képződmény Bohol tartományban, amely legalább 1268 kúp alakú hegyből áll.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Dealurile devin maro în timpul sezonului uscat", "Monument geologic național", "Formate prin ridicarea depozitelor de corali", "O formațiune geologică în provincia Bohol, compusă din cel puțin 1.268 de dealuri conice.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["The hills turn brown during the dry season", "National Geological Monument", "Formed by the uplift of coral deposits", "A geological formation in the Bohol province, composed of at least 1,268 conical hills.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-laoag-sand-dunes-relief-v2",
@@ -327,12 +243,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Dunele de nisip din La Paz acoperă o suprafață de peste 85 de kilometri pătrați.", "Pot atinge înălțimi de până la 10-20 de metri în anumite secțiuni.", "Zona a fost declarată sit de conservare geologică pentru a preveni exploatarea nisipului.", "A servit ca locație pentru numeroase filme internaționale și locale (ex. 'Mad Max').", "Este singurul sistem de dune de coastă de acest tip din întreg arhipelagul.", "Vânturile musonice (Amihan) joacă un rol crucial în modelarea dunelor.", "Vizitatorii pot experimenta sandboarding-ul pe pantele abrupte de nisip fin."]
     },
-    factsAdvanced: {
-      hu: ["A Fülöp-szigetek legnagyobb dűnemezője (kb. 85 nkm).", "A dűnék magassága elérheti a 30 métert.", "Eolikus domborzat, amelyet a szél és a tengeri áramlatok formáltak.", "Finom kvarchomokból és vulkáni ásványokból áll.", "Híres filmforgatási helyszín (pl. Mad Max, Born on the Fourth of July).", "Ilocos Norte geoturizmusának fontos helyszíne.", "Ritka, specializálódott partmenti növényzet jellemzi.", "Nemzeti Geológiai Emlékművé nyilvánították."]
-    },
-    factsAdvanced: {
-      de: ["Größtes Dünenfeld der Philippinen (ca. 85 qkm).", "Dünen erreichen eine Höhe von bis zu 30 Metern.", "Äolisches Relief, geformt durch Wind und Meeresströmung.", "Besteht aus feinem Quarzsand und vulkanischen Mineralien.", "Bekannt als Drehort für Filme wie 'Mad Max' und 'Born on the Fourth of July'.", "Wichtiger Standort für den Geotourismus in Ilocos Norte.", "Gekennzeichnet durch spärliche, spezialisierte Küstenvegetation.", "Deklariert als Nationales Geologisches Denkmal."]
-    }
+    
+    
   },
     description: {
       de: "Ein ausgedehntes Gebiet mit Küstensanddünen in Ilocos Norte, das an eine Wüste erinnert.",
@@ -346,18 +258,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Popular pentru sandboarding și plimbări cu 4x4", "Locație de filmare pentru filme locale și internaționale", "Se întinde de-a lungul coastei Mării Chinei de Sud"],
       en: ["Popular for sandboarding and 4x4 rides", "Filming location for local and international movies", "Stretches along the coast of the South China Sea"]
     }, image: "/poi-images/ph-laoag-sand-dunes-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Ein ausgedehntes Gebiet mit Küstensanddünen in Ilocos Norte, das an eine Wüste erinnert. Beliebt für Sandboarding und 4x4-Fahrten. Drehort für lokale und internationale Filme. Erstreckt sich entlang der Küste des Südchinesischen Meeres. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Egy kiterjedt tengerparti homokdűne-terület Ilocos Norte-ban, amely egy sivatagra emlékeztet. Népszerű a homokdeszkázás és a 4x4-es túrák miatt. Helyi és nemzetközi filmek forgatási helyszíne. A Dél-kínai-tenger partja mentén húzódik. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "O zonă extinsă de dune de nisip de coastă în Ilocos Norte, asemănătoare unui deșert. Popular pentru sandboarding și plimbări cu 4x4. Locație de filmare pentru filme locale și internaționale. Se întinde de-a lungul coastei Mării Chinei de Sud. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.",
-      en: "An extensive area of coastal sand dunes in Ilocos Norte, resembling a desert. Popular for sandboarding and 4x4 rides. Filming location for local and international movies. Stretches along the coast of the South China Sea. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands."
-    },
-    factsAdvanced: {
-      de: ["Beliebt für Sandboarding und 4x4-Fahrten", "Drehort für lokale und internationale Filme", "Erstreckt sich entlang der Küste des Südchinesischen Meeres", "Ein ausgedehntes Gebiet mit Küstensanddünen in Ilocos Norte, das an eine Wüste erinnert.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Népszerű a homokdeszkázás és a 4x4-es túrák miatt", "Helyi és nemzetközi filmek forgatási helyszíne", "A Dél-kínai-tenger partja mentén húzódik", "Egy kiterjedt tengerparti homokdűne-terület Ilocos Norte-ban, amely egy sivatagra emlékeztet.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Popular pentru sandboarding și plimbări cu 4x4", "Locație de filmare pentru filme locale și internaționale", "Se întinde de-a lungul coastei Mării Chinei de Sud", "O zonă extinsă de dune de nisip de coastă în Ilocos Norte, asemănătoare unui deșert.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Popular for sandboarding and 4x4 rides", "Filming location for local and international movies", "Stretches along the coast of the South China Sea", "An extensive area of coastal sand dunes in Ilocos Norte, resembling a desert.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-palawan-coastline-relief-v2",
@@ -378,12 +280,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Palawan are o lungime a liniei de coastă de peste 2.000 de kilometri.", "Arhitectura stâncoasă face parte dintr-o placă tectonică diferită de restul Filipinelor.", "Include numeroase peșteri marine care sunt accesibile doar la reflux.", "Relieful submarin prezintă căderi verticale (drop-offs) de sute de metri.", "Este presărată cu plaje de 'nisip pudră' formate din corali mărunțiți.", "Cadrul natural protejează satele de pescari de forța directă a taifunurilor.", "Lagunele El Nido sunt bazine de apă adăpostite de pereți înalți de calcar."]
     },
-    factsAdvanced: {
-      hu: ["A Fülöp-szigetek összes tartománya közül a leghosszabb partvonallal rendelkezik.", "Drámai mészkőkarsztok (Karst Tower) jellemzik.", "Több mint 1.700 szigetet és szigetecskét foglal magában.", "Jellemzői a mély fjordok és lagúnák.", "UNESCO világörökségi helyszínek Elsődleges otthona (Tubbataha, Föld alatti folyó).", "Rendelkezik meredek sziklapartokkal és lapos korallstrandokkal is.", "Kiterjedt mangrove-övezetek nyújtanak fontos védelmet a viharok ellen.", "A domborzat a tengeri biodiverzitás paradicsoma."]
-    },
-    factsAdvanced: {
-      de: ["Längste Küstenlinie aller Provinzen der Philippinen.", "Gekennzeichnet durch dramatischen Kalksteinkarst (Karst Tower).", "Umfasst über 1.700 Inseln und Inselchen.", "Tiefe Fjorde und Lagunen sind typische Merkmale.", "Wichtigster Standort für UNESCO-Weltnaturerbestätten (Tubbataha, Unterirdischer Fluss).", "Besitzt sowohl schroffe Steilküsten als auch flache Korallenstrände.", "Wichtiger Schutz gegen Stürme durch ausgedehnte Mangrovengürtel.", "Relief ist ein Paradies für die marine Biodiversität."]
-    }
+    
+    
   },
     description: {
       de: "Die Küste von Palawan ist berühmt für ihre weißen Sandstrände, Kalksteinklippen und das klare türkisfarbene Wasser.",
@@ -397,18 +295,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Include situl de patrimoniu mondial UNESCO El Nido", "Acasă la Parcul Național al Râului Subteran Puerto-Princesa", "Una dintre cele mai bune destinații insulare din lume"],
       en: ["Includes the UNESCO World Heritage site of El Nido", "Home to the Puerto-Princesa Subterranean River National Park", "One of the world's best island destinations"]
     }, image: "/poi-images/ph-palawan-coastline-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Küste von Palawan ist berühmt für ihre weißen Sandstrände, Kalksteinklippen und das klare türkisfarbene Wasser. Beinhaltet das UNESCO-Weltkulturerbe El Nido. Heimat des Puerto-Princesa-Subterranean-River-Nationalparks. Eines der besten Inselziele der Welt. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Palawan partvidéke híres fehér homokos strandjairól, mészkő szikláiról és tiszta, türkizkék vizéről. Magában foglalja az UNESCO Világörökség részét képező El Nidót. A Puerto-Princesa Föld alatti Folyó Nemzeti Park otthona. A világ egyik legjobb szigeti úti célja. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.",
-      ro: "Coasta Palawan este renumită pentru plajele sale cu nisip alb, stâncile de calcar și apele turcoaz limpezi. Include situl de patrimoniu mondial UNESCO El Nido. Acasă la Parcul Național al Râului Subteran Puerto-Princesa. Una dintre cele mai bune destinații insulare din lume. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.",
-      en: "The coastline of Palawan is famous for its white sand beaches, limestone cliffs, and clear turquoise waters. Includes the UNESCO World Heritage site of El Nido. Home to the Puerto-Princesa Subterranean River National Park. One of the world's best island destinations. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands."
-    },
-    factsAdvanced: {
-      de: ["Beinhaltet das UNESCO-Weltkulturerbe El Nido", "Heimat des Puerto-Princesa-Subterranean-River-Nationalparks", "Eines der besten Inselziele der Welt", "Die Küste von Palawan ist berühmt für ihre weißen Sandstrände, Kalksteinklippen und das klare türkisfarbene Wasser.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Magában foglalja az UNESCO Világörökség részét képező El Nidót", "A Puerto-Princesa Föld alatti Folyó Nemzeti Park otthona", "A világ egyik legjobb szigeti úti célja", "Palawan partvidéke híres fehér homokos strandjairól, mészkő szikláiról és tiszta, türkizkék vizéről.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Include situl de patrimoniu mondial UNESCO El Nido", "Acasă la Parcul Național al Râului Subteran Puerto-Princesa", "Una dintre cele mai bune destinații insulare din lume", "Coasta Palawan este renumită pentru plajele sale cu nisip alb, stâncile de calcar și apele turcoaz limpezi.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Includes the UNESCO World Heritage site of El Nido", "Home to the Puerto-Princesa Subterranean River National Park", "One of the world's best island destinations", "The coastline of Palawan is famous for its white sand beaches, limestone cliffs, and clear turquoise waters.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-cordillera-central-relief-v2",
@@ -429,12 +317,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Munții se întind pe o distanță de peste 300 de kilometri de la nord la sud.", "Găzduiește orașul Baguio, situat la o altitudine de 1.500 de metri.", "Include șase provincii cu o diversitate culturală indigenă imensă (Igorot).", "Eroziunea muntoasă alimentează râurile Agno, Magat și Cagayan.", "Există porțiuni vaste de păduri de foioase și pini endemici (Pinus kesiya).", "Este o regiune cu activitate seismică frecventă din cauza faliilor active.", "Terasele de orez Ifugao sunt parte integrantă a topografiei acestor munți."]
     },
-    factsAdvanced: {
-      hu: ["A Fülöp-szigetek legnagyobb és legmagasabb hegylánca.", "Csúcsai elérik a közel 3.000 méteres magasságot (Mount Pulag).", "Tektonikus emelkedés és vulkáni tevékenység formálta.", "Az Agno, Chico és Magat folyók legfontosabb forrásvidéke.", "Itt találhatók a híres banaue-i rizsteraszok.", "Éghajlata jelentősen hűvösebb Luzon többi részénél.", "Gazdag arany-, réz- és egyéb ásványkincsekben.", "Számos őslakos törzs (igorotok) hagyományos élettere."]
-    },
-    factsAdvanced: {
-      de: ["Größte und höchste Gebirgskette der Philippinen.", "Gipfel erreichen Höhen von fast 3.000 Metern (Mount Pulag).", "Geformt durch tektonische Hebung und vulkanische Aktivität.", "Wichtigste Quelle für die Flüsse Agno, Chico und Magat.", "Beherbergt die berühmten Reisterrassen von Banaue.", "Klima ist deutlich kühler als im restlichen Luzon.", "Reich an Gold-, Kupfer- und anderen Mineralvorkommen.", "Traditioneller Lebensraum zahlreicher indigener Stämme (Igorot)."]
-    }
+    
+    
   },
     description: {
       de: "Eine massive Gebirgskette in Nord-Luzon, Heimat der berühmten Reisterrassen von Banaue.",
@@ -448,18 +332,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Cel mai înalt lanț muntos din Filipine", "Acasă pentru multe popoare indigene, inclusiv Igorot", "Terasele de orez sunt un sit al Patrimoniului Mondial UNESCO"],
       en: ["The highest mountain range in the Philippines", "Home to many indigenous peoples, including the Igorot", "The rice terraces are a UNESCO World Heritage Site"]
     }, image: "/poi-images/ph-cordillera-central-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Eine massive Gebirgskette in Nord-Luzon, Heimat der berühmten Reisterrassen von Banaue. Höchste Gebirgskette der Philippinen. Heimat vieler indigener Völker, einschließlich der Igorot. Die Reisterrassen sind ein UNESCO-Weltkulturerbe. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Egy hatalmas hegylánc Észak-Luzonban, amely a híres Banaue rizsteraszok otthona. A Fülöp-szigetek legmagasabb hegylánca. Számos őslakos nép, köztük az igorotok otthona. A rizsteraszok az UNESCO Világörökség részét képezik. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "Un lanț muntos masiv în nordul Luzonului, unde se află faimoasele terase de orez din Banaue. Cel mai înalt lanț muntos din Filipine. Acasă pentru multe popoare indigene, inclusiv Igorot. Terasele de orez sunt un sit al Patrimoniului Mondial UNESCO. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.",
-      en: "A massive mountain range in Northern Luzon, home to the famous Banaue Rice Terraces. The highest mountain range in the Philippines. Home to many indigenous peoples, including the Igorot. The rice terraces are a UNESCO World Heritage Site. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands."
-    },
-    factsAdvanced: {
-      de: ["Höchste Gebirgskette der Philippinen", "Heimat vieler indigener Völker, einschließlich der Igorot", "Die Reisterrassen sind ein UNESCO-Weltkulturerbe", "Eine massive Gebirgskette in Nord-Luzon, Heimat der berühmten Reisterrassen von Banaue.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["A Fülöp-szigetek legmagasabb hegylánca", "Számos őslakos nép, köztük az igorotok otthona", "A rizsteraszok az UNESCO Világörökség részét képezik", "Egy hatalmas hegylánc Észak-Luzonban, amely a híres Banaue rizsteraszok otthona.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Cel mai înalt lanț muntos din Filipine", "Acasă pentru multe popoare indigene, inclusiv Igorot", "Terasele de orez sunt un sit al Patrimoniului Mondial UNESCO", "Un lanț muntos masiv în nordul Luzonului, unde se află faimoasele terase de orez din Banaue.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["The highest mountain range in the Philippines", "Home to many indigenous peoples, including the Igorot", "The rice terraces are a UNESCO World Heritage Site", "A massive mountain range in Northern Luzon, home to the famous Banaue Rice Terraces.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-sierra-madre-relief-v2",
@@ -480,12 +354,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Lanțul muntos traversează 10 provincii din nordul până în sudul Luzonului.", "Muntele Anacuao este unul dintre cele mai înalte vârfuri ale acestui lanț.", "Adăpostește triburile indigene Dumagat care trăiesc în armonie cu pădurea.", "Este considerat scutul principal al Filipinelor în fața dezastrelor naturale.", "Include numeroase parcuri naționale și zone protejate, cum ar fi Aurora Memorial.", "Defrișările ilegale reprezintă principala amenințare la adresa acestui relief.", "Izvorăște din provincia Cagayan și se termină în provincia Quezon."]
     },
-    factsAdvanced: {
-      hu: ["A szigetvilág leghosszabb hegylánca (kb. 540 km).", "Legmagasabb pontja a Mount Busa, körülbelül 2.000 méterrel.", "Természetes akadály a csendes-óceáni tájfunok előtt.", "Itt található az ország legnagyobb megmaradt esőerdő-területe.", "Metro Manila legfontosabb vízgyűjtő területe (Angat-gát).", "Tíz tartományon húzódik keresztül Cagayantól Quezonig.", "Meredek keleti oldala közvetlenül a Csendes-óceánra néz.", "Számos veszélyeztetett endemikus faj utolsó menedéke."]
-    },
-    factsAdvanced: {
-      de: ["Längste Gebirgskette des Archipels (ca. 540 km).", "Höchster Punkt ist der Mount Busa mit ca. 2.000 Metern.", "Naturbarriere gegen pazifische Taifune.", "Beherbergt das größte verbliebene Regenwaldareal des Landes.", "Wichtigstes Wassereinzugsgebiet für Metro Manila (Angat Damm).", "Erstreckt sich durch zehn Provinzen von Cagayan bis Quezon.", "Gekennzeichnet durch eine steile Ostflanke zum Pazifik.", "Letzter Rückzugsort für viele bedrohte endemische Arten."]
-    }
+    
+    
   },
     description: {
       de: "Die längste Gebirgskette der Philippinen, die als natürliche Barriere gegen Taifune dient.",
@@ -499,18 +369,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Se întinde de la provincia Cagayan în nord până la Quezon în sud", "Bogat în floră și faună", "Crucial pentru protejarea Luzonului de sistemele meteorologice"],
       en: ["Stretches from Cagayan province in the north to Quezon in the south", "Rich in flora and fauna", "Crucial for protecting Luzon from weather systems"]
     }, image: "/poi-images/ph-sierra-madre-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Die längste Gebirgskette der Philippinen, die als natürliche Barriere gegen Taifune dient. Erstreckt sich von der Provinz Cagayan im Norden bis Quezon im Süden. Reich an Flora und Fauna. Entscheidend für den Schutz von Luzon vor Wettereinflüssen. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen.",
-      hu: "A Fülöp-szigetek leghosszabb hegylánca, amely természetes gátként szolgál a tájfunok ellen. Az északi Cagayan tartománytól a déli Quezonig terjed. Gazdag növény- és állatvilág. Kulcsfontosságú Luzon védelmében az időjárási viszontagságoktól. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "Cel mai lung lanț muntos din Filipine, acționând ca o barieră naturală împotriva taifunurilor. Se întinde de la provincia Cagayan în nord până la Quezon în sud. Bogat în floră și faună. Crucial pentru protejarea Luzonului de sistemele meteorologice. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.",
-      en: "The longest mountain range in the Philippines, acting as a natural barrier against typhoons. Stretches from Cagayan province in the north to Quezon in the south. Rich in flora and fauna. Crucial for protecting Luzon from weather systems. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands."
-    },
-    factsAdvanced: {
-      de: ["Erstreckt sich von der Provinz Cagayan im Norden bis Quezon im Süden", "Reich an Flora und Fauna", "Entscheidend für den Schutz von Luzon vor Wettereinflüssen", "Die längste Gebirgskette der Philippinen, die als natürliche Barriere gegen Taifune dient.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Az északi Cagayan tartománytól a déli Quezonig terjed", "Gazdag növény- és állatvilág", "Kulcsfontosságú Luzon védelmében az időjárási viszontagságoktól", "A Fülöp-szigetek leghosszabb hegylánca, amely természetes gátként szolgál a tájfunok ellen.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Se întinde de la provincia Cagayan în nord până la Quezon în sud", "Bogat în floră și faună", "Crucial pentru protejarea Luzonului de sistemele meteorologice", "Cel mai lung lanț muntos din Filipine, acționând ca o barieră naturală împotriva taifunurilor.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Stretches from Cagayan province in the north to Quezon in the south", "Rich in flora and fauna", "Crucial for protecting Luzon from weather systems", "The longest mountain range in the Philippines, acting as a natural barrier against typhoons.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-taal-volcano-relief-v2",
@@ -531,12 +391,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Este considerat unul dintre cei mai mici vulcani activi din lume, dar și unul dintre cei mai periculoși.", "Caldera principală s-a format în urma unor erupții preistorice masive.", "Include Main Crater Lake, care a fost temporar secat în timpul erupției din 2020.", "Relieful submarin al Lacului Taal este presărat cu orificii vulcanice active.", "Punctul cel mai înalt al insulei vulcanice are o altitudine de 311 metri.", "Pantele sunt acoperite cu vegetație care se reface rapid după erupții.", "Structura sa geologică unică este o atracție majoră pentru turismul de observație."]
     },
-    factsAdvanced: {
-      hu: ["Komplex vulkán egy 25 km széles kalderán belül.", "Több mint 47 kráterből és számos hamukúpból áll.", "A Vulkán-szigeten lévő fő krátertó markáns domborzati elem.", "Itt figyelhető meg a ritka sziget a krátertóban jelenség.", "A topográfia masszívan megváltozott a 2022 januári kitöréskor.", "A domborzat részben a kaldera tengerszintje alatt fekszik.", "Stratégiai megfigyelés alatt áll a Vulkán-szigeti obszervatórium által.", "A világ egyik legveszélyesebb 'Decade Volcano'-ja."]
-    },
-    factsAdvanced: {
-      de: ["Komplexer Vulkan innerhalb einer 25 km breiten Caldera.", "Besteht aus über 47 Kratern und zahlreichen Aschekegeln.", "Der Hauptkratersee auf der Vulkaninsel ist ein markantes Reliefmerkmal.", "Besitzt das seltene Phänomen einer Insel in einem Kratersee.", "Topografie änderte sich massiv beim Ausbruch im Januar 2020.", "Das Relief liegt teilweise unter dem Meeresspiegel der Caldera.", "Strategisch überwacht durch das Observatorium auf dem Volcano Island.", "Einer der gefährlichsten 'Decade Volcanoes' weltweit."]
-    }
+    
+    
   },
     description: {
       de: "Ein komplexer Vulkan in einem großen Süßwassersee in der Provinz Batangas.",
@@ -550,18 +406,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Unul dintre cei mai activi vulcani din Filipine", "Vulcanul are un lac de crater", "Destinație turistică populară lângă Manila"],
       en: ["One of the most active volcanoes in the Philippines", "The volcano has a crater lake", "Popular tourist destination near Manila"]
     }, image: "/poi-images/ph-taal-volcano-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Ein komplexer Vulkan in einem großen Süßwassersee in der Provinz Batangas. Einer der aktivsten Vulkane der Philippinen. Der Vulkan hat einen Kratersee. Beliebtes Touristenziel in der Nähe von Manila. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Egy összetett vulkán egy nagy édesvizű tóban, Batangas tartományban. A Fülöp-szigetek egyik legaktívabb vulkánja. A vulkánnak krátertava van. Népszerű turisztikai célpont Manila közelében. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "Un vulcan complex situat într-un lac mare de apă dulce în provincia Batangas. Unul dintre cei mai activi vulcani din Filipine. Vulcanul are un lac de crater. Destinație turistică populară lângă Manila. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "A complex volcano located within a large freshwater lake in Batangas province. One of the most active volcanoes in the Philippines. The volcano has a crater lake. Popular tourist destination near Manila. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Einer der aktivsten Vulkane der Philippinen", "Der Vulkan hat einen Kratersee", "Beliebtes Touristenziel in der Nähe von Manila", "Ein komplexer Vulkan in einem großen Süßwassersee in der Provinz Batangas.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["A Fülöp-szigetek egyik legaktívabb vulkánja", "A vulkánnak krátertava van", "Népszerű turisztikai célpont Manila közelében", "Egy összetett vulkán egy nagy édesvizű tóban, Batangas tartományban.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Unul dintre cei mai activi vulcani din Filipine", "Vulcanul are un lac de crater", "Destinație turistică populară lângă Manila", "Un vulcan complex situat într-un lac mare de apă dulce în provincia Batangas.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["One of the most active volcanoes in the Philippines", "The volcano has a crater lake", "Popular tourist destination near Manila", "A complex volcano located within a large freshwater lake in Batangas province.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-mount-pinatubo-relief-v2",
@@ -582,12 +428,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Înălțimea muntelui a scăzut cu aproximativ 300 de metri în urma exploziei din 1991.", "Lacul din crater (Pinatubo Crater Lake) este cel mai adânc lac din Filipine (peste 600 m).", "Relieful din jur este compus din depozite de lahar care pot fi extrem de instabile.", "Canioanele de cenușă oferă un peisaj aproape selenar, unic în arhipelag.", "Sistemul hidrografic al regiunii a fost complet perturbat de depunerile vulcanice.", "Eroziunea rapidă creează forme de relief efemere, care se schimbă la fiecare sezon ploios.", "Este o zonă de studiu prioritară pentru geologii care analizează erupțiile pliniene."]
     },
-    factsAdvanced: {
-      hu: ["A hegycsúcs 1991-ben 1.745 méterről kb. 1.486 méterre süllyedt.", "A domborzat központja egy 2,5 km széles beomlott kaldera.", "A krátertó körülbelül 800 millió köbméter vizet tartalmaz.", "A környezetet több száz méter vastag lahar-lerakódások borítják.", "Mély szakadékokat és 'kanyonokat' formált a gyors erózió.", "A topográfia rendkívül instabil, minden tájfunnal változik.", "A növényzet csak lassan tér vissza a hamuval borított lejtőkre.", "A modern vulkáni domborzatkutatás egyik legfontosabb helyszíne."]
-    },
-    factsAdvanced: {
-      de: ["Der Berggipfel sank 1991 von 1.745 m auf ca. 1.486 m.", "Zentrum des Reliefs ist eine 2,5 km breite Einsturz-Caldera.", "Kratersee enthält ca. 800 Millionen Kubikmeter Wasser.", "Umgebung ist geprägt durch hunderte Meter dicke Lahar-Ablagerungen.", "Tiefe Schluchten und 'Canyons' wurden durch schnelle Erosion geformt.", "Die Topografie ist extrem instabil und ändert sich mit jedem Taifun.", "Vegetation kehrt nur langsam auf die aschebedeckten Hänge zurück.", "Wichtigstes Beispiel für moderne Vulkanrelief-Forschung."]
-    }
+    
+    
   },
     description: {
       de: "Ein aktiver Stratovulkan, dessen gewaltiger Ausbruch im Jahr 1991 globale Temperaturen beeinflusste.",
@@ -601,18 +443,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Craterul este acum umplut cu un lac pitoresc", "Erupția din 1991 a fost a doua cea mai mare din secolul XX", "Popular pentru drumeții la lacul craterului"],
       en: ["The crater is now filled with a scenic lake", "The 1991 eruption was the second-largest of the 20th century", "Popular for trekking to the crater lake"]
     }, image: "/poi-images/ph-mount-pinatubo-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Ein aktiver Stratovulkan, dessen gewaltiger Ausbruch im Jahr 1991 globale Temperaturen beeinflusste. Der Krater ist heute mit einem malerischen See gefüllt. Der Ausbruch von 1991 war der zweitgrößte des 20. Jahrhunderts. Beliebt für Trekkingtouren zum Kratersee. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen.",
-      hu: "Aktív sztratovulkán, amelynek hatalmas, 1991-es kitörése hatással volt a globális hőmérsékletre. A krátert ma egy festői tó tölti ki. Az 1991-es kitörés a 20. század második legnagyobbja volt. Népszerű túracélpont a krátertóhoz. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "Un stratovulcan activ a cărui erupție masivă din 1991 a afectat temperaturile globale. Craterul este acum umplut cu un lac pitoresc. Erupția din 1991 a fost a doua cea mai mare din secolul XX. Popular pentru drumeții la lacul craterului. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.",
-      en: "An active stratovolcano whose massive 1991 eruption affected global temperatures. The crater is now filled with a scenic lake. The 1991 eruption was the second-largest of the 20th century. Popular for trekking to the crater lake. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands."
-    },
-    factsAdvanced: {
-      de: ["Der Krater ist heute mit einem malerischen See gefüllt", "Der Ausbruch von 1991 war der zweitgrößte des 20. Jahrhunderts", "Beliebt für Trekkingtouren zum Kratersee", "Ein aktiver Stratovulkan, dessen gewaltiger Ausbruch im Jahr 1991 globale Temperaturen beeinflusste.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["A krátert ma egy festői tó tölti ki", "Az 1991-es kitörés a 20. század második legnagyobbja volt", "Népszerű túracélpont a krátertóhoz", "Aktív sztratovulkán, amelynek hatalmas, 1991-es kitörése hatással volt a globális hőmérsékletre.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Craterul este acum umplut cu un lac pitoresc", "Erupția din 1991 a fost a doua cea mai mare din secolul XX", "Popular pentru drumeții la lacul craterului", "Un stratovulcan activ a cărui erupție masivă din 1991 a afectat temperaturile globale.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["The crater is now filled with a scenic lake", "The 1991 eruption was the second-largest of the 20th century", "Popular for trekking to the crater lake", "An active stratovolcano whose massive 1991 eruption affected global temperatures.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-compostela-valley-relief-v2",
@@ -633,12 +465,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Valea este renumită pentru 'Muntele de Aur' (Moun Diwata), un centru major de minerit artizanal.", "Topografia regiunii favorizează cultivarea bananelor pe scară largă.", "Include zone de carst și peșteri spectaculoase pe versanții muntoși.", "Râul Agusan își are o parte din izvoare în munții de la marginea acestei văi.", "Relieful este intersectat de falii geologice active, crescând riscul seismic.", "Climatul este umed, fără un sezon uscat bine definit, influențând eroziunea.", "Valea servește ca un coridor natural de transport spre estul Mindanao."]
     },
-    factsAdvanced: {
-      hu: ["Hatalmas tektonikus medence Mindanao délkeleti részén.", "Aranyban gazdag hegyláncok határolják (pl. Mount Diwata).", "Fő vízelvezetője az Agusan-folyó felső szakasza.", "Gazdag arany-, réz- és ezüstlelőhelyekben.", "A topográfia kedvez a banán- és kaucsuktermesztésnek.", "Közvetlenül a Fülöp-szigeteki fő vetőzónán fekszik.", "Termékeny hordalékos talajok jellemzik.", "Csomópont a davao-i partvidék és az Agusan-völgy között."]
-    },
-    factsAdvanced: {
-      de: ["Großes tektonisches Becken im Südosten von Mindanao.", "Begrenzt durch goldreiche Gebirgszüge (z.B. Mount Diwata).", "Hauptentwässerung erfolgt durch den Oberlauf des Agusan River.", "Reich an Gold-, Kupfer- und Silbervorkommen.", "Topografie begünstigt den Anbau von Bananen und Kautschuk.", "Liegt direkt auf der philippinischen Hauptverwerfungszone.", "Gekennzeichnet durch fruchtbare alluviale Böden.", "Knotenpunkt zwischen der Küste von Davao und dem Agusan-Tal."]
-    }
+    
+    
   },
     description: {
       de: "Eine Provinz in der Region Davao, die für ihre landwirtschaftliche Produktion und ihre Goldvorkommen bekannt ist.",
@@ -652,18 +480,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Acum cunoscut sub numele de Davao de Oro", "Producător major de banane și orez", "Terenul este un amestec de văi, munți și câmpii de coastă"],
       en: ["Now known as Davao de Oro", "Major producer of bananas and rice", "The terrain is a mix of valleys, mountains, and coastal plains"]
     }, image: "/poi-images/ph-compostela-valley-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Eine Provinz in der Region Davao, die für ihre landwirtschaftliche Produktion und ihre Goldvorkommen bekannt ist. Jetzt als Davao de Oro bekannt. Wichtiger Produzent von Bananen und Reis. Das Gelände ist eine Mischung aus Tälern, Bergen und Küstenebenen. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen.",
-      hu: "Egy tartomány a Davao régióban, amely mezőgazdasági termeléséről és aranylelőhelyeiről ismert. Ma Davao de Oro néven ismert. Jelentős banán- és rizstermelő. A terület völgyek, hegyek és tengerparti síkságok keveréke. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "O provincie în regiunea Davao, cunoscută pentru producția sa agricolă și depozitele de aur. Acum cunoscut sub numele de Davao de Oro. Producător major de banane și orez. Terenul este un amestec de văi, munți și câmpii de coastă. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.",
-      en: "A province in the Davao Region, known for its agricultural output and gold deposits. Now known as Davao de Oro. Major producer of bananas and rice. The terrain is a mix of valleys, mountains, and coastal plains. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands."
-    },
-    factsAdvanced: {
-      de: ["Jetzt als Davao de Oro bekannt", "Wichtiger Produzent von Bananen und Reis", "Das Gelände ist eine Mischung aus Tälern, Bergen und Küstenebenen", "Eine Provinz in der Region Davao, die für ihre landwirtschaftliche Produktion und ihre Goldvorkommen bekannt ist.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Ma Davao de Oro néven ismert", "Jelentős banán- és rizstermelő", "A terület völgyek, hegyek és tengerparti síkságok keveréke", "Egy tartomány a Davao régióban, amely mezőgazdasági termeléséről és aranylelőhelyeiről ismert.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Acum cunoscut sub numele de Davao de Oro", "Producător major de banane și orez", "Terenul este un amestec de văi, munți și câmpii de coastă", "O provincie în regiunea Davao, cunoscută pentru producția sa agricolă și depozitele de aur.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Now known as Davao de Oro", "Major producer of bananas and rice", "The terrain is a mix of valleys, mountains, and coastal plains", "A province in the Davao Region, known for its agricultural output and gold deposits.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-zambales-coast-relief-v2",
@@ -684,12 +502,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Linia de coastă se întinde pe o lungime de aproximativ 170 de kilometri.", "Include Golful Subic, un port natural de adâncime de importanță strategică.", "Insulele Capones și Camara sunt formațiuni stâncoase iconice din apropierea țărmului.", "Multe plaje au acum un amestec de nisip alb și cenușă vulcanică fină.", "Este o destinație populară pentru surf datorită valurilor deschise ale Mării Filipinelor de Vest.", "Relieful include numeroase estuare care servesc ca locuri de cuibărit pentru păsări.", "Munții din fundal oferă o barieră orografică împotriva vânturilor dinspre est."]
     },
-    factsAdvanced: {
-      hu: ["A Subic-öböl, egy mély természetes kikötő jellemzi.", "A partmenti domborzatot lahar-lerakódások változtatták meg 1991 után.", "Hosszú strandokkal rendelkezik, jellegzetes szürke vulkáni homokkal.", "A Zambales-hegység meredek hátteret alkot a parthoz.", "Számos part menti sziget korallzátonyokkal.", "A tengeri kereskedelem és a turizmus fontos helyszíne.", "Veszélyeztetett a partmenti erózió által az erős északnyugati monszunok idején.", "A topográfia ideális feltételeket kínál a halászathoz."]
-    },
-    factsAdvanced: {
-      de: ["Geprägt durch die Subic Bay, einen tiefen Naturhafen.", "Küstenrelief wurde durch Lahar-Ablagerungen nach 1991 verändert.", "Besitzt lange Strände mit charakteristischem grauen Vulkansand.", "Zambales-Berge bilden eine steile Kulisse zur Küste.", "Zahlreiche vorgelagerte Inseln mit Korallenriffen.", "Wichtiger Standort für den maritimen Handel und Tourismus.", "Gefährdet durch Küstenerosion bei starken Nordwest-Monsunen.", "Topografie bietet ideale Bedingungen für die Fischerei."]
-    }
+    
+    
   },
     description: {
       de: "Eine Küstenlinie, die für ihre felsigen Buchten, Sandstrände und Surfspots bekannt ist.",
@@ -703,18 +517,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Acasă la multe sate pescărești", "Popular pentru camping și sporturi nautice", "Cenușa de la erupția Pinatubo a creat noi plaje de nisip"],
       en: ["Home to many fishing villages", "Popular for camping and water sports", "Ash from the Pinatubo eruption created new sandy beaches"]
     }, image: "/poi-images/ph-zambales-coast-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Eine Küstenlinie, die für ihre felsigen Buchten, Sandstrände und Surfspots bekannt ist. Heimat vieler Fischerdörfer. Beliebt für Camping und Wassersport. Die Asche des Pinatubo-Ausbruchs schuf neue Sandstrände. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Sziklás öbleiről, homokos strandjairól és szörföző helyeiről ismert partvonal. Számos halászfalu otthona. Népszerű a kempingezés és a vízi sportok kedvelői körében. A Pinatubo kitörésének hamuja új homokos strandokat hozott létre. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "O coastă cunoscută pentru golfurile sale stâncoase, plajele cu nisip și locurile de surf. Acasă la multe sate pescărești. Popular pentru camping și sporturi nautice. Cenușa de la erupția Pinatubo a creat noi plaje de nisip. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "A coastline known for its rocky coves, sandy beaches, and surfing spots. Home to many fishing villages. Popular for camping and water sports. Ash from the Pinatubo eruption created new sandy beaches. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Heimat vieler Fischerdörfer", "Beliebt für Camping und Wassersport", "Die Asche des Pinatubo-Ausbruchs schuf neue Sandstrände", "Eine Küstenlinie, die für ihre felsigen Buchten, Sandstrände und Surfspots bekannt ist.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Számos halászfalu otthona", "Népszerű a kempingezés és a vízi sportok kedvelői körében", "A Pinatubo kitörésének hamuja új homokos strandokat hozott létre", "Sziklás öbleiről, homokos strandjairól és szörföző helyeiről ismert partvonal.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Acasă la multe sate pescărești", "Popular pentru camping și sporturi nautice", "Cenușa de la erupția Pinatubo a creat noi plaje de nisip", "O coastă cunoscută pentru golfurile sale stâncoase, plajele cu nisip și locurile de surf.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Home to many fishing villages", "Popular for camping and water sports", "Ash from the Pinatubo eruption created new sandy beaches", "A coastline known for its rocky coves, sandy beaches, and surfing spots.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-mount-kanlaon-relief-v2",
@@ -735,12 +539,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Este cel mai înalt punct din regiunea Visayas, cu o altitudine de 2.435 metri.", "Vârful muntelui este adesea acoperit de ceață și nori orografici.", "Relieful vulcanic include 'Margay', un lac de munte pitoresc situat într-o depresiune.", "Activitatea vulcanică a creat soluri andosolice extrem de fertile în jurul muntelui.", "Pantele superioare prezintă depozite de tephra și blocuri de lavă masive.", "Muntele Kanlaon este sediul unui parc natural național protejat.", "Fenomenele seismice sunt frecvente, fiind monitorizate de o rețea de senzori locali."]
     },
-    factsAdvanced: {
-      hu: ["A Visayas-szigetcsoport legmagasabb pontja (2.435 m).", "Aktív sztratovulkán összetett kráterrendszerrel.", "Rendelkezik a 'Margaja-völgy'-gyel, egy széles, lapos régi kráterrel.", "A domborzat szabályozza Negros szigetének mikroklímáját.", "Vulkáni kőzetek és termékeny hamutalajok jellemzik.", "A túraútvonalak extrém terepen és sűrű őserdőkön vezetnek keresztül.", "Szolfatárákkal és fumarolákkal rendelkezik a csúcson.", "Ikonikus domborzat az archipelágó középső részén."]
-    },
-    factsAdvanced: {
-      de: ["Höchster Punkt der Visayas-Inselgruppe (2.435 m).", "Aktiver Stratovulkan mit einem komplexen Krater-System.", "Besitzt den 'Margaja Valley', einen weiten, flachen alten Krater.", "Das Relief steuert das Mikroklima der Insel Negros.", "Gekennzeichnet durch vulkanische Felsen und fruchtbare Ascheböden.", "Wanderwege führen durch extremes Gelände und dichte Urwälder.", "Besitzt Solfataren und Fumarolen am Gipfel.", "Ikonisches Relief für den zentralen Teil des Archipels."]
-    }
+    
+    
   },
     description: {
       de: "Ein aktiver Vulkan auf der Insel Negros, der höchste Punkt in den Visayas.",
@@ -754,18 +554,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Parte a Parcului Național Kanlaon", "Unul dintre cei mai activi vulcani din Filipine", "Considerat sacru de către localnici"],
       en: ["Part of the Mount Kanlaon Natural Park", "One of the most active volcanoes in the Philippines", "Considered sacred by the locals"]
     }, image: "/poi-images/ph-mount-kanlaon-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Ein aktiver Vulkan auf der Insel Negros, der höchste Punkt in den Visayas. Teil des Kanlaon-Nationalparks. Einer der aktivsten Vulkane der Philippinen. Wird von den Einheimischen als heilig angesehen. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Egy aktív vulkán Negros szigetén, a Visayas legmagasabb pontja. A Kanlaon Nemzeti Park része. A Fülöp-szigetek egyik legaktívabb vulkánja. A helyiek szentnek tartják. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "Un vulcan activ pe insula Negros, cel mai înalt punct din Visayas. Parte a Parcului Național Kanlaon. Unul dintre cei mai activi vulcani din Filipine. Considerat sacru de către localnici. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "An active volcano on Negros Island, the highest point in the Visayas. Part of the Mount Kanlaon Natural Park. One of the most active volcanoes in the Philippines. Considered sacred by the locals. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Teil des Kanlaon-Nationalparks", "Einer der aktivsten Vulkane der Philippinen", "Wird von den Einheimischen als heilig angesehen", "Ein aktiver Vulkan auf der Insel Negros, der höchste Punkt in den Visayas.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["A Kanlaon Nemzeti Park része", "A Fülöp-szigetek egyik legaktívabb vulkánja", "A helyiek szentnek tartják", "Egy aktív vulkán Negros szigetén, a Visayas legmagasabb pontja.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Parte a Parcului Național Kanlaon", "Unul dintre cei mai activi vulcani din Filipine", "Considerat sacru de către localnici", "Un vulcan activ pe insula Negros, cel mai înalt punct din Visayas.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Part of the Mount Kanlaon Natural Park", "One of the most active volcanoes in the Philippines", "Considered sacred by the locals", "An active volcano on Negros Island, the highest point in the Visayas.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-agusan-river-valley-relief-v2",
@@ -786,12 +576,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Valea se întinde pe o lungime de peste 200 de kilometri de la nord la sud.", "Include Agusan Marsh, cel mai mare sistem de mlaștini din Filipine.", "Solurile sunt predominant aluvionare, bogate în materie organică.", "Râul Agusan are un curs șerpuitor cu numeroase brațe moarte (oxbow lakes).", "Regiunea este un bazin major pentru colectarea apelor pluviale din estul Mindanao.", "Relieful jos favorizează creșterea arborelui de sago și a orezului.", "Inundațiile anuale sunt o parte integrantă a ciclului natural al văii."]
     },
-    factsAdvanced: {
-      hu: ["Hatalmas hordalékos medence Mindanao északkeleti részén.", "Az ország harmadik leghosszabb folyója vezeti le vizét.", "Otthont ad az Agusan-mocsárnak, amely Ramsari terület.", "A domborzatot széles ártéri területek (floodplains) jellemzik.", "Fontos régió az erdőgazdálkodás és az agrárvövezet számára.", "Tektonikailag aktív süllyedő zónában fekszik.", "Termékeny talajt biztosít a nagyüzemi rizstermesztéshez.", "Stratégiai észak-déli összeköttetés Mindanao kereskedelmében."]
-    },
-    factsAdvanced: {
-      de: ["Großes alluviales Becken im Nordosten von Mindanao.", "Entwässert durch den drittlängsten Fluss des Landes.", "Beherbergt das Agusan Marsh, ein Ramsar-Feuchtgebiet.", "Relief ist geprägt durch weite Überflutungsflächen (Floodplains).", "Wichtige Region für die Forstwirtschaft und Agrarindustrie.", "Liegt in einer tektonisch aktiven Senkungszone.", "Bietet fruchtbare Böden für den großflächigen Reisanbau.", "Strategische Nord-Süd-Verbindung für den Handel auf Mindanao."]
-    }
+    
+    
   },
     description: {
       de: "Das Tal des drittlängsten Flusses der Philippinen, das sich durch Ost-Mindanao erstreckt.",
@@ -805,18 +591,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Include Sanctuarul Faunei Sălbatice Agusan Marsh", "Regiune importantă pentru exploatare forestieră și agricultură", "Predispusă la inundații în timpul sezonului ploios"],
       en: ["Includes the Agusan Marsh Wildlife Sanctuary", "Important region for logging and agriculture", "Prone to flooding during the rainy season"]
     }, image: "/poi-images/ph-agusan-river-valley-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Tal des drittlängsten Flusses der Philippinen, das sich durch Ost-Mindanao erstreckt. Umfasst das Agusan-Sumpf-Wildschutzgebiet. Wichtige Region für Holzwirtschaft und Landwirtschaft. Anfällig für Überschwemmungen während der Regenzeit. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "A Fülöp-szigetek harmadik leghosszabb folyójának völgye, amely Kelet-Mindanaón húzódik keresztül. Magában foglalja az Agusan Marsh Vadvédelmi Területet. Fontos faipari és mezőgazdasági régió. Az esős évszakban árvízveszélyes. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "Valea celui de-al treilea cel mai lung râu din Filipine, care se întinde prin estul Mindanao. Include Sanctuarul Faunei Sălbatice Agusan Marsh. Regiune importantă pentru exploatare forestieră și agricultură. Predispusă la inundații în timpul sezonului ploios. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "The valley of the third longest river in the Philippines, stretching through eastern Mindanao. Includes the Agusan Marsh Wildlife Sanctuary. Important region for logging and agriculture. Prone to flooding during the rainy season. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Umfasst das Agusan-Sumpf-Wildschutzgebiet", "Wichtige Region für Holzwirtschaft und Landwirtschaft", "Anfällig für Überschwemmungen während der Regenzeit", "Das Tal des drittlängsten Flusses der Philippinen, das sich durch Ost-Mindanao erstreckt.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Magában foglalja az Agusan Marsh Vadvédelmi Területet", "Fontos faipari és mezőgazdasági régió", "Az esős évszakban árvízveszélyes", "A Fülöp-szigetek harmadik leghosszabb folyójának völgye, amely Kelet-Mindanaón húzódik keresztül.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Include Sanctuarul Faunei Sălbatice Agusan Marsh", "Regiune importantă pentru exploatare forestieră și agricultură", "Predispusă la inundații în timpul sezonului ploios", "Valea celui de-al treilea cel mai lung râu din Filipine, care se întinde prin estul Mindanao.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Includes the Agusan Marsh Wildlife Sanctuary", "Important region for logging and agriculture", "Prone to flooding during the rainy season", "The valley of the third longest river in the Philippines, stretching through eastern Mindanao.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-bicol-peninsula-coast-relief-v2",
@@ -837,12 +613,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Prezintă unele dintre cele mai lungi zone de plajă cu nisip negru din țară.", "Peninsula Caramoan din apropiere oferă un relief carstic litoral similar cu cel din Palawan.", "Coasta este expusă direct taifunurilor, ceea ce a dus la formarea unor faleze abrupte.", "Include Parcul Național Muntele Isarog, care domină orizontul de coastă în zona Naga.", "Relieful submarin este bogat în recife de corali și zone de hrănire pentru rechinii-balenă.", "Eroziunea marină a creat numeroase arcade de piatră și peșteri litorale.", "Bicol este una dintre regiunile cu cea mai mare densitate de vulcani pe kilometru de coastă."]
     },
-    factsAdvanced: {
-      hu: ["Rendkívül szabdalt partvonal a Csendes-óceán mentén.", "Vulkáni kőzetek és mészkőkarszt kombinációja.", "Itt találhatók Caramoan híres karsztsziklái.", "Mélyen benyúló öblök és szorosok jellemzik.", "A cetcápa-turizmus fontos helyszíne (Donsol).", "Számos kis szigetcsoporttal rendelkezik, mint a Catanduanes-szigetek.", "Erősen kitett a csendes-óceáni tájfunoknak.", "A domborzat ideális feltételeket kínál a mangrove-erdőknek és koralloknak."]
-    },
-    factsAdvanced: {
-      de: ["Extrem zerklüftete Küstenlinie am Pazifischen Ozean.", "Kombination aus vulkanischem Gestein und Kalksteinkarst.", "Beherbergt die berühmten Karstfelsen von Caramoan.", "Geprägt durch tief eingeschnittene Buchten und Sunde.", "Wichtiger Standort für den Walhai-Tourismus (Donsol).", "Besitzt zahlreiche kleine Archipele wie die Catanduanes-Inselgruppe.", "Stark exponiert gegenüber pazifischen Taifunen.", "Relief bietet ideale Bedingungen für Mangroven und Korallen."]
-    }
+    
+    
   },
     description: {
       de: "Eine zerklüftete Küstenlinie mit zahlreichen Buchten, Inseln und aktiven Vulkanen wie dem Mayon.",
@@ -856,18 +628,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Renumit pentru observarea rechinilor-balenă în Donsol", "Locuri populare de surf în Catanduanes", "Afectat puternic de taifunuri"],
       en: ["Known for whale shark watching in Donsol", "Popular surfing spots in Catanduanes", "Heavily affected by typhoons"]
     }, image: "/poi-images/ph-bicol-peninsula-coast-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Eine zerklüftete Küstenlinie mit zahlreichen Buchten, Inseln und aktiven Vulkanen wie dem Mayon. Bekannt für Walhai-Beobachtungen in Donsol. Beliebte Surfspots in Catanduanes. Stark von Taifunen betroffen. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Egy tagolt partvonal számos öböllel, szigettel és aktív vulkánnal, mint például a Mayon. Híres a donsoli cetcápa-lesről. Népszerű szörfözőhelyek Catanduanesben. Erősen sújtják a tájfunok. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "O coastă accidentată, cu numeroase golfuri, insule și vulcani activi precum Mayon. Renumit pentru observarea rechinilor-balenă în Donsol. Locuri populare de surf în Catanduanes. Afectat puternic de taifunuri. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "A rugged coastline featuring numerous bays, islands, and active volcanoes like Mayon. Known for whale shark watching in Donsol. Popular surfing spots in Catanduanes. Heavily affected by typhoons. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Bekannt für Walhai-Beobachtungen in Donsol", "Beliebte Surfspots in Catanduanes", "Stark von Taifunen betroffen", "Eine zerklüftete Küstenlinie mit zahlreichen Buchten, Inseln und aktiven Vulkanen wie dem Mayon.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Híres a donsoli cetcápa-lesről", "Népszerű szörfözőhelyek Catanduanesben", "Erősen sújtják a tájfunok", "Egy tagolt partvonal számos öböllel, szigettel és aktív vulkánnal, mint például a Mayon.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Renumit pentru observarea rechinilor-balenă în Donsol", "Locuri populare de surf în Catanduanes", "Afectat puternic de taifunuri", "O coastă accidentată, cu numeroase golfuri, insule și vulcani activi precum Mayon.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Known for whale shark watching in Donsol", "Popular surfing spots in Catanduanes", "Heavily affected by typhoons", "A rugged coastline featuring numerous bays, islands, and active volcanoes like Mayon.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-mount-hamiguitan-relief-v2",
@@ -888,12 +650,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Altitudinea maximă a muntelui este de 1.620 de metri.", "Relieful găzduiește o pădure pitică de peste 200 de hectare, cu arbori vechi de sute de ani.", "Solul are un conținut ridicat de magneziu și fier, dând o culoare roșiatică terenului.", "Este singurul munte din Filipine inclus în Patrimoniul Mondial UNESCO pentru biodiversitate.", "Morfologia muntelui include numeroase bazine mici de apă și zone mlăștinoase la înălțime.", "Pantele sunt extrem de abrupte, făcând ascensiunea o provocare tehnică.", "Hamiguitan servește ca barieră naturală pentru vânturile umede din Pacific."]
     },
-    factsAdvanced: {
-      hu: ["UNESCO Világörökség 2014 óta.", "1.620 m magasság egyedülálló törpeerdővel (Pygmy Forest).", "A geológia ultramafikus kőzetekből áll (vasban/magnéziumban gazdag).", "A domborzat több mint 1.400 különböző növényfajnak ad otthont.", "Spektakuláris kilátópontokkal rendelkezik a Csendes-óceán felett.", "Itt található a 'Tinagong Dagat' (rejtett tenger), egy felvidéki tó.", "Meredek lejtőit sűrű dipterokarpusz-erdő borítja.", "A geokémiailag meghatározott geomorfológia egyedülálló példája."]
-    },
-    factsAdvanced: {
-      de: ["UNESCO-Weltnaturerbe seit 2014.", "Höhe von 1.620 m mit einzigartigem Zwergwald (Pygmy Forest).", "Geologie besteht aus ultramafischem Gestein (reich an Eisen/Magnesium).", "Relief beherbergt über 1.400 verschiedene Pflanzenarten.", "Besitzt spektakuläre Aussichtspunkte über den Pazifik.", "Beherbergt den 'Tinagong Dagat' (verstecktes Meer), einen Hochlandsee.", "Steile Hänge sind von dichtem Dipterocarp-Wald bedeckt.", "Einzigartiges Beispiel für geochemisch bedingte Geomorphologie."]
-    }
+    
+    
   },
     description: {
       de: "Ein Berg mit einem einzigartigen Zwergwald und einer hohen Vielfalt an endemischen Arten. UNESCO-Weltkulturerbe.",
@@ -907,18 +665,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Sanctuar al faunei sălbatice", "Acasă la planta carnivoră Nepenthes hamiguitanensis", "Solul este bogat în metale, ducând la nanismul plantelor"],
       en: ["A wildlife sanctuary", "Home to the carnivorous pitcher plant Nepenthes hamiguitanensis", "The soil is rich in metals, causing plant dwarfism"]
     }, image: "/poi-images/ph-mount-hamiguitan-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Ein Berg mit einem einzigartigen Zwergwald und einer hohen Vielfalt an endemischen Arten. UNESCO-Weltkulturerbe. Schutzgebiet für Wildtiere. Heimat der fleischfressenden Kannenpflanze Nepenthes hamiguitanensis. Der Boden ist reich an Metallen, was zu Zwergwuchs bei Pflanzen führt. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen.",
-      hu: "Egy hegy egyedülálló törpeerdővel és a bennszülött fajok nagy változatosságával. UNESCO Világörökségi helyszín. Vadvédelmi terület. A húsevő Nepenthes hamiguitanensis kancsóka otthona. A talaj fémekben gazdag, ami a növények törpenövését okozza. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "Un munte cu o pădure pigmeu unică și o diversitate ridicată de specii endemice. Sit al Patrimoniului Mondial UNESCO. Sanctuar al faunei sălbatice. Acasă la planta carnivoră Nepenthes hamiguitanensis. Solul este bogat în metale, ducând la nanismul plantelor. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.",
-      en: "A mountain with a unique pygmy forest and high diversity of endemic species. A UNESCO World Heritage Site. A wildlife sanctuary. Home to the carnivorous pitcher plant Nepenthes hamiguitanensis. The soil is rich in metals, causing plant dwarfism. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands."
-    },
-    factsAdvanced: {
-      de: ["Schutzgebiet für Wildtiere", "Heimat der fleischfressenden Kannenpflanze Nepenthes hamiguitanensis", "Der Boden ist reich an Metallen, was zu Zwergwuchs bei Pflanzen führt", "Ein Berg mit einem einzigartigen Zwergwald und einer hohen Vielfalt an endemischen Arten.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Vadvédelmi terület", "A húsevő Nepenthes hamiguitanensis kancsóka otthona", "A talaj fémekben gazdag, ami a növények törpenövését okozza", "Egy hegy egyedülálló törpeerdővel és a bennszülött fajok nagy változatosságával.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Sanctuar al faunei sălbatice", "Acasă la planta carnivoră Nepenthes hamiguitanensis", "Solul este bogat în metale, ducând la nanismul plantelor", "Un munte cu o pădure pigmeu unică și o diversitate ridicată de specii endemice.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["A wildlife sanctuary", "Home to the carnivorous pitcher plant Nepenthes hamiguitanensis", "The soil is rich in metals, causing plant dwarfism", "A mountain with a unique pygmy forest and high diversity of endemic species.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-cotabato-valley-relief-v2",
@@ -939,12 +687,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Valea acoperă o suprafață de peste 1,1 milioane de hectare.", "Este traversată de Rio Grande de Mindanao, al doilea cel mai lung râu din țară.", "Include Mlaștina Liguasan, care se întinde pe 220.000 de hectare.", "Relieful plat favorizează mecanizarea agriculturii la scară largă.", "Zona este înconjurată de vulcani spectaculoși precum Muntele Matutum și Muntele Parker.", "Depunerile sedimentare din munții înconjurători au o grosime de sute de metri.", "Este considerată cea mai importantă zonă pentru cultivarea orezului din sudul Filipinelor."]
     },
-    factsAdvanced: {
-      hu: ["A Fülöp-szigetek második legnagyobb folyóvölgye.", "A Rio Grande de Mindanao (Pulangi-folyó) vezeti le a vizét.", "Mindanao legfontosabb rizstermesztő régiója.", "Több hegylánc (Közép-Mindanao-felvidék) öleli körbe.", "Kiterjedt mocsárvidékekkel (Liguasan-mocsár) rendelkezik a közepén.", "A domborzatot termékeny hordalékos talajok jellemzik.", "Stratégiai fontosságú Közép-Cotabato gazdasági fejlődése szempontjából.", "Kihívást jelentenek a rendszeres szezonális áradások."]
-    },
-    factsAdvanced: {
-      de: ["Zweitgrößtes Flusstal der Philippinen.", "Entwässert durch den Rio Grande de Mindanao (Pulangi River).", "Wichtigste Reisanbauregion auf Mindanao.", "Umschlossen von mehreren Gebirgsketten (Central Mindanao Highlands).", "Besitzt ausgedehnte Sumpfgebiete (Liguasan Marsh) im Zentrum.", "Relief ist durch fruchtbare alluviale Böden geprägt.", "Strategisch wichtig für die wirtschaftliche Entwicklung von Zentralkotabato.", "Herausforderungen durch regelmäßige saisonale Fluten."]
-    }
+    
+    
   },
     description: {
       de: "Ein großes, fruchtbares Tal in Zentral-Mindanao, das vom Rio Grande de Mindanao bewässert wird.",
@@ -958,18 +702,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Unul dintre grânarele Filipinelor", "Include Mlaștinile Ligawasan", "Istoric, o regiune cu o mare diversitate culturală"],
       en: ["One of the Philippines' breadbaskets", "Encompasses the Ligawasan Marsh", "Historically a region of great cultural diversity"]
     }, image: "/poi-images/ph-cotabato-valley-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Ein großes, fruchtbares Tal in Zentral-Mindanao, das vom Rio Grande de Mindanao bewässert wird. Eine der Kornkammern der Philippinen. Umfasst die Ligawasan-Sümpfe. Historisch eine Region mit großer kultureller Vielfalt. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Egy nagy, termékeny völgy Közép-Mindanaóban, amelyet a Rio Grande de Mindanao öntöz. A Fülöp-szigetek egyik éléskamrája. Magában foglalja a Ligawasan-mocsarakat. Történelmileg nagy kulturális sokszínűségű régió. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "O vale mare și fertilă în centrul Mindanao, irigată de Rio Grande de Mindanao. Unul dintre grânarele Filipinelor. Include Mlaștinile Ligawasan. Istoric, o regiune cu o mare diversitate culturală. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "A large, fertile valley in Central Mindanao, irrigated by the Rio Grande de Mindanao. One of the Philippines' breadbaskets. Encompasses the Ligawasan Marsh. Historically a region of great cultural diversity. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands. The region is marked by a tropical monsoon climate and Pacific typhoons."
-    },
-    factsAdvanced: {
-      de: ["Eine der Kornkammern der Philippinen", "Umfasst die Ligawasan-Sümpfe", "Historisch eine Region mit großer kultureller Vielfalt", "Ein großes, fruchtbares Tal in Zentral-Mindanao, das vom Rio Grande de Mindanao bewässert wird.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["A Fülöp-szigetek egyik éléskamrája", "Magában foglalja a Ligawasan-mocsarakat", "Történelmileg nagy kulturális sokszínűségű régió", "Egy nagy, termékeny völgy Közép-Mindanaóban, amelyet a Rio Grande de Mindanao öntöz.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Unul dintre grânarele Filipinelor", "Include Mlaștinile Ligawasan", "Istoric, o regiune cu o mare diversitate culturală", "O vale mare și fertilă în centrul Mindanao, irigată de Rio Grande de Mindanao.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["One of the Philippines' breadbaskets", "Encompasses the Ligawasan Marsh", "Historically a region of great cultural diversity", "A large, fertile valley in Central Mindanao, irrigated by the Rio Grande de Mindanao.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   },
   {
     id: "ph-caramoan-peninsula-relief-v2",
@@ -990,12 +724,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
     factsAdvanced: {
       ro: ["Peninsula a devenit celebră la nivel mondial ca locație pentru mai multe sezoane ale show-ului 'Survivor'.", "Include insule precum Matukad și Lahos, renumite pentru formațiunile lor calcaroase unice.", "Relieful include o lagună interioară pe insula Matukad despre care se spun povești mistice.", "Situl este declarat Parc Național sub numele de Caramoan National Park.", "Peșterile din regiune conțin stalactite și stalagmite imense și artefacte arheologice.", "Accesul în multe zone este posibil doar cu barca din cauza reliefului accidentat.", "Calcarul de aici are o vârstă estimată la peste 65 de milioane de ani."]
     },
-    factsAdvanced: {
-      hu: ["A Bicol-régió északkeleti csücskén található.", "Fenséges mészkőkarszt-formációk jellemzik.", "Tíz főbb partmenti szigetet foglal magában.", "Híres titokzatos barlangjairól, mint például a Culapnit-barlang.", "Spektakuláris lagúnákkal rendelkezik, amelyek csak apálykor érhetők el.", "Nemzetközi reality TV produkciók kedvelt forgatási helyszíne.", "A domborzat természetes védelmet nyújt a Csendes-óceán hullámai ellen.", "Camarines Sur egyik legfontosabb ökoturisztikai területe."]
-    },
-    factsAdvanced: {
-      de: ["Gelegen an der nordöstlichen Spitze der Bicol-Region.", "Geprägt durch majestätische Karstformationen aus Kalkstein.", "Umfasst eine Gruppe von 10 vorgelagerten Hauptinseln.", "Bekannt für seine geheimnisvollen Höhlen wie die Culapnit-Höhle.", "Besitzt spektakuläre Lagunen, die nur bei Ebbe zugänglich sind.", "Beliebter Drehort für internationale Reality-TV-Produktionen.", "Das Relief bietet natürlichen Schutz gegen die Wellen des Pazifiks.", "Eines der wichtigsten Gebiete für den Ökotourismus in Camarines Sur."]
-    }
+    
+    
   },
     description: {
       de: "Eine abgelegene Halbinsel mit unberührten Stränden, Kalksteininseln und Höhlen. Bekannt als Drehort für die TV-Show 'Survivor'.",
@@ -1009,18 +739,8 @@ export const poiExtraPhilippinesReliefV2: POI[] = [
       ro: ["Peisaj accidentat și izolat", "Viață marină bogată și recife de corali", "Parcul național protejează zona"],
       en: ["Rugged, isolated landscape", "Rich marine life and coral reefs", "A national park protects the area"]
     },
-    descriptionAdvanced: {
-      de: "Eine abgelegene Halbinsel mit unberührten Stränden, Kalksteininseln und Höhlen. Bekannt als Drehort für die TV-Show 'Survivor'. Schroffe, isolierte Landschaft. Reiches Meeresleben und Korallenriffe. Nationalpark schützt die Region. Damit zählt der Ort zu den charakteristischen Punkten der Philippinen und bietet einen Einblick in das Erbe des aus über 7000 Inseln bestehenden Archipels im westlichen Pazifik. Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln. Region geprägt von tropischem Monsunklima und pazifischen Taifunen. Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.",
-      hu: "Egy távoli félsziget érintetlen strandokkal, mészkőszigetekkel és barlangokkal. A 'Survivor' című tévéműsor forgatási helyszíneként ismert. Masszív, elszigetelt táj. Gazdag tengeri élővilág és korallzátonyok. A régiót nemzeti park védi. Ezzel a hely a Fülöp-szigetek egyik jellegzetes pontja, és betekintést nyújt a több mint 7000 szigetből álló, nyugat-csendes-óceáni szigetcsoport örökségébe. A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található. A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik. Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.",
-      ro: "O peninsulă izolată cu plaje virgine, insule de calcar și peșteri. Cunoscută ca locație de filmare pentru emisiunea TV 'Survivor'. Peisaj accidentat și izolat. Viață marină bogată și recife de corali. Parcul național protejează zona. Astfel, locul se numără printre punctele caracteristice ale Filipinelor și oferă o imagine asupra moștenirii arhipelagului format din peste 7000 de insule din vestul Pacificului. Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule. Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.",
-      en: "A remote peninsula with pristine beaches, limestone islands, and caves. Known as a filming location for the 'Survivor' TV show. Rugged, isolated landscape. Rich marine life and coral reefs. A national park protects the area. Thus, the site is among the characteristic points of the Philippines and offers insight into the heritage of the archipelago of more than 7000 islands in the western Pacific. Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands."
-    },
-    factsAdvanced: {
-      de: ["Schroffe, isolierte Landschaft", "Reiches Meeresleben und Korallenriffe", "Nationalpark schützt die Region", "Eine abgelegene Halbinsel mit unberührten Stränden, Kalksteininseln und Höhlen.", "Liegt im südostasiatischen Inselstaat Philippinen mit über 7000 Inseln.", "Region geprägt von tropischem Monsunklima und pazifischen Taifunen.", "Erreichbar über das nationale Verkehrsnetz mit Hauptknoten in Manila und Cebu.", "Trägt Spuren des spanischen Kolonialerbes aus mehr als drei Jahrhunderten."],
-      hu: ["Masszív, elszigetelt táj", "Gazdag tengeri élővilág és korallzátonyok", "A régiót nemzeti park védi", "Egy távoli félsziget érintetlen strandokkal, mészkőszigetekkel és barlangokkal.", "A délkelet-ázsiai, több mint 7000 szigetből álló Fülöp-szigetek területén található.", "A régiót trópusi monszunéghajlat és csendes-óceáni tájfunok jellemzik.", "Az ország közlekedési hálózatán keresztül érhető el, fő csomópontjai Manila és Cebu.", "Magán hordozza a több mint három évszázados spanyol gyarmati örökség nyomait."],
-      ro: ["Peisaj accidentat și izolat", "Viață marină bogată și recife de corali", "Parcul național protejează zona", "O peninsulă izolată cu plaje virgine, insule de calcar și peșteri.", "Este situat în statul-arhipelag din Asia de Sud-Est Filipine, format din peste 7000 de insule.", "Regiunea este caracterizată de un climat musonic tropical și de taifunurile din Pacific.", "Accesibil prin rețeaua națională de transport, cu noduri principale la Manila și Cebu.", "Poartă urmele moștenirii coloniale spaniole de peste trei secole."],
-      en: ["Rugged, isolated landscape", "Rich marine life and coral reefs", "A national park protects the area", "A remote peninsula with pristine beaches, limestone islands, and caves.", "Located in the Southeast Asian island nation of the Philippines, made up of over 7000 islands.", "The region is marked by a tropical monsoon climate and Pacific typhoons.", "Accessible via the national transport network, with main hubs in Manila and Cebu.", "Bears traces of more than three centuries of Spanish colonial heritage."]
-    }
+    
+    
   }
 ];
 

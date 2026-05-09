@@ -26,24 +26,14 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       ro: "Orașul fortificat Fasil Ghebbi a fost reședința împăratului etiopian Fasilides și a succesorilor săi în secolele al XVI-lea și al XVII-lea. Complexul este înconjurat de un zid lung de 900 de metri.",
       en: "The fortified city of Fasil Ghebbi was the residence of the Ethiopian emperor Fasilides and his successors in the 16th and 17th centuries. The complex is surrounded by a 900-meter-long wall."
     },
-    descriptionAdvanced: {
-      de: "Fasil Ghebbi, eine UNESCO-Welterbestätte seit 1979, diente vom 16. bis zum 17. Jahrhundert als kaiserliche Hauptstadt unter Fasilides. Die Festungsanlage erstreckt sich über 70.000 Quadratmeter und wird von einer 900 Meter langen Stadtmauer umgeben. Die Architektur zeigt eine einzigartige Verschmelzung von indischen, arabischen und barocken Stilelementen, die durch portugiesische Missionare beeinflusst wurden. Das Areal umfasst Paläste, Kirchen und Bibliotheken, die den Glanz der salomonischen Dynastie widerspiegeln.",
-      hu: "A Fasil Ghebbi, az 1979 óta UNESCO Világörökségi helyszín, a 16. és 17. század között szolgált Fasilides császár birodalmi székhelyeként. Az erődrendszer 70 000 négyzetméteren terül el, és egy 900 méter hosszú városfal veszi körül. Az építészet indiai, arab és barokk stílusjegyek egyedülálló ötvözetét mutatja, amelyet a portugál misszionáriusok befolyása alakított. A terület palotákat, templomokat és könyvtárakat foglal magában, amelyek a Salamon-dinasztia fénykorát idézik.",
-      ro: "Fasil Ghebbi, un sit înscris în patrimoniul mondial UNESCO din 1979, a servit drept capitală imperială sub domnia lui Fasilides între secolele al XVI-lea și al XVII-lea. Complexul fortificat se întinde pe 70.000 de metri pătrați și este înconjurat de un zid de cetate de 900 de metri. Arhitectura prezintă o fuziune unică de stiluri indiene, arabe și baroce, influențate de misionarii portughezi. Locația cuprinde palate, biserici și biblioteci care reflectă splendoarea dinastiei solomoniene.",
-      en: "Fasil Ghebbi, a UNESCO World Heritage site since 1979, served as the imperial capital under Emperor Fasilides from the 16th to the 17th century. The fortress complex spans 70,000 square meters and is enclosed by a 900-meter-long city wall. Its architecture displays a unique fusion of Indian, Arab, and Baroque stylistic elements, influenced by Portuguese missionaries. The site includes palaces, churches, and libraries that reflect the grandeur of the Solomonic dynasty."
-    },
+    
     facts: {
       de: ["UNESCO-Weltkulturerbe seit 1979", "Architektur mit indischen und arabischen Einflüssen"],
       hu: ["1979 óta UNESCO Világörökség", "Indiai és arab hatásokat mutató építészet"],
       ro: ["Patrimoniu Mondial UNESCO din 1979", "Arhitectură cu influențe indiene și arabe"],
       en: ["UNESCO World Heritage Site since 1979", "Architecture with Indian and Arab influences"]
     },
-    factsAdvanced: {
-      de: ["UNESCO-Weltkulturerbe seit 1979", "Errichtet als kaiserliche Hauptstadt im 17. Jahrhundert", "Enthält 20 Gebäude auf 70.000 m²", "900 Meter lange Verteidigungsmauer", "Architektur vereint indische und portugiesische Einflüsse", "Ehemaliger Wohnsitz von Fasilides"],
-      hu: ["1979 óta UNESCO Világörökség", "A 17. században épült birodalmi székhely", "20 épület 70 000 m²-en", "900 méteres védőfal", "Indián és portugál hatások keveredése", "Fasilides császár volt rezidenciája"],
-      ro: ["Patrimoniu Mondial UNESCO din 1979", "Capitală imperială construită în secolul al XVII-lea", "Include 20 de clădiri pe 70.000 m²", "Zid de apărare de 900 de metri", "Influențe indiene și portugheze în arhitectură", "Fosta reședință a lui Fasilides"],
-      en: ["UNESCO World Heritage site since 1979", "Imperial capital built in the 17th century", "Contains 20 buildings across 70,000 m²", "900-meter-long defensive wall", "Architecture blends Indian and Portuguese influences", "Former residence of Fasilides"]
-    }, image: "/poi-images/fasil-ghebbi-history-v2.webp"},
+     image: "/poi-images/fasil-ghebbi-history-v2.webp"},
   {
     id: "lalibela-churches-history-v2",
     type: "historical",
@@ -68,24 +58,14 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       ro: "Unsprezece biserici rupestre monolitice medievale tăiate din stâncă în secolul al XIII-lea. Ele sunt un centru important al creștinismului etiopian și un loc major de pelerinaj.",
       en: "Eleven medieval monolithic cave churches carved out of rock in the 13th century. They are an important center of Ethiopian Christianity and a major site of pilgrimage."
     },
-    descriptionAdvanced: {
-      de: "Die Felsenkirchen von Lalibela, im 13. Jahrhundert unter König Lalibela aus dem massiven vulkanischen Tuffstein gehauen, sind eines der wichtigsten christlichen Monumente Äthiopiens. Die Anlage besteht aus elf Kirchen, die in zwei Gruppen unterteilt sind und durch Tunnel miteinander verbunden sind. Jede Kirche wurde monolithisch aus dem Fels herausgearbeitet, was eine präzise Planung erforderte. Diese Stätte wird oft als 'Neues Jerusalem' bezeichnet, da Lalibela beabsichtigte, die heiligen Stätten nach dem Fall Jerusalems für Pilger zugänglich zu machen.",
-      hu: "A Lalibela-i sziklatemplomok, amelyeket a 13. században Lalibela király idején vájtak ki a masszív vulkáni tufa kőzetből, Etiópia egyik legfontosabb keresztény műemléke. A komplexum tizenegy templomból áll, amelyeket két csoportra osztottak és alagutak kötnek össze. Mindegyik templomot monolitikusan, egyetlen sziklatömbből faragták ki, ami precíz tervezést igényelt. Ezt a helyet gyakran 'Új Jeruzsálemként' emlegetik, mivel Lalibela szándéka az volt, hogy Jeruzsálem eleste után hozzáférhetővé tegye a zarándokok számára a szent helyeket.",
-      ro: "Bisericile rupestre din Lalibela, tăiate în tuful vulcanic masiv în secolul al XIII-lea sub conducerea regelui Lalibela, sunt unul dintre cele mai importante monumente creștine din Etiopia. Complexul constă în unsprezece biserici împărțite în două grupe, interconectate prin tuneluri. Fiecare biserică a fost sculptată monolitic din rocă, ceea ce a necesitat o planificare precisă. Acest sit este adesea denumit 'Noul Ierusalim', deoarece Lalibela a intenționat să facă locurile sfinte accesibile pelerinilor după căderea Ierusalimului.",
-      en: "The rock-hewn churches of Lalibela, carved from massive volcanic tuff in the 13th century under King Lalibela, are one of Ethiopia's most important Christian monuments. The complex consists of eleven churches divided into two groups, interconnected by tunnels. Each church was monolithically carved from the rock, requiring precise planning. This site is often referred to as the 'New Jerusalem,' as Lalibela intended to make the holy sites accessible to pilgrims following the fall of Jerusalem."
-    },
+    
     facts: {
       de: ["Erbaut von König Lalibela", "Oft als 'Neues Jerusalem' bezeichnet"],
       hu: ["Lalibela király építtette", "Gyakran 'Új Jeruzsálemként' emlegetik"],
       ro: ["Construite de regele Lalibela", "Adesea denumite 'Noul Ierusalim'"],
       en: ["Built by King Lalibela", "Often referred to as the 'New Jerusalem'"]
     },
-    factsAdvanced: {
-      de: ["11 monolithische Kirchen aus dem 13. Jh.", "Von König Lalibela in Auftrag gegeben", "Aus vulkanischem Tuffstein gehauen", "Geplante Nachbildung des Heiligen Landes", "UNESCO-Weltkulturerbe seit 1978", "Immer noch ein aktiver Wallfahrtsort"],
-      hu: ["11 monolitikus templom a 13. századból", "Lalibela király rendelte el", "Vulkáni tufa kőzetből faragták ki", "A Szentföld tervezett másolata", "UNESCO Világörökség 1978 óta", "Még mindig aktív zarándokhely"],
-      ro: ["11 biserici monolitice din sec. XIII", "Comandate de regele Lalibela", "Sculptate din tuf vulcanic", "O replică planificată a Țării Sfinte", "Patrimoniu Mondial UNESCO din 1978", "Rămâne un loc de pelerinaj activ"],
-      en: ["11 monolithic churches from the 13th century", "Commissioned by King Lalibela", "Carved from volcanic tuff", "Planned replica of the Holy Land", "UNESCO World Heritage site since 1978", "Remains an active pilgrimage site"]
-    }, image: "/poi-images/lalibela-churches-history-v2.webp"},
+     image: "/poi-images/lalibela-churches-history-v2.webp"},
   {
     id: "axum-obelisks-history-v2",
     type: "historical",
@@ -134,9 +114,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
     factsAdvanced: {
       hu: ["A muszlim világ 4. legszentebb városa", "Történelmi, fallal körülvett városmag", "Számtalan mecset és szentély otthona", "Jelentős kereskedelmi központ (kávé)", "UNESCO Világörökség része", "Gazdag vallási és építészeti örökség"]
     },
-    factsAdvanced: {
-      de: ["Status: UNESCO-Welterbe", "Besonderheit: 82 Moscheen", "Struktur: Befestigte Altstadt", "Kultur: Zentrum des Islam in Äthiopien", "Tradition: 'Hyänenfütterung'"]
-    }
+    
   },
     description: {
       de: "Die historische befestigte Stadt Harar liegt im Osten Äthiopiens und gilt als die viertheiligste Stadt des Islam. Sie beherbergt 82 Moscheen, von denen drei aus dem 10. Jahrhundert stammen.",

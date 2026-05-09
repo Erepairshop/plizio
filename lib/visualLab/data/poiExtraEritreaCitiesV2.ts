@@ -207,9 +207,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Southern Red Sea region.", "Historical significance as a port.", "Primary local industry is fishing.", "Arid coastal environment.", "Traditions rooted in maritime life.", "Represents Eritrean coastal heritage."]
     },
-    factsAdvanced: {
-      hu: ["Stratégiai fekvésű kikötőváros a Vörös-tenger partján.", "Történelmileg fontos szerepet játszott a régió sókereskedelmében.", "Kiemelt jelentőségű tengeri kereskedelmi csomópont volt.", "Gazdag tengeri élővilág jellemzi a környező vizeket.", "A helyi gazdaság a hagyományos halászaton alapul.", "Fontos kapocs a tengeri és szárazföldi kereskedelmi útvonalak között."]
-    }
+    
   },
     facts: {
       de: ["Eine der ältesten dokumentierten Siedlungen der Küste.", "Wirtschaftlich von der Fischerei abhängig."],
@@ -237,9 +235,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Debub region.", "Known for its mild, highland climate.", "Historically significant industrial and agricultural hub.", "Famous for orchards and vineyards.", "Central regional trade center.", "Key hub for agricultural processing."]
     },
-    factsAdvanced: {
-      hu: ["A felföld fontos mezőgazdasági és kereskedelmi központja.", "Történelmi olasz gyarmati építészeti emlékek jellemzik.", "Kiemelt szerepet játszik a gabona- és zöldségfeldolgozásban.", "A környék termékeny talaján alapul a helyi gazdaság.", "Az oktatási és kulturális élet központja a régióban.", "Fontos elosztóközpont a helyi termékek piacra jutásához."]
-    }
+    
   },
     facts: {
       de: ["Bekannt für den Weinbau und Obstgärten.", "Erlebte einen industriellen Boom in den 1930er Jahren."],
@@ -266,9 +262,7 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     factsAdvanced: {
       en: ["Situated on the Barka River.", "Market town in western Eritrea.", "Crucial commercial hub for nomadic groups.", "Architectural fusion of local and Sudanese styles.", "Resilient center in arid environment.", "Key livestock and agricultural exchange point."]
     },
-    factsAdvanced: {
-      hu: ["A nyugati síkságok fontos kereskedelmi csomópontja.", "Strategikusan a Barka-folyó mentén fekszik.", "A nomád közösségek hagyományos kereskedelmi találkozóhelye.", "Kulturálisan sokszínű építészet jellemzi.", "Fontos szerepet játszik a regionális élelmiszerellátásban.", "A sivatagi táj és a folyóparti mezőgazdaság ötvözete."]
-    }
+    
   },
     facts: {
       de: ["Bekannt für die große Große Moschee.", "Ein wichtiger Markt für Bananen und Zitrusfrüchte."],

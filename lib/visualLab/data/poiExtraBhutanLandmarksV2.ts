@@ -97,14 +97,14 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     name: { de: "Tango-Kloster", hu: "Tango kolostor", ro: "Mănăstirea Tango", en: "Tango Monastery" },
     description: {
       de: "Ein hoch gelegenes buddhistisches Zentrum, das im 15. Jahrhundert gegründet wurde. Es dient heute als wichtige Hochschule für buddhistische Studien.",
-      hu: "Egy magasan fekvő buddhista központ, amelyet a 15. században alapítottak. Ma a buddhista tanulmányok fontos főiskolájaként működik.",
-      ro: "Un centru budist la mare altitudine, fondat în secolul al XV-lea. Astăzi servește ca un important colegiu pentru studii budiste.",
+      hu: "A Tango kolostor egy 13. században alapított buddhista oktatási központ, amely Thimphu völgyének egyik domboldalán helyezkedik el. A kolostor híres a buddhista tanulmányokról és a mély spirituális légköréről.",
+      ro: "Tango Monastery este un complex monastic renumit situat pe o colină, fondat în secolul al XIII-lea. Este considerat un important centru de studii superioare pentru călugări.",
       en: "A high-altitude Buddhist center founded in the 15th century. Today it serves as a major college for Buddhist studies."
     },
     facts: {
       de: ["Der Name bedeutet \"Pferdekopf\".", "Wurde 1689 in seiner jetzigen Form erbaut.", "Nur durch eine Wanderung erreichbar."],
-      hu: ["A név \"Lófejet\" jelent.", "Jelenlegi formájában 1689-ben épült.", "Csak túrázással közelíthető meg."],
-      ro: ["Numele înseamnă \"Cap de cal\".", "A fost construită în forma sa actuală în 1689.", "Accesibilă doar printr-o drumeție."],
+      hu: ["13. századi alapítás", "Thimphu régió", "Oktatási központ", "Spirituális hely"],
+      ro: ["Fondat secolul XIII", "Situat la nord de Thimphu", "Centru de studii", "Arhitectură monastică"],
       en: ["The name means \"Horse Head\".", "Was built in its current form in 1689.", "Accessible only by a hike."]
     },
     factsAdvanced: {

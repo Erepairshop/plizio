@@ -19,12 +19,8 @@ export const poiExtraEcuadorNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Elevation: 6,263 meters", "Significance: Point closest to space", "Geology: Inactive stratovolcano", "Ecosystem: High-altitude paramo", "Fauna: Andean condor habitat", "Glaciation: Critical water source"]
     },
-    descriptionAdvanced: {
-      hu: "A Chimborazo az Ecuadori-Andokban található rétegvulkán, amelynek csúcsa a Föld középpontjától mért legtávolabbi pont a bolygónk felszínén, mivel Ecuador az Egyenlítőn helyezkedik el. A hegycsúcs eléri a 6263 méteres tengerszint feletti magasságot, örök hó fedi, és a környező táj jellegzetes páramó növényzettel rendelkezik. Földrajz K7 — vulkanizmus és magashegységek témakörhöz kapcsolódik."
-    },
-    factsAdvanced: {
-      hu: ["Magasság: 6263 méter", "Típusa: Rétegvulkán", "Elhelyezkedés: Cordillera Occidental", "Földrajzi érdekesség: A Föld középpontjától mért legtávolabbi pont", "Első megmászás: Edward Whymper, 1880", "Növényzet: Páramó"]
-    },
+    
+    
     description: {
       de: "Der Chimborazo ist der höchste Berg in Ecuador und der am weitesten vom Erdmittelpunkt entfernte Punkt der Erde.",
       hu: "A Chimborazo Ecuador legmagasabb hegye, és a Föld középpontjától legtávolabb eső pont a bolygón.",
@@ -75,12 +71,8 @@ export const poiExtraEcuadorNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Elevation: 5,897 meters", "Type: Active stratovolcano", "Eruptive frequency: Very frequent", "Ecosystem: Alpine volcanic meadows", "Fauna: Andean spectacled bear", "Glacial status: Equitorial ice cap"]
     },
-    factsAdvanced: {
-      hu: ["Magasság: 5897 méter", "Státusz: Aktív rétegvulkán", "Nemzeti Park területe: 33 393 hektár", "Jelentős kitörések: 1877, 2015", "Gleccserek: Állandó jégsapka", "Jellemzője: Tökéletes kúpforma"]
-    },
-    factsAdvanced: {
-      hu: ["Magasság: 5897 méter", "Státusz: Aktív rétegvulkán", "Nemzeti Park területe: 33 393 hektár", "Jelentős kitörések: 1877, 2015", "Gleccserek: Állandó jégsapka", "Jellemzője: Tökéletes kúpforma"]
-    },
+    
+    
     description: {
       de: "Der Cotopaxi ist einer der höchsten aktiven Vulkane der Welt und ein Wahrzeichen Ecuadors mit seiner perfekten Kegelform.",
       hu: "A Cotopaxi a világ egyik legmagasabb aktív vulkánja, és tökéletes kúp alakjával Ecuador egyik jelképe.",

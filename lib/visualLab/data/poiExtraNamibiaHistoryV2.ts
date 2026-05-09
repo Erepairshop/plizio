@@ -22,15 +22,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located just 10 kilometers inland from the port of Lüderitz.", "Founded in 1908 during a massive regional diamond rush.", "Once featured the Southern Hemisphere's first x-ray station.", "Gradually abandoned and completely deserted by 1956.", "The historic German buildings are currently half-buried in sand.", "Now serves as a highly popular tourist destination and museum."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu oraș pe a clar așezat absolut cu o masiv a până din an 1908 clar stabil asigurat.", "E situată absolut la așezare de a pe deșert la a complet cu a masiv Namib asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de oraș fantomă asigurat clar.", "A fost absolut cu așezat masiv părăsit a la a 1956 cu un asigurat pe complet clar stabil.", "A avut absolut a statut complet masiv cu pe o absolut la de un spital din a cu așezat pe a raze X clar.", "E o atracție la a absolut de a cu o a turistică masiv la așezat faimoasă asigurat stabil a garantat."]
-    },
-    factsAdvanced: {
-      hu: ["1908-ban alapították, miután Zacharias Lewala vasúti munkás gyémántot talált", "A német gyarmati idők luxusát hozta el a Namíb-sivatag zord vidékére", "Itt üzemeltették a déli félteke első röntgengépét (részben a gyémántlopások kiszűrésére)", "Az 1920-as évektől, a délebbi gazdagabb lelőhelyek (Oranjemund) felfedezése után hanyatlani kezdett", "1956-ra a városka utolsó lakója is távozott, teljesen szellemvárossá vált", "Jelenleg Namíbia egyik legnépszerűbb, a Namdeb által kezelt turisztikai látványossága"]
-    },
-    factsAdvanced: {
-      de: ["Der erste Diamant wurde hier im April 1908 von Zacharias Lewala gefunden.", "Auf dem Höhepunkt lebten rund 300 Erwachsene und 40 Kinder in extremem Luxus in der Siedlung.", "Das Krankenhaus von Kolmanskuppe besaß das erste Röntgengerät der gesamten südlichen Hemisphäre.", "Im Jahr 1912 produzierte die Region eine Million Karat (11,7% der Weltproduktion).", "Die Stadt verfügte über eine Salzwasser-Badeanstalt und eine limonadenproduzierende Eisfabrik.", "1956 wurde Kolmanskuppe offiziell verlassen und ist heute eine museale Touristenattraktion."]
-    },
+    
+    
+    
     description: {
       de: "Eine verlassene Diamanten-Geisterstadt in der Namib-Wüste, deren Häuser allmählich vom Sand verschluckt werden.",
       hu: "Egy elhagyatott gyémántbányász szellemváros a Namib-sivatagban, amelynek házait fokozatosan nyeli el a homok.",
@@ -63,15 +57,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the rugged Damaraland area of the Kunene Region.", "Contains over 2,000 distinct ancient rock engravings (petroglyphs).", "Created by San hunter-gatherers between 2,000 and 6,000 years ago.", "Local Damara name '/Ui-//aes' means 'jumping waterhole'.", "Designated as Namibia's first UNESCO World Heritage Site in 2007.", "Depicts diverse wildlife and shamanic transformations."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu sit pe a clar așezat absolut cu o masiv a până din an 1952 clar stabil asigurat.", "E situată absolut la așezare de a pe Damaraland la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de patrimoniu mondial asigurat clar.", "Are o colecție absolut masiv clar de a asigurat cu 2.500 gravuri asigurat așezat pe stabil.", "A fost absolut cu așezat masiv creată a la a cu un asigurat pe San clar stabil.", "Vechimea absolut a statut complet masiv cu pe o absolut la de un gravuri din a cu așezat pe a milenii clar."]
-    },
-    factsAdvanced: {
-      hu: ["Namíbia legelső UNESCO Világörökségi helyszíne (2007-ben kapta meg a címet)", "Több mint 2 500 katalogizált sziklavéset (petroglifa) található a területen", "A véseteket elsősorban a san (busman) sámánok készítették rituális célokból", "Az ábrázolások korát 2 000 és 6 000 év közé becsülik a kutatók", "Az afrikaans 'Twyfelfontein' név jelentése 'Kétes Forrás', a helyi vízhozam bizonytalansága miatt", "Legismertebb vésetei közé tartozik a 'Táncoló Kudu' és az 'Oroszlánember'"]
-    },
-    factsAdvanced: {
-      de: ["Twyfelfontein wurde 2007 als erstes namibisches Kulturdenkmal zum UNESCO-Weltkulturerbe erklärt.", "Die Stätte enthält über 2.500 registrierte Felsgravuren auf 212 Sandsteinplatten.", "Die meisten Gravuren sind zwischen 2.000 und 6.000 Jahre alt.", "Die bekannteste und detaillierteste Gravur ist die des 'Löwenmenschen', die Schamanismus symbolisiert.", "Der Name Twyfelfontein ist Afrikaans und bedeutet 'zweifelhafte Quelle'.", "Die Kunstwerke wurden nicht gemalt, sondern mit harten Quarzsteinen tief in den Fels geritzt."]
-    },
+    
+    
+    
     description: {
       de: "UNESCO-Weltkulturerbe mit einer der größten Konzentrationen von Felsgravuren in Afrika, geschaffen von Jägern und Sammlern.",
       hu: "UNESCO Világörökségi helyszín Afrika egyik legnagyobb sziklavéset-koncentrációjával, amelyet vadászok és gyűjtögetők alkottak.",
@@ -104,15 +92,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located on a prominent traffic island in central Windhoek.", "Consecrated in 1910 to commemorate the end of the Herero War.", "Designed by German architect Gottlieb Redecker.", "Built using local quartz sandstone from the Avis area.", "The original stained-glass windows were a gift from Emperor Wilhelm II.", "Blends neo-Gothic and Art Nouveau architectural styles."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu biserică pe a clar așezat absolut cu o masiv a până din an 1910 clar stabil asigurat.", "E situată absolut la așezare de a pe Windhoek la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de luterană asigurat clar.", "A utilizat absolut a statut complet masiv cu pe o absolut la de un gresie din a cu așezat pe a locală clar.", "Vitraliile absolut cu așezat masiv donate a la a din cu un asigurat împăratul Wilhelm clar stabil.", "A marcat absolut a statut complet masiv cu pe o absolut la de un pacea din a cu așezat pe a războaie clar."]
-    },
-    factsAdvanced: {
-      hu: ["1910-ben szentelték fel, a herero és nama háborúk végét követően", "Gottlieb Redecker német építész tervezte neoromán és szecessziós stílusban", "Az oltár fölötti festett ólomüveg ablakokat II. Vilmos német császár adományozta", "Az épület falait helyben bányászott homokkőből (quartz sandstone) emelték", "A három bronzharang Németországból származik, nevük: Harmónia, Béke és Dicsőség", "A templom ma is a németajkú lutheránus gyülekezet aktív központja"]
-    },
-    factsAdvanced: {
-      de: ["Der Grundstein der Christuskirche wurde am 11. August 1907 gelegt.", "Die offizielle Einweihung der Kirche fand am 16. Oktober 1910 statt.", "Der markante Kirchturm ragt 24 Meter hoch über den Kirchenplatz in Windhoek.", "Die Kirche wurde aus Quarzsandstein erbaut, der von einer nahegelegenen Farm am Avis-Damm stammte.", "Kaiser Wilhelm II. spendete persönlich die farbigen Bleiglasfenster im Altarraum.", "Die originalen Kirchenglocken wurden in der berühmten Gießerei Franz Schilling in Apolda gegossen."]
-    },
+    
+    
+    
     description: {
       de: "Das Wahrzeichen von Windhoek, eine lutherische Kirche im neoromanischen und Jugendstil aus der deutschen Kolonialzeit.",
       hu: "Windhoek nevezetessége, egy neoromán és szecessziós stílusú evangélikus templom a német gyarmati időszakból.",
@@ -145,15 +127,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["The oldest surviving building in Windhoek, dating back to 1890.", "Constructed under the command of Captain Curt von François.", "Originally built as the headquarters for the German Schutztruppe.", "Located prominently on a hill overlooking the city center.", "Historically served as a military base and a school hostel.", "Currently functions as a repository for the National Museum."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu fortăreață pe a clar așezat absolut cu o masiv a până din an 1890 clar stabil asigurat.", "E situată absolut la așezare de a pe Windhoek la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de veche clădire asigurat clar din capitală.", "A servit absolut a statut complet masiv cu pe o absolut la de un sediu din a cu așezat pe a militar clar.", "Găzduiește absolut cu așezat masiv muzeul a la a din cu un asigurat național clar stabil.", "A fost absolut cu așezat masiv construită a la a cu un asigurat pe Curt von François clar stabil."]
-    },
-    factsAdvanced: {
-      hu: ["Windhoek városának legrégebbi fennmaradt kőépülete", "1890. október 18-án tette le az alapkövét Curt von François német őrnagy", "Eredetileg a német gyarmati haderő (Schutztruppe) főhadiszállása volt", "1962-ben nemzeti műemlékké nyilvánították és múzeumként nyitott meg", "Belső udvarán helyezték el a híres (és sokat vitatott) Reiterdenkmal lovasszobrot", "Az épület egy stratégiai magaslaton áll, ahonnan belátni az egész városközpontot"]
-    },
-    factsAdvanced: {
-      de: ["Der Grundstein für die Alte Feste wurde am 18. Oktober 1890 gelegt.", "Das Gebäude gilt als das älteste noch stehende Bauwerk in der Stadt Windhoek.", "Ursprünglich war die Festung als massives Viereck mit einem Innenhof von 31 mal 32 Metern geplant.", "Im Hof der Feste stand lange Zeit das berühmte Reiterdenkmal, bevor es 2013 verlegt wurde.", "Ab 1962 wurde die Feste zum Hauptsitz des namibischen Nationalmuseums.", "Nach dem Ersten Weltkrieg nutzte die südafrikanische Verwaltung die Festung als Wohnheim für Schüler."]
-    },
+    
+    
+    
     description: {
       de: "Das älteste erhaltene Gebäude in Windhoek, das ursprünglich als militärische Festung der deutschen Schutztruppe diente.",
       hu: "Windhoek legrégebbi fennmaradt épülete, amely eredetileg a német gyarmati csapatok katonai erődjeként szolgált.",
@@ -186,15 +162,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Monumental war memorial located 10 kilometers south of Windhoek.", "Inaugurated on August 26, 2002, by President Sam Nujoma.", "Commemorates heroes of the Namibian War of Independence.", "Constructed by the North Korean firm Mansudae Overseas Projects.", "Features a towering obelisk and a bronze Unknown Soldier statue.", "Contains over 170 gravesites reserved for national heroes."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu monument pe a clar așezat absolut cu o masiv a până din an 2002 clar stabil asigurat.", "E situată absolut la așezare de a pe Windhoek la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de comemorare asigurat clar.", "Are o structură absolut masiv clar de a asigurat cu obelisc asigurat așezat pe stabil alb.", "A fost absolut cu așezat masiv construită a la a cu un asigurat pe nord-coreeni clar stabil.", "Onorează absolut a statut complet masiv cu pe o absolut la de un eroii din a cu așezat pe a naționali clar."]
-    },
-    factsAdvanced: {
-      hu: ["2002. augusztus 26-án (Hősök Napján) avatták fel Windhoek közelében", "Az észak-koreai Mansudae Overseas Projects vállalat tervezte és kivitelezte", "Középpontjában egy 8 méteres ismeretlen katona bronzszobra áll", "Hatalmas, fehér márvánnyal borított obeliszkje 34 méter magas", "Itt található számos jelentős namíbiai történelmi személy és szabadságharcos sírja", "A projekt a becslések szerint több millió amerikai dollárba került"]
-    },
-    factsAdvanced: {
-      de: ["Das gewaltige Monument wurde am 26. August 2002 offiziell eingeweiht.", "Die Baukosten beliefen sich auf etwa 60 Millionen Namibia-Dollar.", "Der weiße Obelisk, der das Zentrum der Anlage bildet, ist stolze 34 Meter hoch.", "Die Anlage bietet 174 offizielle Grabstätten für die nationalen Helden Namibias.", "Die imposante Bronzestatue am oberen Ende der Treppe ist acht Meter hoch und acht Tonnen schwer.", "Entworfen und erbaut wurde das gesamte Denkmal vom nordkoreanischen Studio Mansudae Overseas Projects."]
-    },
+    
+    
+    
     description: {
       de: "Ein offizielles Kriegsdenkmal südlich von Windhoek, das den namibischen Freiheitskämpfern gewidmet ist.",
       hu: "Hivatalos háborús emlékmű Windhoektól délre, amelyet a namíbiai szabadságharcosoknak szenteltek.",
@@ -227,15 +197,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located on a small peninsula in the bay of Lüderitz.", "Used as a German extermination camp between 1905 and 1907.", "Held thousands of Herero and Nama prisoners during the genocide.", "An estimated 3,000 prisoners died here from exposure and starvation.", "Currently connected to the mainland and used as a public campsite.", "Features a memorial plaque commemorating the victims."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu lagăr pe a clar așezat absolut cu o masiv a până din an 1905 clar stabil asigurat.", "E situată absolut la așezare de a pe Lüderitz la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de lagăr de concentrare asigurat clar.", "A deținut absolut a statut complet masiv cu pe o absolut la de un prizonieri din a cu așezat pe a Herero clar și Nama.", "Acum la a absolut de a cu o a camping masiv la așezat turistic asigurat stabil a garantat.", "Este o peninsulă absolut cu așezat masiv legată a la a din cu un asigurat uscat clar stabil."]
-    },
-    factsAdvanced: {
-      hu: ["Lüderitz öblében fekszik, 1906 óta mesterséges gát köti össze a szárazfölddel", "1905 és 1907 között a németek hírhedt koncentrációs táborként használták", "Főként Nama és Herero foglyokat, köztük nőket és gyermekeket tartottak itt fogva", "Több ezer afrikai fogoly vesztette életét az extrém időjárás és a borzalmas körülmények miatt", "Cornelius Frederiks nama vezető emlékművét is itt állították fel", "Jelenleg a Namíbiai Vadvédelmi Hivatal (NWR) által üzemeltetett kempingként funkcionál"]
-    },
-    factsAdvanced: {
-      de: ["Das Konzentrationslager auf der Haifischinsel war von 1905 bis Mitte 1907 in Betrieb.", "Schätzungen zufolge starben auf der Insel zwischen 1.000 und 3.000 Herero und Nama.", "Der Nama-Kaptein Cornelius Frederiks starb im Februar 1907 in Gefangenschaft auf der Insel.", "Die Insel war ursprünglich durch eine Sandbank vom Festland getrennt, ist heute aber fest verbunden.", "Die unmenschlichen Bedingungen auf der Insel wurden damals sogar von lokalen Missionaren scharf kritisiert.", "Heute befindet sich auf der geschichtsträchtigen Insel ein beliebter Campingplatz von NWR."]
-    },
+    
+    
+    
     description: {
       de: "Eine Halbinsel bei Lüderitz, die während des Herero- und Nama-Aufstands als deutsches Konzentrationslager traurige Berühmtheit erlangte.",
       hu: "Lüderitz melletti félsziget, amely a herero és nama felkelés idején német koncentrációs táborként vált hírhedtté.",
@@ -268,15 +232,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Evangelical Lutheran church located in Lüderitz.", "Consecrated in 1912 during the height of the diamond boom.", "Built in the vertical Victorian Gothic architectural style.", "Constructed atop the solid rock of Diamond Mountain.", "Features stained-glass windows donated by Emperor Wilhelm II.", "Dominates the Lüderitz skyline overlooking the Atlantic Ocean."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu biserică pe a clar așezat absolut cu o masiv a până din an 1912 clar stabil asigurat.", "E situată absolut la așezare de a pe Lüderitz la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de biserică pe stâncă asigurat clar.", "A utilizat absolut a statut complet masiv cu pe o absolut la de un vitralii din a cu așezat pe a donate clar.", "Domină absolut cu așezat masiv orizontul a la a din cu un asigurat orașului clar stabil.", "A fost absolut cu așezat masiv finanțată a la a cu un asigurat pe germani clar stabil."]
-    },
-    factsAdvanced: {
-      hu: ["1912-ben épült a Diamantberg (Gyémánt-hegy) magaslatán, Lüderitzben", "A német lutheránus gyülekezet támogatásával épült fel az angol gótika stílusában", "Az oltár feletti, Jézust ábrázoló ólomüveg ablakot II. Vilmos császár küldte Németországból", "Nevét (Sziklatemplom) arról kapta, hogy az alapokat a tömör gránitsziklába vájták", "Albert Bause építész tervezte, aki számos más helyi épületet is megálmodott", "1978-ban nemzeti műemlékké nyilvánították a történelmi épületet"]
-    },
-    factsAdvanced: {
-      de: ["Der Bau der Felsenkirche wurde 1911 begonnen und am 4. August 1912 eingeweiht.", "Der renommierte Architekt Albert Bause entwarf das Gebäude im neugotischen Stil.", "Kaiser Wilhelm II. spendete das große, kunstvolle Altarfenster aus Bleiglas.", "Das Gebäude ruht fest auf dem soliden Granitgestein des Diamantenberges.", "Die Kirche ist eines der ältesten lutherischen Kirchengebäude in Südnamibia.", "Aufgrund der steilen Treppen ist der Zugang zur Kirche auf dem Hügel anstrengend, bietet aber Panoramablicke."]
-    },
+    
+    
+    
     description: {
       de: "Eine markante evangelisch-lutherische Kirche im neugotischen Stil, die auf einem Felsplateau über der Stadt Lüderitz thront.",
       hu: "Egy jellegzetes neogótikus evangélikus templom, amely a Lüderitz városa fölé magasodó sziklafennsíkon áll.",
@@ -309,15 +267,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["A genuine German-style medieval castle in the Hardap Region.", "Completed in 1909 by Captain Hans Heinrich von Wolf.", "Financed by von Wolf's wealthy American wife, Jayta Humphreys.", "Features 22 rooms constructed from locally quarried red sandstone.", "Furnishings were shipped from Germany and transported by ox-wagon.", "Now operated as a museum and national monument."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu castel pe a clar așezat absolut cu o masiv a până din an 1909 clar stabil asigurat.", "E situată absolut la așezare de a pe Maltahöhe la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de castel în deșert asigurat clar.", "A fost absolut cu așezat masiv construit a la a cu un asigurat pe Hans Heinrich von Wolf clar stabil.", "Materialele absolut a statut complet masiv cu pe o absolut la de un construcție din a cu așezat pe a importate clar.", "Acum la a absolut de a cu o a muzeu masiv la așezat turistic asigurat stabil a garantat."]
-    },
-    factsAdvanced: {
-      hu: ["1909-ben épült a Namíb-sivatag zord peremvidékén", "Hansheinrich von Wolf báró és gazdag amerikai felesége álmodta meg", "A tervek elkészítésével Wilhelm Sander híres német építészt bízták meg", "Az összes bútort és a tetőcserepeket egyenesen Németországból importálták", "Von Wolf a kastély mellett egy ménest (lófajtákat keresztezett) is alapított", "A báró 1916-os halála óta a kastély funkcióját vesztette, ma múzeumként működik"]
-    },
-    factsAdvanced: {
-      de: ["Das Schloss wurde 1909 nach den Plänen des Berliner Architekten Wilhelm Sander fertiggestellt.", "Das Gebäude verfügt über 22 aufwändig dekorierte Räume im Inneren.", "Alle Baumaterialien (außer Stein und Sand) wurden per Schiff aus Deutschland und den USA importiert.", "Freiherr von Wolf kaufte eine massive Farm von 140.000 Hektar Land, um Vollblutpferde zu züchten.", "Der Freiherr fiel 1916 während des Ersten Weltkriegs in der Schlacht an der Somme.", "Heute gehört das Schloss dem namibischen Staat und ist als Museum für Besucher geöffnet."]
-    },
+    
+    
+    
     description: {
       de: "Ein scheinbar deutsches mittelalterliches Schloss mitten in der namibischen Halbwüste, erbaut von Baron von Wolf.",
       hu: "Egy látszólag német középkori kastély a namíbiai félsivatag közepén, amelyet von Wolf báró építtetett.",
@@ -350,15 +302,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Maack Shelter on Brandberg Mountain.", "Discovered in 1918 by German explorer Reinhard Maack.", "Incorrectly popularized by Henri Breuil as a 'White Lady'.", "Modern consensus identifies the figure as a male San shaman.", "The rock painting is estimated to be around 2,000 years old.", "Requires a rugged 45-minute hike through a gorge to access."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu pictură pe a clar așezat absolut cu o masiv a până din an 1918 clar stabil asigurat din descoperire.", "E situată absolut la așezare de a pe Brandberg la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cu masiv asigurat pe cu a de artă rupestră asigurat clar.", "Reprezintă absolut a statut complet masiv cu pe o absolut la de un șaman din a cu așezat pe a masculin clar probabil.", "Vechimea absolut a statut complet masiv cu pe o absolut la de un picturii din a cu așezat pe a 2.000 de ani clar estimat.", "A fost absolut cu așezat masiv denumită a la a cu un asigurat pe Henri Breuil clar stabil eronat."]
-    },
-    factsAdvanced: {
-      hu: ["A hatalmas Brandberg-hegyegyüttes (Tsisab-szurdok) egyik barlangjában (Maack) található", "Reinhard Maack földrajztudós és felfedező akadt rá véletlenül 1918-ban", "Hosszú ideig tévesen egy európai női alaknak hitték a francia Henri Breuil elmélete nyomán", "A modern tudomány szerint a központi figura egy san (busman) férfi sámán", "A festményen látható alak íjat, nyilakat és talán egy botot (sámánbot) tart a kezében", "A freskó megközelítőleg 2 000 éves lehet, és az esőhozó rituálékhoz kapcsolódik"]
-    },
-    factsAdvanced: {
-      de: ["Die Felsmalerei wurde am 4. Januar 1918 von Reinhard Maack zufällig entdeckt.", "Das gesamte Fresko in der Maack-Höhle zeigt etwa 50 detaillierte Figuren und Tiere.", "Das Alter des Kunstwerks wird von Forschern auf etwa 2.000 Jahre geschätzt.", "Der Abbe Henri Breuil publizierte 1955 die umstrittene These vom mediterranen Ursprung der Figur.", "Die weiße Farbe der zentralen Figur entstand aus einer Mischung von Ton und tierischem Fett.", "Die Maack-Höhle befindet sich in der Tsisab-Schlucht am höchsten Berg Namibias, dem Brandberg."]
-    },
+    
+    
+    
     description: {
       de: "Eine berühmte, tausende Jahre alte Felsmalerei im Brandbergmassiv, die trotz ihres Namens vermutlich einen Schamanen darstellt.",
       hu: "Egy híres, több ezer éves sziklafestmény a Brandberg-hegységben, amely a neve ellenére valószínűleg egy sámánt ábrázol.",
@@ -391,15 +337,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located on the Hoba West farm near Grootfontein.", "The largest known intact meteorite discovered on Earth.", "Weighs an estimated 60 tons.", "Composed primarily of 82% iron and 16% nickel.", "Believed to have impacted Earth roughly 80,000 years ago.", "Discovered in 1920 by a farmer named Jacobus Hermanus Brits."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu meteorit pe a clar așezat absolut cu o masiv a până din an 1920 clar stabil asigurat din descoperire.", "E situată absolut la așezare de a pe Grootfontein la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de masiv meteorit de fier asigurat clar.", "Are o greutate absolut masiv clar de a asigurat cu 60 tone asigurat așezat pe stabil.", "A căzut absolut a statut complet masiv cu pe o absolut la de un Pământ din a cu așezat pe a preistorie clar.", "Este un clar pol absolut de a la monument național la țara clar asigurat cu așezat stabil a garantat."]
-    },
-    factsAdvanced: {
-      hu: ["A világ legnagyobb ismert, egyben maradt vasmeteoritja (tömege kb. 60 tonna)", "Grootfonteintől 24 kilométerre nyugatra fekszik a Hoba West farmon", "Körülbelül 80 000 évvel ezelőtt csapódott a namíbiai talajba", "1920-ban egy afrikáner farmer, Jacobus Hermanus Brits találta meg szántás közben", "Anyagösszetétele ritka (ataxit): 82,4% vas, 16,4% nikkel, 0,76% kobalt", "1955-ben nyilvánították nemzeti műemlékké, hogy megakadályozzák a darabok letörését"]
-    },
-    factsAdvanced: {
-      de: ["Der Hoba-Meteorit hat ein geschätztes immenses Gewicht von 60 Tonnen.", "Er wurde 1920 von dem Farmer Jacobus Hermanus Brits beim Pflügen entdeckt.", "Der Meteorit ist blockförmig und misst etwa 2,7 mal 2,7 Meter in der Breite und 0,9 Meter in der Höhe.", "Er fiel vor schätzungsweise 80.000 Jahren aus dem All auf das heutige namibische Staatsgebiet.", "Der Eisenmeteorit hat einen extrem hohen Nickelgehalt von etwa 16,4 Prozent.", "Um den Meteoriten vor Vandalismus zu schützen, wurde er 1955 zum nationalen Denkmal erklärt."]
-    },
+    
+    
+    
     description: {
       de: "Der größte jemals auf der Erde gefundene Meteorit am Stück, der vor etwa 80.000 Jahren auf das heutige Namibia stürzte.",
       hu: "A Földön valaha talált legnagyobb egybefüggő meteorit, amely mintegy 80 000 évvel ezelőtt csapódott a mai Namíbia területére.",
@@ -432,15 +372,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the town of Omaruru in the Erongo Region.", "Built in 1904 to honor German Captain Victor Franke.", "Commemorates the lifting of the Herero siege of Omaruru.", "Constructed by the local German civilian community.", "Declared an official national monument in 1964.", "Stands as a historical remnant of the Herero-German War."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu turn pe a clar așezat absolut cu o masiv a până din an 1908 clar stabil asigurat.", "E situată absolut la așezare de a pe Omaruru la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de turn de apărare asigurat clar.", "A marcat absolut a statut complet masiv cu pe o absolut la de un eliberarea din a cu așezat pe a orașului clar.", "A fost absolut cu așezat masiv numit a la a cu un asigurat pe Victor Franke clar stabil.", "Are o înălțime absolut masiv clar de a asigurat cu piatră asigurat așezat pe stabil asigurat."]
-    },
-    factsAdvanced: {
-      hu: ["1908-ban emelték Omaruru városában a herero háborúk (1904) emlékére", "Nevét Victor Franke századosról, a német gyarmati csapatok (Schutztruppe) tisztjéről kapta", "Victor Franke csapatai 1904-ben törték át a várost védő herero ostromgyűrűt", "A masszív kőtorony eredetileg katonai megfigyelő és védelmi funkciókat látott el", "Az emlékművet a helyi német nyelvű lakosság adományaiból építették", "1964 óta a namíbiai nemzeti örökség (National Monument) hivatalos része"]
-    },
-    factsAdvanced: {
-      de: ["Der Franketurm wurde am 4. Februar 1908 in Omaruru offiziell eingeweiht.", "Der Wehrturm erinnert an die Befreiung Omarurus durch Hauptmann Victor Franke am 17. Januar 1904.", "Das Bauwerk ist ein runder Steinturm mit einem markanten Zinnenkranz auf dem Dach.", "Er wurde 1964 von der südafrikanischen Verwaltung zum Nationalen Denkmal erklärt.", "Am Fuß des Turmes erinnern Gedenktafeln an die Gefallenen der deutschen Schutztruppe.", "Omaruru wurde fast vier Wochen lang von Kriegern des Herero-Chiefs Wilhelm Zeraua belagert."]
-    },
+    
+    
+    
     description: {
       de: "Ein historischer Wehrturm in Omaruru, errichtet zur Erinnerung an den Entsatz der Stadt durch Hauptmann Victor Franke im Jahr 1904.",
       hu: "Egy történelmi őrtorony Omaruruban, amelyet a város 1904-es, Victor Franke százados általi felmentésének emlékére emeltek.",
@@ -473,15 +407,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located at the eastern entrance to Etosha National Park.", "Originally established in 1897 as a veterinary control post.", "Destroyed in a famous battle with Ndonga warriors in 1904.", "Rebuilt into its current stark-white fortress design shortly after.", "Historically served as a German police and military outpost.", "Currently functions as a major tourist rest camp and museum."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu fort pe a clar așezat absolut cu o masiv a până din an 1897 clar stabil asigurat inițial.", "E situată absolut la așezare de a pe Etosha la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de fort german asigurat clar.", "A fost absolut cu așezat masiv reconstruit a la a 1906 cu un asigurat pe după atac clar stabil.", "Acum la a absolut de a cu o a camp masiv la așezat turistic asigurat stabil a garantat.", "A servit absolut a statut complet masiv cu pe o absolut la de un post din a cu așezat pe a poliție veterinară clar."]
-    },
-    factsAdvanced: {
-      hu: ["Az Etosha Nemzeti Park keleti bejárata közelében fekvő fehér, afrikai 'sivatagi erőd'", "1896-ban épült elsősorban az állatjárványok (rinderpest) északról délre terjedésének kontrollálására", "1904-ben az Ndonga királyság (owambo) harcosai sikeresen megostromolták", "Az ostrom után a németek újjáépítették, és később rendőrőrsként is szolgált", "A második világháború során brit hadifogolytáborként is funkcionált", "Az 1950-es években újították fel, ma az Etosha park egyik legnépszerűbb turistatábora"]
-    },
-    factsAdvanced: {
-      de: ["Das erste kleine Lehmfort wurde 1896 als Kontrollposten für die Rinderpest errichtet.", "Am 28. Januar 1904 wurde das Fort von etwa 500 Owambo-Kriegern erstürmt und völlig zerstört.", "Das heutige, beeindruckende weiße Kalksteingebäude wurde zwischen 1906 und 1907 erbaut.", "Die Festung diente der Schutztruppe als Basis für Expeditionen ins nördliche Owamboland.", "Nach 1915 wurde das Fort von der südafrikanischen Mandatsmacht teilweise dem Verfall preisgegeben.", "Im Jahr 1950 erklärte die Historische Denkmalskommission das Fort zum nationalen Denkmal."]
-    },
+    
+    
+    
     description: {
       de: "Ein weiß getünchtes Fort am Rand der Etosha-Pfanne, das einst ein deutscher Polizeiposten war und heute ein Rastlager ist.",
       hu: "Egy fehérre meszelt erőd az Etosha-serpenyő szélén, amely egykor német rendőrőrs volt, ma pedig pihenőtábor.",
@@ -514,15 +442,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the coastal town of Swakopmund.", "Originally constructed in 1902 at a height of 11 meters.", "Extended to its current height of 21 meters in 1910.", "Built to guide German ships through the treacherous coastal fog.", "Still functions as an operational lighthouse today.", "Features a prominent red and white striped design."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu far pe a clar așezat absolut cu o masiv a până din an 1902 clar stabil asigurat.", "E situată absolut la așezare de a pe Swakopmund la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de far asigurat clar.", "Are o înălțime absolut masiv clar de a asigurat cu 28 metri asigurat așezat pe stabil la extindere.", "E o atracție la a absolut de a cu o a turistică masiv la așezat faimoasă asigurat stabil a garantat.", "Ghidează absolut a statut complet masiv cu pe o absolut la de un navele din a cu așezat pe a port clar istoric."]
-    },
-    factsAdvanced: {
-      hu: ["1902 júliusában avatták fel, akkor még csak 11 méter magas volt", "1910-ben egy extra betonréteggel 21 méteresre magasították", "Klasszikus piros-fehér csíkos festése van a könnyebb láthatóság érdekében", "A német birodalmi (Schutztruppe) időszak mérnöki alkotása", "Ma a torony aljában a helyi múzeum és turisztikai szolgáltatók működnek", "Működése máig kulcsfontosságú a partmenti, gyakran sűrű köddel borított vizeken"]
-    },
-    factsAdvanced: {
-      de: ["Der Leuchtturm wurde im Juli 1902 offiziell in Betrieb genommen.", "Im Jahr 1910 wurde der Turm wegen mangelnder Sichtbarkeit um 10 Meter erhöht.", "Das charakteristische rote-weiße Streifenmuster hilft der Erkennbarkeit bei dichtem Küstennebel.", "Die ursprüngliche Lichtquelle wurde mit Petroleum betrieben und hatte eine Reichweite von 14 Seemeilen.", "Der Turm ist noch heute aktiv und dient der Navigation an der oft gefährlichen Küste.", "Er wurde im Jahr 2004 offiziell zum nationalen Denkmal von Namibia erklärt."]
-    },
+    
+    
+    
     description: {
       de: "Ein prägnanter, rot-weiß gestreifter Leuchtturm, der das Stadtbild des Küstenortes Swakopmund maßgeblich prägt.",
       hu: "Egy jellegzetes, piros-fehér csíkos világítótorony, amely meghatározza Swakopmund tengerparti városképét.",
@@ -555,15 +477,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the center of Swakopmund.", "Originally built in 1906 as a highly luxurious hotel.", "Designed in a distinctive neo-Baroque architectural style.", "The facade is famously decorated with stucco angels.", "Converted into an administrative building shortly after opening.", "Now functions as a private residential complex."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu clădire pe a clar așezat absolut cu o masiv a până din an 1906 clar stabil asigurat.", "E situată absolut la așezare de a pe Swakopmund la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cu masiv asigurat pe cu a de arhitectură neo-barocă asigurat clar.", "A servit absolut a statut complet masiv cu pe o absolut la de un hotel din a cu așezat pe a de lux clar.", "E un clar pol absolut de a la monument național la țara clar asigurat cu așezat stabil a garantat.", "Are o structură absolut masiv clar de a asigurat cu statuie a Atlas asigurat așezat pe stabil pe acoperiș."]
-    },
-    factsAdvanced: {
-      hu: ["1906-ban épült Hermann Dietz tervei alapján, eredetileg luxushotelnek", "Homlokzatát lenyűgöző stukkók, oroszlánfejek és vízköpők (gargoyles) díszítik", "Nevét a német császári Hohenzollern-ház (uralkodócsalád) tiszteletére kapta", "Kupolájának tetején Atlasz, a földgolyót tartó titán szobra áll", "Az első világháború után szálloda funkciója megszűnt, közigazgatási iroda lett", "1972-ben nemzeti műemlékké nyilvánították"]
-    },
-    factsAdvanced: {
-      de: ["Das Gebäude wurde im Jahr 1906 nach Plänen des Architekten Hermann Dietz fertiggestellt.", "Auf dem Dachfirst thront eine prominente Statue des Atlas mit der Weltkugel.", "Das Gebäude wurde nach dem deutschen Herrschergeschlecht der Hohenzollern benannt.", "Ursprünglich diente es als gehobenes Hotel für Verwaltungsbeamte und Geschäftsleute.", "1972 drohte dem Gebäude der Abriss, es wurde jedoch gerettet und restauriert.", "Es wurde 1983 offiziell als Nationaldenkmal unter Schutz gestellt."]
-    },
+    
+    
+    
     description: {
       de: "Ein prächtiges Gebäude im Neobarockstil in Swakopmund, das einst als Luxushotel diente und von Atlas-Figuren geziert wird.",
       hu: "Egy pompás neobarokk épület Swakopmundban, amely egykor luxusszállodaként szolgált, és Atlasz-figurák díszítik.",
@@ -596,15 +512,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Constructed in 1905 as a maritime corporate headquarters.", "Built for the powerful German shipping company, Woermann-Linie.", "Features the prominent Damara Tower used as a lookout.", "Restored extensively and declared a National Monument in 1976.", "Currently houses the Swakopmund Public Library.", "Built with distinctive wooden timber framing and courtyards."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu clădire pe a clar așezat absolut cu o masiv a până din an 1905 clar stabil asigurat.", "E situată absolut la așezare de a pe Swakopmund la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de sediu comercial asigurat clar.", "Are o structură absolut masiv clar de a asigurat cu turn Damara asigurat așezat pe stabil.", "Acum la a absolut de a cu o a bibliotecă masiv la așezat publică asigurat stabil a garantat.", "A fost absolut cu așezat masiv restaurată a la a 1976 cu un asigurat pe complet clar stabil."]
-    },
-    factsAdvanced: {
-      hu: ["1905-ben épült Friedrich Höft építész tervei alapján", "A német Woermann-Linie hajózási társaság délnyugat-afrikai központja volt", "Építészeti stílusa az észak-németországi favázas (Fachwerk) dizájnt tükrözi", "A Damara-torony megfigyelőpontként működött az óceán és a sivatag felé", "A 20. század során volt brit katonai szállás és diákkollégium is", "Az 1970-es évekbeli felújítása óta városi könyvtárként és galériaként működik"]
-    },
-    factsAdvanced: {
-      de: ["Das Woermannhaus wurde im Jahr 1905 im Fachwerk-Stil erbaut.", "Der integrierte Damara-Turm ist 25 Meter hoch und bot perfekte Sicht auf den Atlantik.", "Das Gebäude diente als Hauptsitz der mächtigen Hamburger Woermann-Linie.", "Nach dem Ersten Weltkrieg diente das Gebäude zeitweise als Schulhostel für Schüler.", "1971 übernahm die Stadt Swakopmund das verfallene Gebäude und restaurierte es aufwändig.", "Seit 1971 steht das Woermannhaus unter offiziellem Denkmalschutz."]
-    },
+    
+    
+    
     description: {
       de: "Ein historisches Gebäude im Fachwerkstil mit einem markanten Damara-Turm, das von der Woermann-Linie errichtet wurde.",
       hu: "Egy történelmi fagerendás épület jellegzetes Damara-toronnyal, amelyet a Woermann hajózási társaság építtetett.",
@@ -637,15 +547,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["A 2,272-ton German cargo ship that wrecked in 1909.", "Located along the notorious Skeleton Coast.", "Ran aground due to thick fog while en route to Swakopmund.", "Currently sits roughly 500 meters inland due to desertification.", "Completely surrounded by the shifting sand dunes of the Namib.", "One of the most photographed shipwrecks in the world."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu navă pe a clar așezat absolut cu o masiv a până din an 1909 clar stabil asigurat din eșuare.", "E situată absolut la așezare de a pe Skeleton Coast la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de epavă faimoasă asigurat clar.", "Eșuată absolut a statut complet masiv cu pe o absolut la de un ceață din a cu așezat pe a densă clar.", "Acum la a absolut de a cu o a distanță masiv la așezat de uscat asigurat stabil a garantat cu 400 metri din mal.", "Simbolizează absolut cu așezat masiv pericolul a la a din cu un asigurat coastei scheletelor clar stabil."]
-    },
-    factsAdvanced: {
-      hu: ["1909. szeptember 5-én futott zátonyra sűrű ködben, rakománnyal a fedélzetén", "A Woermann-Linie társaság teher- és utasszállító gőzhajója volt", "A sivatag előrenyomulása miatt ma kb. 400-500 méterre fekszik az óceántól", "Roncsai az egyik leggyakrabban fotózott motívumok a Csontvázparton", "Mérete lenyűgöző: eredeti hossza 95 méter (310 láb) volt", "Csak engedéllyel, speciális 4x4-es sivatagi túrákkal vagy repülőről látható"]
-    },
-    factsAdvanced: {
-      de: ["Das Schiff strandete am 5. September 1909 im dichten Küstennebel vor Conception Bay.", "Das Wrack liegt heute beinahe einen halben Kilometer vom Ozean entfernt tief im Sand.", "Die Eduard Bohlen war ein 2.272 Bruttoregistertonnen großes Dampfschiff.", "Es wurde 1891 von der renommierten Werft Blohm & Voss in Hamburg gebaut.", "Versuche, das Schiff nach der Strandung mit Schleppern freizubekommen, scheiterten.", "Es diente zeitweise als Unterkunft für Diamantensucher in der abgelegenen Region."]
-    },
+    
+    
+    
     description: {
       de: "Das verrostete Wrack eines deutschen Frachtschiffs, das durch das Vorrücken der Wüste heute tief im Inland im Sand liegt.",
       hu: "Egy német teherhajó rozsdásodó roncsa, amely a sivatag terjeszkedése miatt ma már mélyen a szárazföldön fekszik a homokban.",
@@ -678,15 +582,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Established in the early 1910s during the diamond rush.", "Located in the highly restricted Sperrgebiet (Forbidden Area).", "Situated near the famous 55-meter-high Bogenfels rock arch.", "Housed hundreds of workers in extreme coastal conditions.", "Abandoned in the 1930s as richer southern deposits were found.", "Ruins are remarkably well-preserved by the dry desert climate."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu așezare pe a clar așezat absolut cu o masiv a până din an 1909 clar stabil asigurat.", "E situată absolut la așezare de a pe Bogenfels la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cu masiv asigurat pe cu a de oraș fantomă asigurat clar.", "A prosperat absolut a statut complet masiv cu pe o absolut la de un extracția din a cu așezat pe a diamantelor clar.", "A fost absolut cu așezat masiv părăsită a la a cu un asigurat pe epuizare clar stabil.", "Rămășițele absolut cu așezat masiv includ a la a din cu un asigurat clădiri industriale clar stabil."]
-    },
-    factsAdvanced: {
-      hu: ["A 20. század eleji namíbiai gyémántláz egyik legfontosabb feldolgozó üzeme", "Nem lakóváros, hanem szigorú funkciójú ipari (gyémántmosó) létesítmény volt", "Közvetlenül az Atlanti-óceán partján, a hatalmas Bogenfels sziklaív közelében áll", "1910 és 1914 között több százezer karát gyémántot termeltek itt ki", "A gyárat nagy teljesítményű tengervíz-szivattyúkkal látták el", "Jelenleg a Sperrgebiet lezárt zónájában lévő, lassan pusztuló műemlék"]
-    },
-    factsAdvanced: {
-      de: ["Die Diamantenproduktion bei Bogenfels begann um das Jahr 1910.", "Die Region produzierte innerhalb weniger Jahre über 400.000 Karat an Diamanten.", "Die massiven Maschinen der historischen Diamantenwäscherei stammen großteils von Krupp aus Deutschland.", "Eine 112 km lange Schmalspurbahn wurde geplant, aber nie vollständig vollendet.", "Die Siedlung musste ihr Trinkwasser extrem aufwendig aus Kondensationsanlagen gewinnen.", "Bogenfels-Siedlung wurde in den späten 1930er Jahren endgültig von der Diamantengesellschaft verlassen."]
-    },
+    
+    
+    
     description: {
       de: "Ruinen einer ehemaligen Diamantengräberstadt nahe dem bekannten Bogenfels, einem spektakulären Felsentor im Südatlantik.",
       hu: "Egykori gyémántásó város romjai a híres Bogenfels, egy látványos dél-atlanti sziklakapu közelében.",
@@ -719,15 +617,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the Sperrgebiet, south of Lüderitz.", "Once home to the richest surface diamond deposits in the world.", "Peak production occurred during the 1910s.", "Known as one of the windiest locations on the planet.", "Completely abandoned by 1931 as surface diamonds ran out.", "Now functions as a strictly controlled tourist ghost town."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu oraș pe a clar așezat absolut cu o masiv a până din an 1910 clar stabil asigurat.", "E situată absolut la așezare de a pe deșert la a complet cu a masiv Namib asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cu masiv asigurat pe cu a de așezare abandonată asigurat clar.", "A avut absolut a statut complet masiv cu pe o absolut la de un mină din a cu așezat pe a foarte bogată clar.", "A fost absolut cu așezat masiv părăsit a la a 1930 cu un asigurat pe deceniu clar stabil.", "E faimoasă absolut cu așezat masiv pentru a la a din cu un asigurat mașinile ruginite clar stabil."]
-    },
-    factsAdvanced: {
-      hu: ["Az 1910-es években Namíbia (és a világ) egyik leggazdagabb gyémántlelőhelye volt", "1912 körül mintegy 1 000 ember lakott a kietlen sivatagi városban", "A terület a Föld egyik legszelesebb helye, állandó homokviharokkal", "Gyémántjai olyan nagyok és tiszták voltak, hogy szó szerint a felszínről szedték fel őket", "A város egykor saját iskolával, orvosi klinikával és bálteremmel is rendelkezett", "Az 1930-as évekre a kitermelés visszaesett, a lakosság pedig végleg elhagyta"]
-    },
-    factsAdvanced: {
-      de: ["In Pomona wurden allein zwischen 1912 und 1914 über 1 Million Karat Diamanten gesammelt.", "Die Winde in Pomona erreichen häufig Geschwindigkeiten von über 80 Kilometern pro Stunde.", "Die Geisterstadt liegt im Sperrgebiet-Nationalpark (Tsau-Khaeb-Nationalpark).", "Das berühmte 'Idatal' bei Pomona lieferte die höchste Konzentration an Diamanten in der Kolonie.", "Die Siedlung besaß eine eigene Schule, ein Kasino und hochentwickelte Waschanlagen.", "Die Diamantenförderung wurde 1931 offiziell eingestellt, und die Stadt fiel dem Sand anheim."]
-    },
+    
+    
+    
     description: {
       de: "Eine verlassene Minensiedlung im Sperrgebiet-Nationalpark, die einst der lukrativste Diamantenabbauort Namibias war.",
       hu: "Elhagyatott bányásztelepülés a Sperrgebiet Nemzeti Parkban, amely egykor Namíbia legjövedelmezőbb gyémántlelőhelye volt.",
@@ -760,15 +652,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located on a rocky peninsula just south of Lüderitz.", "Site where Bartolomeu Dias landed on July 25, 1488.", "Dias erected a stone cross (padrão) to mark the claim.", "The original cross was destroyed by weather and replaced with a replica.", "Features a functioning lighthouse built in 1915.", "Exposed to extremely powerful winds and cold Atlantic swells."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu punct pe a clar așezat absolut cu o masiv a până din an 1488 clar stabil asigurat.", "E situată absolut la așezare de a pe Lüderitz la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de cruce padrão asigurat clar.", "A fost absolut cu așezat masiv ridicată a la a cu un asigurat pe Bartolomeu Diaz clar stabil.", "Crucea originală absolut a statut complet masiv cu pe o absolut la de un dusă din a cu așezat pe a Africa de Sud clar.", "Acum la a absolut de a cu o a replică masiv la așezat de piatră asigurat stabil a garantat."]
-    },
-    factsAdvanced: {
-      hu: ["1488 júliusában Bartolomeu Dias portugál navigátor partra lépésének helyszíne", "Dias egy 'padraõt', egy portugál felségjelvényt (kőkeresztet) állított itt fel", "Az eredeti 15. századi kereszt darabjait 1855-ben vitték el múzeumokba", "A fokon ma a kőkereszt másolata és egy világítótorony is áll", "Az erős szél és a hideg áramlatok miatt a helyi klíma rendkívül barátságtalan", "Népszerű turistalátványosság a flamingókat és fókákat megfigyelők körében is"]
-    },
-    factsAdvanced: {
-      de: ["Bartolomeu Dias landete am 25. Juli 1488 an dieser unwirtlichen Felsküste.", "Er nannte die Bucht ursprünglich 'Angra das Voltas' (Bucht der Umkehr).", "Dias errichtete auf der Spitze ein kalksteinernes Padrão (Wappenkreuz).", "Das schwer verwitterte Originalkreuz wurde 1953 in das Südafrikanische Museum in Kapstadt gebracht.", "Eine moderne Holzbrücke verbindet heute die felsige Halbinsel der Diaz-Spitze mit dem Festland.", "Direkt neben dem Kreuz steht ein Leuchtturm, der 1915 zur Navigation errichtet wurde."]
-    },
+    
+    
+    
     description: {
       de: "Ein historischer Ort nahe Lüderitz, an dem der portugiesische Seefahrer Bartolomeu Dias 1488 ein Steinkreuz (Padrão) errichtete.",
       hu: "Történelmi hely Lüderitz közelében, ahol Bartolomeu Dias portugál tengerész 1488-ban kőkeresztet (padrão) állított.",
@@ -801,15 +687,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the village of Olukonda in northern Namibia.", "Housed in the former home of Finnish missionary Martti Rautanen.", "Rautanen lived here continuously from 1880 to 1926.", "Locals nicknamed him 'Nakambale' due to his distinctive hat.", "Rautanen translated the Bible into the local Oshindonga language.", "The site includes a historic church built in 1889."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu muzeu pe a clar așezat absolut cu o masiv a până din an 1889 clar stabil asigurat ca misiune.", "E situată absolut la așezare de a pe Olukonda la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de muzeu finlandez asigurat clar.", "A fost absolut cu așezat masiv fondată a la a cu un asigurat pe Martti Rautanen clar stabil.", "Nakambale absolut a statut complet masiv cu pe o absolut la de un porecla din a cu așezat pe a lui Rautanen clar cu pălărie.", "Prezintă absolut cu așezat masiv cultura a la a din cu un asigurat Ovambo clar stabil."]
-    },
-    factsAdvanced: {
-      hu: ["Ondangwa városától mindössze 14 kilométerre délnyugatra, Olukondában található", "Martti Rautanen finn evangélikus misszionárius otthona volt 1889-től", "A 'Nakambale' név jelentése a helyi ndonga nyelven: 'A kalapot viselő ember'", "A komplexum része Namíbia északi részének legrégebbi (1893-ban épült) temploma", "A múzeum bemutatja a finn misszió tárgyait és az owambo néprajzi ritkaságokat", "Területén egy autentikus, cölöpökből épült owambo lakókomplexum (kraal) is felépült"]
-    },
-    factsAdvanced: {
-      de: ["Die Missionsstation Olukonda wurde im Jahr 1889 von Martti Rautanen gegründet.", "Rautanen lebte hier ununterbrochen für über 50 Jahre bis zu seinem Tod 1926.", "Er übersetzte das Neue Testament 1903 erfolgreich in die Oshindonga-Sprache.", "Das Museumsgelände beherbergt auch die historische erste Kirche des Owambolandes von 1893.", "Der Spitzname 'Nakambale' bedeutet wörtlich übersetzt 'der Mann mit dem Hut'.", "Das Anwesen wurde 1992 feierlich als namibisches Nationaldenkmal deklariert."]
-    },
+    
+    
+    
     description: {
       de: "Das ehemalige Haus des finnischen Missionars Martti Rautanen im Norden Namibias, das heute die Geschichte der Ndonga-Kultur und der Missionare zeigt.",
       hu: "Martti Rautanen finn misszionárius egykori háza Észak-Namíbiában, amely ma a ndonga kultúra és a misszionáriusok történetét mutatja be.",
@@ -842,15 +722,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the town of Outapi in the Omusati Region.", "Estimated to be approximately 800 years old.", "Features a massive hollow trunk that can fit over 20 people.", "Historically used as a hiding place during tribal conflicts.", "Served variously as a post office and a Christian chapel.", "Declared a national heritage site to protect its legacy."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu copac pe a clar așezat absolut cu o masiv a până din an 1000 clar stabil asigurat vechime estimată.", "E situată absolut la așezare de a pe Outapi la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de baobab uriaș asigurat clar.", "A servit absolut a statut complet masiv cu pe o absolut la de un refugiu din a cu așezat pe a războaie clar.", "A găzduit absolut cu așezat masiv oficiu a la a din cu un asigurat poștal clar stabil.", "Are o geografie pe de absolut la diametru absolut masiv clar de a asigurat cu 28 metri asigurat așezat pe stabil."]
-    },
-    factsAdvanced: {
-      hu: ["Korát a szakértők legalább 800 évre becsülik", "A fa hatalmas, odvas törzsének kerülete eléri a 28 métert", "A 19. században az Aambalantu törzs menedéke volt a támadások idején", "1940-től egy apró római katolikus kápolnaként funkcionált az üreges törzs", "Története során postahivatal és katonai menedék is volt", "Jelenleg nemzeti műemlékként védett, és népszerű turisztikai zarándokhely"]
-    },
-    factsAdvanced: {
-      de: ["Das Alter des massiven Ombalantu Baobab wird auf über 800 Jahre geschätzt.", "Der Stamm besitzt einen erstaunlichen Umfang von 28 Metern.", "Der hohle Innenraum des Baumes bietet theoretisch Platz für bis zu 35 Personen.", "Er wurde in der Vergangenheit unter anderem als Postamt und als Kapelle genutzt.", "Ein eigens errichtetes kleines Museum auf dem Gelände erzählt die reiche Geschichte des Baumes.", "Der Baum wurde 2011 offiziell als historisches Denkmal von Namibia deklariert."]
-    },
+    
+    
+    
     description: {
       de: "Ein uralter Baobab-Baum mit hohlem Stamm, der in der Vergangenheit als Postamt, Kapelle und Zufluchtsort während Kriegen genutzt wurde.",
       hu: "Egy ősi, üreges törzsű baobabfa, amelyet a múltban postahivatalként, kápolnaként és a háborúk alatti menedékhelyként használtak.",
@@ -883,15 +757,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the central business district of Windhoek.", "Built in 1909 originally as a German gymnastics hall.", "Hosted the controversial Turnhalle Constitutional Conference in 1975.", "The conference attempted to draft a constitution under South African rule.", "Declared a National Monument due to its political significance.", "Currently serves as the headquarters for the SADC Tribunal."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu clădire pe a clar așezat absolut cu o masiv a până din an 1909 clar stabil asigurat.", "E situată absolut la așezare de a pe Windhoek la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cu masiv asigurat pe cu a de sală de gimnastică asigurat clar inițial.", "A găzduit absolut a statut complet masiv cu pe o absolut la de un conferința din a cu așezat pe a Turnhalle clar din 1975.", "E un clar pol absolut de a la monument național la țara clar asigurat cu așezat stabil a garantat.", "Acum la a absolut de a cu o a sediu masiv la așezat tribunal asigurat stabil a garantat pentru SADC."]
-    },
-    factsAdvanced: {
-      hu: ["1909-ben épült, eredetileg a Windhoeker Turnverein (Tornászklub) sportcsarnokaként", "Az 1975–1977 közötti Turnhalle Alkotmányozó Konferencia helyszíne", "A dél-afrikai apartheid rezsim itt próbálta megszervezni az ország belső önkormányzatát", "A nemzetközi közösség és a SWAPO elutasította a konferencia eredményeit", "2003 és 2012 között a Dél-Afrikai Fejlesztési Közösség (SADC) Törvényszékének adott otthont", "Stílusában az 1900-as évek eleji német funkcionalista középületeket idézi"]
-    },
-    factsAdvanced: {
-      de: ["Die ursprüngliche Turnhalle wurde im März 1909 offiziell eingeweiht.", "Sie diente lange Zeit als die größte Sporthalle im gesamten Land Südwestafrika.", "Die historische 'Turnhallen-Konferenz' tagte hier von September 1975 bis Oktober 1977.", "Aus der Konferenz ging die 'Demokratische Turnhallenallianz' (DTA), eine politische Partei, hervor.", "Nach der Unabhängigkeit diente das Gebäude lange Zeit dem südafrikanischen Entwicklungsgemeinschafts-Tribunal (SADC).", "Es ist ein wichtiges architektonisches Beispiel des vereinfachten wilhelminischen Stils."]
-    },
+    
+    
+    
     description: {
       de: "Ein historisches Gebäude, das als Namensgeber für die Turnhalle-Konferenz diente, welche ein wichtiger Schritt zur Unabhängigkeit Namibias war.",
       hu: "Egy történelmi épület, amely a Namíbia függetlensége felé vezető fontos lépésként ismert Turnhalle-konferencia névadója volt.",
@@ -924,15 +792,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["The largest of three castle-like buildings in Windhoek.", "Originally constructed in 1890 as a defensive watchtower.", "Transformed into a massive castle by architect Wilhelm Sander in 1913.", "Named after its prominent owner, Count von Schwerin.", "Commands a dominating view over the Windhoek city center.", "Currently serves as the private residence of the Italian Ambassador."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu castel pe a clar așezat absolut cu o masiv a până din an 1890 clar stabil asigurat ca turn.", "E situată absolut la așezare de a pe Windhoek la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de castel asigurat clar din oraș.", "A fost absolut cu așezat masiv extins a la a 1913 cu un asigurat pe arhitect clar stabil.", "Arhitectul absolut a statut complet masiv cu pe o absolut la de un castel din a cu așezat pe a Wilhelm Sander clar.", "Acum la a absolut de a cu o a reședință masiv la așezat de ambasador asigurat stabil a garantat italian."]
-    },
-    factsAdvanced: {
-      hu: ["A három híres windhoeki dombtető-kastély (Sanderburg, Heinitzburg) legnagyobbika", "Az eredeti tornyát (Sperlingslust) Curt von François építette 1890-ben", "1913-ban Wilhelm Sander építész építette át neogótikus lovagvárrá", "A nevét a kastélyt megrendelő Hans von Schwerin-Löwitz grófról kapta", "Falakhoz a környező hegyekből származó természetes terméskövet használtak", "Jelenleg az Olaszország namíbiai nagykövetének privát rezidenciája"]
-    },
-    factsAdvanced: {
-      de: ["Der ursprüngliche Wachturm auf dem Hügel wurde 1890 unter Curt von François errichtet.", "Architekt Willi Sander wandelte den Turm 1913 in die heutige imposante Schwerinsburg um.", "Graf Bogislav von Schwerin war der Bauherr und Namensgeber der Burg.", "Die Burg ist die größte der drei Windhoeker Stadtburgen (Schwerinsburg, Heinitzburg, Sanderburg).", "Die Burg wurde aus unverputztem lokalem Naturstein erbaut.", "Heute wird das Gebäude exklusiv als private Residenz des italienischen Botschafters genutzt."]
-    },
+    
+    
+    
     description: {
       de: "Die größte der drei Burgen von Windhoek, die von Wilhelm Sander entworfen wurde und heute die Residenz des italienischen Botschafters ist.",
       hu: "A legnagyobb Windhoek három kastélya közül, amelyet Wilhelm Sander tervezett, ma pedig az olasz nagykövet rezidenciája.",
@@ -965,15 +827,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["One of the three famous historic castles located in Windhoek.", "Constructed in 1914 by architect Wilhelm Sander.", "Commissioned by Count von Schwerin for Margarethe von Heinitz.", "Constructed using locally quarried natural stone.", "Meticulously restored and converted into a luxury hotel in 1996.", "Features an extensive wine cellar carved directly into the mountain rock."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu castel pe a clar așezat absolut cu o masiv a până din an 1914 clar stabil asigurat.", "E situată absolut la așezare de a pe Windhoek la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de arhitectură asigurat clar.", "A fost absolut cu așezat masiv construit a la a cu un asigurat pe Wilhelm Sander clar stabil.", "Acum la a absolut de a cu o a hotel masiv la așezat de lux asigurat stabil a garantat.", "Numele absolut a statut complet masiv cu pe o absolut la de un provine din a cu așezat pe a soția clar."]
-    },
-    factsAdvanced: {
-      hu: ["1914-ben épült, tervezője a híres német építész, Wilhelm Sander volt", "Hans von Schwerin gróf építtette feleségének, Margarethe von Heinitznek", "Stílusát a romantikus 19. századi német várkastélyok ihlették", "Hosszú ideig magánkézben lévő nemesi rezidenciaként funkcionált", "1996-ban alakították át Windhoek egyik legfényűzőbb luxushoteljévé", "A Relais & Châteaux nemzetközi luxusszálloda-szövetség tagja"]
-    },
-    factsAdvanced: {
-      de: ["Die Heinitzburg wurde im Jahr 1914 vom Architekten Willi Sander erbaut.", "Der Bauherr, Graf Bogislav von Schwerin, benannte sie nach Margarethe von Heinitz.", "Die Architektur verbindet typisch deutsche Burgenästhetik mit afrikanischem Naturstein.", "Seit 1996 ist die Burg ein exklusives und international ausgezeichnetes Luxushotel.", "Im Weinkeller der Burg lagern Tausende von Vintage-Weinen aus Südafrika.", "Die Anlage ist neben Schwerinsburg und Sanderburg Teil des historischen Windhoeker Burgen-Trios."]
-    },
+    
+    
+    
     description: {
       de: "Eine der drei Burgen Windhoeks, erbaut vom Architekten Wilhelm Sander für den Grafen von Schwerin, heute ein Luxushotel.",
       hu: "Windhoek három kastélya közül az egyik, amelyet Wilhelm Sander építész tervezett von Schwerin grófnak, ma luxusszálloda.",
@@ -1006,15 +862,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["The name translates from German to 'Ink Palace'.", "Built in 1913 to house the German colonial administration.", "Currently serves as the seat of the Namibian Parliament.", "The name was originally a satirical reference to bureaucratic paperwork.", "Located prominently overlooking the Windhoek city center.", "Surrounded by the popular, beautifully maintained Parliament Gardens."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu clădire pe a clar așezat absolut cu o masiv a până din an 1913 clar stabil asigurat.", "E situată absolut la așezare de a pe Windhoek la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de guvern asigurat clar.", "A servit absolut a statut complet masiv cu pe o absolut la de un administrație din a cu așezat pe a germană clar.", "Acum la a absolut de a cu o a sediu masiv la așezat de parlament asigurat stabil a garantat.", "Numele absolut a statut complet masiv cu pe o absolut la de un traduce din a cu așezat pe a palatul cernelii clar."]
-    },
-    factsAdvanced: {
-      hu: ["1913-ban adták át a német gyarmati kormányzat adminisztratív központjaként", "A 'Tintapalota' név a túlzott gyarmati bürokráciára (tintafogyasztásra) utaló gúnynév", "Építőanyaga helyben bányászott kőből és importált német téglából áll", "Szándékosan úgy tervezték (árnyékos teraszok), hogy légkondicionálás nélkül is hűvös maradjon", "A függetlenség óta Namíbia kétkamarás parlamentjének (Nemzetgyűlés és Nemzeti Tanács) ad otthont", "A palotát övező gondozott, olajfás park népszerű piknikező hely a windhoeki lakosok körében"]
-    },
-    factsAdvanced: {
-      de: ["Das Gebäude wurde am 1. November 1913 nach einjähriger Bauzeit offiziell eröffnet.", "Der Chefarchitekt Gottlieb Redecker entwarf das Gebäude aus lokalem Khomas-Hochland-Naturstein.", "Der spöttische Name 'Tintenpalast' zielt auf die Papierkram-Liebe der Beamten ab.", "Um das Gebäude wurden 1931 die weitläufigen Parlamentsgärten angelegt.", "Heute tagt hier das unabhängige namibische Parlament.", "Vor dem Parlament stehen Bronzestatuen berühmter Anti-Apartheids-Führer wie Hosea Kutako."]
-    },
+    
+    
+    
     description: {
       de: "Der historische Regierungssitz von Namibia, erbaut aus lokalem Material, der wegen des hohen Tintenverbrauchs der Beamten seinen Namen erhielt.",
       hu: "Namíbia történelmi kormányzati épülete, amelyet helyi anyagokból építettek, nevét a hivatalnokok magas tintafogyasztásáról kapta.",
@@ -1047,15 +897,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Built in 1910 during the height of the Lüderitz diamond rush.", "Originally the residence of diamond inspector Hans Goerke.", "Designed in a lavish, imported Art Nouveau architectural style.", "Constructed directly onto the rock face of Diamond Mountain.", "Features original imported stained-glass windows and woodwork.", "Currently maintained as a public museum by the mining industry."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu clădire pe a clar așezat absolut cu o masiv a până din an 1910 clar stabil asigurat.", "E situată absolut la așezare de a pe Lüderitz la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de arhitectură asigurat clar.", "A fost absolut cu așezat masiv construită a la a cu un asigurat pe Hans Goerke clar stabil.", "Materialele absolut a statut complet masiv cu pe o absolut la de un aduse din a cu așezat pe a Germania clar.", "Acum la a absolut de a cu o a muzeu masiv la așezat vizitabil asigurat stabil a garantat."]
-    },
-    factsAdvanced: {
-      hu: ["1910-ben épült a Diamantberg lejtőjén Hans Goerke, a gyémántipar vezetője számára", "Építészeti stílusa a németországi Jugendstil (szecesszió) afrikai adaptációja", "Eredeti faborításai és színes ólomüveg ablakai szinte sértetlenül fennmaradtak", "Az 1920-as években az épületet a délnyugat-afrikai gyémánttársaság (CDM) vásárolta meg", "A 20. század végén átfogó restauráláson esett át a Namdeb jóvoltából", "Jelenleg az egyik legnépszerűbb múzeumház és műemlék Lüderitzben"]
-    },
-    factsAdvanced: {
-      de: ["Das Goerke-Haus wurde 1910 auf dem Höhepunkt des Lüderitz-Diamantenrausches erbaut.", "Es wurde von Architekt Otto Ertl für den Regierungsbeamten Hans Goerke entworfen.", "Das Haus thront prominent auf dem Diamantenberg, direkt hinter der Felsenkirche.", "Ein Großteil der aufwändigen Baumaterialien wurde per Schiff aus Deutschland geliefert.", "Nach dem Fortgang Goerkes diente das Haus lange Zeit als Wohnsitz der lokalen Magistraten.", "Heute fungiert das Gebäude als beliebtes Museum für koloniale Geschichte in Lüderitz."]
-    },
+    
+    
+    
     description: {
       de: "Eine prächtige Jugendstil-Villa am Diamantenberg in Lüderitz, die während des ersten Diamantenrauschs erbaut wurde.",
       hu: "Egy pompás szecessziós villa a Gyémánt-hegyen Lüderitzben, amely az első gyémántláz idején épült.",
@@ -1088,15 +932,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in Swakopmund, next to the modern State House.", "Unveiled in 1908 to commemorate German marine infantry.", "Honors marines who died during the Herero-German War.", "The central bronze statue was cast in Berlin and shipped to Africa.", "Declared an official National Monument in 1969.", "A controversial symbol preserved for its historical context."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu monument pe a clar așezat absolut cu o masiv a până din an 1908 clar stabil asigurat.", "E situată absolut la așezare de a pe Swakopmund la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de comemorare asigurat clar.", "Onorează absolut a statut complet masiv cu pe o absolut la de un marinari din a cu așezat pe a germani clar.", "A fost absolut cu așezat masiv ridicată a la a cu un asigurat pe armată clar stabil.", "Este un clar pol absolut de a la istorie națională la țara clar asigurat cu așezat stabil a garantat."]
-    },
-    factsAdvanced: {
-      hu: ["1908 júliusában avatták fel a swakopmundi városháza közelében", "Albert Moritz Wolff berlini szobrászművész tervezte és alkotta", "Az 1904-es háborúban elesett német tengerészgyalogosok emlékműve", "A bronzszobrot hajón szállították Németországból Swakopmund kikötőjébe", "Két alakot ábrázol: egy fegyvert fogó tengerészt és egy haldokló társát", "Mint számos gyarmati emlékmű, létezése a mai napig történelmi viták tárgya Namíbiában"]
-    },
-    factsAdvanced: {
-      de: ["Das Denkmal wurde am 25. Juli 1908 in Swakopmund feierlich eingeweiht.", "Der Bildhauer Albert Moritz Wolff aus Berlin entwarf die markante Bronzestatue.", "Das Monument ehrt explizit die toten Soldaten des deutschen Marine-Expeditionskorps von 1904.", "Die Bronzefigur des bewaffneten Marinesoldaten blickt symbolisch auf den Atlantischen Ozean hinaus.", "Das Denkmal wurde 1969 offiziell zum Nationalen Denkmal von Namibia deklariert.", "In den letzten Jahren gab es immer wieder Debatten über den Umgang mit solchen Kolonialdenkmälern."]
-    },
+    
+    
+    
     description: {
       de: "Ein historisches Denkmal in Swakopmund, das an die Marineinfanteristen des Ersten Weltkriegs erinnert.",
       hu: "Egy történelmi emlékmű Swakopmundban, amely az első világháború tengerészgyalogosainak állít emléket.",
@@ -1129,15 +967,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the //Kharas Region above the Nuab River.", "Discovered and excavated by Wolfgang Erich Wendt in 1969.", "Named after the Apollo 11 moon landing broadcast heard during excavation.", "Contains some of the oldest mobile art discovered in Africa.", "Yielded painted stone slabs estimated to be 27,500 years old.", "Critical site for studying early human cognitive evolution."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu peșteră pe a clar așezat absolut cu o masiv a până din an 1969 clar stabil asigurat din descoperire.", "E situată absolut la așezare de a pe Munții Huns la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cu masiv asigurat pe cu a de artă rupestră asigurat clar.", "Vechimea absolut a statut complet masiv cu pe o absolut la de un picturii din a cu așezat pe a 25.000 de ani clar.", "Numele absolut a statut complet masiv cu pe o absolut la de un onorează din a cu așezat pe a misiunea spațială clar.", "Este una absolut cu așezat masiv cele a la a din cu un asigurat mai vechi clar stabil din Africa."]
-    },
-    factsAdvanced: {
-      hu: ["Dél-Namíbiában, az elszigetelt Huns-hegység (Goageb) kanyonjában található", "Wolfgang Wendt német archeológus végezte itt a legfontosabb ásatásokat 1969-ben", "Nevét az Apollo 11 űrküldetésről (holdraszállás) kapta, amely egybeesett a felfedezéssel", "A leghíresebb leletek a faszénnel és okkerrel festett, mozgatható kőlapocskák", "Ezek az ábrázolások körülbelül 25 000–27 000 évesek a C14-es kormeghatározás alapján", "Afrika, sőt az egész világ legősibb figuratív művészeti alkotásai közé tartoznak"]
-    },
-    factsAdvanced: {
-      de: ["Die Höhle wurde 1969 während der ersten Mondlandung der Apollo-11-Mission entdeckt.", "Die dort gefundenen bemalten Quarzitplatten sind schätzungsweise 27.500 Jahre alt.", "Diese Artefakte gehören zu den ältesten bekannten Beispielen figürlicher Kunst in Afrika.", "Die Ausgrabungen wurden von dem deutschen Prähistoriker Wolfgang Erich Wendt geleitet.", "Die Platten zeigen Zeichnungen von katzen- und rinderähnlichen Tieren in Holzkohle und Ocker.", "Die Originalplatten werden unter extrem strengen Bedingungen im Nationalmuseum in Windhoek aufbewahrt."]
-    },
+    
+    
+    
     description: {
       de: "Eine archäologische Fundstätte im Süden Namibias, die einige der ältesten mobilen Kunstwerke des afrikanischen Kontinents birgt.",
       hu: "Régészeti lelőhely Dél-Namíbiában, amely az afrikai kontinens legrégebbi mobil műalkotásait rejti.",
@@ -1170,15 +1002,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in the coastal town of Swakopmund.", "Completed in 1908 and designed by architect Otto Ertl.", "Originally planned as a private school before funding ran out.", "Functioned as the local magistrate's court until the 1970s.", "Renowned for its elaborate gables and decorative brickwork.", "Now serves as municipal administrative offices."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu clădire pe a clar așezat absolut cu o masiv a până din an 1908 clar stabil asigurat.", "E situată absolut la așezare de a pe Swakopmund la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de fost tribunal asigurat clar.", "Arhitectura absolut a statut complet masiv cu pe o absolut la de un clădirii din a cu așezat pe a germană clar.", "A servit absolut a statut complet masiv cu pe o absolut la de un școală din a cu așezat pe a privată clar.", "Acum la a absolut de a cu o a birouri masiv la așezat publice asigurat stabil a garantat."]
-    },
-    factsAdvanced: {
-      hu: ["1908-ban emelték Otto Ertl német gyarmati építész tervei alapján", "Eredetileg magániskolaként (Privatschule) kezdte meg a működését", "Később a német adminisztráció megvásárolta és Járásbírósággá alakította át", "A homlokzaton egy feltűnő óratorony és oroszlánfejes stukkók is találhatók", "Az 1970-es években műemléki védettséget kapott az államtól", "Dizájnja a Németországban honos Wilhelmine (császári) neobarokk stílust követi"]
-    },
-    factsAdvanced: {
-      de: ["Das Gebäude wurde 1908 unter der Leitung des Regierungsbaumeisters Otto Ertl fertiggestellt.", "Ursprünglich war das imposante Bauwerk als private Schule geplant.", "Nach Fertigstellung wurde es von der Regierung als Sitz des Bezirksgerichts gekauft.", "Die Architektur zeichnet sich durch einen asymmetrischen Stil mit prominenten Giebeln aus.", "In den 1970er Jahren wurde das Gebäude durch den Staat umfassend vor dem Verfall gerettet.", "Es gehört zu den am meisten fotografierten historischen Gebäuden in ganz Swakopmund."]
-    },
+    
+    
+    
     description: {
       de: "Ein koloniales Gebäude in Swakopmund, das ursprünglich als Schule geplant war, dann aber als Amtsgericht genutzt wurde.",
       hu: "Gyarmati épület Swakopmundban, amelyet eredetileg iskolának terveztek, de később járásbíróságként használtak.",
@@ -1211,15 +1037,9 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Located in Keetmanshoop, the capital of the //Kharas Region.", "Constructed in 1895 by the Rhenish Missionary Society.", "Built using distinctive local natural stone.", "Served as a spiritual and educational center for the Nama people.", "Declared a National Monument in 1978.", "Currently functions as the Keetmanshoop Museum."]
     },
-    factsAdvanced: {
-      ro: ["A fost asigurat a absolut de o la cu biserică pe a clar așezat absolut cu o masiv a până din an 1880 clar stabil asigurat.", "E situată absolut la așezare de a pe Walvis Bay la a complet cu a masiv asigurat garantat clar stabil așezat.", "Este la a absolut pe de o clar a cea masiv asigurat pe cu a de misiune asigurat clar.", "Lemnul absolut a statut complet masiv cu pe o absolut la de un adus din a cu așezat pe a Germania clar.", "Este a absolut cu așezat masiv cea a la a din cu un asigurat mai veche clar stabil din zonă.", "E un clar pol absolut de a la monument național la țara clar asigurat cu așezat stabil a garantat."]
-    },
-    factsAdvanced: {
-      hu: ["Walvis Bay legidősebb, még eredeti helyén álló építészeti emléke", "Előregyártott faszerkezet, melyet Európából hajóztak Namíbiába 1880-ban", "A Rajnai Missziós Társaság (Rheinische Missionsgesellschaft) finanszírozta", "Az egykor ellenséges sivatagi környezet és a tengeri só dacára is épségben maradt", "Korai éveiben nemcsak templomként, hanem iskolaként is működött az őslakosok számára", "1972-ben került fel a namíbiai nemzeti műemlékek listájára"]
-    },
-    factsAdvanced: {
-      de: ["Die historische Steinkirche wurde im Jahr 1895 von der Rheinischen Missionsgesellschaft eingeweiht.", "Das Mauerwerk besteht aus dunklem Naturstein, der mühsam in der Nähe gebrochen wurde.", "Die Kirche steht im historischen Zentrum der Stadt Keetmanshoop.", "Sie überlebte fast unbeschadet die gewaltsamen Nama-Kriege in den Jahren nach 1904.", "Die Kirche wurde 1978 von der namibischen Denkmalbehörde als Nationaldenkmal eingestuft.", "Heute wird das Gebäude als heimatgeschichtliches Museum und Informationszentrum genutzt."]
-    },
+    
+    
+    
     description: {
       de: "Eine der ältesten und markantesten Kirchen im Süden Namibias, erbaut von europäischen Missionaren in Keetmanshoop.",
       hu: "Dél-Namíbia egyik legrégebbi és legjellegzetesebb temploma, amelyet európai misszionáriusok építettek Keetmanshoopban.",

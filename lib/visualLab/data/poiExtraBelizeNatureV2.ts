@@ -1,9 +1,15 @@
-// @ts-nocheck
+﻿// @ts-nocheck
 import type { POI } from "./poi";
 
 export const poiExtraBelizeNatureV2: POI[] = [
   {
     id: "bz-rio-hondo-river-nature-v2",
+    description: "Der Rio Hondo bildet die natürliche Grenze zwischen Belize und Mexiko.",
+    facts: [
+      "Grenzfluss zu Mexiko",
+      "Nördliches Belize",
+      "Wichtiger Wasserweg"
+],
     type: "river",
     parent: "BZ-OW",
     coords: [-88.39, 18.49],
@@ -185,6 +191,12 @@ export const poiExtraBelizeNatureV2: POI[] = [
     }, image: "/poi-images/bz-cockscomb-range-nature-v2.webp"},
   {
     id: "bz-new-river-lagoon-nature-v2",
+    description: "Die New River Lagoon ist das größte Süßwasserbecken im nördlichen Teil von Belize.",
+    facts: [
+      "Größte Süßwasser-Lagune",
+      "Nördliches Belize",
+      "Ökologisch wertvoll"
+],
     type: "lake",
     parent: "BZ-OW",
     coords: [-88.6, 17.8],
@@ -195,13 +207,13 @@ export const poiExtraBelizeNatureV2: POI[] = [
       en: "New River Lagoon"
     },
     description: {
-      de: "Die größte Süßwasserlagune in Belize, an der die Maya-Stätte Lamanai liegt.",
+      de: "Eine weitläufige Lagune, die für ihre reiche Tierwelt und als Lebensraum für Krokodile bekannt ist.",
       hu: "Belize legnagyobb édesvízi lagúnája, a partján fekszik Lamanai maja romváros.",
       ro: "Cea mai mare lagună de apă dulce din Belize, unde se află situl mayaș Lamanai.",
       en: "The largest freshwater lagoon in Belize, site of the Lamanai Maya ruins."
     },
     facts: {
-      de: ["Größter See in Belize.", "Süßwasser.", "Lamanai liegt am Ufer.", "Reich an Vögeln und Krokodilen."],
+      de: ["Lagune", "Tierreich", "Krokodilhabitat"],
       hu: ["Belize legnagyobb tava.", "Édesvíz.", "Partján fekszik Lamanai.", "Gazdag madár- és krokodilvilág."],
       ro: ["Cel mai mare lac din Belize.", "Apă dulce.", "Lamanai este situat pe mal.", "Bogat în păsări și crocodili."],
       en: ["Largest lake in Belize.", "Freshwater body.", "Lamanai is on its shore.", "Rich in birdlife and crocodiles."]
@@ -226,6 +238,12 @@ export const poiExtraBelizeNatureV2: POI[] = [
     }, image: "/poi-images/bz-new-river-lagoon-nature-v2.webp"},
   {
     id: "bz-southern-long-caye-nature-v2",
+    description: "Southern Long Caye bietet geschützte Meereslebensräume in der Nähe des Barrier Reefs.",
+    facts: [
+      "Karibisches Meer",
+      "Nahe Barrier Reef",
+      "Mariner Lebensraum"
+],
     type: "island",
     parent: "BZ-BZ",
     coords: [-88.1, 17.2],
@@ -236,13 +254,13 @@ export const poiExtraBelizeNatureV2: POI[] = [
       en: "Southern Long Caye"
     },
     description: {
-      de: "Eine langgestreckte Mangroveninsel innerhalb des Belize Barrier Reefs.",
+      de: "Eine malerische Insel vor der Küste, die von klarem Wasser und Korallenriffen umgeben ist.",
       hu: "Hosszúkás mangrove-sziget a Belize-korallzátonyon belül.",
       ro: "O insulă alungită de mangrove în cadrul Barierei de Corali din Belize.",
       en: "An elongated mangrove island located within the Belize Barrier Reef."
     },
     facts: {
-      de: ["Mangroven-Ökosystem.", "Wichtiger Brutplatz für Vögel.", "Teil des Barrier Reef Systems.", "Unbewohnt."],
+      de: ["Insel", "Korallenriff", "Küstennähe"],
       hu: ["Mangrove-ökoszisztéma.", "Fontos madárfészkelő hely.", "A korallzátony-rendszer része.", "Lakatlan."],
       ro: ["Ecosistem de mangrove.", "Loc important de cuibărit pentru păsări.", "Parte a sistemului de barieră de corali.", "Nelocuită."],
       en: ["Mangrove ecosystem.", "Important bird rookery.", "Part of the Barrier Reef system.", "Largely uninhabited."]
@@ -349,6 +367,12 @@ export const poiExtraBelizeNatureV2: POI[] = [
     }, image: "/poi-images/bz-sarstoon-temash-forest-nature-v2.webp"},
   {
     id: "bz-caribbean-sea-nature-v2",
+    description: "Das Karibische Meer prägt die gesamte Küste von Belize mit reicher Artenvielfalt.",
+    facts: [
+      "Belize Küste",
+      "Reiche Artenvielfalt",
+      "Korallenökosysteme"
+],
     type: "sea",
     parent: "BZ",
     coords: [-87.8, 17.5],
@@ -359,13 +383,13 @@ export const poiExtraBelizeNatureV2: POI[] = [
       en: "Caribbean Sea (Belize)"
     },
     description: {
-      de: "Die Küstengewässer von Belize, Heimat des zweitgrößten Barriereriffs der Welt.",
+      de: "Das Karibische Meer vor der Küste von Belize bietet eines der weltweit größten Barriereriffe.",
       hu: "Belize part menti vizei, a világ második legnagyobb korallzátonyának otthona.",
       ro: "Apele de coastă ale statului Belize, care găzduiesc a doua cea mai mare barieră de corali din lume.",
       en: "The coastal waters of Belize, home to the world's second-largest barrier reef."
     },
     facts: {
-      de: ["Beherbergt das Belize Barrier Reef.", "Warmes", "klares Wasser.", "Wichtig für Tourismus und Fischerei.", "Über 450 Inseln (Cayes)."],
+      de: ["Barriereriff", "Karibik", "Meeresökosystem"],
       hu: ["Itt található a Belize-i korallzátony.", "Meleg", "tiszta víz.", "Fontos a turizmus és a halászat szempontjából.", "Több mint 450 sziget (caye)."],
       ro: ["Găzduiește Bariera de Corali din Belize.", "Apă caldă și limpede.", "Importantă pentru turism și pescuit.", "Peste 450 de insule (caye)."],
       en: ["Contains the Belize Barrier Reef.", "Warm", "clear tropical waters.", "Vital for tourism and fishing.", "Features over 450 islands (cayes)."]
@@ -759,6 +783,12 @@ export const poiExtraBelizeNatureV2: POI[] = [
     }, image: "/poi-images/bz-manatee-forest-reserve-nature-v2.webp"},
   {
     id: "bz-bacalar-chico-park-nature-v2",
+    description: "Der Bacalar Chico Nationalpark vereint marinen und terrestrischen Schutz auf Ambergris Caye.",
+    facts: [
+      "Ambergris Caye",
+      "UNESCO-Welterbe-Teil",
+      "Mischökosystem"
+],
     type: "sea",
     parent: "BZ-BZ",
     coords: [-87.87, 18.2],
@@ -769,13 +799,13 @@ export const poiExtraBelizeNatureV2: POI[] = [
       en: "Bacalar Chico National Park"
     },
     description: {
-      de: "Ein Meeresreservat an der Nordspitze von Ambergris Caye, das an Mexiko grenzt.",
+      de: "Ein geschütztes Gebiet im Norden, das maritime Lebensräume mit Küstenwäldern kombiniert.",
       hu: "Tengeri rezervátum az Ambergris Caye északi csücskén, Mexikóval határosan.",
       ro: "O rezervație marină la vârful nordic al Ambergris Caye, la granița cu Mexic.",
       en: "A marine reserve on the northern tip of Ambergris Caye, bordering Mexico."
     },
     facts: {
-      de: ["UNESCO-Welterbe.", "Grenzt an Mexiko.", "Wichtiger Nistplatz für Meeresschildkröten.", "Umfasst Riff", "Seegraswiesen und Mangroven."],
+      de: ["Nordschutzzone", "Maritim", "Küstenwald"],
       hu: ["UNESCO Világörökség.", "Mexikóval határos.", "Fontos fészkelőhely a tengeri teknősök számára.", "Magában foglal zátonyt", "tengerifű-mezőket és mangrovékat."],
       ro: ["Patrimoniu Mondial UNESCO.", "La granița cu Mexicul.", "Loc important de cuibărit pentru țestoasele marine.", "Include recif", "pajiști de iarbă de mare și mangrove."],
       en: ["UNESCO World Heritage site.", "Borders Mexico.", "Important nesting beach for sea turtles.", "Encompasses reef", "seagrass", "and mangrove habitats."]
@@ -964,6 +994,12 @@ export const poiExtraBelizeNatureV2: POI[] = [
     }, image: "/poi-images/bz-gales-point-peninsula-nature-v2.webp"},
   {
     id: "bz-aguacaliente-wildlife-sanctuary-nature-v2",
+    description: "Dieses Schutzgebiet bietet eine vielfältige Sumpflandschaft und beheimatet viele Vogelarten.",
+    facts: [
+      "Sumpflandschaft",
+      "Vogelbeobachtung",
+      "Toledo Distrikt"
+],
     type: "lake",
     parent: "BZ-TOL",
     coords: [-88.88, 16.18],
@@ -974,13 +1010,13 @@ export const poiExtraBelizeNatureV2: POI[] = [
       en: "Aguacaliente Wildlife Sanctuary"
     },
     description: {
-      de: "Ein Feuchtgebiet-Schutzgebiet im Toledo District, wichtig für Wasservögel.",
+      de: "Ein Feuchtgebiet, das als wichtiger Rückzugsort für Wasservögel und bedrohte Tierarten dient.",
       hu: "Vizes élőhely-védelmi terület a Toledo körzetben, fontos a vízimadarak számára.",
       ro: "Un sanctuar de zonă umedă în districtul Toledo, important pentru păsările de apă.",
       en: "A wetland sanctuary in the Toledo District, important for water birds."
     },
     facts: {
-      de: ["Wichtiges Feuchtgebiet.", "Rastplatz für Zugvögel.", "Drei Lagunen.", "Gemeinschaftlich verwaltet."],
+      de: ["Feuchtgebiet", "Wasservögel", "Artenschutz"],
       hu: ["Fontos vizes élőhely.", "Vonuló madarak pihenőhelye.", "Három lagúnából áll.", "Közösségi kezelésben."],
       ro: ["Zonă umedă importantă.", "Loc de odihnă pentru păsările migratoare.", "Trei lagune.", "Gestionat de comunitate."],
       en: ["Key wetland ecosystem.", "Resting place for migratory birds.", "Comprises three distinct lagoons.", "Co-managed by the local community."]

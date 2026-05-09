@@ -20,9 +20,7 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Das Terminal nahm seinen Betrieb im Jahr 2009 auf.", "Schlägt jährlich über 1,5 Millionen Standardcontainer (TEU) um.", "Verfügt über eine direkte Eisenbahnanbindung nach Addis Abeba.", "Das Hafenbecken weist eine beeindruckende Tiefe von 18 Metern auf.", "Beheimatet eine der modernsten Hafen-Infrastrukturen weltweit.", "Spielt eine Schlüsselrolle für die ökonomische Stabilität Ostafrikas."]
     },
-    factsAdvanced: {
-      hu: ["A terminál 2009-ben kezdte meg működését.", "Évente több mint 1,5 millió konténert kezel.", "Közvetlen vasúti összeköttetés van Addisz-Abeba felé.", "A terminál 18 méteres mélységgel rendelkezik.", "A világ egyik legmodernebb kikötői infrastruktúrája.", "Kulcsszerepet játszik a kelet-afrikai kereskedelemben."]
-    }
+    
   },
     description: {
       de: "Einer der modernsten Containerhäfen Afrikas, der als wichtigster Umschlagplatz für den Handel zwischen Asien, Europa und Äthiopien dient.",
@@ -55,9 +53,7 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Verfügt über bedeutende strategische Ölreserven für die Region.", "Besitzt eine Lagerkapazität von mehreren hunderttausend Kubikmetern.", "Erfüllt höchste internationale Sicherheits- und Umweltstandards.", "Einer der wichtigsten Treibstoff-Distributoren am Horn von Afrika.", "Eng vernetzt mit der restlichen Hafeninfrastruktur von Doraleh.", "Unverzichtbar für die industrielle Produktion und den Transportsektor."]
     },
-    factsAdvanced: {
-      hu: ["Jelentős stratégiai olajtartalékokkal rendelkezik.", "Több száz ezer köbméternyi tárolókapacitással bír.", "Kiemelt biztonsági előírásoknak felel meg.", "A régió egyik legfontosabb üzemanyag-elosztója.", "Összeköttetésben áll a főbb kikötői infrastruktúrákkal.", "Nélkülözhetetlen a helyi ipari termelés számára."]
-    }
+    
   },
     description: {
       de: "Ein bedeutendes Terminal für die Lagerung und den Umschlag von Erdölprodukten, das die Energieversorgung der gesamten Region sicherstellt.",
@@ -89,9 +85,7 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Spezialisierter Terminal für den Umschlag von Bergbauprodukten.", "Strategisch günstig am Golf von Ghoubbet gelegen.", "Verfügt über ein hochmodernes Förderbandsystem zur Beladung.", "Wird primär für den Export von Perlit und Salz genutzt.", "Sichert langfristige Verträge mit internationalen Bergbauunternehmen.", "Wurde unter Berücksichtigung strenger Umweltschutzvorgaben errichtet."]
     },
-    factsAdvanced: {
-      hu: ["Speciális ásványi anyagok kezelésére alkalmas.", "A Ghoubbet-öböl stratégiai pontján helyezkedik el.", "Modern szállítószalag-rendszerrel rendelkezik.", "Főként perlit és egyéb ásványok szállítására használják.", "Hosszú távú szerződések kötik nemzetközi bányavállalatokhoz.", "Kiemelt környezetvédelmi szempontok alapján épült."]
-    }
+    
   },
     description: {
       de: "Dieser spezialisierte Hafen wurde für den Export von Bodenschätzen wie Salz und Perlit aus den umliegenden Minen konzipiert.",
@@ -123,9 +117,7 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Auf den Export von Lebendvieh spezialisierter Hafenkomplex.", "Verfügt über moderne Quarantänestationen zur Gesundheitsprüfung.", "Schlägt jährlich mehrere hunderttausend Tiere sicher um.", "Zentrale Drehscheibe für den regionalen Viehhandel am Horn.", "Unterliegt strengsten tierärztlichen Protokollen und Kontrollen.", "Steigert durch effiziente Logistik die Exporteinnahmen des Landes."]
     },
-    factsAdvanced: {
-      hu: ["Élőállat-szállításra specializálódott terminál.", "Modern karanténállomásokkal rendelkezik.", "Évente több százezer állatot kezel.", "Központi szerepet játszik a regionális állatkereskedelemben.", "Szigorú állategészségügyi protokollok vonatkoznak rá.", "A kikötő fejlesztése növeli Djibouti exportbevételeit."]
-    }
+    
   },
     description: {
       de: "Ein moderner Hafenkomplex, der auf den Export von Vieh spezialisiert ist und strenge Quarantäne- und Gesundheitsstandards erfüllt.",
@@ -157,9 +149,7 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Speziell für den effizienten Umschlag von Kali (Kalisalz) errichtet.", "Bietet eine direkte logistische Verbindung zu äthiopischen Minen.", "Erhöht das Volumen des äthiopisch-dschibutischen Transitverkehrs.", "Verarbeitet jährlich enorme Mengen an industriellen Rohstoffen.", "Ausgestattet mit automatisierten Lade- und Entladesystemen.", "Reduziert signifikant die Transportzeit für Bergbauprodukte."]
     },
-    factsAdvanced: {
-      hu: ["Speciálisan a kálisó kezelésére épült.", "Közvetlen kapcsolat az etiópiai bányákkal.", "Növeli az etióp-djibouti tranzitforgalmat.", "Évente nagy mennyiségű nyersanyagot kezel.", "Korszerű, automatizált rakodórendszerekkel szerelték fel.", "Jelentősen csökkenti a szállítási időt."]
-    }
+    
   },
     description: {
       de: "Ein spezialisierter Exporthafen im Norden, der hauptsächlich für die Verschiffung von Kali aus äthiopischen Minen genutzt wird.",
@@ -191,9 +181,7 @@ export const poiExtraDjiboutiEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Gewinnung aus einem der salzhaltigsten Gewässer der Erde.", "Basiert auf jahrhundertealten Traditionen der Salzgewinnung.", "Die industrielle Verarbeitung ist eine bedeutende Einnahmequelle.", "Die Reinheit des Salzes garantiert ein hochwertiges Endprodukt.", "Der Abbau erfolgt unter Einhaltung moderner Umweltstandards.", "Verfügt über eine der größten natürlichen Salzreserven weltweit."]
     },
-    factsAdvanced: {
-      hu: ["A világ egyik legmagasabb sótartalmú tava.", "A sókitermelés évszázados hagyományokra épül.", "Az ipari feldolgozás jelentős bevételi forrás.", "A só tisztasága kiváló minőségű végterméket biztosít.", "A kitermelés a környezetvédelmi normák szerint folyik.", "A régió egyik legnagyobb sókészletével rendelkezik."]
-    }
+    
   },
     description: {
       de: "Die industrielle Gewinnung von hochwertigem Speise- und Industriesalz aus einem der salzhaltigsten Gewässer der Erde.",

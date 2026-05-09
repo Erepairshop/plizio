@@ -21,12 +21,8 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Led by the Senoussi dynasty.", "Dominant power in the 19th century.", "Crucial node for regional trade routes.", "Significant pre-colonial polity.", "Influenced northern regional history.", "Legacy remains in local social structures."]
     },
-    factsAdvanced: {
-      ro: ["Tip: entitate politică istorică.", "Regiune: nord-est.", "Importanță: influență precolonială.", "Activitate: rețele comerciale.", "Impact: istoria popoarelor locale.", "Perioadă: istoria precolonială."]
-    },
-    factsAdvanced: {
-      de: ["Wichtige politische Einheit im 19. Jahrhundert.", "Kontrolle über regionale Handelswege.", "Teil der islamischen Sultanatsgeschichte.", "Einfluss auf die kulturelle Identität im Norden.", "Historisch bedeutender Widerstand gegen koloniale Mächte.", "Lage im Norden des heutigen Landes."]
-    },
+    
+    
     description: {
       de: "In Ndélé thronte einst das mächtige Sultanat von Senoussi, das den Norden Zentralafrikas im späten 19. Jahrhundert dominierte. Die befestigte Residenz 'Tata' zeugt noch heute von der einstigen militärischen Stärke und dem weitreichenden Einfluss auf die Karawanenwege.",
       hu: "Ndélében székelt egykor a hatalmas Senoussi szultanátus, amely a 19. század végén uralta Közép-Afrika északi részét. A 'Tata' nevű erődített rezidencia ma is tanúskodik az egykori katonai erőről és a karavánutakra gyakorolt messzemenő befolyásról.",
@@ -78,12 +74,8 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Former French colonial administrative post.", "Modern-day town of Kaga-Bandoro.", "Named after explorer Paul Crampel.", "Established in the late 19th century.", "Evolved into a regional commercial hub.", "Witnessed major colonial administrative shifts."]
     },
-    factsAdvanced: {
-      ro: ["Tip: punct strategic colonial.", "Regiune: zona centrală.", "Importanță: administrația franceză.", "Activitate: control militar/politic.", "Impact: expansiunea colonială.", "Perioadă: secolul al XX-lea."]
-    },
-    factsAdvanced: {
-      de: ["Französischer Kolonialstützpunkt.", "Administrativer Knotenpunkt im Zentrum.", "Symbol für direkte koloniale Präsenz.", "Sicherung der regionalen Handelswege.", "Historische Gründung im 20. Jahrhundert.", "Wichtiger Standort für die koloniale Verwaltung."]
-    },
+    
+    
     description: {
       de: "Dieses historische Fort in Kaga-Bandoro erinnert an den französischen Entdecker Paul Crampel und markierte einen entscheidenden Posten bei der Expansion in Richtung Tschadsee. Die Ruinen erzählen von den harten Bedingungen und den Konflikten der kolonialen Pionierzeit.",
       hu: "Ez a Kaga-Bandoróban található történelmi erőd Paul Crampel francia felfedezőnek állít emléket, és döntő fontosságú pont volt a Csád-tó felé tartó terjeszkedés során. A romok a gyarmati úttörők korának nehéz körülményeiről és konfliktusairól mesélnek.",
@@ -135,12 +127,8 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Strategically located early colonial post.", "Key administrative point in Ubangi-Shari.", "Facilitated control over the central plateau.", "Reflects French colonial settlement patterns.", "Important transit site for colonial travel.", "Markers for studying regional trade shifts."]
     },
-    factsAdvanced: {
-      ro: ["Tip: bază militară/administrativă.", "Regiune: Sibut.", "Importanță: perioada colonială.", "Activitate: control și coordonare.", "Impact: evoluția structurilor administrative.", "Perioadă: perioada colonială."]
-    },
-    factsAdvanced: {
-      de: ["Ehemals wichtiger kolonialer Stützpunkt.", "Zentrum der regionalen Verwaltung.", "Pfeiler der kolonialen Infrastruktur.", "Kontrollstation für Warenrouten nach Bangui.", "Historisch bedeutender Ort für Kémo.", "Zeugnis kolonialer Strategie."]
-    },
+    
+    
     description: {
       de: "Ursprünglich als Fort-de-Possel gegründet und später nach dem Offizier Sibut benannt, war dieser Ort ein Tor zum Norden. Die Geschichte der Stadt ist eng mit dem Aufbau der Telegrafenlinien und der französischen Militärpräsenz im Herzen Afrikas verknüpft.",
       hu: "Eredetileg Fort-de-Possel néven alapították, majd később Sibut tisztről nevezték el; ez a hely volt az északi kapu. A város története szorosan összefonódik a távíróvonalak kiépítésével és a francia katonai jelenléttel Afrika szívében.",
@@ -192,12 +180,8 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Enigmatic ancient stone monuments.", "Located in the western highlands.", "Suggest sophisticated ancient social life.", "Primary focus for archaeological research.", "Dated back many centuries ago.", "Key link to early regional history."]
     },
-    factsAdvanced: {
-      ro: ["Tip: sit arheologic.", "Regiune: Bouar.", "Importanță: istoria străveche.", "Activitate: cercetare preistorică.", "Impact: înțelegerea trecutului.", "Resursă: structuri de piatră."]
-    },
-    factsAdvanced: {
-      de: ["Präkoloniale Megalithstrukturen.", "Monumentale Denkmäler aus Stein.", "Bedeutendes kulturelles Erbe des Nordwestens.", "Forschungsobjekt für Prähistoriker.", "Kulturelles Symbol für die Region Bouar.", "Spur früherer Siedlungskulturen."]
-    },
+    
+    
     description: {
       de: "Die Megalithen von Bouar sind stumme Zeugen einer uralten Zivilisation, die lange vor der Kolonialisierung das Hochland bewohnte. Diese als 'Tajima' bekannten Steinmonumente sind bis zu 3.000 Jahre alt und stellen eines der bedeutendsten archäologischen Rätsel Zentralafrikas dar.",
       hu: "A bouari megalitok egy ősi civilizáció néma tanúi, amely jóval a gyarmatosítás előtt lakta a fennsíkot. Ezek a 'Tajima' néven ismert kőmonumentumok akár 3000 évesek is lehetnek, és Közép-Afrika egyik legjelentősebb régészeti rejtélyét képviselik.",
@@ -249,12 +233,8 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Powerful southeastern sultanate state.", "Dominated trade along the Mbomou River.", "Key political actor in pre-colonial times.", "Negotiated with incoming European powers.", "Historical influence on regional culture.", "Reflects the complex pre-colonial politics."]
     },
-    factsAdvanced: {
-      ro: ["Tip: sultanat istoric.", "Regiune: estul țării.", "Importanță: putere politică și comercială.", "Activitate: diplomație și negoț.", "Impact: istoria estului.", "Perioadă: perioada precolonială."]
-    },
-    factsAdvanced: {
-      de: ["Bedeutendes Sultanat im Südosten.", "Zentrum der Macht in der Region Mbomou.", "Einfluss lokaler Handelsbeziehungen.", "Beitrag zur gesellschaftlichen Strukturierung.", "Lokales islamisches Zentrum vor der Kolonialzeit.", "Prägende Rolle für Bangassou."]
-    },
+    
+    
     description: {
       de: "Im 19. Jahrhundert war das Sultanat von Bangassou ein Zentrum der Macht am Mbomou-Fluss. Der Sultan herrschte über ein weites Gebiet und navigierte geschickt zwischen den europäischen Mächten, um die Autonomie seines Volkes, der Nzakara, so lange wie möglich zu bewahren.",
       hu: "A 19. században a Bangassou Szultanátus a hatalom központja volt az Mbomou folyó mentén. A szultán hatalmas terület felett uralkodott, és ügyesen lavírozott az európai hatalmak között, hogy népe, a nzakarák autonómiáját ameddig csak lehet, megőrizze.",
@@ -306,12 +286,8 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Important southeastern sultanate seat.", "Strategic influence in trade alliances.", "Historically vital for regional security.", "Defined early power dynamics in the east.", "Essential case for regional history.", "Associated with Mbomou river transit."]
     },
-    factsAdvanced: {
-      ro: ["Tip: sultanat istoric.", "Regiune: estul țării.", "Importanță: putere regională.", "Activitate: negoț fluvial.", "Impact: organizarea politică locală.", "Perioadă: perioada precolonială."]
-    },
-    factsAdvanced: {
-      de: ["Politisches Zentrum im Südosten.", "Akteur im regionalen Handelsnetzwerk.", "Organisierte Machtstruktur vor der Kolonialzeit.", "Beitrag zur politischen Landschaft der Region.", "Prägende Rolle für Rafai.", "Teil der historischen Sultanats-Regionen."]
-    },
+    
+    
     description: {
       de: "Das Sultanat von Rafaï war ein weiterer bedeutender souveräner Staat im Südosten, der eine Brücke zwischen dem Kongobecken und dem Niltal bildete. Die Herrscher von Rafaï waren bekannt für ihre diplomatischen Beziehungen und die Verteidigung ihres Territoriums gegen äußere Einflüsse.",
       hu: "A Rafaï Szultanátus egy másik jelentős szuverén állam volt délkeleten, amely hidat képezett a Kongó-medence és a Nílus-völgy között. Rafaï uralkodói diplomáciai kapcsolataikról és területük külső befolyásokkal szembeni védelméről voltak ismertek.",
@@ -363,12 +339,8 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Sultanate capital in the extreme southeast.", "Crucial trade hub for frontier regions.", "Linked central Africa to Nile basin routes.", "Demonstrates resilience of local power.", "Historic frontier control center.", "Essential for understanding eastern expansion."]
     },
-    factsAdvanced: {
-      ro: ["Tip: sultanat istoric.", "Regiune: estul extrem.", "Importanță: controlul zonelor de frontieră.", "Activitate: mediere politică.", "Impact: stabilitatea regională.", "Perioadă: istoria precolonială."]
-    },
-    factsAdvanced: {
-      de: ["Lokale Machtstruktur im Südosten.", "Bedeutung für regionale Handelskontrolle.", "Beispiel für politisch organisierte Zentren.", "Historisch prägend für die Region Zemio.", "Teil eines komplexen Mosaiks an Sultanaten.", "Politische Verwaltung vor der Kolonialzeit."]
-    },
+    
+    
     description: {
       de: "Tief im Osten des Landes gelegen, markierte das Sultanat von Zémio den fernsten Punkt der kolonialen Kontrolle und war ein eigenständiges Machtzentrum der Zande. Die Geschichte dieses Ortes ist geprägt von der Widerstandsfähigkeit der lokalen Herrscher gegenüber den Begehrlichkeiten aus dem Norden und Westen.",
       hu: "Az ország távoli keleti részén található Zémio Szultanátus a gyarmati ellenőrzés legtávolabbi pontját jelölte, és a zandék független hatalmi központja volt. A hely történetét a helyi uralkodók ellenállóképessége határozta meg az északról és nyugatról érkező törekvésekkel szemben.",
@@ -420,12 +392,8 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Part of the early colonial defensive network.", "Located in the fertile northern savanna.", "Intended to control regional trade.", "Reflects colonial interest in the north.", "Key site for colonial resource management.", "Managed regional population interactions."]
     },
-    factsAdvanced: {
-      ro: ["Tip: fortificație colonială.", "Regiune: nordul țării.", "Importanță: control administrativ.", "Activitate: monitorizare militară.", "Impact: controlul resurselor.", "Perioadă: perioada colonială."]
-    },
-    factsAdvanced: {
-      de: ["Militärischer Außenposten im Norden.", "Symbol für den französischen Kolonialanspruch.", "Strategische Bedeutung für die Region Ouham.", "Teil des kolonialen Kontrollnetzes.", "Beitrag zur historischen Grenzformung.", "Zeugnis für die koloniale Epoche."]
-    },
+    
+    
     description: {
       de: "In Bossangoa thronte einst das Fort de l'Ouham, das als militärisches Zentrum für die Kontrolle des fruchtbaren Umlandes diente. Die Überreste dieses Postens erinnern an die Zeit der 'Konzessionsgesellschaften', die die Geschichte Zentralafrikas im frühen 20. Jahrhundert so schmerzlich prägten.",
       hu: "Bossangoában állt egykor a Fort de l'Ouham, amely a termékeny környék ellenőrzésének katonai központjaként szolgált. Ennek a posztnak a maradványai a 'koncessziós társaságok' idejére emlékeztetnek, amelyek oly fájdalmasan határozták meg Közép-Afrika történetét a 20. század elején.",
@@ -477,12 +445,8 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Preserves colonial-era urban history.", "Features early 20th-century buildings.", "Illustrates capital city development.", "Evidence of French administrative roles.", "Key for studying urban architectural evolution.", "Historical transformation marker for Bangui."]
     },
-    factsAdvanced: {
-      ro: ["Tip: cartier istoric.", "Regiune: Bangui.", "Importanță: istoria colonială urbană.", "Activitate: conservare arhitecturală.", "Impact: evoluția orașului.", "Perioadă: secolul al XX-lea."]
-    },
-    factsAdvanced: {
-      de: ["Historische Architektur aus der Kolonialzeit.", "Einfluss der französischen Stadtplanung.", "Teil des kulturellen Erbes von Bangui.", "Architekturgeschichte der Hauptstadt.", "Oft heutige Nutzung als öffentliche Gebäude.", "Zeugnis des urbanen Wandels."]
-    },
+    
+    
     description: {
       de: "Das Herz von Bangui beherbergt noch immer charmante, wenn auch verfallende Gebäude aus der französischen Kolonialzeit. Diese Architektur erinnert an die Gründung der Stadt im Jahr 1889 und den rasanten Aufstieg zu einem bedeutenden Verwaltungszentrum im Herzen von Französisch-Äquatorialafrika.",
       hu: "Bangui szíve ma is otthont ad bájos, bár olykor romos épületeknek a francia gyarmati korból. Ez az építészet a város 1889-es alapítására és arra a gyors felemelkedésre emlékeztet, amellyel a város Francia Egyenlítői-Afrika egyik jelentős közigazgatási központjává vált.",
@@ -535,12 +499,8 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       en: ["Colonial-era infrastructure landmark.", "Facilitates crossing of the Ouaka River.", "Connects central CAR regions.", "Critical to early colonial administration.", "Vital link for modern transport.", "Representative of infrastructure history."]
     },
-    factsAdvanced: {
-      ro: ["Tip: infrastructură istorică.", "Regiune: Bambari.", "Importanță: nod de transport.", "Activitate: circulație rutieră.", "Impact: dezvoltarea regională.", "Perioadă: secolul al XX-lea."]
-    },
-    factsAdvanced: {
-      de: ["Historisch bedeutender Brückenbau.", "Symbol für infrastrukturelle Erschließung.", "Verbindung der Regionen in Zentralafrika.", "Entscheidend für die Logistik im Zentrum.", "Bauwerk mit Geschichte aus der Mitte des 20. Jh.", "Wichtige Infrastruktur der Region Ouaka."]
-    },
+    
+    
     description: {
       de: "Die Brücke über den Ouaka-Fluss in Bambari war über Jahrzehnte die lebenswichtige Ader, die den Osten mit dem Westen Zentralafrikas verband. Sie ist ein Symbol für die ingenieurstechnischen Bemühungen der Mitte des 20. Jahrhunderts, die Isolation des Binnenlandes zu durchbrechen.",
       hu: "A Bambari Ouaka folyón átívelő híd évtizedeken át volt az az életerő, amely Közép-Afrika keleti és nyugati részét összekötötte. Ez a híd a 20. század közepi mérnöki törekvések szimbóluma, amelyek a szárazföld belsejének elszigeteltségét kívánták megtörni.",
@@ -591,9 +551,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       ro: ["Tip: centru administrativ colonial.", "Regiune: Mbaïki.", "Importanță: gestionarea resurselor forestiere.", "Activitate: coordonare administrativă.", "Impact: controlul sud-vestului.", "Perioadă: perioada colonială."]
     },
-    factsAdvanced: {
-      de: ["Ehemaliges Gebäude der Kolonialverwaltung.", "Zentrum der Verwaltung in der Region Lobaye.", "Kontrolle über den Kaffee-Wirtschaftssektor.", "Zeugnis administrativer Organisationsform.", "Grundstein für moderne Präfekturverwaltung.", "Historisches Gebäude in Mbaiki."]
-    },
+    
     description: {
       de: "Inmitten der dichten Wälder der Lobaye-Region steht die alte Präfektur von Mbaïki, ein eindrucksvolles Beispiel für die koloniale Baukunst. Von hier aus wurde im frühen 20. Jahrhundert der lukrative Handel mit Edelhölzern und Kautschuk koordiniert, der die Region weltweit bekannt machte.",
       hu: "A Lobaye régió sűrű erdőinek közepén áll Mbaïki régi prefektúrája, amely a gyarmati építőművészet lenyűgöző példája. Innen koordinálták a 20. század elején az értékes keményfa és kaucsuk jövedelmező kereskedelmét, amely világszerte ismertté tette a régiót.",
@@ -644,9 +602,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       ro: ["Tip: moștenire colonială.", "Regiune: Mobaye.", "Importanță: istorie fluvială.", "Activitate: conservare locală.", "Impact: dezvoltarea portuară.", "Perioadă: perioada colonială."]
     },
-    factsAdvanced: {
-      de: ["Architektonisches Erbe am Ubangi-Ufer.", "Wichtiger Standort für Handel und Verwaltung.", "Symbol für die koloniale Präsenz am Fluss.", "Prägt das historische Stadtbild von Mobaye.", "Erinnert an die Handelsära des Südostens.", "Zeugnis der wirtschaftlichen Geschichte."]
-    },
+    
     description: {
       de: "Mobaye am Mbomou-Fluss bewahrt Spuren seiner glanzvollen Vergangenheit als wichtiger Grenzposten. Die alten Steinhäuser und Hafenanlagen erzählen von der Ära, als der Fluss die Hauptverkehrsader für den Transport von Rohstoffen in den Kongo und weiter nach Europa war.",
       hu: "Az Mbomou folyó partján fekvő Mobaye őrzi nyomait fényes múltjának, amikor fontos határmenti poszt volt. A régi kőházak és kikötői létesítmények arról a korszakról mesélnek, amikor a folyó volt a nyersanyagok Kongóba és onnan Európába történő szállításának fő útvonala.",
@@ -697,9 +653,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       ro: ["Tip: moștenire istorică.", "Regiune: Berbérati.", "Importanță: exploatarea diamantelor.", "Activitate: istorie economică.", "Impact: dezvoltarea socială.", "Perioadă: secolul al XX-lea."]
     },
-    factsAdvanced: {
-      de: ["Historische Wurzeln in der Diamantengewinnung.", "Wirtschaftliche Aufwertung während der Kolonialzeit.", "Entwicklung zum Zentrum des Edelsteinhandels.", "Prozess der industriellen Erschließung.", "Geschichte von Abbau und Ausbeutung.", "Prägt die industrielle Stellung von Berbérati."]
-    },
+    
     description: {
       de: "Die Geschichte von Berbérati ist untrennbar mit dem Glanz und dem Schatten des Diamantenhandels verbunden. Seit der Entdeckung der Vorkommen im frühen 20. Jahrhundert entwickelte sich die Stadt zu einem kosmopolitischen Zentrum, in dem sich Glücksritter aus aller Welt trafen.",
       hu: "Berbérati története elválaszthatatlan a gyémántkereskedelem csillogásától és árnyoldalaitól. A lelőhelyek 20. század eleji felfedezése óta a város kozmopolita központtá fejlődött, ahol a világ minden tájáról érkező szerencsevadászok találkoztak.",
@@ -751,9 +705,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       ro: ["Tip: istorie minieră.", "Regiune: Carnot.", "Importanță: extracția aurului.", "Activitate: istorie economică.", "Impact: modelarea economică.", "Perioadă: secolul al XX-lea."]
     },
-    factsAdvanced: {
-      de: ["Historische Verbindung zum Bergbau.", "Frühe koloniale Erschließung durch Firmen.", "Städtische Identität durch Rohstoffabbau.", "Repräsentant für den Bergbau im Südwesten.", "Erbe der industriellen Ausbeutung.", "Spezifische Historie als Minenzentrum."]
-    },
+    
     description: {
       de: "Carnot verdankt seinen Namen und seinen historischen Aufstieg den reichen Goldvorkommen in den umliegenden Flüssen. Die Stadt war Schauplatz eines Goldrausches, der die Landschaft veränderte und Menschen verschiedenster Herkunft in diese entlegene Region lockte.",
       hu: "Carnot a nevét és történelmi felemelkedését a környező folyók gazdag aranylelőhelyeinek köszönheti. A város egy olyan aranyláz helyszíne volt, amely megváltoztatta a tájat, és különböző származású embereket vonzott ebbe a távoli régióba.",
@@ -805,9 +757,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       ro: ["Tip: punct istoric strategic.", "Regiune: Nola.", "Importanță: explorare fluvială.", "Activitate: comerț colonial.", "Impact: monitorizarea apelor.", "Perioadă: perioada colonială."]
     },
-    factsAdvanced: {
-      de: ["Historischer Knotenpunkt für Handel.", "Intensivierung der Waldwirtschaft im Kolonialismus.", "Strategischer Zusammenfluss der Flüsse.", "Wichtiger Ankerpunkt im Waldgürtel.", "Traditioneller Ort für Warentransport.", "Bedeutsam für die historische Logistik."]
-    },
+    
     description: {
       de: "Am Zusammenfluss von Kadeï und Sangha gelegen, war Nola ein strategischer Schlüsselpunkt für die frühen europäischen Missionen und Expeditionen. Hier trafen die Wasserwege zusammen, die den Zugang zu den tiefsten Geheimnissen des äquatorialen Regenwaldes ermöglichten.",
       hu: "A Kadeï és a Sangha folyók találkozásánál fekvő Nola stratégiai kulcspont volt a korai európai missziók és expedíciók számára. Itt futottak össze azok a vízi utak, amelyek hozzáférést biztosítottak az egyenlítői esőerdő legmélyebb titkaihoz.",
@@ -858,9 +808,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       ro: ["Tip: așezare misionară.", "Regiune: Bozoum.", "Importanță: influență socială/educațională.", "Activitate: servicii comunitare.", "Impact: educația locală.", "Perioadă: secolul al XX-lea."]
     },
-    factsAdvanced: {
-      de: ["Historisch bedeutende Missionsstation.", "Einfluss auf Bildung und Gesundheitswesen.", "Wichtige Rolle bei der Christianisierung.", "Soziales Zentrum in Ouham-Pendé.", "Eng mit der kolonialen Geschichte verknüpft.", "Kulturelles und soziales Erbe vor Ort."]
-    },
+    
     description: {
       de: "Die katholische Mission von Bozoum, gegründet im frühen 20. Jahrhundert, war ein Pionierort für Bildung und Gesundheitsversorgung im Nordwesten Zentralafrikas. Die historischen Kirchengebäude und Schulen sind Symbole für den kulturellen Wandel, den die Region durchlebte.",
       hu: "A 20. század elején alapított bozoumi katolikus misszió az oktatás és az egészségügyi ellátás úttörő helyszíne volt Közép-Afrika északnyugati részén. A történelmi templomépületek és iskolák a régió kulturális átalakulásának szimbólumai.",
@@ -912,9 +860,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       ro: ["Tip: post comercial istoric.", "Regiune: Ouadda.", "Importanță: schimbul de resurse.", "Activitate: comerț.", "Impact: acces la piețe.", "Perioadă: perioada colonială."]
     },
-    factsAdvanced: {
-      de: ["Wichtiger historischer Handelsposten.", "Knotenpunkt für entlegene Regionen.", "Strukturierung regionaler Handelsnetze.", "Erinnerung an vergangene Handelsrouten.", "Bedeutend für den Osten des Landes.", "Historische Handelsinfrastruktur."]
-    },
+    
     description: {
       de: "Ouadda war historisch ein einsamer, aber wichtiger Außenposten auf dem Weg nach Norden. Als Kreuzungspunkt alter Karawanenwege war dieser Ort Zeuge des Austauschs zwischen den Völkern der Savanne und den Händlern aus der Sahara-Region.",
       hu: "Ouadda történelmileg egy magányos, de fontos külállomás volt az észak felé vezető úton. A régi karavánutak kereszteződéseként ez a hely tanúja volt a szavanna népei és a Szahara régióból érkező kereskedők közötti cserének.",
@@ -965,9 +911,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       ro: ["Tip: rută istorică.", "Regiune: Birao.", "Importanță: negoț trans-saharian.", "Activitate: schimb cultural/economic.", "Impact: legături internaționale.", "Perioadă: istoria precolonială."]
     },
-    factsAdvanced: {
-      de: ["Historischer Knotenpunkt für Karawanenwege.", "Verbindung zum Sudan und Mittelmeer.", "Wichtige Station des Warenaustauschs.", "Historisch bedeutender Handelsknoten.", "Verbindung von lokaler und globaler Geschichte.", "Kulturelles Erbe des Nordostens."]
-    },
+    
     description: {
       de: "In der abgelegenen Vakaga-Region liegt Birao am Ende eines jahrhundertealten Karawanenwegs, der das Tschad-Becken mit dem Sudan verbindet. Die Geschichte Biraos ist geprägt von der Ankunft großer Karawanen, die exotische Waren und neue kulturelle Einflüsse in den Norden Zentralafrikas brachten.",
       hu: "A távoli Vakaga régióban található Birao egy évszázados karavánút végén fekszik, amely a Csád-medencét köti össze Szudánnal. Birao történetét a nagy karavánok érkezése határozta meg, amelyek egzotikus árukat és új kulturális hatásokat hoztak Közép-Afrika északi részére.",
@@ -1018,9 +962,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       ro: ["Tip: punct administrativ/militar.", "Regiune: Obo.", "Importanță: securitatea frontierelor.", "Activitate: controlul fluxurilor.", "Impact: securitatea estului.", "Perioadă: secolul al XX-lea."]
     },
-    factsAdvanced: {
-      de: ["Historisch bedeutender Grenzposten.", "Kontrolle von Handels- und Menschenströmen.", "Außenposten der kolonialen Grenzsicherung.", "Strategische Bedeutung für den Südosten.", "Ort mit langer Geschichte als Grenzhub.", "Identitätsbildend für Obo."]
-    },
+    
     description: {
       de: "Als östlichster Außenposten Zentralafrikas hat Obo eine lange Geschichte als einsamer Wächter an der Grenze zum Sudan. Gegründet als isolierter Militär- und Verwaltungsposten, markiert Obo bis heute den fernsten Rand des staatlichen Einflusses in einer fast undurchdringlichen Wildnis.",
       hu: "Közép-Afrika legkeletibb külállomásaként Obo hosszú múltra tekint vissza magányos őrként a szudáni határon. Izolált katonai és közigazgatási posztként alapítva Obo ma is az állami befolyás legtávolabbi peremét jelzi egy szinte áthatolhatatlan vadonban.",
@@ -1071,9 +1013,7 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
     factsAdvanced: {
       ro: ["Tip: proiect de infrastructură.", "Regiune: Boali.", "Importanță: modernizarea energetică.", "Activitate: construcție energetică.", "Impact: dezvoltarea capitalei.", "Perioadă: secolul al XX-lea."]
     },
-    factsAdvanced: {
-      de: ["Meilenstein der industriellen Modernisierung.", "Entwicklung in den 1950er Jahren.", "Basis der heutigen Energieinfrastruktur.", "Symbol für technologischen Fortschritt.", "Wesentlicher Teil der Geschichte Bangui.", "Technische Pionierleistung vor Ort."]
-    },
+    
     description: {
       de: "Das Wasserkraftwerk von Boali, errichtet an den spektakulären Wasserfällen, ist ein Denkmal der frühen Industrialisierung Zentralafrikas. In der Mitte des 20. Jahrhunderts erbaut, war es die erste große Anlage ihrer Art und lieferte die Energie für den Aufbau der modernen Hauptstadt Bangui.",
       hu: "A látványos vízeséseknél épült boali vízerőmű Közép-Afrika korai iparosodásának emlékműve. A 20. század közepén épült, ez volt az első ilyen jellegű nagyberendezés, amely energiát szolgáltatott a modern főváros, Bangui kiépítéséhez.",

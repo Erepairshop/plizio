@@ -38,18 +38,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["A fost inaugurată oficial în anul 1979.", "Se întinde pe o suprafață uriașă de 4 milioane de metri pătrați.", "Procesele sunt extrem de automatizate, producând un vehicul la aproximativ fiecare 90 de secunde.", "Deține un debarcader propriu capabil să acomodeze nave cu o capacitate de 50.000 de tone.", "Aproape 40% din vehiculele asamblate aici sunt destinate piețelor externe.", "Este responsabilă pentru o mare parte din producția mărcii de lux Lexus."],
     en: ["In production since 1979.", "Focuses on high-quality Lexus models.", "Known for its high level of automation.", "One of Toyota's most advanced automobile manufacturing plants, known for producing premium Lexus brand vehicles.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Toyota Tahara üzem Aicsi prefektúrában, egy földnyelven helyezkedik el a Csendes-óceán partján. Az 1979-ben megnyitott gigantikus autóipari komplexum a Toyota Motor Corporation egyik legfontosabb és legfejlettebb gyártóbázisa a világon. Különlegességét nemcsak a hatalmas termelési kapacitás adja, hanem az, hogy ez a gyár a Toyota prémium márkájának, a Lexusnak az elsődleges szülőhelye. A taharai üzemben dolgozták ki azokat az úttörő szintű robotizációs folyamatokat, lézeres hegesztési technikákat és a 'Takumi' (mester) ellenőrök által végzett mikromilliméteres precíziós vizsgálatokat, amelyek a japán autógyártást a világ élvonalába emelték. A gyár saját kikötővel rendelkezik, ami drasztikusan felgyorsítja a globális exportot. Gazdaságismeret K8 — automatizálás és globális logisztika. Milyen versenyelőnyt jelent egy autógyár számára, ha saját mélyvízi tengeri terminálja van?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A Tahara üzemet 1979-ben nyitották meg, és területe megközelíti a 4 millió négyzetmétert.", "Ez a gyár a Lexus (pl. LS, IS modellek) és a Toyota Land Cruiser sorozat legfőbb gyártóbázisa.", "A saját kikötői (Ro-Ro) terminál révén a kész autók percek alatt közvetlenül a teherhajókra gurulhatnak.", "A gyár minőségellenőrzési rendszerében a speciális 'Takumi' mesterek puszta kézzel vizsgálják az illesztéseket.", "Tahara a világ egyik legautomatizáltabb autógyára, több ezer ipari robottal a hegesztő és festő üzemekben.", "Az üzem területén kiterjedt szél- és naperőművek biztosítják a részleges ökológiai áramellátást."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/toyota-tahara-plant-economic-v2.webp"},
+    
+     image: "/poi-images/toyota-tahara-plant-economic-v2.webp"},
   {
     id: "port-of-yokohama-economic-v2",
     type: "port",
@@ -86,18 +76,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["A fost deschis oficial comerțului internațional la data de 2 iunie 1859.", "Gestionează un volum anual de mărfuri de peste 110 milioane de tone.", "Infrastructura portuară se întinde pe o lungime a țărmului de aproximativ 10 kilometri.", "Dispune de terminalul de pasageri Osanbashi, finalizat în designul său actual în anul 2002.", "Portul deține 10 terminale majore, inclusiv Honmoku Pier.", "Este conectat direct cu vasta rețea industrială a zonei Keihin."],
     en: ["Major import port for food products.", "Large cruise ship terminal.", "Handles over 2.9 million TEUs annually.", "One of Japan's largest seaports and a crucial hub for international trade and logistics in the Tokyo Bay.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Jokohamai kikötő az egyik legelső és legfontosabb nemzetközi tengeri kapu Japánban, amelyet hivatalosan 1859-ben nyitottak meg a nyugati hatalmak számára. Ez az esemény véget vetett Japán kétszáz éves elzárkózásának (szakoku), és egy apró halászfaluból elindította a világ egyik legnagyobb metropoliszának fejlődését. A kikötő a 19. és 20. században kulcsszerepet játszott a japán nyersselyem exportálásában, ami a Meidzsi-kor gyors ipari forradalmának pénzügyi alapját jelentette. A történelmi vámszabad raktárak (Vörös Téglás Raktárak) ma is állnak kulturális központként. Napjainkban a jokohamai létesítmény egy modern logisztikai óriás gigantikus konténerdarukkal (Minami Honmoku terminál) és a lenyűgöző kialakítású Osanbashi személyforgalmi mólóval. Gazdaságismeret K7 — a selyemkereskedelem és az iparosodás kapcsolata. Miért a selyem lett a szigetország legértékesebb valutája az 1800-as évek végén?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["Jokohama kikötőjét a Harris-egyezmény alapján nyitották meg a nemzetközi kereskedelem számára 1859-ben.", "A 20. század elején a japán export több mint felét a jokohamai kikötőn átutazó selyem adta.", "A történelmi Vörös Téglás Raktárakat (Aka Renga Szóko) 1911-ben és 1913-ban építették, ma népszerű bevásárló- és kulturális terek.", "A kikötő évi több mint 2,5 millió TEU (húszlábas) konténert kezel, így Japán egyik legforgalmasabb logisztikai csomópontja.", "A 2002-ben átadott Osanbashi Terminál faszerkezetű tetőzete a hullámzó óceánt szimbolizálja.", "A nagy kantói földrengés (1923) során a kikötői infrastruktúra jelentős része elpusztult."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/port-of-yokohama-economic-v2.webp"},
+    
+     image: "/poi-images/port-of-yokohama-economic-v2.webp"},
   {
     id: "kashima-industrial-zone-economic-v2",
     type: "industry",
@@ -134,18 +114,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["Proiectul de dezvoltare a început în mod oficial în anul 1960.", "Dispune de un port artificial spectaculos excavat direct în coasta Pacificului.", "Combinatul siderurgic de aici are o capacitate de producție de peste 8 milioane de tone de oțel anual.", "Peste 160 de companii de top operează în perimetrul acestui parc industrial.", "Este un centru major pentru industria petrochimică, procesând țiței importat masiv din Orientul Mijlociu.", "Infrastructura include conducte subterane extinse care conectează facilitățile chimice."],
     en: ["Home to over 150 companies.", "Has its own port facilities.", "Crucial for Japan's heavy industry.", "A massive industrial complex centered around petrochemicals, steel production, and power generation.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Kasima ipari zóna Ibaraki prefektúrában, a Csendes-óceán partvidékén terül el, és a japán \\\"gazdasági csoda\\\" (1960-as évek) egyik legmonumentálisabb, mesterségesen létrehozott projektje. A hatalmas, Y-alakú tengeri kikötő és a körülötte lévő gyárváros (acélművek, petrolkémiai üzemek, hőerőművek) korábban kietlen homokdűnék és sekély öblök helyén épült fel hatalmas kotrási és feltöltési munkálatok révén. Itt található a Nippon Steel egyik legnagyobb integrált kohászati gyára és a Mitsubishi Chemical komplexuma is. A terület nemcsak az ipar, hanem a labdarúgás révén is híressé vált: a helyi gyári munkások csapatából nőtte ki magát a Kashima Antlers, Japán egyik legsikeresebb profi focicsapata a 90-es években. Gazdaságismeret K8 — kikötőfejlesztés és nehézipar. Miért volt elengedhetetlen egy mélyvízi, Y-alakú kikötő kiásása a homokdűnék között?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A Kasima Ipari Zóna építési tervét 1963-ban fogadta el a japán kormány.", "Az Y-alakú mesterséges kikötőt a tengerfenék 15-20 méter mélyre történő kikotrásával alakították ki.", "A Nippon Steel kasimai acélműve Japán egyik legnagyobb és legmodernebb kohászati komplexuma.", "A terület több mint 160 nehézipari és vegyipari vállalat gyárának ad otthont.", "Ez a régió az energiaigényes nehézipar miatt Japán egyik legjelentősebb szén-dioxid kibocsátó zónája.", "A helyi futballcsapat, a Kashima Antlers, az 1993-ban indult profi japán J-League első bajnoka volt."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/kashima-industrial-zone-economic-v2.webp"},
+    
+     image: "/poi-images/kashima-industrial-zone-economic-v2.webp"},
   {
     id: "port-of-nagoya-economic-v2",
     type: "port",
@@ -182,18 +152,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["Este responsabil pentru exportul a aproximativ 1,4 milioane de automobile în fiecare an.", "Gestionează un flux de marfă care depășește frecvent 200 de milioane de tone anual.", "Deține supremația în rândul porturilor japoneze ca valoare a schimburilor comerciale de peste 20 de ani.", "În port este ancorată spărgătoarea de gheață istorică Fuji, folosită în misiuni antarctice.", "Acoperă o suprafață masivă a portului și a zonelor de coastă de aproximativ 42 de milioane de metri pătrați.", "Este centrul logistic principal pentru vasta rețea de furnizori ai industriei aerospațiale japoneze."],
     en: ["Japan's largest automobile export port.", "An important part of the Chūkyō Industrial Zone.", "Handles about 10% of Japan's foreign trade.", "The largest trading port in Japan by cargo volume, especially important for automobile exports.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Nagojai kikötő (Aicsi prefektúra) az Iszei-öböl nyugodt vizein fekszik, és a kezelt áruk összsúlya alapján már több mint két évtizede Japán legnagyobb és legforgalmasabb teherkikötője. Stratégiai fontosságát a Toyota és a környező Csúbu régió gépipari, valamint repülőgépipari központjai adják. Ez a kikötő felelős a japán járműexport oroszlánrészéért; hatalmas Ro-Ro (Roll-on/roll-off) termináljai egyszerre több tízezer autót képesek befogadni a mesterséges szigeteken. Emellett kulcsszerepet játszik az ipari nyersanyagok, mint a vasérc és az LNG (cseppfolyósított földgáz) importjában. A logisztikai óriás területén turisztikai látványosságok is helyet kaptak, köztük a Nagoya Port Aquarium és a Fuji jégtörő kutatóhajó múzeuma. Földrajz K8 — autóipar és globális ellátási láncok. Hogyan hat egy ekkora exportkikötő a mögöttes szárazföld (hinterland) úthálózatának tervezésére?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A Nagojai kikötő 2002 óta megszakítás nélkül vezeti a japán kikötők áruforgalmi ranglistáját.", "Évente több mint 200 millió tonna rakomány halad át a terminálokon.", "A kikötő hatalmas autószállító hajókat szolgál ki, amelyek egyenként 6-8 ezer járművet képesek szállítani.", "1959-ben az Ise-wan tájfun súlyos pusztítást végzett a kikötőben, ezután épült meg a modern vihardagaszt-gát.", "Innen exportálják a Boeing 787 Dreamliner repülőgépek Japánban gyártott szárny- és törzselemeit.", "A Nagoya Port Aquarium a világ egyik legnagyobb belterű medencéjével rendelkezik a tengeri emlősök számára."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/port-of-nagoya-economic-v2.webp"},
+    
+     image: "/poi-images/port-of-nagoya-economic-v2.webp"},
   {
     id: "hitachi-mine-economic-v2",
     type: "mine",
@@ -230,18 +190,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["A fost sursa inițială care a dus la fondarea conglomeratului Hitachi Ltd. în 1910.", "Coșul de fum masiv din 1914 avea o înălțime originală de 155 de metri, fiind cel mai înalt din lume la acea vreme.", "Operațiunile miniere de extracție a cuprului au fost închise oficial în anul 1981.", "A reprezentat un exemplu timpuriu de control al poluării prin dispersia fumului la mare altitudine.", "Muzeul minelor Hitachi din zonă documentează tehnicile timpurii de foraj și inginerie electrică.", "La apogeul său, mina susținea o comunitate de mii de muncitori și ingineri minieri."],
     en: ["One of Japan's largest copper mines in the 20th century.", "Operations ceased in 1981.", "The foundation for the Hitachi global conglomerate.", "A historically significant copper mine that contributed to the development of Hitachi city and the namesake company. Though mining has ceased, the site is a symbol of Japanese industrialization.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Hitacsi bánya (Ibaraki prefektúra) egy egykori rézbánya, amely a 20. század elején a japán nehézipar egyik szimbólumává és a híres Hitachi vállalat szülőhelyévé vált. Fusanosuke Kuhara üzletember 1905-ös érkezésével indult meg a gépesített kitermelés, amihez rengeteg elektromos motorra volt szükség. Miután a külföldi motorok gyakran meghibásodtak a mostoha körülmények között, Namihei Odaira bányamérnök 1910-ben egy 5 lóerős, saját tervezésű elektromotort épített. Ebből a bányászati javítóműhelyből nőtt ki a globális technológiai óriás, a Hitachi Ltd. A bánya hírnevét egy 1914-ben felépített gigantikus, 155 méter magas kémény (Daientotsu) is növelte, amelyet a környező hegyeket és lakosságot pusztító kén-dioxid szennyezés magaslégköri szétszórására építettek. Történelem K8 — az ipari forradalom innovációi és a korai környezeti hatások. Miért építették a korabeli világ legmagasabb kéményét egy japán hegyoldalban?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["Namihei Odaira 1910-ben a bányában alapította a ma ismert Hitachi vállalat elődjét.", "Az 1914-ben épült Nagy Kémény (Daientotsu) 155,7 méteres magasságával akkor a világ legmagasabb kéménye volt.", "A kémény felső harmada 1993-ban egy erős vihar (és az anyagfáradás) következtében leomlott.", "A bánya az első világháború alatt élte fénykorát, amikor Japán hatalmas mennyiségű rezet exportált.", "A Hitacsi név két írásjegye (Napo és Feláll) a \\\"Felkelő Napra\\\" és az ország felemelkedésére utal.", "A réz kitermelését gazdasági okokból 1981-ben hagyták abba, majd a bányát lezárták."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/hitachi-mine-economic-v2.webp"},
+    
+     image: "/poi-images/hitachi-mine-economic-v2.webp"},
   {
     id: "osaka-station-city-trade-hub-v2",
     type: "trade-hub",
@@ -278,18 +228,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["A fost redeschisă cu actualul său design arhitectural spectaculos în luna mai a anului 2011.", "Gara servește zilnic un număr impresionant de peste 850.000 de pasageri din rețeaua feroviară.", "Complexul include Piața Timpului și Piața Spațiului, atrii masive sub un acoperiș de sticlă gigantic.", "Clădirea North Gate atinge o înălțime de 150 de metri, oferind birouri și spații de retail extinse.", "Găzduiește grădini spectaculoase pe acoperiș, printre care și renumita Grădină a Vântului (Kaze no Hiroba).", "Este conectată printr-un labirint subteran masiv de alte zone comerciale majore din cartierul Umeda."],
     en: ["Includes train stations, department stores, and offices.", "One of the busiest train stations in the world.", "A prime example of Japanese transit-oriented development.", "A massive railway and commercial complex in Umeda, Osaka, serving as a major transportation hub and shopping destination.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "Az Oszaka Állomásváros (Osaka Station City) Japán egyik legambiciózusabb városfejlesztési és közlekedési projektje, amelyet a JR West 2011-ben fejezett be az észak-oszakai Umeda kerületben. Ez a komplexum nem egy egyszerű vasútállomás, hanem a 'retailtainment' (kereskedelem és szórakoztatás) csúcsa. Két hatalmas, felhőkarcoló-szerű kapuépületét (a North és South Gate Buildinget) egy gigantikus, lebegő üvegtető köti össze, alatta pedig a nyitott 'Idő és Tér Tere' (Toki no Hiroba) található, ahol az emberek találkozhatnak a peronok felett. A projekt drasztikusan megváltoztatta Oszaka bevásárló áramlatait, új életet lehelve az északi kerületbe (később a Grand Front Osaka projekttel kiegészülve). Naponta mintegy 2,5 millió ingázó halad át ezen a többszintes, plázákat, mozikat és tetőkerteket integráló gigászon. Földrajz K8 — a tömegközlekedés (TOD) köré épülő urbanizáció. Hogyan növeli egy hatalmas üvegkupola a vasútállomás kereskedelmi értékét?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A komplexum 2011-es átadása a japán történelem egyik legnagyobb vasúti átépítése volt (kb. 2 milliárd dollár).", "A North Gate Buildingben működik a hatalmas Lucua bevásárlóközpont és több egyetemi innovációs tér.", "A két épületet összekötő, 180 méter hosszú üvegtető természetes fénnyel árasztja el az állomás peronjait.", "A komplexumban több gondozott tetőkert (pl. Kaze no Hiroba, Tenku no Noen) található az ökológiai hűtés érdekében.", "Az első Oszaka állomást 1874-ben adták át, amikor Kiotót összekötötték Kóbéval a síneken.", "A környező csomópontot (JR, Hankyu, Hanshin és metróvonalak együtt) mintegy 2,5 millió ember használja naponta."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/osaka-station-city-trade-hub-v2.webp"},
+    
+     image: "/poi-images/osaka-station-city-trade-hub-v2.webp"},
   {
     id: "kashiwazaki-kariwa-npp-economic-v2",
     type: "energy",
@@ -326,18 +266,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["Este considerată cea mai mare centrală nucleară din lume, având o capacitate instalată de 8.212 megawați.", "Construcția primului său reactor a fost inițiată în anul 1980.", "Complexul cuprinde un total de 7 reactoare distincte, dintre care două de tip ABWR.", "Ocupă o suprafață enormă de teren de 4,2 kilometri pătrați pe coasta prefecturii Niigata.", "Toate reactoarele au fost oprite după anul 2011 pentru un proces exhaustiv de modernizare a siguranței seismice.", "Proiectul a fost operat și administrat de corporația Tokyo Electric Power Company (TEPCO)."],
     en: ["Largest installed capacity in the world.", "All reactors are currently offline.", "A major factor in Japan's energy policy debate.", "Once the world's largest nuclear power plant by net electrical power rating. Its operations have been severely limited since the 2007 Chūetsu earthquake and the Fukushima accident.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Kasivazaki-Kariva atomerőmű a Japán-tenger partján fekszik Niigata prefektúrában, és nettó kapacitását tekintve (több mint 8200 megawatt a 7 reaktorral) a világ legnagyobb atomerőműve. A létesítményt a Tokyo Electric Power Company (TEPCO) üzemelteti, célja eredetileg az energiaigényes Tokió és a Kantó régió ellátása volt. Az erőmű történelmét azonban jelentősen formálták a tektonikus katasztrófák. 2007-ben egy 6,6-os erősségű helyi földrengés tüzet és kisebb szivárgásokat okozott, ami a reaktorok hosszú leállásához vezetett a biztonsági felújítások miatt. Bár a 2011-es csendes-óceáni tóhokui cunami közvetlenül nem érte el (mivel a másik parton fekszik), a fukusimai katasztrófa után az egész komplexumot leállították. Bár azóta egy gigantikus cunamivédelmi gátat építettek, az újraindítást a helyi lakosok aggodalmai és az Atomenergia-szabályozó Hatóság szigorú vizsgálatai továbbra is hátráltatják. Földrajz K8 — nukleáris energia és tektonikus kockázatok. Miért épít egy vállalat egy atomerőművet több száz kilométerre attól a nagyvárostól, amelyet ellát árammal?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A Kasivazaki-Kariva erőmű összesen hét forralóvizes (BWR és ABWR) reaktorral rendelkezik.", "Kapacitása (8212 MW) teljes üzemben mintegy 16 millió japán háztartás energiaigényét fedezné.", "A 2007-es Chūetsu offshore földrengés során a rázkódás mértéke meghaladta az erőmű eredeti tervezési határértékeit.", "A létesítmény az 1990-es évek végén elsőként alkalmazta a világon a továbbfejlesztett ABWR reaktortechnológiát.", "A 2011-es fukusimai baleset után a TEPCO egy 15 méter magas cunamivédelmi falat (seawall) épített az erőmű tengerparti határára.", "Az összes reaktor 2011 óta folyamatosan, kereskedelmi szempontból (áramtermelésre) leállított állapotban van."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/kashiwazaki-kariwa-npp-economic-v2.webp"},
+    
+     image: "/poi-images/kashiwazaki-kariwa-npp-economic-v2.webp"},
   {
     id: "port-of-kobe-economic-v2",
     type: "port",
@@ -374,18 +304,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["A fost deschis inițial ca un port de tratat pentru națiunile străine la 1 ianuarie 1868.", "Turnul emblematic al portului (Kobe Port Tower) a fost finalizat și deschis publicului în anul 1963.", "A suferit distrugeri catastrofale în cutremurul din 1995, dar și-a recăpătat statutul operațional în doar doi ani.", "A fost primul port din Japonia care a implementat facilități masive dedicate navelor de containere.", "Include Insula Portului (Port Island), o insulă artificială masivă construită special pentru expansiune logistică.", "A reprezentat de mult timp poarta principală de import pentru ceai, cafea și condimente în Japonia."],
     en: ["Rebuilt after the 1995 earthquake.", "Important location for container handling.", "Known for its artificial islands, Port Island and Rokkō Island.", "A major Japanese seaport in Hyōgo Prefecture. It was one of the world's busiest before the 1995 Great Hanshin earthquake.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Kóbei kikötő a Hansin régió gazdasági vérkeringésének alapja, amely az 1970-es évektől az 1990-es évek közepéig Japán (és gyakran a világ) legjelentősebb konténerkikötőjeként szolgált. A korlátozott partmenti síkság miatt a japán mérnökök gigantikus, hegyekből elhordott kőzettel feltöltött mesterséges szigeteket (Port Island és Rokkó Island) hoztak létre a tengeren a modern, automatizált daruk számára. Ezt az ipari csodát az 1995. január 17-i, 7,3-as erősségű nagy hansin földrengés törte derékba. A talajfolyósodás (likvefakció) miatt a rakpartok beszakadtak, a daruk ledőltek, a kikötő működése leállt. Bár rekordidő, mintegy 2 év alatt újjáépítették és szeizmikusan megerősítették az infrastruktúrát, Kóbe elvesztette globális dominanciáját Dél-Korea (Puszan) és Kína újonnan épült gigakikötőivel szemben. Történelem K8 — természeti katasztrófák hatása a globális kereskedelemre. Hogyan okozott a talajfolyósodás milliárd dolláros károkat a szilárdnak tűnő rakpartokon?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["Kóbe kikötője egyike volt annak az öt szerződéses kikötőnek, amelyet 1868-ban nyitottak meg a külföldiek előtt.", "A Port Island (befejezve 1981-ben) a világ első ilyen kiterjedésű (4,3 km²), teljesen mesterséges ipari szigete volt.", "Az 1995-ös földrengés évében Kóbe a világ hatodik legforgalmasabb konténerkikötője volt.", "A rengés okozta likvefakció miatt a kikötői daruk acélsínjei és alapjai helyenként métereket csúsztak a tenger felé.", "A japán állam mintegy 10 milliárd dollárból építette újjá a kikötőt 1997-re.", "Jelenleg Kóbe Japán negyedik legforgalmasabb teherkikötője, erős fókusszal a belföldi és ázsiai regionális forgalomra."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/port-of-kobe-economic-v2.webp"},
+    
+     image: "/poi-images/port-of-kobe-economic-v2.webp"},
   {
     id: "kitakyushu-industrial-zone-economic-v2",
     type: "industry",
@@ -422,18 +342,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["Uzina Siderurgică Yahata, piesa centrală a zonei, a început să funcționeze oficial în anul 1901.", "Reprezintă zona care a asigurat peste 80% din producția de oțel a națiunii la începutul secolului XX.", "Orașul Kitakyushu a primit premiul \"Global 500\" din partea Națiunilor Unite pentru remedierea poluării sale severe.", "Este un important centru național pentru producția de echipamente de robotică avansată, condus de compania Yaskawa Electric.", "Include parcul Ecotown, o zonă gigantică dedicată în întregime afacerilor de reciclare a resurselor auto și electronice.", "Multe clădiri ale uzinei siderurgice originale sunt incluse pe lista Patrimoniului Mondial UNESCO din 2015."],
     en: ["Japan's first modern steelworks (Yahata) opened here in 1901.", "A center for automobile and semiconductor production.", "The city actively promotes the transition to a 'green' city.", "One of Japan's four major industrial zones, historically known for steel production and heavy industry. It is now diversifying towards environmental technology and robotics.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Kitakjúsú ipari zóna Kjúsú északi csücskén a modern japán nehézipar szülőföldje. 1901-ben, a császári haderő és a vasútépítés támogatására a Meidzsi-kormányzat német mérnökök segítségével itt alapította meg az ország első integrált acélművét, a Jahata (Yahata) Acélművet. A helyszín ideális volt: közel volt a kiterjedt csikuhói szénbányákhoz és a kikötőkhöz, ahová Kínából szállították a vasércet. Az ipari boom ára az elképesztő mértékű környezetszennyezés lett; az 1960-as évekre a helyi Dokai-öböl vizéből eltűnt az élet, az eget pedig sűrű koromszmog borította. Egy helyi nőszervezet által elindított mozgalom hatására a város drasztikus környezetvédelmi reformokat hajtott végre, így napjainkra Kitakjúsú az ökológiai rehabilitáció és az újrahasznosító ipar (Eco-Town projekt) globális példaképévé vált. Történelem K8 — az ipari forradalom környezeti és társadalmi hatásai. Hogyan válhat egy elhalt tengeröböl (A Halál Tengere) ismét ökológiailag tisztává évtizedes munkával?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A Jahata Acélmű első nagyolvasztóját (Ignition of No. 1 Blast Furnace) 1901. február 5-én gyújtották be.", "A második világháborúban az amerikaiak 1945. augusztus 9-én a Kokura/Kitakjúsú fegyvergyárait célozták atombombával, de a rossz látási viszonyok miatt Nagaszakiba mentek.", "A Dokai-öböl az 1960-as években a szennyezés miatt annyira toxikus volt, hogy 'A Halál Tengerének' nevezték.", "A város 1997-ben indította el a Japán Kormány által támogatott \\\"Eco-Town\\\" újrahasznosítási programot.", "A Jahata Acélmű korai épületei 2015-ben felkerültek az UNESCO Világörökségi listájára történelmi jelentőségük miatt.", "A város ma is a Yaskawa Electric (ipari robotika) és a TOTO (szaniterek) globális központja."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/kitakyushu-industrial-zone-economic-v2.webp"},
+    
+     image: "/poi-images/kitakyushu-industrial-zone-economic-v2.webp"},
   {
     id: "sado-gold-mine-economic-v2",
     type: "mine",
@@ -470,18 +380,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["A funcționat în mod continuu pentru o perioadă impresionantă de aproape 388 de ani, până la închiderea din 1989.", "Rețeaua totală a tunelurilor miniere excavate are o lungime halucinantă de 400 de kilometri.", "A produs o cantitate totală estimată la 78 de tone de aur pur în întreaga sa istorie operațională.", "Secțiunea Aidayama (Muntele Despicat) este faimoasă pentru creasta montană despicată în două din cauza exploatării de suprafață masive.", "A fost principala sursă de aur folosită de Shogunatul Tokugawa pentru a bate faimoasele monede ovale Koban.", "Condițiile de muncă pentru drenarea apei din subteran erau extrem de periculoase și necesită un efort uman imens."],
     en: ["Operated for over 400 years until 1989.", "Silver and copper were also mined here.", "The tunnels have a total length of about 400 km.", "The most productive gold mine in Japan during the Edo period, contributing significantly to the finances of the Tokugawa shogunate. Today, it is a tourist attraction and a UNESCO World Heritage candidate.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Szadoi arany- és ezüstbánya a Niigata partjainál fekvő Szado-szigetén található, és az Edo-korban (1603-1867) a Tokugava-sógunátus legfontosabb pénzügyi pillére (tenrjó birtok) volt. A 17. század eleji felfedezésétől kezdve a bánya mintegy négyszáz éven át működött. Legikonikusabb látványossága a 'Dójú no Vareto', egy hegycsúcsot kettészelő hatalmas, V-alakú vágat, amelyet generációk során, puszta kézzel véstek ki a felszíni aranyér követésével. Bár a bánya gazdagsága stabilizálta Japán gazdaságát az izoláció idején, a sötét földalatti járatokban végzett munka brutális volt. Később, a vízelvezető szivattyúk folyamatos hajtására és a kőzetfejtésre főleg száműzötteket, börtönviselteket és társadalmon kívülieket kényszerítettek. A bányát végül 1989-ben zárták be a készletek kimerülése miatt. Történelem K8 — a nyersanyagkitermelés társadalmi ára a feudális korban. Milyen mérnöki megoldásokkal akadályozták meg, hogy a mély tárnák megteljenek talajvízzel áram nélkül?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A szadoi arany- és ezüstlelőhelyeket (Aikava terület) 1601-ben fedezték fel komolyabb mértékben.", "Közel 400 évnyi működése alatt 78 tonna aranyat és több mint 2300 tonna ezüstöt termeltek ki.", "A hegy belsejében lévő járatok együttes hossza eléri a 400 kilométert (nagyjából Tokió-Niigata távolság).", "A 'Dójú no Vareto' felszíni bevágás 30 méter széles és közel 74 méter mély.", "A bányában dolgozó vízmerítő munkások (mizukae) többsége Japán más részeiről idehurcolt száműzött (munin) volt.", "A Meidzsi-restauráció után (1868) a bányát nyugati technológiákkal és gőzgépekkel modernizálták a császári kormány alatt."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/sado-gold-mine-economic-v2.webp"},
+    
+     image: "/poi-images/sado-gold-mine-economic-v2.webp"},
   {
     id: "shibuya-scramble-crossing-trade-hub-v2",
     type: "trade-hub",
@@ -518,18 +418,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["Până la 3.000 de pietoni traversează această intersecție masivă la fiecare schimbare completă a culorii verde a semafoarelor.", "Este adiacentă statuii legendarului câine Hachiko, un simbol național de loialitate și un faimos punct de întâlnire comercial.", "Ecranul publicitar gigantic QFRONT este una dintre cele mai scumpe și râvnite spații publicitare din Japonia.", "Sute de mii de vizitatori tranzitează zilnic cartierul în căutare de modă, divertisment și tehnologie IT.", "O recentă re-dezvoltare masivă a zonei a dus la deschiderea turnului Shibuya Sky de 229 metri înălțime în 2019.", "Este considerată cea mai aglomerată și mai fotografiată intersecție pietonală de pe planeta Pământ."],
     en: ["Up to 3,000 people cross at one time.", "Surrounded by some of Tokyo's largest department stores.", "A focal point for fashion and youth culture.", "A world-famous pedestrian crossing in Tokyo, serving as a symbol of modern, bustling Japan and a giant commercial hub with countless shops, restaurants, and advertising spaces.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A tokiói Sibuja állomás előtti 'Scramble' Kereszteződés a világ legismertebb gyalogátkelője, az urbanizált japán társadalom vizuális metaforája. Amikor a forgalmi lámpák mind a négy irányból pirosra váltanak a járművek számára, az öt átkelőből induló embertömeg – csúcsidőben akár 3000 ember – egyszerre özönlik be a térre, és mintegy varázsszóra, a legnagyobb káoszban is egymást kikerülve jutnak át a túloldalra. A kereszteződést óriási, többemeletes neon- és videókivetítők, valamint plázák (mint a divatközpont Shibuya 109) veszik körül, folyamatos audiovizuális ingert biztosítva. Az átkelő nemcsak közlekedési csomópont, hanem a kortárs japán ifjúsági popkultúra bölcsője és globális filmes szimbólum (például Sofia Coppola 'Elveszett jelentés' című filmjében). A közelben ül a hűséges akita kutya, Hacsikó 1934-ben felállított (majd újraöntött) bronzszobra. Kultúra és Társadalom K8 — metropoliszok és tömegszabályozás. Hogyan maradhat biztonságos egy kereszteződés, ahol percenként ezrek haladnak át egyszerre?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A Sibuja kereszteződés napi gyalogosforgalma elérheti az 1-1,5 millió főt is az év legforgalmasabb napjain.", "A minden irányt (átlósan is) engedélyező 'scramble' forgalmi rendszert 1973-ban vezették be a téren.", "A Sibuja állomás (JR, Tokyu, Keio és tokiói metró) napi több mint 2 millió utast szolgál ki.", "Az átkelőt uraló Shibuya 109 (Ichi-Maru-Kyu) bevásárlóközpont 1979-ben nyílt meg a Tokyu Group tulajdonában.", "A Hacsikó-szobor az ország legismertebb találkozási (randevú) pontja; a hűséges kutya éveken át várta itt halott gazdáját az 1920-as években.", "Újévkor és Halloweenkor a tokiói rendőrség lezárja a kereszteződést a járművek elől a hatalmas spontán utcai ünneplés miatt."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/shibuya-scramble-crossing-trade-hub-v2.webp"},
+    
+     image: "/poi-images/shibuya-scramble-crossing-trade-hub-v2.webp"},
   {
     id: "hamaoka-npp-economic-v2",
     type: "energy",
@@ -566,18 +456,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["Construcția primului său reactor a început în anul 1971, având cinci unități de putere distincte.", "Este direct amplasată deasupra limitei preconizate a faliei de subducție care ar putea cauza \"Cutremurul Tokai\".", "Zidul masiv anti-tsunami construit după dezastrul din 2011 are o înălțime spectaculoasă de 22 de metri deasupra nivelului mării.", "Toate operațiunile de producție de energie ale centralei sunt suspendate încă din luna mai a anului 2011.", "Fundația peretelui defensiv ajunge adânc până la roca de bază solida a zonei de coastă.", "Proiectul masiv de fortificare a costat operatorul sute de miliarde de yeni pentru a respecta noile norme de siguranță."],
     en: ["Built on the Nankai Trough subduction zone.", "Currently undergoing massive safety upgrades.", "Symbol of the risks of nuclear power in earthquake-prone areas.", "A nuclear power plant considered the most dangerous in Japan due to its location in an area of high seismic activity. All its reactors were shut down at the request of the government.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Sizuoka prefektúrában, a Csendes-óceán partján fekvő Hamaoka atomerőmű Japán leginkább vitatott nukleáris létesítménye geológiai elhelyezkedése miatt. A Chubu Electric Power által épített erőművet közvetlenül az úgynevezett 'Tokai-földrengés' várt epicentruma felé (a Nankai-árok és Szuruga-árok találkozásánál) telepítették. Mivel a szeizmológusok nagy valószínűséggel jósolnak egy 8-as magnitúdójú rengést ebben a zónában, az erőmű folyamatos társadalmi és politikai feszültség forrása. A 2011-es fukusimai atomkatasztrófa után a japán miniszterelnök személyes beavatkozására a még működő reaktorokat biztonsági okokból azonnal leállították. Azóta a vállalat eurilliárdokat költött egy 22 méter magas, hatalmas beton cunamivédelmi gát építésére, de a létesítmény újraindítása továbbra is szünetel a szigorúbb állami felülvizsgálatok miatt. Földrajz K8 — geológiai kockázatok a Csendes-óceáni tűzgyűrűn. Miért jelentett a fukusimai eset precedenst a Hamaoka azonnali leállításához?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A Hamaoka atomerőmű első reaktorát 1976-ban helyezték üzembe.", "Az 1-es és 2-es számú reaktorok leszerelését már 2009-ben bejelentették a felülvizsgált szeizmikus elvárások miatt.", "A 2011 májusában történt leállításig az 5-ös reaktor Japán egyik legmodernebb (ABWR) egysége volt (1380 MW).", "A leállítás után egy 22 méter magas és 1,6 kilométer hosszú cunamivédelmi (tengeri) falat építettek az erőmű partvonalán.", "A japán kormányzati modellek akár 80%-os esélyt is adnak egy hatalmas 'Tokai-rengésnek' a következő évtizedekben ezen a területen.", "Az erőmű a japán ipar egyik fellegvárát, Nagoját (és a Toyota régiót) is ellátó Chubu Electric hálózatának része volt."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/hamaoka-npp-economic-v2.webp"},
+    
+     image: "/poi-images/hamaoka-npp-economic-v2.webp"},
   {
     id: "port-of-hakata-economic-v2",
     type: "port",
@@ -614,18 +494,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["Este cel mai vechi port comercial major din Japonia, având o istorie care datează din secolul al VIII-lea.", "Portul a procesat peste un milion de unități de tip container (TEU) în mod repetat în ultimii ani.", "Se mândrește cu deținerea celui mai mare număr de vizite de nave de croazieră internaționale din Japonia în 2018.", "Găzduiește zona de divertisment modernă Bayside Place Hakata, prevăzută cu un acvariu impresionant în formă de turn.", "Terminalul feribotului rapid reduce timpul de călătorie maritimă între Fukuoka și Busan la puțin peste 3 ore.", "Dispune de infrastructură avansată specializată pentru importul masiv de autovehicule și utilaje."],
     en: ["Major terminal for international ferry services.", "Plays a major role in Fukuoka's logistics network.", "Historically an important trading post since the Middle Ages.", "The largest port in Kyushu, a vital gateway for trade with mainland Asia, especially Korea and China.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Hakata kikötő, Fukuoka prefektúra fő tengeri csomópontja, ősidők óta Japán diplomáciai és kereskedelmi kapuja a kontinentális Ázsia (Kína és a Koreai-félsziget) felé. Már az 1. évezredben (Korokan vendégház) ide érkeztek a kontinensről a követek, a selyem és a buddhizmus tanításai. Ma a kikötő Japán legnagyobb nemzetközi tengeri utasterminálja; a szárnyashajók (például a JR Kyushu Beetle) mindössze alig 3 óra alatt teszik meg a mintegy 200 kilométeres távolságot a dél-koreai Puszan városába, élénk hétvégi turizmust generálva a két ország között. Emellett a létesítmény a Kjúsú sziget logisztikai motorja is (autóexport és élelmiszerimport), amely egy modern, feltöltött mesterséges szigeten (Island City) alkalmazza a legújabb zöld, automatizált logisztikai technológiákat. Földrajz K7 — geopolitika és transznacionális kereskedelem. Milyen történelmi és gazdasági hatása van annak, ha egy japán város közelebb fekszik a szomszédos országához, mint a saját fővárosához?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A kikötő a történelmi Hakata-öbölben fekszik, amely a 13. századi mongol inváziók csatatere is volt.", "A Fukuoka és a dél-koreai Puszan között közlekedő katamarán (Beetle) utazási sebessége eléri a 80 km/h-t.", "A kikötő nemzetközi utasforgalma (kompok és tengerjárók) az évi 2 millió főt is meghaladta a 2010-es évek végén.", "A 2005-ben átadott Island City egy modern mesterséges sziget automatizált konténerterminálokkal és zöld parkokkal.", "A Hakata kikötő az egyik fő behozatali pontja a gabonának és az LNG-nek (cseppfolyósított földgáz) Nyugat-Japán számára.", "A helyi hagyományos Hakata Donszaku és Jamakasza fesztiválok résztvevői gyakran a kikötői övezetben vonulnak fel."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/port-of-hakata-economic-v2.webp"},
+    
+     image: "/poi-images/port-of-hakata-economic-v2.webp"},
   {
     id: "j-power-isogo-thermal-plant-economic-v2",
     type: "energy",
@@ -662,18 +532,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["Noile unități de generație avansată au intrat în funcțiune în anul 2002 (Unitatea 1) și 2009 (Unitatea 2).", "Funcționează utilizând tehnologia \"Ultra-Supercritical\" la presiuni și temperaturi termodinamice extrem de ridicate.", "Nivelul său de emisii de oxizi de sulf (SOx) și de azot (NOx) a atins valori cuprinse în zona de o singură cifră (ppm).", "A atins o eficiență de generare globală de aproximativ 45%, una dintre cele mai înalte pentru instalațiile pe bază de cărbune din lume.", "Sistemul inovator de captare a poluanților pe uscat folosește cărbune activat în detrimentul sistemelor umede convenționale.", "A fost concepută având o arhitectură compactă și joasă, pentru a se integra estetic în vizualul zonei metropolitane Yokohama."],
     en: ["Uses ultra-supercritical steam technology.", "Considered one of the cleanest coal-fired power plants in the world.", "Supplies electricity to the Tokyo metropolitan area.", "A state-of-the-art coal-fired power plant in Yokohama, known for its high efficiency and advanced environmental technologies.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A J-POWER Isogo hőerőmű Jokohamában, közvetlenül a sűrűn lakott városközponttól néhány kilométerre található, és a tiszta széntechnológia (Clean Coal) globális mintapéldánya. Bár a szénerőművek általában hatalmas környezetszennyezést okoznak, a Japán Elektromos Fejlesztési Vállalat (J-POWER) az 1960-as évekbeli létesítményét az ezredfordulón drasztikusan átépítette. Az új, ultraszuperkritikus (USC) technológiájú egységekkel működő erőmű extrém magas hőmérsékleten és nyomáson égeti el a szenet, minimalizálva a szén-dioxid kibocsátást a kiemelkedő termikus hatásfok révén. Ami egyedülállóvá teszi, hogy egy forradalmi száraz füstgáztisztító rendszert is telepítettek, amely a kén-dioxid és a nitrogén-oxidok több mint 95%-át kiszűri a kémény előtt, így egyáltalán nincs 'füst' (kivétel a vízgőz) vagy korom, bizonyítva, hogy a szén modern technológiával a lakott területek közelében is használható átmeneti energiaforrásként. Gazdaságismeret K8 — környezetvédelem és fosszilis energiahordozók. Hogyan lehet a legősibb fosszilis energiahordozót (szenet) egy modern nagyváros központja mellett felhasználni?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["Az eredeti Isogo erőművet az 1960-as évek végén építették a Keihin ipari övezet támogatására.", "A régi reaktorokat (2002-ben és 2009-ben) Ultraszuperkritikus (USC) széntüzelésű egységekre (600 MW/egység) cserélték.", "Az USC technológia a gőzt 600°C felé és 250 bar fölé hevíti, ami közel 43-45%-os termikus hatásfokot eredményez.", "A világon elsőként alkalmaztak egy aktívszenes (dry-type) kén- és nitrogén-oxid szűrőberendezést (ReACT) ilyen méretben.", "A kibocsátott kén-dioxid mennyisége (SOx) a töredéke az amerikai és európai szénerőművek átlagának.", "Az erőmű közvetlenül a tengerparton áll, egy teljesen fedett kupolában tárolják a szenet, hogy a szél ne hordja szét a port."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/j-power-isogo-thermal-plant-economic-v2.webp"},
+    
+     image: "/poi-images/j-power-isogo-thermal-plant-economic-v2.webp"},
   {
     id: "tsukiji-outer-market-trade-hub-v2",
     type: "trade-hub",
@@ -710,18 +570,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["Include peste 400 de tarabe înghesuite de comercianți, magazine alimentare specializate și mini-restaurante de pește.", "Este renumită pentru comerțul constant și tradițional de omlete rulate japoneze cunoscute sub numele de Tamagoyaki.", "A rămas activă și în plină dezvoltare de afaceri după închiderea faimoasei secțiuni interioare a pieței în 2018.", "Găzduiește comercianți renumiți de cuțite Hocho japoneze realizate manual, cu o tradiție a forjării de peste un secol.", "Locația are origini istorice masive care datează de la eforturile extinse de recuperare a terenurilor în perioada Edo.", "Atrage o mulțime zilnică masivă de mii de pasionați culinari locali și turiști curioși din întreaga lume."],
     en: ["A popular destination for tourists and locals alike.", "Offers some of the best street food in Tokyo.", "The market's history dates back over 80 years.", "Although the famous wholesale tuna market has moved, the outer market remains a vibrant commercial hub for fresh seafood, food products, and kitchen tools.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Cukidzsi külső piac (Tsukiji Jogai Shijo) Tokió egyik leghíresebb és legforgalmasabb gasztronómiai negyede. Noha a történelmi belső nagybani halpiac – amely évtizedeken át a világ legnagyobbika volt – 2018-ban átköltözött a modern Tojoszu létesítménybe, a szűk sikátorokból álló Cukidzsi Külső Piac az eredeti helyén maradt. A negyed több száz apró étteremnek, kiskereskedőnek és késkészítő mesternek ad otthont, akik a legfrissebb tengeri herkentyűket, szárított hínárt (kombu), bonito pelyheket (kacuobusi) és japán zöldteát kínálnak a látogatóknak. A terület hajnali nyüzsgése ma is őrzi az Edo-korabeli kereskedőváros (Sitamacsi) egyedi atmoszféráját, ahol a szusimesterek és a gasztronómiai turisták egymás mellett kóstolják a kiváló minőségű tonhalat. Kultúra és Gasztronómia K6 — a japán konyhaművészet alapanyagai. Hogyan tud túlélni egy piaci negyed, ha a fő beszállítói bázisát egy másik városrészbe költöztetik?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A Cukidzsi belső (nagybani) halpiac 1935-ben nyílt meg az 1923-as földrengés után (a korábbi Nihonbasi piac helyett).", "A Tokiói Fővárosi Kormányzat 2018 októberében költöztette át a nagybani kereskedelmet és a tonhal-aukciókat Tojoszuba.", "A Cukidzsi Külső Piac mintegy 400, szorosan egymás mellé épült kis üzletből és étteremből áll.", "A negyed az évtizedek során a japán professzionális konyhai eszközök, köztük a kézzel kovácsolt konyhakések egyik fő beszerzési helyévé vált.", "A piac területén lévő Namijoke Inari szentélyt (Hullámtörő Szentély) 1659-ben alapították a tenger feltöltésekor védelmezőként.", "A hagyományos japán reggeli itt nem ritkán egy tál friss nyers halas rizs (kaisendon), amit hajnalban fogyasztanak."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/tsukiji-outer-market-trade-hub-v2.webp"},
+    
+     image: "/poi-images/tsukiji-outer-market-trade-hub-v2.webp"},
   {
     id: "iwami-silver-mine-economic-v2",
     type: "mine",
@@ -758,18 +608,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["A asigurat în mod direct până la 30% din cererea totală de argint pe piața comercială globală în secolul al XVII-lea.", "A fost declarată oficial un sit monumental al Patrimoniului Mondial de către organizația UNESCO în anul 2007.", "Tehnica \"haifuki-ho\" introdusă aici folosea cenușa de plumb pentru a purifica argintul dintr-o singură turnare.", "Tunelul principal pentru vizitatori și pasionați de istorie minieră poartă numele de Ryugenji Mabu.", "Portul antic Yunotsu, aflat în proximitate, a fost construit și organizat exclusiv pentru comerțul exterior de argint rafinat.", "Situl este extrem de protejat, ilustrând conviețuirea complexului minier intens cu pădurile montane dense din vecinătate."],
     en: ["At its peak in the 17th century, it produced a significant portion of the world's silver.", "Mining was conducted in harmony with nature.", "Today it is a historical site with picturesque ruins.", "A UNESCO World Heritage site that was one of the world's most important silver mines from the 16th to the 20th century, accounting for a large portion of Japan's silver production.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "Az Ivami Gindzan egykori ezüstbánya Simane prefektúrában egy sűrű erdővel borított völgyben található. A 16. század (1526) eleji felfedezésétől számítva az Edo-kor derekáig ez volt Japán legfontosabb ezüstlelőhelye. Olyan hatalmas mennyiségű és kiváló minőségű ('Soma-ezüst') ércet termeltek itt ki, hogy a csúcsidőszakban a világ teljes ezüsttermelésének megközelítőleg az egyharmada Japánból (és nagy része innen) származott. Az itt bányászott fém kulcsszerepet játszott a kelet-ázsiai kereskedelemben, vonzotta a portugál és spanyol kereskedőket. A bányászat különlegessége volt, hogy a kitermelést nem rabszolgákkal, hanem jól fizetett, de a mérgező por miatt rövid életű szakmunkásokkal végeztették, és a hegyvidéki környezetet a későbbi korokhoz képest viszonylag kíméletesen alakították át. 2007-ben felkerült az UNESCO Világörökségi listájára. Történelem K8 — a 16. századi globális ezüstkereskedelem. Hogyan formálta át a Távol-Kelet kereskedelmét az amerikai és a japán ezüst megjelenése?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A bányát 1526-ban fedezte fel egy Kamija Dzsutei nevű kereskedő egy koreai kohászati eljárás (haifuki) ismeretében.", "A 16. század végén Japán (főleg Ivami révén) a világ ezüsttermelésének körülbelül 30%-át adta.", "A bányajáratok, más néven 'mabo'-k száma meghaladja a hatszázat a hegyoldalban.", "A legmélyebb tárna, a Ryugenji Mabo (amit turisták is látogathatnak) egyenesen 600 méter mélyen fúródik a hegybe kézi véséssel.", "Az Ivami ezüstből vert érmékkel (csógin) vásároltak selymet a kínai Ming-dinasztiától és fegyvereket az európaiaktól.", "A bánya körüli Ómori falu az Edo-korban pezsgő, 200 ezer fős település volt, ma viszont békés, mindössze 400 fős hagyományos falu."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/iwami-silver-mine-economic-v2.webp"},
+    
+     image: "/poi-images/iwami-silver-mine-economic-v2.webp"},
   {
     id: "keihin-industrial-zone-economic-v2",
     type: "industry",
@@ -806,18 +646,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["Reprezintă una dintre cele mai vechi și mari trei nuclee de producție industrială continuă ale națiunii asiatice.", "Un proiect vast de excavare a mării pentru a crea insule noi industriale a început la începutul secolului XX.", "Concentrarea masivă fabricilor grele aici a propulsat reconstrucția rapidă a orașului Tokyo post-al doilea război mondial.", "Este deservită de rețeaua de transport maritim prin terminalele portuare principale din marile orașe Yokohama și Kawasaki.", "Astăzi este orientată cu precădere către industrii chimice ultra-pure, cercetare aerospațială și dezvoltare medicală.", "Complexul insular vast artificial dispune de drumuri industriale care sunt cunoscute pentru rețeaua iluminată impresionantă din timpul nopții."],
     en: ["The heart of Japanese industrialization since the Meiji period.", "High concentration of steelworks and petrochemical plants.", "Nighttime 'factory cruises' are a popular tourist attraction.", "One of Japan's oldest and largest industrial zones, stretching from Tokyo through Kawasaki to Yokohama. A center for heavy industry, chemicals, and manufacturing.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Keihin ipari övezet Tokió és Jokohama között húzódik a Tokiói-öböl nyugati partvidékén (a 'Kei' Tokió, a 'Hin' Jokohama kanzsi olvasatából származik). Ez a hatalmas, zömmel a tengertől elhódított (feltöltött) terület Japán iparosodásának és modernizációjának abszolút magja volt az 1900-as évek eleje óta. A nyersanyagokban szegény ország ide telepítette a kőolajfinomítóit (például Eneos finomítók Kavaszakiban), az integrált acélműveket, gépgyárakat (Toshiba, Nippon Kokan) és hőerőműveket, közvetlen hozzáférést biztosítva az óceáni teherhajóknak. Bár a 20. század második felében a súlyos légszennyezés és a magas telekárak miatt a nehézipar egy része más prefektúrákba települt, Keihin ma is egy lüktető csúcstechnológiai (félvezető, repülőgépipar, kutatás-fejlesztés) és logisztikai konglomerátum, amely a világ legnagyobb GDP-jét termelő agglomerációját szolgálja ki. Földrajz K8 — nehézipar és csúcstechnológia. Miért költözik a nehézipar a külvárosi mesterséges szigetekre, míg a kutatás-fejlesztés bent marad a városban?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A Keihin ipari övezet kiépítése Aszano Szóicsiró üzletember nevéhez fűződik a 20. század elején.", "Az övezet magában foglalja Kavaszaki városának mesterséges, finomítókkal teli partvidékét is.", "A második világháborús bombázások (1945) az övezet több mint 60%-át a földdel tették egyenlővé.", "A japán GDP és az ipari termelés jelentős része az itt működő több ezer közép- és nagyvállalatból származik.", "Éjszaka a gyárak kivilágítása (Kavaszaki gyári éjszakai kilátás) népszerű turisztikai hajóutak célpontja.", "Az 1970-es évek brutális szmogproblémája ('Kavaszaki asztma') vezetett a világ egyik legszigorúbb japán környezetvédelmi törvényének (Kógai) meghozatalához."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/keihin-industrial-zone-economic-v2.webp"},
+    
+     image: "/poi-images/keihin-industrial-zone-economic-v2.webp"},
   {
     id: "port-of-tomakomai-economic-v2",
     type: "port",
@@ -854,18 +684,8 @@ export const poiExtraJapanEconomicV2: POI[] = [
     ro: ["A fost deschis oficial în anul 1963, ca cel mai mare port de excavare interioară creat de om de pe planetă.", "Construcția colosală a presupus crearea unui bazin vast direct în interiorul insulei uscate Hokkaido.", "Este, de departe, principalul punct de distribuție logistică pentru alimente vitale, resurse fosile și petrol către și dinspre Hokkaido.", "Gestionează frecvent aproape 50% din traficul naval greu raportat la întregul trafic al acestei vaste insule nordice.", "Sistemele uriașe de feribot de aici se conectează neîntrerupt și fluid cu porturile cheie ale insulei principale Honshu.", "Oferă vaste infrastructuri industriale ce sprijină marile mori locale renumite pentru fabricarea produselor de celuloză și hârtie."],
     en: ["Has Japan's largest ferry terminal.", "Important for supplying goods to Hokkaido.", "A large part of the port was artificially created by excavation.", "The largest port in Hokkaido and a crucial logistics hub for northern Japan, handling paper, petroleum products, and agricultural goods.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."],
     },
-    descriptionAdvanced: {
-    de: "",
-    hu: "A Tomakomai kikötő Hokkaidó szigetének legfontosabb tengeri és ipari kapuja, amely a csendes-óceáni parton fekszik. Más hagyományos japán kikötőkkel ellentétben (amelyek természetes öblökben alakultak ki) Tomakomai a világ első mesterségesen kiásott, szárazföldbe nyúló mélyvízi kikötője, amelyet 1963-ban nyitottak meg a lapos tengerparton. A kikötő köré épült iparvidék Japán papírgyártásának központja (itt működik az Oji Paper hatalmas gyára), amely nagyrészt importált faaprítékra és fára támaszkodik. Emellett a kikötő biztosítja Hokkaidó (a hideg klíma miatt magas) energiaigényének fedezését hatalmas szén- és kőolaj-termináljaival, és a sziget mezőgazdasági termékeinek (búza, burgonya, tejtermék) kiszállítását a délebbi szigetek felé gigantikus kompjáratok révén. Gazdaságismeret K8 — mezőgazdasági logisztika és papíripar. Milyen mérnöki kihívást jelentett egy egyenes, nyílt óceáni tengerparton biztonságos kikötőt kiásni a hullámok ellen?",
-    ro: "",
-    en: "",
-    },
-    factsAdvanced: {
-    de: [],
-    hu: ["A Tomakomai kikötőt hivatalosan 1963-ban nyitották meg a kereskedelmi hajózás számára.", "Az építés során egy hatalmas (közel 14 km hosszú) medencét ástak ki a szárazföld belseje felé (dug-out port).", "A kikötő évi rakományforgalma meghaladja a 100 millió tonnát, ezzel Észak-Japán legnagyobbja.", "A város és a kikötő ad otthont az Oji Paper japán papíripari óriás legnagyobb finomító és gyártó komplexumának.", "Innen indul a legtöbb Ro-Ro (roll-on/roll-off) személy- és teherszállító komp Honshu irányába (például Oarai és Szendai felé).", "1980-ban egy újabb, még hatalmasabb kikötőrészt (Tomakomai keleti kikötő) adtak át az olajfinomítási kapacitások támogatására."],
-    ro: [],
-    en: [],
-    }, image: "/poi-images/port-of-tomakomai-economic-v2.webp"},
+    
+     image: "/poi-images/port-of-tomakomai-economic-v2.webp"},
   {
     id: "yokkaichi-industrial-complex-economic-v2",
     type: "industry",

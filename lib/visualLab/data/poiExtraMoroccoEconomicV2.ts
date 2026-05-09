@@ -73,18 +73,8 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       ro: ["Centrul comerțului maritim marocan", "Terminale mari de containere"],
       en: ["Center of Moroccan maritime trade", "Large container terminals"]
     }, image: "/poi-images/ma-casablanca-port-economic-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Hafen von Casablanca ist einer der größten künstlichen Häfen Marokkos und historisch das Tor zum Königreich für den internationalen Handel. Seit seiner Entwicklung im frühen 20. Jahrhundert unter dem französischen Protektorat ist er ein zentraler Motor für die wirtschaftliche Entwicklung der Metropole Casablanca und des gesamten Landes. Er ist ein vielseitiger Hafen, der eine breite Palette von Gütern umschlägt, darunter Container, Schüttgut, Fahrzeuge und Passagiere. Obwohl Tanger Med ihn in Bezug auf den Containerumschlag überholt hat, bleibt der Hafen von Casablanca entscheidend für den Import von Rohstoffen und den Export von Fertigwaren. Seine Lage im Herzen der wirtschaftlich aktivsten Region Marokkos sichert seine anhaltende Bedeutung für die nationale Logistik und Industrie.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Entscheidender Ausbau erfolgte ab 1913 unter französischer Herrschaft.", "Lange Zeit der größte Hafen Marokkos.", "Wichtiger Umschlagplatz für Getreide, Zucker und Zement.", "Beherbergt auch ein Terminal für Kreuzfahrtschiffe.", "Die angeschlossene Marina bietet Platz für zahlreiche Yachten.", "Der Hafen erstreckt sich über eine Länge von mehr als 8 Kilometern.", "Er trug maßgeblich zum Aufstieg Casablancas zur größten Stadt Marokkos bei.", "Ein großes Trockendock ermöglicht die Reparatur großer Schiffe."],
-      hu: [],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ma-jorf-lasfar-port-economic-v2",
@@ -181,9 +171,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Jelentős halászkikötő.", "Fontos a mezőgazdasági cikkek exportjában.", "Sokoldalú kikötő kereskedelmi, óceánjáró, halászati és jacht-részlegekkel.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       en: ["Major fishing port.", "Important for the export of agricultural goods.", "A versatile port with sections for trade, cruises, fishing, and yachts.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     },
-    factsAdvanced: {
-      hu: ["Marokkó vezető szardínia-kikötője.", "A kikötő három fő részből áll: kereskedelmi, halászati és hajójavító.", "Évente több százezer tonna halat dolgoznak fel itt.", "Fontos exportcikk a helyben bányászott kobalt és cink.", "A kikötő a helyi konzervgyárakat is ellátja friss alapanyaggal.", "A turizmus fellendülésével a kikötőben egyre több a sétahajó és jacht.", "A modernizációs projektek célja a kapacitás növelése és a logisztika javítása.", "A kikötő a város gazdasági újjáépítésének központi eleme volt."]
-    },
+    
     description: {
       de: "Ein vielseitiger Hafen mit Bereichen für Handel, Kreuzfahrten, Fischerei und Yachten.",
       hu: "Sokoldalú kikötő kereskedelmi, óceánjáró, halászati és jacht-részlegekkel.",
@@ -196,18 +184,8 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       ro: ["Port de pescuit major", "Important pentru exportul de bunuri agricole"],
       en: ["Major fishing port", "Important for the export of agricultural goods"]
     }, image: "/poi-images/ma-agadir-port-economic-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Hafen von Agadir ist der größte Fischereihafen Marokkos und ein entscheidender Motor für die Wirtschaft des Südens. Er ist in mehrere spezialisierte Bereiche unterteilt: einen Handelshafen, einen internationalen Fischereihafen und einen Yachthafen. Der Fischereihafen ist ein pulsierendes Zentrum, in dem täglich riesige Mengen an Fisch angelandet, versteigert und verarbeitet werden, was Agadir zu einem wichtigen Zentrum für die fischverarbeitende Industrie und den Export von Meeresfrüchten macht. Der Handelshafen ist für den Export von landwirtschaftlichen Produkten aus dem fruchtbaren Souss-Tal, insbesondere Zitrusfrüchten und Gemüse, von großer Bedeutung. Der moderne Yachthafen zieht Segler und Touristen an und trägt zum Status von Agadir als beliebtes Urlaubsziel bei.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Größter Fischereihafen in Marokko.", "Jährlicher Fischumschlag von mehreren hunderttausend Tonnen.", "Wichtiger Exporthafen für Zitrusfrüchte aus der Souss-Massa-Region.", "Der Hafen wurde nach dem verheerenden Erdbeben von 1960 wieder aufgebaut und modernisiert.", "Das Kreuzfahrtterminal empfängt regelmäßig internationale Schiffe.", "Die Werften im Hafen bieten Reparaturdienste für die Fischereiflotte.", "Die Nähe zu den reichen Fischgründen des Atlantiks ist ein großer Vorteil.", "Der Hafen ist ein wichtiger Arbeitgeber für die gesamte Region."],
-      hu: [],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ma-nador-port-economic-v2",
@@ -628,9 +606,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Erős fókusz az autóalkatrészeken.", "Integrált logisztikai kapcsolat.", "Afrika egyik legnagyobb ipari parkja, amelyet elsősorban az autó- és elektronikai ipar hajt.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       en: ["Strong focus on automotive parts.", "Integrated logistical connectivity.", "One of the largest industrial parks in Africa, largely driven by the automotive and electronics industries.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     },
-    factsAdvanced: {
-      hu: ["2012-ben avatták fel Kenitra közelében.", "Marokkó egyik legnagyobb ipari parkja, területe 345 hektár.", "Fő profilja az autóipar és a kapcsolódó beszállítói szektor.", "Legnagyobb vállalata a Stellantis (Peugeot, Citroën) autógyár.", "Szabadkereskedelmi zónaként adó- és vámkedvezményeket kínál a befektetőknek.", "Stratégiai elhelyezkedés a Tanger-Med kikötő és az autópálya-hálózat mellett.", "Több tízezer közvetlen és közvetett munkahelyet teremtett.", "Kulcsszerepet játszik Marokkó ipari gyorsítási tervében."]
-    },
+    
     description: {
       de: "Einer der größten Industrieparks in Afrika, maßgeblich getrieben von der Automobil- und Elektronikindustrie.",
       hu: "Afrika egyik legnagyobb ipari parkja, amelyet elsősorban az autó- és elektronikai ipar hajt.",
@@ -643,18 +619,8 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       ro: ["Focar puternic pe piesele auto", "Conectivitate logistică integrată"],
       en: ["Strong focus on automotive parts", "Integrated logistical connectivity"]
     },
-    descriptionAdvanced: {
-      de: "Die Atlantic Free Zone (AFZ) in Kenitra ist einer der größten und dynamischsten Industrieparks Afrikas. Als Freihandelszone konzipiert, hat sie sich zu einem wichtigen Zentrum für die Automobilindustrie und andere Exportsektoren entwickelt. Ihr prominentester Mieter ist das große Stellantis-Werk, das Fahrzeuge für den Export produziert. Um dieses Werk herum hat sich ein ganzes Ökosystem von internationalen Zulieferern angesiedelt, die Komponenten für die Automobilmontage herstellen. Neben der Automobilbranche sind auch Unternehmen aus der Elektronik- und Lebensmittelindustrie in der AFZ vertreten. Die Zone bietet eine moderne Infrastruktur, eine gute Verkehrsanbindung an Autobahnen und Häfen sowie attraktive steuerliche Bedingungen, was sie zu einem Magneten für ausländische Direktinvestitionen macht und wesentlich zur industriellen Entwicklung der Region Gharb beiträgt.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Eine der größten Freihandelszonen Afrikas.", "Hauptanziehungspunkt ist die Automobilindustrie, angeführt vom Stellantis-Werk.", "Beherbergt Zulieferer wie Faurecia, Adient und Nexteer.", "Hat zur Wiederbelebung der Stadt Kenitra als Industriezentrum beigetragen.", "Bietet eine 'One-Stop-Shop'-Verwaltung, um die Ansiedlung von Unternehmen zu erleichtern.", "Gute Anbindung an die Häfen von Tanger Med und Casablanca.", "Fokus auf Exportindustrien mit hoher Wertschöpfung.", "Die Zone wird in mehreren Phasen entwickelt und ausgebaut."],
-      hu: [],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ma-agropolis-meknes-economic-v2",
@@ -679,9 +645,7 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       hu: ["Támogatja a helyi mezőgazdaságot.", "Kutatási és innovációs központ.", "Az agrár- és élelmiszeripari feldolgozásra szakosodott ipari park Marokkó szívében.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
       en: ["Promotes local agriculture.", "Research and innovation center.", "An industrial park specialized in agro-industry and food processing in the heart of Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     },
-    factsAdvanced: {
-      hu: ["Marokkó 'Zöld Marokkó Tervének' kulcsfontosságú eleme.", "Meknes régió termékenységére és mezőgazdasági hagyományaira épít.", "A pólus több zónából áll: ipari, logisztikai, technológiai és szolgáltatói.", "Fókuszban az olíva, a gabona, a gyümölcsök és a zöldségek feldolgozása áll.", "Célja a helyi termékek hozzáadott értékének növelése.", "Kutatás-fejlesztési központot is magában foglal az innováció ösztönzésére.", "Vonzó befektetési célpont hazai és nemzetközi agrárvállalatok számára.", "Jelentősen hozzájárul a régió gazdasági fejlődéséhez és a munkahelyteremtéshez."]
-    },
+    
     description: {
       de: "Ein auf Agroindustrie und Lebensmittelverarbeitung spezialisierter Industriepark im Herzen Marokkos.",
       hu: "Az agrár- és élelmiszeripari feldolgozásra szakosodott ipari park Marokkó szívében.",
@@ -694,18 +658,8 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       ro: ["Promovează agricultura locală", "Centru de cercetare și inovație"],
       en: ["Promotes local agriculture", "Research and innovation center"]
     }, image: "/poi-images/ma-agropolis-meknes-economic-v2.webp",
-    descriptionAdvanced: {
-      de: "Agropolis Meknes ist ein spezialisierter Industriepark, der als nationales Kompetenzzentrum für die Agroindustrie konzipiert wurde. Er befindet sich in der Region Fès-Meknès, einer der fruchtbarsten und wichtigsten landwirtschaftlichen Regionen Marokkos. Das Ziel von Agropolis ist es, die gesamte Wertschöpfungskette der Landwirtschaft zu modernisieren und zu integrieren, von der Produktion über die Verarbeitung und Verpackung bis hin zur Vermarktung. Der Park bietet Unternehmen der Lebensmittelindustrie eine moderne Infrastruktur, Logistikdienstleistungen und Zugang zu Forschung und Entwicklung. Schwerpunkte sind die Verarbeitung von Oliven, Getreide, Obst und Gemüse. Agropolis spielt eine zentrale Rolle im 'Plan Maroc Vert' (Grüner Plan Marokko), der darauf abzielt, die marokkanische Landwirtschaft zu einem wettbewerbsfähigen und nachhaltigen Sektor zu machen.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Teil des nationalen Plans zur Entwicklung von Agro-Industrie-Clustern.", "Liegt im Herzen einer der wichtigsten Agrarregionen Marokkos.", "Fokus auf die Verarbeitung von Olivenöl, Getreide, Obst und Milchprodukten.", "Bietet Zugang zu einem Qualitäts- und Innovationszentrum.", "Soll die Wertschöpfung landwirtschaftlicher Produkte erhöhen.", "Fördert die Zusammenarbeit zwischen Landwirten, Industrie und Forschung.", "Trägt zur Schaffung von Arbeitsplätzen im ländlichen Raum bei.", "Verfügt über eine gute Anbindung an das nationale Verkehrsnetz."],
-      hu: [],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ma-haliopolis-agadir-economic-v2",
@@ -958,18 +912,8 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       ro: ["Una dintre puținele mine cu cobalt ca produs principal", "Importantă pentru e-mobilitate"],
       en: ["One of the few mines with cobalt as main product", "Important for e-mobility"]
     }, image: "/poi-images/ma-bou-azzer-cobalt-mine-economic-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Bou Azzer Mine in der Anti-Atlas-Region ist weltweit eine Besonderheit: Sie ist eine der wenigen Minen, in der Kobalt das primär abgebaute Metall ist und nicht nur ein Nebenprodukt. Das hier gefundene Kobalt-Arsenid-Erz ist von außergewöhnlich hoher Qualität. Kobalt ist ein strategisch wichtiges Metall, das für die Herstellung von Lithium-Ionen-Batterien, die in Smartphones, Laptops und vor allem in Elektrofahrzeugen verwendet werden, unerlässlich ist. Die Mine, die ebenfalls von der Managem-Gruppe betrieben wird, macht Marokko zu einem der wichtigsten Kobaltproduzenten weltweit. Die Produktion von Bou Azzer ist daher von großer Bedeutung für die globalen Lieferketten der Hochtechnologie- und E-Mobilitäts-Industrie. Die Mine unterstreicht die strategische Bedeutung des marokkanischen Bergbausektors über den Phosphatabbau hinaus.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Eine der weltweit wenigen primären Kobaltminen.", "Das abgebaute Erz ist Skutterudit (ein Kobalt-Arsenid-Mineral).", "Marokko ist einer der Top-10-Kobaltproduzenten der Welt dank dieser Mine.", "Kobalt ist entscheidend für wiederaufladbare Batterien.", "Die Mine ist seit den 1930er Jahren in Betrieb.", "Betrieben von der CTT (Compagnie de Tifnout Tighanimine), einer Tochter der Managem-Gruppe.", "Die abgelegene Lage erfordert eine komplexe Logistik.", "Die Mine ist auch eine berühmte Fundstelle für seltene und schöne Mineralien."],
-      hu: [],
-      ro: [],
-      en: []
-    }
+    
+    
   },
   {
     id: "ma-ocp-safi-complex-economic-v2",

@@ -20,9 +20,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Largest tributary of the Congo River.", "Forms the country's southern border.", "Sustains vital forest ecosystems.", "Primary waterway for transport.", "Essential for economic connectivity.", "Critical element of regional hydrology."]
     },
-    factsAdvanced: {
-      ro: ["Tip: curs fluvial principal.", "Importanță: arteră de transport.", "Rol: sursă de apă.", "Impact: infrastructură vitală.", "Conexiune: fluviul Congo.", "Economie: transport și pescuit."]
-    },
+    
     description: {
       de: "Der größte rechte Nebenfluss des Kongo-Flusses bildet eine wichtige Lebensader und Grenzregion für das Land.",
       hu: "A Kongó folyó legnagyobb jobb oldali mellékága, az ország fontos élettere és határvidéke.",
@@ -53,9 +51,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Major river in the southwest.", "Flows through dense tropical forest.", "Supports unique aquatic biodiversity.", "Critical for the forestry industry.", "Part of the Congo River basin system.", "Essential transport artery."]
     },
-    factsAdvanced: {
-      ro: ["Tip: curs fluvial forestier.", "Regiune: sud-vest.", "Importanță: biodiversitate forestieră.", "Rol: transport de resurse.", "Impact: ecosistem cheie.", "Economie: industria forestieră."]
-    },
+    
     description: {
       de: "Ein bedeutender Fluss im Südwesten, der durch dichte Regenwälder fließt und Teil eines UNESCO-Welterbes ist.",
       hu: "Jelentős folyó délnyugaton, amely sűrű esőerdőkön folyik keresztül, és az UNESCO Világörökség része.",
@@ -86,9 +82,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Originates in the Central African Republic.", "Flows northward towards Lake Chad.", "Vital lifeline for savanna ecosystems.", "Essential for local northern agriculture.", "Seasonal cycles define regional life.", "Primary river system of the north."]
     },
-    factsAdvanced: {
-      ro: ["Tip: curs fluvial nordic.", "Regiune: nordul țării.", "Importanță: agricultură și pescuit.", "Rol: sursă de apă.", "Impact: susținerea savanei.", "Economie: resurse naturale."]
-    },
+    
     description: {
       de: "Dieser Fluss im Norden des Landes fließt in Richtung Tschadsee und speist das dortige Ökosystem.",
       hu: "Az ország északi részén található folyó a Csád-tó irányába folyik, és táplálja az ottani ökoszisztémát.",
@@ -119,9 +113,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Vital watercourse in the southeast.", "Forms a significant border with the DRC.", "Flows through diverse woodland zones.", "Habitat for significant aquatic life.", "Transport route for regional communities.", "Key hydrologic component of the east."]
     },
-    factsAdvanced: {
-      ro: ["Tip: râu de graniță (est).", "Importanță: ecosistem bogat.", "Rol: sursă pentru comunități.", "Economie: pescuit și agricultură.", "Impact: graniță naturală.", "Resursă: apă."]
-    },
+    
     description: {
       de: "Der Fluss bildet einen großen Teil der südlichen Grenze zur Demokratischen Republik Kongo.",
       hu: "A folyó a Kongói Demokratikus Köztársasággal közös déli határ jelentős részét alkotja.",
@@ -152,9 +144,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Major river tributary in the south.", "Drains a lush, biodiverse forest basin.", "Supports regional agricultural activity.", "Key feature for coffee-growing zones.", "Rich in natural resources and biodiversity.", "Central to southern prefecture ecology."]
     },
-    factsAdvanced: {
-      ro: ["Tip: râu forestier.", "Regiune: sud-vest.", "Importanță: gestionarea resurselor.", "Rol: susținerea populațiilor.", "Impact: echilibru ecologic.", "Resursă: apă."]
-    },
+    
     description: {
       de: "Ein wichtiger Nebenfluss des Ubangi, der durch die regenwaldreiche Region Lobaye fließt.",
       hu: "Az Ubangi fontos mellékfolyója, amely a gazdag esőerdőkkel borított Lobaye régión folyik keresztül.",
@@ -185,9 +175,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Primary water source for the north.", "Drains into the Chari river system.", "Supports fertile northern agriculture.", "Crucial for agricultural productivity.", "Seasonal flow drives regional economy.", "Fundamental to central-northern ecology."]
     },
-    factsAdvanced: {
-      ro: ["Tip: râu agricol.", "Regiune: centru și nord.", "Importanță: irigații.", "Economie: bumbac și cereale.", "Impact: producție agricolă.", "Resursă: apă."]
-    },
+    
     description: {
       de: "Ein bedeutender Fluss im Nordwesten, der eine wichtige Wasserquelle für die Landwirtschaft darstellt.",
       hu: "Jelentős folyó északnyugaton, amely a mezőgazdaság számára fontos vízforrást jelent.",
@@ -218,9 +206,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Flows through the eastern region.", "Drains central plateau into the Ubangi.", "Fluctuating seasonal water levels.", "Supports unique riparian habitats.", "Vital for eastern local communities.", "Key ecological feature of the east."]
     },
-    factsAdvanced: {
-      ro: ["Tip: curs fluvial estic.", "Importanță: comunități izolate.", "Rol: pescuit.", "Impact: resurse acvatice.", "Economie: trai local.", "Resursă: apă."]
-    },
+    
     description: {
       de: "Dieser Fluss fließt durch das Herz des Landes und ist bekannt für seine zahlreichen Wasserfälle.",
       hu: "Ez a folyó az ország szívén folyik keresztül, és számos vízeséséről ismert.",
@@ -251,9 +237,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Major river in the western region.", "Associated with mining-rich zones.", "Flows through rugged, hilly terrain.", "Provides water for mineral extraction.", "Supports forest-based local communities.", "Key hydrologic feature of the west."]
     },
-    factsAdvanced: {
-      ro: ["Tip: râu minier.", "Regiune: sud-vest.", "Importanță: extracție minieră.", "Rol: resursă de apă.", "Economie: minerit.", "Impact: dezvoltare locală."]
-    },
+    
     description: {
       de: "Ein wichtiger Fluss im Westen, der zusammen mit dem Kadeï den Sangha bildet.",
       hu: "Fontos folyó nyugaton, amely a Kadeï folyóval együtt alkotja a Sangha folyót.",
@@ -284,9 +268,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Significant western waterway.", "Critical for regional forest economy.", "Part of the wider Congo basin.", "High degree of ecological integrity.", "Supports vast tropical rainforests.", "Central to western forest-dwellers."]
     },
-    factsAdvanced: {
-      ro: ["Tip: curs fluvial sud-vestic.", "Importanță: biodiversitate.", "Rol: resurse locale.", "Impact: rețea hidrografică.", "Economie: agricultură.", "Resursă: apă."]
-    },
+    
     description: {
       de: "Ein westlicher Fluss, der in Kamerun entspringt und in Nola mit dem Mambéré zusammenfließt.",
       hu: "Nyugati folyó, amely Kamerunban ered, és Nolánál egyesül a Mambéré folyóval.",
@@ -317,9 +299,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Vital river in the central region.", "Passes near the major city of Bambari.", "Essential artery for central plains.", "Water for industrial agriculture.", "Critical for regional population needs.", "Key link in the central drainage basin."]
     },
-    factsAdvanced: {
-      ro: ["Tip: râu regional.", "Regiune: Ouaka.", "Importanță: viața locală.", "Rol: agricultură și apă potabilă.", "Impact: susținerea comunităților.", "Resursă: apă."]
-    },
+    
     description: {
       de: "Ein Nebenfluss des Ubangi, der durch das Zentrum des Landes fließt und der Präfektur Ouaka ihren Namen gibt.",
       hu: "Az Ubangi egyik mellékfolyója, amely az ország közepén folyik keresztül, és nevet ad Ouaka prefektúrának.",

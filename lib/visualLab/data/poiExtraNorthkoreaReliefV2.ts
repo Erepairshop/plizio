@@ -22,9 +22,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Kema-fennsíkot 1000-2000 méteres magassága miatt 'Korea tetejének' hívják.", "Területe hatalmas, mintegy 10 000 négyzetkilométert fed le az északi tartományokban.", "Klímajellemzői Szibériához hasonlítanak: a téli hideg a -40 °C-ot is elérheti.", "Felszínének nagy részét összefüggő tűlevelű (tajga) erdők borítják.", "A terület Észak-Korea legfontosabb faipari és vadászati régiója.", "A fennsíkon termesztik az ország legtöbb hidegtűrő burgonyáját."],
       en: ["Massive northern highland region known as the 'Roof of Korea'.", "Covers roughly 40,000 square kilometers of high-altitude terrain.", "Average elevation ranges between 1,000 and 2,000 meters above sea level.", "Experiences an incredibly harsh, freezing microclimate during winter.", "Dominated by dense, ancient coniferous forests and rugged terrain.", "Historically served as a natural defensive barrier against northern invasions.", "The source region for several major Korean river systems."]
     },
-    factsAdvanced: {
-      de: ["Das Kaema-Plateau wird oft als 'Dach Koreas' bezeichnet.", "Die durchschnittliche Höhe des Plateaus liegt bei 1.000 bis 1.500 Metern.", "Die Durchschnittstemperaturen liegen hier oft bei unter -20 °C im Winter.", "Das Hochland besteht größtenteils aus alten vulkanischen Basaltplatten.", "Die Region ist fast vollständig mit borealen Nadelwäldern bedeckt.", "Es ist das am dünnsten besiedelte Gebiet Nordkoreas."]
-    }
+    
   },
     description: {
       de: "Eine große, hochgelegene Hochebene im Norden Nordkoreas, die oft als 'Dach Koreas' bezeichnet wird.",
@@ -58,9 +56,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A hegység neve, Cshilbosan, azt jelenti: a 'Hét Kincs Hegye'.", "A Tengeri Cshilbo (Hae-Chilbo) meredek, tengerbe szakadó sziklafalairól híres.", "2014-ben a régiót az UNESCO Bioszféra Rezervátummá nyilvánította.", "A bizarr sziklaalakzatok vulkáni hamuból és bazaltból erodálódtak az évezredek alatt.", "A hegyvidék a kevés észak-koreai helyek egyike, ahol a turisták helyi családoknál alhatnak.", "Ősszel a gesztenye- és juharfák vörösbe és aranyba öltöztetik a sziklákat."],
       en: ["Scenic mountain range located on the northeastern coast.", "Name translates to 'Seven Treasures Mountain' due to local legends.", "Renowned for bizarre, heavily eroded geological rock formations.", "Features towering coastal cliffs plunging into the Sea of Japan.", "Designated as a UNESCO World Biosphere Reserve in 2014.", "Divided into three distinct regions: Inner, Outer, and Sea Chilbo.", "Actively promoted by the state for international eco-tourism."]
     },
-    factsAdvanced: {
-      de: ["Ch'ilbo-san bedeutet übersetzt 'Berg der sieben Schätze'.", "Der Berg besteht aus dem Inneren, Äußeren und Maritimen Ch'ilbo.", "Das Gebiet liegt in der Provinz Nord-Hamgyŏng am Japanischen Meer.", "2014 wurde der Ch'ilbo in das Weltnetz der Biosphärenreservate der UNESCO aufgenommen.", "Die Klippen am 'Maritimen Ch'ilbo' fallen oft senkrecht ins Meer ab.", "Die Region ist berühmt für ihre seltenen Kiefernwälder und Thermalquellen."]
-    }
+    
   },
     description: {
       de: "Ein Berg in der Provinz Nord-Hamgyong, bekannt für seine außergewöhnlichen Felsformationen und seine Aussicht auf das Japanische Meer.",
@@ -94,9 +90,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A 'Kuwolsan' név Szeptember Hegyét jelenti az őszi lombok szépsége miatt.", "Legmagasabb pontja, a Szahvang csúcs 954 méter magas.", "A környező alföldből szigetszerűen kiemelkedő gránittömb alkotja.", "A hegyen található az 1200 éves Vola (Woljong) buddhista templom.", "Egyike az ország hat hivatalosan is kiemelt 'híres hegyének'.", "A legenda szerint Dangun király, Korea alapítója a hegyen vált halhatatlanná."],
       en: ["Prominent 954-meter peak located in South Hwanghae Province.", "Name translates to 'September Mountain', noting its stunning autumn foliage.", "Provides a stark geographical contrast to the surrounding flat western plains.", "Features ancient Goguryeo-era fortresses and historic Buddhist temples.", "Designated as a UNESCO World Biosphere Reserve in 2004.", "A highly popular destination for domestic tourism and hiking.", "Historically utilized as a strategic lookout over the Yellow Sea coast."]
     },
-    factsAdvanced: {
-      de: ["Der Name Kuwŏl-san bedeutet 'Berg des neunten Monats'.", "Der höchste Gipfel, der Sahwang-bong, misst 954 Meter.", "Die Region ist berühmt für ihre intensive herbstliche Laubfärbung.", "Das Gebirge ist seit 2004 ein ausgewiesenes UNESCO-Biosphärenreservat.", "Am Berg finden sich Ruinen mittelalterlicher Festungsmauern.", "Im Herbst ernten lokale Bauern hier zahlreiche Kastanien und Pilze."]
-    }
+    
   },
     description: {
       de: "Ein Berg in der Provinz Süd-Hwanghae, bekannt für seine landschaftliche Schönheit und als einer der heiligsten Berge Koreas.",
@@ -131,9 +125,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Szujang-völgy Dél-Hvanghe tartomány székhelye, Hadzsu mellett található.", "Fő látványossága a lépcsőzetesen lezúduló Szujang-vízesés.", "A völgy kőzeteit a víz által kiformált mészkő (karszt) dominálja.", "A hegység meredek falain a 16. században épült kőerődítmény romjai láthatók.", "A történelem során többször szolgált menedékként a part menti kalóztámadások elől.", "Hétvégente a helyi munkások és diákok kedvelt piknikező helye."],
       en: ["Scenic, deep geological depression located near the city of Haeju.", "Carved by rapid mountain streams flowing from Mount Suyang.", "Known for dramatic granite cliffs, clear pools, and dense forests.", "Features the ancient Suyangsan Fortress, a historic coastal defense site.", "Provides a serene natural retreat for residents of the industrial region.", "A popular location for local hiking and historical tourism.", "Characterizes the rugged topography found just inland from the Yellow Sea."]
     },
-    factsAdvanced: {
-      de: ["Das Suyang-Tal liegt direkt nördlich der Hafenstadt Haeju.", "Der Berg Suyang erreicht eine Höhe von etwa 946 Metern.", "Auf dem Bergkamm befinden sich Reste einer Festung aus der Koryŏ-Zeit.", "Das Tal ist für seinen breiten Suyang-Wasserfall bekannt.", "Es dient als wichtige Trinkwasserquelle für die Stadt Haeju.", "Das Mikroklima im Tal begünstigt den Anbau von Edelkastanien."]
-    }
+    
   },
     description: {
       de: "Ein malerisches Tal in der Nähe von Haeju, bekannt für seine Wasserfälle und historischen Verbindungen zur Goryeo-Dynastie.",
@@ -167,9 +159,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Thongcshon partvidék fő látványossága a Cshongsokdzsong hatszögletű bazaltoszlopai.", "Ezek az oszlopok vulkáni láva hirtelen lehűlésével jöttek létre a tengerparton.", "A partszakasz a Kumgang-hegység tengeri meghosszabbításának számít.", "Itt született a Hyundai cégcsoport alapítója, Csong Dzsujong (1915-ben).", "A gyönyörű sziklás partokat évszázadok óta ábrázolják a hagyományos koreai festményeken.", "Az északi haditengerészet gyakran tart járőrhajózást a part menti vizeken."],
       en: ["Striking stretch of shoreline located in Kangwon Province on the eastern coast.", "Characterized by severe relief where mountains meet the Sea of Japan.", "Features sheer, jagged basalt cliffs and hexagonal rock pillars.", "Home to Chongsokjong, a famous cluster of natural stone sea columns.", "Highly revered and frequently depicted in traditional Korean art.", "Rugged geography largely prevents massive infrastructural development.", "Preserves a raw, untouched, and majestic coastal ecosystem."]
     },
-    factsAdvanced: {
-      de: ["Die Tongchŏn-Küste liegt am Japanischen Meer in der Provinz Kangwŏn.", "Sie ist berühmt für die hexagonalen Basaltsäulen von Chongsokchon.", "Diese Felsformationen entstanden durch schnelle Abkühlung von Lava.", "Das Gebiet gehört zu den traditionellen 'Acht großen Naturwundern' Koreas.", "Der ehemalige südkoreanische Hyundai-Gründer Chung Ju-yung stammte aus Tongchŏn.", "Einige der Basaltsäulen ragen bis zu 20 Meter senkrecht aus dem Ozean."]
-    }
+    
   },
     description: {
       de: "Ein Küstenabschnitt in der Provinz Kangwon mit Sandstränden und malerischen Klippen.",
@@ -203,9 +193,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Muszan-fennsík Észak-Korea egyik leghidegebb régiója a kínai határ mentén.", "Átlagos magassága 1200 méter felett van, tajga növényzettel borítva.", "A fennsík alatt húzódik Ázsia legnagyobb vasérc-lelőhelye.", "A nyíltszíni bányászat ('tájsebzés') műholdképekről is jól látható.", "A Tumen folyó a fennsík északi peremén vágta be mély, sziklás medrét.", "A zord körülmények miatt a terület mezőgazdaságilag szinte teljesen hasznosíthatatlan."],
       en: ["Highly elevated, rugged region in the extreme northeast of the country.", "Located in close proximity to the Tumen River border with China.", "Site of the Musan Iron Mine, the largest iron ore deposit in Asia.", "Topography has been permanently altered by decades of open-pit mining.", "Features massive man-made craters, terraced cuts, and artificial hills.", "The natural relief has been entirely transformed into an industrial landscape.", "Experiences severe, freezing winters typical of the northeastern highlands."]
     },
-    factsAdvanced: {
-      de: ["Das Musan-Plateau liegt im äußersten Nordosten des Landes.", "Die durchschnittliche Höhe des Plateaus liegt bei über 1.200 Metern.", "Die Region ist berühmt für die gewaltige Musan-Eisenerzmine.", "Die Winter auf dem Plateau dauern oft von Oktober bis April.", "Die Vegetation besteht fast ausschließlich aus Taiga (Nadelwald).", "Wegen des rauen Klimas wird hier als Grundnahrungsmittel Hafer angebaut."]
-    }
+    
   },
     description: {
       de: "Eine Hochebene in der Provinz Nord-Hamgyong, reich an Eisenerzvorkommen.",
@@ -239,9 +227,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A völgy a Kumgang-hegység ('Gyémánt-hegység') egyik leglátványosabb szurdoka.", "Nevét ('Jáde Patak') a víz jellegzetes smaragdzöld színéről kapta.", "A víz évezredek alatt kerek üstöket (medencéket) erodált a gránitba.", "A Kuryong-vízesés a legenda szerint kilenc mitikus sárkány lakóhelye.", "A völgy a 2000-es évek elején több százezer dél-koreai turistát fogadott.", "A sziklás ösvények mellett több ősi, fába faragott buddhista szentély található."],
       en: ["Picturesque geographical depression within the Kumgang Mountain range.", "Name translates to 'Jade Stream Valley' due to its emerald-tinted waters.", "Defined by clear water flowing over smoothly eroded granite bedrock.", "Features a series of natural cascading pools and gentle waterfalls.", "Surrounded by steep, densely forested rock walls.", "Historically a spiritual retreat for ancient Buddhist monks and poets.", "Considered one of the most beautiful micro-landscapes in the eastern mountains."]
     },
-    factsAdvanced: {
-      de: ["Das Okryu-Tal liegt im berühmten Kŭmgang-Gebirge.", "Der Name 'Okryu' bedeutet wörtlich 'Strom der Jade'.", "Das Tal ist für seine glattgeschliffenen weißen Granitfelsen bekannt.", "Das Wasser in den felsigen Becken ist extrem klar und eisig kalt.", "Es gibt unzählige kleine Kaskaden und Pools auf dem Weg durch das Tal.", "Das Tal war ein Höhepunkt des interkoreanischen Tourismusprojekts (1998-2008)."]
-    }
+    
   },
     description: {
       de: "Ein berühmtes Tal im Kumgang-Gebirge, bekannt für seine jadegrünen Teiche und Wasserfälle.",
@@ -276,9 +262,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A hegylánc (Csangbek) a Koreai-félsziget északkeleti természetes határvonala.", "A vulkáni tevékenység nyomán kiterjedt bazaltfennsíkok és tufamezők jöttek létre.", "A hegység pajzsként funkcionál a szibériai téli fagybetörések ellen.", "Itt találhatók Észak-Korea legfontosabb megmaradt elsődleges erdőségei.", "A hegyvonulat a Jalu (Amnok) és a Tumen (Tuman) folyók vízgyűjtő területe.", "Rendkívül gazdag ásványkincsekben, különösen szénben és vasércben."],
       en: ["Immense geographical barrier dividing North Korea from Manchuria.", "Known exclusively in North Korea as the Paektu Mountain Range.", "Relief is dominated by a violent and extensive volcanic history.", "Terrain features massive solidified lava flows and deep pumice gorges.", "Covered in dense, largely impenetrable ancient alpine forests.", "Historically served as a natural fortress and a definitive national border.", "The region is central to the state's foundational revolutionary mythology."]
     },
-    factsAdvanced: {
-      de: ["Das Gebirge bildet die Wasserscheide zwischen den Flüssen Yalu und Tumen.", "Der höchste Gipfel des gesamten Massivs ist der Stratovulkan Paektu-san.", "Die nordkoreanische Seite ist reich an geheimen Partisanen-Gedenkstätten.", "Heilige revolutionäre Slogans sind in massiven Buchstaben in den Fels gemeißelt.", "Die Region ist berühmt für heiße Vulkangesteinsquellen im Schnee.", "Das Gebirge ist Heimat des extrem seltenen Amurtigers."]
-    }
+    
   },
     description: {
       de: "Die koreanische Seite der Bergkette, die die Grenze zwischen China und Nordkorea bildet. Auf Koreanisch heißt sie Baekdudaegan.",
@@ -312,9 +296,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A partvidéket a Sárga-tenger hatalmas, több méteres árapály-ingadozása formálja.", "Apály idején a tenger kilométereket húzódik vissza, iszapmezőket hagyva hátra.", "A területen hatalmas polderizációs (gátépítési) projekteket hajtottak végre.", "A tengerből visszanyert földeket ('saechokji') főként rizstermesztésre használják.", "A partmenti vizek fontos halászati és sólepárló területek.", "A természetes partvonal drasztikusan lecsökkent az emberi beavatkozások miatt."],
       en: ["Unique geographical feature located in the northwestern border region.", "Situated where the Yalu River widens massively near the Yellow Sea.", "Characterized by complex estuaries, massive mudflats, and marshy islands.", "The dynamic geography creates a highly porous and difficult-to-monitor border.", "Ecologically rich, serving as a crucial breeding ground for aquatic life.", "Presents significant logistical challenges for large-scale maritime navigation.", "Constantly shifting relief due to heavy sediment deposits from the river."]
     },
-    factsAdvanced: {
-      de: ["Die Chosan-Bucht liegt an der Westküste Nordkoreas am Gelben Meer.", "Sie ist geprägt von enormen Gezeitenschwankungen und weiten Wattflächen.", "Das Gebiet ist ein Zentrum der nordkoreanischen Muschelfischerei.", "In den letzten Jahrzehnten wurden hier riesige Gebiete durch Deiche trockengelegt.", "Das 'Neuland' wird nach der Entsalzung für den Reisanbau genutzt.", "Die Bucht dient Millionen von Watvögeln als Winterquartier."]
-    }
+    
   },
     description: {
       de: "Ein Küstenabschnitt am Gelben Meer in der Provinz Nord-Pyongan mit ausgedehnten Wattflächen.",
@@ -348,9 +330,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Purjong-völgy a Hamgjong-hegységet metszi át meredek sziklafalakkal.", "A V-alakú völgy a folyóvízi erózió klasszikus példája a kemény gránitkőzetben.", "A völgyön keresztül halad az északkeleti bányákat a tengerparttal összekötő vasút.", "Az 1930-as években japán mérnökök építettek ide egy ma is működő vízerőművet.", "Télen a völgy sötét és rendkívül hideg a hegyek árnyékoló hatása miatt.", "A sűrű erdőségekben számos vadon élő hegyi állat, például hiúz és gímszarvas él."],
       en: ["Deep, narrow gorge located in the highlands of North Hamgyong Province.", "Carved through the rugged mountainous terrain by the Susong River.", "Relief is extremely steep, acting as a critical geographical bottleneck.", "Connects the coastal port of Chongjin with interior mining regions.", "Heavily engineered with a cascading series of hydroelectric dams.", "The steep natural cliffs are integrated directly with massive concrete structures.", "Crucial for generating power for the northeastern industrial complexes."]
     },
-    factsAdvanced: {
-      de: ["Das Puryŏng-Tal liegt nördlich der Industriestadt Chŏngjin.", "Das Tal ist für seine Treppen-Staudämme (Puryŏng-Kaskaden) bekannt.", "Die Staudämme wurden teilweise schon während der Kolonialzeit errichtet.", "Der Susong-Fluss hat die tiefe, felsige Schlucht über Jahrtausende geformt.", "Die Wasserkraft versorgt das nahegelegene Kim-Chaek-Stahlwerk mit Strom.", "Die Umgebung des Tals besteht aus fast vegetationslosen, steilen Granitwänden."]
-    }
+    
   },
     description: {
       de: "Ein Tal in der Provinz Nord-Hamgyong, durch das der Fluss Puryong fließt.",
@@ -384,9 +364,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Thebek-hegység a Koreai-félsziget fő keleti gerince, átnyúlik Dél-Koreába is.", "Aszimmetrikus: keleti oldala meredeken szakad a tengerbe, nyugati lankásabb.", "A hegylánc északi szakaszán helyezkedik el a híres Kumgang-hegység.", "A hegyek orografikus (domborzati) csapadékot okoznak a keleti lejtőkön.", "Természetes falat képez, amely elválasztja a partvidéket a nyugati síkságoktól.", "A meredek sziklafalak miatt a vasúti és közúti infrastruktúra kiépítése itt minimális."],
       en: ["Continuous, rugged mountain spine running along the eastern coast.", "Extends southward directly across the DMZ into South Korea.", "Includes the famous, breathtaking peaks of the Kumgang Mountains.", "Features a severe, precipitous eastern drop-off into the Sea of Japan.", "Creates a significant climatic divide between the east and west coasts.", "Traps coastal moisture, leading to heavy regional winter snowfall.", "Shelters the eastern coastline from the harshest Siberian winter winds."]
     },
-    factsAdvanced: {
-      de: ["Das T'aebaek-Gebirge bildet das östliche topografische Rückgrat der gesamten Halbinsel.", "Die steile Ostflanke des Gebirges fällt fast direkt ins Japanische Meer ab.", "Das berühmte Kŭmgang-Gebirge ist Teil dieser langen Gebirgskette.", "Das Gebirge blockiert kalte Nordwestwinde und schützt so die Ostküste.", "In Nordkorea dominiert dichter Mischwald aus Eichen und Kiefern die Hänge.", "Der höchste Punkt des nördlichen Teils ist der Piro-bong (Kŭmgang) mit 1.638 m."]
-    }
+    
   },
     description: {
       de: "Der nördliche Ausläufer der Taebaek-Bergkette, der sich in Nordkorea erstreckt und das Kumgang-Gebirge umfasst.",
@@ -420,9 +398,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Rjongam egy kiterjedt mészkőbarlang (karsztbarlang) a nyugati hegyekben.", "Belsejében földalatti patakok és évezredes cseppkőoszlopok találhatók.", "A cseppköveket gyakran élénk, neon színekkel világítják meg a látogatóknak.", "A sziklaformációk hivatalos nevei forradalmi eseményekre vagy vezérekre utalnak.", "A barlang állandó, hűvös hőmérsékletét a háború alatt raktározásra is használták.", "Tudományos szempontból értékes információkat nyújt a régió geológiai múltjáról."],
       en: ["Significant karst relief formation located in North Pyongan Province.", "Created over millions of years by the slow dissolution of limestone bedrock.", "Features complex interior relief including massive stalactites and stalagmites.", "Contains deep subterranean chasms carved by an active underground river.", "Remains relatively untouched compared to other tourist-developed caves.", "Studied by state geologists to map the region's complex karst hydrology.", "Highlights the highly porous, fragile geology of the northwestern region."]
     },
-    factsAdvanced: {
-      de: ["Die Ryongam-Höhle ist ein massives Karsthöhlensystem.", "Sie befindet sich in der kalksteinreichen Provinz Nord-P'yŏngan.", "In der Höhle herrschen das ganze Jahr über konstante 10–12 °C.", "Zahlreiche Steinformationen sind nach mythologischen Figuren benannt.", "Das System erstreckt sich über mehrere Kilometer unter der Erde.", "Die Höhle wurde für den inländischen Tourismus teilweise stark ausgebaut."]
-    }
+    
   },
     description: {
       de: "Ein großes Karsthöhlensystem in der Nähe von Pjöngjang, das für seine unterirdischen Flüsse und einzigartigen Felsformationen bekannt ist.",
@@ -456,9 +432,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Namde-völgy a folyami hordalék (allúvium) által feltöltött széles síkság.", "Ez a keleti part egyik legfontosabb, bár méretre kis rizstermő területe.", "A völgyön keresztül halad a keleti partot és a bányákat összekötő fő vasútvonal.", "A folyó a meredek Hamgjong-hegységből zúdul le, magával hozva a hordalékot.", "Tavasszal a völgy gyakran küzd áradásokkal a hegyi hóolvadás miatt.", "A völgy torkolatánál jelentős tengeri halászati központok alakultak ki."],
       en: ["Located in the rugged, mountainous highlands of South Hamgyong Province.", "Characterized by steep, V-shaped gorges carved by high-velocity water.", "Acts as a major drainage route descending from the Kaema Plateau.", "Highly prone to severe, destructive flash flooding during summer monsoons.", "The steep relief is heavily exploited for regional hydroelectric power.", "Features numerous small-scale dams powering isolated interior mining towns.", "Navigation through the valley is difficult due to the constricting terrain."]
     },
-    factsAdvanced: {
-      de: ["Das Nandai-Flusstal liegt in der stark bergigen Provinz Süd-Hamgyŏng.", "Es bietet seltenes fruchtbares Land für den Reisanbau an der Ostküste.", "Die Bauern nutzen oft komplexe Terrassensysteme an den Talhängen.", "Der Fluss entwässert direkt in das Japanische Meer.", "Das Tal ist für seine intensive Mais- und Gemüseproduktion bekannt.", "Es ist ein wichtiges agrarisches Versorgungsgebiet für die lokale Schwerindustrie."]
-    }
+    
   },
     description: {
       de: "Das Tal, das vom Fluss Nandai durchflossen wird, während er durch Hamhung fließt und ins Japanische Meer mündet.",
@@ -492,9 +466,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["Az Ongdzsin-félsziget Riasz-típusú, erősen tagolt, öblökkel teli partvidék.", "Klímajellemzői Észak-Korea legenyhébbjei közé tartoznak, ideálisak a mezőgazdaságnak.", "A félsziget közvetlenül a Dél-Koreával vitatott tengeri határ (NLL) mellett fekszik.", "A tengerpartot sűrűn teleszórták katonai erődítményekkel és tüzérségi állásokkal.", "A part menti sekély vizek kiválóak a tengeri hínár és a kagylók tenyésztésére.", "A koreai háború kitörése (1950) előtt a terület Dél-Koreához tartozott."],
       en: ["Extends southward from South Hwanghae Province into the Yellow Sea.", "Characterized by a complex, highly fragmented 'ria' coastal relief.", "Features deeply indented inlets and hundreds of small, rocky offshore islands.", "The chaotic geography makes large-scale maritime navigation treacherous.", "Provides incredibly rich, shallow grounds for coastal aquaculture.", "Historically a major flashpoint during the opening days of the Korean War.", "Experiences massive tidal ranges typical of the western Korean coast."]
     },
-    factsAdvanced: {
-      de: ["Die Ongjin-Halbinsel liegt im extremen Südwesten in der Provinz Süd-Hwanghae.", "Die Halbinsel hat das mildeste und wärmste Mikroklima Nordkoreas.", "Vor der Küste liegen dutzende felsige kleine Inseln und Schären.", "Aufgrund der NLL (maritime Grenze zu Südkorea) ist das Gebiet stark militarisiert.", "Die Region ist berühmt für groß angelegte Seetang- und Austernzucht.", "Es ist eine der wenigen Regionen im Land, wo im Freien Pfirsiche gedeihen."]
-    }
+    
   },
     description: {
       de: "Eine Halbinsel am Gelben Meer mit einer stark zerklüfteten Küste und zahlreichen vorgelagerten Inseln.",
@@ -529,9 +501,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Höcshang-felvidék középhegységi jellegű, lekerekített erdős hegyhátakból áll.", "A föld alatt Észak-Korea egyik legjelentősebb arany- és szénkészlete húzódik.", "A koreai háború alatt itt volt a kínai csapatok (Peng Tö-huaj) rejtett főparancsnoksága.", "A hegyekben fekszik a Kínai Mártírok Temetője, Mao Ce-tung fiának sírjával.", "A domborzat természetes védelmet és kiváló álcázást biztosított a légitámadások ellen.", "A régió gazdasága ma szinte teljes egészében a mélyművelésű bányászatra épül."],
       en: ["Rugged, elevated transitional zone located in South Pyongan Province.", "Sits between the flat western agricultural plains and the central mountains.", "Relief consists of deeply eroded, rolling hills and steep, forested ridges.", "Harbors massive subterranean wealth, particularly significant gold deposits.", "Utilized during the Korean War due to its highly defensible, rugged terrain.", "Site of the massive underground headquarters of the Chinese Volunteer Army.", "Currently maintained as a significant historical and military landmark."]
     },
-    factsAdvanced: {
-      de: ["Das Hoechang-Hochland liegt in den Bergen der Provinz Süd-P'yŏngan.", "Es war im Koreakrieg das Hauptquartier des chinesischen Kommandeurs Peng Dehuai.", "Mao Anyings Grab (der Sohn von Mao Zedong) befindet sich hier auf einem Friedhof.", "Das Hochland besteht größtenteils aus altem, metamorphem Gestein.", "Die Region ist landesweit für den Abbau von Gold und Mineralien bekannt.", "Zahlreiche tiefe Minenschächte prägen die bewaldete Landschaft."]
-    }
+    
   },
     description: {
       de: "Eine bergige Region in der Provinz Süd-Pyongan, die Teil des zentralen Gebirgsrückgrats Koreas ist.",
@@ -565,9 +535,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Szohung-völgy a hegyekből a síkságok felé táguló, hordalékkal feltöltött terület.", "A lejtőkön hagyományos, teraszos földművelés folyik az erózió megelőzésére.", "A folyón lévő mesterséges Szohung-tó a régió fő édesvízi bázisa.", "A terület Észak-Hvanghe tartomány 'éléskamrájának' egyik fontos része.", "A rizsen kívül a kukorica és a szójabab a völgy fő terményei.", "A völgy festői falvait gyakran ábrázolják a vidéki életet dicsőítő festményeken."],
       en: ["Prominent, wide geographical depression in North Hwanghae Province.", "Characterized by a broad, U-shaped basin indicating slow geological erosion.", "Features a flat, highly fertile valley floor composed of deep sediment.", "Forms a crucial, highly productive part of the nation's agricultural heartland.", "Supports extensive, mechanized cultivation of rice and corn crops.", "Acts as a natural geographical corridor for national transport infrastructure.", "Historically the primary land route connecting Kaesong to Pyongyang."]
     },
-    factsAdvanced: {
-      de: ["Das Sŏhŭng-Tal liegt in Nord-Hwanghae, der 'Reiskammer' des Landes.", "Der Sŏhŭng-Fluss ist durch den riesigen Sŏhŭng-Stausee stark reguliert.", "Das Tal zeichnet sich durch dicke, extrem fruchtbare Alluvialböden aus.", "Die Region ist ein Hauptproduzent von Getreide und Äpfeln in Nordkorea.", "Die sanften, bewaldeten Hügel des Tals sind typisch für das südliche Zentralkorea.", "Der Stausee im Tal ist auch ein beliebtes Ziel für Bootsfahrten der Einheimischen."]
-    }
+    
   },
     description: {
       de: "Ein fruchtbares Tal in der Provinz Nord-Hwanghae, das für seine landwirtschaftliche Produktion bekannt ist.",
@@ -601,9 +569,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A nyugati partvidéket lankás síkságok és hatalmas árapály-iszapmezők (mudflat) jellemzik.", "Az árapály-ingadozás akár a 8 métert is elérheti, mérföldekre visszahúzva a vizet.", "Ez a partszakasz Észak-Korea legfontosabb rizstermő és mezőgazdasági zónája.", "A tenger sekélysége miatt a nagy kikötők (Nampo) megközelítése zsilipekhez kötött.", "Az állam évtizedek óta küzd a tenger visszahódításáért gigantikus gátrendszerekkel.", "Apály idején a lakosság nagy része az iszapban gyűjt tengeri élelmet (kagyló, rák)."],
       en: ["Encompasses the lengthy shoreline along the western side of the country.", "Defined by extreme shallowness and a remarkably flat coastal gradient.", "Experiences some of the largest tidal ranges on Earth, exceeding 8 meters.", "Massive, seemingly endless tidal mudflats are exposed twice daily.", "The shifting, shallow relief makes establishing deep-water ports highly challenging.", "Necessitated the construction of the massive West Sea Barrage at Nampo.", "Highly susceptible to severe coastal flooding during summer typhoons."]
     },
-    factsAdvanced: {
-      de: ["Die Westküste der Korea-Bucht weist Gezeitenunterschiede von bis zu 8 Metern auf.", "Bei Ebbe legt das Meer oft kilometerlange Wattflächen frei.", "Das flache Wasser erschwert den Bau natürlicher Tiefseehäfen erheblich.", "Die Küste ist der Schwerpunkt staatlicher Landgewinnung (Trockenlegung von Watt).", "Auf den gewonnenen Flächen wird nach aufwendiger Entsalzung Reis angebaut.", "Das Wattgebiet dient als gigantische natürliche Farm für Muscheln und Krabben."]
-    }
+    
   },
     description: {
       de: "Der nördliche Teil der Westküste Nordkoreas, der die Koreabucht bildet, mit zahlreichen Inseln und Flussmündungen.",
@@ -637,9 +603,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A keleti partvidéket meredek, sziklás hegyoldalak jellemzik, amelyek a tengerbe szakadnak.", "A nyugati parttal ellentétben az árapály-ingadozás itt minimális (kb. 30-50 cm).", "A víz gyorsan mélyül, ami kedvez a mélyvízi kikötőknek (Cshongdzsin, Vonszan).", "A sziklás öblök között hosszú, tiszta vizű, finom homokos strandok találhatók.", "A hegyek természetes gátat képeznek, megnehezítve az országon belüli közlekedést.", "A part menti vizeket hideg tengeráramlatok hűtik, gazdag halállományt biztosítva."],
       en: ["Stretches along the eastern side of the country bordering the Sea of Japan.", "Topography is abrupt and dramatic, lacking the vast mudflats of the west.", "The Taebaek Mountains drop precipitously directly into the ocean.", "Coastline is dominated by steep cliffs and narrow, isolated sandy beaches.", "Rapid drop-off of the continental shelf creates deep water close to shore.", "Ideal geography for major naval bases and deep-water commercial ports.", "Provides very little flat, arable land for coastal agriculture."]
     },
-    factsAdvanced: {
-      de: ["Die Ostküste hat im Gegensatz zur Westküste so gut wie keinen Gezeitenhub.", "Das Meer ist direkt an der Küste oft sehr tief, was den Hafenbau begünstigt.", "Dramatische Gebirgsausläufer fallen hier steil ins Japanische Meer.", "Entlang der Buchten finden sich kilometerlange weiße Sandstrände.", "Die Häfen an der Ostkorea-Bucht bleiben im Winter fast immer eisfrei.", "Die raue Felsenküste ist ein reiches Fischereigebiet für Tintenfisch."]
-    }
+    
   },
     description: {
       de: "Ein großer Einzugsbereich an der Ostküste mit den Städten Hamhung und Wonsan, der tiefere Gewässer und Sandstrände aufweist.",
@@ -673,9 +637,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Szongcshon-szurdok egy mély, V-alakú völgy a Hamgjong-hegység szívében.", "A folyó sebes sodrású, tele van zuhatagokkal és sziklaküszöbökkel.", "A szurdok meredek falai természetes védelmet és elzártságot biztosítanak.", "A víz energiáját apró, lépcsőzetes gátrendszerekkel hasznosítják a helyi ipar számára.", "A völgyön át vezető utak és hidak kiépítése rendkívüli mérnöki kihívás volt.", "A szurdok mikroklímája hűvösebb és csapadékosabb a tengerparti síksághoz képest."],
       en: ["Spectacular, narrow geographical incision in South Hamgyong Province.", "Characterized by extreme relief with near-vertical granite walls.", "Constricts the fast-flowing Songchon River rushing toward the eastern coast.", "Creates a severe geographical bottleneck for regional transport infrastructure.", "Roads and railways must cling precariously to the steep cliff sides.", "The sheer drop and water velocity are ideal for cascading hydroelectric dams.", "Provides crucial power for the massive chemical complexes downstream in Hamhung."]
     },
-    factsAdvanced: {
-      de: ["Der Sŏngchŏn-Fluss fließt direkt durch die wichtige Industriestadt Hamhŭng.", "Die enge Bergschlucht besteht aus massiven, grauen Granitwänden.", "Im Sommer schwillt der Fluss durch Monsunregen (Taifune) massiv an.", "Ein massives System aus Dämmen schützt Hamhŭng vor Fluten aus der Schlucht.", "Der Fluss ist eine kritische Wasserquelle für die nordkoreanische Vinalon-Produktion.", "Das tief eingeschnittene Tal verhindert oft das Eindringen kalter Winterstürme."]
-    }
+    
   },
     description: {
       de: "Eine Schlucht, die vom Fluss Songchon durch die zentralen Berge der Provinz Süd-Pyongan gegraben wurde.",
@@ -709,9 +671,7 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       hu: ["A Phenjani tönkfelszín egy ősi, mára teljesen lepusztult hegység geológiai maradványa.", "Az alacsony, lankás domborzat tette lehetővé Phenjan széleskörű urbanizációját.", "A síkságot a Taedong folyó üledéke teszi kiválóan alkalmassá a mezőgazdaságra.", "Átlagos magassága a tengerszint felett csupán 20-50 méter között mozog.", "Az ország lakosságának jelentős része ezen a termékeny és viszonylag sík területen él.", "A tönkfelszín nyitottsága miatt a város ki van téve a tenger felől érkező viharoknak."],
       en: ["Vast, relatively flat geographical region encompassing the capital city.", "A geologically ancient landmass eroded to a near-flat plain over millions of years.", "Provides a stark contrast to the mountainous terrain dominating most of the country.", "Features highly stable ground and the steady flow of the Taedong River.", "The optimal geographical location for establishing a massive, sprawling urban center.", "Lack of topographical barriers allowed for grand, grid-like city planning.", "Surrounded by low, rolling hills rather than jagged mountain peaks."]
     },
-    factsAdvanced: {
-      de: ["Die Pjöngjang-Ebene ist das größte zusammenhängende Flachland Nordkoreas.", "Sie entstand durch langfristige geologische Erosion (Rumpfebene).", "Der Taedong-Fluss durchzieht die gesamte Pjöngjang-Ebene.", "Die Ebene ist das logistische, politische und landwirtschaftliche Zentrum des Staates.", "Dicke Alluvialböden in der Ebene machen sie extrem fruchtbar.", "Im Gegensatz zum Rest des Landes ist dieses Terrain ideal für breite Boulevards."]
-    }
+    
   },
     description: {
       de: "Eine ausgedehnte, flache Ebene, die die Hauptstadt Pjöngjang umgibt und eine der wichtigsten landwirtschaftlichen Regionen des Landes ist.",

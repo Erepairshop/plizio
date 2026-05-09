@@ -1,4 +1,4 @@
-import type { POI } from "./poi";
+﻿import type { POI } from "./poi";
 
 export const poiExtraBahamasCitiesV2: POI[] = [
   {
@@ -35,11 +35,11 @@ export const poiExtraBahamasCitiesV2: POI[] = [
     parent: "BS-NE",
     coords: [-76.5833, 25.3833],
     name: { de: "Gregory Town", hu: "Gregory Town", ro: "Gregory Town", en: "Gregory Town" },
-    description: { de: "Eine Stadt auf Eleuthera, die für ihre Ananas und das Surfen bekannt ist.", hu: "Város Eleuthera szigetén, ananászáról és szörfözési lehetőségeiről ismert.", ro: "Un oraș pe Eleuthera, renumit pentru ananasul și surfingul său.", en: "A town on Eleuthera famous for its pineapples and surfing." },
+    description: { de: "Eine Stadt auf Eleuthera, die für ihre Ananas und das Surfen bekannt ist.", hu: "Város Eleuthera szigetén, ananászáról és szörfözési lehetőségeiről ismert.", ro: "Gregory Town este o localitate cunoscută în special pentru producția de ananas, situată pe insula Eleuthera. Este un punct de atracție pentru turiștii care caută o atmosferă autentică din Bahamas.", en: "A town on Eleuthera famous for its pineapples and surfing." },
     facts: {
       de: ["Veranstaltet das jährliche Ananas-Festival", "Heimat des berühmten 'Surfer's Beach'", "Hügelige Landschaft"],
       hu: ["Évente megrendezi az Ananász Fesztivált", "A híres 'Surfer's Beach' otthona", "Dombos táj"],
-      ro: ["Găzduiește festivalul anual al ananasului", "Acasă la faimoasa 'Plajă a Surferilor'", "Peisaj deluros"],
+      ro: ["Situat pe Eleuthera", "Celebrat pentru ananas", "Aproape de Surfer's Beach"],
       en: ["Hosts the annual Pineapple Festival", "Home to the famous 'Surfer's Beach'", "Hilly terrain"]
     },
     
@@ -945,11 +945,11 @@ export const poiExtraBahamasCitiesV2: POI[] = [
     parent: "BS-EX",
     coords: [-75.8833, 23.55],
     name: { de: "Alexandria", hu: "Alexandria", ro: "Alexandria", en: "Alexandria" },
-    description: { de: "Eine kleine, ländliche Siedlung auf Great Exuma.", hu: "Kis, vidéki település Great Exumán.", ro: "O mică așezare rurală pe Great Exuma.", en: "A small, rural settlement on Great Exuma." },
+    description: { de: "Eine kleine, ländliche Siedlung auf Great Exuma.", hu: "Kis, vidéki település Great Exumán.", ro: "Alexandria este o așezare mică, liniștită, situată în cadrul arhipelagului Bahamas. Se remarcă prin mediul său natural nealterat și stilul de viață relaxat.", en: "A small, rural settlement on Great Exuma." },
     facts: {
       de: ["Landwirtschaftlich geprägte Gegend", "Traditionelle Lebensweise", "Friedliche Umgebung"],
       hu: ["Mezőgazdasági jellegű terület", "Hagyományos életmód", "Békés környezet"],
-      ro: ["Zonă predominant agricolă", "Mod de viață tradițional", "Mediu pașnic"],
+      ro: ["Așezare mică", "Mediul natural liniștit", "Specific insular"],
       en: ["Agricultural area", "Traditional way of life", "Peaceful environment"]
     }, image: "/poi-images/alexandria-cities-v2.webp",
     descriptionAdvanced: {
@@ -997,11 +997,11 @@ export const poiExtraBahamasCitiesV2: POI[] = [
     parent: "BS-EG",
     coords: [-78.2833, 26.6333],
     name: { de: "McLean's Town", hu: "McLean's Town", ro: "McLean's Town", en: "McLean's Town" },
-    description: { de: "Die östlichste Siedlung auf der Insel Grand Bahama.", hu: "A legkeletibb település Grand Bahama szigetén.", ro: "Cea mai estică așezare de pe insula Grand Bahama.", en: "The easternmost settlement on the island of Grand Bahama." },
+    description: { de: "Die östlichste Siedlung auf der Insel Grand Bahama.", hu: "A legkeletibb település Grand Bahama szigetén.", ro: "McLean's Town este cel mai estic așezământ de pe insula Grand Bahama. Este un centru important pentru comunitățile locale de pescari și găzduiește anual Festivalul Concului.", en: "The easternmost settlement on the island of Grand Bahama." },
     facts: {
       de: ["Veranstaltet den jährlichen Conch Cracking Wettbewerb", "Fährhafen nach Crown Haven, Abaco", "Fischerdorf"],
       hu: ["Évente megrendezi a Conch Cracking versenyt", "Kompkikötő Crown Havenbe, Abacoba", "Halászfalu"],
-      ro: ["Găzduiește concursul anual de spart scoici", "Port de feribot către Crown Haven, Abaco", "Sat pescăresc"],
+      ro: ["Pe insula Grand Bahama", "Centru de pescuit", "Festivalul Concului"],
       en: ["Hosts the annual Conch Cracking competition", "Ferry port to Crown Haven, Abaco", "Fishing village"]
     }, image: "/poi-images/mcleans-town-cities-v2.webp",
     descriptionAdvanced: {
@@ -1309,11 +1309,11 @@ export const poiExtraBahamasCitiesV2: POI[] = [
     parent: "BS-NO",
     coords: [-77.8, 26.9667],
     name: { de: "Wood Cay", hu: "Wood Cay", ro: "Wood Cay", en: "Wood Cay" },
-    description: { de: "Eine kleine Insel und Siedlung vor der Küste von Little Abaco.", hu: "Kis sziget és település Little Abaco partjainál.", ro: "O mică insulă și așezare în largul coastei Little Abaco.", en: "A small island and settlement off the coast of Little Abaco." },
+    description: { de: "Eine kleine Insel und Siedlung vor der Küste von Little Abaco.", hu: "Kis sziget és település Little Abaco partjainál.", ro: "Wood Cay este o mică comunitate insulară din Bahamas, oferind peisaje marine deosebite. Este preferată pentru cei care doresc intimitate și explorarea coastei.", en: "A small island and settlement off the coast of Little Abaco." },
     facts: {
       de: ["Sehr isoliert", "Zugang hauptsächlich per Boot", "Die Bewohner leben einen traditionellen Lebensstil"],
       hu: ["Nagyon elszigetelt", "Főleg csónakkal közelíthető meg", "A lakosok hagyományos életmódot folytatnak"],
-      ro: ["Foarte izolat", "Accesibil în principal cu barca", "Locuitorii duc un stil de viață tradițional"],
+      ro: ["Comunitate mică", "Acces la coastă", "Atmosferă izolată"],
       en: ["Very isolated", "Accessed mainly by boat", "Residents live a traditional lifestyle"]
     }, image: "/poi-images/wood-cay-cities-v2.webp",
     descriptionAdvanced: {

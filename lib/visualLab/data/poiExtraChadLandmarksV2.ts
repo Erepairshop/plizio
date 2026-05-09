@@ -21,12 +21,8 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Major architectural landmark in central N'Djamena.", "Symbolizes Chad's significant Islamic heritage.", "Features iconic towers visible across the city skyline.", "Serves as a vital community hub for religious events.", "Combines Sahelian and modern Islamic design elements.", "Key religious gathering place for the capital's population."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Wichtigstes religiöses Bauwerk der Hauptstadt", "Prägnantes Minarett als Wahrzeichen von N'Djamena", "Zentrum des islamischen Gemeinschaftslebens", "Kulturelles und architektonisches Erbe", "Wichtiger Ort des sozialen Zusammenhalts", "Stilvolle Kombination aus traditioneller und moderner Bauweise"]
-    },
+    
+    
     description: {
       de: "Das bedeutendste religiöse Bauwerk der Hauptstadt mit markanten Minaretten.",
       hu: "A főváros legjelentősebb vallási épülete, jellegzetes minaretekkel.",
@@ -58,12 +54,8 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Central Christian cathedral in the Chadian capital.", "Example of modern religious architectural design.", "Serves the diverse Christian community in N'Djamena.", "Significant landmark for religious diversity in Chad.", "Acts as a venue for major community and national events.", "Symbolizes the multicultural landscape of N'Djamena."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Römisch-katholische Hauptkirche der Hauptstadt", "Berühmt für das moderne und einzigartige Schalendach", "Sitz des Erzbistums N'Djamena", "Symbol für Widerstandsfähigkeit der christlichen Gemeinde", "Architektonisches Highlight der Stadt", "Essenzieller Ort für die christliche Identität im Tschad"]
-    },
+    
+    
     description: {
       de: "Die römisch-katholische Kathedrale der Hauptstadt, bekannt für ihre moderne Architektur.",
       hu: "A főváros római katolikus székesegyháza, amely modern építészetéről ismert.",
@@ -95,12 +87,8 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Public monument celebrating Chadian national unity.", "Prominently located in a key N'Djamena public space.", "Focus point for national holidays and civic gatherings.", "Represents the journey and aspirations of the nation.", "Symbolizes harmony between Chadian ethnic groups.", "Iconic civic installation in the capital."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Großer monumentaler Triumphbogen", "Symbolisiert die Einheit des tschadischen Volkes", "Zentraler Ort für nationale Zeremonien", "Wichtiger Treffpunkt in der Hauptstadt", "Sinnbild für nationale Souveränität", "Nachts beleuchtetes Wahrzeichen"]
-    },
+    
+    
     description: {
       de: "Ein monumentales Denkmal, das die Einheit und Souveränität des tschadischen Volkes symbolisiert.",
       hu: "Monumentális emlékmű, amely a csádi nép egységét és szuverenitását jelképezi.",
@@ -132,12 +120,8 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Prominent government and cultural event hall.", "Named in honor of a significant date in Chadian history.", "Standard venue for state summits and public deliberations.", "Essential civic infrastructure for Chadian national business.", "Known for its large capacity and formal architectural style.", "Focal point for large-scale social and political gatherings."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Zentrales Regierungs- und Kongresszentrum", "Hauptevent-Location für nationale Gipfeltreffen", "Architektonisch markantes Bauwerk", "Wichtiger Ort für kulturelle Veranstaltungen", "Namensgeber: Erinnerung an ein wichtiges Datum", "Moderne technische Infrastruktur für große Events"]
-    },
+    
+    
     description: {
       de: "Ein wichtiges Regierungs- und Kongresszentrum in N'Djamena.",
       hu: "Fontos kormányzati és kongresszusi központ N'Djamenában.",
@@ -169,12 +153,8 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Primary national sports arena for Chad.", "Named in honor of the renowned Chadian athlete Idriss Ouya.", "Hosts national football matches and independence celebrations.", "Central facility for promoting sports development in Chad.", "Iconic location for mass social and athletic events.", "Essential part of the capital's sporting infrastructure."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Größtes Nationalstadion des Tschad", "Benannt nach der Sportlegende Idriss Mahamat Ouya", "Heimstadion der Fußballnationalmannschaft", "Austragungsort nationaler Feierlichkeiten", "Symbol für sportliche nationale Identität", "Fasst bis zu 20.000 Zuschauer"]
-    },
+    
+    
     description: {
       de: "Das größte Stadion des Landes und Heimstätte der tschadischen Fußballnationalmannschaft.",
       hu: "Az ország legnagyobb stadionja és a csádi labdarúgó-válogatott otthona.",
@@ -206,12 +186,8 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Premier repository of Chadian history and archaeology.", "Houses major artifacts from the ancient Sao civilization.", "Features ethnographic displays of Chad's diverse cultures.", "Essential educational site for the Chadian public.", "Protects important archaeological finds from across the country.", "Provides a window into Chad's development from prehistoric eras."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Archiv für die tschadische Geschichte", "Umfangreiche archäologische Sammlung", "Wichtige ethnografische Exponate", "Kulturelles und pädagogisches Zentrum", "Gegründet 1962 zur Bewahrung des Erbes", "Enthält Funde aus der Sahara-Frühzeit"]
-    },
+    
+    
     description: {
       de: "Beherbergt wertvolle archäologische und ethnografische Sammlungen zur Geschichte des Landes.",
       hu: "Értékes régészeti és néprajzi gyűjteményeknek ad otthont az ország történelméről.",
@@ -243,12 +219,8 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Strategic bridge connecting Chad and Cameroon.", "Spans the Logone River near Bongor.", "Symbolizes regional cooperation and economic integration.", "Facilitates crucial cross-border transit of agricultural goods.", "Major boost to southwestern Chadian market efficiency.", "Essential piece of regional logistics infrastructure."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Verbindung zwischen Tschad und Kamerun", "Symbol grenzüberschreitender Kooperation", "Wichtiger Punkt für den Waren- und Personenverkehr", "Strategischer Stützpunkt für die Region", "Knotenpunkt für den Wirtschaftsverkehr", "Ermöglicht sozialen und kulturellen Austausch"]
-    },
+    
+    
     description: {
       de: "Eine wichtige Brücke über den Logone, die den Tschad mit Kamerun verbindet.",
       hu: "Fontos híd a Logone folyó felett, amely Csádot köti össze Kamerunnal.",
@@ -280,12 +252,8 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Headquarters for the regional central bank (BEAC).", "Center of national monetary policy and financial oversight.", "Modern architectural landmark in central N'Djamena.", "Symbolizes economic integration in the CEMAC zone.", "Essential pillar for the Chadian and regional economy.", "Reflects the growing importance of the city as a financial hub."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Sitz der Zentralbank der Zentralafrikanischen Staaten", "Finanzielles Kontrollzentrum der Region", "Ein markantes architektonisches Hochhaus", "Symbol für wirtschaftliche Stabilität", "Höchst gesicherte Anlage", "Wichtiger Standort für die nationale Geldpolitik"]
-    },
+    
+    
     description: {
       de: "Der Hauptsitz der Zentralbank der Zentralafrikanischen Staaten im Tschad.",
       hu: "A Közép-afrikai Államok Központi Bankjának székhelye Csádban.",
@@ -317,12 +285,8 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Principal commercial market in the heart of N'Djamena.", "Dynamic center for small-scale and regional trade.", "Essential hub for local livelihoods and daily survival.", "Features a wide range of goods from textiles to food.", "The primary urban space for social and cultural exchange.", "Economic heartbeat of the city's trade activity."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Größter Marktplatz des Tschad", "Wirtschaftliches Epizentrum der Hauptstadt", "Schmelztiegel der Kulturen", "Vielfältiges Angebot an lokalen Gütern", "Symbol für städtische Dynamik", "Wichtig für die lokale Versorgungssicherheit"]
-    },
+    
+    
     description: {
       de: "Das wirtschaftliche Herz der Hauptstadt, ein lebhafter und farbenfroher Ort.",
       hu: "A főváros gazdasági szíve, élénk és színes hely.",
@@ -354,12 +318,8 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Historic landmark honoring the Ouaddaï Kingdom legacy.", "Showcases classic Sahelian mud-brick architecture.", "Reflects the political history of eastern Chad.", "Symbolizes the ongoing influence of traditional leaders.", "Central site for regional history and cultural preservation.", "Key cultural monument in the city of Abéché."]
     },
-    factsAdvanced: {
-      hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
-    },
-    factsAdvanced: {
-      de: ["Historische Residenz der Wadai-Sultane", "Zentrum der traditionellen Machtstrukturen", "Wichtige kulturelle Stätte in Abéché", "Traditionell islamisch inspirierte Architektur", "Symbol für Kontinuität der Wadai-Geschichte", "Bedeutendes Ziel für kulturelle Forschung"]
-    },
+    
+    
     description: {
       de: "Die historische Residenz des Sultans von Wadai, ein bedeutendes kulturelles Denkmal.",
       hu: "Wadai szultánjának történelmi rezidenciája, jelentős kulturális műemlék.",
@@ -390,9 +350,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Eines der ältesten Gotteshäuser der Region", "Bedeutendes religiöses Zentrum in Ouaddaï", "Schlichter und würdevoller Baustil", "Wichtiger Teil des kulturellen Erbes", "Historischer Ort für das islamische Leben", "Zentrum des täglichen Gebets"]
-    },
+    
     description: {
       de: "Eine der ältesten und wichtigsten Moscheen in der Region Ouaddaï.",
       hu: "Az Ouaddaï régió egyik legrégebbi és legfontosabb mecsetje.",
@@ -424,9 +382,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Architektonisches Symbol aus der Kolonialzeit", "Früherer Sitz der militärischen Verwaltung", "Markantes Wahrzeichen in der Wüstenstadt Faya", "Bedeutendes historisches Bauwerk", "Prägt das städtische Bild der Oase", "Wichtig für das Verständnis der regionalen Entwicklung"]
-    },
+    
     description: {
       de: "Ein markantes Gebäude aus der Kolonialzeit im Herzen der Oase Faya.",
       hu: "Jellegzetes gyarmati kori épület a Faya-oázis szívében.",
@@ -457,9 +413,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Spirituelles Herz der Stadt Moundou", "Sitz des Bistums für den Süden", "Beeindruckendes architektonisches Bauwerk", "Zentrum der christlichen Gemeinschaft", "Wichtiger Ort für kulturelle Identität", "Bedeutendes Sakraldenkmal in der Region"]
-    },
+    
     description: {
       de: "Die Kathedrale Notre-Dame-de-l'Assomption ist das religiöse Wahrzeichen von Moundou.",
       hu: "A Notre-Dame-de-l'Assomption székesegyház Moundou vallási jelképe.",
@@ -490,9 +444,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Spiritueller Mittelpunkt in Sarh", "Architektonisch markanter Glockenturm", "Wichtiger Ort für gesellschaftliche Feierlichkeiten", "Sichtbares Zeichen der religiösen Praxis", "Bedeutendes architektonisches Monument", "Kulturelles Bindeglied der südlichen Region"]
-    },
+    
     description: {
       de: "Ein bedeutendes Sakralbauwerk in der drittgrößten Stadt des Tschad.",
       hu: "Jelentős szakrális építmény Csád harmadik legnagyobb városában.",
@@ -523,9 +475,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Wichtiger Ort für Kunst und Bildung", "Zentrum für Konzerte und Ausstellungen", "Förderer lokaler Talente und Künstler", "Bibliothek für kulturelle Forschung", "Treffpunkt der jungen tschadischen Kreativszene", "Motor für den kulturellen Dialog"]
-    },
+    
     description: {
       de: "Ein wichtiger Ort für Kunst, Musik und Bildung in der tschadischen Hauptstadt.",
       hu: "A művészet, a zene és az oktatás fontos helyszíne a csádi fővárosban.",
@@ -556,9 +506,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Symbol für die Souveränität des Tschad", "Historischer Kern der Hauptstadt N'Djamena", "Ort für offizielle nationale Paraden", "Zentrales administratives Umfeld", "Sinnbild für nationale Stabilität", "Treffpunkt bei wichtigen staatlichen Zeremonien"]
-    },
+    
     description: {
       de: "Der zentrale Platz von N'Djamena, oft Schauplatz offizieller Paraden.",
       hu: "N'Djamena központi tere, gyakran hivatalos parádék helyszíne.",
@@ -589,9 +537,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Modernstes Luxushotel des Landes", "Zentrum für internationale Geschäftskonferenzen", "Wahrzeichen für den wirtschaftlichen Aufbruch", "Fünf-Sterne-Infrastruktur", "Architektonisches Symbol für Globalisierung", "Wichtiger Ort für internationale Beziehungen"]
-    },
+    
     description: {
       de: "Eines der modernsten und luxuriösesten Gebäude im Tschad.",
       hu: "Csád egyik legmodernebb és legluxusabb épülete.",
@@ -622,9 +568,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Führende Universität des Landes", "Zentrum der nationalen Wissenschaft", "Grundstein für soziale und wirtschaftliche Entwicklung", "Bildungshub für Experten und Führungskräfte", "Markante Architektur im Stadtbild", "Forschungszentrum für lokale Probleme"]
-    },
+    
     description: {
       de: "Die führende akademische Institution des Landes mit markanten Campusgebäuden.",
       hu: "Az ország vezető akadémiai intézménye jellegzetes campusépületekkel.",
@@ -655,9 +599,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Hauptsitz von Rundfunk und Fernsehen", "Technisches Zentrum der nationalen Kommunikation", "Symbol für den Informationsfluss im Land", "Markanter Sendeturm als Orientierungspunkt", "Bedeutend für den demokratischen Prozess", "Zentral für Bildung und Nachrichten"]
-    },
+    
     description: {
       de: "Der Hauptsitz der nationalen Radio- und Fernsehgesellschaft des Tschad.",
       hu: "A csádi nemzeti rádió- és televíziótársaság székhelye.",
@@ -688,9 +630,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Zentraler Sitz der Gesetzgebung", "Architektonisch repräsentatives Gebäude", "Symbol für den demokratischen Prozess", "Pfeiler der staatlichen Stabilität", "Ort für den politischen Dialog im Land", "Wichtiges institutionelles Wahrzeichen"]
-    },
+    
     description: {
       de: "Der Sitz des tschadischen Parlaments, ein architektonisch bedeutendes Gebäude.",
       hu: "A csádi parlament székhelye, építészetileg jelentős épület.",
@@ -721,9 +661,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Offizieller Amtssitz des Präsidenten", "Operatives Machtzentrum der Exekutive", "Prächtige architektonische Wahrnehmung", "Höchste Sicherheitsstufe in N'Djamena", "Repräsentationsort für Staatsangelegenheiten", "Symbol für die staatliche Autorität"]
-    },
+    
     description: {
       de: "Der offizielle Amtssitz und die Residenz des Präsidenten des Tschad.",
       hu: "Csád elnökének hivatalos székhelye és rezidenciája.",
@@ -754,9 +692,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Zentrale Arena für nationale Feierlichkeiten", "Wichtiger Ort für offizielle Militärparaden", "Weitläufiges öffentliches Areal", "Sinnbild für den nationalen Stolz", "Bindeglied zwischen Staat und Bevölkerung", "Symbol für die Feier der nationalen Einheit"]
-    },
+    
     description: {
       de: "Ein großer öffentlicher Platz für nationale Zeremonien und Feste.",
       hu: "Hatalmas nyilvános tér nemzeti ceremóniák és ünnepségek számára.",
@@ -787,9 +723,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Ort des Gedenkens an die Gefallenen", "Künstlerisch anspruchsvolles Monument", "Stätte für offizielle Kranzniederlegungen", "Mahnmal für die Bedeutung des Friedens", "Historisches Zeugnis für nationale Konflikte", "Ort der Besinnung und Ehrerbietung"]
-    },
+    
     description: {
       de: "Ein Denkmal zu Ehren der tschadischen Soldaten, die in Konflikten gefallen sind.",
       hu: "Emlékmű a konfliktusokban elesett csádi katonák tiszteletére.",
@@ -820,9 +754,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Zentrum der muslimischen Gemeinde in Moundou", "Architektonischer Akzent in der zweitgrößten Stadt", "Religiöser Ort für das tägliche Gebet", "Zentraler sozialer Ankerpunkt für Gläubige", "Ort der Besinnung und spirituellen Stabilität", "Wichtiger Teil der religiösen Identität der Stadt"]
-    },
+    
     description: {
       de: "Das wichtigste islamische Gebetshaus in der zweitgrößten Stadt des Landes.",
       hu: "Az ország második legnagyobb városának legfontosabb iszlám imaháza.",
@@ -853,9 +785,7 @@ export const poiExtraChadLandmarksV2: POI[] = [
     factsAdvanced: {
       hu: ["Fontos regionális központ", "Mezőgazdasági csomópont", "Közigazgatási szerep", "Hagyományos közösségi élet", "Kulcsfontosságú áruforgalom", "A régió meghatározó települése"]
     },
-    factsAdvanced: {
-      de: ["Religiöses Bauwerk mit zentraler Bedeutung für Sarh", "Zentrum des sozialen Lebens und des Freitagsgebets", "Klarer Baustil als Ausdruck von Besinnung", "Historisch verwurzeltes religiöses Zentrum", "Bindeglied zwischen Tradition und Moderne", "Ort des gesellschaftlichen Dialogs"]
-    },
+    
     description: {
       de: "Ein zentrales religiöses Bauwerk in Sarh, bekannt für seine Gemeinschaftsarbeit.",
       hu: "Sarh központi vallási építménye, amely közösségi szerepéről ismert.",

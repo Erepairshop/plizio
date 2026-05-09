@@ -313,12 +313,12 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [28.50, -22.50],
     name: { de: "Tuli-Block Rinderzucht", hu: "Tuli-Block szarvasmarha-tenyésztés", ro: "Cresterea vitelor Tuli-Block", en: "Tuli Block Cattle Farming" },
-    description: { de: "Ein Gebiet, das bekannt für seine Rinderproduktion ist.", hu: "Terület, amely híres szarvasmarha-termeléséről.", ro: "O regiune cunoscută pentru producția de vite.", en: "A region known for its cattle production." },
+    description: { de: "Der Tuli Block ist ein wichtiges Gebiet für Rinderhaltung und kommerzielle Landwirtschaft im Osten Botswanas.", hu: "Terület, amely híres szarvasmarha-termeléséről.", ro: "O regiune cunoscută pentru producția de vite.", en: "The Tuli Block is a major cattle-farming area along Botswana's eastern borderlands. It is one of the country's best-known agricultural zones." },
     facts: {
-      de: ["Große Farmen.", "Wirtschaftlich wichtig für die Region."],
+      de: ["Rinderfarmen", "Bewässerte Landwirtschaft", "Tuli-Block-Region"],
       hu: ["Hatalmas farmok.", "Gazdaságilag fontos a régióban."],
       ro: ["Ferme mari.", "Importantă economic pentru regiune."],
-      en: ["Large farms.", "Economically important for the region."]
+      en: ["Cattle farming", "Tuli Block", "Commercial agriculture"]
     },
     descriptionAdvanced: {
       hu: "A(z) tuli-block-cattle-farming-agriculture-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
@@ -351,12 +351,12 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-SE",
     coords: [25.92, -24.65],
     name: { de: "Gaborone Botanischer Garten", hu: "Gaboronei Botanikus Kert", ro: "Grădina Botanică Gaborone", en: "Gaborone Botanical Garden" },
-    description: { de: "Ein schöner Ort, um lokale Pflanzen kennenzulernen.", hu: "Gyönyörű hely a helyi növények megismerésére.", ro: "Un loc frumos pentru a cunoaște plantele locale.", en: "A beautiful place to get to know local plants." },
+    description: { de: "Ein schöner Ort, um lokale Pflanzen kennenzulernen.", hu: "Gyönyörű hely a helyi növények megismerésére.", ro: "Un loc frumos pentru a cunoaște plantele locale.", en: "The Gaborone Botanical Garden is a green public space for learning and recreation. It is a family-friendly city stop with native plants." },
     facts: {
       de: ["Geführte Touren.", "Viele einheimische Arten."],
       hu: ["Vezetett túrák.", "Sok őshonos faj."],
       ro: ["Tururi ghidate.", "Multe specii native."],
-      en: ["Guided tours.", "Many native species."]
+      en: ["Urban garden", "Family visits", "Native plants"]
     },
     descriptionAdvanced: {
       hu: "A(z) gaborone-botanical-garden-kid-landmark-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
@@ -544,10 +544,10 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-SE",
     coords: [25.93, -24.64],
     name: { de: "Gaborone Naturpfad", hu: "Gaboronei tanösvény", ro: "Traseul natural Gaborone", en: "Gaborone Nature Trail" },
-    description: { de: "Ein einfacher Wanderweg für Kinder, um die lokale Flora zu erkunden.", hu: "Könnyű túraútvonal gyerekeknek a helyi flóra felfedezésére.", ro: "Un traseu ușor pentru copii pentru a explora flora locală.", en: "An easy hiking trail for children to explore local flora." },
+    description: { de: "Ein einfacher Wanderweg für Kinder, um die lokale Flora zu erkunden.", hu: "Ez a gaboronei természetjáró útvonal kifejezetten családbarát, könnyű sétára alkalmas hely. A városi környezetben kínál egyszerű szabadtéri élményt a gyerekeknek is.", ro: "Un traseu ușor pentru copii pentru a explora flora locală.", en: "An easy hiking trail for children to explore local flora." },
     facts: {
       de: ["Lehrreiche Schilder.", "Sicher und gepflegt."],
-      hu: ["Oktató táblák.", "Biztonságos és gondozott."],
+      hu: ["Családbarát útvonal", "Gaborone-ban", "Könnyű sétákhoz"],
       ro: ["Panouri educative.", "Sigur și îngrijit."],
       en: ["Educational signs.", "Safe and maintained."]
     },

@@ -25,18 +25,8 @@ export const poiExtraChileNatureV2: POI[] = [
       ro: "Un ecosistem spectaculos de mare altitudine în Anzii chilieni, cu Lacul Chungará și vârfuri vulcanice.",
       en: "A spectacular high-altitude ecosystem in the Chilean Andes with Chungará Lake and volcanic peaks."
     },
-    descriptionAdvanced: {
-      de: "Der Nationalpark Lauca ist ein bedeutendes Hochgebirgsökosystem in den chilenischen Anden, das auf über 4.000 Metern Höhe liegt. Neben dem ikonischen Chungará-See, einem der höchstgelegenen Seen der Welt, zeichnet sich der Park durch seine vulkanischen Gipfel, wie den Parinacota und den Pomerape, aus. Diese Landschaft bietet eine seltene Fauna und Flora, die perfekt an die extremen Bedingungen dieser Höhe angepasst ist.",
-      hu: "A Lauca Nemzeti Park Chile legészakibb részén, az Altiplano (fennsík) területén fekszik, és a világ egyik legmagasabban elhelyezkedő bioszféra-rezervátuma. A park legfőbb vonzereje a Chungará-tó, amely 4500 méter feletti magasságával és kristálytiszta kék vizével lélegzetelállító látványt nyújt, különösen a háttérben magasodó, hófödte Parinacota vulkánnal. A táj zord, de élettel teli: guanakók, vikunyák és rózsaszín flamingók népesítik be a sós mocsarakat és füves pusztákat. Ez a vidék az aymara őslakos kultúra bölcsője is, ahol az apró hegyi falvak és templomok évszázados hagyományokat őriznek. Földrajz K8 – Magashegyi éghajlat és vulkáni formakincs.",
-      ro: "Parcul Național Lauca este situat în extremitatea nordică a Chile, pe platoul înalt Altiplano, la o altitudine ce depășește 4.500 de metri. Vedeta parcului este Lacul Chungará, unul dintre cele mai înalte lacuri din lume, care oferă o reflexie spectaculoasă a vulcanului Parinacota, un con vulcanic perfect acoperit de zăpadă. Peisajul este unul de o frumusețe austeră, dominat de stepe vaste și mlaștini sărate unde trăiesc nestingherite familii de vicuñas, alpaca și flamingo roz. Parcul este recunoscut ca Rezervație a Biosferei UNESCO, protejând ecosisteme fragile de mare altitudine și sate aymara străvechi. Vizitatorii pot explora aici o lume unde cerul pare mai aproape de pământ și aerul este de o puritate rară. Geografie K8 — Climat montan înalt și geomorfologie vulcanică.",
-      en: "Lauca National Park is in northernmost Chile on the Altiplano (plateau), making it one of the world's highest biosphere reserves. The park's main attraction is Chungará Lake, which at over 4,500 meters altitude with crystal-clear blue water offers breathtaking views, especially against the backdrop of the snow-capped Parinacota volcano. The landscape is harsh but vibrant: guanacos, vicuñas, and pink flamingos inhabit the salt marshes and grasslands. This region is also the cradle of the Aymara indigenous culture, with small mountain villages and churches preserving centuries-old traditions. Geography K8 — High mountain climates and volcanic landforms."
-    },
-    factsAdvanced: {
-      de: ["Hochgelegenes Ökosystem auf über 4.000 Metern in den chilenischen Anden.", "Beheimatet den Chungará-See, einen der höchstgelegenen Seen der Erde.", "Prächtige vulkanische Kulisse durch die Gipfel Parinacota und Pomerape.", "An extreme Höhenbedingungen angepasste spezialisierte Flora und Fauna."],
-      hu: ["A Chungará-tó tengerszint feletti magassága 4517 méter", "A Parinacota vulkán 6348 méter magas, tökéletes kúp alakú", "Az UNESCO 1981-ben nyilvánította bioszféra-rezervátummá", "Itt található Chile egyik legmagasabban fekvő települése, Parinacota falu"],
-      ro: ["Lacul Chungará se află la o altitudine de 4.517 metri.", "Vulcanul Parinacota are o înălțime de 6.348 de metri.", "Rezervație a Biosferei UNESCO din anul 1981.", "Include satul Parinacota, una dintre cele mai înalte așezări din Chile."],
-      en: ["Chungará Lake is 4,517 meters above sea level.", "Parinacota volcano is 6,348 meters high and perfectly conical.", "UNESCO Biosphere Reserve since 1981.", "Home to Parinacota village, one of Chile's highest settlements."]
-    },
+    
+    
     facts: {
       de: ["Der Chungará-See liegt über 4.500 m hoch.", "Der Park beheimatet die Vulkane Parinacota und Pomerape."],
       hu: ["A Chungará-tó több mint 4500 méter magasan fekszik.", "A park otthont ad a Parinacota és Pomerape vulkánoknak."],
@@ -66,18 +56,8 @@ export const poiExtraChileNatureV2: POI[] = [
       ro: "O zonă de sălbăticie de renume mondial din regiunea patagoneză, cu vârfuri de granit, ghețari și lacuri.",
       en: "A world-renowned wilderness area in the Patagonian region with granite peaks, glaciers, and lakes."
     },
-    descriptionAdvanced: {
-      de: "Der Nationalpark Torres del Paine ist das Aushängeschild der patagonischen Natur. Das Gebiet besticht durch seine massiven Granittürme, die 'Torres', weitläufige Gletscherfelder wie den Grey-Gletscher und eine Vielzahl von Seen. Als UNESCO-Biosphärenreservat spielt der Park eine zentrale Rolle bei der Erhaltung der patagonischen Flora und Fauna und bietet ein unvergleichliches Naturerlebnis.",
-      hu: "A Torres del Paine Nemzeti Park Patagónia szimbóluma és Chile legnépszerűbb turisztikai célpontja. A park névadói a Paine-tornyok, három monumentális gránitcsúcs, amelyek az ég felé törnek a türkizkék lagúnák felett. A tájat a Paine-masszívum uralja, amelyet az erózió, a szél és az ősi gleccserek formáltak. Itt látható a hatalmas Grey-gleccser, amely a Déli Patagóniai Jégmező része. A park élővilága rendkívül gazdag: guanakók, pumák és andoki kondorkeselyűk élnek itt szabadon. A világ minden tájáról érkeznek túrázók a híres 'W' útvonal bejárására. Földrajz K7 – Gleccserformák és szubantarktikus ökoszisztémák.",
-      ro: "Parcul Național Torres del Paine este cea mai faimoasă destinație naturală a Patagoniei chiliene, un simbol al sălbăticiei neatinse. Parcul poartă numele celor trei colosale turnuri de granit care domină peisajul deasupra lacurilor de un turcoaz ireal. Diversitatea geologică este uimitoare, cuprinzând ghețari masivi, precum Ghețarul Grey, și râuri repezi ce traversează pampasul. Este locul ideal pentru observarea faunei patagoneze, de la turmele de guanaco la maiestuoasa pumă sau condorul andin. Rutele sale de trekking sunt considerate printre cele mai frumoase din lume, atrăgând anual mii de iubitori de aventură în cel mai pur mediu natural. Parcul este protejat ca Rezervație a Biosferei UNESCO pentru valoarea sa ecologică inestimabilă. Geografie K7 — Forme de relief glaciare și ecosisteme subantarctice.",
-      en: "Torres del Paine National Park is the symbol of Patagonia and Chile's most popular tourist destination. The park is named after the 'Towers of Paine,' three monumental granite peaks reaching for the sky above turquoise lagoons. The landscape is dominated by the Paine Massif, shaped by erosion, wind, and ancient glaciers. Here you can see the massive Grey Glacier, part of the Southern Patagonian Ice Field. The park's wildlife is incredibly rich: guanacos, pumas, and Andean condors live freely. Hikers from all over the world come to trek the famous 'W' route. Geography K7 — Glacial landforms and subantarctic ecosystems."
-    },
-    factsAdvanced: {
-      de: ["Weltweit renommiertes Schutzgebiet mit massiven Granittürmen.", "Beheimatet den beeindruckenden Grey-Gletscher innerhalb des südlichen Eisfeldes.", "UNESCO-Biosphärenreservat von herausragender ökologischer Bedeutung.", "Wichtige Anlaufstelle für die Forschung zum Gletscherrückgang in Patagonien."],
-      hu: ["A gránittornyok legmagasabbika 2850 méter magas", "UNESCO bioszféra-rezervátum 1978 óta", "A Grey-gleccser jégfala 30 méter magas", "Évente több mint 250 000 látogató érkezik ide"],
-      ro: ["Cel mai înalt vârf de granit atinge 2.850 de metri.", "Rezervație a Biosferei UNESCO din anul 1978.", "Ghețarul Grey are un perete de gheață înalt de 30 de metri.", "Găzduiește peste 250.000 de turiști în fiecare an."],
-      en: ["The tallest granite tower is 2,850 meters high.", "UNESCO Biosphere Reserve since 1978.", "The Grey Glacier's ice wall is 30 meters high.", "Welcomes over 250,000 visitors annually."]
-    },
+    
+    
     facts: {
       de: ["Die 'Torres' (Türme) sind markante Granitformationen.", "Der Grey-Gletscher ist eine Hauptattraktion."],
       hu: ["A 'Torres' (tornyok) látványos gránitformációk.", "A Grey-gleccser a fő attrakció."],
