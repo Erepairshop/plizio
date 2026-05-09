@@ -1,0 +1,61 @@
+{
+  "lang": "de",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-estancia-la-candelaria-history-v2",
+      "description": "Eine historische jesuitische Estancia, die für ihre Architektur und Geschichte bekannt ist.",
+      "facts": ["Jesuiten-Erbe", "Historisch", "Kulturerbe"]
+    },
+    {
+      "id": "ar-monumento-bandera-history-v2",
+      "description": "Ein monumentales Bauwerk in Rosario, das an die Geschichte der argentinischen Flagge erinnert.",
+      "facts": ["Flaggen-Monument", "Rosario-Stadt", "Nationalsymbol"]
+    },
+    {
+      "id": "ar-cayasta-ruins-history-v2",
+      "description": "Überreste der ursprünglichen Stadtgründung von Santa Fe im 16. Jahrhundert.",
+      "facts": ["Archäologische Stätte", "Santa Fe Ursprung", "16. Jahrhundert"]
+    },
+    {
+      "id": "ar-shincal-quimivil-history-v2",
+      "description": "Ein wichtiges archäologisches Zentrum der Inka-Kultur in der Region Catamarca.",
+      "facts": ["Inka-Ruinen", "Archäologie", "Catamarca"]
+    },
+    {
+      "id": "ar-tastil-ruins-history-v2",
+      "description": "Die Überreste einer präkolumbianischen Stadt auf einer hohen Hochebene in der Region Salta.",
+      "facts": ["Präkolumbianisch", "Salta-Region", "Ruinen"]
+    },
+    {
+      "id": "ar-potrero-payogasta-history-v2",
+      "description": "Eine historische Stätte, die einen Einblick in die Kulturen der Vergangenheit gibt.",
+      "facts": ["Kulturstätte", "Historisch", "Archäologie"]
+    },
+    {
+      "id": "ar-posta-yatasto-history-v2",
+      "description": "Ein historischer Ort, der eine wichtige Rolle in den Unabhängigkeitskriegen spielte.",
+      "facts": ["Unabhängigkeitskriege", "Historische Posta", "Erbe"]
+    },
+    {
+      "id": "ar-iglesia-yavi-history-v2",
+      "description": "Eine alte, gut erhaltene Kirche aus der Kolonialzeit in der Nähe der bolivianischen Grenze.",
+      "facts": ["Kolonial-Kirche", "Yavi-Dorf", "Historisch"]
+    },
+    {
+      "id": "ar-capilla-casabindo-history-v2",
+      "description": "Eine historische Kapelle, die für ihre kulturelle Bedeutung in der Region bekannt ist.",
+      "facts": ["Historische Kapelle", "Kulturerbe", "Casabindo"]
+    },
+    {
+      "id": "ar-fuerte-patagones-history-v2",
+      "description": "Einst eine wichtige Festung, die zur Sicherung der südlichen Gebiete diente.",
+      "facts": ["Historische Festung", "Sicherung Süd", "Patagonien"]
+    }
+  ]
+}

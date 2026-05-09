@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-u-esquel-cities-v2",
+      "description": "A mountain town in the Andes, known for its proximity to Los Alerces National Park and skiing facilities.",
+      "facts": ["Andean town", "National Park gateway", "Skiing destination", "Patagonia region"]
+    },
+    {
+      "id": "ar-x-cordoba-cities-v2",
+      "description": "The second-largest city in Argentina, famous for its colonial buildings and status as a major educational and industrial hub.",
+      "facts": ["Second largest city", "Colonial architecture", "University hub", "Industrial center"]
+    },
+    {
+      "id": "ar-x-rio-cuarto-cities-v2",
+      "description": "An important agricultural and commercial center in southern Córdoba, located on the banks of the Chocancharava River.",
+      "facts": ["Agricultural hub", "Commercial center", "Córdoba region", "Founded 1786"]
+    },
+    {
+      "id": "ar-x-villa-maria-cities-v2",
+      "description": "A growing city in Córdoba, known for its dairy industry and significant cultural and educational presence.",
+      "facts": ["Dairy industry", "Educational center", "Córdoba region", "Growing city"]
+    },
+    {
+      "id": "ar-x-villa-carlos-paz-cities-v2",
+      "description": "A famous tourist city in the Punilla Valley, known for its scenic lake, mountains, and vibrant summer nightlife.",
+      "facts": ["Summer resort", "Punilla Valley", "Lake San Roque", "Tourist hub"]
+    },
+    {
+      "id": "ar-x-san-francisco-cities-v2",
+      "description": "A productive city on the border with Santa Fe, known for its manufacturing and agro-industrial activities.",
+      "facts": ["Manufacturing hub", "Agro-industrial", "Córdoba border", "Productive city"]
+    },
+    {
+      "id": "ar-w-corrientes-cities-v2",
+      "description": "The capital of Corrientes province, situated on the Paraná River, known for its colonial architecture and traditional chamamé music.",
+      "facts": ["Provincial capital", "Paraná River", "Colonial history", "Chamamé music"]
+    },
+    {
+      "id": "ar-w-goya-cities-v2",
+      "description": "A historic riverside city in Corrientes, famous for its annual national surubí fishing tournament.",
+      "facts": ["Fishing tournament", "Riverside city", "Corrientes province", "Historic site"]
+    },
+    {
+      "id": "ar-w-paso-de-los-libres-cities-v2",
+      "description": "A strategic border city on the Uruguay River, connecting Argentina with Uruguaiana in Brazil.",
+      "facts": ["Border city", "Uruguay River", "Brazil connection", "Strategic location"]
+    },
+    {
+      "id": "ar-w-curuzu-cuatia-cities-v2",
+      "description": "A city in Corrientes province known for its carnival celebrations and historical significance.",
+      "facts": ["Carnival town", "Corrientes province", "Historic site", "Cultural hub"]
+    }
+  ]
+}

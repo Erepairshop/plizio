@@ -1,0 +1,76 @@
+
+{
+  "lang": "multi4",
+  "country": "azerbaijan",
+  "files": ["lib/visualLab/data/poiExtraAzerbaijanNatureV2.ts"],
+  "items": [
+    {
+      "id": "absheron-national-park-nature-v2",
+      "descriptionAdvancedDe": "Der Abşeron-Nationalpark, gegründet 2005, liegt an der südöstlichsten Spitze der Abşeron-Halbinsel und schützt eine einzigartige halbtrockene Landschaft. Der Park wurde auf der Basis des Staatlichen Naturschutzgebiets Abşeron geschaffen und erstreckt sich über 783 Hektar. Sein Hauptziel ist der Schutz der Kaspischen Robbe, von Gazellen und verschiedener Wasservögel, die in diesem Gebiet leben oder überwintern. Die Landschaft besteht aus trockenen Steppen und Dünen, die an das Kaspische Meer grenzen. Trotz der Nähe zur Metropole Baku bietet der Park eine Oase der Ruhe und einen wichtigen Lebensraum für die Tierwelt. Er ist ein klares Beispiel für die Bemühungen, die natürliche Vielfalt selbst in den am dichtesten besiedelten Regionen Aserbaidschans zu erhalten.",
+      "descriptionAdvancedHu": "Az Abşeron Nemzeti Parkot 2005-ben hozták létre az Abşeron-félsziget legdélkeletibb csücskén. A 783 hektáros park egy már meglévő természetvédelmi terület alapjain jött létre, célja pedig a félszáraz éghajlatú táj egyedi élővilágának megőrzése. Kiemelt feladata a kaszpi fóka, a golyvás gazella és a területen fészkelő vagy átvonuló vízimadarak védelme. A tájat száraz sztyeppék és homokdűnék jellemzik, amelyek közvetlenül a Kaszpi-tengerrel érintkeznek. Baku közelsége ellenére a park a nyugalom szigete, amely fontos menedéket nyújt az állatvilágnak. A park jól példázza Azerbajdzsán törekvéseit a természeti értékek megőrzésére még az ország legsűrűbben lakott részein is.",
+      "descriptionAdvancedRo": "Parcul Național Absheron, fondat în 2005, este situat la extremitatea sud-estică a Peninsulei Absheron și protejează un peisaj semi-arid unic. Parcul a fost creat pe baza rezervației naturale de stat Absheron și acoperă o suprafață de 783 de hectare. Obiectivul său principal este protejarea faunei locale, inclusiv foca caspică, gazelele și diversele păsări de apă care locuiesc sau iernează în zonă. Peisajul constă din stepe uscate și dune de nisip care se învecinează cu Marea Caspică. În ciuda proximității față de metropola Baku, parcul oferă o oază de liniște și un habitat crucial pentru viața sălbatică, fiind un exemplu clar al eforturilor de conservare a biodiversității în cele mai populate regiuni ale Azerbaidjanului.",
+      "descriptionAdvancedEn": "Absheron National Park, established in 2005, is located at the southeastern tip of the Absheron Peninsula, protecting a unique semi-arid landscape. The park was created on the basis of the Absheron State Nature Preserve and covers an area of 783 hectares. Its primary purpose is the conservation of local fauna, including Caspian seals, gazelles, and various water birds that inhabit or winter in the territory. The landscape consists of dry steppes and coastal dunes bordering the Caspian Sea. Despite its proximity to the Baku metropolis, the park serves as a tranquil natural refuge and a critical habitat for wildlife. It exemplifies Azerbaijan's commitment to preserving biodiversity even in its most densely populated regions.",
+      "factsAdvanced": [
+        "2005-ben alapították.",
+        "Területe 783 hektár.",
+        "Az Abşeron-félsziget csücskén található.",
+        "Félszáraz sztyepp és dűnés táj jellemzi.",
+        "A kaszpi fóka fontos élőhelye.",
+        "Gazellák és vízimadarak is élnek itt.",
+        "Baku közelsége ellenére fontos menedékhely.",
+        "Egy korábbi természetvédelmi területből jött létre."
+      ]
+    },
+    {
+      "id": "ag-gel-national-park-nature-v2",
+      "descriptionAdvancedDe": "Der Ağgöl-Nationalpark, im Kura-Araz-Tiefland gelegen, ist eines der wichtigsten Feuchtgebiete Westasiens. Der Park wurde 2003 auf einer Fläche von 17.924 Hektar gegründet, um das international bedeutende Ökosystem des Ağgöl-Sees zu schützen. Das Gebiet wurde bereits 2001 als Ramsar-Feuchtgebiet von internationaler Bedeutung anerkannt. Es ist ein entscheidender Rast- und Brutplatz für unzählige Zugvögel auf der eurasisch-afrikanischen Flugroute. Jedes Jahr überwintern hier Hunderttausende Vögel, darunter Flamingos, Pelikane, Schwäne und verschiedene Entenarten. Der Park besteht hauptsächlich aus dem flachen, salzhaltigen Ağgöl-See und den umliegenden Sümpfen und Schilfgürteln, die eine reiche aquatische Fauna und Flora unterstützen.",
+      "descriptionAdvancedHu": "Az Ağgöl Nemzeti Park a Kura-Arasz-alföldön fekszik és Nyugat-Ázsia egyik legfontosabb vizes élőhelye. A parkot 2003-ban hozták létre 17 924 hektáron, hogy megvédjék az Ağgöl-tó nemzetközi jelentőségű ökoszisztémáját. A területet már 2001-ben felvették a Ramsari egyezmény listájára, mint nemzetközileg is elismert vizes élőhelyet. Kulcsfontosságú pihenő- és fészkelőhely az eurázsiai-afrikai madárvonulási útvonalon. Évente madarak százezrei, köztük flamingók, pelikánok, hattyúk és különféle récék telelnek itt. A park nagy részét a sekély, sós Ağgöl-tó, valamint az azt körülvevő mocsarak és nádasok alkotják, amelyek gazdag vízi élővilágnak adnak otthont.",
+      "descriptionAdvancedRo": "Parcul Național Ag-Gel, situat în Câmpia Kura-Araz, este una dintre cele mai importante zone umede din Asia de Vest. Parcul a fost înființat în 2003 pe o suprafață de 17.924 de hectare pentru a proteja ecosistemul de importanță internațională al lacului Ag-Gel. Zona a fost recunoscută ca zonă umedă de importanță internațională Ramsar încă din 2001. Este un loc crucial de odihnă și cuibărit pentru nenumărate păsări migratoare pe ruta Eurasia-Africa. Sute de mii de păsări, inclusiv flamingo, pelicani, lebede și diverse specii de rațe, iernează aici în fiecare an. Parcul constă în principal din lacul sărat și puțin adânc Ag-Gel și din mlaștinile și stufărișurile înconjurătoare.",
+      "descriptionAdvancedEn": "Ag-Gel National Park, located in the Kura-Araz Lowland, is one of Western Asia's most significant wetland ecosystems. The park was established in 2003, covering 17,924 hectares, to protect the globally important habitat of Lake Ag-Gel. The area was designated as a Ramsar Wetland of International Importance in 2001. It serves as a critical stopover and breeding ground for countless migratory birds along the Eurasian-African flyway. Hundreds of thousands of birds, including flamingos, pelicans, swans, and various duck species, winter here annually. The park is centered around the shallow, brackish Lake Ag-Gel, surrounded by extensive marshes and reed beds that support a rich aquatic biodiversity.",
+      "factsAdvanced": [
+        "A Kura-Arasz-alföldön található.",
+        "Területe 17 924 hektár.",
+        "2001 óta Ramsari-terület.",
+        "Nyugat-Ázsia egyik legfontosabb vizes élőhelye.",
+        "Kulcsfontosságú madárvonulási pihenőhely.",
+        "Flamingók és pelikánok is telelnek itt.",
+        "Központja a sekély, sós Ağgöl-tó.",
+        "Gazdag vízi élővilággal rendelkezik."
+      ]
+    },
+    {
+      "id": "lake-aggol-nature-v2",
+      "descriptionAdvancedDe": "Der Ağgöl, was „Weißer See“ bedeutet, ist das Herzstück des gleichnamigen Nationalparks. Dieser flache, salzhaltige See im Kura-Araz-Tiefland ist für seine immense ornithologische Bedeutung bekannt. Sein Name leitet sich vermutlich von der weißen, salzigen Kruste ab, die sich an seinen Ufern in den trockenen Monaten bildet. Der See wird hauptsächlich vom Fluss Kura gespeist und seine Wasserfläche schwankt je nach Jahreszeit erheblich. Umgeben von ausgedehnten Schilfgürteln und Sumpfgebieten, bietet der See ideale Bedingungen für eine Vielzahl von Wasservögeln, die hier nisten, rasten oder überwintern. Er ist auch ein wichtiger Lebensraum für verschiedene Fischarten, die an das brackige Wasser angepasst sind, und spielt eine entscheidende Rolle im ökologischen Gleichgewicht der gesamten Region.",
+      "descriptionAdvancedHu": "Az Ağgöl-tó, vagyis a „Fehér-tó”, a róla elnevezett nemzeti park központi eleme. Ez a sekély, sós vizű tó a Kura-Arasz-alföldön fekszik és hatalmas ornitológiai jelentőséggel bír. Nevét valószínűleg a partjain a száraz hónapokban képződő fehér sókéregről kapta. A tavat főként a Kura folyó táplálja, vízszintje pedig az évszaktól függően jelentősen ingadozik. A tavat kiterjedt nádasok és mocsarak veszik körül, amelyek ideális feltételeket biztosítanak a fészkelő, pihenő és telelő vízimadarak sokaságának. Emellett fontos élőhelyet jelent számos, a félsós vízhez alkalmazkodott halfaj számára is, és kulcsszerepet játszik az egész régió ökológiai egyensúlyában.",
+      "descriptionAdvancedRo": "Lacul Aggol, însemnând „Lacul Alb”, este piesa centrală a parcului național omonim. Acest lac salin și puțin adânc din Câmpia Kura-Araz este cunoscut pentru importanța sa ornitologică imensă. Numele său provine probabil de la crusta albă de sare care se formează pe malurile sale în lunile secetoase. Lacul este alimentat în principal de râul Kura, iar suprafața sa variază considerabil în funcție de anotimp. Înconjurat de stufărișuri extinse și zone mlăștinoase, lacul oferă condiții ideale pentru o multitudine de păsări acvatice care cuibăresc, se odihnesc sau iernează aici. De asemenea, este un habitat important pentru diverse specii de pești adaptate la apa salmastră și joacă un rol crucial în echilibrul ecologic al întregii regiuni.",
+      "descriptionAdvancedEn": "Lake Aggol, meaning 'White Lake,' is the centerpiece of the national park that bears its name. This shallow, brackish lake in the Kura-Araz Lowland is renowned for its immense ornithological importance. Its name is thought to derive from the white, salty crust that forms on its shores during the dry months. The lake is fed primarily by the Kura River, and its water level fluctuates significantly depending on the season. Surrounded by vast reed beds and marshlands, the lake provides ideal conditions for a multitude of water birds that nest, rest, or winter here. It is also a vital habitat for various fish species adapted to brackish water and plays a crucial role in the ecological balance of the entire region.",
+      "factsAdvanced": [
+        "Jelentése: Fehér-tó.",
+        "Az Ağgöl Nemzeti Park központja.",
+        "Sekély, sós vizű tó.",
+        "Főként a Kura folyó táplálja.",
+        "Vízszintje évszakosan ingadozik.",
+        "Hatalmas nádasok veszik körül.",
+        "Fontos fészkelő- és telelőhely vízimadarak számára.",
+        "Több halfajnak is otthont ad."
+      ]
+    },
+    {
+      "id": "gizilagach-national-park-nature-v2",
+      "descriptionAdvancedDe": "Der Qızılağac-Nationalpark, gegründet 2018 auf der Basis eines älteren staatlichen Reservats, ist ein riesiges Küstenfeuchtgebiet im Süden Aserbaidschans. Der Park erstreckt sich über 99.060 Hektar und umfasst die große Qızılağac-Bucht sowie die umliegenden Marsch- und Halbwüstenlandschaften. Dieses Gebiet ist als Ramsar-Feuchtgebiet von globaler Bedeutung anerkannt und dient als einer der wichtigsten Überwinterungsplätze für Zugvögel in Westasien. Jedes Jahr versammeln sich hier Millionen von Vögeln, darunter Flamingos, Pelikane, Gänse und Schwäne. Die flachen, nährstoffreichen Gewässer der Bucht sind auch eine entscheidende Kinderstube für viele Fischarten, einschließlich mehrerer wertvoller Störarten, was dem Park eine immense wirtschaftliche und ökologische Bedeutung verleiht.",
+      "descriptionAdvancedHu": "A Qızılağac Nemzeti Parkot 2018-ban hozták létre egy régebbi állami rezervátum alapjain, és egy hatalmas part menti vizes élőhelyet foglal magában Azerbajdzsán déli részén. A 99 060 hektáros park magában foglalja a nagy Qızılağac-öblöt és az azt körülvevő mocsár- és félsivatagi területeket. A terület globális jelentőségű Ramsari-helyszín, és Nyugat-Ázsia egyik legfontosabb telelőhelye a vonuló madarak számára. Évente madarak milliói, köztük flamingók, pelikánok, ludak és hattyúk gyűlnek itt össze. Az öböl sekély, tápanyagban gazdag vizei emellett döntő fontosságúak számos halfaj, köztük több értékes tokfaj ivadéknevelő helyeként, ami a parknak óriási gazdasági és ökológiai jelentőséget kölcsönöz.",
+      "descriptionAdvancedRo": "Parcul Național Gizilagach, înființat în 2018 pe baza unei rezervații de stat mai vechi, este o zonă umedă de coastă masivă în sudul Azerbaidjanului. Parcul se întinde pe 99.060 de hectare și include marele Golf Gizilagach, precum și mlaștinile și peisajele semi-deșertice înconjurătoare. Această zonă este recunoscută ca zonă umedă Ramsar de importanță globală și servește drept unul dintre cele mai importante locuri de iernare pentru păsările migratoare din Asia de Vest. Milioane de păsări, inclusiv flamingo, pelicani, gâște și lebede, se adună aici în fiecare an. Apele puțin adânci și bogate în nutrienți ale golfului sunt, de asemenea, o pepinieră crucială pentru multe specii de pești, inclusiv mai multe specii valoroase de sturioni.",
+      "descriptionAdvancedEn": "Gizilagach National Park, established in 2018 from an older state reserve, is a vast coastal wetland in southern Azerbaijan. Covering 99,060 hectares, the park includes the large Gizilagach Bay and surrounding marshlands and semi-desert landscapes. This area is recognized as a Ramsar wetland of global importance, serving as one of the most critical wintering grounds for migratory birds in Western Asia. Millions of birds, including flamingos, pelicans, geese, and swans, congregate here each year. The shallow, nutrient-rich waters of the bay are also a crucial nursery for many fish species, including several valuable species of sturgeon, giving the park immense economic and ecological significance.",
+      "factsAdvanced": [
+        "2018-ban alapították egy régebbi rezervátumra.",
+        "Területe 99 060 hektár.",
+        "Globális jelentőségű Ramsari-terület.",
+        "Madarak millióinak telelőhelye.",
+        "A Qızılağac-öböl köré épül.",
+        "Flamingók és pelikánok is megfigyelhetők itt.",
+        "Fontos ivadéknevelő hely a halak számára.",
+        "A tokfélék megőrzésében is szerepet játszik."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lang": "en",
+  "country": "Bangladesh",
+  "files": [
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBangladeshLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bangabandhu-safari-park-life-v2",
+      "description": "A vast safari park offering visitors a chance to see various wildlife species in a naturalistic habitat.",
+      "facts": ["Wildlife sanctuary", "Educational tourism", "Eco-friendly park", "Regional attraction"]
+    },
+    {
+      "id": "dhaka-shishu-park-life-v2",
+      "description": "A popular public amusement park in Dhaka, primarily designed for children's entertainment and recreation.",
+      "facts": ["Child-focused park", "Located in central Dhaka", "Public recreation space", "Popular landmark"]
+    },
+    {
+      "id": "hatirjheel-life-v2",
+      "description": "A major urban development project in Dhaka, providing a scenic lake and recreational space for city residents.",
+      "facts": ["Scenic lake project", "Urban recreation hub", "Modern architecture", "Public park"]
+    },
+    {
+      "id": "fantasy-kingdom-life-v2",
+      "description": "An amusement and theme park located on the outskirts of Dhaka, offering various rides and attractions.",
+      "facts": ["Major theme park", "Family destination", "Extensive park facilities", "Popular weekend spot"]
+    },
+    {
+      "id": "nandan-park-life-v2",
+      "description": "A well-known amusement park offering diverse rides and water-based activities for families.",
+      "facts": ["Amusement park", "Water park activities", "Family-friendly", "Recreational site"]
+    }
+  ]
+}

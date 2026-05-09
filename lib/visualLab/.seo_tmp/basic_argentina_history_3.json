@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-palacio-san-jose-history-v2",
+      "description": "The historical residence of Justo José de Urquiza, a key figure in Argentina's constitutional development.",
+      "facts": ["Historical residence", "Urquiza's home", "Entre Ríos", "19th century"]
+    },
+    {
+      "id": "ar-casa-virrey-liniers-history-v2",
+      "description": "A historic colonial house associated with Viceroy Santiago de Liniers, reflecting colonial history.",
+      "facts": ["Colonial house", "Viceroy Liniers", "Buenos Aires", "Historic landmark"]
+    },
+    {
+      "id": "ar-casa-sarmiento-history-v2",
+      "description": "The birthplace and historical home of Domingo Faustino Sarmiento, a former Argentine president.",
+      "facts": ["Sarmiento birthplace", "San Juan province", "National figure", "Historic site"]
+    },
+    {
+      "id": "ar-cabildo-salta-history-v2",
+      "description": "A well-preserved colonial building that functioned as the administrative center in Salta.",
+      "facts": ["Colonial building", "Salta province", "Administrative center", "Historic landmark"]
+    },
+    {
+      "id": "ar-convento-san-bernardo-history-v2",
+      "description": "A historic convent in Salta, showcasing impressive colonial architecture and religious heritage.",
+      "facts": ["Historic convent", "Salta province", "Colonial architecture", "Religious site"]
+    },
+    {
+      "id": "ar-ruinas-tolombon-history-v2",
+      "description": "Archaeological ruins in the Salta region, reflecting the lifestyle of indigenous cultures.",
+      "facts": ["Archaeological site", "Salta region", "Indigenous ruins", "Historic past"]
+    },
+    {
+      "id": "ar-pucara-aconquija-history-v2",
+      "description": "A mountain fortress demonstrating advanced indigenous engineering in the Catamarca region.",
+      "facts": ["Mountain fortress", "Catamarca region", "Inca heritage", "Archaeological site"]
+    },
+    {
+      "id": "ar-los-menhires-history-v2",
+      "description": "A collection of ancient carved stones, significant for its pre-colonial cultural and artistic value.",
+      "facts": ["Carved stones", "Pre-colonial art", "Tucumán region", "Indigenous history"]
+    },
+    {
+      "id": "ar-capilla-huerfanos-history-v2",
+      "description": "A historic chapel with religious and community importance, reflecting colonial social structures.",
+      "facts": ["Historic chapel", "Córdoba region", "Colonial period", "Community landmark"]
+    },
+    {
+      "id": "ar-reduccion-yapeyu-history-v2",
+      "description": "The birthplace of General José de San Martín, a site of immense historical pride for Argentina.",
+      "facts": ["San Martín birthplace", "Corrientes province", "Jesuit history", "National symbol"]
+    }
+  ]
+}

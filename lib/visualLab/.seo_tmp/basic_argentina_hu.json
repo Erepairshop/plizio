@@ -1,0 +1,61 @@
+{
+  "lang": "hu",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-c-buenos-aires-cities-v2",
+      "description": "Argentína fővárosa, a Rio de la Plata partján fekvő nyüzsgő metropolisz.",
+      "facts": ["Lakosság: ~3 millió", "Kulturális központ", "Tango szülőhelye"]
+    },
+    {
+      "id": "ar-b-la-plata-cities-v2",
+      "description": "Buenos Aires tartomány székhelye, híres sakktábla alaprajzáról.",
+      "facts": ["Alapítva: 1882", "Neoklasszikus építészet", "Egyetemi város"]
+    },
+    {
+      "id": "ar-b-mar-del-plata-cities-v2",
+      "description": "Argentína legnépszerűbb tengerparti üdülővárosa az Atlanti-óceán partján.",
+      "facts": ["Turisztikai központ", "Híres strandok", "Halászati kikötő"]
+    },
+    {
+      "id": "ar-b-bahia-blanca-cities-v2",
+      "description": "Fontos kikötőváros Argentína déli részén, a mezőgazdaság központja.",
+      "facts": ["Kereskedelmi kapu", "Jelentős kikötő", "Vasúti csomópont"]
+    },
+    {
+      "id": "ar-b-tandil-cities-v2",
+      "description": "Festői hegyvidéki város, a Tandilia-hegység központja.",
+      "facts": ["Híres kőépítmények", "Turisztikai célpont", "Mezőgazdasági régió"]
+    },
+    {
+      "id": "ar-b-quilmes-cities-v2",
+      "description": "Nagyváros Buenos Aires agglomerációjában, gazdag ipari múlttal.",
+      "facts": ["Sörgyártásáról híres", "Ipari központ", "Nagy lakosság"]
+    },
+    {
+      "id": "ar-b-lomas-de-zamora-cities-v2",
+      "description": "Lélekszámban gazdag település a nagy Buenos Aires-i övezetben.",
+      "facts": ["Lakóövezeti jelleg", "Kereskedelmi központ", "Aktív közösség"]
+    },
+    {
+      "id": "ar-b-san-isidro-cities-v2",
+      "description": "Előkelő település Buenos Aires északi részén, a folyópart mentén.",
+      "facts": ["Gyönyörű villák", "Hajózási központ", "Zöldövezeti"]
+    },
+    {
+      "id": "ar-b-san-nicolas-de-los-arroyos-cities-v2",
+      "description": "Fontos ipari város a Paraná-folyó partján.",
+      "facts": ["Acélipar központja", "Folyami kikötő", "Történelmi jelentőség"]
+    },
+    {
+      "id": "ar-b-lanus-cities-v2",
+      "description": "Sűrűn lakott ipari város közvetlenül Buenos Aires mellett.",
+      "facts": ["Ipari övezet", "Erős városi élet", "Kereskedelmi központ"]
+    }
+  ]
+}

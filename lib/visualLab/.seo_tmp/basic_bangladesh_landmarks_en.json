@@ -1,0 +1,14 @@
+{
+  "lang": "en",
+  "country": "Bangladesh",
+  "files": [
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBangladeshLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bd-central-railway-building-landmarks-v2",
+      "description": "A prominent colonial-era administrative building in Chittagong, serving as a historic landmark.",
+      "facts": ["Colonial architecture", "Administrative history", "Located in Chittagong", "Historic site"]
+    }
+  ]
+}

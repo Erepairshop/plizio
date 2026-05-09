@@ -1,0 +1,43 @@
+{
+  "lang": "hu",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ntsweng-heritage-site-history-v2",
+      "description": "A Ntsweng örökségi helyszín a helyi településtörténet és a közösségi emlékezet részét őrzi. A terület a hagyományos botswanai múlt egyik fontos nyoma.",
+      "facts": ["Örökségi helyszín", "Településtörténet", "Közösségi emlékezet"]
+    },
+    {
+      "id": "kanye-kgotla-history-v2",
+      "description": "A Kanye kgotla a hagyományos közösségi tanácskozás és igazságszolgáltatás helye. A hely a város társadalmi és történeti központi tere volt.",
+      "facts": ["Kanye-ban", "Hagyományos gyűléshely", "Közösségi döntéshozatal"]
+    },
+    {
+      "id": "francistown-old-gold-mines-history-v2",
+      "description": "Francistown régi aranybányái a város korai fejlődésének alapját adták. A bányászati múlt a település történetének egyik legfontosabb fejezete.",
+      "facts": ["Aranybányászati múlt", "A város eredete", "Közép-északi Botswana"]
+    },
+    {
+      "id": "orapa-diamond-mine-monument-history-v2",
+      "description": "Az orapai gyémántbánya emlékműve a bányavidék kialakulásának történetére utal. Az emlékhely a modern botswanai gyémántipar kezdetét idézi fel.",
+      "facts": ["Orapa története", "Gyémántipari emlék", "Bányavidéki jelkép"]
+    },
+    {
+      "id": "baratani-hill-history-v2",
+      "description": "A Baratani-domb a helyi tájhoz kötődő történeti pontként ismert. A domb a közösségi emlékezetben őrzött, egyszerű, de fontos tájelem.",
+      "facts": ["Dombvidéki helyszín", "Helyi emlékezet", "Történeti táj"]
+    },
+    {
+      "id": "kasane-baobab-history-v2",
+      "description": "A kasanei baobab egy régi, emlékezetes fa, amelyhez helyi történetek és útjelző szerep kapcsolódik. A fa a térség múltjának élő jelképe.",
+      "facts": ["Kasane-ban", "Ősi baobab", "Helyi történetek"]
+    }
+  ]
+}

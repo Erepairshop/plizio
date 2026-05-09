@@ -1,0 +1,49 @@
+{
+  "lang": "hu",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bolivia-cordillera-real-relief-v2",
+      "description": "Az Andok látványos, hófödte hegyvonulata, amely Bolívia felföldje felett magasodik.",
+      "facts": ["Andok", "Hegyvonulat", "Felföld"]
+    },
+    {
+      "id": "bolivia-cordillera-occidental-relief-v2",
+      "description": "A nyugati hegyvonulat, amely Bolívia és Chile természetes határát alkotja.",
+      "facts": ["Nyugati hegyvonulat", "Természetes határ", "Andok"]
+    },
+    {
+      "id": "bolivia-altiplano-andino-relief-v2",
+      "description": "A hatalmas, nagy magasságban fekvő fennsík, az andoki kultúrák bölcsője.",
+      "facts": ["Magas fennsík", "Andoki kultúrák", "Földrajzi régió"]
+    },
+    {
+      "id": "bolivia-llanos-de-moxos-relief-v2",
+      "description": "Kiterjedt síkság és vizes élőhely az ország északi részén.",
+      "facts": ["Síkság", "Vizes élőhely", "Észak-Bolívia"]
+    },
+    {
+      "id": "bolivia-bosque-seco-chiquitano-relief-v2",
+      "description": "Egyedi trópusi száraz erdő régió a bolíviai keleten.",
+      "facts": ["Trópusi száraz erdő", "Kelet-Bolívia", "Ökoszisztéma"]
+    },
+    {
+      "id": "bolivia-cerro-zapaleri-relief-v2",
+      "description": "Hegyi csúcs az ország déli részén, a hármas határ közelében.",
+      "facts": ["Hegycsúcs", "Dél-Bolívia", "Hármas határ"]
+    },
+    {
+      "id": "bolivia-meseta-de-caparu-relief-v2",
+      "description": "Látványos fennsík és természetvédelmi övezet az ország keleti részén.",
+      "facts": ["Fennsík", "Természetvédelmi övezet", "Kelet-Bolívia"]
+    },
+    {
+      "id": "bolivia-cordillera-de-lipez-relief-v2",
+      "description": "Sivatagos és hegyvidéki táj Bolívia délnyugati részén.",
+      "facts": ["Sivatagi táj", "Délnyugat-Bolívia", "Hegyvidék"]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lang": "en",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLifeV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-c-buenos-aires-cities-v2",
+      "description": "The capital and largest city of Argentina, known for its European-style architecture and vibrant tango scene.",
+      "facts": ["National capital", "Major port city", "Tango birthplace", "High population density"]
+    },
+    {
+      "id": "ar-b-la-plata-cities-v2",
+      "description": "A planned city known for its unique grid pattern, diagonal avenues, and iconic neo-Gothic cathedral.",
+      "facts": ["Capital of Buenos Aires Province", "Planned city", "Diagonal grid pattern", "Stunning cathedral"]
+    },
+    {
+      "id": "ar-b-mar-del-plata-cities-v2",
+      "description": "Argentina's premier seaside resort city, famous for its extensive sandy beaches and busy harbor.",
+      "facts": ["Atlantic coast", "Major summer resort", "Fishing industry hub", "Iconic casino"]
+    },
+    {
+      "id": "ar-b-bahia-blanca-cities-v2",
+      "description": "A significant port city and industrial center located in southern Buenos Aires Province.",
+      "facts": ["Deep-water port", "Industrial hub", "Patagonia gateway", "Founded 1828"]
+    },
+    {
+      "id": "ar-b-tandil-cities-v2",
+      "description": "A scenic city nestled in the Tandilia mountain range, famous for its hilly landscapes and salami production.",
+      "facts": ["Hilly terrain", "Gastronomic tourism", "Agricultural center", "Mountain resort"]
+    },
+    {
+      "id": "ar-b-quilmes-cities-v2",
+      "description": "A historic industrial city located within the Greater Buenos Aires metropolitan area.",
+      "facts": ["Historic settlement", "Major brewery center", "River Plate access", "Industrial area"]
+    },
+    {
+      "id": "ar-b-lomas-de-zamora-cities-v2",
+      "description": "A densely populated city known for its residential character and significant urban development in Greater Buenos Aires.",
+      "facts": ["Urban residential", "Greater Buenos Aires", "Commercial hub", "Parks and gardens"]
+    },
+    {
+      "id": "ar-b-san-isidro-cities-v2",
+      "description": "An affluent northern suburb of Buenos Aires, known for its colonial heritage and riverside mansions.",
+      "facts": ["Colonial architecture", "Riverside location", "Affluent suburb", "Historic cathedral"]
+    },
+    {
+      "id": "ar-b-san-nicolas-de-los-arroyos-cities-v2",
+      "description": "A strategic city on the Paraná River, known for its steel industry and significant religious shrine.",
+      "facts": ["Paraná River", "Steel manufacturing", "Religious site", "Strategic position"]
+    },
+    {
+      "id": "ar-b-lanus-cities-v2",
+      "description": "A bustling industrial and residential city, serving as a key transit point in the southern suburbs.",
+      "facts": ["Metropolitan area", "Transit hub", "Industrial zone", "Dense population"]
+    }
+  ]
+}

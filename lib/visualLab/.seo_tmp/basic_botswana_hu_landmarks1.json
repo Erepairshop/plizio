@@ -1,0 +1,73 @@
+{
+  "lang": "hu",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gaborone-three-dikgosi-monument-landmarks-v2",
+      "description": "A Three Dikgosi Monument Gaborone egyik legismertebb városi jelképe. A három főnök szobrai egyszerre emlékművek és a főváros központi tájékozódási pontjai.",
+      "facts": ["Gaborone központja", "Három főnök szobra", "Nemzeti emlékhely"]
+    },
+    {
+      "id": "gaborone-sadc-headquarters-landmarks-v2",
+      "description": "A SADC központja a regionális együttműködés fontos gaboronei épülete. Diplomáciai és intézményi jelenléte miatt kiemelt városi pont.",
+      "facts": ["Regionális szervezet", "Gaborone-ban", "Diplomáciai negyed"]
+    },
+    {
+      "id": "gaborone-itowers-landmarks-v2",
+      "description": "Az iTowers modern magasépületei a gaboronei városkép meghatározó elemei. Az épületegyüttes a főváros kortárs gazdasági arculatát jelzi.",
+      "facts": ["Magasépület-együttes", "Modern városkép", "Gaborone központja"]
+    },
+    {
+      "id": "kazungula-bridge-landmarks-v2",
+      "description": "A Kazungula híd a Zambezi fölött teremt közvetlen kapcsolatot Botswana és Zambia között. A híd a regionális közlekedés egyik legfontosabb új mérnöki létesítménye.",
+      "facts": ["Botswana és Zambia között", "2021-ben nyílt meg", "Zambezin átível"]
+    },
+    {
+      "id": "francistown-obed-itani-chilume-stadium-landmarks-v2",
+      "description": "Az Obed Itani Chilume Stadion Francistown egyik fő sportlétesítménye. A városi és országos futballesemények fontos helyszíne.",
+      "facts": ["Francistown-ban", "Nagy stadion", "Sportesemények helyszíne"]
+    },
+    {
+      "id": "gaborone-national-assembly-landmarks-v2",
+      "description": "A National Assembly épülete a botswanai törvényhozás központja. A főváros egyik legfontosabb intézményi épületeként a politikai élethez kapcsolódik.",
+      "facts": ["Parlamenti épület", "Gaborone-ban", "Törvényhozás központja"]
+    },
+    {
+      "id": "gaborone-innovation-hub-landmarks-v2",
+      "description": "A Gaborone Innovation Hub az induló vállalkozások és kutatási kezdeményezések találkozóhelye. A technológiai és gazdasági modernizáció egyik fő városi helyszíne.",
+      "facts": ["Start-up támogatás", "Technológiai központ", "Gaborone-ban"]
+    },
+    {
+      "id": "gaborone-christ-the-king-cathedral-landmarks-v2",
+      "description": "A Christ the King Cathedral Gaborone egyik legfontosabb vallási épülete. A katolikus közösség számára meghatározó szakrális pont.",
+      "facts": ["Katedrális", "Katolikus templom", "Gaborone vallási központja"]
+    },
+    {
+      "id": "gaborone-orapa-house-landmarks-v2",
+      "description": "Az Orapa House a botswanai gyémántipar egyik ismert gaboronei épülete. A modern irodaépület a nyersgyémánt-értéklánc városi központjához kötődik.",
+      "facts": ["Gyémántipari épület", "Gaborone-ban", "Ikonikus irodaépület"]
+    },
+    {
+      "id": "gaborone-gicc-landmarks-v2",
+      "description": "A GICC a főváros egyik legfontosabb konferencia- és rendezvényhelyszíne. A modern eseményközpont a nemzetközi találkozókhoz is kapcsolódik.",
+      "facts": ["Konferenciaközpont", "Rendezvényhelyszín", "Gaborone-ban"]
+    },
+    {
+      "id": "lobatse-high-court-landmarks-v2",
+      "description": "A Lobatse High Court az igazságszolgáltatás egyik kiemelt botswanai épülete. A város jogi és intézményi szerepét hangsúlyozza.",
+      "facts": ["Bírósági épület", "Lobatse-ban", "Jogi intézmény"]
+    },
+    {
+      "id": "gaborone-national-museum-landmarks-v2",
+      "description": "A National Museum Gaborone központi kulturális intézményei közé tartozik. Az épület a múzeumi és örökségvédelmi funkciók városi pontja.",
+      "facts": ["Nemzeti múzeum", "Gaborone-ban", "Kulturális intézmény"]
+    }
+  ]
+}

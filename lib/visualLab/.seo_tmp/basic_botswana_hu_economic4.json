@@ -1,0 +1,23 @@
+{
+  "lang": "hu",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lerala-diamond-mine-economic-v2",
+      "description": "A Lerala gyémántbánya a kelet-botswanai gyémántkitermelés egyik ismert helyszíne. A kisebb bányák közé tartozik, de fontos része a helyi ipari térnek.",
+      "facts": ["Gyémántbánya", "Kelet-Botswana", "Bányászati helyszín"]
+    },
+    {
+      "id": "tati-nickel-mine-economic-v2",
+      "description": "A Tati nikkelbánya Francistown térségének réz-nikkel bányászati múltjához kapcsolódik. A telep a északkeleti bányavidék ipari arculatát erősíti.",
+      "facts": ["Nikkelkitermelés", "Francistown környéke", "Északkeleti bányavidék"]
+    }
+  ]
+}

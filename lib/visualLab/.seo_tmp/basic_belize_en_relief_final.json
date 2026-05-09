@@ -1,0 +1,29 @@
+{
+  "lang": "en",
+  "country": "Belize",
+  "files": [
+    "lib/visualLab/data/poiExtraBelizeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mullins-river-hills-relief-v2",
+      "description": "Hilly terrain located near the Mullins River in central Belize.",
+      "facts": ["Central Belize", "Mullins River", "Hilly landscape"]
+    },
+    {
+      "id": "sibun-river-hills-relief-v2",
+      "description": "Hilly areas following the Sibun River, known for its scenic river valley.",
+      "facts": ["Sibun River", "River valley", "Hilly terrain"]
+    },
+    {
+      "id": "blue-creek-hills-relief-v2",
+      "description": "Elevated hills situated near Blue Creek in the Toledo District.",
+      "facts": ["Toledo District", "Blue Creek", "Elevated hills"]
+    },
+    {
+      "id": "toledo-coastal-hills-relief-v2",
+      "description": "Hilly coastal landscapes in the southern Toledo District of Belize.",
+      "facts": ["Toledo District", "Coastal hills", "Southern relief"]
+    }
+  ]
+}

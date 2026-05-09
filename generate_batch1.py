@@ -1,320 +1,80 @@
 import json
 
 data = {
-  "lang": "en",
-  "country": "guinea",
-  "files": [
-    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraGuineaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraGuineaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraGuineaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraGuineaLifeV2.ts",
-    "lib/visualLab/data/poiExtraGuineaNatureV2.ts",
-    "lib/visualLab/data/poiExtraGuineaReliefV2.ts"
-  ],
+  "lang": "multi4",
+  "country": "azerbaijan",
+  "files": ["lib/visualLab/data/poiExtraAzerbaijanReliefV2.ts"],
   "items": [
     {
-      "id": "kindia-cities-v2",
-      "descriptionAdvanced": "Located approximately 137 kilometers northeast of Conakry, Kindia serves as the administrative headquarters of the Kindia Region in western Guinea. Established around 1904 following the construction of the Conakry-Kankan railway, the city quickly grew as an agricultural hub, particularly known for its extensive pineapple, banana, and citrus plantations. The urban center lies near the foot of Mount Gangan, providing a dramatic backdrop and a cooler microclimate than the coastal capital. Kindia is characterized by its vibrant markets, such as the Wondy market, where local farmers trade fresh produce daily. The region is also significant for its bauxite mining activities, which contribute heavily to the national economy alongside agriculture. Kindia's diverse population mainly comprises the Susu and Fulani ethnic groups, creating a rich cultural tapestry. Geography K7 — African agricultural centers and regional geography.",
+      "id": "bazarduzu-mountain-relief-v2",
+      "descriptionAdvancedDe": """Der Bazardüzü, der höchste Gipfel Aserbaidschans, erhebt sich an der Grenze zu Russland in der autonomen Republik Dagestan auf eine beeindruckende Höhe von 4.466 Metern. Als Teil des Großen Kaukasus-Gebirges ist dieser Berg nicht nur ein geographisches Highlight, sondern auch ein Symbol nationalen Stolzes. Die erste dokumentierte Besteigung fand 1847 durch eine russische Expedition statt. Die umliegende Landschaft ist von alpinen Wiesen, Gletschern und tiefen Schluchten geprägt, die eine reiche Flora und Fauna beheimaten. In den tieferen Lagen finden sich seltene Pflanzenarten, während in den höheren Regionen Steinadler und Gämse beobachtet werden können. Der Berg ist ein anspruchsvolles Ziel für Bergsteiger und bietet spektakuläre Ausblicke über die kaukasische Bergwelt. Aufgrund seiner strategischen Lage ist der Zugang zum Gipfel reguliert und erfordert spezielle Genehmigungen.""",
+      "descriptionAdvancedHu": """A Bazardüzü, Azerbajdzsán legmagasabb pontja, 4466 méteres magasságával emelkedik ki a Nagy-Kaukázus vonulatai közül, Oroszország dagesztáni régiójának határán. A hegy neve helyi nyelven 'piac teret' jelent, ami arra utalhat, hogy a középkorban a hegy lábánál fontos kereskedelmi útvonalak találkoztak. Az első hivatalos csúcshódítást 1847-ben egy orosz expedíció hajtotta végre. A hegycsúcs és környéke a Shahdag Nemzeti Park része, amely gazdag biodiverzitással rendelkezik, beleértve a barnamedvét és a kaukázusi leopárdot is. A Bazardüzü gleccserei fontos vízforrást jelentenek a környező völgyek számára. A hegymászók számára komoly kihívást jelent a csúcs elérése a technikás útvonalak és a változékony időjárás miatt. A régió kulturális szempontból is jelentős, a hegy lábánál fekvő falvak megőrizték hagyományos életmódjukat és építészetüket.""",
+      "descriptionAdvancedRo": """Muntele Bazardüzü, cel mai înalt punct din Azerbaidjan, se ridică la o altitudine de 4.466 de metri la granița cu republica rusă Daghestan. Numele său, care se traduce prin "piața de la răscruce", sugerează importanța sa istorică pe rutele comerciale medievale. Prima ascensiune documentată a fost realizată în 1847 de o expediție rusă. Muntele face parte din Parcul Național Shahdag, o arie protejată ce adăpostește o faună variată, inclusiv specii rare precum leopardul de Caucaz. Ghețarii de pe Bazardüzü sunt esențiali pentru alimentarea cu apă a râurilor din regiune. Pentru alpiniști, vârful reprezintă o provocare considerabilă datorită condițiilor meteorologice instabile și a dificultății tehnice a traseelor. Din punct de vedere cultural, zona este remarcabilă prin satele montane tradiționale, unde localnicii, cunoscuți ca poporul Lezgin, își păstrează obiceiurile străvechi. Vârful oferă panorame spectaculoase asupra Caucazului de Est.""",
+      "descriptionAdvancedEn": """Mount Bazarduzu stands as Azerbaijan's highest peak, reaching an elevation of 4,466 meters on the border with the Russian Republic of Dagestan. Its name translates to "market square," possibly indicating its historical role as a landmark for trade caravans. The first recorded ascent was made in 1847 by a Russian team led by P. A. Alexandrov. The mountain is part of the Greater Caucasus range and is characterized by its dramatic glaciers and rugged terrain. It is a key feature of the Shahdag National Park, which was established in 2006 to protect the region's diverse ecosystems, including species like the East Caucasian tur and brown bear. The peak presents a significant challenge for mountaineers, requiring technical skill and experience in high-altitude conditions. The surrounding valleys are home to ancient villages inhabited by the Lezgin people, who have a rich cultural heritage tied to the mountain landscape.""",
       "factsAdvanced": [
-        "Situated about 137 km northeast of Conakry.",
-        "Founded around 1904 with the railway construction.",
-        "Home to the Mount Gangan peak rising nearby.",
-        "Known nationally for pineapple and banana production.",
-        "Headquarters of the Armed Forces of Guinea's first military region.",
-        "The population exceeded 170,000 residents in the 2014 census."
+        "Elevation: 4,466 meters (14,652 ft)",
+        "Highest peak in Azerbaijan",
+        "Located in the Greater Caucasus range",
+        "First ascent: 1847 by a Russian expedition",
+        "Part of Shahdag National Park",
+        "Forms the border with Dagestan, Russia",
+        "Name means "market square" in local dialect",
+        "Features multiple glaciers on its slopes"
       ]
     },
     {
-      "id": "labe-cities-v2",
-      "descriptionAdvanced": "Labé is the principal city of the Fouta Djallon region in middle Guinea, positioned at an elevation of roughly 1,026 meters above sea level. Founded in 1755 by Karamoko Alpha mo Labé, an Islamic scholar, the city has maintained its status as a critical center of Islamic learning and Fulani culture for centuries. Its high-altitude location grants it a temperate climate, which is relatively cool compared to the rest of the country, making it a prominent agricultural zone for potatoes, onions, and various fruits. The city serves as a vital commercial crossroads, connecting Guinea with neighboring Senegal and Mali through extensive trade networks. The grand mosque of Labé stands as a major architectural and spiritual landmark, drawing worshippers from across the region. Labé's historical significance and thriving local economy make it one of Guinea's most important urban centers. History K8 — Islamic centers in West Africa.",
+      "id": "shahdagh-mountain-relief-v2",
+      "descriptionAdvancedDe": """Der Shahdagh, einer der höchsten Gipfel im Großen Kaukasus, erhebt sich im Qusar-Distrikt von Aserbaidschan auf eine Höhe von 4.243 Metern. Der Berg liegt nahe der Grenze zu Dagestan, Russland, und ist ein markantes Merkmal der Region. Sein Name bedeutet "Königsberg", was seine majestätische Erscheinung unterstreicht. Im Gegensatz zu vielen anderen Gipfeln der Region besteht der Shahdagh hauptsächlich aus Kalkstein und Dolomit, was ihm eine einzigartige geologische Struktur verleiht. Das Gebiet um den Berg ist bekannt für seine unberührte Natur und ist Teil des Shahdag-Nationalparks. In der Nähe wurde das Shahdag Mountain Resort errichtet, das erste und größte Skigebiet Aserbaidschans, was den Berg zu einem wichtigen Ziel für den Wintertourismus macht. Die Hänge des Berges sind von subalpinen und alpinen Wiesen bedeckt und bieten Lebensraum für eine Vielzahl von Wildtieren.""",
+      "descriptionAdvancedHu": """A Shahdag (vagy Şahdağ) 4243 méteres magasságával a Nagy-Kaukázus egyik legjelentősebb csúcsa Azerbajdzsán Qusar régiójában, közel az orosz határhoz. A neve, melynek jelentése „Király-hegy”, a hegység impozáns méretére utal. Geológiailag a Shahdag főként mészkőből és dolomitból épül fel, ami megkülönbözteti a Kaukázus gránitcsúcsaitól. A hegy lábánál található Azerbajdzsán első és legnagyobb síparadicsoma, a Shahdag Mountain Resort, amely modern infrastruktúrával várja a téli sportok kedvelőit. A hegy a Shahdag Nemzeti Park része, amelynek célja a gazdag flóra és fauna, többek között a kaukázusi zerge és a barnamedve védelme. A hegy megmászása népszerű a tapasztalt hegymászók körében, bár a változékony időjárás és a meredek lejtők komoly kihívást jelentenek. A környék kulturálisan is gazdag, számos ősi falu és történelmi emlékhely található a völgyekben.""",
+      "descriptionAdvancedRo": """Muntele Shahdagh este un vârf proeminent din Munții Caucazul Mare, situat în districtul Qusar din Azerbaidjan, având o altitudine de 4.243 de metri. Amplasat în apropierea graniței cu Daghestan, Rusia, numele său se traduce prin "Muntele Regelui", o denumire care reflectă aspectul său grandios. Spre deosebire de alte vârfuri din Caucaz, Shahdagh este format în principal din calcar și dolomit. La poalele sale se află complexul turistic Shahdag Mountain Resort, prima și cea mai mare stațiune de schi din Azerbaidjan, ceea ce a transformat regiunea într-o destinație turistică majoră. Muntele este parte a Parcului Național Shahdag, creat pentru a proteja ecosistemele alpine și subalpine unice. Ascensiunea pe Shahdagh este o provocare pentru alpiniști, necesitând echipament adecvat și experiență. Regiunea este locuită de grupuri etnice precum lezginii, care și-au păstrat cultura și tradițiile montane de-a lungul secolelor.""",
+      "descriptionAdvancedEn": """Mount Shahdagh is a prominent peak in the Greater Caucasus range, situated in the Qusar District of Azerbaijan near the border with Russia. It reaches an elevation of 4,243 meters (13,921 ft) above sea level. The name Shahdagh translates to "King Mountain," reflecting its majestic presence in the landscape. The mountain is primarily composed of limestone and dolomite, which distinguishes it geologically from many other Caucasus peaks. At its base lies the Shahdag Mountain Resort, Azerbaijan’s first and largest ski resort, making it a key center for winter sports and tourism. The area is part of the Shahdag National Park, which protects a diverse range of alpine flora and fauna. For climbers, Mount Shahdagh offers a challenging ascent with rewarding panoramic views. The region around the mountain is rich in cultural history, with ancient villages and archaeological sites scattered throughout its valleys.""",
       "factsAdvanced": [
-        "Founded in 1755 by the scholar Karamoko Alpha mo Labé.",
-        "Located at an elevation of approximately 1,026 meters.",
-        "Principal city of the mountainous Fouta Djallon region.",
-        "Population reached over 141,000 in the 2014 census.",
-        "Key commercial hub for trade with Senegal and Mali.",
-        "Known for its large central mosque and Islamic education."
+        "Elevation: 4,243 meters (13,921 ft)",
+        "Located in the Qusar District of Azerbaijan",
+        "Part of the Greater Caucasus mountain range",
+        "Name means "King Mountain"",
+        "Composed mainly of limestone and dolomite",
+        "Site of the Shahdag Mountain Resort, a major ski area",
+        "Located near the border with Dagestan, Russia",
+        "Included within the Shahdag National Park"
       ]
     },
     {
-      "id": "kissidougou-cities-v2",
-      "descriptionAdvanced": "Situated in the Forest Guinea region, Kissidougou is a rapidly growing urban center that serves as a crucial transit point between the capital and the deeper forested interior. The city is renowned for its vibrant weekly market, which attracts traders from surrounding villages and neighboring countries like Sierra Leone and Liberia to exchange agricultural goods, textiles, and local crafts. Kissidougou's landscape is defined by the transition from savanna to dense tropical rainforest, creating a unique ecological zone rich in biodiversity. Historically, the area was heavily influenced by the Kissi people, who established intricate agricultural systems and fortified settlements long before colonial rule. In modern times, the city hosts a large refugee population from neighboring conflicts, adding to its demographic diversity and dynamic urban atmosphere. The local museum preserves artifacts from the Kissi culture, highlighting the region's deep historical roots. Geography K7 — forest transition zones and West African trade.",
+      "id": "babadag-mountain-relief-v2",
+      "descriptionAdvancedDe": """Der Babadağ, mit einer Höhe von 3.629 Metern, ist ein bedeutender Berg im Großen Kaukasus, der im Bezirk Ismailli in Aserbaidschan liegt. Sein Name bedeutet "Großvater-Berg" und er wird als heiliger Ort verehrt, der jedes Jahr im Sommer von Tausenden von Pilgern besucht wird. Die Pilgerreise zum Gipfel ist eine tief verwurzelte Tradition, die oft mehrere Tage dauert. Der Legende nach ist der Berg die Ruhestätte eines alten Weisen. Die geologische Zusammensetzung des Berges ist vielfältig und trägt zu seiner einzigartigen Landschaft bei, die von Felsformationen und grünen Weiden geprägt ist. Die Flora und Fauna ist typisch für den Kaukasus, mit dichten Wäldern an den unteren Hängen und alpiner Vegetation in höheren Lagen. Der Aufstieg ist anspruchsvoll, aber die spirituelle Bedeutung und die atemberaubende Aussicht auf die umliegenden Täler machen ihn zu einem besonderen Erlebnis.""",
+      "descriptionAdvancedHu": """A Babadağ, melynek neve azeri nyelven „Nagyapa-hegy”, egy 3629 méter magas, szent hegy Azerbajdzsán İsmayıllı régiójában. A hegycsúcs a nyári hónapokban évezredes zarándoklatok célpontja, a hívők gyakran napokig tartó gyaloglással érik el a csúcsot, hogy imádkozzanak és áldozatokat mutassanak be. A legenda szerint a hegy egy szent ember sírját rejti. A Babadağ a Nagy-Kaukázus része, és jellegzetes tájképet mutat meredek szikláival és alpesi legelőivel. A hegy lábánál fekvő Lahıc falu híres rézműveseiről és hagyományos építészetéről, ami tovább növeli a régió kulturális értékét. A hegy körüli erdőkben számos vadon élő állat, köztük farkasok és medvék élnek. A zarándokút fizikailag megterhelő, de a spirituális élmény és a panorámás kilátás sokakat vonz évről évre. A hegycsúcsról tiszta időben a Kaszpi-tenger is látható.""",
+      "descriptionAdvancedRo": """Muntele Babadağ, cu o altitudine de 3.629 de metri, este un vârf venerat din Caucazul Mare, situat în districtul Ismailli din Azerbaidjan. Numele său, care înseamnă "Muntele Bunic", reflectă statutul său de loc sacru. În fiecare vară, mii de pelerini întreprind o călătorie anevoioasă spre vârf, o tradiție care datează de secole. Se crede că muntele este locul de odihnă al unui sfânt antic, iar pelerinii urcă pentru a se ruga și a căuta binecuvântări. Traseul este abrupt și dificil, dar este considerat un act de devotament. Peisajul montan este spectaculos, cu stânci abrupte și pajiști alpine. Regiunea din jur este cunoscută pentru satul Lahıc, un centru istoric al meșteșugurilor, renumit pentru atelierele sale de prelucrare a cuprului. Fauna locală include lupi, urși și diverse specii de păsări de pradă. Vârful oferă o priveliște panoramică excepțională asupra văilor înconjurătoare.""",
+      "descriptionAdvancedEn": """Mount Babadag, standing at 3,629 meters in the Greater Caucasus, is one of Azerbaijan's most revered peaks. Located in the Ismailli District, its name translates to "Grandfather Mountain," highlighting its sacred status. Every year during the summer months, it becomes a destination for thousands of pilgrims who undertake the arduous multi-day trek to its summit. This pilgrimage is an ancient tradition, with participants believing the mountain to be a holy site. The climb is physically demanding but is considered a spiritually rewarding journey. The mountain itself offers a dramatic landscape of steep cliffs, rocky outcrops, and high-altitude meadows. The nearby village of Lahıc, a historic center for artisans, particularly coppersmiths, adds to the cultural significance of the area. The region's ecosystem supports a variety of wildlife, including Caucasian brown bears and wolves. From the summit, pilgrims are rewarded with breathtaking views across the Caucasus.""",
       "factsAdvanced": [
-        "Located in the transitional zone between savanna and forest.",
-        "Key transit hub connecting Conakry to the Forest Region.",
-        "Population grew significantly to over 102,000 by 2014.",
-        "The city's name translates to 'City of the Kissi people'.",
-        "Hosts a major regional market for agricultural produce.",
-        "Historically impacted by refugee influxes from Liberia and Sierra Leone."
+        "Elevation: 3,629 meters (11,906 ft)",
+        "Name means "Grandfather Mountain"",
+        "A major pilgrimage site in Azerbaijan",
+        "Located in the Ismailli District",
+        "Part of the Greater Caucasus mountain range",
+        "Pilgrimages take place during summer months",
+        "Considered a sacred or holy mountain",
+        "Nearby historic village of Lahıc is famous for copperware"
       ]
     },
     {
-      "id": "gueckedou-cities-v2",
-      "descriptionAdvanced": "Guéckédou is a bustling commercial city located in southern Guinea, strategically positioned near the borders of Sierra Leone and Liberia. The city is famous throughout the region for its massive weekly market, which is considered one of the largest in West Africa, drawing tens of thousands of merchants who trade in textiles, electronics, agricultural tools, and local produce. Guéckédou's geographic location has historically made it a flashpoint during regional conflicts, suffering significant destruction during cross-border rebel incursions in the early 2000s, though it has since seen substantial rebuilding. The city is set within the lush environment of the Guinean forests, where the climate supports the cultivation of coffee, cocoa, and palm oil, which form the backbone of the local economy. In 2013, Guéckédou gained global attention as the epicenter of the West African Ebola outbreak, highlighting its interconnectedness with surrounding nations. History K8 — modern West African borders and regional health history.",
+      "id": "tufandag-mountain-relief-v2",
+      "descriptionAdvancedDe": """Der Tufandağ, dessen Name "Sturmberg" bedeutet, ist ein markanter Gipfel im Großen Kaukasus mit einer Höhe von 4.191 Metern. Er befindet sich in der Nähe der Stadt Qəbələ in Aserbaidschan. Der Name des Berges leitet sich von den häufigen und heftigen Stürmen ab, die in dieser Region auftreten. Geologisch ist der Tufandağ, wie viele Berge des Kaukasus, durch komplexe Falt- und Bruchstrukturen gekennzeichnet. An seinen Hängen wurde das Tufandag Mountain Resort entwickelt, ein modernes Ganzjahres-Tourismusziel, das im Winter Skifahren und im Sommer Wandern, Seilbahnfahrten und andere Freizeitaktivitäten anbietet. Das Resort verfügt über ein ausgedehntes Netz von Skipisten unterschiedlicher Schwierigkeitsgrade und moderne Liftanlagen. Die unberührte Natur, die dichten Wälder und die alpinen Wiesen machen die Gegend zu einem Paradies für Naturliebhaber und Wanderer. Die reiche Tierwelt umfasst unter anderem Wölfe, Bären und Wildschweine.""",
+      "descriptionAdvancedHu": """A Tufandağ, melynek neve „Vihar-hegy”, egy 4191 méter magas hegycsúcs a Nagy-Kaukázusban, Qəbələ városának közelében, Azerbajdzsánban. A hegy a térségre jellemző heves viharokról és zord időjárási körülményekről kapta a nevét. A hegy lábánál épült fel a Tufandag Mountain Resort, amely egy modern, négyévszakos turisztikai központ. Télen a síelők és snowboardosok számára kínál kiváló minőségű pályákat és felvonókat, míg nyáron a túrázók, hegyikerékpárosok és a természetjárók élvezhetik a táj szépségét. A felvonórendszer egész évben működik, és lenyűgöző panorámát nyújt a Kaukázus vonulataira. A régió gazdag természeti értékekben, a sűrű erdők és alpesi rétek számos állatfajnak, például a kaukázusi szarvasnak és a hiúznak adnak otthont. A Tufandağ környéke a kalandturizmus egyik fontos azerbajdzsáni központjává vált az elmúlt években.""",
+      "descriptionAdvancedRo": """Muntele Tufandag, al cărui nume se traduce prin "Muntele Furtunii", este un vârf de 4.191 de metri situat în Munții Caucazul Mare, în apropierea orașului Gabala din Azerbaidjan. Numele său este derivat de la condițiile meteorologice severe și furtunile frecvente care caracterizează zona. La poalele sale a fost dezvoltat complexul Tufandag Mountain Resort, o destinație turistică modernă, deschisă pe tot parcursul anului. Iarna, stațiunea oferă pârtii de schi pentru toate nivelurile de dificultate, deservite de un sistem de telecabine de ultimă generație. Vara, devine un centru pentru drumeții, ciclism montan și alte activități în aer liber. Sistemul de telecabine funcționează și în sezonul cald, oferind turiștilor acces la priveliști montane spectaculoase. Biodiversitatea este bogată, cu păduri dese care adăpostesc lupi, urși și mistreți. Tufandag a devenit un simbol al dezvoltării turismului montan în Azerbaidjan.""",
+      "descriptionAdvancedEn": """Mount Tufandag, whose name translates to "Storm Mountain," is a 4,191-meter peak located in the Greater Caucasus range near the city of Gabala, Azerbaijan. It earned its name from the frequent and severe storms that are common in the region. At the foot of the mountain lies the Tufandag Mountain Resort, a state-of-the-art, year-round tourism complex. In winter, it serves as a popular ski destination with a variety of slopes catering to different skill levels, supported by an extensive network of cable cars. During the summer, the resort transitions into a hub for hiking, mountain biking, and sightseeing, with the cable car system providing easy access to stunning alpine scenery. The surrounding area is characterized by lush forests and diverse wildlife, including Caucasian deer, wolves, and wild boars. The development of the resort has established Tufandag as a premier destination for adventure and leisure tourism in Azerbaijan.""",
       "factsAdvanced": [
-        "Located near the tri-point border of Guinea, Liberia, and Sierra Leone.",
-        "Hosts one of the largest weekly cross-border markets in West Africa.",
-        "The population was recorded at roughly 79,000 in 2014.",
-        "A major production area for coffee, cocoa, and palm oil.",
-        "Suffered extensive damage during rebel attacks in 2000 and 2001.",
-        "The initial epicenter of the 2013-2016 West African Ebola epidemic."
-      ]
-    },
-    {
-      "id": "mamou-cities-v2",
-      "descriptionAdvanced": "Known affectionately as the 'Crossroads City', Mamou is situated in the Fouta Djallon highlands and serves as a vital transportation hub linking Conakry to the northern, eastern, and southern regions of Guinea. Developed in the early 20th century specifically as a station on the Conakry-Kankan railway, the city has retained its strategic importance for road transport long after the railway ceased full operations. The city's elevated position at approximately 746 meters provides a mild climate that favors the processing and trade of agricultural goods, particularly meat and dairy products supplied by the surrounding pastoralist Fulani communities. Mamou's urban layout reflects its history as a transit center, with numerous markets, transport terminals, and commercial enterprises catering to travelers. The nearby Pinselli forest reserve offers critical habitat for regional wildlife, including chimpanzees, making the area ecologically significant. Geography K7 — transportation networks and highland climates.",
-      "factsAdvanced": [
-        "Established in 1908 as a key railway station.",
-        "Situated at an elevation of 746 meters in the Fouta Djallon.",
-        "Often referred to as the 'Crossroads City' of Guinea.",
-        "Population was approximately 68,000 in the 2014 census.",
-        "A major center for the region's meat and dairy trade.",
-        "Located near the ecologically important Pinselli forest."
-      ]
-    },
-    {
-      "id": "boke-cities-v2",
-      "descriptionAdvanced": "Boké is a historically and economically significant city located in northwestern Guinea, near the border with Guinea-Bissau, sitting on the banks of the Nuñez River. Originally an important center for the pre-colonial slave trade due to its navigable river access to the Atlantic Ocean, the city later became the site of a major French colonial fort constructed in 1878, which now houses a museum. Today, Boké is the administrative center of Guinea's primary bauxite mining region, with massive extraction operations nearby driving the local and national economy. The influx of mining investments has led to rapid urban expansion and modernization, though it has also brought environmental challenges related to dust and water management. Despite its industrial focus, the city retains a vibrant cultural life, predominantly influenced by the local Baga, Susu, and Fulani communities who continue traditional fishing and farming along the riverbanks. History K8 — colonial river trade and modern extractive industries.",
-      "factsAdvanced": [
-        "Located along the Nuñez River in northwestern Guinea.",
-        "Site of an 1878 French fort, now the Boké Museum.",
-        "The administrative capital of Guinea's main bauxite mining region.",
-        "Population reached over 61,000 according to the 2014 census.",
-        "Historically a major port for the transatlantic slave trade.",
-        "Connected by a heavy-duty railway to the port of Kamsar."
-      ]
-    },
-    {
-      "id": "macenta-cities-v2",
-      "descriptionAdvanced": "Nestled in the lush, mountainous terrain of the Forest Guinea region, Macenta is a vital agricultural and administrative center near the Liberian border. The city's high altitude and heavy annual rainfall create ideal conditions for the cultivation of cash crops, making it Guinea's premier hub for coffee, cocoa, and tea production. The landscape around Macenta is characterized by dense tropical rainforests and impressive peaks, including the nearby Mount Ziama, which is part of a biosphere reserve critical for the protection of forest elephants and chimpanzees. Historically, the area was a stronghold of the Toma people and featured heavily in the resistance against French colonial expansion in the late 19th century. Today, Macenta features a bustling market where agricultural products are traded, though the city has faced infrastructure challenges due to its remote location and difficult terrain. Biology K7 — tropical cash crops and rainforest biomes.",
-      "factsAdvanced": [
-        "Located in the mountainous Forest Guinea region near Liberia.",
-        "Guinea's main center for coffee, cocoa, and tea processing.",
-        "Situated near the Ziama Massif Biosphere Reserve.",
-        "Population was roughly 65,000 in the 2014 national census.",
-        "Historically a stronghold of the Toma ethnic group.",
-        "Receives some of the highest annual rainfall in the country."
-      ]
-    },
-    {
-      "id": "coyah-cities-v2",
-      "descriptionAdvanced": "Coyah is a rapidly expanding city located just 50 kilometers east of Conakry, increasingly functioning as a vibrant suburb to the capital. Nestled at the base of the Mount Kakoulima range, the city is renowned across Guinea for its natural spring water, which is commercially bottled and distributed nationwide under the 'Coyah' brand. The city's strategic location along the National Highway 1 makes it a mandatory transit point for all land traffic moving between Conakry and the country's interior, leading to a bustling transport and commercial sector. Historically a quiet agricultural town focused on mango and palm oil production, Coyah has experienced a massive population boom as residents seek affordable housing outside the congested capital. The surrounding hills offer scenic hiking routes and small waterfalls, providing a popular weekend retreat for city dwellers. Geography K7 — suburban expansion and natural water resources.",
-      "factsAdvanced": [
-        "Located 50 kilometers east of the capital, Conakry.",
-        "Famous nationally for its commercially bottled natural mineral water.",
-        "Acts as the main gateway linking Conakry to the interior.",
-        "Experienced massive growth, reaching over 217,000 residents regionally (2014).",
-        "Situated near the scenic Mount Kakoulima range.",
-        "Traditionally an agricultural area known for mango production."
-      ]
-    },
-    {
-      "id": "forecariah-cities-v2",
-      "descriptionAdvanced": "Forécariah is a coastal city located in southwestern Guinea, serving as the administrative center for the region bordering Sierra Leone. The city is deeply rooted in Islamic scholarship, having been established as a prominent center of learning by the Susu and Mandinka scholars in the pre-colonial era. The surrounding landscape consists of extensive mangrove swamps, fertile floodplains, and numerous tidal estuaries, which support a robust local economy based on rice farming and artisanal fishing. In recent years, Forécariah has gained economic prominence due to the development of nearby iron ore mining projects, bringing new infrastructure and a growing expatriate workforce to the area. The city also played a critical role as a frontier medical and logistical base during the 2014 Ebola response efforts, given its proximity to heavily affected cross-border regions. History K8 — West African coastal communities and modern mining logistics.",
-      "factsAdvanced": [
-        "Located in southwestern Guinea, near the Sierra Leone border.",
-        "Surrounded by an extensive network of coastal mangroves.",
-        "Historically a major center for Islamic education.",
-        "A key agricultural zone for rice cultivation and fishing.",
-        "Population of the urban center was around 20,000 in 2014.",
-        "Experiencing growth due to nearby iron ore export projects."
-      ]
-    },
-    {
-      "id": "kamsar-cities-v2",
-      "descriptionAdvanced": "Kamsar is a major industrial port city located on the mouth of the Nuñez River in northwestern Guinea, functioning as the country's economic lifeline for bauxite exports. The city was dramatically transformed in the 1970s with the establishment of the Compagnie des Bauxites de Guinée (CBG), which built a deep-water port, a dedicated railway linking to the Sangarédi mines, and modern residential infrastructure. Kamsar is uniquely divided into the affluent 'Cité' area, housing mining executives and expatriates with uninterrupted electricity and paved roads, and the older, bustling local neighborhoods. The massive port facilities handle millions of tons of bauxite annually, loading bulk carrier ships destined for global aluminum refineries. Despite its industrial nature, the coastal waters support a significant local fishing community, though they face challenges from maritime traffic and environmental impacts. Geography K8 — industrial port cities and global commodity supply chains.",
-      "factsAdvanced": [
-        "Guinea's largest port dedicated exclusively to mineral exports.",
-        "Developed into a major city in the 1970s by the CBG mining company.",
-        "Located at the mouth of the Nuñez River on the Atlantic coast.",
-        "Handles over 15 million tons of bauxite exports annually.",
-        "Features a dedicated heavy-haul railway line to inland mines.",
-        "Population was estimated at around 113,000 in 2014."
-      ]
-    },
-    {
-      "id": "fria-cities-v2",
-      "descriptionAdvanced": "Fria is an industrial city in western Guinea, renowned globally as the site of Africa's first alumina refinery, established in 1960. The city was meticulously planned and built by the Pechiney company to house workers for the massive Friguia bauxite-to-alumina complex, giving it a unique grid layout and European-style architecture uncommon in the region. For decades, Fria was considered the most modern and prosperous city in Guinea, boasting an artificial lake, a large hospital, and excellent recreational facilities. The city's fortunes fluctuated wildly with global aluminum prices and management disputes, suffering a devastating multi-year shutdown of the plant in 2012 that severely depressed the local economy before operations slowly resumed. The surrounding landscape features striking red earth and rolling hills, heavily marked by decades of surface mining operations. History K8 — post-colonial industrialization and company towns.",
-      "factsAdvanced": [
-        "Home to Africa's first alumina refinery, operational since 1960.",
-        "Originally built as a planned company town by a French consortium.",
-        "Located approximately 160 kilometers north of Conakry.",
-        "The urban population was recorded at about 61,000 in 2014.",
-        "Suffered a severe economic crisis when the refinery closed from 2012 to 2018.",
-        "Features an artificial lake created to supply water to the plant."
-      ]
-    },
-    {
-      "id": "siguiri-cities-v2",
-      "descriptionAdvanced": "Siguiri is a dynamic city in northeastern Guinea, situated on the banks of the Niger River within the expansive savanna region bordering Mali. The area has an ancient history intertwined with the powerful Mali Empire and has been famous for centuries as a center of traditional artisanal gold mining. Today, Siguiri is the epicenter of Guinea's modern gold rush, hosting one of the country's largest industrial gold mines while simultaneously supporting thousands of independent prospectors who work the surrounding red soils. This gold-driven economy has led to rapid, somewhat chaotic urban growth, drawing migrants from across West Africa in search of wealth, which has put significant pressure on local infrastructure and water resources. The city also features significant cultural heritage sites, including remnants of French colonial forts and traditional Mandinka architecture along the riverbanks. Geography K7 — mineral wealth and savanna urbanization.",
-      "factsAdvanced": [
-        "Located in northeastern Guinea on the banks of the Niger River.",
-        "Famous historically and currently for its massive gold deposits.",
-        "Hosts one of Guinea's largest industrial commercial gold mines.",
-        "Experienced extreme population growth, exceeding 183,000 by 2014.",
-        "Historically part of the sphere of influence of the ancient Mali Empire.",
-        "Site of a notable French colonial fort built in the 19th century."
-      ]
-    },
-    {
-      "id": "telimele-cities-v2",
-      "descriptionAdvanced": "Télimélé is a remote and picturesque administrative center situated in the western foothills of the Fouta Djallon highlands. The city is characterized by its dramatic topography, surrounded by steep cliffs, deep valleys, and numerous waterfalls that define this transitional zone between the coastal plains and the mountainous interior. Télimélé relies primarily on agriculture, with local farmers cultivating rice, groundnuts, and various fruits in the fertile valleys, while the Fulani population manages extensive cattle herds on the higher pastures. Due to its rugged terrain and historical lack of paved access roads, the city has remained relatively isolated, preserving a strong sense of traditional culture and community cohesion. However, recent infrastructure investments and the discovery of nearby bauxite deposits are beginning to integrate Télimélé more closely into the national economy. Geography K7 — highland valleys and agricultural isolation.",
-      "factsAdvanced": [
-        "Located in the western foothills of the Fouta Djallon region.",
-        "Surrounded by dramatic cliffs, valleys, and waterfalls.",
-        "Population of the urban commune was around 16,000 in 2014.",
-        "The local economy is heavily dependent on agriculture and pastoralism.",
-        "Historically isolated due to unpaved and difficult mountain roads.",
-        "Currently experiencing new interest due to regional bauxite exploration."
-      ]
-    },
-    {
-      "id": "kouroussa-cities-v2",
-      "descriptionAdvanced": "Kouroussa is a historic city located on the upper reaches of the Niger River in eastern Guinea, deeply embedded in the cultural heartland of the Mandinka people. The city gained international literary fame as the birthplace of the acclaimed Guinean author Camara Laye, whose autobiographical novel 'The Dark Child' vividly describes life in Kouroussa during the 1930s. Geographically, it sits within the expansive savanna biome, serving as an important center for the cultivation of rice, millet, and peanuts, utilizing the fertile floodplains of the Niger River. Kouroussa also functions as a critical transport node on the route connecting Conakry to the eastern metropolis of Kankan. The surrounding landscape is dotted with traditional gold mining camps, and recent large-scale industrial gold mining projects have begun to reshape the local economy and urban landscape. History K8 — African literature and Niger River settlements.",
-      "factsAdvanced": [
-        "Situated on the upper Niger River in eastern Guinea.",
-        "Birthplace of the famous African author Camara Laye.",
-        "An important agricultural center for savanna crops like rice and millet.",
-        "Population was approximately 39,000 in the 2014 census.",
-        "Features an iconic bridge crossing the Niger River.",
-        "Increasingly impacted by both artisanal and industrial gold mining."
-      ]
-    },
-    {
-      "id": "dubreka-cities-v2",
-      "descriptionAdvanced": "Dubréka is a bustling coastal city situated just north of Conakry, characterized by its extensive network of mangrove swamps and coastal estuaries. The city serves as a critical agricultural and fishing hub, supplying the capital's massive daily demand for fresh seafood, rice, and vegetables. Dubréka is notable for its dramatic natural landmarks, most prominently the 'Chien Qui Fume' (The Smoking Dog), a unique rock formation on nearby Mount Dixinn that appears to smoke when shrouded in morning mist. Historically, the area was a center of the Susu kingdom and later became a prime location for early French colonial agricultural experiments. Today, rapid urban sprawl from Conakry is transforming Dubréka into a major suburban logistics and residential center, significantly altering its traditional coastal ecosystem. Geography K7 — urban sprawl and mangrove ecosystems.",
-      "factsAdvanced": [
-        "Located on the Atlantic coast, immediately north of Conakry.",
-        "Home to the famous 'Chien Qui Fume' mountain rock formation.",
-        "A major supplier of seafood and rice to the capital city.",
-        "Historically an important center of the Susu ethnic group.",
-        "Population surpassed 157,000 in the region by 2014.",
-        "The surrounding landscape is dominated by dense mangrove forests."
-      ]
-    },
-    {
-      "id": "boffa-cities-v2",
-      "descriptionAdvanced": "Boffa is a serene coastal town located along the banks of the Fatala River, shortly before it empties into the Atlantic Ocean. The town holds profound historical significance as one of the earliest sites of European contact in Guinea, serving as a major hub for the transatlantic slave trade and later hosting the first permanent Catholic mission in the country, established in 1877. The town's architecture still features decaying colonial-era trading houses and the historic church, making it a site of cultural pilgrimage. Today, Boffa's economy relies heavily on artisanal fishing, mangrove rice cultivation, and palm oil processing. The construction of a major bridge over the Fatala River in 2004 significantly improved Boffa's connectivity, transforming it from a slow ferry-crossing town into an accessible transit point along the coastal highway. History K8 — early European missions and coastal trade routes.",
-      "factsAdvanced": [
-        "Situated on the Fatala River near the Atlantic coast.",
-        "Home to the first permanent Catholic mission in Guinea, built in 1877.",
-        "Historically a significant center for the transatlantic slave trade.",
-        "The local economy is driven by fishing and mangrove rice farming.",
-        "Population of the urban area was about 27,000 in 2014.",
-        "Connectivity greatly improved by the 2004 Fatala River bridge."
-      ]
-    },
-    {
-      "id": "beyla-cities-v2",
-      "descriptionAdvanced": "Beyla is a deeply historic city situated in the Forest Guinea region, serving as the administrative center for the country's southeastern-most prefecture. Founded in the 13th century, it was a crucial resting point on the ancient trans-Saharan trade routes that connected the forest region's kola nut producers to the savanna empires of the north. The city sits near the massive Simandou mountain range, which holds some of the world's largest untapped reserves of high-grade iron ore. Anticipation of the massive Simandou mining project has brought speculative growth and infrastructural planning to Beyla, though it remains predominantly an agricultural community surrounded by dense forests. The local culture is a vibrant mix of Kpelle, Konianké, and Mano traditions, reflecting its position at the crossroads of several major West African ethnic groups. History K8 — ancient trade routes and modern mega-projects.",
-      "factsAdvanced": [
-        "Located in southeastern Guinea, near the border with Côte d'Ivoire.",
-        "Founded in the 13th century as a key stop on ancient trade routes.",
-        "Situated near the Simandou mountains, site of massive iron ore reserves.",
-        "A major historical trading center for kola nuts.",
-        "Population of the town was roughly 32,000 in 2014.",
-        "Features a mix of savanna and dense tropical forest ecosystems."
-      ]
-    },
-    {
-      "id": "dabola-cities-v2",
-      "descriptionAdvanced": "Dabola marks the exact geographic center of Guinea, situated where the Fouta Djallon highlands transition into the vast eastern savannas. Established as a critical railway junction by the French colonial administration, the city features notable industrial remnants, including a long-defunct peanut oil processing factory that once drove the local economy. The city is defined by the Tinkisso River, a major tributary of the Niger, which provides water for extensive agriculture and local fishing, and features a small hydroelectric dam built with Chinese assistance in the 1970s. Dabola's landscape is highly scenic, combining rolling grassy plains with striking granite inselbergs. Today, it remains an important commercial crossroads connecting the nation's capital to the far eastern regions, with a diverse population of Fulani and Malinke residents. Geography K7 — geographic centers and river systems.",
-      "factsAdvanced": [
-        "Considered the exact geographic center of the country of Guinea.",
-        "Located on the banks of the Tinkisso River.",
-        "Historically an important station on the Conakry-Kankan railway.",
-        "Features a 1970s hydroelectric dam on the Tinkisso River.",
-        "Population was approximately 38,000 in the 2014 census.",
-        "The local landscape features prominent granite inselbergs."
-      ]
-    },
-    {
-      "id": "dinguiraye-cities-v2",
-      "descriptionAdvanced": "Dinguiraye is a city of immense spiritual and historical prestige located in the savanna region of northern Guinea. It was founded in the mid-19th century by El Hadj Umar Tall, a revered Toucouleur scholar and military leader, who made it the launching point for his vast Islamic empire that spread across West Africa. The city is dominated by its grand historic mosque, originally built by Umar Tall himself, characterized by its massive thatched roof and traditional Sudanese architectural elements, drawing thousands of pilgrims annually. Beyond its spiritual significance, Dinguiraye is a tranquil agricultural town heavily reliant on livestock rearing and the cultivation of millet and groundnuts. Its remote location away from major national highways has helped preserve its unique historical character and status as a center of religious learning. History K8 — West African empires and Islamic heritage.",
-      "factsAdvanced": [
-        "Founded in the 19th century by the military and religious leader El Hadj Umar Tall.",
-        "Home to a highly venerated, historic thatched-roof mosque.",
-        "Served as the launching point for the Toucouleur Empire.",
-        "Located in the dry savanna region of northern Guinea.",
-        "Population of the urban commune was around 47,000 in 2014.",
-        "An important regional center for cattle herding and groundnut farming."
-      ]
-    },
-    {
-      "id": "gaoual-cities-v2",
-      "descriptionAdvanced": "Gaoual is a remote and culturally distinct city located in northwestern Guinea, situated in a low-lying basin bordered by the majestic Fouta Djallon mountains to the east. The city sits near the Tominé River, which flows towards Guinea-Bissau, creating a fertile valley system that is excellent for agriculture and extensive cattle grazing. Gaoual is widely recognized as the traditional capital of the Bassari and Koniagui people, ethnic groups known for their rich pre-Islamic animist traditions, elaborate initiation ceremonies, and unique architecture. The area's relative isolation has preserved these cultural practices, though the dominant Fulani pastoralist culture also heavily influences the city. The local economy is driven by weekly livestock markets, honey production, and cross-border trade with neighboring Senegal and Guinea-Bissau. Geography K7 — cultural enclaves and river basins.",
-      "factsAdvanced": [
-        "Located in northwestern Guinea near the border with Guinea-Bissau.",
-        "Situated in a geographic basin near the Tominé River.",
-        "The traditional heartland of the Bassari and Koniagui ethnic groups.",
-        "Population was roughly 20,000 in the 2014 census.",
-        "A major regional hub for cattle trading and honey production.",
-        "Known for preserving unique animist cultural traditions."
-      ]
-    },
-    {
-      "id": "kerouane-cities-v2",
-      "descriptionAdvanced": "Kérouané is a historically significant city in eastern Guinea, situated in the Milo River basin. During the late 19th century, it served as a major military stronghold and temporary capital for Samori Touré, the legendary founder of the Wassoulou Empire, who fiercely resisted French colonial expansion for decades. The city is surrounded by expansive savannas and is a major center for both agriculture and artisanal diamond mining, with the nearby Banankoro region producing some of the country's highest-quality gems. Kérouané's infrastructure is relatively underdeveloped, making travel difficult during the rainy season, yet it remains a vibrant hub for the Malinke people, maintaining strong traditions in music, griot storytelling, and agriculture. History K8 — African resistance to colonization and the Wassoulou Empire.",
-      "factsAdvanced": [
-        "Located in eastern Guinea along the Milo River basin.",
-        "Served as a major stronghold for Emperor Samori Touré in the 19th century.",
-        "A primary center for Guinea's artisanal diamond mining industry.",
-        "Population of the urban area was about 36,000 in 2014.",
-        "The local culture is deeply rooted in Malinke traditions and griot music.",
-        "Access to the city is notoriously difficult during the heavy rainy season."
-      ]
-    },
-    {
-      "id": "koubia-cities-v2",
-      "descriptionAdvanced": "Koubia is a small, tranquil administrative center perched high in the northern Fouta Djallon mountains. It is one of the most geographically isolated prefectural capitals in Guinea, characterized by rugged terrain, steep ravines, and sweeping panoramic views of the highland plateaus. The city's climate is notably cool, supporting the cultivation of specialized crops like fonio, potatoes, and various citrus fruits, alongside traditional Fulani cattle herding. Koubia's isolation has limited its industrial and commercial growth, but it has fostered a strong, tight-knit community deeply committed to Islamic education and traditional pastoralist lifestyles. The surrounding landscape features numerous undocumented waterfalls and caves, offering immense, yet largely untapped, potential for eco-tourism. Geography K7 — high-altitude settlements and pastoralism.",
-      "factsAdvanced": [
-        "One of the most isolated prefectural capitals in the Fouta Djallon.",
-        "Situated at a high elevation, featuring a distinctly cool climate.",
-        "Population of the central town was roughly 15,000 in 2014.",
-        "The economy is heavily reliant on subsistence agriculture and cattle herding.",
-        "A major production area for fonio, a traditional West African grain.",
-        "The surrounding terrain is characterized by steep ravines and plateaus."
-      ]
-    },
-    {
-      "id": "koundara-cities-v2",
-      "descriptionAdvanced": "Koundara is Guinea's northernmost city, located just a few kilometers from the Senegalese border in a dry, low-lying savanna plain. Due to its geography, Koundara experiences some of the hottest temperatures in the country, distinctly different from the cooler highlands to its south. The city is a bustling transit and customs hub, handling the vast majority of overland trade and passenger traffic moving between Guinea and Senegal. The region is ethnically diverse, home to Fulani, Badiaranké, and Bassari communities, creating a unique cross-border cultural atmosphere. Koundara also serves as the gateway to the Badiar National Park, a protected savanna ecosystem that borders Senegal's Niokolo-Koba National Park, providing crucial habitat for antelopes, monkeys, and diverse bird species. Biology K7 — savanna ecosystems and national park borders.",
-      "factsAdvanced": [
-        "The northernmost prefectural capital in Guinea.",
-        "Located near the main border crossing into Senegal.",
-        "Experiences the highest average temperatures in the country.",
-        "Serves as the gateway to the Badiar National Park.",
-        "Population of the urban center was around 27,000 in 2014.",
-        "Home to a mix of Fulani, Badiaranké, and Bassari ethnic groups."
-      ]
-    },
-    {
-      "id": "lelouma-cities-v2",
-      "descriptionAdvanced": "Lélouma is a picturesque town situated deep within the Fouta Djallon highlands, surrounded by dramatic escarpments and verdant valleys. The town is highly regarded for its intellectual and religious heritage, historically producing many prominent Islamic scholars and community leaders within the Fulani culture. The local economy is agrarian, focused on terrace farming, orange orchards, and cattle grazing, adapted perfectly to the challenging mountainous topography. Lélouma is famous for the nearby 'Echelles de Lélouma' (Lélouma Ladders), a series of ancient, precarious bamboo and vine ladders constructed by locals to navigate the sheer cliffs and connect isolated plateau villages to the valleys below. This stunning, rugged environment makes the area one of the most visually spectacular, though difficult to access, regions in Guinea. Geography K7 — mountain adaptations and terraced agriculture.",
-      "factsAdvanced": [
-        "Located in the central highlands of the Fouta Djallon.",
-        "Famous for the ancient 'Echelles de Lélouma' cliff ladders.",
-        "A prominent historical center of Islamic scholarship.",
-        "Population of the town was approximately 16,000 in 2014.",
-        "Local agriculture specializes in orange orchards and terrace farming.",
-        "Characterized by steep escarpments and deep valley geography."
-      ]
-    },
-    {
-      "id": "lola-cities-v2",
-      "descriptionAdvanced": "Lola is the easternmost city in the Forest Guinea region, situated near the border with Côte d'Ivoire. The city serves as the gateway to the world-renowned Mount Nimba Strict Nature Reserve, a UNESCO World Heritage site famous for its exceptional biodiversity, including unique viviparous toads and tool-using chimpanzees. Lola is a bustling agricultural center where local farmers from the surrounding dense forests bring coffee, cocoa, palm oil, and kola nuts to market. The population is a diverse mix of Mano, Konianké, and Guerze people, creating a vibrant cultural dynamic. Despite its ecological wealth, the city faces tension between conservation efforts on Mount Nimba and the economic pressure of massive iron ore mining concessions located just outside the protected boundaries. Biology K8 — UNESCO biodiversity hotspots and conservation.",
-      "factsAdvanced": [
-        "The easternmost prefectural capital in Guinea.",
-        "Acts as the main base for access to the Mount Nimba Strict Nature Reserve.",
-        "Located near the border with Côte d'Ivoire.",
-        "Population of the urban area was about 48,000 in 2014.",
-        "A major regional market for coffee, palm oil, and kola nuts.",
-        "Faces ongoing tension between ecological conservation and iron ore mining."
+        "Elevation: 4,191 meters (13,750 ft)",
+        "Name translates to "Storm Mountain"",
+        "Located near the city of Gabala",
+        "Site of the Tufandag Mountain Resort",
+        "A year-round tourism destination",
+        "Features extensive ski slopes and cable car network",
+        "Part of the Greater Caucasus mountain range",
+        "Known for its frequent stormy weather"
       ]
     }
   ]
 }
 
-with open('/mnt/c/Users/User/plizio_orch/seo_outputs/seo_guinea_en_batch1.json', 'w', encoding='utf-8') as f:
-    json.dump(data, f, indent=2, ensure_ascii=False)
+with open('/mnt/c/Users/User/plizio_orch/seo_outputs/seo_azerbaijan_relief_multi4_batch1.json', 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)

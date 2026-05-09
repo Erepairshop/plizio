@@ -1,0 +1,43 @@
+{
+  "lang": "hu",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gaborone-sun-international-landmarks-v2",
+      "description": "A Gaborone Sun International a főváros egyik ismert szálloda- és rendezvényhelyszíne. A városi vendéglátás és konferencia-infrastruktúra fontos eleme.",
+      "facts": ["Szálloda", "Konferenciák helyszíne", "Gaborone-ban"]
+    },
+    {
+      "id": "gaborone-princess-marina-hospital-landmarks-v2",
+      "description": "A Princess Marina Hospital Botswana egyik legfontosabb egészségügyi intézménye. A fővárosi kórház regionális ellátási szerepet is betölt.",
+      "facts": ["Nagy kórház", "Gaborone-ban", "Regionális ellátás"]
+    },
+    {
+      "id": "gaborone-university-admin-block-landmarks-v2",
+      "description": "A University of Botswana adminisztratív épülete az egyetem központi irányítási tere. Az intézményi kampusz egyik legfontosabb épülete Gaboronéban.",
+      "facts": ["Egyetemi adminisztráció", "Gaborone campus", "Felsőoktatási központ"]
+    },
+    {
+      "id": "bank-of-botswana-landmarks-v2",
+      "description": "A Bank of Botswana épülete a nemzeti pénzügyi rendszer egyik legfontosabb gaboronei pontja. A központi bank jelenléte a város intézményi súlyát mutatja.",
+      "facts": ["Központi bank", "Gaborone-ban", "Pénzügyi intézmény"]
+    },
+    {
+      "id": "francistown-railway-station-landmarks-v2",
+      "description": "A francistowni vasútállomás a város közlekedési történetének meghatározó épülete. A vasúti kapcsolat a régió kereskedelmi fejlődéséhez is hozzájárult.",
+      "facts": ["Vasútállomás", "Francistown-ban", "Közlekedési örökség"]
+    },
+    {
+      "id": "seretse-khama-statue-landmarks-v2",
+      "description": "A Seretse Khama-szobor Botswana első elnökének állít emléket. A fővárosi emlékmű a modern államiság egyik fontos jelképe.",
+      "facts": ["Botswana első elnöke", "Emlékmű", "Gaborone-ban"]
+    }
+  ]
+}

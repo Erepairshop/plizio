@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-c-buenos-aires-cities-v2",
+      "description": "Capitala și cel mai mare oraș al Argentinei, un centru cultural vibrant cu o arhitectură europeană distinctivă.",
+      "facts": ["Fondat în 1536", "Peste 3 milioane de locuitori", "Centru politic al țării", "Situat pe malul Rio de la Plata"]
+    },
+    {
+      "id": "ar-b-la-plata-cities-v2",
+      "description": "Capitala provinciei Buenos Aires, cunoscută pentru planificarea urbană raționalistă și Catedrala sa monumentală.",
+      "facts": ["Fondat în 1882", "Design urban în carouri", "Sediul guvernului provincial", "Arhitectură neogotică"]
+    },
+    {
+      "id": "ar-b-mar-del-plata-cities-v2",
+      "description": "Cea mai populară destinație balneară a Argentinei, renumită pentru plajele sale vaste și viața de noapte activă.",
+      "facts": ["Situat pe coasta Atlanticului", "Fondat în 1874", "Centru turistic major", "Port pescăresc important"]
+    },
+    {
+      "id": "ar-b-bahia-blanca-cities-v2",
+      "description": "Un oraș portuar strategic din sudul provinciei Buenos Aires, servind ca hub comercial și industrial.",
+      "facts": ["Fondat în 1828", "Port maritim important", "Centru industrial regional", "Climat temperat-oceanic"]
+    },
+    {
+      "id": "ar-b-tandil-cities-v2",
+      "description": "Un oraș pitoresc situat între dealuri, recunoscut pentru peisajele sale naturale și producția locală de brânzeturi.",
+      "facts": ["Fondat în 1823", "Regiunea munților Tandilia", "Centru turistic de munte", "Producție alimentară locală"]
+    },
+    {
+      "id": "ar-b-quilmes-cities-v2",
+      "description": "Oraș industrial și istoric important din zona metropolitană a Buenos Aires-ului.",
+      "facts": ["Fondat în 1666", "Centru industrial major", "Renume pentru industria berii", "Parte a conurbației Buenos Aires"]
+    },
+    {
+      "id": "ar-b-lomas-de-zamora-cities-v2",
+      "description": "Un oraș rezidențial dezvoltat în zona metropolitană a capitalei argentiniene.",
+      "facts": ["Fondat în 1864", "Zona rezidențială", "Densitate mare a populației", "Parte a ariei metropolitane"]
+    },
+    {
+      "id": "ar-b-san-isidro-cities-v2",
+      "description": "O localitate rezidențială elegantă, situată la nord de Buenos Aires, cunoscută pentru arhitectura sa colonială.",
+      "facts": ["Fondat în 1706", "Suburbie de elită", "Catedrală istorică", "Situat pe malul râului"]
+    },
+    {
+      "id": "ar-b-san-nicolas-de-los-arroyos-cities-v2",
+      "description": "Oraș situat pe malul râului Paraná, jucând un rol istoric important în politica națională.",
+      "facts": ["Fondat în 1748", "Locul semnării Acordului San Nicolás", "Centru agricol regional", "Situat pe râul Paraná"]
+    },
+    {
+      "id": "ar-b-lanus-cities-v2",
+      "description": "Un centru urban industrial și dens populat în provincia Buenos Aires.",
+      "facts": ["Fondat în 1888", "Centru industrial activ", "Zonă urbană densă", "Parte a conurbației"]
+    }
+  ]
+}

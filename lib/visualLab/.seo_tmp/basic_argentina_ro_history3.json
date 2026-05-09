@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-palacio-san-jose-history-v2",
+      "description": "Fosta reședință a președintelui Justo José de Urquiza, un monument istoric de o importanță deosebită.",
+      "facts": ["Reședință istorică", "Monument național", "Regiunea Entre Ríos", "Istorie politică"]
+    },
+    {
+      "id": "ar-casa-virrey-liniers-history-v2",
+      "description": "O casă colonială care a aparținut viceregelui Liniers, oferind o perspectivă asupra vieții din epoca colonială.",
+      "facts": ["Arhitectură colonială", "Istorie colonială", "Regiunea Buenos Aires", "Muzeu istoric"]
+    },
+    {
+      "id": "ar-casa-sarmiento-history-v2",
+      "description": "Casa natală a președintelui Domingo Faustino Sarmiento, un simbol al educației naționale.",
+      "facts": ["Casa natală", "Patrimoniu istoric", "Regiunea San Juan", "Simbol educațional"]
+    },
+    {
+      "id": "ar-cabildo-salta-history-v2",
+      "description": "Un Cabildo bine conservat, centrul administrativ al orașului Salta în perioada colonială.",
+      "facts": ["Arhitectură colonială", "Centru administrativ", "Regiunea Salta", "Patrimoniu istoric"]
+    },
+    {
+      "id": "ar-convento-san-bernardo-history-v2",
+      "description": "Mănăstire istorică în Salta, cunoscută pentru arhitectura sa colonială și istoria spirituală.",
+      "facts": ["Mănăstire istorică", "Arhitectură veche", "Regiunea Salta", "Viață spirituală"]
+    },
+    {
+      "id": "ar-ruinas-tolombon-history-v2",
+      "description": "Ruinele unei așezări indigene din Valles Calchaquíes, parte a patrimoniului cultural ancestral.",
+      "facts": ["Sit arheologic", "Istorie indigenă", "Regiunea Salta", "Valori arheologice"]
+    },
+    {
+      "id": "ar-pucara-aconquija-history-v2",
+      "description": "Fortăreață montană (Pucará) care atestă prezența și arhitectura culturilor indigene din Anzi.",
+      "facts": ["Fortăreață antică", "Sit arheologic", "Regiunea Catamarca", "Patrimoniu montan"]
+    },
+    {
+      "id": "ar-los-menhires-history-v2",
+      "description": "Un sit arheologic cu monumente megalitice (menhire) ce datează din perioada pre-hispanica.",
+      "facts": ["Sit arheologic", "Monumente megalitice", "Regiunea Tucumán", "Istorie ancestrală"]
+    },
+    {
+      "id": "ar-capilla-huerfanos-history-v2",
+      "description": "Capelă veche, un mic monument istoric din provincia Córdoba, reprezentativ pentru arhitectura rurală.",
+      "facts": ["Capelă istorică", "Arhitectură rurală", "Regiunea Córdoba", "Istorie religioasă"]
+    },
+    {
+      "id": "ar-reduccion-yapeyu-history-v2",
+      "description": "Ruinele unei foste misiuni, locul nașterii eroului național José de San Martín.",
+      "facts": ["Sit istoric", "Nașterea lui San Martín", "Regiunea Corrientes", "Misiune iezuită"]
+    }
+  ]
+}

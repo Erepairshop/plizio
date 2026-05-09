@@ -1,0 +1,117 @@
+{
+  "lang": "en",
+  "country": "Bahrain",
+  "files": [
+    "lib/visualLab/data/poiExtraBahrainCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBahrainHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBahrainLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBahrainLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "budaiya-cities-v2",
+      "description": "A coastal town known for its agricultural heritage and historic palm groves. It remains an important center for local farming and rural life.",
+      "facts": ["Located in northern Bahrain", "Known for agricultural farms", "Coastal settlement", "Traditional lifestyle"]
+    },
+    {
+      "id": "tubli-cities-v2",
+      "description": "This area is famous for the Tubli Bay, a vital marine ecosystem for mangroves. It serves as a residential and industrial hub near the capital.",
+      "facts": ["Home to Tubli Bay", "Mangrove sanctuary", "Residential district", "Strategic location"]
+    },
+    {
+      "id": "busaiteen-cities-v2",
+      "description": "A growing residential area located on the northern coast of Muharraq. It offers modern housing developments and scenic waterfront views.",
+      "facts": ["Muharraq Governorate", "Coastal residential area", "Modern infrastructure", "Near airport access"]
+    },
+    {
+      "id": "jaww-cities-v2",
+      "description": "A quiet coastal village located in the southern part of the island. It retains a traditional fishing-village atmosphere.",
+      "facts": ["Southern Bahrain", "Traditional fishing hub", "Quiet coastal village", "Historic settlement"]
+    },
+    {
+      "id": "barbar-cities-v2",
+      "description": "A significant archaeological site known for the ancient Barbar Temples dating back to the Dilmun civilization. It is a peaceful residential town.",
+      "facts": ["Dilmun civilization site", "Barbar Temples location", "Northern Bahrain", "Historical importance"]
+    },
+    {
+      "id": "bani-jamra-cities-v2",
+      "description": "Known for its traditional weaving industry that has been practiced for generations. This village preserves a distinct cultural heritage.",
+      "facts": ["Weaving heritage center", "Cultural village", "Northern region", "Traditional looms"]
+    },
+    {
+      "id": "karrana-cities-v2",
+      "description": "A quaint village settled in the northern part of Bahrain. It is characterized by its agricultural roots and proximity to the coast.",
+      "facts": ["Agricultural village", "Northern Bahrain", "Quiet neighborhood", "Palm tree landscape"]
+    },
+    {
+      "id": "salmabad-cities-v2",
+      "description": "A busy industrial and residential area located in the center of the island. It hosts various workshops and small-scale manufacturing businesses.",
+      "facts": ["Central Bahrain", "Industrial hub", "Mixed residential zone", "Business district"]
+    },
+    {
+      "id": "karbabad-cities-v2",
+      "description": "A small village famous for its proximity to traditional pottery workshops and the Qal'at al-Bahrain site. It blends history with daily coastal life.",
+      "facts": ["Near Qal'at al-Bahrain", "Pottery traditions", "Northern coast", "Cultural proximity"]
+    },
+    {
+      "id": "arad-fort-history-v2",
+      "description": "A 15th-century fort built in the traditional defensive style of the region. It stands as a prominent symbol of Bahrain's maritime history.",
+      "facts": ["15th-century structure", "Defensive fortification", "Muharraq location", "Maritime heritage"]
+    },
+    {
+      "id": "ain-umm-sujoor-history-v2",
+      "description": "An ancient spring and archaeological site that dates back thousands of years. It was historically a vital water source for early settlers.",
+      "facts": ["Ancient spring", "Archaeological site", "Dilmun-era water source", "Historic irrigation"]
+    },
+    {
+      "id": "abu-mahir-fort-history-v2",
+      "description": "A historic coastal fort that played a strategic role in guarding the entrance to Muharraq harbor. It is a key element of the Pearling Path.",
+      "facts": ["Pearling Path site", "Strategic defense", "Coastal location", "Historical restoration"]
+    },
+    {
+      "id": "al-jasra-house-history-v2",
+      "description": "A traditional limestone house that serves as a fine example of vernacular Bahraini architecture. It was once a residence for ruling families.",
+      "facts": ["Traditional limestone home", "Vernacular architecture", "Historical landmark", "Cultural heritage"]
+    },
+    {
+      "id": "bh-al-fateh-grand-mosque-landmarks-v2",
+      "description": "One of the largest mosques in the world, featuring stunning Islamic architecture. It serves as a major cultural and religious center in Bahrain.",
+      "facts": ["Grand Islamic landmark", "Architectural monument", "Cultural center", "Major tourist attraction"]
+    },
+    {
+      "id": "bh-bab-al-bahrain-landmarks-v2",
+      "description": "A historical building that serves as the entrance to the Manama Souq. It is an iconic landmark reflecting the country's trading history.",
+      "facts": ["Manama entry point", "Trading historical site", "Iconic structure", "Market district"]
+    },
+    {
+      "id": "bh-riffa-fort-landmarks-v2",
+      "description": "A majestic 19th-century fort overlooking the Hunayniyah valley. It offers historical insights into the Al Khalifa ruling family's past.",
+      "facts": ["19th-century fortification", "Valley viewpoint", "Historical museum", "Riffa landmark"]
+    },
+    {
+      "id": "al-hidd-park-life-v2",
+      "description": "A seaside park providing recreational space for families and leisure activities. It features landscaped gardens and waterfront walking paths.",
+      "facts": ["Seaside recreational area", "Family park", "Waterfront paths", "Public space"]
+    },
+    {
+      "id": "askar-coast-park-life-v2",
+      "description": "A calm coastal area providing access to the sea and outdoor leisure. It is popular for local residents seeking quiet natural surroundings.",
+      "facts": ["Coastal leisure zone", "Natural scenery", "Southern Bahrain", "Quiet public area"]
+    },
+    {
+      "id": "al-sayh-walkway-life-v2",
+      "description": "A scenic pedestrian walkway offering views of the Muharraq coast. It is a favored spot for residents to enjoy evening walks and exercise.",
+      "facts": ["Coastal pedestrian path", "Muharraq location", "Exercise spot", "Scenic views"]
+    },
+    {
+      "id": "karbabad-beach-park-life-v2",
+      "description": "A beachside recreational facility providing access to the coast and green spaces. It serves as a relaxing spot near the historical capital.",
+      "facts": ["Public beach park", "Coastal relaxation", "Near city center", "Recreational green space"]
+    },
+    {
+      "id": "hamad-town-park-life-v2",
+      "description": "A large community park in the heart of Hamad Town. It serves as a central hub for social gatherings, sports, and outdoor family fun.",
+      "facts": ["Community green space", "Social gathering spot", "Hamad Town central", "Sports facilities"]
+    }
+  ]
+}

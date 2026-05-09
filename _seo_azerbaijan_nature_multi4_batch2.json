@@ -1,0 +1,74 @@
+
+{
+  "lang": "multi4",
+  "country": "azerbaijan",
+  "files": ["lib/visualLab/data/poiExtraAzerbaijanNatureV2.ts"],
+  "items": [
+    {
+      "id": "goygol-national-park-nature-v2",
+      "descriptionAdvancedDe": "Der Göygöl-Nationalpark, gegründet im Jahr 2008, ist ein Juwel im Kleinen Kaukasus Aserbaidschans. Er wurde geschaffen, um die unberührten Berg- und Waldökosysteme rund um den atemberaubenden Göygöl-See zu schützen. Der Park erstreckt sich über eine Fläche von 12.755 Hektar und beherbergt eine reiche Artenvielfalt. Dichte Wälder, die von Bäumen wie Eichen, Buchen und Hainbuchen dominiert werden, bedecken einen Großteil des Geländes. Diese Wälder bieten Lebensraum für eine Vielzahl von Tieren, darunter Braunbären, Rothirsche und Luchse. Der Park ist nicht nur ein wichtiges Schutzgebiet, sondern auch ein beliebtes Ziel für Touristen, die die klaren Seen, die dichte Vegetation und die malerischen Landschaften genießen möchten, die durch ein Erdbeben im Jahr 1139 geformt wurden.",
+      "descriptionAdvancedHu": "A Göygöl Nemzeti Parkot 2008-ban alapították Azerbajdzsánban, a Kis-Kaukázus hegyvonulatában, hogy megóvják a térség egyedülálló hegyi ökoszisztémáit. A 12 755 hektáros park központi eleme a névadó Göygöl-tó, amely egy 1139-es földrengés következtében jött létre. A park területét sűrű erdők borítják, ahol tölgy, bükk és gyertyánfa a domináns. Az erdők gazdag állatvilágnak adnak otthont; megtalálható itt a barna medve, a gímszarvas és a hiúz is. A park nemcsak a természetvédelem szempontjából kulcsfontosságú, hanem népszerű turisztikai célpont is, köszönhetően kristálytiszta tavainak, buja növényzetének és a lenyűgöző hegyi tájnak, amely a túrázókat és a természetkedvelőket egyaránt vonzza.",
+      "descriptionAdvancedRo": "Parcul Național Goygol, înființat în 2008, este o arie protejată esențială situată în Munții Caucazul Mic din Azerbaidjan. Scopul său principal este conservarea ecosistemelor montane și forestiere virgine care înconjoară Lacul Goygol. Parcul se întinde pe o suprafață de 12.755 de hectare și este renumit pentru biodiversitatea sa bogată. Pădurile dense, dominate de specii precum stejarul, fagul și carpenul, acoperă o mare parte a teritoriului. Aceste păduri oferă un habitat vital pentru o faună diversă, incluzând ursul brun, căprioara și râsul. Pe lângă rolul său de conservare, parcul este o destinație turistică populară, atrăgând vizitatori dornici să exploreze lacurile sale limpezi, vegetația luxuriantă și peisajele montane spectaculoase.",
+      "descriptionAdvancedEn": "Goygol National Park, established in 2008, is a pristine natural sanctuary located in the Lesser Caucasus Mountains of Azerbaijan. Its primary mission is to protect the fragile mountain and forest ecosystems surrounding the stunning Lake Goygol. Covering an area of 12,755 hectares, the park boasts remarkable biodiversity. The landscape is characterized by dense forests dominated by oak, beech, and hornbeam trees, providing a critical habitat for a wide range of fauna, including brown bears, roe deer, and lynx. Besides its conservation importance, the park is a major tourist attraction. Visitors are drawn to its series of clear, beautiful lakes (including Maralgol and Zaligol), lush vegetation, and the dramatic mountain scenery originally shaped by an earthquake in 1139.",
+      "factsAdvanced": [
+        "Alapítva: 2008",
+        "Területe 12 755 hektár.",
+        "A Kis-Kaukázusban található.",
+        "Központja a Göygöl-tó.",
+        "Jelentős erdőségek borítják (tölgy, bükk).",
+        "Élőhelye a barna medvének és a hiúznak.",
+        "Népszerű túrázó- és kirándulóhely.",
+        "A tájat egy 1139-es földrengés formálta."
+      ]
+    },
+    {
+      "id": "lake-goygol-nature-v2",
+      "descriptionAdvancedDe": "Der Göygöl-See, dessen Name „Blauer See“ bedeutet, ist einer der schönsten Seen im Kaukasus. Er entstand 1139 durch einen gewaltigen Felssturz, der durch ein Erdbeben ausgelöst wurde und den Fluss Ağsu aufstaute. Der See liegt auf einer Höhe von 1.556 Metern im Kleinen Kaukasus und ist das Herzstück des gleichnamigen Nationalparks. Er ist bekannt für sein außergewöhnlich klares und tiefblaues Wasser, in dem sich die umliegenden dichten Wälder und majestätischen Berggipfel spiegeln. Mit einer Tiefe von bis zu 96 Metern ist er einer der tieferen Bergseen der Region. Die unberührte Natur, die reiche Flora und Fauna und die malerische Umgebung machen den Göygöl zu einem der meistbesuchten Naturdenkmäler Aserbaidschans und zu einem Symbol für die natürliche Schönheit des Landes.",
+      "descriptionAdvancedHu": "A Göygöl-tó, nevének jelentése „Kék tó”, Azerbajdzsán egyik legfestőibb természeti képződménye. A tó 1139-ben egy katasztrofális földrengés nyomán keletkezett, amikor egy hegyomlás elzárta az Ağsu folyó medrét. A Kis-Kaukázusban, 1556 méteres tengerszint feletti magasságban fekszik, és a róla elnevezett nemzeti park központi látványossága. Vize rendkívül tiszta és mélykék, amelyben a környező sűrű erdők és hegycsúcsok tükröződnek. Maximális mélysége eléri a 96 métert. Érintetlen környezete, a gazdag növény- és állatvilág, valamint a lélegzetelállító táj Azerbajdzsán egyik leglátogatottabb természeti emlékévé teszi, amely az ország természeti szépségének szimbólumává vált.",
+      "descriptionAdvancedRo": "Lacul Goygol, al cărui nume se traduce prin „Lacul Albastru”, este unul dintre cele mai spectaculoase lacuri din Caucaz. S-a format în anul 1139 în urma unui cutremur devastator, care a provocat o alunecare masivă de teren ce a blocat albia râului Ağsu. Situat la o altitudine de 1.556 de metri în Munții Caucazul Mic, lacul este piesa centrală a parcului național omonim. Este renumit pentru apa sa cristalină, de un albastru intens, în care se oglindesc pădurile dese și vârfurile muntoase din jur. Cu o adâncime maximă de 96 de metri, este unul dintre cele mai adânci lacuri montane din regiune. Frumusețea sa naturală neatinsă și peisajul pitoresc îl fac unul dintre cele mai vizitate monumente ale naturii din Azerbaidjan.",
+      "descriptionAdvancedEn": "Lake Goygol, meaning 'the Blue Lake,' is an iconic natural landmark in Azerbaijan, renowned for its stunning beauty. It was formed in 1139 after a massive earthquake triggered a landslide that dammed the Ağsu River. Located at an altitude of 1,556 meters in the Lesser Caucasus mountains, the lake is the centerpiece of the Goygol National Park. It is famous for its crystal-clear water, which has a striking deep blue color, perfectly reflecting the dense surrounding forests and towering mountain peaks. The lake reaches a maximum depth of 96 meters, making it one of the deeper alpine lakes in the Caucasus. Its pristine environment and picturesque scenery have made it a symbol of Azerbaijan's natural heritage and a highly popular destination for locals and tourists alike.",
+      "factsAdvanced": [
+        "1139-ben, földrengés által keletkezett.",
+        "Tengerszint feletti magassága 1556 méter.",
+        "Neve azeri nyelven „Kék tavat” jelent.",
+        "A Göygöl Nemzeti Park központja.",
+        "Vize rendkívül tiszta és mély.",
+        "Maximális mélysége 96 méter.",
+        "A környező sűrű erdők tükröződnek benne."
+      ]
+    },
+    {
+      "id": "mount-bazarduzu-nature-v2",
+      "descriptionAdvancedDe": "Der Bazardüzü ist mit einer Höhe von 4.466 Metern der höchste Berg Aserbaidschans und ein markanter Gipfel im Großen Kaukasus. Er liegt direkt an der Grenze zwischen Aserbaidschan und der russischen Republik Dagestan. Der Name „Bazardüzü“ bedeutet übersetzt „Marktplatz-Ebene“ und verweist auf einen alten Handelsplatz, der sich einst in einem nahegelegenen Tal befand. Der Berg ist für seine steilen Hänge, felsigen Grate und mehreren Gletscher bekannt, die ihn zu einem anspruchsvollen Ziel für Alpinisten machen. Die Besteigung erfordert technisches Können und eine gute Akklimatisierung. Die Landschaft rund um den Bazardüzü ist von alpiner Tundra und kargen Felslandschaften geprägt und bietet spektakuläre Ausblicke auf die umliegende kaukasische Bergwelt.",
+      "descriptionAdvancedHu": "A Bazardüzü hegycsúcs 4466 méteres magasságával Azerbajdzsán legmagasabb pontja. A Nagy-Kaukázus fő vonulatában, Azerbajdzsán és az oroszországi Dagesztán határán emelkedik. Neve, a „Bazardüzü” annyit tesz: „piaci síkság”, ami egy közeli völgyben fekvő, történelmi kereskedelmi helyre utalhatott. A hegyet gleccserek borítják, meredek lejtői és sziklás gerincei komoly kihívást jelentenek a hegymászók számára, akiknek megfelelő technikai felkészültségre van szükségük a csúcs eléréséhez. A hegy környezete alpesi tundra és kopár sziklavilág, ahonnan lélegzetelállító kilátás nyílik a Kaukázus környező hegyeire. A Bazardüzü nemcsak földrajzi, hanem nemzeti szimbólum is Azerbajdzsánban.",
+      "descriptionAdvancedRo": "Muntele Bazarduzu, cu o altitudine de 4.466 de metri, este cel mai înalt vârf din Azerbaidjan și un pisc proeminent în lanțul Munților Caucazul Mare. Este situat pe linia de frontieră dintre Azerbaidjan și Republica Daghestan a Rusiei. Numele său, Bazarduzu, înseamnă „câmpia pieței”, o referire la un vechi târg comercial care se ținea într-o vale din apropiere. Muntele este acoperit de ghețari și este cunoscut pentru versanții săi abrupți și crestele stâncoase, reprezentând o provocare semnificativă pentru alpiniști. Cucerirea vârfului necesită experiență tehnică și o bună aclimatizare. Peisajul din jurul muntelui este dominat de tundra alpină și oferă priveliști spectaculoase asupra regiunii caucaziene.",
+      "descriptionAdvancedEn": "Mount Bazarduzu stands at an elevation of 4,466 meters (14,652 ft), making it the highest peak in the Republic of Azerbaijan. Located in the Greater Caucasus mountain range, its summit lies on the international border between Azerbaijan and the Dagestan Republic of Russia. The name 'Bazardüzü' translates to 'market square plain,' likely referring to an ancient marketplace that was held in a nearby valley. The mountain is characterized by its steep slopes, rocky ridges, and several glaciers, presenting a formidable challenge even for experienced mountaineers. Ascending the peak requires technical climbing skills and proper acclimatization. The surrounding landscape consists of alpine tundra and offers breathtaking panoramic views of the Caucasus.",
+      "factsAdvanced": [
+        "Azerbajdzsán legmagasabb pontja (4466 m).",
+        "A Nagy-Kaukázusban található.",
+        "A dagesztáni (Oroszország) határon fekszik.",
+        "Neve „piaci síkságot” jelent.",
+        "Több gleccser is található a hegyen.",
+        "Népszerű és kihívást jelentő hegymászó célpont.",
+        "A környező táj alpesi tundra."
+      ]
+    },
+    {
+      "id": "kura-river-nature-v2",
+      "descriptionAdvancedDe": "Die Kura, in der Antike als Kyros bekannt, ist mit 1.515 Kilometern der längste Fluss im Südkaukasus. Sie entspringt im Nordosten der Türkei, fließt durch Georgien, einschließlich der Hauptstadt Tiflis, und durchquert dann Aserbaidschan, bevor sie in das Kaspische Meer mündet. In Aserbaidschan ist die Kura von zentraler Bedeutung für die Wirtschaft und das tägliche Leben. Sie ist die Hauptquelle für die Bewässerung der trockenen Steppen der Kura-Aras-Niederung, die das landwirtschaftliche Herz des Landes bilden. Darüber hinaus wird ihr Wasser zur Energiegewinnung genutzt, insbesondere am riesigen Mingəçevir-Stausee. Der Fluss ist auch ein wichtiger Lebensraum für verschiedene Fischarten, obwohl sein ökologisches Gleichgewicht durch Verschmutzung und übermäßige Wassernutzung bedroht ist.",
+      "descriptionAdvancedHu": "A Kura a Dél-Kaukázus leghosszabb és legjelentősebb folyója, teljes hossza 1515 kilométer. Északkelet-Törökországban ered, áthalad Grúzián – beleértve Tbiliszi fővárosát is –, majd Azerbajdzsán területére ér, ahol a Kaszpi-tengerbe torkollik. Azerbajdzsán számára a Kura jelenti a legfőbb édesvízforrást. Vize elengedhetetlen a Kura-Arasz-alföld mezőgazdasági területeinek öntözéséhez, amely az ország éléskamrája. A folyón több vízerőmű is épült, közülük a legjelentősebb a Mingəçevir-víztározó, amely az ország áramellátásában játszik kulcsszerepet. A folyó alsó szakasza, ahol az Arasz folyóval egyesül, fontos ökológiai terület, bár a vízszennyezés és a túlzott vízgazdálkodás komoly kihívások elé állítja az élővilágát.",
+      "descriptionAdvancedRo": "Râul Kura, cunoscut în antichitate sub numele de Cyrus, este cel mai lung fluviu din Caucazul de Sud, având o lungime totală de 1.515 kilometri. Izvorăște din nord-estul Turciei, traversează Georgia, inclusiv capitala Tbilisi, și apoi străbate Azerbaidjanul înainte de a se vărsa în Marea Caspică. Pentru Azerbaidjan, Kura este o arteră vitală. Este sursa principală de apă pentru irigarea stepelor aride din Câmpia Kura-Aras, inima agricolă a țării. De asemenea, potențialul său hidroenergetic este exploatat pe scară largă, cel mai mare baraj fiind cel de la Mingachevir. La confluența cu râul Aras, formează o deltă importantă. Din păcate, ecosistemul râului este amenințat de poluare și de utilizarea excesivă a apei.",
+      "descriptionAdvancedEn": "The Kura River is the longest river in the South Caucasus, with a total length of 1,515 kilometers. Originating in northeastern Turkey, it flows through Georgia (including its capital, Tbilisi) and then crosses Azerbaijan to empty into the Caspian Sea. In Azerbaijan, the Kura is the country's most important river, serving as a lifeline for both agriculture and industry. Its waters are extensively used for irrigating the vast, arid Kura-Aras Lowland, the agricultural heartland of the nation. The river is also harnessed for significant hydroelectric power production, most notably at the large Mingachevir Dam and Reservoir. After being joined by its largest tributary, the Aras River, it forms a large delta at the Caspian coast, though its flow has been greatly reduced by upstream usage.",
+      "factsAdvanced": [
+        "A Dél-Kaukázus leghosszabb folyója (1515 km).",
+        "Törökországban ered, áthalad Grúzián és Azerbajdzsánon.",
+        "A Kaszpi-tengerbe torkollik.",
+        "Azerbajdzsán legfontosabb vízforrása.",
+        "A Kura-Arasz-alföld öntözésének alapja.",
+        "A Mingəçevir-víztározó energiatermelésre használja.",
+        "Legnagyobb mellékfolyója az Arasz.",
+        "Az ókorban Kyros (Cyrus) néven ismerték."
+      ]
+    }
+  ]
+}

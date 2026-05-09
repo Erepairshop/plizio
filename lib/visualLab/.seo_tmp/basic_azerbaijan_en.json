@@ -1,0 +1,39 @@
+{
+  "lang": "en",
+  "country": "Azerbaijan",
+  "files": [
+    "lib/visualLab/data/poiExtraAzerbaijanLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "shaki-khans-palace-landmarks-v2",
+      "description": "This 18th-century palace in Shaki served as the summer residence for the Khans. It is celebrated for its intricate wooden lattice work and vibrant stained glass.",
+      "facts": [
+        "Built in 1797",
+        "No nails used in construction",
+        "Famous for shebeke windows",
+        "UNESCO World Heritage site"
+      ]
+    },
+    {
+      "id": "momine-khatun-mausoleum-landmarks-v2",
+      "description": "Located in Nakhchivan, this 12th-century masterpiece is a prime example of the Nakhchivan architectural school. It is adorned with complex geometric patterns and Kufic calligraphy.",
+      "facts": [
+        "Built in 1186",
+        "Constructed by architect Ajami",
+        "Height is 25 meters",
+        "Key monument of medieval Azerbaijan"
+      ]
+    },
+    {
+      "id": "diri-baba-mausoleum-landmarks-v2",
+      "description": "This unique two-story mausoleum is built directly into a steep cliff near Maraza. It dates back to the 15th century and remains a significant site of historical interest.",
+      "facts": [
+        "Built in 1402",
+        "Embedded into rock face",
+        "Two-story structure",
+        "Associated with Diri Baba legend"
+      ]
+    }
+  ]
+}

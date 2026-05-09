@@ -1,0 +1,61 @@
+{
+  "lang": "de",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-a-san-ramon-de-la-nueva-oran-cities-v2",
+      "description": "Orán ist eine wichtige Handelsstadt im Norden der Provinz Salta, eingebettet in einer tropischen Region.",
+      "facts": ["Nord-Salta", "Handelsstadt", "Tropen-Nähe"]
+    },
+    {
+      "id": "ar-a-tartagal-cities-v2",
+      "description": "Tartagal ist bekannt für seine Erdölvorkommen und seine lebendige, multikulturelle Bevölkerung.",
+      "facts": ["Erdöl", "Multikulturell", "Provinz Salta"]
+    },
+    {
+      "id": "ar-j-san-juan-cities-v2",
+      "description": "San Juan ist die Hauptstadt der Provinz San Juan und ein Zentrum der Wein- und Obstwirtschaft.",
+      "facts": ["Hauptstadt San Juan", "Weinbau", "Wüstennähe"]
+    },
+    {
+      "id": "ar-d-san-luis-cities-v2",
+      "description": "San Luis ist die Hauptstadt der Provinz San Luis, gelegen am Fuß der Sierra de San Luis.",
+      "facts": ["Hauptstadt San Luis", "Sierra de San Luis", "Zentral-Argentinien"]
+    },
+    {
+      "id": "ar-d-villa-mercedes-cities-v2",
+      "description": "Villa Mercedes ist eine wirtschaftlich dynamische Industriestadt in der Provinz San Luis.",
+      "facts": ["Industriestadt", "Provinz San Luis", "Wirtschaft"]
+    },
+    {
+      "id": "ar-z-rio-gallegos-cities-v2",
+      "description": "Río Gallegos ist die Hauptstadt der Provinz Santa Cruz und ein wichtiger Ort in Patagonien.",
+      "facts": ["Hauptstadt Santa Cruz", "Patagonien", "Küstenstadt"]
+    },
+    {
+      "id": "ar-s-santa-fe-cities-v2",
+      "description": "Santa Fe ist eine historische Stadt am Zusammenfluss des Salado und des Paraná-Flusses.",
+      "facts": ["Hauptstadt Santa Fe", "Flusszusammenfluss", "Historisch"]
+    },
+    {
+      "id": "ar-s-rosario-cities-v2",
+      "description": "Rosario ist die drittgrößte Stadt Argentiniens und ein wichtiger Binnenhafen am Paraná-Fluss.",
+      "facts": ["Drittgrößte Stadt", "Paraná-Binnenhafen", "Kulturzentrum"]
+    },
+    {
+      "id": "ar-g-santiago-del-estero-cities-v2",
+      "description": "Die älteste noch existierende Stadt Argentiniens wurde 1553 gegründet.",
+      "facts": ["Älteste Stadt", "Gegründet 1553", "Provinzhauptstadt"]
+    },
+    {
+      "id": "ar-v-ushuaia-cities-v2",
+      "description": "Ushuaia gilt als die südlichste Stadt der Welt und ist das Tor zur Antarktis.",
+      "facts": ["Südlichste Stadt", "Tor zur Antarktis", "Feuerland"]
+    }
+  ]
+}

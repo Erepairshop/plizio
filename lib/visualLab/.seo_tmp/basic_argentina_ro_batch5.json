@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-l-general-pico-cities-v2",
+      "description": "Al doilea oraș ca mărime din provincia La Pampa, un centru agricol și de servicii.",
+      "facts": ["Fondat în 1905", "Centru agricol", "Regiunea La Pampa", "Hub regional"]
+    },
+    {
+      "id": "ar-f-la-rioja-cities-v2",
+      "description": "Capitala provinciei La Rioja, situată la poalele munților, cu o istorie colonială bogată.",
+      "facts": ["Fondat în 1591", "Capitală provincială", "Regiunea La Rioja", "Istorie colonială"]
+    },
+    {
+      "id": "ar-f-chilecito-cities-v2",
+      "description": "Oraș pitoresc în provincia La Rioja, cunoscut pentru peisajele montane și podgorii.",
+      "facts": ["Fondat în 1715", "Centru viticol", "Regiunea La Rioja", "Munții Famatina"]
+    },
+    {
+      "id": "ar-m-mendoza-cities-v2",
+      "description": "Capitala regiunii viticole Mendoza, faimoasă pentru producția de vin Malbec și apropierea de Anzi.",
+      "facts": ["Fondat în 1561", "Capitală viticolă", "Regiunea Mendoza", "Producție Malbec"]
+    },
+    {
+      "id": "ar-m-san-rafael-cities-v2",
+      "description": "Oraș turistic în inima provinciei Mendoza, cunoscut pentru activitățile de aventură.",
+      "facts": ["Fondat în 1805", "Turism de aventură", "Regiunea Mendoza", "Peisaje naturale"]
+    },
+    {
+      "id": "ar-m-godoy-cruz-cities-v2",
+      "description": "Parte a ariei metropolitane a orașului Mendoza, un centru comercial și rezidențial.",
+      "facts": ["Fondat în 1855", "Centru comercial", "Regiunea Mendoza", "Parte a conurbației"]
+    },
+    {
+      "id": "ar-m-lujan-de-cuyo-cities-v2",
+      "description": "Oraș faimos pentru podgoriile sale de talie mondială, parte a rutei vinului.",
+      "facts": ["Fondat în 1855", "Ruta vinului", "Regiunea Mendoza", "Podgorii celebre"]
+    },
+    {
+      "id": "ar-n-posadas-cities-v2",
+      "description": "Capitala provinciei Misiones, situată pe malul fluviului Paraná, poartă către Ruinele San Ignacio.",
+      "facts": ["Fondat în 1615", "Capitală provincială", "Regiunea Misiones", "Poartă către istorie"]
+    },
+    {
+      "id": "ar-n-obera-cities-v2",
+      "description": "Oraș cunoscut pentru diversitatea culturală și festivalurile care celebrează imigranții.",
+      "facts": ["Fondat în 1928", "Diversitate culturală", "Regiunea Misiones", "Festivaluri locale"]
+    },
+    {
+      "id": "ar-n-eldorado-cities-v2",
+      "description": "Oraș situat în provincia Misiones, înconjurat de jungla subtropicală a regiunii.",
+      "facts": ["Fondat în 1919", "Junglă subtropicală", "Regiunea Misiones", "Economie silvică"]
+    }
+  ]
+}

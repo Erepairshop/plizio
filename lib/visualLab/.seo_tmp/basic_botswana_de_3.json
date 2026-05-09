@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "walvis-bay-dry-port-bw-economic-v2",
+      "description": "Der Trockenhafen in Walvis Bay ist ein strategisches Projekt zur Anbindung Botswanas an den Atlantik.",
+      "facts": ["Internationale Logistik", "Meereszugang für Botswana", "Wichtige Handelsroute"]
+    },
+    {
+      "id": "boseto-copper-project-economic-v2",
+      "description": "Das Boseto-Kupferprojekt im Kalahari-Kupfergürtel ist ein bedeutendes Bergbauvorhaben.",
+      "facts": ["Kupfervorkommen", "Bergbau in der Kalahari", "Regionale Investition"]
+    },
+    {
+      "id": "gaborone-brewery-economic-v2",
+      "description": "Die Brauerei in Gaborone trägt wesentlich zur lokalen Industrie und Beschäftigung bei.",
+      "facts": ["Lokale Getränkeproduktion", "Industrielle Fertigung", "Großer Arbeitgeber"]
+    },
+    {
+      "id": "mowana-copper-mine-economic-v2",
+      "description": "Die Mowana-Mine ist eine Kupfermine im Norden Botswanas.",
+      "facts": ["Kupferproduktion", "Nördliche Bergbauaktivität", "Beschäftigung"]
+    },
+    {
+      "id": "francistown-abattoir-economic-v2",
+      "description": "Das Schlachthaus in Francistown bedient die Fleischverarbeitungsindustrie im Norden.",
+      "facts": ["Fleischverarbeitung", "Landwirtschaftliche Infrastruktur", "Exportnah"]
+    },
+    {
+      "id": "shumba-energy-coal-project-economic-v2",
+      "description": "Das Shumba-Energieprojekt zielt auf die Erschließung der botswanischen Kohlevorkommen.",
+      "facts": ["Kohleenergie-Entwicklung", "Energiewirtschaft", "Zukunftsprojekt"]
+    },
+    {
+      "id": "gaborone-garment-factory-economic-v2",
+      "description": "Gaborone beherbergt verschiedene Fabriken der Textilindustrie, die zum Export beitragen.",
+      "facts": ["Textilproduktion", "Industrielle Fertigung", "Exportorientiert"]
+    },
+    {
+      "id": "tuli-block-agro-industry-economic-v2",
+      "description": "Die Tuli-Block-Region ist ein Zentrum für kommerzielle Landwirtschaft und Bewässerungsbau.",
+      "facts": ["Kommerzielle Landwirtschaft", "Bewässerungssysteme", "Agrarwirtschaft"]
+    },
+    {
+      "id": "maun-airport-logistics-economic-v2",
+      "description": "Der Flughafen in Maun fungiert als logistischer Knotenpunkt für den Tourismus in den Norden.",
+      "facts": ["Tourismus-Logistik", "Hauptknotenpunkt", "Wirtschaftszentrum Maun"]
+    },
+    {
+      "id": "matsitama-minerals-economic-v2",
+      "description": "Das Gebiet Matsitama ist bekannt für seine mineralischen Ressourcen und Explorationsaktivitäten.",
+      "facts": ["Mineralexploration", "Rohstoffvorkommen", "Regionale Bergbaugeschichte"]
+    }
+  ]
+}

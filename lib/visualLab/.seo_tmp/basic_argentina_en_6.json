@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-n-puerto-iguazu-cities-v2",
+      "description": "The gateway to the world-famous Iguazu Falls, located on the border with Brazil and Paraguay.",
+      "facts": ["Iguazu Falls gateway", "Border city", "Tourism hub", "Misiones region"]
+    },
+    {
+      "id": "ar-q-neuquen-cities-v2",
+      "description": "The capital of Neuquén province, a center of the oil and gas industry in Northern Patagonia.",
+      "facts": ["Provincial capital", "Oil and gas hub", "Patagonia gateway", "Neuquén River"]
+    },
+    {
+      "id": "ar-q-san-martin-de-los-andes-cities-v2",
+      "description": "A picturesque mountain resort in the Andes, known for its scenic lakes and ski resort, Chapelco.",
+      "facts": ["Mountain resort", "Lakeside setting", "Chapelco ski center", "Andean region"]
+    },
+    {
+      "id": "ar-q-zapala-cities-v2",
+      "description": "A major logistics and transportation hub in Neuquén province, central to Patagonian travel.",
+      "facts": ["Logistics hub", "Neuquén province", "Patagonia transit", "Founded 1913"]
+    },
+    {
+      "id": "ar-q-cutral-co-cities-v2",
+      "description": "A key oil-producing city in Neuquén province, contributing significantly to the region's energy economy.",
+      "facts": ["Oil-producing city", "Neuquén province", "Energy economy", "Founded 1933"]
+    },
+    {
+      "id": "ar-r-viedma-cities-v2",
+      "description": "The capital of Río Negro province, situated at the mouth of the Negro River on the Atlantic coast.",
+      "facts": ["Provincial capital", "Negro River", "Atlantic coast", "Founded 1779"]
+    },
+    {
+      "id": "ar-r-san-carlos-de-bariloche-cities-v2",
+      "description": "A world-renowned ski and tourism destination, famous for its Alpine architecture and chocolate production.",
+      "facts": ["Ski destination", "Alpine style", "Chocolate industry", "Lakeside city"]
+    },
+    {
+      "id": "ar-r-general-roca-cities-v2",
+      "description": "An important city in the Upper Valley, central to the region's fruit and wine industry.",
+      "facts": ["Upper Valley hub", "Fruit production", "Wine industry", "Río Negro region"]
+    },
+    {
+      "id": "ar-r-cipolletti-cities-v2",
+      "description": "Located at the confluence of the Neuquén and Limay rivers, known for its agro-industrial activity.",
+      "facts": ["Agro-industrial", "River confluence", "Río Negro region", "Founded 1903"]
+    },
+    {
+      "id": "ar-a-salta-cities-v2",
+      "description": "The capital of Salta province, celebrated for its well-preserved colonial architecture and vibrant Andean traditions.",
+      "facts": ["Provincial capital", "Colonial heritage", "Andean culture", "Founded 1582"]
+    }
+  ]
+}

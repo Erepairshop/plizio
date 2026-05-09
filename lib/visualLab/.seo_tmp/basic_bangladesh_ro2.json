@@ -1,0 +1,84 @@
+{
+  "lang": "ro",
+  "country": "Bangladesh",
+  "files": [
+    "lib/visualLab/data/poiExtraBangladeshCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "brahmanbaria-cities-v2",
+      "description": "Un important centru comercial și agricol situat în estul țării, cunoscut pentru producția de gaze naturale și activități comerciale vibrante.",
+      "facts": ["Centru comercial", "Productie gaze naturale", "Situat în est", "Hub agricol"]
+    },
+    {
+      "id": "dinajpur-cities-v2",
+      "description": "Dinajpur este renumit pentru siturile sale arheologice și templele antice care atrag pasionații de istorie. Orașul joacă un rol vital în economia agricolă a nordului.",
+      "facts": ["Temple antice", "Hub agricol", "Centru istoric", "Situat în nord"]
+    },
+    {
+      "id": "pabna-cities-v2",
+      "description": "Situat pe malul râului Padma, Pabna este un oraș cu o istorie bogată și un sector industrial în dezvoltare. Este cunoscut pentru fabricile de zahăr și textile.",
+      "facts": ["Situat pe râul Padma", "Centru industrial", "Fabrici de zahăr", "Hub regional"]
+    },
+    {
+      "id": "tangail-cities-v2",
+      "description": "Tangail este faimos pentru industria sa textilă, în special pentru producția de sariuri de înaltă calitate. Orașul este un hub cultural și economic în regiunea centrală.",
+      "facts": ["Industrie textilă", "Producție sari", "Centru cultural", "Hub economic"]
+    },
+    {
+      "id": "sirajganj-cities-v2",
+      "description": "Situat pe malul vestic al râului Jamuna, Sirajganj este un nod comercial și de transport crucial. Orașul are o economie diversificată bazată pe comerț și prelucrarea alimentelor.",
+      "facts": ["Situat pe râul Jamuna", "Nod de transport", "Hub comercial", "Procesare alimentară"]
+    },
+    {
+      "id": "feni-cities-v2",
+      "description": "Feni este un oraș dinamic situat între Chittagong și Dhaka, jucând un rol important în traficul de tranzit. Este un centru regional în dezvoltare în sud-estul țării.",
+      "facts": ["Nod de tranzit", "Centru regional", "Situat în sud-est", "Economie în dezvoltare"]
+    },
+    {
+      "id": "jamalpur-cities-v2",
+      "description": "Jamalpur, situat în apropierea râului Brahmaputra, este un centru agricol și comercial important. Orașul este recunoscut pentru activitățile sale de piață vibrantă.",
+      "facts": ["Centru agricol", "Situat lângă Brahmaputra", "Hub comercial", "Piețe vibrante"]
+    },
+    {
+      "id": "naogaon-cities-v2",
+      "description": "Naogaon este cunoscut pentru patrimoniul său istoric și siturile arheologice din apropiere. Orașul joacă un rol cheie în producția agricolă a regiunii de nord.",
+      "facts": ["Centru istoric", "Patrimoniu arheologic", "Hub agricol", "Situat în nord"]
+    },
+    {
+      "id": "noakhali-cities-v2",
+      "description": "Noakhali este un oraș din regiunea de coastă, cu o economie bazată pe agricultură și pescuit. Este cunoscut pentru zonele sale fertile și peisajul pitoresc.",
+      "facts": ["Regiune de coastă", "Hub agricol", "Centru de pescuit", "Peisaj fertil"]
+    },
+    {
+      "id": "faridpur-cities-v2",
+      "description": "Situat în inima Bangladeshului, Faridpur este un centru administrativ și comercial important. Orașul are o istorie lungă și o legătură strânsă cu dezvoltarea fluvială.",
+      "facts": ["Centru administrativ", "Hub comercial", "Locație centrală", "Istorie fluvială"]
+    },
+    {
+      "id": "saidpur-cities-v2",
+      "description": "Saidpur este un hub industrial și de transport vital în nordul țării, având un aeroport și facilități feroviare importante. Orașul susține economia regională.",
+      "facts": ["Hub industrial", "Nod de transport", "Facilități feroviare", "Situat în nord"]
+    },
+    {
+      "id": "narsingdi-cities-v2",
+      "description": "Narsingdi este recunoscut pentru industria sa textilă diversificată și piețele comerciale active. Situat aproape de Dhaka, orașul este un motor economic regional.",
+      "facts": ["Industrie textilă", "Centru comercial", "Hub economic", "Proximitate față de Dhaka"]
+    },
+    {
+      "id": "chandpur-cities-v2",
+      "description": "Situat la confluența râurilor Meghna și Padma, Chandpur este un hub portuar și piscicol major. Orașul este celebru pentru peștele proaspăt și comerțul fluvial.",
+      "facts": ["Hub portuar", "Centru piscicol", "Confluență fluvială", "Comerț activ"]
+    },
+    {
+      "id": "bhola-cities-v2",
+      "description": "Bhola este situat pe cea mai mare insulă din Bangladesh, fiind un centru regional important pentru agricultură. Orașul oferă un peisaj unic în delta râurilor.",
+      "facts": ["Oraș insular", "Hub agricol", "Peisaj deltaic", "Centru regional"]
+    },
+    {
+      "id": "jhenaidah-cities-v2",
+      "description": "Jhenaidah este un oraș în dezvoltare din sud-vestul țării, cunoscut pentru agricultura sa diversificată. Este un nod comercial local important în regiune.",
+      "facts": ["Oraș în dezvoltare", "Hub agricol", "Centru comercial", "Situat în sud-vest"]
+    }
+  ]
+}

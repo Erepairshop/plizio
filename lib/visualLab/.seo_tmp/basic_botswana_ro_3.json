@@ -1,0 +1,63 @@
+{
+  "lang": "ro",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "domboshaba-ruins-history-v2",
+      "description": "Ruinele de la Domboshaba păstrează urmele unei așezări vechi din nord-estul Botswanei. Situl este asociat cu istoria comunităților timpurii din zonă.",
+      "facts": ["ruine istorice", "nord-estul țării", "așezare veche"]
+    },
+    {
+      "id": "tati-nickel-mine-economic-v2",
+      "description": "Mina Tati este cunoscută pentru exploatarea de nichel și alte metale din zona Francistown. A făcut parte din istoria industrială a nord-estului Botswanei.",
+      "facts": ["nichel", "zona Francistown", "industrie minieră"]
+    },
+    {
+      "id": "francistown-dry-port-economic-v2",
+      "description": "Dry portul din Francistown susține fluxurile comerciale din nord-estul Botswanei. Este folosit pentru depozitare, manipulare și formalități vamale.",
+      "facts": ["hub logistic", "vămuire", "Francistown"]
+    },
+    {
+      "id": "botswana-vaccine-institute-economic-v2",
+      "description": "Botswana Vaccine Institute este cunoscut pentru producția de vaccinuri veterinare. Instituția are un rol important în protejarea sectorului zootehnic.",
+      "facts": ["vaccinuri veterinare", "sector zootehnic", "în Gaborone"]
+    },
+    {
+      "id": "gaborone-three-dikgosi-monument-landmarks-v2",
+      "description": "Monumentul Three Dikgosi din Gaborone onorează cei trei șefi care au marcat istoria politică a Botswanei. Este unul dintre cele mai cunoscute repere publice ale capitalei.",
+      "facts": ["trei șefi", "reper central", "în Gaborone"]
+    },
+    {
+      "id": "gaborone-sadc-headquarters-landmarks-v2",
+      "description": "Sediul SADC din Gaborone găzduiește una dintre instituțiile regionale importante ale Africii australe. Clădirea subliniază rolul diplomatic al capitalei botswaneze.",
+      "facts": ["organizație regională", "rol diplomatic", "în Gaborone"]
+    },
+    {
+      "id": "gaborone-itowers-landmarks-v2",
+      "description": "iTowers este un ansamblu modern de clădiri din centrul Gaboronei. Complexul a devenit un reper al dezvoltării urbane recente.",
+      "facts": ["complex modern", "centru urban", "reper contemporan"]
+    },
+    {
+      "id": "moeng-college-historic-building-landmarks-v2",
+      "description": "Clădirea istorică a Moeng College este legată de educația timpurie din Botswana. Este un reper arhitectural cu valoare locală.",
+      "facts": ["clădire istorică", "educație", "valoare locală"]
+    },
+    {
+      "id": "maun-airport-logistics-economic-v2",
+      "description": "Aeroportul din Maun este poarta principală către Delta Okavango și zonele turistice din nord-vest. Sprijină atât transportul de pasageri, cât și logistica regională.",
+      "facts": ["Aeroportul Maun", "acces spre Okavango", "transport regional"]
+    },
+    {
+      "id": "tuli-block-agro-industry-economic-v2",
+      "description": "Tuli Block este o zonă agricolă importantă din estul Botswanei. Cultivarea și activitățile agroindustriale de aici susțin economia locală.",
+      "facts": ["zonă agricolă", "estul Botswanei", "agroindustrie"]
+    }
+  ]
+}

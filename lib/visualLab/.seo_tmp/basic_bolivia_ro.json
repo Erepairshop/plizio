@@ -1,0 +1,49 @@
+{
+  "lang": "ro",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bolivia-cordillera-real-relief-v2",
+      "description": "Cordillera Real este un lanț muntos spectaculos din Anzii bolivieni, caracterizat prin vârfuri înzăpezite și ghețari impresionanți.",
+      "facts": ["Lanț muntos", "Anzii bolivieni", "Vârfuri înzăpezite"]
+    },
+    {
+      "id": "bolivia-cordillera-occidental-relief-v2",
+      "description": "Cordillera Occidental formează granița naturală cu Chile, fiind dominată de vulcani activi și formațiuni geologice vulcanice.",
+      "facts": ["Graniță naturală", "Vulcani activi", "Regiunea Altiplano"]
+    },
+    {
+      "id": "bolivia-altiplano-andino-relief-v2",
+      "description": "Altiplano Andino este un podiș înalt situat între cele două Cordillere, fiind caracterizat printr-un climat arid și lacuri sărate.",
+      "facts": ["Podiș înalt", "Climat arid", "Lacuri sărate"]
+    },
+    {
+      "id": "bolivia-llanos-de-moxos-relief-v2",
+      "description": "Llanos de Moxos sunt câmpii aluvionare vaste din bazinul Amazonului, caracterizate prin biodiversitate ridicată și zone inundabile.",
+      "facts": ["Câmpii vaste", "Bazinul Amazonului", "Biodiversitate"]
+    },
+    {
+      "id": "bolivia-bosque-seco-chiquitano-relief-v2",
+      "description": "Bosque Seco Chiquitano reprezintă un ecosistem de pădure tropicală uscată, unic în America de Sud, situat în estul Boliviei.",
+      "facts": ["Pădure tropicală uscată", "Ecosistem unic", "Estul Boliviei"]
+    },
+    {
+      "id": "bolivia-serrania-aguarague-relief-v2",
+      "description": "Serranía del Aguaragüe este un lanț muntos secundar în sudul țării, bogat în resurse naturale și formațiuni geologice diverse.",
+      "facts": ["Lanț muntos", "Sudul Boliviei", "Resurse naturale"]
+    },
+    {
+      "id": "bolivia-cerro-zapaleri-relief-v2",
+      "description": "Cerro Zapaleri este un vârf muntos situat la granița tripartită dintre Bolivia, Argentina și Chile, într-o zonă de mare altitudine.",
+      "facts": ["Vârf muntos", "Graniță tripartită", "Altitudine ridicată"]
+    },
+    {
+      "id": "bolivia-serrania-de-san-simon-relief-v2",
+      "description": "Serranía de San Simón este o formațiune geografică remarcabilă în estul Boliviei, cunoscută pentru reliefurile sale neregulate și geologia diversă.",
+      "facts": ["Formațiune geografică", "Estul Boliviei", "Geologie diversă"]
+    }
+  ]
+}

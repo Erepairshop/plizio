@@ -1,0 +1,73 @@
+{
+  "lang": "hu",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nhabe-museum-history-v2",
+      "description": "A Nhabe Múzeum Maun helytörténeti és kulturális örökségét mutatja be. A nyugat-botswanai közösségek múltját és mindennapi emlékeit gyűjti össze.",
+      "facts": ["Maun-ban", "Helytörténeti múzeum", "Nyugat-Botswana öröksége"]
+    },
+    {
+      "id": "lepokole-hills-history-v2",
+      "description": "A Lepokole-dombok történeti tájként őrzik a kelet-botswanai múlt nyomait. A dombvidék a helyi településtörténet és a hagyományos emlékezet része.",
+      "facts": ["Kelet-Botswana", "Történeti dombvidék", "Helyi emlékezet"]
+    },
+    {
+      "id": "mamuno-monument-history-v2",
+      "description": "A Mamuno-emlékhely a határ menti mozgás és a regionális kapcsolatok történetére utal. A nyugati határzóna egyik ismert jelképes pontja.",
+      "facts": ["Határvidéki helyszín", "Regionális kapcsolatok", "Nyugati Botswana"]
+    },
+    {
+      "id": "dimawe-battlefield-history-v2",
+      "description": "A Dimawe csatatér a 19. századi fegyveres konfliktusok egyik fontos botswanai helyszíne. A csata a helyi vezetők és a külső erők közötti összecsapásokat idézi fel.",
+      "facts": ["1850-es évek", "Csatatér", "Sechele I korszakához kötődik"]
+    },
+    {
+      "id": "manyana-rock-paintings-history-v2",
+      "description": "A Manyana sziklafestmények a korai vizuális kultúra és az ősi közösségek nyomait őrzik. A hely a botswanai rock art egyik ismert példája.",
+      "facts": ["Sziklafestmények", "Régészeti érték", "Manyana falunál"]
+    },
+    {
+      "id": "livingstones-tree-history-v2",
+      "description": "A Livingstone fája egy misszionárius emlékezetéhez kötődő történeti helyszín. A fa a helyi keresztény missziók és a 19. századi utazások jelképe lett.",
+      "facts": ["Livingstone emléke", "Missziós történet", "Jelképes fa"]
+    },
+    {
+      "id": "shoshong-historic-site-history-v2",
+      "description": "Shoshong történeti helyszíne egykor fontos település és kereskedelmi állomás volt. A régi központ a közép-botswanai történelem egyik kulcspontja.",
+      "facts": ["Egykori település", "Kereskedelmi útvonal", "Közép-Botswana"]
+    },
+    {
+      "id": "gcwihaba-caves-history-v2",
+      "description": "A Gcwihaba-barlangok a földtani formák mellett történeti és kulturális emléket is jelentenek. A barlangrendszer a nyugat-botswanai örökség különleges része.",
+      "facts": ["Barlangrendszer", "Nyugat-Botswana", "Kulturális érték"]
+    },
+    {
+      "id": "moremi-gorge-history-v2",
+      "description": "A Moremi-szurdok a helyi tájhoz és emlékezethez kötődő történeti pont. A szurdok a környék természetes átjáróit és régi útvonalait idézi fel.",
+      "facts": ["Szurdok", "Helyi történeti pont", "Természetes átjáró"]
+    },
+    {
+      "id": "motlhabaneng-rock-paintings-history-v2",
+      "description": "A Motlhabaneng sziklafestmények a korai közösségek művészi és rituális nyomait mutatják. A lelőhely a botswanai rock art térképének fontos pontja.",
+      "facts": ["Sziklarajzok", "Rituális örökség", "Régészeti lelőhely"]
+    },
+    {
+      "id": "serowe-royal-cemetery-history-v2",
+      "description": "A Serowe királyi temető a Bangwato uralkodóház emlékhelye. A temetkezési hely a helyi monarchikus hagyomány egyik legfontosabb pontja.",
+      "facts": ["Serowe-ban", "Bangwato uralkodóház", "Királyi temetkezés"]
+    },
+    {
+      "id": "mochudi-kgotla-history-v2",
+      "description": "A Mochudi kgotla a hagyományos közösségi döntéshozatal emlékét és gyakorlatát képviseli. A hely a helyi igazgatás és a nyilvános tanácskozás fontos intézménye.",
+      "facts": ["Hagyományos gyűléshely", "Közösségi döntéshozatal", "Mochudi-ban"]
+    }
+  ]
+}

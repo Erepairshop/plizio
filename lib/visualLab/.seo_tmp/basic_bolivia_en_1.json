@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bo-mina-san-cristobal-economic-v2",
+      "description": "One of the largest open-pit silver, lead, and zinc mines located in the Potosí Department.",
+      "facts": ["Located in Potosí", "Produces silver, lead, zinc", "Major mining site", "High altitude operation"]
+    },
+    {
+      "id": "bo-mina-huanuni-economic-v2",
+      "description": "A significant state-owned tin mine situated in the Oruro Department.",
+      "facts": ["Major tin producer", "State-owned operation", "Located near Oruro", "Historic mining region"]
+    },
+    {
+      "id": "bo-mutun-iron-economic-v2",
+      "description": "An immense iron ore deposit located in the Santa Cruz Department near the border with Brazil.",
+      "facts": ["Massive iron reserves", "Located in Santa Cruz", "Near Brazil border", "Key economic project"]
+    },
+    {
+      "id": "bo-mina-colquiri-economic-v2",
+      "description": "A productive tin and zinc mine located in the La Paz Department.",
+      "facts": ["Tin and zinc mining", "Located in La Paz", "State-managed", "Key mineral output"]
+    },
+    {
+      "id": "bo-planta-vinto-economic-v2",
+      "description": "A critical metallurgical smelting facility specializing in tin production in Oruro.",
+      "facts": ["Tin smelting plant", "Located in Oruro", "Refining facility", "Industrial site"]
+    },
+    {
+      "id": "bo-karachipampa-economic-v2",
+      "description": "A metallurgical complex in Potosí designed for processing lead and silver concentrates.",
+      "facts": ["Lead and silver processing", "Located in Potosí", "Industrial complex", "Refining operations"]
+    },
+    {
+      "id": "bo-bulo-bulo-urea-economic-v2",
+      "description": "An ammonia and urea fertilizer plant in the Cochabamba Department.",
+      "facts": ["Fertilizer production", "Located in Cochabamba", "Natural gas derivative", "Major industrial investment"]
+    },
+    {
+      "id": "bo-refineria-gualberto-villarroel-economic-v2",
+      "description": "An oil refinery located in Cochabamba that processes crude oil into various fuels.",
+      "facts": ["Oil refining site", "Located in Cochabamba", "Fuel processing", "Critical energy infrastructure"]
+    },
+    {
+      "id": "bo-refineria-guillermo-elder-bell-economic-v2",
+      "description": "A significant oil refinery located in the Santa Cruz Department.",
+      "facts": ["Oil refining operations", "Located in Santa Cruz", "Fuel distribution hub", "Energy sector facility"]
+    },
+    {
+      "id": "bo-planta-carlos-villegas-economic-v2",
+      "description": "A major gas separation plant in the Gran Chaco province.",
+      "facts": ["Gas separation", "Located in Gran Chaco", "Natural gas processing", "Key export facility"]
+    },
+    {
+      "id": "bo-planta-rio-grande-economic-v2",
+      "description": "A natural gas liquids separation plant in the Santa Cruz region.",
+      "facts": ["Gas liquids separation", "Located in Santa Cruz", "Industrial plant", "Energy infrastructure"]
+    },
+    {
+      "id": "bo-planta-litio-uyuni-economic-v2",
+      "description": "A pilot plant dedicated to lithium processing located near the Uyuni Salt Flat.",
+      "facts": ["Lithium extraction pilot", "Near Uyuni Salt Flat", "Advanced research site", "Industrial development"]
+    },
+    {
+      "id": "bo-cemento-viacha-economic-v2",
+      "description": "A major cement production factory located near La Paz.",
+      "facts": ["Cement production", "Located near La Paz", "Industrial plant", "Construction materials"]
+    },
+    {
+      "id": "bo-cemento-fancesa-economic-v2",
+      "description": "A well-known cement production company based in Sucre.",
+      "facts": ["Cement manufacturer", "Located in Sucre", "Leading market supplier", "Construction industry"]
+    },
+    {
+      "id": "bo-cemento-coboce-economic-v2",
+      "description": "A key cement manufacturing plant based in the Cochabamba Department.",
+      "facts": ["Cement manufacturing", "Located in Cochabamba", "Regional supplier", "Industrial infrastructure"]
+    }
+  ]
+}

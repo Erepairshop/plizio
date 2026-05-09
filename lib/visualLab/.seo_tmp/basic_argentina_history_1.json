@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-cueva-de-las-manos-history-v2",
+      "description": "An ancient cave featuring prehistoric paintings of hands, dating back thousands of years.",
+      "facts": ["Ancient cave art", "Prehistoric site", "Patagonia region", "UNESCO site"]
+    },
+    {
+      "id": "ar-nuestra-senora-de-santa-ana-history-v2",
+      "description": "The ruins of a Jesuit reduction, reflecting the historical missionary efforts in the Misiones region.",
+      "facts": ["Jesuit mission", "Historic ruins", "Misiones region", "17th century"]
+    },
+    {
+      "id": "ar-nuestra-senora-de-loreto-history-v2",
+      "description": "A former Jesuit reduction site, significant for its historical influence on the indigenous population.",
+      "facts": ["Jesuit mission", "Historic ruins", "Missionary site", "17th century"]
+    },
+    {
+      "id": "ar-santa-maria-la-mayor-history-v2",
+      "description": "One of the Jesuit missions in the Misiones region, showcasing historical architecture and cultural preservation.",
+      "facts": ["Jesuit mission", "Misiones region", "Colonial history", "Cultural heritage"]
+    },
+    {
+      "id": "ar-casa-historica-de-tucuman-history-v2",
+      "description": "The site where the Argentine Declaration of Independence was signed in 1816.",
+      "facts": ["Independence site", "National monument", "Tucumán city", "Signed 1816"]
+    },
+    {
+      "id": "ar-manzana-jesuitica-history-v2",
+      "description": "A historical block in Córdoba featuring buildings from the Jesuit period, including the oldest university in Argentina.",
+      "facts": ["Jesuit block", "Córdoba city", "Historic university", "Colonial period"]
+    },
+    {
+      "id": "ar-estancia-alta-gracia-history-v2",
+      "description": "A historic Jesuit estancia in Córdoba, reflecting colonial agricultural and cultural practices.",
+      "facts": ["Jesuit estancia", "Córdoba region", "Colonial history", "Historic site"]
+    },
+    {
+      "id": "ar-estancia-jesus-maria-history-v2",
+      "description": "An important Jesuit estate, known for its well-preserved colonial structure and winemaking history.",
+      "facts": ["Jesuit estate", "Córdoba region", "Winemaking history", "17th century"]
+    },
+    {
+      "id": "ar-estancia-santa-catalina-history-v2",
+      "description": "A former Jesuit ranch, representative of the religious order's historical economic impact in the region.",
+      "facts": ["Jesuit ranch", "Córdoba region", "Colonial history", "17th century"]
+    },
+    {
+      "id": "ar-estancia-caroya-history-v2",
+      "description": "A historic Jesuit estancia famous for its role in colonial economy and architecture.",
+      "facts": ["Jesuit estancia", "Córdoba region", "Colonial architecture", "Historic estate"]
+    }
+  ]
+}

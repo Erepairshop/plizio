@@ -1,0 +1,44 @@
+{
+  "lang": "de",
+  "country": "Belize",
+  "files": [
+    "lib/visualLab/data/poiExtraBelizeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "caledonia-czl-cities-v2",
+      "description": "Eine kleine Gemeinde im Distrikt Corozal, die zwischen dem Fluss und dem Wald liegt.",
+      "facts": ["Corozal Distrikt", "Flussnähe", "Ländliche Idylle"]
+    },
+    {
+      "id": "libertad-czl-cities-v2",
+      "description": "Ein bedeutender Ort im Corozal Distrikt, der einst durch die Zuckerproduktion geprägt war.",
+      "facts": ["Corozal Distrikt", "Zuckerindustrie", "Historisch"]
+    },
+    {
+      "id": "teakettle-cities-v2",
+      "description": "Ein bekanntes Dorf im Cayo Distrikt, das für seine friedliche Umgebung und Landwirtschaft bekannt ist.",
+      "facts": ["Cayo Distrikt", "Ruhig", "Landwirtschaft"]
+    },
+    {
+      "id": "santa-elena-toledo-cities-v2",
+      "description": "Eine Siedlung im Distrikt Toledo, die tief in die traditionelle Lebensweise des Südens eingebettet ist.",
+      "facts": ["Toledo Distrikt", "Traditionell", "Südbelize"]
+    },
+    {
+      "id": "buena-vista-cayo-cities-v2",
+      "description": "Ein Dorf im Cayo Distrikt, das einen herrlichen Ausblick auf das umliegende hügelige Land bietet.",
+      "facts": ["Cayo Distrikt", "Aussicht", "Hügelland"]
+    },
+    {
+      "id": "cristo-rey-czl-cities-v2",
+      "description": "Eine Gemeinde im Corozal Distrikt, die durch eine enge Gemeinschaft und landschaftliche Schönheit besticht.",
+      "facts": ["Corozal Distrikt", "Gemeinschaft", "Landschaft"]
+    },
+    {
+      "id": "biscayne-cities-v2",
+      "description": "Ein Dorf an der Northern Highway im Distrikt Belize, das oft als kleiner Ruhepunkt dient.",
+      "facts": ["Distrikt Belize", "Northern Highway", "Ruhepunkt"]
+    }
+  ]
+}

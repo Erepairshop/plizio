@@ -1,0 +1,773 @@
+[
+ {
+  "id": "ouagadougou-cities-v2",
+  "name": "Ouagadougou",
+  "type": "state-capital",
+  "parent": "BF-03",
+  "coords": "-1.5339, 12.3686",
+  "desc_en": "The capital and largest city of Burkina Faso, serving as the administrative and cultural center of the country.",
+  "missing": []
+ },
+ {
+  "id": "bobo-dioulasso-cities-v2",
+  "name": "Bobo-Dioulasso",
+  "type": "city",
+  "parent": "BF-09",
+  "coords": "-4.2975, 11.1771",
+  "desc_en": "The second largest city in the country, known for its music and its distinctive Great Mosque.",
+  "missing": [
+   "hu"
+  ]
+ },
+ {
+  "id": "koudougou-cities-v2",
+  "name": "Koudougou",
+  "type": "city",
+  "parent": "BF-06",
+  "coords": "-2.3628, 12.2526",
+  "desc_en": "The third largest city, an important commercial hub in the Centre-Ouest region.",
+  "missing": [
+   "hu",
+   "en"
+  ]
+ },
+ {
+  "id": "ouahigouya-cities-v2",
+  "name": "Ouahigouya",
+  "type": "city",
+  "parent": "BF-10",
+  "coords": "-2.4215, 13.5827",
+  "desc_en": "A major city in the north, historically the center of the Yatenga Kingdom.",
+  "missing": [
+   "hu",
+   "en"
+  ]
+ },
+ {
+  "id": "banfora-cities-v2",
+  "name": "Banfora",
+  "type": "city",
+  "parent": "BF-02",
+  "coords": "-4.755, 10.6333",
+  "desc_en": "A picturesque city in the southwest, surrounded by waterfalls and sugar cane plantations.",
+  "missing": [
+   "hu",
+   "en"
+  ]
+ },
+ {
+  "id": "dedougou-cities-v2",
+  "name": "Dédougou",
+  "type": "city",
+  "parent": "BF-01",
+  "coords": "-3.4616, 12.4633",
+  "desc_en": "The capital of the Boucle du Mouhoun region, famous for its mask festival.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "kaya-cities-v2",
+  "name": "Kaya",
+  "type": "city",
+  "parent": "BF-05",
+  "coords": "-1.0844, 13.0916",
+  "desc_en": "A city north of the capital, an important center for leather working and crafts.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "dori-cities-v2",
+  "name": "Dori",
+  "type": "city",
+  "parent": "BF-12",
+  "coords": "-0.0345, 14.0327",
+  "desc_en": "An important city in the Sahel region, characterized by nomadic cultures and livestock farming.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "tenkodogo-cities-v2",
+  "name": "Tenkodogo",
+  "type": "city",
+  "parent": "BF-04",
+  "coords": "-0.3666, 11.7799",
+  "desc_en": "The historical center of Mossi culture and capital of the Centre-Est region.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "fada-ngourma-cities-v2",
+  "name": "Fada N'Gourma",
+  "type": "city",
+  "parent": "BF-08",
+  "coords": "0.3584, 12.0622",
+  "desc_en": "The most important city in the east of the country, known for its honey production.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "gaoua-cities-v2",
+  "name": "Gaoua",
+  "type": "city",
+  "parent": "BF-13",
+  "coords": "-3.1511, 10.3291",
+  "desc_en": "A city in the southwest, considered the cultural center of the Lobi people.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "manga-cities-v2",
+  "name": "Manga",
+  "type": "city",
+  "parent": "BF-07",
+  "coords": "-1.073, 11.6636",
+  "desc_en": "The capital of the Centre-Sud region, surrounded by agricultural areas.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "ziniare-cities-v2",
+  "name": "Ziniaré",
+  "type": "city",
+  "parent": "BF-11",
+  "coords": "-1.2983, 12.5822",
+  "desc_en": "The capital of the Plateau-Central region, not far from the capital Ouagadougou.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "koupela-cities-v2",
+  "name": "Koupéla",
+  "type": "city",
+  "parent": "BF-04",
+  "coords": "-0.3547, 12.1794",
+  "desc_en": "A city in the Centre-Est region, which is an important transport hub.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "pouytenga-cities-v2",
+  "name": "Pouytenga",
+  "type": "city",
+  "parent": "BF-04",
+  "coords": "-0.4283, 12.2464",
+  "desc_en": "One of the most important trading cities in the country, with one of the largest markets in the region.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "garango-cities-v2",
+  "name": "Garango",
+  "type": "city",
+  "parent": "BF-04",
+  "coords": "-0.5505, 11.7997",
+  "desc_en": "A city in the south of Burkina Faso, known for its traditional festivals and markets.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "hounde-cities-v2",
+  "name": "Houndé",
+  "type": "city",
+  "parent": "BF-09",
+  "coords": "-3.5186, 11.4981",
+  "desc_en": "A city on the main road between Ouagadougou and Bobo-Dioulasso, with a growing mining sector.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "djibo-cities-v2",
+  "name": "Djibo",
+  "type": "city",
+  "parent": "BF-12",
+  "coords": "-1.6255, 14.0994",
+  "desc_en": "An important market town in the north, traditionally a center for livestock trade.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "leo-cities-v2",
+  "name": "Léo",
+  "type": "city",
+  "parent": "BF-06",
+  "coords": "-2.1065, 11.1003",
+  "desc_en": "A southern border town near Ghana, known for its bustling cross-border trade.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "tougan-cities-v2",
+  "name": "Tougan",
+  "type": "city",
+  "parent": "BF-01",
+  "coords": "-3.0694, 13.0725",
+  "desc_en": "A market town in the Boucle du Mouhoun region, near the Malian border.",
+  "missing": [
+   "hu",
+   "ro",
+   "en"
+  ]
+ },
+ {
+  "id": "orodara-cities-v2",
+  "name": "Orodara",
+  "type": "city",
+  "parent": "BF-09",
+  "coords": "-4.9142, 10.9786",
+  "desc_en": "Known as the orchard center of Burkina Faso, with numerous mango and citrus plantations.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "po-cities-v2",
+  "name": "Pô",
+  "type": "city",
+  "parent": "BF-07",
+  "coords": "-1.145, 11.1697",
+  "desc_en": "A town near the border with Ghana and an important access point to the Nazinga Game Reserve.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "gourcy-cities-v2",
+  "name": "Gourcy",
+  "type": "city",
+  "parent": "BF-10",
+  "coords": "-2.3556, 13.2104",
+  "desc_en": "A small but strategically located city in the Nord region, known for its traditional festivals.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "bousse-cities-v2",
+  "name": "Boussé",
+  "type": "city",
+  "parent": "BF-11",
+  "coords": "-1.8944, 12.6592",
+  "desc_en": "A town in the Plateau-Central region, surrounded by dry savanna and small farms.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "sindou-cities-v2",
+  "name": "Sindou",
+  "type": "city",
+  "parent": "BF-02",
+  "coords": "-5.1667, 10.65",
+  "desc_en": "A town in the southwest, famous for the striking Sindou rock formations located nearby.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "diebougou-cities-v2",
+  "name": "Diébougou",
+  "type": "city",
+  "parent": "BF-13",
+  "coords": "-3.2497, 10.962",
+  "desc_en": "Known for its crocodile caves and traditional pottery in the southwest of the country.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "nouna-cities-v2",
+  "name": "Nouna",
+  "type": "city",
+  "parent": "BF-01",
+  "coords": "-3.8631, 12.7333",
+  "desc_en": "A trading town in the west, serving as a bridge between urban and rural cultures.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "toma-cities-v2",
+  "name": "Toma",
+  "type": "city",
+  "parent": "BF-01",
+  "coords": "-2.8992, 12.7611",
+  "desc_en": "A small town known for its blacksmithing and traditional wrestling.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "zorgho-cities-v2",
+  "name": "Zorgho",
+  "type": "city",
+  "parent": "BF-11",
+  "coords": "-0.6153, 12.2483",
+  "desc_en": "A growing town east of Ouagadougou, known for its vibrant community life.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "pama-cities-v2",
+  "name": "Pama",
+  "type": "city",
+  "parent": "BF-08",
+  "coords": "0.7075, 11.2497",
+  "desc_en": "A remote town in the southeast, serving as a gateway to the W and Arli national parks.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "bogande-cities-v2",
+  "name": "Bogandé",
+  "type": "city",
+  "parent": "BF-08",
+  "coords": "-0.1436, 12.9714",
+  "desc_en": "An administrative town in the Est region, playing a significant role in local trade.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "yako-cities-v2",
+  "name": "Yako",
+  "type": "city",
+  "parent": "BF-10",
+  "coords": "-2.2611, 12.9675",
+  "desc_en": "A town northwest of the capital, with a strong agricultural community.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "sapouy-cities-v2",
+  "name": "Sapouy",
+  "type": "city",
+  "parent": "BF-07",
+  "coords": "-1.7736, 11.5544",
+  "desc_en": "A town located on the main road to Ghana, known for its wood carvings.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "batie-cities-v2",
+  "name": "Batié",
+  "type": "city",
+  "parent": "BF-13",
+  "coords": "-2.9167, 9.8833",
+  "desc_en": "A hill town in the extreme south of Burkina Faso, with a cooler microclimate.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "kongoussi-cities-v2",
+  "name": "Kongoussi",
+  "type": "city",
+  "parent": "BF-05",
+  "coords": "-1.5347, 13.3258",
+  "desc_en": "Located on the shores of Lake Bam, this town is a center for irrigated agriculture and fishing.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "solenzo-cities-v2",
+  "name": "Solenzo",
+  "type": "city",
+  "parent": "BF-01",
+  "coords": "-4.0833, 12.1833",
+  "desc_en": "A rural trading town in the west, surrounded by large cotton and corn fields.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "titao-cities-v2",
+  "name": "Titao",
+  "type": "city",
+  "parent": "BF-10",
+  "coords": "-2.0667, 13.7667",
+  "desc_en": "A town in the north, known for its traditional medicine and pottery.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "boromo-cities-v2",
+  "name": "Boromo",
+  "type": "city",
+  "parent": "BF-01",
+  "coords": "-2.93, 11.75",
+  "desc_en": "A town that serves as a gateway to the Deux Balés National Park and is visited by elephants.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "dano-cities-v2",
+  "name": "Dano",
+  "type": "city",
+  "parent": "BF-13",
+  "coords": "-3.0578, 11.1444",
+  "desc_en": "A town in the southwest, known for its Dagara culture and colorful markets.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "gayeri-cities-v2",
+  "name": "Gayéri",
+  "type": "city",
+  "parent": "BF-08",
+  "coords": "0.3492, 12.6483",
+  "desc_en": "A remote community in the east of the country, relying heavily on livestock and agriculture.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "sebba-cities-v2",
+  "name": "Sebba",
+  "type": "city",
+  "parent": "BF-12",
+  "coords": "0.5283, 13.4358",
+  "desc_en": "An oasis town in the northeast, surrounded by the dry Sahel landscape.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "ouargaye-cities-v2",
+  "name": "Ouargaye",
+  "type": "city",
+  "parent": "BF-04",
+  "coords": "0.0544, 11.5039",
+  "desc_en": "A town near the border with Togo, serving as a commercial center for rural areas.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "reo-cities-v2",
+  "name": "Réo",
+  "type": "city",
+  "parent": "BF-06",
+  "coords": "-2.47, 12.3183",
+  "desc_en": "A quiet town in the Centre-Ouest region, known for its traditional festivals of the Gurunsi people.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "kombissiri-cities-v2",
+  "name": "Kombissiri",
+  "type": "city",
+  "parent": "BF-07",
+  "coords": "-1.3361, 12.0658",
+  "desc_en": "A town south of Ouagadougou, playing a significant role in sweet potato cultivation.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "aribinda-cities-v2",
+  "name": "Aribinda",
+  "type": "city",
+  "parent": "BF-12",
+  "coords": "-1.1475, 14.2272",
+  "desc_en": "An old oasis town with prehistoric rock carvings nearby.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "bere-cities-v2",
+  "name": "Béré",
+  "type": "city",
+  "parent": "BF-07",
+  "coords": "-1.2583, 11.5317",
+  "desc_en": "A small rural community in the Zoundwéogo province.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "bama-cities-v2",
+  "name": "Bama",
+  "type": "city",
+  "parent": "BF-09",
+  "coords": "-4.4333, 11.3833",
+  "desc_en": "A town known for its reservoirs and agricultural importance.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "beregadougou-cities-v2",
+  "name": "Bérégadougou",
+  "type": "city",
+  "parent": "BF-02",
+  "coords": "-4.7231, 10.7681",
+  "desc_en": "A picturesque town in the Comoé province near numerous waterfalls.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "bingo-cities-v2",
+  "name": "Bingo",
+  "type": "city",
+  "parent": "BF-11",
+  "coords": "-1.7483, 12.2858",
+  "desc_en": "A rural community in central Burkina Faso.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "bittou-cities-v2",
+  "name": "Bittou",
+  "type": "city",
+  "parent": "BF-04",
+  "coords": "-0.3061, 11.2464",
+  "desc_en": "A border town with Togo that thrives on transit and wholesale trade.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "boni-cities-v2",
+  "name": "Boni",
+  "type": "city",
+  "parent": "BF-09",
+  "coords": "-3.5358, 11.6022",
+  "desc_en": "A settlement on the important highway to Bobo-Dioulasso.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "boulsa-cities-v2",
+  "name": "Boulsa",
+  "type": "city",
+  "parent": "BF-05",
+  "coords": "-0.5767, 12.6583",
+  "desc_en": "A historic town in the Namentenga province with a strong artisanal tradition.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "dakola-cities-v2",
+  "name": "Dakola",
+  "type": "city",
+  "parent": "BF-07",
+  "coords": "-1.0964, 11.0264",
+  "desc_en": "A small border town with Ghana that monitors the formal transport of goods.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "dapelogo-cities-v2",
+  "name": "Dapélogo",
+  "type": "city",
+  "parent": "BF-11",
+  "coords": "-1.4394, 12.6358",
+  "desc_en": "An agricultural community near the capital, contributing to the supply of the metropolis.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "diabo-cities-v2",
+  "name": "Diabo",
+  "type": "city",
+  "parent": "BF-08",
+  "coords": "-0.165, 12.0122",
+  "desc_en": "A rural town in the Gourma province with strong traditional structures.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "diapaga-cities-v2",
+  "name": "Diapaga",
+  "type": "city",
+  "parent": "BF-08",
+  "coords": "1.7883, 12.0728",
+  "desc_en": "A far eastern town, and the main gateway to the Arli National Park.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "doulougou-cities-v2",
+  "name": "Doulougou",
+  "type": "city",
+  "parent": "BF-07",
+  "coords": "-1.4283, 11.9681",
+  "desc_en": "A quiet community in the Bazèga province, surrounded by green fields in the rainy season.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "gorom-gorom-cities-v2",
+  "name": "Gorom-Gorom",
+  "type": "city",
+  "parent": "BF-12",
+  "coords": "-0.2347, 14.4447",
+  "desc_en": "Known for its colorful and ethnically diverse market in the Sahel region.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "kayan-cities-v2",
+  "name": "Kayan",
+  "type": "city",
+  "parent": "BF-09",
+  "coords": "-4.6853, 11.4589",
+  "desc_en": "A small village in western Burkina Faso, typical of the region's rural structures.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ },
+ {
+  "id": "kordie-cities-v2",
+  "name": "Kordié",
+  "type": "city",
+  "parent": "BF-06",
+  "coords": "-2.3653, 12.4358",
+  "desc_en": "A small town in the Centre-Ouest, known for its traditional mud architecture.",
+  "missing": [
+   "de",
+   "hu",
+   "ro"
+  ]
+ }
+]

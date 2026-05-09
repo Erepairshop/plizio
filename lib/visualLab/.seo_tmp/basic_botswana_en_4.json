@@ -1,0 +1,73 @@
+{
+  "lang": "en",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "khama-iii-memorial-museum-history-v2",
+      "description": "A memorial museum in Serowe dedicated to Khama III and the Bangwato story. It is a major local history stop.",
+      "facts": ["Serowe museum", "Bangwato heritage", "Khama III"]
+    },
+    {
+      "id": "phuthadikobo-museum-history-v2",
+      "description": "A community museum in Mochudi focused on local history and culture. It is one of Botswana's notable heritage museums.",
+      "facts": ["Mochudi", "Local heritage", "Community museum"]
+    },
+    {
+      "id": "three-dikgosi-monument-history-v2",
+      "description": "A monument in Gaborone honoring the three dikgosi who helped shape Botswana's political history.",
+      "facts": ["Three chiefs", "Gaborone", "National symbol"]
+    },
+    {
+      "id": "botswana-national-museum-history-v2",
+      "description": "The national museum in Gaborone preserves history, art, and natural heritage. It is a central cultural institution.",
+      "facts": ["National collection", "Gaborone", "History and culture"]
+    },
+    {
+      "id": "kgosi-sechele-i-museum-history-v2",
+      "description": "A museum dedicated to Kgosi Sechele I and the Bakwena legacy. It preserves political and cultural history in western Botswana.",
+      "facts": ["Bakwena heritage", "Sechele I", "Local history"]
+    },
+    {
+      "id": "supa-ngwao-museum-history-v2",
+      "description": "A museum in Francistown that presents northern Botswana's heritage. It combines history, culture, and local memory.",
+      "facts": ["Francistown", "Northern heritage", "Cultural preservation"]
+    },
+    {
+      "id": "nhabe-museum-history-v2",
+      "description": "A museum in Maun focused on the history of Ngamiland. It connects local communities with the Okavango region's past.",
+      "facts": ["Maun museum", "Ngamiland history", "Okavango region"]
+    },
+    {
+      "id": "lepokole-hills-history-v2",
+      "description": "A hill area in eastern Botswana known for archaeology and rock art. It links landscape with early human history.",
+      "facts": ["Rock art", "Eastern Botswana", "Archaeology"]
+    },
+    {
+      "id": "mamuno-monument-history-v2",
+      "description": "A border monument associated with travel and trade at Mamuno. It reflects western Botswana's cross-border history.",
+      "facts": ["Border site", "Regional trade", "Western Botswana"]
+    },
+    {
+      "id": "dimawe-battlefield-history-v2",
+      "description": "A battlefield remembered for the 19th-century conflict at Dimawe. It is part of Botswana's military past.",
+      "facts": ["Battle site", "19th century conflict", "Historical memory"]
+    },
+    {
+      "id": "manyana-rock-paintings-history-v2",
+      "description": "Ancient rock paintings near Manyana that preserve San art. The site is part of Botswana's deep precolonial record.",
+      "facts": ["San rock art", "Southern Botswana", "Precolonial heritage"]
+    },
+    {
+      "id": "livingstones-tree-history-v2",
+      "description": "A tree site linked to David Livingstone's travels in Botswana. It is a symbolic marker of early exploration history.",
+      "facts": ["Livingstone link", "Travel history", "Symbolic site"]
+    }
+  ]
+}

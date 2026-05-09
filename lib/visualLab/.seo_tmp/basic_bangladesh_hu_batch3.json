@@ -1,0 +1,49 @@
+{
+  "lang": "hu",
+  "country": "Bangladesh",
+  "files": [
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBangladeshCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "naogaon-cities-v2",
+      "description": "Az északi régió fontos városa, a híres Paharpur buddhista kolostor közelében.",
+      "facts": ["Paharpur kolostor közelében", "Mezőgazdasági kereskedelem", "Történelmi emlékek", "Kulturális központ"]
+    },
+    {
+      "id": "noakhali-cities-v2",
+      "description": "Délkeleti város, amely a mezőgazdaságról és a folyami közlekedésről ismert.",
+      "facts": ["Mezőgazdasági termelés", "Folyami közlekedés", "Kereskedelmi központ", "Oktatási intézmények"]
+    },
+    {
+      "id": "faridpur-cities-v2",
+      "description": "A Padma folyó partján fekvő város, történelmi jelentőséggel bír.",
+      "facts": ["Történelmi jelentőség", "Mezőgazdasági kereskedelem", "Kulturális hagyományok", "Folyami kikötő"]
+    },
+    {
+      "id": "saidpur-cities-v2",
+      "description": "A híres vasúti csomópont és ipari központ északon.",
+      "facts": ["Vasúti központ", "Ipari központ", "Repülőtér", "Kulturális sokszínűség"]
+    },
+    {
+      "id": "narsingdi-cities-v2",
+      "description": "A textilipar és a kereskedelem fellegvára Dakkától keletre.",
+      "facts": ["Textilipar", "Kereskedelmi csomópont", "Történelmi emlékek", "Mezőgazdaság"]
+    },
+    {
+      "id": "chandpur-cities-v2",
+      "description": "Fontos folyami kikötő, a Padma és Meghna folyók találkozásánál.",
+      "facts": ["Folyami kikötő", "Halászat", "Kereskedelmi jelentőség", "Kulturális központ"]
+    },
+    {
+      "id": "bhola-cities-v2",
+      "description": "Az ország legnagyobb szigetének közigazgatási központja.",
+      "facts": ["Szigetváros", "Mezőgazdaság", "Halászat", "Kereskedelmi csomópont"]
+    },
+    {
+      "id": "jhenaidah-cities-v2",
+      "description": "Délnyugati város, ismert a mezőgazdasági innovációiról.",
+      "facts": ["Mezőgazdasági innovációk", "Történelmi mecsetek", "Kereskedelmi központ", "Oktatási intézmények"]
+    }
+  ]
+}

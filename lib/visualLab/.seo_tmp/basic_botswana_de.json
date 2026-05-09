@@ -1,0 +1,63 @@
+{
+  "lang": "de",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jwaneng-diamond-mine-economic-v2",
+      "description": "Die Jwaneng-Diamantenmine gilt als eine der produktivsten Diamantenminen der Welt.",
+      "facts": ["Eigentum von Debswana", "Produziert hochwertige Edelsteine", "Wichtiger Wirtschaftsfaktor"]
+    },
+    {
+      "id": "orapa-diamond-mine-economic-v2",
+      "description": "Orapa ist eine der größten Diamanten-Tagebauminen weltweit und ein Eckpfeiler der botswanischen Wirtschaft.",
+      "facts": ["Seit 1971 in Betrieb", "Großflächiger Tagebau", "Zentrum der Bergbauindustrie"]
+    },
+    {
+      "id": "morupule-coal-mine-economic-v2",
+      "description": "Die Morupule-Kohlemine ist der primäre Lieferant für das angrenzende Kohlekraftwerk.",
+      "facts": ["Bedeutendes Kohlevorkommen", "Versorgt die Energieerzeugung", "Zentral in Palapye"]
+    },
+    {
+      "id": "morupule-power-station-economic-v2",
+      "description": "Das Morupule-Kraftwerk ist das wichtigste Kohlekraftwerk zur nationalen Stromversorgung in Botswana.",
+      "facts": ["Kohlebasiertes Kraftwerk", "Energiezentrum des Landes", "Wichtige Infrastruktur"]
+    },
+    {
+      "id": "selebi-phikwe-copper-mine-economic-v2",
+      "description": "Die Kupfer- und Nickelmine bei Selebi-Phikwe prägte lange Zeit die industrielle Entwicklung der Region.",
+      "facts": ["Kupfer-Nickel-Vorkommen", "Industrielle Historie", "Wichtiger Arbeitgeber"]
+    },
+    {
+      "id": "sowa-pan-soda-ash-economic-v2",
+      "description": "Die Soda-Ash-Anlage am Sowa-Pan nutzt die natürlichen Salzvorkommen in der Makgadikgadi-Pfanne.",
+      "facts": ["Natürliche Salzseen", "Produktion von Soda-Ash", "Regionale Industrie"]
+    },
+    {
+      "id": "letlhakane-diamond-mine-economic-v2",
+      "description": "Diese Diamantenmine ist Teil des bedeutenden Bergbauportfolios der Debswana in der Nähe von Orapa.",
+      "facts": ["Betrieben von Debswana", "Teil eines Minen-Clusters", "Stabile Produktion"]
+    },
+    {
+      "id": "karowe-diamond-mine-economic-v2",
+      "description": "Die Karowe-Mine ist bekannt für die Entdeckung extrem großer und hochwertiger Diamanten.",
+      "facts": ["Bekannt für Riesen-Diamanten", "Moderne Fördertechnik", "Privater Bergbau"]
+    },
+    {
+      "id": "gaborone-dry-port-economic-v2",
+      "description": "Der Trockenhafen in Gaborone erleichtert den Import und Export von Waren für das Binnenland Botswana.",
+      "facts": ["Logistik-Knotenpunkt", "Internationale Handelsanbindung", "Wirtschaftszentrum"]
+    },
+    {
+      "id": "bmc-lobatse-abattoir-economic-v2",
+      "description": "Das Schlachthaus der Botswana Meat Commission in Lobatse ist zentral für die Rindfleischexportindustrie.",
+      "facts": ["Zentrum der Fleischverarbeitung", "Exportorientiert", "Landwirtschaftliche Bedeutung"]
+    }
+  ]
+}

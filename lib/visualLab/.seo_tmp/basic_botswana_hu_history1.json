@@ -1,0 +1,73 @@
+{
+  "lang": "hu",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tsodilo-hills-history-v2",
+      "description": "A Tsodilo-hegység Botswana egyik legismertebb őskori és szakrális helyszíne. A sziklarajzok és a hosszú emberi jelenlét miatt a térség kiemelt történeti emlék.",
+      "facts": ["UNESCO helyszín", "Sziklarajzok", "Szent hely a San népeknek"]
+    },
+    {
+      "id": "domboshaba-ruins-history-v2",
+      "description": "A Domboshaba romjai egy egykori kőből épült település maradványai. A hely a térség korai államalakulatainak és Kalanga örökségének fontos emléke.",
+      "facts": ["Kőromok", "Kalanga örökség", "Korai település"]
+    },
+    {
+      "id": "toutswemogala-hill-history-v2",
+      "description": "A Toutswe Mogala Hill régészeti lelőhely a korai településtörténethez kapcsolódik. A dombon fennmaradt nyomok a vaskori életmódot és a helyi közösségek múltját idézik.",
+      "facts": ["Régészeti lelőhely", "Vaskori nyomok", "Dombtetőn fekszik"]
+    },
+    {
+      "id": "matsieng-footprints-history-v2",
+      "description": "A Matsieng lábnyomok egy ismert helyi eredetmondához kapcsolódó sziklaalakzatok. A hely egyszerre természeti jelenség és a szóbeli hagyomány része.",
+      "facts": ["Eredetmondához kötődik", "Sziklalábnyomok", "Gaborone közelében"]
+    },
+    {
+      "id": "kolobeng-mission-history-v2",
+      "description": "A Kolobeng misszió a 19. századi misszionárius tevékenység egyik fontos botswanai helyszíne. David Livingstone jelenléte miatt a történeti emlékezetben különleges szerepe van.",
+      "facts": ["Livingstone-hoz kötődik", "19. századi misszió", "Kolobeng térsége"]
+    },
+    {
+      "id": "old-palapye-history-v2",
+      "description": "Old Palapye egykori főváros és királyi központ volt a Bangwato történetében. A romok és a településnyomok a régi politikai központ múltját őrzik.",
+      "facts": ["Egykori főváros", "Bangwato központ", "Településromok"]
+    },
+    {
+      "id": "khama-iii-memorial-museum-history-v2",
+      "description": "A Khama III emlékmúzeum Serowe történeti és királyi örökségét mutatja be. A kiállítások a Bangwato vezetőinek és a régió múltjának állítanak emléket.",
+      "facts": ["Serowe-ban található", "Khama III emléke", "Királyi történelem"]
+    },
+    {
+      "id": "phuthadikobo-museum-history-v2",
+      "description": "A Phuthadikobo Múzeum Mochudi kulturális és történeti emlékeit gyűjti össze. Az egykori dombtetői épület ma a Kalanga közösség múltját mutatja be.",
+      "facts": ["Mochudi-ban", "Kalanga kultúra", "Régi iskolai épület"]
+    },
+    {
+      "id": "three-dikgosi-monument-history-v2",
+      "description": "A Three Dikgosi Monument Gaborone egyik legfontosabb nemzeti emlékhelye. A három főnök szobrai a gyarmati korszakból az önálló államiság felé vezető utat idézik.",
+      "facts": ["Gaborone-ban", "Három főnök emléke", "Nemzeti jelkép"]
+    },
+    {
+      "id": "botswana-national-museum-history-v2",
+      "description": "A Botswana National Museum a nemzeti örökség egyik központi intézménye. Régészeti, néprajzi és történeti gyűjteményei az ország múltját fogják össze.",
+      "facts": ["Nemzeti múzeum", "Gaborone-ban", "Régészeti és néprajzi gyűjtemény"]
+    },
+    {
+      "id": "kgosi-sechele-i-museum-history-v2",
+      "description": "A Kgosi Sechele I Museum a Bakwena vezetőjének és a környék történetének állít emléket. A múzeum a helyi királyi örökséget és a közösségi emlékezetet kapcsolja össze.",
+      "facts": ["Molepolole térsége", "Bakwena örökség", "Királyi emlékhely"]
+    },
+    {
+      "id": "supa-ngwao-museum-history-v2",
+      "description": "A Supa Ngwao Museum Francistown kulturális és történeti gyűjteményeinek otthona. A múzeum a város és az északi régió örökségét mutatja be.",
+      "facts": ["Francistown-ban", "Helytörténeti gyűjtemény", "Északi Botswana öröksége"]
+    }
+  ]
+}

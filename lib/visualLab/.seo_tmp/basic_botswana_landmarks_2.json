@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "moeng-college-historic-building-landmarks-v2",
+      "description": "Das historische Gebäude des Moeng College erinnert an die Bildungs- und Missionsgeschichte des Ortes.",
+      "facts": ["Historisches Schulgebäude", "Bildungsgeschichte", "im Osten Botswanas"]
+    },
+    {
+      "id": "old-palapye-church-ruins-landmarks-v2",
+      "description": "Die Kirchenruinen von Old Palapye sind ein bekanntes Zeugnis der frühen Siedlungsgeschichte.",
+      "facts": ["Kirchenruinen", "Ehemalige Siedlung", "bezug zu Khama III"]
+    },
+    {
+      "id": "mochudi-phuthadikobo-museum-landmarks-v2",
+      "description": "Das Phuthadikobo Museum ist ein prägendes Kulturgebäude über Mochudi.",
+      "facts": ["Museum auf dem Hügel", "Bakgatla-Kultur", "Landmarke in Mochudi"]
+    },
+    {
+      "id": "gaborone-masa-square-landmarks-v2",
+      "description": "Masa Square ist ein moderner Geschäfts- und Hotelkomplex in Gaborone.",
+      "facts": ["Stadtzentrum", "Hotels und Büros", "moderne Architektur"]
+    },
+    {
+      "id": "gaborone-hindu-temple-landmarks-v2",
+      "description": "Der hinduistische Tempel in Gaborone ist ein markantes religiöses Bauwerk der Stadt.",
+      "facts": ["Religiöser Ort", "Gemeindezentrum", "in Gaborone"]
+    },
+    {
+      "id": "francistown-supa-ngwao-museum-landmarks-v2",
+      "description": "Das Supa-Ngwao-Museum ist ein wichtiges Kulturhaus im Herzen von Francistown.",
+      "facts": ["Museum in Francistown", "Regionale Kultur", "Geschichte des Nordostens"]
+    },
+    {
+      "id": "kolobeng-livingstone-memorial-landmarks-v2",
+      "description": "Das Livingstone-Memorial in Kolobeng erinnert an die Missionszeit in der Region.",
+      "facts": ["Bezug zu David Livingstone", "Missionsgeschichte", "bei Gaborone"]
+    },
+    {
+      "id": "gaborone-dam-landmarks-v2",
+      "description": "Der Gaborone Dam ist ein wichtiges Wasserreservoir und ein markantes Freizeitziel.",
+      "facts": ["Wasserspeicher", "Erholung am Seeufer", "nahe der Hauptstadt"]
+    },
+    {
+      "id": "gaborone-botswana-craft-landmarks-v2",
+      "description": "Botswana Craft ist ein bekannter Ort für Kunsthandwerk und lokale Produkte in Gaborone.",
+      "facts": ["Kunsthandwerk", "Lokale Erzeugnisse", "Touristische Adresse"]
+    },
+    {
+      "id": "gaborone-bureau-of-standards-landmarks-v2",
+      "description": "Das Bureau of Standards ist ein wichtiges Verwaltungsgebäude für Normen und Qualitätssicherung.",
+      "facts": ["Normenbehörde", "Verwaltungsfunktion", "in Gaborone"]
+    },
+    {
+      "id": "serowe-royal-cemetery-landmarks-v2",
+      "description": "Der königliche Friedhof in Serowe ist ein bedeutender Ort der Khama-Familie.",
+      "facts": ["Royaler Friedhof", "Serowe als Traditionsort", "Bangwato-Geschichte"]
+    },
+    {
+      "id": "maun-nhabe-museum-landmarks-v2",
+      "description": "Das Nhabe Museum in Maun ist ein kultureller Anker für Ngamiland.",
+      "facts": ["Museum in Maun", "Ngamiland-Bezug", "Lokale Geschichte"]
+    }
+  ]
+}

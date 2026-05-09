@@ -1,0 +1,61 @@
+{
+  "lang": "de",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monumento-al-indio-landmarks-v2",
+      "description": "Ein eindrucksvolles Monument, das die indigene Bevölkerung würdigt.",
+      "facts": ["Indigenes Monument", "Denkmal", "Kultur"]
+    },
+    {
+      "id": "planetario-galileo-galilei-landmarks-v2",
+      "description": "Das Planetarium in Buenos Aires, bekannt für seine moderne Architektur.",
+      "facts": ["Planetarium", "Buenos Aires", "Moderne Architektur"]
+    },
+    {
+      "id": "torre-monumental-landmarks-v2",
+      "description": "Ein historischer Uhrturm im Stadtteil Retiro, ein Geschenk Großbritanniens.",
+      "facts": ["Historischer Uhrturm", "Retiro", "Geschenk"]
+    },
+    {
+      "id": "palacio-aguas-corrientes-landmarks-v2",
+      "description": "Ein prächtiges Gebäude, das ursprünglich als Wasserwerk diente.",
+      "facts": ["Architektonisches Juwel", "Wasserwerk", "Historisch"]
+    },
+    {
+      "id": "mnba-buenos-aires-landmarks-v2",
+      "description": "Das Nationale Museum der Schönen Künste mit einer bedeutenden Sammlung.",
+      "facts": ["Kunstmuseum", "Nationale Sammlung", "Buenos Aires"]
+    },
+    {
+      "id": "centro-cultural-kirchner-landmarks-v2",
+      "description": "Ein großes und bedeutendes Kulturzentrum in Buenos Aires.",
+      "facts": ["Kulturzentrum", "Buenos Aires", "Modern"]
+    },
+    {
+      "id": "congreso-nacion-argentina-landmarks-v2",
+      "description": "Das imposante Gebäude des argentinischen Nationalkongresses.",
+      "facts": ["Nationalkongress", "Architektur", "Regierungssitz"]
+    },
+    {
+      "id": "dique-san-roque-landmarks-v2",
+      "description": "Ein bedeutender Staudamm in der Provinz Córdoba.",
+      "facts": ["Staudamm", "Provinz Córdoba", "Infrastruktur"]
+    },
+    {
+      "id": "puente-rosario-victoria-landmarks-v2",
+      "description": "Eine wichtige Brücke, die die Städte Rosario und Victoria verbindet.",
+      "facts": ["Brückenverbindung", "Rosario-Victoria", "Infrastruktur"]
+    },
+    {
+      "id": "viaducto-la-polvorilla-landmarks-v2",
+      "description": "Ein technisches Meisterwerk, Teil der berühmten Tren a las Nubes Strecke.",
+      "facts": ["Eisenbahnviadukt", "Tren a las Nubes", "Technik"]
+    }
+  ]
+}

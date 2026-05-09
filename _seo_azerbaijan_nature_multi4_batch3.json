@@ -1,0 +1,75 @@
+
+{
+  "lang": "multi4",
+  "country": "azerbaijan",
+  "files": ["lib/visualLab/data/poiExtraAzerbaijanNatureV2.ts"],
+  "items": [
+    {
+      "id": "aras-river-nature-v2",
+      "descriptionAdvancedDe": "Der Aras, in der Antike als Araxes bekannt, ist ein bedeutender Fluss, der in der Türkei entspringt und über 1.072 Kilometer fließt. Er bildet über weite Strecken die internationale Grenze zwischen der Türkei und Armenien, zwischen dem Iran und der Exklave Nachitschewan (Aserbaidschan) sowie zwischen dem Iran und der Republik Aserbaidschan. Historisch gesehen war der Aras die nördliche Grenze des persischen Reiches. Bei Sabirabad mündet er in die Kura. Der Fluss ist für die Landwirtschaft in den ariden Tälern, die er durchfließt, von entscheidender Bedeutung, da sein Wasser intensiv zur Bewässerung genutzt wird. Mehrere Staudämme, darunter der gemeinsame aserbaidschanisch-iranische Aras-Staudamm, regulieren seinen Lauf und erzeugen Wasserkraft.",
+      "descriptionAdvancedHu": "Az Arasz folyó (az ókorban Araxes) Törökországban ered, és 1072 kilométeres útja során több országot is érint. Hosszú szakaszokon természetes határt képez Törökország és Örményország, valamint Irán és Azerbajdzsán (a nahicseváni exklávé és a fő terület) között. Történelmileg a Perzsa Birodalom északi határaként szolgált. Sabirabad városánál ömlik a Kura folyóba. Vize létfontosságú a száraz éghajlatú völgyek mezőgazdasága számára, ahol intenzíven használják öntözésre. A folyón több gát is épült, köztük a közös azeri-iráni Arasz-víztározó, amely a vízszint szabályozása mellett energiatermelést is biztosít, szimbolizálva a két ország közötti együttműködést.",
+      "descriptionAdvancedRo": "Râul Aras, cunoscut în antichitate ca Araxes, este un fluviu major cu o lungime de 1.072 de kilometri, care izvorăște din Turcia. Pe o mare parte a cursului său, formează granițe internaționale: între Turcia și Armenia, între Iran și exclava azeră Nahicevan, și între Iran și Republica Azerbaidjan. Din punct de vedere istoric, Aras a fost considerat granița nordică a Imperiului Persan. Se varsă în râul Kura în apropiere de orașul Sabirabad. Apa sa este esențială pentru agricultură în văile aride pe care le traversează, fiind utilizată extensiv pentru irigații. Cursul său este regularizat de mai multe baraje, inclusiv Barajul Aras, un proiect comun azero-iranian care generează hidroenergie și simbolizează cooperarea regională.",
+      "descriptionAdvancedEn": "The Aras River, known as Araxes in antiquity, is a major river with a length of 1,072 kilometers, originating in Turkey. For a large part of its course, it serves as an international boundary between Turkey and Armenia, Iran and the Nakhchivan exclave of Azerbaijan, and finally between Iran and the Republic of Azerbaijan. Historically, the Aras marked the northern limit of the Persian Empire. It flows into the Kura River near the city of Sabirabad. The river is of critical importance to the agriculture of the arid valleys it traverses, with its waters being heavily utilized for irrigation. Several dams, including the joint Azerbaijani-Iranian Aras Dam, regulate its flow and provide hydroelectric power, representing a significant point of regional cooperation.",
+      "factsAdvanced": [
+        "Hossza 1072 kilométer.",
+        "Törökországban ered.",
+        "Határfolyó Törökország, Örményország, Irán és Azerbajdzsán között.",
+        "Az ókorban Araxes néven volt ismert.",
+        "A Kura folyóba torkollik Sabirabadnál.",
+        "Vize létfontosságú az öntözéshez.",
+        "A közös azeri-iráni Arasz-víztározó is rajta épült."
+      ]
+    },
+    {
+      "id": "hirkan-national-park-nature-v2",
+      "descriptionAdvancedDe": "Der Hirkan-Nationalpark schützt einen der bemerkenswertesten Wälder der Welt in den Talysch-Bergen im Süden Aserbaidschans. Dieses Gebiet, das 2019 zum UNESCO-Weltnaturerbe erklärt wurde, ist ein Reliktwald aus dem Tertiär. Das bedeutet, dass diese Wälder die Eiszeiten überlebt haben und eine einzigartige Flora und Fauna bewahren, die anderswo verschwunden ist. Der Park erstreckt sich über 40.358 Hektar und zeichnet sich durch sein feuchtes, subtropisches Klima aus. Hier wachsen endemische Baumarten wie die Kaspische Robinie und der Eisenholzbaum. Der Park ist auch einer der letzten Rückzugsorte für den stark gefährdeten Kaukasusleoparden (Panthera pardus tulliana), was seine globale Bedeutung für den Artenschutz unterstreicht.",
+      "descriptionAdvancedHu": "A Hirkan Nemzeti Park Azerbajdzsán déli részén, a Talis-hegységben található, és a világ egyik legkülönlegesebb erdőségét védi. A terület 2019 óta az UNESCO Világörökség része, mint a harmadkori reliktum erdők egyedülálló maradványa. Ezek az erdők túlélték a jégkorszakokat, így olyan növény- és állatfajoknak adnak otthont, amelyek máshol már régen kihaltak. A 40 358 hektáros park nedves, szubtrópusi éghajlattal rendelkezik. Jellemző fafajai a kaszpi akác és a perzsa varázsfa (parrotia persica). A park világszintű természetvédelmi jelentőségét növeli, hogy ez a kritikusan veszélyeztetett kaukázusi leopárd (Panthera pardus tulliana) egyik utolsó menedéke.",
+      "descriptionAdvancedRo": "Parcul Național Hirkan, situat în Munții Taliș din sudul Azerbaidjanului, protejează una dintre cele mai remarcabile păduri din lume. Inclusă în Patrimoniul Mondial UNESCO în 2019, această pădure este un relict al perioadei terțiare, ceea ce înseamnă că a supraviețuit erelor glaciare și a păstrat o floră și faună unice, dispărute din alte părți. Parcul acoperă 40.358 de hectare și are un climat umed, subtropical. Aici cresc specii endemice de arbori, cum ar fi salcâmul caspic și arborele de fier persan (Parrotia persica). Importanța sa globală pentru conservare este subliniată de faptul că parcul este unul dintre ultimele refugii pentru leopardul caucazian (Panthera pardus tulliana), o specie pe cale de dispariție.",
+      "descriptionAdvancedEn": "Hirkan National Park, located in the Talysh Mountains of southern Azerbaijan, preserves one of the world's most unique forest ecosystems. Designated as a UNESCO World Natural Heritage site in 2019, it is a rare example of a relict forest from the Tertiary period. This means its ecosystems survived the ice ages, harboring a rich variety of flora and fauna that have disappeared elsewhere. Spanning 40,358 hectares, the park has a humid subtropical climate that fosters lush vegetation, including endemic species like the Caspian locust and the Persian ironwood tree (Parrotia persica). Its global conservation significance is immense, as it serves as one of the last remaining habitats for the critically endangered Caucasian leopard (Panthera pardus tulliana).",
+      "factsAdvanced": [
+        "A Talis-hegységben fekszik.",
+        "Területe 40 358 hektár.",
+        "2019 óta UNESCO Világörökségi helyszín.",
+        "Harmadkori reliktum erdő.",
+        "Túlélte a jégkorszakokat.",
+        "Élőhelye a perzsa varázsfának.",
+        "A kaukázusi leopárd egyik utolsó menedéke.",
+        "Nedves, szubtrópusi éghajlat jellemzi."
+      ]
+    },
+    {
+      "id": "shahdag-national-park-nature-v2",
+      "descriptionAdvancedDe": "Der Şahdağ-Nationalpark, gegründet 2006, ist mit über 130.508 Hektar der größte Nationalpark Aserbaidschans. Er erstreckt sich über sechs Bezirke im Norden des Landes und umfasst eine immense Vielfalt an Landschaften, von dichten Wäldern bis zu hochalpinen Gletschern und tiefen Schluchten. Der Park wurde zum Schutz der empfindlichen Bergökosysteme des Großen Kaukasus eingerichtet. Seine Höhenlage reicht von etwa 200 Metern bis zum Gipfel des Bazardüzü auf 4.466 Metern. Diese enorme vertikale Ausdehnung schafft eine Vielzahl von Lebensräumen für eine reiche Tierwelt, darunter den Ostkaukasischen Steinbock, Braunbären, Wölfe und eine Vielzahl von Raubvögeln. Der Park ist ein Paradies für Ökotourismus und bietet unzählige Möglichkeiten zum Wandern, Bergsteigen und zur Tierbeobachtung.",
+      "descriptionAdvancedHu": "A 2006-ban alapított Şahdağ Nemzeti Park Azerbajdzsán legnagyobb nemzeti parkja, területe meghaladja a 130 508 hektárt. Az ország északi részén, hat adminisztratív kerületen át terül el, és a tájképek rendkívüli változatosságát foglalja magában, a sűrű erdőktől a magashegyi gleccserekig és mély szurdokokig. A parkot a Nagy-Kaukázus érzékeny hegyi ökoszisztémáinak védelmére hozták létre. Magassága körülbelül 200 métertől egészen a Bazardüzü 4466 méteres csúcsáig terjed. Ez a hatalmas magasságkülönbség sokféle élőhelyet teremt, gazdag állatvilágnak adva otthont, mint például a kelet-kaukázusi túrnak, barna medvének, farkasnak és számos ragadozómadárnak. A park az ökoturizmus fellegvára, végtelen lehetőségeket kínálva a túrázásra és hegymászásra.",
+      "descriptionAdvancedRo": "Parcul Național Shahdag, înființat în 2006, este cel mai mare parc național din Azerbaidjan, acoperind o suprafață de peste 130.508 hectare. Se întinde pe teritoriul a șase districte din nordul țării și cuprinde o diversitate imensă de peisaje, de la păduri dense la ghețari alpini și defileuri adânci. Parcul a fost creat pentru a proteja ecosistemele montane fragile din Munții Caucazul Mare. Altitudinea sa variază de la aproximativ 200 de metri până la vârful Bazarduzu, la 4.466 de metri. Această diferență verticală masivă creează o multitudine de habitate pentru o faună bogată, inclusiv capra de Caucaz de Est, ursul brun, lupul și o varietate de păsări de pradă. Parcul este un paradis pentru ecoturism, oferind nenumărate oportunități pentru drumeții și alpinism.",
+      "descriptionAdvancedEn": "Established in 2006, Shahdag National Park is the largest national park in Azerbaijan, sprawling over 130,508 hectares. It extends across six districts in the northern part of the country, encompassing a vast range of ecosystems from lush forests to high-altitude alpine meadows, glaciers, and deep canyons. The park was established to protect the fragile mountain ecosystems of the Greater Caucasus. Its elevation ranges dramatically from around 200 meters to the peak of Mount Bazarduzu at 4,466 meters. This immense vertical zonation supports a rich diversity of wildlife, including the East Caucasian tur, brown bear, wolf, and numerous species of birds of prey. It is a hotspot for ecotourism, offering pristine landscapes for hiking, mountaineering, and wildlife observation.",
+      "factsAdvanced": [
+        "Azerbajdzsán legnagyobb nemzeti parkja.",
+        "Területe több mint 130 508 hektár.",
+        "2006-ban alapították.",
+        "A Nagy-Kaukázus hegyvidékét védi.",
+        "Magassága 200 m-től 4466 m-ig terjed.",
+        "Élőhelye a kelet-kaukázusi túrnak.",
+        "Fontos ökoturisztikai célpont.",
+        "Hat közigazgatási kerületen átível."
+      ]
+    },
+    {
+      "id": "lake-maralgol-nature-v2",
+      "descriptionAdvancedDe": "Der Maralgöl-See, was „Reh-See“ bedeutet, ist ein bezaubernder Bergsee im Göygöl-Nationalpark, nicht weit vom größeren Göygöl-See entfernt. Er liegt auf einer Höhe von 1.910 Metern und ist, genau wie sein berühmter Nachbar, durch einen durch ein Erdbeben verursachten Erdrutsch im 12. Jahrhundert entstanden. Der See ist bekannt für seine ruhige und unberührte Atmosphäre. Umgeben von dichten subalpinen Wäldern und Wiesen, ist seine smaragdgrüne Wasserfarbe besonders auffällig. Der Zugang zum Maralgöl ist eingeschränkt und oft nur zu Fuß oder mit speziellen Parkfahrzeugen möglich, was dazu beiträgt, seine natürliche Schönheit zu bewahren. Diese Abgeschiedenheit macht ihn zu einem perfekten Ort für Naturliebhaber, die Stille und spektakuläre Landschaften suchen.",
+      "descriptionAdvancedHu": "A Maralgöl-tó, vagyis „Szarvas-tó”, egy varázslatos hegyi tó a Göygöl Nemzeti Parkban, nem messze a nagyobb Göygöl-tótól. 1910 méteres magasságban fekszik, és híres szomszédjához hasonlóan egy 12. századi földrengés okozta földcsuszamlás következtében jött létre. A tó csendes, érintetlen hangulatáról ismert. Smaragdzöld vizét sűrű szubalpin erdők és rétek veszik körül. A Maralgölhöz való eljutás korlátozott, gyakran csak gyalog vagy a park speciális járműveivel lehetséges, ami segít megőrizni természeti szépségét. Ez az elszigeteltség teszi tökéletes célponttá a csendet és a látványos tájat kereső természetbarátok számára. A tó és környéke a nemzeti park egyik legféltettebb kincse.",
+      "descriptionAdvancedRo": "Lacul Maralgol, care se traduce prin „Lacul Cerbului”, este un lac montan fermecător situat în Parcul Național Goygol, nu departe de mai marele lac Goygol. Aflat la o altitudine de 1.910 metri, s-a format, la fel ca vecinul său celebru, în urma unei alunecări de teren provocate de un cutremur în secolul al XII-lea. Lacul este cunoscut pentru atmosfera sa liniștită și neatinsă. Culoarea sa de smarald este pusă în valoare de pădurile subalpine dese și de pajiștile care îl înconjoară. Accesul la Maralgol este restricționat și adesea posibil doar pe jos sau cu vehicule speciale ale parcului, ceea ce contribuie la conservarea frumuseții sale naturale. Această izolare îl face un loc perfect pentru iubitorii de natură în căutare de liniște.",
+      "descriptionAdvancedEn": "Lake Maralgol, meaning 'Deer Lake,' is an enchanting alpine lake nestled within Goygol National Park, a short distance from the larger Lake Goygol. Situated at an altitude of 1,910 meters, it was formed, much like its famous neighbor, by a landslide triggered by an earthquake in the 12th century. The lake is renowned for its tranquil and pristine atmosphere. Its emerald-green water is surrounded by dense subalpine forests and meadows, creating a breathtaking scene. Access to Maralgol is often restricted, reachable only on foot or by special park vehicles, a measure that helps preserve its untouched natural beauty. This seclusion makes it a perfect spot for nature enthusiasts seeking serenity and spectacular, unspoiled landscapes.",
+      "factsAdvanced": [
+        "Jelentése: Szarvas-tó.",
+        "A Göygöl Nemzeti Parkban található.",
+        "Magassága 1910 méter.",
+        "Földrengés következtében jött létre.",
+        "Vize smaragdzöld színű.",
+        "Sűrű erdők és rétek veszik körül.",
+        "Megközelítése korlátozott, hogy megőrizzék épségét.",
+        "A csendet kedvelő természetbarátok kedvelt helye."
+      ]
+    }
+  ]
+}

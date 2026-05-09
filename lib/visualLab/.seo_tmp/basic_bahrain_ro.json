@@ -1,0 +1,91 @@
+{
+  "lang": "ro",
+  "country": "Bahrain",
+  "files": [
+    "lib/visualLab/data/poiExtraBahrainCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBahrainHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBahrainLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sitra-cities-v2",
+      "description": "Sitra este un oraș industrial situat pe o insulă conectată la Bahrainul principal prin poduri. Este un centru important pentru rafinarea petrolului și activități portuare.",
+      "facts": ["Centru industrial major", "Situat pe insula Sitra", "Conexiuni rutiere cu Manama"]
+    },
+    {
+      "id": "budaiya-cities-v2",
+      "description": "Budaiya este o zonă rezidențială și agricolă situată în nord-vestul Bahrainului. Este cunoscută pentru fermele sale și accesul la coastă.",
+      "facts": ["Zona nord-vestică", "Tradiție agricolă", "Acces la Marea Arabiei"]
+    },
+    {
+      "id": "diraz-cities-v2",
+      "description": "Diraz este un sat istoric situat pe coasta de nord a insulei principale. Localitatea este renumită pentru bogăția sa arheologică.",
+      "facts": ["Sit arheologic important", "Coasta de nord", "Istorie străveche"]
+    },
+    {
+      "id": "sanabis-cities-v2",
+      "description": "Sanabis este un cartier urban situat în apropierea capitalei Manama. Zona a cunoscut o dezvoltare comercială și imobiliară intensă.",
+      "facts": ["Aproape de Manama", "Zonă urbană densă", "Centru comercial"]
+    },
+    {
+      "id": "tubli-cities-v2",
+      "description": "Tubli este cunoscut pentru golful său și pentru proximitatea față de capitală. Zona găzduiește importante facilități de tratare a apei.",
+      "facts": ["Lângă Golful Tubli", "Zonă rezidențială", "Facilități de infrastructură"]
+    },
+    {
+      "id": "al-dair-cities-v2",
+      "description": "Al Dair este un sat tradițional situat în nordul insulei Muharraq. Comunitatea păstrează un caracter liniștit și legături strânse cu marea.",
+      "facts": ["Insula Muharraq", "Sat de pescari", "Atmosferă tradițională"]
+    },
+    {
+      "id": "busaiteen-cities-v2",
+      "description": "Busaiteen este o zonă rezidențială în plină dezvoltare situată în apropierea Aeroportului Internațional Bahrain. Este preferată pentru noile sale proiecte imobiliare.",
+      "facts": ["Lângă aeroport", "Zonă rezidențială modernă", "Pe insula Muharraq"]
+    },
+    {
+      "id": "awali-cities-v2",
+      "description": "Awali a fost construit ca un oraș de tip companie pentru lucrătorii din industria petrolieră. Este situat în centrul insulei Bahrain.",
+      "facts": ["Oraș planificat", "Inima industriei petroliere", "Localizare centrală"]
+    },
+    {
+      "id": "bani-jamra-cities-v2",
+      "description": "Bani Jamra este renumit în mod tradițional pentru meșteșugul țesutului. Localitatea se află în partea de nord-vest a insulei principale.",
+      "facts": ["Centrul țesutului", "Tradiții culturale", "Nord-vestul Bahrainului"]
+    },
+    {
+      "id": "karrana-cities-v2",
+      "description": "Karrana este un sat situat de-a lungul autostrăzii Budaiya, fiind o zonă rezidențială cu rădăcini istorice. Este cunoscut pentru grădinile și plantațiile sale.",
+      "facts": ["Zona Budaiya", "Peisaj agricol", "Comunitate locală"]
+    },
+    {
+      "id": "arad-cities-v2",
+      "description": "Arad este un oraș situat pe insula Muharraq, cunoscut pentru fortăreața sa istorică și proximitatea față de aeroport.",
+      "facts": ["Insula Muharraq", "Locație fortificată", "Lângă capitală"]
+    },
+    {
+      "id": "arad-fort-history-v2",
+      "description": "Fortul Arad este o structură defensivă care datează din secolul al XV-lea. Este situat strategic pentru a supraveghea coasta insulei Muharraq.",
+      "facts": ["Construit în sec. XV", "Design defensiv islamic", "Recent restaurat"]
+    },
+    {
+      "id": "ain-umm-sujoor-history-v2",
+      "description": "Ain Umm Sujoor a fost una dintre cele mai importante surse de apă dulce pentru Bahrainul antic. Este un sit arheologic ce reflectă importanța resurselor de apă.",
+      "facts": ["Sursă istorică de apă", "Sit arheologic", "Perioada Dilmun"]
+    },
+    {
+      "id": "ibrahim-al-arrayed-house-history-v2",
+      "description": "Casa Ibrahim Al Arrayed este un centru cultural care a aparținut celebrului poet bahrainean. Clădirea păstrează arhitectura tradițională a insulei.",
+      "facts": ["Casă istorică", "Centru cultural", "Dedicată poetului local"]
+    },
+    {
+      "id": "al-hidd-park-life-v2",
+      "description": "Parcul Al Hidd oferă spații verzi și zone de recreere pe insula Muharraq. Este o destinație populară pentru familii și plimbări în aer liber.",
+      "facts": ["Insula Muharraq", "Spațiu de recreere", "Zonă verde"]
+    },
+    {
+      "id": "al-sayh-walkway-life-v2",
+      "description": "Faleza Al Sayh este un spațiu amenajat pentru plimbări și relaxare pe malul mării. Oferă priveliști frumoase și un mediu liniștit.",
+      "facts": ["Zonă de promenadă", "Lângă mare", "Spațiu de relaxare"]
+    }
+  ]
+}

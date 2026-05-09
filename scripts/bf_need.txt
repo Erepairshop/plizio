@@ -1,0 +1,59 @@
+bobo-dioulasso-cities-v2|Bobo-Dioulasso|BF-09|city|hu|The second largest city in the country, known for its music and its distinctive Great Mosque.
+koudougou-cities-v2|Koudougou|BF-06|city|hu,en|The third largest city, an important commercial hub in the Centre-Ouest region.
+ouahigouya-cities-v2|Ouahigouya|BF-10|city|hu,en|A major city in the north, historically the center of the Yatenga Kingdom.
+banfora-cities-v2|Banfora|BF-02|city|hu,en|A picturesque city in the southwest, surrounded by waterfalls and sugar cane plantations.
+dedougou-cities-v2|Dédougou|BF-01|city|hu,ro,en|The capital of the Boucle du Mouhoun region, famous for its mask festival.
+kaya-cities-v2|Kaya|BF-05|city|hu,ro,en|A city north of the capital, an important center for leather working and crafts.
+dori-cities-v2|Dori|BF-12|city|hu,ro,en|An important city in the Sahel region, characterized by nomadic cultures and livestock farming.
+tenkodogo-cities-v2|Tenkodogo|BF-04|city|hu,ro,en|The historical center of Mossi culture and capital of the Centre-Est region.
+fada-ngourma-cities-v2|Fada N'Gourma|BF-08|city|hu,ro,en|The most important city in the east of the country, known for its honey production.
+gaoua-cities-v2|Gaoua|BF-13|city|hu,ro,en|A city in the southwest, considered the cultural center of the Lobi people.
+manga-cities-v2|Manga|BF-07|city|hu,ro,en|The capital of the Centre-Sud region, surrounded by agricultural areas.
+ziniare-cities-v2|Ziniaré|BF-11|city|hu,ro,en|The capital of the Plateau-Central region, not far from the capital Ouagadougou.
+koupela-cities-v2|Koupéla|BF-04|city|hu,ro,en|A city in the Centre-Est region, which is an important transport hub.
+pouytenga-cities-v2|Pouytenga|BF-04|city|hu,ro,en|One of the most important trading cities in the country, with one of the largest markets in the region.
+garango-cities-v2|Garango|BF-04|city|hu,ro,en|A city in the south of Burkina Faso, known for its traditional festivals and markets.
+hounde-cities-v2|Houndé|BF-09|city|hu,ro,en|A city on the main road between Ouagadougou and Bobo-Dioulasso, with a growing mining sector.
+djibo-cities-v2|Djibo|BF-12|city|hu,ro,en|An important market town in the north, traditionally a center for livestock trade.
+leo-cities-v2|Léo|BF-06|city|hu,ro,en|A southern border town near Ghana, known for its bustling cross-border trade.
+tougan-cities-v2|Tougan|BF-01|city|hu,ro,en|A market town in the Boucle du Mouhoun region, near the Malian border.
+orodara-cities-v2|Orodara|BF-09|city|de,hu,ro|Known as the orchard center of Burkina Faso, with numerous mango and citrus plantations.
+po-cities-v2|Pô|BF-07|city|de,hu,ro|A town near the border with Ghana and an important access point to the Nazinga Game Reserve.
+gourcy-cities-v2|Gourcy|BF-10|city|de,hu,ro|A small but strategically located city in the Nord region, known for its traditional festivals.
+bousse-cities-v2|Boussé|BF-11|city|de,hu,ro|A town in the Plateau-Central region, surrounded by dry savanna and small farms.
+sindou-cities-v2|Sindou|BF-02|city|de,hu,ro|A town in the southwest, famous for the striking Sindou rock formations located nearby.
+diebougou-cities-v2|Diébougou|BF-13|city|de,hu,ro|Known for its crocodile caves and traditional pottery in the southwest of the country.
+nouna-cities-v2|Nouna|BF-01|city|de,hu,ro|A trading town in the west, serving as a bridge between urban and rural cultures.
+toma-cities-v2|Toma|BF-01|city|de,hu,ro|A small town known for its blacksmithing and traditional wrestling.
+zorgho-cities-v2|Zorgho|BF-11|city|de,hu,ro|A growing town east of Ouagadougou, known for its vibrant community life.
+pama-cities-v2|Pama|BF-08|city|de,hu,ro|A remote town in the southeast, serving as a gateway to the W and Arli national parks.
+bogande-cities-v2|Bogandé|BF-08|city|de,hu,ro|An administrative town in the Est region, playing a significant role in local trade.
+yako-cities-v2|Yako|BF-10|city|de,hu,ro|A town northwest of the capital, with a strong agricultural community.
+sapouy-cities-v2|Sapouy|BF-07|city|de,hu,ro|A town located on the main road to Ghana, known for its wood carvings.
+batie-cities-v2|Batié|BF-13|city|de,hu,ro|A hill town in the extreme south of Burkina Faso, with a cooler microclimate.
+kongoussi-cities-v2|Kongoussi|BF-05|city|de,hu,ro|Located on the shores of Lake Bam, this town is a center for irrigated agriculture and fishing.
+solenzo-cities-v2|Solenzo|BF-01|city|de,hu,ro|A rural trading town in the west, surrounded by large cotton and corn fields.
+titao-cities-v2|Titao|BF-10|city|de,hu,ro|A town in the north, known for its traditional medicine and pottery.
+boromo-cities-v2|Boromo|BF-01|city|de,hu,ro|A town that serves as a gateway to the Deux Balés National Park and is visited by elephants.
+dano-cities-v2|Dano|BF-13|city|de,hu,ro|A town in the southwest, known for its Dagara culture and colorful markets.
+gayeri-cities-v2|Gayéri|BF-08|city|de,hu,ro|A remote community in the east of the country, relying heavily on livestock and agriculture.
+sebba-cities-v2|Sebba|BF-12|city|de,hu,ro|An oasis town in the northeast, surrounded by the dry Sahel landscape.
+ouargaye-cities-v2|Ouargaye|BF-04|city|de,hu,ro|A town near the border with Togo, serving as a commercial center for rural areas.
+reo-cities-v2|Réo|BF-06|city|de,hu,ro|A quiet town in the Centre-Ouest region, known for its traditional festivals of the Gurunsi people.
+kombissiri-cities-v2|Kombissiri|BF-07|city|de,hu,ro|A town south of Ouagadougou, playing a significant role in sweet potato cultivation.
+aribinda-cities-v2|Aribinda|BF-12|city|de,hu,ro|An old oasis town with prehistoric rock carvings nearby.
+bere-cities-v2|Béré|BF-07|city|de,hu,ro|A small rural community in the Zoundwéogo province.
+bama-cities-v2|Bama|BF-09|city|de,hu,ro|A town known for its reservoirs and agricultural importance.
+beregadougou-cities-v2|Bérégadougou|BF-02|city|de,hu,ro|A picturesque town in the Comoé province near numerous waterfalls.
+bingo-cities-v2|Bingo|BF-11|city|de,hu,ro|A rural community in central Burkina Faso.
+bittou-cities-v2|Bittou|BF-04|city|de,hu,ro|A border town with Togo that thrives on transit and wholesale trade.
+boni-cities-v2|Boni|BF-09|city|de,hu,ro|A settlement on the important highway to Bobo-Dioulasso.
+boulsa-cities-v2|Boulsa|BF-05|city|de,hu,ro|A historic town in the Namentenga province with a strong artisanal tradition.
+dakola-cities-v2|Dakola|BF-07|city|de,hu,ro|A small border town with Ghana that monitors the formal transport of goods.
+dapelogo-cities-v2|Dapélogo|BF-11|city|de,hu,ro|An agricultural community near the capital, contributing to the supply of the metropolis.
+diabo-cities-v2|Diabo|BF-08|city|de,hu,ro|A rural town in the Gourma province with strong traditional structures.
+diapaga-cities-v2|Diapaga|BF-08|city|de,hu,ro|A far eastern town, and the main gateway to the Arli National Park.
+doulougou-cities-v2|Doulougou|BF-07|city|de,hu,ro|A quiet community in the Bazèga province, surrounded by green fields in the rainy season.
+gorom-gorom-cities-v2|Gorom-Gorom|BF-12|city|de,hu,ro|Known for its colorful and ethnically diverse market in the Sahel region.
+kayan-cities-v2|Kayan|BF-09|city|de,hu,ro|A small village in western Burkina Faso, typical of the region's rural structures.
+kordie-cities-v2|Kordié|BF-06|city|de,hu,ro|A small town in the Centre-Ouest, known for its traditional mud architecture.

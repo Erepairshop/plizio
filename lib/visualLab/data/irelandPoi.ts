@@ -1971,7 +1971,7 @@ export const irelandCulture: POI[] = [
 
     ro: [
       "Printre cele mai faimoase exponate se află faimosul Caliciu de la Ardagh, datând din secolul al VIII-lea.",
-      "Muzeul găzduiește \\\"Oamenii din mlaștină\\\", corpuri umane din Epoca Fierului mumificate natural în turbării.",
+      "Muzeul găzduiește „Oamenii din mlaștină”, corpuri umane din Epoca Fierului mumificate natural în turbării.",
       "Colecția de artefacte din aur preistoric a muzeului este una dintre cele mai extinse din Europa.",
       "Clădirea muzeului se remarcă prin holul central impresionant în stil renascentist paladian cu un dom spaniol, inaugurată în anul 1890."
     ]

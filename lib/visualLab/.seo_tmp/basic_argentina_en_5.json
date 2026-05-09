@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-l-general-pico-cities-v2",
+      "description": "An important commercial and agricultural city in the north of La Pampa province.",
+      "facts": ["Commercial center", "Agricultural hub", "La Pampa region", "Founded 1905"]
+    },
+    {
+      "id": "ar-f-la-rioja-cities-v2",
+      "description": "The capital of La Rioja province, known for its warm climate, olive plantations, and wine production.",
+      "facts": ["Provincial capital", "Olive production", "Wine region", "Andean foothills"]
+    },
+    {
+      "id": "ar-f-chilecito-cities-v2",
+      "description": "A town in La Rioja, famous for its mining history, especially the Cable Carril, and high-altitude vineyards.",
+      "facts": ["Mining heritage", "Cable Carril", "Vineyards", "Andean setting"]
+    },
+    {
+      "id": "ar-m-mendoza-cities-v2",
+      "description": "The heart of Argentina's wine country, known for its Malbec production, tree-lined streets, and mountain vistas.",
+      "facts": ["Wine country", "Malbec capital", "Andean foothills", "Modern city"]
+    },
+    {
+      "id": "ar-m-san-rafael-cities-v2",
+      "description": "A major city in Mendoza province, known for adventure tourism, water reservoirs, and agricultural exports.",
+      "facts": ["Adventure tourism", "Agricultural center", "Canyon landscapes", "Water reservoirs"]
+    },
+    {
+      "id": "ar-m-godoy-cruz-cities-v2",
+      "description": "Part of the Mendoza Greater Area, known for its urban development and close proximity to downtown Mendoza.",
+      "facts": ["Urban development", "Mendoza area", "Close to capital", "Industrial activity"]
+    },
+    {
+      "id": "ar-m-lujan-de-cuyo-cities-v2",
+      "description": "Famous for its premium vineyards, making it a critical region for Mendoza's high-quality wine industry.",
+      "facts": ["Premium vineyards", "Wine industry", "Mendoza region", "Wine tourism"]
+    },
+    {
+      "id": "ar-n-posadas-cities-v2",
+      "description": "The capital of Misiones province, sitting on the Paraná River, with a blend of regional culture and modern life.",
+      "facts": ["Provincial capital", "Paraná River", "Regional culture", "Gateway to Misiones"]
+    },
+    {
+      "id": "ar-n-obera-cities-v2",
+      "description": "Known as the city of immigrants, reflecting diverse cultural traditions in Misiones province.",
+      "facts": ["Immigrant heritage", "Diverse culture", "Misiones region", "Festival hub"]
+    },
+    {
+      "id": "ar-n-eldorado-cities-v2",
+      "description": "A city in Misiones province, characterized by its natural environment and forestry industry.",
+      "facts": ["Forestry industry", "Misiones region", "Natural setting", "Founded 1919"]
+    }
+  ]
+}

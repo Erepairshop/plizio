@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Belize",
+  "files": [
+    "lib/visualLab/data/poiExtraBelizeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "placencia-village-cities-v2",
+      "description": "Népszerű turisztikai célpont Belize partvidékén, amely hosszú homokos strandjairól ismert.",
+      "facts": ["Stann Creek körzet", "Karib-tenger partja", "Halászfalu gyökerek"]
+    },
+    {
+      "id": "douglas-village-cities-v2",
+      "description": "Kisebb település az Orange Walk körzetben, a New River mentén fekszik.",
+      "facts": ["Orange Walk körzet", "New River folyó", "Mezőgazdasági közösség"]
+    },
+    {
+      "id": "trial-farm-cities-v2",
+      "description": "Település Orange Walk közelében, jelentős szerepet játszik a helyi mezőgazdaságban.",
+      "facts": ["Orange Walk körzet", "Cukornád termesztés", "Észak-belizei régió"]
+    },
+    {
+      "id": "san-ignacio-el-cayo-capital-cities-v2",
+      "description": "A Cayo körzet központja, fontos kereskedelmi és turisztikai csomópont az ország nyugati részén.",
+      "facts": ["Cayo körzet", "Macal folyó", "Kulturális központ"]
+    },
+    {
+      "id": "corozal-corozal-capital-cities-v2",
+      "description": "Corozal körzet székhelye, közel a mexikói határhoz, nyugodt életvitel jellemzi.",
+      "facts": ["Corozal körzet", "Corozal-öböl", "Határ menti város"]
+    },
+    {
+      "id": "san-jose-ow-cities-v2",
+      "description": "Falu az Orange Walk körzetben, hagyományos életmódot folytató lakossággal.",
+      "facts": ["Orange Walk körzet", "Északi alföld", "Helyi kereskedelem"]
+    },
+    {
+      "id": "santa-marta-ow-cities-v2",
+      "description": "Mezőgazdasági közösség Orange Walk körzetben, a cukornád-régió része.",
+      "facts": ["Orange Walk körzet", "Cukornád termelés", "Kisebb népesség"]
+    },
+    {
+      "id": "chan-chen-cities-v2",
+      "description": "Település Corozal körzetben, közel a Chetumal-öbölhöz.",
+      "facts": ["Corozal körzet", "Mezőgazdasági terület", "Határ közeli"]
+    },
+    {
+      "id": "x-pichil-cities-v2",
+      "description": "Kisebb közösség északi Belize-ben, megőrizte hagyományos jellegét.",
+      "facts": ["Északi régió", "Mezőgazdaság", "Csendes környezet"]
+    },
+    {
+      "id": "unitedville-cities-v2",
+      "description": "Falu a Cayo körzetben, a Western Highway mentén található.",
+      "facts": ["Cayo körzet", "Western Highway", "Trópusi klíma"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "de",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-n-puerto-iguazu-cities-v2",
+      "description": "Puerto Iguazú liegt nahe der berühmten Iguazú-Wasserfälle und ist ein bedeutendes Touristenzentrum.",
+      "facts": ["Iguazú-Wasserfälle", "Tourismus", "Grenzlage"]
+    },
+    {
+      "id": "ar-q-neuquen-cities-v2",
+      "description": "Neuquén ist die Hauptstadt der Provinz Neuquén und ein wichtiges Zentrum für die Erdöl- und Erdgasförderung.",
+      "facts": ["Hauptstadt Neuquén", "Energie-Zentrum", "Patagonien-Tor"]
+    },
+    {
+      "id": "ar-q-san-martin-de-los-andes-cities-v2",
+      "description": "Ein malerischer Bergort am Ufer des Lácar-Sees, ein Paradies für Outdoor-Aktivitäten.",
+      "facts": ["Lácar-See", "Berge", "Tourismus"]
+    },
+    {
+      "id": "ar-q-zapala-cities-v2",
+      "description": "Zapala ist ein wichtiges Verkehrs- und Wirtschaftszentrum im Zentrum der Provinz Neuquén.",
+      "facts": ["Verkehrsknoten", "Wirtschaft", "Zentrum Neuquén"]
+    },
+    {
+      "id": "ar-q-cutral-co-cities-v2",
+      "description": "Cutral Có ist eine wichtige Stadt der Erdölindustrie in der Provinz Neuquén.",
+      "facts": ["Erdölindustrie", "Provinz Neuquén", "Wirtschaft"]
+    },
+    {
+      "id": "ar-r-viedma-cities-v2",
+      "description": "Viedma ist die Hauptstadt der Provinz Río Negro und liegt am Unterlauf des gleichnamigen Flusses.",
+      "facts": ["Hauptstadt Río Negro", "Fluss-Mündung", "Verwaltung"]
+    },
+    {
+      "id": "ar-r-san-carlos-de-bariloche-cities-v2",
+      "description": "Bariloche ist weltberühmt für seine Alpenarchitektur, Schokolade und fantastischen Skigebiete.",
+      "facts": ["Skigebiete", "Alpenstil", "Schokolade"]
+    },
+    {
+      "id": "ar-r-general-roca-cities-v2",
+      "description": "General Roca ist ein wichtiges Zentrum der Obst- und Weinproduktion im oberen Valle del Río Negro.",
+      "facts": ["Obstproduktion", "Weinanbau", "Valle del Río Negro"]
+    },
+    {
+      "id": "ar-r-cipolletti-cities-v2",
+      "description": "Cipolletti ist eine bedeutende Stadt an der Mündung des Río Neuquén in den Río Negro.",
+      "facts": ["Flussmündung", "Wirtschaft", "Provinz Río Negro"]
+    },
+    {
+      "id": "ar-a-salta-cities-v2",
+      "description": "Salta, bekannt als „Salta la Linda“, besticht durch ihre gut erhaltene koloniale Architektur.",
+      "facts": ["Kolonialstadt", "Salta la Linda", "Hauptstadt Salta"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-k-catamarca-cities-v2",
+      "description": "Un oraș situat la poalele munților Anzi, renumit pentru peisajele sale aride și tradițiile religioase.",
+      "facts": ["Fondat în 1683", "Centru de turism montan", "Regiunea Catamarca", "Tradiții artizanale"]
+    },
+    {
+      "id": "ar-k-belen-cities-v2",
+      "description": "Oraș istoric, cunoscut ca o poartă către peisajele spectaculoase din nordul Argentinei.",
+      "facts": ["Fondat în 1681", "Regiunea Catamarca", "Tradiții textile", "Peisaje aride"]
+    },
+    {
+      "id": "ar-k-andalgala-cities-v2",
+      "description": "Un oraș situat într-o zonă minieră și agricolă, cu un climat blând.",
+      "facts": ["Fondat în 1658", "Regiunea Catamarca", "Economie minieră", "Producție agricolă"]
+    },
+    {
+      "id": "ar-h-resistencia-cities-v2",
+      "description": "Capitala provinciei Chaco, recunoscută ca „orașul sculpturilor” datorită numeroaselor opere de artă stradală.",
+      "facts": ["Fondat în 1878", "Centru cultural important", "Regiunea Chaco", "Peste 500 de sculpturi"]
+    },
+    {
+      "id": "ar-h-presidencia-roque-saenz-pena-cities-v2",
+      "description": "Al doilea oraș ca mărime din provincia Chaco, un centru agricol și de servicii.",
+      "facts": ["Fondat în 1912", "Regiunea Chaco", "Centru agricol", "Zona termală"]
+    },
+    {
+      "id": "ar-h-villa-angela-cities-v2",
+      "description": "Un important centru agricol și industrial din sudul provinciei Chaco.",
+      "facts": ["Fondat în 1910", "Regiunea Chaco", "Centru agricol", "Industrie locală"]
+    },
+    {
+      "id": "ar-u-rawson-cities-v2",
+      "description": "Capitala provinciei Chubut, un oraș administrativ situat lângă coasta Atlanticului.",
+      "facts": ["Fondat în 1865", "Capitală provincială", "Regiunea Chubut", "Lângă râul Chubut"]
+    },
+    {
+      "id": "ar-u-comodoro-rivadavia-cities-v2",
+      "description": "Cel mai important centru al industriei petroliere din Patagonia argentiniană.",
+      "facts": ["Fondat în 1901", "Hub petrolier", "Regiunea Chubut", "Pe malul Atlanticului"]
+    },
+    {
+      "id": "ar-u-trelew-cities-v2",
+      "description": "Un oraș cu rădăcini gaelice, servind ca nod comercial în provincia Chubut.",
+      "facts": ["Fondat în 1886", "Moștenire galeză", "Nod comercial", "Regiunea Chubut"]
+    },
+    {
+      "id": "ar-u-puerto-madryn-cities-v2",
+      "description": "Poarta de acces către Peninsula Valdés, un hub turistic major pentru observarea faunei marine.",
+      "facts": ["Fondat în 1865", "Turism de coastă", "Observarea balenelor", "Regiunea Chubut"]
+    }
+  ]
+}

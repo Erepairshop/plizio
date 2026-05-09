@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Angola",
+  "files": [
+    "lib/visualLab/data/poiExtraAngolaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fortaleza-sao-miguel-landmarks-v2",
+      "description": "This historic 16th-century fortress overlooks Luanda bay and served as a military center for the Portuguese administration.",
+      "facts": ["Built in 1576", "Overlooks Luanda Bay", "Former administrative center", "Portuguese colonial heritage"]
+    },
+    {
+      "id": "palacio-de-ferro-landmarks-v2",
+      "description": "An iconic metal structure in central Luanda, often attributed to Gustave Eiffel's workshop.",
+      "facts": ["Constructed in late 19th century", "Prefabricated metal design", "Located in downtown Luanda", "Restored cultural landmark"]
+    },
+    {
+      "id": "igreja-populo-landmarks-v2",
+      "description": "This 17th-century church is one of the oldest religious sites in Luanda, reflecting baroque architectural styles.",
+      "facts": ["Founded in 1634", "Baroque architectural style", "Located in central Luanda", "Significant colonial era site"]
+    },
+    {
+      "id": "se-catedral-lubango-landmarks-v2",
+      "description": "A prominent cathedral serving as the seat of the Lubango diocese in southern Angola.",
+      "facts": ["Center of Lubango diocese", "Southern Angola landmark", "Religious community hub", "Modern architecture style"]
+    },
+    {
+      "id": "monumento-kifangondo-landmarks-v2",
+      "description": "A monument commemorating the battle that took place during Angola's transition to independence in 1975.",
+      "facts": ["Commemorates 1975 battle", "Independence era site", "Located near Luanda", "Symbol of national resistance"]
+    },
+    {
+      "id": "igreja-nossa-senhora-carmo-landmarks-v2",
+      "description": "A historic Catholic church known for its distinctive colonial-era religious art and architecture.",
+      "facts": ["Colonial religious site", "Located in Luanda", "Catholic parish church", "Historical heritage structure"]
+    },
+    {
+      "id": "forte-santa-maria-cabinda-landmarks-v2",
+      "description": "A coastal fortification in Cabinda province showcasing Angola's complex colonial defense history.",
+      "facts": ["Located in Cabinda", "Coastal defense structure", "Colonial military history", "Strategic maritime position"]
+    },
+    {
+      "id": "universidade-agostinho-neto-campus-landmarks-v2",
+      "description": "The primary campus of Angola's largest public university, named after the country's first president.",
+      "facts": ["Named for Agostinho Neto", "Largest public university", "Academic research center", "Modern educational hub"]
+    },
+    {
+      "id": "igreja-do-sequele-landmarks-v2",
+      "description": "A modern religious structure serving the expanding community of the Sequele housing development.",
+      "facts": ["Serves Sequele area", "Modern construction", "Community religious site", "Recent development project"]
+    },
+    {
+      "id": "estadio-nacional-ombaka-landmarks-v2",
+      "description": "A major multipurpose stadium in Benguela, used for significant national and international sporting events.",
+      "facts": ["Located in Benguela", "Multipurpose venue", "Host of 2010 AFCON matches", "Modern sports capacity"]
+    },
+    {
+      "id": "estadio-nacional-tundavala-landmarks-v2",
+      "description": "A modern stadium facility in Lubango, named after the nearby famous Tundavala escarpment.",
+      "facts": ["Located in Lubango", "Regional sports hub", "Modern infrastructure", "Named after natural site"]
+    },
+    {
+      "id": "assembleia-nacional-landmarks-v2",
+      "description": "The legislative building in Luanda where the Angolan National Assembly conducts its parliamentary work.",
+      "facts": ["Legislative center", "Located in Luanda", "Political decision hub", "Contemporary building design"]
+    },
+    {
+      "id": "fortim-do-kikombo-landmarks-v2",
+      "description": "A small defensive fort providing historical insight into the regional colonial infrastructure.",
+      "facts": ["Defensive fort structure", "Regional historical site", "Colonial era remnant", "Coastal military geography"]
+    },
+    {
+      "id": "se-catedral-namibe-landmarks-v2",
+      "description": "The main cathedral serving the Catholic population of the Namibe coastal region.",
+      "facts": ["Located in Namibe", "Catholic cathedral site", "Coastal regional landmark", "Religious architectural site"]
+    },
+    {
+      "id": "fortaleza-sao-francisco-penedo-landmarks-v2",
+      "description": "A historic fortress in Luanda with long-standing significance to the city's maritime security.",
+      "facts": ["Maritime security site", "Luanda coastal landmark", "Colonial period defense", "Historical fortress design"]
+    }
+  ]
+}

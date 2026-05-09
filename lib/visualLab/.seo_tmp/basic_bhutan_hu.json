@@ -1,0 +1,41 @@
+{
+  "lang": "hu",
+  "country": "Bhutan",
+  "files": [
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBhutanEconomicV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBhutanHistoryV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBhutanLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "penden-cement-authority-economic-v2",
+      "description": "A Penden Cement Authority Bhután egyik legnagyobb ipari létesítménye, amely jelentősen hozzájárul az ország építőiparának fejlődéséhez. A vállalat modern technológiát alkalmaz a cementgyártásban, kielégítve a hazai és a regionális keresletet.",
+      "facts": ["Bhutáni ipari vállalat", "Építőanyag-gyártás", "Regionális beszállító", "Gazdasági pillér"]
+    },
+    {
+      "id": "rinpung-dzong-history-v2",
+      "description": "A Rinpung Dzong egy 17. századi erődített kolostor, amely Paro völgyének közigazgatási és vallási központja. Az épület a bhutáni építészet egyik legkiemelkedőbb példája, amely évszázadokon át védelmet nyújtott a régió számára.",
+      "facts": ["Épült 1644-ben", "Paro völgy központja", "Vallási és adminisztratív", "Hagyományos építészet"]
+    },
+    {
+      "id": "jakar-dzong-history-v2",
+      "description": "A Jakar Dzong, más néven a „fehér madár erődje”, a 16. században épült Bumthang völgyében. Ez az egyik legnagyobb dzong Bhutánban, amely központi szerepet játszott a régió történetében és buddhista közösségi életében.",
+      "facts": ["16. századi alapítás", "Bumthang völgy", "Nagy méretű erőd", "Vallási központ"]
+    },
+    {
+      "id": "trashigang-dzong-history-v2",
+      "description": "A Trashigang Dzongot 1659-ben alapították, és stratégiai fekvése miatt évszázadokig védelmezte a keleti régiót a betolakodókkal szemben. Ma a körzet adminisztratív központja, amely a bhutáni hagyományokat és a buddhista kultúrát őrzi.",
+      "facts": ["Alapítva 1659-ben", "Keleti közigazgatási központ", "Stratégiai fekvés", "Kulturális örökség"]
+    },
+    {
+      "id": "dechen-phodrang-monastery-history-v2",
+      "description": "A Dechen Phodrang kolostor Thimphu városában található, és egykor a királyi rezidencia volt, mielőtt szerzetesi iskolává alakították volna át. Az épület jelentős buddhista művészeti értékeket, köztük 12. századi festményeket őriz.",
+      "facts": ["Thimphu székhelyen", "Egykori királyi rezidencia", "Szerzetesi iskola", "12. századi kincsek"]
+    },
+    {
+      "id": "tango-monastery-landmarks-v2",
+      "description": "A Tango kolostor egy 13. században alapított buddhista oktatási központ, amely Thimphu völgyének egyik domboldalán helyezkedik el. A kolostor híres a buddhista tanulmányokról és a mély spirituális légköréről.",
+      "facts": ["13. századi alapítás", "Thimphu régió", "Oktatási központ", "Spirituális hely"]
+    }
+  ]
+}

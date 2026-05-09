@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bo-mina-san-cristobal-economic-v2",
+      "description": "Az ország egyik legnagyobb nyílt külszíni ezüst-, ólom- és cinkbányája Potosí megyében.",
+      "facts": ["Potosí megyében található", "Ezüst, ólom és cink", "Nyílt külszíni művelés"]
+    },
+    {
+      "id": "bo-mina-huanuni-economic-v2",
+      "description": "Jelentős ónbánya, amely az ország egyik legfontosabb bányászati központja.",
+      "facts": ["Jelentős ónbánya", "Állami kézben", "Bányászati központ"]
+    },
+    {
+      "id": "bo-mutun-iron-economic-v2",
+      "description": "A világ egyik legnagyobb vasérclelőhelye Santa Cruz megyében, a brazil határ közelében.",
+      "facts": ["Hatalmas vasérclelőhely", "Santa Cruz megye", "Brazil határ közelében"]
+    },
+    {
+      "id": "bo-mina-colquiri-economic-v2",
+      "description": "Ón- és cinkbánya, amely történelmileg fontos szerepet játszik a bolíviai bányászatban.",
+      "facts": ["Ón- és cinktermelés", "Történelmi jelentőség", "Bányászati település"]
+    },
+    {
+      "id": "bo-planta-vinto-economic-v2",
+      "description": "Fontos kohászati üzem, amely elsősorban ón koncentrátumok feldolgozására specializálódott.",
+      "facts": ["Kohászati üzem", "Ón feldolgozás", "Iparági jelentőség"]
+    },
+    {
+      "id": "bo-karachipampa-economic-v2",
+      "description": "Potosí közelében működő kohó, amely ezüst és ólom finomításával foglalkozik.",
+      "facts": ["Potosí közelében", "Ezüst és ólom", "Finomítás"]
+    },
+    {
+      "id": "bo-bulo-bulo-urea-economic-v2",
+      "description": "Az ország első nagyüzemi ammónia- és karbamidgyára Cochabamba megyében.",
+      "facts": ["Ammónia és karbamid", "Cochabamba megye", "Ipari komplexum"]
+    },
+    {
+      "id": "bo-refineria-gualberto-villarroel-economic-v2",
+      "description": "Cochabambában működő kőolaj-finomító, az ország egyik kulcsfontosságú ipari létesítménye.",
+      "facts": ["Cochabamba", "Kőolaj-finomító", "Kulcsfontosságú ipar"]
+    },
+    {
+      "id": "bo-refineria-guillermo-elder-bell-economic-v2",
+      "description": "Santa Cruz városi kőolaj-finomító, amely üzemanyaggal látja el a keleti régiót.",
+      "facts": ["Santa Cruz", "Kőolaj-finomítás", "Regionális ellátás"]
+    },
+    {
+      "id": "bo-planta-carlos-villegas-economic-v2",
+      "description": "Földgáz-feldolgozó üzem Gran Chacóban, az ország gáztermelésének központi eleme.",
+      "facts": ["Földgáz-feldolgozás", "Gran Chaco", "Gáztermelési csomópont"]
+    }
+  ]
+}

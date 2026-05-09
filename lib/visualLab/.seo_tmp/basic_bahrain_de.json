@@ -1,0 +1,61 @@
+{
+  "lang": "de",
+  "country": "Bahrain",
+  "files": [
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBahrainCitiesV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBahrainHistoryV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBahrainLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "diraz-cities-v2",
+      "description": "Diraz ist ein Dorf an der Nordküste Bahrains, das für seine antiken Ausgrabungsstätten bekannt ist. Es liegt in der Nähe des Barbar-Tempels.",
+      "facts": ["Nordküste Bahrains", "Archäologisch bedeutend", "Nahe Barbar-Tempel", "Wohnort nahe Manama"]
+    },
+    {
+      "id": "tubli-cities-v2",
+      "description": "Tubli ist eine Siedlung, die vor allem für ihre Bucht und die dortigen Mangrovenwälder bekannt ist. Sie liegt strategisch günstig zwischen Manama und Sitra.",
+      "facts": ["Bekannt für Mangroven", "Küstennahe Siedlung", "Zwischen Manama und Sitra", "Wichtiges Feuchtgebiet"]
+    },
+    {
+      "id": "busaiteen-cities-v2",
+      "description": "Busaiteen ist ein Wohngebiet in Muharraq, das direkt am Meer liegt. Es zeichnet sich durch seine moderne Infrastruktur und Küstenpromenaden aus.",
+      "facts": ["Teil von Muharraq", "Küstenlage", "Moderne Wohngegend", "Nähe zum Flughafen"]
+    },
+    {
+      "id": "barbar-cities-v2",
+      "description": "Barbar ist ein Dorf im Norden Bahrains, das vor allem wegen der dortigen Ausgrabungen des Barbar-Tempels international bekannt ist. Es hat eine tiefe historische Verwurzelung.",
+      "facts": ["Nord-Bahrain", "Tempel-Standort", "Historische Stätte", "Ruhiges Dorfgebiet"]
+    },
+    {
+      "id": "karrana-cities-v2",
+      "description": "Karrana ist eine landwirtschaftlich geprägte Siedlung im Norden Bahrains. Das Gebiet ist für seine traditionellen Farmen und Palmenhaine bekannt.",
+      "facts": ["Nördlicher Bezirk", "Traditionelle Landwirtschaft", "Palmenhaine", "Ländlicher Charakter"]
+    },
+    {
+      "id": "salmabad-cities-v2",
+      "description": "Salmabad ist ein bedeutendes Industrie- und Gewerbegebiet in Bahrain. Es dient als wichtiger Knotenpunkt für lokales Handwerk und mittelständische Unternehmen.",
+      "facts": ["Industriezentrum", "Gewerbliche Zone", "Zentrale Lage", "Wichtiges Handwerksgebiet"]
+    },
+    {
+      "id": "arad-cities-v2",
+      "description": "Arad ist eine Stadt auf der Insel Muharraq, die für ihre historische Festung und ihre Küstenlage bekannt ist. Sie dient als wichtiger Wohnstandort.",
+      "facts": ["Insel Muharraq", "Historische Festung", "Wohnstadt", "Nahe Flughafen"]
+    },
+    {
+      "id": "barbar-temple-history-v2",
+      "description": "Der Barbar-Tempel ist eine archäologische Stätte aus der Dilmun-Kultur, die aus drei aufeinanderfolgenden Tempelbauten besteht. Er stammt aus dem 3. Jahrtausend v. Chr.",
+      "facts": ["Dilmun-Kultur", "3. Jahrtausend v. Chr.", "Archäologische Stätte", "Drei Tempelbauphasen"]
+    },
+    {
+      "id": "abu-mahir-fort-history-v2",
+      "description": "Das Abu-Mahir-Fort ist ein historisches Verteidigungsbauwerk auf der Insel Muharraq, das den Hafen schützte. Es ist heute Teil des Pearling-Path-Wanderwegs.",
+      "facts": ["Muharraq-Insel", "Historisches Fort", "Pearling-Path-Route", "Ehemaliger Hafenstandort"]
+    },
+    {
+      "id": "al-sayh-walkway-life-v2",
+      "description": "Der Al-Sayh-Walkway ist eine beliebte Uferpromenade in Muharraq, die für Spaziergänge und Erholung am Meer geschätzt wird. Er bietet einen Blick auf die Skyline.",
+      "facts": ["Muharraq-Promenade", "Uferweg", "Blick auf Manama", "Erholungsgebiet"]
+    }
+  ]
+}

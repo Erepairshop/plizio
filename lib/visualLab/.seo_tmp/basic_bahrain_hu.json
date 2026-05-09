@@ -1,0 +1,86 @@
+{
+  "lang": "hu",
+  "country": "Bahrain",
+  "files": [
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBahrainCitiesV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBahrainHistoryV2.ts",
+    "C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraBahrainLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "isa-town-cities-v2",
+      "description": "Bahrain egyik jelentős városa, amely oktatási és lakóövezeti központként ismert. A város modern infrastruktúrával rendelkezik, és fontos szerepet tölt be az ország közigazgatásában.",
+      "facts": ["Lakóövezeti központ", "Oktatási intézmények otthona", "Modern infrastruktúra"]
+    },
+    {
+      "id": "sitra-cities-v2",
+      "description": "Sitra egy ipari sziget Bahrain keleti partján, amely az olajipar és a finomítók központja. A sziget stratégiai elhelyezkedése miatt kulcsfontosságú az ország gazdasága számára.",
+      "facts": ["Ipari sziget", "Olajfinomítók központja", "Keleti partvidéki elhelyezkedés"]
+    },
+    {
+      "id": "sanabis-cities-v2",
+      "description": "Manama közelében található, sűrűn lakott település, amely fejlett kereskedelmi környezettel rendelkezik. A városban számos irodaház és modern lakókomplexum épült az elmúlt években.",
+      "facts": ["Manama közeli település", "Fejlett kereskedelmi negyed", "Modern lakókomplexumok"]
+    },
+    {
+      "id": "tubli-cities-v2",
+      "description": "Tubli városa a híres Tubli-öböl mellett terül el, amely gazdag élővilágáról és mangroveerdeiről ismert. A terület lakóépületekkel és könnyűipari létesítményekkel jellemezhető.",
+      "facts": ["Mangroveerdők közelsége", "Tubli-öböl partvidéke", "Lakó- és ipari zónák"]
+    },
+    {
+      "id": "busaiteen-cities-v2",
+      "description": "Muharraq szigetén elhelyezkedő tengerparti város, amely csendes lakókörnyezetéről ismert. A város fejlesztései során nagy hangsúlyt fektettek a tengerparti sétányokra.",
+      "facts": ["Muharraq szigeti elhelyezkedés", "Csendes lakónegyed", "Tengerparti sétányok"]
+    },
+    {
+      "id": "askar-cities-v2",
+      "description": "Egy hagyományos halásztelepülés a fősziget délkeleti részén, amely megőrizte nyugodt jellegét a modern fejlődés mellett is. A település szorosan kötődik a tengeri hagyományokhoz.",
+      "facts": ["Délkeleti partvidék", "Hagyományos halászközösség", "Tengeri örökség"]
+    },
+    {
+      "id": "bani-jamra-cities-v2",
+      "description": "A település történelmileg híres hagyományos szövőiparáról, ahol a helyi kézművesek generációkon át őrizték a technikát. Napjainkban csendes lakóövezetként funkcionál.",
+      "facts": ["Hagyományos szövőipar", "Kézműves központ", "Csendes lakóövezet"]
+    },
+    {
+      "id": "karrana-cities-v2",
+      "description": "Bahrain északi részén található mezőgazdasági és lakóterület, amely zöldövezeteiről ismert. A környező kertek és pálmaligetek jellemzik a tájat.",
+      "facts": ["Északi elhelyezkedés", "Mezőgazdasági hagyományok", "Zöldövezeti terület"]
+    },
+    {
+      "id": "salmabad-cities-v2",
+      "description": "Központi elhelyezkedésű város, amely az ipari és raktárlogisztikai központok kedvelt helyszíne Bahrainben. Számos kis- és középvállalkozás telephelye található itt.",
+      "facts": ["Logisztikai csomópont", "Ipari zónák", "Központi elhelyezkedés"]
+    },
+    {
+      "id": "karbabad-cities-v2",
+      "description": "Tengerparti település, amely közel fekszik a Seef kereskedelmi negyedhez és a tengerparti üdülőhelyekhez. A város a modern életmód és a tradicionális környezet ötvözete.",
+      "facts": ["Seef negyed közelsége", "Tengerparti elhelyezkedés", "Kereskedelmi vonzáskörzet"]
+    },
+    {
+      "id": "arad-cities-v2",
+      "description": "Muharraq szigetén elhelyezkedő település, amely kiváló elhelyezkedése miatt közkedvelt a lakók körében. A város több parkkal és közösségi térrel rendelkezik.",
+      "facts": ["Muharraq szigeti rész", "Közkedvelt lakóövezet", "Közösségi parkok"]
+    },
+    {
+      "id": "arad-fort-history-v2",
+      "description": "A 15. századból származó erőd, amely stratégiai védelmi pontot jelentett az ország történelme során. Az építmény a tradicionális bahreini építészet ékes példája.",
+      "facts": ["15. századi építés", "Stratégiai védelmi pont", "Tradicionális építészet"]
+    },
+    {
+      "id": "ain-raya-park-life-v2",
+      "description": "Egy helyi park, amely zöldfelületet biztosít a családok számára a mindennapi kikapcsolódáshoz. A park jól felszerelt pihenőhelyekkel és játszóterekkel várja a látogatókat.",
+      "facts": ["Családi pihenőhely", "Zöldövezeti park", "Játszóterek"]
+    },
+    {
+      "id": "karbabad-beach-park-life-v2",
+      "description": "Karbabad tengerparti része, amely nyilvános parkként szolgál a tengeri kikapcsolódást keresőknek. Kedvelt helyszín a sétákhoz és a tengerparti szabadidős tevékenységekhez.",
+      "facts": ["Nyilvános tengerpart", "Szabadidős központ", "Sétálóövezet"]
+    },
+    {
+      "id": "hamad-town-park-life-v2",
+      "description": "Hamad Town egyik központi parkja, amely közösségi találkozóhelyként szolgál a környék lakói számára. A park lehetőséget biztosít sportolásra és szabadtéri eseményekre.",
+      "facts": ["Közösségi találkozóhely", "Sportolási lehetőségek", "Szabadtéri események"]
+    }
+  ]
+}

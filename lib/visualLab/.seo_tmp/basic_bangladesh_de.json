@@ -1,0 +1,51 @@
+{
+  "lang": "de",
+  "country": "Bangladesh",
+  "files": [
+    "lib/visualLab/data/poiExtraBangladeshCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bd-hardinge-bridge-landmarks-v2",
+      "description": "Die Hardinge-Brücke ist eine historische Eisenbahnbrücke, die den Fluss Padma überspannt. Sie verbindet die Regionen Pabna und Kushtia und gilt als ingenieurtechnische Meisterleistung.",
+      "facts": ["Historische Eisenbahnbrücke", "Über den Fluss Padma", "Ingenieurtechnische Leistung", "Verbindet Pabna und Kushtia"]
+    },
+    {
+      "id": "bd-novo-theatre-landmarks-v2",
+      "description": "Das Novo Theatre in Dhaka ist ein modernes Planetarium und ein beliebtes Bildungsziel. Es bietet astronomische Vorführungen und ist ein markantes Bauwerk in der Stadt.",
+      "facts": ["Modernes Planetarium", "In Dhaka", "Bildungsziel", "Astronomische Vorführungen"]
+    },
+    {
+      "id": "bd-bangladesh-taj-mahal-landmarks-v2",
+      "description": "Der Bangladesch Taj Mahal bei Dhaka ist eine Nachbildung des berühmten indischen Originals. Es ist ein markantes und kontroverses architektonisches Projekt in der Region.",
+      "facts": ["Nachbildung des Taj Mahal", "Nahe Dhaka", "Architektonisches Projekt", "Markantes Bauwerk"]
+    },
+    {
+      "id": "national-botanical-garden-life-v2",
+      "description": "Der National Botanical Garden ist einer der größten botanischen Gärten in Bangladesch. Er beherbergt eine umfangreiche Sammlung von Pflanzenarten und bietet Ruhe in Dhaka.",
+      "facts": ["Größter botanischer Garten", "In Dhaka", "Umfangreiche Pflanzensammlung", "Oase der Ruhe"]
+    },
+    {
+      "id": "bangabandhu-safari-park-life-v2",
+      "description": "Der Bangabandhu Safari Park ist ein großes Natur- und Tierschutzgebiet nördlich von Dhaka. Er ermöglicht Besuchern, Tiere in einer naturnahen Umgebung zu beobachten.",
+      "facts": ["Großes Naturschutzgebiet", "Nördlich von Dhaka", "Tierschutzpark", "Naturnahe Beobachtung"]
+    },
+    {
+      "id": "dhaka-shishu-park-life-v2",
+      "description": "Der Dhaka Shishu Park ist der älteste Vergnügungspark für Kinder in Bangladesch. Er befindet sich im Zentrum von Dhaka und ist ein beliebtes Ausflugsziel für Familien.",
+      "facts": ["Ältester Kinder-Vergnügungspark", "Im Zentrum von Dhaka", "Beliebt bei Familien", "Kulturelles Ausflugsziel"]
+    },
+    {
+      "id": "hatirjheel-life-v2",
+      "description": "Hatirjheel ist ein großes urbanes Wasserprojekt in Dhaka, das Freizeitflächen und verbesserte Infrastruktur kombiniert. Es ist ein Zentrum für Erholung und moderne Stadtplanung.",
+      "facts": ["Urbanes Wasserprojekt", "In Dhaka", "Zentrum für Erholung", "Moderne Stadtplanung"]
+    },
+    {
+      "id": "fantasy-kingdom-life-v2",
+      "description": "Fantasy Kingdom ist ein bekannter Freizeitpark nahe Dhaka. Mit seinen Fahrgeschäften und Attraktionen ist er ein beliebtes Ziel für Unterhaltung und Freizeitaktivitäten.",
+      "facts": ["Bekannter Freizeitpark", "Nahe Dhaka", "Viele Attraktionen", "Unterhaltungszentrum"]
+    }
+  ]
+}

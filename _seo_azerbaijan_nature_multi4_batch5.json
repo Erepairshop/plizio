@@ -1,0 +1,76 @@
+
+{
+  "lang": "multi4",
+  "country": "azerbaijan",
+  "files": ["lib/visualLab/data/poiExtraAzerbaijanNatureV2.ts"],
+  "items": [
+    {
+      "id": "altiaghaj-national-park-nature-v2",
+      "descriptionAdvancedDe": "Der Altıağac-Nationalpark, gegründet 2004, erstreckt sich über 11.035 Hektar in den Bezirken Xızı und Siyəzən. Der Name bedeutet „sechs Bäume“ oder „sechs Meilen“, was möglicherweise auf eine alte Entfernungseinheit hinweist. Der Park ist hauptsächlich von Laubwäldern bedeckt und wurde zum Schutz der seltenen Flora und Fauna des südöstlichen Großen Kaukasus eingerichtet. Er ist bekannt für seine reiche Tierwelt, darunter Braunbären, Wildschweine, Luchse und Rehe. Eine Besonderheit des Parks ist ein Rehabilitationszentrum für Wildtiere. Die malerischen Landschaften mit ihren sanften Hügeln und dichten Wäldern machen ihn zu einem beliebten Ziel für Wanderer und Naturliebhaber, die die vielfältige Natur Aserbaidschans erleben möchten.",
+      "descriptionAdvancedHu": "Az Altıağac Nemzeti Parkot 2004-ben alapították 11 035 hektáron, a Xızı és Siyəzən kerületekben. A neve, „hat fa” vagy „hat mérföld”, egy régi távolságegységre utalhat. A parkot nagyrészt lombhullató erdők borítják, és a Nagy-Kaukázus délkeleti lejtőinek ritka növény- és állatvilágának védelmére hozták létre. Gazdag vadvilágáról ismert, megtalálható itt a barna medve, a vaddisznó, a hiúz és az őz. A park egyik különlegessége egy vadon élő állatok rehabilitációjával foglalkozó központ. Festői tájai a lankás dombokkal és sűrű erdőkkel népszerű célponttá teszik a túrázók és a természetbarátok körében, akik Azerbajdzsán változatos élővilágát szeretnék felfedezni.",
+      "descriptionAdvancedRo": "Parcul Național Altiaghaj, înființat în 2004, se întinde pe 11.035 de hectare în districtele Khizi și Siyazan. Numele său, care înseamnă „șase copaci” sau „șase mile”, se poate referi la o veche unitate de distanță. Parcul este acoperit în principal de păduri de foioase și a fost creat pentru a proteja flora și fauna rară de pe versanții sud-estici ai Munților Caucazul Mare. Este renumit pentru fauna sa bogată, care include urși bruni, mistreți, râși și căprioare. O caracteristică specială a parcului este un centru de reabilitare a animalelor sălbatice. Peisajele sale pitorești, cu dealuri domoale și păduri dese, îl fac o destinație populară pentru drumeții și iubitorii de natură.",
+      "descriptionAdvancedEn": "Altiaghaj National Park, established in 2004, covers 11,035 hectares in the Khizi and Siyazan districts of Azerbaijan. Its name, meaning 'six trees' or 'six miles,' possibly refers to an old measure of distance. The park is predominantly covered by broadleaf deciduous forests and was created to conserve the rare flora and fauna of the southeastern slopes of the Greater Caucasus. It is well-known for its rich wildlife, including brown bears, wild boars, lynx, and roe deer. A notable feature within the park is a wildlife rehabilitation center. Its scenic landscapes of rolling hills and dense forests make it a popular destination for hikers and nature enthusiasts looking to experience Azerbaijan's diverse natural environment.",
+      "factsAdvanced": [
+        "2004-ben alapították.",
+        "Területe 11 035 hektár.",
+        "A Nagy-Kaukázus délkeleti lejtőin fekszik.",
+        "Jelentése „hat fa” vagy „hat mérföld”.",
+        "Lombhullató erdők borítják.",
+        "Vadon élő állatok rehabilitációs központja is itt van.",
+        "Gazdag állatvilág: medve, vaddisznó, hiúz.",
+        "Népszerű túrázóhely."
+      ]
+    },
+    {
+      "id": "mount-qapijiq-nature-v2",
+      "descriptionAdvancedDe": "Der Qapıcıq, mit 3.904 Metern der höchste Gipfel des Sangesur-Gebirges in Aserbaidschan, thront über der Autonomen Republik Nachitschewan an der Grenze zu Armenien. Sein Name ist türkischen Ursprungs und bedeutet „kleines Tor“ oder „Pass“. Der Berg ist Teil einer beeindruckenden alpinen Landschaft, die von steilen Felswänden, Geröllfeldern und hochgelegenen Wiesen geprägt ist. Aufgrund seiner Höhe ist der Gipfel einen Großteil des Jahres mit Schnee bedeckt. Die Besteigung ist anspruchsvoll und erfordert Erfahrung im alpinen Gelände. Die Region um den Qapıcıq ist für ihre einzigartige Biodiversität bekannt, die durch die Abgeschiedenheit und die extremen Höhenlagen erhalten geblieben ist, und beherbergt mehrere endemische Pflanzenarten.",
+      "descriptionAdvancedHu": "A Qapıcıq-hegy 3904 méteres magasságával az azerbajdzsáni Zangezur-hegység és egyben a Nahicseván Autonóm Köztársaság legmagasabb csúcsa, amely az örmény határon emelkedik. Török eredetű neve „kapucskát” vagy „kis hágót” jelent. A hegy egy lenyűgöző alpesi táj része, amelyet meredek sziklafalak, kőomlások és magashegyi rétek jellemeznek. Magassága miatt a csúcsot az év nagy részében hó borítja. Megmászása kihívást jelent, és tapasztalatot igényel az alpesi terepen. A Qapıcıq környéke egyedülálló biológiai sokféleségéről ismert, amelyet az elszigeteltség és a szélsőséges magassági viszonyok őriztek meg, és számos endemikus növényfajnak ad otthont.",
+      "descriptionAdvancedRo": "Muntele Qapiciq, cu o înălțime de 3.904 metri, este cel mai înalt vârf din lanțul muntos Zangezur din Azerbaidjan și domină Republica Autonomă Nahicevan la granița cu Armenia. Numele său, de origine turcică, înseamnă „poartă mică” sau „trecătoare”. Muntele face parte dintr-un peisaj alpin impresionant, caracterizat de stânci abrupte, grohotișuri și pajiști de mare altitudine. Datorită înălțimii sale, vârful este acoperit de zăpadă o mare parte a anului. Ascensiunea este dificilă și necesită experiență în teren alpin. Regiunea din jurul Qapiciq este cunoscută pentru biodiversitatea sa unică, conservată datorită izolării și altitudinilor extreme, adăpostind mai multe specii de plante endemice.",
+      "descriptionAdvancedEn": "Mount Qapijiq, at 3,904 meters, is the highest peak of the Zangezur Range within Azerbaijan, presiding over the Nakhchivan Autonomous Republic on the border with Armenia. Its name is of Turkic origin, meaning 'small gate' or 'pass.' The mountain is part of a formidable alpine landscape characterized by steep rock faces, scree slopes, and high-altitude meadows. Due to its elevation, the summit is snow-capped for much of the year. The ascent is demanding and requires alpine terrain experience. The region around Qapijiq is noted for its unique biodiversity, which has been preserved due to its isolation and extreme altitudes, and it is home to several endemic plant species.",
+      "factsAdvanced": [
+        "A Zangezur-hegység legmagasabb csúcsa Azerbajdzsánban.",
+        "Magassága 3904 méter.",
+        "Nahicseván Autonóm Köztársaságban található.",
+        "Az örmény határon fekszik.",
+        "Neve „kis kaput” vagy „hágót” jelent.",
+        "Csúcsát az év nagy részében hó fedi.",
+        "Megmászása hegymászó tapasztalatot igényel.",
+        "A környékén több endemikus növényfaj él."
+      ]
+    },
+    {
+      "id": "guba-khachmaz-forests-nature-v2",
+      "descriptionAdvancedDe": "Die Wälder der Wirtschaftsregion Guba-Xaçmaz im Nordosten Aserbaidschans bilden eine der grünsten und üppigsten Zonen des Landes. Diese ausgedehnten Laubwälder erstrecken sich von den Ausläufern des Großen Kaukasus bis zur Küste des Kaspischen Meeres. Sie werden von Eichen- und Buchenarten dominiert und sind reich an Biodiversität. Zahlreiche Flüsse und Bäche, die in den Bergen entspringen, durchziehen die Wälder und schaffen eine kühle, feuchte Umgebung. Diese Region ist ein beliebtes Erholungsgebiet, besonders in den heißen Sommermonaten, und zieht Besucher mit ihren kühlen Quellen, malerischen Tälern und dichten Wäldern an. Die Wälder sind nicht nur für den Tourismus wichtig, sondern spielen auch eine entscheidende Rolle für den Wasserhaushalt und den Bodenschutz in der Region.",
+      "descriptionAdvancedHu": "A Guba-Xaçmaz gazdasági régió erdői Azerbajdzsán északkeleti részén az ország egyik legzöldebb és legdúsabb növényzetű területét alkotják. Ezek a kiterjedt lombhullató erdők a Nagy-Kaukázus előhegyeitől egészen a Kaszpi-tenger partjáig húzódnak. A tájat tölgy- és bükkfafajok uralják, és rendkívül gazdag a biológiai sokféleségük. Számos, a hegyekben eredő folyó és patak szeli át az erdőket, hűvös és párás környezetet teremtve. A régió különösen a forró nyári hónapokban népszerű üdülőhely, amely hűs forrásaival, festői völgyeivel és sűrű erdeivel vonzza a látogatókat. Az erdők nemcsak a turizmus, hanem a régió vízháztartása és talajvédelme szempontjából is kulcsfontosságúak.",
+      "descriptionAdvancedRo": "Pădurile din regiunea economică Guba-Khachmaz, în nord-estul Azerbaidjanului, formează una dintre cele mai verzi și luxuriante zone ale țării. Aceste păduri întinse de foioase se întind de la poalele Munților Caucazul Mare până la coasta Mării Caspice. Ele sunt dominate de specii de stejar și fag și sunt bogate în biodiversitate. Numeroase râuri și pârâuri, care izvorăsc din munți, traversează pădurile, creând un mediu răcoros și umed. Această regiune este o zonă de recreere populară, în special în lunile fierbinți de vară, atrăgând vizitatori cu izvoarele sale reci, văile pitorești și pădurile dese. Pădurile nu sunt importante doar pentru turism, ci joacă și un rol crucial în echilibrul hidrologic și în protecția solului din regiune.",
+      "descriptionAdvancedEn": "The forests of the Guba-Khachmaz economic region in northeastern Azerbaijan constitute one of the country's greenest and most lush zones. These extensive deciduous forests stretch from the foothills of the Greater Caucasus to the coast of the Caspian Sea. They are dominated by oak and beech species and are rich in biodiversity. Numerous rivers and streams originating in the mountains flow through the forests, creating a cool, humid environment. This region is a popular recreational area, especially during the hot summer months, attracting visitors with its cool springs, picturesque valleys, and dense woodlands. The forests are not only important for tourism but also play a crucial role in the region's water balance and soil conservation.",
+      "factsAdvanced": [
+        "Azerbajdzsán északkeleti részén található.",
+        "A Nagy-Kaukázus előhegyeitől a Kaszpi-tengerig terjed.",
+        "Az ország egyik legzöldebb területe.",
+        "Tölgy- és bükkerdők uralják.",
+        "Népszerű nyári üdülőhely.",
+        "Hűvös forrásairól és festői völgyeiről ismert.",
+        "Fontos szerepet játszik a vízháztartásban.",
+        "Gazdag biológiai sokféleséggel rendelkezik."
+      ]
+    },
+    {
+      "id": "lake-batabat-nature-v2",
+      "descriptionAdvancedDe": "Der Batabat-See ist ein einzigartiges Naturphänomen in der Autonomen Republik Nachitschewan, gelegen auf einer Höhe von etwa 2.500 Metern. Er ist berühmt für seine schwimmende Torfinsel, die sich langsam über die Oberfläche des Sees bewegt. Diese Insel, die hauptsächlich aus Torf und verwurzelten Pflanzen besteht, ist eine seltene geologische Erscheinung. Der See selbst ist von subalpinen Wiesen umgeben, die im Frühling und Sommer in voller Blüte stehen und eine spektakuläre Kulisse bieten. Das Wasser des Sees ist außergewöhnlich klar und kalt. In der Nähe des Sees befindet sich ein Observatorium. Die Abgeschiedenheit und die unberührte Schönheit der Landschaft machen den Batabat-See und seine Umgebung zu einem faszinierenden Ziel für Wissenschaftler und Naturliebhaber.",
+      "descriptionAdvancedHu": "A Batabat-tó egy egyedülálló természeti jelenség a Nahicseván Autonóm Köztársaságban, körülbelül 2500 méteres magasságban. Hírnevét a felszínén lassan mozgó, úszó tőzegszigetnek köszönheti. Ez a főként tőzegből és gyökeres növényekből álló sziget ritka geológiai képződmény. Magát a tavat szubalpin rétek veszik körül, amelyek tavasszal és nyáron virágba borulnak, látványos hátteret biztosítva. A tó vize rendkívül tiszta és hideg. A tó közelében egy csillagvizsgáló is található. Az elszigeteltség és a táj érintetlen szépsége a Batabat-tavat és környékét lenyűgöző célponttá teszi a tudósok és a természet szerelmesei számára.",
+      "descriptionAdvancedRo": "Lacul Batabat este un fenomen natural unic în Republica Autonomă Nahicevan, situat la o altitudine de aproximativ 2.500 de metri. Este renumit pentru insula sa plutitoare de turbă, care se deplasează încet pe suprafața lacului. Această insulă, compusă în principal din turbă și plante înrădăcinate, este o formațiune geologică rară. Lacul însuși este înconjurat de pajiști subalpine, care înfloresc primăvara și vara, oferind un decor spectaculos. Apa lacului este excepțional de limpede și rece. În apropierea lacului se află un observator. Izolarea și frumusețea neatinsă a peisajului fac din Lacul Batabat și din împrejurimile sale o destinație fascinantă pentru oamenii de știință și iubitorii de natură.",
+      "descriptionAdvancedEn": "Lake Batabat is a unique natural phenomenon in the Nakhchivan Autonomous Republic, located at an altitude of about 2,500 meters. It is famous for its floating peat island, which drifts slowly across the lake's surface. This island, composed mainly of peat and rooted plants, is a rare geological formation. The lake itself is surrounded by subalpine meadows that are in full bloom during spring and summer, providing a spectacular backdrop. The water of the lake is exceptionally clear and cold. An observatory is also located near the lake. The remoteness and unspoiled beauty of the landscape make Lake Batabat and its surroundings a fascinating destination for scientists and nature enthusiasts.",
+      "factsAdvanced": [
+        "Nahicsevánban található, 2500 méteres magasságban.",
+        "Egy úszó tőzegsziget található rajta.",
+        "A sziget lassan mozog a víz felszínén.",
+        "Szubalpin rétek veszik körül.",
+        "Vize rendkívül tiszta és hideg.",
+        "A közelben egy csillagvizsgáló is működik.",
+        "Ritka geológiai képződmény.",
+        "Tudósok és természetkedvelők kedvelt célpontja."
+      ]
+    }
+  ]
+}

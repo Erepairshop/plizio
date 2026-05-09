@@ -1,0 +1,54 @@
+{
+  "lang": "hu",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bo-puerto-jennefer-economic-v2",
+      "description": "Magánkézben lévő kikötő a Puerto Quijarro környékén, jelentős szereppel a kereskedelmi hajózásban.",
+      "facts": ["Puerto Quijarro", "Kereskedelmi kikötő", "Magánberuházás"]
+    },
+    {
+      "id": "bo-puerto-aguirre-economic-v2",
+      "description": "Fontos folyami kikötő a Paraguay folyón, a nemzetközi kereskedelem egyik csomópontja.",
+      "facts": ["Paraguay folyó", "Nemzetközi kereskedelem", "Folyami csomópont"]
+    },
+    {
+      "id": "bo-puerto-gravetal-economic-v2",
+      "description": "Ipari és logisztikai kikötő, amely a bolíviai nyersanyagok szállítását segíti elő.",
+      "facts": ["Logisztikai kikötő", "Nyersanyagszállítás", "Ipari létesítmény"]
+    },
+    {
+      "id": "bo-puerto-villarroel-economic-v2",
+      "description": "Kikötő a Mamoré folyón, fontos a bolíviai Amazon-régió ellátásában.",
+      "facts": ["Mamoré folyó", "Amazon-régió ellátása", "Folyami kikötő"]
+    },
+    {
+      "id": "bo-puerto-almacen-economic-v2",
+      "description": "Kisebb folyami kikötő, amely a helyi gazdasági közlekedést és áruszállítást támogatja.",
+      "facts": ["Folyami kikötő", "Helyi áruszállítás", "Gazdasági közlekedés"]
+    },
+    {
+      "id": "bo-puerto-guaqui-economic-v2",
+      "description": "Történelmi kikötő a Titicaca-tavon, amely egykor Bolívia legfontosabb tengeri kapcsolata volt.",
+      "facts": ["Titicaca-tó", "Történelmi kikötő", "Kereskedelmi múlt"]
+    },
+    {
+      "id": "bo-puerto-perez-economic-v2",
+      "description": "Kikötő a Titicaca-tó partján, amely a helyi halászatot és turizmust támogatja.",
+      "facts": ["Titicaca-tó", "Helyi halászat", "Turizmus"]
+    },
+    {
+      "id": "bo-san-pedro-tiquina-economic-v2",
+      "description": "Fontos átkelőhely a Titicaca-tavon, amely összeköti a Copacabana-félszigetet az ország többi részével.",
+      "facts": ["Titicaca-tó", "Kompos átkelő", "Stratégiai pont"]
+    },
+    {
+      "id": "bo-planta-litio-uyuni-economic-v2",
+      "description": "Kísérleti lítium-feldolgozó üzem az Uyuni-sósivatagban, a jövő energetikai projektje.",
+      "facts": ["Uyuni-sósivatag", "Lítiumfeldolgozás", "Energiaipar"]
+    }
+  ]
+}

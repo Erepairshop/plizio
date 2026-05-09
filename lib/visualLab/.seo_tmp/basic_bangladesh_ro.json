@@ -1,0 +1,84 @@
+{
+  "lang": "ro",
+  "country": "Bangladesh",
+  "files": [
+    "lib/visualLab/data/poiExtraBangladeshCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dhaka-cities-v2",
+      "description": "Capitala Bangladeshului, situată pe malul râului Buriganga, este inima administrativă și economică a țării. Orașul este faimos pentru densitatea sa ridicată și viața urbană vibrantă.",
+      "facts": ["Capitala Bangladeshului", "Situat pe râul Buriganga", "Centru economic major", "Cunoscut pentru țesături"]
+    },
+    {
+      "id": "chittagong-cities-v2",
+      "description": "Principalul port maritim al țării, Chittagong joacă un rol vital în comerțul internațional al regiunii. Este un hub industrial strategic pentru economia Bangladeshului.",
+      "facts": ["Port maritim major", "Centru industrial cheie", "Situat în sud-est", "Poartă comercială"]
+    },
+    {
+      "id": "khulna-cities-v2",
+      "description": "Un important centru industrial și de transport în apropierea pădurilor de mangrove Sundarbans. Este renumit pentru rafinăriile sale și proximitatea față de patrimoniul natural.",
+      "facts": ["Centru industrial", "Poartă către Sundarbans", "Situat pe râul Rupsha", "Importanță logistică"]
+    },
+    {
+      "id": "rajshahi-cities-v2",
+      "description": "Situat în nord-vestul țării, acest oraș este cunoscut pentru producția sa de mătase de înaltă calitate. Este un centru educațional și administrativ istoric în Bangladesh.",
+      "facts": ["Centru al mătăsii", "Situat pe râul Padma", "Hub educațional", "Climat arid"]
+    },
+    {
+      "id": "sylhet-cities-v2",
+      "description": "Regiunea Sylhet este renumită pentru grădinile sale extinse de ceai și peisajele verzi. Orașul atrage numeroși vizitatori datorită culturii sale unice și a resurselor naturale.",
+      "facts": ["Regiunea ceaiului", "Peisaj deluros", "Centru spiritual", "Climă umedă"]
+    },
+    {
+      "id": "barisal-cities-v2",
+      "description": "Cunoscut ca fiind 'Veneția Bengalului', orașul este situat într-o rețea complexă de râuri și canale. Economia sa se bazează puternic pe agricultură și pe comerțul fluvial.",
+      "facts": ["Rețea de canale", "Centru agricol", "Situat pe râul Kirtankhola", "Hub fluvial"]
+    },
+    {
+      "id": "rangpur-cities-v2",
+      "description": "Un oraș cu rădăcini istorice puternice în nordul țării, Rangpur a devenit un centru important pentru agricultură și comerț. Este cunoscut pentru recoltele bogate de tutun și orez.",
+      "facts": ["Centru agricol", "Istoric regional", "Situat în nord", "Hub comercial"]
+    },
+    {
+      "id": "mymensingh-cities-v2",
+      "description": "Situat pe malul râului Brahmaputra, Mymensingh este un centru cultural și academic recunoscut. Orașul joacă un rol important în dezvoltarea rurală a regiunii.",
+      "facts": ["Situat pe râul Brahmaputra", "Centru academic", "Importanță culturală", "Hub regional"]
+    },
+    {
+      "id": "comilla-cities-v2",
+      "description": "Un oraș istoric situat de-a lungul autostrăzii Dhaka-Chittagong, Comilla găzduiește situri arheologice valoroase. Este un nod comercial esențial pentru regiunea de est.",
+      "facts": ["Hub arheologic", "Situat pe axa Dhaka-Chittagong", "Nod comercial", "Importanță istorică"]
+    },
+    {
+      "id": "narayanganj-cities-v2",
+      "description": "Narayanganj este inima industrială a țării, fiind recunoscut pentru industria textilă și prelucrarea iutei. Orașul are o istorie lungă ca hub portuar fluvial.",
+      "facts": ["Centru textil", "Hub portuar fluvial", "Producător de iută", "Zona industrială"]
+    },
+    {
+      "id": "gazipur-cities-v2",
+      "description": "Situat în imediata apropiere a capitalei, Gazipur este un centru industrial și academic în creștere rapidă. Este cunoscut pentru zonele sale de producție industrială și facilitățile educaționale.",
+      "facts": ["Hub industrial", "Proximitate față de Dhaka", "Centru educațional", "Zona metropolitană"]
+    },
+    {
+      "id": "bogra-cities-v2",
+      "description": "Un centru comercial major în nordul Bangladeshului, Bogra este adesea considerat 'poarta de intrare' în regiunea de nord. Orașul este un nod logistic important pentru tranzitul mărfurilor.",
+      "facts": ["Nod logistic", "Centru comercial", "Hub în nordul țării", "Poartă regională"]
+    },
+    {
+      "id": "kushtia-cities-v2",
+      "description": "Kushtia este un oraș cultural și istoric, cunoscut ca loc de naștere al multor personalități literare și muzicale. Orașul are o economie diversificată bazată pe industrie și agricultură.",
+      "facts": ["Hub cultural", "Loc de naștere literar", "Economie mixtă", "Regiune istorică"]
+    },
+    {
+      "id": "jessore-cities-v2",
+      "description": "Unul dintre cele mai vechi orașe din Bangladesh, Jessore este un hub pentru comerț și transport. Orașul are o istorie bogată și o locație strategică în sud-vest.",
+      "facts": ["Oraș istoric", "Hub de transport", "Locație strategică", "Hub comercial"]
+    },
+    {
+      "id": "coxs-bazar-cities-v2",
+      "description": "Faimos pentru cea mai lungă plajă naturală continuă din lume, Cox's Bazar este principala destinație turistică a țării. Orașul susține o economie bazată pe pescuit și turism.",
+      "facts": ["Cea mai lungă plajă", "Hub turistic", "Economie bazată pe pescuit", "Destinație costieră"]
+    }
+  ]
+}

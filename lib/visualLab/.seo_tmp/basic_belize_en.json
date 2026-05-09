@@ -1,0 +1,62 @@
+{
+  "lang": "en",
+  "country": "Belize",
+  "files": [
+    "lib/visualLab/data/poiExtraBelizeCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBelizeLifeV2.ts",
+    "lib/visualLab/data/poiExtraBelizeNatureV2.ts",
+    "lib/visualLab/data/poiExtraBelizeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yo-creek-cities-v2",
+      "description": "A small settlement located in the Orange Walk District of northern Belize. It serves as a quiet rural community centered around local agriculture.",
+      "facts": ["Located in Orange Walk District", "Agricultural community", "Small rural population"]
+    },
+    {
+      "id": "corozal-corozal-capital-cities-v2",
+      "description": "Corozal Town is the administrative capital of the Corozal District, known for its scenic bay views and proximity to the Mexican border. The town features a blend of Belizean and Mestizo cultures.",
+      "facts": ["District administrative center", "Near Mexican border", "Bayfront location"]
+    },
+    {
+      "id": "san-jose-ow-cities-v2",
+      "description": "San Jose is a village in the Orange Walk District, primarily inhabited by a large Mennonite population. It is well-known for its contribution to local farming and produce.",
+      "facts": ["Orange Walk District village", "Mennonite community", "Agricultural production hub"]
+    },
+    {
+      "id": "santa-marta-ow-cities-v2",
+      "description": "Santa Marta is a rural village found in the Orange Walk District, situated along the Philip Goldson Highway. It is a traditional community focused on small-scale farming.",
+      "facts": ["Orange Walk District", "Located on Philip Goldson Highway", "Small-scale farming"]
+    },
+    {
+      "id": "chan-chen-cities-v2",
+      "description": "Chan Chen is a village in the Corozal District, known for its proximity to archaeological sites and sugar cane fields. It maintains a strong community-based agricultural economy.",
+      "facts": ["Corozal District", "Sugar cane region", "Close to Mayan ruins"]
+    },
+    {
+      "id": "x-pichil-cities-v2",
+      "description": "X-Pichil is a smaller settlement in northern Belize, reflecting the diverse cultural landscape of the Corozal and Orange Walk border regions.",
+      "facts": ["Northern Belize settlement", "Culturally diverse", "Rural setting"]
+    },
+    {
+      "id": "carmelita-cities-v2",
+      "description": "Carmelita is a prominent village in the Orange Walk District, located at the junction of key highways leading to Belize City and Corozal. It serves as a vital transit point for northern travelers.",
+      "facts": ["Orange Walk District", "Major transit junction", "Key crossroads village"]
+    },
+    {
+      "id": "unitedville-cities-v2",
+      "description": "Unitedville is a village in the Cayo District, strategically placed between San Ignacio and Belmopan. It is a developing community benefiting from its position on the Western Highway.",
+      "facts": ["Cayo District", "Western Highway location", "Between San Ignacio and Belmopan"]
+    },
+    {
+      "id": "santa-rosa-toledo-cities-v2",
+      "description": "Santa Rosa is a remote village in the Toledo District, predominantly inhabited by indigenous Maya communities. It focuses on traditional land cultivation and preserving ancestral practices.",
+      "facts": ["Toledo District", "Indigenous Maya village", "Traditional farming"]
+    },
+    {
+      "id": "san-pablo-toledo-cities-v2",
+      "description": "San Pablo is a village situated in the southern Toledo District, known for its lush tropical surroundings and traditional way of life. It is part of the broader Maya heartland of Belize.",
+      "facts": ["Toledo District", "Maya heartland", "Lush tropical setting"]
+    }
+  ]
+}

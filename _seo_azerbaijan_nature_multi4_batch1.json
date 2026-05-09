@@ -1,0 +1,73 @@
+
+{
+  "lang": "multi4",
+  "country": "azerbaijan",
+  "files": ["lib/visualLab/data/poiExtraAzerbaijanNatureV2.ts"],
+  "items": [
+    {
+      "id": "shirvan-national-park-nature-v2",
+      "descriptionAdvancedDe": "Der Schirwan-Nationalpark wurde am 5. Juli 2003 gegründet und erstreckt sich über eine beeindruckende Fläche von 54.373,5 Hektar im Verwaltungsbezirk Salyan. Dieser halbtrockene Nationalpark an der Küste des Kaspischen Meeres ist ein einzigartiges Ökosystem, das hauptsächlich aus Ebenen und Halbwüsten besteht. Sein Hauptzweck ist der Schutz der Kropfgazelle (Gazella subgutturosa), einer in der Region heimischen und gefährdeten Art. Neben den Gazellen bietet der Park auch Lebensraum für zahlreiche Wasservögel, insbesondere während der Überwinterungszeit, was ihn zu einem wichtigen ornithologischen Gebiet macht. Die Landschaft ist geprägt von einer kargen Vegetation, die an die salzhaltigen Böden und das trockene Klima angepasst ist, und bietet einen faszinierenden Kontrast zur nahegelegenen Küste.",
+      "descriptionAdvancedHu": "A Şirvan Nemzeti Parkot 2003. július 5-én hozták létre a Salyan adminisztratív kerület területén, 54 373,5 hektáron. Ez a félsivatagos nemzeti park a Kaszpi-tenger partján fekszik, és elsődleges célja a golyvás gazella (Gazella subgutturosa) populációjának védelme és helyreállítása. A park területe nagyrészt sík, félsivatagos táj, amely ideális élőhelyet biztosít ezeknek a kecses állatoknak. A gazellák mellett a park rendkívül fontos a vándormadarak számára is; a téli hónapokban madarak ezrei, köztük flamingók és hattyúk találnak itt menedéket. A terület biológiai sokféleségének megőrzése kulcsfontosságú, mivel a park egyedi ökoszisztémája számos ritka és védett fajnak ad otthont Azerbajdzsán egyik legjellegzetesebb vidékén.",
+      "descriptionAdvancedRo": "Parcul Național Shirvan, înființat la 5 iulie 2003 pe o suprafață de 54.373,5 hectare în districtul Salyan, este o arie protejată crucială de pe coasta Mării Caspice. Caracterizat printr-un peisaj semi-arid, parcul a fost creat în principal pentru a proteja și conserva populația de gazele cu gușă (Gazella subgutturosa). Această zonă joacă un rol vital ca habitat pentru aceste mamifere elegante, precum și pentru un număr mare de specii de păsări acvatice, în special în timpul iernii, când devine un loc de adăpost pentru păsările migratoare. Ecosistemul parcului este fragil, adaptat la condițiile de secetă și salinitate, reprezentând un exemplu important de conservare a biodiversității în regiunile de stepă și semideșert din Azerbaidjan.",
+      "descriptionAdvancedEn": "Shirvan National Park was established on July 5, 2003, covering a vast area of 54,373.5 hectares within the Salyan Rayon administrative district. Located on the Caspian Sea coast, this semi-arid national park is primarily dedicated to the protection and monitoring of the goitered gazelle (Gazella subgutturosa) population. The landscape is predominantly a flat, semi-desert plain, which provides an ideal habitat for these gazelles. Beyond mammals, the park is a critical sanctuary for a rich variety of waterfowl, especially during the wintering season, making it a key ornithological site. Its ecosystem, adapted to saline soils and dry conditions, supports a unique assembly of flora and fauna, highlighting its importance for biodiversity conservation in the region.",
+      "factsAdvanced": [
+        "Létrehozva: 2003. július 5.",
+        "Területe 54.373,5 hektár.",
+        "A Salyan régióban található.",
+        "Félsivatagos táj a Kaszpi-tenger partján.",
+        "A golyvás gazella fő védelmi területe.",
+        "Fontos telelőhely a vándormadarak számára.",
+        "Ökoszisztémája a sós talajhoz alkalmazkodott."
+      ]
+    },
+    {
+      "id": "mount-shahdagh-nature-v2",
+      "descriptionAdvancedDe": "Der Şahdağ ist mit 4.243 Metern einer der höchsten und markantesten Gipfel des Großen Kaukasus in Aserbaidschan. Er liegt im Bezirk Qusar, nahe der Grenze zur russischen Republik Dagestan. Sein Name, der „Königsberg“ bedeutet, spiegelt seine majestätische Erscheinung wider. Die Hänge des Berges sind von alpinen Wiesen, Felsformationen und Gletschern geprägt, die das ganze Jahr über bestehen bleiben. Für Bergsteiger stellt der Şahdağ eine ernsthafte Herausforderung dar und erfordert technische Fähigkeiten und Erfahrung. In den letzten Jahren hat sich das Gebiet um den Berg zu einem bedeutenden Wintersportzentrum entwickelt, dem Shahdag Mountain Resort, das Skifahrern und Snowboardern moderne Einrichtungen in einer atemberaubenden Landschaft bietet.",
+      "descriptionAdvancedHu": "A Şahdağ-hegy Azerbajdzsán egyik legmagasabb csúcsa, 4243 méteres magasságával a Nagy-Kaukázus vonulatában emelkedik. A Qusar járásban található, közel az Oroszországhoz tartozó Dagesztán határához. Neve, amely „Király-hegyet” jelent, utal fenséges megjelenésére. A hegyet meredek lejtők, sziklás terep és állandó hóval borított gleccserek jellemzik, ami komoly kihívást jelent a hegymászók számára. A régió turisztikai jelentőségét növeli a hegy lábánál létrehozott Shahdag Mountain Resort, amely Azerbajdzsán első és legnagyobb síparadicsoma. Ez a modern komplexum egész évben vonzza a látogatókat, télen a síelés, nyáron pedig a túrázás és a természetjárás szerelmeseit.",
+      "descriptionAdvancedRo": "Muntele Shahdagh este unul dintre cele mai înalte vârfuri din Munții Caucazul Mare, atingând o altitudine de 4.243 de metri. Situat în districtul Qusar din Azerbaidjan, aproape de granița cu Daghestan (Rusia), numele său se traduce prin „Muntele Regelui”, o denumire potrivită pentru statura sa impunătoare. Versanții săi sunt acoperiți de pajiști alpine, stânci abrupte și ghețari permanenți, ceea ce îl face o destinație provocatoare pentru alpiniștii experimentați. La poalele muntelui se află stațiunea montană Shahdag, cel mai mare și mai modern complex de schi din Azerbaidjan, care atrage turiști pe tot parcursul anului, oferind sporturi de iarnă și drumeții montane într-un cadru natural spectaculos.",
+      "descriptionAdvancedEn": "Mount Shahdagh stands as one of the highest peaks in the Greater Caucasus range, reaching an elevation of 4,243 meters (13,921 ft). It is located in the Qusar District of Azerbaijan, in close proximity to the border with Dagestan, Russia. The name 'Shahdagh' translates to 'King's Mountain,' reflecting its majestic presence. The mountain's slopes feature alpine meadows, rocky terrains, and several glaciers that persist year-round, posing a significant challenge for mountaineers. In recent years, the area has become a major tourist destination with the development of the Shahdag Mountain Resort at its base, which is Azerbaijan's first and largest ski resort, offering year-round activities from skiing to hiking.",
+      "factsAdvanced": [
+        "Magassága 4,243 méter.",
+        "A Nagy-Kaukázus része.",
+        "A Qusar járásban található, közel az orosz határhoz.",
+        "Neve „Király-hegyet” jelent.",
+        "Lejtőin gleccserek találhatók.",
+        "Népszerű a tapasztalt hegymászók körében.",
+        "Lábánál fekszik a Shahdag Mountain Resort síközpont."
+      ]
+    },
+    {
+      "id": "zangezur-national-park-nature-v2",
+      "descriptionAdvancedDe": "Der Sangesur-Nationalpark, ursprünglich als Ordubad-Nationalpark 2003 gegründet, wurde 2009 erheblich erweitert und umbenannt. Er erstreckt sich nun über 42.797 Hektar im Ordubad-Distrikt der Autonomen Republik Nachitschewan. Der Park schützt eine äußerst vielfältige Gebirgslandschaft mit extremen klimatischen Bedingungen, die von -30°C im Winter bis zu 25°C im Sommer reichen. Diese Vielfalt an Lebensräumen ermöglicht das Überleben seltener und gefährdeter Arten. Besondere Bedeutung hat der Park für den Schutz des anatolischen Leoparden (Panthera pardus tulliana) sowie des Bezoars, einer Wildziegenart. Die Flüsse Gilanchay und Vanadchay versorgen das Gebiet mit Wasser und tragen zur reichen Flora und Fauna bei, die rund 20% der aserbaidschanischen Artenvielfalt ausmacht.",
+      "descriptionAdvancedHu": "A Zangezur Nemzeti Parkot eredetileg Ordubad Nemzeti Park néven alapították 2003-ban 12 131 hektáron, majd 2009-ben jelentősen, 42 797 hektárra bővítették és átnevezték. A park a Nahicseván Autonóm Köztársaság Ordubad járásában található, egy hegyvidéki területen. Az éghajlat szélsőséges: a januári átlaghőmérséklet -30 és -10 °C között, míg a júliusi 10 és 25 °C között mozog. A park kiemelt feladata a biológiai sokféleség megőrzése, különös tekintettel az olyan veszélyeztetett fajokra, mint az anatóliai leopárd és a bezoárkecske. Az éves csapadékmennyiség 300-800 mm, a vízellátást pedig a Gilanchay és Vanadchay folyók biztosítják, fenntartva a gazdag ökoszisztémát.",
+      "descriptionAdvancedRo": "Parcul Național Zangezur a fost înființat inițial ca Parcul Național Ordubad la 16 iunie 2003, pe o suprafață de 12.131 de hectare. La 25 noiembrie 2009, a fost extins la 42.797 de hectare și redenumit. Situat într-o zonă montană din Republica Autonomă Nahicevan, parcul se confruntă cu condiții climatice extreme, cu temperaturi variind de la -30°C iarna la 25°C vara. Precipitațiile anuale sunt între 300 și 800 mm. Parcul este un sanctuar vital pentru biodiversitate, adăpostind specii rare precum leopardul anatolian și capra sălbatică bezoar. Râurile Gilanchay și Vanadchay sunt sursele principale de apă, susținând ecosistemele diverse ale acestei regiuni protejate.",
+      "descriptionAdvancedEn": "Zangezur National Park was first established as Ordubad National Park on June 16, 2003, on an area of 12,131 hectares. It was significantly expanded to 42,797 hectares and renamed Zangezur National Park on November 25, 2009. Located in a mountainous region within the Nakhchivan Autonomous Republic, the park experiences a climate of extremes, with temperatures ranging from -30°C in winter to 25°C in summer. The annual precipitation is between 300-800 mm. This park is a critical habitat for rare and endangered species, most notably the Anatolian leopard and the bezoar goat. The Gilanchay and Vanadchay rivers are the main water sources that sustain the park's rich and diverse ecosystems.",
+      "factsAdvanced": [
+        "Eredetileg Ordubad Nemzeti Park volt (2003).",
+        "2009-ben bővítették és nevezték át Zangezurra.",
+        "Területe 42,797 hektár.",
+        "Nahicseván hegyvidéki részén található.",
+        "Az anatóliai leopárd egyik utolsó menedéke.",
+        "A hőmérséklet -30°C és +25°C között változik.",
+        "Fontos vízellátói a Gilanchay és Vanadchay folyók.",
+        "Jelentős bezoárkecske-populációval rendelkezik."
+      ]
+    },
+    {
+      "id": "samur-river-nature-v2",
+      "descriptionAdvancedDe": "Der Samur ist ein bedeutender Fluss, der im Großen Kaukasus in Dagestan, Russland, entspringt und eine natürliche Grenze zu Aserbaidschan bildet, bevor er ins Kaspische Meer mündet. Mit einer Länge von 213 Kilometern ist er einer der wichtigsten Wasserläufe der Region. Sein Wasser wird intensiv für die Bewässerung in den landwirtschaftlich geprägten Küstenebenen beider Länder genutzt. Ein Teil des Wassers wird über den Samur-Absheron-Kanal bis nach Baku geleitet, um die Wasserversorgung der Hauptstadt zu unterstützen. Der Fluss ist auch für sein einzigartiges Delta-Ökosystem bekannt, das als Samur-Yalama-Nationalpark geschützt ist und wichtige Lebensräume für seltene Pflanzen und Zugvögel bietet, darunter der endemische Kaukasus-Lianenwald.",
+      "descriptionAdvancedHu": "A Samur folyó Dagesztánban (Oroszország) ered, és Azerbajdzsánon is áthaladva a Kaszpi-tengerbe ömlik. A folyó egy szakaszon természetes határt képez Oroszország és Azerbajdzsán között. Gyors folyású hegyi folyó, amelynek vizét mindkét országban intenzíven használják öntözésre a part menti síkságokon. A Samur-Abşeron csatornán keresztül vize eljut egészen Bakuba, hozzájárulva a főváros vízellátásához. A folyó deltája egyedi ökoszisztémát alkot, amely a Samur-Yalama Nemzeti Park részeként védelem alatt áll. Ez a terület fontos élőhelyet biztosít a reliktum lianerdőknek és számos vándormadárnak, így kulcsfontosságú szerepet játszik a régió biodiverzitásának megőrzésében.",
+      "descriptionAdvancedRo": "Râul Samur este un fluviu important care izvorăște în Daghestan, Rusia, și curge parțial prin Azerbaidjan, formând o porțiune a frontierei dintre cele două țări înainte de a se vărsa în Marea Caspică. Cu o lungime de 213 kilometri, este unul dintre cele mai semnificative cursuri de apă din regiune. Apa sa este utilizată intensiv pentru irigații în câmpiile agricole de coastă din ambele țări. O parte din debitul său este deviat prin Canalul Samur-Absheron pentru a alimenta cu apă capitala Baku. Delta râului Samur este renumită pentru ecosistemul său unic, protejat ca parte a Parcului Național Samur-Yalama, care adăpostește păduri relicte de liane și este un habitat vital pentru păsările migratoare.",
+      "descriptionAdvancedEn": "The Samur River originates in Dagestan, Russia, and flows through Azerbaijan, forming a significant part of the border between the two nations before draining into the Caspian Sea. It is a major river in the Caucasus region, characterized by its fast-flowing waters descending from the mountains. The river is crucial for the local agriculture on both sides of the border, providing water for irrigating the coastal lowlands. A significant portion of its water is diverted via the Samur-Absheron channel to supply water to the city of Baku. The river's delta is a unique ecosystem protected within the Samur-Yalama National Park, preserving relict liana forests and serving as a vital corridor for migratory birds.",
+      "factsAdvanced": [
+        "Dagesztánban (Oroszország) ered.",
+        "Részben határfolyó Oroszország és Azerbajdzsán között.",
+        "A Kaszpi-tengerbe ömlik.",
+        "Vize a Samur-Abşeron csatornán keresztül Bakut is ellátja.",
+        "Öntözésre használják mindkét országban.",
+        "Deltája a Samur-Yalama Nemzeti Park része.",
+        "Élőhelyet biztosít a reliktum lianerdőknek."
+      ]
+    }
+  ]
+}

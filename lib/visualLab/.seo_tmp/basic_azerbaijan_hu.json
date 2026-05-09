@@ -1,0 +1,14 @@
+{
+  "lang": "hu",
+  "country": "Azerbaijan",
+  "files": [
+    "lib/visualLab/data/poiExtraAzerbaijanNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-shahdagh-nature-v2",
+      "description": "A Shahdagh-hegy a Nagy-Kaukázus egyik legmagasabb csúcsa Azerbajdzsán északkeleti részén, a Gusar járásban. Kiemelkedő természetvédelmi terület, amelynek lejtői télen népszerű síközpontként működnek.",
+      "facts": ["Magassága 4243 méter", "A Nagy-Kaukázus része", "Jelentős síközpont", "Észak-Azerbajdzsánban fekszik"]
+    }
+  ]
+}

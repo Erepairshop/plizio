@@ -1,0 +1,47 @@
+{
+  "lang": "hu",
+  "country": "Bahamas",
+  "files": [
+    "lib/visualLab/data/poiExtraBahamasCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBahamasEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBahamasHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBahamasNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gregory-town-cities-v2",
+      "description": "Település az Eleuthera-szigeten, amely az ananásztermesztéséről híres.",
+      "facts": ["Eleuthera-sziget része", "Ananásztermelő központ", "Kis lakosságú körzet"]
+    },
+    {
+      "id": "mcleans-town-cities-v2",
+      "description": "Halászfalu Grand Bahama szigetének keleti csücskén.",
+      "facts": ["Grand Bahama része", "Hagyományos halásztelepülés", "Földrajzi elszigeteltség"]
+    },
+    {
+      "id": "murphy-town-cities-v2",
+      "description": "Lakóövezet Abaco szigetén, közel Marsh Harbour városhoz.",
+      "facts": ["Abaco-szigetek része", "Marsh Harbour közelsége", "Csendes lakóhely"]
+    },
+    {
+      "id": "bs-freeport-industrial-park-economic-v2",
+      "description": "Freeport központi ipari övezete, amely a kereskedelmet és gyártást szolgálja.",
+      "facts": ["Freeport része", "Ipari fejlesztési zóna", "Gazdasági központ"]
+    },
+    {
+      "id": "water-tower-nassau-history-v2",
+      "description": "Nassau egyik jellegzetes történelmi víztornya, amely a városképet meghatározza.",
+      "facts": ["Nassau városa", "Történelmi infrastruktúra", "Magaslati kilátópont"]
+    },
+    {
+      "id": "cat-island-nature-v2",
+      "description": "A szigetvilág egyik érintetlen, dombos és természetközeli szigete.",
+      "facts": ["Magas domborzat", "Érintetlen természet", "Alacsony beépítettség"]
+    },
+    {
+      "id": "mount-cauldwell-nature-v2",
+      "description": "Földrajzi kiemelkedés, amely a sziget természetes tájképének része.",
+      "facts": ["Természeti formáció", "Dombos terep", "Bahamai tájkép"]
+    }
+  ]
+}

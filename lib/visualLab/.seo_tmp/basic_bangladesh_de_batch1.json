@@ -1,0 +1,61 @@
+{
+  "lang": "de",
+  "country": "Bangladesh",
+  "files": [
+    "lib/visualLab/data/poiExtraBangladeshCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dhaka-cities-v2",
+      "description": "Dhaka ist die Hauptstadt von Bangladesch und ein bedeutendes Zentrum für Handel und Kultur.",
+      "facts": ["Hauptstadt von Bangladesch", "Größte Stadt des Landes", "Gelegen am Buriganga-Fluss"]
+    },
+    {
+      "id": "chittagong-cities-v2",
+      "description": "Chittagong ist der wichtigste Hafenstandort und die zweitgrößte Stadt in Bangladesch.",
+      "facts": ["Wichtigster Seehafen des Landes", "Liegt am Karnaphuli-Fluss", "Wirtschaftliches Zentrum"]
+    },
+    {
+      "id": "khulna-cities-v2",
+      "description": "Khulna ist eine bedeutende Industriestadt und das Tor zu den Sundarbans-Mangrovenwäldern.",
+      "facts": ["Drittgrößte Stadt", "Tor zu den Sundarbans", "Zentrum der Fischverarbeitung"]
+    },
+    {
+      "id": "rajshahi-cities-v2",
+      "description": "Rajshahi ist bekannt als die Stadt der Seide und ein wichtiges Bildungszentrum im Nordwesten.",
+      "facts": ["Stadt der Seide", "Gelegen am Padma-Fluss", "Bekannt für seine Universität"]
+    },
+    {
+      "id": "sylhet-cities-v2",
+      "description": "Sylhet ist eine landschaftlich reizvolle Stadt, die für ihre Teeplantagen und Spiritualität bekannt ist.",
+      "facts": ["Zentrum des Teeanbaus", "Religiöses Zentrum", "Bergiges Umland"]
+    },
+    {
+      "id": "barisal-cities-v2",
+      "description": "Barisal ist als das Venedig von Bengalen bekannt aufgrund seiner vielen Flusskanäle.",
+      "facts": ["Stadt der Kanäle", "Liegt im Delta-Gebiet", "Wichtig für die Landwirtschaft"]
+    },
+    {
+      "id": "rangpur-cities-v2",
+      "description": "Rangpur ist ein wachsendes Zentrum im Norden Bangladeschs mit einer reichen kulturellen Geschichte.",
+      "facts": ["Wichtiger Verkehrsknotenpunkt", "Zentrum für Tabakanbau", "Historisches Verwaltungszentrum"]
+    },
+    {
+      "id": "mymensingh-cities-v2",
+      "description": "Mymensingh liegt am Ufer des Brahmaputra-Flusses und ist ein Zentrum für Bildung und Kultur.",
+      "facts": ["Liegt am Brahmaputra", "Zentrum für Bildung", "Traditionsreiche Stadt"]
+    },
+    {
+      "id": "comilla-cities-v2",
+      "description": "Comilla ist eine historisch bedeutsame Stadt mit Verbindungen zum alten Königreich Tripura.",
+      "facts": ["Sitz wichtiger archäologischer Stätten", "Verkehrsknotenpunkt", "Kulturelles Zentrum"]
+    },
+    {
+      "id": "narayanganj-cities-v2",
+      "description": "Narayanganj ist ein wichtiges Zentrum der Textilindustrie, oft als das Dundee von Bangladesch bezeichnet.",
+      "facts": ["Zentrum der Textilindustrie", "Nahe Dhaka gelegen", "Bedeutender Binnenhafen"]
+    }
+  ]
+}

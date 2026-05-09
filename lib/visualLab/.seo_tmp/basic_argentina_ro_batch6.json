@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-n-puerto-iguazu-cities-v2",
+      "description": "Orașul care găzduiește celebrele Cascade Iguazú, una dintre minunile naturale ale lumii.",
+      "facts": ["Fondat în 1901", "Cascadele Iguazú", "Regiunea Misiones", "Turism internațional"]
+    },
+    {
+      "id": "ar-q-neuquen-cities-v2",
+      "description": "Capitala provinciei Neuquén, un hub strategic în dezvoltarea resurselor energetice și petroliere.",
+      "facts": ["Fondat în 1904", "Hub energetic", "Regiunea Neuquén", "Poartă către Patagonia"]
+    },
+    {
+      "id": "ar-q-san-martin-de-los-andes-cities-v2",
+      "description": "Oraș montan fermecător, situat în Parcul Național Lanín, popular pentru schi și pescuit.",
+      "facts": ["Fondat în 1898", "Sporturi de iarnă", "Regiunea Neuquén", "Parcul Național Lanín"]
+    },
+    {
+      "id": "ar-q-zapala-cities-v2",
+      "description": "Un centru comercial și logistic important în centrul provinciei Neuquén.",
+      "facts": ["Fondat în 1913", "Centru logistic", "Regiunea Neuquén", "Zona aridă"]
+    },
+    {
+      "id": "ar-q-cutral-co-cities-v2",
+      "description": "Oraș industrial strâns legat de exploatarea resurselor de petrol și gaze.",
+      "facts": ["Fondat în 1933", "Exploatare petrolieră", "Regiunea Neuquén", "Economie energetică"]
+    },
+    {
+      "id": "ar-r-viedma-cities-v2",
+      "description": "Capitala provinciei Río Negro, situată la gura de vărsare a râului Negro.",
+      "facts": ["Fondat în 1779", "Capitală provincială", "Regiunea Río Negro", "Pe malul râului Negro"]
+    },
+    {
+      "id": "ar-r-san-carlos-de-bariloche-cities-v2",
+      "description": "Cea mai populară destinație montană din Patagonia, faimoasă pentru lacuri și stațiuni de schi.",
+      "facts": ["Fondat în 1902", "Lacul Nahuel Huapi", "Regiunea Río Negro", "Turism montan"]
+    },
+    {
+      "id": "ar-r-general-roca-cities-v2",
+      "description": "Un important centru agricol în zona fertilă a văii râului Negro.",
+      "facts": ["Fondat în 1879", "Centru agricol", "Regiunea Río Negro", "Producție de fructe"]
+    },
+    {
+      "id": "ar-r-cipolletti-cities-v2",
+      "description": "Oraș situat la confluența râurilor Neuquén și Limay, parte a unei zone agricole vitale.",
+      "facts": ["Fondat în 1903", "Confluență fluvială", "Regiunea Río Negro", "Hub agricol"]
+    },
+    {
+      "id": "ar-a-salta-cities-v2",
+      "description": "Capitala provinciei Salta, supranumită „Salta la Linda” pentru arhitectura sa colonială.",
+      "facts": ["Fondat în 1582", "Arhitectură colonială", "Regiunea Salta", "Centru cultural"]
+    }
+  ]
+}

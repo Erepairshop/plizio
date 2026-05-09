@@ -1,0 +1,43 @@
+import re, json
+p = r"C:\Users\User\plizio-repo\lib\visualLab\data\poiExtraBurkinaFasoCitiesV2.ts"
+src = open(p, encoding="utf-8").read()
+poi_re = re.compile(r'\{\s*id:\s*"([^"]+)"', re.S)
+blocks = []
+for m in poi_re.finditer(src):
+    blocks.append((m.start(), m.group(1)))
+out = []
+for i, (start, pid) in enumerate(blocks):
+    end = blocks[i+1][0] if i+1 < len(blocks) else len(src)
+    block = src[start:end]
+    nm = re.search(r'name:\s*\{[^}]*de:\s*"([^"]+)"', block)
+    typ = re.search(r'type:\s*"([^"]+)"', block)
+    parent = re.search(r'parent:\s*"([^"]+)"', block)
+    coords = re.search(r'coords:\s*\[([^\]]+)\]', block)
+    desc = re.search(r'description:\s*\{[^}]*en:\s*"((?:[^"\\]|\\.)*)"', block)
+    lang_status = {"de":0,"hu":0,"ro":0,"en":0}
+    m = re.search(r'descriptionAdvanced:\s*\{', block)
+    if m:
+        i2 = m.end(); depth = 1
+        while i2 < len(block) and depth > 0:
+            c = block[i2]
+            if c == '{': depth += 1
+            elif c == '}': depth -= 1
+            i2 += 1
+        inner = block[m.end():i2-1]
+        for lg in ("de","hu","ro","en"):
+            mm = re.search(r'\b'+lg+r':\s*"((?:[^"\\]|\\.)*)"', inner)
+            if mm:
+                lang_status[lg] = len(mm.group(1))
+    missing = [lg for lg,v in lang_status.items() if v < 50]
+    out.append({
+        "id": pid,
+        "name": nm.group(1) if nm else "",
+        "type": typ.group(1) if typ else "",
+        "parent": parent.group(1) if parent else "",
+        "coords": coords.group(1) if coords else "",
+        "desc_en": desc.group(1) if desc else "",
+        "missing": missing,
+    })
+with open(r"C:\Users\User\plizio-repo\scripts\bf_list.json","w",encoding="utf-8") as f:
+    json.dump(out, f, ensure_ascii=False, indent=1)
+print("OK", len(out))

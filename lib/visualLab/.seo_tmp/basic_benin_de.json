@@ -1,0 +1,88 @@
+{
+  "lang": "de",
+  "country": "Benin",
+  "files": [
+    "lib/visualLab/data/poiExtraBeninHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBeninLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBeninLifeV2.ts",
+    "lib/visualLab/data/poiExtraBeninNatureV2.ts",
+    "lib/visualLab/data/poiExtraBeninReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "royal-palaces-abomey-history-v2",
+      "description": "Die königlichen Paläste von Abomey waren das Machtzentrum des Königreichs Dahomey. Heute zählt das Areal zum UNESCO-Welterbe und dokumentiert die Geschichte der Könige von 1625 bis 1900.",
+      "facts": ["UNESCO-Welterbe seit 1985", "Residenz von zwölf Königen", "Erbaut ab dem 17. Jahrhundert", "Historisches Machtzentrum"]
+    },
+    {
+      "id": "door-no-return-ouidah-history-v2",
+      "description": "Das Tor ohne Wiederkehr in Ouidah erinnert an den transatlantischen Sklavenhandel. Es markiert den letzten Ort auf beninischem Boden, den die Verschleppten vor ihrer Überfahrt sahen.",
+      "facts": ["Symbol der Sklavengeschichte", "Standort am Strand von Ouidah", "Mahnmal des Gedenkens", "Erbaut 1995"]
+    },
+    {
+      "id": "temple-pythons-ouidah-history-v2",
+      "description": "Der Python-Tempel in Ouidah ist ein zentrales Heiligtum des Voodoo-Glaubens. Die dort lebenden Königspythons gelten als heilige Wesen und werden von der lokalen Bevölkerung verehrt.",
+      "facts": ["Voodoo-Heiligtum", "Heimat zahlreicher Pythons", "Religiöse Stätte in Ouidah", "Hoher spiritueller Stellenwert"]
+    },
+    {
+      "id": "portuguese-fort-ouidah-history-v2",
+      "description": "Das portugiesische Fort in Ouidah wurde im 18. Jahrhundert als Handelsposten errichtet. Heute beherbergt das historische Bauwerk das Museum für Geschichte in Ouidah.",
+      "facts": ["Erbaut im Jahr 1721", "Ehemaliger Sklavenhandelsstützpunkt", "Heute ein Museum", "Architektur der Kolonialzeit"]
+    },
+    {
+      "id": "musee-honme-porto-novo-history-v2",
+      "description": "Das Musée Honmè in Porto-Novo befindet sich im ehemaligen Palast der Könige von Porto-Novo. Es bietet einen Einblick in die königliche Lebensweise und die Geschichte der Stadt.",
+      "facts": ["Ehemaliger Königspalast", "Kulturelles Zentrum", "Exponate der Geschichte", "Architektonisches Erbe"]
+    },
+    {
+      "id": "great-mosque-porto-novo-history-v2",
+      "description": "Die Große Moschee von Porto-Novo ist ein markantes Beispiel für die afro-brasilianische Architektur in Benin. Sie wurde im frühen 20. Jahrhundert von Rückkehrern aus Brasilien erbaut.",
+      "facts": ["Afro-brasilianischer Baustil", "Wahrzeichen von Porto-Novo", "Erbaut um 1912", "Religiöses Zentrum"]
+    },
+    {
+      "id": "agongointo-underground-history-v2",
+      "description": "Die unterirdischen Dörfer von Agongointo bestehen aus einem Komplex aus Höhlen und Gängen. Sie dienten den Bewohnern der Region vermutlich als Schutzort während bewaffneter Konflikte.",
+      "facts": ["Historischer Schutzkomplex", "Unterirdische Bauweise", "Entdeckt im Jahr 1998", "Archäologische Stätte"]
+    },
+    {
+      "id": "palace-king-nikki-history-v2",
+      "description": "Der Palast des Königs von Nikki ist das symbolische Zentrum des Bariba-Volkes. Er bewahrt die Traditionen und die politische Geschichte des ehemaligen Reiches von Nikki.",
+      "facts": ["Zentrum der Bariba-Kultur", "Traditionelle Residenz", "Politischer Erinnerungsort", "Historisches Erbe im Norden"]
+    },
+    {
+      "id": "akaba-idenan-ketou-history-v2",
+      "description": "Akaba Idenan in Ketou ist ein historisches Stadttor aus Lehm, das für seine rituelle Bedeutung bekannt ist. Es symbolisiert den Schutz und die Geschichte des Königreichs Ketou.",
+      "facts": ["Traditionelles Stadttor", "Symbol der Stadtgeschichte", "Rituelle Bedeutung", "Lehmarchitektur"]
+    },
+    {
+      "id": "tata-somba-houses-history-v2",
+      "description": "Die Tata-Somba-Häuser im Nordwesten Benins sind für ihre wehrhafte Architektur bekannt. Diese aus Lehm errichteten Wohnburgen dienen sowohl dem Schutz als auch der Viehhaltung.",
+      "facts": ["UNESCO-Weltkulturerbe", "Architektur des Somba-Volkes", "Verteidigungsbauweise", "Landwirtschaftliche Funktion"]
+    },
+    {
+      "id": "dahomey-amazon-monument-history-v2",
+      "description": "Das Dahomey-Amazonen-Denkmal in Cotonou erinnert an die berühmten weiblichen Elitesoldatinnen des Königreichs Dahomey. Es ist ein Symbol für Mut und die Geschichte des Landes.",
+      "facts": ["Denkmal der Kriegerinnen", "Wahrzeichen von Cotonou", "Symbol für Stärke", "Enthüllt im Jahr 2022"]
+    },
+    {
+      "id": "stade-amitie-cotonou-landmarks-v2",
+      "description": "Das Stade de l'Amitié in Cotonou ist das größte Stadion Benins und ein zentraler Ort für sportliche Großereignisse. Es wurde 1982 erbaut und dient der nationalen Repräsentation.",
+      "facts": ["Größtes Stadion Benins", "Austragungsort von Länderspielen", "Eröffnet im Jahr 1982", "Sportliches Wahrzeichen"]
+    },
+    {
+      "id": "place-etoile-rouge-cotonou-landmarks-v2",
+      "description": "Der Place de l'Étoile Rouge in Cotonou ist ein bedeutender Kreisverkehr mit einem markanten Denkmal. Er dient als wichtiger Verkehrsknotenpunkt und zentraler Orientierungspunkt der Stadt.",
+      "facts": ["Wichtiger Verkehrsknoten", "Markantes Wahrzeichen", "Platz der Roten Sterne", "Zentraler Treffpunkt"]
+    },
+    {
+      "id": "phare-cotonou-landmarks-v2",
+      "description": "Der Leuchtturm von Cotonou ist ein historisches Navigationszeichen an der Küste des Golfs von Guinea. Er ist ein markantes Bauwerk im Stadtbild von Cotonou.",
+      "facts": ["Navigationszeichen", "Küstenorientierung", "Historisches Bauwerk", "Wahrzeichen"]
+    },
+    {
+      "id": "aeroport-cadjehoun-cotonou-landmarks-v2",
+      "description": "Der Flughafen Cadjehoun in Cotonou ist das wichtigste internationale Luftverkehrsdrehkreuz von Benin. Er liegt nahe dem Stadtzentrum und verbindet das Land weltweit.",
+      "facts": ["Internationaler Flughafen", "Hauptdrehkreuz von Benin", "Gelegen in Cotonou", "Verkehrsknotenpunkt"]
+    }
+  ]
+}

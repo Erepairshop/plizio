@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-cueva-de-las-manos-history-v2",
+      "description": "Un sit arheologic celebru, cunoscut pentru picturile rupestre impresionante care datează de mii de ani.",
+      "facts": ["Sit UNESCO", "Artă preistorică", "Regiunea Santa Cruz", "Peisaj stâncos"]
+    },
+    {
+      "id": "ar-nuestra-senora-de-santa-ana-history-v2",
+      "description": "Ruinele unei misiuni iezuite care reflectă eforturile de evanghelizare din regiune.",
+      "facts": ["Misiune iezuită", "Sit UNESCO", "Regiunea Misiones", "Arhitectură istorică"]
+    },
+    {
+      "id": "ar-nuestra-senora-de-loreto-history-v2",
+      "description": "O fostă misiune iezuită fondată pentru a proteja și instrui populația indigenă locală.",
+      "facts": ["Sit UNESCO", "Istorie colonială", "Regiunea Misiones", "Arhitectură de ruină"]
+    },
+    {
+      "id": "ar-santa-maria-la-mayor-history-v2",
+      "description": "Parte a ansamblului misiunilor iezuite, un loc de mare importanță istorică și culturală.",
+      "facts": ["Misiune iezuită", "Sit UNESCO", "Regiunea Misiones", "Patrimoniu istoric"]
+    },
+    {
+      "id": "ar-casa-historica-de-tucuman-history-v2",
+      "description": "Clădirea unde a fost declarată Independența Argentinei în 1816.",
+      "facts": ["Declararea Independenței", "Muzeu național", "Regiunea Tucumán", "Monument istoric"]
+    },
+    {
+      "id": "ar-manzana-jesuitica-history-v2",
+      "description": "Un complex istoric din Córdoba, centrul vieții intelectuale și religioase coloniale.",
+      "facts": ["Patrimoniu UNESCO", "Centru iezuit", "Regiunea Córdoba", "Arhitectură colonială"]
+    },
+    {
+      "id": "ar-estancia-alta-gracia-history-v2",
+      "description": "O veche estancie iezuită transformată într-un sit cultural de o frumusețe remarcabilă.",
+      "facts": ["Sit UNESCO", "Estancie istorică", "Regiunea Córdoba", "Tradiții coloniale"]
+    },
+    {
+      "id": "ar-estancia-jesus-maria-history-v2",
+      "description": "Parte a patrimoniului iezuit, faimoasă pentru arhitectura sa și producția agricolă istorică.",
+      "facts": ["Sit UNESCO", "Estancie iezuită", "Regiunea Córdoba", "Istorie agricolă"]
+    },
+    {
+      "id": "ar-estancia-santa-catalina-history-v2",
+      "description": "Una dintre cele mai mari și bine conservate estancii iezuite din provincia Córdoba.",
+      "facts": ["Sit UNESCO", "Patrimoniu iezuit", "Regiunea Córdoba", "Arhitectură veche"]
+    },
+    {
+      "id": "ar-estancia-caroya-history-v2",
+      "description": "O estancie istorică renumită pentru rolul său în perioada colonială iezuită.",
+      "facts": ["Sit UNESCO", "Patrimoniu iezuit", "Regiunea Córdoba", "Istorie locală"]
+    }
+  ]
+}

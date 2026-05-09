@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monumento-al-indio-landmarks-v2",
+      "description": "Un monument dedicat populațiilor indigene, situat într-un peisaj montan impresionant.",
+      "facts": ["Omagiu indigen", "Sculptură monumentală", "Regiunea Córdoba", "Peisaj montan"]
+    },
+    {
+      "id": "planetario-galileo-galilei-landmarks-v2",
+      "description": "Planetariul din Buenos Aires, un centru de educație astronomică cu un design futurist.",
+      "facts": ["Centru astronomic", "Design futurist", "Situat în Palermo", "Educație publică"]
+    },
+    {
+      "id": "torre-monumental-landmarks-v2",
+      "description": "Un turn cu ceas donat de comunitatea britanică, o piesă arhitecturală notabilă în Buenos Aires.",
+      "facts": ["Turn cu ceas", "Cadou britanic", "Stil edwardian", "Punct de reper"]
+    },
+    {
+      "id": "palacio-aguas-corrientes-landmarks-v2",
+      "description": "O clădire uimitoare, fostă stație de pompare a apei, renumită pentru fațada sa bogat decorată.",
+      "facts": ["Arhitectură impresionantă", "Fostă stație de apă", "Stil eclectic", "Patrimoniu istoric"]
+    },
+    {
+      "id": "mnba-buenos-aires-landmarks-v2",
+      "description": "Muzeul Național de Arte Frumoase, găzduind o colecție impresionantă de artă argentiniană și europeană.",
+      "facts": ["Muzeu de artă", "Colecție vastă", "Situat în Buenos Aires", "Importanță culturală"]
+    },
+    {
+      "id": "centro-cultural-kirchner-landmarks-v2",
+      "description": "Un hub cultural major, găzduit într-o fostă clădire a Poștei, un spațiu pentru artă și muzică.",
+      "facts": ["Centru cultural", "Fostă Poștă", "Sală de concerte", "Hub artistic"]
+    },
+    {
+      "id": "congreso-nacion-argentina-landmarks-v2",
+      "description": "Palatul Congresului Național, o clădire monumentală cu o cupolă impunătoare.",
+      "facts": ["Sediul Parlamentului", "Arhitectură neoclasică", "Cupolă iconică", "Piață celebră"]
+    },
+    {
+      "id": "dique-san-roque-landmarks-v2",
+      "description": "Un baraj istoric care a creat lacul San Roque, sursa de apă și atracția turistică principală a regiunii.",
+      "facts": ["Baraj istoric", "Lac de acumulare", "Regiunea Córdoba", "Turism local"]
+    },
+    {
+      "id": "puente-rosario-victoria-landmarks-v2",
+      "description": "Un pod spectaculos care leagă orașele Rosario și Victoria, traversând Delta Paraná.",
+      "facts": ["Pod rutier", "Delta Paraná", "Conexiune regională", "Inginerie modernă"]
+    },
+    {
+      "id": "viaducto-la-polvorilla-landmarks-v2",
+      "description": "Un viaduct feroviar spectaculos, parte a rutei „Trenului către Nori” din Salta.",
+      "facts": ["Viaduct feroviar", "Tren către Nori", "Regiunea Salta", "Inginerie montană"]
+    }
+  ]
+}

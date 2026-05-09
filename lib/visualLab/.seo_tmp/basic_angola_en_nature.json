@@ -1,0 +1,79 @@
+{
+  "lang": "en",
+  "country": "Angola",
+  "files": [
+    "lib/visualLab/data/poiExtraAngolaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "laguna-camanangue-nature-v2",
+      "description": "A picturesque lagoon area contributing to the unique wetland ecology of eastern Angola.",
+      "facts": ["Eastern Angola wetland", "Lagoon ecosystem", "Regional water body", "Natural habitat zone"]
+    },
+    {
+      "id": "rio-lungue-bungo-nature-v2",
+      "description": "A major river providing critical water resources and habitat diversity in the Angolan interior.",
+      "facts": ["Major river system", "Interior water resource", "Rich biodiversity corridor", "Aquatic ecosystem"]
+    },
+    {
+      "id": "monte-serra-da-leba-nature-v2",
+      "description": "A spectacular mountain pass area known for its winding roads and dramatic landscape views.",
+      "facts": ["Mountain pass site", "Dramatic landscape", "Iconic winding road", "Scenic elevation"]
+    },
+    {
+      "id": "rio-cuvo-nature-v2",
+      "description": "A vital riverine environment supporting diverse flora and fauna along its course.",
+      "facts": ["Riverine ecosystem", "Critical water corridor", "Wildlife habitat", "Natural drainage path"]
+    },
+    {
+      "id": "floresta-do-bengo-nature-v2",
+      "description": "A forest region in Bengo province showcasing indigenous woodland and vegetation.",
+      "facts": ["Bengo province forest", "Indigenous woodland", "Vegetation zone", "Regional forest ecosystem"]
+    },
+    {
+      "id": "lago-mungue-nature-v2",
+      "description": "A serene lake environment known for its natural beauty and local aquatic wildlife.",
+      "facts": ["Serene lake environment", "Natural aquatic wildlife", "Regional water habitat", "Scenic natural site"]
+    },
+    {
+      "id": "ilha-luanda-nature-v2",
+      "description": "A narrow coastal island separating the Luanda Bay from the Atlantic Ocean.",
+      "facts": ["Coastal sand spit", "Luanda Bay barrier", "Atlantic Ocean border", "Popular coastal area"]
+    },
+    {
+      "id": "monte-bue-nature-v2",
+      "description": "A highland mountain peak offering panoramic views of the surrounding natural landscape.",
+      "facts": ["Highland mountain peak", "Panoramic viewpoint", "Natural rugged terrain", "Elevated ecosystem"]
+    },
+    {
+      "id": "rio-kwango-nature-v2",
+      "description": "An important river forming a natural boundary and supporting significant river basin life.",
+      "facts": ["Important river basin", "Natural geographic boundary", "Aquatic life support", "Regional water flow"]
+    },
+    {
+      "id": "monte-boco-nature-v2",
+      "description": "A prominent mountain feature contributing to the diverse topography of the region.",
+      "facts": ["Mountain landscape feature", "Regional topography", "Natural terrain elevation", "Geographic landmark"]
+    },
+    {
+      "id": "rio-cuango-nature-v2",
+      "description": "A significant waterway flowing through the north, essential for local biodiversity.",
+      "facts": ["Northern waterway", "Essential river system", "Local biodiversity hub", "Water resource zone"]
+    },
+    {
+      "id": "ilha-tigre-nature-v2",
+      "description": "A remote coastal island area known for its stark desert landscape and history.",
+      "facts": ["Remote coastal island", "Desert island landscape", "Geographically isolated", "Historical site context"]
+    },
+    {
+      "id": "rio-kassai-nature-v2",
+      "description": "A major river contributing to the extensive hydrographic network of northern Angola.",
+      "facts": ["Major river system", "Extensive hydrographic link", "Northern water network", "Regional ecosystem support"]
+    },
+    {
+      "id": "rio-cuito-nature-v2",
+      "description": "A river known for its contribution to the ecological richness of the southern landscapes.",
+      "facts": ["Southern river system", "Ecological resource", "Landcape water link", "Riverine biodiversity zone"]
+    }
+  ]
+}

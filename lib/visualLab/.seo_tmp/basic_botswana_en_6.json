@@ -1,0 +1,73 @@
+{
+  "lang": "en",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gaborone-three-dikgosi-monument-landmarks-v2",
+      "description": "A major city monument in central Gaborone. It honors the three dikgosi and is one of the capital's best-known landmarks.",
+      "facts": ["Monument", "Gaborone", "Three chiefs"]
+    },
+    {
+      "id": "gaborone-sadc-headquarters-landmarks-v2",
+      "description": "The regional headquarters of the Southern African Development Community in Gaborone. It is a key diplomatic landmark.",
+      "facts": ["SADC headquarters", "Gaborone", "Regional diplomacy"]
+    },
+    {
+      "id": "gaborone-itowers-landmarks-v2",
+      "description": "A modern high-rise complex shaping Gaborone's skyline. It combines offices, retail, and city-centre presence.",
+      "facts": ["High-rise complex", "Gaborone skyline", "Modern business district"]
+    },
+    {
+      "id": "kazungula-bridge-landmarks-v2",
+      "description": "A major bridge over the Zambezi linking Botswana and Zambia. It is a key transport landmark in southern Africa.",
+      "facts": ["Over the Zambezi", "Botswana-Zambia link", "Regional transport"]
+    },
+    {
+      "id": "francistown-obed-itani-chilume-stadium-landmarks-v2",
+      "description": "The main stadium in Francistown and one of Botswana's largest sports venues. It hosts football and major events.",
+      "facts": ["Sports venue", "Francistown", "Football and events"]
+    },
+    {
+      "id": "gaborone-national-assembly-landmarks-v2",
+      "description": "The National Assembly building in Gaborone is the seat of Botswana's parliament. It is a central political landmark.",
+      "facts": ["Parliament", "Gaborone", "National politics"]
+    },
+    {
+      "id": "gaborone-innovation-hub-landmarks-v2",
+      "description": "A technology and start-up hub in Gaborone. It supports innovation, research, and new business growth.",
+      "facts": ["Innovation centre", "Start-ups", "Gaborone"]
+    },
+    {
+      "id": "gaborone-christ-the-king-cathedral-landmarks-v2",
+      "description": "A prominent cathedral in Gaborone. It is one of the city's best-known religious buildings.",
+      "facts": ["Catholic cathedral", "Gaborone", "Religious landmark"]
+    },
+    {
+      "id": "gaborone-orapa-house-landmarks-v2",
+      "description": "A notable office building connected to Botswana's diamond industry. It is part of Gaborone's corporate landscape.",
+      "facts": ["Diamond industry", "Office building", "Gaborone"]
+    },
+    {
+      "id": "gaborone-gicc-landmarks-v2",
+      "description": "Gaborone International Convention Centre is a major venue for conferences and events. It plays a visible role in the capital's business life.",
+      "facts": ["Convention centre", "Events venue", "Gaborone"]
+    },
+    {
+      "id": "lobatse-high-court-landmarks-v2",
+      "description": "The High Court building in Lobatse is an important judicial landmark. It reflects the town's legal and administrative role.",
+      "facts": ["Court building", "Lobatse", "Judicial role"]
+    },
+    {
+      "id": "gaborone-national-museum-landmarks-v2",
+      "description": "The national museum in Gaborone is a major cultural landmark. It showcases Botswana's history and heritage.",
+      "facts": ["Museum", "Gaborone", "Cultural institution"]
+    }
+  ]
+}

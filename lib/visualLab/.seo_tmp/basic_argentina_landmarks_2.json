@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cabildo-buenos-aires-landmarks-v2",
+      "description": "The site of the May Revolution, representing the birth of Argentine independence.",
+      "facts": ["Historic building", "May Revolution", "Buenos Aires", "Independence site"]
+    },
+    {
+      "id": "monumento-nacional-bandera-landmarks-v2",
+      "description": "An imposing monument in Rosario, dedicated to the creation of the Argentine flag.",
+      "facts": ["National monument", "Rosario city", "Flag creation", "Patriotic landmark"]
+    },
+    {
+      "id": "cristo-redentor-andes-landmarks-v2",
+      "description": "A symbolic statue on the border with Chile, representing peace between the two nations.",
+      "facts": ["Peace monument", "Andes border", "Christ statue", "Symbolic site"]
+    },
+    {
+      "id": "basilica-de-lujan-landmarks-v2",
+      "description": "A massive Neo-Gothic basilica and a major pilgrimage site for Catholics in Argentina.",
+      "facts": ["Major basilica", "Neo-Gothic style", "Pilgrimage site", "Religious landmark"]
+    },
+    {
+      "id": "iglesia-san-francisco-salta-landmarks-v2",
+      "description": "A famous church in Salta, known for its striking red and yellow facade and colonial beauty.",
+      "facts": ["Historic church", "Salta city", "Colonial style", "Visual landmark"]
+    },
+    {
+      "id": "pucara-de-tilcara-landmarks-v2",
+      "description": "A restored pre-Inca fortress located in the dramatic landscape of Tilcara.",
+      "facts": ["Pre-Inca site", "Fortress ruins", "Tilcara region", "Historic landmark"]
+    },
+    {
+      "id": "ruinas-de-quilmes-landmarks-v2",
+      "description": "Remains of an ancient city, illustrating the resistance of the Quilmes people against colonization.",
+      "facts": ["Ancient ruins", "Quilmes people", "History of resistance", "Tucumán"]
+    },
+    {
+      "id": "san-ignacio-mini-landmarks-v2",
+      "description": "Well-preserved remains of a Jesuit mission, providing insight into 17th-century missionary life.",
+      "facts": ["Jesuit mission", "UNESCO site", "Misiones region", "Historic ruins"]
+    },
+    {
+      "id": "manzana-jesuitica-landmarks-v2",
+      "description": "A collection of historic Jesuit buildings in Córdoba, listed as a world heritage site.",
+      "facts": ["Jesuit site", "Córdoba city", "World heritage", "Historic landmark"]
+    },
+    {
+      "id": "faro-les-eclaireurs-landmarks-v2",
+      "description": "A scenic lighthouse in the Beagle Channel, often called the lighthouse at the end of the world.",
+      "facts": ["Scenic lighthouse", "Beagle Channel", "Ushuaia region", "Iconic structure"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "de",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "obelisco-buenos-aires-landmarks-v2",
+      "description": "Das ikonische Obelisken-Denkmal auf der Plaza de la República ist ein Wahrzeichen von Buenos Aires.",
+      "facts": ["Wahrzeichen", "Buenos Aires Zentrum", "Symbolisch"]
+    },
+    {
+      "id": "casa-rosada-landmarks-v2",
+      "description": "Der Amtssitz des argentinischen Präsidenten am Plaza de Mayo.",
+      "facts": ["Präsidentensitz", "Plaza de Mayo", "Historisch"]
+    },
+    {
+      "id": "teatro-colon-landmarks-v2",
+      "description": "Eines der bedeutendsten Opernhäuser der Welt, bekannt für seine exzellente Akustik.",
+      "facts": ["Opernhaus", "Weltklasse-Akustik", "Kultur"]
+    },
+    {
+      "id": "puente-de-la-mujer-landmarks-v2",
+      "description": "Eine moderne und elegante Brücke im Stadtteil Puerto Madero.",
+      "facts": ["Moderne Architektur", "Puerto Madero", "Sehenswürdigkeit"]
+    },
+    {
+      "id": "floralis-generica-landmarks-v2",
+      "description": "Eine riesige kinetische Metallblume, die sich je nach Tageslicht öffnet und schließt.",
+      "facts": ["Kinetische Kunst", "Metallblume", "Sehenswürdigkeit"]
+    },
+    {
+      "id": "palacio-barolo-landmarks-v2",
+      "description": "Ein einzigartiges Gebäude mit markanter Architektur, inspiriert von Dantes Göttlicher Komödie.",
+      "facts": ["Einzigartige Architektur", "Dante-Inspiriert", "Historisch"]
+    },
+    {
+      "id": "recoleta-cemetery-landmarks-v2",
+      "description": "Ein berühmter Friedhof, auf dem viele prominente Persönlichkeiten ruhen.",
+      "facts": ["Historischer Friedhof", "Grabstätten", "Kultur"]
+    },
+    {
+      "id": "metropolitan-cathedral-landmarks-v2",
+      "description": "Die wichtigste katholische Kirche in Buenos Aires an der Plaza de Mayo.",
+      "facts": ["Hauptkathedrale", "Buenos Aires", "Architektonisch"]
+    },
+    {
+      "id": "la-bombonera-landmarks-v2",
+      "description": "Das legendäre Fußballstadion der Boca Juniors in Buenos Aires.",
+      "facts": ["Fußballstadion", "Boca Juniors", "Kult"]
+    },
+    {
+      "id": "estadio-monumental-landmarks-v2",
+      "description": "Das größte Stadion Argentiniens, Heimat des Fußballvereins River Plate.",
+      "facts": ["Größtes Stadion", "River Plate", "Sport"]
+    }
+  ]
+}

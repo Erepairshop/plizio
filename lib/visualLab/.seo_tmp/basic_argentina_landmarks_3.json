@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monumento-al-indio-landmarks-v2",
+      "description": "A tribute monument celebrating the indigenous roots and heritage of Argentina's northwestern region.",
+      "facts": ["Indigenous monument", "Tribute site", "Cultural landmark", "Northwest region"]
+    },
+    {
+      "id": "planetario-galileo-galilei-landmarks-v2",
+      "description": "A popular planetarium in Buenos Aires, recognized for its distinctive modern design.",
+      "facts": ["Planetarium", "Modern design", "Buenos Aires", "Educational landmark"]
+    },
+    {
+      "id": "torre-monumental-landmarks-v2",
+      "description": "A historic clock tower in Buenos Aires, formerly known as the Torre de los Ingleses.",
+      "facts": ["Historic clock tower", "Buenos Aires", "British gift", "Landmark structure"]
+    },
+    {
+      "id": "palacio-aguas-corrientes-landmarks-v2",
+      "description": "A visually stunning building that once served as a major water pumping station, known for its facade.",
+      "facts": ["Historic facade", "Water station", "Buenos Aires", "Architectural landmark"]
+    },
+    {
+      "id": "mnba-buenos-aires-landmarks-v2",
+      "description": "The National Museum of Fine Arts, housing a vast collection of Argentine and international art.",
+      "facts": ["Fine Arts Museum", "National institution", "Buenos Aires", "Cultural landmark"]
+    },
+    {
+      "id": "centro-cultural-kirchner-landmarks-v2",
+      "description": "A large cultural center housed in a historic building, hosting various arts and musical performances.",
+      "facts": ["Cultural center", "Historic building", "Buenos Aires", "Arts venue"]
+    },
+    {
+      "id": "congreso-nacion-argentina-landmarks-v2",
+      "description": "The monumental building housing the Argentine National Congress, with a prominent dome.",
+      "facts": ["Congress building", "Monumental dome", "Buenos Aires", "Political landmark"]
+    },
+    {
+      "id": "dique-san-roque-landmarks-v2",
+      "description": "A large dam in the Córdoba province, significant for its role in energy and tourism.",
+      "facts": ["Historic dam", "Córdoba province", "Tourist attraction", "Energy landmark"]
+    },
+    {
+      "id": "puente-rosario-victoria-landmarks-v2",
+      "description": "A long cable-stayed bridge spanning the Paraná River, connecting the provinces of Santa Fe and Entre Ríos.",
+      "facts": ["Cable-stayed bridge", "Paraná River", "Engineering landmark", "Regional connection"]
+    },
+    {
+      "id": "viaducto-la-polvorilla-landmarks-v2",
+      "description": "A famous high-altitude railway viaduct, a marvel of engineering on the Train to the Clouds route.",
+      "facts": ["Railway viaduct", "Engineering marvel", "Salta province", "High altitude"]
+    }
+  ]
+}

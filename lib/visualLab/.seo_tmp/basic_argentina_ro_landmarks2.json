@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cabildo-buenos-aires-landmarks-v2",
+      "description": "Clădire istorică unde s-a format primul guvern independent al Argentinei în 1810.",
+      "facts": ["Centru istoric", "Patrimoniu național", "În Plaza de Mayo", "Istorie colonială"]
+    },
+    {
+      "id": "monumento-nacional-bandera-landmarks-v2",
+      "description": "Monument grandios în Rosario, dedicat drapelului argentinian, un simbol al națiunii.",
+      "facts": ["Simbol al drapelului", "Situat în Rosario", "Monument monumental", "Pe malul Paraná"]
+    },
+    {
+      "id": "cristo-redentor-andes-landmarks-v2",
+      "description": "O statuie monumentală situată la granița cu Chile, simbolizând pacea între cele două țări.",
+      "facts": ["Simbol al păcii", "Situat în Anzi", "Altitudine mare", "Monument transfrontalier"]
+    },
+    {
+      "id": "basilica-de-lujan-landmarks-v2",
+      "description": "O bazilică impunătoare, principalul loc de pelerinaj religios al Argentinei.",
+      "facts": ["Lăcaș de cult", "Centru de pelerinaj", "Arhitectură neogotică", "Faimă națională"]
+    },
+    {
+      "id": "iglesia-san-francisco-salta-landmarks-v2",
+      "description": "Biserică istorică renumită pentru turnul său înalt și fațada colorată.",
+      "facts": ["Arhitectură colonială", "Turn iconic", "Regiunea Salta", "Patrimoniu istoric"]
+    },
+    {
+      "id": "pucara-de-tilcara-landmarks-v2",
+      "description": "Sit arheologic restaurat care arată modul de viață al populațiilor indigene antice.",
+      "facts": ["Sit arheologic", "Cultură indigenă", "Regiunea Jujuy", "Importanță istorică"]
+    },
+    {
+      "id": "ruinas-de-quilmes-landmarks-v2",
+      "description": "O așezare pre-incașă semnificativă, un martor al rezistenței populației Quilmes.",
+      "facts": ["Așezare antică", "Istorie indigenă", "Regiunea Tucumán", "Sit arheologic"]
+    },
+    {
+      "id": "san-ignacio-mini-landmarks-v2",
+      "description": "Ruinele unei misiuni iezuite spectaculoase, un exemplu remarcabil de arhitectură colonială.",
+      "facts": ["Sit UNESCO", "Misiune iezuită", "Regiunea Misiones", "Arhitectură de ruină"]
+    },
+    {
+      "id": "manzana-jesuitica-landmarks-v2",
+      "description": "Complex istoric din Córdoba, inima vieții iezuite din perioada colonială.",
+      "facts": ["Patrimoniu UNESCO", "Centru cultural", "Regiunea Córdoba", "Istorie iezuită"]
+    },
+    {
+      "id": "faro-les-eclaireurs-landmarks-v2",
+      "description": "Un far iconic situat în Canalul Beagle, supranumit „farul de la capătul lumii”.",
+      "facts": ["Far maritim", "Canalul Beagle", "Lângă Ushuaia", "Simbol geografic"]
+    }
+  ]
+}

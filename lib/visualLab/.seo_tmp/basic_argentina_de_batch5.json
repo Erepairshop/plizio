@@ -1,0 +1,61 @@
+{
+  "lang": "de",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-l-general-pico-cities-v2",
+      "description": "General Pico ist die zweitgrößte Stadt der Provinz La Pampa und ein wichtiges landwirtschaftliches Zentrum.",
+      "facts": ["Zweitgrößte Stadt La Pampa", "Agrarwirtschaft", "Handel"]
+    },
+    {
+      "id": "ar-f-la-rioja-cities-v2",
+      "description": "La Rioja ist die Hauptstadt der gleichnamigen Provinz und liegt am Rande der Anden.",
+      "facts": ["Hauptstadt La Rioja", "Anden-Nähe", "Weinanbau-Region"]
+    },
+    {
+      "id": "ar-f-chilecito-cities-v2",
+      "description": "Chilecito ist ein bedeutender Ort im Tal von La Rioja, bekannt für seine Wein- und Obsterzeugung.",
+      "facts": ["Weinregion", "Tal von La Rioja", "Landwirtschaft"]
+    },
+    {
+      "id": "ar-m-mendoza-cities-v2",
+      "description": "Mendoza ist das Herz der argentinischen Weinproduktion und liegt wunderschön vor den Anden.",
+      "facts": ["Wein-Hauptstadt", "Anden-Region", "Oasenstadt"]
+    },
+    {
+      "id": "ar-m-san-rafael-cities-v2",
+      "description": "San Rafael ist ein wichtiger touristischer Ort in Mendoza, bekannt für seine Stauseen und Weinkellereien.",
+      "facts": ["Tourismus", "Stauseen", "Weinanbau"]
+    },
+    {
+      "id": "ar-m-godoy-cruz-cities-v2",
+      "description": "Godoy Cruz ist eine dicht besiedelte Stadt im Ballungsraum von Mendoza.",
+      "facts": ["Ballungsraum Mendoza", "Handel", "Industrie"]
+    },
+    {
+      "id": "ar-m-lujan-de-cuyo-cities-v2",
+      "description": "Luján de Cuyo ist weltweit bekannt für seine exzellenten Weine, insbesondere den Malbec.",
+      "facts": ["Weinregion", "Malbec-Heimat", "Mendoza-Provinz"]
+    },
+    {
+      "id": "ar-n-posadas-cities-v2",
+      "description": "Posadas ist die Hauptstadt der Provinz Misiones und liegt direkt am Paraná-Fluss.",
+      "facts": ["Hauptstadt Misiones", "Paraná-Fluss", "Grenzlage"]
+    },
+    {
+      "id": "ar-n-obera-cities-v2",
+      "description": "Oberá ist bekannt für ihre kulturelle Vielfalt und als Sitz des jährlichen Festes der Einwanderer.",
+      "facts": ["Kulturelle Vielfalt", "Einwandererfest", "Provinz Misiones"]
+    },
+    {
+      "id": "ar-n-eldorado-cities-v2",
+      "description": "Eldorado ist eine wichtige Stadt im Norden der Provinz Misiones.",
+      "facts": ["Nord-Misiones", "Holzwirtschaft", "Wachstum"]
+    }
+  ]
+}

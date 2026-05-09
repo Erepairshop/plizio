@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-u-esquel-cities-v2",
+      "description": "Oraș montan pitoresc în Patagonia, poarta către Parcul Național Los Alerces.",
+      "facts": ["Fondat în 1906", "Centru de sporturi de iarnă", "Regiunea Chubut", "Peisaje montane spectaculoase"]
+    },
+    {
+      "id": "ar-x-cordoba-cities-v2",
+      "description": "Al doilea oraș ca mărime al Argentinei, un centru universitar și tehnologic istoric.",
+      "facts": ["Fondat în 1573", "Universitatea din Córdoba", "Centru industrial", "Regiunea Córdoba"]
+    },
+    {
+      "id": "ar-x-rio-cuarto-cities-v2",
+      "description": "Un hub agricol vital în centrul provinciei Córdoba.",
+      "facts": ["Fondat în 1786", "Centru agricol major", "Regiunea Córdoba", "Nod feroviar"]
+    },
+    {
+      "id": "ar-x-villa-maria-cities-v2",
+      "description": "Oraș situat strategic, cunoscut pentru industria sa alimentară și universitate.",
+      "facts": ["Fondat în 1867", "Regiunea Córdoba", "Industrie lactată", "Centru universitar"]
+    },
+    {
+      "id": "ar-x-villa-carlos-paz-cities-v2",
+      "description": "Destinație turistică populară, renumită pentru lacul San Roque și viața culturală de vară.",
+      "facts": ["Fondat în 1913", "Turism de vară", "Lacul San Roque", "Regiunea Córdoba"]
+    },
+    {
+      "id": "ar-x-san-francisco-cities-v2",
+      "description": "Oraș industrial și agricol situat la granița provinciei Córdoba cu Santa Fe.",
+      "facts": ["Fondat în 1886", "Regiunea Córdoba", "Centru agricol", "Industria mașinilor"]
+    },
+    {
+      "id": "ar-w-corrientes-cities-v2",
+      "description": "Capitala provinciei Corrientes, oraș istoric situat pe malul fluviului Paraná.",
+      "facts": ["Fondat în 1588", "Oraș colonial", "Pe malul fluviului Paraná", "Regiunea Corrientes"]
+    },
+    {
+      "id": "ar-w-goya-cities-v2",
+      "description": "Un oraș cu tradiție agricolă, renumit pentru festivalul anual de pescuit al surubimului.",
+      "facts": ["Fondat în 1807", "Festival de pescuit", "Regiunea Corrientes", "Zona agricolă"]
+    },
+    {
+      "id": "ar-w-paso-de-los-libres-cities-v2",
+      "description": "Oraș de graniță strategic, situat pe malul fluviului Uruguay, conectat cu Brazilia.",
+      "facts": ["Fondat în 1843", "Poartă către Brazilia", "Comerț transfrontalier", "Regiunea Corrientes"]
+    },
+    {
+      "id": "ar-w-curuzu-cuatia-cities-v2",
+      "description": "Un oraș cu o arhitectură colonială bine păstrată și tradiții culturale puternice.",
+      "facts": ["Fondat în 1810", "Oraș istoric", "Regiunea Corrientes", "Tradiții culturale"]
+    }
+  ]
+}

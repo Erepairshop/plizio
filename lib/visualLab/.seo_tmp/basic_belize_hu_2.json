@@ -1,0 +1,79 @@
+{
+  "lang": "hu",
+  "country": "Belize",
+  "files": [
+    "lib/visualLab/data/poiExtraBelizeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-felipe-czl-cities-v2",
+      "description": "Mezőgazdasági közösség a Corozal körzetben, hagyományos életmóddal.",
+      "facts": ["Corozal körzet", "Falusi közösség", "Mezőgazdaság", "Északi régió"]
+    },
+    {
+      "id": "santa-teresa-toledo-cities-v2",
+      "description": "Kisebb település a Toledo körzetben, közel a dzsungeles területekhez.",
+      "facts": ["Toledo körzet", "Déli régió", "Falusi élet", "Természeti környezet"]
+    },
+    {
+      "id": "caledonia-czl-cities-v2",
+      "description": "Település a Corozal körzetben, közel a New River folyóhoz.",
+      "facts": ["Corozal körzet", "New River", "Mezőgazdaság", "Északi régió"]
+    },
+    {
+      "id": "sand-hill-cities-v2",
+      "description": "Közlekedési csomópont a Belize körzetben, a Northern Highway mentén.",
+      "facts": ["Belize körzet", "Northern Highway", "Közlekedési pont", "Fontos összekötő"]
+    },
+    {
+      "id": "biscayne-cities-v2",
+      "description": "Kisebb falu a Belize körzetben, a Northern Highway közelében.",
+      "facts": ["Belize körzet", "Északi régió", "Csendes közösség", "Falusi jelleg"]
+    },
+    {
+      "id": "august-pine-ridge-cities-v2",
+      "description": "Település az Orange Walk körzetben, tradicionális életmóddal.",
+      "facts": ["Orange Walk körzet", "Falusi település", "Északi régió", "Hagyományok"]
+    },
+    {
+      "id": "libertad-czl-cities-v2",
+      "description": "Település a Corozal körzetben, közel a cukorfinomítókhoz.",
+      "facts": ["Corozal körzet", "Cukoripar", "Északi régió", "Ipari kapcsolat"]
+    },
+    {
+      "id": "santa-cruz-czl-cities-v2",
+      "description": "Kisebb közösség a Corozal körzetben, határközeli elhelyezkedéssel.",
+      "facts": ["Corozal körzet", "Határvidék", "Falusi közösség", "Csendes terület"]
+    },
+    {
+      "id": "teakettle-cities-v2",
+      "description": "Falu a Cayo körzetben, közel a Belmopanhoz vezető főúthoz.",
+      "facts": ["Cayo körzet", "Nyugati régió", "Falusi jelleg", "Főút közelében"]
+    },
+    {
+      "id": "santa-elena-toledo-cities-v2",
+      "description": "Kisebb település a déli Toledo körzetben.",
+      "facts": ["Toledo körzet", "Déli régió", "Falusi élet", "Mezőgazdaság"]
+    },
+    {
+      "id": "buena-vista-cayo-cities-v2",
+      "description": "Közösség a Cayo körzetben, festői környezetben.",
+      "facts": ["Cayo körzet", "Nyugati régió", "Falusi jelleg", "Természeti környezet"]
+    },
+    {
+      "id": "gardenia-cities-v2",
+      "description": "Kisebb falu a Belize körzetben, a Northern Highway mentén.",
+      "facts": ["Belize körzet", "Északi régió", "Csendes terület", "Falusi közösség"]
+    },
+    {
+      "id": "santa-elena-border-cities-v2",
+      "description": "Település közel a nyugati határhoz, a Cayo körzetben.",
+      "facts": ["Cayo körzet", "Határvidék", "Kereskedelem", "Nyugati régió"]
+    },
+    {
+      "id": "cristo-rey-czl-cities-v2",
+      "description": "Kisebb közösség a Corozal körzetben.",
+      "facts": ["Corozal körzet", "Északi régió", "Falusi közösség", "Csendes terület"]
+    }
+  ]
+}

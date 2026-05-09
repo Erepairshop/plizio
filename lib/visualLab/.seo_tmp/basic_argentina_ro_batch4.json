@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-e-parana-cities-v2",
+      "description": "Capitala provinciei Entre Ríos, situată pe malul înalt al râului Paraná.",
+      "facts": ["Fondat în 1730", "Capitală provincială", "Regiunea Entre Ríos", "Panorame fluviale"]
+    },
+    {
+      "id": "ar-e-concordia-cities-v2",
+      "description": "Oraș situat pe malul fluviului Uruguay, un important centru agricol și hidroenergetic.",
+      "facts": ["Fondat în 1831", "Centru hidroenergetic", "Regiunea Entre Ríos", "Agricultură locală"]
+    },
+    {
+      "id": "ar-e-gualeguaychu-cities-v2",
+      "description": "Faimos pentru carnavalul său spectaculos, unul dintre cele mai mari din Argentina.",
+      "facts": ["Fondat în 1783", "Carnaval renumit", "Regiunea Entre Ríos", "Turism festiv"]
+    },
+    {
+      "id": "ar-e-concepcion-del-uruguay-cities-v2",
+      "description": "Un centru istoric important pe malul fluviului Uruguay.",
+      "facts": ["Fondat în 1783", "Centru istoric", "Regiunea Entre Ríos", "Port fluvial"]
+    },
+    {
+      "id": "ar-p-formosa-cities-v2",
+      "description": "Capitala provinciei Formosa, situată pe malul râului Paraguay, aproape de granița cu statul Paraguay.",
+      "facts": ["Fondat în 1879", "Capitală provincială", "Regiunea Formosa", "Lângă granița internațională"]
+    },
+    {
+      "id": "ar-p-clorinda-cities-v2",
+      "description": "Un important oraș de graniță în provincia Formosa, nod comercial cu Paraguay.",
+      "facts": ["Fondat în 1899", "Comerț de graniță", "Regiunea Formosa", "Hub comercial"]
+    },
+    {
+      "id": "ar-y-san-salvador-de-jujuy-cities-v2",
+      "description": "Capitala provinciei Jujuy, un oraș situat într-o vale andină cu peisaje dramatice.",
+      "facts": ["Fondat în 1593", "Poartă către Anzi", "Regiunea Jujuy", "Cultură indigenă"]
+    },
+    {
+      "id": "ar-y-san-pedro-de-jujuy-cities-v2",
+      "description": "Al doilea oraș ca mărime din provincia Jujuy, centru important al industriei zahărului.",
+      "facts": ["Fondat în 1883", "Industria zahărului", "Regiunea Jujuy", "Regiunea agricolă"]
+    },
+    {
+      "id": "ar-y-palpala-cities-v2",
+      "description": "Oraș cu un puternic caracter industrial, situat în apropierea capitalei provinciei Jujuy.",
+      "facts": ["Fondat în 1943", "Centru industrial", "Regiunea Jujuy", "Regiunea minieră"]
+    },
+    {
+      "id": "ar-l-santa-rosa-cities-v2",
+      "description": "Capitala provinciei La Pampa, situată în inima regiunii de stepă argentiniană.",
+      "facts": ["Fondat în 1892", "Capitală provincială", "Regiunea La Pampa", "Stepă argentiniană"]
+    }
+  ]
+}

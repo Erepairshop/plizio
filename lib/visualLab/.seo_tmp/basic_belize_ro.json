@@ -1,0 +1,47 @@
+{
+  "lang": "ro",
+  "country": "Belize",
+  "files": [
+    "lib/visualLab/data/poiExtraBelizeCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBelizeLifeV2.ts",
+    "lib/visualLab/data/poiExtraBelizeNatureV2.ts",
+    "lib/visualLab/data/poiExtraBelizeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "deep-river-hills-relief-v2",
+      "description": "Formațiune de dealuri în districtul Toledo, marcată de un relief variat și păduri tropicale umede.",
+      "facts": ["Formațiune de dealuri", "Districtul Toledo", "Păduri tropicale"]
+    },
+    {
+      "id": "stann-creek-valley-relief-v2",
+      "description": "Valea râului Stann Creek, caracterizată printr-un relief ce alternează între câmpii fertile și dealuri ușoare.",
+      "facts": ["Valea Stann Creek", "Câmpii fertile", "Relief colinar"]
+    },
+    {
+      "id": "northern-lowlands-relief-v2",
+      "description": "Regiunea de câmpie extinsă din nordul Belizei, marcată de un relief plat și zone umede importante.",
+      "facts": ["Regiune de câmpie", "Relief plat", "Zone umede"]
+    },
+    {
+      "id": "mullins-river-hills-relief-v2",
+      "description": "Dealuri situate în apropierea râului Mullins, ce oferă un relief variat pentru ecosistemele din districtul Stann Creek.",
+      "facts": ["Aproape de Mullins River", "Districtul Stann Creek", "Relief variat"]
+    },
+    {
+      "id": "sibun-river-hills-relief-v2",
+      "description": "Relief deluros ce înconjoară valea râului Sibun, esențial pentru conservarea biodiversității locale.",
+      "facts": ["Valea râului Sibun", "Relief deluros", "Biodiversitate"]
+    },
+    {
+      "id": "gallon-jug-hills-relief-v2",
+      "description": "Zona deluroasă din nord-vestul țării, caracterizată prin conservarea naturii și activități forestiere controlate.",
+      "facts": ["Nord-vestul Belizei", "Zonă deluroasă", "Activități forestiere"]
+    },
+    {
+      "id": "toledo-coastal-hills-relief-v2",
+      "description": "Dealuri de coastă în districtul Toledo, ce oferă priveliști asupra Caraibilor și un ecosistem marin-terestru unic.",
+      "facts": ["Dealuri de coastă", "Districtul Toledo", "Ecosistem unic"]
+    }
+  ]
+}

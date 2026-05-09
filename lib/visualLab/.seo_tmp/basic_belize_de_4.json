@@ -1,0 +1,64 @@
+{
+  "lang": "de",
+  "country": "Belize",
+  "files": [
+    "lib/visualLab/data/poiExtraBelizeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monkey-river-hills-relief-v2",
+      "description": "Die Hügel entlang des Monkey River prägen die hügelige Landschaft im Süden Belizes.",
+      "facts": ["Südliches Belize", "Hügelige Topografie", "Nahe Monkey River"]
+    },
+    {
+      "id": "golden-stream-valley-relief-v2",
+      "description": "Das Golden Stream Valley ist eine fruchtbare Senke im Toledo Distrikt mit vielfältiger Flora.",
+      "facts": ["Toledo Distrikt", "Fruchtbare Senke", "Biodiversität"]
+    },
+    {
+      "id": "rio-grande-hills-relief-v2",
+      "description": "Die Hügel des Rio Grande-Gebietes bilden einen Teil der Ausläufer der Maya Mountains.",
+      "facts": ["Maya Mountains Ausläufer", "Hügeliges Gelände", "Südbelize"]
+    },
+    {
+      "id": "deep-river-hills-relief-v2",
+      "description": "Diese Hügelkette im Süden von Belize ist durch dichten tropischen Regenwald bedeckt.",
+      "facts": ["Südbelize", "Regenwald bedeckt", "Hügelkette"]
+    },
+    {
+      "id": "sittee-river-foothills-relief-v2",
+      "description": "Die Ausläufer des Sittee River bieten eine Übergangszone zwischen Küstenebene und Bergland.",
+      "facts": ["Übergangszone", "Küstenebene", "Bergland-Nähe"]
+    },
+    {
+      "id": "northern-lowlands-relief-v2",
+      "description": "Die nördlichen Tiefländer bilden das flache, kalksteingeprägte Terrain im Norden Belizes.",
+      "facts": ["Nordbelize", "Flaches Terrain", "Kalksteingeprägt"]
+    },
+    {
+      "id": "mullins-river-hills-relief-v2",
+      "description": "Die Hügel bei Mullins River bilden eine malerische Landschaft im Stann Creek Distrikt.",
+      "facts": ["Stann Creek Distrikt", "Hügellandschaft", "Küstennahe Lage"]
+    },
+    {
+      "id": "sibun-river-hills-relief-v2",
+      "description": "Das Sibun-Flusstal wird von bewaldeten Hügeln flankiert, die typisch für diese Region sind.",
+      "facts": ["Sibun Flusstal", "Bewaldete Hügel", "Typische Topografie"]
+    },
+    {
+      "id": "blue-creek-hills-relief-v2",
+      "description": "Die Blue Creek Hügel bieten spektakuläre Ausblicke auf die bewaldete Region im Toledo Distrikt.",
+      "facts": ["Toledo Distrikt", "Spektakuläre Ausblicke", "Waldregion"]
+    },
+    {
+      "id": "maya-mountains-foothills-relief-v2",
+      "description": "Die Vorgebirge der Maya Mountains bilden ein weitläufiges, zerklüftetes Gebiet im Inneren Belizes.",
+      "facts": ["Maya Mountains", "Weitläufiges Gebiet", "Zerklüftet"]
+    },
+    {
+      "id": "toledo-coastal-hills-relief-v2",
+      "description": "Die küstennahen Hügel im Toledo Distrikt bieten eine Mischung aus Wald und Meeresblick.",
+      "facts": ["Toledo Distrikt", "Küstennah", "Mischlandschaft"]
+    }
+  ]
+}

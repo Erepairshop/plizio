@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "obelisco-buenos-aires-landmarks-v2",
+      "description": "Simbolul iconic al Buenos Aires-ului, situat în inima orașului, pe bulevardul 9 de Julio.",
+      "facts": ["Simbol al orașului", "Înălțime 67 metri", "Construit în 1936", "Punct de reper"]
+    },
+    {
+      "id": "casa-rosada-landmarks-v2",
+      "description": "Palatul guvernamental al Argentinei, sediul puterii executive, faimos pentru culoarea sa roz distinctivă.",
+      "facts": ["Sediul guvernului", "Situat în Plaza de Mayo", "Arhitectură eclectică", "Simbol politic"]
+    },
+    {
+      "id": "teatro-colon-landmarks-v2",
+      "description": "Unul dintre cele mai prestigioase teatre de operă din lume, recunoscut pentru acustica sa excepțională.",
+      "facts": ["Teatru de operă", "Acustică de top", "Arhitectură rafinată", "Situat în Buenos Aires"]
+    },
+    {
+      "id": "puente-de-la-mujer-landmarks-v2",
+      "description": "Un pod pietonal rotativ modern situat în zona Puerto Madero, proiectat de Santiago Calatrava.",
+      "facts": ["Pod rotativ", "Design modern", "Simbol al Puerto Madero", "Proiectat de Calatrava"]
+    },
+    {
+      "id": "floralis-generica-landmarks-v2",
+      "description": "O sculptură gigantică metalică sub formă de floare care se deschide și se închide în funcție de soare.",
+      "facts": ["Sculptură din oțel", "Se deschide automat", "Situat în parcul Plaza de las Naciones", "Design inovator"]
+    },
+    {
+      "id": "palacio-barolo-landmarks-v2",
+      "description": "O clădire emblematică inspirată de Divina Comedie a lui Dante Alighieri, cu o arhitectură unică.",
+      "facts": ["Inspirat de Dante", "Înălțime remarcabilă", "Stil eclectic", "Sistem de iluminat unic"]
+    },
+    {
+      "id": "recoleta-cemetery-landmarks-v2",
+      "description": "Un cimitir celebru unde sunt îngropate numeroase personalități istorice, inclusiv Eva Perón.",
+      "facts": ["Muzeu în aer liber", "Arhitectură funerară", "Mormântul Evei Perón", "Locație în Recoleta"]
+    },
+    {
+      "id": "metropolitan-cathedral-landmarks-v2",
+      "description": "Catedrala principală din Buenos Aires, situată lângă Casa Rosada, cu o istorie bogată.",
+      "facts": ["Lăcaș de cult", "Istorie religioasă", "În Plaza de Mayo", "Arhitectură neoclasică"]
+    },
+    {
+      "id": "la-bombonera-landmarks-v2",
+      "description": "Stadionul emblematic al clubului Boca Juniors, renumit pentru atmosfera sa intensă.",
+      "facts": ["Stadion de fotbal", "Casa clubului Boca", "Atmosferă vibrantă", "Design unic"]
+    },
+    {
+      "id": "estadio-monumental-landmarks-v2",
+      "description": "Cel mai mare stadion din Argentina, arena principală a clubului River Plate și a echipei naționale.",
+      "facts": ["Cel mai mare stadion", "Arena River Plate", "Gazda finalelor", "Capacitate vastă"]
+    }
+  ]
+}

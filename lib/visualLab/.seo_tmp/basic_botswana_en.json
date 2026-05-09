@@ -1,0 +1,73 @@
+{
+  "lang": "en",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jwaneng-diamond-mine-economic-v2",
+      "description": "A diamond mine in Jwaneng. It is part of Botswana's diamond economy.",
+      "facts": ["Diamond mining", "Jwaneng", "Botswana economy"]
+    },
+    {
+      "id": "orapa-diamond-mine-economic-v2",
+      "description": "A diamond mine in Orapa. It is part of Botswana's diamond economy.",
+      "facts": ["Diamond mining", "Orapa", "Botswana economy"]
+    },
+    {
+      "id": "morupule-coal-mine-economic-v2",
+      "description": "A coal mine in the Palapye area. It supports Botswana's energy supply.",
+      "facts": ["Coal mining", "the Palapye area", "Energy supply"]
+    },
+    {
+      "id": "morupule-power-station-economic-v2",
+      "description": "A coal-fired power station in the Palapye area. It is a key part of Botswana's electricity network.",
+      "facts": ["Power generation", "the Palapye area", "National grid"]
+    },
+    {
+      "id": "selebi-phikwe-copper-mine-economic-v2",
+      "description": "A copper mine in Selebi-Phikwe. It adds to Botswana's mining sector.",
+      "facts": ["Copper mining", "Selebi-Phikwe", "Mining sector"]
+    },
+    {
+      "id": "sowa-pan-soda-ash-economic-v2",
+      "description": "A soda ash plant at Sowa Pan. It turns salt-pan resources into industrial output.",
+      "facts": ["Soda ash", "Sowa Pan", "Industrial processing"]
+    },
+    {
+      "id": "letlhakane-diamond-mine-economic-v2",
+      "description": "A diamond mine in Letlhakane. It is part of Botswana's diamond economy.",
+      "facts": ["Diamond mining", "Letlhakane", "Botswana economy"]
+    },
+    {
+      "id": "karowe-diamond-mine-economic-v2",
+      "description": "A diamond mine in Karowe. It is part of Botswana's diamond economy.",
+      "facts": ["Diamond mining", "Karowe", "Botswana economy"]
+    },
+    {
+      "id": "gaborone-dry-port-economic-v2",
+      "description": "An inland dry port in Gaborone. It supports customs handling and cargo movement.",
+      "facts": ["Logistics hub", "Gaborone", "Trade route"]
+    },
+    {
+      "id": "bmc-lobatse-abattoir-economic-v2",
+      "description": "An abattoir in Lobatse. It is part of Botswana's beef-processing chain.",
+      "facts": ["Beef processing", "Lobatse", "Meat exports"]
+    },
+    {
+      "id": "khoemacau-copper-mine-economic-v2",
+      "description": "A copper mine in northwestern Botswana. It adds to Botswana's mining sector.",
+      "facts": ["Copper mining", "northwestern Botswana", "Mining sector"]
+    },
+    {
+      "id": "ghaghoo-diamond-mine-economic-v2",
+      "description": "A diamond mine in the Central Kalahari. It is part of Botswana's diamond economy.",
+      "facts": ["Diamond mining", "the Central Kalahari", "Botswana economy"]
+    }
+  ]
+}

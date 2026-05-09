@@ -1,0 +1,39 @@
+{
+  "lang": "hu",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bo-illimani-nature-v2",
+      "description": "Az Andok látványos, hófödte csúcsa, amely La Paz városának hátterét adja.",
+      "facts": ["Andok", "Hófödte csúcs", "La Paz háttere"]
+    },
+    {
+      "id": "bo-sajama-nature-v2",
+      "description": "Bolívia legmagasabb hegycsúcsa, egy inaktív vulkán az Andok hegyvonulatában.",
+      "facts": ["Legmagasabb csúcs", "Inaktív vulkán", "Andok"]
+    },
+    {
+      "id": "bo-huayna-potosi-nature-v2",
+      "description": "Népszerű hegymászó célpont, amely La Paz közelében található az Andokban.",
+      "facts": ["Hegymászás", "La Paz közelében", "Andok"]
+    },
+    {
+      "id": "bo-illampu-nature-v2",
+      "description": "Az Andok Cordillera Real vonulatának egyik monumentális csúcsa.",
+      "facts": ["Cordillera Real", "Monumentális csúcs", "Andok"]
+    },
+    {
+      "id": "bo-ancohuma-nature-v2",
+      "description": "Az Ancohuma a Cordillera Real része, az ország egyik legmagasabb hegycsúcsa.",
+      "facts": ["Cordillera Real", "Magas csúcs", "Andok"]
+    },
+    {
+      "id": "bo-laguna-colorada-nature-v2",
+      "description": "Lélegzetelállító vörös lagúna a magas-Andokban, flamingók otthona.",
+      "facts": ["Magas-Andok", "Vörös lagúna", "Flamingók"]
+    }
+  ]
+}

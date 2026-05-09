@@ -1,0 +1,64 @@
+{
+  "lang": "en",
+  "country": "Angola",
+  "files": [
+    "lib/visualLab/data/poiExtraAngolaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fazenda-lunda-norte-life-v2",
+      "description": "An agricultural enterprise in Lunda Norte supporting regional farming and rural development.",
+      "facts": ["Located in Lunda Norte", "Agricultural enterprise", "Rural development project", "Regional crop production"]
+    },
+    {
+      "id": "parque-urbano-da-cidadela-life-v2",
+      "description": "An urban park in Luanda providing a central green space for residents and city activities.",
+      "facts": ["Luanda urban park", "Central green space", "Public leisure area", "City infrastructure site"]
+    },
+    {
+      "id": "reserva-natural-do-quissama-life-v2",
+      "description": "A protected natural reserve encompassing diverse habitats for Angola's iconic wildlife.",
+      "facts": ["Protected natural habitat", "Wildlife preservation site", "Diverse ecology zone", "Important nature reserve"]
+    },
+    {
+      "id": "fazenda-cabinda-life-v2",
+      "description": "A farmstead in the Cabinda exclave contributing to the regional agricultural sector.",
+      "facts": ["Located in Cabinda", "Agricultural output site", "Regional food supply", "Rural farm facility"]
+    },
+    {
+      "id": "jardim-da-independencia-life-v2",
+      "description": "A commemorative garden reflecting Angola's journey to independence and national identity.",
+      "facts": ["Commemorative space", "Independence related site", "Civic garden design", "National identity park"]
+    },
+    {
+      "id": "fazenda-huambo-life-v2",
+      "description": "An agricultural production unit situated in the fertile highlands of Huambo province.",
+      "facts": ["Located in Huambo", "Highland agricultural site", "Fertile land utilization", "Regional production hub"]
+    },
+    {
+      "id": "parque-infantil-benguela-life-v2",
+      "description": "A community-focused children's play area in the city of Benguela.",
+      "facts": ["Benguela city park", "Children's recreational area", "Community facility", "Public leisure space"]
+    },
+    {
+      "id": "reserva-do-lumeje-life-v2",
+      "description": "A nature reserve focused on protecting local biodiversity in the Lumeje river region.",
+      "facts": ["Local biodiversity focus", "Lumeje river area", "Protected nature site", "Ecological preservation"]
+    },
+    {
+      "id": "parque-ecologico-de-luanda-life-v2",
+      "description": "An ecological park near the capital designed for conservation education and nature appreciation.",
+      "facts": ["Luanda area ecology park", "Conservation education site", "Nature appreciation area", "Urban nature zone"]
+    },
+    {
+      "id": "reserva-de-cangandala-life-v2",
+      "description": "A critical nature reserve established to protect the Giant Sable Antelope, a national symbol.",
+      "facts": ["Giant Sable protection", "National symbol habitat", "Conservation stronghold", "Critical nature reserve"]
+    },
+    {
+      "id": "parque-botanico-huambo-life-v2",
+      "description": "A botanical site highlighting the diverse highland vegetation and plant species of central Angola.",
+      "facts": ["Highland botanical site", "Flora diversity showcase", "Educational plant garden", "Regional nature hub"]
+    }
+  ]
+}
