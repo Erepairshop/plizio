@@ -2,33 +2,294 @@
   "lang": "de",
   "country": "gambia",
   "files": [
-    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "janjanbureh-cities-v2",
-      "descriptionAdvanced": "Janjanbureh, historisch bekannt als Georgetown, ist eine bedeutende Inselstadt inmitten des Gambia-Flusses. Ihre Geschichte reicht zurück bis in das Jahr 1823, als sie als Siedlung für befreite Sklaven gegründet wurde und später als britisches Verwaltungszentrum diente. Die Inselbewohner blicken auf eine lange koloniale Geschichte zurück, die sich heute in verschiedenen historischen Gebäuden und Ruinen widerspiegelt. Die Stadt ist zudem ein wichtiges kulturelles Zentrum und ein Ausgangspunkt für Naturliebhaber, die den Gambia-Fluss erkunden wollen. Geschichte K8 — Kolonialgeschichte und Sklaverei in Westafrika.",
-      "factsAdvanced": ["Gegründet 1823 als Siedlung für befreite Sklaven.", "Ehemals Georgetown genannt.", "Ehemaliges britisches Verwaltungszentrum.", "Gelegen auf einer Insel im Gambia-Fluss.", "Reich an kolonialer Architektur.", "Zentrum für kulturelle Entdeckungen.", "Wichtiger Ausgangspunkt für Fluss-Touren."]
+      "id": "sibanor-cities-v2",
+      "descriptionAdvanced": "Sibanor ist ein zentraler Handelsort entlang der strategisch wichtigen South Bank Road und fungiert als administratives und medizinisches Herzstück des Distrikts Foni Bintang-Karanai. Die Stadt ist vor allem für die Sibanor Health Clinic bekannt, eine renommierte Einrichtung, die für die Gesundheitsversorgung im ländlichen Westen Gambias von entscheidender Bedeutung ist. Sibanor ist ein Schmelztiegel der Kulturen, in dem die Jola-Ethnizität eine starke Präsenz hat und ihre traditionellen Bräuche pflegt. Durch die Lage an einer der Haupverkehrsadern profitiert die Stadt von einem ständigen Fluss von Waren und Reisenden, was sie zu einem dynamischen Marktplatz für landwirtschaftliche Erzeugnisse und Kleingewerbe macht. Sibanor illustriert eindrucksvoll die Rolle von Kleinstädten als Dienstleistungsknotenpunkte für die umliegende Agrargesellschaft. (Sachkunde K6 — Regionale Gesundheitsversorgung und Infrastruktur)",
+      "factsAdvanced": [
+        "Zentraler Ort im Distrikt Foni Bintang-Karanai.",
+        "Standort der überregional bekannten Sibanor Health Clinic.",
+        "Wichtiger Handelsplatz entlang der South Bank Road.",
+        "Starke kulturelle Prägung durch das Volk der Jola.",
+        "Bedeutendes Zentrum für den regionalen Agrarhandel.",
+        "Knotenpunkt für den Personenfernverkehr im Westen.",
+        "Sitz lokaler Bildungsinitiativen und Gemeindezentren.",
+        "Bekannt für seine resiliente und gut vernetzte Gemeinschaft."
+      ]
     },
     {
-      "id": "bansang-cities-v2",
-      "descriptionAdvanced": "Bansang ist eine lebhafte Marktstadt am Südufer des Gambia-Flusses und fungiert als lebenswichtiges medizinisches und wirtschaftliches Zentrum für das Landesinnere. Das lokale Krankenhaus ist das einzige größere medizinische Zentrum in dieser Region und spielt eine Schlüsselrolle für die umliegende Bevölkerung. Neben der medizinischen Versorgung ist die Stadt für ihre Bedeutung im regionalen Handel bekannt, insbesondere als Umschlagplatz für landwirtschaftliche Erzeugnisse wie Getreide. Bansang ist ein lebendiges Beispiel für eine Stadt, die trotz ihrer Abgeschiedenheit eine zentrale Rolle für die Region spielt. Gesundheit K7 — Öffentliche Infrastruktur in ländlichen Regionen.",
-      "factsAdvanced": ["Zentrum des regionalen Gesundheitswesens.", "Bedeutender Flusshafen für den Getreidehandel.", "Schlüsselfunktion für die Region.", "Lebhafter lokaler Markt.", "Wichtiger Ankerpunkt am Gambia-Fluss.", "Infrastrukturknoten für das Landesinnere.", "Wachsende Bedeutung in der Landwirtschaft."]
+      "id": "sanyang-cities-v2",
+      "descriptionAdvanced": "Sanyang ist eine dynamische und aufstrebende Stadt in der West Coast Region, die weltweit für ihren atemberaubenden 'Paradise Beach' bekannt ist, der oft als einer der schönsten Strände Gambias bezeichnet wird. Ursprünglich eine traditionelle Bauerngemeinde, hat sich Sanyang zu einem bedeutenden Zentrum für Tourismus und Fischerei entwickelt. Die Stadt verfügt über einen der aktivsten Fischlandeplätze der Region, an dem täglich frische Meeresfrüchte angelandet und direkt am Strand verarbeitet werden. Sanyang bewahrt trotz des touristischen Booms einen tiefen Respekt vor seinen Traditionen, was sich in den jährlichen kulturellen Festen und dem starken Zusammenhalt der Mandinka-Gemeinschaft widerspiegelt. Die Stadt ist ein Paradebeispiel für die erfolgreiche Integration von moderner Ökonomie und traditioneller Lebensweise an der gambischen Küste. (Wirtschaft K7 — Tourismus und ländliche Transformation)",
+      "factsAdvanced": [
+        "Heimat des berühmten 'Paradise Beach' (Atlantikküste).",
+        "Wichtiger Standort für handwerkliche Küstenfischerei.",
+        "Zentrum für Öko-Lodges und nachhaltigen Strandtourismus.",
+        "Bekannt für die Produktion von hochwertigem Räucherfisch.",
+        "Wachsendes urbanes Zentrum mit starkem Mandinka-Erbe.",
+        "Standort bedeutender kommunaler Entwicklungsprojekte.",
+        "Beliebtes Ziel für Tagesausflügler aus der Küstenregion.",
+        "Zentrum für traditionelle Zeremonien und Ringkämpfe."
+      ]
     },
     {
-      "id": "barra-cities-v2",
-      "descriptionAdvanced": "Barra ist eine geschichtsträchtige Hafenstadt an der Nordküste Gambias, direkt gegenüber der Hauptstadt Banjul gelegen. Als Endpunkt der wichtigen Fährverbindung über die Mündung des Gambia-Flusses ist sie ein unersetzlicher Knotenpunkt für den nationalen Reiseverkehr. Historisch war Barra der Sitz des mächtigen Königreichs Niumi, was der Stadt eine tiefe kulturelle und historische Bedeutung verleiht. Heute ist sie ein pulsierender Ort, der durch die ständige Bewegung der Menschen geprägt ist, die zwischen dem Norden und dem Zentrum des Landes pendeln. Geographie K7 — Grenzstädte und Transportlogistik.",
-      "factsAdvanced": ["Endpunkt der Fähre über den Gambia-Fluss.", "Ehemals Sitz des Königreichs Niumi.", "Strategischer Punkt für den Nord-Süd-Verkehr.", "Pulsierende Hafenstadt.", "Wichtiger Ort für kulturelle Geschichte.", "Direkte Anbindung an die Hauptstadt Banjul.", "Verkehrszentrum für den Norden."]
+      "id": "busumbala-cities-v2",
+      "descriptionAdvanced": "Busumbala ist ein rasant wachsendes Wohn- und Handelsgebiet in der West Coast Region, das unmittelbar an der Hauptverkehrsstraße zwischen Serekunda und Brikama liegt. Durch seine strategische Lage hat sich der Ort zu einem bevorzugten Wohnsitz für Pendler entwickelt, was zu einer explosionsartigen urbanen Expansion geführt hat. Busumbala ist bekannt für seinen lebhaften lokalen Markt und seine Rolle als logistischer Puffer für die größeren Nachbarstädte. Trotz der schnellen Modernisierung pflegt die Stadt stolz ihre historischen Wurzeln, die bis in die Zeit der frühen Mandinka-Besiedlung zurückreichen. Die Stadt illustriert den typischen Übergang von einer ländlichen Agrarstruktur zu einem modernen, suburbanen Raum, in dem das Kleingewerbe und der informelle Sektor die wirtschaftliche Basis bilden. (Geographie K7 — Suburbanisierung und Verkehrsplanung)",
+      "factsAdvanced": [
+        "Strategische Lage am Highway zwischen Serekunda und Brikama.",
+        "Wichtiges Pendlerzentrum mit hoher Wachstumsrate.",
+        "Zentrum für den lokalen Handel mit Baumaterialien und Agrargütern.",
+        "Historisch bedeutsame Siedlung im Kombo Central Distrikt.",
+        "Beherbergt zahlreiche moderne Wohnsiedlungen und Compounds.",
+        "Wichtiger logistischer Knotenpunkt für den regionalen Verkehr.",
+        "Standort wachsender privater Bildungs- und Gesundheitseinrichtungen.",
+        "Bekannt für seine dynamische und junge Bevölkerungsstruktur."
+      ]
     },
     {
-      "id": "gunjur-cities-v2",
-      "descriptionAdvanced": "Gunjur ist eine bedeutende Küstenstadt im Südwesten Gambias, die sich durch ihre ökologischen Schutzgebiete und die florierende Fischerei auszeichnet. Als Standort des 'Gunjur Environmental Protection Project' engagiert sich die lokale Bevölkerung aktiv für die Bewahrung ihrer natürlichen Ressourcen, was die Stadt zu einem Vorbild für nachhaltigen Tourismus macht. Die Fischerei ist das Herzstück der lokalen Wirtschaft, wobei täglich viele handwerkliche Fischerboote auf den Atlantik hinausfahren. Gunjur bietet eine faszinierende Kombination aus traditioneller Lebensweise und modernem Naturschutz. Biologie K7 — Nachhaltige Fischerei und Naturschutz.",
-      "factsAdvanced": ["Zentrum für nachhaltige Fischerei.", "Sitz des Gunjur Environmental Protection Project.", "Bekannt für ökologische Schutzgebiete.", "Traditionelle Lebensweise am Atlantik.", "Wichtig für lokale Umweltschutzinitiativen.", "Beliebt für ökologisch ausgerichteten Tourismus.", "Reiche Biodiversität in der Umgebung."]
+      "id": "bijilo-cities-v2",
+      "descriptionAdvanced": "Bijilo ist eine elegante Küstenstadt, die für ihren unberührten Bijilo Forest Park und ihre exklusiven Hotelanlagen bekannt ist. Der Forest Park, auch als 'Monkey Park' berühmt, bietet einen wertvollen Rückzugsort für bedrohte Tierarten und ist ein wichtiges Ziel für den Naturtourismus direkt am Atlantik. Bijilo hat sich in den letzten Jahren zu einem der prestigeträchtigsten Wohngebiete Gambias entwickelt, in dem sich moderne Architektur und üppige Natur harmonisch verbinden. Die Stadt profitiert von ihrer Nähe zum touristischen Zentrum Kololi, bewahrt jedoch eine deutlich ruhigere und gehobenere Atmosphäre. Als Standort für wichtige internationale Organisationen und hochwertige Dienstleister spielt Bijilo eine Schlüsselrolle in der modernen Wirtschaftsentwicklung der Greater Banjul Area. (Biologie K6 — Naturschutzgebiete in urbanen Räumen)",
+      "factsAdvanced": [
+        "Heimat des Bijilo Forest Park (Monkey Park).",
+        "Wichtiger Standort für den exklusiven Küstentourismus.",
+        "Bevorzugtes Wohnviertel für Diplomaten und die Mittelschicht.",
+        "Grenzt direkt an das Tanbi-Feuchtgebiet im Osten.",
+        "Bekannt für seine gut erhaltenen Küstendünen und Palmenhaine.",
+        "Sitz mehrerer internationaler Konferenzzentren.",
+        "Zentrum für hochwertige Gastronomie und Dienstleistungen.",
+        "Beitrag zur Erhaltung der Biodiversität in Küstennähe."
+      ]
     },
     {
-      "id": "sukuta-cities-v2",
-      "descriptionAdvanced": "Sukuta ist ein schnell wachsendes städtisches Zentrum in der West Coast Region und eng mit der urbanen Entwicklung rund um Serekunda verwoben. Historisch gesehen war die Stadt eine bedeutende Mandinka-Siedlung, deren kulturelles Erbe bis heute in den Traditionen der Einwohner spürbar ist. Mit ihrem starken Zuzug aus anderen Landesteilen und dem Ausland hat sich Sukuta zu einem bevorzugten Wohngebiet für Pendler entwickelt, die in der Metropolregion arbeiten. Die Stadt ist ein dynamisches Beispiel für die städtebauliche Expansion in Westafrika. Sozialkunde K7 — Urbanisierung.",
-      "factsAdvanced": ["Historisch bedeutende Mandinka-Siedlung.", "Dynamisches Wohngebiet für Pendler.", "Starkes städtisches Wachstum.", "Wichtiger Teil der Serekunda-Agglomeration.", "Vielfältige ethnische Zusammensetzung.", "Reges lokales Geschäftsleben.", "Infrastrukturelle Anbindung an die Metropolregion."]
+      "id": "kololi-cities-v2",
+      "descriptionAdvanced": "Kololi ist das unbestrittene Zentrum des internationalen Tourismus in Gambia und bekannt für den berühmten 'Senegambia Strip'. Hier konzentriert sich eine enorme Dichte an Hotels, Restaurants, Nachtclubs und Kunsthandwerksmärkten, die Besucher aus der ganzen Welt anziehen. Kololi bietet eine pulsierende, kosmopolitische Atmosphäre, die in starkem Kontrast zum ruhigen Hinterland steht. Neben dem Vergnügungssektor spielt die Stadt eine wichtige Rolle als Devisenbringer und Arbeitgeber für Tausende von Gambiern. Der Strand von Kololi ist ein lebhafter Treffpunkt, an dem Sport, Kultur und Tourismus aufeinandertreffen. Trotz der intensiven kommerziellen Nutzung gibt es Bemühungen, die Küstenumwelt zu schützen und den Tourismus nachhaltiger zu gestalten, um die natürliche Schönheit des Ortes für die Zukunft zu bewahren. (Wirtschaft K8 — Tourismusmanagement und Dienstleistungssektor)",
+      "factsAdvanced": [
+        "Zentrum des gambischen Tourismus (Senegambia Strip).",
+        "Höchste Dichte an Hotels und Restaurants im Land.",
+        "Wichtigster Standort für das Nachtleben und Entertainment.",
+        "Heimat des Senegambia Craft Market für lokales Kunsthandwerk.",
+        "Bedeutender Wirtschaftsfaktor für nationale Deviseneinnahmen.",
+        "Treffpunkt für internationale Reisende und lokale Geschäftsleute.",
+        "Standort moderner Bankfilialen und Telekommunikationszentren.",
+        "Fokusgebiet für moderne Stadtplanung und Infrastrukturprojekte."
+      ]
+    },
+    {
+      "id": "kanifing-cities-v2",
+      "descriptionAdvanced": "Kanifing ist das industrielle und institutionelle Rückgrat der Greater Banjul Area und bildet zusammen mit Serekunda die bevölkerungsreichste Gemeinde Gambias. Als Sitz der Kanifing Municipal Council (KMC) ist die Stadt das administrative Zentrum für die umliegenden urbanen Viertel. Kanifing beherbergt die meisten Produktionsbetriebe, Brauereien und Verarbeitungsanlagen des Landes, was es zum wirtschaftlichen Motor des Industriesektors macht. Zudem ist die Stadt ein herausragendes Bildungszentrum, in dem sich die University of The Gambia und zahlreiche technische Institute befinden. Die Mischung aus moderner Bürokratie, industrieller Produktion und akademischem Leben verleiht Kanifing einen einzigartigen Charakter als moderner, zukunftsorientierter Stadtraum, der den technologischen Fortschritt Gambias vorantreibt. (Wirtschaft K8 — Industrie und Hochschulbildung)",
+      "factsAdvanced": [
+        "Industrielles Zentrum Gambias (Kanifing Industrial Estate).",
+        "Sitz des Kanifing Municipal Council (KMC).",
+        "Hauptstandort der University of The Gambia (UTG).",
+        "Zentrum für die nationale Rundfunk- und Fernsehanstalt (GRTS).",
+        "Beherbergt die Hauptsitze zahlreicher Banken und Versicherungen.",
+        "Wichtigster Standort für die verarbeitende Industrie im Land.",
+        "Knotenpunkt für technische Ausbildung und Innovation.",
+        "Zentraler Ort für die Koordination der städtischen Infrastruktur."
+      ]
+    },
+    {
+      "id": "bundung-cities-v2",
+      "descriptionAdvanced": "Bundung ist ein dicht besiedeltes und lebhaftes Wohnviertel innerhalb der Kanifing Municipality, das für seinen starken Gemeinschaftssinn und seine pulsierende Straßenkultur bekannt ist. Ursprünglich ein kleinerer Vorort, hat sich Bundung durch die massive Landflucht zu einem der energiegeladensten Teile der Metropolregion entwickelt. Die Stadt ist berühmt für ihre zahlreichen kleinen Werkstätten, informellen Märkte und Garküchen, die das wirtschaftliche Überleben vieler Familien sichern. Bundung beherbergt wichtige soziale Einrichtungen, darunter renommierte Schulen und Gesundheitsposten, die die junge Bevölkerung versorgen. Das Viertel illustriert die Herausforderungen und Chancen der schnellen Urbanisierung in Westafrika, wobei traditionelle soziale Netzwerke eine entscheidende Rolle bei der Bewältigung des modernen Stadtlebens spielen. (Sozialkunde K7 — Urbaner Wandel und Gemeinschaft)",
+      "factsAdvanced": [
+        "Dicht besiedeltes Wohnviertel in der Kanifing Municipality.",
+        "Zentrum des informellen Sektors und des Kleingewerbes.",
+        "Bekannt für seine hohe Dichte an Bildungseinrichtungen.",
+        "Wichtiger Standort für handwerkliche Betriebe (Mechaniker, Schneider).",
+        "Beherbergt eine diverse ethnische Mischung aus ganz Westafrika.",
+        "Zentraler Punkt für lokale soziale Organisationen und Jugendclubs.",
+        "Fokusgebiet für städtische Sanierungsprogramme und DRAINAGE-Projekte.",
+        "Symbol für die vitale und resiliente urbane Kultur Gambias."
+      ]
+    },
+    {
+      "id": "tallinding-cities-v2",
+      "descriptionAdvanced": "Tallinding ist ein historisches und rasant gewachsenes Viertel in der Greater Banjul Area, das eine Brücke zwischen der Vergangenheit und der modernen Urbanität schlägt. Bekannt für seine traditionellen Wurzeln innerhalb der Kanifing Municipality, hat sich Tallinding zu einem wichtigen Wohn- und Handelsgebiet entwickelt. Die Stadt zeichnet sich durch eine Mischung aus weitläufigen Familien-Compounds und moderneren Geschäftsgebäuden entlang der Hauptstraßen aus. Tallinding spielt eine wichtige Rolle im lokalen Handel, insbesondere durch seine Märkte, die die umliegenden Wohngebiete mit frischen Lebensmitteln und Haushaltswaren versorgen. Durch die Nähe zum Industriegebiet von Kanifing ist Tallinding ein bevorzugter Wohnort für Arbeiter und Angestellte, was der Stadt eine bodenständige und fleißige Atmosphäre verleiht. (Geographie K6 — Siedlungsstrukturen in Metropolregionen)",
+      "factsAdvanced": [
+        "Historisch gewachsenes Viertel der Kanifing Municipality.",
+        "Wichtiger Wohnstandort für die städtische Arbeiterschaft.",
+        "Beherbergt zahlreiche historische Moscheen und Gemeindezentren.",
+        "Zentrum für den lokalen Einzelhandel und Handwerksbetriebe.",
+        "Strategisch günstige Lage nahe dem Industriegürtel von Kanifing.",
+        "Bekannt für seine starken nachbarschaftlichen Netzwerke.",
+        "Standort mehrerer bedeutender Primär- und Sekundarschulen.",
+        "Involviert in wichtige Infrastrukturprojekte zur Stadtentwässerung."
+      ]
+    },
+    {
+      "id": "fajikunda-cities-v2",
+      "descriptionAdvanced": "Fajikunda ist ein pulsierendes und dicht bewohntes Viertel am südlichen Rand der Kanifing Municipality, das für seine enorme Energie und seinen Unternehmergeist bekannt ist. Die Stadt hat sich in den letzten Jahrzehnten von einem kleinen Außenposten zu einem massiven Wohngebiet entwickelt, das eine junge und dynamische Bevölkerung beherbergt. Fajikunda ist ein Zentrum des täglichen Überlebenskampfes und des Erfolgs im informellen Sektor, mit unzähligen kleinen Läden und Dienstleistern, die das Straßenbild prägen. Wichtige soziale Einrichtungen wie das Fajikunda Health Centre spielen eine zentrale Rolle bei der medizinischen Grundversorgung der Region. Trotz der infrastrukturellen Herausforderungen, die mit dem schnellen Wachstum einhergingen, bewahrt Fajikunda eine starke kulturelle Identität und ist bekannt für seine leidenschaftliche Unterstützung lokaler Sport- und Kulturveranstaltungen. (Sozialkunde K7 — Urbanisierung und Gesundheitsvorsorge)",
+      "factsAdvanced": [
+        "Massives Wohngebiet am Rand der Kanifing Municipality.",
+        "Standort des wichtigen Fajikunda Health Centre.",
+        "Zentrum für eine junge, dynamische und mobile Bevölkerung.",
+        "Hohe Dichte an informellen Betrieben und Kleinsthändlern.",
+        "Bekannt für seine lebendige Jugendkultur und Sportvereine.",
+        "Wichtiger Punkt für die lokale Verkehrslogistik (Gele-Gele).",
+        "Schmelztiegel verschiedener westafrikanischer Nationalitäten.",
+        "Fokus für kommunale Bildungs- und Alphabetisierungsprogramme."
+      ]
+    },
+    {
+      "id": "dippa-kunda-cities-v2",
+      "descriptionAdvanced": "Dippa Kunda ist ein traditionsreiches und zugleich hochmodernes Viertel im Herzen von Serekunda, das als eines der wichtigsten kommerziellen Zentren der Stadt gilt. Hier mischt sich das historische Erbe der Gründerfamilien mit dem rasanten Tempo des modernen westafrikanischen Handels. Die Stadt ist bekannt für ihre Textilmärkte, auf denen die berühmten gambischen Batik- und Tie-Dye-Stoffe in höchster Qualität hergestellt und verkauft werden. Dippa Kunda ist ein wichtiger Knotenpunkt für den sozialen Austausch und beherbergt einige der bekanntesten sozialen Treffpunkte der Region. Durch seine zentrale Lage ist das Viertel ein unverzichtbarer Teil der urbanen Identität Serekundas und dient als Motor für die wirtschaftliche Entwicklung des lokalen Einzelhandels und des Handwerks. (Wirtschaft K7 — Traditionelles Handwerk und moderner Handel)",
+      "factsAdvanced": [
+        "Historischer Kern und kommerzielles Zentrum von Serekunda.",
+        "Berühmt für die Produktion von Batik- und Tie-Dye-Textilien.",
+        "Zentraler Standort für bedeutende Händler-Clans.",
+        "Beherbergt eine Vielzahl von Schneiderwerkstätten und Boutiquen.",
+        "Wichtiger Knotenpunkt für soziale und kulturelle Interaktion.",
+        "Standort historischer Moscheen und traditioneller Versammlungsorte.",
+        "Motor für den lokalen Einzelhandel in der Greater Banjul Area.",
+        "Bekannt für seine lebhafte Atmosphäre während religiöser Feste."
+      ]
+    },
+    {
+      "id": "abuko-cities-v2",
+      "descriptionAdvanced": "Abuko ist ein einzigartiger Ort in der Greater Banjul Area, der vor allem durch das Abuko Nature Reserve, das erste Naturschutzgebiet Gambias, weltweite Bekanntheit erlangt hat. Die Stadt bildet die Schnittstelle zwischen urbanem Wachstum und dem Schutz der wertvollen westafrikanischen Flora und Fauna. Abuko beherbergt zudem den zentralen Viehmarkt des Landes, was der Stadt eine enorme wirtschaftliche Bedeutung für die Fleischversorgung der gesamten Küstenregion verleiht. In Abuko treffen Naturbeobachter, die seltene Affenarten und Vögel studieren, auf Viehhändler aus dem gesamten Senegal-Gambia-Raum. Diese ungewöhnliche Mischung macht Abuko zu einem Ort der Kontraste, an dem ökologische Verantwortung und traditioneller Agrarhandel unmittelbar nebeneinander existieren. Die Stadt spielt eine Schlüsselrolle bei der Sensibilisierung der urbanen Bevölkerung für Umweltfragen. (Biologie K7 — Artenschutz und landwirtschaftliche Märkte)",
+      "factsAdvanced": [
+        "Heimat des Abuko Nature Reserve (gegründet 1968).",
+        "Standort des größten zentralen Viehmarkts in Gambia.",
+        "Wichtiger logistischer Punkt an der South Bank Road.",
+        "Zentrum für Umweltbildung und ökologische Forschung.",
+        "Wichtigster Umschlagplatz für Rinder und Schafe aus der Region.",
+        "Beherbergt bedeutende Baumschulen und Forstbaumschulen.",
+        "Knotenpunkt für die Versorgung der Küste mit Fleischprodukten.",
+        "Fokusgebiet für den Schutz der städtischen Wasserreservoirs."
+      ]
+    },
+    {
+      "id": "batokunku-cities-v2",
+      "descriptionAdvanced": "Batokunku ist ein malerischer Küstenort in der West Coast Region, der für seine unberührte Schönheit und seine Vorreiterrolle in Sachen Nachhaltigkeit bekannt ist. Die Stadt erlangte internationale Aufmerksamkeit durch innovative Windenergie-Projekte, die zeigen, wie ländliche Gemeinden in Gambia von erneuerbaren Energien profitieren können. Die Strände von Batokunku sind weithin für ihre Ruhe und Sauberkeit berühmt und ziehen Besucher an, die Abgeschiedenheit abseits der großen Touristenresorts suchen. Batokunku bewahrt seinen Charakter als traditionelles Dorf, in dem Landwirtschaft und Fischerei die Lebensgrundlage bilden, während es gleichzeitig moderne Wege in eine grüne Zukunft weist. Die Stadt ist ein Paradebeispiel für die Verbindung von lokaler Tradition und zukunftsweisender Umwelttechnologie in Westafrika. (Sachkunde K6 — Erneuerbare Energien und Küstenschutz)",
+      "factsAdvanced": [
+        "Pionierort für Windenergie-Infrastruktur in Gambia.",
+        "Bekannt für seine ruhigen und ökologisch intakten Strände.",
+        "Zentrum für kleine, nachhaltige Öko-Tourismus-Initiativen.",
+        "Traditionell geprägte Gemeinschaft mit Fokus auf Selbstversorgung.",
+        "Wichtiger Standort für den Gemüseanbau an der Küste.",
+        "Modellprojekt für dezentrale Energieversorgung im ländlichen Raum.",
+        "Beliebtes Ziel für Ruhesuchende und Naturfotografen.",
+        "Engagiert in lokalen Programmen zur Strandreinigung und Aufforstung."
+      ]
+    },
+    {
+      "id": "tujereng-cities-v2",
+      "descriptionAdvanced": "Tujereng ist ein historisch gewachsener und rasant moderner werdender Ort an der Küstenstraße der West Coast Region. Die Stadt ist bekannt für ihre weitläufigen Agrarflächen und ihre strategische Bedeutung als Bindeglied zwischen der Metropolregion und dem südlichen Gambia. Tujereng hat sich in den letzten Jahren zu einem bevorzugten Ziel für Wohnsiedlungsprojekte entwickelt, was die Landschaft und die Sozialstruktur nachhaltig verändert. Trotz dieser Transformation bleibt der Kern von Tujereng tief in den Traditionen der Vorfahren verwurzelt, mit aktiven Dorfältesten und einer starken Gemeinschaftskultur. Die Umgebung der Stadt bietet eine hohe Biodiversität, insbesondere in den Küstenwäldern, die ein wichtiges Habitat für Zugvögel darstellen. Tujereng illustriert den spannungsvollen Prozess der urbanen Expansion in ehemals rein landwirtschaftlich genutzte Gebiete. (Geographie K7 — Ländliche Entwicklung und Urbanisierung)",
+      "factsAdvanced": [
+        "Wachsendes urbanes Zentrum an der strategischen Küstenstraße.",
+        "Traditionelles Agrardorf mit Fokus auf Gartenbau und Obst.",
+        "Beliebter Standort für moderne Immobilienentwicklungen.",
+        "Wichtiger Punkt für den regionalen Personentransport.",
+        "Beherbergt eine diverse Gemeinschaft mit starkem sozialen Zusammenhalt.",
+        "Bekannt für seine weitläufigen Küstenwälder und Vogelhabitate.",
+        "Zentrum für lokale Handwerkskunst und Marktaktivitäten.",
+        "Engagiert in Bildungsprojekten für die ländliche Jugend."
+      ]
+    },
+    {
+      "id": "kalagi-cities-v2",
+      "descriptionAdvanced": "Kalagi ist ein bedeutender Handelsort in der Western Division und dient als wichtiges Tor zur Foni-Region. Die Stadt liegt strategisch günstig an der South Bank Road und ist bekannt für ihren lebhaften Markt, der Reisende und Händler gleichermaßen anzieht. Kalagi spielt eine zentrale Rolle in der regionalen Agrarwirtschaft, insbesondere als Sammelstelle für Erdnüsse und Getreide aus den umliegenden fruchtbaren Ebenen. Durch die Nähe zum Fluss und seinen Nebenarmen ist die Umgebung von Kalagi reich an natürlicher Schönheit und bietet wichtige Lebensräume für die lokale Tierwelt. Die Stadt fungiert als wichtiger Dienstleistungsknotenpunkt für die ländliche Bevölkerung und bietet essenzielle Einrichtungen im Bereich Bildung und Gesundheit. Kalagi ist ein lebendiges Beispiel für die vitale Rolle, die Handelsstützpunkte im ländlichen Gambia für die Stabilität der Region spielen. (Wirtschaft K6 — Agrarhandel und ländliche Logistik)",
+      "factsAdvanced": [
+        "Strategischer Handelsplatz an der South Bank Road.",
+        "Wichtiges Tor zum Distrikt Foni Jarrol.",
+        "Zentrum für die Vermarktung regionaler Agrarprodukte.",
+        "Standort einer bedeutenden wöchentlichen Marktaktivität.",
+        "Wichtiger Rastplatz für Reisende in Richtung Zentral-Gambia.",
+        "Beherbergt lokale Regierungsbüros und Polizeistationen.",
+        "Zentrum für die Verarbeitung von Waldprodukten und Holzkohle.",
+        "Standort mehrerer historisch bedeutsamer Familien-Compounds."
+      ]
+    },
+    {
+      "id": "faraba-banta-cities-v2",
+      "descriptionAdvanced": "Faraba Banta ist ein geschichtsträchtiger Ort in der West Coast Region, der für seine weitreichende historische Bedeutung und seine moderne Rolle in der Hochschulbildung bekannt ist. Die Stadt beherbergt einen der Campus der University of The Gambia, was ihr den Status eines akademischen Zentrums im ländlichen Raum verleiht. Faraba Banta ist tief in der Mandinka-Geschichte verwurzelt und bekannt für die Bewahrung traditioneller Weisheiten und Bräuche. Geografisch ist die Umgebung durch markante Laterit-Formationen und fruchtbare Böden geprägt, die eine intensive Landwirtschaft ermöglichen. Die Stadt hat in der jüngeren Geschichte Gambias eine wichtige Rolle im politischen Bewusstsein des Landes gespielt und steht heute als Symbol für den Wunsch nach Bildung und Fortschritt unter Beibehaltung kultureller Werte. (Geschichte K8 — Bildung und politisches Bewusstsein)",
+      "factsAdvanced": [
+        "Standort eines Campus der University of The Gambia (UTG).",
+        "Historisch bedeutsame Siedlung im Kombo East Distrikt.",
+        "Zentrum für den Abbau von Laterit und Baumaterialien.",
+        "Wichtiger Standort für großflächigen Reisanbau.",
+        "Bekannt für seine historische Rolle im Widerstand gegen Kolonialismus.",
+        "Beherbergt renommierte traditionelle Heiler und Gelehrte.",
+        "Wichtiger Ort für archäologische Forschungen in der Region.",
+        "Zentrum für soziale Bewegungen und politische Bildung."
+      ]
+    },
+    {
+      "id": "yundum-cities-v2",
+      "descriptionAdvanced": "Yundum ist die unverzichtbare logistische Schnittstelle Gambias, da hier der Banjul International Airport, das einzige Luftverkehrsdrehkreuz des Landes, beheimatet ist. Die Stadt hat sich von einem strategischen Militärstandort zu einem pulsierenden urbanen Zentrum entwickelt, das die Verbindung zur Welt darstellt. Neben dem Flughafen ist Yundum ein bedeutendes Zentrum für die Lehrerbildung und beherbergt renommierte Colleges. Die Stadt ist geprägt durch eine moderne Infrastruktur und dient als wichtiger Wohnort für Angestellte der Luftfahrtindustrie und des Bildungssektors. Die Nähe zum Highway macht Yundum zu einem der dynamischsten Wachstumskerne der Greater Banjul Area, in dem ständig neue Gewerbe- und Wohngebiete entstehen. Yundum illustriert den Fortschritt Gambias in den Bereichen Transport, Logistik und Bildung im 21. Jahrhundert. (Wirtschaft K8 — Luftverkehr und tertiärer Bildungssektor)",
+      "factsAdvanced": [
+        "Standort des Banjul International Airport (Yundum Airport).",
+        "Wichtigstes Zentrum für die nationale Luftfahrtlogistik.",
+        "Beherbergt das Gambia College (Campus für Lehrerbildung).",
+        "Strategisch günstig am Haupt-Highway des Landes gelegen.",
+        "Wichtiger Standort für militärische Einrichtungen (Yundum Barracks).",
+        "Zentrum für internationale Logistik- und Kurierdienste.",
+        "Rasant wachsendes Wohngebiet mit moderner Infrastruktur.",
+        "Tor für den internationalen Tourismus in Gambia."
+      ]
+    },
+    {
+      "id": "kotu-cities-v2",
+      "descriptionAdvanced": "Kotu ist ein Juwel des gambischen Tourismus und weltweit bekannt für seinen weiten, goldgelben Sandstrand und die exzellenten Möglichkeiten zur Vogelbeobachtung am Kotu Stream. Die Stadt beherbergt einige der renommiertesten Hotelanlagen des Landes und bietet eine perfekte Mischung aus Luxusurlaub und Naturerlebnis. Der Kotu Stream ist ein Hotspot für Ornitologen, die hier seltene Eisvögel und Reiher direkt neben den Touristenresorts beobachten können. Kotu verfügt zudem über einen lebhaften Kunstmarkt, auf dem lokale Handwerker ihre Waren anbieten, und ist bekannt für seine hervorragende Gastronomie. Trotz der touristischen Bedeutung legt die Gemeinde großen Wert auf den Schutz der Küstenumwelt, was Kotu zu einem der attraktivsten und nachhaltigsten Ziele an der westafrikanischen Küste macht. (Biologie K7 — Ornithologie und Tourismuswirtschaft)",
+      "factsAdvanced": [
+        "Einer der führenden Standorte für hochwertigen Küstentourismus.",
+        "International renommierter Punkt für die Vogelbeobachtung am Kotu Stream.",
+        "Heimat des Kotu Craft Market (Lokales Handwerk).",
+        "Bekannt für seine breiten, sicheren und sauberen Sandstrände.",
+        "Wichtiger Standort für erstklassige Gastronomie und Hotellerie.",
+        "Zentrum für Freizeitaktivitäten wie Golf und Wassersport.",
+        "Vorreiter bei Programmen zum Schutz der Küstenerosion.",
+        "Beliebter Treffpunkt für internationale Naturfotografen."
+      ]
+    },
+    {
+      "id": "manjai-kunda-cities-v2",
+      "descriptionAdvanced": "Manjai Kunda ist ein pulsierendes und relativ modernes Stadtviertel innerhalb der Kanifing Municipality, das an Kotu und Serekunda grenzt. Es hat sich zu einem beliebten Wohnort für die aufstrebende Mittelschicht Gambias entwickelt und beherbergt eine Vielzahl von privaten Schulen, Kliniken und modernen Geschäften. Manjai Kunda ist bekannt für seine geplante Struktur im Vergleich zu den älteren Vierteln und bietet eine hohe Lebensqualität innerhalb der Greater Banjul Area. Die Stadt ist ein Zentrum für soziale Aktivitäten und beherbergt wichtige kulturelle Einrichtungen, die besonders die junge Generation ansprechen. Manjai Kunda illustriert den Trend zur Modernisierung und die Entstehung neuer urbaner Zentren, die durch private Investitionen und eine hohe Dynamik geprägt sind. (Sozialkunde K7 — Urbaner Wandel und soziale Schichtung)",
+      "factsAdvanced": [
+        "Modernes Wohn- und Gewerbeviertel der Kanifing Municipality.",
+        "Bevorzugter Wohnort für die urbane Mittelschicht.",
+        "Hohe Dichte an privaten Bildungseinrichtungen und Kliniken.",
+        "Bekannt für seine geordnete städtebauliche Struktur.",
+        "Zentrum für moderne Gastronomie und Socializing.",
+        "Strategisch günstige Lage zwischen Tourismus- und Handelszentren.",
+        "Wichtiger Standort für junge Start-ups und Dienstleister.",
+        "Zentrum für lokale Sport- und Freizeitaktivitäten."
+      ]
+    },
+    {
+      "id": "bakoteh-cities-v2",
+      "descriptionAdvanced": "Bakoteh ist ein bedeutendes Wohnviertel in der Kanifing Municipality, das vor allem für seine großen Infrastruktureinrichtungen und sein starkes soziales Engagement bekannt ist. Die Stadt beherbergt die zentrale Mülldeponie der Greater Banjul Area, was sie zu einem Fokuspunkt nationaler Debatten über Umweltmanagement und Recycling macht. Gleichzeitig ist Bakoteh berühmt für das SOS-Kinderdorf, eine Institution, die seit Jahrzehnten hervorragende Arbeit in der Betreuung und Bildung gefährdeter Kinder leistet. Bakoteh steht beispielhaft für die Herausforderungen der schnellen Urbanisierung in Westafrika, zeigt aber auch die enorme Kraft zivilgesellschaftlicher Initiativen. Die Stadt ist geprägt durch eine hohe Bevölkerungsdichte und eine lebendige Marktkultur, die das tägliche Leben in diesem dynamischen Viertel bestimmt. (Sachkunde K6 — Abfallwirtschaft und soziale Verantwortung)",
+      "factsAdvanced": [
+        "Standort der zentralen Mülldeponie (Umweltfokus).",
+        "Heimat des SOS-Kinderdorfs Gambia (Soziale Einrichtung).",
+        "Wichtiges Wohnviertel mit hoher Bevölkerungsdichte.",
+        "Zentrum für lokale Recycling-Initiativen und Umweltschutz.",
+        "Bedeutender Bildungsstandort mit mehreren großen Schulen.",
+        "Wichtiger Verkehrsknotenpunkt innerhalb von Serekunda.",
+        "Fokusgebiet für moderne Stadtplanungsprogramme.",
+        "Bekannt für seine lebendige und engagierte Bürgerschaft."
+      ]
+    },
+    {
+      "id": "old-jeshwang-cities-v2",
+      "descriptionAdvanced": "Old Jeshwang ist ein historisches Viertel in der Kanifing Municipality, das tief in der kolonialen und vorkolonialen Geschichte der Region verwurzelt ist. Es beherbergt den Jeshwang Cemetery, einen der bedeutendsten und ältesten Friedhöfe des Landes, und grenzt an die Industrielandschaften von Kanifing. Old Jeshwang hat seinen traditionellen Gemeinschaftscharakter bewahrt, was sich in den engen Gassen und den alteingesessenen Familien-Compounds widerspiegelt. Die Stadt ist bekannt für ihre kleinen Handwerksbetriebe und ihre Nähe zu den Mangrovensümpfen des Tanbi-Komplexes, was früher eine wichtige Rolle für die lokale Fischerei spielte. Old Jeshwang ist ein Ort, an dem die Geschichte der frühen Besiedlung des Kombo-Distrikts bis heute spürbar ist, und bildet einen ruhigeren, geschichtsbewussten Kontrast zur Hektik der modernen Serekunda. (Geschichte K7 — Siedlungshistorie und urbane Traditionen)",
+      "factsAdvanced": [
+        "Historisch gewachsenes Viertel am Rand von Kanifing.",
+        "Standort des Jeshwang Cemetery (Bedeutende Grabstätte).",
+        "Bewahrung traditioneller Mandinka-Siedlungsstrukturen.",
+        "Nähe zu den ökologisch wichtigen Tanbi-Mangrovensümpfen.",
+        "Zentrum für traditionelles Handwerk und Kleingewerbe.",
+        "Historisch bedeutsam für die frühe Besiedlung der Region.",
+        "Starke soziale Bindungen innerhalb der alteingesessenen Familien.",
+        "Ort des Gedenkens und der lokalen historischen Identität."
+      ]
     }
   ]
 }

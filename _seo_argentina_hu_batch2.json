@@ -1,0 +1,289 @@
+{
+  "lang": "hu",
+  "country": "argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-c-buenos-aires-cities-v2",
+      "descriptionAdvanced": "Buenos Aires Argentína lüktető fővárosa, amelyet Pedro de Mendoza alapított először 1536-ban, majd Juan de Garay 1580-ban véglegesen. A metropolisz több mint 15 millió lakosával az ország politikai, gazdasági és kulturális központja, elegáns építészete miatt pedig gyakran emlegetik a Dél Párizsaként. Az európai bevándorlók, különösen az olaszok és spanyolok hatása a mai napig meghatározza a város arculatát, nyelvét és gasztronómiáját. Buenos Aires a tangó bölcsője, a híres Teatro Colón otthona és a szenvedélyes futballkultúra városa. Olyan negyedek, mint San Telmo antik bája, La Boca színes házai vagy Palermo modern dinamizmusa adják meg a város sokszínű identitását, amely egyszerre melankolikus és élettel teli.",
+      "factsAdvanced": [
+        "Először 1536-ban alapították, majd 1580-ban telepítették újra.",
+        "A nagyvárosi térségben több mint 15 millió ember él.",
+        "Az Avenida 9 de Julio a világ egyik legszélesebb sugárútja.",
+        "A Teatro Colón akusztikája a világ legjobbjai közé tartozik.",
+        "1994 óta különleges autonóm szövetségi körzetként működik.",
+        "A lakosság több mint felének olasz felmenői vannak.",
+        "A Recoleta temető Eva Perón végső nyughelye.",
+        "A kikötője Dél-Amerika egyik legnagyobb áruforgalmát bonyolítja."
+      ]
+    },
+    {
+      "id": "ar-b-la-plata-cities-v2",
+      "descriptionAdvanced": "La Plata városát 1882-ben Dardo Rocha kormányzó alapította, kifejezetten Buenos Aires tartomány tervezett fővárosaként. A város a 19. század végi racionalista várostervezés kiváló példája: tökéletes négyzet alaprajzát átlós sugárutak szelik át, és minden hatodik utcasarkon egy park vagy közösségi tér található. Monumentális neogótikus katedrálisa Argentína egyik legnagyobb vallási épülete, amely uralja a központi teret. La Plata fontos oktatási és tudományos központ, híres egyetemével és világszínvonalú Természettudományi Múzeumával, amely kiemelkedő paleontológiai gyűjteményt őriz. A város különleges elrendezése miatt kapta az Átlók városa becenevet, és ma is az ország egyik legmodernebb arculatú települése.",
+      "factsAdvanced": [
+        "1882-ben alapította Dardo Rocha kormányzó.",
+        "Latin-Amerika első városa volt, ahol elektromos közvilágítás működött.",
+        "A katedrális építése több mint 100 évig tartott.",
+        "Várostervét az 1889-es párizsi világkiállításon aranyéremmel díjazták.",
+        "Itt működik Argentína egyik legfontosabb csillagvizsgálója.",
+        "Természettudományi múzeuma több mint 3 millió kiállítási tárggyal bír.",
+        "Beceneve az Átlók városa az egyedi úthálózata miatt.",
+        "Alapításakor időkapszulát helyeztek el a főtéren."
+      ]
+    },
+    {
+      "id": "ar-b-mar-del-plata-cities-v2",
+      "descriptionAdvanced": "Mar del Plata Argentína legismertebb és legnépszerűbb tengerparti üdülővárosa az Atlanti-óceán partján, amelyet 1874-ben alapítottak. Míg állandó lakossága 650 000 fő körül mozog, a nyári szezonban a turisták száma a kétmilliót is meghaladja. A város építészete a 19. századi arisztokrata villák és a modern szállodasorok különleges keveréke. Mar del Plata ad otthont Latin-Amerika egyetlen A-kategóriás nemzetközi filmfesztiváljának, és híres hatalmas, vörös gránitból épült kaszinójáról. Élénk éjszakai élete, homokos strandjai és fontos halászkikötője miatt a La Feliz (A boldog város) becenevet viseli, és az argentin középosztály pihenésének szimbolikus helyszíne.",
+      "factsAdvanced": [
+        "1874-ben alapították, ma közel 650 000 lakosa van.",
+        "Központi kaszinója a világ egyik legnagyobb ilyen típusú épülete.",
+        "Halászkikötője híres a mólókon sütkérező oroszlánfókákról.",
+        "1954 óta rendezik meg itt a rangos nemzetközi filmfesztivált.",
+        "A strandok hossza meghaladja a 47 kilométert.",
+        "Főszezonban a város népessége több mint háromszorosára nő.",
+        "Argentína legfontosabb halászati központja.",
+        "Beceneve La Feliz, ami a boldog várost jelenti."
+      ]
+    },
+    {
+      "id": "ar-b-bahia-blanca-cities-v2",
+      "descriptionAdvanced": "Bahía Blanca 1828-ban katonai erődként jött létre Fortaleza Protectora Argentina néven, hogy védelmet nyújtson a déli határokon. Ma az Atlanti-óceán partján fekvő város Patagónia és a Pampa egyik legfontosabb gazdasági és logisztikai kapuja. Mélyvízi kikötője, Ingeniero White, az ország egyik legjelentősebb gabonakiviteli csomópontja és petrolkémiai központja. A város fontos haditengerészeti bázisnak és több neves egyetemnek is otthont ad. Érdekesség, hogy Bahía Blancát Argentína kosárlabda-fővárosának tekintik, mivel számos világhírű játékos, köztük Manu Ginóbili is innen indult. Történelmi központja a Plaza Rivadaviával és a neoklasszicista épületeivel a századforduló gazdasági virágzását idézi.",
+      "factsAdvanced": [
+        "1828-ban alapították katonai erődítményként.",
+        "Buenos Aires tartomány déli részének legnagyobb városa.",
+        "Ingeniero White kikötője az ország egyik fő gabonaterminálja.",
+        "Itt található Argentína legfontosabb haditengerészeti bázisa.",
+        "A hazai petrolkémiai ipar meghatározó központja.",
+        "Városi színháza (Teatro Municipal) 1913-ban nyílt meg.",
+        "A Universidad Nacional del Sur székhelye.",
+        "Úgy emlegetik, mint a kaput az argentin dél felé."
+      ]
+    },
+    {
+      "id": "ar-b-tandil-cities-v2",
+      "descriptionAdvanced": "Tandil városa a Sierras de Tandil dombvidék lábánál fekszik, és 1823-as alapítása óta fontos szerepet tölt be Buenos Aires tartomány életében. A környéket a különleges sziklaalakzatok és a dombos táj teszik vonzóvá a turisták számára, legismertebb jelképe pedig a Piedra Movediza (Mozgó kő) volt, amely 1912-ben zuhant le, de ma másolatban látható. A város híres kiváló minőségű sajtjairól és szalámijairól, amelyek az argentin gasztronómia elismert termékei. Vallási jelentősége is nagy, a Monte Calvario Argentína egyik legfontosabb zarándokhelye a nagyhét idején. Tandil egyben modern egyetemi város is, ahol a természetközeli életmód és a dinamikus fejlődés jól megfér egymás mellett.",
+      "factsAdvanced": [
+        "1823. április 4-én alapították Martín Rodríguez erődjeként.",
+        "A Sierras de Tandilia geológiailag a Föld egyik legősibb képződménye.",
+        "Híres a Salame de Tandil eredetvédett élelmiszertermékről.",
+        "A legendás mozgó kő 1912-ben vesztette el egyensúlyát.",
+        "A Monte Calvario a világ harmadik legfontosabb kálváriája.",
+        "Itt található az ország egyik vezető technológiai egyeteme (UNICEN).",
+        "A Dique del Fuerte víztározó a város népszerű pihenőhelye.",
+        "Hagyományos kőbányászati központként is ismert volt."
+      ]
+    },
+    {
+      "id": "ar-b-quilmes-cities-v2",
+      "descriptionAdvanced": "Quilmes története 1666-ban kezdődött, amikor a spanyol hatóságok a mai Tucumán területéről a quilmes indiánokat ide telepítették át, létrehozva számukra egy redukciót. A modern Quilmes Buenos Aires déli agglomerációjának egyik legfontosabb ipari és lakóvárosa. Országos ismertségét elsősorban az 1888-ban alapított sörgyárnak köszönheti, a Quilmes sör mára az ország nemzeti jelképévé vált. A város gazdag sportmúlttal is büszkélkedhet, itt alakult meg Argentína egyik legrégebbi futballklubja, a Quilmes Atlético Club. A Río de la Plata partján húzódó sétány és az egyetemi negyed modern karaktert ad a történelmi gyökerekkel rendelkező városnak.",
+      "factsAdvanced": [
+        "1666-ban alapították egy indián redukció helyszínén.",
+        "A híres Quilmes sörgyárat 1888-ban Otto Bemberg alapította.",
+        "Itt működik az ország egyik legrégebbi futballklubja (1887).",
+        "Buenos Aires egyik legnépesebb elővárosi körzete.",
+        "A Universidad Nacional de Quilmes 1989 óta működik.",
+        "A város neve az egykori quilmes népcsoport emlékét őrzi.",
+        "Fontos ipari központ az üveg- és textilgyártásban.",
+        "Saját tengerparti sétánnyal rendelkezik a La Plata folyó mentén."
+      ]
+    },
+    {
+      "id": "ar-b-lomas-de-zamora-cities-v2",
+      "descriptionAdvanced": "Lomas de Zamora Buenos Aires déli nagyvárosi övezetének egyik legélénkebb és legsűrűbben lakott települése. A 19. század közepén indult fejlődésnek, amit a vasút 1865-ös megérkezése gyorsított fel, ma pedig fontos közigazgatási és kereskedelmi központ. A város központját a Plaza Grigera és a neoklasszicista városháza alkotja, ahol pezsgő közösségi élet zajlik. Lomas híres oktatási intézményeiről és sportéletéről, különösen a Banfield futballklubról, amely a szomszédos negyedben található. Az egykori vidéki birtokok helyén mára egy modern nagyváros alakult ki, amely megőrizte olasz és spanyol bevándorlói hagyományait, miközben a tartomány egyik legfontosabb gazdasági motorjává vált.",
+      "factsAdvanced": [
+        "Hivatalosan 1861-ben nyerte el a városi rangot.",
+        "A vasútvonal 1865-ös megnyitása tette kulcsfontosságúvá.",
+        "Buenos Aires egyik legfontosabb kereskedelmi csomópontja.",
+        "Itt található a neves Universidad Nacional de Lomas de Zamora.",
+        "A Banfield sportklub (1896) szorosan kötődik a városhoz.",
+        "Számos történelmi angol stílusú lakóházzal rendelkezik.",
+        "Központi tere, a Plaza Grigera a helyi társasági élet szíve.",
+        "Erős bevándorlói háttérrel rendelkezik, főként olasz és szír-libanoni."
+      ]
+    },
+    {
+      "id": "ar-b-san-isidro-cities-v2",
+      "descriptionAdvanced": "San Isidro a Río de la Plata partján fekvő elegáns és patinás város, amely Buenos Aires északi agglomerációjának egyik legelőkelőbb negyede. A település a 18. században alakult ki egy kápolna körül, és ma is híres jól megőrzött gyarmati stílusú épületeiről, macskaköves utcáiról és hatalmas neogótikus katedrálisáról. San Isidro a lovassportok argentin központja, híres lóversenypályája (Hipódromo) világszerte ismert. A város egyszerre kínál nyugodt, zöld lakókörnyezetet és gazdag kulturális életet, múzeumaival és folyóparti klubjaival. A Quinta de Pueyrredón történelmi birtoka ma múzeumként működik, emlékeztetve a látogatókat a város fontos szerepére az argentin függetlenség idején.",
+      "factsAdvanced": [
+        "A 18. század elején alakult ki a San Isidro Labrador kápolna körül.",
+        "Argentína egyik leggazdagabb és legmagasabb életszínvonalú városa.",
+        "Neogótikus katedrálisa 1898-ban készült el.",
+        "Híres lóversenypályáját 1935-ben nyitották meg.",
+        "A rögbi sportág egyik fellegvára az országban (CASI, SIC).",
+        "A Quinta de Pueyrredón nemzeti történelmi emlékhely.",
+        "Macskaköves utcái és ősfás parkjai védett városképet alkotnak.",
+        "Fontos vitorlás- és vízisport központ a La Plata folyón."
+      ]
+    },
+    {
+      "id": "ar-b-san-nicolas-de-los-arroyos-cities-v2",
+      "descriptionAdvanced": "San Nicolás de los Arroyos a Paraná folyó partján fekvő történelmi jelentőségű város, amely Buenos Aires és Rosario között félúton helyezkedik el. Itt írták alá 1852-ben a San Nicolás-i egyezményt, amely alapvető mérföldkő volt az argentin nemzeti egység és az alkotmányos rend megteremtésében. A város ma fontos ipari központ, különösen az acélgyártás terén, köszönhetően a hatalmas Somisa (ma Ternium) gyárnak. Vallási szempontból is kiemelt célpont, mivel a Santuario de María del Rosario de San Nicolás zarándokhely évente hívők százezreit vonzza. A folyóparti sétány és a történelmi belvüros nyugodt hangulatot áraszt, miközben a város gazdasági súlya meghatározó a régióban.",
+      "factsAdvanced": [
+        "1748-ban alapította Rafael de Aguiar.",
+        "Itt írták alá 1852-ben az ország történetének egyik legfontosabb paktumát.",
+        "A Paraná folyó partján fekvő stratégiai kikötőváros.",
+        "Itt található Argentína legnagyobb acélműve.",
+        "Fontos zarándokhely a Szűz Mária-jelenések emlékműve miatt.",
+        "A városban található az ország egyik legfontosabb ipari múzeuma.",
+        "Az Atucha I atomerőmű is a közelben található.",
+        "Híres a folyami turizmusról és a horgászatról."
+      ]
+    },
+    {
+      "id": "ar-b-lanus-cities-v2",
+      "descriptionAdvanced": "Lanús Buenos Aires déli elővárosi övezetének markáns darabja, amely sűrű beépítettségével és erős ipari múltjával tűnik ki. A település a 19. század végén indult gyors fejlődésnek, eredetileg húsfeldolgozó és textilüzemek köré szerveződve, nevét pedig Anacarsis Lanús földbirtokosról kapta. A város identitásának legfontosabb pillére a Club Atlético Lanús, amely nemcsak sportegyesület, hanem jelentős társadalmi és oktatási központ is a helyiek számára. Lanús ma egy dinamikus, munkáskarakterű vhros, ahol a kis- és középvállalkozások határozzák meg a mindennapi ritmust. Modern egyeteme, a UNLA, a vasúti területek rehabilitációjával jött létre, szimbolizálva a város megújulási törekvéseit.",
+      "factsAdvanced": [
+        "1944-ben vált önálló megyévé (partido).",
+        "Nevét Anacarsis Lanús birtokosról kapta.",
+        "A Club Atlético Lanús (1915) a város legfőbb büszkesége.",
+        "Erős olasz és spanyol bevándorlói gyökerekkel bír.",
+        "A Universidad Nacional de Lanús (UNLA) 1995-ben alakult.",
+        "Fontos vasúti csomópont a Buenos Aires-i hálózatban.",
+        "Kifejezetten ipari és kereskedelmi jellegű település.",
+        "Itt született Diego Maradona (a közeli kórházban)."
+      ]
+    },
+    {
+      "id": "ar-k-catamarca-cities-v2",
+      "descriptionAdvanced": "San Fernando del Valle de Catamarca az azonos nevű tartomány fővárosa, amely egy gyönyörű hegyvidéki völgyben fekszik az ország északnyugati részén. Az 1683-ban alapított város megőrizte csendes, gyarmati hangulatát, központját pedig a lenyűgöző neoklasszicista katedrális uralja. Catamarca Argentína egyik legfontosabb vallási központja, a Nuestra Señora del Valle kegyhelyhez hívők tömegei érkeznek minden évben. A város híres hagyományos kézművességéről, különösen a szövött poncsóiról, amelyeket minden júliusban az országos Poncho Fesztiválon ünnepelnek. A környező táj, a vöröses hegyek és a kristálytiszta levegő ideális kiindulóponttá teszik a várost az andoki túrákhoz és a magashegyi sivatagi kalandokhoz.",
+      "factsAdvanced": [
+        "1683. július 5-én alapította Fernando de Mendoza Mate de Luna.",
+        "Catamarca tartomány közigazgatási és vallási központja.",
+        "Itt rendezik meg minden évben a híres Poncho Fesztivált.",
+        "A neoklasszicista katedrálisban őrzik a völgy védőszentjét.",
+        "A város egy 500 méter feletti magasságban fekvő völgyben terül el.",
+        "Fontos oktatási központ, saját nemzeti egyetemmel (UNCA).",
+        "A környék híres az olajbogyó- és diótermesztésről.",
+        "A Jumeal-gát a város kedvelt pihenő- és vízisporthelye."
+      ]
+    },
+    {
+      "id": "ar-k-belen-cities-v2",
+      "descriptionAdvanced": "Belén Catamarca tartomány nyugati részének egyik legősibb és legkarakteresebb kisvárosa, amelyet 1681-ben alapítottak. A települést gyakran emlegetik az argentin poncsó fővárosaként, mivel lakói generációk óta őrzik a hagyományos kézi szövés művészetét, felhasználva a láma és vikunya gyapját. Belén stratégiai helyen, a híres 40-es főút mentén fekszik, és kapuként szolgál a Puna vadregényes tájai felé. A város közelében található El Shincal de Quimivil inka régészeti lelőhelye, amely bizonyítja a régió évezredes történelmi jelentőségét. A száraz, napos éghajlat és a környező vöröses sziklafalak misztikus hangulatot kölcsönöznek ennek a hagyományőrző andoki településnek.",
+      "factsAdvanced": [
+        "1681-ben alapították, Catamarca egyik legrégebbi városa.",
+        "Hivatalosan a Poncsó fővárosának (Capital Nacional del Poncho) nevezik.",
+        "A 40-es főút egyik legfontosabb állomása északnyugaton.",
+        "Közelében fekszik El Shincal, egy egykori inka közigazgatási központ.",
+        "Híres a vikunya- és lámagyapjúból készült kézműves termékeiről.",
+        "A város környékén jelentős bányászati tevékenység folyik.",
+        "Körülbelül 1250 méteres tengerszint feletti magasságban található.",
+        "Minden évben itt tartják a Beléni Karácsony ünnepségeit."
+      ]
+    },
+    {
+      "id": "ar-k-andalgala-cities-v2",
+      "descriptionAdvanced": "Andalgalá egy festői kisváros Catamarca tartományban, az Aconquija-hegység lábánál, amelyet 1658-ban alapítottak. A település neve kecsua nyelven a hegy urát jelenti, ami jól tükrözi uralkodó fekvését a Calchaquí-völgyek déli bejáratánál. A város gazdasága évszázadok óta a mezőgazdaságra (dió, olajbogyó, gyümölcsök) és a bányászatra épül; a közelben található Capillitas bánya az ország egyik legfontosabb rodokrozit (argentin nemzeti kő) lelőhelye. Andalgalá híres vendégszeretetéről, folklórfesztiváljairól és a környező magashegyi utakról, amelyek kihívást jelentenek a terepjárós kalandorok számára. A város egyszerre őrzi a gyarmati örökséget és az andoki hagyományokat egy érintetlen természeti környezetben.",
+      "factsAdvanced": [
+        "1658-ban alapították katonai erődítményként.",
+        "A neve kecsua eredetű, jelentése a hegy ura.",
+        "Az argentin nemzeti kő, a rodokrozit legfőbb lelőhelye a közelben van.",
+        "Híres a kiváló minőségű helyi dió- és olajbogyótermelésről.",
+        "Fontos kiindulópont a bányászati és hegyi expedíciókhoz.",
+        "A környéken található a Bajo de la Alumbrera, az egyik legnagyobb rézbánya.",
+        "Erős andoki folklór és kézműves hagyományok jellemzik.",
+        "Egy termékeny oázisban fekszik az Aconquija-hegység árnyékában."
+      ]
+    },
+    {
+      "id": "ar-h-resistencia-cities-v2",
+      "descriptionAdvanced": "Resistencia Chaco tartomány fővárosa, amelyet 1878-ban alapítottak olasz telepesek a Paraná folyó közelében. A várost világszerte a szobrok városaként ismerik, mivel utcáin és terein több mint 600 műalkotás látható, így egyfajta hatalmas szabadtéri múzeumként működik. Ez a kulturális sajátosság az 1988 óta megrendezett Nemzetközi Szoborbiennálénak köszönhető, amely a világ minden tájáról vonzza a művészeket. Resistencia forró, szubtrópusi éghajlata ellenére egy zöld, parkokkal teli település, amely az északkeleti régió egyik legfontosabb gazdasági és oktatási központja. A modern építészet, a vibráló művészeti élet és a folyami közelség egyedülálló karaktert kölcsönöz Argentína ezen távoli, de kulturálisan rendkívül gazdag sarkának.",
+      "factsAdvanced": [
+        "1878-ban alapították friuli olasz bevándorlók.",
+        "Chaco tartomány közigazgatási fővárosa.",
+        "Beceneve a Szobrok városa a több mint 600 köztéri alkotás miatt.",
+        "Itt rendezik meg kétévente a rangos Nemzetközi Szoborbiennálét.",
+        "Fontos folyami kikötővel rendelkezik a közeli Barranqueras-ban.",
+        "A Universidad Nacional del Nordeste (UNNE) egyik székhelye.",
+        "A város egy nedves, szubtrópusi síkságon terül el.",
+        "Központi tere, a Plaza 25 de Mayo az ország egyik legnagyobbja."
+      ]
+    },
+    {
+      "id": "ar-h-presidencia-roque-saenz-pena-cities-v2",
+      "descriptionAdvanced": "Presidencia Roque Sáenz Peña Chaco tartomány második legnépesebb városa, amely az ország északkeleti síkságának szívében fekszik. Az 1912-ben alapított település gyors fejlődését a gyapottermesztésnek köszönheti, ami miatt sokáig a gyapot fővárosaként emlegették. A város különlegessége a termálfürdő-komplexum, amely gyógyhatású vizeivel vonzza a látogatókat az egész országból. Sáenz Peña egy igazi olvasztótégely, ahol az olasz, spanyol és különböző kelet-európai bevándorlók közösségei a mai napig őrzik hagyományaikat. Gazdasági szerepe mellett a város fontos tudományos központ is, köszönhetően az itt működő egyetemnek, és stratégiai elhelyezkedése miatt a Chaco-régió belső kereskedelmének motorja.",
+      "factsAdvanced": [
+        "1912-ben alapították, nevét az akkori argentin elnökről kapta.",
+        "Chaco tartomány második legfontosabb városa.",
+        "Híres termálfürdőjéről, amelyet 1937-ben nyitottak meg.",
+        "Az ország egyik legfontosabb gyapottermelő körzetének központja.",
+        "Jelentős bolgár, cseh és ukrán bevándorló közösségek élnek itt.",
+        "A Universidad Nacional del Alto Uruguay (UNCAUS) székhelye.",
+        "Itt rendezik meg minden évben az Országos Gyapotfesztivált.",
+        "Fontos vasúti és közúti csomópont az északi síkságon."
+      ]
+    },
+    {
+      "id": "ar-h-villa-angela-cities-v2",
+      "descriptionAdvanced": "Villa Ángela Chaco tartomány déli részének egyik legjelentősebb települése, amely 1914-ben jött létre a mezőgazdasági terjeszkedés során. A várost eredetileg Ángela Marengóról nevezték el, és gazdaságát kezdetektől a gyapot, a napraforgó és a szója termesztése határozta meg. Villa Ángela híres látványos karneváljairól, amelyek az észak-argentin régió egyik legszínesebb eseményének számítanak, több hónapos készülődéssel és táncos felvonulásokkal. A település őrzi a századforduló vasúti múltjának emlékeit, miközben modern agrárközpontként funkcionál. A különböző európai bevándorlók öröksége a mai napig tetten érhető a helyi klubokban és kulturális egyesületekben, erős közösségi szellemet adva a városnak.",
+      "factsAdvanced": [
+        "1914-ben alapították a tartomány déli mezőgazdasági övezetében.",
+        "Híres az „Észak-Argentína Karneválja” néven ismert ünnepségeiről.",
+        "A gyapot- és napraforgótermelés egyik fő bázisa.",
+        "A város neve Ángela Marengo, egy korai birtokos emlékét őrzi.",
+        "Fontos állomása volt az egykori Belgrano vasútvonalnak.",
+        "Erős közösségi identitással rendelkező, multikulturális település.",
+        "Itt található a tartomány egyik legrégebbi mozi-színháza.",
+        "Gazdaságát a modern élelmiszer-feldolgozó ipar is erősíti."
+      ]
+    },
+    {
+      "id": "ar-u-rawson-cities-v2",
+      "descriptionAdvanced": "Rawson Chubut tartomány fővárosa, amelyet 1865-ben alapítottak walesi telepesek a Chubut folyó torkolatának közelében. Ez az egyik legkülönlegesebb tartományi székhely Argentínában, mivel alapítása nem a spanyol hódítókhoz, hanem a brit bevándorlókhoz kötődik. Bár politikai és adminisztratív központ, Rawson megőrizte nyugodt, családias hangulatát. A város közelében található Playa Unión népszerű tengerparti üdülőhely, ahol az Atlanti-óceán vad hullámai és a Tonina-delfinek megfigyelése vonzza a látogatókat. Rawson fontos halászkikötője, Puerto Rawson, a friss tengeri herkentyűk és a sárga garnélarák fő lelőhelye. A walesi örökség a mai napig élő, kápolnákban és kulturális fesztiválokban nyilvánul meg.",
+      "factsAdvanced": [
+        "1865. szeptember 15-én alapították walesi telepesek.",
+        "Chubut tartomány közigazgatási fővárosa.",
+        "Nevét Guillermo Rawson belügyminiszterről kapta.",
+        "A Chubut folyó alsó szakaszán, az óceán közelében fekszik.",
+        "Itt rendezik meg a walesi Eisteddfod kulturális fesztivált.",
+        "Puerto Rawson híres a Tonina (Commerson-delfin) megfigyelésről.",
+        "Playa Unión a város kedvelt tengerparti sétánya és strandja.",
+        "Az egyik legkisebb lakosságszámú tartományi főváros az országban."
+      ]
+    },
+    {
+      "id": "ar-u-comodoro-rivadavia-cities-v2",
+      "descriptionAdvanced": "Comodoro Rivadavia Chubut tartomány legnagyobb városa és az argentin olajipar vitathatatlan fővárosa. A település sorsa 1907-ben változott meg gyökeresen, amikor ivóvíz keresése közben véletlenül kőolajat találtak a területén, elindítva ezzel az ország energiafüggetlenségének történetét. A város drámai fekvésű: a tenger és a kopár patagóniai fennsíkok közé szorul, felette pedig a Cerro Chenque jellegzetes alakja magasodik. Comodoro egy kemény, dolgozó város, ahol a modern technológia, a szélenergia-parkok és a kikötői logisztika határozzák meg a látképet. Erős bevándorlói közösségei (horvátok, britek, portugálok) és az olajmúzeum egyedülálló betekintést nyújtanak Patagónia ipari fejlődésébe.",
+      "factsAdvanced": [
+        "1901. február 23-án alapították.",
+        "1907-ben itt fedezték fel az első argentin olajlelőhelyet.",
+        "Chubut tartomány és egész Patagónia egyik legnépesebb városa.",
+        "Az ország egyik vezető szélenergia-termelő központja.",
+        "Híres Nemzeti Olajmúzeuma az egykori 2-es számú kútnál található.",
+        "Itt működik a dél-patagóniai San Juan Bosco Egyetem.",
+        "Fontos atlanti-óceáni kikötő és logisztikai bázis.",
+        "A Cerro Chenque domb a város legismertebb tájékozódási pontja."
+      ]
+    },
+    {
+      "id": "ar-u-trelew-cities-v2",
+      "descriptionAdvanced": "Trelew egy jelentős kereskedelmi és ipari központ a Chubut-völgyben, amelyet 1886-ban alapítottak walesi telepesek a vasútvonal csomópontjaként. A város neve walesiül Lewis városát jelenti, utalva Lewis Jonesra, a kolonizáció egyik vezetőjére. Trelew világhírét ma elsősorban az Egidio Feruglio Paleontológiai Múzeumnak köszönheti, amely Latin-Amerika egyik legfontosabb dinoszaurusz-kutató központja, és ahol a világ legnagyobb dinoszauruszának leleteit is őrzik. A város fontos kapu a Valdés-félsziget és a Punta Tombo pingvinrezervátum felé. A walesi örökség ma is tetten érhető a helyi teaházakban, a gótikus stílusú kápolnákban és az évente megrendezett zenei versenyeken, az Eisteddfodokon.",
+      "factsAdvanced": [
+        "1886. október 20-án alapították walesi bevándorlók.",
+        "Neve a walesi 'tre' (város) és Lewis Jones nevéből ered.",
+        "Itt található a világhírű Egidio Feruglio Paleontológiai Múzeum.",
+        "A Chubut-völgy legfontosabb kereskedelmi és kulturális városa.",
+        "Itt őrzik a Patagotitan mayorum, a világ legnagyobb dinoszauruszának csontjait.",
+        "Fontos textilipari és mezőgazdasági feldolgozó központ.",
+        "A közeli Gaiman faluval együtt a walesi kultúra őrzője.",
+        "Saját repülőtere fontos csomópont a patagóniai turizmusban."
+      ]
+    },
+    {
+      "id": "ar-u-puerto-madryn-cities-v2",
+      "descriptionAdvanced": "Puerto Madryn az argentin természetvédelem és a tengeri szafari fővárosa, amelyet 1865-ben alapítottak a walesi telepesek első partraszállási helyszíneként. A Golfo Nuevo partján fekvő város világhírét a közeli Valdés-félszigetnek köszönheti, ahová júniustól decemberig utazók ezrei érkeznek a déli simabálnák megfigyelésére. Puerto Madryn nemcsak turisztikai paradicsom, hanem fontos ipari központ is, itt található az ország legnagyobb alumíniumgyára, az Aluar. A város strandjai nyáron pezsgő életet kínálnak, az öböl védett vize pedig a búvárkodás és a tengeri kajakozás ideális helyszíne. A modern kikötő, a tengeri oroszlán kolóniák és a walesi történelmi emlékek különleges, egyszerre természetközeli és kozmopolita hangulatot adnak a városnak.",
+      "factsAdvanced": [
+        "1865. július 28-án alapították a Mimosa hajóval érkező walesiek.",
+        "A világ egyik legjobb helyszíne a déli simabálna megfigyelésére.",
+        "A Valdés-félsziget (UNESCO Világörökség) fő kapuja.",
+        "Itt működik az Aluar, Argentína egyetlen alumíniumkohója.",
+        "Az ország búvárfővárosaként (Capital Nacional del Buceo) ismerik.",
+        "Híres tengeri oroszlánokkal való úszási lehetőségeiről.",
+        "Lakosainak száma az utóbbi évtizedekben robbanásszerűen nőtt.",
+        "A város neve Love Jones-Parry báró walesi birtoka után kapta nevét."
+      ]
+    }
+  ]
+}

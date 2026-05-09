@@ -1,0 +1,81 @@
+{
+  "lang": "hu",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "buxton-cities-v2",
+      "descriptionAdvanced": "Buxton az afrikai felszabadulást követő korszak egyik legfontosabb történelmi helyszíne Guyanában. A közösség egyike volt az első olyan településeknek, amelyeket felszabadított rabszolgák vásároltak meg, ezzel létrehozva a földbirtoklás és az önrendelkezés mintáját a régióban. A Demerara-Mahaica part mentén fekvő Buxton máig büszkén őrzi afrikai gyökereit és kulturális örökségét, miközben modern lakóhelyként is funkcionál. A város a történelmi küzdelmek és a közösségi összefogás szimbóluma, amely ma is aktív szerepet tölt be a régió társadalmi életében. Történelem K7 — a rabszolgaság utáni földbirtoklás jelentősége.",
+      "factsAdvanced": [
+        "Buxton az afrikai felszabadítást követő korszak egyik úttörő települése.",
+        "A területet a felszabadított rabszolgák vásárolták meg önrendelkezés céljából.",
+        "A település ma is az afrikai kulturális örökség egyik központja.",
+        "Buxton a Demerara-Mahaica part menti régióban helyezkedik el.",
+        "A közösségi összefogás és a politikai diskurzus fontos helyszíne.",
+        "A történelem és a modern életmód egyedülálló módon fonódik itt össze."
+      ]
+    },
+    {
+      "id": "victoria-cities-v2",
+      "descriptionAdvanced": "Victoria, Buxtonhoz hasonlóan, történelmileg rendkívül meghatározó szerepet tölt be a felszabadulás utáni guyanai társadalom történetében. Az 1838 után felszabadított rabszolgák által vásárolt földterületen létrehozott közösség a függetlenség és a gazdasági önállóság jelképévé vált a Demerara-Mahaica régióban. Victoria lakói ma is nagy gondot fordítanak történelmi identitásuk ápolására, miközben a város a fővárosi agglomeráció részeként dinamikusan fejlődik. A közösségi örökség és a modern urbanizáció harmonikus egyensúlya teszi a települést egyedülállóvá. Történelem K7 — a közösségi önállóság gyökerei.",
+      "factsAdvanced": [
+        "Victoria a felszabadulás után, 1838-at követően jött létre.",
+        "A földterületet a rabszolgaságból felszabadult közösség vásárolta meg.",
+        "A függetlenség és gazdasági önállóság szimbólumaként tisztelik.",
+        "A Demerara-Mahaica termékeny part menti sávjában fekszik.",
+        "A helyi közösség kiemelten óvja és ápolja történelmi örökségét.",
+        "Modern lakóhelyként része a fővárosi vonzáskörzetnek."
+      ]
+    },
+    {
+      "id": "paradise-cities-v2",
+      "descriptionAdvanced": "Paradise a Demerara-Mahaica part menti régió egyik fontos települése, amely a főváros, Georgetown terjeszkedésével párhuzamosan fejlődött át mezőgazdasági területből egy modern lakó- és kereskedelmi övezetté. A város ma már szervesen kapcsolódik a főváros gazdasági vérkeringéséhez, és számos ingázó családnak nyújt otthont. A hagyományos életmód és az új urbanizációs igények találkozása jól megfigyelhető a településen, amely a környező part menti közösségek modernizációjának egy kiváló példája. Földrajz K5 — a suburbanizáció hatásai a mezőgazdasági térségekre.",
+      "factsAdvanced": [
+        "Paradise a Demerara-Mahaica part menti régióban található.",
+        "Egykori mezőgazdasági területek alakultak át lakó- és kereskedelmi övezetté.",
+        "Georgetown növekedése alapvetően meghatározza a város fejlődését.",
+        "Fontos lakóhely az ingázó családok számára.",
+        "A település a modernizáció és a hagyományos értékek találkozási pontja.",
+        "A helyi infrastruktúra igazodik a növekvő népesség igényeihez."
+      ]
+    },
+    {
+      "id": "haslington-cities-v2",
+      "descriptionAdvanced": "Haslington az atlantikai partvonalon elhelyezkedő település, amely a Demerara-Mahaica régió történetének és változásainak hű tükre. A város gazdasági alapja kezdetben a mezőgazdaság volt, ám az idő múlásával a kereskedelem és a szolgáltatások kerültek előtérbe, különösen az ingázók számának növekedésével. A település lakói számára a közösségi összetartozás és a kulturális sokszínűség a mindennapok részét képezi. Haslington a modern part menti városok tipikus fejlődési útját járja be, ötvözve a vidéki gyökereket a modern urbanizált kényelemmel. Szociológia K4 — a közösség ereje a változó gazdasági környezetben.",
+      "factsAdvanced": [
+        "Haslington a Demerara-Mahaica régió part menti övezetében található.",
+        "Kezdeti mezőgazdasági jellegét felváltotta a kereskedelem és szolgáltatás.",
+        "Az ingázók száma alapvetően befolyásolja a városi fejlődést.",
+        "A kulturális sokszínűség az ott élők mindennapjainak szerves része.",
+        "Tipikus fejlődési utat mutat be a vidéki múltból a modern városi élet felé.",
+        "A közösségi összetartozás fontos tényező a lakók életében."
+      ]
+    },
+    {
+      "id": "plaisance-cities-v2",
+      "descriptionAdvanced": "Plaisance az egyik legrégibb és legmeghatározóbb felszabadítás után alapított település a Demerara-Mahaica régióban, amely közvetlenül a főváros, Georgetown mellett fekszik. A város történelmi hagyományokkal bír a társadalmi ellenállás és a kulturális identitás megőrzése terén, amit a közösség ma is aktívan ápol. Az urbanizáció következtében Plaisance mára egy sűrűn lakott, vibráló elővárossá vált, ahol a történelmi örökség és a modern városi élet szoros egységet alkot. A politikai aktivitás és a közösségi kohézió terén a város kiemelkedő szerepet tölt be Guyanában. Történelem K7 — az afro-guyanai identitás és ellenállás.",
+      "factsAdvanced": [
+        "Plaisance az 1838-at követő időszakban alapított egyik legelső felszabadított település.",
+        "A város történelmi központja az afrikai kulturális örökség megőrzésének.",
+        "Georgetown közvetlen szomszédsága miatt sűrűn lakott előváros.",
+        "Erős társadalmi és politikai öntudattal rendelkező közösség.",
+        "A történelmi hagyományok és a modern urbanitás egyedülálló szimbiózisban élnek.",
+        "Fontos szerepet tölt be az ország társadalmi diskurzusában."
+      ]
+    },
+    {
+      "id": "triumph-cities-v2",
+      "descriptionAdvanced": "Triumph a Demerara-Mahaica régió egyik olyan települése, amely a gyarmati ültetvények világából emelkedett ki, hogy ma már a főváros, Georgetown keleti agglomerációjának szerves része legyen. A város lakói jelentős mértékben járulnak hozzá a főváros kereskedelmi és gazdasági életéhez, ingázásukkal éltetve a régió vérkeringését. A település arculatát a modern lakóépületek mellett a még ma is érezhető közösségi tradíciók jellemzik, amelyek összekötik a múltat a jövővel. Triumph a guyanai part menti urbanizáció egyik látványos példája. Földrajz K5 — a nagyvárosi vonzáskörzetek hatása a kisebb településekre.",
+      "factsAdvanced": [
+        "Triumph stratégiailag fontos helyzetben van a Demerara-Mahaica régióban.",
+        "A település a gyarmati ültetvényvilágból fejlődött modern lakóövezetté.",
+        "Az itt élők munkájukkal jelentősen támogatják Georgetown gazdaságát.",
+        "A város arculata a modern építészet és a közösségi hagyományok ötvözete.",
+        "A régió urbanizációs fejlődésének egyik látványos példája.",
+        "Fontos kapocs a hagyományos és modern városi életmódok között."
+      ]
+    }
+  ]
+}

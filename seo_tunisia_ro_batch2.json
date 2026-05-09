@@ -1,0 +1,45 @@
+{
+  "lang": "ro",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tunis-ebene-relief-v2",
+      "descriptionAdvanced": "Câmpia Tunis, numită și Câmpia Medjerda, reprezintă cea mai importantă câmpie agricolă a Tunisiei. Prin sedimentele râului Medjerda, aici s-a format un sol extrem de fertil care favorizează cultivarea cerealelor, fructelor și legumelor. Relieful este plat până la ușor vălurat, ceea ce a facilitat exploatarea și a permis o densitate mare a populației. Proximitatea față de capitala Tunis face ca regiunea să fie și centrul economic al țării. Solurile aluvionare fertile constituie baza existenței pentru numeroase așezări și exploatații agricole.",
+      "factsAdvanced": [
+        "Regiunea este principala zonă de cultivare a cerealelor din Tunisia.",
+        "Râul Medjerda este cel mai lung și mai bogat în apă râu al țării.",
+        "Relieful a fost modelat de mii de ani de sedimentarea râurilor.",
+        "Câmpia este dens populată și dezvoltată economic.",
+        "Numeroase situri antice se află la marginea acestei câmpii.",
+        "Microclimatul este moderat datorită proximității Mării Mediterane."
+      ]
+    },
+    {
+      "id": "djebel-zaghouan-relief-v2",
+      "descriptionAdvanced": "Djebel Zaghouan este un masiv muntos masiv de calcar care se ridică distinctiv deasupra peisajului înconjurător. Acesta a avut o importanță strategică încă din antichitate, în special datorită izvoarelor sale care alimentau faimosul apeduct din Cartagina. Relieful este caracterizat prin pereți stâncoși abrupți și văi adânci, care atrag drumeții și alpiniștii. Structura geologică prezintă falii complexe care sunt și astăzi subiectul studiilor geologice. Înălțimea și izvoarele de apă au făcut din acest munte o locație indispensabilă pentru infrastructura istorică de apă a Cartaginei.",
+      "factsAdvanced": [
+        "Vârful Djebel Zaghouan se află la aprox. 1.295 de metri.",
+        "Apeductul către Cartagina avea o lungime de aproximativ 132 km.",
+        "Masivul muntos este format din calcar puternic carstificat.",
+        "Localitatea Zaghouan este cunoscută pentru tradiția cultivării trandafirilor.",
+        "Muntele servește ca un turn de apă natural pentru regiune.",
+        "În pereții stâncoși trăiesc specii rare de păsări răpitoare."
+      ]
+    },
+    {
+      "id": "dahar-plateau-relief-v2",
+      "descriptionAdvanced": "Podișul Dahar este o zonă înaltă stâncoasă și fragmentată în sud-estul Tunisiei, care reprezintă o peisaj geologic divers și provocator din punct de vedere climatic. Regiunea este celebră pentru arhitectura sa tradițională berberă, unde locuitorii au săpat peșteri în formațiunile stâncoase moi pentru a se proteja de căldura extremă și de diferențele mari de temperatură. Aceste așezări în peșteri nu sunt doar semnificative istoric, ci și o dovadă arhitecturală a adaptabilității umane la un mediu deșertic arid. Relieful este modelat de canioane adânci și platouri întinse, stâncoase, care formează un peisaj aproape lunar.",
+      "factsAdvanced": [
+        "Podișul formează o barieră naturală între câmpia de coastă și Sahara.",
+        "Regiunea este cunoscută pentru casele sale unice troglodite subterane.",
+        "Roca constă predominant din calcar cretacic și gresie.",
+        "Podișul Dahar este o destinație importantă pentru turismul cultural în Tunisia.",
+        "Regiunea este bogată geologic în fosile din perioada Jurasicului.",
+        "Podișul oferă o vedere uluitoare asupra panoramei deșertului din jur."
+      ]
+    }
+  ]
+}

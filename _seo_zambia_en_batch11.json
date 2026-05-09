@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "limulunga-royal-village-history-v2",
+      "descriptionAdvanced": "Limulunga serves as the winter capital of the Lozi people and is located on higher ground to escape the seasonal flooding of the Zambezi plain. It is the destination of the majestic Kuomboka ceremony, during which the Litunga leads his people in a great procession from the floodplain. In addition to its function as a royal seat, Limulunga houses an important museum that comprehensively documents the history and culture of the Lozi. As a place of refuge and cultural preservation, Limulunga is essential for understanding Lozi-specific traditions in a modern environment and for honoring the Litunga's historical role as the guardian of this unique culture.",
+      "factsAdvanced": [
+        "Winter capital on higher ground",
+        "Destination of the Kuomboka flood ceremony",
+        "Houses a museum of Lozi culture",
+        "Strategic refuge from seasonal flooding",
+        "Important site for cultural preservation",
+        "Center of the Lozi-specific heritage"
+      ]
+    }
+  ]
+}

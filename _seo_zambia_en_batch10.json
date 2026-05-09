@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lealui-royal-village-history-v2",
+      "descriptionAdvanced": "Lealui, situated deep in the Zambezi floodplain, serves as the traditional summer capital of the Litunga, the paramount chief of the Lozi people. The strategic choice of this location is closely linked to the seasonal rhythm of the Zambezi flood, which largely determines the life of the Lozi people. Lealui is especially known as the starting point of the famous Kuomboka ceremony, during which the Litunga leads his people in a solemn procession from the floodplain to the winter capital when the floods rise. This ceremony is a deeply rooted cultural event that impressively demonstrates the close connection between the Lozi Kingdom, the natural environment of the Zambezi basin, and the historical continuity of Lozi traditions.",
+      "factsAdvanced": [
+        "Traditional summer capital of the Litunga",
+        "Located in the Zambezi floodplain (Barotseland)",
+        "Starting point of the annual Kuomboka flood ceremony",
+        "Symbol for the Lozi Kingdom and its rhythm",
+        "Cultural center of the Zambezi floodplain",
+        "Closely linked to hydrological cycles"
+      ]
+    }
+  ]
+}

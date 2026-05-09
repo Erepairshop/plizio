@@ -2,253 +2,428 @@
   "lang": "de",
   "country": "libya",
   "files": [
-    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
-    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
-    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts"
   ],
   "items": [
     {
-      "id": "qasr-bin-ghashir-cities-v2",
-      "descriptionAdvanced": "Qasr bin Ghashir ist eine südliche Vorstadt von Tripolis und war lange Zeit landesweit bekannt als Standort des internationalen Flughafens von Tripolis. Die Stadt ist eine geschäftige Mischung aus städtischen Wohngebieten und landwirtschaftlich genutzten Flächen, die maßgeblich zur Lebensmittelversorgung der Hauptstadt beitragen. Geografie K7 — Städtische Entwicklung.",
+      "id": "jebel-akdar-highlands-relief-v2",
+      "descriptionAdvanced": "Das Hochland des Jebel Akhdar, auch als das 'Grüne Gebirge' bekannt, ist die markanteste Erhebung im Nordosten Libyens. Dieses Kalksteinplateau steigt steil von der Mittelmeerküste auf und erreicht Höhen von fast 900 Metern. Durch die hohen Niederschlagsmengen ist es eine der fruchtbarsten Regionen Nordafrikas und bildet einen scharfen Kontrast zur trockenen Sahara. Die Landschaft ist geprägt von tiefen Schluchten, dichten Wäldern und sanften Hochebenen, die seit der Antike für den Ackerbau genutzt werden. Das Relief beeinflusst maßgeblich das lokale Klima und sorgt für milde Temperaturen. Die strategische Lage und die natürliche Schönheit des Jebel Akhdar machen ihn zu einem ökologischen Rückzugsort und einem bedeutenden Landmark der Kyrenaika.",
       "factsAdvanced": [
-        "Südliche Vorstadt der Hauptstadt Tripolis",
-        "Ehemaliger Standort des internationalen Flughafens",
-        "Wichtiger lokaler Verkehrsknotenpunkt",
-        "Gemischte städtisch-ländliche Struktur",
-        "Austragungsort historischer Friedensverhandlungen",
-        "Bedeutend für die Versorgung von Tripolis"
+        "Markanteste Gebirgsformation im Nordosten Libyens.",
+        "Erreicht eine maximale Höhe von ca. 880 Metern.",
+        "Besteht hauptsächlich aus maritimem Kalkstein.",
+        "Einzige Region Libyens mit dichten, natürlichen Wäldern.",
+        "Bildet eine Barriere für feuchte Mittelmeerluft.",
+        "Wichtiges landwirtschaftliches Zentrum seit der Antike.",
+        "Zerklüftetes Relief mit zahlreichen Wadis und Höhlen.",
+        "Bietet spektakuläre Aussichten auf die Küstenebene."
       ]
     },
     {
-      "id": "tajoura-cities-v2",
-      "descriptionAdvanced": "Tajoura, östlich direkt an Tripolis angrenzend, ist eine bedeutende Küstenstadt mit einer langen, eigenständigen Geschichte. In der Neuzeit wurde Tajoura vor allem durch die Errichtung des libyschen Kernforschungszentrums bekannt, während es historisch eine Hochburg während der osmanischen und spanischen Konflikte war. Geschichte K8 — Moderne Institutionen.",
+      "id": "gargaf-range-relief-v2",
+      "descriptionAdvanced": "Die Gargaf-Bergkette ist ein schroffes und geologisch uraltes Massiv im westlichen Zentrallibyen. Das Relief besteht aus dunklem Sandstein und Urgestein, das über Jahrmillionen durch extreme Winderosion geformt wurde. Die Berge ragen wie eine dunkle Mauer aus den hellen Sandebenen empor und bilden eine natürliche Grenze zwischen verschiedenen Wüstenzonen. Die zerklüfteten Gipfel und weiten Plateaus vermitteln eine raue, fast unberührte Atmosphäre. In den geschützten Tälern finden sich oft Spuren prähistorischer Vegetation und kleine Wasserstellen, die für die Tierwelt überlebenswichtig sind. Für Reisende in der Sahara ist die Gargaf-Range ein wichtiger Orientierungspunkt und ein Beispiel für die majestätische, wenn auch lebensfeindliche Schönheit der libyschen Steinwüste.",
       "factsAdvanced": [
-        "Östliche Nachbarstadt von Tripolis",
-        "Standort des libyschen Kernforschungszentrums",
-        "Historisch wichtiger militärischer Stützpunkt",
-        "Bekannt für seine schönen Küstenabschnitte",
-        "Stark von lokalen Stämmen geprägt",
-        "Wichtige Rolle im Bürgerkrieg 2011"
+        "Uraltes Gebirgsmassiv im Westen Libyens.",
+        "Besteht aus dunklem, erosionsbeständigem Gestein.",
+        "Prägt das Landschaftsbild zwischen Tripolitanien und Fessan.",
+        "Wichtiger Navigationspunkt für Wüstenexpeditionen.",
+        "Zeigt bizarre Felsformationen durch Windeinfluss.",
+        "Beherbergt seltene Fossilien und geologische Schichten.",
+        "Wenig besiedeltes Gebiet von wilder Ursprünglichkeit.",
+        "Strategischer Passweg für transsaharische Routen."
       ]
     },
     {
-      "id": "msallata-cities-v2",
-      "descriptionAdvanced": "Msallata liegt in einer hügeligen Region in Nordwest-Libyen und gilt landesweit als Zentrum der Olivenölproduktion. Die Stadt blickt auf eine stolze Geschichte zurück und beherbergt alte Burgen sowie zahlreiche historische Moscheen, die von ihrer Bedeutung als islamisches Bildungszentrum zeugen. Geschichte K7 — Islamische Bildung.",
+      "id": "jebel-soda-relief-v2",
+      "descriptionAdvanced": "Der Jebel Soda, wörtlich der 'Schwarze Berg', ist ein vulkanisches Massiv im Herzen Libyens. Sein Name leitet sich von dem dunklen Basalt- und Lavagestein ab, das die Oberfläche bedeckt und dem Gebirge ein düsteres, monumentales Aussehen verleiht. Das Relief ist geprägt von erloschenen Vulkankegeln und weiten Lavafeldern, die einen dramatischen Kontrast zum umgebenden gelben Wüstensand bilden. Der Jebel Soda ist ein bedeutendes geologisches Fenster in die vulkanische Vergangenheit Nordafrikas. Trotz der extremen Hitze und Trockenheit bietet das Gebirge Schutz für spezialisierte Tierarten und war historisch ein Orientierungspunkt für Karawanen auf dem Weg nach Süden. Die karge, fast außerirdisch anmutende Landschaft macht ihn zu einem der faszinierendsten Reliefmerkmale der libyschen Sahara.",
       "factsAdvanced": [
-        "Zentrum der libyschen Olivenölproduktion",
-        "Bekannt für historische Burgen und Moscheen",
-        "Ehemaliges Zentrum islamischer Gelehrsamkeit",
-        "Geprägt von hügeliger Landschaft",
-        "Kurze Entfernung zur Mittelmeerküste",
-        "Ort der libyschen Unabhängigkeitserklärung 1918"
+        "Vulkanisches Gebirgsmassiv im Zentrum Libyens.",
+        "Bedeckt von dunklem Basalt- und Lavagestein.",
+        "Höchster Punkt liegt bei etwa 1.200 Metern.",
+        "Eines der größten vulkanischen Gebiete Nordafrikas.",
+        "Wichtiger Wegweiser für alte Karawanenrouten.",
+        "Landschaft aus erstarrten Lavaflüssen und Kratern.",
+        "Extreme Temperaturunterschiede zwischen Tag und Nacht.",
+        "Bietet Lebensraum für seltene Wüstenantilopen."
       ]
     },
     {
-      "id": "al-ajaylat-cities-v2",
-      "descriptionAdvanced": "Al Ajaylat ist eine beschauliche Agrarstadt im Nordwesten Libyens, nahe der Mittelmeerküste gelegen. Die fruchtbaren Böden der Umgebung werden intensiv landwirtschaftlich genutzt, wobei der Schwerpunkt auf dem Anbau von Getreide, Feigen und Oliven liegt, die auf den lokalen Märkten gehandelt werden. Geografie K6 — Ländliche Räume.",
+      "id": "tibesti-foothills-relief-v2",
+      "descriptionAdvanced": "Die Ausläufer des Tibesti-Gebirges im äußersten Süden Libyens stellen den Übergang zu einem der gewaltigsten Gebirgsstöcke der Sahara dar. Das Relief ist hier extrem zerklüftet und von vulkanischer Aktivität sowie tektonischen Hebungen geprägt. Schroffe Felsnadeln, tiefe Canyons und weite Geröllfelder (Serir) dominieren das Bild. Die Ausläufer bilden eine natürliche Festung und sind die Heimat des Tubu-Volkes. In den tiefen Wadis finden sich oft Überreste von Flüssen, die in feuchteren Epochen der Erdgeschichte flossen. Die geologische Dynamik hat hier eine Landschaft von unvergleichlicher Wildheit geschaffen, die zu den entlegensten und am schwersten zugänglichen Gebieten der Erde gehört. Ein Besuch in dieser Region ist eine Reise in die geologische Urzeit des afrikanischen Kontinents.",
       "factsAdvanced": [
-        "Agrarstadt im Nordwesten Libyens",
-        "Fokus auf Getreide- und Olivenanbau",
-        "Liegt südlich der Küstenstadt Sabratha",
-        "Ruhiges lokales Handelszentrum",
-        "Kulturell von arabischen Stämmen dominiert",
-        "Traditionelle Lehmarchitektur in der Altstadt"
+        "Nördliche Ausläufer des höchsten Sahara-Gebirges.",
+        "Extrem zerklüftetes Relief vulkanischen Ursprungs.",
+        "Gelegen im abgelegenen Grenzgebiet zum Tschad.",
+        "Besteht aus dunklem Basalt und kristallinem Schiefer.",
+        "Wichtiges Rückzugsgebiet für die Sahara-Fauna.",
+        "Präsentiert bizarre Erosionsformen und tiefe Schluchten.",
+        "Zentrum prähistorischer Felsbildkunst.",
+        "Eine der trockensten und isoliertesten Regionen weltweit."
       ]
     },
     {
-      "id": "al-qubbah-cities-v2",
-      "descriptionAdvanced": "Al Qubbah ist die größte Stadt zwischen Derna und Al Bayda im malerischen Dschabal al-Achdar in der Kyrenaika. Dank der Höhenlage genießt die Stadt ein kühleres Klima, was sie zu einem wichtigen landwirtschaftlichen Zentrum und einem historisch bedeutsamen Ort in Ostlibyen macht. Geografie K7 — Gebirgsklima.",
+      "id": "jebel-uwaynat-relief-v2",
+      "descriptionAdvanced": "Der Jebel Uwaynat ist ein gewaltiges Granitmassiv im Dreiländereck von Libyen, Ägypten und dem Sudan. Das Relief dieses isolierten Berges ragt majestätisch aus der flachen Wüste empor und erreicht Höhen von über 1.900 Metern. Uwaynat ist berühmt für seine 'Geltas' – natürliche Felsbecken, in denen sich Regenwasser sammelt und die seit Jahrtausenden Leben in dieser hyperariden Region ermöglichen. Die geologische Struktur aus hartem Granit hat der Erosion getrotzt, während der Wind bizarre Skulpturen in das Gestein geschliffen hat. Für Archäologen ist der Jebel Uwaynat von unschätzbarem Wert, da er eine der reichsten Sammlungen von prähistorischen Felsgravuren in der Sahara beherbergt, die von einer Zeit zeugen, als die Wüste noch eine grüne Savanne war.",
       "factsAdvanced": [
-        "Größte Stadt zwischen Derna und Bayda",
-        "Gelegen im Dschabal al-Achdar-Gebirge",
-        "Kühleres Klima im Vergleich zur Küste",
-        "Wichtiges Agrarzentrum der Region",
-        "Historischer Widerstand gegen die italienische Besatzung",
-        "Bedeutender Verkehrsknotenpunkt im Osten"
+        "Massives Granitgebirge im südöstlichen Grenzgebiet.",
+        "Höchster Gipfel Libyens mit ca. 1.934 Metern.",
+        "Bekannt für seine lebenswichtigen Felswasserbecken (Geltas).",
+        "Wichtigster Fundort für prähistorische Felsmalereien.",
+        "Isoliertes ökologisches Refugium in der Toten Wüste.",
+        "Besteht aus uraltem präkambrischem Gestein.",
+        "Wichtiges Ziel für wissenschaftliche Expeditionen.",
+        "Navigationspunkt von kontinentaler Bedeutung."
       ]
     },
     {
-      "id": "badr-cities-v2",
-      "descriptionAdvanced": "Badr ist eine kleine, traditionelle Siedlung in den westlichen Nafusa-Bergen nahe der Grenze zu Tunesien. Die lokale Wirtschaft stützt sich fast ausschließlich auf subsistente Landwirtschaft und Schafzucht in einer sehr trockenen, rauen und von Canyons durchzogenen Gebirgslandschaft. Geografie K6 — Leben im Gebirge.",
+      "id": "jebel-tarhuna-relief-v2",
+      "descriptionAdvanced": "Der Jebel Tarhuna ist ein malerisches Hügel- und Bergland südöstlich von Tripolis, das den Übergang vom Jebel Nafusa zur Küstenebene markiert. Das Relief ist sanfter als das des westlichen Jebel Nafusa und zeichnet sich durch fruchtbare Plateaus und weite Täler aus. Die Region ist seit der Römerzeit für ihre Olivenhaine bekannt, die auf den terrassierten Hängen gedeihen. Die geologische Beschaffenheit aus Kalkstein sorgt für fruchtbare Böden und zahlreiche Quellen, die eine intensive Landwirtschaft ermöglichen. Der Jebel Tarhuna bietet eine abwechslungsreiche Landschaft, die im Frühjahr mit grünem Gras und Wildblumen bedeckt ist. Für die Bewohner der Hauptstadt ist die Region ein wichtiges Naherholungsgebiet und ein Symbol für den landwirtschaftlichen Reichtum Tripolitaniens.",
       "factsAdvanced": [
-        "Siedlung in den Nafusa-Bergen",
-        "Nahe der Grenze zu Tunesien gelegen",
-        "Wirtschaft basiert auf Subsistenzwirtschaft",
-        "Fokus auf Schaf- und Ziegenzucht",
-        "Trockenes und raues Klima",
-        "Ruhige, traditionelle Lebensweise"
+        "Sanft ansteigendes Hügelland südöstlich von Tripolis.",
+        "Teil des größeren Jebel-Nafusa-Gebirgssystems.",
+        "Traditionelles Zentrum des Olivenanbaus seit der Antike.",
+        "Gekennzeichnet durch fruchtbare, rötliche Lehmböden.",
+        "Wichtiger Wasserspeicher für die umliegenden Regionen.",
+        "Bietet ein milderes Klima als die tiefer liegende Ebene.",
+        "Beliebtes Ziel für Wanderungen und Naturbeobachtungen.",
+        "Reich an römischen Ruinen und antiken Bauernhöfen."
       ]
     },
     {
-      "id": "al-magrun-cities-v2",
-      "descriptionAdvanced": "Al Magrun liegt in der nordöstlichen Küstenebene südlich von Bengasi und dient als wichtiges landwirtschaftliches Versorgungszentrum für die Großstadt. Die fruchtbaren Weiden der Region machen die Stadt zu einem zentralen Umschlagplatz für Viehzüchter in der Kyrenaika. Geografie K6 — Versorgung von Metropolen.",
+      "id": "sirte-basin-relief-v2",
+      "descriptionAdvanced": "Das Sirte-Becken ist die geologisch und wirtschaftlich bedeutendste Senke Libyens. Dieses weite Relief erstreckt sich von der Mittelmeerküste weit in das Landesinnere und bildet das Herzstück der libyschen Ölindustrie. Geologisch gesehen handelt es sich um ein komplexes Grabensystem, das über Jahrmillionen mit Sedimenten gefüllt wurde, in denen sich riesige Mengen an Kohlenwasserstoffen ansammelten. Die Oberfläche des Beckens ist überwiegend flach und von Stein- und Kieswüsten (Sarir) sowie vereinzelten Dünenfeldern geprägt. Trotz seiner kargen Erscheinung ist das Relief für die nationale Wirtschaft von unschätzbarem Wert. Das Becken trennt die Regionen Tripolitanien und Kyrenaika und dient als zentraler Korridor für die Infrastruktur des Landes, einschließlich Pipelinenetzen und Transportwegen.",
       "factsAdvanced": [
-        "Liegt in der Küstenebene südlich von Bengasi",
-        "Wichtiges landwirtschaftliches Versorgungszentrum",
-        "Zentraler Viehmarkt für die Kyrenaika",
-        "Umgeben von fruchtbaren Weideflächen",
-        "Milder mediterraner Einfluss",
-        "Direkte Straßenverbindung nach Bengasi"
+        "Größte und wichtigste geologische Senke Libyens.",
+        "Zentrum der nationalen Erdöl- und Erdgasförderung.",
+        "Besteht aus einer Abfolge von Horst- und Grabenstrukturen.",
+        "Landschaftlich geprägt durch weite Sarir-Ebenen.",
+        "Trennt die historischen Provinzen West- und Ostlibyens.",
+        "Reich an maritimem Sedimentgestein und Fossilien.",
+        "Wichtiger Korridor für das nationale Straßennetz.",
+        "Strategisch wichtige Region am Golf von Sidra."
       ]
     },
     {
-      "id": "qandulah-cities-v2",
-      "descriptionAdvanced": "Qandulah ist ein kleines Dorf versteckt im Dschabal al-Achdar, das sich durch seine dichten Wälder und seine unberührte Natur auszeichnet. Die Bewohner leben traditionell von der Imkerei, der Herstellung von lokalem Honig und der Bewirtschaftung kleiner Terrassenfelder an den Berghängen. Geografie K6 — Bergbauern.",
+      "id": "al-haruj-relief-v2",
+      "descriptionAdvanced": "Das Al-Haruj-Massiv ist das größte Vulkanfeld in Nordafrika und liegt im geographischen Zentrum Libyens. Das Relief besteht aus einem gewaltigen Plateau aus dunklem Basalt, das eine Fläche von über 45.000 Quadratkilometern bedeckt. Aus dieser 'Schwarzen Wüste' ragen hunderte von perfekt erhaltenen Vulkankegeln empor, die von erstarrten Lavaflüssen umgeben sind. Die Landschaft wirkt fast wie von einem anderen Planeten und ist aufgrund ihrer extremen Rauheit fast unbewohnt. Geologisch ist Al-Haruj ein faszinierendes Archiv der vulkanischen Aktivität, die vor Millionen von Jahren begann und bis in die jüngere Erdgeschichte andauerte. Das Massiv wirkt als natürliche Wasserscheide und bietet in seinen Kratern und Senken nach seltenen Regenfällen kurzzeitig Lebensraum für eine spezialisierte Wüstenflora.",
       "factsAdvanced": [
-        "Dorf im Dschabal al-Achdar",
-        "Umgrenzt von dichten mediterranen Wäldern",
-        "Zentrum der lokalen Honigproduktion",
-        "Terrassen-Landwirtschaft",
-        "Besitzt unberührte lokale Flora",
-        "Abgelegen von den Hauptverkehrsstraßen"
+        "Größtes vulkanisches Basaltfeld in Nordafrika.",
+        "Umfasst hunderte von Vulkankegeln und Kratern.",
+        "Bedeckt eine Fläche fast so groß wie die Schweiz.",
+        "Dominante dunkle Gesteinsfarbe prägt das Relief.",
+        "Gelegen in der Mitte Libyens südlich des Sirte-Beckens.",
+        "Landschaft aus scharfen Lavasteinen und Aschefeldern.",
+        "Wenig erforschtes und extrem unwegsames Gelände.",
+        "Eindrucksvolles Beispiel für intrakontinentalen Vulkanismus."
       ]
     },
     {
-      "id": "port-of-tripoli-economic-v2",
-      "descriptionAdvanced": "Der Hafen von Tripolis ist der bedeutendste Seehafen des Landes und dient als wichtigstes Tor für den Import von Konsumgütern nach Libyen. Er liegt strategisch günstig im Herzen der Hauptstadt und wickelt einen Großteil des nicht-ölbezogenen maritimen Handels Libyens mit Europa ab. Geografie K8 — Maritime Wirtschaft.",
+      "id": "al-hamada-al-hamra-relief-v2",
+      "descriptionAdvanced": "Die Al-Hamada al-Hamra, die 'Rote Steinwüste', ist ein monumentales Plateau im Westen Libyens, das zu den flachsten und trockensten Landschaften der Erde gehört. Das Relief ist eine riesige Tafel aus Kalk- und Sandstein, die mit einer dünnen Schicht aus rötlichem Kies und Eisenoxiden bedeckt ist. Diese Hamada erstreckt sich über tausende Quadratkilometer ohne nennenswerte Erhebungen oder Vegetation. Sie bildet eine fast unüberwindbare Barriere zwischen der Mittelmeerküste und dem südlichen Fessan. Geologisch ist das Plateau sehr stabil und verbirgt unter seiner Oberfläche riesige Aquifere mit fossilem Wasser. Für den Betrachter bietet die Al-Hamada al-Hamra eine Erfahrung von absoluter Weite und Leere, die die gewaltigen Dimensionen der Sahara auf eindrucksvolle Weise verdeutlicht.",
       "factsAdvanced": [
-        "Wichtigster Handelshafen Libyens",
-        "Zentraler Knotenpunkt für den Import",
-        "Liegt im Herzen von Tripolis",
-        "Wickelt hauptsächlich Stückgut ab",
-        "Durch Molen geschütztes Hafenbecken",
-        "Zentral für die libysche Wirtschaft"
+        "Riesige, flache Kalksteintafel im Westen Libyens.",
+        "Gekennzeichnet durch seine markante rötliche Farbe.",
+        "Fast vollständige Abwesenheit von Landmarken.",
+        "Eines der trockensten Gebiete der gesamten Sahara.",
+        "Wichtiges Einzugsgebiet für fossile Grundwasservorkommen.",
+        "Früher gefürchtetes Hindernis für den Karawanenhandel.",
+        "Zeigt spektakuläre Lichtphänomene durch die flache Ebene.",
+        "Besteht aus geologisch alten, horizontalen Sedimentschichten."
       ]
     },
     {
-      "id": "port-of-benghazi-economic-v2",
-      "descriptionAdvanced": "Der Hafen von Bengasi ist der zweitgrößte Seehafen Libyens und das unumstrittene wirtschaftliche Zentrum der östlichen Kyrenaika-Region. Nach starken Beschädigungen während der Konflikte wurde der Hafen wiedereröffnet und ist heute entscheidend für die Versorgung Ostlibyens mit Lebensmitteln und Baumaterialien. Geografie K8 — Infrastruktur.",
+      "id": "jebel-nafusa-relief-v2",
+      "descriptionAdvanced": "Der Jebel Nafusa ist ein imposantes Schichtstufen-Gebirge im Nordwesten Libyens, das wie eine natürliche Festung aus der Küstenebene aufragt. Das Relief ist geprägt durch eine steile Abbruchkante nach Norden und ein sanftes Abfallen nach Süden in Richtung der Hamada. Tiefe Schluchten und steile Hänge prägen das Bild dieser zerklüfteten Kalksteinlandschaft. Der Jebel Nafusa wirkt als bedeutende Barriere für Wettersysteme und ermöglicht durch seine Quellen und fruchtbaren Hochebenen seit Jahrtausenden eine sesshafte Besiedlung durch das Amazigh-Volk. Die Architektur der Bergdörfer, mit ihren in den Fels gehauenen Häusern und Qasrs, ist perfekt in das zerklüftete Relief integriert. Es ist eine Region von herber Schönheit und großer strategischer Bedeutung für den gesamten libyschen Nordwesten.",
       "factsAdvanced": [
-        "Zweitgrößter Hafen in Libyen",
-        "Wichtigster Hafen für die Region Kyrenaika",
-        "Wurde nach starken Kriegsschäden wiedereröffnet",
-        "Zentral für den Import in Ostlibyen",
-        "Verfügt über moderne Containerterminals",
-        "Historisch ein alter griechischer Hafen"
+        "Markante Schichtstufe im Nordwesten Libyens.",
+        "Erreicht Höhen von bis zu 980 Metern.",
+        "Besteht hauptsächlich aus Kalkstein und Dolomit.",
+        "Steile Abbruchkante bietet Schutz und strategische Vorteile.",
+        "Zentrum des Terrassenfeldbaus und der Olivenkultur.",
+        "Beherbergt zahlreiche natürliche Quellen und Wadis.",
+        "Wichtige Klimascheide zwischen Küste und Wüste.",
+        "Kulturelles und geographisches Herzland der Berber."
       ]
     },
     {
-      "id": "misrata-port-economic-v2",
-      "descriptionAdvanced": "Die Freihandelszone und der Hafen von Misrata (Qasr Ahmad) bilden das leistungsstärkste und modernste maritime Logistikzentrum in Libyen. Dank seiner Ausweisung als Freihandelszone zieht der Tiefwasserhafen zahlreiche internationale Investoren an und schlägt die größte Menge an Containern landesweit um. Geografie K8 — Globaler Handel.",
+      "id": "jebel-aswad-relief-v2",
+      "descriptionAdvanced": "Der Jebel Aswad, oder 'Schwarzer Berg', ist ein markantes vulkanisches Relief im zentrallibyschen Teil der Sahara. Er zeichnet sich durch seine dunkle, fast bedrohliche Farbe aus, die durch vulkanisches Gestein und Verwitterungskrusten entsteht. Das Relief besteht aus einer Reihe von isolierten Hügeln und Plateaus, die aus dem hellen Wüstensand emporragen und als wichtige Landmarken für Reisende dienen. Geologisch ist der Jebel Aswad eng mit dem größeren Al-Haruj-Vulkanfeld verwandt und zeugt von tektonischen Spannungen im Inneren des afrikanischen Kontinents. In den windgeschützten Nischen des Gebirges finden sich oft Spuren prähistorischen Lebens und Artefakte, die darauf hindeuten, dass diese Region in feuchteren Zeiten ein wichtiger Aufenthaltsort für Menschen war. Heute ist es ein Ort der Stille und der geologischen Kontraste.",
       "factsAdvanced": [
-        "Größter Containerhafen Libyens",
-        "Beheimatet die erste libysche Freihandelszone",
-        "Modernstes Logistikzentrum des Landes",
-        "Tiefe Gewässer für große Frachtschiffe",
-        "Verbund mit der Stahlindustrie von Misrata",
-        "Starkes Wachstum nach 2011"
+        "Dunkles Gesteinsmassiv in der Zentralsahara.",
+        "Besteht aus Basalt und eisenreichen Sedimenten.",
+        "Markanter Orientierungspunkt in der flachen Wüste.",
+        "Geologisch verwandt mit den Al-Haruj-Vulkankomplexen.",
+        "Bietet Schatten und Schutz in der extremen Hitze.",
+        "Ort mit reicher prähistorischer Fundgeschichte.",
+        "Beeindruckender Kontrast zwischen schwarzem Fels und gelbem Sand.",
+        "Teil der vulkanischen Kette Libyens."
       ]
     },
     {
-      "id": "al-khums-port-economic-v2",
-      "descriptionAdvanced": "Der Hafen von Al Khums, östlich von Tripolis gelegen, hat sich zu einem der wichtigsten Häfen für Stückgut und Fahrzeugimporte in Libyen entwickelt. Seine strategische Lage und die geringere Auslastung im Vergleich zu Tripolis machen ihn zu einer beliebten Alternative für viele internationale Reedereien. Geografie K8 — Logistik.",
+      "id": "wadi-al-kuf-relief-v2",
+      "descriptionAdvanced": "Das Wadi al-Kuf ist eines der spektakulärsten und grünsten Täler Libyens, gelegen im Herzen des Jebel Akhdar. Dieses tief in den Kalkstein eingeschnittene Tal ist berühmt für seine dichten Wälder und seine reiche Flora, die es zu einer ökologischen Oase macht. Das Relief ist geprägt von steilen Felswänden und einer üppigen Talsohle, durch die nach Regenfällen Wasser strömt. Berühmt ist das Wadi auch für die Wadi-al-Kuf-Brücke, einst die höchste Schrägseilbrücke Afrikas, die das tiefe Tal in schwindelerregender Höhe überspannt. Das Wadi bietet Lebensraum für zahlreiche seltene Tier- und Pflanzenarten, darunter Hyänen und seltene Orchideen. Es ist ein Symbol für die unerwartete biologische Vielfalt Libyens und ein Ort von großer landschaftlicher Schönheit, der Besucher durch seine Wildheit und Frische beeindruckt.",
       "factsAdvanced": [
-        "Wichtiger Hafen für Auto- und Fahrzeugimporte",
-        "Liegt östlich von Tripolis",
-        "Beliebte Alternative zum Hafen der Hauptstadt",
-        "Dient als Stützpunkt der Küstenwache",
-        "Wichtig für den Export lokaler Agrargüter",
-        "Kontinuierliche Erweiterung der Kapazitäten"
+        "Tiefstes und waldreichstes Tal im Jebel Akhdar.",
+        "Standort der berühmten Wadi-al-Kuf-Brücke.",
+        "Einzigartiges Ökosystem mit mediterraner Vegetation.",
+        "Wichtiges Naturschutzgebiet für seltene Fauna.",
+        "Besteht aus steilen Kalksteinfelsen und Höhlensystemen.",
+        "Wesentlicher Wasserspeicher für den Nordosten.",
+        "Beliebtes Ziel für Wanderer und Naturliebhaber.",
+        "Historischer Rückzugsort während verschiedener Konflikte."
       ]
     },
     {
-      "id": "tobruk-port-economic-v2",
-      "descriptionAdvanced": "Der Hafen von Tobruk ist ein hervorragend geschützter natürlicher Tiefwasserhafen tief im Osten Libyens nahe der ägyptischen Grenze. Er spielte in der Geschichte eine entscheidende militärische Rolle und ist heute eine wichtige Route für den Handel mit Ägypten und den Export von Erdöl. Geschichte K8 — Geostrategie.",
+      "id": "wadi-al-ajal-relief-v2",
+      "descriptionAdvanced": "Das Wadi al-Ajal ist ein beeindruckendes, trockenes Tal im südwestlichen Libyen, das sich zwischen dem Messak-Plateau und dem Ubari-Sandmeer erstreckt. Dieses Relief ist von enormer historischer und ökologischer Bedeutung, da es als Siedlungsachse für das antike Garamanten-Reich diente. Das Tal ist eine Senke, die durch unterirdische Wasserreservoirs gespeist wird, was den Anbau von Dattelpalmen ermöglicht. Das Relief bietet eine dramatische Kulisse: Auf der einen Seite die flachen, schwarzen Felsen des Messak-Plateaus und auf der anderen Seite die gewaltigen orangefarbenen Dünen der Sahara. Das Wadi al-Ajal ist reich an archäologischen Schätzen, darunter antike Gräber und Bewässerungskanäle, die zeigen, wie Menschen seit Jahrtausenden dieses einzigartige Relief nutzen, um in der Wüste zu überleben.",
       "factsAdvanced": [
-        "Einer der besten Naturhäfen Nordafrikas",
-        "Tiefwasserhafen nahe der ägyptischen Grenze",
-        "Historische Bedeutung im Zweiten Weltkrieg",
-        "Wichtig für den regionalen Handel",
-        "Wird teilweise für Ölexporte genutzt",
-        "Starker Ausbau der Passagierterminals"
+        "Historisches Oasental im südwestlichen Fessan.",
+        "Grenzt direkt an das Ubari-Sandmeer an.",
+        "Einstiges Machtzentrum des Garamanten-Reiches.",
+        "Geprägt durch dichte Dattelpalmenhaine.",
+        "Wichtiger Standort für archäologische Forschung.",
+        "Verbindung zwischen den Sanddünen und Steinplateaus.",
+        "Zentrum der traditionellen Fessan-Kultur.",
+        "Sichert die Wasserversorgung durch fossile Aquifere."
       ]
     },
     {
-      "id": "derna-port-economic-v2",
-      "descriptionAdvanced": "Der Hafen von Derna an der nordöstlichen Küste war lange ein wichtiges lokales maritimes Zentrum, wurde aber während der verheerenden Überschwemmungen im September 2023 schwer beschädigt. Er war traditionell wichtig für die lokale Fischerei und den regionalen Warenaustausch im Dschabal al-Achdar. Geografie K8 — Infrastruktur nach Katastrophen.",
+      "id": "wadi-zamzam-relief-v2",
+      "descriptionAdvanced": "Das Wadi Zamzam ist ein bedeutendes Trockental im nordwestlichen Libyen, das sich von den Ausläufern des Jebel Nafusa in Richtung des Sirte-Beckens erstreckt. Das Relief dieses Wadis ist geprägt durch weite Ebenen und sanfte Hänge, die während der Regenzeit Feuchtigkeit speichern. Historisch war das Wadi Zamzam ein wichtiger landwirtschaftlicher Grenzbereich des Römischen Reiches, was durch zahlreiche Überreste befestigter Bauernhöfe (Centenaria) belegt ist. Das Relief dient heute als Weidegrund für Beduinenstämme und ist ein wichtiges Element im hydrologischen System der Region. Die karge Schönheit des Wadis, mit seinen vereinzelten Akazien und den markanten Erosionsspuren im Kalkstein, macht es zu einem charakteristischen Beispiel für die semiariden Landschaften Nordlibyens, die den Übergang zur Wüste markieren.",
       "factsAdvanced": [
-        "Küstenhafen am Fuße des Dschabal al-Achdar",
-        "Schwer beschädigt durch die Überschwemmungen 2023",
-        "Traditionell wichtig für die Fischerei",
-        "Import-Tor für die lokale Region",
-        "Langer Wiederaufbau-Prozess",
-        "Malerische Lage direkt am Mittelmeer"
+        "Großes Trockental im Nordwesten Libyens.",
+        "Historische Grenzregion (Limes Tripolitanus) der Römer.",
+        "Fundort zahlreicher antiker befestigter Bauernhöfe.",
+        "Wichtiger ökologischer Korridor für Wüstenfauna.",
+        "Traditionelles Wandergebiet für nomadische Hirten.",
+        "Präsentiert typische Erosionsformen der Steppenzone.",
+        "Hydrologisch wichtig für die Grundwasserneubildung.",
+        "Symbol für die antike Wüstenlandwirtschaft."
       ]
     },
     {
-      "id": "ras-lanuf-port-economic-v2",
-      "descriptionAdvanced": "Der Ölhafen von Ras Lanuf am Golf von Sidra ist eines der Herzstücke der libyschen Erdölindustrie. Zusammen mit seiner riesigen Raffinerie und dem petrochemischen Komplex ist er entscheidend für den Export großer Mengen Rohöl in den Mittelmeerraum und auf internationale Märkte. Geografie K8 — Energiewirtschaft.",
+      "id": "wadi-mathendous-relief-v2",
+      "descriptionAdvanced": "Das Wadi Mathendous ist eine der weltweit bedeutendsten prähistorischen Fundstätten und liegt im Messak-Plateau im Südwesten Libyens. Das Relief des Wadis besteht aus tief eingeschnittenen Sandsteinwänden, die in einer heute hyperariden Umgebung liegen. Berühmt ist das Wadi für seine spektakulären Felsgravuren, die Tiere wie Elefanten, Giraffen und Krokodile darstellen und beweisen, dass diese Region vor tausenden von Jahren wasserreich und grün war. Die schroffen Felsen und der sandige Talboden bilden ein natürliches Museum unter freiem Himmel. Das Relief bietet Schutz vor den extremen Wüstenwinden und hat so die empfindlichen Kunstwerke über Jahrtausende konserviert. Für Besucher ist das Wadi Mathendous ein magischer Ort, an dem die tiefe Geschichte der Sahara und die Veränderung des Erreliefs unmittelbar greifbar werden.",
       "factsAdvanced": [
-        "Bedeutender Öl-Exporthafen",
-        "Liegt am Golf von Sidra",
-        "Verbunden mit dem Ras Lanuf Petrochemie-Komplex",
-        "Verfügt über riesige Öltanks",
-        "Endpunkt wichtiger Öl-Pipelines aus dem Süden",
-        "Strategisches Ziel in jüngsten Konflikten"
+        "Weltberühmte Fundstätte prähistorischer Felskunst.",
+        "Tiefes Sandsteintal im Messak-Settafet-Plateau.",
+        "Gravuren zeigen eine einstige tropische Fauna.",
+        "Wichtiges Zeugnis für den Klimawandel in der Sahara.",
+        "Spektakuläre Reliefgeometrie mit hohen Felswänden.",
+        "Gelegen in der entlegenen Wüste des Fessan.",
+        "Schutzraum für uralte kulturelle Überlieferungen.",
+        "Wissenschaftlich bedeutend für die Archäologie Afrikas."
       ]
     },
     {
-      "id": "marsa-el-brega-port-economic-v2",
-      "descriptionAdvanced": "Der Hafen von Marsa el Brega ist ein riesiges industrielles und maritimes Zentrum am Golf von Sidra. Er dient als primärer Exporthafen für Flüssigerdgas (LNG), Ammoniak und andere petrochemische Produkte, die in den Anlagen direkt an der Küste verarbeitet werden. Geografie K8 — Chemische Industrie.",
+      "id": "tripoli-zoo-life-v2",
+      "descriptionAdvanced": "Der Zoo von Tripolis ist eine grüne Oase im Herzen der libyschen Hauptstadt und ein beliebter Ort für Familienausflüge und Freizeitgestaltung. Inmitten des urbanen Trubels bietet der Zoo weitläufige Parkanlagen und Gehege, in denen eine Vielzahl einheimischer und exotischer Tiere zu sehen ist. Er dient nicht nur der Unterhaltung, sondern spielt auch eine wichtige Rolle bei der Umwelterziehung der jungen Generation. Die schattigen Alleen und Picknickplätze machen den Zoo zu einem wichtigen sozialen Treffpunkt, besonders an den Wochenenden. Trotz der Herausforderungen durch die politische Lage wird der Zoo als Symbol für Normalität und Lebensqualität in Tripolis geschätzt. Er ist ein wichtiger Teil des städtischen Ökosystems und bietet den Bewohnern einen wertvollen Raum für Erholung und Naturerlebnis direkt vor ihrer Haustür.",
       "factsAdvanced": [
-        "Haupt-Exporthafen für Flüssigerdgas (LNG)",
-        "Zentrum der libyschen Petrochemie",
-        "Exportiert Ammoniak und Urea",
-        "Verfügt über einen eigenen Flughafen",
-        "Wichtiger Endpunkt für Gas-Pipelines",
-        "Erbaut in den 1960er Jahren"
+        "Größter Zoologischer Garten in Libyen.",
+        "Wichtiger Erholungsort für die Bevölkerung von Tripolis.",
+        "Beherbergt afrikanische Wildtiere wie Löwen und Gazellen.",
+        "Zentrum für Umwelterziehung und Artenschutz.",
+        "Verfügt über großzügige Park- und Spielplatzflächen.",
+        "Beliebtes Ziel für Schulausflüge und Familienfeste.",
+        "Grüne Lunge inmitten der dicht besiedelten Hauptstadt.",
+        "Ort der Begegnung und des sozialen Austauschs."
       ]
     },
     {
-      "id": "zueitina-oil-terminal-economic-v2",
-      "descriptionAdvanced": "Das Zueitina Oil Terminal liegt südlich von Bengasi und ist eine kritische Anlage für den Export von libyschem Rohöl und Gas. Das Terminal ist über ein weites Pipelinenetz mit den Ölfeldern der Wüste verbunden und verlädt das Öl direkt auf Supertanker auf dem Mittelmeer. Geografie K8 — Erdölexport.",
+      "id": "benghazi-zoo-life-v2",
+      "descriptionAdvanced": "Der Zoo von Bengasi, oft als 'Il Bosco' bekannt, ist eine traditionsreiche Institution und ein Wahrzeichen für das soziale Leben in Ostlibyen. Der Name verweist auf seinen parkähnlichen Charakter mit altem Baumbestand, der im heißen Sommer kühlen Schatten spendet. Nach umfangreichen Renovierungen wurde der Zoo zu einem modernen Freizeitpark ausgebaut, der neben Tiergehegen auch Attraktionen für Kinder und Cafés bietet. Er ist das wichtigste Ziel für Familien in Bengasi und ein Symbol für den Wiederaufbauwillen der Stadt. Die Anlage beherbergt viele Arten, die in Nordafrika heimisch sind, und trägt zur Sensibilisierung für die lokale Fauna bei. Ein Besuch im 'Il Bosco' gehört für viele Bewohner zum festen Bestandteil der lokalen Kultur und bietet eine willkommene Auszeit vom geschäftigen Alltag der Hafenmetropole.",
       "factsAdvanced": [
-        "Wichtiges Öl-Export-Terminal",
-        "Liegt südlich der Großstadt Bengasi",
-        "Verbunden mit Offshore-Verladestationen",
-        "Endpunkt zahlreicher Öl- und Gaspipelines",
-        "Bedeutender Arbeitgeber in der Region",
-        "Häufiges Ziel von Blockaden während Protesten"
+        "Bekanntester Freizeit- und Tierpark in Bengasi.",
+        "Traditioneller Name 'Il Bosco' bedeutet 'Der Wald'.",
+        "Wichtiger Treffpunkt für Familien im Osten Libyens.",
+        "Wurde als Zeichen der Erholung der Stadt modernisiert.",
+        "Kombiniert Tierbeobachtung mit Freizeitattraktionen.",
+        "Bietet Schatten durch dichten, alten Baumbestand.",
+        "Symbol für die Lebensfreude der Bewohner Bengasis.",
+        "Zentraler Bestandteil des städtischen Grünzuges."
       ]
     },
     {
-      "id": "zawiya-port-economic-v2",
-      "descriptionAdvanced": "Der Hafen von Zawiya ist direkt an die größte noch funktionierende Ölraffinerie im Westen Libyens angeschlossen. Er ist von strategischer Bedeutung für den Export raffinierter Erdölprodukte und den Import von Treibstoffen, die für den Betrieb der Hauptstadt Tripolis unerlässlich sind. Geografie K8 — Energieversorgung.",
+      "id": "misrata-park-life-v2",
+      "descriptionAdvanced": "Der Stadtpark von Misrata ist ein modernes Beispiel für städtische Lebensqualität und grünes Engagement in einer der wichtigsten Handelsstädte Libyens. Die weitläufige Anlage bietet gepflegte Rasenflächen, farbenfrohe Blumenbeete und schattige Pavillons, die zum Verweilen einladen. Als Treffpunkt für Jung und Alt spiegelt der Park den Wohlstand und die Ordnung Misratas wider. Hier finden regelmäßig kulturelle Veranstaltungen, kleine Märkte und Sportaktivitäten statt, was den Park zum sozialen Herzstück der Gemeinde macht. Die moderne Gestaltung mit Spielbereichen für Kinder und Brunnenanlagen macht ihn besonders attraktiv für Familien. In einer Stadt, die stark durch Industrie und Handel geprägt ist, bietet der Misrata Park einen unverzichtbaren Ausgleich und zeigt das Bestreben der Bürger, ihre Stadt lebenswerter und grüner zu gestalten.",
       "factsAdvanced": [
-        "Direkt an die Zawiya-Ölraffinerie angeschlossen",
-        "Wichtig für den Export raffinierter Produkte",
-        "Sichert die Energieversorgung für Tripolis",
-        "Verfügt über mehrere Offshore-Ladebojen",
-        "Liegt nur 45 km westlich von Tripolis",
-        "Kritische nationale Infrastruktur"
+        "Moderner Stadtpark im Zentrum von Misrata.",
+        "Wichtigster öffentlicher Raum für Erholung und Sport.",
+        "Vorbild für städtische Begrünungsprojekte in Libyen.",
+        "Gastgeber für lokale Kulturfestivals und Events.",
+        "Sicherer und gepflegter Raum für Familien und Kinder.",
+        "Bietet moderne Brunnen und Lichtinstallationen.",
+        "Symbol für den zivilen Fortschritt der Stadt Misrata.",
+        "Oase der Ruhe inmitten des geschäftigen Handelszentrums."
       ]
     },
     {
-      "id": "mellitah-port-economic-v2",
-      "descriptionAdvanced": "Der Mellitah Oil and Gas Port, nahe der Stadt Zuwara, ist ein gigantischer Energiekomplex. Er fungiert als Ausgangspunkt für die Greenstream-Pipeline, die libysches Erdgas durch das Mittelmeer direkt nach Italien und somit in den europäischen Markt leitet. Geografie K8 — Internationale Energie-Pipelines.",
+      "id": "djebel-nafusa-agri-life-v2",
+      "descriptionAdvanced": "Das landwirtschaftliche Leben im Jebel Nafusa ist geprägt von jahrtausendealten Traditionen der Berber-Bevölkerung. In dieser rauen Gebirgsregion im Nordwesten Libyens haben die Menschen ausgeklügelte Methoden entwickelt, um den kargen Boden zu nutzen. Berühmt ist der Jebel Nafusa für sein hochwertiges Olivenöl, das in traditionellen Steinmühlen gepresst wird. Terrassenfelder an den Hängen ermöglichen den Anbau von Feigen, Mandeln und Getreide, während die Hochflächen als Weideland für Schafe und Ziegen dienen. Das Leben hier ist eng mit den Jahreszeiten und der Verfügbarkeit von Wasser aus Quellen und Zisternen verknüpft. Die Landwirtschaft ist nicht nur Lebensgrundlage, sondern identitätsstiftend für die Amazigh-Kultur und zeigt eine beeindruckende Harmonie zwischen Mensch und Natur in einer herausfordernden Umgebung.",
       "factsAdvanced": [
-        "Ausgangspunkt der Greenstream-Gaspipeline",
-        "Exportiert Erdgas direkt nach Italien (Europa)",
-        "Joint Venture zwischen NOC und Eni",
-        "Behandelt Gas aus Offshore- und Onshore-Feldern",
-        "Riesiger petrochemischer Komplex an der Küste",
-        "Eine der wichtigsten Einnahmequellen Libyens"
+        "Kernregion der traditionellen berberischen Landwirtschaft.",
+        "Weltbekannt für hochwertiges, biologisches Olivenöl.",
+        "Nutzt antike Terrassensysteme zur Wassereinsparung.",
+        "Anbau von Feigen, Granatäpfeln und Mandeln.",
+        "Wichtiger Standort für die Schaf- und Ziegenzucht.",
+        "Bewahrung uralter landwirtschaftlicher Erntetechniken.",
+        "Symbol für die kulturelle Eigenständigkeit der Amazigh.",
+        "Basis für die lokale Lebensmittelproduktion in Westlibyen."
       ]
     },
     {
-      "id": "es-sider-terminal-economic-v2",
-      "descriptionAdvanced": "Das Ölterminal Es Sider (Sidra) ist der historisch größte und kapazitätsstärkste Erdöl-Exporthafen Libyens. Der riesige Hafen liegt strategisch günstig am Mittelmeer und dient als Nadelöhr für das Rohöl, das in den ergiebigen Feldern der Waha Oil Company tief im Sirte-Becken gefördert wird. Geografie K8 — Rohstoffmärkte.",
+      "id": "gadamis-oasis-life-v2",
+      "descriptionAdvanced": "Das Leben in der Oase Ghadames, der 'Perle der Wüste', ist ein Meisterwerk der Anpassung an die Sahara. Die historische Altstadt, ein UNESCO-Weltkulturerbe, ist so konzipiert, dass sie maximalen Schutz vor der extremen Hitze bietet. Das tägliche Leben spielt sich in einem Labyrinth aus überdachten Gassen ab, wobei die Dächer traditionell den Frauen vorbehalten sind. Das ausgeklügelte Bewässerungssystem speist üppige Gärten, in denen Datteln, Gemüse und Obst unter dem schützenden Dach von Palmen wachsen. Die Bewohner pflegen eine reiche Kultur aus Musik, Handwerk und Gastfreundschaft, die tief in der transsaharischen Geschichte verwurzelt ist. Ghadames ist nicht nur ein Ort der Architektur, sondern ein lebendiges Beispiel für eine nachhaltige Oasengesellschaft, die über Jahrhunderte im Einklang mit den Ressourcen der Wüste überlebt hat.",
       "factsAdvanced": [
-        "Größtes Öl-Export-Terminal in Libyen",
-        "Liegt zentral am Golf von Sidra",
-        "Exportiert Öl aus dem reichen Sirte-Becken",
-        "Betrieben von der Waha Oil Company",
-        "Riesige Speicherkapazitäten (Tanklager)",
-        "Erlebte schwere Zerstörungen während des Bürgerkriegs"
+        "UNESCO-Weltkulturerbe und 'Perle der Wüste'.",
+        "Einzigartige Architektur zur natürlichen Kühlung.",
+        "Traditionelle Gesellschaft mit strenger räumlicher Trennung.",
+        "Hochentwickeltes antikes Wasserverteilungssystem.",
+        "Berühmt für bunt bemalte Innenräume und Handwerk.",
+        "Zentrum der transsaharischen Karawanenkultur.",
+        "Autarke Oasenwirtschaft mit Dattel- und Gemüseanbau.",
+        "Symbol für die Widerstandskraft der Wüstenbewohner."
+      ]
+    },
+    {
+      "id": "kufra-orchard-life-v2",
+      "descriptionAdvanced": "Das Leben in den Obstgärten von Kufra ist ein modernes Wunder inmitten einer der trockensten Regionen der Erde. Dank der riesigen fossilen Wasservorkommen tief unter der Sahara wurden im Südosten Libyens gigantische Plantagen angelegt. Hier wachsen nicht nur Millionen von Dattelpalmen, sondern auch Obstbäume und Getreide in einer sonst völlig lebensfeindlichen Umgebung. Die Menschen in Kufra haben eine tiefe Verbindung zu ihrem Land und arbeiten mit modernster Bewässerungstechnik, um die 'Wüste ergrünen' zu lassen. Das Leben in der Oase ist geprägt von der Isolation und der stolzen Tradition der lokalen Stämme. Die Obstgärten sind das wirtschaftliche Rückgrat der Region und sichern die Versorgung von weit entfernten Märkten an der Küste. Kufra steht exemplarisch für den menschlichen Mut, die Grenzen der bewohnbaren Welt durch Technologie zu erweitern.",
+      "factsAdvanced": [
+        "Gigantische Oasenplantagen im fernen Südosten Libyens.",
+        "Nutzt fossiles Wasser aus dem Nubischen Sandstein-Aquifer.",
+        "Wichtigstes Zentrum für Datteln und Obst in der Sahara.",
+        "Symbol für die landwirtschaftliche Expansion in der Wüste.",
+        "Lebensgrundlage für die isolierten Gemeinschaften im Süden.",
+        "Einsatz von Center-Pivot-Bewässerungssystemen.",
+        "Kritisches Projekt für die nationale Ernährungssicherheit.",
+        "Landschaft von grünen Kreisen, sichtbar aus dem Weltraum."
+      ]
+    },
+    {
+      "id": "zawia-farm-life-v2",
+      "descriptionAdvanced": "Das landwirtschaftliche Leben in der Region Zawiya profitiert von der fruchtbaren Küstenebene und der Nähe zu den Absatzmärkten der Hauptstadt Tripolis. Die Farmen hier sind bekannt für ihren intensiven Gemüseanbau, Zitrusfrüchte und Viehzucht. Viele Betriebe sind Familienunternehmen, die moderne Technik mit traditionellem Wissen verbinden. Die Verfügbarkeit von Grundwasser und das mediterrane Klima ermöglichen mehrere Ernten pro Jahr. Die Farmen in Zawiya spielen eine entscheidende Rolle bei der täglichen Versorgung der Bevölkerung mit frischen Lebensmitteln wie Tomaten, Paprika und Milchprodukten. Das Leben auf dem Land ist hier eng mit dem Rhythmus der Märkte verknüpft und bildet einen stabilen Gegenpol zur industriell geprägten Stadt Zawiya. Es repräsentiert die Vitalität und die landwirtschaftliche Produktivität des libyschen Westens.",
+      "factsAdvanced": [
+        "Bedeutendes Agrargebiet im fruchtbaren Nordwesten.",
+        "Hauptlieferant für frisches Gemüse und Obst für Tripolis.",
+        "Bekannt für seine ertragreichen Zitrusplantagen.",
+        "Moderne Farmen mit Schwerpunkt auf Vieh- und Geflügelzucht.",
+        "Wichtiger Wirtschaftsfaktor für die Region Zawiya.",
+        "Profitiert von günstigen klimatischen Küstenbedingungen.",
+        "Zentrum für die lokale Nahrungsmittelverarbeitung.",
+        "Sichert tausende Arbeitsplätze in der Landwirtschaft."
+      ]
+    },
+    {
+      "id": "gharyan-nursery-life-v2",
+      "descriptionAdvanced": "Das Leben in den Baumschulen und Gärtnereien von Gharyan ist geprägt von der besonderen Lage der Stadt am Rande des Jebel Nafusa. Aufgrund der kühleren Temperaturen und der höheren Luftfeuchtigkeit im Vergleich zur Tiefebene hat sich Gharyan zu einem Zentrum für die Pflanzenzucht und Aufforstung entwickelt. In den Gärtnereien werden Millionen von Setzlingen für Olivenbäume, Pinien und Obstgehölze gezogen, die für landwirtschaftliche Projekte in ganz Libyen bestimmt sind. Die Menschen in Gharyan sind stolz auf ihre Rolle als 'Gärtner der Nation'. Das Leben hier ist ruhig und naturverbunden, wobei die traditionelle Handwerkskunst, wie die berühmte Gharyan-Keramik, oft mit der Liebe zur Natur einhergeht. Die Baumschulen sind nicht nur ein Wirtschaftszweig, sondern auch ein wichtiger Beitrag zum Umweltschutz und zur Bekämpfung der Wüstenbildung im Land.",
+      "factsAdvanced": [
+        "Zentrum für Gartenbau und Pflanzenzucht im Jebel Nafusa.",
+        "Spezialisiert auf die Produktion von Oliven- und Obstbaum-Setzlingen.",
+        "Wichtigster Lieferant für nationale Aufforstungsprojekte.",
+        "Profitiert vom kühlen Gebirgsklima der Region Gharyan.",
+        "Zusammenhang zwischen Gärtnerei und traditioneller Keramikkunst.",
+        "Motor für die grüne Entwicklung Westlibyens.",
+        "Bietet spezialisierte Ausbildung für lokale Gärtner.",
+        "Beitrag zur Erhaltung der Biodiversität in der Region."
+      ]
+    },
+    {
+      "id": "sebha-park-life-v2",
+      "descriptionAdvanced": "Der Park von Sebha ist das grüne Herz der wichtigsten Stadt im libyschen Süden, dem Fessan. Inmitten der heißen und staubigen Wüstenumgebung bietet die Anlage einen unverzichtbaren Rückzugsort für die Bewohner. Große Schattenbäume, Spazierwege und Spielbereiche machen den Park zum zentralen Ort für soziale Interaktion und Erholung. Hier treffen sich die verschiedenen Volksgruppen der Region in einer entspannten Atmosphäre, was den Park zu einem Symbol für Frieden und Gemeinschaft macht. Besonders in den Abendstunden, wenn die Temperaturen sinken, erwacht der Park zum Leben. Sebha Park ist ein Beweis dafür, wie wichtig öffentliches Grün für das soziale Gefüge einer Oasenstadt ist. Er bietet Kindern einen sicheren Platz zum Spielen und Erwachsenen einen Ort für Gespräche und Entspannung unter freiem Himmel.",
+      "factsAdvanced": [
+        "Zentraler Erholungspark in der Wüstenmetropole Sebha.",
+        "Wichtigste grüne Oase für die Bewohner des Fessan.",
+        "Ort des sozialen Zusammenhalts und der Begegnung.",
+        "Bietet Schutz vor der extremen Hitze der Sahara.",
+        "Beliebtes Ziel für abendliche Familienausflüge.",
+        "Symbol für städtische Lebensqualität im Süden Libyens.",
+        "Verfügt über Spielplätze und gastronomische Angebote.",
+        "Zentral gelegen in der Nähe der Verwaltungszentren."
+      ]
+    },
+    {
+      "id": "tubruq-garden-life-v2",
+      "descriptionAdvanced": "Die öffentlichen Gärten von Tobruk sind geschätzte Orte der Ruhe in einer Stadt, die durch ihre strategische Lage und ihre bewegte Militärgeschichte geprägt ist. Diese Grünanlagen bieten den Bewohnern einen willkommenen Kontrast zur kargen Umgebung und dem geschäftigen Treiben des Hafens. Mit Blick auf die tiefblaue Bucht von Tobruk laden die Gärten zum Verweilen und zum Genießen der Meeresbrise ein. Sie sind Orte des Gedenkens und der Freizeitgestaltung, an denen sich die lokale Bevölkerung trifft, um den Abend zu verbringen. Die Pflege der Gärten in diesem trockenen Klima ist eine ständige Herausforderung, die jedoch mit Stolz gemeistert wird. Die Gärten von Tobruk repräsentieren den Wunsch der Bürger nach Schönheit und Frieden und sind ein wichtiger Bestandteil des täglichen Lebens in dieser geschichtsträchtigen Hafenstadt am östlichen Rand Libyens.",
+      "factsAdvanced": [
+        "Wichtigste öffentliche Grünanlage in der Hafenstadt Tobruk.",
+        "Bietet spektakuläre Ausblicke auf die Bucht von Tobruk.",
+        "Ort der Entspannung und des Gedenkens an die Stadtgeschichte.",
+        "Beliebter Treffpunkt für alle Generationen.",
+        "Sorgt für ein angenehmes Mikroklima in der trockenen Küstenstadt.",
+        "Zentrum für lokale Feste und öffentliche Treffen.",
+        "Symbol für den zivilen Aufbau und die Verschönerung der Stadt.",
+        "In unmittelbarer Nähe zu den historischen Sehenswürdigkeiten gelegen."
+      ]
+    },
+    {
+      "id": "al-baida-zoo-life-v2",
+      "descriptionAdvanced": "Der Zoo von Al-Baida ist eine bedeutende Einrichtung im Herzen des Jebel Akhdar und spiegelt die Liebe der Bewohner des Grünen Gebirges zur Natur wider. Durch das mildere und feuchtere Klima der Region bietet der Zoo ideale Bedingungen für eine Vielzahl von Tierarten, darunter viele, die in den umliegenden Wäldern heimisch sind. Die Anlage ist in die natürliche Hügellandschaft integriert und bietet den Besuchern ein naturnahes Erlebnis. Al-Baida Zoo ist ein wichtiges Ziel für Familien aus dem gesamten Nordosten Libyens und dient als Bildungszentrum für den Naturschutz. Der Zoo ist eng mit der Identität der Stadt Al-Baida als Zentrum der Wissenschaft und Kultur verknüpft. Er bietet einen Raum, in dem Kinder die Tierwelt ihrer Heimat kennenlernen können und fördert das Bewusstsein für die einzigartige Ökologie des Jebel Akhdar.",
+      "factsAdvanced": [
+        "Einziger Zoo in der Bergregion des Jebel Akhdar.",
+        "Spezialisiert auf die Fauna des libyschen Nordostens.",
+        "Wichtiges Bildungszentrum für Umwelt- und Artenschutz.",
+        "Profitiert vom kühlen und regenreichen Bergklima.",
+        "Beliebtes Ausflugsziel für Bewohner der Region Kyrenaika.",
+        "Naturnah in die bewaldete Landschaft eingebettet.",
+        "Symbol für die Naturverbundenheit der Stadt Al-Baida.",
+        "Sicherer Ort für Familienfreizeit und Erholung."
+      ]
+    },
+    {
+      "id": "djebel-akhdar-farm-life-v2",
+      "descriptionAdvanced": "Das farmwirtschaftliche Leben im Jebel Akhdar ist durch den Überfluss an Wasser und fruchtbarem Boden einzigartig in Libyen. In dieser 'grünen Lunge' des Landes widmen sich die Landwirte dem Anbau von Äpfeln, Birnen, Weintrauben und Getreide, was in weiten Teilen Nordafrikas nur schwer möglich ist. Die Farmen liegen oft malerisch zwischen Wäldern und Felsklippen und nutzen das kühle Klima für eine intensive Bewirtschaftung. Die Viehzucht, insbesondere von Rindern und Schafen, spielt ebenfalls eine große Rolle. Das Leben hier ist geprägt von einem fast europäischen Rhythmus, mit klaren Jahreszeiten und einer tiefen Verwurzelung in der bäuerlichen Tradition. Die Produkte vom Jebel Akhdar gelten in ganz Libyen als Delikatesse und stehen für höchste Qualität und Natürlichkeit. Die Farmen sind das Herzstück der regionalen Wirtschaft und sichern den Reichtum der Kyrenaika.",
+      "factsAdvanced": [
+        "Produktivstes landwirtschaftliches Gebiet Ostlibyens.",
+        "Einzige Region mit bedeutendem Obstbau (Äpfel, Trauben).",
+        "Zentrum der Rinderzucht in Libyen.",
+        "Traditioneller Anbau von Weizen und Gerste auf Hochebenen.",
+        "Nutzt natürliche Regenmengen und zahlreiche Quellen.",
+        "Liefert hochwertige Lebensmittel für den nationalen Markt.",
+        "Lebensstil geprägt durch Gebirgsklima und Waldwirtschaft.",
+        "Wichtigster Pfeiler der ländlichen Wirtschaft im Nordosten."
+      ]
+    },
+    {
+      "id": "slonta-nursery-life-v2",
+      "descriptionAdvanced": "Die Baumschule von Slonta ist ein wichtiger Standort für die Forstwirtschaft und den Naturschutz im Jebel Akhdar. In dieser hochgelegenen Region werden spezialisierte Pflanzen gezogen, die an das kühle und feuchte Klima des Gebirges angepasst sind. Slonta ist bekannt für seine Bemühungen zur Wiederaufforstung der einheimischen Wacholder- und Pinienwälder, die durch menschliche Aktivitäten und den Klimawandel bedroht sind. Das Leben der Menschen in Slonta ist eng mit der Pflege dieser grünen Ressourcen verknüpft. Die Baumschule bietet nicht nur Arbeitsplätze, sondern ist auch ein Forschungsort für die Erhaltung der einzigartigen Biodiversität Libyens. Die Bewohner sehen sich als Wächter des Jebel Akhdar und tragen dazu bei, dass die Schönheit und ökologische Funktion des Grünen Gebirges für zukünftige Generationen erhalten bleibt. Es ist ein Ort der Hoffnung und des aktiven Umweltschutzes.",
+      "factsAdvanced": [
+        "Spezialisierte Baumschule für Hochgebirgspflanzen.",
+        "Zentrum für die Wiederaufforstung des Jebel Akhdar.",
+        "Fokus auf einheimische Arten wie Wacholder und Zedern.",
+        "Wichtiger Partner für nationale Naturschutzprojekte.",
+        "Höchstgelegene Gärtnerei in Libyen.",
+        "Arbeitgeber für die lokale Berggemeinde von Slonta.",
+        "Beitrag zur Erforschung der libyschen Flora.",
+        "Symbol für nachhaltige Waldwirtschaft im Nordosten."
+      ]
+    },
+    {
+      "id": "jalu-oasis-farm-life-v2",
+      "descriptionAdvanced": "Das Leben auf den Farmen der Jalu-Oase ist ein Paradebeispiel für die jahrtausendealte Kunst des Überlebens in der Sahara. Jalu, tief im Osten Libyens gelegen, ist berühmt für seine hochwertigen Datteln, die als die süßesten des Landes gelten. Die Farmen sind um artesische Brunnen herum organisiert, die wertvolles Wasser aus der Tiefe liefern. Unter dem schützenden Blätterdach der Palmen bauen die Bauern in Stockwerkkultur auch Gemüse, Granatäpfel und Tierfutter an. Das Leben in Jalu ist geprägt von einer starken sozialen Gemeinschaft und dem Stolz auf die Unabhängigkeit der Wüstenbewohner. Trotz der extremen Hitze und der häufigen Sandstürme bewahren die Menschen ihre Traditionen und nutzen moderne Technik, um die Erträge ihrer fruchtbaren Gärten zu steigern. Die Farmen von Jalu sind eine lebenswichtige Station auf den alten Karawanenwegen und heute ein moderner Wirtschaftsmotor der Wüste.",
+      "factsAdvanced": [
+        "Berühmtes Zentrum der Dattelproduktion in der Zentralsahara.",
+        "Spezialisiert auf hochwertige Sorten wie 'Tegiat'.",
+        "Oasenwirtschaft basierend auf tiefen artesischen Brunnen.",
+        "Nutzt traditionelle und moderne Bewässerungsmethoden.",
+        "Wichtiger Handelsplatz für landwirtschaftliche Produkte.",
+        "Sichert die Versorgung weit entfernter Wüstenregionen.",
+        "Traditionelles Leben geprägt durch Oasenkultur und Handel.",
+        "Symbol für die Fruchtbarkeit inmitten der Sandwüste."
+      ]
+    },
+    {
+      "id": "awjila-orchard-life-v2",
+      "descriptionAdvanced": "Die Obstgärten von Awjila gehören zu den ältesten bewohnten Orten der Sahara und zeugen von einer unglaublichen Beständigkeit. Das Leben hier folgt einem Rhythmus, der sich über Jahrtausende kaum verändert hat. Awjila ist bekannt für seine einzigartige Architektur und seine besonders feinen Datteln und Zitrusfrüchte. In den Gärten wird das Wasser traditionell mit Sorgfalt verteilt, um das Überleben der wertvollen Palmen und Obstbäume zu sichern. Die Bewohner von Awjila haben eine tiefe spirituelle Verbindung zu ihrem Land, was sich auch in der berühmten historischen Moschee der Stadt widerspiegelt. Das farmwirtschaftliche Leben ist hier eine kollektive Anstrengung, bei der Familien seit Generationen zusammenarbeiten. Die Obstgärten bieten nicht nur Nahrung, sondern sind auch Orte der Kühle und des Rückzugs, die Awjila zu einer der einladendsten Oasen in der libyschen Wüste machen.",
+      "factsAdvanced": [
+        "Eine der ältesten Oasen der Welt mit kontinuierlicher Besiedlung.",
+        "Bekannt für den Anbau seltener Zitrusfrüchte in der Wüste.",
+        "Traditionelles Bewässerungssystem mit hoher Effizienz.",
+        "Zentrum des historischen transsaharischen Handels.",
+        "Enger Zusammenhang zwischen Oasenleben und Spiritualität.",
+        "Produzent von erstklassigen Datteln für den Export.",
+        "Bewahrung berberischer Oasentraditionen seit Jahrtausenden.",
+        "Einzigartige Kulturlandschaft von großer historischer Tiefe."
       ]
     }
   ]

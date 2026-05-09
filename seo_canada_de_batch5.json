@@ -1,0 +1,81 @@
+{
+  "lang": "de",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "charlottetown-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Charlottetown auf Prince Edward Island spielt eine bedeutende Rolle für die regionale Wirtschaft, insbesondere als Knotenpunkt für den Handel, den Fährverkehr und den Tourismus der Insel. Als wichtigster Ein- und Ausgangspunkt für Güter und Passagiere ist er ein vitaler Bestandteil der Anbindung der kleinsten kanadischen Provinz an das Festland. Die Hafenanlagen unterstützen zudem die lokale Fischereiindustrie und sind ein zentrales Element für die wirtschaftliche Stabilität der Provinzhauptstadt. Wirtschaft K7 — Regionale Logistik und Infrastruktur.",
+      "factsAdvanced": [
+        "Wichtiger regionaler Hafen auf Prince Edward Island",
+        "Knotenpunkt für Handel und Fährverkehr",
+        "Vital für die Anbindung der Insel an das Festland",
+        "Unterstützung der lokalen Fischereiindustrie",
+        "Zentraler Faktor für die wirtschaftliche Stabilität",
+        "Wichtiger Ankunftspunkt für den Tourismus"
+      ]
+    },
+    {
+      "id": "oilsands-pipe-infrastructure-economic-v2",
+      "descriptionAdvanced": "Die ausgedehnte Pipeline-Infrastruktur für den Transport von Bitumen aus den Ölsanden Albertas ist ein entscheidendes Rückgrat für die kanadische Energiewirtschaft. Ohne diese riesigen Netzwerke von Pipelines wäre der Export der gewonnenen Rohstoffe zu den Raffinerien in Nordamerika und darüber hinaus wirtschaftlich nicht realisierbar. Die Pipeline-Projekte stehen dabei oft im Spannungsfeld zwischen industriellem Nutzen und den ökologischen Anforderungen eines nachhaltigen Energiemanagements. Wirtschaft K8 — Energieinfrastruktur und ökologische Verantwortung.",
+      "factsAdvanced": [
+        "Großes Netzwerk für den Transport von Bitumen",
+        "Entscheidendes Rückgrat der Energiewirtschaft",
+        "Ermöglicht Export in Raffinerien Nordamerikas",
+        "Herausforderung durch ökologische Anforderungen",
+        "Zentrales Element der Energieinfrastruktur",
+        "Transportlogistik für die Schwerindustrie"
+      ]
+    },
+    {
+      "id": "st-johns-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von St. John's, einer der ältesten und natürlich geschützten Häfen Nordamerikas, ist ein strategischer Knotenpunkt für die Versorgung der offshore-tätigen Öl- und Gasindustrie sowie der maritimen Industrie vor Neufundland. Er bietet die essenzielle logistische Unterstützung für die Erforschung und Förderung in den rauen Gewässern des Nordatlantiks. Die maritime Kompetenz des Hafens ist damit ein bedeutender Wirtschaftsfaktor für die gesamte Region. Wirtschaft K8 — Maritime Logistik und Offshore-Industrie.",
+      "factsAdvanced": [
+        "Wichtiger Hafen an der Ostküste von Neufundland",
+        "Strategischer Knotenpunkt für Offshore-Versorgung",
+        "Essenzielle logistische Unterstützung der Öl- und Gasindustrie",
+        "Basis für maritime Aktivitäten im Nordatlantik",
+        "Historisch bedeutender natürlicher Hafen",
+        "Zentraler Wirtschaftsfaktor für St. John's"
+      ]
+    },
+    {
+      "id": "guelph-manufacturing-hub-economic-v2",
+      "descriptionAdvanced": "Guelph, Ontario, ist ein Zentrum für hochspezialisierte Fertigung und technologische Forschung, das eng mit dem Automobilsektor und anderen High-Tech-Branchen verbunden ist. Die Region profitiert von einer starken Forschungslandschaft durch die Universität Guelph, die technologische Innovationen in der Agrarwirtschaft und der Fertigung vorantreibt. Diese Synergie aus Wissenschaft und industrieller Fertigung macht den Standort zu einem wettbewerbsfähigen Cluster in der kanadischen Wirtschaftslandschaft. Wirtschaft K7 — Industrielle Innovation und Technologie.",
+      "factsAdvanced": [
+        "Diversifiziertes Industriezentrum in Ontario",
+        "Fokus auf hochspezialisierte Fertigung",
+        "Eng verbunden mit High-Tech-Branchen",
+        "Starke Synergien mit der lokalen Universität",
+        "Innovationen in Agrar- und Fertigungstechnik",
+        "Wichtiger Cluster in der kanadischen Wirtschaft"
+      ]
+    },
+    {
+      "id": "baffin-mining-project-economic-v2",
+      "descriptionAdvanced": "Das Baffin Island Bergbauprojekt zur Gewinnung von Eisenerz in Nunavut ist eines der entlegensten und logistisch herausforderndsten Industrieprojekte Kanadas. Aufgrund der extremen arktischen Bedingungen erfordert der Betrieb spezialisierte Techniken zur Rohstoffgewinnung und eine ganzjährige maritime Logistik. Das Projekt ist ein signifikanter wirtschaftlicher Treiber für die lokale indigene Bevölkerung und ein wichtiger Bestandteil der kanadischen Nordpolitik. Geografie K8 — Arktische Entwicklung und Bergbau.",
+      "factsAdvanced": [
+        "Eisenerz-Abbau in der Arktis (Nunavut)",
+        "Logistisch hochanspruchsvolles Industrieprojekt",
+        "Spezialisierte Techniken für extreme Bedingungen",
+        "Ganzjährige maritime Logistik notwendig",
+        "Wirtschaftlicher Treiber für die Region Nunavut",
+        "Wichtiger Beitrag zur kanadischen Nordentwicklung"
+      ]
+    },
+    {
+      "id": "fraser-valley-agriculture-logistics-economic-v2",
+      "descriptionAdvanced": "Das Fraser Valley in British Columbia ist das wichtigste landwirtschaftliche Zentrum der Region und dient als zentraler logistischer Knotenpunkt für den Umschlag und den Export frischer Agrarprodukte an den pazifischen Markt. Die hochspezialisierte Infrastruktur, einschließlich umfangreicher Kühlhauskapazitäten, sichert die Qualität der Lebensmittel entlang der komplexen Lieferketten bis hin zum Endkunden. Die Verknüpfung von Agrarwirtschaft und effizienter Logistik ist ein Schlüssel zum Erfolg dieses Wirtschaftsraums. Geografie K7 — Agrarökonomie und globale Lieferketten.",
+      "factsAdvanced": [
+        "Wichtigstes landwirtschaftliches Zentrum in BC",
+        "Zentraler Knotenpunkt für Agrar-Exporte",
+        "Hochspezialisierte Infrastruktur für Lebensmittel",
+        "Umfangreiche Kapazitäten für Kühlhauslogistik",
+        "Sicherung der Produktqualität in Lieferketten",
+        "Erfolgsmodell der kombinierten Agrar- und Logistikwirtschaft"
+      ]
+    }
+  ]
+}

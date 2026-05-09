@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lago-loreto-krater-relief-v2",
+      "descriptionAdvanced": "A Lago Loreto kráterto Bioko szigetének déli belső részén fekvő vulkáni csoda, amely a Gran Caldera de Luba rendszeréhez tartozik. Ez a szabályos kör alakú tó egy ősi robbanásos kráterben alakult ki, és mélyvörös vagy sötétkék vize drámai kontrasztot alkot az őt körülvevő függőleges, buja zöld falakkal. A terület elszigeteltsége miatt a tó és környéke szinte érintetlen, menedéket nyújtva ritka vízi madaraknak és kétéltűeknek. A Lago Loreto a sziget egyik legfontosabb édesvízi ökoszisztémája, amely a magas páratartalomnak és a bőséges csapadéknak köszönhetően tartja fenn vízszintjét. A kráter falaiba kapaszkodó trópusi hegyi erdő megközelíthetetlensége garantálja ezen természeti kincs hosszú távú megőrzését. A látvány a vulkanikus erő és a burjánzó élet harmonikus találkozását szimbolizálja.",
+      "factsAdvanced": [
+        "Egy ősi vulkáni robbanásos kráterben kialakult tó.",
+        "A Gran Caldera de Luba természetvédelmi terület része.",
+        "Mély és tiszta vize szinte teljesen zavartalan.",
+        "Meredek, növényzettel sűrűn benőtt kráterfalak övezik.",
+        "Fontos fészkelőhely ritka trópusi vízimadarak számára.",
+        "A sziget egyik legfontosabb magaslati víztározója.",
+        "Csak nehezen járható erdei ösvényeken közelíthető meg."
+      ]
+    },
+    {
+      "id": "niefang-bergland-relief-v2",
+      "descriptionAdvanced": "A Niefang-hegység Río Muni kontinentális részének központi domborzati eleme, amely elválasztja a part menti síkságot a belső fennsíkoktól. Ez a kristályos kőzetekből álló vonulat meredek dombokból és mély folyóvölgyekből áll, amelyeket sűrű, elsődleges esőerdő borít. A hegység jelentősen befolyásolja a szárazföld éghajlatát, mivel akadályt gördít a nedves tengeri légtömegek útjába, bőséges csapadékot kényszerítve a vidékre. Itt ered számos jelentős folyó, amelyek vízeséseken keresztül ereszkednek alá a part felé. A Niefang-hegység nemcsak földrajzi gát, hanem a biodiverzitás egyik fellegvára is, ahol ritka főemlősök és különleges növényfajok találnak otthonra. A domborzat vad jellege és a sűrű növényzet miatt a terület nagy része továbbra is felfedezetlen vadon maradt.",
+      "factsAdvanced": [
+        "Río Muni központi domborzati gerincét alkotja.",
+        "Kristályos kőzetekből felépülő, meredek hegyvidék.",
+        "Természetes határt képez a partvidék és a belső tájak között.",
+        "Számos atlanti vízgyűjtő folyó forrásvidéke.",
+        "Bőséges orográfiai csapadékot kap a tenger felől.",
+        "A kontinentális biodiverzitás egyik kritikus pontja.",
+        "A sűrű esőerdő miatt a közlekedés itt nagy kihívást jelent."
+      ]
+    },
+    {
+      "id": "rio-muni-becken-relief-v2",
+      "descriptionAdvanced": "A Río Muni-medence Egyenlítői-Guinea kontinentális részének legnagyobb domborzati egysége, amely egy hatalmas, üledékes kőzetekkel borított területet foglal magában. Ez az enyhén hullámos felszín az ország gazdasági és ökológiai motorja a szárazföldön, ahol a folyók sűrű hálózata, köztük a Benito és a Wele, alakítja a tájat. A medence nagy részét trópusi esőerdő borítja, amely alatt jelentős ásványkincsek és tápanyagban gazdag talajok találhatók. A domborzat kedvez az utak építésének és a települések terjeszkedésének, így itt koncentrálódik a szárazföldi lakosság jelentős része. A medence geomorfológiai kialakulása évmilliók során, a folyami erózió és az üledékképződés folyamatos kölcsönhatásában történt, létrehozva ezt a változatos és élettel teli közép-afrikai tájegységet.",
+      "factsAdvanced": [
+        "A kontinentális országrész legnagyobb geomorfológiai egysége.",
+        "Üledékes kőzetekből felépülő, enyhén hullámos felszín.",
+        "Itt folynak az ország legjelentősebb szárazföldi folyói.",
+        "A sűrű folyóhálózat meghatározza a medence arculatát.",
+        "Mezőgazdasági és erdészeti szempontból kiemelt terület.",
+        "A legtöbb kontinentális nagyváros ebben a medencében fekszik.",
+        "Gazdag trópusi ökoszisztémák és mocsaras árterek jellemzik."
+      ]
+    },
+    {
+      "id": "litoral-kuestenebene-relief-v2",
+      "descriptionAdvanced": "A Litoral tengerparti síkság egy keskeny, de stratégiai fontosságú domborzati sáv az Atlanti-óceán mentén, amely Río Muni nyugati szélét alkotja. Ezt a területet homokos strandok, mangrove-mocsarak és torkolatvidékek sorozata jellemzi, amelyek fokozatosan mennek át a belső hegyvidék lábaihoz. A síkság domborzata viszonylag alacsony, de gyakran tagolják kisebb lagúnák és folyótorkolatok, mint például a Benito-folyó tágas kiömlése. Gazdasági szempontból ez a legfejlettebb régió, itt található Bata városa és a legfontosabb kikötők. A tengerparti síkság mikroklímája párás és forró, ami kedvez a part menti flóra és fauna gazdagodásának. A domborzati adottságok itt a legkedvezőbbek az infrastruktúra fejlesztéséhez és a nemzetközi kereskedelmi kapcsolatok kiépítéséhez.",
+      "factsAdvanced": [
+        "Río Muni nyugati partvidékét alkotó alacsony fekvésű síkság.",
+        "Homokos dűnék és mangroveerdők váltakozása jellemzi.",
+        "Itt található az ország legnagyobb szárazföldi városa, Bata.",
+        "Számos folyótorkolat és lagúna tagolja a partvonalat.",
+        "Gazdaságilag a legdinamikusabban fejlődő szárazföldi régió.",
+        "Közvetlen kapcsolatot biztosít a Guineai-öböl vizeihez.",
+        "A párás trópusi klíma miatt buja tengerparti növényzet borítja."
+      ]
+    },
+    {
+      "id": "altos-de-nsork-huegelland-relief-v2",
+      "descriptionAdvanced": "Az Altos de Nsork dombság Egyenlítői-Guinea délkeleti részén, a gaboni határ mentén fekvő, sűrűn erdősült magasföld. Ez a domborzati egység jellegzetes, kerekített csúcsokból és mély, folyóvölgyek által szabdalt gerincekből áll, amelyek magassága eléri a 600-800 métert. A területet érintetlen esőerdő borítja, amely menedéket nyújt a vadon élő állatoknak, például erdei elefántoknak és gorilláknak. A dombság tagolt felszíne természetes akadályt képez, ami segített megőrizni a régió izoláltságát és ökológiai tisztaságát. A Nsork Nemzeti Park központjaként ez a domborzati forma a természetvédelem egyik legfontosabb bástyája az országban. A táj misztikus és vad, ahol a gyakori hajnali pára lassan úszik át a végtelen zöld hullámok között, emlékeztetve a látogatót a szárazföldi belső részek ősi erejére.",
+      "factsAdvanced": [
+        "Río Muni délkeleti részén fekvő erdős dombvidék.",
+        "Magassága jellemzően 600 és 800 méter között mozog.",
+        "A Nsork Nemzeti Park domborzati magvát alkotja.",
+        "Érintetlen esőerdők és gazdag vadvilág otthona.",
+        "Fontos vízválasztó terület a déli határvidéken.",
+        "Sűrű folyóhálózat szeli át a meredek domboldalakat.",
+        "A nehéz terepviszonyok miatt a régió megőrizte vadságát."
+      ]
+    },
+    {
+      "id": "piedra-nzas-formation-relief-v2",
+      "descriptionAdvanced": "A Piedra Nzas formáció egy lenyűgöző geológiai képződmény Wele-Nzas tartományban, amely Egyenlítői-Guinea szárazföldi részének egyik legkülönlegesebb látványossága. Ezek a hatalmas, magányosan álló gránitsziklák vagy szigethegyek (inselbergek) drámai módon emelkednek ki a környező esőerdő síkjából. A sziklák sima, meredek falai és kupolaszerű teteje az évmilliókig tartó erózió munkáját dicsérik, amely koptatta a puhább kőzeteket, hátrahagyva ezeket a monumentális monolitokat. A Piedra Nzas nemcsak geológiai ritkaság, hanem fontos kulturális és spirituális jelentőséggel is bír a helyi közösségek számára. A sziklák tetejéről belátható az egész tartomány végtelen zöldje, egyedülálló perspektívát nyújtva a közép-afrikai tájra. Az inselbergek környékén gyakran különleges mikroélőhelyek alakulnak ki, ahol ritka növények kapaszkodnak a csupasz kövekbe.",
+      "factsAdvanced": [
+        "Hatalmas gránit szigethegyek Wele-Nzas tartományban.",
+        "Az esőerdőből magányosan kiemelkedő, monumentális sziklák.",
+        "Az inselberg formációk egyik legszebb közép-afrikai példája.",
+        "Több millió éves eróziós folyamatok eredménye.",
+        "Spirituális és mitológiai jelentőséggel bír a helyiek körében.",
+        "Ritka növényfajok találnak otthonra a sziklák repedéseiben.",
+        "Páratlan kilátópont a szárazföld belső esőerdőire."
+      ]
+    },
+    {
+      "id": "monte-chocolate-relief-v2",
+      "descriptionAdvanced": "A Monte Chocolate egy jellegzetes, kúp alakú hegycsúcs Río Muni belső részén, amely nevét a sűrű erdővel borított, sötétbarna árnyalatú lejtőiről kapta, melyek a távolból egy csokoládé bonbonra emlékeztetnek. Ez a domborzati forma a kontinentális fennsík egyik kiemelkedő pontja, amely megtöri az esőerdő egyhangúságát. A hegyet buja vegetáció borítja, amely magában foglalja az országra jellemző értékes fafajokat és gazdag aljnövényzetet. Mint helyi tájékozódási pont, a Monte Chocolate fontos szerepet játszik a környező települések életében és a regionális földrajzi azonosításban. A domborzat viszonylag meredek, ami kihívást jelent a túrázók számára, de a csúcsról nyíló kilátás kárpótolja a látogatót. A hegy környezete az érintetlen természet szimbóluma, ahol a trópusi madárvilág és a kisemlősök zavartalanul élnek.",
+      "factsAdvanced": [
+        "Karakteres kúp alakú hegycsúcs a kontinentális térségben.",
+        "Nevét a távolból látható szabályos és sötét alakjáról kapta.",
+        "Sűrű esőerdő és gazdag trópusi flóra borítja lejtőit.",
+        "Fontos helyi és regionális tájékozódási pont.",
+        "A szárazföldi fennsík domborzati sokszínűségét gazdagítja.",
+        "Értékes trópusi fafajok és vadon élő állatok otthona.",
+        "Népszerű célpont a természetjárók és botanikusok körében."
+      ]
+    },
+    {
+      "id": "siete-cerros-gebirge-relief-v2",
+      "descriptionAdvanced": "A Siete Cerros (Hét Domb) hegylánc egy hullámzó domborzati vonulat Litoral tartomány belső peremén, amely nevét a hét jól kivehető csúcsáról kapta. Ez a hegyvonulat képezi az átmenetet a part menti síkság és a belső, magasabb fennsíkok között. A domborzatot mély szurdokok és sebes patakok tagolják, amelyek a bőséges csapadék hatására jöttek létre. A Siete Cerros területe kritikus vízgyűjtő medence, amely friss vízzel látja el a part menti településeket. A hegység lejtőit vastag trópusi növényzet borítja, amely hatékonyan akadályozza meg a talajeróziót a meredek szakaszokon. A hét csúcs misztikus látványt nyújt, amikor a felhők alacsonyan szállnak felettük, és a hegység fontos ökológiai folyosót alkot a tengerparti és a szárazföldi ökoszisztémák között.",
+      "factsAdvanced": [
+        "Hét karakteres csúcsból álló domborzati vonulat.",
+        "Átmeneti zónát alkot a tengerpart és a szárazföld belseje között.",
+        "Fontos vízgyűjtő terület Bata és környéke számára.",
+        "Meredek szurdokok és sebes vizű patakok jellemzik.",
+        "Segít megfékezni a talajeróziót a trópusi esők idején.",
+        "Létfontosságú ökológiai folyosó a vadvilág számára.",
+        "Gyakran borítja párás felhőtakaró a csúcsokat."
+      ]
+    },
+    {
+      "id": "benito-tal-relief-v2",
+      "descriptionAdvanced": "A Benito-völgy Egyenlítői-Guinea szárazföldi részének egyik legmeghatározóbb folyóvölgye, amelyet az ország leghosszabb folyója, a Benito (vagy Mbini) vájt ki az évezredek során. Ez a völgy keresztülszeli Río Muni központi részét, mélyen bevágódva a kristályos kőzetekbe és a dombos tájakba. A domborzat itt rendkívül változatos: a folyó mentén széles árterek, mocsaras területek és meredek sziklafalak váltakoznak. A völgy nemcsak geológiai és földrajzi gerinc, hanem a gazdasági élet fontos tengelye is, hiszen itt összpontosul a mezőgazdaság és az erdőgazdálkodás egy része. A Benito-völgy ökológiai gazdagsága egyedülálló, hiszen a vízi és a szárazföldi élőhelyek itt találkoznak, létrehozva az ország egyik legfontosabb biodiverzitási folyosóját. A táj drámai szépségét a folyó kanyarulatai és a part menti sűrű erdők adják.",
+      "factsAdvanced": [
+        "A szárazföld leghosszabb folyója által kialakított völgyrendszer.",
+        "Río Muni központi részén húzódó, változatos domborzati egység.",
+        "Mély szurdokok és széles mocsaras árterek jellemzik.",
+        "Az ország egyik legfontosabb folyóvízi ökológiai folyosója.",
+        "A folyóvölgy mentén intenzív mezőgazdasági tevékenység folyik.",
+        "Kritikus szerepe van a szárazföldi vízháztartásban.",
+        "Meghatározó tájképi elem sűrű trópusi erdőkkel övezve."
+      ]
+    },
+    {
+      "id": "wele-durchbruchstal-relief-v2",
+      "descriptionAdvanced": "A Wele-áttörés egy látványos völgy- és kanyonrendszer Río Muni keleti részén, ahol a Wele-folyó utat tör magának a belső fennsíkok kemény kőzetrétegein keresztül. Ez a domborzati forma meredek sziklafalakkal, zúgókkal és kisebb vízesésekkel tarkított, ami Egyenlítői-Guinea egyik legvadabb tájává teszi a vidéket. A folyó áttörése során kialakult mély völgy jelentős geomorfológiai értéket képvisel, bemutatva a folyami erózió pusztító és építő erejét. A terület nehezen megközelíthető, ami segített megőrizni a trópusi növényzet érintetlenségét és a vadvilág zavartalanságát. A Wele-áttörés völgye stratégiai fontosságú a vízi energia szempontjából is, itt találhatók az ország legfontosabb vízerőművi lehetőségei. A táj nyers ereje és a víz dübörgése felejthetetlen élményt nyújt a természet szerelmeseinek.",
+      "factsAdvanced": [
+        "A Wele-folyó által vájt meredek áttörési völgy.",
+        "Río Muni keleti, dombos vidékén található kanyonrendszer.",
+        "Számos zúgó, vízesés és sziklás folyómeder jellemzi.",
+        "Hatalmas potenciállal rendelkezik a vízenergia-termelésben.",
+        "A domborzat vadsága miatt szinte teljesen érintetlen vidék.",
+        "Látványos példája a folyami erózió kőzetformáló erejének.",
+        "Kritikus élőhely számos ritka édesvízi halfaj számára."
+      ]
+    },
+    {
+      "id": "corisco-riff-relief-v2",
+      "descriptionAdvanced": "A Corisco-zátony egy víz alatti domborzati forma a Corisco-sziget környékén, a Muni-torkolat közelében, amely az ország egyik leggazdagabb tengeri ökoszisztémájának ad otthont. Ez a mészkő- és korallképződményekből álló zátonyrendszer sekély vizeket és homokpadokat hoz létre, amelyek védik a sziget partjait a nyílt óceán hullámaitól. A zátony domborzata változatos, kis barlangokkal, sziklás kiemelkedésekkel és tengeri fűvel borított síkságokkal, amelyek ideális ívóhelyet biztosítanak a halaknak és tengeri teknősöknek. Geológiailag a zátony a kontinentális talapzat része, és az alacsony vízállás idején egyes részei a felszín fölé kerülhetnek. A Corisco-zátony nemcsak halászati szempontból értékes, hanem az ökoturizmus és a búvárkodás egyik ígéretes célpontja is, köszönhetően kristálytiszta vizének és gazdag tengeri élővilágának.",
+      "factsAdvanced": [
+        "Víz alatti mészkő- és korallzátony Corisco-sziget körül.",
+        "Sekély vizeket és védett lagúnákat hoz létre a partnál.",
+        "A Guineai-öböl egyik legfontosabb tengeri élőhelye.",
+        "Természetes hullámtörőként védi a sziget fehér homokos strandjait.",
+        "Kiemelt terület a tengeri teknősök védelme szempontjából.",
+        "Gazdag tengeri fűágyak és korallkertek jellemzik.",
+        "Fontos szerepet játszik a helyi kézműves halászatban."
+      ]
+    },
+    {
+      "id": "monte-bong-relief-v2",
+      "descriptionAdvanced": "A Monte Bong egy monumentális hegycsúcs Río Muni északi részén, amely jelentősen kiemelkedik a trópusi esőerdők tengeréből. Ez a domborzati egység a kontinentális hátország egyik legmagasabb pontja, meredek sziklás lejtőivel és éles gerinceivel vonzza a tekintetet. A hegy domborzatát a gránit és gneisz kőzetek határozzák meg, amelyek ellenálltak az eróziónak az évmilliók során. A Monte Bong lejtőit sűrű, biodiverz növényzet borítja, amely fontos menedéket nyújt a vadon élő állatoknak, köztük különböző majomfajoknak és ritka madaraknak. Mint regionális tájékozódási pont, a hegy uralja az északi láthatárt, és gyakran felhőbe burkolózva misztikus látványt nyújt. A csúcs elérése komoly fizikai kihívást jelent, de a kilátás a környező végtelen dzsungelre páratlan élményt nyújt.",
+      "factsAdvanced": [
+        "Río Muni északi régiójának egyik legmagasabb hegycsúcsa.",
+        "Kemény magmás kőzetekből felépülő, masszív domborzati forma.",
+        "A környező esőerdőkből meredeken kiemelkedő sziklás lejtők.",
+        "A régió egyik legfontosabb természetes tájékozódási pontja.",
+        "Gazdag trópusi fauna és endemikus növényfajok otthona.",
+        "Meredek falaival és mély völgyeivel nehezen járható terep.",
+        "Gyakran látványos ködfelhőkbe burkolózik a csúcs környéke."
+      ]
+    },
+    {
+      "id": "monte-medum-relief-v2",
+      "descriptionAdvanced": "A Monte Medum egy jellegzetes hegyvonulat Río Muni belső fennsíkján, amely fontos része az ország szárazföldi domborzati hálózatának. Ez a vonulat kerekített csúcsokból és széles völgyekből áll, amelyeket vastag, tápanyagban gazdag vörös talaj borít. A domborzat kedvez a sűrű növényzet kialakulásának, így a Monte Medum területe Egyenlítői-Guinea egyik legzöldebb régiója. A hegycsúcsokról eredő számos kis patak táplálja a környék mezőgazdasági területeit, biztosítva a vízellátást a kistermelők számára. A domborzati adottságok itt lehetővé tették a hagyományos hegyi gazdálkodás és a fenntartható erdőgazdálkodás kialakulását. A Monte Medum szelídebb lejtői és a dús vegetáció harmonikus tájat alkotnak, amely hűen tükrözi Közép-Afrika belső részeinek természeti gazdagságát.",
+      "factsAdvanced": [
+        "Kerekített csúcsokból álló hegyvonulat a szárazföld belsejében.",
+        "Vörös trópusi talajjal borított, dús növényzetű terület.",
+        "Számos kis hegyi patak és forrás kiindulópontja.",
+        "A kontinentális fennsík egyik meghatározó tájképi eleme.",
+        "Támogatja a helyi hegyi mezőgazdasági tevékenységeket.",
+        "Fontos szerepet játszik a régió vízháztartásának szabályozásában.",
+        "Gazdag biodiverzitású erdők borítják az egész vonulatot."
+      ]
+    },
+    {
+      "id": "monte-bilat-relief-v2",
+      "descriptionAdvanced": "A Monte Bilat egy magányos és misztikus hegycsúcs Río Muni déli részén, amely sűrű köderdőiről és meredek, sziklás domborzatáról ismert. Ez a hegy a belső esőerdőből szigetszerűen emelkedik ki, sajátos mikroklímát hozva létre a csúcs közelében. A domborzatot mély hasadékok és éles sziklakiszögellések tagolják, ami miatt a terület nagy része megközelíthetetlen az ember számára. Ez az elszigeteltség tette lehetővé, hogy a Monte Bilat a ritka és veszélyeztetett fajok egyik utolsó menedékévé váljon a régióban. A hegy lábánál elterülő völgyekben sebes hegyi folyók futnak, amelyek vízeséseken keresztül érik el a síkságokat. A Monte Bilat nemcsak földrajzi különlegesség, hanem a szárazföldi vadon érintetlenségének és erejének szimbóluma is, ahol a természet törvényei az uralkodók.",
+      "factsAdvanced": [
+        "Szigetszerűen kiemelkedő hegycsúcs Río Muni déli vidékén.",
+        "Magashegyi köderdők és egyedi mikroklíma jellemzi.",
+        "Meredek sziklafalak és mély hasadékok szabdalják a felszínt.",
+        "A vadvilág számára kritikus fontosságú menedékhely.",
+        "Sebe folyók és látványos vízesések forrásvidéke.",
+        "Nehezen hozzáférhető, szinte teljesen érintetlen vadon.",
+        "Dél-Río Muni egyik legmisztikusabb domborzati képződménye."
+      ]
+    },
+    {
+      "id": "palacio-del-pueblo-malabo-landmarks-v2",
+      "descriptionAdvanced": "A malabói Palacio del Pueblo (Népi Palota) Egyenlítői-Guinea politikai hatalmának és állami szuverenitásának legfőbb jelképe. Ez a monumentális épület a főváros szívében található, és lenyűgöző neoklasszicista stílusával, fehér homlokzatával és díszes oszlopaival emelkedik ki a környezetéből. Itt zajlanak a legmagasabb szintű diplomáciai találkozók, állami ünnepségek és hivatalos fogadások. A palota körüli gondosan ápolt kertek és a szigorú biztonsági őrizet tovább hangsúlyozzák az épület fontosságát. Az épületegyüttes nemcsak az elnöki hivatal székhelye, hanem az ország modern fejlődésének és stabilitásának építészeti reprezentációja is. A látogatók számára a palota látványa a tengerparti sétányról nyújtja a legemlékezetesebb képet, ahol a modern és a hagyományos állami jelképek találkoznak.",
+      "factsAdvanced": [
+        "Egyenlítői-Guinea elnöki palotája Malabo szívében.",
+        "Az állami hatalom és függetlenség legfőbb építészeti szimbóluma.",
+        "Elegáns neoklasszicista stílusú, monumentális épület.",
+        "Fontos nemzetközi diplomáciai találkozók helyszíne.",
+        "Gondozott kertek és díszes terek övezik a komplexumot.",
+        "Kiemelt biztonsági zónában helyezkedik el a fővárosban.",
+        "Gyakran szolgál állami ceremóniák és fogadások háttereként."
+      ]
+    },
+    {
+      "id": "mbini-bridge-landmarks-v2",
+      "descriptionAdvanced": "A Mbini-híd Egyenlítői-Guinea egyik legjelentősebb mérnöki teljesítménye, amely a Benito-folyó tágas torkolata felett ível át. Ez a modern vasbeton szerkezet alapjaiban változtatta meg a szárazföldi közlekedést, összekötve Bata városát a déli partvidékkel és Gabon irányával. A híd megépítése előtt az utazók csak lassú és kiszámíthatatlan kompokkal kelhettek át a folyón, ami jelentősen hátráltatta a gazdasági fejlődést. A híd nemcsak technikai bravúr, hanem esztétikai élmény is: kecses vonalai és hatalmas fesztávolsága fenséges látványt nyújt a trópusi folyótorkolat felett. Különösen naplementekor a híd sziluettje a víztükör felett az ország modernizációjának egyik legnépszerűbb fotótémája. Átadása óta a híd a logisztika és a nemzeti egység szimbólumává vált Río Muni régióban.",
+      "factsAdvanced": [
+        "A Benito-folyó felett átívelő, monumentális közúti híd.",
+        "Összeköti Batát a déli tartományokkal és a gaboni határral.",
+        "Az ország egyik leghosszabb és legmodernebb hídja.",
+        "Kiváltotta a lassú és elavult kompközlekedést a folyón.",
+        "Kritikus jelentőségű a regionális kereskedelem és logisztika számára.",
+        "Látványos panorámát nyújt a Benito-torkolatra és az óceánra.",
+        "A nemzeti infrastruktúra-fejlesztési program egyik büszkesége."
+      ]
+    },
+    {
+      "id": "cathedral-of-bata-landmarks-v2",
+      "descriptionAdvanced": "A batai Szent Jakab-székesegyház (Catedral de Santiago) a szárazföldi rész legnagyobb városának vallási és kulturális központja. Az épület a spanyol gyarmati építészet és a modern vallási design elemeit ötvözi, fehér falaival és elegáns harangtornyaival uralja a városközpont látképét. A katedrális belső tere tágas és világos, ahol a színes üvegablakok és a finom faragások méltóságteljes hangulatot árasztanak. Mint a Batai Egyházmegye székhelye, az épület nemcsak a hitélet központja, hanem fontos közösségi találkozóhely is a helyi lakosság számára. A székesegyház előtt elterülő tér gyakran megtelik hívőkkel az ünnepek idején, bemutatva az ország mélyen vallásos katolikus gyökereit. Bata modernizálódó környezetében a katedrális állandóságot és szellemi menedéket képvisel a látogatók számára.",
+      "factsAdvanced": [
+        "Bata városának legfontosabb katolikus székesegyháza.",
+        "A spanyol gyarmati és a modern építészet stílusjegyeit hordozza.",
+        "Két jellegzetes harangtornya a város egyik fő tájékozódási pontja.",
+        "A Batai Egyházmegye püspöki székhelye.",
+        "Belső terét értékes vallási művészeti alkotások díszítik.",
+        "A városi közösségi élet és a nagy ünnepek központi helyszíne.",
+        "Központi fekvése miatt könnyen megközelíthető a látogatók számára."
+      ]
+    },
+    {
+      "id": "unge-campus-malabo-landmarks-v2",
+      "descriptionAdvanced": "Az UNGE (Universidad Nacional de Guinea Ecuatorial) malabói campusa az ország legfontosabb oktatási és tudományos fellegvára. A fővárosban található épületegyüttes modern előadótermeket, jól felszerelt könyvtárakat és kutatólaboratóriumokat foglal magában, ahol az ország jövőbeli vezetőit és szakembereit képzik. A campus építészete a funkcionalitást és a reprezentatív megjelenést ötvözi, tágas tereivel és zöld kertjeivel inspiráló környezetet biztosít a hallgatóknak. Az egyetem nemcsak a felsőoktatás helyszíne, hanem a nemzeti identitás és a kulturális fejlődés motorja is, ahol számos tudományos konferenciát és kulturális eseményt rendeznek. Az UNGE jelenléte Malabóban hangsúlyozza az ország elkötelezettségét a tudás alapú társadalom megteremtése és az emberi erőforrások fejlesztése iránt.",
+      "factsAdvanced": [
+        "Egyenlítői-Guinea Nemzeti Egyetemének központi campusa.",
+        "Az ország legmagasabb szintű oktatási és kutatási intézménye.",
+        "Modern épületek és jól felszerelt akadémiai létesítmények.",
+        "Több ezer hallgató számára biztosít továbbtanulási lehetőséget.",
+        "A nemzeti tudományos és kulturális élet egyik központja.",
+        "Zöld parkok és tágas közösségi terek jellemzik a területet.",
+        "Fontos szerepet játszik a diplomások nemzetközi versenyképességében."
+      ]
+    },
+    {
+      "id": "ngolo-conference-center-landmarks-v2",
+      "descriptionAdvanced": "A batai Ngolo Konferenciaközpont Egyenlítői-Guinea egyik legmodernebb rendezvényhelyszíne a szárazföldi részen. Ez a monumentális épületegyüttes kifejezetten nemzetközi csúcstalálkozók, regionális konferenciák és nagy volumenű kulturális események befogadására készült. Az épület futurisztikus megjelenése, hatalmas üvegfelületei és a legkorszerűbb technológiával felszerelt tanácstermei az ország törekvését tükrözik a modernitás és a globális nyitottság felé. A Ngolo központ fontos szerepet játszik Bata diplomáciai és üzleti életének fellendítésében, lehetőséget adva nagyszabású fórumok megrendezésére az Atlanti-óceán partján. A komplexum tágas auditóriumokkal, elegáns fogadóterekkel és kiváló logisztikai háttérrel rendelkezik, ami alkalmassá teszi a legmagasabb szintű állami delegációk fogadására is.",
+      "factsAdvanced": [
+        "Nemzetközi színvonalú kongresszusi központ Bata városában.",
+        "Modern és futurisztikus építészeti megoldások jellemzik.",
+        "Kiemelt helyszín nagyszabású diplomáciai és gazdasági fórumokhoz.",
+        "A legújabb audiovizuális és tolmácstechnológiával felszerelt.",
+        "Hatalmas befogadóképességű auditóriumok és tárgyalók.",
+        "A szárazföldi régió diplomáciai presztízsét növelő beruházás.",
+        "Gyakran ad otthont regionális és nemzetközi csúcstalálkozóknak."
+      ]
+    },
+    {
+      "id": "pico-basile-tower-landmarks-v2",
+      "descriptionAdvanced": "A Pico Basilé csúcsán található televíziós és távközlési torony Egyenlítői-Guinea legmagasabban fekvő ember alkotta építménye, amely több mint 3000 méteres magasságban tör az ég felé. Ez a technológiai óriás nemcsak a nemzeti műsorszórás és távközlés központi csomópontja, hanem messziről látható tájékozódási pont is Bioko szigetén. A torony és a hozzá tartozó kiszolgáló épületek a vulkán csúcsán, gyakran a felhők felett helyezkednek el, ahonnan tiszta időben ellátni egészen a kameruni Mount Cameroon csúcsáig. A torony megközelítése a kanyargós hegyi úton keresztül önmagában is látványos utazás a trópusi növényzeti övezeteken keresztül. Ez a létesítmény szimbolizálja az ország technológiai integrációját és a modern kommunikációs hálózatok kiépítését a legnehezebb terepviszonyok között is.",
+      "factsAdvanced": [
+        "A nemzeti távközlés és műsorszórás legfontosabb adótornya.",
+        "A Pico Basilé csúcsán, 3011 méteres magasságban található.",
+        "Az ország legmagasabban fekvő technikai létesítménye.",
+        "Tiszta időben Kamerunig is elnyúló panorámát kínál.",
+        "Kritikus infrastruktúra a rádió- és televíziós hálózatok számára.",
+        "Kihívást jelentő mérnöki munka eredménye a vulkán tetején.",
+        "Meghatározó látványelem a Bioko sziget északi látképében."
+      ]
+    }
+  ]
+}

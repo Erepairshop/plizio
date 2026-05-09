@@ -1,0 +1,57 @@
+{
+  "lang": "de",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kabompo-river-nature-v2",
+      "descriptionAdvanced": "Der Kabompo-Fluss entspringt im Nordwesten Sambias und erstreckt sich über eine Länge von etwa 440 Kilometern, bevor er in den Sambesi mündet. Er durchfließt abgelegene, waldreiche Gebiete, die maßgeblich zum natürlichen Schutz der regionalen Flora und Fauna beitragen. Da der Flusslauf weite Strecken durch kaum erschlossene Regionen führt, gilt er als eines der naturbelassensten Flusssysteme im Nordwesten des Landes. Er bildet eine wichtige Lebensgrundlage für die lokale Tierwelt und dient gleichzeitig als essentielles hydrologisches Bindeglied in einer Region, die noch durch weitreichende unberührte Naturräume charakterisiert ist.",
+      "factsAdvanced": [
+        "Wichtiger Nebenfluss des Sambesi in Nordwest-Sambia",
+        "Gesamtlänge des Flusslaufs beträgt ca. 440 Kilometer",
+        "Entspringt in den abgelegenen Regionen des Nordwestens",
+        "Fließt weitgehend durch kaum erschlossene Waldgebiete",
+        "Gilt als eines der naturbelassensten Flusssysteme der Region",
+        "Wichtige ökologische Lebensader für die lokale Tierwelt"
+      ]
+    },
+    {
+      "id": "luangwa-valley-nature-v2",
+      "descriptionAdvanced": "Das Luangwa-Tal ist weltweit bekannt für seine außergewöhnlich hohe Dichte an Wildtieren und gilt als eine der letzten wahren Wildnisse Afrikas. Durch das Tal schlängelt sich der Luangwa-Fluss, dessen saisonale Überschwemmungen fruchtbare Böden schaffen und das Leben tausender Tiere bestimmen. Die Region beherbergt eine beeindruckende Population an Elefanten, Leoparden und Flusspferden, die das Luangwa-Tal zu einem der wichtigsten Ziele für nachhaltigen Naturschutz und ökologisch orientierten Safari-Tourismus machen. Die einzigartige landschaftliche Dynamik zwischen der trockenen Savanne und den grünen Flussufern bietet einen Lebensraum von unschätzbarem ökologischem Wert.",
+      "factsAdvanced": [
+        "Weltberühmt für eine der höchsten Wildtierkonzentrationen Afrikas",
+        "Eines der bedeutendsten Schutzgebiete für afrikanische Elefanten",
+        "Die Luangwa-Auen bilden die ökologische Grundlage für das Tal",
+        "Bekannt für eine hohe Dichte an Leoparden-Sichtungen",
+        "Die Landschaft zeichnet sich durch saisonale Dynamik aus",
+        "Essentieller Lebensraum für bedrohte Großtierarten"
+      ]
+    },
+    {
+      "id": "lusiwashi-lake-nature-v2",
+      "descriptionAdvanced": "Der Lusiwashi-See ist ein zwar kleineres, jedoch für die lokale Ökologie in der Muchinga-Region zentrales Gewässer. Er dient als wichtiger Rückzugsort und Wasserquelle für eine Vielzahl von Vogelarten und lokalen Tierpopulationen, insbesondere während der trockeneren Monate. Die naturnahe Umgebung des Sees, eingebettet in die typische Landschaft der Muchinga-Provinz, macht ihn zu einem interessanten Punkt für die Beobachtung unberührter Natur fernab der touristischen Hauptrouten. Durch seine Funktion als Wasserreservoir trägt er maßgeblich zur Stabilität des lokalen Mikroklimas bei und unterstützt die Erhaltung der Biodiversität in diesem eher ruhigen Gebiet.",
+      "factsAdvanced": [
+        "Wichtiges regionales Gewässer in der Muchinga-Provinz",
+        "Dient als entscheidende Wasserquelle in Trockenzeiten",
+        "Bedeutender Lebensraum für eine Vielzahl an Vogelarten",
+        "Naturnahe Umgebung fernab der touristischen Hauptzentren",
+        "Trägt zur Stabilisierung des lokalen Mikroklimas bei",
+        "Bietet ideale Voraussetzungen zur Beobachtung unberührter Natur"
+      ]
+    },
+    {
+      "id": "chishimba-falls-nature-v2",
+      "descriptionAdvanced": "Die Chishimba-Fälle in der Nähe von Kasama bilden ein eindrucksvolles System aus drei aufeinanderfolgenden Kaskaden auf dem Luombe-Fluss. Dieses Naturdenkmal ist tief in der Kultur der lokalen Bemba-Bevölkerung verwurzelt, die das Gelände seit Generationen als heiligen Ort respektiert und bewahrt. Die feuchte, nebelreiche Umgebung rund um die Wasserfälle ermöglicht das Gedeihen einer üppigen, fast regenwaldartigen Vegetation, die einen starken Kontrast zur umliegenden Savanne bildet. Die Wasserfälle sind nicht nur ein spektakuläres Ausflugsziel, sondern auch ein bedeutendes Zentrum für die Bewahrung des kulturellen Erbes der Region und den Schutz der lokalen Flussökosysteme.",
+      "factsAdvanced": [
+        "Bestehen aus drei spektakulären Kaskaden auf dem Luombe-Fluss",
+        "Gelegen in der Nordprovinz, nahe der Stadt Kasama",
+        "Historisch bedeutsamer heiliger Ort der Bemba-Bevölkerung",
+        "Die Gischt sorgt für eine üppige, fast regenwaldartige Flora",
+        "Etabliertes Ziel für Ökotourismus und Naturpfade",
+        "Der konstante Wasserfluss sichert das lokale Mikroklima"
+      ]
+    }
+  ]
+}

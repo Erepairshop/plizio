@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "ecuador",
+  "files": [
+    "lib/visualLab/data/poiExtraEcuadorEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "shushufindi-oelfeld-economic-v2",
+      "descriptionAdvanced": "A Shushufindi olajmező Ecuador Sucumbíos tartományában az ország egyik legjelentősebb energiahordozó-kitermelő bázisa. Az 1970-es évek elején történt felfedezése óta az olajmező a nemzeti gazdaság egyik fő pillére, amely nagymértékben hozzájárul az állami bevételekhez és az olajexport volumenéhez. A kitermelés a rendkívül érzékeny Amazonas-medence területén zajlik, ami komoly műszaki kihívások elé állítja az üzemeltető Petroecuador vállalatot. A modern technológia alkalmazása elengedhetetlen a környezeti kockázatok minimalizálása érdekében, miközben a kőolajszállítás kritikus infrastruktúrája, a csővezetékrendszer, a sűrű esőerdőn keresztül biztosítja a kőolaj eljuttatását a finomítókhoz. Az ilyen jellegű erőforrás-kitermelés és a fenntartható környezetvédelem közötti ellentmondásos viszony kiváló példa a K8-as szintű földrajzi tantervben az ökológiai lábnyom és a fenntartható fejlődés vizsgálatára.",
+      "factsAdvanced": [
+        "Az 1970-es évek elején tárták fel a jelentős kőolajkészleteket.",
+        "Ecuador egyik legtermelékenyebb olajmezője.",
+        "A kitermelés az ökológiailag sérülékeny Amazonas-medencében zajlik.",
+        "A nemzeti olajexport jelentős részét ez az olajmező biztosítja.",
+        "Az olajszállítás kritikus fontosságú csővezetékeken keresztül történik.",
+        "A területen zajló kitermelés rendszeresen társadalmi és környezeti viták tárgya.",
+        "Több ezer szakember számára biztosít munkalehetőséget a régióban."
+      ]
+    },
+    {
+      "id": "puerto-de-esmeraldas-economic-v2",
+      "descriptionAdvanced": "Az esmeraldasi kereskedelmi kikötő az ecuadori északi partvidék stratégiai fontosságú tengeri kapuja. A kikötő speciális terminálrendszereivel elsősorban az ország legfontosabb exporttermékének, a kőolajnak a nemzetközi piacokra történő juttatását biztosítja. Emellett a kikötő kulcsfontosságú logisztikai bázis a járműimport és különféle fogyasztási cikkek behozatalában, amelyek a fővárost, Quitót és a környező tartományokat látják el. A csendes-óceáni elhelyezkedése lehetővé teszi az hatékony kereskedelmi kapcsolatokat a nyugati félteke országaival, ami jelentősen javítja Ecuador piaci pozícióját. A tengeri kikötők logisztikai jelentősége, mint a nemzetközi kereskedelem csomópontjai, a K7-es szintű földrajzi tanterv fontos részét képezik.",
+      "factsAdvanced": [
+        "Az ország legfontosabb kőolaj-export kikötője.",
+        "Speciális terminálokkal rendelkezik a kőolajtermékek kezelésére.",
+        "Stratégiai jelentőségű kereskedelmi kapu a nyugati félteke felé.",
+        "Központi szerepet játszik az ecuadori autóimport lebonyolításában.",
+        "Az elmúlt években folyamatos és strukturált modernizáción ment keresztül.",
+        "Jelentős munkaerő-felvevő képességgel bír a tartományban.",
+        "Kulcsfontosságú létesítmény az északi régió tengeri logisztikájában."
+      ]
+    },
+    {
+      "id": "pronaca-fleischverarbeitung-economic-v2",
+      "descriptionAdvanced": "A Pronaca az ecuadori élelmiszeripar meghatározó nagyvállalata, amely az ország élelmezésbiztonságában tölt be központi szerepet, különösen a baromfi- és sertéshús-feldolgozás terén. A cég teljes vertikális integrációval működik: a saját tenyésztőfarmoktól kezdve a fejlett húsfeldolgozó technológiákig minden munkafázist ők irányítanak. A szigorú higiéniai előírások és a folyamatos minőségellenőrzés révén a vállalat a piac vezető szereplőjévé vált, amelynek termékei országszerte elérhetőek. Az ipari szintű élelmiszer-előállítás folyamata, a termelési láncok hatékonysága és a minőségbiztosítás fontossága a K5–K7-es szintű technika vagy gazdasági ismeretek órákon kiváló gyakorlati példaként szolgálnak a diákok számára.",
+      "factsAdvanced": [
+        "A vállalat Ecuador egyik piacvezető élelmiszertermelője.",
+        "Teljes vertikális integráció jellemzi a húsfeldolgozást.",
+        "Farmhálózatuk több tartományt is lefed.",
+        "Masszívan befektetnek a higiéniai és minőségellenőrzési folyamatokba.",
+        "Pichincha tartomány egyik jelentős foglalkoztatója.",
+        "Termékeik a nemzeti kiskereskedelmi hálózatokban szinte mindenhol jelen vannak.",
+        "Aktívan támogatják a fenntartható és modern tenyésztési technológiákat."
+      ]
+    },
+    {
+      "id": "gmac-automontage-quito-economic-v2",
+      "descriptionAdvanced": "A Quitóhoz közeli GM OBB autó-összeszerelő üzem Ecuador ipari fejlődésének egyik fontos mérföldköve, amely elsősorban a General Motors Chevrolet modelljeinek gyártásával foglalkozik. Az üzem nemcsak az ecuadori, hanem az egész andoki piacot ellátja személy- és tehergépjárművekkel. A gyár működése jól szemlélteti a külföldi közvetlen befektetések gazdaságélénkítő erejét, valamint a technológiai transzfer fontosságát az iparosodó országokban. A termelés magas szintű mérnöki szaktudást és precíz logisztikai tervezést igényel, ami a régiót a technikai tudás egyik központjává teszi. Az ilyen komplex ipari termelés megismerése a technika és gazdaságtan órákon kiválóan támogatja a K8-as szintű tanterv célkitűzéseit.",
+      "factsAdvanced": [
+        "Az ország egyik legnagyobb autóipari üzeme.",
+        "Főként Chevrolet-modelleket gyártanak a helyi és regionális piacokra.",
+        "A General Motors egyik fontos közös vállalkozása a régióban.",
+        "Magasan képzett mérnöki és technikusi munkahelyeket teremt.",
+        "Jelentős szerepet játszik a Quito környéki gazdaságban.",
+        "Számos helyi beszállítót integrál a gyártási folyamatba.",
+        "Hozzájárul a nemzeti gépjárműpark modernizációjához."
+      ]
+    },
+    {
+      "id": "palo-santo-destillation-economic-v2",
+      "descriptionAdvanced": "A Manabí régióbeli Palo Santo lepárlás a tradicionális tudás és a modern globális piac harmonikus ötvözete. A 'szent fa' fájából kinyert illóolajakat fenntartható módon, kizárólag a természetes módon kidőlt faanyagokból állítják elő, biztosítva ezzel az ökológiai egyensúlyt. A lepárlási folyamat eredményeként létrejött esszenciákat kozmetikai és spirituális célokra szerte a világon keresik. A helyi közösségek számára ez a kisméretű, de igen hatékony iparág stabil bevételi forrást és a hagyományok megőrzését biztosítja. A Palo Santo példája a K6-os szintű földrajz vagy környezetismeret órákon kiválóan alkalmas a fenntartható erőforrás-gazdálkodás és a felelős fogyasztás jelentőségének szemléltetésére.",
+      "factsAdvanced": [
+        "Az illóolajat vízgőz-desztillációval állítják elő.",
+        "A Palo Santo az etnobotanika egyik legbecsesebb növénye.",
+        "Szigorú szabályozások védik a fenntartható forrásból származó gyűjtést.",
+        "Kiemelkedő kereslet jellemzi a nemzetközi wellness-piacon.",
+        "Manabí vidéki közösségeinek fontos jövedelemforrása.",
+        "Az iparág közvetlenül támogatja a meglévő Palo Santo erdők megőrzését.",
+        "A hagyomány és a globális piac sikeres kombinációjának szimbóluma."
+      ]
+    }
+  ]
+}

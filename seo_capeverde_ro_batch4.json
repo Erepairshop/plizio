@@ -1,0 +1,74 @@
+{
+  "lang": "ro",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "salamansa-cities-v2",
+      "descriptionAdvanced": "Salamansa este situată pe coasta nordică a insulei São Vicente, la aproximativ opt kilometri nord-est de Mindelo. Satul pescăresc, cu o populație de aproximativ 1.000 de locuitori, se întinde de-a lungul unui golf în formă de seceră, caracterizat prin nisip deschis la culoare și influențat constant de vânturile alizee. Aceste curenți de aer puternici, care pot atinge 30 de noduri între octombrie și mai, au transformat Salamansa într-o destinație preferată pentru pasionații de windsurfing și kitesurfing. Pescuitul rămâne activitatea economică principală a comunității, bărcile tradiționale din lemn pornind zilnic în larg. Conexiunea rutieră cu Mindelo, stabilită în anii 2000, a facilitat dezvoltarea accesului către această zonă pitorească, aflată în proximitatea insulei nelocuite Santa Luzia.",
+      "factsAdvanced": [
+        "Situat la 8 km nord-est de Mindelo",
+        "Populație de aproximativ 1.000 locuitori",
+        "Golf cu nisip deschis la culoare",
+        "Vânturi alizee constante între octombrie și mai",
+        "Destinație populară pentru wind și kitesurfing",
+        "Poziție strategică cu vedere spre Santa Luzia",
+        "Conexiune rutieră modernizată în anii 2000"
+      ]
+    },
+    {
+      "id": "sao-pedro-cities-v2",
+      "descriptionAdvanced": "São Pedro se află pe coasta sud-vestică a insulei São Vicente, la aproximativ zece kilometri sud de Mindelo, chiar lângă Aeroportul Internațional Cesária Évora. Satul, cu o populație de circa 1.500 de locuitori, se întinde de-a lungul unui golf cu nisip luminos, renumit global pentru condițiile sale optime pentru windsurfing de viteză. În 1990, aici s-a înregistrat un record mondial de viteză de peste 47 de noduri. Golful constituie un habitat critic pentru țestoasele marine, care își depun ouăle între iunie și octombrie. O potecă de drumeție pornește din sat către farul istoric Dona Amélia, aflat pe peninsula Ponta Machado și inaugurat în 1885.",
+      "factsAdvanced": [
+        "Situat la 10 km sud de Mindelo",
+        "Populație de circa 1.500 de locuitori",
+        "Record mondial de windsurfing în 1990 (47 noduri)",
+        "Aeroportul Internațional Cesária Évora în proximitate",
+        "Farul istoric Dona Amélia în funcțiune din 1885",
+        "Zona de cuibărit pentru țestoase marine (iunie-octombrie)",
+        "Golf cu nisip luminos și vânt constant"
+      ]
+    },
+    {
+      "id": "baia-das-gatas-cities-v2",
+      "descriptionAdvanced": "Baía das Gatas se află pe coasta nord-estică a insulei São Vicente, la zece kilometri nord-est de Mindelo. Denumirea golfului provine de la rechinii-pisică ce populau odinioară zona. Un recif natural protejează golful de forța oceanului, formând o lagună cu ape cristaline și calme, ideale pentru înot și snorkeling. Festivalul anual de muzică „Festival da Baía das Gatas”, înființat în 1984 și desfășurat în luna august, atrage mii de vizitatori, fiind unul dintre cele mai importante evenimente open-air din Africa de Vest. Deși satul numără doar 200 de locuitori permanenți, zona găzduiește numeroase case de vacanță aparținând locuitorilor din Mindelo.",
+      "factsAdvanced": [
+        "Situat la 10 km nord-est de Mindelo",
+        "Festival anual de muzică din 1984 (luna august)",
+        "Unul dintre cele mai mari festivaluri din Africa de Vest",
+        "Lagună protejată natural de recif",
+        "Populație permanentă de circa 200 de locuitori",
+        "Numele derivat din prezența istorică a rechinilor-pisică",
+        "Locație preferată pentru snorkeling și activități familiale"
+      ]
+    },
+    {
+      "id": "espargos-cities-v2",
+      "descriptionAdvanced": "Espargos este situat în centrul insulei Sal și a devenit capitala municipiului cu același nume în 1939. Denumirea sa provine de la sparanghelul sălbatic ce creștea odinioară pe câmpiile aride. Cu o populație de aproximativ 21.000 de locuitori, Espargos este cel mai mare oraș al insulei, concentrând peste 75% din totalul locuitorilor din Sal. Aeroportul Internațional Amílcar Cabral, situat la marginea orașului, a fost inaugurat în 1939 drept prima escală transoceanică, fiind astăzi al doilea cel mai important aeroport din Capul Verde. Localitatea s-a dezvoltat inițial ca așezare de susținere pentru infrastructura aeroportuară și salinele din Pedra de Lume, constituind acum hub-ul administrativ și economic central al insulei.",
+      "factsAdvanced": [
+        "Populație de aproximativ 21.000 de persoane (2021)",
+        "Capitala municipiului Sal din 1939",
+        "Aeroportul Internațional Amílcar Cabral operațional din 1939",
+        "Nume inspirat de sparanghelul sălbatic local",
+        "Concentrare de peste 75% din populația insulei",
+        "Al doilea aeroport ca importanță din Capul Verde",
+        "Hub logistic pentru salinele Pedra de Lume"
+      ]
+    },
+    {
+      "id": "santa-maria-cities-v2",
+      "descriptionAdvanced": "Santa Maria, situat în extremitatea sudică a insulei Sal, reprezintă principalul centru turistic al arhipelagului. Fondat în 1830 ca stație pentru comerțul cu sare, localitatea a exportat produsul către Brazilia și Africa de Vest până la mijlocul secolului XX. Astăzi, Santa Maria găzduiește 8.000 de locuitori permanenți și mii de turiști anual. Plaja de opt kilometri, cu nisip fin și ape turcoaz, este considerată una dintre cele mai frumoase din Africa de Vest. Pontonul istoric din lemn, construit în 1835 pentru încărcarea sării, a devenit punctul central de întâlnire pentru pescarii locali dimineața. Zona oferă oportunități excelente pentru observarea balenelor (februarie-mai) și scufundări la epavele Boa Esperança și Santo Antão.",
+      "factsAdvanced": [
+        "Fondată în 1830 ca stație pentru exportul sării",
+        "Populație de circa 8.000 de locuitori",
+        "Plajă de 8 km cu nisip fin și apă turcoaz",
+        "Ponton istoric din 1835, punct de întâlnire al pescarilor",
+        "Sezon pentru observarea balenelor (februarie-mai)",
+        "Scufundări la epavele Boa Esperança și Santo Antão",
+        "Principalul nod turistic al Capului Verde"
+      ]
+    }
+  ]
+}

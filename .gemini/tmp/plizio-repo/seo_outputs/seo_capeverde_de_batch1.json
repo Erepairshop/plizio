@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "porto-grande-mindelo-economic-v2",
+      "descriptionAdvanced": "Porto Grande in Mindelo ist der tiefste und bedeutendste Naturhafen der Kapverden. Er fungiert als zentrales Logistikdrehkreuz für den Import und Export des gesamten Archipels und war historisch ein unverzichtbarer Anlaufpunkt für transatlantische Seefahrer. Heute unterstützt der modernisierte Hafen sowohl den kommerziellen Güterumschlag als auch den internationalen Kreuzfahrttourismus und bietet essenzielle Dienstleistungen für die lokale Fischereiindustrie sowie professionelle Schiffsreparaturmöglichkeiten auf São Vicente.",
+      "factsAdvanced": [
+        "Tiefster Naturhafen der Kapverden",
+        "Wichtigstes Drehkreuz für den Import/Export",
+        "Zentrum für internationale Kreuzfahrtschiffe",
+        "Umfangreiche Kapazitäten zur Schiffsreparatur",
+        "Strategischer Standort im Atlantischen Ozean",
+        "Lebensader für die Wirtschaft von São Vicente"
+      ]
+    },
+    {
+      "id": "porto-da-praia-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Praia ist der maritime Haupteingang zur Hauptstadt und bedient einen Großteil des Warenverkehrs für die Insel Santiago und den weiteren Archipel. Nach umfassenden Modernisierungsmaßnahmen ermöglicht der Standort eine effiziente Containerabfertigung und logistische Abwicklung, die für die Versorgung der Bevölkerung mit Lebensmitteln, Brennstoffen und Baumaterialien entscheidend ist. Als zentrales Wirtschaftsinstrument generiert der Hafen zahlreiche Arbeitsplätze und bildet die Basis für den industriellen und kommerziellen Fortschritt der gesamten Region Santiago.",
+      "factsAdvanced": [
+        "Hauptumschlagplatz für die Hauptstadt Praia",
+        "Modernste Container-Terminal-Infrastruktur",
+        "Essenzielle Versorgung der Insel Santiago",
+        "Wichtigster Knotenpunkt der nationalen Logistik",
+        "Umfangreiche Kapazitäten für Stückgut",
+        "Motor für die regionale Beschäftigung"
+      ]
+    },
+    {
+      "id": "porto-de-palmeira-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Palmeira ist das maritime Tor zur Insel Sal und damit die Grundlage für die touristische Entwicklung und wirtschaftliche Stabilität der gesamten Insel. Er ist verantwortlich für den Import der für die Hotellerie benötigten Ressourcen, Brennstoffe und Lebensmittel, die das Leben auf Sal ermöglichen. Neben der kommerziellen Rolle als Frachthafen dient er zudem als Ausgangspunkt für Bootsausflüge und diverse Fischereiaktivitäten, was ihn zu einem unverzichtbaren Bestandteil der lokalen Infrastruktur macht.",
+      "factsAdvanced": [
+        "Haupthafen der touristisch geprägten Insel Sal",
+        "Zentrale Anlaufstelle für Hotellerie-Versorgung",
+        "Wichtigster Umschlagplatz für Industriegüter",
+        "Drehkreuz für touristische Meeresausflüge",
+        "Förderer der lokalen Fischereiindustrie",
+        "Entscheidend für die Insel-Infrastruktur"
+      ]
+    },
+    {
+      "id": "porto-novo-harbour-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Porto Novo ist die lebenswichtige Lebensader der Insel Santo Antão und ermöglicht die einzige zuverlässige Fährverbindung nach Mindelo auf São Vicente. Da die Insel über keinen eigenen Flughafen verfügt, fungiert dieser Hafen als zentraler Umschlagplatz für Passagiere sowie als Ausgangspunkt für den Export der berühmten lokalen Agrarerzeugnisse wie Kaffee, Zuckerrohr und diverses Gemüse. Er bildet das wirtschaftliche Herz der Insel und ist der Hauptzugangspunkt für Reisende, die die spektakuläre Naturlandschaft von Santo Antão erkunden möchten.",
+      "factsAdvanced": [
+        "Einzige Fährverbindung für die Insel Santo Antão",
+        "Zentraler Knotenpunkt nach Mindelo (São Vicente)",
+        "Hauptumschlagplatz für Agrar-Exporte",
+        "Unverzichtbar für den Personenverkehr",
+        "Wirtschaftliches Herz der gesamten Insel",
+        "Hauptzugang für den Tourismussektor"
+      ]
+    },
+    {
+      "id": "porto-vale-cavaleiros-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Vale dos Cavaleiros in São Filipe ist der Dreh- und Angelpunkt für den gesamten Waren- und Personenverkehr auf der Insel Fogo. Er sichert nicht nur den Import lebensnotwendiger Güter für den täglichen Bedarf, sondern ist auch für den Export hochwertiger lokaler Produkte wie den berühmten Fogo-Wein und Kaffee unverzichtbar. Dank der regelmäßigen Fährverbindung zur Hauptstadt Praia ist dieser Standort für die wirtschaftliche Anbindung der Insel und die wachsende Bedeutung des Vulkantourismus von großer Bedeutung.",
+      "factsAdvanced": [
+        "Wichtigster Seezugang der Insel Fogo",
+        "Regelmäßige Fährverbindung nach Praia",
+        "Zentrum für die Versorgung der lokalen Bevölkerung",
+        "Exportstandort für Fogo-Wein und Kaffee",
+        "Zentrale Stütze des Vulkantourismus",
+        "Standort in São Filipe"
+      ]
+    }
+  ]
+}

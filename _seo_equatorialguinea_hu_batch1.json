@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "eg-lng-plant-economic-v2",
+      "descriptionAdvanced": "Az EG LNG üzem Egyenlítői-Guinea egyik legmodernebb ipari létesítménye, amely a Punta Europa komplexumban található Bioko szigetén. A 2007-ben üzembe helyezett gyár elsődleges feladata a tengeri mezőkről származó földgáz cseppfolyósítása és nemzetközi exportra való előkészítése. Az üzem éves szinten több millió tonna LNG-t termel, amivel az ország egyik legfontosabb devizaforrását biztosítja. A projekt a nemzeti olajtársaság, a GEPetrol és nemzetközi energetikai óriások sikeres együttműködésének eredménye. A technológiai folyamatok során szigorú biztonsági és környezetvédelmi előírásokat tartanak be. Az itt termelt cseppfolyósított földgáz jelentős része az ázsiai és európai piacokra kerül. Az üzem bevételei kulcsszerepet játszanak a nemzeti infrastruktúra-fejlesztési tervek finanszírozásában, elősegítve az utak és középületek építésépítését.",
+      "factsAdvanced": [
+        "A Punta Europa ipari komplexum egyik zászlóshajója.",
+        "2007-ben kezdték meg a kereskedelmi termelést.",
+        "Évente több millió tonna LNG-t állít elő exportra.",
+        "Kiemelt jelentőségű a nemzeti GDP szempontjából.",
+        "Szigorú nemzetközi biztonsági protokollok szerint működik.",
+        "A GEPetrol és külföldi partnerek közös vállalkozása.",
+        "A modern technológia alkalmazásával csökkentik a gázfáklyázást."
+      ]
+    },
+    {
+      "id": "ampco-methanol-economic-v2",
+      "descriptionAdvanced": "Az AMPCO metanolüzem a világ egyik legnagyobb és leghatékonyabb metanoltermelő egysége, amely Bioko szigetének északi részén üzemel. A létesítmény a helyben kitermelt földgázt használja alapanyagként, amelyet vegyipari folyamatok révén értékes metanollá alakítanak át. Ez az üzem kiváló példája az ország ipari diverzifikációjának, hiszen a nyers kőolaj mellett feldolgozott vegyipari termékeket is kínál a világpiacnak. A gyár modern technológiát alkalmaz, és magasan képzett helyi munkaerőt foglalkoztat, hozzájárulva a szakmai tudás átadásához. Az AMPCO termékeit speciális terminálokon keresztül szállítják a nemzetközi vásárlókhoz, többek között a műanyagipar és az üzemanyaggyártás számára. Az üzem működése stabil bevételi forrást és ipari hátteret biztosít az országnak a globális energiapiacon.",
+      "factsAdvanced": [
+        "A világ egyik vezető metanolgyártó üzeme.",
+        "Helyi offshore gázmezőkről kapja az alapanyagot.",
+        "Kiemelkedő szerepet játszik a vegyipari exportban.",
+        "Modern környezetvédelmi és hatékonysági szabványok.",
+        "Számos szakképzett helyi mérnöknek ad munkát.",
+        "Saját rakodóterminállal rendelkezik a kikötőben.",
+        "Fontos állomás az ipari diverzifikációs stratégiában."
+      ]
+    },
+    {
+      "id": "alba-gas-plant-economic-v2",
+      "descriptionAdvanced": "Az Alba gázüzem Bioko szigetén az energetikai önellátás és a lakossági ellátás egyik legfontosabb oszlopa. A létesítmény az offshore Alba mezőből származó gázt és kondenzátumokat dolgozza fel, biztosítva az ország számára elengedhetetlen folyékony gázt (LPG). Ez a termék a háztartásokban főzéshez használt gáz elsődleges forrása, így közvetlen hatással van a lakosság életminőségére. Emellett az üzem üzemanyaggal látja el a malabói erőművet is, stabilizálva ezzel a főváros áramellátását. A gyár folyamatos modernizáción megy keresztül, hogy növelje a hatékonyságot és megfeleljen a növekvő hazai igényeknek. Az Alba üzem sikeres működése bizonyítja a nemzeti erőforrások hatékony felhasználását a belföldi piacon és az energetikai biztonság megteremtésében.",
+      "factsAdvanced": [
+        "Az offshore Alba mező gázkészleteit dolgozza fel.",
+        "A hazai LPG (főzőgáz) elsődleges forrása az országban.",
+        "Közvetlen vezetéken keresztül látja el az erőműveket.",
+        "Nagy kapacitású tárolótartályokkal rendelkezik Biokón.",
+        "Alapvető fontosságú a főváros energetikai stabilitásához.",
+        "Jelentős mennyiségű kondenzátumot is termel exportra.",
+        "A nemzeti gázhálózat integrált része Malabo közelében."
+      ]
+    },
+    {
+      "id": "port-annobon-economic-v2",
+      "descriptionAdvanced": "San Antonio de Palé kikötője Annobón szigetén az egyetlen modern tengeri kapu ebbe a távoli és elszigetelt tartományba. A nemrégiben végrehajtott jelentős bővítések során a kikötőt alkalmassá tették nagyobb teherhajók és személyszállító vízi járművek fogadására is. Figyelembe véve a sziget nagy távolságát a szárazföldtől, ez a létesítmény az életvonalat jelenti az itt lakók számára, hiszen ezen keresztül érkezik az élelmiszer, az üzemanyag, a gyógyszer és az építőanyag. A robusztus móló és a modernizált rakparti infrastruktúra lehetővé tette a rendszeres logisztikai kapcsolat fenntartását Malabóval és Batával. A kikötő fejlesztése nemcsak a gazdasági tevékenységet élénkítette fel a szigeten, hanem növelte a nemzeti integráció érzését is a helyi közösségben, elősegítve a távoli régió társadalmi fejlődését.",
+      "factsAdvanced": [
+        "Annobón szigetének egyetlen mélyvízi kikötője.",
+        "Létfontosságú az áruellátás és a logisztika szempontjából.",
+        "A közelmúltban jelentős kormányzati beruházással modernizálták.",
+        "Alkalmas nagy merülésű teherhajók fogadására is.",
+        "A sziget és a szárazföld közötti fő közlekedési csomópont.",
+        "Támogatja a helyi halászati és kereskedelmi tevékenységeket.",
+        "Segíti a humanitárius és egészségügyi szállítmányok célba érését."
+      ]
+    },
+    {
+      "id": "port-cogo-economic-v2",
+      "descriptionAdvanced": "Cogo kikötője egy történelmi jelentőségű folyami kikötő a Muni-folyó torkolatánál, közvetlenül a gaboni határ közelében. Stratégiai elhelyezkedése révén évszázadok óta fontos kereskedelmi pont, ahol a szárazföld belsejéből érkező faanyagot és mezőgazdasági termékeket hajóra rakják. Manapság a kikötő központi szerepet játszik a régió halászatában és a kisméretű regionális kereskedelemben a szomszédos országokkal. A torkolatvidék mély vizei és a mangrovék által védett öblök biztonságos horgonyzóhelyet kínálnak a pirogok és a kisebb motoros hajók számára. Cogo kikötője nemcsak gazdasági központ, hanem a déli partvidék logisztikai motorja is, amely összeköti a szárazföld távoli településeit a tengeri útvonalakkal. A terület festői szépsége és a régi gyarmati épületek közelsége egyedülálló hangulatot kölcsönöz a kikötői negyednek.",
+      "factsAdvanced": [
+        "A Muni-torkolat egyik legfontosabb folyami kikötője.",
+        "Történelmileg a fa- és elefántcsont-kereskedelem központja volt.",
+        "Fontos csomópont a Gabon felé irányuló kiskereskedelemben.",
+        "A helyi kisipari halászat és logisztika bázisa.",
+        "Gazdag mangrove-ökoszisztéma veszi körül a vizeket.",
+        "Stratégiai elhelyezkedés Río Muni legdélebbi pontján.",
+        "Segíti a déli part menti személy- és áruszállítást."
+      ]
+    },
+    {
+      "id": "bioko-oil-terminal-economic-v2",
+      "descriptionAdvanced": "A Bioko olajterminál egy monumentális tároló- és elosztó létesítmény Malabo közelében, amely a globális energiaellátási lánc egyik kritikus pontja. Itt gyűjtik össze a hatalmas offshore mezőkről származó nyersolajat, mielőtt azt nemzetközi tartályhajókra szivattyúznák a világpiac számára. A terminál hatalmas kapacitású tárolótartály-hálózattal rendelkezik, amelyek modern biztonsági és monitoring rendszerekkel vannak felszerelve. Mint az ország legértékesebb exporttermékének elsődleges kilépési pontja, a terminál zavartalan működése alapvető fontosságú a nemzeti költségvetés stabilitása szempontjából. A létesítmény megfelel a legszigorúbb nemzetközi környezetvédelmi szabványoknak, minimálisra csökkentve a tengerszennyezés kockázatát. A terminál fejlesztése és karbantartása jelzi Egyenlítői-Guinea elkötelezettségét a professzionális energetikai gazdálkodás mellett a Guineai-öbölben.",
+      "factsAdvanced": [
+        "Az ország legnagyobb nyersolaj-tároló és rakodó bázisa.",
+        "Közvetlen kapcsolatban áll a tengeri fúrótornyokkal.",
+        "Modern távfelügyeleti és tűzvédelmi rendszerekkel rendelkezik.",
+        "Stratégiai fekvése biztosítja a nagy tartályhajók fogadását.",
+        "A nemzeti gazdaság és devizabevételek központi eleme.",
+        "Malabo ipari övezetében, a tengerparton található.",
+        "Szigorú nemzetközi biztonsági protokollok (ISPS) szerint üzemel."
+      ]
+    },
+    {
+      "id": "bata-power-plant-economic-v2",
+      "descriptionAdvanced": "A Bata erőmű az ország legnagyobb szárazföldi városának elsődleges hőenergia-ellátó létesítménye, amely a stabil áramellátás alapjait biztosítja Río Muni régióban. Az erőmű gázzal vagy folyékony üzemanyaggal működik, és kulcsszerepet játszik a városi háztartások, kórházak és ipari egységek napi energiaigényének kielégítésében. Az elmúlt években a létesítményt jelentősen modernizálták és bővítették, hogy lépést tartsanak Bata gyors népességnövekedésével és urbanizációjával. Az erőmű megbízhatósága elengedhetetlen a gazdasági tevékenységek fenntartásához Litoral tartományban. A vízerőművekkel párhuzamosan ez a hőerőmű alkotja a nemzeti energiahálózat gerincét a szárazföldön, biztosítva a folyamatos áramellátást még az aszályos időszakokban is, amikor a folyók vízszintje alacsonyabb.",
+      "factsAdvanced": [
+        "Bata városának és környékének legfőbb áramforrása.",
+        "Hőerőműként rugalmasan reagál az energiaigényekre.",
+        "Gázt vagy speciális olajszármazékokat használ üzemanyagként.",
+        "Kiemelt szerepe van a szárazföldi ipari zónák ellátásában.",
+        "Az elmúlt évtizedben több ütemben korszerűsítették.",
+        "Létfontosságú a városi közszolgáltatások működéséhez.",
+        "A kontinentális integrált energiahálózat része."
+      ]
+    },
+    {
+      "id": "malabo-power-plant-economic-v2",
+      "descriptionAdvanced": "A malabói erőmű Egyenlítői-Guinea fővárosának és Bioko szigetének északi régiójának energetikai központja. A létesítmény elsősorban a közeli gázmezőkről származó földgázt hasznosítja elektromos áram előállítására, ami környezetkímélőbb és költséghatékonyabb megoldás a korábbi dízelgenerátoroknál. Az erőmű garantálja a kormányzati épületek, diplomáciai képviseletek és a növekvő lakónegyedek folyamatos ellátását. Stratégiai elhelyezkedése az ipari negyedben lehetővé teszi a közvetlen gázellátást és a hatékony elosztást. A modern turbinák és vezérlőrendszerek biztosítják a hálózati stabilitást, ami alapfeltétele a főváros modern metropoliszszá válásának. Az erőmű működése közvetlenül támogatja az ország gazdasági céljait és a lakosság életszínvonalának emelését azáltal, hogy megbízható és megfizethető energiát szolgáltat.",
+      "factsAdvanced": [
+        "Malabo fővárosának központi áramfejlesztő üzeme.",
+        "Tisztább földgáz-alapú technológiát alkalmaz a termelésben.",
+        "Közvetlen kapcsolatban áll a Punta Europa gázüzemmel.",
+        "Biztosítja a stratégiai fontosságú állami intézmények áramellátását.",
+        "Modernizációja révén jelentősen csökkentek a városi áramkimaradások.",
+        "Fontos pillére Bioko sziget gazdasági fejlődésének.",
+        "A nap 24 órájában folyamatos felügyelet alatt működik."
+      ]
+    },
+    {
+      "id": "luba-sawmill-economic-v2",
+      "descriptionAdvanced": "A lubai fűrészüzem Bioko szigetének egyik legnagyobb ipari feldolgozóegysége, amely a sziget déli és nyugati részén található sűrű esőerdőkből származó nemesfára specializálódott. A gyár a rönköket kiváló minőségű fűrészáruvá és késztermékekké alakítja, amelyeket mind a hazai építőiparban használnak, mind nemzetközi piacokra exportálnak. Az üzem jelentős munkáltató Bioko Sur tartományban, hozzájárulva a helyi közösségek gazdasági stabilitásához. A fűrészüzem szigorú állami szabályozás mellett működik, amelynek célja a fenntartható erdőgazdálkodás és az ország természeti erőforrásainak értéknövelt felhasználása. A létesítmény modern gépparkja lehetővé teszi a trópusi keményfák precíz megmunkálását. Ez az ipari egység jó példája annak, hogyan próbálja az ország a nyersanyag-exportot helyi feldolgozással kiváltani.",
+      "factsAdvanced": [
+        "Bioko sziget legfontosabb fafeldolgozó létesítménye.",
+        "Értékes trópusi fafajok feldolgozására szakosodott.",
+        "A termékek jelentős része nemzetközi exportra kerül.",
+        "Luba városának egyik fő gazdasági motorja és munkáltatója.",
+        "Támogatja a hazai bútorgyártást és az építőipart.",
+        "A fenntartható erdészeti irányelvek alapján működik.",
+        "Modern vágó- és szárítóberendezésekkel van felszerelve."
+      ]
+    },
+    {
+      "id": "mbini-fishing-port-economic-v2",
+      "descriptionAdvanced": "A mbini halászkikötő a Benito-folyó torkolatánál fekvő stratégiai létesítmény, amely Río Muni partvidékének halászati központjaként szolgál. A kikötő elengedhetetlen infrastruktúrát biztosít mind a kisipari, mind a kereskedelmi halászflották számára, beleértve a modern mólókat, üzemanyagtöltő állomásokat és hűtőházakat. Ez utóbbiak kulcsfontosságúak a napi fogás frissen tartásához és a piacokra való eljuttatásához. A halászat Mbini környékén több ezer család fő megélhetési forrása, a kikötő pedig lehetővé teszi a friss tengeri és folyami termékek hatékony elosztását Bata és a belső területek felé. A létesítmény tükrözi a kormány elkötelezettségét a hagyományos szektorok modernizálása és az élelmezésbiztonság fokozása iránt. A kikötői élet lüktetése Mbini kulturális és társadalmi identitásának is meghatározó része.",
+      "factsAdvanced": [
+        "A Benito-folyó torkolatának központi logisztikai bázisa.",
+        "A szárazföldi halászati ágazat legfontosabb csomópontja.",
+        "Modern jéggyártó és hűtőtároló kapacitásokkal rendelkezik.",
+        "Halászhajók százai használják naponta bázisként.",
+        "A régió egyik legfontosabb tengeri herkentyű rakodóhelye.",
+        "Támogatja a helyi kisvállalkozásokat és a tengerparti kereskedelmet.",
+        "Kulcsszerepet játszik Litoral tartomány élelmezési láncában."
+      ]
+    },
+    {
+      "id": "mongomo-industrial-zone-economic-v2",
+      "descriptionAdvanced": "A mongomói ipari zóna egy kijelölt terület Wele-Nzas tartomány keleti részén, amelyet kifejezetten a könnyűipar, a kézművesség és a helyi gyártás ösztönzésére hoztak létre. Az alapvető infrastruktúra, mint az utak, a stabil áramellátás és a vízhálózat biztosításával a zóna vonzóvá teszi a régiót a hazai és a külföldi befektetők számára egyaránt. Az itt működő műhelyek és raktárak főként fogyasztási cikkek, bútorok és építőanyagok előállításával foglalkoznak, csökkentve az importtól való függőséget a szárazföld belsejében. Mongomo ipari negyede stratégiai elhelyezkedése révén, a gaboni határ közelében, a regionális kereskedelem és az integráció fontos pontja. A zóna kulcsfontosságú eleme a nemzeti decentralizációs tervnek, amely a gazdasági tevékenységeket a part menti városokból a belső tartományok felé tereli.",
+      "factsAdvanced": [
+        "Wele-Nzas tartomány legnagyobb könnyűipari központja.",
+        "Támogatja a helyi vállalkozókat és munkahelyeket teremt.",
+        "Fókuszban az építőanyagok és háztartási cikkek gyártása áll.",
+        "Kiváló közúti összeköttetés a gaboni határ és Mongomo felé.",
+        "Segíti a belső országrész gazdasági diverzifikációját.",
+        "Modern raktárhelyiségekkel és gyártócsarnokokkal rendelkezik.",
+        "A kormányzati iparfejlesztési program egyik kulcsprojektje."
+      ]
+    },
+    {
+      "id": "akoga-cement-factory-economic-v2",
+      "descriptionAdvanced": "Az akogai cementgyár egy létfontosságú ipari létesítmény Litoral tartományban, amely az ország hatalmas infrastruktúra-építési hullámának alapanyagát biztosítja. A gyárban helyben előállított kiváló minőségű cement jelentősen csökkenti a fejlesztési projektek költségeit, és mérsékli a drága külföldi importtól való függőséget. A komplexumot modern őrlő- és kemencetechnológiával szerelték fel, ami biztosítja a hatékony termelést és az állandó minőséget. Az itt gyártott cementet országszerte használják utak, hidak és új városi negyedek építéséhez, különösen Bata fejlődésében játszott fontos szerepet. Az akogai gyár az ország ipari önállóságra való törekvésének szimbóluma, amely képes kiszolgálni a hazai piac növekvő igényeit és hozzájárul a kontinentális régió modernizációjához.",
+      "factsAdvanced": [
+        "Egyenlítői-Guinea egyik legjelentősebb cementgyára.",
+        "Alapvető fontosságú a nemzeti építőipar számára.",
+        "Csökkenti az ország függőségét a külföldi alapanyagoktól.",
+        "Litoral tartományban, stratégiai fekvésű helyen található.",
+        "Kiváló minőségű építőanyagot biztosít nagyberuházásokhoz.",
+        "Modern, nagy kapacitású gyártósorokkal üzemel.",
+        "Jelentősen hozzájárul a szárazföldi utak és hidak építéséhez."
+      ]
+    },
+    {
+      "id": "k5-logistics-malabo-economic-v2",
+      "descriptionAdvanced": "A K5 logisztikai központ Malabóban, a Luba felé vezető út 5. kilométerénél található, és az ország legjelentősebb üzleti és elosztó parkja. Ez a kiterjedt komplexum modern raktárakat, irodákat és speciális tárolóhelyeket kínál számos nemzetközi és hazai vállalat számára. Elsősorban a fogyasztási cikkek, ipari berendezések és az olajipari felszerelések központi elosztóhelyeként funkcionál, kihasználva a fővároshoz és a kikötőkhöz való közelségét. A K5 a nemzetközi üzleti élet egyik központjává vált Bioko szigetén, ahol számos multinacionális cég telepedett le. A központ fejlődése professzionálissá tette a helyi logisztikai szektort, és világszínvonalú környezetet teremtett a kereskedelem számára. Biztonsági rendszerei és támogató szolgáltatásai révén a K5 a gazdasági infrastruktúra egyik tartóoszlopa.",
+      "factsAdvanced": [
+        "Bioko szigetének első számú logisztikai és üzleti parkja.",
+        "Stratégiai fekvés Malabo és a főbb kikötők közelében.",
+        "Nemzetközi színvonalú raktározási és irodai szolgáltatások.",
+        "Az olaj- és gázipari szervizcégek kedvelt bázisa.",
+        "Létfontosságú a fővárosi áruellátási lánc működéséhez.",
+        "Korszerű telekommunikációs és biztonsági infrastruktúra.",
+        "Helyszínt biztosít számos multinacionális vállalat székházának."
+      ]
+    },
+    {
+      "id": "palm-oil-akonibe-economic-v2",
+      "descriptionAdvanced": "Az akonibei pálmaolaj-üzem egy jelentős agrár-ipari létesítmény Wele-Nzas tartomány termékeny vidékén, a szárazföld szívében. Az üzem a környékbeli ültetvényekről és kistermelőktől származó pálmaolaj-bogyókat dolgozza fel finomított étolajjá belföldi fogyasztásra. Azzal, hogy biztos piacot teremt a helyi mezőgazdasági termékeknek, a gyár közvetlenül támogatja több ezer vidéki család megélhetését és ösztönzi az agrár-diverzifikációt. Az üzem Egyenlítői-Guinea azon törekvését jelképezi, hogy újjáélessze a hagyományos mezőgazdaságot és elérje az élelmezési önellátást. Akonibe gazdaságában központi szerepet játszik a gyár, és bemutatja a trópusi esőerdő régióban rejlő fenntartható ipari lehetőségeket. A termelés folyamatos bővítése a cél, hogy az országot függetlenítsék a behozott étolajoktól.",
+      "factsAdvanced": [
+        "Fontos agroindusztriális projekt Wele-Nzas tartományban.",
+        "Helyben termesztett alapanyagokból készít étolajat.",
+        "Közvetlen bevételi forrást biztosít a környékbeli gazdáknak.",
+        "Segíti az ország élelmezésbiztonsági céljainak elérését.",
+        "Akonibe régiójának egyik legnagyobb ipari munkáltatója.",
+        "Modern sajtoló- és finomítóberendezésekkel rendelkezik.",
+        "Kiváló példa a vidéki területek gazdasági fejlesztésére."
+      ]
+    },
+    {
+      "id": "pico-quioveo-relief-v2",
+      "descriptionAdvanced": "A Pico Quioveo az Annobón vulkáni sziget legmagasabb pontja, amely 635 méterrel magasodik a tengerszint fölé. Ez a csúcs a sziget vad, bazaltos tájának legmeghatározóbb eleme, amely több millió évvel ezelőtti vulkáni tevétség során alakult ki az Atlanti-óceán déli részén. A tetőről 360 fokos panoráma nyílik a végtelen óceánra és a sziget buja belső területeire, beleértve a központi krátertot is. Annak ellenére, hogy magassága szerénynek tűnhet, meredek lejtői és a gyakori felhőtakaró drámai és kihívást jelentő környezetet teremtenek a felfedezők számára. A hegy létfontosságú tájékozódási pont a hajósok számára, és központi szerepet játszik a sziget egyedülálló geológiai és ökológiai arculatában. Az itt található növényzet alkalmazkodott az erős tengeri szelekhez és a párás hegyi levegőhöz.",
+      "factsAdvanced": [
+        "Annobón legmagasabb hegycsúcsa (635 méter).",
+        "Ősi bazaltos vulkáni kőzetekből épül fel.",
+        "Pazar kilátást nyújt a Dél-Atlanti-óceánra.",
+        "A sziget drámai topográfiájának központi eleme.",
+        "Egyedülálló szigeti magashegyi növényzet otthona.",
+        "Gyakran borítja sűrű köd a tengeri szelek miatt.",
+        "Kulcsfontosságú navigációs pont a távoli Atlanti-vizeken."
+      ]
+    },
+    {
+      "id": "pico-do-fogo-relief-v2",
+      "descriptionAdvanced": "A Pico do Fogo egy jellegzetes vulkáni csúcs Annobón szigetének déli részén, amelyet éles sziluettje és sziklás terepe tesz különlegessé. Mint a sziget vulkáni láncolatának tagja, jelentősen hozzájárul ahhoz a drámai domborzathoz, amely ezt a távoli tartományt meghatározza. A hegy neve portugálul 'Tűz-csúcsot' jelent, ami a sziget vulkáni eredetére és a tengeri felfedezések korára utal. Lejtőit szívós trópusi növényzet borítja, amely fontos élőhelyet biztosít különböző madárfajoknak. A Pico do Fogo a természet erejének bizonyítéka, amely kialakította a Kameruni-vulkáni vonal ezen távoli pontját. A hegycsúcs és környezete megőrizte érintetlen szépségét, szimbolizálva Annobón vad és zabolátlan természetét, ahol a bazalt sziklák közvetlenül a tajtékzó óceánból emelkednek ki.",
+      "factsAdvanced": [
+        "Karakteres vulkáni hegy Annobón déli csücskén.",
+        "A neve a sziget tüzes kialakulására és történelmére utal.",
+        "Meredek, bazaltos kőzetformációkból álló terep.",
+        "A Kameruni-vulkáni vonal rendszerének része.",
+        "Számos atlanti tengeri madárfaj fészkelőhelye.",
+        "A sziget egyik legvadabb és legeldugottabb pontja.",
+        "Fontos helyszín geológiai és ökológiai kutatásokhoz."
+      ]
+    },
+    {
+      "id": "pico-malabo-relief-v2",
+      "descriptionAdvanced": "A Pico Malabo egy lenyűgöző, kialudt vulkáni kúp, amely az azonos nevű főváros fölé magasodik Bioko szigetének északi partján. Ez a domborzati forma a nagyobb Pico Basile vulkáni rendszer része, és fenséges hátteret biztosít az ország politikai és gazdasági szívének. Lejtőit termékeny vulkáni talaj jellemzi, amelyet sűrű trópusi másodlagos erdő borít. Történelmileg a hegy stratégiai tájékozódási pont volt a Biafra-öbölbe érkező hajósok számára. Ma is meghatározó földrajzi jellegzetesség, amely befolyásolja a helyi mikroklímát és zöld kontrasztot nyújt az alatta elterülő városi terjeszkedésnek. A hegy alsóbb lejtőin kisparaszti gazdálkodás folyik, kihasználva a kiváló adottságokat, miközben a felsőbb részek megőrizték természetes vadon jellegüket.",
+      "factsAdvanced": [
+        "Malabo fővárosára néző, kialudt vulkáni csúcs.",
+        "A Pico Basile komplexumhoz tartozó másodlagos kúp.",
+        "Termékeny lejtőin helyi kistermelők gazdálkodnak.",
+        "Malabo északi látképének meghatározó eleme.",
+        "Befolyásolja a város környéki csapadék- és páratartalmat.",
+        "Stratégiai navigációs pont a gyarmati kor óta.",
+        "Biodiverz trópusi erdők és városi zónák övezik."
+      ]
+    },
+    {
+      "id": "monte-san-carlos-relief-v2",
+      "descriptionAdvanced": "A Monte San Carlos, más néven Pico Biao, Bioko szigetének egyik legmagasabb és leglátványosabb hegycsúcsa a déli részen, körülbelül 2260 méteres magassággal. Ez a masszív tűzhányó híres hatalmas, szabályos kráteréről, amely egy festői tavat rejt, és amelyet érintetlen, magashegyi köderdők vesznek körül. A hegy domborzata rendkívül tagolt, meredek falakkal és mély völgyekkel, amelyek megőrizték Közép-Afrika egyik legérintetlenebb ökoszisztémáját. A Monte San Carlos a biodiverzitás kritikus helyszíne, ritka afro-alpesi flórának és különböző endemikus főemlősöknek ad otthont. Hatalmas mérete és ökológiai gazdagsága miatt kiemelt terület a tudományos kutatások és a természetvédelem számára. A hegycsúcs és a kráter környéke gyakran felhőkbe burkolózik, különleges, misztikus hangulatot árasztva.",
+      "factsAdvanced": [
+        "Bioko egyik legmagasabb csúcsa (kb. 2260 méter).",
+        "Hatalmas és festői vulkáni krátermedencével rendelkezik.",
+        "Itt található a magashegyi Lago de Biao kráterto.",
+        "Ritka és érintetlen hegyi köderdő borítja.",
+        "Endemikus majmok és madárfajok létfontosságú élőhelye.",
+        "Drámai és nehezen járható vulkáni domborzat jellemzi.",
+        "A sziget déli részének fontos víztározó területe."
+      ]
+    },
+    {
+      "id": "pico-de-la-concepcion-relief-v2",
+      "descriptionAdvanced": "A Pico de la Concepción egy jelentős hegycsúcs Bioko szigetének keleti partján, amely meredek lejtőiről ismert, melyek drámai módon szakadnak le az Atlanti-óceán felé. A zord tengerparti terepből kiemelkedő csúcsról lenyűgöző kilátás nyílik a sziget keleti partvonalára és az alatta fekvő történelmi Riaba városára. A területet sűrű trópusi növényzet és bőséges csapadék jellemzi, amely számos kis patakot táplál, melyek vízeséseken keresztül érnek el az óceánhoz. Történelmileg a hegy és a környező régió az elsők között volt, amelyet a spanyolok felfedeztek. Domborzata tökéletes példája a vulkanikus hegyek és az atlanti tengeri környezet találkozásának, ahol a felhők gyakran megrekednek a meredek part menti falaknál, folyamatos nedvességet biztosítva a burjánzó növényzetnek.",
+      "factsAdvanced": [
+        "Bioko szigetének jelentős csúcsa a keleti parton.",
+        "Meredek, közvetlenül a tengerbe szakadó falairól ismert.",
+        "Széles kilátást nyújt a történelmi Riaba öblére.",
+        "Dús és esőben gazdag trópusi esőerdő övezi.",
+        "Számos partmenti patakot és kisebb vízesést táplál.",
+        "Történelmileg fontos a sziget korai felfedezése szempontjából.",
+        "Jól tükrözi Kelet-Bioko zord vulkáni partvonalát."
+      ]
+    },
+    {
+      "id": "moka-plateau-relief-v2",
+      "descriptionAdvanced": "A Moka-fennsík egy egyedülálló és termékeny vulkáni magasföld Bioko szigetének déli belső részén, körülbelül 1200-1400 méteres tengerszint feletti magasságban. Ezt a magaslati domborzatot lényegesen hűvösebb és ködösebb éghajlat jellemzi, mint a part menti régiókat, ami lehetővé tette a zöld legelők és a speciális mezőgazdaság kialakulását. Történelmileg a fennsík az állattenyésztés és az olyan nagy értékű növények központja volt, mint a kávé és a zöldségfélék. Fenséges hegycsúcsokkal és vulkáni kráterekkel körülvéve a Moka-fennsík békés és festői tájat kínál, amely a szigeti ökológia és a helyi kultúra fókuszpontja. Ez a terület létfontosságú édesvíz-gyűjtő területe a sziget déli részének, ahol a gyakori ködből kicsapódó nedvesség folyamatosan táplálja a patakokat.",
+      "factsAdvanced": [
+        "Termékeny vulkáni fennsík 1200 méter feletti magasságban.",
+        "Hűvös, ködös klímájáról és zöld tájairól híres.",
+        "Az állattenyésztés és a hegyi gazdálkodás hagyományos központja.",
+        "Drámai vulkáni csúcsok és kráteravak veszik körül.",
+        "Fontos ivóvízforrás Bioko déli régiója számára.",
+        "Egyedülálló hegyi növény- és állatfajok élőhelye.",
+        "A szigeten belül különleges ökológiai és kulturális zónát alkot."
+      ]
+    }
+  ]
+}

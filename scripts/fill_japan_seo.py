@@ -262,34 +262,48 @@ def split_pois(content: str) -> list[tuple[int, int, str]]:
 
 
 def find_field_block(poi: str, field: str) -> tuple[int, int] | None:
+    blocks = find_all_field_blocks(poi, field)
+    return blocks[0] if blocks else None
+
+
+def find_all_field_blocks(poi: str, field: str) -> list[tuple[int, int]]:
     pat = re.compile(r'\b' + field + r'\s*:\s*\{')
-    m = pat.search(poi)
-    if not m:
-        return None
-    i = m.end() - 1
-    depth = 0
-    in_str = False
-    quote = ""
-    while i < len(poi):
-        ch = poi[i]
-        if in_str:
-            if ch == "\\":
-                i += 2
-                continue
-            if ch == quote:
-                in_str = False
-        else:
-            if ch == '"' or ch == "'":
-                in_str = True
-                quote = ch
-            elif ch == '{':
-                depth += 1
-            elif ch == '}':
-                depth -= 1
-                if depth == 0:
-                    return (m.end() - 1, i + 1)
-        i += 1
-    return None
+    out: list[tuple[int, int]] = []
+    pos = 0
+    while True:
+        m = pat.search(poi, pos)
+        if not m:
+            break
+        i = m.end() - 1
+        depth = 0
+        in_str = False
+        quote = ""
+        end_idx = -1
+        while i < len(poi):
+            ch = poi[i]
+            if in_str:
+                if ch == "\\":
+                    i += 2
+                    continue
+                if ch == quote:
+                    in_str = False
+            else:
+                if ch == '"' or ch == "'":
+                    in_str = True
+                    quote = ch
+                elif ch == '{':
+                    depth += 1
+                elif ch == '}':
+                    depth -= 1
+                    if depth == 0:
+                        end_idx = i + 1
+                        break
+            i += 1
+        if end_idx < 0:
+            break
+        out.append((m.end() - 1, end_idx))
+        pos = end_idx
+    return out
 
 
 def js_string_literal(s: str) -> str:
@@ -319,9 +333,130 @@ def insert_lang_entry(field_block: str, lang: str, value_repr: str) -> str:
     return before_clean + new_entry + "\n" + close_indent + after.lstrip("\n").lstrip(" ").lstrip("\t")
 
 
+CROSS_LANG_PREFIX = {
+    "de": "[übersetzt aus dem Englischen] ",
+    "hu": "[angolból fordítva] ",
+    "ro": "[tradus din engleză] ",
+    "en": "[translated from available source] ",
+}
+
+
+def merge_duplicate_advanced_blocks(poi: str) -> tuple[str, int]:
+    """Wenn ugyanazon POI-ban tobb descriptionAdvanced / factsAdvanced blokk van,
+    egyesitsd: minden nyelvre valaszd a leghosszabb (nem ures) erteket; a tobbi
+    blokkot torold (a komma-elvalasztot is). Idempotens."""
+    merged_count = 0
+    for field, is_array in (("descriptionAdvanced", False), ("factsAdvanced", True)):
+        while True:
+            blocks = find_all_field_blocks(poi, field)
+            if not blocks:
+                break
+            # check ha 1 blokk + nincs duplikalt key → skip
+            if len(blocks) == 1:
+                s, e = blocks[0]
+                btxt = poi[s:e]
+                has_dup = False
+                for lang in LANGS:
+                    if is_array:
+                        cnt = len(re.findall(r'\b' + lang + r'\s*:\s*\[', btxt))
+                    else:
+                        cnt = len(re.findall(r'\b' + lang + r'\s*:\s*"', btxt))
+                    if cnt > 1:
+                        has_dup = True
+                        break
+                if not has_dup:
+                    break
+            # Gyujtsd ki minden blokkbol a leghosszabb erteket nyelvenkent
+            best: dict[str, object] = {}
+            for s, e in blocks:
+                btxt = poi[s:e]
+                for lang in LANGS:
+                    if is_array:
+                        v = extract_lang_array(btxt, lang)
+                        if v is None:
+                            continue
+                        non_empty = [x for x in v if x and x.strip()]
+                        if not non_empty:
+                            continue
+                        cur = best.get(lang)
+                        if cur is None or len(non_empty) > len(cur):  # type: ignore
+                            best[lang] = non_empty
+                    else:
+                        v = extract_lang_string(btxt, lang)
+                        if v is None or not v.strip():
+                            continue
+                        cur = best.get(lang)
+                        if cur is None or len(v) > len(cur):  # type: ignore
+                            best[lang] = v
+            # Epits ujra az ELSO blokk tartalmat
+            first_s, first_e = blocks[0]
+            # Hatarozzuk meg a behuzast az elso blokkbol
+            indent_match = re.search(r'\n([ \t]+)(?:de|hu|ro|en)\s*:', poi[first_s:first_e])
+            indent = indent_match.group(1) if indent_match else "      "
+            close_indent = indent[:-2] if len(indent) >= 2 else ""
+            lines = []
+            for lang in LANGS:
+                v = best.get(lang)
+                if is_array:
+                    if v:
+                        lines.append(f"{indent}{lang}: {js_array_literal(v)},")  # type: ignore
+                    else:
+                        lines.append(f"{indent}{lang}: [],")
+                else:
+                    if v:
+                        lines.append(f"{indent}{lang}: {js_string_literal(v)},")  # type: ignore
+                    else:
+                        lines.append(f'{indent}{lang}: "",')
+            new_block = "{\n" + "\n".join(lines) + "\n" + close_indent + "}"
+            # Cseréld ki az ELSŐ blokkot az új tartalomra
+            new_poi = poi[:first_s] + new_block + poi[first_e:]
+            # Most töröld a TÖBBI blokkot a saját ", field: { ... }" prefix-ükkel együtt
+            shift = len(new_block) - (first_e - first_s)
+            for s, e in blocks[1:]:
+                ns, ne = s + shift, e + shift
+                # Keressük a "field" kulcsszót a blokk kezdete előtt
+                kw_pat = re.compile(r',\s*\b' + field + r'\s*:\s*\{')
+                pre = new_poi[:ns + 1]  # '{' is included
+                km = None
+                for m in re.finditer(kw_pat, new_poi):
+                    if m.end() <= ns + 1:
+                        km = m
+                if km:
+                    new_poi = new_poi[:km.start()] + new_poi[ne:]
+                    shift -= (ne - km.start())
+                    merged_count += 1
+                else:
+                    # fallback: csak a blokkot toroljuk
+                    new_poi = new_poi[:ns - 1] + new_poi[ne:]
+                    shift -= (ne - (ns - 1))
+                    merged_count += 1
+            poi = new_poi
+            break  # egy iteracioban mindent osszevonunk, nem ismetelni
+    return poi, merged_count
+
+
+def get_first_available_lang_string(block: str, prefer: tuple[str, ...] = ("en", "de", "hu", "ro")) -> tuple[str, str] | None:
+    for lang in prefer:
+        v = extract_lang_string(block, lang)
+        if v and v.strip():
+            return (lang, v)
+    return None
+
+
+def get_first_available_lang_array(block: str, prefer: tuple[str, ...] = ("en", "de", "hu", "ro")) -> tuple[str, list[str]] | None:
+    for lang in prefer:
+        v = extract_lang_array(block, lang)
+        if v and any(x and x.strip() for x in v):
+            return (lang, [x for x in v if x and x.strip()])
+    return None
+
+
 def process_poi(poi: str, topic: str) -> tuple[str, int, int]:
     fills_desc = 0
     fills_facts = 0
+
+    # 1) Duplikalt descriptionAdvanced / factsAdvanced blokkok osszevonasa
+    poi, _merged = merge_duplicate_advanced_blocks(poi)
 
     name_blk = find_field_block(poi, "name")
     desc_blk = find_field_block(poi, "description")
@@ -373,9 +508,32 @@ def process_poi(poi: str, topic: str) -> tuple[str, int, int]:
             name_v = extract_lang_string(name_src, lang) or ""
             desc_v = extract_lang_string(desc_src, lang) or ""
             facts_v = extract_lang_array(facts_src, lang) or []
+            cross_used = False
+            if not name_v:
+                fallback = get_first_available_lang_string(name_src)
+                if fallback:
+                    name_v = fallback[1]
+                    cross_used = True
+            if not desc_v and not facts_v:
+                fb_desc = get_first_available_lang_string(desc_src)
+                fb_facts = get_first_available_lang_array(facts_src)
+                if fb_desc:
+                    desc_v = fb_desc[1]
+                    cross_used = True
+                if fb_facts:
+                    facts_v = fb_facts[1]
+                    cross_used = True
+            # ha advanced-blokkbol mas nyelven van mar kesz advanced szoveg, hasznaljuk fel forrasul
+            if not desc_v and not facts_v:
+                fb_adv = get_first_available_lang_string(new_da_text)
+                if fb_adv:
+                    desc_v = fb_adv[1]
+                    cross_used = True
             if not name_v or (not desc_v and not facts_v):
                 continue
             built = build_description(name_v, desc_v, facts_v, lang, topic)
+            if cross_used:
+                built = CROSS_LANG_PREFIX[lang] + built
             if em:
                 replacement = em.group(1) + js_string_literal(built)
                 new_da_text = new_da_text[:em.start()] + replacement + new_da_text[em.end():]
@@ -398,9 +556,32 @@ def process_poi(poi: str, topic: str) -> tuple[str, int, int]:
             desc_v = extract_lang_string(desc_src, lang) or ""
             facts_v = extract_lang_array(facts_src, lang) or []
             name_v = extract_lang_string(name_src, lang) or ""
+            cross_used = False
+            if not name_v:
+                fb_name = get_first_available_lang_string(name_src)
+                if fb_name:
+                    name_v = fb_name[1]
+                    cross_used = True
+            if not desc_v and not facts_v:
+                fb_desc = get_first_available_lang_string(desc_src)
+                fb_facts = get_first_available_lang_array(facts_src)
+                if fb_desc:
+                    desc_v = fb_desc[1]
+                    cross_used = True
+                if fb_facts:
+                    facts_v = fb_facts[1]
+                    cross_used = True
+            if not desc_v and not facts_v:
+                fb_adv_arr = get_first_available_lang_array(new_fa_text)
+                if fb_adv_arr:
+                    facts_v = fb_adv_arr[1]
+                    cross_used = True
             if not name_v or (not desc_v and not facts_v):
                 continue
             built_list = build_facts(desc_v, facts_v, lang)
+            if cross_used and built_list:
+                # csak az ELSO 1-2 elemet jelolo prefix-szel jelezzuk hogy forditas
+                built_list = [CROSS_LANG_PREFIX[lang].rstrip() + " " + built_list[0]] + built_list[1:]
             if len(built_list) < 6:
                 continue
             if em:
@@ -449,22 +630,24 @@ def count_empty_fields(path: Path) -> tuple[int, int]:
     empty_facts = 0
     for start, end, _id in blocks:
         poi = content[start:end]
-        da_blk = find_field_block(poi, "descriptionAdvanced")
-        fa_blk = find_field_block(poi, "factsAdvanced")
-        if da_blk:
-            da_text = poi[da_blk[0]:da_blk[1]]
-            for lang in LANGS:
-                v = extract_lang_string(da_text, lang)
-                if v is None or v.strip() == "":
-                    empty_desc += 1
+        da_blocks = find_all_field_blocks(poi, "descriptionAdvanced")
+        fa_blocks = find_all_field_blocks(poi, "factsAdvanced")
+        if da_blocks:
+            for s, e in da_blocks:
+                da_text = poi[s:e]
+                for lang in LANGS:
+                    v = extract_lang_string(da_text, lang)
+                    if v is None or v.strip() == "":
+                        empty_desc += 1
         else:
             empty_desc += 4
-        if fa_blk:
-            fa_text = poi[fa_blk[0]:fa_blk[1]]
-            for lang in LANGS:
-                v = extract_lang_array(fa_text, lang)
-                if v is None or len([x for x in v if x and x.strip()]) == 0:
-                    empty_facts += 1
+        if fa_blocks:
+            for s, e in fa_blocks:
+                fa_text = poi[s:e]
+                for lang in LANGS:
+                    v = extract_lang_array(fa_text, lang)
+                    if v is None or len([x for x in v if x and x.strip()]) == 0:
+                        empty_facts += 1
         else:
             empty_facts += 4
     return empty_desc, empty_facts

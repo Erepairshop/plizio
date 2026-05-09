@@ -1,0 +1,65 @@
+{
+  "lang": "hu",
+  "country": "argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-l-general-pico-cities-v2",
+      "descriptionAdvanced": "General Pico La Pampa tartomány második legfontosabb városa, amely a pampai síkság északi részén fekszik. Az 1905-ben alapított település nevét Eduardo Gustavo Pico tábornokról kapta, és gyors fejlődését a vasúti csomópont szerepének köszönheti. A város az ország egyik legfontosabb mezőgazdasági és ipari bázisa, ahol a gabonatermesztés és az élelmiszer-feldolgozás mellett jelentős kereskedelmi központ is működik. General Pico híres rendezett, parkosított utcáiról és pezsgő kulturális életéről, amit a tartományi egyetem több kara is színesít. A város a modern pampai életforma jelképe, ahol a technológiai fejlődés és a vidéki hagyományok harmonikusan találkoznak.",
+      "factsAdvanced": [
+        "1905. november 11-én alapította Eduardo de Chapeaurouge.",
+        "La Pampa tartomány második legnépesebb városa.",
+        "Nevét Eduardo Gustavo Pico tábornokról, a tartomány egykori kormányzójáról kapta.",
+        "Fontos vasúti és közúti logisztikai központ a pampákon.",
+        "Itt található a La Pampa-i Nemzeti Egyetem mérnöki és állatorvosi kara.",
+        "Híres az Országos Lovaspóló Fesztiválról.",
+        "Gazdaságának motorja a húsipar és a gabonakereskedelem.",
+        "A város négyzethálós alaprajza sok zöldterületet foglal magában."
+      ]
+    },
+    {
+      "id": "ar-q-zapala-cities-v2",
+      "descriptionAdvanced": "Zapala Neuquén tartomány központi részének stratégiai városa, amely a patagóniai sztyeppén, 1012 méteres magasságban fekszik. Az 1913-ban alapított település a Roca-vasútvonal végpontjaként vált fontos logisztikai és bányászati központtá. A város gazdasága elsősorban a nem-fémes ásványkincsek, mint a bentonit és a kaolin kitermelésére, valamint a juh- és kecsketenyésztésre épül. Zapala kapuként szolgál az Andok hágói és Chile felé, valamint a közeli Laguna Blanca Nemzeti Parkhoz, amely fontos vizes élőhely. A város nyers patagóniai bája, a tiszta levegő és a fontos közúti csomópont szerepe miatt a régió egyik legstabilabb gazdasági bástyája.",
+      "factsAdvanced": [
+        "1913. július 12-én alapították a vasút megérkezésével.",
+        "Neuquén tartomány földrajzi középpontjában fekszik.",
+        "A Roca-vasútvonal legfontosabb patagóniai végállomása.",
+        "Híres az Országos Bányászati Múzeumról (Museo Olsacher).",
+        "A tartomány nem-fémes bányászatának központja (bentonit, mészkő).",
+        "Fontos állomása a Chilébe vezető andoki utaknak.",
+        "Körülbelül 1012 méteres tengerszint feletti magasságban található.",
+        "A közelben fekvő Laguna Blanca Nemzeti Park UNESCO Ramsar-terület."
+      ]
+    },
+    {
+      "id": "ar-q-cutral-co-cities-v2",
+      "descriptionAdvanced": "Cutral Co Neuquén tartomány egyik legfontosabb ipari városa, amelynek sorsa elválaszthatatlanul összefonódott a kőolaj- és földgázkitermeléssel. A települést 1933-ban alapították a kopár patagóniai fennsíkon, miután a környéken hatalmas energiaforrásokat fedeztek fel. A város neve mapuche nyelven „tűzvizet” jelent, ami találóan utal az olajra. Cutral Co és a szomszédos Plaza Huincul egyetlen gazdasági egységet alkotnak, amely az argentin energiaipar egyik motorja. A város lakói híresek küzdőszellemükről és erős közösségi identitásukról, amely a nehéz bányászélet során alakult ki. Ma a város modern infrastruktúrával és pezsgő gazdasági élettel büszkélkedhet a sivatagi táj közepén.",
+      "factsAdvanced": [
+        "1933. október 22-én alapították Pueblo Nuevo néven.",
+        "A város neve mapuche eredetű, jelentése tűzvíz (olaj).",
+        "Neuquén tartomány második legfontosabb ipari központja.",
+        "Gazdasága szinte teljes egészében a kőolaj- és gázszektorra épül.",
+        "A szomszédos Plaza Huincul várossal ikervárost alkot.",
+        "Itt található a világ egyik legfontosabb dinoszaurusz-lelőhelye a közelben.",
+        "Híres a monumentális Krisztus-szoborról (Cristo de Cutral Co).",
+        "Az 1990-es években itt indultak el az ország fontos társadalmi mozgalmai (piqueteros)."
+      ]
+    },
+    {
+      "id": "ar-r-san-carlos-de-bariloche-cities-v2",
+      "descriptionAdvanced": "San Carlos de Bariloche az argentin Patagónia világhírű turisztikai központja, amely a monumentális Nahuel Huapi-tó déli partján fekszik. A várost a 20. század elején német, svájci és osztrák telepesek alapították, aminek hatása a mai napig érezhető a jellegzetes alpesi építészetben, a sörfőzésben és a híres kézműves csokoládégyártásban. Bariloche „Dél-Amerika Svájca” néven is ismert, hiszen télen a Cerro Catedral síközpont vonzza a sportolókat, nyáron pedig a tavak, hegyek és érintetlen bükkerdők kínálnak végtelen túrázási lehetőséget. A város nemcsak üdülőhely, hanem fontos tudományos bázis is, itt működik többek között az atomkutató intézet, így egyszerre kozmopolita metropolisz és a természet kapuja.",
+      "factsAdvanced": [
+        "Hivatalosan 1902. május 3-án alapították.",
+        "A Nahuel Huapi Nemzeti Park gazdasági és turisztikai központja.",
+        "Itt található a déli félteke egyik legnagyobb síterülete, a Cerro Catedral.",
+        "Híres az európai stílusú kézműves csokoládéiról és sörfőzdéiről.",
+        "Központja, a Centro Cívico nemzeti történelmi mementó.",
+        "Itt működik a rangos Balseiro Intézet (fizikai és atomkutatás).",
+        "A város neve a mapuche 'vuriloche' szóból ered (hegy mögötti emberek).",
+        "Évente több millió látogatót vonz a világ minden tájáról."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "barentu-cities-v2",
+      "descriptionAdvanced": "Barentu este capitala regiunii Gash-Barka și un important centru cultural în vestul Eritreei, fiind recunoscut drept un creuzet al diversității etnice, în special pentru poporul Kunama. Orașul este situat într-un peisaj de câmpii ondulate și dealuri mici, caracteristic zonelor joase vestice. Ca hub comercial, joacă un rol vital în comerțul cu animale și activitățile agricole locale, susținând mijloacele de trai ale comunităților rurale. Tradițiile culturale și muzica populară a regiunii sunt piloni importanți ai identității locale. Geografie K7 — rolul centrelor regionale în diversitatea etnică.",
+      "factsAdvanced": [
+        "Capitala administrativă a regiunii Gash-Barka.",
+        "Centru principal pentru culturile Kunama și Nara.",
+        "Punct cheie pentru comerțul cu animale în vestul țării.",
+        "Situat în câmpiile joase din vestul Eritreei.",
+        "Renumit pentru tradițiile culturale și muzica locală unică.",
+        "Centru economic activ pentru activități agricole."
+      ]
+    },
+    {
+      "id": "adi-keyh-cities-v2",
+      "descriptionAdvanced": "Adi Keyh este un oraș vibrant în regiunea Debub, situat la marginea unui platou înalt. Numele său, care se traduce prin „Marea Roșie” în limba Tigrinya, reflectă importanța istorică a locului. Orașul este situat în apropierea sitului arheologic Qohaito, care oferă o privire fascinantă asupra istoriei pre-Aksumite și Aksumite. Datorită locației sale strategice, servește drept poartă pentru cercetare istorică și turism, conectând așezările din zonele înalte cu rutele comerciale spre coastă. Geografie K7 — impactul siturilor arheologice asupra dezvoltării regionale.",
+      "factsAdvanced": [
+        "Situat în regiunea Debub pe marginea unui platou.",
+        "În proximitatea sitului arheologic Qohaito.",
+        "Oraș montan cu rol important în transitul comercial regional.",
+        "Numele indică o semnificație istorică profundă în regiune.",
+        "Centru de schimb agricol pentru comunitățile locale.",
+        "Punct de acces pentru turismul istoric și cultural."
+      ]
+    },
+    {
+      "id": "edd-cities-v2",
+      "descriptionAdvanced": "Edd este un oraș de coastă în regiunea Southern Red Sea, recunoscut istoric ca un port semnificativ pentru comerțul maritim la scară mică. Poziționarea sa de-a lungul țărmului Mării Roșii l-a plasat într-un mediu arid și aspru, dar comunitățile locale au supraviețuit prin pescuit și comerț tradițional de secole. Arhitectura și viața socială a orașului reflectă dependența profundă de resursele marine și conexiunile istorice cu satele de coastă învecinate. Rămâne un centru litoral important, purtând moștenirea maritimă a Eritreei. Geografie K7 — moștenirea maritimă și supraviețuirea în medii aride.",
+      "factsAdvanced": [
+        "Situat în regiunea Southern Red Sea.",
+        "Importanță istorică majoră ca port comercial.",
+        "Principala industrie locală este pescuitul tradițional.",
+        "Mediu de coastă arid și aspru.",
+        "Tradiții profunde înrădăcinate în viața maritimă.",
+        "Reprezintă o componentă vitală a patrimoniului litoral eritreean."
+      ]
+    },
+    {
+      "id": "dekemhare-cities-v2",
+      "descriptionAdvanced": "Dekemhare este un oraș vibrant în regiunea Debub, cunoscut pentru climatul său plăcut și producția agricolă semnificativă. Situat pe platoul eritreean, a fost istoric un hub industrial și agricol major, faimos pentru livezile și podgoriile sale din perioada colonială. Astăzi, orașul servește drept centru regional cheie pentru comerț, servicii educaționale și procesare agricolă. Infrastructura orașului păstrează încă elemente ale dezvoltării sale timpurii, oferind un amestec unic între planificarea istorică și utilitatea regională modernă. Geografie K7 — rolul hub-urilor economice în regiunile înalte.",
+      "factsAdvanced": [
+        "Situat în regiunea Debub pe platoul eritreean.",
+        "Cunoscut pentru climatul său blând de munte.",
+        "Hub industrial și agricol cu importanță istorică.",
+        "Celebru pentru livezi și podgorii dezvoltate în perioada colonială.",
+        "Centru comercial regional esențial.",
+        "Hub cheie pentru procesarea produselor agricole locale."
+      ]
+    },
+    {
+      "id": "akordat-cities-v2",
+      "descriptionAdvanced": "Akordat este un oraș de piață cu aspect de oază în câmpiile vestice ale Eritreei, situat de-a lungul râului Barka. Orașul funcționează ca o intersecție comercială crucială pentru grupurile nomade și semi-nomade, care se bazează pe acesta pentru schimbul de animale și produse agricole. Arhitectura sa expune o fuziune de influențe locale și sudaneze, reflectând conexiunile culturale și istorice profunde ale regiunii peste granițe. Contrastul accentuat între câmpiile aride înconjurătoare și viața susținută de-a lungul malului râului face din Akordat un centru de activitate economică rezilient. Geografie K7 — economia oazelor deșertice și rutele de comerț.",
+      "factsAdvanced": [
+        "Poziționat strategic pe râul Barka.",
+        "Oraș de piață esențial în vestul Eritreei.",
+        "Hub comercial crucial pentru grupurile nomade.",
+        "Fuziune arhitecturală a stilurilor locale și sudaneze.",
+        "Centru rezilient de activitate economică într-un mediu arid.",
+        "Punct cheie pentru schimbul de animale și produse agricole."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-tanganyika-zambia-nature-v2",
+      "descriptionAdvanced": "Lacul Tanganyika este unul dintre cele mai vechi și mai adânci lacuri cu apă dulce de pe Pământ, capătul său nordic întinzându-se până pe teritoriul Zambiei. Acest ecosistem unic găzduiește o diversitate biologică extraordinară, incluzând numeroase specii de pești ciclide care nu se regăsesc nicăieri altundeva în lume. Lacul nu constituie doar o cale de transport importantă pentru comerțul regional, ci oferă și o sursă esențială de hrană pentru comunitățile locale, fiind în același timp un sit de studiu geologic și biologic de o importanță internațională.",
+      "factsAdvanced": [
+        "Unul dintre cele mai adânci și vechi lacuri din lume",
+        "Găzduiește o diversitate excepțională de ciclide",
+        "Majoritatea speciilor de pești sunt endemice",
+        "Rută de transport vitală pentru comerțul regional",
+        "Parte a sistemului geologic al Marelui Rift African",
+        "Adâncimea atinge peste 1400 de metri în unele puncte",
+        "Sursă esențială de hrană pentru comunitățile locale"
+      ]
+    },
+    {
+      "id": "muchinga-mountains-nature-v2",
+      "descriptionAdvanced": "Munții Muchinga formează un lanț muntos proeminent în nord-estul Zambiei, servind drept barieră naturală și bazin hidrografic esențial pentru regiune. Terenul dificil și deluros a permis păstrarea unei natură aproape intacte, oferind adăpost unei flore și faune specializate. Acești munți influențează direct climatul și distribuția precipitațiilor în provinciile învecinate, fiind totodată o zonă de frontieră naturală mai puțin explorată, ceea ce îi conferă o valoare ecologică deosebită pentru conservarea naturii sălbatice.",
+      "factsAdvanced": [
+        "Bazin hidrografic important în nord-estul Zambiei",
+        "Barieră geologică ce influențează climatul regional",
+        "Caracterizat printr-un teren deluros și adesea inaccesibil",
+        "Linie de demarcație naturală între bazinele hidrografice",
+        "Peisaj cu densitate umană foarte scăzută",
+        "Habitat vital pentru specii adaptate la medii montane",
+        "Regiune de importanță deosebită pentru natura sălbatică"
+      ]
+    },
+    {
+      "id": "luapula-river-nature-v2",
+      "descriptionAdvanced": "Râul Luapula formează granița naturală dintre Zambia și Republica Democrată Congo, fiind legătura principală între lacurile Bangweulu și Mweru. De-a lungul cursului său, râul creează ecosisteme vaste de mlaștini și zone umede care susțin o viață aviară diversă și numeroase specii de pești. Fiind o arteră vitală de transport și o resursă alimentară indispensabilă, Luapula ocupă un loc central în viața comunităților de la graniță, având o importanță strategică în gestionarea apelor transfrontaliere și protecția diversității biologice din valea sa.",
+      "factsAdvanced": [
+        "Râu de frontieră naturală între Zambia și RD Congo",
+        "Leagă lacul Bangweulu de lacul Mweru",
+        "Zona înconjurată de ecosisteme mlăștinoase semnificative",
+        "Sursă vitală de apă pentru populația locală",
+        "Importanță majoră pentru industria pescuitului regional",
+        "Element central în gestionarea apelor transfrontaliere",
+        "Habitat pentru o avifaună diversificată"
+      ]
+    },
+    {
+      "id": "zambezi-floodplains-nature-v2",
+      "descriptionAdvanced": "Câmpiile inundabile ale fluviului Zambezi sunt zone extinse și plate care sunt acoperite periodic de ape în timpul sezonului ploios. Această dinamică sezonieră creează un ecosistem extrem de activ, ce îmbogățește solul cu nutrienți și oferă pășuni fertile atât pentru animalele sălbatice, precum antilopele, cât și pentru agricultură tradițională. Regiunea se remarcă prin biodiversitatea păsărilor migratoare și printr-un ritm al vieții dictat de alternanța dintre perioadele de inundație și uscăciune, ceea ce influențează profund întregul peisaj și viața umană din proximitate.",
+      "factsAdvanced": [
+        "Dinamica periodică a inundațiilor provocate de Zambezi",
+        "Soluri fertile pentru agricultură datorită aluviunilor",
+        "Habitat vital pentru păsările migratoare",
+        "Pășuni sezoniere pentru numeroase specii de antilope",
+        "Peisaj modelat de ritmul anual al sezonului ploios",
+        "Zona tradițională de mare importanță pentru pescuit",
+        "Ecosistem caracterizat prin alternanța de uscat și apă"
+      ]
+    }
+  ]
+}

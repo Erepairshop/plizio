@@ -12,243 +12,213 @@
   ],
   "items": [
     {
-      "id": "ras-lanuf-port-economic-v2",
-      "descriptionAdvanced": "The Ras Lanuf Oil Port is a critical node in Libya's petroleum export infrastructure, situated strategically on the Gulf of Sidra. Connected directly to massive inland oil fields, the port can load multiple supertankers simultaneously via offshore mooring buoys. The adjacent petrochemical complex processes significant quantities of crude, making this a dual-purpose heavy industry zone. Because of its sheer economic weight, Ras Lanuf has frequently been the center of fierce battles during national conflicts. Economics K8 — petroleum export infrastructure.",
+      "id": "masa-cities-v2",
+      "descriptionAdvanced": "Masa is a historic and scenic town nestled in the heart of the Jabal al-Akhdar (Green Mountain) region in northeastern Libya. It is characterized by its high elevation, which provides a remarkably cool and pleasant climate compared to the rest of the country. The town is surrounded by dense forests of juniper and pine, as well as fertile agricultural lands that produce high-quality honey, fruits, and grains. Masa has a long history as a center for the Senussi movement and a base for resistance against colonial rule. The landscape is a beautiful mix of rugged cliffs, green valleys, and traditional stone architecture, making it a hidden gem of the Cyrenaica highlands. Geography K7 — mountain environments and forest ecosystems.",
       "factsAdvanced": [
-        "Located on the Gulf of Sidra, central to Libya's coastline.",
-        "One of the largest crude oil export terminals in the country.",
-        "Features offshore single-point mooring buoys for supertankers.",
-        "Directly integrated with the massive Ras Lanuf Refinery.",
-        "Has a massive storage capacity of several million barrels.",
-        "A highly strategic asset frequently contested in civil conflicts."
+        "Located at one of the highest points in the Jabal al-Akhdar region.",
+        "Known for its dense forests and remarkably high annual rainfall for Libya.",
+        "A major center for the production of world-class mountain honey.",
+        "Surrounded by fertile land used for growing apples, pears, and grains.",
+        "Historically significant as a stronghold for the Senussi Order.",
+        "Situated near the main road connecting Al-Marj with Al-Bayda.",
+        "Features a unique microclimate that allows for diverse flora and fauna.",
+        "Maintains a quiet, rural atmosphere with strong local community ties."
       ]
     },
     {
-      "id": "marsa-el-brega-port-economic-v2",
-      "descriptionAdvanced": "Marsa el Brega is heavily specialized in the export of both crude oil and liquefied natural gas (LNG), functioning as the primary terminus for pipelines originating in the Sirte Basin. Beyond crude, it hosts significant petrochemical facilities producing ammonia and urea. The entire town was essentially built to serve the port and its associated industries. The intricate network of pipelines meeting at Brega makes it one of the most vital economic chokepoints in North Africa. Economics K8 — LNG and petrochemical exports.",
+      "id": "martuba-cities-v2",
+      "descriptionAdvanced": "Martuba is a strategic town in northeastern Libya, located approximately 27 kilometers southeast of Derna. It is most famous for its large airbase, which has played a critical role in Libya's military history and regional defense. The town serves as a vital logistics and transport hub for the eastern coastal region and the road to Tobruk. Martuba's economy is largely driven by agriculture, with the surrounding plains supporting large-scale grain farming and livestock grazing. Its location at a major crossroads makes it a key node for the movement of goods and services between the Green Mountain and the eastern borders. Geography K8 — military infrastructure and regional logistics.",
       "factsAdvanced": [
-        "Situated at the southern tip of the Gulf of Sidra.",
-        "A primary export terminal for both crude oil and LNG.",
-        "Connects directly to the massive Sirte Basin oil fields.",
-        "Hosts major petrochemical plants producing ammonia and urea.",
-        "The surrounding town was purpose-built for industry workers.",
-        "Historically the site of severe fighting during the 2011 revolution."
+        "Home to the Martuba Airbase, a major military installation in eastern Libya.",
+        "Located 27 kilometers southeast of Derna on the road to Tobruk.",
+        "A vital crossroads for transport between the coast and the interior.",
+        "Surrounded by vast agricultural plains used for wheat and barley.",
+        "Economy is based on military services, transport, and farming.",
+        "Strategically significant for the security of the eastern Libyan border.",
+        "Historically served as a major airfield during World War II battles.",
+        "Supports a local population engaged in agriculture and government services."
       ]
     },
     {
-      "id": "zueitina-oil-terminal-economic-v2",
-      "descriptionAdvanced": "The Zueitina Oil Terminal is positioned south of Benghazi and serves as the main export point for crude pumped from the inland Intisar and Amal fields. The terminal features several massive storage tanks and offshore loading berths capable of handling massive crude carriers. Unlike mixed-use ports, Zueitina is strictly a hydrocarbons facility. Its operation is heavily reliant on the stability of the long-distance pipelines crossing the eastern desert. Economics K7 — crude oil storage and loading.",
+      "id": "umm-al-rizam-cities-v2",
+      "descriptionAdvanced": "Umm al-Rizam is a significant coastal and agricultural town located in the eastern part of the Jabal al-Akhdar region, about 50 kilometers east of Derna. It is situated in a fertile valley that benefits from the Mediterranean climate and abundant seasonal water. The town is a major center for the production of citrus fruits, vegetables, and livestock, serving as a key supplier for the eastern Libyan markets. Umm al-Rizam is also known for its beautiful coastline and its role as a supportive hub for the surrounding rural communities. Its location on the main coastal highway makes it an important stop for travelers moving between Derna and Tobruk. Geography K7 — coastal valleys and regional trade.",
       "factsAdvanced": [
-        "Located on the coast roughly 130 kilometers south of Benghazi.",
-        "Primary export terminal for the Intisar and Amal oil fields.",
-        "Features massive onshore crude oil storage tank farms.",
-        "Utilizes offshore loading berths for international tankers.",
-        "Strictly a dedicated hydrocarbons export facility.",
-        "Vulnerable to disruptions in the connecting desert pipelines."
+        "Located 50 kilometers east of Derna on the Mediterranean coast.",
+        "A major agricultural center specializing in citrus and vegetable production.",
+        "Situated in a scenic valley known for its fertile soil and water resources.",
+        "Economy is driven by farming, livestock, and local maritime trade.",
+        "A key transit point on the coastal highway between Derna and Tobruk.",
+        "Features a developing coastline with potential for local tourism.",
+        "Home to a vibrant weekly market that attracts regional farmers.",
+        "Known for its strong sense of community and traditional Libyan hospitality."
       ]
     },
     {
-      "id": "zawiya-port-economic-v2",
-      "descriptionAdvanced": "Zawiya Port is intricately linked with the Zawiya Oil Refinery, functioning as the primary maritime exit for refined petroleum products in western Libya. While other ports focus on raw crude, Zawiya handles the export of gasoline, diesel, and aviation fuel. Additionally, it serves as an import hub for specific fuel types needed by the Tripolitania region. The port's proximity to the capital ensures its continuous strategic and economic relevance. Economics K8 — refined petroleum logistics.",
+      "id": "kambut-cities-v2",
+      "descriptionAdvanced": "Kambut is a strategic desert town located in the far northeastern part of Libya, approximately 50 kilometers east of Tobruk. It serves as a vital transit and logistics hub for the road leading to the Egyptian border at Musaid. The town's economy is primarily based on trade, transit services, and small-scale livestock grazing in the surrounding arid plains. Kambut is also historically significant for its role during World War II, when its airfield was a major base for Allied desert operations. Today, the town is a key node for cross-border commerce and a supportive center for the pastoral communities of the eastern Libyan desert. Geography K8 — border trade and desert transit.",
       "factsAdvanced": [
-        "Located 45 kilometers west of Tripoli.",
-        "Directly integrated with Libya's largest operating oil refinery.",
-        "Specializes in the export and import of refined petroleum products.",
-        "Critical for supplying fuel to the western Tripolitania region.",
-        "Features specialized berths for handling volatile liquid cargo.",
-        "A key economic asset heavily guarded by local authorities."
+        "Located on the main highway 50 kilometers east of Tobruk.",
+        "A vital gateway for trade and transit between Libya and Egypt.",
+        "Historically home to a major World War II desert airfield.",
+        "Economy centers on logistics, retail trade, and livestock services.",
+        "Situated in an arid, rocky desert landscape near the Mediterranean coast.",
+        "Serves as a primary support center for the Musaid-Sallum border region.",
+        "Home to a population with deep ties to the trans-border trade networks.",
+        "A critical stop for long-distance truckers moving between Cairo and Tripoli."
       ]
     },
     {
-      "id": "mellitah-port-economic-v2",
-      "descriptionAdvanced": "The Mellitah Oil and Gas Port, located near Zuwara, is the crucial starting point for the Greenstream pipeline, which exports natural gas directly underneath the Mediterranean Sea to Italy. This facility is a joint venture between the Libyan state and international energy corporations, processing gas from both inland and offshore fields. Because it supplies energy directly to Europe, Mellitah holds massive geopolitical significance. The sprawling complex is highly visible, dominating the coastal landscape. Economics K8 — international gas pipelines and geopolitics.",
+      "id": "jaghbub-cities-v2",
+      "descriptionAdvanced": "Jaghbub is a remote and deeply historic oasis town located in the southeastern corner of Cyrenaica, near the Egyptian border. It is most famous as the spiritual birthplace and former headquarters of the Senussi religious and political movement. The town is home to the stunning tomb of Muhammad ibn Ali al-Senussi and was once a major center for Islamic learning with a world-renowned university. Jaghbub is characterized by its lush palm groves, which produce high-quality dates, and its stunning salt lakes and sand dunes. Its isolation and profound religious heritage make it one of the most culturally significant oases in the Sahara. History K8 — the Senussi Order and Saharan religious centers.",
       "factsAdvanced": [
-        "Located on the western coast near the city of Zuwara.",
-        "The starting point for the undersea Greenstream natural gas pipeline.",
-        "Exports natural gas directly from Libya to Sicily, Italy.",
-        "Processes gas from both the Wafa inland field and Bouri offshore field.",
-        "Operates as a major joint venture with international energy firms.",
-        "Holds significant strategic importance for European energy security."
+        "The historic headquarters of the Senussi religious movement since 1856.",
+        "Home to the tomb of Muhammad ibn Ali al-Senussi, founder of the order.",
+        "Once the site of a prestigious Islamic university rivaling Al-Azhar.",
+        "Located in a deep depression approximately 280 kilometers south of Tobruk.",
+        "Famed for its high-quality date production and ancient salt lakes.",
+        "Historically a major station on the caravan routes to Egypt and Sudan.",
+        "Maintains a high degree of traditional mud-brick architectural character.",
+        "A major center for pilgrimage and religious study in the Libyan Sahara."
       ]
     },
     {
-      "id": "es-sider-terminal-economic-v2",
-      "descriptionAdvanced": "Es Sider is historically the largest oil depot in Libya, boasting the highest export capacity of any terminal on the coast. Fed by pipelines from the massive Waha fields in the Sirte Basin, the terminal features rows of colossal storage tanks. During the country's civil conflicts, Es Sider saw catastrophic damage, with many of its tanks destroyed by artillery fire. The ongoing reconstruction and operation of this terminal dictate the overall health of the Libyan economy. Economics K8 — maximum capacity oil infrastructure.",
+      "id": "qasr-bin-ghashir-cities-v2",
+      "descriptionAdvanced": "Qasr bin Ghashir is a major town located on the southern outskirts of Tripoli, serving as a critical gateway to the capital. It is most notable for its proximity to the Tripoli International Airport, making it a vital logistics and residential hub for the metropolitan area. The town's economy is a blend of modern aviation-related services and traditional agriculture, as it is situated in the fertile Jafara Plain. Qasr bin Ghashir is famous for its extensive poultry farms and citrus orchards. Its strategic location on the main road to the south has made it a focal point for both economic development and military movements in recent decades. Geography K8 — urban fringe and transport infrastructure.",
       "factsAdvanced": [
-        "Historically the highest-capacity crude oil export terminal in Libya.",
-        "Located in the central coastal region near Ras Lanuf.",
-        "Primary terminus for the massive Waha oil field network.",
-        "Suffered catastrophic damage to its storage tanks during recent conflicts.",
-        "Features numerous offshore single-point mooring stations.",
-        "Crucial indicator of the overall recovery of the Libyan economy."
+        "Located 25 kilometers south of Tripoli, near the international airport.",
+        "A major logistics hub for the capital's aviation and transport sectors.",
+        "Economy is driven by airport services, trade, and large-scale poultry farming.",
+        "Known for its extensive citrus groves and vegetable production.",
+        "Serves as a primary residential area for people working in southern Tripoli.",
+        "Strategically located on the main highway connecting Tripoli with Gharyan.",
+        "Played a major role in the military events surrounding the capital.",
+        "Originally a small fortress town that expanded into a major urban center."
       ]
     },
     {
-      "id": "sharara-oil-field-economic-v2",
-      "descriptionAdvanced": "The Sharara Oil Field, located deep in the Murzuq Desert of southwestern Libya, is one of the nation's largest and most productive oil assets. It consistently pumps hundreds of thousands of barrels per day, which travel via an extensive pipeline network to the Zawiya refinery on the coast. Because of its remote location, the field relies on a dedicated airport and massive logistical support. Blockades of Sharara by local groups frequently cause severe national economic crises. Geography K8 — deep desert oil extraction and pipelines.",
+      "id": "tajoura-cities-v2",
+      "descriptionAdvanced": "Tajoura is a large and historic coastal city located on the eastern edge of Tripoli, forming a key part of the capital's metropolitan sprawl. It has a long history as a center of resistance against various colonial powers and is home to the historic Sidi Hamouda Mosque. Tajoura is also a major industrial and scientific center, hosting the Tajoura Nuclear Research Centre and several large manufacturing plants. The city's coastline features popular beaches and several maritime research facilities. Its blend of traditional coastal culture, heavy industry, and scientific research makes Tajoura one of the most diverse and important suburbs of Tripoli. Sociology K8 — suburban industrial growth and scientific research.",
       "factsAdvanced": [
-        "Located in the remote Murzuq Desert in southwestern Libya.",
-        "One of the highest-producing oil fields in the country.",
-        "Can produce over 300,000 barrels of crude oil per day.",
-        "Connects to the coastal Zawiya refinery via a massive pipeline.",
-        "Operated as a joint venture between the National Oil Corporation and foreign partners.",
-        "Frequently subject to politically motivated shutdowns and blockades."
+        "Located on the Mediterranean coast, just east of central Tripoli.",
+        "Home to the Tajoura Nuclear Research Centre, established in the 1980s.",
+        "A major center for the manufacturing of trucks, tires, and textiles.",
+        "Famous for the 16th-century Sidi Hamouda Mosque, a local landmark.",
+        "Boasts some of the capital's most popular public and private beaches.",
+        "Economy is driven by industry, government services, and maritime trade.",
+        "Historically a primary center for opposition to Italian colonial rule.",
+        "Features a mix of traditional neighborhoods and modern industrial zones."
       ]
     },
     {
-      "id": "el-feel-oil-field-economic-v2",
-      "descriptionAdvanced": "The El Feel (Elephant) Oil Field is another massive hydrocarbon asset located in the southwestern Murzuq Basin. It operates in tandem with the Sharara field, sharing much of the regional pipeline infrastructure heading north to the Mellitah complex. The extreme heat, isolation, and shifting sand dunes make operations here highly challenging, requiring specialized desert engineering. The field is a vital component of Libya's strategy to maintain high national production quotas. Economics K7 — desert hydrocarbon operations.",
+      "id": "msallata-cities-v2",
+      "descriptionAdvanced": "Msallata is a historic and agricultural city located in the hills of northwestern Libya, approximately 130 kilometers east of Tripoli. It is world-famous for its massive and ancient olive groves, which produce some of the highest quality olive oil in North Africa. The city is perched on a high ridge, offering panoramic views of the coastal plains and the Mediterranean Sea. Msallata has a rich history as a center for religious learning and was the site of the first declaration of the Tripolitanian Republic in 1918. The landscape is characterized by rolling hills, ancient stone terraces, and traditional architecture, making it a symbol of Libyan agricultural heritage. History K8 — the Tripolitanian Republic and olive cultivation.",
       "factsAdvanced": [
-        "Located in the Murzuq Basin in southwestern Libya.",
-        "Often referred to as the 'Elephant' field due to its massive reserves.",
-        "Shares regional pipeline infrastructure with the nearby Sharara field.",
-        "Crude oil is pumped north to the Mellitah coastal complex.",
-        "Requires advanced engineering to operate in extreme Saharan conditions.",
-        "A critical asset for meeting Libya's national production targets."
+        "One of Libya's primary centers for high-quality olive oil production.",
+        "Located on a high ridge overlooking the coastal plain of Al-Khoms.",
+        "Site of the 1918 declaration of the Tripolitanian Republic, the first in the Arab world.",
+        "Home to thousands of ancient olive trees, some reportedly 1,000 years old.",
+        "A major center for Islamic studies with many historic mosques and schools.",
+        "Situated about 130 kilometers east of the capital, Tripoli.",
+        "Known for its cool, pleasant climate and scenic mountain landscapes.",
+        "Maintains strong traditional crafts, particularly in wool and leather."
       ]
     },
     {
-      "id": "waha-oil-field-economic-v2",
-      "descriptionAdvanced": "The Waha Oil Field is a sprawling network of extraction sites located in the Sirte Basin, historically forming the backbone of Libya's oil wealth. Discovered in the late 1950s, the field is characterized by its massive reserves of high-quality light, sweet crude. The infrastructure here is extensive, pumping oil directly to the Es Sider terminal on the coast. Despite its age, Waha remains one of the most reliable and productive concessions in the country. History K8 — history of Libyan oil discovery.",
+      "id": "al-ajaylat-cities-v2",
+      "descriptionAdvanced": "Al-Ajaylat is a significant agricultural city located in the Jafara Plain of northwestern Libya, about 80 kilometers west of Tripoli. It is the heartland of the Ajaylat tribe and is renowned for its vast and fertile land that supports extensive farming. The city is a major producer of cereals, vegetables, and livestock, serving as a critical food source for the western region. Al-Ajaylat is also known for its traditional horse racing culture and its history of tribal resistance. The city's location near the Mediterranean coast and the Nafusa Mountains makes it a vital commercial hub for the surrounding rural communities. Geography K7 — tribal agriculture and pastoral traditions.",
       "factsAdvanced": [
-        "Located in the highly productive Sirte Basin.",
-        "One of the oldest and largest producing oil fields in Libya.",
-        "Produces highly desirable light, sweet crude oil.",
-        "Connected via a major pipeline network to the Es Sider terminal.",
-        "Originally discovered and developed in the late 1950s.",
-        "Operated by the Waha Oil Company, a major national subsidiary."
+        "Located 80 kilometers west of Tripoli in the fertile Jafara Plain.",
+        "A major center for the production of wheat, barley, and diverse vegetables.",
+        "Famous for its long tradition of Arabian horse breeding and racing.",
+        "Home to the Ajaylat tribe, a major social and political group in the west.",
+        "Economy is driven by agriculture, livestock trade, and local services.",
+        "Strategically located on the road connecting Sabratha with the interior.",
+        "Known for its vibrant weekly markets and agricultural festivals.",
+        "A key node for the transport of produce to the Tripoli metropolitan area."
       ]
     },
     {
-      "id": "zelten-oil-field-economic-v2",
-      "descriptionAdvanced": "The discovery of the Zelten Oil Field (now officially known as Nasser) in 1959 was a watershed moment that permanently transformed Libya from an impoverished nation into an oil-rich state. Located in the Sirte Basin, the field's massive output funded the rapid modernization of the country during the 1960s. The crude extracted here is piped directly to Marsa el Brega. Though older than other fields, its historical significance and continued production make it legendary in the industry. History K8 — the dawn of the Libyan oil boom.",
+      "id": "al-qubbah-cities-v2",
+      "descriptionAdvanced": "Al-Qubbah is a prominent and historic city located in the lush highlands of the Jabal al-Akhdar in northeastern Libya. It is situated in a high-rainfall area, making it one of the most productive agricultural centers in Cyrenaica, famous for its grain, fruit, and honey. The city has a long history as a center for the Senussi movement and played a vital role in the resistance against Italian colonization. Al-Qubbah's landscape is characterized by rolling green hills, dense pine forests, and ancient stone-built neighborhoods. Today, it remains a politically and culturally influential city, representing the traditional heart of the 'Green Mountain' region. History K8 — Senussi resistance and highland agriculture.",
       "factsAdvanced": [
-        "The first major commercial oil discovery in Libya, found in 1959.",
-        "Located in the Sirte Basin, south of Marsa el Brega.",
-        "Currently officially renamed as the Nasser oil field.",
-        "The discovery permanently transformed the national Libyan economy.",
-        "Oil is transported via pipeline to the Marsa el Brega terminal.",
-        "Continues to produce significant volumes despite its age."
+        "Located in the scenic Jabal al-Akhdar at an elevation of 550 meters.",
+        "One of the highest rainfall areas in Libya, supporting lush vegetation.",
+        "A major producer of high-quality fruits, especially apples and pears.",
+        "Historically a major center for the anti-colonial resistance led by Omar Al-Mukhtar.",
+        "Home to many prominent Libyan political leaders and intellectuals.",
+        "Situated on the main inland highway connecting Al-Bayda and Derna.",
+        "Features traditional stone-built architecture that blends with the landscape.",
+        "A vital administrative and commercial hub for the surrounding mountain villages."
       ]
     },
     {
-      "id": "sarir-oil-field-economic-v2",
-      "descriptionAdvanced": "The Sarir Oil Field is an absolute behemoth, holding the title of the largest oil field in Libya and one of the largest in all of Africa. Located in the remote eastern Sirte Basin, it was discovered in 1961 and contains billions of barrels of recoverable reserves. The crude is pumped hundreds of kilometers north to the Port of Tobruk. Because of its immense scale and isolation, the field functions almost like an independent desert city. Economics K8 — mega-scale hydrocarbon reserves.",
+      "id": "badr-cities-v2",
+      "descriptionAdvanced": "Badr is a strategic desert town located in northwestern Libya, situated on the arid plains south of the Nafusa Mountains. It serves as a vital transit and logistics node for the road network connecting the mountain regions with the western borders and the coastal cities. The town's economy is primarily based on trade, transit services, and small-scale livestock grazing. Badr is characterized by its desert environment and its role as a supportive center for the surrounding rural and pastoral communities. Its location at a major crossroads makes it an important point of control for the movement of goods in the western Libyan interior. Geography K7 — desert transit and regional crossroads.",
       "factsAdvanced": [
-        "The largest oil field in Libya by total reserves.",
-        "Located deep in the eastern sector of the Sirte Basin.",
-        "Discovered in 1961, containing billions of barrels of oil.",
-        "Pumps crude oil hundreds of kilometers to the Port of Tobruk.",
-        "Operated primarily by the Arabian Gulf Oil Company (AGOCO).",
-        "Functions as a massive, self-sustaining industrial desert outpost."
+        "Located on the arid plains south of the western Nafusa Mountains.",
+        "A vital junction for roads connecting Nalut, Tiji, and the Tunisian border.",
+        "Economy centers on logistics, retail trade, and livestock services.",
+        "Surrounded by vast, rocky desert landscapes and seasonal grazing lands.",
+        "Situated approximately 300 kilometers southwest of Tripoli.",
+        "Serves as a primary support hub for the trans-border trade networks.",
+        "Home to a community engaged in both desert farming and transport.",
+        "A critical stop for travelers and goods moving through the western desert."
       ]
     },
     {
-      "id": "bouri-offshore-field-economic-v2",
-      "descriptionAdvanced": "The Bouri Offshore Field is the largest producing oilfield in the Mediterranean Sea, located off the western coast of Libya. Discovered in 1976, it operates in deep water and utilizes massive production platforms that resemble small steel islands. The field produces both crude oil and significant amounts of natural gas, which is piped to the Mellitah complex. Operations here are highly technical, requiring constant logistical support via helicopter and supply ships from Tripoli. Geography K8 — offshore drilling technology.",
+      "id": "al-magrun-cities-v2",
+      "descriptionAdvanced": "Al-Magrun is a strategic town in eastern Libya, located on the coastal highway about 80 kilometers south of Benghazi. It is a vital transit and logistics hub for travelers and goods moving between the eastern coastal cities and the southern oases. The town's economy is primarily based on trade, transit services, and small-scale agriculture, particularly the cultivation of dates and grains. Al-Magrun is also known for its role as a supportive residential area for the Benghazi region. Its location at a major crossroads of coastal and inland routes makes it an important node for regional commerce and transport. Geography K7 — coastal gateways and regional transit.",
       "factsAdvanced": [
-        "The largest producing offshore oil field in the Mediterranean Sea.",
-        "Located approximately 120 kilometers north of the Libyan coast.",
-        "Discovered in 1976 and developed as a major joint venture.",
-        "Utilizes massive, deep-water offshore drilling and production platforms.",
-        "Produces both crude oil and natural gas (piped to Mellitah).",
-        "Requires highly specialized maritime and aviation logistical support."
+        "Located on the main coastal highway, 80 kilometers south of Benghazi.",
+        "A vital gateway for transport between Cyrenaica and the Gulf of Sidra.",
+        "Economy is driven by transport services, logistics, and retail trade.",
+        "Surrounded by fertile plains that support seasonal farming and grazing.",
+        "Serves as a key transit point for goods moving to the southern oases.",
+        "Features a developing local infrastructure to support coastal traffic.",
+        "Home to a diverse community engaged in both agriculture and commerce.",
+        "Historically significant as a rest stop for caravans and military movements."
       ]
     },
     {
-      "id": "al-jurf-offshore-field-economic-v2",
-      "descriptionAdvanced": "Al Jurf is a significant offshore oil field situated near the maritime border with Tunisia in the Mediterranean Sea. It operates using a Floating Production Storage and Offloading (FPSO) vessel, a massive modified tanker that processes and stores oil directly at sea. This advanced technology allows international tankers to load crude without it ever touching the Libyan mainland. The field represents Libya's continued investment in technically complex, high-yield maritime hydrocarbon extraction. Economics K8 — FPSO technology and maritime borders.",
+      "id": "qandulah-cities-v2",
+      "descriptionAdvanced": "Qandulah is a picturesque and historic town located in the fertile highlands of the Jabal al-Akhdar in northeastern Libya. It is characterized by its scenic position among rolling hills and lush vegetation, benefiting from the Mediterranean climate. The town's economy is primarily based on agriculture, with the surrounding land producing large quantities of fruits, honey, and grains. Qandulah is also known for its strong community traditions and its history as a center for rural life in the 'Green Mountain.' The landscape is a beautiful mix of forested ridges and agricultural terraces, making it a representative example of highland culture in eastern Libya. Geography K7 — highland farming and mountain communities.",
       "factsAdvanced": [
-        "Located in the Mediterranean Sea near the Tunisian maritime border.",
-        "Utilizes advanced Floating Production Storage and Offloading (FPSO) technology.",
-        "Oil is processed and stored entirely at sea, bypassing mainland ports.",
-        "Operated as a joint venture with international energy corporations.",
-        "International tankers load crude directly from the offshore FPSO vessel.",
-        "Highlights Libya's capacity for complex maritime energy extraction."
+        "Located in the heart of the Jabal al-Akhdar (Green Mountain) region.",
+        "Known for its cool, temperate climate and scenic mountain setting.",
+        "A major center for the production of high-quality local fruits and honey.",
+        "Surrounded by fertile agricultural land and Mediterranean forests.",
+        "Economy is driven by farming, livestock, and local trade.",
+        "Situated at a high elevation with panoramic views of the Green Mountain.",
+        "Home to a community with a strong sense of local and mountain heritage.",
+        "A vital supportive hub for the surrounding rural and farming villages."
       ]
     },
     {
-      "id": "mabruk-oil-field-economic-v2",
-      "descriptionAdvanced": "The Mabruk Oil Field is located in the western Sirte Basin and is notable for its highly complex geological structure, which makes oil extraction exceptionally difficult. Engineers must use advanced enhanced oil recovery (EOR) techniques, such as massive water injection, to maintain production levels. The field suffered devastating militant attacks in 2015, heavily damaging its central processing facilities. The ongoing efforts to fully rehabilitate Mabruk showcase the resilience of Libya's energy sector. Economics K8 — enhanced oil recovery and infrastructure repair.",
+      "id": "port-of-tripoli-economic-v2",
+      "descriptionAdvanced": "The Port of Tripoli is the absolute maritime heart of Libya, serving as the nation's primary gateway for international trade and the largest commercial port in the country. Situated in the center of the capital, the port handles a vast majority of Libya's imports, including vehicles, consumer goods, and industrial equipment. It is a critical hub for the national economy, connecting Libya with major Mediterranean and global markets. The port features extensive container terminals, specialized berths for general cargo, and significant storage facilities. Its strategic location and capacity make it the most vital infrastructure node for the supply of goods to the densely populated western region. Economics K8 — maritime trade and port logistics.",
       "factsAdvanced": [
-        "Located in the western sector of the Sirte Basin.",
-        "Features highly complex geology making extraction difficult.",
-        "Relies heavily on enhanced oil recovery (EOR) water injection techniques.",
-        "Suffered massive destruction during militant attacks in early 2015.",
-        "Operated as a joint venture requiring advanced technical expertise.",
-        "Currently undergoing significant, long-term rehabilitation efforts."
+        "The largest and most important commercial seaport in Libya.",
+        "Handles over 60% of the nation's total non-oil imports.",
+        "Located in the heart of the capital city, Tripoli.",
+        "Features specialized terminals for containers, vehicles, and general cargo.",
+        "A critical hub for trade with Europe, China, and the Mediterranean basin.",
+        "Provides thousands of jobs in logistics, shipping, and customs services.",
+        "Connected to the nation's primary industrial and commercial zones.",
+        "Constantly undergoing modernization to increase handling capacity and efficiency."
       ]
     },
     {
-      "id": "amal-oil-field-economic-v2",
-      "descriptionAdvanced": "The Amal Oil Field is a major producer located in the eastern Sirte Basin, characterized by its vast spread of hundreds of individual nodding donkey pump jacks. Discovered in 1959, it has been a reliable cornerstone of eastern Libyan oil production for decades. The crude extracted here is transported via a dedicated pipeline to the Zueitina terminal on the coast. The field's longevity requires constant maintenance and drilling of new infill wells to sustain output. Economics K7 — mature oil field management.",
+      "id": "port-of-benghazi-economic-v2",
+      "descriptionAdvanced": "The Port of Benghazi is the most important maritime gateway for eastern Libya, serving as the primary commercial hub for the Cyrenaica region. Located in the center of the nation's second-largest city, the port handles a wide range of imports, including food, construction materials, and manufactured goods. It is a vital engine for the regional economy, supporting thousands of businesses and providing a critical link to international markets. The port features several deep-water berths, container terminals, and extensive warehousing facilities. Despite challenges from recent conflicts, the Port of Benghazi remains a symbol of regional economic resilience and a cornerstone of eastern Libya's trade infrastructure. Economics K8 — regional trade and maritime infrastructure.",
       "factsAdvanced": [
-        "Located in the eastern section of the Sirte Basin.",
-        "Discovered in 1959, making it one of the older producing fields.",
-        "Features hundreds of traditional pump jacks spread across the desert.",
-        "Crude oil is piped directly to the Zueitina coastal terminal.",
-        "Requires constant maintenance and infill drilling to maintain pressure.",
-        "Operated by Harouge Oil Operations, a major national subsidiary."
-      ]
-    },
-    {
-      "id": "nafoora-oil-field-economic-v2",
-      "descriptionAdvanced": "Nafoora is a massive, highly productive oil field situated in the eastern Sirte Basin, closely associated with the nearby Amal and Intisar fields. It is known for producing a very high-quality crude that is heavily demanded by European refineries. The infrastructure at Nafoora is extensive, including massive gas-oil separation plants and worker camps. Because of its sheer output, Nafoora is a critical asset that authorities heavily protect to ensure national revenue stability. Economics K8 — high-quality crude and national revenue.",
-      "factsAdvanced": [
-        "Located in the eastern Sirte Basin near the Amal field.",
-        "Produces a highly desirable, premium-quality crude oil.",
-        "Features massive, complex gas-oil separation facilities.",
-        "Crude is transported primarily to the Ras Lanuf export terminal.",
-        "Operated by the Arabian Gulf Oil Company (AGOCO).",
-        "A heavily guarded, critical source of national state revenue."
-      ]
-    },
-    {
-      "id": "messla-oil-field-economic-v2",
-      "descriptionAdvanced": "The Messla Oil Field is a giant concession located deep in the eastern desert, often operating in tandem with the massive Sarir field to the south. Discovered in the early 1970s, it utilizes the same long-distance pipeline infrastructure to send crude to the Port of Tobruk. The environment is extremely hostile, requiring robust logistical networks to supply the isolated worker camps with food, water, and equipment. Messla's steady production is vital to the economy of Cyrenaica. Geography K7 — extreme desert logistics.",
-      "factsAdvanced": [
-        "Located deep in the eastern Libyan desert, north of Sarir.",
-        "Discovered in 1971 by the Arabian Gulf Oil Company.",
-        "Shares a massive pipeline network leading to the Port of Tobruk.",
-        "Operates in an extremely harsh, hyper-arid Saharan environment.",
-        "Relies on massive logistical convoys to sustain worker camps.",
-        "A vital economic pillar for the eastern Cyrenaica region."
-      ]
-    },
-    {
-      "id": "abu-attifel-oil-field-economic-v2",
-      "descriptionAdvanced": "Abu Attifel holds a unique place in Libyan oil history, as it was the first giant field discovered by the Italian energy firm ENI in the late 1960s. Located in the eastern Sirte Basin, the crude here is notably waxy, requiring heated pipelines to prevent the oil from solidifying as it travels to the coast. This technical challenge showcases the specialized engineering required in Libyan oil extraction. The field remains a highly productive joint venture between Libya and Italy. Science K8 — fluid dynamics and heated pipelines.",
-      "factsAdvanced": [
-        "Located in the eastern Sirte Basin.",
-        "The first massive discovery made by Italian firm ENI in 1968.",
-        "Produces a highly waxy crude oil that can solidify at room temperature.",
-        "Requires specialized, heated pipelines to transport oil to the Zueitina terminal.",
-        "Remains a highly productive joint venture between Libya and Italy.",
-        "Features advanced chemical injection and processing facilities."
-      ]
-    },
-    {
-      "id": "zawiya-refinery-economic-v2",
-      "descriptionAdvanced": "The Zawiya Oil Refinery is Libya's second-largest but arguably most critical operational refinery, supplying the majority of gasoline and diesel to the densely populated western Tripolitania region. Located right on the coast, it receives crude pumped directly from the deep desert Sharara field. Operating the refinery requires massive amounts of electricity and water, making it a complex, highly integrated industrial marvel. Any shutdown here immediately impacts fuel availability in the capital, Tripoli. Economics K8 — domestic fuel supply chains.",
-      "factsAdvanced": [
-        "Located on the coast 45 kilometers west of Tripoli.",
-        "Libya's primary supplier of domestic gasoline and diesel.",
-        "Receives crude oil directly via pipeline from the Sharara field.",
-        "Features a processing capacity of roughly 120,000 barrels per day.",
-        "Highly integrated with the adjacent Zawiya export/import port.",
-        "Critical to the daily functioning and transport of the capital city."
-      ]
-    },
-    {
-      "id": "ras-lanuf-refinery-economic-v2",
-      "descriptionAdvanced": "The Ras Lanuf Refinery is a colossal petrochemical complex on the Gulf of Sidra, designed to process over 200,000 barrels of crude oil per day. Unlike Zawiya, which focuses heavily on domestic fuel, Ras Lanuf was built to produce refined products and complex petrochemicals (like ethylene) for international export. It represents Libya's historical ambition to move beyond just selling raw crude into the more lucrative refined products market. The complex dominates the skyline for miles along the coastal highway. Economics K8 — petrochemical manufacturing and value addition.",
-      "factsAdvanced": [
-        "Located on the central Gulf of Sidra coastline.",
-        "The largest oil refinery in Libya by processing capacity (220,000 bpd).",
-        "Designed to produce refined fuels and complex petrochemicals for export.",
-        "Features massive ethylene and polyethylene production units.",
-        "Historically represents Libya's push for industrial value addition.",
-        "Directly integrated with the massive Ras Lanuf crude export terminal."
+        "The primary commercial seaport for the entire eastern region of Libya.",
+        "A major entry point for construction materials and consumer goods for Cyrenaica.",
+        "Located in the strategic center of Benghazi, Libya's second city.",
+        "Features dedicated terminals for container shipping and general cargo.",
+        "A vital hub for trade with Egypt, Greece, and Turkey.",
+        "Undergoing major reconstruction and modernization projects in recent years.",
+        "Supports a vast network of logistics and wholesale businesses in the region.",
+        "Crucial for the supply chain of the densely populated Green Mountain area."
       ]
     }
   ]

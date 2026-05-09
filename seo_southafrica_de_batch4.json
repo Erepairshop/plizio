@@ -2,335 +2,67 @@
   "lang": "de",
   "country": "southafrica",
   "files": [
-    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts"
   ],
   "items": [
     {
+      "id": "kusile-power-station-economic-v2",
+      "descriptionAdvanced": "Das Kusile-Kraftwerk in der Provinz Mpumalanga stellt eines der ambitioniertesten Infrastrukturprojekte in der Geschichte Südafrikas dar. Als gewaltiges Kohlekraftwerk konzipiert, wurde es mit dem Ziel erbaut, einen signifikanten Teil der nationalen Energiegrundlast zu decken. Besondere Bedeutung erlangt Kusile durch seine Vorreiterrolle in Sachen Umweltschutz: Es ist das erste Kraftwerk im Land, das umfassende Rauchgasentschwefelungsanlagen (FGD) integriert, um den ökologischen Fußabdruck der Kohleverbrennung drastisch zu reduzieren. Nach vollständiger Inbetriebnahme wird Kusile eine der leistungsstärksten Kraftwerkskapazitäten weltweit besitzen.",
+      "factsAdvanced": [
+        "Kusile ist das erste südafrikanische Kraftwerk mit Rauchgasentschwefelungstechnologie.",
+        "Das Projekt hat eine geplante Kapazität von insgesamt 4.800 Megawatt.",
+        "Es stellt einen massiven Beitrag zur nationalen Stromkapazität dar.",
+        "Der Standort befindet sich in der kohlenreichen Region der Provinz Mpumalanga.",
+        "Kusile ist ein technologisch hochentwickeltes und groß angelegtes Energieprojekt.",
+        "Das Kraftwerk unterstreicht den Fokus auf effizientere Kohleverstromung."
+      ]
+    },
+    {
+      "id": "medupi-power-station-economic-v2",
+      "descriptionAdvanced": "Das Medupi-Kraftwerk ist ein technologisches Schwergewicht in der südafrikanischen Energielandschaft. Es handelt sich um ein gigantisches, mit Kohle befeuertes Kraftwerk, das aufgrund der in dieser Region herrschenden Wasserknappheit mit einem hocheffizienten, direkten Trockenkühlsystem ausgestattet wurde. Medupi gilt nach installierter Kapazität als eines der größten Kohlekraftwerke weltweit und leistet einen unverzichtbaren Beitrag zur Stabilisierung des nationalen Stromnetzes. Die Anlage ist ein zentrales Element für die langfristige Energieversorgung und das industrielle Wachstum Südafrikas, wobei ihre technologische Gestaltung den extremen Umweltbedingungen in Limpopo Rechnung trägt.",
+      "factsAdvanced": [
+        "Medupi zählt zu den top vier Kohlekraftwerken weltweit nach Kapazität.",
+        "Wegen Wasserarmut wird die Anlage mit direkter Trockenkühlung betrieben.",
+        "Es leistet einen massiven Beitrag zur Stabilität des südafrikanischen Netzes.",
+        "Die Kraftwerksaktivitäten sind kritisch für den industriellen Sektor.",
+        "Medupi wird durch ein weitreichendes Kohlelogistiknetz versorgt.",
+        "Das Kraftwerk ist ein wesentlicher Pfeiler der nationalen Energiestrategie."
+      ]
+    },
+    {
+      "id": "kendal-power-station-economic-v2",
+      "descriptionAdvanced": "Das Kendal-Kraftwerk, ein zentrales Standbein des Energieversorgers Eskom, spielt eine Schlüsselrolle in der südafrikanischen Stromversorgung. Als eines der wichtigsten Grundlast-Kohlekraftwerke zeichnet sich Kendal technisch durch seine beeindruckende Eigenschaft als weltweit größte indirekt trockengekühlte Kraftwerksanlage aus. Die charakteristischen Kühltürme der Anlage sind in Mpumalanga weit sichtbar und symbolisieren die industrielle Stärke der Region. Mit einer beachtlichen Erzeugungskapazität von über 4.000 Megawatt trägt Kendal maßgeblich zur Deckung des stetigen Strombedarfs bei und ist ein unverzichtbarer Akteur innerhalb des nationalen Kraftwerksparks.",
+      "factsAdvanced": [
+        "Kendal erzeugt bis zu 4.116 Megawatt elektrische Energie.",
+        "Es ist weltweit die größte Anlage mit indirekter Trockenkühlung.",
+        "Das Kraftwerk dient als essentieller Lieferant für die Grundlast des Netzes.",
+        "Die massiven Kühltürme sind ein prägendes Wahrzeichen der Provinz Mpumalanga.",
+        "Kendal spielt eine tragende Rolle in Eskoms Kraftwerksportfolio.",
+        "Der Betrieb erfordert eine stetige und effiziente Logistik für Kohle."
+      ]
+    },
+    {
+      "id": "sasol-secunda-economic-v2",
+      "descriptionAdvanced": "Das Sasol-Werk in Secunda ist eine der technologisch komplexesten Industrieanlagen der Welt. Hier wird unter Anwendung des Fischer-Tropsch-Verfahrens, einer ursprünglich aus Deutschland stammenden Technologie, Kohle in hochwertige flüssige Kraftstoffe und eine Vielzahl chemischer Spezialprodukte umgewandelt. Die Anlage in Mpumalanga ist nicht nur ein Symbol für die südafrikanische Fähigkeit zur technologischen Selbstversorgung, sondern aufgrund ihrer massiven CO2-Intensität auch ein zentraler Akteur in den nationalen Debatten über Energiewende und Nachhaltigkeit. Als weltweit größte punktuelle Emissionsquelle für Treibhausgase ist Sasol Secunda zugleich ein bedeutender industrieller Arbeitgeber.",
+      "factsAdvanced": [
+        "Secunda ist die weltweit größte einzelne Quelle für Treibhausgasemissionen.",
+        "Die Anlage wandelt Kohle durch das Fischer-Tropsch-Verfahren in Treibstoff um.",
+        "Sasol Secunda ist ein gigantischer Komplex für synthetische Kraftstoffe.",
+        "Es ist ein unverzichtbarer Pfeiler für Südafrikas Treibstoffversorgung.",
+        "Das Werk produziert ein breites Spektrum an chemischen Grundstoffen.",
+        "Secunda stellt einen massiven industriellen Wirtschaftsfaktor dar."
+      ]
+    },
+    {
       "id": "sasol-sasolburg-economic-v2",
-      "descriptionAdvanced": "Die Sasol-Anlage in Sasolburg ist die historische Geburtsstätte der südafrikanischen Kohleverflüssigungstechnologie. In den 1950er Jahren erbaut, war sie die erste Anlage weltweit, die im kommerziellen Maßstab flüssigen Kraftstoff aus Steinkohle herstellte. Heute hat sich der Fokus des Standorts in der Provinz Freistaat von der reinen Kraftstoffproduktion hin zu hochspezialisierten chemischen Produkten wie Düngemitteln, Wachsen und Polymeren verschoben. Sasolburg ist ein zentraler Pfeiler der chemischen Industrie Südafrikas und ein wichtiges Forschungszentrum für neue Energietechnologien. Geografie K7 — Chemische Industrie und technologische Pionierarbeit.",
+      "descriptionAdvanced": "Das Werk in Sasolburg blickt auf eine lange Tradition zurück und markiert den Beginn der Sasol-Unternehmensgeschichte in Südafrika. Ursprünglich wurde der Standort 1950 mit dem Ziel gegründet, die Abhängigkeit des Landes von importierten Ölressourcen zu verringern, indem Treibstoffe aus heimischen Kohlevorkommen gewonnen wurden. Im Laufe der Jahrzehnte fand jedoch eine fundamentale strategische Neuausrichtung statt: Der Standort Sasolburg wurde technologisch von der Kohleverarbeitung auf die Nutzung von Erdgas umgestellt. Heute fokussiert sich der Betrieb vorwiegend auf die Herstellung hochspezialisierter Chemikalien und Polymere für verschiedenste industrielle Anwendungen.",
       "factsAdvanced": [
-        "Inbetriebnahme der weltweit ersten kommerziellen Kohleverflüssigungsanlage im Jahr 1955.",
-        "Zentrum für die Produktion von Spezialchemikalien und Kunststoffen.",
-        "Wichtiger Standort für die Forschung an grünem Wasserstoff.",
-        "Liegt direkt am Vaal-Fluss, der als wichtige Wasserquelle dient.",
-        "Kernstück der industriellen Entwicklung in der Provinz Freistaat.",
-        "Versorgt die regionale Agrarwirtschaft mit hochwertigen Düngemitteln.",
-        "Umfasst die Sasol One Anlage, den historischen Kernkomplex.",
-        "Besitzt ein hochmodernes Forschungs- und Entwicklungszentrum."
-      ]
-    },
-    {
-      "id": "bmw-rosslyn-plant-economic-v2",
-      "descriptionAdvanced": "Das BMW-Werk in Rosslyn, nördlich von Pretoria, war 1973 die erste Produktionsstätte der BMW Group außerhalb Europas. Heute ist es eine der modernsten Automobilfabriken des Kontinents und ein Herzstück der südafrikanischen Exportwirtschaft. Rosslyn ist auf die Produktion der BMW X3 Modelle spezialisiert, die von hier aus in über 100 Länder weltweit exportiert werden. Das Werk ist bekannt für seine hohe Fertigungsqualität und sein Engagement in der Nachhaltigkeit, unter anderem durch die Nutzung von Energie aus Biogasanlagen. Es sichert Tausende hochqualifizierte Arbeitsplätze und fördert zahlreiche Zulieferbetriebe in der Region Gauteng. Geografie K7 — Globale Wertschöpfungsketten und Automobilbau.",
-      "factsAdvanced": [
-        "Erstes BMW-Werk außerhalb Deutschlands (gegründet 1973).",
-        "Produziert über 75.000 Fahrzeuge pro Jahr (hauptsächlich BMW X3).",
-        "Exportquote liegt bei über 95 Prozent.",
-        "Gewinner zahlreicher internationaler Qualitätsauszeichnungen (J.D. Power).",
-        "Nutzt Energie aus einer nahegelegenen Biogasanlage (Bronkhorstspruit).",
-        "Wichtiger Pfeiler des südafrikanischen Automotive Production and Development Programme.",
-        "Beschäftigt direkt über 2.500 hochqualifizierte Mitarbeiter.",
-        "Zentrum eines massiven Zuliefererparks in Rosslyn."
-      ]
-    },
-    {
-      "id": "vw-kariega-plant-economic-v2",
-      "descriptionAdvanced": "Das Volkswagen-Werk in Kariega (ehemals Uitenhage) ist die größte Automobilfabrik auf dem afrikanischen Kontinent und ein industrieller Gigant im Ostkap. Seit über 70 Jahren werden hier Fahrzeuge für den heimischen und internationalen Markt produziert. Das Werk ist das weltweite Kompetenzzentrum für den Bau des VW Polo und Polo Vivo. Mit modernster Robotertechnik und einer hocheffizienten Logistik setzt Volkswagen Kariega Maßstäbe in der industriellen Produktion. Das Unternehmen ist der größte private Arbeitgeber in der Provinz und trägt maßgeblich zur technologischen Ausbildung und zur sozialen Entwicklung in der Nelson Mandela Bay Region bei. Geografie K7 — Industrielle Ballungsräume und Fahrzeugexport.",
-      "factsAdvanced": [
-        "Größte Automobilfabrik Afrikas (Produktionskapazität ca. 160.000 Einheiten/Jahr).",
-        "Weltweit exklusiver Produzent bestimmter Polo-Modelle für den Export.",
-        "Gegründet 1946; seit 1951 werden Volkswagens montiert.",
-        "Besitzt ein eigenes Pressewerk und eine hochmoderne Lackiererei.",
-        "Größter privater Arbeitgeber im Ostkap.",
-        "Zentrum für die Entwicklung von Elektromobilitäts-Strategien in Afrika.",
-        "Nutzt den Hafen von Gqeberha für den globalen Export.",
-        "Investiert massiv in Bildungsprogramme (Learning Academy)."
-      ]
-    },
-    {
-      "id": "ford-silverton-plant-economic-v2",
-      "descriptionAdvanced": "Das Ford-Werk in Silverton, Pretoria, ist ein zentraler Bestandteil der globalen Produktionsstrategie von Ford und ein technologisches Aushängeschild Südafrikas. Das Werk ist auf die Herstellung des Ford Ranger spezialisiert, eines der meistverkauften Pickups weltweit. Durch massive Investitionen wurde die Anlage in den letzten Jahren modernisiert, um eine Kapazität von bis zu 200.000 Fahrzeugen pro Jahr zu erreichen. Das Silverton-Werk zeichnet sich durch seine Nachhaltigkeit aus, unter anderem durch die Errichtung eines der größten Solardächer weltweit über den Parkplätzen. Es ist ein wichtiger Treiber für den Wirtschaftskorridor zwischen Gauteng und dem Ostkap. Geografie K7 — Automobilproduktion und nachhaltige Industrie.",
-      "factsAdvanced": [
-        "Hauptexportzentrum für den Ford Ranger in über 100 Märkte.",
-        "Investition von ca. 1 Milliarde US-Dollar in die Modernisierung (2021).",
-        "Besitzt eines der weltweit größten solaren Carport-Systeme zur Eigenstromerzeugung.",
-        "Gegründet 1967; seither stetige Erweiterung der Kapazitäten.",
-        "Wichtiger Standort für den Bau von Motoren und Komponenten.",
-        "Direkte Anbindung an den High-Speed-Güterzugkorridor zum Hafen Gqeberha.",
-        "Beschäftigt rund 5.000 Mitarbeiter direkt.",
-        "Zentrum der Tshwane Automotive Special Economic Zone (TASEZ)."
-      ]
-    },
-    {
-      "id": "toyota-prospecton-plant-economic-v2",
-      "descriptionAdvanced": "Das Toyota-Werk in Prospecton bei Durban ist die größte Produktionsstätte des japanischen Automobilherstellers in Afrika und ein Pfeiler der regionalen Wirtschaft. Hier werden ikonische Modelle wie der Toyota Hilux und der Fortuner für den südafrikanischen Markt und den Export in zahlreiche afrikanische und europäische Länder gefertigt. Das Werk liegt strategisch günstig in der Nähe des Hafens von Durban, was eine effiziente Logistik für Importteile und Exportfahrzeuge ermöglicht. Toyota Prospecton ist bekannt für seine resiliente Produktion und sein starkes Engagement in der Ausbildung von Fachkräften, was die Stadt Durban zu einem der wichtigsten Automobilstandorte der südlichen Hemisphäre macht. Geografie K7 — Standortvorteile und industrielle Resilienz.",
-      "factsAdvanced": [
-        "Größter Marktanteilshalter in der südafrikanischen Automobilindustrie.",
-        "Produktionsort des meistverkauften Fahrzeugs des Landes (Toyota Hilux).",
-        "Gegründet 1962; Eröffnung des Werks in Prospecton 1970.",
-        "Besitzt eine eigene Abteilung für die Anpassung von Fahrzeugen an afrikanische Bedingungen.",
-        "Wichtigster Exporteur von Fahrzeugen über den Hafen von Durban.",
-        "Umfasst eine Fläche von über 80 Hektar.",
-        "Pionier bei der Einführung von Hybrid-Technologien in der lokalen Fertigung.",
-        "Beschäftigt über 7.000 Mitarbeiter."
-      ]
-    },
-    {
-      "id": "mercedes-east-london-plant-economic-v2",
-      "descriptionAdvanced": "Das Mercedes-Benz Werk in East London ist eine hochspezialisierte Produktionsstätte, die für die Fertigung der C-Klasse Limousinen für den Weltmarkt verantwortlich ist. Als eine von nur wenigen Fabriken weltweit, die Rechts- und Linkslenker in höchster Qualität produzieren, ist East London ein Musterbeispiel für deutsche Ingenieurskunst in Südafrika. Das Werk ist der wichtigste Wirtschaftsmotor der Provinz Ostkap und nutzt den einzigen Flusshafen des Landes für seine Logistik. Mit massiven Investitionen in die Digitalisierung und Industrie 4.0 gehört die Anlage zu den effizientesten im globalen Produktionsnetzwerk von Mercedes-Benz. Geografie K7 — Hochtechnologie-Export und regionale Wirtschaftskraft.",
-      "factsAdvanced": [
-        "Exklusivstandort für die Produktion der C-Klasse für zahlreiche globale Märkte.",
-        "Wichtigster Arbeitgeber und Steuerzahler in Buffalo City (East London).",
-        "Gegründet 1948 (ursprünglich als Montagebetrieb Car Distributors Assembly).",
-        "Nutzt den Hafen von East London für den direkten Fahrzeugexport.",
-        "Bekannt für extrem hohe Qualitätsstandards (Top-Bewertungen weltweit).",
-        "Investition von ca. 600 Millionen Euro in die neue Modellgeneration (2018).",
-        "Pionier bei der Implementierung von CO2-neutralen Produktionsprozessen.",
-        "Beschäftigt ca. 3.000 hochqualifizierte Fachkräfte."
-      ]
-    },
-    {
-      "id": "koeberg-nuclear-power-station-economic-v2",
-      "descriptionAdvanced": "Das Kernkraftwerk Koeberg, nördlich von Kapstadt gelegen, ist die einzige nukleare Energieerzeugungsanlage auf dem afrikanischen Kontinent. Es wurde in den 1980er Jahren errichtet, um die Grundlastversorgung des Westkaps zu sichern, da die Region weit von den Kohlefeldern im Norden entfernt ist. Koeberg verfügt über zwei Druckwasserreaktoren, die Meerwasser zur Kühlung nutzen. Die Anlage spielt eine entscheidende Rolle für die Stabilität des südafrikanischen Stromnetzes und produziert CO2-armen Strom. Aufgrund seiner Lage an der Küste unterliegt das Kraftwerk extrem strengen Sicherheits- und Umweltauflagen. Es ist ein zentrales Element der südafrikanischen Energiestrategie. Geografie K7 — Energieerzeugung und Diversifizierung des Energiemixes.",
-      "factsAdvanced": [
-        "Einziges Kernkraftwerk Afrikas.",
-        "Besitzt zwei Reaktoren mit einer Gesamtleistung von ca. 1.860 Megawatt.",
-        "Inbetriebnahme der Blöcke in den Jahren 1984 und 1985.",
-        "Liegt in einem 3.000 Hektar großen Naturschutzgebiet an der Atlantikküste.",
-        "Nutzt Meerwasser zur hocheffizienten Kühlung der Systeme.",
-        "Sichert rund 5 Prozent der gesamten südafrikanischen Stromproduktion.",
-        "Unterliegt der Aufsicht der National Nuclear Regulator (NNR).",
-        "Derzeit erfolgt eine Laufzeitverlängerung um weitere 20 Jahre."
-      ]
-    },
-    {
-      "id": "anglo-american-platinum-rustenburg-economic-v2",
-      "descriptionAdvanced": "Die Platin-Operationen von Anglo American in Rustenburg sind Teil des weltweit reichsten Platin-Vorkommens, dem Merensky Reef. Die Region in der Provinz Nordwest ist das globale Zentrum für die Gewinnung von Platingruppenmetallen (PGM), die für moderne Technologien wie Katalysatoren und Wasserstoff-Brennstoffzellen unverzichtbar sind. Die Anlagen in Rustenburg umfassen sowohl massive Untertage-Minen als auch hochmoderne Schmelzhütten und Raffinerien. Anglo American Platinum ist ein führender Akteur in der Branche und treibt die Mechanisierung und Digitalisierung im Bergbau voran, um die Sicherheit und Effizienz in großen Tiefen zu erhöhen. Geografie K7 — Strategische Rohstoffe und globale Industriemärkte.",
-      "factsAdvanced": [
-        "Zentrum des weltweit größten zusammenhängenden Platingebietes.",
-        "Produziert Platin, Palladium, Rhodium, Gold und Nickel.",
-        "Südafrika hält rund 80 Prozent der weltweiten Platinreserven.",
-        "Wichtiger Standort für die Schmelzhütten-Technologie (Waterval Smelter).",
-        "Platin ist entscheidend für die Reduzierung von Fahrzeugemissionen.",
-        "Größter privater Arbeitgeber in der Region Rustenburg.",
-        "Investiert massiv in Wasserstoff-Antriebssysteme für Minenfahrzeuge.",
-        "Betrieben von Anglo American Platinum (Amplats)."
-      ]
-    },
-    {
-      "id": "impala-platinum-mine-economic-v2",
-      "descriptionAdvanced": "Die Impala-Platinmine (Implats) bei Rustenburg ist eine der produktivsten und größten PGM-Minen (Platingruppenmetalle) weltweit. Der Komplex besteht aus zahlreichen Schächten, die das Merensky- und das UG2-Riff in der Provinz Nordwest erschließen. Implats betreibt eine vollständig integrierte Wertschöpfungskette, von der Erzförderung über die Konzentration bis hin zur Veredelung in eigenen Raffinerien. Die Mine ist ein bedeutender Wirtschaftsfaktor für das Land und ein wichtiger Akteur auf dem Weltmarkt für Edelmetalle. Besonders die steigende Nachfrage nach Palladium und Rhodium für die Umwelttechnologie macht die Operationen in Rustenburg strategisch wertvoll. Geografie K7 — Mineralogie und integrierte Industrieprozesse.",
-      "factsAdvanced": [
-        "Einer der weltweit führenden Produzenten von Platingruppenmetallen.",
-        "Umfasst ein weitläufiges Netz von Untertage-Schächten.",
-        "Besitzt eigene Raffinerien in Springs bei Johannesburg.",
-        "Wichtiger Lieferant für die globale Automobil- und Schmuckindustrie.",
-        "Beschäftigt über 30.000 Mitarbeiter in der Region.",
-        "Fokus auf nachhaltigen Bergbau durch moderne Belüftungssysteme.",
-        "Südafrikas PGM-Exporte sind ein Hauptpfeiler der Handelsbilanz.",
-        "Betrieben von Impala Platinum Holdings Limited."
-      ]
-    },
-    {
-      "id": "foskor-phalaborwa-economic-v2",
-      "descriptionAdvanced": "Foskor in Phalaborwa ist Südafrikas führender Produzent von Phosphatgestein und ein zentraler Akteur für die globale Düngemittelindustrie. Die Anlage nutzt die einzigartigen vulkanischen Ablagerungen des Phalaborwa-Komplexes, um hochwertiges Phosphat zu gewinnen. Diese Mineralien sind die Grundlage für die Herstellung von Phosphorsäure und Düngemitteln, die für die Ernährungssicherheit im In- und Ausland entscheidend sind. Foskor betreibt in Phalaborwa eine massive Aufbereitungsanlage und arbeitet eng mit den benachbarten Bergbaubetrieben zusammen. Die strategische Bedeutung der Phosphatgewinnung macht Foskor zu einem unverzichtbaren Partner für die südafrikanische Landwirtschaft. Geografie K7 — Agrarchemie und mineralische Düngemittel.",
-      "factsAdvanced": [
-        "Einziger vertikal integrierter Phosphatproduzent in Südafrika.",
-        "Gewinnt Phosphat aus dem weltweit einzigartigen Phalaborwa-Igneous-Complex.",
-        "Hauptexporteur von Phosphorsäure über den Hafen von Richards Bay.",
-        "Sichert die Versorgung der südafrikanischen Bauern mit Dünger.",
-        "Arbeitet im Tagebau-Verfahren mit hochmodernen Brecheranlagen.",
-        "Besitzt eine eigene Schienenanbindung für den Rohstofftransport.",
-        "Wichtiger Arbeitgeber im Nordosten der Provinz Limpopo.",
-        "Gegründet 1951 zur Förderung der nationalen Autarkie."
-      ]
-    },
-    {
-      "id": "modikwa-platinum-mine-economic-v2",
-      "descriptionAdvanced": "Die Modikwa-Platinmine in der Provinz Limpopo liegt am östlichen Rand des Bushveld-Komplexes und ist ein bedeutendes Joint Venture zwischen African Rainbow Minerals und Anglo American Platinum. Die Mine erschließt das reiche UG2-Chromitit-Riff und produziert hochwertige Platingruppenmetalle. Modikwa ist bekannt für sein starkes Engagement für die soziale Entwicklung der umliegenden Gemeinden und gilt als Vorbild für die wirtschaftliche Stärkung der schwarzen Bevölkerung (B-BBEE) im Bergbau-Sektor. Die Mine nutzt modernste Untertagebau-Methoden und trägt maßgeblich zur wirtschaftlichen Belebung des ländlichen Teils von Limpopo bei. Geografie K7 — Ressourcenmanagement und Empowerment im Bergbau.",
-      "factsAdvanced": [
-        "Bedeutendes Platin-Projekt am Eastern Limb des Bushveld-Komplexes.",
-        "Joint Venture mit Fokus auf Breitangelegtes Schwarzes Wirtschaftliches Empowerment.",
-        "Abbau von Platin, Palladium und Rhodium im UG2-Riff.",
-        "Verwendet hocheffiziente Fördersysteme für den Untertage-Transport.",
-        "Besitzt eine eigene Konzentrator-Anlage vor Ort.",
-        "Wichtiger Akteur für die wirtschaftliche Entwicklung in Limpopo.",
-        "Setzt auf modernste Sicherheitstechnologien für die Belegschaft.",
-        "Beschäftigt rund 4.500 Mitarbeiter."
-      ]
-    },
-    {
-      "id": "robben-island-history-v2",
-      "descriptionAdvanced": "Robben Island, eine kleine Insel in der Tafelbucht vor Kapstadt, ist ein weltweites Symbol für den Triumph des menschlichen Geistes über Unterdrückung. Fast 400 Jahre lang diente sie als Gefängnis, Lazarett für Leprakranke und Verteidigungsposten. Weltweite Bekanntheit erlangte sie als Ort der Inhaftierung von Nelson Mandela und anderen Führern des Anti-Apartheid-Kampfes. Heute ist die Insel eine Gedenkstätte und UNESCO-Welterbe, die Besucher mahnt, den Wert der Freiheit und der Versöhnung niemals zu vergessen. Die Führungen werden oft von ehemaligen politischen Gefangenen durchgeführt, was dem Besuch eine tiefe emotionale Authentizität verleiht. Geschichte K8 — Apartheid und der Kampf um Freiheit.",
-      "factsAdvanced": [
-        "UNESCO-Welterbe seit 1999.",
-        "Ort der 18-jährigen Haft von Nelson Mandela (Gefängniszelle Nr. 7).",
-        "Ehemals Standort einer Kolonie für Leprakranke (1846-1931).",
-        "Ursprünglich von niederländischen Siedlern als Robbenjagd-Station genutzt.",
-        "Strategischer Stützpunkt während des Zweiten Weltkriegs.",
-        "Heimat einer großen Pinguin-Kolonie.",
-        "Überfahrt mit der Fähre von der V&A Waterfront dauert ca. 30 Min.",
-        "Heute ein Museum, das von ehemaligen Häftlingen verwaltet wird."
-      ]
-    },
-    {
-      "id": "cradle-of-humankind-history-v2",
-      "descriptionAdvanced": "Die 'Wiege der Menschheit' (Cradle of Humankind) in der Provinz Gauteng ist eine der weltweit bedeutendsten paläoanthropologischen Stätten. Das UNESCO-Welterbe umfasst ein weitläufiges Kalksteinhöhlensystem, in dem einige der ältesten Hominiden-Fossilien der Erde entdeckt wurden, darunter das berühmte Skelett 'Little Foot' und der Schädel von 'Mrs. Ples'. Diese Funde belegen eindrucksvoll die Entwicklung unserer frühen Vorfahren über Millionen von Jahren. Das Besucherzentrum Maropeng bietet eine interaktive Zeitreise durch die Entstehung der Erde und der Menschheit. Es ist ein Ort von universaler wissenschaftlicher Bedeutung, der zeigt, dass wir alle gemeinsame Wurzeln in Afrika haben. Geschichte K8 — Evolution und Ursprünge der Menschheit.",
-      "factsAdvanced": [
-        "UNESCO-Welterbe seit 1999 auf einer Fläche von 47.000 Hektar.",
-        "Fundort von 'Mrs. Ples' (Australopithecus africanus) im Jahr 1947.",
-        "Entdeckung von 'Little Foot', einem fast vollständigen Skelett (3,6 Mio. Jahre alt).",
-        "Beherbergt die Sterkfontein-Höhlen, eine der reichsten Fossilienstätten der Welt.",
-        "Entdeckung der neuen Menschenart Homo naledi in der Rising-Star-Höhle (2013).",
-        "Besucherzentrum Maropeng bedeutet 'Rückkehr zum Ursprung' in Setswana.",
-        "Enthält Beweise für die früheste Nutzung des Feuers durch Hominiden.",
-        "Wichtige Forschungsstätte für Wissenschaftler aus aller Welt."
-      ]
-    },
-    {
-      "id": "castle-of-good-hope-history-v2",
-      "descriptionAdvanced": "Das Castle of Good Hope in Kapstadt ist das älteste erhaltene Gebäude Südafrikas und ein monumentales Zeugnis der europäischen Kolonialgeschichte. Die von der Niederländischen Ostindien-Kompanie (VOC) zwischen 1666 und 1679 errichtete Festung diente als Versorgungsstation, Verwaltungszentrum und Verteidigungsanlage. Mit seinem charakteristischen fünfeckigen Grundriss und den massiven Steinmauern ist es ein Paradebeispiel für niederländische Militärarchitektur des 17. Jahrhunderts. Heute beherbergt das Schloss mehrere Museen, die die komplexe Geschichte von Kolonisation, Sklaverei und militärischer Macht dokumentieren. Es ist ein zentraler Ort für das Verständnis der frühen Entwicklung der Kapregion. Geschichte K8 — Kolonisation und die VOC-Ära.",
-      "factsAdvanced": [
-        "Ältestes europäisches Bauwerk in Südafrika (Baubeginn 1666).",
-        "Einzigartiger fünfeckiger Grundriss mit Bastionen (Leerdam, Buuren, Katzenellenbogen, Nassau, Oranje).",
-        "Ehemals direkt am Meer gelegen (heute landeinwärts durch Landgewinnung).",
-        "Beherbergt die William Fehr Collection historischer Gemälde und Möbel.",
-        "Sitz der regionalen Militärführung (Castle Control Board).",
-        "Besitzt das historische Glockentor aus dem Jahr 1684.",
-        "Diente zeitweise als Gefängnis für Gegner der Kolonialmacht.",
-        "Nationales Denkmal und wichtiger touristischer Anziehungspunkt."
-      ]
-    },
-    {
-      "id": "mapungubwe-history-v2",
-      "descriptionAdvanced": "Das Königreich Mapungubwe, gelegen am Zusammenfluss von Limpopo und Shashe, war im 11. bis 13. Jahrhundert das erste bedeutende städtische Zentrum im südlichen Afrika. Das UNESCO-Welterbe dokumentiert eine hoch entwickelte Gesellschaft, die weitreichenden Handel mit Ägypten, Indien und China betrieb. Berühmt wurde die Stätte durch den Fund des 'Goldenen Rhinozeros', eines filigranen Kunstwerks, das den Wohlstand und die Handwerkskunst der damaligen Zeit symbolisiert. Mapungubwe gilt als Vorläufer des Großen Simbabwe und ist ein wichtiger Beweis für die Existenz mächtiger afrikanischer Königreiche lange vor der Ankunft europäischer Siedler. Geschichte K8 — Frühe afrikanische Zivilisationen und Handelsnetzwerke.",
-      "factsAdvanced": [
-        "UNESCO-Welterbe seit 2003.",
-        "Erstes komplexes Staatswesen im südlichen Afrika (ca. 1075–1220 n. Chr.).",
-        "Fundort des ikonischen 'Goldenen Rhinozeros von Mapungubwe'.",
-        "Zentrum eines Handelsnetzwerks, das bis nach Asien reichte (Perlen, Elfenbein, Gold).",
-        "Liegt im Dreiländereck von Südafrika, Botswana und Simbabwe.",
-        "Gesellschaft war in eine königliche Elite und das einfache Volk unterteilt.",
-        "Niedergang vermutlich durch Klimaveränderungen und Dürreperioden.",
-        "Beherbergt ein preisgekröntes Besucherzentrum und Museum."
-      ]
-    },
-    {
-      "id": "voortrekker-monument-history-v2",
-      "descriptionAdvanced": "Das Voortrekker-Denkmal in Pretoria ist ein massives Granitmonument, das an den 'Großen Treck' der Buren erinnert, die im 19. Jahrhundert das Landesinnere erschlossen. Das zwischen 1937 und 1949 errichtete Bauwerk ist ein zentrales Symbol der Identität und Geschichte der Afrikaner. Besonders beeindruckend ist der Marmorfries im Inneren, der die dramatischen Ereignisse des Trecks und die Schlachten gegen die Zulu und Ndebele darstellt. Jedes Jahr am 16. Dezember fällt ein Sonnenstrahl exakt auf den Gedenkstein in der Mitte des Monuments, was an den Sieg in der Schlacht am Blood River erinnert. Es ist ein Ort kontroverser, aber unverzichtbarer Geschichte für das Verständnis Südafrikas. Geschichte K8 — Der Große Treck und burischer Nationalismus.",
-      "factsAdvanced": [
-        "Eingeweiht am 16. Dezember 1949 (Tag des Gelübdes).",
-        "Massive Granitstruktur mit einer Höhe von 40 Metern.",
-        "Besitzt den weltweit längsten historischen Marmorfries (92 Meter).",
-        "Lichtphänomen: Ein Sonnenstrahl trifft am 16.12. um 12 Uhr das Wort 'Ons vir Jou, Suid-Afrika'.",
-        "Umgeben von einer Schutzmauer aus 64 steinernen Ochsenkarren (Laager).",
-        "Nationales Erbe und bedeutendes Denkmal der Afrikaner-Kultur.",
-        "Bietet von der Aussichtsplattform einen Panoramablick über Pretoria.",
-        "Architekt war Gerard Moerdijk."
-      ]
-    },
-    {
-      "id": "blood-river-heritage-site-history-v2",
-      "descriptionAdvanced": "Die Gedenkstätte am Blood River (Ncome) in KwaZulu-Natal erinnert an eine der entscheidenden Schlachten der südafrikanischen Geschichte im Jahr 1838. Hier besiegten 470 Voortrekker unter Führung von Andries Pretorius ein gewaltiges Zulu-Heer. Das Ereignis prägte das Selbstverständnis der Buren über Generationen. Heute ist der Ort eine Stätte der Versöhnung; neben dem Denkmal der 64 bronzenen Ochsenkarren der Voortrekker steht das Ncome-Museum, das die Geschichte aus der Sicht des Zulu-Volkes dokumentiert. Die Gedenkstätte lädt dazu ein, die unterschiedlichen Perspektiven auf diesen blutigen Konflikt zu reflektieren und die Bedeutung des Dialogs zu würdigen. Geschichte K8 — Konflikte zwischen Siedlern und indigenen Völkern.",
-      "factsAdvanced": [
-        "Ort der Schlacht am Blood River (16. Dezember 1838).",
-        "Einzigartiges Denkmal aus 64 lebensgroßen, bronzenen Ochsenwagen.",
-        "Ncome-Museum zeigt die Zulu-Perspektive der Ereignisse.",
-        "Benannt nach dem Fluss, der sich nach der Schlacht rot färbte.",
-        "Wichtiger Ort für das Gedenken am 'Versöhnungstag' (16. Dezember).",
-        "Symbol für den Zusammenstoß zweier mächtiger Kulturen.",
-        "Liegt in einer weiten, offenen Grasebene von KwaZulu-Natal.",
-        "Nationales Denkmal und Teil des 'Battlefields' Tourismus."
-      ]
-    },
-    {
-      "id": "isandlwana-battlefield-history-v2",
-      "descriptionAdvanced": "Das Schlachtfeld von Isandlwana ist der Ort einer der spektakulärsten Niederlagen der britischen Kolonialmacht. Im Januar 1879 besiegte ein Zulu-Heer von rund 20.000 Kriegern eine technisch überlegene britische Armee vernichtend. Die Schlacht markierte den Beginn des Anglo-Zulu-Krieges und bewies die militärische Stärke und taktische Genialität des Zulu-Königreichs unter König Cetshwayo. Heute erinnern weiße Steinhaufen (Cairns) an die gefallenen Soldaten auf den Feldern unter dem markanten Isandlwana-Berg. Es ist ein Ort der Stille und Besinnung, der die Komplexität des imperialen Strebens und des indigenen Widerstands im 19. Jahrhundert verdeutlicht. Geschichte K8 — Anglo-Zulu-Krieg und imperialer Widerstand.",
-      "factsAdvanced": [
-        "Schlacht von Isandlwana am 22. Januar 1879.",
-        "Erster großer Sieg eines afrikanischen Heeres über eine moderne europäische Armee.",
-        "Die Zulu nutzten die berühmte 'Hörner des Stiers' Taktik.",
-        "Weiß gekalkte Steinhaufen markieren die Massengräber der britischen Soldaten.",
-        "Der Isandlwana-Berg ähnelt in seiner Form einer Sphinx.",
-        "Bedeutendes Denkmal für die Gefallenen der Zulu-Nation.",
-        "Wichtiger Teil der südafrikanischen 'Battlefields' Route.",
-        "Schauplatz zahlreicher Mythen und Legenden über Tapferkeit."
-      ]
-    },
-    {
-      "id": "rorkes-drift-history-v2",
-      "descriptionAdvanced": "Rorke's Drift ist weltweit bekannt für die heldenhafte Verteidigung einer kleinen britischen Missionsstation gegen eine Übermacht von Zulu-Kriegern im Jahr 1879. Nur wenige Stunden nach der Niederlage von Isandlwana hielten etwa 150 britische Soldaten den Angriffen von rund 3.000 bis 4.000 Zulus stand. Für ihre Tapferkeit erhielten elf Verteidiger das Victoria Cross, die höchste britische Kriegsauszeichnung – eine Rekordzahl für eine einzige Schlacht. Heute ist Rorke's Drift ein Museum und ein bedeutendes Zentrum für Kunsthandwerk und Weberei der Zulu, was die Transformation von einem Ort des Krieges zu einem Ort der kreativen Versöhnung symbolisiert. Geschichte K8 — Heldentum und historische Transformation.",
-      "factsAdvanced": [
-        "Verteidigung von Rorke's Drift am 22. und 23. Januar 1879.",
-        "Verleihung von elf Victoria Crosses an die Verteidiger.",
-        "Ehemalige schwedische Missionsstation.",
-        "Heute Heimat des ELC Art and Craft Centre (bekannt für Wandteppiche).",
-        "Ausgezeichnetes Museum, das die Schlacht detailliert rekonstruiert.",
-        "Berühmt durch den Hollywood-Film 'Zulu' (1964).",
-        "Liegt malerisch am Buffalo River in KwaZulu-Natal.",
-        "Symbol für extremen Mut auf beiden Seiten des Konflikts."
-      ]
-    },
-    {
-      "id": "nelson-mandela-capture-site-history-v2",
-      "descriptionAdvanced": "Die Nelson-Mandela-Capture-Site bei Howick markiert den exakten Ort, an dem Nelson Mandela am 5. August 1962 von der Apartheid-Polizei verhaftet wurde. Dieser Moment leitete seine 27-jährige Gefangenschaft ein. Das Highlight der Gedenkstätte ist die monumentale Skulptur von Marco Cianfanelli, die aus 50 vertikalen Stahlstäben besteht. Nur aus einem bestimmten Blickwinkel verschmelzen diese Stäbe zum Porträt Mandelas. Ein modernes Museum dokumentiert den 'Langen Weg zur Freiheit' und die dramatischen Ereignisse, die zur Verhaftung führten. Es ist ein kraftvoller Ort des Gedenkens, der die Bedeutung von Standhaftigkeit und dem Kampf für Gerechtigkeit würdigt. Geschichte K8 — Nelson Mandela und der Widerstand gegen die Apartheid.",
-      "factsAdvanced": [
-        "Ort der Verhaftung Nelson Mandelas am 5. August 1962.",
-        "Besitzt eine weltberühmte optische Skulptur aus 50 Stahlpfeilern.",
-        "Erbaut zum 50. Jahrestag der Gefangennahme.",
-        "Modernes Besucherzentrum mit interaktiven Ausstellungen.",
-        "Liegt an der malerischen R103 bei Howick in KwaZulu-Natal.",
-        "Thematisiert den Übergang vom gewaltlosen Protest zum bewaffneten Kampf.",
-        "Symbol für den Wendepunkt in Mandelas politischem Leben.",
-        "Wichtiger Stopp auf dem Weg zwischen Durban und Johannesburg."
-      ]
-    },
-    {
-      "id": "district-six-museum-history-v2",
-      "descriptionAdvanced": "Das District Six Museum in Kapstadt erinnert an eine der schmerzhaftesten Episoden der Apartheid: die Zwangsumsiedlung von über 60.000 Bewohnern eines multikulturellen Viertels. 1966 zum 'weißen Gebiet' erklärt, wurde das pulsierende Herz der Stadt dem Erdboden gleichgemacht. Das Museum, untergebracht in einer ehemaligen Kirche, bewahrt die Erinnerungen, Fotos und persönlichen Geschichten der Vertriebenen. Es ist kein Ort der bloßen Dokumentation, sondern ein lebendiges Zentrum für soziale Gerechtigkeit und Identität. Die Bodenkarte, auf der ehemalige Bewohner ihre Häuser markieren können, macht den Verlust auf bewegende Weise greifbar. Geschichte K8 — Zwangsumsiedlungen und städtischer Widerstand.",
-      "factsAdvanced": [
-        "Gegründet 1994 zur Erinnerung an das zerstörte Viertel District Six.",
-        "Bewahrt die Geschichte von über 60.000 gewaltsam vertriebenen Menschen.",
-        "Die Gebäude wurden fast vollständig zerstört; das Land blieb lange Brachland.",
-        "Museum beherbergt Original-Straßenschilder und persönliche Alltagsgegenstände.",
-        "Zentrum für den Kampf um Rückerstattung von Landrechten.",
-        "Auszeichnung mit dem Prinz-Claus-Preis für kulturelle Bedeutung.",
-        "Interaktive Ausstellungen, die oft von Zeitzeugen geführt werden.",
-        "Symbol für die kulturelle Vielfalt Kapstadts vor der Apartheid."
-      ]
-    },
-    {
-      "id": "apartheid-museum-history-v2",
-      "descriptionAdvanced": "Das Apartheid Museum in Johannesburg ist die weltweit führende Institution zum Verständnis der Ära der Rassentrennung in Südafrika. Schon beim Betreten werden Besucher zufällig als 'Weiß' oder 'Nicht-Weiß' kategorisiert, was die tägliche Realität der Diskriminierung sofort fühlbar macht. Die Ausstellungen nutzen packende Fotos, Videos und Dokumente, um den Aufstieg und den Fall der Apartheid sowie den heldenhaften Widerstand der Bevölkerung darzustellen. Das Museum ist eine architektonische Meisterleistung, die durch ihre raue Gestaltung die Härte des Regimes widerspiegelt. Es ist ein Ort der Aufklärung, der die Besucher tief bewegt und zum Nachdenken über Menschenrechte anregt. Geschichte K8 — Das System der Apartheid und die Befreiung.",
-      "factsAdvanced": [
-        "Eröffnet im Jahr 2001.",
-        "Bietet eine umfassende multimediale Zeitreise von 1948 bis 1994.",
-        "Architektur symbolisiert Unterdrückung und Hoffnung (Beton, Glas, Stahl).",
-        "Beherbergt den ikonischen gelben Casspir-Panzerwagen der Apartheid-Polizei.",
-        "Ausführliche Sektionen zum Leben von Nelson Mandela und Steve Biko.",
-        "Befindet sich neben dem Freizeitpark Gold Reef City.",
-        "International anerkannt als eines der bedeutendsten Museen des 20. Jahrhunderts.",
-        "Vermittelt die Komplexität der südafrikanischen Versöhnungsarbeit."
-      ]
-    },
-    {
-      "id": "groot-constantia-history-v2",
-      "descriptionAdvanced": "Groot Constantia ist das älteste Weingut Südafrikas und ein prachtvolles Beispiel für kapholländische Architektur. Gegründet 1685 durch Gouverneur Simon van der Stel, blickt das Gut auf eine über 330-jährige Geschichte des Weinbaus zurück. Der legendäre 'Constantia-Wein' war im 18. und 19. Jahrhundert an den europäischen Königshöfen hochgeschätzt und wurde sogar von Napoleon Bonaparte während seines Exils getrunken. Das historische Herrenhaus mit seinem imposanten Giebel beherbergt heute ein Museum, das das luxuriöse Leben der frühen Siedler dokumentiert. Ein Besuch verbindet Weltklasse-Weine mit tiefer historischer Einsicht in die koloniale Entwicklung des Kaps. Geschichte K8 — Weinbau-Tradition und koloniale Architektur.",
-      "factsAdvanced": [
-        "Ältestes Weingut des Landes (gegründet 1685).",
-        "Paradebeispiel für den kapholländischen Baustil.",
-        "Der 'Grand Constance' Dessertwein ist weltberühmt.",
-        "Nationales Denkmal und Teil des südafrikanischen Kulturerbes.",
-        "Besitzt einen historischen Weinkeller mit Reliefs von Anton Anreith.",
-        "Liegt am Osthang des Constantiabergs in Kapstadt.",
-        "Heimat des Manor House Museums (Iziko Museums).",
-        "Einstiges Lieblingsgetränk von Königen und Kaisern (z.B. Friedrich der Große)."
+        "Der Standort Sasolburg wurde 1950 gegründet.",
+        "Die ursprüngliche Kohleverarbeitung wurde auf Erdgasnutzung umgestellt.",
+        "Heute liegt der Fokus auf hochwertigen Chemikalien und Polymeren.",
+        "Sasolburg ist das Gründungs- und Herzstück der Sasol-Gruppe.",
+        "Der Standort spielt eine zentrale Rolle für die chemische Industrie.",
+        "Das Werk verbindet eine reiche Geschichte mit moderner Produktionsfokussierung."
       ]
     }
   ]

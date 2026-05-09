@@ -2,164 +2,358 @@
   "lang": "de",
   "country": "ghana",
   "files": [
-    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
-    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
-    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
   ],
   "items": [
     {
-      "id": "accra-cities-v2",
-      "descriptionAdvanced": "Accra ist die pulsierende Hauptstadt und größte Metropole Ghanas, direkt am Golf von Guinea gelegen. Ursprünglich eine Ansammlung von Ga-Dörfern, wuchs die Stadt rund um britische, dänische und niederländische Forts aus dem 17. Jahrhundert heran. Heute dominiert die moderne Architektur neben historischen Vierteln wie Jamestown, das für seinen 1928 erbauten rot-weißen Leuchtturm berühmt ist. Der riesige Makola-Markt bildet das wirtschaftliche Herz der Stadt, wo Tausende von Händlern alles von Textilien bis zu Elektronik anbieten. Geografie K7 — afrikanische Hauptstädte.",
-      "factsAdvanced": ["Hauptstadt Ghanas", "Liegt am Golf von Guinea", "Bekannt für den Makola-Markt", "Historische Forts aus dem 17. Jh.", "Jamestown Leuchtturm (1928 erbaut)", "Ursprung als Ga-Dorf"]
+      "id": "volta-lake-nature-v2",
+      "descriptionAdvanced": "Der Volta-See ist der flächenmäßig größte künstliche See der Welt und bildet das unangefochtene infrastrukturelle Rückgrat Ghanas. Er entstand in den 1960er Jahren durch den bau des gewaltigen Akosombo-Staudamms, der den Weißen, Schwarzen und Roten Volta in einer riesigen geologischen Senke aufstaute. Der See bedeckt fast 8.500 Quadratkilometer, was etwa 4 % der gesamten Landfläche des Landes entspricht, und hat das lokale Mikroklima sowie die Ökosysteme dauerhaft transformiert. Neben der massiven Stromerzeugung für Ghana und seine Nachbarstaaten dient er als lebenswichtiger Transportweg für die Binnenschifffahrt und als reiches Fischereiressort, das Tausende von Menschen ernährt. Die Landschaft ist geprägt von aus dem Wasser ragenden, abgestorbenen Baumstümpfen, die heute als wertvolles Tropenholz geborgen werden. Geografie K8 — Künstliche Gewässer und Energiegewinnung.",
+      "factsAdvanced": [
+        "Flächenmäßig größter künstlicher See der Erde (ca. 8.502 km²)",
+        "Entstanden durch den Akosombo-Damm (Bauzeit 1961–1965)",
+        "Der See erstreckt sich über 400 km von Nord nach Süd",
+        "Bedeckt knapp 4 % der gesamten Landesfläche Ghanas",
+        "Wichtigste Quelle für Wasserkraft in Westafrika",
+        "Zentrum der nationalen Binnenfischerei (Tilapia-Zucht)",
+        "Überflutete Gebiete enthalten riesige Vorkommen an altem Hartholz",
+        "Dient als Hauptverkehrsweg zwischen dem Norden und dem Süden"
+      ]
     },
     {
-      "id": "kumasi-cities-v2",
-      "descriptionAdvanced": "Kumasi, die historische Hauptstadt des mächtigen Ashanti-Reiches, liegt in der waldreichen Region im Zentrum Ghanas. Bekannt als Gartenstadt wegen ihrer vielen Pflanzenarten, beherbergt sie den beeindruckenden Manhyia-Palast, den Sitz des Asantehene. Der Kejetia-Markt ist mit über 11.000 Ständen der größte Freiluftmarkt Westafrikas und ein faszinierendes Labyrinth aus Farben und Gerüchen. Die Stadt war 1900 Schauplatz des Yaa-Asantewaa-Krieges gegen die britischen Kolonialtruppen. Geschichte K8 — koloniale Konflikte in Afrika.",
-      "factsAdvanced": ["Historische Hauptstadt des Ashanti-Reiches", "Sitz des Manhyia-Palastes", "Kejetia-Markt hat über 11.000 Stände", "Bekannt als Gartenstadt", "Schauplatz des Yaa-Asantewaa-Krieges (1900)", "Liegt in der waldreichen Zentralregion"]
+      "id": "kakum-forest-nature-v2",
+      "descriptionAdvanced": "Der Kakum-Nationalpark in der Central Region Ghanas schützt einen der letzten verbliebenen ursprünglichen tropischen Regenwälder Westafrikas. Gegründet wurde das Reservat 1932, wobei der Status als Nationalpark erst 1992 offiziell bestätigt wurde. Das Herzstück des Parks ist der weltweit bekannte 'Canopy Walkway', eine Hängebrückenkonstruktion in über 40 Metern Höhe, die Besuchern einen einzigartigen Blick auf das dichte Blätterdach und die dort lebende Tierwelt ermöglicht. Kakum ist Heimat für seltene Arten wie den Waldelefanten, Diana-Meerkatzen und über 250 verschiedene Vogelarten. Die Vegetation ist extrem dicht und umfasst majestätische Urwaldbäume wie den Mahagoni- und den Seidenwollbaum, die teilweise über 60 Meter hoch werden. Der Park kombiniert Naturschutz mit Ökotourismus auf vorbildliche Weise. Biologie K7 — Ökosystem tropischer Regenwald.",
+      "factsAdvanced": [
+        "Gegründet 1932 als Schutzgebiet, Nationalpark seit 1992",
+        "Fläche von ca. 375 Quadratkilometern primärem Regenwald",
+        "Berühmt für den Canopy Walkway (Hängebrücken in 40 m Höhe)",
+        "Beheimatet bedrohte Waldelefanten und Leoparden",
+        "Über 260 Vogelarten wurden im Park identifiziert",
+        "Enthält seltene Heilpflanzen und uralte Hartholzbäume",
+        "Zentrum für Umweltbildung und nachhaltigen Ökotourismus",
+        "Regenreichstes Schutzgebiet Ghanas mit hoher Biodiversität"
+      ]
     },
     {
-      "id": "tamale-cities-v2",
-      "descriptionAdvanced": "Tamale ist die am schnellsten wachsende Stadt in Ghana und das administrative Zentrum der flachen Savannenregion im Norden. Im Gegensatz zum christlich geprägten Süden ist die Architektur hier stark vom Islam beeinflusst, mit zahlreichen traditionellen Rundhütten, die neben modernen Moscheen stehen. Die Stadt ist der Hauptknotenpunkt für den Handel mit landwirtschaftlichen Gütern wie Sheabutter und Yams, die in der trockenen Umgebung gedeihen. Geografie K6 — Savannenlandschaften.",
-      "factsAdvanced": ["Schnellstwachsende Stadt Ghanas", "Zentrum der nördlichen Savannenregion", "Starker islamischer Einfluss in Architektur", "Hauptknotenpunkt für Sheabutter", "Handel mit Yams", "Traditionelle Rundhütten neben Moscheen"]
+      "id": "mole-forest-nature-v2",
+      "descriptionAdvanced": "Der Mole-Nationalpark ist das größte und älteste Wildtierreservat Ghanas und repräsentiert die beeindruckende Savannenlandschaft der Northern Region. Im Gegensatz zum tropischen Süden ist die Natur hier von weiten Grasflächen, knorrigen Baobab-Bäumen und Galeriewäldern entlang der Flüsse geprägt. Der Park ist besonders bekannt für seine entspannte Elefantenpopulation, die man oft an den Wasserlöchern direkt unterhalb der Mole Lodge beobachten kann. Neben den über 400 afrikanischen Savannenelefanten beherbergt das Reservat Büffel, Hyänen, Rappenantilopen und verschiedene Primatenarten. Geologisch liegt der Park auf einem Plateau, das einen weiten Blick über die Ebenen des Weißen Volta bietet. Die Trockenzeit zwischen Dezember und April ist die beste Zeit für Tierbeobachtungen, da sich die Tiere an den wenigen verbliebenen Quellen sammeln. Geografie K7 — Savannen-Habitate und Wildtierschutz.",
+      "factsAdvanced": [
+        "Größter Nationalpark Ghanas mit ca. 4.840 km² Fläche",
+        "Erstes Schutzgebiet des Landes (gegründet 1958)",
+        "Heimat von über 90 Säugetierarten, inkl. Savannenelefanten",
+        "Besteht primär aus Guinea-Savannen-Ökosystem",
+        "Beheimatet seltene Arten wie den Leopard und die Hyäne",
+        "Über 300 Vogelarten und 33 Reptilienarten dokumentiert",
+        "Die Flüsse Mole und Lovi durchqueren das Parkgebiet",
+        "Wichtigstes Ziel für Safari-Tourismus in ganz Ghana"
+      ]
     },
     {
-      "id": "takoradi-cities-v2",
-      "descriptionAdvanced": "Zusammen mit Sekondi bildet Takoradi die drittgrößte Metropolregion des Landes, oft als Ölstadt bezeichnet, seit 2007 vor der Küste große Erdölvorkommen entdeckt wurden. Der 1928 eröffnete Tiefseehafen war der erste seiner Art in Ghana und ist bis heute ein zentraler Umschlagplatz für Kakao, Holz und Bauxit. Während des Zweiten Weltkriegs diente die Stadt als wichtige Basis für britische Luftwaffeneinsätze in Nordafrika. Geschichte K8 — Afrika im Zweiten Weltkrieg.",
-      "factsAdvanced": ["Metropolregion mit Sekondi", "Oft als Ölstadt bezeichnet (Entdeckung 2007)", "Tiefseehafen eröffnet 1928", "Umschlagplatz für Bauxit und Kakao", "Basis für britische Luftwaffe im 2. WK", "Drittgrößte Metropole des Landes"]
+      "id": "wli-waterfalls-nature-v2",
+      "descriptionAdvanced": "Die Wli-Wasserfälle, in der Nähe von Hohoe in der Volta Region gelegen, sind die höchsten Wasserfälle in ganz Westafrika. Das Wasser stürzt hier in zwei beeindruckenden Stufen – dem unteren und dem oberen Fall – über fast 80 Meter in die Tiefe der Agumatsa-Berge. Der Weg zum unteren Fall führt durch ein üppiges Schutzgebiet mit über 200 Vogelarten und hunderten von bunten Schmetterlingen. Eine Besonderheit ist die massive Kolonie von tausenden von Flughunden, die an den steilen Felswänden rund um den Wasserfall nisten. Geologisch gehört das Gebiet zum Togo-Atakora-Gebirge, das sich durch schroffe Quarzitfelsen und dichte Primärwälder auszeichnet. Das herabstürzende Wasser bietet den Besuchern ein kühles Mikroklima inmitten der tropischen Hitze. Geografie K6 — Hydrographie und Reliefformen.",
+      "factsAdvanced": [
+        "Höchster Wasserfall Westafrikas mit ca. 80 Metern Fallhöhe",
+        "Liegt im Agumatsa Wildlife Sanctuary an der Grenze zu Togo",
+        "Besteht aus zwei Hauptstufen: dem 'Lower Fall' und 'Upper Fall'",
+        "Beheimatet eine der größten Flughund-Kolonien der Region",
+        "Weg führt über 11 kleine Brücken durch dichten Regenwald",
+        "Über 200 Vogelarten und 400 Schmetterlingsarten vor Ort",
+        "Teil der touristisch bedeutenden Volta-Region-Route",
+        "Wassermassen sind in der Regenzeit am beeindruckendsten"
+      ]
     },
     {
-      "id": "ashaiman-cities-v2",
-      "descriptionAdvanced": "Ursprünglich als kleines Bauerndorf im 17. Jahrhundert gegründet, explodierte die Bevölkerung von Ashaiman durch den Bau der benachbarten Hafenstadt Tema in den 1960er Jahren. Es ist heute eine der am dichtesten besiedelten urbanen Zonen Ghanas, geprägt von einem unermüdlichen Unternehmergeist und lebendiger Straßenkultur. Trotz anfänglicher infrastruktureller Herausforderungen hat sich die Stadt zu einem wichtigen Handelszentrum mit einem enormen Lebensmittel- und Textilmarkt entwickelt. Sozialkunde K7 — Urbanisierung.",
-      "factsAdvanced": ["Gegründet im 17. Jahrhundert", "Wuchs durch den Bau von Tema in den 1960ern", "Eine der dichtesten urbanen Zonen", "Großer Lebensmittel- und Textilmarkt", "Starke Straßenkultur", "Ursprünglich ein kleines Bauerndorf"]
+      "id": "bui-national-forest-nature-v2",
+      "descriptionAdvanced": "Der Bui-Nationalpark erstreckt sich entlang des Schwarzen Volta an der Grenze zwischen den Regionen Bono und Savannah. Er ist bekannt für sein charakteristisches Savannen-Wald-Mosaik und schützt eine der bedeutendsten Flusspferdepopulationen Ghanas. Das Relief ist durch sanfte Hügel und das tiefe Tal des Schwarzen Volta geprägt, das in den letzten Jahren durch den bau des Bui-Staudamms signifikant verändert wurde. Trotz der industriellen Entwicklung bleibt der Park ein wichtiger Korridor für Wildtiere und beherbergt Primaten wie den schwarz-weißen Stummelaffen sowie zahlreiche Antilopenarten. Die Vegetation besteht aus trockenen Wäldern und Ufervegetation, die während der Regenzeit regelmäßig überflutet wird. Der Park bietet eine einzigartige Mischung aus Naturschutz und moderner Energie-Infrastruktur. Biologie K8 — Habitatverlust und Ausgleichsmaßnahmen.",
+      "factsAdvanced": [
+        "Drittgrößter Nationalpark Ghanas (ca. 1.820 km²)",
+        "Gegründet im Jahr 1971 zum Schutz der Flusspferde",
+        "Wird vom Schwarzen Volta, dem zweitlängsten Fluss Ghanas, geteilt",
+        "Beheimatet bedrohte schwarze und weiße Stummelaffen",
+        "Bau des Bui-Damms (2008–2013) überflutete Teile des Parks",
+        "Wichtiger Brutplatz für zahlreiche Wasservogelarten",
+        "Gilt als einer der am wenigsten erforschten Parks des Landes",
+        "Schützt wertvolle Galeriewälder entlang des Flusslaufs"
+      ]
     },
     {
-      "id": "tema-cities-v2",
-      "descriptionAdvanced": "Tema, auf dem Nullmeridian gelegen, ist Ghanas wichtigster Seehafen und ein Paradebeispiel für eine planmäßig angelegte Industriestadt. Sie wurde 1960 von Präsident Kwame Nkrumah auf dem Gelände eines kleinen Fischerdorfes errichtet, um die wirtschaftliche Unabhängigkeit des Landes zu fördern. Die Stadt ist in nummerierte Gemeinschaften unterteilt und beherbergt die Volta Aluminium Company sowie Ölraffinerien, die Rohstoffe aus dem ganzen Land verarbeiten. Geografie K8 — Industrie und Häfen.",
-      "factsAdvanced": ["Wichtigster Seehafen Ghanas", "Liegt genau auf dem Nullmeridian", "Erbaut 1960 unter Präsident Nkrumah", "Heimat der Volta Aluminium Company", "Besitzt eine große Ölraffinerie", "Planmäßig angelegte Industriestadt"]
+      "id": "digya-forest-nature-v2",
+      "descriptionAdvanced": "Der Digya-Nationalpark ist das zweitälteste Schutzgebiet Ghanas und liegt auf einer Halbinsel am westlichen Ufer des Volta-Sees. Die Landschaft ist eine Übergangszone zwischen dem tropischen Regenwald im Süden und der Guinea-Savanne im Norden, was zu einer außergewöhnlich hohen Artenvielfalt führt. Digya ist das einzige Reservat in Ghana, das direkt an den riesigen künstlichen See grenzt und somit wichtige aquatische Lebensräume schützt. Neben Waldelefanten und Primaten beherbergt der Park auch Seekühe (Manatis) in den flachen Gewässern des Volta-Sees. Aufgrund seiner abgeschiedenen Lage auf einer Halbinsel ist der Park weitgehend unberührt geblieben, stellt jedoch hohe Anforderungen an die Parkranger bei der Überwachung gegen Wilderei. Die Vegetation variiert von dichtem Wald bis zu offenem Grasland. Geografie K7 — Ökoton-Zonen und Naturschutz.",
+      "factsAdvanced": [
+        "Gegründet 1900 als Wildreservat, Nationalpark seit 1971",
+        "Fläche von ca. 3.478 km² am Ufer des Volta-Sees",
+        "Einziges Schutzgebiet Ghanas mit Seekuh-Vorkommen",
+        "Wichtige Transitroute für wandernde Elefantenherden",
+        "Beheimatet sechs verschiedene Primatenarten",
+        "Geprägt durch die Digya-Berge im zentralen Teil",
+        "Zweitgrößter Nationalpark des Landes nach dem Mole-Park",
+        "Die Halbinsellage macht ihn geografisch fast isoliert"
+      ]
     },
     {
-      "id": "teshie-cities-v2",
-      "descriptionAdvanced": "Teshie, östlich von Accra gelegen, ist berühmt für seine außergewöhnliche Tradition der Fantasy-Särge, bei der verstorbene Tischler in Särgen in Form von Autos, Fischen oder Flugzeugen beigesetzt werden. Die Siedlung wurde 1710 von Ga-Fischern gegründet, und noch heute spielt der Fischfang im Golf von Guinea eine zentrale Rolle im Alltag der Bewohner. Jedes Jahr im August wird das farbenfrohe Homowo-Festival gefeiert, um an eine historische Hungersnot zu erinnern und die Ernte zu preisen. Kultur K6 — afrikanische Traditionen.",
-      "factsAdvanced": ["Berühmt für Fantasy-Särge", "Gegründet 1710 von Ga-Fischern", "Liegt östlich von Accra", "Fischfang im Golf von Guinea", "Jährliches Homowo-Festival im August", "Särge in Form von Autos oder Fischen"]
+      "id": "kyabobo-forest-nature-v2",
+      "descriptionAdvanced": "Der Kyabobo-Nationalpark liegt im äußersten Osten Ghanas an der Grenze zu Togo, eingebettet in das zerklüftete Oti-Hochland. Er markiert die Übergangszone zwischen dem Regenwald und der trockeneren Savanne und bietet daher eine dramatische Landschaft mit steilen Hügeln, tiefen Tälern und spektakulären Wasserfällen. Der höchste Punkt des Parks ist der Mount Kyabobo, der weite Ausblicke über den Volta-See im Westen und die Berge Togos im Osten ermöglicht. Der Park beheimatet seltene Tierarten wie den afrikanischen Wildhund, Leoparden und Löwen sowie über 500 Schmetterlingsarten. Die Vegetation ist ein Mosaik aus Bergregenwald und Grasland, das durch die starken Höhenunterschiede begünstigt wird. Kyabobo ist ein Paradies für Wanderer und Naturforscher, die unberührte Wildnis abseits der Massen suchen. Geografie K6 — Gebirgsökosysteme und Grenzregionen.",
+      "factsAdvanced": [
+        "Gegründet 1997 als einer der jüngsten Nationalparks Ghanas",
+        "Fläche von ca. 360 km² im Distrikt Nkwanta",
+        "Beheimatet den Mount Kyabobo an der Grenze zu Togo",
+        "Enthält das ikonische Wahrzeichen 'Breast Mountain'",
+        "Bekannt für seine hohe Dichte an Schmetterlingen (über 500 Arten)",
+        "Schützt die Quellgebiete mehrerer regionaler Flüsse",
+        "Beherbergt seltene Antilopen wie den Bongo und den Ducker",
+        "Spektakuläre Wasserfälle wie der Dzebobo befinden sich hier"
+      ]
     },
     {
-      "id": "cape-coast-cities-v2",
-      "descriptionAdvanced": "Cape Coast, lokal als Oguaa bekannt, war bis 1877 die Hauptstadt der britischen Goldküste und ist eine Stadt voller dramatischer Geschichte. Das dominierende Cape Coast Castle, erbaut im 17. Jahrhundert, steht als stummes Zeugnis des transatlantischen Sklavenhandels und zieht heute Besucher aus der ganzen Welt an. Die Stadt gilt als Wiege der westlichen Bildung in Ghana, da hier die erste anglikanische Schule gegründet wurde und viele der renommiertesten Gymnasien des Landes ansässig sind. Geschichte K7 — der transatlantische Handel.",
-      "factsAdvanced": ["Oguaa (lokaler Name)", "Hauptstadt der britischen Goldküste bis 1877", "Cape Coast Castle erbaut im 17. Jh.", "Zentrum des transatlantischen Sklavenhandels", "Ort der ersten anglikanischen Schule", "Wiege der westlichen Bildung in Ghana"]
+      "id": "ankasa-forest-nature-v2",
+      "descriptionAdvanced": "Das Ankasa-Schutzgebiet, bestehend aus dem Ankasa-Nationalpark und dem Nini-Suhien-Nationalpark, liegt im südwestlichen Zipfel Ghanas an der Grenze zur Elfenbeinküste. Es ist das einzige Gebiet in Ghana, das noch als 'feuchter immergrüner Regenwald' klassifiziert wird und eine jährliche Niederschlagsmenge von über 2.000 mm aufweist. Diese extremen Bedingungen haben eine weltweit bedeutende Biodiversität hervorgebracht, mit Pflanzenarten, die nirgendwo sonst auf der Erde vorkommen. Ankasa ist berühmt für seine 'Big Tree' – einen gigantischen Mahagonibaum – und seine dichte, dunkle Waldstruktur. Zu den Bewohnern gehören Waldelefanten, Schimpansen und seltene Vogelarten wie der Weißbrust-Waldrapp. Der Park ist durchzogen von malerischen Flüssen und bietet eine mystische Atmosphäre aus ewigem Grün und feuchtem Nebel. Biologie K8 — Biodiversitäts-Hotspots.",
+      "factsAdvanced": [
+        "Regenreichstes Gebiet Ghanas (über 2.000 mm Niederschlag/Jahr)",
+        "Gilt als biologisch vielfältigster Regenwald des Landes",
+        "Beheimatet den berühmten 'Big Tree' (66 Meter hoher Mahagoni)",
+        "Einziges Refugium für den seltenen Weißbrust-Waldrapp",
+        "Gegründet 1976 zum Schutz des Primärwaldes",
+        "Fläche des kombinierten Schutzgebiets beträgt ca. 500 km²",
+        "Durchzogen von den Flüssen Nini und Suhien",
+        "Wichtiger Forschungsstandort für Botanik und Entomologie"
+      ]
     },
     {
-      "id": "sekondi-cities-v2",
-      "descriptionAdvanced": "Sekondi bildet den älteren und administrativen Teil der Zwillingsstadt Sekondi-Takoradi an der südwestlichen Küste. Die Siedlung wuchs um das 1642 von den Niederländern erbaute Fort Oranje und wurde früh durch den Bau der Eisenbahnlinie im Jahr 1903 an die Goldminen im Hinterland angebunden. Heute ist sie ein wichtiges Zentrum für den Bau von Fischerbooten und die Verwaltung der umliegenden rohstoffreichen Gebiete. Wirtschaft K6 — Transport und Handel.",
-      "factsAdvanced": ["Teil der Sekondi-Takoradi Metropole", "Wuchs um Fort Oranje (1642 erbaut)", "Eisenbahnlinie 1903 gebaut", "Zentrum für Fischerbootbau", "Anbindung an Goldminen im Hinterland", "Administrativer Teil der Zwillingsstadt"]
+      "id": "nini-suhien-forest-nature-v2",
+      "descriptionAdvanced": "Der Nini-Suhien-Nationalpark bildet zusammen mit dem Ankasa-Reservat einen integralen Bestandteil des bedeutendsten Regenwald-Komplexes in Ghana. Er liegt in der Western Region und ist nach den beiden Flüssen Nini und Suhien benannt, die das Gebiet mit ihren klaren, schnellen Strömungen durchqueren. Der Park schützt eine unberührte Wildnis aus feuchtem, immergrünem Wald, der so dicht ist, dass das Sonnenlicht kaum den Waldboden erreicht. Diese ökologische Nische ist ein Refugium für seltene Primaten, Leoparden und eine enorme Anzahl an Orchideenarten. Geologisch ist das Gebiet von präkambrischen Gesteinen geprägt, die verwitterte, nährstoffarme aber mineralreiche Böden bilden. Die Stille des Waldes wird nur vom Rufen der Nashornvögel und dem Rauschen der zahlreichen kleinen Wasserfälle unterbrochen. Geografie K7 — Tropische Flusssysteme und Waldschutz.",
+      "factsAdvanced": [
+        "Teil des Ankasa-Nini-Suhien-Schutzgebietskomplexes",
+        "Benannt nach den permanent wasserführenden Flüssen Nini und Suhien",
+        "Schützt ca. 160 km² unberührten Primärregenwald",
+        "Region mit der höchsten Endemismus-Rate in Ghana",
+        "Wichtiger Lebensraum für den westafrikanischen Schimpansen",
+        "Beheimatet over 300 verschiedene Baumarten pro Hektar",
+        "Relief ist geprägt durch sanfte Täler und dichte Flusssäume",
+        "Zugang ist aufgrund der dichten Vegetation extrem erschwert"
+      ]
     },
     {
-      "id": "obuasi-cities-v2",
-      "descriptionAdvanced": "Obuasi ist das glänzende Goldgräberzentrum Ghanas, gelegen in einem fruchtbaren Tal, das von steilen Hügeln umgeben ist. Die Ashanti Gold Mine, die hier seit 1897 industriell betrieben wird, zählt zu den zehn größten Goldminen der Welt und hat Milliarden Tonnen Erz gefördert. Die Abhängigkeit der Stadt von diesem einzigen Rohstoff prägt sowohl den enormen Reichtum als auch die ökologischen und sozialen Herausforderungen der Region. Geografie K8 — Ressourcenabbau.",
-      "factsAdvanced": ["Zentrum des ghanaischen Goldbergbaus", "Ashanti Gold Mine (seit 1897 betrieben)", "Gehört zu den zehn größten Goldminen weltweit", "Milliarden Tonnen Erz gefördert", "Umgeben von steilen Hügeln", "Starke ökologische Herausforderungen"]
+      "id": "bia-forest-nature-v2",
+      "descriptionAdvanced": "Der Bia-Nationalpark und das angrenzende Ressourcenreservat liegen im Westen Ghanas, nahe der Grenze zur Elfenbeinküste. Dieses Schutzgebiet ist ein international anerkanntes UNESCO-Biosphärenreservat und repräsentiert die Übergangszone zwischen feuchtem und trockenem Regenwald. Bia ist berühmt für seine außergewöhnlich hohen Bäume, von denen einige zu den höchsten im gesamten westafrikanischen Raum zählen. Der Park bietet Schutz für bedrohte Waldelefanten und ist einer der wenigen Orte in Ghana, an denen Schimpansen in ihrer natürlichen Umgebung beobachtet werden können. Die wirtschaftliche Bedeutung der Region durch den Kakaoanbau im Umland übt jedoch einen starken Druck auf die Grenzen des Parks aus. Die Forschung in Bia konzentriert sich auf die Regeneration von Tropenwäldern und den Schutz von Primaten. Umwelt K8 — Biosphärenreservate und Nachhaltigkeit.",
+      "factsAdvanced": [
+        "UNESCO-Biosphärenreservat seit dem Jahr 1983",
+        "Gegründet 1935, Status als Nationalpark seit 1974",
+        "Beheimatet einige der höchsten Bäume Westafrikas (über 60 m)",
+        "Refugium für 62 verschiedene Säugetierarten",
+        "Wichtiges Schutzgebiet für den westlichen Schimpansen",
+        "Über 160 Vogelarten wurden im Gebiet nachgewiesen",
+        "Benannt nach dem Bia-Fluss, der die Region entwässert",
+        "Dient als grüne Lunge inmitten intensiver Kakaoplantagen"
+      ]
     },
     {
-      "id": "madina-cities-v2",
-      "descriptionAdvanced": "Madina ist ein rasant wachsender Vorort im Norden von Accra, der in den 1950er Jahren von muslimischen Zuwanderern aus Nordghana, Togo und Burkina Faso gegründet wurde. Es zeichnet sich durch eine enorme ethnische Vielfalt aus, wobei über fünfzig verschiedene Sprachen in den belebten Straßen gesprochen werden. Der Madina-Markt ist einer der geschäftigsten der Hauptstadtregion, auf dem landwirtschaftliche Produkte aus dem hügeligen Hinterland direkt verkauft werden. Sozialkunde K7 — Migration und Integration.",
-      "factsAdvanced": ["Gegründet in den 1950er Jahren", "Über fünfzig Sprachen gesprochen", "Zuwanderer aus Togo und Burkina Faso", "Nordöstlicher Vorort von Accra", "Belebter Madina-Markt", "Agrarprodukte aus dem Hinterland"]
+      "id": "shai-hills-mountain-nature-v2",
+      "descriptionAdvanced": "Das Shai Hills Ressourcenreservat liegt nur etwa 50 Kilometer nordöstlich der Hauptstadt Accra und ist das am leichtesten zugängliche Wildschutzgebiet des Landes. Es wird durch eine Gruppe dramatischer Granit-Inselberge dominiert, die sich steil aus der flachen Accra-Ebene erheben. Diese Felsformationen dienten dem Volk der Shai jahrhundertelang als natürliche Festungen und religiöse Stätten, bevor sie Ende des 19. Jahrhunderts von den Kolonialmächten vertrieben wurden. Heute ist das Gebiet von Küsten-Savanne geprägt und beherbergt Paviane, Kob-Antilopen, Strauße und grüne Meerkatzen. Die zahlreichen Höhlen in den Hügeln bieten Tausenden von Fledermäusen Unterschlupf. Shai Hills ist ein bedeutendes Ziel für Naherholung, Klettern und kulturelle Bildung. Geografie K6 — Inselberge und Savannenlandschaften.",
+      "factsAdvanced": [
+        "Einziges Schutzgebiet in unmittelbarer Nähe zur Metropole Accra",
+        "Fläche von ca. 51 km² küstennaher Savanne",
+        "Berühmt für die fünf Granitberge (Inselberge) der Region",
+        "Ehemalige Heimat des Shai-Volkes mit historischen Höhlen",
+        "Häufigste Tiere sind Paviane (Olive Baboons) und Kobs",
+        "Beheimatet Strauße, die im Rahmen eines Schutzprogramms eingeführt wurden",
+        "Wichtiges Ziel für Schulen und Wochenendtouristen",
+        "Besteht seit 1962 als offizielles Ressourcenreservat"
+      ]
     },
     {
-      "id": "koforidua-cities-v2",
-      "descriptionAdvanced": "Eingebettet in die bewaldeten Hügel der Eastern Region, ist Koforidua ein ruhigeres Handelszentrum, das für seinen wöchentlichen Perlenmarkt bekannt ist. Der Markt zieht Händler aus ganz Westafrika an, die handgemachte Glas- und Keramikperlen tauschen. Gegründet 1875 von Akan-Flüchtlingen, wuchs die Stadt im frühen 20. Jahrhundert durch den Bau der Eisenbahn, die den lukrativen Kakaoexport an die Küste ermöglichte. Wirtschaft K6 — traditionelles Handwerk.",
-      "factsAdvanced": ["Eingebettet in die bewaldeten Hügel", "Gegründet 1875 von Akan-Flüchtlingen", "Berühmt für wöchentlichen Perlenmarkt", "Glas- und Keramikperlen-Handel", "Eisenbahnbau im frühen 20. Jahrhundert", "Zentrum der Eastern Region"]
+      "id": "atiwa-mountain-nature-v2",
+      "descriptionAdvanced": "Das Atiwa-Gebirge im Osten Ghanas ist ein ökologisch einzigartiges Hochland, das als einer der wichtigsten 'Wassertürme' des Landes gilt. Die steilen, bewaldeten Hügel sind die Quelle von drei bedeutenden Flüssen: dem Ayensu, dem Densu und dem Birim, die Millionen von Menschen mit Trinkwasser versorgen. Atiwa beherbergt einen seltenen Hochland-Regenwald, der eine enorme Anzahl endemischer Arten beherbergt, darunter Schmetterlinge, Vögel und seltene Amphibien wie den Atiwa-Zwergfrosch. Geologisch ist das Gebirge aufgrund seiner massiven Bauxitvorkommen von großem wirtschaftlichem Interesse, was jedoch zu heftigen Konflikten zwischen Naturschützern und Bergbauinteressen führt. Der Schutz dieses Gebiets ist entscheidend für die ökologische Stabilität Südghanas und die Reinheit der nationalen Wasserreserven. Umwelt K8 — Ressourcenmanagement und Umweltschutz.",
+      "factsAdvanced": [
+        "Quelle der drei Flüsse Birim, Densu und Ayensu",
+        "Einer der letzten verbliebenen Hochland-Regenwälder Ghanas",
+        "Enthält massive Bauxit-Vorkommen im Bergrücken",
+        "Beheimatet den extrem seltenen Atiwa-Zwergfrosch",
+        "Hotspot für Schmetterlingsforschung in Westafrika",
+        "Gilt als 'Global Significant Biodiversity Area' (GSBA)",
+        "Höchster Punkt liegt auf ca. 780 Metern über dem Meeresspiegel",
+        "Wichtig für die Wasserversorgung der Hauptstadt Accra"
+      ]
     },
     {
-      "id": "wa-cities-v2",
-      "descriptionAdvanced": "Wa ist die Hauptstadt der Upper West Region und das historische Herz des Wala-Königreichs, dessen Einfluss bis ins 17. Jahrhundert zurückreicht. Der Wa-Naa-Palast, erbaut aus traditionellem Lehmbauweise, ist ein herausragendes Beispiel der sudanesisch-sahelischen Architektur und Residenz des örtlichen Königs. Die mehrheitlich muslimische Bevölkerung betreibt hauptsächlich Landwirtschaft in der trockenen Savanne, wobei Hirse, Mais und Erdnüsse die Grundnahrungsmittel bilden. Geografie K7 — Sahelzone.",
-      "factsAdvanced": ["Hauptstadt der Upper West Region", "Wa-Naa-Palast (17. Jahrhundert)", "Lehmbauweise (Sudano-Sahel-Architektur)", "Mehrheitlich muslimische Bevölkerung", "Anbau von Hirse und Erdnüssen", "Historisches Zentrum des Wala-Königreichs"]
+      "id": "akwapim-mountain-nature-v2",
+      "descriptionAdvanced": "Das Akwapim-Gebirge, auch bekannt als Akwapim-Ridge, ist ein markanter Höhenzug, der sich nordöstlich von Accra erstreckt. Er ist Teil des Togo-Atakora-Gebirgssystems und bildet eine natürliche Barriere zwischen der Küstenebene und dem Volta-Becken. Aufgrund der erhöhten Lage herrscht hier ein deutlich kühleres und angenehmeres Klima als im Tiefland, weshalb die Region seit der Kolonialzeit ein bevorzugter Wohnort ist. Die Hänge sind mit dichtem Wald und fruchtbaren Plantagen bedeckt, auf denen Kakao, Zitrusfrüchte und Avocados gedeihen. Geologisch besteht der Bergrücken primär aus widerstandsfähigem Quarzit und Sandstein. Städte wie Aburi, bekannt für seinen botanischen Garten, thronen auf dem Kamm und bieten spektakuläre Ausblicke auf die Ebene von Accra. Geografie K6 — Gebirgsbildung und Klimazonen.",
+      "factsAdvanced": [
+        "Teil des Togo-Atakora-Gebirgssystems",
+        "Erstreckt sich über 30 km von Südwesten nach Nordosten",
+        "Bekannt für das milde, 'europäische' Bergklima",
+        "Beherbergt die berühmten Botanischen Gärten von Aburi",
+        "Wichtiges Anbaugebiet für Kakao und exotische Früchte",
+        "Relief ist geprägt durch steile Westflanken und sanfte Osthänge",
+        "Höchste Erhebungen liegen bei etwa 450 bis 500 Metern",
+        "Strategisch wichtige Region für die Wasserversorgung und Tourismus"
+      ]
     },
     {
-      "id": "techiman-cities-v2",
-      "descriptionAdvanced": "Techiman gilt historisch als der mythische Ursprungsort des Akan-Volkes und ist heute ein kritischer Knotenpunkt im Zentrum Ghanas. Der Techiman-Markt ist der größte Umschlagplatz für landwirtschaftliche Produkte im ganzen Land; jeden Mittwoch wechseln hier Hunderte Tonnen Yams, Mais und Tomaten den Besitzer. Die Stadt profitiert von ihrer strategischen Lage an den Hauptstraßen, die den bewaldeten Süden mit der trockenen nördlichen Savanne verbinden. Geografie K6 — Inlandsverkehr.",
-      "factsAdvanced": ["Mythischer Ursprungsort des Akan-Volkes", "Größter Agrarmarkt Ghanas", "Umschlagplatz für Yams und Tomaten", "Strategische Lage im Zentrum Ghanas", "Verbindet Süd- und Nordsavanne", "Mittwochs Hunderte Tonnen gehandelt"]
+      "id": "fosu-lake-nature-v2",
+      "descriptionAdvanced": "Der Fosu-See (oder Fosu-Lagune) ist ein bedeutendes Küstengewässer in Cape Coast, der historischen Hauptstadt der Central Region. Er ist von großer kultureller und religiöser Bedeutung für das Volk der Fante, da er als Wohnsitz lokaler Gottheiten gilt und im Zentrum des jährlichen Fetu Afahye Festivals steht. Ökologisch handelt es sich um eine Brackwasserlagune, die durch eine Sandbarriere vom Atlantischen Ozean getrennt ist. In der Vergangenheit war der See eine reiche Quelle für Fischerei, leidet jedoch heute unter starker Urbanisierung, Verschmutzung und Verlandung. Bemühungen zur Sanierung des Sees versuchen, das ökologische Gleichgewicht wiederherzustellen und den See als wertvollen urbanen Naturraum und spirituelles Zentrum zu erhalten. Geografie K7 — Küstenmorphologie und urbane Ökologie.",
+      "factsAdvanced": [
+        "Zentrale Lagune der Stadt Cape Coast",
+        "Spirituelles Zentrum für das Fetu Afahye Festival",
+        "Gilt als heiliges Gewässer des Gottes 'Nana Fosu'",
+        "Typische Brackwasser-Ökologie mit Mangrovenresten",
+        "Früher bedeutendes Fischfanggebiet für die lokale Bevölkerung",
+        "Leidet heute unter massiver Sedimentation und Verschmutzung",
+        "Wird nur bei extremem Hochwasser oder rituell zum Meer hin geöffnet",
+        "Wichtig für den lokalen Wasserhaushalt und Hochwasserschutz"
+      ]
     },
     {
-      "id": "nungua-cities-v2",
-      "descriptionAdvanced": "Als eine der ältesten Ga-Siedlungen an der Küste bewahrt Nungua seine traditionelle Clan-Struktur, obwohl es längst mit der Metropole Accra verschmolzen ist. Die lokale Wirtschaft basiert nach wie vor stark auf der handwerklichen Fischerei, bei der bunt bemalte Holzkanus jeden Morgen auf den Atlantik hinausfahren. Die Stadt ist auch Heimat der Regional Maritime University, der wichtigsten Ausbildungsstätte für Seeleute in Westafrika. Wirtschaft K7 — maritime Berufe.",
-      "factsAdvanced": ["Eine der ältesten Ga-Siedlungen", "Heimat der Regional Maritime University", "Wirtschaft basiert auf Handwerksfischerei", "Bunt bemalte Holzkanus", "Bewahrt traditionelle Clan-Struktur", "Wichtigste Seefahrtschule Westafrikas"]
+      "id": "keta-lake-nature-v2",
+      "descriptionAdvanced": "Die Keta-Lagune ist das größte Lagunensystem Ghanas und liegt im Osten des Landes im Volta-Delta. Sie ist ein international anerkanntes RAMSAR-Feuchtgebiet von globaler Bedeutung, da sie als lebenswichtiger Rastplatz für Tausende von Zugvögeln auf der ostatlantischen Flugroute dient. Die Lagune ist durch eine schmale, instabile Landzunge vom Meer getrennt, auf der die historische Stadt Keta liegt. Das Gewässer ist brackig und von ausgedehnten Mangrovenwäldern umgeben, die als Kinderstube für zahlreiche Fischarten dienen. Die lokale Bevölkerung lebt traditionell vom Fischfang und der Salzgewinnung. Aufgrund der starken Küstenerosion ist die Region jedoch existenziell bedroht, was zum bau des massiven Keta-Küstenschutzprojekts führte. Geografie K8 — Küstenschutz und Feuchtgebiete.",
+      "factsAdvanced": [
+        "Größte Lagune Ghanas (ca. 30.000 Hektar Fläche)",
+        "International bedeutendes RAMSAR-Schutzgebiet seit 1992",
+        "Wichtigster Rastplatz für Zugvögel in Westafrika",
+        "Bekannt für traditionelle Salzgewinnung durch Verdunstung",
+        "Umgeben von ökologisch wertvollen Mangrovenwäldern",
+        "Region leidet unter der stärksten Küstenerosion Ghanas",
+        "Durch das Keta Sea Defence Project (Dammbau) teilweise stabilisiert",
+        "Heimat der Anlo-Ewe Fischerkultur"
+      ]
     },
     {
-      "id": "tema-new-town-cities-v2",
-      "descriptionAdvanced": "Dieser dicht besiedelte Bezirk entstand, als die ursprünglichen Bewohner des Fischerdorfes Torman 1959 umgesiedelt wurden, um Platz für den neuen Tiefseehafen Tema zu machen. Trotz der industriellen Nachbarschaft haben die Einwohner ihre jahrhundertealten Fischereitraditionen und Ga-Rituale, insbesondere das Kplejoo-Fest, beibehalten. Der lokale Fischereihafen ist ein pulsierender Ort, an dem der tägliche Fang geräuchert und für den Transport ins Landesinnere vorbereitet wird. Sozialkunde K6 — Tradition und Moderne.",
-      "factsAdvanced": ["Entstanden durch Umsiedlung 1959", "Ehemaliges Fischerdorf Torman", "Jährliches Kplejoo-Fest der Ga", "Pulsierender lokaler Fischereihafen", "Täglicher Fang wird geräuchert", "Dicht besiedelter industrieller Bezirk"]
+      "id": "white-volta-river-nature-v2",
+      "descriptionAdvanced": "Der Weiße Volta, lokal auch Nakambe genannt, ist einer der drei Hauptquellflüsse des Volta-Systems und entspringt in den Hochebenen von Burkina Faso. Er fließt durch den Norden Ghanas und prägt mit seinen weiten Überflutungsebenen die Landwirtschaft und das Leben der Menschen in der Upper East und Northern Region. Der Fluss führt während der Regenzeit gewaltige Wassermassen mit sich, kann aber in extremen Trockenzeiten fast versiegen. Er speist schließlich den Volta-See und ist entscheidend für das ökologische Gleichgewicht des gesamten Beckens. Die Uferregionen sind wichtige Weidegründe für Viehnomaden und bieten Lebensraum für Krokodile und Flusspferde. Die jährlichen Fluten bringen fruchtbaren Schlamm, bergen aber auch Gefahren für die Siedlungen entlang des Laufs. Geografie K7 — Flusssysteme und saisonale Klimaschwankungen.",
+      "factsAdvanced": [
+        "Einer der drei Hauptarme des Volta-Flusssystems",
+        "Entspringt in Burkina Faso und fließt nach Süden durch Ghana",
+        "Länge innerhalb Ghanas beträgt ca. 450 Kilometer",
+        "Hauptzufluss für den nördlichen Teil des Volta-Sees",
+        "Prägt die Landwirtschaft in der Upper East Region entscheidend",
+        "Führt zu starken saisonalen Überschwemmungen (Bagre-Damm-Effekt)",
+        "Wichtiger Lebensraum für Nilkrokodile und Wasservögel",
+        "Transportiert große Mengen an Sedimenten aus der Sahelzone"
+      ]
     },
     {
-      "id": "sunyani-cities-v2",
-      "descriptionAdvanced": "Sunyani, die Hauptstadt der Bono-Region, ist von dichten Regenwäldern umgeben und ein Zentrum der ghanaischen Kakaoproduktion. Ursprünglich ein kleiner Außenposten für Elefantenjäger, wuchs die Siedlung in den 1920er Jahren rasant, als die britische Kolonialverwaltung sie zu einen Straßenknotenpunkt ausbaute. Heute ist die Stadt für ihre Sauberkeit und die Sunyani Technical University bekannt, die landwirtschaftliche Fachkräfte für die Region ausbildet. Geografie K7 — Regenwaldökonomie.",
-      "factsAdvanced": ["Hauptstadt der Bono-Region", "Zentrum der Kakaoproduktion", "Ursprünglich Außenposten für Elefantenjäger", "Wuchs rasant in den 1920er Jahren", "Heimat der Sunyani Technical University", "Umgeben von dichten Regenwäldern"]
+      "id": "black-volta-river-nature-v2",
+      "descriptionAdvanced": "Der Schwarze Volta ist der längste der drei Volta-Quellflüsse und bildet über weite Strecken die internationale Grenze zwischen Ghana, Burkina Faso und der Elfenbeinküste. Er entspringt im Westen Burkina Fasos und zeichnet sich durch seine konstante Wasserführung aus, die im Vergleich zum Weißen Volta weniger stark schwankt. Der Fluss durchquert den Bui-Nationalpark, wo er die Energie für den wichtigen Bui-Staudamm liefert, eines der größten Wasserkraftprojekte des Landes. Die Uferlandschaft ist von Galeriewäldern und dichter Savanne geprägt. Der Schwarze Volta ist nicht nur eine bedeutende Wasserquelle für die Landwirtschaft im Westen Ghanas, sondern auch ein spiritueller Ort für viele lokale Gemeinschaften. Er mündet schließlich im Nordwesten in den Volta-See. Geografie K8 — Grenzüberschreitende Fließgewässer und Energiepolitik.",
+      "factsAdvanced": [
+        "Längster Quellfluss des Volta-Systems (ca. 1.352 km Gesamtlänge)",
+        "Bildet die Westgrenze Ghanas zur Elfenbeinküste und Burkina Faso",
+        "Standort des Bui-Wasserkraftwerks (400 MW Leistung)",
+        "Fließt durch das artenreiche Bui-Nationalpark-Reservat",
+        "Gilt als der wasserreichste und beständigste Volta-Arm",
+        "Wichtig für die Bewässerung von großflächigem Ackerland",
+        "Beheimatet bedeutende Populationen von Flusspferden",
+        "Mündet bei Yeji in den riesigen Volta-Stausee"
+      ]
     },
     {
-      "id": "ho-cities-v2",
-      "descriptionAdvanced": "Ho liegt am Fuße der bewaldeten Akwapim-Togo-Bergkette und ist das administrative Herz der Volta-Region nahe der Grenze zu Togo. Zwischen 1890 und dem Ersten Weltkrieg war es Teil der deutschen Kolonie Togoland, wovon heute noch historische Missionskirchen, Steinhäuser und ein altes Gefängnis zeugen. Das ruhige Klima und die hügelige Umgebung machen die Stadt zu einem idealen Anbaugebiet für Kaffee, Kakao und verschiedene Obstsorten. Geschichte K8 — deutsche Kolonien in Afrika.",
-      "factsAdvanced": ["Administratives Herz der Volta-Region", "Teil der deutschen Kolonie Togoland (1890-1914)", "Am Fuße der Akwapim-Togo-Bergkette", "Historische Missionskirchen erhalten", "Ideales Anbaugebiet für Kaffee", "Nahe der Grenze zu Togo"]
+      "id": "pra-river-nature-v2",
+      "descriptionAdvanced": "Der Pra-Fluss ist der östlichste und größte der drei Hauptflüsse, die das südliche Waldland Ghanas direkt in den Golf von Guinea entwässern. Er entspringt im Kwahu-Plateau und fließt durch die mineralreichsten Gebiete des Landes, darunter die berühmten Goldfelder der Ashanti- und Central-Region. Historisch diente der Pra als wichtige Barriere und Transportweg während der Aschanti-Kriege. Heute ist der Fluss jedoch stark durch den illegalen Kleinstbergbau (Galamsey) bedroht, was zu massiver Trübung und Quecksilberbelastung führt. Dennoch bleibt er eine lebenswichtige Ressource für die Trinkwasserversorgung und die Landwirtschaft in seinem weiten Einzugsgebiet. Die Mündung bei Shama ist von malerischen Fischerdörfern und Mangrovensäumen geprägt. Umwelt K8 — Bergbaufolgen und Gewässerschutz.",
+      "factsAdvanced": [
+        "Größter Fluss im Süden Ghanas außerhalb des Volta-Systems",
+        "Entspringt im Kwahu-Hochland bei Mpraeso",
+        "Wichtigster Fluss für die Goldbergbau-Region (Obuasi/Konongo)",
+        "Mündet bei Shama in den Atlantischen Ozean",
+        "Historische Grenze zwischen dem Aschanti-Reich und der Küste",
+        "Leidet extrem unter illegalem Goldabbau (Galamsey-Problem)",
+        "Wichtigster Zufluss ist der krisengeschüttelte Offin-Fluss",
+        "Einzugsgebiet umfasst ca. 23.000 Quadratkilometer"
+      ]
     },
     {
-      "id": "bawku-cities-v2",
-      "descriptionAdvanced": "Ganz im Nordosten Ghanas, nahe der Grenze zu Burkina Faso und Togo, liegt Bawku, eine geschäftige Handelsstadt in der flachen Sahelzone. Aufgrund der geografischen Lage passieren hier unzählige Händler mit Rindern, Zwiebeln und traditionellen Baumwollstoffen (Smock) die Grenzen. Die Stadt hat oft unter ethnischen Spannungen zwischen den Kusasi- und Mamprusi-Gruppen gelitten, die um die politische Vorherrschaft und Landrechte in der Region konkurrieren. Sozialkunde K8 — ethnische Konflikte.",
-      "factsAdvanced": ["Nordöstlichste große Handelsstadt", "Grenzt an Burkina Faso und Togo", "Handel mit Rindern und Zwiebeln", "Traditionelle Baumwollstoffe (Smock)", "Spannungen zwischen Kusasi und Mamprusi", "Flache Sahelzone"]
+      "id": "offin-river-nature-v2",
+      "descriptionAdvanced": "Der Offin-Fluss ist ein bedeutender Nebenfluss des Pra und durchfließt das Herzland der Ashanti-Region. Er ist untrennbar mit der Geschichte des Goldabbaus in Ghana verbunden, da seine Sedimente seit Jahrhunderten reich an Goldstaub und Nuggets sind. Der Fluss bildet die Grenze zwischen der Ashanti- und der Central-Region und ist für die lokale Bevölkerung eine essentielle Lebensader. Leider ist der Offin heute eines der am stärksten verschmutzten Gewässer des Landes, da die Galamsey-Aktivitäten das Wasser oft in eine lehmige, braune Brühe verwandeln. Trotz dieser ökologischen Krise bietet der Fluss in seinen saubereren Abschnitten immer noch Lebensraum für seltene Fischarten und bewässert fruchtbare Kakaoplantagen. Der Schutz des Offin ist ein nationales Anliegen zur Rettung der ghanaischen Binnengewässer. Geografie K8 — Rohstoffabbau und Ökologie.",
+      "factsAdvanced": [
+        "Bedeutender rechter Nebenfluss des Pra-Systems",
+        "Durchfließt die goldreiche Ashanti-Region (Distrikt Offinso)",
+        "Bildet die administrative Grenze zur Central Region",
+        "Bekannt für seine historisch reichen alluvialen Goldvorkommen",
+        "Hauptquelle für die Wasserversorgung vieler ländlicher Gemeinden",
+        "Massiv bedroht durch Quecksilber und Schlamm aus dem Goldabbau",
+        "Uferregionen sind Zentrum des intensiven Kakaoanbaus",
+        "Länge beträgt ca. 215 Kilometer von der Quelle bis zur Mündung"
+      ]
     },
     {
-      "id": "dome-cities-v2",
-      "descriptionAdvanced": "Dome, im Ga-East-Distrikt von Greater Accra, hat sich in den letzten Jahrzehnten von einem kleinen Dorf zu einer der bevölkerungsreichsten Vorstädte der Hauptstadt entwickelt. Das Wachstum wurde durch die Ansiedlung von Pendlern angetrieben, die in Accra arbeiten, aber bezahlbaren Wohnraum suchten. Der Dome-Markt, der sich entlang der Eisenbahnlinie erstreckt, ist das wirtschaftliche Zentrum, das die umliegenden Wohngebiete mit frischen Lebensmitteln und Haushaltswaren versorgt. Geografie K6 — städtische Expansion.",
-      "factsAdvanced": ["Im Ga-East-Distrikt von Accra", "Rasant von Dorf zur Vorstadt gewachsen", "Großer Markt entlang der Eisenbahn", "Zentrum für pendelnde Arbeiter", "Frische Lebensmittel für Wohngebiete", "Beispiel städtischer Expansion"]
+      "id": "ankobra-river-nature-v2",
+      "descriptionAdvanced": "Der Ankobra-Fluss entspringt nordöstlich von Wiawso in der Western North Region und fließt fast 190 Kilometer weit in südlicher Richtung bis zu seiner Mündung bei Axim. Er entwässert eines der regenreichsten Gebiete Ghanas und ist für seine schiffbaren Abschnitte im Unterlauf bekannt, die früher für den Abtransport von Holz und Gold genutzt wurden. Der Fluss ist ökologisch wertvoll, da er durch dichte Regenwälder fließt und an seiner Mündung ausgedehnte Mangrovensümpfe bildet. In der Kolonialzeit war der Ankobra ein wichtiger strategischer Weg ins Landesinnere. Wie viele Flüsse in dieser Region kämpft auch der Ankobra mit den Folgen des Bergbaus, bleibt aber ein wichtiges Symbol für die natürliche Schönheit und die wirtschaftliche Kraft der westlichen Gebiete Ghanas. Geografie K7 — Tropische Fließgewässer und Kolonialgeschichte.",
+      "factsAdvanced": [
+        "Wichtigster Fluss der regenreichen Western Region",
+        "Entspringt im Hochland von Sefwi Wiawso",
+        "Mündet bei der historischen Stadt Axim in den Atlantik",
+        "Schiffbar für kleine Boote over ca. 80 km landeinwärts",
+        "Diente historisch als Hauptroute für den Goldexport",
+        "Uferregionen beheimaten dichte, immergrüne Regenwälder",
+        "Mündungsgebiet ist reich an Mangroven und seltener Fauna",
+        "Wichtige Quelle für die lokale Fischerei und Bewässerung"
+      ]
     },
     {
-      "id": "bolgatanga-cities-v2",
-      "descriptionAdvanced": "Bolgatanga, oft kurz Bolga genannt, ist das Zentrum der Upper East Region und das Tor zum Sahel. Die Stadt ist weltberühmt für ihr Kunsthandwerk, insbesondere für die robusten, bunt gewebten Bolga-Körbe aus Elefantengras, die weltweit exportiert werden. Umgeben von einer kargen, von Affenbrotbäumen (Baobabs) geprägten Landschaft, kämpfen die Bauern hier mit einer kurzen Regenzeit, was den Handel mit Kunsthandwerk überlebenswichtig macht. Wirtschaft K7 — lokales Handwerk.",
-      "factsAdvanced": ["Zentrum der Upper East Region", "Berühmt für Bolga-Körbe", "Material: robustes Elefantengras", "Tor zum afrikanischen Sahel", "Von Baobab-Bäumen (Affenbrotbäumen) geprägt", "Exportiert Kunsthandwerk weltweit"]
+      "id": "tano-river-nature-v2",
+      "descriptionAdvanced": "Der Tano-Fluss entspringt bei Techiman in der Bono East Region und fließt over 400 Kilometer weit bis er in die Aby-Lagune an der Grenze zur Elfenbeinküste mündet. Er ist für viele Akan-Völker ein heiliger Fluss, in dem dem Glauben nach mächtige Flussgeister (Abosom) in Form von heiligen Fischen und Krokodilen leben. Ökologisch ist der Tano von enormer Bedeutung, da er durch einige der fruchtbarsten Waldgebiete Ghanas fließt und zahlreiche Farmen sowie Städte mit Wasser versorgt. Sein Unterlauf bildet die natürliche Grenze zum westlichen Nachbarn. Der Schutz des Tano ist eng mit den traditionellen religiösen Tabus verknüpft, die den Fang bestimmter Tiere im Fluss verbieten. Diese kulturellen Praktiken tragen bis heute zum Erhalt der Biodiversität in einigen Abschnitten des Flusses bei. Geografie K7 — Religion und Umweltethik.",
+      "factsAdvanced": [
+        "Heiliger Fluss der Bono- und Ashanti-Kulturen",
+        "Länge von ca. 400 km von Zentralghana bis zur Atlantikküste",
+        "Mündet in die Aby-Lagune an der Elfenbeinküste",
+        "Beheimatet rituell geschützte 'heilige Fische'",
+        "Wichtige Wasserquelle für Techiman, Sunyani und Enchi",
+        "Bildet im Unterlauf die Staatsgrenze zur Elfenbeinküste",
+        "Fließt durch bedeutende Primärwald-Reservate im Westen",
+        "Fischfang ist in bestimmten Abschnitten aufgrund religiöser Tabus verboten"
+      ]
     },
     {
-      "id": "lashibi-cities-v2",
-      "descriptionAdvanced": "Lashibi liegt zwischen Nungua und Tema und ist ein typisches Beispiel für eine geplante Wohnsiedlung, die durch die 80er Jahren für den Bau von staatlichen Wohnprojekten für Arbeiter gerodet wurde. Heute mischen sich hier wohlhabende Gated Communities mit dynamischen, informellen Märkten entlang der Hauptverkehrsadern. Sozialkunde K7 — Stadtplanung.",
-      "factsAdvanced": ["Liegt zwischen Nungua und Tema", "Geplante Wohnsiedlung (1980er Jahre)", "Gebaut als staatliches Wohnprojekt", "Mix aus Gated Communities und Märkten", "Ursprünglich unbesiedeltes Buschland", "Beispiel für rasante Urbanisierung"]
+      "id": "oti-river-nature-v2",
+      "descriptionAdvanced": "Der Oti-Fluss, auch als Pendjari bekannt, ist ein bedeutender linker Nebenfluss des Volta und entspringt in den Bergen von Benin. Er fließt durch Togo und den Nordosten Ghanas, bevor er im Norden des Volta-Sees mündet. Der Oti ist bekannt für seine wilden, unberührten Landschaften und durchquert mehrere Schutzgebiete, darunter den Kyabobo-Nationalpark. Während der Regenzeit schwillt er zu einem mächtigen Strom an, der weite Teile der Oti-Ebene overflutet und fruchtbares Sediment ablagert. Der Fluss ist eine lebenswichtige Ressource für die lokale Landwirtschaft und Viehzucht in einer ansonsten eher trockenen Region. Die isolierte Lage des Oti-Tals hat dazu beigetragen, dass viele traditionelle Kulturen und seltene Tierarten in diesem Korridor erhalten geblieben sind. Geografie K7 — Transnationale Flüsse und Savannenökologie.",
+      "factsAdvanced": [
+        "Bedeutendster östlicher Zufluss des Volta-Systems",
+        "Entspringt im Atakora-Gebirge in Benin",
+        "Durchfließt Benin, Togo und Ghana auf ca. 520 km Länge",
+        "Mündet heute direkt in den nördlichen Arm des Volta-Sees",
+        "Prägt das Relief der Oti-Ebene im Nordosten Ghanas",
+        "Führt in der Regenzeit zu großflächigen, natürlichen Überflutungen",
+        "Beheimatet Flusspferde, Krokodile und seltene Wasservögel",
+        "Wichtige Verkehrsader für den lokalen Kanu-Handel"
+      ]
     },
     {
-      "id": "taifa-cities-v2",
-      "descriptionAdvanced": "Taifa ist eine weitere rasant gewachsene Vorstadt im Nordwesten Accras, die durch ihre dichte Bebauung und lebendige informelle Wirtschaft charakterisiert ist. Gegründet von Ga-Migranten, zog der Ort bald Menschen aus allen Teilen Ghanas an, die im Schatten der Hauptstadt ein neues Leben suchten. Die steilen Hügel der Umgebung sorgen in der Regenzeit oft für logistische Herausforderungen, doch die enge Gemeinschaft der Bewohner prägt den städtischen Alltag. Geografie K6 — Urbanisierung.",
-      "factsAdvanced": ["Vorstadt im Nordwesten Accras", "Gegründet von Ga-Migranten", "Dichte Bebauung an steilen Hügeln", "Starke informelle Wirtschaft", "Logistische Probleme in der Regenzeit", "Enge Gemeinschaftsstruktur"]
+      "id": "busua-beach-nature-v2",
+      "descriptionAdvanced": "Busua Beach ist einer der bekanntesten und beliebtesten Sandstrände Ghanas und liegt in der Western Region, unweit von Takoradi. Der Strand zeichnet sich durch seinen feinen, hellen Sand, die sanfte Brandung und die malerische Kulisse aus Kokospalmen aus. Im Gegensatz zu vielen anderen Abschnitten der ghanaischen Küste ist das Meer hier vergleichsweise ruhig, was Busua zu einem Zentrum für Surfer und Badeurlauber gemacht hat. Direkt vor der Küste liegt eine kleine, unbewohnte Insel, die man mit dem Kajak erreichen kann. Busua hat sich von einem einfachen Fischerdorf zu einem bedeutenden Standort für Ökotourismus entwickelt, ohne dabei seinen ursprünglichen Charme zu verlieren. Der Strand ist auch ein wichtiger Ort für die lokale Gemeinschaft, die hier traditionell ihre Boote zu Wasser lässt. Geografie K6 — Küstenformen und Tourismus.",
+      "factsAdvanced": [
+        "Bekanntester Surf-Hotspot in ganz Westafrika",
+        "Kilometerlanger, goldgelber Sandstrand in der Western Region",
+        "Meer ist hier durch die Buchtlage ruhiger als am restlichen Atlantik",
+        "Beherbergt eine vorgelagerte Insel (Busua Island)",
+        "Zentrum für nachhaltigen Tourismus und Surfschulen",
+        "Liegt zwischen den historischen Orten Dixcove und Butre",
+        "Wichtiger Brutplatz für Meeresschildkröten in der Saison",
+        "Ehemals reines Fischerdorf der Ahanta-Kultur"
+      ]
     },
     {
-      "id": "gbawe-cities-v2",
-      "descriptionAdvanced": "Gbawe liegt in den Hügeln westlich von Accra und bietet aufgrund seiner erhöhten Lage eine spektakuläre Aussicht auf die Küstenebene. In den letzten dreißig Jahren verwandelte sich das ehemalige Bauerndorf in eine begehrte Wohngegend, in der traditionelle Landbesitzer Parzellen an die aufstrebende Mittelschicht verkauften. Die fehlende zentrale Wasserversorgung in der Vergangenheit führte dazu, dass fast jedes Haus mit großen Wassertanks zur Regenwassernutzung ausgestattet ist. Umwelt K7 — Wasserversorgung.",
-      "factsAdvanced": ["Westlich von Accra in Hügeln gelegen", "Spektakuläre Aussicht auf die Küstenebene", "Viele Wassertanks wegen mangelnder Leitungen", "Ehemaliges Bauerndorf", "Parzellenverkauf an Mittelschicht", "Regenwassernutzung im Alltag"]
+      "id": "labadi-beach-nature-v2",
+      "descriptionAdvanced": "Labadi Beach, offiziell als La Pleasure Beach bekannt, ist der belebteste und bekannteste Stadtstrand von Accra. Er ist das soziale Herz der Hauptstadt und spiegelt die dynamische Kultur Ghanas wider, mit Live-Musik, Reitern, Akrobaten und zahlreichen lokalen Garküchen. Geografisch ist der Strand ein breiter Streifen aus weißem Sand, der direkt an den Golf von Guinea grenzt. Während er am Wochenende ein pulsierender Ort für Partys und Konzerte ist, bietet er unter der Woche eine weite Sicht auf den Ozean und die geschäftige Küstenlinie. Die starke Brandung des Atlantiks macht das Schwimmen hier oft gefährlich, was jedoch der Beliebtheit des Strandes als Treffpunkt keinen Abbruch tut. Labadi ist ein Paradebeispiel für den urbanen öffentlichen Raum in einer afrikanischen Megacity. Geografie K7 — Urbane Erholungsgebiete und Küstennutzung.",
+      "factsAdvanced": [
+        "Meistbesuchter Strand in der Metropolregion Accra",
+        "Offizieller Name ist 'La Pleasure Beach'",
+        "Bekannt für seine lebhafte Kulturszene mit Reggae und Highlife-Musik",
+        "Starker Wellengang des Atlantiks (Golf von Guinea)",
+        "Zentrum für lokales Kunsthandwerk und Streetfood",
+        "Wichtiger Wirtschaftsfaktor für das Volk der La (Ga-Adangme)",
+        "Liegt in unmittelbarer Nähe zu Luxushotels und dem Diplomatenviertel",
+        "Treffpunkt für Pferdereiter und lokale Akrobatengruppen"
+      ]
     },
     {
-      "id": "agona-swedru-cities-v2",
-      "descriptionAdvanced": "Agona Swedru, am Fluss Akora in der Central Region gelegen, ist ein wichtiges kommerzielles Zentrum im Hinterland der Küste. Die Stadt hat historische Bedeutung als Knotenpunkt für den Handel mit Palmöl und Kakao, die von den umliegenden Bauernhöfen an die Küste transportiert wurden. Jeden August feiert die lokale Bevölkerung das Akwambo-Festival, bei dem traditionell die Fußwege zu den heiligen Flüssen und Ahnenschreinen gereinigt werden. Kultur K6 — ghanaische Feste.",
-      "factsAdvanced": ["Am Fluss Akora gelegen", "Wichtiger Knotenpunkt für Palmöl", "Zentrum in der Central Region", "Jährliches Akwambo-Festival im August", "Reinigung der Fußwege zu Ahnenschreinen", "Historischer Umschlagplatz für Kakao"]
-    },
-    {
-      "id": "ejura-cities-v2",
-      "descriptionAdvanced": "Ejura liegt im Herzen der Ashanti-Region und fungiert als primärer landwirtschaftlicher Umschlagplatz zwischen den feuchten Wäldern und der trockenen nördlichen Savanne. Der Ort ist besonders bekannt für seinen massiven Freitagsmarkt, auf dem Bauern vor allem Yams und Mais tonnenweise an Händler aus der Hauptstadt verkaufen. Aufgrund des extrem fruchtbaren Bodens ziehen immer wieder landwirtschaftliche Wanderarbeiter in die Region. Geografie K6 — Agrarwirtschaft.",
-      "factsAdvanced": ["Im Herzen der Ashanti-Region", "Grenzt an feuchte Wälder und trockene Savanne", "Massiver Freitagsmarkt", "Zentrum für Yams und Mais", "Zieht landwirtschaftliche Wanderarbeiter an", "Hauptumschlagplatz zwischen Nord und Süd"]
-    },
-    {
-      "id": "berekum-cities-v2",
-      "descriptionAdvanced": "Berekum, in der Bono-Region gelegen, wird wegen seiner florierenden Wirtschaft und gut ausgebauten Straßen oft als die Goldene Stadt bezeichnet. Sie verdankt ihren historischen Reichtum hauptsächlich dem Kakaoanbau, der seit dem frühen 20. Jahrhundert die umliegenden Wälder prägt. Heute ist die Stadt auch als Heimat der Berekum Chelsea bekannt, einem der erfolgreichsten Fußballvereine Ghanas, der das lokale Leben stark beeinflusst. Wirtschaft K7 — Landwirtschaft und Sport.",
-      "factsAdvanced": ["Befindet sich in der Bono-Region", "Oft Goldene Stadt genannt", "Historischer Reichtum durch Kakao", "Heimat des Fußballclubs Berekum Chelsea", "Florierende Wirtschaft im 20. Jahrhundert", "Umgeben von Kakaowäldern"]
-    },
-    {
-      "id": "tafo-cities-v2",
-      "descriptionAdvanced": "Tafo, ein Vorort von Kumasi, beherbergt das renommierte Cocoa Research Institute of Ghana (CRIG), das 1938 von der britischen Kolonialregierung gegründet wurde. Die Forschung hier war entscheidend im Kampf gegen die CSSVD-Krankheit, die einst Ghanas Kakaoplantagen zu vernichten drohte. Die Bevölkerung profitiert von den Forschungsstationen, die moderne landwirtschaftliche Techniken direkt an die lokalen Bauern weitergeben. Biologie K8 — Pflanzenkrankheiten und Forschung.",
-      "factsAdvanced": ["Vorort von Kumasi", "Heimat des Cocoa Research Institute", "Gegründet 1938 von Kolonialregierung", "Kampf gegen CSSVD-Krankheit bei Kakao", "Forschungsstationen für Bauern", "Zentrum der ghanaischen Agrarforschung"]
-    },
-    {
-      "id": "suhum-cities-v2",
-      "descriptionAdvanced": "Suhum ist ein zentraler Handelsknotenpunkt an der Hauptstraße, die Accra mit Kumasi verbindet. Ursprünglich wuchs die Stadt in den 1920er Jahren als Zentrum für Kakaokäufer, verlor jedoch später an Bedeutung, als Krankheiten die Ernten im Osten dezimierten. Die lokale Wirtschaft verlagerte sich danach zunehmend auf die Produktion von Zitrusfrüchten und Kassava, was den Markt heute zu einem farbenfrohen Mosaik aus regionalen Erzeugnissen macht. Geschichte K7 — Wandel in der Landwirtschaft.",
-      "factsAdvanced": ["An der Hauptstraße Accra-Kumasi", "Wuchs in den 1920er Jahren", "Früheres Zentrum für Kakaokäufer", "Heute Anbau von Zitrusfrüchten und Kassava", "Kakaokrankheiten dezimierten Ernten", "Zentraler Handelsknotenpunkt"]
-    },
-    {
-      "id": "tarkwa-cities-v2",
-      "descriptionAdvanced": "Tarkwa, in der waldreichen Western Region, ist das Herz des ghanaischen Mangan- und Goldabbaus. Die Stadt entwickelte sich nach der Entdeckung von Goldadern im späten 19. Jahrhundert rasant und beherbergt heute die renommierte University of Mines and Technology. Der intensive Tagebau hat tiefe Narben in der Landschaft hinterlassen und die lokalen Gewässer stark beansprucht, was Tarkwa zu einem Lehrbuchbeispiel für den Konflikt zwischen Wirtschaftswachstum und Umweltschutz macht. Umwelt K8 — Bergbau und Ökologie.",
-      "factsAdvanced": ["Herz des Mangan- und Goldabbaus", "Goldadern im 19. Jahrhundert entdeckt", "Sitz der University of Mines and Technology", "Liegt in der Western Region", "Intensiver Tagebau prägt Landschaft", "Konflikt zwischen Bergbau und Umweltschutz"]
+      "id": "ada-foah-sea-nature-v2",
+      "descriptionAdvanced": "Ada Foah liegt an der südöstlichen Küste Ghanas, genau an der Stelle, an der der mächtige Volta-Fluss in den Atlantischen Ozean mündet. Diese einzigartige geografische Lage schafft eine faszinierende Mischung aus Flussarm, Lagune und offenem Meer. Die Region ist geprägt von weiten Sandstränden, Mangroveninseln und Brackwassergebieten, die eine reiche Vogelwelt beherbergen. Ada Foah ist ein Zentrum für Wassersportarten wie Segeln, Jetski und Angeln, aber auch ein bedeutender Ort für den Naturschutz, insbesondere für den Schutz von Meeresschildkröten, die hier ihre Eier ablegen. Die Strömungen an der Flussmündung sind komplex und verändern ständig die Form der Sandbänke. Historisch war der Ort ein wichtiger Handelshafen, was die Ruinen der dänischen Festung Kongensten bezeugen. Geografie K7 — Ästuar-Bildung und Küstendynamik.",
+      "factsAdvanced": [
+        "Ort der Mündung des Volta-Flusses in den Atlantik",
+        "Bekannt für das Aufeinandertreffen von Süß- und Salzwasser (Ästuar)",
+        "Beliebtes Ziel für Yachtsport und Hochseeangeln",
+        "Schützt wichtige Nistplätze für die Lederschildkröte",
+        "Beherbergt zahlreiche kleine Inseln im Volta-Delta",
+        "Standort der historischen dänischen Festung Kongensten (Ruinen)",
+        "Zentrum für die traditionelle handwerkliche Küstenfischerei",
+        "Region ist geprägt durch Palmenhaine und ausgedehnte Lagunen"
+      ]
     }
   ]
 }

@@ -1,0 +1,2 @@
+lib/visualLab/data/poiExtraNigeriaCitiesV2.ts(3,1032): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraNigeriaCitiesV2.ts(17,969): error TS1005: ',' expected.

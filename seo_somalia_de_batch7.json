@@ -1,0 +1,48 @@
+{
+  "lang": "de",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bargaal-fort-history-v2",
+      "descriptionAdvanced": "Die Festung von Bargaal in der historischen gleichnamigen Küstenstadt ist ein bedeutsames Zeugnis der Majeerteen-Sultanatsgeschichte und der starken lokalen Identität im Norden Somalias. Als ein Zentrum des Widerstands gegen die fortschreitende Kolonialisierung im frühen 20. Jahrhundert spielte Bargaal eine tragende Rolle bei der Verteidigung somalischer Souveränität. Die bombardierten Ruinen der Festung erinnern noch heute an die gewaltsamen Konflikte jener Zeit, als die lokalen Streitkräfte gegen die kolonialen Mächte kämpften. Bargaal ist ein Ort von hoher historischer Symbolik, der die Standhaftigkeit einer Bevölkerung dokumentiert, die für den Erhalt ihrer politischen und kulturellen Integrität eintrat.",
+      "factsAdvanced": [
+        "Historische Festungsruinen des Majeerteen-Sultanats.",
+        "Zentrum des Widerstands gegen koloniale Ambitionen.",
+        "Bombardiert im frühen 20. Jahrhundert während Kolonialkonflikten.",
+        "Bedeutender Ort der somalischen Geschichte des Widerstands.",
+        "Symbol für Souveränitätsstreben der lokalen Bevölkerung.",
+        "Architektonisches Zeugnis einer Ära des intensiven Konflikts.",
+        "Wichtige historische Stätte in der nordöstlichen Küstenregion."
+      ]
+    },
+    {
+      "id": "merca-ancient-port-history-v2",
+      "descriptionAdvanced": "Merca, eine der historisch bedeutendsten islamischen Küstenstädte Somalias, wurde bereits im 7. Jahrhundert gegründet und entwickelte sich schnell zu einem vitalen Zentrum für den Handel und die Verbreitung islamischer Gelehrsamkeit. Die Stadt ist für ihre reiche Architektur im arabischen Stil bekannt, die sich in den historischen Gebäuden und Moscheen des alten Stadtkerns widerspiegelt. Über Jahrhunderte hinweg war Merca das Machtzentrum für die einflussreichen Bimaal-Clans, die eine maßgebliche Rolle in der regionalen Politik und im Handel spielten. Ein Besuch in Merca bietet einen tiefen Einblick in eine urbane Kultur, die über ein Jahrtausend lang am Indischen Ozean florierte.",
+      "factsAdvanced": [
+        "Gründung der Küstenstadt im 7. Jahrhundert.",
+        "Zentrum islamischer Gelehrsamkeit in Südsomalia.",
+        "Bedeutendes Machtzentrum der Bimaal-Clans.",
+        "Architektur reich an arabischen Stileinflüssen.",
+        "Wichtiger Umschlagplatz für den Handel am Indischen Ozean.",
+        "Historischer Kern mit altertümlichen Gebäudestrukturen.",
+        "Dokumentation einer jahrtausendealten urbanen Küstenkultur."
+      ]
+    },
+    {
+      "id": "barawa-ancient-city-history-v2",
+      "descriptionAdvanced": "Die antike Stadt Barawa ist eine historische Hafenstadt, die eine zentrale Stellung in der Entwicklung der Bravanesischen Kultur einnimmt. Bekannt für ihre maritime Geschichte, war Barawa ein bedeutendes Ziel für Händler aus der ganzen Welt und ein Zentrum für lokales Handwerk, das weit über die Grenzen Somalias hinaus für seine Qualität geschätzt wurde. Die Stadt war jedoch auch ein Brennpunkt geopolitischer Konflikte, insbesondere während des 16. Jahrhunderts, als sie Ziel von Angriffen durch portugiesische Seemächte wurde. Trotz dieser Herausforderungen blieb Barawa ein Ort der kulturellen Bewahrung und ist bis heute ein lebendiges Beispiel für die Geschichte der städtischen somalischen Handelszentren.",
+      "factsAdvanced": [
+        "Bedeutende Hafenstadt und Zentrum der Bravanesischen Kultur.",
+        "Historisch bekannt für hochwertiges lokales Handwerk.",
+        "Angegriffen von Portugiesen im 16. Jahrhundert.",
+        "Lange Tradition als internationales Handelszentrum.",
+        "Wichtiger Standort der maritimen Geschichte Somalias.",
+        "Kulturelles Erbe, das in der Bravanesischen Tradition fortlebt.",
+        "Symbol für Widerstand und kulturelle Beständigkeit am Ozean."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "munwa-stream-rock-engravings-history-v2",
+      "descriptionAdvanced": "The Munwa Stream rock engravings represent one of the most significant archaeological discoveries in northern Zambia. These geometric engravings, carved into the rock by ancient inhabitants of the region, differ significantly from the classic hunter-gatherer art found in other parts of Africa. The complex patterns of lines and abstract forms are considered by historians to be a witness to a profound ritual significance. The site offers a rare insight into the symbolic thinking and cultural expressions that defined life in this region long before colonization.",
+      "factsAdvanced": [
+        "Geometric rock art at Munwa Stream",
+        "Significantly different from hunter-gatherer art",
+        "Supposed ritual and symbolic center",
+        "Later registered as a regional archaeological discovery",
+        "Important evidence of early human cultures",
+        "Part of the cultural heritage of northern Zambia"
+      ]
+    }
+  ]
+}

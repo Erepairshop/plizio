@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalomo-administrators-house-history-v2",
+      "descriptionAdvanced": "The Administrator's House in Kalomo is a significant building from the time when Kalomo was the capital of North-Western Rhodesia between 1902 and 1907. The residence embodies the authority of the colonial administration and the lifestyle of the leading class of that time. Built in the early 1900s, the house provides valuable insight into the early administrative structures that laid the foundation for the development of today's Zambia's political borders and administrative system. As a historical site, it is an important source for researchers of political history and those interested in learning about the characteristics of the early phase of colonial rule.",
+      "factsAdvanced": [
+        "Built in the early 1900s",
+        "Residence of the administrator of North-Western Rhodesia",
+        "Kalomo was capital from 1902 to 1907",
+        "Witness to early colonial authority",
+        "Witness to regional political transition",
+        "Part of Zambia's administrative history"
+      ]
+    }
+  ]
+}

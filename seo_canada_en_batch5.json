@@ -1,0 +1,105 @@
+{
+  "lang": "en",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-athabasca-nature-v2",
+      "descriptionAdvanced": "Lake Athabasca stretches across the border of the provinces of Saskatchewan and Alberta and is a significant body of water in Northern Canada. It is world-renowned for its unique geological formation: the massive Athabasca Sand Dunes, which are among the northernmost active sand dunes in the world and harbor an extremely rare ecosystem. In addition to its ecological significance, the lake is industrially important, as the region represents one of the world's most significant sources of uranium. The combination of untouched wilderness, fragile dune ecosystems, and intensive industrial use shapes the character of this remote Canadian region. Geography K7 — lakes and resources.",
+      "factsAdvanced": [
+        "Eighth-largest lake in Canada.",
+        "The Athabasca Sand Dunes form a globally unique ecosystem.",
+        "The region plays a global key role in uranium production.",
+        "The sand dunes reach heights of up to 30 meters.",
+        "The water serves as a transport route and habitat for numerous fish species.",
+        "The region is geologically characterized by the Canadian Shield."
+      ]
+    },
+    {
+      "id": "cape-breton-island-nature-v2",
+      "descriptionAdvanced": "Cape Breton Island in the province of Nova Scotia is a scenic jewel that is world-famous primarily for the Cabot Trail. This winding coastal road is considered one of the most scenic routes on Earth and leads through dramatic cliff landscapes and dense forests. The island also houses Bras d'Or Lake, a massive inland sea known for its unique maritime ecology. Culturally, Cape Breton is deeply rooted in a rich Scottish and Acadian tradition, which is reflected in the music, festivals, and architecture. Geography K7 — islands and landscape.",
+      "factsAdvanced": [
+        "The Cabot Trail is considered one of the world's most beautiful driving routes.",
+        "Bras d'Or Lake is a massive, saline inland sea.",
+        "The island preserves a strong Scottish-Gaelic cultural tradition.",
+        "The coastline offers spectacular views of the Atlantic.",
+        "Cape Breton Highlands National Park covers the northern part.",
+        "The economy is strongly shaped by tourism and fishing."
+      ]
+    },
+    {
+      "id": "manitoulin-island-nature-v2",
+      "descriptionAdvanced": "Manitoulin Island is the world's largest freshwater island and is located in the middle of Lake Huron in the province of Ontario. The island is characterized by its unusual geographical structure, as it itself houses numerous own lakes, which in turn can contain islands – a fascinating geological feature. Manitoulin is a central place for Anishinaabe culture, whose indigenous traditions and art forms significantly shape the island. Especially in the summer months, the island is a sought-after destination for nature lovers who seek untouched shores, forests, and cultural diversity far from the metropolises. Geography K7 — islands and geology.",
+      "factsAdvanced": [
+        "The largest freshwater island on Earth.",
+        "Possesses a unique system of lakes within the island.",
+        "An important spiritual and cultural center of the Anishinaabe.",
+        "The name means 'Island of the Spirit' in the Ojibwe language.",
+        "The island is known for its geological diversity of limestone cliffs.",
+        "Important habitat for a multitude of bird species."
+      ]
+    },
+    {
+      "id": "yukon-river-nature-v2",
+      "descriptionAdvanced": "The Yukon River is a legendary river in the high north of North America, which gained worldwide fame primarily through its pivotal role in the Klondike Gold Rush in the late 19th century. The river flows through the Yukon Territory and continues through Alaska to the Pacific, crossing massive, untouched regions. It is a lifeline for local wildlife, especially for the massive annual salmon runs, which are among the longest in the world. For the history of the North, the river was the primary transportation route that brought adventurers, prospectors, and traders to the most remote corners of the Arctic. Geography K7 — rivers and history.",
+      "factsAdvanced": [
+        "Third-longest river in North America with approx. 3,190 km.",
+        "Central transport route during the Klondike Gold Rush.",
+        "Enables one of the longest salmon runs on Earth.",
+        "Flows through Yukon (Canada) and Alaska (USA).",
+        "The name means 'Great River' in the Gwich'in language.",
+        "Seasonal ice formation shapes life on the river significantly."
+      ]
+    },
+    {
+      "id": "mount-foraker-nature-v2",
+      "descriptionAdvanced": "Mount Saint Elias is a massive mountain on the border between the Canadian Yukon Territory and Alaska. At 5,489 meters, it is the second-highest peak in both Canada and the United States. It is part of the largest subpolar icefield in the world, which makes it an extreme alpine environment. Climbing this mountain is considered one of the most difficult feats in alpinism, as the terrain is extremely steep, the weather remains nearly unpredictable, and access is nearly impossible due to the massive glaciers around the mountain. Geography K7 — mountains and extreme sports.",
+      "factsAdvanced": [
+        "Elevation of 5,489 meters above sea level.",
+        "Second-highest peak in Canada and the USA.",
+        "Part of the massive Saint Elias Icefield.",
+        "Extremely difficult and dangerous for mountaineers.",
+        "Strong vertical relief shapes the landscape.",
+        "The region is characterized by strong oceanic winds and precipitation."
+      ]
+    },
+    {
+      "id": "saint-john-river-nature-v2",
+      "descriptionAdvanced": "The Saint John River is the defining river in the province of New Brunswick and flows through a scenically diverse region before emptying into the Atlantic. The river is particularly famous for the phenomenon of the 'Reversing Falls' in the city of Saint John, where the ocean tides temporarily reverse the river's flow, creating a rare and impressive spectacle of nature. Historically, the river played a key role as a transit route for Loyalists who fled north during the American Revolution and settled the region permanently. It is often affectionately called the 'Rhine of North America' due to its cultural and economic significance. Geography K7 — rivers and tides.",
+      "factsAdvanced": [
+        "Known for the 'Reversing Falls' due to strong tidal effects.",
+        "Historically significant settlement route for the Loyalists.",
+        "Often referred to as the 'Rhine of North America'.",
+        "Flows through Maine (USA) as well as Quebec and New Brunswick.",
+        "The tidal effect reaches far upstream.",
+        "Important location for Canada's maritime history."
+      ]
+    },
+    {
+      "id": "malgne-lake-nature-v2",
+      "descriptionAdvanced": "Maligne Lake in Jasper National Park is a scenic gem and one of the most famous lakes in the Canadian Rocky Mountains. It is the longest natural lake in this mountain range and impresses with its crystal-clear, deep blue water, which is fed by the surrounding glacier-covered peaks. The tiny island called Spirit Island is world-famous, considered one of Canada's most photographed motifs and embodying the quintessence of the untouched beauty of the Rocky Mountains. The lake is a center for gentle tourism, where boat tours and hikes along the shores allow visitors to experience the ecosystem. Geography K7 — lakes and aesthetics.",
+      "factsAdvanced": [
+        "Longest natural lake in the Canadian Rocky Mountains.",
+        "Spirit Island is an iconic, globally known photo motif.",
+        "The lake is fed almost exclusively by glacier water.",
+        "Located in a spectacular high-alpine setting of Jasper Park.",
+        "A center for ecologically gentle tourism.",
+        "The shores are characterized by dense, untouched coniferous forests."
+      ]
+    },
+    {
+      "id": "bow-river-nature-v2",
+      "descriptionAdvanced": "The Bow River is a dynamic river in Alberta that has its source at the Bow Glacier in the Rocky Mountains and winds through an impressive alpine and prairie-influenced landscape. On its way, it flows through the metropolis of Calgary, among others, for which it represents an essential water source. The river is also internationally known as a premier destination for fly-fishing, as its clear, cold waters provide optimal conditions for trout. The blend of urban integration in Calgary and the wild origin in the high mountains makes it a unique geographic element of the province of Alberta. Geography K7 — rivers and water supply.",
+      "factsAdvanced": [
+        "Originates at the Bow Glacier in the Rocky Mountains.",
+        "Essential water source for the entire Calgary metropolitan area.",
+        "Considered a top destination for fly-fishing worldwide.",
+        "Flows through different vegetation zones from alpine to prairie.",
+        "Flow speed is very high due to the steep gradient.",
+        "The riverbed is an important corridor for urban recreation."
+      ]
+    }
+  ]
+}

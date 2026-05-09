@@ -1,0 +1,117 @@
+{
+  "lang": "ro",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "peace-river-nature-v2",
+      "descriptionAdvanced": "Râul Peace este un curs de apă puternic ce traversează provinciile British Columbia și Alberta, având o importanță economică și agricolă majoră pentru întreaga regiune. Văile din proximitatea râului oferă soluri fertile care permit o agricultură intensivă, ceea ce reprezintă un avantaj remarcabil în climatul dur al nordului. Din punct de vedere istoric și cultural, valea râului Peace este profund legată de dezvoltarea regiunii și de istoria colonizării, râul servind drept o arteră geografică vitală. Importanța sa economică se reflectă și în dezvoltarea proiectelor hidroelectrice și a terenurilor agricole întinse de pe malurile sale. Geografie K7 — râuri și agricultură.",
+      "factsAdvanced": [
+        "Unul dintre cele mai lungi și semnificative râuri din vestul Canadei.",
+        "Izvorăște din marele rezervor Williston.",
+        "Văile sale sunt renumite pentru productivitatea agricolă fertilă.",
+        "Se varsă în final în sistemul râului Slave către nord.",
+        "Râul a facilitat dezvoltarea economică a nordului.",
+        "Din punct de vedere geografic, marchează adesea limita dintre Scutul Canadian și câmpii."
+      ]
+    },
+    {
+      "id": "lake-athabasca-nature-v2",
+      "descriptionAdvanced": "Lacul Athabasca se întinde la granița dintre provinciile Saskatchewan și Alberta, reprezentând un corp de apă semnificativ în nordul Canadei. Este renumit la nivel mondial pentru formațiunile sale geologice unice: dunele de nisip Athabasca, care se numără printre cele mai nordice dune active din lume, adăpostind un ecosistem extrem de rar. Pe lângă importanța ecologică, lacul are o relevanță industrială considerabilă, regiunea fiind una dintre cele mai importante surse de uraniu din lume. Combinația dintre sălbăticia nealterată, ecosistemele fragile ale dunelor și exploatarea industrială intensă definește caracterul acestei regiuni canadiene izolate. Geografie K7 — lacuri și resurse.",
+      "factsAdvanced": [
+        "Al optulea cel mai mare lac din Canada.",
+        "Dunele de nisip Athabasca formează un ecosistem unic la nivel global.",
+        "Regiunea joacă un rol cheie în producția mondială de uraniu.",
+        "Dunele ating înălțimi de până la 30 de metri.",
+        "Apa servește drept rută de transport și habitat pentru numeroase specii de pești.",
+        "Regiunea este definită geologic de Scutul Canadian."
+      ]
+    },
+    {
+      "id": "cape-breton-island-nature-v2",
+      "descriptionAdvanced": "Insula Cape Breton din provincia Nova Scotia este o bijuterie peisagistică, celebră în întreaga lume pentru Cabot Trail. Acest drum de coastă sinuos este considerat unul dintre cele mai pitorești trasee de pe glob, trecând prin peisaje dramatice de stânci și păduri dense. Insula găzduiește, de asemenea, Lacul Bras d'Or, o mare interioară vastă, cunoscută pentru ecologia sa marină unică. Din punct de vedere cultural, Cape Breton este profund înrădăcinată în tradițiile scoțiene și acadiane, care se reflectă în muzică, festivaluri și arhitectura locului. Geografie K7 — insule și peisaje.",
+      "factsAdvanced": [
+        "Cabot Trail este considerat unul dintre cele mai frumoase rute auto din lume.",
+        "Lacul Bras d'Or este o mare interioară vastă, salină.",
+        "Insula păstrează o tradiție culturală scoțiană-gălică puternică.",
+        "Linia de coastă oferă priveliști spectaculoase asupra Oceanului Atlantic.",
+        "Parcul Național Cape Breton Highlands acoperă partea nordică.",
+        "Economia este puternic influențată de turism și pescuit."
+      ]
+    },
+    {
+      "id": "manitoulin-island-nature-v2",
+      "descriptionAdvanced": "Insula Manitoulin este cea mai mare insulă de apă dulce din lume, situată în mijlocul Lacului Huron, în provincia Ontario. Insula se remarcă prin structura sa geografică neobișnuită, adăpostind ea însăși numeroase lacuri proprii, care la rândul lor pot conține insule – o particularitate geologică fascinantă. Manitoulin este un loc central pentru cultura Anishinaabe, ale cărei tradiții indigene și forme de artă definesc identitatea insulei. În special în lunile de vară, insula este o destinație căutată pentru pasionații de natură care caută țărmuri virgine, păduri și diversitate culturală departe de marile metropole. Geografie K7 — insule și geologie.",
+      "factsAdvanced": [
+        "Cea mai mare insulă de apă dulce de pe Pământ.",
+        "Deține un sistem unic de lacuri în interiorul insulei.",
+        "Un centru spiritual și cultural important pentru Anishinaabe.",
+        "Numele înseamnă „Insula Spiritului” în limba Ojibwe.",
+        "Insula este cunoscută pentru diversitatea geologică de stânci calcaroase.",
+        "Destinație populară pentru recreere estivală."
+      ]
+    },
+    {
+      "id": "yukon-river-nature-v2",
+      "descriptionAdvanced": "Râul Yukon este un fluviu legendar în nordul îndepărtat al Americii de Nord, faimos în special pentru rolul său crucial în Goana după aur din Klondike de la sfârșitul secolului al XIX-lea. Fluviul traversează Teritoriul Yukon și continuă prin Alaska până la Oceanul Pacific, parcurgând regiuni vaste și neatinse. Este o arteră vitală pentru fauna locală, în special pentru migrațiile masive anuale ale somonului, care sunt printre cele mai lungi din lume. Pentru istoria nordului, fluviul a fost principala rută de transport care a adus aventurieri, căutători de aur și comercianți în cele mai îndepărtate colțuri ale Arcticii. Geografie K7 — râuri și istorie.",
+      "factsAdvanced": [
+        "Al treilea cel mai lung fluviu din America de Nord, cu cca. 3.190 km.",
+        "Rută centrală de transport în timpul Goanei după aur din Klondike.",
+        "Permite una dintre cele mai lungi migrații ale somonului de pe Pământ.",
+        "Curge prin Yukon (Canada) și Alaska (SUA).",
+        "Numele înseamnă „Fluviu Mare” în limba Gwich'in.",
+        "Formarea sezonieră a gheții marchează decisiv viața pe fluviu."
+      ]
+    },
+    {
+      "id": "mount-foraker-nature-v2",
+      "descriptionAdvanced": "Muntele Saint Elias (Mount St. Elias) este un munte masiv la granița dintre teritoriul canadian Yukon și Alaska, având o altitudine de 5.489 metri, ceea ce îl clasează printre cele mai înalte și impresionante vârfuri de pe continentul nord-american. Muntele este înconjurat de unul dintre cele mai mari câmpuri de gheață subpolare din lume, care a creat un microclimat și un sistem glaciar unic la poalele sale. Ascensiunea este extrem de dificilă, deoarece muntele se află în imediata apropiere a oceanului, ceea ce duce adesea la schimbări meteorologice bruște și drastice. Locația sa geografică și altitudinea reprezintă o adevărată provocare pentru alpiniști. Geografie K7 — munți și câmpuri de gheață.",
+      "factsAdvanced": [
+        "Cu 5.489 metri, este unul dintre giganții Americii de Nord.",
+        "Situat la granița dintre teritoriul Yukon și Alaska.",
+        "Înconjurat de cel mai mare câmp de gheață subpolar din lume.",
+        "Din cauza proximității oceanului, vremea este extrem de instabilă.",
+        "Țintă de alpinism cu grad extrem de dificultate.",
+        "Din punct de vedere geologic, face parte din zona activă tectonic."
+      ]
+    },
+    {
+      "id": "saint-john-river-nature-v2",
+      "descriptionAdvanced": "Râul Saint John este principala cale navigabilă din provincia New Brunswick, traversând o regiune cu peisaje variate înainte de a se vărsa în Oceanul Atlantic. Râul este celebru în special pentru fenomenul „Cascadelor Inversate” (Reversing Falls) din orașul Saint John, unde mareele oceanului inversează temporar cursul râului, oferind un spectacol rar și impresionant al naturii. Din punct de vedere istoric, râul a jucat un rol cheie ca rută de tranzit pentru loialiștii care au fugit spre nord în timpul Revoluției Americane și au colonizat regiunea. Este adesea numit afectuos „Rinul Americii de Nord” datorită importanței sale culturale și economice. Geografie K7 — râuri și maree.",
+      "factsAdvanced": [
+        "Cunoscut pentru „Cascadele Inversate” cauzate de maree.",
+        "Rută de colonizare istoric importantă pentru loialiști.",
+        "Adesea numit „Rinul Americii de Nord”.",
+        "Curge prin Maine (SUA), Quebec și New Brunswick.",
+        "Efectul mareelor se resimte mult în amonte.",
+        "Locație importantă pentru istoria maritimă a Canadei."
+      ]
+    },
+    {
+      "id": "malgne-lake-nature-v2",
+      "descriptionAdvanced": "Lacul Maligne din Parcul Național Jasper este o bijuterie pitorească și unul dintre cele mai cunoscute lacuri din Munții Stâncoși canadieni. Este cel mai lung lac natural din acest lanț muntos și impresionează prin apa sa cristalină, de un albastru profund, alimentată de vârfurile acoperite de ghețari din jur. Insula Spirit, o mică insuliță din lac, este celebră la nivel mondial ca fiind unul dintre cele mai fotografiate motive din Canada, întruchipând esența frumuseții sălbatice a Stâncoșilor. Lacul este un centru pentru turismul sustenabil, excursiile cu barca și drumețiile pe maluri oferind vizitatorilor o experiență directă în ecosistemul montan. Geografie K7 — ghețari și lacuri.",
+      "factsAdvanced": [
+        "Cel mai lung lac natural din Munții Stâncoși canadieni.",
+        "Insula Spirit este un subiect fotografic iconic, cunoscut la nivel mondial.",
+        "Apa lacului este rece și de origine glaciară.",
+        "Unul dintre principalele puncte de atracție turistică din Parcul Jasper.",
+        "Lungimea lacului este de aproximativ 22 de kilometri.",
+        "Renume pentru culoarea sa turcoaz vibrantă."
+      ]
+    },
+    {
+      "id": "bow-river-nature-v2",
+      "descriptionAdvanced": "Râul Bow este o cale navigabilă dinamică din Alberta, având izvorul la Ghețarul Bow în Munții Stâncoși și șerpuind printr-un peisaj alpin și de prerie spectaculos. În cursul său, râul trece prin metropola Calgary, pentru care reprezintă o sursă de apă indispensabilă. Râul este de asemenea cunoscut pe plan internațional ca o destinație de primă clasă pentru pescuitul cu muscă, deoarece apele sale clare și reci oferă condiții optime pentru păstrăv. Combinația dintre integrarea urbană din Calgary și originile sale sălbatice în munții înalți îl transformă într-un element geografic unic al provinciei Alberta. Geografie K7 — râuri și urbanistică.",
+      "factsAdvanced": [
+        "Izvorăște din Ghețarul Bow în munți.",
+        "Destinație de clasă mondială pentru pescuitul cu muscă.",
+        "Sursă primară de apă pentru metropola Calgary.",
+        "O rețea extinsă de parcuri urbane a fost construită de-a lungul râului.",
+        "Unul dintre cele mai importante sisteme fluviale din Alberta.",
+        "Protejat ecologic datorită populației bogate de păstrăv."
+      ]
+    }
+  ]
+}

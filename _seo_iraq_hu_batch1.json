@@ -1,0 +1,217 @@
+{
+  "lang": "hu",
+  "country": "iraq",
+  "files": ["lib/visualLab/data/poiExtraIraqCitiesV2.ts"],
+  "items": [
+    {
+      "id": "baghdad-cities-v2",
+      "descriptionAdvanced": "Bagdad 1958 óta az Iraki Köztársaság fővárosa, mintegy 7,5 millió fős lakosságával az ország legnagyobb városa. A várost 762-ben alapította al-Manszúr abbászida kalifa a Tigris folyó nyugati partján, eredetileg kör alakú alaprajzzal. A 9. századra, Hárún ar-Rasíd uralkodása alatt lakossága meghaladta az egymilliót, és itt működött a híres Bölcsesség Háza. 1258-ban a Hülegü kán vezette mongol sereg lerombolta a települést. A brit mandátum időszakában (1920-1932) Bagdad az új Iraki Királyság központjává vált. Szaddám Huszein 1979 és 2003 közötti uralma alatt jelentős építkezések zajlottak, amelyeket a 2003-ban kezdődő iraki háború pusztításai követtek.",
+      "factsAdvanced": [
+        "1958 óta köztársasági főváros",
+        "A metropolisz lakossága körülbelül 7,5 millió fő",
+        "Al-Manszúr kalifa alapította 762-ben",
+        "A Bölcsesség Háza a 9. században működött itt",
+        "1258-ban a mongol sereg lerombolta",
+        "A brit mandátum időszaka 1920 és 1932 közé esett",
+        "Szaddám Huszein uralma 1979-től 2003-ig tartott",
+        "A várost a Tigris folyó szeli ketté"
+      ]
+    },
+    {
+      "id": "basra-cities-v2",
+      "descriptionAdvanced": "Bászra Irak legfontosabb kikötővárosa, amely a Satt el-Arab partján helyezkedik el az ország déli részén. Mintegy 2,6 millió fős lakosságával Bagdad után a második legnagyobb iraki metropolisz. A települést 636-ban alapította Omár kalifa katonai táborként, majd Mezopotámia legfőbb kikötőjévé fejlődött a Perzsa-öböl térségében. A 8. században olyan neves gondolkodóknak adott otthont, mint Haszan al-Baszri. A brit mandátum (1920-1932) alatt stratégiai olajkikötővé bővítették. Az 1980 és 1988 közötti irak-iráni háborúban súlyos károkat szenvedett. Napjainkban az iraki kőolajexport több mint 80 százaléka Bászra mélyvízi kikötőin, Umm Kászron és al-Fáón keresztül zajlik.",
+      "factsAdvanced": [
+        "Körülbelül 2,6 milliós lakosságával a második legnagyobb város",
+        "Omár kalifa alapította 636-ban katonai táborként",
+        "A Satt el-Arab partján található kikötőváros",
+        "Az iraki olajexport több mint 80 százalékát bonyolítja",
+        "A brit mandátum időszaka 1920 és 1932 közé esett",
+        "Az irak-iráni háború 1980 és 1988 között zajlott",
+        "Szaddám Huszein korszaka 1979-től 2003-ig tartott",
+        "Haszan al-Baszri (642-728) szülővárosa"
+      ]
+    },
+    {
+      "id": "mosul-cities-v2",
+      "descriptionAdvanced": "Moszul a Tigris folyó nyugati partján fekszik Észak-Irakban, szemben az ókori Asszír Birodalom fővárosa, Ninive romjaival. A körülbelül 1,7 millió lakosú város a 7. században alakult ki egy régebbi asszír külváros helyén, majd a 12. századtól a zengida dinasztia uralma alatt vált nagyvárossá. A településről kapta nevét a finom szövésű muszlin szövet. A brit mandátum (1920-1932) idején az olajban gazdag régiót 1926-ban csatolták véglegesen az Iraki Királysághoz. Szaddám Huszein uralma (1979-2003) alatt a Moszuli Egyetem jelentősen fejlődött. 2014 júniusa és 2017 júliusa között az Iszlám Állam uralta, a felszabadító harcok során az óváros és az 1172-ben épült al-Núri mecset is elpusztult.",
+      "factsAdvanced": [
+        "Lakossága hozzávetőlegesen 1,7 millió fő",
+        "Az asszír főváros, Ninive romjaival szemben fekszik",
+        "A 7. század óta folyamatosan lakott település",
+        "A muszlin szövet névadó városa",
+        "Az 1926-os moszuli kérdés során csatolták Irakhoz",
+        "Szaddám Huszein uralma 1979-től 2003-ig tartott",
+        "2014 júniusa és 2017 júliusa között Iszlám Állam uralom alatt állt",
+        "Az 1172-es al-Núri mecset 2017-ben megsemmisült"
+      ]
+    },
+    {
+      "id": "erbil-cities-v2",
+      "descriptionAdvanced": "Erbíl az észak-iraki Iraki Kurdisztán autonóm régió fővárosa, lakossága megközelíti az 1,6 millió főt. A város központjában magasodó fellegvár egy 32 méteres mesterséges dombon (tell) áll, amelynek legalsó rétegei a Kr. e. 5. évezredig nyúlnak vissza. Ez a világ egyik legrégebb óta folyamatosan lakott települése, amely 2014-ben felkerült az UNESCO világörökségi listájára. Az ókorban Arbela néven volt ismert, és a közelében zajlott Kr. e. 331-ben a gaugamélai csata, ahol Nagy Sándor legyőzte III. Dareioszt. A brit mandátum idején (1920-1932) az Iraki Királyság része lett. Szaddám Huszein (1979-2003) diktatúrája után a város 1991-től de facto kurd igazgatás alatt áll, ma pedig a régió gazdasági és oktatási központja.",
+      "factsAdvanced": [
+        "A lakosság száma nagyjából 1,6 millió fő",
+        "Az Iraki Kurdisztán autonóm régió fővárosa",
+        "A fellegvár 2014 óta UNESCO világörökségi helyszín",
+        "A Kr. e. 5. évezred óta lakott település",
+        "A gaugamélai csata Kr. e. 331-ben zajlott a közelben",
+        "A brit mandátum időszaka 1920 és 1932 közé esett",
+        "Szaddám Huszein diktatúrája 1979-től 2003-ig tartott",
+        "1991 óta de facto autonóm igazgatás alatt áll"
+      ]
+    },
+    {
+      "id": "sulaymaniyah-cities-v2",
+      "descriptionAdvanced": "Szulejmánijja az iraki Kurdisztánban, a Zagrosz-hegység egyik völgyében fekszik 882 méteres tengerszint feletti magasságban, lakossága mintegy 880 ezer fő. A várost 1784-ben alapította a Baban hercegség uralkodója, Ibrahim Pasa, és apja, Szulejmán Pasa után nevezte el. A település 1850-ig a Baban fejedelemség fővárosaként működött. A kurd kultúra központjaként tartják számon, számos költő és tudós szülőhelye. A brit mandátum (1920-1932) alatt Mahmud Barzandsi sejk vezetésével itt kiáltották ki 1922-ben a Kurd Királyságot, amelyet 1924-ben levertek. A Szaddám-érában (1979-2003) a város sokat szenvedett az 1986 és 1989 közötti Anfal-hadjárat során. 1968-ban alapították a Szulejmánijjai Egyetemet.",
+      "factsAdvanced": [
+        "Lakossága hozzávetőlegesen 880 ezer fő",
+        "Ibrahim Pasa Baban alapította 1784-ben",
+        "A Baban fejedelemség fővárosa volt 1850-ig",
+        "A rövid életű Kurd Királyság központja volt 1922 és 1924 között",
+        "A brit mandátum 1920 és 1932 között állt fenn",
+        "Az Anfal-hadjárat 1986 és 1989 között zajlott",
+        "A Szaddám-korszak 1979-től 2003-ig tartott",
+        "A Szulejmánijjai Egyetem 1968-ban nyitotta meg kapuit"
+      ]
+    },
+    {
+      "id": "kirkuk-cities-v2",
+      "descriptionAdvanced": "Kirkuk Észak-Irakban, a Kasza folyó partján terül el, mintegy 1 millió fős többnemzetiségű – kurd, türkmén, arab és asszír – lakossággal. A város fellegvára a Kr. e. 3. évezredből származó asszír Arrapha városára épült, és itt található Dániel próféta mauzóleuma. 1927-ben a közeli Baba Gurgur térségében fedezték fel az első iraki kőolajmezőt. A brit mandátum (1920-1932) alatt megalakult az Iraq Petroleum Company, amely 1934-től vezetéken exportálta a kirkuki olajat Haifába és Tripoliba. Szaddám Huszein uralma (1979-2003) alatt a város erőszakos arabosítási kampányon ment keresztül. Baba Gurgur lángjai a hagyomány szerint a bibliai Dániel könyvében említett örök tüzet jelentik.",
+      "factsAdvanced": [
+        "Körülbelül 1 milliós többnemzetiségű lakosság",
+        "Az asszír Arrapha a Kr. e. 3. évezredben állt itt",
+        "1927-ben fedezték fel az első kőolajmezőt Baba Gurgurnál",
+        "A brit mandátum 1920 és 1932 között tartott",
+        "Az Iraq Petroleum Company 1934-ben kezdte az exportot",
+        "Az arabosítási kampány a Szaddám-érában (1979-2003) történt",
+        "Dániel próféta mauzóleuma a fellegvárban található",
+        "A kurd régió és Bagdad közötti vitatott státuszú város"
+      ]
+    },
+    {
+      "id": "najaf-cities-v2",
+      "descriptionAdvanced": "Nedzsef Bagdadtól 160 kilométerre délre fekszik, és megközelítőleg 1 millió lakossal rendelkezik. A település a síita iszlám egyik legszentebb városa, mivel itt található az aranykupolás Ali imám-szentély, Ali ibn Abi Tálibnak (601-661), a negyedik kalifának a nyughelye. A 10. században emelt szentély Mekka, Medina és Kerbela után a síiták negyedik legfontosabb zarándokhelye. A brit mandátum (1920-1932) időszakában Nedzsef az 1918-as és az 1920-as britek elleni felkelések központja volt. Szaddám Huszein (1979-2003) rendszere alatt a síita papságot elnyomták, majd 1999-ben meggyilkolták Mohammed Szádek asz-Szadr nagyajatollahot. A szentélytől keletre fekvő Vádi asz-Szalam több mint 6 négyzetkilométeres területével a világ legnagyobb temetője.",
+      "factsAdvanced": [
+        "A város lakossága hozzávetőlegesen 1 millió fő",
+        "Az Ali imám-szentély a 10. században épült",
+        "Bagdadtól 160 kilométerre délre helyezkedik el",
+        "A Vádi asz-Szalam a világ legnagyobb, 6 km²-es temetője",
+        "A britek elleni felkelések 1918-ban és 1920-ban zajlottak",
+        "Szaddám Huszein uralma 1979-től 2003-ig tartott",
+        "Asz-Szadr nagyajatollahot 1999-ben gyilkolták meg",
+        "Ali ibn Abi Tálib (601-661) kalifa nyughelye"
+      ]
+    },
+    {
+      "id": "karbala-cities-v2",
+      "descriptionAdvanced": "Kerbela mintegy 700 ezer lakosú város Bagdadtól 100 kilométerre délnyugatra. A település a síita iszlám szent helye, mivel Kr. u. 680. október 10-én (moharram hónap 10-én) itt vívták a kerbelai csatát, amelyben Mohamed próféta unokája, Huszein ibn Ali 72 követőjével együtt elesett I. Jazíd omajjád hadserege ellen. A síita dinasztiák aranykupolás szentélyt emeltek Huszein imám és féltestvére, al-Abbász sírja fölé. A brit mandátum (1920-1932) idején Kerbela az 1920-as iraki felkelés egyik központja volt. Szaddám Huszein uralma (1979-2003) alatt az 1991-es síita felkelést itt véresen leverték. Az évenkénti arbáín zarándoklat alkalmával akár 25 millió hívő is felkeresi a várost.",
+      "factsAdvanced": [
+        "A város lakossága megközelítőleg 700 ezer fő",
+        "Bagdadtól 100 kilométerre délnyugatra található",
+        "A kerbelai csata Kr. u. 680-ban zajlott",
+        "Az arbáín zarándoklaton 25 millió résztvevő is lehet",
+        "A brit mandátum 1920 és 1932 között tartott",
+        "Az 1920-as iraki felkelés egyik központja",
+        "Az 1991-es síita felkelést katonai erővel fojtották el",
+        "Szaddám Huszein rendszere 1979-től 2003-ig tartott"
+      ]
+    },
+    {
+      "id": "nasiriyah-cities-v2",
+      "descriptionAdvanced": "Nászirijja az Eufrátesz folyó partján fekvő dél-iraki város, lakossága mintegy 560 ezer fő. A települést 1872-ben alapította Nászir asz-Szaadún, a Muntafik törzs sejkje, és róla is kapta a nevét. A várostól 15 kilométerre délre találhatók a Kr. e. 3800 körül alapított ókori sumér Úr városának romjai, amely a bibliai Ábrahám szülőhelyeként is ismert. Itt áll a Kr. e. 2100 körül épült, jó állapotban fennmaradt úri zikkurat. A brit mandátum (1920-1932) idején fontos helyőrségi központ volt. A Szaddám-korszakban (1979-2003) az 1990-es évek mocsárlecsapolásai miatt a helyi mocsári arabokat üldözték. 2003-ban a nászirijjai csata során esett fogságba Jessica Lynch amerikai katona.",
+      "factsAdvanced": [
+        "Lakossága megközelítőleg 560 ezer fő",
+        "Nászir asz-Szaadún alapította 1872-ben",
+        "Úr városát Kr. e. 3800 körül alapították",
+        "Az úri zikkurat Kr. e. 2100 körül épült",
+        "A brit mandátum időszaka 1920 és 1932 közé esett",
+        "A környező mocsarakat az 1990-es években csapolták le",
+        "A Szaddám-korszak 1979-től 2003-ig tartott",
+        "A nászirijjai csata 2003-ban zajlott le"
+      ]
+    },
+    {
+      "id": "amarah-cities-v2",
+      "descriptionAdvanced": "Amára a Tigris folyó mentén található délkelet-iraki város, melynek lakossága nagyjából 420 ezer fő. Az oszmán adminisztráció alapította 1862-ben helyőrségi központként, hogy ellenőrzés alatt tartsa a Beni Lam törzset. A település az iraki mocsárvidék (al-Ahvár) kapuja, ahol a mocsári arabok (madánok) a Kr. e. 5. évezred óta élnek nádépületeikben. A mocsárvidék 2016-ban UNESCO világörökségi státuszt kapott. A brit mandátum (1920-1932) alatt Amára jelentős közigazgatási város volt, közelében zajlott 1915-ben az Es Sinn-i csata. Szaddám Huszein uralma (1979-2003) idején, 1991 és 2003 között a mocsarak több mint 90 százalékát lecsapolták büntetésképpen, az ökoszisztéma részleges helyreállítása 2003 után kezdődött meg.",
+      "factsAdvanced": [
+        "A város lakossága mintegy 420 ezer fő",
+        "Az oszmán adminisztráció alapította 1862-ben",
+        "A mocsári arabok kultúrája a Kr. e. 5. évezredre nyúlik vissza",
+        "Az Es Sinn-i csata 1915-ben zajlott a közelben",
+        "A brit mandátum 1920 és 1932 között tartott fenn",
+        "A mocsarakat 1991 és 2003 között csapolták le",
+        "A régió 2016 óta UNESCO világörökségi terület",
+        "Szaddám Huszein rendszere 1979-től 2003-ig tartott"
+      ]
+    },
+    {
+      "id": "al-diwaniyah-cities-v2",
+      "descriptionAdvanced": "Dívánijja Közép-Irakban, az Eufrátesz mentén, Bagdadtól 180 kilométerre délre fekszik, és lakóinak száma eléri a 460 ezret. A település a 17. században jött létre a Hazaél törzs találkozóhelyeként (dívánjaként), majd az oszmánok 1869-ben szandzsákká nyilvánították. A várostól 10 kilométerre délre található Nippur, az ókori Mezopotámia vallási központja és Enlil főisten székhelye, ahol 1900 körül a Pennsylvaniai Egyetem régészei több tízezer ékírásos táblát tártak fel. A brit mandátum (1920-1932) alatt fontos vasúti csomóponttá vált. A Szaddám-korszakban (1979-2003) a rizstermelés és a datolyatermesztés központja lett. Az 1987-ben alapított al-Kádiszijja Egyetem nevét a 636-os történelmi csatáról kapta.",
+      "factsAdvanced": [
+        "A város lakossága hozzávetőlegesen 460 ezer fő",
+        "Bagdadtól 180 kilométerre délre található",
+        "A település a 17. században jött létre",
+        "Az oszmánok 1869-ben szandzsák rangra emelték",
+        "A brit mandátum időszaka 1920 és 1932 közé esett",
+        "Szaddám Huszein uralma 1979-től 2003-ig tartott",
+        "Az al-Kádiszijja Egyetemet 1987-ben alapították",
+        "Nippur romjai 10 kilométerre délre fekszenek"
+      ]
+    },
+    {
+      "id": "kut-cities-v2",
+      "descriptionAdvanced": "Kút (hivatalosan al-Kút) a Tigris folyó bal partján fekszik, Bagdadtól 160 kilométerre délkeletre, lakossága mintegy 380 ezer fő. A város az első világháború alatti kúti ostrom révén vált világszerte ismertté: 1915. december 7. és 1916. április 29. között a Halil Pasa vezette oszmán haderő bekerítette a Charles Townshend vezérőrnagy parancsnoksága alatt álló brit-indiai 6. hadosztályt. A kapituláció során 13 ezer katona esett oszmán fogságba, ami a háború egyik legnagyobb brit kudarca volt. A brit mandátum (1920-1932) alatt Kút ismét adminisztratív központ lett. Az 1939-ben elkészült kúti gát szabályozza a dél-mezopotámiai földek öntözését. Az irak-iráni háborúban (1980-1988) a település fontos logisztikai központ volt, 1976 óta Vászit kormányzóság fővárosa.",
+      "factsAdvanced": [
+        "Lakossága megközelítőleg 380 ezer fő",
+        "Bagdadtól 160 kilométerre délkeletre fekszik",
+        "A kúti ostrom 1915-1916-ban zajlott le",
+        "A brit kapituláció során 13 ezer katona esett fogságba",
+        "A brit mandátum korszaka 1920 és 1932 közé esett",
+        "A Tigrisen lévő kúti gát 1939-ben épült fel",
+        "Vászit kormányzóság fővárosa 1976 óta",
+        "Az irak-iráni háború 1980 és 1988 között tartott"
+      ]
+    },
+    {
+      "id": "hillah-cities-v2",
+      "descriptionAdvanced": "Hilla Bagdadtól 100 kilométerre délre, az Eufrátesz mentén helyezkedik el, és 540 ezer lakossal rendelkezik. A várost 1101-ben alapította Szaif ad-Daula Szadaka, a maziádida uralkodó, az építkezéshez az ókori Babilon romjaiból is sok követ felhasználtak. Hillától 5 kilométerre északra fekszenek a Kr. e. 1792-1750 között Hammurapi, majd Kr. e. 605-562 között II. Nabú-kudurri-uszur alatt virágzó Babilon maradványai. Szemiramisz függőkertjei az ókori világ hét csodája közé tartoztak, a romterület 2019 óta UNESCO világörökség. A brit mandátum (1920-1932) alatt Hilla lett Bábil kormányzóság központja. Szaddám Huszein 1983-tól kezdve ellentmondásos módon rekonstruáltatta az Istár-kaput és a palotát, magát pedig új Nabú-kudurri-uszurként ünnepeltette.",
+      "factsAdvanced": [
+        "A város lakossága mintegy 540 ezer fő",
+        "Szaif ad-Daula alapította 1101-ben",
+        "Babilon romjai 5 kilométerre északra fekszenek",
+        "A brit mandátum 1920 és 1932 között tartott",
+        "Szaddám Huszein 1983-tól indította a babiloni rekonstrukciókat",
+        "Babilon 2019-ben lett UNESCO világörökség",
+        "II. Nabú-kudurri-uszur (Kr. e. 605-562) fővárosa volt az ókorban",
+        "Bagdadtól 100 kilométerre délre található"
+      ]
+    },
+    {
+      "id": "ramadi-cities-v2",
+      "descriptionAdvanced": "Ramádi az Eufrátesz mentén, Bagdadtól 110 kilométerre nyugatra terül el, lakóinak száma eléri a 480 ezret. A települést 1869-ben alapította az oszmán vāli, Midhat Pasa, azzal a céllal, hogy letelepítse a Dulaim törzs beduinjait. A brit mandátum (1920-1932) idején, 1917. szeptember 28-án itt zajlott a ramádi csata, ahol a britek bevették az oszmán helyőrséget, 1932-től pedig el-Anbár kormányzóság fővárosa lett. Szaddám Huszein (1979-2003) uralma idején a régióból számos tiszt és törzsi vezető tartozott a belső köréhez. 2003 után a város a szunnita ellenállás központjává vált; a 2006-os második ramádi csata az iraki háború egyik legvéresebb összecsapása volt. 2014 januárja és 2016 februárja között az Iszlám Állam irányította, a felszabadításkor a város 80 százaléka elpusztult.",
+      "factsAdvanced": [
+        "A város lakossága hozzávetőlegesen 480 ezer fő",
+        "Bagdadtól 110 kilométerre nyugatra fekszik",
+        "Midhat Pasa alapította 1869-ben",
+        "A ramádi csata 1917 szeptemberében történt",
+        "El-Anbár fővárosa lett 1932-ben",
+        "A brit mandátum időszaka 1920 és 1932 közé esett",
+        "Az Iszlám Állam 2014 és 2016 között uralta",
+        "A felszabadító harcokban az épületek 80 százaléka elpusztult"
+      ]
+    },
+    {
+      "id": "fallujah-cities-v2",
+      "descriptionAdvanced": "Fallúdzsa Bagdadtól 70 kilométerre nyugatra fekszik az Eufrátesz partján, mintegy 330 ezer fős lakossággal. A város elődje az ókori babilóniai Pumbedita volt, amely a 3. századtól jelentős zsidó talmudi akadémiának adott otthont. Fallúdzsát a \"mecsetek városaként\" is emlegetik, több mint 200 mecset található itt. A brit mandátum (1920-1932) idején, 1941-ben az angol-iraki háború során heves csata zajlott itt Rasíd Ali németbarát kormánya ellen. A Szaddám-érában (1979-2003) a régió a szunnita Baasz-párti támogatók egyik fellegvára volt. 2003 után az iraki ellenállás szimbóluma lett, az amerikai csapatok 2004 áprilisában és november-decemberében két nagy veszteségű csatát is vívtak a városban. 2014 januárja és 2016 júniusa között az Iszlám Állam ellenőrzése alatt állt.",
+      "factsAdvanced": [
+        "A lakosság száma megközelítőleg 330 ezer fő",
+        "Bagdadtól 70 kilométerre nyugatra található",
+        "Több mint 200 mecsetje miatt kapta a nevét",
+        "Az ókori Pumbedita helyén épült fel",
+        "Az angol-iraki háború fallúdzsai csatája 1941-ben zajlott",
+        "A két nagy amerikai csatát 2004-ben vívták",
+        "Az Iszlám Állam 2014 és 2016 között birtokolta",
+        "A brit mandátum 1920 és 1932 között állt fenn"
+      ]
+    }
+  ]
+}

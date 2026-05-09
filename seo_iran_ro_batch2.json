@@ -1,0 +1,127 @@
+{
+  "lang": "ro",
+  "country": "iran",
+  "files": ["lib/visualLab/data/poiExtraIranCitiesV2.ts"],
+  "items": [
+    {
+      "id": "sanandaj-cities-v2",
+      "descriptionAdvanced": "Imaginează-ți un oraș mândru și plin de viață situat în inima munților, fiind centrul cultural incontestabil al kurzilor iranieni. Sanandaj, capitala provinciei Kurdistan, este înconjurat strâns de piscurile frumoase, dar aspre, ale Munților Zagros. Orașul este considerat o veritabilă fortăreață a muzicii, a dansului și a tradițiilor străvechi; plimbându-te pe străzile sale, poți auzi frecvent melodiile inconfundabile ale instrumentelor tradiționale kurde. Deși este un oraș relativ tânăr, fondat abia în secolul al XVII-lea, se mândrește cu o arhitectură istorică bogată, moschei superbe cu decorațiuni rafinate și bazaruri autentice pline de culoare. Munții înverziți din jur, cum ar fi Muntele Abidar, sunt destinații de drumeție foarte populare pentru localnici, oferind o panoramă uimitoare asupra văii. Educație civică K7 — cultura kurdă și tradițiile minorităților.",
+      "factsAdvanced": [
+        "Sanandaj a fost fondat oficial în anul 1636 de către Suleyman Khan Ardalan.",
+        "Orașul a fost desemnat „Orașul Muzicii” de către rețeaua orașelor creative UNESCO în 2019.",
+        "Populația orașului depășește 410.000 de locuitori conform datelor recente.",
+        "Altitudinea orașului variază între 1.450 și 1.538 de metri deasupra nivelului mării.",
+        "Parcul forestier Abidar, o atracție majoră, este situat direct pe versanții muntelui vestic.",
+        "Cel mai important monument istoric este Conacul Khosro Abad, construit în secolul al XIX-lea."
+      ]
+    },
+    {
+      "id": "qazvin-cities-v2",
+      "descriptionAdvanced": "Plimbă-te pe străzile uneia dintre capitalele istorice ale Iranului, unde fiecare piatră pare să spună o poveste din perioada de glorie a Imperiului Safavid. Qazvin, situat la vest de Teheran, chiar la poalele sudice ale Munților Alborz, a fost un nod comercial crucial timp de secole datorită locației sale strategice excepționale. Orașul este o adevărată comoară arhitecturală; aici se află magnificul Palat Chehel Sotoun (Patruzeci de Coloane), care a servit drept reședință pentru monarhii safavizi chiar înainte de Isfahan. Uriașul caravanserai restaurat din epoca safavidă, Sa'd al-Saltaneh, funcționează astăzi ca o frumoasă piață de artizanat primitoare pentru vizitatori. Qazvin este, de asemenea, recunoscut pe scară largă drept capitala caligrafiei persane, de unde provin cei mai renumiți maeștri. Istorie K8 — Imperiul Safavid și dezvoltarea artelor.",
+      "factsAdvanced": [
+        "Qazvin a servit drept capitală a Imperiului Safavid între anii 1548 și 1598.",
+        "Caravanseraiul Sa'd al-Saltaneh acoperă o suprafață enormă de peste 2,6 hectare.",
+        "Orașul a fost grav avariat de numeroase cutremure de-a lungul istoriei sale, cel mai devastator fiind în 1119.",
+        "Moscheea Jameh (Moscheea Vineri) din Qazvin este una dintre cele mai vechi din Iran, ridicată în secolul al IX-lea.",
+        "Populația modernă a orașului este de peste 400.000 de locuitori.",
+        "Palatul Chehel Sotoun adăpostește în prezent principalul muzeu de caligrafie al orașului."
+      ]
+    },
+    {
+      "id": "khorramabad-cities-v2",
+      "descriptionAdvanced": "Vizualizează un oraș străvechi, înconjurat de văi adânci și izvoare murmurătoare, deasupra căruia veghează o fortăreață sasanidă considerată inexpugnabilă. Khorramabad, mândra capitală a provinciei Lorestan, se află chiar în inima stâncoasă a Munților Zagros. Orașul este faimos mai ales pentru impunătorul Castel Falak-ol-Aflak care se înalță maiestuos pe vârful unui deal central, protejând regiunea timp de milenii și servind și ca închisoare în diferite perioade. Regiunea din jurul orașului este căminul grupului etnic lur, oameni renumiți pentru arta lor unică de prelucrare a bronzului, tradițiile muzicale bogate și rădăcinile lor nomade adânci. Peisajele din apropiere includ cascade învolburate, precum Cascada Bisheh, și lacuri cristaline de munte care transformă relieful în minuni naturale care îți taie respirația. Geografie K7 — fortărețe montane și habitatul populației lur.",
+      "factsAdvanced": [
+        "Castelul Falak-ol-Aflak a fost construit inițial în perioada Imperiului Sasanid (224–651 d.Hr.).",
+        "Suprafața bazei castelului depășește 5.300 de metri pătrați, având opt turnuri masive.",
+        "Orașul este situat la o altitudine ridicată de aproximativ 1.147 de metri deasupra nivelului mării.",
+        "Regiunea Lorestan este considerată printre primele locuri în care omul a domesticit caii, acum mii de ani.",
+        "Muzeul de antropologie din interiorul castelului prezintă peste 12.000 de artefacte istorice din bronz.",
+        "Valea este străbătută de râul Khorramabad, care izvorăște direct din munții înconjurători."
+      ]
+    },
+    {
+      "id": "gorgan-cities-v2",
+      "descriptionAdvanced": "Gândește-te la un oraș nordic unde vaporii aduși de pe mare hrănesc păduri dese și extrem de verzi, creând un contrast puternic cu deșerturile interioare tipice ale țării. Gorgan, capitala provinciei Golestan, este situat aproape de Marea Caspică, pe versanții nordici exuberați ai lanțului muntos Alborz. Clima orașului este subtropicală umedă, ceea ce favorizează intens cultivarea bumbacului, a orezului și a tutunului. În arhitectura sa locală se regăsesc încă urme ale caselor tradiționale cu acoperișuri roșii din țiglă și balcoane pitorești din lemn, menite să ofere protecție împotriva ploilor torențiale dese. În apropiere de Gorgan se află rămășițele impresionantului Mare Zid Gorgan, care, în Antichitate, a fost a doua cea mai lungă linie de apărare din lume după Marele Zid Chinezesc. Științele mediului K8 — păduri montane tropicale și fortificații antice.",
+      "factsAdvanced": [
+        "Marele Zid Gorgan are o lungime de aproape 200 de kilometri și datează din epoca sasanidă.",
+        "Orașul primește precipitații medii anuale cuprinse între 600 și 700 de milimetri.",
+        "Până în anul 1937, așezarea a fost cunoscută oficial sub denumirea de Astarabad.",
+        "Populația orașului Gorgan a ajuns la aproape 350.000 de locuitori conform estimărilor din 2016.",
+        "Parcul Național Golestan, renumit pentru biodiversitate, se află la est de oraș și acoperă peste 900 km pătrați.",
+        "Economia regiunii se bazează masiv pe producția agricolă, în special pe cereale."
+      ]
+    },
+    {
+      "id": "sari-cities-v2",
+      "descriptionAdvanced": "Imaginează-ți un oraș comercial vibrant care conectează terenurile agricole extrem de bogate ale coastei Mării Caspice cu impunătorii Munți Alborz. Sari, capitala provinciei Mazandaran, este unul dintre cele mai vechi și importante orașe din regiunea de nord a Iranului. Atmosfera așezării este definită de climatul umed maritim, de piețele mereu pline de viață și de străzile liniștite, mărginite de portocali. Bazarul local este încărcat cu abundența produselor din regiune: pește proaspăt, caviar scump, citrice parfumate și măsline. Deși Sari a suferit de nenumărate ori devastări provocate de cutremure puternice și cuceritori străini, astăzi este un oraș modern, cu o dezvoltare alertă, unde celebrul turn cu ceas și conacele elegante din perioada Qajar amintesc de trecutul său bogat. Geografie K8 — agricultura pe coasta Mării Caspice.",
+      "factsAdvanced": [
+        "Turnul cu ceas din Piața Sa'at (Piața Ceasului) este principalul simbol arhitectural al orașului.",
+        "Sari este recunoscut ca un centru major pentru ambalarea și exportul de citrice iraniene.",
+        "Arheologii au descoperit urme ale așezărilor umane în regiune datând de peste 5.000 de ani.",
+        "Populația orașului Sari a depășit 300.000 de locuitori în anul 2016.",
+        "Râul Tajan traversează estul orașului înainte de a se vărsa direct în Marea Caspică.",
+        "Așezarea a fost pentru scurt timp capitala Iranului în anul 1795, fondată de Agha Mohammad Khan Qajar."
+      ]
+    },
+    {
+      "id": "shahriar-cities-v2",
+      "descriptionAdvanced": "Gândește-te la o uriașă oază luxuriantă situată la marginea junglei moderne de beton. Shahriar, una dintre cele mai mari și mai importante suburbii ale Teheranului, este adesea menționat ca „plămânul” sau „livada uriașă” a capitalei metropolitane. Orașul cuprinde un număr imens de suprafețe agricole bogate, livezi extinse și parcuri dens împădurite. Mai presus de toate, datorită plantațiilor sale masive de prune, cireșe și caise, este un furnizor de top de produse proaspete pentru întreaga regiune teheraneză. Deși este administrat separat de capitală, viața sa este legată indisolubil de aceasta prin nenumărate fire; o proporție uriașă a locuitorilor săi face naveta zilnic. Această dualitate fascinantă între noile complexe rezidențiale moderne și grădinile sale tradiționale conferă așezării o atmosferă unică de tranziție continuă. Geografie socială K7 — aprovizionarea cu alimente a metropolelor și zonele verzi.",
+      "factsAdvanced": [
+        "Shahriar are o populație masivă, care depășește constant 300.000 de locuitori conform estimărilor naționale.",
+        "Orașul acoperă sute de hectare de teren dedicat exclusiv pomiculturii și legumiculturii.",
+        "Distanța rutieră dintre centrul Teheranului și Shahriar este de aproximativ 40 de kilometri.",
+        "Aerul curat al regiunii a atras istoric mulți locuitori bogați pentru a construi vile de vară.",
+        "Populația a cunoscut o explozie a ratei de creștere după anii 1990 datorită expansiunii urbane din capitală.",
+        "Orașul furnizează cantități enorme de fructe proaspete esențiale pentru piețele angro ale capitalei."
+      ]
+    },
+    {
+      "id": "kashan-cities-v2",
+      "descriptionAdvanced": "Pășește în acel oraș-oază aflat chiar la marginea deșertului nemilos, al cărui nume s-a contopit cu cele mai fine covoare persane și cu apa pură de trandafiri. Kashan are o moștenire istorică absolut impresionantă, pe străzile sale aliniindu-se casele fastuoase ale negustorilor bogați din secolul al XIX-lea (cum ar fi vilele Tabatabaei și Borujerdi), care reprezintă punctul culminant al arhitecturii rezidențiale iraniene prin stucaturile lor rafinate și turnurile de vânt complicate. Primăvara, întregul oraș este învăluit de aroma intensă a trandafirilor de Damasc pe durata renumitului festival al producerii apei de trandafiri. La periferia orașului se găsește Grădina Fin, una dintre cele mai vechi grădini persane păstrate intacte în Iran, un site al Patrimoniului Mondial UNESCO care oferă exemplul perfect de armonie între apă curgătoare și umbră protectoare în deșert. Istorie K8 — grădinile persane tradiționale și viața elitei negustorești.",
+      "factsAdvanced": [
+        "Grădina Fin din Kashan datează din 1590, fiind finalizată sub domnia Șahului Abbas I.",
+        "Arhitectura uimitoare a Casei Borujerdi a necesitat munca a 150 de artizani timp de 18 ani.",
+        "Kashan este faimos pentru extragerea anuală a peste 15.000 de tone de apă de trandafiri distilată.",
+        "Orașul adăpostește situl arheologic Tepe Sialk, care indică locuirea continuă din mileniul al VI-lea î.Hr.",
+        "Populația orașului depășește numărul de 300.000 de locuitori.",
+        "Industria locală se mândrește cu covoare renumite mondial, țesute cu o densitate incredibilă de noduri."
+      ]
+    },
+    {
+      "id": "dezful-cities-v2",
+      "descriptionAdvanced": "Imaginează-ți acel oraș antic situat în sud-vestul torid, conectat de un pod uriaș construit încă din Antichitate, și în ale cărui adâncuri o rețea de pasaje subterane răcorește ingenios locuitorii. Dezful, așezat pe malul râului Dez, este unul dintre cele mai vechi orașe din provincia Khuzestan. Peisajul urban a fost caracterizat de secole de apeductele antice numite „qamesh”, deviate din râu, și de arhitectura tradițională impecabilă din cărămidă. Rămășițele podului Dezful, construit de prizonierii de război romani în secolul al III-lea la ordinele regilor sasanizi, sunt încă în picioare. Pentru a rezista căldurii sufocante de vară, care depășește 50 de grade, locuitorii se retrag în pivnițele subterane adânci de mai multe etaje cunoscute sub numele de „Shavadun”. Istorie K7 — arhitectura antică romano-persană și tehnicile de supraviețuire în deșert.",
+      "factsAdvanced": [
+        "Podul antic din Dezful datează din anul 260 d.Hr. și este considerat cel mai vechi pod supraviețuitor funcțional.",
+        "În secolul al XIX-lea, economia orașului a prosperat enorm prin prelucrarea renumitului indigo.",
+        "Structurile subterane răcoroase „Shavadun” au fost săpate la adâncimi care variază între 5 și 15 metri.",
+        "Temperaturile de vară înregistrabile în Dezful pot urca la peste 52 de grade Celsius constant.",
+        "Populația modernă depășește 260.000 de cetățeni.",
+        "Orașul a suferit nenumărate atacuri puternice cu rachete în timpul cruntului război irakiano-iranian."
+      ]
+    },
+    {
+      "id": "neyshabur-cities-v2",
+      "descriptionAdvanced": "Pășește pe pământul unui oraș care, de-a lungul istoriei zbuciumate, a fost o adevărată capitală a artelor, a poeziei rafinate și a turcoazului albastru strălucitor. Neyshabur (Nishapur), situat în marea provincie Khorasan, a înflorit inițial ca unul dintre cele mai importante centre culturale majore ale Drumului Mătăsii înainte ca invadatorii mongoli să îl facă efectiv una cu pământul în secolul al XIII-lea. Aici a trăit și a creat Omar Khayyam, poetul persan de renume mondial, astronomul și matematicianul a cărui impresionantă structură a mausoleului modern de azi este un loc frecventat masiv de pelerini. Zonele învecinate orașului găzduiesc cele mai vechi și faimoase mine de turcoaz din lume, care sunt exploatate neîntrerupt de peste două mii de ani, turcoazul de Neyshabur fiind în prezent un sinonim global pentru o calitate ireproșabilă. Deși perioada sa de vârf a trecut, spiritul său istoric impunător pătrunde adânc întregul oraș de astăzi. Istorie K8 — cuceririle mongole și evoluția științelor musulmane.",
+      "factsAdvanced": [
+        "Minele locale extrag faimosul turcoaz cu cel puțin 2.000 de ani de activitate minieră atestată documentar.",
+        "Astronomul legendar Omar Khayyam s-a născut la Nishapur în cursul anului 1048 d.Hr.",
+        "Cutremurele extrem de violente, în special cele din 1145, 1208 și 1280 au decimat infrastructura originală a orașului.",
+        "Structura spectaculoasă a mausoleului lui Omar Khayyam a fost complet terminată în anul 1963.",
+        "La apogeul istoriei sale, numărul de locuitori a depășit 100.000, un număr masiv pentru secolul XI.",
+        "Unitatea administrativă actuală a municipiului găzduiește peste 260.000 de cetățeni rezidenți."
+      ]
+    },
+    {
+      "id": "ilam-cities-v2",
+      "descriptionAdvanced": "Imaginează-ți un oraș liniștit, profund izolat, așezat strâns între munți aspre și abrupți acoperiți cu păduri groase de stejar chiar la granița vestică a Iranului. Capitala provinciei Ilam, care îi poartă numele cu mândrie, este o așezare istoric relativ nouă care a crescut treptat ca o mare concentrare urbană pentru fermierii nomazi de la sfârșitul secolului XX. În timp ce numele onorează moștenirea glorioasă a străvechii și renumitei civilizații Elam, legătura sa directă istorică structurală nu există. Mediul natural spectaculos este completat de defileuri magnifice abrupte și lacuri montane sălbatice, peisaje pe care pasionații de aventură montană nu le pot ignora deloc. Copleșitoarea proporție a rezidenților constă în musulmani iraniei de origină kurdă șiiți care onorează vehement identitățile lor tribale viguroase și respectă până astăzi conceptul istoric imaterial privind reședințele rurale tradiționale temporare din lână aspră denumite „Siah Chaador”. Geografie socială K7 — tradițiile păstorilor nomazi migratori muntoși.",
+      "factsAdvanced": [
+        "Provincia modernă și orașul și-au obținut statul autonom administrativ abia în decursul anului 1974.",
+        "Un recensământ din 2016 menționează că cifra demografică municipală abia atingea o medie de 190.000 de suflete.",
+        "Relieful accidentat poziționează centrul la un prag altitudinal mediu calculat în jurul a 1.319 metri.",
+        "Exploatarea importantelor gaze din perimetrul regional ajută susținerea generală economică a Iranului.",
+        "Populația vorbitoare preferă uzul zilnic dialectelor și derivărilor tradiționale de sorginte kurdă.",
+        "Frontiera care desparte suveranitățile Iranului și națiunii vecine irakiene se poziționează extrem de aproape."
+      ]
+    }
+  ]
+}

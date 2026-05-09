@@ -2,127 +2,67 @@
   "lang": "en",
   "country": "canada",
   "files": [
-    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts"
   ],
   "items": [
     {
-      "id": "mississauga-cities-v2",
-      "descriptionAdvanced": "Mississauga, located on the shores of Lake Ontario, is Canada's seventh-largest municipality. It evolved from a rural area into a major economic hub, hosting the headquarters of numerous Fortune 500 companies. The city is home to Toronto Pearson International Airport, the busiest airport in the country, serving as a primary gateway to Canada. Geography K7 — economic centers.",
+      "id": "mount-assiniboine-nature-v2",
+      "descriptionAdvanced": "Mount Assiniboine, standing at 3,618 meters, is often called the 'Matterhorn of the Rockies' due to its spectacular pyramidal silhouette. Located on the border between British Columbia and Alberta, this peak is one of the most iconic landmarks in the Canadian Rockies. The Mount Assiniboine Provincial Park has protected this fragile alpine ecosystem since 1922. The area is renowned for its glacial lakes, such as Lake Magog, which serves as a base for many hiking trails. Geography K7 — mountains and glaciers.",
       "factsAdvanced": [
-        "Population exceeds 700,000 residents.",
-        "Home to more than 60 Fortune 500 company headquarters.",
-        "Toronto Pearson Airport handles over 40 million passengers annually.",
-        "Incorporated as a city in 1974.",
-        "Located in the Greater Toronto Area (GTA).",
-        "Features over 500 parks and 200 kilometers of trails."
+        "Elevation of 3,618 meters.",
+        "Named by George Mercer Dawson in 1885.",
+        "Situated on the border of British Columbia and Alberta.",
+        "Lake Magog is the primary base for hikers.",
+        "Its pyramidal shape was carved by glacial erosion.",
+        "The park was established in 1922."
       ]
     },
     {
-      "id": "brampton-cities-v2",
-      "descriptionAdvanced": "Brampton is one of Canada's fastest-growing cities, known for its multicultural diversity and vibrant economy. Once called the 'Flower Town of Canada' due to its extensive greenhouse industry, it has developed into a logistics and manufacturing powerhouse within the Greater Toronto Area. Geography K7 — rapid urbanization.",
+      "id": "south-nahanni-river-nature-v2",
+      "descriptionAdvanced": "The South Nahanni River flows through Nahanni National Park, a UNESCO World Heritage site in the Northwest Territories. This waterway is famous for Virginia Falls, which has a 96-meter drop, significantly taller than Niagara Falls. The region is characterized by deep canyons, karst cave systems, and unique hot springs. The river is a top destination for adventurers and rafting enthusiasts, offering a wild and nearly untouched landscape in Canada's far north. Geography K7 — rivers and waterfalls.",
       "factsAdvanced": [
-        "One of Canada's most ethnically diverse municipalities.",
-        "Known historically as the Flower Town of Canada.",
-        "Located approximately 40 km northwest of downtown Toronto.",
-        "Served by the Brampton Transit and GO Transit systems.",
-        "Home to the Peel Art Gallery, Museum and Archives.",
-        "Population growth consistently ranks among the highest in Ontario."
+        "Virginia Falls has a 96-meter drop.",
+        "The river is approximately 540 kilometers long.",
+        "Included in the UNESCO World Heritage list in 1978.",
+        "Traditional territory of the Dene indigenous people.",
+        "Known for complex karst systems.",
+        "Nahanni National Park covers over 30,000 km²."
       ]
     },
     {
-      "id": "hamilton-cities-v2",
-      "descriptionAdvanced": "Hamilton, situated at the western end of the Niagara Peninsula, is a historic port city famously known as the 'Steel City' due to its massive iron and steel production sector. The city is also renowned for the Bruce Trail and its numerous waterfalls, which draw nature enthusiasts year-round. Geography K7 — industrial geography.",
+      "id": "great-slave-lake-nature-v2",
+      "descriptionAdvanced": "Great Slave Lake is the second-largest lake in the Northwest Territories and holds the title of the deepest lake in North America, reaching a maximum depth of 614 meters. The city of Yellowknife, the territorial capital, is located on the lake's northern shore, having grown rapidly during the gold rush of the 1930s. During winter, the lake's frozen surface allows for the formation of ice roads essential for transport between isolated communities. Its clear water supports a rich biodiversity, essential for the regional ecosystem. Geography K7 — hydrology and lakes.",
       "factsAdvanced": [
-        "Produces over 60% of Canada's steel.",
-        "Features over 100 waterfalls within city limits.",
-        "Situated on the Niagara Escarpment, a UNESCO World Biosphere Reserve.",
-        "Home to McMaster University, a world-class research institution.",
-        "The port of Hamilton is a major Great Lakes shipping hub.",
-        "Established in 1846."
+        "Maximum depth of 614 meters.",
+        "Surface area of approximately 27,200 km².",
+        "Second largest lake in Canada.",
+        "Yellowknife is located on the northern shore.",
+        "Water drains through the Mackenzie River to the Arctic Ocean.",
+        "Ice road networks are created in winter."
       ]
     },
     {
-      "id": "london-cities-v2",
-      "descriptionAdvanced": "London is a significant regional center in southwestern Ontario, serving as a hub for education, medical research, and manufacturing. Situated at the forks of the Thames River, it provides a balance of urban infrastructure and extensive parkland. The city's economy is deeply rooted in health care and higher education. Geography K7 — regional hubs.",
+      "id": "haida-gwaii-islands-nature-v2",
+      "descriptionAdvanced": "The Haida Gwaii archipelago, located off the coast of British Columbia, is often nicknamed the 'Galapagos of the North' due to its unique biodiversity that evolved in isolation after the last ice age. The islands are the cultural heart of the Haida people, famous for their totem poles and historic villages protected as a World Heritage site. The oceanic climate promotes the growth of lush temperate rainforests. The region provides an essential habitat for numerous endemic species and preserves the deep connection of the Haida people with the environment. Geography K7 — islands and biodiversity.",
       "factsAdvanced": [
-        "Nicknamed 'The Forest City' for its abundant green space.",
-        "Located at the confluence of the North and South Thames rivers.",
-        "Home to Western University, one of Canada's top research schools.",
-        "Major medical research center for southwestern Ontario.",
-        "Connected by major highways including the 401.",
-        "Population center for a large surrounding agricultural area."
+        "The archipelago comprises over 150 islands.",
+        "Main islands are Graham and Moresby.",
+        "Haida people have lived here for millennia.",
+        "Gwaii Haanas National Park is located in the south.",
+        "Oceanic climate with abundant rainfall.",
+        "Hosts numerous endemic plant and animal species."
       ]
     },
     {
-      "id": "markham-cities-v2",
-      "descriptionAdvanced": "Markham, located in the Regional Municipality of York, is recognized as Canada's high-tech capital. It houses many international technology companies, positioning it as a pivotal player in the Canadian innovation ecosystem. Its blend of historic neighborhoods and modern developments creates a unique urban fabric. Geography K7 — technological hubs.",
+      "id": "pacific-rim-national-park-forest-nature-v2",
+      "descriptionAdvanced": "Pacific Rim National Park protects valuable temperate rainforests on the west coast of Vancouver Island. These forests are characterized by giant, ancient trees that provide an important ecological niche. A well-known feature is the Long Beach Unit, famous for its vast sandy beaches. The area is a center for the conservation of Sitka Spruce and Western Red Cedar, which thrive under the wet conditions. Hikers can use the famous West Coast Trail to experience this untouched nature. Geography K7 — forests and ecology.",
       "factsAdvanced": [
-        "Often referred to as Canada's high-tech capital.",
-        "Hosts over 1,500 technology and life science companies.",
-        "One of the fastest-growing communities in the Greater Toronto Area.",
-        "Features a well-preserved historic Main Street in Unionville.",
-        "Home to the Markham Museum, showcasing local history.",
-        "Diverse population with a significant representation of Asian communities."
-      ]
-    },
-    {
-      "id": "vaughan-cities-v2",
-      "descriptionAdvanced": "Vaughan is a rapidly developing city north of Toronto that includes the well-known community of Woodbridge and the major entertainment destination Canada's Wonderland. Its economy thrives on a mix of construction, retail, and manufacturing, complemented by significant suburban growth. Geography K7 — suburban development.",
-      "factsAdvanced": [
-        "Home to Canada's Wonderland, the nation's largest theme park.",
-        "Includes the historic village of Kleinburg.",
-        "Significant hub for the construction and manufacturing industries.",
-        "Major stop on the Toronto Subway line extension.",
-        "Population growth accelerated rapidly since the 1990s.",
-        "Home to the McMichael Canadian Art Collection."
-      ]
-    },
-    {
-      "id": "kitchener-cities-v2",
-      "descriptionAdvanced": "Kitchener, part of the Kitchener-Waterloo urban area, is a prominent city with deep roots in industrial manufacturing and, more recently, the tech sector. It hosts one of the world's largest Oktoberfest celebrations, reflecting the city's rich German heritage and communal spirit. Geography K7 — cultural identity.",
-      "factsAdvanced": [
-        "Hosts the largest Oktoberfest outside of Germany.",
-        "Formed the Tri-City area with Waterloo and Cambridge.",
-        "Historic center of manufacturing in Ontario.",
-        "Rapidly evolving into a Canadian technology hub.",
-        "Home to the Kitchener-Waterloo Art Gallery.",
-        "First known as Berlin before changing its name in 1916."
-      ]
-    },
-    {
-      "id": "windsor-cities-v2",
-      "descriptionAdvanced": "Windsor is Canada's southernmost city, sitting directly across the Detroit River from Detroit, Michigan. As the country's automobile manufacturing center, it plays a critical role in North American automotive supply chains. It is a vital international transit point between Canada and the United States. Geography K7 — border logistics.",
-      "factsAdvanced": [
-        "Canada's southernmost major city.",
-        "Known as the Automotive Capital of Canada.",
-        "Connected to Detroit via the Ambassador Bridge and the Detroit-Windsor Tunnel.",
-        "Home to the University of Windsor.",
-        "Features the extensive Windsor Riverfront trail.",
-        "Key entry point for cross-border trade."
-      ]
-    },
-    {
-      "id": "surrey-cities-v2",
-      "descriptionAdvanced": "Surrey is a rapidly expanding city within the Metro Vancouver region, characterized by its diverse population and suburban residential growth. As the second-largest city in British Columbia, it acts as a commercial center for the Fraser Valley, with ongoing development in transit and civic infrastructure. Geography K7 — urban expansion.",
-      "factsAdvanced": [
-        "Second-largest city in British Columbia by population.",
-        "Part of the Metro Vancouver Regional District.",
-        "Includes diverse neighborhoods like Newton and Whalley.",
-        "Fast-growing hub for local government and services.",
-        "Connected by the SkyTrain rapid transit network.",
-        "Known for its large agricultural lands in the south."
-      ]
-    },
-    {
-      "id": "burnaby-cities-v2",
-      "descriptionAdvanced": "Burnaby is located in the geographic center of the Metro Vancouver region, acting as a bridge between the city of Vancouver and the eastern suburbs. It is a major hub for business, technology, and higher education, hosting significant institutions such as Simon Fraser University and the British Columbia Institute of Technology. Geography K7 — transit-oriented development.",
-      "factsAdvanced": [
-        "Geographic center of Metro Vancouver.",
-        "Home to Simon Fraser University.",
-        "Host to the British Columbia Institute of Technology (BCIT).",
-        "Features large parks like Burnaby Mountain and Deer Lake Park.",
-        "Major commercial node for the region.",
-        "Excellent connectivity via SkyTrain lines."
+        "Long Beach Unit is a major tourist attraction.",
+        "Sanctuary for monumental Sitka Spruce trees.",
+        "Western Red Cedars reach impressive dimensions here.",
+        "West Coast Trail is one of the world's most famous hiking trails.",
+        "The ecosystem is strongly influenced by the Pacific Ocean.",
+        "Center for the study of temperate rainforest ecology."
       ]
     }
   ]

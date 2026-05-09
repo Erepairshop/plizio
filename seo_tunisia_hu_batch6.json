@@ -1,0 +1,100 @@
+{
+  "lang": "hu",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gigthis-archaeological-history-v2",
+      "descriptionAdvanced": "Gigthis a Boughrara-öböl partján fekvő ókori kikötőváros, amely a föníciai-pun időkben fontos kereskedelmi állomás volt, majd római uralom alatt vált virágzó várossá. A település elsősorban a szaharai karavánkereskedelem ellenőrzése révén gazdagodott meg, olyan egzotikus javakat közvetítve, mint az afrikai nemesfák és az elefántcsont. A város Kr. u. 138-ban nyerte el a munizipális rangot, az építészeti maradványok – köztük a fórum, a fürdők és az Apollo Liber Pater-templom – pedig az egykori jólétet és a római adminisztráció mély gyökereit igazolják. A bizánci visszahódítás után a város hanyatlásnak indult, az arab hódítás pedig végleg lezárta történetének klasszikus antik korszakát.",
+      "factsAdvanced": [
+        "A várost a Kr. e. 7. században alapították föníciai kereskedők.",
+        "Kr. u. 138-ban nyerte el a munizipális rangot Antoninus Pius alatt.",
+        "Servilius Privatianus két évtizeden át lobbizott Rómában a rangért.",
+        "Gigthis a Szahara felé irányuló karavánkereskedelem központja volt.",
+        "Vandálok fosztották ki a várost Kr. u. 439-ben.",
+        "A bizánci visszafoglalás 533-ban történt meg.",
+        "Az arab hódítás 670-ben zárta le a város ókori korszakát."
+      ]
+    },
+    {
+      "id": "medina-tozeur-history-v2",
+      "descriptionAdvanced": "A Szahara peremén fekvő Tozeur medinája, különösen a történelmi Ouled El Hadef negyed, egyedülálló építészetéről ismert, amelyet a 14. századtól kezdve díszítenek geometrikus, domborműves téglamintákkal. A város az ókortól kezdve Tusuros néven fontos karavánállomás volt, majd a középkorban, a Hafszida-dinasztia idején a Malival folytatott aranykereskedelem révén vált jelentős központtá. A falakon megjelenő, gyakran berber szimbólumokból eredeztethető díszítések a Maghreb-régióban sehol máshol nem látható sűrűségben és szépségben fordulnak elő. A 13. században élt tudós, Ibn Chabbat itt írta a ma is alapvető fontosságú művét a híres oázisok bewässerungs-rendszeréről, ami máig biztosítja a város megélhetését.",
+      "factsAdvanced": [
+        "A különleges díszes téglaépítészet a 14. századból ered.",
+        "Az ókori Tusuros már a Kr. u. 1. századtól fontos állomás volt.",
+        "A Hafszida-dinasztia idején vált a város a goldkereskedelem központjává.",
+        "Ibn Chabbat a 13. században írta meg művét az oázis öntözéséről.",
+        "A geometrikus téglaminták ősi berber szimbólumokon alapulnak.",
+        "Az oázisrendszer több mint 200 000 pálmafát lát el vízzel.",
+        "A medinát egykor 14 városkapu védelmezte."
+      ]
+    },
+    {
+      "id": "skifa-el-kahla-history-v2",
+      "descriptionAdvanced": "A mahdiai Skifa el Kahla, más néven a „Sötét Kapu”, a 10. században épült, a fatimida főváros egyetlen szárazföldi bejárata volt. A masszív, 44 méter hosszú, boltíves alagútrendszerrel ellátott kapu rendkívül hatékony védelmi eszköz volt a támadók ellen. Mahdia 909 és 973 között a fatimida kalifátus székhelye volt, mielőtt a központ Kairóba költözött volna. A város a normannok 1148-as hódítását is átélte, majd a 16. században V. Károly csapatai rombolták le a városfalak nagy részét, ám a kapu csodával határos módon épségben maradt. A Skifa el Kahla ma az egykori fatimida hatalom egyik legjelentősebb fennmaradt építészeti emléke.",
+      "factsAdvanced": [
+        "Skifa el Kahla 916-ban épült al-Mahdi kalifa megbízásából.",
+        "A kapu alagútrendszere összesen 44 méter hosszú.",
+        "Mahdia 909-től 973-ig volt a fatimida kalifátus fővárosa.",
+        "1148-ban II. Roger szicíliai király foglalta el a várost.",
+        "V. Károly csapatai 1554-ben lerombolták a város védműveinek nagy részét.",
+        "A kapu falainak vastagsága eléri a 4,2 métert.",
+        "Eredetileg négy egymást követő zsilipkapu védte az átjárót."
+      ]
+    },
+    {
+      "id": "ksar-ouled-soltane-history-v2",
+      "descriptionAdvanced": "Ksar Ouled Soltane, Tataouine közelében, Dél-Tunézia egyik leglátványosabb berber magtára. A 15. századtól kezdve folyamatosan épített, többemeletes ghorfák (magtárak) nemcsak az élelmiszerkészletek – többek között a gabona és az olívaolaj – védelmét szolgálták a sivatagi hőség és az esetleges fosztogatók elől, hanem a közösségi élet központjai is voltak. Az 1990-es évek végére a helyszín világhírűvé vált, mivel George Lucas itt forgatta a Star Wars Episode I egyik jelenetét, a rabszolganegyedet Tatooine-on. A ksar ma az UNESCO világörökség várományosaként őrzi a Berber-törzsek építészeti hagyományait és a közösségi együttélés emlékeit.",
+      "factsAdvanced": [
+        "A legrégebbi ghorfák (magtárak) a 15. századból származnak.",
+        "A két udvarral rendelkező komplexum több mint 400 tárolót foglal magában.",
+        "Az építmények akár négy emelet magasságig is felérnek.",
+        "A Star Wars Episode I jeleneteit 1999-ben forgatták itt.",
+        "A Berber törzsfők a 19. századig folyamatosan bővítették a ksart.",
+        "A helyi vályogtéglák belső hőmérsékletét 25 fok alatt tartják.",
+        "A helyszín 2012 óta szerepel az UNESCO világörökség várományosai között."
+      ]
+    },
+    {
+      "id": "haidra-ammaedara-history-v2",
+      "descriptionAdvanced": "Haidra (ókori Ammaedara) egykor Észak-Afrika egyik legjelentősebb katonai városa volt, amelyet Kr. u. 75-ben, Vespasianus császár alapított a Legio III Augusta veteránjai számára. A város stratégiai ponton, a hegyi hágók között feküdt, ellenőrizve a mediterrán és a sivatagi területek közötti kereskedelmet. A legimpozánsabb fennmaradt épülete a Septimius Severus-diadalív (195-ből), valamint egy gigantikus, 6. századi bizánci erődítmény, amely a Justinianus-kori védelem egyik ékköve volt. A város fénykorában vallási központként is működött, amit a több mint öt megtalált bazilika is igazol. A 7. századi arab hódítás után elvesztette politikai súlyát, de falai ma is a római kaiser-építészet egyik legépebben maradt példái.",
+      "factsAdvanced": [
+        "Ammaedarát 75-ben alapították veterán kolóniaként Vespasianus idején.",
+        "A veteránok a híres Legio III Augusta légióból érkeztek ide.",
+        "Septimius Severus diadalíve 195-ből származik.",
+        "A bizánci erőd 200-szor 110 méteres alapterületével az egyik legnagyobb.",
+        "Justinianus császár a 6. században építtette ki az erődöt.",
+        "A területen legalább öt ókeresztény bazilika maradványait tárták fel.",
+        "Az arab hódítás a 7. század végén vetett véget a város jelentőségének."
+      ]
+    },
+    {
+      "id": "medina-of-sfax-history-v2",
+      "descriptionAdvanced": "A sfaxi Medina, amelyet 849-ben Ali ibn Salim alapított, a Maghreb-régió egyik legjobb állapotban megmaradt, fallal körülvett óvárosa. A több mint két kilométer hosszú, ma is tekintélyes állapotban álló városfalak őrzik a 9. századi katonai építészet jegyeit, beleértve a bástyákat és a városkapukat. A 850-ben emelt Nagy Mecset a város szívét alkotja, amely a vallási és társadalmi élet központja. A Medina a középkorban élénk kereskedelmi központtá vált, különösen az olívaolaj-kereskedelem terén. Bár 1943-ban bombatámadások érték a várost, az óváros szerkezete szerencsésen átvészelte a háborút, és ma is a hagyományos kézműves szukok központja.",
+      "factsAdvanced": [
+        "A Medina 849-ben alapult az Aghlabida-dinasztia uralma alatt.",
+        "A városfalak hossza meghaladja a 2 kilométert és kiválóan megmaradt.",
+        "A Nagy Mecset 850-ben épült.",
+        "A középkorban a város az olívaolaj-kereskedelem egyik fő központja volt.",
+        "A második világháborús bombázások 1943-ban több kárt okoztak a városban.",
+        "A falak összesen 34 eredeti bástyát és védelmi tornyot őriznek.",
+        "A helyszín jelenleg az UNESCO világörökség várományosi listáján szerepel."
+      ]
+    },
+    {
+      "id": "musti-archaeological-history-v2",
+      "descriptionAdvanced": "Musti a Karthágó és Tébessa közötti fontos római kereskedelmi útvonalon fekvő, sűrűn lakott város volt, amely a 2. században vált jelentős regionális központtá. A település numídiai gyökerekkel rendelkezett, majd a Kr. e. 2. század végétől romanizálódott. Mark Aurel császár alatt, 170-ben emelkedett munizipális rangra. A rommezőn ma is látható az a 6. századi bizánci erőd, amely a város történelmének későbbi szakaszát dokumentálja, valamint a Ceres és Apollo-templomok, amelyek az ókori vallási életet idézik. A francia régészek 1908-as munkássága óta ismert lelőhely kiváló példája a pun-római-bizánci korszakok egymásra épülésének.",
+      "factsAdvanced": [
+        "Musti a Kr. e. 2. század végétől kezdett romanizálódni.",
+        "Mark Aurel emelte a várost munizipális rangra 170 körül.",
+        "A pun-római templomok a két kultúra harmonikus együttélését tükrözik.",
+        "A bizánci erődöt a 6. században építették ki a város védelmére.",
+        "A keresztény bazilikát a 4. század folyamán építették meg.",
+        "Az első szervezett ásatásokat francia kutatók vezették 1908-ban.",
+        "A várost a 7. század végén hagyták el végleg a lakói."
+      ]
+    }
+  ]
+}

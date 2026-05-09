@@ -1,0 +1,334 @@
+{
+  "lang": "ro",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pico-basile-nature-v2",
+      "descriptionAdvanced": "Pico Basile este cel mai înalt munte din Guineea Ecuatorială, ridicându-se maiestuos la 3.011 metri pe insula Bioko. Acest vulcan masiv tip scut domină orizontul capitalei Malabo și oferă o secțiune transversală uimitoare a ecosistemelor africane, de la păduri tropicale de joasă altitudine la pajiști montane rare la vârf. Summitul este adesea învăluit în nori, dar în zilele senine oferă vederi spectaculoase până la Muntele Camerun, peste ocean. Pico Basile este un punct fierbinte de biodiversitate, adăpostind specii endemice de plante și animale, inclusiv primate rare și păsări de munte. Importanța sa ecologică este dublată de semnificația culturală pentru poporul Bubi, care consideră muntele sacru. Parcul Național Pico Basile protejează acest peisaj vulcanic unic pentru generațiile viitoare. Ecologie K8, Geografie K7.",
+      "factsAdvanced": [
+        "Cel mai înalt vârf al țării, atingând 3.011 metri.",
+        "Vulcan activ de tip scut cu soluri extrem de fertile.",
+        "Adăpostește numeroase specii de păsări și plante endemice.",
+        "Parte integrantă a Parcului Național Pico Basile.",
+        "Oferă o panoramă uimitoare asupra Golfului Guineei.",
+        "Locație strategică pentru turnurile de comunicații naționale.",
+        "Sursă vitală de apă dulce pentru regiunea Malabo."
+      ]
+    },
+    {
+      "id": "monte-alen-forest-nature-v2",
+      "descriptionAdvanced": "Parcul Național Monte Alén reprezintă inima ecologică a Guineei Ecuatoriale continentale, acoperind o suprafață vastă de pădure tropicală primară în regiunea Río Muni. Acest sanctuar al naturii este faimos pentru terenul său accidentat, cu dealuri abrupte și râuri repezi care străbat jungla densă. Este unul dintre cele mai importante refugii din Africa Centrală pentru speciile pe cale de dispariție, inclusiv gorilele de câmpie, cimpanzeii și elefanții de pădure. Vizitatorii pot explora o rețea de poteci care dezvăluie o diversitate incredibilă de floră, de la arbori gigantici la orhidee rare. Monte Alén nu este doar un paradis pentru cercetătorii de biodiversitate, ci și un model pentru conservarea durabilă în regiune. Protejarea acestui ecosistem intact este crucială pentru echilibrul climatic regional. Biologie K8, Știința Mediului K7.",
+      "factsAdvanced": [
+        "Cea mai mare și importantă zonă protejată de pe continent.",
+        "Refugiu critic pentru gorile de câmpie și elefanți de pădure.",
+        "Acoperit de pădure tropicală primară de o densitate rară.",
+        "Include lanțul muntos Niefang cu relief accidentat.",
+        "Nod central pentru cercetarea biodiversității în Africa Centrală.",
+        "Dispune de un sistem extins de poteci pentru observarea naturii.",
+        "Element cheie în strategia națională de conservare a faunei."
+      ]
+    },
+    {
+      "id": "rio-benito-nature-v2",
+      "descriptionAdvanced": "Râul Benito, cunoscut și sub numele de Mbini, este cea mai lungă și semnificativă cale navigabilă din Guineea Ecuatorială continentală. Izvorând din Gabon, râul șerpuiește prin inima regiunii Río Muni, tăind păduri tropicale adânci înainte de a se vărsa spectaculos în Oceanul Atlantic la Mbini. Estuarul său larg este o zonă de o frumusețe naturală remarcabilă, unde apele dulci se întâlnesc cu cele sărate, creând habitate bogate pentru mangrove și diverse specii de pești. Râul a servit istoric ca arteră principală de transport și comerț, conectând interiorul țării cu coasta. Astăzi, Benito rămâne vital pentru pescuitul local, agricultură și potențialul său hidroenergetic, fiind un simbol al puterii naturii continentale. Geografie K6, Economie K7.",
+      "factsAdvanced": [
+        "Cel mai lung râu care traversează teritoriul continental.",
+        "Sursă primară de apă și pește pentru comunitățile locale.",
+        "Formează un estuar spectaculos la gura de vărsare din Mbini.",
+        "Artera istorică de transport pentru lemn și mărfuri.",
+        "Susține ecosisteme vaste de mangrove de-a lungul coastei.",
+        "Cunoscut pentru curentul său puternic și debitul constant.",
+        "Cumpănă de ape majoră pentru regiunea centrală Río Muni."
+      ]
+    },
+    {
+      "id": "corisco-island-nature-v2",
+      "descriptionAdvanced": "Insula Corisco, situată în partea de sud a apelor teritoriale ale Guineei Ecuatoriale, este un paradis de nisip alb și ape turcoaz. Cunoscută sub numele de 'Insula Iubirii', Corisco se remarcă prin relieful său relativ plat și plajele sale idilice care sunt printre cele mai frumoase din Golful Guineei. Natura insulei este caracterizată de o vegetație de coastă adaptată solurilor nisipoase și de recife de corali vibrante care înconjoară țărmurile sale. Istoria sa bogată, legată de poporul Benga, este împletită cu mediul marin care asigură subzistența locuitorilor. Corisco oferă un refugiu liniștit și o oportunitate unică de a experimenta natura insulară nealterată, fiind un sit prioritar pentru conservarea ecosistemelor de plajă și a speciilor marine. Geografie K6, Științe Sociale K7.",
+      "factsAdvanced": [
+        "Faimoasă pentru plajele sale cu nisip alb și fin.",
+        "Înconjurată de ape limpezi și recife de corali bogate.",
+        "Relief predominant plat, ideal pentru explorarea pe jos.",
+        "Locație istorică importantă pentru cultura poporului Benga.",
+        "Situată strategic în golful Corisco, lângă granița cu Gabon.",
+        "Sanctuar pentru biodiversitatea marină și țestoasele călătoare.",
+        "Destinație emergentă pentru ecoturismul durabil în regiune."
+      ]
+    },
+    {
+      "id": "annobon-island-nature-v2",
+      "descriptionAdvanced": "Insula Annobón este cea mai îndepărtată provincie a Guineei Ecuatoriale, o bijuterie vulcanică izolată în Atlanticul de Sud. Caracterizată prin munți abrupți de bazalt și un lac de crater mistic în centrul său, insula oferă un peisaj de o sălbăticie dramatică. Izolarea sa extremă a permis evoluția unor specii unice de păsări și plante care nu se găsesc nicăieri altundeva pe pământ. Apele înconjurătoare sunt extrem de bogate în viață marină, fiind o zonă critică pentru trecerea balenelor cu cocoașă și a delfinilor. Cultura locală, cu influențe portugheze și africane, este strâns legată de mare și de resursele limitate ale insulei. Annobón reprezintă una dintre ultimele frontiere ale naturii virgine din Africa, fiind un laborator viu pentru biologia insulară. Geografie K7, Biologie K8.",
+      "factsAdvanced": [
+        "Cea mai izolată insulă vulcanică din Guineea Ecuatorială.",
+        "Găzduiește un lac spectaculos în interiorul unui crater stins.",
+        "Cunoscută pentru speciile sale endemice de păsări și floră.",
+        "Ape înconjurătoare bogate în balene și viață marină pelagică.",
+        "Relief accidentat cu vârfuri de bazalt și pante abrupte.",
+        "Locație unică pentru studiul evoluției speciilor insulare.",
+        "Reprezintă extremitatea sudică a Liniei Vulcanice Camerun."
+      ]
+    },
+    {
+      "id": "bioko-island-nature-v2",
+      "descriptionAdvanced": "Insula Bioko este o minune geologică și ecologică situată în largul coastei Africii de Vest, formată dintr-un lanț de trei vulcani stinși impresionanți. Cel mai mare, Pico Basile, domină peisajul cu înălțimea sa impunătoare, în timp ce craterele din sud adăpostesc lacuri de munte cristaline și păduri de ceață verzi. Natura pe Bioko este de o bogăție copleșitoare, variind de la plajele cu nisip negru vulcanic din nord la pădurile virgine de pe Platoul Moka. Insula este celebră la nivel mondial pentru populațiile sale de primate, inclusiv sfredelul (drilling) și numeroase specii de colobus, care prosperă în zonele protejate. Fiind separată de continent după ultima eră glaciară, Bioko a devenit un rezervor de biodiversitate unică, oferind un contrast uimitor între peisajele vulcanice aspre și viața tropicală vibrantă. Geografie K7, Biologie K8.",
+      "factsAdvanced": [
+        "Insulă de origine vulcanică cu soluri extrem de roditoare.",
+        "Găzduiește trei vulcani majori, inclusiv masivul Pico Basile.",
+        "Faimoasă pentru populațiile rare și diverse de primate.",
+        "Prezintă o gamă largă de habitate, de la coastă la munte.",
+        "Sursă esențială de apă dulce prin numeroasele sale râuri.",
+        "Plajele din sud sunt locuri majore de cuibărit pentru țestoase.",
+        "Centru administrativ și natural al Guineei Ecuatoriale."
+      ]
+    },
+    {
+      "id": "lago-de-biao-nature-v2",
+      "descriptionAdvanced": "Lago de Biao este un lac de crater spectaculos situat în zona înaltă din sudul insulei Bioko, în inima masivului vulcanic Monte San Carlos. Acest ochi de apă cristalină este cuibărit într-o calderă perfect formată, înconjurată de pereți abrupți acoperiți de o pădure de ceață luxuriantă. Fiind situat la o altitudine considerabilă, lacul beneficiază de un climat răcoros și umed, care susține o floră și o faună de munte unică. Izolarea sa naturală a păstrat ecosistemul lacului într-o stare aproape virgină, făcându-l un sit de o frumusețe eterică și o importanță ecologică majoră. Pentru poporul Bubi, lacul deține o semnificație spirituală profundă. Este o destinație de neegalat pentru cei care caută liniștea și frumusețea pură a naturii vulcanice. Geografie K6, Știința Mediului K7.",
+      "factsAdvanced": [
+        "Lac de apă dulce situat într-un crater vulcanic stins.",
+        "Amplasat la o altitudine mare în masivul Monte San Carlos.",
+        "Înconjurat de păduri de ceață virgine și biodiverse.",
+        "Sursă importantă de apă și loc sacru pentru populația locală.",
+        "Habitat pentru specii rare de amfibieni și plante acvatice.",
+        "Oferă unul dintre cele mai pitorești peisaje montane din Bioko.",
+        "Accesibil prin poteci prin junglă, oferind o experiență de sălbăticie."
+      ]
+    },
+    {
+      "id": "gran-caldera-luba-nature-v2",
+      "descriptionAdvanced": "Marea Calderă de Luba reprezintă unul dintre cele mai spectaculoase și mai bine conservate secrete naturale ale Africii, situată în partea de sud, inaccesibilă, a insulei Bioko. Acest crater vulcanic imens, cu un diametru de câțiva kilometri, a creat un microclimat izolat unde natura a evoluat aproape neperturbată de om. Pereții calderei, care se ridică la sute de metri, adăpostesc o pădure tropicală densă, cascade spectaculoase și o densitate uimitoare de viață sălbatică, inclusiv primate rare și păsări endemice. Zona este un laborator viu pentru biologi și un bastion critic pentru conservare. Din cauza reliefului extrem de accidentat și a precipitațiilor abundente, explorarea calderei rămâne o provocare, păstrând acest loc ca una dintre ultimele frontiere ale sălbăticiei africane. Biologie K8, Geografie K7.",
+      "factsAdvanced": [
+        "Unul dintre cele mai mari și mai adânci cratere vulcanice din lume.",
+        "Sanctuar critic pentru maimuțe și alte specii de primate rare.",
+        "Include numeroase cascade și cursuri de apă virgine.",
+        "Protejată ca rezervație științifică datorită valorii sale ecologice.",
+        "Prezintă un relief atât de abrupt încât a limitat accesul uman.",
+        "Hotspot global de biodiversitate pentru floră și faună.",
+        "O componentă esențială a patrimoniului natural al țării."
+      ]
+    },
+    {
+      "id": "rio-muni-nature-v2",
+      "descriptionAdvanced": "Estuarul Río Muni este o formațiune geografică majoră situată la granița de sud-vest a Guineei Ecuatoriale continentale, unde mai multe râuri mari se varsă în Oceanul Atlantic. Acest vast corp de apă amestecată este înconjurat de unele dintre cele mai extinse și mai sănătoase păduri de mangrove din Africa Centrală. Relieful jos și fluxurile mareice creează un mediu dinamic, vital pentru reproducerea a numeroase specii de pești, crustacee și păsări marine. Din punct de vedere istoric, estuarul a fost un punct de intrare crucial pentru comerț și explorare, oferind adăpost navelor. Astăzi, Río Muni rămâne o zonă de importanță strategică pentru pescuitul artizanal și un ecosistem tampon esențial împotriva eroziunii de coastă, reflectând interconexiunea profundă între uscat și mare. Geografie K6, Ecologie K7.",
+      "factsAdvanced": [
+        "Vast estuar format de confluența mai multor râuri continentale.",
+        "Găzduiește ecosisteme extinse de mangrove protejate.",
+        "Zonă critică pentru reproducerea faunei marine și aviare.",
+        "Frontieră naturală maritimă între Guineea Ecuatorială și Gabon.",
+        "Arteră istorică pentru transportul local și comerțul regional.",
+        "Oferă resurse bogate pentru pescuitul tradițional al localnicilor.",
+        "Punct de observație excepțional pentru viața sălbatică de coastă."
+      ]
+    },
+    {
+      "id": "rio-ntem-nature-v2",
+      "descriptionAdvanced": "Râul Ntem este o cale navigabilă transfrontalieră majoră care definește granița de nord a Guineei Ecuatoriale continentale cu Camerunul. Izvorând din zonele înalte ale Gabonului, râul curge prin păduri tropicale dense, formând o barieră naturală impunătoare și un coridor ecologic vital. Cursul său este punctat de insule mici și repezișuri care adaugă la frumusețea sa sălbatică. Ntem este esențial pentru comunitățile de pe ambele maluri, furnizând apă, pește și o rută de transport pentru schimburile locale. Biodiversitatea de-a lungul malurilor sale este remarcabilă, servind ca habitat pentru numeroase specii de animale de pădure care se bazează pe râu pentru subzistență. Protejarea calității apei și a ecosistemelor riverane ale Ntem-ului este o prioritate pentru cooperarea regională în domeniul mediului. Geografie K6, Științe Sociale K7.",
+      "factsAdvanced": [
+        "Marchează granița naturală de nord cu țara vecină Camerun.",
+        "Sursă vitală de resurse piscicole pentru satele de pe maluri.",
+        "Un coridor de biodiversitate care leagă ecosisteme mari de pădure.",
+        "Utilizat pentru transportul local cu pirogi și bărci de mici dimensiuni.",
+        "Caracterizat prin curent variabil și peisaje forestiere virgine.",
+        "Punct cheie pentru comerțul transfrontalier și interacțiunea culturală.",
+        "Habitat pentru numeroase specii de păsări acvatice tropicale."
+      ]
+    },
+    {
+      "id": "elobey-grande-nature-v2",
+      "descriptionAdvanced": "Elobey Grande este o insulă pitorească situată la gura de vărsare a estuarului Río Muni, cunoscută pentru liniștea sa și natura sa de coastă bine conservată. Deși este mai mare decât vecina sa, Elobey Chico, insula rămâne slab populată, oferind un refugiu pentru viața sălbatică și peisaje marine neatinse. Insula este caracterizată de plaje nisipoase alternate cu maluri stâncoase și o vegetație tropicală densă în interior. Ape puțin adânci și bogate în corali înconjoară insula, fiind ideale pentru observarea faunei marine. Din punct de vedere istoric, Elobey Grande a fost un punct strategic pentru comercianți, dar astăzi valoarea sa principală rezidă în ecosistemul său fragil și potențialul său pentru un ecoturism de nișă, respectuos cu mediul. Geografie K6, Istorie K7.",
+      "factsAdvanced": [
+        "Cea mai mare dintre cele două insule Elobey din estuarul Muni.",
+        "Acoperită de vegetație tropicală luxuriantă și păduri de coastă.",
+        "Înconjurată de ape bogate în pește și recife de mici dimensiuni.",
+        "Ofertă peisaje izolate de o frumusețe naturală rară.",
+        "Istoric, a servit ca bază pentru activități comerciale coloniale.",
+        "Locație ideală pentru observarea păsărilor de coastă și marine.",
+        "Reprezintă un ecosistem insular critic în Golful Guineei."
+      ]
+    },
+    {
+      "id": "elobey-chico-nature-v2",
+      "descriptionAdvanced": "Elobey Chico este o insulă mică, dar încărcată de istorie și farmec natural, situată lângă Elobey Grande în golful Corisco. Deși dimensiunile sale sunt reduse, insula a fost odată centrul administrativ al regiunii, urme ale acestui trecut fiind vizibile în ruinele acoperite de vegetație. Astăzi, natura a reafirmat controlul, transformând insula într-un mic sanctuar verde înconjurat de apele calde ale Atlanticului. Plajele sale mici și formațiunile stâncoase oferă habitate pentru crabi și păsări marine, în timp ce interiorul este o junglă în miniatură. Elobey Chico este un loc de o pace absolută, unde istoria umană se împletește cu forța regeneratoare a naturii tropicale, oferind o perspectivă unică asupra trecerii timpului. Istorie K7, Geografie K6.",
+      "factsAdvanced": [
+        "Fost centru administrativ colonial, acum transformat în ruine.",
+        "Insulă mică situată strategic în estuarul râului Muni.",
+        "Înconjurată de ape mici și recife accesibile la reflux.",
+        "Sanctuar pentru biodiversitatea locală și vegetația de coastă.",
+        "Locație simbolică pentru istoria maritimă a Guineei Ecuatoriale.",
+        "Ideală pentru excursii de o zi datorită dimensiunilor reduse.",
+        "Oferă vederi panoramice spectaculoase spre insula Elobey Grande."
+      ]
+    },
+    {
+      "id": "altos-de-nsork-nature-v2",
+      "descriptionAdvanced": "Parcul Național Altos de Nsork este unul dintre cele mai îndepărtate și misterioase sanctuare naturale din Guineea Ecuatorială continentală. Situat în colțul de sud-est, parcul protejează un peisaj de dealuri înalte și păduri tropicale virgine care servesc drept ultim bastion pentru numeroase specii emblematice. Aici, elefanții de pădure rătăcesc liber, iar densitatea primatelor este printre cele mai ridicate din regiune. Terenul este caracterizat prin văi adânci și numeroase cursuri de apă care alimentează bazinele hidrografice vecine. Din cauza izolării sale, Altos de Nsork a rămas în mare parte neatins de activitatea umană modernă, oferind o fereastră rară către ecosistemele originale ale Africii Centrale. Este un sit de o valoare inestimabilă pentru conservarea la scară largă și pentru studierea sistemelor forestiere intacte. Biologie K8, Știința Mediului K7.",
+      "factsAdvanced": [
+        "Zonă protejată majoră situată în extremitatea sud-estului țării.",
+        "Habitat esențial pentru elefanții de pădure și gorile.",
+        "Caracterizat printr-un relief deluros și păduri primare dense.",
+        "Unul dintre cele mai puțin explorate parcuri naționale din Africa.",
+        "Sursă critică pentru numeroase cursuri de apă regionale.",
+        "Sanctuar pentru biodiversitate datorită accesului dificil.",
+        "Pilon al strategiei naționale pentru protejarea naturii virgine."
+      ]
+    },
+    {
+      "id": "rio-wele-nature-v2",
+      "descriptionAdvanced": "Râul Wele, cunoscut și sub numele de Benito în cursul său inferior, este coloana vertebrală hidrologică a Guineei Ecuatoriale continentale. Traversând teritoriul de la est la vest, râul sculptează peisajul forestier, creând văi fertile și cascade impresionante pe parcursul său. Wele este vital pentru viața sălbatică, oferind o sursă constantă de apă și hrană, dar și pentru populația umană care se bazează pe râu pentru agricultură și pescuit. Cursul său superior este marcat de repezișuri sălbatice, în timp ce spre coastă devine o arteră calmă și maiestuoasă. Râul joacă un rol central în economia națională prin potențialul său hidroenergetic, barajul Djibloho fiind o dovadă a importanței sale strategice. Wele rămâne un simbol al forței vitale a naturii în Río Muni. Geografie K6, Economie K7.",
+      "factsAdvanced": [
+        "Principalul curs de apă care traversează continentul de la est la vest.",
+        "Alimentează baraje hidroelectrice majore precum cel de la Djibloho.",
+        "Coridor ecologic vital pentru fauna de pădure și specii acvatice.",
+        "Sursă de apă indispensabilă pentru agricultura din interiorul țării.",
+        "Prezintă peisaje variate, de la chei adânci la câmpii line.",
+        "Artera centrală a bazinului hidrografic al regiunii Río Muni.",
+        "Numele râului dă denumirea provinciei estice Wele-Nzas."
+      ]
+    },
+    {
+      "id": "cascadas-de-moca-nature-v2",
+      "descriptionAdvanced": "Cascadele de la Moca sunt o serie de căderi de apă spectaculoase situate în zonele înalte din sudul insulei Bioko, lângă satul pitoresc Moca. Alimentate de precipitațiile abundente ale platoului, cascadele se revarsă peste stânci vulcanice abrupte în inima unei jungle luxuriante. Sunetul apei și atmosfera răcoroasă creează un refugiu natural de o frumusețe rară. Zona din jurul cascadelor este bogată în ferigi gigantice și plante tropicale care prosperă în mediul umed. Aceste cascade nu sunt doar o atracție vizuală, ci și o parte importantă a sistemului hidrologic care alimentează sudul insulei. Pentru vizitatori, cascadele de la Moca reprezintă o destinație de ecoturism de top, oferind o conexiune directă cu energia pură a peisajului vulcanic din Bioko. Geografie K6, Știința Mediului K7.",
+      "factsAdvanced": [
+        "Grup de căderi de apă pitorești în zonele înalte din Bioko Sur.",
+        "Alimentate de fluxurile constante de pe Platoul Moca.",
+        "Înconjurate de vegetație luxuriantă și păduri tropicale de munte.",
+        "Destinație populară pentru drumeții și pasionații de fotografie.",
+        "Contribuie la microclimatul umed și răcoros al regiunii.",
+        "Parte a rețelei hidrografice naturale a regiunii sudice a insulei.",
+        "Accesibile prin poteci ce oferă vederi spectaculoase asupra muntelui."
+      ]
+    },
+    {
+      "id": "arenas-blancas-nature-v2",
+      "descriptionAdvanced": "Arenas Blancas este una dintre cele mai frumoase și neatinse plaje de pe coasta vestică a insulei Bioko, lângă orașul Luba. Numele său, 'Nisipuri Albe', descrie perfect întinderea de țărm imaculat care contrastează puternic cu apele azurii ale Atlanticului și verdele intens al pădurii tropicale care ajunge până la marginea apei. Spre deosebire de plajele vulcanice negre din nord, Arenas Blancas oferă un aspect tropical clasic și liniștit. Este un loc preferat pentru localnici și turiști deopotrivă pentru relaxare, dar și un habitat important pentru crabii de coastă și păsările marine. Conservarea acestui colț de paradis este esențială pentru menținerea atractivității naturale a insulei și pentru protejarea ecosistemelor fragile de coastă. Geografie K6, Ecologie K7.",
+      "factsAdvanced": [
+        "Faimoasă pentru nisipul său neobișnuit de alb și fin pe Bioko.",
+        "Situată strategic pe coasta vestică, la sud de orașul Luba.",
+        "Destinație de top pentru recreere și turism sustenabil.",
+        "Înconjurată de o pădure tropicală densă care oferă umbră naturală.",
+        "Ape calme și sigure, ideale pentru înot și relaxare.",
+        "Unul dintre cele mai fotografiate peisaje de coastă din țară.",
+        "Habitat critic pentru fauna locală de plajă și păsări marine."
+      ]
+    },
+    {
+      "id": "monte-mitra-nature-v2",
+      "descriptionAdvanced": "Monte Mitra este un vârf muntos proeminent și bogat în biodiversitate situat în sud-vestul Guineei Ecuatoriale continentale, făcând parte din zona de protecție a Parcului Național Monte Alén. Acest munte este caracterizat de pante abrupte și o pădure de ceață persistentă la altitudinile superioare, ceea ce a dus la dezvoltarea unui ecosistem unic. Este un refugiu important pentru primate, inclusiv gorile și cimpanzei, care găsesc aici hrană și adăpost departe de activitățile umane. Relieful muntelui contribuie la captarea precipitațiilor, alimentând numeroase pârâuri care curg spre râul Benito. Monte Mitra reprezintă un bastion al conservării, fiind un exemplu de natură sălbatică intactă care este esențială pentru menținerea sănătății ecologice a regiunii Río Muni. Biologie K8, Geografie K7.",
+      "factsAdvanced": [
+        "Vârf muntos major în cadrul sistemului Parcului Național Monte Alén.",
+        "Acoperit de pădure tropicală primară și pădure de ceață.",
+        "Habitat vital pentru marii antropoizi și specii endemice de plante.",
+        "Important pentru sistemul hidrologic al bazinului râului Benito.",
+        "Prezintă un relief accidentat care a conservat natura neatinsă.",
+        "Punct central pentru studiile de ecologie montană în țară.",
+        "Oferă o barieră naturală protectoare pentru interiorul parcului."
+      ]
+    },
+    {
+      "id": "golfo-de-guinea-nature-v2",
+      "descriptionAdvanced": "Golful Guineei este vastul mediu marin care înconjoară și definește geografia Guineei Ecuatoriale, conectând partea sa continentală cu insulele sale. Această regiune a Oceanului Atlantic este extrem de productivă datorită curenților marini care aduc nutrienți, susținând una dintre cele mai bogate zone de pescuit din lume. Apele golfului sunt populate de o diversitate uimitoare, de la bancuri uriașe de ton la balene cu cocoașă care migrează prin aceste ape în fiecare an. Dincolo de bogăția biologică, golful deține rezerve masive de hidrocarburi care au transformat economia națională. Importanța sa este deopotrivă ecologică, economică și climatică, golful influențând direct regimul de precipitații și temperatură al țării. Protejarea mediului marin din Golful Guineei este o provocare globală și o necesitate națională. Geografie K6, Economie K7.",
+      "factsAdvanced": [
+        "Bazin marin major din estul Oceanului Atlantic tropical.",
+        "Sursă principală de venituri prin resursele de petrol și gaze.",
+        "Zonă de pescuit de importanță internațională pentru diverse specii.",
+        "Rută de migrație esențială pentru mamifere marine mari.",
+        "Influențează direct climatul tropical umed al țării.",
+        "Cadrul geografic care unește teritoriile insulare de cel continental.",
+        "Nod strategic pentru transportul maritim global și regional."
+      ]
+    },
+    {
+      "id": "rio-campo-nature-v2",
+      "descriptionAdvanced": "Râul Campo, situat în extremitatea nordică a Guineei Ecuatoriale continentale, servește drept graniță naturală cu Camerunul și se varsă în Oceanul Atlantic printr-un estuar spectaculos. Această zonă este protejată sub numele de Rezervația Naturală Río Campo, fiind un sanctuar critic pentru biodiversitatea de coastă. Estuarul și pădurile de mangrove înconjurătoare sunt locuri esențiale de hrănire și reproducere pentru manati, țestoase marine și numeroase specii de păsări migratoare. Peisajul este unul de o frumusețe sălbatică, unde râul șerpuiește prin zone joase înainte de a întâlni nisipurile de la gura de vărsare. Río Campo reprezintă un exemplu de cooperare transfrontalieră pentru protecția speciilor amenințate și a habitatelor unice de zonă umedă. Geografie K6, Ecologie K7.",
+      "factsAdvanced": [
+        "Râu de frontieră situat în partea cea mai nordică a țării.",
+        "Găzduiește o rezervație naturală dedicată protecției manatilor.",
+        "Zonă de importanță majoră pentru cuibăritul țestoaselor marine.",
+        "Ecosistem bogat de mangrove la întâlnirea râului cu oceanul.",
+        "Baza pentru activități de cercetare marină și conservare.",
+        "Oferă resurse piscicole valoroase comunităților de coastă.",
+        "Peisaj pitoresc marcat de interacțiunea dintre apă dulce și sărată."
+      ]
+    },
+    {
+      "id": "estuario-de-malabo-nature-v2",
+      "descriptionAdvanced": "Estuarul Malabo este un sistem de golfuri și brațe de mare situat pe coasta de nord a insulei Bioko, servind drept cadru natural pentru capitala țării. Din punct de vedere geologic, estuarul s-a format prin pătrunderea apelor oceanului în depresiunile vulcanice, creând porturi naturale adânci și protejate. Malurile estuarului au fost istoric acoperite de vegetație de coastă densă, dar astăzi sunt inima activității comerciale și logistice. În ciuda urbanizării intense, estuarul rămâne o trăsătură geografică definitorie, asigurând legătura vitală a insulei cu rutele comerciale globale. Managementul apelor estuarului și al zonelor de coastă limitrofe este esențial pentru sănătatea urbană și succesul economic al orașului Malabo. Geografie K6, Economie K7.",
+      "factsAdvanced": [
+        "Port natural de mare adâncime, crucial pentru navigația pe insulă.",
+        "Cadru geografic definitoriu pentru dezvoltarea capitalei Malabo.",
+        "Format prin procese geologice vulcanice și eroziune marină.",
+        "Nod central pentru logistica maritimă și comerțul internațional.",
+        "Găzduiește facilități portuare moderne de importanță națională.",
+        "Asigură adăpost navelor împotriva curenților puternici din golf.",
+        "Zonă de interfață critică între infrastructura urbană și ocean."
+      ]
+    },
+    {
+      "id": "monte-temelon-nature-v2",
+      "descriptionAdvanced": "Rezervația Naturală Monte Temelón este o zonă protejată semnificativă situată în interiorul regiunii Río Muni, cunoscută pentru biodiversitatea sa remarcabilă și peisajul forestier dens. Muntele și zonele înconjurătoare servesc ca un refugiu vital pentru fauna sălbatică, oferind habitate neperturbate pentru diverse specii de păsări și mamifere de pădure. Monte Temelón joacă un rol important în reglarea microclimatului local și în menținerea calității solului în regiunea agricolă din Centro Sur. Eforturile de conservare aici sunt orientate către protejarea pădurii primare împotriva exploatării nesustenabile, asigurând că resursele genetice și naturale ale zonei sunt păstrate pentru viitor. Este un exemplu de importanță a ariilor protejate din interiorul țării pentru echilibrul ecologic național. Biologie K8, Știința Mediului K7.",
+      "factsAdvanced": [
+        "Rezervație naturală importantă în provincia Centro Sur.",
+        "Protejează ecosisteme forestiere primare de mare valoare.",
+        "Sanctuar pentru numeroase specii de mamifere și păsări tropicale.",
+        "Contribuie la stabilitatea hidrologică a regiunilor agricole vecine.",
+        "Zona centrală a eforturilor de conservare în interiorul continentului.",
+        "Oferă oportunități pentru studiul ecologiei pădurii tropicale.",
+        "Menține un microclimat umed esențial pentru biodiversitate."
+      ]
+    },
+    {
+      "id": "bosque-de-ureca-nature-v2",
+      "descriptionAdvanced": "Pădurea de la Ureca, situată în sudul extrem al insulei Bioko, este una dintre cele mai umede și mai sălbatice regiuni de pe pământ. Această pădure tropicală pluvială primește cantități astronomice de precipitații, rezultând într-o vegetație de o densitate și o bogăție extraordinară. Relieful este unul accidentat, marcat de cascade uimitoare care se varsă direct pe plajele cu nisip negru vulcanic. Pădurea Ureca este celebră pentru că este locul principal de cuibărit al țestoaselor marine, dar și pentru biodiversitatea sa incredibilă de plante endemice. Accesul limitat a păstrat această zonă ca pe un sanctuar al naturii pure, unde sunetul ploii și al cascadelor domină peisajul. Este o destinație de vis pentru ecoturismul de aventură și un pilon pentru cercetarea ecologică globală. Geografie K7, Biologie K8.",
+      "factsAdvanced": [
+        "Una dintre cele mai ploioase locații de pe întreg globul.",
+        "Faimoasă pentru plajele de cuibărit ale țestoaselor marine gigante.",
+        "Prezintă cascade spectaculoase care se varsă direct în ocean.",
+        "Sanctuar pentru vegetația de pădure tropicală extrem de densă.",
+        "Situată în provincia izolată și muntoasă Bioko Sur.",
+        "Locație cheie pentru proiecte internaționale de conservare.",
+        "Oferă un peisaj dramatic de o frumusețe naturală copleșitoare."
+      ]
+    },
+    {
+      "id": "rio-kie-nature-v2",
+      "descriptionAdvanced": "Râul Kié este o cale navigabilă semnificativă situată în colțul de nord-est al Guineei Ecuatoriale continentale, servind drept graniță naturală cu Gabonul. Râul curge printr-un peisaj de păduri tropicale intacte și terenuri agricole tradiționale, fiind o sursă vitală de viață pentru comunitățile Fang din regiune. Kié este cunoscut pentru apele sale calme și abundența de pește, asigurând securitatea alimentară locală. Biodiversitatea de-a lungul cursului său este ridicată, râul funcționând ca un coridor pentru fauna care se deplasează între marile blocuri forestiere din est. Fiind un râu de frontieră, Kié joacă, de asemenea, un rol în schimburile transfrontaliere și în managementul resurselor partajate între cele două națiuni vecine. Geografie K6, Științe Sociale K7.",
+      "factsAdvanced": [
+        "Marchează frontiera naturală de est cu statul vecin Gabon.",
+        "Sursă primară de apă și hrană pentru comunitățile din regiune.",
+        "Traversează o zonă de pădure tropicală primară bogată în specii.",
+        "Important pentru transportul local cu ambarcațiuni tradiționale.",
+        "Nod ecologic ce leagă habitatele forestiere din Africa Centrală.",
+        "Sursă de inspirație pentru cultura și tradițiile locale Fang.",
+        "Protejarea bazinului său este crucială pentru echilibrul regional."
+      ]
+    },
+    {
+      "id": "rio-lanen-nature-v2",
+      "descriptionAdvanced": "Râul Lanen este un afluent important al sistemului hidrografic din regiunea Río Muni, contribuind la drenajul eficient al platoului interior. Cursul său străbate zone dens împădurite, creând habitate riverane bogate care susțin o varietate de viață sălbatică, de la păsări exotice la mamifere mici. Râul este esențial pentru satele din apropiere, furnizând apă pentru uz casnic și irigarea micilor ferme de subzistență. Peisajul de-a lungul râului Lanen este tipic pentru interiorul continentului, cu o vegetație luxuriantă care atârnă deasupra apei calme. Deși mai puțin cunoscut decât marile râuri precum Benito, Lanen joacă un rol indispensabil în menținerea sănătății ecologice locale și în susținerea biodiversității forestiere din inima Guineei Ecuatoriale. Geografie K6, Ecologie K7.",
+      "factsAdvanced": [
+        "Afluent semnificativ al rețelei hidrografice continentale.",
+        "Sursă vitală de apă pentru agricultura de subzistență locală.",
+        "Habitat pentru numeroase specii de păsări și faună acvatică.",
+        "Cursul său este caracterizat prin vegetație riverană densă.",
+        "Contribuie la debitul total al sistemelor fluviale majore.",
+        "Important pentru echilibrul ecologic al provinciei Centro Sur.",
+        "Zona este propice pentru explorarea naturii și cercetare locală."
+      ]
+    },
+    {
+      "id": "estuario-de-mbini-nature-v2",
+      "descriptionAdvanced": "Estuarul Mbini este punctul spectaculos unde râul Benito, cel mai mare râu de pe continent, se întâlnește cu Oceanul Atlantic. Această trăsătură geografică impunătoare este definită de un pod modern care îl traversează, oferind vederi panoramice asupra întinderii vaste de apă și a mangrovelor verzi de pe margini. Estuarul este un nod biologic crucial, acționând ca o pepinieră pentru speciile marine și un loc de odihnă pentru păsările migratoare. Ape amestecate, dulci și sărate, susțin o productivitate ridicată, făcând din Mbini un centru pentru pescuitul artizanal. Frumusețea peisajului, marcată de apusuri uimitoare și de activitatea pirogilor tradiționale, face din acest estuar un simbol al coastei continentale și un sit cu un imens potențial turistic. Geografie K6, Economie K7.",
+      "factsAdvanced": [
+        "Punctul de vărsare al râului Benito în Oceanul Atlantic.",
+        "Traversat de podul Mbini, o lucrare majoră de infrastructură.",
+        "Găzduiește ecosisteme bogate de mangrove și zone umede.",
+        "Centru vital pentru pescuitul local și economia de coastă.",
+        "Habitat critic pentru reproducerea numeroaselor specii de pești.",
+        "Oferă peisaje pitorești de o frumusețe naturală rară.",
+        "Punct de referință geografic și turistic în provincia Litoral."
+      ]
+    }
+  ]
+}

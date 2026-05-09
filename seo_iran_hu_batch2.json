@@ -1,0 +1,129 @@
+{
+  "lang": "hu",
+  "country": "iran",
+  "files": [
+    "lib/visualLab/data/poiExtraIranCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sanandaj-cities-v2",
+      "descriptionAdvanced": "Képzeld el egy élénk és büszke várost a hegyek szívében, amely az iráni kurd kultúra dobogó központja. Szanandadzs Kurdisztán tartomány fővárosa, amelyet a Zagrosz-hegység gyönyörű, ám zord csúcsai vesznek körül. A város a zene, a tánc és az ősi hagyományok fellegvára; utcáin sétálva gyakran hallani a hagyományos kurd hangszerek dallamait. Bár viszonylag fiatal város, melyet a 17. században alapítottak, gazdag történelmi építészettel, gyönyörű mecsetekkel és hagyományos bazárokkal büszkélkedhet. A környező zöldellő hegyek, mint az Abidar-hegy, népszerű túrázóhelyek a helyiek számára, lenyűgöző panorámát nyújtva a völgyre. Társadalomismeret K7 — a kurd kultúra és kisebbségi hagyományok.",
+      "factsAdvanced": [
+        "A várost egy híres szafavida kori kormányzó, Szulejmán kán alapította 1636-ban.",
+        "Szanandadzs lakosságának döntő többsége kurd és a szunnita iszlámot követi.",
+        "Az Abidar-hegy, amely a város fölé magasodik, egy kiterjedt rekreációs parkkal rendelkezik.",
+        "A város híres egyedi fafaragványairól (Orosi) és gyönyörű, kézzel készített szőnyegeiről.",
+        "A Jameh mecset (Péntek mecset) lenyűgöző csempézésével a Qajar-korszak kiemelkedő emléke.",
+        "Szanandadzs 2019-ben felkerült az UNESCO kreatív városok hálózatába, mint a zene városa."
+      ]
+    },
+    {
+      "id": "qazvin-cities-v2",
+      "descriptionAdvanced": "Sétálj végig Irán egyik történelmi fővárosának utcáin, ahol minden kő a Szafavida Birodalom fénykoráról mesél. Kazvin, amely Teherántól nyugatra, az Alborz-hegység lábánál fekszik, stratégiai elhelyezkedésének köszönhetően évszázadokon át fontos kereskedelmi csomópont volt. A város egy igazi építészeti kincsesbánya; itt található a csodálatos Csehel Szotun (Negyven Oszlop) palota, amely még Iszfahán előtt a szafavida uralkodók rezidenciájaként szolgált. A hatalmas, felújított szafavida kori karavánszeráj, a Sza'd al-Szaltaneh ma gyönyörű kézműves piacként várja a látogatókat. Kazvin egyben a perzsa kalligráfia fővárosa is, ahonnan a leghíresebb mesterek származtak. Történelem K8 — a Szafavida Birodalom és a művészetek fejlődése.",
+      "factsAdvanced": [
+        "Kazvin a 16. század második felében, I. Tahmászp sah alatt a Szafavida Birodalom fővárosa volt.",
+        "A várost állítólag I. Sápúr szászánida király alapította a 3. században.",
+        "A Sza'd al-Szaltaneh karavánszeráj Irán legnagyobb fedett, városi karavánszerája.",
+        "Kazvint az iráni kalligráfia fővárosaként (Paytakht-e Khoshnevisi) is emlegetik.",
+        "A város környéke híres a kiváló minőségű szőlőről és pisztáciáról.",
+        "Északra húzódik az Alamut-völgy, a híres asszaszinok egykori hegyi erődítményeinek otthona."
+      ]
+    },
+    {
+      "id": "khorramabad-cities-v2",
+      "descriptionAdvanced": "Láss magad előtt egy ősi várost, amelyet mély völgyek és csörgedező források ölelnek körül, és felette egy bevehetetlen szászánida erőd őrködik. Horramábád, Loresztán tartomány fővárosa, a zord Zagrosz-hegység szívében fekszik. A város leginkább a dombtetőn magasodó Falak-ol-Aflak kastélyról ismert, amely évezredeken át védte a régiót és szolgált börtönként is. A város körül elterülő régió a lur népcsoport otthona, akik híresek egyedi bronzművességükről, zenei hagyományaikról és nomád gyökereikről. A környéken zubogó vízesések, mint a Biseh-vízesés, és a tiszta hegyi tavak lélegzetelállító természeti csodákká varázsolják a tájat. Földrajz K7 — hegyvidéki erődök és a lur népesség élettere.",
+      "factsAdvanced": [
+        "A lenyűgöző Falak-ol-Aflak (Az Egek Ege) erőd a Szászánida korszakban, a 3. század körül épült.",
+        "Horramábád az ősi Elám és Kassita civilizációk egykori területén fekszik.",
+        "A város egy völgyben helyezkedik el, körülbelül 1147 méteres magasságban.",
+        "A Luristan (Loresztán) régió világhírű az i. e. 1. évezredből származó különleges bronz tárgyairól.",
+        "A városban a lakosság a luri nyelvet, a perzsa egy archaikus dialektusát beszéli.",
+        "A régiót gyakran Irán vízeséseinek tartományaként emlegetik bőséges forrásai miatt."
+      ]
+    },
+    {
+      "id": "gorgan-cities-v2",
+      "descriptionAdvanced": "Gondolj egy olyan északi városra, ahol a tenger felől érkező pára sűrű, zöldellő erdőket táplál, éles kontrasztban az ország sivatagaival. Gorgán, Golesztán tartomány fővárosa, a Kaszpi-tenger közelében, az Alborz-hegység buja, északi lejtőinél található. A város klímája szubtrópusi, ami kedvez a pamut-, rizs- és dohánytermesztésnek. Építészetében nyomokban fellelhetők a hagyományos, cseréptetős, fa erkélyes házak, amelyek védelmet nyújtanak a bőséges esőzések ellen. Gorgán közelében húzódik a Nagy Gorgáni Fal maradványa, amely a Kínai Nagy Fal után a világ második leghosszabb védelmi vonala volt az ókorban. Környezetismeret K8 — hegyvidéki esőerdők és ókori védművek.",
+      "factsAdvanced": [
+        "A várost régebben Asztarábád néven ismerték, a Gorgán nevet az 1930-as években kapta vissza.",
+        "A Nagy Gorgáni Falat a Szászánidák építették az 5-6. században az északi nomádok ellen.",
+        "A közeli Golesztán Nemzeti Park Irán egyik legrégebbi és legnagyobb természetvédelmi területe.",
+        "A régióban egyedülálló, zárt lombkoronájú \"Hürkániai erdők\" találhatók, amelyek UNESCO Világörökségek.",
+        "A város lakossága rendkívül sokszínű: perzsák, türkmének, kazahok és mazandarániak élnek itt.",
+        "A hagyományos építészetben a széles, kinyúló tetőszerkezet a gyakori esőzések miatt alakult ki."
+      ]
+    },
+    {
+      "id": "sari-cities-v2",
+      "descriptionAdvanced": "Képzelj el egy pezsgő kereskedővárost, amely a Kaszpi-tenger partvidékének gazdag mezőgazdasági területeit köti össze az Alborz-hegységgel. Szári, Mázandarán tartomány fővárosa, az egyik legrégebbi város Irán északi részén. A város hangulatát a tengeri klíma, az élénk piacok és a narancsfákkal övezett utcák határozzák meg. A helyi bazár tele van a régió bőséges terményeivel: friss hallal, kaviárral, citrusfélékkel és olajbogyóval. Bár Szári sokszor elszenvedte földrengések és hódítók pusztítását, ma egy modern, gyorsan fejlődő város, ahol az óratorony és a Qajar-kori kúriák emlékeztetnek a gazdag múltra. Földrajz K8 — a Kaszpi-tenger partvidékének mezőgazdasága.",
+      "factsAdvanced": [
+        "Szári története több mint 2500 évre nyúlik vissza a történészek szerint.",
+        "A település Agha Mohammad Kán, a Kádzsár-dinasztia alapítójának első fővárosa volt rövid ideig.",
+        "A városból származik Irán kaviár- és haltermelésének jelentős része.",
+        "Szári nyaranta meleg és rendkívül párás, míg a telek enyhék és esősek.",
+        "A közeli Badab-e Szurt teraszos, sós vizű forrásai a régió különleges természeti látványosságai.",
+        "Az Iráni Nemzeti Vasúttársaság északi vonala áthalad a városon, lenyűgöző hegyi útvonalakon."
+      ]
+    },
+    {
+      "id": "shahriar-cities-v2",
+      "descriptionAdvanced": "Gondolj egy hatalmas, zöldellő oázisra a modern betondzsungel peremén. Sahrijár, Teherán egyik legnagyobb és legfontosabb elővárosa, gyakran a főváros \"tüdejeként\" vagy \"gyümölcsöskertjeként\" emlegetik. A város rengeteg mezőgazdasági területet, hatalmas gyümölcsösöket és fákkal borított parkokat foglal magába. Főként szilva-, cseresznye- és sárgabarackültetvényei révén az egész teheráni régió egyik legfőbb frissáru-ellátója. Noha közigazgatásilag külön áll, élete ezer szálon kötődik a fővároshoz; lakosainak jelentős része naponta ingázik. A modern lakóparkok és a hagyományos kertek kettőssége sajátos átmeneti hangulatot kölcsönöz a településnek. Társadalomföldrajz K7 — metropoliszok élelmiszerellátása és zöldövezetek.",
+      "factsAdvanced": [
+        "Sahrijár megye Irán egyik leggyorsabban növekvő népességű közigazgatási egysége.",
+        "A várost gyakran Irán egyik legfontosabb csonthéjas gyümölcstermelő központjaként tartják számon.",
+        "A település Teherán tartomány délnyugati részén, a metropolisz közvetlen szomszédságában fekszik.",
+        "Bár iparosodik, a gazdaság alapját még mindig a kiterjedt gyümölcsösök jelentik.",
+        "A tiszta levegő és a kertek miatt sok teheráni vásárol itt hétvégi házat.",
+        "A térségben ókori történelmi dombokat (tepéket) is feltártak a régészek."
+      ]
+    },
+    {
+      "id": "kashan-cities-v2",
+      "descriptionAdvanced": "Lépj be abba a sivatag peremén fekvő oázisvárosba, amelynek neve egybeforrt a legfinomabb perzsa szőnyegekkel és a rózsavízzel. Kásán lenyűgöző történelmi örökséggel bír, utcáin a 19. századi gazdag kereskedők fényűző házai (mint a Tabatabaei és a Borujerdi kúria) sorakoznak, amelyek az iráni építészet csúcspontjai gyönyörű stukkóikkal és szélfogó tornyaikkal. Tavasszal a várost belengi a damaszkuszi rózsák illata a híres rózsavíz-készítő fesztivál idején. A város határában található a Fin Kert, amely Irán egyik legrégebbi fennmaradt perzsa kertje, az UNESCO Világörökség része, mely a víz és a sivatagi árnyék tökéletes harmóniáját kínálja. Történelem K8 — hagyományos perzsa kertek és a kereskedő elit élete.",
+      "factsAdvanced": [
+        "A közeli Sialk zikkurat (Tepe Sialk) romjai több mint 7000 évesek, a világ egyik legrégebbi települése.",
+        "A kásáni Fin Kert a klasszikus, négyrészes perzsa kert (Chahar Bagh) kiemelkedő példája.",
+        "A város minden tavasszal a hagyományos Golabgiri, azaz a rózsavíz lepárlásának központja.",
+        "Kásán a Szafavida-kori szőnyegszövés központja volt, ahol a híres \"polonéz\" szőnyegek egy része készült.",
+        "A Tabatabaei-házat a 19. században építette egy gazdag szőnyegkereskedő, 40 szobával rendelkezik.",
+        "Nagy Abbász sah kérésére itt temették el, a Szafavida uralkodó tisztelete jeléül."
+      ]
+    },
+    {
+      "id": "dezful-cities-v2",
+      "descriptionAdvanced": "Képzeld el azt az ősi várost a perzselő délnyugaton, amelyet egy hatalmas, még az ókorban épült híd köt össze, és amelynek mélyén föld alatti járatok hűsítik a lakosokat. Dezfúl, a Dez folyó partján, Huzesztán tartomány egyik legrégebbi városa. A városképet évszázadok óta a \"qamesh\" nevű, folyóból kivezetett ősi vízvezetékek és a hagyományos téglaépítészet jellemzi. A Dezfúli híd maradványai, amelyet római hadifoglyok építettek a 3. században Szászánida parancsra, még ma is állnak. A nyári 50 fokos hőség ellen a lakosok a \"Shavadun\" nevű, sokszor több emelet mélységű föld alatti pincékbe húzódnak vissza. Történelem K7 — ókori római-perzsa építészet és sivatagi túlélés.",
+      "factsAdvanced": [
+        "A várost gyakran \"a téglák városának\" is nevezik egyedi, hagyományos építészete miatt.",
+        "A Dezfúli ókori híd az egyik legrégebbi fennmaradt híd a világon, amelyen még ma is részben lehet közlekedni.",
+        "A római kori hidat I. Sápúr szászánida király építtette a valeriánus császár felett aratott győzelme után.",
+        "A város különleges földalatti pincehálózata (Shavadun) nyáron természetes hűsölést biztosít.",
+        "Dezfúl híres a régióban a magas minőségű mezőgazdaságáról, különösen a citrusfélékről.",
+        "Az iraki-iráni háborúban a várost gyakran bombázták, így a \"rakéták városaként\" is hivatkoztak rá."
+      ]
+    },
+    {
+      "id": "neyshabur-cities-v2",
+      "descriptionAdvanced": "Lépj egy olyan város földjére, amely a történelem folyamán a művészetek, a költészet és a kék türkiz igazi fővárosa volt. Nisápur, Horászán tartományban, a Selyemút egyik legfontosabb kulturális központjaként virágzott, mielőtt a mongolok a 13. században porig rombolták. Itt élt és alkotott a világhírű perzsa költő, csillagász és matematikus, Omar Khajjám, akinek modern mauzóleuma ma zarándokhely. A város környéke ad otthont a világ legősibb és leghíresebb türkizbányáinak, amelyeket több mint kétezer éve folyamatosan művelnek, és a nisápuri türkiz ma is a minőség szinonimája. Bár dicsősége a múlté, történelmi szellemisége mind a mai napig áthatja a várost. Történelem K8 — a mongol hódítások és a muszlim tudományok virágzása.",
+      "factsAdvanced": [
+        "Nisápurt a 3. században a Szászánida uralkodó, I. Sápúr alapította vagy építette újjá.",
+        "A 11. században az iszlám világ egyik legnagyobb és leggazdagabb városa volt, azonos rangú Bagdaddal.",
+        "A várost 1221-ben Dzsingisz kán seregei teljesen elpusztították egy pusztító ostrom során.",
+        "Omar Khajjám (1048–1131), a híres Rubáiyát (Négysorosok) szerzője a város szülötte volt.",
+        "A nisápuri türkizbányák a legtisztább minőségű kék drágakövet adják évezredek óta.",
+        "Attár, egy másik kiemelkedő perzsa szufi költő szintén itt élt, és mauzóleuma a városban található."
+      ]
+    },
+    {
+      "id": "ilam-cities-v2",
+      "descriptionAdvanced": "Képzelj el egy elszigetelt, nyugodt várost, amely a zord, tölgyerdőkkel borított hegyek közé ékelődik Irán nyugati határvidékén. Ilám tartomány azonos nevű fővárosa egy viszonylag új település, mely a 20. században nőtt várossá a környező hegyek nomád pásztorai számára. A város az ősi elámi civilizáció nevét viseli, bár közvetlen történelmi folytonosság nincs közöttük. Ilám lenyűgöző természeti környezettel, meredek szurdokokkal és tiszta hegyi folyókkal büszkélkedhet, ami kiváló célponttá teszi a természet szerelmeseinek. A város lakosainak többsége síita kurd, akik őrzik erős törzsi hagyományaikat, népzenéjüket és a hagyományos fekete sátrak, a \"Siah Chaador\" emlékét. Társadalomföldrajz K7 — nomád hagyományok és a hegyvidéki pásztorkodás.",
+      "factsAdvanced": [
+        "Ilám városa körülbelül 1319 méteres magasságban fekszik a Zagrosz-hegység nyugati peremén.",
+        "A várost eredetileg Deh-e Bala (Felső Falu) néven ismerték, a modern Ilám a 20. században épült ki.",
+        "A tartományban kiterjedt kőolaj- és földgáztartalékok találhatók, melyek fontosak Irán gazdaságának.",
+        "A lakosság nagy része a kurd nyelv déli dialektusát, a feylit beszéli.",
+        "A régiót sűrű iráni tölgyerdők borítják, amelyek a helyi ökoszisztéma gerincét adják.",
+        "Az iraki-iráni háború miatt a település infrastruktúrája súlyos károkat szenvedett a nyolcvanas években."
+      ]
+    }
+  ]
+}

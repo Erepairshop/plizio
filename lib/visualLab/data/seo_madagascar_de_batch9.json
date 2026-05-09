@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "massif-des-makay-nature-v2",
+      "descriptionAdvanced": "Das Makay-Massiv im Südwesten Madagaskars ist eines der spektakulärsten und unzugänglichsten Reliefs der Erde. Dieses gigantische Labyrinth aus gelbem Sandstein wurde über Jahrmillionen durch Erosion in hunderte tiefe Canyons und messerscharfe Grate zerlegt. In den feuchten Tälern dieses 'verlorenen Gebirges' haben isolierte Regenwaldinseln und seltene Tierarten überlebt, die im Rest des trockenen Westens längst verschwunden sind. Das Relief ist so komplex, dass es erst vor wenigen Jahrzehnten vollständig kartiert wurde. Makay ist ein Paradebeispiel für orographische Isolation und bietet eine Landschaft von archaischer Wildheit, die einen entscheidenden Rückzugsort für die madagassische Biodiversität darstellt. Geografie K8 — Sandstein-Geomorphologie und Evolution.",
+      "factsAdvanced": [
+        "Eines der am wenigsten erforschten Gebirgsmassive der Welt",
+        "Besteht aus einem weitläufigen Labyrinth von Sandstein-Canyons",
+        "Gilt als ökologisches Refugium für bedrohte prähistorische Arten",
+        "Erosion hat vertikale Wände von über 200 Metern Tiefe geschaffen",
+        "Wichtigstes Untersuchungsgebiet für die Evolution von Lemuren",
+        "Wasserquellen in den Canyons speisen die Flüsse der Menabe-Region",
+        "Landschaft ist durch extreme Trockenheit und feuchte Oasen geprägt",
+        "Symbol für den Kampf um den Erhalt der letzten Wildnis Madagaskars"
+      ]
+    },
+    {
+      "id": "montagne-ambre-nature-v2",
+      "descriptionAdvanced": "Der Nationalpark Montagne d'Ambre im Norden Madagaskars ist ein isolierter Vulkanberg, der von üppigem Bergregenwald bedeckt ist. Inmitten einer ansonsten trockenen Region fängt das Massiv die Feuchtigkeit der Passatwinde ein und fungiert als riesiger 'Wasserturm' für die Stadt Antsiranana. Das Relief ist geprägt durch Kraterseen, spektakuläre Wasserfälle wie den Petit Galet und dichten Dschungel, in dem hunderte Orchideenarten und Lemuren wie der Kronenmaki leben. Der Park ist zudem berühmt für seine enorme Vielfalt an Chamäleons, darunter das winzige Brookesia micra. Montagne d'Ambre ist ein Paradebeispiel für ein Gebirgsmikroklima und dessen Bedeutung für die regionale Wasserversorgung. Biologie K7 — Gebirgsregenwälder und endemische Vielfalt.",
+      "factsAdvanced": [
+        "Erster Nationalpark Madagaskars, gegründet im Jahr 1958",
+        "Isoliertes Vulkanmassiv mit Höhen bis zu 1.475 Metern",
+        "Beherbergt sechs Kraterseen und zahlreiche Wasserfälle",
+        "Wichtigstes Wasserreservoir für den trockenen Norden der Insel",
+        "Heimat von sieben Lemurenarten, darunter der Sanford-Maki",
+        "Weltberühmt für die Sichtung des kleinsten Chamäleons der Erde",
+        "Geprägt durch einen ganzjährigen Nebelwald mit riesigen Baumfarnen",
+        "Bedeutender Standort für die botanische Forschung in den Tropen"
+      ]
+    },
+    {
+      "id": "montagne-dambre-relief-v2",
+      "descriptionAdvanced": "Das Relief der Montagne d'Ambre ist ein markantes vulkanisches Massiv, das sich abrupt aus der trockenen Küstenebene bei Antsiranana erhebt. Geologisch besteht es aus Basaltgestein und Tuffen, die Zeugnis von intensiven Eruptionen während des Tertiärs ablegen. Die Struktur des Massivs ist durch mehrere erloschene Krater geprägt, die heute teilweise mit klarem Süßwasser gefüllt sind. Diese Erhebung bildet eine signifikante orographische Barriere, die für hohe Niederschläge sorgt und ein dichtes Netz von Bächen und Flüssen speist. Die Erosion hat im Laufe der Zeit tiefe Gorges und Kaskaden geschaffen, die dem Gebirge sein charakteristisches, wildes Aussehen verleihen. Geografie K8 — Vulkanische Geomorphologie und Orographie.",
+      "factsAdvanced": [
+        "Vulkanisches Massiv mit markanter Kegelstruktur im Norden",
+        "Geologisch geprägt durch tertiäre Basalt- und Ascheablagerungen",
+        "Besitzt mehrere heilige Kraterseen wie den Lac Sacré",
+        "Wichtigste Klimascheide zwischen dem Norden und dem Nordwesten",
+        "Das Relief verursacht intensive Steigungsregen in einer Trockenzone",
+        "Beherbergt spektakuläre Basaltklippen und tiefe Waldschluchten",
+        "Wesentlicher Regulator für das regionale Hydrologiesystem",
+        "Typisches Beispiel für einen Inselberg mit eigenem Mikroklima"
+      ]
+    },
+    {
+      "id": "monument-aux-morts-diego-suarez-landmarks-v2",
+      "descriptionAdvanced": "Das Monument aux Morts in Antsiranana (Diego Suarez) ist ein ergreifendes Denkmal, das an die Gefallenen der beiden Weltkriege erinnert. Gelegen auf einem Platz mit weitem Blick über die Bucht, symbolisiert es die tiefe historische Verflechtung Madagaskars mit Frankreich. Das Denkmal ehrt sowohl die französischen Siedler als auch die madagassischen Soldaten ('Tirailleurs malgaches'), die in den globalen Konflikten kämpften. Die Architektur ist schlicht und würdevoll, typisch für die französische Gedenkkultur des frühen 20. Jahrhunderts. Als zentrales Wahrzeichen der Stadt ist es ein Ort des Gedenkens und ein Zeugnis für die koloniale Vergangenheit des Nordens. Geschichte K7 — Gedenkkultur und koloniale Militärgeschichte.",
+      "factsAdvanced": [
+        "Zentrales Denkmal für die Kriegsopfer im Norden Madagaskars",
+        "Ehrt die madagassischen Soldaten der Weltkriege",
+        "Architektonisches Wahrzeichen im Kolonialviertel von Diego Suarez",
+        "Befindet sich auf einer Anhöhe mit Panoramablick über den Hafen",
+        "Wichtiger Schauplatz für jährliche militärische Zeremonien",
+        "Symbol für die historische Allianz zwischen Frankreich und Madagaskar",
+        "Bewahrt die Namen lokaler Helden der 'Tirailleurs'-Einheiten",
+        "Teil des geschützten Kulturerbes der Stadt Antsiranana"
+      ]
+    },
+    {
+      "id": "morondava-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Moschee von Morondava ist ein bedeutendes religiöses und architektonisches Wahrzeichen an der Westküste Madagaskars. In einer Region, die seit Jahrhunderten durch den Handel über den Kanal von Mosambik geprägt ist, spiegelt sie den starken Einfluss des Islam und der indisch-arabischen Gemeinschaft wider. Das Gebäude mit seinen Minaretten und der hellen Fassade ist ein Zentrum des geistigen Lebens für die muslimischen Bürger der Stadt. Die Architektur verbindet funktionale Sakralelemente mit dem sonnigen, maritimen Flair von Morondava. Die Moschee steht sinnbildlich für die religiöse Toleranz und die multikulturelle Vielfalt, die den Westen der Insel so einzigartig machen. Geschichte K6 — Religiöse Vielfalt und Handelsbeziehungen.",
+      "factsAdvanced": [
+        "Zentrales Gotteshaus der muslimischen Gemeinde in Morondava",
+        "Wahrzeichen für den kulturellen Einfluss des Indischen Ozeans",
+        "Architektur geprägt durch klassische Minarette und Bögen",
+        "Wichtiger Ort für soziale Gemeinschaft und Bildung im Westen",
+        "Symbol für die jahrhundertealte Präsenz arabischer Händler",
+        "Liegt im Herzen des geschäftigen Stadtzentrums von Morondava",
+        "Zeugnis der religiösen Vielfalt in der Region Menabe",
+        "Häufiger Anlaufpunkt für Reisende auf dem Weg zum Tsingy"
+      ]
+    },
+    {
+      "id": "morondava-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Morondava ist das logistische Tor zur Menabe-Region und ein unverzichtbarer Knotenpunkt für den Handel an der Westküste. Obwohl er durch Versandung des Morondava-Flusses herausgefordert ist, bleibt er der wichtigste Umschlagplatz für landwirtschaftliche Produkte wie Reis, Mais und Hülsenfrüchte. Der Hafen ist zudem die Basis für die lokale Fischereiindustrie und ein Ausgangspunkt für den Transport von Touristen zum Kirindy-Wald und zum Tsingy de Bemaraha. Die Szenerie ist geprägt von traditionellen Segelbooten (Boutres) und kleinen Frachtern, die die lebenswichtige Verbindung zu anderen Küstenstädten aufrechterhalten. Wirtschaft K6 — Küstenhandel und regionale Logistik.",
+      "factsAdvanced": [
+        "Strategischer Versorgungshafen für den madagassischen Westen",
+        "Wichtigstes Zentrum für den Abtransport von Menabe-Agrarprodukten",
+        "Basis für die handwerkliche und industrielle Fischerei",
+        "Leidet unter massiver Versandung durch Küstenströmungen",
+        "Wichtiger Anlaufpunkt für traditionelle 'Boutre'-Segelschiffe",
+        "Tor zum Weltnaturerbe Tsingy de Bemaraha",
+        "Zentrum für den lokalen Handel mit Meeresfrüchten",
+        "Wesentlicher Arbeitgeber für die Bevölkerung von Morondava"
+      ]
+    },
+    {
+      "id": "morondava-royal-tombs-history-v2",
+      "descriptionAdvanced": "Die königlichen Gräber von Morondava sind hochverehrte Stätten des Sakalava-Königreichs Menabe. Diese Grabanlagen sind bekannt für ihre kunstvollen Holzskulpturen, die Ahnen, Tiere und alltägliche Szenen darstellen. Der Totenkult der Sakalava ist zentraler Bestandteil ihrer Identität, wobei die Gräber als Verbindungspunkte zwischen der Welt der Lebenden und der Ahnengeister dienen. Die Stätten liegen oft verborgen in Wäldern oder an heiligen Flussläufen und sind durch strenge Tabus (Fady) geschützt. Sie sind nicht nur Orte der Trauer, sondern auch Monumente der Stammesgeschichte und der sozialen Ordnung des Westens. Geschichte K8 — Ahnenverehrung und Sakalava-Monarchie.",
+      "factsAdvanced": [
+        "Heiligste Begräbnisplätze der Könige von Menabe",
+        "Berühmt für die symbolträchtigen Holzstelen (Aloalo)",
+        "Ort geheimnisvoller Rituale zur Ahnenbeschwörung",
+        "Streng geschützte Gebiete durch lokale kulturelle Gesetze",
+        "Zeugnis der meisterhaften Schnitzkunst der Sakalava",
+        "Spiegelt die Machtstrukturen des 17. und 18. Jahrhunderts wider",
+        "Wichtiger Punkt zur Bewahrung der mündlichen Überlieferungen",
+        "Symbol für die Beständigkeit traditioneller madagassischer Religionen"
+      ]
+    },
+    {
+      "id": "nosy-be-korallenriff-life-v2",
+      "descriptionAdvanced": "Die Korallenriffe rund um Nosy Be gehören zu den artenreichsten maritimen Ökosystemen im Indischen Ozean. In den warmen, klaren Gewässern des Kanals von Mosambik haben sich komplexe Riffstrukturen gebildet, die hunderten von Fischarten, Meeresschildkröten und wirbellosen Tieren einen Lebensraum bieten. Besonders bekannt sind die Riffe von Nosy Tanikely, die als Unterwasser-Nationalpark streng geschützt sind. Diese marinen Paradiese sind nicht nur für den Tourismus von unschätzbarem Wert, sondern fungieren auch als Kinderstube für viele kommerziell genutzte Fischarten. Der Schutz der Riffe vor Überfischung und Klimawandel ist eine der größten ökologischen Herausforderungen für den Norden Madagaskars. Biologie K7 — Marine Ökosysteme und Korallenschutz.",
+      "factsAdvanced": [
+        "Artenreichstes Korallenriffgebiet Madagaskars im Norden",
+        "Beherbergt seltene Grüne Meeresschildkröten und Karettschildkröten",
+        "Wichtigstes Tauchrevier des Landes mit hoher Sichtweite",
+        "Schutzgebiet Nosy Tanikely als Modell für marinen Naturschutz",
+        "Vorkommen von Walhaien und Mantarochen in den Randzonen",
+        "Riffstrukturen dienen als natürlicher Küstenschutz gegen Wellen",
+        "Zentrum für die Erforschung der Korallenbleiche im Indischen Ozean",
+        "Wesentliche Grundlage für den lokalen Ökotourismus"
+      ]
+    },
+    {
+      "id": "nosy-be-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Leuchtturm von Nosy Be, oft als Phare de Nosy Be bezeichnet, ist ein unverzichtbares Navigationsdenkmal an der Nordküste der Insel. Errichtet während der französischen Kolonialzeit, sicherte er die Zufahrt zum strategisch wichtigen Hafen von Hell-Ville (Andoany). Mit seiner markanten Architektur auf einem Hügel über dem Meer bietet er einen weiten Ausblick über die umliegenden Inseln und die Straße von Mosambik. Der Leuchtturm ist ein Symbol für die maritime Geschichte von Nosy Be und die Ära der großen Dampfschifffahrt. Er erinnert an die Bedeutung der Insel als Handelszentrum und ist heute ein beliebtes Ziel für Wanderer und Fotografen. Geschichte K7 — Maritime Infrastruktur und Navigation.",
+      "factsAdvanced": [
+        "Historisches Navigationszeichen an der Küste von Nosy Be",
+        "Erbaut im frühen 20. Jahrhundert zur Hafensicherung",
+        "Markanter Orientierungspunkt für die Schifffahrt im Norden",
+        "Bietet einen Panoramablick über das Archipel von Nosy Be",
+        "Architektur spiegelt die funktionale Bauweise der Kolonialzeit wider",
+        "Wichtiges Wahrzeichen für die Stadtentwicklung von Hell-Ville",
+        "Zeugnis der maritimen Expansion im Indischen Ozean",
+        "Zentraler Punkt für die Überwachung der Küstengewässer"
+      ]
+    },
+    {
+      "id": "nosy-be-marodoka-history-v2",
+      "descriptionAdvanced": "Marodoka ist der älteste historische Ort auf der Insel Nosy Be und war einst das Zentrum des indisch-arabischen Handels. Hier siedelten sich bereits im 17. und 18. Jahrhundert Händler aus dem Oman und Indien an, was Marodoka zu einem kosmopolitischen Dorf machte. Die Ruinen der ersten Moschee und der massiven Steinhäuser zeugen von dem Reichtum, den der Sklaven- und Gewürzhandel einbrachte. Marodoka ist heute ein lebendiges Kulturdenkmal, in dem die Nachfahren der ersten Siedler die Traditionen ihrer Vorfahren pflegen. Der Ort bietet einen faszinierenden Einblick in die Zeit vor der französischen Kolonialisierung und die frühe Globalisierung Madagaskars. Geschichte K8 — Handelsgeschichte und multikulturelle Wurzeln.",
+      "factsAdvanced": [
+        "Älteste Siedlung und ehemaliger Hauptort von Nosy Be",
+        "Frühes Zentrum für den afro-arabischen und indischen Handel",
+        "Beherbergt die Ruinen der ersten Moschee der Insel",
+        "Ort bedeutender kultureller Verschmelzungen (Vazimba, Araber, Inder)",
+        "Bekannt für die historischen 'Marodoka'-Steinhäuser",
+        "Zentrum traditioneller Sakalava-Tänze und Zeremonien",
+        "Strategischer Standort am geschützten Kanal von Mosambik",
+        "Wichtige Stätte zur Erforschung der madagassischen Frühgeschichte"
+      ]
+    },
+    {
+      "id": "nosy-be-nature-v2",
+      "descriptionAdvanced": "Die Natur der Insel Nosy Be ist eine betörende Mischung aus vulkanischem Relief, duftenden Plantagen und dichten Waldresten. Bekannt als die 'Parfüminsel', wird das Landschaftsbild durch riesige Felder von Ylang-Ylang und Kaffeesträuchern geprägt. Im Inneren der Insel befinden sich elf heilige Kraterseen, die in den erloschenen Vulkanen entstanden sind und von Nilkrokodilen bewohnt werden. Der höchste Berg, Mont Passot, bietet einen spektakulären Rundblick über das Archipel. Die Natur von Nosy Be ist ein Beispiel für eine intensiv genutzte Kulturlandschaft, die dennoch wertvolle ökologische Nischen in den verbleibenden Primärwäldern von Lokobe bewahrt hat. Biologie K7 — Agrarökosysteme und Inselgeographie.",
+      "factsAdvanced": [
+        "Bekannt als die 'Insel der Düfte' wegen der Ylang-Ylang-Produktion",
+        "Beherbergt elf heilige Vulkan-Kraterseen im Binnenland",
+        "Der Mont Passot ist mit 329 Metern der höchste Aussichtspunkt",
+        "Wichtigster Standort für die Gewinnung ätherischer Öle",
+        "Reiches marines Leben mit geschützten Korallenriffen",
+        "Heimat des Mohrenmakis und zahlreicher Chamäleonarten",
+        "Einzigartige Mischung aus Vulkanismus und tropischer Landwirtschaft",
+        "Magnet für den internationalen Ökotourismus in Madagaskar"
+      ]
+    },
+    {
+      "id": "nosy-boraha-fort-history-v2",
+      "descriptionAdvanced": "Das Fort auf Nosy Boraha (Sainte Marie) ist eine historische Befestigungsanlage, die die bewegte maritime Vergangenheit der Insel dokumentiert. Strategisch auf einer Anhöhe über dem Hauptort Ambodifotatra gelegen, diente es im 18. und 19. Jahrhundert dem Schutz vor europäischen Mächten und rivalisierenden Piratenclans. Die Architektur mit ihren dicken Mauern und Kasematten zeugt von der Bedeutung Sainte Maries als Brückenkopf im Indischen Ozean. Das Fort war Schauplatz diplomatischer Verhandlungen zwischen madagassischen Herrschern und französischen Gesandten. Heute ist es ein Denkmal für den Widerstand und die wechselvolle Geschichte der Insel als Refugium für Freibeuter und Händler. Geschichte K8 — Küstenfestungen und Seemachtpolitik.",
+      "factsAdvanced": [
+        "Historische Militäranlage auf der Insel Sainte Marie",
+        "Diente dem Schutz des strategischen Hafens von Ambodifotatra",
+        "Wichtiger Ort während der Rivalitäten zwischen Briten und Franzosen",
+        "Architektur umfasst monumentale Steinbastionen und Gräben",
+        "Symbol für die Souveränitätsansprüche der Betsimisaraka",
+        "Bietet Einblicke in die Militärtechnik des 18. Jahrhunderts",
+        "Einst Standort einer französischen Garnison",
+        "Wesentlicher Bestandteil des historischen Erbes von Nosy Boraha"
+      ]
+    },
+    {
+      "id": "nosy-komba-lemuren-life-v2",
+      "descriptionAdvanced": "Nosy Komba, die 'Insel der Lemuren', ist berühmt für ihre halbwilden Populationen des Mohrenmakis (Eulemur macaco). Auf dieser dicht bewaldeten Vulkaninsel haben die Lemuren gelernt, in unmittelbarer Nähe zum Menschen zu leben, was sie zu einem der besten Orte für hautnahe Tierbeobachtungen macht. Die Männchen sind tiefschwarz, während die Weibchen ein rotbraunes Fell tragen – ein klassisches Beispiel für Geschlechtsdimorphismus. Die lokale Bevölkerung verehrt die Tiere oft als heilig, was ihren Schutz über Generationen gesichert hat. Ein Besuch bei den Lemuren von Nosy Komba ist ein eindrucksvolles Erlebnis der madagassischen Biodiversität und der engen Verbindung zwischen Kultur und Natur. Biologie K6 — Primatenverhalten und Ethno-Zoologie.",
+      "factsAdvanced": [
+        "Besteht primär aus einem isolierten, dichten Vulkanwald",
+        "Bekannt für den Mohrenmaki (Eulemur macaco)",
+        "Starker Farbunterschied zwischen Männchen (schwarz) und Weibchen (braun)",
+        "Lemuren sind an die Anwesenheit von Menschen gewöhnt",
+        "Keine motorisierten Fahrzeuge auf der gesamten Insel",
+        "Wichtiges Zentrum für handwerkliche Holzschnitzerei",
+        "Heiliges Gebiet für das lokale Volk der Sakalava",
+        "Schauplatz erfolgreicher gemeindebasierter Naturschutzprojekte"
+      ]
+    },
+    {
+      "id": "nosy-komba-nature-v2",
+      "descriptionAdvanced": "Die Natur von Nosy Komba ist geprägt durch ein steiles, vulkanisches Relief und dichte tropische Vegetation. Die Insel erhebt sich wie ein riesiger grüner Kegel aus dem Indischen Ozean zwischen Nosy Be und dem Festland. Ohne Straßen und Autos hat sich hier eine fast ungestörte Flora und Fauna erhalten. Neben den berühmten Lemuren beherbergt die Insel eine Vielzahl von Chamäleons, Eidechsen und seltenen Vögeln. Das maritime Relief rund um die Insel ist reich an Korallen und bunten Fischschwärmen, was Nosy Komba zu einem Paradies für Schnorchler macht. Die Insel steht für ein ursprüngliches Madagaskar, in dem die natürlichen Rhythmen den Alltag bestimmen. Natur K7 — Inselvulkanismus und Wald-Ökosysteme.",
+      "factsAdvanced": [
+        "Vulkaninsel mit einer Höhe von über 600 Metern (Antaninaomby)",
+        "Geprägt durch dichten Tropenwald und Granitblock-Strände",
+        "Wichtiger Standort für den Anbau von Pfeffer und Vanille",
+        "Relief bildet einen natürlichen Schutzhafen für Pirogen",
+        "Reichhaltiges marines Leben in den umliegenden Gewässern",
+        "Beherbergt seltene endemische Schlangen- und Amphibienarten",
+        "Zentrum für nachhaltigen Ökotourismus im Norden",
+        "Symbol für den Erhalt der biologischen Integrität kleiner Inseln"
+      ]
+    },
+    {
+      "id": "nosy-mangabe-dutch-inscriptions-history-v2",
+      "descriptionAdvanced": "Die holländischen Inschriften auf der Insel Nosy Mangabe sind ein einzigartiges 'Gästebuch' der Seefahrtsgeschichte des 17. Jahrhunderts. Matrosen der Niederländischen Ostindien-Kompanie (VOC) ritzten während ihrer Aufenthalte in der Bucht von Antongil ihre Namen, Schiffsdaten und Gebete in die flachen Felsen am Strand. Diese Inschriften dienten als Nachrichtensystem für nachfolgende Schiffe und dokumentieren die gefährlichen Reisen um das Kap der Guten Hoffnung nach Asien. Heute sind diese Steine wertvolle historische Zeugnisse der europäischen Expansion und der Bedeutung Madagaskars als logistische Station im Welthandel. Nosy Mangabe ist damit ein bedeutendes Freiluftmuseum der maritimen Archäologie. Geschichte K7 — Maritime Geschichte und Epigraphik.",
+      "factsAdvanced": [
+        "Einzigartige Felsinschriften holländischer Seefahrer (16. & 17. Jhd.)",
+        "Dokumentieren Aufenthalte berühmter VOC-Schiffe",
+        "Historisches Nachrichtensystem für die christliche Seefahrt",
+        "Befinden sich in einer geschützten Bucht der Insel Nosy Mangabe",
+        "Wichtigstes Zeugnis der niederländischen Präsenz auf Madagaskar",
+        "Gelistet als geschütztes historisches Monument des Landes",
+        "Geben Aufschluss über Besatzungsstärken und Reisedaten jener Zeit",
+        "Verbindungspunkt zwischen europäischer Geschichte und madagassischer Küste"
+      ]
+    },
+    {
+      "id": "nosy-mitseo-nature-v2",
+      "descriptionAdvanced": "Die Nosy-Mitsio-Inseln im Norden Madagaskars sind ein geologisches und biologisches Juwel im Indischen Ozean. Das Relief des Archipels ist vulkanischen Ursprungs und berühmt für die 'Orgelpfeifen' (Les Orgues) – monumentale Basaltsäulen, die senkrecht aus dem Meer aufragen. Die Inseln sind von unberührten Korallenriffen umgeben, die eine enorme marine Biodiversität beherbergen, darunter seltene Haie und Rochen. An Land finden sich Trockenwälder und weiße Sandstrände, die Rückzugsorte für bedrohte Seevögel sind. Die Mitsio-Inseln stehen für die wilde, isolierte Schönheit des Nordens und sind ein Paradebeispiel für marinen Vulkanismus und dessen formende Kraft auf die Küstengeographie. Geografie K8 — Maritimer Vulkanismus und Basalt-Formationen.",
+      "factsAdvanced": [
+        "Vulkanischer Archipel mit spektakulären Basaltsäulen (Orgelpfeifen)",
+        "Wichtigstes Refugium für marine Großfauna (Haie, Wale)",
+        "Beherbergt unberührte Korallenriffe von internationaler Bedeutung",
+        "Besitzt eine Flora, die an extreme salzhaltige Winde angepasst ist",
+        "Wichtiger Standort für die Erforschung des Insel-Endemismus",
+        "Bietet kristallklares Wasser mit Sichtweiten von über 30 Metern",
+        "Zentrum für exklusiven, nachhaltigen Tauchtourismus",
+        "Geologisch einzigartige Formation im Kanal von Mosambik"
+      ]
+    },
+    {
+      "id": "nosy-mitsio-tauchen-life-v2",
+      "descriptionAdvanced": "Tauchen im Mitsio-Archipel ist ein Weltklasse-Erlebnis für Unterwasser-Enthusiasten. Die abgelegene Lage der Inseln hat dazu beigetragen, dass die Korallenriffe in einem nahezu jungfräulichen Zustand geblieben sind. Taucher können hier Begegnungen mit Walhaien, Mantarochen und riesigen Barrakudaschwärmen erleben. Das Relief unter Wasser ist ebenso spektakulär wie an Land, mit steilen Wänden, tiefen Höhlen und den beeindruckenden Fortsetzungen der Basaltsäulen unter der Meeresoberfläche. Die Strömungen bringen nährstoffreiches Wasser aus dem tiefen Ozean, was eine unglaubliche Vielfalt an Weichkorallen und marinen Kleinstlebewesen nährt. Es ist ein kritischer Standort für den Schutz des marinen Erbes Madagaskars. Biologie K7 — Meeresbiologie und Riffökologie.",
+      "factsAdvanced": [
+        "Eines der exklusivsten Tauchgebiete im gesamten Indischen Ozean",
+        "Bekannt für regelmäßige Sichtungen von Walhaien (Oktober bis Dezember)",
+        "Besitzt spektakuläre Unterwasser-Basaltformationen",
+        "Beherbergt eine enorme Dichte an pelagischen Fischen",
+        "Wichtiges Gebiet für den Schutz bedrohter Meeresschildkröten",
+        "Tauchtiefen variieren von flachen Korallengärten bis zu Steilwänden",
+        "Zentrum für wissenschaftliche Untersuchungen zur Riffgesundheit",
+        "Symbol für die marine Pracht des madagassischen Nordens"
+      ]
+    },
+    {
+      "id": "nosy-tanikely-marine-life-v2",
+      "descriptionAdvanced": "Nosy Tanikely ist ein mariner Nationalpark, der als 'natürliches Aquarium' Madagaskars bekannt ist. Die Gewässer rund um die kleine Vulkaninsel beherbergen ein extrem dichtes und gesundes Korallenriff, das in geringer Tiefe eine unglaubliche Vielfalt an bunten Fischen, Schildkröten und Rochen präsentiert. Aufgrund des Schutzstatus ist die Fischerei hier streng verboten, was Nosy Tanikely zu einem der artenreichsten Orte der Region gemacht hat. Die Kombination aus klarem Wasser, sanften Strömungen und prachtvoller mariner Flora macht es zum idealen Ort für Schnorchler und Meeresbiologen. Der Park ist ein leuchtendes Beispiel für erfolgreichen Schutz maritimer Biodiversität durch kontrollierten Tourismus. Biologie K6 — Mariner Naturschutz und Riff-Fauna.",
+      "factsAdvanced": [
+        "Mariner Nationalpark mit höchster Schutzstufe",
+        "Weltberühmt für das Schnorcheln in flachen Korallengärten",
+        "Beherbergt hunderte tropische Fischarten (Papageifische, Clownfische)",
+        "Wichtigstes Schutzgebiet für die Grüne Meeresschildkröte",
+        "Zentrum der marinen Umweltbildung für lokale Schulen",
+        "Die Riffe sind in exzellentem Zustand ohne Anzeichen von Bleiche",
+        "Magnet für Tagestouristen von der Hauptinsel Nosy Be",
+        "Symbol für den Reichtum des madagassischen Unterwasser-Erbes"
+      ]
+    },
+    {
+      "id": "nosy-tanikely-nature-v2",
+      "descriptionAdvanced": "Die Natur von Nosy Tanikely erstreckt sich weit über die berühmten Riffe hinaus auch auf die kleine Landfläche der Insel. Der vulkanische Ursprung wird durch den markanten Gipfel mit seinem historischen Leuchtturm deutlich. An Land beherbergt die Insel eine Kolonie von Flughunden und zahlreiche Eidechsenarten, während der kleine Waldrest Schutz für seltene Vögel bietet. Das maritime Relief ist durch sanfte Sandbänke geprägt, die in prächtige Korallenplattformen übergehen. Nosy Tanikely ist ein mikrokosmisches Abbild der madagassischen Inselwelt, in dem Land- und Meeresökosysteme eng miteinander verzahnt sind und unter strengem Schutz stehen. Natur K7 — Inselökologie und Schutzgebietsmanagement.",
+      "factsAdvanced": [
+        "Kleine Vulkaninsel mit strategischer Bedeutung für den Naturschutz",
+        "Beherbergt einen historischen Leuchtturm aus dem Jahr 1908",
+        "Wichtiger Brutplatz für Seevögel und Rückzugsort für Flughunde",
+        "Geprägt durch weißen Korallensand und schwarzes Vulkangestein",
+        "Teil eines integrierten Land-Meer-Schutzprogramms",
+        "Bietet spektakuläre Aussichten auf das Archipel von Nosy Be",
+        "Botanisch interessant durch salzresistente Küstenflora",
+        "Beispiel für die Bedeutung kleiner Inseln als Biodiversitäts-Hotspots"
+      ]
+    },
+    {
+      "id": "palais-justice-amboasary-landmarks-v2",
+      "descriptionAdvanced": "Der Justizpalast von Amboasary im Süden Madagaskars ist ein markantes administratives Gebäude, das die staatliche Präsenz in der Region Anosy symbolisiert. Die Architektur ist schlicht und funktional, typisch für die Verwaltungsbauten der nachkolonialen Ära, und sticht aus der ländlichen Umgebung hervor. Als Ort der Rechtsprechung ist er ein zentraler Anlaufpunkt für die Bürger des Distrikts und ein Pfeiler der lokalen Ordnung. Der Palast steht in einer Region, die durch intensive Landwirtschaft (Sisal) geprägt ist, und symbolisiert den Versuch, moderne juristische Strukturen im tiefen Süden zu festigen. Er ist ein Wahrzeichen der administrativen Entwicklung in einer geographisch abgelegenen Zone. Geschichte K6 — Moderne Verwaltung und Rechtswesen.",
+      "factsAdvanced": [
+        "Wichtigstes administratives Gebäude im Distrikt Amboasary-Atsimo",
+        "Zentrum der regionalen Rechtsprechung in der Region Anosy",
+        "Architektur spiegelt die staatliche Bauweise des 20. Jahrhunderts wider",
+        "Strategischer Standort inmitten der großen Sisal-Anbaugebiete",
+        "Symbol für die Dezentralisierung der madagassischen Justiz",
+        "Wichtiger Ort für öffentliche Bekanntmachungen und Verwaltungsakte",
+        "Wahrzeichen der städtischen Identität von Amboasary",
+        "Dokumentiert die Integration des Südens in das nationale Rechtssystem"
+      ]
+    },
+    {
+      "id": "pecheries-nosy-be-economic-v2",
+      "descriptionAdvanced": "Pêcheries de Nosy Be ist eines der bedeutendsten Unternehmen der madagassischen Fischereiindustrie mit Sitz in Hell-Ville. Seit Jahrzehnten spezialisiert auf den Fang und die Verarbeitung von hochwertigen Garnelen und Meeresfrüchten, ist es ein wichtiger Motor für die Wirtschaft des Nordens. Die moderne Fabrik verarbeitet die Erzeugnisse direkt vor Ort für den Weltmarkt, wobei strenge internationale Qualitäts- und Umweltstandards eingehalten werden. Die Fischerei ist ein lebenswichtiger Wirtschaftszweig für die Insel Nosy Be und bietet tausenden Familien eine gesicherte Existenz. Das Unternehmen symbolisiert die nachhaltige Nutzung der marinen Ressourcen Madagaskars im Kanal von Mosambik. Wirtschaft K7 — Fischereiwirtschaft und industrielle Verarbeitung.",
+      "factsAdvanced": [
+        "Größter industrieller Fischereibetrieb im Norden Madagaskars",
+        "Spezialisierung auf den Export von 'Premium'-Garnelen (Crevettes)",
+        "Wichtigster Devisenbringer für die Region Diana",
+        "Besitzt eine moderne Flotte von Fangschiffen mit Kühlanlagen",
+        "Zentrum für die Verarbeitung und Verpackung von Meeresfrüchten",
+        "Schafft eine Vielzahl von Arbeitsplätzen in der Hafenstadt Hell-Ville",
+        "Symbol für den Erfolg madagassischer Meeresprodukte auf dem Weltmarkt",
+        "Partner in Programmen zur Erhaltung der Fischbestände"
+      ]
+    },
+    {
+      "id": "phare-cap-minne-landmarks-v2",
+      "descriptionAdvanced": "Der Phare de Cap Miné ist ein imposanter Leuchtturm, der die gefährliche Einfahrt in die Bucht von Diego Suarez (Antsiranana) markiert. Errichtet auf einer steilen Klippe an der Nordostspitze Madagaskars, ist er ein Meilenstein der maritimen Ingenieurskunst. Der Turm trotzt seit über einem Jahrhundert den starken Passatwinden und Zyklonen und leitet Schiffe sicher in einen der größten natürlichen Häfen der Welt. Die Umgebung des Leuchtturms ist geprägt durch historische Kanonenbatterien, die die strategische Bedeutung des Ortes während der Kolonialzeit unterstreichen. Für Besucher bietet Cap Miné einen dramatischen Ausblick auf den Zusammenfluss von Indischem Ozean und der Bucht. Geschichte K7 — Nautik und maritime Verteidigungsanlagen.",
+      "factsAdvanced": [
+        "Wichtigster Leuchtturm für die Schifffahrt im hohen Norden",
+        "Strategische Lage am Eingang zum 'Pass von Diego'",
+        "Erbaut während der französischen Kolonialzeit zur Sicherung der Marinebasis",
+        "Bietet einen spektakulären Blick auf den Indischen Ozean",
+        "Historisch verbunden mit der militärischen Befestigung des Kaps",
+        "Wahrzeichen der maritimen Tradition von Antsiranana",
+        "Navigationspunkt von internationaler Bedeutung für die Containerschifffahrt",
+        "Symbol für die Sicherheit auf den Handelsrouten des Indischen Ozeans"
+      ]
+    },
+    {
+      "id": "pic-boby-relief-v2",
+      "descriptionAdvanced": "Der Pic Boby (offiziell Imarivolanitra) ist mit 2.658 Metern der zweithöchste Berg Madagaskars und das Herzstück des Andringitra-Massivs. Das Relief ist geprägt durch monumentale Granitformationen, die an die Alpen erinnern, jedoch in einer tropischen Breitenlage liegen. Der Gipfel ist das Ergebnis gewaltiger tektonischer Hebungen des kristallinen Grundgebirges vor Hunderten Millionen Jahren. Die karge, felsige Landschaft der Gipfelregion ist oft in Nebel gehüllt und beherbergt eine Flora, die sich an extreme Kälte und Frost angepasst hat. Für Trekking-Enthusiasten stellt der Pic Boby die ultimative bergsteigerische Herausforderung im madagassischen Hochland dar und bietet einen atemberaubenden Blick über den Süden der Insel. Geografie K8 — Hochgebirgsmorphologie und Tektonik.",
+      "factsAdvanced": [
+        "Zweithöchster Gipfel Madagaskars (2.658 m)",
+        "Höchster besteigbarer Berg der Insel für Wanderer",
+        "Geologisch geprägt durch präkambrische Granit-Intrusionen",
+        "Relief umfasst spektakuläre Plateaus und tiefe Abgründe",
+        "Region mit dem kältesten Klima Madagaskars (regelmäßig Frost)",
+        "UNESCO-Weltnaturerbe als Teil des Andringitra-Nationalparks",
+        "Wichtigster topographischer Fixpunkt im südlichen Hochland",
+        "Bietet einzigartige Einblicke in die Geomorphologie der Kontinentalhebung"
+      ]
+    },
+    {
+      "id": "pirate-cemetery-sainte-marie-landmarks-v2",
+      "descriptionAdvanced": "Der Piratenfriedhof von Sainte Marie (Nosy Boraha) ist ein weltweit einzigartiges Kulturdenkmal der maritimen Abenteuergeschichte. Im 17. und 18. Jahrhundert war die Insel ein berüchtigter Stützpunkt für Freibeuter wie William Kidd und Thomas Tew, die von hier aus die reich beladenen Schiffe der Ostindien-Kompanien überfielen. Auf einem Hügel über der 'Baie des Forbans' gelegen, beherbergt der Friedhof Grabsteine mit den legendären Symbolen der Piraterie. Diese Stätte atmet den Geist der 'Piratenrepublik', eines sozialen Experiments von Freiheit und Gesetzlosigkeit im Indischen Ozean. Heute ist der Friedhof ein geschütztes historisches Denkmal, das Reisende aus aller Welt in seinen Bann zieht. Geschichte K7 — Piraterie und Seefahrtslegenden.",
+      "factsAdvanced": [
+        "Einziger authentischer Piratenfriedhof der Welt",
+        "Letzte Ruhestätte legendärer Seeräuber des 17. und 18. Jahrhunderts",
+        "Berühmt für Grabsteine mit Totenkopf und gekreuzten Knochen",
+        "Historischer Blick auf die einstige Pirateninsel 'Île aux Forbans'",
+        "Symbol für die Ära der Freibeuter im Indischen Ozean",
+        "Zentraler Punkt der touristischen und historischen Route auf Sainte Marie",
+        "Ort zahlreicher Mythen über vergrabene Schätze",
+        "Einzigartiges Beispiel für maritime Sepulkralkultur"
+      ]
+    },
+    {
+      "id": "pont-betsiboka-landmarks-v2",
+      "descriptionAdvanced": "Die Betsiboka-Brücke ist ein bedeutendes Bauwerk der madagassischen Infrastruktur und ein technisches Denkmal an der Nationalstraße 4 (RN4). Sie überspannt den mächtigen Betsiboka-Fluss in der Nähe von Maevatanana und ist eine der längsten Brücken der Insel. Das Bauwerk ist entscheidend für die Verbindung zwischen der Hauptstadt Antananarivo und der Hafenstadt Mahajanga. Besonders beeindruckend ist der Blick von der Brücke auf die charakteristische rote Farbe des Flusses, die durch die Bodenerosion im Hochland verursacht wird. Die Brücke symbolisiert die logistischen Herausforderungen Madagaskars und die strategische Bedeutung der Überwindung der großen Flusssysteme für die nationale Einheit. Geschichte K7 — Ingenieurskunst und Verkehrslogistik.",
+      "factsAdvanced": [
+        "Wichtigste strategische Brücke auf der Nationalstraße RN4",
+        "Überspannt den größten Fluss Madagaskars bei Maevatanana",
+        "Erbaut während der französischen Kolonialzeit als Metallkonstruktion",
+        "Lebenswichtiger Knotenpunkt für den Güterverkehr zum Hafen Mahajanga",
+        "Bietet den besten Aussichtspunkt auf die Erosionssedimente des Betsiboka",
+        "Meilenstein der madagassischen Brückenbaugeschichte",
+        "Trotz widriger klimatischer Bedingungen ein stabiles Infrastrukturelement",
+        "Symbol für die Anbindung des Binnenlandes an die Küste"
+      ]
+    }
+  ]
+}

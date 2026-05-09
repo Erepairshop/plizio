@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "garesa-palace-history-v2",
+      "descriptionAdvanced": "A mogadishui Garesa Palota a 19. századi kelet-afrikai építészet egyik meghatározó épülete, amelyet eredetileg a zanzibári szultán rezidenciájaként emeltek. A monumentális, korallkőből és mészhabarcsból készült épület a térség kereskedelmi hatalmát és az Indiai-óceán partvidékén zajló politikai dinamikát tükrözi. A koloniális korszakban az épület szerepe többször változott, hosszú ideig múzeumként szolgált, ahol a szomáliai történelem és kultúra emlékeit mutatták be. A palota ma a város történelmi központjának egyik legfontosabb szimbóluma, amelynek falai között a szomáliai államiság és a kereskedelmi kapcsolatok évszázados öröksége ötvöződik.",
+      "factsAdvanced": [
+        "A 19. században épült.",
+        "A zanzibári szultán építtette.",
+        "Korallkőből készült szerkezet.",
+        "A koloniális korszakban múzeumként használták.",
+        "Fontos szerepet töltött be Mogadishu közigazgatásában.",
+        "A szomáliai történelmi örökség része."
+      ]
+    },
+    {
+      "id": "al-mnara-tower-history-v2",
+      "descriptionAdvanced": "Az Al-Mnara torony a középkori Mogadishu egyik legkülönlegesebb jelképe, amely világítótoronyként és őrtoronyként egyaránt szolgált. A várost körülvevő kereskedelmi útvonalak biztonságát garantáló építmény a 13-14. században épült, és tanúskodik a korabeli szomáliai hajózási technológia és az Indiai-óceáni kereskedelem fejlettségéről. Az épület a kereskedők navigációját segítette, miközben a város kikötőjének védelmét is ellátta. A torony fennmaradt alapjai ma a középkori Mogadishu kereskedelmi jelentőségét és tengeri erejét hivatottak emlékezetünkbe idézni.",
+      "factsAdvanced": [
+        "A 13-14. században épült.",
+        "Világítótoronyként és őrtoronyként funkcionált.",
+        "Segítette a tengeri kereskedelmet.",
+        "A kikötő védelmi rendszerének része volt.",
+        "A középkori Mogadishu szimbóluma.",
+        "Fontos navigációs pont a korabeli hajósoknak."
+      ]
+    },
+    {
+      "id": "hafun-opone-history-v2",
+      "descriptionAdvanced": "Hafun, az ókori kereskedelmi forrásokban Opone néven ismert, a Vörös-tenger és az Indiai-óceán közötti ősi kereskedelmi útvonal egyik legfontosabb csomópontja volt. A stratégiai jelentőségű kikötőhelyet már az ókori görög és római feljegyzések is említik, mint a fűszer- és nemesfém kereskedelem meghatározó állomását. Az itt feltárt leletek tanúskodnak arról, hogy a térség már az időszámításunk előtti évszázadokban élénk kapcsolatban állt Egyiptommal, Indiával és Arábiával. A helyszín ma a szomáliai tengeri történelem egyik legfontosabb régészeti lelőhelye, amely a kelet-afrikai partvidék korai globalizációját mutatja be.",
+      "factsAdvanced": [
+        "Ókori neve Opone.",
+        "A Periplusz az Erythraei-tengerről is említi.",
+        "Fontos kereskedelmi csomópont volt.",
+        "Élénk kapcsolatot tartott fenn Indiával és Arábiával.",
+        "Az időszámításunk előtti évszázadokban is aktív volt.",
+        "Jelentős régészeti lelőhely."
+      ]
+    }
+  ]
+}

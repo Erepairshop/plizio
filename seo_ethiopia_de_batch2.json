@@ -1,0 +1,189 @@
+{
+  "lang": "de",
+  "country": "ethiopia",
+  "files": [
+    "lib/visualLab/data/poiExtraEthiopiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hawassa-industrial-park-economic-v2",
+      "descriptionAdvanced": "Der Industriepark Hawassa, eröffnet im Jahr 2016, gilt als Leuchtturmprojekt der äthiopischen Industrialisierungsstrategie. Mit einer Fläche von etwa 140 Hektar bietet er eine hochmoderne Infrastruktur für internationale Textilproduzenten, die unter anderem für bekannte Weltmarken wie Calvin Klein oder Tommy Hilfiger fertigen. Das Projekt spielt eine zentrale Rolle dabei, Äthiopien als global bedeutendes Zentrum für die Textil- und Bekleidungsindustrie zu etablieren. Neben der exportorientierten Produktion fungiert der Park als Motor für die wirtschaftliche Entwicklung der gesamten Region durch die Schaffung zehntausender Arbeitsplätze. Wirtschaft K8 — globale Lieferketten und industrielle Entwicklung.",
+      "factsAdvanced": [
+        "Offizielle Eröffnung am 13. Juli 2016.",
+        "Gesamtinvestition von rund 250 Millionen USD.",
+        "Schafft Beschäftigungsmöglichkeiten für über 30.000 Menschen.",
+        "Exportorientiertes Produktionszentrum mit modernster Ausstattung.",
+        "Beherbergt über 20 international operierende Firmen.",
+        "Ein zentraler Bestandteil des äthiopischen Textilsektors."
+      ]
+    },
+    {
+      "id": "modjo-dry-port-economic-v2",
+      "descriptionAdvanced": "Der Trockenhafen Modjo ist die logistische Hauptschlagader für das Binnenland Äthiopien und das wichtigste Drehkreuz für die Abwicklung des internationalen Handels. Er bewältigt schätzungsweise 70 bis 80 Prozent des gesamten Import- und Exportaufkommens des Landes. Durch die direkte Schienenanbindung an den Hafen von Dschibuti konnte die Effizienz der Güterabfertigung massiv gesteigert werden, was Modjo zu einem unverzichtbaren Bestandteil der nationalen Handelsinfrastruktur macht. Der Hafen dient als kritischer Knotenpunkt, um die Warenströme aus der Weltwirtschaft in die äthiopischen Zentren zu leiten. Geografie K7 — Logistikketten und internationaler Handel.",
+      "factsAdvanced": [
+        "Abwicklung von etwa 70 bis 80 Prozent des gesamten Frachtvolumens.",
+        "Zentraler Knotenpunkt für den Güterverkehr auf der Schiene.",
+        "Große Lagerkapazitäten für eine effiziente Containerverwaltung.",
+        "Entlastung der äthiopischen Güterabfertigung von den Seehäfen.",
+        "Kontinuierliche Erweiterungen der Infrastruktur seit 2009.",
+        "Wichtigster Binnenhafen für die nationale Wirtschaft."
+      ]
+    },
+    {
+      "id": "adama-industrial-park-economic-v2",
+      "descriptionAdvanced": "Der Industriepark Adama liegt strategisch günstig an der zentralen Handelsroute, die den Großraum Addis Abeba mit den Häfen in Dschibuti verbindet. Diese geografische Lage macht den Park zu einem idealen Standort für exportorientierte Unternehmen aus der Textil-, Bekleidungs- und Maschinenbauindustrie. Durch die Bündelung von Fertigungskapazitäten trägt der Industriepark massiv zur wirtschaftlichen Diversifizierung der Region bei und profitiert zudem von der räumlichen Nähe zu logistischen Knotenpunkten wie dem Trockenhafen Modjo. Adama verkörpert damit die moderne Vision einer exportgestützten Industrialisierung Äthiopiens. Wirtschaft K8 — Industrieparks und Standortvorteile.",
+      "factsAdvanced": [
+        "Strategische Lage an der Hauptverkehrsader nach Dschibuti.",
+        "Schwerpunkt auf Textilien, Bekleidung und Maschinenbau.",
+        "Förderung der exportorientierten Produktion im Land.",
+        "Wichtiger Bestandteil des nationalen Industriewachstums.",
+        "Synergieeffekte durch Nähe zum Trockenhafen Modjo.",
+        "Signifikante Beiträge zur Beschäftigungsrate in der Region."
+      ]
+    },
+    {
+      "id": "bole-lemi-industrial-park-economic-v2",
+      "descriptionAdvanced": "Bole Lemi war der erste staatlich entwickelte Industriepark Äthiopiens und fungiert seit seiner Fertigstellung als Pionierprojekt für das gesamte Industrialisierungsprogramm des Landes. In unmittelbarer Nähe zur Hauptstadt Addis Abeba gelegen, bietet er erstklassige Bedingungen für Unternehmen aus der Lederverarbeitung und Textilbranche, die den Standort für ihre internationalen Lieferketten nutzen. Die Ansiedlung im Bole-Lemi-Park hat nicht nur ausländische Direktinvestitionen angezogen, sondern auch Standards für weitere Industriepark-Projekte in ganz Äthiopien gesetzt. Er bildet das Fundament für die moderne industrielle Identität der äthiopischen Hauptstadtregion. Geografie K8 — industrielle Pioniermodelle.",
+      "factsAdvanced": [
+        "Erster staatlich entwickelter Industriepark des Landes.",
+        "Strategische Lage am Stadtrand von Addis Abeba.",
+        "Fokus auf Lederverarbeitung und Textilproduktion.",
+        "Anziehungspunkt für zahlreiche internationale Marken.",
+        "Wichtiger Wegbereiter für spätere Industriepark-Projekte.",
+        "Erste Phase wurde bereits 2014 erfolgreich abgeschlossen."
+      ]
+    },
+    {
+      "id": "mekelle-industrial-park-economic-v2",
+      "descriptionAdvanced": "Der Industriepark Mekelle ist das wirtschaftliche Zentrum der Region Tigray und wurde geschaffen, um die industrielle Basis im Norden Äthiopiens nachhaltig auszubauen. Durch den Fokus auf die Textil- und Bekleidungsproduktion zieht der Park gezielt ausländische Investoren an, die von den modernisierten Kapazitäten profitieren wollen. Mit seinen hochmodernen Produktionsanlagen bietet der Standort eine wichtige Grundlage für den regionalen Aufschwung und schafft tausende Arbeitsplätze, die für die soziale Stabilität in Mekelle essenziell sind. Er ist ein zentrales Instrument in der nationalen Strategie zur regionalen Dezentralisierung der Industrie. Wirtschaft K7 — industrielle Regionalentwicklung.",
+      "factsAdvanced": [
+        "Wirtschaftliches Zentrum in der Region Tigray.",
+        "Spezialisierung auf Textilien und Bekleidung.",
+        "Anziehungspunkt für ausländische Direktinvestitionen.",
+        "Moderne Fertigungsanlagen für internationale Standards.",
+        "Eröffnung des Standorts im Jahr 2017.",
+        "Wichtiger Motor für Beschäftigung in Mekelle."
+      ]
+    },
+    {
+      "id": "kombolcha-industrial-park-economic-v2",
+      "descriptionAdvanced": "Der Industriepark Kombolcha liegt in der Region Amhara und spielt eine Schlüsselrolle im nationalen Plan, Äthiopien als Industrienation in Ostafrika zu festigen. Die Anlage ist darauf ausgerichtet, durch exportorientierte Textilfertigung die regionale Wertschöpfung drastisch zu steigern und gleichzeitig durch moderne Infrastrukturlösungen, wie ein fortschrittliches Abwasserreinigungssystem, hohe ökologische Standards zu setzen. Die Ansiedlung in Kombolcha stärkt die industrielle Vernetzung innerhalb der Region und schafft ein wichtiges wirtschaftliches Gegengewicht zu den Kapazitäten nahe Addis Abeba. Wirtschaft K8 — nachhaltige Industrie und nationale Planung.",
+      "factsAdvanced": [
+        "Schlüsselrolle innerhalb des nationalen Industrialisierungsplans.",
+        "Fokus auf den Export von Textilien und Bekleidung.",
+        "Moderne Standards bei der Abwasserreinigung vor Ort.",
+        "Stärkung der regionalen Wirtschaftskraft in Amhara.",
+        "Wichtiger Bestandteil der industriellen Diversifizierung.",
+        "Schaffung eines industriellen Zentrums außerhalb der Hauptstadt."
+      ]
+    },
+    {
+      "id": "derba-midroc-cement-economic-v2",
+      "descriptionAdvanced": "Die Derba-Midroc-Zementfabrik ist eines der größten industriellen Bauprojekte Äthiopiens und leistet als bedeutender Lieferant einen unverzichtbaren Beitrag zum Bauboom im Land. Durch den massiven täglichen Ausstoß an Zement werden zahlreiche Infrastruktur- und Wohnungsbauprojekte in ganz Äthiopien erst möglich gemacht. Als Teil eines privaten Konglomerats unterstreicht das Werk die Leistungsfähigkeit lokaler Unternehmen in der Schwerindustrie. Der Erfolg von Derba Midroc ist eng mit der nationalen Strategie verbunden, die Abhängigkeit von Importen bei essenziellen Baustoffen durch lokale Produktion zu beenden. Wirtschaft K7 — Schwerindustrie und Bauwesen.",
+      "factsAdvanced": [
+        "Eines der größten Zementwerke in ganz Äthiopien.",
+        "Maßgebliche Unterstützung für den nationalen Infrastrukturausbau.",
+        "Produktion von Tausenden Tonnen hochwertigen Zements pro Tag.",
+        "Wichtiger Akteur innerhalb der äthiopischen Schwerindustrie.",
+        "Symbol für das lokale Engagement bei der Deckung des Baustoffbedarfs.",
+        "Signifikante Auswirkungen auf die Baupreise und Verfügbarkeit."
+      ]
+    },
+    {
+      "id": "mugher-cement-enterprise-economic-v2",
+      "descriptionAdvanced": "Das Mugher-Zementwerk blickt auf eine lange Tradition zurück und gilt als Pionierbetrieb, der die Grundlage für die moderne äthiopische Zementindustrie legte. Gelegen im malerischen, aber industriell bedeutenden Tal des Mugher-Flusses, versorgt das staatliche Unternehmen den inländischen Markt seit Jahrzehnten mit essenziellen Baustoffen. Als einer der wichtigsten Akteure in diesem Sektor spielt das Werk eine fundamentale Rolle bei der Umsetzung staatlicher Bauprojekte und der urbanen Entwicklung. Die Kontinuität der Produktion bei Mugher Cement Enterprise ist ein Zeugnis für die dauerhafte Bedeutung lokaler Schwerindustrie für die nationale Unabhängigkeit bei Bauressourcen. Geschichte K8 — industrielle Pioniere.",
+      "factsAdvanced": [
+        "Pionierbetrieb der äthiopischen Zementindustrie.",
+        "Gelegen im Tal des Mugher-Flusses.",
+        "Staatlich geführtes Unternehmen für den inländischen Markt.",
+        "Fundamentaler Zulieferer für nationale Bauprojekte.",
+        "Langjährige Tradition in der Produktion von Baustoffen.",
+        "Strategischer Akteur für die urbane Entwicklung."
+      ]
+    },
+    {
+      "id": "lega-dembi-gold-mine-economic-v2",
+      "descriptionAdvanced": "Die Goldmine Lega Dembi ist das aktuell größte produzierende Goldabbauprojekt Äthiopiens und stellt eine der wichtigsten Quellen für Deviseneinnahmen aus dem Bergbausektor dar. Seit ihrem Betriebsstart in den späten 1990er Jahren hat die Mine in der Guji-Zone eine zentrale Rolle für die wirtschaftliche Nutzung der mineralischen Ressourcen eingenommen. Die Exploration und Ausbeutung dieser Lagerstätte ist ein Paradebeispiel für die Bemühungen des Landes, den Bergbau systematisch auszubauen und international wettbewerbsfähig zu machen. Die Mine ist somit ein Eckpfeiler der nationalen Bergbau-Strategie und trägt maßgeblich zur Diversifizierung der äthiopischen Exporte bei. Wirtschaft K8 — Rohstoffexporte und Bergbau.",
+      "factsAdvanced": [
+        "Größte in Produktion stehende Goldmine Äthiopiens.",
+        "Wichtige Säule für den Rohstoffexport des Landes.",
+        "Betrieb in der Guji-Zone seit den späten 1990er Jahren.",
+        "Maßgebliche Quelle für Deviseneinnahmen.",
+        "Systematischer Ansatz bei der Ausbeutung von Bodenschätzen.",
+        "Zentraler Akteur der nationalen Bergbau-Strategie."
+      ]
+    },
+    {
+      "id": "kenticha-tantalum-mine-economic-v2",
+      "descriptionAdvanced": "Die Kenticha-Tantalmine ist eine strategisch bedeutsame Lagerstätte, da sie eines der wenigen großen Abbaugebiete für Tantal auf dem afrikanischen Kontinent darstellt. Das hier gewonnene Mineral ist eine absolut kritische Komponente für die globale Elektronikindustrie, da es in Kondensatoren für nahezu jedes moderne technologische Endgerät verwendet wird. Der Betrieb von Kenticha positioniert Äthiopien somit als wichtigen Player in der internationalen Lieferkette für High-Tech-Rohstoffe. Die Mine verkörpert das Potenzial Äthiopiens, seltene und technologisch unverzichtbare Mineralien abzubauen und damit weltweit von technologischen Fortschritten zu profitieren. Wirtschaft K8 — High-Tech-Rohstoffe.",
+      "factsAdvanced": [
+        "Eines der wenigen großflächigen Tantal-Abbaugebiete Afrikas.",
+        "Tantal ist kritisch für die moderne Elektronikproduktion.",
+        "Positioniert Äthiopien als Player in der High-Tech-Lieferkette.",
+        "Gewinnung von weltweit nachgefragten Mineralien.",
+        "Beitrag zur internationalen technologischen Entwicklung.",
+        "Hohe strategische Bedeutung der Lagerstätte."
+      ]
+    },
+    {
+      "id": "kilinto-industrial-park-economic-v2",
+      "descriptionAdvanced": "Der Industriepark Kilinto, gelegen am Stadtrand von Addis Abeba, wurde exklusiv als spezialisiertes Zentrum für die pharmazeutische Industrie entwickelt. Dieses Projekt unterstreicht die Bestrebungen Äthiopiens, durch den Aufbau einer eigenen Produktionsbasis die hohe Abhängigkeit von importierten Medikamenten und medizinischer Technologie deutlich zu verringern. Mit dem Fokus auf Medizintechnik soll Kilinto nicht nur die nationale Gesundheitsversorgung verbessern, sondern das Land mittelfristig auch als Exporteur für pharmazeutische Produkte in der Region Ostafrika positionieren. Kilinto gilt damit als wegweisend für eine gezielte industrielle Spezialisierung auf dem äthiopischen Markt. Wirtschaft K8 — Gesundheit und Pharmaindustrie.",
+      "factsAdvanced": [
+        "Spezialisierter Industriepark für die Pharmazie.",
+        "Entwickelt zur Stärkung der nationalen Gesundheitsversorgung.",
+        "Ziel: Massive Reduzierung der Abhängigkeit von Medikamentenimporten.",
+        "Fokus auf Medizintechnik und pharmazeutische Fertigung.",
+        "Potenzieller Exporteur für Ostafrika.",
+        "Strategische Ansiedlung nahe Addis Abeba."
+      ]
+    },
+    {
+      "id": "dire-dawa-industrial-park-economic-v2",
+      "descriptionAdvanced": "Der Industriepark Dire Dawa profitiert massiv von seiner geografischen Lage in der Nähe zur Grenze nach Dschibuti, was ihn zu einem optimalen Standort für den Export macht. Durch die Anbindung an die wichtige Handelsachse zwischen Äthiopien und den internationalen Häfen am Roten Meer, begünstigt der Park den raschen Umschlag von Textilien und Bekleidung. Der Industriepark bildet das Herzstück der industriellen Wiederbelebung von Dire Dawa und stärkt die ökonomische Kraft des gesamten Ostens des Landes. Mit modernen logistischen Einrichtungen ausgestattet, dient er als entscheidende Plattform für ausländische Direktinvestitionen in der Region. Wirtschaft K8 — Exportknotenpunkte.",
+      "factsAdvanced": [
+        "Strategische Nähe zur Grenze nach Dschibuti.",
+        "Optimale Plattform für den Export von Waren.",
+        "Wichtiger Motor für die industrielle Erneuerung in Dire Dawa.",
+        "Stärkung der wirtschaftlichen Kraft des Ostens.",
+        "Ausstattung mit moderner Logistikinfrastruktur.",
+        "Wichtiger Anker für ausländische Direktinvestitionen."
+      ]
+    },
+    {
+      "id": "dire-dawa-dry-port-economic-v2",
+      "descriptionAdvanced": "Der Trockenhafen Dire Dawa ist ein entscheidender Inlandsterminal entlang der Eisenbahnstrecke zwischen Addis Abeba und dem Hafen von Dschibuti. Durch die effiziente Handhabung von Frachtgütern spielt der Hafen eine zentrale Rolle bei der Verkürzung von Transportzeiten und der Vereinfachung logistischer Prozesse. Besonders für den Handel in den östlichen Regionen ist dieser Umschlagpunkt von essenzieller Bedeutung, da er die Anbindung an die internationalen Märkte signifikant verbessert. Der Trockenhafen ist ein Schlüsselelement in der nationalen Strategie, Äthiopiens Anbindung an den globalen Handel durch moderne Schienenlogistik zu maximieren. Wirtschaft K7 — Schienenlogistik.",
+      "factsAdvanced": [
+        "Wichtiger Inlandsterminal für Frachtgut.",
+        "Entlang der strategischen Strecke nach Dschibuti.",
+        "Effiziente logistische Unterstützung für die Region.",
+        "Signifikante Verkürzung der Zollabfertigungszeiten.",
+        "Zentraler Umschlagpunkt für den Handel im Osten.",
+        "Schlüsselelement für die nationale Schienenlogistik-Strategie."
+      ]
+    },
+    {
+      "id": "jimma-industrial-park-economic-v2",
+      "descriptionAdvanced": "Der Industriepark Jimma wurde konzipiert, um das immense Potenzial des fruchtbaren Südwestens Äthiopiens für die verarbeitende Industrie zu nutzen. Der Schwerpunkt liegt hierbei auf der Agroindustrie, insbesondere der Aufbereitung von Kaffee und Tee, was direkt die lokale Wertschöpfung verbessert. Die Anlage dient als Brücke, um die Rohprodukte der Region effizienter zu verarbeiten und so den Marktzugang für lokale Bauern deutlich zu erleichtern. Damit ist der Industriepark nicht nur eine Fertigungsstätte, sondern ein integratives Element, das die Landwirtschaft und Industrie im Südwesten eng verknüpft. Wirtschaft K7 — Agro-Industrie.",
+      "factsAdvanced": [
+        "Fokus auf Agro-Industrie und Produktverarbeitung.",
+        "Stärkung der lokalen Wertschöpfung durch Kaffee und Tee.",
+        "Erleichterung des Marktzugangs für lokale Landwirte.",
+        "Brücke zwischen bäuerlicher Erzeugung und Industrieproduktion.",
+        "Wichtiger Standortfaktor für den fruchtbaren Südwesten.",
+        "Integration moderner Verarbeitungstechnologien."
+      ]
+    },
+    {
+      "id": "bgi-ethiopia-addis-ababa-economic-v2",
+      "descriptionAdvanced": "Die BGI Ethiopia Brauerei ist ein historisch gewachsenes Unternehmen und ein Gigant in der äthiopischen Getränkeindustrie, der für Marken wie St. George Beer nationale Bekanntheit genießt. Mit einer jährlichen Produktion im Millionenbereich ist das Unternehmen ein massiver Arbeitgeber und ein prägender Akteur auf dem heimischen Konsumgütermarkt. Die Brauerei verbindet handwerkliche Traditionen mit hochmodernen industriellen Fertigungsmethoden, was sie zu einem der erfolgreichsten Beispiele für die Konsumgüterproduktion in Äthiopien macht. Die wirtschaftliche Stabilität und die kontinuierliche Expansion des Unternehmens sind Indikatoren für den wachsenden Wohlstand und die sich verändernden Konsumgewohnheiten im Land. Wirtschaft K8 — Konsumgüter und Getränkeindustrie.",
+      "factsAdvanced": [
+        "Eines der größten und traditionsreichsten Brauunternehmen.",
+        "Nationale Bekanntheit durch St. George Beer.",
+        "Jährliche Produktionsmenge im Millionenbereich.",
+        "Wichtiger Arbeitgeber innerhalb der äthiopischen Getränkeindustrie.",
+        "Verbindung von Brautradition und moderner Industrie.",
+        "Wichtiger Gradmesser für den privaten Konsum im Land."
+      ]
+    }
+  ]
+}

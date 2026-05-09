@@ -1,0 +1,149 @@
+{
+  "lang": "en",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "essakane-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Essakane Gold Mine, located in the northeastern Sahel region of Burkina Faso, is the country's largest and most productive industrial gold mining operation. Operated by IAMGOLD, the mine is situated in the Seno and Oudalan provinces and has been a cornerstone of the national economy since its commercial production began in 2010. The site features a massive open-pit operation and a sophisticated carbon-in-leach processing plant that treats millions of tonnes of ore annually. Essakane's contribution to the national GDP is significant, providing thousands of direct and indirect jobs and contributing substantial tax revenues to the state. The mine has also invested heavily in local infrastructure, including water treatment facilities and solar power integration, to reduce its environmental footprint in the arid Sahelian environment. As a flagship project, Essakane symbolizes Burkina Faso's emergence as a major global gold producer and the critical role of mining in its modern industrial development.",
+      "factsAdvanced": [
+        "Largest industrial gold mine in Burkina Faso by output",
+        "Operated by IAMGOLD since commercial production began in 2010",
+        "Located in the northeastern Sahel region near the Niger border",
+        "Features a massive open-pit mine and CIL processing facility",
+        "Produces hundreds of thousands of ounces of gold annually",
+        "Significant contributor to the national GDP and export revenue",
+        "Integrates a large-scale solar farm to power its operations",
+        "Major employer in the Seno and Oudalan provinces"
+      ]
+    },
+    {
+      "id": "houndé-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Houndé Gold Mine, located in the Tuy province of western Burkina Faso, is one of the nation's premier industrial mining assets, operated by Endeavour Mining. Since achieving its first gold pour in 2017, the mine has quickly become a top-tier producer, benefiting from the highly prospective Birimian greenstone belt. The operation consists of multiple open pits and a modern processing plant with a capacity of several million tonnes per year. Houndé's strategic importance lies not only in its high-grade ore but also in its proximity to major transportation infrastructure, including the Ouagadougou-Bobo-Dioulasso highway. The mine is a critical economic engine for the western region, fostering local entrepreneurship through supply chain opportunities and community development programs. Its success has spurred further exploration in the region, solidifying the Tuy province's reputation as a vital mining district. Houndé represents the successful partnership between international investment and national resource management.",
+      "factsAdvanced": [
+        "Operated by Endeavour Mining in the Tuy province",
+        "Achieved first commercial gold production in October 2017",
+        "Located in the highly productive Birimian greenstone belt",
+        "Significant employer and economic driver in western Burkina Faso",
+        "Features multiple open pits and a large-scale processing plant",
+        "Produces over 200,000 ounces of gold annually",
+        "Benefit from proximity to the country's main western highway",
+        "Strong focus on local community development and sustainability"
+      ]
+    },
+    {
+      "id": "boungou-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Boungou Gold Mine, situated in the Est region of Burkina Faso, is a high-grade open-pit operation that plays a vital role in the country's eastern economic development. Known for its exceptional ore grades, the mine has been a significant contributor to the national gold output since its commissioning in 2018. The site is located in a remote but geologically rich area, requiring extensive infrastructure investment to support its advanced processing facilities. Boungou's operations are characterized by a focus on efficient resource extraction and rigorous safety standards, despite the logistical challenges of its location. The mine provides critical employment and community support in a region where industrial opportunities are limited, contributing to schools, healthcare, and water access. As part of the broader Arly-W-Pendjari landscape, the mine also adheres to strict environmental monitoring protocols to protect the surrounding ecosystems. Boungou remains a key strategic asset in Burkina Faso's diversified mining portfolio.",
+      "factsAdvanced": [
+        "High-grade industrial gold mine located in the Est region",
+        "Began commercial production and operations in 2018",
+        "Known for having some of the highest ore grades in the country",
+        "Vital source of employment and revenue for the eastern provinces",
+        "Features advanced open-pit mining and on-site processing",
+        "Operated with a strong emphasis on regional security and safety",
+        "Contributes to local infrastructure, including roads and water",
+        "Key asset in the national strategy for mineral diversification"
+      ]
+    },
+    {
+      "id": "perkoa-zinc-mine-economic-v2",
+      "descriptionAdvanced": "The Perkoa Zinc Mine, located in the Sanguié province of central-western Burkina Faso, is the country's first and most significant industrial base metal operation. Unlike the majority of the nation's mines which focus on gold, Perkoa is dedicated to the extraction of high-grade zinc concentrates from a unique volcanogenic massive sulfide (VMS) deposit. The mine utilizes underground mining techniques and a specialized processing plant to produce concentrates that are exported globally for smelting. Since its opening, Perkoa has diversified the Burkinabé mineral sector, reducing its reliance on gold and demonstrating the country's potential for diverse industrial mining. The operation is a major employer in the Koudougou region and has fostered the development of specialized technical skills among the local workforce. Perkoa's commitment to international environmental and safety standards has set a benchmark for non-precious metal mining in West Africa. It remains a strategic pillar of the national industrial strategy.",
+      "factsAdvanced": [
+        "First industrial zinc mine in Burkina Faso",
+        "Located in the Sanguié province near the city of Koudougou",
+        "Extracts zinc from a rare volcanogenic massive sulfide deposit",
+        "Operates as an underground mine with specialized processing",
+        "Diversifies the national economy beyond gold production",
+        "Produces high-grade zinc concentrates for international export",
+        "Significant employer and skill-builder in the Centre-Ouest region",
+        "Follows rigorous international environmental and safety protocols"
+      ]
+    },
+    {
+      "id": "bobointer-dry-port-economic-v2",
+      "descriptionAdvanced": "Bobointer, the dry port of Bobo-Dioulasso, is the most critical logistics and customs hub in western Burkina Faso, facilitating the country's international trade with the ports of Abidjan, San Pédro, and Dakar. This inland terminal serves as a central point for the clearance, storage, and distribution of goods, significantly reducing congestion at coastal ports and lowering transit times for Burkinabé importers. Equipped with modern container handling facilities, bonded warehouses, and streamlined customs offices, Bobointer is the backbone of the region's industrial and agricultural export economy. It plays a vital role in the export of cotton, cashews, and shea butter, while also handling the import of essential fuels, machinery, and consumer goods. The dry port's strategic position on the Abidjan-Niger railway and major road corridors makes it an indispensable engine for regional integration and economic growth. Bobointer is a symbol of Burkina Faso's efforts to overcome its landlocked status through advanced logistics infrastructure.",
+      "factsAdvanced": [
+        "Main inland logistics hub for western Burkina Faso",
+        "Strategic customs and clearance point for international trade",
+        "Located in Bobo-Dioulasso, the country's industrial capital",
+        "Facilitates transit between the Sahel and the ports of Ivory Coast",
+        "Vital for the export of cotton, cashews, and regional produce",
+        "Equipped with bonded warehouses and container handling facilities",
+        "Strategic node on the historic Abidjan-Niger railway line",
+        "Key driver of regional economic integration and trade efficiency"
+      ]
+    },
+    {
+      "id": "ouagarinter-dry-port-economic-v2",
+      "descriptionAdvanced": "Ouagarinter is the primary dry port and international logistics platform serving the capital city of Ouagadougou and the central regions of Burkina Faso. As the country's largest inland port, it acts as a critical interface for the multimodal transport of goods arriving by road and rail from the ports of Lomé, Cotonou, and Tema. The facility provides comprehensive services including customs clearance, container storage, and large-scale warehousing, making it the central nervous system of the national supply chain. Ouagarinter's operations are essential for ensuring the steady flow of essential commodities, construction materials, and industrial inputs required for the capital's rapid growth. By centralizing customs procedures, the dry port enhances transparency, reduces administrative delays, and boosts government revenue. Its ongoing modernization and expansion are key components of the national strategy to transform Burkina Faso into a regional logistics hub for the landlocked Sahel. Ouagarinter is a vital pillar of the nation's economic sovereignty and commercial vitality.",
+      "factsAdvanced": [
+        "Largest dry port and logistics platform in Burkina Faso",
+        "Primary interface for trade with the ports of Togo, Benin, and Ghana",
+        "Central hub for customs clearance and container management",
+        "Strategic node for the national supply chain and food security",
+        "Located in the southeastern industrial zone of Ouagadougou",
+        "Facilitates multimodal transport connecting road and rail networks",
+        "Key contributor to national customs revenue and trade statistics",
+        "Undergoing modernization to support regional transit goals"
+      ]
+    },
+    {
+      "id": "tambao-manganese-mine-economic-v2",
+      "descriptionAdvanced": "The Tambao Manganese Mine, located in the remote northeastern corner of the Oudalan province, is home to one of the world's largest and highest-quality undeveloped manganese deposits. Situated near the borders of Mali and Niger, the site holds strategic importance for the global steel and battery industries due to its exceptional ore grades. For decades, the development of Tambao has been a priority for the Burkinabé government, seen as a transformative project that could anchor the industrialization of the Sahel region. The project's full-scale exploitation requires significant investment in infrastructure, particularly the extension of the national railway from Kaya to the northern border. Once fully operational, Tambao is expected to become a major contributor to the national GDP and a primary source of industrial employment in the north. The mine symbolizes the immense untapped mineral wealth of the Sahelian region and the long-term vision for a diversified and interconnected West African economy.",
+      "factsAdvanced": [
+        "Contains one of the world's largest high-grade manganese deposits",
+        "Located in the far northeastern Oudalan province near Niger",
+        "Strategic asset for the global steel and battery manufacturing sectors",
+        "Projected to be a transformative economic driver for the Sahel region",
+        "Requires the extension of the national railway for full exploitation",
+        "Known for its exceptionally high manganese content and purity",
+        "Focal point of national industrial and infrastructure planning",
+        "Holds the potential to create thousands of regional industrial jobs"
+      ]
+    },
+    {
+      "id": "sofitex-bobo-dioulasso-economic-v2",
+      "descriptionAdvanced": "SOFITEX (Société des Fibres Textiles), headquartered in Bobo-Dioulasso, is the cornerstone of Burkina Faso's cotton industry, which is the nation's second-largest export sector. As the primary parastatal organization responsible for the western cotton-producing regions, SOFITEX manages the entire value chain, from providing seeds and fertilizers to farmers to the ginning and marketing of the final 'white gold.' Its massive industrial complexes in Bobo-Dioulasso feature advanced ginning facilities that process hundreds of thousands of tonnes of raw cotton annually. The company's operations support the livelihoods of millions of rural people, making it a vital pillar of social and economic stability. SOFITEX is also a leader in agricultural research and sustainable farming practices, working to increase yields and improve the quality of Burkinabé cotton on the international market. The organization symbolizes the industrial pride of western Burkina Faso and the enduring importance of agriculture in its modern economic framework.",
+      "factsAdvanced": [
+        "Largest cotton processing and marketing company in Burkina Faso",
+        "Headquartered in Bobo-Dioulasso, the industrial capital",
+        "Manages the 'white gold' value chain for the western regions",
+        "Second most important source of export revenue for the country",
+        "Supports the livelihoods of millions of smallholder cotton farmers",
+        "Operates multiple large-scale ginning factories across the west",
+        "Key driver of agricultural research and rural development",
+        "Vital for the national balance of trade and industrial output"
+      ]
+    },
+    {
+      "id": "sn-sosuco-banfora-economic-v2",
+      "descriptionAdvanced": "SN-SOSUCO (Société Nouvelle Société Sucrière de la Comoé), located in Banfora, is the national leader and only industrial sugar producer in Burkina Faso. Established in the mid-1960s, the company operates a massive agro-industrial complex that includes thousands of hectares of irrigated sugarcane plantations and a large-scale processing refinery. The factory is the largest employer in the Cascades region, providing thousands of seasonal and permanent jobs, and is a vital engine for the local economy. SN-SOSUCO's production is critical for the national market, reducing the country's dependence on imported sugar and supporting the domestic food and beverage industries. The company has also invested in significant irrigation infrastructure, including the Comoé dam system, which has transformed the surrounding landscape. Despite international competition, SN-SOSUCO remains a proud symbol of Burkinabé industrial sovereignty and a cornerstone of the southwestern economic development zone.",
+      "factsAdvanced": [
+        "Burkina Faso's only industrial sugar producer and refinery",
+        "Operates a massive agro-industrial complex in the Cascades region",
+        "Manages thousands of hectares of irrigated sugarcane plantations",
+        "Largest employer in the city of Banfora and the surrounding area",
+        "Critical for national food sovereignty and sugar supply",
+        "Founded in the 1960s as a pillar of post-colonial industrialization",
+        "Utilizes advanced irrigation systems from the Comoé river basin",
+        "Major contributor to the regional GDP of southwestern Burkina Faso"
+      ]
+    },
+    {
+      "id": "cimburkina-ouagadougou-economic-v2",
+      "descriptionAdvanced": "Cimburkina, located in the Kossodo industrial zone of Ouagadougou, is one of the leading cement manufacturers in Burkina Faso and a key player in the nation's construction boom. Operated as a subsidiary of the Heidelberg Materials group, the plant uses state-of-the-art grinding technology to produce high-quality cement tailored for the local climate and infrastructure projects. The facility's strategic location in the capital allows for the efficient distribution of cement to major construction sites, including the expansion of the urban road network and residential developments. Cimburkina is committed to sustainable industrial practices, implementing rigorous dust control measures and energy-efficient processes to minimize its urban environmental impact. The company also plays a significant role in the national economy through job creation and the support of a large network of local distributors and contractors. By ensuring a steady supply of high-grade building materials, Cimburkina is a vital partner in the modernization of Burkina Faso's urban landscape.",
+      "factsAdvanced": [
+        "Major cement grinding and distribution plant in Ouagadougou",
+        "Subsidiary of the international Heidelberg Materials group",
+        "Key supplier for the nation's rapid urban and road infrastructure growth",
+        "Located in the Kossodo industrial zone for strategic distribution",
+        "Utilizes advanced energy-efficient grinding and cooling technology",
+        "Major employer and supporter of the local construction sector",
+        "Promotes sustainable industrial standards and local quality norms",
+        "Essential for reducing the cost of building materials in the capital"
+      ]
+    }
+  ]
+}

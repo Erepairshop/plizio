@@ -1,0 +1,33 @@
+{
+  "lang": "de",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chisamba-forest-nature-v2",
+      "descriptionAdvanced": "Die Wälder von Chisamba sind bedeutende Überreste des Miombo-Waldes, der einst weite Teile Zentral-Sambias bedeckte und heute aufgrund der landwirtschaftlichen Expansion unter Druck steht. Diese ökologischen Inseln fungieren als unverzichtbare Zufluchtsorte für die einheimische Avifauna und kleine Säugetierarten, während sie gleichzeitig die Bodenqualität und das lokale Wasserregime stabilisieren. Die Wälder sind zudem eine traditionelle Quelle für medizinische Pflanzen und essbare Waldprodukte, was sie auch für die lokale Gemeinschaft ökologisch und soziokulturell wertvoll macht. Der Erhalt dieser spezifischen Waldfragmente ist ein entscheidender Schritt für den Naturschutz in der intensiv genutzten Agrarregion um Chisamba.",
+      "factsAdvanced": [
+        "Wichtige Miombo-Waldfragmente in Zentral-Sambia",
+        "Wesentlicher Zufluchtsort für einheimische Vögel und Kleinsäuger",
+        "Traditionelle Quelle für Heilpflanzen und Waldfrüchte",
+        "Kritisch für die Stabilisierung der lokalen Bodenqualität",
+        "Stark fragmentiert durch die fortschreitende Landwirtschaft",
+        "Schlüsselhabitat für lokale Bestäuberinsekten"
+      ]
+    },
+    {
+      "id": "luangwa-swamps-nature-v2",
+      "descriptionAdvanced": "Die Sümpfe entlang des Luangwa-Flusses sind periodisch überflutete Marschlandschaften, die ein äußerst dynamisches und artenreiches Ökosystem bilden. Die jährlichen Überschwemmungen führen zu einer ständigen Erneuerung der nährstoffreichen Sedimente, was eine spezialisierte Flora und eine außergewöhnlich hohe Konzentration an Vögeln ermöglicht. Dieses Habitat ist besonders wichtig für migrierende Arten und bietet während der kritischen Jahreszeiten einen sicheren Lebensraum für zahlreiche Wildtiere. Die ökologische Dynamik dieser Sumpfgebiete ist tiefgreifend mit dem gesamten hydrologischen System des Luangwa-Tals verwoben und macht sie zu einer unverzichtbaren Komponente der regionalen Biodiversität.",
+      "factsAdvanced": [
+        "Dynamisches Marschland entlang des Luangwa-Flusslaufs",
+        "Regelmäßige Sedimenterneuerung durch Überschwemmungen",
+        "Hervorragendes Habitat für spezialisierte Wasservogelarten",
+        "Wichtiger Rückzugsort für migrierende Tierarten",
+        "Essentieller Bestandteil des Luangwa-Ökosystems",
+        "Hohe Konzentration an Arten durch saisonale Nährstoffzufuhr"
+      ]
+    }
+  ]
+}

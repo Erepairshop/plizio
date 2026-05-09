@@ -1,0 +1,177 @@
+{
+  "lang": "ro",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "boussouma-relief-v2",
+      "descriptionAdvanced": "Dealurile Boussouma sunt o serie de elevații de granit și podișuri vălurite în inima provinciei Sanmatenga. Acest relief este renumit pentru „chaos granitique” – bolovani masivi, erodați, stivuiți în formațiuni artistice care domină peisajul. Din punct de vedere istoric, dealurile au servit drept inimă sacră și bastion defensiv al Regatului Boussouma, una dintre cele mai reziliente formațiuni statale Mossi. Relieful creează o varietate de microclimate, cu văile umbrite dintre dealuri susținând o vegetație densă și izvoare sezoniere. Aceste văi sunt foarte apreciate pentru solurile lor fertile și condițiile protejate, permițând o gamă mai diversă de culturi decât câmpiile deschise. Relieful Boussouma nu este doar o minune geologică, ci și un peisaj cultural viu, unde fiecare vârf stâncos are un nume și o poveste. Rămâne unul dintre cele mai izbitoare vizual și semnificative istoric reliefuri de pe platoul central.",
+      "factsAdvanced": [
+        "Relief deluros de granit izbitor în provincia centrală Sanmatenga",
+        "Faimos pentru formațiunile unice de bolovani și „chaos granitique”",
+        "Scaun defensiv și spiritual istoric al Regatului Boussouma",
+        "Relieful creează micro-văi fertile pentru o agricultură diversificată",
+        "Punct strategic la mare altitudine în regiunea Plateau-Central",
+        "Conține numeroase sanctuare stâncoase sacre și situri ancestrale",
+        "Susține o varietate bogată de floră nativă sudano-saheliană",
+        "Oferă priveliști spectaculoase asupra câmpiilor centrale burkinabe"
+      ]
+    },
+    {
+      "id": "pama-relief-v2",
+      "descriptionAdvanced": "Câmpiile Pama reprezintă o depresiune sedimentară vastă și întinsă în colțul îndepărtat de sud-est al statului Burkina Faso, la granița cu Benin și Togo. Acest relief este cea mai joasă și umedă parte a regiunii estice, caracterizată prin câmpiile sale largi, inundabile, și savane lemnoase dense. Din punct de vedere istoric, relieful Pama a fost un sanctuar principal pentru fauna sălbatică, formând o parte critică a complexului de parcuri naționale Arly și W. Zona este alimentată de inundațiile sezoniere ale râurilor Singou și Pendjari, care creează un peisaj fertil, dar adesea inaccesibil în timpul sezonului ploios. Energia reliefului este scăzută, cu orizonturi nesfârșite întrerupte doar de grupuri ocazionale de palmieri și baobabi maiestuoși. Acest peisaj îndepărtat și sălbatic este una dintre ultimele adevărate sălbăticii din Africa de Vest.",
+      "factsAdvanced": [
+        "Depresiune sedimentară vastă în regiunea estică îndepărtată",
+        "Relief principal pentru fauna sălbatică a zonei de conservare Arly-W-Pendjari",
+        "Caracterizată prin câmpii inundabile plate și savană lemnoasă densă",
+        "Dominată hidrologic de sistemele fluviale Singou și Pendjari",
+        "Unul dintre cele mai umede și bogate în biodiversitate reliefuri din sectorul estic",
+        "Densitate a populației extrem de scăzută, păstrându-și caracterul sălbatic",
+        "Coridor strategic transfrontalier pentru migrațiile elefanților și leilor",
+        "Adăpostește palmieri maiestuoși și ecosisteme sezoniere de zone umede"
+      ]
+    },
+    {
+      "id": "boulsa-relief-v2",
+      "descriptionAdvanced": "Podișul Boulsa este un scut granitic masiv și stabil în centrul-estul statului Burkina Faso, formând o răscruce la mare altitudine între regiunile centrale și nordice. Caracterizat prin terenul său ușor vălurit și solurile sale de laterită roșie intensă, relieful este tipic pentru inima statului Mossi. Din punct de vedere istoric, Boulsa a fost un nod administrativ și comercial vital, altitudinea sa oferind o locație sănătoasă și strategică pentru regatul local. Platoul este marcat de savane largi, deschise, presărate cu arbori de shea și néré, care sunt esențiali pentru economia rurală. Relieful influențează fluxul regional de apă, acționând ca un bazin hidrografic între sistemele fluviale Nakambé și estice. În timp ce solurile pot fi subțiri și pietroase pe înălțimi, depresiunile puțin adânci („bas-fonds”) oferă teren fertil pentru agricultura sezonieră intensivă.",
+      "factsAdvanced": [
+        "Podiș masiv de granit și laterită în provincia Namentenga",
+        "Relief strategic la mare altitudine și bazin hidrografic regional",
+        "Caracterizat prin savane deschise largi și câmpii ușor vălurite",
+        "Scaun istoric al regatului Boulsa și al miniștrilor săi tradiționali",
+        "Zonă principală de producție pentru untul de shea și cereale tradiționale",
+        "Relieful susține o rețea densă de așezări tradiționale Mossi",
+        "Parte geologică a vechiului scut cristalin vest-african",
+        "Punct de reper vital pentru rutele centrale-estice de comerț și migrație"
+      ]
+    },
+    {
+      "id": "pouytenga-relief-v2",
+      "descriptionAdvanced": "Câmpia Pouytenga este un relief remarcabil de plat și accesibil în provincia Kouritenga, servind drept răscruce comercială și logistică a centrului statului Burkina Faso. Acest peisaj uniform se caracterizează prin lipsa barierelor fizice majore, ceea ce a facilitat istoric dezvoltarea sa ca cel mai important hub comercial al țării. Relieful constă în podișuri stabile de laterită și văi aluvionare puțin adânci care susțin atât comerțul intensiv, cât și agricultura productivă. Simplitatea terenului a permis crearea uneia dintre cele mai mari piețe de animale din Africa de Vest și a unei rețele comerciale urbane vaste. În timpul sezonului ploios, panta blândă a câmpiei asigură drenajul eficient către bazinele fluviale învecinate. Relieful Pouytenga este peisajul suprem „centrat pe om”, unde topografia plată a fost perfect utilizată pentru a construi un motor economic dinamic.",
+      "factsAdvanced": [
+        "Câmpie comercială excepțional de plată în provincia Kouritenga",
+        "Situată strategic la intersecția rutieră națională și internațională",
+        "Baza topografică pentru unul dintre cele mai mari centre comerciale din Africa de Vest",
+        "Prezintă soluri stabile de laterită ideale pentru expansiunea urbană și rutieră",
+        "Hub major pentru redistribuirea bunurilor în tot Sahelul",
+        "Energia reliefului este scăzută, facilitând activități comerciale la scară mare",
+        "Susține o densitate mare a populației și comerț rural intensiv",
+        "Legătură cheie în coridorul logistic dintre coastă și nord"
+      ]
+    },
+    {
+      "id": "tanguieta-relief-v2",
+      "descriptionAdvanced": "Piemontul Tanguiéta reprezintă marginea nord-vestică dramatică a lanțului muntos Atakora, formând un relief accidentat și pitoresc la granița dintre statul Burkina Faso și Benin. Această zonă se caracterizează prin stâncile sale abrupte de gresie, crestele stâncoase și văile de eroziune adânci, care oferă cea mai înaltă energie a reliefului din partea estică a țării. Din punct de vedere istoric, piemontul a fost o zonă strategică de observare și apărare pentru Gourmantché, oferind priveliști panoramice asupra vastelor câmpii Pendjari. Relieful creează un microclimat unic care captează vânturile pline de umiditate, rezultând o vegetație luxuriantă și cascade sezoniere care sunt o raritate în regiune. Terenul accidentat oferă un sanctuar pentru fauna specializată, inclusiv răpitoare și mamifere care trăiesc pe stânci. Pentru iubitorii de natură, relieful Tanguiéta oferă un peisaj provocator și plin de satisfacții pentru drumeții.",
+      "factsAdvanced": [
+        "Piemont muntos accidentat la lanțul Atakora de nord-vest",
+        "Relief strategic de graniță între Burkina Faso și Benin",
+        "Prezintă stânci abrupte de gresie și creste stâncoase dramatice",
+        "Cea mai înaltă energie a reliefului topografic din provinciile burkinabe estice",
+        "Oferă un microclimat unic pentru o floră luxuriantă și diversă",
+        "Punct strategic istoric de observare cu vedere asupra văii Pendjari",
+        "Adăpostește numeroase specii de vulturi și faună de stâncă",
+        "Destinație regională de top pentru drumeții și ecoturism"
+      ]
+    },
+    {
+      "id": "koudougou-relief-v2",
+      "descriptionAdvanced": "Câmpia Koudougou este un relief agricol vast și productiv pe platoul central-vestic al statului Burkina Faso. Acest peisaj uniform și ușor înclinat este dominat de soluri de laterită și este punctat de ocazionalul „inselberg” de granit care oferă un punct focal pentru savana înconjurătoare. Din punct de vedere istoric, relieful Koudougou a fost fundamentul industriei textile a țării, câmpurile sale plate și bine drenate fiind ideale pentru cultivarea industrială a bumbacului. Câmpia este, de asemenea, un coridor vital pentru calea ferată Abidjan-Niger, deoarece terenul stabil și nivelat a permis o construcție feroviară ușoară. Peisajul este caracterizat de un parc vast de arbori de shea și néré, care oferă un venit secundar vital pentru populația locală. Relieful Koudougou este inima economică a provinciei Boulkiemdé, unde regularitatea naturală a peisajului susține o densitate ridicată a agriculturii.",
+      "factsAdvanced": [
+        "Câmpie agricolă vastă în provincia central-vestică Boulkiemdé",
+        "Inima tradițională a industriei naționale de bumbac și textile",
+        "Prezintă soluri stabile de laterită și inselberg-uri ocazionale de granit",
+        "Teren strategic nivelat pentru calea ferată istorică Abidjan-Niger",
+        "Zonă principală de producție pentru nuci de shea și cereale tradiționale",
+        "Dominată hidrologic de bazinul superior al Voltei Negre (Mouhoun)",
+        "Susține o densitate mare a populației și așezări rurale intensive",
+        "Motor cheie al economiei regionale și al logisticii industriale"
+      ]
+    },
+    {
+      "id": "ouagadougou-plateau-v2",
+      "descriptionAdvanced": "Podișul Ouagadougou este ancora geografică și politică centrală a statului Burkina Faso, un scut masiv și antic de laterită care găzduiește capitala națiunii. Ridicându-se la o altitudine medie de 300 de metri, podișul se caracterizează prin suprafața sa ușor vălurită și poziția sa centrală pe podișul Mossi. Din punct de vedere istoric, acest relief a fost ales ca sediu al lui Moro Naba datorită mediului său sănătos și strategic la mare altitudine. Geologia platoului este dominată de laterită dură, rezistentă la intemperii, și granit, oferind o fundație stabilă pentru expansiunea urbană rapidă a capitalei moderne. Relieful dictează aspectul unic al orașului, barajele și rezervoarele sale sezoniere fiind construite în depresiunile naturale puțin adânci pentru a capta scurgerile de pe înălțimi. Podișul Ouagadougou este mai mult decât un relief; este scena pe care a fost construit statul modern burkinabe.",
+      "factsAdvanced": [
+        "Platou central de laterită și granit care găzduiește capitala națională",
+        "Altitudine medie de 300 de metri, oferind o bază urbană strategică",
+        "Inimă geologică stabilă a scutului cristalin vest-african",
+        "Dictează hidrologia și aprovizionarea cu apă a regiunii Ouagadougou",
+        "Knotenpunkt (nod) al tuturor rețelelor rutiere naționale și internaționale majore",
+        "Scaun politic și cultural istoric al Imperiului Mossi",
+        "Caracterizat prin cruste dure de laterită și pante ușor vălurite",
+        "Relief esențial pentru infrastructura modernă și planificarea orașului"
+      ]
+    },
+    {
+      "id": "bobodioulasso-relief-v2",
+      "descriptionAdvanced": "Dealurile Bobo-Dioulasso, cunoscute și sub numele de Platoul Houet, reprezintă un relief luxuriant și complex din punct de vedere geologic în sud-vestul statului Burkina Faso. Această regiune este unică pentru formațiunile sale de rocă stratificate, inclusiv calcar, gresie și granit, care au creat un peisaj de dealuri vălurite, văi adânci și numeroase izvoare naturale. Din punct de vedere istoric, relieful Bobo-Dioulasso a fost cea mai fertilă și biodiversă parte a țării, câștigându-i titlul de „capitala verde”. Relieful captează precipitații semnificative, care alimentează râuri permanente precum Kou și susțin un baldachin luxuriant de livezi de fructe și păduri de galerie. Dealurile oferă un mediu mai răcoros și mai variat decât câmpiile centrale, făcându-l o destinație populară pentru turism și un centru major pentru agro-industrie. Relieful Bobo-Dioulasso este sursa energiei vibrante a orașului și a reputației sale de grădină a țării.",
+      "factsAdvanced": [
+        "Relief deluros luxuriant și divers din punct de vedere geologic în provincia Houet",
+        "Cunoscut drept „inima verde” și „grădina statului Burkina Faso”",
+        "Prezintă un amestec complex de calcar, gresie și granit",
+        "Cea mai mare concentrație de izvoare naturale și cursuri de apă permanente",
+        "Susține producția intensivă de fructe, în special mango și citrice",
+        "Caracterizat prin dealuri vălurite, văi adânci și păduri luxuriante",
+        "Oferă un microclimat răcoros și variat pentru capitala economică",
+        "Esențial pentru sectoarele agro-industriale naționale și sucuri"
+      ]
+    },
+    {
+      "id": "banfora-relief-v2",
+      "descriptionAdvanced": "Podișul stâncos Banfora este un relief spectaculos și unic din punct de vedere geologic în regiunea Cascades din sud-vestul statului Burkina Faso. Această formațiune masivă de gresie face parte din escarparea mai largă Banfora și este faimoasă pentru formele sale bizare și frumoase de eroziune, inclusiv Dômes de Fabédougou și vârfurile Sindou. Din punct de vedere istoric, podișul a fost un peisaj sacru pentru popoarele Karaboro și Senoufo, care cred că formațiunile stâncoase sunt opera spiritelor divine. Relieful este responsabil pentru cascadele spectaculoase din regiune, unde râuri precum Comoé se prăbușesc peste stâncile verticale ale podișului. Gresia acționează ca un burete gigant, stocând apa de ploaie și eliberând-o prin izvoare permanente care hrănesc vegetația luxuriantă de la baza stâncilor. Relieful Banfora este principala destinație de ecoturism din țară.",
+      "factsAdvanced": [
+        "Platou spectaculos de gresie în regiunea sud-vestică Cascades",
+        "Găzduiește emblematicele cascade Karfiguéla și Dômes de Fabédougou",
+        "Capodoperă geologică modelată de milioane de ani de eroziune",
+        "Gresia acționează ca un filtru de apă regional vital și rezervor",
+        "Considerat un peisaj cultural sacru și spiritual puternic",
+        "Prezintă stânci verticale dramatice și formațiuni unice de „orașe de piatră”",
+        "Oferă cel mai divers și pitoresc teren de drumeții din țară",
+        "Trăsătură geologică strategică ce influențează microclimatul sudic"
+      ]
+    },
+    {
+      "id": "bogande-relief-v2",
+      "descriptionAdvanced": "Depresiunea Bogandé este o câmpie de savană vastă și relativ joasă în provincia estică Gnagna. Acest relief acționează ca un bazin natural masiv care colectează scurgerile sezoniere de pe podișurile Gourma din jur, creând un peisaj pastoral esențial. Caracterizat prin solurile sale argiloase grele și vegetația lemnoasă rară, depresiunea este inima economică a sectorului estic de creștere a animalelor. Din punct de vedere istoric, a fost o zonă de pășunat vitală pentru păstorii nomazi Fulani și Gourmantché, care se adună aici în timpul sezonului uscat pentru a utiliza adăpătorile rămase („mares”). Relieful este în general plat și deschis, cu orizonturi largi care sunt o trăsătură clasică a zonei de tranziție estice saheliene. În timpul sezonului ploios, mari părți ale depresiunii pot deveni mlăștinoase sezonier, oferind un habitat bogat pentru păsările de apă și ierburile sezoniere.",
+      "factsAdvanced": [
+        "Depresiune sedimentară vastă în provincia estică Gnagna",
+        "Bazin pastoral primar pentru turmele de animale din estul statului Burkina Faso",
+        "Caracterizată prin teren plat și soluri argiloase grele, mlăștinoase sezonier",
+        "Zonă strategică de captare a apei pentru regiunea nordică Gourma",
+        "Adăpostește diverse păsări saheliene și floră specializată de savană",
+        "Relieful dictează rutele sezoniere de transhumanță din est",
+        "Prezintă orizonturi largi, deschise, tipice tranziției saheliene",
+        "Esențială pentru economia regională și supraviețuirea nomazilor"
+      ]
+    },
+    {
+      "id": "pissila-relief-v2",
+      "descriptionAdvanced": "Dealurile Pissila sunt o serie de creste de granit distinctive și podișuri stâncoase situate în partea de nord a provinciei Sanmatenga. Acest relief marchează tranziția accidentată dintre podișul central Mossi și Sahelul nordic mai uscat. Caracterizate prin formațiunile lor stâncoase întunecate, bătute de intemperii și vegetația rară, rezistentă, dealurile oferă un peisaj dramatic și rezilient. Din punct de vedere istoric, relieful Pissila a fost un sit al mineritului artizanal și industrial semnificativ, înălțimile stâncoase ascunzând zăcăminte minerale valoroase. Dealurile servesc, de asemenea, ca o barieră critică împotriva eroziunii eoliene și a deșertificării, protejând văile fertile din sud. Terenul accidentat oferă avantaje strategice pentru așezările locale și oferă puncte importante de observație asupra câmpiilor nordice. Relieful Pissila este un simbol al naturii dure și durabile a interiorului burkinabe.",
+      "factsAdvanced": [
+        "Țară deluroasă de granit distinctivă în provincia nordică Sanmatenga",
+        "Relief strategic de tranziție între podișul central și Sahel",
+        "Caracterizat prin creste stâncoase accidentate și potențial mineral ridicat",
+        "Acționează ca o barieră naturală împotriva eroziunii eoliene nordice",
+        "Zonă importantă atât pentru mineritul artizanal, cât și pentru cel industrial de aur",
+        "Adăpostește floră saheliană rezistentă la secetă și faună specializată",
+        "Prezintă forme de eroziune antice și puncte strategice la mare altitudine",
+        "Esențial pentru înțelegerea istoriei geologice a nordului"
+      ]
+    },
+    {
+      "id": "gorom-gorom-relief-v2",
+      "descriptionAdvanced": "Dunele Gorom-Gorom reprezintă cel mai spectaculos și extins relief în stil saharian din statul Burkina Faso, situat în cea mai nordică provincie Oudalan. Aceste dune de nisip portocaliu, care pot atinge înălțimi de 30 de metri, sunt o extensie dramatică a marelui deșert în zona saheliană. Din punct de vedere istoric, dunele au fost peisajul sacru și simbolic al nomazilor Tuareg și Fulani, oferind atât provocări, cât și oportunități unice de supraviețuire. Relieful este constant remodelat de vânturile sezoniere Harmattan, creând o topografie dinamică și mereu în schimbare. În ciuda aridității extreme, dunele susțin o viață specializată adaptată la deșert, inclusiv arbuști rezistenți la secetă. Dunele se învecinează cu faimoasa zonă umedă internațională Mare de Oursi, creând un contrast vizual unic în Africa de Vest. Relieful Gorom-Gorom este simbolul suprem al frontierei nordice.",
+      "factsAdvanced": [
+        "Cel mai semnificativ sistem de dune de nisip în stil saharian din Burkina Faso",
+        "Situat în provincia cea mai nordică Oudalan, lângă granița cu Mali",
+        "Dunele se ridică până la 30 de metri deasupra câmpiilor saheliene înconjurătoare",
+        "Constant remodelate de puternicele vânturi sezoniere Harmattan",
+        "Învecinat cu situl strategic de zone umede Ramsar Mare de Oursi",
+        "Inima tradițională a culturilor nomade Tuareg și Fulani",
+        "Oferă habitate unice pentru fauna specializată adaptată deșertului",
+        "Unul dintre cele mai iconice și aventuroase reliefuri din punct de vedere fotografic"
+      ]
+    }
+  ]
+}

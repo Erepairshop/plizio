@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ailet-plain-relief-v2",
+      "descriptionAdvanced": "Az Ailet-síkság a felföld és a partvidék közötti átmeneti mélyföld, amelyet az extrém száraz, sivatagszerű körülmények és a kifejezetten magas hőmérsékletek jellemeznek. Az aszályos környezet komoly kihívást jelent az emberi megtelepedés számára, ám biológiai szempontból kifejezetten érdekes a kánikulát jól tűrő, speciális növényzete miatt. Tranzitövezetként az Ailet-síkság ékes példája azoknak a természeti korlátoknak, amelyek meghatározzák Eritrea tengerparti hátországát. Földrajz K7 — sivatagi alföldek és környezeti tényezők.",
+      "factsAdvanced": [
+        "Durva, sivatagi viszonyok.",
+        "Egész évben extrém forróság.",
+        "Korlátozott vízkészletek.",
+        "Hőtűrő növényvilág.",
+        "Átmeneti zóna a felföld és a part között.",
+        "Ökológiai korlátok a forróság miatt."
+      ]
+    },
+    {
+      "id": "habab-mountain-relief-v2",
+      "descriptionAdvanced": "A Habab-hegység Eritrea északi részének tagolt, meredek terepviszonyokkal rendelkező régiója. Ezt a távoli hegyvidéket jórészt nomád népcsoportok lakják, akik a magaslati legelőket és völgyeket használják állataik számára. Mivel a vidék nehezen megközelíthető, érintetlen maradt a modern urbanizációtól, így egyfajta természetes vadonként őrzi az északi nomád hagyományokat. A hegyek természetes határvonalat képeznek és egyúttal a hagyományos életmód menedékhelyei. Földrajz K7 — tagolt hegyvidék és nomád földhasználat.",
+      "factsAdvanced": [
+        "Meredek, tagolt hegyvidéki terep.",
+        "Hagyományos nomád legeltetés.",
+        "Távoli, érintetlen táj.",
+        "Magasan fekvő legelők.",
+        "Az északi törzsek kultúrájának tükre.",
+        "Természetes vadon-határ."
+      ]
+    },
+    {
+      "id": "massawa-coastal-plain-relief-v2",
+      "descriptionAdvanced": "A Massaua-parti síkság a Vörös-tenger mentén húzódó szűk sáv, amelyet sík terep és trópusi páratartalom jellemez. Ez az alföld az ország elsődleges tengeri kapuja, ahol a rekkenő hőség és a magas páratartalom alapvetően meghatározza az életmódot. A terep síksága lehetővé tette Massaua kikötővárosának logisztikai fejlesztését, ugyanakkor építészeti és életmódbeli alkalmazkodásra is kényszerítette a lakosságot. A síkság elengedhetetlen része Eritrea nemzetközi kereskedelmének. Földrajz K7 — partvidéki síkság és városi alkalmazkodás.",
+      "factsAdvanced": [
+        "Keskeny, sík tengerparti sáv.",
+        "Magas trópusi páratartalom.",
+        "Síksága kedvező az infrastruktúrának.",
+        "A forróság befolyásolja a városi életet.",
+        "Az ország logisztikai kapuja.",
+        "Kikötői infrastruktúra alapja."
+      ]
+    }
+  ]
+}

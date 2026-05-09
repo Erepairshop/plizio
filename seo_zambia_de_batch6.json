@@ -1,0 +1,57 @@
+{
+  "lang": "de",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalambo-falls-nature-v2",
+      "descriptionAdvanced": "Die Kalambo-Fälle gehören zu den beeindruckendsten und höchsten einstufigen Wasserfällen in ganz Afrika. Mit einer beeindruckenden Fallhöhe von 235 Metern stürzt das Wasser in eine tiefe, von steilen Felswänden umgebene Schlucht, die sich im Grenzgebiet zwischen Sambia und Tansania befindet. Die archäologische Bedeutung dieses Ortes ist ebenso bemerkenswert, da hier bedeutende Funde aus der frühen Menschheitsgeschichte gemacht wurden. Die dramatische Geologie und die abgelegene Lage machen die Kalambo-Fälle zu einem besonderen Ziel für Naturliebhaber, die die wilde und unberührte Schönheit des sambischen Nordens abseits der üblichen Touristenpfade erleben möchten.",
+      "factsAdvanced": [
+        "Einer der höchsten einstufigen Wasserfälle Afrikas",
+        "Fallhöhe beträgt beeindruckende 235 Meter",
+        "Bedeutende archäologische Stätte mit frühen Funden",
+        "Gelegen in einer spektakulären tiefen Felsschlucht",
+        "Bildet ein natürliches Grenzmerkmal zu Tansania",
+        "Wichtiger Lebensraum für spezialisierte Vogelarten"
+      ]
+    },
+    {
+      "id": "ngonye-falls-nature-v2",
+      "descriptionAdvanced": "Die Ngonye-Fälle am Sambesi-Fluss im Südwesten Sambias sind für ihre markante, halbmondartige Form und ihre immense Kraft bekannt. Obwohl sie nicht die Höhe der Victoriafälle erreichen, beeindrucken sie durch das schiere Volumen der durchströmenden Wassermassen, die sich tosend über die Felsformationen ergießen. Da die Fälle weitab von den großen Touristenströmen liegen, bieten sie ein ruhiges und authentisches Naturerlebnis. Die unberührte Umgebung, die nur spärlich von menschlichen Aktivitäten erschlossen ist, dient als wichtiger Rückzugsort für diverse Wildtierarten, die in dieser wasserreichen Region entlang des Sambesi heimisch sind.",
+      "factsAdvanced": [
+        "Markante halbmondförmige Felsformation am Sambesi",
+        "Beeindruckendes Volumen der durchströmenden Wassermassen",
+        "Gelegen im abgelegenen Südwesten Sambias",
+        "Weitgehend abseits der großen Touristenströme",
+        "Unberührte Umgebung mit hoher ökologischer Integrität",
+        "Wichtiger Lebensraum entlang des Sambesi-Flusslaufs"
+      ]
+    },
+    {
+      "id": "lupupa-swamp-nature-v2",
+      "descriptionAdvanced": "Das Lupupa-Sumpfgebiet im Norden Sambias ist eine weitgehend unberührte und extrem abgelegene Wildnis, die ein komplexes Ökosystem darstellt. Hier wechseln sich saisonal überflutete Flächen mit dichter, spezialisierter Sumpfvegetation ab, was einen idealen Lebensraum für eine Vielzahl von Amphibien und Wasservögeln schafft. Aufgrund der schwierigen Erreichbarkeit ist das Gebiet weitgehend von menschlichen Eingriffen verschont geblieben und bewahrt damit seinen ursprünglichen Charakter. Diese Abgeschiedenheit macht es zu einem wichtigen Untersuchungsraum für unbeeinflusste ökologische Zyklen und die natürliche Anpassung der Flora und Fauna an die wechselnden Wasserstände.",
+      "factsAdvanced": [
+        "Extrem abgelegenes und weitgehend unberührtes Sumpfgebiet",
+        "Komplexes Zusammenspiel von Wasserflächen und Vegetation",
+        "Idealer Lebensraum für zahlreiche Amphibienarten",
+        "Saisonal stark wechselnde Wasserstände prägen die Flora",
+        "Von menschlichen Eingriffen nahezu unbeeinflusste Wildnis",
+        "Wichtiger Raum für ökologische Studien"
+      ]
+    },
+    {
+      "id": "mweru-wantipa-lake-nature-v2",
+      "descriptionAdvanced": "Der Mweru-Wantipa-See ist ein flaches Binnengewässer im Norden Sambias, das untrennbar mit den umliegenden Sumpfgebieten verbunden ist. Das Wasser des Sees weist einen leicht salzhaltigen Charakter auf, was in Kombination mit den saisonalen Wasserstandsschwankungen eine einzigartige ökologische Nische schafft. Das weiträumige Schutzgebiet um den See herum ist ein Paradies für Vogelbeobachter, da die Region eine der höchsten Dichten an Wasservögeln in Nord-Sambia aufweist. Die dynamische Natur des Sees, die zwischen wasserreichen Zeiten und fast trockenen Perioden schwankt, macht ihn zu einem faszinierenden Beispiel für die Anpassungsfähigkeit der Natur an wechselhafte Bedingungen.",
+      "factsAdvanced": [
+        "Flacher See mit eng verbundenem Sumpfsystem",
+        "Wasser weist einen leicht salzhaltigen Charakter auf",
+        "Umliegendes Schutzgebiet mit hoher Dichte an Wasservögeln",
+        "Starke saisonale Dynamik der Wasserstände",
+        "Faszinierendes Beispiel für ökologische Anpassung",
+        "Wichtiger Knotenpunkt für nord-sambische Vogelarten"
+      ]
+    }
+  ]
+}

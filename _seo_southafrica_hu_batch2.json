@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sugar-cane-fields-agriculture-life-v2",
+      "descriptionAdvanced": "KwaZulu-Natal vidékét hatalmas, vibráló zöld cukornád-ültetvények borítják, amelyek a régió gazdasági életének egyik fő pillérét jelentik. A cukornád-termesztés hosszú hagyományokkal rendelkezik Dél-Afrikában, és ezek az ültetvények nemcsak jelentős ipari értékkel bírnak, de a táj jellegzetes arculatát is meghatározzák. A családok és az érdeklődő diákok számára a mezők látványa és a termesztési folyamatok megismerése kiváló lehetőséget nyújt az agrárium alapjainak megértésére. Ez a környezet hitelesen mutatja be az ember és a természet harmonikus, mégis célirányos együttműködését a mezőgazdaságban.",
+      "factsAdvanced": [
+        "Jelentős cukornádtermelő régió",
+        "KwaZulu-Natal gazdasági bázisa",
+        "Jellegzetes zöld tájképi elem",
+        "Tradicionális mezőgazdasági gyakorlatok",
+        "Oktatási jelentőségű mezőgazdasági terület",
+        "Hosszú termesztési hagyományok",
+        "Ipari léptékű cukornád-előállítás"
+      ]
+    },
+    {
+      "id": "eagle-encounters-life-v2",
+      "descriptionAdvanced": "Az Eagle Encounters egy különleges ragadozómadár-védelmi projekt, amely lehetőséget ad a látogatóknak, hogy testközelből ismerjék meg a sasok, sólymok és baglyok lenyűgöző világát. A központ elsődleges célja a sérült vagy elárvult madarak rehabilitációja és későbbi visszaengedése a természetbe, miközben folyamatosan edukálják a nagyközönséget. A interaktív bemutatók során a gyerekek biztonságos távolságból, mégis közvetlenül láthatják a madarak lenyűgöző röptét, ami maradandó élményt nyújt. Ez a projekt kiválóan ötvözi a természetvédelmet az ismeretterjesztéssel.",
+      "factsAdvanced": [
+        "Ragadozómadár-rehabilitációs központ",
+        "Látványos, interaktív röp-bemutatók",
+        "Edukációs programok minden korosztálynak",
+        "Sérült ragadozómadarak megmentése",
+        "Közvetlen kapcsolat a természettel",
+        "Fontos fajvédelmi kezdeményezés",
+        "Népszerű helyszín családoknak"
+      ]
+    },
+    {
+      "id": "monkey-land-life-v2",
+      "descriptionAdvanced": "A Monkeyland a világ egyik első, teljesen szabadon engedett főemlős-védelmi központja, ahol különféle fajok élnek egymással harmóniában egy hatalmas, természetes erdei környezetben. A látogatók vezetett túrákon keresztül járhatják be az erdőt, miközben majmokat és más főemlősöket figyelhetnek meg természetes viselkedésük közben. A központ célja nemcsak az állatok biztonságos otthonának biztosítása, hanem az emberek edukálása a primáták védelmének fontosságáról. Ez a különleges, természetközeli élmény minden család számára felejthetetlen betekintést nyújt a főemlősök csodálatos világába.",
+      "factsAdvanced": [
+        "Szabadon élő főemlős-rezervátum",
+        "Több faj közös otthona",
+        "Természetes erdei környezet",
+        "Vezetett edukatív túrák",
+        "Fontos főemlős-védelmi központ",
+        "Különleges találkozás a természettel",
+        "Családbarát, biztonságos élmény"
+      ]
+    },
+    {
+      "id": "bird-of-prey-life-v2",
+      "descriptionAdvanced": "Ez a ragadozómadár-rehabilitációs központ elkötelezett a sérült, beteg vagy elárvult példányok gondozása és sikeres rehabilitációja mellett. A központ munkatársai mindent megtesznek annak érdekében, hogy a madarak visszanyerjék kondíciójukat és újra szabadon élhessenek. A látogatók számára betekintést engednek a rehabilitációs folyamatba, így a kicsik és nagyok egyaránt megérthetik, miért is olyan fontos a környezetünkben élő ragadozók védelme. A központ folyamatos oktatási programokkal segíti a természet megóvása iránti elkötelezettséget, így igazi kincsesbánya a fiatal természetkutatók számára.",
+      "factsAdvanced": [
+        "Sérült ragadozók szakértő gondozása",
+        "Rehabilitáció és természetbe való visszaengedés",
+        "Oktatás a ragadozómadarak védelméről",
+        "Különleges tanulási lehetőség fiataloknak",
+        "Fontos állatvédelmi infrastruktúra",
+        "A természet regenerációjának támogatása",
+        "Hiteles természetvédelmi munka"
+      ]
+    },
+    {
+      "id": "aquila-safari-life-v2",
+      "descriptionAdvanced": "Az Aquila Private Game Reserve a fokvárosi régió egyik legismertebb szafari-célpontja, ahol a családok mindössze egy rövid utazással érhetik el a 'Big Five' – az oroszlán, leopárd, elefánt, bivaly és orrszarvú – lenyűgöző világát. A rezervátum luxus kényelmet és izgalmas természetközeli élményeket kínál, legyen szó akár egynapos látogatásról vagy hosszabb ott-tartózkodásról. A speciális gyermekprogramok révén a kicsik is felfedezhetik a dél-afrikai vadvilágot, biztonságban és szórakoztató módon. Az Aquila tökéletes egyensúlyt teremt a kényelem, az edukáció és az érintetlen természet kalandja között.",
+      "factsAdvanced": [
+        "Könnyen elérhető 'Big Five' szafarik",
+        "Kényelmes luxus szálláslehetőségek",
+        "Ideális egynapos családi kirándulásokhoz",
+        "Speciális programok gyerekek számára",
+        "Gazdag dél-afrikai vadvilág",
+        "Szakértő vezetésű szafari-túrák",
+        "Prémium természetközeli élmény"
+      ]
+    }
+  ]
+}

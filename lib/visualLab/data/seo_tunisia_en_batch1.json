@@ -1,0 +1,369 @@
+{
+  "lang": "en",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "atlas-mountains-nature-v2",
+      "descriptionAdvanced": "The Atlas Mountains, traversing the northwestern part of Tunisia, represent a fascinating mountain system. This region offers a varied landscape with sprawling forests and fertile valleys, which are essential for the country's water supply. The mountains are characterized by an enormous biodiversity, providing a habitat for numerous plant and animal species. In contrast to the hot coastal regions, the climate is significantly milder here, making this area a popular destination for nature lovers and hikers who wish to explore the ruggedness of the landscape.",
+      "factsAdvanced": [
+        "The Atlas Mountains stretch across three North African countries.",
+        "They serve as Tunisia's most important natural water storage basin.",
+        "Climatic conditions are considerably cooler than in the plains.",
+        "The area is a hub of biodiversity in North Africa.",
+        "Numerous fertile valleys support regional agriculture.",
+        "It represents a significant space for hiking and recreation."
+      ]
+    },
+    {
+      "id": "ichkeul-lake-nature-v2",
+      "descriptionAdvanced": "Ichkeul Lake, in northern Tunisia, forms along with the surrounding marshland a unique national park of international importance. As one of the most significant wintering sites for migratory waterfowl in the region, it is a central hub for ornithologists. UNESCO has recognized this area as a World Heritage site due to its ecological uniqueness, as the salinity of the lake can fluctuate strongly depending on the season, which has produced a specific flora and fauna.",
+      "factsAdvanced": [
+        "The lake is a recognized UNESCO World Heritage site.",
+        "It serves as a crucial wintering ground for thousands of migratory birds.",
+        "Vegetation is adapted to the varying salinity of the water.",
+        "The area forms a complex and protected ecosystem.",
+        "Seasonal water level fluctuations influence living conditions.",
+        "The national park is a central place for ecological research."
+      ]
+    },
+    {
+      "id": "gulf-of-gabes-nature-v2",
+      "descriptionAdvanced": "The Gulf of Gabes is the largest coastal section of Tunisia on the Mediterranean and stands out for its ecological peculiarity and rich marine life. Known for tidal differences that are unusually pronounced for the Mediterranean, the area offers diverse habitats such as lagoons and extensive mudflats. The gulf is not only biologically highly sensitive but also economically significant for the local fishing industry, which is why it is continuously monitored.",
+      "factsAdvanced": [
+        "It is the largest marine gulf on the Tunisian coast.",
+        "Tidal differences are the strongest in the entire Mediterranean.",
+        "The ecosystem hosts significant coral and algae stocks.",
+        "The region has a high importance for the local fishing economy.",
+        "Due to its sensitivity, the gulf is under ecological observation.",
+        "Unique climatic conditions favor marine life."
+      ]
+    },
+    {
+      "id": "djerba-island-nature-v2",
+      "descriptionAdvanced": "Djerba, the largest island off the North African coast, captivates with its white sandy beaches, extensive olive groves, and unmistakable traditional architecture. The island, which has preserved a unique cultural heritage due to its isolated location, is today a significant tourist destination. Beyond leisure tourism, Djerba is characterized by species-rich coastal flora and is a prime example of the scenic beauty of the Tunisian south on the Mediterranean.",
+      "factsAdvanced": [
+        "Djerba is the largest island in North Africa by area.",
+        "The island is known for its traditional, cube-shaped architecture.",
+        "The beaches are characterized by fine, white sand.",
+        "Large parts of the island are covered by historical olive groves.",
+        "Maritime climate allows for year-round tourist activities.",
+        "Djerba preserves unique cultural and linguistic characteristics."
+      ]
+    },
+    {
+      "id": "medjerda-river-nature-v2",
+      "descriptionAdvanced": "The Medjerda is the most significant and longest river in Tunisia, originating in the Algerian Atlas Mountains and winding through the country to the Mediterranean. Its course through the Medjerda district forms the agricultural heart of Tunisia, as the water is indispensable for large-scale irrigation and food production. Along its banks are numerous historical sites that prove the importance of this waterway for early civilizations.",
+      "factsAdvanced": [
+        "It is the longest and most important river of the country.",
+        "The river originates in the Algerian Atlas Mountains.",
+        "The river valley forms the primary agricultural lifeline.",
+        "Numerous dams serve for regulation and irrigation.",
+        "Along its course, many historical settlements have emerged.",
+        "The river flows into the Gulf of Tunis."
+      ]
+    },
+    {
+      "id": "kerkenna-islands-nature-v2",
+      "descriptionAdvanced": "The Kerkennah Islands form an archipelago in the Gulf of Gabes, standing as a living testimony to traditional fishing and marine culture. The waters of the islands are particularly shallow, which has allowed for the preservation of trap-based fishing methods that still form the basis of the local economy today. The quiet atmosphere of the area, almost timeless, attracts those who seek authentic Tunisian experiences far from modern tourist centers.",
+      "factsAdvanced": [
+        "The archipelago is located in the Gulf of Gabes.",
+        "The area is characterized by shallow, lagoon-like waters.",
+        "Their traditional fishing methods are unique in the region.",
+        "The islands are rich in palms and small gardens.",
+        "The lifestyle of the islanders is closely tied to the sea.",
+        "The area is free of mass tourism investments."
+      ]
+    },
+    {
+      "id": "chott-el-jerid-nature-v2",
+      "descriptionAdvanced": "Chott el-Djerid is the largest salt marsh in Tunisia and the Sahara, a vast, endorheic basin that dries out in the summer heat and covers the landscape with a blindingly white salt crust. The geological importance of the area is immense, as it is a remnant of an ancient marine gulf that transformed into a salt desert under the influence of the changing climate. The colorful reflections of the landscape and the infinite horizon provide an impressive sight, while the minerals below and the special salt-loving vegetation form a unique ecosystem.",
+      "factsAdvanced": [
+        "The salt lake area exceeds 5,000 square kilometers.",
+        "It is the largest salt formation of this type in the Sahara.",
+        "Salt layer thickness reaches several meters in places.",
+        "Landscape colors change throughout the day, ranging from white to pink and purple.",
+        "The area is a classic example of salt desert ecosystems.",
+        "Evaporation rates here are among the highest in the world."
+      ]
+    },
+    {
+      "id": "cap-bon-nature-v2",
+      "descriptionAdvanced": "The Cap Bon Peninsula is the northeastern extension of Tunisia, which, thanks to its climate and fertile soil, is considered the country's agricultural larder. The peninsula is famous for its citrus plantations, vineyards, and olive groves, which form a unique Mediterranean landscape along the coast. Furthermore, Cap Bon is a critical biogeographic passage for migratory birds that rest here while crossing the Mediterranean, making the region a destination of major importance for birdwatchers.",
+      "factsAdvanced": [
+        "The peninsula extends into the Mediterranean Sea.",
+        "Most important citrus-producing region in Tunisia.",
+        "A significant portion of the country's viticulture takes place here.",
+        "One of the main migration corridors for migratory birds.",
+        "Coastline is varied with sandy and rocky sections.",
+        "Climate is ideal for Mediterranean crops."
+      ]
+    },
+    {
+      "id": "jebel-chambi-nature-v2",
+      "descriptionAdvanced": "Jebel Chambi is the highest point in Tunisia, rising as an eastern extension of the Atlas Mountains with an altitude of 1,544 meters. The mountain and the surrounding area enjoy national park status, protecting rare pine forests and wildlife, including the Barbary stag and various birds of prey. The cooler climate of the mountain region and the rich plant associations found here represent important climatic and ecological buffer zones for the surrounding arid regions.",
+      "factsAdvanced": [
+        "Highest point in Tunisia: 1,544 meters.",
+        "The mountain is part of the Atlas Mountains.",
+        "Area protected by national park status.",
+        "Forests house rare animal species such as the Barbary stag.",
+        "Climate is significantly cooler than in the plains.",
+        "Important place for geological and botanical research."
+      ]
+    },
+    {
+      "id": "gulf-of-tunis-nature-v2",
+      "descriptionAdvanced": "The Gulf of Tunis is a strategically important gulf of the Mediterranean, located near the capital Tunis and ancient Carthage. Due to its geographical position, the gulf has for centuries been an important shipping and trade route, while its natural values—such as the surrounding lagoons and wetlands—provide shelter for protected bird species and a unique marine fauna. The fragile balance between urban proximity and the natural environment is today one of the primary objects of ecological research in the region.",
+      "factsAdvanced": [
+        "It is the busiest marine gulf of the country.",
+        "Ancient Carthage is situated on the gulf shore.",
+        "It hosts Tunisia's largest port, La Goulette.",
+        "Surrounding lagoons are important bird conservation areas.",
+        "Strategically important commercial trade route.",
+        "Diverse marine micro-habitats characterize the area."
+      ]
+    },
+    {
+      "id": "jebel-bou-hedma-nature-v2",
+      "descriptionAdvanced": "Jebel Bou Hedma National Park is located on the southeastern edge of the Atlas Mountains and has exceptional ecological importance, as Mediterranean climate meets desert influences here. The area is especially renowned for its preserved terrestrial ecosystem, which was once widespread across North Africa but is a rarity today. The national park offers refuge for numerous endangered animal species, including the addax antelope and various desert plants, making it one of the most important biodiversity research zones in the country.",
+      "factsAdvanced": [
+        "The park lies on the border between Atlas Mountains and desert.",
+        "Hosts unique and endangered plant and animal species.",
+        "Area has been a national park since the 1980s.",
+        "One of the sites for repopulation with addax antelope.",
+        "The ecosystem resembles ancient North African savannas.",
+        "Important base for educational and nature conservation research."
+      ]
+    },
+    {
+      "id": "chott-el-gharsa-nature-v2",
+      "descriptionAdvanced": "Chott el-Gharsa is a fascinating salt lake located south of the Tunisian Atlas Mountains below sea level, being one of the country's lowest geographical areas. This salt basin has unique geological and climatic conditions, which allow for the establishment of extremely salt-tolerant vegetation. The surface of the area, which reminds of a lunar landscape, often serves as a filming location while providing valuable data for scientific studies about the dry hydrology of the region.",
+      "factsAdvanced": [
+        "Lake area lies below sea level.",
+        "Geologically part of the Tunisian salt basins.",
+        "Surface is covered with special salt-tolerant vegetation.",
+        "Famous filming location (e.g., Star Wars).",
+        "Soil structure changes with periodic flooding.",
+        "Region has low annual precipitation."
+      ]
+    },
+    {
+      "id": "gulf-of-hammamet-nature-v2",
+      "descriptionAdvanced": "The Gulf of Hammamet is one of the most popular tourist destinations in Tunisia, known for the gentle curves of the Mediterranean coast, fine sandy beaches, and crystal-clear water. The areas around the gulf have rich Mediterranean vegetation, which is made pleasant year-round by gentle breezes coming from the sea. Beyond tourist developments, the marine ecosystem of the gulf continues to be an important habitat for Mediterranean fish and marine plants, ensuring the ecological balance of the region alongside ever-growing infrastructure.",
+      "factsAdvanced": [
+        "The gulf is one of Tunisia's main tourist axes.",
+        "Famous for long, fine sandy beaches.",
+        "Climate is mild and Mediterranean-like.",
+        "Plays an important role in marine tourism.",
+        "Along the coast, there are numerous protected marine sections.",
+        "Water quality is strictly monitored."
+      ]
+    },
+    {
+      "id": "jebel-serj-nature-v2",
+      "descriptionAdvanced": "The Jebel Serj mountains are a jewel of Tunisia's northern region, being one of the most loved destinations for hiking and climbing. The panorama open from the mountain peaks offers a view over the entire region, while the caves in the mountain slopes, including the famous Aïn Dhab cave, hide geological wonders. The mountain ecosystem possesses rich flora and fauna, which is protected by conservation measures undertaken in the area for future generations.",
+      "factsAdvanced": [
+        "Mountains are at the border between northern and central regions.",
+        "Preferred destination for mountain hiking.",
+        "The Aïn Dhab cave is located in the mountains.",
+        "Characterized by diverse geological limestone formations.",
+        "Mountain panorama is one of the most beautiful in the country.",
+        "Varied forest and rocky habitats are found here."
+      ]
+    },
+    {
+      "id": "jebel-zaghouan-nature-v2",
+      "descriptionAdvanced": "Jebel Zaghouan is an imposing mountain massif that played a key role in the history and water management of Tunisia, as it was the source of the famous aqueducts that ensured water supply for ancient Carthage. The mountain is still a protected area where nature and human history are closely linked. The limestone cliffs of the mountain region house special flora, while hiking trails offer the opportunity to explore the natural beauties of the area, with monuments of ancient engineering right before our eyes.",
+      "factsAdvanced": [
+        "The mountain was the source region for ancient aqueducts.",
+        "Source of the aqueducts is located in the area.",
+        "Strictly protected national natural area.",
+        "Rich and special calcicolous flora.",
+        "Historical and natural site of major importance.",
+        "Preferred destination for hikers and historians."
+      ]
+    },
+    {
+      "id": "el-feija-forest-nature-v2",
+      "descriptionAdvanced": "El Feija Forest, located in northwestern Tunisia, is a national park that houses one of the most beautiful and well-preserved oak forests in the Mediterranean region. The special microclimate of the park and lush vegetation give it an extremely rich biodiversity, which includes the iconic Barbary stag. The area is not only crucial for biodiversity conservation but also for developing ecotourism opportunities for surrounding rural communities, thus being a valuable area for both conservationists and hikers.",
+      "factsAdvanced": [
+        "One of the best-preserved oak forests in North Africa.",
+        "Important refuge for the Barbary stag.",
+        "Area protected since the 1990s.",
+        "Mountain terrain offers varied hiking trails.",
+        "Area is characterized by high annual precipitation.",
+        "Key ecological research station in Tunisia."
+      ]
+    },
+    {
+      "id": "gulf-of-bizerte-nature-v2",
+      "descriptionAdvanced": "The Gulf of Bizerte is located at the country's northernmost point, where the Mediterranean Sea meets coastal lagoons, including Lake Ichkeul, forming a unique hydrological system. The strategic importance of the region dates back centuries, as the natural port and protected waters of the gulf have created excellent conditions for maritime trade and fishing. The rocky sections and sandy bays along the coast offer varied habitats for marine fauna, while the meeting of urban environment and wild nature makes this region distinctive.",
+      "factsAdvanced": [
+        "Northernmost marine gulf in Tunisia.",
+        "Natural port has been used since antiquity.",
+        "Region is closely linked to the Ichkeul Lake hydrological system.",
+        "Characterized by varied rocky and sandy coastline.",
+        "Geographical location of strategic importance.",
+        "Plays an important role in regional marine fishing."
+      ]
+    },
+    {
+      "id": "boukornine-mountain-nature-v2",
+      "descriptionAdvanced": "Boukornine Mountain rises right by the coast of the Gulf of Tunis, near the capital, and its national park status ensures closeness to nature for city dwellers. Due to the climatic difference between the northern and southern slopes, the mountain has rich and diverse flora, in which more than 500 species have already been identified. The view from the mountain peaks offers a sight over the entire Gulf of Tunis and the capital, making it an extremely popular destination for hikers and nature photographers.",
+      "factsAdvanced": [
+        "Lies in the immediate vicinity of the capital, Tunis.",
+        "Area exceeds 1,900 hectares.",
+        "Hosts over 500 different plant species.",
+        "Of special importance for nature-based recreation of urban population.",
+        "View from the mountain extends over the entire gulf.",
+        "Numerous protected animal species live in the mountain forests."
+      ]
+    },
+    {
+      "id": "jebel-orbata-nature-v2",
+      "descriptionAdvanced": "Jebel Orbata mountains are a defining element of the landscape in the Gafsa region, rising from a surrounding plain into a desert-semidesert environment. The ecological importance of the mountain region is given by the special flora and fauna that have survived the aridity and have adapted to extreme temperature variations. The geological formations of the area, deep canyons, and bare rock walls show the geographical diversity of the region, while protecting local ecosystems is essential in slowing down desert expansion.",
+      "factsAdvanced": [
+        "Mountains are one of the most important protected natural areas in Gafsa region.",
+        "Bare mountain with desert character.",
+        "Vegetation has specially adapted to arid conditions.",
+        "Region is important in the fight against desertification.",
+        "Geologically characterized by deep canyons and rock formations.",
+        "Area hosts unique arid terrestrial fauna."
+      ]
+    },
+    {
+      "id": "gulf-of-gabes-island-nature-v2",
+      "descriptionAdvanced": "The Kerkennah Islands form an archipelago in the Gulf of Gabes, standing as a living monument to traditional fishing and marine culture. The waters of the low islands are shallow, which locals have exploited for centuries with marine trap nets woven from wicker, ensuring their subsistence in a sustainable way. The calm atmosphere of the area, almost timeless, the sight of windmills and palm trees provide a unique experience that is far from modern mass tourism, making the region a true natural and cultural treasure.",
+      "factsAdvanced": [
+        "Archipelago consists of 14 smaller and larger islands.",
+        "Traditional marine fishing is the main economic branch.",
+        "Marine traps (charfias) are unique techniques.",
+        "Surface of the islands is low, often swampy.",
+        "Area is completely free from mass tourism.",
+        "Landscape is characterized by palm trees and windmills."
+      ]
+    },
+    {
+      "id": "chott-el-jerid-east-nature-v2",
+      "descriptionAdvanced": "The eastern basin of Chott el-Djerid is one of the remarkable sections of Tunisia's vast salt marsh territory, which showcases drastic landscape changes under the effect of seasonal evaporation. This area is especially rich in salt crystal formations, which crystallize under the burning sun, making the surface often blindingly white and rough to the touch. Although vegetation is very sparse here, the geological curiosities of the area, as well as the special visual experience of the saltwater landscape, make this region one of the important natural and geographical attractions, providing insight into the functioning of arid ecosystems.",
+      "factsAdvanced": [
+        "Extensive eastern basin of Chott el-Djerid.",
+        "Extremely high salt content.",
+        "Most of the surface is bare and covered with salt crystals.",
+        "Area is characterized by extreme temperature differences.",
+        "Geologically part of an ancient marine basin.",
+        "Vegetation is almost completely absent in central areas."
+      ]
+    },
+    {
+      "id": "mountain-range-north-nature-v2",
+      "descriptionAdvanced": "The mountain region in northern Tunisia, often called 'Green Tunisia', represents the hilly-mountainous landscape of the country's northern part, where lush forests and fertile agricultural areas alternate thanks to Mediterranean precipitation. The mountain system is an important water catchment area that ensures the country's water supply, while offering varied habitats for many species of North African fauna. The mountain landscape is one of the most important nature conservation and agricultural regions, where traditional farming and forest management are closely tied to nature conservation.",
+      "factsAdvanced": [
+        "This region is the heart of 'Green Tunisia'.",
+        "One of the rainiest areas of the country.",
+        "Rich oak forests and plant associations.",
+        "Important water catchment area for the region's agriculture.",
+        "Hosts a varied wildlife.",
+        "Landscape is an alternation of hills and mountains."
+      ]
+    },
+    {
+      "id": "gulf-of-tunis-islands-nature-v2",
+      "descriptionAdvanced": "The Zembra and Zembretta islands are a protected archipelago in the heart of the Gulf of Tunis, which, due to national park status, is one of the best-preserved marine habitats in the Mediterranean. The rocky shores and surrounding waters offer shelter for rich marine fauna, especially rare bird species and the Posidonia seagrass meadows, typical of Mediterranean waters. Due to the intact natural state of the islands, they are visited in a limited manner, which allows for uninterrupted development of marine ecosystems and provides an important research ground for biologists.",
+      "factsAdvanced": [
+        "Protected archipelago in the Gulf of Tunis.",
+        "Has national park status.",
+        "Bird protection zone of major importance.",
+        "Islands are surrounded by rich Posidonia meadows.",
+        "Rocky shores provide an intact habitat.",
+        "Area is limitedly visitable due to nature conservation."
+      ]
+    },
+    {
+      "id": "river-majerdah-nature-v2",
+      "descriptionAdvanced": "The upper course of the Medjerda river winds through deep valleys of the Atlas Mountains, where the water has formed deep canyons under the influence of mountain erosion processes, creating a varied mountain habitat. This sector is crucial for the river's entire water catchment system, as it collects precipitation flowing down from the mountains, subsequently ensuring the irrigation of the Medjerda Valley. Along the mountain river section, numerous protected ecosystems are found, essential for maintaining regional biodiversity, while the dramatic rocky environment of the landscape is appealing to hikers.",
+      "factsAdvanced": [
+        "High mountain sector of the Medjerda river.",
+        "Erosion of mountains has created canyons.",
+        "Important water catchment for the entire river system.",
+        "Varied mountain river habitats.",
+        "Area hosts numerous protected plant and animal species.",
+        "Water flow shows significant seasonal fluctuations."
+      ]
+    },
+    {
+      "id": "jebel-abderrahmane-nature-v2",
+      "descriptionAdvanced": "The Jebel Abderrahmane mountains are a defining element of the terrain in the northeastern part of the Cap Bon Peninsula, forming the backbone of the peninsula separating the two coastal regions. The mountains' forests and rocky slopes offer an excellent habitat for Mediterranean flora and fauna, while from the mountain ridge, there is an unparalleled view of the Mediterranean Sea from both sides. The hiking trails and natural values of the area make it an increasingly popular destination for those who wish to explore the more intact and wild side of the peninsula's interior.",
+      "factsAdvanced": [
+        "Forms the central ridge of the Cap Bon Peninsula.",
+        "Mountains stretch in the northeast-southwest direction.",
+        "Characterized by rich Mediterranean forest flora.",
+        "Offers unparalleled sea view in both directions.",
+        "Hiking trails traverse various points of the mountains.",
+        "Important habitat for local bird and mammal species."
+      ]
+    },
+    {
+      "id": "lake-of-tunis-nature-v2",
+      "descriptionAdvanced": "Lake of Tunis is an extensive lagoon between the city of Tunis and the Mediterranean, whose ecological importance in the series of North African wetlands is remarkable. The area has become, over time, an organic link between the ancient Carthaginian port and modern urban development, while being an important wintering ground for migratory birds. Although the lake environment has undergone significant urbanization, many bird species, including flamingos, still find their feeding and resting place here, making the lake indispensable from a nature conservation perspective in the urban environment.",
+      "factsAdvanced": [
+        "Lake of Tunis is an extensive and shallow lagoon.",
+        "Critically important wetland for migratory birds.",
+        "Plays an important role in city life for hundreds of years.",
+        "Lake water depends on tides coming from the sea.",
+        "Remnants of ancient Carthage port are found near the lake.",
+        "Plays an important role in regulating urban microclimate."
+      ]
+    },
+    {
+      "id": "coast-of-mahdia-nature-v2",
+      "descriptionAdvanced": "The Mahdia coastal section is one of the most picturesque parts of Tunisia's eastern coast, characterized by crystal-clear azure water and fine, golden-colored sandy beaches. This coastal section is not only popular for calm beach relaxation but also for the rocky formations on the shore and low lagoons, which offer varied habitats for marine plants and local fish. Mahdia's environment combines the harmony of tradition and nature, where coastal lifestyle and marine ecosystem conservation now go hand in hand.",
+      "factsAdvanced": [
+        "Region is famous for its azure and clear water.",
+        "Fine sandy beaches stretch along the coast.",
+        "Diverse rocky formations characterize the coast.",
+        "Area is popular among researchers of marine fauna.",
+        "Historic city of Mahdia was built on coastal rocks.",
+        "Surrounding lagoons are homes for protected marine species."
+      ]
+    },
+    {
+      "id": "jebel-mghila-nature-v2",
+      "descriptionAdvanced": "Jebel Mghila is an impressive mountain massif in Tunisia's central region, which, due to its national park status, is one of the most important terrestrial nature conservation areas in the country. The mountains are covered with dense pine forests and shrubs typical of the Mediterranean region, which provide refuge for many wild animal species, including mountain gazelles and various birds of prey. The hiking trails on the mountain offer visitors the chance to explore the region's natural diversity and isolated, calm environment, which is far from the bustle of modern cities.",
+      "factsAdvanced": [
+        "Jebel Mghila National Park lies in the center of the country.",
+        "Characterized by dense pine forests and Mediterranean shrubs.",
+        "Special refuge for mountain gazelles.",
+        "Important nature conservation hub at the border of arid regions.",
+        "Mountains have varied hiking trails.",
+        "Numerous protected birds of prey nest in the area."
+      ]
+    },
+    {
+      "id": "el-djem-region-nature-v2",
+      "descriptionAdvanced": "The El Djem region is known not only for its ancient amphitheater but also for the endless olive groves that define the aspect of the dry Mediterranean landscape. This area is one of Tunisia's most important agricultural zones, where centuries-old traditions, such as olive cultivation and farming, are closely tied to soil quality and the region's climate. The gentle hills of the landscape and the sight of thousands of olive trees suggest a kind of natural harmony, while agriculture and environmental protection remain a fundamental challenge in a changing climate.",
+      "factsAdvanced": [
+        "Region is famous for its olive groves.",
+        "One of the most important olive-producing areas in Tunisia.",
+        "Landscape is characterized by gentle hills and extensive plantations.",
+        "Agriculture is based on thousands-of-years-old traditions.",
+        "Region's climate is ideal for olive cultivation.",
+        "Harmony between agriculture and nature characterizes the area."
+      ]
+    },
+    {
+      "id": "gulf-of-gabes-coastal-nature-v2",
+      "descriptionAdvanced": "The coast of the Gulf of Gabes is an extensive, very shallow zone that is one of the most beautiful examples of the meeting between marine ecosystems and coastal nature in Tunisia. The lagoons along the gulf, salt marshes, and islands near the coast provide a unique microclimate and essential habitats for maintaining migratory birds, special marine snails, and Posidonia seagrass meadows. The natural state of the coastal areas is not only biologically valuable but also fundamentally important for the traditional fishing that ensures the subsistence of local communities.",
+      "factsAdvanced": [
+        "Gulf water is extremely shallow, creating a unique ecosystem.",
+        "Coast is characterized by extensive lagoons and salt marshes.",
+        "Important feeding site for migratory birds.",
+        "Region has a rich marine fauna, especially shellfish and snails.",
+        "Posidonia meadows are essential for marine biodiversity.",
+        "Coastal ecosystems are foundations of traditional fishing."
+      ]
+    }
+  ]
+}

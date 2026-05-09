@@ -2,67 +2,91 @@
   "lang": "en",
   "country": "tunisia",
   "files": [
-    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraTunisiaLandmarksV2.ts"
   ],
   "items": [
     {
-      "id": "kebili-cities-v2",
-      "descriptionAdvanced": "Kebili is one of the oldest oasis cities in the southern Sahara, serving as a historic crossroads for trans-Saharan trade routes. Located on the edge of the Chott el-Jerid salt flats, the city thrives on date cultivation and acts as a central hub for the remote southern regions of Tunisia. Its desert atmosphere and proximity to nomadic culture provide a deep look into the life of the southern interior, far removed from the coastal bustle. Kebili remains an vital outpost for regional commerce and Saharan exploration. Geography K7: Trans-Saharan trade history and the importance of oasis hubs in remote desert regions.",
+      "id": "kairouan-aghlabiden-becken-landmarks-v2",
+      "descriptionAdvanced": "The Aghlabid Basins are monumental water reservoirs built in the 9th century, which ensured the water supply of Kairouan during the Aghlabid dynasty. Representing the peak of engineering science of the time, the basins collected rainwater from nearby hills through a complex system, allowing for the supply of the population and agriculture in a desert environment. The basins, which can still be admired today, are remarkable reminders of early Islamic engineering design and water management, and they continue to be a part of Kairouan's historical landscapes.",
       "factsAdvanced": [
-        "Historic crossroads for Saharan trade routes",
-        "Situated on the edge of Chott el-Jerid",
-        "Key center for desert date cultivation",
-        "Central hub for remote southern Tunisia",
-        "Reflects traditional southern Saharan life",
-        "Essential outpost for regional desert commerce"
+        "Water reservoirs were completed in the 9th century, around 862 AD.",
+        "Ensured water supply for Kairouan for centuries.",
+        "Basins represent the peak achievements of early Islamic hydraulic engineering.",
+        "Was one of the most important utility developments of the Aghlabid dynasty.",
+        "Basins feature a complex water collection system.",
+        "One of the most important historical and engineering monuments in Kairouan."
       ]
     },
     {
-      "id": "gabes-cities-v2",
-      "descriptionAdvanced": "Gabès is a unique coastal-oasis city, where a lush inland palm grove extends all the way to the Mediterranean shore. This rare geographical feature makes it one of the few places in the world where one can swim in the sea while standing in the shade of a date palm forest. Beyond this, Gabès is a major industrial center for chemical and phosphate processing, creating a fascinating contrast between nature and heavy industry. It serves as the primary trade gateway to the Libyan border and southern Tunisia. Geography K8: Analyzing unique coastal-oasis ecosystems and the juxtaposition of tourism and industrial land use.",
+      "id": "beja-trajansbrucke-landmarks-v2",
+      "descriptionAdvanced": "Trajan's Bridge near Medjez el-Bab is a spectacular monument to Roman engineering precision, built at the intersection of the Medjerda River. The stone bridge raised in 112 AD was an integral part of the vast Roman road network in North Africa, ensuring the smooth crossing of commercial and military troops. Although today only the remains of the massive pillars can be seen, the dimensions and structure of the construction bear witness to the significant investments the Roman Empire made for the infrastructure development of the province.",
       "factsAdvanced": [
-        "Rare coastal-oasis geographical feature",
-        "Palm grove extending to the Mediterranean Sea",
-        "Major industrial hub for chemical processing",
-        "Primary gateway to southern Tunisia and Libya",
-        "Contrast between nature and heavy industry",
-        "Historically significant trade harbor"
+        "Bridge was built in 112 AD, during the reign of Emperor Trajan.",
+        "Served to cross the Medjerda River.",
+        "Was one of the strategic points of the Roman road network in North Africa.",
+        "Is a remarkable example of Roman engineering knowledge to this day.",
+        "Construction demonstrates the ancient economic importance of the region.",
+        "Today, the remains of the bridge are considered an important archaeological monument."
       ]
     },
     {
-      "id": "medenine-cities-v2",
-      "descriptionAdvanced": "Medenine is a historic trade city in the southeast, famed for its 'Ghorfas'—traditional multi-story communal granaries that were once used by nomadic tribes to store their grain. These architectural wonders define the city’s identity as a former center for Saharan commerce and regional tribal organization. Today, Medenine acts as the administrative and commercial capital of the far south, connecting the mainland to the island of Djerba. The city remains a key reference point for understanding the history of southern Tunisian Berber architecture and rural social structures. Geography K8: The study of traditional agricultural storage architecture and regional trade history.",
+      "id": "tunis-dar-hussein-landmarks-v2",
+      "descriptionAdvanced": "Dar Hussein is one of the most prestigious historical palaces in the medina of Tunis, whose roots date back to the 11th century. In its heyday, the palace served as a residence for princes, governors, and high-ranking ministers, being continuously expanded and enriched over the centuries. Today, the building houses the National Institute of Heritage, thus, on one hand, it fulfills an official function, and on the other, it serves to conserve and research the palace's architectural values in the central administrative district of Tunis.",
       "factsAdvanced": [
-        "Home to historic 'Ghorfas' communal granaries",
-        "Former vital center for Saharan commerce",
-        "Commercial capital of the far south",
-        "Key transit city to Djerba Island",
-        "Reflects historic southern Berber architecture",
-        "Historical hub for nomadic grain storage"
+        "History of the palace began in the 11th century.",
+        "In its prime, it was the residence of governors and ministers.",
+        "Today, it is the headquarters of the National Institute of Heritage.",
+        "Prominent example of the medina's architectural heritage.",
+        "Its complex current form was shaped over the centuries.",
+        "Plays an important role in protecting national heritage."
       ]
     },
     {
-      "id": "tataouine-cities-v2",
-      "descriptionAdvanced": "Tataouine, a city situated in the rugged southeastern desert, is famous for its unique 'ksour'—fortified Berber villages built on mountaintops, which once protected mountain tribes. The city's landscape, featuring arid plains and dramatic mountain ridges, has gained global fame as a filming location for science fiction classics like Star Wars. Tataouine serves as a cultural hub for the southern Berber-speaking communities and a gateway for exploring the remote Saharan landscape. It represents the intersection of ancient history, tribal resilience, and modern cultural pop-culture status. Geography K8: The intersection of rugged geography, fortified settlement patterns, and modern tourism.",
+      "id": "bizerte-kasbah-landmarks-v2",
+      "descriptionAdvanced": "The Kasbah of Bizerte is a historic Byzantine fortress that guarded the entrance to the maritime canal at a strategically important point near the city's old port. The massive walls and bastions of the fort are based on original Byzantine foundations raised in the 6th century, which were later reinforced and developed by the Ottomans to meet new military challenges. The facility is today one of the city's historical prides, representing the long history of the maritime past and defensive capabilities of Bizerte to visitors.",
       "factsAdvanced": [
-        "Famous for mountaintop 'ksour' villages",
-        "Cultural center for Berber communities",
-        "Global pop-culture fame as a filming location",
-        "Gateway to remote Saharan landscapes",
-        "Rugged, arid desert terrain",
-        "Historically fortified mountain tribal settlements"
+        "Byzantine foundations of the fortress date back to the 6th century.",
+        "Ottomans expanded it significantly in subsequent centuries.",
+        "Served for strategic control of the maritime canal.",
+        "One of the most important historic defensive monuments of the Bizerte port.",
+        "Walls combine construction techniques from different eras.",
+        "Visible element of the historical landscape of the city."
       ]
     },
     {
-      "id": "houmt-souk-cities-v2",
-      "descriptionAdvanced": "Houmt Souk is the main market town and administrative center of Djerba Island, reflecting a rich tapestry of Djerbian, Berber, and Mediterranean cultures. The city is famous for its lively traditional markets, historic mosques, and the imposing Borj el-Kebir fortress that guards the harbor. With its white-washed architecture and palm-lined streets, Houmt Souk is the beating heart of Djerba, blending tourism, traditional crafts, and island life. It is the perfect destination for experiencing the authentic island identity. Geography K7: Island urban planning and the role of central market towns in archipelago economies.",
+      "id": "sfax-dar-jellouli-landmarks-v2",
+      "descriptionAdvanced": "Dar Jellouli is a traditional 17th-century building in the old city of Sfax, which displays the sophistication and ornamentation of the bourgeois architecture of the era. The palace's rich interior décor, including Andalusian-style tiles and detailed wood carvings, prove the well-being and artistic refinement of the owners of the time. Today it functions as the Regional Museum of Art and Popular Traditions, where visitors can obtain a perspective on the history of the social and cultural life of the city and the region.",
       "factsAdvanced": [
-        "Main market town of Djerba Island",
-        "Diverse Berber and Mediterranean culture",
-        "Features the historic Borj el-Kebir fortress",
-        "Lively traditional souk markets",
-        "Famous white-washed island architecture",
-        "Center of local island crafts and trade"
+        "Dar Jellouli was built in the 17th century.",
+        "Functions today as a regional museum of art and ethnography.",
+        "Tiles with Andalusian influence are one of the palace's most beautiful decorations.",
+        "Wood carvings are remarkable examples of the era's artisanal mastery.",
+        "Historical representative of the social and cultural life in Sfax.",
+        "One of the most important museum buildings of the city."
+      ]
+    },
+    {
+      "id": "sfax-rathaus-landmarks-v2",
+      "descriptionAdvanced": "The City Hall of Sfax (Hôtel de Ville) is one of the city's most distinctive buildings, bearing the architectural style of the early period of the French protectorate. The building constructed in neo-Moorish style was the representative urban center of the era, with its elegant facade and central tower. The City Hall, situated near the historic city wall, exemplifies the administrative ambitions of then and the architectural current that wanted to combine Western modernity with local traditions.",
+      "factsAdvanced": [
+        "City hall was built in the early years of the French protectorate.",
+        "Characterized by architectural solutions in neo-Moorish style.",
+        "Central tower is the most important visual element of the building.",
+        "Situated in the immediate vicinity of the historic city wall of Sfax.",
+        "Building was the center of the urban administration of the era.",
+        "Architecturally, shows the mixture of Western and local styles."
+      ]
+    },
+    {
+      "id": "sousse-stade-olympique-landmarks-v2",
+      "descriptionAdvanced": "The Olympic Stadium of Sousse is one of the prominent sporting facilities of Tunisia, known as the home of one of the most successful football teams in the country, Étoile Sportive du Sahel. The stadium inaugurated in 1973 was expanded to host 40,000 people during the last modernization works, thus ensuring the standard corresponding to international regulations. The facility is not only an important place for sports fans, but also a decisive and community-building point for urban life in Sousse.",
+      "factsAdvanced": [
+        "Stadium was inaugurated for the sporting public in 1973.",
+        "Home of the famous club Étoile Sportive du Sahel.",
+        "After recent renovations, it is capable of hosting 40,000 spectators.",
+        "Important venue for Tunisian national football.",
+        "Stadium has modern comfort facilities.",
+        "One of the city's most important community and sports facilities."
       ]
     }
   ]

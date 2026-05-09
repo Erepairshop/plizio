@@ -1,0 +1,289 @@
+{
+  "lang": "ro",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "parc-national-d-arlit-life-v2",
+      "descriptionAdvanced": "Parcul Național Arly, situat în sud-estul Burkinei Faso, este un sanctuar vital pentru biodiversitatea din Africa de Vest. Această vastă zonă protejată se caracterizează prin peisaje diverse, de la păduri de galerie luxuriante de-a lungul râului Pendjari până la savane lemnoase întinse și stânci de gresie. Istoric, parcul a fost un refugiu pentru unele dintre ultimele populații rămase de lei, elefanți și leopardi din Africa de Vest, ceea ce îi conferă o importanță globală pentru conservare. Gestionarea parcului se concentrează pe eforturile împotriva braconajului și pe turismul comunitar, asigurându-se că moștenirea naturală este păstrată în timp ce sprijină mijloacele de trai locale. Pentru vizitatori, oferă o experiență autentică de safari, unde frumusețea brută a sălbăticiei africane rămâne în mare parte neatinsă. Arly este o verigă vitală într-un ecosistem transfrontalier care leagă Burkina Faso de Benin și Niger.",
+      "factsAdvanced": [
+        "Componentă majoră a sitului Patrimoniului Mondial UNESCO Arly-W-Pendjari",
+        "Ultimul bastion pentru leul vest-african, specie critic amenințată",
+        "Habitat divers care include păduri de galerie și savane lemnoase",
+        "Adăpostește populații semnificative de elefanți, bivoli și hipopotami",
+        "Zonă strategică de conservare transfrontalieră împărțită cu Benin și Niger",
+        "Gestionat cu un accent puternic pe inițiativele locale împotriva braconajului",
+        "Oferă tururi sezoniere de safari pentru observarea animalelor și a păsărilor",
+        "Vital pentru păstrarea biodiversității saheliene și sudaneze"
+      ]
+    },
+    {
+      "id": "reserve-de-faune-de-porga-life-v2",
+      "descriptionAdvanced": "Rezervația de faună Porga, situată la granița dintre Burkina Faso și Benin, este o zonă tampon crucială și un habitat pentru fauna diversă a ecosistemului Pendjari. Această rezervație este cunoscută în principal pentru zonele sale umede sezoniere și ochiurile de apă care atrag turme masive de elefanți, antilope și bivoli în timpul sezonului uscat. Istoric, Porga a fost o poartă strategică pentru turismul regional, oferind acces la zonele bogate de observare a vieții sălbatice de-a lungul râului Pendjari. Peisajul este un exemplu clasic de savană sudaneză, cu baobabi și salcâmi dispersați care oferă umbră și nutrienți locuitorilor. Eforturile de conservare în Porga se concentrează pe menținerea coridoarelor ecologice care permit animalelor să migreze liber între parcurile naționale învecinate. Pentru pasionații de natură, rezervația oferă oportunități spectaculoase de a asista la dinamica prădător-pradă din savana africană.",
+      "factsAdvanced": [
+        "Zonă tampon strategică în cadrul ecosistemului transfrontalier Pendjari",
+        "Faimoasă pentru concentrația mare de elefanți în timpul sezonului uscat",
+        "Caracterizată prin zone umede sezoniere și ochiuri de apă permanente",
+        "Habitat critic pentru antilopa roan, bivoli și diverși prădători",
+        "Situată la granița de sud-est între Burkina Faso și Benin",
+        "Esențială pentru menținerea coridoarelor de migrație a faunei sălbatice",
+        "Oferă oportunități de observare a animalelor și safari fotografic ghidat",
+        "Dominată de vegetația de savană sudaneză și păduri de galerie"
+      ]
+    },
+    {
+      "id": "ferme-experimentale-de-kamboinsin-life-v2",
+      "descriptionAdvanced": "Ferma experimentală de la Kamboinsin este un centru de cercetare agricolă de vârf în Burkina Faso, dedicat îmbunătățirii rezilienței culturilor în condițiile climatice aspre din Sahel. Situată în apropierea capitalei Ouagadougou, această instituție joacă un rol crucial în dezvoltarea de noi soiuri de cereale, precum sorgul și meiul, care sunt mai rezistente la secetă și la dăunători. Cercetările efectuate aici au un impact direct asupra securității alimentare a țării, oferind fermierilor soluții tehnice moderne și semințe de înaltă calitate. Ferma colaborează cu organizații internaționale pentru a implementa tehnici de agricultură durabilă și de gestionare a solului, contribuind la lupta împotriva deșertificării. Kamboinsin reprezintă inovația științifică aplicată în slujba agriculturii tradiționale, fiind un motor de progres pentru mediul rural burkinabez.",
+      "factsAdvanced": [
+        "Principalul centru de cercetare pentru culturile cerealiere din Sahel",
+        "Dezvoltă soiuri de semințe rezistente la stresul hidric extrem",
+        "Colaborează cu institutul național INERA pentru inovație agricolă",
+        "Sursă majoră de date științifice pentru adaptarea la schimbările climatice",
+        "Oferă programe de formare pentru fermieri și studenți în agronomie",
+        "Implementează tehnologii moderne de irigare și conservare a solului",
+        "Esențială pentru strategia națională de securitate alimentară",
+        "Păstrează o bancă de gene pentru varietățile locale de plante"
+      ]
+    },
+    {
+      "id": "parc-ludique-ouaga-life-v2",
+      "descriptionAdvanced": "Parcul ludic din Ouagadougou este o zonă de recreere urbană esențială pentru familiile și copiii din capitală, oferind un spațiu verde într-un mediu urban dens. Istoric, acest parc a fost creat pentru a oferi locuitorilor o alternativă la viața agitată a orașului, fiind dotat cu facilități de joacă, zone de picnic și alei pentru plimbări. Parcul este adesea locul unor evenimente culturale și festivaluri pentru tineret, jucând un rol social important în integrarea comunității. Vegetația sa, formată din arbori tropicali și flori sezoniere, oferă o răcoare binemeritată în timpul zilelor toride de vară. Deși simplu în dotări, parcul reprezintă un plămân verde pentru Ouagadougou și un simbol al calității vieții urbane într-o metropolă africană în continuă expansiune, unde spațiile verzi sunt extrem de prețioase.",
+      "factsAdvanced": [
+        "Principalul spațiu de joacă în aer liber pentru copiii din capitală",
+        "Găzduiește periodic festivaluri culturale și spectacole pentru tineret",
+        "Situat central, ușor accesibil pentru locuitorii din diverse cartiere",
+        "Oferă zone umbrite pentru relaxare în timpul sezonului cald",
+        "Unul dintre puținele spații verzi dedicate exclusiv activităților ludice",
+        "Popular pentru organizarea aniversărilor și a evenimentelor de familie",
+        "Dotat cu echipamente de joacă tradiționale și moderne",
+        "Contribuie la îmbunătățirea microclimatului urban în Ouagadougou"
+      ]
+    },
+    {
+      "id": "region-du-cacao-bf-life-v2",
+      "descriptionAdvanced": "Regiunea cacao din sud-vestul Burkinei Faso, deși mult mai mică decât cea a vecinilor precum Coasta de Fildeș, reprezintă un sector agricol emergent și diversificat. Situată în zonele mai umede din regiunile Cascades și Sud-Ouest, cultura arborelui de cacao a fost introdusă recent pentru a oferi fermierilor o alternativă economică la culturile tradiționale de subzistență. Această zonă beneficiază de un microclimat special, cu precipitații mai abundente, ceea ce permite dezvoltarea acestor arbori sensibili. Producția locală se concentrează pe calitate și pe practici de agricultură durabilă, fiind adesea integrată în sisteme agroforestiere care păstrează arborii nativi. Dezvoltarea regiunii cacao reflectă dorința de diversificare a economiei rurale burkinabeze și potențialul de adaptare al agriculturii la noi oportunități de piață, oferind speranță pentru creșterea veniturilor în zonele rurale îndepărtate.",
+      "factsAdvanced": [
+        "Cultivată în microclimatele umede din sud-vestul țării",
+        "O cultură agricolă relativ nouă și în curs de expansiune",
+        "Oferă o alternativă economică valoroasă la cultura bumbacului",
+        "Integrată in sisteme agroforestiere pentru protejarea solului",
+        "Susținută de proiecte de dezvoltare rurală și cooperări internaționale",
+        "Calitatea boabelor este apreciată pentru producția artizanală locală",
+        "Recolta se desfășoară în principal între lunile octombrie și martie",
+        "Contribuie la diversificarea exporturilor agricole ale Burkinei Faso"
+      ]
+    },
+    {
+      "id": "jardin-zoologique-ouaga-life-v2",
+      "descriptionAdvanced": "Grădina Zoologică din Ouagadougou este o instituție educativă și de conservare importantă, oferind vizitatorilor ocazia de a vedea de aproape fauna diversă a Burkinei Faso și a regiunilor învecinate. Recent renovată, grădina zoologică găzduiește o varietate de specii, de la crocodili și leoparzi până la diverse păsări exotice și primate. Dincolo de atracția turistică, grădina joacă un rol crucial în educația de mediu a tinerelor generații, sensibilizându-le cu privire la importanța protejării speciilor pe cale de dispariție în mediul lor natural. Spațiile sunt amenajate pentru a imita pe cât posibil habitatele naturale, oferind un mediu sigur pentru animalele care nu mai pot fi eliberate în sălbăticie. Grădina Zoologică rămâne unul dintre cele mai vizitate locuri din capitală, fiind un punct de referință pentru studiul biodiversității africane într-un cadru urban.",
+      "factsAdvanced": [
+        "Renovată complet pentru a îndeplini standardele moderne de bunăstare",
+        "Găzduiește specii emblematice ale savanei africane (lei, hipopotami)",
+        "Centru major pentru educația ecologică a elevilor din Ouagadougou",
+        "Include un sector impresionant dedicat reptilelor din Sahel",
+        "Situată într-o zonă umbrită de arbori mari, oferind o ambianță plăcută",
+        "Colaborează la programe internaționale de schimb de animale",
+        "Accesibilă publicului larg pe tot parcursul anului",
+        "Păstrează specii de păsări rare greu de observat în sălbăticie"
+      ]
+    },
+    {
+      "id": "zone-agricole-bobodioulasso-life-v2",
+      "descriptionAdvanced": "Zona agricolă din jurul orașului Bobo-Dioulasso este considerată \"grânarul\" Burkinei Faso datorită solurilor sale fertile și precipitațiilor favorabile. Această regiune este motorul producției de fructe, în special mango și citrice, care sunt exportate în întreaga Europă. Pe lângă livezi, zona este faimoasă pentru culturile sale de legume și cereale, asigurând aprovizionarea piețelor urbane din întreaga țară. Istoric, dezvoltarea acestei zone a fost strâns legată de prezența izvoarelor naturale și a râului Mouhoun, care permit irigarea pe tot parcursul anului. Zona agricolă Bobo-Dioulasso reprezintă un model de succes în integrarea agriculturii tradiționale cu tehnici moderne de procesare și export, fiind esențială pentru stabilitatea economică a regiunii Hauts-Bassins și pentru identitatea gastronomică a Burkinei Faso.",
+      "factsAdvanced": [
+        "Principalul centru de producție și export de mango din țară",
+        "Beneficiază de cel mai favorabil regim de precipitații din Burkina Faso",
+        "Sursă majoră de legume proaspete pentru capitala Ouagadougou",
+        "Include zone extinse de culturi irigate de porumb și orez",
+        "Centru de inovație pentru tehnici de prelucrare a produselor agricole",
+        "Susține mii de mici producători și cooperative agricole",
+        "Renumită pentru diversitatea culturilor de pomi fructiferi",
+        "Motorul economic principal al celei de-a doua metropole a țării"
+      ]
+    },
+    {
+      "id": "oasis-de-ourou-life-v2",
+      "descriptionAdvanced": "Oaza de la Ourou este o raritate ecologică situată în regiunea aridă a Sahelului, în nordul Burkinei Faso. Acest ecosistem fragil este alimentat de ape subterane care permit creșterea palmierilor și a unei vegetații verzi luxuriante în mijlocul deșertului. Istoric, oaza a fost un punct de oprire vital pentru caravanele de nomazi și pentru turmele de animale în timpul transhumanței, oferind apă și umbră într-un mediu extrem. Comunitățile locale practică aici o agricultură de oază ingenioasă, cultivând legume și curmale pe terase mici, folosind un sistem tradițional de gestionare a apei. Oaza de la Ourou nu este doar un loc de supraviețuire, ci și un simbol al rezilienței vieții în deșert, fiind un punct de reper cultural important pentru populațiile Tuareg și Peul din nord.",
+      "factsAdvanced": [
+        "Ecosistem rar de oază situat în provincia Oudalan",
+        "Sursă critică de apă pentru populațiile nomade din nord",
+        "Caracterizată prin prezența palmierilor curmali și a grădinilor irigate",
+        "Punct strategic pe rutele istorice de transhumanță",
+        "Găzduiește specii de plante adaptate la salinitatea ridicată a solului",
+        "Exemplu de microclimat protejat în inima regiunii aride",
+        "Importanță majoră pentru biodiversitatea avifaunistică a Sahelului",
+        "Un sit de o frumusețe peisagistică unică în Burkina Faso"
+      ]
+    },
+    {
+      "id": "reserve-de-bontioli-life-v2",
+      "descriptionAdvanced": "Rezervația Bontioli, situată în provincia Bougouriba din sud-vestul țării, este una dintre cele mai vechi arii protejate din Burkina Faso. Această rezervație forestieră joacă un rol esențial în conservarea ecosistemelor de savană sudaneză, oferind un habitat sigur pentru o varietate de specii de animale, inclusiv antilope, maimuțe și numeroase specii de păsări. Rezervația este traversată de cursuri de apă care mențin o vegetație densă chiar și în timpul sezonului uscat, fiind un refugiu important pentru faună. Eforturile de gestionare se concentrează pe protejarea florei locale împotriva tăierilor ilegale și pe implicarea comunităților din jur în gestionarea durabilă a resurselor naturale. Bontioli reprezintă un exemplu de conservare a biodiversității într-o regiune marcată de presiunea activităților umane, rămânând un plămân verde vital pentru regiunea Sud-Ouest.",
+      "factsAdvanced": [
+        "Una dintre primele rezervații forestiere create în Burkina Faso",
+        "Adăpostește o populație diversă de primate și antilope mici",
+        "Situată într-o zonă de tranziție între savană și pădure",
+        "Protejează izvoare de apă naturale esențiale pentru faună",
+        "Zonă prioritară pentru proiecte de reîmpădurire cu specii native",
+        "Include păduri de galerie bine conservate de-a lungul râurilor",
+        "Important centru pentru observarea păsărilor exotice",
+        "Gestionată în colaborare cu asociațiile locale de conservare"
+      ]
+    },
+    {
+      "id": "parc-des-oiseaux-life-v2",
+      "descriptionAdvanced": "Parcul Păsărilor este o destinație fascinantă pentru iubitorii de natură și ornitologi, fiind situat într-o zonă umedă strategică unde se concentrează sute de specii de păsări migratoare și rezidente. Acest sanctuar oferă condiții ideale pentru cuibărit și hrănire, datorită prezenței apei și a unei vegetații bogate în semințe și insecte. Vizitatorii pot observa aici specii spectaculoase, de la berze și pelicani până la mici păsări colorate specifice Sahelului. Parcul are un rol educativ major, oferind tururi ghidate care explică importanța zonelor umede în contextul schimbărilor climatice. De asemenea, este un centru de cercetare unde se realizează inelarea păsărilor pentru monitorizarea rutelor de migrație între Europa și Africa. Parcul Păsărilor rămâne un simbol al frumuseții fragile a avifaunei vest-africane și un loc de liniște profundă.",
+      "factsAdvanced": [
+        "Găzduiește peste 200 de specii de păsări migratoare și locale",
+        "Situat într-o zonă umedă protejată de importanță regională",
+        "Punct de observație ideal pentru speciile de apă (pelicani, egrete)",
+        "Include turnuri de observație și poteci pentru vizitatori",
+        "Centru activ pentru monitorizarea migrației avifaunistice trans-sahariene",
+        "Oferă ghidaj specializat pentru fotografi și cercetători",
+        "Esențial pentru conservarea speciilor de păsări pe cale de dispariție",
+        "Una dintre cele mai populare destinații de ecoturism din apropierea zonelor urbane"
+      ]
+    },
+    {
+      "id": "culture-du-sorgho-life-v2",
+      "descriptionAdvanced": "Cultura sorgului reprezintă fundamentul alimentației și al securității alimentare în Burkina Faso, fiind o cereală extrem de rezistentă la condițiile de secetă. Cultivat pe scară largă pe întreg platoul central, sorgul este adaptat perfect solurilor lateritice și precipitațiilor neregulate din Sahel. Dincolo de valoarea sa nutritivă, sorgul are o semnificație culturală profundă, fiind utilizat pentru prepararea faimoasei beri locale \"dolo\" și a terciului tradițional \"tô\". Recoltarea sorgului este un eveniment comunitar major, însoțit de cântece și ritualuri de mulțumire adresate pământului. În ultimii ani, cercetătorii burkinabezi au dezvoltat varietăți de sorg cu randament ridicat, ajutând fermierii să facă față provocărilor climatice. Cultura sorgului nu este doar o activitate economică, ci o expresie a identității și rezilienței popoarelor din savana africană.",
+      "factsAdvanced": [
+        "Principala cultură cerealieră de subzistență din Burkina Faso",
+        "Plantă extrem de rezistentă la temperaturi înalte și secetă",
+        "Materia primă esențială pentru fabricarea berii tradiționale dolo",
+        "Ocupă peste 40% din suprafața arabilă a țării",
+        "Tulpinile de sorg sunt utilizate ca material de construcție și combustibil",
+        "Sursă majoră de fier și proteine în dieta locală",
+        "Recolta are loc în mod tradițional între lunile noiembrie și ianuarie",
+        "Există numeroase varietăți locale (alb, roșu) adaptate fiecărei regiuni"
+      ]
+    },
+    {
+      "id": "jardin-des-enfants-life-v2",
+      "descriptionAdvanced": "Grădina Copiilor este un spațiu educațional și recreativ unic, conceput special pentru a-i apropia pe cei mici de natură și de protecția mediului. Acest parc tematic include grădini botanice miniaturale, zone de joacă interactive și ateliere de grădinărit unde copiii pot învăța cum să planteze și să îngrijească arborii. Istoric, acest spațiu a fost creat pentru a compensa lipsa spațiilor verzi în zonele urbane noi, oferind un mediu sigur pentru dezvoltarea fizică și socială a copiilor. Grădina promovează valorile cetățeniei ecologice, explicând prin joc concepte complexe precum reciclarea și economia apei. Este un loc plin de culoare și viață, unde educația non-formală se împletește cu distracția, fiind un model de spațiu public incluziv și prietenos cu mediul în inima Burkinei Faso.",
+      "factsAdvanced": [
+        "Spațiu public dedicat educației ecologice prin joc",
+        "Dotat cu echipamente de joacă sigure și creative",
+        "Include o mini-grădină de plante medicinale tradiționale",
+        "Popular pentru excursii școlare și activități extrașcolare",
+        "Promovează plantarea arborilor în rândul tinerelor generații",
+        "Dispune de zone umbrite special amenajate pentru lectură",
+        "Unul dintre cele mai bine întreținute parcuri publice din capitală",
+        "Găzduiește ateliere de artă folosind materiale reciclate"
+      ]
+    },
+    {
+      "id": "reserve-de-faune-de-kouritenga-life-v2",
+      "descriptionAdvanced": "Rezervația de faună Kouritenga, situată în provincia cu același nume de pe platoul central, este o arie protejată vitală pentru menținerea biodiversității într-o regiune dens populată. Deși de dimensiuni mai reduse, rezervația adăpostește populații importante de antilope mici, rozătoare mari și o diversitate remarcabilă de reptile și păsări de savană. Istoric, această zonă a fost protejată pentru a servi drept eșantion al vegetației originale de savană cu arbuști, care a dispărut în mare parte din zonele înconjurătoare din cauza agriculturii intense. Rezervația este un centru important pentru cercetările ecologice locale, oferind date prețioase despre regenerarea solurilor și a florei native. Este un exemplu de efort de conservare \"insulară\", unde natura sălbatică rezistă în mijlocul presiunii demografice și agricole constante.",
+      "factsAdvanced": [
+        "Protejează un vestigiu al savanei originale de pe platoul central",
+        "Habitat critic pentru păsările de savană și mamiferele mici",
+        "Zonă de studiu pentru regenerarea naturală a arborilor de karite",
+        "Importanță majoră pentru controlul eroziunii solului în regiune",
+        "Accesibilă pentru educația de mediu a comunităților rurale vecine",
+        "Include puncte de apă sezoniere esențiale pentru fauna locală",
+        "Delimitată prin bariere verzi pentru a preveni pășunatul ilegal",
+        "Un model de micro-rezervație gestionată la nivel provincial"
+      ]
+    },
+    {
+      "id": "culture-du-millet-life-v2",
+      "descriptionAdvanced": "Cultura meiului este, alături de sorg, pilonul supraviețuirii în regiunile cele mai aride ale Burkinei Faso, în special în Sahel. Meiul perlat este apreciat pentru capacitatea sa de a crește pe soluri sărace și cu o cantitate minimă de apă, fiind adesea singura recoltă posibilă în anii de secetă severă. Făina de mei este baza multor preparate tradiționale, oferind energie durabilă celor care lucrează pământul. Din punct de vedere istoric, meiul a fost prima cereală cultivată de popoarele din această regiune, fiind considerat o plantă sacră. Paiele de mei sunt extrem de valoroase, fiind folosite pentru acoperișurile caselor și pentru hrana animalelor în timpul iernii. Cultura meiului rămâne o dovadă a adaptabilității uimitoare a agriculturii burkinabeze la condițiile unui mediu în continuă schimbare.",
+      "factsAdvanced": [
+        "Cereala cea mai rezistentă la secetă din Africa de Vest",
+        "Alimentul de bază în zonele de nord și de est ale țării",
+        "Cultivată în principal în regim pluvial (fără irigare)",
+        "Semințele pot fi păstrate în hambare tradiționale timp de mai mulți ani",
+        "Sursă bogată în magneziu și vitamine esențiale pentru sănătate",
+        "Tulpina este utilizată pentru fabricarea gardurilor și a rogojinilor",
+        "Recolta se face manual, fiind o activitate intensă în sate",
+        "Joacă un rol central în ceremoniile de recoltă din Sahel"
+      ]
+    },
+    {
+      "id": "parc-de-loisirs-de-bobodioulasso-life-v2",
+      "descriptionAdvanced": "Parcul de agrement din Bobo-Dioulasso este o oază de liniște și frumusețe situată în inima capitalei culturale a Burkinei Faso. Acest parc spațios este renumit pentru arborii săi seculari de mango și pentru grădinile de flori bine întreținute, oferind un refugiu ideal împotriva căldurii tropicale. Este locul preferat de întâlnire pentru artiști, studenți și turiști, atmosfera sa relaxată fiind în armonie cu spiritul boem al orașului. Parcul dispune de zone de spectacole în aer liber unde au loc frecvent concerte de muzică tradițională și modernă. De-a lungul anilor, a devenit un centru social vibrant, simbolizând ospitalitatea și vitalitatea culturală a locuitorilor din Bobo-Dioulasso, fiind totodată un exemplu reușit de amenajare a spațiului public care combină natura cu divertismentul urban.",
+      "factsAdvanced": [
+        "Cel mai popular spațiu verde din orașul Bobo-Dioulasso",
+        "Găzduiește evenimente muzicale și spectacole de teatru în aer liber",
+        "Renumit pentru ambianța sa relaxată sub arbori de mango uriași",
+        "Punct de întâlnire esențial pentru tineretul și artiștii locali",
+        "Include facilități moderne de catering și zone de relaxare",
+        "Situat strategic în apropierea centrului istoric Dioulassoba",
+        "Oferă o vedere panoramică asupra arhitecturii verzi a orașului",
+        "Un model de integrare a naturii în peisajul urban al metropolei"
+      ]
+    },
+    {
+      "id": "elevage-de-zebus-life-v2",
+      "descriptionAdvanced": "Creșterea zebulor (vitele cu cocoașă) este o activitate economică și culturală fundamentală pentru Burkina Faso, țară cu o tradiție pastorală milenară. Zebul este adaptat perfect condițiilor de viață din Sahel, cocoașa sa servind drept rezervă de grăsime pentru perioadele de lipsă a hranei. Această formă de creștere a animalelor este practicată în principal de către comunitățile Peul (Fulani), pentru care mărimea turmei este un indicator al prestigiului social și al bogăției. Transhumanța, mișcarea sezonieră a turmelor în căutarea apei și a pășunilor, este un fenomen social complex care leagă nordul de sudul țării. Carnea și laptele de zebu sunt esențiale pentru dieta națională, iar exportul de vite vii reprezintă o sursă majoră de venituri în valută pentru statul burkinabez, susținând economia a milioane de oameni.",
+      "factsAdvanced": [
+        "Al doilea cel mai important produs de export al Burkinei Faso",
+        "Rasa de zebu Peul este cea mai răspândită în regiunea Sahel",
+        "Cocoașa este un organ de rezervă adaptiv pentru supraviețuirea în secetă",
+        "Transhumanța anuală acoperă sute de kilometri spre pășunile din sud",
+        "Animalele sunt utilizate și pentru tracțiune în agricultura mică",
+        "Târgurile de vite din nord sunt printre cele mai mari din Africa de Vest",
+        "Laptele de zebu este baza produselor lactate artizanale locale",
+        "Sectorul contribuie cu peste 15% la PIB-ul național agricol"
+      ]
+    },
+    {
+      "id": "reserve-de-faune-de-boulon-life-v2",
+      "descriptionAdvanced": "Rezervația de faună Boulon, situată în sud-vestul țării, în provincia Comoé, este o zonă protejată de o frumusețe sălbatică deosebită, dominată de peisaje de savană împădurită. Această rezervație este esențială pentru conservarea habitatului unor specii mari de mamifere, precum bivolii și hipopotamii care trăiesc de-a lungul râurilor. Istoric, Boulon a fost o zonă de vânătoare tradițională, dar în ultimele decenii a fost transformată într-un sanctuar pentru biodiversitate, cu un accent puternic pe refacerea populațiilor de antilope. Vegetația rezervației include arbori valoroși precum néré și karite, care sunt protejați pentru rolul lor ecologic și economic. Rezervația reprezintă un punct important pe harta ecoturismului din regiunea Cascades, oferind trasee pentru observarea animalelor într-un cadru natural autentic și mai puțin explorat.",
+      "factsAdvanced": [
+        "Zonă de protecție integrală pentru flora și fauna din regiunea Cascades",
+        "Habitat natural pentru populații de bivoli și antilope roan",
+        "Include zone riverane bogate, ideale pentru observarea hipopotamilor",
+        "Protejează păduri extinse de arbori karite și néré",
+        "Esențială pentru reglarea regimului hidrologic în provincia Comoé",
+        "Oferă oportunități de angajare pentru localnici ca ghizi și pădurari",
+        "Accesibilă în principal în timpul sezonului uscat (noiembrie-mai)",
+        "Colaborează cu asociațiile de vânătoare durabilă pentru managementul faunei"
+      ]
+    },
+    {
+      "id": "culture-de-l-anacarde-life-v2",
+      "descriptionAdvanced": "Cultura caju-ului (anacardului) a cunoscut o dezvoltare spectaculoasă în Burkina Faso în ultimii ani, devenind unul dintre principalele produse de export. Concentrată în special în regiunile de sud-vest și vest, unde climatul este mai umed, producția de nuci de caju oferă fermierilor venituri semnificative și sigure. Arborii de caju sunt, de asemenea, utilizați pentru reîmpădurire și pentru combaterea eroziunii solului, datorită rădăcinilor lor puternice și capacității de a crește pe soluri mai sărace. Industria locală de prelucrare a nucilor de caju este în plină expansiune, creând numeroase locuri de muncă, în special pentru femei. Cultura caju-ului reprezintă un exemplu de succes al tranziției de la agricultura de subzistență la cea orientată spre piața internațională, contribuind la transformarea economică a mediului rural din sudul țării.",
+      "factsAdvanced": [
+        "Unul dintre primele trei produse de export agricol ale țării",
+        "Cultivat în principal în regiunile Cascades, Sud-Ouest și Hauts-Bassins",
+        "Arborii ajută la stabilizarea solurilor și la prevenirea deșertificării",
+        "Recoltarea are loc între lunile februarie și mai",
+        "Burkina Faso este unul dintre primii 10 producători mondiali de caju",
+        "Industria de procesare locală este susținută de guvern pentru plusvaloare",
+        "Nucile de caju burkinabeze sunt apreciate pentru gustul lor intens",
+        "Sursă majoră de venituri pentru micii producători independenți"
+      ]
+    },
+    {
+      "id": "aire-de-jeux-de-ouaga-2000-life-v2",
+      "descriptionAdvanced": "Spațiul de joacă din cartierul Ouaga 2000 este o facilitate modernă situată în cea mai exclusivistă zonă a capitalei. Spre deosebire de parcurile tradiționale, acest spațiu a fost proiectat cu dotări contemporane, incluzând terenuri de sport, echipamente de fitness în aer liber și zone de joacă securizate pentru copii mici. Este un punct de întâlnire pentru clasa medie în ascensiune și pentru expatriați, oferind un mediu curat și bine întreținut pentru activități recreative. Istoric, dezvoltarea acestui spațiu reflectă modernizarea rapidă a orașului Ouagadougou și apariția noilor nevoi de loisir urban. Zona este iluminată pe timp de noapte, permițând utilizarea facilităților și după apusul soarelui, când temperaturile devin mai plăcute, fiind un model de infrastructură urbană modernă care promovează un stil de viață sănătos.",
+      "factsAdvanced": [
+        "Cel mai modern complex de joacă și sport din Ouagadougou",
+        "Situat în cartierul administrativ și rezidențial Ouaga 2000",
+        "Dotat cu echipamente de fitness și terenuri de baschet/mini-fotbal",
+        "Spațiu iluminat și securizat pentru utilizare în cursul serii",
+        "Popular pentru activitățile sportive de grup și antrenamente în aer liber",
+        "Include facilități de igienă și zone de catering de calitate",
+        "Un simbol al urbanismului modern și al dezvoltării imobiliare de lux",
+        "Oferă programe de animație pentru copii în timpul weekend-urilor"
+      ]
+    },
+    {
+      "id": "reserve-de-faune-de-sissili-life-v2",
+      "descriptionAdvanced": "Rezervația de faună Sissili, situată în provincia cu același nume din sudul țării, este un coridor ecologic vital care leagă parcurile naționale din Burkina Faso de cele din Ghana. Această rezervație forestieră este renumită pentru populațiile sale de elefanți migratori care traversează granița în căutarea hranei. Peisajul este format dintr-un amestec de savană arbustivă și păduri de galerie de-a lungul râului Sissili, oferind un habitat bogat pentru bivoli, antilope și o mare varietate de primate. Eforturile de conservare aici sunt concentrate pe prevenirea conflictelor dintre oameni și animale sălbatice și pe protejarea rutelor de migrație împotriva extinderii necontrolate a agriculturii. Sissili reprezintă un punct cheie pentru conservarea transfrontalieră în Africa de Vest, fiind un martor al interdependenței ecosistemelor regionale.",
+      "factsAdvanced": [
+        "Coridor de migrație esențial pentru elefanții între Burkina Faso și Ghana",
+        "Adăpostește o mare diversitate de mamifere mari și medii",
+        "Situată în provincia Sissili, cu centrul în jurul orașului Léo",
+        "Protejează bazinul hidrografic al râului Sissili",
+        "Zonă pilot pentru managementul participativ al faunei sălbatice",
+        "Renumită pentru flora sa diversă, incluzând numeroase plante medicinale",
+        "Important centru pentru turismul de vânătoare controlată și safari",
+        "Joacă un rol major în menținerea echilibrului ecologic al regiunii Sud"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "lang": "de",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bangweulu-swamp-nature-v2",
+      "descriptionAdvanced": "Die Bangweulusümpfe im Norden Sambias bilden eines der bedeutendsten und ökologisch komplexesten Feuchtgebietssysteme Afrikas. Durch ein ständiges Wechselspiel von Papyrusdickichten, offenen Wasserkanälen und saisonalen Überschwemmungsflächen bietet das Gebiet eine unübertroffene Biodiversität. Es ist einer der wenigen Zufluchtsorte für den seltenen Schuhschnabel, einen ikonischen Sumpfvogel, der hier optimale Brutbedingungen vorfindet. Zudem bildet das Ökosystem die wirtschaftliche Lebensgrundlage für die lokale Fischereibevölkerung, deren Existenz eng mit den jährlichen Wasserstandsschwankungen und der damit verbundenen Fischmigration verknüpft ist.",
+      "factsAdvanced": [
+        "Umfasst eine Fläche von etwa 3000 Quadratkilometern",
+        "Eines der biologisch vielfältigsten Feuchtgebiete Afrikas",
+        "Einer der wenigen Orte weltweit zur Beobachtung des Schuhschnabels",
+        "Das Ökosystem wird durch extreme saisonale Überschwemmungen geformt",
+        "Haupteinnahmequelle für die lokale artisanale Fischerei",
+        "Dient als wichtiger globaler Lebensraum für Wasservögel"
+      ]
+    },
+    {
+      "id": "luangwa-river-nature-v2",
+      "descriptionAdvanced": "Der Luangwa ist ein bedeutender Nebenfluss des Sambesi und gilt als eine der wichtigsten Lebensadern Sambias, besonders für den Wildtierschutz. Der Fluss durchquert eine der landschaftlich reizvollsten Regionen des Landes und ist das Herzstück des berühmten South-Luangwa-Nationalparks. Während der Trockenzeit ziehen sich die Wildtierbestände, darunter Elefanten, Flusspferde und Löwen, an die wenigen verbleibenden Wasserstellen entlang des Flusslaufs zurück, was spektakuläre Beobachtungsmöglichkeiten bietet. Das Luangwa-Tal ist international für seine hohe Konzentration an großen Säugetieren und unberührter Natur berühmt.",
+      "factsAdvanced": [
+        "Länge des Flussverlaufs beträgt etwa 770 Kilometer",
+        "Wichtigster Zufluss des Sambesi im östlichen Sambia",
+        "Lebensraum für eine der größten Elefantenpopulationen Afrikas",
+        "Herzkammer des South-Luangwa-Nationalparks",
+        "Erlebt extreme hydrologische Veränderungen zwischen den Jahreszeiten",
+        "Berühmt für Leoparden-Sichtungen in den Auwäldern"
+      ]
+    },
+    {
+      "id": "lake-mweru-nature-v2",
+      "descriptionAdvanced": "Der Mwerusee liegt strategisch günstig an der Grenze zwischen Sambia und der Demokratischen Republik Kongo und ist ein bedeutendes Binnengewässer im Norden des Landes. Der See wird hauptsächlich durch den Luapula-Fluss gespeist, der aus den Bangweulusümpfen kommt. Aufgrund seines großen Fischreichtums ist der See von zentraler Bedeutung für die Ernährungssicherung und die wirtschaftliche Entwicklung der umliegenden Region. Trotz seiner fischereilichen Bedeutung bleibt die Region um den Mwerusee landschaftlich reizvoll und landschaftlich weitgehend vom industriellen Tourismus verschont.",
+      "factsAdvanced": [
+        "Liegt im Grenzgebiet zwischen Sambia und der DR Kongo",
+        "Wichtigstes natürliches Binnengewässer im Norden Sambias",
+        "Hauptzufluss des Sees ist der Luapula-Fluss",
+        "Länge erstreckt sich auf etwa 131 Kilometer",
+        "Maximale Breite beträgt ungefähr 56 Kilometer",
+        "Zentraler Knotenpunkt für den regionalen Fischhandel"
+      ]
+    },
+    {
+      "id": "kafue-river-nature-v2",
+      "descriptionAdvanced": "Der Kafue-Fluss ist der längste Fluss, der auf seiner gesamten Länge von rund 1576 Kilometern innerhalb der Grenzen Sambias fließt, was ihn hydrologisch einzigartig macht. Er durchquert den nach ihm benannten Kafue-Nationalpark, den größten Nationalpark Sambias, und speist zudem den Itezhi-Tezhi-Stausee. Sein Verlauf ist durch eine große Vielfalt an Landschaften geprägt, von offenen Ebenen und Savannen bis hin zu dichten Wäldern. Er spielt eine kritische Rolle bei der Bewässerung der landwirtschaftlichen Flächen und ist eine unersetzliche Quelle für die Biodiversität im Herzen des Landes.",
+      "factsAdvanced": [
+        "Längster Fluss, der vollständig in Sambia verläuft",
+        "Gesamtlänge beträgt etwa 1576 Kilometer",
+        "Speist den Kafue-Nationalpark und den Itezhi-Tezhi-Stausee",
+        "Entscheidend für die landwirtschaftliche Bewässerung",
+        "Beheimatet eine beeindruckende Vielfalt an Antilopenarten",
+        "Mündet bei Chirundu in den Sambesi-Fluss"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "awbarkhadle-shrine-history-v2",
+      "descriptionAdvanced": "Aw Barkhadle szentélye egy rendkívül fontos vallási és történelmi helyszín Szomáliában, amely egy középkori szentnek, Sheikh Yusuf al-Kawnayn-nak állít emléket. A helyszín nemcsak a vallási élet központja volt évszázadokon keresztül, hanem a helyi hagyományok és az iszlám tanítások ötvöződésének egyik elsődleges terepe is. A szentély környékén feltárt régészeti emlékek, köztük sírkövek és épületmaradványok, a térség gazdag középkori történelmébe adnak betekintést, amely összeköti a szomáliai törzsi múltat az iszlám világgal. Aw Barkhadle ma is kiemelkedő zarándokhely, amely a szomáliai vallásos identitás megőrzésében játszik szerepet.",
+      "factsAdvanced": [
+        "Sheikh Yusuf al-Kawnayn sírhelye.",
+        "Középkori vallási zarándokhely.",
+        "Az iszlám tanítások és helyi hagyományok ötvözete.",
+        "Fontos régészeti lelőhely Szomáliában.",
+        "Sírkövek és épületmaradványok gazdagítják.",
+        "Szomáliai vallásos identitás szimbóluma."
+      ]
+    },
+    {
+      "id": "hobyo-sultanate-fort-history-v2",
+      "descriptionAdvanced": "Hobyo erődje a 19. századi és 20. század eleji szomáliai történelem egyik jelentős védelmi pontja, amely a Hobyo Szultanátus hatalmi központjaként szolgált. Az erődítmény stratégiai helyzete lehetővé tette a terület ellenőrzését az Indiai-óceán partvidékén, miközben kereskedelmi központként is funkcionált. A falak között zajló politikai manőverek és a gyarmati erőkkel való konfrontációk fontos fejezetet képviselnek a szomáliai államiság kialakulásának történetében. Hobyo maradványai ma is emlékeztetnek azokra a küzdelmekre és kereskedelmi sikerekre, amelyek a szultanátust jellemezték.",
+      "factsAdvanced": [
+        "A Hobyo Szultanátus központja.",
+        "19. századi védelmi erődítmény.",
+        "Stratégiai kikötőváros volt.",
+        "Fontos szerepet játszott az antikoloniális küzdelmekben.",
+        "Kereskedelmi hatalmi bázis.",
+        "Szomáliai államiság fontos fejezete."
+      ]
+    },
+    {
+      "id": "qardho-tombs-history-v2",
+      "descriptionAdvanced": "Qardho síremlékei a térség történelmi és vallási jelentőségét hirdetik, évszázadokon átívelő örökséget hagyva az utókorra. A lelőhely olyan fontos közösségi és vallási vezetők nyughelye, akiknek a középkori Szomália társadalmi rendjére gyakorolt hatása máig érzékelhető a helyi hagyományokban. A temetkezési hely különleges építészeti formái és a rajtuk lévő faragványok a korabeli mesteremberek tudásáról és a helyi kultúra gazdagságáról tanúskodnak. Qardho sírjai nem csupán történelmi emlékek, hanem a szomáliai spirituális élet fontos részei.",
+      "factsAdvanced": [
+        "Történelmi temetkezési lelőhely.",
+        "Közösségi és vallási vezetők nyughelye.",
+        "Különleges építészeti formák.",
+        "Gazdag és díszes sírkövek.",
+        "Fontos a helyi kulturális hagyományok számára.",
+        "A spirituális élet része."
+      ]
+    }
+  ]
+}

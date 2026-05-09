@@ -2,33 +2,294 @@
   "lang": "de",
   "country": "gambia",
   "files": [
-    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "bakoteh-cities-v2",
-      "descriptionAdvanced": "Bakoteh ist ein lebendiger Stadtteil von Serekunda, der durch seine dichte Wohnbebauung und seine soziale Vielfalt geprägt ist. Ein besonderes Merkmal des Viertels ist das SOS-Kinderdorf, das eine wichtige soziale Einrichtung zur Unterstützung von Kindern in Not darstellt. Bakoteh spielt zudem eine bedeutende Rolle im lokalen Handel, da es viele kleine Geschäfte und Dienstleister beherbergt, die den Alltag der Bewohner maßgeblich mitgestalten. Die Mischung aus familiärem Wohnumfeld und aktiver lokaler Wirtschaft macht Bakoteh zu einem wesentlichen Bestandteil des sozialen Gefüges in der Kanifing Municipality. Soziale Arbeit K7 — Gemeinschaftliche Einrichtungen.",
-      "factsAdvanced": ["Standort eines SOS-Kinderdorfes.", "Wichtige soziale Einrichtung.", "Dichte Wohnbebauung.", "Vielfältige lokale Handelsstruktur.", "Integraler Teil der Kanifing Municipality.", "Zentrum für kleinteilige soziale Unterstützung.", "Typisches urbanes Wohnviertel in Serekunda."]
+      "id": "abuko-nature-reserve-nature-v2",
+      "descriptionAdvanced": "Das Abuko Nature Reserve ist das älteste und am besten untersuchte Naturschutzgebiet Gambias und ein unschätzbares Refugium für die Biodiversität Westafrikas. Trotz seiner relativ geringen Fläche beherbergt es eine erstaunliche Vielfalt an Lebensräumen, darunter einen der letzten Primärwälder der Region, Feuchtgebiete und Savannen. Abuko ist ein Paradies für Tierbeobachter, die hier Grüne Meerkatzen, Rote Stummelaffen, Krokodile und hunderte Vogelarten in ihrer natürlichen Umgebung erleben können. Das Reservat spielt eine zentrale Rolle in der nationalen Umweltbildung und beherbergt eine Tierstation für verletzte und beschlagnahmte Wildtiere. Ein Besuch in Abuko bietet eine tiefgehende Begegnung mit der ursprünglichen Natur Gambias und schärft das Bewusstsein für die dringende Notwendigkeit, diese fragilen Ökosysteme vor der urbanen Expansion zu schützen. (Biologie K7 — Artenschutz und Habitatmanagement)",
+      "factsAdvanced": [
+        "Erstes offizielles Naturschutzgebiet Gambias (gegründet 1968).",
+        "Wichtigster Standort für die Erhaltung des gambischen Regenwaldes.",
+        "Beherbergt über 270 verschiedene Vogelarten.",
+        "Zentrum für die Aufzucht und Rehabilitation verwaister Wildtiere.",
+        "Hotspot für die Erforschung westafrikanischer Primaten.",
+        "Dient als grüne Lunge im dicht besiedelten Kombo-Distrikt.",
+        "Ausgestattet mit einem Naturlehrpfad und Beobachtungsständen.",
+        "Symbol für den Beginn der Naturschutzbewegung im Land."
+      ]
     },
     {
-      "id": "old-jeshwang-cities-v2",
-      "descriptionAdvanced": "Old Jeshwang ist einer der geschichtsträchtigsten Stadtteile von Serekunda, dessen Ursprünge weit in die Vergangenheit zurückreichen. Bekannt ist der Ort vor allem durch den großen Old Jeshwang Friedhof, der ein bedeutendes historisches Wahrzeichen darstellt. Die geographische Nähe zu den ausgedehnten Mangrovenwäldern des Gambia-Flusses verleiht dem Viertel einen besonderen Charakter. Obwohl es ein historischer Ort ist, wächst das Viertel stetig mit der Expansion der umliegenden städtischen Gebiete und bildet eine Brücke zwischen der Vergangenheit und der modernen Urbanität Serekundas. Geschichte K8 — Regionale historische Wahrzeichen.",
-      "factsAdvanced": ["Eines der ältesten Viertel Serekundas.", "Historisch bedeutsamer Old Jeshwang Friedhof.", "Nähe zu den Mangrovenwäldern.", "Bindeglied zwischen Tradition und Moderne.", "Langjährige städtische Entwicklung.", "Wichtiger Ort für kulturelle Identität.", "Charakteristische geografische Lage."]
+      "id": "janjanbureh-island-nature-v2",
+      "descriptionAdvanced": "Janjanbureh Island, auch bekannt als MacCarthy Island, ist ein ökologisches und historisches Juwel inmitten des mächtigen Gambia-Flusses. Die Insel ist von dichten Galeriewäldern und ausgedehnten Sumpfgebieten umgeben, die ein ideales Habitat für Flusspferde, Krokodile und eine enorme Vielfalt an Wasservögeln bieten. Die einzigartige isolierte Lage hat dazu beigetragen, dass viele ursprüngliche Pflanzenarten hier erhalten geblieben sind. Janjanbureh ist nicht nur für Naturliebhaber ein Magnet, sondern auch ein Ort tiefer historischer Bedeutung, was eine seltene Symbiose aus Natur- und Kulturerbe schafft. Die Gewässer um die Insel sind reich an Fischressourcen und dienen als wichtiger ökologischer Korridor für wandernde Arten. Ein Besuch ermöglicht eine entschleunigte Erfahrung der Flusslandschaft, geprägt durch die zeitlose Dynamik des Wassers und die unberührte Ufervegetation. (Geographie K6 — Flussinseln und ökologische Korridore)",
+      "factsAdvanced": [
+        "Größte schiffbare Insel im Mittellauf des Gambia-Flusses.",
+        "Wichtiger Lebensraum für die bedrohte westafrikanische Seekuh.",
+        "Zentrum für den Ökotourismus in der Central River Region.",
+        "Beherbergt seltene Bestände an uralten Mahagonibäumen.",
+        "Wichtigster Punkt für die Beobachtung von Flusspferd-Populationen.",
+        "Umgeben von ökologisch wertvollen Mangroven-Seitenarmen (Bolongs).",
+        "Symbol für die harmonische Verbindung von Geschichte und Natur.",
+        "Zentraler Standort für regionale Naturschutzinitiativen."
+      ]
     },
     {
-      "id": "new-jeshwang-cities-v2",
-      "descriptionAdvanced": "New Jeshwang ist ein modernes Wohngebiet, das sich organisch aus der expansionistischen Phase von Serekunda entwickelt hat. Es dient als Erweiterung des historischen Stadtteils Old Jeshwang und bietet vielen Menschen, die in die Region gezogen sind, einen neuen Lebensraum. Die städtebauliche Struktur ist durch eine hohe Wohndichte und ein reges kleines Handwerk geprägt, das den Bewohnern vor Ort vielfältige Dienstleistungen bietet. Als Teil der modernen Urbanisierung Gambias repräsentiert New Jeshwang den schnellen Wandel und die steigende Attraktivität der Metropolregion für die wachsende Stadtbevölkerung. Wirtschaft K7 — Moderne städtische Siedlungsstrukturen.",
-      "factsAdvanced": ["Moderne Erweiterung von Old Jeshwang.", "Dichte städtische Wohnstruktur.", "Wachsendes Zentrum für lokale Handwerkskunst.", "Wichtiger Lebensraum für Zuwanderer.", "Symbol für den urbanen Wandel Serekundas.", "Gute Anbindung an lokale Dienstleistungen.", "Teil der modernen Expansionsphase."]
+      "id": "kunta-kinteh-island-nature-v2",
+      "descriptionAdvanced": "Kunta Kinteh Island, ehemals James Island, ist ein Ort von erschütternder historischer Wucht und zugleich ein fragiles ökologisches Denkmal im Ästuar des Gambia-Flusses. Die Insel ist ständig den Gezeitenkräften und der Meereserosion ausgesetzt, was ihre Bewahrung zu einer gewaltigen Herausforderung macht. Trotz ihrer geringen Größe ist sie ein Refugium für seltene Küstenvögel und wird von dichten Mangroven gesäumt, die als natürlicher Schutzschild fungieren. Als Teil des UNESCO-Welterbes steht Kunta Kinteh für die dunkle Geschichte des Sklavenhandels, ist aber heute auch ein Symbol für ökologische Resilienz. Die Insel bietet eine einzigartige Perspektive auf die Wechselwirkung zwischen Mensch, Geschichte und den unaufhaltsamen Kräften des Ozeans. Ein Besuch ist eine mahnende Reise durch die Zeit in einer Landschaft, die sowohl durch menschliches Handeln als auch durch natürliche Prozesse geformt wurde. (Geschichte/Erdkunde K8 — Welterbeschutz und Küstendynamik)",
+      "factsAdvanced": [
+        "UNESCO-Weltkulturerbe von herausragender universeller Bedeutung.",
+        "Symbol für die transatlantische Versklavungsgeschichte.",
+        "Akut bedroht durch den Anstieg des Meeresspiegels und Erosion.",
+        "Wichtiger Nistplatz für marine Vogelarten im Flussdelta.",
+        "Beherbergt Ruinen kolonialer Festungsbauten des 17. Jahrhunderts.",
+        "Strategisch gelegen im breiten Ästuar des Gambia-Flusses.",
+        "Zentrum nationaler Bemühungen zum Denkmalschutz.",
+        "Ort tiefer emotionaler Bedeutung für die afrikanische Diaspora."
+      ]
     },
     {
-      "id": "ebo-town-cities-v2",
-      "descriptionAdvanced": "Ebo Town ist ein lebendiges, dicht bebautes Viertel in der Kanifing Municipality, das an die charakteristischen Mangrovensümpfe des Gambia-Flusses angrenzt. Die Lage stellt die Bewohner vor besondere Herausforderungen, zeugt aber gleichzeitig von der starken Resilienz und der soliden sozialen Gemeinschaft, die das Viertel prägt. Durch die Nähe zu zentralen städtischen Bereichen profitiert die Bevölkerung von der guten infrastrukturellen Anbindung, während das tägliche Leben durch die enge Nachbarschaft geprägt ist. Ebo Town steht als Symbol für die soziale Energie in Gambias urbanem Raum, wo Zusammenhalt den Alltag bestimmt. Soziale Arbeit K6 — Urbanes Leben und Gemeinschaftssinn.",
-      "factsAdvanced": ["Lebendiges Wohnviertel.", "Lage am Rande der Mangrovensümpfe.", "Herausfordernde, aber resiliente Gemeinschaft.", "Gute infrastrukturelle Anbindung.", "Starker lokaler Gemeinschaftsgeist.", "Beispiel für soziale Energie in der Stadt.", "Typische urbanisierte Siedlungsform."]
+      "id": "baboon-islands-nature-v2",
+      "descriptionAdvanced": "Die Baboon Islands im River Gambia National Park bilden ein streng geschütztes Archipel, das weltweit für sein einzigartiges Primatenschutzprojekt bekannt ist. Diese fünf Inseln sind für den Menschen absolut unzugänglich, um ein ungestörtes Habitat für Schimpansen zu gewährleisten, die hier erfolgreich wieder ausgewildert wurden. Der dichte tropische Regenwald auf den Inseln bietet zudem einen sicheren Rückzugsort für Paviane, Flusspferde und seltene Reptilien. Besucher können diese wilde Pracht ausschließlich vom Boot aus erleben, was die Baboon Islands zu einem der exklusivsten und authentischsten Wildniserlebnisse Westafrikas macht. Das Projekt zeigt eindrucksvoll, dass durch konsequenten Schutz und wissenschaftliche Begleitung verloren geglaubte Arten in ihre natürliche Heimat zurückkehren können. Die Inseln sind ein leuchtendes Symbol für die ökologische Erneuerung und den Stolz des gambischen Naturschutzes. (Biologie K8 — Primatenschutz und Schimpansen-Rehabilitation)",
+      "factsAdvanced": [
+        "Kernzone des River Gambia National Park.",
+        "Standort des ältesten Schimpansen-Aufforstungsprojekts in Afrika.",
+        "Inselgruppe mit absolutem Betretungsverbot für Touristen.",
+        "Herausragender Lebensraum für Hippopotamus amphibius.",
+        "Beherbergt eine enorme Dichte an Seeadlern und Palmgeiern.",
+        "Zentrum für internationale Verhaltensforschung an Primaten.",
+        "Einzigartiges Beispiel für ungestörte tropische Inselökosysteme.",
+        "Wichtiger Pfeiler der nationalen Biodiversitätsstrategie."
+      ]
     },
     {
-      "id": "latri-kunda-cities-v2",
-      "descriptionAdvanced": "Latri Kunda ist einer der kommerziell bedeutendsten Stadtteile von Serekunda, der in die Bereiche Sabiji und German unterteilt ist. Diese Unterteilung spiegelt die historische und soziale Vielfalt des Viertels wider, das heute als zentraler Handelsplatz für Bekleidung und Grundnahrungsmittel fungiert. Die hohe Dichte an Märkten und Geschäften macht Latri Kunda zu einem wichtigen Versorgungszentrum für die Bewohner des Großraums Serekunda. Durch seine zentrale Lage und die rege Handelstätigkeit ist Latri Kunda ein Motor für den kleinteiligen, lokalen Handel und ein unverzichtbarer Teil der ökonomischen Dynamik von Gambias größter Stadt. Wirtschaft K6 — Lokale Marktwirtschaft.",
-      "factsAdvanced": ["Zentraler Handelsplatz von Serekunda.", "Unterteilt in die Bereiche Sabiji und German.", "Großer Markt für Kleidung und Lebensmittel.", "Wichtiger Motor für den lokalen Handel.", "Hohe kommerzielle Aktivität.", "Versorgungszentrum für große Teile Serekundas.", "Starkes ökonomisches Profil."]
+      "id": "jinack-island-nature-v2",
+      "descriptionAdvanced": "Jinack Island ist ein abgeschiedenes Naturparadies im Niumi National Park, das durch seine unberührten Dünenlandschaften, weiten Salzwiesen und dichten Mangroven besticht. Gelegen im Mündungsdelta an der Grenze zum Senegal, ist die Insel ein international bedeutendes RAMSAR-Feuchtgebiet und ein lebenswichtiger Rastplatz für Tausende von Zugvögeln auf der ostatlantischen Route. Jinack ist berühmt für seine absolute Stille und die ökologische Vielfalt, die von marinen Habitaten für Delfine bis hin zu Brutplätzen für Meeresschildkröten reicht. Die spärliche Besiedlung hat dazu beigetragen, dass Jinack seinen ursprünglichen Charakter bewahrt hat, was es zu einem exzellenten Ziel für den sanften Ökotourismus macht. Die Insel illustriert die fragile Schönheit der westafrikanischen Küstenzonen und die enorme Bedeutung grenzüberschreitender Schutzgebiete für das globale ökologische Gleichgewicht. (Biologie K7 — Küstendünen und internationale Feuchtgebiete)",
+      "factsAdvanced": [
+        "Bestandteil des Niumi National Park und RAMSAR-Stätte.",
+        "Wichtigster Korridor für Zugvögel zwischen Europa und Afrika.",
+        "Bevorzugter Nistplatz für seltene Meeresschildkröten.",
+        "Bekannt für regelmäßige Delfinsichtungen in den Küstengewässern.",
+        "Einzigartige Vegetation aus Salzpflanzen und Küstenwäldern.",
+        "Zentrum für gemeindebasierten Natur- und Vogelschutz.",
+        "Bietet unberührte, kilometerweite weiße Sandstrände.",
+        "Strategisch wichtig für die Untersuchung der Küstenerosion."
+      ]
+    },
+    {
+      "id": "st-marys-island-nature-v2",
+      "descriptionAdvanced": "Die Insel St. Mary, auf der die Hauptstadt Banjul liegt, ist eine ökologisch faszinierende Landmasse, die vollständig vom Gambia-Fluss, dem Oyster Creek und dem Atlantik umschlossen ist. Trotz ihrer dichten urbanen Besiedlung ist die Insel untrennbar mit den umliegenden Mangroven des Tanbi Wetland Complex verbunden, die als lebenswichtiger natürlicher Filter und Schutzschild gegen Meeresfluten fungieren. Die Geographie von St. Mary ist geprägt durch sandige Ablagerungen und ein extrem niedriges Relief, was sie besonders empfindlich für Umweltveränderungen macht. Die Insel beherbergt trotz der Stadtentwicklung wertvolle Relikte der Küstenvegetation und ist ein wichtiger Lebensraum für Krebse, Fische und zahlreiche Seevögel. St. Mary illustriert auf dramatische Weise das Spannungsfeld zwischen urbaner Notwendigkeit und der Erhaltung kritischer Küstenökosysteme in einem sich wandelnden Klima. (Geographie K7 — Ästuar-Inseln und urbane Ökologie)",
+      "factsAdvanced": [
+        "Geographische Basis der gambischen Hauptstadt Banjul.",
+        "Umschlossen vom Tanbi Wetland Complex (UNESCO-Kandidat).",
+        "Wichtigster Schutzwall gegen Küstenerosion am Flussdelta.",
+        "Beherbergt bedeutende Bestände an Roten und Schwarzen Mangroven.",
+        "Standort für die traditionelle handwerkliche Austernfischerei.",
+        "Kritisch gefährdet durch den steigenden Meeresspiegel.",
+        "Zentrum für die maritime Überwachung des Gambia-Ästuars.",
+        "Symbol für die Verbindung von Geschichte, Macht und Natur."
+      ]
+    },
+    {
+      "id": "kartong-beach-nature-v2",
+      "descriptionAdvanced": "Kartong Beach im äußersten Süden Gambias ist einer der unberührtesten und landschaftlich reizvollsten Küstenabschnitte Westafrikas. Weit entfernt von den touristischen Hotspots der Metropolregion bietet dieser Strand eine Oase der Ruhe, geprägt durch goldgelben Sand, schattige Palmenhaine und die Nähe zur Allahein-Flussmündung. Kartong Beach ist ein bedeutendes ökologisches Habitat, das als Nistplatz für Meeresschildkröten und als Jagdrevier für seltene Greifvögel dient. Die hier ansässige Dorfgemeinschaft engagiert sich vorbildlich für den Erhalt der Strandreinheit und den Schutz der Küstendünen. Ein Besuch in Kartong ermöglicht eine authentische Begegnung mit der Kraft des Ozeans und der Stille einer Landschaft, in der der Mensch nur Gast in einem intakten Ökosystem ist. Der Strand ist ein Paradebeispiel für nachhaltigen Küstentourismus, der die Integrität der Natur respektiert. (Sachkunde K6 — Küstenschutz und nachhaltige Erholung)",
+      "factsAdvanced": [
+        "Südlichster Strand Gambias an der Grenze zum Senegal.",
+        "Pionierort für ökologisch verträgliche Strandentwicklung.",
+        "Wichtiges Brutgebiet für Seevögel und Schildkröten.",
+        "Berühmt für spektakuläre Sonnenuntergänge über dem Atlantik.",
+        "Eingebettet in ein System aus Dünen und Küstenwäldern.",
+        "Zentrum für die Beobachtung wandernder Fischschwärme.",
+        "Beliebtes Ziel für Ruhesuchende und Naturfotografen.",
+        "Teil eines integrierten Naturschutzkonzeptes der Gemeinde."
+      ]
+    },
+    {
+      "id": "sanyang-beach-nature-v2",
+      "descriptionAdvanced": "Sanyang Beach, auch als 'Paradise Beach' bekannt, ist die perfekte Verkörperung der gambischen Traumküste und ein Ort von außergewöhnlicher natürlicher Vitalität. Der Strand besticht durch seinen feinen, hellen Sand und die majestätischen Kokospalmen, die ihm eine fast polynesische Atmosphäre verleihen. Sanyang ist jedoch nicht nur ein Ort der Entspannung, sondern ein hochaktives marines Ökosystem, in dem die handwerkliche Fischerei und der Tourismus in einer lebendigen Symbiose koexistieren. Die Gewässer vor Sanyang sind außergewöhnlich fischreich und ziehen hunderte von Pirogen an, was den Strand zu einem faszinierenden Schauplatz maritimen Lebens macht. Trotz seiner Beliebtheit hat Sanyang seinen ursprünglichen Charme bewahrt und dient als wichtiges Beispiel dafür, wie touristische Nutzung und traditionelle Erwerbszweige an einer ökologisch wertvollen Küste erfolgreich harmonieren können. (Wirtschaft/Biologie K7 — Küstenressourcen und Tourismusentwicklung)",
+      "factsAdvanced": [
+        "Gilt als einer der ästhetisch ansprechendsten Strände Westafrikas.",
+        "Zentrum der handwerklichen Fischerei an der Südküste.",
+        "Bedeutendes Ziel für den Tages- und Wochenendtourismus.",
+        "Hotspot für die Beobachtung von Raubvögeln wie dem Fischadler.",
+        "Bekannt für seine exzellenten Fischrestaurants direkt am Ufer.",
+        "Beherbergt ökologisch wertvolle Küstendünen-Relikte.",
+        "Wichtiger Standort für kulturelle Strandfestivals.",
+        "Modell für die Verbindung von Freizeit und traditionellem Handwerk."
+      ]
+    },
+    {
+      "id": "kotu-beach-nature-v2",
+      "descriptionAdvanced": "Kotu Beach ist das strahlende Juwel des gambischen Küstentourismus und ein Paradebeispiel für die Integration von Naturerlebnis und erstklassiger Infrastruktur. Der weite, flache Sandstrand ist ideal für Erholungssuchende, während der unmittelbar angrenzende Kotu Stream ein international renommiertes Paradies für Vogelbeobachter darstellt. Hier treffen marine Einflüsse auf Süßwasser-Habitate, was eine enorme Vielfalt an Eisvögeln, Reihern und anderen tropischen Arten anlockt. Kotu Beach ist ein Hotspot für Umweltbildung direkt vor den Toren der großen Hotels, wo Touristen für den Wert der lokalen Biodiversität sensibilisiert werden. Die Gemeinde legt großen Wert auf den Schutz der Küstenvegetation und die Bekämpfung der Erosion, was Kotu zu einem Vorbild für verantwortungsvolles Küstenmanagement in einem dynamischen touristischen Umfeld macht. (Biologie K7 — Ornithologie und Küstenschutzmanagement)",
+      "factsAdvanced": [
+        "Führender Strandort für hochwertigen Tourismus in Gambia.",
+        "Mündungsgebiet des Kotu Stream mit extremer Vogeldichte.",
+        "Hotspot für Naturfotografen aus der ganzen Welt.",
+        "Beherbergt einen der bestorganisierten Kunstmärkte an der Küste.",
+        "Vorreiter bei Maßnahmen zum Schutz vor Strand-Erosion.",
+        "Wichtiges Zentrum für marine und ornithologische Forschung.",
+        "Bietet eine perfekte Mischung aus Luxus und Wildnis-Beobachtung.",
+        "Wesentlicher Devisenbringer durch naturnahen Tourismus."
+      ]
+    },
+    {
+      "id": "kololi-beach-nature-v2",
+      "descriptionAdvanced": "Kololi Beach ist das pulsierende Zentrum der gambischen Küste und der Ort, an dem die moderne touristische Entwicklung Gambias ihren Anfang nahm. Bekannt für den lebhaften Senegambia Strip, bietet dieser Strandabschnitt eine faszinierende Mischung aus goldenem Sand, üppigen Hotelgärten und einer dynamischen sozialen Szene. Ökologisch ist Kololi ein spannender Ort, da es unmittelbar an den Bijilo Forest Park grenzt, was eine seltene Verbindung zwischen einem maritimen Habitat und einem küstennahen Regenwald schafft. Der Strand unterliegt einem ständigen natürlichen Wandel durch Strömungen und Gezeiten, was umfangreiche Maßnahmen zum Küstenschutz erforderlich macht. Kololi Beach ist das Schaufenster Gambias zur Welt, ein Ort der Begegnung zwischen internationalen Besuchern und der gambischen Lebensfreude, eingebettet in eine beeindruckende atlantische Kulisse. (Geographie K8 — Tourismusgeographie und Küstenveränderung)",
+      "factsAdvanced": [
+        "Meistbesuchter Strandabschnitt und Zentrum des Tourismus.",
+        "Direkte Nachbarschaft zum Bijilo Forest Park (Affenpark).",
+        "Fokusgebiet für modernste Küstenschutz-Technologien.",
+        "Bedeutendes Wirtschaftszentrum für den Dienstleistungssektor.",
+        "Bekannt für seine hohe Dichte an Gastronomie und Hotellerie.",
+        "Wichtiger Schauplatz für nationale Sportveranstaltungen am Strand.",
+        "Symbol für die internationale Ausrichtung Gambias.",
+        "Dynamisches Habitat mit wechselnden Sandbänken und Gezeitenpools."
+      ]
+    },
+    {
+      "id": "cape-point-nature-v2",
+      "descriptionAdvanced": "Cape Point in Bakau ist der markanteste geografische Punkt an der gambischen Atlantikküste, wo der mächtige Gambia-Fluss endgültig im Meer aufgeht. Diese exponierte Halbinsel bietet spektakuläre Ausblicke auf die Brandung und ist durch dramatische Lateritklippen und weite Sandbuchten geprägt. Cape Point ist ein ökologisch sensibler Bereich, der als Barriere für die Hauptstadtregion Banjul dient. Die Gewässer um das Kap sind extrem nährstoffreich und ziehen große Schwärme von Seevögeln und marinen Raubtieren an. Historisch und touristisch ist Cape Point eine der exklusivsten Lagen Gambias, bekannt für seine Ruhe und die harmonische Integration gehobener Architektur in die wilde Küstenlandschaft. Ein Besuch hier ermöglicht ein tiefes Verständnis für die maritim geprägte Geographie des Landes und die ungeheure Kraft der Flussmündung. (Geographie K7 — Kapbildungen und Ästuar-Geomorphologie)",
+      "factsAdvanced": [
+        "Nördlichste Spitze der Kombo-Halbinsel in Bakau.",
+        "Zusammentreffen von Gambia-Fluss und Atlantischem Ozean.",
+        "Bekannt für seine markanten roten Laterit-Meeresklippen.",
+        "Wichtigster Standort für die Beobachtung des marinen Vogelflugs.",
+        "Bevorzugtes Viertel für diplomatische Residenzen und Luxushotels.",
+        "Knotenpunkt für die Erforschung von Strömungsdynamiken.",
+        "Bietet einige der weitläufigsten und ruhigsten Strände der Stadt.",
+        "Symbol für die maritime Grenze und das Tor zum Atlantik."
+      ]
+    },
+    {
+      "id": "brufut-woods-nature-v2",
+      "descriptionAdvanced": "Die Brufut Woods sind ein international renommiertes Paradies für die Vogelbeobachtung und eines der wertvollsten erhaltenen Waldfragmente an der gambischen Küste. Dieses dichte Waldgebiet beherbergt eine erstaunliche Vielfalt an tropischen Vögeln, darunter seltene Turakos, Bartvögel und Falken, die hier einen geschützten Rückzugsort inmitten der urbanen Expansion finden. Die Brufut Woods werden von der lokalen Gemeinschaft vorbildlich geschützt, was sie zu einem Modellprojekt für bürgerschaftliches Engagement im Naturschutz macht. Die Kombination aus uralten Baumriesen, dichten Unterholz und der direkten Nähe zum Ozean schafft ein einzigartiges Mikroklima. Für Naturfreunde sind die Wälder von Brufut ein unverzichtbares Ziel, das tiefgehende Einblicke in die komplexen ökologischen Wechselwirkungen der westafrikanischen Küstenfauna bietet. (Biologie K6 — Waldökosysteme und Ornithologie)",
+      "factsAdvanced": [
+        "Weltweit bekannter Hotspot für die Vogelbeobachtung.",
+        "Modell für gemeindebasierten Schutz bedrohter Waldflächen.",
+        "Beherbergt seltene endemische Vogelarten Westafrikas.",
+        "Wichtiger Korridor für wandernde Arten an der Küste.",
+        "Zentrum für Naturführungen und ornithologische Ausbildung.",
+        "Dient als Reservoir für traditionelle Heilpflanzen und Bäume.",
+        "Symbol für den Widerstand gegen unkontrollierte Waldabholzun.",
+        "Herausragendes Beispiel für die Biodiversität auf kleinstem Raum."
+      ]
+    },
+    {
+      "id": "pirang-forest-nature-v2",
+      "descriptionAdvanced": "Der Pirang Forest ist ein ökologisches Kleinod und eines der wenigen verbliebenen Beispiele für einen echten tropischen Hochwald in Gambia. Dieses geschützte Gebiet im Osten der West Coast Region zeichnet sich durch seine monumentalen Bäume und ein kühleres, feuchtes Waldklima aus, das einen scharfen Kontrast zur umgebenden Savanne bildet. Pirang ist berühmt für seine Populationen von seltenen Affenarten und eine Vogelwelt, die typisch für dichte Urwälder ist. Die biologische Bedeutung dieses Waldes kann nicht hoch genug eingeschätzt werden, da er als genetisches Reservoir für viele bedrohte Pflanzenarten dient. Pirang Forest ist ein Ort der Stille und der wissenschaftlichen Entdeckung, der zeigt, welche enorme ökologische Kraft in den ursprünglichen Wäldern des Senegambia-Raums steckt und warum ihr Schutz für das nationale Naturerbe Gambias von fundamentaler Bedeutung ist. (Biologie K7 — Tropische Waldökologie und Biodiversität)",
+      "factsAdvanced": [
+        "Seltener Überrest eines geschlossenen tropischen Hochwaldes.",
+        "Wichtigster Standort für den Erhalt von Urwaldriesen in Gambia.",
+        "Beherbergt seltene Primaten und spezialisierte Waldvögel.",
+        "Zentrum für botanische Langzeitstudien und Pflanzenschutz.",
+        "Wesentlicher Faktor für das lokale Mikroklima und den Wasserhaushalt.",
+        "Historisch geschütztes Gebiet mit hoher ökologischer Integrität.",
+        "Unverzichtbares Habitat für bedrohte Insekten- und Reptilienarten.",
+        "Symbol für die einstige Bewaldung des westafrikanischen Küstensaums."
+      ]
+    },
+    {
+      "id": "niumi-national-park-nature-v2",
+      "descriptionAdvanced": "Der Niumi National Park an der Nordmündung des Gambia-Flusses ist ein spektakuläres Mosaik aus marinen, küstennahen und terrestrischen Ökosystemen und gehört zu den bedeutendsten Naturschätzen Westafrikas. Er umfasst die Insel Jinack, weite Mangrovensümpfe, Sanddünen und Savannenlandschaften, die fließend in den senegalesischen Delta du Saloum Nationalpark übergehen. Niumi ist ein unverzichtbares RAMSAR-Feuchtgebiet von internationaler Bedeutung, das Tausenden von Zugvögeln Schutz bietet und als Kinderstube für Delfine und Meeresschildkröten dient. Der Park ist ein Symbol für die grenzüberschreitende Zusammenarbeit im Naturschutz und bewahrt das Erbe des historischen Niumi-Königreichs in einer unberührten Naturkulisse. Ein Besuch bietet tiefe Einblicke in die ungeheure ökologische Produktivität von Flussdeltas und die faszinierende Wildnis an der Schnittstelle zwischen Fluss und Ozean. (Biologie K8 — Feuchtgebietsmanagement und grenzüberschreitender Schutz)",
+      "factsAdvanced": [
+        "Umfasst den gambischen Teil des Saloum-Delta-Ökosystems.",
+        "International anerkanntes RAMSAR-Gebiet und Vogelschutz-Hotspot.",
+        "Bedeutender Lebensraum für Afrikanische Manatis und Delfine.",
+        "Zentrum für den Schutz mariner Schildkröten an der Nordküste.",
+        "Einzigartige Verbindung von Mangroven, Dünen und Savanne.",
+        "Wichtiger Standort für den grenzüberschreitenden Ökotourismus.",
+        "Symbol für die Bewahrung vorkolonialer Kulturlandschaften.",
+        "Fokusgebiet für Forschung zum Klimawandel und Meeresspiegel."
+      ]
+    },
+    {
+      "id": "allahein-river-nature-v2",
+      "descriptionAdvanced": "Der Allahein-Fluss bildet die malerische natürliche Grenze zwischen dem südlichsten Zipfel Gambias und dem Senegal. Dieses ruhige und weitgehend unberührte Gewässer mündet bei Kartong in den Atlantik und ist von dichten Mangrovenwäldern und fruchtbaren Schwemmlandebenen gesäumt. Der Allahein ist ein ökologisches Refugium von außergewöhnlicher Stille, das hunderte von Vogelarten, Krokodilen und seltenen Fischen beheimatet. Für die Bewohner von Kartong ist der Fluss die Lebensader, die den Zugang zu Austernbänken und fischreichen Gründen ermöglicht. Der Allahein illustriert auf friedliche Weise, wie ein Fluss als Grenze fungieren kann, während er gleichzeitig Menschen und Ökosysteme über nationale Grenzen hinweg verbindet. Die unberührte Schönheit seiner Mündung macht ihn zu einem der Top-Ziele für Naturliebhaber und Individualreisende in Gambia. (Geographie K6 — Flussmündungen und natürliche Grenzen)",
+      "factsAdvanced": [
+        "Natürliche Grenzlinie zwischen Gambia und Senegal (Casamance).",
+        "Zentrum der nachhaltigen Austernfischerei in Südgambia.",
+        "Bedeutender Lebensraum für seltene Sumpf- und Wasservögel.",
+        "Unberührtes Mangroven-Ökosystem mit hoher Biodiversität.",
+        "Beliebtes Ziel für ruhige Kanutouren und Naturbeobachtung.",
+        "Wichtiger Punkt für den regionalen ökologischen Korridor.",
+        "Symbol für die friedliche Koexistenz in der Grenzregion.",
+        "Fokus für lokale gemeindebasierte Naturschutzprojekte."
+      ]
+    },
+    {
+      "id": "bintang-bolong-nature-v2",
+      "descriptionAdvanced": "Der Bintang Bolong ist der größte und mächtigste Nebenfluss des Gambia-Flusses und ein ökologisches Kraftzentrum, das tief in das Südufer des Landes einschneidet. Dieses gewundene System aus Wasserläufen und dichten, fast undurchdringlichen Mangrovenwäldern ist ein unverzichtbares Habitat für Seekühe (Manatis), Krokodile und eine enorme Vielfalt an Meeresfrüchten. Der Bintang Bolong spielt eine entscheidende Rolle für die Hydrologie der West Coast Region und dient als natürlicher Filter für das gesamte Flusssystem. Die Dörfer entlang seiner Ufer, wie Bwiam und Bintang, sind seit Jahrhunderten eng mit dem Rhythmus des Bolongs verbunden, der ihre Ernährung und ihren Transport sichert. Ein Besuch am Bintang Bolong vermittelt einen Eindruck von der unendlichen Weite und der mystischen Schönheit der gambischen Wasserwege, die das Herz der Nation bilden. (Biologie K7 — Nebenflusssysteme und Mangroven-Produktivität)",
+      "factsAdvanced": [
+        "Größter Nebenfluss des Gambia-Fluss-Systems.",
+        "Hauptlebensraum für die gefährdete westafrikanische Seekuh.",
+        "Zentrum für die handwerkliche Fischerei und Garnelenzucht.",
+        "Enormes Reservoir für CO2 durch dichte Mangrovenbestände.",
+        "Wichtige Wasserstraße für den lokalen Transport im Südgürtel.",
+        "Hotspot für die Beobachtung von seltenen Eisvögeln und Greifvögeln.",
+        "Symbol für die ökologische Vernetzung des gambischen Hinterlandes.",
+        "Bedeutender Standort für den flussnahen Ökotourismus."
+      ]
+    },
+    {
+      "id": "tanbi-wetland-nature-v2",
+      "descriptionAdvanced": "Der Tanbi Wetland Complex ist ein ökologisches Wunderwerk direkt vor den Toren der Hauptstadt Banjul und eines der wertvollsten Feuchtgebiete Westafrikas. Als international anerkannte RAMSAR-Stätte umfasst dieses riesige Gebiet ein Labyrinth aus Mangroven, Wasserläufen und Gezeitenmarschen, die für das Überleben der Hauptstadt von entscheidender Bedeutung sind. Tanbi fungiert als natürlicher Klärfilter, schützt die Insel St. Mary vor Sturmfluten und bietet eine Kinderstube für einen Großteil der Fischbestände Gambias. Das Feuchtgebiet ist zudem das Zentrum der traditionellen Austernernte durch Frauen, was eine einzigartige Verbindung aus ökologischem Schutz und kultureller Praxis darstellt. Tanbi ist ein unverzichtbares Refugium für Zugvögel und ein Beweis dafür, dass moderne Metropolen nur durch den Erhalt ihrer schützenden natürlichen Umgebungen dauerhaft bestehen können. (Biologie K8 — Urbane Feuchtgebiete und Ökosystemdienstleistungen)",
+      "factsAdvanced": [
+        "International bedeutendes RAMSAR-Feuchtgebiet (seit 2007).",
+        "Umfasst über 6.000 Hektar kritischer Mangrovenhabitate.",
+        "Zentraler Schutzwall Banjuls gegen den Anstieg des Meeresspiegels.",
+        "Heimat der berühmten Austernsammlerinnen von Lamin und Ebo Town.",
+        "Bedeutendster Brut- und Rastplatz für Seevögel in Stadtnähe.",
+        "Wichtigstes Reservoir für die marine Biodiversität des Ästuars.",
+        "Zentrum für Forschung zur Kohlenstoffbindung (Blue Carbon).",
+        "Symbol für die ökologische Resilienz der Greater Banjul Area."
+      ]
+    },
+    {
+      "id": "gunjur-beach-nature-v2",
+      "descriptionAdvanced": "Gunjur Beach ist ein Ort von wilder Schönheit und tiefer spiritueller Bedeutung, an dem der Atlantik mit unbändiger Kraft auf die unberührte gambische Küste trifft. Bekannt für seine weiten Sandstrände und die imposanten Dünen, ist dieser Küstenabschnitt ein bedeutendes ökologisches Schutzgebiet für Meeresschildkröten und seltene Küstenvögel. Gunjur Beach beherbergt zudem heilige Stätten der Mandinka, die den Strand zu einem Ort der religiösen Andacht machen. Die Kombination aus einer florierenden handwerklichen Fischereiindustrie und einem engagierten lokalen Naturschutz macht Gunjur zu einem Modell für die nachhaltige Nutzung mariner Ressourcen. Besucher können hier die Rückkehr der Pirogen erleben, während sie gleichzeitig die Stille der heiligen Sanddünen genießen. Gunjur Beach verkörpert die Seele der gambischen Küste – ein Ort der Arbeit, des Glaubens und der unberührten Naturpracht. (Erdkunde K7 — Küstenmorphologie und ethnischer Naturschutz)",
+      "factsAdvanced": [
+        "Einer der längsten und unberührtesten Strände an der Südküste.",
+        "Bedeutendes Zentrum für den Schutz mariner Biodiversität.",
+        "Ort heiliger religiöser Stätten (Kenye-Kenye Jamano).",
+        "Wichtiger Standort für die handwerkliche Fischereilogistik.",
+        "Hotspot für die Beobachtung von Seeadlern und Wanderfalken.",
+        "Vorreiter bei der Bekämpfung der Verschmutzung durch Fischmehlfabriken.",
+        "Symbol für den starken gemeinschaftlichen Umweltschutz.",
+        "Bietet eine hohe Dichte an unberührten Dünen-Ökosystemen."
+      ]
+    },
+    {
+      "id": "elephant-island-nature-v2",
+      "descriptionAdvanced": "Elephant Island ist eine massive, unbewohnte und faszinierend wilde Landmasse inmitten des Gambia-Flusses, etwa 150 Kilometer flussaufwärts vom Atlantik gelegen. Die Insel markiert eine kritische ökologische Übergangszone, in der der Fluss von salzigen Ästuarbedingungen zu reinem Süßwasser wechselt. Sie ist vollständig von dichten, fast undurchdringlichen Mangrovensümpfen und überfluteten Galeriewäldern bedeckt. Obwohl Elefanten in Gambia seit über einem Jahrhundert ausgestorben sind, bleibt die Insel ein gewaltiges Refugium für große Krokodile, Flusspferde und unzählige Wasservögel. Ihre schiere Dichte und der Mangel an festem Boden machen sie zu Fuß völlig unzugänglich, was ihren urzeitlichen Zustand bewahrt hat. Elephant Island ist ein Symbol für die unbezähmbare Kraft des Flusses und ein wertvolles genetisches Reservoir für die Flora und Fauna Zentral-Gambias. (Geographie K7 — Flussübergangszonen und unbewohnte Inseln)",
+      "factsAdvanced": [
+        "Eine der flächenmäßig größten Inseln im Unterlauf des Gambia-Flusses.",
+        "Historisch benannt nach den dort einst lebenden Waldelefanten.",
+        "Umsäumt von massiven Mangrovengürteln und Sumpfland.",
+        "Wichtiger Lebensraum für eine große Population von Flusspferden.",
+        "Unbewohntes Wildnisgebiet mit hoher ökologischer Bedeutung.",
+        "Dient als natürlicher Filter und Schutz vor Versalzung des Flusses.",
+        "Nur per Boot erreichbar und weitgehend unberührt.",
+        "Wichtiger Orientierungspunkt für die Schifffahrt auf dem Unterlauf."
+      ]
+    },
+    {
+      "id": "red-rock-relief-v2",
+      "descriptionAdvanced": "Die Red Rock Formation in der Upper River Region ist ein geologisches Wahrzeichen von außergewöhnlicher markanter Schönheit und eine Seltenheit in der ansonsten flachen gambischen Landschaft. Diese beeindruckenden, rötlich leuchtenden Laterit-Klippen überragen den Gambia-Fluss und bieten einen weiten Panoramablick über das Flusstal und die angrenzende Savanne. Die Farbe resultiert aus dem hohen Eisengehalt des Gesteins, das über Jahrmillionen durch tropische Verwitterung geformt wurde. Historisch dienten diese Anhöhen als natürliche Wachtürme und Rückzugsorte während regionaler Konflikte. Heute ist Red Rock ein beliebtes Ziel für Wanderer und Naturfotografen, die die spektakulären Kontraste zwischen dem tiefblauen Fluss, dem grünen Uferwald und dem feurigen Rot des Felsens suchen. Die Formation ist ein Schlüsselort zum Verständnis der geologischen Geschichte Senegambias. (Geographie K8 — Geomorphologie und Lateritbildung)",
+      "factsAdvanced": [
+        "Markanteste geologische Erhebung in der Upper River Region.",
+        "Besteht aus eisenoxidhaltigem Laterit-Gestein (Rotsediment).",
+        "Bietet den besten Panoramablick über das obere Gambia-Flusstal.",
+        "Historisch als natürlicher Beobachtungspfosten genutzt.",
+        "Einzigartiges Habitat für Klippen brütende Greifvögel.",
+        "Symbol für die erdgeschichtliche Entwicklung Westafrikas.",
+        "Wichtiger Punkt für geologische Feldstudien in der Region.",
+        "Beliebter Rastplatz für Flusskreuzfahrten im Landesinneren."
+      ]
     }
   ]
 }

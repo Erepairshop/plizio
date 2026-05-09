@@ -2,273 +2,268 @@
   "lang": "de",
   "country": "guatemala",
   "files": [
-    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
     "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
-    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
-    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts"
   ],
   "items": [
     {
-      "id": "gt-jacaltenango-cities-v2",
-      "descriptionAdvanced": "Jacaltenango ist eine malerische Stadt im Departement Huehuetenango, die dramatisch an den Hängen der Cuchumatanes-Berge nahe der mexikanischen Grenze thront. Die Region ist die Heimat der Popti' (oder Jakaltek), einer Maya-Ethnie, die ihre Sprache und ihre jahrhundertealten Traditionen lebendig hält. Die Stadt ist nur über gewundene Bergstraßen erreichbar, was zu ihrer relativen Isolation und dem starken Gemeinschaftsgefühl beigetragen hat. Landwirtschaft, insbesondere der Anbau von hervorragendem Hochlandkaffee und Mais, ist die Haupteinnahmequelle. Jedes Jahr wird hier das Patronatsfest zu Ehren der Jungfrau von Licht (Virgen de Candelaria) mit großem Pomp und traditionellen Tänzen gefeiert. Geographie K7 - Abgeschiedene Bergregionen.",
+      "id": "gt-plastic-factory-industry-economic-v2",
+      "descriptionAdvanced": "Die Kunststoffindustrie in Guatemala ist ein vielseitiger und hochproduktiver Sektor, der fast alle anderen Industriezweige des Landes mit essenziellen Komponenten und Verpackungen versorgt. In modernen Werken in der Metropolregion werden Produkte im Spritzguss-, Extrusions- und Blasformverfahren hergestellt. Das Spektrum reicht von Haushaltswaren und Spielzeug bis hin zu komplexen technischen Teilen für die Automobil- und Elektroindustrie. Ein besonders wichtiger Zweig ist die Herstellung von flexiblen Verpackungen für den massiven Lebensmittelexport. Guatemala ist zudem ein regionaler Vorreiter beim Recycling von Kunststoffen; viele Unternehmen betreiben eigene Anlagen zur Wiederaufbereitung von Polyethylen und PET. Die Branche investiert kontinuierlich in Forschung und Entwicklung, um biologisch abbaubare Alternativen und dünnere, aber stabilere Materialien anzubieten. Wirtschaft K8 — Kunststofftechnik und industrielle Zulieferketten.",
       "factsAdvanced": [
-        "Die Stadt liegt auf einer Hochebene in etwa 1.430 Metern über dem Meeresspiegel.",
-        "Ein Großteil der Bevölkerung spricht Popti', eine indigene Maya-Sprache.",
-        "Kaffee aus Jacaltenango erzielt auf dem internationalen Markt Spitzenpreise.",
-        "Der nahegelegene Fluss Río Azul ist eine wichtige Lebensader für die Landwirtschaft.",
-        "Die traditionelle Kleidung der Frauen zeichnet sich durch weiße Blusen und rote Röcke aus.",
-        "Während des Bürgerkriegs flohen viele Einwohner in das benachbarte Mexiko.",
-        "Die Region ist reich an Höhlen und unentdeckten archäologischen Stätten."
+        "Guatemala ist einer der größten Exporteure von Kunststoffprodukten in Zentralamerika.",
+        "Die Kunststoffbranche umfasst über 200 formelle Unternehmen im ganzen Land.",
+        "Recyclingquoten für PET-Flaschen gehören in Guatemala zu den höchsten der Region.",
+        "Der Sektor beliefert intensiv die regionale Agrarindustrie mit Bewässerungsschläuchen.",
+        "Moderne Kunststoffwerke in Guatemala nutzen vollautomatisierte Roboter-Produktionslinien.",
+        "Jährlich findet in Guatemala-Stadt die Fachmesse 'Guatemalaplas' statt.",
+        "Die Industrie arbeitet eng mit Universitäten an neuen Polymer-Verbundwerkstoffen."
       ]
     },
     {
-      "id": "gt-momostenango-cities-v2",
-      "descriptionAdvanced": "Momostenango, im Departement Totonicapán gelegen, ist berühmt für seine rauen, von der Erosion geformten Sandsteinformationen, die als Los Riscos bekannt sind. Die Stadt ist ein wichtiges Zentrum der K'iche'-Maya-Spiritualität und beheimatet zahlreiche Schamanen (Ajq'ijab), die Rituale nach dem heiligen Maya-Kalender (Tzolk'in) durchführen. Neben seiner spirituellen Bedeutung ist Momostenango landesweit als Zentrum der Wollverarbeitung bekannt. Hier werden die charakteristischen guatemaltekischen Wolldecken (Chamarras) hergestellt, die wegen ihrer Qualität und Haltbarkeit geschätzt werden. Die kalten Temperaturen im Hochland machen diese Decken zu einem unverzichtbaren Gut. Geographie K6 - Geologische Formationen.",
+      "id": "gt-dairy-processing-industry-economic-v2",
+      "descriptionAdvanced": "Die Milchverarbeitung ist ein wachsender und stark modernisierter Industriezweig in Guatemala, der eine Brücke zwischen der ländlichen Viehwirtschaft und dem urbanen Konsum schlägt. Während die Primärproduktion im Hochland und an der Südküste stattfindet, konzentriert sich die industrielle Verarbeitung in hochmodernen Molkereien in der Nähe der großen Ballungsräume. Unternehmen wie Dos Pinos oder nationale Produzenten nutzen modernste Verfahren zur Pasteurisierung, Homogenisierung und zur Herstellung von UHT-Milch, die ohne Kühlung haltbar ist. Neben Trinkmilch umfasst das Portfolio eine breite Palette an Käsesorten, Joghurt und Speiseeis. Der Sektor hat in den letzten Jahren massiv in die Qualitätssicherung und die Kaltlogistik investiert, um die strengen internationalen Standards zu erfüllen. Die Milchindustrie spielt eine entscheidende Rolle für die Ernährungssicherheit und die gesundheitliche Entwicklung der Kinder in Guatemala. Wirtschaft K8 — Molkereiwirtschaft und Lebensmitteltechnologie.",
       "factsAdvanced": [
-        "Die Felsformationen Los Riscos wurden durch jahrhundertelange Erosion gebildet.",
-        "Der Name der Stadt bedeutet 'Stadt der Altäre' in der Nahuatl-Sprache.",
-        "Momostenango ist eines der wenigen Gebiete, in denen der 260-tägige Maya-Kalender streng befolgt wird.",
-        "Die lokalen Wolldecken (Chamarras) werden auf großen Webstühlen von Hand gefertigt.",
-        "Die Region profitiert von natürlichen Thermalquellen.",
-        "Das Fest zum Maya-Neujahr (Wajxaqib' B'atz') zieht Hunderte von Pilgern an.",
-        "Die Stadt liegt in einem rauen Berggebiet auf über 2.200 Metern Höhe."
+        "Die Milchproduktion konzentriert sich im Departamento Jutiapa und im kühlen Hochland.",
+        "Moderne Molkereien in Guatemala können täglich hunderttausende Liter Milch verarbeiten.",
+        "Der Sektor fördert kleine Milchbauern durch technische Unterstützung und Abnahmegarantien.",
+        "Guatemala exportiert Milchprodukte und Speiseeis in die Nachbarländer Zentralamerikas.",
+        "UHT-Milch ist aufgrund der klimatischen Bedingungen das am schnellsten wachsende Segment.",
+        "Die Branche investiert in umweltfreundliche Verpackungen und wassersparende Reinigungssysteme.",
+        "Milchprodukte sind ein wichtiger Bestandteil der schulischen Ernährungsprogramme in Guatemala."
       ]
     },
     {
-      "id": "gt-solola-cities-v2",
-      "descriptionAdvanced": "Sololá ist die Hauptstadt des gleichnamigen Departamentos und thront hoch über den Klippen des malerischen Atitlán-Sees. Im Gegensatz zum touristischen Panajachel ist Sololá eine weitgehend authentische, indigene Handelsstadt, die vom Kaqchikel-Maya-Volk bewohnt wird. Die Stadt ist bekannt für ihren farbenfrohen Freitagsmarkt, auf dem Händler aus der gesamten See-Region ihre landwirtschaftlichen Produkte und kunstvollen Textilien anbieten. Besonders bemerkenswert ist die traditionelle Männerkleidung in Sololá, die aus gestreiften Hosen, bestickten Jacken und einem wollenen Überwurf (Rodillera) besteht, und im Alltag selbstverständlich getragen wird. Geographie K7 - Indigene Marktwirtschaft.",
+      "id": "gt-auto-parts-industry-economic-v2",
+      "descriptionAdvanced": "Die Autoteile-Industrie in Guatemala ist eine hochspezialisierte Nischenbranche, die jedoch eine wichtige Rolle im regionalen Aftermarket und zunehmend in der Erstausrüstung spielt. In spezialisierten Werken werden Komponenten wie Bremsbeläge, Batterien, Filter und elektrische Kabelbäume hergestellt. Guatemala profitiert von seiner strategischen Lage und den Freihandelsabkommen, um Autoteile nach Mexiko und in die USA zu exportieren. Besonders stark ist der Sektor in der Runderneuerung von Reifen und der Herstellung von Gummikomponenten, was auf die lange Tradition der Kautschukgewinnung im Land zurückzuführen ist. Die Betriebe nutzen modernste Prüfstände und Fertigungsverfahren, um die hohen Sicherheitsanforderungen der Automobilindustrie zu erfüllen. Der Sektor ist zudem ein wichtiger Partner für den nationalen Transportsektor und sorgt für die Verfügbarkeit erschwinglicher Ersatzteile für den riesigen Lkw- und Buspark des Landes. Wirtschaft K8 — Automobilzulieferindustrie und technische Präzision.",
       "factsAdvanced": [
-        "Sololá bietet einen spektakulären Panoramablick über den gesamten Atitlán-See.",
-        "Das historische Uhrentürmchen (Torre Centroamericana) ist das Wahrzeichen der Stadt.",
-        "Die Stadt wurde 1547 von den Spaniern offiziell als Verwaltungssitz gegründet.",
-        "Der Markt gehört zu den ursprünglichsten und größten indigenen Märkten im Hochland.",
-        "Männer tragen hier fast ausnahmslos ihre traditionelle, handgewebte Tracht.",
-        "Die lokale Verwaltung ist zweigeteilt in ein staatliches und ein indigenes System.",
-        "Das Klima ist aufgrund der Höhenlage (über 2.100 m) kühl und oft neblig."
+        "Guatemala ist ein regionaler Marktführer in der Herstellung von Autobatterien.",
+        "Der Export von elektrischen Komponenten für Fahrzeuge nach Mexiko wächst stetig.",
+        "Die Branche bietet hochqualifizierte Arbeitsplätze für Mechatroniker und Werkzeugmacher.",
+        "Viele Autoteile-Hersteller in Guatemala sind nach internationalen Qualitätsnormen zertifiziert.",
+        "Der Sektor nutzt lokale Rohstoffe wie Kautschuk für die Herstellung von Dichtungen und Reifen.",
+        "Spezialisierte Fachmessen in Guatemala-Stadt vernetzen lokale Produzenten mit globalen Einkäufern.",
+        "Die Industrie investiert in Forschung für leichtere Materialien zur Kraftstoffeinsparung."
       ]
     },
     {
-      "id": "gt-panajachel-cities-v2",
-      "descriptionAdvanced": "Panajachel ist das pulsierende Tor zum weltberühmten Atitlán-See und das mit Abstand wichtigste touristische Zentrum im Departement Sololá. Gelegen an der Nordküste des Sees und umgeben von drei markanten Vulkanen (Atitlán, Tolimán, San Pedro), bietet die Stadt eine atemberaubende Kulisse. Ursprünglich ein ruhiges Maya-Dorf, entwickelte sich 'Pana' in den 1960er Jahren zu einem Mekka für Hippies und Rucksacktouristen und hat sich seitdem stark internationalisiert. Die Calle Santander, die belebte Hauptstraße, ist gesäumt von Restaurants, Hotels und Ständen, die traditionelles Kunsthandwerk aus dem gesamten Hochland anbieten. Tourismus und Handel dominieren das Stadtbild. Geographie K8 - Tourismus und Globalisierung.",
+      "id": "gt-concrete-batching-industry-economic-v2",
+      "descriptionAdvanced": "Die Transportbetonindustrie (Concrete Batching) ist das logistische Rückgrat des modernen guatemaltekischen Bauwesens. Aufgrund der extremen Erdbebengefahr in Guatemala ist massiver Stahlbeton der absolut dominante Baustoff für Hochhäuser, Brücken und Infrastrukturprojekte. In computergesteuerten Dosieranlagen (Plantas Dosificadoras), wie sie von Marktführern wie Mixto Listo betrieben werden, werden Zement, Wasser und Gesteinskörnungen in exakten Verhältnissen gemischt. Die Herausforderung besteht darin, den frischen Beton innerhalb weniger Stunden mit den charakteristischen Mischtrommel-Lkw (Mixers) durch den dichten Verkehr zum Einsatzort zu transportieren. Der Sektor zeichnet sich durch eine sehr hohe technologische Kompetenz bei der Entwicklung von Spezialbetonen (z. B. fließfähiger oder hochfester Beton) aus. Diese Industrie ermöglicht das schnelle und sichere vertikale Wachstum der guatemaltekischen Metropolregion. Wirtschaft K8 — Baustoffindustrie und Logistik.",
       "factsAdvanced": [
-        "Panajachel ist der wichtigste Verkehrsknotenpunkt für Boote auf dem Atitlán-See.",
-        "Die Stadt verdankt ihren Aufstieg dem Tourismus, der hier in den 1960er Jahren begann.",
-        "Der Atitlán-See ist eine wassergefüllte Caldera, die vor 84.000 Jahren entstand.",
-        "Die berühmte Calle Santander ist die bekannteste Einkaufsstraße für Souvenirs in Guatemala.",
-        "Es gibt eine große Gemeinschaft von Expatriates (Auswanderern) aus aller Welt.",
-        "Das ursprüngliche Dorf Panajachel wurde bereits vor der Ankunft der Spanier von den Kaqchikel besiedelt.",
-        "Der Name Panajachel bedeutet 'Ort der Matasanos' (ein lokaler Obstbaum)."
+        "Mixto Listo betreibt das dichteste Netz an Betonmischwerken in ganz Zentralamerika.",
+        "Die Transportbeton-Logistik nutzt Echtzeit-GPS zur Umfahrung von Verkehrsstaus.",
+        "In Guatemala wird spezieller erdbebensicherer Beton mit hoher Elastizität entwickelt.",
+        "Der Sektor ist ein Hauptabnehmer der nationalen Zement- und Zuschlagstoffindustrie.",
+        "Moderne Mischanlagen können hunderte Kubikmeter Beton pro Stunde produzieren.",
+        "Die Branche setzt zunehmend auf automatisierte Qualitätsprüfungen in eigenen Laboren.",
+        "Pumptrucks ermöglichen den Betonverguss in schwindelerregenden Höhen bei Wolkenkratzern."
       ]
     },
     {
-      "id": "gt-santiago-atitlan-cities-v2",
-      "descriptionAdvanced": "Santiago Atitlán ist die größte indigene Gemeinde am Ufer des Atitlán-Sees und das kulturelle Herz der Tz'utujil-Maya. Die Stadt erstreckt sich malerisch in einer Bucht zwischen den Vulkanen Tolimán und San Pedro. Im Gegensatz zu den stark touristisch geprägten Orten am See hat Santiago Atitlán eine tiefe spirituelle Unabhängigkeit bewahrt. Hier wird Maximón (oder San Simón) verehrt, eine synkretistische Gottheit, die Elemente der Maya-Religion mit katholischen Heiligen verbindet und in einem jährlich wechselnden Privathaus residiert. Die Frauen der Stadt sind bekannt für ihren kunstvollen Kopfschmuck (Tocoyal), der an eine fliegende Untertasse erinnert. Geschichte K7 - Synkretismus und Religion.",
+      "id": "gt-tire-retreading-industry-economic-v2",
+      "descriptionAdvanced": "Die Reifenrunderneuerung (Tire Retreading) ist ein ökologisch und ökonomisch bedeutender Industriesektor in Guatemala, der vor allem den massiven Schwerlastverkehr des Landes unterstützt. Aufgrund der rauen topografischen Bedingungen und der hohen Beanspruchung der Reifen auf Gebirgsstraßen ist die Runderneuerung eine kosteneffiziente Alternative zum Neureifenkauf. In spezialisierten Fabriken, die oft Partnerschaften mit globalen Marken wie Bridgestone oder Michelin unterhalten, wird die abgenutzte Lauffläche entfernt und durch eine neue, hochwertige Gummischicht ersetzt. Dieser Prozess spart enorme Mengen an Rohöl und Energie im Vergleich zur Herstellung von Neureifen. Der Sektor ist hochgradig zertifiziert und garantiert Sicherheitsstandards, die denen von Neureifen in nichts nachstehen. Für die guatemaltekische Logistikbranche ist die Reifenrunderneuerung ein unverzichtbares Instrument zur Senkung der Betriebskosten und zur Verbesserung der Umweltbilanz. Wirtschaft K8 — Kreislaufwirtschaft und Transportlogistik.",
       "factsAdvanced": [
-        "Santiago Atitlán ist die Heimat der Maximón-Kultfigur, die weltweit einzigartig ist.",
-        "Die Stadt erlitt während des guatemaltekischen Bürgerkriegs schwere Verluste.",
-        "Die traditionelle Tracht der Frauen umfasst den charakteristischen, bandartigen Tocoyal.",
-        "Die Iglesia Parroquial Santiago Apóstol ist eine der ältesten Kirchen in der Region.",
-        "Die Tz'utujil-Sprache wird hier im Alltag nahezu ausschließlich gesprochen.",
-        "Die Wirtschaft basiert auf Fischerei, Landwirtschaft, Webkunst und Bootstouren.",
-        "Ein tragisches Massaker durch die Armee fand 1990 auf dem Dorfplatz statt."
+        "Die runderneuerten Reifen werden primär bei Lastkraftwagen und Bussen eingesetzt.",
+        "Der Prozess spart bis zu 70 Prozent der Energie im Vergleich zur Neureifenproduktion.",
+        "Guatemala verfügt über einige der modernsten Kaltrunderneuerungs-Anlagen der Region.",
+        "Jeder runderneuerte Reifen spart etwa 50 Liter Rohöl ein.",
+        "Die Branche ist ein wichtiger Akteur im nationalen Abfallmanagement für Altreifen.",
+        "Spezialisierte Runderneuerungszentren befinden sich an den Hauptverkehrsachsen des Landes.",
+        "Strenge Ultraschallprüfungen sichern die Integrität der Karkassen vor der Bearbeitung."
       ]
     },
     {
-      "id": "gt-san-pedro-la-laguna-cities-v2",
-      "descriptionAdvanced": "San Pedro La Laguna liegt idyllisch am Fuß des gleichnamigen Vulkans am Westufer des Atitlán-Sees. Die Stadt hat sich in den letzten Jahrzehnten zu einem Magneten für Rucksacktouristen und Sprachschüler entwickelt und bietet eine Fülle von günstigen Unterkünften, Cafés und Spanischschulen. Trotz dieses modernen Einflusses bleibt San Pedro im Kern eine traditionelle Tz'utujil-Maya-Gemeinde, deren Einwohner stark in den Kaffeeanbau an den fruchtbaren Vulkanhängen eingebunden sind. Die steilen, verwinkelten Gassen der Stadt erstrecken sich vom Seeufer bis hoch in die Hügel und bieten spektakuläre Ausblicke über das tiefblaue Wasser. Geographie K8 - Ökotourismus.",
+      "id": "gt-glass-factory-industry-economic-v2",
+      "descriptionAdvanced": "Die guatemaltekische Glasindustrie ist ein technologisches Glanzstück und wird fast monopolartig von der Grupo VICAL (Vidriera Centroamericana) dominiert. In den gewaltigen Schmelzöfen in der Nähe von Guatemala-Stadt wird bei Temperaturen von über 1.500 Grad Celsius aus Sand, Soda und Kalk hochwertiges Glas für Behälter und Flaschen hergestellt. Der Sektor ist ein unverzichtbarer Partner für die nationale Getränke- und Lebensmittelindustrie. Ein besonderes Merkmal der Branche in Guatemala ist das weltweit vorbildliche Glasrecycling-System: Ein Großteil der Produktion basiert auf Scherben (Cullet), die über ein dichtes Sammelsystem im ganzen Land zurückgeführt werden. Neben Behälterglas produziert die Industrie auch Spezialglas für den Bausektor und Haushaltswaren. Die Fabriken sind hochautomatisiert und nutzen modernste Inspektionstechnologien, um fehlerfreie Produkte für den Export in die gesamte Karibik und Zentralamerika sicherzustellen. Wirtschaft K8 — Glasherstellung und nachhaltige Verpackungssysteme.",
       "factsAdvanced": [
-        "San Pedro La Laguna ist berühmt für seine hohe Dichte an Spanisch-Sprachschulen.",
-        "Der Vulkan San Pedro (3.020 m) dominiert das Landschaftsbild und ist ein beliebtes Wanderziel.",
-        "Die Bevölkerung besteht mehrheitlich aus Tz'utujil sprechenden Maya.",
-        "Kaffee von den Hängen des Vulkans San Pedro gilt als besonders aromatisch.",
-        "Das Seeufer ist gesäumt von Thermalbädern und kleinen Docks für Wassertaxis.",
-        "Die Stadt hat strikte Regeln gegen den Gebrauch von Einwegplastik eingeführt.",
-        "Tuk-Tuks sind das Hauptverkehrsmittel in den engen, steilen Gassen der Stadt."
+        "VICAL ist der größte Glasproduzent in Zentralamerika mit Sitz in Guatemala.",
+        "Die Glasindustrie in Guatemala erreicht Recyclingquoten, die weit über dem regionalen Durchschnitt liegen.",
+        "Über 50 Prozent des in den Öfen verwendeten Rohmaterials besteht aus recyceltem Altglas.",
+        "Die Fabriken produzieren Millionen von Flaschen pro Tag für den Exportmarkt.",
+        "Das Unternehmen betreibt ein eigenes Bildungszentrum für Glastechnik.",
+        "Glasbehälter aus Guatemala werden bis nach Nordamerika und Europa verschifft.",
+        "Die Branche investiert massiv in energieeffiziente Schmelztechnologien zur CO2-Reduktion."
       ]
     },
     {
-      "id": "gt-cuilapa-cities-v2",
-      "descriptionAdvanced": "Cuilapa ist die dynamische Hauptstadt des Departamentos Santa Rosa im Süden Guatemalas. Aufgrund ihrer strategischen Lage genau im Zentrum des amerikanischen Kontinents wird die Stadt oft als 'El Centro de las Américas' bezeichnet. Cuilapa liegt in einem tektonisch sehr aktiven Gebiet, das von zahlreichen geologischen Verwerfungen durchzogen ist, was die Stadt anfällig für Erdbeben macht. Wirtschaftlich stützt sich die Region auf den Anbau von hochwertigem Kaffee und Zuckerrohr sowie auf die Viehzucht. Cuilapa ist eine mestizische (ladinische) Stadt, die als wichtiges landwirtschaftliches Versorgungs- und Verwaltungszentrum für die umliegende Region fungiert. Geographie K7 - Tektonik und Landwirtschaft.",
+      "id": "gt-warehouse-logistics-port-economic-v2",
+      "descriptionAdvanced": "Lagerlogistik und Warenmanagement bilden das Rückgrat des guatemaltekischen Außenhandels und konzentrieren sich massiv in modernen Logistikparks entlang der Autobahn CA-9 Süd (Autopista al Pacífico). In diesen gigantischen 'Centros de Distribución' werden Waren aus den Seehäfen sortiert, gelagert und für den Einzelhandel kommissioniert. Supermarktketten wie Walmart und große Importeure betreiben hier Anlagen mit einer Fläche von zehntausenden Quadratmetern. Die strategische Lage zwischen dem Haupthafen Puerto Quetzal und dem Konsumzentrum Guatemala-Stadt ist der Schlüssel für die Effizienz der nationalen Versorgungsketten. Moderne Logistik-Software (WMS) und automatisierte Regalsysteme sichern einen schnellen Warenumschlag. Der Sektor ist ein bedeutender Arbeitgeber in den Randzonen der Hauptstadt und treibt die Professionalisierung des Transportwesens voran. Die Entwicklung dieser Logistik-Hubs hat die ehemals agrarisch geprägten Gebiete um Amatitlán und Palín grundlegend in industrielle Zonen transformiert. Wirtschaft K8 — Logistikzentren und Warenströme.",
       "factsAdvanced": [
-        "Cuilapa liegt exakt in der geographischen Mitte des gesamten amerikanischen Kontinents.",
-        "Die Stadt wurde durch ein verheerendes Erdbeben im Jahr 1913 fast vollständig zerstört.",
-        "Santa Rosa ist eines der wichtigsten kaffeeproduzierenden Departements in Guatemala.",
-        "Der nahegelegene Fluss Río Los Esclavos ist bekannt für Rafting und die koloniale Brücke.",
-        "Cuilapa wurde in präkolumbianischer Zeit vom Volk der Xinca bewohnt.",
-        "Die historische Los-Esclavos-Brücke wurde bereits 1592 erbaut.",
-        "Die Wirtschaft der Stadt basiert hauptsächlich auf Agroindustrie und Handel."
+        "Der Logistikkorridor am Pazifik ist das wichtigste Handelszentrum Zentralamerikas.",
+        "Moderne Hochregallager in Guatemala erreichen Höhen von bis zu 30 Metern.",
+        "In den Logistikparks befinden sich oft eigene Zollfreizonen zur schnelleren Abwicklung.",
+        "Kühlhaus-Logistik ist ein spezialisiertes Wachstumsfeld für den Export von Beeren und Gemüse.",
+        "Der Sektor beschäftigt tausende Menschen in der Kommissionierung und dem Lkw-Management.",
+        "Sicherheit hat oberste Priorität: Die Parks sind oft wie Festungen bewacht.",
+        "Nachhaltige Logistikkonzepte, wie Photovoltaik auf den Hallendächern, werden zunehmend Standard."
       ]
     },
     {
-      "id": "gt-san-cristobal-verapaz-cities-v2",
-      "descriptionAdvanced": "San Cristóbal Verapaz liegt in den feuchten, nebelverhangenen Bergen des Departements Alta Verapaz, in der Nähe des beeindruckenden Chichoj-Sees. Die Stadt ist tief in der Poqomchi'-Maya-Kultur verwurzelt und zeichnet sich durch ein kühles, regenerisches Klima aus, das ideal für den Anbau von Kaffee, Kardamom und Orchideen ist. Die Region war im 19. Jahrhundert stark von deutschen Einwanderern geprägt, die den Kaffeeanbau in der Verapaz-Region revolutionierten. San Cristóbal ist heute ein ruhiges, traditionelles Zentrum, dessen Wirtschaft von Landwirtschaft und handwerklicher Textilproduktion getragen wird. Die unberührte Natur um den See ist ein Anziehungspunkt für Ökotouristen. Geographie K6 - Kaffeeanbau und Migration.",
+      "id": "gumarcaaj-ruins-history-v2",
+      "descriptionAdvanced": "Gumarcaaj, auch bekannt unter dem Nahuatl-Namen Utatlán, war die stolze und mächtige Hauptstadt des K'iche'-Maya-Reiches unmittelbar vor der spanischen Eroberung. Auf einem strategisch günstig gelegenen Plateau im heutigen Departement Quiché gelegen, war die Stadt von tiefen Schluchten umgeben, was sie fast uneinnehmbar machte. Zur Zeit ihrer Blüte war Gumarcaaj ein hochkomplexes urbanes Zentrum mit Palästen, Tempeln und Ballspielplätzen, die mit farbenfrohen Stuckarbeiten verziert waren. Hier residierte die K'iche'-Elite, die über weite Teile des guatemaltekischen Hochlands herrschte. Die Stadt wurde 1524 von Pedro de Alvarado und seinen Verbündeten belagert und schließlich zerstört, wobei die Herrscher lebendig verbrannt wurden. Heute zeugen die Ruinen, insbesondere der Tempel des Tohil, von der einstigen Pracht und sind für die heutige K'iche'-Bevölkerung ein heiliger Ort für zeremonielle Rituale. Geschichte K7 — Das K'iche'-Reich und die spanische Eroberung.",
       "factsAdvanced": [
-        "Die Stadt liegt eingebettet in ein Tal neben der Lagune Chichoj.",
-        "Die überwiegende Mehrheit der Bevölkerung gehört der indigenen Gruppe der Poqomchi' an.",
-        "Der Einfluss deutscher Kaffeepflanzer ist in Architektur und Traditionen noch spürbar.",
-        "Ein gewaltiger Erdrutsch verschüttete im Jahr 2009 große Teile der Region.",
-        "Die Kirche San Cristóbal ist das wichtigste religiöse Gebäude der Gemeinde.",
-        "Kardamom aus der Verapaz-Region ist eines der wichtigsten Exportgüter Guatemalas.",
-        "Die Stadt feiert jedes Jahr im Juli ein prächtiges Patronatsfest."
+        "Gumarcaaj war eine der am besten befestigten Maya-Hauptstädte der Postklassik.",
+        "Die Ruinenstätte liegt nur wenige Kilometer von der modernen Stadt Santa Cruz del Quiché entfernt.",
+        "Der Name bedeutet in der K'iche'-Sprache 'Ort des alten Schilfs'.",
+        "Die Stadt besaß vier große Adelsviertel, die den mächtigsten Clans der K'iche' gehörten.",
+        "Die Spanier nutzten die Steine der Stadt, um die ersten Kolonialgebäude der Region zu errichten.",
+        "Innerhalb der Ruinen befinden sich künstliche Höhlen, die noch heute für Maya-Zeremonien genutzt werden.",
+        "Gumarcaaj ist ein nationales Denkmal und ein wichtiges Symbol für den indigenen Widerstand."
       ]
     },
     {
-      "id": "gt-esquipulas-cities-v2",
-      "descriptionAdvanced": "Esquipulas, im östlichen Departamento Chiquimula gelegen, ist die spirituelle Hauptstadt Zentralamerikas und einer der bedeutendsten katholischen Wallfahrtsorte des Kontinents. Die monumentale weiße Basilika beherbergt den 'Schwarzen Christus' (Cristo Negro), eine aus dunklem Holz geschnitzte Christusfigur aus dem Jahr 1594, der zahlreiche Wunder zugeschrieben werden. Jährlich pilgern über eine Million Menschen aus ganz Lateinamerika in die Stadt, insbesondere im Januar. Neben dem religiösen Tourismus profitierte Esquipulas auch von seiner strategischen Lage nahe der Grenze zu Honduras und El Salvador, was sie zu einem florierenden Zentrum für grenzüberschreitenden Handel macht. Geschichte K8 - Religiöser Tourismus.",
+      "id": "batalla-de-quetzaltenango-history-v2",
+      "descriptionAdvanced": "Die Schlacht von Quetzaltenango im Februar 1524 war einer der entscheidenden und blutigsten Momente bei der spanischen Eroberung Guatemalas. In den Ebenen von El Pinar, nahe der heutigen Stadt Quetzaltenango (Xela), trafen die spanischen Truppen unter Pedro de Alvarado auf ein massives Heer der K'iche'-Maya. Die Überlegenheit der spanischen Kavallerie und der Einsatz von Feuerwaffen erwiesen sich in dem offenen Gelände als verheerend für die indigenen Verteidiger. Legenden besagen, dass in dieser Schlacht der große K'iche'-Held Tecún Umán im Zweikampf mit Alvarado fiel, was den moralischen Zusammenbruch des indigenen Heeres einleitete. Der Sieg der Spanier öffnete ihnen den Weg zur Eroberung der Hauptstadt Gumarcaaj und markierte den Beginn der kolonialen Herrschaft über das Hochland. Dieser Ort bleibt ein tief verwurzeltes Symbol für den heldenhaften, wenn auch tragischen Widerstand der Maya-Völker gegen die europäische Invasion. Geschichte K8 — Konflikte der Eroberungszeit und indigener Widerstand.",
       "factsAdvanced": [
-        "Die Basilika von Esquipulas wurde 1759 fertiggestellt und ist ein Meisterwerk des Barock.",
-        "Der Schwarze Christus (Cristo Negro) wurde vom Bildhauer Quirio Cataño geschnitzt.",
-        "Papst Johannes Paul II. besuchte die Basilika im Jahr 1996.",
-        "In Esquipulas wurden 1986 und 1987 wichtige Friedensabkommen für Zentralamerika unterzeichnet.",
-        "Die Stadt liegt im Trifinio-Dreieck, an dem Guatemala, Honduras und El Salvador zusammentreffen.",
-        "Der Pilgertourismus treibt eine gewaltige Industrie aus Hotels und Souvenirgeschäften an.",
-        "Der Legende nach färbte sich die Holzfigur durch den Rauch jahrhundertelang brennender Kerzen schwarz."
+        "Die Schlacht fand in den Tälern rund um den Fluss Olintepeque statt.",
+        "Der Fluss Olintepeque wird lokal oft 'Xequijel' (Fluss des Blutes) genannt, in Erinnerung an das Gemetzel.",
+        "Pedro de Alvarado führte eine Allianz aus Spaniern und tausenden mexikanischen Hilfstruppen an.",
+        "Die K'iche' hatten schätzungsweise zehntausende Krieger zur Verteidigung ihres Territoriums mobilisiert.",
+        "Tecún Umán wurde später zum offiziellen Nationalhelden Guatemalas erklärt.",
+        "Nach der Schlacht errichteten die Spanier ihre erste Basis in der Region in der Nähe von Salcajá.",
+        "Historiker betrachten diesen Sieg als den strategischen Wendepunkt bei der Unterwerfung der Maya-Staaten."
       ]
     },
     {
-      "id": "gt-san-benito-cities-v2",
-      "descriptionAdvanced": "San Benito ist die größte Stadt im Ballungsraum am Petén-Itzá-See und bildet zusammen mit der Insel Flores und Santa Elena das urbane Zentrum des Departements Petén. Während Flores das historische und touristische Aushängeschild ist, fungiert San Benito als der wirtschaftliche, kommerzielle und infrastrukturelle Motor der Region. Die Stadt zeichnet sich durch einen der geschäftigsten Märkte in Nordguatemala aus, auf dem Güter für den gesamten Regenwald und die angrenzenden Gebiete umgeschlagen werden. Die rasante Expansion der Stadt in den letzten Jahrzehnten spiegelt die zunehmende Erschließung der Region Petén für Landwirtschaft und Handel wider. Geographie K7 - Regionale Zentren.",
+      "id": "ceibal-ruins-history-v2",
+      "descriptionAdvanced": "Ceibal, gelegen an den Ufern des Río La Pasión im Departement Petén, ist eine der faszinierendsten archäologischen Stätten der Maya-Welt, da sie einen einzigartigen Einblick in die Endphase der klassischen Periode bietet. Während viele andere Maya-Städte im 9. Jahrhundert kollabierten, erlebte Ceibal eine unerwartete kulturelle Blütezeit. Die Ruinen sind berühmt für ihre außergewöhnlich gut erhaltenen Stelen aus hartem Kalkstein, die einen deutlichen fremden Einfluss zeigen – vermutlich von Maya-Gruppen aus dem mexikanischen Hochland oder der Golfküste. Die Kunst von Ceibal bricht mit den traditionellen klassischen Motiven und zeigt Krieger mit langen Haaren und fremdartigem Schmuck. Gelegen auf einer Anhöhe über dem Fluss, war Ceibal ein strategischer Kontrollpunkt für den Handel auf dem Río La Pasión. Der dichte Dschungel, der die Ruinen heute umgibt, verleiht dem Ort eine mystische Atmosphäre und macht ihn zu einem Geheimtipp für Maya-Forscher. Geschichte K8 — Der späte Klassikkollaps und kulturelle Transformation.",
       "factsAdvanced": [
-        "San Benito grenzt direkt an Santa Elena und bildet eine zusammenhängende urbane Zone.",
-        "Die Stadt ist das logistische Zentrum für Expeditionen in den nördlichen Dschungel.",
-        "Der zentrale Markt von San Benito ist der größte im gesamten Petén.",
-        "Die Stadt wuchs rapide durch Migration aus anderen Landesteilen in den 1970er und 80er Jahren.",
-        "Die Wirtschaft stützt sich auf Handel, Viehzucht und Dienstleistungen für die Landwirtschaft.",
-        "Das Krankenhaus von San Benito ist das größte medizinische Zentrum der Region.",
-        "Die Stadt verfügt über keine koloniale Architektur, da sie eine moderne Siedlung ist."
+        "Ceibal verfügt über eine der schönsten Sammlungen von Monumentalskulpturen der Spätklassik.",
+        "Die Stätte wurde bereits um 800 v. Chr. besiedelt und blieb über 1.500 Jahre bewohnt.",
+        "Die Stelen von Ceibal zeichnen sich durch ihre ungewöhnlich detaillierten Porträts aus.",
+        "Der Name 'Ceibal' leitet sich von den vielen Ceiba-Bäumen ab, die das Gelände säumen.",
+        "Die Stadt wurde im 20. Jahrhundert durch groß angelegte Ausgrabungen der Harvard University erforscht.",
+        "Ceibal war ein wichtiges religiöses Zentrum, das Anhänger aus der gesamten Petexbatún-Region anzog.",
+        "Der Zugang zu den Ruinen erfolgt oft abenteuerlich mit dem Boot über den Río La Pasión."
       ]
     },
     {
-      "id": "gt-santo-tomas-de-castilla-cities-v2",
-      "descriptionAdvanced": "Santo Tomás de Castilla, an der Amatique-Bucht gelegen, ist der modernste und wichtigste Karibikhafen Guatemalas. In der Nähe von Puerto Barrios gelegen, wickelt dieser Tiefwasserhafen den Großteil der guatemaltekischen Importe und Exporte nach Übersee ab. Die Hafenanlage wurde in den 1970er Jahren massiv ausgebaut, um den steigenden Containerschiffsverkehr bewältigen zu können. In den letzten Jahren hat sich Santo Tomás auch zu einem Anlaufpunkt für internationale Kreuzfahrtschiffe entwickelt, deren Passagiere von hier aus Ausflüge zu den Maya-Ruinen von Quiriguá oder der Rio Dulce Region unternehmen. Die lokale Kultur ist stark afro-karibisch geprägt. Wirtschaft K8 - Maritime Logistik.",
+      "id": "dos-pilas-ruins-history-v2",
+      "descriptionAdvanced": "Dos Pilas, verborgen im dichten Regenwald des Petexbatún-Beckens, erzählt eine dramatische Geschichte von imperialem Ehrgeiz und dem totalen Krieg der klassischen Maya. Die Stadt wurde im 7. Jahrhundert von einem abtrünnigen Prinzen aus der Supermacht Tikal gegründet, was eine jahrzehntelante, blutige Fehde zwischen den beiden Städten auslöste. Dos Pilas stieg schnell zu einer regionalen Militärmacht auf, indem es sich mit Tikals Erzfeind Calakmul verbündete. Die archäologischen Funde, insbesondere die berühmten Hieroglyphentreppen, dokumentieren akribisch die Siege, Gefangennahmen und die schließlich katastrophale Niederlage der Stadt. In ihren letzten Tagen verwandelten die verzweifelten Bewohner ihre prächtigen Paläste in hastig errichtete Festungen, indem sie Verteidigungsmauern quer über die zeremoniellen Plätze bauten. Dieser abrupte Untergang macht Dos Pilas zu einem der eindrucksvollsten Zeugnisse für die politische Instabilität, die zum Zusammenbruch der klassischen Maya-Zivilisation führte. Geschichte K7 — Maya-Kriegsführung und dynastische Konflikte.",
       "factsAdvanced": [
-        "Der Hafen wurde in den 1970er Jahren erbaut und ist heute der größte Atlantikhafen des Landes.",
-        "Ursprünglich war der Ort im 19. Jahrhundert eine gescheiterte belgische Kolonie.",
-        "Santo Tomás de Castilla ist administrativ Teil der Gemeinde Puerto Barrios.",
-        "Der Seehafen verfügt über spezielle Terminals für Container, Schüttgut und Kreuzfahrtschiffe.",
-        "Die Ruinen von Quiriguá sind eines der wichtigsten Ausflugsziele für Kreuzfahrttouristen.",
-        "Eine Marinebasis der guatemaltekischen Streitkräfte befindet sich ebenfalls hier.",
-        "Das tropische Küstenklima sorgt für hohe Temperaturen und erhebliche Luftfeuchtigkeit."
+        "Die Hieroglyphentreppe von Dos Pilas berichtet vom Schicksal des Herrschers B'alaj Chan K'awiil.",
+        "Die Stadt wurde strategisch in der Nähe von unterirdischen Quellen (Aguadas) errichtet.",
+        "Dos Pilas ist das Zentrum des sogenannten 'Petexbatún-Staates'.",
+        "Archäologen fanden hier die ersten direkten Beweise für Verteidigungsanlagen aus der Maya-Zeit.",
+        "Die Flucht der herrschenden Elite führte zur Gründung der nahegelegenen Festungsstadt Aguateca.",
+        "Die Stätte liegt in einem heute geschützten Gebiet, das nur schwer zu Fuß oder per Boot erreichbar ist.",
+        "Die Monumente von Dos Pilas weisen eine hohe handwerkliche Qualität bei den Steinmetzarbeiten auf."
       ]
     },
     {
-      "id": "gt-la-gomera-cities-v2",
-      "descriptionAdvanced": "La Gomera, im Département Escuintla nahe der Pazifikküste gelegen, ist eine prosperierende und heiß-feuchte Stadt, deren Wirtschaft vollständig auf die Agroindustrie ausgerichtet ist. Die Landschaft um La Gomera wird von schier endlosen Zuckerrohrplantagen, Bananenfarmen und Viehweiden dominiert. In der Gemeinde befinden sich mehrere der wichtigsten und leistungsfähigsten Zuckerfabriken Guatemalas. Trotz ihres ländlichen Charakters verfügt die Stadt über eine rege kommerzielle Aktivität, die durch die vielen Wanderarbeiter in der Erntesaison stark angekurbelt wird. Kulturell ist La Gomera stark ladinisch geprägt und typisch für das Leben an der Südküste des Landes. Sachkunde K5 - Zuckerrohrindustrie.",
+      "id": "convento-de-santo-domingo-history-v2",
+      "descriptionAdvanced": "Das Kloster Santo Domingo in Antigua Guatemala war einst eines der prächtigsten und einflussreichsten religiösen Zentren der spanischen Kolonialzeit in ganz Mittelamerika. Gegründet von den Dominikanern im 16. Jahrhundert, umfasste der massive Komplex eine riesige Kirche, Kreuzgänge, Bibliotheken und eine der ersten Universitäten der Region. Das verheerende Erdbeben von 1773 legte die prächtigen Strukturen in Trümmer, doch die monumentalen Überreste lassen noch heute die einstige Größe erahnen. In den letzten Jahrzehnten wurden die Ruinen geschickt restauriert und in ein weltweit einzigartiges Hotel-Museums-Konzept (Casa Santo Domingo) integriert. Besucher können heute zwischen den alten Mauern wandeln und zahlreiche Museen besichtigen, die Sakralkunst, präkolumbische Archäologie und koloniale Pharmazie zeigen. Das Kloster ist ein lebendiges Denkmal dafür, wie historische Ruinen bewahrt und für die moderne Welt zugänglich gemacht werden können. Architektur K8 — Koloniale Ordensarchitektur und Denkmalpflege.",
       "factsAdvanced": [
-        "La Gomera liegt im Herzen der guatemaltekischen Zuckerrohr-Gürtels.",
-        "Während der 'Zafra' (Erntezeit) verdoppelt sich fast die Bevölkerung durch Erntehelfer.",
-        "Zahlreiche Flüsse der Vulkanhänge bewässern die ausgedehnten Plantagen der Region.",
-        "Die Stadt erlebte in den letzten Jahrzehnten ein enormes Bevölkerungswachstum.",
-        "Das feucht-heiße Pazifikklima ist die Grundlage für die landwirtschaftlichen Erträge.",
-        "Nahegelegene Strände am Pazifik wie Sipacate sind beliebte Ausflugsziele.",
-        "Neben Zuckerrohr ist die Viehzucht ein weiterer wichtiger Wirtschaftszweig."
+        "Santo Domingo beherbergte das Grab von Pater Bartolomé de las Casas, dem 'Schutzherrn der Indianer'.",
+        "Das Kloster war berühmt für sein unterirdisches System von Krypten und Katakomben.",
+        "Nach dem Erdbeben von 1773 wurde ein Großteil der Kunstschätze nach Guatemala-Stadt überführt.",
+        "Die Anlage umfasst heute mehrere Museen, darunter ein bedeutendes Museum für koloniale Glaskunst.",
+        "Die Krypta des Klosters ist eine der am besten erhaltenen ihrer Art in Antigua.",
+        "In den Ruinen befindet sich eine traditionelle Keramikwerkstatt, die koloniale Techniken pflegt.",
+        "Santo Domingo ist heute einer der exklusivsten Orte für kulturelle Veranstaltungen in Guatemala."
       ]
     },
     {
-      "id": "gt-patzun-cities-v2",
-      "descriptionAdvanced": "Patzún ist eine malerische Stadt im Departement Chimaltenango, eingebettet in eine sanfte Hügellandschaft des Hochlandes. Die Bevölkerung besteht zu fast 100 Prozent aus indigenen Kaqchikel-Maya, was der Stadt eine einzigartige, traditionelle Atmosphäre verleiht. Patzún ist berühmt für die kunstvollen Huipiles (Blusen) seiner Frauen, die in feiner Handarbeit gewebt und tiefrot gefärbt sind. Kulturell feiert die Stadt jedes Jahr im Juni das spektakuläre Fronleichnamsfest (Corpus Christi), bei dem die Straßen mit riesigen, kunstvollen Teppichen aus gefärbtem Sägemehl (Alfombras) und Blumen geschmückt werden. Wirtschaftlich dominiert der Gemüseanbau. Geschichte K7 - Religiöse Traditionen.",
+      "id": "el-baul-stelae-history-v2",
+      "descriptionAdvanced": "Die Stelen von El Baúl, gelegen in der Nähe von Santa Lucía Cotzumalguapa an der Pazifikküste, gehören zu den rätselhaftesten Monumenten der guatemaltekischen Archäologie. Sie repräsentieren den sogenannten 'Cotzumalguapa-Stil', der sich stark von der klassischen Maya-Kunst des Petén unterscheidet. Die Reliefs zeigen kraftvolle, oft gewalttätige Szenen mit Opferritualen, Ballspielern und bärtigen Gottheiten, die auf einen starken kulturellen Austausch mit den Völkern des mexikanischen Hochlands hindeuten. Eine der Stelen von El Baúl trägt eines der ältesten Kalenderdaten in der Langen Zählung, was die Bedeutung der Pazifikküste für die Entwicklung der mesoamerikanischen Schrift und Zeitrechnung unterstreicht. Die Monumente befinden sich oft noch in ihrer ursprünglichen Umgebung auf privaten Fincas, umgeben von Zuckerrohrfeldern, was ihnen eine ganz besondere, fast unentdeckte Ausstrahlung verleiht. Für Historiker ist El Baúl ein Schlüssellort zum Verständnis der präklassischen Wurzeln der Region. Geschichte K8 — Cotzumalguapa-Kultur und früher kultureller Austausch.",
       "factsAdvanced": [
-        "Die Alfombras (Sägemehlteppiche) von Patzún zu Fronleichnam sind landesweit berühmt.",
-        "Die Stadt ist eine Hochburg der indigenen Sprache Kaqchikel.",
-        "Der Name Patzún bedeutet 'Ort der Sonnenblumen'.",
-        "Die Kirche San Bernardino im Stadtzentrum stammt noch aus der Kolonialzeit (1540er Jahre).",
-        "Auf den terrassierten Feldern der Umgebung werden Kohl, Karotten und Mais angebaut.",
-        "Frauen aus Patzún sind für ihr exquisites Können im Weben roter Textilien bekannt.",
-        "Die Gemeinde liegt auf einer kühlen Hochebene von über 2.200 Metern."
+        "Stele 1 von El Baúl zeigt ein Datum aus dem Jahr 37 n. Chr., eines der frühesten in Amerika.",
+        "Der Cotzumalguapa-Stil zeichnet sich durch realistische Darstellungen und mexikanische Einflüsse aus.",
+        "Viele der Monumente zeigen Szenen des rituellen Ballspiels und enthauptete Krieger.",
+        "El Baúl war Teil einer riesigen prähistorischen Metropole an der pazifischen Küstenebene.",
+        "In der Nähe befindet sich ein Obsidian-Vorkommen, das die wirtschaftliche Macht der Stadt begründete.",
+        "Einige der Stelen werden von der heutigen lokalen Bevölkerung noch immer rituell verehrt.",
+        "Die Stätte ist nach wie vor Gegenstand intensiver archäologischer Forschung zur Herkunft ihrer Bewohner."
       ]
     },
     {
-      "id": "gt-nahuala-cities-v2",
-      "descriptionAdvanced": "Nahualá ist eine stark traditionell geprägte K'iche'-Maya-Stadt im westlichen Departement Sololá. Berühmt für ihre Abgeschiedenheit und den beharrlichen Schutz ihrer indigenen Identität, verweigerte die Stadt lange Zeit den Verkauf von Land an Nicht-Indigene (Ladinos). Die Region liegt hoch in den Bergen, oft in dichtem Nebel gehüllt, was das kühle Klima unterstreicht. Wirtschaftlich ist Nahualá für seine herausragende Möbelherstellung und seine Holzschnitzereien bekannt, die landesweit vertrieben werden. Die traditionelle Kleidung der Frauen, mit charakteristischen dunkelblauen und roten geometrischen Mustern, ist bis heute im städtischen Alltag präsent. Geographie K7 - Indigene Autonomie.",
+      "id": "sitio-arqueologico-la-blanca-history-v2",
+      "descriptionAdvanced": "La Blanca, gelegen im Departement Petén nahe der Grenze zu Belize, ist eine bedeutende Maya-Stätte der klassischen Periode, die vor allem durch ihre außergewöhnliche monumentale Architektur und die gut erhaltenen Stuckfassaden besticht. Die Stadt war kein politisches Schwergewicht wie Tikal, aber ein wichtiges administratives und rituelles Zentrum im Mopan-Tal. Besonders beeindruckend ist die Akropolis, deren massive Palaststrukturen zeigen, wie die Maya-Elite in relativer Autonomie lebte. La Blanca ist berühmt für seine 'Graffiti' an den Innenwänden der Gebäude, die Szenen aus dem täglichen Leben und religiöse Symbole darstellen und einen intimen Einblick in die Gedankenwelt der Bewohner bieten. In den letzten Jahren wurde die Stätte durch ein binationales Forschungsprojekt mit spanischer Beteiligung intensiv untersucht, wobei der Fokus auf der Erhaltung der empfindlichen Mauerwerke liegt. La Blanca bietet eine ruhige Alternative zu den überlaufenen Touristenpfaden und zeigt die architektonische Meisterschaft der Maya in der Peripherie. Geschichte K8 — Maya-Paläste und regionales Ressourcenmanagement.",
       "factsAdvanced": [
-        "Nahualá liegt an der Interamericana-Autobahn in einer extrem steilen Gebirgszone.",
-        "Die Stadt ist eines der wenigen Zentren, in denen auch Männer traditionelle Tracht (Rodillera) tragen.",
-        "Holzverarbeitung und der Bau robuster Kiefernmöbel sind der wichtigste Industriezweig.",
-        "Die Bevölkerung verwaltet sich größtenteils autonom durch indigene Räte.",
-        "Es gibt historische Grenzkonflikte mit der Nachbargemeinde Santa Catarina Ixtahuacán.",
-        "Die kalten, nebligen Berge bieten perfekte Bedingungen für die Forstwirtschaft.",
-        "Fast 98 Prozent der Bevölkerung spricht K'iche' als Muttersprache."
+        "Die Akropolis von La Blanca beherbergt einen der am besten erhaltenen Palastkomplexe der Region.",
+        "Die Stätte ist bekannt für ihre zahlreichen antiken Graffiti an den Innenwänden der Zimmer.",
+        "Der Name 'La Blanca' bezieht sich auf die helle Farbe der Kalksteinstrukturen beim Wiederfund.",
+        "Die archäologischen Arbeiten konzentrieren sich stark auf den Erhalt der originalen Stuckarbeiten.",
+        "La Blanca war ein wichtiger Knotenpunkt auf den Handelswegen zwischen dem Hochland und dem Tiefland.",
+        "Die Stadt erlebte ihre Blütezeit zwischen 600 und 850 n. Chr.",
+        "Ein spezielles Besucherzentrum informiert über die soziale Organisation der Bewohner von La Blanca."
       ]
     },
     {
-      "id": "gt-joyabaj-cities-v2",
-      "descriptionAdvanced": "Joyabaj, im Departamento Quiché gelegen, ist eine lebendige Handelsstadt und eines der wichtigsten Zentren für landwirtschaftliche Dienstleistungen in der Region. Die Stadt war historisch ein Knotenpunkt zwischen der nördlichen Dschungelregion und dem zentralen Hochland. Heute ist Joyabaj besonders für seinen spektakulären Sonntagsmarkt und das jährlich im August stattfindende Patronatsfest berühmt. Bei diesem Fest wird der Palo Volador aufgeführt, ein faszinierendes Ritual mesoamerikanischen Ursprungs, bei dem sich Tänzer an Seilen von einem riesigen Holzpfahl in die Tiefe schwingen. Die Wirtschaft stützt sich auf Subsistenzwirtschaft und den Handel mit Textilien. Geschichte K8 - Mesoamerikanische Rituale.",
+      "id": "takalik-abaj-ruins-history-v2",
+      "descriptionAdvanced": "Takalik Abaj, im Departement Retalhuleu an der Pazifikküste gelegen, ist ein archäologischer Ort von Weltrang, da er die Brücke zwischen der Olmeken-Zivilisation und der frühen Maya-Kultur schlägt. Auf einem sanft abfallenden Hang errichtet, zeigt die Stätte eine faszinierende Koexistenz von olmekischen Skulpturen im 'Baby-Face'-Stil und frühen Maya-Monumenten mit Hieroglyphen und Kalenderdaten. Takalik Abaj war ein bedeutendes Handelszentrum, das die wertvollen Ressourcen des Hochlands (wie Obsidian) mit den Produkten der Küste verband. Die Ruinen sind in eine wunderschöne Landschaft aus Kaffeeplantagen integriert, was dem Ort eine einzigartige Atmosphäre verleiht. Die Entdeckung königlicher Gräber mit reichhaltigen Jadegaben hat die Bedeutung der Stätte als Wiege der Maya-Königtümer bestätigt. Im Jahr 2023 wurde Takalik Abaj aufgrund seiner herausragenden Bedeutung für die Menschheitsgeschichte in die Liste des UNESCO-Weltkulturerbes aufgenommen. Geschichte K7 — Übergang von der olmekischen zur Maya-Kultur.",
       "factsAdvanced": [
-        "Der Tanz des Palo Volador ist eines der beeindruckendsten Feste in Joyabaj.",
-        "Ein verheerendes Erdbeben im Jahr 1976 zerstörte die koloniale Kirche der Stadt.",
-        "Der Name stammt vom K'iche'-Wort 'Xoyabaj', was so viel wie 'Göttersteine' bedeutet.",
-        "Die Stadt hat eine gemischte Bevölkerung aus K'iche'-Maya und Ladinos.",
-        "Joyabaj ist berühmt für die Herstellung von Marimbas (Holzinstrumenten).",
-        "Der örtliche Markt ist der Hauptversorgungsort für Hunderte kleine Bergdörfer.",
-        "Landwirtschaft, insbesondere Bohnen und Mais, prägt das Umland."
+        "Takalik Abaj bedeutet in der Maya-Sprache 'Stehender Stein'.",
+        "Es ist einer der wenigen Orte weltweit, an dem olmekische und Maya-Kunst gleichzeitig vorkommen.",
+        "Die Stätte beherbergt das Grab eines frühen Maya-Herrschers (Struktur 6) mit über 300 Jade-Objekten.",
+        "Takalik Abaj war über 2.000 Jahre lang kontinuierlich besiedelt.",
+        "Die Monumente sind nach astronomischen Gesichtspunkten präzise ausgerichtet.",
+        "In der Nähe befindet sich ein spezialisiertes Museum, das die Funde der Region zeigt.",
+        "Das Gelände ist heute ein Nationalpark und dient auch als Rückzugsort für die lokale Fauna."
       ]
     },
     {
-      "id": "gt-poptun-cities-v2",
-      "descriptionAdvanced": "Poptún ist die größte und wichtigste Stadt im südlichen Departamento Petén. Gelegen in einem Karsttal, umgeben von dichtem Kiefernwald und tropischer Vegetation, fungiert Poptún als das Eingangstor zur großen Petén-Region. Die Stadt hat in den letzten Jahrzehnten durch die massive Einwanderung von Bauern aus dem Hochland ein extremes Wachstum erlebt. Wirtschaftlich dominiert hier die extensive Rinderzucht, der Holzeinschlag und die Landwirtschaft. In Poptún befindet sich auch das Trainingslager der guatemaltekischen Spezialeinheiten (Kaibiles). Die nahegelegenen Naj-Tunich-Höhlen sind ein bedeutendes Ziel für Ökotouristen und Archäologen. Geographie K7 - Migration und Regenwald.",
+      "id": "palacio-del-ayuntamiento-antigua-history-v2",
+      "descriptionAdvanced": "Der Palacio del Ayuntamiento, gelegen an der Nordseite des Zentralparks von Antigua Guatemala, ist ein herausragendes Beispiel für koloniale Zivilarchitektur des 18. Jahrhunderts. Das Gebäude diente über Jahrhunderte als Sitz des Stadtrates (Cabildo) und beherbergte wichtige administrative Funktionen der kolonialen Hauptstadt Santiago de los Caballeros. Mit seiner eleganten Doppelfassade aus massiven Steinbögen und Arkaden strahlt es eine würdevolle Autorität aus. Besonders bemerkenswert ist die Widerstandsfähigkeit des Palastes: Während viele andere Gebäude in Antigua durch die Erdbeben von 1773 vollständig zerstört wurden, hielten die dicken Mauern des Rathauses den Erschütterungen weitgehend stand. Heute beherbergt der Palast das Stadtmuseum und das Museum für antike Bücher. Von den oberen Arkaden aus bietet sich ein herrlicher Blick auf den Park und die Ruinen der Kathedrale, was ihn zu einem zentralen Anlaufpunkt für Geschichtsinteressierte macht. Architektur K7 — Koloniale Verwaltung und städtische Planung.",
       "factsAdvanced": [
-        "Poptún ist ein zentraler Verkehrsknotenpunkt an der Autobahn CA-13 in den Norden.",
-        "Die Höhlen von Naj-Tunich in der Nähe beherbergen prähistorische Maya-Malereien.",
-        "Die Militärbasis von Poptún ist das Ausbildungszentrum der berüchtigten Kaibiles.",
-        "Die Stadt erlebte einen massiven Zuzug von K'iche'-Siedlern aus dem Süden.",
-        "Ausgedehnte Kiefernwälder (Pinares) prägen die Landschaft rund um die Stadt.",
-        "Landwirtschaftliche Entwaldung zugunsten von Rinderweiden ist ein drängendes Umweltproblem.",
-        "Das Finca-Modell (Großgrundbesitz) ist der dominierende Wirtschaftsfaktor in der Region."
+        "Der heutige Palast wurde 1743 unter der Leitung des Architekten Diego de Porres vollendet.",
+        "Die Wände des Gebäudes sind stellenweise über einen Meter dick, um Erdbeben zu widerstehen.",
+        "Hinter den Arkaden befand sich früher auch das Stadtgefängnis von Antigua.",
+        "Das Gebäude ist bis heute der offizielle Sitz der Stadtverwaltung von Antigua Guatemala.",
+        "Im Inneren befindet sich das Museum für Buchdruck, das an die erste Druckerei der Region erinnert.",
+        "Die Fassade zeigt das Wappen von Santiago de los Caballeros, dem Schutzpatron der Stadt.",
+        "Die obere Etage bietet eine der besten Fotoperspektiven auf den Vulkan Agua."
       ]
     },
     {
-      "id": "gt-asuncion-mita-cities-v2",
-      "descriptionAdvanced": "Asunción Mita ist ein wichtiges regionales Zentrum im Departamento Jutiapa und liegt malerisch nahe der Ostküste des Lago de Güija. Die Stadt grenzt an El Salvador und ist tief in die ladinische Kultur des südöstlichen Guatemalas eingebettet. Historisch von Xinca-Völkern besiedelt, ist das heutige Asunción Mita eine moderne Agrarstadt, die durch ausgedehnte Viehzucht, Sorghum- und Bohnenanbau geprägt ist. Archäologisch interessant sind die Ruinen von Mita, einer alten Pilgerstätte der Pipil. Die Stadt profitiert wirtschaftlich stark vom Grenzhändl und der geothermischen Aktivität der Region. Geographie K6 - Grenznahe Agrarregionen.",
+      "id": "batalla-de-la-arada-history-v2",
+      "descriptionAdvanced": "Die Schlacht von La Arada am 2. Februar 1851 gilt als der wichtigste militärische Sieg in der Geschichte des unabhängigen Guatemala. In der Nähe der Stadt Chiquimula im Osten des Landes gelang es einer zahlenmäßig weit unterlegenen guatemaltekischen Armee unter dem legendären General Rafael Carrera, eine vereinigte Invasionsstreitmacht aus El Salvador und Honduras vernichtend zu schlagen. Carrera nutzte das zerklüftete Gelände geschickt aus, indem er seine Truppen in den Hügeln von La Arada verschanzte und die Gegner in eine Falle lockte. Dieser Sieg festigte die Souveränität Guatemalas gegenüber den Bestrebungen zur Wiederherstellung der Zentralamerikanischen Föderation und sicherte Carreras Macht für Jahrzehnte. Die Schlacht wird heute als Geburtsstunde der guatemaltekischen Armee gefeiert und markiert den endgültigen Bruch mit der Idee eines vereinigten Mittelamerikas unter liberaler Führung. In der Region erinnert ein monumentaler Gedenkstein an dieses historische Ereignis. Geschichte K8 — Nationale Identität und regionale Souveränität.",
       "factsAdvanced": [
-        "Asunción Mita liegt in der Nähe des Lago de Güija, der auf der Grenze zu El Salvador liegt.",
-        "Die Ruinen der antiken Stadt Mita weisen deutliche mesoamerikanische Einflüsse auf.",
-        "Die Bevölkerung ist nahezu ausschließlich Ladino, ohne starke indigene Präsenz.",
-        "Die Region gehört zum guatemaltekischen Trockenkorridor und leidet oft unter Dürren.",
-        "Zahlreiche Milchviehbetriebe (Lecherías) bilden das Rückgrat der Wirtschaft.",
-        "Ein großes Goldbergbau-Projekt in der Region hat zu Umweltdebatten geführt.",
-        "Die heißen Quellen im nahen Umfeld sind ein lokaler touristischer Anziehungspunkt."
+        "Rafael Carrera führte nur etwa 2.000 Soldaten gegen eine Übermacht von über 4.500 Angreifern.",
+        "Die Schlacht dauerte mehrere Stunden und endete mit der Flucht der alliierten Truppen.",
+        "Carrera nutzte brennendes Gras, um den Gegner zu verwirren und seine Positionen zu verbergen.",
+        "Der Sieg verhinderte die Annexion guatemaltekischer Gebiete durch die Nachbarstaaten.",
+        "In Guatemala-Stadt ist eine der wichtigsten Kasernen nach dem Ort der Schlacht benannt.",
+        "Die Schlacht von La Arada wird in Militärakademien der Region als taktisches Meisterwerk studiert.",
+        "Nach dem Sieg wurde Carrera zum 'Präsidenten auf Lebenszeit' proklamiert."
       ]
     },
     {
-      "id": "gt-gualan-cities-v2",
-      "descriptionAdvanced": "Gualán ist eine heiße, tropische Stadt im Departamento Zacapa, gelegen am Ufer des Motagua-Flusses. Die Stadt verdankt ihre Existenz und ihr frühes Wachstum der strategischen Lage am Fluss, der in der Kolonialzeit als wichtigster Transportweg zwischen der Karibikküste und dem Hochland diente. Mit dem Bau der Eisenbahn im 19. Jahrhundert wurde Gualán zu einem unverzichtbaren Bahnknotenpunkt. Heute ist die Wirtschaft vor allem durch den großflächigen Anbau von Melonen für den Export, sowie Tomaten und Tabak geprägt. Die Hitze, gepaart mit dem ländlichen Cowboy-Charme der Vaqueros, macht Gualán zu einem klassischen Repräsentanten des guatemaltekischen Ostens. Geographie K8 - Fluss- und Eisenbahnhistorie.",
+      "id": "fortin-de-san-carlos-history-v2",
+      "descriptionAdvanced": "Das Fortín de San Carlos, gelegen in der Stadt Jutiapa im Südosten Guatemalas, ist eine kleine, aber historisch bedeutsame Festungsanlage aus dem 19. Jahrhundert. Erbaut zur Zeit des Generals Rafael Carrera, diente dieses kleine Fort primär dem Schutz der Grenze zu El Salvador und als militärischer Vorposten in einer strategisch unruhigen Region. Die Architektur des Forts ist eher funktional als prächtig, geprägt durch dicke Mauern aus Naturstein und Ziegeln sowie markante Ecktürme für Wachposten. Es zeugt von der ständigen Wachsamkeit Guatemalas gegenüber seinen Nachbarn während der turbulenten Jahre der frühen Republik. Obwohl es nie eine Belagerung von epischem Ausmaß erlebte, war es ein wichtiger Stützpunkt für die logistische Kontrolle der Handelswege zwischen Guatemala-Stadt und San Salvador. Heute dient das restaurierte Fort als Kulturzentrum und kleines Regionalmuseum, das die Militärgeschichte und die Traditionen des guatemaltekischen Ostens ('Oriente') bewahrt. Geschichte K8 — Grenzkonflikte und die frühe guatemaltekische Republik.",
       "factsAdvanced": [
-        "Der Fluss Motagua diente jahrhundertelang als Hauptverkehrsader für Gualán.",
-        "Die Stadt erlebte im 19. Jahrhundert einen Boom als wichtiger Eisenbahnknotenpunkt.",
-        "Gualán gilt als eines der wichtigsten Zentren für den Melonenexport in Guatemala.",
-        "Die Temperaturen steigen hier im Sommer regelmäßig auf über 40 Grad Celsius.",
-        "In der präkolumbianischen Ära gehörte das Gebiet zum Maya-Reich von Copán.",
-        "Die Brücke über den Motagua ist eine der wichtigsten Infrastrukturbauten der Region.",
-        "Vaquero-Kultur, Viehzucht und Pferderennen prägen das soziale Leben."
+        "Das Fort wurde zum Schutz gegen die ständigen Einfälle salvadorianischer Truppen errichtet.",
+        "Seine Architektur ist typisch für die kleineren Militäranlagen der Carrera-Ära.",
+        "Jutiapa ist als 'Cuna del Sol' (Wiege der Sonne) bekannt, was die heiße Lage des Forts unterstreicht.",
+        "Das Gebäude beherbergt heute Ausstellungen zur lokalen Geschichte und Ethnografie.",
+        "Die Kanonen an der Außenseite sind Originalstücke aus dem 19. Jahrhundert.",
+        "Das Fortín de San Carlos ist eines der wenigen erhaltenen Beispiele für republikanische Militärbaukunst.",
+        "Regelmäßige patriotische Zeremonien finden auf dem Vorplatz der Festung statt."
       ]
     },
     {
-      "id": "gt-la-democracia-cities-v2",
-      "descriptionAdvanced": "La Democracia ist eine historisch bedeutende Stadt im Departamento Escuintla an der heißen Pazifikküste. Das Stadtzentrum ist weltweit berühmt für die markanten prähispanischen Steinskulpturen, die den Hauptplatz (Plaza Central) säumen. Diese massiven Steinfiguren, im sogenannten Monte-Alto-Stil gemeißelt, erinnern an die Olmeken-Kultur und zeigen pummelige Gesichter (Fat Boys) mit geschlossenen Augen. Sie wurden auf den Zuckerrohrfeldern der Umgebung gefunden und hier zur Ausstellung zusammengetragen. Abseits der Archäologie ist La Democracia ein Zentrum der modernen Zuckerrohr- und Kaffeeindustrie der Südküste. Geschichte K8 - Präkolumbianische Skulpturen.",
+      "id": "iglesia-vieja-chimaltenango-history-v2",
+      "descriptionAdvanced": "Die 'Iglesia Vieja' (Alte Kirche) in Chimaltenango ist ein eindrucksvolles, wenn auch melancholisches Denkmal für die Zerstörungskraft der Natur in Guatemala. Diese monumentale Ruine stammt aus der frühen Kolonialzeit und war einst das religiöse Zentrum einer blühenden Gemeinde im zentralen Hochland. Die Kirche wurde bei dem katastrophalen Erdbeben von 1976 schwer beschädigt und in ihrer heutigen Form als Ruine belassen. Die massiven, rissigen Steinwände und die eingestürzten Bögen vermitteln ein tiefes Verständnis für die Verletzlichkeit der Architektur in einem Land mit extrem hoher seismischer Aktivität. Die Ruine dient heute als stiller Ort der Besinnung und wird oft für religiöse Zeremonien unter freiem Himmel genutzt. Für die Bewohner von Chimaltenango ist die Iglesia Vieja ein Symbol der Beständigkeit; sie erinnert an das Leid der Vergangenheit und den starken Willen zum Wiederaufbau. Geographie K7 — Erdbebenrisiken und architektonische Resilienz.",
       "factsAdvanced": [
-        "Auf dem zentralen Platz der Stadt sind 12 riesige, steinerne 'Fat Boy'-Skulpturen ausgestellt.",
-        "Die Figuren stammen aus der nahen archäologischen Stätte Monte Alto (ca. 500 v. Chr.).",
-        "Das örtliche Museum Museo Regional de Arqueología de la Democracia bietet weitere Artefakte.",
-        "Die Skulpturen haben starke stilistische Ähnlichkeiten zur Olmeken-Kultur.",
-        "Die moderne Wirtschaft basiert fast vollständig auf großen Zuckerrohrplantagen.",
-        "Das feucht-heiße Klima ist typisch für die Ebene der pazifischen Küste.",
-        "Kaffee und Baumwolle wurden hier im 19. Jahrhundert in großen Mengen angebaut."
+        "Die Kirche war eines der bedeutendsten Bauwerke der Dominikaner im Hochland.",
+        "Das Erdbeben von 1976 hatte eine Stärke von 7,5 auf der Richter-Skala und zerstörte weite Teile der Region.",
+        "In der Nähe der Ruine befinden sich Gedenktafeln für die Opfer der Naturkatastrophe.",
+        "Trotz des Verfalls sind feine Details der barocken Steinmetzkunst an der Fassade sichtbar.",
+        "Die Iglesia Vieja wird nachts oft kunstvoll beleuchtet und ist ein Wahrzeichen der Stadt.",
+        "Die Ruinen werden von der lokalen Gemeinde als kulturelles Erbe streng geschützt.",
+        "Architekten nutzen die Ruine zur Untersuchung historischer Bautechniken gegen Erdbeben."
       ]
     },
     {
-      "id": "gt-colomba-cities-v2",
-      "descriptionAdvanced": "Colomba Costa Cuca liegt in den vulkanischen Ausläufern des Departements Quetzaltenango und ist das Herzstück des Kaffeeanbaus im westlichen Guatemala. Die steilen, fruchtbaren Hänge und das beständige tropische Klima in einer Höhe von etwa 1.000 Metern bieten perfekte Bedingungen für den Anbau von exzellentem Arabica-Kaffee. Historisch wurde das Land im späten 19. Jahrhundert massiv parzelliert und an Kaffeebarone vergeben, woraus eine Finca-Wirtschaft entstand, die bis heute besteht. Colomba selbst ist die Versorgungsstadt für Hunderte von umliegenden Kaffeefarmen und ein Schmelztiegel für indigene Kaffeepflücker, die zur Erntezeit aus dem Hochland migrieren. Wirtschaft K6 - Kaffeeanbau und Migration.",
+      "id": "conquista-de-tayasal-history-v2",
+      "descriptionAdvanced": "Die Eroberung von Tayasal am 13. März 1697 markiert das endgültige Ende der indigenen Herrschaft in ganz Mesoamerika. Tayasal, gelegen auf einer Insel im Petén-Itzá-See, war die letzte freie Hauptstadt der Itzá-Maya, die sich über 170 Jahre lang erfolgreich den spanischen Versuchen einer Unterwerfung widersetzt hatten. Während das restliche Maya-Gebiet längst unter kolonialer Kontrolle stand, bewahrten die Itzá in den fernen Dschungeln des Nordens ihre Unabhängigkeit und ihre alten Götter. Erst eine groß angelegte Expedition unter dem Kommando von Martín de Ursúa y Arizmendi schaffte es, die Stadt mit einer Galeere vom See aus anzugreifen und einzunehmen. Die Eroberung war brutal und führte zur Flucht der Itzá in den Dschungel und zur Zerstörung ihrer Tempel. Auf den Ruinen von Tayasal gründeten die Spanier die Stadt Flores. Dieses Ereignis beendete offiziell die Ära der souveränen Maya-Staaten und besiegelte die spanische Vorherrschaft bis zum südlichsten Zipfel Mittelamerikas. Geschichte K8 — Das Ende der Maya-Souveränität und die Itzá-Dynastie.",
       "factsAdvanced": [
-        "Colomba ist die wichtigste Stadt für Kaffeewirtschaft (Costa Cuca) im Departamento.",
-        "Der Name ehrt den kolumbianischen Präsidenten Francisco de Paula Santander.",
-        "In der Erntezeit migrieren Tausende K'iche'- und Mam-Maya aus dem Hochland hierher.",
-        "Die vulkanische Asche der umliegenden Vulkane sorgt für extrem fruchtbare Böden.",
-        "Neben Kaffee werden auf den tiefer gelegenen Fincas auch Macadamia und Kautschuk angebaut.",
-        "Das städtische Leben richtet sich stark nach dem Kalender der Kaffeeernte.",
-        "Colomba leidet häufig unter den instabilen Weltmarktpreisen für Kaffee."
+        "Tayasal fiel erst 172 Jahre nach der Eroberung der K'iche'-Hauptstadt Gumarcaaj.",
+        "Die Itzá-Maya stammten ursprünglich aus dem Gebiet von Chichén Itzá in Mexiko.",
+        "Martín de Ursúa musste eine hunderte Kilometer lange Straße durch den Dschungel bauen, um zum See zu gelangen.",
+        "Ein legendäres weißes Steinpferd wurde von den Itzá als Gottheit verehrt, bis es im See versank.",
+        "Die Inselstadt war durch ihre Lage im tiefen Wasser des Sees strategisch fast unangreifbar.",
+        "Heute befindet sich auf der Stelle des alten Tayasal die malerische Stadt Flores (Petén).",
+        "Die spanischen Chroniken beschreiben Tayasal als eine prachtvolle Stadt mit über 20 großen Tempeln."
       ]
     }
   ]

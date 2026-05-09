@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "alula-castle-history-v2",
+      "descriptionAdvanced": "Alula kastélya a 19. századi Szomália egyik legkiemelkedőbb építészeti alkotása, amelyet a korabeli kereskedelmi és politikai elit emelt. A stratégiai jelentőségű partvidéki elhelyezkedése lehetővé tette az Indiai-óceán forgalmának ellenőrzését és a kereskedelmi útvonalak biztonságának felügyeletét. Az erődített épület falai között a térség gazdasági és politikai élete virágzott, meghatározva a régió fejlődését. Alula kastélya ma is a szomáliai tengeri kereskedelem aranykorának szimbóluma, amelynek megmaradt romjai a korabeli technológiai és építészeti tudásról tanúskodnak.",
+      "factsAdvanced": [
+        "19. századi kastélyépület.",
+        "Fontos szerepet játszott a tengeri kereskedelemben.",
+        "Stratégiai kikötőváros mellett épült.",
+        "A korabeli politikai elit rezidenciája volt.",
+        "Fejlett védelmi építészet jellemzi.",
+        "A szomáliai kereskedelem aranykorának szimbóluma."
+      ]
+    },
+    {
+      "id": "bargaal-fort-history-v2",
+      "descriptionAdvanced": "Bargaal erődje a térség védelmi rendszerének kulcsfontosságú eleme volt, amely évszázadokon át biztosította az északkeleti partvidék stabilitását. Az erődítmény nemcsak katonai célokat szolgált, hanem fontos igazgatási és kereskedelmi állomásként is működött, amely összekötötte a szomáliai part menti településeket a szárazföld belsejével. A kőből és habarcsból készült masszív építmények a középkori védelmi építészet fejlettségét mutatják. Bargaal romjai ma is a helyi történelem egyik fontos emlékei, amelyek segítenek rekonstruálni a térség védelmi stratégiáit és kereskedelmi dinamikáját.",
+      "factsAdvanced": [
+        "Északkeleti partvidék védelmi pontja.",
+        "Katonai és igazgatási központ.",
+        "Masszív kőépítészeti szerkezet.",
+        "Összekötő pont a partvidék és a belső területek között.",
+        "Középkori védelmi építészet példája.",
+        "A helyi történelem fontos tanúja."
+      ]
+    },
+    {
+      "id": "merca-ancient-port-history-v2",
+      "descriptionAdvanced": "Merca történelmi kikötővárosa az Indiai-óceán partvidékének egyik legrégebbi kereskedelmi csomópontja, amely már a középkorban is kulcsszerepet játszott. A város a fűszerek, szövetek és egyéb luxuscikkek kereskedelmének központja volt, ahol arab, indiai és afrikai kereskedők találkoztak. Merca architektúrája, különösen a fennmaradt kőépületek és mecsetek, tükrözik a város egykori kozmopolita jellegét és gazdasági erejét. A kikötő a szomáliai tengeri kereskedelem történetének egyik legfontosabb láncszeme, amely ma is őrzi a középkori kereskedelmi dicsőség emlékét.",
+      "factsAdvanced": [
+        "Ősi kereskedelmi kikötő.",
+        "Arab, indiai és afrikai kereskedelmi központ.",
+        "Luxuscikkek kereskedelmének helyszíne.",
+        "Különleges kőépítészeti emlékek.",
+        "Kozmopolita történelmi város.",
+        "A tengeri kereskedelem történetének kulcspontja."
+      ]
+    }
+  ]
+}

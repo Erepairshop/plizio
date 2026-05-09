@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "ecuador",
+  "files": [
+    "lib/visualLab/data/poiExtraEcuadorEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mirador-goldmine-economic-v2",
+      "descriptionAdvanced": "A Mirador-bánya az ecuadori bányászati ágazat egyik legjelentősebb beruházása, amely az ország első nagyméretű, külszíni réz- és aranykitermelő helyeként vonzott komoly külföldi tőkét. A Zamora-Chinchipe tartományban található létesítmény jelentős szerepet játszik az állami bevételek növelésében, ugyanakkor működése folyamatos viták tárgyát képezi a környezetvédelmi hatások miatt. A bányászat és a természeti környezet védelme közötti konfliktus élesen megmutatkozik itt, ami fontos témát szolgáltat a K8-as szintű földrajzi tantervben a fenntartható erőforrás-gazdálkodás és az etikus bányászati gyakorlatok vizsgálatához.",
+      "factsAdvanced": [
+        "Ecuador első nagyméretű, külszíni bányászati projektje.",
+        "Zamora-Chinchipe tartomány egyik legmeghatározóbb ipari üzeme.",
+        "Egy kínai konzorcium felelős a bányászati tevékenységért.",
+        "Jelentős mennyiségű réz és arany kitermelésére irányul.",
+        "Komoly nemzetközi befektetéseket vonzott az ecuadori bányászati szektorba.",
+        "A projekt jelentős társadalmi és környezeti vitákat generált.",
+        "Kiemelt szerepet játszik az ország exportbevételeinek növelésében."
+      ]
+    },
+    {
+      "id": "blumenfarmen-cayambe-economic-v2",
+      "descriptionAdvanced": "A Cayambe régióban elterülő nagy kiterjedésű üvegházak Ecuador rózsatermesztési iparának fellegvárai, ahonnan kiváló minőségű rózsák jutnak el a világ minden tájára. A régió egyedülálló földrajzi adottságai, az Egyenlítő közelsége és a jelentős tengerszint feletti magasság ideális fény- és hőmérsékleti viszonyokat biztosít a rózsák fejlődéséhez. A virágexport az egyik legfontosabb devizabevételi forrás Ecuador számára, amely számtalan család megélhetését biztosítja közvetlenül és közvetetten. A mezőgazdasági ipar működése és a globalizált kereskedelem összefüggései a K7-es szintű földrajzi tanterv fontos részét képezik, bemutatva, hogyan hasznosítanak bizonyos régiók előnyös adottságokat a világgazdaságban.",
+      "factsAdvanced": [
+        "Ecuador a világ egyik vezető rózsaexportőr országa.",
+        "Cayambe régiója kiváló mikroklímával rendelkezik a virágtermesztéshez.",
+        "A magasság és az egyenlítői elhelyezkedés egyedülálló virágminőséget eredményez.",
+        "Jelentős munkaerő-felvevő képességgel bír a mezőgazdasági szektorban.",
+        "A virágok döntő része Európába és Észak-Amerikába irányul.",
+        "Fontos szerepet játszik az ország devizabevételeinek generálásában.",
+        "A technológiailag fejlett üvegházak hatékony termelést tesznek lehetővé."
+      ]
+    },
+    {
+      "id": "holcim-zementwerk-guayaquil-economic-v2",
+      "descriptionAdvanced": "A Guayaquil peremén működő Holcim cementgyár a térség egyik legnagyobb ipari komplexuma, amely alapvető fontosságú az építőanyag-ellátás és az export szempontjából. A globális Holcim csoport részeként a gyár modern gyártási technológiákat alkalmaz, biztosítva a magas minőségű alapanyagokat nagyarányú infrastruktúra-fejlesztésekhez. A kikötő közelsége stratégiai előnyt biztosít a tengeri exportútvonalak kihasználásához és a nyersanyagok beszerzéséhez. Az ipari termelés hatékonysága és a logisztikai előnyök összekapcsolása szemléletes példa a K8-as szintű gazdasági ismeretek órákon a vállalati hatékonyság és a regionális gazdasági integráció összefüggéseinek vizsgálatára.",
+      "factsAdvanced": [
+        "A globális Holcim építőanyag-ipari csoport része.",
+        "Központi szerepet játszik a nagy infrastrukturális projektek ellátásában.",
+        "Stratégiai földrajzi helyzete közel van a nagy guayaquili kikötőhöz.",
+        "Jelentős ipari kapacitással szolgálja ki a part menti piacot.",
+        "A gyár folyamatosan fejleszti a gyártási hatékonyságot.",
+        "Fontos foglalkoztató a guayaquili régióban.",
+        "Integrált része az országos építőanyag-ellátási láncnak."
+      ]
+    },
+    {
+      "id": "la-universal-suesswaren-economic-v2",
+      "descriptionAdvanced": "A La Universal egy történelmi jelentőségű ecuadori édességmárka, amely a csokoládé és más cukrászati termékek gyártásával vált az ország gasztronómiai kultúrájának részévé. A gyökerei mélyen az ecuadori kakaótörténelembe nyúlnak vissza, hiszen a márka a híres, helyben termesztett 'Fino de Aroma' kakaót használja fel a minőségi csokoládék előállításához. A hagyományok és a modern gyártási folyamatok ötvözése révén a márka a mai napig Ecuador egyik legismertebb és legkedveltebb termékcsaládja. A csokoládéipar és a kakaó termesztésének jelentősége a gazdaságban kiváló téma a K5-ös szintű gazdasági vagy földrajzi órákon, ahol a diákok megismerhetik a nemzeti identitás és az ipari termékek kapcsolatát.",
+      "factsAdvanced": [
+        "A márka története a 19. század végéig vezethető vissza.",
+        "Ecuador egyik legikonikusabb és legismertebb édességmárkája.",
+        "A prémium minőségű 'Fino de Aroma' kakaót használják fel.",
+        "Mélyen beágyazódott az ecuadori csokoládéipar történetébe.",
+        "Hagyományos receptúrák és modern gyártási technológiák ötvözete.",
+        "Fontos szerepet tölt be az ecuadori gasztronómiai identitásban.",
+        "Termékeik a hazai piac meghatározó szereplői."
+      ]
+    },
+    {
+      "id": "puerto-posorja-dp-world-economic-v2",
+      "descriptionAdvanced": "A posorjai mélyvízi kikötő a DP World üzemeltetésében Ecuador tengeri logisztikai infrastruktúrájának legújabb és legfejlettebb tagja a Guayaquil-öbölben. Az újonnan épített kikötő úgy lett kialakítva, hogy képes legyen a legmélyebb merülésű Post-Panamax konténerszállító hajók fogadására, ezzel jelentősen javítva az ország versenyképességét a nemzetközi kereskedelemben. Ez az egyik legjelentősebb magánberuházás, amely az ecuadori tengeri szállítmányozás modernizációját hivatott szolgálni. Az ilyen nagy léptékű közlekedési beruházások gazdasági hatásai, mint például a kereskedelmi áramlások gyorsulása és a globális integráció, alapvető fontosságúak a K8-as szintű földrajzi tantervben.",
+      "factsAdvanced": [
+        "DP World üzemeltetésű modern mélyvízi kikötő.",
+        "Kifejezetten Post-Panamax konténerszállító hajók fogadására tervezték.",
+        "Ecuador egyik legmeghatározóbb privát tengeri beruházása.",
+        "Jelentősen növeli Ecuador versenyképességét a globális tengeri kereskedelemben.",
+        "A Guayaquil-öböl logisztikai súlypontjának áthelyezését segíti elő.",
+        "Korszerű, automatizált rakodási és kezelési rendszerekkel rendelkezik.",
+        "Kulcsfontosságú az ország nemzetközi export-import versenyképessége szempontjából."
+      ]
+    }
+  ]
+}

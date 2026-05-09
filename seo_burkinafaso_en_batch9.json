@@ -1,0 +1,289 @@
+{
+  "lang": "en",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zagtouli-solar-plant-economic-v2",
+      "descriptionAdvanced": "The Zagtouli Solar Plant, located on the outskirts of Ouagadougou, is the largest photovoltaic power station in West Africa and a symbol of Burkina Faso's commitment to renewable energy. Inaugurated in 2017 with the support of the European Union and the French Development Agency, the facility covers over 60 hectares and features nearly 130,000 solar panels. With a peak capacity of 33 megawatts, Zagtouli significantly reduces the country's dependence on imported fossil fuels and expensive electricity from neighboring countries. The plant's operation helps to stabilize the national grid, particularly during the intense heat of the dry season when energy demand peaks. This project has set a precedent for sustainable industrialization in the Sahel, demonstrating the viability of solar power on a massive scale. Zagtouli is a critical pillar of Burkina Faso's strategy to achieve energy independence and reduce its carbon footprint while supporting urban and industrial growth.",
+      "factsAdvanced": [
+        "Largest solar power station in West Africa at the time of inauguration",
+        "Features approximately 129,600 solar panels over a 60-hectare site",
+        "Provides 33 megawatts of peak power to the national electricity grid",
+        "Reduces national carbon emissions by an estimated 26,000 tonnes annually",
+        "Funded through a partnership with the European Union and AFD",
+        "Located 15 kilometers southwest of the capital, Ouagadougou",
+        "Key component of the national strategy for energy diversification",
+        "Symbolizes Burkina Faso's leadership in Sahelian renewable energy"
+      ]
+    },
+    {
+      "id": "sonabhy-bingo-depot-economic-v2",
+      "descriptionAdvanced": "The SONABHY Bingo Depot is the largest and most strategic petroleum storage facility in Burkina Faso, located in the Boulkiemdé province. Operated by the national oil company (Société Nationale Burkinabé d'Hydrocarbures), this massive inland terminal serves as the central hub for the country's fuel security. The depot receives petroleum products primarily via the international road corridors and the Abidjan-Niger railway, storing essential supplies of gasoline, diesel, and jet fuel. Its strategic location near the capital allows for the efficient distribution of energy products to the country's central and northern regions, supporting transport, industry, and power generation. The Bingo depot is equipped with modern safety systems and large-capacity storage tanks that ensure a steady supply even during regional logistical disruptions. As a vital pillar of national sovereignty, the facility is critical for stabilizing fuel prices and maintaining the continuous movement of the Burkinabé economy.",
+      "factsAdvanced": [
+        "Largest petroleum and hydrocarbon storage depot in Burkina Faso",
+        "Operated by SONABHY, the national state-owned oil company",
+        "Strategic hub for national energy security and fuel price stability",
+        "Connected to the main international trade and railway corridors",
+        "Stores essential supplies of gasoline, diesel, and aviation fuel",
+        "Located in Bingo, approximately 35 kilometers west of the capital",
+        "Features high-capacity storage tanks and advanced safety systems",
+        "Vital logistical node for the transport and industrial sectors"
+      ]
+    },
+    {
+      "id": "brakina-ouagadougou-economic-v2",
+      "descriptionAdvanced": "BRAKINA (Brasseries du Burkina) is the country's leading industrial beverage producer, with its flagship factory located in the Kossodo industrial zone of Ouagadougou. Established in the 1960s, the company has grown into an industrial heavyweight, producing a wide range of beers, soft drinks, and mineral water that dominate the local market. The Ouagadougou plant utilizes modern brewing and bottling technology to meet the massive demand of the capital's growing population. BRAKINA is one of the nation's largest employers and taxpayers, supporting a vast network of local distributors, transporters, and retailers. The company is also known for its strong corporate social responsibility programs, investing in community health and local sports. Its flagship beer brand is a cultural icon in Burkina Faso, synonymous with social gatherings and national pride. BRAKINA's continued expansion reflects the dynamism of the Burkinabé food and beverage sector and its role in the country's industrial modernization.",
+      "factsAdvanced": [
+        "Leading industrial brewery and beverage producer in Burkina Faso",
+        "Main production facility located in the Kossodo industrial zone",
+        "Producer of the iconic national beer and a wide range of soft drinks",
+        "One of the country's largest private employers and industrial taxpayers",
+        "Utilizes advanced European brewing and automated bottling technology",
+        "Supports a national supply chain of thousands of small businesses",
+        "Significant contributor to the regional GDP of the Plateau-Central",
+        "Symbol of Burkinabé industrial success and consumer culture"
+      ]
+    },
+    {
+      "id": "sanbrado-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Sanbrado Gold Mine, located in the Ganzourgou province of central Burkina Faso, is one of the newest and highest-grade gold operations in the country. Operated by West African Resources, the mine achieved its first gold pour in 2020 and has quickly exceeded production expectations. The site features a unique combination of a high-grade underground mine and multiple open pits, supported by a state-of-the-art carbon-in-leach processing plant. Sanbrado's success is rooted in its exceptional ore quality and its efficient management, making it one of the lowest-cost gold producers in the region. The mine provides significant employment and training opportunities for the local community, contributing to regional infrastructure, including schools and healthcare facilities. As a major contributor to the national treasury, Sanbrado plays a vital role in Burkina Faso's mineral-led economic growth. It represents the modernization of the mining sector through advanced geological modeling and international safety standards.",
+      "factsAdvanced": [
+        "High-grade gold mine operated by West African Resources",
+        "Located in the Ganzourgou province, 90 kilometers east of Ouagadougou",
+        "Achieved commercial gold production in early 2020",
+        "Features a combination of underground and open-pit mining operations",
+        "Known for its high-efficiency and low-cost production profile",
+        "Significant contributor to national export revenue and GDP",
+        "Provides major community investment in local health and education",
+        "Utilizes a modern 2.2 million tonnes per year processing facility"
+      ]
+    },
+    {
+      "id": "filsah-textile-mill-economic-v2",
+      "descriptionAdvanced": "FILSAH (Filature du Sahel), located in Koudougou, is the largest and most advanced textile mill in Burkina Faso, dedicated to processing the nation's 'white gold' into high-quality yarn. Established as part of the country's strategy to add local value to its primary cotton exports, the mill is a vital link in the national industrial chain. FILSAH utilizes modern automated spinning technology to produce diverse types of yarn that are used by both local artisanal weavers and international textile manufacturers. The facility is a major employer in Koudougou, revitalizing the city's historic textile heritage. By processing raw cotton locally, FILSAH helps to reduce the country's dependence on imported textiles and creates high-skilled jobs in the industrial sector. The company is also committed to sustainable practices, increasingly sourcing organic cotton from local cooperatives. FILSAH remains a symbol of Burkinabé industrial pride and the potential for agricultural value-addition in West Africa.",
+      "factsAdvanced": [
+        "Largest industrial cotton spinning mill in Burkina Faso",
+        "Located in Koudougou, the historic textile capital of the country",
+        "Processes raw Burkinabé cotton into high-quality yarn for export",
+        "Vital component of the national strategy for agricultural value-addition",
+        "Utilizes modern European spinning and automated processing technology",
+        "Major employer and industrial driver in the Centre-Ouest region",
+        "Supports both local artisanal weaving and international textile markets",
+        "Key player in the promotion of organic and sustainable cotton products"
+      ]
+    },
+    {
+      "id": "mana-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Mana Gold Mine, situated in the Mouhoun and Tuy provinces of western Burkina Faso, is one of the country's largest and most established industrial gold mines. Operated by Endeavour Mining, the site has been in continuous operation since 2008, consistently ranking among the top gold producers in the region. The mine features multiple open pits and a large-scale processing plant, and it has recently expanded into high-grade underground mining to extend its operational life. Mana's strategic importance lies in its massive resource base and its significant contribution to the national GDP through taxes, royalties, and local employment. The mine has also been a leader in community development, investing in local water systems, schools, and sustainable agriculture programs for the surrounding villages. As a cornerstone of the western mining district, Mana symbolizes the long-term potential of the Burkinabé mineral sector and its role in regional economic transformation.",
+      "factsAdvanced": [
+        "Large-scale industrial gold mine operated by Endeavour Mining",
+        "Located in the western 'cotton belt' region near the city of Houndé",
+        "Has been in continuous commercial production since 2008",
+        "One of the country's top contributors to national export revenue",
+        "Features multiple open pits and advanced underground mining",
+        "Supports a large local workforce and regional supply chain",
+        "Major investor in provincial community infrastructure and health",
+        "Known for its successful integration of different mining techniques"
+      ]
+    },
+    {
+      "id": "taparko-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Taparko Gold Mine, located in the Sanmatenga province, holds the historic distinction of being Burkina Faso's first modern industrial gold mine. Opened in 2007, it marked the beginning of the country's transformation into a major global gold producer. The mine is situated in the north-central part of the country and features a large-scale open-pit operation and a specialized processing facility. For over a decade, Taparko has been a vital economic anchor for the Sanmatenga province, providing thousands of jobs and supporting local businesses through its supply chain. The mine's success paved the way for the numerous other industrial operations that now define the Burkinabé economy. Taparko has also focused on significant social investment, including the provision of clean water and educational support for the neighboring communities. Although it is one of the oldest industrial sites, it remains a symbol of the birth of the modern mining era in Burkina Faso.",
+      "factsAdvanced": [
+        "Burkina Faso's first modern industrial gold mine (opened 2007)",
+        "Located in the Sanmatenga province, north-central region",
+        "Pioneered the country's transition to a mineral-led economy",
+        "Features extensive open-pit operations and a dedicated mill",
+        "Significant source of regional employment and business development",
+        "Major contributor to national fiscal revenue for over a decade",
+        "Invested heavily in local water access and community infrastructure",
+        "Symbol of the pioneering spirit of the Burkinabé mining sector"
+      ]
+    },
+    {
+      "id": "bissa-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Bissa Gold Mine, situated in the Bam province of central Burkina Faso, is a premier industrial mining asset operated by Nordgold. Since its first gold pour in 2013, Bissa has become a top-tier producer, known for its high-efficiency operations and state-of-the-art carbon-in-leach processing plant. The mine consists of several open pits that tap into the productive Birimian greenstone belt, which is the geological foundation of West African gold. Bissa is a critical economic engine for the central region, providing thousands of direct and indirect jobs and contributing substantial revenues to the state budget. The mine has also established a benchmark for environmental management and community relations, investing in large-scale reforestation and agricultural support programs for local farmers. Its strategic location near the capital facilitates efficient logistics and supply management. Bissa represents the successful implementation of modern, large-scale mining technology in the heart of the Sahel.",
+      "factsAdvanced": [
+        "Major industrial gold mine operated by Nordgold in the Bam province",
+        "Achieved first commercial production in early 2013",
+        "Top-tier contributor to national GDP and export statistics",
+        "Features a modern processing plant with high gold recovery rates",
+        "Significant employer for the central and northern provinces",
+        "Located in the highly prospective Birimian greenstone belt",
+        "Leader in local reforestation and sustainable community programs",
+        "Strategic node for the regional mining and industrial sector"
+      ]
+    },
+    {
+      "id": "karma-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Karma Gold Mine, located in the Yatenga province of northern Burkina Faso, is a significant industrial mining operation known for its innovative use of heap-leach technology. Operated by Nere Mining, the site is situated near the historic city of Ouahigouya and has been a vital part of the northern economic landscape since its commissioning in 2016. The mine consists of multiple shallow open pits that allow for a low-cost, efficient extraction process. Karma is a major source of employment in the Nord region, providing training and livelihoods in an area where industrial opportunities are otherwise limited. The operation has also focused on deep community integration, supporting local irrigation projects and healthcare initiatives to improve the quality of life for neighboring villages. Despite the semi-arid climate, the mine follows rigorous environmental protocols to manage water and minimize its footprint. Karma remains a key strategic asset in the country's diversified gold mining portfolio.",
+      "factsAdvanced": [
+        "Significant industrial gold mine located in the northern Yatenga province",
+        "Utilizes low-cost heap-leach technology for gold extraction",
+        "Began commercial mining operations and production in 2016",
+        "Vital economic driver and employer for the Nord region",
+        "Features multiple shallow open-pit mining operations",
+        "Major investor in local community health and water projects",
+        "Follows strict environmental standards for water conservation",
+        "Located near the strategic regional capital of Ouahigouya"
+      ]
+    },
+    {
+      "id": "yaramoko-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Yaramoko Gold Mine, located in the Mouhoun province of western Burkina Faso, is famous for being one of the highest-grade gold mines in the world. Operated by Fortuna Silver Mines (formerly Roxgold), the site features a sophisticated underground operation that targets high-value quartz veins. Since production began in 2016, Yaramoko has consistently delivered exceptional results, characterized by low operating costs and high gold recovery rates. The mine is a model of modern, high-tech mining in West Africa, utilizing advanced ventilation and mechanized underground equipment. Beyond its economic output, Yaramoko is a major contributor to regional development, providing specialized technical training and supporting local infrastructure projects. The mine also adheres to some of the highest international safety and environmental standards in the industry. Yaramoko represents the premium end of the Burkinabé mineral sector, showcasing the country's potential for world-class high-grade deposits.",
+      "factsAdvanced": [
+        "One of the world's highest-grade industrial gold mines",
+        "Operated by Fortuna Silver Mines in the Mouhoun province",
+        "Features sophisticated high-tech underground mining operations",
+        "Commenced commercial gold production in May 2016",
+        "Known for its high recovery rates and low-cost production profile",
+        "Significant source of technical training and regional employment",
+        "Major contributor to the national treasury and export revenue",
+        "Exemplary standards in international mine safety and environment"
+      ]
+    },
+    {
+      "id": "ziga-water-treatment-economic-v2",
+      "descriptionAdvanced": "The Ziga Water Treatment Plant and Reservoir, located northeast of Ouagadougou, is the most critical urban infrastructure project in Burkina Faso. Built to provide a permanent solution to the capital's water shortage, the facility treats water from the massive Ziga Dam before pumping it over 50 kilometers to the city. Inaugurated in 2004 and significantly expanded in 2017, Ziga now provides clean drinking water to over two million residents, supporting the rapid urbanization of the metropolis. The plant uses advanced filtration and chlorination technology to meet international quality standards, significantly reducing the prevalence of waterborne diseases in the capital. The Ziga project is also a vital economic engine, as reliable water access is a prerequisite for industrial growth and commercial activity in Ouagadougou. As a symbol of national development, Ziga represents the country's ability to manage its precious water resources for the well-being of its people.",
+      "factsAdvanced": [
+        "Primary source of clean drinking water for the capital, Ouagadougou",
+        "Treats water from the Ziga Dam, one of the country's largest reservoirs",
+        "Connected to the city via a massive 50-kilometer pipeline network",
+        "Essential for the health and sanitation of over two million urban residents",
+        "Funded through major international partnerships and the World Bank",
+        "Underwent a significant capacity expansion (Ziga II) in 2017",
+        "Utilizes modern automated filtration and purification technology",
+        "Strategic pillar of national urban planning and economic growth"
+      ]
+    },
+    {
+      "id": "cimfaso-cement-plant-economic-v2",
+      "descriptionAdvanced": "CIMFASO (Ciment de l'Afrique) is a leading industrial cement manufacturing plant located in the Ouagadougou industrial zone. Established to support the country's booming construction and infrastructure sectors, the plant utilizes state-of-the-art grinding technology to produce diverse grades of high-quality cement. CIMFASO's production is critical for reducing the cost of building materials and ensuring the timely completion of major road, housing, and industrial projects across the country. The facility is a major employer and a key driver of the national industrialization strategy, fostering a large network of local distributors and contractors. The plant is committed to environmental sustainability, implementing rigorous dust control and energy-efficient processes to minimize its urban impact. By providing a locally manufactured, high-grade product, CIMFASO has significantly enhanced Burkina Faso's industrial sovereignty and its capacity for rapid urban modernization. It remains a cornerstone of the national building materials industry.",
+      "factsAdvanced": [
+        "Premier cement manufacturing and grinding plant in Ouagadougou",
+        "Key driver of the nation's rapid construction and infrastructure boom",
+        "Provides locally manufactured, high-quality cement for the market",
+        "Significant contributor to industrial GDP and national job creation",
+        "Utilizes advanced European cement grinding and cooling technology",
+        "Supports a national network of thousands of construction contractors",
+        "Located in the strategic Kossodo industrial zone of the capital",
+        "Committed to international standards for quality and environmental safety"
+      ]
+    },
+    {
+      "id": "sofitex-koudougou-economic-v2",
+      "descriptionAdvanced": "The SOFITEX industrial complex in Koudougou is one of the most important cotton ginning centers in central Burkina Faso. As a vital part of the national cotton company's network, this facility processes the 'white gold' harvested by thousands of farmers in the Centre-Ouest region. The ginning plant is a major employer in Koudougou, revitalizing the city's historic role as a textile and agricultural hub. SOFITEX manages the entire value chain here, from providing technical support to farmers to the ginning and logistics of the final cotton lint for the global market. The facility's operations are essential for the regional economy, providing seasonal and permanent jobs and supporting local transportation and service sectors. The high-quality cotton fiber produced in Koudougou is a key export for the country, contributing to its international trade balance. The SOFITEX plant remains a symbol of the enduring importance of the cotton industry in the Burkinabé heartland.",
+      "factsAdvanced": [
+        "Major industrial cotton ginning facility located in Koudougou",
+        "Central hub for processing the 'white gold' of the Centre-Ouest",
+        "Operated by SOFITEX, the national cotton parastatal organization",
+        "Vital source of regional industrial employment and development",
+        "Manages the cotton supply chain for thousands of local farmers",
+        "Contributes significantly to national export revenue and GDP",
+        "Strategically located in the historic textile capital of the country",
+        "Supports a large-scale logistics and transport network for exports"
+      ]
+    },
+    {
+      "id": "wahgnion-gold-mine-economic-v2",
+      "descriptionAdvanced": "The Wahgnion Gold Mine, located in the Léraba province of southwestern Burkina Faso, is a major industrial mining operation that has transformed the local economy near the Malian border. Operated by Lilium Gold (formerly Teranga and Endeavour), the mine achieved its first gold pour in 2019 and features several open pits and a modern processing plant with a capacity of five million tonnes per year. Wahgnion is situated in a high-rainfall, agriculturally productive region, and the mine has focused on maintaining a harmonious relationship with local communities through extensive social and environmental programs. The operation provides thousands of jobs and has spurred the development of new infrastructure, including roads and healthcare facilities in the southwest. As a significant contributor to the national treasury, Wahgnion is a vital pillar of the country's mineral wealth. It represents the successful expansion of the industrial mining sector into the southwestern frontier.",
+      "factsAdvanced": [
+        "Major industrial gold mine located in the southwestern Léraba province",
+        "Commenced commercial gold production in late 2019",
+        "Features multiple open pits and a high-capacity processing plant",
+        "Significant employer and economic driver for the Cascades region",
+        "Operated with a strong focus on community development and health",
+        "Located in the prospective Birimian greenstone belt of the southwest",
+        "Major contributor to national export revenue and fiscal stability",
+        "Utilizes advanced water management systems for high-rainfall zones"
+      ]
+    },
+    {
+      "id": "pouytenga-cattle-market-economic-v2",
+      "descriptionAdvanced": "The Pouytenga Cattle Market is one of the largest and most influential livestock trading hubs in West Africa, acting as the primary engine for the region's meat and cattle trade. Located at a strategic road junction in central Burkina Faso, the market attracts thousands of sellers and buyers from across the Sahel and as far as Ghana, Togo, and Ivory Coast. Every day, thousands of cattle, goats, and sheep are traded here, making it a critical node for regional food security and pastoral livelihoods. The market's influence extends far beyond its physical boundaries, as it sets the benchmark prices for livestock across the region. Historically, Pouytenga has been the heart of the Yarse and Mossi trading networks, fostering a dynamic and resilient merchant culture. The livestock sector is the country's third-largest export, and the Pouytenga market is its most vibrant commercial pulse point. It remains a vital symbol of the entrepreneurial energy and the regional integration of the Burkinabé economy.",
+      "factsAdvanced": [
+        "One of West Africa's largest and most significant livestock markets",
+        "Strategic regional hub for the trade of cattle, goats, and sheep",
+        "Attracts international traders from across the Sahel and Gulf of Guinea",
+        "Sets the benchmark prices for the regional livestock and meat sector",
+        "Critical node for the national export economy and food security",
+        "Located at a major crossroads in the central Kouritenga province",
+        "Drives a massive secondary economy in transport and services",
+        "Vital cultural and economic landmark for the Yarse and Mossi traders"
+      ]
+    },
+    {
+      "id": "sonabhy-péni-depot-economic-v2",
+      "descriptionAdvanced": "The SONABHY Péni Depot is a critical petroleum storage and distribution facility located near Bobo-Dioulasso, serving as the energy backbone for western and southwestern Burkina Faso. This strategic inland terminal receives fuel primarily via the international corridor from the port of Abidjan, ensuring a steady supply of gasoline, diesel, and lubricants for the country's second-largest city and the industrial west. Operated by the national state-owned oil company, the Péni depot is equipped with high-capacity storage tanks and modern automated loading systems that facilitate the rapid distribution of energy products. Its operation is vital for maintaining the continuous functioning of the regional transport sector, agro-industries, and mining operations. The facility also plays a key role in national energy security, providing a strategic reserve that stabilizes prices and supply during regional disruptions. The Péni depot is a symbol of the country's logistical efforts to maintain energy sovereignty in a landlocked environment.",
+      "factsAdvanced": [
+        "Critical petroleum storage and distribution hub for western Burkina Faso",
+        "Strategic energy facility serving Bobo-Dioulasso and the southwest",
+        "Operated by SONABHY, the national state-owned hydrocarbon company",
+        "Receives essential fuel supplies from the Abidjan international corridor",
+        "Ensures energy security for regional industries, mines, and transport",
+        "Features high-capacity storage tanks and modern distribution systems",
+        "Located in Péni, strategically positioned near the industrial west",
+        "Vital for stabilizing regional fuel supply and national energy costs"
+      ]
+    },
+    {
+      "id": "cimasso-bobo-dioulasso-economic-v2",
+      "descriptionAdvanced": "CIMASSO is a major industrial cement manufacturing and bagging plant located in Bobo-Dioulasso, the industrial capital of Burkina Faso. As a key player in the national building materials sector, the plant services the western and southern regions, providing the high-quality cement required for their rapid infrastructure and urban development. The facility utilizes state-of-the-art grinding technology and automated packing systems to meet the massive regional demand. CIMASSO's presence in Bobo-Dioulasso has significantly reduced the cost of construction in the west, fostering local housing projects and industrial expansion. The company is a major employer in the region and supports a vast network of local distributors and contractors. Committed to international quality standards, CIMASSO implements rigorous environmental controls to manage its industrial impact on the urban surroundings. The plant remains a symbol of the industrial decentralization and economic vitality of western Burkina Faso.",
+      "factsAdvanced": [
+        "Major cement production and bagging plant in Bobo-Dioulasso",
+        "Primary supplier of building materials for the western and southern regions",
+        "Significant contributor to the industrial GDP of the Hauts-Bassins",
+        "Utilizes advanced grinding and automated packaging technology",
+        "Vital for reducing the cost of regional construction and urban growth",
+        "Major employer and driver of the western industrial supply chain",
+        "Committed to high international standards for cement quality and safety",
+        "Strategic node for the regional building materials and logistics sector"
+      ]
+    },
+    {
+      "id": "zina-solar-power-station-economic-v2",
+      "descriptionAdvanced": "The Zina Solar Power Station, located in the Mouhoun province, is one of Burkina Faso's most significant and newest renewable energy projects. Inaugurated as part of the nation's ambitious strategy to diversify its energy mix, the plant has a peak capacity of 26 megawatts, providing clean electricity to tens of thousands of homes. The project was developed through an independent power producer (IPP) model, demonstrating the country's success in attracting private investment to the green energy sector. Zina's operation significantly reduces the reliance on thermal power plants and expensive electricity imports, contributing to national energy sovereignty and price stability. The facility features thousands of state-of-the-art photovoltaic panels that utilize the intense Sahelian sunlight to generate power for the national grid. This solar plant is a key pillar of the 'Desert to Power' initiative, highlighting Burkina Faso's role as a regional leader in the transition to sustainable and decentralized energy solutions.",
+      "factsAdvanced": [
+        "Major 26-megawatt solar power station in the Mouhoun province",
+        "Developed through an innovative independent power producer (IPP) model",
+        "Key component of the national strategy for energy diversification",
+        "Provides clean and renewable electricity to thousands of Burkinabé homes",
+        "Significant contributor to the 'Desert to Power' regional initiative",
+        "Reduces national dependence on imported fossil fuels and thermal power",
+        "Utilizes advanced photovoltaic technology for high-efficiency generation",
+        "Symbol of private sector investment in the Burkinabé green economy"
+      ]
+    },
+    {
+      "id": "dédougou-cotton-gin-economic-v2",
+      "descriptionAdvanced": "The SOFITEX cotton ginning facility in Dédougou is a cornerstone of the agricultural economy in the Boucle du Mouhoun, the country's most productive 'cotton belt.' This massive industrial complex processes the 'white gold' harvested by tens of thousands of smallholder farmers across the fertile plains of the Mouhoun valley. The ginning plant is a vital link in the national export chain, turning raw seed cotton into high-quality lint for the global market and seeds for oil production. Historically, Dédougou has been a center of the cotton industry, and this facility is one of the region's largest industrial employers. The operation provides essential income for rural families and supports a large-scale logistics and transport network. By adding value to the primary harvest locally, the Dédougou cotton gin significantly boosts the regional GDP and national export revenue. It remains a symbol of the industrial pride and agricultural wealth of western Burkina Faso.",
+      "factsAdvanced": [
+        "Major industrial cotton ginning complex located in Dédougou",
+        "Strategic processing hub for the country's primary 'cotton belt'",
+        "Operated by SOFITEX to manage the regional white gold value chain",
+        "Processes raw cotton for international export and local oil production",
+        "One of the largest industrial employers in the Boucle du Mouhoun",
+        "Essential for the economic livelihoods of thousands of rural farmers",
+        "Major contributor to national export revenue and trade balance",
+        "Supports a vast regional network of logistics and transport services"
+      ]
+    },
+    {
+      "id": "kou-valley-rice-mills-economic-v2",
+      "descriptionAdvanced": "The Kou Valley Rice Mills, located near Bobo-Dioulasso, are the industrial heart of Burkina Faso's most successful intensive rice production project. These mills process the high-quality paddy rice harvested from thousands of hectares of irrigated fields in the fertile Kou valley. Historically, this region was transformed in the 1970s through a massive hydraulic and agricultural development project that now serves as a national model for food self-sufficiency. The mills utilize modern cleaning, husking, and polishing technology to produce premium Burkinabé rice that competes with imports in the urban markets of the west. The facility is a vital engine for the local economy, providing livelihoods for thousands of farmers, mill workers, and traders. By ensuring a steady supply of domestic rice, the Kou Valley mills play a critical role in national food security and regional prosperity. They stand as a symbol of the country's potential to achieve agricultural sovereignty through managed water resources.",
+      "factsAdvanced": [
+        "Primary industrial rice processing hub in the western Kou Valley",
+        "Processes the harvest from one of the country's largest irrigation projects",
+        "Critical for national food security and rice self-sufficiency",
+        "Produces premium local rice for the Bobo-Dioulasso and national markets",
+        "Vital source of income for thousands of smallholder rice farmers",
+        "Utilizes modern industrial husking and polishing technology",
+        "Symbol of the success of the national hydraulic and agricultural policy",
+        "Key driver of the regional agro-industrial economy in the west"
+      ]
+    }
+  ]
+}

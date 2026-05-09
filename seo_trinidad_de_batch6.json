@@ -1,0 +1,379 @@
+{
+  "lang": "de",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-point-lisas-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Point Lisas ist das industrielle Tor von Trinidad und Tobago zur Welt und einer der spezialisiertesten Tiefwasserhäfen in der Karibik. Als zentraler Bestandteil des Point Lisas Industrial Estate ist der Hafen primär auf den Export von petrochemischen Produkten wie Methanol, Ammoniak und Harnstoff sowie auf den Umschlag von Flüssigerdgas (LNG) ausgerichtet. Die hochmoderne Infrastruktur umfasst spezialisierte Piers für Gastanker und Containerterminals, die einen reibungslosen Ablauf des internationalen Handels garantieren. Der Hafen spielt eine entscheidende Rolle für die nationale Devisenbeschaffung und ist ein Symbol für die industrielle Stärke des Landes. Im Unterricht (Geographie/Wirtschaft K8) wird der Hafen von Point Lisas als Beispiel für spezialisierte Hafeninfrastruktur und deren Bedeutung für die exportorientierte Schwerindustrie behandelt.",
+      "factsAdvanced": [
+        "Führender Exporthafen für Methanol und Ammoniak weltweit.",
+        "Zentraler Bestandteil des größten Industriegebiets der Region.",
+        "Spezialisierte Terminals für flüssige und trockene Massengüter.",
+        "Strategische Lage am Golf von Paria mit tiefem Fahrwasser.",
+        "Umschlagplatz für Rohstoffe der Stahl- und Düngemittelindustrie.",
+        "Modernstes Containerterminal in der südlichen Karibik.",
+        "Motor der trinidadischen Exportwirtschaft.",
+        "Thema: Hafenwirtschaft und Welthandel (K8)."
+      ]
+    },
+    {
+      "id": "tt-port-of-spain-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Port of Spain ist das maritime Herz der Hauptstadt und der wichtigste Mehrzweckhafen von Trinidad und Tobago. Während Point Lisas auf Industrie spezialisiert ist, schlägt der Hafen von Port of Spain den Großteil der Konsumgüter, Fahrzeuge und Nahrungsmittel für den heimischen Markt um. Als zentraler Knotenpunkt für den Containerverkehr verbindet er die Insel mit globalen Schifffahrtslinien. Zudem dient der Hafen als wichtigstes Terminal für die Fährverbindungen zwischen Trinidad und Tobago, was ihn zu einem lebenswichtigen Bindeglied für den innerstaatlichen Personen- und Warenverkehr macht. Die kontinuierliche Modernisierung der Kräne und Lagereinrichtungen sichert die Effizienz der nationalen Logistikkette. Im Unterricht (Geographie K7-K8) dient der Hafen als Beispiel für einen Mehrzweckhafen und dessen Rolle in der Versorgungsökonomie eines Inselstaates.",
+      "factsAdvanced": [
+        "Wichtigster Umschlagplatz für Container und Konsumgüter.",
+        "Zentrales Terminal für die Fährverbindung nach Tobago.",
+        "Traditionelles maritimes Tor der Hauptstadt Port of Spain.",
+        "Bedeutender Arbeitgeber im Logistik- und Dienstleistungssektor.",
+        "Verfügt über umfangreiche Lagerkapazitäten und Kühlanlagen.",
+        "Anbindung an internationale Routen nach Europa und Amerika.",
+        "Lebenswichtige Versorgungsader für die gesamte Bevölkerung.",
+        "Thema: Logistikketten und Binnenhandel (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-la-brea-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von La Brea, gelegen im Südwesten von Trinidad, hat sich von einem historischen Asphalt-Exporthafen zu einem modernen Logistikzentrum für die Energieindustrie entwickelt. In unmittelbarer Nähe zum Pitch Lake gelegen, diente er über ein Jahrhundert lang dem weltweiten Versand von natürlichem Asphalt. Heute ist der Hafen Teil des Labidco (La Brea Industrial Development Company) Komplexes und bietet spezialisierte Dienstleistungen für die Offshore-Öl- und Gasindustrie sowie für die Fertigung großer industrieller Komponenten. Die tiefen Gewässer und die weitläufigen Lagerflächen machen La Brea zu einem attraktiven Standort für Schwergutumschlag. Im Geographieunterricht (K8) wird der Hafen von La Brea als Beispiel für die Diversifizierung historischer Hafenstandorte und deren Bedeutung für die industrielle Entwicklung des Südens behandelt.",
+      "factsAdvanced": [
+        "Historischer Exporthafen für natürlichen Asphalt.",
+        "Heute modernes Zentrum für Offshore-Logistik und Schwergut.",
+        "Teil der strategischen industriellen Erschließung im Südwesten.",
+        "Bietet tiefe Ankerplätze für Industrieschiffe und Bohrinseln.",
+        "Wichtiger Standort für die Montage von Offshore-Plattformen.",
+        "Motor für die wirtschaftliche Belebung der Region La Brea.",
+        "Anbindung an das nationale Straßennetz für Schwerlasttransporte.",
+        "Thema: Industrieller Wandel und Küstennutzung (K8)."
+      ]
+    },
+    {
+      "id": "tt-tembladora-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen Tembladora, westlich von Port of Spain in der Nähe von Carenage gelegen, ist eine hochspezialisierte Anlage, die primär für den Umschlag von Bauxit errichtet wurde. Er dient als Transitstation, wo Bauxiterz aus Guyana und Surinam zwischengelagert und von kleineren Flussschiffen auf große Hochseeschiffe für den weltweiten Export umgeladen wird. Diese Funktion als 'Transshipment Hub' macht Tembladora zu einem einzigartigen Glied in der globalen Aluminium-Wertschöpfungskette. Die charakteristischen gewaltigen Förderbänder und Silos prägen das Küstenbild. Der Hafen zeigt die strategische Bedeutung Trinidads als logistisches Bindeglied zwischen südamerikanischen Rohstoffen und Weltmärkten. Im Unterricht (Geographie K8) wird Tembladora als Beispiel für spezialisierte Transit-Hafeninfrastruktur und regionale wirtschaftliche Kooperation behandelt.",
+      "factsAdvanced": [
+        "Spezialisierter Transithafen für den Bauxitumschlag.",
+        "Wichtiges Bindeglied in der karibischen Aluminiumindustrie.",
+        "Umladestation von Fluss- auf Hochseeschiffe.",
+        "Bedeutende Silokapazitäten für mineralische Rohstoffe.",
+        "Gelegen in einer geschützten Bucht westlich der Hauptstadt.",
+        "Beispiel für grenzüberschreitende logistische Zusammenarbeit.",
+        "Prägnante industrielle Architektur an der Westküste.",
+        "Thema: Rohstofflogistik und Transitverkehr (K8)."
+      ]
+    },
+    {
+      "id": "tt-savonetta-port-economic-v2",
+      "descriptionAdvanced": "Die Savonetta Piers sind ein spezialisierter Teil des Hafens von Point Lisas und bilden die primäre Schnittstelle für den Export von flüssigen Massengütern aus der petrochemischen Industrie. Hier werden gewaltige Mengen an flüssigem Ammoniak und Methanol in internationale Tankschiffe verladen. Die Piers sind mit hochkomplexen Rohrleitungssystemen direkt mit den umliegenden Fabriken verbunden, was eine extrem effiziente und sichere Verladung ermöglicht. Savonetta repräsentiert die Spitze der maritimen Industrietechnik in Trinidad und Tobago. Die Sicherheitsprotokolle an diesem Standort gehören zu den strengsten der Welt, um Unfälle mit gefährlichen Gütern zu vermeiden. Für Schüler (Chemie/Geographie K8) verdeutlichen die Savonetta Piers die logistische Verbindung zwischen industrieller Produktion und globalem Transport von Gefahrengütern.",
+      "factsAdvanced": [
+        "Spezialisierte Piers für flüssige petrochemische Produkte.",
+        "Hauptausfuhrpunkt für Methanol und Ammoniak.",
+        "Direkte Pipeline-Anbindung an die Produktionsanlagen.",
+        "Teil des hochmodernen Point Lisas Hafenkomplexes.",
+        "Höchste Sicherheitsstandards für den Gefahrgutumschlag.",
+        "Strategischer Pfeiler der trinidadischen Exportwirtschaft.",
+        "Effiziente Beladungssysteme für internationale Großtanker.",
+        "Thema: Industrielle Logistik und Sicherheit (K8)."
+      ]
+    },
+    {
+      "id": "tt-chaguaramas-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Chaguaramas an der nordwestlichen Halbinsel von Trinidad hat sich von einem ehemaligen US-Militärstützpunkt zu einem führenden Zentrum für maritime Dienstleistungen und den Jachtsport in der Karibik entwickelt. Die geschützte Lage und das tiefe Wasser machen ihn zu einem idealen Ort für Werften, Jachthäfen und die Wartung von Schiffen für die Offshore-Industrie. Chaguaramas ist bekannt für seine erstklassigen Reparaturdocks und Dienstleister für die internationale Jacht-Community. Zudem dient der Hafen als Basis für die Öl- und Gasexploration im Norden und Westen der Insel. Die Kombination aus industrieller Nutzung und Freizeitmarinas macht den Standort einzigartig. Im Unterricht (Geographie K8) wird Chaguaramas als Beispiel für die Konversion militärischer Flächen und die Entwicklung eines spezialisierten maritimen Dienstleistungssektors behandelt.",
+      "factsAdvanced": [
+        "Zentrum für Jachtservice und Schiffswartung in der Karibik.",
+        "Ehemaliger strategischer US-Marinestützpunkt während des WWII.",
+        "Standort großer Trockendocks und industrieller Werften.",
+        "Wichtige Basis für die Offshore-Energie-Logistik.",
+        "Beliebter Jachthafen für internationale Segler.",
+        "Mischung aus militärischer Geschichte und moderner Marina.",
+        "Strategische Lage am westlichen Ende der Insel.",
+        "Thema: Konversionsflächen und maritime Dienste (K8)."
+      ]
+    },
+    {
+      "id": "tt-scaborough-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Scarborough ist die wirtschaftliche Lebensader von Tobago und das wichtigste maritime Tor der Insel. Hier legen die großen inter-island Fähren aus Port of Spain an, die täglich Passagiere, Fahrzeuge und lebensnotwendige Güter transportieren. Zudem verfügt der Hafen über ein modernes Kreuzfahrtterminal, das die Insel mit dem internationalen Tourismusmarkt verbindet. Der Hafen ist das administrative und logistische Zentrum für den gesamten Warenverkehr nach Tobago; fast alle importierten Lebensmittel und Baumaterialien passieren diesen Standort. Die geplante Erweiterung und Modernisierung soll die Kapazitäten für größere Schiffe erhöhen. Im Unterricht (Geographie K7-K8) dient der Hafen von Scarborough als Beispiel für die Abhängigkeit einer Inselökonomie von effizienten Fährverbindungen und Hafeninfrastruktur.",
+      "factsAdvanced": [
+        "Wichtigster Hafen und Versorgungszentrum für Tobago.",
+        "Zentrales Terminal für die Inter-Island Fährverbindung.",
+        "Modernes Anlegesystem für internationale Kreuzfahrtschiffe.",
+        "Umschlagplatz für fast alle Güter des täglichen Bedarfs.",
+        "Wirtschaftliches Herz der Hauptstadt Scarborough.",
+        "Anbindung an den regionalen und internationalen Seeverkehr.",
+        "Lebenswichtige Schnittstelle zwischen Trinidad und Tobago.",
+        "Thema: Inselversorgung und Tourismuslogistik (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-guayaguayare-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Guayaguayare im Südosten von Trinidad ist die primäre Logistikbasis für die Offshore-Öl- und Gasförderung im Atlantik. Aufgrund seiner strategischen Nähe zu den größten Gasfeldern des Landes dient der Hafen als Versorgungs- und Wartungszentrum für Bohrplattformen und Versorgungsschiffe. Er beherbergt spezialisierte Docks für die Verladung von Ausrüstung und Personaltransfer. Die Entwicklung des Hafens hat die ehemals isolierte Region Guayaguayare in einen kritischen Pfeiler der nationalen Energiestrategie verwandelt. Die Hafenaktivitäten sind eng mit den globalen Energiemärkten verknüpft. Im Unterricht (Geographie/Wirtschaft K8) wird der Hafen Guayaguayare als Beispiel für spezialisierte Industriehäfen im Kontext der Offshore-Ressourcengewinnung und regionalen Erschließung behandelt.",
+      "factsAdvanced": [
+        "Wichtigste Versorgungsbasis für Offshore-Energieanlagen.",
+        "Strategische Lage nahe den Atlantik-Gasfeldern.",
+        "Zentrum für Personaltransfer und Logistik der Ölindustrie.",
+        "Wirtschaftsmotor für den ländlichen Südosten Trinidads.",
+        "Beherbergt spezialisierte Werft- und Wartungsanlagen.",
+        "Knotenpunkt für internationale Energieunternehmen.",
+        "Teil der kritischen nationalen Infrastruktur.",
+        "Thema: Offshore-Industrie und Logistik (K8)."
+      ]
+    },
+    {
+      "id": "tt-point-fortin-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Point Fortin ist das Zentrum der Flüssigerdgas-Industrie (LNG) in der Karibik und beherbergt das Terminal der Atlantic LNG. Dieser hochspezialisierte Hafen ist darauf ausgelegt, gewaltige LNG-Tanker sicher abzufertigen, die das in Trinidad verflüssigte Erdgas in alle Welt transportieren. Die Hafeninfrastruktur umfasst riesige Speichertanks und komplexe Verladevorrichtungen, die modernste kryogene Technologie nutzen. Point Fortin spielt eine Schlüsselrolle in der globalen Energieversorgung und hat die Stadt von einem Ölstandort zu einem Erdgas-Zentrum transformiert. Die Sicherheitsvorkehrungen am Hafen gehören zu den strengsten der Welt. Im Geographieunterricht (K8) wird der Hafen von Point Fortin als Beispiel für technologisch hochentwickelte Exporthäfen und die Bedeutung von LNG für den Welthandel behandelt.",
+      "factsAdvanced": [
+        "Einer der bedeutendsten LNG-Exporthäfen weltweit.",
+        "Heimat des Atlantic LNG Verflüssigungsterminals.",
+        "Spezialisierte Infrastruktur für kryogenen Gastransport.",
+        "Wirtschaftlicher Anker für den Südwesten Trinidads.",
+        "Umschlagplatz für Milliarden von Kubikmetern Erdgas.",
+        "Technologisches Spitzenzentrum der maritimen Energielogistik.",
+        "Kritische Komponente des nationalen BIP.",
+        "Thema: Erdgasexport und Globalisierung (K8)."
+      ]
+    },
+    {
+      "id": "tt-cedros-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Cedros an der südwestlichen Spitze von Trinidad dient als wichtiges Tor für den regionalen Handel und den Personenverkehr mit dem benachbarten Venezuela. Als offizieller Grenzposten ist er der zentrale Punkt für Zoll- und Einwanderungsformalitäten im Südwesten. Der Hafen wird primär von kleineren Handelsschiffen, Fischerbooten und privaten Fähren genutzt. Er spielt eine entscheidende Rolle für die Versorgung der lokalen Gemeinden und als Umschlagplatz für frische Meeresfrüchte. Trotz seiner bescheidenen Größe ist die strategische Bedeutung von Cedros für die Überwachung der Küstengewässer und die Regulierung des grenzüberschreitenden Handels enorm. Im Unterricht (Geographie K7) wird der Hafen von Cedros als Beispiel für einen regionalen Grenzhafen und dessen Bedeutung für die nachbarschaftlichen Beziehungen behandelt.",
+      "factsAdvanced": [
+        "Offizieller Grenz- und Zollhafen nach Venezuela.",
+        "Zentraler Punkt für den regionalen Handel im Südwesten.",
+        "Wichtiger Umschlagplatz für die lokale Fischerei.",
+        "Stützpunkt für die Küstenwache zur Grenzsicherung.",
+        "Lebensader für die abgelegene Halbinsel Cedros.",
+        "Knotenpunkt für informelle und formelle Handelswege.",
+        "Spiegelt die geographische Nähe zu Südamerika wider.",
+        "Thema: Grenzgeographie und regionaler Seeverkehr (K7)."
+      ]
+    },
+    {
+      "id": "tt-petrotrin-industrial-v2",
+      "descriptionAdvanced": "Das Industriegebiet von Petrotrin (ehemals die staatliche Ölgesellschaft) in Pointe-à-Pierre ist das historische Zentrum der Ölraffinierung in Trinidad. Über Jahrzehnte hinweg wurde hier das heimische Rohöl zu Benzin, Kerosin und Schmierstoffen für den lokalen und regionalen Markt verarbeitet. Die markante Skyline der Raffinerie mit ihren Schornsteinen und gewaltigen Tanks prägt den Golf von Paria. Obwohl der Raffineriebetrieb 2018 eingestellt wurde, bleibt das Gelände ein kritischer Standort für die Lagerung und den Vertrieb von Treibstoffen sowie für spezialisierte Industriedienstleistungen. Das Areal ist ein Symbol für die industrielle Ära des 20. Jahrhunderts. Im Unterricht (Geographie/Wirtschaft K8) wird Petrotrin als Beispiel für industrielle Entwicklung, die Bedeutung der Rohölverarbeitung und den Strukturwandel im Energiesektor behandelt.",
+      "factsAdvanced": [
+        "Historisches Zentrum der Ölraffinierung (Pointe-à-Pierre).",
+        "Einst größter Arbeitgeber im Industriesektor des Landes.",
+        "Umfangreiche Infrastruktur für Lagerung und Export von Öl.",
+        "Zentral gelegen am Golf von Paria mit eigenem Hafen.",
+        "Symbol für das Zeitalter des 'schwarzen Goldes'.",
+        "Heute bedeutendes Terminal für Import und Logistik.",
+        "Prägt die industrielle Identität von Süd-Trinidad.",
+        "Thema: Ölindustrie und industrieller Wandel (K8)."
+      ]
+    },
+    {
+      "id": "tt-tringen-industrial-v2",
+      "descriptionAdvanced": "Tringen (Trinidad Nitrogen Company Limited) ist ein bedeutendes Joint Venture in Point Lisas, das sich auf die großindustrielle Produktion von Ammoniak spezialisiert hat. Die Anlage nutzt das reichlich vorhandene Erdgas der Insel als Rohstoff für die Synthese von Ammoniak, einem Grundbaustein für die weltweite Düngemittelproduktion. Tringen betreibt mehrere hocheffiziente Produktionslinien und trägt maßgeblich dazu bei, dass Trinidad einer der größten Exporteure von stickstoffbasierten Düngemitteln weltweit ist. Die industrielle Anlage ist ein Beispiel für erfolgreiche internationale Partnerschaften und technologischen Transfer. Im Unterricht (Chemie/Wirtschaft K8) wird Tringen zur Veranschaulichung der Wertschöpfungskette von Erdgas zu Düngemitteln und der Bedeutung der globalen Nahrungsmittelversorgung durch Agrarchemie genutzt.",
+      "factsAdvanced": [
+        "Großproduzent von Ammoniak für den Weltmarkt.",
+        "Joint Venture zwischen Staat und internationalen Partnern.",
+        "Zentraler Akteur im Point Lisas Industrie-Cluster.",
+        "Nutzt Erdgas zur Herstellung hochwertiger Industriegüter.",
+        "Beitrag zur globalen Düngemittelproduktion und Welternährung.",
+        "Technologisch fortschrittliche Produktionsverfahren.",
+        "Wichtiger Devisenbringer für die nationale Wirtschaft.",
+        "Thema: Petrochemie und Agrarwirtschaft (K8)."
+      ]
+    },
+    {
+      "id": "tt-methanex-industrial-v2",
+      "descriptionAdvanced": "Methanex in Point Lisas betreibt einige der weltweit größten Anlagen zur Herstellung von Methanol aus Erdgas. Als globaler Marktführer in der Methanolproduktion nutzt das Unternehmen die strategischen Vorteile Trinidads, um Kunden in Nordamerika, Europa und Asien zu beliefern. Methanol ist ein vielseitiger chemischer Grundstoff, der in der Herstellung von Kunststoffen, Treibstoffen und Farben unverzichtbar ist. Die Anlagen von Methanex zeichnen sich durch höchste Effizienz und Umweltstandards aus. Die Präsenz von Methanex in Trinidad unterstreicht die Rolle des Landes als globaler Hub für die Gasverarbeitung. Für Schüler (Chemie/Wirtschaft K8) bietet Methanex ein Beispiel für die industrielle Verwertung von Erdgas in der chemischen Industrie und die Bedeutung von Standortfaktoren für globale Konzerne.",
+      "factsAdvanced": [
+        "Weltgrößte Methanol-Produktionsanlage an einem Standort.",
+        "Hauptakteur in der Wertschöpfungskette von Erdgas.",
+        "Methanol als Basis für Kunststoffe und alternative Kraftstoffe.",
+        "Hochmoderne Industrieanlagen mit globalen Standards.",
+        "Exportorientierte Produktion für Weltmärkte.",
+        "Wesentlicher Teil des trinidadischen Chemie-Clusters.",
+        "Bedeutender Partner für technologische Innovation.",
+        "Thema: Chemische Industrie und Welthandel (K8)."
+      ]
+    },
+    {
+      "id": "tt-centrin-industrial-v2",
+      "descriptionAdvanced": "Centrin (Central Trinidad Steel Limited) ist ein bedeutender Akteur in der Stahlindustrie von Trinidad und Tobago, gelegen im Herzen des Point Lisas Industriegebiets. Das Unternehmen ist auf die Herstellung von hochwertigen Stahlerzeugnissen wie Bewehrungsstahl und Draht spezialisiert, die sowohl in der heimischen Bauindustrie als auch im regionalen Export verwendet werden. Centrin repräsentiert die metallurgische Säule der nationalen Industrie, die auf der Nutzung preiswerter Energiequellen zur Metallverarbeitung basiert. Die Anlage zeigt, wie Trinidad seine Energieressourcen nutzt, um in energieintensive Industriezweige wie die Stahlproduktion zu diversifizieren. Im Unterricht (Wirtschaft K8) wird Centrin als Beispiel für die Schwerindustrie und deren Rolle für die nationale Infrastrukturentwicklung und Exportwirtschaft behandelt.",
+      "factsAdvanced": [
+        "Bedeutender Hersteller von Stahlprodukten in Point Lisas.",
+        "Spezialisiert auf Baustahl für den regionalen Markt.",
+        "Beispiel für energieintensive Industrie in Trinidad.",
+        "Wichtiger Zulieferer für die Karibische Bauindustrie.",
+        "Teil der industriellen Diversifizierungsstrategie.",
+        "Nutzt modernste Walzwerktechnologie zur Fertigung.",
+        "Stärkt die Unabhängigkeit bei strategischen Baumaterialien.",
+        "Thema: Schwerindustrie und Bauwirtschaft (K8)."
+      ]
+    },
+    {
+      "id": "tt-nu-iron-industrial-v2",
+      "descriptionAdvanced": "Nu-Iron Unlimited in Point Lisas ist eine technologisch wegweisende Anlage zur Produktion von direkt reduziertem Eisen (DRI). Im Gegensatz zur herkömmlichen Hochofenroute nutzt Nu-Iron Erdgas, um Sauerstoff aus Eisenerz zu entfernen und so ein hochwertiges Vorprodukt für die Stahlherstellung zu gewinnen. Diese Methode ist energieeffizienter und umweltfreundlicher als traditionelle Verfahren. Die Anlage ist eine der modernsten ihrer Art weltweit und unterstreicht die Kompetenz Trinidads in der metallurgischen Gasnutzung. Nu-Iron exportiert den Großteil seiner Produktion an Stahlwerke in den USA. Im Unterricht (Chemie/Physik/Wirtschaft K8) dient Nu-Iron als Beispiel für moderne metallurgische Verfahren (Reduktion), Energieeffizienz und die Integration in globale Industrieketten.",
+      "factsAdvanced": [
+        "Modernste Anlage für direkt reduziertes Eisen (DRI).",
+        "Einsatz von Erdgas statt Kohle für die Eisenreduktion.",
+        "Wichtiger Lieferant für die nordamerikanische Stahlindustrie.",
+        "Umweltfreundlichere Technologie im Vergleich zum Hochofen.",
+        "Hohe Wertschöpfung durch Veredelung von Eisenerz.",
+        "Zentraler Bestandteil des Metallurgie-Clusters in Point Lisas.",
+        "Technologieführerschaft in der Gasmethode.",
+        "Thema: Industrielle Innovation und Metallurgie (K8)."
+      ]
+    },
+    {
+      "id": "tt-caroni-sugar-industrial-v2",
+      "descriptionAdvanced": "Das Industrieareal von Caroni (1975) Limited erinnert an die Ära, als Zucker das wirtschaftliche Schicksal von Trinidad bestimmte. Über Jahrzehnte hinweg war Caroni das größte Agrar- und Industrieunternehmen des Landes, das tausende von Menschen beschäftigte und weite Teile Zentral-Trinidads kontrollierte. Die industriellen Anlagen umfassten gewaltige Mühlen und Raffinerien, in denen das Zuckerrohr der umliegenden Felder verarbeitet wurde. Obwohl die staatliche Zuckerindustrie 2003 geschlossen wurde, bleiben die Standorte wie Usine Ste. Madeleine wichtige Denkmäler der Sozial- und Wirtschaftsgeschichte. Heute werden die Flächen für Wohnungsbau, Landwirtschaft und neue Gewerbegebiete genutzt. Im Unterricht (Geschichte/Geographie K7-K8) wird Caroni als Beispiel für die Monokultur, die Plantagenwirtschaft und deren sozioökonomisches Erbe behandelt.",
+      "factsAdvanced": [
+        "Historisches Zentrum der nationalen Zuckerindustrie.",
+        "Ehemals größter Landbesitzer und Arbeitgeber des Landes.",
+        "Standort der monumentalen Usine Ste. Madeleine Mühle.",
+        "Prägte die demographische und soziale Struktur Zentral-Trinidads.",
+        "Heute Symbol für den Übergang in die post-agrare Ära.",
+        "Flächen werden für neue Wohn- und Agrarprojekte genutzt.",
+        "Wichtiges Kapitel der kolonialen und postkolonialen Geschichte.",
+        "Thema: Strukturwandel und Erbe der Zuckerwirtschaft (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-trinidad-cement-industrial-v2",
+      "descriptionAdvanced": "Trinidad Cement Limited (TCL) in Claxton Bay ist der führende Baustoffproduzent der Karibik. Das riesige Werksgelände am Golf von Paria umfasst sowohl den Abbau von Kalkstein als auch die hochindustrielle Produktion von Zement in gewaltigen Drehrohröfen. TCL ist das Rückgrat der Bauindustrie in Trinidad und Tobago und beliefert zudem zahlreiche Inseln in der gesamten Region. Die Anlage ist ein Beispiel für die Nutzung heimischer mineralischer Ressourcen zur Herstellung wichtiger Infrastrukturgüter. Aufgrund der energieintensiven Natur der Zementherstellung profitiert TCL von der lokalen Erdgasversorgung. Die Fabrik ist ein prägendes Merkmal der Industrielandschaft von Claxton Bay. Im Unterricht (Geographie/Technik K8) wird TCL als Beispiel für die mineralische Industrie, Baustoffproduktion und deren regionale Bedeutung behandelt.",
+      "factsAdvanced": [
+        "Größter Zementhersteller in der Karibik (Claxton Bay).",
+        "Nutzt lokale Kalksteinvorkommen zur Produktion.",
+        "Zentraler Zulieferer für Infrastrukturprojekte in der Region.",
+        "Einsatz von Hochtemperaturöfen zur Klinkerherstellung.",
+        "Bedeutender Exporthafen direkt am Werksgelände.",
+        "Wichtiger Pfeiler der nationalen Bauwirtschaft.",
+        "Hoher Bedarf an heimischem Erdgas als Energieträger.",
+        "Thema: Baustoffindustrie und Ressourcenmanagement (K8)."
+      ]
+    },
+    {
+      "id": "tt-arp-industrial-v2",
+      "descriptionAdvanced": "Die Alutrint-Region oder das ARP (Alumina/Aluminium Related Projects) Industrieareal in La Brea wurde als Standort für die Ansiedlung von Aluminiumschmelzen und nachgelagerter metallverarbeitender Industrie konzipiert. Ziel war es, die reichlich vorhandene Energie Trinidads zu nutzen, um importiertes Aluminiumoxid in Aluminiumprodukte zu transformieren. Obwohl die ursprünglichen Pläne für eine große Schmelze aufgrund ökologischer und sozialer Bedenken überarbeitet wurden, bleibt das Areal ein wichtiger Fokuspunkt für industrielle Diversifizierung. Es beherbergt heute Logistikzentren und Betriebe der Leichtindustrie. Das Projekt verdeutlicht die Komplexität industrieller Planung in einem kleinen Inselstaat. Im Unterricht (Wirtschaft/Politik K8) wird das ARP-Areal zur Diskussion über Energiepolitik, industrielle Entwicklung und die Abwägung zwischen Wirtschaftswachstum und Naturschutz genutzt.",
+      "factsAdvanced": [
+        "Geplante Zone für Aluminium-Veredelung in La Brea.",
+        "Teil der Strategie zur Nutzung überschüssiger Energie.",
+        "Konfliktfeld zwischen Industrieplanung und Umweltschutz.",
+        "Heute Standort für spezialisierte Logistik und Leichtindustrie.",
+        "Zentraler Punkt der Wirtschaftsförderung im Südwesten.",
+        "Infrastrukturell an den Hafen von La Brea angebunden.",
+        "Symbol für die Herausforderungen großindustrieller Projekte.",
+        "Thema: Industrieplanung und Nachhaltigkeit (K8)."
+      ]
+    },
+    {
+      "id": "tt-chaguaramas-industrial-v2",
+      "descriptionAdvanced": "Das Industriegebiet von Chaguaramas im Nordwesten von Trinidad ist das maritime Dienstleistungszentrum des Landes. Hier konzentrieren sich spezialisierte Unternehmen für Schiffbau, Jachtreparatur und die Logistik für die Offshore-Energiebranche. Die Region nutzt ihre tiefen, geschützten Buchten, um Dienstleistungen für internationale Schiffsflotten anzubieten. Chaguaramas beherbergt moderne Trockendocks, in denen große Frachter und Bohrinseln gewartet werden. Gleichzeitig ist es ein Hub für die Herstellung von modularen Komponenten für die Ölindustrie. Die industrielle Nutzung steht hier in unmittelbarer Nachbarschaft zu Nationalparks und Freizeiteinrichtungen, was ein hohes Maß an Umweltmanagement erfordert. Im Unterricht (Geographie K8) dient Chaguaramas als Beispiel für ein spezialisiertes maritimes Industrie-Cluster und die Synergien zwischen Werften und Energiebranche.",
+      "factsAdvanced": [
+        "Wichtigstes Zentrum für Schiffbau und Jachtservice.",
+        "Beherbergt moderne Werften und Trockendocks.",
+        "Logistisches Drehkreuz für Offshore-Öl- und Gasprojekte.",
+        "Spezialisiert auf Wartung und Reparatur von Hochseeschiffen.",
+        "Strategische Lage mit tiefem Wasserzugang.",
+        "Enge Verzahnung mit internationalen Reedereien.",
+        "Motor für hochspezialisierte technische Dienstleistungen.",
+        "Thema: Maritime Industrie und Werften (K8)."
+      ]
+    },
+    {
+      "id": "tt-piarco-logistics-industrial-v2",
+      "descriptionAdvanced": "Das Logistik- und Industriegebiet rund um den Flughafen Piarco ist das luftfrachtbasierte Wirtschaftszentrum von Trinidad. Es beherbergt Freihandelszonen, Kühllager und Distributionszentren nationaler und internationaler Unternehmen. Die Nähe zum Piarco International Airport ermöglicht einen schnellen Umschlag von zeitkritischen Gütern wie Elektronik, Medikamenten und hochwertigen Agrarprodukten. Das Gebiet hat sich zu einem bevorzugten Standort für die Leichtindustrie und die Montage von Konsumgütern entwickelt. Die exzellente Anbindung an das nationale Autobahnnetz macht Piarco zu einem idealen Verteilzentrum für die gesamte Karibik. Im Geographieunterricht (K8) dient das Piarco-Industriegebiet als Beispiel für flughafennahe Logistikzentren (Aerotropolis-Konzept) und die Bedeutung von Freihandelszonen für den Export.",
+      "factsAdvanced": [
+        "Hauptzentrum für Luftfrachtlogistik und Expressversand.",
+        "Beherbergt spezialisierte Freihandelszonen (Free Zones).",
+        "Optimale Lage am internationalen Flughafen Piarco.",
+        "Zentrum für Leichtindustrie und Produktmontage.",
+        "Wichtiger Hub für den Export von hochwertigen Gütern.",
+        "Modernste Lagerinfrastruktur mit Zollanbindung.",
+        "Motor für Dienstleistungen im Bereich Supply Chain Management.",
+        "Thema: Logistik und internationaler Luftverkehr (K8)."
+      ]
+    },
+    {
+      "id": "tt-point-fortin-industry-v2",
+      "descriptionAdvanced": "Die Industriezone von Point Fortin ist das Kraftzentrum der globalen Erdgaswirtschaft in der Karibik. Als Standort von Atlantic LNG beherbergt sie eine der größten Anlagen der Welt zur Verflüssigung von Erdgas. Hier wird das Gas unter extremem Druck und niedrigen Temperaturen verflüssigt, um es für den Schiffstransport in alle Welt vorzubereiten. Neben LNG beherbergt das Gebiet auch Anlagen zur Herstellung von Industriegasen und unterstützt die regionale Energieexploration. Point Fortin hat sich von einer traditionellen 'Oil Town' zu einem hochtechnologischen 'Gas Hub' entwickelt. Die industrielle Präsenz hat die lokale Infrastruktur massiv verbessert und bietet tausende hochqualifizierte Arbeitsplätze. Im Unterricht (Geographie/Physik K8) wird Point Fortin als Beispiel für Gastechnologie, Verflüssigungsprozesse und die geopolitische Bedeutung von Erdgasexporten behandelt.",
+      "factsAdvanced": [
+        "Einer der weltweit wichtigsten Standorte für LNG-Technologie.",
+        "Zentrum der trinidadischen Erdgas-Wertschöpfungskette.",
+        "Hochmoderne Verflüssigungszüge (Trains) zur Gasverarbeitung.",
+        "Kritische Infrastruktur für die nationale Energieversorgung.",
+        "Exportiert LNG nach Nordamerika, Europa und Asien.",
+        "Motor für das regionale Wirtschaftswachstum im Südwesten.",
+        "Symbol für die technologische Transformation der Energiebranche.",
+        "Thema: Energietechnologie und Gaswirtschaft (K8)."
+      ]
+    },
+    {
+      "id": "tt-siparia-energy-industrial-v2",
+      "descriptionAdvanced": "Das Energieindustriegebiet von Siparia im Süden von Trinidad ist geprägt durch die Onshore-Ölförderung und die damit verbundenen Dienstleistungen. Die Region verfügt über ein dichtes Netz von Ölquellen, Pipelines und Pumpstationen, die seit über einem Jahrhundert betrieben werden. Siparia beherbergt zahlreiche spezialisierte Firmen für Bohrtechnik, Wartung und Infrastrukturbau im Energiesektor. Die industrielle Tätigkeit ist hier eng mit dem ländlichen Raum verwoben. Die Region spielt eine wichtige Rolle bei der Optimierung reifer Ölfelder durch moderne Techniken. Siparia dient als administratives und technisches Zentrum für den südlichen Energiesektor. Im Geographieunterricht (K8) wird das Energiegebiet Siparia als Beispiel für die Erschließung von Onshore-Ressourcen und die Herausforderungen bei der Wartung alternder Energieinfrastruktur behandelt.",
+      "factsAdvanced": [
+        "Traditionelles Zentrum der Onshore-Ölförderung Trinidads.",
+        "Dichtes Netz von aktiven Ölquellen und Förderanlagen.",
+        "Sitz zahlreicher technischer Dienstleister für den Energiesektor.",
+        "Wichtiger Standort für die Wartung nationaler Pipelines.",
+        "Fokus auf moderne Techniken zur Ölrestgewinnung (EOR).",
+        "Wirtschaftliches Rückgrat der Region Siparia.",
+        "Lange Geschichte industrieller Aktivität im ländlichen Süden.",
+        "Thema: Onshore-Energie und Ressourcennutzung (K8)."
+      ]
+    },
+    {
+      "id": "tt-la-brea-asphalt-v2",
+      "descriptionAdvanced": "Das Asphalt-Industriegebiet in La Brea ist weltweit einzigartig, da es auf der Gewinnung von natürlichem Pech aus dem Pitch Lake basiert. Lake Asphalt of Trinidad and Tobago (LATT) betreibt hier Anlagen zur Reinigung und Veredelung des Rohasphalts für den Export. Der trinidadische Asphalt gilt aufgrund seiner chemischen Stabilität als einer der besten weltweit und wurde für prestigeträchtige Projekte wie den Buckingham Palace und Flughäfen weltweit verwendet. Das Industriegebiet umfasst Verarbeitungsanlagen, Labore zur Qualitätskontrolle und Verladestationen. Es ist ein Beispiel für die nachhaltige Nutzung einer einzigartigen geologischen Ressource. Im Geographieunterricht (K8) dient das Asphaltgebiet von La Brea als Beispiel für eine naturressourcenbasierte Industrie und die Besonderheiten von Naturasphalt gegenüber Erdölasphalt.",
+      "factsAdvanced": [
+        "Einzige industrielle Anlage weltweit für natürlichen Seeasphalt.",
+        "Veredelung von Pech aus dem berühmten Pitch Lake.",
+        "Hochwertiger Exportartikel für den globalen Straßen- und Flughafenbau.",
+        "Standort von Lake Asphalt of Trinidad and Tobago (LATT).",
+        "Kombination aus traditioneller Gewinnung und moderner Chemie.",
+        "Historisch und wirtschaftlich einzigartiges Industrieareal.",
+        "Wichtigster Arbeitgeber und Wirtschaftsmotor der Gemeinde La Brea.",
+        "Thema: Einzigartige Rohstoffe und Weltmarkt (K8)."
+      ]
+    },
+    {
+      "id": "tt-point-lisas-desal-v2",
+      "descriptionAdvanced": "Die Meerwasserentsalzungsanlage in Point Lisas (Desalcott) ist eine der größten und wichtigsten ihrer Art in der westlichen Hemisphäre. Sie nutzt die Technologie der Umkehrosmose, um täglich Millionen von Litern Trinkwasser aus dem Golf von Paria zu gewinnen. Die Anlage wurde primär errichtet, um den enormen Wasserbedarf der umliegenden Schwerindustrie zu decken und gleichzeitig die wertvollen Süßwasserressourcen des Landes für die Bevölkerung zu schonen. Point Lisas Desal ist ein kritisches Element der nationalen Infrastruktur und garantiert die Betriebssicherheit des Industrie-Clusters. Im Unterricht (Geographie/Physik/Biologie K8) wird die Entsalzungsanlage als Beispiel für technisches Wassermanagement, Umkehrosmose und die Lösung von Ressourcenkonflikten in Industriegebieten behandelt.",
+      "factsAdvanced": [
+        "Größte Meerwasserentsalzungsanlage der Karibik.",
+        "Einsatz hocheffizienter Umkehrosmose-Technologie.",
+        "Sichert die Wasserversorgung für das Point Lisas Industriegebiet.",
+        "Entlastet die nationalen Süßwasserreserven für die Haushalte.",
+        "Modernste industrielle Filter- und Pumpanlagen.",
+        "Beispiel für nachhaltiges industrielles Ressourcenmanagement.",
+        "Kritisches Infrastrukturprojekt für die wirtschaftliche Stabilität.",
+        "Thema: Wassertechnologie und Industrieversorgung (K8)."
+      ]
+    },
+    {
+      "id": "tt-guayaguayare-oil-v2",
+      "descriptionAdvanced": "Das Ölindustriegebiet von Guayaguayare im Südosten von Trinidad ist das Epizentrum der historischen und modernen Energieexploration im Atlantik. Hier treffen die ältesten Onshore-Ölfelder des Landes auf die modernste Offshore-Logistik. Das Gebiet beherbergt weitläufige Tanklager, Sammelstationen für Rohöl und Landestationen für Pipelines, die das Öl von den Plattformen im Meer an Land bringen. Guayaguayare dient als technisches Zentrum für die Überwachung der südlichen Felder. Die Region ist von einer intensiven industriellen Atmosphäre geprägt, eingebettet in eine ansonsten unberührte Natur. Für Schüler (Geographie/Wirtschaft K8) verdeutlicht das Ölgebiet Guayaguayare die Komplexität der Energieinfrastruktur, von der Quelle im Meeresgrund bis zum Transport in die Raffinerien.",
+      "factsAdvanced": [
+        "Traditionelles Herz der trinidadischen Ölförderung im Südosten.",
+        "Knotenpunkt für Pipelines von den Atlantik-Offshorefeldern.",
+        "Beherbergt umfangreiche Tanklager und Verarbeitungsstationen.",
+        "Zentrum für Bohrtechnik und seismische Forschung.",
+        "Wichtiger Standort für die Wartung der Energie-Infrastruktur.",
+        "Schnittstelle zwischen Onshore-Tradition und Offshore-Moderne.",
+        "Schlüsselstelle für die nationale Rohöl-Logistik.",
+        "Thema: Energiegewinnung und Pipelinenetze (K8)."
+      ]
+    },
+    {
+      "id": "tt-point-lisas-nitrogen-v2",
+      "descriptionAdvanced": "Der Stickstoffkomplex in Point Lisas ist eines der weltweit führenden Zentren für die Herstellung von Ammoniak und Harnstoff. In mehreren hocheffizienten Anlagen wird Erdgas in wertvolle Stickstoffverbindungen umgewandelt, die vor allem als Düngemittel in der globalen Landwirtschaft zum Einsatz kommen. Die Anlage nutzt das Haber-Bosch-Verfahren im industriellen Großmaßstab und trägt dazu bei, dass Trinidad zu den Top-Exporteuren von Ammoniak gehört. Die Stickstoffproduktion ist ein wesentlicher Pfeiler des petrochemischen Clusters von Point Lisas. Im Geographieunterricht (K8) wird der Stickstoffkomplex als Beispiel für die stoffliche Nutzung von Erdgas und die Verknüpfung der trinidadischen Industrie mit der weltweiten Nahrungsmittelproduktion behandelt.",
+      "factsAdvanced": [
+        "Weltzentrum für die Produktion von Ammoniak und Stickstoff.",
+        "Nutzt modernste Haber-Bosch-Syntheseverfahren.",
+        "Hauptakteur in der globalen Düngemittel-Lieferkette.",
+        "Bedeutender Exporteur für die Agrarindustrie weltweit.",
+        "Wesentlicher Bestandteil der Gaskonversionsstrategie.",
+        "Hochspezialisierte technische Anlagen für den Dauerbetrieb.",
+        "Motor der nationalen petrochemischen Exportwirtschaft.",
+        "Thema: Petrochemie und Welternährung (K8)."
+      ]
+    }
+  ]
+}

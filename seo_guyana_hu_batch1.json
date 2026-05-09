@@ -1,0 +1,81 @@
+{
+  "lang": "hu",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "georgetown-cities-v2",
+      "descriptionAdvanced": "Georgetown, Guyana fővárosa, stratégiai fontosságú ponton fekszik a Demerara folyó torkolatánál, ahol az Atlanti-óceán vizeivel találkozik. A várost a gyarmati korszakból származó egyedülálló, fából készült építészeti remekművek határozzák meg, köztük a világhírű St. George-székesegyház, amely az egyik legmagasabb ilyen építmény a bolygón. Georgetown a kulturális sokszínűség igazi találkozóhelye, ahol az afrikai, indiai és európai gyökerek a modern kereskedelmi élettel fonódnak össze. Földrajz K7 — a folyótorkolatok és a part menti városfejlődés jelentősége.",
+      "factsAdvanced": [
+        "A várost a 18. század végén alapították a hollandok Stabroek néven.",
+        "A St. George-székesegyház a gótikus stílusú faépítészet egyik globális ikonja.",
+        "Guyana legfontosabb politikai, gazdasági és kulturális központja.",
+        "A város trópusi éghajlata egész évben magas páratartalommal és meleggel jár.",
+        "A Demerara-folyó évszázadok óta a legfontosabb közlekedési és kereskedelmi ütőér.",
+        "Georgetown kulturális élete az etnikai sokszínűségre épül."
+      ]
+    },
+    {
+      "id": "linden-cities-v2",
+      "descriptionAdvanced": "Linden, a Demerara folyó partján elterülő város, történelmileg és gazdaságilag is összefonódott a 20. századi guyanai bauxitkitermeléssel. A bányászat határozta meg a település növekedését, és ez az ipari múlt ma is érezhető a város szerkezetében és identitásában. Ma Guyana második legnagyobb városaként Linden kulcsfontosságú közlekedési és oktatási csomópontként működik, amely az ország belső, ritkábban lakott részeit köti össze a partvidékkel. Történelem K8 — az iparosodás hatása a gyarmati fejlődésre.",
+      "factsAdvanced": [
+        "Linden Guyana második legnépesebb városa.",
+        "A város létrejötte és fejlődése szorosan kapcsolódik a bauxitkitermeléshez.",
+        "Stratégiailag a Demerara-folyó középső szakaszán helyezkedik el.",
+        "Fontos oktatási központként szolgál az ország belső területei számára.",
+        "A település hivatalosan 1970-ben kapta meg a városi rangot.",
+        "Kulturálisan az ipari örökség és a környező esőerdők közelsége jellemzi."
+      ]
+    },
+    {
+      "id": "new-amsterdam-cities-v2",
+      "descriptionAdvanced": "New Amsterdam egy történelmi jelentőségű város Guyana keleti részén, a Berbice folyó torkolata közelében. A holland alapítású településen ma is megfigyelhető a koloniális múlt öröksége, amely a városi struktúrában és egyes műemlék épületekben érhető tetten. A régió kereskedelmi és mezőgazdasági központjaként kulcsfontosságú szerepet játszik az exporttevékenységekben. A folyó közelsége nemcsak közlekedési útvonalat biztosít, hanem a helyi gazdaság alapját is jelenti. Földrajz K6 — hogyan formálták a folyók a városi településhálózatot.",
+      "factsAdvanced": [
+        "A várost a holland telepesek alapították stratégiai jelentőségű folyóparti helyszínen.",
+        "New Amsterdam az East Berbice-Corentyne régió adminisztratív központja.",
+        "A Berbice-folyó létfontosságú kereskedelmi útvonal a térségben.",
+        "Építészeti megjelenésében máig felismerhetőek a koloniális hatások.",
+        "A helyi gazdaság egyik fő pillére a régió mezőgazdasági termékeinek exportja.",
+        "A kikötő a folyami és tengeri kereskedelem összekötő pontja."
+      ]
+    },
+    {
+      "id": "anna-regina-cities-v2",
+      "descriptionAdvanced": "Anna Regina a Pomeroon-Supenaam régió tengerpartján fekszik, és Guyana egyik legfontosabb mezőgazdasági körzetének központja. A települést a rizstermesztés és az ezt kiszolgáló kiterjedt csatornahálózat határozza meg, amely a part menti alföldekre jellemző táj. A város egyre inkább adminisztratív központtá fejlődik, miközben hű marad vidékies gyökereihez. A csatornák és vízrendszerek egyszerre szolgálják a mezőgazdasági öntözést és a helyi áruszállítást. Mezőgazdaság K5 — a trópusi rizstermesztés sajátosságai.",
+      "factsAdvanced": [
+        "Anna Regina a Pomeroon-Supenaam régió adminisztratív központja.",
+        "A rizstermesztés a legfontosabb gazdasági tevékenység a környéken.",
+        "A városszerkezetet az öntözési célú csatornák rendszere hatja át.",
+        "A település az atlantikai part menti gazdálkodás mintapéldája.",
+        "A népességszám és a városi infrastruktúra folyamatosan növekszik.",
+        "Központi helyet foglal el az északi parti régió kereskedelmében."
+      ]
+    },
+    {
+      "id": "bartica-cities-v2",
+      "descriptionAdvanced": "Bartica, amelyet méltán neveznek a 'belső területek kapujának', három nagy guyanai folyó, az Essequibo, a Mazaruni és a Cuyuni összefolyásánál fekszik. Ez a különleges földrajzi fekvés évszázadok óta tette a várost a bányászok és felfedezők fontos bázisává. Ma Bartica egyre inkább az ökoturizmus felé fordul, kihasználva a közeli érintetlen esőerdők, vízesések és vadvilág adta lehetőségeket. A város a kalandvágyó turisták kedvelt kiindulópontja. Történelem K8 — a feltáratlan vidékek meghódítása és kutatása.",
+      "factsAdvanced": [
+        "Bartica az Essequibo, a Mazaruni és a Cuyuni folyók találkozásánál fekszik.",
+        "Hagyományosan az arany- és gyémántbányászat bázisvárosaként volt ismert.",
+        "Manapság a guyanai ökoturizmus egyik meghatározó központja.",
+        "A folyami hajózás legfontosabb csomópontja a belső területekre irányuló utazásokhoz.",
+        "A város egyre nagyobb hangsúlyt fektet a környezetbarát turisztikai fejlesztésekre.",
+        "Központi szerepet játszik a kalandtúrák logisztikai kiszolgálásában."
+      ]
+    },
+    {
+      "id": "corriverton-cities-v2",
+      "descriptionAdvanced": "Corriverton Guyana keleti határán, a Corentyne folyó torkolatánál épült, amely természetes választóvonalat képez a szomszédos Suriname felé. A település több kisebb falu egyesülésével jött létre, és napjainkban fontos határátlépő és kereskedelmi állomásként szolgál. A folyami kompközlekedés nemcsak az embereket köti össze a két ország között, hanem a gazdasági kapcsolatok alapját is jelenti. A város egy igazi kulturális olvasztótégely, ahol a határokon átívelő kereskedelmi és népességi mozgás meghatározza a mindennapokat. Földrajz K6 — folyók, mint nemzetközi határok.",
+      "factsAdvanced": [
+        "Corriverton közvetlenül a Corentyne-folyó partján fekszik.",
+        "A város a legfontosabb szárazföldi határátlépő pont Suriname felé.",
+        "Több korábbi, kisebb település összevonásával jött létre.",
+        "A nemzetközi kompközlekedés a város legfontosabb gazdasági tényezője.",
+        "Kulturális identitása erősen kötődik a szomszédos Suriname közelségéhez.",
+        "A határ menti kereskedelem az itt élők legfőbb megélhetési forrása."
+      ]
+    }
+  ]
+}

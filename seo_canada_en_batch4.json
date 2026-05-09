@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "prince-edward-island-nature-v2",
+      "descriptionAdvanced": "Prince Edward Island (PEI) is Canada's smallest province, captivating visitors with its rolling, hilly landscapes and striking, bright red sand beaches. The island is world-famous as the setting for the classic children's book series 'Anne of Green Gables', which literarily immortalized the idyllic life on the island. The island's geography is characterized by fertile, red soil, which offers excellent conditions for agriculture, especially for potato farming. Prince Edward Island is connected to the Canadian mainland by the Confederation Bridge, making it a popular yet tranquil travel destination. Geography K7 — islands and literature.",
+      "factsAdvanced": [
+        "Canada's smallest province in terms of area and population.",
+        "Known for fertile red soil, rich in iron oxide.",
+        "Potato farming is the backbone of the local economy.",
+        "Confederation Bridge is a 12.9 km long connection to the mainland.",
+        "The literary character 'Anne of Green Gables' brought worldwide fame.",
+        "The coastline is characterized by long, red sand beaches."
+      ]
+    },
+    {
+      "id": "carmanah-walbran-provincial-park-forest-nature-v2",
+      "descriptionAdvanced": "Carmanah Walbran Provincial Park protects one of the most impressive forest regions on Vancouver Island and encompasses a portion of the largest remaining ancient temperate rainforest. Here, you can find monumental trees, including giant Sitka Spruce that have grown for centuries in this protected ecosystem. The park serves as an important ecological reserve for the island's biodiversity and is a symbol of conservation in British Columbia. It is a remote wilderness that allows visitors a deep connection with untouched nature, far from modern civilization. Geography K7 — forests and conservation.",
+      "factsAdvanced": [
+        "Protects the most massive Sitka Spruce trees known worldwide.",
+        "Important habitat for rare temperate zone species.",
+        "The ecosystem is crucial for the region's carbon balance.",
+        "The park was established following intense conservation campaigns.",
+        "Offers a very remote and undisturbed wilderness experience.",
+        "Damp conditions promote extreme radial growth of the trees."
+      ]
+    },
+    {
+      "id": "mount-assiniboine-park-forest-nature-v2",
+      "descriptionAdvanced": "Mount Assiniboine Park protects not only the iconic mountain itself but also vast alpine and subalpine forests that surround the peak, significantly shaping the landscape. Especially in autumn, the larch forests transform into a golden sea, providing a breathtaking backdrop to the rugged, gray rock peaks. As part of a UNESCO World Heritage site, the park is subject to strict regulations that guarantee the preservation of the original vegetation and fragile mountain ecosystems. Since the park has no direct road access, the tranquility of nature remains largely undisturbed. Geography K7 — mountain ecology.",
+      "factsAdvanced": [
+        "Larch forests are famous for their golden coloring in autumn.",
+        "Component of the UNESCO World Heritage Canadian Rocky Mountains.",
+        "Access to the park is possible only by hiking or helicopter.",
+        "Offers extremely rare insights into alpine treeline ecosystems.",
+        "Protects valuable habitats for mountain animals like mountain goats.",
+        "The forests are a central component of the aesthetic experience."
+      ]
+    },
+    {
+      "id": "mount-columbia-nature-v2",
+      "descriptionAdvanced": "Mount Columbia is the highest point in the province of Alberta, at 3,747 meters. The peak towers majestically over the Columbia Icefield, a gigantic icefield that stretches across the continental divide. This geographic location is of crucial importance, as the mountain's meltwater flows to both the Pacific and the Arctic Oceans and Hudson Bay. Climbing Mount Columbia is considered a logistically very demanding undertaking for alpinists due to its remoteness and the necessary crossing of the complex icefield. Geography K7 — mountains and watersheds.",
+      "factsAdvanced": [
+        "Highest point in the province of Alberta at 3,747 meters.",
+        "Located directly on the continental divide.",
+        "Part of the massive ice mass of the Columbia Icefield.",
+        "Climbing requires multiple glacier crossings.",
+        "Remoteness makes the destination particularly exclusive for mountaineers.",
+        "The icefield feeds several major Canadian river systems."
+      ]
+    },
+    {
+      "id": "peace-river-nature-v2",
+      "descriptionAdvanced": "The Peace River is a mighty river that carves its way through the provinces of British Columbia and Alberta. It originates in Williston Lake and is of enormous importance for the economic and agricultural balance of the entire region. The valleys near the river offer fertile soil that allows intensive agriculture, which is extraordinary in the harsh climate of the far north. Historically and culturally, the Peace River Valley is deeply linked to the development of the region and the settlement history, with the river serving as a geographic lifeline. Geography K7 — rivers and agriculture.",
+      "factsAdvanced": [
+        "One of the longest and most significant rivers in Western Canada.",
+        "Originates in the vast Williston reservoir.",
+        "The valleys are known for their fertile agricultural productivity.",
+        "Ultimately flows north as part of the Slave River system.",
+        "The river has enabled the economic opening of the North.",
+        "Geographically, it often marks the boundary between the Shield and the Plains."
+      ]
+    }
+  ]
+}

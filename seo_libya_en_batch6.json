@@ -12,243 +12,213 @@
   ],
   "items": [
     {
-      "id": "ly-zawiya-jaghbub-history-v2",
-      "descriptionAdvanced": "The Zawiya of Al Jaghbub stands as a monumental religious and educational center deep within the eastern desert. Founded in 1856, it was the principal headquarters of the Senussi movement, a powerful Islamic revivalist order. The complex included a grand mosque, a massive library holding thousands of manuscripts, and a university that drew scholars from across the Sahara. Though significantly damaged by colonial forces and shifting politics, it remains a profound symbol of Libyan spiritual heritage. History K8 — religious orders and desert scholarship.",
+      "id": "bouri-offshore-field-economic-v2",
+      "descriptionAdvanced": "The Bouri Offshore Field is the largest and most significant oil field in the Mediterranean Sea, located approximately 120 kilometers north of the Libyan coast. Operated by Mellitah Oil and Gas, it represents a major feat of maritime engineering, featuring massive production platforms and one of the world's largest floating storage and offloading (FSO) units, the Sloug. The field has been a critical component of Libya's energy sector since the 1980s, producing high-quality crude oil from deep undersea reservoirs. Its operation is a cornerstone of the energy partnership between Libya and Italy, providing a steady supply of hydrocarbons to European markets. Economics K8 — offshore extraction and maritime engineering.",
       "factsAdvanced": [
-        "Founded in 1856 in the remote oasis of Al Jaghbub.",
-        "Served as the central headquarters for the influential Senussi movement.",
-        "Historically housed a massive library with thousands of Islamic manuscripts.",
-        "Functioned as a premier Islamic university for the Saharan region.",
-        "Contains the heavily guarded tomb of the movement's founder.",
-        "Suffered extensive damage during periods of colonial and political conflict."
+        "The largest offshore oil field in the Mediterranean Sea.",
+        "Located 120 kilometers north of Tripoli in the Pelagian Basin.",
+        "Features the DP3 and DP4 platforms, among the largest in the region.",
+        "Operated as a joint venture between the NOC and Eni of Italy.",
+        "Utilizes a massive floating storage and offloading vessel (FSO Sloug).",
+        "Discovered in 1976 and began full-scale production in 1988.",
+        "Contains an estimated 4.5 billion barrels of initial oil-in-place.",
+        "A critical hub for Libya's offshore energy production and export."
       ]
     },
     {
-      "id": "ly-fort-capuzzo-history-v2",
-      "descriptionAdvanced": "Fort Capuzzo was a vital frontier fortification built by Italian colonial forces on the border between Libya and British-controlled Egypt. During the early stages of World War II, it became a focal point of intense, back-and-forth mechanized warfare. The fort was captured and recaptured multiple times by Axis and Allied forces due to its strategic position controlling the coastal highway. Today, very little of the original structure remains, but the site retains massive historical significance for military historians. History K8 — World War II border conflicts.",
+      "id": "al-jurf-offshore-field-economic-v2",
+      "descriptionAdvanced": "The Al-Jurf Offshore Field is a major petroleum extraction site located in the Mediterranean waters north of the Libyan-Tunisian border. Operated by the Mabruk Oil Operations, the field is a testament to Libya's growing offshore industrial capacity. It utilizes a central production platform and a specialized floating production, storage, and offloading (FPSO) vessel, the Farwah, to extract and process crude oil from deep-sea wells. Al-Jurf is a critical part of the nation's energy portfolio, contributing significantly to daily production and international exports. Its successful operation highlights the importance of undersea resources in Libya's long-term economic strategy. Economics K8 — offshore oil production and FPSO technology.",
       "factsAdvanced": [
-        "Constructed by Italian colonial forces near the Egyptian border.",
-        "Served as a highly contested strategic chokepoint during WWII.",
-        "Changed hands multiple times between Axis and Allied armies.",
-        "Control of the fort dictated access to the main coastal highway.",
-        "Largely destroyed by intense artillery and tank battles.",
-        "A major site of interest for historians of the North African campaign."
+        "A major offshore oil field located near the western maritime border of Libya.",
+        "Operated by Mabruk Oil Operations, a partnership involving TotalEnergies.",
+        "Utilizes the FPSO Farwah, a massive floating production and storage vessel.",
+        "Located approximately 100 kilometers offshore in the Mediterranean Sea.",
+        "Produces high-quality light crude oil for the international market.",
+        "Discovered in the late 1990s and brought online in 2003.",
+        "Connected to the coastal infrastructure at Mellitah for processing.",
+        "A key asset in Libya's strategy to expand its offshore energy extraction."
       ]
     },
     {
-      "id": "ly-tobruk-war-cemetery-history-v2",
-      "descriptionAdvanced": "The Tobruk War Cemetery is a somber, impeccably maintained memorial dedicated to the Allied soldiers who fell during the brutal North African campaigns of World War II. It holds the graves of over 2,000 Commonwealth servicemen, many of whom perished during the infamous Siege of Tobruk. The neat rows of white headstones stand in stark contrast to the surrounding arid desert. A separate, massive, castle-like structure nearby houses the remains of over 6,000 fallen German soldiers. History K8 — military memorials and the Siege of Tobruk.",
+      "id": "mabruk-oil-field-economic-v2",
+      "descriptionAdvanced": "The Mabruk Oil Field is a significant inland petroleum site located in the western Sirte Basin, approximately 170 kilometers south of the Gulf of Sidra. It is operated as a joint venture between the National Oil Corporation and TotalEnergies. The field is known for its resilient production facilities and its role in supplying crude oil to the coastal terminals at Es Sider and Ras Lanuf. Despite challenges from conflict-related damage, Mabruk remains a vital component of Libya's central energy infrastructure. Its operation supports thousands of jobs and provides a critical source of revenue for the national budget, representing the enduring value of the Sirte Basin oil fields. Economics K8 — central Libyan oil extraction and energy infrastructure.",
       "factsAdvanced": [
-        "Contains the graves of over 2,000 Commonwealth soldiers.",
-        "Maintained globally by the Commonwealth War Graves Commission.",
-        "Commemorates the immense casualties of the Siege of Tobruk (1941).",
-        "A separate, nearby memorial structure houses 6,000 German casualties.",
-        "Features meticulously kept landscaping despite the desert environment.",
-        "A site of profound international historical pilgrimage."
+        "A major oil field in the western Sirte Basin, central Libya.",
+        "Operated by Mabruk Oil Operations, a joint venture with TotalEnergies.",
+        "Connected by pipeline to the major coastal export terminals.",
+        "Historically one of the most productive fields in the western sector.",
+        "Located in a remote desert area south of the 'Oil Crescent' region.",
+        "A critical strategic asset for the national hydrocarbon sector.",
+        "Requires constant security and technical maintenance to ensure output.",
+        "A primary contributor to the daily oil production of central Libya."
       ]
     },
     {
-      "id": "ly-malta-castle-history-v2",
-      "descriptionAdvanced": "The Knights of Malta Castle, located in Tripoli, is a fascinating remnant of the brief period when the Order of St. John controlled the city in the 16th century. Bestowed upon them by the Holy Roman Emperor Charles V in 1530, the knights fortified the existing coastal defenses to protect against Ottoman expansion. Their rule was short-lived, ending when the Ottomans captured the city in 1551. Elements of their distinct military architecture can still be seen integrated into the broader Red Castle complex. History K7 — the Knights Hospitaller in North Africa.",
+      "id": "amal-oil-field-economic-v2",
+      "descriptionAdvanced": "The Amal Oil Field is one of the most important and established petroleum sites in the eastern Sirte Basin, located near the Wahat oases cluster. It is operated by the Harouge Oil Operations and has been a cornerstone of Libya's energy production for over five decades. The field features a massive network of wells and processing plants that extract high-quality crude oil from ancient desert reservoirs. Production from Amal is transported via the main Veba pipeline to the Ras Lanuf terminal on the coast. The field's longevity and consistent output make it a fundamental pillar of the Libyan energy sector and a key driver of economic activity in the Wahat region. Economics K8 — established oil fields and desert pipelines.",
       "factsAdvanced": [
-        "Represents the brief 16th-century rule of the Knights of St. John in Tripoli.",
-        "The city was gifted to the Knights by Emperor Charles V in 1530.",
-        "Built to defend the strategic harbor against Ottoman naval fleets.",
-        "The Knights were decisively defeated and expelled by the Ottomans in 1551.",
-        "Architectural remnants are integrated into Tripoli's Red Castle.",
-        "Highlights the intense religious and military conflict over the Mediterranean."
+        "One of the largest and oldest oil fields in the eastern Sirte Basin.",
+        "Operated by Harouge Oil Operations (formerly Veba Oil).",
+        "The name 'Amal' translates to 'Hope' in Arabic.",
+        "Connected to the Ras Lanuf terminal by a major 400-kilometer pipeline.",
+        "Located in the Al-Wahat District, near the oasis of Jalu.",
+        "Famous for its high-quality 'Amal' crude oil, favored by international refineries.",
+        "Features some of the most extensive and mature oil infrastructure in Libya.",
+        "A major employer for the surrounding oasis communities."
       ]
     },
     {
-      "id": "ly-murzuq-fort-history-v2",
-      "descriptionAdvanced": "The Murzuq Old Fort is a massive, towering structure built from mud-brick that dominates the historic center of the Fezzan region's capital. Originally established by local rulers to protect vital trans-Saharan trade routes, it was later vastly expanded by Ottoman forces to assert dominance over the deep desert. The fort's thick walls provided critical defense and thermal insulation against the brutal Saharan heat. It stands as a testament to the strategic importance of Murzuq in the ancient gold and slave trades. History K7 — Saharan trade and Ottoman expansion.",
+      "id": "nafoora-oil-field-economic-v2",
+      "descriptionAdvanced": "The Nafoora Oil Field is a significant petroleum site in the eastern Sirte Basin, situated near the historic oases of Jalu and Awjila. Operated by the Arabian Gulf Oil Company (AGOCO), the field is a major contributor to Libya's eastern oil production. It is part of a complex geological structure that yields high volumes of crude oil, which is then pumped to the Zueitina terminal on the coast. Nafoora is known for its large-scale production facilities and its integration with the regional energy network. Its operation is vital for the economic health of Cyrenaica and the overall stability of the national oil output. Economics K8 — eastern oil production and regional energy networks.",
       "factsAdvanced": [
-        "A massive mud-brick fortification located in the desert city of Murzuq.",
-        "Built to protect and control vital trans-Saharan caravan routes.",
-        "Vastly expanded and utilized by Ottoman forces in the 19th century.",
-        "Walls are incredibly thick to provide thermal insulation against extreme heat.",
-        "Served as the primary administrative and military hub for the Fezzan.",
-        "Represents the historical wealth generated by the Saharan trade network."
+        "A primary oil field operated by the Arabian Gulf Oil Company (AGOCO).",
+        "Located in the Jalu-Awjila oasis area of the eastern Sirte Basin.",
+        "Connected by pipeline to the Zueitina export terminal on the coast.",
+        "A major contributor to the daily production of the eastern region.",
+        "Known for its high-quality crude and significant natural gas reserves.",
+        "Supports the local economy of the Al-Wahat District oases.",
+        "Features a large industrial base and residential camp for energy workers.",
+        "A critical node in the pipeline network that crisscrosses the eastern desert."
       ]
     },
     {
-      "id": "ly-awjila-mosque-history-v2",
-      "descriptionAdvanced": "The Great Atik Mosque of Awjila is one of the most uniquely designed Islamic structures in North Africa, located deep in the eastern desert. Built in the 12th century, it is famous for its roof, which consists of 21 distinct, conical mud-brick domes. These domes are specifically engineered to provide structural stability and to allow hot air to escape, naturally cooling the interior. The mosque is a brilliant example of vernacular architecture adapting perfectly to a hyper-arid, isolated environment. Sociology K8 — indigenous desert architecture.",
+      "id": "messla-oil-field-economic-v2",
+      "descriptionAdvanced": "The Messla Oil Field is a massive petroleum extraction site located in the southeastern corner of the Sirte Basin, near the super-giant Sarir field. Operated by the Arabian Gulf Oil Company (AGOCO), it is one of the most productive and strategically important fields in Libya. Messla is known for its high-quality light crude oil, which is pumped via the Sarir-Tobruk pipeline to the Marsa el Hariga terminal. The field's scale and consistent production levels make it a vital asset for the national economy. Its successful operation amidst the hyper-arid landscapes of the southeastern desert is a testament to the resilience of Libya's energy infrastructure. Economics K8 — large-scale Saharan oil extraction and national revenue.",
       "factsAdvanced": [
-        "Located in the ancient, isolated desert oasis of Awjila.",
-        "Constructed primarily during the 12th century.",
-        "Famous for its unique roof featuring 21 conical mud-brick domes.",
-        "Domes are engineered to vent hot air and provide natural cooling.",
-        "Built entirely using local mud, lime, and palm tree trunks.",
-        "Considered a masterpiece of functional Saharan vernacular architecture."
+        "A major oil field located in the southeastern Sirte Basin.",
+        "Operated by the Arabian Gulf Oil Company (AGOCO).",
+        "Situated near the super-giant Sarir oil field, sharing its pipeline infrastructure.",
+        "Connected to the Marsa el Hariga terminal in Tobruk for export.",
+        "Produces high-quality light crude oil with low sulfur content.",
+        "A critical component of Libya's eastern petroleum production strategy.",
+        "Located in one of the most remote and arid parts of the Libyan Desert.",
+        "Provides significant revenue for the state and thousands of regional jobs."
       ]
     },
     {
-      "id": "ly-gurgi-mosque-history-v2",
-      "descriptionAdvanced": "The Gurgi Mosque, built in 1834, is often considered the most elegant and beautifully decorated mosque in Tripoli's Old Medina. Commissioned by a wealthy naval captain of Georgian descent, the mosque reflects a stunning blend of European and Ottoman artistic influences. Its interior features exquisite Italian marble columns, Moroccan tile work, and intricate stucco carvings. Positioned near the Arch of Marcus Aurelius, it represents the cosmopolitan wealth of 19th-century Tripolitania. History K7 — Ottoman-era art and architecture.",
+      "id": "ly-leptis-magna-history-v2",
+      "descriptionAdvanced": "Leptis Magna is arguably the most spectacular and well-preserved Roman city in the Mediterranean, a UNESCO World Heritage site located near Al-Khoms. Originally a Phoenician colony, it reached its zenith under Emperor Septimius Severus, who was born there. The ruins are a marvel of ancient urban planning, featuring grand triumphal arches, a massive forum, a stunning theater, and the Hadrianic Baths. The city's white limestone architecture, set against the turquoise sea, provides a breathtaking glimpse into the power and sophistication of the Roman Empire in Africa. It is a cornerstone of Libya's cultural identity and a premier global archaeological treasure. History K8 — the Roman Empire in North Africa.",
       "factsAdvanced": [
-        "Constructed in 1834 within the walls of Tripoli's Old Medina.",
-        "Commissioned by Mustafa Gurgi, a wealthy naval captain of Georgian origin.",
-        "Features a highly distinct octagonal minaret.",
-        "Interior is heavily decorated with imported Italian marble and Moroccan tiles.",
-        "Represents a unique blend of Ottoman and Mediterranean architectural styles.",
-        "Located in close proximity to the Roman Arch of Marcus Aurelius."
+        "A UNESCO World Heritage site since 1982, located near Al-Khoms.",
+        "The birthplace of the Roman Emperor Septimius Severus (ruled 193-211 AD).",
+        "Famous for the Arch of Septimius Severus and the massive Severan Forum.",
+        "Features one of the most spectacular and intact Roman theaters in the world.",
+        "The Hadrianic Baths are among the largest and best-preserved outside Rome.",
+        "The city's ancient port is a masterpiece of Roman maritime engineering.",
+        "Originally founded as a Phoenician trading post in the 7th century BC.",
+        "Known for its exquisite limestone carvings and grand marble colonnades."
       ]
     },
     {
-      "id": "ly-karamanli-mosque-history-v2",
-      "descriptionAdvanced": "The Karamanli Mosque is a grand, historically significant structure built in 1736 by Ahmed Karamanli, the founder of the semi-independent Karamanli dynasty. Located prominently in Tripoli, it features a massive, multi-domed roof and a highly distinctive octagonal minaret. The mosque's courtyard is serene, surrounded by intricately tiled arcades that offer a quiet refuge from the bustling city. It serves not only as a place of worship but also as the grand mausoleum for the Karamanli ruling family. History K7 — the Karamanli dynasty in Libya.",
+      "id": "ly-sabratha-history-v2",
+      "descriptionAdvanced": "The ancient city of Sabratha is a breathtaking archaeological site on the Mediterranean coast of western Libya, celebrated for its beautifully preserved Roman ruins. As part of the Tripolitania 'Three Cities,' it was a vital maritime gateway for trade across the sea and into the Saharan interior. The highlight of the site is its majestic 3rd-century Roman theatre, which features a remarkably intact, three-story stage backdrop (scenae frons). Visitors can also explore the remains of temples dedicated to Isis and Serapis, as well as exquisite mosaic-floored villas. Sabratha represents the enduring legacy of Phoenician, Roman, and Byzantine cultures on the Libyan shore. History K8 — Roman urbanism and Mediterranean trade.",
       "factsAdvanced": [
-        "Built in 1736 by Ahmed Karamanli, founder of the Karamanli dynasty.",
-        "Features a highly distinctive, multi-domed roof structure.",
-        "Boasts an elegant, traditionally styled octagonal minaret.",
-        "The complex serves as the official mausoleum for the Karamanli rulers.",
-        "Decorated extensively with geometric tiles and detailed stucco.",
-        "A powerful symbol of Tripoli's era of semi-independence from the Ottomans."
+        "A UNESCO World Heritage site located 66 kilometers west of Tripoli.",
+        "Home to a world-famous Roman theatre with a 55-column stage backdrop.",
+        "Originally founded as a Phoenician seasonal trading post in 500 BC.",
+        "Features the Temple of Isis, situated dramatically near the seashore.",
+        "Famous for its exceptionally high-quality Roman and Byzantine mosaics.",
+        "One of the 'Three Cities' of ancient Tripolitania (along with Leptis and Oea).",
+        "Served as a major export hub for ivory, gold, and animals from the interior.",
+        "Contains the ruins of several early Christian basilicas with intricate floors."
       ]
     },
     {
-      "id": "ly-al-naga-mosque-history-v2",
-      "descriptionAdvanced": "Al-Naga Mosque is one of the oldest Islamic sites in Tripoli, with local legends suggesting its origins date back to the earliest Arab conquests of North Africa in the 7th century. The current structure, extensively rebuilt in the 17th century, is famous for its deeply traditional, unpretentious architecture and its interior forest of recycled Roman columns. The name 'Al-Naga' (The She-Camel) supposedly refers to a legendary camel that carried funds used to build the original structure. Sociology K6 — early Islamic history and local legends.",
+      "id": "ly-cyrene-history-v2",
+      "descriptionAdvanced": "Cyrene, located in the lush highlands of the Jabal al-Akhdar, was the most important and grandest of the ancient Greek colonies in Africa. A UNESCO World Heritage site, it was the namesake for the entire region of Cyrenaica. The ruins are perched on a series of dramatic terraces, featuring the massive Temple of Apollo, the grand Gymnasium, and a spectacular theater overlooking the Mediterranean. Cyrene was a world-class center of philosophy, medicine, and mathematics, home to figures like Eratosthenes. Its white marble ruins, surrounded by evergreen forests and perennial springs, make it one of the most beautiful and historically significant sites in the world. History K8 — Ancient Greek civilization and the Pentapolis.",
       "factsAdvanced": [
-        "Considered one of the oldest mosque sites in the city of Tripoli.",
-        "Origins are mythically tied to the 7th-century Arab conquests.",
-        "The interior features a 'forest' of recycled ancient Roman columns.",
-        "Extensively rebuilt and expanded during the 17th century.",
-        "The name translates to 'The She-Camel' from a local foundational legend.",
-        "Features a much simpler, traditional design compared to later Ottoman mosques."
+        "A UNESCO World Heritage site, once the 'Athens of Africa.'",
+        "Founded in 631 BC by Greek colonists from the island of Thera (Santorini).",
+        "The largest and most important of the five cities (Pentapolis) of Cyrenaica.",
+        "Home to the massive Sanctuary of Apollo, built around a sacred spring.",
+        "Birthplace of Eratosthenes, the mathematician who first measured the Earth.",
+        "Famous for the production of 'silphium,' a valuable ancient medicinal plant.",
+        "Features the best-preserved Greek necropolis (city of the dead) in the world.",
+        "Boasts a spectacular theater carved directly into the mountain cliffside."
       ]
     },
     {
-      "id": "ly-bir-hakeim-history-v2",
-      "descriptionAdvanced": "The remote desert outpost of Bir Hakeim is etched into military history as the site of a heroic 16-day stand by Free French forces against Rommel's Afrika Korps in 1942. Located far south of Tobruk, the harsh, waterless terrain made the defense incredibly brutal. The French resistance here successfully delayed the Axis advance, allowing British forces crucial time to regroup before the First Battle of El Alamein. Today, the isolated site is marked by scattered debris and a poignant memorial to the fallen. History K8 — World War II desert warfare.",
+      "id": "ly-apollonia-history-v2",
+      "descriptionAdvanced": "Apollonia was the historic port of the great city of Cyrene, located at the base of the Jabal al-Akhdar cliffs in northeastern Libya. Now known as Susa, the site is a fascinating mix of terrestrial and submerged archaeology. Visitors can explore the remains of three grand Byzantine churches, a well-preserved theater, and the ancient city walls. Due to historical earthquakes, significant portions of the ancient port and residential areas are now underwater, making it a premier destination for maritime archaeology. Apollonia represents the vital maritime link that connected the wealth of the Green Mountain with the broader Mediterranean world for over a millennium. History K7 — maritime ports and Byzantine churches.",
       "factsAdvanced": [
-        "Located deep in the eastern Libyan desert, south of Tobruk.",
-        "Site of a famous 16-day siege during World War II in 1942.",
-        "Defended fiercely by the 1st Free French Brigade against Axis forces.",
-        "The successful delay allowed Allied forces to regroup at El Alamein.",
-        "The terrain is incredibly harsh, flat, and completely devoid of water.",
-        "The site is currently marked by a memorial and scattered wartime debris."
+        "The primary seaport for the ancient city of Cyrene, founded in the 6th century BC.",
+        "Famous for its 'underwater city'—sunken ruins visible from the surface.",
+        "Features three magnificent 6th-century Byzantine basilicas.",
+        "Home to a spectacular theater set against the Mediterranean Sea.",
+        "Served as the capital of the Roman province of Libya Superior in late antiquity.",
+        "The city walls and military fortifications are among the best-preserved in Libya.",
+        "A major center for the export of silphium and agricultural goods in antiquity.",
+        "Known for its clear waters, which are a haven for underwater archaeologists."
       ]
     },
     {
-      "id": "ly-hospitaller-fort-benghazi-history-v2",
-      "descriptionAdvanced": "The Hospitaller Fort in Benghazi, though much of its historical presence has been obscured by modern development, represents a critical period of naval fortification. Originally established to protect the Cyrenaican coast from piracy and Ottoman naval raids, it showcases robust, functional military architecture. Like its counterpart in Tripoli, it reflects the intense struggle for control of the Mediterranean trade routes during the 16th century. Remaining elements of the fortifications can occasionally be identified near the city's historic harbor area. History K7 — Mediterranean naval conflict.",
+      "id": "ly-ptolemais-history-v2",
+      "descriptionAdvanced": "Ptolemais was one of the five great cities of the Cyrenaica Pentapolis, located on the coastal plains near the modern town of Tolmeita. Founded as a port for Barca, it grew into a massive and wealthy city during the Hellenistic and Roman periods. The site is famous for its colossal 'Palazzo delle Colonne' (Palace of Columns), an enormous aristocratic villa that highlights the city's ancient opulence. Other significant remains include a theater carved into the rock, a grand triumphal arch, and a sophisticated network of underground cisterns. Ptolemais represents the grand scale and architectural ambition of Greco-Roman urbanism on the North African coast. History K8 — Hellenistic architecture and ancient urban planning.",
       "factsAdvanced": [
-        "Represents early naval fortifications in the city of Benghazi.",
-        "Constructed to defend against piracy and competing naval fleets.",
-        "Tied to the broader strategic defense networks of the Mediterranean.",
-        "Much of the original structure has been absorbed by modern urban growth.",
-        "Reflects the intense 16th-century struggle for control of Cyrenaica.",
-        "Remnants are primarily located near the older sections of the harbor."
+        "One of the original 'Five Cities' (Pentapolis) of ancient Cyrenaica.",
+        "Located 110 kilometers east of Benghazi near the town of Tolmeita.",
+        "Famous for the 'Palazzo delle Colonne,' one of the largest ancient villas in Africa.",
+        "Features a spectacular and unique 'Bouleuterion' (council chamber).",
+        "Home to a massive complex of ancient underground water cisterns.",
+        "Founded in the 3rd century BC by the Ptolemaic dynasty of Egypt.",
+        "Boasts well-preserved Roman city gates and a grand triumphal arch.",
+        "The site includes a significant museum housing rare mosaics and sculptures."
       ]
     },
     {
-      "id": "ly-benghazi-cathedral-history-v2",
-      "descriptionAdvanced": "The Benghazi Cathedral is a massive, visually stunning ruin that dominates the city's skyline, standing as the largest Catholic church ever built in North Africa. Designed by Italian architects during the colonial era and completed in the 1930s, it features imposing twin domes and a grand neoclassical facade. After the 1969 revolution, it ceased functioning as a church and fell into severe disrepair, suffering further damage during the 2014 civil war. Despite its ruined state, it remains a profound architectural landmark. History K8 — colonial architecture and urban ruins.",
+      "id": "ly-tocra-history-v2",
+      "descriptionAdvanced": "Tocra, known in antiquity as Taucheira, was a major city of the Cyrenaica Pentapolis, located on the Mediterranean shore east of Benghazi. It is unique for its incredibly well-preserved and massive Byzantine-era city walls, which still define the urban perimeter. The archaeological site features the remains of early Christian churches with intricate mosaic floors, Roman baths, and Greek-era tombs. Tocra has a continuous history of habitation from the 6th century BC through the Islamic period, reflecting the layers of Libyan coastal history. Its blend of maritime setting and robust fortifications makes it a significant landmark for understanding ancient defense and trade. History K7 — Byzantine fortifications and early Christian archaeology.",
       "factsAdvanced": [
-        "The largest Catholic cathedral ever constructed in North Africa.",
-        "Designed by Italian colonial architects and completed in the 1930s.",
-        "Features massive, highly visible twin domes dominating the skyline.",
-        "Ceased religious operations shortly after the 1969 Libyan revolution.",
-        "Suffered heavy structural damage during the 2014 urban conflicts.",
-        "Currently stands as a massive, prominent ruin in the city center."
+        "One of the original 'Five Cities' (Pentapolis) of ancient Cyrenaica.",
+        "Famous for its massive, still-standing Byzantine city walls.",
+        "Located on the Mediterranean coast, 70 kilometers east of Benghazi.",
+        "Features several early Christian basilicas with beautiful mosaic floors.",
+        "Originally founded as a Greek colony in the late 6th century BC.",
+        "Renamed 'Arsinoe' during the Ptolemaic period in honor of a queen.",
+        "A major site for the study of ancient and medieval ceramics (Tocra ware).",
+        "Serves as a vital example of a fortified coastal city in late antiquity."
       ]
     },
     {
-      "id": "ly-jalu-old-fort-history-v2",
-      "descriptionAdvanced": "The Jalu Old Fort is a stark, functional military structure situated in the deep eastern desert, originally built to control the strategic Jalu oasis. It served as a critical garrison for Ottoman and later Italian colonial forces attempting to project power southward towards Kufra. The fort's mud and stone construction offered significant protection from both hostile forces and extreme sandstorms. Today, it stands as a quiet monument to the difficulties of establishing military dominance in the vast, unforgiving Sahara. Geography K7 — desert garrisons and colonial expansion.",
+      "id": "ly-ghadames-old-town-history-v2",
+      "descriptionAdvanced": "The Old Town of Ghadames, known as the 'Pearl of the Desert,' is a UNESCO World Heritage site and a masterpiece of Saharan traditional architecture. This ancient oasis city is designed with a unique, climate-responsive layout, featuring thick mud-brick walls and covered streets that keep the interior cool during the scorching summer. The city is divided into seven tribal quarters, each with its own squares and mosques. A remarkable feature is the rooftop walkway system, traditionally reserved for women to move freely across the city. Ghadames represents the pinnacle of desert urbanism and the sophisticated adaptation of human life to the hyper-arid Saharan environment. Geography K8 — desert urbanism and traditional Saharan architecture.",
       "factsAdvanced": [
-        "Located in the highly isolated eastern desert oasis of Jalu.",
-        "Built to physically control the critical trans-Saharan caravan routes.",
-        "Utilized heavily by both Ottoman and Italian colonial military forces.",
-        "Constructed using a mix of local desert stone and mud-brick.",
-        "Provided a vital staging ground for military pushes southward toward Kufra.",
-        "Currently exists as an unmaintained, stark historical ruin."
+        "A UNESCO World Heritage site since 1986, celebrated for its unique design.",
+        "Known as the 'Pearl of the Desert' for its white-washed mud-brick buildings.",
+        "The city's streets are covered to provide natural air conditioning.",
+        "Features a separate level for women to travel via the rooftops.",
+        "Historically a vital hub for trans-Saharan caravans for over 2,000 years.",
+        "Divided into seven distinct quarters, each representing a different clan.",
+        "Powered by the ancient 'Ain al-Faras' (Spring of the Mare) spring.",
+        "Famed for its intricate interior wall paintings and colorful Berber rugs."
       ]
     },
     {
-      "id": "ly-qasr-al-haj-history-v2",
-      "descriptionAdvanced": "Qasr Al-Haj is perhaps the most visually striking and best-preserved ancient fortified granary in the entirety of North Africa. Built into the foothills of the Nafusa Mountains in the 12th century, it is a massive circular structure containing over 100 individual storage rooms (ghorfas). Local Berber families would securely store their olive oil, grain, and valuables here behind thick walls that offered protection from raiders. The unique circular, multi-level design makes it a masterpiece of indigenous functional architecture. Sociology K8 — Berber heritage and communal storage.",
+      "id": "ly-marcus-aurelius-arch-history-v2",
+      "descriptionAdvanced": "The Arch of Marcus Aurelius is the most significant Roman monument remaining in the heart of modern Tripoli. Built in 163 AD to honor the Emperor Marcus Aurelius and his co-emperor Lucius Verus, this grand four-way triumphal arch (quadrifrons) once stood at the crossroads of the city's primary ancient streets. It is constructed of solid white marble and is adorned with intricate carvings of deities, including Minerva and Apollo. The arch is remarkably well-preserved and serves as a profound physical link between the modern Libyan capital and its ancient identity as the Roman city of Oea. It remains a central symbol of Tripoli's deep historical layers. History K8 — Roman monuments and the city of Oea.",
       "factsAdvanced": [
-        "A massively fortified, circular granary built in the 12th century.",
-        "Located in the foothills of the western Nafusa Mountains.",
-        "Contains 114 individual storage rooms, known as 'ghorfas'.",
-        "Used by local Berber tribes to safely store grain and olive oil.",
-        "Built using local stone and gypsum to naturally regulate temperature.",
-        "Considered a masterpiece of functional, communal indigenous architecture."
+        "The only major Roman monument still standing in situ in Tripoli.",
+        "Constructed in 163 AD by the local magistrate Gaius Calpurnius Celsus.",
+        "A rare example of a 'quadrifrons' (four-sided) triumphal arch.",
+        "Adorned with high-quality marble reliefs of Roman gods and emperors.",
+        "Marked the intersection of the Cardo and Decumanus of ancient Oea.",
+        "Historically significant as it survived centuries of urban redevelopment.",
+        "Surrounded by the historic buildings of the Tripoli Medina.",
+        "A primary landmark for tourists visiting the historic heart of the capital."
       ]
     },
     {
-      "id": "tripoli-tower-landmarks-v2",
-      "descriptionAdvanced": "Tripoli Tower is the tallest and most recognizable skyscraper in Libya, soaring over the capital's central business district. Completed in the early 2000s, this modern glass-and-steel structure houses the headquarters for major national corporations, international embassies, and luxury commercial spaces. The tower was designed to project an image of a modern, economically booming Libya to the international community. Its top floors offer unparalleled, panoramic views of the entire city and the Mediterranean coastline. Geography K7 — modern urban skylines.",
+      "id": "ly-red-castle-history-v2",
+      "descriptionAdvanced": "The Red Castle, or Assaraya al-Hamra, is a massive and iconic fortress overlooking Martyrs' Square in Tripoli. It has served as the seat of power in Libya for over 500 years, housing various rulers from the Ottoman governors to the Karamanli dynasty. The castle is a labyrinth of courtyards, palaces, and secret passages, reflecting centuries of architectural additions and military modifications. Today, it houses the Red Castle Museum, which contains the nation's most important collection of artifacts, from prehistoric rock art to Roman statues and traditional costumes. The castle's imposing red-tinted walls are a symbol of the capital's resilience and its long history as a Mediterranean stronghold. History K8 — Ottoman Libya and national museums.",
       "factsAdvanced": [
-        "The tallest skyscraper in Libya, dominating the Tripoli skyline.",
-        "Completed in the early 2000s as a symbol of economic modernization.",
-        "Houses major corporate headquarters and international diplomatic missions.",
-        "Features a distinctly modern, curved glass-and-steel architectural design.",
-        "Located in the heart of Tripoli's central business district.",
-        "Offers the highest panoramic vantage point over the Mediterranean coast."
-      ]
-    },
-    {
-      "id": "corinthia-hotel-tripoli-landmarks-v2",
-      "descriptionAdvanced": "The Corinthia Hotel Tripoli is the premier luxury hotel in Libya, located right at the edge of the Mediterranean Sea near the historic central business district. Opened in 2003, its twin curved towers are a major landmark, designed specifically to host international diplomats, journalists, and high-level business executives. The hotel features extensive high-security measures and operates almost as a self-contained diplomatic compound during times of unrest. It represents the focal point of international interaction within the country. Economics K7 — international diplomacy and luxury infrastructure.",
-      "factsAdvanced": [
-        "A massive, five-star luxury hotel complex located in central Tripoli.",
-        "Opened in 2003, featuring distinct, twin curved architectural towers.",
-        "The primary accommodation for international diplomats and journalists.",
-        "Features extensive, highly fortified security perimeters.",
-        "Offers panoramic views directly overlooking the Mediterranean Sea.",
-        "Has been the site of major geopolitical meetings and unfortunate militant attacks."
-      ]
-    },
-    {
-      "id": "dat-el-imad-landmarks-v2",
-      "descriptionAdvanced": "The Dat El Imad Towers constitute a massive, highly distinctive commercial complex in Tripoli, consisting of five identical, towering cylindrical skyscrapers. Built during the economic boom of the 1980s, the complex was designed to serve as the premier administrative hub for the nation's oil and banking sectors. The brutalist, concrete-heavy design makes them incredibly resilient and highly visible from almost anywhere in the city. The complex remains one of the most vital corporate centers in North Africa. Geography K8 — brutalist architecture and corporate hubs.",
-      "factsAdvanced": [
-        "A massive commercial complex consisting of five identical cylindrical towers.",
-        "Constructed during the Libyan oil-driven economic boom of the 1980s.",
-        "Houses the headquarters for numerous major national banks and oil firms.",
-        "Features a resilient, highly distinctive brutalist concrete design.",
-        "Located in the prime central business district of Tripoli.",
-        "A defining, instantly recognizable feature of the capital's skyline."
-      ]
-    },
-    {
-      "id": "jamal-abdul-nasser-mosque-landmarks-v2",
-      "descriptionAdvanced": "The Gamal Abdel Nasser Mosque is a massive, visually stunning religious structure located in the heart of Tripoli, dominating the area near Martyrs' Square. Interestingly, the building was originally designed and constructed as a massive Catholic cathedral during the Italian colonial era. After the 1969 revolution, it was heavily modified, its crosses replaced by crescents, and repurposed into one of the city's largest mosques. The towering architecture beautifully illustrates the complex, layered history of modern Libya. Sociology K8 — architectural repurposing and national identity.",
-      "factsAdvanced": [
-        "Located prominently near Martyrs' Square in central Tripoli.",
-        "Originally built as a massive Catholic cathedral by Italian colonists in 1928.",
-        "Repurposed into a major Islamic mosque following the 1969 revolution.",
-        "Named in honor of the highly influential Egyptian President Gamal Abdel Nasser.",
-        "Features a towering central structure that dominates the immediate skyline.",
-        "A profound physical example of post-colonial architectural repurposing."
-      ]
-    },
-    {
-      "id": "martyrs-square-tripoli-landmarks-v2",
-      "descriptionAdvanced": "Martyrs' Square is the absolute epicenter of Tripoli, a massive public plaza that connects the historic walled Medina to the modern commercial districts. Historically known as Green Square during the Gaddafi era and Piazza Italia during colonial times, the square has always been the stage for the nation's most important political rallies, military parades, and public celebrations. It is bordered by the imposing Red Castle and elegant Italianate arcades, making it the vibrant, bustling heart of the nation. Sociology K8 — public squares and political history.",
-      "factsAdvanced": [
-        "The primary, massive public plaza in the absolute center of Tripoli.",
-        "Historically known as Green Square and Piazza Italia.",
-        "Bordered directly by the Red Castle and the historic Medina.",
-        "The traditional site for massive national political rallies and celebrations.",
-        "Features elegant, Italian-built colonnaded arcades on its edges.",
-        "Serves as the main transportation and social hub for the capital."
-      ]
-    },
-    {
-      "id": "tripoli-stadium-landmarks-v2",
-      "descriptionAdvanced": "Tripoli Stadium is the largest and most important sporting venue in Libya, serving as the home ground for the national football team. With a massive seating capacity, the stadium is a cauldron of intense national pride and local athletic rivalry. Built as a multi-purpose venue, it has hosted numerous major African athletic tournaments and international matches. When a major derby or national game is played, the atmosphere and noise inside the stadium are genuinely deafening. Sociology K7 — national sports and stadium culture.",
-      "factsAdvanced": [
-        "The largest dedicated sporting venue in the nation of Libya.",
-        "Serves as the primary home stadium for the Libyan national football team.",
-        "Can hold tens of thousands of deeply passionate local fans.",
-        "Has historically hosted major Pan-African athletic tournaments.",
-        "Features a massive, open-air bowl design typical of the late 20th century.",
-        "A major cultural hub for national pride and local club rivalries."
+        "The historic seat of government and military power in Tripoli for centuries.",
+        "Known as 'Assaraya al-Hamra' (The Red Palace) for its distinctive wall color.",
+        "Home to the Red Castle Museum, Libya's premier archaeological museum.",
+        "Originally a Roman fortification that was expanded by the Ottomans and Spaniards.",
+        "Contains the beautifully preserved palaces of the Karamanli dynasty.",
+        "Bordered directly by Martyrs' Square and the historic Tripoli Medina.",
+        "Features a diverse collection ranging from Cyrene statues to WWII artifacts.",
+        "A central architectural symbol of Libyan history and national sovereignty."
       ]
     }
   ]

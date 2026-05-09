@@ -1,0 +1,64 @@
+{
+  "lang": "de",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "asmara-cities-v2",
+      "descriptionAdvanced": "Asmara, die Hauptstadt Eritreas, liegt auf einem Hochplateau auf 2.325 Metern Höhe. Die Stadt ist weltbekannt für ihre außergewöhnliche Architektur aus der italienischen Kolonialzeit, die ihr den Spitznamen 'Piccola Roma' einbrachte. Viele Gebäude im Art-déco-Stil sind bis heute exzellent erhalten. Geografie K7 – Hochlandstädte und ihre klimatischen Besonderheiten.",
+      "factsAdvanced": [
+        "Liegt auf einer Höhe von 2.325 Metern über dem Meeresspiegel.",
+        "Bekannt für eine hohe Dichte an Art-déco-Gebäuden.",
+        "UNESCO-Welterbestätte seit 2017.",
+        "Die Stadt wurde in den 1930er Jahren massiv im modernistischen Stil ausgebaut.",
+        "Eines der kühlsten Gebiete Eritreas aufgrund der Höhenlage."
+      ]
+    },
+    {
+      "id": "massawa-cities-v2",
+      "descriptionAdvanced": "Massawa ist eine bedeutende Hafenstadt am Roten Meer, die einst als wichtigster Hafen am Horn von Afrika fungierte. Die Architektur der Altstadt spiegelt eine faszinierende Mischung aus osmanischen, ägyptischen und italienischen Einflüssen wider. Die Inseln Mitsiwa und Taulud sind durch Dämme mit dem Festland verbunden. Geografie K7 – Hafenstädte und ihre Bedeutung für den Welthandel.",
+      "factsAdvanced": [
+        "Wichtiger historischer Hafen am Roten Meer.",
+        "Die Architektur zeigt starke osmanische Einflüsse.",
+        "Das Klima gilt als eines der heißesten der Welt.",
+        "Besteht aus zwei Inseln und einem Festlandteil.",
+        "Massawa war früher die Hauptstadt der Kolonie Eritrea."
+      ]
+    },
+    {
+      "id": "keren-cities-v2",
+      "descriptionAdvanced": "Keren ist eine lebendige Handelsstadt im Hochland, die vor allem für ihren wöchentlich stattfindenden Markt bekannt ist, auf dem Waren aus dem ganzen Land gehandelt werden. Die Stadt ist von felsigen Bergen umgeben und hat eine reiche Geschichte, die bis ins 19. Jahrhundert zurückreicht. Die Region um Keren ist ein Zentrum für den Anbau von Obst und Gemüse. Geografie K8 – Handelszentren und ihr Umland.",
+      "factsAdvanced": [
+        "Liegt ca. 90 Kilometer nordwestlich von Asmara.",
+        "Berühmt für den lebhaften Montagsmarkt.",
+        "Zentrum des landwirtschaftlichen Anbaus in der Region Anseba.",
+        "Die Stadt liegt in einem Tal, das von Granitbergen umgeben is.",
+        "Historische Schauplätze aus dem Zweiten Weltkrieg in der Nähe."
+      ]
+    },
+    {
+      "id": "assab-cities-v2",
+      "descriptionAdvanced": "Assab ist eine strategisch bedeutsame Stadt an der Küste des Roten Meeres, nahe der Grenze zu Dschibuti. Die Stadt dient als wichtiger Umschlagplatz für Waren und verfügt über moderne Hafenanlagen. Das Klima in Assab ist extrem arid und heiß, geprägt durch die Nähe zur Danakil-Wüste. Geografie K7 – Bedeutung von Transitstädten.",
+      "factsAdvanced": [
+        "Wichtige Hafenstadt im Süden Eritreas.",
+        "Nahe dem Eingang zum Bab-el-Mandeb-Meerenge.",
+        "Sehr trockenes und heißes Wüstenklima.",
+        "Historisch bedeutsam für den Handel mit Äthiopien.",
+        "Besitzt eine Ölraffinerie, die jedoch selten in Betrieb ist."
+      ]
+    },
+    {
+      "id": "mendefera-cities-v2",
+      "descriptionAdvanced": "Mendefera liegt im Süden des Landes und ist das Verwaltungszentrum der Region Debub. Die Stadt ist für ihre reiche Geschichte und ihre Rolle im Unabhängigkeitskrieg bekannt. Umgeben von landwirtschaftlich genutzten Ebenen, ist die Stadt ein wichtiger Knotenpunkt für den regionalen Handel. Geschichte K8 – Der Unabhängigkeitskrieg Eritreas.",
+      "factsAdvanced": [
+        "Verwaltungszentrum der Region Debub.",
+        "Der Name bedeutet 'wer es wagte' in Bezug auf den Widerstand.",
+        "Wichtiger Knotenpunkt für landwirtschaftliche Produkte.",
+        "Die Region Debub ist die fruchtbarste Eritreas.",
+        "Liegt an der Hauptstraße in Richtung Äthiopien."
+      ]
+    }
+  ]
+}

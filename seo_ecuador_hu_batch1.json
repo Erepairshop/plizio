@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "ecuador",
+  "files": [
+    "lib/visualLab/data/poiExtraEcuadorEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "refineria-esmeraldas-economic-v2",
+      "descriptionAdvanced": "Az Esmeraldasi Olajfinomító az ecuadori energiagazdaság legfontosabb központja, amely kritikus szerepet játszik a nemzeti üzemanyag-ellátásban. A létesítmény a tengerparti Esmeraldas tartományban található, és az ország legnagyobb olajfinomítójaként jelentős hatással van a regionális gazdaságra és foglalkoztatásra. A finomító a kitermelt nyersolajat különféle finomított termékekké, például benzinné, dízellé és cseppfolyósított gázzá alakítja, amelyek elengedhetetlenek a közlekedés és az ipar számára. A technológiai modernizáció folyamatos napirenden van a hatékonyság növelése és a nemzetközi szabványoknak való megfelelés érdekében. A diákok számára ez a helyszín tökéletes példa a földrajz és a technika órákon, különösen a nyersanyagfeldolgozás, a globális energiagazdaság és az ipari folyamatok K7-es szintű tantervhez kapcsolódó témaköreiben.",
+      "factsAdvanced": [
+        "A finomítót az 1970-es években helyezték üzembe.",
+        "Napi feldolgozási kapacitása körülbelül 110 000 hordó nyersolaj.",
+        "Az állami tulajdonú Petroecuador konszern üzemelteti.",
+        "Az ecuadori üzemanyag-ellátás jelentős részét biztosítja.",
+        "A létesítmény modern fluid katalitikus krakkoló (FCC) egységekkel rendelkezik.",
+        "Az Esmeraldas régió egyik legnagyobb munkaadója.",
+        "Döntő mértékben hozzájárul Ecuador GDP-jéhez."
+      ]
+    },
+    {
+      "id": "puerto-de-manta-economic-v2",
+      "descriptionAdvanced": "A Mantai Kikötő a Csendes-óceán partján fekvő stratégiai csomópont, amely Ecuador gazdasági vérkeringésében központi helyet foglal el. A kikötő természetes mélyvizű öble ideális feltételeket biztosít a nagyméretű teher- és tengerjáró hajók számára. Manta városa 'Ecuador tonhal-fővárosaként' ismert, mivel a kikötő a tonhalhalászat és a kapcsolódó halfeldolgozó iparágak központja. A tengeri export nemcsak a helyi kereskedelmet serkenti, hanem számtalan munkalehetőséget kínál a régióban. A kikötői infrastruktúra fejlesztései révén Manta egyre fontosabb szerepet tölt be a nemzetközi hajózási útvonalakon és a globális kereskedelemben. A téma kiválóan illeszkedik a földrajzi tantervbe (K6–K8), ahol a nemzetközi szállítmányozási útvonalak és a gazdasági globalizáció összefüggéseit tárgyalják.",
+      "factsAdvanced": [
+        "Manta természetes mélyvízi öböllel rendelkező kikötő.",
+        "Az ecuadori tonhalflotta központi bázisa.",
+        "Fontos állomás a nemzetközi tengerjáró hajók számára.",
+        "Az elmúlt években jelentős nemzetközi tőkebevonással bővítették.",
+        "Közvetlen hozzáférést biztosít a legfontosabb csendes-óceáni útvonalakhoz.",
+        "A helyi gazdaság közvetlenül profitál a kikötő forgalmából.",
+        "Kiemelt szerepet játszik a feldolgozott tengeri élelmiszerek exportjában."
+      ]
+    },
+    {
+      "id": "cemento-chimborazo-economic-v2",
+      "descriptionAdvanced": "A Riobamba mellett található Chimborazo Cementgyár az ecuadori építőipar és az Andok-régió egyik legmeghatározóbb ipari létesítménye. A gyár a helyi mészkőlelőhelyekre támaszkodva biztosítja a szükséges nyersanyagot az országos infrastrukturális projektekhez, legyen szó utak építéséről vagy modern lakóépületekről. A termelés alapját a kiváló minőségű Portland-cement képezi, amely elengedhetetlen a gyorsan fejlődő építőipar számára. A gyár nemcsak gazdaságilag meghatározó, hanem a Chimborazo tartomány munkaerőpiacán is jelentős szereplő, amely munkahelyek ezreit biztosítja. Az ipari folyamatok és a bányászat regionális jelentősége izgalmas téma a K7-es szintű földrajz vagy technika tantervekben, szemléltetve, hogyan alakítják át a természeti erőforrások a régiók gazdasági életét.",
+      "factsAdvanced": [
+        "A gyár a majestatikus Chimborazo hegycsúcsról kapta a nevét.",
+        "Elsősorban Portland-típusú cementet gyártanak.",
+        "Riobamba gazdaságának egyik fő pillére.",
+        "A legmodernebb égetési és őrlési technológiákat alkalmazzák.",
+        "Ecuador középső és déli részét látja el építőanyaggal.",
+        "Erősen kötődik a helyi mészkőbányászati hagyományokhoz.",
+        "A gyár működése során szigorú nemzeti környezetvédelmi előírásoknak felel meg."
+      ]
+    },
+    {
+      "id": "puerto-bolivar-economic-v2",
+      "descriptionAdvanced": "Puerto Bolívar, amely az El Oro tartománybeli Machala közelében található, Ecuador banánexportjának legfontosabb központja. Tekintettel arra, hogy Ecuador a világ egyik legnagyobb banántermelője, ez a kikötő létfontosságú az ország külkereskedelmi mérlege szempontjából. A speciális terminálokon keresztül a környező ültetvényekről érkező friss gyümölcsök rekordidő alatt kerülnek a globális piacokra. Ez a komplex logisztikai folyamat folyamatos infrastrukturális korszerűsítést igényel, hogy lépést tartson a nemzetközi kereslet és a hajózási igények növekedésével. A mezőgazdasági export jelentősége a fejlődő országok számára központi téma a K7-K8-as szintű földrajzi tanulmányokban, ahol a diákok a globális kereskedelem működését vizsgálják.",
+      "factsAdvanced": [
+        "Ez az ecuadori banánexport első számú központja.",
+        "Közvetlen földrajzi közelségben van Machala várossal.",
+        "Az infrastruktúra képes nagyméretű konténerszállító hajók fogadására.",
+        "Bananán kívül egyéb mezőgazdasági termékeket, például garnélát is exportálnak.",
+        "Nemzetközi koncessziós szerződések révén folyamatosan korszerűsítik.",
+        "A régió gazdasága erősen támaszkodik a kikötői logisztikára.",
+        "Döntő tényező az El Oro tartományi foglalkoztatásban."
+      ]
+    },
+    {
+      "id": "parque-industrial-cuenca-economic-v2",
+      "descriptionAdvanced": "A Cuencai Ipari Park az ecuadori Andok-régió ipari fellendülésének kiváló példája, amely technológiailag fejlett ágazatokat tömörít. A komplexum olyan területekre szakosodott, mint a kerámiagyártás, a bútoripar és az autóalkatrész-gyártás. Cuenca városa híres a kézműves hagyományairól, amelyek itt sikeresen ötvöződtek a modern ipari technológiákkal. Az ipari park biztosítja azt a szükséges infrastrukturális hátteret, amely lehetővé teszi a helyi cégek számára, hogy versenyképesek legyenek a nemzetközi piacokon is. A különböző ágazatok betelepülése jól mutatja a város gazdasági sokszínűségét és dinamizmusát. Ez a fejlesztési modell izgalmas esettanulmányként szolgál a regionális tervezés témakörében, amely a K8-as földrajzi tanterv része.",
+      "factsAdvanced": [
+        "Számos szakosodott ipari üzemnek ad otthont.",
+        "Cuenca városa mellett, közlekedési szempontból kedvező helyen fekszik.",
+        "Aktívan támogatja a kerámia- és porcelántermékek exportját.",
+        "A bútoripar a hagyományos fafeldolgozásra építve erős bázissal rendelkezik.",
+        "Fejleszti a helyi hozzáadottérték-láncot a beszállítói hálózatokon keresztül.",
+        "Növeli Cuenca városának vonzerejét gazdasági központként.",
+        "Közvetlen és jó összeköttetés az országos autópálya-hálózattal."
+      ]
+    }
+  ]
+}

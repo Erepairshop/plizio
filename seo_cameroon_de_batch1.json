@@ -1,0 +1,22 @@
+{"lang": "de", "country": "cameroon", "files": ["lib/visualLab/data/poiExtraCameroonLifeV2.ts"], "items": [
+    {
+      "id": "garoua-flussfischerei-life-v2",
+      "descriptionAdvanced": "Die Fischerei am Benue-Fluss bei Garoua ist für viele Anwohner eine lebenswichtige Quelle für Nahrung und Einkommen.",
+      "factsAdvanced": ["Der Benue-Fluss ist das Herzstück der lokalen Fischerei in Garoua."]
+    },
+    {
+      "id": "ebolowa-kakaogarten-life-v2",
+      "descriptionAdvanced": "Die Kakaogärten rund um Ebolowa sind beispielhaft für eine nachhaltige landwirtschaftliche Entwicklung.",
+      "factsAdvanced": ["Die Region um Ebolowa gehört zu den fruchtbarsten Zonen für den Kakaoanbau."]
+    },
+    {
+      "id": "foumban-handwerkermarkt-life-v2",
+      "descriptionAdvanced": "Der Kunsthandwerkermarkt von Foumban ist das kulturelle Zentrum der Bamoun-Kultur und weltberühmt für seine traditionelle Kunst.",
+      "factsAdvanced": ["Foumban gilt als die Hauptstadt des kamerunischen Kunsthandwerks."]
+    },
+    {
+      "id": "dschang-museumspark-life-v2",
+      "descriptionAdvanced": "Der Park, der das Museum der Zivilisationen in Dschang umgibt, ist ein interaktiver Lernort, der Kultur und Natur miteinander verbindet.",
+      "factsAdvanced": ["Das Museum der Zivilisationen ist eines der wichtigsten Museen des Landes."]
+    }
+]} 

@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "areza-cities-v2",
+      "descriptionAdvanced": "Areza este un oraș situat în partea de vest a regiunii de sud, înconjurat de lanțuri muntoase dramatice și văi fertile. Comunitatea beneficiază de proiecte moderne de energie solară pentru alimentarea locală, demonstrând adoptarea soluțiilor sustenabile în zone rurale izolate. Orașul acționează ca un centru vital pentru satele din împrejurimi, oferind acces la servicii și piețe pentru comunitățile agrare. Peisajul său diversificat și dezvoltarea tehnologică fac din Areza un punct de interes regional. Geografie K7 — adoptarea energiei regenerabile în comunitățile rurale.",
+      "factsAdvanced": [
+        "Situat în vestul regiunii sudice, între munți și văi fertile.",
+        "Beneficiază de proiecte de energie solară pentru electricitate locală.",
+        "Centru comercial și de servicii pentru satele înconjurătoare.",
+        "Relief spectaculos format din lanțuri muntoase și văi.",
+        "Exemplu de dezvoltare sustenabilă în regiunile rurale.",
+        "Hub local pentru comunitățile agrare din zonă."
+      ]
+    },
+    {
+      "id": "debarwa-cities-v2",
+      "descriptionAdvanced": "Debarwa este o așezare cu o istorie profundă, fiind fosta capitală a anticului regat Medri Bahri. Orașul este astăzi cunoscut pentru bogăția zăcămintelor sale minerale, incluzând mine de aur și cupru care susțin economia locală. Sediul istoric al lui Bahr Negash (Regele Mării) conferă locului o valoare culturală și politică deosebită, amintind de puterea acestui regat medieval. Astăzi, Debarwa îmbină moștenirea istorică cu exploatarea resurselor naturale în dezvoltarea sa modernă. Istorie K8 — rolul regatelor medievale în istoria eritreeană.",
+      "factsAdvanced": [
+        "Fosta capitală a anticului regat Medri Bahri.",
+        "Bogate zăcăminte de minerale, inclusiv aur și cupru.",
+        "Sediul istoric al titlului Bahr Negash (Regele Mării).",
+        "Amestec de moștenire istorică și activitate minieră modernă.",
+        "Valoare culturală legată de istoria regalității eritreene.",
+        "Centru minier important pentru economia Eritreei."
+      ]
+    },
+    {
+      "id": "dongollo-cities-v2",
+      "descriptionAdvanced": "Dongollo este o vale faimoasă pentru izvoarele sale de apă minerală naturală, situată lângă orașul Massawa. Resursele sale hidrice sunt îmbuteliate și vândute la nivel național, brandul „Dongollo” fiind un simbol al calității. Valoarea acestei zone constă în natura sa carbogazoasă, care conferă apei un caracter distinct. Pe lângă importanța industrială, zona este apreciată pentru frumusețea naturală a văii, oferind un refugiu în drumul spre coastă. Geografie K7 — importanța resurselor de apă minerală în economia unei regiuni.",
+      "factsAdvanced": [
+        "Faimos pentru izvoarele de apă minerală naturală.",
+        "Apa este îmbuteliată și comercializată la nivel național.",
+        "Brandul 'Dongollo' este un simbol național al calității.",
+        "Apa este carbogazoasă în mod natural.",
+        "Zonă apreciată pentru valoarea industrială și peisajul natural.",
+        "Reprezintă o resursă esențială pe traseul spre Massawa."
+      ]
+    },
+    {
+      "id": "emba-derho-cities-v2",
+      "descriptionAdvanced": "Emba Derho este o comunitate agricolă situată în regiunea muntoasă centrală, de-a lungul rutelor esențiale de aprovizionare pentru capitala Asmara. Agricultura pe terase este o practică bine consolidată aici, permițând cultivarea terenurilor în pofida reliefului montan. Climatul răcoros de munte oferă condiții favorabile pentru anumite culturi de platou, menținând comunitatea într-o stare de prosperitate agricolă. Emba Derho reprezintă un model de eficiență a utilizării terenurilor în zonele montane. Geografie K7 — tehnici de agricultură montană pentru gestionarea reliefului.",
+      "factsAdvanced": [
+        "Comunitate agricolă pe rute de aprovizionare către Asmara.",
+        "Practică agricultura pe terase pentru a valorifica terenul.",
+        "Regiunea beneficiază de un climat răcoros de munte.",
+        "Pilon al aprovizionării cu produse agricole pentru capitală.",
+        "Exemplu de eficiență a utilizării terenurilor accidentate.",
+        "Sustenabilitate agricolă într-un relief montan provocator."
+      ]
+    },
+    {
+      "id": "filfil-cities-v2",
+      "descriptionAdvanced": "Filfil este o localitate remarcabilă situată la poalele platoului, celebră pentru pădurile tropicale de ceață, ultimele de acest tip rămase în Eritreea. Acest ecosistem unic oferă un habitat vital pentru numeroase specii de păsări și plante, fiind o zonă de interes major pentru ecoturism și conservarea mediului. Biodiversitatea bogată din Filfil atrage cercetători și iubitori de natură, dornici să exploreze acest paradis verde. Protejarea acestor păduri este crucială pentru biodiversitatea țării. Geografie K7 — importanța biodiversității și a ecosistemelor unice.",
+      "factsAdvanced": [
+        "Celebru pentru pădurile tropicale de ceață, un ecosistem rar.",
+        "Zonă de interes major pentru ecoturism.",
+        "Habitat vital pentru numeroase specii de păsări și plante.",
+        "Ultimul refugiu al pădurilor tropicale de ceață în Eritreea.",
+        "Atracție pentru cercetători în domeniul biodiversității.",
+        "Protejarea zonei este esențială pentru ecosistemul țării."
+      ]
+    }
+  ]
+}

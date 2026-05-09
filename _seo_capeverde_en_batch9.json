@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tarrafal-de-sao-nicolau-cities-v2",
+      "descriptionAdvanced": "Tarrafal de São Nicolau is the primary port and largest economic hub on São Nicolau Island. The town is critically important as the arrival point for ships and ferries connecting the island to the rest of the archipelago, facilitating vital trade and passenger movement. Tarrafal is at the center of the island's local fishing industry, which plays a major role in the town's economy and food supply. A unique feature of this coastal town are its beaches, which are known for their black sand, locally believed to possess medicinal, healing properties for various ailments. As the most economically active urban center on the island, it bridges the gap between traditional island lifestyle and necessary modern maritime infrastructure.",
+      "factsAdvanced": [
+        "Primary port and economic center of São Nicolau",
+        "Key arrival point for regional ships and ferries",
+        "Central hub for the local fishing industry",
+        "Famous for unique black sand beaches",
+        "Black sand believed to have medicinal, healing properties",
+        "Most economically active urban center on the island",
+        "Bridges traditional lifestyle with maritime trade"
+      ]
+    },
+    {
+      "id": "faja-de-baixo-cities-v2",
+      "descriptionAdvanced": "Fajã de Baixo is a lush agricultural village on São Nicolau Island, renowned for its fertility and productivity. Located within a verdant, deep valley, the village is a major center for the cultivation of various tropical fruits, which thrive in the sheltered, well-watered microclimate. The surrounding landscape is dominated by traditional terraced fields that showcase long-standing agricultural techniques. Visitors are drawn to the village not only for its natural beauty but also for the spectacular mountain panoramas that open up from its higher vantage points. Fajã de Baixo embodies the rich, agrarian character of São Nicolau, standing in lush contrast to the island’s more rugged, arid coastal reaches.",
+      "factsAdvanced": [
+        "Fertile, lush agricultural village on São Nicolau",
+        "Located within a verdant, deep valley",
+        "Major center for tropical fruit cultivation",
+        "Dominated by traditional terraced farming fields",
+        "Offers spectacular mountain panoramas",
+        "Represents the rich, agrarian character of the island",
+        "Provides contrast to the island’s arid coastal areas"
+      ]
+    },
+    {
+      "id": "juncalinho-cities-v2",
+      "descriptionAdvanced": "Juncalinho is a tranquil coastal village situated in the eastern part of São Nicolau Island. It is widely celebrated for its natural rock swimming pools, which have been formed by the unique coastal geology and are protected from the rough Atlantic waves. The village offers a remote, peaceful environment that remains largely unhurried by modern life, providing a perfect setting for those seeking solitude by the ocean. Fishing continues to be a significant local activity, deeply integrated into the daily life of the community. Surrounded by a wild, dramatic coastal landscape, Juncalinho offers an immersive and authentic experience of the island's eastern natural character, far from the busy urban centers.",
+      "factsAdvanced": [
+        "Tranquil coastal village in eastern São Nicolau",
+        "Famous for its protected natural rock swimming pools",
+        "Remote, peaceful location directly on the ocean",
+        "Fishing is an important local activity",
+        "Surrounded by a wild, dramatic coastal landscape",
+        "Provides an immersive and authentic island experience",
+        "Offers solitude away from busy urban centers"
+      ]
+    },
+    {
+      "id": "preguica-cities-v2",
+      "descriptionAdvanced": "Preguiça is a small coastal village on São Nicolau Island that is steeped in history. It previously functioned as the island's most important export port, serving as a critical commercial gateway to the wider world during earlier periods. Today, visitors can still explore the ruins of an old fortress, which stands as a silent sentinel on a steep coastal cliff, harkening back to a time when coastal defense was essential for protecting the island's wealth. Preguiça is historically significant as a landing point for early settlers and traders. While its role as a major port has long passed, the village remains a evocative cultural landmark, preserving the memory of the island's maritime prosperity and defensive needs.",
+      "factsAdvanced": [
+        "Coastal village rich in maritime history",
+        "Former vital export port for São Nicolau",
+        "Home to evocative ruins of an old fortress",
+        "Situated on a steep, dramatic coastal cliff",
+        "Historically significant landing point for settlers",
+        "Cultural landmark preserving maritime memory",
+        "Represents an earlier era of island prosperity"
+      ]
+    },
+    {
+      "id": "nova-sintra-cities-v2",
+      "descriptionAdvanced": "Nova Sintra, the main town of Brava Island, is widely considered one of the most beautiful and culturally unique towns in the entire Cape Verdean archipelago. Known as the 'Flower City' due to its lush, colorful gardens and vibrant vegetation, it displays a distinct European architectural influence that sets it apart from other towns in the country. Situated in a higher elevation, Nova Sintra is frequently enveloped in a mystical, low-hanging mist, adding to its ethereal and poetic atmosphere. The town's name honors the famous town of Sintra in Portugal, reflecting a deep historical connection. With its quiet, sophisticated charm, Nova Sintra is a cultural and botanical gem that defines the unique character of Brava Island.",
+      "factsAdvanced": [
+        "Main settlement and administrative town of Brava",
+        "Widely considered one of Cape Verde's most beautiful towns",
+        "Known as the 'Flower City' due to lush gardens",
+        "Displays significant European architectural influence",
+        "Often shrouded in a unique, mystical mist",
+        "Named after the town of Sintra in Portugal",
+        "Cultural and botanical gem of Brava Island"
+      ]
+    }
+  ]
+}

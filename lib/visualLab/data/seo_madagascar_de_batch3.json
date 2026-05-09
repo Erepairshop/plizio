@@ -1,0 +1,225 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "andapa-cities-v2",
+      "descriptionAdvanced": "Andapa liegt in einem spektakulären, von Bergen umschlossenen Becken im Nordosten Madagaskars. Die Stadt ist das Zentrum eines der fruchtbarsten Reisanbaugebiete der Insel, oft als 'Reiskammer des Nordens' bezeichnet. Das feuchte, tropische Mikroklima in dem geschützten Kessel ermöglicht eine intensive Landwirtschaft, bei der neben Reis auch Vanille und Kaffee gedeihen. Andapa ist zudem der wichtigste Ausgangspunkt für Expeditionen in den Marojejy-Nationalpark, der für seine steilen Granitgipfel und den seltenen Seidensifaka bekannt ist. Die Abgeschiedenheit der Region sorgt für eine authentische Atmosphäre. Geografie K7 — Gebirgskessel und Landwirtschaft.",
+      "factsAdvanced": [
+        "Zentrum eines fruchtbaren Gebirgsbeckens",
+        "Wichtigste 'Reiskammer' des madagassischen Nordens",
+        "Hauptzugang zum Marojejy-Nationalpark",
+        "Produzent von hochwertiger Hochland-Vanille",
+        "Umgeben von Bergen mit bis zu 2.132 Metern Höhe",
+        "Wichtiges Bildungs- und Handelszentrum der Region SAVA"
+      ]
+    },
+    {
+      "id": "ankazoabo-cities-v2",
+      "descriptionAdvanced": "Ankazoabo liegt im Südwesten Madagaskars, eingebettet in eine weite Savannenlandschaft. Die Stadt ist ein traditionelles Zentrum des Bara-Volkes und spielt eine wichtige Rolle im Viehhandel der Region. Das Klima ist hier heiß und trocken, was die Rinderzucht zum wichtigsten Wirtschaftszweig macht. Ankazoabo dient als regionaler Marktplatz, auf dem Zebu-Rinder gesammelt werden, bevor sie in andere Teile der Insel getrieben werden. Die Stadt ist auch bekannt für ihre Nähe zu geschützten Waldgebieten, in denen seltene Lemurenarten vorkommen. Das Leben ist hier stark vom Rhythmus der Viehhaltung geprägt. Geografie K6 — Savannenökologie und Viehzucht.",
+      "factsAdvanced": [
+        "Traditionelles Zentrum der Bara-Ethnie",
+        "Wichtiger Handelsplatz für Zebu-Rinder",
+        "Liegt in einer weiten Savannenregion",
+        "Hauptstadt des Distrikts Ankazoabo",
+        "Geprägt durch heißes, semiarides Klima",
+        "Bedeutender Standort für die regionale Versorgung"
+      ]
+    },
+    {
+      "id": "belo-sur-tsiribihina-cities-v2",
+      "descriptionAdvanced": "Belo sur Tsiribihina ist eine strategisch wichtige Stadt am nördlichen Ufer des Tsiribihina-Flusses im Westen Madagaskars. Sie ist vor allem als Endpunkt der beliebten Flussfahrten bekannt, die in Miandrivazo beginnen. Die Stadt ist ein Zentrum des Sakalava-Volkes und berühmt für die 'Fitampoha'-Zeremonie, bei der alle zehn Jahre die Reliquien der Könige im Fluss gewaschen werden. Belo sur Tsiribihina ist zudem ein wichtiger Knotenpunkt für Reisende auf dem Weg zum Nationalpark Tsingy de Bemaraha. Die fruchtbaren Schwemmlandböden des Flusses ermöglichen eine produktive Landwirtschaft, insbesondere den Anbau von Tabak und Reis. Geschichte K7 — Traditionelle Rituale und Flusstourismus.",
+      "factsAdvanced": [
+        "Schauplatz der Fitampoha-Königszeremonie",
+        "Endpunkt für Bootsfahrten auf dem Tsiribihina",
+        "Wichtiger Transitort zum Tsingy de Bemaraha",
+        "Zentrum des Sakalava-Königreichs Menabe",
+        "Gelegen in der fruchtbaren Flussebene des Tsiribihina",
+        "Nur per Fähre oder Allradfahrzeug erreichbar"
+      ]
+    },
+    {
+      "id": "fandriana-cities-v2",
+      "descriptionAdvanced": "Fandriana liegt im zentralen Hochland und ist bekannt für seine traditionsbewusste Bevölkerung und seine handwerklichen Fähigkeiten. Die Stadt befindet sich in einer malerischen Hügellandschaft, die durch Reisanbau und Forstwirtschaft geprägt ist. Fandriana ist ein bedeutendes Bildungszentrum mit einer langen Geschichte und beherbergt mehrere renommierte Schulen. Die lokale Wirtschaft basiert auf der Landwirtschaft sowie auf der Verarbeitung von Holz aus den umliegenden Wäldern. Die Architektur der Stadt mit ihren typischen Backsteinhäusern spiegelt die klassische Bauweise des madagassischen Hochlands wider. Geografie K6 — Hochlandgesellschaft und Bildung.",
+      "factsAdvanced": [
+        "Bedeutendes Bildungszentrum im Hochland",
+        "Zentrum der Region Amoron'i Mania",
+        "Bekannt für hochwertige Holzverarbeitung",
+        "Umgeben von dichten Eukalyptus- und Kiefernwäldern",
+        "Wichtiger Produzent von Bohnen und Maniok",
+        "Traditionelle Backsteinarchitektur im Stadtkern"
+      ]
+    },
+    {
+      "id": "vatomandry-cities-v2",
+      "descriptionAdvanced": "Vatomandry ist eine historische Küstenstadt am Indischen Ozean, deren Name 'Schlafende Steine' bedeutet. Sie liegt strategisch günstig am Canal des Pangalanes und war früher einer der wichtigsten Häfen Madagaskars. Heute ist Vatomandry ein beliebtes Naherholungsziel für die Bewohner der Hauptstadt, die hier an den weitläufigen Sandstränden Ruhe suchen. Die Stadt hat ihren kolonialen Charme bewahrt, auch wenn der Hafen heute weniger Bedeutung hat. Die Umgebung ist geprägt von tropischer Vegetation, Kokospalmen und der Mündung des Vatomandry-Flusses, die ein wichtiger Lebensraum für viele Fischarten ist. Geschichte K7 — Maritime Handelsgeschichte und Tourismus.",
+      "factsAdvanced": [
+        "Bedeutete früher 'Schlafende Steine'",
+        "Ehemaliger Hauptexporthafen für Kaffee",
+        "Gelegen am Canal des Pangalanes",
+        "Beliebtes Seebad für Besucher aus Antananarivo",
+        "Mündungsort des Vatomandry-Flusses",
+        "Geprägt durch breite Sandstrände und Kokoshaine"
+      ]
+    },
+    {
+      "id": "hell-ville-cities-v2",
+      "descriptionAdvanced": "Hell-Ville, offiziell Andoany genannt, ist der Hauptort der Ferieninsel Nosy Be. Die Stadt hat ein ausgeprägtes mediterranes Flair mit gut erhaltenen kolonialen Gebäuden entlang der Uferpromenade. Hell-Ville ist ein geschäftiger Hafen, von dem aus Fähren zum Festland und Boote zu den Nachbarinseln ablegen. Der Markt der Stadt ist berühmt für seine Gewürze, frischen Fisch und die nach Ylang-Ylang duftende Luft. Die Stadt verbindet die touristische Dynamik von Nosy Be mit der traditionellen madagassischen Lebensweise und ist das wirtschaftliche Herz der Region. Geschichte K8 — Tourismusentwicklung und koloniales Erbe.",
+      "factsAdvanced": [
+        "Hauptort der Ferieninsel Nosy Be",
+        "Offizieller Name ist Andoany",
+        "Wichtigster Hafen für den Schiffsverkehr zum Festland",
+        "Zentrum der Ylang-Ylang-Destillation",
+        "Berühmt für gut erhaltene koloniale Architektur",
+        "Ehemals Zentrum der madagassischen Zuckerindustrie"
+      ]
+    },
+    {
+      "id": "ambilobe-cities-v2",
+      "descriptionAdvanced": "Ambilobe liegt im Norden Madagaskars und ist das administrative Zentrum der Region Diana. Die Stadt ist ein wichtiger Verkehrsknotenpunkt an der Nationalstraße 6 und dient als Tor zum spektakulären Ankarana-Nationalpark. Ambilobe ist bekannt für seine Zuckerrohrplantagen und die große Fabrik, die die Region wirtschaftlich dominiert. Zudem ist die Stadt der Sitz des traditionellen Königs der Antakarana, was ihr eine hohe kulturelle Bedeutung verleiht. Das heiße Klima und die fruchtbaren Ebenen entlang des Mahavavy-Flusses prägen das Leben der Bewohner, das sich zwischen modernem Handel und alten Traditionen abspielt. Geschichte K7 — Traditionelle Herrschaft und Industrie.",
+      "factsAdvanced": [
+        "Sitz des traditionellen Königs der Antakarana",
+        "Zentrum der madagassischen Zuckerproduktion",
+        "Wichtiger Stopp an der Nationalstraße 6",
+        "Tor zum Ankarana-Nationalpark (Tsingy)",
+        "Gelegen am Ufer des Mahavavy-Flusses",
+        "Wichtiger Marktplatz für Saphire aus der Region"
+      ]
+    },
+    {
+      "id": "vohemar-cities-v2",
+      "descriptionAdvanced": "Vohemar, auch Iharana genannt, ist eine malerische Hafenstadt an der Nordostküste Madagaskars. Sie liegt in einer tiefen, geschützten Bucht und hat eine Geschichte, die bis zu den arabischen Seefahrern des 13. Jahrhunderts zurückreicht. Vohemar ist ein bedeutendes Zentrum für den Export von Vanille und Vieh, insbesondere Rindern, die per Schiff zu den Komoren transportiert werden. Die Stadt wirkt ruhig und gepflegt, mit einem See im Zentrum und einer entspannten Küstenatmosphäre. Die Umgebung ist reich an fruchtbarem Ackerland und bietet wunderschöne, unberührte Landschaften entlang des Indischen Ozeans. Geschichte K8 — Arabische Handelsbeziehungen und Maritimer Export.",
+      "factsAdvanced": [
+        "Historische arabische Siedlung seit dem 13. Jahrhundert",
+        "Hauptexporthafen für Zebu-Rinder im Norden",
+        "Wichtiges Glied in der SAVA-Vanillekette",
+        "Gelegen in der tiefen Bucht von Iharana",
+        "Ehemals wichtiger Posten für Piraten und Händler",
+        "Zentrum der Seegras-Ernte für den Export"
+      ]
+    },
+    {
+      "id": "ambodifotatra-cities-v2",
+      "descriptionAdvanced": "Ambodifotatra ist der lebhafte Hauptort der Insel Sainte Marie (Nosy Boraha). Die Stadt liegt an einer geschützten Bucht und ist geprägt von ihrer Piratenvergangenheit und dem Erbe des französischen Einflusses. Hier befindet sich die älteste Steinkirche Madagaskars sowie ein kleiner Hafen, der die Insel mit dem Festland verbindet. Ambodifotatra ist das touristische Zentrum der Insel, von dem aus Walbeobachtungstouren und Fahrten zum Piratenfriedhof starten. Die entspannte Atmosphäre, kombiniert mit tropischer Vegetation und dem klaren Wasser der Lagune, macht die Stadt zu einem einzigartigen Ziel im Indischen Ozean. Geschichte K8 — Piratenkultur und koloniale Anfänge.",
+      "factsAdvanced": [
+        "Hauptort der Insel Sainte Marie (Nosy Boraha)",
+        "Heimat der ältesten katholischen Kirche Madagaskars (1857)",
+        "Früherer Stützpunkt berühmter Piraten",
+        "Zentrum der Walbeobachtung (Juli bis September)",
+        "Wichtigster Hafen der Insel Sainte Marie",
+        "Einzigartige französisch-malagassische Mischkultur"
+      ]
+    },
+    {
+      "id": "miandrivazo-cities-v2",
+      "descriptionAdvanced": "Miandrivazo liegt im westlichen Zentrum Madagaskars am Ufer des Mahajilo-Flusses. Die Stadt ist berühmt-berüchtigt als der heißeste Ort der Insel, was auf ihre geschützte Lage im Becken zurückzuführen ist. Für Reisende ist Miandrivazo vor allem als Ausgangspunkt für die mehrtägigen Flussfahrten auf dem Tsiribihina bekannt. Die Wirtschaft der Stadt basiert auf dem Handel mit Tabak und Reis sowie dem wachsenden Tourismus. Der Name bedeutet übersetzt 'Warten auf eine Frau', was auf eine Legende über König Radama I. zurückgeht. Das Leben in der Stadt ist geprägt durch die intensive Hitze und die rege Betriebsamkeit am Flussufer. Geschichte K7 — Legenden und Flusshandel.",
+      "factsAdvanced": [
+        "Gilt statistisch als heißester Ort Madagaskars",
+        "Haupthafen für den Start der Tsiribihina-Flusstouren",
+        "Zentrum des regionalen Tabakanbaus",
+        "Name geht auf eine Legende von König Radama I. zurück",
+        "Knotenpunkt an der Nationalstraße 34",
+        "Liegt im fruchtbaren Becken des Mahajilo-Flusses"
+      ]
+    },
+    {
+      "id": "bekily-cities-v2",
+      "descriptionAdvanced": "Bekily liegt im tiefen Süden Madagaskars, in einer Region, die durch weite Trockensteppen und imposante Granitinselsberge geprägt ist. Die Stadt ist ein wichtiges Zentrum für die Zebu-Zucht und den Anbau von Erdnüssen und Bohnen, die trotz des ariden Klimas gedeihen. Bekily ist zudem bekannt für seine Mineralvorkommen, insbesondere Bergkristall und andere Halbedelsteine. Die Abgeschiedenheit der Stadt hat dazu beigetragen, dass die traditionelle Lebensweise der Antandroy- und Bara-Völker hier sehr präsent geblieben ist. Für die regionale Versorgung ist Bekily ein unverzichtbarer Marktplatz in einer ansonsten dünn besiedelten Landschaft. Geografie K6 — Aride Landschaften und Mineralressourcen.",
+      "factsAdvanced": [
+        "Wichtiges Zentrum im semiariden Süden",
+        "Zentrum der regionalen Erdnussproduktion",
+        "Bedeutender Marktplatz für Zebu-Rinder",
+        "Vorkommen von Bergkristall und Edelsteinen",
+        "Geprägt durch markante Granit-Inselsberge",
+        "Administrative Hauptstadt des Distrikts Bekily"
+      ]
+    },
+    {
+      "id": "kandreho-cities-v2",
+      "descriptionAdvanced": "Kandreho ist eine der abgelegensten und am dünnsten besiedelten Distrikthauptstädte Madagaskars. Sie liegt im Westen der Insel, isoliert durch die schwierige Topografie und das Fehlen ganzjährig befahrbarer Straßen. Die Region ist geprägt von weiten Savannen und Trockenwäldern, in denen vor allem Viehzucht betrieben wird. Kandreho dient als kleiner administrativer Außenposten, in dem das Leben in einem sehr langsamen Tempo verläuft. Die Stadt ist ein Beispiel für die Herausforderungen der Infrastruktur in Madagaskar, da sie während der Regenzeit oft monatelang von der Außenwelt abgeschnitten ist. Geografie K7 — Isolation und Infrastruktur.",
+      "factsAdvanced": [
+        "Eine der am schwersten erreichbaren Städte Madagaskars",
+        "Hauptstadt des Distrikts Kandreho",
+        "Geprägt durch weite, unberührte Savannenlandschaften",
+        "Zentrum der extensiven Zebu-Haltung",
+        "Region mit extrem niedriger Bevölkerungsdichte",
+        "Oft monatelang isoliert während der Regenzeit"
+      ]
+    },
+    {
+      "id": "antsalova-cities-v2",
+      "descriptionAdvanced": "Antsalova liegt im Westen und ist eng mit den westlichen Schutz- und Trockengebieten verbunden. Die Stadt wird häufig als Zugangspunkt in Richtung Tsingy de Bemaraha und anderer Naturräume wahrgenommen. Gleichzeitig ist sie ein kleiner regionaler Mittelpunkt, in dem Verwaltung, Versorgung und das Leben der umliegenden Gemeinden zusammenlaufen. Das macht Antsalova für den Westen praktisch wichtig, auch wenn der Ort selbst ruhig und unspektakulär wirkt. Geografie K7 — Westzugänge und Schutzlandschaften.",
+      "factsAdvanced": [
+        "Liegt im Westen Madagaskars",
+        "Nahe dem Tsingy de Bemaraha gelegen",
+        "Wichtiger Zugang zu Schutzlandschaften",
+        "Regionaler Verwaltungsort",
+        "Teil der westlichen Trockenräume",
+        "Versorgungspunkt für umliegende Gemeinden"
+      ]
+    },
+    {
+      "id": "befandriana-avaratra-cities-v2",
+      "descriptionAdvanced": "Befandriana-Avaratra ist ein ländlich geprägtes Zentrum im Norden, das vor allem für Handel, Versorgung und Landwirtschaft Bedeutung hat. Die Stadt bündelt Wege aus dem Umland und erfüllt damit eine klassische Funktion für nordmadagassische Binnenräume. Die Atmosphäre ist eher kleinstädtisch als urban, aber genau das passt zu einem Ort, dessen Rolle im Alltag lokaler Gemeinden liegt. Für die Region ist Befandriana-Avaratra ein praktischer Treffpunkt und kein bloßes Dorf. Geografie K6 — Ländliche Zentren und Nordräume.",
+      "factsAdvanced": [
+        "Ländliches Zentrum im Norden",
+        "In der Region Sofia gelegen",
+        "Handel und Versorgung sind wichtig",
+        "Agrarraum im Umland",
+        "Bündelt Wege aus den Dörfern",
+        "Kleinstädtischer Charakter"
+      ]
+    },
+    {
+      "id": "tsihombe-cities-v2",
+      "descriptionAdvanced": "Tsihombe liegt im äußersten Süden und ist ein klassischer Ort der Antandroy-Landschaft. Die trockenen Bedingungen bestimmen hier fast alles: Viehhaltung, robuste Feldwirtschaft und die Anpassung an knappe Regenzeiten. Über die RN10 ist der Ort mit anderen südlichen Zentren verbunden, bleibt aber in einer sehr eigenen, weit offenen Landschaft verankert. Tsihombe zeigt besonders deutlich, wie stark sich Kultur und Alltag an das Klima des Südens anpassen müssen. Geografie K7 — Antandroy-Land und Trockenräume.",
+      "factsAdvanced": [
+        "Im äußersten Süden gelegen",
+        "Ort der Antandroy-Landschaft",
+        "Über die RN10 verbunden",
+        "Sehr trockenes Klima",
+        "Viehhaltung und Feldwirtschaft",
+        "Typischer Siedlungsort des Südens"
+      ]
+    },
+    {
+      "id": "mananjary-cities-v2",
+      "descriptionAdvanced": "Mananjary liegt an der Ostküste und ist eng mit dem gleichnamigen Fluss und dem Kanal der Pangalanes verbunden. Die Stadt ist ein regionales Zentrum für Handel, Fischerei und Verwaltung und wirkt zugleich als Eingangstor zu den feuchten Küstenlandschaften des Vatovavy-Raums. Das Zusammenspiel aus Fluss, Meer und Markt macht Mananjary zu einem typischen Ort der östlichen Küste: funktional, wetteranfällig und stark auf die Region ausgerichtet. Geografie K7 — Flussmündungen und Küstenstädte.",
+      "factsAdvanced": [
+        "An der Ostküste gelegen",
+        "Am Mananjary-Fluss",
+        "Mit dem Kanal der Pangalanes verbunden",
+        "Regionales Zentrum für Handel",
+        "Wichtig für Fischerei und Verwaltung",
+        "Feuchter Küstenraum im Vatovavy-Gebiet"
+      ]
+    },
+    {
+      "id": "port-bergé-cities-v2",
+      "descriptionAdvanced": "Port-Bergé, heute offiziell Boriziny genannt, ist eine Stadt in der Region Sofia im Nordwesten Madagaskars. Die Stadt ist ein wichtiger Knotenpunkt an der Nationalstraße 6 (RN6), die in den tiefen Norden nach Antsiranana führt. Die umliegende weite Ebene im Einzugsgebiet des Sofia-Flusses wird intensiv für den Anbau von Baumwolle, Tabak und Reis genutzt. Aufgrund ihrer Lage an der Hauptverkehrsachse hat sich die Stadt zu einem lebhaften Handelszentrum entwickelt. Geografie K5 — Verkehrswege und Flussebenen.",
+      "factsAdvanced": [
+        "Auch Boriziny genannt",
+        "In der Region Sofia gelegen",
+        "An der RN6 Richtung Antsiranana",
+        "Wichtiger Handels- und Verwaltungssitz",
+        "Baumwolle, Tabak und Reis im Umland",
+        "Nicht an der Küste, sondern im Binnenland"
+      ]
+    },
+    {
+      "id": "sakaraha-cities-v2",
+      "descriptionAdvanced": "Sakaraha liegt im Südwesten und ist heute vor allem als Zentrum des Saphirabbaus bekannt. Die Stadt an der RN7 markiert einen wichtigen Abschnitt auf dem Weg zwischen Hochland und Süden und ist zugleich Teil eines trockenen Landschaftsraums mit eigenen wirtschaftlichen Regeln. Neben dem Bergbau prägen Holzverarbeitung, Handel und die Versorgung der umliegenden Gemeinden das Bild. Sakaraha zeigt, wie Rohstoffe in Madagaskar oft direkt mit Verkehrsachsen und kleinen Marktorten verbunden sind. Geografie K7 — Bergbau und Trockenräume.",
+      "factsAdvanced": [
+        "Zentrum des Saphirabbaus",
+        "An der RN7 im Südwesten",
+        "Wichtiger Übergangsort auf der Südroute",
+        "Trockene Landschaft um die Stadt",
+        "Handel und Holzverarbeitung",
+        "Regionale Versorgung für das Umland"
+      ]
+    }
+  ]
+}

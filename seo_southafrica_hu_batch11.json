@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-witbank-cities-v2",
+      "descriptionAdvanced": "eMalahleni, korábbi nevén Witbank, a dél-afrikai szénbányászat szíve és az ország energetikai szektorának egyik legfontosabb városa. A név isiZulu nyelven azt jelenti, hogy 'a szén helye', ami hűen tükrözi a város gazdasági alapját, hiszen az itt kitermelt szén táplálja Dél-Afrika számos erőművét. A város történelmi jelentősége is említésre méltó, hiszen a búr háborúk alatt Winston Churchill itt keresett menedéket menekülése során.",
+      "factsAdvanced": [
+        "A szénbányászati régió szíve.",
+        "A név isiZulu nyelven 'a szén helye' jelentésű.",
+        "Számos dél-afrikai erőművet lát el szénnel.",
+        "Az ország energetikai iparának meghatározó csomópontja.",
+        "Winston Churchill itt bujkált a búr háború idején.",
+        "Ipari központ, amely az ország energiaellátását biztosítja."
+      ]
+    },
+    {
+      "id": "southafrica-secunda-cities-v2",
+      "descriptionAdvanced": "Secunda egy tervezett ipari város, amelyet a Sasol vállalat hozott létre a szén-folyadék (coal-to-liquids) üzem működéséhez az 1970-es években. A város mai arculatát a nagyszabású olajfinomító és vegyipari létesítmények határozzák meg, amelyek a világ egyik legnagyobb ilyen jellegű komplexumát alkotják. Secunda egyedülálló példája a tervezett ipari városfejlesztésnek, ahol a technológiai innováció és a munkásosztály élete szorosan összefonódik.",
+      "factsAdvanced": [
+        "A világ egyik legnagyobb szén-folyadék üzemének ad otthont.",
+        "Kifejezetten ipari célra épített, tervezett város.",
+        "A Sasol vállalat központi üzemi területe.",
+        "A vegyipari és olajfinomítási ágazat egyik legfőbb dél-afrikai bázisa.",
+        "A régió egyik legfontosabb ipari létesítmény-komplexuma.",
+        "Modern technológiai központ a Szabadállam és Mpumalanga határán."
+      ]
+    },
+    {
+      "id": "southafrica-standerton-cities-v2",
+      "descriptionAdvanced": "Standerton a Vaal-folyó partján elterülő nagy mezőgazdasági központ, amely elsősorban a tejiparáról, valamint a kukorica- és baromfitenyésztéséről híres. A város 1876-ban alakult ki a Stander-család farmján, és azóta a térség egyik legfontosabb élelmiszer-termelő centrumává vált. A közeli Grootdraai-gát nemcsak a vízgazdálkodásban játszik kulcsszerepet, hanem a helyi mezőgazdaság számára is létfontosságú öntözési lehetőségeket biztosít.",
+      "factsAdvanced": [
+        "Kiemelkedő tejipari és mezőgazdasági központ.",
+        "A Vaal-folyó mentén fekvő élelmiszer-termelő város.",
+        "Az 1876-os alapítás óta meghatározó mezőgazdasági centrum.",
+        "A Grootdraai-gát az öntözés és vízellátás kulcsa.",
+        "Baromfi- és kukoricatenyésztés meghatározó állomása.",
+        "A régió gazdasági vérkeringésének fontos mezőgazdasági szereplője."
+      ]
+    },
+    {
+      "id": "southafrica-ermelo-cities-v2",
+      "descriptionAdvanced": "Ermelo a Mpumalanga tartománybeli füves puszták – a Highveld régió – kapuja, amely az antracitszén bányászatáról és a gyapjútermelésről híres. A 19. század végén alapított település a búr háborúk idején teljesen elpusztult, de később újraépítették, és ma a régió egyik legfontosabb mezőgazdasági és bányászati központja. Ermelo elhelyezkedése miatt stratégiai tranzitpontként szolgál a környező mezőgazdasági és ipari régiók között.",
+      "factsAdvanced": [
+        "A Highveld régió füves pusztáinak kapuja.",
+        "Antracitszén-bányászat és gyapjútermelés központja.",
+        "A búr háború idején teljesen lerombolták, majd újjáépítették.",
+        "A régió stratégiai kereskedelmi és mezőgazdasági csomópontja.",
+        "A holland Ermelo városáról kapta a nevét.",
+        "Kulturális és gazdasági központ a Highveld régióban."
+      ]
+    },
+    {
+      "id": "southafrica-tzaneen-cities-v2",
+      "descriptionAdvanced": "Tzaneen Limpopo tartomány második legnagyobb városa, a régió trópusi és szubtrópusi mezőgazdasági központja. A település buja, zöldellő, dombos tájban fekszik, amely lehetővé teszi az avokádó, mangó és különféle teafélék sikeres termesztését. A rendkívül tiszta és gondozott kisváros közkedvelt a régióba utazók körében, hiszen a természetes környezet és a modern mezőgazdasági technológia harmonikus ötvözete.",
+      "factsAdvanced": [
+        "Az avokádó, mangó és tea termesztésének egyik központja.",
+        "Dél-Afrika egyik legtisztább városaként ismert.",
+        "Limpopo tartomány második legfontosabb városa.",
+        "Buja, trópusi és zöldellő növényzettel rendelkezik.",
+        "Kiemelkedő szerepet tölt be a régió mezőgazdaságában.",
+        "A vidéki turizmus és a természet kedvelőinek célpontja."
+      ]
+    }
+  ]
+}

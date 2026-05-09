@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ebini-mountain-relief-v2",
+      "descriptionAdvanced": "Muntele Ebini este un punct de reper izolat și inconfundabil care domină pădurile dense ale regiunii Potaro-Siparuni, fiind un element vital de orientare pentru navigatorii aerieni ce survolează hinterlandul guyanez. Deși domină prin silueta sa un peisaj de o vastitate copleșitoare, muntele ascunde în versanții săi formațiuni geologice străvechi care poartă amprenta evoluției geologice de milioane de ani a regiunii. Ecosistemele mixte din jurul bazei sale, compuse din savane și fragmente de pădure, găzduiesc o avifaună bogată, atrăgând pasionații de natură și cercetătorii. În cadrul studiului geografiei K7, Ebini reprezintă un studiu de caz excelent despre importanța reperelor topografice naturale în regiunile dificil de navigat ale lumii.",
+      "factsAdvanced": [
+        "Situat strategic în inima regiunii Potaro-Siparuni.",
+        "Repere vizuale cruciale pentru navigația aeriană în hinterland.",
+        "Îmbinare unică de habitate: savane și păduri adiacente.",
+        "Gazdă pentru numeroase specii de păsări endemice și migratoare.",
+        "Formațiuni geologice ce dezvăluie straturi terestre străvechi.",
+        "Punct de reper iconic în peisajul guyanez.",
+        "Zonă de interes pentru studiul dezvoltării peisajului și evoluției geologice."
+      ]
+    },
+    {
+      "id": "mabura-hill-relief-v2",
+      "descriptionAdvanced": "Dealul Mabura este mai mult decât o simplă înălțime împădurită în regiunea Upper Demerara-Berbice; acesta reprezintă un model de echilibru între activitatea economică și protecția mediului în Guyana. Ca hub al industriei sustenabile a lemnului, Mabura Hill găzduiește importante centre de cercetare ce explorează gestionarea responsabilă a resurselor forestiere primare. Înconjurată de un ecosistem forestier virgin, zona conservă o biodiversitate extraordinară, oferind mediul ideal pentru studii de teren pe termen lung asupra ecosistemelor tropicale. Mabura Hill demonstrează elevilor (Geografie K7) cum tehnologia și sustenabilitatea pot coexista pentru a proteja patrimoniul natural, păstrând în același timp potențialul economic al regiunii.",
+      "factsAdvanced": [
+        "Situat în regiunea Upper Demerara-Berbice.",
+        "Centru strategic pentru exploatarea forestieră sustenabilă.",
+        "Găzduiește un centru de cercetare biologică de importanță națională.",
+        "Înconjurat complet de pădure primară intactă.",
+        "Sit privilegiat pentru studii ecologice de teren pe termen lung.",
+        "Model de bune practici în gestionarea resurselor forestiere.",
+        "Biodiversitate remarcabilă, conservată cu succes lângă zona industrială."
+      ]
+    },
+    {
+      "id": "konawaruk-forest-relief-v2",
+      "descriptionAdvanced": "Pădurea Konawaruk, care urmează cursul sinuos al râului cu același nume, este o dovadă vie a capacității de regenerare a naturii în fața agresiunilor antropice severe. După decenii de exploatare intensă a aurului, care a lăsat cicatrici adânci în teren, ecosistemul a început un proces impresionant de succesiune secundară, recuperând treptat terenul. Astăzi, această zonă constituie un habitat vital pentru numeroase specii de amfibieni, care prosperă în microclimatele umede nou create. Konawaruk nu este doar un spațiu natural remarcabil, ci și o lecție de biologie K6 despre succesiunea ecologică și reziliența pădurilor tropicale în urma dezastrelor ecologice provocate de om.",
+      "factsAdvanced": [
+        "Regiune forestieră situată de-a lungul râului Konawaruk.",
+        "Istoric marcat de o activitate intensă de minierit aurifer.",
+        "Exemplu remarcabil de regenerare naturală a pădurilor secundare.",
+        "Zonă vitală pentru populațiile de amfibieni locali.",
+        "Demonstrație vie a capacității de recuperare a biosferei.",
+        "Microclimat specific ce favorizează regenerarea vegetală rapidă.",
+        "Un sit de o valoare inestimabilă pentru studiul rezilienței ecosistemelor."
+      ]
+    },
+    {
+      "id": "essequibo-rainforests-relief-v2",
+      "descriptionAdvanced": "Pădurile Tropicale Essequibo reprezintă inima verde a Guyanei, constituind unul dintre cele mai vaste și intacte ecosisteme forestiere de pe continentul sud-american. Dincolo de frumusețea lor copleșitoare, aceste păduri acționează ca un rezervor global de carbon de importanță critică, contribuind direct la reglarea climei terestre. Aici, complexitatea vieții atinge cote incredibile, de la vidre uriașe ce patrulează râurile, la jaguari ce stăpânesc umbra pădurii primare. Protejarea acestui spațiu, deja asigurată parțial prin arii protejate, este un imperativ pentru supraviețuirea speciilor amenințate și pentru viitorul climatului mondial. Pentru elevii de nivel K7, Essequibo este exemplul suprem de interdependență între pădure, apă și climă.",
+      "factsAdvanced": [
+        "Unul dintre cele mai mari ecosisteme forestiere intacte din America de Sud.",
+        "Rezervor de carbon vital pentru reglarea climei globale.",
+        "Habitat fundamental pentru specii iconice precum vidra uriașă și jaguarul.",
+        "Rol critic în protejarea bazinului hidrografic Essequibo.",
+        "Zonă cu un grad ridicat de protecție legală prin arii naturale.",
+        "Complexitate ecologică ce susține o biodiversitate imensă.",
+        "Resursă fundamentală pentru cercetarea științifică tropicală."
+      ]
+    }
+  ]
+}

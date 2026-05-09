@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-polokwane-cities-v2",
+      "descriptionAdvanced": "Polokwane, Limpopo tartomány fővárosa, Dél-Afrika északi részének legjelentősebb városi központja. A 2003-ig Pietersburg néven ismert város fontos kereskedelmi és közlekedési csomópont Zimbabwe és a környező országok irányába. A környező régió gazdag mezőgazdasági terményekben és ásványkincsekben, a város maga pedig modern infrastruktúrával és növekvő üzleti szektorral rendelkezik, amely vonzza a befektetőket és a látogatókat.",
+      "factsAdvanced": [
+        "Limpopo tartomány székhelye.",
+        "2003-ig a hivatalos neve Pietersburg volt.",
+        "Fontos logisztikai csomópont az északi kereskedelmi útvonalakon.",
+        "A város környéke ismert a kiterjedt mezőgazdasági földterületeiről.",
+        "Modernizált központi üzleti negyed jellemzi.",
+        "Kedvelt bázis a környező vadvilág-rezervátumok felfedezéséhez."
+      ]
+    },
+    {
+      "id": "southafrica-mbombela-cities-v2",
+      "descriptionAdvanced": "Mbombela, korábbi nevén Nelspruit, Mpumalanga tartomány fővárosa. A város a Kruger Nemzeti Parkhoz vezető egyik legfontosabb kapu, így a turizmus alapvető pillére a gazdaságának. A város környezete rendkívül termékeny, híres citrusültetvényeiről és trópusi gyümölcstermeléséről. Mbombela modern infrastrukturális fejlesztései révén a régió egyik legdinamikusabban fejlődő kereskedelmi központjává vált.",
+      "factsAdvanced": [
+        "2009-ben nevezték át hivatalosan Mbombelára.",
+        "A Kruger Nemzeti Park központi elérését biztosítja.",
+        "A térség meghatározó citrus- és trópusi gyümölcs-exportőre.",
+        "Mpumalanga tartomány közigazgatási központja.",
+        "Modern stadionja volt a 2010-es FIFA-világbajnokság egyik helyszíne.",
+        "Az alacsonyan fekvő, meleg éghajlatú Lowveld régió része."
+      ]
+    },
+    {
+      "id": "southafrica-kimberley-cities-v2",
+      "descriptionAdvanced": "Kimberley, az Észak-Fokföld tartomány fővárosa, világszerte ismert mint a 'gyémántváros'. A 19. század végi gyémántláz idején alakult ki, és a környezetében lévő bányák radikálisan megváltoztatták a régió gazdasági struktúráját. Ma a város történelmi jelentősége és az ipari öröksége, köztük a híres 'Big Hole' bányagödör, turisták tízezreit vonzza évente, akik az ipartörténeti emlékek iránt érdeklődnek.",
+      "factsAdvanced": [
+        "A világ legnagyobb kézzel ásott bányagödre, a 'Big Hole' itt található.",
+        "Az első dél-afrikai város volt elektromos közvilágítással (1882).",
+        "A gyémántbányászat központi szerepet játszott alapításában.",
+        "Észak-Fokföld tartomány közigazgatási központja.",
+        "Gazdag gyarmati kori építészeti emlékekben.",
+        "Fontos szerepet játszott az angol–búr háborúk eseményeiben."
+      ]
+    },
+    {
+      "id": "southafrica-pietermaritzburg-cities-v2",
+      "descriptionAdvanced": "Pietermaritzburg, KwaZulu-Natal fővárosa, a dél-afrikai történelem egyik legfontosabb városa. Az 1838-ban alapított település megőrizte gyarmati és viktoriánus kori építészeti örökségét, ami különleges hangulatot kölcsönöz neki. A város a régió adminisztratív és oktatási központja, emellett híres nemzetközi sporteseményekről, például a Comrades Maratonról, amely a világ legkeményebb ultratávú futóversenyeinek egyike.",
+      "factsAdvanced": [
+        "KwaZulu-Natal tartomány fővárosa.",
+        "Az 1838-as voortrekker alapítású városok egyike.",
+        "A viktoriánus kori építészet egyik kiemelkedő dél-afrikai központja.",
+        "A híres Comrades Maraton rajtja/célja.",
+        "Jelentős oktatási intézmények, köztük egyetemi központok otthona.",
+        "Központi szerepet játszott a régió adminisztrációjában."
+      ]
+    },
+    {
+      "id": "southafrica-rustenburg-cities-v2",
+      "descriptionAdvanced": "Rustenburg, az Északnyugati tartomány egyik leggyorsabban fejlődő városa, a világ legnagyobb platinakészleteinek közelében fekszik. A bányászat határozza meg a város gazdaságát, amely jelentős mértékben hozzájárul Dél-Afrika exportbevételeihez. A város a városi növekedés és az ipari tevékenység harmonikus ötvözete, emellett a 2010-es labdarúgó-világbajnokság egyik házigazdájaként a sporttérképen is ismertté vált.",
+      "factsAdvanced": [
+        "A világ egyik legnagyobb platinabányászati régiója.",
+        "Az ország egyik leggyorsabban gyarapodó városa.",
+        "Számos nemzetközi bányászati vállalat székhelye.",
+        "A 2010-es FIFA-világbajnokság egyik mérkőzéshelyszíne volt.",
+        "A város környéke gazdag mezőgazdasági területekben is.",
+        "A Rustenburg-hegység lábánál fekszik."
+      ]
+    }
+  ]
+}

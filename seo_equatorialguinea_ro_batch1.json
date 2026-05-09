@@ -1,0 +1,269 @@
+{
+  "lang": "ro",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "seehafen-malabo-economic-v2",
+      "descriptionAdvanced": "Portul maritim Malabo reprezintă poarta principală de acces și linia logistică vitală pentru insula Bioko și întreaga națiune a Guineei Ecuatoriale. Situat strategic într-un golf de apă adâncă în Golful Guineei, portul a beneficiat de modernizări extinse în ultimii ani pentru a răspunde cerințelor sectorului petrolier și gazier în plină expansiune. Facilitatea include terminale moderne pentru containere și zone specializate pentru manipularea hidrocarburilor și a mărfurilor generale. Fiind ruta principală de aprovizionare pentru capitală, eficiența portului este crucială pentru securitatea alimentară națională și dezvoltarea industrială. Portul servește ca un nod critic pentru comerțul internațional, conectând țara cu piețele globale prin rute maritime regulate și sigure. Economie K7, Logistică K8.",
+      "factsAdvanced": [
+        "Cel mai important port de mare adâncime al țării.",
+        "Nod central pentru importul de bunuri de larg consum.",
+        "Modernizat recent pentru a crește capacitatea de operare.",
+        "Locație strategică în Golful Guineei pentru logistica maritimă.",
+        "Infrastructură esențială pentru exportul produselor petroliere.",
+        "Dispune de terminale de containere de înaltă performanță.",
+        "Baza logistică principală pentru activitățile economice din capitală."
+      ]
+    },
+    {
+      "id": "hafen-bata-economic-v2",
+      "descriptionAdvanced": "Portul Bata este cea mai mare și mai semnificativă facilitate maritimă de pe continentul Guineei Ecuatoriale, servind drept motor economic pentru regiunea Río Muni. Digul său lung și distinctiv oferă adăpost unei game largi de nave, de la cargouri internaționale la flote locale de pescuit. Portul este esențial pentru distribuția bunurilor în provinciile interioare, inclusiv transportul materialelor de construcție pentru proiectele naționale de infrastructură. A fost extins semnificativ pentru a susține activitatea comercială în creștere din provincia Litoral și pentru a promova comerțul regional cu Gabon și Camerun. Zona portuară este un centru vibrant de activitate, reflectând creșterea economică dinamică a părții continentale. Geografie K6, Economie K8.",
+      "factsAdvanced": [
+        "Cea mai mare instalație portuară din Guineea Ecuatorială continentală.",
+        "Indispensabil pentru aprovizionarea provinciilor din interiorul țării.",
+        "Posedă un dig portuar lung și strategic de mare importanță.",
+        "Centrul dinamicii economice în provincia Litoral.",
+        "Facilitează comerțul direct cu țările partenere din regiune.",
+        "Baza logistică pentru expansiunea industrială în orașul Bata.",
+        "Susține atât comerțul la scară largă, cât și pescuitul local."
+      ]
+    },
+    {
+      "id": "punta-europa-lng-economic-v2",
+      "descriptionAdvanced": "Terminalul GNL Punta Europa, situat în vârful nordic al insulei Bioko, este unul dintre cele mai avansate și semnificative complexe energetice din Africa. Acesta servește ca inimă a industriei gazelor naturale din Guineea Ecuatorială, procesând gazul extras din câmpurile offshore în gaz natural lichefiat pentru exportul pe piețele globale. Instalația încorporează tehnologii de ultimă oră pentru lichefierea gazului la temperaturi extrem de scăzute, facilitând transportul acestuia în tancuri specializate. Acest terminal a transformat economia națională, oferind o sursă majoră de valută și stabilind țara ca un jucător cheie în tranziția energetică globală. Punta Europa este o dovadă a utilizării strategice a resurselor energetice vaste ale țării. Energie K8, Economie K7.",
+      "factsAdvanced": [
+        "Găzduiește cele mai importante unități de procesare a gazului din Africa.",
+        "Dane specializate pentru tancuri de gaz de ultimă generație.",
+        "Motor principal al economiei naționale de export.",
+        "Procesează gaz extras direct din zăcămintele offshore.",
+        "Punct tehnologic central al industriei naționale.",
+        "Asigură poziția țării ca furnizor global de energie.",
+        "Amplasat strategic pe coasta de nord a insulei Bioko."
+      ]
+    },
+    {
+      "id": "eg-lng-plant-economic-v2",
+      "descriptionAdvanced": "Uzina EG LNG de pe insula Bioko reprezintă o emblemă tehnologică a Guineei Ecuatoriale și un pilon central al strategiei energetice naționale. De la punerea sa în funcțiune în anul 2007, instalația procesează gazul natural din câmpurile offshore gigantice ale țării în gaz natural lichefiat (GNL), care este exportat în întreaga lume. Situată în complexul industrial Punta Europa, aproape de capitala Malabo, uzina se remarcă prin standarde moderne de siguranță și eficiență ridicată. Este rezultatul unui parteneriat de succes între stat și companii energetice internaționale. Veniturile din exportul de GNL constituie una dintre cele mai importante surse pentru bugetul național, finanțând semnificativ dezvoltarea infrastructurii publice. Tehnică K7, Economie K8.",
+      "factsAdvanced": [
+        "Punerea în funcțiune a instalației a avut loc în anul 2007.",
+        "Situată în cadrul complexului industrial Punta Europa.",
+        "Produce milioane de tone de GNL în fiecare an pentru export.",
+        "Procesează gaz natural din zăcămintele naționale offshore.",
+        "Motor central pentru veniturile în valută ale statului.",
+        "Rezultatul unor parteneriate energetice internaționale de succes.",
+        "Asigură aprovizionarea cu energie și capacitatea de export a țării."
+      ]
+    },
+    {
+      "id": "ampco-methanol-economic-v2",
+      "descriptionAdvanced": "Uzina de metanol AMPCO din Punta Europa este una dintre cele mai mari și mai moderne unități de producție de acest tip din lume. Prin conversia chimică a gazului natural extras local în metanol, uzina contribuie decisiv la diversificarea industrială a Guineei Ecuatoriale. Metanolul produs este o materie primă esențială pentru numeroase ramuri industriale, de la fabricarea plasticului până la producția de combustibili, fiind expediat de la terminalele proprii către piețele globale. Instalația este un angajator major pentru forța de muncă locală înalt calificată și reprezintă progresul tehnologic al țării. Prin rafinarea locală a resurselor, se maximizează valoarea adăugată în interiorul frontierelor naționale, întărind poziția țării ca locație industrială sofisticată în Africa Centrală. Chimie K8, Economie K7.",
+      "factsAdvanced": [
+        "Unul dintre cei mai mari producători de metanol la nivel mondial.",
+        "Utilizează gazul natural local ca materie primă principală.",
+        "Asigură valoarea adăugată industrială în interiorul țării.",
+        "Exportă metanol către clienți din întreaga lume.",
+        "Angajator important pentru ingineri și tehnicieni calificați.",
+        "Situată strategic în zona industrială din apropierea orașului Malabo.",
+        "Exemplu de succes pentru diversificarea economică națională."
+      ]
+    },
+    {
+      "id": "alba-gas-plant-economic-v2",
+      "descriptionAdvanced": "Instalația de gaz Alba este o componentă indispensabilă a infrastructurii energetice de pe insula Bioko, procesând materii prime din importantul câmp offshore Alba. Uzina este specializată în extragerea gazului petrolier lichefiat (GPL) și a condensatului, destinate atât pieței interne, cât și exportului. Deosebit de importantă este producția de gaz pentru gătit, care asigură aprovizionarea gospodăriilor din întreaga țară, contribuind direct la îmbunătățirea calității vieții populației. În plus, instalația furnizează combustibilul necesar pentru centralele electrice locale care alimentează capitala Malabo cu energie. Ca parte a unui lanț de valoare integrat, uzina Alba demonstrează utilizarea eficientă a resurselor naturale pentru securitatea energetică. Energie K8, Studii Sociale K7.",
+      "factsAdvanced": [
+        "Procesează resurse din zăcământul offshore major Alba.",
+        "Principalul producător de gaz lichefiat (GPL) pentru uz casnic.",
+        "Alimentează centralele electrice locale cu combustibilul necesar.",
+        "Asigură stabilitatea alimentării cu energie în regiunea Malabo.",
+        "Contribuție majoră la securitatea energetică națională a țării.",
+        "Parte integrantă a infrastructurii energetice de pe insula Bioko.",
+        "Produce condensat valoros pentru piețele internaționale de profil."
+      ]
+    },
+    {
+      "id": "luba-freeport-economic-v2",
+      "descriptionAdvanced": "Portul liber Luba este un nod maritim specializat și o zonă economică scutită de taxe situată pe coasta de vest a insulei Bioko. Acesta funcționează ca bază principală de servicii pentru industria offshore de petrol și gaze din Golful Guineei, oferind dane de apă adâncă și suport logistic extins. Portul furnizează o gamă variată de servicii, inclusiv depozitarea echipamentelor, întreținerea navelor și activități de fabricație, atrăgând numeroase companii internaționale. Locația sa strategică și operațiunile eficiente l-au transformat într-un hub preferat pentru logistica energetică regională, reducând costurile pentru operatorii offshore. Dezvoltarea portului Luba este o parte cheie a strategiei guvernamentale de diversificare a economiei. Economie K8, Geografie K7.",
+      "factsAdvanced": [
+        "Port specializat de apă adâncă și zonă economică liberă.",
+        "Baza principală pentru serviciile offshore din regiunea Africii de Vest.",
+        "Statut de zonă scutită de taxe pentru atragerea investițiilor străine.",
+        "Centru central pentru întreținerea și repararea platformelor petroliere.",
+        "Amplasat strategic pe coasta vestică a insulei Bioko.",
+        "Actor major pentru serviciile industriale maritime de profil.",
+        "Dispune de infrastructură modernă și dane de mare adâncime."
+      ]
+    },
+    {
+      "id": "djibloho-dam-economic-v2",
+      "descriptionAdvanced": "Hidrocentrala Djibloho de pe râul Wele este un proiect monumental de infrastructură și cea mai importantă lucrare pentru obținerea energiei regenerabile din Guineea Ecuatorială. Prin ridicarea barajului impunător, a fost exploatată o sursă durabilă de energie care oferă o bază stabilă pentru electrificarea unor zone extinse de pe continent. Proiectul este parte integrantă a planului de dezvoltare pentru noua provincie Djibloho și construcția viitoarei capitale, Ciudad de la Paz. Acesta reduce semnificativ dependența țării de combustibilii fosili importați pentru producerea electricității și este un simbol al efortului către independența energetică națională prin utilizarea resurselor proprii. Energie K8, Tehnică K7.",
+      "factsAdvanced": [
+        "Cel mai mare proiect hidroenergetic din întreaga țară.",
+        "Asigură o aprovizionare cu energie stabilă și durabilă.",
+        "Barajul reprezintă o lucrare inginerească remarcabilă de mari dimensiuni.",
+        "Motorul pentru electrificarea regiunilor rurale de pe continent.",
+        "Reduce dependența de importurile scumpe de combustibili fosili.",
+        "Element central al planificării infrastructurii în provincia Djibloho.",
+        "Utilizează eficient potențialul hidroenergetic al râului Wele."
+      ]
+    },
+    {
+      "id": "sendje-dam-economic-v2",
+      "descriptionAdvanced": "Hidrocentrala Sendje este un proiect strategic situat în interiorul regiunii Bata, care extinde decisiv capacitatea energetică regională și asigură aprovizionarea zonei de coastă aflate în plină dezvoltare. Prin utilizarea forței râului Benito, uzina reprezintă o alternativă fiabilă și ecologică la generarea termică de energie electrică. Cu tehnologia sa modernă și capacitatea ridicată, centrala contribuie la satisfacerea cererii industriale tot mai mari din orașul Bata și la garantarea unei rețele electrice stabile pentru provincia Litoral. Este un proiect cheie pentru dezvoltarea pe termen lung a industriei locale și o contribuție importantă la strategia energetică națională a țării. Energie K8, Economie K7.",
+      "factsAdvanced": [
+        "Utilizează în mod eficient forța hidraulică a râului Benito.",
+        "Extinde capacitatea electrică pentru regiunea industrială Bata.",
+        "Cea mai modernă centrală electrică cu accent pe fiabilitate.",
+        "Contribuție majoră la reducerea emisiilor de gaze cu efect de seră.",
+        "Întărește fundamentul economic al provinciei de coastă Litoral.",
+        "Un pilon al politicii energetice moderne a statului african.",
+        "Dispune de tehnologie avansată de transmisie a energiei produse."
+      ]
+    },
+    {
+      "id": "port-annobon-economic-v2",
+      "descriptionAdvanced": "Portul San Antonio de Palé de pe insula Annobón este legătura vitală a acestei provincii îndepărtate cu restul Guineei Ecuatoriale. Facilitatea a fost modernizată extensiv în ultimii ani pentru a face față condițiilor maritime dificile din Atlanticul de Sud și pentru a permite acostarea navelor mai mari în siguranță. Datorită izolării extreme a insulei, portul este poarta principală pentru importul de alimente, medicamente, combustibili și materiale de construcție. În același timp, permite transportul produselor locale și promovează dezvoltarea economică regională. Noul dig portuar și capacitățile de depozitare îmbunătățite au crescut semnificativ securitatea aprovizionării insulei. Geografie K6, Economie K7.",
+      "factsAdvanced": [
+        "Singura poartă maritimă de acces pentru provincia Annobón.",
+        "Punct central pentru aprovizionarea cu bunuri de importanță vitală.",
+        "Modernizare extinsă a danelor de acostare finalizată după 2010.",
+        "Asigură traficul regulat de mărfuri către partea continentală.",
+        "Baza pentru pescuitul local și comerțul regional al insulei.",
+        "Permite operarea navelor mari de marfă și de pasageri.",
+        "Etapă importantă pentru dezvoltarea infrastructurii acestei provincii."
+      ]
+    },
+    {
+      "id": "port-cogo-economic-v2",
+      "descriptionAdvanced": "Portul Cogo, situat la gura de vărsare a râului Muni, are o istorie lungă ca punct comercial strategic în sud-vestul Guineei Ecuatoriale. Din punct de vedere istoric, a fost un centru important de transbordare pentru lemnul prețios și materiile prime din interiorul regiunii Río Muni, asigurând legătura maritimă cu țara vecină, Gabon. Astăzi, portul continuă să joace un rol important în economia locală, în special pentru pescuitul artizanal și schimbul regional de bunuri. Locația pitorească pe estuarul larg îl face, de asemenea, o destinație potențială pentru ecoturism. Infrastructura servește drept ancoră logistică pentru provincia Litoral, facilitând transportul de-a lungul coastei. Istorie K7, Geografie K6.",
+      "factsAdvanced": [
+        "Port fluvial istoric situat la gura de vărsare a estuarului Muni.",
+        "Punct comercial important în apropierea frontierei cu statul Gabon.",
+        "Centrul industriei locale de pescuit artizanal din regiunea de sud.",
+        "Fost loc semnificativ pentru exportul de lemn tropical valoros.",
+        "Nod logistic pentru partea de sud-vest a regiunii Río Muni.",
+        "Oferă acces direct la apele bogate în pește ale estuarului Muni.",
+        "Promovează schimburile regionale și mobilitatea populației locale."
+      ]
+    },
+    {
+      "id": "bioko-oil-terminal-economic-v2",
+      "descriptionAdvanced": "Terminalul petrolier Bioko de lângă Malabo este una dintre cele mai mari și mai importante facilități de încărcare pentru țiței din Africa de Vest. Ca nod central, acesta conectează câmpurile petroliere offshore productive din Golful Guineei cu piețele energetice internaționale. Instalația dispune de rezervoare de stocare gigantice și sisteme de încărcare de ultimă generație, care permit operarea eficientă și sigură a tancurilor petroliere de mari dimensiuni. Deoarece exportul de țiței reprezintă pilonul principal al economiei țării, funcționarea fără probleme a acestui terminal este crucială pentru bugetul de stat. Instalația respectă cele mai stricte standarde internaționale de protecție a mediului și siguranță. Economie K8, Tehnică K7.",
+      "factsAdvanced": [
+        "Principalul nod de export pentru țițeiul din Guineea Ecuatorială.",
+        "Dispune de o rețea vastă de rezervoare de stocare de mare capacitate.",
+        "Locație strategică avantajoasă în nordul insulei vulcanice Bioko.",
+        "Dotat cu tehnologie modernă de conducte și sisteme de încărcare.",
+        "Asigură veniturile statului provenite din sectorul energetic major.",
+        "Operează respectând cu strictețe normele globale de siguranță maritimă.",
+        "Element central al infrastructurii economice naționale a țării."
+      ]
+    },
+    {
+      "id": "bata-power-plant-economic-v2",
+      "descriptionAdvanced": "Centrala electrică Bata este principala facilitate pentru generarea termică a energiei pe continentul Guineei Ecuatoriale, asigurând sarcina de bază pentru cel mai mare oraș al țării. Prin utilizarea gazului sau a combustibililor lichizi speciali, uzina garantează o aprovizionare stabilă cu energie, esențială pentru funcționarea spitalelor, școlilor și companiilor din provincia Litoral. În ultimii ani, instalația a fost modernizată pentru a crește eficiența și a răspunde nevoilor populației urbane în creștere rapidă. Centrala lucrează în paralel cu proiectele hidroenergetice naționale pentru a asigura un mix energetic diversificat și fiabil, fiind un motor pentru dezvoltarea socială. Energie K8, Planificare Urbană K7.",
+      "factsAdvanced": [
+        "Cea mai importantă centrală termoelectrică de pe continent.",
+        "Asigură necesarul de bază de energie pentru orașul Bata.",
+        "Utilizează gaz natural și combustibili lichizi pentru producție.",
+        "Modernizare cuprinzătoare realizată pentru creșterea capacității.",
+        "Infrastructură esențială pentru industrie și sectorul comercial.",
+        "Parte integrantă a sistemului național de alimentare cu energie.",
+        "Susține creșterea urbană accelerată în provincia de coastă Litoral."
+      ]
+    },
+    {
+      "id": "malabo-power-plant-economic-v2",
+      "descriptionAdvanced": "Centrala electrică Malabo constituie inima energetică a capitalei Guineei Ecuatoriale, alimentând cu fiabilitate nordul insulei Bioko. Instalația utilizează gaz natural extras local, ceea ce permite o producție de energie mai eficientă din punct de vedere al costurilor și mai ecologică în comparație cu generatoarele diesel tradiționale. Ca unitate centrală, centrala este de o importanță crucială pentru aprovizionarea clădirilor guvernamentale, a organizațiilor internaționale și a zonei industriale în expansiune. Aceasta asigură funcționalitatea orașului Malabo ca centru administrativ modern și contribuie semnificativ la stabilitatea rețelei electrice a insulei prin investiții continue în mentenanță. Energie K8, Studii Sociale K7.",
+      "factsAdvanced": [
+        "Instalația centrală de generare a energiei pentru capitala Malabo.",
+        "Funcționează pe bază de gaz natural local din surse offshore.",
+        "Garantează alimentarea cu energie a instituțiilor guvernamentale.",
+        "Reduce dependența țării de importurile scumpe de combustibili.",
+        "Amplasată strategic în apropierea zonelor industriale cheie.",
+        "Pilon al modernizării infrastructurii pe întreaga insulă Bioko.",
+        "Asigură calitatea vieții și serviciile publice pentru populația urbană."
+      ]
+    },
+    {
+      "id": "luba-sawmill-economic-v2",
+      "descriptionAdvanced": "Gaterul din Luba, situat pe insula Bioko, este un sit industrial semnificativ pentru prelucrarea lemnului și un actor important în economia forestieră a Guineei Ecuatoriale. Instalația este specializată în procesarea lemnului tropical valoros din pădurile dese ale insulei în produse de export de înaltă calitate și materiale de construcție pentru piața internă. Prin prelucrarea locală a buștenilor, gaterul contribuie la crearea de valoare adăugată în țară și oferă numeroase locuri de muncă pentru populația provinciei Bioko Sur. Unitatea funcționează conform reglementărilor statului care promovează gestionarea durabilă a pădurilor și protecția resurselor naturale ale insulei. Economie K7, Știința Mediului K8.",
+      "factsAdvanced": [
+        "Instalație majoră pentru prelucrarea lemnului tropical prețios.",
+        "Angajator important în regiunea Luba și în provincia Bioko Sur.",
+        "Produce cherestea pentru sectorul construcțiilor și pentru export.",
+        "Contribuie la creșterea valorii adăugate la nivel local în regiune.",
+        "Operează conform directivelor naționale pentru silvicultură durabilă.",
+        "Promovează exportul de produse din lemn prelucrate și finisate.",
+        "Componentă importantă a bazei industriale a insulei vulcanice."
+      ]
+    },
+    {
+      "id": "mbini-fishing-port-economic-v2",
+      "descriptionAdvanced": "Portul de pescuit Mbini, situat la gura de vărsare a râului Benito, este centrul vibrant al economiei pescuitului în provincia Litoral. Ca facilitate maritimă specializată, acesta oferă flotei locale de pescuit o infrastructură esențială, inclusiv dane moderne, stații de alimentare și depozite frigorifice pentru conservarea capturii zilnice. Pescuitul este principala sursă de venit pentru multe familii din regiune, iar portul facilitează distribuția peștelui proaspăt către piețele din Bata și din interiorul țării. Instalația reflectă angajamentul guvernului de a întări sectorul tradițional al pescuitului, modernizând în același timp infrastructura pentru securitatea alimentară. Economie K7, Geografie K6.",
+      "factsAdvanced": [
+        "Port specializat dedicat exclusiv pescuitului artizanal local.",
+        "Situat strategic la gura de vărsare a importantului râu Benito.",
+        "Dispune de instalații frigorifice moderne pentru conservarea peștelui.",
+        "Punct central de aprovizionare cu fructe de mare proaspete în regiune.",
+        "Asigură veniturile a sute de familii de pescari din comunitate.",
+        "Factor important pentru securitatea alimentară regională a zonei.",
+        "Promovează comerțul activ între zona de coastă și interiorul țării."
+      ]
+    },
+    {
+      "id": "mongomo-industrial-zone-economic-v2",
+      "descriptionAdvanced": "Zona industrială Mongomo din estul provinciei Wele-Nzas a fost creată pentru a stimula creșterea industriei ușoare și a meșteșugurilor în interiorul țării. Prin furnizarea infrastructurii necesare, cum ar fi drumuri asfaltate, electricitate și apă, zona oferă condiții ideale pentru antreprenorii locali și investitorii internaționali. Accentul este pus pe producția de bunuri de larg consum, mobilier și materiale de construcție, cu scopul de a reduce dependența de importuri și de a crea locuri de muncă în regiunea rurală. Datorită locației sale aproape de frontiera cu Gabon, zona este un punct strategic pentru comerțul regional și integrarea economică a regiunii Río Muni. Economie K8, Geografie K6.",
+      "factsAdvanced": [
+        "Zonă desemnată pentru industria ușoară și producția locală.",
+        "Situată lângă orașul Mongomo în provincia estică Wele-Nzas.",
+        "Promovează antreprenoriatul local și ocuparea forței de muncă rurale.",
+        "Focus pe materiale de construcții și bunuri de consum zilnic.",
+        "Locație strategică pentru comerțul transfrontalier cu statul Gabon.",
+        "Pilon important al descentralizării economice la nivel național.",
+        "Oferă ateliere moderne și capacități de depozitare sigure."
+      ]
+    },
+    {
+      "id": "akoga-cement-factory-economic-v2",
+      "descriptionAdvanced": "Fabrica de ciment din Akoga, situată în provincia Litoral, este o unitate industrială vitală care furnizează materialele necesare pentru boom-ul masiv al construcțiilor din Guineea Ecuatorială. Prin producția locală de ciment de înaltă calitate, fabrica contribuie la reducerea costurilor proiectelor naționale de dezvoltare și scade dependența de importurile scumpe. Instalația este dotată cu tehnologie modernă de măcinare, care garantează o producție eficientă și o calitate constantă a produsului finit. Existența sa a fost decisivă pentru extinderea rapidă a orașelor precum Bata, precum și pentru construcția de noi drumuri și poduri pe întreg continentul, consolidând sectorul construcțiilor. Economie K7, Tehnică K8.",
+      "factsAdvanced": [
+        "Instalație centrală pentru producția națională de ciment a țării.",
+        "Indispensabilă pentru sectorul construcțiilor și al infrastructurii.",
+        "Reduce semnificativ dependența de importurile de ciment din afară.",
+        "Amplasată strategic în provincia de coastă Litoral din regiunea Muni.",
+        "Utilizează tehnologii moderne de măcinare și fabricare a cimentului.",
+        "Motor pentru urbanizarea rapidă a întregii regiuni Río Muni.",
+        "Simbol al independenței industriale și al dezvoltării urbane moderne."
+      ]
+    },
+    {
+      "id": "k5-logistics-malabo-economic-v2",
+      "descriptionAdvanced": "Centrul logistic K5 Malabo, situat la kilometrul 5 al drumului de la Malabo la Luba, este principalul parc comercial și logistic de pe insula Bioko. Acest complex extins oferă depozitare modernă, spații de birouri și zone de servicii specializate pentru o multitudine de companii internaționale și locale. Funcționează ca centru primar de distribuție pentru bunuri de larg consum, echipamente industriale și accesorii pentru industria petrolieră, beneficiind de proximitatea strategică față de capitală și porturile principale. K5 a devenit un centru pentru afacerile internaționale, găzduind numeroase firme multinaționale care activează în regiune, profesionalizând acest sector. Economie K8, Logistică K7.",
+      "factsAdvanced": [
+        "Parcul logistic principal de pe întreaga insulă vulcanică Bioko.",
+        "Locație strategică pe drumul principal care leagă Malabo de Luba.",
+        "Oferă capacități moderne de depozitare și spații de birouri.",
+        "Nod central de transbordare pentru bunuri industriale și de consum.",
+        "Locație pentru numeroase companii multinaționale importante.",
+        "Vital pentru eficiența lanțurilor naționale de aprovizionare ale țării.",
+        "Dispune de standarde ridicate de securitate și servicii suport."
+      ]
+    },
+    {
+      "id": "palm-oil-akonibe-economic-v2",
+      "descriptionAdvanced": "Uzina de ulei de palmier Akonibe este un proiect agroindustrial semnificativ în provincia fertilă Wele-Nzas de pe continentul Guineei Ecuatoriale. În această instalație, fructele de palmier de la plantațiile locale și de la micii fermieri sunt procesate în ulei de palmier rafinat pentru consumul intern și scopuri industriale. Prin crearea unei piețe de încredere pentru produsele agricole, fabrica susține existența a mii de familii rurale și promovează diversificarea sectorului agricol. Uzina reprezintă efortul țării de a revitaliza agricultura tradițională și de a atinge o suveranitate alimentară mai mare în această regiune bogată în resurse naturale. Economie K7, Agricultură K8.",
+      "factsAdvanced": [
+        "Instalație importantă pentru procesarea uleiului de palmier local.",
+        "Situată în interiorul fertil al provinciei continentale Wele-Nzas.",
+        "Susține veniturile micilor fermieri și agricultori din zonă.",
+        "Produce ulei alimentar rafinat destinat pieței naționale interne.",
+        "Proiect central pentru promovarea agriculturii și a producției locale.",
+        "Contribuie la revitalizarea economică a districtului Akonibe.",
+        "Exemplu de utilizare industrială durabilă a resurselor agrare."
+      ]
+    }
+  ]
+}

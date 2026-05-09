@@ -2,335 +2,67 @@
   "lang": "de",
   "country": "southafrica",
   "files": [
-    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts"
   ],
   "items": [
     {
-      "id": "southafrica-bloemfontein-cities-v2",
-      "descriptionAdvanced": "Bloemfontein, die Judikativhauptstadt Südafrikas und Hauptstadt der Provinz Freistaat, wird aufgrund ihres floralen Reichtums oft als 'Stadt der Rosen' bezeichnet. Die Stadt wurde 1846 als britisches Fort gegründet und entwickelte sich schnell zu einem bedeutenden administrativen Zentrum. Historisch ist sie besonders wichtig als Gründungsort des African National Congress (ANC) im Jahr 1912. Als Sitz des Obersten Berufungsgerichts bildet sie das rechtliche Rückgrat des Landes. Geografisch liegt sie in der zentralen Hochebene auf etwa 1.395 Metern Höhe. Geschichte K8 — Politische Entwicklung und Apartheid-Widerstand.",
+      "id": "port-of-durban-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Durban, auch als Durban Harbour bekannt, fungiert as das bedeutendste logistische Drehkreuz des afrikanischen Kontinents. Er ist der verkehrsreichste Seehafen in Südafrika und bildet einen unverzichtbaren Knotenpunkt für den internationalen Warenhandel. Die Anlage wird von der Transnet National Ports Authority verwaltet und zeichnet sich durch eine moderne Infrastruktur aus, die den Umschlag von Containern sowie von Stück- und Schüttgut ermöglicht. Durch seine strategisch exzellente Lage an der Ostküste des Landes dient er als primäres Tor für die Handelsrouten zwischen Europa, Asien und Amerika.",
       "factsAdvanced": [
-        "Gründung 1846 durch Major Douglas Warden.",
-        "Sitz des Obersten Berufungsgerichts seit 1910.",
-        "Gründungsort des ANC am 8. Januar 1912.",
-        "Höhe von 1.395 Metern über dem Meeresspiegel.",
-        "Jährliches Rosenfestival im Oktober.",
-        "Heimat der University of the Free State.",
-        "Einwohnerzahl im Großraum über 550.000.",
-        "Liegt an der wichtigen Nationalstraße N1."
+        "Verarbeitet jährlich etwa 60 Prozent des gesamten südafrikanischen Containeraufkommens.",
+        "Der Hafen besitzt eine Fläche von rund 21 Hektar innerhalb seines Beckens.",
+        "Er verfügt über mehr als 50 Anlegestellen für unterschiedliche Schiffstypen.",
+        "Die Anfahrt erfolgt durch einen etwa 12,8 Meter tiefen Zufahrtskanal.",
+        "Durban ist ein entscheidender Hub für die südafrikanische Automobil- und Textilindustrie.",
+        "Die Hafenaktivitäten unterstützen Tausende von direkten und indirekten Arbeitsplätzen in KwaZulu-Natal."
       ]
     },
     {
-      "id": "southafrica-johannesburg-cities-v2",
-      "descriptionAdvanced": "Johannesburg, auch bekannt als 'Egoli' (Ort des Goldes), ist die größte Stadt Südafrikas und das wirtschaftliche Kraftzentrum des gesamten afrikanischen Kontinents. Entstanden aus einem Goldrausch im Jahr 1886, wandelte sich die Siedlung in Rekordzeit von einem Zeltlager zu einer modernen Metropole. Die Stadt liegt auf dem Highveld-Plateau der Provinz Gauteng und ist von massiven Abraumhalden der Minen umgeben. Heute ist sie ein multikulturelles Zentrum für Finanzen, Handel und Medien, trotz ihrer turbulenten Geschichte während der Apartheid. Geografie K7 — Ressourcen und Urbanisierung.",
+      "id": "port-of-richards-bay-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Richards Bay wurde in den 1970er Jahren als spezialisierter Tiefseehafen konzipiert, um der wachsenden Nachfrage nach Massengutexporten in Südafrika gerecht zu werden. Gelegen in der Provinz KwaZulu-Natal, hat er sich zum weltweiten Zentrum für den Export von thermischer Kohle entwickelt. Die Hafenanlage ist für ihre beeindruckende Größe und ihre hochspezialisierten Terminals bekannt, die in der Lage sind, Schiffe der Capesize-Klasse abzufertigen. Durch kontinuierliche Ausbauprojekte bleibt Richards Bay ein technologisch fortschrittlicher Industriestandort, der eine zentrale Rolle in der nationalen Exportstrategie einnimmt.",
       "factsAdvanced": [
-        "Gegründet 1886 nach Entdeckung des Witwatersrand-Goldriffs.",
-        "Größte Stadt der Welt, die nicht an einem Fluss oder See liegt.",
-        "Sitz der südafrikanischen Börse JSE.",
-        "Liegt auf einer Höhe von 1.753 Metern.",
-        "Besitzt den O.R. Tambo International Airport, Afrikas geschäftigsten Flughafen.",
-        "Wirtschaftliches Zentrum der Provinz Gauteng.",
-        "Über 5 Millionen Einwohner im Stadtgebiet.",
-        "Beherbergt den ikonischen Carlton Centre Wolkenkratzer."
+        "Beherbergt das weltweit größte Terminal für den Export von Kohle.",
+        "Die Hafenanlage erstreckt sich über eine beeindruckende Fläche von rund 2.150 Hektar.",
+        "Der Tiefwasserhafen ermöglicht die Abfertigung von Schiffen mit bis zu 250.000 Tonnen Tragfähigkeit.",
+        "Er verbindet die Kohleminen der Provinz Mpumalanga über eine dedizierte Schienenstrecke mit dem Weltmarkt.",
+        "Der Hafen umfasst spezielle Terminals für trockenes Massengut, Flüssigchemikalien und Bruchholz.",
+        "Richards Bay ist ein kritischer Motor für das industrielle Wachstum in der östlichen Küstenregion."
       ]
     },
     {
-      "id": "southafrica-durban-cities-v2",
-      "descriptionAdvanced": "Durban, die größte Stadt in KwaZulu-Natal, ist das wichtigste Tor Südafrikas zum Indischen Ozean. Ihr Hafen ist der verkehrsreichste Containerterminal des Landes und von strategischer Bedeutung für den Handel mit Asien. Die Stadt ist berühmt für ihr subtropisches Klima und die 'Golden Mile', eine weitläufige Strandpromenade, die Touristen und Surfer gleichermaßen anzieht. Einzigartig ist die kulturelle Mischung, da Durban die größte indische Bevölkerungsgruppe außerhalb Indiens beherbergt, was sich in Architektur, Märkten und der Gastronomie widerspiegelt. Geografie K7 — Hafenwirtschaft und maritime Handelsrouten.",
+      "id": "port-of-cape-town-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Kapstadt liegt an einer der strategisch wichtigsten maritimen Kreuzungen der Welt, direkt am Atlantischen Ozean. Als historisch bedeutender Seehafen hat er sich zu einem modernen Logistikzentrum gewandelt, das insbesondere für den Export von hochwertigen landwirtschaftlichen Erzeugnissen bekannt ist. Die Anlage spielt eine entscheidende Rolle für die südafrikanische Wein- und Obstreiseindustrie, da sie die effiziente Verschiffung dieser verderblichen Güter in globale Märkte ermöglicht. Neben dem Güterumschlag ist Kapstadt zudem ein wesentlicher Standort für die Reparatur und Wartung von Schiffen sowie für die florierende Fischereiindustrie.",
       "factsAdvanced": [
-        "Hafen von Durban bewältigt ca. 60% des südafrikanischen Containerverkehrs.",
-        "Größte indische Gemeinschaft außerhalb Asiens.",
-        "Erbaut am natürlichen Hafenbecken der Bucht von Natal.",
-        "Sitz des uShaka Marine World, eines der größten Aquarien weltweit.",
-        "Wichtiger Austragungsort der Fußball-WM 2010 (Moses-Mabhida-Stadion).",
-        "Gegründet 1824 als Port Natal.",
-        "Subtropisches Klima mit über 300 Sonnentagen pro Jahr.",
-        "Endpunkt der Comrades Marathon Strecke."
+        "Der Hafen fungiert als primäres Exporttor für Wein und frisches Obst aus der Westkap-Region.",
+        "Er umfasst spezialisierte Terminals für Kühlcontainer, um die Qualität der Frischwaren zu garantieren.",
+        "Das Hafengelände beheimatet eine der aktivsten Schiffsreparaturwerften des afrikanischen Kontinents.",
+        "Kapstadt dient als wichtiger Anlaufpunkt für internationale Kreuzfahrtschiffe.",
+        "Der Hafen ist direkt an die bedeutenden Autobahn- und Schienennetze des Westkaps angebunden.",
+        "Die Hafenaktivitäten sind eng mit der regionalen wirtschaftlichen Stabilität und dem Tourismus verknüpft."
       ]
     },
     {
-      "id": "southafrica-gqeberha-cities-v2",
-      "descriptionAdvanced": "Gqeberha, bis 2021 offiziell als Port Elizabeth bekannt, ist ein zentraler Industriestandort an der Algoa-Bucht in der Provinz Ostkap. Die Stadt wird oft als 'Die freundliche Stadt' oder 'Die windige Stadt' bezeichnet. Sie gilt als das Herz der südafrikanischen Automobilindustrie, da hier bedeutende Werke internationaler Hersteller angesiedelt sind. Neben der Industrie bietet Gqeberha wunderschöne Sandstrände und dient als Ausgangspunkt für Safaris in den nahegelegenen Addo Elephant National Park. Der neue Name ehrt das Volk der Xhosa und deren lokale Geschichte. Geografie K7 — Industriestandorte und Küstenregionen.",
+      "id": "port-of-gqeberha-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Gqeberha, früher bekannt als Hafen von Port Elizabeth, ist ein essenzieller Pfeiler der südafrikanischen Automobilindustrie. Gelegen an der Algoa Bay in der Provinz Ostkap, wurde der Hafen speziell mit Anlagen ausgestattet, um den Export von fertig montierten Kraftfahrzeugen zu optimieren. Er dient als wichtiges logistisches Drehkreuz für die nahegelegenen Automobilwerke globaler Hersteller. Über die Fahrzeuglogistik hinaus bietet der Hafen vielseitige Kapazitäten für die Abfertigung von Schüttgütern und Containern, wodurch er eine zentrale Rolle in der regionalen Wirtschaftsstruktur des Ostkaps einnimmt.",
       "factsAdvanced": [
-        "Offizielle Umbenennung in Gqeberha am 23. Februar 2021.",
-        "Wichtigstes Zentrum der südafrikanischen Automobilproduktion.",
-        "Gegründet 1820 durch britische Siedler.",
-        "Liegt an der Küste des Indischen Ozeans in der Algoa Bay.",
-        "Zweitälteste Stadt Südafrikas mit Stadtrechten.",
-        "Beherbergt den Tiefseehafen Ngqura (Coega).",
-        "Heimat der Nelson Mandela University.",
-        "Austragungsort des Iron Man South Africa."
+        "Verfügt über ein dediziertes, hochmodernes Autoterminal für den effizienten Fahrzeugexport.",
+        "Dient als primärer Seehafen für die ansässigen Automobilgiganten der Region.",
+        "Der Hafen profitiert von der direkten Nähe zu den großen Industriegebieten des Ostkaps.",
+        "Er spielt eine Schlüsselrolle bei der Exportabwicklung von manganhaltigen Erzen.",
+        "Gqeberha bietet moderne Lagerkapazitäten für eine Vielzahl von Industriegütern.",
+        "Die Hafeninfrastruktur unterstützt die maritime Verbindung zwischen Südafrika und den globalen Märkten."
       ]
     },
     {
-      "id": "southafrica-east-london-cities-v2",
-      "descriptionAdvanced": "East London ist eine bedeutende Küstenstadt in der Provinz Ostkap und besitzt den einzigen Flusshafen Südafrikas an der Mündung des Buffalo River. Die Stadt ist ein wirtschaftliches Zentrum für die Automobilmontage und die landwirtschaftliche Verarbeitung der umliegenden Region. International bekannt wurde die Stadt 1938, als hier der prähistorische Quastenflosser, der als ausgestorben galt, wiederentdeckt wurde. East London besticht durch seine entspannte Atmosphäre und weitläufige Strände wie Nahoon Beach, die ideal für Wassersportarten sind. Geografie K7 — Flussmündungen und regionale Wirtschaft.",
+      "id": "port-of-saldanha-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Saldanha in der Provinz Westkap zeichnet sich als der größte und tiefste natürliche Seehafen der südlichen Hemisphäre aus. Aufgrund seiner außergewöhnlichen topographischen Lage wurde er zu einem hochspezialisierten Exportzentrum für Eisenerz ausgebaut. Die Hafenanlage ist das Endglied der massiven Logistikkette, die die Eisenerzminen in der Provinz Nordkap mit der globalen Stahlindustrie verbindet. Mit einer modernen Infrastruktur, die für den Betrieb mit extrem großen Massengutschiffen ausgelegt ist, spielt Saldanha eine absolut kritische Rolle für die südafrikanische Handelsbilanz und den Bergbausektor.",
       "factsAdvanced": [
-        "Einziger Flusshafen Südafrikas am Buffalo River.",
-        "Wiederentdeckung des Quastenflossers (Coelacanth) im Jahr 1938.",
-        "Wichtiger Standort für das Mercedes-Benz Montagewerk.",
-        "Gegründet 1847 während der Grenzkriege als Port Rex.",
-        "Nahoon Beach ist weltweit bekannt unter Surfern.",
-        "Zentrum des Distrikts Buffalo City.",
-        "Beherbergt das East London Museum mit dem Quastenflosser-Präparat.",
-        "Einwohnerzahl der Metropolregion ca. 800.000."
-      ]
-    },
-    {
-      "id": "southafrica-polokwane-cities-v2",
-      "descriptionAdvanced": "Polokwane, die Hauptstadt der Provinz Limpopo, ist das wichtigste wirtschaftliche und administrative Zentrum im Norden Südafrikas. Der Name bedeutet in der Sprache Nord-Sotho 'Ort der Sicherheit'. Die Stadt liegt strategisch günstig an der Hauptverkehrsader N1, die Südafrika mit Zimbabwe und dem restlichen Kontinent verbindet. Ursprünglich 1886 als Pietersburg gegründet, wurde sie 2003 umbenannt. Die Umgebung ist geprägt von Bergbau, Landwirtschaft und dem nahegelegenen Bakone Malapa Open-Air Museum, das die traditionelle Sotho-Kultur lebendig hält. Geografie K7 — Binnenstädte und Infrastrukturknotenpunkte.",
-      "factsAdvanced": [
-        "Hieß bis zum 25. Februar 2003 Pietersburg.",
-        "Größte Stadt nördlich von Gauteng.",
-        "Gegründet 1886 durch Voortrekker-Siedler.",
-        "Liegt auf einer Höhe von ca. 1.310 Metern.",
-        "Wichtiger Knotenpunkt für den Handel mit den SADC-Staaten.",
-        "Heimat des Peter-Mokaba-Stadions (WM 2010).",
-        "Das Klima ist semiarid mit warmen Sommern.",
-        "Sitz der University of Limpopo."
-      ]
-    },
-    {
-      "id": "southafrica-mbombela-cities-v2",
-      "descriptionAdvanced": "Mbombela, früher als Nelspruit bekannt, ist die Hauptstadt der Provinz Mpumalanga und liegt im fruchtbaren Tal des Crocodile River. Die Stadt ist weltweit als 'Tor zum Kruger-Nationalpark' bekannt, da sie als wichtigster Versorgungsknotenpunkt für Safaritouristen dient. Wirtschaftlich dominiert neben dem Tourismus die Landwirtschaft, insbesondere die Produktion von Zitrusfrüchten, Avocados und Nüssen. Die subtropische Umgebung und die Nähe zur Grenze von Mosambik machen Mbombela zu einem vitalen Handelszentrum. Der Name Mbombela bedeutet in siSwati 'viele Menschen an einem kleinen Ort'. Geografie K7 — Agrarwirtschaft und Ökotourismus.",
-      "factsAdvanced": [
-        "Offizielle Umbenennung von Nelspruit in Mbombela im Jahr 2009.",
-        "Hauptstadt der Provinz Mpumalanga seit 1994.",
-        "Gegründet 1891 durch die Brüder Nel.",
-        "Zentrum der südafrikanischen Zitrusfrucht-Produktion.",
-        "Beherbergt die spektakulären Lowveld National Botanical Gardens.",
-        "Strategische Lage am Maputo Development Corridor.",
-        "Das Mbombela-Stadion ist bekannt für seine 'Giraffen'-Stützen.",
-        "Subtropisches Klima mit milden Wintern."
-      ]
-    },
-    {
-      "id": "southafrica-kimberley-cities-v2",
-      "descriptionAdvanced": "Kimberley, die Hauptstadt der Provinz Nordkap, erlangte Weltruhm durch den gewaltigen Diamantenrausch im späten 19. Jahrhundert. Das Herzstück der Stadt ist das 'Big Hole', das ehemals tiefste von Hand gegrabene Loch der Welt, ein Überbleibsel der ehemaligen Kimberley-Mine. Die Stadt spielte eine entscheidende Rolle in der Industriegeschichte Südafrikas und war 1882 die erste Stadt in der südlichen Hemisphäre mit elektrischer Straßenbeleuchtung. Heute ist Kimberley ein bedeutendes historisches Zentrum und Verwaltungssitz, das den Charme der viktorianischen Ära bewahrt hat. Geschichte K8 — Bergbau und industrielle Revolution.",
-      "factsAdvanced": [
-        "Gründung 1871 nach dem ersten Diamantenfund am Colesberg Kopje.",
-        "Das 'Big Hole' hat einen Umfang von 1,6 Kilometern.",
-        "Erste Stadt in der südlichen Hemisphäre mit elektrischem Licht (1882).",
-        "Sitz des Bergbaukonzerns De Beers (historisch).",
-        "Schauplatz einer berühmten Belagerung im Zweiten Burenkrieg.",
-        "Beherbergt das McGregor Museum zur Regionalgeschichte.",
-        "Kimberley-Prozess für konfliktfreie Diamanten wurde hier initiiert.",
-        "Einwohnerzahl ca. 225.000."
-      ]
-    },
-    {
-      "id": "southafrica-pietermaritzburg-cities-v2",
-      "descriptionAdvanced": "Pietermaritzburg, die administrative Hauptstadt von KwaZulu-Natal, ist eine Stadt mit reicher viktorianischer Architektur und tiefer historischer Bedeutung. Gegründet 1838 von Voortrekkern, entwickelte sie sich unter britischer Herrschaft zu einem Verwaltungszentrum. Ein weltweit bekanntes Ereignis fand 1893 am hiesigen Bahnhof statt, als Mahatma Gandhi aufgrund seiner Hautfarbe aus einem Zug geworfen wurde – ein Wendepunkt, der seinen gewaltfreien Widerstand prägte. Die Stadt ist zudem als 'Stadt der Blumen' bekannt und ist Austragungsort berühmter Sportevents wie des Comrades Marathon. Geschichte K8 — Widerstand und Menschenrechte.",
-      "factsAdvanced": [
-        "Gegründet 1838 durch Voortrekker-Siedler (Piet Retief und Gert Maritz).",
-        "Hauptstadt der ehemaligen Kolonie Natal.",
-        "Ort des Gandhi-Bahnhofsvorfalls im Juni 1893.",
-        "Besitzt eines der besterhaltenen Rathäuser im viktorianischen Stil.",
-        "Start- oder Zielpunkt des jährlichen Comrades Marathon.",
-        "Heimat der University of KwaZulu-Natal (Campus Pietermaritzburg).",
-        "Liegt an der strategischen Verkehrsader N3 zwischen Durban und Johannesburg.",
-        "Bekannt für die Royal Agricultural Show."
-      ]
-    },
-    {
-      "id": "southafrica-rustenburg-cities-v2",
-      "descriptionAdvanced": "Rustenburg ist eine der am schnellsten wachsenden Städte Südafrikas und liegt am Fuße des Magaliesberg-Gebirges in der Nordwest-Provinz. Die Stadt verdankt ihren rasanten Aufstieg den weltweit reichsten Vorkommen an Platingruppenmetallen (PGM), die in der unmittelbaren Umgebung abgebaut werden. Neben dem Bergbau ist die Region für ihre Zitrusplantagen und die Nähe zum Pilanesberg National Park sowie Sun City bekannt. Historisch war die Gegend Schauplatz zahlreicher Konflikte während der Burenkriege. Heute bildet Rustenburg ein vitales wirtschaftliches Zentrum für die Minenindustrie. Geografie K7 — mineralische Rohstoffe und Bergbauökonomie.",
-      "factsAdvanced": [
-        "Produziert über 70% des weltweit geförderten Platins.",
-        "Gegründet 1851 durch Voortrekker-Siedler.",
-        "Liegt am Westrand des geologisch einzigartigen Bushveld-Komplexes.",
-        "Eine der Austragungsstädte der Fußball-WM 2010 (Royal-Bafokeng-Stadion).",
-        "Wichtiger Standort für Tabak- und Zitrusfrüchte-Anbau.",
-        "Liegt in der Nähe des UNESCO-Welterbes 'Wiege der Menschheit'.",
-        "Einwohnerzahl der Metropolregion über 500.000.",
-        "Klima ist subtropisch mit heißen Sommern."
-      ]
-    },
-    {
-      "id": "southafrica-mahikeng-cities-v2",
-      "descriptionAdvanced": "Mahikeng, die Hauptstadt der Nordwest-Provinz, liegt an der Grenze zu Botswana und blickt auf eine bewegte Geschichte zurück. Früher als Mafeking bekannt, erlangte die Stadt während des Zweiten Burenkrieges Weltruhm durch die 217 Tage dauernde Belagerung, bei der Robert Baden-Powell die Verteidigung leitete. Aus den dort gemachten Erfahrungen entstand später die weltweite Pfadfinderbewegung. Mahikeng diente zeitweise als Hauptstadt des Bantustans Bophuthatswana, was die Stadtentwicklung prägte. Heute ist sie ein administratives Zentrum und ein wichtiger Handelsposten für den grenzüberschreitenden Verkehr. Geschichte K8 — Burenkriege und Pfadfinderbewegung.",
-      "factsAdvanced": [
-        "Hieß bis 2010 Mafikeng, davor Mafeking.",
-        "Belagerung von Mafeking dauerte von Oktober 1899 bis Mai 1900.",
-        "Geburtsort der Pfadfinder-Idee (Robert Baden-Powell).",
-        "Hauptstadt der Nordwest-Provinz seit 1994.",
-        "Liegt auf ca. 1.300 Metern Höhe am Molopo River.",
-        "Ehemalige Hauptstadt des Bantustans Bophuthatswana.",
-        "Wichtiger Eisenbahnknotenpunkt an der Strecke nach Kapstadt.",
-        "Bedeutendes Zentrum für Viehzucht in der Region."
-      ]
-    },
-    {
-      "id": "southafrica-bhisho-cities-v2",
-      "descriptionAdvanced": "Bhisho ist die administrative Hauptstadt der Provinz Ostkap und liegt in der Nähe von Makhanda und Gqeberha. Der Name bedeutet in der Sprache isiXhosa 'Büffel'. Die Stadt wurde als geplante Hauptstadt für das ehemalige Homeland Ciskei errichtet und beherbergt heute moderne Regierungsgebäude und Verwaltungsstrukturen. Ein tragisches Ereignis in der Geschichte der Stadt war das Bhisho-Massaker im Jahr 1992, das die Verhandlungen zum Ende der Apartheid maßgeblich beschleunigte. Bhisho bildet zusammen mit Qonce (ehemals King William's Town) einen wichtigen urbanen Kern in der Region. Geschichte K8 — Ende der Apartheid und Homeland-System.",
-      "factsAdvanced": [
-        "Hauptstadt des ehemaligen Homelands Ciskei.",
-        "Administrativer Sitz der Provinz Ostkap seit 1994.",
-        "Ort des Bhisho-Massakers am 7. September 1992.",
-        "Der Name Bhisho bezieht sich auf den nahegelegenen Buffalo River.",
-        "Beherbergt den Sitz der Provinzregierung (Eastern Cape Provincial Legislature).",
-        "Geplante Stadt mit Fokus auf Verwaltungsarchitektur.",
-        "Liegt im Distrikt Buffalo City Metropolitan Municipality.",
-        "Klima ist maritim-mild geprägt."
-      ]
-    },
-    {
-      "id": "southafrica-upington-cities-v2",
-      "descriptionAdvanced": "Upington, im Herzen der Provinz Nordkap gelegen, ist eine wahre Oase am Ufer des Oranje-Flusses. Trotz ihrer Lage am Rande der Kalahari-Wüste ist die Stadt dank Bewässerungssystemen ein Zentrum für den Anbau von Tafeltrauben, Rosinen und hochwertigen Weinen. Upington dient als wichtiges regionales Zentrum für Bildung, Medizin und Handel in der dünn besiedelten Karoo-Region. Die Stadt ist zudem ein strategischer Zwischenstopp für Reisende auf dem Weg zu den Augrabies-Fällen oder nach Namibia. Mit einer der längsten Landebahnen der Welt ist der Flughafen Upington auch technisch bemerkenswert. Geografie K7 — Bewässerungslandwirtschaft und Wüstenregionen.",
-      "factsAdvanced": [
-        "Gegründet 1884 und benannt nach Sir Thomas Upington.",
-        "Besitzt eine der längsten Flugzeuglandebahnen weltweit (4.900 Meter).",
-        "Zentrum der südafrikanischen Rosinenproduktion (SAD).",
-        "Durchschnittlich heißester Ort Südafrikas im Hochsommer.",
-        "Wichtiger Stützpunkt für den Tourismus in der Kalahari.",
-        "Liegt direkt am Oranje River, dem längsten Fluss des Landes.",
-        "Anschluss an die Nationalstraße N10.",
-        "Heimat des bekannten Orange River Wine Cellars."
-      ]
-    },
-    {
-      "id": "southafrica-george-cities-v2",
-      "descriptionAdvanced": "George, die größte Stadt an der berühmten Garden Route in der Provinz Westkap, liegt malerisch zwischen den Outeniqua-Bergen und dem Indischen Ozean. Die Stadt ist als 'Hauptstadt der Garden Route' bekannt und dient als wirtschaftliches Zentrum der Region. Ursprünglich als Holzhacker-Siedlung im Jahr 1811 gegründet, ist George heute ein beliebtes Ziel für Golfsportler und Naturfreunde. Die Stadt besticht durch ihre hohe Lebensqualität, gepflegte Parks und die Nähe zu spektakulären Küstenabschnitten wie Victoria Bay. Wirtschaftlich dominieren Tourismus, Landwirtschaft und die Möbelindustrie. Geografie K7 — Küstenlandschaften und Forstwirtschaft.",
-      "factsAdvanced": [
-        "Gegründet 1811 durch die Britische Ostindien-Kompanie.",
-        "Benannt nach dem britischen König Georg III.",
-        "Beherbergt drei der besten Golfplätze Südafrikas (z.B. Fancourt).",
-        "Einziger Ort Südafrikas mit nennenswerter Hopfenproduktion.",
-        "Liegt direkt am Fuß der Outeniqua-Berge.",
-        "Besitzt einen wichtigen Regionalflughafen (George Airport).",
-        "Tor zur Region Kleiner Karoo über den Outeniqua Pass.",
-        "Mildes, maritimes Klima mit Niederschlägen über das ganze Jahr."
-      ]
-    },
-    {
-      "id": "southafrica-stellenbosch-cities-v2",
-      "descriptionAdvanced": "Stellenbosch ist nach Kapstadt die zweitälteste von Europäern gegründete Stadt Südafrikas und liegt im Herzen des Cape Winelands District. Die Stadt ist weltberühmt für ihre renommierte Universität, die gut erhaltene kapholländische Architektur und ihre erstklassigen Weingüter. Die von Eichen gesäumten Straßen verleihen ihr den Beinamen 'Eikestad' (Eichenstadt). Stellenbosch ist ein Zentrum für Forschung, Technologie und Weinbaukunde. Besucher schätzen das historische Zentrum mit seinen Museen, Galerien und der lebendigen Studentenkultur. Die umliegenden Berge bieten zudem ideale Bedingungen für Outdoor-Aktivitäten. Geschichte K8 — Kolonialarchitektur und Bildungswesen.",
-      "factsAdvanced": [
-        "Gegründet 1679 durch Simon van der Stel.",
-        "Zweitälteste Stadt Südafrikas.",
-        "Heimat der Stellenbosch University (gegründet 1866).",
-        "Zentrum des wichtigsten Weinanbaugebiets des Landes.",
-        "Bekannt für den 'kapholländischen' Baustil.",
-        "Beherbergt das Dorp Museum mit historischen Wohnhäusern.",
-        "Liegt im fruchtbaren Jonkershoek Valley.",
-        "Ursprünglicher Name 'Stel se bosch' (Wald von van der Stel)."
-      ]
-    },
-    {
-      "id": "southafrica-paarl-cities-v2",
-      "descriptionAdvanced": "Paarl ist eine historische Stadt im Westkap, eingebettet in das Tal des Berg River und überragt von drei markanten Granitfelsen, den Paarl Rocks. Nach einem Regenschauer glänzen diese Felsen wie Perlen, was der Stadt ihren Namen gab (Paarl bedeutet Perle). Die Stadt ist ein bedeutendes Zentrum des Weinbaus und Sitz der KWV, einer der größten Wein- und Spirituosen-Kooperationen weltweit. Historisch ist Paarl besonders wichtig für die Entwicklung der Sprache Afrikaans; das monumentale Taalmonument auf dem Paarlberg erinnert an diesen kulturellen Meilenstein. Geschichte K8 — Sprachentwicklung und nationale Identität.",
-      "factsAdvanced": [
-        "Gegründet 1687 durch europäische Siedler.",
-        "Besitzt die längste Hauptstraße Südafrikas (ca. 12 km).",
-        "Sitz des Afrikaans Language Monument (Taalmonument).",
-        "Heimat der KWV (Ko-operatieve Wijnbouwers Vereniging).",
-        "Dritterälteste europäische Siedlung in Südafrika.",
-        "Die Paarl Rocks sind die zweitgrößten Granitmonolithen der Welt.",
-        "Wichtiger Standort für Obstkonserven-Industrie.",
-        "Schauplatz der Freilassung Nelson Mandelas aus dem Victor-Verster-Gefängnis."
-      ]
-    },
-    {
-      "id": "southafrica-worcester-cities-v2",
-      "descriptionAdvanced": "Worcester ist das administrative und wirtschaftliche Zentrum des Breede River Valley in der Provinz Westkap. Umgeben von den Brandwacht-, Du Toitskloof- und Hex River-Bergen, liegt die Stadt in einem der produktivsten Wein- und Obstanbaugebiete des Landes. Worcester ist bekannt für seine planmäßige Architektur aus dem frühen 19. Jahrhundert und beherbergt spezialisierte Bildungseinrichtungen für Gehörlose und Blinde, was ihr eine besondere soziale Bedeutung verleiht. Der nahegelegene Karoo Desert National Botanical Garden zeigt die einzigartige Flora der trockenen Karoo-Region. Geografie K7 — Talwirtschaft und Weinbau.",
-      "factsAdvanced": [
-        "Gegründet 1820 durch Lord Charles Somerset.",
-        "Größter Produzent von Weinbrand (Brandy) in Südafrika.",
-        "Sitz des Karoo Desert National Botanical Garden.",
-        "Wichtiges Zentrum für Sonderpädagogik (Institut für Blinde und Gehörlose).",
-        "Beherbergt das Worcester Museum (Freilichtmuseum Kleinplasie).",
-        "Strategische Lage am Eingang zum Hex River Valley.",
-        "Anschluss an die Eisenbahnstrecke Kapstadt-Johannesburg.",
-        "Das Klima ist durch heiße, trockene Sommer geprägt."
-      ]
-    },
-    {
-      "id": "southafrica-oudtshoorn-cities-v2",
-      "descriptionAdvanced": "Oudtshoorn, gelegen in der Halbwüste der Kleinen Karoo, ist weltweit als 'Straußenhauptstadt der Welt' bekannt. Im späten 19. Jahrhundert erlebte die Stadt durch den Export von Straußenfedern einen beispiellosen Reichtum, wovon noch heute die prachtvollen 'Federpaläste' der damaligen Barone zeugen. Neben den Straußenfarmen sind die Cango Caves, eines der spektakulärsten Tropfsteinhöhlensysteme Afrikas, die Hauptattraktion der Region. Die Stadt ist zudem ein wichtiges kulturelles Zentrum und Austragungsort des jährlichen KKNK (Klein Karoo Nasionale Kunstefees). Geografie K7 — Nischenlandwirtschaft und Höhlensysteme.",
-      "factsAdvanced": [
-        "Gegründet 1847 und benannt nach Baron van Rheede van Oudtshoorn.",
-        "Größte Konzentration von Straußen weltweit.",
-        "Heimat der Cango Caves (UNESCO-Kandidat).",
-        "Besitzt die historischen 'Feather Palaces' aus der Boomzeit (1870-1914).",
-        "Gastgeber des KKNK, dem größten Afrikaans-Kulturfestival.",
-        "Umgeben von den Swartberg- und Outeniqua-Bergen.",
-        "Das Klima ist arid mit sehr heißen Sommertagen.",
-        "Zentrum der südafrikanischen Mohair-Verarbeitung."
-      ]
-    },
-    {
-      "id": "southafrica-beaufort-west-cities-v2",
-      "descriptionAdvanced": "Beaufort West, die älteste Stadt der Zentralkaroo, ist ein unverzichtbarer Knotenpunkt auf der langen Reise zwischen Kapstadt und Johannesburg. Die Stadt liegt im Schatten der Nuweveld-Berge und dient als Tor zum Karoo National Park. Bekannt wurde Beaufort West international als Geburtsort von Professor Chris Barnard, dem Chirurgen, der 1967 die weltweit erste erfolgreiche Herztransplantation durchführte. Die Stadt bewahrt eine ruhige, historische Atmosphäre mit vielen Gebäuden aus der Kolonialzeit. Wirtschaftlich ist sie stark von der Schafzucht und dem Durchgangstourismus geprägt. Geschichte K8 — Medizingeschichte und Pioniergeist.",
-      "factsAdvanced": [
-        "Älteste Gemeinde in der Karoo (gegründet 1818).",
-        "Geburtsort von Herzchirurg Chris Barnard (1922-2001).",
-        "Tor zum Karoo National Park (bekannt für gefährdete Wildtiere).",
-        "Erste Stadt Südafrikas mit stadtrechten (1837).",
-        "Wichtiger Eisenbahnknotenpunkt an der Hauptstrecke.",
-        "Zentrum für Merinoschaf- und Angoraziegen-Zucht.",
-        "Liegt an der Nationalstraße N1.",
-        "Beherbergt das Chris Barnard Museum im ehemaligen Pfarrhaus."
-      ]
-    },
-    {
-      "id": "southafrica-knysna-cities-v2",
-      "descriptionAdvanced": "Knysna ist ein Juwel an der Garden Route und liegt spektakulär an einer großen Salzwasserlagune, die durch die 'Knysna Heads' – zwei massive Sandsteinfelsen – vom Indischen Ozean getrennt wird. Die Stadt ist umgeben von den größten einheimischen Wäldern Südafrikas, die einst Heimat großer Elefantenherden waren. Heute ist Knysna ein Magnet für Touristen, bekannt für seine Austernzucht, den handwerklichen Schiffbau und die jährlichen Festivals. Die Kombination aus Lagune, Urwald und maritimem Flair macht sie zu einem der gefragtesten Urlaubsziele des Landes. Geografie K7 — Lagunenökosysteme und Forstwirtschaft.",
-      "factsAdvanced": [
-        "Gegründet 1804 durch George Rex.",
-        "Bekannt für die Knysna Oyster Company und das jährliche Austernfestival.",
-        "Die 'Knysna Heads' bilden eine gefährliche Einfahrt für Schiffe.",
-        "Heimat des seltenen Knysna-Seepferdchens.",
-        "Umgeben von den Tsitsikamma- und Outeniqua-Wäldern.",
-        "Zentrum der südafrikanischen Holzmöbel-Herstellung.",
-        "Wichtiger Standort für den Tourismus an der Garden Route.",
-        "Besitzt ein mildes Klima mit Regenfällen zu allen Jahreszeiten."
-      ]
-    },
-    {
-      "id": "southafrica-mossel-bay-cities-v2",
-      "descriptionAdvanced": "Mossel Bay ist eine historische Hafenstadt am Indischen Ozean und markiert den offiziellen Beginn der Garden Route. Sie ist der Ort, an dem der Entdecker Bartolomeu Dias 1488 als erster Europäer südafrikanischen Boden betrat. Die Stadt verbindet diese reiche maritime Geschichte mit moderner Industrie, insbesondere durch die Gewinnung von synthetischem Kraftstoff aus Erdgas (Mossgas). Mossel Bay ist zudem für sein außergewöhnlich mildes Klima und seine weiten Strände bekannt. Der 'Post Office Tree', ein jahrhundertealter Milchholzbaum, zeugt von der frühen Rolle der Stadt als Nachrichtenknotenpunkt für Seefahrer. Geschichte K8 — Zeitalter der Entdeckungen.",
-      "factsAdvanced": [
-        "Erster Landungspunkt von Europäern (Bartolomeu Dias, 1488).",
-        "Heimat des 'Post Office Tree', des ältesten Briefkastens des Landes.",
-        "Standort der weltweit ersten Gas-to-Liquids-Raffinerie.",
-        "Gilt laut Guinness-Buch als Ort mit dem zweitmildesten Klima weltweit.",
-        "Beherbergt den Diaz Museum Complex.",
-        "Offizieller Startpunkt des Garden Route Distrikts.",
-        "Wichtiger Hafen für die Fischerei-Industrie.",
-        "Bekannt für den St. Blaize Leuchtturm."
-      ]
-    },
-    {
-      "id": "southafrica-saldanha-cities-v2",
-      "descriptionAdvanced": "Saldanha ist eine bedeutende Hafenstadt an der Westküste Südafrikas und liegt an der größten und tiefsten natürlichen Bucht des Landes. Die Stadt ist das industrielle Zentrum der Region, dominiert durch den massiven Export von Eisenerz, das über eine 861 km lange Eisenbahnstrecke aus Sishen herantransportiert wird. Neben der Schwerindustrie ist Saldanha ein wichtiger Standort für die Fischerei und die Muschelzucht. Die umliegende Landschaft der West Coast ist bekannt für ihre raue Schönheit und die spektakuläre Wildblumenblüte im Frühjahr. Der Hafen dient zudem als strategische Basis für die südafrikanische Marine. Geografie K7 — Tiefseehäfen und Rohstoffexport.",
-      "factsAdvanced": [
-        "Besitzt den größten Tiefsee-Naturhafen der südlichen Hemisphäre.",
-        "Endpunkt der Sishen-Saldanha-Eisenbahnlinie für Eisenerz.",
-        "Wichtiger Standort für die Stahlproduktion (Saldanha Steel).",
-        "Zentrum der südafrikanischen Miesmuschel- und Austernzucht.",
-        "Benannt nach dem portugiesischen Seefahrer Antonio de Saldanha.",
-        "Beherbergt eine Ausbildungsbasis der South African Navy.",
-        "Liegt etwa 110 km nördlich von Kapstadt.",
-        "Tor zum West Coast National Park."
-      ]
-    },
-    {
-      "id": "southafrica-springbok-cities-v2",
-      "descriptionAdvanced": "Springbok ist das wichtigste wirtschaftliche und administrative Zentrum der Region Namaqualand im Nordkap. Die Stadt liegt in einem natürlichen Kessel zwischen den Granitkuppen der Kliprand-Berge. Ursprünglich 1862 als Kupferbergbaustadt gegründet, ist sie heute vor allem als Ausgangspunkt für Touristen bekannt, die im Frühjahr die weltberühmte Wildblumenblüte der Halbwüste erleben möchten. Springbok dient als zentraler Versorgungsort für die umliegenden Minengemeinden und als wichtiger Stützpunkt für Reisende auf dem weg nach Namibia. Die karge Schönheit der Umgebung und die reiche Bergbaugeschichte prägen das Stadtbild. Geografie K7 — Wüstenökologie und Ressourcenabbau.",
-      "factsAdvanced": [
-        "Gegründet 1862 nach der Entdeckung von Kupfer (Springbokfontein).",
-        "Hauptstadt der Region Namakwa.",
-        "Zentrum des Tourismus während der Namaqualand-Blumenblüte (August/September).",
-        "Strategische Lage an der Nationalstraße N7 nach Namibia.",
-        "Umgeben von spektakulären Granitformationen.",
-        "Beherbergt das Namaqualand Museum in der alten Synagoge.",
-        "Klima ist arid mit extremen Temperaturschwankungen.",
-        "Wichtiger Versorgungsort für den Diamantenbergbau an der Küste."
+        "Der natürliche Hafen bietet Schutz vor den oft rauen Wetterbedingungen des Atlantiks.",
+        "Er wird über eine 861 Kilometer lange Schienenstrecke direkt von Sishen beliefert.",
+        "Saldanha ist für die effiziente Abwicklung von extrem großen Erzfrachtern bekannt.",
+        "Der Hafen verfügt über eine der weltweit leistungsfähigsten Anlagen für den Eisenerzumschlag.",
+        "Zusätzlich zum Eisenerz dient der Hafen als Basis für die lokale Erdöl- und Gasindustrie.",
+        "Die Hafenaktivitäten bilden das Rückgrat der industriellen Entwicklung in der Region Saldanha Bay."
       ]
     }
   ]

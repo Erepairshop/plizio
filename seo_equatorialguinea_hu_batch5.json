@@ -2,31 +2,333 @@
   "lang": "hu",
   "country": "equatorialguinea",
   "files": [
-    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraEquatorialguineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaNatureV2.ts"
   ],
   "items": [
     {
-      "id": "rebola-cities-v2",
-      "descriptionAdvanced": "Rebola Bioko északi részén helyezkedik el, és egyike a legrégebbi településeknek a környéken, amely megőrizte hagyományos kulturális értékeit. A város körüli területek alkalmasak a hagyományos növénytermesztésre, különösen a kakaó és a banán számára, amelyek alapvető megélhetési forrást biztosítanak a helyieknek. Rebola a sziget kulturális identitásának egyik pillére, ahol a közösségi élet és a tradicionális ünnepek nagy hangsúlyt kapnak. A település folyamatosan adaptálódik a modern kor igényeihez, miközben továbbra is a biokói örökség egyik őrzője. Tanterv: Szociális ismeretek K7, Földrajz K8.",
+      "id": "schimpansen-habitat-montealen-life-v2",
+      "descriptionAdvanced": "A Monte Alén Nemzeti Park sűrű esőerdői az egyik utolsó menedéket jelentik a nyugat-afrikai csimpánzok számára Egyenlítői-Guinea szárazföldi részén. Ez a hegyvidéki esőerdő különleges élőhelyet biztosít, ahol a csimpánzok nagy családokban élnek, és szabadon vándorolhatnak a védett területen. A habitat védelme kulcsfontosságú a biodiverzitás megőrzése szempontjából, mivel a csimpánzok kulcsfajnak számítanak az erdei ökoszisztémában. A Monte Alénban folyó kutatások és ökoturisztikai programok célja a főemlősök védelme mellett a lakosság szemléletformálása is. A látogatók számára a terület egyedülálló lehetőséget nyújt, hogy szakértő vezetők segítségével bepillantást nyerjenek ezen intelligens állatok természetes életébe. Tanterv: Biológia K7, Környezetvédelem K8.",
       "factsAdvanced": [
-        "Bioko északi részének egyik legrégebbi városa.",
-        "A hagyományos kulturális értékek központja.",
-        "Kakaó és banántermesztés alapú mezőgazdaság.",
-        "A helyi közösségi élet meghatározó színtere.",
-        "A sziget kulturális örökségének egyik őrzője.",
-        "Folyamatos modernizáció a hagyományok mellett."
+        "A Monte Alén Nemzeti Park az ország legnagyobb védett területe.",
+        "A közép-afrikai csimpánz (Pan troglodytes troglodytes) egyik fő élőhelye.",
+        "A park hegyvidéki domborzata kiváló védelmet nyújt az állatoknak.",
+        "A területen több száz fészkelőhelyet dokumentáltak a kutatók.",
+        "Fontos szerepet játszik a főemlősök genetikai sokféleségének megőrzésében.",
+        "Az ökoturizmus szigorúan szabályozott a zavarás minimalizálása érdekében.",
+        "A nemzeti park az UNESCO világörökségi várományos listáján is szerepel."
       ]
     },
     {
-      "id": "niefang-cities-v2",
-      "descriptionAdvanced": "Niefang Egyenlítői-Guinea kontinentális részén, a Río Muni régióban helyezkedik el, és fontos szerepet játszik az ország belső úthálózatának összekötésében. A város környéke sűrű, buja trópusi esőerdőkkel borított, amelyek az ország biodiverzitásának szerves részét képezik. Niefang kereskedelmi központként is szolgál, ahol a környező erdőkből származó javak cserélnek gazdát, így hozzájárulva a helyi gazdasági stabilitáshoz. A város folyamatosan fejlődik, miközben környezete továbbra is a természet és az ember harmonikus együttélésének egyik példája. Tanterv: Földrajz K6, Ökológia K8.",
+      "id": "kakaoplantage-sampaka-life-v2",
+      "descriptionAdvanced": "A Sampaka kakaóültetvény Bioko szigetén az ország egyik leghíresebb és legpatinásabb agrártörténeti helyszíne. A Malabo közelében található ültetvény a 19. század óta működik, és hírnevét a kiváló minőségű, vulkanikus talajon termelt kakaóbabnak köszönheti. Sampaka nemcsak egy gazdasági egység, hanem egy élő múzeum is, ahol a látogatók megismerhetik a kakaófeldolgozás hagyományos folyamatait a szüreteléstől a szárításig. Az ültetvény gyarmati kori épületei, köztük a központi ház (casa grande), a régi világ hangulatát idézik. Ma Sampaka prémium minőségű csokoládékat is gyárt, amelyek Egyenlítői-Guinea egyik legnépszerűbb gasztronómiai exporttermékévé váltak. Tanterv: Mezőgazdaság K6, Történelem K8.",
       "factsAdvanced": [
-        "Río Muni régió egyik fontos városa.",
-        "Az ország belső úthálózatának összekötő pontja.",
-        "Trópusi esőerdők övezik.",
-        "Kereskedelmi központ a régióban.",
-        "Hozzájárul a gazdasági stabilitáshoz.",
-        "A természet és az emberi település harmóniája."
+        "Bioko-sziget egyik legrégebbi és legismertebb ültetvénye.",
+        "Híres a 'Fino de Aroma' minősítésű kakaóbabjairól.",
+        "A vulkanikus talaj különleges karaktert ad az itt termelt kakaónak.",
+        "A birtok központi épülete a spanyol gyarmati építészet remeke.",
+        "Saját kézműves csokoládémanufaktúrával rendelkezik.",
+        "Az ültetvény látogatható, bemutatva a kakaó teljes életútját.",
+        "Fontos szerepet játszik a sziget agroturizmusának fellendítésében."
+      ]
+    },
+    {
+      "id": "kaffeegaerten-moca-life-v2",
+      "descriptionAdvanced": "Moca hűvös és párás felföldjei Bioko szigetén ideális feltételeket biztosítanak a kávétermesztés számára, ami különleges színfolt az ország mezőgazdaságában. Az itteni kávéskertekben főként Robusta és némi Arabica fajtát termesztenek, amelyeket a vulkanikus talaj és a magaslati klíma tesz egyedivé. A termesztés gyakran családi gazdaságokban folyik, ahol a hagyományos módszereket alkalmazzák a növények gondozása során. A moca-i kávé híres intenzív aromájáról és karakteres ízéről, bár a termelés volumene kisebb a kakaóénál. A kávékertek látványa a ködbe burkolózó hegycsúcsok alatt felejthetetlen élményt nyújt a természetjárók számára, bemutatva a sziget magaslati mezőgazdaságát. Tanterv: Földrajz K6, Mezőgazdaság K7.",
+      "factsAdvanced": [
+        "Bioko-sziget déli felföldjén, 1200 méter felett található.",
+        "A hűvösebb klíma miatt a kávé lassabban érik, ami dúsabb aromát eredményez.",
+        "A termesztés főleg kisléptékű, fenntartható módszerekkel zajlik.",
+        "A moca-i kávé helyi különlegességnek számít a malabói piacokon.",
+        "A kertek gyakran más haszonnövényekkel, például banánnal vannak vegyítve.",
+        "A kávészüret fontos közösségi esemény a bubi lakosság számára.",
+        "A terület Bioko egyik legcsapadékosabb és legpárásabb vidéke."
+      ]
+    },
+    {
+      "id": "palmoel-farmen-mbini-life-v2",
+      "descriptionAdvanced": "Mbini környékén, a tengerparti síkságokon terülnek el Egyenlítői-Guinea szárazföldi részének jelentős olajpálma-ültetvényei. Ez a régió a pálmaolaj-termelés egyik motorja, ahol a modern ültetvények és a hagyományos családi farmok egyaránt jelen vannak. Az olajpálma (Elaeis guineensis) őshonos ezen a vidéken, és termése alapvető szerepet játszik a helyi lakosság étrendjében és gazdaságában. A farmokon folyó munka generációk óta öröklődő tudáson alapul, amit a modern technológia fokozatos bevezetése egészít ki. Az ültetvények dús zöldje meghatározza a táj képét Mbini és Bata között, miközben fontos élőhelyet biztosítanak számos madárfaj számára. Tanterv: Mezőgazdaság K7, Földrajz K6.",
+      "factsAdvanced": [
+        "A Río Muni régió part menti övezetében helyezkednek el.",
+        "A pálmaolaj az ország egyik legfontosabb hazai élelmiszere.",
+        "A farmokon folyó feldolgozás során nyerik ki a vörös pálmaolajat.",
+        "Az olajpálma magjából értékes pálmamagolajat is sajtolnak.",
+        "A farmok fontos munkahelyet biztosítanak a vidéki lakosságnak.",
+        "A terület klímája a magas páratartalommal ideális a pálmák fejlődéséhez.",
+        "A pálmaolaj fontos exporttermék is a szomszédos országok felé."
+      ]
+    },
+    {
+      "id": "maniokanbau-evinayong-life-v2",
+      "descriptionAdvanced": "Evinayong környéke a szárazföldi régió manióka-termesztésének központja, ahol a dombos vidék és a trópusi talaj kiváló feltételeket biztosít ennek az alapvető élelmiszernek. A manióka (vagy kaszava) az ország élelmezésbiztonságának pillére, amelyből a helyiek számos hagyományos ételt, például 'batát' vagy lisztet készítenek. Az evinayongi gazdák generációk óta tökéletesítik a termesztési és feldolgozási technikákat, különösen a manióka áztatásának és szárításának folyamatát, ami elengedhetetlen a fogyaszthatósághoz. A település körüli parcellák látványa, ahol a maniókabokrok sorakoznak az erdők peremén, a helyi mezőgazdasági táj szerves része. Tanterv: Mezőgazdaság K6, Gasztronómia K7.",
+      "factsAdvanced": [
+        "Centro Sur tartomány legfontosabb élelmiszernövénye.",
+        "A manióka gyökere és levele egyaránt felhasználható a konyhában.",
+        "A termesztés szinte minden családi gazdaságban jelen van.",
+        "Az evinayongi piac a régió legnagyobb manióka-elosztó helye.",
+        "A növény jól bírja a trópusi éghajlatot és a kevésbé tápanyagdús talajt is.",
+        "A feldolgozás során készített 'bikowanda' (manióka rúd) híres helyi termék.",
+        "Fontos szerepet játszik a vidéki lakosság önellátásában."
+      ]
+    },
+    {
+      "id": "bananenhaine-baney-life-v2",
+      "descriptionAdvanced": "Baney környéke Bioko szigetének északi részén híres buja banánligeteiről, amelyek a Pico Basilé vulkán termékeny lejtőin terülnek el. A vulkanikus talaj és a bőséges csapadék ideális környezetet teremt a különböző banánfajták, köztük a főzőbanán (plantain) termesztéséhez, amely alapvető eleme az egyenlítői-guineai konyhának. A banánligetek nemcsak élelmiszerforrást jelentenek, hanem árnyékot is adnak más növényeknek, például a kakaónak. Baney lakói számára a banántermesztés fontos jövedelemforrás, a termények nagy részét a közeli Malabo piacaiba szállítják. A terület zöldellő látványa és a banánlevelek susogása a szélben Bioko trópusi idilljét idézi. Tanterv: Mezőgrafia K6, Mezőgazdaság K7.",
+      "factsAdvanced": [
+        "Bioko-sziget északi, vulkanikus régiójában található.",
+        "Főleg főzőbanánt (plantain) és édes banánt termesztenek.",
+        "A banán a helyi étrend egyik legfontosabb szénhidrátforrása.",
+        "A ligetek gyakran vegyes gazdálkodásúak (kakaó és banán együtt).",
+        "A baney-i banán híres méretéről és jó ízéről.",
+        "A szállítás Malabóba mindössze fél órát vesz igénybe közúton.",
+        "A növény leveleit gyakran használják ételek csomagolására és sütésére."
+      ]
+    },
+    {
+      "id": "nationalpark-malabo-kids-life-v2",
+      "descriptionAdvanced": "A Malabói Nemzeti Park (Parque Nacional de Malabo) a főváros legmodernebb és legkedveltebb pihenőhelye, amelyet kifejezetten a családok és a gyerekek számára alakítottak ki. A hatalmas területen gondozott sétányok, mesterséges tavak, játszóterek és sportpályák várják a látogatókat a város északi peremén. A park egyik fő látványossága a gyerekek számára a kisebb állatbemutatók és a vízi biciklizési lehetőség a tavon. Ez a zöld oázis lehetőséget ad a városi gyerekeknek a biztonságos kikapcsolódásra és a természettel való ismerkedésre modern környezetben. A parkban rendszeresen tartanak kulturális rendezvényeket és koncerteket, Malabo közösségi életének egyik legfontosabb színterévé téve azt. Tanterv: Társadalomismeret K6, Környezetvédelem K7.",
+      "factsAdvanced": [
+        "Malabo városának legnagyobb és legmodernebb városi parkja.",
+        "Több hektáros területén játszóterek, éttermek és pavilonok találhatók.",
+        "A parkban egy nagy mesterséges tó is helyet kapott vízi sportokhoz.",
+        "A hétvégéken ez a legforgalmasabb családi célpont a fővárosban.",
+        "Szigorú biztonsági és tisztasági előírások jellemzik.",
+        "Oktatási tanösvények segítik a helyi növényvilág megismerését.",
+        "A belépésnél gyakran szerveznek ingyenes programokat gyerekeknek."
+      ]
+    },
+    {
+      "id": "promenaden-spielplatz-bata-life-v2",
+      "descriptionAdvanced": "Bata híres tengerparti sétánya, a Paseo Marítimo, egy modern és biztonságos játszótérrel várja a gyerekeket az Atlanti-óceán partján. Ez a helyszín a batai családok egyik kedvenc találkozóhelye, ahol a gyerekek élvezhetik a tengeri sós levegőt és a játék örömét. A játszótér modern eszközökkel, színes csúszdákkal és mászókákkal felszerelt, külön választva a különböző korosztályok igényeit. A sétány hűvös esti szellője és a lenyűgöző naplemente miatt a terület különösen népszerű a délutáni órákban. A játszótér közelsége a Szabadság-toronyhoz és a városközponthoz központi elemmé teszi Bata modern közösségi tereinek térképén. Tanterv: Szociális ismeretek K6, Testnevelés K7.",
+      "factsAdvanced": [
+        "Bata tengerparti sétányán (Paseo Marítimo) található.",
+        "Modern, európai szabványoknak megfelelő játékokkal felszerelt.",
+        "Közvetlen közelében kávézók és pihenőhelyek találhatók a szülőknek.",
+        "A terület este jól kivilágított és biztonságos.",
+        "Ingyenesen látogatható közösségi tér.",
+        "Páratlan kilátás nyílik innen az Atlanti-óceánra.",
+        "Fontos szerepet játszik a városi lakosság életminőségének javításában."
+      ]
+    },
+    {
+      "id": "freizeitpark-sipopo-life-v2",
+      "descriptionAdvanced": "A sipopói szabadidőpark Egyenlítői-Guinea egyik legexkluzívabb pihenőövezete Malabo közelében, Bioko szigetén. A park az afrikai diplomáciai központ mellett terül el, és modern szabadidős létesítményeket kínál, beleértve a vízi sportokat, kerékpárutakat és elegáns sétányokat. A gyerekek számára a park biztonságos és tiszta környezetet nyújt, ahol a tengerpart közelsége és a trópusi növényzet különleges atmoszférát teremt. Sipopo szabadidőparkja a luxus és a pihenés ötvözete, ahol a látogatók élvezhetik a nyugalmat, távol a főváros nyüzsgésétől. A terület kiválóan alkalmas családi piknikekre és hétvégi sportolásra a természet lágy ölén. Tanterv: Földrajz K6, Testnevelés K7.",
+      "factsAdvanced": [
+        "Sipopo exkluzív üdülőnegyedében található.",
+        "Privát strandokkal és gondozott parkokkal rendelkezik.",
+        "Gyakran látogatják a Malabóban dolgozó nemzetközi szakemberek is.",
+        "A park területén modern kerékpárkölcsönző működik.",
+        "Kiválóan alkalmas madármegfigyelésre a part menti erdőkben.",
+        "A terület a nap 24 órájában őrzött és biztonságos.",
+        "Rendszeresen ad otthont céges és családi rendezvényeknek."
+      ]
+    },
+    {
+      "id": "vogelreservat-riocampo-life-v2",
+      "descriptionAdvanced": "A Rio Campo madárrezervátum az ország északnyugati határán, a Kamerunnal közös folyótorkolatnál fekszik, és a madárbarátok paradicsoma. Ez a vizes élőhelyekkel és mangroveerdőkkel teli terület számos vándormadár és endemikus faj fontos pihenő- és fészkelőhelye. A rezervátum védelme elengedhetetlen a Guineai-öböl biodiverzitásának fenntartásához, mivel a folyótorkolat gazdag táplálékforrást biztosít a madarak számára. A látogatók itt megfigyelhetik a ritka jégmadarakat, kócsagokat és különböző tengeri madárfajokat természetes közegükben. Rio Campo nemcsak a tudósok számára fontos kutatási helyszín, hanem az ökoturizmus egyik feltörekvő ékköve is Egyenlítői-Guineában. Tanterv: Biológia K8, Földrajz K7.",
+      "factsAdvanced": [
+        "A Campo-folyó torkolatvidékén helyezkedik el.",
+        "Számos nyugat-afrikai vándormadár fontos állomása.",
+        "A terület gazdag mangroveerdőkben és homokzátonyokban.",
+        "A rezervátum határmenti védett területként működik.",
+        "A madármegfigyeléshez helyi szakértő vezetők bérelhetők.",
+        "Különleges fajok: afrikai halászsas és különböző ritka kócsagfajok.",
+        "A rezervátum látogatása az apály-dagály ciklushoz kötött."
+      ]
+    },
+    {
+      "id": "seekuh-habitat-cogo-life-v2",
+      "descriptionAdvanced": "Cogo környékén, a Muni-folyó torkolatának zavarosabb, meleg vizeiben él az ország egyik legkülönlegesebb állatfaja, a nyugat-afrikai manátusz vagy tengeri tehén. Ezek a békés növényevő emlősök a folyótorkolat mangroveerdői között találnak menedéket és táplálékot, ahol a sós és az édesvíz keveredik. A manátuszok élőhelyének védelme kiemelt fontosságú, mivel a faj globálisan veszélyeztetett az orvvadászat és az élőhelyek pusztulása miatt. Cogo közössége és a természetvédelmi szervezetek együttműködnek a manátuszok megfigyelésében és a helyi halászok szemléletformálásában. A manátuszok jelenléte bizonyítja a Muni-torkolat ökológiai gazdagságát és érintetlenségét. Tanterv: Biológia K8, Környezetvédelem K7.",
+      "factsAdvanced": [
+        "A nyugat-afrikai manátusz (Trichechus senegalensis) egyik fontos menedéke.",
+        "A Muni-folyó torkolatvidékének védett mangroveerdőiben élnek.",
+        "Az állatok főleg vízi növényekkel táplálkoznak az árapály-zónában.",
+        "Nagyon félénk állatok, ritkán láthatók a víz felszínén.",
+        "A helyi legendákban a manátuszokat gyakran tisztelik spirituális lényekként.",
+        "A terület védelme segít megőrizni a folyótorkolat halállományát is.",
+        "A kutatók akusztikus eszközökkel figyelik az állatok jelenlétét."
+      ]
+    },
+    {
+      "id": "gemuesezentrum-mongomo-life-v2",
+      "descriptionAdvanced": "Mongomo környéke a szárazföldi Egyenlítői-Guinea egyik legfontosabb zöldségtermesztő központjává fejlődött az utóbbi években. A belső régió termékeny földjei és a modern öntözési technológiák alkalmazása lehetővé teszik a paradicsom, paprika, hagyma és különböző levélzöldségek nagyüzemi termesztését. Ez a mezőgazdasági centrum kulcsszerepet játszik az ország élelmiszer-importjának csökkentésében és a városi piacok friss áruval való ellátásában. Mongomo környékén számos kísérleti mintagazdaság működik, ahol a helyi gazdákat modern termesztési módszerekre oktatják. A zöldségtermesztés fellendülése új munkalehetőségeket teremtett a fiatalok számára a vidéki térségben. Tanterv: Mezőgazdaság K7, Gazdaság K8.",
+      "factsAdvanced": [
+        "Wele-Nzas tartomány kertészeti központja.",
+        "Modern fóliaházak és öntözőrendszerek jellemzik a területet.",
+        "Az ország egyik fő paradicsom- és paprikaszállító vidéke.",
+        "Fontos szerepet játszik az agrár-diverzifikációs programban.",
+        "A termények frissen érkeznek Bata és Malabo piacaira.",
+        "Saját hűtőraktárral rendelkezik a termények tárolására.",
+        "A területen biogazdálkodási kísérletek is folynak."
+      ]
+    },
+    {
+      "id": "zuckerrohr-anisoc-life-v2",
+      "descriptionAdvanced": "Añisoc környéke hagyományosan Egyenlítői-Guinea egyik legjelentősebb cukornád-termesztő vidéke a szárazföld belsejében. A cukornád nemcsak édesítőszerként fontos, hanem a helyi kultúrában a vendégszeretet és a frissítő italok alapanyagaként is megjelenik. A település körüli dombokon elnyúló ültetvények a táj jellegzetes elemévé váltak, ahol a betakarítás idején a közösség összefog az aratásra. Añisocban több kisüzemi feldolgozó is működik, ahol a nádból friss levet és hagyományos szirupot készítenek. A cukornád-termesztés hozzájárul a helyi gazdaság stabilitásához és megőrzi a belső országrész mezőgazdasági sokszínűségét. Tanterv: Mezőgazdaság K6, Gazdaság K7.",
+      "factsAdvanced": [
+        "A szárazföldi régió belső, dombos vidékein termesztik.",
+        "A cukornádlé (jugo de caña) népszerű frissítő a helyi piacokon.",
+        "A termesztés hagyományos, kézi munkaerőre támaszkodik.",
+        "A cukornád fontos alapanyaga a helyi alkoholos italoknak is.",
+        "A növény maradványait tüzelőanyagként vagy takarmányként hasznosítják.",
+        "Añisoc környékén a talaj tápanyagokban gazdag a trópusi növények számára.",
+        "A cukornád-szüret idején a városban pezsgő kereskedelmi élet zajlik."
+      ]
+    },
+    {
+      "id": "jugendzentrum-malabo-life-v2",
+      "descriptionAdvanced": "A malabói Ifjúsági Központ (Centro Juvenil) a főváros fiataljainak egyik legfontosabb oktatási és szabadidős bázisa. A központ modern létesítményekkel, számítógépes termekkel, könyvtárral és sportpályákkal várja a fiatalokat, lehetőséget adva a készségfejlesztésre és a közösségi életre. Az intézmény célja a fiatalok támogatása a munkaerőpiacon való elhelyezkedésben, különböző tanfolyamok és workshopok révén. A szabadidős programok, mint a zene, a tánc és a sport, segítenek a fiataloknak a tartalmas kikapcsolódásban és a tehetségük kibontakoztatásában. A központ vibráló légköre és modern szemlélete Malabo jövőbe tekintő arcát mutatja, ahol a tudás és a közösség ereje áll a középpontban. Tanterv: Oktatás K7, Szociális ismeretek K8.",
+      "factsAdvanced": [
+        "Malabo egyik legforgalmasabb közösségi intézménye fiatalok számára.",
+        "Ingyenes internet-hozzáférést és számítógépes képzéseket kínál.",
+        "Fontos szerepet játszik a drogmegelőzési és egészségügyi programokban.",
+        "Rendszeresen szerveznek sportbajnokságokat és kulturális vetélkedőket.",
+        "A központban karrier-tanácsadás is elérhető a végzős diákoknak.",
+        "Kiváló bázis a helyi ifjúsági civil szervezetek számára.",
+        "A központ Malabo egyik biztonságos és ösztönző környezetű negyedében található."
+      ]
+    },
+    {
+      "id": "strandspielplatz-corisco-life-v2",
+      "descriptionAdvanced": "Corisco szigetének fehér homokos strandján található játszótér egy igazi trópusi paradicsom a legkisebbek számára. A sziget elszigetelt, békés légköre és a kristálytiszta, sekély víz ideális helyszín a családi pihenéshez. A játszótér természetes anyagokból és tartós műanyagból készült elemei közvetlenül a pálmafák árnyékában kaptak helyet, védve a gyerekeket a déli forróságtól. Corisco strandjai híresek nyugalmukról, így a szülők zavartalanul élvezhetik a természetet, miközben a gyerekek biztonságban játszhatnak az óceánparton. A játszótér megépítése része volt a sziget turisztikai fejlesztési tervének, amely célul tűzte ki Corisco népszerűsítését a családos látogatók körében. Tanterv: Földrajz K6, Testnevelés K7.",
+      "factsAdvanced": [
+        "Corisco szigetének fő strandja mellett helyezkedik el.",
+        "A sziget egyetlen modern szabadtéri játszótere.",
+        "Természetes környezetben, pálmafák között található.",
+        "A tengerpart ezen szakasza nagyon sekély, biztonságos a gyerekeknek.",
+        "A játszótér az ország egyik legszebb kilátású gyermekhelyszíne.",
+        "Fontos állomása a szigetre érkező hajós kirándulásoknak.",
+        "A játékok a sós tengeri levegőnek ellenálló anyagokból készültek."
+      ]
+    },
+    {
+      "id": "kinderfreizeitzentrum-ebebiyin-life-v2",
+      "descriptionAdvanced": "Az ebebiyíni Gyermek Szabadidőközpont a szárazföldi régió északkeleti részén élő gyerekek fontos oktatási és szórakoztató bázisa. A központ célja, hogy a határmenti nagyváros gyerekei számára modern és inspiráló környezetet biztosítson a játékhoz és a tanuláshoz. A létesítmény játszószobákkal, kézműves műhelyekkel és egy kis sportpályával rendelkezik, ahol a gyerekek fejlesztő foglalkozásokon vehetnek részt. Ebebiyín növekvő lakossága és központi szerepe miatt a szabadidőközpont elengedhetetlen a helyi közösség számára, segítve a szülők munkáját és a gyerekek szocializációját. A központ programjai hangsúlyt fektetnek az írás-olvasás készségére és a kreativitás kibontakoztatására. Tanterv: Szociális ismeretek K6, Művészetek K7.",
+      "factsAdvanced": [
+        "Ebebiyín városának egyik legújabb közösségi létesítménye gyerekeknek.",
+        "Biztonságos, zárt játszóterekkel és tanulószobákkal felszerelt.",
+        "Fontos szerepet tölt be a régió koragyermekkori fejlesztésében.",
+        "A központban rendszeresen tartanak mesemondó és kézműves délutánokat.",
+        "Ingyenes programokat kínál a hátrányos helyzetű családok gyermekeinek.",
+        "A városközpontban, könnyen elérhető helyen található.",
+        "A központ személyzete szakképzett pedagógusokból és animátorokból áll."
+      ]
+    },
+    {
+      "id": "pico-basile-nature-v2",
+      "descriptionAdvanced": "A Pico Basilé Egyenlítői-Guinea legmagasabb hegye, egy hatalmas pajzsvulkán Bioko szigetén, amely 3011 méterrel magasodik az Atlanti-óceán fölé. A hegy az ország egyik legfontosabb ökológiai kincse, mivel a tengerszinttől a csúcsig különböző éghajlati és növényzeti öveket foglal magában, a trópusi esőerdőtől a magashegyi köderdőkig. A Pico Basilé Nemzeti Park védelme alatt álló terület számos endemikus fajnak ad otthont, amelyek csak ezen a vulkánon találhatók meg. A hegy csúcsáról tiszta időben lenyűgöző kilátás nyílik a szomszédos Kamerunra és a sziget fővárosára, Malabóra. A vulkanikus tevékenység alakította termékeny talaj biztosítja a sziget mezőgazdaságának alapjait, miközben a hegy az ország egyik legszebb természeti szimbóluma. Tanterv: Földrajz K7, Biológia K8.",
+      "factsAdvanced": [
+        "Egyenlítői-Guinea legmagasabb pontja (3011 m).",
+        "Bioko-sziget három nagy vulkánja közül a legmagasabb.",
+        "Az UNESCO világörökségi várományos listáján szereplő nemzeti park része.",
+        "A csúcsra vezető út az ország egyik leglátványosabb szerpentinje.",
+        "A hegy csúcsán fontos távközlési tornyok találhatók.",
+        "Endemikus főemlős- és madárfajok lakóhelye.",
+        "Az utolsó vulkáni kitörés a 19. század végén történt a hegy oldalában."
+      ]
+    },
+    {
+      "id": "monte-alen-forest-nature-v2",
+      "descriptionAdvanced": "A Monte Alén Nemzeti Park esőerdője Közép-Afrika egyik legjobban megőrzött és legfontosabb biodiverzitási hotspotja. A szárazföldi Río Muni régióban található terület 1400 négyzetkilométeren terül el, és sűrű trópusi erdőkkel, folyókkal és vízesésekkel borított hegyvidéki tájat foglal magában. A park híres a ritka és veszélyeztetett állatfajairól, mint az erdei elefántok, a nyugati síkvidéki gorillák és a csimpánzok. A Monte Alén az ökoturizmus központja, ahol a látogatók vezetett túrákon fedezhetik fel az érintetlen természetet és ismerkedhetnek meg a trópusi erdő bonyolult ökoszisztémájával. A park védelme kulcsfontosságú az ország természeti örökségének megőrzése és a globális klímavédelem szempontjából. Tanterv: Földrajz K8, Biológia K7.",
+      "factsAdvanced": [
+        "Egyenlítői-Guinea legnagyobb és legfontosabb nemzeti parkja.",
+        "A terület 1400 km²-en terül el a szárazföldi régióban.",
+        "Híres a gorillákból és csimpánzokból álló nagy populációjáról.",
+        "Több mint 2300 növényfaj és 265 madárfaj otthona.",
+        "A park legmagasabb pontja a Monte Alén (1200 m).",
+        "Fontos ökoturisztikai központ vendégházzal és túraútvonalakkal.",
+        "A terület a Guineai-öböl biodiverzitás-megőrzési hálózatának része."
+      ]
+    },
+    {
+      "id": "rio-benito-nature-v2",
+      "descriptionAdvanced": "A Benito-folyó (más néven Mbini) Egyenlítői-Guinea leghosszabb és legjelentősebb folyója a szárazföldi régióban. A folyó 350 kilométer hosszan kanyarog az esőerdőkön keresztül, mielőtt az Atlanti-óceánba torkollna Mbini városánál. A Rio Benito nemcsak fontos közlekedési útvonal, hanem az ország vízi energiájának és halászatának is alapköve. A folyó mentén sűrű mangroveerdők és vizes élőhelyek találhatók, amelyek gazdag élővilágnak, köztük ritka manátuszoknak és krokodiloknak adnak otthont. A folyó torkolata felett átívelő hatalmas modern híd a technikai fejlődés és a természet harmóniáját jelképezi. A Rio Benito mentén fekvő területek fontos mezőgazdasági régiók is, ahol a víz biztosítja a megélhetést. Tanterv: Földrajz K6, Biológia K7.",
+      "factsAdvanced": [
+        "A szárazföldi Egyenlítői-Guinea (Río Muni) leghosszabb folyója (350 km).",
+        "A torkolatnál épült meg az ország egyik leghosszabb és legmodernebb hídja.",
+        "Gazdag mangrove-ökoszisztémával rendelkezik az óceáni találkozásnál.",
+        "Fontos vízi közlekedési útvonal a belső erdős területek felé.",
+        "Számos édesvízi halfaj és veszélyeztetett manátusz élőhelye.",
+        "A folyó vízhozama jelentősen megnő az esős évszakokban.",
+        "A partjai mentén történelmileg fontos fakitermelő állomások alakultak ki."
+      ]
+    },
+    {
+      "id": "corisco-island-nature-v2",
+      "descriptionAdvanced": "Corisco szigete, más néven Mandji, egy varázslatos és csendes sziget a Guineai-öbölben, Egyenlítői-Guinea déli partjaitól távol. A sziget híres káprázatos fehér homokos strandjairól, türkizkék vizéről és érintetlen természeti környezetéről, ami miatt az ország egyik legszebb turisztikai célpontjává vált. Corisco felszíne viszonylag lapos, dús trópusi növényzettel borított, és gazdag történelmi és régészeti emlékekben, amelyek a sziget egykori kereskedelmi fontosságáról tanúskodnak. A sziget körüli vizek kiválóan alkalmasak búvárkodásra a korallzátonyok és a változatos tengeri élet miatt. Corisco a nyugalom szigete, ahol a látogatók távol a világ zajától élvezhetik az igazi afrikai tengerparti idillt. Tanterv: Földrajz K6, Történelem K8.",
+      "factsAdvanced": [
+        "A sziget területe 14 km², és Litoral tartományhoz tartozik.",
+        "Híres a vakítóan fehér homokos strandjairól és a kristálytiszta vízről.",
+        "A sziget neve a portugál 'villám' szóból ered.",
+        "Modern repülőtérrel rendelkezik, ami megkönnyíti az elérhetőségét.",
+        "Fontos régészeti lelőhelyek találhatók itt az ősi bengai kultúrából.",
+        "A sziget körüli vizekben tengeri teknősök is fészkelnek.",
+        "A lakosság nagy része a benga népcsoporthoz tartozik, akik híres hajósok."
+      ]
+    },
+    {
+      "id": "annobon-island-nature-v2",
+      "descriptionAdvanced": "Annobón szigete Egyenlítői-Guinea legtávolabbi és legelszigeteltebb területe az Atlanti-óceán déli részén. Ez a kis vulkanikus sziget drámai szikláival, érintetlen erdőivel és egyedülálló ökoszisztémájával a természet szerelmeseinek igazi kincsesbányája. Annobón híres a krátertaváról, a Lago de Biaóról, amely egy kihunyt vulkán kúpjában helyezkedik el a sziget közepén. A sziget körüli vizek a bálnák és delfinek kedvelt szaporodási helyei, különösen a púpos bálnák látványos vándorlása idején. Annobón kultúrája és élővilága is nagyfokú izolációban fejlődött, számos endemikus madár- és növényfajnak adva otthont, amelyek sehol máshol nem találhatók meg a világon. Tanterv: Földrajz K7, Biológia K8.",
+      "factsAdvanced": [
+        "Az ország egyetlen déli féltekén található szigete.",
+        "Vulkanikus eredetű, területe mindössze 17 négyzetkilométer.",
+        "Híres a Lago de Biao nevű krátertaváról.",
+        "Fontos bálnafészkelő és megfigyelő helyszín júliustól szeptemberig.",
+        "Endemikus madárfaja az annobóni pápaszemesmadár.",
+        "A sziget portugál alapú kreol nyelvvel (fá d’Ambô) rendelkezik.",
+        "Legmagasabb pontja a Pico Quioveo (598 m)."
+      ]
+    },
+    {
+      "id": "bioko-island-nature-v2",
+      "descriptionAdvanced": "Bioko szigete (korábban Fernando Po) Egyenlítői-Guinea legnépesebb szigete, ahol a főváros, Malabo is található. A vulkanikus eredetű sziget drámai domborzattal rendelkezik, amelyet három hatalmas kialudt vulkán, köztük a Pico Basilé határoz meg. Bioko híres rendkívüli biodiverzitásáról, sűrű esőerdőiről és a világon egyedülálló főemlős-populációjáról. A sziget északi és déli része közötti különbség látványos: míg északon a modern infrastruktúra dominál, a déli rész érintetlen vadon, ahol teknősök fészkelnek és vízesések zúdulnak az óceánba. A vulkanikus talaj rendkívül termékeny, ami Biokót a kakaó- és banántermesztés központjává tette az évszázadok során. Tanterv: Földrajz K7, Biológia K8.",
+      "factsAdvanced": [
+        "A Guineai-öböl legnagyobb szigete Egyenlítői-Guineában (2017 km²).",
+        "Kamerun partjaitól mindössze 32 kilométerre fekszik.",
+        "Itt található az ország legmagasabb hegye, a Pico Basilé (3011 m).",
+        "Híres az endemikus drillmajom populációjáról.",
+        "Vulkanikus homokos strandjai különleges fekete színűek a déli részen.",
+        "A sziget a bubi népcsoport ősi otthona.",
+        "Gazdag vízhálózata számos látványos vízesést (pl. Iladyi) táplál."
+      ]
+    },
+    {
+      "id": "lago-de-biao-nature-v2",
+      "descriptionAdvanced": "A Lago de Biao (vagy Lago de Moka) egy lenyűgöző krátertó Bioko szigetének déli felföldjén, a Moka-fennsík közelében. A tó egy kialudt vulkán kalderájában helyezkedik el, tengerszint felett több mint 1500 méter magasságban, sűrű trópusi köderdőkkel körülvéve. A Lago de Biao a bubi nép spirituális életében központi szerepet játszik, szent helyként tisztelik, ahol a hagyományok szerint az ősi szellemek lakoznak. A tó körüli párás, hűvös mikroklíma különleges élőhelyet biztosít ritka kétéltűeknek és növényeknek, amelyek csak ebben a magasságban maradhatnak életben. A tóhoz vezető túra az ország egyik leglátványosabb természeti élménye, bepillantást engedve a sziget titokzatos és érintetlen belső vidékeibe. Tanterv: Földrajz K8, Biológia K7.",
+      "factsAdvanced": [
+        "Bioko-sziget legmagasabban fekvő és leghíresebb krátertava.",
+        "A bubi kultúra egyik legszentebb helyszíne.",
+        "Egy kialudt vulkáni kaldera mélyén található, 1500 m magasságban.",
+        "Vize kristálytiszta, az esővíz és a köd táplálja.",
+        "Sűrű páraerdő és páfrányok övezik a partját.",
+        "Fontos kutatási helyszín a sziget biológiai sokféleségének tanulmányozására.",
+        "A tó elérése meredek túraösvényeken keresztül lehetséges Moca faluból."
+      ]
+    },
+    {
+      "id": "gran-caldera-luba-nature-v2",
+      "descriptionAdvanced": "A Luba-kráter (Gran Caldera de Luba) Egyenlítői-Guinea egyik legérintetlenebb és legvadregényesebb természeti területe Bioko szigetének déli részén. Ez a hatalmas vulkanikus kaldera egyike azon kevés helyeknek a világon, ahol az esőerdő még teljesen háborítatlan, mivel a nehéz terepviszonyok megvédték a fakitermeléstől és a mezőgazdaságtól. A kráter belseje egy különleges biológiai sziget, ahol ritka főemlősök, madarak és rovarok találnak menedéket. A kaldera pereméről lenyűgöző kilátás nyílik a mélyben elterülő buja vegetációra és az Atlanti-óceánra. A terület tudományos szempontból felbecsülhetetlen értékű, a biokói biodiverzitás megőrzésének legfontosabb bázisa, ahol a természet még az emberi beavatkozás előtt uralkodik. Tanterv: Biológia K8, Földrajz K7.",
+      "factsAdvanced": [
+        "A Guineai-öböl egyik legnagyobb és legmélyebb vulkanikus kalderája.",
+        "Bioko déli részén található, szigorúan védett természetvédelmi terület.",
+        "A kráter átmérője több mint 5 kilométer, falai meredeken szakadnak a mélybe.",
+        "Itt található a sziget egyik legmagasabb sűrűségű majompopulációja.",
+        "A területre csak engedéllyel és tapasztalt vezetőkkel lehet belépni.",
+        "Számos eddig ismeretlen növényfajt fedeztek fel a kráter belsejében.",
+        "A kaldera kulcsszerepet játszik a sziget vízháztartásának szabályozásában."
+      ]
+    },
+    {
+      "id": "rio-muni-nature-v2",
+      "descriptionAdvanced": "Río Muni Egyenlítői-Guinea szárazföldi régiója, amely sűrű trópusi esőerdőivel, hatalmas folyóival és gazdag vadvilágával tűnik ki. A régiót északon Kamerun, keleten és délen Gabon határolja, nyugaton pedig az Atlanti-óceán mossa partjait. Río Muni belső területei nagyrészt érintetlenek, ahol a trópusi őserdők adják az ország biodiverzitásának gerincét, olyan fajokkal, mint a gorillák és az erdei elefántok. A régió folyói, mint a Benito és a Wele, fontos közlekedési és élelemforrást jelentenek a belső területeken élő fang lakosság számára. Río Muni nemcsak természeti erőforrásokban, hanem kulturális hagyományokban is gazdag, ahol a természetközeli életmód ma is meghatározó. Tanterv: Földrajz K6, Természetismeret K7.",
+      "factsAdvanced": [
+        "Az ország szárazföldi területe (26 017 km²).",
+        "Felszínének nagy részét sűrű trópusi esőerdő borítja.",
+        "Itt találhatók az ország legfontosabb nemzeti parkjai (pl. Monte Alén).",
+        "Gazdag ásványkincsekben, többek között vasérc- és aranylelőhelyekkel is rendelkezik.",
+        "A terület a szárazföldi Egyenlítői-Guinea gazdasági és mezőgazdasági bázisa.",
+        "A lakosság többsége a fang népcsoporthoz tartozik.",
+        "A part menti síkságok után a belső területek dombos-hegyes felföldekké válnak."
       ]
     }
   ]

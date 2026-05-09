@@ -2,31 +2,43 @@
   "lang": "ro",
   "country": "tunisia",
   "files": [
-    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "tunis-cities-v2",
-      "descriptionAdvanced": "Tunis, capitala Tunisiei, este un oraș vibrant ce îmbină istoria milenară cu urbanismul modern nord-african. Orașul este definit de celebra Medină, inclusă în patrimoniul mondial UNESCO, și de zona colonială modernă, construită în perioada protectoratului francez. În timp ce Medina atrage prin străzile înguste și bazarurile tradiționale, bulevardul Habib Bourguiba oferă arhitectură europeană și spații deschise generoase. Tunis este astăzi inima economică și culturală a țării. Geografie K6 — metropolele Africii de Nord.",
+      "id": "atlas-gebirge-relief-v2",
+      "descriptionAdvanced": "Munții Atlas, care se întind prin părți ale Tunisiei, modelează semnificativ relieful țării. În timp ce poalele nordice sunt caracterizate prin dealuri verzi și fertile, acestea devin mai uscate și mai aspre spre sud. Din punct de vedere geologic, aceștia sunt munți tineri care separă continentul african de Sahara. Munții servesc ca un rezervor natural de precipitații, ceea ce face posibilă agricultura în văi. Sistemul muntos oferă habitate diverse și influențează considerabil clima regională prin înălțimea și extensia sa.",
       "factsAdvanced": [
-        "Tunis a devenit capitala imperiului aghlabid în secolul al IX-lea.",
-        "Medina din Tunis adăpostește peste 700 de monumente istorice.",
-        "Gara Tunis-Marine leagă centrul orașului de suburbia La Marsa.",
-        "Moscheea Zitouna este una dintre cele mai vechi și importante moschei din Africa de Nord.",
-        "Tunisul modern s-a dezvoltat semnificativ în timpul protectoratului francez.",
-        "Orașul este situat strategic pe malul Golfului Tunis."
+        "Munții Atlas se întind pe 2.400 km în Africa de Nord.",
+        "Cel mai înalt punct din Tunisia este Djebel Chambi, cu 1.544 m.",
+        "Acționează ca o barieră climatică între Mediterana și Sahara.",
+        "Regiunea tunisiană a Atlasului este geologic mult mai tânără decât masivul central.",
+        "Precipitațiile din munții Atlas alimentează râuri importante precum Medjerda.",
+        "Regiunea este bogată în resurse minerale precum fosfații."
       ]
     },
     {
-      "id": "ariana-cities-v2",
-      "descriptionAdvanced": "Ariana este un oraș important situat în nordul zonei metropolitane Tunis, renumit pentru grădinile sale înflorite și cartierele rezidențiale moderne. Numele orașului provine de la grădinile care în trecut erau faimoase pentru cultivarea trandafirilor și a altor flori. Astăzi, Ariana servește drept un centru urban esențial, fiind o legătură între capitală și zonele rurale din nord. Orașul s-a dezvoltat considerabil, găzduind numeroase instituții de învățământ și centre medicale. Elevii în K5 descoperă aici dezvoltarea urbană în contextul urbanizării accelerate. Geografie K7 — orașe și regiuni.",
+      "id": "djebel-chambi-relief-v2",
+      "descriptionAdvanced": "Djebel Chambi este cel mai înalt vârf din Tunisia, cu o înălțime de 1.544 de metri, fiind un element distinctiv al reliefului țării. Acesta aparține părții tunisiene a Atlasului Dorsal. Regiunea vârfului face parte dintr-un parc național creat pentru a proteja fauna și flora unice, inclusiv pădurile rare de pin. Pentru geologi, muntele este un exemplu interesant de formațiuni de calcar într-un mediu altfel destul de arid. Zona este extrem de sensibilă din punct de vedere ecologic și joacă un rol central în conservarea biodiversității în această regiune muntoasă.",
       "factsAdvanced": [
-        "Ariana este celebră pentru cultivarea trandafirului de Damasc.",
-        "Orașul este un centru suburban dens populat al Tunisului.",
-        "Aici se află una dintre cele mai cunoscute facultăți de medicină din țară.",
-        "Ariana a fost influențată semnificativ de refugiații andaluzi în secolul al XVIII-lea.",
-        "Structura orașului este un amestec de nucleu istoric și clădiri moderne.",
-        "În apropiere se află Aeroportul Internațional Tunis-Carthage."
+        "Înălțimea absolută este de exact 1.544 de metri.",
+        "Muntele face parte din Parcul Național Djebel Chambi.",
+        "A fost recunoscut de UNESCO ca rezervație a biosferei în 1977.",
+        "Roca este compusă predominant din calcar cretacic.",
+        "Vârful este adesea singurul loc cu zăpadă în lunile de iarnă.",
+        "Mediul oferă habitat pentru rarul cerb berber."
+      ]
+    },
+    {
+      "id": "chott-el-jerid-relief-v2",
+      "descriptionAdvanced": "Chott el-Jerid este cel mai mare lac sărat din Tunisia și formează una dintre cele mai adânci și mai inospitaliere depresiuni ale țării. În acest bazin, apa se colectează în timpul ploilor, dar se evaporă rapid sub căldura dogoritoare, ceea ce duce la apariția crustei de sare caracteristice. Culorile lacului variază adesea între alb, roz și maro închis, în funcție de salinitate și de radiația solară. Din punct de vedere istoric, aceasta este o regiune importantă pentru exploatarea sării. Peisajul pare adesea suprarealist, fiind un exemplu impresionant de bazin endoreic.",
+      "factsAdvanced": [
+        "Suprafața Chott el-Jerid depășește 5.000 km².",
+        "Lacul sărat se află parțial sub nivelul mării.",
+        "Grosimea crustei de sare poate ajunge la un metru.",
+        "Chott el-Jerid este cunoscut pentru iluziile sale optice (Fata Morgana).",
+        "Aici au fost filmate scene pentru filme celebre precum Star Wars.",
+        "Zona este o destinație importantă pentru observarea păsărilor migratoare."
       ]
     }
   ]

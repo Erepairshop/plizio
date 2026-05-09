@@ -1,0 +1,129 @@
+{
+  "lang": "en",
+  "country": "cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-koupe-relief-v2",
+      "descriptionAdvanced": "The Koupe Massif is an imposing volcanic elevation, distinguished by its steep slopes and its striking presence in the Cameroonian landscape. The relief is a complex interplay of geological instability and tropical weathering, which has created a topographic structure known for its high botanical diversity. This mountain formation is also a central element of the volcanic line in western Cameroon and serves as a kind of natural guardian over the lower-lying regions. Geography K7 — mountains and volcanoes.",
+      "factsAdvanced": [
+        "Imposing volcanic elevation with a striking presence.",
+        "Relief formed by a complex interplay of weathering.",
+        "Known for an exceptionally high botanical diversity.",
+        "Central element of the volcanic line in western Cameroon.",
+        "Serves as a topographic guardian over the deeper plains.",
+        "Scenically impressive, steep mountain formation."
+      ]
+    },
+    {
+      "id": "mount-ntem-relief-v2",
+      "descriptionAdvanced": "The Ntem Hills are a characteristic, rolling landscape form in southern Cameroon, defined by their gentle domes and the deeply incised valleys of the Ntem River. The relief is largely covered by primary, dense tropical rainforest, which embeds the gentle topographic structure into a uniform, green ecosystem. This undulating landscape represents a central part of the southern tableland, which reflects the geological stability and moist climate zone of Cameroon. Geography K6 — hill country.",
+      "factsAdvanced": [
+        "Characteristic, rolling hill country in the south of the country.",
+        "Defined by gentle domes and deep valleys of the Ntem River.",
+        "Largely covered by dense, primary tropical rainforest.",
+        "Central part of the stable southern tableland of Cameroon.",
+        "Relief reflects the geological stability of the region.",
+        "Embedding into a moist, green tropical ecosystem."
+      ]
+    },
+    {
+      "id": "mount-dja-relief-v2",
+      "descriptionAdvanced": "The Dja Basin is an extensive, flat lowland structure in the southeast, which impresses with its enormous biological importance and its pronounced, water-rich topography. The relief is characterized by a barely perceptible topographic gradient and extensive swamp and rainforest areas, which form a natural protection basin for numerous animal species. This topographic unit is an essential component of the Cameroonian rainforest basin, whose flat and moist form significantly contributes to the stability of the entire regional climate. Geography K6 — lowlands.",
+      "factsAdvanced": [
+        "Extensive, flat lowland structure in the southeast of Cameroon.",
+        "Relief defined by a barely perceptible topographic gradient.",
+        "Contains extensive, water-rich swamp and rainforest areas.",
+        "Natural protection basin for a high animal species density.",
+        "Essential component of the Cameroonian rainforest basin.",
+        "Flat form significantly contributes to regional climate stability."
+      ]
+    },
+    {
+      "id": "mount-kribi-relief-v2",
+      "descriptionAdvanced": "The Kribi Coastal Plain is a narrow, topographically largely flat strip that forms the transition between the Cameroonian hinterland and the Atlantic Ocean. The relief is characterized by sandy soils, gentle rises into the inland, and a close intermeshing of marine- and terrestrial-influenced landscape elements. This coastal plain is not only of great historical importance for the coastal settlements, but as a topographic transition zone, it also offers a unique microclimate that harmoniously accompanies the transition from rainforest to ocean. Geography K6 — coastal geography.",
+      "factsAdvanced": [
+        "Narrow, topographically largely flat coastal strip.",
+        "Forms the transition from the Cameroonian hinterland to the Atlantic.",
+        "Characterized by sandy soils and gentle rises.",
+        "Close intermeshing of marine and terrestrial elements.",
+        "Of great historical importance for the coastal settlements.",
+        "Important transition zone with a unique coastal climate."
+      ]
+    },
+    {
+      "id": "mount-bouba-relief-v2",
+      "descriptionAdvanced": "The Bouba-Ndjidda Plateau presents itself as a hilly structured terrain within the Cameroonian savanna zone, the relief of which was significantly determined by the erosion processes of the local river system. The topographic form is characterized by gentle elevations and extensive, open areas, which are of central importance for the ecosystem of the northern savanna. This relief-rich, yet accessible terrain forms the landscape basis for one of the country's most important wildlife sanctuaries and shapes the open image of northern Cameroonian geography. Geography K6 — savanna geography.",
+      "factsAdvanced": [
+        "Hilly structured terrain within the savanna zone.",
+        "Relief significantly shaped by river erosion.",
+        "Characterized by gentle elevations and open areas.",
+        "Central topographic basis for wildlife conservation.",
+        "Shapes the open landscape of the northern Cameroonian zone.",
+        "A well-accessible, relief-rich terrain in the national park."
+      ]
+    },
+    {
+      "id": "mount-waza-relief-v2",
+      "descriptionAdvanced": "The Waza Plain is an extensive, flat floodplain in the extreme north of Cameroon, whose relief is defined by seasonal changes in water levels. During the rainy season, this flat topographic surface turns into a vast wetland that attracts an enormous number of animals. The extremely flat nature of the relief is decisive for the spread of the waters and makes this plain an ecologically critical area that massively determines the annual dynamics of the northern Cameroonian landscape. Geography K6 — hydrography and wetlands.",
+      "factsAdvanced": [
+        "Extensive, flat floodplain in the high north.",
+        "Relief defined by seasonal water level changes.",
+        "Flat topography leads to the formation of extensive wetlands.",
+        "Ecologically critical area for high animal density.",
+        "The flatness is decisive for the spread of the waters.",
+        "Massively dynamic relief in the annual rhythm of the rainy season."
+      ]
+    },
+    {
+      "id": "mount-logone-relief-v2",
+      "descriptionAdvanced": "The Logone Valley forms a fertile, low-lying alluvial plain along the border river Logone and is an essential component of northern Cameroonian hydrography. The relief is defined by an extremely low topographic gradient, which has led to the formation of extensive alluvial soils that favor intensive agricultural use. The topographic form is shaped significantly by annual flooding cycles, which constantly provide the soil with fresh nutrients and have thus created a highly productive agrarian relief in the north of the country. Geography K6 — alluvial landscape.",
+      "factsAdvanced": [
+        "Fertile, low-lying alluvial plain along the border river.",
+        "Relief defined by an extremely low topographic gradient.",
+        "Extensive alluvial soils favor intensive agricultural use.",
+        "Topographic form shaped by annual flooding cycles.",
+        "Soils are regularly provided with nutrient-rich sediment.",
+        "Highly productive agrarian relief in the north of the country."
+      ]
+    },
+    {
+      "id": "mount-kadey-relief-v2",
+      "descriptionAdvanced": "The Kadey Hills in eastern Cameroon are a topographically secluded, hilly rainforest region that impresses with its rolling relief and relative remoteness. The undulating relief is a result of the long-lasting erosive effect of the local river tributaries, which have created a complex, green-covered hill structure here. Due to its seclusion, this area is largely characterized by original vegetation, making it a significant retreat for the Cameroonian rainforest ecosystem. Geography K6 — hill country.",
+      "factsAdvanced": [
+        "Topographically secluded, hilly rainforest region in the east.",
+        "Wavy relief created by long-lasting erosive processes.",
+        "Result of the erosion activity of the local river tributaries.",
+        "Complex, dense green vegetation-covered structure.",
+        "Largely remoteness has preserved original vegetation.",
+        "Significant ecological retreat for the Cameroonian rainforest ecosystem."
+      ]
+    },
+    {
+      "id": "mount-nyong-relief-v2",
+      "descriptionAdvanced": "The Nyong Lowland extends as a moist, low-lying basin area along the Nyong River and is characterized by its flat, swampy relief. The topographic structure is closely tied to the Verlauf (course) of the river and exhibits numerous seasonal flooding areas, which form a characteristic, moist mosaic of forest and swamp biotopes. This flat, water-intensive nature of the relief significantly determines the ecological composition of the central Cameroonian lowland. Geography K6 — wetlands and lowlands.",
+      "factsAdvanced": [
+        "Moist, low-lying basin area along the Nyong River.",
+        "Relief characterized by a flat and pronounced swampy terrain.",
+        "Closely tied to the topographic course of the river.",
+        "Numerous seasonal flooding areas form the landscape image.",
+        "Forms a moist, green mosaic of forest and swamp biotopes.",
+        "Water-intensive structure dominates the central Cameroonian lowland."
+      ]
+    },
+    {
+      "id": "mount-sangha-relief-v2",
+      "descriptionAdvanced": "The Sangha Depression is a deep-lying, extensive basin structure in the southeast, which, as a subsidence area of the Sangha river system, represents one of the moistest and least developed reliefs of Cameroon. The topographic form is characterized by an extremely low level above sea level, which leads to the formation of extensive, primary rainforest areas with high ecological complexity. As the deepest, continuous basin of the country, it functions as a geological and ecological anchor point for the moist climate zone. Geography K6 — basin landscape.",
+      "factsAdvanced": [
+        "Deep-lying, extensive basin structure in the southeast of Cameroon.",
+        "Subsidence area defined by an extremely low level.",
+        "One of the least developed and moistest reliefs.",
+        "Formation of extensive, ecologically complex primary rainforests.",
+        "Functions as a geological anchor point for the moist climate zone.",
+        "Continuous, deep basin with enormous species diversity."
+      ]
+    }
+  ]
+}

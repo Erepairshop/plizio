@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mudug-savanna-relief-v2",
+      "descriptionAdvanced": "Die Mudug-Savanne erstreckt sich als weitläufige, semiaride Landschaft über das zentrale Hochland Somalias. Das Relief ist durch eine sanft wellige Topografie charakterisiert, die primär von dornigem Buschwerk, spärlichen Gräsern und vereinzelten Akazien bestimmt wird. Geologisch bildet diese Region ein weitläufiges Sedimentbecken, das während der kurzen, aber intensiven Regenzeiten temporäre Wasserläufe aufweist, die das Relief modellieren. Die Region ist ein klassisches Beispiel für eine Savannenökologie, die sich an extreme klimatische Schwankungen angepasst hat und als lebenswichtige Weidezone für die extensive nomadische Viehwirtschaft fungiert.",
+      "factsAdvanced": [
+        "Weitläufiges, semiarides Savannenrelief in Zentral-Somalia.",
+        "Geprägt durch eine sanft wellige Topografie.",
+        "Vegetation dominiert von dornigem Buschwerk und Akazien.",
+        "Gesteinsgrund besteht überwiegend aus Sedimentbecken.",
+        "Kurze, intensive Regenzeiten prägen temporäre Wasserläufe.",
+        "Essenzielle Weidezone für nomadische Viehwirtschaft.",
+        "Hohe Anpassungsfähigkeit an extreme klimatische Schwankungen."
+      ]
+    },
+    {
+      "id": "burao-valley-relief-v2",
+      "descriptionAdvanced": "Das Burao-Talbecken bildet eine zentrale topografische Senke, die das umgebende Hochland im Inneren Somalias klimatisch und ökologisch von der Umgebung abgrenzt. Als natürliches Einzugsgebiet sammeln sich hier oberflächliche Abflüsse aus den umliegenden Anhöhen, was die Entstehung von oasenartigen Mikrohabitaten in einer ansonsten eher trockenen Umgebung ermöglicht. Die Bodenbeschaffenheit besteht aus feinen alluvialen Ablagerungen, die bei Feuchtigkeit besonders produktiv sind. Diese geografische Lage hat das Talbecken historisch zu einem Knotenpunkt für nomadische Routen und kleinbäuerliche Siedlungsstrukturen gemacht, die die lokale Landschaftsform wesentlich mitgeprägt haben.",
+      "factsAdvanced": [
+        "Zentrale topografische Senke im somalischen Hochland.",
+        "Wichtiger Sammelpunkt für oberflächliche Abflüsse.",
+        "Entwicklung oasenartiger Mikrohabitate im Talbecken.",
+        "Bodenstruktur aus feinen, produktiven Alluvialsedimenten.",
+        "Historisch bedeutsamer Knotenpunkt nomadischer Routen.",
+        "Klimatische und ökologische Besonderheit im Hinterland.",
+        "Strukturiert durch kleinbäuerliche, wasserorientierte Siedlungen."
+      ]
+    },
+    {
+      "id": "gardafui-coast-cliffs-relief-v2",
+      "descriptionAdvanced": "Die Gardafui-Steilküste am Horn von Afrika stellt eine der dramatischsten Küstenformationen des gesamten afrikanischen Kontinents dar. Die massiven Klippen steigen unmittelbar aus den turbulenten Gewässern des Indischen Ozeans empor und bilden eine steil abfallende, geologisch beeindruckende Felswand. Diese Formation ist das Ergebnis tektonischer Prozesse, die die östlichste Spitze des Kontinents geformt haben. Durch die ständige Einwirkung starker, salzhaltiger Meeresströmungen und kräftiger Winde unterliegen die Klippen einer kontinuierlichen, aber sehr langsamen Erosion, was das steile, schroffe Relief der Küstenlinie über Jahrtausende stabilisiert hat.",
+      "factsAdvanced": [
+        "Massive, steil abfallende Klippen am Horn von Afrika.",
+        "Geologisch dramatische Formation direkt am Indischen Ozean.",
+        "Entstanden durch komplexe tektonische Hebungsprozesse.",
+        "Ständige Einwirkung durch starke, salzhaltige Meeresströmungen.",
+        "Stabilisiertes, schroffes Relief durch kontinuierliche Erosion.",
+        "Bedeutende geografische Landmarke für die globale Schifffahrt.",
+        "Östlichste Spitze des afrikanischen Kontinents."
+      ]
+    },
+    {
+      "id": "ayaha-plains-relief-v2",
+      "descriptionAdvanced": "Die Ayaha-Ebenen bilden eine weite, durch aride Prozesse geformte Hochlandlandschaft, die sich durch ihre offene und horizontale Struktur auszeichnet. Das Relief ist in weiten Teilen extrem flach und durch lehmhaltige Böden charakterisiert, die eine schnelle Drainage verhindern und nach seltenen Niederschlägen kurzzeitig weite Grasflächen ermöglichen. Die topografische Offenheit macht die Region stark den Winden ausgesetzt, die hier fast ungehindert über das Gelände streichen können. Diese Kombination aus offener Geografie und Bodenbeschaffenheit schafft ein fragiles Ökosystem, das auf die unregelmäßigen Regenfälle angewiesen ist.",
+      "factsAdvanced": [
+        "Offenes, horizontales und extrem flaches Hochlandrelief.",
+        "Geprägt durch lehmhaltige Böden mit geringer Drainage.",
+        "Kurzzeitige Grasbildung nach seltenen, intensiven Niederschlägen.",
+        "Stark exponiert gegenüber beständigen Windverhältnissen.",
+        "Fragiles Ökosystem mit hoher Abhängigkeit von Regen.",
+        "Topografisch einfaches, weitläufiges Ebenen-Relief.",
+        "Wichtige, wenn auch karge Zone für pastorale Nutzung."
+      ]
+    },
+    {
+      "id": "surud-cad-heights-relief-v2",
+      "descriptionAdvanced": "Die Surud-Cad-Höhenzüge repräsentieren den höchsten topografischen Punkt Somalias und sind ein integraler Bestandteil des Golis-Gebirges. Diese alpine Klimazone hebt sich aufgrund der deutlichen Höhenlage signifikant von den umliegenden Tiefländern ab. Die geologische Struktur besteht aus massiven Gesteinsformationen, die den klimatischen Extremen, insbesondere den starken Winden und nächtlichen Temperaturschwankungen, trotzen. Die Höhenlage ermöglicht eine einzigartige Vegetationsentwicklung, die klimatisch eher dem mediterranen Gebirgsraum als dem tropisch-ariden somalischen Tiefland ähnelt, was dieses Gebiet zu einer ökologischen Einzigartigkeit macht.",
+      "factsAdvanced": [
+        "Höchster topografischer Punkt des Landes im Golis-Massiv.",
+        "Repräsentiert eine alpine Klimazone in der Hochlage.",
+        "Signifikante klimatische Trennung zum somalischen Tiefland.",
+        "Besteht aus massiven, wetterresistenten Gesteinsformationen.",
+        "Einzigartige Vegetation mit mediterranem Einschlag.",
+        "Stark exponiert gegenüber starken Winden und Kälte.",
+        "Ökologisch isoliertes und hochgradig spezialisiertes Habitat."
+      ]
+    }
+  ]
+}

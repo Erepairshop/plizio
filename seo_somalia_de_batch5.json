@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dadaab-lowlands-relief-v2",
+      "descriptionAdvanced": "Die Dadaab-Niederungen erstrecken sich als weitläufige, flache Senken im Grenzgebiet Somalias. Dieses Relief ist durch eine monotone, weitgehend horizontale Struktur geprägt, die primär aus feinkörnigen sandigen Ablagerungen besteht. Geologisch bedingt weisen diese Tieflandgebiete eine sehr geringe topografische Varianz auf, was zu einer schnellen Ausbreitung von Oberflächenwasser bei seltenen, aber intensiven Niederschlägen führt. Die Region dient trotz ihrer arid-kargen Beschaffenheit aufgrund der Weitläufigkeit als strategisch wichtige Übergangszone, wobei die topografischen Bedingungen die Besiedlungsmuster und die nomadischen Wanderrouten maßgeblich bestimmen.",
+      "factsAdvanced": [
+        "Weitläufige, flache Tieflandsenken im Grenzgebiet.",
+        "Monotone, horizontal dominierte topografische Struktur.",
+        "Besteht primär aus feinkörnigen sandigen Sedimenten.",
+        "Sehr geringe natürliche topografische Varianz.",
+        "Schnelle Ausbreitung von Oberflächenwasser bei Regen.",
+        "Strategisch wichtige Übergangszone im arid-kargen Relief.",
+        "Topografie bestimmt maßgeblich nomadische Wanderrouten."
+      ]
+    },
+    {
+      "id": "barawa-coastal-relief-v2",
+      "descriptionAdvanced": "Der Barawa-Küstenstreifen bildet eine schmale, topografisch fragile Zone entlang der südlichen somalischen Küstenlinie. Das Relief ist geprägt durch eine Abfolge von sanft ansteigenden Dünengürteln, die unmittelbar an die Sandstrände grenzen und einen natürlichen Schutzwall gegen die Meereskraft bilden. Diese geologische Formation unterliegt einer ständigen Dynamik durch küstennahe Winde und Meeresströmungen, was die Topografie in diesem Abschnitt kontinuierlich verändert. Die schmale Landbrücke dient als wichtiger Lebensraum für eine angepasste Küstenflora und fungiert als Barriere, welche die landeinwärts liegenden Gebiete vor unmittelbarer mariner Erosion schützt.",
+      "factsAdvanced": [
+        "Schmaler, topografisch fragiler Küstenstreifen.",
+        "Abfolge von sanft ansteigenden, dynamischen Dünengürteln.",
+        "Natürlicher Schutzwall gegen die Kraft des Meeres.",
+        "Ständige topografische Veränderung durch Wind und Strömung.",
+        "Wichtiger Lebensraum für eine angepasste Küstenflora.",
+        "Barriere gegen unmittelbare marine Erosion im Hinterland.",
+        "Dynamische Interaktion zwischen Land und Indischem Ozean."
+      ]
+    },
+    {
+      "id": "ceerigaabo-uplands-relief-v2",
+      "descriptionAdvanced": "Das Ceerigaabo-Hochland umfasst ein bedeutendes, topografisch erhöhtes Gebiet im Norden Somalias. Das Relief zeichnet sich durch eine kühle, plateaurartige Struktur aus, die aufgrund ihrer Höhenlage regelmäßig von feuchteren Luftmassen erreicht wird. Diese geografische Lage führt zu einer signifikant höheren Niederschlagsmenge im Vergleich zu den umliegenden Tiefländern und unterstützt ein einzigartiges Ökosystem mit ausgeprägten Wacholderwaldformationen. Die geologische Basis aus verwittertem Kalkstein und die topografische Position machen dieses Hochland zu einer ökologischen Oase, die sich deutlich vom kargen, ariden Relief des restlichen Landes abhebt.",
+      "factsAdvanced": [
+        "Signifikant erhöhtes und plateaurartiges Hochlandgebiet.",
+        "Klimatisch kühlere Lage mit feuchteren Luftmassen.",
+        "Deutlich höhere Niederschlagsmengen als im Tiefland.",
+        "Unterstützt einzigartige Wacholderwaldformationen.",
+        "Ökologische Oase in einer ansonsten ariden Landschaft.",
+        "Geologisch basiert auf verwitterten Kalksteinformationen.",
+        "Topografische Trennung vom umgebenden, trockenen Relief."
+      ]
+    },
+    {
+      "id": "hordio-lagoon-relief-v2",
+      "descriptionAdvanced": "Die Hordio-Lagune bildet eine geschützte, topografisch tiefer liegende Wasserfläche im nordöstlichen Küstenraum Somalias. Diese Formation entsteht durch die natürliche Abtrennung einer flachen Bucht vom offenen Meer durch Sandbänke, was eine ruhige, brackige Wasserzone schafft. Das Relief ist durch das Zusammenspiel von sedimentären Ablagerungen und den wechselnden Wasserständen der Gezeiten gekennzeichnet. Diese flache, geschützte Umgebung dient als ökologisch essenzieller Rückzugsort und Rastplatz für zahlreiche migrierende Vogelarten, da sie eine stabile Nahrungsbasis in einem ansonsten eher rauen Küstenrelief bietet.",
+      "factsAdvanced": [
+        "Geschützte, tiefer liegende brackige Lagunenfläche.",
+        "Geformt durch natürliche Abtrennung vom Meer via Sandbänke.",
+        "Topografie durch sedimentäre Ablagerungen und Gezeiten.",
+        "Ökologisch stabiles Habitat mit ruhigen Wasserzonen.",
+        "Essenzieller Rastplatz für zahlreiche migrierende Vogelarten.",
+        "Stabile Nahrungsbasis in einem ansonsten rauen Relief.",
+        "Interaktive Zone zwischen mariner und terrestrischer Topografie."
+      ]
+    },
+    {
+      "id": "kismayo-coastal-relief-v2",
+      "descriptionAdvanced": "Das Kismayo-Küstenrelief erstreckt sich als flache, weitläufige Zone südlich des Juba-Deltas. Die topografische Struktur ist geprägt durch offene, sandige Küstenbereiche und ein komplexes System aus flachen Buchten, die durch marinen Einfluss stetig umgeformt werden. Das Relief weist hier erste Ansätze für Mangroven-Ökosysteme auf, da die geschützten, sedimentreichen Buchten eine ideale Basis für diese spezialisierten Pflanzen bieten. Die Küstenlandschaft ist weitgehend horizontal und vermittelt zwischen dem maritimen Raum und der landeinwärts liegenden Savannenlandschaft, wobei das Relief sowohl durch fluviale als auch durch marine Sedimentation stabilisiert wird.",
+      "factsAdvanced": [
+        "Flache, weitläufige Zone südlich des Juba-Deltas.",
+        "Geprägt durch sandige Küsten und ein System flacher Buchten.",
+        "Erste Ansätze für spezialisierte Mangroven-Ökosysteme.",
+        "Geformt durch stetige marine und fluviale Sedimentation.",
+        "Horizontale Landschaft als Übergangszone zur Savanne.",
+        "Topografische Stabilität durch die Interaktion der Kräfte.",
+        "Komplexes Zusammenspiel aus mariner und terrestrischer Geografie."
+      ]
+    }
+  ]
+}

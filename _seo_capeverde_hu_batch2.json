@@ -1,0 +1,359 @@
+{
+  "lang": "hu",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "santo-antao-nature-v2",
+      "descriptionAdvanced": "Santo Antão a Zöld-foki-szigetek második legnagyobb szigete, amelyet drámai hegyvidéki domborzata és buja, zöld völgyei miatt a természetbarátok paradicsomaként tartanak számon. Földrajzilag egy száraz déli és egy hihetetlenül zöld északi részre oszlik, ahol a párás mikroklíma lehetővé teszi a cukornád, kávé és banán termesztését a meredek teraszokon. A központi hegyláncot a Pico da Cruz és a Topo de Coroa uralja, olyan túraútvonalakat kínálva, amelyek a világ legszebbjei közé tartoznak. A sziget híres mély völgyeiről (ribeiras), mint például a Paúl-völgy, ahol a trópusi növegzet lenyűgöző gazdagságban pompázik. Sok falu földrajzi izoláltsága megőrizte az évszázados hagyományokat és a szívélyes vendégszeretetet, a 'Morabezát'. Ez a tökéletes úti cél a kalandvágyók és a nyugalomra vágyók számára, akik a vulkáni természet tiszta, érintetlen erejét keresik.",
+      "factsAdvanced": [
+        "A szigetcsoport második legnagyobb és legnyugatibb tagja.",
+        "Legmagasabb csúcsa a Topo de Coroa, amely 1979 méter magas.",
+        "Híres a leglátványosabb zöld völgyeiről, az úgynevezett ribeirákról.",
+        "Világszintű célpont a kihívást jelentő hegyi túrák kedvelői számára.",
+        "A hagyományos grogue (cukornádpárlat) legfőbb előállítója.",
+        "Erős éghajlati kontraszt jellemzi a zöld észak és a száraz dél között.",
+        "Fontos helyszíne a teraszos trópusi mezőgazdaságnak.",
+        "Itt található a szigetcsoport legnagyobb fenyőerdője."
+      ]
+    },
+    {
+      "id": "sao-vicente-nature-v2",
+      "descriptionAdvanced": "São Vicente egy energiával teli, száraz vulkáni sziget, amelyet a Zöld-foki-szigetek kulturális és zenei szíveként ismernek. Domborzatát a jellegzetes Monte Verde uralja, amely lélegzetelállító panorámát nyújt a Porto Grande természetes kikötőjére és Mindelo városára. Bár a sziget kevés vízforrással és ritka növényzettel rendelkezik, varázsa a látványos öblökben, mint a Baía das Gatas, és a zord vulkáni hegyvidékben rejlik. A sziget földrajzi adottságai kedveztek Mindelo fejlődésének, amely az Atlanti-óceán egyik legfontosabb kikötőjévé vált, São Vicentét pedig kozmopolita csomóponttá tette. Strandjai, mint a Praia Grande, vad szépségükről és a vízi sportokhoz ideális szélviszonyokról híresek. São Vicente az a hely, ahol a vulkáni természet tökéletesen ötvöződik a lakók művészi szellemével, egyedi identitást teremtve a szigetvilágban.",
+      "factsAdvanced": [
+        "Vulkáni sziget Nyugat-Afrika legmélyebb természetes kikötőjével.",
+        "Itt található Mindelo, az ország kulturális fővárosa.",
+        "Legmagasabb pontja a Monte Verde, 744 méter magasan.",
+        "A Porto Grande-öböl egy hatalmas kialudt vulkáni kráterben fekszik.",
+        "Híres a Baía das Gatas-nál évente megrendezett nagy zenei fesztiválról.",
+        "Földrajzát tágas síkságok és meredek sziklafalak jellemzik.",
+        "Fontos helyszíne a nemzetközi szörfversenyeknek.",
+        "A Santo Antão szigetére tartó kompjáratok fő kiindulópontja."
+      ]
+    },
+    {
+      "id": "santa-luzia-nature-v2",
+      "descriptionAdvanced": "Santa Luzia a Zöld-foki szigetcsoport egyetlen lakatlan szigete, amely szigorúan védett, vad és tiszta szépségű természetvédelmi területként szolgál. A São Vicente és São Nicolau szigetek között elhelyezkedő terület létfontosságú menedéket nyújt számos tengeri madárfajnak és endemikus hüllőnek, amelyek a világon sehol máshol nem fordulnak elő. Domborzata száraz és hegyvidéki, legmagasabb pontja a Monte Arruda. A szigetet körülvevő vizek kivételes tengeri biodiverzitással rendelkeznek, és a zöld teknősök egyik kritikus fészkelőhelyei. Az állandó emberi jelenlét hiánya lehetővé tette az ökoszisztéma zavartalan fejlődését, így a sziget a tudósok számára természetes laboratóriumként működik. A hozzáférés szigorúan korlátozott e törékeny egyensúly megőrzése érdekében. Santa Luzia a zöld-foki természet legősibb és legérintetlenebb arcát képviseli.",
+      "factsAdvanced": [
+        "A teljes szigetcsoport egyetlen ember által nem lakott szigete.",
+        "1990 óta szigorúan védett integrált természetvédelmi terület.",
+        "Az endemikus Santa Luzia-i óriásszkink kritikus élőhelye.",
+        "A veszélyeztetett tengeri teknősök kiemelt fészkelőhelye.",
+        "Száraz hegyvidéki domborzat jellemzi, legmagasabb pontja 395 méter.",
+        "Vizeiben jelentős védett korallzátonyok találhatók.",
+        "Ritka tengeri madárkolóniák fontos fészkelő- és pihenőhelye.",
+        "Nemzetközi biológiai kutatási projektek központi helyszíne."
+      ]
+    },
+    {
+      "id": "sao-nicolau-nature-v2",
+      "descriptionAdvanced": "São Nicolau a visszafogott és autentikus szépség szigete, amely változatos domborzatot kínál, ötvözve a magas hegyeket a száraz síkságokkal és a termékeny völgyekkel. A sziget ökológiai szíve a Monte Gordo Nemzeti Park, ahol fenyőerdők és endemikus növények virágoznak egy párás mikroklímában, amely éles kontrasztban áll a szigetcsoport többi részével. São Nicolau híres a sárkányfáiról (Dracaena draco), ezekről az ősi botanikai szimbólumokról, amelyek a sziklás tájat pettyezik. A sziget földrajza szívós, hagyományos mezőgazdaságot formált, a kék tengerig lefutó teraszokkal. Partvonalát természetes vulkáni medencék és fekete gyógyhomokos strandok szegélyezik, utóbbiak magas jódtartalmukról ismertek. São Nicolau marad az egyik legkevésbé felfedezett sziget, megőrizve a mély nyugalom légkörét és egy olyan természetet, amely évszázadok óta változatlannak tűnik.",
+      "factsAdvanced": [
+        "Itt található a Monte Gordo Nemzeti Park értékes fenyőerdőivel.",
+        "A ritka és ősi sárkányfák (Dragoeiros) egyik utolsó hazája.",
+        "Híres gyógyhatású, fekete vulkáni homokos tengerpartjairól.",
+        "Legmagasabb pontja a Monte Gordo, 1312 méterrel a tengerszint felett.",
+        "Gazdag irodalmi és tudományos hagyományokkal rendelkező sziget.",
+        "Drámai vulkáni formációk és meredek hegygerincek jellemzik.",
+        "Kiváló minőségű kukorica és bab egyik fontos termelője.",
+        "Autentikus úti cél távol a nemzetközi tömegturizmustól."
+      ]
+    },
+    {
+      "id": "sal-nature-v2",
+      "descriptionAdvanced": "Sal szigete a szigetcsoport legszárazabb és geológiailag legöregebb tagja, amely világszerte híres sivatagi tájairól és végtelen, aranyhomokos strandjairól. Bár domborzata nagyrészt sík, a sziget olyan természeti csodákat rejt, mint a Pedra de Lume sóbányák, amelyek egy kialudt vulkán kráterében találhatók, és ahol a só a színek lenyűgöző játékában kristályosodik ki. A szigetet körülvevő türkizkék víz rendkívül gazdag tengeri élővilágban, és kedvelt helyszíne a citromcápák megfigyelésének, valamint a tengeri teknősök fészkelésének a déli partokon. Sal a vízi sportok paradicsoma; az állandó passzátszelek a világ egyik legjobb helyszínévé teszik a kitesurf és a szörf számára. Az olyan jelenségek, mint a buraconai 'Kék Szem', a fény és a víz mágikus interakcióját mutatják be vulkáni barlangokban. Sal az örök napsütés és a kristálytiszta tenger szimbóluma.",
+      "factsAdvanced": [
+        "A Zöld-foki-szigetek legnaposabb tagja, évi 350 napsütéses nappal.",
+        "Geológiailag a legöregebb sziget (kb. 50 millió éves).",
+        "A zöld-foki tömegturizmus központja Santa Maria városával.",
+        "Híres a vulkáni kráterben kialakított Pedra de Lume sóbányákról.",
+        "A kitesurf, a széllovas és a hullámlovas sportok világelit célpontja.",
+        "Itt látható a Buracona közelében található 'Kék Szem' (Olho Azul) barlang.",
+        "A veszélyeztetett álcserepes teknősök egyik legfontosabb élőhelye.",
+        "Szinte esőmentes sivatagi éghajlat határozza meg a sziget arculatát."
+      ]
+    },
+    {
+      "id": "boa-vista-nature-v2",
+      "descriptionAdvanced": "Boa Vista a végtelen dűnék és érintetlen strandok szigete, amely a teljes szigetcsoport leghosszabb partvonalával rendelkezik. A 'Dűnék szigeteként' ismert Boa Vista ad otthont a Viana-sivatagnak, amely a Szahara egy kinyúlása, melyet az atlanti szelek hordtak ide, és ahol a finom homok lenyűgöző szoborszerű formákat ölt. Boa Vista az álcserepes teknősök (Caretta caretta) legfontosabb fészkelőhelye a Kelet-Atlanti-óceánon, ezért itt kiterjedt fajmegőrzési intézkedések zajlanak. A vizek emellett menedéket nyújtanak a hosszúszárnyú bálnáknak is, amelyek a téli hónapokban szaporodni érkeznek ide. A domborzat nagyrészt sík, amelyet elszigetelt dombok, mint például a Monte Estância szakítanak meg, végtelen szabadságérzetet nyújtva. Boa Vista a vadon ékköve, ahol a sivatag és az óceán tökéletes harmóniában találkozik.",
+      "factsAdvanced": [
+        "A harmadik legnagyobb sziget, itt találhatók a leghosszabb homokos strandok.",
+        "A Viana-sivatag vándorló dűnéit a Szaharából áramló homok építi.",
+        "A kelet-atlanti álcserepes teknősök legfontosabb fészkelőhelye.",
+        "A hosszúszárnyú bálnák megfigyelésének központja januártól májusig.",
+        "Száraz éghajlat jellemzi, ritka sivatagi növényzettel.",
+        "Itt található a Sal Rei-szigetecske történelmi erődromokkal.",
+        "Híres a hagyományos fazekasmesterségről és kerámiáiról.",
+        "Kiterjedt természetvédelmi területek óvják egyedülálló biodiverzitását."
+      ]
+    },
+    {
+      "id": "maio-nature-v2",
+      "descriptionAdvanced": "Maio szigete a nyugalom és az érintetlen természet menedéke, amelyet gyakran az 'idő által elfeledett szigetként' emlegetnek. Domborzata nagyrészt sík, tágas síkságok, történelmi sóbányák és a szigetcsoport legnagyobb akácosai jellemzik. Maio híres az embermentes, fehér homokos strandjairól, amelyek kilométereken át nyúlnak el, a teljes izoláltság érzését nyújtva. Ökológiai szempontból a sziget nemzetközi jelentőségű helyszín a tengeri teknősök fészkelése és a lagúnáit benépesítő számos gázlómadárfaj számára. A légkört béke és lassú életritmus határozza meg, ami Maiót ideális hellyé teszi azok számára, akik el akarnak menekülni a modern nyüzsgés elől. Maio kivételes tengeri biodiverzitást őriz, vizei a legtisztábbak és halakban leggazdagabbak közé tartoznak a Zöld-foki-szigeteken. Az igazi eredetiség helyszíne.",
+      "factsAdvanced": [
+        "A szigetvilág legbékésebb és legautentikusabb tagjának tartják.",
+        "Itt találhatók az ország legnagyobb mesterségesen telepített erdői.",
+        "UNESCO Bioszféra-rezervátum a gazdag tengeri élővilág miatt.",
+        "Sík domborzat jellemzi, kiterjedt fehér homokos strandokkal.",
+        "Történelmileg a sókitermelés egyik kiemelkedő központja volt.",
+        "Védett tengeri teknősök kiemelt fontosságú fészkelőhelye.",
+        "Számos vándormadár otthona a part menti lagúnákban.",
+        "Szinte felfedezetlen paradicsom a fenntartható ökoturizmus számára."
+      ]
+    },
+    {
+      "id": "santiago-nature-v2",
+      "descriptionAdvanced": "Santiago a Zöld-foki-szigetek legnagyobb és legváltozatosabb szigete, amely a teljes szigetvilág mikrokosmosaként működik. Földrajza drámai hegyláncokat, mint a Serra Malagueta és a Pico da Antónia, ötvöz a zöld, termékeny völgyekkel és a száraz sziklapartokkal. Santiago az ország mezőgazdasági szíve, ahol a gazdag vulkáni talaj és a gyakoribb csapadék lehetővé teszi számos trópusi termény termesztését. A sziget biodiverzitását nemzeti parkok védik, amelyek ritka endemikus növény- és madárfajoknak adnak otthont. Santiago emellett hatalmas történelmi jelentőséggel bír, mint az elsőként benépesült sziget, ami a vad természetet kiegészítő kulturális tájban is tükröződik. A tarrafali pálmás strandoktól a ködbe burkolózó hegycsúcsokig Santiago hihetetlen tájképi sokszínűséget kínál, amely feltárja a Zöld-foki-szigetek valódi lényegét.",
+      "factsAdvanced": [
+        "Az ország legnépesebb és területileg legnagyobb szigete.",
+        "Kiemelkedő tájképi sokszínűség magashegységekkel és völgyekkel.",
+        "A Pico da Antónia a legmagasabb pontja 1394 méterrel.",
+        "A legfontosabb agrárterület trópusi ültetvényekkel.",
+        "Északi részén található a Serra Malagueta Nemzeti Park.",
+        "Az első európai település helyszíne a trópusokon.",
+        "Gazdag endemikus madárfajokban, mint a zöld-foki nádiposzáta.",
+        "Praia kikötője a szigetcsoport logisztikai központja."
+      ]
+    },
+    {
+      "id": "fogo-nature-v2",
+      "descriptionAdvanced": "Fogo szigete a természet elemi ereje, amelyet a Pico do Fogo, a Zöld-foki-szigetek legmagasabb pontjának impozáns jelenléte ural. A sziget tájképe a világ legdrámaibbjai közé tartozik, egy hatalmas, 9 kilométer átmérőjű kalderával, ahol a helyiek a fekete vulkáni hamuban élnek és termelnek bort. Fogót a láva abszolút feketéje és az északi lejtők kávéültetvényeinek üde zöldje közötti extrém kontraszt határozza meg. A vulkáni tevékenység nemcsak a domborzatot, hanem a lakók szívós szellemét is megformálta. A Fogo Nemzeti Park a geológia és a botanika élő laboratóriuma, ahol az ásványokban gazdag talajhoz alkalmazkodott endemikus fajok élnek. A sziget híres egyedi boráról és aromás kávéjáról, amelyek mindketten extrém körülmények között készülnek. Fogo a föld mélységi erőinek lenyűgöző emlékműve.",
+      "factsAdvanced": [
+        "Itt található az aktív Pico do Fogo rétegvulkán (2829 m).",
+        "A lakott 'Chã das Caldeiras' kaldera ad otthont a helyi közösségnek.",
+        "Világszerte ismert a fekete lávahamun zajló bortermeléséről.",
+        "Táját az 1995-ös és 2014-es friss lávafolyások határozzák meg.",
+        "A zöld-foki magaslati kávé termesztésének legfontosabb helyszíne.",
+        "Nemzeti park védi az egyedülálló, hamuhoz alkalmazkodott flórát.",
+        "Meredeken szakadó partok jellemzik, természetes kikötők nélkül.",
+        "A természet teremtő és pusztító erejének nemzeti szimbóluma."
+      ]
+    },
+    {
+      "id": "brava-nature-v2",
+      "descriptionAdvanced": "Brava a Zöld-foki-szigetek legkisebb lakott szigete, amelyet buja növényzete és mindenütt jelenlévő kertjei miatt gyakran 'virágszigetként' emlegetnek. Magasságának és földrajzi fekvésének köszönhetően a sziget összegyűjti a felhők nedvességét, így hűvösebb és párásabb mikroklímát teremt, mint a szomszédos szigetek. A domborzat rendkívül meredek, a sziklapartok közvetlenül az óceánba szakadnak, ami kevés kikötési lehetőséget kínál, de ritka szépségű tájakat hoz létre. Brava a nyugalom paradicsoma, ahol az utak zöld hegyek és festői, virágokkal díszített falvak között kanyarognak. A sziget flórája és faunája számos endemikus fajt foglal magában, amelyeket a szigetcsoport e sarkának viszonylagos elszigeteltsége védelmez. Ez az ideális hely azok számára, akik költői kapcsolatot keresnek a természettel és a zöld-foki szellemre jellemző melankolikus hangulatot kutatják.",
+      "factsAdvanced": [
+        "A legkisebb lakott sziget és a déli szigetcsoport legnyugatibb pontja.",
+        "Virágpompája miatt 'Ilha das Flores' (Virágok szigete) néven ismerik.",
+        "Szokatlanul párás és enyhe mikroklímával rendelkezik.",
+        "Csak komppal érhető el a szomszédos Fogo szigetéről.",
+        "Rendkívül tagolt domborzat és szédítő sziklafalak jellemzik.",
+        "Számos zöld-foki endemikus növényfaj otthona.",
+        "Híres a lakosság körében tapasztalható magas iskolázottságról.",
+        "A zöld-foki morna-költészet bölcsőjének tekintik."
+      ]
+    },
+    {
+      "id": "pico-do-fogo-nature-v2",
+      "descriptionAdvanced": "A Pico do Fogo a Zöld-foki-szigetek legmagasabb csúcsa és az Atlanti-óceán egyik legimpozánsabb aktív rétegvulkánja. A tengerszint felett 2829 méterrel magasodó lávagigáns a Fogo szigetén található Chã das Caldeiras kaldera belsejét uralja. A csúcsra való feljutás komoly fizikai kihívás, amelyet a teljes szigetvilágra nyíló lélegzetelállító panoráma jutalmaz. A vulkán a történelem folyamán számos alkalommal tört ki, legutóbb 2014-ben, aminek következtében a környező táj folyamatosan új hamu- és lávarétegekkel alakul át. A Pico do Fogo nem csupán geológiai látványosság, hanem a helyi gazdaság szíve is, mivel hamuja termékennyé teszi a régió híres szőlőültetvényeit. A zöld-fokiak számára a hegy a természet hatalmát és az emberi alkalmazkodóképességet jelképezi a vulkáni erőkkel szemben.",
+      "factsAdvanced": [
+        "A Zöld-foki-szigetek legmagasabb hegye 2829 méteres magassággal.",
+        "Aktív rétegvulkán, amelyből folyamatosan gázok törnek elő.",
+        "Utolsó pusztító kitörése 2014 novemberében történt.",
+        "Egy hatalmas, beomlott kaldera belsejében helyezkedik el.",
+        "Népszerű, de nehéz célpont a hegymászók és túrázók számára.",
+        "Biztosítja a környező mezőgazdasági területek termékenységét.",
+        "Döntően befolyásolja Fogo szigetének helyi mikroklímáját.",
+        "Az Atlanti-óceán középső részének legfontosabb geológiai tájékozódási pontja."
+      ]
+    },
+    {
+      "id": "topo-de-coroa-nature-v2",
+      "descriptionAdvanced": "A Topo de Coroa Santo Antão szigetének legmagasabb pontja, elérve az 1979 méteres magasságot. Ez a kialudt vulkán a sziget nyugati részén fekszik, egy olyan régióban, amelyet száraz és vad domborzat jellemez, éles ellentétben az északkeleti zöld völgyekkel. A hegy egy impozáns dóm formáját ölti, és erodált vulkáni kőzetekből, valamint szívós sztyeppei növényzetből álló holdbéli táj veszi körül. Az elszigetelt és nehezen megközelíthető régióban található Topo de Coroa tiszta túraélményt kínál távol a szokásos turistaútvonalaktól. Csúcsáról tiszta napokon látni lehet a horizonton lebegő São Vicente és még São Nicolau szigeteit is. A nyugalom szentélye és kiemelt jelentőségű geodéziai pont a szigetcsoport és a hajózás számára.",
+      "factsAdvanced": [
+        "Santo Antão szigetének legmagasabb pontja (1979 méter).",
+        "Kialudt vulkán az ország egyik legmagányosabb régiójában.",
+        "Domináns dómforma egy vulkáni fennsík közepén.",
+        "Tiszta időben messzire ellátni róla az északi szigetekig.",
+        "Ritka, szárazsághoz alkalmazkodott flóra otthona.",
+        "Nagy kihívást jelentő célpont tapasztalt túrázók számára.",
+        "A sziget vad, lakatlan nyugati oldalát jelöli ki.",
+        "Fontos referenciapont a légi és tengeri navigáció számára."
+      ]
+    },
+    {
+      "id": "monte-gordo-nature-v2",
+      "descriptionAdvanced": "A Monte Gordo São Nicolau szigetének csúcspontja, amely 1312 méteres magasságot ér el. Egy kritikus ökológiai jelentőségű nemzeti park szívét alkotja. A felhőelkapó jelenségnek köszönhetően a csúcsot gyakran köd borítja, ami lehetővé teszi egy olyan fenyőerdő és buja növényzet létezését, amely éles kontrasztban áll a sziget száraz alacsonyabb zónáival. A Monte Gordo Nemzeti Park számos endemikus növényfajt védelmez, és létfontosságú élőhelyet biztosít a szigetvilág őshonos madarai számára. Egy túraútvonal-hálózat teszi lehetővé a látogatók számára e törékeny ökoszisztéma felfedezését, miközben lélegzetelállító kilátás nyílik São Nicolau völgyeire és partjaira. A hegyet a sziget vízkészleteinek őrzőjeként kezelik, mivel alapvető fontosságú a helyi hidrológiai egyensúly szempontjából.",
+      "factsAdvanced": [
+        "São Nicolau legmagasabb csúcsa (1312 méter).",
+        "A 2003-ban alapított azonos nevű nemzeti park magterülete.",
+        "Egyedülálló ökoszisztéma köderdővel és fenyőfélékkel.",
+        "Több mint 30 zöld-foki endemikus növényfajnak ad otthont.",
+        "A sziget legfontosabb víztározója a kondenzáció révén.",
+        "Kiemelkedő célpont vezetett botanikai túrákhoz.",
+        "A ritka zöld-foki viharmadár egyik fontos menedékhelye.",
+        "A szigetcsoport egyik legértékesebb biodiverzitási központja."
+      ]
+    },
+    {
+      "id": "monte-cara-nature-v2",
+      "descriptionAdvanced": "A Monte Cara kétségtelenül São Vicente szigetének leghíresebb természeti jelképe és egész Zöld-foki-szigetek egyik legismertebb szimbóluma. Neve, amely 'Arc-hegyet' jelent, hihetetlen sziluettjéből adódik, amely egy hanyatt fekvő, az égre néző emberi arc profiljára emlékeztet. Ez az erózió által formált bazalthegy őrzi a Porto Grande kikötő bejáratát és Mindelo városát, állandó inspirációs forrást jelentve a helyi költők és zenészek számára. Képét számos morna dalban örökítették meg, többek között a híres Cesária Évora is. A Monte Cara nem csupán látványos geológiai formáció, hanem São Vicente lakóinak kulturális önazonosságának tartóoszlopa. Naplementekor a fény vörösre és lilára festi a sziklákat, felejthetetlen vizuális élményt nyújtva.",
+      "factsAdvanced": [
+        "São Vicente szigetének leghíresebb vizuális jelképe.",
+        "Természetes sziluett, amely emberi arcélre emlékeztet.",
+        "Gyakran megénekelt motívum a zöld-foki világzenében.",
+        "Védőfalat alkot a mindelói kikötő bejáratánál.",
+        "Vulkáni eredetű, jellegzetes bazaltformáció.",
+        "Látványos látványt nyújt, különösen napnyugta idején.",
+        "A helyi hazafiasság elengedhetetlen szimbóluma.",
+        "Számos nemzeti intézmény logójának inspirálója."
+      ]
+    },
+    {
+      "id": "serra-malagueta-nature-v2",
+      "descriptionAdvanced": "A Serra Malagueta egy látványos hegylánc Santiago szigetének északi részén, amely kivételes biodiverzitása miatt nemzeti parkként védett. A hegyek 1000 méter feletti magasságot érnek el, és gyakran felhők borítják őket, ami gazdag és zöld növényzetet tart fenn, szemben a száraz parti zónákkal. A park híres eukaliptusz- és fenyőerdőiről, valamint endemikus növényeiről és olyan ritka madárfajokról, mint a halászsas. A Serra Malagueta túraútvonalak kiterjedt hálózatát kínálja, amelyek gerinceken és mély völgyeken kanyarognak át, lélegzetelállító panorámát nyújtva az egész szigetre és még a szomszédos Fogo szigetére is. Létfontosságú terület Santiago vízvédelme szempontjából, mivel természetes szivacsként működik, táplálva a helyi forrásokat. A látogatók számára a park a hegyi magasságok hűvösébe és nyugalmába való menekülést jelenti.",
+      "factsAdvanced": [
+        "Jelentős nemzeti park Santiago szigetének északi felén.",
+        "Legmagasabb pontja 1064 méterrel magasodik a tenger fölé.",
+        "Több mint 25 endemikus növényfaj szentélye.",
+        "A sziget legfontosabb túraterülete jelzett ösvényekkel.",
+        "Kritikus zóna Santiago talajvíz-utánpótlása szempontjából.",
+        "Az endemikus zöld-foki egerészölyv fontos élőhelye.",
+        "Mélyen bevágódott eróziós völgyek jellemzik a tájat.",
+        "Kiváló kilátópontok nyílnak innen a Pico do Fogo vulkánra."
+      ]
+    },
+    {
+      "id": "monte-fontainhas-nature-v2",
+      "descriptionAdvanced": "A Monte Fontainhas Brava szigetének legmagasabb pontja, elérve a 976 méteres magasságot, és gyakran felhőkbe, ködbe burkolózik. Ez a hegy uralja a legkisebb lakott sziget tájképét, és felelős azon nedvesség összegyűjtéséért, amely Bravát a 'virágok szigetévé' teszi. Lejtői rendkívül meredekek és zöldek, a zöld-foki flóra számos endemikus fajának adnak otthont. A Monte Fontainhas-hoz vezető utak és ösvények lenyűgöző kilátást nyújtanak az óceánra és a szomszédos Fogo szigetére. Topográfiája miatt a terület kiváló helyszín a magányos túrázáshoz az érintetlen természetben. Alapvető geodéziai pont és vizuális horgony Brava egész közössége számára. A hegy forrása számos pataknak, amelyek a sziget termékeny kertjeit öntözik.",
+      "factsAdvanced": [
+        "A legkisebb lakott sziget, Brava legmagasabb csúcsa (976 méter).",
+        "A sziget nedvességének és 'felhőelkapásának' fő forrása.",
+        "Rendkívül magas botanikai sokszínűségű régió központja.",
+        "A legjobb panorámát nyújtja a szomszédos Fogo-vulkánra.",
+        "Extrém meredek, zölden benőtt hegyoldalak jellemzik.",
+        "Elengedhetetlen a hegyi falvak helyi vízellátása szempontjából.",
+        "Fontos tájékozódási pont a déli szigetek hajózása során.",
+        "Ritka páfrányok és orchideafajok hazája a szigetvilágban."
+      ]
+    },
+    {
+      "id": "monte-estancia-nature-v2",
+      "descriptionAdvanced": "A Monte Estância Boa Vista szigetének csúcspontja, amely 387 méterrel emelkedik ki az egyébként lapos és sivatagi tájból. Ez az ősi vulkáni formáció a teljes sziget legfontosabb tájékozódási pontjaként szolgál, és nagy távolságokból is látható. A hegy száraz megjelenésű, sziklás lejtőit a passzátszelek formálták, amelyek a Szaharából hordják a homokot. Bár magassága szerény, a Monte Estância megmászása egyedülálló panorámát nyújt a környező dűnékre és az Atlanti-óceán végtelen kékjére. A terület fontos a szigetcsoport ősi geológiájának tanulmányozásához, és otthont ad néhány ragadozómadár-fajnak, amelyek elszigetelt szikláin fészkelnek. A folyamatos tengeri erózióval szembeni geológiai ellenállás szimbóluma, és meghatározza Boa Vista lapos profilját.",
+      "factsAdvanced": [
+        "A lapos Boa Vista sziget legmagasabb csúcsa (387 méter).",
+        "Ősi, izolált vulkáni formáció egy sivatagi síkság közepén.",
+        "Központi tájékozódási pont az utazók és a helyiek számára.",
+        "360 fokos panorámát nyújt a szigetre és a dűnékre.",
+        "A védett dögkeselyű egyik fontos fészkelőhelye.",
+        "Geológiailag jelentős, mint a sziget keletkezésének maradványa.",
+        "Népszerű célpont könnyű túrákhoz és természetmegfigyeléshez.",
+        "Jellegzetes tanúhegy a kietlen tengerparti tájban."
+      ]
+    },
+    {
+      "id": "baia-das-gatas-nature-v2",
+      "descriptionAdvanced": "A Baía das Gatas egy látványos természetes öböl São Vicente északkeleti részén, amely kristálytiszta és nyugodt vizéről híres, melyet egy vulkáni kőzetekből álló természetes zátony védelmez. Az itt kialakult lagúna ideális úszásra, mivel sokkal melegebb és biztonságosabb, mint a sziget többi kitett partvidéke. Neve a macskacápáktól (Gata) származik, amelyek egykor benépesítették ezeket a vizeket, és az emberre teljesen ártalmatlanok. Az öböl minden augusztusban a sziget kulturális központjává válik, amikor otthont ad a Zöld-foki-szigetek leghíresebb zenei fesztiváljának, amely nézők ezreit vonzza a strandjaira. A tájképet a fehér homok, a türkizkék víz és a háttérben húzódó száraz hegyek kontrasztja határozza meg. Ez egy olyan hely, ahol a természet és a zene tökéletes szimbiózisban találkozik.",
+      "factsAdvanced": [
+        "Természetes, sekély lagúna nyugodt és meleg vízzel.",
+        "Vulkáni kőzetekből álló természetes gát védi a hullámoktól.",
+        "Az ország legnagyobb szabadtéri zenei fesztiváljának helyszíne.",
+        "A régióban élő ártalmatlan macskacápákról kapta a nevét.",
+        "Mindössze 15 perces autóútra található Mindelo városától.",
+        "Kiváló terület sznorkelezéshez és kisgyermekes családoknak.",
+        "Ikonikus kontraszt a türkizkék tenger és a barna hegyek között.",
+        "São Vicente lakosságának legkedveltebb szabadidős helyszíne."
+      ]
+    },
+    {
+      "id": "buracona-blue-eye-nature-v2",
+      "descriptionAdvanced": "Buracona egy természeti csoda Sal szigetének északnyugati partján, ahol az óceán lélegzetelállító formákat vésett a fekete bazaltkőzetbe. A fő attrakció az 'Olho Azul' (Kék Szem), egy víz alatti barlang, ahová dél környékén a napsütés egy nyíláson keresztül behatol, és a vizet valószerűtlen elektromos kékre festi. A környék emellett természetes medencéket is kínál, amelyeket az Atlanti-óceán hullámai formáltak a sziklába, és ahol a látogatók biztonságosan fürödhetnek. A hely geológiája lenyűgöző, egymást követő megszilárdult lávarétegeket mutat be, amelyek a sziget keletkezésének történetét mesélik el. Buracona tökéletes példája a tenger eróziós erejének, amely a kemény partot természetes művészeti galériává változtatta. Minden Salra látogató turista számára kötelező látnivaló.",
+      "factsAdvanced": [
+        "Híres az 'Olho Azul' (Kék Szem) nevű optikai fényjelenségről.",
+        "Természetes fürdőmedencéket tartalmaz a fekete bazaltkőzetben.",
+        "A látogatás legjobb időpontja 11:00 és 13:00 óra között van.",
+        "Látványos hullámverés jellemzi Sal vad északnyugati partján.",
+        "Vulkáni rétegképződmények geológiai bemutatóhelye.",
+        "A Zöld-foki-szigetek egyik legtöbbet fotózott természeti motívuma.",
+        "Modern látogatóközponttal és vendéglátóhellyel rendelkezik.",
+        "Fontos pont a tengeri parterózió megfigyeléséhez."
+      ]
+    },
+    {
+      "id": "santa-maria-beach-nature-v2",
+      "descriptionAdvanced": "A Santa Maria tengerpart a zöld-foki turizmus ékköve, amely kilométereken át nyúlik el Sal szigetének déli partján. Finom, makulátlanul fehér homokjáról és hihetetlen türkizkék vizéről híres, tökéletes feltételeket biztosítva a pihenéshez és a vízi sportokhoz. A történelmi móló (Pontão) az aktivitás szíve, ahol a helyi halászok naponta rakodják ki friss fogásukat a turisták kíváncsi tekintete előtt. A strandot homokdűnék és modern szállodák szegélyezik, mégis sikerül megőriznie tágas és levegős légkörét. A szelek itt ideálisak a szörf és a kitesurf számára, minden télen világklasszis sportolókat vonzva. Santa Maria nem csupán egy strand, hanem a szigetcsoport vendégszeretetének és természeti szépségének nemzetközi szimbóluma.",
+      "factsAdvanced": [
+        "A szigetvilág leghíresebb és leglátogatottabb tengerpartja.",
+        "Finom fehér homok és kristálytiszta türkizkék víz jellemzi.",
+        "A kitesurf és a professzionális szörf világméretű központja.",
+        "Központi eleme a történelmi fa móló (Pontão de Santa Maria).",
+        "Több mint 8 kilométeres hosszúságban terül el.",
+        "Egész évben meleg, 22-27 fokos vízhőmérséklet.",
+        "Sal szigete turisztikai iparának legfontosabb gazdasági tényezője.",
+        "Kiváló feltételeket kínál búvárkodáshoz és sznorkelezéshez is."
+      ]
+    },
+    {
+      "id": "chaves-beach-nature-v2",
+      "descriptionAdvanced": "A Praia de Chaves Boa Vista szigetének egyik leglátványosabb és legvadabb strandja, amelyet hatalmas homokdűnéi jellemeznek, melyek mintha közvetlenül az Atlanti-óceánba szakadnának. Ez a hatalmas tengerpart a szabadság és az elszigeteltség érzését nyújtja, ami más turisztikai célpontokban ritkán található meg – ideális hosszú sétákhoz naplementekor. A homok finom és aranyszínű, melyet a Viana-sivatagon áthaladó szelek raktak le itt. A part mentén régi téglagyárak maradványai láthatók, a sziget ipari múltjának tanúi. A vizek gazdagok tengeri élővilágban, és gyakran látogatják vándormadarak és teknősök. A Praia de Chaves az érintetlen tengeri táj definíciója, ahol a természet megőrzi nyers erejét és hamisítatlan szépségét.",
+      "factsAdvanced": [
+        "Híres monumentális, vándorló homokdűnéiről.",
+        "Boa Vista egyik legtágasabb és legérintetlenebb strandja.",
+        "Ideális helyszín bálnák megfigyelésére közvetlenül a partról.",
+        "Egy régi kerámiagyár történelmi romjait is őrzi.",
+        "Finom sivatagi homok borítja, közvetlenül a Viana-sivatagból.",
+        "Abszolút nyugalmat kínál a beépített szállodai zónáktól távol.",
+        "Ritka parti madárfajok fontos élőhelye.",
+        "Látványos színjáték a kék tenger és a sárga homok között."
+      ]
+    },
+    {
+      "id": "tarrafal-bay-nature-v2",
+      "descriptionAdvanced": "A Tarrafali-öböl Santiago szigetének északi részén egy paradicsomi menedék, amelyet magas pálmafák és finom fehér homok jellemez, a háttérben húzódó impozáns hegyek védelmében. A sziget legszebb partmenti helyének tartják, amely nyugodt és biztonságos vizet kínál az úszáshoz, szemben a szigetvilág többi részének sziklás strandjaival. Az öböl természetes kikötőként szolgál a színes halászcsónakok számára, élő képet festve a hagyományos zöld-foki életről. Tiszta napokon a horizonton látványos kilátás nyílik a távoli Fogo-vulkánra. A légkör ellazult, a helyiek és a turisták együtt élvezik a napsütést a kókuszpálmák árnyékában. Tarrafal nem csupán strandcélpont, hanem Santiago szigetének kulturális ellenállóképességének szimbóluma is.",
+      "factsAdvanced": [
+        "Santiago szigetének legszebb fehér homokos öble.",
+        "Védett az erős atlanti szelektől és áramlatoktól.",
+        "Híres sűrű kókusz- és datolyapálma állományáról.",
+        "A hagyományos kisüzemi partmenti halászat központi bázisa.",
+        "Látványos naplementéket kínál az Észak-Atlanti-óceán felett.",
+        "A főváros, Praia lakóinak legkedveltebb hétvégi kirándulóhelye.",
+        "Kiváló terület búvárkodáshoz és csónaktúrákhoz.",
+        "A jellegzetes Monte Graciosa masszívuma keretezi a tájat."
+      ]
+    },
+    {
+      "id": "faja-d-agua-nature-v2",
+      "descriptionAdvanced": "Fajã d'Água egy rejtett ékkő Brava szigetének nyugati partján, egy termékeny mélyedésben, hatalmas vulkáni sziklák lábánál. Ez a hely híres természetes lávamedencéiről, amelyekben a tengervíz minden árapálykor megújul, látványos és biztonságos fürdőhelyet kínálva. A terület a sziget egyik legzöldebb része, buja kertekkel, ahol a helyi források bőségének köszönhetően mangó, papaya és trópusi virágok nőnek. Történelmileg az öböl fontos kikötő volt az amerikai bálnavadászok számára, ami Bravát szorosan összekötötte az Egyesült Államokkal. A hely nyugalmát csak a hullámok zaja és a sziklafalakban fészkelő tengeri madarak hangja töri meg. Fajã d'Água a romantikus elszigeteltség és a természetes szépség kvintesszenciája a Zöld-foki-szigeteken.",
+      "factsAdvanced": [
+        "A legkisebb lakott sziget, Brava legfestőibb partmenti települése.",
+        "Híres, közvetlenül a lávába vájt természetes úszómedencéiről.",
+        "A sziget legsűrűbb trópusi növényzetével rendelkező régiója.",
+        "Egykori fő kikötő a transzatlanti bálnavadász hajók számára.",
+        "Masszív, 500 méter magas vulkáni sziklafalak alatt fekszik.",
+        "Egyedülálló menedék a nyugalom és a természetközelség kedvelőinek.",
+        "Kiváló minőségű trópusi gyümölcseiről ismert környék.",
+        "Csak egy kanyargós szerpentinúton keresztül érhető el."
+      ]
+    },
+    {
+      "id": "pedra-de-lume-salt-lake-nature-v2",
+      "descriptionAdvanced": "A Pedra de Lume sós tó egy egyedülálló geológiai csoda egy kialudt vulkáni kráterben Sal szigetén. A kráter alja a tengerszint alatt fekszik, ami lehetővé teszi az óceánvíz beszivárgását, amely az intenzív párolgás révén hatalmas, nagy tisztaságú sólerakódásokat hozott létre. A tó vize 26-szor sósabb az óceánénál, ami lehetővé teszi a látogatók számára a könnyed lebegést – hasonlóan a Holt-tengerhez. A táj földönkívülinek hat a rózsaszín, fehér és barna árnyalataival, amelyek kontrasztban állnak a meredek kráterfalakkal. A régi kötélpályák romjai arra a korszakra emlékeztetnek, amikor a sót innen az egész világra exportálták. Ez egy olyan hely, ahol az egészség ötvöződik az ipari történelemmel és a lenyűgöző geológiával. A sós tóban való fürdés terápiás hatású a bőr számára.",
+      "factsAdvanced": [
+        "Egy olyan vulkán kráterében fekszik, amelynek alja a tenger alatt van.",
+        "Az extrém sótartalom lehetővé teszi a vízen való lebegést.",
+        "A zöld-foki sóexport központja a 18. század óta.",
+        "Egyedülálló ipari romok és fából készült szállítótornyok láthatók itt.",
+        "Ásványokban gazdag vizének elismert terápiás hatása van.",
+        "Színpompás természeti jelenség fehér és rózsaszín kristályokkal.",
+        "A helyszín adta a nevét az egész szigetnek (Sal = só).",
+        "Nyugat-Afrika egyik legjelentősebb geológiai műemléke."
+      ]
+    },
+    {
+      "id": "paul-valley-nature-v2",
+      "descriptionAdvanced": "A Paúl-völgy a teljes zöld-foki szigetvilág legtermékenyebb és leglátványosabb völgyének számít, és Santo Antão szigetén található. Függőleges sziklafalakkal körülvéve, amelyek mintha az eget érintenék, a völgy a zöld színek robbanása, ahol a teraszos mezőgazdaság eléri a tökéletességet. Itt bőségben nő a cukornád, a kávé, a banán és a kenyérgyümölcs, köszönhetően a párás mikroklímának és a számos természetes forrásnak. A túraútvonalak, amelyek a Cova-krátertől a tengerig vezetnek le, olyan kilátást nyújtanak, mintha egy filmből léptek volna elő, a lejtőkön függő kis kőházakkal. A völgy a kézműves grogue-termelés szíve; a préselt cukornád illata a betakarítás idején mindenütt jelen van. Paúl az élet és az emberi munka diadalát képviseli a legnehezebb földrajzi körülmények között.",
+      "factsAdvanced": [
+        "A zöld-foki szigetvilág legzöldebb és vízben leggazdagabb völgye.",
+        "A bio-kávé és a grogue termelésének fő központja.",
+        "Drámai domborzat szinte függőleges hegyoldalakkal.",
+        "Egyedülálló párás mikroklíma az intenzív trópusi gazdálkodáshoz.",
+        "Az ország leglátványosabb túrájának legendás célpontja.",
+        "Évszázados teraszos földművelési kultúra kiemelkedő példája.",
+        "Sűrűn lakott terület vendégszerető hegyi gazdálkodó családokkal.",
+        "Számos endemikus növény- és madárfaj menedékhelye."
+      ]
+    }
+  ]
+}

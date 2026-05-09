@@ -1,0 +1,435 @@
+{
+  "lang": "de",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-redhouse-landmarks-v2",
+      "descriptionAdvanced": "Das Red House in Port of Spain ist der prächtige Sitz des Parlaments von Trinidad und Tobago und das bedeutendste politische Wahrzeichen des Landes. Das Gebäude im neoklassizistischen Stil ist bekannt für seine markante rote Fassade und seine reich verzierte Innenausstattung. Historisch gesehen war das Red House Schauplatz zentraler Ereignisse, darunter die Water Riots von 1903 und der Putschversuch von 1990. Nach einer umfassenden Restaurierung erstrahlt es heute wieder in altem Glanz und beherbergt die Gesetzgebende Versammlung. Während der Bauarbeiten wurden bedeutende archäologische Funde der Amerindians auf dem Gelände entdeckt, die heute in einer Gedenkstätte integriert sind. Im Unterricht (Geschichte/Politik K8) wird das Red House als Symbol der Demokratie und als Spiegel der turbulenten politischen Geschichte Trinidads behandelt.",
+      "factsAdvanced": [
+        "Sitz des Parlaments der Republik Trinidad und Tobago.",
+        "Markante Architektur im Stil der Neorenaissance.",
+        "Erbaut im späten 19. Jahrhundert auf historischen Fundamenten.",
+        "Ort bedeutender nationaler Ereignisse und politischer Wenden.",
+        "Integrierte Gedenkstätte für indigene Vorfahren (First Peoples).",
+        "Zentral gelegen am Woodford Square in Port of Spain.",
+        "Kürzlich aufwendig restauriert und modernisiert.",
+        "Thema: Demokratische Institutionen und Kulturerbe (K8)."
+      ]
+    },
+    {
+      "id": "tt-magnificent-seven-landmarks-v2",
+      "descriptionAdvanced": "Die 'Magnificent Seven' sind eine Gruppe von sieben herrschaftlichen Villen am westlichen Rand der Queen’s Park Savannah in Port of Spain. Diese architektonischen Juwelen wurden um die Jahrhundertwende (ca. 1904) errichtet und spiegeln den Reichtum und den eklektischen Geschmack der damaligen Elite wider. Jedes Haus hat einen einzigartigen Stil, von der deutschen Renaissance (Stollmeyer's Castle) über den französischen Barock bis hin zur maurischen Architektur. Zu den Gebäuden gehören unter anderem das White Hall (Sitz des Premierministers) und das Erzbischöfliche Palais. Die Magnificent Seven sind ein unverzichtbarer Teil des kulturellen Erbes und eine der meistfotografierten Sehenswürdigkeiten der Stadt. Für Schüler (Geschichte/Kunst K7-K8) bieten diese Bauwerke ein exzellentes Beispiel für den europäischen Einfluss auf die karibische Architektur und die soziale Geschichte Trinidads.",
+      "factsAdvanced": [
+        "Reihe von sieben historischen Prachtbauten am Queen's Park.",
+        "Architektonische Vielfalt: Renaissance, Barock und Kolonialstil.",
+        "Erbaut zu Beginn des 20. Jahrhunderts (Blütezeit des Kakaos).",
+        "Beinhaltet das beeindruckende Stollmeyer's Castle.",
+        "White Hall diente lange als Amtssitz des Premierministers.",
+        "Wichtiges Zeugnis der trinidadischen 'Plantocracy'.",
+        "Zentraler Bestandteil der Stadtführungen in der Hauptstadt.",
+        "Thema: Architekturgeschichte und Kolonialgesellschaft (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-scotiabank-port-of-spain-landmarks-v2",
+      "descriptionAdvanced": "Das Scotiabank-Gebäude in der Independence Square von Port of Spain ist ein herausragendes Beispiel für die moderne kommerzielle Architektur und ein Symbol für die wirtschaftliche Stabilität Trinidads. Als eines der führenden Finanzinstitute der Region prägt die Bank das Stadtbild mit ihrer markanten Glas- und Stahlkonstruktion. Das Gebäude steht an einem historisch bedeutenden Ort im Handelszentrum der Hauptstadt und verbindet moderne Bankdienstleistungen mit der langen Tradition des Finanzwesens auf der Insel. Die Lobby beherbergt oft Kunstausstellungen und kulturelle Displays, die die Verbundenheit der Bank mit der trinidadischen Gesellschaft unterstreichen. Im Unterricht (Geographie/Wirtschaft K8) wird das Scotiabank-Gebäude als Beispiel für das zentrale Geschäftsviertel (CBD) und die Rolle internationaler Finanzdienstleister in einer Schwellenökonomie behandelt.",
+      "factsAdvanced": [
+        "Wahrzeichen des modernen Finanzviertels von Port of Spain.",
+        "Zentraler Standort einer der ältesten Banken der Karibik.",
+        "Architektonisches Beispiel für zeitgenössische Bürobauten.",
+        "Strategische Lage am pulsierenden Independence Square.",
+        "Symbol für den wirtschaftlichen Aufstieg und die Globalisierung.",
+        "Wichtiger Hub für nationale und regionale Bankgeschäfte.",
+        "Beitrag zur urbanen Erneuerung des Stadtzentrums.",
+        "Thema: Finanzgeographie und Dienstleistungssektor (K8)."
+      ]
+    },
+    {
+      "id": "tt-national-academy-arts-landmarks-v2",
+      "descriptionAdvanced": "Die National Academy for the Performing Arts (NAPA) in Port of Spain ist ein architektonisches Meisterwerk, dessen Design von der Nationalblume Trinidads, der Chaconia, inspiriert wurde. Dieses futuristische Gebäude am Rande der Queen’s Park Savannah ist das wichtigste Zentrum für Kultur und Kunst im Land. Es beherbergt hochmoderne Theatersäle, Proberäume und Bildungseinrichtungen für Musik und Tanz. NAPA ist der primäre Aufführungsort für das National Steel Symphony Orchestra und zahlreiche nationale Kulturfestivals. Die glitzernde Metallfassade und die organischen Kurven machen es zu einem der markantesten Gebäude der Karibik. Für Schüler (Musik/Kunst K7-K8) ist NAPA ein Ort der Inspiration und ein Beweis für die hohe Wertschätzung, die Kunst und Kreativität in der trinidadischen Identität genießen.",
+      "factsAdvanced": [
+        "Zentrum für Spitzenleistungen in den darstellenden Künsten.",
+        "Architektur inspiriert von der trinidadischen Chaconia-Blüte.",
+        "Hauptbühne für nationale Musik- und Theaterproduktionen.",
+        "Beherbergt das National Steel Symphony Orchestra.",
+        "Modernste Akustik und Bühnentechnik der Region.",
+        "Wichtige Bildungsstätte für junge Künstler und Musiker.",
+        "Markante Landmarke nördlich des Stadtzentrums.",
+        "Thema: Moderne Architektur und Kulturförderung (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-parliament-building-landmarks-v2",
+      "descriptionAdvanced": "Das Parliament Building von Trinidad und Tobago, auch bekannt als Teil des Red House Komplexes, ist das pulsierende Zentrum der nationalen Gesetzgebung. Hier treffen sich der Senat und das Repräsentantenhaus, um über die Gesetze und die Zukunft des Landes zu entscheiden. Das Gebäude ist nicht nur eine administrative Einrichtung, sondern ein Symbol für die Souveränität und die demokratischen Werte der Republik. Nach der Rückkehr des Parlaments in das restaurierte Red House im Jahr 2019 wurde die Verbindung zwischen historischer Tradition und moderner Staatsführung gestärkt. Die Architektur verbindet viktorianische Eleganz mit modernsten parlamentarischen Einrichtungen. Im Unterricht (Sozialkunde/Politik K8) dient das Parlamentsgebäude als zentraler Ort für das Verständnis des Westminster-Systems und der Gewaltenteilung in Trinidad und Tobago.",
+      "factsAdvanced": [
+        "Gesetzgebendes Zentrum der Republik Trinidad und Tobago.",
+        "Sitz der zwei Kammern: Senat und Repräsentantenhaus.",
+        "Beherbergt die Parlamentsbibliothek und Archivräume.",
+        "Ort für feierliche Staatsakte und Debatten.",
+        "Teil des geschichtsträchtigen Red House Areals.",
+        "Spiegelt das Westminster-Modell der Demokratie wider.",
+        "Besucherstätte für politische Bildung und Führungen.",
+        "Thema: Politische Systeme und Staatsbürgerkunde (K8)."
+      ]
+    },
+    {
+      "id": "tt-holy-trinity-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Die Holy Trinity Cathedral in Port of Spain ist die Mutterkirche der Anglikanischen Diözese von Trinidad und Tobago und ein herausragendes Beispiel für die neugotische Architektur des frühen 19. Jahrhunderts. Erbaut im Jahr 1818, zeichnet sich die Kathedrale durch ihre beeindruckenden Spitzbögen, filigranen Holzschnitzereien und die prachtvolle Orgel aus. Die Kirche beherbergt zahlreiche Denkmäler, die an bedeutende Persönlichkeiten der Kolonialzeit erinnern. Der Woodford Square, an dem sie liegt, bildet zusammen mit dem Red House das historische und spirituelle Zentrum der Hauptstadt. Die Kathedrale ist ein Ort der Ruhe inmitten der geschäftigen Stadt und ein wichtiger Bewahrer anglikanischer Traditionen. Für Schüler (Geschichte/Religionslehre K7-K8) bietet die Kathedrale Einblicke in die religiöse Architektur und die Rolle der Kirche von England in der Kolonialgeschichte.",
+      "factsAdvanced": [
+        "Hauptkathedrale der Anglikanischen Kirche in Trinidad.",
+        "Meisterwerk der neugotischen Architektur (eröffnet 1818).",
+        "Beherbergt wertvolle historische Monumente und Glasmalereien.",
+        "Berühmt für das prachtvolle Hammerbalken-Dach aus Mahagoni.",
+        "Zentraler Bestandteil des historischen Woodford Square Ensembles.",
+        "Ort nationaler Gedenkgottesdienste und Zeremonien.",
+        "Überstand schwere Erdbeben und politische Unruhen.",
+        "Thema: Kirchengeschichte und sakrale Architektur (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-cathedral-immaculate-conception-landmarks-v2",
+      "descriptionAdvanced": "Die Cathedral of the Immaculate Conception am östlichen Ende des Independence Square ist der Sitz des römisch-katholischen Erzbistums von Port of Spain. Erbaut zwischen 1816 und 1832, ist diese monumentale Steinkirche ein Zeugnis für den tief verwurzelten katholischen Glauben, der während der spanischen und französischen Kolonialzeit auf die Insel kam. Die Kathedrale ist in Form eines lateinischen Kreuzes errichtet und beeindruckt durch ihre massiven Mauern aus lokalem Kalkstein. Das Innere beherbergt wunderschöne Altäre und Statuen. Als 'Mutterkirche' der Katholiken in Trinidad ist sie ein zentraler Ort für religiöse Feste und soziale Arbeit. Im Unterricht (Religionslehre/Geschichte K7) wird die Kathedrale als Symbol für den spanischen Einfluss und die religiöse Entwicklung Trinidads behandelt.",
+      "factsAdvanced": [
+        "Zentrum der römisch-katholischen Kirche in Trinidad.",
+        "Erbaut im frühen 19. Jahrhundert aus lokalem Kalkstein.",
+        "Markante Landmarke am östlichen Tor zur Hauptstadt.",
+        "Sitz des Erzbischofs von Port of Spain.",
+        "Beherbergt bedeutende religiöse Kunstwerke und Reliquien.",
+        "Zentraler Ort für das jährliche Corpus Christi Fest.",
+        "Zeugnis für das spanische und französische Erbe der Insel.",
+        "Thema: Religiöse Pluralität und Kolonialerbe (K7)."
+      ]
+    },
+    {
+      "id": "tt-hasely-crawford-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Hasely Crawford Stadium in Port of Spain ist das Nationalstadion von Trinidad und Tobago und nach dem ersten Olympiasieger des Landes benannt, der 1976 Gold im 100-Meter-Lauf gewann. Es ist das Herzstück des nationalen Sports und Schauplatz bedeutender internationaler Fußballspiele sowie Leichtathletik-Wettbewerbe. Das Stadion bietet Platz für über 20.000 Zuschauer und ist bekannt für seine elektrisierende Atmosphäre, besonders wenn die Nationalmannschaft ('Soca Warriors') spielt. Neben sportlichen Ereignissen wird das Stadion auch für große Konzerte und Karnevalsveranstaltungen genutzt. Es ist ein Symbol für nationalen Stolz und sportliche Exzellenz. Für Schüler (Sport/Geographie K7-K8) dient das Stadion als Beispiel für nationale Sportinfrastruktur und die Bedeutung von Vorbildern für die Identitätsbildung.",
+      "factsAdvanced": [
+        "Nationalstadion, benannt nach dem Sprinter Hasely Crawford.",
+        "Hauptspielstätte der Fußballnationalmannschaft 'Soca Warriors'.",
+        "Zentrum für Leichtathletik und nationale Meisterschaften.",
+        "Austragungsort der FIFA U-17-Weltmeisterschaft 2001.",
+        "Multifunktionsarena für Sport, Kultur und Karneval.",
+        "Wichtigster Pfeiler der sportlichen Identität des Landes.",
+        "Gelegen im Stadtviertel Mucurapo im Westen der Stadt.",
+        "Thema: Sportgeschichte und nationale Symbole (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-brian-lara-promenade-landmarks-v2",
+      "descriptionAdvanced": "Die Brian Lara Promenade ist die pulsierende Lebensader im Zentrum von Port of Spain, benannt nach der Cricket-Legende Brian Lara. Sie erstreckt sich entlang des Independence Square und dient als zentraler Treffpunkt, Erholungsraum und Schauplatz für öffentliches Leben. Die Promenade ist gesäumt von schattenspendenden Bäumen, Bänken und Denkmälern und wird von den wichtigsten Banken und Regierungsgebäuden des Landes flankiert. Hier trifft sich die gesamte Vielfalt der trinidadischen Gesellschaft – von Geschäftsleuten über Händler bis hin zu Musikern. Die Promenade ist ein Zentrum für spontane Steelpan-Auftritte und politische Diskussionen. Im Unterricht (Geographie K7) wird die Brian Lara Promenade als Beispiel für die Gestaltung von öffentlichem Raum in einer Metropole und als Zentrum der Stadtmorphologie behandelt.",
+      "factsAdvanced": [
+        "Zentrale Fußgängerzone im Herzen der Hauptstadt.",
+        "Benannt nach Brian Lara, einem der größten Cricketspieler.",
+        "Zentrum des öffentlichen Lebens und der sozialen Interaktion.",
+        "Schauplatz für Kunstausstellungen und Kulturfestivals.",
+        "Wichtiger Erholungsraum inmitten des Geschäftsviertels.",
+        "Beherbergt Statuen bedeutender nationaler Persönlichkeiten.",
+        "Verbindet den Hafen mit dem östlichen Stadtzentrum.",
+        "Thema: Stadtplanung und öffentlicher Raum (K7)."
+      ]
+    },
+    {
+      "id": "tt-fort-king-george-tobago-landmarks-v2",
+      "descriptionAdvanced": "Fort King George in Scarborough ist die besterhaltene historische Festungsanlage auf Tobago und ein Muss für jeden Geschichtsinteressierten. Erbaut von den Briten in den 1780er Jahren auf einem Hügel über der Stadt, bietet das Fort einen spektakulären Blick auf den Hafen und den Atlantik. Die Anlage umfasst original erhaltene Kanonen, Offiziersquartiere, ein Pulvermagazin und ein Gefängnis. Heute beherbergt das Gelände zudem das Tobago Museum mit wertvollen Exponaten zur indigenen und kolonialen Geschichte der Insel. Die Architektur spiegelt die militärische Macht Großbritanniens im 18. Jahrhundert wider. In der pädagogischen Vermittlung (Geschichte K8) dient Fort King George als Paradebeispiel für maritime Verteidigungsstrategien und die wechselvolle koloniale Herrschaft in der Karibik.",
+      "factsAdvanced": [
+        "Bedeutendste historische Festung auf Tobago.",
+        "Erbaut zur Sicherung der Inselhauptstadt Scarborough.",
+        "Beherbergt das informative Tobago Museum.",
+        "Gut erhaltene Gebäude der Militärarchitektur des 18. Jhs.",
+        "Bietet den besten Panoramablick über die Südküste.",
+        "Umgeben von gepflegten Gärten und historischen Kanonen.",
+        "Wichtiger Ort für kulturelle Veranstaltungen und Forschung.",
+        "Thema: Kolonialgeschichte und Militärwesen (K8)."
+      ]
+    },
+    {
+      "id": "tt-nylon-pool-landmarks-v2",
+      "descriptionAdvanced": "Der Nylon Pool ist ein einzigartiges Naturphänomen vor der Küste von Tobago, nahe dem Buccoo Reef. Dabei handelt es sich um eine flache Sandbank mitten im Meer mit kristallklarem, türkisfarbenem Wasser, das so klar ist, dass Prinzessin Margaret ihm bei ihrem Besuch 1962 den Namen 'Nylon Pool' gab (wegen der Ähnlichkeit mit Nylon-Stoff). Das Wasser ist hier nur etwa einen Meter tief, was es zu einem perfekten Ort zum Schwimmen und Entspannen macht. Der Nylon Pool ist Teil eines geschützten Meeresgebiets und gilt als Ort mit verjüngenden Kräften laut lokaler Legenden. Er ist nur mit dem Boot erreichbar und eine der Hauptattraktionen des Landes. Im Unterricht (Geographie/Biologie K6-K8) wird der Nylon Pool zur Untersuchung von Korallensand-Ablagerungen und marinen Ökosystemen genutzt.",
+      "factsAdvanced": [
+        "Natürliches Schwimmbecken im offenen Meer.",
+        "Benannt von Prinzessin Margaret aufgrund der Wasserklarheit.",
+        "Gelegen inmitten des geschützten Buccoo Reef Gebiets.",
+        "Kristallklares Wasser über einer weißen Korallensandbank.",
+        "Nur per Glasbodenboot oder privatem Charter erreichbar.",
+        "Weltbekannte touristische Ikone von Trinidad und Tobago.",
+        "Ort zahlreicher lokaler Legenden über Jugend und Glück.",
+        "Thema: Marine Geologie und Tourismus (K6-K8)."
+      ]
+    },
+    {
+      "id": "tt-waterloo-temple-landmarks-v2",
+      "descriptionAdvanced": "Der Waterloo Temple, offiziell bekannt als 'Temple in the Sea', ist ein bewegendes Zeugnis religiöser Hingabe und Beharrlichkeit. Er wurde fast im Alleingang von Siewdass Sadhu errichtet, einem indischen Kontraktarbeiter, der den Tempel ins Meer baute, nachdem ihm der Bau auf privatem Land verweigert worden war. Über 25 Jahre hinweg schleppte er Steine ins flache Wasser des Golfs von Paria, um dieses heilige Bauwerk zu schaffen. Der Tempel ist über einen Damm erreichbar und bietet besonders bei Sonnenuntergang eine spirituelle Atmosphäre. Er ist ein zentrales Wahrzeichen der indotrinidadischen Kultur und ein Symbol für den Sieg des menschlichen Geistes über Widrigkeiten. Für Schüler (Sozialkunde/Geschichte K7) bietet der Tempel eine Grundlage, um über indische Einwanderung, Religionsfreiheit und persönliche Resilienz zu lernen.",
+      "factsAdvanced": [
+        "Einzigartiger hinduistischer Tempel, errichtet im Meer.",
+        "Lebenswerk von Siewdass Sadhu (1901–1970).",
+        "Symbol für religiöse Freiheit und Ausdauer.",
+        "Malerische Lage im Golf von Paria bei Waterloo.",
+        "Wichtiger Ort für hinduistische Gebete und Hochzeiten.",
+        "Denkmal der indischen Kontraktarbeiter-Geschichte.",
+        "Eines der meistverehrten kulturellen Monumente Trinidads.",
+        "Thema: Migration und kulturelle Identität (K7)."
+      ]
+    },
+    {
+      "id": "tt-caroni-bird-sanctuary-landmarks-v2",
+      "descriptionAdvanced": "Das Caroni Bird Sanctuary ist ein riesiges Sumpf- und Mangrovengebiet an der Westküste von Trinidad und die Heimat des Scharlachsichlers (Scarlet Ibis), des Nationalvogels von Trinidad. Dieses Schutzgebiet ist eines der wichtigsten Ökosysteme der Karibik und bietet Lebensraum für hunderte Vogelarten, Kaimane und Schlangen. Besucher erkunden das Labyrinth aus Wasserwegen mit dem Boot, besonders spektakulär ist die Abenddämmerung, wenn tausende leuchtend rote Ibisse zu ihren Nistbäumen zurückkehren und den Himmel rot färben. Das Caroni-Sumpfgebiet spielt eine entscheidende Rolle für den Küstenschutz und als Filter für Schadstoffe. Im Geographie- und Biologieunterricht (K6-K8) dient das Sanctuary als zentrales Beispiel für Mangroven-Ökologie, Biodiversität und den Schutz gefährdeter Arten.",
+      "factsAdvanced": [
+        "Wichtigster Rückzugsort des Nationalvogels Scarlet Ibis.",
+        "Riesiges geschütztes Mangroven-Feuchtgebiet.",
+        "Biodiversitäts-Hotspot mit über 150 Vogelarten.",
+        "Lebenswichtiges Ökosystem für den Küstenschutz.",
+        "Weltberühmtes Ziel für Vogelbeobachtung und Ökotourismus.",
+        "Einzigartige Symbiose aus Süßwasser- und Meeresflora.",
+        "Standort intensiver wissenschaftlicher Forschung.",
+        "Thema: Ökosysteme und Artenschutz (K6-K8)."
+      ]
+    },
+    {
+      "id": "tt-asa-wright-nature-centre-landmarks-v2",
+      "descriptionAdvanced": "Das Asa Wright Nature Centre im Arima Valley ist eine weltweit renommierte Forschungs- und Bildungseinrichtung für tropische Ökologie. Gelegen auf einer ehemaligen Kakao- und Kaffeeplantage im Northern Range, beherbergt das Zentrum eine unglaubliche Vielfalt an Flora und Fauna, insbesondere Kolibris, Tukane und die seltenen Fettschwalben. Das Zentrum gilt als Pionier des Ökotourismus in der Karibik und ist ein Paradies für Vogelbeobachter aus aller Welt. Die Veranda des historischen Haupthauses bietet einen unvergleichlichen Blick auf den Regenwald. Asa Wright widmet sich dem Schutz des Northern Range und der Umwelterziehung. Für Schüler (Biologie K6-K8) ist das Zentrum der ideale Ort, um über tropische Regenwälder, Nahrungsketten und die Bedeutung des Naturschutzes für die globale Klimastabilität zu lernen.",
+      "factsAdvanced": [
+        "Weltbekanntes Zentrum für Ornithologie und Naturkunde.",
+        "Pionier des nachhaltigen Ökotourismus in der Karibik.",
+        "Beherbergt seltene Vogelarten wie den Bellbird und Oilbird.",
+        "Gelegen in einem unberührten Tal des Northern Range.",
+        "Einstige Plantage, heute geschütztes Naturreservat.",
+        "Zentrum für internationale biologische Forschung.",
+        "Fokus auf Umwelterziehung und Habitatschutz.",
+        "Thema: Tropische Biologie und Naturschutz (K6-K8)."
+      ]
+    },
+    {
+      "id": "tt-argyle-waterfall-landmarks-v2",
+      "descriptionAdvanced": "Der Argyle Waterfall ist mit seinen drei Kaskaden und einer Gesamthöhe von 54 Metern der höchste und beeindruckendste Wasserfall auf Tobago. Er liegt in der Nähe von Roxborough und entspringt den Bergen des Main Ridge Forest Reserve. Der Weg zum Wasserfall führt durch üppige Natur und alte Kakaoplantagen, was das Erlebnis zu einer Reise durch die Naturgeschichte der Insel macht. Am Fuße der Kaskaden finden sich tiefe, kühle Naturbecken, die zum Baden einladen. Der Wasserfall ist ein Symbol für den Wasserreichtum Tobagos und wird gemeinschaftlich von der lokalen Bevölkerung verwaltet. Im Unterricht (Geographie K6) dient der Argyle Waterfall als Beispiel für Erosion, Flusssysteme in tropischen Gebirgen und die Nutzung natürlicher Sehenswürdigkeiten für den lokalen Tourismus.",
+      "factsAdvanced": [
+        "Höchster Wasserfall Tobagos (54 Meter Höhe).",
+        "Besteht aus drei markanten Stufen (Kaskaden).",
+        "Gespeist aus den unberührten Quellen des Main Ridge.",
+        "Wichtiges Ziel für Naturwanderungen und Ökotourismus.",
+        "Integrierte Badebecken in einer tropischen Kulisse.",
+        "Beispiel für erfolgreiche lokale Naturverwaltung.",
+        "Umgeben von einer reichen Flora und Fauna.",
+        "Thema: Geomorphologie und Wasserressourcen (K6)."
+      ]
+    },
+    {
+      "id": "tt-buccoo-reef-landmarks-v2",
+      "descriptionAdvanced": "Das Buccoo Reef ist das größte und bedeutendste Korallenriff von Tobago und eines der am leichtesten zugänglichen Riffe in der Karibik. Dieses Unterwasserparadies beherbergt eine faszinierende Vielfalt an Hart- und Weichkorallen sowie hunderte bunte Fischarten. Das Riff wurde bereits in den 1970er Jahren zum Marine Park erklärt, um dieses sensible Ökosystem vor Übernutzung zu schützen. Glasbodenboot-Touren ermöglichen es auch Nichtschwimmern, die Schönheit der Meereswelt zu bewundern. Das Buccoo Reef ist entscheidend für den Schutz der Küstenlinie vor Erosion durch den Atlantik. Im Biologie- und Geographieunterricht (K6-K8) wird das Riff zur Untersuchung mariner Nahrungsketten, der Symbiose von Korallen und Algen sowie der Auswirkungen des Klimawandels auf die Ozeane genutzt.",
+      "factsAdvanced": [
+        "Größter Marine Park und Korallenriff auf Tobago.",
+        "Hotspot mariner Biodiversität mit bunten Fischschwärmen.",
+        "Natürlicher Schutzwall gegen Küstenerosion.",
+        "Weltberühmtes Ziel für Schnorchler und Taucher.",
+        "Standort intensiver Korallenforschung und Naturschutz.",
+        "Zentrum des maritimen Ökotourismus im Südwesten.",
+        "Gefährdet durch Meereserwärmung und Umweltverschmutzung.",
+        "Thema: Meeresökologie und Umweltschutz (K6-K8)."
+      ]
+    },
+    {
+      "id": "tt-fort-bennett-landmarks-v2",
+      "descriptionAdvanced": "Fort Bennett, gelegen auf einer Anhöhe in Black Rock, ist eine historische Festungsanlage, die heute als einer der friedlichsten und schönsten Aussichtspunkte Tobagos bekannt ist. Ursprünglich im 17. Jahrhundert von den Niederländern erbaut und später von den Briten verstärkt, diente das Fort dazu, die Courland Bay vor feindlichen Schiffen zu schützen. Heute sind noch einige Kanonen und die Grundmauern der Anlage zu sehen, die in einen gepflegten Park integriert wurden. Fort Bennett ist besonders für seine spektakulären Sonnenuntergänge über dem Karibischen Meer bekannt. Die Anlage verbindet die koloniale Militärgeschichte mit der natürlichen Schönheit der Westküste. Im Unterricht (Geschichte/Geographie K7) wird Fort Bennett als Beispiel für die strategische Küstenbefestigung und die wechselhafte Geschichte Tobagos behandelt.",
+      "factsAdvanced": [
+        "Historische Küstenfestung mit Panoramablick.",
+        "Ursprünglich eine niederländische Befestigung (17. Jh.).",
+        "Wichtiger Wachturm über der Courland Bay.",
+        "Heute ein beliebter Park für Naturbeobachtung.",
+        "Ort mit reicher militärischer und kolonialer Geschichte.",
+        "Bekannt für spektakuläre Küstenpanoramen.",
+        "Zeugnis der frühen europäischen Rivalität auf Tobago.",
+        "Thema: Küstenschutz und Kolonialgeschichte (K7)."
+      ]
+    },
+    {
+      "id": "tt-hanuman-statue-landmarks-v2",
+      "descriptionAdvanced": "Die Hanuman-Statue in Carapichaima ist mit einer Höhe von 26 Metern die größte Statue des hinduistischen Affengottes Hanuman außerhalb Indiens. Sie steht auf dem Gelände des Dattatreya Yoga Centre und ist ein beeindruckendes Beispiel für die religiöse Hingabe und die kunstvolle Handwerkskunst der indischen Gemeinschaft in Trinidad. Die Statue ist in leuchtenden Farben bemalt und wurde nach strengen vedischen Vorgaben von indischen Künstlern errichtet. Hanuman gilt im Hinduismus als Symbol für Kraft, Loyalität und Hingabe. Die Anlage zieht Pilger und Touristen aus der ganzen Welt an und ist ein stolzes Zeichen der multikulturellen Identität Trinidads. Im Unterricht (Sozialkunde/Kunst K7-K8) bietet die Statue einen Anknüpfungspunkt für Themen wie religiöse Vielfalt, indisches Erbe und monumentale Kunst.",
+      "factsAdvanced": [
+        "Größte Hanuman-Statue in der westlichen Hemisphäre (26 m).",
+        "Bedeutendes religiöses Wahrzeichen für Hindus.",
+        "Meisterwerk indischer Sakralkunst und Architektur.",
+        "Zentrum des Dattatreya Yoga Centre in Carapichaima.",
+        "Symbol für die Stärke und Loyalität in der indischen Mythologie.",
+        "Wichtiges Pilgerziel und kulturelles Highlight.",
+        "Spiegelt die spirituelle Tiefe der trinidadischen Gesellschaft wider.",
+        "Thema: Weltreligionen und religiöse Kunst (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-mount-st-benedict-abbey-landmarks-v2",
+      "descriptionAdvanced": "Die Abtei Mount St. Benedict, hoch über der Stadt Tunapuna gelegen, ist das älteste Benediktinerkloster in der Karibik und ein Ort tiefer Spiritualität und Ruhe. Gegründet im Jahr 1912 von Mönchen aus Brasilien, ist das Kloster bekannt für seine Gastfreundschaft, seine berühmte Joghurtproduktion und den atemberaubenden Blick über die Caroni-Ebenen bis zum Meer. Die Abtei dient als Rückzugsort für Menschen aller Glaubensrichtungen und ist ein Zentrum für Bildung und soziale Arbeit. Die Architektur ist schlicht und harmonisch in die grüne Berglandschaft des Northern Range eingebettet. Der Glockenturm der Abtei ist weithin sichtbar. Für Schüler (Geschichte/Religionslehre K7-K8) ist Mount St. Benedict ein Beispiel für monastisches Leben und die Rolle religiöser Orden in der karibischen Gesellschaft.",
+      "factsAdvanced": [
+        "Ältestes Benediktinerkloster der Karibik (gegründet 1912).",
+        "Spirituelles Zentrum in den Hügeln des Northern Range.",
+        "Berühmt für die klösterliche Joghurt- und Honigproduktion.",
+        "Bietet den weitesten Blick über Zentral-Trinidad.",
+        "Ort des interreligiösen Dialogs und der Besinnung.",
+        "Beherbergt ein Gästehaus und Bildungseinrichtungen.",
+        "Wichtiger Bewahrer sakraler Traditionen auf der Insel.",
+        "Thema: Kirchengeschichte und Klosterkultur (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-maracas-beach-landmarks-v2",
+      "descriptionAdvanced": "Maracas Beach ist der berühmteste Strand von Trinidad und ein nationales Wahrzeichen, bekannt für seine malerische Bucht und die dramatische Kulisse des Northern Range. Die Fahrt zum Strand über den Maracas North Coast Road bietet spektakuläre Ausblicke auf die Küste. Der Strand ist berühmt für seinen feinen Sand, den stetigen Wellengang und das kulinarische Highlight 'Bake and Shark', das an zahlreichen Ständen verkauft wird. Maracas ist der beliebteste Erholungsort für die Bewohner von Port of Spain und ein Zentrum des lokalen Strandlebens. Trotz seiner Popularität bewahrt der Ort seine natürliche Schönheit mit Palmenhainen und klarem Wasser. Im Geographieunterricht (K6) dient Maracas Beach als Beispiel für Küstenmorphologie, Brandungszonen und die Bedeutung des Naherholungstourismus.",
+      "factsAdvanced": [
+        "Bekanntester und beliebtester Badestrand Trinidads.",
+        "Berühmt für die lokale Delikatesse 'Bake and Shark'.",
+        "Eingebettet in eine tiefe Bucht des Northern Range.",
+        "Beliebtes Ziel für Surfer und Wochenendausflügler.",
+        "Ikonische Anfahrt über die North Coast Road.",
+        "Zentrum der nationalen Freizeitkultur.",
+        "Geprägt durch goldgelben Sand und hohe Kokospalmen.",
+        "Thema: Küstenökonomie und Naherholung (K6)."
+      ]
+    },
+    {
+      "id": "tt-pitch-lake-landmarks-v2",
+      "descriptionAdvanced": "Der Pitch Lake (Pechsee) in La Brea ist das größte natürliche Asphaltvorkommen der Welt und ein geologisches Weltwunder. Auf einer Fläche von etwa 40 Hektar drängt ständig flüssiges Pech aus dem Erdinneren nach oben und bildet eine zähe, dunkle Oberfläche, die man teilweise begehen kann. Der See entstand vor Millionen von Jahren durch den Aufstieg von Erdöl entlang von Verwerfungen. Der hier gewonnene Asphalt ist von höchster Qualität und wurde weltweit für den Straßenbau verwendet, von Washington D.C. bis London. Der See ist zudem reich an Fossilien prähistorischer Tiere. Im Unterricht (Geographie/Geologie K7-K8) ist der Pitch Lake das ultimative Beispiel für Kohlenwasserstoffvorkommen, natürliche Asphaltbildung und die industrielle Nutzung geologischer Phänomene.",
+      "factsAdvanced": [
+        "Größter natürlicher Asphaltsee der Erde (La Brea).",
+        "Geologisches Phänomen mit weltweiter industrieller Bedeutung.",
+        "Wichtigste Quelle für hochwertigen Naturasphalt.",
+        "Entstanden durch komplexe tektonische Prozesse.",
+        "Beherbergt wertvolle paläontologische Funde im Inneren.",
+        "Bedeutende Touristenattraktion und Forschungsstätte.",
+        "Symbol für den Reichtum Trinidads an Bodenschätzen.",
+        "Thema: Geologie und mineralische Rohstoffe (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-botanic-gardens-landmarks-v2",
+      "descriptionAdvanced": "Die Royal Botanic Gardens in Port of Spain gehören zu den ältesten botanischen Gärten der westlichen Hemisphäre, gegründet im Jahr 1818. Unmittelbar nördlich der Queen’s Park Savannah gelegen, beherbergen sie eine riesige Sammlung tropischer und exotischer Pflanzen aus der ganzen Welt. Die Gärten dienen nicht nur der Erholung, sondern sind auch ein wichtiges Zentrum für botanische Forschung und Artenschutz. Auf dem Gelände befindet sich der Präsidentenpalast (President’s House), der Amtssitz des Staatsoberhauptes. Die gepflegten Alleen, Teiche und historischen Denkmäler machen die Gärten zu einer grünen Oase inmitten der Stadt. Für Schüler (Biologie K5-K8) bieten die Gärten eine lebendige Enzyklopädie der tropischen Flora und ein Beispiel für die Bedeutung botanischer Gärten für die wissenschaftliche Dokumentation.",
+      "factsAdvanced": [
+        "Gegründet 1818, einer der ältesten botanischen Gärten weltweit.",
+        "Beherbergt über 700 verschiedene Pflanzen- und Baumarten.",
+        "Standort des repräsentativen President's House.",
+        "Zentrum für Umwelterziehung und Pflanzenschutz.",
+        "Wichtiger Lebensraum für heimische Vogelarten in der Stadt.",
+        "Kulturelles Denkmal der britischen Kolonialzeit.",
+        "Beliebter Ort für Picknicks und Bildungsausflüge.",
+        "Thema: Botanik und historische Parkanlagen (K5-K8)."
+      ]
+    },
+    {
+      "id": "tt-pigeon-point-jetty-landmarks-v2",
+      "descriptionAdvanced": "Der Pigeon Point Jetty ist das ikonischste Wahrzeichen von Tobago und wahrscheinlich das meistfotografierte Motiv des Landes. Der hölzerne Steg mit seinem charakteristischen Reetdach erstreckt sich in das türkisfarbene Wasser des Pigeon Point Heritage Park. Er symbolisiert das ultimative karibische Paradies. Pigeon Point ist bekannt für sein ruhiges, flaches Wasser und seine weißen Korallensandstrände, die ideal für Wassersportarten wie Kitesurfen und Windsurfen sind. Der Steg dient als Anlegestelle für Boote zum Buccoo Reef. Trotz seiner Bekanntheit hat der Ort seinen idyllischen Charme bewahrt. Im Unterricht (Geographie/Wirtschaft K7) wird Pigeon Point als Beispiel für die Bedeutung von ikonischen Landmarks für das nationale Branding und den internationalen Tourismussektor behandelt.",
+      "factsAdvanced": [
+        "Berühmtester hölzerner Bootssteg der Karibik.",
+        "Wahrzeichen des Pigeon Point Heritage Park auf Tobago.",
+        "Weltweit bekanntes Symbol für den Karibik-Tourismus.",
+        "Startpunkt für Exkursionen zum Buccoo Reef und Nylon Pool.",
+        "Top-Destination für Kitesurfer und Wassersportbegeisterte.",
+        "Geprägt durch weißen Korallensand und klares Wasser.",
+        "Oft als Kulisse für internationale Film- und Fotoproduktionen.",
+        "Thema: Tourismusgeographie und Bildsymbole (K7)."
+      ]
+    },
+    {
+      "id": "tt-fort-king-peter-landmarks-v2",
+      "descriptionAdvanced": "Fort King Peter auf Tobago ist eine weniger bekannte, aber historisch faszinierende Festung an der Nordwestküste, oberhalb der King Peter’s Bay. Das Fort wurde im 18. Jahrhundert errichtet, um diesen Teil der Küste vor Angriffen französischer und spanischer Flotten zu schützen. Es bietet einen der einsamsten und wildesten Ausblicke auf den Atlantik. Die Ruinen sind heute teilweise von der Vegetation überwuchert, was dem Ort eine mystische Atmosphäre verleiht. Die Bucht unterhalb des Forts ist bekannt für ihre unberührte Schönheit und ihre Ruhe. Fort King Peter ist ein Zeugnis für die dezentrale Verteidigungsstrategie der Kolonialmächte. Im Unterricht (Geschichte K7) dient das Fort als Beispiel für die Bedeutung kleinerer Küstenstützpunkte und die Erforschung 'vergessener' historischer Stätten.",
+      "factsAdvanced": [
+        "Ehemalige Verteidigungsanlage an der wilden Nordwestküste.",
+        "Historisch bedeutend zur Überwachung der Seewege nach Scarborough.",
+        "Bietet spektakuläre Aussichten auf die King Peter’s Bay.",
+        "Ort mit großer Bedeutung für das militärische Erbe Tobagos.",
+        "Geprägt durch eine ruhige, abgelegene Lage.",
+        "Beispiel für koloniale Festungsarchitektur im kleinen Maßstab.",
+        "Ideales Ziel für geschichtsinteressierte Wanderer.",
+        "Thema: Regionale Militärgeschichte und Küstenschutz (K7)."
+      ]
+    },
+    {
+      "id": "tt-trinidad-memorial-park-landmarks-v2",
+      "descriptionAdvanced": "Der Memorial Park in Port of Spain ist eine feierliche Gedenkstätte für die Bürger von Trinidad und Tobago, die in den beiden Weltkriegen gedient haben und gefallen sind. Das zentrale Kenotaph, ein beeindruckendes Monument aus hellem Stein, listet die Namen der Soldaten auf und ist der Ort der jährlichen Remembrance Day-Zeremonien. Der Park ist ein Ort der Besinnung und des Respekts inmitten der lebhaften Hauptstadt. Er liegt strategisch günstig zwischen dem Nationalmuseum und der National Academy for the Performing Arts. Die gepflegten Rasenflächen und historischen Denkmäler machen den Park zu einem wichtigen Teil des kulturellen Gedächtnisses des Landes. Im Unterricht (Geschichte K8) wird der Memorial Park zur Veranschaulichung des Beitrags Trinidads zu globalen Konflikten und zur Erörterung von Gedenkkultur genutzt.",
+      "factsAdvanced": [
+        "Zentrale Gedenkstätte für die Opfer der Weltkriege.",
+        "Standort des nationalen Kenotaphs in Port of Spain.",
+        "Ort der offiziellen Remembrance Day Feierlichkeiten.",
+        "Symbol für den Beitrag der Karibik zum Weltfrieden.",
+        "Gepflegte Parkanlage im historischen Zentrum der Stadt.",
+        "Beherbergt Statuen und Tafeln zur Militärgeschichte.",
+        "Wichtiger Ort für die nationale Gedenkkultur.",
+        "Thema: Zeitgeschichte und internationale Konflikte (K8)."
+      ]
+    },
+    {
+      "id": "tt-bocas-islands-landmarks-v2",
+      "descriptionAdvanced": "Die Bocas Islands, eine Gruppe kleiner Inseln in der Meerenge 'Bocas del Dragón' zwischen Trinidad und Venezuela, sind faszinierende Wahrzeichen von natürlicher Schönheit und historischem Geheimnis. Zu ihnen gehören Chacachacare, Huevos und Monos. Diese Inseln dienten in der Vergangenheit als Walfangstationen, Quarantänestationen (Leuchtturm von Chacachacare) und heute als exklusive Ferienziele für Inlandsurlauber ('Down the Islands'). Die Gewässer um die Inseln sind bekannt für ihre reiche Meeresfauna und exzellente Bedingungen zum Angeln und Tauchen. Die Bocas Islands sind geographisch interessant, da sie die tektonische Verbindung zwischen der Antillen-Inselkette und dem südamerikanischen Festland markieren. Im Unterricht (Geographie/Biologie K7-K8) werden die Bocas Islands zur Untersuchung von Inselökologie, maritimer Geschichte und Plattentektonik genutzt.",
+      "factsAdvanced": [
+        "Inselgruppe in der strategisch wichtigen Drachenmaul-Meerenge.",
+        "Früherer Standort von Lepra-Stationen und Walfangbasen.",
+        "Beliebtes Ziel für Bootsausflüge ('Down the Islands').",
+        "Einzigartige Flora und Fauna mit venezolanischen Einflüssen.",
+        "Heimat des historischen Leuchtturms von Chacachacare.",
+        "Geographisches Bindeglied zu Südamerika.",
+        "Zentrum für Meeresbiologie und Naturschutzforschung.",
+        "Thema: Inselgeographie und maritime Geschichte (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-caribbean-cinema-landmarks-v2",
+      "descriptionAdvanced": "Die Caribbean Cinemas in Trinidad, insbesondere die Standorte wie Trincity Mall oder South Park, sind moderne Wahrzeichen der zeitgenössischen Freizeitkultur und des urbanen Lebensstils. Als führende Kinokette der Region bieten sie erstklassige Unterhaltung und dienen als wichtige soziale Treffpunkte für die Jugend und Familien. Die Kinos sind oft in große Einkaufs- und Entertainment-Zentren integriert und spiegeln die Globalisierung der Popkultur auf der Insel wider. Historisch gesehen hat das Kino in Trinidad eine lange Tradition, von den alten 'Globe'- und 'Empire'-Kinos bis hin zu den modernen Multiplexen von heute. Im Unterricht (Medienkunde/Wirtschaft K7) wird das Kino als Beispiel für die Kulturindustrie, den Dienstleistungssektor und die Rolle der Unterhaltung in einer modernen Gesellschaft behandelt.",
+      "factsAdvanced": [
+        "Führendes Zentrum für moderne Kinounterhaltung.",
+        "Teil großer urbaner Entertainment-Hubs (Multiplexe).",
+        "Wichtiger sozialer Treffpunkt für alle Generationen.",
+        "Spiegelt den Einfluss der globalen Filmindustrie wider.",
+        "Moderner Dienstleistungsstandort mit hoher Beschäftigungsrate.",
+        "Zentrum für nationale Filmpremieren und Festivals.",
+        "Beispiel für die Entwicklung der trinidadischen Freizeitökonomie.",
+        "Thema: Kulturwirtschaft und Globalisierung (K7)."
+      ]
+    },
+    {
+      "id": "tt-national-museum-landmarks-v2",
+      "descriptionAdvanced": "Das National Museum and Art Gallery in Port of Spain ist das wichtigste Gedächtnis von Trinidad und Tobago. Beheimatet im historischen Gebäude der Royal Victoria Institute (eröffnet 1892), bewahrt es eine beeindruckende Sammlung zur Geschichte, Kunst und Natur des Landes. Die Ausstellungen reichen von archäologischen Funden der Amerindians über Artefakte der Kolonialzeit bis hin zu den Werken berühmter trinidadischer Künstler wie Michel-Jean Cazabon. Ein besonderer Schwerpunkt liegt auf der Entwicklung des Karnevals und der Steelpan. Das Museum fungiert als Brücke zwischen Vergangenheit und Gegenwart und fördert das Bewusstsein für die nationale Identität. Für Schüler (Geschichte/Kunst K5-K8) ist das Museum das zentrale außerschulische Lernzentrum, um das vielfältige kulturelle Erbe des Landes an einem Ort zu entdecken.",
+      "factsAdvanced": [
+        "Haupthaus zur Bewahrung des nationalen Kulturerbes.",
+        "Sitz in der historischen Royal Victoria Institute Architektur.",
+        "Umfangreiche Galerie mit Werken von Michel-Jean Cazabon.",
+        "Zentrum für historische Forschung und Dokumentation.",
+        "Beherbergt einzigartige Exponate zur Geschichte des Karnevals.",
+        "Wichtiger Standort für Bildungsprogramme und Workshops.",
+        "Dokumentiert die indigene und koloniale Vergangenheit.",
+        "Thema: Museumsgeschichte und nationale Identität (K5-K8)."
+      ]
+    },
+    {
+      "id": "tt-san-fernando-hill-landmarks-v2",
+      "descriptionAdvanced": "Der San Fernando Hill (Anaparima) ist das markanteste geographische und kulturelle Wahrzeichen des Südens von Trinidad. Der Hügel aus festem Kalkstein ragt über die Stadt San Fernando empor und bietet einen unvergleichlichen Panoramablick auf den Golf von Paria und die Central Range. Für die ursprünglichen Amerindians war der Hügel ein heiliger Ort, was seine tiefe historische Bedeutung unterstreicht. Im 20. Jahrhundert wurde der Hügel durch intensiven Steinabbau stark verändert, heute ist er ein geschützter Park und ein beliebtes Erholungsgebiet. Er ist ein Symbol für die Resilienz der Natur und der Stadt. Im Unterricht (Geographie/Geologie K6-K8) wird der San Fernando Hill zur Untersuchung von Kalksteinformationen, Rohstoffgewinnung und der Bedeutung spiritueller Landschaften genutzt.",
+      "factsAdvanced": [
+        "Dominante Landmarke im Süden Trinidads (Anaparima).",
+        "Heiliger Ort der indigenen Amerindians seit Jahrtausenden.",
+        "Bietet den besten Panoramablick über Süd-Trinidad.",
+        "Beispiel für menschliche Eingriffe durch historischen Steinabbau.",
+        "Heute geschützter Nationalpark und Freizeitgelände.",
+        "Zentrum kultureller Feste und religiöser Zeremonien.",
+        "Ikonisches Symbol für die Identität der Stadt San Fernando.",
+        "Thema: Geomorphologie und kulturelle Landschaften (K6-K8)."
+      ]
+    },
+    {
+      "id": "tt-trinidad-country-club-landmarks-v2",
+      "descriptionAdvanced": "Der Trinidad Country Club in Maraval ist eine der exklusivsten und traditionsreichsten sozialen Einrichtungen des Landes. Ursprünglich als privater Club für die gesellschaftliche Elite gegründet, spiegelt er die koloniale Geschichte und den Lebensstil der gehobenen Klasse wider. Die Anlage umfasst prächtige historische Gebäude, Tennisplätze und weitläufige Gärten, die für ihre botanische Vielfalt bekannt sind. Der Country Club war über Jahrzehnte das Zentrum exklusiver Bälle und gesellschaftlicher Ereignisse. Er ist ein architektonisches Denkmal der viktorianischen und Edwardianischen Ära in den Tropen. Im Unterricht (Sozialkunde/Geschichte K8) dient der Country Club als Beispiel für soziale Schichtung in der Kolonialzeit und den Wandel exklusiver Institutionen in der modernen Republik.",
+      "factsAdvanced": [
+        "Historische soziale Institution in der exklusiven Region Maraval.",
+        "Zentrum des gesellschaftlichen Lebens der Elite im 20. Jh.",
+        "Prachtvolle Architektur im kolonialen Villenstil.",
+        "Wichtiger Standort für Tennis und gehobenen Freizeitsport.",
+        "Bewahrt historische Parkanlagen und botanische Sammlungen.",
+        "Ort bedeutender historischer Verhandlungen und Feste.",
+        "Symbol für das koloniale soziale Erbe Trinidads.",
+        "Thema: Soziale Strukturen und Architekturgeschichte (K8)."
+      ]
+    }
+  ]
+}

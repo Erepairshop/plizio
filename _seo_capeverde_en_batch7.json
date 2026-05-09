@@ -1,0 +1,360 @@
+{
+  "lang": "en",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeLifeV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "donkey-sanctuary-maio-life-v2",
+      "descriptionAdvanced": "The Donkey Sanctuary on Maio Island is a dedicated facility for the protection and welfare of the island's working and feral donkeys. Historically, donkeys have been essential companions for Cape Verdean farmers, used for transporting water and agricultural products across the rugged terrain. As modernization has reduced their role in daily labor, many donkeys have been abandoned or neglected. The sanctuary provides medical care, food, and a safe environment for these resilient animals, while also educating the community about animal welfare. Visitors can interact with the donkeys and learn about their historical importance to the island's rural economy, making it a heartwarming and educational experience for animal lovers.",
+      "factsAdvanced": [
+        "Dedicated welfare center for working and abandoned donkeys.",
+        "Located on the tranquil island of Maio.",
+        "Focuses on veterinary care and community education.",
+        "Highlights the donkey's historical role in Cape Verdean life.",
+        "Provides a sanctuary for animals no longer needed in agriculture.",
+        "A heartwarming destination for animal welfare enthusiasts.",
+        "Supports the island's commitment to humane animal treatment.",
+        "A peaceful place to learn about the island's rural traditions."
+      ]
+    },
+    {
+      "id": "whale-watching-boa-vista-life-v2",
+      "descriptionAdvanced": "Boa Vista is one of the most important breeding grounds for Humpback Whales (Megaptera novaeangliae) in the North Atlantic. From February to May, these majestic marine giants migrate to the island's warm, shallow coastal waters to mate and give birth. Whale-watching tours departing from Sal Rei offer a unique opportunity to witness the spectacular breaches and vocalizations of these incredible creatures in their natural habitat. Guided by marine biologists, these tours emphasize respectful and sustainable observation practices, ensuring minimal disturbance to the whales. It is a world-class wildlife experience that highlights the ecological richness of Cape Verde's waters and the importance of marine conservation in the Atlantic.",
+      "factsAdvanced": [
+        "Primary breeding ground for North Atlantic Humpback Whales.",
+        "Whale-watching season runs from February to May each year.",
+        "Guided tours emphasize sustainable and respectful observation.",
+        "A major contributor to the island's blue economy and eco-tourism.",
+        "Tours are often led by experts and marine biologists.",
+        "The island's shallow bays provide ideal conditions for calving.",
+        "One of the best locations in the Atlantic for whale sightings.",
+        "Highlights the importance of protecting marine migratory routes."
+      ]
+    },
+    {
+      "id": "goat-farms-brava-life-v2",
+      "descriptionAdvanced": "Goat farming is the most vital agricultural activity on Brava, the smallest and most rugged inhabited island of the archipelago. Due to the island's steep topography and humid microclimate, goats thrive on the lush volcanic slopes, providing the local population with milk and meat. Brava is famous for its artisanal goat cheese, which is made using traditional methods that have been preserved for generations. These small-scale farms are often family-run and represent a sustainable way of utilizing the island's limited land resources. For visitors, exploring the goat farms offers an authentic glimpse into the rural life of Brava, where the rhythms of animal husbandry define the daily activities of its resilient and welcoming community.",
+      "factsAdvanced": [
+        "Primary agricultural activity on the small island of Brava.",
+        "Major source of milk for the island's famous artisanal cheese.",
+        "Goats graze on lush volcanic slopes and endemic flora.",
+        "A sustainable and traditional use of the island's rugged terrain.",
+        "Essential for the food security and economy of Brava.",
+        "Represents an authentic and enduring island way of life.",
+        "Farms are typically small-scale and managed by local families.",
+        "A key highlight for visitors seeking rural island experiences."
+      ]
+    },
+    {
+      "id": "terra-branca-playground-life-v2",
+      "descriptionAdvanced": "The Terra Branca Playground in Praia is a vibrant social hub for children and families in one of the capital's most energetic neighborhoods. Designed as a modern and safe recreational space, it provides a much-needed area for physical activity and community gathering in the urban environment. The playground is equipped with colorful equipment and open spaces where children from diverse backgrounds meet and play. Beyond recreation, the site serves as a venue for neighborhood cultural events and community programs, reflecting the city's commitment to improving the quality of urban life. It is a place that captures the youthful energy and communal spirit of Praia, where the next generation of Cape Verdeans grows and interacts.",
+      "factsAdvanced": [
+        "Modern recreational space in the Terra Branca district of Praia.",
+        "Vital social hub for children and families in the capital.",
+        "Promotes physical activity and community interaction.",
+        "Equipped with safe, modern play structures and seating areas.",
+        "Regular venue for neighborhood events and youth programs.",
+        "Reflects urban development efforts for public leisure spaces.",
+        "Located in one of the city's most populous residential areas.",
+        "A symbol of the vibrant and youthful spirit of the capital."
+      ]
+    },
+    {
+      "id": "rabil-lagoon-birds-life-v2",
+      "descriptionAdvanced": "The Rabil Lagoon (Lagoa da Ribeira do Rabil) on Boa Vista Island is an ecologically significant wetland and a premier destination for birdwatching in Cape Verde. Formed at the mouth of the island's largest river, the lagoon provides a rare freshwater and brackish habitat amidst an otherwise arid landscape. It is a vital stopover and nesting site for numerous migratory birds, including herons, spoonbills, and various species of waders. The surrounding lush vegetation, which includes date palms and acacias, offers a stark contrast to the nearby desert dunes. The lagoon is protected as a Ramsar site, highlighting its international importance for biodiversity and its role as a sanctuary for the archipelago's unique avian life.",
+      "factsAdvanced": [
+        "Ecologically vital wetland and Ramsar-listed protected site.",
+        "Primary destination for birdwatching on Boa Vista Island.",
+        "Habitat for numerous migratory and endemic bird species.",
+        "Located at the mouth of the island's largest river system.",
+        "Features a rare lush microclimate with date palms and acacias.",
+        "Essential for the study of island wetland ecosystems.",
+        "Provides a sanctuary for herons, egrets, and waders.",
+        "A key natural landmark near the historic town of Rabil."
+      ]
+    },
+    {
+      "id": "maize-fields-santiago-life-v2",
+      "descriptionAdvanced": "The maize (corn) fields of Santiago Island are a powerful symbol of the nation's food culture and agricultural heritage. Maize is the most important staple crop in Cape Verde, and its cultivation is a seasonal ritual that involves entire rural communities. When the first rains of August arrive, the arid volcanic hills are transformed into a vibrant green patchwork as the maize plants rapidly grow. The success of the harvest is critical, as maize is the foundation of 'cachupa,' the national dish. These fields represent the deep connection between the Cape Verdean people and their land, showcasing the traditional knowledge and labor required to produce food in a challenging island environment. For visitors, the sight of the green maize fields is a hallmark of the island's interior beauty.",
+      "factsAdvanced": [
+        "Most important staple crop and basis for the national dish, cachupa.",
+        "Cultivation is strictly dependent on the seasonal Atlantic rains.",
+        "Transforms the island's arid landscape into lush green in August.",
+        "A communal agricultural activity involving entire villages.",
+        "Represents the core of Cape Verdean rural identity and food security.",
+        "Grown on steep volcanic terraces using traditional methods.",
+        "Essential for the livelihoods of thousands of subsistence farmers.",
+        "A central feature of the Santiago Island interior scenery."
+      ]
+    },
+    {
+      "id": "papaya-orchards-ribeira-brava-life-v2",
+      "descriptionAdvanced": "The papaya orchards of Ribeira Brava, on the island of São Nicolau, are a testament to the fertile and productive valleys of the archipelago's interior. Nestled in deep, narrow canyons with high humidity and fertile volcanic soil, these orchards produce some of the finest papayas in Cape Verde. The fruit is a staple of the local diet and a major product sold in the markets of Mindelo and Praia. Cultivated by traditional farmers who utilize complex irrigation systems to manage the mountain water, these orchards are a vibrant part of the island's agricultural economy. Walking through these lush, tropical groves offers visitors a sensory experience of the island's hidden abundance and a look at the successful adaptation of agriculture to the rugged mountain relief.",
+      "factsAdvanced": [
+        "High-quality papaya production in the fertile valleys of São Nicolau.",
+        "Thrives in the humid microclimate of deep volcanic canyons.",
+        "Major supplier of fresh fruit to the national markets.",
+        "Orchards are managed using traditional mountain irrigation systems.",
+        "Vital component of the island's agricultural economy.",
+        "Represents the successful cultivation of tropical crops in the interior.",
+        "A lush and green contrast to the arid coastal regions.",
+        "Key highlight for agricultural and eco-tourism on the island."
+      ]
+    },
+    {
+      "id": "date-palm-groves-sal-rei-life-v2",
+      "descriptionAdvanced": "The date palm groves surrounding Sal Rei on Boa Vista Island are a distinctive and historic feature of the island's arid landscape. These groves, or oases, were traditionally established around natural springs and areas with shallow groundwater, providing shade and a vital food source in the desert-like environment. Date palms have been cultivated here for centuries, and their presence defines the scenic character of the island's interior and outskirts. While commercial production is small-scale, the palms remain an important part of the local ecology and a symbol of the island's resilience. For visitors, the groves offer a peaceful, shady retreat and a glimpse into the traditional desert agriculture that has sustained the people of Boa Vista for generations.",
+      "factsAdvanced": [
+        "Historic date palm oases in the arid landscape of Boa Vista.",
+        "Established around vital natural springs and groundwater sources.",
+        "Provides a traditional food source and shade in the desert environment.",
+        "A major scenic landmark around the town of Sal Rei.",
+        "Symbolizes the island's adaptation to its Saharan-like climate.",
+        "Important habitat for local bird species and desert flora.",
+        "Maintained by traditional small-scale agricultural techniques.",
+        "A key destination for experiencing the island's unique oases."
+      ]
+    },
+    {
+      "id": "zoo-mindelo-life-v2",
+      "descriptionAdvanced": "The Mindelo Zoo, located on the outskirts of the cultural capital on São Vicente Island, is a significant educational and conservation facility. While modest in size, the zoo focuses on the care and display of species relevant to the archipelago and the African region. It serves as a vital resource for local schools, providing students with the opportunity to learn about wildlife and the importance of biodiversity conservation. The zoo is also involved in the rescue and rehabilitation of injured local animals. For residents and visitors of Mindelo, it offers a family-friendly space for recreation and environmental education, contributing to the city's diverse cultural and educational offerings. It remains a key institution for promoting animal welfare and environmental awareness in Cape Verde.",
+      "factsAdvanced": [
+        "Primary wildlife education and display facility in Mindelo.",
+        "Focuses on species relevant to the region and environmental study.",
+        "Vital educational resource for the island's schools and youth.",
+        "Involved in local animal rescue and rehabilitation efforts.",
+        "Located in the urban area of São Vicente's cultural capital.",
+        "Promotes environmental awareness and biodiversity conservation.",
+        "A popular destination for family recreation and nature learning.",
+        "Contributes to the city's commitment to public education."
+      ]
+    },
+    {
+      "id": "kid-center-mindelo-life-v2",
+      "descriptionAdvanced": "The Kid Center in Mindelo is a dedicated space for the development, education, and recreation of the city's younger population. Located in the heart of São Vicente's cultural capital, this facility provides a range of programs designed to nurture creativity and learning through play. From arts and crafts workshops to educational games and social activities, the center is a vital part of the city's social infrastructure. It offers a safe and stimulating environment where children can interact and develop new skills outside of the traditional school setting. The center's mission reflects the island's strong focus on community development and the importance of investing in the future of the next generation, making it a beloved institution for families in Mindelo.",
+      "factsAdvanced": [
+        "Dedicated center for youth development and recreation in Mindelo.",
+        "Offers creative workshops, educational games, and social programs.",
+        "Vital social infrastructure for families in the cultural capital.",
+        "Focuses on nurturing creativity and community engagement.",
+        "Provides a safe and stimulating urban environment for children.",
+        "A key site for extracurricular education on São Vicente Island.",
+        "Reflects the city's commitment to youth and community welfare.",
+        "Centrally located and accessible to the local urban population."
+      ]
+    },
+    {
+      "id": "eco-center-santa-luzia-life-v2",
+      "descriptionAdvanced": "The Eco Center of Santa Luzia is the primary logistical and educational hub for the management of the Santa Luzia Integral Nature Reserve, the only uninhabited island in Cape Verde. While the island itself is strictly protected, the center—located on the nearby island of São Vicente—serves as the base for scientific research, monitoring, and environmental education related to the reserve. It showcases the unique biodiversity of Santa Luzia, including its rare seabirds, reptiles, and marine ecosystems, through interactive exhibits and presentations. The center is vital for raising public awareness about the importance of marine conservation and for coordinating the complex efforts required to protect this pristine and fragile Atlantic sanctuary. It is an essential site for anyone interested in the archipelago's environmental preservation.",
+      "factsAdvanced": [
+        "Logistical hub for the Santa Luzia Integral Nature Reserve.",
+        "Base for scientific research and monitoring of the uninhabited island.",
+        "Features exhibits on the unique biodiversity of the marine reserve.",
+        "Primary center for environmental education about Atlantic ecosystems.",
+        "Coordinates conservation efforts for rare seabirds and sea turtles.",
+        "Located in Mindelo, serving the northern island group.",
+        "Essential for understanding Cape Verde's most pristine natural site.",
+        "Supports the national 'Blue Economy' and marine protection goals."
+      ]
+    },
+    {
+      "id": "salt-experience-sal-life-v2",
+      "descriptionAdvanced": "The Salt Experience on Sal Island is a unique cultural and wellness attraction located at the historic Salinas de Pedra de Lume. This facility allows visitors to connect with the island's deep industrial heritage while experiencing the therapeutic benefits of the high-salinity waters inside an extinct volcanic crater. The experience includes floating in the salt lakes, which are 26 times saltier than seawater, and learning about the artisanal and industrial methods of salt extraction that gave the island its name. The site features a museum that details the 200-year history of the salt trade and its role in the Atlantic maritime economy. It is a powerful combination of history, geology, and wellness that offers a profound understanding of the island's identity and its most famous natural resource.",
+      "factsAdvanced": [
+        "Immersive cultural and wellness experience at the historic salinas.",
+        "Features floating in high-salinity lakes inside a volcanic crater.",
+        "Includes a museum dedicated to the 200-year history of salt on Sal.",
+        "Highlights traditional and industrial salt extraction techniques.",
+        "Located at the UNESCO-listed site of Pedra de Lume.",
+        "A major attraction for health, wellness, and historical tourism.",
+        "Showcases the island's most famous and namesake natural resource.",
+        "Provides unique insights into the Atlantic maritime salt trade."
+      ]
+    },
+    {
+      "id": "shark-bay-lemon-sharks-life-v2",
+      "descriptionAdvanced": "Shark Bay on the eastern coast of Sal Island is a remarkable natural laboratory and a prime site for eco-tourism, famous for its population of juvenile Lemon Sharks (Negaprion brevirostris). These sharks utilize the shallow, rocky waters of the bay as a safe nursery ground, where they can be observed just a few meters from the shore. This close-up encounter offers a unique educational opportunity to learn about shark behavior and the vital role they play in the marine ecosystem. Guided tours allow visitors to safely wade into the water, emphasizing the fact that these young sharks are harmless to humans. The bay is a powerful symbol of Cape Verde's marine biodiversity and the island's commitment to protecting its most iconic and vulnerable marine species.",
+      "factsAdvanced": [
+        "Natural nursery for juvenile Lemon Sharks in shallow coastal waters.",
+        "One of the most unique wildlife encounter sites in the archipelago.",
+        "Provides a safe and educational experience for visitors to see sharks.",
+        "Highlights the importance of sharks in the Atlantic marine food chain.",
+        "Located on the wild eastern coastline of Sal Island.",
+        "Guided tours promote marine conservation and ecological awareness.",
+        "The sharks are harmless and primarily feed on small fish and crustaceans.",
+        "A top destination for families and nature enthusiasts visiting Sal."
+      ]
+    },
+    {
+      "id": "agro-center-santo-antao-life-v2",
+      "descriptionAdvanced": "The Agro Center of Santo Antão is a vital hub for agricultural innovation, research, and training on the archipelago's most productive farming island. Located in the northern valleys, the center works with local farmers to improve crop yields, manage water resources sustainably, and preserve traditional agricultural knowledge. It serves as a testing ground for new crop varieties and sustainable techniques, including organic farming and modern irrigation. The center also provides essential support for the certification and export of local products like coffee, grogue, and tropical fruits. Its mission is to ensure the long-term viability of the island's agriculture, which is the backbone of the regional economy. It is a key institution for the development of resilient and sustainable food systems in Cape Verde.",
+      "factsAdvanced": [
+        "Major center for agricultural research and training on Santo Antão.",
+        "Focuses on sustainable water management and crop improvement.",
+        "Supports local farmers in the production of coffee and grogue.",
+        "Testing ground for modern irrigation and organic farming techniques.",
+        "Vital for the economic development of the northern agricultural valleys.",
+        "Preserves and promotes traditional island farming knowledge.",
+        "A key institution for national food security and export standards.",
+        "Provides training programs for younger generations of farmers."
+      ]
+    },
+    {
+      "id": "parque-infantil-espargeos-life-v2",
+      "descriptionAdvanced": "The Parque Infantil in Espargos is a central recreational and social space for the children and families of Sal Island's administrative capital. Located in the heart of the city, this playground provides a safe and colorful environment for play and social interaction, which is vital in the island's urban setting. The park is a popular meeting point where local residents gather in the late afternoon, reflecting the close-knit and community-focused nature of life in Espargos. Its design includes modern play equipment and seating areas, making it a focal point for neighborhood activities and youth-oriented events. The park's maintenance and use are a clear demonstration of the city's commitment to public leisure and the well-being of its youngest citizens.",
+      "factsAdvanced": [
+        "Primary playground and family recreational area in Espargos.",
+        "Vital social hub for the urban community of Sal Island.",
+        "Provides modern play equipment and safe recreational space.",
+        "A central meeting point for local families and children.",
+        "Located in the administrative and residential heart of the city.",
+        "Reflects the city's focus on public amenities and social welfare.",
+        "Popular venue for neighborhood festivals and youth programs.",
+        "A vibrant symbol of the community spirit in the island's capital."
+      ]
+    },
+    {
+      "id": "santo-antao-nature-v2",
+      "descriptionAdvanced": "Santo Antão is the second-largest and most topographically dramatic island in Cape Verde, renowned for its jaw-dropping mountains and lush tropical valleys. The island is divided into two distinct regions: the arid, volcanic south and the incredibly green, humid north. It is the premier destination in West Africa for hiking, with a network of ancient cobblestone trails that wind through deep canyons, along vertical cliffs, and into fertile oases. The island's nature is a masterpiece of vertical relief, with peaks reaching nearly 2,000 meters. Santo Antão is also the 'green heart' of the archipelago, producing a large portion of the nation's coffee, grogue, and tropical fruits, making it a place where nature and agriculture exist in perfect, spectacular harmony.",
+      "factsAdvanced": [
+        "Second largest island and the most mountainous in the archipelago.",
+        "Highest point is Topo de Coroa at 1,979 meters elevation.",
+        "Famous for its lush tropical valleys like Paul and Ribeira Grande.",
+        "Widely considered the best hiking destination in West Africa.",
+        "Divided into a dry volcanic south and a fertile, green north.",
+        "Major producer of national staples like coffee and sugarcane.",
+        "Features spectacular coastal cliffs and ancient cobblestone roads.",
+        "A vital sanctuary for endemic Macaronesian flora and fauna."
+      ]
+    },
+    {
+      "id": "sao-vicente-nature-v2",
+      "descriptionAdvanced": "São Vicente is a vibrant and arid island known as the cultural soul of Cape Verde. Its nature is characterized by stark volcanic landscapes, dramatic wind-swept plains, and one of the world's most beautiful natural harbors. The island is dominated by the Monte Verde, its highest peak, and the iconic Monte Cara, whose silhouette resembles a human face. Despite its dry climate, São Vicente features stunning beaches like Laginha and São Pedro, and its constant trade winds make it a global hub for windsurfing and kitesurfing. The island's ecology is a study in resilience, with hardy endemic plants and a rich marine environment that supports its famous fishing traditions. It is an island where the raw beauty of the volcanic land meets the sophisticated energy of its cultural capital, Mindelo.",
+      "factsAdvanced": [
+        "Home to the cultural capital Mindelo and Porto Grande harbor.",
+        "Dominated by Monte Verde (744m) and the iconic Monte Cara.",
+        "Characterized by arid volcanic topography and wide plains.",
+        "World-class destination for windsurfing and kitesurfing sports.",
+        "Features the most popular urban beach in the country, Laginha.",
+        "Vital center for the national 'Blue Economy' and fishing.",
+        "Harnesses constant Atlantic trade winds for renewable energy.",
+        "A unique blend of stark natural beauty and vibrant urban culture."
+      ]
+    },
+    {
+      "id": "santa-luzia-nature-v2",
+      "descriptionAdvanced": "Santa Luzia is the only uninhabited island in the Cape Verde archipelago, serving as a pristine and strictly protected nature reserve. Located between São Vicente and São Nicolau, it offers a window into the untouched natural state of the islands before human settlement. Its nature is characterized by vast sandy plains, volcanic hills, and an incredibly rich marine environment. The island and its surrounding islets, Branco and Raso, are critical sanctuaries for endangered species, including the Raso lark and Loggerhead sea turtles. The waters around Santa Luzia are teeming with coral reefs and a diverse array of sharks and fish. Access is highly restricted, making it one of the most important sites for scientific research and biodiversity conservation in the central Atlantic.",
+      "factsAdvanced": [
+        "The only uninhabited island in the Cape Verde archipelago.",
+        "Designated as an Integral Nature Reserve since 1990.",
+        "Vital sanctuary for the critically endangered Raso lark.",
+        "Major nesting site for the endangered Loggerhead sea turtle.",
+        "Surrounded by some of the most pristine coral reefs in the region.",
+        "Comprises an area of roughly 35 square kilometers of wild terrain.",
+        "Access is strictly regulated for scientific and conservation purposes.",
+        "Essential for the preservation of endemic Atlantic biodiversity."
+      ]
+    },
+    {
+      "id": "sao-nicolau-nature-v2",
+      "descriptionAdvanced": "São Nicolau is an island of profound natural beauty and tranquility, often called the 'forgotten island' due to its peaceful and traditional atmosphere. Its nature is defined by a dramatic central mountain range that culminates at Monte Gordo, a humid cloud forest that protects a high concentration of endemic plants and birds. The island features spectacular relief, with deep oases-like valleys and rugged coastal cliffs. São Nicolau is also famous for its unique 'dragon trees' and its beaches with black, medicinal sand. Its diverse microclimates allow for both arid steppe-like landscapes and lush tropical agriculture. For those seeking an authentic and quiet encounter with the archipelago's volcanic heart, São Nicolau offers some of the most scenic and untouched landscapes in Cape Verde.",
+      "factsAdvanced": [
+        "Home to the Monte Gordo Natural Park and its unique cloud forest.",
+        "Famous for the presence of ancient and rare dragon trees.",
+        "Features beaches with black sand rich in titanium and iodine.",
+        "Characterized by a rugged and dramatic central mountain range.",
+        "Highest peak reaches an elevation of 1,312 meters.",
+        "A peaceful destination for eco-tourism and authentic island life.",
+        "Major center for traditional agriculture and artisanal fishing.",
+        "Offers a diverse range of microclimates and scenic mountain vistas."
+      ]
+    },
+    {
+      "id": "sal-nature-v2",
+      "descriptionAdvanced": "Sal Island is the most famous tourist destination in Cape Verde, known for its flat, arid nature and spectacular white sandy beaches. Historically named after its vast salt deposits, the island is a geological wonder where ancient volcanic craters have been transformed into high-salinity lakes, such as at Pedra de Lume. Sal's landscape is a mix of golden dunes, arid steppes, and dramatic volcanic rock formations like Buracona and the 'Blue Eye.' Despite its dry climate, the island is a vital marine sanctuary, serving as a primary nesting ground for Loggerhead sea turtles and a nursery for Lemon Sharks. Its constant sunshine and powerful trade winds have made it a world-class hub for water sports, while its turquoise waters remain its most prized and beautiful natural asset.",
+      "factsAdvanced": [
+        "The primary tourism hub of Cape Verde, famous for its beaches.",
+        "Named after its historic and extensive natural salt deposits.",
+        "Features the unique salt lake inside the Pedra de Lume crater.",
+        "Major nesting site for the endangered Loggerhead sea turtle.",
+        "Known for the 'Blue Eye' natural pool and volcanic cliffs.",
+        "A global center for surfing, windsurfing, and kitesurfing.",
+        "Characterized by a flat, arid, and desert-like topography.",
+        "Provides the highest concentration of resort tourism in the nation."
+      ]
+    },
+    {
+      "id": "boa-vista-nature-v2",
+      "descriptionAdvanced": "Boa Vista, the 'Island of Dunes,' is a place of ethereal beauty where the Sahara Desert meets the Atlantic Ocean. Its nature is defined by immense white sand dunes, expansive arid plains, and over 50 kilometers of pristine, turquoise-water beaches. The island features unique natural phenomena like the Viana Desert and the fertile oases of its interior. Boa Vista is a globally significant ecological site, serving as the third-largest nesting ground in the world for Loggerhead sea turtles and a vital breeding area for Humpback whales. Its coastline is dotted with shipwrecks and coral reefs, making it a paradise for divers and explorers. Boa Vista offers a sense of vast space and profound stillness, where the raw forces of wind and sea have created a landscape unlike any other.",
+      "factsAdvanced": [
+        "Famous for having the largest white sand dunes in the archipelago.",
+        "Features over 55 kilometers of pristine white sandy beaches.",
+        "Third largest nesting ground globally for Loggerhead sea turtles.",
+        "Major winter breeding area for North Atlantic Humpback whales.",
+        "Home to the unique Viana Desert, formed by Saharan winds.",
+        "Third largest island by land area in Cape Verde.",
+        "Features numerous historic shipwrecks along its rugged coast.",
+        "A vital sanctuary for rare Atlantic seabirds and marine life."
+      ]
+    },
+    {
+      "id": "maio-nature-v2",
+      "descriptionAdvanced": "Maio is a tranquil and golden island, often regarded as the most peaceful in the archipelago. Its nature is characterized by a flat, arid relief with immense white sand beaches and the largest forest perimeter in Cape Verde, consisting of hardy acacias. The island is a sanctuary for peace and biodiversity, with its vast salt pans and coastal lagoons attracting a wide range of migratory birds. Maio is an important nesting site for sea turtles and a center for sustainable eco-tourism. Its landscape is a blend of dry steppes, shifting dunes, and traditional villages that have remained largely untouched by modern development. It is an island of silence and light, offering some of the most pristine and secluded coastal environments in the Atlantic, perfect for those seeking solitude and raw natural beauty.",
+      "factsAdvanced": [
+        "Known for its immense white sand beaches and tranquil atmosphere.",
+        "Home to the largest planted forest in the country (acacia trees).",
+        "Significant nesting site for the endangered Loggerhead sea turtle.",
+        "Features historic and large-scale natural salt pans (salinas).",
+        "Important habitat for migratory birds in its coastal lagoons.",
+        "Designated as a UNESCO Biosphere Reserve in 2020.",
+        "Characterized by a flat, arid, and golden desert-like topography.",
+        "A premier destination for sustainable and secluded eco-tourism."
+      ]
+    },
+    {
+      "id": "santiago-nature-v2",
+      "descriptionAdvanced": "Santiago is the largest and most diverse island in Cape Verde, serving as the nation's political and agricultural heart. Its nature is a microcosm of the entire archipelago, featuring a dramatic central mountain range, fertile tropical valleys, and arid coastal plateaus. The island is home to the Pico da Antónia, its highest peak, and the biodiverse Serra Malagueta Natural Park. Santiago is the 'greenest' of the islands, where traditional terraces produce a wide range of crops from maize to bananas. Its coastline is a mix of black volcanic sand and the stunning white sand of Tarrafal Bay. The island's ecology is rich in endemic species and is fundamental to the nation's water cycle. It is a place where history, culture, and nature are deeply intertwined, offering a complete experience of the Cape Verdean soul.",
+      "factsAdvanced": [
+        "Largest and most populous island in the Cape Verde archipelago.",
+        "Features the most diverse range of landscapes and microclimates.",
+        "Highest point is Pico da Antónia, reaching 1,392 meters.",
+        "Agricultural heart of the country with fertile tropical valleys.",
+        "Home to the capital city, Praia, and the historic Cidade Velha.",
+        "Features the spectacular Serra Malagueta Natural Park.",
+        "Its coastline includes both black and white volcanic sand beaches.",
+        "Fundamental for the nation's food security and biodiversity."
+      ]
+    },
+    {
+      "id": "fogo-nature-v2",
+      "descriptionAdvanced": "Fogo, the 'Island of Fire,' is dominated by the awe-inspiring presence of the Pico do Fogo, an active stratovolcano that is the highest point in Cape Verde. Its nature is a dramatic display of volcanic power, with a massive 9-kilometer wide caldera (Chã das Caldeiras) filled with black lava flows and volcanic ash. This lunar-like landscape is surprisingly productive, with fertile volcanic soil supporting world-class vineyards and coffee plantations. The island features high-altitude mists and humid microclimates on its northern slopes, contrasting with the arid western cliffs. Fogo is a world-class destination for geology and volcano trekking, where the raw forces of the Earth are visible and tangible. It is an island of extreme beauty and resilience, where a unique community lives in the shadow of the smoking peak.",
+      "factsAdvanced": [
+        "Dominated by the active Pico do Fogo volcano (2,829m high).",
+        "Features a massive 9km wide volcanic crater, Chã das Caldeiras.",
+        "The most geologically active and dramatic island in the country.",
+        "Famous for its high-quality volcanic wine and Arabica coffee.",
+        "Characterized by black lava landscapes and dark volcanic sand.",
+        "Home to the Fogo Natural Park, protecting unique biodiversity.",
+        "Offers the ultimate trekking experience to the summit of the volcano.",
+        "The highest point in the entire Cape Verdean archipelago."
+      ]
+    },
+    {
+      "id": "brava-nature-v2",
+      "descriptionAdvanced": "Brava, the 'Island of Flowers,' is the smallest and greenest inhabited island in Cape Verde. Its nature is characterized by a steep and rugged relief that rises sharply from the Atlantic to a high central plateau. Due to its position, the island captures constant mists from the trade winds, creating a cool and humid microclimate that supports lush, floral gardens and diverse vegetation. Brava is famous for its dramatic coastal cliffs and its serene, well-kept villages like Nova Sintra. The island's nature is intimate and poetic, offering spectacular views over the sea toward the nearby volcano of Fogo. Lacking an active airport, Brava remains one of the most isolated and authentic parts of the archipelago, a verdant sanctuary where the sounds of the ocean and the mist define the rhythm of life.",
+      "factsAdvanced": [
+        "The smallest and greenest inhabited island in Cape Verde.",
+        "Known as the 'Island of Flowers' due to its lush vegetation.",
+        "Characterized by a cool, humid microclimate and frequent mists.",
+        "Features some of the most dramatic coastal cliffs in the country.",
+        "Highest point is Monte Fontainhas, reaching 976 meters.",
+        "Lacks an active airport, making it the most isolated island.",
+        "A peaceful sanctuary for traditional Cape Verdean culture.",
+        "Offers spectacular views of the neighboring island of Fogo."
+      ]
+    }
+  ]
+}

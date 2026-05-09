@@ -1,0 +1,249 @@
+{
+  "lang": "de",
+  "country": "iran",
+  "files": [
+    "lib/visualLab/data/poiExtraIranReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "damavand-relief-v2",
+      "descriptionAdvanced": "Der Damavand ist nicht nur der höchste Berg des Irans und des Nahen Ostens, sondern auch ein markanter, schneebedeckter Stratovulkan im Elburs-Gebirge, der das Landschaftsbild nördlich von Teheran dominiert. Seine perfekte Kegelform erhebt sich majestätisch aus der umgebenden Berglandschaft und fasziniert seit Jahrtausenden sowohl Einheimische als auch Reisende. In der persischen Mythologie und Poesie spielt der ruhende Vulkan eine zentrale Rolle und gilt als Symbol des iranischen Widerstands. Die Besteigung des Gipfels stellt eine lohnende Herausforderung dar und bietet an klaren Tagen atemberaubende Ausblicke bis zum Kaspischen Meer. An den Hängen des Berges entspringen heiße Thermalquellen, die von vulkanischer Aktivität zeugen und therapeutische Zwecke erfüllen. Die alpine Flora und Fauna ist einzigartig und schützt seltene Arten in einer ansonsten rauen Umgebung.",
+      "factsAdvanced": [
+        "Der majestätische Vulkankegel erreicht eine beeindruckende Höhe von 5.609 Metern über dem Meeresspiegel.",
+        "Der letzte bekannte Vulkanausbruch des Damavand ereignete sich vor schätzungsweise 7.300 Jahren.",
+        "Im Jahr 2008 wurde der Berg als erstes Naturdenkmal Irans in die nationale Erbeliste aufgenommen.",
+        "An den Hängen in über 4.000 Metern Höhe befinden sich stark schwefelhaltige Fumarolen.",
+        "Die südliche Route ist die beliebteste und am besten ausgebaute Aufstiegsstrecke für Bergsteiger.",
+        "Der Damavand ist auf der Rückseite der iranischen 10.000-Rial-Banknote abgebildet."
+      ]
+    },
+    {
+      "id": "dasht-e-kavir-relief-v2",
+      "descriptionAdvanced": "Dascht-e Kavir, oft als Große Salzwüste bezeichnet, erstreckt sich als gewaltige und lebensfeindliche Landschaft im zentralen Hochland des Irans. Die ausgedehnten Salzpfannen, ausgetrockneten Flussbetten und bizarren Gesteinsformationen bilden ein eindrucksvolles Zeugnis der extremen geologischen Prozesse. Im Sommer erreichen die Temperaturen unerträgliche Höhen, was die Verdunstung extrem beschleunigt und dicke, kristalline Salzkrusten an der Oberfläche zurücklässt. Obwohl die Region auf den ersten Blick vollkommen unfruchtbar erscheint, haben sich spezielle Wüstenpflanzen und hartgesottene Tierarten an diese harschen Bedingungen angepasst. In der Antike verliefen bedeutende Handelsrouten entlang der Oasen am Rand dieser Wüste, die den Reisenden der Seidenstraße als Rastplätze dienten. Heute zieht die unberührte und raue Schönheit der Dascht-e Kavir Abenteurer und Wissenschaftler an, die die geologische Beschaffenheit und das einzigartige Ökosystem untersuchen.",
+      "factsAdvanced": [
+        "Die Wüste umfasst eine Gesamtfläche von etwa 77.600 Quadratkilometern im iranischen Hochland.",
+        "Die Salzkrusten können stellenweise eine bemerkenswerte Dicke von mehreren Metern erreichen.",
+        "In den Sommermonaten steigen die Tagestemperaturen regelmäßig auf über 50 Grad Celsius an.",
+        "Die Region liegt auf einer durchschnittlichen Höhe von etwa 800 Metern über dem Meeresspiegel.",
+        "Das Zentrum der Salzwüste ist nahezu frei von jeglicher dauerhafter menschlicher Besiedlung.",
+        "Der Kavīr-Nationalpark am westlichen Rand schützt den seltenen Asiatischen Geparden und andere Wildtiere."
+      ]
+    },
+    {
+      "id": "lut-desert-relief-v2",
+      "descriptionAdvanced": "Die Wüste Lut, bekannt als Dascht-e Lut, repräsentiert eines der extremsten und faszinierendsten Naturphänomene der Erde und wurde aufgrund ihrer Einzigartigkeit von der UNESCO ausgezeichnet. Die Landschaft wird von riesigen, durch Wind geformten Sandrücken, den sogenannten Kaluts, dominiert, die wie verlassene Städte aus dem sandigen Boden ragen. Zwischen Juni und Oktober fegen starke Winde durch das trockene Becken und formen die beeindruckenden geologischen Strukturen unaufhörlich weiter. Dieses extrem aride Becken im Südosten des Irans gehört zu den heißesten gemessenen Orten der Welt, wo dunkle Kieselflächen die intensive Sonneneinstrahlung absorbieren. Trotz der lebensfeindlichen Umgebung fasziniert die visuelle Stille und die raue Ästhetik der weiten Sternenhimmel bei Nacht. Wegen der extremen Hitze und Trockenheit gibt es hier große Gebiete ohne jegliches mikrobielles Leben im Boden.",
+      "factsAdvanced": [
+        "Im Jahr 2005 registrierten Satelliten eine Rekord-Bodenoberflächentemperatur von 70,7 Grad Celsius.",
+        "Die Lut-Wüste bedeckt eine Fläche von rund 51.800 Quadratkilometern im Südosten Irans.",
+        "Seit 2016 ist die Region offiziell als erstes iranisches UNESCO-Weltnaturerbe anerkannt.",
+        "Die spektakulären Kaluts können eine außergewöhnliche Höhe von bis zu 150 Metern erreichen.",
+        "Im Osten der Wüste erheben sich Sanddünen, die teilweise über 450 Meter hoch sind.",
+        "Etwa 480 Kilometer der Region sind geprägt von tiefen, parallelen Erosionsrinnen."
+      ]
+    },
+    {
+      "id": "mount-sabalan-relief-v2",
+      "descriptionAdvanced": "Der Mount Sabalan ist ein beeindruckender Stratovulkan im Nordwesten des Irans und bildet nach dem Damavand und dem Alam-Kuh die dritthöchste Erhebung des Landes. Seine markante Silhouette prägt die historische Region um die Städte Ardabil und Meschkin-Schahr. Das wohl faszinierendste Merkmal dieses inaktiven Vulkans ist sein permanenter Kratersee auf dem Gipfel, der aufgrund der extremen Höhenlage und klimatischen Bedingungen die meiste Zeit des Jahres von Eis bedeckt ist. Zahlreiche heiße Mineralquellen sprudeln an den unteren Hängen und in den umliegenden Tälern, die seit Jahrhunderten wegen ihrer therapeutischen Eigenschaften genutzt werden. Der Sabalan ist bei Bergsportlern sehr beliebt, da er im Sommer relativ gut zugänglich ist, während er im Winter eine hochalpine, schneebedeckte Herausforderung bietet. Zudem besitzt der Berg eine große spirituelle Bedeutung in den Traditionen der lokalen Gemeinschaften.",
+      "factsAdvanced": [
+        "Der Hauptgipfel erreicht eine Höhe von 4.811 Metern und überragt die umliegende Provinz Ardabil.",
+        "Der Kratersee hat eine elliptische Form mit Abmessungen von etwa 140 mal 80 Metern.",
+        "Die letzten vulkanischen Eruptionen fanden im Holozän vor mehr als 10.000 Jahren statt.",
+        "Am Fuß des Berges befindet sich die bekannte Thermalquellen-Stadt Sareyn in 1.650 Metern Höhe.",
+        "Jährlich ziehen die heißen Heilquellen Hunderttausende Touristen aus dem In- und Ausland an.",
+        "Die Umgebung beherbergt große Populationen von Braunbären und verschiedenen Greifvogelarten."
+      ]
+    },
+    {
+      "id": "mount-sahand-relief-v2",
+      "descriptionAdvanced": "Der Sahand ist ein massiver Gebirgsstock vulkanischen Ursprungs in der iranischen Provinz Ost-Aserbaidschan, der durch tiefe Täler und sanfte Hänge charakterisiert ist. Im Gegensatz zu vielen anderen schroffen Gipfeln Irans ist der Sahand für seine weitläufigen, grünen Almwiesen und die reiche Flora bekannt, was ihm den Beinamen der Braut der Berge eingebracht hat. Die stark erodierte vulkanische Struktur besteht aus mehreren markanten Gipfeln, die sternförmig um einen zentralen Kraterbereich angeordnet sind. Die tiefen Schluchten, die durch jahrtausendelange Wasseroberflächenerosion geformt wurden, beherbergen zahlreiche kleine Dörfer, darunter das berühmte Felsendorf Kandovan, in dem Häuser direkt in das vulkanische Tuffgestein gehauen wurden. Im Winter bieten die schneebedeckten Hänge des Sahand hervorragende Bedingungen für den Wintersport, während im Sommer Nomadenstämme mit ihren Herden die fruchtbaren Hochebenen nutzen.",
+      "factsAdvanced": [
+        "Der höchste Gipfel des Sahand-Massivs, der Kamal, ragt 3.707 Meter in den Himmel.",
+        "Das Vulkangebiet erstreckt sich über einen weiten Radius von schätzungsweise 100 Kilometern.",
+        "Das historische Höhlendorf Kandovan liegt am nordwestlichen Fuß des Berges in 2.200 Metern Höhe.",
+        "Der Sahand-Skikomplex ist eines der führenden Wintersportzentren im Nordwesten Irans.",
+        "Das vulkanische Tuffgestein der Region hat eine geschätzte Entstehungszeit im Pliozän-Pleistozän.",
+        "Mehr als 17 ständige Flüsse entspringen an den Hängen und speisen den Urmiasee."
+      ]
+    },
+    {
+      "id": "alam-kuh-relief-v2",
+      "descriptionAdvanced": "Der Alam-Kuh ist die zweithöchste Erhebung im Iran und bildet das alpine Zentrum des spektakulären Tacht-e Soleiman-Massivs im Elburs-Gebirge. Besonders berühmt ist der Berg unter Kletterern und Bergsteigern weltweit für seine massive, extrem steile Nordwand. Diese graniten Felswand gilt als eine der größten bergsteigerischen Herausforderungen im Nahen Osten und wird oft mit den legendären Kletterrouten in den europäischen Alpen verglichen. Die Umgebung des Alam-Kuh zeichnet sich durch eiszeitliche Relikte, aktive Gletscher und schroffe Grate aus, die das Landschaftsbild dominieren und nur erfahrenen Alpinisten zugänglich sind. Obwohl der Gipfel im Winter fast unbezwingbar scheint, locken die Sommermonate zahlreiche internationale Expeditionen an, die die komplexen Gletscher und Felswände meistern wollen. Die abgelegene Region bewahrt eine raue, unberührte Natur, die durch ihre wilde Schönheit tief beeindruckt.",
+      "factsAdvanced": [
+        "Der Berg überragt das umliegende Massiv mit einer beachtlichen Höhe von 4.848 Metern.",
+        "Die fast senkrechte Nordwand aus massivem Granit hat eine Höhe von rund 800 Metern.",
+        "Die erste erfolgreiche dokumentierte Besteigung des Gipfels durch europäische Kletterer erfolgte im Jahr 1933.",
+        "Rund um den Alam-Kuh befinden sich mehr als 40 Gipfel, die die 4.000-Meter-Marke überschreiten.",
+        "Am Alam-Kuh liegen die größten Gletscher Irans, darunter der 7 Kilometer lange Alamchal-Gletscher.",
+        "Das Basislager Vandarbeen liegt auf einer Höhe von 2.600 Metern und dient als Startpunkt."
+      ]
+    },
+    {
+      "id": "zard-kuh-relief-v2",
+      "descriptionAdvanced": "Zard-Kuh, was wörtlich übersetzt Gelber Berg bedeutet, ist ein dominierender Gipfel im zentralen Teil des mächtigen Zagrosgebirges und eine der wichtigsten hydrologischen Lebensadern Irans. Das Bergmassiv verdankt seinen Namen dem markanten gelblichen Gestein, das im Sonnenlicht besonders eindrucksvoll leuchtet. Die tiefen Täler und steilen Hänge des Zard-Kuh fangen große Mengen an Winterschnee ein, der ausgedehnte Gletscher und tiefe Schneefelder speist. Diese natürlichen Wasserspeicher sind die Quelle des Karun, Irans wasserreichstem Fluss, sowie des Zayandeh Rud, der die historische Stadt Isfahan durchquert. Die Region ist zudem das traditionelle Sommerweidegebiet der Bakhtiari-Nomaden, die jedes Jahr mit ihren Schaf- und Ziegenherden über steile und gefährliche Pässe in diese hoch gelegenen Täler ziehen. Die raue Landschaft bietet unberührte Natur und tiefen Einblick in jahrhundertealte Lebensweisen.",
+      "factsAdvanced": [
+        "Mit 4.221 Metern ist der Zard-Kuh der zweithöchste Berg im gesamten Zagrosgebirge.",
+        "Die Region beheimatet die größte verbliebene Population von Wildziegen im Zentralzagros.",
+        "Das Schmelzwasser des Berges speist den Kuhrang-Tunnel, ein bedeutendes Wasserbauprojekt aus dem Jahr 1953.",
+        "Die umliegenden Berge bestehen größtenteils aus marinen Kalksteinen aus der Kreidezeit.",
+        "Das Massiv beherbergt den Ill-Gletscher, einen der wenigen subtropischen Gletscher im Nahen Osten.",
+        "Die jährlichen Niederschläge in den Höhenlagen können beachtliche 1.500 Millimeter überschreiten."
+      ]
+    },
+    {
+      "id": "mount-dena-relief-v2",
+      "descriptionAdvanced": "Das Dena-Gebirge bildet ein herausragendes und ausgedehntes Submassiv im südlichen Teil des Zagrosgebirges und grenzt an die Provinzen Kohgiluyeh und Boyer-Ahmad sowie Isfahan. Diese gewaltige Gebirgskette erstreckt sich über Dutzende Kilometer und besticht durch eine außergewöhnliche Konzentration von hohen Gipfeln, tiefen Eichenwäldern und kristallklaren Bergflüssen. Im Jahr 2010 wurde ein großer Teil dieses Ökosystems als Dena-Biosphärenreservat anerkannt, um die bemerkenswerte Vielfalt an endemischen Pflanzen und gefährdeten Tierarten, darunter den Persischen Leoparden und das seltene Kaspische Königshuhn, zu schützen. Die steilen Kalksteinwände sind von zahlreichen Karsthöhlen und sprudelnden Quellen durchzogen. Im Winter verwandeln heftige Schneefälle die Region in eine unzugängliche, weiße Festung, während das Tauwasser im Frühling üppige Weidegründe für die lokale Landwirtschaft und Nomaden schafft.",
+      "factsAdvanced": [
+        "Das Dena-Massiv erstreckt sich über eine beeindruckende Länge von annähernd 90 Kilometern.",
+        "Die Bergkette weist mehr als 40 eigenständige Gipfel mit Höhen von über 4.000 Metern auf.",
+        "Der Qash-Mastan ist mit 4.409 Metern die höchste Erhebung im Massiv.",
+        "Das von der UNESCO geschützte Biosphärenreservat umfasst eine Fläche von mehr als 250.000 Hektar.",
+        "Im Dena-Gebirge wachsen rund 1.200 verschiedene Pflanzenarten, von denen viele endemisch sind.",
+        "Archäologische Funde belegen menschliche Präsenz in den Höhlen dieser Berge seit dem Epipaläolithikum."
+      ]
+    },
+    {
+      "id": "shir-kuh-relief-v2",
+      "descriptionAdvanced": "Der Schir Kuh, was auf Persisch den Löwenberg bedeutet, erhebt sich als isoliertes Gebirgsmassiv unvermittelt aus den trockenen Ebenen Zentralirans. Dieser dominante Berg spielt eine überlebenswichtige Rolle für die historische Wüstenstadt Yazd und die umliegenden Siedlungen, da seine Gipfel in den Wintermonaten erhebliche Mengen an Schnee ansammeln. Dieses Schneeschmelzwasser sickert langsam in den durchlässigen Untergrund und speist ein komplexes System von unterirdischen Wasserkanälen, den sogenannten Qanaten, die seit Jahrtausenden die landwirtschaftliche und städtische Wasserversorgung sichern. Die Hänge des Schir Kuh bieten aufgrund der deutlich niedrigeren Temperaturen und der höheren Feuchtigkeit einen scharfen Kontrast zur umgebenden Wüstenlandschaft und dienen den Bewohnern von Yazd als beliebtes Sommerfrischegebiet. Bergsteiger schätzen die gut markierten Pfade und die spektakuläre Weitsicht über das zentrale iranische Plateau.",
+      "factsAdvanced": [
+        "Der höchste Punkt des Gebirgsmassivs erreicht eine Höhe von 4.075 Metern über dem Meeresspiegel.",
+        "Die Wintertemperaturen am Gipfel fallen regelmäßig auf bis zu minus 20 Grad Celsius.",
+        "Die Region ist die Hauptquelle für das etwa 3.000 Jahre alte Qanat-System von Yazd.",
+        "Das Basisdorf Taft, das Ausgangspunkt vieler Wanderungen ist, liegt etwa 30 Kilometer südwestlich von Yazd.",
+        "Die geologische Struktur besteht hauptsächlich aus präkambrischen bis paläozoischen Graniten und Kalksteinen.",
+        "Auf etwa 3.500 Metern Höhe befindet sich eine Schutzhütte für professionelle Kletterer und Trekking-Gruppen."
+      ]
+    },
+    {
+      "id": "zagros-mountains-relief-v2",
+      "descriptionAdvanced": "Das gewaltige Zagrosgebirge bildet das topografische Rückgrat im Westen des Irans und zieht sich in einer breiten, gebogenen Faltenstruktur vom Nordwesten an der türkischen Grenze bis zur Straße von Hormus im Süden. Diese mächtige Gebirgskette entstand vor Millionen von Jahren durch die anhaltende Kollision der arabischen und der eurasischen tektonischen Platten. Das Zagros-System zeichnet sich durch parallel verlaufende Höhenrücken und dazwischenliegende tiefe Täler aus, was im Altertum eine nahezu unüberwindbare natürliche Barriere darstellte und zur Entwicklung einzigartiger Kulturen beitrug. Die fruchtbaren Täler im westlichen Zagros waren Zeugen der frühesten menschlichen Versuche in der Landwirtschaft und der Domestikation von Tieren. Heute prägen die ausgedehnten Eichenwälder, die wilden Flussschluchten und die nomadischen Gemeinschaften das charakteristische Bild dieser historisch und ökologisch unschätzbaren Region.",
+      "factsAdvanced": [
+        "Die Gebirgskette erstreckt sich über eine beeindruckende Gesamtlänge von ungefähr 1.600 Kilometern.",
+        "Das Faltengebirge weist eine maximale Breite von stellenweise über 300 Kilometern auf.",
+        "Der Zard-Kuh ist mit 4.221 Metern eine der höchsten Erhebungen des massiven Gebirgszuges.",
+        "Die Gebirgsbildung begann intensiv im Miozän und Pliozän durch plattentektonische Verschiebungen.",
+        "Das Zagros-Becken enthält einige der weltweit größten Öl- und Gasvorkommen.",
+        "In den Höhlen des Zagros wurden über 50.000 Jahre alte Spuren von Neandertalern entdeckt."
+      ]
+    },
+    {
+      "id": "alborz-mountains-relief-v2",
+      "descriptionAdvanced": "Das Elburs-Gebirge bildet einen majestätischen und geografisch entscheidenden Bogen im Norden Irans, der sich als scharfe Trennlinie zwischen der trockenen Hochebene im Süden und den feuchten Küstenebenen des Kaspischen Meeres im Norden erhebt. Diese klimatische Barriere sorgt dafür, dass Feuchtigkeit an der Nordflanke abregnet, wodurch üppige hyrkanische Wälder entstehen, während die Südseite eine weitaus trockenere, steppenhafte Flora aufweist. Die Bergkette ist ein geologisches Wunder, das hohe vulkanische Gipfel, darunter den berühmten Damavand, mit steilen Kalksteinklippen und tiefen Flussschluchten kombiniert. Das Gebirge hat eine immense historische Bedeutung, da es jahrhundertelang als uneinnehmbare Festungsregion für verschiedene Dynastien und Sekten diente. Heute sind die Hänge und Täler des Elburs nicht nur ein wichtiges Erholungsgebiet für die Metropole Teheran, sondern beherbergen auch erstklassige Skigebiete wie Dizin und Shemshak.",
+      "factsAdvanced": [
+        "Das Gebirgssystem erstreckt sich über mehr als 900 Kilometer entlang des Kaspischen Meeres.",
+        "Die maximale Breite des Elburs-Gebirges schwankt zwischen schmalen 60 und bis zu 130 Kilometern.",
+        "Die nördlichen Hänge erhalten teilweise mehr als 1.000 Millimeter Niederschlag im Jahr.",
+        "Das höchste Skigebiet Dizin liegt auf einer beträchtlichen Höhe von etwa 3.600 Metern.",
+        "Das Gebirge bildet die wichtigste Wasserscheide für Teheran und die umliegenden Metropolregionen.",
+        "Die tektonisch aktive Zone verzeichnet aufgrund der Plattenverschiebung regelmäßig starke Erdbeben."
+      ]
+    },
+    {
+      "id": "taftan-volcano-relief-v2",
+      "descriptionAdvanced": "Der Vulkan Taftan ist ein markantes und aktives geologisches Wahrzeichen im unwegsamen Südosten des Irans, in der Provinz Sistan und Belutschistan. Er gehört zum vulkanischen Bogen, der sich bis ins benachbarte Pakistan erstreckt. Der Berg ist für seine andauernde Fumarolenaktivität bekannt, bei der fast ununterbrochen heiße Schwefelgase und Wasserdampf aus dem Gipfelkrater austreten und eine charakteristische gelbliche Wolke bilden. Die Flanken des Stratovulkans sind mit dicken Schichten aus Asche, Bimsstein und erkalteter Lava bedeckt, was das Gelände anspruchsvoll und faszinierend zugleich macht. Für die lokale belutschische Bevölkerung besitzt der Berg eine mythologische Aura, da er als Sitz verborgener Kräfte gilt. Alpinisten und Abenteurer schätzen die Besteigung des Taftan wegen der mondähnlichen Landschaft nahe dem Krater und der spektakulären Ausblicke auf die umliegende, fast menschenleere Wüstenregion.",
+      "factsAdvanced": [
+        "Der höchste Punkt des Vulkans erreicht eine beachtliche Höhe von 3.941 Metern.",
+        "Rund um den Krater bildeten sich durch vulkanische Gase dicke Krusten aus reinem Schwefel.",
+        "Der letzte größere, dokumentierte Magma-Ausbruch fand schätzungsweise im Holozän statt.",
+        "Das Basislager Darreh-e Gol liegt auf etwa 2.500 Metern und dient als Hauptausgangspunkt.",
+        "In den tiefen Flusstälern am Fuß des Vulkans finden sich warme, mineralienreiche Thermalquellen.",
+        "Die stark schwefelhaltige Umgebung in Gipfelnähe erlaubt das Wachstum nur weniger, spezialisierter Pflanzen."
+      ]
+    },
+    {
+      "id": "kopet-dag-relief-v2",
+      "descriptionAdvanced": "Der Kopet-Dag ist ein langgezogener, zerklüfteter Gebirgszug, der die natürliche und politische Grenze zwischen der nordöstlichen iranischen Provinz Khorasan und Turkmenistan markiert. Diese Bergregion zeichnet sich durch schroffe Kalksteinfelsen, tiefe, enge Schluchten und ein raues kontinentales Klima mit extremen Temperaturunterschieden aus. Historisch gesehen war das Gebirge eine wichtige Pufferzone und ein Knotenpunkt entlang der alten Seidenstraße, was durch die Überreste verlassener Karawansereien in den Bergtälern belegt wird. Ökologisch gesehen ist der Kopet-Dag ein wichtiger Zufluchtsort für seltene und bedrohte Arten der zentralasiatischen Fauna, wie den urialen Wildschafen und dem asiatischen Leoparden. Die spärlich besiedelte Region wird von tiefen Flusstälern durchschnitten, die in der ansonsten ariden Landschaft kleine, fruchtbare Oasen bilden. Die unzugänglichen Felslandschaften haben den Kopet-Dag vor übermäßiger menschlicher Erschließung bewahrt.",
+      "factsAdvanced": [
+        "Die Gebirgskette hat eine Ausdehnung von etwa 650 Kilometern entlang der Grenze.",
+        "Der Mount Quchan ist mit 3.191 Metern der höchste iranische Gipfel dieses Massivs.",
+        "Tektonische Aktivitäten im Jahr 1948 lösten ein verheerendes Erdbeben in der nahegelegenen Stadt Aschgabat aus.",
+        "Das Naturschutzgebiet Tandoureh im iranischen Teil schützt über 73.000 Hektar wertvollen Lebensraums.",
+        "Das Faltengebirge entstand in der späten Kreidezeit und im frühen Tertiär.",
+        "Die steilen Schluchten erreichen stellenweise eine beachtliche Tiefe von bis zu 500 Metern."
+      ]
+    },
+    {
+      "id": "makran-coast-relief-v2",
+      "descriptionAdvanced": "Die Makran-Küste im Südosten Irans erstreckt sich als eine der wildesten und unberührtesten Küstenlinien der Welt entlang des Golfs von Oman. Die Landschaft ist geprägt durch dramatische Kontraste: Extrem arides Wüstenklima trifft abrupt auf das weite Wasser des Indischen Ozeans. Steil aufragende Sandsteinklippen, die von jahrtausendelanger Wind- und Wellenerosion bizarr geformt wurden, thronen über unberührten Sandstränden und abgelegenen Buchten. Eine geologische Besonderheit der Region sind die zahlreichen aktiven Lehmvulkane, die anstelle von Lava kalten Schlamm und Gase aus dem Erdinneren fördern. Im Hinterland der Küste verbergen sich historische Häfen und jahrtausendealte Siedlungsspuren, die eine einst florierende Seefahrerkultur bezeugen. Die Region ist infrastrukturell kaum erschlossen, was sie zu einem Zufluchtsort für Meeresschildkröten und unzählige Vogelarten macht, die hier ungestört brüten können.",
+      "factsAdvanced": [
+        "Die schroffe Küstenlinie erstreckt sich über mehr als 1.000 Kilometer von Iran bis Pakistan.",
+        "Der Schlammvulkan Gel-Afshan schleudert grauen Schlamm bis zu 10 Meter in die Höhe.",
+        "Die Gebirge nahe Chabahar bieten extrem zerfurchte, graue Gesteinsformationen ohne Pflanzenwuchs.",
+        "Der Hafenort Chabahar ist die einzige iranische Stadt mit direktem Zugang zum Indischen Ozean.",
+        "Die Sommertemperaturen im Hinterland können extreme Werte von über 50 Grad Celsius erreichen.",
+        "An den Stränden von Tang legen seltene Suppenschildkröten regelmäßig ihre Eier ab."
+      ]
+    },
+    {
+      "id": "binalud-relief-v2",
+      "descriptionAdvanced": "Das Binalud-Gebirge erstreckt sich majestätisch in der Provinz Razavi-Khorasan im Nordosten des Irans und fungiert als natürliche Barriere zwischen der weiten Ebene von Nischapur und der Metropolregion Maschhad. Bekannt als das Dach von Khorasan, ist dieses Bergmassiv für seine ausgedehnten Sommerweiden berühmt, auf denen lokale Hirten seit Generationen ihre Herden grasen lassen. Im Winter verwandeln intensive Schneefälle die Gipfelregionen in weiße Landschaften, deren Schmelzwasser im Frühjahr lebenswichtige Bäche speist, die die landwirtschaftlichen Gebiete in den umliegenden Tälern mit Wasser versorgen. Die abwechslungsreiche Topografie aus sanften Hügeln, schroffen Felswänden und grünen Flusstälern zieht nicht nur Erholungssuchende aus den Großstädten, sondern auch passionierte Kletterer an. Uralte Bergdörfer an den Ausläufern bewahren die traditionelle Architektur und eine stark verwurzelte Lebensweise der lokalen Bevölkerung.",
+      "factsAdvanced": [
+        "Der Shirbad ist mit 3.321 Metern der höchste Gipfel in der gesamten Provinz Razavi-Khorasan.",
+        "Das Gebirgsmassiv besitzt eine Ausdehnung von etwa 130 Kilometern in nordwestlich-südöstlicher Richtung.",
+        "Die wasserreichen Täler wie Akhlamad sind für ihre Wasserfälle und Apfelplantagen bekannt.",
+        "In den Höhenlagen wachsen zahlreiche Heilkräuter, die von der lokalen Bevölkerung gesammelt werden.",
+        "Das Gebirge ist ein bedeutendes Quellgebiet für Flüsse wie den Atrek und Kaschaf Rud.",
+        "Die Region um Kang wird oft wegen seiner traditionellen Terrassenarchitektur gerühmt."
+      ]
+    },
+    {
+      "id": "shahdad-kaluts-relief-v2",
+      "descriptionAdvanced": "Die Kaluts von Schahdad, gelegen am westlichen Rand der lebensfeindlichen Lut-Wüste, bilden eine surreale Landschaft, die wie die verlassenen Ruinen einer gigantischen prähistorischen Metropole wirkt. Diese sogenannten Yardangs wurden über Jahrtausende hinweg durch die unbarmherzige Kraft starker, sandbeladener Winde tief in das weiche Lehmgestein gefräst. Die massiven Formationen aus verdichtetem Sand, Schlamm und Salz stehen in perfekter Ausrichtung mit der vorherrschenden Windrichtung und werfen bei Sonnenauf- und -untergang extrem lange, kontrastreiche Schatten. Die extremen Umweltbedingungen, mit völligem Mangel an Niederschlag und unerbittlicher Hitze, machen dieses Gebiet zu einem der trockensten und biologisch inaktivsten Orte der Erde. Die völlige Stille und die Weite der bizarren Sandstein-Architektur bieten ein visuelles Erlebnis, das Fotografen und Forscher aus der ganzen Welt fasziniert.",
+      "factsAdvanced": [
+        "Das Gebiet der mächtigen Kaluts erstreckt sich über eine Fläche von rund 11.000 Quadratkilometern.",
+        "Die längsten durchgehenden Yardang-Formationen erreichen eine beeindruckende Länge von bis zu 120 Kilometern.",
+        "Im Sommer können die Temperaturen am Boden der Schluchten auf über 65 Grad Celsius ansteigen.",
+        "Die Winderosion fräste in einigen Abschnitten Furchen von bis zu 100 Metern Tiefe.",
+        "Im Jahr 2016 wurden die Kaluts als Teil der Lut-Wüste zum UNESCO-Weltnaturerbe erklärt.",
+        "Die Formationen bestehen überwiegend aus feinen Sedimentablagerungen eines ausgetrockneten pliozänen Sees."
+      ]
+    },
+    {
+      "id": "alamut-valley-relief-v2",
+      "descriptionAdvanced": "Das sagenumwobene Alamut-Tal verbirgt sich im zerklüfteten Herzen des westlichen Elburs-Gebirges in der Provinz Qazvin. Diese dramatische, tief eingeschnittene Schluchtlandschaft kombiniert atemberaubende natürliche Schönheit mit einer tiefen historischen Mystik. Das isolierte Tal wird vom reißenden Fluss Schahrud durchflossen und ist flankiert von massiven Bergketten und schmalen Terrassen, auf denen seit Jahrhunderten Obstbäume, insbesondere Kirschen und Haselnüsse, kultiviert werden. Historisch erlangte die Region weltweite Berühmtheit durch die Festung von Alamut, dem legendären Hauptsitz der ismailitischen Assassinen-Sekte unter Hassan-i Sabbah im 11. Jahrhundert. Die schwer zugänglichen Felsengipfel dienten einst als uneinnehmbare Burgen. Heute zieht die abgelegene, ländliche Region vor allem Trekking-Begeisterte an, die die schmalen Bergpfade erkunden und die unverfälschte traditionelle Kultur der kleinen Bergdörfer abseits der modernen Zivilisation erleben wollen.",
+      "factsAdvanced": [
+        "Die Burgruine von Alamut thront spektakulär auf einem 2.100 Meter hohen, steilen Felskegel.",
+        "Das Tal liegt etwa 100 Kilometer nordöstlich der alten Safawiden-Hauptstadt Qazvin.",
+        "Die Festung wurde im Jahr 1256 von den vorrückenden mongolischen Heeren unter Hulagu Khan zerstört.",
+        "Der malerische, in der Nähe gelegene See Ovan liegt auf einer Höhe von 1.800 Metern.",
+        "In den tiefen Tälern wachsen weitläufige Wildkirschen- und Haselnusswälder von großer wirtschaftlicher Bedeutung.",
+        "Das raue Klima führt zu monatelang von Schnee blockierten Bergpässen im Winter."
+      ]
+    },
+    {
+      "id": "maranjab-desert-relief-v2",
+      "descriptionAdvanced": "Die Maranjab-Wüste ist ein faszinierendes Wüstengebiet im Zentrum Irans, südlich des ausgetrockneten Salzsees Namak und nahe der historischen Oasenstadt Kaschan. Ihre Landschaft besticht durch einen dynamischen Wechsel zwischen ausgedehnten, goldgelben Sanddünen, harten Kieselebenen und den schneeweißen, blendenden Flächen der Salzebene. Die Wüste war einst eine bedeutende Etappe auf den historischen Seidenstraßen, weshalb Schah Abbas im 17. Jahrhundert eine massive Karawanserei erbauen ließ, die noch heute als imposantes Monument inmitten der Einsamkeit steht. Trotz der harschen Trockenheit beheimatet Maranjab eine erstaunlich widerstandsfähige Flora aus Halophyten und endemischen Büschen, die wiederum einer Vielzahl von Tieren wie Sandfüchsen, Wölfen und verschiedenen Reptilienarten Lebensraum bietet. Die leichte Zugänglichkeit macht die Maranjab-Wüste zu einem der beliebtesten Orte für iranische Touristen, um in den Wintermonaten Wüstensafaris und Sternenbeobachtungen zu erleben.",
+      "factsAdvanced": [
+        "Die historische Maranjab-Karawanserei wurde im Jahr 1603 als Schutzposten und Rastplatz errichtet.",
+        "Die höchsten Wanderdünen der Region können Höhen von etwa 70 Metern erreichen.",
+        "Der angrenzende Namak-Salzsee erstreckt sich über eine Fläche von fast 1.800 Quadratkilometern.",
+        "Die Karawanserei liegt auf einer durchschnittlichen Höhe von 850 Metern über dem Meeresspiegel.",
+        "Das Gebiet schützt isolierte Populationen seltener Asiatischer Halbesel in den Randgebieten.",
+        "Die mittlere jährliche Niederschlagsmenge in der Region fällt selten höher als 100 Millimeter aus."
+      ]
+    },
+    {
+      "id": "caspian-coast-iran-relief-v2",
+      "descriptionAdvanced": "Die kaspische Küstenregion Irans bildet einen radikalen landschaftlichen Kontrast zum Rest des größtenteils ariden Landes. Durch die orografische Barriere des Elburs-Gebirges regnen sich feuchte Luftmassen aus dem Norden ab und verwandeln den schmalen Küstenstreifen in eine smaragdgrüne, subtropische Zone. Diese fruchtbare Ebene ist überzogen von dichten, uralten hyrkanischen Wäldern, ausgedehnten Reisfeldern, Teeplantagen und Zitrusfrucht-Gärten. Das Kaspische Meer, der größte Binnensee der Erde, bietet nicht nur wirtschaftliche Grundlage durch den Kaviar- und Störfang, sondern beeinflusst auch maßgeblich die Kultur und Architektur der Küstenstädte in den Provinzen Gilan, Mazandaran und Golestan. Das feuchtwarme Klima und die üppige Vegetation machen die Region zum wichtigsten Erholungs- und Urlaubsziel für die Bewohner des iranischen Hochlands, die im Sommer der erdrückenden Trockenheit der Wüstenstädte entfliehen wollen.",
+      "factsAdvanced": [
+        "Die Küstenlinie am Kaspischen Meer zieht sich im Iran über eine Länge von 740 Kilometern.",
+        "Die Wasseroberfläche liegt derzeit etwa 28 Meter unter dem durchschnittlichen globalen Meeresspiegel.",
+        "Die hyrkanischen Wälder der Region wurden im Jahr 2019 in die UNESCO-Weltnaturerbeliste aufgenommen.",
+        "In Städten wie Ramsar fällt ein Jahresniederschlag von beachtlichen 1.200 bis 1.500 Millimetern.",
+        "Die Gewässer sind der Lebensraum für rund 90 Prozent des weltweiten Beluga-Stör-Bestandes.",
+        "Die fruchtbare Ebene produziert den größten Teil des inländischen Reises und Tees."
+      ]
+    },
+    {
+      "id": "persian-gulf-coast-relief-v2",
+      "descriptionAdvanced": "Die iranische Küstenlinie am Persischen Golf ist eine faszinierende, heiß-feuchte Region, die sich vom Mündungsdelta des Arvand Rud im Westen bis zur strategisch wichtigen Straße von Hormus erstreckt. Im krassen Gegensatz zu den nördlichen Wäldern wird diese Küste von zerklüfteten Kalksteinfelsen, einsamen Sandstränden und endlosen Wattenmeeren geprägt. Eine der größten ökologischen Besonderheiten sind die Hara-Mangrovenwälder nahe der Insel Qeschm, die ein einzigartiges, an Salzwasser angepasstes Ökosystem darstellen und unzähligen Zugvögeln als lebenswichtiger Rastplatz dienen. Die Hafenstädte entlang der Küste, wie Bandar Abbas und Buschehr, weisen eine eigene, stark von afrikanischen, arabischen und indischen Einflüssen geprägte Architektur und Kultur auf, die in den traditionellen Windtürmen und der einheimischen Musik zum Ausdruck kommt. Das Meeresbecken selbst ist aufgrund seiner reichen Meeresfauna und der immensen Erdölvorkommen von globaler geopolitischer Bedeutung.",
+      "factsAdvanced": [
+        "Die südliche iranische Küstenlinie erstreckt sich über eine beeindruckende Länge von fast 1.250 Kilometern.",
+        "Die Hara-Biosphärenreservate bedecken ein Gebiet von schätzungsweise 85.000 Hektar im Meeresgebiet.",
+        "Im Hochsommer können die gefühlten Temperaturen durch die extreme Luftfeuchtigkeit auf über 60 Grad Celsius steigen.",
+        "Die Insel Qeschm in dieser Küstenzone ist mit 1.491 Quadratkilometern die größte Insel des Golfs.",
+        "Das Küstengewässer beherbergt große Populationen des gefährdeten Indopazifischen Buckeldelfins.",
+        "Etwa ein Fünftel des global gehandelten Erdöls passiert täglich die angrenzende Straße von Hormus."
+      ]
+    }
+  ]
+}

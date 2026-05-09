@@ -1,0 +1,345 @@
+{
+  "lang": "en",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "stabroek-market-landmarks-v2",
+      "descriptionAdvanced": "The Stabroek Market, located on the banks of the Demerara River in Georgetown, is the commercial heart of the city and has been for over 140 years. Its iconic cast-iron clock tower, designed in the Victorian style, was inaugurated in 1881 and serves as a central landmark for both locals and visitors. The market houses a vast variety of goods, ranging from fresh local agricultural produce to intricate handicrafts. The complex metal structure was a major engineering feat for its time, reflecting the port's commercial importance during the colonial era. It remains a vibrant hub where the authentic spirit of Guyanese commerce thrives every day. Sachkunde K5 — commerce and public markets.",
+      "factsAdvanced": [
+        "Officially inaugurated in the year 1881.",
+        "The cast-iron structure weighs several hundred tons.",
+        "It spans an area of nearly 7,000 square meters.",
+        "The clock mechanism was imported specially from England.",
+        "The site has been used for commercial activities since the 18th century.",
+        "It remains the busiest commercial area in Georgetown."
+      ]
+    },
+    {
+      "id": "parliament-building-guyana-landmarks-v2",
+      "descriptionAdvanced": "The Parliament Building in Georgetown is a striking Renaissance-style edifice that stands as the center of political life in Guyana. Completed in 1834, the structure houses the country's National Assembly and a valuable collection of historical documents. Designed by Joseph Hadfield, the building reflects the symmetrical balance of 19th-century British administrative architecture, serving as a symbol of democracy and national development. It is strategically located near the central market, highlighting the historical link between administration and commerce in the nation's capital. Geschichte K8 — democratic institutions.",
+      "factsAdvanced": [
+        "Construction took approximately five years, finishing in 1834.",
+        "The building is officially protected as a national monument.",
+        "Inside, there is a statue of Queen Victoria.",
+        "It serves as the seat of the National Assembly, Guyana's supreme legislative body.",
+        "Designed by architect Joseph Hadfield.",
+        "A definitive example of colonial administrative architecture."
+      ]
+    },
+    {
+      "id": "umana-yana-landmarks-v2",
+      "descriptionAdvanced": "Umana Yana, which in the indigenous Wai-Wai language means 'Meeting Place of the People', is a traditional benab and a key symbol of Guyana's indigenous culture. Originally built for the 1972 Non-Aligned Nations Summit, the structure is crafted entirely from plant materials—wood, palm leaves, and vines—without the use of nails. This construction technique showcases the technical mastery of the Wai-Wai tribe. Today, the benab hosts important cultural events, acting as a bridge between ancestral traditions and modern life. Geschichte K6 — indigenous cultures.",
+      "factsAdvanced": [
+        "The roof contains over 500,000 palm leaves.",
+        "The structure reaches a height of 16 meters.",
+        "It was originally raised for the 1972 Non-Aligned Summit.",
+        "Built without the use of metal nails.",
+        "Represents the traditional architectural heritage of indigenous people from southern Guyana.",
+        "It has been rebuilt several times following fires."
+      ]
+    },
+    {
+      "id": "1763-monument-landmarks-v2",
+      "descriptionAdvanced": "The 1763 Monument in Georgetown commemorates the Berbice slave rebellion, a crucial movement for the Guyanese people's desire for freedom. The bronze statue depicts the national hero Cuffy, the leader of the revolt, who defied colonial authority for over a year. Unveiled in 1976 on the tenth anniversary of independence, the monument was created by the self-taught sculptor Philip Moore. It represents resistance, the fight for identity, and the success of modern Guyana's independence. It stands in the Square of the Revolution, reminding citizens of the hard-fought battles for their identity. Geschichte K8 — slave rebellions.",
+      "factsAdvanced": [
+        "Officially unveiled in the year 1976.",
+        "The work of Guyanese artist Philip Moore.",
+        "The bronze statue weighs approximately 10 tons.",
+        "Cuffy is celebrated as the father of the Guyanese nation.",
+        "The revolt lasted over a year, between 1763 and 1764.",
+        "Located in the Square of the Revolution, a site of historical importance."
+      ]
+    },
+    {
+      "id": "victoria-law-courts-guyana-landmarks-v2",
+      "descriptionAdvanced": "The Victoria Law Courts in Georgetown are one of the finest surviving examples of 19th-century colonial wooden architecture, serving as a pillar of Guyana's judicial system. Inaugurated in 1887, the building impresses with its detailed facade, often captured in photographs by visitors for its elegant structure. The statue of Queen Victoria, placed in front of the courthouse, marks the deep historical link with the British colonial era. This building is not just a center of justice but also a vital piece of the city's historical architectural heritage. Sachkunde K8 — legal systems and history.",
+      "factsAdvanced": [
+        "Inaugurated in 1887 to house the judicial system.",
+        "The Queen Victoria statue in front was erected in the early 1890s.",
+        "The building was designed to serve as the seat of the Supreme Court.",
+        "The wooden structure is remarkably well-preserved over time.",
+        "The gardens in front of the court provide a vital green space in the city center.",
+        "It combines representative colonial style with practical judicial needs."
+      ]
+    },
+    {
+      "id": "city-hall-georgetown-landmarks-v2",
+      "descriptionAdvanced": "Georgetown City Hall is an architectural jewel in the neo-Gothic style, widely considered one of the most beautiful wooden buildings in the Caribbean region. Completed in 1889 from plans by architect Ignatius Scoles, the building remains the seat of city administration and a symbol of civic pride for the capital. While the tropical climate imposes constant maintenance challenges, the structure has endured for over 130 years, retaining its detailed turrets and refined carvings. It is a protected national monument, preserving the legacy of Victorian engineering for future generations. Földrajz K7 — architecture and cityscape.",
+      "factsAdvanced": [
+        "Construction took nearly a decade to finish.",
+        "Ignatius Scoles designed this neo-Gothic masterpiece.",
+        "It remains the seat of the mayor and the city council.",
+        "Often cited as one of the most beautiful wooden buildings in the world.",
+        "Protected as a national monument.",
+        "The light colors and delicate carvings are characteristic styles of the era."
+      ]
+    },
+    {
+      "id": "providence-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Providence Stadium in Guyana is the country's largest sports arena, built specifically to host matches for the 2007 Cricket World Cup. With a seating capacity of 15,000, the arena is the heart of national sports, frequently hosting international cricket matches and major cultural events. Located on the outskirts of Georgetown, the stadium significantly boosted the country's sports infrastructure and attracts fans from across the Caribbean region. This facility represents Guyana's ambition to integrate into the global sports circuit and participate in major international events. Sport K6 — international sports events.",
+      "factsAdvanced": [
+        "Construction was completed in less than two years.",
+        "Built specifically for the 2007 Cricket World Cup.",
+        "A key regional base for the West Indies cricket team.",
+        "Equipped with modern lighting for night matches.",
+        "Hosts not only cricket but also concerts and political rallies.",
+        "The design considers specific tropical climatic conditions."
+      ]
+    },
+    {
+      "id": "demerara-harbour-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Demerara Harbour Bridge is a technical masterpiece and a vital transport artery that crosses the Demerara River near Georgetown. Opened in 1978, this floating pontoon bridge connects the capital with the densely populated West Bank Demerara area, serving thousands of commuters daily. The bridge's uniqueness lies in its ability to adapt to water levels and tidal cycles, making it one of the most fascinating engineering structures in the region. This link is indispensable for Guyana's infrastructure and economic life, standing as a testament to the country's engineering adaptability. Földrajz K7 — infrastructure.",
+      "factsAdvanced": [
+        "The total length of the bridge is approximately 1.85 kilometers.",
+        "Supported by over 60 floating pontoons.",
+        "The bridge can be partially opened for river navigation.",
+        "Used daily by thousands of vehicles for road transport.",
+        "One of the oldest operational floating bridges of this type in the world.",
+        "Its maintenance is an engineering task that requires continuous expertise."
+      ]
+    },
+    {
+      "id": "berbice-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Berbice Bridge, completed in 2008, is a strategic pontoon bridge that crosses the Berbice River, connecting Guyana's eastern regions. Measuring over 1.5 kilometers long, the bridge drastically reduced travel time between New Amsterdam and Rosignol, facilitating regional economic integration and freight transport. The structure stands as a symbol of modern progress in Guyana's infrastructure, replacing a slow and inefficient ferry crossing. The project is also a success story for public-private partnership in the country's construction sector. Wirtschaft K8 — infrastructure development.",
+      "factsAdvanced": [
+        "Project completed in the year 2008.",
+        "Structure supported by a large number of steel pontoons.",
+        "Key route for heavy freight transport.",
+        "The section over the main navigation channel is specially reinforced.",
+        "Serves as the main route for exporting agricultural products from the region.",
+        "Successfully replaced the old, slow ferries that operated on the river."
+      ]
+    },
+    {
+      "id": "state-house-guyana-landmarks-v2",
+      "descriptionAdvanced": "State House in Georgetown serves as the official residence of the President of Guyana and is one of the capital's most emblematic historic buildings. Built in 1858, this stately wooden building exemplifies 19th-century Caribbean colonial architecture, featuring spacious verandas and a harmonious structure. Originally built for the British governor, the house has become a symbol of national sovereignty, hosting political events and official receptions of primary importance. Surrounded by a well-maintained garden, it remains an integral part of the city's green and historic center. Geschichte K8 — political history.",
+      "factsAdvanced": [
+        "Built in its original form in the year 1858.",
+        "Served as the residence of the governor during the British colonial era.",
+        "Today functions as the official residence of the country's President.",
+        "Wide verandas are characteristic of the wooden architecture of that era.",
+        "Officially protected as a national heritage site.",
+        "Frequent location for state receptions and official events."
+      ]
+    },
+    {
+      "id": "guyana-national-museum-landmarks-v2",
+      "descriptionAdvanced": "Established in 1868, the Guyana National Museum is the most important site showcasing the country's natural and cultural treasures. The museum's collections offer a comprehensive view of Guyana's unique flora and fauna, as well as artifacts from the indigenous and colonial periods that have shaped the country's history. The institution acts as a living archive where visitors and researchers alike can deepen their understanding of the nation's complex identity. Through its educational programs, the museum plays a critical role in fostering interest among young generations in the national heritage. Sachkunde K5 — science and museums.",
+      "factsAdvanced": [
+        "Founded in 1868 in the heart of Georgetown.",
+        "Its ornithology collection is internationally recognized.",
+        "Holds valuable artifacts from early settlement periods.",
+        "Educational programs are frequently visited by school groups.",
+        "The building is an important element of 19th-century architecture.",
+        "Geological collection illustrates the country's mining past."
+      ]
+    },
+    {
+      "id": "walter-roth-museum-landmarks-v2",
+      "descriptionAdvanced": "The Walter Roth Museum in Georgetown is a center dedicated to anthropology that protects the history and traditions of the country's indigenous peoples. Housed in a historical wooden building, the museum showcases through valuable exhibits the lifestyle, tools, and art of indigenous communities. Opened in 1974, the museum plays a fundamental role in conserving and appreciating indigenous heritage. It is a recommended destination for anyone wishing to gain authentic insight into the century-old cultural diversity and deep roots of Guyana. Geschichte K6 — anthropology.",
+      "factsAdvanced": [
+        "Inaugurated in 1974 as the first museum of its kind in the Caribbean.",
+        "Named after the anthropologist Walter Edmund Roth.",
+        "The collection includes traditional tools, pottery, and folk art.",
+        "Recognized as a research center at an international level.",
+        "Architecture reflects the traditional construction style of 19th-century Guyana.",
+        "Regularly organizes workshops to promote indigenous history."
+      ]
+    },
+    {
+      "id": "castellani-house-landmarks-v2",
+      "descriptionAdvanced": "Castellani House is an architectural jewel that houses the National Art Gallery of Guyana. Designed by architect Cesar Castellani, the building was once the residence of Prime Ministers, later transforming into the center of national artistic life, exhibiting everything from historical to contemporary works. The aesthetic environment of the house, surrounded by gardens, makes it one of the capital's most important cultural locations. It is a remarkable example of how historic residences can take on new cultural roles, remaining crucial for national identity. Földrajz K7 — art and galleries.",
+      "factsAdvanced": [
+        "The National Art Gallery opened in the building in 1993.",
+        "Named after the architect Cesar Castellani.",
+        "The lush tropical garden is one of the main attractions.",
+        "Regularly hosts art exhibitions and cultural festivals.",
+        "Building is noted for high ceilings and wide, open verandas.",
+        "Important example of the cultural reconversion of former government buildings."
+      ]
+    },
+    {
+      "id": "non-aligned-monument-guyana-landmarks-v2",
+      "descriptionAdvanced": "The Non-Aligned Monument in Georgetown is a historical memento of Guyana's diplomatic commitment on the international stage. Unveiled in 1972, the monument features the busts of four prominent heads of state, symbolizing the country's desire to follow its own diplomatic path after independence. The creation recalls the era of geopolitical realignment and the search for national identity in the second half of the 20th century. Centrally located, the monument is easy to visit and is a must-see for visitors interested in world political history. Geschichte K8 — international politics.",
+      "factsAdvanced": [
+        "The four heads of state are Nehru, Nasser, Nkrumah, and Tito.",
+        "Erected for the Non-Aligned Summit in Georgetown.",
+        "A symbol of aspirations for diplomatic independence.",
+        "A popular photo spot for tourists in the city center.",
+        "Demonstrates Guyana's political influence in the 1970s.",
+        "The busts are precisely crafted in honor of the movement's founders."
+      ]
+    },
+    {
+      "id": "kamana-court-red-house-landmarks-v2",
+      "descriptionAdvanced": "The Red House, also known as Kamana Court, in Georgetown, is a historic wooden building with a striking red facade, becoming an iconic visual element of the city. Built in the 19th century, the house once served as a residence for Prime Ministers, boasting a rich political history. Today, it houses the Cheddi Jagan Research Centre, which preserves vital documents about the country's political development and the legacy of the former president. The meticulously restored building serves not only as an architectural monument but also as a living archive of national history. Geschichte K8 — political history.",
+      "factsAdvanced": [
+        "The house's red color is a distinctive feature of the urban landscape.",
+        "The building has been restored to preserve its historical character.",
+        "Cheddi Jagan was one of Guyana's most influential political figures.",
+        "The center preserves important documents about post-independence political development.",
+        "The wooden construction is a remarkable example of traditional Georgetown style.",
+        "A popular destination for city historical tours."
+      ]
+    },
+    {
+      "id": "arthur-chung-conference-centre-landmarks-v2",
+      "descriptionAdvanced": "The Arthur Chung Conference Centre in Liliendaal is a modern and essential landmark for Guyana's diplomacy and international cooperation. Funded by a Chinese government grant and named after Arthur Chung, the country's first president, the center symbolizes the growing importance of Guyana on the global stage. Modern design and functional facilities provide the perfect setting for summits and conferences. As a symbol of modernity and international collaboration, it plays a central role in the diplomatic life of the Guyanese capital. Földrajz K7 — modern architecture and diplomacy.",
+      "factsAdvanced": [
+        "One of the most technologically advanced centers in the region.",
+        "Frequently used for meetings of the Caribbean Community (CARICOM).",
+        "Architecture combines functional modernity with generous spaces.",
+        "Arthur Chung was the first president of Chinese descent of a non-Asian country.",
+        "Building is surrounded by extensive green spaces.",
+        "An important symbol of the good bilateral relations between China and Guyana."
+      ]
+    },
+    {
+      "id": "georgetown-cenotaph-landmarks-v2",
+      "descriptionAdvanced": "The Georgetown Cenotaph is a moving war memorial dedicated to the fallen heroes of the two world wars. Inaugurated in 1923, it serves as a central place of commemoration, located directly in front of the Bank of Guyana. The monument evokes the sacrifices made by the Guyanese people in the global conflicts of the 20th century. Its simple yet dignified shape makes it an important symbol of peace, commemoration, and national solidarity. It is an integral part of ceremonies commemorating war victims. Geschichte K8 — world wars and memorial culture.",
+      "factsAdvanced": [
+        "Commemoration stone visited annually on national holidays.",
+        "One of the oldest memorials in Georgetown.",
+        "Framed in an ensemble of historical buildings in the city center.",
+        "Reminds us of Guyana's contribution to the British war effort.",
+        "Design is based on classic cenotaph forms.",
+        "Symbolizes dignity and respect for the past."
+      ]
+    },
+    {
+      "id": "fort-zeelandia-guyana-landmarks-v2",
+      "descriptionAdvanced": "The ruins of Fort Zeelandia on Fort Island in the Essequibo River are an impressive witness to the early colonial history of Dutch Guyana. Completed in 1744, the fort served to protect Dutch commercial interests in the Essequibo colony. Today, only the ruins of the fort and the adjacent 'Court of Policy' can be seen, considered the most important historical sites from that era. A visit to the island offers a fascinating glimpse into a period when the Essequibo River was the main trade route. These remains are an example of colonial defensive architecture from the 18th century. Geschichte K6 — colonial era.",
+      "factsAdvanced": [
+        "Was the most important defense facility of the Essequibo colony.",
+        "Fort Island is now an essential destination for cultural tourists.",
+        "Walls were built from bricks imported from Holland.",
+        "Fort Zeelandia played a central role in the trade of sugar and other goods.",
+        "One of the best-preserved ruins from the Dutch colonial era.",
+        "Site is protected as a national monument."
+      ]
+    },
+    {
+      "id": "court-of-policy-guyana-landmarks-v2",
+      "descriptionAdvanced": "The Court of Policy on Fort Island, located next to Fort Zeelandia, is a remarkable historic brick building from the 18th century. As the oldest non-military building in Guyana, it was much more than a simple administrative building: it served as a church, courthouse, and seat of colonial government for the Essequibo region. The robust brick construction reflects the aesthetics and needs of the early settlers. As the historical core of the then colony, it offers valuable insights today into early civil administration and social life in Guyana. Geschichte K6 — early colonial administration.",
+      "factsAdvanced": [
+        "A key place for researching Guyanese administrative history.",
+        "Building has been restored as a national monument.",
+        "Testifies to the importance of the Essequibo River as a trade center.",
+        "Architecture follows Dutch building traditions of the 18th century.",
+        "Today it is a museum illustrating the colonial era.",
+        "Historical importance dates long before the founding of Georgetown."
+      ]
+    },
+    {
+      "id": "mission-chapel-new-amsterdam-landmarks-v2",
+      "descriptionAdvanced": "The Mission Chapel in New Amsterdam is one of Guyana's most important religious and historical monuments, with a deep connection to the freed enslaved population. Founded in 1819, the chapel was a center of missionary work in the 19th century, where faith and freedom intertwined in the daily lives of oppressed people. The building remains today a symbol of values that offered hope to the community in those difficult times. Beyond its historical significance, the chapel is one of the most beautiful preserved examples of early religious and social centers in the region. Geschichte K8 — slavery and religion.",
+      "factsAdvanced": [
+        "Founded in 1819 to support missionary work.",
+        "Provided a community space for freed slaves.",
+        "Part of the historical architectural heritage of New Amsterdam city.",
+        "Played a significant role in the religious life of the region.",
+        "An important stage of missionary work in eastern Guyana.",
+        "Building is a memorial of resilience and community unity."
+      ]
+    },
+    {
+      "id": "all-saints-anglican-church-guyana-landmarks-v2",
+      "descriptionAdvanced": "All Saints Anglican Church in New Amsterdam is a remarkable religious and architectural landmark of the city. As one of the oldest places of worship in the region, it has served the local community for centuries. Besides its elegant architectural lines, its superb stained-glass windows offer a spectacular aesthetic setting, creating a special atmosphere inside. The church is viewed not just as a religious center, but also as an essential part of the city's cultural life, faithfully preserving the region's Anglican traditions. Földrajz K7 — architecture.",
+      "factsAdvanced": [
+        "One of the oldest Anglican churches in the region.",
+        "Definitive building for the urban landscape in New Amsterdam.",
+        "Features stained glass of remarkable artistic value.",
+        "The community life of local Anglican believers is centered here.",
+        "Architectural design follows the traditional English church architecture.",
+        "Plays an important role in local cultural and community life."
+      ]
+    },
+    {
+      "id": "takutu-river-bridge-landmarks-v2",
+      "descriptionAdvanced": "The Takutu River Bridge is more than just a technical achievement: it is an international link between Guyana and Brazil. Inaugurated in 2009, the bridge connects the towns of Lethem and Bonfim, providing an essential land route between the two countries. A peculiarity of the bridge is the facilitation of the change in traffic rules, as it eases the transition from left-hand driving in Guyana to right-hand driving in Brazil. This facility not only simplifies trade and travel but also symbolizes the cultural and economic closeness of the two neighboring peoples at the edge of the Amazon Basin. Földrajz K7 — transport and international relations.",
+      "factsAdvanced": [
+        "Inaugurated in 2009 for traffic.",
+        "Connects the towns of Lethem (Guyana) and Bonfim (Brazil).",
+        "Offers a special technical solution for the transition between left and right driving.",
+        "Main trade route for the border between Guyana and Brazil.",
+        "Spans the natural border represented by the Takutu River.",
+        "Important symbol of diplomatic and economic cooperation between the two countries."
+      ]
+    },
+    {
+      "id": "linden-soesdyke-highway-monument-landmarks-v2",
+      "descriptionAdvanced": "The Linden-Soesdyke Highway is not just a road, but part of the spine of Guyana's strategic infrastructure, connecting Georgetown with Linden. Monuments and mile markers placed along the route celebrate the importance of the highway built in the late 1960s, which served to open up the interior areas and connect the country's industrial hubs. With a length of 72 kilometers, the route remains today an essential transport artery, critical for the country's economic life. Attractions along the road provide insight into Guyana's construction ambitions and history of overcoming distances. Földrajz K7 — infrastructure.",
+      "factsAdvanced": [
+        "The total length of the highway is 72 kilometers.",
+        "Investment was realized in the late 1960s.",
+        "Provides a strategic connection between Georgetown and Linden.",
+        "One of the main access roads to the interior industrial centers.",
+        "Monuments along the road commemorate the construction of this major project.",
+        "Remains one of the busiest transport arteries in Guyana."
+      ]
+    },
+    {
+      "id": "rose-hall-sugar-estate-landmarks-v2",
+      "descriptionAdvanced": "The Rose Hall Sugar Estate is the agricultural engine of the Berbice region, defining the economic and social life of the area for centuries. The estate is not just one of the bastions of sugar production in Guyana, but provides a living for many local families, while also preserving the historical traditions of the sugar industry. The agricultural work carried out on this vast territory is part of the region's industrial history, where traditional techniques meet modern processing. The estate's existence is a cohesive force for the region's communities, being closely linked to the country's historical commercial foundations. Wirtschaft K8 — agriculture.",
+      "factsAdvanced": [
+        "One of the most important sugar industrial units in the country.",
+        "Ensures stable jobs for thousands of locals.",
+        "Constitutes the economic backbone of the Berbice region.",
+        "Preserves historical traditions of sugar production in the region.",
+        "Vast area of the plantation is a defining element of the landscape.",
+        "Plays an important role in Guyana's export sector."
+      ]
+    },
+    {
+      "id": "st-andrews-kirk-guyana-landmarks-v2",
+      "descriptionAdvanced": "St. Andrew's Kirk in Georgetown is the oldest church in the capital, used continuously for services since its founding in 1818. Its historical importance lies in the fact that it was the first church in Guyana to open its doors to slaves, defying the unjust social limitations of the era. The building remains one of the most important spiritual and community centers in the city, faithfully preserving old Scottish Presbyterian traditions. Its simplicity and durability make this church an important and quiet island in the city's historic center. Geschichte K8 — slavery and church history.",
+      "factsAdvanced": [
+        "Inaugurated in 1818 for believers.",
+        "First church in Guyana to allow access to slaves.",
+        "Oldest church in the capital, used continuously.",
+        "Historical symbol of the Scottish community and Presbyterian heritage.",
+        "One of the historical buildings of the city center.",
+        "Played an important role in early manifestations of human rights."
+      ]
+    },
+    {
+      "id": "promenade-gardens-georgetown-landmarks-v2",
+      "descriptionAdvanced": "Promenade Gardens is one of the most peaceful historic parks in Georgetown, offering relaxation to residents and travelers in the bustling heart of the city. The garden is known not only for its exotic plants and traditional bandstand, but also for its dark historical past: it was the site of executions during the slave rebellion of 1823. Today, the garden is a place of memory and quiet, where well-maintained surroundings and historical monuments promote the importance of peace. Visiting the park offers visitors the chance to encounter Guyana's natural beauties and difficult historical memories simultaneously. Geschichte K8 — slave struggles.",
+      "factsAdvanced": [
+        "Was the site of executions during the 1823 slave rebellion.",
+        "Features a traditional bandstand in the central part.",
+        "Offers a peaceful and quiet retreat in the city center.",
+        "Important historical monuments are found in the park.",
+        "Vegetation showcases the region's tropical flora.",
+        "The site is an important point of memory and peaceful reflection."
+      ]
+    },
+    {
+      "id": "pegasus-hotel-georgetown-landmarks-v2",
+      "descriptionAdvanced": "The Pegasus Hotel building in Georgetown is one of the city's best-known modern landmarks, being unmistakable for its circular shape. Opened in 1969, the hotel has been for decades the hub of urban hospitality and business life, symbolizing the rise of modern architecture in the Caribbean capital. Recent modernization and state-of-the-art additions ensure that the building continues to represent the highest standards while retaining its historical role. The hotel is a defining element of the urban landscape, embodying the comfort and international standards of modern Guyana. Földrajz K7 — modern architecture.",
+      "factsAdvanced": [
+        "Opened in 1969.",
+        "The circular structure of the building offers an iconic view.",
+        "One of the oldest and most prestigious modern hotels in the city.",
+        "Underwent significant development in recent years.",
+        "Symbol of modern Guyanese hospitality.",
+        "One of the most important accommodation locations for business travelers and tourists."
+      ]
+    },
+    {
+      "id": "cjia-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "The Cheddi Jagan Airport Terminal is Guyana's main air gateway, being the most important physical symbol of the country's global connectivity. Originally built as a US military base, the airport has undergone significant modernization to meet the demands of growing international passenger traffic. The terminal is the first point of contact for visitors arriving in the country, reflecting the image of modern and developing Guyana. The airport plays a crucial role in building economic relations and stimulating tourism, connecting Guyana with the wider world. Földrajz K7 — transport.",
+      "factsAdvanced": [
+        "Initially operated as a US military base.",
+        "Terminal of the country's largest international airport.",
+        "Recently went through a comprehensive modernization process.",
+        "It is the first and most important entry point for international travelers.",
+        "Plays a decisive role in the growth of Guyanese tourism and economy.",
+        "The building reflects the technological and infrastructural development of modern Guyana."
+      ]
+    }
+  ]
+}

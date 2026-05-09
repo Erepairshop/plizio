@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "porto-sal-rei-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Sal Rei auf Boa Vista ist ein zentraler Ankerpunkt für die wachsende touristische Infrastruktur der Insel. Er dient primär der Abwicklung des Warenverkehrs, der zur Versorgung der zahlreichen Hotelkomplexe und der lokalen Bevölkerung notwendig ist, und trägt maßgeblich zur wirtschaftlichen Entwicklung bei. Die Anlage wurde so konzipiert, dass sie sowohl den Bedarf der Tourismusindustrie abdeckt als auch lokale Handelsaktivitäten und den maritimen Austausch mit anderen Inseln des Archipels ermöglicht.",
+      "factsAdvanced": [
+        "Wichtiger Versorgungshafen für Boa Vista",
+        "Zentrale Infrastruktur für die Hotellerie",
+        "Unterstützt die wirtschaftliche Entwicklung",
+        "Fördert den lokalen Handel auf der Insel",
+        "Ausgelegt auf mittlere Frachtkapazitäten",
+        "Schlüsselkomponente für den Inseltourismus"
+      ]
+    },
+    {
+      "id": "porto-tarrafal-sn-economic-v2",
+      "descriptionAdvanced": "Der Hafen in Tarrafal auf São Nicolau ist der wirtschaftliche Motor der Insel und spielt eine entscheidende Rolle bei der Anbindung an den nationalen Warenverkehr. Als bedeutender Stützpunkt für die Fischereiindustrie und die Lagerung von Tiefkühlprodukten sichert er die wirtschaftliche Basis der lokalen Gemeinschaft. Zudem ist er über regelmäßige Fährverbindungen mit Sal und São Vicente verknüpft, was für die Mobilität von Waren und Personen auf der Insel absolut unerlässlich ist.",
+      "factsAdvanced": [
+        "Wirtschaftliches Zentrum von São Nicolau",
+        "Wichtiger Standort der nationalen Fischerei",
+        "Zentrum für Tiefkühl-Logistik",
+        "Regelmäßige Fährverbindungen zu den Nachbarinseln",
+        "Sichert die Versorgung der Inselgemeinde",
+        "Essenziell für den lokalen Warenexport"
+      ]
+    },
+    {
+      "id": "porto-da-furna-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Furna ist die einzige maritime Lebensader für die abgelegene Insel Brava, die aufgrund ihrer isolierten Lage fast vollständig auf eine funktionierende Schiffsanbindung angewiesen ist. Er dient als primärer Anlaufpunkt für die Versorgung der lokalen Bevölkerung mit lebenswichtigen Gütern und als Anlegestelle für die Schnellfähren aus Fogo. Die Bedeutung dieses kleinen Hafens für den täglichen Bedarf der Insulaner und den Austausch mit dem restlichen Archipel kann kaum überschätzt werden.",
+      "factsAdvanced": [
+        "Einzige maritime Versorgungsroute für Brava",
+        "Primäre Anlegestelle für Fähren aus Fogo",
+        "Lebenswichtig für die tägliche Versorgung",
+        "Sichert den Austausch mit dem Archipel",
+        "In einem geschützten Naturhafen gelegen",
+        "Zentral für die lokale Infrastruktur"
+      ]
+    },
+    {
+      "id": "porto-ingles-maio-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Porto Inglês ist das maritime Herzstück der Insel Maio und blickt auf eine lange Tradition im Salzhandel zurück. Heute dient er vor allem der Versorgung der lokalen Inselwirtschaft und der Unterstützung der Fischereigemeinschaft. Dank modernisierter Anlagen bietet er eine verbesserte Infrastruktur für den Personenverkehr und trägt wesentlich dazu bei, die isolierte Insel besser in den nationalen Wirtschaftsraum einzubinden sowie nachhaltige Entwicklungsmöglichkeiten zu fördern.",
+      "factsAdvanced": [
+        "Historisch bedeutend für die Salzgewinnung",
+        "Zentraler Punkt für die Fischerei",
+        "Modernisierte Anlagen für den Personenverkehr",
+        "Wichtiger Ankerpunkt für Insel-Versorgung",
+        "Fördert lokale Wirtschaftsaktivitäten",
+        "Maritime Anbindung für die Insel Maio"
+      ]
+    },
+    {
+      "id": "cabnave-shipyard-economic-v2",
+      "descriptionAdvanced": "Die Cabnave-Schiffswerft in Mindelo ist eine der bedeutendsten industriellen Einrichtungen auf den Kapverden und spezialisiert auf professionelle Reparaturdienste für Schiffe, die den mittleren Atlantik befahren. Als zentraler Arbeitgeber auf São Vicente spielt das Unternehmen eine Schlüsselrolle für die lokale Wirtschaft und den Erhalt maritimer Fachkenntnisse in der Region. Die Werft bietet eine moderne Infrastruktur, einschließlich technischer Slipanlagen, und ist damit ein verlässlicher Partner für die nationale und internationale Schifffahrt.",
+      "factsAdvanced": [
+        "Größte Schiffswerft der Kapverden",
+        "Spezialisiert auf Schiffsreparaturen",
+        "Wichtiger Arbeitgeber auf São Vicente",
+        "Moderne mechanische Slipanlagen",
+        "Dienstleister für die internationale Schifffahrt",
+        "Zentrum für maritime Expertise"
+      ]
+    }
+  ]
+}

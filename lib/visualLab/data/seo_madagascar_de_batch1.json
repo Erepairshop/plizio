@@ -1,0 +1,249 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "antsirabe-cities-v2",
+      "descriptionAdvanced": "Antsirabe liegt im zentralen Hochland und verbindet kühles Klima mit einer klaren Kolonialgeschichte. Die Stadt wurde 1872 von dem norwegischen Missionar T. G. Rosaas gegründet und entwickelte sich rasch zu einem Kur- und Industriestandort. Thermalquellen, die Star-Brauerei, die Textilbetriebe und die bunten Pousse-Pousse prägen bis heute das Bild der Straßen. Mit ihrer Lage auf rund 1.500 Metern ist Antsirabe ein wichtiger Markt für Gemüse, Kartoffeln und Handwerk aus dem Umland. Geografie K6 — Hochlandstädte und Siedlungsräume.",
+      "factsAdvanced": [
+        "1872 von T. G. Rosaas gegründet",
+        "Auf rund 1.500 Metern Höhe gelegen",
+        "Drittgrößte Stadt Madagaskars",
+        "Star-Brauerei seit 1953 in Betrieb",
+        "Hôtel des Thermes wurde 1897 erbaut",
+        "Mehr als 3.000 Pousse-Pousse im Stadtbild"
+      ]
+    },
+    {
+      "id": "fianarantsoa-cities-v2",
+      "descriptionAdvanced": "Fianarantsoa gilt als kulturelles und geistiges Zentrum des Betsileo-Landes. Die Stadt wurde 1830 von Königin Ranavalona I. gegründet und ist in drei Ebenen gegliedert: Haute-Ville, Mittelstadt und Unterstadt. Die Altstadt mit ihren Kirchen, Treppen und Backsteinhäusern erzählt viel über die Geschichte des Hochlands, während im unteren Teil Handel, Schulen und Verwaltung zusammenlaufen. Fianarantsoa ist außerdem ein wichtiger Ort für den madagassischen Weinbau und Ausgangspunkt der 163 Kilometer langen FCE-Bahn nach Manakara. Geschichte K7 — Stadtentwicklung und Verkehr.",
+      "factsAdvanced": [
+        "1830 von Königin Ranavalona I. gegründet",
+        "In Haute-Ville, Mittelstadt und Unterstadt gegliedert",
+        "Ausgangspunkt der 163 Kilometer langen FCE-Bahn",
+        "Die FCE wurde zwischen 1926 und 1936 gebaut",
+        "Zentrum des Betsileo-Landes",
+        "Bekannt für Weinbau mit Lazan'i Betsileo"
+      ]
+    },
+    {
+      "id": "mahajanga-cities-v2",
+      "descriptionAdvanced": "Mahajanga liegt am Kanal von Mosambik und verbindet Hafenwirtschaft mit einem entspannten Küstenbild. Die Stadt steht an der Mündung des Betsiboka und ist seit Langem ein Treffpunkt für Handelswege aus dem Norden und Westen der Insel. Arabische, indische und madagassische Einflüsse mischen sich hier im Alltag, in den Märkten und an der Promenade. Der Hafen, der Flughafen Amborovy und die Nähe zum Ankarafantsika-Nationalpark machen Mahajanga zu einem wichtigen Knotenpunkt zwischen Meer, Flussdelta und Savanne. Geografie K7 — Küstenstädte und Hafenräume.",
+      "factsAdvanced": [
+        "An der Mündung des Betsiboka gelegen",
+        "Wichtiger Hafen am Kanal von Mosambik",
+        "Über 700 Jahre alter Baobab im Zentrum",
+        "Ehemals Hauptstadt des Boina-Königreichs",
+        "Mischung aus arabischen und indischen Einflüssen",
+        "Flughafen Amborovy als regionaler Knotenpunkt"
+      ]
+    },
+    {
+      "id": "toliara-cities-v2",
+      "descriptionAdvanced": "Toliara, oft auch Tuléar genannt, ist das sonnige Zentrum des madagassischen Südwestens. Die Stadt liegt direkt am Kanal von Mosambik und ist geprägt von einem trockenen, heißen Klima und der Nähe zum Korallenriff. Toliara dient als wichtiges Handelszentrum für landwirtschaftliche Produkte wie Mais und Baumwolle sowie als Tor zu den Naturwundern des Südens. Die breiten Boulevards und das ozeanografische Museum spiegeln die maritime Bedeutung wider. In der Umgebung befinden sich einzigartige Dornwälder und geschützte Meeresgebiete. Geografie K6 — Trockenregionen und Küstenökosysteme.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Atsimo-Andrefana",
+        "Liegt im sonnigen Südwesten Madagaskars",
+        "Wichtiger Hafen am Kanal von Mosambik",
+        "Zentrum für Mais- und Baumwollhandel",
+        "Heimat des Ozeanografischen Museums",
+        "Tor zum Nationalpark Ifaty und Isalo"
+      ]
+    },
+    {
+      "id": "antsiranana-cities-v2",
+      "descriptionAdvanced": "Antsiranana, früher als Diego Suarez bekannt, besitzt eine der weltweit schönsten natürlichen Buchten. Die Stadt im hohen Norden Madagaskars hat eine starke strategische Vergangenheit und war lange Zeit ein französischer Militärstützpunkt. Das Stadtbild ist durch koloniale Architektur und breite Straßen geprägt, die zum tiefblauen Wasser der Bucht führen. Heute ist Antsiranana ein wichtiger Hafen und Ausgangspunkt für Touren zum Montagne d'Ambre und zu den Roten Tsingy. Die Mischung aus maritimem Flair und wilder Natur macht die Region einzigartig. Geschichte K8 — Kolonialgeschichte und Militärstrategie.",
+      "factsAdvanced": [
+        "Früherer Name: Diego Suarez",
+        "Zweitgrößte natürliche Bucht der Welt",
+        "Ehemaliger französischer Flottenstützpunkt",
+        "Nördlichste Großstadt Madagaskars",
+        "Tor zum Nationalpark Montagne d'Ambre",
+        "Strategisch wichtige Lage am Indischen Ozean"
+      ]
+    },
+    {
+      "id": "antanifotsy-cities-v2",
+      "descriptionAdvanced": "Antanifotsy liegt im fruchtbaren Hochland südlich von Antsirabe und ist ein bedeutendes Zentrum für die madagassische Landwirtschaft. Die Region profitiert von vulkanischen Böden und ausreichend Niederschlägen, was sie zu einer wichtigen Kornkammer macht. Vor allem Reis, Kartoffeln und Obst werden hier in großem Stil angebaut und auf die Märkte der Hauptstadt geliefert. Das Leben in Antanifotsy ist eng mit dem Rhythmus der Ernten und den traditionellen Märkten verknüpft, die das soziale Herz der Gemeinde bilden. Geografie K6 — Agrarlandschaften im Hochland.",
+      "factsAdvanced": [
+        "Bedeutendes landwirtschaftliches Zentrum",
+        "Liegt in der Region Vakinankaratra",
+        "Wichtiger Produzent von Reis und Kartoffeln",
+        "Vulkanisch geprägte Böden in der Umgebung",
+        "Zentrum des lokalen Handwerks und Marktwesens",
+        "Wesentlicher Lieferant für Antananarivo"
+      ]
+    },
+    {
+      "id": "ambovombe-cities-v2",
+      "descriptionAdvanced": "Ambovombe ist der Hauptort der Region Androy im tiefen Süden Madagaskars. Die Stadt liegt in einer semiariden Zone, die durch Dornwald und Kakteen geprägt ist. Das Leben hier ist eine Herausforderung, da Wasserknappheit den Alltag bestimmt, doch die Menschen der Antandroy-Kultur haben sich meisterhaft an diese Bedingungen angepasst. Ambovombe dient als wichtiger Marktplatz für Vieh, insbesondere Zebu-Rinder, und ist ein Knotenpunkt für den Handel in der südlichsten Spitze der Insel. Geografie K7 — Anpassung an aride Lebensräume.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Androy",
+        "Im semiariden Süden Madagaskars gelegen",
+        "Zentrum der Antandroy-Kultur",
+        "Wichtiger Handelsplatz für Zebu-Rinder",
+        "Geprägt durch Dornwald-Vegetation",
+        "Herausforderungen durch regelmäßige Dürreperioden"
+      ]
+    },
+    {
+      "id": "amparafaravola-cities-v2",
+      "descriptionAdvanced": "Amparafaravola liegt am nordwestlichen Ufer des Alaotra-Sees und ist eines der wichtigsten Reisanbaugebiete Madagaskars. Die umliegenden Ebenen werden intensiv bewirtschaftet, was der Region den Ruf als 'Reisschüssel' der Insel eingebracht hat. Neben der Landwirtschaft spielt der Fischerei am See eine zentrale Rolle für die lokale Wirtschaft. Die Stadt ist ein geschäftiges Zentrum, in dem die Produkte der fruchtbaren Alaotra-Senke gesammelt und weiterverteilt werden. Die ökologische Bedeutung des Sees macht Amparafaravola auch für den Naturschutz relevant. Geografie K6 — Seenlandschaften und Nassreisanbau.",
+      "factsAdvanced": [
+        "Wichtigstes Reisanbaugebiet am Alaotra-See",
+        "Zentrum der Region Alaotra-Mangoro",
+        "Fischerei als zweites wirtschaftliches Standbein",
+        "Teil der fruchtbaren Alaotra-Senke",
+        "Wichtiger Handelsplatz für Getreide",
+        "Ökologisch sensible Lage am größten See der Insel"
+      ]
+    },
+    {
+      "id": "tolanaro-cities-v2",
+      "descriptionAdvanced": "Tolanaro, besser bekannt als Fort-Dauphin, liegt malerisch auf einer Halbinsel im Südosten Madagaskars. Die Stadt ist von Bergen und dem Meer umgeben und hat eine reiche Geschichte, die bis zu den ersten französischen Siedlungsversuchen im 17. Jahrhundert zurückreicht. Dank des neuen Hafens Ehoala hat Tolanaro eine wirtschaftliche Renaissance erlebt, insbesondere durch den Bergbau und den Export von Mineralien. Das Klima ist hier feuchter als im restlichen Süden, was zu einer üppigen Vegetation und wunderschönen Stränden führt, die Surfer und Naturliebhaber anziehen. Geschichte K7 — Siedlungsgeschichte und moderner Bergbau.",
+      "factsAdvanced": [
+        "Gegründet 1643 als Fort-Dauphin",
+        "Erste französische Siedlung auf Madagaskar",
+        "Moderner Tiefseehafen Ehoala",
+        "Zentrum für den Ilmenit-Bergbau (Rio Tinto)",
+        "Einzigartige Lage zwischen Meer und Gebirge",
+        "Beliebtes Ziel für Surfer und Ökotouristen"
+      ]
+    },
+    {
+      "id": "ambatondrazaka-cities-v2",
+      "descriptionAdvanced": "Ambatondrazaka ist das administrative Zentrum der Region Alaotra-Mangoro und gilt als die eigentliche Reishauptstadt Madagaskars. Die Stadt liegt im Herzen einer riesigen Schwemmlandebene, die durch den Alaotra-See bewässert wird. Hier wird ein erheblicher Teil des nationalen Bedarfs an Reis produziert. Ambatondrazaka ist ein quirliger Ort mit großen Märkten, auf denen Getreide und Fisch gehandelt werden. Die Stadt ist über die Eisenbahnstrecke Moramanga-Lac Alaotra mit dem nationalen Verkehrsnetz verbunden, was den Abtransport der landwirtschaftlichen Güter erleichtert. Geografie K7 — Landwirtschaftliche Großregionen.",
+      "factsAdvanced": [
+        "Administrative Hauptstadt von Alaotra-Mangoro",
+        "Zentrum des madagassischen Reisanbaus",
+        "Liegt in einer weiten Ebene am Alaotra-See",
+        "Angebunden an die MLA-Eisenbahnlinie",
+        "Wichtiger Umschlagplatz für Binnenfischerei",
+        "Versorgungszentrum für das nordöstliche Hochland"
+      ]
+    },
+    {
+      "id": "mananara-avaratra-cities-v2",
+      "descriptionAdvanced": "Mananara Avaratra liegt an der Nordostküste Madagaskars, direkt am Indischen Ozean. Die Stadt ist das Zentrum einer Region, die weltberühmt für ihre Gewürze ist, insbesondere für Vanille und Nelken. Eingebettet in eine üppige tropische Landschaft, grenzt die Stadt an den Mananara-Nord-Nationalpark, der sowohl Regenwälder als auch ein Meeresreservat umfasst. Das Leben in Mananara ist durch den Rhythmus des Meeres und der Gewürzernte geprägt. Die Abgelegenheit der Region hat dazu beigetragen, dass viele traditionelle Bräuche und die einzigartige Artenvielfalt erhalten geblieben sind. Geografie K6 — Tropische Küsten und Agrobiodiversität.",
+      "factsAdvanced": [
+        "Zentrum der Gewürzproduktion (Vanille, Nelken)",
+        "Liegt an der Nordostküste Madagaskars",
+        "Angrenzend an den Mananara-Nord-Nationalpark",
+        "Einzigartige Kombination aus Wald und Meer",
+        "Wichtiger Hafen für den Gewürzexport",
+        "Heimat seltener Lemurenarten wie dem Aye-Aye"
+      ]
+    },
+    {
+      "id": "soavinandriana-cities-v2",
+      "descriptionAdvanced": "Soavinandriana liegt in der zentralen Region Itasy, westlich von Antananarivo. Die Stadt ist bekannt für ihr angenehmes Klima und die fruchtbaren vulkanischen Böden, die den Anbau von Arabica-Kaffee und Tabak ermöglichen. Inmitten einer sanften Hügellandschaft gelegen, ist Soavinandriana ein typisches Beispiel für eine florierende Hochlandstadt, die als Dienstleistungszentrum für die umliegenden Bauernhöfe dient. Die Nähe zum Itasy-See macht die Region auch zu einem beliebten Ausflugsziel, während die lokale Wirtschaft stabil auf dem Export landwirtschaftlicher Qualitätsprodukte basiert. Geografie K7 — Vulkanische Landschaften und Landwirtschaft.",
+      "factsAdvanced": [
+        "Hauptort der Region Itasy",
+        "Bekannt für hochwertigen Arabica-Kaffee",
+        "Vulkanisch geprägte Agrarlandschaft",
+        "Wichtiger Standort für Tabakanbau",
+        "Liegt auf ca. 1.200 Metern Höhe",
+        "Regionales Handelszentrum westlich der Hauptstadt"
+      ]
+    },
+    {
+      "id": "mahanoro-cities-v2",
+      "descriptionAdvanced": "Mahanoro liegt an der Mündung des Mangoro-Flusses an der Ostküste Madagaskars. Die Stadt ist ein wichtiger Knotenpunkt am Canal des Pangalanes, einer künstlich erweiterten Wasserstraße, die sich entlang der Küste zieht. Mahanoro strahlt eine ruhige, maritime Atmosphäre aus und ist geprägt von Kokospalmen und traditionellen Holzhäusern. Der Fluss Mangoro bringt fruchtbare Sedimente mit sich, was die Landwirtschaft in der Umgebung begünstigt. Für Reisende ist die Stadt oft ein wichtiger Halt auf dem Weg in den Süden, da hier der Landweg und die Wasserstraßen aufeinandertreffen. Geografie K6 — Flussmündungen und Wasserwege.",
+      "factsAdvanced": [
+        "Mündungsort des Mangoro-Flusses",
+        "Wichtiger Halt am Canal des Pangalanes",
+        "Liegt an der feuchten Ostküste",
+        "Zentrum für den lokalen Handel mit Kaffee",
+        "Geprägt durch traditionelle Küstenarchitektur",
+        "Knotenpunkt zwischen Straßen- und Bootsverkehr"
+      ]
+    },
+    {
+      "id": "soanierana-ivongo-cities-v2",
+      "descriptionAdvanced": "Soanierana Ivongo ist vor allem als der wichtigste Hafen für die Überfahrt zur Insel Sainte Marie bekannt. Die Stadt liegt an der Ostküste und ist ein geschäftiger Transitort, in dem Reisende auf Fähren und Boote warten. Doch Soanierana Ivongo ist mehr als nur ein Durchgangsort; es ist das Zentrum einer fruchtbaren Küstenebene, in der Nelken und Litschis in großen Mengen angebaut werden. Die Flussmündung des Marimbona bietet einen natürlichen Hafen, der seit Jahrhunderten für den Küstenhandel genutzt wird. Die tropische Vegetation und das warme Klima prägen das täliche Leben der Bewohner. Geografie K7 — Küstenlogistik und Gartenbau.",
+      "factsAdvanced": [
+        "Haupthafen für die Überfahrt nach Sainte Marie",
+        "Mündung des Marimbona-Flusses",
+        "Zentrum des Nelken- und Litschianbaus",
+        "Wichtiger Transitpunkt an der Nationalstraße 5",
+        "Knotenpunkt für den Küstenhandel der Region",
+        "Geprägt durch tropisches Küstenklima"
+      ]
+    },
+    {
+      "id": "faratsiho-cities-v2",
+      "descriptionAdvanced": "Faratsiho ist eine der am höchsten gelegenen Städte Madagaskars und liegt im Ankaratra-Gebirgsmassiv. Auf über 1.700 Metern Höhe gelegen, herrscht hier ein kühles Gebirgsklima, das den Anbau von europäischem Gemüse, Äpfeln und Birnen ermöglicht. Die Landschaft rund um Faratsiho ist spektakulär, geprägt von erloschenen Vulkanen und tiefen Tälern. Die Stadt ist bekannt für ihre fleißigen Bauern und die Produktion von hochwertigem Saatgut. Durch die isolierte Lage im Hochgebirge hat sich Faratsiho eine ganz eigene Identität bewahrt, die sich von den wärmeren Tieflandregionen deutlich unterscheidet. Geografie K8 — Hochgebirgslandwirtschaft und Klima.",
+      "factsAdvanced": [
+        "Eine der höchstgelegenen Städte Madagaskars",
+        "Liegt im Ankaratra-Gebirgsmassiv",
+        "Kühles Klima begünstigt Gemüseanbau",
+        "Zentrum der Apfel- und Birnenproduktion",
+        "Über 1.700 Meter über dem Meeresspiegel",
+        "Traditionelles Zentrum der Merina-Bauern"
+      ]
+    },
+    {
+      "id": "nosy-varika-cities-v2",
+      "descriptionAdvanced": "Nosy Varika liegt isoliert an der südöstlichen Küste Madagaskars, eingebettet zwischen dem Indischen Ozean und dem Canal des Pangalanes. Die Stadt ist oft nur mühsam über Pisten oder per Boot erreichbar, was ihr einen sehr ursprünglichen Charakter bewahrt hat. Die Umgebung ist von dichten Regenwäldern und Sümpfen geprägt, in denen Pfeffer, Kaffee und Vanille gedeihen. Nosy Varika bedeutet übersetzt 'Insel der Lemuren', was auf den einstigen Reichtum an Primaten in dieser Region hindeutet. Für Abenteurer bietet die Stadt einen tiefen Einblick in das ländliche Leben abseits der großen Touristenpfade. Geografie K6 — Abgelegene Siedlungsräume und Biodiversität.",
+      "factsAdvanced": [
+        "Name bedeutet 'Insel der Lemuren'",
+        "Liegt am Canal des Pangalanes",
+        "Isolierte Lage an der Südostküste",
+        "Wichtiger Erzeuger von Pfeffer und Kaffee",
+        "Nur per Boot oder Allradfahrzeug erreichbar",
+        "Ursprüngliches Küstenökosystem erhalten"
+      ]
+    },
+    {
+      "id": "vavatenina-cities-v2",
+      "descriptionAdvanced": "Vavatenina liegt im Hinterland der Ostküste und ist eines der produktivsten Nelkengebiete der Welt. Die sanften Hügel der Region sind mit Nelkenbäumen bedeckt, deren Duft zur Erntezeit die ganze Stadt erfüllt. Vavatenina ist ein lebhaftes Handelszentrum, in dem Bauern ihre Ernten an Großhändler verkaufen. Neben Nelken werden auch Kaffee und Reis angebaut, was die Stadt zu einem wichtigen wirtschaftlichen Pfeiler der Region Analanjirofo macht. Das feuchte tropische Klima sorgt für ganzjähriges Grün, stellt aber auch hohe Anforderungen an die Infrastruktur der Region. Geografie K7 — Monokulturen und Welthandel.",
+      "factsAdvanced": [
+        "Zentrum der Nelkenproduktion weltweit",
+        "Liegt in der Region Analanjirofo",
+        "Hügelige Landschaft im Hinterland der Ostküste",
+        "Wichtiger Umschlagplatz für Gewürzhandel",
+        "Tropisch-feuchtes Klima (Analanjirofo)",
+        "Wesentlicher Faktor für Madagaskars Devisen"
+      ]
+    },
+    {
+      "id": "morondava-cities-v2",
+      "descriptionAdvanced": "Morondava ist eine sonnige Küstenstadt am Kanal von Mosambik und das Tor zur weltberühmten Baobab-Allee. Die Stadt ist geprägt von einer entspannten Atmosphäre, breiten Sandstränden und dem Erbe des Sakalava-Königreichs Menabe. Morondava dient als Ausgangspunkt für Expeditionen in den Nationalpark Tsingy de Bemaraha und ist ein Zentrum für den Handel mit getrocknetem Fisch und landwirtschaftlichen Produkten aus dem Hinterland. Die Erosion der Küste ist hier ein sichtbares Problem, doch die Stadt bleibt ein Magnet für Reisende, die die monumentalen Majonkenbäume bestaunen wollen. Geschichte K7 — Regionale Königreiche und Ökotourismus.",
+      "factsAdvanced": [
+        "Tor zur berühmten Baobab-Allee (Allée des Baobabs)",
+        "Hauptstadt des ehemaligen Sakalava-Königreichs Menabe",
+        "Liegt am Kanal von Mosambik im Westen",
+        "Ausgangspunkt für Reisen zu den Tsingy de Bemaraha",
+        "Zentrum der Fischerei und Landwirtschaft",
+        "Starke Küstenerosion bedroht Teile der Stadt"
+      ]
+    },
+    {
+      "id": "amboasary-cities-v2",
+      "descriptionAdvanced": "Amboasary liegt am Mandrare-Fluss im äußersten Süden Madagaskars und ist das Herz der madagassischen Sisal-Industrie. Riesige Plantagen dieser robusten Faserpflanze prägen die gesamte Umgebung und sind der wichtigste Arbeitgeber der Region. Die Stadt liegt in einem Übergangsgebiet zwischen dem trockenen Dornwald und den fruchtbareren Flussufern. Trotz der harten Lebensbedingungen im Süden ist Amboasary ein wichtiger wirtschaftlicher Standort, dessen Produkte weltweit für Seile und Teppiche exportiert werden. Die Nähe zum privaten Berenty-Reservat macht die Stadt auch für Forscher und Lemuren-Liebhaber interessant. Geografie K6 — Plantagenwirtschaft und Exportgüter.",
+      "factsAdvanced": [
+        "Zentrum der madagassischen Sisal-Produktion",
+        "Liegt am Ufer des Mandrare-Flusses",
+        "Größte Sisal-Plantagen der Insel in der Umgebung",
+        "Wichtiger Arbeitgeber für die lokale Bevölkerung",
+        "Übergangszone zum Dornwald-Ökosystem",
+        "Nahe dem berühmten Berenty-Reservat"
+      ]
+    },
+    {
+      "id": "ambatoboeny-cities-v2",
+      "descriptionAdvanced": "Ambatoboeny ist eine wichtige Marktstadt im Nordwesten Madagaskars, gelegen an der Route Nationale 4. Die Stadt dient als zentraler Umschlagplatz für Rinder und landwirtschaftliche Produkte aus dem Betsiboka-Becken. Durch die Lage in einer weiten Savannenlandschaft ist Ambatoboeny ein Treffpunkt für Viehhüter und Bauern der Region Boeny. Das Klima ist hier heiß und trocken, was die Rinderzucht begünstigt. Die Stadt spielt eine entscheidende Rolle in der Versorgungskette für Fleisch und Getreide, die von hier aus in Richtung der Häfen an der Westküste transportiert werden. Geografie K7 — Savannenwirtschaft und Viehhandel.",
+      "factsAdvanced": [
+        "Wichtiger Marktplatz für Zebu-Rinder",
+        "Liegt an der Nationalstraße 4 (RN4)",
+        "Zentrum der Region Boeny",
+        "Handelsknotenpunkt im Betsiboka-Becken",
+        "Geprägt durch Savannenlandschaft",
+        "Wichtiger Lieferant für Fleisch und Getreide"
+      ]
+    }
+  ]
+}

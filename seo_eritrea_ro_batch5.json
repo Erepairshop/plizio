@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "adi-quala-cities-v2",
+      "descriptionAdvanced": "Adi Quala este un oraș plin de viață situat aproape de granița cu Etiopia, cunoscut pentru piața sa animată și pentru un punct de belvedere spectaculos asupra văii râului Mareb. Locația sa oferă perspective panoramice impresionante, punând în valoare relieful accidentat al sudului Eritreei. De asemenea, orașul găzduiește un altar dedicat soldaților italieni, marcând fragmente din istoria sa tumultuoasă. Este un centru important pentru comerțul local și pentru viața comunităților din apropierea graniței. Geografie K7 — rolul punctelor de belvedere în înțelegerea geografiei de graniță.",
+      "factsAdvanced": [
+        "Oraș vibrant situat în proximitatea graniței cu Etiopia.",
+        "Punct de belvedere panoramic asupra văii râului Mareb.",
+        "Găzduiește un altar istoric pentru soldații italieni.",
+        "Centru comercial animat pentru comunitățile locale.",
+        "Relief definit de văi și zone montane spectaculoase.",
+        "Punct de reper important pentru geografia de graniță a sudului."
+      ]
+    },
+    {
+      "id": "halhal-cities-v2",
+      "descriptionAdvanced": "Halhal este o localitate situată la nord de orașul Keren, într-o regiune muntoasă accidentată, unde populația trăiește în principal din agricultura de subzistență. Istoria sa a fost marcată de conflicte, fiind un câmp de luptă important în perioadele de război, ceea ce a influențat dezvoltarea comunității. Arhitectura locală este dominată de case tradiționale din piatră, care se integrează armonios în mediul natural stâncos. Este o zonă care conservă modul de viață tradițional al locuitorilor din nordul regiunii Anseba. Geografie K7 — adaptarea așezărilor umane la terenul muntos accidentat.",
+      "factsAdvanced": [
+        "Situat la nord de Keren, în regiunea Anseba.",
+        "Localitate într-o zonă muntoasă marcată de defileuri.",
+        "Economie bazată în principal pe agricultura de subzistență.",
+        "Sit istoric marcat de lupte în timpul perioadelor de conflict.",
+        "Arhitectură definită de case tradiționale din piatră.",
+        "Conservează un mod de viață autentic în munții din nord."
+      ]
+    },
+    {
+      "id": "hagaz-cities-v2",
+      "descriptionAdvanced": "Hagaz este un centru agricol din Eritreea, recunoscut pentru Școala Agrotehnică și proiectele sale inovatoare de promovare a legumelor și fructelor. Orașul este situat într-o zonă cu climat fertil care permite cultivarea unei varietăți de produse tropicale, susținând economia regională. Prin educație și practică agrotehnică, Hagaz joacă un rol important în dezvoltarea capacităților agricole locale și naționale. Este o comunitate care privește spre viitor prin intermediul dezvoltării sustenabile a resurselor naturale. Geografie K7 — importanța educației agricole în dezvoltarea sustenabilă.",
+      "factsAdvanced": [
+        "Centru agricol vital în Eritreea.",
+        "Sediul Școlii Agrotehnice Hagaz.",
+        "Proiecte ample de promovare a culturilor de fructe și legume.",
+        "Climat care susține cultivarea varietăților tropicale.",
+        "Rol cheie în dezvoltarea cunoștințelor agrotehnice locale.",
+        "Comunitate orientată spre agricultura sustenabilă."
+      ]
+    },
+    {
+      "id": "elabered-cities-v2",
+      "descriptionAdvanced": "Elabered este o așezare recunoscută pentru marile sale plantații agricole, unde se cultivă citrice, roșii și alte culturi de export. Domeniul Elabered este o proprietate agricolă istorică ce dispune de sisteme de irigații complexe, dezvoltate încă din perioada colonială, care au permis transformarea terenurilor locale în zone extrem de productive. Astăzi, plantațiile continuă să fie un pilon al economiei agrare a zonei, demonstrând eficiența infrastructurii istorice în agricultură. Este un exemplu notabil de agricultură pe scară largă în Eritreea. Geografie K7 — rolul infrastructurii de irigații în productivitatea agricolă.",
+      "factsAdvanced": [
+        "Așezare celebră pentru marile plantații de citrice și legume.",
+        "Domeniul Elabered este o proprietate agricolă cu semnificație istorică.",
+        "Dispune de sisteme de irigații avansate din perioada colonială.",
+        "Eficiență agricolă ridicată datorită infrastructurii istorice.",
+        "Centru major de producție pentru exporturile agricole.",
+        "Demonstrează sustenabilitatea infrastructurii agrare pe termen lung."
+      ]
+    },
+    {
+      "id": "beilul-cities-v2",
+      "descriptionAdvanced": "Beylul este un oraș de coastă situat la nord de Assab, recunoscut ca unul dintre primele așezări italiene de pe coasta Mării Roșii. Împrejurimile sale sunt formate în principal din deșert, creând un mediu aspru și izolat. Istoric, a servit drept punct de ancorare pentru bărcile de pescuit și caravanele care traversau regiunile deșertice în căutare de resurse. Astăzi, Beylul rămâne o locație definită de clima sa aridă și de legăturile sale cu trecutul colonial timpuriu. Geografie K7 — evoluția istorică a așezărilor de coastă în deșert.",
+      "factsAdvanced": [
+        "Oraș de coastă situat la nord de Assab.",
+        "Considerată una dintre primele așezări italiene din regiune.",
+        "Mediul înconjurător este definit aproape exclusiv de deșert.",
+        "Rol istoric pentru caravanele de pe rutele deșertice.",
+        "Climat arid specific zonei de coastă a Mării Roșii.",
+        "Locație definită de izolare geografică și istorică."
+      ]
+    }
+  ]
+}

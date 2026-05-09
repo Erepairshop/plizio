@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kawimbe-mission-history-v2",
+      "descriptionAdvanced": "The Kawimbe Mission station is one of the earliest achievements of the London Missionary Society in the region near Mbala and was launched in the 1880s. In its early years, the mission faced considerable existential hardships, as it operated in a culturally new and geographically challenging environment. Nevertheless, it quickly developed into a vital base for further development and exploration of northeastern Zambia. As an important historical actor in the late 19th century, Kawimbe made a significant contribution to the introduction of medical and education-oriented infrastructure, which today forms an integral part of the regional history.",
+      "factsAdvanced": [
+        "Early station of the London Missionary Society",
+        "Founded near Mbala in the 1880s",
+        "Hardships in the early phase were formative",
+        "Base for exploration of northeastern Zambia",
+        "Important contribution to regional infrastructure",
+        "Part of missionary history"
+      ]
+    }
+  ]
+}

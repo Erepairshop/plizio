@@ -1,0 +1,269 @@
+{
+  "lang": "ro",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pico-quioveo-relief-v2",
+      "descriptionAdvanced": "Pico Quioveo este cel mai înalt punct de pe insula vulcanică Annobón, ridicându-se la o altitudine de 635 de metri deasupra nivelului mării. Acest vârf este trăsătura dominantă a peisajului bazaltic accidentat al insulei, format prin milioane de ani de activitate vulcanică în Atlanticul de Sud. Summitul oferă vederi panoramice de 360 de grade asupra oceanului înconjurător și a interiorului luxuriant al insulei, inclusiv a lacului său central din crater. În ciuda înălțimii sale moderate, pantele abrupte ale muntelui și nebulozitatea frecventă creează un mediu dramatic și provocator pentru explorare. Servește ca punct de reper vital pentru navigație și este central pentru identitatea geologică și ecologică unică a insulei Annobón. Muntele găzduiește o floră specializată, adaptată la condițiile expuse de la înălțime. Geografie K6, Științele Pământului K7.",
+      "factsAdvanced": [
+        "Cel mai înalt vârf de pe insula Annobón (635 m).",
+        "Origine vulcanică din roci bazaltice antice.",
+        "Oferă vederi panoramice spectaculoase asupra Atlanticului.",
+        "Definește silueta topografică a întregii insule.",
+        "Habitat pentru o vegetație de munte unică pe insulă.",
+        "Adesea învăluit în ceață și nori din cauza brizei marine.",
+        "Punct de orientare critic pentru navigația în Atlanticul de Sud."
+      ]
+    },
+    {
+      "id": "pico-do-fogo-relief-v2",
+      "descriptionAdvanced": "Pico do Fogo este un vârf vulcanic distinctiv situat în partea de sud a insulei Annobón, caracterizat prin silueta sa ascuțită și terenul accidentat. Ca parte a lanțului vulcanic al insulei, contribuie la relieful dramatic care definește această provincie îndepărtată a Guineei Ecuatoriale. Numele muntelui, care înseamnă 'Vârful Focului' în portugheză, reflectă originile vulcanice ale insulei și lunga sa asociere cu explorarea maritimă. Pantele sunt acoperite de o floră tropicală rezistentă și oferă habitate esențiale pentru diverse specii de păsări. Pico do Fogo este o dovadă a forțelor geologice puternice care au modelat Linia Vulcanică Camerun și rămâne un simbol al frumuseții naturale neîmblânzite a insulei. Științele Pământului K7, Geografie K6.",
+      "factsAdvanced": [
+        "Vârf vulcanic proeminent în sudul insulei Annobón.",
+        "Numele reflectă istoria vulcanică și maritimă a locului.",
+        "Prezintă un teren abrupt și accidentat de origine bazaltică.",
+        "Parte a sistemului extins al Liniei Vulcanice Camerun.",
+        "Oferă locuri de cuibărit pentru specii de păsări marine atlantice.",
+        "Simbolizează natura brută și izolată a provinciei sudice.",
+        "Punct de interes major pentru studii geologice și ecologice."
+      ]
+    },
+    {
+      "id": "pico-malabo-relief-v2",
+      "descriptionAdvanced": "Pico Malabo este un con vulcanic stins impresionant care domină capitala Malabo de pe coasta de nord a insulei Bioko. Această trăsătură proeminentă de relief face parte din complexul vulcanic mai mare Pico Basile și servește drept fundal maiestuos pentru inima politică și economică a națiunii. Pantele sale sunt caracterizate de un sol vulcanic fertil și sunt acoperite de o pădure tropicală secundară luxuriantă. Din punct de vedere istoric, muntele a fost un punct de reper strategic pentru navigatorii care intrau în Golful Biafra. Astăzi, acesta rămâne o caracteristică geografică semnificativă care influențează climatul local și oferă un contrast verde față de expansiunea urbană a orașului de dedesubt. Geografie K6, Științele Pământului K8.",
+      "factsAdvanced": [
+        "Vârf vulcanic stins situat lângă capitala Malabo.",
+        "Con secundar asociat sistemului vulcanic Pico Basile.",
+        "Prezintă pante fertile utilizate pentru agricultura locală.",
+        "O trăsătură dominantă a orizontului nordic al insulei.",
+        "Influențează modelele locale de precipitații și umiditate.",
+        "Punct de reper strategic semnificativ încă din epoca colonială.",
+        "Înconjurat de pădure tropicală biodiversă și zone urbane."
+      ]
+    },
+    {
+      "id": "monte-san-carlos-relief-v2",
+      "descriptionAdvanced": "Monte San Carlos, cunoscut și sub numele de Pico Biao, este unul dintre cele mai înalte și spectaculoase vârfuri din partea de sud a insulei Bioko, atingând o altitudine de aproximativ 2.260 de metri. Acest vulcan masiv este faimos pentru craterul său mare, bine definit, care găzduiește un lac frumos și este înconjurat de păduri de ceață de mare altitudine, virgine. Relieful muntelui este excepțional de accidentat, cu pereți abrupți și văi adânci care au păstrat unul dintre cele mai neatinse ecosisteme din Africa Centrală. Monte San Carlos este un sit critic pentru biodiversitate, adăpostind floră afro-alpină rară și diverse specii de primate endemice. Dimensiunea sa grandioasă și bogăția ecologică îl fac o zonă prioritară pentru cercetarea științifică și conservare. Geografie K7, Biologie K8.",
+      "factsAdvanced": [
+        "Unul dintre cele mai înalte vârfuri din Bioko (cca. 2.260 m).",
+        "Prezintă un bazin de crater vulcanic masiv și pitoresc.",
+        "Găzduiește spectaculosul lac de munte Lago de Biao.",
+        "Acoperit de păduri de munte rare și păduri de ceață virgine.",
+        "Habitat vital pentru primate endemice și păsări de munte.",
+        "Caracterizat printr-un relief vulcanic dramatic și dificil.",
+        "Componentă centrală a sistemului hidrologic din sudul insulei."
+      ]
+    },
+    {
+      "id": "pico-de-la-concepcion-relief-v2",
+      "descriptionAdvanced": "Pico de la Concepción este un vârf muntos semnificativ situat pe coasta de est a insulei Bioko, cunoscut pentru pantele sale abrupte care coboară dramatic spre Oceanul Atlantic. Ridicându-se din terenul de coastă accidentat, vârful oferă vederi uimitoare asupra liniei de coastă estice a insulei și a orașului istoric Riaba de dedesubt. Zona este caracterizată de o vegetație tropicală densă și niveluri ridicate de precipitații, care alimentează numeroase fluxuri mici ce coboară în ocean. Din punct de vedere istoric, muntele și regiunea înconjurătoare au fost printre primele zone explorate de spanioli. Relieful său este un exemplu perfect al intersecției dintre munții vulcanici și mediul maritim atlantic, creând o nișă ecologică unică. Geografie K6, Științele Pământului K7.",
+      "factsAdvanced": [
+        "Vârf major pe coasta de est a insulei Bioko.",
+        "Cunoscut pentru pantele sale abrupte direct spre mare.",
+        "Oferă vederi largi asupra golfului istoric Riaba.",
+        "Înconjurat de pădure tropicală luxuriantă și pluvială.",
+        "Alimentează numeroase pârâuri de coastă și mici cascade.",
+        "Semnificativ istoric pentru explorarea timpurie a insulei.",
+        "Reflectă linia de coastă vulcanică accidentată a estului Bioko."
+      ]
+    },
+    {
+      "id": "moka-plateau-relief-v2",
+      "descriptionAdvanced": "Platoul Moka este o zonă înaltă vulcanică unică și fertilă, situată în interiorul sudic al insulei Bioko, la o altitudine de aproximativ 1.200 până la 1.400 de metri. Acest relief de mare altitudine este caracterizat printr-un climat semnificativ mai răcoros și mai umed decât regiunile de coastă, ceea ce a permis dezvoltarea pajiștilor verzi și a agriculturii specializate. Din punct de vedere istoric, platoul a fost un centru pentru creșterea animalelor și culturi de mare valoare, cum ar fi cafeaua și legumele. Înconjurat de vârfuri maiestuoase și cratere vulcanice, Platoul Moka oferă un peisaj senin și pitoresc care este un punct focal pentru ecologia insulei și cultura locală Bubi. Este o zonă vitală de captare a apei dulci. Geografie K6, Agricultură K7.",
+      "factsAdvanced": [
+        "Podiș vulcanic fertil la peste 1.200 de metri altitudine.",
+        "Cunoscut pentru climatul său răcoros și peisajele verzi.",
+        "Centru tradițional pentru creșterea animalelor și cafea.",
+        "Înconjurat de vârfuri vulcanice dramatice și lacuri de crater.",
+        "Sursă importantă de apă pentru regiunea de sud a insulei.",
+        "Habitat pentru specii unice de floră și faună montană.",
+        "Oferă un mediu ecologic și cultural distinct pe insulă."
+      ]
+    },
+    {
+      "id": "lago-loreto-krater-relief-v2",
+      "descriptionAdvanced": "Peisajul craterului Lago Loreto este o formațiune geologică extraordinară în zonele înalte din Bioko, prezentând un crater vulcanic adânc care găzduiește un lac permanent de apă dulce. Situat lângă Platoul Moka, acest crater face parte din istoria vulcanică complexă a insulei și oferă un exemplu uimitor de ecosistem de calderă. Pereții interiori ai craterului sunt acoperiți de o pădure de ceață densă, care prosperă în condițiile umede și nebuloase. Lacul în sine este un habitat vital pentru diverse specii acvatice și acționează ca un rezervor pentru mediul local. Izolarea sa și relieful dramatic îl fac un sit de mare interes pentru geologi și pasionații de natură care vizitează interiorul accidentat al insulei. Științele Pământului K8, Geografie K6.",
+      "factsAdvanced": [
+        "Crater vulcanic bine definit care găzduiește un lac dulce.",
+        "Situat în zonele înalte din sud, lângă Platoul Moka.",
+        "Înconjurat de păduri de ceață bine conservate ale insulei.",
+        "Reprezintă istoria geologică dinamică a vulcanilor din Bioko.",
+        "Habitat critic pentru fauna acvatică și aviară de altitudine.",
+        "Adesea acoperit de ceață groasă, creând o atmosferă mistică.",
+        "Sit cheie pentru studierea formelor de relief vulcanic."
+      ]
+    },
+    {
+      "id": "niefang-bergland-relief-v2",
+      "descriptionAdvanced": "Zona montană Niefang constituie lanțul muntos central al regiunii continentale Río Muni, formând o coloană vertebrală accidentată pe direcția nord-sud. Acest relief deluros și muntos servește ca o cumpănă de ape majoră, direcționând precipitațiile către numeroase râuri care curg fie spre vest, către Atlantic, fie spre est, în bazinele interioare. Zonele înalte sunt acoperite de pădure tropicală primară densă și sunt cunoscute pentru biodiversitatea lor ridicată și terenul provocator. Ca barieră geografică semnificativă, lanțul Niefang a influențat istoric rutele comerciale și modelele de așezare ale poporului Fang. Rămâne un coridor ecologic critic și o trăsătură definitorie a peisajului continental. Geografie K7, Științele Pământului K8.",
+      "factsAdvanced": [
+        "Lanțul muntos central al regiunii continentale Río Muni.",
+        "Formează o cumpănă de ape critică pentru întreaga regiune.",
+        "Caracterizat prin teren deluros și pădure tropicală densă.",
+        "Găzduiește Parcul Național Monte Alén, bogat în specii.",
+        "Influențează modelele regionale de precipitații și apă.",
+        "Acționează ca o barieră naturală între coastă și interior.",
+        "Include vârfuri care se ridică la peste 1.000 de metri."
+      ]
+    },
+    {
+      "id": "rio-muni-becken-relief-v2",
+      "descriptionAdvanced": "Bazinul Río Muni este un bazin sedimentar vast care caracterizează o mare parte din teritoriul continental al Guineei Ecuatoriale. Din punct de vedere geologic, acesta constă în straturi adânci de roci sedimentare care au fost depuse de-a lungul milioanelor de ani, conținând resurse minerale și potențiale resurse de hidrocarburi semnificative. Relieful bazinului este relativ plat până la ușor deluros, oferind fundamentul pentru pădurile tropicale dense care acoperă regiunea. Este drenat de sisteme fluviale majore precum Benito și Wele, care au sculptat văi largi prin peisajul sedimentar. Bazinul este esențial pentru agricultura națiunii, iar istoria sa geologică este cheia pentru înțelegerea formării liniei de coastă a Africii de Vest. Științele Pământului K8, Geografie K6.",
+      "factsAdvanced": [
+        "Mare formațiune sedimentară care acoperă majoritatea continentului.",
+        "Bogat în depozite geologice și potențiale resurse minerale.",
+        "Formează fundația topografică a pădurii Río Muni.",
+        "Drenat de sistemele fluviale extinse ale râurilor Benito și Wele.",
+        "Prezintă un peisaj relativ plat până la ușor ondulat.",
+        "Critic pentru studiul evoluției geologice a regiunii.",
+        "Susține activitățile agricole și forestiere primare ale țării."
+      ]
+    },
+    {
+      "id": "litoral-kuestenebene-relief-v2",
+      "descriptionAdvanced": "Câmpia de coastă Litoral este o zonă de relief de joasă altitudine care se întinde de-a lungul coastei atlantice a Guineei Ecuatoriale continentale. Această regiune relativ plată este caracterizată prin plaje nisipoase, sisteme complexe de estuare și mlaștini extinse de mangrove. Servește ca o zonă de tranziție vitală între mediul marin al Golfului Guineei și pădurile tropicale din interior. Solurile fertile ale câmpiei și accesul la mare au făcut din aceasta cea mai dens populată zonă din Río Muni, găzduind orașe importante precum Bata și Mbini. Câmpia de coastă este, de asemenea, critică pentru industria pescuitului național și pentru turismul de coastă în curs de dezvoltare. Geografie K6, Ecologie K7.",
+      "factsAdvanced": [
+        "Zonă joasă de-a lungul coastei Oceanului Atlantic.",
+        "Caracterizată prin plaje de nisip și mangrove productive.",
+        "Găzduiește cele mai mari centre urbane, inclusiv orașul Bata.",
+        "O zonă de tranziție ecologică critică între uscat și mare.",
+        "Drenată de mai multe estuare fluviale majore, precum Benito.",
+        "Centrală pentru economia națională de pescuit și maritimă.",
+        "Oferă principalul coridor de transport pentru provincia Litoral."
+      ]
+    },
+    {
+      "id": "altos-de-nsork-huegelland-relief-v2",
+      "descriptionAdvanced": "Dealurile Altos de Nsork constituie o zonă de relief îndepărtată și deluroasă situată în colțul de sud-est al regiunii Río Muni. Parte a podișului cristalin mai mare al Africii Centrale, această zonă este cunoscută pentru formațiunile sale stâncoase antice și pădurile tropicale virgine de mare altitudine. Terenul este caracterizat prin dealuri ondulate și văi adânci care găzduiesc o densitate extraordinară de viață sălbatică, inclusiv unele dintre cele mai izolate populații de elefanți și primate din țară. Din cauza accesibilității sale dificile, relieful de la Altos de Nsork a rămas în mare parte neperturbat de dezvoltarea modernă, acționând ca o ultimă frontieră a sălbăticiei. Geografie K7, Științele Pământului K8.",
+      "factsAdvanced": [
+        "Zonă de relief deluroasă în sud-estul îndepărtat al țării.",
+        "Parte a vechiului podiș cristalin al Africii Centrale.",
+        "Prezintă dealuri ondulate acoperite de pădure tropicală primară.",
+        "Acționează ca un sanctuar major pentru fauna rară și amenințată.",
+        "O sursă hidrologică cheie pentru mai multe râuri regionale.",
+        "Rămâne în mare parte virgină datorită naturii sale izolate.",
+        "Protejează peste 700 de kilometri pătrați de sălbăticie unică."
+      ]
+    },
+    {
+      "id": "piedra-nzas-formation-relief-v2",
+      "descriptionAdvanced": "Formațiunea Piedra Nzas constă în inselberguri granitice spectaculoase care se ridică dramatic din solul pădurii tropicale în provincia estică Wele-Nzas. Aceste formațiuni stâncoase antice fac parte din complexul de fundament vechi al Pământului și stau ca monoliți solitari care au rezistat milioanelor de ani de eroziune. Ele oferă o trăsătură de relief unică într-un peisaj forestier altfel dens și servesc ca micro-habitate importante pentru specii specializate de plante și păsări. Pentru populația locală Fang, aceste stânci frapante dețin adesea o semnificație culturală și spirituală. Formațiunile Piedra Nzas sunt printre cele mai impresionante repere geologice din interiorul continental. Științele Pământului K8, Geografie K6.",
+      "factsAdvanced": [
+        "Monoliți granitici (inselberguri) care se ridică din pădure.",
+        "Parte a fundamentului geologic antic al Africii Centrale.",
+        "Situați în provincia estică Wele-Nzas, lângă frontieră.",
+        "Prezintă floră unică adaptată mediilor stâncoase golașe.",
+        "Oferă vederi impresionante asupra pădurii tropicale Río Muni.",
+        "Un sit cu semnificație geologică și potențial culturală.",
+        "Exemplu rar de relief stâncos dramatic în interiorul țării."
+      ]
+    },
+    {
+      "id": "monte-chocolate-relief-v2",
+      "descriptionAdvanced": "Monte Chocolate este un munte distinctiv, izolat, cu o formă conică simetrică caracteristică, situat în inima provinciei Centro Sur a Guineei Ecuatoriale continentale. Numele său se referă probabil la aspectul său și la pădurea densă, de un verde închis, care îl acoperă de la bază până la vârf. Ca punct de reper proeminent pe platoul interior, muntele se ridică brusc din pădurea tropicală înconjurătoare, creând o trăsătură vizuală unică în peisaj. Monte Chocolate servește ca un far natural pentru navigația în regiune și este un sit cu o bogată biodiversitate, găzduind diverse specii de păsări de pădure și primate. Este un simbol al frumuseții naturale neîmblânzite. Geografie K6, Științele Pământului K7.",
+      "factsAdvanced": [
+        "Un munte conic distinctiv în provincia Centro Sur.",
+        "Se ridică ca un vârf izolat din podișul interior Río Muni.",
+        "Complet acoperit de pădure tropicală densă și primară.",
+        "Un punct de reper bine cunoscut pentru rezidenți și călători.",
+        "Acasă pentru o mare diversitate de viață sălbatică de pădure.",
+        "Reprezintă relieful dramatic și frumos al interiorului țării.",
+        "Rămâne în mare parte neexplorat și conservat de activitatea umană."
+      ]
+    },
+    {
+      "id": "siete-cerros-gebirge-relief-v2",
+      "descriptionAdvanced": "Siete Cerros (Șapte Dealuri) este un lanț notabil de șapte dealuri proeminente care formează o barieră topografică naturală în partea centrală a regiunii Río Muni. Această trăsătură de relief este o parte definitorie a peisajului local din provincia Centro Sur, influențând modelele de drenaj și dispunerea drumurilor regionale. Fiecare dintre cele șapte dealuri este acoperit de pădure tropicală luxuriantă, oferind o serie de habitate conectate pentru fauna diversă. Lanțul oferă vederi panoramice asupra bazinului pădurii tropicale înconjurătoare și este un punct de referință cheie pentru locuitorii zonei. Siete Cerros reflectă natura ondulată a podișului interior, unde munții antici au fost modelați de eroziunea tropicală. Geografie K6, Științele Pământului K7.",
+      "factsAdvanced": [
+        "Un lanț de șapte dealuri distincte în centrul Río Muni.",
+        "Un punct de reper topografic proeminent în provincia Centro Sur.",
+        "Influențează cursul fluxurilor locale și transportul regional.",
+        "Acoperit de o centură continuă de vegetație tropicală densă.",
+        "Oferă vederi pitorești asupra vastului bazin de pădure tropicală.",
+        "Parte a sistemelor montane mai vechi, erodate din interior.",
+        "Un sit important pentru identificarea geografică locală."
+      ]
+    },
+    {
+      "id": "benito-tal-relief-v2",
+      "descriptionAdvanced": "Valea Benito este valea adânc sculptată și bogată din punct de vedere ecologic a râului Benito (Mbini), care își croiește calea prin pădurea tropicală a Guineei Ecuatoriale continentale. Această trăsătură de relief este caracterizată prin câmpiile sale inundabile largi și secțiuni cu pereți abrupți unde râul a tăiat straturi de rocă mai dure ale podișului interior. Valea servește ca un coridor hidrologic și biologic primar, facilitând mișcarea speciilor și transportul nutrienților spre coasta atlantică. Din punct de vedere istoric, a fost principala arteră pentru comerț și explorare în Río Muni. Terenurile fertile susțin agricultura tradițională. Geografie K6, Științele Pământului K7.",
+      "factsAdvanced": [
+        "Valea râului principal care sculptează regiunea Río Muni.",
+        "Sistemul primar de drenaj pentru interiorul continental.",
+        "Prezintă câmpii inundabile fertile și pante abrupte, împădurite.",
+        "Un coridor critic atât pentru comerț, cât și pentru viața sălbatică.",
+        "Istoric, principala rută pentru explorarea timpurie a țării.",
+        "Influențează microclimatul și biodiversitatea bazinului central.",
+        "Se termină în spectaculosul estuar Mbini de la coasta Atlanticului."
+      ]
+    },
+    {
+      "id": "wele-durchbruchstal-relief-v2",
+      "descriptionAdvanced": "Valea de străpungere Wele este o trăsătură de relief dramatică în provincia estică Wele-Nzas, unde râul Wele a tăiat cu putere lanțurile muntoase antice. Acest lucru a creat o serie de chei adânci, repezișuri și stânci abrupte care oferă unele dintre cele mai impresionante peisaje din țară. Cheile sunt un sit de activitate geologică intensă, unde forța erozivă a râului este clar vizibilă. Înconjurată de o junglă primară densă, valea este un sanctuar pentru specii forestiere și acvatice rare. Este, de asemenea, semnificativă istoric ca un obstacol provocator pe care primii exploratori au trebuit să-l navigheze. Rămâne un sit important pentru potențialul hidroenergetic. Științele Pământului K8, Geografie K6.",
+      "factsAdvanced": [
+        "Sistem dramatic de chei unde râul Wele străpunge dealurile.",
+        "Situat în interiorul estic accidentat al regiunii Río Muni.",
+        "Prezintă repezișuri puternice și stânci fluviale impresionante.",
+        "Sit major pentru observarea forțelor eroziunii fluviale tropicale.",
+        "Înconjurat de unele dintre cele mai izolate păduri din țară.",
+        "Important strategic pentru energia hidrologică a regiunii.",
+        "Un punct de reper geografic cheie în provincia Wele-Nzas."
+      ]
+    },
+    {
+      "id": "corisco-riff-relief-v2",
+      "descriptionAdvanced": "Reciful Corisco este o trăsătură de relief marină semnificativă situată în apele de coastă puțin adânci de lângă insula Corisco. Acest sistem subacvatic constă în bancuri de nisip extinse, praguri stâncoase scufundate și formațiuni de recif de corali vibrante, care sunt printre cele mai bine conservate din Golful Guineei. Reciful oferă un habitat critic pentru o gamă vastă de viață marină, inclusiv pești tropicali, crustacee și țestoase marine care folosesc zona pentru hrănire. Datorită apelor puțin adânci și clare, relieful recifului este adesea vizibil de la suprafață, creând un peisaj subacvatic frumos. Protejarea acestui relief fragil este o prioritate națională. Știința Marină K7, Geografie K6.",
+      "factsAdvanced": [
+        "Un sistem extins de recife de corali și bancuri lângă Corisco.",
+        "Unul dintre cele mai biodiverse medii marine din Africa de Vest.",
+        "Prezintă ape limpezi, ideale pentru creșterea coralilor.",
+        "Un loc critic de hrănire și reproducere pentru speciile marine.",
+        "Influențează curenții de coastă și depunerea nisipului pe insulă.",
+        "Prioritate majoră pentru planificarea zonelor marine protejate.",
+        "Oferă oportunități excepționale pentru cercetarea marină durabilă."
+      ]
+    },
+    {
+      "id": "monte-bong-relief-v2",
+      "descriptionAdvanced": "Monte Bong este un vârf muntos proeminent situat în regiunea de frontieră estică a provinciei Wele-Nzas, stând ca o santinelă lângă granița cu Gabon. Ca parte a podișului cristalin care caracterizează interiorul Africii Centrale, relieful său este definit de roci antice, rezistente la intemperii, care au stat de milioane de ani. Ridicându-se la peste 1.000 de metri, summitul său oferă un punct de observație strategic asupra coronamentului vast și neîntrerupt al pădurii Río Muni. Pantele muntelui găzduiesc o varietate bogată de floră și faună, inclusiv specii de păsări rare. Monte Bong este un simbol al sălbăticiei îndepărtate a interiorului țării. Geografie K6, Științele Pământului K8.",
+      "factsAdvanced": [
+        "Un vârf muntos semnificativ pe granița estică a continentului.",
+        "Parte a vechiului podiș cristalin al interiorului african.",
+        "Se ridică la peste 1.000 de metri în provincia Wele-Nzas.",
+        "Acoperit de pădure tropicală de mare altitudine, biodiversă.",
+        "Un punct de reper major pentru navigația și securitatea regiunii.",
+        "Cumpănă de ape importantă pentru afluenții estici ai râului Wele.",
+        "Reprezintă topografia accidentată și îndepărtată a frontierei."
+      ]
+    },
+    {
+      "id": "monte-medum-relief-v2",
+      "descriptionAdvanced": "Monte Medum este un munte înalt și semnificativ din punct de vedere ecologic situat în zonele înalte din sud-estul regiunii Río Muni. Ridicându-se din pădurea tropicală densă, joacă un rol vital în mediul regional, acționând ca o zonă majoră de captare a ploii. Relieful muntelui influențează modelele meteorologice locale, prinzând adesea vânturile pline de umiditate și creând un microclimat mai răcoros și mai umed pe pantele sale superioare. Acest lucru a dus la dezvoltarea unei adunări unice de specii de plante și animale adaptate acestor condiții de mare altitudine. Monte Medum este o parte esențială a ecosistemului Altos de Nsork. Științele Pământului K8, Biologie K7.",
+      "factsAdvanced": [
+        "Un vârf înalt în zonele înalte din sud-estul regiunii Río Muni.",
+        "Acționează ca o zonă naturală de captare pentru precipitațiile locale.",
+        "Influențează climatul local și formarea norilor în Nsork.",
+        "Habitat pentru floră și faună tropicală specializată de altitudine.",
+        "Parte a zonei virgine a Parcului Național Altos de Nsork.",
+        "Unul dintre cei mai înalți și îndepărtați munți de pe continent.",
+        "Sit cheie pentru viitoarele cercetări de biodiversitate la altitudine."
+      ]
+    },
+    {
+      "id": "monte-bilat-relief-v2",
+      "descriptionAdvanced": "Monte Bilat este un munte de coastă proeminent situat în provincia Litoral, ridicându-se semnificativ deasupra câmpiei litorale plate din Río Muni. Proximitatea sa față de Oceanul Atlantic îl face un punct de reper izbitor atât pentru marinari, cât și pentru călătorii de pe uscat. Relieful muntelui este caracterizat de pante abrupte, împădurite, care oferă vederi magnifice asupra Golfului Guineei și a estuarelor de mangrove înconjurătoare. În ciuda presiunii din zonele urbane din apropiere, precum Bata, Monte Bilat a păstrat o mare parte din acoperirea sa forestieră naturală, servind drept bastion verde important. Este un memento al istoriei vulcanice și tectonice a marginii Africii de Vest. Geografie K6, Științele Pământului K7.",
+      "factsAdvanced": [
+        "Munte proeminent care se ridică din câmpia litorală plană.",
+        "Situat lângă coasta Atlanticului, în vecinătatea orașului Bata.",
+        "Oferă vederi panoramice spectaculoase asupra oceanului.",
+        "Un punct de reper semnificativ pentru navigația regională.",
+        "Menține un habitat forestier vital lângă zonele urbane majore.",
+        "Prezintă un teren abrupt care a limitat incursiunea umană.",
+        "Simbol al topografiei diverse a coastei continentale."
+      ]
+    }
+  ]
+}

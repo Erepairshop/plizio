@@ -1,0 +1,129 @@
+{
+  "lang": "de",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "harare-cities-v2",
+      "descriptionAdvanced": "Harare ist die dynamische Hauptstadt Simbabwes, gelegen auf dem zentralen Hochland auf etwa 1490 Metern Höhe. Die Metropole, ursprünglich 1890 als Fort Salisbury gegründet, hat sich zu einem bedeutenden kulturellen und wirtschaftlichen Zentrum entwickelt. Mit über zwei Millionen Einwohnern im Ballungsraum ist sie das Herz der nationalen Politik und Bildung, beheimatet unter anderem die Universität von Zimbabwe und prächtige öffentliche Gärten wie den National Botanic Garden.",
+      "factsAdvanced": [
+        "Gegründet 1890 als Fort Salisbury.",
+        "Liegt auf einer Höhe von rund 1490 Metern.",
+        "Hauptstadt und größtes Finanzzentrum des Landes.",
+        "Sitz des simbabwischen Parlaments.",
+        "Bekannt für blühende Jacaranda-Alleen im Frühjahr.",
+        "Klima: Subtropisches Hochlandklima mit milden Temperaturen."
+      ]
+    },
+    {
+      "id": "bulawayo-cities-v2",
+      "descriptionAdvanced": "Bulawayo, im Südwesten Simbabwes gelegen, wird oft als 'Stadt der Könige' bezeichnet und bewahrt ein reiches Erbe als einstige Hauptstadt des Ndebele-Königreichs. Die zweitgrößte Stadt des Landes unterscheidet sich von Harare durch ihren stärker industriellen Charakter und ihre weitläufige, schachbrettartige Stadtplanung, die ursprünglich für Ochsenkarren ausgelegt war. Sie fungiert heute als wichtiges regionales Tor zu bedeutenden touristischen Zielen wie dem Matobo Nationalpark und den Khami-Ruinen.",
+      "factsAdvanced": [
+        "Ehemalige Hauptstadt des Ndebele-Königreichs.",
+        "Zweitgrößte Stadt in Simbabwe.",
+        "Wichtiger Knotenpunkt für das nationale Eisenbahnnetz.",
+        "Beheimatet das bedeutende Natural History Museum.",
+        "Nähe zum UNESCO-Welterbe Khami-Ruinen.",
+        "Geplante, weiträumige Straßengitter-Architektur."
+      ]
+    },
+    {
+      "id": "chitungwiza-cities-v2",
+      "descriptionAdvanced": "Chitungwiza ist eine stark wachsende Satellitenstadt rund 30 Kilometer südlich der Hauptstadt Harare. Die Stadt entstand in den 1970er Jahren als geplante Siedlung für die wachsende urbane Bevölkerung und dient heute primär als Wohnort für Pendler, die im Großraum Harare beschäftigt sind. Trotz ihrer vorwiegend residenziellen Struktur prägen lebendige Straßenmärkte und eine eigenständige kulturelle Identität das tägliche Leben der mehr als 350.000 Einwohner.",
+      "factsAdvanced": [
+        "Gegründet in den 1970er Jahren als Wohnsiedlung.",
+        "Liegt etwa 30 Kilometer südlich von Harare.",
+        "Wichtiger Wohnstandort für Pendler.",
+        "Schnelles demografisches Wachstum seit Jahrzehnten.",
+        "Bekannt für lebhafte lokale Märkte wie den Unit L Market.",
+        "Besitzt eine eigenständige lokale Verwaltungsbehörde."
+      ]
+    },
+    {
+      "id": "mutare-cities-v2",
+      "descriptionAdvanced": "Mutare liegt malerisch eingebettet in den Eastern Highlands und dient als strategisches Tor zur Grenze nach Mosambik. Die viertgrößte Stadt des Landes ist aufgrund ihrer Lage im Gebirge für ihr mildes, angenehmes Klima und die Nähe zu Ferienorten wie Bvumba und Nyanga geschätzt. Wirtschaftlich profitiert Mutare als bedeutender Handelsknotenpunkt für den Export über den mosambikanischen Hafen Beira, ergänzt durch die florierende Forst- und Teewirtschaft der Umgebung.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1897.",
+        "Wichtiges Tor zur Grenze mit Mosambik.",
+        "Strategischer Standort für den Export nach Beira.",
+        "Umgeben von malerischen Gebirgszügen.",
+        "Bekannt für den Anbau von Tee, Kaffee und Holz.",
+        "Mildes, subtropisches Gebirgsklima."
+      ]
+    },
+    {
+      "id": "gweru-cities-v2",
+      "descriptionAdvanced": "Gweru fungiert als zentraler Industriestandort in der Provinz Midlands und ist ein entscheidendes logistisches Drehkreuz im Herzen Simbabwes. Die 1894 gegründete Stadt ist sowohl ein Knotenpunkt für den nationalen Eisenbahnverkehr als auch ein bedeutendes Zentrum für die Metallverarbeitung und die Milchwirtschaft. Als Sitz der Midlands State University unterstreicht sie ihre Rolle als wichtiger Bildungsstandort, der die Region wirtschaftlich und kulturell maßgeblich prägt.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1894.",
+        "Strategisches Logistikzentrum der Provinz Midlands.",
+        "Wichtiger Standort für Metallverarbeitung.",
+        "Sitz der Midlands State University.",
+        "Zentrale Lage im nationalen Eisenbahnnetz.",
+        "Regional wichtiges Zentrum für Milchwirtschaft."
+      ]
+    },
+    {
+      "id": "kwekwe-cities-v2",
+      "descriptionAdvanced": "Kwekwe ist eine bedeutende Bergbaustadt in der Provinz Midlands, deren Entwicklung untrennbar mit dem historischen Goldrausch und der Ausbeutung von Erzlagerstätten verbunden ist. Heute ist die Stadt ein wichtiges Zentrum der Schwerindustrie, insbesondere in den Bereichen Stahlproduktion und Metallverarbeitung. Das örtliche National Mining Museum dokumentiert die fundamentale Bedeutung des Bergbaus für das wirtschaftliche Fundament von Kwekwe seit seiner Gründung im Jahr 1902.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1902.",
+        "Einst Standort der riesigen Globe and Phoenix Goldmine.",
+        "Zentrum der simbabwischen Stahlindustrie.",
+        "Heimat des National Mining Museums von Simbabwe.",
+        "Geographisch auf halbem Weg zwischen Harare und Bulawayo.",
+        "Wirtschaft massiv geprägt durch Bergbau und Metallurgie."
+      ]
+    },
+    {
+      "id": "kadoma-cities-v2",
+      "descriptionAdvanced": "Kadoma liegt in der fruchtbaren Provinz Mashonaland West und hat sich von einem frühen Bergbauort zu einem wichtigen Zentrum der landwirtschaftlichen Verarbeitung entwickelt. Besonders die Baumwoll- und Textilindustrie prägt das industrielle Profil der Stadt. Eingebettet in eine Region mit intensiver Agrarwirtschaft, dient Kadoma als zentraler Umschlagplatz für landwirtschaftliche Erzeugnisse und bleibt weiterhin ein Standort für kleinere Goldabbauprojekte.",
+      "factsAdvanced": [
+        "Gegründet 1902, früher als Gatooma bekannt.",
+        "Bedeutendes Zentrum der Baumwoll- und Textilindustrie.",
+        "Wichtiger Standort für landwirtschaftliche Verarbeitung.",
+        "Lage inmitten fruchtbarer Agrarregionen.",
+        "Kombiniert industrielle Produktion mit Bergbauaktivitäten.",
+        "Regional wichtiges Bildungs- und Handelszentrum."
+      ]
+    },
+    {
+      "id": "masvingo-cities-v2",
+      "descriptionAdvanced": "Masvingo ist die älteste koloniale Siedlung Simbabwes und dient als das Tor zum weltberühmten UNESCO-Weltkulturerbe Great Zimbabwe, den Überresten einer mittelalterlichen Großstadt. Die Stadt spielt eine zentrale Rolle für den lokalen Tourismussektor, der Besucher aus aller Welt anzieht, um die historischen Monumente zu besichtigen. Die regionale Wirtschaft wird zudem maßgeblich durch den Ackerbau sowie die Nähe zum Lake Mutirikwi, einem der größten Stauseen des Landes, gestützt.",
+      "factsAdvanced": [
+        "Gegründet 1890, älteste koloniale Siedlung des Landes.",
+        "Tor zu den Great Zimbabwe Ruinen (UNESCO-Welterbe).",
+        "Wichtiger touristischer Ausgangspunkt in der Region.",
+        "Nähe zum Lake Mutirikwi, einem der größten Stauseen.",
+        "Zentrum für intensiven regionalen Ackerbau.",
+        "Administratives Zentrum der Provinz Masvingo."
+      ]
+    },
+    {
+      "id": "chinhoyi-cities-v2",
+      "descriptionAdvanced": "Chinhoyi ist das Verwaltungszentrum der Provinz Mashonaland West und liegt strategisch an der wichtigen A1-Fernstraße Richtung Sambia. Die Stadt ist weltweit durch die Chinhoyi-Höhlen bekannt, ein spektakuläres Karstsystem mit einem tiefblauen Unterwassersee, das ein bedeutendes nationales Denkmal darstellt. Neben ihrer touristischen Bedeutung ist die Region um Chinhoyi durch eine intensive, ertragreiche Landwirtschaft geprägt, die einen wesentlichen Beitrag zur wirtschaftlichen Stabilität leistet.",
+      "factsAdvanced": [
+        "Verwaltungszentrum der Provinz Mashonaland West.",
+        "Ehemals unter dem Namen Sinoia gegründet.",
+        "Berühmt für die Chinhoyi-Höhlen (nationales Denkmal).",
+        "Beheimatet einen tiefblauen, natürlichen Unterwassersee.",
+        "Strategisch an der A1-Route nach Sambia gelegen.",
+        "Umgeben von fruchtbaren agrarwirtschaftlichen Flächen."
+      ]
+    },
+    {
+      "id": "norton-cities-v2",
+      "descriptionAdvanced": "Norton ist eine aufstrebende Stadt etwa 40 Kilometer westlich von Harare, die sich in den letzten Jahren durch eine rasante industrielle Entwicklung und als Wohnort für Pendler im Großraum der Hauptstadt etabliert hat. Die industrielle Basis umfasst unter anderem Papier- und Kunststoffproduktion. Die Stadt profitiert von der engen wirtschaftlichen Integration mit Harare und ist zugleich von ausgedehnten landwirtschaftlichen Nutzflächen umgeben, die die lokale Beschäftigung stützen.",
+      "factsAdvanced": [
+        "Gegründet als landwirtschaftliche Siedlung.",
+        "Etwa 40 Kilometer westlich von Harare gelegen.",
+        "Wichtiger Wohnstandort für den Großraum Harare.",
+        "Standort für Papier- und Kunststoffindustrie.",
+        "Rasche infrastrukturelle Entwicklung in den letzten Jahren.",
+        "Starke Verflechtung mit der Wirtschaft der Hauptstadt."
+      ]
+    }
+  ]
+}

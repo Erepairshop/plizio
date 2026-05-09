@@ -1,0 +1,333 @@
+{
+  "lang": "de",
+  "country": "comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "grande-mosquee-moroni-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Moroni, auch bekannt als Ancienne Mosquée du Vendredi, ist das symbolträchtige religiöse Zentrum der komorischen Hauptstadt. Direkt am Hafen gelegen, prägt sie mit ihrem markanten weißen Minarett und der klassischen Swahili-Architektur seit Generationen das Stadtbild. Im K8-Lehrplan für Geschichte und Religion dient die Moschee als Paradebeispiel für die tiefe Verwurzelung des Islam im Archipel seit dem 15. Jahrhundert. Der weitläufige Gebetsraum bietet Platz für Tausende von Gläubigen und wird bei Flut fast vom Indischen Ozean umschlossen, was dem Ort eine einzigartige spirituelle Atmosphäre verleiht. Als Ort nationaler Zeremonien ist sie weit mehr als nur ein Gotteshaus; sie ist das Herz der komorischen Identität.",
+      "factsAdvanced": [
+        "Wichtigstes religiöses Bauwerk der Union der Komoren.",
+        "Direkt am alten Hafen der Hauptstadt Moroni gelegen.",
+        "Bekannt für sein markantes, reinweißes Minarett.",
+        "Die ursprüngliche Struktur datiert vermutlich aus dem Jahr 1427.",
+        "Zentraler Ort für die großen Freitagsgebete der Stadt.",
+        "Architektonisches Symbol der Swahili-Kultur und des Islam.",
+        "Eines der am häufigsten fotografierten Wahrzeichen des Landes."
+      ]
+    },
+    {
+      "id": "palais-du-peuple-landmarks-v2",
+      "descriptionAdvanced": "Der Palais du Peuple in Moroni ist der Sitz der Nationalversammlung und damit das legislative Herz der Komoren. Das moderne Gebäude symbolisiert den Stolz der Nation auf ihre Unabhängigkeit und dient als zentraler Ort für bedeutende politische Entscheidungen und staatliche Feierlichkeiten. Im K9-Lehrplan für Staatsbürgerkunde wird der Palast genutzt, um die parlamentarischen Prozesse und die demokratische Struktur des Landes zu erläutern. Umgeben von weitläufigen Gärten, bietet der Komplex auch Raum für internationale Konferenzen und diplomatische Empfänge. Die Architektur verbindet funktionale Modernität mit nationalen Symbolen und macht den Palast zu einem der wichtigsten administrativen Orientierungspunkte in der Hauptstadt.",
+      "factsAdvanced": [
+        "Sitz der Nationalversammlung der Union der Komoren.",
+        "Wichtigster Schauplatz für nationale politische Debatten.",
+        "Architektonisches Zeugnis der post-kolonialen Entwicklung.",
+        "Beherbergt Büros der Abgeordneten und Ausschusssäle.",
+        "Zentraler Veranstaltungsort für Unabhängigkeitsfeiern.",
+        "Umgeben von einer parkähnlichen Anlage im Regierungsviertel.",
+        "Symbol für die Einheit der drei Inseln Grande Comore, Anjouan und Mohéli."
+      ]
+    },
+    {
+      "id": "stade-malouzini-landmarks-v2",
+      "descriptionAdvanced": "Das Stade de Malouzini, gelegen im Süden der Hauptstadt Moroni, ist das größte und modernste Sportstadion der Komoren. Es dient als Heimspielstätte der nationalen Fußballmannschaft, der 'Coeur d'Alene', und ist ein Zentrum für nationale sportliche Identität und Begeisterung. Im K6-Lehrplan für Sport und Gesellschaft wird das Stadion als Beispiel für die Förderung des Jugendsports und die moderne Infrastrukturentwicklung des Landes thematisiert. Mit seiner internationalen Standards entsprechenden Spielfläche und den modernen Tribünen ermöglicht es die Austragung von Qualifikationsspielen für den Afrika-Cup und andere Kontinentalwettbewerbe. Das Stadion ist nicht nur eine Sportstätte, sondern auch ein Symbol für den sportlichen Aufstieg der Komoren auf der Weltbühne.",
+      "factsAdvanced": [
+        "Größte Sportarena der Komoren mit moderner Infrastruktur.",
+        "Heimstadion der komorischen Fußballnationalmannschaft.",
+        "Eröffnet im Jahr 2019 mit internationaler Unterstützung.",
+        "Verfügt über eine Kapazität von über 10.000 Zuschauern.",
+        "Haupthaus für Leichtathletik-Wettbewerbe im Archipel.",
+        "Wichtiger Impulsgeber für die Stadtentwicklung im Süden Moronis.",
+        "Schauplatz historischer Siege im afrikanischen Vereinsfußball."
+      ]
+    },
+    {
+      "id": "musee-national-cndrs-landmarks-v2",
+      "descriptionAdvanced": "Das Nationalmuseum der Komoren, Teil des Forschungszentrums CNDRS in Moroni, ist der Hüter des reichen kulturellen und natürlichen Erbes des Archipels. Die Ausstellungen umfassen archäologische Funde aus der Ära der Sultanate, traditionelle Kleidung und Musikinstrumente sowie eine bedeutende naturkundliche Sammlung. Ein besonderes Highlight im K8-Lehrplan für Naturwissenschaften ist das präparierte Exemplar eines Quastenflossers (Coelacanth), eines lebenden Fossils, das in den Gewässern rund um die Inseln wiederentdeckt wurde. Das Museum dient als wichtige Bildungsstätte für Schüler und Forscher gleichermaßen, um die einzigartige Identität der Komoren zwischen Afrika und der arabischen Welt zu verstehen. Es bewahrt zudem wertvolle historische Manuskripte, die die maritime Geschichte des Indischen Ozeans dokumentieren.",
+      "factsAdvanced": [
+        "Beherbergt die bedeutendste ethnografische Sammlung des Landes.",
+        "Bekannt für die weltweit seltene Quastenflosser-Ausstellung.",
+        "Sitz des Nationalen Zentrums für Dokumentation und Forschung (CNDRS).",
+        "Zentrales Archiv für die Geschichte der komorischen Sultanate.",
+        "Wichtiger Partner für internationale meeresbiologische Studien.",
+        "Ausstellungsort für traditionelles komorisches Handwerk und Kunst.",
+        "Gelegen in einem historischen Viertel im Herzen von Moroni."
+      ]
+    },
+    {
+      "id": "port-de-moroni-landmarks-v2",
+      "descriptionAdvanced": "Der Hafen von Moroni ist das wirtschaftliche Tor der Insel Grande Comore und ein pulsierender Ort des Austauschs. Hier landen nicht nur moderne Containerschiffe an, sondern auch die traditionellen hölzernen Dhows, die seit Jahrhunderten die Handelswege des Indischen Ozeans befahren. Im K7-Lehrplan für Geographie und Wirtschaft veranschaulicht der Hafen die logistischen Herausforderungen eines Inselstaates und die Bedeutung des Seehandels für die nationale Versorgung. Die Kaianlagen sind geprägt von einem lebhaften Treiben der Händler, die Gewürze, Reis und Baumaterialien umschlagen. Trotz der Begrenzungen durch das vulkanische Gestein der Küste bleibt der Hafen der wichtigste Knotenpunkt für die Hauptstadt und ein Symbol für die maritime Tradition der Region.",
+      "factsAdvanced": [
+        "Primärer Importhafen für die Insel Grande Comore.",
+        "Historischer Ankerplatz für den transozeanischen Gewürzhandel.",
+        "Zentrum für die regionale Küstenschifffahrt zwischen den Inseln.",
+        "Umschlagplatz für komorische Exportgüter wie Vanille und Nelken.",
+        "Bekannt für den Anblick traditioneller arabischer Dhows.",
+        "Wichtiger Arbeitgeber für die Logistikbranche in der Hauptstadt.",
+        "Eng verbunden mit der angrenzenden historischen Medina."
+      ]
+    },
+    {
+      "id": "port-de-mutsamudu-landmarks-v2",
+      "descriptionAdvanced": "Der Hafen von Mutsamudu auf der Insel Anjouan ist der einzige Tiefwasserhafen der Komoren und damit eine strategische Anlage von nationaler Bedeutung. Dank seiner natürlichen Tiefe können hier große Containerschiffe direkt am Kai anlegen, was ihn zum wichtigsten Drehkreuz für den internationalen Frachtverkehr macht. Im K9-Lehrplan für Wirtschaftskunde wird der Hafen als Beispiel für die Bedeutung spezialisierter Infrastruktur in der globalen Logistik behandelt. Er dient nicht nur der Versorgung Anjouans, sondern fungiert oft als Transitpunkt für Waren, die später auf kleinere Boote für die anderen Inseln umgeladen werden. Die Hafenanlagen sind modern ausgestattet und bilden das wirtschaftliche Rückgrat der zweitgrößten Stadt des Landes.",
+      "factsAdvanced": [
+        "Einziger natürlicher Tiefwasserhafen des komorischen Archipels.",
+        "Strategisches Logistikzentrum für den westlichen Indischen Ozean.",
+        "Haupthafen für den Export der berühmten Anjouan-Gewürze.",
+        "Ermöglicht das Anlegen von Schiffen mit großem Tiefgang.",
+        "Wichtigster Wirtschaftsfaktor für die Entwicklung der Insel Anjouan.",
+        "Zentrum für Zollabwicklungen und internationale Handelsbeziehungen.",
+        "Verfügt über moderne Lagereinrichtungen für Containerwaren."
+      ]
+    },
+    {
+      "id": "tour-de-l-horloge-moroni-landmarks-v2",
+      "descriptionAdvanced": "Der Uhrturm von Moroni (Tour de l'Horloge) ist ein charmantes historisches Wahrzeichen, das zentral in der Medina der Hauptstadt steht. Während der französischen Kolonialzeit errichtet, verbindet er europäische Architektur mit lokalem Korallenkalkstein und dient seit Jahrzehnten als wichtigster Orientierungspunkt für die Bewohner und Besucher. Im K5-Lehrplan für Heimatkunde wird der Turm als Beispiel für die städtebauliche Entwicklung und als Symbol für den zivilen Treffpunkt thematisiert. Auch wenn die Uhr im Laufe der Zeit oft stillstand, bleibt der Turm ein identitätsstiftendes Monument, das den Übergang vom alten Hafenviertel zu den modernen Geschäftsstraßen markiert. Er ist umgeben von belebten Märkten und kleinen Läden, die das Herz der Altstadt bilden.",
+      "factsAdvanced": [
+        "Ikonischer Uhrturm aus der Kolonialzeit im Zentrum von Moroni.",
+        "Erbaut aus lokalem Stein und Korallenkalk.",
+        "Bekanntester Treffpunkt und Orientierungshilfe in der Hauptstadt.",
+        "Markiert das Tor zur historischen Medina von Moroni.",
+        "Beliebtes Motiv für Postkarten und nationale Briefmarken.",
+        "Umgeben von den geschäftigen Straßen des alten Handelsviertels.",
+        "Symbol für die Verschmelzung von Geschichte und modernem Stadtleben."
+      ]
+    },
+    {
+      "id": "banque-centrale-comores-landmarks-v2",
+      "descriptionAdvanced": "Die Zentralbank der Komoren (Banque Centrale des Comores - BCC) in Moroni ist die höchste Währungsbehörde des Landes und ein Symbol für wirtschaftliche Eigenständigkeit. In diesem modernen, hochgesicherten Gebäude wird der Komoren-Franc verwaltet, der durch eine feste Bindung an den Euro für außergewöhnliche Stabilität in der Region sorgt. Im K9-Lehrplan für Wirtschaftskunde wird die BCC als Beispiel für Geldpolitik und die Rolle der nationalen Reserve in einem kleinen Inselstaat analysiert. Die Bank überwacht das gesamte nationale Finanzwesen und ist verantwortlich für die Ausgabe von Banknoten und Münzen, die oft nationale Motive wie den Quastenflosser tragen. Die repräsentative Architektur des Gebäudes unterstreicht die Bedeutung der Bank für die staatliche Souveränität.",
+      "factsAdvanced": [
+        "Hauptsitz der nationalen Währungs- und Aufsichtsbehörde.",
+        "Emissionsinstitut für die Landeswährung (Komoren-Franc).",
+        "Wächter über die Preisstabilität und das nationale Bankensystem.",
+        "Zentraler Akteur in der Zusammenarbeit mit IWF und Weltbank.",
+        "Verwaltet die Gold- und Devisenreserven des Staates.",
+        "Modernstes Verwaltungsgebäude im Bankenviertel der Hauptstadt.",
+        "Sichert die Integration der Komoren in das globale Finanzsystem."
+      ]
+    },
+    {
+      "id": "aeroport-said-ibrahim-landmarks-v2",
+      "descriptionAdvanced": "Der Internationale Flughafen Prinz Saïd Ibrahim (AIMSI) ist das primäre Luftfahrtdrehkreuz der Komoren und liegt etwa 20 Kilometer nördlich von Moroni in Hahaya. Benannt nach einem bedeutenden Staatsmann, ist er die lebenswichtige Verbindung der Inseln zur Außenwelt, insbesondere für die große komorische Diaspora in Frankreich und Afrika. Im K7-Lehrplan für Transportwesen dient der Flughafen als Beispiel für die Bedeutung der Luftverkehrsanbindung für isolierte Inselstaaten. Mit seiner langen Start- und Landebahn, die große Langstreckenflugzeuge aufnehmen kann, ermöglicht er den Export von hochwertigen Gütern wie Vanille und den Empfang internationaler Touristen. Die stetige Modernisierung der Terminals spiegelt die Ambitionen der Komoren wider, sich als regionales Reiseziel im Indischen Ozean zu etablieren.",
+      "factsAdvanced": [
+        "Wichtigster internationaler Flughafen der Union der Komoren.",
+        "Verbindet den Archipel direkt mit Afrika, Europa und Nahost.",
+        "Haupthub für die nationale Fluggesellschaft und Regionalflüge.",
+        "Benannt nach dem Prinzen und Politiker Saïd Ibrahim bin Saïd Ali.",
+        "Kritische Infrastruktur für den Tourismus und den Exporthandel.",
+        "Verfügt über moderne Abfertigungshallen und Frachtterminals."
+      ]
+    },
+    {
+      "id": "cathedrale-sainte-therese-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale Sainte Thérèse in Moroni ist die Hauptkirche der kleinen katholischen Gemeinde auf den Komoren und ein Zeichen für religiöse Vielfalt. Inmitten einer mehrheitlich muslimischen Gesellschaft steht dieses schlichte, aber würdevolle Gotteshaus für die verfassungsrechtlich garantierte Religionsfreiheit im Land. Im K8-Lehrplan für Sozialkunde wird die Kathedrale als Symbol für den interreligiösen Dialog und das friedliche Zusammenleben thematisiert. Die Kirche dient nicht nur als Ort der Besinnung für christliche Inselbewohner und Expatriates, sondern engagiert sich über ihre angeschlossenen Missionen auch in sozialen Projekten, insbesondere im Bildungsbereich. Ihre zentrale Lage nahe dem Hafenviertel macht sie zu einem festen Bestandteil der kulturellen Vielfalt der Hauptstadt.",
+      "factsAdvanced": [
+        "Hauptsitz der katholischen Glaubensgemeinschaft in Moroni.",
+        "Wichtigstes christliches Gotteshaus im gesamten Archipel.",
+        "Symbol für die gelebte religiöse Toleranz auf den Komoren.",
+        "Gewidmet der Heiligen Therese von Lisieux, Patronin der Missionen.",
+        "Zentrum für soziale Unterstützung und Bildungsinitiativen.",
+        "Schlichte Architektur, die sich in das Stadtbild integriert.",
+        "Regelmäßiger Treffpunkt für die internationale Gemeinde in Moroni."
+      ]
+    },
+    {
+      "id": "palais-de-justice-moroni-landmarks-v2",
+      "descriptionAdvanced": "Der Justizpalast von Moroni (Palais de Justice) beherbergt den Obersten Gerichtshof und ist das Symbol für Gesetzmäßigkeit und Ordnung in der Republik. Das architektonisch markante Gebäude im administrativen Zentrum der Hauptstadt ist der Ort, an dem die finale Rechtsprechung über nationale Angelegenheiten erfolgt. Im K9-Lehrplan für Rechtskunde dient der Palast als Veranschaulichung der Gewaltenteilung und der Unabhängigkeit der Judikative. Hier treffen modernes Zivilrecht, basierend auf dem französischen Vorbild, und traditionelle Rechtsvorstellungen aufeinander. Das Gebäude strahlt eine feierliche Würde aus und erinnert an die Bedeutung der Gerechtigkeit für die demokratische Stabilität des komorischen Staates.",
+      "factsAdvanced": [
+        "Sitz des Obersten Gerichtshofs der Union der Komoren.",
+        "Zentrales Organ für die Wahrung der Verfassungsmäßigkeit.",
+        "Beherbergt die höchsten Instanzen der nationalen Rechtsprechung.",
+        "Symbol für den Rechtsstaat und die Gewaltenteilung.",
+        "Ort für bedeutende öffentliche Gerichtsverfahren.",
+        "Architektonisches Wahrzeichen im Regierungsviertel von Moroni.",
+        "Zentrum für die juristische Aus- und Fortbildung im Land."
+      ]
+    },
+    {
+      "id": "palais-du-gouvernement-landmarks-v2",
+      "descriptionAdvanced": "Der Regierungspalast in Moroni ist die offizielle Residenz und der Arbeitsplatz des Präsidenten der Union der Komoren. Das Gebäude dient als exekutives Zentrum des Staates, in dem Kabinettssitzungen abgehalten, Gesetze unterzeichnet und hochrangige Staatsgäste empfangen werden. Im K9-Lehrplan für Geschichte und Politik wird der Palast als Ort der nationalen Führung und Entscheidungsgewalt behandelt. Die Anlage ist von gepflegten Gärten umgeben und streng bewacht, was ihren Status als wichtigstes Machtzentrum des Archipels unterstreicht. Die Architektur spiegelt eine Mischung aus modernem Repräsentationsstil und traditionellen komorischen Elementen wider und symbolisiert die Einheit der Inseln unter einer föderalen Führung.",
+      "factsAdvanced": [
+        "Offizielle Residenz des Präsidenten der Komoren.",
+        "Tagungsort für den nationalen Ministerrat.",
+        "Schauplatz für den Empfang von ausländischen Diplomaten.",
+        "Zentrales Machtzentrum im Herzen der Hauptstadt Moroni.",
+        "Symbol für die exekutive Autorität und nationale Souveränität.",
+        "Streng gesicherte Anlage mit repräsentativen Zeremonialsälen.",
+        "Umgeben von Gärten, die für staatliche Empfänge genutzt werden."
+      ]
+    },
+    {
+      "id": "itsandra-beach-hotel-landmarks-v2",
+      "descriptionAdvanced": "Das Itsandra Beach Hotel ist das prestigeträchtigste Hotel der Komoren und ein Pionier der nationalen Tourismusbranche. Auf einer vulkanischen Klippe nördlich von Moroni gelegen, bietet es einen spektakulären Blick auf den Indischen Ozean und verfügt über einen der wenigen privaten weißen Sandstrände der Insel Grande Comore. Im K7-Lehrplan für Tourismus und Geographie wird das Hotel als Beispiel für hochwertige Infrastrukturentwicklung und als wichtiger Arbeitgeber im Dienstleistungssektor analysiert. Es dient nicht nur Urlaubern als luxuriöses Refugium, sondern ist auch ein bedeutender Ort für internationale Konferenzen und diplomatische Gipfeltreffen. Die Kombination aus komorischer Ästhetik und modernem Komfort macht es zu einem Wahrzeichen der Gastfreundschaft auf den Inseln.",
+      "factsAdvanced": [
+        "Ältestes und bekanntestes Luxushotel der Union der Komoren.",
+        "Gelegen in Itsandra, unweit der Hauptstadt Moroni.",
+        "Verfügt über einen exklusiven Strand an einer Korallenbucht.",
+        "Bevorzugter Aufenthaltsort für Staatsgäste und Geschäftsreisende.",
+        "Wichtiger Standort für internationale Tagungen und Konferenzen.",
+        "Architektonisches Vorbild für die touristische Entwicklung der Inseln.",
+        "Motor für die lokale Beschäftigung im Hotelgewerbe."
+      ]
+    },
+    {
+      "id": "alliance-francaise-moroni-landmarks-v2",
+      "descriptionAdvanced": "Die Alliance Française in Moroni ist das bedeutendste ausländische Kulturzentrum der Komoren und ein wichtiger Ort für Bildung und gesellschaftlichen Austausch. Als Brücke zwischen der komorischen und der französischen Kultur bietet sie Sprachkurse, eine umfangreiche Bibliothek und ein vielfältiges Veranstaltungsprogramm von Filmabenden bis hin zu Kunstausstellungen an. Im K9-Lehrplan für moderne Sprachen und Gesellschaft wird die Einrichtung als Beispiel für internationale kulturelle Zusammenarbeit und die Bedeutung der Frankophonie im Archipel thematisiert. Für viele junge Komoren ist die Alliance Française ein Fenster zur Welt und ein Sprungbrett für akademische Karrieren im Ausland. Das lebendige Zentrum fördert zudem den Dialog zwischen lokalen Künstlern und der internationalen Gemeinschaft.",
+      "factsAdvanced": [
+        "Wichtigstes Zentrum für den kulturellen Austausch in Moroni.",
+        "Bietet international anerkannte Französisch-Sprachkurse an.",
+        "Beherbergt eine der größten öffentlichen Bibliotheken des Landes.",
+        "Wichtiger Veranstaltungsort für Konzerte und Theatervorstellungen.",
+        "Fördert die Zusammenarbeit zwischen komorischen und ausländischen Künstlern.",
+        "Zentraler Punkt für bildungsorientierte Jugendprogramme.",
+        "Symbol für die engen kulturellen Bande zu Frankreich."
+      ]
+    },
+    {
+      "id": "ouani-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "Das Flughafenterminal von Ouani ist das lebenswichtige Tor zur Insel Anjouan und ein zentraler Knotenpunkt für den Regionalverkehr innerhalb der Komoren. Das Terminal wurde modernisiert, um den steigenden Passagierzahlen gerecht zu werden, und verbindet Anjouan täglich mit der Hauptstadt Moroni sowie der Insel Mohéli. Im K7-Lehrplan für Logistik illustriert dieser Flughafen die Herausforderungen des inter-insularen Verkehrs und die Bedeutung einer zuverlässigen Infrastruktur für die wirtschaftliche Integration des Archipels. Trotz seiner kompakten Größe erfüllt der Flughafen eine entscheidende Funktion für den Handel, den Notfalltransport und die Mobilität der Bevölkerung. Die Lage direkt an der Küste macht den Anflug zu einem der spektakulärsten Erlebnisse für Reisende in den Komoren.",
+      "factsAdvanced": [
+        "Hauptflughafen der Insel Anjouan, gelegen in Ouani.",
+        "Kritische Anbindung für den Personenverkehr zwischen den Inseln.",
+        "Ermöglicht den schnellen Transport lokaler Exportgüter.",
+        "Drehscheibe für Inlandsflüge nach Moroni und Fomboni.",
+        "Wichtiger Standort für die medizinische Notfallversorgung per Luft.",
+        "Kürzlich modernisiertes Terminalgebäude für effiziente Abwicklung.",
+        "Strategischer Außenposten der nationalen Luftfahrtbehörde."
+      ]
+    },
+    {
+      "id": "bander-es-salam-terminal-landmarks-v2",
+      "descriptionAdvanced": "Das Terminal Bander es Salam auf der Insel Mohéli ist ein kleines, aber funktional entscheidendes Bauwerk für die kleinste der drei Hauptinseln der Komoren. Als einziges Tor für den Luftverkehr nach Mohéli ist es für den Tourismus und die Versorgung der Inselbewohner unverzichtbar. Im K5-Lehrplan für Geographie wird der Flughafen als Beispiel für die infrastrukturelle Anbindung entlegener Regionen behandelt. Er bietet die primäre Verbindung für Besucher, die den Mohéli-Meeres-Nationalpark erkunden möchten, und sichert den Transport von lebenswichtigen Medikamenten und Post. Das schlichte Design des Terminals passt zum entspannten, naturnahen Charakter der Insel und markiert den Beginn eines Abenteuers in der unberührten Natur von Mohéli.",
+      "factsAdvanced": [
+        "Einziger Flughafen der Insel Mohéli in Bander Es Salam.",
+        "Haupttor für Touristen, die den Meeres-Nationalpark besuchen.",
+        "Tägliche Verbindungen nach Moroni und Mutsamudu.",
+        "Schlichtes Terminalgebäude, das den ökotouristischen Fokus betont.",
+        "Kritische Verbindung für die medizinische Versorgung der Inselbewohner.",
+        "Strategischer Standort für die Entwicklung von Mohéli als Naturparadies.",
+        "Ein kleiner, aber effizienter Außenposten des komorischen Luftverkehrs."
+      ]
+    },
+    {
+      "id": "mosquee-mutsamudu-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Mutsamudu ist das religiöse und soziale Zentrum der Insel Anjouan und ein beeindruckendes Beispiel für die moderne islamische Sakralarchitektur. Mit ihrer markanten Kuppel und dem hohen Minarett prägt sie die Silhouette der zweitgrößten Stadt der Komoren und ist ein weithin sichtbares Zeichen des Glaubens. Im K6-Lehrplan für Religion und Gesellschaft veranschaulicht die Moschee die zentrale Rolle des gemeinschaftlichen Gebets für den Zusammenhalt auf Anjouan. Der weitläufige Innenraum kann bei großen Festen Tausende von Gläubigen aufnehmen. Die Moschee ist nicht nur ein Ort der Anbetung, sondern fungiert auch als Bildungszentrum für religiöse Studien und als Versammlungsort für die Ältesten der Stadt, um wichtige lokale Angelegenheiten zu besprechen.",
+      "factsAdvanced": [
+        "Bedeutendstes religiöses Bauwerk der Hafenstadt Mutsamudu.",
+        "Modernes Minarett, das als Orientierungspunkt für Schiffe dient.",
+        "Zentraler Versammlungsort für die Gemeinde auf Anjouan.",
+        "Wichtiger Standort für islamische Bildung und Koranschulen.",
+        "Architektonische Verbindung von Tradition und moderner Bauweise.",
+        "Schauplatz der größten religiösen Zeremonien auf der Insel.",
+        "Symbol für den Stolz und die spirituelle Identität von Mutsamudu."
+      ]
+    },
+    {
+      "id": "waterfront-domoni-landmarks-v2",
+      "descriptionAdvanced": "Die Uferpromenade von Domoni auf der Insel Anjouan ist ein malerischer Bereich, in dem die historische Architektur der Stadt direkt auf den Indischen Ozean trifft. Diese Landmarke ist bekannt für ihre spektakulären Ausblicke und dient den Bewohnern als wichtiger öffentlicher Raum für Erholung und Handel. Im K5-Lehrplan für Heimatkunde illustriert die Promenade die enge Verbindung der komorischen Städte mit dem Meer und die Bedeutung von Freiräumen für das soziale Leben. Entlang der Ufermauer sieht man oft Fischer, die ihre Boote vorbereiten, und Händler, die frische Waren umschlagen. Die Promenade verbindet die alte Medina mit dem Küstengebiet und ist besonders bei Sonnenuntergang ein beliebter Treffpunkt, an dem die maritime Geschichte von Domoni spürbar wird.",
+      "factsAdvanced": [
+        "Zentraler öffentlicher Raum an der Küste von Domoni.",
+        "Bietet einen uneingeschränkten Blick auf den Indischen Ozean.",
+        "Wichtiger Treffpunkt für soziale Aktivitäten und lokalen Handel.",
+        "Verbindet die historische Altstadt mit dem maritimen Bereich.",
+        "Standort für traditionelle Fischerboote und kleine Warenmärkte.",
+        "Bekannt für seine entspannte Atmosphäre und schöne Sonnenuntergänge.",
+        "Symbol für die maritime Identität der ehemaligen Sultansstadt."
+      ]
+    },
+    {
+      "id": "fort-de-iconi-ruins-landmarks-v2",
+      "descriptionAdvanced": "Die Ruinen der Festung von Iconi (Fort de Iconi) thronen auf den steilen Klippen über einer der ältesten Städte von Grande Comore. Diese Überreste einer wehrhaften Vergangenheit zeugen von der Zeit und den Verteidigungskämpfen gegen malagassische Invasoren und Piraten. Im K8-Lehrplan für Geschichte dienen die Ruinen als eindrucksvolles Beispiel für militärische Architektur und die strategische Bedeutung von Küstenbefestigungen. Von der Anlage aus hatten die Wächter einen perfekten Blick über das Meer, um feindliche Schiffe frühzeitig zu entdecken. Heute sind die Mauern aus Korallengestein ein stilles Mahnmal für die bewegte Geschichte der Insel und ein wichtiger Ort für das nationale historische Bewusstsein, der jährlich viele Besucher anzieht.",
+      "factsAdvanced": [
+        "Historische Verteidigungsanlage auf den Klippen von Iconi.",
+        "Relikt aus der Ära der komorischen Sultanate.",
+        "Schutzwall gegen historische Angriffe aus Madagaskar.",
+        "Spektakuläre Lage mit Blick über die Westküste von Grande Comore.",
+        "Erbaut aus lokalem Basalt und Korallenstein.",
+        "Wichtiger Ort für archäologische Studien zur Stadtgeschichte.",
+        "Symbol für die Wehrhaftigkeit und den Widerstand der Vorfahren."
+      ]
+    },
+    {
+      "id": "grande-mosquee-mbeni-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Mbéni ist das prächtige architektonische Zentrum des Nordens von Grande Comore. Als eine der größten und am schönsten verzierten Moscheen der Insel ist sie ein Symbol für den Wohlstand und die Frömmigkeit der Region Hamahamet. Im K8-Lehrplan für Kunst und Religion wird die Moschee als Beispiel für die moderne Weiterentwicklung der Swahili-Architektur behandelt. Mit ihren eleganten Bögen und dem fein gestalteten Minarett dominiert sie das Stadtbild von Mbéni. Sie ist nicht nur ein Ort des Gebets, sondern auch ein bedeutendes soziales Zentrum, in dem traditionelle Hochzeitszeremonien und Gemeindetreffen stattfinden, die für die soziale Struktur des Nordens von entscheidender Bedeutung sind.",
+      "factsAdvanced": [
+        "Größte Moschee in der nordöstlichen Region von Grande Comore.",
+        "Berühmt für ihre prachtvolle Architektur und feine Wandverzierungen.",
+        "Zentrum für bedeutende traditionelle Hochzeitszeremonien.",
+        "Ein Paradebeispiel für gemeinschaftsfinanzierte Bauprojekte.",
+        "Wichtiger Bildungsstandort für islamische Studien in Hamahamet.",
+        "Ein Wahrzeichen, das weithin über die Küstenebene sichtbar ist.",
+        "Symbol für den kulturellen und religiösen Stolz der Stadt M'béni."
+      ]
+    },
+    {
+      "id": "mairie-de-fomboni-landmarks-v2",
+      "descriptionAdvanced": "Das Rathaus von Fomboni (Mairie de Fomboni) ist das administrative Zentrum der Inselhauptstadt von Mohéli und ein wichtiger Ort für die lokale Selbstverwaltung. In diesem Gebäude werden die zivilen Angelegenheiten der Inselbewohner geregelt, von der Registrierung von Geburten bis hin zur Organisation städtischer Dienstleistungen. Im K9-Lehrplan für Gemeinschaftskunde dient das Rathaus als Beispiel für die dezentrale Verwaltung in der Union der Komoren. Das Gebäude zeichnet sich durch seine schlichte Architektur aus, die den funktionalen Charakter der Inselverwaltung widerspiegelt. Der Vorplatz des Rathauses ist oft ein Ort für öffentliche Bekanntmachungen und Versammlungen der Bürger von Mohéli, was seine Rolle als Herzstück des bürgerlichen Lebens unterstreicht.",
+      "factsAdvanced": [
+        "Sitz der Stadtverwaltung und des Bürgermeisters von Fomboni.",
+        "Zentrales Verwaltungsgebäude für zivile Angelegenheiten auf Mohéli.",
+        "Ort für offizielle Zeremonien und standesamtliche Trauungen.",
+        "Wichtiges Bindeglied zwischen der Bevölkerung und der Inselregierung.",
+        "Einfache, funktionale Architektur im Zentrum der Inselhauptstadt.",
+        "Treffpunkt für den Stadtrat und Bürgerversammlungen.",
+        "Sichert die Organisation der städtischen Infrastruktur auf Mohéli."
+      ]
+    },
+    {
+      "id": "lycee-said-mohamed-cheikh-landmarks-v2",
+      "descriptionAdvanced": "Das Lycée Saïd Mohamed Cheikh in Moroni ist die angesehenste und geschichtsträchtigste höhere Bildungseinrichtung der Komoren. Benannt nach dem Gründervater der Nation, hat diese Schule Generationen von komorischen Intellektuellen, Politikern und Fachkräften ausgebildet. Im K9-Lehrplan für Bildung und Gesellschaft wird das Lycée als Symbol für den Fortschritt und die nationale Alphabetisierungsstrategie thematisiert. Die weitläufige Anlage umfasst Klassenzimmer, Labore und Sportplätze und ist der Ort, an dem die nationale Elite ihre Vorbereitung auf das Abitur absolviert. Die Schule spielt eine zentrale Rolle bei der Gestaltung der Zukunft des Landes durch die Förderung exzellenter Bildung und die Vorbereitung junger Menschen auf internationale Universitäten.",
+      "factsAdvanced": [
+        "Älteste und bedeutendste weiterführende Schule der Komoren.",
+        "Benannt nach dem ehemaligen Präsidenten Saïd Mohamed Cheikh.",
+        "Hauptausbildungsstätte für die zukünftige Elite des Landes.",
+        "Zentrum für die Abhaltung der nationalen Baccalauréat-Prüfungen.",
+        "Verfügt über eine lange Tradition akademischer Exzellenz.",
+        "Großer Campus mit historischem Hauptgebäude in Moroni.",
+        "Wichtiger Pfeiler des komorischen Bildungssystems seit der Unabhängigkeit."
+      ]
+    },
+    {
+      "id": "marche-volovolo-landmarks-v2",
+      "descriptionAdvanced": "Der Volovolo-Markt in Moroni ist der größte und lebhafteste Marktplatz der Komoren und das schlagende Herz der nationalen Wirtschaft. Hier findet man alles von exotischen Gewürzen und frischem Obst bis hin zu handgewebten Stoffen und modernen Haushaltswaren. Im K7-Lehrplan für Wirtschaftsgeographie wird der Markt als Zentrum des informellen Sektors und des täglichen Austauschs analysiert. Das Labyrinth aus überdachten Gassen ist ein Fest für die Sinne, geprägt von den Rufen der Verkäufer und den Düften von Vanille und Nelken. Für die Bewohner der Hauptstadt ist Volovolo nicht nur ein Ort zum Einkaufen, sondern ein sozialer Treffpunkt, an dem Nachrichten ausgetauscht und Geschäfte auf traditionelle Weise per Handschlag besiegelt werden.",
+      "factsAdvanced": [
+        "Größter Basar und Handelsplatz der Union der Komoren in Moroni.",
+        "Zentraler Ort für den Handel mit lokalen Agrarprodukten.",
+        "Bekannt für die Vielfalt an komorischen Gewürzen.",
+        "Ein Schmelztiegel der Kulturen und ein wichtiger Motor der Mikroökonomie.",
+        "Täglicher Anlaufpunkt für Tausende von Menschen.",
+        "Berühmt für traditionelle Textilien wie den 'Lesso' und den 'Kandzu'.",
+        "Unverzichtbares Erlebnis für Besucher zur Entdeckung der lokalen Kultur."
+      ]
+    },
+    {
+      "id": "mutsamudu-city-gates-landmarks-v2",
+      "descriptionAdvanced": "Die historischen Stadttore von Mutsamudu sind die markanten Eingänge zur alten Medina der Hauptstadt von Anjouan und zeugen von der Zeit, als die Stadt befestigt war. Diese Tore, oft aus Korallengestein erbaut und mit arabischen Inschriften verziert, dienten nicht nur dem Schutz, sondern auch der Kontrolle des Handelsflusses in die Stadt. Im K7-Lehrplan für Geschichte illustrieren die Stadttore die Verteidigungsarchitektur der Sultanate. Sie markieren den Übergang zwischen der modernen Hafenstadt und der jahrhundertealten Welt der Medina. Viele dieser Tore sind heute restauriert und dienen als stolze Wahrzeichen, die an die Rolle Mutsamudus als uneinnehmbare Festung und wichtiges Handelszentrum im Indischen Ozean erinnern.",
+      "factsAdvanced": [
+        "Historische Zugänge zur befestigten Altstadt von Mutsamudu.",
+        "Architektur aus lokalem Stein mit traditionellen Swahili-Dekoren.",
+        "Einst Teil eines komplexen Verteidigungssystems gegen Piraten.",
+        "Markieren die Grenze zwischen der historischen Medina und dem Hafen.",
+        "Oft mit Inschriften verziert, die die Macht der Sultane preisen.",
+        "Wichtige Orientierungspunkte für den Denkmalschutz auf Anjouan.",
+        "Symbol für die Geschichte Mutsamudus als Handelsmetropole."
+      ]
+    },
+    {
+      "id": "radio-comores-building-landmarks-v2",
+      "descriptionAdvanced": "Das Gebäude von Radio Comores (ORTC) in Moroni ist das Zentrum der nationalen Informationsverbreitung und ein wichtiges Symbol für die freie Meinungsäußerung im Land. Hier werden die nationalen Nachrichten, Bildungsformate und kulturellen Sendungen produziert, die über Funk und Fernsehen bis in die entlegensten Bergdörfer des Archipels gelangen. Im K6-Lehrplan für Medienkunde wird Radio Comores als Instrument der nationalen Einheit und der kulturellen Bildung thematisiert. Seit der Unabhängigkeit spielt der Sender eine entscheidende Rolle bei der Information der Bevölkerung über Regierungsentscheidungen, Wetterwarnungen und Gesundheitskampagnen. Die markanten Antennen auf dem Gebäude sind ein fester Bestandteil der Skyline der Hauptstadt.",
+      "factsAdvanced": [
+        "Sitz des nationalen Rundfunk- und Fernsehsenders der Komoren (ORTC).",
+        "Wichtigste Quelle für offizielle Nachrichten und Informationen im Land.",
+        "Produziert Programme in den Sprachen Komorisch, Arabisch und Französisch.",
+        "Zentrales Instrument zur Förderung der nationalen Kultur und Einheit.",
+        "Beherbergt die modernsten Ton- und Fernsehstudios des Archipels.",
+        "Lebenswichtig für die Kommunikation während Naturkatastrophen.",
+        "Ein historisches Gebäude im Dienste der öffentlichen Information."
+      ]
+    }
+  ]
+}

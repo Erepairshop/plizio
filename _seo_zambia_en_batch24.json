@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "roan-antelope-discovery-site-history-v2",
+      "descriptionAdvanced": "The Roan Antelope discovery site is the location in Luanshya where William Collier famously discovered copper deposits in 1902, an event that fundamentally changed the course of Zambia's economic history. Legend says that he found the horns of an antelope resting on copper-bearing rock, and the discovery quickly triggered a mining boom throughout the entire Copperbelt region. Today, the site is marked as the birthplace of modern mining industry in this part of Zambia. This discovery not only led to the growth of Luanshya city but also shaped the economic profile of Zambia for decades to come.",
+      "factsAdvanced": [
+        "Location of the copper deposit discovery in 1902",
+        "Discovered by William Collier in Luanshya",
+        "Collier found antelope horns on copper-bearing rock",
+        "Triggered the mining boom in the Copperbelt",
+        "Birthplace of modern regional mining industry",
+        "Shaped Zambia's economic profile"
+      ]
+    }
+  ]
+}

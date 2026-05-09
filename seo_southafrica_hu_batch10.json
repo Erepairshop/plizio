@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-kariega-cities-v2",
+      "descriptionAdvanced": "Kariega, korábbi nevén Uitenhage, egy jelentős ipari város Kelet-Fokföldön, amely szorosan összefonódott az autóiparral. A Volkswagen itt működteti az afrikai kontinens egyik legnagyobb autógyárát, ami meghatározza a település gazdasági karakterét. A város ipari fejlődése mellett a régióban betöltött gazdasági súlya miatt vált meghatározó tényezővé, miközben 2021-es átnevezésével Kariega új fejezetet nyitott történelmében.",
+      "factsAdvanced": [
+        "A Volkswagen afrikai kontinensbeli legnagyobb gyárának otthona.",
+        "Kiemelkedő ipari központ Kelet-Fokföldön.",
+        "A város nevét 2021-ben változtatták Kariegára (korábban Uitenhage).",
+        "Erőteljes gazdasági növekedés az autógyártásnak köszönhetően.",
+        "Fontos szerepet tölt be az ország ipari termelésében.",
+        "Gumiabroncs- és alkatrészgyártás meghatározó központja."
+      ]
+    },
+    {
+      "id": "southafrica-graaff-reinet-cities-v2",
+      "descriptionAdvanced": "Graaff-Reinet az ország negyedik legrégebbi alapítású városa, amely a Sundays-folyó látványos kanyarulatában helyezkedik el. A település kapholländ építészeti öröksége, amely a 18. és 19. századi dél-afrikai történelmet idézi, páratlan. Graaff-Reinet nemcsak történelmi emlékekben bővelkedik, hanem a környező Camdeboo Nemzeti Park bejárataként is szolgál, így a történelmi és természeti turizmus egyik legfontosabb dél-afrikai célpontja.",
+      "factsAdvanced": [
+        "Az ország negyedik legrégebbi városa.",
+        "Látványos kapholländ építészeti emlékekben gazdag.",
+        "A Camdeboo Nemzeti Park közeli kapuja.",
+        "Több nemzeti műemlékkel rendelkezik, mint bármely más dél-afrikai város.",
+        "A Sundays-folyó látványos kanyarulatában fekszik.",
+        "Kiemelkedő történelmi és kulturális turisztikai központ."
+      ]
+    },
+    {
+      "id": "southafrica-queenstown-cities-v2",
+      "descriptionAdvanced": "Queenstown, ma Komani, egy stratégiailag tervezett város, amelyet az 1850-es években egyfajta előretolt katonai bázisként hoztak létre. A város egyedi, hatszögletű központi elrendezése a védelmi stratégiákat tükrözi, amit a tervezők a régió biztosítására alkalmaztak. Ma a település a környező régió kereskedelmi központja, amely a festői hegyvidéki környezetben ötvözi a történelmi védelmi célú városépítészetet a modern dél-afrikai életmóddal.",
+      "factsAdvanced": [
+        "A mai Komani városának korábbi elnevezése Queenstown volt.",
+        "Hatszögletű városközpontját védelmi stratégiai célokkal tervezték.",
+        "Történelmileg egy stratégiai, védelmi célú település volt.",
+        "Hegyekkel övezett festői környezetben helyezkedik el.",
+        "A régió kereskedelmi központja.",
+        "Különleges, a történelem során megőrzött városépítészeti struktúra."
+      ]
+    },
+    {
+      "id": "southafrica-aliwal-north-cities-v2",
+      "descriptionAdvanced": "Aliwal North az Oranje-folyó partján elterülő város, amely a Dél-Afrikában ritkaságszámba menő, meleg ásványvizes forrásairól vált ismertté. A 34 Celsius-fokos vizet biztosító források évtizedek óta vonzzák a kikapcsolódni vágyókat, így a település a régió egyik fontos turisztikai és rekreációs központja. A várost az indiai Aliwal-csata tiszteletére nevezték el, és azóta fontos kereskedelmi állomásként funkcionál a folyó mentén.",
+      "factsAdvanced": [
+        "Az Oranje-folyó mentén fekszik.",
+        "Híres a 34 fokos, meleg ásványvizes forrásairól.",
+        "Az indiai Aliwal-csata tiszteletére kapta a nevét.",
+        "A régió egyik legfontosabb rekreációs és turisztikai központja.",
+        "Kiemelkedő jelentőségű gyógyvíz-turisztikai helyszín.",
+        "Gazdag kereskedelmi múlttal rendelkező folyómenti város."
+      ]
+    },
+    {
+      "id": "southafrica-middelburg-cities-v2",
+      "descriptionAdvanced": "Middelburg az Mpumalanga tartomány acélipari központja, amely a 19. század közepén alakult ki kereskedelmi csomópontként. A város ipari súlya a rozsdamentes acél előállításában és a szén bányászatában nyilvánul meg, ami a régió egyik meghatározó gazdasági szereplőjévé teszi. A modern ipari infrastruktúra mellett a település fontos mezőgazdasági szolgáltatóközpont is, amely a Mpumalanga tartomány központi részének gazdasági fejlődését biztosítja.",
+      "factsAdvanced": [
+        "Mpumalanga tartomány acéliparának központja.",
+        "Jelentős szerepet játszik a rozsdamentes acél előállításában.",
+        "A szénbányászat egyik központi városa.",
+        "1864-es alapítású, ipari kereskedelmi központ.",
+        "A Mpumalanga tartomány egyik gazdasági motorja.",
+        "Modern ipari és mezőgazdasági infrastruktúrával rendelkező település."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sefula-mission-history-v2",
+      "descriptionAdvanced": "The Sefula Mission station, founded in the late 19th century by the missionary pioneer François Coillard, marks a decisive turning point in the history of Barotseland. As the first permanent Christian mission in the region, it served as a pioneer for the introduction of Western education and as a diplomatic base where important treaties were negotiated. The station was instrumental in shaping the relationships between the Lozi people and European powers. Today, Sefula reminds us of the complex processes of cultural encounter and the early establishment of modern educational structures that have sustainably influenced social development in Barotseland.",
+      "factsAdvanced": [
+        "Founded by François Coillard",
+        "First mission station in Barotseland",
+        "Introduction point for Western education",
+        "Important site for early colonial diplomacy",
+        "Influenced social development of the region",
+        "Significant witness to mission history"
+      ]
+    }
+  ]
+}

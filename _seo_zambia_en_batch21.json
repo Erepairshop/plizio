@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "leopards-hill-cave-history-v2",
+      "descriptionAdvanced": "Leopard's Hill Cave is a significant archaeological site near Lusaka, containing evidence of Middle and Late Stone Age occupation. Through quartz tools and animal bones found here, researchers have been able to gain insight into the prehistoric human activity in the area and the lifestyle of that time. The findings have contributed to the understanding of the technological development of early human communities and their interaction with their environment. The site today serves as a valuable resource for experts in ancient African history who are researching Stone Age human migration and technological adaptation.",
+      "factsAdvanced": [
+        "Significant archaeological site near Lusaka",
+        "Evidence of Middle and Late Stone Age occupation",
+        "Uncovered quartz tools and animal bones",
+        "Sheds light on prehistoric human activity",
+        "Source for research into Stone Age technological evolution",
+        "Important site for ancient African history"
+      ]
+    }
+  ]
+}

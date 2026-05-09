@@ -1,0 +1,73 @@
+{
+  "lang": "ro",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "praia-cities-v2",
+      "descriptionAdvanced": "Praia, situat pe coasta de sud a insulei Santiago, este capitala Republicii Capului Verde din anul 1858. Orașul este centrul politic, economic și cultural al arhipelagului, fiind caracterizat prin amestecul de arhitectură colonială istorică, situată pe platoul central, și clădiri guvernamentale moderne. Cu o populație de aproximativ 159.000 de locuitori, Praia găzduiește Aeroportul Internațional Nelson Mandela și un port activ, care servesc drept puncte de tranzit esențiale pentru traficul internațional. De asemenea, orașul este sediul Universității din Capul Verde și al numeroaselor instituții diplomatice, consolidându-și statutul de centru intelectual și administrativ.",
+      "factsAdvanced": [
+        "Capitala țării din 1858",
+        "Cel mai mare oraș cu circa 159.000 de locuitori",
+        "Principal nod de transport național",
+        "Sediul Parlamentului și al Guvernului",
+        "Gazda Universității din Capul Verde",
+        "Numele aeroportului onorează pe Nelson Mandela"
+      ]
+    },
+    {
+      "id": "assomada-cities-v2",
+      "descriptionAdvanced": "Assomada este situată la o altitudine de aproximativ 500 de metri, în zona montană centrală a insulei Santiago. Orașul servește drept reședință administrativă a municipiului Santa Catarina și reprezintă un centru comercial și educațional crucial pentru regiunea interioară. Assomada este renumită pentru piața sa săptămânală vibrantă, care atrage comercianți din toată insula, fiind un punct central al culturii locale. Muzeul Tabanka păstrează tradițiile folclorice africane specifice regiunii. Începând cu anul 2005, când a primit oficial statutul de oraș, Assomada a continuat să se dezvolte ca un nod urban important, păstrându-și în același timp tradițiile agrare rurale.",
+      "factsAdvanced": [
+        "Altitudine de aproximativ 500 de metri",
+        "A doua cea mai mare așezare de pe insula Santiago",
+        "Centru administrativ pentru municipiul Santa Catarina",
+        "Statut oficial de oraș obținut în 2005",
+        "Cunoscută pentru piața populară Sucupira",
+        "Găzduiește Muzeul Tabanka",
+        "Hub comercial și de transport pentru interiorul insulei"
+      ]
+    },
+    {
+      "id": "pedra-badejo-cities-v2",
+      "descriptionAdvanced": "Pedra Badejo este situat pe coasta estică a insulei Santiago și a devenit reședința municipiului Santa Cruz în 2010. Regiunea este recunoscută pentru fertilitatea terenurilor sale, susținând producția intensivă de banane, trestie de zahăr și porumb. Orașul este marcat de plajele cu nisip vulcanic negru, unde pescarii locali își trag bărcile colorate după fiecare ieșire în larg. Cu o populație de aproximativ 9.000 de locuitori, Pedra Badejo servește drept piață agricolă centrală. Peisajul din împrejurimi, dominat de valea Ribeira Seca, oferă un contrast spectaculos între vegetația luxuriantă a plantațiilor și țărmul arid al Oceanului Atlantic.",
+      "factsAdvanced": [
+        "Reședința municipiului Santa Cruz",
+        "A primit statutul de oraș în 2010",
+        "Centru agricol vital pentru Santiago",
+        "Zona de coastă cu nisip vulcanic negru",
+        "Hub al producției de banane și porumb",
+        "Situat la circa 30 km nord de Praia",
+        "Inima economică a văii Ribeira Seca"
+      ]
+    },
+    {
+      "id": "tarrafal-cities-v2",
+      "descriptionAdvanced": "Tarrafal se află în extremitatea nord-vestică a insulei Santiago și este celebru pentru golful său cu nisip alb, o raritate pentru peisajul predominant vulcanic al arhipelagului. Cu aproximativ 7.000 de locuitori, orașul este centrul administrativ al municipiului cu același nume. Din punct de vedere istoric, Tarrafal este marcat de fostul lagăr de concentrare Campo da Morte Lenta (1936–1974), astăzi un muzeu și memorial național. Astăzi, localitatea atrage turiști în căutare de relaxare, datorită apelor turcoaz, palmierilor de cocos și facilităților excelente pentru scufundări, fiind un punct de întâlnire între istoria tragică și frumusețea naturală.",
+      "factsAdvanced": [
+        "Centrul municipiului Tarrafal",
+        "Plajă renumită cu nisip alb",
+        "Locația fostului lagăr Campo da Morte Lenta",
+        "Lagăr activ între anii 1936 și 1974",
+        "Centru regional important pentru pescuit",
+        "Atracție majoră pentru scufundări și plajă",
+        "Populație de aproximativ 7.000 de persoane"
+      ]
+    },
+    {
+      "id": "cidade-velha-cities-v2",
+      "descriptionAdvanced": "Cidade Velha, cunoscută inițial sub numele de Ribeira Grande de Santiago, a fost fondată în 1462 și reprezintă cea mai veche așezare europeană din zona tropicală. Până în 1770, a servit drept capitală a insulelor Capului Verde, jucând un rol central în comerțul transatlantic cu sclavi. În 2009, centrul istoric al orașului a fost inclus în Patrimoniul Mondial UNESCO. Fortul Real de São Filipe, construit în 1593, oferă o vedere panoramică impresionantă asupra oceanului. Coloana Pelourinho, situată în piața principală, servește drept mărturie solemnă a trecutului colonial și a istoriei complexe a regiunii.",
+      "factsAdvanced": [
+        "Fondată în 1462",
+        "Cea mai veche așezare europeană în tropice",
+        "Capitală până în 1770",
+        "Sit UNESCO din anul 2009",
+        "Găzduiește Fortul Real de São Filipe",
+        "Nod istoric al comerțului cu sclavi",
+        "Denumire originală: Ribeira Grande de Santiago"
+      ]
+    }
+  ]
+}

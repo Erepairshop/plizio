@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-tchabal-mbabo-relief-v2",
+      "descriptionAdvanced": "Tchabal Mbabo is one of the highest peaks on the vast Adamawa Plateau and represents an impressive topographic elevation in this otherwise gentle plateau landscape. The relief is determined by afromontane vegetation and steep, almost vertical rock walls, which allow for a wide view over the surrounding plateau. This striking elevation is a prime example of topographic diversity within the central highlands of Cameroon. Geography K7 — mountain landscapes.",
+      "factsAdvanced": [
+        "High peak in the midst of the gentle plateau structure.",
+        "Striking topographic elevation on the Adamawa Plateau.",
+        "Determined by afromontane vegetation and steep rock faces.",
+        "Offers wide, spectacular views over the surrounding area.",
+        "Prime example of landscape diversity in the highlands.",
+        "Central orientation point in the geographical center of the country."
+      ]
+    },
+    {
+      "id": "mount-oko-relief-v2",
+      "descriptionAdvanced": "Mount Oko is a significant peak within the Bamenda Highlands, known for its harmonious integration into the rolling, volcanically formed relief of the region. The topographic form of the mountain offers an ideal basis for extensive grasslands that surround the agriculture in the valleys. As part of the volcanic history of the western regions, this peak contributes significantly to the picturesque, relief-rich image of the Bamenda Highlands. Geography K7 — hill and mountain landscape.",
+      "factsAdvanced": [
+        "Significant peak in the middle of the Bamenda Highlands.",
+        "Harmonious integration into the rolling, volcanic relief.",
+        "Topographic foundation for extensive grasslands.",
+        "Part of the volcanic history of the western mountain regions.",
+        "Essential for the relief-rich image of the Bamenda Highlands.",
+        "Known target for the landscape exploration of the region."
+      ]
+    },
+    {
+      "id": "mount-o-ku-relief-v2",
+      "descriptionAdvanced": "Mount Oku, as the second-highest mountain in the western highlands, is a central geographical element that impresses with its massive volcanic relief and the surrounding dense cloud forests. The topographic form is marked by the nearby crater lake and steep flanks, which constitute a special ecological zone for rare endemic species. This elevation is an essential component of the volcanically formed landscape chain of western Cameroon and offers geologically profound insights into the region's origin history. Geography K7 — mountains and ecology.",
+      "factsAdvanced": [
+        "Second-highest peak in the entire western highland.",
+        "Massive volcanic relief with a defining silhouette.",
+        "Surrounded by ecologically valuable and dense cloud forests.",
+        "Proximity to the crater lake influences the local topographic image.",
+        "Important ecological special zone for endemic species.",
+        "Central component of the volcanic mountain chain of western Cameroon."
+      ]
+    },
+    {
+      "id": "mount-rumpi-relief-v2",
+      "descriptionAdvanced": "The Rumpi Hills are a vast, volcanic mountain massif in the southwest, which, due to its secluded location, exhibits an almost untouched topographic structure. The relief consists of a succession of different volcanic peaks covered by dense vegetation, forming a demanding, rugged terrain. This seclusion has protected the relief from human intervention, making it one of the less explored, but geologically fascinating mountain regions in the southwest sector of Cameroon. Geography K7 — mountains and wilderness.",
+      "factsAdvanced": [
+        "Vast, volcanically formed mountain massif.",
+        "Secluded and largely untouched topographic structure.",
+        "Characterized by a multitude of different volcanic peaks.",
+        "Challenging, rugged terrain with dense vegetation.",
+        "Relief largely protected from human access by isolation.",
+        "Geologically fascinating mountain region in the southwest sector."
+      ]
+    },
+    {
+      "id": "mount-bakossi-relief-v2",
+      "descriptionAdvanced": "The Bakossi Mountains represent a topographically diverse mountain region, known for its high density of endemic species and its relief formed by volcanic processes. The mountain landscape is characterized by a mosaic of steep slopes and plateaus, which constitutes an important refuge for the Cameroonian rainforest. The topographic structure significantly influences the local microclimate and thus promotes the preservation of a unique ecological diversity in a comparatively small space. Geography K7 — mountains and nature conservation.",
+      "factsAdvanced": [
+        "Topographically diverse mountain region with high protection status.",
+        "Relief is a mosaic of steep slope positions and plateaus.",
+        "Known for the high density of endemic species.",
+        "Important retreat for the primary tropical rainforest.",
+        "Topography significantly influences the local microclimate.",
+        "Ecologically unique structure in a comparatively small space."
+      ]
+    }
+  ]
+}

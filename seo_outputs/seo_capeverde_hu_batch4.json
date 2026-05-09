@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeLifeV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeNatureV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "calheta-de-sao-miguel-cities-v2",
+      "descriptionAdvanced": "Calheta de São Miguel egy csendes tengerparti város Santiago szigetének északkeleti partján, és a São Miguel község legfontosabb települése. A várost meredek vulkáni hegyek övezik, és egy kis, fekete homokos öbölre néz, amely meghatározza a település karakterét. A helyi élet szorosan összefonódik a halászattal és a környező völgyekben folyó mezőgazdasággal, ahol főként cukornádat, kukoricát és babot termesztenek. A régió büszke kulturális örökségére, hiszen innen származik a legendás Codé di Dona, a Funaná stílus egyik legnagyobb mestere. Calheta de São Miguel autentikus, kevésbé turisztikai hangulata tökéletes kiindulópont a sziget északi, vadregényes tájainak és vidéki közösségeinek felfedezéséhez.",
+      "factsAdvanced": [
+        "São Miguel község adminisztratív és gazdasági központja",
+        "A Funaná zenei stílus egyik legfontosabb bölcsője",
+        "Jellemzője a fekete vulkáni homokos tengerpart",
+        "A helyi gazdaság alapja a kézműves halászat",
+        "A város drámai hegyvidéki környezetben fekszik",
+        "Híres a hagyományos mezőgazdasági termékeiről",
+        "Fontos szerepet tölt be a sziget északkeleti részének kereskedelmében",
+        "A hagyományos kapverdi kultúra és népszokások őrzője"
+      ]
+    },
+    {
+      "id": "picos-cities-v2",
+      "descriptionAdvanced": "Picos, más néven Achada Igreja, egy hangulatos hegyi város Santiago szigetének szívében, meredek vulkáni kúpok között. A 2005-ben létrehozott São Salvador do Mundo község székhelyeként körülbelül 600 méteres magasságban helyezkedik el, pazar kilátást nyújtva a környező csúcsokra. A város és a régió gazdasága elsősorban az önellátó gazdálkodáson alapul, ahol a teraszos művelés látványa mindennapos a meredek hegyoldalakon. Picos ad otthont az ország egyik legrégebbi egyházközségének, amely 1671-ig vezeti vissza gyökereit, történelmi temploma pedig ma is a közösségi élet és a vallási ünnepek középpontja. Elszigeteltebb fekvése révén a város megőrizte hiteles vidéki báját és a földhöz ezer szállal kötődő életmódját.",
+      "factsAdvanced": [
+        "São Salvador do Mundo község közigazgatási székhelye",
+        "Nevét a várost körülvevő látványos hegycsúcsokról (picos) kapta",
+        "Körülbelül 600 méterrel a tengerszint felett fekszik",
+        "Egyik legrégebbi egyházközsége 1671-ben alakult",
+        "A mezőgazdasági teraszok uralják a környező tájat",
+        "A sziget belső hegyvidéki régiójának fontos központja",
+        "Éghajlata hűvösebb és párásabb a part menti területeknél",
+        "A hagyományos kapverdi hegyi életmód hiteles példája"
+      ]
+    },
+    {
+      "id": "joao-teves-cities-v2",
+      "descriptionAdvanced": "João Teves egy festői város Santiago szigetének központi részén, egy rendkívül termékeny völgyben fekszik. São Lourenço dos Órgãos község székhelyeként a sziget 'zöld szívének' tekintik, mivel az átlagosnál magasabb csapadékmennyiség buja vegetációt tesz lehetővé. A várost a Serra dos Órgãos látványos, orgonasípokra emlékeztető sziklaalakzatai uralják, amelyek több mint 1000 méter magasságba szöknek. João Teves fontos agrártudományi központ is, itt található a Nemzeti Mezőgazdasági Kutatási és Fejlesztési Intézet (INIDA). Helyi piaca életteli helyszín, ahol a völgy gazdagságát tükröző friss trópusi gyümölcsök, például mangó és papaya, valamint kiváló minőségű helyi kávé cserél gazdát.",
+      "factsAdvanced": [
+        "São Lourenço dos Órgãos község adminisztratív központja",
+        "A sziget 'zöld szívének' nevezett, csapadékos régióban fekszik",
+        "A Serra dos Órgãos lenyűgöző sziklái határozzák meg a látképét",
+        "A Nemzeti Mezőgazdasági Kutatóintézet (INIDA) székhelye",
+        "Híres az öntözéses gazdálkodásról és a gyümölcstermesztésről",
+        "Kiváló minőségű helyi kávét termelnek a környező lejtőkön",
+        "A túrázók kedvelt kiindulópontja a zöld hegyvidékek felé",
+        "Praiától mindössze 30 kilométerre, a sziget belsejében található"
+      ]
+    },
+    {
+      "id": "sao-domingos-cities-v2",
+      "descriptionAdvanced": "São Domingos egy bájos város Santiago délkeleti részén, mintegy 20 kilométerre északra a fővárostól, Praiától. A São Domingos község székhelyeként ismert település a Zöld-foki-szigetek egyik legfontosabb kézműves központja, ahol a kosárfonás és a fazekasság hagyományait generációk óta hűen őrzik. A város egy hegyekkel körülvett gyönyörű völgyben fekszik, és békés menedéket kínál a főváros nyüzsgése elől. Stratégiai elhelyezkedése miatt kedvelt megálló az utazók számára, akik a sziget belseje felé tartanak. A közeli Rui Vaz hegyi üdülőhely pazar kilátást és kiváló túrázási lehetőségeket biztosít, miközben a város piaca friss zöldségekkel és gyümölcsökkel látja el a régiót.",
+      "factsAdvanced": [
+        "São Domingos község közigazgatási és kulturális központja",
+        "Az ország egyik legnevesebb kézműves és fazekas települése",
+        "Praia és a sziget északi része közötti fontos útvonalon fekszik",
+        "Környezetét meredek hegyek és termékeny völgyek alkotják",
+        "Híres a hagyományos zöld-foki kosárfonási technikákról",
+        "A közeli Rui Vaz a sziget egyik legszebb kilátópontja",
+        "A régió gazdag népi hagyományairól és zenei életéről is ismert",
+        "Fontos mezőgazdasági beszállítója a fővárosi piacoknak"
+      ]
+    },
+    {
+      "id": "ribeira-da-barca-cities-v2",
+      "descriptionAdvanced": "Ribeira da Barca egy hagyományos halászfalu Santiago nyugati partján, a Santa Catarina község területén. A mély völgy torkolatában meghúzódó települést több mint 200 méter magas, monumentális vulkáni sziklák övezik, amelyek drámai hátteret adnak az Atlanti-óceánnak. A falu a helyi halászok egyik legfontosabb bázisa, kikötőjét színes facsónakok népesítik be. Ribeira da Barca a kiindulópontja az olyan elzárt természeti csodákhoz vezető hajókirándulásoknak, mint az Águas Belas barlang és az úton megközelíthetetlen fekete homokos strandok. A mintegy 1500 lakosú település megőrizte hiteles tengerparti életmódját, ahol a mindennapok ritmusát még ma is az óceán és a halászat határozza meg.",
+      "factsAdvanced": [
+        "Santiago nyugati partjának egyik legfontosabb halászfaluja",
+        "Santa Catarina község tengeri kijárata és kikötője",
+        "Itt található az Águas Belas nevű különleges tengeri barlang",
+        "A falut hatalmas, 200 méter feletti bazaltsziklák veszik körül",
+        "Híres a friss tengeri halakról és a hagyományos gasztronómiáról",
+        "Csak hajóval elérhető, rejtett öblök indulópontja",
+        "Autentikus, a turizmustól jórészt érintetlen kapverdi hangulat",
+        "A falu a Ribeira da Barca völgy torkolatában fekszik"
+      ]
+    },
+    {
+      "id": "chao-bom-cities-v2",
+      "descriptionAdvanced": "Chão Bom egy gyorsan fejlődő város Santiago északi partján, közvetlenül Tarrafal szomszédságában. Bár gyakran a híresebb üdülőhellyel azonosítják, Chão Bom saját, erős identitással bír, és népessége mára meg is haladja Tarrafalét. A város történelmi jelentőségét a Tarrafali Koncentrációs Tábor adja, amelyet a portugál gyarmati kormány épített 1936-ban a politikai foglyok elszigetelésére; ma ez a hely nemzeti emlékhely és múzeum. A sötét múlt mellett Chão Bom ma egy dinamikus lakó- és mezőgazdasági terület, amely élvezi a közeli strandok közelségét, miközben nyugodtabb, kertvárosiasabb légkört kínál lakói számára. A település fontos szolgáltatási központtá vált az északi régióban.",
+      "factsAdvanced": [
+        "Tarrafal község legnagyobb lakossággal rendelkező települése",
+        "Itt található a hírhedt Tarrafal koncentrációs tábor emlékhelye",
+        "Santiago szigetének északi részén, sík platón fekszik",
+        "Jelentős mezőgazdasági területekkel és állattenyésztéssel rendelkezik",
+        "Fontos oktatási és egészségügyi központ az északi régióban",
+        "Közvetlen szomszédságban áll Tarrafal híres fehér strandjával",
+        "Történelmileg az antikoloniális harc egyik szomorú jelképe",
+        "Lakossága az elmúlt évtizedekben dinamikusan növekedett"
+      ]
+    },
+    {
+      "id": "achada-monte-cities-v2",
+      "descriptionAdvanced": "Achada Monte egy festői vidéki település Santiago északkeleti felföldjén. A Praiát és Tarrafalt összekötő EN1-es főút mentén, mintegy 450 méteres magasságban fekvő faluból lélegzetelállító kilátás nyílik az Atlanti-óceánra és a környező vulkáni gerincekre. A közösség elsősorban mezőgazdasággal foglalkozik, a száraz lejtőkön kukoricát, babot és cukornádat termesztenek a helyi gazdák. Achada Monte kapuként szolgál a sziget vad és érintetlen északi partjai felé, és népszerű kiindulópontja a Serra Malagueta Nemzeti Parkot felfedező túrázóknak. A falu csendes, hagyományos légköre hiteles bepillantást enged a sziget belső területeinek vidéki életébe, távol a városi központok zajától.",
+      "factsAdvanced": [
+        "Santiago északkeleti részén, az északi főút mentén található",
+        "Körülbelül 450 méteres tengerszint feletti magasságban fekszik",
+        "Pazar panorámát nyújt az óceánra és a hegyvidéki tájra",
+        "A Serra Malagueta Nemzeti Park egyik közeli kapuja",
+        "Hagyományos, teraszos mezőgazdasági művelés jellemzi",
+        "Fontos pihenőhely a Praia és Tarrafal között közlekedőknek",
+        "A település híres a szárazkőfalakból épült kerítéseiről",
+        "Vidéki hangulata az autentikus kapverdi életstílust tükrözi"
+      ]
+    },
+    {
+      "id": "porto-rincao-cities-v2",
+      "descriptionAdvanced": "Porto Rincão egy elszigetelt és hiteles halászfalu Santiago nyugati partján, egy mély kanyon tövében. Egészen a 2010-ben elkészült aszfaltozott útig a sziget egyik legnehezebben megközelíthető települése volt, amely csak göröngyös ösvényeken volt elérhető. Ez az elzártság segített megőrizni egyedülálló kulturális hagyományait, különösen a Batuko zenét és táncot, amely a nők által művelt, mély afrikai gyökerekkel rendelkező ritmikus stílus. A falu drámai sziklák és egy fekete homokos strand mentén fekszik, ahol a hullámok hatalmas erővel csapnak össze a vulkáni kőzetekkel. Porto Rincão a kézműves halászat létfontosságú központja, ahol a lakók szinte teljes egészében a tengerből szerzik megélhetésüket.",
+      "factsAdvanced": [
+        "Santiago nyugati partjának egyik legizoláltabb halásztelepülése",
+        "A Batuko zenei hagyomány egyik legfontosabb őrzőhelye",
+        "Csak 2010 óta rendelkezik modern közúti összeköttetéssel",
+        "Egy látványos szurdokvölgy torkolatában helyezkedik el",
+        "Fekete vulkáni homokos strandja vadregényes látványt nyújt",
+        "A falu szinte teljes lakossága halászatból él",
+        "Autentikus helyszín a kapverdi afrikai gyökerek megismeréséhez",
+        "A tengeri áramlatok és szelek miatt fontos navigációs pont"
+      ]
+    },
+    {
+      "id": "porto-mosquito-cities-v2",
+      "descriptionAdvanced": "Porto Mosquito egy hagyományos halászfalu Santiago déli partján, közvetlenül a történelmi Cidade Velha és a főváros, Praia szomszédságában. A település egy védett öbölben fekszik, amelyet lenyűgöző vulkáni sziklaalakzatok és meredek, száraz fennsíkok vesznek körül. Porto Mosquito híres kiváló minőségű friss halairól, különösen a tonhalról és a kardhalról, kikötője pedig a generációk óta öröklődő hagyományos hajóépítés egyik központja. A falu nyugodt légköre és autentikus tengerparti éttermei miatt a praiai lakosok kedvelt hétvégi kirándulóhelye. A falu feletti dombokról tiszta időben csodálatos kilátás nyílik az Atlanti-óceánra és a szomszédos Fogo szigetére, a távolban füstölgő vulkánjával.",
+      "factsAdvanced": [
+        "Hagyományos halászfalu Praia és Cidade Velha közelében",
+        "Híres a friss tonhal- és kardhalfogásairól",
+        "Egy védett öbölben fekszik, látványos sziklaformációk között",
+        "A zöld-foki facsónak-építés egyik utolsó bástyája",
+        "Népszerű gasztronómiai célpont a friss tengeri ételek kedvelőinek",
+        "Tiszta időben rálátni innen a szomszédos Fogo szigetére",
+        "A települést meredek, száraz vulkáni fennsíkok övezik",
+        "Csendes alternatívát kínál a fővárosi élet nyüzsgésével szemben"
+      ]
+    },
+    {
+      "id": "mindelo-cities-v2",
+      "descriptionAdvanced": "Mindelo a Zöld-foki-szigetek második legnagyobb városa és az archipelágus vitathatatlan kulturális fővárosa, amely São Vicente szigetén található. A Porto Grande öböl – egy vízzel elárasztott vulkáni kráter – köré épült város híres pezsgő művészeti életéről, elegáns gyarmati építészetéről és életteli éjszakai világáról. Mindelo a 19. században vált jelentőssé, mint a brit gőzhajók egyik kulcsfontosságú szénszállító állomása az Atlanti-óceánon. Itt született a világhírű énekesnő, Cesária Évora is, akinek morna dalai nemzetközi hírnevet szereztek az országnak. A város híres a brazíliaihoz hasonló látványos karneváljáról és az évente megrendezett Baía das Gatas zenei fesztiválról, amelyek a nemzet kreatív szellemét tükrözik.",
+      "factsAdvanced": [
+        "A Zöld-foki-szigetek kulturális és intellektuális fővárosa",
+        "Itt található Porto Grande, az ország legfontosabb mélyvízi kikötője",
+        "A 19. században a transzatlanti szénkereskedelem központja volt",
+        "Híres a neoklasszicista stílusú, színes gyarmati épületeiről",
+        "A világhírű Cesária Évora szülővárosa és örökségének őrzője",
+        "Látványos karneválja februárban a szigetcsoport legnagyobb eseménye",
+        "Széles sugárutak és kozmopolita kávéházak jellemzik",
+        "A város egy lenyűgöző természetes vulkáni öbölben fekszik"
+      ]
+    },
+    {
+      "id": "salamansa-cities-v2",
+      "descriptionAdvanced": "Salamansa egy hagyományos halászfalu São Vicente északi partján, mintegy nyolc kilométerre Mindelótól. A település egy széles, félhold alakú öböl mentén terül el, ahol a világos homokot folyamatos passzátszelek ostorozzák, így a falu a szörfözés és a kiteszörfözés egyik világszínvonalú célpontjává vált. A vízi sportok kedvelőinek növekvő érdeklődése ellenére Salamansa megőrizte erős halászati hagyományait, a partot pedig ma is színes facsónakok sorai díszítik. A falu éles kontrasztot alkot Mindelo városi nyüzsgésével, csendes utcái és hamisítatlan légköre igazi nyugalmat áraszt. A strandról jól látható a láthatáron a lakatlan Santa Luzia szigete, amely tovább emeli a táj vadregényes szépségét.",
+      "factsAdvanced": [
+        "São Vicente északi partjának legfontosabb halásztelepülése",
+        "Világhírű célpont a szörfösök és a kiteszörfösök körében",
+        "Félhold alakú, világos homokos tengerparttal rendelkezik",
+        "A passzátszelek állandó és erős légmozgást biztosítanak",
+        "Közvetlen rálátást nyújt a távolabbi Santa Luzia szigetre",
+        "A falu élete a hagyományos kézműves halászaton alapul",
+        "Csupán tíz perc autóútra fekszik Mindelo központjától",
+        "A modern vízi sportok és a halászati örökség különleges elegye"
+      ]
+    },
+    {
+      "id": "sao-pedro-cities-v2",
+      "descriptionAdvanced": "São Pedro egy tengerparti falu São Vicente szigetének délnyugati csücskén, amely drámai tájairól és állandó szeléről ismert. Itt található a Cesária Évora nemzetközi repülőtér, a sziget legfontosabb légikikötője. A falu világhírű a szörfös közösség körében, mint a föld egyik leggyorsabb helyszíne a sebességi szörfözéshez, köszönhetően a széles homokos öblön átfújó stabil passzátszeleknek. A sport mellett a terület létfontosságú költőhelye a veszélyeztetett tengeri teknősöknek, a velük való közös búvárkodás pedig népszerű helyi tevékenység. Egy festői gyalogút vezet a faluból a sziklák peremén álló Dona Amélia világítótoronyhoz, ahonnan pazar kilátás nyílik a végtelen Atlanti-óceánra.",
+      "factsAdvanced": [
+        "A Cesária Évora nemzetközi repülőtérnek otthont adó település",
+        "A sebességi szörfözés egyik legfontosabb globális központja",
+        "Hatalmas, fehér homokos öböl határolja a falut",
+        "Létfontosságú természetvédelmi terület a tengeri teknősök számára",
+        "Itt található a Dona Amélia világítótoronyhoz vezető túraútvonal",
+        "A sziget délnyugati részének legfontosabb logisztikai csomópontja",
+        "Kiváló helyszín a teknősökkel való sznorkelezésre",
+        "Drámai vulkáni sziklák és a nyílt óceán találkozási pontja"
+      ]
+    },
+    {
+      "id": "baia-das-gatas-cities-v2",
+      "descriptionAdvanced": "Baía das Gatas egy lenyűgöző természetes öböl São Vicente északkeleti partján. Nevét az ártalmatlan dajkacápákról (gatas) kapta, amelyek egykor nagy számban fordultak elő ezen a területen. Az öblöt egy természetes zátony védi, amely egy hatalmas, kristálytiszta lagúnát hoz létre, nyugodt és sekély vízzel; ez teszi a várost a mindelói családok kedvelt hétvégi célpontjává. Baía das Gatas leginkább az évente megrendezett zenei fesztiváljáról híres, amely 1984-ben indult, és mára Nyugat-Afrika egyik legnagyobb szabadtéri kulturális eseményévé nőtte ki magát, minden augusztusban a telihold alatt tartják. Maga a település főként színes hétvégi házakból és kis vendéglőkből áll, az év nagy részében békés hangulatot árasztva.",
+      "factsAdvanced": [
+        "Természetes korallzátony által védett, sekély vizű lagúna",
+        "Itt rendezik Nyugat-Afrika egyik legrangosabb zenei fesztiválját",
+        "Nevét a térségben egykor gyakori dajkacápákról kapta",
+        "Híres a kristálytiszta, türkizkék vizéről és fehér homokjáról",
+        "A mindelói lakosok első számú hétvégi üdülőhelye",
+        "A fesztivált minden évben augusztusban, teliholdkor tartják",
+        "Nyugodt víze tökéletes a kisgyermekes családok számára",
+        "A sivatagi táj és az óceáni oázis találkozásának jelképe"
+      ]
+    },
+    {
+      "id": "espargos-cities-v2",
+      "descriptionAdvanced": "Espargos Sal szigetének adminisztratív központja és legnagyobb városa, amely a sziget száraz belsejében fekszik. A város az Amílcar Cabral nemzetközi repülőtér körül alakult ki, amelyet 1939-ben alapítottak stratégiai tankolóállomásként a transzatlanti járatok számára. Nevét a környező síkságokon növő vadspárgáról (espargos) kapta. Espargos a sziget kereskedelmi központja, ahol a legtöbb állandó lakos él, és ahol a hivatalok, iskolák és piacok találhatók. Bár Sal elsősorban turisztikai üdülőhelyeiről ismert, Espargos hiteles bepillantást enged a helyiek mindennapi életébe. A város felett a Monte Curral domb magasodik, amelynek tetején radarállomás működik, és tájékozódási pontként szolgál a sziget nagy részén.",
+      "factsAdvanced": [
+        "Sal szigetének közigazgatási és kereskedelmi fővárosa",
+        "Az Amílcar Cabral nemzetközi repülőtér közvetlen közelében fekszik",
+        "Nevét a térségben honos vadspárga növényről kapta",
+        "Itt található a sziget legmagasabb pontjainak egyike, a Monte Curral",
+        "Az 1940-es évektől kezdve fejlődött ki a repülőtér kiszolgálására",
+        "A sziget lakosságának nagy része ebben a városban él",
+        "Központi elhelyezkedése miatt minden fontos útvonal itt találkozik",
+        "Hiteles, nem-turisztikai központ színes piacokkal és kávézókkal"
+      ]
+    },
+    {
+      "id": "santa-maria-cities-v2",
+      "descriptionAdvanced": "Santa Maria a Zöld-foki-szigetek első számú turisztikai célpontja, Sal szigetének déli csücskén található. Híres nyolc kilométernyi érintetlen, fehér homokos strandjáról és türkizkék vizéről, amely egy csendes sóbányász faluból világszínvonalú üdülőparadicsommá változtatta a várost. A modern szállodák ellenére a település megőrizte báját, különösen a történelmi Pontão (móló) környékén, ahol a halászok minden nap partra hozzák fogásukat. Az 1830-ban sótermelés céljából alapított Santa Maria több mint egy évszázadon át exportált sót Brazíliába és Afrikába. Ma a város a vízi sportok – köztük a szörfözés, a búvárkodás és a kiteszörfözés – vibráló központja, ahol az estéket élőzene és nemzetközi gasztronómia teszi felejthetetlenné.",
+      "factsAdvanced": [
+        "Az ország legnépszerűbb és legmodernebb turisztikai központja",
+        "Nyolc kilométer hosszú, fehér homokos luxusstranddal rendelkezik",
+        "Eredetileg sóbányászat céljából alapították 1830-ban",
+        "A város jelképe a faépítésű Pontão, a halászok mólója",
+        "Világszínvonalú helyszín a szörfözés és a búvárkodás számára",
+        "Élénk éjszakai élettel és nemzetközi éttermekkel büszkélkedhet",
+        "A közelében találhatók a történelmi Santa Maria-i sólepárlók",
+        "Itt található az ország legtöbb luxusszállodája és üdülője"
+      ]
+    },
+    {
+      "id": "murdeira-cities-v2",
+      "descriptionAdvanced": "Murdeira egy kis tengerparti település Sal szigetének nyugati partján, egy védett, félhold alakú öbölben. Körülbelül félúton fekszik az adminisztratív központ, Espargos és a turisztikai csomópont, Santa Maria között. A terület a Murdeira-öböl Természetvédelmi Rezervátum részét képezi, amely védi a változatos tengeri ökoszisztémát, beleértve a tengeri teknősöket, hosszúszárnyú bálnákat, valamint számos korall- és halfajt. A település nyugodt vizéről ismert, amely ideális a sznorkelezéshez és úszáshoz, valamint látványos kilátást nyújt a Monte Leão-ra, egy oroszlán alakú vulkáni formációra. Murdeira a csendesebb pihenést kedvelők és a második otthont keresők körében népszerű, békésebb alternatívát kínálva a sziget forgalmasabb részeihez képest.",
+      "factsAdvanced": [
+        "A Murdeira-öböl tengeri természetvédelmi területének központja",
+        "Félúton helyezkedik el Espargos és Santa Maria városa között",
+        "Híres a különleges formájú Monte Leão (Oroszlán-hegy) panorámájáról",
+        "Létfontosságú élőhely a bálnák és tengeri teknősök számára",
+        "Védett öble miatt vize rendkívül nyugodt és kristálytiszta",
+        "Az egyik legjobb helyszín a szigeten a part menti sznorkelezésre",
+        "Kiválóan karbantartott lakóparkok és üdülővillák jellemzik",
+        "A természetbarát turisták kedvelt és csendes bázisa"
+      ]
+    },
+    {
+      "id": "palmeira-cities-v2",
+      "descriptionAdvanced": "Palmeira Sal szigetének legfontosabb kikötővárosa, amely a nyugati parton található, mindössze öt kilométerre Espargostól. Mint a sziget elsődleges tengeri kapuja, itt kötnek ki a kompok, teherhajók és az üzemanyagszállító tartályhajók, amelyek a teljes lakosság ellátását biztosítják. A várost színes házak és egy nyüzsgő kikötői sétány jellemzi, ahol a halászok frissen árulják fogásukat. Palmeira a kapu a közeli Buracona természeti csodájához is, amely a 'Kék Szem' (Olho Azul) néven ismert barlangról híres, ahol a napfény ragyogó kékre festi a vizet. A város megőrizte hiteles tengerészeti karakterét, és népszerű bázisként szolgál a sziget sziklás nyugati partja mentén található víz alatti barlangokhoz és zátonyokhoz induló búvárexpedíciók számára.",
+      "factsAdvanced": [
+        "Sal szigetének elsődleges tengeri kikötője és logisztikai központja",
+        "Híres az élénk színekre festett, hagyományos házairól",
+        "Fontos csomópont az országos kompjáratok számára",
+        "A közeli Buracona és az 'Olho Azul' barlang kiindulópontja",
+        "A kézműves halászat és a tengeri kereskedelem találkozási pontja",
+        "Sétánya a sziget egyik leghangulatosabb tengerparti helyszíne",
+        "Fontos búvárbázis a nyugati part barlangjainak felfedezéséhez",
+        "Gáz- és üzemanyagraktárai az egész sziget energiellátását biztosítják"
+      ]
+    },
+    {
+      "id": "porto-novo-cities-v2",
+      "descriptionAdvanced": "Porto Novo Santo Antão legnagyobb városa és a sziget fő bejárati pontja. Mivel az inselflughafen 1999-ben bezárt, a kikötő vált az egyetlen összeköttetéssé a szomszédos São Vicente szigetéről, Mindelóból komppal érkező utasok számára. A város a száraz déli parton fekszik, és a Porto Novo község adminisztratív központjaként szolgál. Porto Novo az ellentétek városa: sivatagszerű éghajlata kapuként szolgál a sziget belsejének buja, zöld hegyi völgyeihez. A város fontos csomópontja a kereskedelemnek, a mezőgazdaságnak és a puzzolán – a cementgyártáshoz használt vulkáni hamu – exportjának, amelyet a közeli hegyekben bányásznak. Az elmúlt években a város jelentős infrastrukturális fejlesztéseken esett át, megerősítve gazdasági motor szerepét.",
+      "factsAdvanced": [
+        "Santo Antão szigetének legnagyobb városa és egyetlen kikötője",
+        "A São Vicentével való tengeri összeköttetés kizárólagos helyszíne",
+        "Porto Novo község adminisztratív és politikai székhelye",
+        "Száraz, szubtrópusi klímája kontrasztban áll a belső zöld völgyekkel",
+        "Az ország egyik legfontosabb puzzolán-bányászati központja",
+        "A szigeti úthálózat központi csomópontja minden irányba",
+        "Modernizált kikötője alkalmas nagy tengerjáró hajók fogadására is",
+        "A sziget mezőgazdasági termékeinek elsődleges exportkapuja"
+      ]
+    },
+    {
+      "id": "ribeira-grande-cities-v2",
+      "descriptionAdvanced": "Ribeira Grande, más néven Povoação, Santo Antão szigetének északi részének történelmi és adminisztratív központja. A város egy mély, zöld völgy torkolatában fekszik, ahol két folyó találkozik, és szűk, macskaköves utcák, gyarmati stílusú épületek és drámai hegyi háttér jellemzi. A 16. században alapított település a sziget egyik legkorábbi lakott helye volt, és ma is a régió oktatási és közigazgatási központja marad. A város építészete, beleértve a 18. századi Nossa Senhora do Rosário templomot, hosszú történelmét tükrözi. Ribeira Grande nyüzsgő piaca az északi termékeny völgyekben termesztett mezőgazdasági termékek – például cukornád, kávé és trópusi gyümölcsök – fontos kereskedelmi helyszíne.",
+      "factsAdvanced": [
+        "Santo Antão északi régiójának történelmi és hivatali fővárosa",
+        "A 16. században alapították, Nyugat-Afrika egyik régi települése",
+        "Két folyó találkozásánál, egy látványos völgy mélyén fekszik",
+        "Híres a jól megőrzött gyarmati kori építészetéről",
+        "Itt található a 18. századi Nossa Senhora do Rosário templom",
+        "A sziget északi völgyeinek legfontosabb kereskedelmi piaca",
+        "A város az északi partot átszelő túraútvonalak csomópontja",
+        "Szűk macskaköves utcái hiteles történelmi hangulatot árasztanak"
+      ]
+    },
+    {
+      "id": "santo-antao-nature-v2",
+      "descriptionAdvanced": "Santo Antão a Zöld-foki-szigetek legnyugatibb és leglátványosabb hegyvidéki szigete, amelyet a természetjárók paradicsomaként ismernek. A sziget lenyűgöző kontrasztot kínál a száraz, sivatagos déli part és az északi rész buja, mély völgyei között, ahol a felhőkbe burkolózó csúcsok elérik az 1979 méteres magasságot. A függőleges sziklafalak, a kézzel épített teraszos ültetvények és a mély kanyonok drámai tájat alkotnak, amelyet sűrűn átszőnek a történelmi macskaköves utak. A sziget gazdag növényvilággal rendelkezik, többek között fenyőerdőkkel, eukaliptuszokkal és hatalmas cukornádültetvényekkel. Santo Antão izoláltsága segített megőrizni az autentikus kapverdi kultúrát és a vendégszeretetet, miközben az érintetlen természet minden kanyarban újabb meglepetéseket tartogat.",
+      "factsAdvanced": [
+        "A szigetcsoport legészakibb és legnyugatibb lakott szigete",
+        "Legmagasabb pontja a Topo de Coroa (1979 méter)",
+        "Híres a meredek völgyekbe vájt teraszos földműveléséről",
+        "Itt található a látványos Cova-kráter és a Paul-völgy",
+        "A világ egyik legjobb túracélpontjaként tartják számon",
+        "Gazdasága a cukornádra, kávéra és szubtrópusi gyümölcsökre épül",
+        "Az északi partot meredek, tengerbe szakadó sziklafalak jellemzik",
+        "A sziget csak komppal közelíthető meg São Vicente felől"
+      ]
+    },
+    {
+      "id": "sao-vicente-nature-v2",
+      "descriptionAdvanced": "São Vicente szigete a Zöld-foki-szigetek kulturális lüktetése mellett különleges természeti adottságokkal is büszkélkedhet. A sziget nagy része arid, vulkanikus táj, amelyet éles gerincek és kialudt kráterek határoznak meg, mint például a Porto Grande öböl, amely egy vízzel elárasztott vulkán. A sziget legmagasabb pontja a Monte Verde (750 m), amely nevével ellentétben gyakran kopár, de tiszta időben pazar kilátást nyújt az egész archipelágus északi részére. A partvidéken látványos homokdűnéket és szélmarta sziklákat találunk, mint Salamansa vagy São Pedro környékén, ahol a passzátszelek állandóan formálják a tájat. São Vicente flórája és faunája alkalmazkodott a szárazsághoz, de a völgyekben még felfedezhetők a hagyományos mezőgazdaság oázisai.",
+      "factsAdvanced": [
+        "A sziget területe 227 négyzetkilométer, vulkáni eredetű",
+        "Legmagasabb pontja a Monte Verde, 750 méter magas",
+        "Természetes kikötője, a Porto Grande, egy beomlott vulkáni kráter",
+        "A szigetet állandó és erős északkeleti passzátszelek jellemzik",
+        "Híres a Monte Cara nevű hegyről, amely egy emberi arcot formáz",
+        "A part menti vizek gazdagok tengeri teknősökben és halakban",
+        "Növényvilága szárazságtűrő cserjékből és füvekből áll",
+        "Látványos homokdűnék találhatók a Praia Grande környékén"
+      ]
+    },
+    {
+      "id": "santa-luzia-nature-v2",
+      "descriptionAdvanced": "Santa Luzia a Zöld-foki-szigetek egyetlen lakatlan szigete, amely ma érintetlen természetvédelmi területként szolgál. A sziget a Barlavento (Szélfelőli) csoporthoz tartozik, és nyers, vad szépsége miatt az ökológiai kutatások fontos helyszíne. A 35 négyzetkilométeres területet kopár hegyek, hatalmas homokdűnék és kristálytiszta vizek jellemzik. Mivel állandó lakossága nincs, a sziget a veszélyeztetett madárfajok és a tengeri teknősök egyik utolsó zavartalan fészkelőhelye az Atlanti-óceán ezen részén. A sziget körüli vizek rendkívül gazdagok tengeri élővilágban, a korallzátonyok pedig menedéket nyújtanak számos endemikus halfajnak. Santa Luzia meglátogatása szigorúan korlátozott, így megmaradhatott a szigetcsoport utolsó igazi vadonjának.",
+      "factsAdvanced": [
+        "A Zöld-foki-szigetek egyetlen lakatlan szigete",
+        "Teljes területe szigorúan védett természetvédelmi rezervátum",
+        "Létfontosságú fészkelőhelye a veszélyeztetett tengeri teknősöknek",
+        "Számos ritka és endemikus madárfaj otthona",
+        "A szigetet hatalmas, vándorló homokdűnék borítják",
+        "Környező vizei az archipelágus leggazdagabb halállományával bírnak",
+        "Legmagasabb pontja a Monte Grande (395 méter)",
+        "Csak engedéllyel és halászhajóval közelíthető meg"
+      ]
+    },
+    {
+      "id": "sao-nicolau-nature-v2",
+      "descriptionAdvanced": "São Nicolau a Zöld-foki-szigetek egyik legautentikusabb és legváltozatosabb szigete, ahol a mély völgyek és a monumentális hegycsúcsok drámai módon találkoznak. A sziget belsejét a Monte Gordo Nemzeti Park uralja, amely 1312 méteres magasságával a biodiverzitás egyik forró pontja, számos endemikus növényfajnak, köztük a sárkányfáknak adva otthont. A sziget domborzata rendkívül változatos: a termékeny, zöld völgyektől kezdve a kopár, holdbéli tájakig minden megtalálható. São Nicolau híres különleges geológiai képződményeiről is, mint például a szél által faragott sziklák és a gyógyító erejűnek tartott fekete homokos strandok. A sziget elszigeteltsége megőrizte a természet érintetlenségét, lehetőséget adva a látogatóknak a valódi, felfedezetlen Kap Verde megismerésére.",
+      "factsAdvanced": [
+        "Itt található a Monte Gordo Nemzeti Park (1312 m)",
+        "A sziget az egyik utolsó menedéke az őshonos sárkányfáknak",
+        "Híres a Carbeirinho nevű, szélmarta geológiai formációjáról",
+        "A partvidéket gyógyhatású, magas jódtartalmú fekete homok jellemzi",
+        "Gazdag vízhálózata lehetővé teszi a teraszos mezőgazdaságot",
+        "Számos ritka és endemikus hüllő- és madárfaj otthona",
+        "A tájképet meredek hegygerincek és mély szakadékok határozzák meg",
+        "A sziget fontos megállóhely a költözőmadarak számára"
+      ]
+    },
+    {
+      "id": "sal-nature-v2",
+      "descriptionAdvanced": "Sal szigete a Zöld-foki-szigetek legidősebb tagja, amelynek domborzatát az évmilliók során a szél és az óceán szinte teljesen síkra koptatta. A sziget egy hatalmas, aranybarna sivatagra emlékeztet az Atlanti-óceán közepén, ahol a homokdűnék és a sós síkságok dominálnak. Legfontosabb természeti kincse a tenger: a türkizkék víz és a fehér homokos partok mellett Sal ad otthont a Pedra de Lume sós tónak, amely egy kialudt vulkán kráterében jött létre. A sziget északi részén drámai sziklás partokat és természetes medencéket, mint a Buracona, találunk. Bár a sziget száraz, a part menti vizek rendkívül gazdagok élővilágban, a korallzátonyok és a mélytengeri áramlatok pedig bálnákat, cápákat és teknősöket vonzanak a sziget köré.",
+      "factsAdvanced": [
+        "A szigetcsoport legidősebb és leglaposabb szigete",
+        "Híres a Pedra de Lume sós taváról, amely egy vulkáni kráterben van",
+        "Területének nagy részét sivatagos síkságok és dűnék alkotják",
+        "Itt található a 'Blue Eye' (Olho Azul) nevű természetes barlang",
+        "Fontos fészkelőhelye a Loggerhead (álcserepes) teknősöknek",
+        "A környező vizek híresek a citromcápákról és a cetfélékről",
+        "A sziget mikroklímája rendkívül száraz, szinte csapadékmentes",
+        "A part menti korallzátonyok ideálisak a búvárkodáshoz"
+      ]
+    },
+    {
+      "id": "boa-vista-nature-v2",
+      "descriptionAdvanced": "Boa Vista, a 'kilátás szigete', a Zöld-foki-szigetek sivatagi ékköve, ahol a Szaharából áthordott homok hatalmas dűnéket és végtelen strandokat hozott létre. A sziget 55 kilométernyi fehér homokos partjával a pihenés és a természet megfigyelésének paradicsoma. Belső terét a Deserto de Viana uralja, egy érintetlen homoksivatag, amely folyamatosan vándorol a széllel. Boa Vista nemzetközi jelentőségű természetvédelmi szempontból is: ez a világ egyik legfontosabb fészkelőhelye az álcserepes teknősök számára, vizeiben pedig minden évben hosszúszárnyú bálnák tűnnek fel. A sziget száraz klímája ellenére meglepően gazdag madárvilággal büszkélkedhet, a sós mocsarak és lagúnák pedig ritka költözőmadaraknak nyújtanak menedéket.",
+      "factsAdvanced": [
+        "Az ország harmadik legnagyobb szigete, híres a homokdűnéiről",
+        "Itt található a Deserto de Viana, egy vándorló homoksivatag",
+        "A világ egyik legnagyobb Loggerhead teknős fészkelőhelye",
+        "Híres az 55 kilométer hosszú érintetlen homokos strandjairól",
+        "Minden tavasszal bálnák vonulási útvonala a part menti vizekben",
+        "A sziget partjainál fekszik a híres Cabo Santa Maria hajóroncs",
+        "Gazdag lagúna-rendszere vonzza a ritka vízimadarakat",
+        "Legmagasabb pontja a Monte Estância (387 méter)"
+      ]
+    }
+  ]
+}

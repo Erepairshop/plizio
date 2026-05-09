@@ -2,24 +2,68 @@
   "lang": "ro",
   "country": "canada",
   "files": [
-    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
-    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
-    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts"
   ],
   "items": [
     {
-      "id": "surrey-cities-v2",
-      "descriptionAdvanced": "Surrey este un oraș în expansiune rapidă în cadrul regiunii metropolitane Vancouver, fiind al doilea oraș ca mărime din Columbia Britanică. Acesta servește drept centru comercial pentru Fraser Valley, beneficiind de investiții majore în infrastructura de transport și facilități civice, ceea ce îl face un punct cheie pentru dezvoltarea suburbană. Geografie K7 — expansiune urbană.",
-      "factsAdvanced": ["Al doilea cel mai mare oraș din Columbia Britanică după populație", "Parte a districtului regional Metro Vancouver", "Include cartiere diverse precum Newton și Whalley", "Centru în dezvoltare pentru servicii guvernamentale locale", "Conectat prin rețeaua de transport rapid SkyTrain", "Cunoscut pentru suprafețele mari de teren agricol din sud"]
+      "id": "boreal-forest-nature-v2",
+      "descriptionAdvanced": "Pădurea boreală canadiană, cunoscută și sub numele de taiga, este una dintre cele mai vaste ecosisteme forestiere din lume, acoperind o parte semnificativă din suprafața Canadei. Acest ecosistem joacă un rol crucial în reglarea climatului global prin capacitatea sa remarcabilă de a stoca cantități uriașe de dioxid de carbon, fiind astfel un rezervor esențial de carbon. Regiunea este caracterizată printr-o rețea densă de lacuri, mlaștini și specii de conifere adaptate la temperaturile extreme ale nordului. Această sălbăticie vastă și relativ intactă oferă adăpost multor specii emblematice de animale, cum ar fi caribu, râsul și lupul cenușiu. Geografie K7 — păduri și schimbări climatice.",
+      "factsAdvanced": [
+        "Unul dintre cele mai mari ecosisteme forestiere intacte din lume.",
+        "Rezervor important de carbon pentru reglarea climei globale.",
+        "Se întinde pe aproape toată lățimea Canadei.",
+        "Speciile dominante de arbori includ molidul, bradul și pinul.",
+        "Habitat esențial pentru specii specializate precum râsul canadian.",
+        "Regiunea este marcată de o abundență de zone umede."
+      ]
     },
     {
-      "id": "burnaby-cities-v2",
-      "descriptionAdvanced": "Burnaby este situat în centrul geografic al regiunii metropolitane Vancouver, servind drept punte de legătură între orașul Vancouver și suburbiile estice. Este un centru major pentru afaceri, tehnologie și învățământ superior, găzduind instituții semnificative precum Universitatea Simon Fraser și Institutul de Tehnologie din Columbia Britanică. Geografie K7 — dezvoltare orientată spre tranzit.",
-      "factsAdvanced": ["Centrul geografic al regiunii Metro Vancouver", "Găzduiește Universitatea Simon Fraser", "Gazdă a Institutului de Tehnologie din Columbia Britanică (BCIT)", "Include parcuri mari precum Burnaby Mountain și Deer Lake Park", "Nod comercial major pentru regiune", "Excelentă conectivitate prin liniile de SkyTrain"]
+      "id": "hudson-bay-nature-v2",
+      "descriptionAdvanced": "Golful Hudson este o mare interioară vastă din estul Canadei, situată geografic între provinciile Manitoba, Ontario și Quebec. Datorită salinității scăzute și proximității față de Arctica, apele golfului sunt înghețate în cea mai mare parte a anului, fapt ce determină ritmul vieții sălbatice din regiune. Schimbările sezoniere ale stratului de gheață permit urșilor polari să vâneze foci, transformând regiunea într-unul dintre cele mai importante puncte de observare pentru acești mari prădători. În plus, golful constituie un loc de odihnă crucial pentru păsările migratoare care călătoresc în nord pentru hrănire și cuibărit. Geografie K7 — mări și animale.",
+      "factsAdvanced": [
+        "Al doilea cel mai mare golf din lume (după Golful Bengal).",
+        "Conectat la Oceanul Atlantic prin Strâmtoarea Hudson.",
+        "Stratul de gheață este esențial pentru vânătoarea urșilor polari.",
+        "Se încălzește semnificativ vara datorită adâncimii reduse.",
+        "Centru istoric al comerțului cu blănuri al Companiei Hudson’s Bay.",
+        "Loc vital de popas pentru păsările migratoare arctice."
+      ]
+    },
+    {
+      "id": "mount-waddington-nature-v2",
+      "descriptionAdvanced": "Muntele Waddington este cel mai înalt punct din Munții Coastei (Coast Mountains) în Columbia Britanică, având o altitudine de 4.019 metri. Poziția sa izolată și vremea extrem de imprevizibilă fac din acest vârf o provocare tehnică serioasă chiar și pentru alpiniștii experimentați. Muntele este înconjurat de sisteme glaciare masive care au sculptat peisajul de-a lungul mileniilor. Imaginea Muntelui Waddington simbolizează puterea crudă și neatinsă a sălbăticiei canadiene, departe de zgomotul civilizației umane, oferind o experiență alpină pură. Geografie K7 — alpinism și vreme extremă.",
+      "factsAdvanced": [
+        "Altitudine de 4.019 metri, vârful Munților Coastei.",
+        "Vârf puternic glaciarizat.",
+        "Dificil de accesat logistic din cauza izolării.",
+        "Denumit de alpiniștii timpurii „Muntele Misterios” (Mystery Mountain).",
+        "Înconjurat de ghețari masivi din toate direcțiile.",
+        "Condițiile meteorologice sunt extrem de instabile."
+      ]
+    },
+    {
+      "id": "churchill-river-saskatchewan-nature-v2",
+      "descriptionAdvanced": "Râul Churchill curge prin nordul provinciei Saskatchewan, șerpuind peste rocile antice ale Scutului Canadian. De-a lungul secolelor, acest râu a servit drept principala rută de transport pentru comercianții de blănuri și exploratori, conectând puncte îndepărtate ale teritoriilor nordice canadiene. Astăzi, frumusețea sălbatică a râului îl face o destinație preferată pentru pasionații de canotaj și drumeții, care caută aventura în alternanța dintre rapidele provocatoare și lacurile cu ape liniștite. Geologiei sale precambriene îi datorează peisajul actual spectaculos, punctat de numeroase lacuri și cascade. Geografie K7 — râuri și sporturi de aventură.",
+      "factsAdvanced": [
+        "Străbate straturile geologice antice ale Scutului Canadian.",
+        "Rută principală pentru exploratori în epoca comerțului cu blănuri.",
+        "Râul se varsă în cele din urmă în Golful Hudson.",
+        "Mediu marcat de numeroase lacuri stâncoase și cascade.",
+        "Rută de top pentru canotaj în sălbăticie.",
+        "Nivelul apei depinde semnificativ de topirea zăpezii."
+      ]
+    },
+    {
+      "id": "lake-winnipeg-nature-v2",
+      "descriptionAdvanced": "Lacul Winnipeg reprezintă cea mai mare întindere de apă din provincia Manitoba, fiind un vestigiu al vastului lac pleistocen Agassiz. Deși este al șaselea cel mai mare lac din Canada, adâncimea sa este destul de mică, ceea ce a determinat procese ecologice speciale în bazinul său. Recent, lacul se confruntă cu provocări de mediu semnificative, cum ar fi înflorirea algelor, fenomen cauzat de activitățile economice de pe întreg bazinul hidrografic vast. Cu toate acestea, lacul joacă în continuare un rol vital în pescuitul comercial al provinciei și în turismul recreativ local. Geografie K7 — lacuri și conservarea mediului.",
+      "factsAdvanced": [
+        "Al șaselea cel mai mare lac din Canada, cu cca. 24.500 km².",
+        "Vestigiu al vechiului lac glaciar Agassiz.",
+        "Adâncime relativ mică comparativ cu alte lacuri de talia sa.",
+        "Bazinul hidrografic se extinde până în Alberta.",
+        "Înfloririle de alge sunt frecvente vara.",
+        "Pescuitul este un sector economic esențial în regiune."
+      ]
     }
   ]
 }

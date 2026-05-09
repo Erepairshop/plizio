@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-mahikeng-cities-v2",
+      "descriptionAdvanced": "Mahikeng, az Északnyugati tartomány fővárosa, a botswanai határ közelében helyezkedik el. A város történelmileg kiemelt jelentőséggel bír, különösen az angol–búr háború idején zajlott híres Mafeking-ostrom miatt. Napjainkban a régió politikai és kereskedelmi központjaként szolgál, emellett a cserkészmozgalom történetében is fontos szerepet játszott, hiszen Robert Baden-Powell itt fogalmazta meg az alapgondolatait.",
+      "factsAdvanced": [
+        "Az Északnyugati tartomány közigazgatási székhelye.",
+        "A híres Mafeking-ostrom helyszíne 1899–1900-ban.",
+        "A cserkészmozgalom eszméinek egyik bölcsője.",
+        "Közel fekszik a botswanai határhoz.",
+        "Fontos kereskedelmi csomópont a régióban.",
+        "Kulturális öröksége mélyen gyökerezik a térség történelmében."
+      ]
+    },
+    {
+      "id": "southafrica-bhisho-cities-v2",
+      "descriptionAdvanced": "Bhisho a Kelet-Fokföld tartomány közigazgatási fővárosa. A város korábban a Ciskei bantusztán központja volt, és ma is számos tartományi kormányzati intézménynek ad otthont. A név jelentése isiXhosa nyelven 'bivaly', utalva a terület gazdag vadvilágára. Bár kisvárosnak számít, központi szerepet játszik a tartomány adminisztrációjában és a közigazgatási folyamatokban.",
+      "factsAdvanced": [
+        "Kelet-Fokföld közigazgatási székhelye.",
+        "Egykori bantusztáni főváros.",
+        "A név jelentése isiXhosa nyelven 'bivaly'.",
+        "Számos tartományi kormányzati épület található itt.",
+        "Fontos szerepet tölt be a Kelet-Fokföld tartományi életében.",
+        "A közeli King William's Town szerves kapcsolatban áll vele."
+      ]
+    },
+    {
+      "id": "southafrica-upington-cities-v2",
+      "descriptionAdvanced": "Upington az Oranje-folyó partján fekvő város, az Észak-Fokföld egyik legfontosabb települése. Bár sivatagos környezet öleli körül, a folyóvíz biztosította öntözésnek köszönhetően a város a szőlőtermesztés és a minőségi borkészítés központja. Upington továbbá fontos logisztikai központ, amely a Namíbia felé utazókat szolgálja ki, és büszkélkedhet az egyik leghosszabb repülőtéri kifutópályával a világon.",
+      "factsAdvanced": [
+        "Az Oranje-folyó partján elterülő termékeny oázis.",
+        "Jelentős szőlő- és gyümölcstermelő központ.",
+        "A Namíbia felé vezető tranzitútvonalak kulcsállomása.",
+        "A világ egyik leghosszabb repülőtéri kifutópályájával rendelkezik.",
+        "Kiemelkedő minőségű borászatok otthona.",
+        "Fontos kereskedelmi központ a sivatagos régióban."
+      ]
+    },
+    {
+      "id": "southafrica-george-cities-v2",
+      "descriptionAdvanced": "George a festői Garden Route legnagyobb városa, az Outeniqua-hegység lábánál fekszik. A város különleges mikroklímájának és a hegyek közelségének köszönhetően a turizmus és a fakitermelés központjává vált. Az Outeniqua-hegyvonulat drámai látványa és a tengerparti utak közelsége miatt a Garden Route egyik legfontosabb turisztikai bázisa, emellett fontos regionális repülőtérrel is büszkélkedhet.",
+      "factsAdvanced": [
+        "A Garden Route legnagyobb városa.",
+        "Az Outeniqua-hegység lábánál fekszik.",
+        "Kiemelkedő szerepet játszik a dél-afrikai fafeldolgozóiparban.",
+        "Fontos regionális repülőtér szolgálja ki a régiót.",
+        "Kedvelt célpontja a túrázóknak és a tengerparti turistáknak.",
+        "Gazdag, zöldellő növényzettel és szép tájképpel rendelkezik."
+      ]
+    },
+    {
+      "id": "southafrica-stellenbosch-cities-v2",
+      "descriptionAdvanced": "Stellenbosch a dél-afrikai borászat és felsőoktatás fellegvára, az ország második legrégebbi európai alapítású települése. A város híres történelmi, kapholländ építészetéről, az ódon tölgyfáiról és a Stellenbosch Egyetemről, amely Dél-Afrika egyik legnevesebb felsőoktatási intézménye. A környező völgyek világszínvonalú borászatoknak adnak otthont, így a település a dél-afrikai gasztronómiai turizmus elengedhetetlen állomása.",
+      "factsAdvanced": [
+        "Az ország második legrégebbi európai alapítású városa.",
+        "A Stellenbosch Egyetem nemzetközi hírű felsőoktatási intézmény.",
+        "Híres a kapholländ építészeti örökségéről.",
+        "A dél-afrikai borászat egyik globális központja.",
+        "Gyakran emlegetik 'tölgyfák városaként'.",
+        "A Stellenbosch-völgy számos prémium borvidék központja."
+      ]
+    }
+  ]
+}

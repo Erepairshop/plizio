@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hobyo-dunes-relief-v2",
+      "descriptionAdvanced": "Die Hobyo-Dünen erstrecken sich als imposante, dynamische Wüstenlandschaft entlang der somalischen Küste des Indischen Ozeans. Diese Formation aus losen Sandmassen wird durch die anhaltenden, meist aus dem Nordosten wehenden Winde kontinuierlich neu geformt und wandert langsam landeinwärts. Die geologische Dynamik dieser Dünenlandschaft verhindert die Etablierung einer dauerhaften Vegetationsdecke, schafft jedoch ein einzigartiges, sich ständig wandelndes Relief, das die Küstengeografie nachhaltig beeinflusst. Das Gebiet dient als natürlicher Puffer zwischen dem maritimen Einfluss des Ozeans und den trockenen, weiten Ebenen im Hinterland.",
+      "factsAdvanced": [
+        "Imposantes, dynamisches Dünengebiet entlang der Küste.",
+        "Kontinuierliche landschaftliche Umgestaltung durch Passatwinde.",
+        "Geprägt durch ein sich ständig wandelndes Sandrelief.",
+        "Natürlicher Puffer zwischen Ozean und trockenem Hinterland.",
+        "Geologische Instabilität verhindert dauerhafte Vegetation.",
+        "Landschaftlich markante, weitläufige Sandformationen.",
+        "Direkter Einfluss durch die maritimen Windverhältnisse."
+      ]
+    },
+    {
+      "id": "shabelle-valley-relief-v2",
+      "descriptionAdvanced": "Das Shabelle-Talbecken bildet das zentrale hydrologische Rückgrat der Shabelle-Flussregion. Das topografische Profil zeichnet sich durch ein flaches, aber ausgedehntes Becken aus, das durch die Sedimentfracht des Flusses über Jahrtausende geformt wurde. Die Uferbereiche und die angrenzenden Ebenen bieten durch die zyklischen Überflutungen nährstoffreiche Alluvialböden, die eine hohe landwirtschaftliche Produktivität in einer ansonsten eher trockenen Umgebung ermöglichen. Die Flusslandschaft ist durch eine Abfolge von sanften Anhöhen, ausgedehnten Überflutungsauen und eingetieften Flussbetten strukturiert, die eine wichtige Ressource für die sesshafte Bevölkerung darstellen.",
+      "factsAdvanced": [
+        "Zentrales hydrologisches Rückgrat der Shabelle-Region.",
+        "Flaches Becken, geformt durch kontinuierliche Sedimentfracht.",
+        "Nährstoffreiche Alluvialböden durch zyklische Überflutungen.",
+        "Strukturierte Flusslandschaft mit ausgedehnten Überflutungsauen.",
+        "Wichtige natürliche Lebensader für die sesshafte Bevölkerung.",
+        "Eingetiefte Flussbetten bestimmen die topografische Dynamik.",
+        "Strategisch essenzielle Zone für landwirtschaftliche Intensivnutzung."
+      ]
+    },
+    {
+      "id": "nugaal-valley-relief-v2",
+      "descriptionAdvanced": "Das Nugaal-Talbecken erstreckt sich als markante, trockene Senke über das Zentrum Somalias und stellt eine klassische Wadi-Struktur dar. Diese geologische Formation ist durch weite, fast flache Böden und trockene Wasserläufe charakterisiert, die nur bei seltenen Starkregenereignissen aktiv werden. Das Relief ist das Ergebnis jahrtausendelanger, langsamer Erosion in einer semiariden Klimazone. Die weitläufige Ebene bietet aufgrund der flachen Topografie kaum natürliche Barrieren und fungiert als historischer Durchzugsweg für nomadische Wanderungen, die sich an die saisonale Verfügbarkeit von spärlichem Weideland und temporären Wasserstellen orientieren.",
+      "factsAdvanced": [
+        "Markante, trockene Senke und klassische Wadi-Struktur.",
+        "Weite, fast flache Böden, geformt durch langsame Erosion.",
+        "Aktivität der Wasserläufe nur bei seltenen Starkregen.",
+        "Topografisch offene Landschaft ohne natürliche Barrieren.",
+        "Historischer Durchzugsweg für nomadische Wanderungen.",
+        "Orientiert sich an saisonaler Verfügbarkeit von Weideland.",
+        "Charakteristische semiaride Klimazone im Zentrum."
+      ]
+    },
+    {
+      "id": "bajuni-cliffs-relief-v2",
+      "descriptionAdvanced": "Die Bajuni-Küstenfelsen bilden einen topografisch interessanten Abschnitt entlang des südlichen somalischen Archipels. Diese felsigen Küstenbereiche zeichnen sich durch ihre stark zerklüftete Struktur aus, die sowohl durch marine Erosion als auch durch die Existenz verwitterter Korallenkalkformationen geprägt ist. Die Landschaft zeigt eine dynamische Interaktion zwischen dem massiven Felsgestein und der ständig wirkenden Kraft des Indischen Ozeans, was eine Vielzahl von kleinen, geschützten Buchten und schroffen Klippen hervorgebracht hat. Dieses Relief ist essenziell für den Schutz der küstennahen Gewässer und bietet Lebensräume für eine spezifische marine Flora und Fauna.",
+      "factsAdvanced": [
+        "Stark zerklüfteter Küstenabschnitt am südlichen Archipel.",
+        "Geprägt durch marine Erosion und Korallenkalkformationen.",
+        "Dynamische Interaktion zwischen Felsgestein und Meereskraft.",
+        "Hervorbringung zahlreicher kleiner, geschützter Buchten.",
+        "Schroffes Küstenrelief mit bedeutender mariner Bedeutung.",
+        "Topografische Basis für spezifische marine Lebensräume.",
+        "Felsige Struktur prägt das Erscheinungsbild der Küstenlinie."
+      ]
+    },
+    {
+      "id": "ras-xaafuun-peninsula-relief-v2",
+      "descriptionAdvanced": "Die Ras-Xaafuun-Halbinsel ragt als markanter, geologisch bedeutender Finger weit in den Indischen Ozean hinein. Die Halbinsel besteht aus einer schmalen, aber topografisch prägnanten Landzunge, die durch tektonische Hebungsprozesse entstand. Das Relief ist in weiten Teilen flach und kiesig-sandig, weist jedoch an den Rändern steil abfallende Küstenbereiche auf, die den anbrandenden Meereskräften standhalten müssen. Aufgrund ihrer geografischen Exponiertheit markiert diese Formation einen strategisch wichtigen Punkt im Indischen Ozean und dient aufgrund ihrer markanten Form als unverwechselbare Landmarke für die maritime Navigation seit der Antike.",
+      "factsAdvanced": [
+        "Markante Halbinsel, die weit in den Ozean ragt.",
+        "Entstanden durch komplexe tektonische Hebungsprozesse.",
+        "Flaches, kiesig-sandiges Relief mit steilen Küstenrändern.",
+        "Geografisch exponierter Punkt im Indischen Ozean.",
+        "Historisch bedeutsame Landmarke für die maritime Navigation.",
+        "Geologisch prägnante, geformte Landzunge.",
+        "Starke Beanspruchung durch marine Erosionskräfte."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kansanshi-ancient-mine-history-v2",
+      "descriptionAdvanced": "The ancient Kansanshi mine is a site showing extensive pre-colonial copper mining activity near Solwezi. Indigenous peoples mined copper here for centuries, using traditional techniques that contributed significantly to the regional economy. Copper crosses, produced from the extracted metal, were used as currency in local and regional trade. Kansanshi represents an important witness to the technical competence and importance of metallurgy in pre-colonial Zambian societies, offering researchers a unique perspective on the economic and industrial history of the Copperbelt region before the arrival of European industrial powers.",
+      "factsAdvanced": [
+        "Extensive pre-colonial copper mining activities",
+        "Site located near Solwezi",
+        "Indigenous peoples mined copper for centuries",
+        "Copper crosses used as currency",
+        "Witness to technical competence in metallurgy",
+        "Source for pre-colonial economic history"
+      ]
+    }
+  ]
+}

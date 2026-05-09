@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "feira-historical-settlement-history-v2",
+      "descriptionAdvanced": "Feira, the present Luangwa, was historically the first European trading post in Zambia, founded by Portuguese merchants in the 18th century. Strategically located at the confluence of the Luangwa and Zambezi rivers, the settlement developed into a hub for international ivory and slave trade. The geographical position made Feira a contested place between various European and local interests. The historical remains and geographical significance make Feira a key location for historians who want to research the early contact between European trading power and traditional Zambian societies.",
+      "factsAdvanced": [
+        "First European trading post in Zambia",
+        "Founded by Portuguese in the 18th century",
+        "Location at the confluence of Luangwa and Zambezi",
+        "Center for ivory and slave trade",
+        "Important site for early colonial history",
+        "Strategically significant trading point"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hobyo-dunes-relief-v2",
+      "descriptionAdvanced": "The Hobyo Dunes extend as an imposing, dynamic desert landscape along the Somali coast of the Indian Ocean. This formation of loose sand masses is continuously reshaped by the constant, mostly northeasterly winds and slowly migrates inland. The geological dynamics of this dune landscape prevent the establishment of a permanent vegetation cover, but create a unique, constantly changing relief that sustainably influences coastal geography. The area serves as a natural buffer between the maritime influence of the ocean and the dry, vast plains in the hinterland.",
+      "factsAdvanced": [
+        "Imposing, dynamic dune area along the coast.",
+        "Continuous landscape transformation through trade winds.",
+        "Characterized by a constantly changing sand relief.",
+        "Natural buffer between ocean and dry hinterland.",
+        "Geological instability prevents permanent vegetation.",
+        "Landscape-markedly expansive sand formations.",
+        "Direct influence by maritime wind conditions."
+      ]
+    },
+    {
+      "id": "shabelle-valley-relief-v2",
+      "descriptionAdvanced": "The Shabelle Valley Basin forms the central hydrological backbone of the Shabelle River region. The topographic profile is characterized by a flat, but expansive basin, which has been shaped over millennia by the sediment load of the river. The riparian zones and adjacent plains offer nutrient-rich alluvial soils due to cyclical flooding, which allow for high agricultural productivity in an otherwise rather dry environment. The river landscape is structured by a sequence of gentle hills, expansive floodplains, and incised riverbeds, which represent an important resource for the settled population.",
+      "factsAdvanced": [
+        "Central hydrological backbone of the Shabelle region.",
+        "Flat basin shaped by continuous sediment load.",
+        "Nutrient-rich alluvial soils due to cyclical flooding.",
+        "Structured river landscape with expansive floodplains.",
+        "Important natural lifeline for the settled population.",
+        "Incised riverbeds determine the topographic dynamics.",
+        "Strategically essential zone for intensive agricultural use."
+      ]
+    },
+    {
+      "id": "nugaal-valley-relief-v2",
+      "descriptionAdvanced": "The Nugaal Valley Basin extends as a striking, dry depression across the center of Somalia and represents a classic Wadi structure. This geological formation is characterized by wide, almost flat soils and dry watercourses that only become active during rare, heavy rain events. The relief is the result of millennia of slow erosion in a semi-arid climate zone. The expansive plain offers hardly any natural barriers due to the flat topography and acts as a historic transit route for nomadic migrations, which are oriented toward the seasonal availability of sparse pastureland and temporary water points.",
+      "factsAdvanced": [
+        "Marked, dry depression and classic Wadi structure.",
+        "Wide, almost flat soils formed by slow erosion.",
+        "Activity of watercourses only during rare heavy rain.",
+        "Topographically open landscape without natural barriers.",
+        "Historic transit route for nomadic migrations.",
+        "Oriented to seasonal availability of pastureland.",
+        "Characteristic semi-arid climate zone in the center."
+      ]
+    },
+    {
+      "id": "bajuni-cliffs-relief-v2",
+      "descriptionAdvanced": "The Bajuni Coastal Cliffs form a topographically interesting section along the southern Somali archipelago. These rocky coastal areas are characterized by their strongly indented structure, which is shaped both by marine erosion and the existence of weathered coral-limestone formations. The landscape shows a dynamic interaction between the massive rock and the constantly acting force of the Indian Ocean, which has produced a multitude of small, protected bays and rugged cliffs. This relief is essential for the protection of coastal waters and provides habitats for a specific marine flora and fauna.",
+      "factsAdvanced": [
+        "Strongly indented coastal section at the southern archipelago.",
+        "Characterized by marine erosion and coral-limestone formations.",
+        "Dynamic interaction between rock and marine force.",
+        "Production of numerous small, protected bays.",
+        "Rugged coastal relief with significant marine importance.",
+        "Topographic basis for specific marine habitats.",
+        "Rocky structure characterizes the appearance of the coastline."
+      ]
+    },
+    {
+      "id": "ras-xaafuun-peninsula-relief-v2",
+      "descriptionAdvanced": "The Ras Xaafuun Peninsula extends as a striking, geologically significant finger far into the Indian Ocean. The peninsula consists of a narrow but topographically precise headland formed by tectonic uplift processes. The relief is largely flat and gravelly-sandy, but has steeply sloping coastal areas at the edges that have to withstand the crashing sea forces. Due to its geographical exposure, this formation marks a strategically important point in the Indian Ocean and serves as an unmistakable landmark for maritime navigation since antiquity.",
+      "factsAdvanced": [
+        "Marked peninsula that extends far into the ocean.",
+        "Formed by complex tectonic uplift processes.",
+        "Flat, gravelly-sandy relief with steep coastal edges.",
+        "Geographically exposed point in the Indian Ocean.",
+        "Historically significant landmark for maritime navigation.",
+        "Geologically precise, formed headland.",
+        "Strong stress through marine erosion forces."
+      ]
+    }
+  ]
+}

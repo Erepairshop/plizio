@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kafue-railway-bridge-history-v2",
+      "descriptionAdvanced": "The Kafue Railway Bridge, completed in 1906, is considered a masterpiece of early engineering in Zambia. At the time of its construction, it was one of the longest bridges in Africa and is a central milestone in the country's infrastructural development. It not only enabled the transport of goods and people but was also crucial for the expansion of the railway north to the economically booming Copperbelt. The bridge is still in active use today and serves as a vivid witness to colonial transport planning and the lasting importance of rail for Zambia's economic networking.",
+      "factsAdvanced": [
+        "Completion in the year 1906",
+        "Once one of the longest bridges in Africa",
+        "Critical infrastructure for the Copperbelt",
+        "Important milestone of railway expansion",
+        "Still in active, daily operation today",
+        "Significant monument of Zambian engineering"
+      ]
+    }
+  ]
+}

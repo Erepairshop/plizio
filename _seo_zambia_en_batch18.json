@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "luangwa-bridge-historical-v2",
+      "descriptionAdvanced": "The historical Luangwa Bridge was an indispensable infrastructural link for decades, connecting Lusaka with the economically significant Eastern Province of Zambia. Since its original construction in 1932, it served as the primary route for passenger and freight traffic. Although it was replaced by a modern structure in the 1960s, the location remains of high relevance for Zambia's transport history. It symbolizes the country's efforts to overcome geographical obstacles and drive national economic integration, and serves as a reminder of infrastructural development before the era of modern cable-stayed bridges.",
+      "factsAdvanced": [
+        "Originally built in the year 1932",
+        "Strategic connection Lusaka-Eastern Province",
+        "Critical infrastructure project of its time",
+        "Replaced by a modern bridge in the 1960s",
+        "Symbol for national economic integration",
+        "Important stage in Zambia's transport history"
+      ]
+    }
+  ]
+}

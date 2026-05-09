@@ -1,0 +1,45 @@
+{
+  "lang": "de",
+  "country": "ethiopia",
+  "files": [
+    "lib/visualLab/data/poiExtraEthiopiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "addis-ababa-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Addis-Ababa-Stadion ist ein zentrales Symbol der äthiopischen Sportgeschichte und seit seiner Einweihung 1940 das Herzstück für nationale Fußballbegeisterungen und große Leichtathletik-Wettkämpfe. Mit einer Kapazität von etwa 35.000 Zuschauern ist es der Ort, an dem viele nationale Meistertitel und Pokalfinalspiele entschieden wurden. Es dient als Spiegelbild der sportlichen Entwicklung Äthiopiens und ist als Veranstaltungsort für internationale Wettkämpfe ein integraler Bestandteil der Identität der Hauptstadt. Sport K6 — Stadionkultur und Sportgeschichte.",
+      "factsAdvanced": [
+        "Inauguration des Stadions im Jahre 1940.",
+        "Fassungsvermögen für circa 35.000 Zuschauer.",
+        "Zentraler Knotenpunkt der äthiopischen Leichtathletik.",
+        "Häufiger Austragungsort für das Finale des Äthiopischen Pokals.",
+        "Gelegen im Herzen der Hauptstadt Addis Abeba.",
+        "Kulturelles und sportliches Wahrzeichen des Landes."
+      ]
+    },
+    {
+      "id": "au-headquarters-landmarks-v2",
+      "descriptionAdvanced": "Der Hauptsitz der Afrikanischen Union in Addis Abeba repräsentiert das politische Herz des Kontinents und ist ein architektonisches Meisterwerk moderner afrikanischer Diplomatie. Das 2012 eröffnete Areal mit seinem auffälligen 100 Meter hohen Turm dient als Schauplatz für kontinentale Gipfeltreffen und politische Strategieentwicklungen. Es ist ein Symbol für die Einheit, Unabhängigkeit und Kooperation Afrikas in einer sich wandelnden Weltordnung. Das Design integriert modernste Konferenztechnologien und ist ein unverzichtbarer Ankerpunkt für die internationale politische Arbeit in der Region. Politik K8 — Diplomatie und internationale Organisationen.",
+      "factsAdvanced": [
+        "Politisches Zentrum und diplomatischer Sitz der Afrikanischen Union.",
+        "Offizielle Inbetriebnahme des modernen Gebäudekomplexes im Jahr 2012.",
+        "Architektonisches Highlight durch den 100 Meter hohen Turm.",
+        "Ein Zeichen der Stärke und Einheit des afrikanischen Kontinents.",
+        "Zentrum für zentrale pán-afrikanische Entscheidungsprozesse.",
+        "Symbol für moderne Architektur und politische Kooperation."
+      ]
+    },
+    {
+      "id": "cbe-headquarters-landmarks-v2",
+      "descriptionAdvanced": "Das Hauptquartier der Commercial Bank of Ethiopia (CBE) in Addis Abeba überragt als höchstes Gebäude Äthiopiens mit einer Höhe von über 200 Metern die Skyline der Hauptstadt. Es ist ein architektonisches Symbol für den wirtschaftlichen Aufstieg und die ambitionierte Entwicklungsagenda des Landes. Als Hauptsitz des größten Finanzinstituts Äthiopiens verdeutlicht der Komplex den Anspruch der Bank, das Rückgrat des nationalen Wirtschaftswachstums zu bilden. Das moderne Design mit einer imposanten Glasfassade macht es zu einem der modernsten Landmarken Ostafrikas und zum neuen Zentrum für die Finanzaktivitäten des Landes. Wirtschaft K7 — Finanzsektor und Moderne Skyline.",
+      "factsAdvanced": [
+        "Höchstes Gebäude Äthiopiens mit über 200 Metern Höhe.",
+        "Zentrale der größten Bank des Landes (Commercial Bank of Ethiopia).",
+        "Neues architektonisches Wahrzeichen der Skyline von Addis Abeba.",
+        "Modernes Design geprägt durch Stahl- und Glaskonstruktionen.",
+        "Symbol für das anhaltende wirtschaftliche Wachstum des Landes.",
+        "Zentrum für die nationalen Aktivitäten im Finanzsektor."
+      ]
+    }
+  ]
+}

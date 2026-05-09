@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosCitiesV2.ts",
+    "lib/visualLab/data/poiExtraComorosEconomicV2.ts",
+    "lib/visualLab/data/poiExtraComorosHistoryV2.ts",
+    "lib/visualLab/data/poiExtraComorosLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraComorosLifeV2.ts",
+    "lib/visualLab/data/poiExtraComorosNatureV2.ts",
+    "lib/visualLab/data/poiExtraComorosReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-de-mutsamudu-landmarks-v2",
+      "descriptionAdvanced": "The Port of Mutsamudu on Anjouan island is the only deep-water harbor in the Comoros, serving as the nation's primary international maritime gateway for container ships and large tankers. Built into the naturally deep bay of the capital, the port is a strategic hub for the transshipment of goods across the archipelago and to regional markets in East Africa and the Indian Ocean islands. For Plizio K8 Economic Geography, the Port of Mutsamudu illustrates the vital role of maritime infrastructure in national development and the technical requirements for handling modern containerized cargo. The port's activity drives the economy of Anjouan, supporting a wide range of services from logistics and warehousing to industrial cold storage and maritime repairs.",
+      "factsAdvanced": [
+        "The only port in Comores capable of docking large deep-draft vessels.",
+        "Major transshipment hub for the Mozambique Channel region.",
+        "Handles over 80% of the country's international container traffic.",
+        "Strategic facility with modern cranes and container storage areas.",
+        "Essential for the export of Anjouan's spices and essential oils.",
+        "Managed under a public-private partnership for modernization.",
+        "Directly influences the cost of consumer goods in the archipelago.",
+        "A key node in the Comoros' national maritime security network."
+      ]
+    },
+    {
+      "id": "tour-de-l-horloge-moroni-landmarks-v2",
+      "descriptionAdvanced": "The Moroni Clock Tower (Tour de l'Horloge) is a prominent architectural landmark located in the bustling center of the capital, near the waterfront and the Badjanani mosque. Built during the colonial era, the tower features a blend of European clock tower design with local stone-working techniques, serving as a functional timepiece and a symbolic meeting point for residents. In the Plizio K8 Urban History curriculum, the Clock Tower illustrates the influence of 20th-century town planning on the traditional Swahili-Islamic city. The tower stands at a major commercial crossroads, where the historic Medina meets the modern administrative districts, representing Moroni's transition into a modern national capital while maintaining its unique cultural character.",
+      "factsAdvanced": [
+        "Historic timepiece located in the central 'Place de l'Indépendance'.",
+        "Architecture blends French colonial style with local basalt stone.",
+        "Serves as a primary orientation point for visitors to the capital.",
+        "Strategically positioned between the historic Medina and the port.",
+        "The clock remains a functional symbol of the city's daily rhythms.",
+        "Surrounded by key administrative buildings and local markets.",
+        "A popular site for public gatherings and national celebrations.",
+        "Maintained as a significant urban monument of Moroni."
+      ]
+    },
+    {
+      "id": "banque-centrale-comores-landmarks-v2",
+      "descriptionAdvanced": "The Central Bank of the Comoros (Banque Centrale des Comores) in Moroni is the nation's premier financial institution, responsible for the stability of the Comorian Franc and the regulation of the banking sector. The building's modern architecture, with its secure and imposing facade, reflects its role as the guardian of national economic sovereignty. For Plizio K8 Economics, the Central Bank serves as a case study for monetary policy and the functions of a national reserve, illustrating how the country manages its foreign exchange and supports domestic economic growth. The bank is also a center for national statistical research, providing the data necessary for long-term development planning and maintaining the archipelago's integration into global financial networks.",
+      "factsAdvanced": [
+        "Official headquarters of the nation's monetary authority.",
+        "Located on the Moroni waterfront, near the historic center.",
+        "Responsible for the issuance and stability of the Comorian Franc (KMF).",
+        "Regulates all commercial banks and microfinance institutions.",
+        "Manages the country's gold and foreign currency reserves.",
+        "Architecture features high security standards and modern office tech.",
+        "Key partner for the IMF and World Bank in national development.",
+        "A symbol of the country's financial independence and stability."
+      ]
+    },
+    {
+      "id": "aeroport-said-ibrahim-landmarks-v2",
+      "descriptionAdvanced": "Prince Said Ibrahim International Airport (AIMSI) is the primary air gateway to the Comoros, located 20 kilometers north of Moroni in Hahaya. This strategic facility handles all international long-haul flights and serves as the main hub for domestic travel between the islands. In the Plizio K7 Geography and Logistics curriculum, the airport illustrates the importance of air connectivity for isolated island nations, facilitating tourism, trade, and the movement of the large Comorian diaspora. The airport's location on a flat volcanic plateau allows for its long runway, capable of accommodating wide-body aircraft, making it a critical node for national development and the archipelago's link to the broader world through major hubs in East Africa and the Middle East.",
+      "factsAdvanced": [
+        "The main international airport of the Union of the Comoros.",
+        "Named after Prince Said Ibrahim, a key 20th-century political figure.",
+        "Located in Hahaya, Grande Comore, 20 km from the capital.",
+        "Features a 2,900-meter runway capable of handling Boeing 777s.",
+        "Hub for inter-island flights to Anjouan, Mohéli, and Mayotte.",
+        "Primary entry point for international tourists and the diaspora.",
+        "Essential for the export of high-value agricultural goods by air.",
+        "Undergoing modernization of its terminal and security systems."
+      ]
+    },
+    {
+      "id": "cathedrale-sainte-therese-landmarks-v2",
+      "descriptionAdvanced": "The Cathedral of Sainte Thérèse of the Child Jesus in Moroni is the primary place of worship for the small but vibrant Catholic community in the Comoros. Located in a central administrative district, the cathedral's modest but elegant architecture reflects the nation's spirit of religious tolerance and peaceful coexistence. For Plizio K8 Social Studies, the cathedral serves as a symbol of the pluralistic nature of Comorian society, where different faiths have coexisted for generations within a predominantly Muslim context. The cathedral and its associated mission provide valuable social services, including education and healthcare, contributing to the broader development of the capital and fostering interfaith dialogue within the archipelago.",
+      "factsAdvanced": [
+        "Primary Roman Catholic church in the Union of the Comoros.",
+        "Located in the 'Quartier Administratif' of the capital Moroni.",
+        "Serves as the seat of the Apostolic Vicariate of the Comoros.",
+        "Inaugurated in the mid-20th century, serving the local diaspora.",
+        "Reflects the nation's constitutional commitment to religious freedom.",
+        "Known for its peaceful courtyard and simple, modern design.",
+        "Associated with social and educational projects in the capital.",
+        "A key landmark for interfaith cooperation and community service."
+      ]
+    },
+    {
+      "id": "palais-de-justice-moroni-landmarks-v2",
+      "descriptionAdvanced": "The Palais de Justice (Palace of Justice) in Moroni is the seat of the Comorian judiciary, housing the nation's supreme and appellate courts. Located in the capital's administrative heart, the building's architecture symbolizes the rule of law and the independence of the judicial branch within the republic. In the Plizio K8 Governance curriculum, the Palais de Justice illustrates the structure of the Comorian legal system, which integrates elements of French civil law with traditional Sharia and customary law (Aadat). The palace is the venue for high-level legal proceedings and the guardian of constitutional rights, representing the country's commitment to justice, civic order, and the formal resolution of disputes in a modern democratic state.",
+      "factsAdvanced": [
+        "Headquarters of the national judicial system in Moroni.",
+        "Houses the Supreme Court and the regional Court of Appeals.",
+        "Architecture reflects the formality and importance of the law.",
+        "Venue for the swearing-in ceremonies of national judges.",
+        "Strategically located near the Palais du Peuple (Parliament).",
+        "Integrates modern legal administration with traditional values.",
+        "Key institution for the protection of constitutional rights.",
+        "A major landmark of the capital's administrative district."
+      ]
+    },
+    {
+      "id": "palais-du-gouvernement-landmarks-v2",
+      "descriptionAdvanced": "The Palais du Gouvernement (Government Palace) in Moroni is the executive heart of the Comoros, housing the offices of the Presidency and the national cabinet. This historic building, located in a scenic coastal area of the capital, serves as the venue for high-level diplomatic meetings, state banquets, and the signing of national decrees. For Plizio K8 Governance, the palace illustrates the organization of the executive branch and the role of the President as the head of the Union. The palace's architecture, with its blend of local and international styles, represents the continuity of state power and the archipelago's aspirations for political stability, regional cooperation, and national prosperity under a unified federal government.",
+      "factsAdvanced": [
+        "Official executive seat and presidential offices in Moroni.",
+        "Located in a secure, landscaped area overlooking the sea.",
+        "Hosts the weekly meetings of the national Council of Ministers.",
+        "Primary venue for receiving foreign heads of state and diplomats.",
+        "Architecture combines colonial heritage with modern national symbols.",
+        "Symbolizes the unity of the three islands under the Union flag.",
+        "A key site for national decision-making and policy formulation.",
+        "Surrounded by the residences of many high-ranking officials."
+      ]
+    },
+    {
+      "id": "itsandra-beach-hotel-landmarks-v2",
+      "descriptionAdvanced": "The Itsandra Beach Hotel is one of the most iconic and historic tourism landmarks in the Comoros, located on a beautiful white sand cove just north of Moroni. Built during the early post-independence era, the hotel has hosted generations of international diplomats, researchers, and luxury travelers, serving as a primary symbol of the country's hospitality sector. For Plizio K8 Tourism studies, Itsandra illustrates the importance of high-end infrastructure in developing the national tourism brand and attracting foreign investment. The hotel's unique position, combining modern amenities with access to a traditional fishing village and historic ruins, offers a gateway for visitors to experience the authentic beauty and culture of Grande Comore in a refined setting.",
+      "factsAdvanced": [
+        "One of the oldest and most famous luxury hotels in the Comoros.",
+        "Located on Itsandra Beach, 5 kilometers north of the capital.",
+        "Features a private white sand beach and coral reef access.",
+        "Has hosted numerous international summits and royal visits.",
+        "Architecture blends classic resort design with local materials.",
+        "A major employer and training ground for the tourism sector.",
+        "Offers panoramic views of the western coast and sunset.",
+        "Key landmark in the development of the national 'Perfume Isles' brand."
+      ]
+    },
+    {
+      "id": "alliance-francaise-moroni-landmarks-v2",
+      "descriptionAdvanced": "The Alliance Française de Moroni is the primary center for cultural exchange and linguistic cooperation between the Comoros and the Francophone world. Located in a dynamic district of the capital, the center provides a wide range of services, including French language courses, a large public library, and a venue for concerts, exhibitions, and film screenings. In the Plizio K8 Social Studies curriculum, the Alliance illustrates the archipelago's deep cultural and historical ties with France and its role as a member of the International Organization of the Francophonie (OIF). The center acts as a vibrant bridge between Comorian and international artists, fostering creativity and providing a critical space for intellectual debate and cultural preservation in the capital.",
+      "factsAdvanced": [
+        "Leading cultural and educational center in the capital Moroni.",
+        "Provides certified French language training for all levels.",
+        "Hosts the most popular public library and media center in the city.",
+        "A major venue for Comorian music, theater, and visual arts.",
+        "Supports the academic and professional mobility of local youth.",
+        "Organizes the annual 'Francophonie' festival in the archipelago.",
+        "Connected to a global network of cultural cooperation centers.",
+        "A vital landmark for intellectual life and international exchange."
+      ]
+    },
+    {
+      "id": "ouani-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "The Ouani Airport Terminal serves as the vital aviation gateway for the island of Anjouan, facilitating the movement of thousands of passengers annually between the islands. Located on the northern coast near Mutsamudu, the airport is a critical piece of infrastructure for the island's economic integration and its connection to the national capital. For Plizio K7 Logistics, the Ouani terminal illustrates the challenges of managing air traffic in a rugged island environment and the importance of inter-island connectivity for healthcare, education, and commerce. The terminal is a hub of daily activity, supporting local businesses and providing a essential link for Anjouan's residents to access services and opportunities across the entire archipelago.",
+      "factsAdvanced": [
+        "Primary domestic airport serving the island of Anjouan.",
+        "Located in Ouani, approximately 5 kilometers from Mutsamudu.",
+        "Handles daily flights connecting Anjouan to Moroni and Mohéli.",
+        "Strategic facility for the transport of high-value local exports.",
+        "A major node for the transport of patients to the national hospital.",
+        "Features a modern terminal building completed in the last decade.",
+        "Runway is built on a narrow coastal strip between mountains and sea.",
+        "Essential for the mobility of the island's large business community."
+      ]
+    },
+    {
+      "id": "bander-es-salam-terminal-landmarks-v2",
+      "descriptionAdvanced": "The Bander-es-Salam Airport Terminal is the sole air portal for the island of Mohéli, located just outside the capital Fomboni. This facility is essential for the island's isolation-breaking efforts, providing the only rapid connection to Grande Comore and Anjouan. In the Plizio K7 Geography and Transport curriculum, Bander-es-Salam illustrates the role of small regional airports in supporting the development of remote islands and facilitating ecotourism in protected areas like the Mohéli Marine Park. The terminal, though modest in size, is a strategic asset for the local economy, enabling the delivery of medical supplies, the arrival of international researchers, and the export of the island's famous cloves and vanilla by air.",
+      "factsAdvanced": [
+        "The only airport serving the island of Mohéli, located near Fomboni.",
+        "The name 'Bander-es-Salam' means 'Port of Peace' in Arabic.",
+        "Primary gateway for tourists visiting the Mohéli National Park.",
+        "Handles daily inter-island propeller flights (short takeoff/landing).",
+        "Strategic node for the delivery of emergency humanitarian aid.",
+        "Small terminal building serves as a community meeting point.",
+        "Runway is surrounded by lush plantations and coastal views.",
+        "Critical for the mobility of Mohéli's administrative staff and students."
+      ]
+    },
+    {
+      "id": "mosquee-mutsamudu-landmarks-v2",
+      "descriptionAdvanced": "The Great Mosque of Mutsamudu (Grande Mosquée de Mutsamudu) is the spiritual and architectural center of Anjouan's capital, reflecting the city's status as a major historical hub of Islamic scholarship. Built near the waterfront in a style that blends traditional Shirazi motifs with local Anjouanese stone-working, the mosque's large white minaret is a landmark for all maritime travelers entering the bay. For Plizio K8 History, the mosque illustrates the continuity of religious life in the Medina and the central role of the Friday prayer in maintaining social cohesion and traditional governance. The mosque's serene interior and its importance as a center for Quranic education make it a symbol of the spiritual resilience and cultural pride of the Anjouan people.",
+      "factsAdvanced": [
+        "Largest and most important mosque in the city of Mutsamudu.",
+        "Located near the historic port and the entrance to the Medina.",
+        "Architecture features a tall, distinctive white minaret with arches.",
+        "The primary site for Friday communal prayers on Anjouan island.",
+        "Historically linked to the most influential noble families of the city.",
+        "A center for traditional Islamic education and community council.",
+        "The mosque's facade is regularly maintained with local white lime.",
+        "A major landmark of the Anjouanese cultural and religious heritage."
+      ]
+    },
+    {
+      "id": "waterfront-domoni-landmarks-v2",
+      "descriptionAdvanced": "The Domoni Waterfront is a historic maritime promenade on the eastern coast of Anjouan, where the ancient city walls meet the Indian Ocean. This landmark is characterized by its rugged basaltic shore and its role as a vibrant space for traditional trade, fishing, and social gathering. In the Plizio K7 Urban Geography curriculum, the Domoni waterfront illustrates the layout of a 'maritime Medina', where the city's economic and social life is oriented toward the sea. The area is famous for its sunset views and the sight of traditional outrigger canoes (galawas) returning with their catch, serving as a reminder of Domoni's centuries-old legacy as a major port of the Swahili spice trade and a center of regional maritime power.",
+      "factsAdvanced": [
+        "Scenic coastal promenade in the historic city of Domoni.",
+        "Features remnants of the ancient defensive walls and bastions.",
+        "Major landing site for the eastern Anjouan artisanal fishing fleet.",
+        "Historically a primary trade point for the export of spices.",
+        "Popular community gathering spot for evening social life.",
+        "Provides views of the powerful swells of the Mozambique Channel.",
+        "Surrounded by historic stone buildings and narrow alleys.",
+        "A key landmark reflecting the city's deep maritime identity."
+      ]
+    },
+    {
+      "id": "fort-de-iconi-ruins-landmarks-v2",
+      "descriptionAdvanced": "The ruins of the Fort of Iconi on Grande Comore are a poignant reminder of the archipelago's defensive history during the era of maritime raids. Strategically built on a rocky promontory south of the city, the fort once protected the Sultanate of Bambao from Malagasy pirates and competing regional powers. For Plizio K8 History, the Iconi ruins provide a direct look at pre-colonial military architecture, featuring basalt walls and lookout points that monitored the coastline. The site is historically linked to the tragic events at the Iconi cliffs, serving as a monument to the community's determination to defend its sovereignty and its unique cultural identity against external threats throughout the 18th and 19th centuries.",
+      "factsAdvanced": [
+        "Defensive ruins located on the rocky coastline south of Iconi.",
+        "Built to protect the capital of the Bambao Sultanate.",
+        "Constructed using massive blocks of local volcanic basalt.",
+        "Strategically positioned to monitor the sea lanes to Moroni.",
+        "The fort was a key stronghold during the 19th-century conflicts.",
+        "Current ruins include the foundations of walls and watchtowers.",
+        "A protected site of national historical and military heritage.",
+        "Symbolizes the resilience of the southern Comorian communities."
+      ]
+    },
+    {
+      "id": "grande-mosquee-mbeni-landmarks-v2",
+      "descriptionAdvanced": "The Great Mosque of Mbéni is a magnificent landmark in northern Grande Comore, representing the religious and social heart of one of the island's largest and most traditional cities. The mosque's grand architecture, with its large prayer hall and distinctive minaret, dominates the city center and reflects the wealth and devotion of the northern population. In the Plizio K8 Social Studies curriculum, the Mbéni mosque serves as a primary example of how religious institutions anchor the 'Grand Mariage' system and the traditional social hierarchy of the northern regions. The mosque is not only a place of worship but also a center for communal decision-making and the preservation of the unique cultural heritage of the Hamahamet region.",
+      "factsAdvanced": [
+        "Primary religious and social landmark in the city of Mbéni.",
+        "One of the largest mosques in the northern region of Grande Comore.",
+        "Architecture features traditional white lime finish and grand arches.",
+        "The focal point for the region's famous 'Grand Mariage' ceremonies.",
+        "Serves as the administrative center for northern Islamic affairs.",
+        "Located centrally near the city's primary commercial markets.",
+        "A major center for high-level Quranic and Arabic education.",
+        "Symbolizes the status and pride of the Hamahamet people."
+      ]
+    },
+    {
+      "id": "mairie-de-fomboni-landmarks-v2",
+      "descriptionAdvanced": "The Mairie de Fomboni (City Hall) is the administrative heart of Mohéli's capital, serving as the seat of local government and a center for civic coordination. Located in a historic building near the waterfront, the city hall manages the essential services and urban development of the island's largest settlement. For Plizio K8 Governance, the Fomboni City Hall illustrates the structure of municipal administration in the Comoros and the role of local authorities in managing resources and public projects. The building's architecture, reflecting the island's modest and practical style, represents the community's commitment to local democracy and the efficient governance of Fomboni as it grows into a modern regional hub for trade and tourism.",
+      "factsAdvanced": [
+        "Headquarters of the municipal administration of Fomboni.",
+        "Located centrally near the port and the administrative district.",
+        "Responsible for urban planning, sanitation, and local services.",
+        "The venue for city council meetings and local civic ceremonies.",
+        "Acts as a coordination point for the Mohéli regional government.",
+        "Architecture blends traditional Mohélien styles with modern utility.",
+        "A key contact point for local residents and business owners.",
+        "Symbolizes the development and civic pride of the capital city."
+      ]
+    },
+    {
+      "id": "lycee-said-mohamed-cheikh-landmarks-v2",
+      "descriptionAdvanced": "The Lycée Said Mohamed Cheikh in Moroni is the nation's premier secondary educational institution, renowned for its academic excellence and its role in shaping the country's future elite. Named after the father of Comorian autonomy, the school provides a comprehensive curriculum that prepares students for university education and professional life. In the Plizio K8 Education curriculum, the Lycée illustrates the importance of high-quality secondary schooling in national development and the archipelago's commitment to modernization through education. The campus is a hub of intellectual activity and youth culture, representing the aspirations of thousands of students from across the islands who seek to contribute to the progress of the Comorian republic.",
+      "factsAdvanced": [
+        "The largest and most prestigious public high school in Moroni.",
+        "Named after the Comorian statesman Said Mohamed al-Cheikh.",
+        "Primary institution for preparing students for the Baccalaureate.",
+        "Located in the southern part of the capital, near Mvouni.",
+        "Known for its high standards in sciences, literature, and history.",
+        "A major symbol of the country's modern educational system.",
+        "Hosts a large campus with laboratories, a library, and sports fields.",
+        "The alma mater of many prominent Comorian leaders and thinkers."
+      ]
+    },
+    {
+      "id": "marche-volovolo-landmarks-v2",
+      "descriptionAdvanced": "Volovolo Market in Moroni is the largest and most vibrant commercial landmark in the Comoros, serving as the central nervous system of the capital's retail economy. This sprawling outdoor market is a kaleidoscope of colors and activity, where thousands of traders sell everything from fresh volcanic produce and exotic spices to textiles, electronics, and traditional crafts. For Plizio K6 Social Economics, Volovolo illustrates the importance of the 'informal' sector in supporting urban livelihoods and the complex trade networks that link rural farmers with urban consumers. The market is a sensory destination where the authentic spirit of Comorian daily life is most visible, reflecting the resilience and entrepreneurial energy of the archipelago's population.",
+      "factsAdvanced": [
+        "The largest open-air market in the Union of the Comoros.",
+        "Located in the heart of Moroni, covering several city blocks.",
+        "Primary distribution center for local food, spices, and clothing.",
+        "A vital economic hub supporting thousands of small-scale vendors.",
+        "Market activity is highest in the early morning and before sunset.",
+        "A key site for experiencing the authentic daily life of the capital.",
+        "Reflects the integration of domestic and international trade.",
+        "Known for its high-energy atmosphere and traditional bargaining."
+      ]
+    },
+    {
+      "id": "mutsamudu-city-gates-landmarks-v2",
+      "descriptionAdvanced": "The historic City Gates of Mutsamudu (Les Portes de la Ville) are the ancient entrances to the Medina, once part of a comprehensive defensive wall system that protected the Anjouanese capital. These stone arches, built from volcanic basalt and coral, were strategically designed to control access to the city and defended with massive wooden doors. In the Plizio K8 History curriculum, the Mutsamudu gates illustrate the defensive urbanism of the pre-colonial sultanates and the architectural influence of the Shirazi and Omani traditions. Today, the gates serve as symbolic portals between the modern industrial port area and the historic, narrow streets of the Medina, testifying to Mutsamudu's centuries-old legacy as a secure and prosperous Indian Ocean trade center.",
+      "factsAdvanced": [
+        "Ancient stone portals leading into the historic Mutsamudu Medina.",
+        "Remnants of the 18th-century defensive wall system of the city.",
+        "Built with local basalt blocks and traditional lime mortar.",
+        "Strategically designed to narrow the entrance for defense.",
+        "Each gate was historically guarded by the Sultan's militia.",
+        "Currently protected as significant architectural heritage sites.",
+        "Act as a threshold between the modern city and the old quarters.",
+        "The most famous gate is located near the waterfront entrance."
+      ]
+    },
+    {
+      "id": "radio-comores-building-landmarks-v2",
+      "descriptionAdvanced": "The Radio Comores Building in Moroni is a key landmark of the national media landscape, serving as the headquarters for the state-owned broadcasting service. Since its establishment, the station has played a vital role in national unity, information dissemination, and the promotion of Comorian culture and languages. For Plizio K8 Social Studies, the Radio Comores building illustrates the importance of public broadcasting in a developing nation, providing essential services like emergency alerts, educational programs, and national news. The facility is a symbol of the country's modernization and its commitment to ensuring all citizens, even in remote island villages, have access to information and a platform for cultural expression in their native languages.",
+      "factsAdvanced": [
+        "Headquarters of the national public broadcaster, ORTC.",
+        "Located in a prominent administrative district of Moroni.",
+        "The primary source for national news, music, and culture.",
+        "Broadcasts in Comorian (Shingazidja), French, and Arabic.",
+        "Essential for coordinating national emergency and weather alerts.",
+        "Acts as a major training ground for Comorian journalists.",
+        "Architecture features a modern design with large broadcast antennas.",
+        "A vital symbol of national communication and linguistic diversity."
+      ]
+    },
+    {
+      "id": "la-grille-relief-v2",
+      "descriptionAdvanced": "La Grille is the northernmost volcanic massif of Grande Comore, a massive basaltic plateau that stands in contrast to the more famous Mount Karthala to the south. Characterized by hundreds of small volcanic cones (cinder cones) scattered across its surface, La Grille represents an older and more eroded phase of the island's volcanic history. In the Plizio K7 Geology curriculum, La Grille illustrates the concept of 'shield volcanoes' and the evolution of volcanic terrain over time. The plateau's relatively flat and fertile surface is home to several important agricultural villages, where the rich volcanic soil supports the intensive cultivation of vanilla, cloves, and subsistence crops in a unique highland environment.",
+      "factsAdvanced": [
+        "The second largest volcanic massif on the island of Grande Comore.",
+        "Features approximately 100 small scoria and cinder cones.",
+        "Highest point reaches an altitude of 1,087 meters above sea level.",
+        "The volcanic activity is older and less frequent than Karthala's.",
+        "Surface is exceptionally fertile, supporting northern agriculture.",
+        "The plateau provides vital groundwater reserves for northern villages.",
+        "Relief is marked by a series of gentle slopes and small craters.",
+        "Primary habitat for several endemic highland plant species."
+      ]
+    },
+    {
+      "id": "mount-sima-relief-v2",
+      "descriptionAdvanced": "Mount Sima is a prominent volcanic peak located on the western peninsula of Anjouan, serving as a dramatic natural landmark that defines the region's rugged geography. The mountain's slopes are covered in dense tropical vegetation and secondary forest, acting as a vital catchment area for the fresh water springs that supply the western villages. For Plizio K7 Physical Geography, Mount Sima illustrates the impact of volcanic relief on local climate and water resources, showing how its elevation triggers orographic rainfall that sustains the fertile plantations below. The mountain also offers spectacular panoramic views over the Mozambique Channel, making it a focal point for regional trekking and environmental study in Anjouan's western districts.",
+      "factsAdvanced": [
+        "Significant volcanic peak on Anjouan's western peninsula.",
+        "Reaches an altitude of approximately 600 meters near the coast.",
+        "Acts as a major watershed for the Sima and Bimbini regions.",
+        "Slopes are characterized by steep basaltic cliffs and deep ravines.",
+        "Hosts diverse tropical flora, including rare endemic ferns.",
+        "The peak offers strategic views over the western maritime routes.",
+        "Climate at the summit is significantly cooler and mistier.",
+        "Surrounded by some of the island's oldest agricultural lands."
+      ]
+    },
+    {
+      "id": "mutsamudu-valley-relief-v2",
+      "descriptionAdvanced": "The Mutsamudu Valley is a deep, fertile basin that cuts through the northern mountains of Anjouan, leading directly to the capital's deep-water port. This valley is the island's most important agricultural and hydrological artery, carved by seasonal rivers and ancient volcanic activity. In the Plizio K7 Geography curriculum, the Mutsamudu Valley illustrates the importance of valley ecosystems in supporting urban centers, providing the water, food, and transport routes necessary for the capital's growth. The valley's sides are lined with terraced plantations of bananas, ylang-ylang, and spices, creating a lush green backdrop that stands in beautiful contrast to the white stone architecture of the city below.",
+      "factsAdvanced": [
+        "Major river valley and drainage basin for central-northern Anjouan.",
+        "Primary source of fresh water for the capital city, Mutsamudu.",
+        "The valley floor is used for intensive fruit and vegetable farming.",
+        "Features dramatic terraced slopes for ylang-ylang cultivation.",
+        "The relief creates a natural amphitheater for the capital city.",
+        "Subject to high rainfall and frequent morning mountain mists.",
+        "Home to several historic irrigation systems and water mills.",
+        "Acts as the primary transport corridor to the island's interior."
+      ]
+    },
+    {
+      "id": "djabal-cave-relief-v2",
+      "descriptionAdvanced": "The Djabal Cave (Grotte de Djabal) is a significant geological and archaeological site located on the island of Grande Comore, representing one of the few accessible limestone formations in a predominantly volcanic landscape. This ancient sea cave, now located inland due to geological uplift and lava flow expansion, contains evidence of prehistoric human activity and unique mineral formations. For Plizio K7 Geology, Djabal Cave illustrates the interaction between marine erosion and volcanic growth, showing how the island's coastline has shifted over millennia. The cave's cool, dark environment hosts specialized fauna, including rare bat species, and has long been a place of mystery and traditional significance for the local populations.",
+      "factsAdvanced": [
+        "Ancient karst formation located near the Moroni-Itsandra region.",
+        "One of the few limestone caves in the volcanic archipelago.",
+        "Archaeological evidence points to use by early island settlers.",
+        "Features unique stalactites and stalagmites of calcium carbonate.",
+        "Important habitat for local fruit bats and specialized cave insects.",
+        "The cave was historically used as a refuge during times of war.",
+        "Relief is marked by a deep natural entrance and winding passages.",
+        "Currently a site of scientific interest for geologists and historians."
+      ]
+    },
+    {
+      "id": "cape-saint-andre-relief-v2",
+      "descriptionAdvanced": "Cape Saint André is a dramatic volcanic promontory on the northern coast of Anjouan, where the island's steep mountains meet the turquoise waters of the Indian Ocean. This landmark is characterized by its sheer basaltic cliffs and a jagged shoreline that creates some of the most spectacular coastal scenery in the archipelago. In the Plizio K7 Marine Geography curriculum, Cape Saint André illustrates the power of oceanic erosion on volcanic landforms and the importance of coastal promontories in regional navigation. The cape's rugged terrain provides a safe haven for seabirds and offers a vantage point for observing the powerful currents of the Mozambique Channel, serving as a symbolic gateway to Anjouan's northern maritime world.",
+      "factsAdvanced": [
+        "Strategically located promontory on the northern tip of Anjouan.",
+        "Characterized by basalt cliffs rising 50 meters above the sea.",
+        "A major landmark for regional shipping and local fishermen.",
+        "The area is known for powerful and unpredictable marine currents.",
+        "Home to large colonies of nesting tropical seabirds.",
+        "Features deep sea caves carved into the volcanic rock by waves.",
+        "The relief offers panoramic views toward the island of Grande Comore.",
+        "Accessible via scenic hiking trails from the village of Ouani."
+      ]
+    }
+  ]
+}

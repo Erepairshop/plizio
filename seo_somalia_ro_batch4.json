@@ -2,363 +2,46 @@
   "lang": "ro",
   "country": "somalia",
   "files": [
-    "lib/visualLab/data/poiExtraSomaliaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaLifeV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts",
     "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "burao-tannery-economic-v2",
-      "descriptionAdvanced": "Tăbăcăria din Burao este un pilon economic central pentru regiunea Togdheer, profitând de statutul orașului ca hub major pentru comerțul cu animale. Această unitate industrială prelucrează cantități masive de piei de ovine și caprine, pregătindu-le pentru export prin portul Berbera. Calitatea pieilor procesate în Burao este recunoscută pe piețele internaționale, fiind esențială pentru industriile de marochinărie. Tăbăcăria reprezintă o verigă vitală în lanțul de valoare al economiei pastorale din Somaliland, oferind locuri de muncă și adăugând valoare materiilor prime locale prin procese de finisare semi-industrială. Földrajz K8 — centre de colectare și industrii de prelucrare.",
+      "id": "karkar-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Karkar se întind ca o regiune muntoasă vastă și uscată în nord-estul Somaliei. Această formațiune este rezultatul unor procese erozive intense, care au creat de-a lungul timpului un relief fragmentat și arid. Din cauza lipsei precipitațiilor semnificative, munții sunt în mare parte lipsiți de vegetație și sunt foarte puțin populați. Structura geologică este alcătuită în principal din straturi de rocă expuse, care generează o optică topografică aspră și monotonă. Munții Karkar reprezintă astfel o provocare pentru orice utilizare economică și servesc în primul rând ca un peisaj natural virgin și interesant din punct de vedere geologic.",
       "factsAdvanced": [
-        "Burao gestionează cea mai mare piață de animale din Somaliland.",
-        "Tăbăcăria procesează zilnic mii de piei brute.",
-        "Majoritatea produselor sunt exportate către China și Turcia.",
-        "Utilizează apă din resursele locale subterane pentru procesare.",
-        "Este o sursă majoră de venituri pentru districtul Burao.",
-        "Pieile de capră din această regiune sunt faimoase pentru durabilitate.",
-        "Fabrica a fost modernizată recent cu echipamente ecologice.",
-        "Susține un ecosistem de mici ateliere de încălțăminte în oraș."
+        "Relief muntos vast și uscat în nord-est.",
+        "Modelat prin eroziune profundă și pe termen lung.",
+        "Condiții extrem de aride și cu puțină vegetație.",
+        "Puține așezări umane sau deloc.",
+        "Geologic dominat de straturi de rocă expuse.",
+        "Profil montan aspru și fragmentat.",
+        "Peisaj natural virgin și neexplorat."
       ]
     },
     {
-      "id": "balcad-textile-economic-v2",
-      "descriptionAdvanced": "Fabrica de Textile din Balcad (Somaltex) a fost odată mândria industriei ușoare a Somaliei, situată pe malul fluviului Shebelle. În perioada sa de glorie, fabrica procesa bumbacul cultivat local în valea fluviului, transformându-l în țesături de calitate folosite pentru uniformele naționale și consumul intern. Deși a fost grav afectată de războiul civil, infrastructura și locația sa rămân de o importanță strategică pentru planurile de re-industrializare a țării. Reînvierea Somaltex ar însemna restabilirea unui întreg lanț valoric agricol-industrial, de la fermierii de bumbac până la designerii locali de modă. Geografia K7 — resurse de bumbac și industrii textile.",
+      "id": "mudug-savanna-relief-v2",
+      "descriptionAdvanced": "Savana Mudug se întinde ca un peisaj semiarid peste podișul central al Somaliei. Relieful este caracterizat de o topografie ușor ondulată, determinată în principal de tufișuri spinoase, ierburi rare și salcâmi izolați. Din punct de vedere geologic, această regiune formează un vast bazin sedimentar care prezintă cursuri de apă temporare în timpul anotimpurilor ploioase scurte, dar intense, care modelează relieful. Regiunea este un exemplu clasic de ecologie de savană adaptată la fluctuații climatice extreme și funcționează ca o zonă de pășunat vitală pentru creșterea extensivă a animalelor în sistem nomad.",
       "factsAdvanced": [
-        "A fost cea mai mare fabrică de textile din Somalia socialistă.",
-        "Procesul de producție era integrat: de la fibră la produs finit.",
-        "Utiliza bumbac cultivat în regiunile Lower și Middle Shabelle.",
-        "Fabrica a fost dotată inițial cu tehnologie germană și italiană.",
-        "Creea mii de locuri de muncă pentru comunitatea locală din Balcad.",
-        "Locația lângă fluviu era esențială pentru procesele de vopsire.",
-        "Ruinele fabricii sunt în prezent protejate pentru viitoare investiții.",
-        "Somaltex era un brand recunoscut în tot Cornul Africii."
+        "Relief de savană vast și semiarid în centrul Somaliei.",
+        "Caracterizat printr-o topografie ușor ondulată.",
+        "Vegetație dominată de tufișuri spinoase și salcâmi.",
+        "Baza stâncoasă formată în principal din bazine sedimentare.",
+        "Anotimpuri ploioase scurte și intense care modelează cursurile de apă.",
+        "Zonă de pășunat esențială pentru economia nomadă.",
+        "Capacitate ridicată de adaptare la fluctuații climatice extreme."
       ]
     },
     {
-      "id": "kismayo-meat-economic-v2",
-      "descriptionAdvanced": "Industria cărnii din Kismayo beneficiază de resursele pastorale imense ale statului Jubaland, fiind un centru emergent pentru exportul de carne procesată. Abatoarele moderne din Kismayo sunt concepute să respecte standardele internaționale de igienă (HACCP) pentru a permite accesul produselor somaleze pe piețele exigente din Golf. Proximitatea portului și a aeroportului facilitează transportul rapid al cărnii proaspete sau congelate către consumatorii internaționali. Această industrie este esențială pentru diversificarea economiei somaleze, trecând de la exportul de animale vii la produse cu valoare adăugată mai mare. Földrajz K8 — securitate alimentară și exporturi procesate.",
+      "id": "burao-valley-relief-v2",
+      "descriptionAdvanced": "Bazinul Văii Burao formează o depresiune topografică centrală care delimitează podișurile înconjurătoare din interiorul Somaliei din punct de vedere climatic și ecologic. Ca zonă naturală de colectare, aici se adună scurgerile de suprafață de pe dealurile înconjurătoare, ceea ce permite crearea unor microhabitate asemănătoare oazelor într-un mediu altfel destul de uscat. Structura solului este alcătuită din depozite aluviale fine, care sunt deosebit de productive în condiții de umiditate. Această locație geografică a făcut istoric din bazinul văii un nod pentru rutele nomade și structurile de așezări mici, care au modelat semnificativ forma peisajului local.",
       "factsAdvanced": [
-        "Abatoarele din Kismayo au capacități de procesare de sute de capete/zi.",
-        "Carnea de oaie și cămilă este foarte apreciată în Arabia Saudită.",
-        "Facilitățile includ tuneluri de congelare rapidă și depozite frigorifice.",
-        "Exportul este susținut de certificări veterinare internaționale.",
-        "Industria oferă o alternativă la transportul dificil de animale vii.",
-        "Jubaland are unele dintre cele mai bune pășuni pentru vite din țară.",
-        "Investițiile sunt realizate în parteneriat public-privat.",
-        "Creează oportunități pentru industria subproduselor (piele, făină de oase)."
-      ]
-    },
-    {
-      "id": "mogadishu-milk-economic-v2",
-      "descriptionAdvanced": "Industria lactatelor din Mogadishu a cunoscut o transformare radicală, evoluând de la vânzarea tradițională la marginea drumului la fabrici moderne de procesare. Unități precum 'Irma Dairy' procesează laptele colectat de la pastorii din regiunile învecinate, oferind lapte pasteurizat, iaurt și brânzeturi sigure pentru consumul urban. Această dezvoltare industrială reduce dependența capitalei de laptele praf importat și susține veniturile micilor producători rurali. Modernizarea sectorului lactat reflectă creșterea puterii de cumpărare în Mogadishu și cererea tot mai mare pentru produse alimentare procesate local la standarde internaționale. Geografia K7 — aprovizionare urbană și lanțuri de frig.",
-      "factsAdvanced": [
-        "Lăptăriile moderne colectează lapte de la sute de ferme din Shabelle.",
-        "Procesul de pasteurizare a redus drastic bolile transmise prin lapte.",
-        "Iaurtul produs în Mogadishu este acum prezent în toate supermarketurile.",
-        "Sectorul este dominat de antreprenori din diaspora somaleză.",
-        "Fabricile folosesc energie solară pentru a menține lanțul de frig.",
-        "Cererea de lapte de cămilă procesat este în continuă creștere.",
-        "Industria susține crearea de puncte de colectare în zonele rurale.",
-        "Mogadishu consumă zilnic peste 100.000 de litri de lapte."
-      ]
-    },
-    {
-      "id": "borama-water-economic-v2",
-      "descriptionAdvanced": "Compania de Apă din Borama (SHABA) este un model de succes al parteneriatului comunitar în furnizarea serviciilor publice în Somaliland. Într-o regiune marcată de penuria de apă, SHABA a reușit să creeze o infrastructură modernă de foraje, rezervoare și rețele de distribuție care deservesc întregul oraș Borama. Succesul acestui proiect economic se bazează pe managementul local eficient și pe investițiile constante în tehnologii de pompare sustenabile. Apa furnizată nu este esențială doar pentru consumul casnic, ci și pentru susținerea statutului de centru universitar al orașului, demonstrând că resursele vitale pot fi gestionate cu succes de sectorul privat local. Földrajz K8 — managementul resurselor de apă și servicii publice.",
-      "factsAdvanced": [
-        "SHABA este una dintre primele companii private de utilități din regiune.",
-        "Gestionează o rețea de peste 15 puțuri de mare adâncime.",
-        "Sistemul de distribuție acoperă peste 90% din aria urbană.",
-        "Tarifele sunt reglementate pentru a asigura accesul universal.",
-        "Compania a investit în laboratoare de testare a calității apei.",
-        "Borama este recunoscut drept orașul cu cel mai bun acces la apă.",
-        "Sistemul include rezervoare montane care folosesc gravitația.",
-        "Modelul SHABA a fost replicat în alte orașe din Somalia."
-      ]
-    },
-    {
-      "id": "garowe-bottling-economic-v2",
-      "descriptionAdvanced": "Industria de îmbuteliere a apei din Garowe reprezintă un sector economic în plină expansiune în statul Puntland, răspunzând nevoii critice de apă potabilă sigură într-un climat arid. Fabricile locale folosesc tehnologii avansate de filtrare și purificare prin osmoză inversă pentru a extrage și ambala apă din acviferele adâncii ale văii Nugaal. Branduri precum 'Garowe Water' au devenit sinonime cu calitatea, fiind distribuite în tot nord-estul Somaliei. Acest sector nu doar că asigură sănătatea publică, dar contribuie și la reducerea utilizării apei din surse nesigure, fiind un motor de creștere pentru economia orașului Garowe. Geografia K7 — resurse de apă subterană și industrii de consum.",
-      "factsAdvanced": [
-        "Apa este extrasă din acvifere situate la peste 200 de metri adâncime.",
-        "Procesul de îmbuteliere este complet automatizat pentru igienă.",
-        "Standardele de calitate sunt monitorizate de Ministerul Sănătății.",
-        "Industria de plastic conexă (preforme) s-a dezvoltat în paralel.",
-        "Garowe este hub-ul central de distribuție pentru regiunea Nugaal.",
-        "Utilizarea apei îmbuteliate a crescut cu 300% în ultimul deceniu.",
-        "Companiile locale finanțează proiecte de protecție a mediului.",
-        "Sectorul oferă sute de locuri de muncă tinerilor din oraș."
-      ]
-    },
-    {
-      "id": "mogadishu-plastics-economic-v2",
-      "descriptionAdvanced": "Industria maselor plastice din Mogadishu s-a dezvoltat rapid pentru a susține sectoarele construcțiilor și bunurilor de larg consum. Fabricile locale produc acum o gamă variată de produse, de la țevi PVC pentru infrastructura de apă până la rezervoare masive de stocare și ambalaje alimentare. Această producție locală a redus semnificativ costurile proiectelor de reconstrucție urbană prin eliminarea nevoii de a importa obiecte voluminoase. În paralel cu producția, au apărut și primele inițiative de reciclare, încercând să rezolve problema deșeurilor plastice într-o metropolă în creștere. Geografia K8 — substituirea importurilor și managementul deșeurilor.",
-      "factsAdvanced": [
-        "Mogadishu găzduiește peste 10 unități mari de producție a plasticului.",
-        "Țevile PVC produse local sunt folosite pentru noua rețea de canalizare.",
-        "Rezervoarele de apă de 5.000 litri sunt cel mai vândut produs.",
-        "Materia primă (polimerii) este importată prin portul Mogadishu.",
-        "Fabricile folosesc matrițe moderne importate din Turcia și China.",
-        "Sectorul contribuie la scăderea costului construcțiilor cu 20%.",
-        "Reciclarea plasticului a început să creeze o micro-economie locală.",
-        "Industria este concentrată în zonele industriale de la periferie."
-      ]
-    },
-    {
-      "id": "hargeisa-flour-economic-v2",
-      "descriptionAdvanced": "Industria morăritului din Hargeisa este vitală pentru securitatea alimentară a Somalilandului, procesând atât cereale locale, cât și grâu importat. Morile moderne din oraș produc făină fortificată, esențială pentru dieta zilnică a populației urbane și rurale. Această industrie a permis stabilizarea prețurilor la produsele de panificație și a încurajat dezvoltarea brutăriilor industriale și a fabricilor de paste făinoase. Prin investiții în silozuri de mare capacitate, Hargeisa a devenit un centru de stocare strategică a cerealelor, protejând regiunea de fluctuațiile pieței internaționale. Geografia K7 — procesarea cerealelor și nutriție urbană.",
-      "factsAdvanced": [
-        "Morile de făină din Hargeisa au capacități de sute de tone pe zi.",
-        "Producția de paste făinoase locale a început să înlocuiască importurile.",
-        "Sunt folosite sisteme de fortificare cu fier și vitamine.",
-        "Grâul este adus prin portul Berbera și procesat în capitală.",
-        "Silozurile de stocare pot asigura rezerve pentru câteva luni.",
-        "Industria susține mii de mici brutării de cartier.",
-        "Investițiile în tehnologia de morărit provin în principal din diaspora.",
-        "Sectorul este crucial pentru combaterea malnutriției infantile."
-      ]
-    },
-    {
-      "id": "berbera-oil-terminal-economic-v2",
-      "descriptionAdvanced": "Terminalul petrolier din Berbera este principala poartă de intrare a produselor energetice pentru Somaliland și o parte din Etiopia. Situat în incinta portului Berbera, acest complex masiv de rezervoare gestionează importurile de benzină, motorină și combustibil pentru aviație. Terminalul a fost modernizat recent pentru a crește capacitatea de stocare și a îmbunătăți siguranța operațiunilor de descărcare de pe navele petroliere. Controlul acestui terminal este de o importanță geopolitică majoră, fiind inima care pompează energia necesară transportului și industriei în întregul Corn al Africii. Földrajz K8 — infrastructură energetică și securitate națională.",
-      "factsAdvanced": [
-        "Capacitatea totală de stocare depășește zeci de milioane de litri.",
-        "Este conectat direct la danele de adâncime ale portului Berbera.",
-        "Asigură necesarul de combustibil pentru aeroportul internațional.",
-        "Sistemul de conducte a fost reabilitat pentru a preveni scurgerile.",
-        "Este monitorizat prin sisteme digitale de management al fluxului.",
-        "Terminalul este deservit de o flotă de sute de camioane cisternă.",
-        "Reprezintă o sursă critică de venituri vamale pentru guvern.",
-        "Există planuri pentru construirea unei conducte spre Etiopia."
-      ]
-    },
-    {
-      "id": "bosaso-oil-terminal-economic-v2",
-      "descriptionAdvanced": "Terminalul petrolier din Bosaso joacă un rol similar în nord-estul Somaliei, fiind hub-ul energetic al statului Puntland. Acesta recepționează combustibili din Golf, care sunt ulterior distribuiți în toate regiunile interioare, până în centrul Somaliei. Terminalul este esențial pentru funcționarea generatoarelor electrice care alimentează orașele somaleze, într-o țară care se bazează masiv pe rețele electrice izolate pe motorină. Modernizarea acestui terminal este o prioritate pentru autoritățile din Puntland pentru a asigura stabilitatea prețurilor la energie și a sprijini dezvoltarea industrială a regiunii. Geografia K7 — noduri energetice și distribuție teritorială.",
-      "factsAdvanced": [
-        "Este cel mai mare terminal de combustibili din statul Puntland.",
-        "Alimentează centralele electrice din Bosaso, Garowe și Galkayo.",
-        "Rezervoarele sunt situate strategic lângă zona portuară.",
-        "Economia Puntlandului depinde de eficiența acestui terminal.",
-        "Distribuția se face prin rute comerciale care traversează munții Karkar.",
-        "Terminalul include unități de amestecare și control al calității.",
-        "A cunoscut extinderi majore în ultimii 5 ani.",
-        "Este un punct cheie pentru logistica transportului rutier pe ruta nord-sud."
-      ]
-    },
-    {
-      "id": "maydh-port-economic-v2",
-      "descriptionAdvanced": "Portul Maydh este un punct comercial istoric și emergent situat în regiunea Sanaag din Somaliland. Deși a fost mult timp un port de mică adâncime folosit pentru pescuit și exportul de tămâie, un nou proiect de modernizare finanțat de Fondul de Dezvoltare din Somaliland (SDF) transformă Maydh într-o poartă comercială modernă. Construcția unui nou dig și a unor facilități portuare va permite navelor mai mari să acosteze, facilitând exportul de animale și importul de bunuri pentru regiunea izolată Sanaag. Maydh are, de asemenea, o semnificație culturală profundă, fiind locul de înmormântare al lui Sheikh Isaaq, strămoșul uneia dintre cele mai mari confederații de clanuri din regiune. Földrajz K8 — dezvoltare portuară și patrimoniu cultural.",
-      "factsAdvanced": [
-        "Noul dig de 120 de metri permite accesul navelor de tonaj mediu.",
-        "Este principalul punct de ieșire pentru tămâia din munții Cal Madow.",
-        "Proiectul de modernizare a costat peste 5 milioane USD.",
-        "Găzduiește mormântul venerat al lui Sheikh Isaaq bin Ahmed.",
-        "Portul va reduce costurile de transport pentru estul Somalilandului.",
-        "Pescuitul de rechini și ton este o activitate majoră în zonă.",
-        "Se află la poalele munților, oferind un acces dificil dar strategic.",
-        "Este una dintre cele mai vechi așezări locuite de pe coastă."
-      ]
-    },
-    {
-      "id": "mogadishu-soap-economic-v2",
-      "descriptionAdvanced": "Industria de producere a săpunului și detergenților din Mogadishu s-a dezvoltat ca un răspuns la cererea tot mai mare de produse de igienă pe piața internă. Fabricile locale produc acum săpunuri solide, detergenți lichizi și produse de curățenie care sunt competitive ca preț și calitate cu cele importate. Această industrie este importantă deoarece utilizează adesea grăsimi animale (subproduse ale industriei cărnii) ca materie primă, creând legături economice între sectoare diferite. Succesul acestui sector demonstrează capacitatea antreprenorilor somalezi de a construi industrii de substituire a importurilor chiar și în condiții dificile. Geografia K7 — industrie chimică ușoară și integrare economică.",
-      "factsAdvanced": [
-        "Utilizează grăsimi animale locale și uleiuri vegetale importate.",
-        "Săpunul 'Made in Somalia' domină acum piețele rurale.",
-        "Fabricile sunt dotate cu linii de producție din Turcia.",
-        "Produsele includ detergenți parfumați și săpunuri medicinale.",
-        "Sectorul a contribuit la îmbunătățirea igienei publice în orașe.",
-        "Multe dintre aceste afaceri au început ca mici ateliere de familie.",
-        "Ambalajele sunt de asemenea produse în Mogadishu.",
-        "Exporturile către regiunile interioare au crescut semnificativ."
-      ]
-    },
-    {
-      "id": "eyl-fish-processing-economic-v2",
-      "descriptionAdvanced": "Centrul de procesare a peștelui din Eyl este o unitate esențială pentru valorificarea resurselor marine bogate ale regiunii Nugaal. Specializat în principal în procesarea homarilor, care sunt extrem de abundenți în apele reci ale curentului de coastă, centrul pregătește fructele de mare pentru piețele de lux din străinătate. Facilitățile includ unități de spălare, sortare pe dimensiuni și congelare rapidă, asigurând păstrarea calității premium a produselor. Această unitate economică este vitală pentru comunitatea din Eyl, transformând pescuitul de subzistență într-o afacere profitabilă de export care susține întreaga regiune. Földrajz K8 — exporturi de lux și resurse halieutice.",
-      "factsAdvanced": [
-        "Eyl este considerat capitala homarului din Somalia.",
-        "Procesarea se face sub standarde stricte de export.",
-        "Majoritatea capturilor ajung în restaurantele din Dubai.",
-        "Sezonul de pescuit este reglementat pentru sustenabilitate.",
-        "Unitatea include o fabrică de gheață proprie pentru pescari.",
-        "A contribuit la creșterea veniturilor pescarilor locali cu 40%.",
-        "Eyl are ape foarte bogate datorită curentului Somaliei.",
-        "Procesarea locală adaugă 50% la valoarea peștelui brut."
-      ]
-    },
-    {
-      "id": "hargeisa-packaging-economic-v2",
-      "descriptionAdvanced": "Industria ambalajelor din Hargeisa a apărut ca un sector de suport crucial pentru restul industriilor manufacturiere din Somaliland. Fabricile locale produc cutii de carton, saci de polipropilenă și ambalaje de plastic pentru produsele alimentare, chimice și textile locale. Această dezvoltare a eliminat un blocaj major în lanțul de producție, permițând producătorilor locali să își ambaleze bunurile la costuri reduse și să le ofere un aspect profesional pentru piață. Investițiile în tehnologia de tipărire și design au crescut calitatea prezentării produselor somaleze, făcându-le competitive cu cele din import. Geografia K7 — servicii industriale și lanțuri de valoare.",
-      "factsAdvanced": [
-        "Produce ambalaje pentru industria lactatelor și a băuturilor.",
-        "Sunt folosite utilaje moderne de flexografie și tipar offset.",
-        "Reciclează o parte din deșeurile de hârtie din oraș.",
-        "Reduce dependența firmelor locale de furnizori externi.",
-        "Designul ambalajelor este realizat de tineri graficieni locali.",
-        "Sectorul a crescut spectaculos odată cu boom-ul manufacturier.",
-        "Hargeisa este hub-ul de ambalaje pentru întregul Somaliland.",
-        "Contribuie la identitatea vizuală a brandurilor somaleze."
-      ]
-    },
-    {
-      "id": "laas-geel-history-v2",
-      "descriptionAdvanced": "Laas Geel este cel mai important sit arheologic din Somalia și unul dintre cele mai spectaculoase ansambluri de artă rupestră din întreaga Africă. Situat pe un masiv de granit între Hargeisa și Berbera, situl cuprinde zece peșteri decorate cu picturi policrome incredibil de bine conservate, datând de acum 5.000 - 10.000 de ani. Picturile înfățișează vaci sacre cu coarne în formă de liră, oameni, câini și diverse animale sălbatice, oferind o perspectivă unică asupra societăților pastorale neolitice. Descoperit de o echipă franceză în 2002, Laas Geel a devenit un simbol al bogăției istorice a Somaliei și o destinație turistică de importanță mondială. Geografia K7 — preistorie și artă rupestră africană.",
-      "factsAdvanced": [
-        "Picturile sunt realizate în stilul 'Etiopia-Arabia'.",
-        "Pigmenții naturali s-au păstrat vibrant datorită climatului uscat.",
-        "Numele înseamnă 'Puțul Cămilelor' în limba somaleză.",
-        "Situl este format dintr-o serie de adăposturi sub stâncă.",
-        "Vacile sunt pictate cu podoabe ritualice pe gât.",
-        "Este considerat cel mai vechi sit arheologic din Cornul Africii.",
-        "Somaliland a depus eforturi pentru includerea în Patrimoniul UNESCO.",
-        "Accesul la sit oferă o panoramă spectaculoasă asupra deșertului."
-      ]
-    },
-    {
-      "id": "taleh-fort-history-v2",
-      "descriptionAdvanced": "Fortul de la Taleh, cunoscut și sub numele de Silsilat, este un monument istoric monumental situat în regiunea Sool, fiind inima mișcării de rezistență a dervișilor. Construit între 1910 și 1912, acest complex masiv de fortificații din piatră a fost conceput de Sayyid Mohammed Abdullah Hassan ca o capitală defensivă impenetrabilă împotriva britanicilor, italienilor și etiopienilor. Arhitectura fortului, cu ziduri groase de peste 2 metri și turnuri de observație înalte, reflectă geniul militar al dervișilor. Taleh a fost locul unde visul unui stat somalez independent a prins contur înainte de a fi zdrobit de aviația britanică în 1920, rămânând până astăzi un loc de pelerinaj istoric. Geografia K8 — arhitectură defensivă și istoria dervișilor.",
-      "factsAdvanced": [
-        "Complexul Silsilat putea găzdui peste 2.000 de luptători.",
-        "Zidurile exterioare aveau o înălțime de peste 10 metri.",
-        "A fost prima fortăreață din Africa bombardată sistematic din aer.",
-        "Include morminte ale liderilor importanți ai mișcării dervișe.",
-        "Materialele de construcție au fost aduse de la distanțe mari pe cămile.",
-        "Fortul avea sisteme interne de colectare a apei de ploaie.",
-        "A rezistat mai multor asedii terestre înainte de 1920.",
-        "Este considerat cea mai mare structură pre-colonială din Somalia."
-      ]
-    },
-    {
-      "id": "zeila-ancient-port-history-v2",
-      "descriptionAdvanced": "Vechiul port Zeila (Saylac) este o fereastră către epoca de aur a comerțului islamic în Cornul Africii. Încă din secolul al IX-lea, Zeila a fost poarta principală de intrare a Islamului în regiune și capitala succesivă a sultanatelor Ifat și Adal. Portul a legat platourile înalte ale Etiopiei cu piețele din Arabia, Persia și India, fiind renumit pentru comerțul cu fildeș, aur și sclavi, dar și pentru viața sa intelectuală bogată. Astăzi, ruinele caselor negustorilor și ale moscheilor antice, acoperite parțial de apele mării care înaintează, spun povestea unui oraș cosmopolit care a dominat timp de secole rutele maritime din Golful Aden. Geografia K7 — porturi medievale și schimburi culturale.",
-      "factsAdvanced": [
-        "A fost menționată de geograful arab Al-Idrisi în secolul al XII-lea.",
-        "Sultanatul Adal, cu capitala la Zeila, a purtat războaie lungi cu Etiopia.",
-        "Portul era celebru pentru apa sa potabilă adusă prin apeducte.",
-        "Marco Polo a descris Zeila ca pe un centru comercial înfloritor.",
-        "Astăzi, multe ruine sunt vizibile doar la reflux.",
-        "A fost un centru major de copiere a manuscriselor islamice.",
-        "Identitatea orașului este un amestec de cultură arabă și somaleză.",
-        "Este unul dintre cele mai importante situri de arheologie maritimă."
-      ]
-    },
-    {
-      "id": "fakr-ad-din-mosque-history-v2",
-      "descriptionAdvanced": "Moscheea Fakr ad-Din din Mogadishu este cea mai veche moschee din capitala somaleză, construită în anul 1269 de către primul sultan al Mogadishu, Fakr ad-Din. Situată în cartierul istoric Hamar Weyne, moscheea este un exemplu magistral de arhitectură medievală somaleză, construită din piatră de corali prelucrată fin și decorată cu inscripții caligrafice. Structura sa compactă și minaretul său scund sunt caracteristice stilului local de pe coasta Banadir din acea perioadă. Moscheea a supraviețuit timp de opt secole, rămânând un centru activ de rugăciune și un simbol al continuității istorice a orașului ca centru al civilizației islamice în Africa de Est. Geografia K8 — arhitectură religioasă și orașe-stat medievale.",
-      "factsAdvanced": [
-        "O inscripție de pe mihrab confirmă data construcției: 1269 d.Hr.",
-        "A fost construită în perioada de apogeu a Orașului-Stat Mogadishu.",
-        "Materialul principal este coralul extras din recifele locale.",
-        "Include elemente de design influențate de arhitectura persană.",
-        "Este piesa centrală a cartierului vechi Hamar Weyne.",
-        "Arhitectul și patronul ei, Fakr ad-Din, a fost un lider vizionar.",
-        "Interioarele sunt decorate cu plăci de marmură și gresie antică.",
-        "Este una dintre puținele clădiri intacte din perioada medievală."
-      ]
-    },
-    {
-      "id": "arbaa-rukun-mosque-history-v2",
-      "descriptionAdvanced": "Moscheea Arbaa Rukun (Cei Patru Stâlpi) este un alt reper istoric crucial din Mogadishu, datând din anul 1268 d.Hr. Localizată tot în districtul vechi Hamar Weyne, moscheea este renumită pentru minaretul său distinctiv, care este unul dintre cele mai vechi de pe întreaga coastă a Africii de Est. Numele său face referire la structura internă susținută de patru stâlpi masivi, un stil arhitectural care combină robustețea cu eleganța. Arbaa Rukun a fost de-a lungul secolelor un punct focal pentru comunitatea de negustori din Mogadishu, fiind martora transformării orașului dintr-un port comercial prosper într-o capitală modernă. Geografia K7 — centre istorice urbane și monumente de cult.",
-      "factsAdvanced": [
-        "A fost construită aproape simultan cu moscheea Fakr ad-Din.",
-        "Inscripția originală indică anul 667 al Hegirei (1268 d.Hr.).",
-        "Minaretul are o formă circulară rară pentru acea perioadă.",
-        "Este construită din blocuri de calcar coralifer alb.",
-        "A servit drept model pentru multe alte moschei de pe coastă.",
-        "Face parte din patrimoniul cultural protejat al Somaliei.",
-        "Zona înconjurătoare păstrează planul stradal medieval al orașului.",
-        "Este un exemplu de reziliență a structurilor somaleze în fața timpului."
-      ]
-    },
-    {
-      "id": "garesa-palace-history-v2",
-      "descriptionAdvanced": "Palatul Garesa din Mogadishu este o clădire istorică impunătoare care a servit drept reședință a guvernatorilor din Zanzibar și, mai târziu, ca sediu al administrației coloniale italiene. Construit la sfârșitul secolului al XIX-lea, palatul reflectă arhitectura de stil arabo-zanzibarez, cu arcade largi și curți interioare răcoroase. Ulterior, clădirea a fost transformată în Muzeul Național al Somaliei, adăpostind comori arheologice și etnografice neprețuite. Deși a suferit daune considerabile în timpul războiului civil, Palatul Garesa rămâne un simbol al straturilor multiple de istorie prin care a trecut Mogadishu — de la dominația sultanilor la era colonială și independență. Geografia K8 — arhitectură colonială și funcții administrative.",
-      "factsAdvanced": [
-        "A fost construit de Sultanul de Zanzibar, Barghash bin Said, în 1872.",
-        "Numele 'Garesa' provine din cuvântul portughez 'igreja' (biserică).",
-        "A fost sediul primului muzeu din Somalia, inaugurat în 1934.",
-        "Clădirea are trei etaje și o fațadă albă monumentală.",
-        "Găzduia manuscrise antice, arme tradiționale și monede sultanale.",
-        "Este situat în apropierea portului vechi, dominând faleza.",
-        "Italienii au adăugat elemente neoclasice în timpul reabilitării din 1920.",
-        "Există planuri internaționale pentru restaurarea completă a palatului."
-      ]
-    },
-    {
-      "id": "al-mnara-tower-history-v2",
-      "descriptionAdvanced": "Turnul Al-Mnara din Mogadishu este o structură enigmatică și iconică situată pe coasta Oceanului Indian, în apropierea cartierului vechi. Datând probabil din perioada medievală a Sultanatului Mogadishu, acest turn cilindric înalt a servit ca far și turn de observație pentru navele care intrau în portul aglomerat. Construit din piatră de corali și var, turnul este un exemplu de inginerie maritimă somaleză timpurie. Imaginea sa solitară pe malul oceanului a devenit un simbol al rezistenței și al moștenirii maritime a capitalei somaleze, fiind unul dintre cele mai fotografiate și iubite monumente istorice ale țării. Geografia K7 — faruri antice și navigație maritimă.",
-      "factsAdvanced": [
-        "Vechimea exactă este dezbătută, dar se crede că are peste 700 de ani.",
-        "A funcționat ca punct de ghidaj pentru navigatorii arabi și persani.",
-        "Turnul are o înălțime de aproximativ 15 metri.",
-        "A supraviețuit numeroaselor bombardamente navale de-a lungul secolelor.",
-        "Este situat în zona Abdiaziz, pe malul mării.",
-        "Arhitectura sa este similară cu turnurile din alte orașe portuare swahili.",
-        "Inscripțiile interioare menționează binecuvântări pentru marinari.",
-        "Reprezintă mândria istoriei navale a poporului somalez."
-      ]
-    },
-    {
-      "id": "hafun-opone-history-v2",
-      "descriptionAdvanced": "Hafun, identificat de istorici cu anticul emporium Opone menționat în 'Periplus al Mării Eritreene', este unul dintre cele mai vechi situri comerciale de pe coasta Somaliei. Situat pe peninsula Ras Hafun, Opone a fost un nod crucial în rețeaua comercială a lumii antice, legând Imperiul Roman, Egiptul ptolemeic și India. Arheologii au descoperit aici fragmente de ceramică romană, sticlă egipteană și bunuri din India, confirmând rolul său de centru de export pentru scorțișoară, tămâie și mirodenii. Istoria sitului Hafun-Opone demonstrează că Somalia a fost integrată în economia globală încă de acum 2.000 de ani, fiind o destinație cheie pentru comercianții de pe Drumul Mătăsii maritime. Geografia K8 — comerțul în antichitate și rețele globale.",
-      "factsAdvanced": [
-        "Opone este menționat în documente grecești din secolul I d.Hr.",
-        "A fost cel mai important port pentru exportul de scorțișoară în antichitate.",
-        "Săpăturile au scos la iveală monede romane și bijuterii egiptene.",
-        "Este situat la cel mai estic punct al Africii (Capul Guardafui).",
-        "Peninsula este legată de continent printr-un istm de nisip (tombolo).",
-        "Situl a fost studiat de arheologul britanic Neville Chittick.",
-        "Opone era un punct de reaprovizionare vital pentru navele spre India.",
-        "Moștenirea sa continuă prin industria modernă a sării din Hafun."
-      ]
-    },
-    {
-      "id": "amud-ruins-history-v2",
-      "descriptionAdvanced": "Ruinele de la Amud reprezintă un sit arheologic major situat în apropierea orașului Borama, în regiunea Awdal. Acestea fac parte dintr-o rețea de orașe medievale care au aparținut Sultanatului Adal în perioada sa de expansiune (secolele XV-XVI). Situl cuprinde resturile unor case de piatră cu mai multe etaje, o moschee centrală impresionantă și sisteme avansate de gestionare a apei. Amud a fost un centru urban prosper, unde agricultura se îmbina cu comerțul transcontinental, reflectând o civilizație somaleză sedentară și sofisticată. Astăzi, prezența Universității Amoud în apropiere subliniază continuitatea acestui loc ca centru al cunoașterii și culturii. Geografia K7 — orașe medievale și rețele de sultanat.",
-      "factsAdvanced": [
-        "Orașul a atins apogeul în timpul domniei lui Imam Ahmad Al-Ghazi.",
-        "Moscheea din Amud este una dintre cele mai mari ruine religioase din zonă.",
-        "Casele aveau curți interioare și sisteme de drenaj din ceramică.",
-        "Situl se află la o altitudine ridicată, oferind o climă favorabilă.",
-        "A fost abandonat probabil în secolul al XVI-lea după căderea Adal.",
-        "Ruinele se întind pe o suprafață de câteva hectare.",
-        "Este un sit cheie pentru studiul istoriei statului Somaliland.",
-        "Arheologii au găsit aici monede din perioada dinastiei Ming din China."
-      ]
-    },
-    {
-      "id": "abasa-ruins-history-v2",
-      "descriptionAdvanced": "Abasa este un alt sit istoric fascinant situat în regiunea Awdal, făcând parte din aceeași constelație de orașe medievale ca și Amud. Ruinele de la Abasa sunt remarcabile pentru conservarea structurilor defensive și a locuințelor care demonstrează o organizare urbană complexă sub egida Sultanatului Adal. Orașul a fost strategic poziționat pe rutele comerciale care legau Zeila de interiorul Etiopiei, servind drept centru de colectare pentru bunuri prețioase. Vizitarea ruinelor de la Abasa oferă o perspectivă rară asupra vieții cotidiene a somalezilor medievali, de la tehnicile lor de construcție în piatră până la modul în care interacționau cu restul lumii prin comerț. Geografia K8 — peisaje istorice și arheologie urbană.",
-      "factsAdvanced": [
-        "Situl include peste 200 de structuri de piatră identificabile.",
-        "Abasa este situată pe un platou înalt cu vedere spre câmpiile Guban.",
-        "Arhitectura este caracterizată prin utilizarea mortarului de var și a pietrei locale.",
-        "A servit drept avanpost militar și centru comercial.",
-        "Moscheea principală din Abasa are un design arhitectural unic.",
-        "Situl a fost cartografiat pentru prima dată de exploratorii britanici.",
-        "Demonstrează o densitate mare a populației în Somalia medievală.",
-        "Este un obiectiv important pentru turismul arheologic în regiune."
-      ]
-    },
-    {
-      "id": "gogoshis-qabuur-history-v2",
-      "descriptionAdvanced": "Gogoshis Qabuur este un sit arheologic unic situat în regiunea Awdal, renumit pentru ansamblul său de morminte megalitice și structuri funerare preistorice. Numele, care s-ar putea traduce prin 'Mormintele Întinse', se referă la aranjamentele de pietre masive care marchează locurile de veșnicie ale unor populații antice necunoscute. Acest sit oferă dovezi ale unor practici funerare complexe care preced perioada islamică, sugerând o continuitate lungă de locuire în nordul Somaliei. Gogoshis Qabuur este esențial pentru înțelegerea migrațiilor timpurii și a credințelor spirituale ale popoarelor din Cornul Africii înainte de înregistrarea istoriei scrise. Geografia K7 — megaliți și preistoria Cornului Africii.",
-      "factsAdvanced": [
-        "Situl cuprinde zeci de cercuri de piatră și tumuli funerari.",
-        "Pietrele masive sunt așezate în configurații astronomice precise.",
-        "Este unul dintre cele mai mari situri megalitice din Somalia.",
-        "Datarea estimată a mormintelor este de peste 2.500 de ani.",
-        "Demonstrează o organizare socială avansată a populațiilor nomade antice.",
-        "Situl este situat într-o zonă de savană aridă, protejat de izolare.",
-        "Legendele locale atribuie construcția unor giganți mitici.",
-        "Cercetările recente folosesc imagini satelitare pentru a cartografia situl."
+        "Depresiune topografică centrală în podișul somalez.",
+        "Punct de colectare important pentru scurgerile de suprafață.",
+        "Dezvoltarea unor microhabitate asemănătoare oazelor în bazin.",
+        "Structura solului formată din depozite aluviale fine și productive.",
+        "Nod istoric semnificativ pentru rutele nomade.",
+        "Particularitate climatică și ecologică în interiorul țării.",
+        "Structurat prin așezări mici, orientate spre apă."
       ]
     }
   ]

@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "ecuador",
+  "files": [
+    "lib/visualLab/data/poiExtraEcuadorEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tagua-verarbeitung-economic-v2",
+      "descriptionAdvanced": "A tagua-dió, amelyet gyakran 'növényi elefántcsontként' emlegetnek, különleges helyet foglal el az ecuadori kézművesiparban, különösen Manabí tartományban. A tagua-dió kemény állaga miatt kiválóan megmunkálható, így környezetbarát alternatívát kínál az állati eredetű elefántcsont helyettesítésére gombok, dísztárgyak és ékszerek készítése során. A feldolgozás többnyire hagyományos kézműves technikákkal történik, amely generációról generációra öröklődő tudást igényel. Ez az iparág nemcsak egyedi termékeket biztosít a globális divat- és ajándékpiac számára, hanem fontos megélhetési forrást is jelent a vidéki kézműves közösségek számára. A tagua-feldolgozás példája kiválóan szemlélteti a természetes erőforrások fenntartható hasznosítását, amely fontos téma a K6-os szintű földrajzi tantervben.",
+      "factsAdvanced": [
+        "A tagua-dió egy különleges pálmafaj termése.",
+        "A növényi alapú anyag kiváló alternatívát jelent az elefántcsontnak.",
+        "Manabí tartomány a tagua-kézművesség központja.",
+        "A termékek világszerte ismertek a fenntartható divat körökben.",
+        "A feldolgozás nagyrészt helyi, kisméretű műhelyekben történik.",
+        "Az iparág jelentősen hozzájárul a helyi kézműves hagyományok megőrzéséhez.",
+        "A tagua-dió begyűjtése nem okoz kárt a pálmafákban."
+      ]
+    },
+    {
+      "id": "pesquera-polar-atun-economic-v2",
+      "descriptionAdvanced": "A Pesquera Polar egy vezető vállalat a mantai halászati központban, amely szakterülete a tonhal feldolgozása és konzerválása nemzetközi exportra. A cég működése szerves része Manta város gazdasági életének, és jelentősen hozzájárul Ecuador tengeri exportteljesítményéhez. A modern technológiával felszerelt üzemekben a halászatot követően gyorsan és higiénikusan dolgozzák fel a zsákmányt, biztosítva a magas minőségi követelményeknek való megfelelést. A fenntartható halászati módszerek alkalmazása kiemelt fontosságú a nemzetközi piacokon való versenyképesség megőrzése érdekében. Az élelmiszer-feldolgozó ipar működése és a tengeri erőforrások fenntartható hasznosítása fontos téma a K7-es szintű földrajzi tantervben, ahol a diákok a globális ellátási láncok működését vizsgálják.",
+      "factsAdvanced": [
+        "Manta városa a 'tonhal világtővárosaként' ismert.",
+        "A Pesquera Polar termékeit főként az Európai Unióba és az USA-ba szállítják.",
+        "Szigorú nemzetközi minőségirányítási rendszereket követnek.",
+        "Modern, ökológiailag felelős halászati technikákat alkalmaznak.",
+        "Jelentős szerepet játszik a helyi munkaerőpiacon.",
+        "A vállalat hozzájárul Ecuador tengeri exportjának stabilitásához.",
+        "Folyamatos innováció jellemzi a konzerválási technológiáikat."
+      ]
+    },
+    {
+      "id": "salinas-salzgewinnung-economic-v2",
+      "descriptionAdvanced": "A Salinas partvidékén található sólepárlók Ecuador egyik legrégebbi és legkülönlegesebb ipari létesítményei közé tartoznak, ahol a só kinyerése a napenergia felhasználásával, párologtatással történik. Ez a hagyományos eljárás nemcsak kiváló minőségű sót eredményez, hanem a lepárlók egyben fontos vizes élőhelyeket is képeznek, amelyek számos madárfaj számára biztosítanak táplálékot és fészkelőhelyet. A salinasi sótermelés a régió történelmi hagyományainak szerves része, amely a mai napig meghatározza a helyi gazdasági struktúrát. A sólepárlók működése és az ökológiai egyensúly fenntartása közötti kapcsolat kiváló példa a K6-os szintű környezetismeret vagy földrajz órákon a fenntartható gazdálkodás bemutatására.",
+      "factsAdvanced": [
+        "Ez a tevékenység a régió egyik történelmi iparága.",
+        "A só kiváló minőségéről és tisztaságáról ismert.",
+        "A sót kizárólag természetes napenergiával történő párologtatással nyerik.",
+        "A sólepárlók vidéke ökológiailag védett madárfajok élőhelye.",
+        "A salinasi sótermelés fontos turisztikai és ipari vonzerő.",
+        "Hagyományos eljárásokkal biztosítják a folyamatos termelést.",
+        "A tevékenység minimális környezeti hatással jár."
+      ]
+    },
+    {
+      "id": "la-favorita-logistikzentrum-economic-v2",
+      "descriptionAdvanced": "A La Favorita logisztikai központja az ecuadori kiskereskedelem központi idegrendszere, amely az ország legnagyobb szupermarketláncának, a Supermaxi-nak és Megamaxi-nak az ellátását koordinálja. A Quito közelében található elosztóközpont a modern raktározási és hűtési technológiák segítségével biztosítja a friss élelmiszerek és fogyasztási cikkek zökkenőmentes eljutását a lakossághoz. A létesítmény hatékony működése elengedhetetlen az ország belső kereskedelmének stabilitásához, miközben a logisztikai folyamatok optimalizálása révén minimalizálják az ökológiai lábnyomot is. A központi raktározás, az ellátási láncok menedzsmentje és a kereskedelmi logisztika jelentősége a mai gazdaságban a K8-as szintű gazdasági ismeretek órák egyik meghatározó témája.",
+      "factsAdvanced": [
+        "A Supermaxi és Megamaxi áruházak központi csomópontja.",
+        "A legmodernebb raktározási és hűtéstechnológiai rendszereket alkalmazzák.",
+        "Stratégiailag a főváros, Quito közelében helyezkedik el.",
+        "Az ország legnagyobb kiskereskedelmi elosztóhálózata.",
+        "Kiemelt figyelmet fordítanak a logisztikai hatékonyságra.",
+        "A központ révén az ország egész területe lefedhető termékekkel.",
+        "Jelentős szerepet játszik a munkahelyteremtésben a régióban."
+      ]
+    },
+    {
+      "id": "puerto-lopez-fischereihafen-economic-v2",
+      "descriptionAdvanced": "Puerto López egy kicsi, de rendkívül élénk halászkikötő a csendes-óceáni parton, amely kettős szerepet tölt be: a halászati tevékenység mellett a Machalilla Nemzeti Parkba vezető turisztikai túrák, különösen a bálnafigyelés egyik legfőbb kiindulópontja. A kikötőben a halászok a frissen fogott tengeri ételeket közvetlenül a tengerparton értékesítik, ami nemcsak gazdasági jelentőséggel bír, hanem a helyi kultúra és életmód megkerülhetetlen eleme is. A halászat és a fenntartható turizmus közötti egyensúly fenntartása kulcsfontosságú a régió fejlődése szempontjából. A diákok a K6-os szintű földrajz órákon a turizmus gazdasági hatásait és a tengeri erőforrások helyi hasznosítását vizsgálhatják ezen a példán keresztül.",
+      "factsAdvanced": [
+        "Puerto López a Machalilla Nemzeti Park kapuja.",
+        "Fontos szerepet tölt be a helyi kézműves halászatban.",
+        "A bálnafigyelő túrák egyik fő kiindulópontja.",
+        "A helyi halászok közvetlenül a strandon értékesítik a fogást.",
+        "Élénk turisztikai és gazdasági központ a csendes-óceáni partvidéken.",
+        "A fenntartható halászat és turizmus közötti egyensúlyra törekszenek.",
+        "A kikötő élete szerves része a helyi közösségnek."
+      ]
+    }
+  ]
+}

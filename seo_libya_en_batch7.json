@@ -12,243 +12,213 @@
   ],
   "items": [
     {
-      "id": "benina-airport-terminal-landmarks-v2",
-      "descriptionAdvanced": "The Benina International Airport Terminal serves as the absolute critical aviation gateway for Benghazi and the entire eastern Cyrenaica region. Despite suffering massive structural damage during the 2014 civil conflict, rapid reconstruction efforts have restored its operational capacity, making it a symbol of regional resilience. The terminal handles both domestic flights connecting to Tripoli and vital international routes to Egypt and Tunisia. The constant hum of aircraft here is a daily indicator of the east's economic pulse. Geography K8 — regional aviation infrastructure.",
+      "id": "ly-tadrart-acacus-history-v2",
+      "descriptionAdvanced": "The Tadrart Acacus is a stunning desert mountain range in southwestern Libya, world-famous for its prehistoric rock art. A UNESCO World Heritage site, the area contains thousands of paintings and engravings dating back as far as 12,000 BC. These artworks depict the dramatic environmental changes of the Sahara, showing a time when the region was lush with giraffes, elephants, and crocodiles. The landscape itself is a surreal collection of jagged black mountains, massive natural stone arches, and towering orange sand dunes. The Tadrart Acacus represents one of the most important records of early human history and environmental transformation on the planet. Anthropology K8 — prehistoric rock art and Saharan climate change.",
       "factsAdvanced": [
-        "The primary international aviation hub for eastern Libya.",
-        "Located in the town of Benina, just east of Benghazi.",
-        "Suffered extensive damage during intense urban combat in 2014.",
-        "Recently reconstructed to handle both domestic and international flights.",
-        "Shares runway infrastructure with a major national air force base.",
-        "Crucial for connecting Cyrenaica to neighboring North African countries."
+        "A UNESCO World Heritage site since 1985, located near the border with Algeria.",
+        "Contains rock art dating from 12,000 BC to 100 AD.",
+        "The art depicts a 'Green Sahara' filled with tropical animals and cattle.",
+        "Features dramatic natural stone arches, including the famous Afzejare arch.",
+        "A major cultural heartland for the Tuareg people of the Fezzan.",
+        "One of the best-preserved and most extensive rock art sites in the world.",
+        "The paintings use natural pigments like ochre and charcoal.",
+        "A critical area for understanding the origins of domestication in Africa."
       ]
     },
     {
-      "id": "tibesti-hotel-benghazi-landmarks-v2",
-      "descriptionAdvanced": "The Tibesti Hotel is the undisputed architectural icon of modern Benghazi, an imposing skyscraper dominating the city's skyline. Overlooking the central lake and the Mediterranean Sea, it has historically been the primary accommodation for visiting dignitaries, international journalists, and business executives. During periods of national crisis, the hotel frequently transforms into a highly secure, ad-hoc media and political center. Its massive, unmissable profile makes it a key navigational landmark within the city. Sociology K7 — urban landmarks and political hubs.",
+      "id": "ly-germa-history-v2",
+      "descriptionAdvanced": "Germa, known in antiquity as Garama, was the legendary capital of the Garamantian Kingdom, a powerful Saharan civilization that thrived between 500 BC and 500 AD. Located in the fertile Wadi al-Ajal, the site features the ruins of mud-brick palaces, temples, and a sophisticated underground irrigation system known as 'foggara.' The Garamantes were famous for their use of chariots and their ability to control trans-Saharan trade routes. Germa represents a unique and highly advanced indigenous African civilization that successfully challenged the Roman Empire and mastered the harsh Saharan environment. It is a cornerstone of Libya's pre-Islamic heritage. History K8 — the Garamantes and Saharan kingdoms.",
       "factsAdvanced": [
-        "The tallest and most famous hotel building in Benghazi.",
-        "Offers commanding, panoramic views of the city's central lake.",
-        "Serves as the premier accommodation for international journalists and diplomats.",
-        "Frequently utilized as an ad-hoc media center during national crises.",
-        "Features a prominent, multi-story modern architectural design.",
-        "Located in the heart of Benghazi's central commercial district."
+        "The capital of the Garamantian Empire, which dominated the Sahara for 1,000 years.",
+        "Located in the Wadi al-Ajal, approximately 150 kilometers from Sabha.",
+        "Features the ruins of a grand mud-brick palace and several stone temples.",
+        "Famous for the 'foggara'—a complex network of underground water tunnels.",
+        "The Garamantes were known for their military power and chariot-driven armies.",
+        "Site includes a well-curated museum showcasing Garamantian artifacts.",
+        "Served as the primary hub for trade between the Romans and Sub-Saharan Africa.",
+        "The surrounding area contains thousands of ancient Garamantian tombs."
       ]
     },
     {
-      "id": "benghazi-lighthouse-landmarks-v2",
-      "descriptionAdvanced": "The Benghazi Lighthouse is a striking, elegant colonial-era structure that has guided Mediterranean shipping into the city's harbor for nearly a century. Built by Italian authorities in the 1920s, its crisp white exterior and classic cylindrical design stand out sharply against the deep blue sea. Miraculously surviving decades of severe urban warfare that destroyed many surrounding buildings, it remains a beloved symbol of continuity for the city's residents. It continues to function as a vital navigational aid for maritime traffic. History K6 — colonial maritime infrastructure.",
+      "id": "ly-slonta-history-v2",
+      "descriptionAdvanced": "Slonta is a mysterious and unique archaeological site located in the heart of the Jabal al-Akhdar in northeastern Libya. It is primarily known for its 'Grotto of Slonta,' a rock-cut sanctuary decorated with primitive and enigmatic carvings of human figures, animals, and mythological scenes. Unlike the classical Greco-Roman sites nearby, Slonta is believed to represent an indigenous Libyan (Berber) religious site, possibly reflecting local cults that existed alongside or predated the Greek arrival. The carvings have a distinct, slightly surreal style that has puzzled archaeologists for decades. Slonta provides a rare and valuable glimpse into the indigenous spiritual world of ancient North Africa. Anthropology K8 — indigenous Libyan religions and rock-cut sanctuaries.",
       "factsAdvanced": [
-        "Constructed by Italian colonial authorities in the 1920s.",
-        "A highly recognizable, classic white cylindrical lighthouse.",
-        "Guides commercial and naval shipping into the Port of Benghazi.",
-        "Miraculously survived extensive urban combat relatively unscathed.",
-        "Stands as a beloved symbol of historical continuity for local residents.",
-        "Located prominently on the Mediterranean coastal promenade."
+        "A unique, non-classical archaeological site in the Green Mountain region.",
+        "Features a prehistoric or early Berber grotto with rock-cut human figures.",
+        "The carvings date back to the Hellenistic or Roman periods but show a distinct local style.",
+        "Believed to have been a major sacrificial sanctuary for indigenous Libyan tribes.",
+        "Located on a high plateau surrounded by dense Mediterranean forests.",
+        "A primary example of the 'Berber' cultural influence in ancient Cyrenaica.",
+        "The site includes several ancient tombs and ritualistic basins.",
+        "Historically significant as one of the few surviving indigenous religious sites."
       ]
     },
     {
-      "id": "al-sahaba-mosque-derna-landmarks-v2",
-      "descriptionAdvanced": "The Al-Sahaba Mosque is the spiritual and architectural heart of Derna, renowned for its massive, imposing domes and towering twin minarets. It is deeply revered because it houses the tombs of over seventy companions (Sahaba) of the Prophet Muhammad, who purportedly died during the early Islamic conquest of North Africa. The mosque suffered catastrophic, heartbreaking damage during the devastating 2023 floods that swept through the city. Despite the tragedy, it remains the most profound symbol of Derna's enduring religious heritage. Sociology K8 — religious landmarks and natural disasters.",
+      "id": "ly-villa-silin-history-v2",
+      "descriptionAdvanced": "The Villa Silin is one of the most exquisite and well-preserved examples of an aristocratic Roman seaside villa in North Africa. Located on the coast near Al-Khoms, the villa was built in the 2nd century AD for a wealthy Roman citizen, possibly a high-ranking official from Leptis Magna. It is world-famous for its incredibly detailed and colorful mosaic floors, which depict scenes of daily life, gladiatorial combat, and mythological tales. The villa also features advanced Roman architectural elements, including a private bathhouse and elegant colonnaded courtyards. Villa Silin represents the peak of Roman luxury and the sophisticated lifestyle enjoyed by the elite on the Libyan shore. History K7 — Roman villas and ancient mosaics.",
       "factsAdvanced": [
-        "The largest and most spiritually significant mosque in Derna.",
-        "Houses the reputed tombs of over seventy of the Prophet Muhammad's companions.",
-        "Features massive central domes and highly visible twin minarets.",
-        "Suffered catastrophic structural damage during the September 2023 floods.",
-        "Serves as the primary center for local Islamic education and gathering.",
-        "A profound symbol of historical resilience for the city's population."
+        "A perfectly preserved 2nd-century Roman maritime villa near Al-Khoms.",
+        "Famed for its world-class mosaic floors depicting chariot races and myths.",
+        "Features a private, well-preserved Roman bath complex (thermae).",
+        "Situated dramatically on a low cliff overlooking the Mediterranean Sea.",
+        "The villa was discovered by chance in 1974 after being buried by sand for centuries.",
+        "Provides unique insights into the domestic life of the Roman elite in Africa.",
+        "Contains high-quality frescoes and marble wall carvings.",
+        "A major attraction for visitors exploring the archaeology of Tripolitania."
       ]
     },
     {
-      "id": "misrata-central-mosque-landmarks-v2",
-      "descriptionAdvanced": "The Misrata Central Mosque serves as the massive, unifying spiritual center for Libya's booming commercial capital. Located in the bustling downtown area, the mosque's expansive prayer halls can accommodate thousands of worshippers, particularly during Friday prayers and Eid celebrations. Its architecture blends traditional North African Islamic motifs with distinctly modern, robust construction, reflecting the city's industrial wealth. The surrounding plaza is a major focal point for community gatherings and civic life. Sociology K7 — urban religious centers.",
+      "id": "ly-qasr-libya-history-v2",
+      "descriptionAdvanced": "Qasr Libya, known in antiquity as Olbia, is a significant archaeological site located in the western Jabal al-Akhdar. It is world-famous for its stunning 6th-century Byzantine mosaics, which were discovered in the ruins of two grand basilicas. These mosaics are among the most important in the Mediterranean, featuring a vast array of allegorical figures, animals, and Christian symbols, including a rare depiction of the Lighthouse of Alexandria. The site reflects the wealth and artistic sophistication of the Byzantine Empire in North Africa. Today, the mosaics are housed in an on-site museum, making Qasr Libya a premier destination for lovers of ancient art and early Christian history. History K8 — Byzantine mosaics and early Christian basilicas.",
       "factsAdvanced": [
-        "The primary, largest Islamic worship center in the city of Misrata.",
-        "Designed to accommodate thousands of worshippers simultaneously.",
-        "Features a blend of traditional Islamic and modern, robust architecture.",
-        "Located centrally within Misrata's bustling downtown commercial district.",
-        "The surrounding plaza serves as a major hub for civic engagement.",
-        "Reflects the immense civic wealth generated by the city's port and industries."
+        "Home to some of the finest 6th-century Byzantine mosaics in the world.",
+        "Located in the Green Mountain region, near the town of Al-Baida.",
+        "The site features two major basilicas, known as the East and West Churches.",
+        "Famous for the 'Olbia Mosaic,' featuring 50 individual panels of art.",
+        "Includes the only known ancient depiction of the Pharos Lighthouse of Alexandria.",
+        "Redeveloped by the Empress Theodora, who had ties to the region.",
+        "Originally founded as a Greek colony and later renamed Theodorias.",
+        "A major center for the study of Byzantine iconography and art history."
       ]
     },
     {
-      "id": "ouagadougou-conference-center-landmarks-v2",
-      "descriptionAdvanced": "The Ouagadougou Conference Center in Sirte is a colossal, sprawling complex originally built to host massive Pan-African and international summits. Designed to project Libyan diplomatic power, the complex features massive auditoriums, luxury accommodations, and highly fortified security perimeters. Following the 2011 revolution, it became infamous as a heavily fortified militant stronghold, suffering devastating damage during intense urban combat. Today, its pockmarked, massive concrete walls stand as a stark monument to Libya's turbulent modern political history. History K8 — modern political architecture and warfare.",
+      "id": "ly-tripoli-medina-history-v2",
+      "descriptionAdvanced": "The Medina of Tripoli is the historic walled heart of the Libyan capital, a labyrinthine district that reflects over 2,000 years of Mediterranean history. Enclosed within its ancient walls are a dense network of narrow alleys, bustling souks, historic mosques, and elegant Ottoman-era palaces. The Medina is a vibrant living museum, where traditional crafts like copper-smithing and weaving are still practiced. Highlights include the Arch of Marcus Aurelius, the Gurgi Mosque, and the grand British and French consulates from the colonial period. The Tripoli Medina represents the crossroads of Phoenician, Roman, Arab, and Ottoman cultures, serving as the soul of the modern city. History K8 — historic Medinas and North African urbanism.",
       "factsAdvanced": [
-        "A massive, sprawling conference and diplomatic complex in Sirte.",
-        "Originally constructed to host massive Pan-African political summits.",
-        "Features colossal auditoriums and extensive luxury facilities.",
-        "Became a heavily fortified militant stronghold during recent civil conflicts.",
-        "Suffered immense structural damage from heavy artillery and airstrikes.",
-        "Stands today as a monumental, stark ruin of modern political ambition."
+        "The absolute oldest part of Tripoli, with roots dating to the Phoenician era.",
+        "Enclosed by a massive circuit of Ottoman and Italian-era defensive walls.",
+        "Home to the grand Arch of Marcus Aurelius, built in 163 AD.",
+        "Features numerous historic souks (markets) specializing in gold, silk, and spices.",
+        "Contains over 50 historic mosques, including the iconic Gurgi Mosque.",
+        "A primary center for traditional Libyan architecture and urban planning.",
+        "Serves as a living cultural hub where ancient crafts are still practiced.",
+        "Strategically located adjacent to the Red Castle and Martyrs' Square."
       ]
     },
     {
-      "id": "zawiya-grand-mosque-landmarks-v2",
-      "descriptionAdvanced": "The Zawiya Grand Mosque dominates the central square of this vital western coastal city, serving as both a religious sanctuary and a prominent civic landmark. With its towering minaret visible from miles away, it acts as a primary navigational point for travelers moving along the coastal highway. The mosque gained profound historical significance during the 2011 revolution, as its surrounding square became a focal point for intense local resistance. Its modern, expansive design accommodates the city's rapidly growing population. Sociology K7 — civic landmarks and modern history.",
+      "id": "ly-gharyan-troglodyte-history-v2",
+      "descriptionAdvanced": "The Troglodyte houses of Gharyan are among the most remarkable examples of traditional climate-responsive architecture in the world. Carved deep into the limestone plateau of the Nafusa Mountains, these subterranean dwellings were designed to stay cool in the summer and warm in the winter. A typical house features a central open-air courtyard dug vertically into the ground, with rooms excavated horizontally from its base. Some of these historic houses are centuries old and were once the primary form of settlement for the people of Gharyan. Today, they are a major cultural attraction, representing the ingenuity and resilience of the Berber (Amazigh) people in adapting to their environment. Geography K7 — subterranean architecture and desert adaptation.",
       "factsAdvanced": [
-        "The largest and most prominent religious structure in Zawiya.",
-        "Features a towering minaret visible from the main coastal highway.",
-        "Located directly on the city's bustling central square.",
-        "Served as a major focal point for local resistance during the 2011 revolution.",
-        "Designed with modern, expansive architecture to serve a large population.",
-        "A critical hub for community organizing and civic life in the west."
+        "Unique underground houses carved into the rock in the Nafusa Mountains.",
+        "Designed to naturally regulate temperature in extreme climates.",
+        "Features a central deep pit (courtyard) that provides light and air.",
+        "Some historic troglodyte houses are over 300 years old.",
+        "A major cultural symbol of the city of Gharyan and the Berber people.",
+        "Open to the public as museums showcasing traditional Libyan life.",
+        "Historically provided protection from both the elements and invaders.",
+        "Reflects a highly sustainable and environmentally friendly form of urbanism."
       ]
     },
     {
-      "id": "al-khums-lighthouse-landmarks-v2",
-      "descriptionAdvanced": "The Al Khums Lighthouse is a vital, functional piece of maritime infrastructure located on the rugged coastline near the ancient ruins of Leptis Magna. Built to guide heavy shipping traffic into the specialized Al Khums port, the lighthouse features a stark, high-contrast paint scheme to remain visible against the often hazy Mediterranean horizon. It stands as a modern counterpoint to the ancient Roman columns located just down the beach. The structure is essential for the safety of the massive RoRo vehicle carriers frequenting the area. Geography K7 — modern maritime safety infrastructure.",
+      "id": "ly-zawiya-jaghbub-history-v2",
+      "descriptionAdvanced": "The Zawiya of Jaghbub is one of the most important religious and historical sites in the Sahara, serving as the former spiritual and administrative center of the Senussi Order. Founded by Muhammad ibn Ali al-Senussi in the mid-19th century, the complex was a world-class center of Islamic learning, featuring a university and an extensive library that attracted scholars from across the Muslim world. The site is anchored by the grand mosque and the beautiful tomb of the Grand Senussi. Jaghbub's isolation in the deep desert was intentional, allowing the order to flourish away from colonial interference. It remains a sacred site of pilgrimage and a testament to Libya's religious heritage. History K8 — the Senussi Order and Saharan education.",
       "factsAdvanced": [
-        "Located on the Mediterranean coast near the city of Al Khums.",
-        "Essential for guiding massive commercial vessels into the local port.",
-        "Positioned in close proximity to the ancient Roman ruins of Leptis Magna.",
-        "Features a high-contrast exterior for maximum daytime visibility.",
-        "Ensures the safety of the heavy 'Roll-on/Roll-off' vehicle carrier traffic.",
-        "A purely functional, modern industrial maritime landmark."
+        "The primary spiritual headquarters of the Senussi movement from 1856.",
+        "Home to the tomb and shrine of Muhammad ibn Ali al-Senussi.",
+        "Once featured a prestigious university with thousands of students.",
+        "Located in the remote Jaghbub oasis near the border with Egypt.",
+        "A major center for the preservation of Islamic manuscripts and theology.",
+        "Played a critical role in the religious resistance against Italian rule.",
+        "Characterized by elegant, white-washed Saharan religious architecture.",
+        "A primary destination for religious pilgrimage in the Libyan Sahara."
       ]
     },
     {
-      "id": "brega-oil-terminal-landmarks-v2",
-      "descriptionAdvanced": "The Brega Oil Terminal is not just an economic asset; its massive, sprawling infrastructure makes it one of the most defining visual landmarks of the Gulf of Sidra. The complex is characterized by a dizzying array of colossal storage tanks, intricate pipe networks, and towering flare stacks that burn off excess gas, illuminating the night sky. For travelers moving along the coastal highway, the sheer scale of the Brega complex serves as a profound physical manifestation of Libya's immense hydrocarbon wealth. Geography K8 — industrial landscapes and hydrocarbons.",
+      "id": "ly-fort-capuzzo-history-v2",
+      "descriptionAdvanced": "Fort Capuzzo was a critical Italian military fortification located on the border between Libya and Egypt during the colonial era and World War II. It was a primary component of the 'Frontier Wire,' a massive barbed-wire fence built by the Italians to prevent the movement of resistance fighters. The fort changed hands several times during the North African Campaign, becoming a symbol of the shifting fortunes of the Allied and Axis forces. Its capture by the British in 1940 was one of the first major actions of the desert war. Today, the ruins of the fort stand as a stark reminder of the intense military history and the colonial struggles that shaped the eastern Libyan border. History K8 — World War II and the North African Campaign.",
       "factsAdvanced": [
-        "A massive, visually dominant industrial complex on the Gulf of Sidra.",
-        "Features a sprawling network of colossal crude oil and LNG storage tanks.",
-        "Towering flare stacks continuously burn, illuminating the coastal night sky.",
-        "Serves as a profound physical monument to Libya's national oil wealth.",
-        "The complex's sheer scale makes it a major navigational landmark.",
-        "Heavily fortified and guarded due to its extreme economic importance."
+        "A strategic military fort on the Libya-Egypt border near Musaid.",
+        "A central part of the Italian 'Frontier Wire' built in the 1930s.",
+        "Captured and recaptured multiple times during the World War II desert war.",
+        "Symbolized the frontline between the British and Italian-German forces.",
+        "Located on the main coastal route connecting Tobruk with Alexandria.",
+        "Originally built to suppress the Senussi resistance in Cyrenaica.",
+        "The site features ruins of bunkers, barracks, and defensive walls.",
+        "A major historical landmark for the study of 20th-century desert warfare."
       ]
     },
     {
-      "id": "ras-lanuf-refinery-landmarks-v2",
-      "descriptionAdvanced": "The Ras Lanuf Refinery is a monumental feat of industrial engineering that dominates the central Libyan coastline. As the largest petrochemical complex in the country, its skyline is defined by massive distillation columns, cooling towers, and a vast labyrinth of pipelines. The facility is so large that it functions practically as its own enclosed city, complete with internal transport networks and dedicated power generation. It stands as a stark, metallic contrast to the barren, flat desert plains surrounding it. Economics K8 — mega-scale petrochemical engineering.",
+      "id": "ly-tobruk-war-cemetery-history-v2",
+      "descriptionAdvanced": "The Tobruk War Cemetery is a somber and beautifully maintained memorial to the thousands of soldiers who lost their lives during the intense World War II battles for the city. It primarily contains the graves of Commonwealth soldiers, including Australians, British, and New Zealanders, who participated in the famous 1941 Siege of Tobruk. The cemetery is known for its simple white headstones and its peaceful atmosphere, offering a place of reflection on the cost of the desert war. It is one of several international cemeteries in the region, including German and French sites, which together make Tobruk a major center for war commemoration. History K8 — the Siege of Tobruk and WWII memorials.",
       "factsAdvanced": [
-        "The largest and most visually imposing oil refinery complex in Libya.",
-        "Skyline is dominated by towering distillation columns and cooling towers.",
-        "Functions almost as an independent, enclosed industrial city.",
-        "Produces a massive visual contrast against the flat, barren desert coast.",
-        "Features dedicated internal power generation and transport networks.",
-        "A highly strategic landmark constantly monitored for national security."
+        "The primary burial ground for Commonwealth soldiers killed in the Siege of Tobruk.",
+        "Contains over 2,200 identified graves from Australia, Britain, and New Zealand.",
+        "Beautifully maintained by the Commonwealth War Graves Commission.",
+        "Located on the outskirts of Tobruk, overlooking the historic battlefields.",
+        "Features a grand memorial chapel and a registry of the fallen.",
+        "A major site for international veterans and descendants visiting Libya.",
+        "Commemorates the 'Rats of Tobruk' who defended the city for 242 days.",
+        "One of the most significant and well-preserved WWII sites in North Africa."
       ]
     },
     {
-      "id": "fortezza-margherita-sabha-landmarks-v2",
-      "descriptionAdvanced": "Fortezza Margherita, known locally as Fort Elena, is a massive, commanding fortification perched on a high ridge overlooking the desert city of Sabha. Built by Italian colonial forces in the 1920s to exert control over the rebellious Fezzan region, its thick stone walls and imposing watchtowers are visible from miles away. The fort was later famously featured on the reverse side of the ten-dinar banknote. Today, it stands as a stark, highly visible reminder of the region's turbulent colonial past and military history. History K8 — colonial desert fortifications.",
+      "id": "ly-malta-castle-history-v2",
+      "descriptionAdvanced": "Malta Castle, located in the historic city of Misrata, is a fascinating and often overlooked military fortification from the Ottoman period. Its name is believed to derive from its role in defending the coast against raids by the Knights of Malta during the 16th and 17th centuries. The castle features robust stone walls, watchtowers, and a central courtyard, reflecting the defensive needs of the Libyan coast during the height of Mediterranean piracy and naval warfare. It has served various roles over the centuries, from a military garrison to a local administrative center. Malta Castle represents Misrata's long history as a strategic maritime stronghold and its involvement in the broader geopolitics of the Mediterranean. History K7 — Ottoman fortifications and Mediterranean piracy.",
       "factsAdvanced": [
-        "A massive colonial-era fortress overlooking the southern city of Sabha.",
-        "Constructed by Italian military forces in the 1920s.",
-        "Known locally as Fort Elena or the Sabha Castle.",
-        "Famously depicted on the reverse side of the Libyan ten-dinar banknote.",
-        "Built specifically to project military power over the rebellious Fezzan region.",
-        "Features thick, robust stone walls designed to withstand artillery fire."
+        "An Ottoman-era fortress located in the coastal city of Misrata.",
+        "Built to defend the region against naval raids by the Knights of Malta.",
+        "Features traditional Ottoman military architecture with thick stone ramparts.",
+        "Located near the historic Qasr Ahmed district and the old port.",
+        "A primary symbol of Misrata's strategic importance in the 17th century.",
+        "The site includes historic barracks, ammunition stores, and watchtowers.",
+        "Provides unique insights into the naval history of the Tripolitanian coast.",
+        "Currently a protected historical landmark and local cultural site."
       ]
     },
     {
-      "id": "sabha-airport-terminal-landmarks-v2",
-      "descriptionAdvanced": "The Sabha Airport Terminal is a vital logistical lifeline for the deeply isolated southern Fezzan region, connecting it to the coastal capital of Tripoli. The terminal architecture is functional and robust, designed to withstand the brutal, sand-blasting winds of the deep Sahara. It is a critical hub not just for civilian travel, but for the complex logistics required to supply the massive, remote oil fields further south. The constant activity here highlights the profound difficulty of traversing the Libyan desert by road. Geography K7 — remote aviation logistics.",
+      "id": "ly-murzuq-fort-history-v2",
+      "descriptionAdvanced": "The Murzuq Fort is a massive and imposing Ottoman-era stronghold in the heart of the southwestern Libyan Sahara. For centuries, this fortress was the primary administrative and military seat for the Fezzan region, guarding the vital trans-Saharan trade routes that converged at the Murzuq oasis. Built of thick mud-brick and local stone, the fort features high defensive walls and several watchtowers that offer a commanding view of the surrounding palm groves and sand dunes. It has witnessed the passage of countless caravans, explorers, and armies. The Murzuq Fort remains one of the most significant and impressive examples of Saharan military architecture, symbolizing the power of the Ottoman Empire in the deep desert. History K8 — Ottoman administration in the Sahara and desert forts.",
       "factsAdvanced": [
-        "The primary civilian and logistical aviation hub for the southern Fezzan region.",
-        "Connects the highly isolated city of Sabha directly to Tripoli.",
-        "Designed to withstand intense, abrasive Saharan sandstorms.",
-        "Crucial for transporting personnel to the deep desert oil fields.",
-        "Provides a critical alternative to the dangerous, massive overland desert routes.",
-        "Shares extensive runway infrastructure with a significant military airbase."
+        "The historic capital of the Fezzan region and a major Ottoman military base.",
+        "A massive mud-brick fortification located in the Murzuq oasis.",
+        "Historically guarded the primary caravan routes to Lake Chad and Niger.",
+        "Features classic Saharan defensive elements like high-set watchtowers.",
+        "Was the primary residence of the Ottoman governors (Beys) of the south.",
+        "Played a major role in the trans-Saharan trade for over 300 years.",
+        "One of the largest and best-preserved desert forts in all of Libya.",
+        "A central landmark for the cultural and political history of southern Libya."
       ]
     },
     {
-      "id": "al-asmarya-mosque-zliten-landmarks-v2",
-      "descriptionAdvanced": "The Al-Asmariya Mosque in Zliten is one of the most deeply venerated spiritual landmarks in all of Libya, drawing thousands of pilgrims annually. It houses the magnificent tomb of Sidi Abd as-Salam al-Asmar, a highly revered 16th-century Sufi saint and scholar. The mosque complex is expansive, featuring stunning traditional tile work, a massive library, and a bustling adjacent university dedicated to Islamic jurisprudence. It remains a powerful bastion of traditional Libyan Sufi culture despite various historical challenges. Sociology K8 — Sufi heritage and religious pilgrimage.",
+      "id": "ly-awjila-mosque-history-v2",
+      "descriptionAdvanced": "The Great Mosque of Awjila is one of the most distinctive and ancient religious structures in the Sahara. Located in the historic Awjila oasis, the mosque is world-famous for its unique 'Saharan' architecture, characterized by 21 conical mud-brick domes. These domes are designed to naturally cool the interior by allowing hot air to rise and escape, a masterpiece of traditional environmental engineering. The mosque is built entirely of local materials, including mud, salt, and palm wood. It has been a center of worship and Islamic learning for over a millennium, reflecting the deep religious roots of the Berber people of the Al-Wahat region. It is a premier example of Libya's unique architectural diversity. History K8 — Saharan mosque architecture and environmental design.",
       "factsAdvanced": [
-        "The most venerated religious and spiritual landmark in the city of Zliten.",
-        "Houses the grand tomb of the 16th-century Sufi saint Sidi Abd as-Salam al-Asmar.",
-        "A major destination for religious pilgrims from across North Africa.",
-        "The complex includes a massive, historically significant Islamic university.",
-        "Features exquisite, highly detailed traditional Moroccan-style tile work.",
-        "A powerful, enduring symbol of traditional Libyan Sufi Islamic heritage."
+        "One of the oldest and most unique mosques in the Saharan desert.",
+        "Features 21 conical mud-brick domes, a hallmark of Awjila architecture.",
+        "The design provides natural cooling without the need for modern technology.",
+        "Built entirely of local Saharan materials like sun-dried mud and palm wood.",
+        "Located in the historic center of the Awjila oasis in northeastern Libya.",
+        "A primary symbol of the religious and cultural identity of the Al-Wahat region.",
+        "Dates back several centuries and has been meticulously maintained by the community.",
+        "A major attraction for architects and historians studying desert urbanism."
       ]
     },
     {
-      "id": "shahat-grand-mosque-landmarks-v2",
-      "descriptionAdvanced": "The Shahat Grand Mosque is a beautiful, relatively modern religious structure situated in the lush, elevated environment of the Jabal al Akhdar. Located right on the edge of the ancient Greek ruins of Cyrene, the mosque provides a fascinating visual contrast between contemporary Islamic architecture and ancient Hellenic columns. Its pristine white domes and elegant minaret stand out sharply against the deep green pine and juniper forests that surround the town. It serves as the primary spiritual center for the local agricultural community. Sociology K7 — modern religious architecture in historic settings.",
+      "id": "ly-gurgi-mosque-history-v2",
+      "descriptionAdvanced": "The Gurgi Mosque is arguably the most beautiful and architecturally refined mosque in the Tripoli Medina. Built in 1833 by Mustafa Gurgi, a prominent Ottoman naval captain, the mosque is a masterpiece of late Ottoman art. It is famous for its exceptionally fine interior decoration, featuring intricate marble carvings, colorful Tunisian tiles, and hand-painted wooden ceilings. The mosque's tall, elegant minaret is the highest in the Medina, offering a classic silhouette against the Tripoli skyline. The Gurgi Mosque represents the peak of artistic achievement during the Karamanli era and is a testament to the cosmopolitan and wealthy nature of Tripoli as a Mediterranean trade hub. History K8 — Ottoman art and the Tripoli Medina.",
       "factsAdvanced": [
-        "The primary, central mosque for the modern town of Shahat.",
-        "Located in extreme proximity to the ancient Greek ruins of Cyrene.",
-        "Features striking, pristine white domes and an elegant, tall minaret.",
-        "Provides a stark visual contrast to the surrounding ancient stone columns.",
-        "Set against the lush, green backdrop of the Jabal al Akhdar mountains.",
-        "Serves as the main communal gathering point for local residents."
+        "The most ornate and artistically significant mosque in the Tripoli Medina.",
+        "Built in 1833 by the naval commander Mustafa Gurgi.",
+        "Famous for its exquisite use of Italian marble and Tunisian ceramic tiles.",
+        "Features the tallest minaret in the historic Old City of Tripoli.",
+        "The interior contains fine wood-carvings and colorful floral frescoes.",
+        "Located near the Arch of Marcus Aurelius in the heart of the Medina.",
+        "Reflects a blend of Ottoman, North African, and European artistic styles.",
+        "Remains an active place of worship and a premier cultural landmark."
       ]
     },
     {
-      "id": "al-baida-grand-mosque-landmarks-v2",
-      "descriptionAdvanced": "The Al-Baida Grand Mosque is a massive, architecturally imposing structure located in the heart of Al Bayda, historically known as the city of the Senussi movement. The mosque is characterized by its sheer scale, featuring multiple vast domes and soaring minarets that dominate the city's relatively low skyline. It reflects the city's historical importance, as Al Bayda was originally slated to be Libya's capital in the 1950s. The mosque remains a major center for religious scholarship in the eastern region. Sociology K8 — regional religious centers.",
+      "id": "ly-karamanli-mosque-history-v2",
+      "descriptionAdvanced": "The Karamanli Mosque, or the Mosque of Ahmed Pasha Karamanli, is a grand and historic religious complex in the heart of the Tripoli Medina. Built in 1738, it served as the royal mosque for the Karamanli dynasty, which ruled Libya for over a century. The mosque is part of a larger complex that includes an Islamic school (madrasa) and the ornate tombs of the Karamanli family. It is characterized by its grand courtyard, arched colonnades, and beautiful tile work. The mosque has been a central pillar of religious and political life in Tripoli for nearly 300 years, representing the power and cultural patronage of Libya's most famous indigenous dynasty. History K8 — the Karamanli dynasty and Ottoman urbanism.",
       "factsAdvanced": [
-        "The largest and most visually imposing mosque in the city of Al Bayda.",
-        "Reflects the city's deep historical ties to the Senussi religious movement.",
-        "Features a massive, multi-domed roof and highly visible, soaring minarets.",
-        "Built to accommodate a massive congregation, reflecting the city's former capital status.",
-        "A major regional center for Islamic theology and scholarship.",
-        "Dominates the skyline of the Jabal al Akhdar's largest urban center."
-      ]
-    },
-    {
-      "id": "omar-mukhtar-mausoleum-landmarks-v2",
-      "descriptionAdvanced": "The Omar Mukhtar Mausoleum, originally located in Benghazi and later moved to Suluq, is a profound monument dedicated to Libya's greatest national hero. Mukhtar, known as the 'Lion of the Desert', led the fierce, decades-long resistance against Italian colonization before his execution in 1931. The monument is stark and deeply reverent, serving as a site of intense national pride and historical pilgrimage for Libyans. It stands as a permanent, powerful symbol of the nation's struggle for independence. History K8 — national heroes and anti-colonial resistance.",
-      "factsAdvanced": [
-        "Dedicated to Omar Mukhtar, Libya's most famous anti-colonial resistance leader.",
-        "Mukhtar famously fought against Italian occupation for over twenty years.",
-        "The site serves as a profound monument of national pride and unity.",
-        "Originally located in Benghazi, the remains were later relocated to Suluq.",
-        "A site of deep, emotional historical pilgrimage for Libyan citizens.",
-        "Symbolizes the ultimate sacrifice made for Libyan national independence."
-      ]
-    },
-    {
-      "id": "tripoli-central-post-office-landmarks-v2",
-      "descriptionAdvanced": "The Tripoli Central Post Office is a magnificent example of Italian colonial architecture situated right on Algeria Square in the heart of the capital. Built in the 1930s, its grand, sweeping facade and elegant arched entryways reflect the grandiose, imperial style of the era. Beyond its architectural beauty, it remains a highly functional hub for the city's communications and administrative services. The building is a classic, highly recognizable landmark that anchors the historic downtown district. History K7 — colonial civic architecture.",
-      "factsAdvanced": [
-        "A prominent, grand civic building located on Algeria Square in Tripoli.",
-        "Constructed by Italian colonial architects in the 1930s.",
-        "Features a sweeping, highly elegant imperial-style facade and arcades.",
-        "Continues to function as a major administrative and communications hub.",
-        "One of the most recognizable and photographed buildings in the downtown area.",
-        "Represents the massive civic infrastructure projects of the colonial era."
-      ]
-    },
-    {
-      "id": "ghadames-grand-mosque-landmarks-v2",
-      "descriptionAdvanced": "The Ghadames Grand Mosque is seamlessly integrated into the labyrinthine, mud-brick architecture of the ancient 'Pearl of the Desert'. Unlike traditional freestanding mosques, its structure blends perfectly with the surrounding covered walkways and terraced roofs of the UNESCO World Heritage site. The mosque features a highly distinct, subtly tapered mud-brick minaret that rises above the dense cluster of historic homes. It has served as the spiritual and communal anchor for trans-Saharan traders for centuries. Sociology K8 — integrated desert architecture.",
-      "factsAdvanced": [
-        "Located within the ancient, UNESCO-listed Old Town of Ghadames.",
-        "Seamlessly integrated into the surrounding mud-brick architectural labyrinth.",
-        "Features a highly distinctive, tapering mud-brick minaret.",
-        "Constructed using traditional desert materials like lime and palm wood.",
-        "Served historically as the spiritual anchor for trans-Saharan merchants.",
-        "Provides a cool, naturally insulated sanctuary from the extreme desert heat."
-      ]
-    },
-    {
-      "id": "benghazi-university-campus-landmarks-v2",
-      "descriptionAdvanced": "The Benghazi University Campus is a massive, sprawling educational complex that serves as the premier institution of higher learning in eastern Libya. Originally founded in 1955, the modern campus features distinctive, brutalist-inspired concrete architecture spread across a massive footprint in the Garyounis district. The university has a profound political history, often acting as the intellectual epicenter for student activism and political movements. Despite suffering severe damage during recent urban conflicts, it remains a vital pillar of the city's future. Sociology K8 — higher education and student activism.",
-      "factsAdvanced": [
-        "The largest and most prestigious university campus in eastern Libya.",
-        "Located in the expansive Garyounis district of Benghazi.",
-        "Features highly distinctive, late 20th-century brutalist concrete architecture.",
-        "Historically a major epicenter for national student activism and political thought.",
-        "Suffered massive, heartbreaking structural damage during the 2014 civil conflict.",
-        "Currently undergoing extensive rehabilitation to restore its educational capacity."
-      ]
-    },
-    {
-      "id": "al-majidiya-mosque-tripoli-landmarks-v2",
-      "descriptionAdvanced": "The Al-Majidiya Mosque is a beautiful, historically rich religious structure located within the ancient walls of Tripoli's Medina. Built during the Ottoman period, it is renowned for its highly detailed, ornate stucco work and deeply traditional courtyard design. The mosque provides a serene, quiet sanctuary, entirely insulated from the chaotic, bustling souks just outside its doors. It is frequently visited by architectural historians studying the unique blend of local Libyan and imperial Ottoman design elements. History K7 — Ottoman religious architecture.",
-      "factsAdvanced": [
-        "A highly ornate, historic mosque located inside the Tripoli Medina.",
-        "Constructed during the period of Ottoman imperial rule in Libya.",
-        "Renowned for its exceptionally detailed, intricate interior stucco carvings.",
-        "Features a traditional, serene central courtyard to provide natural cooling.",
-        "Offers a quiet, insulated sanctuary away from the bustling adjacent markets.",
-        "Represents a beautiful fusion of local Libyan and Ottoman imperial styles."
+        "The royal mosque of the Karamanli dynasty, built in 1738.",
+        "Founded by Ahmed Pasha Karamanli, the first ruler of the dynasty.",
+        "A major religious complex featuring a mosque, madrasa, and royal cemetery.",
+        "Known for its elegant architecture and fine geometric tile decorations.",
+        "Located at a prominent entrance to the Tripoli Medina, near the Red Castle.",
+        "Features the tombs of many Karamanli rulers and their families.",
+        "One of the largest and most influential mosques in the history of Tripoli.",
+        "A primary example of the 18th-century North African Ottoman style."
       ]
     }
   ]

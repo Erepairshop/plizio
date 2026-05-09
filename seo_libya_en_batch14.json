@@ -1,0 +1,225 @@
+{
+  "lang": "en",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jebel-akdar-highlands-relief-v2",
+      "descriptionAdvanced": "The Jebel al-Akhdar, or 'Green Mountain,' is a spectacular limestone plateau in northeastern Libya that rises dramatically from the Mediterranean Sea. Its relief is characterized by steep, north-facing cliffs, deep rocky wadis, and three distinct stepped plateaus that receive high rainfall. This unique geography creates a lush, Mediterranean ecosystem of evergreen forests and fertile valleys that is unparalleled in North Africa. The Jebel al-Akhdar serves as a major watershed and a natural bastion of biodiversity, with its high elevation providing a temperate climate. It is a critical landmark for both its stunning natural beauty and its role as the agricultural heartland of Cyrenaica. Geography K7 — highland plateaus and Mediterranean relief.",
+      "factsAdvanced": [
+        "A massive limestone plateau rising to over 850 meters in northeastern Libya.",
+        "Characterized by three distinct stepped terraces (plateaus).",
+        "The highest rainfall region in Libya, supporting dense Mediterranean forests.",
+        "Features a dramatic, north-facing escarpment overlooking the sea.",
+        "Home to numerous deep canyons and karst features like sinkholes and caves.",
+        "A vital natural watershed for the surrounding arid plains.",
+        "The relief creates a temperate microclimate unique to the region.",
+        "Known for its fertile 'terra rossa' soil, ideal for highland agriculture."
+      ]
+    },
+    {
+      "id": "gargaf-range-relief-v2",
+      "descriptionAdvanced": "The Gargaf Range is a rugged and ancient mountain belt in central Libya, forming a significant geological and relief barrier between the Tripolitanian plateau and the Fezzan desert. Its relief is characterized by jagged black peaks, steep rocky valleys, and extremely arid, barren slopes. The range consists of some of the oldest rocks in the Sahara, providing a stark and dramatic landscape that has influenced transit and trade routes for millennia. The Gargaf Mountains serve as a major landmark for desert travelers, with their dark, eroded forms standing out against the surrounding sand seas and gravel plains. It is a quintessential example of ancient Saharan mountain relief. Geography K8 — Saharan mountain ranges and ancient geology.",
+      "factsAdvanced": [
+        "A rugged mountain range forming a natural gate to the Fezzan region.",
+        "Characterized by dark, jagged peaks and deeply eroded rocky valleys.",
+        "Composed of some of the oldest geological formations in North Africa.",
+        "Rises sharply from the surrounding gravel plains and sand dunes.",
+        "A significant landmark for trans-Saharan travel and navigation.",
+        "The relief creates challenging terrain for transport and infrastructure.",
+        "Home to prehistoric rock art sites located within its hidden valleys.",
+        "A primary example of ancient Precambrian and Paleozoic rock relief."
+      ]
+    },
+    {
+      "id": "jebel-soda-relief-v2",
+      "descriptionAdvanced": "Jebel Soda, or the 'Black Mountain,' is a spectacular volcanic mountain range in central Libya, representing a major relief feature of the Sahara. Its name derives from the dark basaltic lava flows and scoria cones that cover its rugged peaks and steep valleys. The relief is characterized by jagged, eroded volcanic forms that rise dramatically from the surrounding desert sands, creating a stark and humbling visual contrast. Jebel Soda is part of a larger volcanic province and serves as an important watershed, with its seasonal runoff sustaining several nearby oases. Its profound isolation and rugged beauty make it a primary natural landmark of the central Libyan desert. Geography K8 — volcanic mountains and Saharan relief.",
+      "factsAdvanced": [
+        "A prominent volcanic mountain range in the central Libyan Sahara.",
+        "Characterized by dark, basaltic rock and jagged volcanic peaks.",
+        "Rises to over 800 meters, dominating the local desert landscape.",
+        "Part of the massive Al-Haruj volcanic field province.",
+        "A major landmark for desert travelers and caravan routes.",
+        "Features dramatic, steep valleys formed by ancient lava flows.",
+        "Provides seasonal water runoff to the oases of the Jufra region.",
+        "One of the most visually striking geological features in central Libya."
+      ]
+    },
+    {
+      "id": "tibesti-foothills-relief-v2",
+      "descriptionAdvanced": "The Tibesti Foothills in southern Libya represent the northern extent of the massive Tibesti Mountains, the highest and most remote range in the Sahara. The relief is characterized by a spectacular and chaotic collection of jagged volcanic rocks, deep rocky canyons, and dramatic natural stone arches. These foothills form a rugged transition zone between the high peaks of Chad and the vast sand seas of the Libyan desert. The dark, volcanic terrain is extremely arid and offers some of the most pristine and dramatic scenery in Africa. The Tibesti Foothills are a vital landmark for the Tebu people and a primary destination for the most adventurous Saharan exploration. Geography K8 — volcanic foothills and high desert relief.",
+      "factsAdvanced": [
+        "The northern foothills of the Sahara's highest mountain range.",
+        "A spectacular volcanic landscape of black rock and jagged peaks.",
+        "Located in the far south of Libya, near the border with Chad.",
+        "Characterized by dramatic canyons and massive natural stone arches.",
+        "Home to high-altitude Saharan plant species and rare wildlife.",
+        "Features some of the most remote and rugged terrain in North Africa.",
+        "The relief is dominated by ancient lava flows and volcanic craters.",
+        "A critical cultural and natural heartland for the Tebu people."
+      ]
+    },
+    {
+      "id": "jebel-uwaynat-relief-v2",
+      "descriptionAdvanced": "Jebel Uwaynat is a massive and isolated mountain massif located at the triple border of Libya, Egypt, and Sudan. Its relief is unique in the Sahara, featuring grand granite and sandstone peaks that rise nearly 2,000 meters above the hyper-arid plains. The massif is characterized by its rugged cliffs, deep valleys, and numerous permanent springs (uwaynat) that have sustained life for millennia. The dramatic rock formations and the profound isolation of Jebel Uwaynat make it a world-class natural landmark. Its relief provides a stunning canvas for thousands of prehistoric rock paintings, documenting the environmental history of the Sahara over the last 10,000 years. Geography K8 — Saharan massifs and granite relief.",
+      "factsAdvanced": [
+        "A massive, isolated mountain massif rising to 1,934 meters.",
+        "Located at the strategic triple-border point of Libya, Egypt, and Sudan.",
+        "Characterized by grand granite peaks and deep sandstone valleys.",
+        "Home to permanent water springs that sustain desert flora and fauna.",
+        "One of the most significant sites for prehistoric rock art in the world.",
+        "The relief creates a unique micro-climate in the hyper-arid desert.",
+        "A primary destination for archaeological and geographical research.",
+        "Its name means 'Mountain of the Little Springs' in Arabic."
+      ]
+    },
+    {
+      "id": "jebel-tarhuna-relief-v2",
+      "descriptionAdvanced": "Jebel Tarhuna is a scenic highland region in northwestern Libya, representing the southeastern part of the Nafusa Mountains plateau. Its relief is characterized by rolling hills, fertile valleys, and a temperate Mediterranean climate. The plateau slopes gently towards the Jafara Plain, creating a series of scenic ridges and fertile upland valleys that are world-famous for their olive and almond groves. The region serves as a vital watershed for the surrounding plains and provides spectacular panoramic views of the coastal areas. Jebel Tarhuna represents a harmonious blend of rugged highland relief and productive agricultural landscapes, making it a critical regional landmark. Geography K7 — highland plateaus and Mediterranean relief.",
+      "factsAdvanced": [
+        "A scenic highland region about 65 kilometers southeast of Tripoli.",
+        "Characterized by rolling hills and fertile terra rossa plateaus.",
+        "Rises to an elevation of approximately 500 meters.",
+        "A major watershed for the surrounding coastal plains.",
+        "Home to some of Libya's most extensive olive and almond orchards.",
+        "The relief provides a cooler, more temperate climate than the coast.",
+        "Offers spectacular views overlooking the Tripoli metropolitan area.",
+        "A primary destination for regional nature tourism and agriculture."
+      ]
+    },
+    {
+      "id": "sirte-basin-relief-v2",
+      "descriptionAdvanced": "The Sirte Basin is a vast geological and topographical depression in central Libya, spanning from the Gulf of Sidra deep into the Sahara. Its relief is characterized by expansive gravel plains (sarir), low-lying salt flats (sabkhas), and isolated sand dune fields. The basin is a critical area for Libya's petroleum industry, as its ancient sedimentary layers contain the nation's most productive oil and gas reserves. The relief of the Sirte Basin is generally flat and featureless, but it is dotted with industrial landmarks, oil fields, and several significant oases. It represents a vital strategic and economic region, connecting the coastal 'Oil Crescent' with the desert interior. Geography K8 — Saharan basins and sedimentary relief.",
+      "factsAdvanced": [
+        "A massive topographical depression in central Libya.",
+        "Covers approximately 375,000 square kilometers of desert.",
+        "Characterized by vast 'sarir' (gravel plains) and salt flats.",
+        "The primary petroleum-producing region in the country.",
+        "Contains massive underground aquifers of fossil water.",
+        "The relief is relatively flat, facilitating industrial infrastructure.",
+        "Home to a high density of oil fields, pipelines, and terminals.",
+        "A critical strategic region for national economic development."
+      ]
+    },
+    {
+      "id": "al-haruj-relief-v2",
+      "descriptionAdvanced": "Al-Haruj is a massive and surreal volcanic field in central Libya, representing one of the most distinctive relief features of the Sahara. Its relief is characterized by thousands of dark basaltic cones, ancient lava flows, and dramatic craters that cover over 45,000 square kilometers. The landscape is a chaotic sea of black rock that contrasts sharply with the orange sands of the surrounding desert. Despite its arid and rugged appearance, Al-Haruj contains several small oases and seasonal pools that support hardy desert life. Its unique volcanic geology and Martian-like scenery make it a primary landmark for scientific research and adventurous Saharan exploration. Geography K8 — volcanic fields and basaltic relief.",
+      "factsAdvanced": [
+        "The largest volcanic field in Libya, covering 45,000 square kilometers.",
+        "Features over 150 individual volcanic cones and numerous lava flows.",
+        "Characterized by dark basaltic rock and dramatic volcanic craters.",
+        "Rises to an elevation of approximately 1,200 meters in its center.",
+        "A major landmark for desert travelers and scientific researchers.",
+        "The relief creates a surreal, Martian-like landscape in the Sahara.",
+        "Part of a chain of volcanic provinces across North Africa.",
+        "A critical site for studying the geological history of the Saharan plate."
+      ]
+    },
+    {
+      "id": "al-hamada-al-hamra-relief-v2",
+      "descriptionAdvanced": "The Al-Hamada al-Hamra, or 'Red Desert,' is a vast and desolate stony plateau in northwestern Libya. Its relief is characterized by a nearly featureless, flat expanse of reddish, iron-rich stones that covers over 50,000 square kilometers. This hyper-arid environment is one of the most desolate landscapes on Earth, with almost zero permanent vegetation. The plateau rises nearly 500 meters above sea level and serves as a major watershed for the surrounding wadis. Its sheer scale and profound silence make the Al-Hamada al-Hamra a unique and humbling natural landmark. It is also a critical area for oil and gas exploration in the western Libyan desert. Geography K8 — stony deserts and plateau relief.",
+      "factsAdvanced": [
+        "One of the largest stony deserts (Hamada) in the Sahara.",
+        "Covers over 50,000 square kilometers of northwestern Libya.",
+        "Characterized by a flat, reddish, and nearly featureless plateau.",
+        "A hyper-arid landscape with extreme temperature fluctuations.",
+        "A major site for the discovery of meteorites and prehistoric tools.",
+        "Contains vast underground reserves of natural gas and petroleum.",
+        "The relief serves as a major watershed for western Libyan wadis.",
+        "Known for its profound isolation and lack of permanent habitation."
+      ]
+    },
+    {
+      "id": "jebel-nafusa-relief-v2",
+      "descriptionAdvanced": "The Jebel Nafusa is a dramatic limestone escarpment and plateau in northwestern Libya, stretching over 300 kilometers from the Tunisian border to the coast. Its relief is characterized by a steep, north-facing cliff that rises nearly 700 meters above the Jafara Plain, offering spectacular panoramic views. The plateau itself is a rugged highland of limestone hills, deep rocky wadis, and fertile upland valleys. The Jebel Nafusa is a critical natural landmark and a major watershed for the region. Its unique relief has influenced the development of Berber (Amazigh) culture, including the famous troglodyte houses and terraced farming that define the area. Geography K7 — limestone escarpments and highland relief.",
+      "factsAdvanced": [
+        "A massive 300-kilometer long limestone escarpment in western Libya.",
+        "Rises to an elevation of over 700 meters above the coastal plains.",
+        "Characterized by dramatic, north-facing cliffs and deep rocky canyons.",
+        "The primary cultural and natural heartland of the Amazigh people.",
+        "Features thousands of ancient, hand-carved agricultural terraces.",
+        "A vital natural watershed and climate regulator for the region.",
+        "Offers some of the most spectacular hiking and viewing points in Libya.",
+        "The relief has facilitated the creation of unique subterranean houses."
+      ]
+    },
+    {
+      "id": "jebel-aswad-relief-v2",
+      "descriptionAdvanced": "The Jebel Aswad, or 'Black Mountain,' is a rugged and ancient mountain range in central Libya, forming a significant relief feature of the Sahara. Its name derives from the dark basaltic rock that covers its jagged peaks and steep valleys, creating a stark visual contrast with the surrounding desert sands. The relief is characterized by eroded volcanic forms that rise dramatically from the desert, providing a vital habitat for desert-adapted wildlife like the Barbary sheep. Jebel Aswad is part of the larger Al-Haruj volcanic province and serves as an important landmark for Saharan navigation. Its rugged beauty and profound isolation make it a quintessential part of Libya's natural desert heritage. Geography K8 — Saharan mountain ranges and volcanic relief.",
+      "factsAdvanced": [
+        "A prominent volcanic mountain range in central Libya.",
+        "Characterized by dark basaltic rock and jagged, eroded peaks.",
+        "Part of the massive Al-Haruj al-Aswad volcanic province.",
+        "Rises to over 800 meters, dominating the central Saharan landscape.",
+        "A vital sanctuary for desert-adapted wildlife like the Aoudad.",
+        "Features dramatic, steep valleys formed by ancient lava flows.",
+        "A major landmark for travelers moving through the desert interior.",
+        "One of the most striking geological features in the central Sahara."
+      ]
+    },
+    {
+      "id": "wadi-al-kuf-relief-v2",
+      "descriptionAdvanced": "Wadi al-Kuf is a stunning and verdant natural canyon in the heart of the Jabal al-Akhdar, famous for its deep limestone relief and lush Mediterranean forests. Its relief is characterized by steep, forested cliffs that drop hundreds of meters to a seasonal riverbed, creating a dramatic and scenic landscape. The wadi is home to the highest bridge in Libya, which spans the deep canyon and offers spectacular views. Wadi al-Kuf is a critical biodiversity hub and a vital watershed for the 'Green Mountain.' Its lush vegetation and perennial springs make it a primary destination for nature lovers and hikers in northeastern Libya. Geography K7 — Mediterranean canyons and limestone relief.",
+      "factsAdvanced": [
+        "Home to one of the deepest and most scenic canyons in Libya.",
+        "Features a dramatic limestone relief with steep, forested cliffs.",
+        "The site of the highest bridge in the country, spanning the wadi.",
+        "Located in the heart of the Jabal al-Akhdar (Green Mountain).",
+        "A primary biodiversity hub with dense Mediterranean forests.",
+        "Characterized by numerous caves and perennial natural springs.",
+        "A major destination for hiking, bird-watching, and nature tourism.",
+        "The relief provides a verdant sanctuary for rare mountain wildlife."
+      ]
+    },
+    {
+      "id": "wadi-al-ajal-relief-v2",
+      "descriptionAdvanced": "Wadi al-Ajal is a spectacular and fertile valley in the southwestern Libyan Sahara, representing a major relief feature of the Fezzan. It is a 150-kilometer long depression nestled between the towering orange sand dunes of the Ubari Sand Sea and the rugged Messak plateau. The relief is characterized by its continuous chain of oases, palm groves, and ancient agricultural sites that follow the valley's course. Wadi al-Ajal is a critical ecological lifeline, providing a verdant sanctuary for Saharan wildlife and a home for a diverse human population for millennia. Its unique blend of lush nature and stark desert relief makes it a premier landmark of the Libyan Sahara. Geography K8 — Saharan valleys and oasis relief.",
+      "factsAdvanced": [
+        "A 150-kilometer long fertile valley in the southwestern desert.",
+        "Nestled between massive sand dunes and a rugged sandstone plateau.",
+        "Characterized by a chain of lush oases and ancient date palm groves.",
+        "The historic heartland of the Garamantian civilization.",
+        "A critical ecological corridor for desert-adapted species.",
+        "Features thousands of ancient 'foggara' underground water tunnels.",
+        "The relief creates a stunning contrast between green palms and orange sand.",
+        "Supports a vibrant modern agricultural sector based on desert aquifers."
+      ]
+    },
+    {
+      "id": "wadi-zamzam-relief-v2",
+      "descriptionAdvanced": "Wadi Zamzam is a major seasonal river valley in northwestern Libya, stretching across the arid plains from the interior to the coast. Its relief is characterized by a wide, sandy bed, ancient palm groves, and fertile floodplains that have sustained human life and livestock for millennia. The wadi is a critical ecological corridor and a vital watershed for the region, especially after the winter rains. Historically, its relief provided a strategic defensive line for the Roman 'Limes Tripolitanus' and contains numerous ancient fortified farms (gasrs). Wadi Zamzam represents a vital link between the desert interior and the Mediterranean coast, serving as a center for traditional pastoral life. Geography K7 — desert wadis and fluvial relief.",
+      "factsAdvanced": [
+        "One of the largest and most historically significant wadis in western Libya.",
+        "Characterized by a wide, sandy bed and fertile floodplains.",
+        "A primary ecological corridor for desert wildlife and migratory birds.",
+        "Home to numerous Roman-era 'gasrs' (fortified farms) and cisterns.",
+        "Provides a vital source of seasonal water and grazing land.",
+        "Located in the strategic transition zone between the coast and the desert.",
+        "The relief has influenced trade and military movement for centuries.",
+        "A major center for the traditional pastoral life of western Libya."
+      ]
+    },
+    {
+      "id": "wadi-mathendous-relief-v2",
+      "descriptionAdvanced": "Wadi Mathendous is a rugged and dramatic desert valley located on the Messak Settafet plateau in southwestern Libya. Its relief is characterized by steep sandstone cliffs and a dry riverbed that contains one of the world's most spectacular collections of prehistoric rock engravings. These ancient artworks, carved into the valley's rocky walls, provide a stunning record of the prehistoric 'Green Sahara.' The wadi is a quintessential example of Saharan rocky relief, offering profound insights into the environmental and cultural history of the Fezzan. Its remote and rugged beauty makes it a primary destination for researchers and adventurous desert explorers. Anthropology K8 — rock engravings and Saharan rocky relief.",
+      "factsAdvanced": [
+        "A rugged desert valley on the Messak Settafet sandstone plateau.",
+        "Famous for hosting some of the world's finest prehistoric rock engravings.",
+        "Characterized by steep, eroded cliffs and a dry, rocky riverbed.",
+        "A critical site for understanding the prehistoric 'Green Sahara' era.",
+        "The relief provides a stunning canvas for massive ancient artworks.",
+        "Located in a remote and arid region of southwestern Libya.",
+        "A world-renowned destination for archaeological and nature tourism.",
+        "Features dramatic Saharan scenery of black rock and orange sand."
+      ]
+    }
+  ]
+}

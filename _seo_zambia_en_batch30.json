@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mwenzo-mission-history-v2",
+      "descriptionAdvanced": "The Mwenzo Mission station, founded in 1895 by the Free Church of Scotland near the Tanzanian border, made a fundamental contribution to the social and education-oriented development of the region. Over decades, Mwenzo functioned as a primary center for the education of the local Namwanga people, which laid the foundation for socio-economic development in this remote corner of Zambia. The mission activity not only changed the spiritual landscape but also integrated the community into the modern educational structures that were emerging at that time. Today Mwenzo is appreciated as a historical center whose influence on the local population has significantly supported the transformation to modernity.",
+      "factsAdvanced": [
+        "Founded in the year 1895",
+        "Station of the Free Church of Scotland",
+        "Located near the Tanzanian border",
+        "Center of education for the Namwanga people",
+        "Important site of socio-economic development",
+        "Historical center of regional transformation"
+      ]
+    }
+  ]
+}

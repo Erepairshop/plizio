@@ -1,0 +1,74 @@
+{
+  "lang": "ro",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "calheta-de-sao-miguel-cities-v2",
+      "descriptionAdvanced": "Calheta de São Miguel este situată pe coasta de nord-est a insulei Santiago și a devenit reședința municipiului São Miguel în 1997. Orașul găzduiește aproximativ 5.500 de locuitori și se susține economic prin pescuit, dar și prin agricultura axată pe porumb, fasole și trestie de zahăr. O atracție locală notabilă este golful cu nisip negru, locul de unde pescarii pornesc în activitățile lor cotidiene. Regiunea este de asemenea recunoscută drept locul de naștere al faimosului muzician Codé di Dona, care a contribuit semnificativ la popularizarea stilului Funaná. În fiecare lună iunie, localitatea devine scena celebrărilor tradiționale de São João, marcate prin spectacolele de dans Tabanka.",
+      "factsAdvanced": [
+        "Centrul municipiului São Miguel",
+        "Populație de aproximativ 5.500 de locuitori",
+        "Locul de naștere al muzicianului Codé di Dona",
+        "Golf cu nisip negru activ pentru pescuit",
+        "Agricultură diversificată (porumb, fasole, trestie)",
+        "Festivalul São João celebrat în iunie",
+        "Situat la circa 60 km nord de Praia"
+      ]
+    },
+    {
+      "id": "picos-cities-v2",
+      "descriptionAdvanced": "Picos, cunoscut oficial sub numele de Achada Igreja, este situat la aproximativ 600 de metri altitudine în inima montană a insulei Santiago. Din 2005, localitatea servește drept reședință a municipiului São Salvador do Mundo. Parohia care dă numele localității a fost întemeiată în 1671, fiind una dintre cele mai vechi din arhipelag. Peisajul din jurul orașului este dominat de conuri vulcanice, care au inspirat denumirea de Picos. Majoritatea celor 1.800 de locuitori sunt implicați în agricultura tradițională montană, cultivând porumb și fasole pe terasele naturale ale versanților, conservând astfel un mod de viață rural autentic.",
+      "factsAdvanced": [
+        "Reședința municipiului São Salvador do Mundo",
+        "Altitudine de circa 600 de metri",
+        "Parohie istorică fondată în 1671",
+        "Peisaj dominat de conuri vulcanice (Picos)",
+        "Populație de aproximativ 1.800 de locuitori",
+        "Agricultură bazată pe terase montane",
+        "Situat la circa 30 km de capitala Praia"
+      ]
+    },
+    {
+      "id": "joao-teves-cities-v2",
+      "descriptionAdvanced": "João Teves, situat la 350 de metri altitudine în valea fertilă Ribeira dos Órgãos, este reședința municipiului São Lourenço dos Órgãos din 2005. Regiunea este adesea denumită \"inima verde\" a insulei Santiago, beneficiind de un microclimat propice pentru horticultură. Din 1985, aici funcționează Centrul Național de Cercetare Agricolă (INIDA), care sprijină inovația în domeniu. Vârful Serra dos Órgãos, atingând 1.087 metri, domină orizontul și oferă o protecție naturală văii. Economia locală se bazează pe cultivarea fructelor tropicale precum mango și papaya, alături de cafea și legume proaspete distribuite în restul insulei.",
+      "factsAdvanced": [
+        "Centrul municipiului São Lourenço dos Órgãos",
+        "Altitudine medie de 350 de metri",
+        "Sediul INIDA - Centrul Național de Cercetare Agricolă",
+        "Serra dos Órgãos cu vârfuri de până la 1.087 m",
+        "Populație de aproximativ 1.000 locuitori în oraș",
+        "Regiune renumită pentru mango, papaya și cafea",
+        "Zona \"verde\" esențială a insulei Santiago"
+      ]
+    },
+    {
+      "id": "sao-domingos-cities-v2",
+      "descriptionAdvanced": "São Domingos se află la aproximativ 20 de kilometri nord de capitala Praia, la o altitudine de 400 de metri. Municipiul a fost creat în 1993 și găzduiește astăzi peste 13.500 de locuitori. Orașul este celebru în arhipelag pentru meșteșugurile sale tradiționale, în special arta împletirii coșurilor (panaria) și olăritul. În cartierul Rui Vaz, vizitatorii pot admira reședința de vară a foștilor guvernatori portughezi din secolul al XIX-lea, transformată în prezent în unitate de cazare. Valea fertilă din jur este cultivată cu banane și trestie de zahăr, susținând necesarul de produse proaspete pentru capitală.",
+      "factsAdvanced": [
+        "Municipiu înființat în 1993",
+        "Altitudine de circa 400 de metri",
+        "Populația municipiului de circa 13.500 de persoane",
+        "Centru pentru artizanatul de tip panaria",
+        "Reședința istorică a guvernatorilor portughezi în Rui Vaz",
+        "Producție intensă de banane și trestie de zahăr",
+        "Stație cheie între interior și coastă"
+      ]
+    },
+    {
+      "id": "ribeira-da-barca-cities-v2",
+      "descriptionAdvanced": "Ribeira da Barca este un sat de pescari situat pe coasta vestică a insulei Santiago, aparținând municipiului Santa Catarina. Satul numără aproximativ 1.500 de locuitori și constituie punctul principal de descărcare a peștelui pentru coasta de vest. Golful Aguas Belas, cu nisip vulcanic negru, reprezintă o atracție naturală accesibilă doar pe mare. Stâncile abrupte care înconjoară satul, atingând peste 200 de metri, oferă un peisaj geologic impresionant. Drumul asfaltat finalizat în 2008 a facilitat accesul către orașul Assomada. Pescuitul de ton, wahoo și marlin reprezintă principala sursă de subzistență pentru comunitatea locală.",
+      "factsAdvanced": [
+        "Sat pescăresc pe coasta vestică",
+        "Populație de aproximativ 1.500 locuitori",
+        "Accesibilitate sporită după asfaltarea drumului în 2008",
+        "Punct de plecare spre golful Aguas Belas",
+        "Stânci abrupte cu înălțimi de peste 200 m",
+        "Pescuit principal: ton, wahoo și marlin",
+        "Municipiul Santa Catarina"
+      ]
+    }
+  ]
+}

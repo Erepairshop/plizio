@@ -1,0 +1,61 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "butterfly-world-kids-life-v2",
+      "descriptionAdvanced": "A Butterfly World egy trópusi oázis, ahol a látogatók a pillangók és más apró élőlények varázslatos, színes világába csöppenhetnek. A gondosan kialakított trópusi kertben több ezer pillangó repül szabadon, ami lélegzetelállító élményt nyújt a gyermekek és felnőttek számára egyaránt. A kert különlegessége, hogy interaktív módon mutatja be a rovarok életciklusát, így a fiatal természetbúvárok játékos formában ismerhetik meg a természet apró csodáit. Ez a környezet tökéletes választás azoknak a családoknak, akik szeretnének közelebb kerülni a trópusi növény- és rovarvilághoz egy biztonságos, mégis természetközeli helyszínen.",
+      "factsAdvanced": [
+        "Több ezer szabadon repülő pillangó",
+        "Trópusi növények és rovarok élőhelye",
+        "Interaktív ismeretterjesztés a rovarvilágról",
+        "Ideális program kisgyermekes családoknak",
+        "Különleges betekintés az élővilág ciklusába",
+        "Biztonságos trópusi környezet",
+        "Színes és oktató jellegű élmény"
+      ]
+    },
+    {
+      "id": "botanical-garden-jhb-life-v2",
+      "descriptionAdvanced": "A Johannesburgban található Walter Sisulu Botanikus Kert egy igazi zöld sziget a városi forgatagban, amely minden évszakban különleges élményeket kínál a családoknak. A kert egyik legfőbb látványossága az impozáns vízesés, amely a sziklás táj közepén tör elő, csodás hátteret biztosítva a pihenéshez. A jól kiépített ösvények ideálisak a madármegfigyeléshez és könnyed családi sétákhoz, miközben a kijelölt piknikezőhelyek kiváló lehetőséget adnak a szabadban töltött minőségi időre. A kert nemcsak botanikai értékével, hanem békés atmoszférájával is vonzza a látogatókat.",
+      "factsAdvanced": [
+        "Látványos vízesés Johannesburgban",
+        "Kiváló lehetőségek madármegfigyelésre",
+        "Kényelmes, kijelölt piknikezőhelyek",
+        "Békés és nyugodt környezet családoknak",
+        "Változatos botanikai gyűjtemény",
+        "Ideális választás könnyű családi sétákhoz",
+        "Fontos városi zöld övezet"
+      ]
+    },
+    {
+      "id": "croc-city-life-v2",
+      "descriptionAdvanced": "A Croc City Krokodilparkban a látogatók testközelből ismerhetik meg a hüllők lenyűgöző világát, beleértve a hatalmas krokodilokat és különféle izgalmas kígyófajokat. A park látványos etetési bemutatói és interaktív kígyóshow-i garantáltan lekötik a családok figyelmét, miközben biztonságos környezetben tanulhatnak ezeknek az állatoknak a természetes viselkedéséről. A szakértők által tartott előadások segítenek eloszlatni a tévhiteket, és elősegítik a hüllők iránti tiszteletet és jobb megértést. A Croc City nemcsak izgalmas, hanem edukációs szempontból is tartalmas látogatást ígér minden korosztály számára.",
+      "factsAdvanced": [
+        "Lenyűgöző krokodil-etetési bemutatók",
+        "Interaktív és tanulságos kígyóshow-k",
+        "Hüllőkkel kapcsolatos edukációs programok",
+        "Biztonságos találkozás vadállatokkal",
+        "Tévhitek eloszlatása és állatismeret",
+        "Izgalmas családi látnivaló Gauteng régióban",
+        "Szakértő által felügyelt bemutatók"
+      ]
+    },
+    {
+      "id": "cheetah-sanctuary-life-v2",
+      "descriptionAdvanced": "A Cheetah Outreach egy elhivatott szervezet, amely a gepárdok megmentéséért, védelméért és fennmaradásáért dolgozik, emellett a látogatóknak lehetőséget ad e csodálatos ragadozók megfigyelésére. A központban végzett tudományos kutatómunka és a gyakorlati természetvédelmi tevékenység szorosan összekapcsolódik az edukációval, így a vendégek átfogó képet kaphatnak a gepárdokat fenyegető veszélyekről. A Pretoria környéki látogatás során a családok biztonságban ismerhetik meg a faj természetes igényeit, miközben támogatják a központ fontos mentési munkáját. Ez az élmény felejthetetlen és inspiráló minden természetbarát számára.",
+      "factsAdvanced": [
+        "A gepárdok védelmére és megmentésére fókuszál",
+        "Fontos kutatási és edukációs tevékenység",
+        "Biztonságos és etikus állatmegfigyelés",
+        "Közvetlen támogatás a faj fennmaradásáért",
+        "Felvilágosítás a gepárdokat fenyegető veszélyekről",
+        "Pretoria közelében elérhető természetvédelmi élmény",
+        "Inspiráló központ minden természetbarátnak"
+      ]
+    }
+  ]
+}

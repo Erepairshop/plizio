@@ -1,0 +1,139 @@
+{
+  "lang": "en",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kariba-cities-v2",
+      "descriptionAdvanced": "Kariba is globally recognized for the massive Kariba Dam, one of the largest man-made reservoirs in the world, which serves as a vital source of hydroelectric power for Zimbabwe. Situated on the shores of Lake Kariba, the town has evolved into a significant regional hub for commercial fishing, renewable energy production, and tourism. By combining remarkable engineering achievements with the vast, scenic water landscapes of the lake, Kariba offers a unique economic profile that remains indispensable for national energy stability and the ongoing development of tourism in the Mashonaland West province.",
+      "factsAdvanced": [
+        "Home to the massive Kariba Dam hydroelectric project.",
+        "Vital regional center for fishing and aquaculture.",
+        "Essential source of hydroelectric power for the country.",
+        "Popular tourist destination on the shores of Lake Kariba.",
+        "Major technical importance for national energy infrastructure.",
+        "Located within the Mashonaland West province.",
+        "Economic profile based on water resources and energy."
+      ]
+    },
+    {
+      "id": "karoi-cities-v2",
+      "descriptionAdvanced": "Karoi, located in the Mashonaland West province, serves as a significant commercial hub for the surrounding fertile agricultural region. The town is a vital supply point for farmers, particularly those specializing in large-scale tobacco and maize cultivation, which define the local agrarian landscape. Thanks to its strategic location on the main highway toward Zambia, Karoi remains a busy center with a vital role in the regional trade of agricultural commodities, continuously supporting the local rural economy and the province's broader agricultural stability.",
+      "factsAdvanced": [
+        "Regional commercial hub for agricultural commodities.",
+        "Vital logistic hub for tobacco and maize cultivation.",
+        "Strategic position on the national road toward Zambia.",
+        "Essential supply point for Mashonaland West farms.",
+        "Local economy heavily based on commercial agriculture.",
+        "Active link in the northwestern economic circuit.",
+        "Strong support role for regional agricultural activity."
+      ]
+    },
+    {
+      "id": "chipinge-cities-v2",
+      "descriptionAdvanced": "Chipinge, situated in Manicaland province, stands as one of the country's most productive agricultural centers, renowned for its large-scale cultivation of tea, coffee, and macadamia nuts. The favorable climate of the mountainous Highlands provides optimal conditions for these high-value crops, fostering a robust local processing industry. The city's economy is deeply interconnected with the efficiency of these specialized agricultural sectors, making Chipinge a successful model of exploiting the agro-climatic potential of the eastern Zimbabwe mountain ranges.",
+      "factsAdvanced": [
+        "Major production center for tea and coffee crops.",
+        "Renowned hub for macadamia nut cultivation.",
+        "Beneficiary of fertile soils and high-altitude climate.",
+        "Hosts industrial processing units for luxury agricultural products.",
+        "Essential economic pillar in Manicaland province.",
+        "High potential for export-oriented agriculture.",
+        "Recognized for superior regional agricultural yields."
+      ]
+    },
+    {
+      "id": "gokwe-cities-v2",
+      "descriptionAdvanced": "Gokwe is a rapidly rising town in the Midlands province, functioning as a vital commercial hub and service center for the vast agricultural hinterland surrounding it. The city is particularly famous for its role in cotton marketing, which is the primary crop of the region, attracting producers from throughout the district. In recent years, sustained investments in local infrastructure have allowed Gokwe to solidify its status as a commercial hub, providing the necessary resources to support rural economic development and improve market access for farmers.",
+      "factsAdvanced": [
+        "Central commercial hub in the Midlands province.",
+        "Primary marketing hub for regional cotton production.",
+        "Key supply point for the surrounding rural area.",
+        "Accelerated development of urban infrastructure.",
+        "Essential location for farmers throughout the district.",
+        "Growth engine for the rural Midlands economy.",
+        "Vital hub for local commodity exchange."
+      ]
+    },
+    {
+      "id": "shurugwi-cities-v2",
+      "descriptionAdvanced": "Shurugwi, a scenic town in the Midlands province, is deeply marked by its rich history of mineral extraction, particularly gold and chrome. Nestled within a hilly landscape that imparts a distinctive charm, the town seamlessly blends its industrial mining heritage with contemporary urban development. While the city's economy remains anchored in the extraction of these valuable subsoil resources, the community has developed a solid local infrastructure, transforming Shurugwi into a focal point that balances traditional mining with the needs of a functional urban center in the heart of Zimbabwe.",
+      "factsAdvanced": [
+        "Long historical tradition in gold and chrome mining.",
+        "Set in a picturesque, hilly natural landscape.",
+        "Benchmark location in the Midlands mining landscape.",
+        "Synergy between mining history and current urban growth.",
+        "Solid local infrastructure and well-developed community.",
+        "Economic base dependent on mineral resource exploitation.",
+        "Essential location for studying Midlands economic history."
+      ]
+    },
+    {
+      "id": "gwanda-cities-v2",
+      "descriptionAdvanced": "Gwanda, the administrative seat of Matabeleland South province, fulfills a strategic role in the economic development of southwestern Zimbabwe. The town acts as a logistic node for the surrounding regions, which are renowned for cattle ranching and mining operations. Its proximity to the South African border contributes to the dynamism of its commercial exchanges, making Gwanda an essential provider of services and a logistical hub that supports all economic actors involved in the rural and industrial development of the province.",
+      "factsAdvanced": [
+        "Administrative center of Matabeleland South province.",
+        "Logistic node for surrounding cattle-ranching zones.",
+        "Essential center for regional service provision.",
+        "Strategic role in the nation's southwestern economic growth.",
+        "Dynamic trade links due to proximity to the border.",
+        "Logistic support point for the local mining sector.",
+        "Vital administrative and commercial hub for the province."
+      ]
+    },
+    {
+      "id": "mashava-cities-v2",
+      "descriptionAdvanced": "Mashava is a distinct mining locality near Masvingo, whose urban development was directly dictated by the operational needs of asbestos extraction. The town maintains a specialized structure, reflecting its close history with the mining industry that dominated the region for decades. Currently, Mashava continues to function as an industrial focal point within Masvingo province, offering an infrastructure tailored to the needs of the mining industry and related economic activities that have sustained local stability and community life throughout the years.",
+      "factsAdvanced": [
+        "Locality with a history closely linked to asbestos mining.",
+        "Urban structure adapted to mining industry requirements.",
+        "Important industrial point within Masvingo province.",
+        "Specialized infrastructure supporting mining operations.",
+        "Economic history defined by mineral resource exploitation.",
+        "Local stability based on economic activities linked to mining.",
+        "Industrial center with a unique profile in Masvingo province."
+      ]
+    },
+    {
+      "id": "mutoko-cities-v2",
+      "descriptionAdvanced": "Mutoko, strategically located east of Harare, is internationally recognized as a major center for the extraction of black granite, a precious material exported worldwide. The town plays a dual role in the Mashonaland East provincial economy, acting as both a hub for the stone extraction industry and a vital supply center for local agriculture. This unique combination of subsoil resource exploitation and support for agrarian production gives Mutoko a distinctive economic status and considerable regional importance.",
+      "factsAdvanced": [
+        "Global hub for black granite extraction.",
+        "Major international exporter of ornamental stone.",
+        "Logistic hub for local mining and agricultural sectors.",
+        "Vital commercial infrastructure in Mashonaland East.",
+        "Economic pillar based on mineral resources and agrarian production.",
+        "Strategic importance in the country's export trade.",
+        "Supply center for regional agricultural producers."
+      ]
+    },
+    {
+      "id": "epworth-cities-v2",
+      "descriptionAdvanced": "Epworth is a densely populated urban area on the outskirts of Harare, famous especially for its impressive geological formations, the most notable being the 'Balancing Rock'. Beyond its unique geological value, Epworth has developed into an essential residential center with deep integration into the capital city's dynamics. The location combines the challenges of rapid urbanization with an exceptional natural heritage, becoming a visual and administrative landmark that supports a constant flow of commuters and residents within the greater Harare metropolitan area.",
+      "factsAdvanced": [
+        "Renowned for the 'Balancing Rock' geological formation.",
+        "Densely populated urban area on the outskirts of Harare.",
+        "Essential residential center with metropolitan integration.",
+        "Natural and geological heritage of unique value.",
+        "Hub managing a constant flow of daily commuters.",
+        "Intersection of urbanization challenges and natural attractions.",
+        "Visual landmark defining Harare's metropolitan profile."
+      ]
+    },
+    {
+      "id": "mvuma-cities-v2",
+      "descriptionAdvanced": "Mvuma, an essential logistic and commercial hub strategically located in the Midlands province, plays a vital role in facilitating freight transit and supporting the surrounding rural economy. The town has become a critical supply point for the entire agricultural and mining sector in the area, benefiting from a geographical positioning that allows it to efficiently serve regional transport flows. Its continuous development reflects the growing importance of this center as an intersection of economic activity, being an indispensable element for stability and cohesion in the central commercial infrastructure.",
+      "factsAdvanced": [
+        "Essential logistic and commercial hub in Midlands province.",
+        "Critical supply point for local agriculture and mining.",
+        "Strategic geographical positioning for regional transport.",
+        "Vital economic intersection for the Midlands province.",
+        "Role of growing importance in the nation's commercial infrastructure.",
+        "Indispensable element for transit flow stability.",
+        "Supports economic cohesion of adjacent rural areas."
+      ]
+    }
+  ]
+}

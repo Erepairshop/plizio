@@ -1,0 +1,334 @@
+{
+  "lang": "ro",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "coast-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Coastei, care se întind de-a lungul coastei Pacificului din Columbia Britanică, reprezintă unul dintre cele mai impresionante lanțuri muntoase ale Canadei. Modelați de ghețarii din era glaciară, acești munți prezintă fiorduri adânci, ghețari masivi și vârfuri abrupte care se ridică direct din ocean, formând un ecosistem alpin complex. Mount Waddington este cel mai înalt punct al acestui sistem muntos. Poziția lor geografică acționează ca o barieră decisivă pentru masele de aer umed din Pacific, rezultând precipitații masive și păduri tropicale temperate dense pe versanții vestici. Geografie K7 — formarea munților și zonele climatice.",
+      "factsAdvanced": [
+        "Lanț muntos de-a lungul coastei Pacificului din Columbia Britanică",
+        "Găzduiește cel mai mare ghețar temperat din lume",
+        "Barieră importantă pentru umiditatea din Pacific",
+        "Cel mai înalt vârf: Mount Waddington cu 4019 m",
+        "Prezintă fiorduri adânci și văi abrupte",
+        "Format prin activități tectonice la marginea plăcii",
+        "Lungimea sistemului muntos este de aproximativ 1600 km"
+      ]
+    },
+    {
+      "id": "laurentian-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Laurentieni din provincia Québec se numără printre cei mai vechi munți din punct de vedere geologic din lume, formând marginea de sud-est a Scutului Canadian. Inițial un lanț muntos înalt, aceștia au fost erodați timp de milioane de ani într-un podiș deluros, străbătut de nenumărate lacuri și păduri boreale dese de conifere. Acest peisaj servește astăzi drept una dintre cele mai importante zone de recreere din Canada și este un element central al identității provinciei Québec. Geografie K6 — istoria timpului geologic și eroziunea.",
+      "factsAdvanced": [
+        "Se numără printre cele mai vechi formațiuni muntoase din lume",
+        "Locație: Centrul și sudul provinciei Québec",
+        "Rocă de scut precambrian puternic erodată",
+        "Acoperă o suprafață de aproximativ 390.000 de kilometri pătrați",
+        "Vegetație dominantă: pădure boreală de conifere",
+        "Numeroase lacuri în văi datorită activității glaciare",
+        "Semnificativ pentru alimentarea cu apă a provinciei Québec"
+      ]
+    },
+    {
+      "id": "columbia-icefield-relief-v2",
+      "descriptionAdvanced": "Columbia Icefield, situat în Munții Stâncoși la granița dintre Alberta și Columbia Britanică, este cel mai mare câmp de gheață din America de Nord situat la sud de cercul polar. Acesta alimentează șase ghețari importanți, inclusiv cunoscutul ghețar Athabasca, și constituie un rezervor vital pentru alimentarea cu apă a milioane de oameni din aval. Din cauza schimbărilor climatice globale, câmpul de gheață se micșorează măsurabil, ceea ce îl face un obiect de studiu important pentru glaciologie. Geografie K7 — procese glaciare și schimbări climatice.",
+      "factsAdvanced": [
+        "Cel mai mare câmp de gheață din sudul Munților Stâncoși",
+        "Alimentează sisteme fluviale mari: Athabasca, Saskatchewan, Columbia",
+        "Suprafața totală este de aproximativ 325 de kilometri pătrați",
+        "Grosimea maximă a gheții atinge până la 365 de metri",
+        "Locație: Cumpăna apelor continentale la granița dintre Alberta și Columbia Britanică",
+        "Se micșorează din cauza schimbărilor climatice din mijlocul secolului al XX-lea",
+        "Atracție turistică naturală importantă"
+      ]
+    },
+    {
+      "id": "mackenzie-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Mackenzie formează o parte masivă și izolată a cordilierei canadiene, întinzându-se de-a lungul graniței dintre Teritoriile de Nord-Vest și Yukon. Această sălbăticie aspră și aproape neatinsă se caracterizează prin teren extrem de accidentat și o tundră alpină, cunoscută pentru biodiversitatea sa ridicată de specii arctice. Munții servesc drept o cumpănă a apelor semnificativă pentru fluviul Mackenzie, cel mai lung fluviu din Canada. Geografie K7 — lanțuri muntoase din sălbăticia nordică.",
+      "factsAdvanced": [
+        "Parte a cordilierei canadiene nordice",
+        "Situat în Teritoriile de Nord-Vest și Yukon",
+        "Sălbăticie aspră și neatinsă, fără rețea rutieră",
+        "Cantități mari de precipitații în zonele înalte",
+        "Habitat important pentru oile Dall și urșii grizzly",
+        "Formează cumpăna naturală a apelor pentru sistemul fluviului Mackenzie",
+        "Vârfurile ating adesea peste 2500 de metri înălțime"
+      ]
+    },
+    {
+      "id": "torngat-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Torngat de pe peninsula Labrador formează un lanț muntos arctic extrem de aspru, denumit sugestiv în limbile inuite drept „locul spiritelor”. Aceștia reprezintă punctul cel mai estic al cordilierei canadiene și se caracterizează prin văi adânci modelate de ghețari și vârfuri zimțate, acoperite de gheață, care se prăbușesc direct în Atlanticul de Nord. Datorită izolării și condițiilor climatice extreme, această regiune este accesibilă vizitatorilor doar într-o măsură limitată. Geografie K8 — geomorfologie arctică și zone climatice.",
+      "factsAdvanced": [
+        "Munți arctici pe peninsula Labrador nordică",
+        "Numele înseamnă „locul spiritelor” în limba inuktitut",
+        "Peisaj costier spectaculos la Atlanticul de Nord",
+        "Vârfurile au fost modelate prin glaciațiune intensă",
+        "Găzduiește Parcul Național Torngat Mountains",
+        "Condiții climatice extreme din cauza curenților arctici",
+        "Cel mai înalt vârf: Mount Caubvick cu 1652 de metri"
+      ]
+    },
+    {
+      "id": "mont-tremblant-relief-v2",
+      "descriptionAdvanced": "Mont Tremblant este unul dintre cele mai cunoscute vârfuri din Munții Laurentieni în sudul provinciei Québec. Ca element central al parcului național cu același nume și una dintre cele mai mari stațiuni de schi din America de Nord, acesta atrage vizitatori pe tot parcursul anului. Din punct de vedere geologic, muntele oferă o perspectivă asupra rocii antice, puternic erodate, a Scutului Canadian. Este o destinație importantă pentru sportivii de exterior și un exemplu de prim rang pentru valorificarea peisagistică a regiunilor forestiere boreale din Canada. Geografie K6 — turism și geologie.",
+      "factsAdvanced": [
+        "Vârf proeminent în Munții Laurentieni",
+        "Înălțime: 875 de metri deasupra nivelului mării",
+        "Punct central al Parcului Național Mont-Tremblant",
+        "Una dintre principalele stațiuni de schi din America de Nord",
+        "Caracterizat prin păduri boreale mixte dese",
+        "Regiunea este cunoscută pentru numeroasele lacuri și râuri",
+        "Locație importantă pentru turismul din Québec"
+      ]
+    },
+    {
+      "id": "canadian-shield-relief-v2",
+      "descriptionAdvanced": "Scutul Canadian este o formațiune geologică gigantică, în formă de potcoavă, care acoperă aproape jumătate din masa terestră a Canadei. Acest platou stâncos precambrian, care a apărut acum miliarde de ani, formează fundația geologică stabilă a continentului nord-american. Astăzi, regiunea este marcată în principal de acoperirea rară a solului, nenumărate lacuri modelate glaciare și păduri boreale dese. În ciuda condițiilor aspre, scutul este o sursă inestimabilă de resurse minerale și unul dintre cele mai importante rezervoare de apă dulce de pe Pământ. Geografie K6 — geologie și resurse naturale.",
+      "factsAdvanced": [
+        "Formează fundația geologică a Americii de Nord",
+        "Conține straturi de rocă din Precambrian (până la 4 miliarde de ani vechime)",
+        "Acoperă aproximativ 4,8 milioane de kilometri pătrați (aproape 50% din Canada)",
+        "Bogat în minereuri metalice (aur, nichel, cupru, uraniu)",
+        "Caracterizat prin nenumărate lacuri după retragerea ultimei ere glaciare",
+        "Grosimea redusă a solului limitează utilizarea agricolă",
+        "Potențial enorm pentru generarea energiei hidroelectrice"
+      ]
+    },
+    {
+      "id": "mount-garibaldi-relief-v2",
+      "descriptionAdvanced": "Mount Garibaldi este un stratovulcan proeminent, potențial activ, în Munții Coastei din Columbia Britanică, care domină peisajul la nord de Vancouver. Forma sa distinctivă, acoperită de zăpadă, este rezultatul activității vulcanice intense care a avut loc în timpul ultimei ere glaciare în interacțiune cu gheața glaciară. Astăzi, vârful este o destinație solicitantă pentru alpiniști, în timp ce zona din Parcul Provincial Garibaldi este cunoscută pentru pajiștile sale alpine spectaculoase și ghețari. Geografie K7 — vulcanologie și peisaje glaciare.",
+      "factsAdvanced": [
+        "Stratovulcan potențial activ în Munții Coastei",
+        "Cel mai înalt punct: 2678 de metri",
+        "Origine vulcanică prin activitate subglaciară în timpul erei glaciare",
+        "Caracteristică centrală a Parcului Provincial Garibaldi",
+        "Vârf acoperit de gheață cu mai mulți limbi glaciare active",
+        "Face parte din Cercul de Foc al Pacificului",
+        "Ultima activitate semnificativă acum aproximativ 10.000 de ani"
+      ]
+    },
+    {
+      "id": "mount-thor-relief-v2",
+      "descriptionAdvanced": "Mount Thor de pe Insula Baffin în teritoriul Nunavut este cunoscut la nivel mondial pentru peretele său stâncos spectaculos, pur vertical. Cu o cădere verticală de aproximativ 1250 de metri, muntele oferă cea mai înaltă stâncă pur verticală de acest fel din lume. Acesta este situat în Parcul Național Auyuittuq și este un simbol al sălbăticiei arctice aspre și neatinse, modelată prin eroziunea glaciară. Poziția sa extremă îl face una dintre cele mai mari provocări pentru alpiniștii din întreaga lume. Geografie K8 — geomorfologie arctică.",
+      "factsAdvanced": [
+        "Faimos pentru cel mai înalt perete stâncos pur vertical de pe Pământ",
+        "Cădere verticală de aproximativ 1250 de metri",
+        "Locație: Parcul Național Auyuittuq pe Insula Baffin",
+        "Parte a sistemului cordilierei arctice",
+        "Constă din granit masiv, arhaic",
+        "Înconjurat de un peisaj arctic de ghețari",
+        "Accesibil doar prin expediții de mai multe zile"
+      ]
+    },
+    {
+      "id": "mount-rundle-relief-v2",
+      "descriptionAdvanced": "Mount Rundle este un munte iconic în formă de pană, care domină orașul Banff și se numără printre cele mai fotografiate motive ale Munților Stâncoși canadieni. Acesta constă din straturi puternic înclinate de calcar și dolomită, care au fost înclinate prin ridicări tectonice. Geometria sa inconfundabilă îl face nu doar un punct culminant vizual al Parcului Național Banff, ci și un exemplu de prim rang pentru plierea Munților Stâncoși în timpul orogenezei Laramide. Geografie K7 — tectonică și formarea munților.",
+      "factsAdvanced": [
+        "Vârf iconic în formă de pană în Munții Stâncoși canadieni",
+        "Înălțime: 2948 de metri",
+        "Constă geologic din calcar și dolomită pliate",
+        "Element peisagistic dominant al Parcului Național Banff",
+        "Flancuri puternic modelate prin eroziune glaciară",
+        "Destinație populară pentru alpiniști și excursioniști experimentați",
+        "Numit după misionarul metodist Robert Rundle"
+      ]
+    },
+    {
+      "id": "cascade-range-relief-v2",
+      "descriptionAdvanced": "Munții Cascadelor se întind ca un lanț muntos vulcanic semnificativ din nordul Californiei până în sudul Columbiei Britanice. În Canada, aceștia marchează extensia nordică a acestui cerc de foc al Pacificului, caracterizat prin coliziuni intense ale plăcilor tectonice și vulcanism cauzat de subducție. Peisajul din secțiunea canadiană este determinat de vârfuri zimțate, văi adânci și o influență puternică a umidității din Pacific, ceea ce îl face o zonă diversă din punct de vedere ecologic și bogată din punct de vedere botanic. Geografie K7 — vulcanism și Cercul de Foc al Pacificului.",
+      "factsAdvanced": [
+        "Extensia nordică a întregului lanț muntos Cascade",
+        "Caracterizat geologic prin vulcanism cauzat de subducție",
+        "Parte a Cercului de Foc al Pacificului",
+        "Peisaj cu vârfuri zimțate și văi adânci",
+        "Diversitate ecologică ridicată datorită zonelor climatice diferite",
+        "Bogat în ghețari la altitudini mai mari",
+        "Locație importantă pentru diversitatea botanică"
+      ]
+    },
+    {
+      "id": "selkirk-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Selkirk formează un lanț muntos accidentat în sud-estul Columbiei Britanice, care este încleștat între râul Columbia și lacul Kootenay. Spre deosebire de Munții Stâncoși mai tineri, Selkirks sunt considerabil mai vechi din punct de vedere geologic și se caracterizează printr-un relief mai complex, care a fost puternic modelat de glaciațiunile extinse. Regiunea este faimoasă la nivel mondial pentru zăpada sa excepțional de adâncă, ceea ce o face, în timpul iernii, unul dintre cele mai importante centre pentru heliskiing din lume. Geografie K7 — geomorfologie și zone climatice.",
+      "factsAdvanced": [
+        "Lanț muntos în sud-estul Columbiei Britanice",
+        "Considerabil mai vechi geologic decât Munții Stâncoși",
+        "Cunoscut pentru zăpada extrem de adâncă pe timpul iernii",
+        "Centru mondial pentru heliskiing",
+        "Vârfuri dominante modelate ascuțit prin activitate glaciară",
+        "Găzduiește Mount Sir Sandford cu 3519 metri",
+        "Habitat important pentru caribuul de munte rar"
+      ]
+    },
+    {
+      "id": "st-elias-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Saint Elias din teritoriul Yukon formează cel mai înalt lanț muntos din Canada și oferă unele dintre cele mai spectaculoase peisaje din America de Nord. Acest sistem muntos vast se caracterizează prin câmpurile sale de gheață masive și extinse, care se numără printre cele mai mari din afara calotelor polare. Cu Mount Logan, cel mai înalt vârf din Canada, munții ating o înălțime imensă. Mediul arctic aspru și dinamica glaciară constantă îl fac un obiect de studiu unic atât pentru oamenii de știință, cât și pentru aventurieri. Geografie K8 — dinamică glaciară și munți înalți.",
+      "factsAdvanced": [
+        "Cel mai înalt sistem muntos din Canada",
+        "Găzduiește Mount Logan (5959 m)",
+        "Cuprinde unul dintre cele mai mari câmpuri de gheață non-polare de pe Pământ",
+        "Caracterizat prin diferențe de relief verticale extreme",
+        "Parte a unei arii protejate transfrontaliere uriașe",
+        "Dinamică glaciară constantă și dezvoltarea gheții",
+        "Condiții climatice extreme la toate altitudinile"
+      ]
+    },
+    {
+      "id": "alberta-badlands-relief-v2",
+      "descriptionAdvanced": "Badlands din Alberta reprezintă un peisaj de eroziune fascinant, asemănător deșertului, de-a lungul râului Red Deer, care formează un contrast puternic cu preria din jur. Această formațiune geologică este faimoasă la nivel mondial pentru concentrația sa extraordinar de mare de fosile de dinozauri, care sunt expuse aici din straturile sedimentare adânci ale Cretacicului superior. Prin forța vântului și a apei, a luat naștere un peisaj complex de canioane, chei și piramide de pământ iconice, așa-numitele hoodoo-uri. Geografie K6 — paleontologie și procese de eroziune.",
+      "factsAdvanced": [
+        "Peisaj de eroziune deșertic în sudul provinciei Alberta",
+        "Sursă importantă la nivel mondial pentru fosile de dinozauri",
+        "Locație centrală: Parcul Provincial Dinosaur",
+        "Caracterizat prin piramide de pământ (hoodoo) marcante",
+        "Creat prin forța de eroziune a râului Red Deer",
+        "Straturi sedimentare din urmă cu 75 de milioane de ani",
+        "Climă continentală extremă cu veri fierbinți"
+      ]
+    },
+    {
+      "id": "purcell-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Purcell se întind la vest de Munții Stâncoși în Columbia Britanică și formează o lume alpină dramatică de vârfuri ascuțite de granit și lacuri alpine cristaline. Regiunea, în special Parcul Provincial Bugaboo, este un paradis legendar pentru alpiniști, care apreciază formațiunile de granit abrupte din întreaga lume. Geografia Purcell-urilor este marcată de o istorie complexă a originii, în care intruziunile magmatice masive au pătruns în straturile de rocă mai vechi și sunt astăzi expuse prin eroziune. Geografie K7 — procese magmatice și relief alpin.",
+      "factsAdvanced": [
+        "Lanț muntos la vest de Munții Stâncoși",
+        "Faimos pentru acele de granit marcante",
+        "Parcul Provincial Bugaboo este cunoscut la nivel mondial pentru alpiniști",
+        "Lacuri alpine pitorești prin formarea circului glaciar",
+        "Istorie geologică prin intruziuni magmatice",
+        "Parte importantă a cordilierei canadiene",
+        "Mare importanță pentru turismul alpin de vară"
+      ]
+    },
+    {
+      "id": "monashee-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Monashee sunt un lanț muntos dens împădurit și complex în sudul Columbiei Britanice care, ca parte a Munților Columbia, formează o cumpănă a apelor semnificativă. Numele „Monashee”, interpretat în limba gaelică scoțiană drept „Muntele Păcii”, reflectă atmosfera izolată și liniștită a acestei regiuni. Din punct de vedere geologic, munții sunt caracterizați prin rocă metamorfică foarte veche, care în trecut a reprezentat o sursă bogată de zăcăminte de aur și a influențat puternic mineritul istoric din regiune. Geografie K7 — geologie și istoria mineritului.",
+      "factsAdvanced": [
+        "Parte a Munților Columbia în Columbia Britanice",
+        "Geologic marcat de rocă metamorfică foarte veche",
+        "Regiune istorică semnificativă pentru mineritul aurului",
+        "Regiunea este cunoscută pentru pădurile boreale dese",
+        "Numele derivă din „Muntele Păcii”",
+        "Servește drept cumpănă a apelor pentru sisteme fluviale semnificative",
+        "Locație importantă pentru utilizarea forestieră"
+      ]
+    },
+    {
+      "id": "cypress-hills-relief-v2",
+      "descriptionAdvanced": "Cypress Hills formează un platou înalt, unic și izolat, care se ridică în mod remarcabil din peisajul de prerie din Saskatchewan și Alberta. Fiind unul dintre puținele zone din America de Nord care nu au fost acoperite complet de calotele glaciare în timpul ultimei ere glaciare, Cypress Hills păstrează o moștenire ecologică unică, cu o biodiversitate ridicată și un amestec de asociații vegetale de prerie, pădure și alpine. Acestea reprezintă cel mai înalt punct dintre Munții Stâncoși canadieni și Munții Labrador din est. Geografie K6 — ecologie și geologie pleistocenă.",
+      "factsAdvanced": [
+        "Platou înalt izolat în preria din Saskatchewan/Alberta",
+        "Cel mai înalt punct între Munții Stâncoși și Labrador",
+        "Și-a păstrat unicitatea ecologică prin lipsa gheții în era glaciară",
+        "Amestec de asociații vegetale de prerie, pădure și alpine",
+        "Biodiversitate crescută în comparație cu zona înconjurătoare",
+        "Ridicarea marcată deasupra câmpiei joase din jur",
+        "Locație importantă pentru cercetarea ecologică"
+      ]
+    },
+    {
+      "id": "cariboo-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Cariboo formează cea mai nordică parte a Munților Columbia din Columbia Britanică și sunt cunoscuți pentru sălbăticia lor neatinsă, văile glaciare adânci și vârfurile acoperite de zăpadă. Ca zonă naturală protejată extinsă, care include, printre altele, faimosul Parcul Provincial Wells Gray, aceștia sunt faimoși pentru originea lor vulcanică combinată cu suprapunerea glaciară. Regiunea găzduiește populații semnificative de animale sălbatice, cum ar fi urșii grizzly, și este un refugiu esențial pentru natura nord-americană neatinsă, datorită izolării sale geografice. Geografie K7 — ecologia munților și protecția animalelor sălbatice.",
+      "factsAdvanced": [
+        "Cea mai nordică parte a Munților Columbia",
+        "Caracterizat prin sălbăticie neatinsă și văi glaciare adânci",
+        "Locație centrală: Parcul Provincial Wells Gray",
+        "Origine vulcanică asociată cu suprapunerea glaciară",
+        "Refugiu semnificativ pentru populații mari de urși grizzly",
+        "Izolarea geografică favorizează stabilitatea ecologică",
+        "Numeroase cascade prin rețele hidrografice complexe"
+      ]
+    },
+    {
+      "id": "ogilvie-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Ogilvie sunt situați în nordul Yukon-ului, direct la nord de Dawson City și sunt traversați de Dempster Highway, unul dintre cele mai legendare drumuri din Canada. Acest lanț muntos se caracterizează prin vârfuri de calcar zimțate și văi adânci, modelate glaciar, care oferă un peisaj montan arctic uluitor. Ca parte a Parcului Teritorial Tombstone, Ogilvie-urile demonstrează în mod impresionant dinamica geologică a cordilierei nordice și găzduiesc o floră și faună care este perfect adaptată condițiilor climatice extreme ale subarcticii. Geografie K7 — geomorfologie arctică și infrastructură.",
+      "factsAdvanced": [
+        "Lanț muntos în nordul Yukon-ului",
+        "Vârfuri de calcar zimțate ca o trăsătură dominantă",
+        "Traversat de faimosul Dempster Highway",
+        "Locație centrală: Parcul Teritorial Tombstone",
+        "Geologic marcat de pliurile cordilierei nordice",
+        "Floră și faună subarctică unică",
+        "Exemple impresionante de eroziune glaciară și periglaciară"
+      ]
+    },
+    {
+      "id": "baffin-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Baffin de pe Insula Baffin din teritoriul Nunavut formează un lanț muntos spectaculos, acoperit de gheață, care face parte din Cordiliera Arctică. Această regiune se numără printre cele mai inaccesibile și inospitaliere părți ale Canadei și este marcată de frig extrem, fiorduri adânc tăiate și ghețari masivi care se prăbușesc direct în Arctica. Cu Parcul Național Auyuittuq, munții găzduiesc una dintre cele mai dramatice peisaje arctice la nivel mondial, unde forța naturii și urmele eroziunii glaciare devin vizibile într-un mod uluitor. Geografie K8 — geomorfologie arctică și peisaje extreme.",
+      "factsAdvanced": [
+        "Lanț muntos acoperit de gheață pe Insula Baffin",
+        "Parte a întregii Cordiliere Arctice",
+        "Locație centrală: Parcul Național Auyuittuq",
+        "Caracterizat prin fiorduri arctice adânc tăiate",
+        "Limbi glaciare masive, active, ca element de modelare a peisajului",
+        "Una dintre cele mai inaccesibile și inospitaliere regiuni ale Canadei",
+        "Exemple uluitoare de procese de eroziune arctică"
+      ]
+    },
+    {
+      "id": "chic-choc-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Chic-Chocs de pe Peninsula Gaspésie din Québec formează cea mai nordică secțiune a Apalașilor din Canada. Acest munte puternic erodat, situat la mare altitudine, se remarcă prin vârfurile sale aspre și văile adânc tăiate, care au fost modelate în timpul ultimei ere glaciare prin acțiunea ghețarilor masivi. Ca habitat important pentru ultima turmă de caribu rămasă la sud de fluviul Sfântul Laurențiu, Chic-Choc-urile joacă un rol decisiv pentru conservarea naturii în Québec și oferă, în același timp, o panoramă unică în care se reflectă istoria străveche a sistemului Apalaș. Geografie K7 — ecologia munților și geologia Apalașilor.",
+      "factsAdvanced": [
+        "Munte puternic erodat pe Peninsula Gaspésie",
+        "Geologic parte a sistemului Apalași",
+        "Cel mai înalt vârf: Mont Jacques-Cartier (1268 m)",
+        "Habitat important pentru ultima turmă de caribu din regiune",
+        "Suprapunere glaciară puternică prin procese glaciare",
+        "Exemple impresionante de relief alpin în Apalași",
+        "Locație semnificativă pentru proiecte de protecție ecologică"
+      ]
+    },
+    {
+      "id": "mount-sir-donald-relief-v2",
+      "descriptionAdvanced": "Mount Sir Donald este unul dintre cele mai marcante și cunoscute vârfuri din Munții Selkirk, situat în inima Parcului Național Glacier din Columbia Britanică. Cu aspectul său aproape perfect de piramidă, format din stâncă masivă, acesta este un simbol clasic al lumii alpine canadiene. Muntele a fost numit după Donald Smith, unul dintre părinții Căii Ferate Pacificul Canadian, și este, de la sfârșitul secolului al XIX-lea, un punct de reper central pentru alpiniștii care doresc să își măsoare forțele cu structura sa tehnică solicitantă, de tip alpin. Geografie K7 — alpinism și geomorfologie.",
+      "factsAdvanced": [
+        "Vârf în formă de piramidă în Munții Selkirk",
+        "Înălțime: 3284 de metri",
+        "Componentă centrală a Parcului Național Glacier",
+        "Numit după Lord Strathcona (Donald Smith)",
+        "Destinație solicitantă din punct de vedere tehnic pentru alpinismul clasic",
+        "Caracterizat prin creste stâncoase abrupte și forme de circ glaciar",
+        "O bijuterie a istoriei alpine canadiene"
+      ]
+    },
+    {
+      "id": "gros-morne-mountain-relief-v2",
+      "descriptionAdvanced": "Gros Morne Mountain este un vârf marcant, în mare parte sterp, din lanțul muntos Gros Morne din Newfoundland, cunoscut ca zonă inclusă în Patrimoniul Mondial UNESCO pentru istoria sa geologică impresionantă. Muntele este modelat de acțiunea extinsă a ghețarilor, care a lăsat în urmă văi adânci și pante stâncoase, oferind o perspectivă profundă asupra interiorului scoarței terestre și a trecutului geologic al regiunii. Zona de vegetație stearpă, aproape arctică, de pe platoul vârfului îl face una dintre cele mai interesante zone din punct de vedere ecologic din estul Canadei. Geografie K6 — geologie și Patrimoniul Mondial UNESCO.",
+      "factsAdvanced": [
+        "Vârf marcant în Munții Long Range",
+        "Parte a unei zone inclusă în Patrimoniul Mondial UNESCO (Gros-Morne)",
+        "Înălțime: 806 metri deasupra nivelului mării",
+        "Formarea glaciară a dus la văi caracteristice în formă de U",
+        "Semnificație geologică prin structurile vizibile ale scoarței terestre",
+        "Vegetație stearpă pe platoul vârfului",
+        "Locație importantă pentru înțelegerea plăcilor tectonice"
+      ]
+    },
+    {
+      "id": "cascade-mountain-relief-v2",
+      "descriptionAdvanced": "Muntele Cascade este un masiv masiv, vizibil de departe, care domină partea de vest a orașului Banff din parcul național cu același nume. Cunoscut pentru flancul său estic impunător, de pe care se prăbușesc în mod regulat cascade mai mici, acesta se numără printre cele mai clasice motive de carte poștală ale Munților Stâncoși canadieni. Din punct de vedere geologic, muntele este un exemplu impresionant al plierii și ridicării rocii sedimentare în timpul orogenezei Laramide. Urcarea pe vârf oferă una dintre cele mai spectaculoose priveliști panoramice asupra lanțurilor muntoase din jur ale orașului Banff. Geografie K7 — tectonică și geografie montană.",
+      "factsAdvanced": [
+        "Masiv muntos masiv deasupra orașului Banff",
+        "Înălțime: 2998 de metri",
+        "Numit după cascada care curge pe flancul estic",
+        "Motiv clasic de carte poștală a Munților Stâncoși canadieni",
+        "Geologic constând din rocă calcaroasă stratificată",
+        "Locație importantă pentru amprenta vizuală a orașului Banff",
+        "Priveliște panoramică spectaculoasă asupra Bow-Valley"
+      ]
+    },
+    {
+      "id": "notre-dame-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Notre-Dame reprezintă o structură parțială importantă a Apalașilor în Québec, care se întind în direcție estică de-a lungul Peninsulei Gaspésie. Acest sistem muntos, ale cărui rădăcini geologice datează de peste 300 de milioane de ani, a fost puternic rotunjit și netezit în profilul său de-a lungul timpului prin forțele uriașe ale ghețariilor și râurilor. Astăzi, acesta modelează identitatea peisagistică a sudului provinciei Québec și servește drept zonă ecologică semnificativă pentru flora și fauna boreală, care populează văile izolate și pantele împădurite ale regiunii. Geografie K6 — istoria geologică a Apalașilor.",
+      "factsAdvanced": [
+        "Secțiune a sistemului muntos al Apalașilor",
+        "Se întinde până la Peninsula Gaspésie",
+        "Origine geologică cu peste 300 de milioane de ani în urmă",
+        "Puternic rotunjit prin procese glaciare",
+        "Zonă ecologică semnificativă pentru speciile de animale boreale",
+        "Definitoriu peisagistic pentru sudul provinciei Québec",
+        "Include numeroase arii forestiere protejate"
+      ]
+    }
+  ]
+}

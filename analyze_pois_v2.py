@@ -1,47 +1,45 @@
 
+import os
 import re
 
-def analyze_file(file_path):
+files = [
+    "lib/visualLab/data/poiExtraGuatemalaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuatemalaReliefV2.ts"
+]
+
+def analyze_poi_file(file_path):
+    if not os.path.exists(file_path):
+        return
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    poi_matches = list(re.finditer(r'id:\s*"([^"]+)"', content))
+    poi_blocks = re.split(r'\{\s*id:', content)[1:]
     
-    results = []
-    for i in range(len(poi_matches)):
-        start = poi_matches[i].start()
-        end = poi_matches[i+1].start() if i+1 < len(poi_matches) else len(content)
-        poi_id = poi_matches[i].group(1)
-        poi_content = content[start:end]
+    print(f"File: {file_path}")
+    for block in poi_blocks:
+        poi_id_match = re.search(r'\s*"(.*?)"', block)
+        if not poi_id_match:
+            continue
+        poi_id = poi_id_match.group(1)
         
-        # Check for descriptionAdvanced
-        desc_adv_matches = list(re.finditer(r'descriptionAdvanced:\s*\{', poi_content))
-        
-        for m in desc_adv_matches:
-            # Find the de: field within this block
-            # search next 500 chars
-            sub = poi_content[m.start():m.start()+500]
-            de_match = re.search(r'de:\s*"(.*?)"', sub)
-            if de_match:
-                de_val = de_match.group(1)
-                results.append((poi_id, de_val == ""))
-            else:
-                # might be [] or missing
-                results.append((poi_id, "missing_de"))
-                
-    return results
+        all_desc_blocks = re.findall(r'descriptionAdvanced\s*:\s*\{(.*?)\}', block, re.DOTALL)
+        if all_desc_blocks:
+            last_desc_block = all_desc_blocks[-1]
+            de_match = re.search(r'de:\s*"(.*?)"', last_desc_block)
+            de_content = de_match.group(1) if de_match else ""
+            
+            # Check for mojibake or template
+            is_template = "Guatemala egyik figyelemre méltó pontja" in last_desc_block
+            
+            word_count = len(de_content.split())
+            print(f"  {poi_id}: {word_count} words (DE). Template: {is_template}")
+        else:
+            print(f"  {poi_id}: MISSING descriptionAdvanced")
 
-print("Nature Analysis:")
-for pid, is_empty in analyze_file('/mnt/c/Users/User/plizio-repo/lib/visualLab/data/poiExtraBelizeNatureV2.ts'):
-    if is_empty is True:
-        print(f"  {pid}: EMPTY")
-    elif is_empty == "missing_de":
-        print(f"  {pid}: MISSING DE")
-    # else: filled, ignore
-
-print("\nEconomic Analysis:")
-for pid, is_empty in analyze_file('/mnt/c/Users/User/plizio-repo/lib/visualLab/data/poiExtraBelizeEconomicV2.ts'):
-    if is_empty is True:
-        print(f"  {pid}: EMPTY")
-    elif is_empty == "missing_de":
-        print(f"  {pid}: MISSING DE")
+for f in files:
+    analyze_poi_file(f)

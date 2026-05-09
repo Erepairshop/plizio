@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kroumirie-gebirge-relief-v2",
+      "descriptionAdvanced": "A Kroumirie-hegység Tunézia legcsapadékosabb és legzöldebb régiója, amely az ország északnyugati szegletében nyúlik el. Ez a terület teljesen elüt az ország belső, sivatagi jellegű tájaitól: a dús, sűrű paratölgy- és steppefenyő-erdők olyan mikroklímát hoznak létre, amely számos ritka állat- és növényfajnak ad otthont. A táj domborzata tagolt, dombos, és mély völgyek szabdalják, ami kiváló feltételeket biztosít a vízkészletek felhalmozódásához. A Kroumirie-hegység nemcsak ökológiai szempontból értékes, hanem a hagyományos erdőgazdálkodás és az ökofalusi turizmus egyik központja is, ahol a természet és az emberi tevékenység egyedülálló egyensúlyban létezik.",
+      "factsAdvanced": [
+        "Ez a legcsapadékosabb régió egész Tunéziában.",
+        "Sűrű paratölgy- és tölgyerdők jellemzik a tájat.",
+        "A hegység a Kroumirie-régióban található, az északnyugati részen.",
+        "Magasabb páratartalom és hűvösebb klíma jellemzi, mint a környező síkságokat.",
+        "Az ország egyik legfontosabb erdei biodiverzitásának központja.",
+        "A terület a paratölgy-kitermelés és fenntartható gazdálkodás központja.",
+        "Domborzatát tagolt hegygerincek és mély völgyek jellemzik."
+      ]
+    },
+    {
+      "id": "djebel-bou-kornine-relief-v2",
+      "descriptionAdvanced": "A Djebel Bou Kornine egy jellegzetes, kétcsúcsú hegy a Tuniszi-öböl déli partvidékén, amely fontos természeti tájékozódási pont és egyben nemzeti park. A hegycsúcsok mészkőből épülnek fel, és a növényzete a mediterrán macchia övezetbe tartozik, amely ritka és védett fajoknak ad otthont. A hegy lábánál fekvő nemzeti park a tuniszi lakosság számára is kedvelt kirándulóhely, ahonnan páratlan panoráma nyílik a fővárosra és a Földközi-tengerre. A hegy geológiai szerkezete évmilliók alatt alakult ki, és ma is jelentős ökológiai szerepet tölt be a városi környezet szomszédságában, mintegy 'zöld tüdőként' funkcionálva a régióban.",
+      "factsAdvanced": [
+        "Magassága közel 600 méter a tengerszint felett.",
+        "Nemzeti parki védettséget élvez a régió növény- és állatvilágának megőrzésére.",
+        "A 'Bou Kornine' név helyi nyelven 'két szarvú' apát jelent.",
+        "A hegyről panorámás kilátás nyílik Tuniszra és a környező öbölre.",
+        "Gazdag mediterrán növényvilággal rendelkezik, beleértve ritka fajokat is.",
+        "A hegy kőzetanyaga főként kalkarípusú mészkő.",
+        "A főváros közelsége miatt a lakosság kedvelt túrázóhelye."
+      ]
+    },
+    {
+      "id": "djebel-biada-relief-v2",
+      "descriptionAdvanced": "A Djebel Biada egy elszigetelt, nagyobbrészt érintetlen hegyvonulat Jendouba régióban, az Atlasz-hegység északi részén. A területet sűrű tölgy- és fenyőerdők borítják, amelyek a magasabb csapadékszintnek köszönhetően egész évben zöldellnek. A hegység megközelíthetősége nehezebb, ami hozzájárult a természetes élővilág fennmaradásához, így a hegyvidéki táj a kutatók és az igazi természetjárók számára is vonzó terület. A topográfia tagolt, a meredek lejtők és a völgyek váltakozása változatos mikroklimatikus viszonyokat teremt, amelyek a növényzet diverzitását is elősegítik. A hegység fontos menedékhely a helyi állatvilág számára, miközben a tájképi értékei a régió szépségét emelik.",
+      "factsAdvanced": [
+        "Jendouba régió egyik kiemelkedő hegyvonulata.",
+        "Az északi Atlasz-hegység része.",
+        "Tölgy- és fenyőerdők alkotják a hegység növénytakarójának nagy részét.",
+        "A terület a természetes élővilág szempontjából viszonylag érintetlen.",
+        "Klimatikus viszonyai hűvösebbek, mint az ország belsőbb síkságain.",
+        "A tagolt domborzat komolyabb túrateljesítményt igényel a látogatóktól.",
+        "A hegység fontos ökológiai menedékhely a régióban."
+      ]
+    },
+    {
+      "id": "djebel-mghila-relief-v2",
+      "descriptionAdvanced": "A Djebel Mghila egy zord, sziklás hegymasszívum Közép-Tunéziában, amely ökológiai fontossága miatt vált kiemelt természetvédelmi területté. A hegység legfőbb nevezetessége, hogy otthont ad a veszélyeztetett berber gazella (hegyi gazella) állományának, amely itt talál menedéket a környező sivatagos területek elől. A táj rendkívül tagolt, meredek sziklákkal és mély, száraz völgyekkel, ami a félszáraz éghajlati övezet tipikus jellemzője. A hegység növényzete speciálisan alkalmazkodott a sivatagi körülményekhez, így számos olyan faj megtalálható itt, amelyek kizárólag ebben a mikroklímában képesek fennmaradni.",
+      "factsAdvanced": [
+        "A berber gazellák egyik legfontosabb természetvédelmi területe.",
+        "Hegymasszívum a középső, arid régióban.",
+        "A domborzatot sziklás lejtők és száraz völgyek jellemzik.",
+        "Különleges félszáraz flórával rendelkezik.",
+        "A terület megközelíthetősége korlátozott a gazellák védelme érdekében.",
+        "Geológiailag a közép-Atlasz hegyvonulatainak folytatása.",
+        "Fontos ökológiai puffer a sivatagos és a hegyvidéki övezet között."
+      ]
+    },
+    {
+      "id": "djebel-selloum-relief-v2",
+      "descriptionAdvanced": "A Djebel Selloum egy jelentős hegyvonulat a közép-tunéziai Kasserine régióban, amely a táj kopár, sziklás jellegével emelkedik ki környezetéből. A terület geológiai szerkezete rendkívül gazdag különféle kőzetekben, amelyek a földtörténeti mozgások során alakultak ki, ma pedig a régió hidrológiájában játszanak fontos szerepet. A hegyvonulat, mint természetes vízválasztó, befolyásolja a környező síkságok vízellátását, bár a terület maga rendkívül száraz, szinte sivatagi jellegű. A táj nyers, szinte élettelen szépsége a tunéziai hátország elszigeteltségét tükrözi, ahol az emberi tevékenység minimális, így a természet erői zavartalanul formálhatják tovább a kőzeteket.",
+      "factsAdvanced": [
+        "Kasserine városa közelében elhelyezkedő hegyvonulat.",
+        "A kopár, száraz környezet jellemzi az egész masszívumot.",
+        "A régió egyik fontos természetes vízválasztója.",
+        "Felszínét hosszú időn át tartó erózió formálta.",
+        "A környéken az emberi tevékenység igen korlátozott.",
+        "Geológiai szempontból különleges kőzetrétegeket mutat be.",
+        "A hegyvonal határként szolgál különböző földrajzi síkságok között."
+      ]
+    }
+  ]
+}

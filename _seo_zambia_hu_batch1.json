@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lusaka-cities-v2",
+      "descriptionAdvanced": "Lusaka 1905-ben alapult európai telepesek által, és központi fekvésének köszönhetően vált Zambia fővárosává. Ma a metropolisz több mint 2,5 millió lakosnak ad otthont, és az ország politikai és gazdasági központja. Ismert nyüzsgő piacairól és a sambiai parlament székhelyéről, a National Assembly Buildingről, amelyet 1964-ben adtak át. A város gyors ütemű urbanizációja Afrika egyik meghatározó gazdasági csomópontjává tette.",
+      "factsAdvanced": ["Népesség: több mint 2,5 millió", "Alapítva: 1905", "Magasság: 1279 méter", "Főváros óta: 1935", "Terület: kb. 360 km²", "Parlament székhelye: National Assembly Building"]
+    },
+    {
+      "id": "ndola-cities-v2",
+      "descriptionAdvanced": "Ndola a zambiai Copperbelt szívében fekszik, és a régió ipari gerincét alkotja. A várost 1904-ben alapították, és gyorsan a rézérc-kereskedelem fontos csomópontjává vált. Jelentős kulturális mérföldkő a Dag Hammarskjöld-emlékmű, amely az ENSZ-főtitkár 1961-es tragikus légi katasztrófájára emlékeztet. A város ma is kulcsszerepet játszik az ország bányászati logisztikájában és a Copperbelt ipari hálózatában.",
+      "factsAdvanced": ["Alapítva: 1904", "Régió: Copperbelt", "Magasság: 1300 méter", "Legfontosabb gazdasági ág: rézfeldolgozás", "Nemzetközi repülőtér helyszíne", "Harmadik legnagyobb zambiai város"]
+    },
+    {
+      "id": "kitwe-cities-v2",
+      "descriptionAdvanced": "Kitwe Zambia második legnagyobb városa, a Copperbelt gazdasági és ipari motorja. 1936-ban alapították a hatalmas rézérckészletek kiaknázására, mára pedig az oktatás és a kutatás fontos központja is, hiszen itt található a Copperbelti Egyetem. A város ipari öröksége szorosan összefonódik a modern szolgáltatási szektorral, logisztikai csomópontként támogatva a teljes bányavidéket.",
+      "factsAdvanced": ["Zambia második legnagyobb városa", "Alapítva: 1936", "Fő iparág: rézbányászat és -feldolgozás", "A Copperbelti Egyetem székhelye", "Magasság: 1200 méter", "Kulcsfontosságú logisztikai csomópont"]
+    },
+    {
+      "id": "kabwe-cities-v2",
+      "descriptionAdvanced": "Kabwe, a korábbi Broken Hill, a Középponti Tartomány székhelye, gazdag ipari múlttal. 1921-ben itt találták meg az úgynevezett 'Broken Hill Man' koponyáját, amely az emberi evolúció egyik legjelentősebb lelete. Bár egykor ólom- és cinkbányászatáról volt híres, ma már fontos tranzitcsomópont az ország északi és déli részei között, emellett fontos adminisztratív központ a régió számára.",
+      "factsAdvanced": ["A Középponti Tartomány székhelye", "Az evolúciós 'Broken Hill Man' lelet (1921)", "Egykori ólom- és cinkbányászati központ", "Fontos országos tranzitcsomópont", "Magasság: kb. 1180 méter", "Kulcsfontosságú adminisztratív székhely"]
+    },
+    {
+      "id": "chingola-cities-v2",
+      "descriptionAdvanced": "Chingola a Copperbelt tartomány egyik meghatározó városa, amely a Nchanga Open Pit Mine-ról, a világ egyik legnagyobb külszíni rézbányájáról híres. A 20. század közepén gondos várostervezéssel épült ki, így az egyik legzöldebb és legrendezettebb településnek számít a bányászati régióban. Chingola gazdasága a mai napig szorosan kapcsolódik a bányászati termeléshez, jelentősen hozzájárulva Zambia rézexportjához.",
+      "factsAdvanced": ["A Nchanga Open Pit Mine otthona", "Copperbelt tartományi elhelyezkedés", "Gondos várostervezés és zöldövezetek", "Jelentős szerep Zambia rézexportjában", "Alapítva: 20. század közepe", "Fontos adminisztratív központ"]
+    },
+    {
+      "id": "mufulira-cities-v2",
+      "descriptionAdvanced": "Mufulira egy ipari város a Copperbeltben, amelynek fejlődését a Mufulira rézbánya alapozta meg. A város az 1930-as évektől gyorsan növekedett, mivel az itteni bánya évtizedeken át a világ legmélyebb és legtermelékenyebb bányái közé tartozott. A város kulturális identitása szorosan kapcsolódik az iparhoz, amit a híres 'Mufulira Wanderers' labdarúgóklub is képvisel, amely az egész országban elismert.",
+      "factsAdvanced": ["Főgazdaság: Mufulira rézbánya", "Régió: Copperbelt", "Alapítva: 1933", "Híres labdarúgóklub: Mufulira Wanderers", "Magasság: 1250 méter", "Jelentős ipari munkaadó"]
+    },
+    {
+      "id": "luanshya-cities-v2",
+      "descriptionAdvanced": "Luanshya a Copperbelt szívében fekszik, a Roan Antelope rézbánya köré épült a 20. század elején. Gondozott parkjai és kertvárosias stílusa miatt gyakran emlegetik 'Kertvárosnak'. Bár a város hosszú múltra tekint vissza a réztermelésben, a közelmúltban gazdaságát jelentősen diverzifikálta, miközben továbbra is a sambiai ipartörténet egyik fontos szimbóluma maradt, mindössze 30 kilométerre Ndolától.",
+      "factsAdvanced": ["'Kertvárosnak' becézett település", "A Roan Antelope-bánya otthona", "Alapítva: 1920-as évek", "Jelentős ipari központ a Copperbeltben", "Magasság: 1240 méter", "Fontos sambiai ipartörténeti szerep"]
+    },
+    {
+      "id": "livingstone-cities-v2",
+      "descriptionAdvanced": "Livingstone Zambia turisztikai központja, alig néhány kilométerre a lenyűgöző Viktória-vízeséstől. 1905-ös alapítása után több mint két évtizedig Észak-Rodézia fővárosa volt, mielőtt a kormányzati székhely átkerült volna Lusakába. A város számos gyarmati stílusú épületet őrzött meg, és gazdag kulturális örökséggel rendelkezik, amely szorosan összefonódik David Livingstone felfedező emlékével. Ma a kalandturizmus központja.",
+      "factsAdvanced": ["Zambia turisztikai fővárosa", "Közelség a Viktória-vízeséshez", "Észak-Rodézia egykori fővárosa", "Névadó: David Livingstone", "Kalandturisztikai központ", "Magasság: 980 méter"]
+    },
+    {
+      "id": "kasama-cities-v2",
+      "descriptionAdvanced": "Kasama az Északi Tartomány adminisztratív központja és a régió kereskedelmének egyik csomópontja. A város egy fennsíkon fekszik, és kiváló megközelíthetőséget biztosít a régió természeti csodáihoz, mint például a közeli Chishimba-vízeséshez. Mint regionális kereskedelmi központ, szorosan kötődik a mezőgazdasághoz, ahol az alapvető élelmiszerek termesztése kulcsfontosságú a lakosság ellátásában.",
+      "factsAdvanced": ["Az Északi Tartomány fővárosa", "A Chishimba-vízesés kapuja", "Régióbeli központi kereskedelmi csomópont", "Magasság: kb. 1350 méter", "Kiemelt adminisztratív szerep", "Az északi régió közlekedési csomópontja"]
+    },
+    {
+      "id": "chipata-cities-v2",
+      "descriptionAdvanced": "Chipata a Keleti Tartomány kereskedelmi és adminisztratív központja, közel a malawi határhoz. Fontos csomópont a mezőgazdasági kereskedelemben és a határokon átnyúló logisztikában. A város híres nyüzsgő központi piacáról, és az ország keleti részének egyik legfontosabb kereskedelmi kapuja. Gazdasága sokszínű, a mezőgazdasági feldolgozástól a kereskedelemig és a szállítási szolgáltatásokig terjed.",
+      "factsAdvanced": ["A Keleti Tartomány székhelye", "Közelség a malawi határhoz", "Mezőgazdasági kereskedelmi csomópont", "Kiemelt kiskereskedelmi és közlekedési szerep", "Híres központi piac", "Nemzetközi kereskedelmi kapu"]
+    }
+  ]
+}

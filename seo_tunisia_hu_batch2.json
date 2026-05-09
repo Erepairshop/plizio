@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dahar-plateau-relief-v2",
+      "descriptionAdvanced": "A Dahar-fennsík egy látványos, meredek és sziklás vidék Tunézia délkeleti részén, amely geológiailag és kulturálisan is az ország egyik legkülönlegesebb régiója. A fennsík nemcsak drámai kanyonjaival és holdbéli tájával vonzza a látogatókat, hanem hagyományos berber építészetével is, ahol a helyi lakosok a sziklákba vájt barlanglakásokban alakították ki otthonaikat, hogy védekezzenek a sivatagi hőség és a szélsőséges hőmérséklet-ingadozások ellen. Ez az egyedi életmód és az épített környezet az emberi alkalmazkodás kiváló példája. A Dahar-fennsík geológiai rétegei gazdagok jura időszaki fosszíliákban, ami tudományos szempontból is különlegessé teszi ezt az arid környezetet.",
+      "factsAdvanced": [
+        "A Dahar-fennsík természetes határvonalat képez a tengerpart és a Szahara között.",
+        "A régió barlanglakásairól és hagyományos berber építészetéről ismert.",
+        "Geológiailag gazdag jura időszaki fosszíliákban.",
+        "A táj mély kanyonokkal és széles, sziklás fennsíkokkal tagolt.",
+        "A terület a kulturális és ökoturizmus egyik központja Tunéziában.",
+        "A barlanglakások hatékony védelmet nyújtanak a szélsőséges hőség ellen.",
+        "A fennsík geológiai szerkezete kréta időszaki mészkőből és homokkőből áll."
+      ]
+    },
+    {
+      "id": "cap-bon-halbinsel-relief-v2",
+      "descriptionAdvanced": "A Cap Bon-félsziget Tunézia északkeleti részének egyik legkiemelkedőbb földrajzi egysége, amely messze a Földközi-tengerbe nyúlik, egyfajta stratégiai hidat képezve Afrika és Európa között. A félsziget domborzata enyhén hullámos, termékeny síkságokkal és lankás dombvidékekkel, ami kiváló feltételeket teremt a mezőgazdaság számára. Ez Tunézia egyik fő szőlő- és citrusgyümölcs-termelő régiója, ahol a mediterrán éghajlat a napfényes órák magas számával párosul. A félsziget partvonala változatos, sziklás öblökkel és homokos strandokkal szabdalt, emellett jelentős vonulási útvonal a madárvilág számára, mivel földrajzi elhelyezkedése miatt fontos pihenőhely a vándormadaraknak.",
+      "factsAdvanced": [
+        "Cap Bon körülbelül 140 kilométerre fekszik Szicíliától.",
+        "Ez a régió Tunézia egyik legjelentősebb citrus- és szőlőtermelő körzete.",
+        "A félsziget partvonala számos öböllel és homokos stranddal rendelkezik.",
+        "Földrajzi elhelyezkedése miatt fontos pihenőhely a vándorló madárfajoknak.",
+        "Több ókori régészeti lelőhely, például Kerkouane található a területén.",
+        "Az enyhe mediterrán éghajlat ideális az ültetvények számára.",
+        "A félsziget stratégiailag fontos kapocs a Földközi-tengeren."
+      ]
+    },
+    {
+      "id": "djebel-serj-relief-v2",
+      "descriptionAdvanced": "A Djebel Serj egy impozáns, meredek mészkőhegység Tunézia középső régiójában, amely az Atlasz-hegységrendszerhez tartozik. A hegység legfőbb geológiai nevezetessége az 'Aïn Dhab'-barlang, amely az ország egyik leghosszabb és legmélyebb barlangrendszere, és a hegymászók, valamint barlangászok számára is kiemelt jelentőséggel bír. A Djebel Serj meredek sziklafalaival és mély, tagolt kanyonjaival a táj meghatározó eleme, és különleges ökológiai menedéket nyújt a félszáraz környezethez alkalmazkodott növény- és állatfajok számára. A hegyvidéki domborzat számos kihívást jelentő túraútvonalat kínál, amelyekről panorámás kilátás nyílik a környékre.",
+      "factsAdvanced": [
+        "A Djebel Serj magassága meghaladja az 1300 métert.",
+        "Az 'Aïn Dhab'-barlang az ország egyik leghosszabb barlangrendszere.",
+        "A hegyvidék a középső Atlasz-hegység része.",
+        "Sűrű mészkőrétegei geológiailag komplex masszívumot alkotnak.",
+        "A hegység a félszáraz élővilág fontos menedékhelye.",
+        "A terület a túrázók és a barlangászok körében is népszerű.",
+        "Ökológiai szempontból jelentős és érintetlen hegyvidéki terület."
+      ]
+    },
+    {
+      "id": "gulf-von-gabes-relief-v2",
+      "descriptionAdvanced": "A Gabèsi-öböl egy hatalmas és sekély vizű öböl Tunézia keleti partvidékén, amely az ország egyik legfontosabb tengeri régiója. Különlegessége a rendkívül nagy árapály-különbség, amely a Földközi-tenger viszonylatában ritka jelenség, és évszázadok óta formálja a part menti tájat, kialakítva azokat a sajátos zátonyokat és sekély vizeket, amelyek gazdag halászati lehetőséget kínálnak. A Gabèsi-öbölhöz tartozik Tunézia legnagyobb szigete, Djerba is, amely történelmi és turisztikai szempontból is központi jelentőségű. Az öböl vizeinek hőmérséklete és sekélysége ideális élőhelyet biztosít a tengeri organizmusoknak, a part menti sós területek pedig a helyi ipar, különösen a foszfátfeldolgozás számára bírnak jelentőséggel.",
+      "factsAdvanced": [
+        "A Gabèsi-öbölben az árapály-különbség elérheti az egy métert.",
+        "Tunézia legfontosabb halászati és tengeri ipari régiója.",
+        "Djerba szigete az öböl északi részén helyezkedik el.",
+        "A sekély vizű területek gazdag tengeri élővilágnak adnak otthont.",
+        "A környék a foszfátfeldolgozó ipar központja.",
+        "Az öböl partvidéke homokos strandokban gazdag.",
+        "Földrajzi elhelyezkedése évszázadok óta meghatározza a tengeri kereskedelmet."
+      ]
+    },
+    {
+      "id": "djebel-orbata-relief-v2",
+      "descriptionAdvanced": "A Djebel Orbata egy impozáns, száraz hegyvonulat Gafsa régiójában, amely az Atlasz-hegység keleti ágainak szerves részét képezi. A hegyvidéki táj jellegzetessége a sziklás, kopár felszín, amelyet a hosszú időn át tartó szél- és vízerózió formált, egyedi geológiai szerkezetet hozva létre. A régió gazdasági jelentősége óriási, mivel a közelben található Tunézia legnagyobb foszfátkitermelő központja, amely a hegység geológiai rétegeivel van kapcsolatban. A Djebel Orbata fontos ökológiai folyosóként szolgál a régióban, ahol a növényzet a rendkívül száraz, sivatagi éghajlathoz alkalmazkodott fajokból áll, emellett a hegység meredek gerincei a környék tájékozódási pontjai.",
+      "factsAdvanced": [
+        "A Djebel Orbata a keleti Atlasz-hegység része.",
+        "A régió szoros kapcsolatban áll a tunéziai foszfátbányászattal.",
+        "A hegyvidéki táj rendkívül arid és kopár.",
+        "A hegység fontos ökológiai folyosó a régióban.",
+        "Felszínét hosszú ideig tartó eróziós folyamatok formálták.",
+        "Gafsa városának közelében helyezkedik el.",
+        "A gerincek magassága és formája fontos tájékozódási pont."
+      ]
+    }
+  ]
+}

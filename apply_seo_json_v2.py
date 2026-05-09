@@ -1,69 +1,105 @@
-import json
-import re
-import sys
 
-def apply_seo(ts_file, json_file):
-    with open(json_file, 'r', encoding='utf-8') as f:
+import json
+import sys
+import os
+import re
+
+def main():
+    if len(sys.argv) < 2:
+        print("Usage: python apply_seo_json_v2.py <json_file>")
+        sys.exit(1)
+
+    json_file_path = sys.argv[1]
+    if not os.path.exists(json_file_path):
+        print(f"Error: JSON file not found at {json_file_path}")
+        sys.exit(1)
+
+    with open(json_file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    with open(ts_file, 'r', encoding='utf-8') as f:
-        content = f.read()
+    project_root = r'C:/Users/User/plizio-repo'
+    files_to_update = data.get("files", [])
+    
+    for file_path_suffix in files_to_update:
+        file_path = os.path.join(project_root, file_path_suffix).replace('/', os.sep)
+        if not os.path.exists(file_path):
+            print(f"Warning: File not found, skipping: {file_path}")
+            continue
 
-    # The json structure is { "items": [...] }
-    items = data['items']
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
 
-    for item in items:
-        poi_id = item['id']
-        
-        # Match the specific POI object
-        pattern = re.compile(
-            r'(id:\s*"' + re.escape(poi_id) + r'".*?facts:\s*\{.*?\})', 
-            re.DOTALL
-        )
-        
-        def replacer(match):
-            block = match.group(1)
-            # If already has descriptionAdvanced, skip
-            if "descriptionAdvanced" in block:
-                return block
+        for item in data.get("items", []):
+            poi_id = item.get("id")
+            if not poi_id:
+                continue
+            
+            poi_regex = re.compile(r"{\s*id:\s*"" + re.escape(poi_id) + r""[\s\S]*?}(?=\s*,\s*|(?:\s*]))", re.DOTALL)
+            match = poi_regex.search(content)
+
+            if not match:
+                print(f"Warning: POI with id '{poi_id}' not found in {file_path}")
+                continue
+
+            poi_text = match.group(0)
+            
+            new_poi_text = poi_text.rstrip().rstrip('}').rstrip()
+            
+            if "descriptionAdvancedDe" in item:
+                desc_de = json.dumps(item["descriptionAdvancedDe"], ensure_ascii=False)
+                desc_hu = json.dumps(item["descriptionAdvancedHu"], ensure_ascii=False)
+                desc_ro = json.dumps(item["descriptionAdvancedRo"], ensure_ascii=False)
+                desc_en = json.dumps(item["descriptionAdvancedEn"], ensure_ascii=False)
                 
-            # Helper to escape for JS strings
-            def esc(s):
-                return s.replace('"', '\\"').replace('`', '')
-            
-            desc_de = esc(item['descriptionAdvanced']['de'])
-            desc_hu = esc(item['descriptionAdvanced']['hu'])
-            desc_ro = esc(item['descriptionAdvanced']['ro'])
-            desc_en = esc(item['descriptionAdvanced']['en'])
-            
-            f_de = ", ".join([f'"{esc(f)}"' for f in item['factsAdvanced']['de']])
-            f_hu = ", ".join([f'"{esc(f)}"' for f in item['factsAdvanced']['hu']])
-            f_ro = ", ".join([f'"{esc(f)}"' for f in item['factsAdvanced']['ro']])
-            f_en = ", ".join([f'"{esc(f)}"' for f in item['factsAdvanced']['en']])
-            
-            addition = f""",
-    descriptionAdvanced: {{
-      de: "{desc_de}",
-      hu: "{desc_hu}",
-      ro: "{desc_ro}",
-      en: "{desc_en}"
-    }},
-    factsAdvanced: {{
-      de: [{f_de}],
-      hu: [{f_hu}],
-      ro: [{f_ro}],
-      en: [{f_en}]
-    }}"""
-            return block + addition
+                desc_block = "descriptionAdvanced: {
+" + 
+                             "      de: " + desc_de + ",
+" + 
+                             "      hu: " + desc_hu + ",
+" + 
+                             "      ro: " + desc_ro + ",
+" + 
+                             "      en: " + desc_en + "
+" + 
+                             "    }"
 
-        content, count = pattern.subn(replacer, content, count=1)
-        if count == 0:
-            print(f"Warning: Could not update {poi_id}")
-        else:
-            print(f"Updated {poi_id}")
+                if "descriptionAdvanced:" in new_poi_text:
+                     new_poi_text = re.sub(r"descriptionAdvanced:\s*\{[\s\S]*?\}", desc_block, new_poi_text, flags=re.DOTALL)
+                else:
+                    new_poi_text += ",
+    " + desc_block
 
-    with open(ts_file, 'w', encoding='utf-8') as f:
-        f.write(content)
+            if "factsAdvanced" in item:
+                facts_de = json.dumps(item["factsAdvanced"], ensure_ascii=False)
+                facts_hu = json.dumps(item.get("factsAdvancedHu", item["factsAdvanced"]), ensure_ascii=False)
+                facts_ro = json.dumps(item.get("factsAdvancedRo", item["factsAdvanced"]), ensure_ascii=False)
+                facts_en = json.dumps(item.get("factsAdvancedEn", item["factsAdvanced"]), ensure_ascii=False)
+
+                facts_block = "factsAdvanced: {
+" + 
+                              "      de: " + facts_de + ",
+" + 
+                              "      hu: " + facts_hu + ",
+" + 
+                              "      ro: " + facts_ro + ",
+" + 
+                              "      en: " + facts_en + "
+" + 
+                              "    }"
+
+                if "factsAdvanced:" in new_poi_text:
+                    new_poi_text = re.sub(r"factsAdvanced:\s*\{[\s\S]*?\}", facts_block, new_poi_text, flags=re.DOTALL)
+                else:
+                    new_poi_text += ",
+    " + facts_block
+
+            new_poi_text += "
+  }"
+            content = content.replace(poi_text, new_poi_text)
+            print(f"Updated POI '{poi_id}' in {file_path}")
+
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(content)
 
 if __name__ == "__main__":
-    apply_seo(sys.argv[1], sys.argv[2])
+    main()

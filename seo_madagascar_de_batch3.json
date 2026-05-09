@@ -2,308 +2,287 @@
   "lang": "de",
   "country": "madagascar",
   "files": [
-    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
-    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts"
   ],
   "items": [
     {
-      "id": "bekily-cities-v2",
-      "descriptionAdvanced": "Bekily ist eine Stadt in der trockenen Region Androy im Süden Madagaskars. Die Gegend ist durch unregelmäßige Regenfälle geprägt und anfällig für Dürren. Landwirtschaftlich ist die Umgebung für den Anbau von Baumwolle, Erdnüssen und Cassava bekannt, auch wenn die Erträge stark schwanken. Wie in vielen Teilen des Südens spielt die Haltung von Zebu-Rindern eine zentrale wirtschaftliche und kulturelle Rolle für die lokale Antandroy-Bevölkerung. Die Infrastruktur um Bekily ist schwach entwickelt, was den Handel erschwert. Geografie K5 — Trockenfeldbau und Infrastruktur.",
+      "id": "antananarivo-cities-v2",
+      "descriptionAdvanced": "Antananarivo, die pulsierende Hauptstadt Madagaskars, liegt auf einer beeindruckenden Höhe von 1.280 Metern im zentralen Hochland der Insel. Die im Jahr 1610 von König Andrianjaka gegründete Stadt erstreckt sich über zwölf geschichtsträchtige Hügel, was ihr ein unverwechselbares, vertikales Stadtbild verleiht. Als politisches, wirtschaftliches und kulturelles Herz der Nation verbindet 'Tana' traditionelle madagassische Architektur mit prachtvollen Gebäuden aus der französischen Kolonialzeit. Die Stadt ist geprägt von terrassierten Reisfeldern, die bis tief in das urbane Zentrum reichen, und wird vom majestätischen Rova-Palastkomplex überragt. Antananarivo ist nicht nur der Sitz der Regierung, sondern auch das logistische Zentrum des Landes, in dem alle großen Verkehrsachsen und Handelswege zusammenlaufen. Geografie K6 — Hauptstadtgeografie und Hochlandtopographie.",
       "factsAdvanced": [
-        "Gelegen in der extrem trockenen Region Androy im Süden",
-        "Wirtschaft basiert auf Zebu-Zucht und kargem Ackerbau",
-        "Traditionelles Anbaugebiet für Erdnüsse und Baumwolle",
-        "Regelmäßig von schweren Dürren und Wasserknappheit betroffen",
-        "Bevölkerung gehört mehrheitlich zur ethnischen Gruppe der Antandroy",
-        "Leidet unter starker Isolation durch schlechte Straßen (RN13)"
+        "Größte Stadt Madagaskars und administratives Zentrum seit dem frühen 17. Jahrhundert",
+        "Gelegen auf 1.280 m Höhe, was ein milderes Klima als an der Küste ermöglicht",
+        "Ursprünglich auf zwölf heiligen Hügeln der Merina-Aristokratie erbaut",
+        "Beherbergt den Anosy-See, einen markanten künstlichen See in Herzform",
+        "Wirtschaftliches Zentrum, das fast 50% des industriellen Outputs des Landes generiert",
+        "Sitz der Universität von Antananarivo, der ältesten Hochschule der Insel",
+        "Die Stadtplanung ist durch steile Gassen und hunderte Treppenaufgänge geprägt",
+        "Ivato International Airport ist das primäre Luftverkehrsdrehkreuz Madagaskars"
       ]
     },
     {
-      "id": "kandreho-cities-v2",
-      "descriptionAdvanced": "Kandreho ist eine der isoliertesten Kleinstädte Madagaskars, tief in der Region Betsiboka im zentralen Westen gelegen. Die Region ist geologisch komplex und von ausgedehnten Savannen sowie unwegsamen Hügelketten geprägt. Der Ort ist auf dem Landweg extrem schwer erreichbar, besonders während der Regenzeit. Die lokale Wirtschaft stützt sich auf Subsistenzwirtschaft, primär den Anbau von Reis und Maniok, sowie auf ausgedehnte Rinderweidewirtschaft. Die Abgeschiedenheit schützt zwar die lokale Kultur, behindert jedoch die wirtschaftliche Entwicklung massiv. Geografie K5 — Isolation und Subsistenzwirtschaft.",
+      "id": "toamasina-cities-v2",
+      "descriptionAdvanced": "Toamasina, an der regenreichen Ostküste Madagaskars gelegen, ist der bei Weitem wichtigste Seehafen und das ökonomische Tor der Insel zum Weltmarkt. Die Stadt, deren Name 'Es ist salzig' bedeutet, zeichnet sich durch ihre breiten, von Palmen gesäumten Boulevards und ihre verfallenden kolonialen Prachtbauten aus. Toamasina ist das Ende der strategisch wichtigen Nationalstraße 2 und der Eisenbahnlinie aus dem Hochland, was sie zum primären Umschlagplatz für Exporte wie Vanille, Kaffee, Nelken und Nickel macht. Das Stadtbild ist geprägt von einer entspannten Küstenatmosphäre, die jedoch oft von schweren tropischen Zyklonen herausgefordert wird. Mit ihrem autonomen Tiefseehafen ist Toamasina das logistische Rückgrat Madagaskars und ein Schmelztiegel aus verschiedenen ethnischen Gruppen und internationalen Händlern. Wirtschaft K7 — Hafenlogistik und globaler Warenhandel.",
       "factsAdvanced": [
-        "Gilt als einer der abgelegensten Distrikte Madagaskars",
-        "Gelegen in der dünn besiedelten Region Betsiboka",
-        "Auf dem Landweg während der Regenzeit fast unerreichbar",
-        "Wirtschaft stützt sich auf Subsistenzlandwirtschaft und Zebu-Zucht",
-        "Landschaft dominiert von weiten Savannen und Hügeln",
-        "Fehlende Infrastruktur hemmt die lokale Entwicklung stark"
+        "Wichtigster Handelshafen Madagaskars mit dem höchsten Güterumschlag",
+        "Ehemalige Hauptstadt der Provinz Tamatave an der Küste des Indischen Ozeans",
+        "Strategischer Endpunkt der Eisenbahnstrecke Tananarive-Côte Est (TCE)",
+        "Zentrum für die Verarbeitung und den Export von Vanille und Gewürznelken",
+        "Die Stadt wurde nach verheerenden Zyklonen mehrfach großflächig neu geplant",
+        "Beherbergt den Sitz der Betimisaraka-Kultur, der zweitgrößten Volksgruppe der Insel",
+        "Der Pangalanes-Kanal beginnt unmittelbar südlich des Stadtzentrums",
+        "Wichtiger Standort für Ölraffinerien und die Aufbereitung von Bergbauprodukten"
       ]
     },
     {
-      "id": "antsalova-cities-v2",
-      "descriptionAdvanced": "Antsalova ist eine isolierte Ortschaft in der Region Melaky im Westen Madagaskars. Die Stadt ist vor allem als südlicher Zugangspunkt zu den weltberühmten Tsingy de Bemaraha bekannt, einem UNESCO-Weltnaturerbe aus messerscharfen Kalksteinformationen. Umgeben von trockenen Laubwäldern und Savannen, lebt die lokale Sakalava-Bevölkerung hauptsächlich von der Zebu-Rinderzucht. Die unzugängliche Natur der Region macht Antsalova zu einem faszinierenden, wenn auch infrastrukturell sehr schwachen Außenposten an der Westküste. Geografie K6 — Karstlandschaften und Naturschutz.",
+      "id": "antsirabe-cities-v2",
+      "descriptionAdvanced": "Antsirabe, oft als das 'Vichy von Madagaskar' bezeichnet, liegt im kühlen zentralen Hochland auf rund 1.500 Metern Höhe. Die Stadt ist berühmt für ihre zahlreichen Thermalquellen und ihr europäisch anmutendes Flair, das auf norwegische Missionare und die französische Kolonialzeit zurückgeht. Das Stadtbild ist einzigartig durch die tausenden farbenfrohen 'Pousse-Pousse' (Laufrikschas), die das primäre Transportmittel in den breiten, baumbestandenen Straßen darstellen. Antsirabe ist zudem das industrielle Zentrum Madagaskars, beherbergt die größten Brauereien, Textilfabriken und Getreidemühlen des Landes. Die fruchtbare vulkanische Umgebung macht die Region zur Kornkammer der Insel, in der Kartoffeln, Äpfel und Getreide in großen Mengen angebaut werden. Die Stadt verbindet Erholung, Industrie und Landwirtschaft in einer für die Insel außergewöhnlichen Weise. Geografie K6 — Industriestandorte und Thermalregionen.",
       "factsAdvanced": [
-        "Südlicher Zugang zum UNESCO-Weltnaturerbe Tsingy de Bemaraha",
-        "Gelegen in der Region Melaky im Westen Madagaskars",
-        "Umgebung ist durch Savannen und Trockenwälder geprägt",
-        "Einwohner sind hauptsächlich Sakalava-Rinderzüchter",
-        "Infrastruktur und Straßen sind extrem schlecht ausgebaut",
-        "Tourismuspotenzial ist hoch, aber schwer zu erschließen"
+        "Drittgrößte Stadt Madagaskars und Zentrum der Region Vakinankaratra",
+        "Bekannt für die höchste Dichte an Laufrikschas (Pousse-Pousse) auf der Insel",
+        " थर्मल-Kurort mit dem historischen Hôtel des Thermes aus dem Jahr 1897",
+        "Zentrum des madagassischen Edelsteinhandels und der Lapidarkunst",
+        "Sitz der Star Brewery, die das berühmte Nationalbier THB produziert",
+        "Liegt in einer vulkanisch aktiven Zone mit zahlreichen Kraterseen in der Nähe",
+        "Wichtigster Standort für die madagassische Milch- und Agrarwirtschaft",
+        "Die Stadt wurde 1872 durch norwegische Missionare als Heilbad gegründet"
       ]
     },
     {
-      "id": "befandriana-avaratra-cities-v2",
-      "descriptionAdvanced": "Befandriana-Avaratra (Befandriana Nord) ist eine geschäftige Stadt in der Region Sofia im Norden Madagaskars. Die Region ist landwirtschaftlich sehr produktiv, da das Klima warm ist und ausreichend Niederschlag für den Anbau von Reis, Tabak und Kaffee bietet. Die Stadt fungiert als wichtiges Handelszentrum für die umliegenden ländlichen Gebiete. Trotz ihres agrarischen Reichtums kämpft die Region mit infrastrukturellen Problemen und gelegentlichen Sicherheitsbedenken durch Viehdiebstahl. Wirtschaft K6 — Agrarhandel und Sicherheit.",
+      "id": "fianarantsoa-cities-v2",
+      "descriptionAdvanced": "Fianarantsoa gilt als das intellektuelle und kulturelle Zentrum der Betsileo-Region im südlichen Hochland. Die Stadt wurde 1830 von Königin Ranavalona I. gegründet und ist terrassenförmig in drei Ebenen gegliedert: die historische Haute-Ville, die moderne Mittelstadt und die geschäftige Unterstadt. Fianarantsoa ist weltberühmt für seinen Weinbau, wobei die umliegenden Weinberge auf den steilen Hängen die Grundlage für Madagaskars einzige Weinindustrie bilden. Zudem ist die Stadt ein wichtiger Knotenpunkt für den Schienenverkehr, da hier die legendäre FCE-Bahn startet, die das Hochland mit der Ostküste verbindet. Mit ihren zahlreichen Kirchen, Schulen und Universitäten hat sich die Stadt den Ruf als 'Ort, an dem man Gutes lernt' bewahrt. Die Architektur der Altstadt gehört zu den am besten erhaltenen historischen Ensembles der Insel. Geschichte K7 — Regionale Bildungszentren und Stadtentwicklung.",
       "factsAdvanced": [
-        "Wichtiges landwirtschaftliches Zentrum in der Region Sofia",
-        "Bedeutender Produzent von Reis, Tabak und Kaffee",
-        "Liegt auf einer strategischen Kreuzung lokaler Handelswege",
-        "Klima begünstigt eine sehr produktive Landwirtschaft",
-        "Region ist gelegentlich von Rinderdiebstahl (Dahalo) betroffen",
-        "Verfügt über ein eigenes kleines lokales Flugfeld"
+        "Historische Hauptstadt des Betsileo-Volkes im südlichen Hochland",
+        "Erbaut auf einem steilen Hügel nach dem Vorbild von Antananarivo",
+        "Einziger Standort einer nennenswerten Weinproduktion auf Madagaskar",
+        "Ausgangspunkt der Eisenbahnlinie Fianarantsoa-Côte Est (FCE) nach Manakara",
+        "Die Haute-Ville wurde vom World Monuments Fund als gefährdetes Erbe gelistet",
+        "Bildet das katholische Zentrum des Landes mit einer hohen Dichte an Klöstern",
+        "Wichtiger Marktort für Tee aus den nahegelegenen Sahambavy-Plantagen",
+        "Zweitgrößtes Bildungszentrum der Insel nach der Hauptstadt"
       ]
     },
     {
-      "id": "tsihombe-cities-v2",
-      "descriptionAdvanced": "Tsihombe liegt im tiefen Süden Madagaskars an der Küste der Region Androy, an der Mündung des Manambovo-Flusses. Es ist eine der trockensten, kargsten und ärmsten Regionen des Landes, in der die Landwirtschaft extremen Bedingungen ausgesetzt ist. Die lokale Antandroy-Bevölkerung überlebt durch den Anbau hitzeresistenter Pflanzen wie Maniok und Süßkartoffeln sowie durch die Fischerei am Indischen Ozean. Historisch und kulturell ist Tsihombe ein Zentrum für komplexe Beerdigungsrituale und imposante Steingräber. Anthropologie K7 — Wüstenleben und Totenkult.",
+      "id": "mahajanga-cities-v2",
+      "descriptionAdvanced": "Mahajanga, an der Nordwestküste am Kanal von Mosambik gelegen, ist eine sonnenverwöhnte Hafenstadt mit einem tiefen multikulturellen Erbe. Als ehemalige Hauptstadt des Sakalava-Königreichs Boina war die Stadt jahrhundertelang ein Knotenpunkt für arabische, indische und afrikanische Händler. Das Stadtbild wird durch die berühmte Promenade 'Le Bord' und den riesigen, über 700 Jahre alten Baobab-Baum im Zentrum geprägt. Mahajanga ist ein bedeutender Exporthafen für Agrarprodukte aus dem Hinterland, leidet jedoch unter der massiven Verschlammung durch den Betsiboka-Fluss. Das Klima ist heiß und trocken, was die Stadt zu einem beliebten Ziel für Inlandstouristen macht. Die Mischung aus islamischen Traditionen, kolonialen Überresten und modernem Hafenleben verleiht Mahajanga eine einzigartige, kosmopolitische Atmosphäre, die sich von den Städten des Hochlands deutlich abhebt. Geografie K7 — Küstenstädte und Handelsgeschichte.",
       "factsAdvanced": [
-        "Gelegen an der extrem trockenen Küste der Androy-Region",
-        "Liegt nahe der Mündung des Trockenflusses Manambovo",
-        "Eine der am stärksten von der Kere (Hungersnot) betroffenen Zonen",
-        "Zentrum der Antandroy-Kultur mit einzigartigen Steingräbern",
-        "Fischerei an der Küste ergänzt die karge Landwirtschaft",
-        "Pflanzenwelt wird von endemischen Dornenbüschen dominiert"
+        "Zweitwichtigster Seehafen Madagaskars an der Mündung des Betsiboka",
+        "Ikonisches Wahrzeichen ist ein monumentaler Baobab mit 21 Metern Umfang",
+        "Strategischer Standort für die Shrimps-Industrie und den Rinderhandel",
+        "Die Architektur der Altstadt zeigt starke indische und arabische Einflüsse",
+        "War historisch das Zentrum des Sklavenhandels an der Westküste",
+        "Die Küstenregion ist durch rote Sandsteinfelsen und Mangroven geprägt",
+        "Wichtiger Ausgangspunkt für Reisen zum Ankarafantsika-Nationalpark",
+        "Die Stadt verfügt über einen eigenen internationalen Flughafen (Amborovy)"
       ]
     },
     {
-      "id": "mananjary-cities-v2",
-      "descriptionAdvanced": "Mananjary ist eine bedeutende Küstenstadt in der Region Vatovavy an der südöstlichen Küste Madagaskars. Die Stadt ist durch den Canal des Pangalanes mit Toamasina im Norden verbunden. Das feuchte, tropische Klima macht Mananjary zu einem idealen Ort für den Anbau von Gewürzen, insbesondere Pfeffer, Nelken, Vanille und Kaffee. Die Stadt war während der französischen Kolonialzeit ein wohlhabendes Plantagenzentrum, wovon heute noch einige historische Gebäude zeugen. Alle sieben Jahre findet hier ein großes Beschneidungsritual der Antambahoaka statt. Wirtschaft K7 — Gewürzplantagen und Kanäle.",
+      "id": "toliara-cities-v2",
+      "descriptionAdvanced": "Toliara, gelegen im äußersten Südwesten Madagaskars, ist die Stadt des Lichts und der Hitze. Als wichtigster Hafen des tiefen Südens dient sie als logistisches Zentrum für eine der ärmsten und trockensten Regionen der Insel. Die Stadt ist geprägt von breiten, sandigen Straßen und einer Architektur, die auf den General Gallieni zurückgeht, der die Stadt 1895 streng geometrisch anlegte. Toliara ist das Zentrum der Vezo-Kultur, eines Volkes von Seenomaden, deren Pirogen das Bild der Küste prägen. In der Umgebung finden sich einzigartige Dornwälder und spektakuläre Korallenzriffe, die die Stadt vor der Brandung des Indischen Ozeans schützen. Wirtschaftlich lebt die Stadt vom Export von Sisal, Salz und Baumwolle sowie vom Tourismus in Richtung der nahegelegenen Badeorte Anakao und Ifaty. Toliara markiert das Ende der Nationalstraße 7 und ist das Tor zur Wildnis des Südens. Geografie K6 — Trockengebiete und Küstenkulturen.",
       "factsAdvanced": [
-        "Wichtige Station am historischen Canal des Pangalanes",
-        "Zentrum des Anbaus von Gewürznelken, Pfeffer und Kaffee",
-        "Kulturelles Herz der Antambahoaka-Volksgruppe",
-        "Ort des bedeutenden rituellen Sambatra-Festes (alle 7 Jahre)",
-        "Oft verheerenden Zyklonen aus dem Indischen Ozean ausgesetzt",
-        "Einstiges reiches Zentrum der französischen Plantagenwirtschaft"
+        "Haupthafen der Region Atsimo-Andrefana am Kanal von Mosambik",
+        "Wurde 1895 von den Franzosen als administratives Zentrum im Süden gegründet",
+        "Zentrum für die Meeresforschung durch das renommierte Institut IHSM",
+        "Lage an einem der größten Korallenriff-Systeme der Welt (Great Reef)",
+        "Wichtigster Exporthafen für Sisal aus den Plantagen des Mandrare-Tals",
+        "Die Stadt ist bekannt für ihr extrem trockenes Klima und die intensive Sonneneinstrahlung",
+        "Kulturelles Zentrum der Vezo-Fischer und der pastoralen Masikoro",
+        "Endpunkt der Route Nationale 7, der wichtigsten Touristenroute des Landes"
       ]
     },
     {
-      "id": "port-bergé-cities-v2",
-      "descriptionAdvanced": "Port-Bergé, heute offiziell Boriziny genannt, ist eine Stadt in der Region Sofia im Nordwesten Madagaskars. Die Stadt ist ein wichtiger Knotenpunkt an der Nationalstraße 6 (RN6), die in den tiefen Norden nach Antsiranana führt. Die umliegende weite Ebene im Einzugsgebiet des Sofia-Flusses wird intensiv für den Anbau von Baumwolle, Tabak und Reis genutzt. Aufgrund ihrer Lage an der Hauptverkehrsachse hat sich die Stadt zu einem lebhaften Handelszentrum entwickelt. Geografie K5 — Verkehrswege und Flussebenen.",
+      "id": "antsiranana-cities-v2",
+      "descriptionAdvanced": "Antsiranana, früher unter dem Namen Diego-Suarez bekannt, liegt an der nördlichsten Spitze Madagaskars in einer der weltweit größten und schönsten natürlichen Buchten. Die Stadt hat eine tief verwurzelte maritime Geschichte und diente jahrzehntelang als strategischer Stützpunkt für die französische Marine. Das Stadtbild ist geprägt von kolonialen Arkaden, alten Werften und einer entspannten, fast mediterranen Atmosphäre. Aufgrund ihrer isolierten Lage im Norden hat Antsiranana eine sehr eigenständige Identität bewahrt, die stark durch komorische, jemenitische und somalische Einflüsse geprägt ist. Die Stadt ist der Ausgangspunkt für Expeditionen zum Amber Mountain Nationalpark und zu den bizarren Ankarana-Tsingy. Antsiranana ist nicht nur ein Hafen, sondern auch ein Zentrum für Schiffbau und Fischverarbeitung, das trotz der schwierigen Straßenanbindung eine vitale wirtschaftliche Rolle spielt. Geografie K7 — Marinestützpunkte und natürliche Buchten.",
       "factsAdvanced": [
-        "Offizieller malagassischer Name der Stadt ist Boriziny",
-        "Wichtiger Transitort an der Hauptstraße RN6 in den Norden",
-        "Liegt im fruchtbaren Einzugsgebiet des Sofia-Flusses",
-        "Bedeutendes Zentrum für den Anbau von Baumwolle und Tabak",
-        "Dient als Handelszentrum für landwirtschaftliche Güter",
-        "Klima ist typisch für den warmen, feucht-trockenen Nordwesten"
+        "Besitzt die drittgrößte natürliche Bucht der Welt (nach Rio und Sydney)",
+        "Hieß bis 1975 offiziell Diego-Suarez, nach einem portugiesischen Entdecker",
+        "Wichtigster Stützpunkt für die Thunfischfangflotten im Indischen Ozean",
+        "Standort der SECREN-Werft, dem größten Schiffbaubetrieb Madagaskars",
+        "Die Region ist berühmt für den 'Zuckerhut' (Le Pain de Sucre), eine Insel in der Bucht",
+        "Historisch Schauplatz schwerer Kämpfe im Zweiten Weltkrieg (1942)",
+        "Gilt als eine der sichersten und am besten organisierten Städte Madagaskars",
+        "Dient als Tor zur Smaragdbucht und den 'Drei Buchten' im Osten"
       ]
     },
     {
-      "id": "sakaraha-cities-v2",
-      "descriptionAdvanced": "Sakaraha liegt im trockenen Südwesten Madagaskars in der Region Atsimo-Andrefana. Die Stadt erlebte in den späten 1990er Jahren einen massiven Boom, als in den nahegelegenen Flüssen der Ilakaka-Region reiche Saphirvorkommen entdeckt wurden. Dies lockte Tausende von Schürfern und internationalen Edelsteinhändlern an. Neben dem Bergbau ist Sakaraha ein wichtiges Zentrum der Mahafaly- und Bara-Volksgruppen, die in den weiten Savannen große Zebu-Herden züchten. In der Nähe liegt der Zombitse-Vohibasia-Nationalpark. Wirtschaft K7 — Edelsteinrausch und Naturschutz.",
+      "id": "antanifotsy-cities-v2",
+      "descriptionAdvanced": "Antanifotsy, eine bedeutende Stadt im zentralen Hochland südlich von Antsirabe, ist das Herz einer der produktivsten Agrarregionen Madagaskars. Der Name bedeutet 'Dort, wo die Erde weiß ist', was auf die kalkhaltigen Böden und die intensive landwirtschaftliche Nutzung hindeutet. Die Stadt liegt im Schatten des Ankaratra-Massivs und profitiert von einem kühlen, feuchten Klima, das ideal für den Anbau von Getreide, Mais und vor allem Kartoffeln ist. Antanifotsy ist ein klassischer Marktort, an dem hunderte Bauern aus dem Umland ihre Produkte für den Transport in die Hauptstadt anbieten. Die Architektur ist durch die typischen roten Ziegelhäuser des Hochlandes geprägt, die eng aneinandergefügt die fruchtbaren Täler säumen. Die Stadt ist ein Beispiel für die Widerstandsfähigkeit und den Fleiß der Merina-Bauern, die hier seit Generationen ein komplexes System der Terrassenwirtschaft betreiben. Geografie K5 — Agrarlandschaften und Hochlandwirtschaft.",
       "factsAdvanced": [
-        "Gelegen in der Region Atsimo-Andrefana an der RN7",
-        "Erlebte ab 1998 einen massiven Boom durch Saphirfunde (Ilakaka)",
-        "Wichtiger Umschlagplatz im madagassischen Edelsteinhandel",
-        "Ausgangspunkt zum Zombitse-Vohibasia-Nationalpark",
-        "Traditionelles Siedlungsgebiet der Rinder züchtenden Bara und Mahafaly",
-        "Umgebung ist durch weite, offene Graslandschaften geprägt"
+        "Wichtiger Markt- und Transitort an der Nationalstraße 7 südlich von Ambatolampy",
+        "Eines der Zentren der madagassischen Kartoffel- und Getreideproduktion",
+        "Die Region ist durch intensive kleinbäuerliche Terrassenlandwirtschaft geprägt",
+        "Liegt im Einzugsgebiet des Onive-Flusses, der für Bewässerung sorgt",
+        "Bevolkerung besteht primär aus der Volksgruppe der Merina",
+        "Traditioneller Standort für Handwerkskunst aus Holz und Korbweide",
+        "Das kühle Hochlandklima ermöglicht den Anbau von Obstsorten wie Äpfeln",
+        "Wichtiger Versorgungsstützpunkt für Reisende zwischen Antananarivo und Antsirabe"
       ]
     },
     {
-      "id": "ambatovy-mine-economic-v2",
-      "descriptionAdvanced": "Die Ambatovy-Mine in der Nähe von Moramanga (Region Alaotra-Mangoro) ist das größte Industrieprojekt in der Geschichte Madagaskars. Es handelt sich um eine riesige Nickel- und Kobaltmine, die zu den weltweit größten Laterit-Nickel-Vorkommen zählt. Das geförderte Erz wird als Schlamm durch eine fast 350 Kilometer lange Pipeline zur Aufbereitungsanlage am Hafen von Toamasina gepumpt. Das Projekt hat massive wirtschaftliche Bedeutung, ist jedoch wegen seiner Auswirkungen auf die extrem biodiversen Regenwälder der Region umstritten. Wirtschaft K8 — Großbergbau und Umweltkonflikte.",
+      "id": "ambovombe-cities-v2",
+      "descriptionAdvanced": "Ambovombe-Androy ist die Hauptstadt der Androy-Region im tiefen Süden Madagaskars und gilt als eines der herausforderndsten Siedlungsgebiete der Insel. Inmitten einer trockenen, dornigen Savanne gelegen, ist die Stadt das Zentrum des Antandroy-Volkes, das für seine Kriegertradition und seine rituellen Gesänge bekannt ist. Ambovombe ist der Knotenpunkt zwischen den Nationalstraßen 10 und 13, bleibt aber aufgrund mangelnder Infrastruktur oft isoliert. Die Stadt ist das Epizentrum der periodisch auftretenden Dürreperioden (Kere), was sie zu einem wichtigen Stützpunkt für internationale Hilfsorganisationen macht. Trotz der harten Bedingungen ist Ambovombe ein pulsierender Ort des Viehhandels, an dem tausende Zebus verkauft und in den Norden transportiert werden. Die Stadt verkörpert die extreme Anpassung des Menschen an ein semi-arides Klima und die Stolz der südmadagassischen Kulturen. Geografie K7 — Trockengebiete und Nomadismus.",
       "factsAdvanced": [
-        "Größte Industrieinvestition in der Geschichte Madagaskars",
-        "Gehört zu den weltgrößten Förderern von Nickel und Kobalt",
-        "Erz wird über eine 348 km lange Pipeline nach Toamasina gepumpt",
-        "Investitionsvolumen betrug über 8 Milliarden US-Dollar",
-        "Stark reguliert durch strenge Umweltauflagen wegen Biodiversität",
-        "Bedeutender Devisenbringer und Arbeitgeber des Landes"
+        "Zentraler Ort des Antandroy-Volkes ('Leute aus den Dornen')",
+        "Wichtigster Markt für Zebu-Rinder im äußersten Süden der Insel",
+        "Lage im Einzugsgebiet des Mandrare-Flusses, der oft austrocknet",
+        "Region ist berühmt für ihre monumentalen Steingräber mit Malereien",
+        "Epizentrum der Nahrungsmittelunsicherheit aufgrund extremer Trockenheit",
+        "Zentrum für den Anbau von Sisal-Agaven, die für Fasern genutzt werden",
+        "Die Stadt besitzt eine strategische Rolle als Tor zum Faux Cap",
+        "Das Umland ist von der einzigartigen 'Dornenwald'-Vegetation geprägt"
       ]
     },
     {
-      "id": "toamasina-port-economic-v2",
-      "descriptionAdvanced": "Der autonome Hafen von Toamasina an der Ostküste ist der bei Weitem wichtigste Seehafen Madagaskars. Über diesen Tiefwasserhafen werden etwa 80 Prozent des gesamten internationalen Seehandels des Landes abgewickelt, darunter Exporte von Kaffee, Vanille, Nelken und Nickel sowie der Großteil der Importgüter. Der Hafen wurde in den letzten Jahren mit internationaler (insbesondere japanischer) Hilfe massiv erweitert und modernisiert. Er ist das wirtschaftliche Rückgrat der Nation und durch die RN2 direkt mit der Hauptstadt verbunden. Wirtschaft K7 — Globale Logistik und Seehandel.",
+      "id": "amparafaravola-cities-v2",
+      "descriptionAdvanced": "Amparafaravola liegt am westlichen Rand des Alaotra-Sees und ist einer der produktivsten Reisproduzenten Madagaskars. Die Stadt ist das Zentrum eines riesigen Schwemmlandes, das aufgrund seiner Fruchtbarkeit oft als 'Reisschüssel Madagaskars' bezeichnet wird. Die weiten Ebenen um den See ermöglichen einen intensiven Nassreisanbau, der weit über den Eigenbedarf der Region hinausgeht und die Märkte in Antananarivo versorgt. Das Leben in Amparafaravola ist eng mit dem Rhythmus der Reisernten und dem Wasserstand des Sees verknüpft. Neben dem Reisanbau ist die Stadt auch ein wichtiger Ort für den Fischfang im Alaotra-See. Die geografische Isolation und die schlechten Straßenverbindungen machen den Transport der Ernten zu einer ständigen logistischen Herausforderung. Die Region beherbergt zudem den seltenen Alaotra-Bambuslemur, was die Stadt zu einem Ausgangspunkt für Naturschutzaktivitäten macht. Wirtschaft K6 — Reisanbau und Feuchtgebiete.",
       "factsAdvanced": [
-        "Wickelt rund 80 % des madagassischen Seehandels ab",
-        "Der einzige echte internationale Tiefwasserhafen des Landes",
-        "Hauptausfuhrhafen für Vanille, Gewürze und Mineralien (Ambatovy)",
-        "Stark erweitert durch ein massives japanisches Investitionsprojekt",
-        "Direkt mit der Hauptstadt Antananarivo durch die RN2 verbunden",
-        "Der Hafenbetrieb ist der größte Arbeitgeber in Toamasina"
+        "Wichtigstes agrarisches Zentrum in der Region Alaotra-Mangoro",
+        "Zentrum des madagassischen Reishandels mit riesigen Anbauflächen",
+        "Liegt in unmittelbarer Nähe zum Alaotra-See, dem größten See Madagaskars",
+        "Die Bevölkerung besteht größtenteils aus Sihanaka-Bauern",
+        "Wichtiger Standort für die Verarbeitung von Getreide und Hülsenfrüchten",
+        "Region leidet unter starker Bodenerosion (Lavaka) in den umliegenden Hügeln",
+        "Hauptlieferant für Reis für die dicht besiedelten Gebiete des Hochlands",
+        "Eingangstor zu den Schutzgebieten des Alaotra-Bambuslemuren (Bandro)"
       ]
     },
     {
-      "id": "ehola-port-economic-v2",
-      "descriptionAdvanced": "Port d'Ehoala ist ein hochmoderner Tiefwasserhafen im äußersten Südosten Madagaskars, nahe der Stadt Tôlanaro (Fort-Dauphin). Der Hafen wurde 2009 fertiggestellt und primär vom Bergbauunternehmen Rio Tinto QMM finanziert, um Ilmenit (Titandioxid) zu exportieren. Er verfügt über einen über 600 Meter langen Wellenbrecher. Der Bau dieses Hafens sollte nicht nur der Mine dienen, sondern auch die extrem isolierte südliche Region wirtschaftlich öffnen und den Anlauf von internationalen Kreuzfahrtschiffen ermöglichen. Wirtschaft K8 — Infrastruktur und Bergbau.",
+      "id": "tolanaro-cities-v2",
+      "descriptionAdvanced": "Tôlanaro, besser bekannt unter seinem kolonialen Namen Fort-Dauphin, ist eine spektakulär gelegene Hafenstadt an der Südostspitze Madagaskars. Umgeben von drei Buchten und den majestätischen Ausläufern des Anosy-Gebirges, bietet die Stadt eine einzigartige Kulisse zwischen Regenwald und trockenem Buschland. Als älteste europäische Siedlung der Insel (gegründet 1643) blickt Tôlanaro auf eine wechselvolle Geschichte aus Piraterie, Handel und Kolonisation zurück. In jüngster Zeit hat die Eröffnung des modernen Tiefseehafens Ehoala und der Abbau von Ilmenit durch den Rio-Tinto-Konzern zu einem rasanten wirtschaftlichen Aufschwung und einer Modernisierung der Infrastruktur geführt. Tôlanaro ist zudem ein erstklassiges Ziel für den Ökotourismus, da es als Tor zum Berenty-Reservat und zum Nahampoana-Park dient. Die Stadt ist ein Ort der Kontraste, wo jahrhundertealte Geschichte auf moderne Rohstoffgewinnung trifft. Geschichte K8 — Koloniale Gründung und moderne Rohstoffwirtschaft.",
       "factsAdvanced": [
-        "Hochmoderner Tiefwasserhafen, fertiggestellt im Jahr 2009",
-        "Finanziert und betrieben primär durch das Bergbauunternehmen QMM",
-        "Hauptsächlich für den Export von Ilmenit (Titandioxid) genutzt",
-        "Verfügt über einen massiven, über 600 Meter langen Wellenbrecher",
-        "Soll die wirtschaftliche Isolation der Südregion aufbrechen",
-        "Erlaubt erstmals das Anlegen großer internationaler Kreuzfahrtschiffe"
+        "Älteste französische Siedlung auf Madagaskar (Fort-Dauphin, 1643)",
+        "Gelegen auf einer schmalen Halbinsel zwischen dem Indischen Ozean und Lagunen",
+        "Besitzt seit 2009 den modernsten Tiefwasserhafen Madagaskars (Ehoala)",
+        "Zentrum für den Abbau und Export von Ilmenit (Titanerz)",
+        "Einziger Ort Madagaskars, an dem Regenwald und Dornenwald aufeinandertreffen",
+        "Wird oft als die 'windigste Stadt' der Insel bezeichnet",
+        "Historischer Standort des Fort Flacourt, das heute ein Museum beherbergt",
+        "Bedeutender Exportort für Hummer und andere Meeresfrüchte"
       ]
     },
     {
-      "id": "qmm-mine-economic-v2",
-      "descriptionAdvanced": "Die QMM-Mine (QIT Madagascar Minerals) nahe Tôlanaro im Südosten ist ein gewaltiges Bergbauprojekt zur Gewinnung von Ilmenit, das für die Produktion von weißem Pigment (Titandioxid) verwendet wird. Die Mine, die zu 80% Rio Tinto und zu 20% dem madagassischen Staat gehört, ist wirtschaftlich enorm wichtig, steht jedoch weltweit in der Kritik von Naturschützern. Der Abbau findet in sensiblen Küstenwäldern statt, was die Vertreibung seltener Arten zur Folge hat, auch wenn Renaturierungsprogramme laufen. Geografie K8 — Ressourcenabbau und Ökosysteme.",
+      "id": "ambatondrazaka-cities-v2",
+      "descriptionAdvanced": "Ambatondrazaka ist die Hauptstadt der Region Alaotra-Mangoro und das unangefochtene Handelszentrum der madagassischen Reisproduktion. Die Stadt liegt in einem weitläufigen Becken am südlichen Ende des Alaotra-Sees und profitiert von den reichhaltigen Sedimenten der Region. Ambatondrazaka dient als primärer Marktplatz, auf dem die Reisernten der gesamten Sihanaka-Ebene gesammelt und für den Export in andere Landesteile vorbereitet werden. Das Stadtbild ist geprägt von großen Reismühlen, Lagerhäusern und einer lebhaften Handelsatmosphäre. Historisch war die Region ein Rückzugsort für das Sihanaka-Volk, bevor sie im 19. Jahrhundert in das Merina-Reich integriert wurde. Trotz ihrer wirtschaftlichen Bedeutung bleibt die Stadt aufgrund der schwierigen Anbindung an die Eisenbahn und das Straßennetz eine Welt für sich. Sie ist ein Paradebeispiel für eine Stadt, die ausschließlich um eine einzelne industrielle Monokultur herum gewachsen ist. Wirtschaft K7 — Agrarhandel und Monokulturen.",
       "factsAdvanced": [
-        "Fördert hauptsächlich Ilmenit zur Herstellung von Titandioxid-Pigmenten",
-        "Ist ein Joint Venture zwischen Rio Tinto (80%) und Madagaskar (20%)",
-        "Führte zum Bau des neuen Tiefwasserhafens Port d'Ehoala",
-        "Abbau bedroht endemische Küstenwälder und Feuchtgebiete",
-        "Betreibt umstrittene, aber groß angelegte Renaturierungsprogramme",
-        "Eines der wichtigsten ausländischen Investitionsprojekte des Landes"
+        "Administrative Hauptstadt der Region Alaotra-Mangoro",
+        "Wichtigster Umschlagplatz für Reis im ganzen Land",
+        "Endpunkt der strategischen Eisenbahnstrecke Moramanga-Lac Alaotra (MLA)",
+        "Zentrum der Sihanaka-Kultur, die traditionell vom Fischfang und Reisanbau lebt",
+        "Die Umgebung ist durch das massive Phänomen der Lavaka-Erosion bedroht",
+        "Beherbergt wichtige religiöse Missionen und Bildungszentren der Region",
+        "Der Name bedeutet 'Unter dem Stein von Razaka'",
+        "Wirtschaftliches Drehkreuz für das am dichtesten bewirtschaftete Tal der Insel"
       ]
     },
     {
-      "id": "mahajanga-port-economic-v2",
-      "descriptionAdvanced": "Der Hafen von Mahajanga an der Nordwestküste ist der zweitwichtigste Hafen Madagaskars. Er liegt strategisch günstig am Kanal von Mosambik an der großen Mündung des Betsiboka-Flusses. Der Hafen ist entscheidend für den Export von Agrarprodukten aus dem weiten Hinterland, wie Baumwolle, Tabak, Zucker und Garnelen. Ein großes Problem des Hafens ist jedoch die massive Verschlammung durch den Betsiboka-Fluss, bedingt durch Bodenerosion im Hochland, was ständige Baggerarbeiten erfordert. Wirtschaft K6 — Häfen und Erosion.",
+      "id": "mananara-avaratra-cities-v2",
+      "descriptionAdvanced": "Mananara Avaratra liegt an der feuchten Nordostküste Madagaskars, eingebettet zwischen dem Indischen Ozean und den unberührten Regenwäldern des Masoala-Massivs. Die Stadt ist ein Paradebeispiel für die abgelegenen Gewürzmetropolen der Insel, in denen das Leben vom Rhythmus der Vanille- und Gewürznelkenernte bestimmt wird. Da keine befestigte Straße in die Region führt, erfolgt der Großteil des Handels über kleine Küstenschiffe und Pirogen. Mananara ist das Zentrum des Biosphärenreservats Mananara-Nord, das sowohl terrestrische Regenwälder als auch wertvolle Korallenriffe schützt. Die Isolation der Stadt hat dazu beigetragen, dass die lokale Kultur der Betsimisaraka und die außergewöhnliche Artenvielfalt – einschließlich des seltenen Aye-Aye-Lemuren – weitgehend unberührt geblieben sind. Die Stadt verkörpert den Inbegriff des tropischen Madagaskars, in dem Wald und Meer untrennbar miteinander verbunden sind. Geografie K7 — Küstenisolation und Biosphärenreservate.",
       "factsAdvanced": [
-        "Zweitwichtigster Seehafen Madagaskars am Kanal von Mosambik",
-        "Hauptexportort für Agrargüter wie Baumwolle, Zucker und Shrimps",
-        "Liegt an der geschützten Bucht von Bombetoka",
-        "Leidet stark unter der Verschlammung durch den Betsiboka-Fluss",
-        "Wichtiger Knotenpunkt für den Handel mit den Komoren und Afrika",
-        "Infrastruktur ist stark auf landwirtschaftliche Schüttgüter ausgelegt"
+        "Haupthafen für den Export von Bio-Vanille und Nelken an der Nordostküste",
+        "Zentrum des ersten UNESCO-Biosphärenreservats Madagaskars (Mananara-Nord)",
+        "Zugang fast ausschließlich per Schiff oder über extrem schwierige Pisten möglich",
+        "Bietet Zugang zum Nationalpark auf der Insel Nosy Atafana",
+        "Wichtiger Lebensraum für den gefährdeten Aye-Aye (Fingertier)",
+        "Die Region verzeichnet eine der höchsten Niederschlagsraten der Insel",
+        "Kulturelles Zentrum für traditionelle Riten des Betsimisaraka-Volkes",
+        "Wirtschaftlich stark abhängig von den schwankenden Weltmarktpreisen für Gewürze"
       ]
     },
     {
-      "id": "kraoma-mine-economic-v2",
-      "descriptionAdvanced": "Die Kraoma-Mine (Kraomita Malagasy) in Brieville, in der zentralen Region Alaotra-Mangoro, war jahrzehntelang das Herz der madagassischen Chromit-Produktion. Das Bergwerk lieferte hochwertiges Chromerz, das hauptsächlich für die globale Edelstahlindustrie exportiert wurde. Das geförderte Erz wurde über eine eigens gebaute Eisenbahnlinie nach Moramanga und weiter zum Hafen Toamasina transportiert. In den letzten Jahren erlebte das staatliche Unternehmen jedoch schwere finanzielle und strukturelle Krisen, was zu massiven Produktionsrückgängen führte. Wirtschaft K7 — Staatliche Betriebe und Rohstoffe.",
+      "id": "soavinandriana-cities-v2",
+      "descriptionAdvanced": "Soavinandriana ist eine charmante Kleinstadt in der Region Itasy, westlich von Antananarivo, und liegt inmitten einer der landschaftlich reizvollsten Vulkanregionen Madagaskars. Die Stadt ist bekannt für ihre sanften, terrassierten Hügel, die von unzähligen kleinen Kraterseen und Lavaströmen geformt wurden. Soavinandriana profitiert von extrem fruchtbaren Böden, die den Anbau von hochwertigem Kaffee, Gemüse und Obst ermöglichen. Die Region ist zudem ein Zentrum der madagassischen Seidenproduktion, wobei die Zucht von Seidenraupen in den Dörfern eine lange Tradition hat. Das angenehme Hochlandklima und die Nähe zum Itasy-See machen die Stadt zu einem wichtigen regionalen Versorgungszentrum. Soavinandriana ist ein Beispiel für die harmonische Verbindung von vulkanischer Geologie und intensiver menschlicher Nutzung, wobei die Landschaft fast vollständig in einen Garten verwandelt wurde. Geografie K6 — Vulkanische Landschaften und Landwirtschaft.",
       "factsAdvanced": [
-        "Historisch wichtigste Mine für Chromit auf Madagaskar",
-        "Gelegen in Brieville in der zentral-östlichen Region",
-        "Chromerz ist entscheidend für die internationale Edelstahlindustrie",
-        "Erztransport erfolgt über Schiene nach Moramanga und Toamasina",
-        "Kraoma ist ein staatliches Bergbauunternehmen",
-        "Erlebte in den 2010er Jahren schwere finanzielle Krisen und Streiks"
+        "Hauptstadt des Distrikts Soavinandriana in der Region Itasy",
+        "Zentrum der madagassischen Arabica-Kaffee-Produktion",
+        "Umgeben von erloschenen Vulkankegeln und Kraterseen",
+        "Wichtigster Standort für die Zucht der Landbe-Seidenraupen",
+        "Liegt an der Nationalstraße 1, die die Hauptstadt mit dem Westen verbindet",
+        "Die Region ist berühmt für ihre qualitativ hochwertigen Tabakpflanzungen",
+        "Bietet spektakuläre Ausblicke auf die Geysire von Andranomandrautra",
+        "Handelsdrehkreuz für Agrarprodukte auf dem Weg nach Antananarivo"
       ]
     },
     {
-      "id": "antsiranana-port-economic-v2",
-      "descriptionAdvanced": "Der Hafen von Antsiranana, im extremen Norden Madagaskars, verfügt aufgrund der massiven, natürlichen Diego-Suarez-Bucht über hervorragende geographische Voraussetzungen. Historisch war er ein bedeutender französischer Marinestützpunkt. Heute wird der Hafen zivil genutzt, insbesondere für den Export von Salz, Zucker (aus Ambilobe) und Kakao, sowie für die Fischereiindustrie (insbesondere Thunfisch). Die schlechte Anbindung an den Rest des Landes (RN6) verhindert jedoch, dass der Hafen sein volles wirtschaftliches Potenzial ausschöpfen kann. Geografie K7 — Natürliche Häfen und Isolation.",
+      "id": "mahanoro-cities-v2",
+      "descriptionAdvanced": "Mahanoro ist eine malerische Küstenstadt an der Mündung des Mangoro-Flusses an der zentralen Ostküste Madagaskars. Die Stadt ist vor allem als südlicher End- oder Startpunkt des Pangalanes-Kanals bekannt, einer über 600 Kilometer langen Kette von Seen und künstlichen Kanälen. Mahanoro war historisch ein bedeutender Hafen für den Export von Kautschuk und Kaffee, hat jedoch heute eine eher ruhige, fast schläfrige Atmosphäre. Das Stadtbild wird von Kokospalmen, traditionellen Holzhäusern und den breiten, oft gefährlichen Sandbänken an der Flussmündung geprägt. In Mahanoro trifft die Gewalt des Indischen Ozeans auf das ruhige Wasser der Kanäle, was die Stadt zu einem strategischen Ort für den Warentransport per Piroge macht. Die Stadt bewahrt das Erbe der kolonialen Handelsgesellschaften, die hier einst florierende Kontore unterhielten. Geografie K7 — Wasserwege und Kanalsysteme.",
       "factsAdvanced": [
-        "Gelegen in der zweitgrößten natürlichen Bucht der Welt",
-        "War bis 1973 ein wichtiger Militär- und Marinehafen Frankreichs",
-        "Wichtiger Standort für die industrielle Thunfischverarbeitung (Pêchexport)",
-        "Exporthafen für regionalen Zucker, Kakao und Salz",
-        "Potenzial ist durch extrem schlechte Straßenanbindung eingeschränkt",
-        "Bedeutender Anlaufhafen für Kreuzfahrtschiffe im Indischen Ozean"
+        "Wichtiges Drehkreuz am südlichen Abschnitt des Canal des Pangalanes",
+        "Liegt an der Mündung des Mangoro, dem wasserreichsten Fluss der Ostküste",
+        "Früherer bedeutender Exporthafen für Kaffee und Nelken der Region Atsinanana",
+        "Der Name Mahanoro bedeutet 'Der Ort, der gesund macht'",
+        "Die Stadt ist nur über die oft in schlechtem Zustand befindliche RN11 erreichbar",
+        "Bekannt für den Fischfang in den Lagunen und im offenen Ozean",
+        "Die Umgebung beherbergt bedeutende Vanille- und Zimtplantagen",
+        "Historischer Sitz lokaler Häuptlinge des Betsimisaraka-Volkes"
       ]
     },
     {
-      "id": "star-brewery-tana-economic-v2",
-      "descriptionAdvanced": "Die Brasseries Star in Antananarivo (oft einfach Star Brewery genannt) ist das Zentrum des Getränkemarktes auf Madagaskar. Das Unternehmen wurde 1953 gegründet und ist vor allem für die Produktion des Nationalbieres «Three Horses Beer» (THB) bekannt, das auf der Insel allgegenwärtig ist. Neben Bier produziert die Anlage in Andraharo (Tana) auch Mineralwasser, Limonaden und internationale Lizenzen wie Coca-Cola. Als einer der größten Steuerzahler und Arbeitgeber hat das Unternehmen eine enorme wirtschaftliche Bedeutung. Wirtschaft K6 — Konsumgüter und Industrie.",
+      "id": "soanierana-ivongo-cities-v2",
+      "descriptionAdvanced": "Soanierana Ivongo ist ein unverzichtbarer Knotenpunkt an der Nordostküste Madagaskars und dient primär als Tor zur Insel Sainte-Marie (Nosy Boraha). Die Stadt liegt an einer geschützten Lagune an der Mündung des Marimbona-Flusses und ist der wichtigste Abfahrtsort für Fähren und Frachtschiffe in Richtung der touristisch bedeutsamen Insel. Trotz ihrer strategischen Rolle als Verkehrsknotenpunkt hat Soanierana Ivongo den Charakter einer lebhaften Küstensiedlung bewahrt, in der der Handel mit Gewürznelken und Reis den Alltag bestimmt. Die Nationalstraße 5, die durch die Stadt führt, ist berüchtigt für ihren schlechten Zustand nördlich des Ortes, was die Stadt zum letzten zuverlässig erreichbaren Punkt für viele Reisende macht. Die Umgebung ist geprägt von dichten Palmenhainen und kleinen Gewürzplantagen, die das ökonomische Rückgrat der lokalen Betsimisaraka-Bevölkerung bilden. Geografie K5 — Transitorte und Küsteninfrastruktur.",
       "factsAdvanced": [
-        "Produzent des berühmten Nationalbieres «Three Horses Beer» (THB)",
-        "Gegründet im Jahr 1953, Hauptwerk in Antananarivo",
-        "Einer der größten privaten Arbeitgeber und Steuerzahler Madagaskars",
-        "Produziert auch Softdrinks und hält die Coca-Cola-Lizenz",
-        "Marktanteil bei Bier und Erfrischungsgetränken ist fast monopolistisch",
-        "Unternehmen wurde von der französischen Castel-Gruppe übernommen"
+        "Primärer Fährhafen für die Überfahrt zur Insel Sainte-Marie",
+        "Strategischer Punkt an der Nationalstraße 5 (RN5) an der Ostküste",
+        "Wichtiger Sammelpunkt für den regionalen Handel mit Gewürznelken",
+        "Liegt in einer Landschaft, die von ausgedehnten Sumpfgebieten und Lagunen geprägt ist",
+        "Ein wichtiger Umschlagplatz für Waren zwischen der Küste und dem Hinterland",
+        "Die Stadt ist nach schweren Zyklonen regelmäßig von Überschwemmungen betroffen",
+        "Kulturell stark durch die Riten des Betsimisaraka-Volkes beeinflusst",
+        "Besitzt eine kleine, aber vitale Flotte von Fracht-Pirogen"
       ]
     },
     {
-      "id": "star-brewery-antsirabe-economic-v2",
-      "descriptionAdvanced": "Das Werk der Star Brewery in Antsirabe ist eine der ältesten und wichtigsten Brauereien Madagaskars. Der Standort in Antsirabe wurde wegen des Reichtums an hochwertigen, mineralreichen Wasserquellen gewählt, die für den Brauprozess ideal sind. Die Brauerei ist der Hauptproduzent des legendären «Three Horses Beer» (THB). Die Anlage ist ein wirtschaftlicher Motor für die Stadt Antsirabe und bezieht einen Großteil der Rohstoffe, wie Gerste und Mais, von lokalen madagassischen Bauern aus dem Hochland. Wirtschaft K5 — Lebensmittelindustrie und regionale Rohstoffe.",
+      "id": "faratsiho-cities-v2",
+      "descriptionAdvanced": "Faratsiho, eine der höchstgelegenen Städte Madagaskars, liegt auf über 1.700 Metern im Herzen des Vakinankaratra-Gebirges. Aufgrund seiner extremen Höhenlage zeichnet sich der Ort durch ein für die Tropen ungewöhnlich kühles Klima aus, wobei die Temperaturen im Winter regelmäßig nahe an den Gefrierpunkt sinken. Die Stadt ist das Zentrum einer intensiv genutzten Agrarlandschaft, in der Kartoffeln, Getreide und Hülsenfrüchte auf sorgfältig angelegten Terrassen angebaut werden. Faratsiho ist historisch eng mit der norwegischen Mission verbunden, die hier bereits im 19. Jahrhundert Schulen und Kliniken errichtete. Die isolierte Lage in den Bergen hat dazu geführt, dass traditionelle Lebensweisen und Handwerkstechniken besonders gut bewahrt wurden. Für Reisende bietet Faratsiho einen Einblick in das raue, aber fruchtbare Leben der Hochlandbauern und dient als Tor zum zerklüfteten Ankaratra-Massiv. Geografie K7 — Hochgebirgssiedlungen und Terrassenfeldbau.",
       "factsAdvanced": [
-        "Wichtiger Produktionsstandort für das «Three Horses Beer»",
-        "Standortwahl erfolgte wegen der exzellenten Wasserqualität in Antsirabe",
-        "Gegründet in den 1950er Jahren, tief verwurzelt in der Region",
-        "Bezieht Gerste und Mais von landwirtschaftlichen Kooperativen im Hochland",
-        "Sichert tausende Arbeitsplätze in der Region Vakinankaratra",
-        "Bierauslieferung von hier aus versorgt weite Teile der Insel"
+        "Eine der höchstgelegenen permanenten Siedlungen Madagaskars (ca. 1.720 m)",
+        "Wichtigstes Anbauzentrum für Kartoffeln und Mais im Hochland",
+        "Historische Hochburg der lutherischen Kirche auf Madagaskar",
+        "Das Stadtbild ist durch traditionelle Ziegelhäuser und Missionsbauten geprägt",
+        "Region ist bekannt für die Zucht von Schafen und Milchkühen",
+        "Liegt an einer landschaftlich reizvollen Verbindung zwischen Sambaina und Itasy",
+        "Das kühle Klima verhindert die Ausbreitung vieler tropischer Krankheiten",
+        "Wichtiger Ausgangspunkt für Wanderungen in das Ankaratra-Vulkanmassiv"
       ]
     },
     {
-      "id": "toliara-port-economic-v2",
-      "descriptionAdvanced": "Der Hafen von Toliara ist der wichtigste Seehafen für den gesamten Südwesten Madagaskars. Obwohl er im Vergleich zu Toamasina klein ist, ist er für die isolierte Region überlebenswichtig. Der Hafen exportiert hauptsächlich landwirtschaftliche Produkte des Südens, darunter Sisal aus dem Mandrare-Tal, Baumwolle, Meersalz und zunehmend auch Mineralien und Sande. Da das Hinterland keine Eisenbahnverbindung hat, ist der Hafen stark von der Nationalstraße 7 (RN7) abhängig. Er kämpft oft mit infrastrukturellen Mängeln und unzureichender Wassertiefe. Wirtschaft K6 — Regionale Häfen und Export.",
+      "id": "nosy-varika-cities-v2",
+      "descriptionAdvanced": "Nosy Varika liegt an der südlichen Ostküste Madagaskars und ist ein Paradebeispiel für eine Stadt, die fast vollständig von Wasserwegen umschlossen ist. Der Name bedeutet 'Insel der Lemuren' und weist auf die einstige Wildheit der Region hin. Die Stadt liegt direkt am Canal des Pangalanes und am Indischen Ozean, was den Schiffstransport zum einzigen zuverlässigen Verkehrsmittel macht, da die Straßenverbindungen oft unpassierbar sind. Nosy Varika ist ein vitales Zentrum für den Handel mit Kaffee, Pfeffer und Litschis, die über die Kanäle nach Norden transportiert werden. Das Leben hier ist ruhig und folgt dem Fluss der Gezeiten und der Erntezyklen. Die geografische Isolation hat eine starke lokale Gemeinschaft hervorgebracht, die eng mit den Ressourcen der Lagunen und des Waldes verbunden ist. Die Stadt ist ein Ort für Abenteurer, die das authentische, wassergeprägte Leben an der Ostküste suchen. Geografie K7 — Inselstädte und Lagunenlandschaften.",
       "factsAdvanced": [
-        "Einziger bedeutender Hafen im weiten Südwesten Madagaskars",
-        "Hauptausfuhrort für Sisalfasern, Baumwolle und Salz",
-        "Dient zunehmend dem Export von Mineralien (Ilmenit-Sande)",
-        "Stark von der RN7 als einziger Transportader abhängig",
-        "Kämpft mit Einschränkungen durch begrenzte Wassertiefe",
-        "Wichtiger Umschlagplatz für den lokalen Küstenhandel per Boot"
+        "Gelegen in der Region Vatovavy, umschlossen von Lagunen und Flüssen",
+        "Wichtiger Knotenpunkt für den Warentransport auf dem Canal des Pangalanes",
+        "Zentrum für den Export von schwarzem Pfeffer und hochwertigem Kaffee",
+        "Zugang über Land ist aufgrund von Schlammpisten extrem schwierig",
+        "Die Stadt leidet regelmäßig unter den Auswirkungen schwerer Tropenstürme",
+        "Kulturelles Herz der Antambahoaka-Bevölkerung in diesem Küstenabschnitt",
+        "Besitzt ausgedehnte Kokosnuss- und Zimtplantagen im Umland",
+        "Wichtiger Lebensraum für zahlreiche Wasservögel in den angrenzenden Sümpfen"
       ]
     },
     {
-      "id": "cotona-textile-economic-v2",
-      "descriptionAdvanced": "Die Cotona (La Cotonnière d'Antsirabe) ist eines der größten und traditionsreichsten Textilunternehmen Madagaskars. Die Fabrik in Antsirabe wurde in der Mitte des 20. Jahrhunderts gegründet und deckt die gesamte textile Wertschöpfungskette ab — vom Spinnen der lokalen Baumwolle über das Weben bis hin zum Färben und Drucken. Cotona spielt eine zentrale Rolle in der madagassischen Exportindustrie, besonders für den europäischen und US-amerikanischen Markt (unter dem AGOA-Abkommen). Die Textilindustrie ist hier einer der wichtigsten Arbeitgeber für Frauen. Wirtschaft K7 — Textilindustrie und Globalisierung.",
+      "id": "vavatenina-cities-v2",
+      "descriptionAdvanced": "Vavatenina, gelegen in der Region Analanjirofo im Nordosten der Insel, ist eine der wichtigsten Gewürzmetropolen Madagaskars. Die Stadt liegt in einem fruchtbaren Tal, das von hohen, regenwaldbedeckten Hügeln umgeben ist, die ein ideales Mikroklima für den Anbau von Gewürznelken und Vanille bieten. Vavatenina ist während der Erntesaison ein unglaublich geschäftiger Ort, an dem hunderte Tonnen von Gewürzen getrocknet, sortiert und für den Transport zum Hafen von Toamasina vorbereitet werden. Der Duft von Nelken erfüllt in diesen Monaten die gesamte Stadt. Obwohl die Stadt ökonomisch von globaler Bedeutung ist, bleibt sie infrastrukturell einfach und ist stark vom Wetter abhängig. Die Region Vavatenina ist zudem bekannt für ihre reiche traditionelle Kultur und die enge Verbundenheit der Bauern mit ihrem Land, das seit Generationen im Familienbesitz ist. Wirtschaft K6 — Gewürzproduktion und tropische Landwirtschaft.",
       "factsAdvanced": [
-        "Eine der größten und ältesten Textilfabriken in Madagaskar",
-        "Standort ist Antsirabe im zentralen Hochland",
-        "Deckt die komplette Produktion von der Baumwolle bis zum Stoff ab",
-        "Wichtiger Profiteur des US-amerikanischen AGOA-Handelsabkommens",
-        "Gehört zur madagassischen Groupe Socota",
-        "Bietet tausende von Arbeitsplätzen, überwiegend für Frauen"
+        "Eines der Hauptproduktionszentren für Gewürznelken weltweit",
+        "Zentraler Ort in der fruchtbaren Region Analanjirofo ('Wald der Nelken')",
+        "Wirtschaftliches Überleben der Stadt hängt fast vollständig von Gewürzexporten ab",
+        "Die Umgebung ist durch dichten sekundären Regenwald und Plantagen geprägt",
+        "Wichtiger Marktplatz für den Austausch von Grundnahrungsmitteln und Exportgütern",
+        "Die Stadt ist über die RN22 mit der Küstenstraße verbunden",
+        "Bevölkerung besteht primär aus der Volksgruppe der Betsimisaraka",
+        "Bekannt für die hohe Qualität der handverlesenen Vanilleschoten"
       ]
     },
     {
-      "id": "ambilobe-sugar-economic-v2",
-      "descriptionAdvanced": "Die Zuckerfabrik in Ambilobe, bekannt als Sirama (Siramamy Malagasy), war jahrzehntelang das Herzstück der madagassischen Zuckerindustrie. Die Region Diana im Norden bietet mit ihrem warmen Klima und der Bewässerung durch den Mahavavy-Fluss ideale Bedingungen für riesige Zuckerrohrplantagen. Während das staatliche Unternehmen in der Vergangenheit florierte, litt es ab den 2000er Jahren unter Missmanagement und Verfall. Heute gibt es Bestrebungen, die Anlagen mit privaten Investoren zu revitalisieren, um Madagaskars Abhängigkeit von Zuckerimporten zu verringern. Wirtschaft K6 — Agrarindustrie und Privatisierung.",
+      "id": "morondava-cities-v2",
+      "descriptionAdvanced": "Morondava, an der sonnigen Westküste Madagaskars gelegen, ist die Hauptstadt der Menabe-Region und weltbekannt als Tor zur legendären Baobab-Allee. Die Stadt verbindet den Charme einer entspannten Küstensiedlung mit der Bedeutung eines regionalen Handelszentrums. Morondava liegt im Delta des Morondava-Flusses und ist durch weite Sandstrände und Mangrovenwälder geprägt. Wirtschaftlich ist die Stadt ein Zentrum für den Handel mit Zebus, Reis und Meeresfrüchten sowie ein wachsender Knotenpunkt für den Tourismus. Die Architektur spiegelt die Geschichte des Sakalava-Königreichs wider, das hier einst seine Machtbasis hatte. Trotz der Bedrohung durch Küstenerosion bleibt Morondava ein lebendiger Ort, der durch seine multikulturelle Bevölkerung und seine strategische Lage zwischen dem trockenen Westen und dem Meer besticht. Sie ist der unverzichtbare Ausgangspunkt für Reisen in den Tsingy de Bemaraha Nationalpark. Geografie K6 — Deltalandschaften und Küstentourismus.",
       "factsAdvanced": [
-        "Historisch wichtigstes Zentrum der madagassischen Zuckerproduktion",
-        "Umgibt von riesigen Zuckerrohrplantagen am Mahavavy-Fluss",
-        "Wurde lange vom staatlichen Unternehmen Sirama betrieben",
-        "Erlebte nach 2000 einen starken Verfall durch Missmanagement",
-        "Raffinerie wird aktuell durch private Joint Ventures rehabilitiert",
-        "Zuckerproduktion ist entscheidend für den lokalen Rum (z.B. Dzama)"
-      ]
-    },
-    {
-      "id": "holcim-cement-ibity-economic-v2",
-      "descriptionAdvanced": "Das Zementwerk Ibity in der Nähe von Antsirabe ist die größte Zementfabrik Madagaskars. Die Anlage, die heute vom internationalen Holcim-Lafarge-Konzern betrieben wird, liegt strategisch günstig an reichen Kalksteinvorkommen des Ibity-Massivs. Die Fabrik ist von immenser strategischer Bedeutung für das Land, da madagassischer Zement für den Ausbau der landesweiten Infrastruktur (Brücken, Straßen, Gebäude) dringend benötigt wird. Das Werk ist ein Beispiel für moderne industrielle Produktion im Herzen des Landes. Wirtschaft K6 — Baustoffe und Infrastruktur.",
-      "factsAdvanced": [
-        "Größte und wichtigste Zementfabrik auf Madagaskar",
-        "Gelegen am Ibity-Massiv nahe Antsirabe, reich an Kalkstein",
-        "Betrieben durch den multinationalen Baustoffkonzern Holcim (Lafarge)",
-        "Entscheidender Lieferant für nationale Infrastrukturprojekte",
-        "Verwendet lokal abgebaute Mineralien zur Produktion",
-        "Gehört zu den technologisch fortschrittlichsten Fabriken des Landes"
-      ]
-    },
-    {
-      "id": "galana-refinery-economic-v2",
-      "descriptionAdvanced": "Die Galana-Raffinerie in Toamasina ist Madagaskars einzige bedeutende Anlage zur Verarbeitung von Erdöl. Ursprünglich als SOLIMA in den 1960er Jahren gegründet, wurde sie im Zuge von Privatisierungen von der Galana-Gruppe übernommen. Obwohl die eigentliche Raffination von Rohöl in den 2000er Jahren aus Rentabilitätsgründen oft eingestellt wurde, fungiert die Anlage heute als das größte Tanklager und Logistikzentrum für importierte raffinierte Kraftstoffe auf der Insel. Von hier aus wird das ganze Land per Lkw und Bahn mit Benzin und Diesel versorgt. Wirtschaft K7 — Energiesicherheit und Ölimporte.",
-      "factsAdvanced": [
-        "Einzige große Erdölraffinerie-Infrastruktur auf Madagaskar",
-        "Standort ist die Hafenstadt Toamasina an der Ostküste",
-        "Fungiert heute primär als gigantisches Tank- und Logistiklager",
-        "Wurde um das Jahr 2000 privatisiert (Übernahme durch Galana)",
-        "Sichert die Treibstoffversorgung für die gesamte madagassische Wirtschaft",
-        "Wirtschaftlich hochrelevant, da Madagaskar auf Ölimporte angewiesen ist"
-      ]
-    },
-    {
-      "id": "morondava-port-economic-v2",
-      "descriptionAdvanced": "Der Hafen von Morondava an der Westküste ist ein kleinerer, aber regional bedeutsamer Umschlagplatz am Kanal von Mosambik. Mangels tiefem Wasser können hier keine großen Hochseeschiffe anlegen; stattdessen werden Güter oft mit Leichtern (kleineren Booten) zu den Schiffen auf Reede transportiert. Der Hafen dient primär dem Export der landwirtschaftlichen Erzeugnisse der Menabe-Region, wie Zucker, Erdnüsse, Reis und zunehmend auch Fischerei- und Garnelenprodukte. Der Holzhandel aus den umliegenden Wäldern spielt ebenfalls eine Rolle. Wirtschaft K5 — Regionale Logistik und Kabotage.",
-      "factsAdvanced": [
-        "Regionaler Hafen für die Menabe-Region an der Westküste",
-        "Wassertiefe reicht für große Frachtschiffe nicht aus",
-        "Güterumschlag erfolgt traditionell über Leichterboote auf offener See",
-        "Hauptexportgüter sind Zucker, Reis und Krebstiere",
-        "Wichtig für die Küstenschifffahrt (Kabotage) zwischen madagassischen Städten",
-        "Infrastruktur ist stark veraltet und wartet auf Investitionen"
-      ]
-    },
-    {
-      "id": "dzamandzar-rum-economic-v2",
-      "descriptionAdvanced": "Die Zuckerfabrik und Destillerie in Dzamandzar auf der Insel Nosy Be ist historisch legendär, da sie der Geburtsort des berühmten «Dzama Rum» ist. Gegründet in den 1920er Jahren, nutzte die Fabrik das hervorragende Zuckerrohr von Nosy Be, das zusammen mit dem Aroma von Ylang-Ylang-Plantagen dem Rum seinen einzigartigen Geschmack verlieh. Obwohl die Zuckerfabrik selbst vor Jahren geschlossen wurde und langsam verfällt, lebt die Marke Dzama weiter und gehört heute zu den meistverkauften und international preisgekrönten Spirituosen Madagaskars. Geschichte K6 — Spirituosen und Kolonialerbe.",
-      "factsAdvanced": [
-        "Ursprünglicher Herstellungsort des berühmten madagassischen «Dzama Rum»",
-        "Standort ist die Insel Nosy Be vor der Nordwestküste",
-        "Destillerie verarbeitete lokal angebautes Zuckerrohr und Melasse",
-        "Historische Fabrikanlagen in Dzamandzar sind heute ein Industriedenkmal",
-        "Marke Dzama ist heute international mehrfach preisgekrönt",
-        "Rum-Aroma soll durch die umliegenden Ylang-Ylang-Felder geprägt sein"
-      ]
-    },
-    {
-      "id": "tolanaro-port-economic-v2",
-      "descriptionAdvanced": "Der historische Hafen von Tôlanaro (Fort-Dauphin) war über Jahrhunderte der maritime Zugang für die isolierte Südostspitze Madagaskars. Bevor der moderne Tiefwasserhafen Ehoala gebaut wurde, schlug dieser alte, kleine Hafen alle Güter der Region um. Wegen der stürmischen See und der fehlenden Tiefe mussten Schiffe oft auf Reede liegen. Heute wird der alte Hafen vor allem für die lokale Küstenfischerei, den Tourismus und kleine Boote genutzt, während der große kommerzielle Verkehr ins nahe Ehoala abgewandert ist. Geografie K5 — Historische Häfen und Fischerei.",
-      "factsAdvanced": [
-        "Historischer Seehafen der Stadt Tôlanaro (Fort-Dauphin)",
-        "Diente vor dem Bau des Ehoala-Hafens der gesamten Südostregion",
-        "Wegen starker Brandung und Flachwasser für große Schiffe ungeeignet",
-        "Heute primär von lokaler Küstenfischerei und kleinen Booten genutzt",
-        "Zentral gelegen in der historischen Bucht von Fort-Dauphin",
-        "Verlor seine kommerzielle Bedeutung ab 2009 an Port d'Ehoala"
+        "Hauptstadt der Region Menabe und wichtigstes Tourismuszentrum im Westen",
+        "Nur 15 Kilometer von der weltberühmten 'Allée des Baobabs' entfernt",
+        "Hauptexporthafen für Agrarprodukte aus dem fruchtbaren Menabe-Delta",
+        "Die Stadt kämpft massiv mit dem Anstieg des Meeresspiegels und Erosion",
+        "Zentrum der Sakalava-Kultur im Westen Madagaskars",
+        "Wichtiger Umschlagplatz für Holz, Shrimps und Getreide",
+        "Besitzt einen lebhaften Markt und einen internationalen Flughafen",
+        "Tor zu den Kalkstein-Nadeln des Tsingy de Bemaraha (UNESCO-Welterbe)"
       ]
     }
   ]

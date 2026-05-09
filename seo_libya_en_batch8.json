@@ -12,243 +12,213 @@
   ],
   "items": [
     {
-      "id": "tobruk-grand-mosque-landmarks-v2",
-      "descriptionAdvanced": "The Tobruk Grand Mosque is the spiritual center of the far eastern Cyrenaica region, standing as a prominent landmark in the city's historic center. Known for its elegant, slender minarets and brilliant white facade, it provides a striking contrast to the dusty, arid environment typical of the Tobruk area. The mosque is not just a place of worship but a critical community center where local tribal and civic leaders frequently gather. Its sweeping courtyard can accommodate thousands during major Islamic holidays. Sociology K7 — urban religious architecture.",
+      "id": "ly-al-naga-mosque-history-v2",
+      "descriptionAdvanced": "The Al-Naga Mosque, or the 'She-Camel Mosque,' is the oldest religious building in Tripoli, with roots dating back to the early Islamic period of the 10th century. According to local legend, the mosque was built on the spot where a she-camel carrying a holy man stopped, giving the mosque its unique name. The structure is a beautiful example of early North African mosque architecture, characterized by its low-profile domes, thick white-washed walls, and a grand central courtyard. It has been a cornerstone of religious life in the Tripoli Medina for over a thousand years, surviving multiple invasions and reconstructions. Al-Naga represents the historic foundation of Islamic Tripoli. History K8 — early Islamic architecture and Tripoli history.",
       "factsAdvanced": [
-        "The largest and most important Islamic worship center in Tobruk.",
-        "Features a brilliant white facade and multiple slender minarets.",
-        "Serves as the primary communal gathering space for local civic leaders.",
-        "Located in the heart of Tobruk's historic commercial district.",
-        "Can accommodate thousands of worshippers during Eid and Friday prayers.",
-        "Provides a stark visual contrast to the surrounding arid desert landscape."
+        "The oldest continuously operating mosque in the city of Tripoli.",
+        "Founded in the 10th century during the Fatimid or Zirid era.",
+        "Named 'Al-Naga' (The She-Camel) based on a popular local legend.",
+        "Features a classic early Islamic design with a spacious prayer hall and courtyard.",
+        "Located in the historic center of the Tripoli Medina near the souks.",
+        "A primary center for traditional Islamic education and community life.",
+        "The mosque's low domes are a characteristic feature of Saharan-Mediterranean styles.",
+        "Has undergone several restorations while maintaining its ancient floor plan."
       ]
     },
     {
-      "id": "misrata-airport-terminal-landmarks-v2",
-      "descriptionAdvanced": "The Misrata Airport Terminal is a vital civilian and logistical hub that underscores the city's status as Libya's commercial capital. Originally a military airbase, the civilian terminal was rapidly expanded to handle international business flights, primarily connecting to Turkey, Tunisia, and Egypt. The architecture is highly functional, designed to process large volumes of commercial travelers efficiently. During times when Tripoli's airport has been compromised, Misrata often takes over as the primary international gateway for western Libya. Geography K8 — commercial aviation infrastructure.",
+      "id": "ly-bir-hakeim-history-v2",
+      "descriptionAdvanced": "Bir Hakeim is a remote and legendary site in the northeastern Libyan desert, famous for the heroic 1942 battle during World War II. It was a primary defensive point for the Free French Forces, who held out against a massive Axis assault led by Erwin Rommel for 16 days. The successful defense of this isolated desert fort allowed Allied forces to regroup and was a major morale boost for the French resistance. Today, the site contains memorials and ruins of the bunkers and trenches where the battle took place. Bir Hakeim remains a symbol of extraordinary military courage and a critical landmark in the history of the North African Campaign. History K8 — World War II and the Free French Forces.",
       "factsAdvanced": [
-        "A critical commercial aviation hub for the city of Misrata.",
-        "Originally functioned primarily as a military airbase before civilian expansion.",
-        "Handles frequent international flights to Turkey, Tunisia, and Egypt.",
-        "Features functional, high-capacity terminal architecture.",
-        "Frequently acts as the main western gateway when Tripoli's airports are closed.",
-        "Directly supports the massive international trade flowing through the city."
+        "A remote desert site famous for the 1942 Battle of Bir Hakeim.",
+        "The site of a heroic 16-day defense by the Free French Forces.",
+        "Located in the arid Cyrenaica desert, south of Tobruk.",
+        "The battle was a major turning point in the Allied defense of Egypt.",
+        "Features a memorial dedicated to the French and Allied soldiers who fought there.",
+        "The name 'Bir Hakeim' refers to an ancient desert well located at the site.",
+        "The ruins of the star-shaped fortress are still visible in the desert landscape.",
+        "A primary destination for military historians and WWII commemorations."
       ]
     },
     {
-      "id": "al-kish-square-mosque-landmarks-v2",
-      "descriptionAdvanced": "The Al-Kish Square Mosque is a highly recognizable religious structure located in one of Benghazi's most politically significant public spaces. The mosque's modern, expansive design accommodates the massive crowds that often gather in the adjacent square for protests, celebrations, and civic events. It gained profound national prominence during the 2011 revolution, serving as a rallying point for initial uprisings. The mosque remains deeply intertwined with the modern political identity of Benghazi's residents. Sociology K8 — religious spaces and political activism.",
+      "id": "ly-hospitaller-fort-benghazi-history-v2",
+      "descriptionAdvanced": "The Hospitaller Fort in Benghazi, also known as the Fort of Benghazi, is a historic maritime fortification with roots dating back to the medieval period. While mostly rebuilt during the Ottoman and Italian eras, it is traditionally associated with the Knights of Malta (Hospitallers) who once raided and briefly occupied parts of the Libyan coast. The fort was designed to protect the strategic harbor of Benghazi from naval invasions and piracy. Over the centuries, it has served as a military garrison, a prison, and a symbol of colonial power. The fort's location at the edge of the historic city center makes it a significant landmark for understanding Benghazi's long history as a contested Mediterranean port. History K7 — medieval naval warfare and coastal fortifications.",
       "factsAdvanced": [
-        "Located on the highly prominent Al-Kish Square in Benghazi.",
-        "Features a modern, expansive architectural design to hold large crowds.",
-        "Gained massive historical significance during the 2011 Libyan revolution.",
-        "Served as a primary rallying point for early political uprisings.",
-        "The adjacent square is frequently used for massive civic gatherings.",
-        "Deeply tied to the modern political identity of eastern Libya."
+        "A historic coastal fortress located in the old center of Benghazi.",
+        "Associated with the maritime conflicts between the Ottomans and the Knights of Malta.",
+        "Reconstructed and expanded during the 19th-century Ottoman rule.",
+        "Served as a primary military and administrative center for eastern Libya.",
+        "Located near the historic Benghazi lighthouse and the port entrance.",
+        "Characterized by high stone walls and strategic watchtowers.",
+        "The fort was a focal point of military activity during both World Wars.",
+        "Currently a protected historical site representing Benghazi's maritime defense history."
       ]
     },
     {
-      "id": "benghazi-great-mosque-landmarks-v2",
-      "descriptionAdvanced": "The Benghazi Great Mosque, historically known as the Atik Mosque, is the oldest existing Islamic structure in the city. Located in the historic Medina, its deeply traditional architecture reflects centuries of North African Islamic design, featuring a modest, unadorned exterior and a serene internal courtyard. Unlike the massive, modern mosques built during the oil boom, this structure offers a quiet, profound link to Benghazi's pre-colonial past. It remains a beloved, active place of worship for the city's oldest families. History K7 — historic urban mosques.",
+      "id": "ly-benghazi-cathedral-history-v2",
+      "descriptionAdvanced": "The Benghazi Cathedral is a massive and iconic landmark in the heart of Libya's second city, built during the Italian colonial period in the late 1920s. Its unique architecture is characterized by two large, prominent domes that dominate the Benghazi skyline. It was once one of the largest cathedrals in North Africa, serving as a center for the Catholic community before being repurposed after the 1969 revolution. The building's neoclassical and modernist design reflects the scale of Italian architectural ambition in Cyrenaica. Despite being damaged and currently under renovation, the cathedral remains a profound symbol of Benghazi's layered colonial and modern history. History K8 — Italian colonial architecture and urban landmarks.",
       "factsAdvanced": [
-        "The oldest continuously functioning mosque in the city of Benghazi.",
-        "Located within the historic, narrow streets of the city's Medina.",
-        "Also widely known locally as the Atik Mosque.",
-        "Features deeply traditional, unpretentious North African architecture.",
-        "Provides a serene, quiet central courtyard for worshippers.",
-        "A profound surviving link to Benghazi's pre-colonial history."
+        "Constructed between 1929 and 1939 by Italian architect Ottavio Cabiati.",
+        "One of the largest Christian cathedrals built in North Africa.",
+        "Famous for its two massive, distinctive domes that are visible across the city.",
+        "Located near the central port and the historic Italian-built districts.",
+        "Served as the Cathedral of the Vicariate Apostolic of Benghazi.",
+        "Later repurposed as a headquarters for the Arab Socialist Union.",
+        "Currently a major focus of cultural heritage and urban restoration projects.",
+        "Represents the grandeur of the 20th-century Italian urban planning in Libya."
       ]
     },
     {
-      "id": "tripoli-zoo-life-v2",
-      "descriptionAdvanced": "The Tripoli Zoo, located within the expansive Abu Sitta park complex, was historically one of the largest zoological and botanical gardens in North Africa. Before periods of severe national conflict, it housed a massive collection of African wildlife, including lions, elephants, and diverse bird species. The dense canopy of eucalyptus and pine trees within the park offers a massive 'green lung' for the densely populated capital. Although the animal population has suffered in recent decades, the park itself remains a vital recreational space for families. Biology K6 — urban zoological parks.",
+      "id": "ly-jalu-old-fort-history-v2",
+      "descriptionAdvanced": "The Old Fort of Jalu is a historic mud-brick fortification located in the heart of the Jalu oasis in northeastern Libya. It served as a vital administrative and defensive post for the Ottoman Empire, guarding the critical trans-Saharan trade routes and the nearby oil-rich oases. The fort features traditional Saharan military architecture, with high walls, narrow arrow-slits, and a central courtyard. It was once the center of power for the local governors and a refuge for the oasis population during times of conflict. The Jalu Old Fort is a stark and beautiful example of the architectural heritage of the Libyan desert, symbolizing the strategic importance of the Al-Wahat region for centuries. History K8 — Saharan trade routes and Ottoman desert forts.",
       "factsAdvanced": [
-        "Located within the massive Abu Sitta park complex in Tripoli.",
-        "Historically one of the largest and most diverse zoos in North Africa.",
-        "Housed extensive collections of native African and exotic wildlife.",
-        "Features a massive, dense canopy of mature eucalyptus and pine trees.",
-        "Serves as a critical 'green lung' for the densely populated capital.",
-        "Currently struggling with rehabilitation efforts after years of conflict."
+        "A historic mud-brick fortress located in the center of the Jalu oasis.",
+        "Historically guarded the caravan routes between Cyrenaica and central Africa.",
+        "Built during the Ottoman period to assert control over the desert interior.",
+        "Features classic Saharan defensive design with thick, sun-dried mud walls.",
+        "Located near the ancient Jalu Great Mosque and the historic date groves.",
+        "Served as a primary administrative hub for the Al-Wahat District.",
+        "Provides unique insights into the history of desert governance and defense.",
+        "A primary cultural landmark for the people of the eastern Libyan desert."
       ]
     },
     {
-      "id": "benghazi-zoo-life-v2",
-      "descriptionAdvanced": "The Benghazi Zoo, often referred to as Al-Bosco, is a sprawling recreational park and zoological garden located near the city center. It has long been a beloved weekend destination for local families, offering shaded walkways, small lakes, and various animal exhibits. Like many civic institutions in Libya, it faced severe challenges and structural damage during the intense urban warfare of 2014. Recent community-driven efforts have focused on rehabilitating the park's greenery and ensuring the welfare of its remaining animal residents. Sociology K6 — urban recreation and civic rehabilitation.",
+      "id": "ly-qasr-al-haj-history-v2",
+      "descriptionAdvanced": "Qasr al-Haj is a world-renowned masterpiece of Berber (Amazigh) architecture, located about 130 kilometers southwest of Tripoli. This massive, circular fortified granary was built in the 12th century to store the collective grain and oil supplies of the local community. It contains 114 individual storage chambers, corresponding to the number of suras in the Quran, arranged over several floors around a grand central courtyard. The Qasr is built of local stone, gypsum, and mud, and its thick walls provided natural cooling and security. Qasr al-Haj is one of the most iconic and perfectly preserved traditional buildings in North Africa, representing the communal spirit and architectural brilliance of the Nafusa Mountain people. History K8 — Berber granaries and communal architecture.",
       "factsAdvanced": [
-        "A large public park and zoological garden located centrally in Benghazi.",
-        "Locally referred to affectionately as 'Al-Bosco'.",
-        "Historically featured shaded walkways, small lakes, and diverse animal enclosures.",
-        "Suffered significant neglect and damage during the 2014 urban conflicts.",
-        "Has been the focus of recent, passionate community rehabilitation efforts.",
-        "A highly nostalgic recreational space for generations of Benghazi residents."
+        "A magnificent 12th-century circular fortified granary (qasr).",
+        "Contains 114 individual storage chambers built into its massive walls.",
+        "Located on the road to the Nafusa Mountains, 130 kilometers from Tripoli.",
+        "Built to protect the community's food supplies from heat and invaders.",
+        "Constructed using traditional local materials including mud and stone.",
+        "Features a spectacular central courtyard used for communal gatherings.",
+        "One of the best-preserved and most photographed buildings in Libya.",
+        "A primary symbol of Amazigh (Berber) cultural and architectural heritage."
       ]
     },
     {
-      "id": "misrata-park-life-v2",
-      "descriptionAdvanced": "Misrata City Park is a beautifully landscaped, expansive public space that provides a sharp, green contrast to the city's heavy industrial zones. Designed to offer recreational relief for the city's booming population, the park features extensive manicured lawns, children's playgrounds, and shaded seating areas. It is particularly vibrant in the late evenings, when families gather to escape the summer heat and enjoy local street food vendors. The park represents the civic wealth generated by Misrata's robust commercial sector. Sociology K6 — urban green spaces and civic wealth.",
+      "id": "tripoli-tower-landmarks-v2",
+      "descriptionAdvanced": "The Tripoli Tower is the most recognizable skyscraper in Libya, soaring over the capital's central business district as a symbol of modern urban development. Completed in 2003, this elegant glass-and-steel structure stands 144 meters tall and was originally known as the Al-Fateh Tower. It houses the headquarters for major national oil companies, international banks, and luxury commercial spaces. The tower's sleek, curved design is a hallmark of Tripoli's 21st-century skyline, reflecting the nation's economic ambitions. Its top floors offer unparalleled, panoramic views of the entire city and the Mediterranean coastline, making it a primary landmark for business and modern culture. Economics K7 — modern urban skylines and commercial hubs.",
       "factsAdvanced": [
-        "A massive, manicured public park located in the commercial city of Misrata.",
-        "Provides a stark, green contrast to the city's extensive heavy industry.",
-        "Features large lawns, modern playgrounds, and extensive shaded seating.",
-        "Heavily utilized by local families during the cooler evening hours.",
-        "Funded by the civic wealth generated through the city's massive port.",
-        "Hosts numerous local street food vendors and small community events."
+        "The tallest and most iconic modern skyscraper in Tripoli, Libya.",
+        "Completed in 2003 as a symbol of the nation's economic modernization.",
+        "Stands at a height of 144 meters with 25 floors of office and retail space.",
+        "Located in the heart of Tripoli's central business district near the port.",
+        "Home to the headquarters of many major international and national firms.",
+        "Features a distinctive modern glass-facade and curved architectural design.",
+        "Offers the highest panoramic vantage point over the capital and the sea.",
+        "A primary node for international business and finance in western Libya."
       ]
     },
     {
-      "id": "djebel-nafusa-agri-life-v2",
-      "descriptionAdvanced": "The olive groves of the Jebel Nafusa (Nafusa Mountains) are among the most ancient and productive agricultural landscapes in North Africa. Cultivated by indigenous Amazigh farmers for millennia, the terraced mountainsides are covered in hardy, drought-resistant olive trees that thrive in the rocky soil. The oil produced here is renowned across Libya for its intense, peppery flavor and high quality. This agricultural system is a masterpiece of sustainable, traditional dry-farming, relying entirely on seasonal mountain rainfall and deep root systems. Agriculture K7 — traditional dry-farming techniques.",
+      "id": "corinthia-hotel-tripoli-landmarks-v2",
+      "descriptionAdvanced": "The Corinthia Hotel Tripoli is the premier luxury hotel in Libya, located right at the edge of the Mediterranean Sea near the historic central business district. Opened in 2003, its twin curved towers are a major landmark, designed specifically to host international diplomats, journalists, and high-level business executives. The hotel features extensive high-security measures and operates as the focal point for international interaction within the country. It is famous for its opulent interior, five-star amenities, and spectacular sea views. The Corinthia represents the peak of luxury infrastructure in Libya and remains a vital hub for the nation's diplomatic and corporate engagement. Economics K7 — international diplomacy and luxury infrastructure.",
       "factsAdvanced": [
-        "Located on the terraced slopes of the western Nafusa Mountains.",
-        "Cultivated continuously by indigenous Amazigh farmers for thousands of years.",
-        "Produces olive oil highly renowned across Libya for its intense flavor.",
-        "Relies entirely on sustainable, traditional dry-farming techniques.",
-        "Trees feature massive, deep root systems to survive in rocky soil.",
-        "A critical economic and cultural pillar for the mountain communities."
+        "A massive, five-star luxury hotel complex located on the Tripoli waterfront.",
+        "Opened in 2003, featuring distinct, twin curved architectural towers.",
+        "The primary accommodation for international diplomats and global media.",
+        "Features extensive, highly fortified security perimeters for its guests.",
+        "Offers panoramic views directly overlooking the Mediterranean Sea and Medina.",
+        "Home to numerous high-level international conferences and diplomatic summits.",
+        "One of the most recognizable and prestigious buildings in North Africa.",
+        "A cornerstone of the modern hospitality sector in Libya."
       ]
     },
     {
-      "id": "gadamis-oasis-life-v2",
-      "descriptionAdvanced": "The Ghadames Oasis is a brilliant, emerald-green sanctuary entirely surrounded by the brutal, barren expanse of the Sahara Desert. This highly managed agricultural zone is sustained by a complex, ancient system of underground water channels that distribute water from a central artesian spring. The oasis is densely packed with date palms, which provide the necessary canopy shade to grow secondary crops like citrus, pomegranates, and vegetables below. The meticulous, communal management of water here is a testament to historic Saharan survival strategies. Agriculture K8 — oasis multi-canopy agriculture.",
+      "id": "dat-el-imad-landmarks-v2",
+      "descriptionAdvanced": "The Dat El Imad Towers constitute a massive, highly distinctive commercial complex in Tripoli, consisting of five identical, towering cylindrical skyscrapers. Built during the economic boom of the 1980s, the complex was designed to serve as the premier administrative hub for the nation's oil and banking sectors. Its brutalist, concrete-heavy design makes it incredibly resilient and highly visible from almost anywhere in the city. The complex remains one of the most vital corporate centers in North Africa, housing the offices of numerous national companies and government agencies. Dat El Imad is a profound physical manifestation of Libya's petroleum-driven urban growth. Economics K8 — brutalist architecture and corporate hubs.",
       "factsAdvanced": [
-        "A highly managed, lush agricultural zone surrounding the historic town of Ghadames.",
-        "Sustained entirely by a complex, ancient network of water distribution channels.",
-        "Utilizes a multi-canopy farming system with date palms providing crucial shade.",
-        "Produces high-quality dates, citrus fruits, pomegranates, and vegetables.",
-        "Water distribution is managed communally based on strict historical traditions.",
-        "Provides a brilliant green contrast to the surrounding hyper-arid Sahara."
+        "A massive commercial complex consisting of five identical cylindrical towers.",
+        "Constructed during the Libyan oil-driven economic boom of the 1980s.",
+        "Houses the headquarters for numerous major national banks and oil firms.",
+        "Features a resilient, highly distinctive brutalist concrete design.",
+        "Located in the prime central business district of Tripoli, near the coast.",
+        "A defining, instantly recognizable feature of the capital's skyline.",
+        "One of the largest office complexes in the Mediterranean region.",
+        "Serves as a major center for government and corporate administration."
       ]
     },
     {
-      "id": "kufra-orchard-life-v2",
-      "descriptionAdvanced": "The Kufra Orchards represent one of the most extreme and fascinating agricultural experiments on Earth, located in the absolute depths of the Libyan Sahara. Historically reliant on traditional oasis farming, the region now features massive center-pivot irrigation circles that tap directly into the ancient Nubian Sandstone Aquifer System. This allows for the cultivation of massive quantities of wheat, barley, and fruits in an area that receives effectively zero rainfall. The bright green circular fields are so massive they are easily visible from space. Geography K8 — extreme desert agriculture and aquifers.",
+      "id": "jamal-abdul-nasser-mosque-landmarks-v2",
+      "descriptionAdvanced": "The Jamal Abdel Nasser Mosque is a massive and visually stunning religious structure located in the heart of Tripoli, dominating the area near Martyrs' Square. Originally designed and constructed as a massive Catholic cathedral during the Italian colonial era (1928), the building is a masterpiece of architectural repurposing. After the 1969 revolution, it was heavily modified, its crosses replaced by crescents, and converted into one of the city's largest mosques. The towering architecture, with its grand arches and central location, beautifully illustrates the complex, layered history of modern Libya. It remains a central place of worship and a major landmark of the capital. Sociology K8 — architectural repurposing and national identity.",
       "factsAdvanced": [
-        "Located in the highly remote southeastern desert region of Kufra.",
-        "Utilizes massive center-pivot irrigation systems to grow crops in the sand.",
-        "Draws water directly from the ancient, fossilized Nubian Sandstone Aquifer.",
-        "Produces massive yields of wheat, barley, and various orchard fruits.",
-        "The bright green, circular fields are massive enough to be visible from space.",
-        "Represents an extreme, technologically driven approach to desert farming."
+        "A massive mosque that was originally built as a Catholic cathedral in 1928.",
+        "Located prominently near Martyrs' Square in the center of Tripoli.",
+        "Repurposed and renamed in honor of Egyptian leader Jamal Abdel Nasser in 1970.",
+        "One of the largest and most architecturally significant mosques in Libya.",
+        "Features a towering central structure and grand, soaring arches.",
+        "A primary example of the post-colonial transformation of Libyan urban spaces.",
+        "Remains a vital center for Friday prayers and major religious events.",
+        "Historically significant as it reflects the shift in Libya's national identity."
       ]
     },
     {
-      "id": "zawia-farm-life-v2",
-      "descriptionAdvanced": "The Zawia Agricultural Zone is a highly productive, densely farmed strip of land located on the Jafara plain just west of Tripoli. Benefiting from coastal aquifers and a relatively mild Mediterranean climate, this area is a primary supplier of fresh produce for the capital. The landscape is a patchwork of citrus orchards, olive groves, and massive greenhouses growing tomatoes and cucumbers year-round. However, the intensive farming has led to concerns over the depletion and salinization of the local groundwater resources. Agriculture K7 — coastal plain farming and groundwater.",
+      "id": "martyrs-square-tripoli-landmarks-v2",
+      "descriptionAdvanced": "Martyrs' Square is the absolute epicenter of Tripoli, a massive public plaza that connects the historic walled Medina to the modern commercial districts. Historically known as Green Square during the Gaddafi era and Piazza Italia during colonial times, the square has always been the stage for the nation's most important political rallies and public celebrations. It is bordered by the imposing Red Castle and elegant Italianate arcades, making it the vibrant, bustling heart of the nation. The square is a popular gathering spot for families and serves as the primary node for Tripoli's social and political life. Sociology K8 — public squares and political history.",
       "factsAdvanced": [
-        "Located on the fertile Jafara plain, immediately west of Tripoli.",
-        "A massive supplier of fresh produce, citrus, and olives for the capital.",
-        "Features extensive use of modern greenhouses for year-round cultivation.",
-        "Benefits from a mild Mediterranean climate and coastal aquifers.",
-        "Intensive water extraction has led to severe concerns over groundwater salinization.",
-        "Characterized by a dense, highly subdivided patchwork of family-owned farms."
+        "The primary, massive public plaza in the absolute center of Tripoli.",
+        "Historically known as Green Square and Piazza Italia.",
+        "Bordered directly by the Red Castle and the historic Medina.",
+        "The traditional site for massive national political rallies and celebrations.",
+        "Features elegant, Italian-built colonnaded arcades on its southern edge.",
+        "Serves as the main transportation and social hub for the capital city.",
+        "A popular gathering spot for residents during national holidays and evenings.",
+        "The absolute focal point for revolutionary activities in 2011."
       ]
     },
     {
-      "id": "gharyan-nursery-life-v2",
-      "descriptionAdvanced": "The Gharyan Nursery region, located at the edge of the Nafusa Mountains, is a specialized agricultural zone famous for producing high-quality fruit tree saplings and ornamental plants. The cooler mountain elevation provides an ideal climate for germinating species that would struggle in the intense heat of the coastal plains. Farmers across Tripolitania travel to Gharyan to purchase young olive, almond, and fig trees. The nurseries here play a critical, foundational role in sustaining the broader agricultural economy of western Libya. Agriculture K7 — specialized horticultural nurseries.",
+      "id": "tripoli-stadium-landmarks-v2",
+      "descriptionAdvanced": "The Tripoli Stadium, officially known as the June 11 Stadium, is the largest and most important sports venue in Libya. Located in the capital's sports city complex, it has a capacity of over 65,000 spectators and serves as the home ground for the Libyan national football team and the city's major clubs, Al-Ahly and Al-Ittihad. The stadium has hosted numerous international matches and major sporting events, including African Cup of Nations games. It is a central landmark for Libyan sports culture, where the passion for football brings together thousands of fans. The stadium's massive scale and history make it a vital part of the nation's social and athletic infrastructure. Sociology K7 — sports culture and national identity.",
       "factsAdvanced": [
-        "Located at the transitional edge of the Nafusa Mountains in western Libya.",
-        "Specializes in the germination and cultivation of fruit tree saplings.",
-        "Produces high-quality young olive, almond, fig, and citrus trees.",
-        "Benefits from a cooler, more temperate climate due to its elevation.",
-        "Supplies essential agricultural stock to farmers across the Tripolitania region.",
-        "Plays a critical, foundational role in the national agricultural supply chain."
+        "The largest stadium in Libya, with a capacity of approximately 65,000.",
+        "Home to the Libyan national football team and the country's top clubs.",
+        "Opened in 1970 and served as a major venue for African football.",
+        "Located in the southern Tripoli Sports City complex.",
+        "Famous for its intense atmosphere during the 'Tripoli Derby' matches.",
+        "A primary center for national athletic training and major public events.",
+        "Named after the date of the evacuation of American bases from Libya.",
+        "One of the most significant pieces of sports infrastructure in North Africa."
       ]
     },
     {
-      "id": "sebha-park-life-v2",
-      "descriptionAdvanced": "The Sebha Family Park is a crucial public recreational space located in the capital of the harsh, southern Fezzan region. In a city dominated by dust, extreme heat, and sprawling concrete, the park offers a rare, highly valued canopy of shade trees and irrigated lawns. It serves as a central gathering point for families in the evenings, offering children's playgrounds and open spaces for socializing. Maintaining the greenery requires constant, dedicated irrigation drawn from deep Saharan aquifers. Sociology K6 — desert urban recreation.",
+      "id": "benina-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "The Benina Airport Terminal is the primary gateway to eastern Libya, serving as the international airport for the city of Benghazi. It is a critical infrastructure node that connects the Cyrenaica region with the rest of Libya and the international world. The terminal has undergone significant reconstruction and modernization in recent years to increase its capacity and improve passenger services. It handles hundreds of domestic and international flights, supporting trade, tourism, and diplomatic travel. The airport's strategic location and its role as a vital lifeline for eastern Libya make it one of the most important landmarks in the Benghazi metropolitan area. Economics K8 — aviation and regional infrastructure.",
       "factsAdvanced": [
-        "A highly valued public recreational park in the southern desert city of Sabha.",
-        "Provides a rare, vital canopy of shade in a notoriously hot, dusty environment.",
-        "Features irrigated lawns, walking paths, and children's playgrounds.",
-        "Requires constant, dedicated watering from deep subterranean aquifers.",
-        "Serves as the primary evening gathering space for local families.",
-        "Highlights the intense civic effort required to maintain greenery in the Sahara."
+        "The primary international airport terminal serving eastern Libya.",
+        "Located in the town of Benina, 19 kilometers east of Benghazi.",
+        "A vital gateway for trade, business, and travel for the Cyrenaica region.",
+        "Recently modernized with new passenger facilities and expanded runways.",
+        "Home to the primary operations of national carriers like Afriqiyah Airways.",
+        "A critical hub for the distribution of supplies and humanitarian aid.",
+        "Plays a major role in connecting Libya with regional hubs in Egypt and Turkey.",
+        "One of the most vital and high-traffic infrastructure sites in the country."
       ]
     },
     {
-      "id": "tubruq-garden-life-v2",
-      "descriptionAdvanced": "The Tobruk City Garden is a modest but deeply appreciated public square located near the historic center of the eastern coastal city. Characterized by hardy, salt-tolerant palm trees and Mediterranean shrubs, the garden offers a quiet respite from the bustling port and commercial traffic nearby. It frequently serves as a quiet meeting place for elders and a safe play area for children. The garden's resilience mirrors the city itself, maintaining life and color in a notably dry and arid coastal environment. Sociology K6 — coastal civic spaces.",
+      "id": "tibesti-hotel-benghazi-landmarks-v2",
+      "descriptionAdvanced": "The Tibesti Hotel is the most iconic and prestigious hotel in Benghazi, standing as a landmark of modern architecture in eastern Libya. Located on the edge of the Mediterranean Sea near the city center, its towering structure offers spectacular views of the Benghazi skyline and the port. Opened in the 1980s, the hotel has long been the primary choice for international business travelers, diplomats, and high-level events in the city. Its design reflects the urban development of Benghazi during the late 20th century. The Tibesti Hotel remains a symbol of the city's hospitality and its role as a major commercial and administrative center. Economics K7 — hospitality and urban development.",
       "factsAdvanced": [
-        "A modest, well-maintained public garden located in central Tobruk.",
-        "Landscaped with hardy, salt-tolerant palms and Mediterranean shrubs.",
-        "Offers a quiet, shaded respite from the busy nearby commercial port.",
-        "Frequently utilized as a gathering space for local elders and families.",
-        "Maintains greenery despite the highly arid, dry coastal climate of the extreme east.",
-        "A localized symbol of civic pride and urban resilience."
+        "The tallest and most famous luxury hotel in the city of Benghazi.",
+        "A primary landmark on the Benghazi waterfront since the 1980s.",
+        "Features international-standard luxury rooms and extensive meeting facilities.",
+        "Offers panoramic views of the Mediterranean Sea and the Benghazi port.",
+        "A central hub for international business and diplomatic activity in Cyrenaica.",
+        "Named after the Tibesti Mountains, a major Saharan mountain range.",
+        "Served as a major center for media and diplomats during the 2011 conflict.",
+        "A cornerstone of the tourism and hospitality infrastructure in eastern Libya."
       ]
     },
     {
-      "id": "al-baida-zoo-life-v2",
-      "descriptionAdvanced": "The Al-Baida Zoo, located in the lush, elevated environment of the Jabal al Akhdar, is one of the more unique recreational facilities in Libya. The cooler mountain climate allows the zoo to house species that would otherwise perish in the coastal or desert heat. Historically, it served as both a recreational park and a minor botanical garden, showcasing the unique flora of the Green Mountains alongside its animal exhibits. It remains a popular educational and weekend destination for families across Cyrenaica. Biology K6 — mountain zoological parks.",
+      "id": "benghazi-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "The Benghazi Lighthouse is a historic and functional maritime landmark that has guided ships into the city's harbor for over a century. Built during the Italian colonial period, its tall, elegant structure is one of the most recognizable features of the Benghazi coastline. The lighthouse stands at the entrance to the port, symbolizing the city's long history as a vital Mediterranean maritime hub. Beyond its navigational role, it is a popular cultural landmark, representing the resilience and maritime identity of the people of Benghazi. The lighthouse's beam is a constant reminder of the city's deep connection to the sea and its importance in international trade. History K7 — maritime history and coastal landmarks.",
       "factsAdvanced": [
-        "Located in the city of Al Bayda, high in the Jabal al Akhdar mountains.",
-        "Benefits from a cool, Mediterranean climate unique to the region.",
-        "Houses animal species that require lower temperatures than the desert can offer.",
-        "Historically functioned as a combined zoological and botanical garden.",
-        "Showcases the unique, natural flora native to the 'Green Mountains'.",
-        "A major educational and recreational destination for eastern Libyan families."
-      ]
-    },
-    {
-      "id": "djebel-akhdar-farm-life-v2",
-      "descriptionAdvanced": "The Jebel Akhdar (Green Mountains) Fruit Farming region is the most fertile and naturally productive agricultural zone in all of Libya. Blessed with the highest annual rainfall in the country and rich, red Mediterranean soil, the area produces massive quantities of apples, grapes, peaches, and honey. The landscape is intensely green, featuring rolling hills and deep valleys that look entirely out of place in North Africa. The traditional, family-owned farms here form the absolute backbone of eastern Libya's food supply. Agriculture K7 — high-rainfall Mediterranean farming.",
-      "factsAdvanced": [
-        "Located in the highly fertile Jabal al Akhdar mountains of Cyrenaica.",
-        "Receives the highest annual rainfall of any region in Libya.",
-        "Produces massive commercial quantities of apples, grapes, and peaches.",
-        "Features rich, distinctively red Mediterranean soil.",
-        "The landscape is characterized by deeply green, rolling hills and valleys.",
-        "Acts as the primary, critical food basket for the entire eastern region."
-      ]
-    },
-    {
-      "id": "slonta-nursery-life-v2",
-      "descriptionAdvanced": "The Slonta Nursery is a highly specialized agricultural center situated in the dense forests of the Jabal al Akhdar, south of Al Bayda. It is dedicated to the propagation of native Mediterranean flora, including juniper, cypress, and various fruit-bearing trees. The facility plays a crucial role in local reforestation efforts and supplies commercial farmers with robust, climate-adapted saplings. The dense, cool forest environment surrounding the nursery provides the perfect natural conditions for germinating delicate seedlings. Biology K7 — native flora propagation and reforestation.",
-      "factsAdvanced": [
-        "A highly specialized plant nursery located in the village of Slonta.",
-        "Situated within the dense, natural forests of the Jabal al Akhdar.",
-        "Dedicated to propagating native Mediterranean trees like juniper and cypress.",
-        "Supplies robust, climate-adapted saplings to regional commercial farmers.",
-        "Plays a critical role in local environmental conservation and reforestation.",
-        "Benefits from the cool, shaded, and moist mountain environment."
-      ]
-    },
-    {
-      "id": "jalu-oasis-farm-life-v2",
-      "descriptionAdvanced": "Jalu Oasis Farming represents the pinnacle of traditional Saharan date palm cultivation, located deep in the eastern desert depression. The oasis is dominated by an absolute sea of towering palm trees that provide deep shade for a complex, multi-tiered agricultural system below. Farmers utilize ancient, meticulously maintained irrigation trenches drawing from shallow fossil aquifers to water the groves. The dates produced in Jalu are renowned for their exceptional sweetness and form the core of the local export economy. Agriculture K8 — traditional oasis hydrology and cultivation.",
-      "factsAdvanced": [
-        "Located in the highly isolated Jalu depression in the eastern Libyan desert.",
-        "Dominated by a massive, dense forest of highly productive date palms.",
-        "Utilizes a traditional, multi-tiered farming system under the palm canopy.",
-        "Irrigation is managed via ancient trenches drawing from shallow fossil aquifers.",
-        "The locally produced dates are highly prized across Libya for their sweetness.",
-        "The farming system is deeply intertwined with local tribal traditions."
-      ]
-    },
-    {
-      "id": "awjila-orchard-life-v2",
-      "descriptionAdvanced": "The Awjila Date Grove is one of the oldest continuously farmed agricultural sites in North Africa, intrinsically linked to the survival of this ancient desert community. The grove relies on an incredibly delicate balance of subterranean water extraction and careful canopy management to protect crops from the brutal Saharan sun. Beyond dates, the farmers here cultivate small quantities of hardy grains and vegetables for subsistence. The preservation of these orchards is synonymous with the preservation of the unique Awjila culture itself. Sociology K8 — agricultural heritage and cultural survival.",
-      "factsAdvanced": [
-        "One of the oldest continuously cultivated oasis groves in North Africa.",
-        "Located in the eastern desert, closely associated with the unique Awjila community.",
-        "Relies on highly precise, traditional subterranean water management.",
-        "The dense palm canopy is essential for protecting secondary crops from the sun.",
-        "Produces subsistence quantities of hardy desert grains and vegetables.",
-        "The agricultural practices are vital to the survival of the local culture."
-      ]
-    },
-    {
-      "id": "tauergha-park-life-v2",
-      "descriptionAdvanced": "Tauergha Park is a deeply symbolic and historical green space located in the town of Tawergha, just south of Misrata. Historically, the area was known for its dense, natural palm groves and dark, fertile soil, which supported a unique local agricultural community. The town and its green spaces suffered catastrophic destruction and total depopulation during the 2011 revolution. Today, the slow, agonizing process of rehabilitating the park serves as a poignant symbol for the hopeful return and reconciliation of the Tawergha people. Sociology K8 — post-conflict rehabilitation and reconciliation.",
-      "factsAdvanced": [
-        "Located in the historically prominent agricultural town of Tawergha.",
-        "Historically known for dense, highly productive natural palm groves.",
-        "The entire town, including the park, was devastated and depopulated in 2011.",
-        "Currently the focus of highly sensitive, slow post-conflict rehabilitation efforts.",
-        "Features dark, uniquely fertile soil compared to the surrounding coastal plains.",
-        "Serves as a powerful, poignant symbol for national reconciliation and return."
+        "A historic and active lighthouse guiding ships into Benghazi harbor.",
+        "Built during the Italian colonial era in the early 20th century.",
+        "One of the most recognizable symbols of Benghazi's coastal identity.",
+        "Located near the historic city center and the main commercial port.",
+        "Features a distinctive architectural design that has survived multiple conflicts.",
+        "A primary landmark for maritime navigation in the eastern Gulf of Sidra.",
+        "Often featured in local art and literature as a symbol of the city.",
+        "A protected historical monument representing Libya's maritime heritage."
       ]
     }
   ]

@@ -1,0 +1,177 @@
+{
+  "lang": "ro",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kabompo-river-nature-v2",
+      "descriptionAdvanced": "Râul Kabompo izvorăște în nord-vestul Zambiei și parcurge aproximativ 440 de kilometri înainte de a se vărsa în Zambezi. Acesta traversează zone izolate și bogate în păduri, care contribuie semnificativ la protecția naturală a florei și faunei regionale. Deoarece cursul său trece prin regiuni aproape neexplorate, Kabompo este considerat unul dintre cele mai naturale sisteme fluviale din nord-vestul țării, oferind un habitat esențial pentru fauna locală și reprezentând o legătură hidrologică vitală într-o zonă caracterizată prin spații naturale extinse și neatinse.",
+      "factsAdvanced": [
+        "Afluent important al fluviului Zambezi în nord-vestul Zambiei",
+        "Lungimea totală a cursului este de aproximativ 440 kilometri",
+        "Izvorăște în regiunile izolate din nord-vest",
+        "Curge în mare parte prin zone forestiere neexplorate",
+        "Considerat unul dintre cele mai naturale sisteme fluviale din regiune",
+        "Arteră ecologică vitală pentru fauna locală"
+      ]
+    },
+    {
+      "id": "luangwa-valley-nature-v2",
+      "descriptionAdvanced": "Valea Luangwa este renumită la nivel mondial pentru concentrația sa extraordinar de ridicată de animale sălbatice, fiind considerată una dintre ultimele zone sălbatice veritabile ale Africii. Râul Luangwa șerpuiește prin această vale, inundațiile sale sezoniere creând soluri fertile care susțin viața a mii de animale. Regiunea găzduiește populații impresionante de elefanți, leoparzi și hipopotami, făcând din Valea Luangwa una dintre cele mai importante destinații pentru conservarea naturii și ecoturism. Dinamica peisajului dintre savana uscată și malurile verzi ale râului oferă un habitat de o valoare ecologică inestimabilă.",
+      "factsAdvanced": [
+        "Renumită pentru una dintre cele mai mari concentrații de animale din Africa",
+        "Una dintre cele mai importante zone de protecție pentru elefanții africani",
+        "Luncile Luangwa constituie fundația ecologică a văii",
+        "Faimoasă pentru densitatea mare de observații de leoparzi",
+        "Peisajul se remarcă prin dinamica sezonieră marcată",
+        "Habitat esențial pentru specii de mamifere mari amenințate"
+      ]
+    },
+    {
+      "id": "lusiwashi-lake-nature-v2",
+      "descriptionAdvanced": "Lacul Lusiwashi este un corp de apă mai mic, dar central pentru ecologia locală din regiunea Muchinga. Acesta servește drept adăpost și sursă de apă pentru numeroase specii de păsări și populații animale locale, în special în timpul lunilor secetoase. Mediul natural al lacului, integrat în peisajul tipic al provinciei Muchinga, îl transformă într-un punct de interes pentru observarea naturii neatinse, departe de rutele turistice principale. Prin funcția sa de rezervor de apă, contribuie semnificativ la stabilizarea microclimatului local și susține conservarea biodiversității în această zonă liniștită.",
+      "factsAdvanced": [
+        "Apă regională importantă în provincia Muchinga",
+        "Servește drept sursă crucială de apă în perioadele de secetă",
+        "Habitat semnificativ pentru o varietate de specii de păsări",
+        "Mediu natural situat departe de centrele turistice principale",
+        "Contribuie la stabilizarea microclimatului local",
+        "Oferă condiții ideale pentru observarea naturii sălbatice"
+      ]
+    },
+    {
+      "id": "chishimba-falls-nature-v2",
+      "descriptionAdvanced": "Cascada Chishimba, situată lângă Kasama în nordul Zambiei, constituie un sistem spectaculos de trei cascade succesive pe râul Luombe. Acest monument natural este profund înrădăcinat în cultura locală a poporului Bemba, care a respectat și protejat locul ca fiind sacru timp de generații. Mediul umed și cețos din jurul cascadelor permite dezvoltarea unei vegetații luxuriante, aproape ca a unei păduri tropicale, creând un contrast puternic față de savana înconjurătoare. Cascada nu este doar o destinație turistică impresionantă, ci și un centru de conservare a moștenirii culturale și a ecosistemelor fluviale.",
+      "factsAdvanced": [
+        "Sistem de trei cascade spectaculoase pe râul Luombe",
+        "Situată în Provincia de Nord, aproape de Kasama",
+        "Loc sacru cu semnificație istorică pentru poporul Bemba",
+        "Spray-ul susține o floră luxuriantă, asemănătoare pădurilor tropicale",
+        "Destinație consacrată pentru ecoturism și trasee naturale",
+        "Fluxul constant de apă menține microclimatul local"
+      ]
+    },
+    {
+      "id": "kalambo-falls-nature-v2",
+      "descriptionAdvanced": "Cascada Kalambo se numără printre cele mai impresionante cascade cu o singură treaptă din toată Africa, prăbușindu-se de la o înălțime de 235 de metri într-un defileu adânc, înconjurat de pereți stâncoși, la granița dintre Zambia și Tanzania. Importanța arheologică a acestui loc este la fel de remarcabilă, fiind descoperite aici urme ale primelor așezări umane. Geologia dramatică și locația izolată transformă Kalambo într-o destinație unică pentru iubitorii de natură, dornici să experimenteze frumusețea sălbatică și neatinsă a nordului Zambiei.",
+      "factsAdvanced": [
+        "Una dintre cele mai înalte cascade cu o singură treaptă din Africa",
+        "Înălțimea căderii atinge 235 de metri",
+        "Sit arheologic important cu descoperiri timpurii",
+        "Situată într-un defileu spectaculos și adânc",
+        "Formează o barieră naturală de graniță cu Tanzania",
+        "Habitat important pentru specii specializate de păsări"
+      ]
+    },
+    {
+      "id": "ngonye-falls-nature-v2",
+      "descriptionAdvanced": "Cascada Ngonye de pe fluviul Zambezi este cunoscută pentru forma sa distinctă de semilună și forța sa imensă. Deși nu atinge înălțimea Cascadei Victoria, impresionează prin volumul masiv de apă care se revarsă peste formațiunile stâncoase. Deoarece se află la mare distanță de principalele fluxuri turistice, oferă o experiență naturală autentică și liniștită. Mediul neatinse, puțin explorat, servește ca refugiu pentru diverse specii de animale sălbatice, care sunt native în această regiune bogată în ape de-a lungul Zambezilor.",
+      "factsAdvanced": [
+        "Formațiune stâncoasă în formă de semilună pe Zambezi",
+        "Volum impresionant de apă în tranzit",
+        "Situată în sud-vestul izolat al Zambiei",
+        "Aflată în mare parte în afara fluxurilor turistice majore",
+        "Mediu neatinse cu integritate ecologică ridicată",
+        "Habitat vital de-a lungul cursului fluviului Zambezi"
+      ]
+    },
+    {
+      "id": "lupupa-swamp-nature-v2",
+      "descriptionAdvanced": "Mlaștina Lupupa din nordul Zambiei este un teritoriu sălbatic extrem de izolat și nealterat, care reprezintă un ecosistem complex. Aici, zonele inundate sezonier alternează cu vegetație de mlaștină densă și specializată, creând un habitat ideal pentru amfibieni și păsări de apă. Datorită dificultății de acces, zona a fost ferită de intervențiile umane, păstrându-și caracterul original. Această izolare o transformă într-un spațiu important pentru studierea ciclurilor ecologice neperturbate și a adaptării naturale a florei și faunei la variațiile nivelului apei.",
+      "factsAdvanced": [
+        "Mlaștină extrem de izolată și nealterată",
+        "Interacțiune complexă între suprafețele de apă și vegetație",
+        "Habitat ideal pentru numeroase specii de amfibieni",
+        "Flora influențată de variațiile sezoniere ale nivelului apei",
+        "Sălbăticie aproape neatinsă de intervenția umană",
+        "Zonă importantă pentru studii ecologice"
+      ]
+    },
+    {
+      "id": "mweru-wantipa-lake-nature-v2",
+      "descriptionAdvanced": "Lacul Mweru-Wantipa este un lac puțin adânc în nordul Zambiei, inseparabil de mlaștinile care îl înconjoară. Apa lacului are un caracter ușor salin, ceea ce, combinat cu variațiile sezoniere ale nivelului apei, creează o nișă ecologică unică. Zona protejată vastă din jurul lacului este un paradis pentru ornitologi, având una dintre cele mai mari densități de păsări de apă din nordul Zambiei. Natura dinamică a lacului, care alternează între perioade bogate în apă și perioade aproape uscate, îl transformă într-un exemplu fascinant de adaptabilitate a naturii.",
+      "factsAdvanced": [
+        "Lac puțin adânc conectat cu un sistem de mlaștini",
+        "Apa are un caracter ușor salin",
+        "Zonă protejată cu densitate mare de păsări de apă",
+        "Dinamica sezonieră puternică a nivelului apei",
+        "Exemplu fascinant de adaptare ecologică",
+        "Punct cheie pentru speciile de păsări din nordul Zambiei"
+      ]
+    },
+    {
+      "id": "luangwa-river-head-nature-v2",
+      "descriptionAdvanced": "Regiunea izvoarelor râului Luangwa se află într-o zonă montană înaltă, aspră din punct de vedere climatic și pitorească, în nord-estul Zambiei. Aici izvorăște fluviul într-un peisaj montan marcat de cursuri de apă cristaline și o floră diversă și specializată. Locația inaccesibilă protejează eficient această zonă de intervențiile umane pe scară largă, păstrând un peisaj natural sălbatic aproape nealterat. Această regiune constituie fundația hidrologică pentru întregul ecosistem Luangwa și este un refugiu crucial pentru speciile adaptate la condițiile de platou montan.",
+      "factsAdvanced": [
+        "Regiunea izvoarelor râului Luangwa la mare altitudine",
+        "Peisaj definit de regiuni montane în nord-est",
+        "Adăpostește cursuri de apă cristaline și neatinse",
+        "Peisaj natural sălbatic inaccesibil",
+        "Baza hidrologică pentru întregul ecosistem Luangwa",
+        "Habitat pentru specii specializate la altitudine"
+      ]
+    },
+    {
+      "id": "mulungushi-river-nature-v2",
+      "descriptionAdvanced": "Râul Mulungushi este un afluent important în centrul Zambiei, fiind strâns legat de dezvoltarea economică și conservarea naturii din această regiune. Cursul său este definit de o floră naturală care oferă adăpost unor diverse mamifere mici și îndeplinește o funcție ecologică vitală. În plus, râul joacă un rol în furnizarea de energie hidroelectrică, instalațiile fiind concepute astfel încât caracterul ecologic al râului să fie păstrat în mare măsură. Regiunea este un exemplu important al echilibrului dintre utilizarea infrastructurală necesară și conservarea habitatelor naturale valoroase.",
+      "factsAdvanced": [
+        "Afluent important în centrul Zambiei",
+        "Curs natural cu funcție ecologică semnificativă",
+        "Resursă de apă importantă pentru regiunea înconjurătoare",
+        "Susține o populație piscicolă diversă",
+        "Utilizare pentru hidroenergie modernă",
+        "Legătură vitală între utilizare și conservarea naturii"
+      ]
+    },
+    {
+      "id": "luapula-valley-nature-v2",
+      "descriptionAdvanced": "Valea Luapula se remarcă prin vegetația sa luxuriantă, aproape tropicală, și biodiversitatea ridicată, făcând din aceasta una dintre cele mai fertile regiuni ale Zambiei. Ca habitat pentru numeroase specii, valea constituie o coloană vertebrală ecologică importantă în nordul țării. Luncile fertile ale Luapulei, combinate cu resursele bogate ale văii, susțin o rețea alimentară complexă și oferă condiții ideale pentru o densitate mare de păsări și amfibieni. Protecția acestei regiuni este de o importanță centrală pentru asigurarea pe termen lung a integrității biologice în întregul nord al Zambiei.",
+      "factsAdvanced": [
+        "Vegetația luxuriantă, aproape tropicală, definește valea",
+        "Una dintre cele mai diversificate regiuni din nordul Zambiei",
+        "Coloană vertebrală ecologică prin lunci fertile",
+        "Susține o rețea alimentară complexă și bogată",
+        "Densitate mare de păsări și specii de amfibieni",
+        "Regiune cheie pentru integritatea biologică a nordului"
+      ]
+    },
+    {
+      "id": "iitezhi-tezhi-lake-nature-v2",
+      "descriptionAdvanced": "Lacul Itezhi-Tezhi este un corp de apă artificial situat la marginea Parcului Național Kafue, care impresionează prin dimensiunea sa imensă și semnificația ecologică. Deși a fost creat de om, regiunea din jurul lacului s-a transformat într-o zonă naturală valoroasă, oferind numeroaselor păsări de apă un loc sigur de cuibărit. Suprafața de apă servește, de asemenea, ca o barieră importantă și un tampon de protecție pentru zonele sălbatice adiacente ale parcului național. Aceasta subliniază modul în care măsurile de gestionare a apei pot crea nișe ecologice care promovează conservarea naturii pe termen lung.",
+      "factsAdvanced": [
+        "Lac mare creat artificial lângă Parcul Național Kafue",
+        "Barieră naturală importantă de protecție pentru parc",
+        "Zonă de cuibărit și odihnă semnificativă pentru păsări",
+        "Tampon ecologic pentru sălbăticia nealterată adiacentă",
+        "Demonstrează sinergia dintre gestionarea apei și conservare",
+        "Importanță considerabilă pentru biodiversitatea regională"
+      ]
+    },
+    {
+      "id": "chisamba-forest-nature-v2",
+      "descriptionAdvanced": "Pădurile din Chisamba sunt vestigii semnificative ale pădurii de Miombo care acoperea odinioară mari părți din centrul Zambiei și care astăzi este sub presiune din cauza expansiunii agricole. Aceste insule ecologice funcționează ca refugii indispensabile pentru avifauna nativă și specii de mamifere mici, stabilizând în același timp calitatea solului și regimul hidric local. Pădurile sunt, de asemenea, o sursă tradițională de plante medicinale și produse forestiere comestibile, ceea ce le face valoroase din punct de vedere ecologic și sociocultural pentru comunitatea locală. Conservarea acestor fragmente forestiere este un pas crucial pentru conservarea naturii în regiunea agrară Chisamba.",
+      "factsAdvanced": [
+        "Fragmente importante de pădure Miombo în centrul Zambiei",
+        "Refugiu esențial pentru păsări și mamifere mici native",
+        "Sursă tradițională de plante medicinale și fructe de pădure",
+        "Critic pentru stabilizarea calității solului local",
+        "Fragmentat puternic de agricultura avansată",
+        "Habitat cheie pentru polenizatorii locali"
+      ]
+    },
+    {
+      "id": "luangwa-swamps-nature-v2",
+      "descriptionAdvanced": "Mlaștinile de-a lungul râului Luangwa sunt zone mlăștinoase inundate periodic care formează un ecosistem extrem de dinamic și bogat în specii. Inundațiile anuale duc la o reînnoire constantă a sedimentelor bogate în nutrienți, ceea ce permite dezvoltarea unei flore specializate și o concentrație extraordinar de mare de păsări. Acest habitat este deosebit de important pentru speciile migratoare și oferă un adăpost sigur pentru numeroase animale sălbatice în perioadele critice ale anului. Dinamica ecologică a acestor zone mlăștinoase este strâns legată de întregul sistem hidrologic al văii Luangwa, fiind o componentă indispensabilă a biodiversității regionale.",
+      "factsAdvanced": [
+        "Ținut mlăștinos dinamic de-a lungul cursului râului Luangwa",
+        "Reînnoire regulată a sedimentelor prin inundații",
+        "Habitat remarcabil pentru specii specializate de păsări de apă",
+        "Zonă de retragere importantă pentru speciile migratoare",
+        "Componentă esențială a ecosistemului Luangwa",
+        "Concentrație mare de specii prin aportul sezonier de nutrienți"
+      ]
+    }
+  ]
+}

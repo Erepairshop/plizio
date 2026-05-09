@@ -1,27 +1,35 @@
-
 import re
+import os
 
-file_path = 'lib/visualLab/data/finlandPoi.ts'
-with open(file_path, 'r', encoding='utf-8') as f:
-    content = f.read()
+files = [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+]
 
-# Improved regex to find POI objects
-pois = re.split(r'\{\s+id:', content)[1:]
-
-for p in pois:
-    poi_id_match = re.search(r'^ "([^"]+)"', p)
-    if not poi_id_match: continue
-    poi_id = poi_id_match.group(1)
+for file_path in files:
+    if not os.path.exists(file_path):
+        continue
     
-    facts_adv_match = re.search(r'factsAdvanced:\s*\{(.*?)\}', p, re.DOTALL)
-    if facts_adv_match:
-        en_match = re.search(r'en:\s*\[(.*?)\]', facts_adv_match.group(1), re.DOTALL)
-        if en_match:
-            # Count elements in array
-            facts = re.findall(r'"([^"]*)"', en_match.group(1))
-            if len(facts) < 3:
-                print(f"POI: {poi_id} - Only {len(facts)} facts in factsAdvanced.en")
-        else:
-            print(f"POI: {poi_id} - Missing en in factsAdvanced")
-    else:
-        print(f"POI: {poi_id} - Missing factsAdvanced")
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    matches = list(re.finditer(r'id:\s*"([^"]+)"', content))
+    
+    for i in range(len(matches)):
+        poi_id = matches[i].group(1)
+        start_pos = matches[i].start()
+        end_pos = matches[i+1].start() if i + 1 < len(matches) else content.find('];', start_pos)
+        block = content[start_pos:end_pos]
+        
+        if "factsAdvanced" in block:
+             facts_block_match = re.search(r'de:\s*\[(.*?)\]', block[block.find("factsAdvanced"):], re.DOTALL)
+             if facts_block_match:
+                  facts = re.findall(r'"([^"]+)"', facts_block_match.group(1))
+                  if len(facts) < 6:
+                       print(f"ID: {poi_id} - {len(facts)} facts in {file_path}")
+

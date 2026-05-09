@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "ecuador",
+  "files": [
+    "lib/visualLab/data/poiExtraEcuadorEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ecuasal-salzproduktion-economic-v2",
+      "descriptionAdvanced": "Az Ecuasal Salinasban található sótermelő üzeme az ország legnagyobb ilyen jellegű létesítménye, amely modern technológiai megoldásokkal biztosítja a kiváló minőségű sót mind étkezési, mind ipari felhasználásra. A csendes-óceáni partvidék kedvező klímája és az évszázados sólepárlási tapasztalatok kombinációja teszi lehetővé, hogy az Ecuasal nemcsak Ecuador teljes területét ellássa, de sikeresen exportáljon több latin-amerikai országba is. A vállalati hatékonyság, a tengeri erőforrások hasznosítása és a regionális ipari központok működése kiváló gazdasági téma a K7-es szintű tantervben, ahol a diákok a nyersanyagfeldolgozás és a nemzetközi kereskedelem összefüggéseit tárgyalhatják.",
+      "factsAdvanced": [
+        "Ecuador legnagyobb sótermelő vállalata.",
+        "Korszerű, modern technológiával felszerelt gyártólétesítmények.",
+        "Széleskörű termékkínálat étkezési és különféle ipari sófajtákból.",
+        "A fő termelési központja a Salinas-félszigeten található.",
+        "Jelentős exportpiacokkal rendelkezik Latin-Amerikában.",
+        "Az iparág fontos szerepet tölt be a part menti gazdaságban.",
+        "Folyamatos innovációval optimalizálják a termelési kapacitást."
+      ]
+    },
+    {
+      "id": "puerto-de-provincia-de-el-oro-economic-v2",
+      "descriptionAdvanced": "Az El Oro tartományi kikötő, amelyet gyakran Puerto Bolívar néven ismernek, Ecuador déli részének legfontosabb tengeri kapuja, amely elengedhetetlen a régió mezőgazdasági és bányászati termékeinek globális piacokra juttatásához. A többcélú kikötő a banán, a garnélarák és az aranyexport kulcsfontosságú csomópontja, amely folyamatosan igazodik a nemzetközi logisztikai igényekhez. Az El Oro tartomány gazdasági ereje és a kikötő logisztikai kapacitásának összekapcsolása szemléletes példa a K8-as szintű földrajzi tantervben a régiók gazdasági integrációjának és a tengeri kereskedelem fontosságának bemutatására.",
+      "factsAdvanced": [
+        "Puerto Bolívar a hivatalos többcélú kikötő neve.",
+        "Az ecuadori banán- és garnélaexport egyik kulcsfontosságú bázisa.",
+        "Kiemelt jelentőségű az aranyexport lebonyolítása szempontjából.",
+        "A déli országrész gazdasági kapuja a globális piacokra.",
+        "Folyamatos infrastrukturális fejlesztések jellemzik.",
+        "A mezőgazdaságilag rendkívül gazdag El Oro tartományt szolgálja ki.",
+        "Hatékony tengeri összeköttetést biztosít a nemzetközi útvonalakhoz."
+      ]
+    },
+    {
+      "id": "general-tire-cuenca-economic-v2",
+      "descriptionAdvanced": "A General Tire gyár Cuencában, a Continental csoport részeként, az ecuadori és az andoki régió autóiparának egyik meghatározó gumiabroncs-gyártója. A gyár termékei, amelyeket személy- és teherautók számára egyaránt gyártanak, kiemelt szerepet töltenek be a közlekedési szektor ellátásában. A Cuencai Ipari Park szerves részeként az üzem nemcsak technológiai szaktudást képvisel, hanem munkahelyek százait is biztosítja a régióban. A nagyüzemi gumiabroncs-gyártás, a technológiai innovációk és a nemzetközi vállalatcsoportok szerepe a regionális gazdaságfejlesztésben izgalmas téma a K8-as szintű gazdasági ismeretek órákon.",
+      "factsAdvanced": [
+        "A Continental csoport egyik fontos regionális gyára.",
+        "Személy- és teherautó-abroncsok széles választékát gyártják.",
+        "A Cuencai Ipari Park egyik meghatározó üzeme.",
+        "Fő ellátója az ecuadori és az andoki autópiacnak.",
+        "Magas szintű minőségi és biztonsági normákat követnek.",
+        "Fontos szerepet tölt be a helyi ipari foglalkoztatásban.",
+        "A gumiabroncs-gyártás az ecuadori közlekedési szektor alapköve."
+      ]
+    },
+    {
+      "id": "pescanova-garnelenfarm-economic-v2",
+      "descriptionAdvanced": "A Pescanova által üzemeltetett garnélarákfarmok a csendes-óceáni partvidék mangroveerdőinek környezetében működnek, ahol a 'fehérlábú garnélarák' tenyésztése Ecuador egyik legdinamikusabb és legnagyobb értékű exportágazatát képezi. A nagyüzemi akvakultúra-működés hatékonysága mellett a vállalatnak folyamatosan választ kell adnia az ökológiai kihívásokra és a fenntartható gazdálkodási elvárásokra. Az ipari szintű akvakultúra, az exportpiaci igények és az ökológiai egyensúly védelme közti összefüggések a K7-es szintű környezetismeret vagy földrajz órák fontos témakörei.",
+      "factsAdvanced": [
+        "A világ egyik vezető garnélarák-exportőrének számít Ecuador.",
+        "A farmok a part menti érzékeny mangrove-ökoszisztémákban találhatóak.",
+        "A 'fehérlábú garnélarák' a fő tenyésztési faj.",
+        "Az iparág komoly ökológiai fenntarthatósági kihívásokkal néz szembe.",
+        "A garnélarák Ecuador egyik legértékesebb exportcikke.",
+        "Technológiai innovációkkal törekszenek a hatékony termelésre.",
+        "A fenntartható akvakultúra az iparág jövőjének kulcsa."
+      ]
+    },
+    {
+      "id": "ingenio-valdez-zuckerfabrik-economic-v2",
+      "descriptionAdvanced": "Az Ingenio Valdez cukorgyár az ország egyik legrégebbi és legmeghatározóbb ipari létesítménye, amely az 1884-es alapítása óta döntő szerepet tölt be a Guayas tartomány gazdaságában. A cukornád feldolgozása során nemcsak cukrot, hanem melaszt és etanolt is előállítanak, ami jól szemlélteti az agráripari feldolgozás sokszínűségét és a körforgásos gazdasági potenciált. A gyár Milagro régiójának gazdasági stabilitásáért felel, miközben a fenntartható energiatermelés és az agráripari technológiák fejlesztése révén a jövőbe tekint. A hagyományok és az ipari modernizáció, valamint a cukornád-feldolgozás hatásai a regionális fejlődésre a K7-es szintű földrajzi tantervben is kiemelt figyelmet kapnak.",
+      "factsAdvanced": [
+        "1884-ben alapított történelmi cukorgyártó vállalat.",
+        "Cukor, melasz és megújuló energiaforrásként etanol gyártása.",
+        "A Guayas tartományból származó cukornádat dolgozzák fel.",
+        "Milagro régiójának egyik legfontosabb gazdasági szereplője.",
+        "Több mint egy évszázados hagyományokkal rendelkező ipari üzem.",
+        "A cukornád-feldolgozás az ecuadori agráripar szerves része.",
+        "Folyamatos modernizációval teszik hatékonyabbá a termelést."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "lang": "en",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zawiya-refinery-economic-v2",
+      "descriptionAdvanced": "The Zawiya Oil Refinery is Libya's largest and most vital downstream energy facility, located on the Mediterranean coast west of Tripoli. Operated by the Zawiya Oil Refining Company, it processes crude oil from the southern Sharara field into essential refined products such as gasoline, diesel, and fuel oil. The refinery is a critical pillar of Libya's energy security, providing the majority of the fuel consumed in the capital and the western region. Its sprawling industrial complex includes extensive storage tanks, processing units, and a dedicated maritime terminal. The Zawiya Refinery represents the industrial power of Libya's petroleum sector and its direct impact on the daily lives of millions. Economics K8 — oil refining and energy security.",
+      "factsAdvanced": [
+        "The largest oil refinery in Libya, providing most of the fuel for western Libya.",
+        "Located 45 kilometers west of Tripoli on the Mediterranean coast.",
+        "Connected by a 723-kilometer pipeline to the massive Sharara oil field.",
+        "Processes approximately 120,000 barrels of crude oil per day.",
+        "A critical hub for the distribution of gasoline, diesel, and kerosene.",
+        "Includes a large-scale asphalt production plant and blending facilities.",
+        "A major employer for the city of Zawiya and the surrounding region.",
+        "Owned and operated by the National Oil Corporation (NOC)."
+      ]
+    },
+    {
+      "id": "ras-lanuf-refinery-economic-v2",
+      "descriptionAdvanced": "The Ras Lanuf Refinery is a massive and strategically significant industrial facility in the heart of Libya's 'Oil Crescent.' As a cornerstone of the nation's petrochemical industry, it processes crude oil into refined products and feedstock for nearby chemical plants. The refinery is part of a larger industrial complex that includes ethylene and polyethylene production units, making it a vital engine for Libya's non-oil industrial growth. Its location in the Gulf of Sidra allows for efficient export to global markets. The Ras Lanuf Refinery represents the scale and technical sophistication of Libya's modern energy infrastructure, playing a key role in the national economy and international trade. Economics K8 — petroleum refining and petrochemicals.",
+      "factsAdvanced": [
+        "One of the largest refineries in North Africa, located in the Gulf of Sidra.",
+        "A primary center for the production of petrochemical feedstock in Libya.",
+        "Operated by the Ras Lanuf Oil and Gas Processing Company (RASCO).",
+        "Capable of processing over 200,000 barrels of crude oil per day.",
+        "A critical hub for the export of refined fuel products to Europe.",
+        "Includes specialized units for naphtha, kerosene, and gas oil production.",
+        "A major employer and industrial driver for the central Libyan region.",
+        "Provides the foundation for Libya's burgeoning petrochemical sector."
+      ]
+    },
+    {
+      "id": "lisco-misrata-steel-economic-v2",
+      "descriptionAdvanced": "The Libyan Iron and Steel Company (LISCO) in Misrata is one of the largest and most advanced industrial complexes in North Africa. This massive facility is the backbone of Libya's non-oil heavy industry, producing a wide range of steel products, including reinforcing bars, hot-rolled coils, and tubes. The complex is integrated with its own dedicated port facilities, allowing for the efficient import of raw materials and the export of finished steel. LISCO is a major source of pride for Misrata, providing thousands of high-skilled jobs and supporting a vast network of local businesses. It represents Libya's potential for industrial diversification and its role as a regional leader in manufacturing. Economics K8 — iron and steel industry and industrial diversification.",
+      "factsAdvanced": [
+        "One of the largest iron and steel producers in the Arab world.",
+        "The primary driver of Misrata's status as Libya's industrial capital.",
+        "Capable of producing over 1.6 million tons of liquid steel annually.",
+        "Features a fully integrated complex with direct reduction and rolling plants.",
+        "A major employer, providing jobs for over 6,000 Libyan workers.",
+        "Supports the national construction sector and exports to global markets.",
+        "Located adjacent to the Port of Misrata for efficient logistics.",
+        "A cornerstone of Libya's strategy for economic diversification away from oil."
+      ]
+    },
+    {
+      "id": "zliten-cement-plant-economic-v2",
+      "descriptionAdvanced": "The Zliten Cement Plant is a vital industrial landmark in western Libya, serving as the nation's largest producer of construction materials. Operated by the Arab Union Cement Company, this massive facility produces millions of tons of high-quality cement annually, supporting Libya's urban development and infrastructure projects. The plant utilizes local limestone and gypsum resources, reflecting the region's rich geological wealth. Zliten's industrial identity is deeply tied to this plant, which has played a critical role in the country's reconstruction efforts. It represents the importance of local manufacturing in achieving economic self-sufficiency and driving the development of the construction sector. Economics K8 — construction materials and industrial manufacturing.",
+      "factsAdvanced": [
+        "The largest cement manufacturing facility in Libya.",
+        "A primary supplier of construction materials for national infrastructure.",
+        "Operated by the Arab Union Cement Company (AUCC).",
+        "Capable of producing over 3 million tons of cement and clinker annually.",
+        "Utilizes vast local deposits of limestone and gypsum in the Zliten region.",
+        "A major industrial hub providing thousands of regional jobs.",
+        "Features modern, large-scale production lines and automated systems.",
+        "Critical for the ongoing reconstruction and urban growth of Libya."
+      ]
+    },
+    {
+      "id": "mellitah-gas-plant-economic-v2",
+      "descriptionAdvanced": "The Mellitah Gas Plant is one of the most technologically advanced and strategically important energy facilities in the Mediterranean. Located on the coast near Zuwara, it serves as the primary processing hub for natural gas and crude oil from both onshore and offshore fields. The plant is most famous as the starting point for the 'Greenstream' pipeline, which exports Libyan gas directly to Italy. Mellitah is a critical bridge between the energy wealth of the Sahara and the European market, utilizing state-of-the-art gas treatment and offshore loading technology. Its successful operation is a cornerstone of Libya's international energy partnerships and a major contributor to national revenue. Economics K8 — natural gas processing and international pipelines.",
+      "factsAdvanced": [
+        "The primary export hub for Libyan natural gas to Europe.",
+        "Starting point for the 520-kilometer Greenstream underwater pipeline.",
+        "Operated as a joint venture between the National Oil Corporation and Eni.",
+        "Processes gas and oil from the massive offshore Bouri and Al-Jurf fields.",
+        "Located in northwestern Libya, near the city of Zuwara.",
+        "One of the largest and most modern gas treatment facilities in Africa.",
+        "A high-security industrial landmark of national strategic importance.",
+        "Handles millions of cubic feet of natural gas daily for international export."
+      ]
+    },
+    {
+      "id": "khoms-power-plant-economic-v2",
+      "descriptionAdvanced": "The Khoms Power Plant is a massive and critical piece of Libya's national infrastructure, serving as one of the largest electricity generation facilities in the country. Located near the coastal city of Al-Khoms, this steam and gas turbine plant provides a significant portion of the power for the Tripoli metropolitan area and the western region. Its towering stacks are a defining feature of the local industrial landscape. The plant's operation is vital for the stability of the national grid, supporting everything from domestic life to heavy industry and desalination. The Khoms Power Plant represents the essential role of energy production in maintaining the modern urban life and economic growth of Libya. Economics K8 — electricity generation and national infrastructure.",
+      "factsAdvanced": [
+        "One of the largest and most important power stations in Libya.",
+        "A primary source of electricity for the capital city, Tripoli.",
+        "Utilizes both steam and gas turbines for high-capacity power generation.",
+        "Located in the strategic industrial zone of Al-Khoms.",
+        "Critical for the stability and reliability of the national electricity grid.",
+        "Features a massive desalination unit to provide fresh water for the region.",
+        "A major employer for the city and a hub for technical expertise.",
+        "Continuously undergoing upgrades to increase output and efficiency."
+      ]
+    },
+    {
+      "id": "wadi-al-farigh-relief-v2",
+      "descriptionAdvanced": "Wadi al-Farigh is a massive and strategic seasonal river valley that stretches across the arid central plains of Libya, within the Sirte Basin. Its relief is characterized by a wide, sandy bed and gentle slopes that serve as a major drainage system for the occasional but intense Saharan rains. The wadi is a critical ecological feature of the desert interior, providing a corridor for hardy flora and seasonal grazing for livestock. Historically, its relief has influenced caravan and military transit routes. In modern times, Wadi al-Farigh has become a vital industrial corridor, hosting several major petroleum and natural gas pipelines that connect the southern fields with the Mediterranean coast. Geography K8 — Saharan wadis and fluvial relief.",
+      "factsAdvanced": [
+        "One of the longest and most significant wadis in the central Libyan desert.",
+        "A major topographical feature and drainage system of the Sirte Basin.",
+        "Characterized by a wide, arid bed and fertile seasonal floodplains.",
+        "A vital corridor for Libya's national oil and gas pipeline network.",
+        "Provides essential seasonal grazing land for pastoral communities.",
+        "Historically an important transit route for trans-Saharan travelers.",
+        "The relief has been shaped by millions of years of occasional water flow.",
+        "An important ecological node for desert-adapted plant and animal species."
+      ]
+    },
+    {
+      "id": "gaberoun-lake-relief-v2",
+      "descriptionAdvanced": "Lake Gaberoun is a stunning and surreal topographical feature located in the heart of the Idehan Ubari sand dunes in southwestern Libya. This deep, salt-water lake represents a rare and beautiful relief anomaly, where underground Saharan aquifers rise to the surface amidst towering orange sand dunes. Its relief is characterized by a perfect, palm-fringed oval of blue water that contrasts sharply with the massive, moving dunes that surround it. The lake is famously salty and dense, allowing for effortless floating. Gaberoun is a quintessential Saharan landmark, symbolizing the hidden water wealth of the desert and creating one of the most photographed natural landscapes in the world. Geography K8 — Saharan salt lakes and sand sea relief.",
+      "factsAdvanced": [
+        "A spectacular salt-water lake nestled among massive orange sand dunes.",
+        "Located in the heart of the remote Ubari Sand Sea in the Fezzan.",
+        "The water is extremely dense and salty, similar to the Dead Sea.",
+        "Fed by ancient Saharan aquifers that emerge between the dunes.",
+        "Surrounded by a verdant fringe of date palms and desert vegetation.",
+        "The lake's relief creates a stunning and surreal natural oasis scene.",
+        "A world-renowned destination for desert exploration and photography.",
+        "Historically home to a small community specialized in desert survival."
+      ]
+    },
+    {
+      "id": "mandara-lakes-relief-v2",
+      "descriptionAdvanced": "The Mandara Lakes are a group of beautiful and rare salt lakes nestled within the massive dunes of the Ubari Sand Sea in southwestern Libya. Their relief is characterized by small, blue basins of water that appear like jewels amidst the towering, brilliant orange sand dunes. These lakes are fed by underground Saharan aquifers and are fringed with verdant palm groves that provide a sanctuary for desert life. The Mandara Lakes create a breathtaking visual contrast and represent a unique Saharan ecosystem where water and hyper-arid sands coexist. They are a premier natural landmark of the Fezzan desert, reflecting the profound beauty and hydrological complexity of the Sahara. Geography K8 — desert hydrology and oasis relief.",
+      "factsAdvanced": [
+        "A cluster of picturesque salt lakes in the southwestern Libyan desert.",
+        "Fed by ancient Saharan groundwater rising between massive dunes.",
+        "Features a stunning contrast between blue water and brilliant orange sand.",
+        "A critical ecological sanctuary for desert flora and migratory birds.",
+        "Surrounded by lush date palm groves and specialized desert reeds.",
+        "Part of a chain of lakes that includes the famous Lake Gaberoun.",
+        "A major natural landmark for the people of the Fezzan region.",
+        "Known for their extreme salinity and unique desert micro-ecosystems."
+      ]
+    },
+    {
+      "id": "ubari-sand-sea-relief-v2",
+      "descriptionAdvanced": "The Ubari Sand Sea, or Idehan Ubari, is a spectacular and massive field of sand dunes in southwestern Libya, representing some of the most dramatic desert relief on Earth. Its relief is characterized by towering 'star' and 'crescent' dunes that can reach heights of over 200 meters, creating a surreal and beautiful landscape of brilliant orange sand. This vast sand sea is famous for its hidden salt lakes and ancient oasis valleys that are nestled between the dunes. The Ubari Sand Sea is a critical part of the Fezzan ecosystem, providing a challenging but stunning environment for Tuareg desert travel. Its sheer scale and dynamic beauty make it a premier natural landmark of the Sahara. Geography K8 — sand seas and dune relief.",
+      "factsAdvanced": [
+        "One of the most spectacular and largest sand seas in the Sahara Desert.",
+        "Features towering dunes that can reach over 200 meters in height.",
+        "Covers a massive area of southwestern Libya in the Fezzan region.",
+        "Famous for the hidden salt lakes like Gaberoun and Mandara.",
+        "Characterized by brilliant orange, fine Saharan sand.",
+        "A major cultural and navigational heartland for the Tuareg people.",
+        "One of the most photographed and filmed desert landscapes in the world.",
+        "The relief is constantly changing due to the powerful Saharan winds."
+      ]
+    },
+    {
+      "id": "kufra-basin-relief-v2",
+      "descriptionAdvanced": "The Kufra Basin is a massive and remote topographical depression in southeastern Libya, representing one of the most significant relief features of the Sahara. Its relief is generally flat and hyper-arid, but it is famous for containing the massive Nubian Sandstone Aquifer, the largest fossil water system in the world. This hidden water wealth has allowed for the creation of striking circular agricultural projects that are visible from space. The basin is surrounded by some of the most desolate and towering sand dunes of the Libyan Desert, making it a true desert outpost. The Kufra Basin is a critical area for national food security and a symbol of the transformative power of desert engineering. Geography K8 — Saharan basins and aquifer relief.",
+      "factsAdvanced": [
+        "A massive and remote topographical basin in southeastern Libya.",
+        "Taps into the Nubian Sandstone Aquifer, the world's largest fossil water source.",
+        "Famous for large-scale circular irrigation fields visible from satellite.",
+        "Located in one of the most hyper-arid regions on the planet.",
+        "A critical strategic hub for the Great Man-Made River project.",
+        "The relief is dominated by vast sand seas and isolated stony plateaus.",
+        "Provides a vital record of ancient African climates and hydrology.",
+        "One of the most remote but economically vital regions in North Africa."
+      ]
+    },
+    {
+      "id": "gar-al-marah-relief-v2",
+      "descriptionAdvanced": "Gar al-Marah is a significant and extensive natural depression in central Libya, representing a major relief feature of the Saharan interior. Its relief is characterized by low-lying salt flats (sabkhas), seasonal pools, and rugged desert plains that serve as a critical ecological site. The area is a vital sanctuary for migratory birds and desert-adapted wildlife, providing a rare source of moisture in an otherwise hyper-arid landscape. Gar al-Marah's unique geology and hydrology make it a vital part of the central Libyan ecosystem. Its remote and starkly beautiful relief represents the diverse natural heritage of the desert, serving as an important area for scientific research and environmental monitoring. Geography K8 — Saharan depressions and salt flat relief.",
+      "factsAdvanced": [
+        "A major natural topographical depression in the central Libyan Sahara.",
+        "Characterized by extensive salt flats (sabkhas) and seasonal water pools.",
+        "A critical ecological sanctuary for migratory and desert-adapted birds.",
+        "Located in a remote and arid region south of the Gulf of Sidra.",
+        "Provides unique insights into the hydrology of the central desert.",
+        "A vital node for the biodiversity of the central Libyan interior.",
+        "Known for its stark, white salt crusts and rugged desert scenery.",
+        "Essential for the regional environmental monitoring of the Sahara."
+      ]
+    },
+    {
+      "id": "sirtica-desert-relief-v2",
+      "descriptionAdvanced": "The Sirtica Desert is a vast and strategic relief province in central Libya, connecting the Mediterranean coast with the deep Sahara. Its relief is characterized by expansive 'sarir' (gravel plains), low-lying salt marshes (sabkhas), and scattered sand dune fields. This region is a critical ecological bridge and a vital transit zone for caravans and military movement for centuries. In modern times, the Sirtica has become the heart of Libya's petroleum industry, with its ancient sedimentary layers containing the nation's most productive oil and gas fields. The relief of the Sirtica is generally flat and featureless, but it is dotted with the industrial landmarks of the 'Oil Crescent.' Geography K8 — gravel plains and Saharan transit relief.",
+      "factsAdvanced": [
+        "A massive arid region in central Libya, also known as the 'Oil Crescent' hinterland.",
+        "Characterized by vast, flat gravel plains (sarir) and salt flats.",
+        "A vital transition zone between the coast and the southern Fezzan.",
+        "The primary region for Libya's petroleum extraction and infrastructure.",
+        "Supports a variety of hardy desert wildlife and specialized flora.",
+        "Historically a significant and challenging transit route for desert travelers.",
+        "The relief has facilitated the construction of massive oil and gas networks.",
+        "A critical strategic area for national security and economic wealth."
+      ]
+    },
+    {
+      "id": "cyrenaica-coast-relief-v2",
+      "descriptionAdvanced": "The Cyrenaica Coast is a spectacular and unique maritime relief in northeastern Libya, where the steep limestone cliffs of the Jebel al-Akhdar meet the Mediterranean Sea. Its relief is characterized by rocky coves, pristine sandy beaches, and a dramatic, stepped escarpment that rises directly from the water's edge. This region is the most green and biologically diverse coastal area in Libya, benefiting from high rainfall and a temperate climate. The relief features numerous ancient port ruins and scenic vistas, making it a premier destination for tourism and nature conservation. The Cyrenaica Coast represents a beautiful and profound link between Libya's grand ancient history and its stunning Mediterranean nature. Geography K7 — Mediterranean coastlines and coastal relief.",
+      "factsAdvanced": [
+        "The most scenic and green coastal region in the country.",
+        "Characterized by the steep escarpments of the Green Mountain plateau.",
+        "Home to pristine Mediterranean beaches and rare coastal vegetation.",
+        "A major hub for the Libyan fishing industry and maritime commerce.",
+        "Features numerous ancient Greek and Roman port ruins along the shore.",
+        "The relief creates a dramatic landscape of white cliffs and blue water.",
+        "Known for its cool, pleasant Mediterranean climate and scenic drives.",
+        "A primary destination for nature tourism and archaeological exploration."
+      ]
+    }
+  ]
+}

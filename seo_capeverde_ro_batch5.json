@@ -1,0 +1,74 @@
+{
+  "lang": "ro",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "murdeira-cities-v2",
+      "descriptionAdvanced": "Murdeira este situată pe coasta vestică a insulei Sal, la aproximativ zece kilometri sud de Espargos, într-un golf protejat în formă de semilună. Mica așezare cu 600 de locuitori constă în principal din complexe turistice și vile private. Din 2003, golful face parte din Rezervația Naturală Baía da Murdeira, o arie protejată de 11.000 de hectare, esențială pentru conservarea țestoaselor marine, a balenelor cu cocoașă și a rechinilor de recif. Apele calme și reciful de corali format pe fundul nisipos fac din acest loc o destinație excelentă pentru snorkeling. De pe plajă se poate observa Monte Leão, un con vulcanic stins de 156 de metri înălțime, care oferă un cadru spectaculos întregii zone.",
+      "factsAdvanced": [
+        "La 10 km sud de Espargos",
+        "Rezervația Naturală Baía da Murdeira din 2003",
+        "Arie protejată de circa 11.000 hectare",
+        "Loc de reproducere pentru țestoase și balene cu cocoașă",
+        "Monte Leão (156 m) ca reper vulcanic",
+        "Destinație ideală pentru snorkeling",
+        "Populație de aproximativ 600 locuitori"
+      ]
+    },
+    {
+      "id": "palmeira-cities-v2",
+      "descriptionAdvanced": "Palmeira se află pe coasta vestică a insulei Sal, la cinci kilometri vest de Espargos. Satul, cu o populație de circa 1.200 de locuitori, găzduiește principalul port al insulei, esențial pentru aprovizionarea cu combustibil, alimente și materiale de construcții. Casele colorate ale pescarilor de pe faleza portuară și restaurantele cu pește proaspăt oferă un caracter autentic, contrastând cu turismul de masă. Portul a fost modernizat între 2010 și 2013 cu o investiție de 30 de milioane de euro. Din port pornesc excursii de scufundări către peșterile Buracona, unde fenomenul natural „Olho Azul” permite luminii solare să creeze un efect vizual intens de albastru marin prin deschiderea circulară din stâncă.",
+      "factsAdvanced": [
+        "Principalul port al insulei Sal",
+        "Modernizare portuară 2010–2013 (30 milioane euro)",
+        "Punct de plecare către peșterile Buracona",
+        "Fenomenul natural Olho Azul",
+        "Case pescărești colorate pe faleză",
+        "Populație de circa 1.200 locuitori",
+        "Aproape de Espargos"
+      ]
+    },
+    {
+      "id": "porto-novo-cities-v2",
+      "descriptionAdvanced": "Porto Novo este situat pe coasta de sud a insulei Santo Antão și, cu cei 9.000 de locuitori ai săi, reprezintă cel mai mare oraș al insulei. Portul constituie singura poartă de acces pentru feriboturile care asigură conexiunea zilnică din Mindelo (São Vicente), după închiderea aeroportului local în 1999 din motive de siguranță. Orașul, fondat în secolul al XIX-lea ca punct de aprovizionare, se caracterizează printr-un climat arid, similar deșertului, contrastând puternic cu zonele verzi din nordul insulei. Economia locală se bazează pe pescuit, prelucrarea sării și logistica transportului de mărfuri către restul zonelor montane, fiind punctul de plecare principal pentru orice incursiune pe Santo Antão.",
+      "factsAdvanced": [
+        "Populație de aproximativ 9.000 locuitori",
+        "Cel mai mare oraș de pe insula Santo Antão",
+        "Singura poartă de intrare prin portul local",
+        "Conexiune zilnică cu Mindelo prin feribot",
+        "Aeroportul Santo Antão închis din 1999",
+        "Climat arid în sudul insulei",
+        "Fondat în secolul al XIX-lea"
+      ]
+    },
+    {
+      "id": "ribeira-grande-cities-v2",
+      "descriptionAdvanced": "Ribeira Grande, numit adesea Povoação, se află pe coasta nordică a insulei Santo Antão. Cu aproximativ 4.500 de locuitori, orașul servește drept reședință administrativă a municipiului Ribeira Grande. Așezarea a fost fondată în secolul al XVI-lea, dezvoltându-se ca centru de producție a trestiei de zahăr, utilizată ulterior pentru distilarea „grogue”-ului, băutura națională. Orașul este înconjurat de munți abrupți care ating 1.500 de metri înălțime. Biserica Igreja de Nossa Senhora do Rosário, din secolul al XVIII-lea, este cel mai important reper arhitectural. Regiunea este celebră pentru traseele sale de drumeție care străbat văile spectaculoase Paúl și Ribeira Grande, oferind peisaje verzi neașteptate.",
+      "factsAdvanced": [
+        "Populație de circa 4.500 locuitori",
+        "Centru administrativ al municipiului",
+        "Așezare fondată în secolul al XVI-lea",
+        "Producție tradițională de trestie de zahăr și Grogue",
+        "Igreja de Nossa Senhora do Rosário (secolul al XVIII-lea)",
+        "Înconjurată de munți de până la 1.500 metri",
+        "Hub pentru drumeții în văile Paúl și Ribeira Grande"
+      ]
+    },
+    {
+      "id": "ponta-do-sol-cities-v2",
+      "descriptionAdvanced": "Ponta do Sol este situat în extremitatea nord-vestică a insulei Santo Antão, la aproximativ cinci kilometri vest de Ribeira Grande. Acest oraș pitoresc de 2.500 de locuitori se întinde de-a lungul unui golf mic, încadrat de stânci abrupte. Arhitectura colonială în culori pastelate, străzile pavate și portul istoric conferă locului o atmosferă unică, fiind considerat unul dintre cele mai frumoase orașe din Capul Verde. Între 1962 și 1999, localitatea a găzduit singurul aeroport al insulei, ulterior închis din cauza terenului periculos. Astăzi, fosta pistă de aterizare servește drept punct de plecare pentru drumețiile către Fontainhas, un sat montan cu vederi panoramice spectaculoase.",
+      "factsAdvanced": [
+        "Populație de circa 2.500 locuitori",
+        "Situat la 5 km vest de Ribeira Grande",
+        "Fostul aeroport Agostinho Neto (1962–1999)",
+        "Case în culori pastelate (arhitectură colonială)",
+        "Punct de plecare pentru drumeția spre Fontainhas",
+        "Cel mai nordic punct al insulei",
+        "Considerat unul dintre cele mai frumoase orașe din țară"
+      ]
+    }
+  ]
+}

@@ -2,31 +2,333 @@
   "lang": "hu",
   "country": "equatorialguinea",
   "files": [
-    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaEconomicV2.ts"
   ],
   "items": [
     {
-      "id": "micomeseng-cities-v2",
-      "descriptionAdvanced": "Micomeseng a határ menti kereskedelem egyik fontos állomása Kie-Ntem tartományban. A város elhelyezkedése miatt élénk kapcsolatot tart fenn a környező területekkel, és a határátlépő forgalom révén a kereskedelem meghatározó része a helyi gazdaságnak. A környék domborzata és éghajlata kedvez a trópusi mezőgazdaságnak, különösen a gyümölcsök és zöldségek termesztésének, amelyek a helyi piacokon is megjelennek. Tanterv: Földrajz K7, Gazdaságtan K8.",
+      "id": "fishtown-cities-v2",
+      "descriptionAdvanced": "Fishtown egy jellegzetes tengerparti település Bioko szigetének délnyugati partján, amely nevét a brit tengerészek által alapított állomásról kapta. A városka a sziget egyik legelszigeteltebb részén fekszik, ahol a drámai sziklák és a buja esőerdő találkozik az Atlanti-óceánnal. Fishtown élete ma is a hagyományos halászaton alapul, de a környék érintetlen természeti értékei miatt egyre több ökoturista fedezi fel magának. A település környékén számos rejtett öböl és tiszta vizű patak található, amelyek a hegyekből zúdulnak alá. A helyi közösség megőrizte a tengerrel való szoros kapcsolatát, és híres a vendégszeretetéről, valamint a friss tengeri fogásokról. Tanterv: Földrajz K6, Turizmus K7.",
       "factsAdvanced": [
-        "Kie-Ntem tartományban található.",
-        "Fontos kereskedelmi központ a határ közelében.",
-        "A helyi gazdaság alapja a határmenti cserekereskedelem.",
-        "Mezőgazdasági termények termesztése jellemző.",
-        "A város folyamatosan fejlődő infrastruktúrával rendelkezik.",
-        "Központi szerepet játszik a regionális tranzitban."
+        "Bioko-sziget délnyugati partján helyezkedik el.",
+        "Nevét a 19. századi brit tengerészeti jelenlét idején kapta.",
+        "A lakosság fő megélhetési forrása a kézműves halászat.",
+        "A falu közelében látványos tengeri barlangok találhatók.",
+        "Népessége mindössze néhány száz fő.",
+        "A környéken gyakran látni tengeri madárkolóniákat.",
+        "Csak nehezen járható utakon vagy vízi úton közelíthető meg."
       ]
     },
     {
-      "id": "nsok-cities-v2",
-      "descriptionAdvanced": "Nsok egy tipikus szárazföldi kisváros Egyenlítői-Guinea keleti részén, amely a helyi közösségek életében játszik központi szerepet. A település körül a trópusi erdőgazdálkodás és a kiskerti mezőgazdaság a meghatározó, amely a helyi élelmezés gerincét adja. Nsok a belső régiók közlekedési hálózatának egy fontos csomópontja, amelyen keresztül a vidéki termékek eljutnak a nagyobb városi piacokra. A város csendesebb ritmusa lehetőséget ad a hagyományos életmód megfigyelésére. Tanterv: Földrajz K6, Szociális ismeretek K7.",
+      "id": "cupapa-cities-v2",
+      "descriptionAdvanced": "Cupapa egy kicsiny, de barátságos település Egyenlítői-Guinea szárazföldi részén, amely sűrű trópusi erdők által körülvett vidéken fekszik. A falu a hagyományos mezőgazdasági életmód egyik utolsó bástyája, ahol a lakók önellátó gazdálkodást folytatnak, maniókát, jamgyökeret és trópusi gyümölcsöket termesztve. Cupapa közössége szorosan összetart, a mindennapi életet a természet ritmusa és a fang kulturális hagyományok határozzák meg. A település az elmúlt években bekapcsolódott a regionális úthálózatba, ami megkönnyítette a termények elszállítását a nagyobb városi piacokra. Az erdő közelsége miatt a biodiverzitás igen magas a környéken, gyakran látni ritka madárfajokat a falu felett. Tanterv: Földrajz K6, Mezőgazdaság K7.",
       "factsAdvanced": [
-        "Keleti régió szárazföldi városa.",
-        "A mezőgazdaság és erdőgazdálkodás központja.",
-        "Fontos összekötő pont a vidéki és városi régiók között.",
-        "A helyi közösség életének meghatározó állomása.",
-        "Csendesebb, hagyományőrző település.",
-        "A regionális élelmiszerellátás láncolatának része."
+        "A szárazföldi régió belső erdős övezetében található.",
+        "A lakosság főleg a fang etnikumhoz tartozik.",
+        "Mezőgazdasági terményei között a banán és a kakaó is szerepel.",
+        "A falu rendelkezik egy kis közösségi házzal és iskolával.",
+        "Hagyományos gyógyászatukban erdei növényeket használnak.",
+        "Klímahajlata trópusi nedves, állandóan magas hőmérséklettel.",
+        "A település központjában egy ősi baobab fa áll."
+      ]
+    },
+    {
+      "id": "sendje-cities-v2",
+      "descriptionAdvanced": "Sendje egy jelentőségteljes település Egyenlítői-Guinea szárazföldi részén, Bata városától délkeletre. A falu az utóbbi években az ország energetikai fejlesztéseinek fókuszába került a közeli Sendje-gát építése miatt, amely a Wele-folyón valósul meg. Ez a nagyszabású projekt alapjaiban változtatta meg a település dinamikáját, új munkalehetőségeket és infrastrukturális fejlődést hozva a régióba. Sendje hagyományosan halászattal és mezőgazdasággal foglalkozó közössége most a modernizáció küszöbén áll, miközben próbálja megőrizni kulturális identitását. A környék domborzata változatos, folyóvölgyek és dombok váltják egymást, gazdag élővilággal. Tanterv: Földrajz K7, Technológia K8.",
+      "factsAdvanced": [
+        "Litoral tartományban, a Wele-folyó közelében fekszik.",
+        "Híres az épülő Sendje-gátról, ami az ország egyik legnagyobb projektje.",
+        "A település Bata városából könnyen elérhető közúton.",
+        "Gazdasága a hagyományos halászatról az ipari tevékenység felé tolódik.",
+        "A lakosság létszáma az építkezések miatt jelentősen megnőtt.",
+        "Környezete gazdag trópusi erdőkben és folyóvízi élőhelyekben.",
+        "Fontos szerepet játszik a régió jövőbeli energiaellátásában."
+      ]
+    },
+    {
+      "id": "bata-manga-cities-v2",
+      "descriptionAdvanced": "Bata-Manga Bata városának egyik történelmi és kulturális szempontból is érdekes negyede, amely a város északi peremén helyezkedik el. A terület megőrizte a hagyományosabb városias jellegét, ahol a régi épületek és a modern lakóházak különleges elegyet alkotnak. Bata-Manga piaca és közösségi terei a helyi élet középpontjai, ahol a halászok és a kofák napi szinten kínálják friss áruikat. A negyed közel fekszik az óceánparthoz, így a tengeri szél folyamatosan frissíti a levegőt a forró egyenlítői napokon. A terület fejlődése szorosan követi Bata városának általános növekedését, de sikerült megőriznie egyfajta családias, emberléptékű hangulatot. Tanterv: Földrajz K6, Várostervezés K7.",
+      "factsAdvanced": [
+        "Bata város északi részén található városrész.",
+        "Híres a helyi piacáról és a friss tengeri árukról.",
+        "A negyed lakói között sok a tradicionális halászcsalád.",
+        "A terület infrastruktúrája az utóbbi években sokat fejlődött.",
+        "Közel található Bata nemzetközi repülőteréhez.",
+        "A közösségi élet fontos színtere a helyi futballpálya.",
+        "Sűrűn lakott terület, vibráló utcai élettel."
+      ]
+    },
+    {
+      "id": "nkumekien-cities-v2",
+      "descriptionAdvanced": "Nkumekien egy bájos kisváros Egyenlítői-Guinea belső részén, Centro Sur tartományban, amely a trópusi esőerdők sűrűjében fekszik. A település a régió egyik fontos mezőgazdasági gyűjtőpontja, ahol a környékbeli kistermelők adják el kakaó- és kávétermésüket. Nkumekien lakói főként a fang népcsoporthoz tartoznak, és a mindennapjaikat a hagyományos közösségi értékek és a keresztény ünnepek határozzák meg. A város az utóbbi években javuló úthálózati kapcsolatokat kapott, ami lehetővé tette a gyorsabb közlekedést Evinayong és Bata felé. A környék biodiverzitása lenyűgöző, az erdőkben számos ritka orchideafaj és trópusi madár él, ami vonzóvá teszi a természetkedvelők számára. Tanterv: Földrajz K6, Mezőgazdaság K7.",
+      "factsAdvanced": [
+        "Centro Sur tartomány szívében helyezkedik el.",
+        "Fontos szerepet játszik a regionális kakaó- és kávékereskedelemben.",
+        "A lakosság nagy része önellátó mezőgazdaságból él.",
+        "A településen modernizált általános iskola működik.",
+        "Klímahajlata állandóan meleg és párás.",
+        "Híres a helyi kézműves fafaragásokról.",
+        "A közeli folyók a falu ivóvíz-ellátásának bázisai."
+      ]
+    },
+    {
+      "id": "ayene-kie-ntem-cities-v2",
+      "descriptionAdvanced": "Ayene (Kie-Ntem) egy tradicionális település Egyenlítői-Guinea északi részén, amely Kie-Ntem tartomány közigazgatási területéhez tartozik. A város a Kamerunnal közös határ közelében fekszik, ami meghatározza gazdasági és kulturális kapcsolatait. Ayene híres a vendégszeretetéről és a jól szervezett közösségi életéről, ahol a hagyományos fang szokások és a modern életvitel harmonikusan megférnek egymás mellett. A település környéke termékeny, vulkanikus talajon alapuló mezőgazdasággal rendelkezik, ahol főként élelmiszernövényeket és trópusi gyümölcsöket termesztenek. A város infrastrukturális fejlődése, mint az aszfaltozott utak és a közvilágítás, jelentősen emelte a helyiek életszínvonalát az elmúlt években. Tanterv: Földrajz K6, Gazdaság K8.",
+      "factsAdvanced": [
+        "Kie-Ntem tartomány északi részén található.",
+        "Strategiai fekvésű a kameruni határ közelében.",
+        "A helyi gazdaság alapja a mezőgazdaság és a határmenti kereskedelem.",
+        "A település lakossága főleg a fang etnikumhoz tartozik.",
+        "Rendelkezik helyi egészségügyi állomással és iskolával.",
+        "Éghajlata trópusi monszun jellegű, bőséges csapadékkal.",
+        "Híres a tradicionális dobzenéjéről és táncairól."
+      ]
+    },
+    {
+      "id": "seehafen-malabo-economic-v2",
+      "descriptionAdvanced": "Malabo kikötője Egyenlítői-Guinea legfontosabb tengeri kapuja, amely Bioko szigetének északi partján helyezkedik el. A kikötő az ország gazdaságának motorja, mivel itt bonyolódik le az export nagy része, különösen a kőolaj, a földgáz és a kakaó kivitele. Az elmúlt évtizedben a kikötőt jelentősen kibővítették és modernizálták, hogy fogadni tudja a legmodernebb konténerszállító hajókat és tartályhajókat is. Stratégiai elhelyezkedése a Guineai-öbölben kulcsfontosságúvá teszi a nemzetközi kereskedelmi útvonalak szempontjából. A kikötői területen modern raktárak, logisztikai központok és feldolgozóüzemek működnek, amelyek több ezer embernek adnak munkát. Tanterv: Gazdaság K8, Földrajz K7.",
+      "factsAdvanced": [
+        "Az ország legnagyobb és legforgalmasabb tengeri kikötője.",
+        "Bioko-sziget északi részén, a fővárosban található.",
+        "Fő exporttermékek: kőolaj, cseppfolyósított földgáz (LNG) és kakaó.",
+        "Modernizált konténerterminállal rendelkezik.",
+        "Strategiai logisztikai központ a Guineai-öbölben.",
+        "A mélyvízi kikötő nagy merülésű hajók fogadására is alkalmas.",
+        "A kikötő üzemeltetése az állami bevételek egyik fő forrása."
+      ]
+    },
+    {
+      "id": "hafen-bata-economic-v2",
+      "descriptionAdvanced": "Bata kikötője Egyenlítői-Guinea szárazföldi részének, Río Muninak a legfontosabb gazdasági csomópontja. Ez a modern tengeri kikötő kulcsszerepet játszik a szárazföld áruforgalmában, különösen a faanyag, az élelmiszerek és az építőanyagok export-import folyamataiban. A kikötő az elmúlt években nagyszabású fejlesztéseken ment keresztül, beleértve egy új móló és konténerterminál építését, ami jelentősen növelte a kapacitását. Bata kikötője nemcsak kereskedelmi, hanem fontos regionális logisztikai bázis is, amely ellátja a belső országrészeket és a szomszédos országokat is. A kikötő vibráló tevékenysége tükrözi Bata városának gyors gazdasági növekedését és modernizációját. Tanterv: Földrajz K7, Gazdaság K8.",
+      "factsAdvanced": [
+        "A szárazföldi régió legnagyobb tengeri kikötője.",
+        "A trópusi faanyag-export egyik legfontosabb állomása Afrikában.",
+        "Modern konténerkezelő berendezésekkel és raktárakkal felszerelt.",
+        "Közvetlen összeköttetésben áll az ország belső úthálózatával.",
+        "A kikötő bővítése 2010 után fejeződött be.",
+        "Több száz munkahelyet biztosít a helyi lakosságnak.",
+        "A tengeri halászat számára is fontos bázisként szolgál."
+      ]
+    },
+    {
+      "id": "punta-europa-lng-economic-v2",
+      "descriptionAdvanced": "Punta Europa Egyenlítői-Guinea legfontosabb ipari és energetikai központja, amely Bioko szigetének északnyugati csücskén található. Itt koncentrálódik az ország földgáz-feldolgozó kapacitása, beleértve a cseppfolyósító üzemeket (LNG) és a metanolgyárat. A terület technológiai színvonala világszínvonalú, és kulcsszerepet játszik az ország energiaexportjában, jelentősen hozzájárulva a nemzeti GDP-hez. Punta Europa nemcsak egy ipari komplexum, hanem a modern technológia és az innováció jelképe is az országban, ahol nemzetközi szakemberek dolgoznak együtt a helyi munkaerővel. A komplexumhoz saját kikötői terminál tartozik a gázszállító hajók fogadására, biztosítva a folyamatos globális ellátást. Tanterv: Technológia K8, Gazdaság K9.",
+      "factsAdvanced": [
+        "Bioko-sziget északnyugati csücskén helyezkedik el.",
+        "Az ország földgáz-feldolgozásának központja.",
+        "LNG, metanol és LPG termelés folyik itt.",
+        "A komplexum saját mélyvízi kikötői terminállal rendelkezik.",
+        "Az üzemeltetés nemzetközi konzorciumok és az állam együttműködésében zajlik.",
+        "A terület szigorúan őrzött és magas biztonsági előírásoknak felel meg.",
+        "A termelés 2007-ben kezdődött meg az LNG-üzemben."
+      ]
+    },
+    {
+      "id": "eg-lng-plant-economic-v2",
+      "descriptionAdvanced": "Az EG LNG üzem Egyenlítői-Guinea cseppfolyósított földgáz-termelésének központi létesítménye, amely Punta Europa ipari negyedében található. Ez a hatalmas üzem az afrikai földgázszektor egyik legfontosabb szereplője, amely lehetővé teszi a tengeri mezőkről származó gáz globális piacokra juttatását. Az üzem építése a 2000-es évek közepén mérföldkő volt az ország gazdaságtörténetében, megnyitva az utat a gáz alapú bevételek felé. Az EG LNG folyamatosan magas biztonsági és környezetvédelmi sztenderdek mellett üzemel, és jelentős összegekkel támogatja a helyi közösségi projekteket és az oktatást. A létesítmény éjjel-nappal működik, biztosítva a stabil termelést és az ország energetikai szuverenitását. Tanterv: Gazdaság K8, Technika K7.",
+      "factsAdvanced": [
+        "Punta Europában található, Malabo közelében.",
+        "Évi több millió tonna cseppfolyósított földgáz (LNG) termelésére képes.",
+        "Az üzem 2007-ben szállította le az első LNG-szállítmányt.",
+        "A világ egyik leggyorsabban megépített LNG-projektje volt.",
+        "Számos helyi mérnöknek és szakmunkásnak ad képzési lehetőséget.",
+        "Közvetlen vezeték köti össze a tengeri Alba-gázmezővel.",
+        "A projektben az állami GEPetrol és nemzetközi cégek vesznek részt."
+      ]
+    },
+    {
+      "id": "ampco-methanol-economic-v2",
+      "descriptionAdvanced": "Az AMPCO (Atlantic Methanol Production Company) metanolgyára Egyenlítői-Guinea egyik legjelentősebb vegyipari létesítménye, amely szintén Punta Europa stratégiai ipari övezetében kapott helyet. A gyár földgázból állít elő magas tisztaságú metanolt, amelyet széles körben használnak a vegyiparban, például műanyagok, oldószerek és üzemanyag-adalékok gyártásához. Az AMPCO üzeme a világ egyik legjelentősebb metanol-előállítója, termékeinek nagy részét Európába és az Egyesült Államokba exportálják. A gyár üzemeltetése során kiemelt figyelmet fordítanak a környezetvédelemre és a fenntarthatóságra, minimalizálva az ipari tevékenység hatását Bioko szigetének élővilágára. A vállalat elkötelezett a helyi munkaerő képzése és a társadalmi felelősségvállalás mellett. Tanterv: Kémia K8, Gazdaság K7.",
+      "factsAdvanced": [
+        "Punta Europa ipari övezetében található Bioko-szigeten.",
+        "A gyár 2001-ben kezdte meg működését.",
+        "Évi több mint egymillió tonna metanolt állít elő.",
+        "Az egyik legjelentősebb magánberuházás az ország vegyiparában.",
+        "Saját dedikált kikötői mólóval rendelkezik az exporthoz.",
+        "A metanolt a tengeri gázmezők kísérőgázából állítják elő.",
+        "A vállalat jelentős szerepet vállal a malária elleni helyi küzdelemben."
+      ]
+    },
+    {
+      "id": "alba-gas-plant-economic-v2",
+      "descriptionAdvanced": "Az Alba Gázüzem az ország energetikai szektorának egyik alapköve, amely a tengeri Alba-mezőről származó kondenzátumot és gázt dolgozza fel. A létesítmény Punta Europa területén található, és itt választják el a különböző gázkomponenseket, például a propánt, butánt és a kondenzátumot, mielőtt azok továbbkerülnének az LNG vagy metanol üzemekbe. Az Alba-mező felfedezése és kiaknázása alapozta meg Egyenlítői-Guinea gázalapú gazdaságát, csökkentve az ország függőségét a nyersolaj-exporttól. Az üzem modern technológiája lehetővé teszi az erőforrások hatékony és biztonságos feldolgozását, miközben szigorú nemzetközi környezetvédelmi normákat követ. A létesítmény folyamatos működése elengedhetetlen a nemzeti energiaellátás és az export szempontjából. Tanterv: Földrajz K8, Gazdaságtan K7.",
+      "factsAdvanced": [
+        "Az Alba-mezőről érkező földgáz elsődleges feldolgozóhelye.",
+        "Punta Europa ipari komplexumában fekszik.",
+        "Propánt, butánt (LPG) és kondenzátumot állít elő.",
+        "Kulcsszerepet játszik a hazai gázellátás biztosításában.",
+        "Az üzem folyamatos, 24 órás felügyelet alatt működik.",
+        "A tengeri mezőktől mélytengeri vezetékeken keresztül kapja a nyersanyagot.",
+        "Több száz helyi és külföldi szakembert foglalkoztat."
+      ]
+    },
+    {
+      "id": "luba-freeport-economic-v2",
+      "descriptionAdvanced": "A Luba Freeport egy különleges gazdasági övezet és mélyvízi kikötő Bioko szigetének nyugati partján, amely az olaj- és gázipar regionális logisztikai központjaként szolgál. A szabadkikötő kedvező adózási és vámfeltételeket biztosít a nemzetközi vállalatok számára, akik itt raktározzák és szervizelik a Guineai-öbölben működő tengeri fúrótornyokat és hajókat. A kikötő mélyvízi mólói a legnagyobb merülésű tartályhajókat és kiszolgáló hajókat is képesek fogadni. Luba Freeport modern javítóműhelyekkel, raktárakkal és irodaházakkal rendelkezik, jelentősen hozzájárulva a régió gazdasági diverzifikációjához. A projekt sikeresen ötvözi a modern ipari igényeket a stratégiai elhelyezkedéssel, segítve az országot abban, hogy regionális szolgáltató központtá váljon. Tanterv: Gazdaság K8, Földrajz K7.",
+      "factsAdvanced": [
+        "Mélyvízi kikötő és logisztikai bázis Luba városában.",
+        "A Guineai-öböl olajiparának egyik fő szolgáltató központja.",
+        "Különleges gazdasági övezetként (Freeport) működik.",
+        "Modernizált mólói 2002 óta fogadják a hajókat.",
+        "Strategiai fekvése miatt ideális bázis a tengeri kutatásokhoz.",
+        "A projekt az állam és nemzetközi befektetők közös vállalkozása.",
+        "Saját vámszabad területtel és biztonsági szolgálattal rendelkezik."
+      ]
+    },
+    {
+      "id": "djibloho-dam-economic-v2",
+      "descriptionAdvanced": "A Djibloho vízerőmű Egyenlítői-Guinea egyik legjelentősebb infrastrukturális beruházása, amely a Wele-folyó energiáját hasznosítja a szárazföldi régióban. Az erőmű és a hozzá tartozó gát kulcsszerepet játszik az ország elektromos hálózatának stabilizálásában és a tiszta energia előállításában. A projektnek köszönhetően a szárazföldi települések többsége ma már stabil áramellátással rendelkezik, ami alapfeltétele volt az ipari fejlődésnek és a lakosság életszínvonal-emelkedésének. A vízerőmű környéke, amely az új főváros, Ciudad de la Paz közelében található, egyben modern mérnöki látványosság is a trópusi esőerdő szívében. A Djibloho-gát a fenntartható fejlődés iránti nemzeti elkötelezettség jelképe, csökkentve a fosszilis tüzelőanyagoktól való függőséget. Tanterv: Fizika K7, Földrajz K8.",
+      "factsAdvanced": [
+        "A Wele-folyón épült vízerőmű az ország szárazföldi részén.",
+        "Beépített teljesítménye 120 megawatt (MW).",
+        "A projekt 2012-ben került átadásra.",
+        "Biztosítja a szárazföldi régió elektromos energiájának nagy részét.",
+        "A gát mögött egy mesterséges víztározó jött létre.",
+        "A beruházás kínai szakmai együttműködéssel valósult meg.",
+        "A létesítmény modern távvezeték-hálózaton keresztül látja el a városokat."
+      ]
+    },
+    {
+      "id": "sendje-dam-economic-v2",
+      "descriptionAdvanced": "A Sendje vízerőmű és gát Egyenlítői-Guinea második nagy folyóvízi energetikai projektje, amely szintén a Wele-folyón épül, Bata városától mintegy 40 kilométerre. A projekt célja a meglévő Djibloho erőmű kiegészítése és az ország energiatermelési kapacitásának további növelése. A Sendje-gát monumentális méreteivel és modern turbináival az ország legnagyobb vízerőművévé válik a befejezés után. A beruházás nemcsak az áramellátás biztonságát növeli, hanem munkahelyeket teremt és serkenti a helyi gazdaságot a szárazföldi régióban. Az erőmű építése során figyelembe vették a környezetvédelmi szempontokat is, hogy minimalizálják a folyó ökoszisztémájára gyakorolt hatást. Tanterv: Technika K7, Gazdaság K8.",
+      "factsAdvanced": [
+        "A Wele-folyón épülő nagyszabású vízerőmű projekt.",
+        "Tervezett teljesítménye 200 megawatt (MW) felett van.",
+        "Bata városának és a környező ipari parkoknak a fő energiaforrása lesz.",
+        "A gát magassága meghaladja a 60 métert.",
+        "Az építkezés során modern betonozási és mérnöki technológiákat alkalmaznak.",
+        "Stratégiai fontosságú az ország energetikai függetlensége szempontjából.",
+        "A víztározó várhatóan új lehetőségeket nyit a helyi halászat számára."
+      ]
+    },
+    {
+      "id": "port-annobon-economic-v2",
+      "descriptionAdvanced": "Az annobóni kikötő a távoli Annobón sziget gazdasági életereje, amely biztosítja a sziget kapcsolatát az ország többi részével és a külvilággal. A modern kikötői móló az elmúlt években épült fel, lehetővé téve, hogy a nagyobb teherhajók és utasszállító kompok is biztonságosan kiköthessenek a korábban nehezen megközelíthető szigeten. A kikötő létfontosságú az élelmiszer, az üzemanyag és az építőanyagok ellátása szempontjából, valamint a szigeten fogott halak exportjához. San Antonio de Palé mellett található létesítmény jelentősen javította az annobóniak életminőségét, csökkentve a sziget elszigeteltségét. A kikötő környékén modern raktárak és logisztikai pontok is kiépültek. Tanterv: Földrajz K6, Gazdaság K8.",
+      "factsAdvanced": [
+        "Annobón szigetének egyetlen modern tengeri kikötője.",
+        "San Antonio de Palé városában található.",
+        "Biztosítja a sziget alapvető áruellátását Malabóból és Batából.",
+        "A móló hossza lehetővé teszi a mélyebb merülésű hajók fogadását.",
+        "Fontos szerepet játszik a helyi halászati ipar logisztikájában.",
+        "A fejlesztés 2010 után fejeződött be.",
+        "Rendszeres kompjáratok kötik össze a fővárossal."
+      ]
+    },
+    {
+      "id": "port-cogo-economic-v2",
+      "descriptionAdvanced": "Cogo kikötője Egyenlítői-Guinea déli partvidékének egyik fontos kereskedelmi pontja, amely a Muni-folyó torkolatánál fekszik. A kikötő történelmileg a fa- és gumiexport egyik központja volt, ma pedig fontos szerepet játszik a Gabonnal folytatott határmenti kereskedelemben és a helyi halászatban. A kikötői infrastruktúra fejlesztése célul tűzte ki a déli régió gazdasági élénkítését, megkönnyítve a termékek szállítását a szárazföld belseje felé. Cogo stratégiai elhelyezkedése a folyótorkolatban ideálissá teszi a kisebb és közepes méretű teherhajók fogadására. A kikötő környékén dús mangroveerdők találhatók, ami különleges természetvédelmi és gazdasági egyensúlyt igényel a terület fenntartása során. Tanterv: Földrajz K6, Gazdaság K7.",
+      "factsAdvanced": [
+        "A Muni-folyó torkolatánál, az ország déli határán található.",
+        "Hagyományos fakitermelési és faexport-kikötő.",
+        "Fontos szerepet játszik a Gabonba irányuló vízi forgalomban.",
+        "A kikötő környezete gazdag biodiverzitású mangrove-ökoszisztéma.",
+        "A helyi halászhajók egyik fő bázisa.",
+        "Infrastruktúrája alkalmas tranzitáruk kezelésére.",
+        "A tervezett regionális hídfejlesztések érintik a kikötő körzetét."
+      ]
+    },
+    {
+      "id": "bioko-oil-terminal-economic-v2",
+      "descriptionAdvanced": "A Bioko Olajterminál az ország egyik legfontosabb stratégiai létesítménye, amely Malabo közelében biztosítja a kőolajtermékek tárolását és elosztását. A terminál modern tartályparkkal rendelkezik, ahol a nyersolajat és a finomított termékeket kezelik a tengeri export vagy a belföldi felhasználás előtt. Ez a létesítmény kulcsszerepet játszik az ország üzemanyag-ellátásának biztonságában, és modern biztonsági rendszerekkel van felszerelve a környezetszennyezés megelőzésére. A terminálhoz dedikált mólók tartoznak, amelyek lehetővé teszik a hatalmas olajszállító tartályhajók gyors és hatékony megtöltését. A Bioko Olajterminál az ország globális energiapiaci jelenlétének egyik legfontosabb technikai bázisa. Tanterv: Technológia K8, Gazdaság K9.",
+      "factsAdvanced": [
+        "Malabo közelében, Bioko-szigeten található olajkikötő.",
+        "Hatalmas tárolókapacitással rendelkezik kőolaj és finomított termékek számára.",
+        "Saját dedikált mólói vannak a tartályhajók fogadására.",
+        "Kiemelt biztonsági övezet az országban.",
+        "A terminál éjjel-nappal üzemel a folyamatos export érdekében.",
+        "Fontos logisztikai láncszem a tengeri fúrótornyok és a piac között.",
+        "A környezetvédelmi monitorozás folyamatos a területen."
+      ]
+    },
+    {
+      "id": "bata-power-plant-economic-v2",
+      "descriptionAdvanced": "A batai erőmű a szárazföldi Egyenlítői-Guinea egyik legfontosabb hőerőműve, amely kiegészíti a Wele-folyó vízerőműveinek termelését. Az erőmű fő feladata a stabil áramellátás biztosítása Bata városa és a környező ipari övezetek számára, különösen a száraz évszakokban, amikor a vízerőművek teljesítménye csökkenhet. A létesítmény modern gázturbinákkal vagy dízelgenerátorokkal működik, és szoros összeköttetésben áll a nemzeti elektromos hálózattal. Az erőmű folyamatos korszerűsítése lehetővé tette, hogy Bata városa elkerülje a nagyobb áramszüneteket, ami elengedhetetlen a kereskedelmi és lakossági szektor fejlődéséhez. A batai erőmű a város modernizációjának egyik technikai pillére. Tanterv: Fizika K7, Gazdaság K8.",
+      "factsAdvanced": [
+        "Bata városának és környezetének egyik fő áramforrása.",
+        "Gáz- vagy folyékony üzemanyaggal működő generátorokat használ.",
+        "Kulcsszerepet játszik a csúcsidőszaki energiaigények kielégítésében.",
+        "Az erőmű Bata ipari zónájának közelében helyezkedik el.",
+        "A nemzeti villamosenergia-hálózat (SEGESA) része.",
+        "Kapacitása az elmúlt évtizedben többször is bővült.",
+        "Fontos tartalék energiaforrás a vízerőművek karbantartása idején."
+      ]
+    },
+    {
+      "id": "malabo-power-plant-economic-v2",
+      "descriptionAdvanced": "A malabói erőmű Bioko szigetének központi energiatermelő létesítménye, amely biztosítja a főváros és a sziget északi részének elektromos ellátását. Az erőmű elsősorban a Punta Europából származó földgázt hasznosítja, ami gazdaságos és környezetkímélőbb megoldást jelent a hagyományos olajalapú áramtermelésnél. A létesítmény modern gázturbinái nagy hatásfokkal működnek, és képessé teszik a hálózatot a gyorsan növekvő lakossági és ipari igények kiszolgálására. Malabo folyamatos fejlődése és urbanizációja miatt az erőmű kapacitásának bővítése állandó napirenden van. A biztonságos és stabil energiaellátás alapfeltétele a fővárosban működő kormányzati és nemzetközi intézmények zavartalan munkájának. Tanterv: Technológia K8, Gazdaság K7.",
+      "factsAdvanced": [
+        "Bioko-sziget legfontosabb elektromos erőműve.",
+        "Malabo városában, a tengerpart közelében található.",
+        "Fő üzemanyaga a hazai forrásból származó földgáz.",
+        "Kapacitása elegendő a teljes főváros és az elővárosok ellátására.",
+        "A SEGESA állami áramszolgáltató felügyelete alá tartozik.",
+        "Modernizált vezérlőrendszerrel rendelkezik a hatékony üzemeltetéshez.",
+        "Jelentősen csökkenti a sziget függőségét az importált üzemanyagoktól."
+      ]
+    },
+    {
+      "id": "luba-sawmill-economic-v2",
+      "descriptionAdvanced": "A lubai fűrészüzem Bioko szigetének egyik legrégebbi és legfontosabb faipari létesítménye, amely a sziget nyugati partján, Luba városában működik. Az üzem a sziget sűrű erdőiből származó nemesfákat dolgozza fel, elsősorban exportra és a helyi építőipar számára. A fűrészüzem technológiai fejlődése tükrözi az ország iparosodási törekvéseit, ahol a nyersanyag helyett egyre nagyobb hangsúlyt fektetnek a félkész és késztermékek előállítására. A létesítmény több száz helyi munkásnak ad megélhetést, fenntartva a faipar hagyományait a szigeten. A fenntarthatóság érdekében az üzem egyre szigorúbb erdőgazdálkodási szabályokat követ, biztosítva a biokói erdők jövőjét. Tanterv: Technika K6, Környezettan K8.",
+      "factsAdvanced": [
+        "Luba városában található nagyüzemi fafeldolgozó.",
+        "Bioko-sziget trópusi keményfáinak elsődleges feldolgozóhelye.",
+        "Fontos szerepet játszik az ország faexportjában.",
+        "Az üzem épületei még a gyarmati idők ipari stílusát idézik.",
+        "Modern vágó- és szárítóberendezésekkel rendelkezik.",
+        "A helyi közösség egyik legnagyobb munkáltatója a régióban.",
+        "A termelés szoros felügyelet alatt áll az erdővédelem érdekében."
+      ]
+    },
+    {
+      "id": "mbini-fishing-port-economic-v2",
+      "descriptionAdvanced": "Mbini halászkikötője a Río Muni régió partvidékének egyik legaktívabb tengeri csomópontja, amely a Benito-folyó torkolatánál fekszik. A kikötő a kézműves és a félipari halászat központja, ahol naponta több tucat kenu és kisebb halászhajó rakodik ki friss tengeri fogást. Mbini híres a kiváló minőségű halairól és rákjairól, amelyek a szárazföld belsejének piacaira is eljutnak. A kikötői infrastruktúra fejlesztése során modern jéggyárak és tárolóhelyiségek épültek, segítve a termékek tartósítását és értékesítését. A halászat nemcsak gazdasági tevékenység, hanem Mbini társadalmi életének és identitásának is alapköve, ahol a tenger tisztelete nemzedékről nemzedékre öröklődik. Tanterv: Földrajz K6, Gazdaság K7.",
+      "factsAdvanced": [
+        "A Benito-folyó torkolatában, Mbini városában található.",
+        "Río Muni egyik legjelentősebb kézműves halászközpontja.",
+        "Híres a nagy szemű rákokról és az egzotikus tengeri halakról.",
+        "Modern hűtőházakkal és halfeldolgozó asztalokkal felszerelt.",
+        "A helyi halászok szövetkezetekbe tömörülve értékesítik a fogást.",
+        "A kikötő Bata városából könnyen elérhető a part menti úton.",
+        "Fontos szerepet játszik a régió élelmezésbiztonságában."
+      ]
+    },
+    {
+      "id": "mongomo-industrial-zone-economic-v2",
+      "descriptionAdvanced": "A mongomói ipari zóna Egyenlítői-Guinea keleti régiójának gazdasági központja, amely a város modernizációs programjának részeként jött létre. A zóna célja a mezőgazdasági termékek feldolgozása, az építőanyag-gyártás és a könnyűipar ösztönzése a szárazföld belsejében. Mongomo stratégiai elhelyezkedése a gaboni határ közelében ideálissá teszi a területet a regionális kereskedelem és logisztika számára. Az ipari park modern közművekkel, aszfaltozott utakkal és megbízható energiaellátással rendelkezik, vonzva a hazai és külföldi befektetőket. Az ipari zóna fejlődése hozzájárul az ország gazdaságának diverzifikálásához, csökkentve az importfüggőséget a belső területeken. Tanterv: Gazdaság K8, Földrajz K7.",
+      "factsAdvanced": [
+        "Mongomo városának déli peremén található ipari park.",
+        "Fókuszában a helyi nyersanyagok feldolgozása áll.",
+        "Építőanyag-gyárakat és élelmiszer-feldolgozókat foglal magában.",
+        "Strategiai fekvése segíti a Gaboni kereskedelmi kapcsolatokat.",
+        "Az állami diverzifikációs program egyik kulcsprojektje.",
+        "Modern raktárakkal és logisztikai terminálokkal felszerelt.",
+        "Jelentős munkahelyteremtő hatása van Wele-Nzas tartományban."
+      ]
+    },
+    {
+      "id": "akoga-cement-factory-economic-v2",
+      "descriptionAdvanced": "Az akogai cementgyár Egyenlítői-Guinea egyik kulcsfontosságú ipari létesítménye a szárazföldi régió déli részén. A gyár az ország gyors infrastrukturális fejlődésének egyik alapkövét biztosítja: a cementet. Akoga térségében a mészkő- és egyéb ásványi lelőhelyek kiaknázása tette lehetővé a helyi termelés elindítását, csökkentve az ország építőiparának importigényét. A gyár modern technológiával üzemel, és termékei eljutnak az ország minden részébe, támogatva az utak, hidak és lakóparkok építését. A létesítmény nemcsak gazdasági jelentőséggel bír, hanem fontos szerepet játszik a déli régió iparosításában és a helyi szakképzés előmozdításában is. Tanterv: Technológia K7, Gazdaság K8.",
+      "factsAdvanced": [
+        "Akoga térségében, Litoral tartomány déli részén található.",
+        "Az ország egyik legnagyobb nehézipari létesítménye.",
+        "Biztosítja a hazai építőipar cementigényének jelentős részét.",
+        "Strategiai fontosságú a nemzeti infrastrukturális projektekhez.",
+        "Modern környezetvédelmi szűrőberendezésekkel van ellátva.",
+        "Saját bányászati területtel rendelkezik a nyersanyagellátáshoz.",
+        "Több száz helyi munkavállalót foglalkoztat a nehézgépkezelőktől a mérnökökig."
+      ]
+    },
+    {
+      "id": "k5-logistics-malabo-economic-v2",
+      "descriptionAdvanced": "A K5 Logisztikai Bázis Malabo egyik legmodernebb ipari és szolgáltató központja, amely kifejezetten az olaj- és gázszektor kiszolgálására specializálódott. A bázis Bioko szigetének északi partján, a kikötő és a repülőtér közelében található, tökéletes logisztikai kapcsolatokat biztosítva. A K5 modern raktározási lehetőségeket, nehézgép-szervizelést és speciális offshore ellátási szolgáltatásokat kínál a nemzetközi energiavállalatok számára. A terület technológiai felszereltsége és a magas biztonsági sztenderdek miatt a régió egyik legfontosabb ipari csomópontjává vált. A bázis működése nagyban hozzájárul ahhoz, hogy Malabo ne csak politikai, hanem technológiai és szolgáltató központ is legyen Közép-Afrikában. Tanterv: Gazdaság K8, Technika K8.",
+      "factsAdvanced": [
+        "Malabo ipari negyedében található logisztikai komplexum.",
+        "Offshore olaj- és gázprojektek elsődleges szárazföldi bázisa.",
+        "Nemzetközi biztonsági és minőségirányítási tanúsítványokkal rendelkezik.",
+        "Modern daru- és raktártechnológiát alkalmaz.",
+        "Számos világcég tartja itt regionális szervizközpontját.",
+        "A bázis közvetlen tengeri és közúti összeköttetéssel bír.",
+        "Az ország egyik legprofesszionálisabban vezetett ipari létesítménye."
       ]
     }
   ]

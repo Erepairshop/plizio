@@ -1,0 +1,48 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "the-pearls-of-umhlanga-landmarks-v2",
+      "descriptionAdvanced": "A The Pearls of Umhlanga egy luxus lakó- és kereskedelmi komplexum Durban északi részén, Umhlanga tengerparti üdülőövezetében. A jellegzetes, gyöngyszerűen kialakított tornyok az Indiai-óceán partvidékének egyik legexkluzívabb életterét biztosítják, és a régió modern üdülőépítészetének egyik leglátványosabb példája. Az épületcsoport nemcsak a lakók számára kínál prémium életminőséget, hanem egy pezsgő, üzletekkel és éttermekkel teli sétányt is, amely Durban egyik legkedveltebb turisztikai és vásárlóövezete, lenyűgöző kilátással a tengerre.",
+      "factsAdvanced": [
+        "Luxus lakó- és kereskedelmi komplexum.",
+        "Umhlanga tengerparti részén helyezkedik el.",
+        "A régió egyik legexkluzívabb lakónegyede.",
+        "Jellegzetes, gyöngyszerű toronykialakítás.",
+        "Pezsgő üzleti és éttermi negyed.",
+        "Közvetlen kapcsolat az Indiai-óceán partjával.",
+        "Modern építészeti mérföldkő Umhlangában."
+      ]
+    },
+    {
+      "id": "cape-point-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A Fok-félsziget (Cape Point) csúcsán álló világítótorony Dél-Afrika egyik legdrámaiabb természeti környezetében fekszik, ahol az óceáni sziklák mélyen az Indiai- és az Atlanti-óceán találkozásába nyúlnak. A régi, a hegytetőn álló világítótorony mára múzeumként és kilátóként szolgál, ahonnan páratlan rálátás nyílik a félsziget sziklás partvonalára. A helyszín a Table Mountain Nemzeti Park része, és a természet szerelmeseinek kötelező célpontja, akik a világ egyik legszebb tengerparti táját szeretnék megcsodálni.",
+      "factsAdvanced": [
+        "A Fok-félsziget csúcsán található.",
+        "A világ egyik legszebb tengerparti kilátópontja.",
+        "Az Indiai- és Atlanti-óceán találkozásánál fekszik.",
+        "A Table Mountain Nemzeti Park része.",
+        "A régi világítótorony ma múzeumként működik.",
+        "Drámai sziklás partvonal jellemzi.",
+        "A régió egyik legnépszerűbb természeti látnivalója."
+      ]
+    },
+    {
+      "id": "st-georges-cathedral-landmarks-v2",
+      "descriptionAdvanced": "A fokvárosi Szent György-székesegyház (St. George's Cathedral) a város legrégebbi katedrálisa, amely a 20. század elején épült gótikus stílusban. A székesegyház nemcsak vallási jelentőségű, hanem az apartheid-ellenes küzdelem fontos színtere is volt: Desmond Tutu érsek itt folytatta emberi jogi tevékenységét, ezért az épületet a béke és a szabadság szimbólumaként tisztelik. A gyönyörű ólomüveg ablakokkal és történelmi építészeti részletekkel díszített székesegyház Fokváros szellemi és történelmi örökségének egyik legfontosabb sarokköve.",
+      "factsAdvanced": [
+        "Fokváros legrégebbi katedrálisa.",
+        "Gótikus építészeti stílusban épült.",
+        "Az apartheid-ellenes küzdelem fontos színtere.",
+        "Desmond Tutu érsek egykori központja.",
+        "A béke és emberi jogi harc szimbóluma.",
+        "Gyönyörű ólomüveg ablakokkal rendelkezik.",
+        "A város történelmi és szellemi központja."
+      ]
+    }
+  ]
+}

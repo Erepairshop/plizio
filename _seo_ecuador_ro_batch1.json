@@ -1,0 +1,309 @@
+{
+  "lang": "ro",
+  "country": "ecuador",
+  "files": [
+    "lib/visualLab/data/poiExtraEcuadorReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ecuador-reventador-relief-v2",
+      "descriptionAdvanced": "Reventador este unul dintre cei mai activi stratovulcani din Anzii de Est, faimos pentru erupțiile sale frecvente și spectaculoase. Cu o înălțime de aproximativ 3562 de metri, activitatea sa vulcanică influențează în mod direct ecosistemul pădurilor tropicale de nori din regiune. Din punct de vedere geologic, vulcanul face parte din arcul vulcanic creat prin subducția plăcii Nazca sub placa sud-americană, fiind un punct critic pentru cercetarea vulcanologică globală datorită activității sale constante. Geografie K7 — relief vulcanic și tectonica plăcilor.",
+      "factsAdvanced": [
+        "Altitudine: 3562 metri",
+        "Tip: Stratovulcan",
+        "Regiune: Arcul vulcanic din Anzii de Est",
+        "Prima erupție documentată: 1541",
+        "Principala amenințare: Fluxuri piroclastice",
+        "Context geologic: Zonă de subducție"
+      ]
+    },
+    {
+      "id": "ecuador-carihuairazo-relief-v2",
+      "descriptionAdvanced": "Carihuairazo este un vulcan erodat și stins, situat în vecinătatea masivului monumental Chimborazo. Deși este mai mic decât vecinul său celebru, cele trei vârfuri ale sale – Central, Nord și Sud – oferă un teren provocator pentru drumețiile montane. Muntele prezintă o rămășiță glaciară semnificativă care, din cauza schimbărilor climatice, se retrage rapid, servind drept un memento al trecutului glaciar al Anzilor ecuadorieni. Geografie K7 — eroziune glaciară și formațiuni vulcanice.",
+      "factsAdvanced": [
+        "Altitudine: 5018 metri",
+        "Vârfuri: Trei vârfuri principale",
+        "Vecinătate: Situat în apropierea masivului Chimborazo",
+        "Stare geologică: Vulcan stins",
+        "Stare glaciară: Ghețari în retragere",
+        "Dificultate: Teren montan înalt"
+      ]
+    },
+    {
+      "id": "ecuador-sincholagua-relief-v2",
+      "descriptionAdvanced": "Sincholagua este un stratovulcan inactiv și accidentat, situat la sud de Quito, în interiorul Parcului Național Cotopaxi. Fiind unul dintre cei mai vechi vulcani din regiune, acesta se distinge prin vârfurile sale dramatice, ascuțite și zimțate, care contrastează puternic cu versanții netezi ai vulcanului Cotopaxi. Zonele înalte din jur sunt compuse în principal din vegetație de paramo, o resursă esențială de apă și o floră unică pentru regiunea andină. Geografie K7 — vârfuri vulcanice și ecosisteme de paramo.",
+      "factsAdvanced": [
+        "Altitudine: 4893 metri",
+        "Tip: Stratovulcan inactiv",
+        "Vârstă: Peste 2 milioane de ani",
+        "Locație: Parcul Național Cotopaxi",
+        "Ecosistem: Paramo de mare altitudine",
+        "Structură vârf: Rocă vulcanică zimțată"
+      ]
+    },
+    {
+      "id": "ecuador-corazon-relief-v2",
+      "descriptionAdvanced": "Corazon este un vulcan inactiv, puternic erodat, al cărui nume provine de la aspectul calderei sale în formă de inimă, vizibil din anumite unghiuri. Situat în Cordiliera Occidentală a Anzilor, acesta oferă vederi panoramice spectaculoase asupra Aleei Vulcanilor din jur. Vârful este o destinație populară pentru drumeții care doresc să se aclimatizeze înainte de a aborda vârfuri mai înalte din regiune, fiind un exemplu clasic de structură de prăbușire a calderei. Geografie K7 — formarea calderei și peisaje vulcanice.",
+      "factsAdvanced": [
+        "Altitudine: 4790 metri",
+        "Tip: Vulcan stins și erodat",
+        "Calderă: Structură în formă de inimă",
+        "Locație: Cordiliera Occidentală",
+        "Acces: Traseu de drumeție popular",
+        "Teren: Creastă vulcanică de mare altitudine"
+      ]
+    },
+    {
+      "id": "ecuador-ruminahui-relief-v2",
+      "descriptionAdvanced": "Ruminahui este un vulcan străvechi și proeminent, compus din trei vârfuri distincte, situat în apropierea masivului Cotopaxi. Numit după un general incaș, muntele oferă oportunități tehnice de drumeție și perspective spectaculoase asupra vulcanilor Cotopaxi și Sincholagua. Versanții săi stâncoși sunt acoperiți de pajiști de paramo, esențiale pentru retenția apei în zonele înalte ale Ecuadorului central. Este un sistem geologic complex, modelat de mai multe faze eruptive. Geografie K7 — masiv vulcanic și hidrologia paramo.",
+      "factsAdvanced": [
+        "Altitudine: 4722 metri",
+        "Vârfuri: Central, Nord, Sud",
+        "Originea numelui: Generalul incaș Ruminahui",
+        "Locație: Lângă Parcul Național Cotopaxi",
+        "Ecologie: Pajiști de mare altitudine",
+        "Istorie: Activitate vulcanică străveche"
+      ]
+    },
+    {
+      "id": "ecuador-imbabura-relief-v2",
+      "descriptionAdvanced": "Imbabura este un stratovulcan adormit care domină maiestuos lacul San Pablo și valea orașului Otavalo. Considerat un munte sacru de către populația indigenă locală, Imbabura este un sistem geologic complex a cărui ultimă erupție majoră a avut loc acum peste 14.000 de ani, modelând decisiv platourile înalte din jur. Versanții săi fertili reprezintă centrul agriculturii și al vieții culturale din această regiune a Anzilor nordici. Geografie K7 — peisaje vulcanice.",
+      "factsAdvanced": [
+        "Altitudine: 4630 metri",
+        "Statut: Adormit",
+        "Munte sacru: Venerat de populația indigenă",
+        "Ultima erupție: Acum peste 14.000 de ani",
+        "Regiune: Anzii nordici",
+        "Semnificație economică: Agricultură locală"
+      ]
+    },
+    {
+      "id": "ecuador-pasochoa-relief-v2",
+      "descriptionAdvanced": "Pasochoa este un vulcan stins care găzduiește o calderă prăbușită, transformată astăzi într-un refugiu remarcabil pentru o pădure andină de ceață. Datorită faptului că o parte a calderei este complet deschisă, s-a creat un microclimat unic care permite o diversitate biologică ridicată. Această arie protejată oferă un habitat esențial pentru specii pe cale de dispariție, precum condorul andin, fiind un exemplu viu al regenerării ecologice a structurilor vulcanice. Geografie K7 — ecosisteme de pădure de ceață.",
+      "factsAdvanced": [
+        "Înălțimea marginii craterului: 4199 metri",
+        "Structură: Calderă prăbușită",
+        "Statut ecologic: Rezervație protejată",
+        "Floră: Biodiversitate endemică bogată",
+        "Faună: Habitat pentru condorul andin",
+        "Statut geologic: Stins"
+      ]
+    },
+    {
+      "id": "ecuador-chiles-relief-v2",
+      "descriptionAdvanced": "Chiles este un vulcan impresionant situat direct la granița dintre Ecuador și Columbia. Împreună cu vecinul său, Cerro Negro, formează un complex vulcanic renumit pentru numeroasele izvoare termale situate la baza sa. Muntele este de un mare interes geologic datorită poziției sale în centura vulcanică de nord, fiind periodic acoperit de zăpadă. Regiunea din jurul muntelui este un punct important pentru studiile geologice transfrontaliere. Geografie K7 — formațiuni vulcanice de graniță.",
+      "factsAdvanced": [
+        "Altitudine: 4723 metri",
+        "Locație: Granița cu Columbia",
+        "Tip geologic: Complex vulcanic",
+        "Notă: Izvoare termale la bază",
+        "Provincie: Carchi",
+        "Caracteristică climatică: Zăpadă periodică"
+      ]
+    },
+    {
+      "id": "ecuador-mojanda-relief-v2",
+      "descriptionAdvanced": "Complexul Mojanda este un sistem vulcanic stins situat în Anzii nordici, faimos pentru cele trei lacuri de crater la mare altitudine, printre care Karikucha este cea mai mare. Ultima erupție a avut loc acum aproximativ 200.000 de ani, lăsând în urmă un peisaj diversificat de pajiști de paramo. Lacurile din foștii crateri sunt esențiale pentru hidrologia regiunii și reprezintă un punct major de interes pentru cercetarea ecologică privind biodiversitatea înaltă. Geografie K7 — lacuri vulcanice și paramo.",
+      "factsAdvanced": [
+        "Altitudine: 4263 metri",
+        "Cel mai mare lac: Karikucha",
+        "Vârsta erupției: aprox. 200.000 de ani",
+        "Ecosistem: Pajiști de paramo",
+        "Regiune: Anzii nordici",
+        "Structură geologică: Complex vulcanic cu lacuri"
+      ]
+    },
+    {
+      "id": "ecuador-atacazo-relief-v2",
+      "descriptionAdvanced": "Atacazo este un stratovulcan cu o calderă masivă care se ridică impunător la sud-vest de capitala Quito. Cu o lățime a calderei de aproximativ 6 kilometri, acesta este un exemplu impresionant al structurilor vulcanice mari din Cordiliera Occidentală. Datorită locației sale, deseori învăluită în nori denși, accesul este dificil, însă vulcanul este utilizat intens pentru amplasarea stațiilor de emisie care susțin comunicațiile în regiunea capitalei. Geografie K7 — structuri vulcanice și infrastructură.",
+      "factsAdvanced": [
+        "Altitudine: 4463 metri",
+        "Structură: Stratovulcan cu calderă",
+        "Lățimea calderei: 6 kilometri",
+        "Locație: Sud-vest de Quito",
+        "Utilizare: Stații de emisie",
+        "Caracteristică climatică: Formare frecventă a norilor"
+      ]
+    },
+    {
+      "id": "ecuador-wolf-relief-v2",
+      "descriptionAdvanced": "Vulcanul Wolf este cel mai înalt punct din Insulele Galapagos, situat direct pe linia ecuatorului, pe insula Isabela. Ca vulcan scut extrem de activ, acesta a modelat geologic arhipelagul prin numeroasele sale fluxuri de lavă. Vulcanul are, de asemenea, o importanță biologică majoră, fiind casa unei specii unice de iguane roz care nu există nicăieri altundeva în lume. Izolarea și activitatea sa constantă îl fac un obiectiv central de studiu pentru vulcanologia insulară. Geografie K7 — arhipelag vulcanic și evoluție.",
+      "factsAdvanced": [
+        "Altitudine: 1707 metri",
+        "Tip: Vulcan scut activ",
+        "Locație: Direct pe Ecuator (Isabela)",
+        "Notă: Singura casă a iguanelor roz",
+        "Activitate: Erupții frecvente (ultima în 2022)",
+        "Semnificație: Cel mai înalt punct al arhipelagului"
+      ]
+    },
+    {
+      "id": "ecuador-sierra-negra-relief-v2",
+      "descriptionAdvanced": "Sierra Negra este un vulcan scut masiv de pe insula Isabela, mândrindu-se cu una dintre cele mai mari caldere vulcanice din lume, cu un diametru de aproape 9 kilometri. Datorită instabilității sale geologice constante și activității eruptive frecvente, acesta este unul dintre cei mai dinamici vulcani din arhipelagul Galapagos. Caldera sa largă oferă perspective asupra proceselor vulcanice complexe care au condus la formarea insulelor de-a lungul a milioane de ani. Geografie K7 — vulcanologie și dinamica calderei.",
+      "factsAdvanced": [
+        "Altitudine: 1124 metri",
+        "Diametrul calderei: Aproape 9 kilometri",
+        "Activitate: Foarte ridicată (erupție majoră în 2018)",
+        "Tip geologic: Vulcan scut",
+        "Locație: Insula Isabela",
+        "Semnificație: Una dintre cele mai mari caldere din lume"
+      ]
+    },
+    {
+      "id": "ecuador-alcedo-relief-v2",
+      "descriptionAdvanced": "Alcedo este un vulcan scut izolat în inima insulei Isabela, cunoscut pentru populația sa remarcabil de mare de broaște țestoase uriașe. În interiorul calderei sale se găsesc fumarole active, care subliniază natura vulcanică a muntelui. Din cauza izolării sale enorme, zona este un refugiu esențial pentru specii endemice unice care au supraviețuit izolate în arhipelagul Galapagos. Protecția acestui vulcan este decisivă pentru supraviețuirea populațiilor de broaște țestoase gigant. Geografie K7 — habitate vulcanice și endemism.",
+      "factsAdvanced": [
+        "Altitudinea marginii: 1130 metri",
+        "Structură: Vulcan scut cu calderă",
+        "Notă: Fumarole active în interior",
+        "Faună: Populație centrală de broaște țestoase uriașe",
+        "Statut geologic: Activitate dovedită prin fumarole",
+        "Statut de protecție: Rezervație centrală"
+      ]
+    },
+    {
+      "id": "ecuador-cerro-azul-relief-v2",
+      "descriptionAdvanced": "Cerro Azul este un vulcan scut extrem de activ care formează vârful sud-vestic al insulei Isabela din Galapagos. Cu o înălțime de 1640 de metri, este al doilea cel mai înalt vulcan din insulele Galapagos și prezintă versanți semnificativ mai abrupți în comparație cu vulcanii scut din jur. Este marcat geologic de fluxuri de lavă istorice frecvente, care au creat o regiune vulcanică complet nelocuită și aridă. Activitatea sa definește în mod decisiv fața de sud-vest a insulei. Geografie K7 — vulcani scut și peisaje cu fluxuri de lavă.",
+      "factsAdvanced": [
+        "Altitudine: 1640 metri",
+        "Rang: Al doilea cel mai înalt vulcan al arhipelagului",
+        "Tip: Vulcan scut",
+        "Locație: Vârful sud-vestic al insulei Isabela",
+        "Caracteristică: Versanți mai abrupți decât vecinii",
+        "Influență umană: Complet nelocuit"
+      ]
+    },
+    {
+      "id": "ecuador-darwin-relief-v2",
+      "descriptionAdvanced": "Vulcanul Darwin este un vulcan scut aproape perfect simetric de pe insula Isabela, numit după celebrul naturalist Charles Darwin. Simetria structurii sale și caldera remarcabil de bine conservată îl fac un exemplu geologic excelent pentru vulcanismul de tip scut din arhipelagul Galapagos. A fost modelat printr-o serie de erupții istorice minore care i-au păstrat forma vârfului până astăzi. Vegetația luxuriantă de la baza sa contrastează puternic cu vârful vulcanic golaș. Geografie K7 — simetrie vulcanică și conservare geologică.",
+      "factsAdvanced": [
+        "Altitudine: 1330 metri",
+        "Structură: Vulcan scut simetric",
+        "Originea numelui: Charles Darwin",
+        "Notă: Calderă foarte bine conservată",
+        "Vegetație: Vegetație densă la bază",
+        "Istorie: Seria erupțiilor istorice"
+      ]
+    },
+    {
+      "id": "ecuador-pululahua-relief-v2",
+      "descriptionAdvanced": "Craterul Pululahua este o calderă vulcanică geologic rară, al cărei sol extrem de fertil este cultivat activ și locuit de fermierii locali. Situată la doar câțiva kilometri de Ecuator, această structură vulcanică oferă un habitat unic, protejat ca rezervație geobotanică. Combinația dintre activitatea vulcanică din trecut și așezarea agricolă permanentă de astăzi face din zonă un studiu de caz pentru integrarea activității umane în ecosisteme vulcanice dinamice. Geografie K7 — utilizarea terenurilor vulcanice și geobotanică.",
+      "factsAdvanced": [
+        "Altitudinea marginii craterului: 3356 metri",
+        "Statut: Rezervație geobotanică",
+        "Agricultură: Cultivare activă în crater",
+        "Notă: Crater locuit",
+        "Locație: Aproape de Ecuator",
+        "Statut geologic: Calderă stinsă"
+      ]
+    },
+    {
+      "id": "ecuador-condor-relief-v2",
+      "descriptionAdvanced": "Cordillera del Cóndor este un lanț muntos izolat de-a lungul graniței cu Peru, renumit pentru biodiversitatea sa excepțional de ridicată și fiind mult timp o zonă disputată politic. Din punct de vedere geologic, peisajul este caracterizat prin formațiuni unice de gresie, asemănătoare tepui-urilor, care au permis o evoluție izolată pentru multe specii de plante rare și nedescoperite. Regiunea este o zonă ecologică extrem de sensibilă, reprezentând tranziția între diferite habitate andine. Geografie K7 — ecologie montană și puncte fierbinți de biodiversitate.",
+      "factsAdvanced": [
+        "Altitudine: cca. 2900 metri",
+        "Locație: Granița cu Peru",
+        "Tip peisaj: Formațiuni de gresie asemănătoare tepui-urilor",
+        "Notă: Biodiversitate extrem de ridicată",
+        "Istoric: Zonă de frontieră disputată politic",
+        "Floră: Multe specii nedescoperite"
+      ]
+    },
+    {
+      "id": "ecuador-kutuku-relief-v2",
+      "descriptionAdvanced": "Cordillera de Kutukú este un lanț muntos izolat în bazinul Amazonului, separat geologic semnificativ de lanțul principal al Anzilor. Regiunea este caracterizată prin formațiuni carstice accidentate de calcar și servește de generații drept teritoriu tribal ancestral al poporului Shuar. Datorită accesibilității dificile, o mare parte a acestor munți a rămas în mare parte neexplorată ecologic până în prezent. Reprezintă o barieră hidrologică importantă și un refugiu ecologic în câmpiile tropicale. Geografie K7 — sisteme muntoase izolate și teritorii indigene.",
+      "factsAdvanced": [
+        "Altitudine: cca. 2400 metri",
+        "Geologie: Calcar/carst accidentat",
+        "Teritoriu tribal: Pământ ancestral al Shuarilor",
+        "Statut de cercetare: În mare parte neexplorat",
+        "Peisaj: Lanț muntos izolat în Amazon",
+        "Semnificație: Refugiu ecologic"
+      ]
+    },
+    {
+      "id": "ecuador-chongon-colonche-relief-v2",
+      "descriptionAdvanced": "Munții Chongón-Colonche sunt un lanț de coastă alungit care izolează eficient coasta vestică aridă a Ecuadorului de regiunile interioare mai umede. Cu o înălțime moderată de aproximativ 800 de metri, aceștia joacă un rol crucial pentru clima locală și aprovizionarea cu apă a întregii regiuni de coastă. În ciuda defrișărilor severe din trecut, resturile de pădure rămase sunt esențiale astăzi, oferind un refugiu pentru multe specii de păsări endemice. Lanțul este un exemplu important de diviziuni climatice cauzate de bariere topografice. Geografie K7 — climatologie de coastă și bariere topografice.",
+      "factsAdvanced": [
+        "Altitudine: cca. 800 metri",
+        "Structură: Lanț muntos de coastă alungit",
+        "Rol climatic: Separarea zonelor uscate de cele umede",
+        "Statut ecologic: Grav despădurit",
+        "Semnificație: Importantă pentru aprovizionarea cu apă",
+        "Faună: Refugiu pentru păsări endemice"
+      ]
+    },
+    {
+      "id": "ecuador-puyango-relief-v2",
+      "descriptionAdvanced": "Pădurea Pietrificată Puyango este un sit paleontologic de clasă mondială în sudul îndepărtat al Ecuadorului, care conservă trunchiuri masive de copaci pietrificați și fosile antice de acum 100 de milioane de ani. Aria protejată oferă perspective asupra unui ecosistem preistoric care include nu numai plante, ci și creaturi marine pietrificate. Descoperirile permit reconstrucții paleoclimatice și geologice detaliate ale zonei sudice a Ecuadorului. Geografie K7 — paleontologie și scări de timp geologic.",
+      "factsAdvanced": [
+        "Vârsta fosilelor: aprox. 100 de milioane de ani",
+        "Suprafață: 2658 hectare",
+        "Tip: Sit paleontologic",
+        "Notă: Trunchiuri masive de copaci pietrificați",
+        "Descoperiri: Inclusiv creaturi marine pietrificate",
+        "Locație: Sudul îndepărtat al Ecuadorului"
+      ]
+    },
+    {
+      "id": "ecuador-awa-relief-v2",
+      "descriptionAdvanced": "Pădurea tropicală Awá este o pădure tropicală densă în nord-vestul Ecuadorului, care servește drept sanctuar critic pentru poporul indigen Awá, a cărui identitate culturală este inseparabilă de acest pământ. Datorită precipitațiilor extrem de ridicate, această zonă face parte din hotspot-ul de biodiversitate Chocó, adăpostind o varietate de neegalat de forme de viață tropicale. În ciuda importanței ecologice, regiunea este tot mai amenințată de tăierile ilegale, făcând conservarea acestei rezervații de 100.000 de hectare o prioritate globală. Geografie K7 — ecosisteme de pădure tropicală și arii indigene protejate.",
+      "factsAdvanced": [
+        "Precipitații anuale: Extrem de ridicate",
+        "Statut: Parte a hotspot-ului de biodiversitate Chocó",
+        "Suprafață: Peste 100.000 de hectare",
+        "Rol social: Arie protejată pentru poporul Awá",
+        "Amenințare principală: Tăieri ilegale",
+        "Regiune: Nord-vestul Ecuadorului"
+      ]
+    },
+    {
+      "id": "ecuador-jatun-sacha-relief-v2",
+      "descriptionAdvanced": "Rezervația Jatun Sacha este o stațiune de cercetare biologică și rezervație de pădure tropicală definitorie în bazinul superior al Amazonului, al cărei nume înseamnă, în limba Kichwa, pădure mare. Cu o suprafață de aproximativ 2500 de hectare, zona servește drept nod central pentru cercetarea conservării în regiunea amazoniană, protejând în principal păduri tropicale secundare. Rezultatele științifice obținute aici sunt esențiale pentru înțelegerea proceselor de regenerare a pădurilor tropicale după intervențiile umane. Geografie K7 — cercetarea ecosistemelor amazoniene.",
+      "factsAdvanced": [
+        "Originea numelui: Kichwa pentru Pădure Mare",
+        "Suprafață: aprox. 2500 de hectare",
+        "Funcție: Stațiune de cercetare biologică",
+        "Tip de pădure: În principal pădure tropicală secundară",
+        "Semnificație: Centru de cercetare a conservării Amazonului",
+        "Regiune: Bazinul superior al Amazonului"
+      ]
+    },
+    {
+      "id": "ecuador-pacoche-relief-v2",
+      "descriptionAdvanced": "Rezervația de faună Pacoche este o zonă de coastă care, datorită microclimatului său unic, susține o pădure luxuriantă într-o regiune altfel aridă. Utilizând umiditatea din ceața densă a mării, aici prosperă o vegetație care contrastează puternic cu peisajul de coastă uscat din jur. Zona este celebră în principal pentru maimuțele sale urlătoare zgomotoase și pentru plajele importante de cuibărit ale țestoaselor marine, a căror protecție este asigurată de rezervația de 5045 de hectare. Geografie K7 — microclimate de coastă și rezervații de faună.",
+      "factsAdvanced": [
+        "Notă: Microclimat unic",
+        "Faună: Celebră pentru maimuțele urlătoare zgomotoase",
+        "Suprafață: Exact 5045 hectare",
+        "Hidrologia pădurii: Utilizarea ceții marine",
+        "Statut de protecție: Plaje de cuibărit pentru țestoase marine",
+        "Contrast climatic: Pădure luxuriantă în regiune aridă"
+      ]
+    },
+    {
+      "id": "ecuador-choco-relief-v2",
+      "descriptionAdvanced": "Pădurea tropicală Chocó este una dintre cele mai umede și mai diverse biologic păduri tropicale de câmpie de pe planetă, extinzându-se până în Columbia. Această comoară ecologică este însă sever amenințată de expansiunea agricolă continuă, jucând în același timp un rol crucial în protecția climei ca rezervor global critic de carbon. Regiunea se caracterizează printr-o varietate de specii de broaște strict endemice care nu se găsesc nicăieri altundeva pe Pământ. Geografie K7 — ecologia câmpiilor tropicale și protecția climei.",
+      "factsAdvanced": [
+        "Caracteristică: Una dintre cele mai umede păduri tropicale din lume",
+        "Biodiversitate: Extrem de ridicată, cu multe specii endemice de broaște",
+        "Extindere geografică: Până în Columbia",
+        "Statut ecologic: Grav amenințat de expansiune",
+        "Funcție climatică: Rezervor global critic de carbon",
+        "Tip: Pădure tropicală de câmpie"
+      ]
+    },
+    {
+      "id": "ecuador-plateado-relief-v2",
+      "descriptionAdvanced": "Cerro Plateado este o rezervație biologică de mare altitudine în Anzii sudici, cunoscută pentru ecosistemele sale imaculate și gradul extrem de ridicat de endemism. Muntele își datorează numele reflexiilor argintii ale luminii pe zona vârfului său. Datorită dificultăților de acces topografic, o mare parte a regiunii a rămas intactă până în prezent, servind drept refugiu de conservare esențial pentru specii rare, precum ursul andin. Este o parte integrantă a uriașei biosfere Podocarpus-El Condor. Geografie K7 — rezervații ale biosferei andine.",
+      "factsAdvanced": [
+        "Biosferă: Parte din Podocarpus-El Condor",
+        "Nume: După reflexiile argintii ale luminii",
+        "Accesibilitate: Topografic foarte dificilă",
+        "Protecția faunei: Habitat important pentru ursul andin",
+        "Statut ecologic: Imaculat",
+        "Notă: Nivel ridicat de endemism"
+      ]
+    }
+  ]
+}

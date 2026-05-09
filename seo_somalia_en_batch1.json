@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "golis-range-relief-v2",
+      "descriptionAdvanced": "The Golis Massif forms the impressive, rugged backbone of northern Somalia, extending as a prominent mountain range for several hundred kilometers. Geologically composed primarily of limestone and granite, these formations have been sculpted over millions of years by tectonic uplift. Serving as a crucial natural watershed, the range plays an essential role in the local climate and the water supply for the lower-lying regions. Its higher altitudes contain unique ecological niches that host significant biodiversity, providing vital habitats for various endemic plant and animal species despite the region's overall arid nature.",
+      "factsAdvanced": [
+        "Reaches peak elevations exceeding 2000 meters.",
+        "Serves as the region's most important natural watershed.",
+        "Geologically characterized by extensive limestone formations.",
+        "Extends over several hundred kilometers in northern Somalia.",
+        "Acts as a significant retreat area for local wildlife.",
+        "Functions as a barrier against moisture-carrying monsoon winds.",
+        "Provides the foundation for numerous seasonal river systems."
+      ]
+    },
+    {
+      "id": "ogaden-plain-relief-v2",
+      "descriptionAdvanced": "The Ogaden Plain is a vast, arid landscape situated in the southeastern border region of Somalia. The terrain is characterized by a stark, barren relief, predominantly dominated by thorn bush savanna and steppe-like sections. Despite the extreme climatic conditions marked by irregular rainfall, the area serves as an indispensable pastureland for nomadic communities. The soil structure consists mainly of sedimentary deposits that briefly turn green during rare, heavy rain events, providing a fragile but vital foundation for pastoral lifestyles in this isolated region.",
+      "factsAdvanced": [
+        "A vast, arid plateau in southeastern Somalia.",
+        "Dominated by sparse thorn bush and steppe vegetation.",
+        "Functions as an essential pastureland for Somali nomads.",
+        "Predominantly characterized by sedimentary soil structures.",
+        "Annual rainfall patterns are extremely irregular.",
+        "Shape the nomadic pastoral lifestyle and cultural history.",
+        "Features a relatively flat, horizontal terrain profile."
+      ]
+    },
+    {
+      "id": "cal-madow-peaks-relief-v2",
+      "descriptionAdvanced": "The Cal Madow Peaks represent the most striking and highest section of the Cal Madow mountain range in northern Somalia. Geologically, the region is defined by steep, deeply incised limestone cliffs and fractured rock formations. Due to their unique topographic position and higher moisture absorption from the Indian Ocean winds, these peaks host an exceptionally rich flora rarely found elsewhere in Somalia. The area is known as an ecological hotspot, providing refuge for rare endemic plant species adapted to the harsh, yet more humid microclimate of the high-altitude crests.",
+      "factsAdvanced": [
+        "Among the highest formations in northern Somalia.",
+        "Defined by striking, steep limestone cliffs.",
+        "Acts as an ecological hotspot with high plant endemism.",
+        "Benefits significantly from moisture-laden Indian Ocean winds.",
+        "Characterized by deep valleys and fractured crests.",
+        "Functions as a vital water storage area for the lowlands.",
+        "Higher humidity levels support unique forest ecosystems."
+      ]
+    },
+    {
+      "id": "jubba-valley-relief-v2",
+      "descriptionAdvanced": "The Jubba Valley Basin is Somalia's most significant agricultural lowland, shaped by the sedimentation capacity of the Jubba River. This fertile plain forms a natural depression that is consistently enriched with nutrient-rich alluvial soils through regular seasonal flooding. These topographic conditions permit intensive agriculture, which is exceptionally productive compared to other parts of the country. The valley serves as the region's lifeline, with a complex relief of natural levees and floodplains creating a dynamic landscape central to both local food security and the ecological stability of southern Somalia.",
+      "factsAdvanced": [
+        "The most vital agricultural region in the country.",
+        "Rich alluvial soils resulting from cyclical flooding.",
+        "Regular seasonal flood patterns define the relief.",
+        "Boasts the highest agricultural productivity in Somalia.",
+        "Natural sedimentary basins located along the river course.",
+        "Serves as an essential life-source for the southern population.",
+        "Topography strongly shaped by the river's hydrological system."
+      ]
+    },
+    {
+      "id": "shabelle-plateau-relief-v2",
+      "descriptionAdvanced": "The Shabelle Plateau extends as a vast highland area flanking the Shabelle River, forming a geological transition zone. The plateau consists predominantly of sedimentary rock layers that have been gently worn down over millennia by erosive processes. This topographic elevation is crucial for regional groundwater storage, as it functions as a collection basin for infiltrating precipitation. The landscape is defined by a succession of gentle hills and flat depressions that, despite arid conditions, represent a strategically important resource zone for both agriculture and extensive livestock farming.",
+      "factsAdvanced": [
+        "Classic sedimentary highland relief.",
+        "Flanks the central Shabelle river system.",
+        "Crucial natural reservoir for regional groundwater.",
+        "Gently eroded, relief-defined landscape.",
+        "Strategic zone for both livestock and agriculture.",
+        "Consists primarily of sedimentary rock deposits.",
+        "Functions as a smooth topographic transition zone."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "11-diagonal-street-landmarks-v2",
+      "descriptionAdvanced": "A johannesburgi 11 Diagonal Street egy szokatlan, gyémántszerű üvegépület, amely a város üzleti negyedének egyik legkülönlegesebb építészeti alkotása. Az 1980-as években épült irodaház sokszögletű, tükröződő üvegfelületei drámai módon verik vissza a környező épületeket és az eget, futurisztikus megjelenést kölcsönözve neki. Az épület nemcsak irodai tereket biztosít, hanem a modern dél-afrikai építészet egyik kísérletező, bátor alkotásaként maradt fenn, amely a mai napig izgalmas látványt nyújt a városközpontban.",
+      "factsAdvanced": [
+        "Jellegzetes gyémánt alakú, sokszögletű épület.",
+        "A 80-as évek építészeti kísérleteihez tartozik.",
+        "Tükröződő üvegfelületek jellemzik.",
+        "Johannesburg üzleti negyedében található.",
+        "Futurisztikus megjelenésű irodaház.",
+        "A város egyik legkülönlegesebb épülete.",
+        "Építészetileg meghatározó mérföldkő."
+      ]
+    },
+    {
+      "id": "alice-lane-towers-landmarks-v2",
+      "descriptionAdvanced": "Az Alice Lane Towers egy modern irodakomplexum Johannesburg egyik legdinamikusabban fejlődő részén, Sandtonban. A két toronyból álló épületegyüttes figyelemfelkeltő homlokzata, melyet pixel-szerű mintázat díszít, a kortárs dél-afrikai üzleti építészet egyik zászlóshajója. Az épület nemcsak a hatékonyság és a modern üzleti igények szimbóluma, hanem a város modernizációs folyamatainak egyik legláthatóbb megnyilvánulása is, amely a 21. századi Johannesburg üzleti erejét és jövőbe mutató törekvéseit hivatott hirdetni.",
+      "factsAdvanced": [
+        "Sandton központi üzleti negyedében található.",
+        "Két toronyból álló, modern irodakomplexum.",
+        "Jellegzetes, pixeles homlokzati mintázat.",
+        "A kortárs dél-afrikai üzleti építészet jelképe.",
+        "A város modernizációs folyamatának egyik példája.",
+        "Hatékonyságot sugárzó, funkcionális kialakítás.",
+        "A 21. századi Johannesburg szimbóluma."
+      ]
+    },
+    {
+      "id": "88-on-field-landmarks-v2",
+      "descriptionAdvanced": "A durbani 88 on Field egy meghatározó irodaépület a város üzleti központjában, amely magasságával és modern üvegfalú szerkezetével uralja a környéket. A toronyház nemcsak Durban gazdasági életének egyik központi helyszíne, hanem a város modernkori fejlődésének is látványos bizonyítéka. A tengerparti város üzleti negyedének egyik kulcsépületeként a 88 on Field a kikötőváros dinamizmusát és modern kereskedelmi törekvéseit tükrözi, miközben irodái a régió legfontosabb cégeinek adnak otthont.",
+      "factsAdvanced": [
+        "Meghatározó irodaépület Durban üzleti negyedében.",
+        "Magas, modern üvegfalú szerkezet.",
+        "A város gazdasági életének központja.",
+        "A tengerparti város fejlődésének jelképe.",
+        "Kulcsfontosságú kereskedelmi irodatorony.",
+        "A régió vezető cégei számára irodákat biztosít.",
+        "A durbani üzleti skyline meghatározó része."
+      ]
+    }
+  ]
+}

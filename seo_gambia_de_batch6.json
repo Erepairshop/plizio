@@ -2,33 +2,294 @@
   "lang": "de",
   "country": "gambia",
   "files": [
-    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "fajikunda-cities-v2",
-      "descriptionAdvanced": "Fajikunda ist ein schnell wachsendes Wohnviertel innerhalb der Metropolregion Serekunda, das in den letzten Jahren einen massiven Zuzug erlebt hat. Die Stadt hat sich von einer eher ländlich geprägten Siedlung zu einem zentralen städtischen Wohnraum gewandelt, der viele junge Familien und Berufstätige anzieht. Mit einer Fülle an lokalen kleinen Unternehmen, die vom stetigen Bevölkerungswachstum profitieren, ist Fajikunda ein Paradebeispiel für die Dezentralisierung und Ausbreitung von Gambias urbanen Zentren. Die Stadt bietet eine Mischung aus traditioneller Nachbarschaft und aufstrebendem Kleingewerbe. Wirtschaft K7 — Urbanes Kleingewerbe und Stadtentwicklung.",
-      "factsAdvanced": ["Stark wachsendes Wohnviertel.", "Teil der Serekunda-Metropolregion.", "Anziehungspunkt für junge Familien.", "Wichtiger Hub für lokales Kleingewerbe.", "Wandel von ländlicher zu urbaner Struktur.", "Wachsende Bedeutung für die Region.", "Typisches Beispiel für gambische Urbanisierung."]
+      "id": "july-22-square-landmarks-v2",
+      "descriptionAdvanced": "Der July 22 Square im Herzen von Banjul ist der zentrale zeremonielle Platz Gambias und ein Ort von großer historischer Symbolkraft. Benannt nach dem Datum des Umbruchs im Jahr 1994, dient der weitläufige Platz heute als Bühne für nationale Paraden, politische Kundgebungen und wichtige kulturelle Festlichkeiten. Umgeben von bedeutenden Regierungsgebäuden und historischen Denkmälern, spiegelt der Platz die politische Entwicklung des Landes vom Kolonialismus bis zur modernen Republik wider. Die Architektur der angrenzenden Bauten und die gepflegten Alleen verleihen dem Platz eine würdevolle Atmosphäre. Besucher können hier die pulsierende Energie der Hauptstadt erleben und gleichzeitig die Denkmäler besichtigen, die an die Helden der gambischen Geschichte erinnern. Der July 22 Square ist der administrative und repräsentative Ankerpunkt der Nation. (Geschichte K7 — Nationale Symbole und urbane Identität)",
+      "factsAdvanced": [
+        "Zentraler Festplatz der Hauptstadt Banjul.",
+        "Ort für die jährlichen Feierlichkeiten zum Unabhängigkeitstag.",
+        "Umgeben von wichtigen Ministerien und dem State House.",
+        "Historischer Schauplatz bedeutender politischer Ereignisse.",
+        "Beherbergt Denkmäler zur Ehrung nationaler Freiheitskämpfer.",
+        "Architektonisches Zentrum der kolonialen Gitterstadt.",
+        "Beliebter Treffpunkt für soziale und kulturelle Events.",
+        "Symbol für die Souveränität und Einheit Gambias."
+      ]
     },
     {
-      "id": "dippa-kunda-cities-v2",
-      "descriptionAdvanced": "Dippa Kunda ist ein belebter Stadtteil von Serekunda, der als kommerzieller Knotenpunkt bekannt ist. Durch den großen Markt und das dichte Netzwerk an kleinen Geschäften und Werkstätten, die das Straßenbild prägen, spielt der Ort eine vitale Rolle im täglichen Wirtschaftsleben der Metropole. Die geschäftige Atmosphäre spiegelt die Energie wider, die den gesamten Großraum Serekunda auszeichnet. Dippa Kunda ist ein Ort, an dem sich Handel und soziales Leben eng miteinander verflechten und in dem die lokale Wirtschaft einen direkten Einfluss auf die Lebensqualität der Bewohner hat. Wirtschaft K6 — Lokale Marktdynamik.",
-      "factsAdvanced": ["Lebhafter Teil der Serekunda-Handelszone.", "Großer lokaler Markt.", "Wichtiger Ort für kleinteiligen Handel.", "Geschäftige Straßenstruktur.", "Vitaler Punkt der städtischen Wirtschaft.", "Starker Austausch zwischen Händlern und Bewohnern.", "Charakteristisch für die kommerzielle Energie Serekundas."]
+      "id": "denton-bridge-landmarks-v2",
+      "descriptionAdvanced": "Die Denton Bridge ist das unverzichtbare logistische Bindeglied Gambias, da sie die einzige Landverbindung zwischen der Insel Banjul und dem Festland darstellt. Diese strategisch entscheidende Brücke überspannt den Oyster Creek und ist der Nadelöhr für den gesamten Waren- und Personenverkehr der Hauptstadt. Rund um die Brücke hat sich ein dynamisches wirtschaftliches Cluster aus Fischverarbeitungsbetrieben, Bootsverleihen und Märkten gebildet. Für Reisende bietet die Überquerung der Denton Bridge einen spektakulären Blick auf die dichten Mangrovensümpfe des Tanbi Wetland Complex, der Banjul umschließt. Die Brücke ist nicht nur ein technisches Bauwerk, sondern ein Symbol für die Verbindung der Hauptstadt mit dem Rest der Nation und die strategische Bedeutung der Wasserwege in der gambischen Geographie. (Geographie K7 — Infrastruktur und städtische Anbindung)",
+      "factsAdvanced": [
+        "Einzige Straßenverbindung zur Hauptstadtinsel Banjul.",
+        "Überspannt den strategisch wichtigen Oyster Creek.",
+        "Knotenpunkt für die nationale Logistik und den Pendlerverkehr.",
+        "Bietet Zugang zum Tanbi Wetland Complex (Mangroven).",
+        "Zentrum für den handwerklichen Fischfang und Bootsbau.",
+        "Historisch bedeutender Militär- und Zollkontrollpunkt.",
+        "Markiert den Übergang von der Metropole zur geschützten Natur.",
+        "Lebenswichtige Versorgungsader für die Versorgung Banjuls."
+      ]
     },
     {
-      "id": "abuko-cities-v2",
-      "descriptionAdvanced": "Abuko ist berühmt für das Abuko Nature Reserve, das erste und älteste Naturschutzgebiet Gambias. Dieses Reservat ist ein lebendiges Beispiel für die reiche Artenvielfalt der Region und spielt eine entscheidende Rolle für den Naturschutz und die Umweltbildung. Abuko ist jedoch mehr als nur ein Schutzgebiet; es ist auch ein wichtiger Standort für Viehhandel, der eine Verbindung zwischen ländlicher landwirtschaftlicher Tradition und der Nähe zum städtischen Raum herstellt. Die Kombination aus Naturschutz, Bildung und Handel macht Abuko zu einem einzigartigen Ort in der Nähe der Metropole. Biologie K6 — Artenschutz.",
-      "factsAdvanced": ["Erstes Naturschutzgebiet Gambias.", "Wichtiges Zentrum für Bildung und Artenschutz.", "Zentraler Viehhandelsplatz.", "Enge Verbindung von Naturschutz und Landwirtschaft.", "Heimat für eine Vielzahl seltener Tierarten.", "Wichtiger Ort für ökologische Bildung.", "Beispiel für erfolgreiche Schutzgebietsarbeit."]
+      "id": "tanji-village-museum-landmarks-v2",
+      "descriptionAdvanced": "Das Tanji Village Museum ist ein kulturelles Juwel an der Atlantikküste, das Besuchern eine tiefgehende und authentische Reise in das traditionelle Leben Gambias ermöglicht. Das Museum ist als Freilichtanlage konzipiert und präsentiert originalgetreue Nachbauten der Wohnstrukturen verschiedener ethnischer Gruppen wie der Mandinka, Wolof und Jola. Einzigartig ist die Kombination aus kulturellen Artefakten, botanischen Gärten mit Heilpflanzen und einer Darstellung der lokalen Naturgeschichte. Handwerker demonstrieren vor Ort uralte Techniken der Weberei, Töpferei und Holzschnitzerei, was den Ort zu einem lebendigen Bildungszentrum macht. Das Tanji Village Museum leistet einen unschätzbaren Beitrag zur Bewahrung des kulturellen Erbes und bietet eine fundierte Einordnung der gambischen Identität in einem globalisierten Kontext. (Sachkunde K6 — Kulturelles Erbe und traditionelles Handwerk)",
+      "factsAdvanced": [
+        "Bedeutendstes privates Kulturmuseum in der Küstenregion.",
+        "Beherbergt detaillierte Exponate zur gambischen Fauna und Flora.",
+        "Zentrum für die Ausbildung in traditioneller Handwerkskunst.",
+        "Umfangreiche Sammlung historischer Musikinstrumente.",
+        "Integrierter Naturlehrpfad für traditionelle Medizin.",
+        "Herausragender Ort für die Erforschung indigener Baustile.",
+        "Wichtiger Partner für lokale Schulen und Kulturvereine.",
+        "Symbol für das Engagement privater Akteure beim Kulturerhalt."
+      ]
     },
     {
-      "id": "batokunku-cities-v2",
-      "descriptionAdvanced": "Batokunku ist ein ruhiges, an der Küste gelegenes Dorf, das durch sein innovatives Engagement im Bereich der erneuerbaren Energien bekannt wurde. Als Standort der ersten Windkraftanlage Gambias setzt der Ort ein wichtiges Zeichen für nachhaltige Entwicklung. Die Kombination aus ruhigen, kaum überlaufenen Stränden und dem Fokus auf Ökotourismus zieht Reisende an, die abseits der großen Touristenhochburgen Entspannung suchen. Batokunku ist ein bemerkenswertes Beispiel dafür, wie eine kleine Gemeinschaft durch ökologische Innovation und Naturbewusstsein eine eigene Identität als attraktive Reise- und Lebensdestination schafft. Technik K7 — Erneuerbare Energien.",
-      "factsAdvanced": ["Standort der ersten Windkraftanlage Gambias.", "Fokus auf nachhaltige Entwicklung.", "Friedliche Küstenlage.", "Attraktive, ruhige Strände.", "Ziel für bewussten Ökotourismus.", "Innovative lokale Energieprojekte.", "Vorreiter für umweltfreundliche Technologien."]
+      "id": "kerbatch-stone-circles-landmarks-v2",
+      "descriptionAdvanced": "Die Steinkreise von Kerbatch bilden ein faszinierendes Ensemble innerhalb des UNESCO-Welterbes und sind weltweit für den rätselhaften 'V-Stein' bekannt. Diese prähistorische Anlage in der North Bank Region besteht aus kunstvoll angeordneten Lateritsäulen, die von der hochentwickelten Zivilisation der Erbauer vor über tausend Jahren zeugen. Kerbatch vermittelt eine besonders ursprüngliche Atmosphäre und liegt eingebettet in eine weite Savannenlandschaft, die den Besuch zu einem zeitlosen Erlebnis macht. Forscher sehen in der spezifischen Anordnung der Steine Hinweise auf komplexe soziale Strukturen und ein tiefes Verständnis astronomischer Zyklen. Als Teil des Senegambia-Megalithkomplexes ist Kerbatch ein unersetzliches Zeugnis für den kulturellen Reichtum Westafrikas lange vor der Ankunft der Europäer. (Geschichte K8 — Vorkoloniale Hochkulturen und Archäologie)",
+      "factsAdvanced": [
+        "Bedeutende Megalithstätte des UNESCO-Weltkulturerbes.",
+        "Einzigartiger Fundort des berühmten 'V-Doppelsteins'.",
+        "Besteht aus neun exakt kreisförmig angeordneten Steinreihen.",
+        "Zeugnis einer eisenzeitlichen Kultur mit hoher Bearbeitungskompetenz.",
+        "Diente vermutlich als rituelle Grabstätte für Stammesführer.",
+        "Wichtiger Punkt zur Erforschung prähistorischer Bestattungsriten.",
+        "Außergewöhnlich gut erhaltene Laterit-Monolithe.",
+        "Zieht Archäologen und Kulturhistoriker aus aller Welt an."
+      ]
     },
     {
-      "id": "tujereng-cities-v2",
-      "descriptionAdvanced": "Tujereng ist eine aufstrebende Küstengemeinde in der West Coast Region, deren Identität maßgeblich durch die Landwirtschaft und die stetig wachsende touristische Anziehungskraft geprägt wird. Die fruchtbaren Böden in der Umgebung bilden die Basis für einen florierenden Gemüseanbau, der zur Versorgung der Metropolregion beiträgt. Parallel dazu entdeckt eine wachsende Anzahl an Reisenden und Expatriates die idyllische Lage an der Küste für sich. Tujereng ist ein Ort im Wandel, der den Spagat zwischen traditioneller Landwirtschaft und der Entwicklung als moderne touristische Nische meistert. Erdkunde K7 — Landwirtschaftliche Versorgung.",
-      "factsAdvanced": ["Bedeutendes Zentrum für den Gemüseanbau.", "Stetig wachsendes touristisches Interesse.", "Gemeinde von Expatriates.", "Fruchtbare Böden.", "Wichtige Rolle für die Versorgung der Region.", "Idyllische Küstenlage.", "Wandel von Agrar- zur Mischwirtschaft."]
+      "id": "mungo-park-memorial-landmarks-v2",
+      "descriptionAdvanced": "Das Mungo Park Memorial in Kerewan erinnert an einen der mutigsten und folgenreichsten Entdecker in der Geschichte Westafrikas. Der schottische Arzt Mungo Park startete von hier aus seine legendären Expeditionen zur Erforschung des Niger-Flusses im späten 18. und frühen 19. Jahrhundert. Das Denkmal markiert den Ort, an dem Park oft verweilte und seine Reisen in das unbekannte afrikanische Binnenland vorbereitete. Für Gambia ist dieser Ort ein wichtiges Zeugnis der frühen europäischen Entdeckungsgeschichte und der komplexen Interaktionen zwischen Forschern und lokalen Gemeinschaften. Das Memorial bietet Raum für Reflexion über die Ära der großen Entdeckungen und deren Einfluss auf die spätere koloniale Entwicklung der Region. Es bleibt ein stiller Ankerpunkt der Geschichte am Ufer des Minni Minniyang Bolong. (Geschichte K8 — Entdeckungsreisen und früher europäischer Kontakt)",
+      "factsAdvanced": [
+        "Denkmal zur Ehrung des Niger-Entdeckers Mungo Park.",
+        "Befindet sich in Kerewan, einem historischen Ausgangspunkt.",
+        "Dokumentiert die Reisen Parks in den Jahren 1795 und 1805.",
+        "Wichtiger Ort für das Verständnis der frühen Kartographie Afrikas.",
+        "Symbol für den Mut und die Neugierde des Entdeckerzeitalters.",
+        "Teil der historischen Bildungsarbeit in der North Bank Region.",
+        "Erinnert an die Zusammenarbeit zwischen Parks und lokalen Führern.",
+        "Anziehungspunkt für Geschichtsinteressierte und Reisende."
+      ]
+    },
+    {
+      "id": "freedom-tree-janjanbureh-landmarks-v2",
+      "descriptionAdvanced": "Der Freedom Tree in Janjanbureh (Georgetown) ist eines der emotionalsten und geschichtlich bedeutsamsten Wahrzeichen Gambias. Dieser majestätische Baum auf der Insel MacCarthy steht symbolisch für das Ende der Unterdrückung und den Beginn eines neuen Lebens für Tausende befreite Sklaven im 19. Jahrhundert. Nach der offiziellen Abschaffung des Sklavenhandels durch die Briten diente dieser Ort als Anlaufpunkt für 'Liberated Africans', die hier Schutz und eine neue Heimat fanden. Der Baum ist ein lebendiges Denkmal, das die tiefe Sehnsucht nach Freiheit und die kulturelle Widerstandskraft der afrikanischen Völker verkörpert. Er ist das Herzstück von Janjanbureh und ein zentraler Ort für nationale Gedenkfeiern und Bildungsbesuche, die die Werte der Menschenrechte und der Gleichheit in den Mittelpunkt stellen. (Geschichte K7 — Befreiungsgeschichte und Menschenrechte)",
+      "factsAdvanced": [
+        "Nationales Symbol für die Befreiung von der Sklaverei.",
+        "Zentraler Punkt der Siedlung für befreite Afrikaner (1823).",
+        "Befindet sich im historischen Kern von Janjanbureh.",
+        "Wichtiger Halt auf der UNESCO-Welterbe-Route des Flusses.",
+        "Ort für traditionelle Zeremonien und Versammlungen.",
+        "Symbol für den Sieg der Menschlichkeit über das Unrecht.",
+        "Ein lebendiges Denkmal mit hoher emotionaler Ausstrahlung.",
+        "Fokuspunkt für den historischen Roots-Tourismus im Inland."
+      ]
+    },
+    {
+      "id": "african-heritage-museum-landmarks-v2",
+      "descriptionAdvanced": "Das African Heritage Museum, auch bekannt als Tanje Village Museum in seiner erweiterten Form, ist eine herausragende Institution zur Bewahrung und Präsentation der westafrikanischen Identität. Es beherbergt eine der umfangreichsten Sammlungen von Kunsthandwerk, rituellen Masken und historischen Fotografien in Gambia. Das Museum widmet sich nicht nur der Vergangenheit, sondern fördert auch aktiv zeitgenössische Künstler und Kunsthandwerker. Besucher erhalten hier einen tiefen Einblick in die kosmologischen Vorstellungen und die sozialen Strukturen der gambischen Völker. Durch seine interaktiven Ausstellungen und die Einbindung der lokalen Gemeinschaft fungiert das African Heritage Museum als Brücke zwischen den Generationen und als Botschafter der gambischen Kultur für ein internationales Publikum. Es ist ein Ort des Stolzes, der die reiche Geschichte Westafrikas feiert. (Sozialkunde K7 — Kulturerhalt und Museologie)",
+      "factsAdvanced": [
+        "Umfangreiche Sammlung westafrikanischer Masken und Kunst.",
+        "Zentrum für die Dokumentation gambischer Stammesgeschichte.",
+        "Wichtiger Ort für kulturelle Bildungsarbeit und Forschung.",
+        "Fördert aktiv den Erhalt traditioneller Web- und Schnitzkunst.",
+        "Beherbergt seltene historische Dokumente und Landkarten.",
+        "Standort regelmäßiger kultureller Festivals und Performances.",
+        "Symbol für den kulturellen Widerstand und die Selbstbehauptung.",
+        "Renommierter Partner für internationale ethnographische Studien."
+      ]
+    },
+    {
+      "id": "sir-dawda-conference-center-landmarks-v2",
+      "descriptionAdvanced": "Das Sir Dawda Kairaba Jawara International Conference Center (SDKJ-ICC) in Bijilo ist das modernste architektonische Wahrzeichen Gambias und ein Symbol für die Ambitionen des Landes auf der Weltbühne. Benannt nach dem Gründervater der Nation, ist dieses hochmoderne Zentrum der Austragungsort für bedeutende internationale Gipfeltreffen, darunter Konferenzen der OIC und der Afrikanischen Union. Das ICC besticht durch seine elegante, futuristische Architektur und seine ökologische Integration in den Bijilo Park. Es ist nicht nur ein Ort der Diplomatie, sondern auch ein Motor für den nationalen Tourismus und den Dienstleistungssektor. Die Eröffnung dieses Zentrums markiert Gambias Rückkehr als wichtiger Akteur in der regionalen und globalen Politik und ist ein Zeugnis für den Fortschritt und die Modernisierung der nationalen Infrastruktur. (Sozialkunde K8 — Internationale Beziehungen und Modernisierung)",
+      "factsAdvanced": [
+        "Modernstes Konferenzzentrum Gambias (eröffnet 2020).",
+        "Benannt nach Sir Dawda Jawara, dem ersten Präsidenten.",
+        "Austragungsort für globale Gipfel und Diplomaten-Treffen.",
+        "Architektonisches Meisterwerk mit modernster Tagungstechnik.",
+        "Wichtiger Standort für den internationalen Geschäftstourismus.",
+        "Symbol für die neue Ära der gambischen Außenpolitik.",
+        "Befindet sich in unmittelbarer Nähe zum Bijilo Forest Park.",
+        "Zentraler Punkt für nationale Konferenzen und Kulturevents."
+      ]
+    },
+    {
+      "id": "fort-louvel-landmarks-v2",
+      "descriptionAdvanced": "Fort Louvel ist ein kleines, aber historisch höchst bedeutsames Wahrzeichen in Banjul, das als stummer Zeuge der frühen kolonialen Verteidigungskämpfe dient. Errichtet im Jahr 1831 während des Barra-Krieges, markiert es den höchsten natürlichen Punkt der Insel St. Mary und bietet eine seltene historische Perspektive auf die Stadtplanung des 19. Jahrhunderts. Das Fort wurde nach einem französischen Marineoffizier benannt und verdeutlicht die Notwendigkeit militärischer Zusammenarbeit in einer Ära permanenter Unsicherheit. Obwohl heute nur noch Ruinen und eine Gedenksäule erhalten sind, bleibt der Ort ein wichtiger Ankerpunkt für das historische Bewusstsein der Hauptstadtbewohner. Fort Louvel erinnert an die strategische Lage von Banjul als Kontrollposten am Fluss und ist ein unverzichtbarer Teil des historischen Ensembles, das die Entwicklung Gambias zur Kronkolonie dokumentiert. (Geschichte K8 — Militärhistorie und Stadtentwicklung)",
+      "factsAdvanced": [
+        "Historische Verteidigungsanlage aus dem frühen 19. Jahrhundert.",
+        "Markiert den höchsten topographischen Punkt von Banjul.",
+        "Symbol für die anglo-französische Allianz während der Barra-Kriege.",
+        "Diente als Schutzwall für die frühe britische Siedlung Bathurst.",
+        "Heute als Baudenkmal und Gedenkstätte geschützt.",
+        "Wichtiger Bestandteil des historischen Stadtrundgangs.",
+        "Zeugnis für die strategische Verletzlichkeit der Insel St. Mary.",
+        "Ort zur Reflexion über die militärische Geschichte Senegambias."
+      ]
+    },
+    {
+      "id": "albarda-historic-site-landmarks-v2",
+      "descriptionAdvanced": "Die historische Stätte von Albreda am Nordufer des Gambia-Flusses ist ein Ort von weltweiter Bedeutung und ein zentrales Monument im UNESCO-Welterbe-Ensemble. Über Jahrhunderte fungierte Albreda als wichtige französische Handelsenklave in einem ansonsten britisch dominierten Gebiet und war ein Knotenpunkt für den Sklavenhandel, Gold- und Elfenbeinexporte. Heute bewahrt die Stätte eindrucksvolle Ruinen und das restaurierte CFAO-Gebäude, das als Museum dient und die schmerzvolle Geschichte der Region dokumentiert. Albreda ist eng mit der Identität der afrikanischen Diaspora verknüpft und zieht jährlich Tausende von Besuchern an, die mehr über die Wurzeln und den Widerstand der versklavten Völker erfahren möchten. Die Stätte ist ein kraftvolles Symbol für die Begegnung der Kulturen und die mahnende Erinnerung an die Verbrechen der Menschheit. (Geschichte K8 — UNESCO-Welterbe und Kolonialhandel)",
+      "factsAdvanced": [
+        "Bedeutende französische Handelsenklave (17. bis 19. Jh.).",
+        "Wichtiger Teil der UNESCO-Welterbestätte Kunta Kinteh Island.",
+        "Zentrum für den historischen Bildungstourismus in Gambia.",
+        "Beherbergt bedeutende Ruinen kolonialer Festungen und Kontore.",
+        "Strategischer Hafen am Nordufer zur Kontrolle des Flussverkehrs.",
+        "Symbol für die jahrhundertelange Rivalität europäischer Mächte.",
+        "Ankerpunkt für die nationale Gedenkkultur und Sklavenhistorie.",
+        "Wichtiger Ort für archäologische Forschung und Kulturerhalt."
+      ]
+    },
+    {
+      "id": "juffureh-village-landmarks-v2",
+      "descriptionAdvanced": "Das Dorf Juffureh ist weltweit als der Herkunftsort von Kunta Kinte bekannt und bildet das emotionale Zentrum des gambischen 'Roots'-Tourismus. Durch Alex Haleys literarisches Meisterwerk erlangte das Dorf Weltruhm und ist heute ein Ziel für Tausende von Menschen aus der ganzen Welt, die ihre afrikanische Identität erkunden möchten. Juffureh ist eine lebendige Mandinka-Gemeinde, die stolz ihre Traditionen und ihre Verbindung zur Geschichte bewahrt. Besucher können hier die Nachfahren der Kinte-Familie treffen und das lokale Sklavenmuseum besuchen, das die erschütternden Realitäten des 18. Jahrhunderts dokumentiert. Juffureh ist ein Ort der Heilung, der Versöhnung und ein kraftvolles Symbol für die unbezwingbare Kraft des menschlichen Geistes. Zusammen mit Albreda bildet es eine einzigartige historische Landschaft von unschätzbarem Wert. (Sozialkunde K7 — Literarisches Erbe und kulturelle Identität)",
+      "factsAdvanced": [
+        "Weltbekannt als Heimat von Kunta Kinte (Alex Haleys 'Roots').",
+        "Zentraler Wallfahrtsort für die afrikanische Diaspora weltweit.",
+        "Beherbergt das Kunta Kinteh Museum für Geschichte.",
+        "Traditionell geführtes Mandinka-Dorf mit tiefen historischen Wurzeln.",
+        "UNESCO-Welterbe in Verbindung mit Albreda und James Island.",
+        "Wichtiger Standort für den kulturellen Austausch und Bildung.",
+        "Symbol für die Suche nach den afrikanischen Wurzeln.",
+        "Ort für jährliche Gedenkfestivals zur Ehrung der Ahnen."
+      ]
+    },
+    {
+      "id": "berending-crocodile-pool-landmarks-v2",
+      "descriptionAdvanced": "Das Krokodilbecken von Berending in der North Bank Region ist eine der bedeutendsten sakralen Stätten Gambias und ein tief beeindruckendes Zeugnis lebendiger indigener Spiritualität. Seit Generationen wird dieser Ort als heilig verehrt, wobei die hier lebenden Nilkrokodile als heilige Wächter und Vermittler zu den Ahnen gelten. Die Stätte ist berühmt für ihre rituellen Waschungen, bei denen Gläubige um Segen, Heilung und Schutz bitten. Berending zeichnet sich durch seine abgeschiedene und mystische Lage in einem geschützten Hain aus, was eine Atmosphäre tiefer Andacht und Respekt vor der Natur schafft. Der Ort verdeutlicht die anhaltende Relevanz traditioneller Glaubenssysteme in der modernen gambischen Gesellschaft und bietet Besuchern einen authentischen Einblick in die spirituelle Welt der Mandinka am Nordufer des Flusses. (Sozialkunde K6 — Traditionelle Religion und Mythen)",
+      "factsAdvanced": [
+        "Herausragende spirituelle Stätte der Mandinka am Nordufer.",
+        "Beherbergt eine Population von als heilig verehrten Nilkrokodilen.",
+        "Zentrum für überregional bekannte Fruchtbarkeits- und Heilungsriten.",
+        "Eingebettet in ein geschütztes, uraltes Waldökosystem.",
+        "Wichtiger Ort zur Bewahrung der mündlichen Geschichte der Region.",
+        "Symbol für die kulturelle Kontinuität und den Umweltschutz.",
+        "Hüter der heiligen Gewässer mit legendären Kräften.",
+        "Bedeutendes Ziel für Forscher der westafrikanischen Spiritualität."
+      ]
+    },
+    {
+      "id": "folonko-crocodile-pool-landmarks-v2",
+      "descriptionAdvanced": "Das Folonko-Krokodilbecken in Kartong ist ein herausragendes Wahrzeichen im äußersten Süden Gambias und ein Kraftort von immenser kultureller Bedeutung. Es ist untrennbar mit der Gründungsgeschichte und dem Schutz des Dorfes Kartong verbunden und wird von den Ältesten mit großer Ehrfurcht gehütet. Die zahmen Krokodile von Folonko gelten als heilige Wesen, die das Wohl der Dorfgemeinschaft garantieren. Dieser Ort ist ein lebendiges Beispiel für die harmonische Verbindung von ökologischem Habitat und menschlicher Kultur, bei der der Respekt vor der Tierwelt zur spirituellen Pflicht wird. Folonko zieht Besucher an, die die tiefen, unverfälschten Traditionen Westafrikas abseits der touristischen Pfade erleben möchten. Die Stätte ist ein Symbol für Frieden, Reinheit und den unerschütterlichen Glauben an die Kraft der Ahnen. (Biologie/Sozialkunde K6 — Ethnoökologie und kulturelle Identität)",
+      "factsAdvanced": [
+        "Spiritueller Ankerpunkt des Dorfes Kartong (Südgambia).",
+        "Heilige Stätte zur Durchführung gemeinschaftlicher Segnungszeremonien.",
+        "Lebensraum für zahme Krokodile mit hoher symbolischer Kraft.",
+        "Hüter der lokalen Mandinka-Traditionen und Gebräuche.",
+        "Ort jährlicher Reinigungsrituale für die gesamte Gemeinde.",
+        "Beispiel für die erfolgreiche Bewahrung heiliger Haine.",
+        "Wichtiger Punkt für den Kulturtourismus in der West Coast Region.",
+        "Symbol für den respektvollen Umgang zwischen Mensch und Krokodil."
+      ]
+    },
+    {
+      "id": "sanneh-mentering-landmarks-v2",
+      "descriptionAdvanced": "Sanneh-Mentering in Brufut ist eine der ehrwürdigsten spirituellen Stätten an der gambischen Atlantikküste und ein Ort von außerordentlicher mystischer Ausstrahlung. Dieser heilige Hain, auf den Klippen oberhalb des Meeres gelegen, ist eng mit der Geschichte der einflussreichen Sanneh-Familie und der religiösen Tradition der Mandinka verbunden. Es wird geglaubt, dass hier mächtige Geister (Jinns) wohnen, die den Ort vor Unheil schützen und Bittstellern Hilfe gewähren. Die Kombination aus uralten Affenbrotbäumen, dem Rauschen des Ozeans und der tiefen Stille des Hains macht Sanneh-Mentering zu einem unvergleichlichen Ort der Kontemplation. Die Stätte ist ein bedeutendes Wahrzeichen für den Erhalt indigener spiritueller Landschaften inmitten moderner Küstenentwicklungen und bleibt ein unverzichtbarer Teil der kulturellen Geographie Gambias. (Sachkunde K6 — Spirituelle Geographie und Kulturerhalt)",
+      "factsAdvanced": [
+        "Hochverehrter heiliger Hain auf den Klippen von Brufut.",
+        "Zentrum für traditionelle Mandinka-Spiritualität am Meer.",
+        "Gilt als Wohnort mächtiger Geister und Schutzwesen.",
+        "Ort für bedeutende rituelle Opferungen und Gebete.",
+        "Beherbergt monumentale, jahrhundertealte Affenbrotbäume (Baobabs).",
+        "Wichtiger Punkt zur Bewahrung der vorkolonialen Geschichte.",
+        "Einzigartige spirituelle Landschaft mit Blick auf den Atlantik.",
+        "Symbol für die Unantastbarkeit heiliger Orte in Gambia."
+      ]
+    },
+    {
+      "id": "kachikally-crocodile-pool-life-v2",
+      "descriptionAdvanced": "Kachikally in Bakau ist weitaus mehr als nur ein See; es ist ein lebendiges Herzstück der gambischen Kultur und ein einzigartiges Beispiel für interspezies-Harmonie. Inmitten des urbanen Bakaus gelegen, beherbergt dieses heilige Krokodilbecken über 100 Nilkrokodile, die in völligem Frieden mit den Menschen leben. Der Ort ist tief in der spirituellen Geschichte der Mandinka verwurzelt, wobei das Wasser des Beckens für seine heilende und fruchtbarkeitsfördernde Wirkung berühmt ist. Das angrenzende ethnographische Museum bietet eine erstklassige Sammlung von Artefakten, Musikinstrumenten und Masken, die die reiche kulturelle Vielfalt Gambias dokumentieren. Kachikally illustriert eindrucksvoll, wie traditionelle Glaubenssysteme und moderner Naturschutz Hand in Hand gehen können, um ein wertvolles ökologisches und kulturelles Erbe für zukünftige Generationen zu bewahren. (Biologie/Sozialkunde K6 — Ethnozoologie und Kulturerhalt)",
+      "factsAdvanced": [
+        "Bekannteste heilige Krokodilstätte in ganz Westafrika.",
+        "Nilkrokodile werden hier seit Jahrhunderten als Ahnen-Boten verehrt.",
+        "Zentrum für rituelle Waschungen und Fruchtbarkeitssegen.",
+        "Beherbergt ein exzellentes Museum für traditionelle gambische Kunst.",
+        "Eingebettet in ein geschütztes, ursprüngliches Waldrelikt.",
+        "Wichtiger Ort für die Weitergabe mündlicher Überlieferungen.",
+        "Symbol für die spirituelle Identität der Stadt Bakau.",
+        "International renommiertes Ziel für Bildungs- und Kulturreisen."
+      ]
+    },
+    {
+      "id": "folonko-sacred-crocodile-pool-life-v2",
+      "descriptionAdvanced": "Der heilige Krokodilbecken von Folonko in Kartong ist ein unverzichtbarer spiritueller Anker für die Gemeinschaften im südlichen Gambia und ein Ort von ursprünglicher, kraftvoller Schönheit. Tief im dichten Grün eines heiligen Waldes verborgen, leben hier Krokodile, die von der Bevölkerung mit höchstem Respekt als Beschützer des Dorfwohls angesehen werden. Folonko ist ein Ort der Ruhe und des Gebets, an dem die Menschen seit Generationen Heilung und spirituellen Rat suchen. Die Stätte zeigt die tiefe Weisheit der indigenen Kultur, die Tiere nicht nur als Ressource, sondern als Teil einer moralischen und spirituellen Gemeinschaft versteht. In Folonko wird die Verbundenheit mit der Erde und den Ahnen unmittelbar spürbar. Es ist ein Ort der kulturellen Resilienz, der die Identität von Kartong prägt und ein leuchtendes Beispiel für die Bewahrung afrikanischer Spiritualität darstellt. (Sachkunde K6 — Indigenes Wissen und Ethnoökologie)",
+      "factsAdvanced": [
+        "Jahrhundertealte heilige Stätte im Süden der West Coast Region.",
+        "Hüter der zahmen 'Geister-Krokodile' von Kartong.",
+        "Zentrum für gemeinschaftliche Rituale zur Abwehr von Unheil.",
+        "Wichtiger Lernort für traditionelle Heilmethoden und Ethik.",
+        "Fokus für den Schutz der biodiversitätsreichen Küstenwälder.",
+        "Symbol für den Zusammenhalt der dörflichen Gemeinschaft.",
+        "Bedeutender Ort für rituelle Waschungen vor wichtigen Ereignissen.",
+        "Unberührtes spirituelles Erbe abseits des Massentourismus."
+      ]
+    },
+    {
+      "id": "berending-crocodile-pool-life-v2",
+      "descriptionAdvanced": "Das Krokodilbecken von Berending in der North Bank Region ist eine der ehrwürdigsten sakralen Stätten des Landes und ein Zentrum der spirituellen Kraft am Nordufer des Flusses. In dieser mystischen Anlage leben heilige Krokodile, die als Vermittler zwischen den Menschen und der Welt der Geister fungieren. Berending ist weithin bekannt für seine Wirksamkeit bei der Heilung physischer und seelischer Leiden, weshalb Bittsteller oft weite Reisen auf sich nehmen, um an den rituellen Zeremonien teilzunehmen. Die Stätte ist von einem dichten, unantastbaren Waldhain umgeben, der eine Oase der Biodiversität bildet. Ein Besuch in Berending ist eine tiefgreifende Erfahrung, die die Bedeutung des Glaubens und der Ahnenverehrung in der westafrikanischen Gesellschaft verdeutlicht. Der Ort ist ein lebendiger Beweis für die Kraft traditioneller Überzeugungen, die den sozialen Frieden und die kulturelle Identität Gambias stützen. (Sozialkunde K6 — Traditionelle Glaubenssysteme und Mythen)",
+      "factsAdvanced": [
+        "Wichtigste heilige Stätte für rituelles Gebet in der NBR.",
+        "Beherbergt eine Population geschützter und verehrter Nilkrokodile.",
+        "Ort für überregional renommierte Segnungszeremonien.",
+        "Zentrum zur Bewahrung vorkolonialer Mandinka-Heilkunst.",
+        "Strategisch gelegen in einem dichten Primärwaldrest.",
+        "Symbol für die spirituelle Autorität der Dorfältesten.",
+        "Ort tiefer Kontemplation und historischer Erinnerung.",
+        "Essentiell für das Verständnis der gambischen Dorfsoziologie."
+      ]
+    },
+    {
+      "id": "makasutu-cultural-forest-life-v2",
+      "descriptionAdvanced": "Der Makasutu Cultural Forest ist ein weltweit gefeiertes Modellprojekt für nachhaltigen Ökotourismus und den Schutz der Biodiversität in Westafrika. Dieser 'heilige Wald' am Ufer des Mandina Bolong vereint auf einzigartige Weise den Schutz verschiedener Ökosysteme – von dichten Mangroven bis hin zur offenen Savanne – mit der Förderung lokaler Kultur und Bildung. Besucher können die reiche Tierwelt, darunter Paviane, Warane und hunderte Vogelarten, in ihrem natürlichen Habitat beobachten und gleichzeitig Einblicke in traditionelle Handlesekunst und Handwerk erhalten. Makasutu zeigt eindrucksvoll, dass wirtschaftlicher Erfolg und ökologische Verantwortung Hand in Hand gehen können. Der Wald ist nicht nur ein Refugium für bedrohte Arten, sondern auch ein inspirierender Ort für Umweltbildung, der die Sensibilität für den Wert der unberührten gambischen Natur nachhaltig stärkt. (Biologie K7 — Ökosystemmanagement und nachhaltiger Tourismus)",
+      "factsAdvanced": [
+        "International preisgekröntes Projekt für Ökotourismus.",
+        "Beinhaltet fünf verschiedene Ökosysteme auf begrenztem Raum.",
+        "Wichtiger Lebensraum für Paviane und Mangroven-Fauna.",
+        "Zentrum für die Ausbildung in ökologischer Landwirtschaft.",
+        "Standort für erstklassige, nachhaltige Lodges direkt am Fluss.",
+        "Bietet geführte Touren zur traditionellen Medizin und Kultur.",
+        "Vorreiter bei der Wiederaufforstung von Mangrovenwäldern.",
+        "Symbol für die gelungene Verbindung von Naturschutz und Ökonomie."
+      ]
+    },
+    {
+      "id": "bakau-botanical-garden-life-v2",
+      "descriptionAdvanced": "Der Botanische Garten von Bakau ist eine grüne Oase der Ruhe und ein bedeutendes wissenschaftliches Erbe aus der Kolonialzeit. Gegründet im späten 19. Jahrhundert, dient er heute als wichtiges Reservoir für die tropische Flora Gambias und Westafrikas. Der Garten beherbergt eine beeindruckende Vielfalt an exotischen Bäumen, Heilpflanzen und farbenfrohen Blumen, die in einem harmonisch gestalteten Areal am Rande der Küstenklippen gedeihen. Neben seiner botanischen Bedeutung ist der Garten ein geschätzter Rückzugsort für Erholungssuchende und ein Hotspot für die städtische Vogelwelt. Er spielt eine zentrale Rolle bei der Umweltbildung und sensibilisiert Besucher für die Notwendigkeit des Pflanzenschutzes und der grünen Stadtplanung. Ein Spaziergang durch den Garten bietet botanische Entdeckungen und spektakuläre Ausblicke auf den Atlantik gleichermaßen. (Biologie K6 — Botanik und Umweltschutz)",
+      "factsAdvanced": [
+        "Nationaler Botanischer Garten Gambias (gegründet im 19. Jh.).",
+        "Beherbergt hunderte Arten einheimischer und exotischer Pflanzen.",
+        "Wichtiges Zentrum für botanische Forschung und Klassifizierung.",
+        "Hotspot für die städtische Ornithologie (Vogelbeobachtung).",
+        "Gelegen auf den landschaftlich reizvollen Klippen von Bakau.",
+        "Dient als grüne Lunge für die Greater Banjul Area.",
+        "Wichtiger Bildungsstandort für lokale Biologiestudenten.",
+        "Symbol für den Erhalt seltener tropischer Baumarten."
+      ]
+    },
+    {
+      "id": "kartong-reptile-farm-life-v2",
+      "descriptionAdvanced": "Die Reptilienfarm in Kartong ist eine herausragende private Initiative zum Schutz und zur Erforschung der herpetologischen Vielfalt Gambias. Hier werden zahlreiche Schlangenarten, Echsen, Schildkröten und Krokodile in naturnahen Gehegen gehalten, wobei der Fokus auf der Aufklärung und der Entmystifizierung dieser oft missverstandenen Tiere liegt. Die Farm leistet einen wertvollen Beitrag zum Artenschutz, indem sie gerettete Tiere pflegt und wissenschaftliche Daten über die regionale Fauna sammelt. Für Besucher bietet sie die einzigartige Möglichkeit, die faszinierende Welt der Reptilien aus nächster Nähe und unter fachkundiger Anleitung kennenzulernen. Die Kartong Reptile Farm ist ein Pionier für Umweltbildung im Süden des Landes und zeigt, wie individuelles Engagement den Schutz bedrohter Arten vorantreiben kann. Sie ist ein Muss für Naturfreunde und trägt maßgeblich zur ökologischen Bildung der lokalen Bevölkerung bei. (Biologie K7 — Herpetologie und Artenschutz)",
+      "factsAdvanced": [
+        "Führendes Zentrum für Reptilienschutz und Aufklärung.",
+        "Beherbergt eine große Auswahl an westafrikanischen Schlangenarten.",
+        "Wichtiger Standort für die Forschung über marine Schildkröten.",
+        "Zentrum für Bildungsprogramme zum Umgang mit Giftschlangen.",
+        "Engagiert in der Rettung und Wiederauswilderung von Wildtieren.",
+        "Bietet interaktive Lernerfahrungen für Schüler und Touristen.",
+        "Symbol für privates Engagement im gambischen Naturschutz.",
+        "Beitrag zur Erhaltung der Biodiversität in der Region Kartong."
+      ]
     }
   ]
 }

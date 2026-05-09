@@ -12,243 +12,213 @@
   ],
   "items": [
     {
-      "id": "lisco-misrata-steel-economic-v2",
-      "descriptionAdvanced": "The Libyan Iron and Steel Company (LISCO) is the largest non-oil industrial complex in Libya, occupying a massive footprint in Misrata. Operating since the 1980s, the facility relies heavily on cheap domestic natural gas to power its energy-intensive Direct Reduced Iron (DRI) furnaces. LISCO supplies rebar, hot-rolled coils, and steel billets both to the domestic construction market and for international export. The plant's continued operation is seen as a symbol of Libya's industrial resilience. Economics K8 — heavy manufacturing and metallurgy.",
+      "id": "misrata-port-economic-v2",
+      "descriptionAdvanced": "The Port of Misrata, particularly its commercial heart at Qasr Ahmed, is Libya's most modern and efficient maritime facility. It is a critical component of the Misrata Free Zone, serving as a primary gateway for international shipping and transit trade. The port features specialized terminals for containerized cargo, bulk goods, and vehicle imports, which supply a vast portion of the Libyan market. Known for its high operational standards and entrepreneurial environment, Misrata Port has become a leading hub for transshipment in North Africa. Its integration with the city's industrial base, including the nearby steel complex, makes it an indispensable engine of Libya's non-oil economy. Economics K8 — maritime trade and free trade zones.",
       "factsAdvanced": [
-        "The largest iron and steel manufacturing complex in North Africa.",
-        "Located in Misrata, directly integrated with the Qasr Ahmed port.",
-        "Utilizes energy-intensive Direct Reduced Iron (DRI) technology.",
-        "Supplies critical rebar and structural steel for domestic construction.",
-        "Historically one of the largest employers outside the oil sector.",
-        "Heavily reliant on cheap, subsidized domestic natural gas."
+        "A primary maritime gateway for the Misrata Free Zone, Libya's first free trade area.",
+        "One of the best-equipped and most efficient commercial ports in North Africa.",
+        "Features a massive container terminal and specialized berths for car carriers.",
+        "Located at Qasr Ahmed, on the eastern edge of the city of Misrata.",
+        "Handles a significant percentage of Libya's total consumer and industrial imports.",
+        "Connected to the LISCO steel plant for the export of manufactured products.",
+        "A major hub for the transit of goods to the Saharan interior and neighboring countries.",
+        "Provides advanced logistics, warehousing, and customs services for global traders."
       ]
     },
     {
-      "id": "zliten-cement-plant-economic-v2",
-      "descriptionAdvanced": "The Zliten Cement Plant is a foundational pillar of Libya's domestic construction industry, producing massive quantities of Portland cement. Located strategically between Tripoli and Misrata, it utilizes locally mined limestone and clay. The facility has seen significant expansions to meet the intense demand for post-conflict reconstruction across the western region. Its prominent silos and kilns are a major landmark on the coastal highway, generating significant local employment. Economics K7 — construction materials and domestic industry.",
+      "id": "al-khums-port-economic-v2",
+      "descriptionAdvanced": "The Port of Al-Khoms is a vital commercial and specialized seaport located approximately 120 kilometers east of Tripoli. It is particularly renowned as Libya's primary hub for vehicle imports, with thousands of cars entering the country through its specialized berths every month. Beyond automotive trade, the port handles general cargo, construction materials, and supports a large local fishing fleet. Its proximity to the main coastal highway and the industrial zones of western Libya makes it a critical node for the regional supply chain. The Port of Al-Khoms represents a key element of Libya's maritime infrastructure, balancing modern commercial needs with its historic role as a Mediterranean trade center. Economics K8 — specialized ports and automotive trade.",
       "factsAdvanced": [
-        "A major producer of Portland cement in western Libya.",
-        "Located in the coastal city of Zliten.",
-        "Utilizes abundant local limestone and clay deposits.",
-        "Critical supplier for post-conflict reconstruction efforts.",
-        "Operates massive rotary kilns visible from the coastal highway.",
-        "Provides significant employment for the surrounding municipalities."
+        "Libya's premier port for the import of vehicles and automotive parts.",
+        "Located in the strategic city of Al-Khoms, 120 kilometers east of Tripoli.",
+        "Features specialized berths and vast storage areas for car carriers.",
+        "A major entry point for construction materials and industrial equipment.",
+        "Supports a significant local fishing industry and seafood export market.",
+        "Provides a critical link for the supply of goods to the Tripoli metropolitan area.",
+        "Connected to the nearby Khoms Power Station for industrial fuel delivery.",
+        "Known for its high handling capacity and strategic coastal position."
       ]
     },
     {
-      "id": "mellitah-gas-plant-economic-v2",
-      "descriptionAdvanced": "The Mellitah Gas Plant is a massive, highly sophisticated processing facility that treats raw natural gas before it is exported or used domestically. It strips impurities like sulfur and separates natural gas liquids (NGLs) from the methane stream. The plant is the critical terrestrial processing node before gas enters the undersea Greenstream pipeline to Italy. Operated as a joint venture with ENI, the facility represents the pinnacle of modern energy technology in Libya. Science K8 — hydrocarbon processing and gas sweetening.",
+      "id": "tobruk-port-economic-v2",
+      "descriptionAdvanced": "The Port of Tobruk is a strategically vital maritime facility in northeastern Libya, boasting the finest natural deep-water harbor in North Africa. This unique geographic advantage allows it to accommodate large vessels that other Libyan ports cannot. Tobruk serves a dual role: as a major commercial port for the import of food and manufactured goods, and as a critical energy terminal. The nearby Marsa el Hariga terminal is one of the nation's most important sites for the export of crude oil, connected by pipeline to the massive Sarir oil field. The port's proximity to the Egyptian border also makes it a key node for cross-border commerce and regional logistics. Economics K8 — deep-water ports and energy exports.",
       "factsAdvanced": [
-        "Located at the Mellitah complex near Zuwara.",
-        "Processes raw natural gas to remove sulfur and impurities.",
-        "Separates valuable Natural Gas Liquids (NGLs) for export.",
-        "The final terrestrial processing point before the Greenstream pipeline.",
-        "Operated as a strategic joint venture with Italian energy firm ENI.",
-        "Features highly advanced, automated chemical engineering systems."
+        "Possesses the best and deepest natural harbor on the North African coast.",
+        "A primary terminal for the export of crude oil via the Marsa el Hariga facility.",
+        "Connected by a 513-kilometer pipeline to the giant Sarir oil field.",
+        "A major entry point for food and consumer goods for eastern Libya.",
+        "Located just 125 kilometers west of the international border with Egypt.",
+        "Capable of hosting large oil tankers and massive cargo ships year-round.",
+        "Served as a critical strategic naval base during the 20th century.",
+        "Undergoing modernization to expand its container and general cargo capacity."
       ]
     },
     {
-      "id": "khoms-power-plant-economic-v2",
-      "descriptionAdvanced": "The Khoms Power Plant is one of the largest and most critical electricity generation facilities on the Libyan grid. Situated on the coast to utilize seawater for cooling, the plant operates multiple massive gas and steam turbines. It is primarily fueled by natural gas piped from inland fields, providing base-load power to the Tripolitania region, including the capital. Disruptions or fuel shortages at this plant immediately result in rolling blackouts across western Libya. Engineering K8 — national power grids and thermal generation.",
+      "id": "derna-port-economic-v2",
+      "descriptionAdvanced": "The Port of Derna is a historic and regionally significant seaport located in the heart of eastern Libya's 'Green Mountain' coast. While smaller than the major hubs of Tripoli and Benghazi, it serves as a vital lifeline for the city of Derna and the surrounding agricultural highland communities. The port primarily handles general cargo, food imports, and supports a productive local fishing industry that supplies fresh seafood across Cyrenaica. Its scenic location at the mouth of Wadi Derna gives it a unique character, blending maritime trade with the city's rich cultural heritage. Despite recent environmental challenges, the Port of Derna remains a cornerstone of the regional economy and a symbol of coastal resilience. Economics K7 — regional ports and maritime fishing.",
       "factsAdvanced": [
-        "A critical base-load power generation facility for western Libya.",
-        "Located on the Mediterranean coast near the city of Khoms.",
-        "Utilizes seawater for the massive cooling requirements of its turbines.",
-        "Operates a combination of gas and steam turbine units.",
-        "Primarily fueled by domestic natural gas.",
-        "Crucial for maintaining grid stability in the densely populated Tripolitania."
+        "A primary commercial gateway for the city of Derna and the Jabal al-Akhdar region.",
+        "A major center for the local fishing industry and seafood distribution.",
+        "Handles general cargo, food supplies, and construction materials.",
+        "Located at the strategic midpoint between Benghazi and Tobruk.",
+        "Historically significant as a center for Mediterranean trade for centuries.",
+        "Features specialized berths for smaller cargo vessels and fishing fleets.",
+        "Critical for the supply chain of the isolated Green Mountain communities.",
+        "Undergoing reconstruction following the catastrophic 2023 Mediterranean floods."
       ]
     },
     {
-      "id": "ly-leptis-magna-history-v2",
-      "descriptionAdvanced": "Leptis Magna stands as one of the most spectacular and best-preserved Roman cities in the world, dramatically overlooking the Mediterranean Sea. Originally a Phoenician settlement, it was vastly expanded by the Roman Emperor Septimius Severus, who was born there. The site features an incredibly intact amphitheater, massive public baths, and the towering Severan Arch. Walking through its ancient, colonnaded streets offers an unparalleled glimpse into the immense wealth and scale of the Roman Empire in North Africa. History K6 — Roman imperial architecture.",
+      "id": "ras-lanuf-port-economic-v2",
+      "descriptionAdvanced": "The Port of Ras Lanuf is one of Libya's most important industrial and energy seaports, located in the strategic Gulf of Sidra. It serves as the primary export terminal for the massive Ras Lanuf refining and petrochemical complex, as well as a major exit point for crude oil from the Sirte Basin. The port features specialized offshore loading buoys and deep-water berths designed to accommodate the world's largest oil tankers. It is a critical node in Libya's hydrocarbon infrastructure, connecting the nation's interior oil fields with global energy markets. Ras Lanuf represents the scale and industrial power of Libya's petroleum-driven economy. Economics K8 — energy terminals and petrochemical exports.",
       "factsAdvanced": [
-        "Designated as a UNESCO World Heritage site in 1982.",
-        "Birthplace of the Roman Emperor Septimius Severus in 145 AD.",
-        "Features a spectacularly preserved amphitheater overlooking the sea.",
-        "Originally founded by Phoenician colonists in the 7th century BC.",
-        "Contains the massive, ornately decorated Severan Arch.",
-        "Buried by sand for centuries, which preserved its structures perfectly."
+        "A premier Libyan terminal for the export of crude oil and petrochemicals.",
+        "Serves the massive Ras Lanuf Oil Refinery and Petrochemical Complex.",
+        "Located in the Gulf of Sidra, a strategic center for the oil industry.",
+        "Features deep-water offshore loading berths for 'Suezmax' tankers.",
+        "Connected by a vast network of pipelines to the Sirte Basin oil fields.",
+        "A major hub for the export of naphtha, kerosene, and gas oil.",
+        "Managed by the Ras Lanuf Oil and Gas Processing Company (RASCO).",
+        "Plays a critical role in the national economy and global energy supply."
       ]
     },
     {
-      "id": "ly-sabratha-history-v2",
-      "descriptionAdvanced": "Sabratha was the westernmost of the ancient 'Three Cities' of Tripolitania, acting as a crucial trading post for goods brought across the Sahara. The crown jewel of the ruins is its breathtaking, three-story Roman theater, which was meticulously reconstructed by archaeologists in the 20th century. Beyond the theater, the site contains beautiful mosaic floors, ancient temples, and public baths right on the shoreline. Its history reflects a blend of Phoenician origins and later Roman monumental expansion. History K6 — ancient theater and coastal trade.",
+      "id": "marsa-el-brega-port-economic-v2",
+      "descriptionAdvanced": "The Port of Marsa el Brega is a historic and vital energy hub located in the southeastern corner of the Gulf of Sidra. Established in the late 1950s, it was the first port in Libya to export crude oil and has since evolved into a massive industrial complex. It is the primary terminal for the export of liquefied natural gas (LNG) and various petrochemical products produced at the nearby Brega refinery and ammonia plants. The port is a critical logistics center for the Sirte Oil Company and serves as the maritime gateway for the energy wealth of the central Libyan desert. Brega represents the historic foundation and ongoing strength of Libya's hydrocarbon sector. Economics K8 — LNG exports and oil history.",
       "factsAdvanced": [
-        "A UNESCO World Heritage site located west of Tripoli.",
-        "Famous for its massive, three-story reconstructed Roman theater.",
-        "Originally established as a Phoenician trading post around 500 BC.",
-        "Features exquisite, well-preserved Roman floor mosaics.",
-        "Served as the terminus for trans-Saharan caravan routes.",
-        "The ruins sit directly on the Mediterranean coastline."
+        "The site of Libya's first crude oil export in October 1961.",
+        "A primary terminal for the export of Liquefied Natural Gas (LNG).",
+        "Home to a massive petrochemical complex producing ammonia and urea.",
+        "Operated by the Sirte Oil Company, one of Libya's major energy firms.",
+        "Connected to the giant Zelten oil field by the country's first major pipeline.",
+        "Features specialized berths for gas tankers and petrochemical vessels.",
+        "A major center for the maritime logistics of the Libyan oil industry.",
+        "Located at a strategic point where the desert meets the Mediterranean."
       ]
     },
     {
-      "id": "ly-cyrene-history-v2",
-      "descriptionAdvanced": "Cyrene was one of the principal cities of the Hellenic world, founded by Greek colonists from Thera in 631 BC. Located in the lush Jabal al Akhdar mountains, it features sweeping views, ancient temples dedicated to Apollo and Zeus, and a massive necropolis. The city was famous across the ancient world for its export of 'silphium', a medicinal plant that was harvested to extinction. The site perfectly blends Greek architectural elegance with later Roman additions. History K6 — ancient Greek colonization.",
+      "id": "zueitina-oil-terminal-economic-v2",
+      "descriptionAdvanced": "The Zueitina Oil Terminal is a major energy export facility located on the Gulf of Sidra, approximately 180 kilometers south of Benghazi. It serves as the primary outlet for crude oil and natural gas liquids (NGL) produced from several large fields in the Sirte and Wahat basins. The terminal features both onshore storage tanks and offshore loading berths that can accommodate large tankers. Zueitina is a critical link in the Libyan energy chain, processing and exporting thousands of barrels of oil daily to international markets. Its strategic location and extensive pipeline connections make it one of the most vital hubs in the nation's petroleum infrastructure. Economics K8 — crude oil export and NGL processing.",
       "factsAdvanced": [
-        "Founded by ancient Greek colonists from the island of Thera in 631 BC.",
-        "A UNESCO World Heritage site located in the Jabal al Akhdar.",
-        "Features massive temples dedicated to Apollo and Zeus.",
-        "Historically famous for exporting the now-extinct medicinal plant 'silphium'.",
-        "Contains one of the largest ancient necropolises in the world.",
-        "Suffered significant damage from a massive earthquake in 365 AD."
+        "A major Libyan export terminal for crude oil and natural gas liquids.",
+        "Operated by the Zueitina Oil Company, a key player in the energy sector.",
+        "Located on the northeastern shore of the Gulf of Sidra.",
+        "Connected by multiple pipelines to oil fields in the interior desert.",
+        "Features offshore 'Single Point Mooring' (SPM) berths for oil tankers.",
+        "Processes and exports petroleum from fields like Intisar and Abu-Attifel.",
+        "A critical node for the supply of energy resources to European markets.",
+        "Supports a large industrial workforce and regional logistics network."
       ]
     },
     {
-      "id": "ly-apollonia-history-v2",
-      "descriptionAdvanced": "Apollonia served as the bustling maritime port for the inland city of Cyrene, evolving into a major urban center in its own right. Today, significant portions of the ancient harbor and waterfront structures lie submerged beneath the clear Mediterranean waters, offering unique underwater archaeology opportunities. On land, the ruins feature well-preserved Byzantine churches and a picturesque Greek theater set against the sea. It highlights the critical importance of naval trade to the ancient Cyrenaican economy. History K7 — underwater archaeology and ancient ports.",
+      "id": "zawiya-port-economic-v2",
+      "descriptionAdvanced": "The Port of Zawiya is a strategically vital industrial seaport located about 45 kilometers west of Tripoli. Its primary function is to serve the Zawiya Oil Refinery, the largest refining facility in Libya, which provides a significant portion of the nation's domestic fuel. The port handles both the import of crude oil from the southern fields (via pipeline) and the export of refined products such as gasoline, diesel, and fuel oil. It features specialized berths and offshore loading points for tankers. The Port of Zawiya is an essential pillar of Libya's energy security and a major driver of the regional economy in western Tripolitania. Economics K8 — refined products and energy security.",
       "factsAdvanced": [
-        "Served historically as the primary port for the ancient city of Cyrene.",
-        "Features significant ancient ruins now submerged underwater.",
-        "Located adjacent to the modern coastal town of Susa.",
-        "Contains the ruins of three massive Byzantine-era churches.",
-        "Features a beautiful ancient Greek theater overlooking the sea.",
-        "Founded in the 7th century BC by Greek colonists."
+        "The primary maritime gateway for Libya's largest oil refinery.",
+        "Handles the distribution of refined fuel products to the western region.",
+        "Connected by a 400-kilometer pipeline to the Sharara oil field.",
+        "Located 45 kilometers west of Tripoli, a key industrial center.",
+        "Features offshore loading facilities for large petroleum tankers.",
+        "Operated by the Zawiya Oil Refining Company (ARC).",
+        "A critical hub for the supply of gasoline and diesel to the capital.",
+        "Crucial for maintaining the nation's domestic energy balance."
       ]
     },
     {
-      "id": "ly-ptolemais-history-v2",
-      "descriptionAdvanced": "Ptolemais was a major city of the Cyrenaican Pentapolis, serving as the provincial capital during the late Roman and Byzantine periods. The site is massive and largely unexcavated, featuring a unique 'Palace of the Columns' and incredibly intricate, sprawling underground water cisterns. The city grid is clearly visible, showcasing brilliant ancient urban planning designed to capture and store every drop of mountain rainfall. It offers a quieter, less commercialized archaeological experience compared to Cyrene. History K8 — ancient urban water management.",
+      "id": "mellitah-port-economic-v2",
+      "descriptionAdvanced": "The Port of Mellitah is a specialized and high-security energy terminal located on the Mediterranean coast between Sabratha and Zuwara. It is the maritime heart of the Mellitah Oil and Gas Complex, one of Libya's most advanced industrial sites. The port is most famous as the starting point for the 'Greenstream' underwater pipeline, which exports natural gas directly to Italy. It also handles the export of crude oil and condensate from both onshore and offshore fields, such as the Bouri and Al-Jurf sites. Mellitah represents a critical energy bridge between Libya and the European Union, utilizing cutting-edge maritime and pipeline technology. Economics K8 — natural gas exports and international pipelines.",
       "factsAdvanced": [
-        "One of the five cities of the ancient Greek Pentapolis.",
-        "Served as the capital of the Cyrenaica province under Emperor Diocletian.",
-        "Features the famous, highly decorated 'Palace of the Columns'.",
-        "Renowned for its massive, cathedral-like underground water cisterns.",
-        "Much of the massive ancient city remains unexcavated.",
-        "Located near the modern town of Tolmeita."
+        "The primary export hub for Libyan natural gas to the European market.",
+        "The starting point for the 520-kilometer Greenstream pipeline to Italy.",
+        "Operated as a joint venture between the National Oil Corporation and Eni.",
+        "Processes and exports oil and gas from the massive offshore Bouri field.",
+        "Located near the city of Zuwara in northwestern Libya.",
+        "Features advanced offshore loading platforms and NGL storage units.",
+        "A high-security facility critical for international energy cooperation.",
+        "Handles thousands of barrels of oil and millions of cubic feet of gas daily."
       ]
     },
     {
-      "id": "ly-tocra-history-v2",
-      "descriptionAdvanced": "Taucheira, known today as Tocra, was a fortified coastal city of the ancient Pentapolis, heavily utilized during the Byzantine era. The site is notable for its massive, imposing defensive walls that were constructed to repel nomadic incursions from the desert. Inside the walls, archaeologists have uncovered early Christian basilica ruins and a wealth of ancient Greek pottery. The site demonstrates the militarization of coastal cities during the decline of the Roman Empire. History K7 — Byzantine fortifications.",
+      "id": "es-sider-terminal-economic-v2",
+      "descriptionAdvanced": "The Es Sider Terminal is Libya's largest crude oil export facility, located in the Gulf of Sidra. It is the primary maritime outlet for the Waha Oil Company, handling the production from a vast network of fields in the Sirte Basin. The terminal features a massive tank farm with a storage capacity of over 6 million barrels and several offshore loading berths for large tankers. Es Sider is a critical barometer of the Libyan economy; its operational status directly impacts national revenue and global oil prices. Its strategic importance and massive scale make it the most vital single node in Libya's petroleum export infrastructure. Economics K8 — crude oil export and national revenue.",
       "factsAdvanced": [
-        "Historically known as Taucheira, part of the Cyrenaican Pentapolis.",
-        "Features massive, well-preserved Byzantine defensive walls.",
-        "Located on the coast northeast of modern Benghazi.",
-        "Archaeological digs have uncovered massive quantities of Greek pottery.",
-        "Contains the ruins of early Christian basilicas.",
-        "Fortified heavily by the Byzantine Emperor Justinian."
+        "Libya's largest terminal by crude oil export volume and storage capacity.",
+        "The primary outlet for the Waha Oil Company's desert production.",
+        "Features a massive onshore tank farm capable of holding 6 million barrels.",
+        "Located in the Gulf of Sidra, the heart of the Libyan 'Oil Crescent.'",
+        "Utilizes offshore loading buoys to accommodate 'Very Large Crude Carriers' (VLCC).",
+        "Connected to a vast network of pipelines from the interior Sirte Basin.",
+        "A critical strategic asset often at the center of national economic interests.",
+        "Provides a major portion of the foreign currency revenue for the Libyan state."
       ]
     },
     {
-      "id": "ly-ghadames-old-town-history-v2",
-      "descriptionAdvanced": "The Old Town of Ghadames is a masterclass in desert architectural engineering, built entirely of mud-brick, lime, and palm wood to combat extreme Saharan temperatures. The labyrinthine, covered streets provide perpetual shade for the ground-level walkways, while a separate, interconnected network of rooftop terraces was traditionally used by women. The interiors of the homes are often beautifully decorated with bright white lime and red geometric patterns. It stands as a profound monument to human adaptation in harsh environments. History K7 — extreme environment architecture.",
+      "id": "sharara-oil-field-economic-v2",
+      "descriptionAdvanced": "The Sharara Oil Field, located in the Murzuq Basin of southwestern Libya, is the largest and most important oil field in the country. Operated by the Akakus Oil Operations, it produces approximately 300,000 barrels of high-quality 'Sahara Blend' crude oil per day when at full capacity. The field is a marvel of desert engineering, with its wells and processing facilities situated amidst the towering sand dunes of the Ubari Sand Sea. Crude oil from Sharara is pumped via a 723-kilometer pipeline to the Zawiya refinery on the coast. Sharara is a fundamental pillar of the Libyan economy, representing about a quarter of the nation's total oil production. Economics K8 — large-scale petroleum extraction and desert engineering.",
       "factsAdvanced": [
-        "A UNESCO World Heritage site known as the 'Pearl of the Desert'.",
-        "Built using mud-brick, lime, and palm tree trunks.",
-        "Features a unique dual-level street system for gender separation.",
-        "Covered ground-level alleys provide natural air conditioning.",
-        "Home interiors feature distinctive red paint and mirrors.",
-        "Historically a major resting point for trans-Saharan caravans."
+        "The largest oil field in Libya, located in the remote Murzuq Basin.",
+        "Capable of producing up to 300,000 barrels of light crude oil per day.",
+        "Operated by Akakus Oil Operations, a joint venture involving the NOC and Repsol.",
+        "Connected by a 723-kilometer pipeline to the coastal refinery at Zawiya.",
+        "Situated deep in the Sahara, surrounded by the stunning Ubari sand dunes.",
+        "Produces the premium 'Sahara Blend' crude, highly valued for its low sulfur.",
+        "A critical strategic asset whose production levels impact global oil markets.",
+        "Provides thousands of jobs and supports the economy of southern Libya."
       ]
     },
     {
-      "id": "ly-marcus-aurelius-arch-history-v2",
-      "descriptionAdvanced": "The Arch of Marcus Aurelius is the most significant surviving Roman monument within the modern city of Tripoli. Erected in 165 AD, this quadrifrons (four-sided) triumphal arch marks the intersection of the ancient city's two main streets, the cardo and the decumanus. It is built entirely of solid marble and features intricate carvings of Apollo and Minerva. Surviving centuries of urban build-up, it now stands proudly near the entrance to the Old Medina. History K6 — Roman urban monuments.",
+      "id": "el-feel-oil-field-economic-v2",
+      "descriptionAdvanced": "The El Feel (Elephant) Oil Field is a major petroleum extraction site located in the Murzuq Basin of southwestern Libya, near the larger Sharara field. Operated as a joint venture between the National Oil Corporation and the Italian firm Eni, the field is a critical part of Libya's energy sector. It produces high-quality crude oil from deep Saharan reservoirs, which is then transported via pipeline to the Mellitah complex on the Mediterranean coast. El Feel is known for its modern production facilities and its strategic role in international energy partnerships. Its successful operation is vital for both Libyan national revenue and the European energy supply chain. Economics K8 — international energy partnerships and Saharan extraction.",
       "factsAdvanced": [
-        "A Roman quadrifrons (four-sided) triumphal arch erected in 165 AD.",
-        "The most prominent Roman ruin remaining in Tripoli.",
-        "Constructed entirely from high-quality imported marble.",
-        "Features detailed relief carvings of the deities Apollo and Minerva.",
-        "Marks the intersection of the ancient Roman cardo and decumanus.",
-        "Was partially buried in sand and debris until excavated in the 20th century."
+        "A major Libyan oil field located 800 kilometers south of Tripoli.",
+        "Operated by Mellitah Oil and Gas, a partnership between NOC and Eni.",
+        "Capable of producing approximately 70,000 to 90,000 barrels per day.",
+        "The name 'El Feel' translates to 'The Elephant' in Arabic.",
+        "Connected to the coastal export terminal at Mellitah by a long-distance pipeline.",
+        "Situated in the remote Fezzan region, a key area for Saharan oil wealth.",
+        "Utilizes advanced extraction technologies to tap into deep desert reservoirs.",
+        "A cornerstone of the energy cooperation between Libya and Italy."
       ]
     },
     {
-      "id": "ly-red-castle-history-v2",
-      "descriptionAdvanced": "The Red Castle, or Assaraya al-Hamra, is a massive fortress dominating the waterfront of Tripoli, serving as the seat of power for centuries of rulers. Its labyrinthine complex of courtyards, armories, and palaces reflects additions by the Spanish, the Knights of St. John, the Ottomans, and the Karamanli dynasty. Today, it houses Libya's premier national museum, showcasing artifacts from the prehistoric era through to the modern day. The imposing red walls are a defining symbol of the capital. History K7 — Ottoman fortifications and museums.",
+      "id": "waha-oil-field-economic-v2",
+      "descriptionAdvanced": "The Waha Oil Field is the centerpiece of a massive group of interconnected fields in the Sirte Basin, operated by the Waha Oil Company. It is one of the oldest and most productive oil-producing areas in Libya, forming the heart of the country's 'Oil Crescent.' The field's infrastructure includes extensive processing plants and a vast network of pipelines that collect crude from surrounding sites like Gialo and Samah. Production from the Waha fields is primarily exported through the Es Sider terminal on the coast. Waha represents the enduring industrial strength of the Libyan petroleum industry and remains a major contributor to the nation's total hydrocarbon output. Economics K8 — oil crescent and petroleum networks.",
       "factsAdvanced": [
-        "A massive historic fortress located on Tripoli's waterfront.",
-        "Served as the seat of government for the Ottoman Karamanli dynasty.",
-        "Features architectural additions spanning over a thousand years.",
-        "Currently houses the Red Castle Museum, Libya's national museum.",
-        "Overlooks the historic Green Square (Martyrs' Square).",
-        "Named for the distinct reddish hue of its massive exterior walls."
+        "A major group of oil fields in the Sirte Basin, central Libya.",
+        "The primary production hub for the Waha Oil Company (formerly Oasis Oil).",
+        "A central component of Libya's 'Oil Crescent,' the nation's most productive area.",
+        "Connected to the Es Sider export terminal, the largest in the country.",
+        "Produces hundreds of thousands of barrels of crude oil per day.",
+        "Features some of the oldest and most extensive pipeline networks in Libya.",
+        "Supports a large industrial town (Waha Base) for workers in the desert.",
+        "Critical for the national economy and the state's foreign exchange reserves."
       ]
     },
     {
-      "id": "ly-tadrart-acacus-history-v2",
-      "descriptionAdvanced": "The Tadrart Acacus is a remote mountain range in the deep southwest of Libya, famous for housing thousands of prehistoric cave paintings and carvings. These incredibly preserved artworks depict a vastly different Sahara—one filled with lakes, giraffes, elephants, and early human hunter-gatherers. The art spans thousands of years, documenting the drastic climate shift that turned a fertile savanna into a hyper-arid desert. The jagged, wind-carved sandstone formations of the Acacus are themselves visually breathtaking. History K8 — prehistoric climate change and rock art.",
+      "id": "zelten-oil-field-economic-v2",
+      "descriptionAdvanced": "The Zelten Oil Field, now known as the Nasser field, is one of the most historically significant petroleum sites in Africa. Located in the Sirte Basin, it was the first major oil discovery in Libya in 1959, which transformed the nation from one of the poorest in the world to a wealthy energy exporter. Today, the field is operated by the Sirte Oil Company and continues to produce significant quantities of crude oil and natural gas. It is connected by the country's first major pipeline to the Marsa el Brega terminal. Zelten remains a symbol of the discovery of Libya's vast underground wealth and the foundation of its modern economic identity. History K8 — the discovery of oil and economic transformation.",
       "factsAdvanced": [
-        "A UNESCO World Heritage site located in the southwestern Fezzan.",
-        "Contains thousands of prehistoric rock paintings and carvings.",
-        "Artworks depict giraffes, elephants, and crocodiles in the Sahara.",
-        "Chronicles the region's transition from a green savanna to a desert.",
-        "Features spectacular wind-eroded sandstone arches and ravines.",
-        "The oldest rock art here dates back to roughly 12,000 BC."
+        "The site of the first major oil discovery in Libya in 1959.",
+        "Renamed the Nasser Field, it is located 200 kilometers south of the coast.",
+        "Operated by the Sirte Oil Company (SOC).",
+        "The first field to be connected to the coast by a major pipeline in 1961.",
+        "Its discovery led to Libya becoming a major global energy exporter.",
+        "Produces both high-quality crude oil and significant natural gas.",
+        "Features historic infrastructure that marked the beginning of Libya's oil era.",
+        "Remains a highly productive and vital asset for the national energy sector."
       ]
     },
     {
-      "id": "ly-germa-history-v2",
-      "descriptionAdvanced": "Germa, known historically as Garama, was the ancient capital of the Garamantes, a powerful Saharan civilization that thrived long before the Romans arrived. The Garamantes were master engineers, building thousands of miles of underground irrigation channels (foggaras) to tap into ancient fossil water, allowing them to farm the desert. The ruins today include a massive mud-brick fortress and extensive necropolises. This site proves that advanced, indigenous urban civilizations existed in the deep Sahara. History K8 — ancient Saharan civilizations and hydrology.",
+      "id": "sarir-oil-field-economic-v2",
+      "descriptionAdvanced": "The Sarir Oil Field is a giant petroleum field located in the southeastern Wahat District of Libya, within the Sirte Basin. It is one of the largest oil fields in the world by reserves, containing billions of barrels of high-quality crude oil. Since its discovery in 1961, Sarir has been a cornerstone of the Libyan economy. The oil is pumped through a massive 513-kilometer pipeline to the Marsa el Hariga terminal in Tobruk. The field is operated by the Arabian Gulf Oil Company (AGOCO) and is known for its immense scale, with hundreds of wells scattered across the hyper-arid desert. Sarir represents the vast, long-term energy potential of the Libyan Sahara. Economics K8 — super-giant oil fields and desert pipelines.",
       "factsAdvanced": [
-        "The ancient capital of the powerful Garamantian civilization.",
-        "Located in the Wadi al Hayaa in the Fezzan region.",
-        "The Garamantes built extensive underground water channels called foggaras.",
-        "Features the ruins of a massive mud-brick central fortress.",
-        "Flourished between 500 BC and 600 AD.",
-        "Proves the existence of advanced, indigenous desert urban centers."
-      ]
-    },
-    {
-      "id": "ly-slonta-history-v2",
-      "descriptionAdvanced": "The Sanctuary of Slonta is one of Libya's most enigmatic and least understood archaeological sites, hidden away in the Jabal al Akhdar. Unlike the classical Greek or Roman ruins nearby, Slonta features bizarre, almost grotesque stone carvings of human faces and animals that seem entirely indigenous or pre-Hellenic. Scholars debate its origins, with some suggesting it was a local Libyan cult site or a shrine dedicated to underworld deities. The eerie, macabre carvings make it a highly unique historical destination. History K8 — indigenous pre-classical cults.",
-      "factsAdvanced": [
-        "An enigmatic, poorly understood archaeological site in the Jabal al Akhdar.",
-        "Features strange, macabre carvings of human faces and animals.",
-        "Does not conform to standard Greek, Roman, or Egyptian artistic styles.",
-        "Believed by some scholars to be an indigenous Libyan cult sanctuary.",
-        "Possibly associated with underworld or funerary deities.",
-        "Located near the modern village of Slonta, south of Al Bayda."
-      ]
-    },
-    {
-      "id": "ly-villa-silin-history-v2",
-      "descriptionAdvanced": "Villa Silin is a remarkably luxurious Roman maritime villa located on the coast near Leptis Magna, showcasing the immense wealth of the North African elite. The villa is famous for its stunning, near-perfect mosaic floors depicting gladiatorial combat, chariot races, and marine life. It features a sophisticated private bath complex and terraced gardens leading directly down to the Mediterranean Sea. The site was preserved under shifting sand dunes, keeping the vivid colors of the mosaics intact for centuries. History K7 — Roman elite domestic architecture.",
-      "factsAdvanced": [
-        "A highly luxurious ancient Roman maritime villa near Khoms.",
-        "Famous for incredibly vivid and well-preserved floor mosaics.",
-        "Mosaics depict scenes of gladiators, chariot racing, and daily life.",
-        "Features a sophisticated private thermal bath complex.",
-        "Built during the 2nd century AD for wealthy Roman elites.",
-        "Buried entirely by sand dunes, which preserved the delicate artwork."
-      ]
-    },
-    {
-      "id": "ly-qasr-libya-history-v2",
-      "descriptionAdvanced": "Qasr Libya, known in antiquity as Theodorias, is a small town in Cyrenaica renowned for housing one of the finest collections of Byzantine mosaics in the world. Originally flooring an ancient Christian basilica, the 50 mosaic panels depict vibrant, highly stylized animals, mythological creatures, and representations of famous cities like Alexandria. The mosaics were discovered accidentally in the 1950s and are now housed in a dedicated local museum. They represent the artistic pinnacle of the Byzantine era in North Africa. History K7 — Byzantine art and early Christianity.",
-      "factsAdvanced": [
-        "Historically known as the Byzantine city of Theodorias.",
-        "Famous for a collection of 50 perfectly preserved Byzantine mosaic panels.",
-        "Mosaics originally belonged to an early Christian basilica.",
-        "Depicts complex scenes of animals, mythology, and ancient cities.",
-        "Discovered by accident by a local farmer in 1957.",
-        "The site includes a dedicated museum protecting the delicate artwork."
-      ]
-    },
-    {
-      "id": "ly-tripoli-medina-history-v2",
-      "descriptionAdvanced": "The Medina of Tripoli is the ancient, walled heart of the Libyan capital, a dense labyrinth of narrow alleys, historic mosques, and traditional souks (markets). Unlike many historic centers, the Medina remains a living, breathing neighborhood where artisans craft copper, leather, and gold using centuries-old techniques. It features stunning Ottoman-era architecture, including the Gurgi and Karamanli mosques with their intricate tile work. The Medina represents the uninterrupted cultural soul of Tripolitania. Sociology K7 — traditional urban markets and Islamic architecture.",
-      "factsAdvanced": [
-        "The ancient, walled historic center of Tripoli.",
-        "Features a labyrinthine layout of narrow, shaded alleys.",
-        "Home to traditional souks selling gold, copper, and silk.",
-        "Contains the beautiful Ottoman-era Gurgi and Karamanli mosques.",
-        "Remains an active, populated residential and commercial neighborhood.",
-        "Accessible via several historic gates, such as Bab Hawara."
-      ]
-    },
-    {
-      "id": "ly-gharyan-troglodyte-history-v2",
-      "descriptionAdvanced": "The troglodyte caves of Gharyan are a marvel of traditional, functional architecture, dug vertically into the earth of the Nafusa Mountains. A large central crater is excavated first, serving as an open-air courtyard, with individual living rooms, kitchens, and animal pens tunneled horizontally into the walls. This ingenious design provides perfect natural insulation, remaining cool in the blistering summer and warm during the freezing mountain winters. Several of these historic homes are still maintained and visited today. Sociology K7 — functional subterranean architecture.",
-      "factsAdvanced": [
-        "Traditional underground homes located in the city of Gharyan.",
-        "Dug vertically into the ground to create a central, open courtyard.",
-        "Rooms are tunneled horizontally into the walls of the crater.",
-        "Provides highly effective natural insulation against extreme temperatures.",
-        "Some cave homes have been continually occupied for centuries.",
-        "Represents a brilliant adaptation to the harsh mountain environment."
+        "A 'super-giant' oil field, one of the largest in the world by reserves.",
+        "Located in the remote Wahat District, 400 kilometers south of Ajdabiya.",
+        "The primary source of crude oil for the Marsa el Hariga terminal in Tobruk.",
+        "Operated by the Arabian Gulf Oil Company (AGOCO).",
+        "Connected to the coast by a massive 513-kilometer, 34-inch pipeline.",
+        "Estimated to contain over 12 billion barrels of initial oil-in-place.",
+        "Produces high-quality light crude with very low sulfur content.",
+        "A vital strategic asset that provides a large share of Libya's national income."
       ]
     }
   ]

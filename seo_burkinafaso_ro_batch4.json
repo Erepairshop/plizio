@@ -1,0 +1,51 @@
+{
+  "lang": "ro",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "djibo-relief-v2",
+      "descriptionAdvanced": "Câmpia dunară Djibo reprezintă un peisaj sahelian clasic în nordul statului Burkina Faso, unde nisipurile mișcătoare și dunele antice fosilizate domină relieful. Situată în provincia Soum, această zonă este caracterizată prin sensibilitatea ridicată la vânturile Harmattan, care remodelează constant suprafața nisipoasă. Din punct de vedere istoric, relieful a fost domeniul nomazilor Fulani și Tuareg, care și-au adaptat stilul de viață pastoral la disponibilitatea sezonieră a apei în depresiunile dunare. Relieful este o reamintire severă a vulnerabilității țării la deșertificare, nisipul invadând adesea pășunile și așezările vitale. Cu toate acestea, în timpul scurtului sezon ploios, câmpia dunară se transformă într-un peisaj verde vibrant, pe măsură ce ierburile și florile sezoniere înfloresc. Relieful Djibo nu este doar o trăsătură geologică; este un mediu viu, în schimbare, care dictează ritmul supraviețuirii la marginea deșertului.",
+      "factsAdvanced": [
+        "Câmpie dunară saheliană extinsă în provincia nordică Soum",
+        "Caracterizată prin nisipuri mișcătoare și dune fosilizate antice",
+        "Cămin tradițional pentru pastorii nomazi Fulani și Tuareg",
+        "Regiune de primă linie în lupta națională împotriva deșertificării",
+        "Modelată de vânturile sezoniere puternice Harmattan",
+        "Prezintă depresiuni de colectare a apei sezoniere cunoscute sub numele de „mares”",
+        "Energia reliefului este scăzută, cu orizonturi largi și vegetație rară",
+        "Simbol al frumuseții crude și fragile a nordului burkinabe"
+      ]
+    },
+    {
+      "id": "dedougou-relief-v2",
+      "descriptionAdvanced": "Câmpia Dédougou este un relief de savană vast și fertil în vestul statului Burkina Faso, centrat în jurul cursului inferior al râului Mouhoun (Volta Neagră). Acest relief se caracterizează prin terenul său excepțional de plat și solurile sale bogate, care au transformat regiunea în „coșul cu pâine” al țării. Din punct de vedere istoric, câmpia a fost un hub major pentru producția de bumbac și cereale, susținând dezvoltarea orașului Dédougou ca o capitală regională. Relieful este inundat sezonier de Mouhoun, care lasă în urmă aluviuni fertile ce hrănesc câmpurile întinse de porumb, sorg și bumbac. Peisajul este presărat cu baobabi și arbori de shea maiestuoși, creând un mozaic armonios de natură sălbatică și agricultură intensivă. Relieful Dédougou este, de asemenea, semnificativ cultural ca loc al Festivalului Internațional al Măștilor, celebrând legătura profundă dintre pământ și artele tradiționale.",
+      "factsAdvanced": [
+        "Câmpie aluvionară vastă și fertilă în regiunea Boucle du Mouhoun",
+        "Cunoscută drept „coșul cu pâine” al națiunii pentru producția ridicată de cereale",
+        "Dominată hidrologic de inundațiile sezoniere ale Voltei Negre",
+        "Caracterizată prin teren plat și soluri adânci, bogate în nutrienți",
+        "Zonă principală pentru cultivarea bumbacului și porumbului la scară largă",
+        "Relief agricol strategic cu densitate mare de așezări",
+        "Peisaj iconic de savană cu baobabi și arbori de shea",
+        "Parte geologică a bazinului sedimentar Volta"
+      ]
+    },
+    {
+      "id": "sebba-relief-v2",
+      "descriptionAdvanced": "Regiunea Sebba Wadi din provincia nord-estică Yagha este un relief unic, caracterizat printr-o rețea densă de albii sezoniere care străpung câmpiile nisipoase saheliene. Acest relief este o trăsătură hidrologică esențială a nordului arid, oferind singurele surse fiabile de apă subterană și pășune sezonieră pentru comunitățile nomade. Din punct de vedere istoric, Sebba a fost o răscruce vitală pentru comerțul trans-sahelian, iar relieful său a dictat rutele de migrație ale păstorilor Fulani și Tuareg timp de secole. Peisajul este în general plat, dar wadi-urile creează o micro-topografie de râpe de eroziune și creste nisipoase care susțin o floră specializată, precum salcâmii și palmierii. În timpul sezonului ploios, wadi-urile se pot transforma în torente puternice, dar pentru cea mai mare parte a anului, acestea sunt panglici uscate, albe, pe pământul roșu.",
+      "factsAdvanced": [
+        "Relief sahelian caracterizat printr-o rețea densă de wadi-uri sezoniere",
+        "Situat în provincia îndepărtată nord-estică Yagha, lângă Niger",
+        "Oferă apă subterană critică și pășunat sezonier pentru nomazi",
+        "Punct de reper strategic de navigare pe rutele comerciale trans-saheliene",
+        "Modelat de procese intense de eroziune sezonieră cauzate de apă și vânt",
+        "Adăpostește o floră specializată de zonă aridă de-a lungul albiilor uscate",
+        "Esențial pentru supraviețuirea economiei pastorale nordice",
+        "Prezintă un peisaj auster, frumos, de pământ roșu și nisip alb"
+      ]
+    }
+  ]
+}

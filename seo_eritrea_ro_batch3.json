@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nakfa-cities-v2",
+      "descriptionAdvanced": "Nakfa este un oraș în regiunea Northern Red Sea din Eritreea, profund simbolic pentru lupta pentru independența națională. Pe parcursul lungului război de eliberare, orașul a servit drept bază principală pentru EPLF și a fost singurul loc major de rezistență care a rămas sub controlul acestora pe durata conflictului. Numele său a devenit sinonim cu perseverența și, ulterior, a fost adoptat pentru moneda națională a Eritreei. Astăzi, rămâne un sit istoric de o valoare imensă în memoria și identitatea colectivă a națiunii. Istorie K8 — mișcarea de independență.",
+      "factsAdvanced": [
+        "Situat în regiunea Northern Red Sea.",
+        "Simbol al identității naționale eritreene.",
+        "Bază principală pentru EPLF în timpul războiului.",
+        "A rămas un punct de rezistență pentru mulți ani.",
+        "A dat numele monedei naționale (Nakfa).",
+        "Semnificație istorică profundă pentru formarea statului."
+      ]
+    },
+    {
+      "id": "tessenei-cities-v2",
+      "descriptionAdvanced": "Tessenei este un oraș de frontieră situat în vest, aproape de Sudan, funcționând ca un centru vital pentru comerțul transfrontalier și exporturile agricole. Deși a suferit daune considerabile în timpul conflictelor, orașul a fost reconstruit și și-a recâștigat importanța ca hub economic în regiunea Gash-Barka. Poziția sa permite schimburi constante între Eritreea și țările vecine, facilitând fluxul de mărfuri agricole, precum bumbacul și susanul. Geografie K7 — impactul orașelor de graniță asupra economiei regionale.",
+      "factsAdvanced": [
+        "Oraș de frontieră esențial în vest, lângă Sudan.",
+        "Centru pentru comerțul transfrontalier și exporturi agricole.",
+        "Reconstruit după daunele suferite în timpul războiului.",
+        "Nod economic major în regiunea Gash-Barka.",
+        "Facilitează fluxul de produse agricole, precum bumbacul.",
+        "Punct strategic pentru logistica comercială cu Sudanul."
+      ]
+    },
+    {
+      "id": "afabet-cities-v2",
+      "descriptionAdvanced": "Afabet este un oraș situat în câmpiile nordice, faimos în istoria modernă a Eritreei ca locul uneia dintre cele mai decisive bătălii din războiul de independență. Bătălia de la Afabet din 1988 a marcat o cotitură istorică, demonstrând capacitatea forțelor de rezistență. Peisajul înconjurător este dominat de dealuri aride și uscate, caracteristice zonelor joase din nordul țării. Astăzi, orașul poartă memoria acestor evenimente, fiind un punct de referință istorică pentru generațiile actuale. Istorie K8 — bătălii decisive în procesul de independență.",
+      "factsAdvanced": [
+        "Situat în câmpiile aride din nordul Eritreei.",
+        "Locul Bătăliei de la Afabet din 1988, o victorie strategică decisivă.",
+        "Înconjurat de peisaje de dealuri aride și uscate.",
+        "Punct de referință istoric pentru războiul de independență.",
+        "Zona joasă caracterizată prin climat cald și secetos.",
+        "Importanță majoră pentru identitatea istorică locală."
+      ]
+    },
+    {
+      "id": "senafe-cities-v2",
+      "descriptionAdvanced": "Senafe este un oraș de piață situat la mare altitudine în sudul Eritreei, aproape de granița cu Etiopia. Orașul este dominat de formațiuni stâncoase impresionante, care creează un peisaj spectaculos în împrejurimi. Apropierea sa de ruinele arheologice Matara îl face un punct de interes pentru explorarea istoriei antice a regiunii. Economia locală se bazează pe comerț și agricultură, beneficiind de climatul specific zonelor montane. Geografie K7 — influența formelor de relief asupra așezărilor umane.",
+      "factsAdvanced": [
+        "Oraș de piață situat la mare altitudine în sudul țării.",
+        "Dominat de formațiuni stâncoase spectaculoase.",
+        "Proximitatea față de situl arheologic Matara.",
+        "Climat specific zonelor montane din sudul Eritreei.",
+        "Hub local pentru comerțul cu comunitățile din vecinătate.",
+        "Peisaj geologic definit de formațiuni stâncoase."
+      ]
+    },
+    {
+      "id": "segeneiti-cities-v2",
+      "descriptionAdvanced": "Segeneiti este un mic oraș cunoscut pentru uriașii săi smochini sicomori seculari, care sunt apreciați în cultura locală pentru umbra și rolul lor social. Acești arbori simbolici au o semnificație atât de profundă încât un exemplar este ilustrat pe bancnota de cinci Nakfa. Situat pe drumul spre sud, orașul oferă o atmosferă liniștită, păstrând tradiții agrare și rurale specifice platoului central. Este o destinație care îmbină frumusețea naturală cu recunoașterea simbolică a valorilor locale. Geografie K7 — importanța resurselor naturale în identitatea culturală.",
+      "factsAdvanced": [
+        "Faimos pentru smochinii sicomori seculari.",
+        "Arbori simbolici prezentați pe moneda națională (bancnota de 5 Nakfa).",
+        "Situat strategic pe drumul principal spre sudul țării.",
+        "Păstrează tradiții rurale și agrare autentice.",
+        "Destinație care pune în valoare resursele naturale locale.",
+        "Reprezintă o componentă simbolică importantă pentru comunitate."
+      ]
+    }
+  ]
+}

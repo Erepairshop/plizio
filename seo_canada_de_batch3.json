@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kitimat-lng-economic-v2",
+      "descriptionAdvanced": "Das Kitimat LNG-Projekt in British Columbia repräsentiert eine der größten Investitionen in die kanadische Energieinfrastruktur zur Verflüssigung und zum Export von Erdgas auf den asiatischen Markt. Durch die strategische Lage an der Westküste verkürzen sich die Transportwege im Vergleich zu Anlagen am Atlantik erheblich. Dies macht den Standort zu einem zentralen Knotenpunkt für Kanadas Ambitionen, ein führender Akteur im globalen LNG-Handel zu werden. Wirtschaft K8 — Energieinfrastruktur und Außenhandel.",
+      "factsAdvanced": [
+        "Großprojekt zur Verflüssigung von Erdgas",
+        "Wichtige Exportinfrastruktur für den Pazifikmarkt",
+        "Investitionsschwerpunkt in British Columbia",
+        "Strategisch verkürzte Transportwege nach Asien",
+        "Kern der kanadischen LNG-Exportstrategie",
+        "Technologisch anspruchsvolle Verflüssigungsanlage"
+      ]
+    },
+    {
+      "id": "windsor-assembly-plant-economic-v2",
+      "descriptionAdvanced": "Das Montagewerk in Windsor, Ontario, ist ein Eckpfeiler der kanadischen Automobilindustrie und eng mit der Produktion von Fahrzeugmodellen für den gesamten nordamerikanischen Markt verknüpft. Die Nähe zu Detroit, dem historischen Zentrum der US-Autoindustrie, ermöglicht eine hochintegrierte Lieferkette. Das Werk ist ein Paradebeispiel für die grenzüberschreitende industrielle Zusammenarbeit und die Bedeutung des kanadischen Fertigungssektors für den Export. Wirtschaft K7 — Industrie und internationale Handelsbeziehungen.",
+      "factsAdvanced": [
+        "Großes Montagewerk für Automobile",
+        "Kernstandort der kanadischen Autoindustrie",
+        "Enge Integration in den nordamerikanischen Markt",
+        "Strategische Nähe zu Detroit",
+        "Exportorientierte Produktionsstruktur",
+        "Wichtiger Arbeitgeber in Ontario"
+      ]
+    },
+    {
+      "id": "saskatoon-uranium-mining-economic-v2",
+      "descriptionAdvanced": "Die Region rund um Saskatoon in Saskatchewan ist das weltweite Zentrum der Uranförderung, das eine fundamentale Rolle bei der globalen Stromerzeugung durch Kernkraft spielt. Die dortigen Vorkommen zeichnen sich durch extrem hohe Konzentrationen aus, was den Abbau im Vergleich zu anderen Regionen wirtschaftlich besonders attraktiv macht. Die Uranindustrie ist somit ein maßgeblicher Faktor für die kanadische Rohstoffökonomie und globale Energieversorgung. Geografie K8 — Energiequellen und Rohstoffe.",
+      "factsAdvanced": [
+        "Zentrum der kanadischen Uranförderung",
+        "Weltweit führende Uranvorkommen mit hoher Konzentration",
+        "Essentiell für die globale Kernenergieproduktion",
+        "Maßgeblicher Faktor der Rohstoffökonomie Saskatchewan",
+        "Wichtiger globaler Energieversorger",
+        "Strenge regulatorische Auflagen für den Abbau"
+      ]
+    },
+    {
+      "id": "winnipeg-logistics-hub-economic-v2",
+      "descriptionAdvanced": "Winnipeg fungiert als das logistische Herz Kanadas, da es als zentraler Knotenpunkt für den transkontinentalen Schienenverkehr zwischen dem Osten und Westen des Landes dient. Aufgrund seiner geografischen Lage ist es ein essenzieller Transitpunkt für Güter, die über die gesamte Weite des Landes transportiert werden. Die Kombination aus Eisenbahn-Infrastruktur und logistischer Expertise macht Winnipeg unverzichtbar für die Effizienz der nationalen Lieferketten. Geografie K7 — Logistik und nationale Infrastruktur.",
+      "factsAdvanced": [
+        "Zentraler Knotenpunkt im transkontinentalen Schienenverkehr",
+        "Logistisches Herz Kanadas",
+        "Essentieller Transitpunkt für den nationalen Güterverkehr",
+        "Knotenpunkt zwischen Ost- und Westkanada",
+        "Infrastruktur für effiziente Lieferketten",
+        "Wichtiger Standort für multimodale Transportlösungen"
+      ]
+    },
+    {
+      "id": "burnaby-oil-refinery-economic-v2",
+      "descriptionAdvanced": "Die Ölraffinerie in Burnaby, British Columbia, spielt eine kritische Rolle bei der Versorgung der regionalen Märkte mit raffinierten Treibstoffen. Als eine der wenigen Raffinerien in der Provinz stellt sie die lokale Verfügbarkeit von Benzin und Diesel für die Küstenregion und die umliegenden Gebiete sicher. Der Betrieb ist ein unverzichtbarer Bestandteil der industriellen Basis in der Metropolregion Vancouver und trägt zur regionalen Autonomie bei. Wirtschaft K8 — Energieversorgung und Infrastruktur.",
+      "factsAdvanced": [
+        "Wichtige Ölraffinerie in British Columbia",
+        "Versorgung der regionalen Märkte mit Treibstoff",
+        "Unverzichtbarer Bestandteil der industriellen Basis",
+        "Sicherung der lokalen Verfügbarkeit von Benzin und Diesel",
+        "Zentral für die Metropolregion Vancouver",
+        "Beitrag zur regionalen Energiesicherheit"
+      ]
+    }
+  ]
+}

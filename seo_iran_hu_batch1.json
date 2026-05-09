@@ -1,0 +1,247 @@
+{
+  "lang": "hu",
+  "country": "iran",
+  "files": ["lib/visualLab/data/poiExtraIranReliefV2.ts"],
+  "items": [
+    {
+      "id": "damavand-relief-v2",
+      "descriptionAdvanced": "A Damávand a Közel-Kelet és Irán legmagasabb pontja, egy kúp alakú, szunnyadó rétegvulkán, amely a Teherántól északra fekvő Elburz-hegység tájképét uralja. Tökéletes vulkáni kúpja markánsan emelkedik ki a környező hegyvidékből, és évezredek óta fontos szerepet játszik a perzsa mitológiában és költészetben, gyakran az iráni ellenállás szimbólumaként említik. A vulkán lejtőin több meleg vizű hőforrás fakad, amelyek a mélyben zajló utóvulkáni tevékenységről tanúskodnak, és vizüket gyakran terápiás célokra is hasznosítják. A hegycsúcs meghódítása népszerű kihívás a hegymászók körében, hiszen tiszta időben a tetőről akár a Kaszpi-tengerig is ellátni. A zord magaslati körülmények ellenére a hegy egyedi alpesi növény- és állatvilágnak ad otthont, különleges és ritka endemikus fajokkal.",
+      "factsAdvanced": [
+        "A fenséges vulkáni kúp tekintélyes, 5609 méteres magasságba emelkedik a tengerszint fölé.",
+        "A Damávand utolsó ismert vulkánkitörése a becslések szerint körülbelül 7300 évvel ezelőtt történt.",
+        "A hegyet 2008-ban Irán első természeti emlékműveként vették fel a nemzeti örökség listájára.",
+        "A 4000 méter feletti lejtőkön erősen kénes vizű fumarolák és gázömlések találhatók.",
+        "A hegymászók körében a déli útvonal számít a legnépszerűbb és legjobban kiépített feljutási iránynak.",
+        "A Damávand képe díszíti a hivatalos iráni 10 000 riálos bankjegy hátoldalát."
+      ]
+    },
+    {
+      "id": "dasht-e-kavir-relief-v2",
+      "descriptionAdvanced": "A Dast-e Kavir, avagy a Nagy-sós-sivatag, Irán középső fennsíkjának hatalmas, rendkívül száraz és életbarátlan kiterjedésű tájegysége. A végtelen sós mocsarak, a kiszáradt folyómedrek és a különleges kőzetformációk mind a szélsőséges geológiai és éghajlati folyamatok lenyomatai. A perzselő nyári hónapokban a forróság drasztikusan felgyorsítja a párolgást, aminek következtében vastag, kristályos sópáncél marad a felszínen. A kietlennek tűnő környezet ellenére néhány speciális sivatagi növény- és szívós állatfaj sikeresen alkalmazkodott ezekhez a zord viszonyokhoz. Az ókorban a sivatag peremén fekvő oázisok mentén fontos kereskedelmi útvonalak húzódtak, amelyek a Selyemút vándorai számára jelentettek létfontosságú pihenőhelyet. Ma a vidék elsősorban geológusokat és elszánt kalandorokat vonz.",
+      "factsAdvanced": [
+        "A sivatag Irán középső részén mintegy 77 600 négyzetkilométeres területet foglal el.",
+        "A felszínen kialakuló sókéreg vastagsága helyenként akár a több métert is elérheti.",
+        "A nyári időszakban a nappali csúcshőmérséklet rendszeresen meghaladja az 50 Celsius-fokot.",
+        "A régió átlagos tengerszint feletti magassága megközelítőleg 800 méter körüli.",
+        "A sósivatag központi területe szinte teljesen mentes az állandó emberi megtelepedéstől.",
+        "A nyugati peremén elterülő Kavir Nemzeti Park ritka ázsiai gepárdoknak is menedéket nyújt."
+      ]
+    },
+    {
+      "id": "lut-desert-relief-v2",
+      "descriptionAdvanced": "A Dast-e Lut sivatag a Föld egyik legszélsőségesebb és legkülönlegesebb természeti képződménye, amelyet egyedülálló geológiája miatt az UNESCO is világörökségként ismer el. A tájképet elsősorban a szél által kiformált gigantikus, agyagból és iszapból álló gerincek, a kalutok uralják, amelyek kísérteties, elhagyatott városok romjaihoz hasonlítanak. Június és október között heves szelek söpörnek végig a száraz medencén, folyamatosan átalakítva a lenyűgöző felszíni formákat. Ez a délkelet-iráni medence a bolygó egyik legforróbb területe, ahol a sötét színű, vulkanikus kavicsmezők magukba szívják az intenzív napsugárzást. Az extrém hőség és a minimális csapadék miatt hatalmas területeken még a talajlakó mikroorganizmusok is hiányoznak, ami a biológiai inaktivitás ritka példája.",
+      "factsAdvanced": [
+        "Műholdas mérések 2005-ben elképesztő 70,7 Celsius-fokos rekord talajfelszíni hőmérsékletet regisztráltak itt.",
+        "A sivatag mintegy 51 800 négyzetkilométeres területet fed le Irán délkeleti részén.",
+        "A régiót 2016-ban hivatalosan is Irán első természeti világörökségi helyszínévé nyilvánították.",
+        "A látványos szélformálta kalutok magassága helyenként elérheti a megdöbbentő 150 métert is.",
+        "A keleti peremvidéken elterülő homokdűnék némelyike a 450 méteres magasságot is meghaladja.",
+        "A terület mintegy 480 kilométeres szakaszán mély, párhuzamos eróziós barázdák húzódnak."
+      ]
+    },
+    {
+      "id": "mount-sabalan-relief-v2",
+      "descriptionAdvanced": "A Szabalán egy látványos, inaktív rétegvulkán Irán északnyugati régiójában, amely a Damávand és az Alam-Kuh után az ország harmadik legmagasabb csúcsa. Jellegzetes sziluettje meghatározza Ardabíl és Meskin-Sahr történelmi városok tágabb környezetét és a tágas magasföldet. A hatalmas vulkán leglenyűgözőbb vonása a csúcsán található állandó krátertó, amelyet az extrém magasság és a hideg éghajlat miatt az év legnagyobb részében vastag jég borít. A hegy alsóbb lejtőin és a környező völgyekben számos ásványi anyagokban gazdag, forró hőforrás fakad, amelyeket évszázadok óta hasznosítanak gyógyászati célokra. A nyári hónapokban a csúcs viszonylag könnyen megközelíthető, ezért rendkívül népszerű a túrázók körében, míg a helyi közösségek hagyományaiban a hegy megőrizte ősi, spirituális jelentőségét.",
+      "factsAdvanced": [
+        "A hegy főcsúcsa tekintélyes 4811 méteres magasságba nyúlik Ardabíl tartomány fölé.",
+        "Az elliptikus alakú vulkáni krátertó mérete megközelítőleg 140-szer 80 méter.",
+        "A becslések szerint a hegy utolsó kitörései a holocén időszakban, több mint 10 000 éve zajlottak.",
+        "A hegy lábánál fekszik Sareyn városa 1650 méteren, amely messze földön híres gyógyvízű forrásairól.",
+        "A meleg vizes fürdők évente turisták százezreit vonzzák a környező régiókból.",
+        "A hegyvidék barna medvék és különféle nagytestű ragadozó madarak jelentős populációjának ad otthont."
+      ]
+    },
+    {
+      "id": "mount-sahand-relief-v2",
+      "descriptionAdvanced": "A Szahand vulkanikus eredetű, masszív hegységcsoport Kelet-Azerbajdzsán tartományban, melyet mélyen bevágott völgyek és szelídebb lejtők jellemeznek. Irán sok más, zord és kietlen hegycsúcsával ellentétben a Szahand hatalmas, zöldellő alpesi legelőiről és gazdag növényvilágáról híres, emiatt gyakran nevezik Irán hegyeinek menyasszonyának. Az erősen erodált vulkáni szerkezet több, csillag alakban elhelyezkedő csúcsból áll, amelyek egy központi, egykori kráterterületet vesznek körbe. A víz évezredes eróziós munkája által kivájt mély szurdokokban számos kisebb falu bújik meg, köztük a híres Kandován, ahol a lakóházakat közvetlenül a puha vulkáni tufába vájták, barlanglakásokat alakítva ki. Télen a Szahand hóval borított lejtői kiváló feltételeket biztosítanak a téli sportokhoz.",
+      "factsAdvanced": [
+        "A Szahand-masszívum legmagasabb pontja, a Kamal-csúcs 3707 méteres magasságba emelkedik.",
+        "A kiterjedt vulkáni terület nagyjából 100 kilométeres sugarú körben helyezkedik el a térségben.",
+        "A történelmi Kandován sziklafalu a hegy északnyugati lábánál, 2200 méteres magasságban található.",
+        "A Szahand síkomplexum az északnyugati régió egyik legjelentősebb téli sportközpontjaként ismert.",
+        "A térség vulkáni tufakőzetei a becslések szerint a pliocén és pleisztocén korokban alakultak ki.",
+        "A lejtőkön több mint 17 állandó vizű folyó ered, amelyek részben az Urmia-tavat is táplálják."
+      ]
+    },
+    {
+      "id": "alam-kuh-relief-v2",
+      "descriptionAdvanced": "Az Alam-Kuh Irán második legmagasabb csúcsa, egyben az Elburz-hegység lenyűgöző Taht-e Szolejmán masszívumának vitathatatlan központi eleme. A hegymászók és alpinisták körében világszerte komoly hírnevet szerzett hatalmas és rendkívül meredek északi sziklafala miatt, amely hatalmas tömör gránitból áll. Ez az elképesztő kőzetképződmény a Közel-Kelet egyik legkomolyabb hegymászó kihívásának számít, és technikai nehézségét a profik gyakran az európai Alpok legkeményebb útvonalaihoz hasonlítják. Az Alam-Kuh tágabb környezetét jégkorszaki maradványok, még ma is aktív gleccserek és zord hegygerincek uralják, amelyek kizárólag tapasztalt hegymászók számára járhatók. Télen a csúcs szinte megközelíthetetlen a szélsőséges időjárás miatt, nyáron azonban nemzetközi expedíciók sokasága érkezik ide.",
+      "factsAdvanced": [
+        "A hegy csúcsa tekintélyes, 4848 méteres magasságba emelkedik a környező hegyvidék fölé.",
+        "A szinte függőleges, tömör gránitból álló északi fal magassága eléri a 800 métert.",
+        "Az első sikeresen dokumentált csúcstámadást európai hegymászók hajtották végre az 1933-as évben.",
+        "Az Alam-Kuh környezetében több mint 40 olyan hegycsúcs található, amely meghaladja a 4000 métert.",
+        "Itt találhatóak Irán legnagyobb gleccserei, köztük a mintegy 7 kilométer hosszú Alamcsal-gleccser.",
+        "A hegymászó expedíciók fő kiindulópontja, a Vandarbeen alaptábor 2600 méteres magasságban fekszik."
+      ]
+    },
+    {
+      "id": "zard-kuh-relief-v2",
+      "descriptionAdvanced": "A Zard-Kuh, melynek neve perzsául Sárga Hegyet jelent, a hatalmas Zagrosz-hegység központi részének egyik legdominánsabb csúcsa és Irán hidrológiai rendszerének egyik legfontosabb sarokköve. A hegymasszívum arról a jellegzetes sárgás mészkő kőzetről kapta a nevét, amely a lemenő napfényben különlegesen ragyogó árnyalatot ölt. A Zard-Kuh mély völgyei és meredek lejtői hatalmas mennyiségű téli csapadékot fognak fel, amely kiterjedt hómezőket és masszív gleccsereket táplál. Ezek a természetes magaslati víztározók biztosítják a forrását a Karunnak, Irán legbővizűbb folyójának, valamint a történelmi Iszfahán városán átfolyó Zájande Rudnak is. A régió egyben a bahtijári nomádok hagyományos nyári legelőterülete is, akik állataikat terelik a völgyekben.",
+      "factsAdvanced": [
+        "A maga 4221 méteres magasságával a Zard-Kuh a második legmagasabb csúcs a Zagrosz-hegységben.",
+        "Ez a régió ad otthont a központi Zagrosz legnagyobb fennmaradt vadkecske-populációjának.",
+        "A hegy bőséges olvadékvize táplálja az 1953-ban befejezett Kuhrang-alagút vízügyi projektjét.",
+        "A környező hegyvonulatok jelentős része a kréta időszakból származó vastag tengeri mészkőből épül fel.",
+        "A masszívumban található az Ill-gleccser, a Közel-Kelet ritka szubtrópusi jégárjainak egyike.",
+        "A magasabb régiókban az éves csapadékmennyiség helyenként meghaladhatja az 1500 millimétert is."
+      ]
+    },
+    {
+      "id": "mount-dena-relief-v2",
+      "descriptionAdvanced": "A Dena-hegység egy kiemelkedő és rendkívül kiterjedt almasszívum a Zagrosz-hegység déli vonulatában, amely Kohgiluje és Bojer-Ahmad, valamint Iszfahán tartományok találkozásánál húzódik. Ez a tekintélyes hegyvonulat több tucat kilométeren át kanyarog, sűrű tölgyerdőkkel, kristálytiszta hegyi folyókkal és rendkívül magas sziklás csúcsokkal büszkélkedhet. Az ökoszisztéma kiemelkedő értékei miatt a terület nagy részét 2010-ben hivatalos bioszféra-rezervátummá nyilvánították, védelmet biztosítva a ritka endemikus növényeknek és az olyan súlyosan veszélyeztetett fajoknak, mint a perzsa leopárd. A meredek mészkőfalakat kiterjedt karsztbarlangok és bővizű források szabdalják. A kemény téli időszakban a heves havazások elzárják a régiót, ám a tavaszi hóolvadás bőséges legelőket teremt a nomádoknak.",
+      "factsAdvanced": [
+        "A Dena-masszívum teljes hossza megközelíti a lenyűgöző 90 kilométeres távolságot.",
+        "A hegyvonulat több mint 40 önálló, 4000 métert meghaladó magasságú sziklás hegycsúccsal rendelkezik.",
+        "A masszívum legmagasabb pontja, a Kas-Mastan csúcs 4409 méterrel magasodik a tengerszint fölé.",
+        "Az UNESCO által elismert Dena bioszféra-rezervátum területe meghaladja a 250 000 hektárt.",
+        "A hegységben mintegy 1200 különböző növényfaj él, amelyek jelentős hányada endemikus.",
+        "Régészeti feltárások igazolták, hogy a helyi barlangrendszereket már az epipaleolitikum korában is lakták."
+      ]
+    },
+    {
+      "id": "shir-kuh-relief-v2",
+      "descriptionAdvanced": "A Sir Kuh, amelynek neve perzsa nyelven Oroszlán Hegyet jelent, egy elszigetelt, markáns hegymasszívum, amely hirtelen emelkedik ki Közép-Irán kietlen, forró sivatagi síkságaiból. Ez az uralkodó csúcs létfontosságú szerepet játszik a történelmi Jazd sivatagi városának és a környező településeknek a túlélésében, mivel a téli hónapokban a csúcsain felhalmozódó hó biztosítja az ivóvízkészletet. Az olvadékvíz lassan beszivárog a mély porózus kőzetekbe, és közvetlenül táplálja azt az ősi, felszín alatti kanat-rendszert, amely évezredek óta felel a régió mezőgazdasági és kommunális vízellátásáért. A Sir Kuh lejtői a hűvösebb klíma és a magasabb páratartalom miatt éles kontrasztot alkotnak a sivataggal, így Jazd lakói számára kedvelt nyári menedékhelyként szolgálnak.",
+      "factsAdvanced": [
+        "A hegymasszívum legmagasabb pontja pontosan 4075 méterrel magasodik a tengerszint fölé.",
+        "A téli időszakban a csúcsközeli magasságokban a hőmérséklet rendszeresen mínusz 20 Celsius-fok alá süllyed.",
+        "Ez a régió a legfőbb vízgyűjtője a mintegy 3000 éves múlttal rendelkező, kiterjedt jazdi kanat-rendszernek.",
+        "A túrák népszerű kiindulópontja, Taft falu nagyjából 30 kilométerre fekszik Jazd városától délnyugatra.",
+        "A hegy geológiai felépítése túlnyomórészt prekambriumi és paleozoikumi gránitokból, valamint mészkövekből áll.",
+        "Körülbelül 3500 méteres magasságban egy robusztus menedékház várja a tapasztalt hegymászókat és túrázókat."
+      ]
+    },
+    {
+      "id": "zagros-mountains-relief-v2",
+      "descriptionAdvanced": "A hatalmas Zagrosz-hegység alkotja Irán nyugati felének legfontosabb topográfiai gerincét, amely a török határtól északnyugaton egészen a Hormuzi-szorosig ível délen. Ez az elképesztő méretű és jelentőségű hegyrendszer az arab és az eurázsiai tektonikus lemezek évmilliókig tartó, folyamatos ütközése révén gyűrődött fel jelenlegi formájába. A Zagroszt egymással párhuzamosan futó, hosszú hegygerincek és közöttük elterülő mély völgyek sora jellemzi, ami az ókorban szinte áthatolhatatlan természetes akadályt képezett a birodalmak számára. A nyugati Zagrosz védett és termékeny völgyei az emberiség történetének legkorábbi mezőgazdasági kísérleteinek és a legelső állatok háziasításának is tanúi voltak. Napjainkban a tölgyerdők és a vad folyószurdokok mellett a nomád közösségek teszik egyedivé a tájat.",
+      "factsAdvanced": [
+        "A masszív hegyvonulat teljes hossza megközelíti az elképesztő 1600 kilométeres kiterjedést.",
+        "A gyűrthegység szélessége a középső és déli szakaszokon még a 300 kilométert is meghaladhatja.",
+        "A monumentális hegyrendszer egyik legmagasabb pontja az 4221 méteres Zard-Kuh csúcsa.",
+        "A hegység intenzív felgyűrődése leginkább a miocén és pliocén korok tektonikus mozgásainak eredménye.",
+        "A vastag Zagrosz-medence rejti a világ legnagyobb ismert kőolaj- és földgázkészleteinek jelentős hányadát.",
+        "A hegység karsztos barlangjaiban több mint 50 000 éves, neandervölgyi emberektől származó régészeti nyomokat találtak."
+      ]
+    },
+    {
+      "id": "alborz-mountains-relief-v2",
+      "descriptionAdvanced": "Az Elburz-hegység Irán északi részének egyik legmeghatározóbb földrajzi vonulata, amely éles, magas határvonalat képez a déli száraz fennsík és az északi, párás Kaszpi-tengeri partvidék között. Ez a markáns klimatikus gát arra kényszeríti az északról érkező nedves tengeri légtömegeket, hogy leadják csapadékukat, így az északi lejtőkön sűrű, buja hürkániai erdők alakulnak ki. A déli oldal ehhez képest sokkal szárazabb, sztyeppes jellegű növényzettel rendelkezik. A hegyvonulat hatalmas vulkáni csúcsokat, köztük a hófödte Damávandot ötvözi meredek mészkőszirtekkel és mély kanyonokkal. Évszázadokon keresztül bevehetetlen iszmáilita erődítményeknek adott helyet, ma pedig Teherán lakosságának legfőbb rekreációs zónája, amely télen első osztályú síközpontokat kínál.",
+      "factsAdvanced": [
+        "A hegyrendszer több mint 900 kilométer hosszan ível végig a Kaszpi-tenger déli partvidéke mentén.",
+        "Az Elburz-hegység maximális kiterjedése és szélessége 60 és 130 kilométer között váltakozik.",
+        "Az északi lejtők sűrű erdeiben az éves csapadékmennyiség bőségesen meghaladja az 1000 millimétert.",
+        "A hegység legmagasabban fekvő síközpontja, Dizin mintegy 3600 méteres magasságban található.",
+        "A hegység biztosítja Teherán és az északi nagyvárosok legfontosabb természetes ivóvízbázisát.",
+        "A tektonikailag erősen aktív törésvonalak miatt a régióban történelmileg gyakoriak az erős földrengések."
+      ]
+    },
+    {
+      "id": "taftan-volcano-relief-v2",
+      "descriptionAdvanced": "A Taftán-vulkán egy kiemelkedő magasságú és geológiailag is aktív hegycsúcs Irán zord, délkeleti sarkában, Szisztán és Beludzsisztán tartományban. Ez a hegy a pakisztáni határig nyúló vulkáni ívhez tartozik, és leginkább folyamatos fumarolatevékenységéről ismert, amelynek során forró kénes gázok és vízgőz tör fel a főkráterből, állandó, jellegzetes sárgás felhőt képezve a csúcs felett. A méretes rétegvulkán oldalait hamu, horzsakő és megszilárdult andezites lávafolyások vastag rétegei borítják, ami a terepet nehezen járhatóvá és extrém vizuális élménnyé teszi. A helyi beludzs lakosság ősi mítoszai rejtett természeti erők lakhelyeként tisztelik a hegyet. A hegymászókat leginkább a kráter körüli holdszerű, sziklás táj, a kénkiválások és a sivatagi panoráma vonzza.",
+      "factsAdvanced": [
+        "A vulkán legmagasabb pontja eléri a kiemelkedő 3941 méteres magasságot az arid síkság felett.",
+        "A kráter környezetében a vulkáni gázokból vastag, tiszta sárga kénből álló kérgek csapódtak ki.",
+        "Az utolsó jelentős, geológiailag bizonyított magmaömlés a becslések szerint a holocén korszakban történt.",
+        "A fő túraútvonal kiindulópontjának számító Darreh-e Gol alaptábor nagyjából 2500 méteren fekszik.",
+        "A hegy lábánál futó mély folyóvölgyekben ásványi anyagokban gazdag, természetes meleg hőforrások törnek fel.",
+        "Az erősen toxikus, kénes környezet miatt a csúcs közvetlen közelében csak extrém tűrőképességű növény él meg."
+      ]
+    },
+    {
+      "id": "kopet-dag-relief-v2",
+      "descriptionAdvanced": "A Kopet-dag egy hosszú, erősen tagolt és töredezett hegylánc, amely a természetes és egyben hivatalos politikai határt is kijelöli az északkelet-iráni Horászán tartomány és a szomszédos Türkmenisztán között. A régiót meredek, világos mészkőszirtek, szűk, víz vájta mély szurdokok és szélsőséges hőmérséklet-ingadozásokkal járó zord kontinentális éghajlat jellemzi. A történelem során a hegyvidék a híres Selyemút egyik fontos ütközőzónája és tranzitútvonala volt, amiről a hegyi völgyekben ma is megfigyelhető, romos karavánszerájok tanúskodnak. Ökológiai szempontból a Kopet-dag kulcsfontosságú, elszigetelt menedéket nyújt számos ritka közép-ázsiai állatfaj, köztük a vadjuhok és az ázsiai leopárdok számára. A karsztvidék nehéz megközelíthetősége sokáig megóvta a területet a beavatkozásoktól.",
+      "factsAdvanced": [
+        "A robusztus hegylánc kiterjedése az iráni-türkmén határ mentén megközelítőleg 650 kilométer.",
+        "A masszívum legmagasabb iráni pontja, a Kucsan-hegy pontosan 3191 méteres magasságba emelkedik.",
+        "Egy 1948-as rendkívül erős tektonikus rengés a hegység mentén súlyos pusztítást végzett Asgabat városában.",
+        "Az iráni oldalon fekvő kiterjedt Tandoureh Természetvédelmi Terület több mint 73 000 hektárnyi élőhelyet óv.",
+        "Ez a hatalmas gyűrthegység túlnyomórészt a késő kréta és a kora harmadidőszak folyamán formálódott.",
+        "A hegyeket keresztbe átszelő meredek karsztszurdokok mélysége helyenként a megdöbbentő 500 métert is eléri."
+      ]
+    },
+    {
+      "id": "makran-coast-relief-v2",
+      "descriptionAdvanced": "A délkelet-iráni Makrán-part a világ egyik legzordabb, legforróbb és legérintetlenebb partvonala, amely hosszan az Ománi-öböl mentén húzódik. A tengerparti tájat hihetetlen és drámai kontrasztok jellemzik, hiszen az extrém száraz sivatagi klíma itt találkozik az Indiai-óceán hatalmas, sós víztömegével. A szél és a hullámok évezredes eróziója által kifaragott, szürreális formájú homokkő sziklák tornyosulnak az elhagyatott homokos strandok és apró rejtett öblök fölé. A régió legjellegzetesebb geológiai érdekességeit az aktív iszapvulkánok jelentik, amelyek forró láva helyett hideg, szürke iszapot és gázokat lövellnek a felszínre. A ritkán lakott partvidék háborítatlan strandjai a tengeri teknősök fontos fészkelőhelyei, míg a belső sivatagi részek megőrizték archaikus hangulatukat.",
+      "factsAdvanced": [
+        "A sziklás, kopár partvonal több mint 1000 kilométer hosszan húzódik Irán délkeleti részétől Pakisztánig.",
+        "A híres Gel-Afshan iszapvulkán olykor elképesztő, 10 méteres magasságba is kilöveli a sűrű szürke iszapot.",
+        "A Csáhbáhár melletti hegyek erősen barázdált, úgynevezett marsi kőzetformációin szinte egyáltalán nincs növényzet.",
+        "A régióban található nyüzsgő Csáhbáhár kikötője Irán egyetlen közvetlen, mélyvízi kijárata az Indiai-óceánra.",
+        "A szárazföld belső sivatagos részein a nyári hőség szélsőséges esetben a perzselő 50 Celsius-fokot is átlépheti.",
+        "A Tang falu környéki háborítatlan finomhomokos partokon ritka levesesteknősök rakják le védett tojásaikat."
+      ]
+    },
+    {
+      "id": "binalud-relief-v2",
+      "descriptionAdvanced": "A Binalud-hegység méltóságteljesen és hosszan húzódik Irán északkeleti részén, Razavi Horászán tartományban, robusztus természetes gátat képezve Nisápur történelmi síksága és a meshedi metropoliszövezet között. A régióban gyakran csak Horászán tetőjeként emlegetett masszívum leginkább kiterjedt és magasan fekvő nyári legelőiről híres, ahol a helyi pásztorok évszázadok óta legeltetik nomád nyájaikat. Télen az intenzív hegyi havazás a magasabb régiókat vastag, tartós fehér takaróba burkolja, amelynek tavaszi olvadékvize létfontosságú vizet biztosít a környező száraz völgyek számára. A lankás dombokat, meredek sziklafalakat és zöldellő, gyümölcsösökkel teli folyóvölgyeket felvonultató változatos domborzat kiváló célpont a hegymászóknak. A hegy lábánál meghúzódó falvak lépcsőzetes építészetükkel igazi ékkövek.",
+      "factsAdvanced": [
+        "A tekintélyes, 3321 méteres Sirbád a legmagasabb hegycsúcs egész Razavi Horászán széles tartományában.",
+        "A teljes hegymasszívum északnyugat-délkeleti irányban mintegy 130 kilométer hosszan uralja a tájat.",
+        "Az olyan bővizű völgyek, mint Akhlamad, lenyűgöző magas vízeséseikről és gazdag almaültetvényeikről ismertek.",
+        "A magaslati, háborítatlan régiókban rengeteg ritka gyógynövény terem, amelyeket a helyi lakosság gyűjt és árusít.",
+        "A hegység elengedhetetlen vízgyűjtő területe a térség olyan fontos, történelmi folyóinak, mint a Kasaf Rud.",
+        "A Kang környéki hegyi falut gyakran dicsérik egyedülálló, hegyoldalba simuló lépcsőzetes építészete miatt."
+      ]
+    },
+    {
+      "id": "shahdad-kaluts-relief-v2",
+      "descriptionAdvanced": "A Szahdad kalutjai az életbarátlan, hírhedt Lut-sivatag nyugati peremén fekszenek, és egy olyan szürreális, apokaliptikus tájat alkotnak, amely leginkább egy óriási, elhagyatott ősi sárváros romjaira emlékeztet. Ezeket az úgynevezett yardang-képződményeket az extrém erős, csiszoló homokkal telített szelek kíméletlen ereje vájta bele a puha agyagos és sós kőzetbe az évezredek során. A tömörített homokból és iszapból álló, mélyen barázdált formációk tökéletesen követik az északnyugati uralkodó szélirányt, napkeltekor pedig extrém hosszú, éles árnyékokat vetnek a síkságra. A teljes csapadékhiány és az égető hőség miatt ez a vidék biológiailag szinte teljesen halott. A bizarr homokkő-architektúra végtelen kiterjedése mágnesként vonzza a világ sivatagi kutatóit és fotósait.",
+      "factsAdvanced": [
+        "A hatalmas kalutok formációinak területe elképesztő, mintegy 11 000 négyzetkilométeres kiterjedést foglal el.",
+        "A leghosszabb, megszakítás nélküli yardang-vonalak a sivatagban akár a 120 kilométeres hosszt is elérhetik.",
+        "A forró nyári hónapokban a szűk, szélvédett szurdokvölgyek alján a hőmérséklet a 65 Celsius-fokot is túllépi.",
+        "A szél pusztító eróziója az agyagos talajban helyenként akár 100 méter mély völgyeket és barázdákat vájt.",
+        "A lenyűgöző formációk túlnyomórészt egy rég kiszáradt pliocén kori sóstó finom üledékes lerakódásaiból állnak.",
+        "A kalutok páratlan geológiai területét a Lut-sivatag részeként 2016-ban az UNESCO világörökség részévé nyilvánította."
+      ]
+    },
+    {
+      "id": "alamut-valley-relief-v2",
+      "descriptionAdvanced": "A történelmi és legendás Alamut-völgy a nyugati Elburz-hegység zord, nehezen járható szívében, a magashegyi Kazvin tartományban rejtőzik. Ez a drámai, meredek sziklafalakkal mélyen bevágódott szurdokvidék a lenyűgöző alpesi szépséget és az évszázados történelmi misztikumot ötvözi. Az elszigetelt, kanyargós völgyet a sebes sodrású Sahrud folyó szeli át, melynek keskeny teraszain a helyiek évszázadok óta intenzíven gyümölcsfákat, főként vadcseresznyét és mogyorót termesztenek. A régió nemzetközi hírnevét elsősorban Alamut bevehetetlennek hitt várának köszönheti, amely a 11. században az iszmáilita aszaszin szekta félelmetes központjaként működött a magas sziklaszirten. Ma a civilizációtól távoli, autentikus régió elsősorban a kihívást kereső hegyi túrázókat vonzza, akiket lenyűgöz a vad táj.",
+      "factsAdvanced": [
+        "Alamut egykori várának masszív romjai látványosan egy 2100 méter magas, szinte függőleges sziklakúp tetején týrónak.",
+        "A rejtett hegyi völgy nagyjából 100 kilométerre északkeletre helyezkedik el Kazvin ősi szafavida fővárosától.",
+        "A hírhedt aszaszin erődöt 1256-ban a feltartóztathatatlanul előnyomuló, Hulagu kán vezette mongol seregek rombolták porig.",
+        "A völgy közelében fekvő kristálytiszta, festői Ovan-tó 1800 méteres tengerszint feletti magasságban terül el.",
+        "A mély szurdokvölgyekben gazdaságilag is kiemelkedően jelentős kiterjedésű vadcseresznye- és mogyoróerdők tenyésznek.",
+        "A rendkívül zord téli éghajlat miatt a magas hófúvások gyakran hosszú hónapokra elzárják a hegyi hágókat."
+      ]
+    },
+    {
+      "id": "maranjab-desert-relief-v2",
+      "descriptionAdvanced": "A Maranidzsáb-sivatag egy gyönyörű, könnyen megközelíthető táj Közép-Iránban, amely közvetlenül a hatalmas, kiszáradt Namak-sóstó déli partvidékén, a történelmi Kásán oázisváros közelében fekszik. Vizuális arculatát a magas, szélfútta aranysárga homokdűnék, a kemény felszínű, sötét kavicsos síkságok és a vakítóan hófehér sómezők dinamikus, hirtelen váltakozása határozza meg. A sivatag évszázadokon át az ősi Selyemút egyik legforgalmasabb tranzitállomása volt, ezért I. Abbász sah a 17. században egy robusztus, kőből épült karavánszerájt emeltetett ide, amely máig menedékként szolgál a kietlen tájban. A kíméletlen szárazság dacára Maranidzsáb meglepően sokszínű sivatagi növényzetnek és vadállatnak, például homoki rókáknak ad otthont. Napjainkban a csillagászok és terepjárós túrázók egyik kedvenc helyszíne.",
+      "factsAdvanced": [
+        "A tekintélyes kőből épült történelmi Maranidzsáb karavánszerájt 1603-ban emelték sivatagi őrhelyként és pihenőállomásként.",
+        "A sivatagi régió legmagasabb, szél által formált vándordűnéinek magassága elérheti az impozáns 70 métert is.",
+        "A közvetlenül határos, vakítóan fehér Namak-sóstó teljes kiterjedése eléri a hatalmas 1800 négyzetkilométert.",
+        "A masszív karavánszeráj épülete átlagosan 850 méteres tengerszint feletti magasságban, egy síkságon helyezkedik el.",
+        "A sivatag elhagyatott peremvidéke létfontosságú védelmet nyújt a ritka, végveszélyben lévő ázsiai vadszamarak elszigetelt populációinak.",
+        "A rendkívül száraz éghajlatú vidéken az átlagos évi csapadékmennyiség csak a legritkább esetben haladja meg a 100 millimétert."
+      ]
+    },
+    {
+      "id": "caspian-coast-iran-relief-v2",
+      "descriptionAdvanced": "Az iráni Kaszpi-tenger széles, északi partvidéke megdöbbentő és radikális tájképi kontrasztot alkot az ország szárazföldi részét uraló, zord, csapadékhiányos fennsíkokkal. Az Elburz-hegység áthatolhatatlan orografikus gátként magasodik a tenger fölé, amely megállítja és kicsapja az északról érkező nedves légtömegek páratartalmát, ezáltal a keskeny part menti sáv folyamatosan zöldellő, dús szubtrópusi övezetté válik. Ezt a rendkívül termékeny alluviális síkságot ősi, sűrű hürkániai erdők, kiterjedt teraszos rizsföldek, sötétzöld teaültetvények és illatos citruskertek borítják. A Föld legnagyobb sós vizű tavának számító Kaszpi-tenger a világhírű iráni kaviár- és tokhalászat globális központja, miközben a meleg, párás klíma az ország legvonzóbb belföldi nyaralóhelyévé teszi a régió tengerparti városait.",
+      "factsAdvanced": [
+        "A Kaszpi-tenger rendkívül tagolt iráni partvonala összesen mintegy 740 kilométer hosszan nyúlik el északon.",
+        "A hatalmas kiterjedésű tó víztükre geológiai anomáliaként körülbelül 28 méterrel a globális óceáni tengerszint alatt helyezkedik el.",
+        "A partvidék felett húzódó, biológiailag páratlan hürkániai őserdőket 2019-ben felvették az UNESCO természeti világörökségi listájára.",
+        "A tengerparti Rámszar városában az éves csapadékmennyiség rendszeresen eléri a trópusi szintű 1200-1500 millimétert.",
+        "A mélyebb, hideg vizek biztosítják a természetes élőhelyet a világ értékes vizafogásának (beluga tokhal) mintegy 90 százaléka számára.",
+        "Ez a viszonylag kis kiterjedésű, ám rendkívül termékeny tengerparti síkság adja a teljes hazai rizs- és teatermelés túlnyomó részét."
+      ]
+    },
+    {
+      "id": "persian-gulf-coast-relief-v2",
+      "descriptionAdvanced": "Irán Perzsa-öböl menti hosszú, déli partvonala egy lenyűgöző, perzselően forró és extrém párás régió, amely az Arvand Rud folyó iszapos torkolatvidékétől a stratégiai és kereskedelmi szempontból is létfontosságú Hormuzi-szorosig húzódik. Az északi sűrű, zöldellő erdőkkel éles ellentétben ezt a partvidéket az óceán által csipkézett mészkőszirtek, elhagyatott, finom homokos strandok és hatalmas kiterjedésű árapálysíkságok tagolják. A térség egyik legfontosabb ökológiai menedéke a Kesm-szigetnél elterülő Hara mangroveerdő, amely a magas sótartalomhoz egyedülálló módon alkalmazkodott ökoszisztémaként több ezer vándormadárnak nyújt táplálékot. A kikötővárosok, mint Bandar Abbász, építészetükben és zenéjükben az afrikai, arab és indiai kulturális hatások gazdag, fülledt keverékét őrzik a hagyományos széltornyok árnyékában.",
+      "factsAdvanced": [
+        "A sekély, meleg vizű déli iráni partvonal hossza megközelíti a lenyűgöző és gazdaságilag is kritikus 1250 kilométert.",
+        "A védett tengeri térségben elterülő Hara bioszféra-rezervátum kiterjedése sárgás vizével mintegy 85 000 hektárt tesz ki.",
+        "A fojtogató nyári kánikulában az extrém magas tengeri páratartalom miatt a hőérzet akár a halálos 60 Celsius-fok fölé is emelkedhet.",
+        "A parti sekély zónában fekvő Kesm-sziget az egész Perzsa-öböl legnagyobb szigete a maga 1491 négyzetkilométeres kiterjedésével.",
+        "A zavaros, hordalékos sekély parti vizek adnak biztonságos otthont a veszélyeztetett indopacifikus púposdelfinek nagy populációinak.",
+        "A világ nyers tengeri kőolajkereskedelmének mintegy húsz százaléka halad át naponta hatalmas tankereken a szomszédos Hormuzi-szoroson."
+      ]
+    }
+  ]
+}

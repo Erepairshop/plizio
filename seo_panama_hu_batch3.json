@@ -1,0 +1,64 @@
+{
+  "lang": "hu",
+  "country": "panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-ganadera-los-santos-life-v2",
+      "descriptionAdvanced": "A Los Santos tartományban található állattenyésztő farmok az Azuero-félszigeten a hagyományos panamai marhatenyésztés központját képviselik. Ez a régió Panama kulturális szíve, amelyet erősen befolyásoltak a spanyol gyarmati hagyományok és a 'santeños' (Los Santos lakói) életmódja. A hatalmas legelőkön elsősorban Brahma-marhákat (zebu) tenyésztenek, amelyek rendkívül ellenállóak a forró, száraz éghajlattal és a trópusi rovarokkal szemben. Az állattenyésztés itt nemcsak gazdasági tényező a hús- és tejtermelésben, hanem egy életforma is, amely hagyományos ünnepekben, lovasversenyekben és folklórruhákban nyilvánul meg. A legelők érdekében történő növekvő erdőirtás azonban hatalmas ökológiai kihívás, amely ellen most fenntartható, erdő-legelős (silvopastoral) gazdálkodással küzdenek. Földrajz K7 — Hagyományos állattenyésztés és földhasználat.",
+      "factsAdvanced": [
+        "A hagyományos marhatenyésztés központja a száraz Azuero-félszigeten.",
+        "A tenyésztők elsősorban hőségálló marhafajtákat, például Brahma-marhát használnak.",
+        "A marhatenyésztés szorosan összefonódik a helyi folklórral és a 'santeños' ünnepeivel.",
+        "A legelőterületek kialakítása erős erdőirtási problémákhoz vezetett a régióban.",
+        "Az új módszerek (silvopastoralismus) a legelőket fákkal kombinálják."
+      ]
+    },
+    {
+      "id": "parque-infantil-cinta-costera-life-v2",
+      "descriptionAdvanced": "A Cinta Costera ('Parti sáv') mentén található játszóterek Panama-város legmodernebb és leglátogatottabb közterületei közé tartoznak. A Cinta Costera egy hatalmas, csendes-óceáni partvonal-visszanyerési projekt, amelyet azért terveztek, hogy csökkentse a hatalmas forgalmi dugókat, ugyanakkor új kikapcsolódási területeket hozzon létre. A játszó- és sportterületek színes, biztonságos eszközökkel vannak felszerelve, és lélegzetelállító kilátást nyújtanak a város látképére, valamint a csatornán való áthaladásra váró hajókra. Ezek a parkok a modern városi újjáélesztés példái, amelyek különféle társadalmi rétegekből érkező családokat hoznak össze egy semleges, biztonságos helyen, közvetlenül a tengerparton. Ismeretismeret K5 — Modern városfejlesztés és kikapcsolódás.",
+      "factsAdvanced": [
+        "A Csendes-óceán mentén zajló hatalmas földvisszanyerési projekt (Cinta Costera) része.",
+        "Modern játszóeszközöket kínál a felhőkarcolókra és hajókra néző kilátással.",
+        "Sikeres példa új kikapcsolódási területek létrehozására egy sűrű városban.",
+        "Nagyon biztonságos és népszerű a minden társadalmi rétegből érkező család körében.",
+        "Kerékpárutak és sportlétesítmények kapcsolódnak hozzá."
+      ]
+    },
+    {
+      "id": "reserva-natural-punta-patino-life-v2",
+      "descriptionAdvanced": "A Darién tartományban található Punta Patiño Természetvédelmi Terület a legnagyobb magántulajdonban lévő természetvédelmi terület Közép-Amerikában, amelyet az ANCON nemzeti környezetvédelmi szervezet kezel. A rezervátum a San Miguel-öböl menti tengeri és szárazföldi élőhelyek mozaikját védi, beleértve hatalmas mangroveerdőket, kiterjedt vizes élőhelyeket és elsődleges esőerdőket. Ez az egyik utolsó bástyája a hatalmas hárpiászolynak, Panama nemzeti madarának, valamint a jaguároknak, tapíroknak és a ritka delfinfajoknak az öbölben. A rezervátum fontos társadalmi szerepet is játszik, együttműködve a helyi őshonos Emberá közösséggel a fenntartható ökoturizmus és a hagyományos kézművesség támogatása érdekében, ahelyett, hogy kivágnák az erdőt mezőgazdasági célokra. Biológia K8 — Magántermészetvédelmi területek és őshonos együttműködés.",
+      "factsAdvanced": [
+        "Közép-Amerika legnagyobb magánkézben lévő természetvédelmi területe.",
+        "A panamai ANCON természetvédelmi szervezet kezeli.",
+        "Mangroveerdőket, vizes élőhelyeket és elsődleges erdőket véd a San Miguel-öbölben.",
+        "Az egyik legjobb hely a ritka nemzeti madár, a hárpiászoly megfigyelésére.",
+        "Szorosan együttműködik az őshonos Emberá közösséggel az ökoturizmusban."
+      ]
+    },
+    {
+      "id": "finca-arroz-cocle-life-v2",
+      "descriptionAdvanced": "A Coclé tartományban, különösen a sík, nedves síkságokon található rizsfarmok stratégiai jelentőséggel bírnak Panama élelmezésbiztonsága szempontjából. A rizs (arroz) az ország abszolút alapélelmiszere, amelyet szinte minden háztartásban naponta fogyasztanak. A nagy farmok öntözőcsatornák és kis víztározók rendszerét használják a földek elárasztására a száraz évszakban. A termesztés erősen gépesített, a repülőgépes vetéstől (mezőgazdasági repülés) a hatalmas kombájnokkal történő betakarításig. Mivel a nemzeti rizsfogyasztás óriási, a panamai kormány erősen támogatja és védi ezeket a farmokat, hogy ne váljanak teljesen függővé a nemzetközi rizsimporttól. Földrajz K7 — Alapélelmiszerek és gépesítés.",
+      "factsAdvanced": [
+        "A rizs a panamai lakosság vitathatatlan alapélelmiszere.",
+        "Coclé sík területei ideálisak elárasztott rizsföldek számára.",
+        "A termesztés gyakran erősen gépesített, részben repülőgépes vetéssel.",
+        "Öntözőrendszereket használ a száraz évszak áthidalására.",
+        "A kormány támogatja a rizstermesztést az élelmezésbiztonság érdekében."
+      ]
+    },
+    {
+      "id": "parque-infantil-parita-life-v2",
+      "descriptionAdvanced": "Parita (Herrera tartomány) főterén található játszótér több mint egy játékhely; Panama egyik legrégebbi gyarmati településének központja. A teret körülvevő építészetet a hagyományos, vörös cseréptetős, faoszlopos vályogházak (Quincha) jellemzik. A történelmi gyarmati templom előtti park az a hely, ahol a gyerekek játszanak, miközben az idősebb generációk beszélgetnek. A helyszín a helyi ünnepségek, különösen az Úrnapja (Corpus Christi) központja, ahol színes hagyományos táncokat (Danza de Diablicos) adnak elő. Ezek a terek megőrzik a vidéki Panama közösségi karakterét. Ismeretismeret K5 — Vidéki terek és gyarmati hagyományok.",
+      "factsAdvanced": [
+        "Panama egyik legrégebbi gyarmati városának történelmi központjában található.",
+        "Hagyományos vályogházak veszik körül, jellegzetes vörös cseréptetőkkel.",
+        "Az öreg gyarmati templom előtti tér a közösség központi találkozóhelye.",
+        "Hagyományos ünnepek, mint például a 'Danza de Diablicos' helyszíneként szolgál.",
+        "Tükrözi a vidéki santeño kultúra erős társadalmi összetartását."
+      ]
+    }
+  ]
+}

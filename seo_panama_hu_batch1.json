@@ -1,0 +1,64 @@
+{
+  "lang": "hu",
+  "country": "panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "centro-rescate-anfibios-panama-life-v2",
+      "descriptionAdvanced": "A Panamai Kétéltűmentő Központ (Panama Amphibian Rescue and Conservation Project) egy sürgősségi válaszreakció a világszerte pusztító ktridgomba (chytrid fungus) okozta ökológiai katasztrófára. A Gamboában, a Panamai-csatorna közelében található létesítmény az Smithsonian Kutatóintézettel együttműködve működik, és egyfajta 'biológiai Noé bárkája'. A kutatók steril, hőmérséklet-szabályozott konténerekben tenyésztik a legveszélyeztetettebb panamai kétéltűeket. A legismertebb lakójuk az ikonikus panamai aranybéka (Rana Dorada), amely a vadonban már kihaltnak számít. A projekt célja a gomba elleni védekezés kidolgozása, hogy ezek a fajok egyszer visszatérhessenek természetes élőhelyükre. Biológia K8 — Biodiverzitás és kétéltűek védelme.",
+      "factsAdvanced": [
+        "A projektet a végzetes ktridgomba-járvány elleni védekezésre hozták létre.",
+        "A Smithsonian Kutatóintézet szakemberei vezetik a központot Gamboában.",
+        "Különleges, steril biokonténerekben tenyésztik a békafajokat.",
+        "Itt gondozzák a vadonban már kihalt panamai aranybékát.",
+        "Hosszú távú cél a gomba legyőzése és az őshonos fajok visszatelepítése."
+      ]
+    },
+    {
+      "id": "parque-municipal-summit-life-v2",
+      "descriptionAdvanced": "A Summit Városi Park egy botanikus kert és állatkert, amelyet 1923-ban alapítottak az amerikai csatornaövezet hatóságai. A Szoberanía Nemzeti Park lábánál, Panama-város peremén elterülő 250 hektáros terület eredetileg mezőgazdasági kutatóállomásként szolgált, ahol egzotikus növényeket, például teafát és mangófajtákat teszteltek a trópusi éghajlatra. Ma ez a park az egyik legfontosabb vadállat-mentő és rehabilitációs központ az országban, ahol lefoglalt vagy sérült jaguárokat, tapírokat és tukánokat ápolnak. A központ leghíresebb lakója a hárpiászoly (Águila Arpía), Panama nemzeti madara, amelyet egy speciális védőkifutóban mutatnak be. Biológia K7 — Artavédelem és környezeti nevelés.",
+      "factsAdvanced": [
+        "Eredetileg mezőgazdasági kutatóállomásként hozták létre 1923-ban.",
+        "Ma az ország legfontosabb vadállat-rehabilitációs központja.",
+        "Speciális nagy kifutóval rendelkezik a veszélyeztetett hárpiászoly számára.",
+        "Fontos oktatási célpont az iskolai osztályok számára környezeti nevelési programokkal.",
+        "A botanikus kert több mint 1000 növényfajt gondoz."
+      ]
+    },
+    {
+      "id": "finca-cafe-boquete-life-v2",
+      "descriptionAdvanced": "A Chiriquí tartomány hűvös, vulkanikus felföldjein található Boquete-i kávéfarmok a világ legdrágább és legelismertebb kávéit állítják elő. A Barú-vulkán lejtőin található tápanyagdús talaj és a folyamatos, 'bajareque'-nek nevezett hegyi köd egyedi mikroklímát teremt, amely lelassítja a kávécseresznyék érését, elmélyítve azok ízprofilját. Boquete világszerte ismert a 'Geisha' fajtáról, amely virágos, tea-szerű ízjegyekkel rendelkezik, és rekordokat döntöget a nemzetközi árveréseken. A látogatók végigkísérhetik a teljes folyamatot: az őshonos Ngäbe-Buglé munkások által végzett kézi szüreteléstől a mosáson át a szakszerű pörkölésig és kóstolásig (cupping). Földrajz K7 — Mezőgazdaság és mikroklímák.",
+      "factsAdvanced": [
+        "Boquete a világ egyik legelismertebb kávétermesztő régiója.",
+        "A vulkanikus talaj tökéletes tápanyagot biztosít a kávécserjéknek.",
+        "Világhírű az extrém minőségű 'Geisha' kávéjáról.",
+        "A nedves, ködös mikroklíma ('bajareque') javítja a kávészemek ízét.",
+        "A szüretet hagyományosan kézzel végzik az őshonos munkások."
+      ]
+    },
+    {
+      "id": "explora-centro-ciencias-life-v2",
+      "descriptionAdvanced": "Az Explora az első interaktív tudományos és művészeti múzeum gyermekek és fiatalok számára Panamában, amely Panama-városban található. Célja a STEM (tudomány, technológia, mérnöki és matematikai) tantárgyak iránti érdeklődés felkeltése játékos tanuláson keresztül. A több mint 60 interaktív kiállítás segítségével a gyerekek fizikai jelenségeket fedezhetnek fel, megérthetik az emberi test működését és a megújuló energia elveit. Az Explora fontos űrt tölt be a panamai oktatási rendszerben azzal, hogy az előadás-alapú tanítástól az aktív, 'kézzel fogható' felfedezés felé mozdul el. A központ nagy hangsúlyt fektet az esélyegyenlőségre, külön programokkal biztosítva a modern tudományhoz való hozzáférést a hátrányos helyzetű környékek gyerekei számára. Fizika K7 — Interaktív mechanika és természeti törvények.",
+      "factsAdvanced": [
+        "Panama első interaktív tudományos központja gyerekeknek.",
+        "Több mint 60 gyakorlati, 'kézzel fogható' kiállítás a mechanikáról és biológiáról.",
+        "Játékos módon egészíti ki a hagyományos iskolai tananyagot.",
+        "Különleges programokkal segíti a hátrányos helyzetű gyerekeket.",
+        "Robotikai és csillagászati műhelyeket szervez iskolai csoportoknak."
+      ]
+    },
+    {
+      "id": "parque-nacional-soberania-zoo-life-v2",
+      "descriptionAdvanced": "Bár a Szoberanía Nemzeti Park nem hagyományos állatkert, az egyik legkönnyebben megközelíthető vadon élő élőhely az állatmegfigyelésre Közép-Amerikában. A park, amely alig 25 kilométerre fekszik Panama-várostól, a csatorna partján, hihetetlen biodiverzitásáról híres, különösen a világszerte ismert 'Pipeline Road' mentén. Ez a földút madármegfigyelési rekordokat tart, gyakran egyetlen nap alatt több mint 300 madárfaj – köztük tukánok és trogonok – figyelhető meg. A sűrű trópusi esőerdő otthont ad üvöltőmajmoknak, kapucinusmajmoknak, lajhároknak, ormányos medvéknek és néha még jaguároknak is. A park hatalmas, nyitott szabadtéri laboratórium a biológusok és az ökoturisták számára egyaránt. Biológia K7 — Biodiverzitás a trópusi esőerdőben.",
+      "factsAdvanced": [
+        "105 000 hektáros nemzeti park a Panamai-csatorna mentén.",
+        "A 'Pipeline Road' a világ egyik legjobb madármegfigyelő helye.",
+        "Több száz madárfaj, majmok, lajhárok és ormányos medvék lakhelye.",
+        "Óriási szabadtéri laboratórium az Smithsonian Kutatóintézet számára.",
+        "Latin-Amerika egyik legkönnyebben megközelíthető őserdei területe."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeLifeV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeNatureV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cv-cidade-velha-history-v2",
+      "descriptionAdvanced": "Cidade Velha, eredeti nevén Ribeira Grande de Santiago, a trópusok első európai városa és a Zöld-foki-szigetek egykori gyarmati fővárosa. Az 1462-ben portugál hajósok által alapított település gyorsan a transzatlanti rabszolga-kereskedelem központi csomópontjává vált Afrika és Amerika között. Gazdag történelme ma is látható a romokban, a gyarmati építészetben és az impozáns erődben, amely egykor a kalózoktól védte az öblöt. 2009 óta az UNESCO Világörökség része, és mély betekintést nyújt a globalizáció kezdeteibe. A termékeny völgy éles kontrasztban áll Santiago egyébként kopár tájaival, és itt található Nyugat-Afrika legrégebbi kövezett utcája. Egy látogatás ide olyan, mint egy utazás a nagy felfedezők, például Vasco da Gama és Kolumbusz korszakába, akik mind megfordultak itt.",
+      "factsAdvanced": [
+        "A trópusok első európaiak által alapított városa (1462).",
+        "A Zöld-foki-szigetek fővárosa volt egészen 1770-ig.",
+        "2009-ben nyerte el az UNESCO Világörökség státuszt.",
+        "A transzatlanti rabszolga-kereskedelem kulcsfontosságú csomópontja volt.",
+        "Itt találhatók Nyugat-Afrika első katedrálisának romjai.",
+        "Híres felfedezők, például Vasco da Gama állomáshelye volt.",
+        "Itt található a Szaharától délre eső terület legrégebbi kövezett utcája.",
+        "A zöld-foki kreol kultúra kialakulásának jelképes helyszíne."
+      ]
+    },
+    {
+      "id": "cv-fortaleza-real-sao-filipe-history-v2",
+      "descriptionAdvanced": "A São Filipe királyi erőd (Fortaleza Real de São Filipe) fenségesen magasodik Cidade Velha felett egy fennsíkon, és a 16-17. században stratégiai bástyaként szolgált a kalóztámadások és a rivális gyarmattartó hatalmak ellen. Miután Sir Francis Drake brit kalandor 1585-ben pusztító támadást intézett a város ellen, az erődöt masszív védelmi rendszerként építették újjá. A stratégiai elhelyezkedés korlátlan kilátást biztosított a portugáloknak az öbölre, és lehetővé tette a tüzérség számára, hogy ellenőrizze a fontos kikötőhöz való tengeri hozzáférést. Ma az erőd gondosan restaurálva várja a látogatókat, bemutatva a gyarmati védelem taktikai mechanizmusait. A masszív kőfalak és bástyák mellett a jól megőrzött ciszternák is lenyűgözőek. A műemlék emellett látványos panorámát nyújt az egész partvidékre, tanúskodva arról az időről, amikor a Zöld-foki-szigetek geopolitikai kulcspont volt az Atlanti-óceánon.",
+      "factsAdvanced": [
+        "1587-től épült a kalóztámadások elleni védekezésül.",
+        "Sir Francis Drake 1585-ös pusztító támadására adott válaszként emelték.",
+        "120 méter magasan fekszik, kilátással Cidade Velha városára.",
+        "A reneszánsz katonai építészet kiemelkedő példája a térségben.",
+        "Történelmi bástyákkal és mély víztározóval rendelkezik.",
+        "Az egykori főváros legfontosabb védelmi rendszere volt.",
+        "Teljesen restaurálták és megnyitották a látogatók előtt.",
+        "A legjobb kilátópont a környék tengerparti panorámájának fotózásához."
+      ]
+    },
+    {
+      "id": "cv-pelourinho-cidade-velha-history-v2",
+      "descriptionAdvanced": "Cidade Velha pellengére (Pelourinho) komor emlékműként áll a történelmi főtér közepén, tükrözve a gyarmati korszak összetett igazságszolgáltatási történetét. Az 1512-ben manuelin stílusban emelt pellengér nemcsak a városi tekintély szimbóluma volt, hanem elsősorban az Afrikából érkező rabszolgák nyilvános büntetésének és eladásának helyszíneként szolgált. Ma az emlékmű nemzeti emlékhelyként funkcionál, amely a rabszolgaság örökségéről és az emberi jogok fejlődéséről való elmélkedésre hívja a látogatókat. A szigetcsoport egyik legrégebbi építészeti emlékeként a kőoszlop évszázadokon át túlélte a földrengéseket és a kalóztámadásokat. Az UNESCO által védett városmag közepén a pellengér mementóként emlékeztet a globális kereskedelemtörténet sötét oldalaira, ahol az építészeti pompa és az emberi szenvedés gyakran közel állt egymáshoz.",
+      "factsAdvanced": [
+        "Történelmi pellengér 1512-ből, manuelin stílusban faragva.",
+        "A portugál gyarmati igazságszolgáltatás központi szimbóluma.",
+        "Egykor a rabszolgák büntetésének és eladásának helyszíne volt.",
+        "Egész Nyugat-Afrika egyik legrégebbi fennmaradt műemléke.",
+        "Az UNESCO Világörökség részét képező város főterén található.",
+        "Fontos emlékhely a zöld-foki nemzeti emlékezet számára.",
+        "Számos kalóztámadást és természeti katasztrófát túlélte.",
+        "Kiemelkedő tájékozódási pont a vezetett történelmi túrák számára."
+      ]
+    },
+    {
+      "id": "cv-ruinas-se-catedral-history-v2",
+      "descriptionAdvanced": "A Sé-székesegyház romjai Cidade Velhában annak az építménynek a maradványai, amely egykor Nyugat-Afrika legnagyobb szakrális épülete és a Szaharától délre eső első egyházmegye székhelye lett volna. Az építkezés 1555-ben kezdődött, de a gazdasági nehézségek és az állandó támadások miatt több mint egy évszázadig elhúzódott. Befejezetlen pompája ellenére a masszív kőfalak hűen tükrözik a portugál korona vallási és politikai ambícióit a trópusokon. 1712-ben francia kalózok fosztották ki és rombolták le nagyrészt a katedrálist, ami felgyorsította a régi főváros hanyatlását. Ma a régészeti alapok melankolikus szépséget árasztanak, és értékes betekintést nyújtanak a korszak késő gótikus és reneszánsz építészetébe. A helyszín néma tanúja Ribeira Grande egykori fényének és tragikus pusztulásának.",
+      "factsAdvanced": [
+        "Az építkezés 1555-ben kezdődött a régió első egyházmegyéjének székhelyeként.",
+        "Egykor a trópusi Nyugat-Afrika legnagyobb vallási építménye volt.",
+        "1712-ben francia kalózok rombolták le a fosztogatásuk során.",
+        "A gótika és a reneszánsz építészeti elemeit ötvözi a romokon.",
+        "Fontos része a Cidade Velha UNESCO Világörökségi helyszínnek.",
+        "A gyarmati történelemre fókuszáló régészeti ásatások helyszíne.",
+        "Az egykori főváros hanyatlásának drámai szimbóluma.",
+        "Masszív alapjai helyi vulkáni kőzetből készültek."
+      ]
+    },
+    {
+      "id": "cv-tarrafal-concentration-camp-history-v2",
+      "descriptionAdvanced": "A tarrafali koncentrációs tábor, amelyet gyakran a \"lassú halál táboraként\" emlegettek, egy hírhedt börtönkomplexum volt, amelyet 1936-ban, a portugáliai tekintélyelvű Estado Novo rendszer idején hoztak létre. Elsősorban a Salazar-rezsim politikai ellenfeleinek, majd később az afrikai gyarmatok (Angola, Bissau-Guine és a Zöld-foki-szigetek) szabadságharcosainak embertelen körülmények közötti fogva tartására szolgált. A foglyok extrém hőségtől, kínzástól és trópusi betegségektől szenvedtek, ami a tábort a gyarmati elnyomás szimbólumává tette. Az 1974-es portugáliai szegfűs forradalom után a tábort végleg bezárták. Ma a létesítmény az Ellenállás Múzeumának ad otthont, amely a demokráciáért, az emberi jogokért és a nemzeti függetlenségért folytatott küzdelemre emlékeztet. A cellák és a megerősített kerítés meglátogatása nyomasztó, de szükséges lecke a totalitarizmusról és a szabadságért hozott áldozatokról.",
+      "factsAdvanced": [
+        "1936 és 1974 között működtette a portugál Salazar-rezsim.",
+        "A \"Lassú Halál Tábora\" (Campo da Morte Lenta) néven vált hírhedtté.",
+        "Politikai ellenfelek és afrikai függetlenségi harcosok börtöne volt.",
+        "Ma a nemzeti Ellenállás Múzeuma (Museu da Resistência) működik itt.",
+        "Szerkezetét a náci koncentrációs táborok mintájára alakították ki.",
+        "A gyarmati elnyomás áldozatainak fontos emlékhelye.",
+        "A portugáliai szegfűs forradalom után zárták be véglegesen.",
+        "Santiago szigetének északi részén, Chão Bom mellett található."
+      ]
+    },
+    {
+      "id": "cv-farol-dona-maria-pia-history-v2",
+      "descriptionAdvanced": "A Dona Maria Pia világítótorony, amely 1881-ben épült, jellegzetes pontként áll a Praia melletti Ponta Temerosa szikláin. Ez egy meghatározó navigációs pont volt a Dél-Atlanti-óceánt keresztező portugál tengeri útvonalak számára, amelyek a növekvő főváros kikötőjébe tartottak. A portugál Maria Pia királynőről elnevezett építmény a Zöld-foki-szigetek ipari és tengerészeti örökségének fontos darabját képviseli. A fehér, nyolcszögletű torony a 19. század végi gyarmati ipari építészet ritka példája, amely a mai napig megőrizte funkcióját. Kiváló kilátópontot nyújt az óceánra, segítve megérteni a szigetek történelmi függőségét az atlanti kereskedelemtől. A gőzhajózás korszakában ez a világítótorony nélkülözhetetlen jelzés volt az Európa, Afrika és Dél-Amerika között közlekedő hajók számára.",
+      "factsAdvanced": [
+        "1881-ben helyezték üzembe a késő gyarmati korszakban.",
+        "Portugál Maria Pia királynő tiszteletére nevezték el.",
+        "Nyolcszögletű falazott torony, amelynek magassága 21 méter.",
+        "Stratégiai helyszínen, a Praia melletti Ponta Temerosán található.",
+        "Az egész szigetcsoport egyik legrégebbi aktív világítótornya.",
+        "Az ország tengeri ipari örökségének kiemelkedő műemléke.",
+        "Biztosította a belépést Santiago szigetének stratégiai kikötőjébe.",
+        "Kedvelt kilátópont a partvonal és az óceán megfigyelésére."
+      ]
+    },
+    {
+      "id": "cv-palacio-presidencial-praia-history-v2",
+      "descriptionAdvanced": "A praiai elnöki palota a gyarmati korszak ikonikus épülete, amely ma a Zöld-foki Köztársaság államfőjének hivatalos székhelye. A 19. század végén a portugál kormányzó székhelyeként épült épület a neoklasszicista építészet kiváló példája, szimmetrikus vonalaival, nagy ablakaival és elegáns kertjeivel. A történelmi Plateau-n (fennsíkon) elfoglalt domináns pozíciója jelképezi az ország átmenetét a gyarmati előőrsből szuverén köztársasággá. Az évtizedek során az épület tanúja volt a nemzet legfontosabb politikai eseményeinek, a függetlenségi ceremóniáktól az állami látogatásokig. A hagyományos egyenruhát viselő díszőrség által őrzött palota a nemzeti szuverenitás és a politikai folytonosság szimbóluma marad. Építészete tükrözi azt a városfejlesztési ambíciót, amely Praiát a szigetcsoport adminisztratív központjává emelte.",
+      "factsAdvanced": [
+        "A 19. század végén épült a portugál kormányzók palotájaként.",
+        "A Zöld-foki Köztársaság elnökének hivatalos rezidenciája.",
+        "A neoklasszicista építészet pompás példája Nyugat-Afrikában.",
+        "A főváros, Praia történelmi Plateau negyedében található.",
+        "Az 1975. július 5-i függetlenségi nyilatkozat egyik helyszíne.",
+        "A nemzeti ünnepségek és diplomáciai fogadások központja.",
+        "Gondosan ápolt, történelmi kertek veszik körül az épületet.",
+        "Az államhatalom legfontosabb építészeti jelképe az országban."
+      ]
+    },
+    {
+      "id": "cv-quartel-jaime-mota-history-v2",
+      "descriptionAdvanced": "A Jaime Mota laktanya a Zöld-foki-szigetek egyik legrégebbi és legjobb állapotban fennmaradt katonai épülete, amely stratégiai helyen, Praia Plateau negyedében található. A 19. század elején épült laktanya a gyarmati erők főhadiszállásaként szolgált, amelyek feladata a rend fenntartása és a szigetcsoport védelme volt a tengeri támadásokkal szemben. Az építészetet masszív falak, tágas belső udvarok és tipikus gyarmati részletek jellemzik. Az épületet Jaime Motáról, az ország egyik jelentős katonai és történelmi személyiségéről nevezték el. A laktanyát ma is használják a Zöld-foki-szigetek fegyveres erői, szimbolizálva a katonai hagyományok és a nemzetvédelem folytonosságát. Impozáns jelenléte a városközpontban emlékeztet arra a döntő szerepre, amelyet Praia évszázadokon át a szigetek védelmi központjaként játszott.",
+      "factsAdvanced": [
+        "A szigetcsoport egyik legrégebbi katonai célú épülete.",
+        "A 19. század elején épült neoklasszicista stílusjegyekkel.",
+        "Stratégiai helyszínen, Praia történelmi központjában található.",
+        "A zöld-foki védelmi erők egyik fontos bázisa és főhadiszállása.",
+        "Jaime Mota nemzeti hősről kapta a nevét a függetlenség után.",
+        "A gyarmati infrastruktúra kiemelkedő építészeti emléke.",
+        "Túlélte az átalakulást a gyarmati sorból a független köztársasággá.",
+        "A nemzetbiztonság és a katonai folytonosság szimbóluma."
+      ]
+    },
+    {
+      "id": "cv-mindelo-historic-center-history-v2",
+      "descriptionAdvanced": "Mindelo történelmi központja São Vicente szigetén a 19. századi építészet szabadtéri múzeuma, amely a város nemzetközi tengeri csomópontként megélt aranykorát tükrözi. A város fejlődése szorosan összefüggött a Porto Grande kikötővel, amely a Brit-szigetekről az Atlanti-óceánon átkelő hajók nélkülözhetetlen szénraktárává vált. A kövezett utcákat színes neoklasszicista épületek szegélyezik, kovácsoltvas erkélyekkel és zöldellő belső udvarokkal, ami a városnak kozmopolita, európaias hangulatot kölcsönöz. Mindelót gyakran a Zöld-foki-szigetek \"kis Lisszabonjának\" nevezik, és ez a szigetcsoport intellektuális és zenei szíve. Itt, a matrózokkal teli kocsmákban született meg a morna, a nemzeti zenei stílus. A városmag megőrzése központi jelentőségű a nemzeti identitás és a zöld-fokiak kulturális nyitottsága szempontjából.",
+      "factsAdvanced": [
+        "Aranykorát a 19. században élte brit szénraktárként.",
+        "Híres a kiváló állapotban megőrzött neoklasszicista építészetéről.",
+        "A Zöld-foki-szigetek kulturális fővárosa és a morna bölcsője.",
+        "Kozmopolita kikötőváros, erős európai hatásokkal a városképben.",
+        "A világhírű énekesnő, Cesária Évora szülővárosa és otthona.",
+        "A zöld-foki irodalom és képzőművészet legfontosabb központja.",
+        "A Porto Grande kikötő egy vízzel telt vulkáni kráterben fekszik.",
+        "Gyakran emlegetik az Atlanti-óceán \"kis Lisszabonjaként\"."
+      ]
+    },
+    {
+      "id": "cv-torre-de-belem-mindelo-history-v2",
+      "descriptionAdvanced": "A mindelói Belém-torony (Torre de Belém) a híres lisszaboni névadó torony hű, bár valamivel kisebb másolata. Ez a Zöld-foki-szigetek és Portugália közötti elválaszthatatlan történelmi kapcsolatok látványos szimbóluma. A torony 1918 és 1921 között épült, abban az időben, amikor Mindelo a portugál gyarmatbirodalom egyik legjelentősebb kereskedelmi kikötője volt. Közvetlenül a parton helyezkedik el, eredetileg megfigyelőpontként és kikötői hivatalként szolgált, elegáns jelleget kölcsönözve a tengerparti látképnek. Ma a torony a Tengeri Múzeumnak ad otthont, amely a hajózástörténeti emlékeket, a tengeri élővilágot és a Porto Grande kikötő jelentőségét mutatja be. Késő manuelin építészete egzotikus jelenség az afrikai tájban, emlékeztetve a látogatókat a szigetcsoport tengeri elhivatottságára. São Vicente egyik legtöbbet fotózott és legkedveltebb műemléke.",
+      "factsAdvanced": [
+        "1918 és 1921 között épült manuelin stílusjegyekkel.",
+        "A híres lisszaboni Belém-torony kisebb léptékű replikája.",
+        "Ma a nemzeti Tengeri Múzeumnak (Museu do Mar) ad otthont.",
+        "Eredetileg a mindelói kikötői hatóság székhelye volt.",
+        "Fontos kulturális kapocs a Zöld-foki-szigetek és Portugália között.",
+        "A Porto Grande partjának legjellegzetesebb építészeti pontja.",
+        "São Vicente szigetének gyarmati virágkorát szimbolizálja.",
+        "Kedvelt kiindulópont a tengerparti sétákhoz Mindelóban."
+      ]
+    },
+    {
+      "id": "cv-fortim-del-rei-history-v2",
+      "descriptionAdvanced": "A Fortim d'El Rei egy történelmi erődítmény, amely stratégiai fontosságú dombon fekszik Mindelo felett, és a 19. században a Porto Grande kikötőt védte. Az 1852-ben épült erőd tükrözi São Vicente növekvő jelentőségét tengeri kereskedelmi csomópontként, és a szénkészletek biztosításának szükségességét a potenciális támadásokkal szemben. A történelem során az épület nemcsak védelmi pontként szolgált, hanem a diktatórikus rezsim idején politikai börtönként is használták, ami mély történelmi jelentőséget ad a helynek. Bár a létesítmény ma részben romos állapotban van, páratlan kilátást nyújt a kikötőre, Mindelo városára és a híres Monte Cara hegyre. A Fortim d'El Rei fontos hivatkozási pont a stratégiai atlanti kikötők militarizálásának megértéséhez az ipari expanzió idején, és mementóként áll a sziget változatos történelme előtt.",
+      "factsAdvanced": [
+        "1852-ben épült a mindelói kikötő védelmének biztosítására.",
+        "A legstratégiaiabb kilátópont a Porto Grande-öböl felett.",
+        "A 20. században a rezsim politikai börtöneként is funkcionált.",
+        "A szigetcsoport kevés fennmaradt 19. századi erődítményének egyike.",
+        "Az ipari fellendülés korszakának fontos történelmi műemléke.",
+        "Innen nyílik a legjobb panoráma a híres Monte Cara hegyre.",
+        "A gyarmati védelmi stratégia egykori központi eleme volt.",
+        "Tanúskodik a brit-portugál szénkereskedelmi együttműködésről."
+      ]
+    },
+    {
+      "id": "cv-historical-salt-pans-pedra-de-lume-history-v2",
+      "descriptionAdvanced": "A Pedra de Lume történelmi salinái (sóbányái) Sal szigetén, egy kialudt vulkán kráterében találhatók, és felbecsülhetetlen értékű ipari kulturális örökséget képviselnek. A sókitermelés itt a 18. században kezdődött, és a szigetet Brazília és Nyugat-Afrika piacainak jelentős exportőrévé tette. Az alkalmazott technológia, beleértve a sziklába vájt alagutakat és a fából készült kötélpályarendszereket, tükrözi a munkások találékonyságát a nehéz természeti erőforrások kiaknázásában. A salinák a 20. század közepéig jelentősen meghatározták Sal demográfiáját és gazdaságát. Ma a helyszín védelem alatt áll, és lenyűgöző képet nyújt a látogatóknak a múltbéli kemény munkáról, kombinálva a rózsaszín sókristályok vizuális élményével. Ez a nyersanyagipar emlékműve, amely a szigetnek a nevét adta (Sal jelentése só), és lerakta korai fejlődésének alapjait.",
+      "factsAdvanced": [
+        "A sókitermelés 1804-ben kezdődött Manuel António Martins vezetésével.",
+        "Egy kialudt vulkáni kráterben található, a tengerszint alatt.",
+        "Erről a helyről kapta a nevét Sal szigete (sal = só).",
+        "A szállításra használt történelmi fakötélpályák ma is láthatóak.",
+        "Egyedülálló ipari létesítmény egy krátertó különleges környezetében.",
+        "A 20. század közepéig a sziget központi gazdasági tényezője volt.",
+        "A kráter peremén átvezetve egy föld alatti alagúton át közelíthető meg.",
+        "Ma védett turisztikai látványosság, ahol a vízben való lebegés is kipróbálható."
+      ]
+    },
+    {
+      "id": "cv-forte-duque-de-braganca-history-v2",
+      "descriptionAdvanced": "A Forte Duque de Bragança a Boa Vista előtti apró, lakatlan Ilhéu de Sal Rei szigeten található, és a 19. századi kalózkodás elleni küzdelem néma tanúja. 1820-ban épült egy pusztító kalóztámadás után, feladata a sziget értékes sókészleteinek védelme volt. Bár ma romos állapotban van, a helyi vulkáni kőzetből és mészből készült szerkezet még mindig őrzi a korszak katonai tekintélyét. A kis szigeten elfoglalt elszigetelt helyzete titokzatos bájt kölcsönöz a helynek; csak hajóval érhető el. Az erőd tükrözi a szigeti közösségek sebezhetőségét a kalózokkal szemben, valamint a portugál korona erőfeszítéseit a Boa Vista sókereskedelméből származó bevételek biztosítására. Izgalmas célpont a történelem kedvelői számára, akiket vonzanak a tengeri erődítmények és a magányos felfedezések.",
+      "factsAdvanced": [
+        "1820-ban épült a kalóztámadások elhárítására.",
+        "A Boa Vista előtti kis Ilhéu de Sal Rei szigeten fekszik.",
+        "A szigetcsoport értékes sóexportját biztosította a tengeri rablók ellen.",
+        "Helyi vulkáni kőzetből és mészhabarcsból emelték a falait.",
+        "Stratégiailag fontos támaszpont volt az Atlanti-óceán középső részén.",
+        "A korabeli katonai építészet egyik fontos fennmaradt emléke.",
+        "Kizárólag hajóval érhető el Sal Rei városából.",
+        "A romoktól pazar kilátás nyílik a sziget partvonalára."
+      ]
+    },
+    {
+      "id": "cv-igreja-nossa-senhora-rosario-history-v2",
+      "descriptionAdvanced": "A Nossa Senhora do Rosário-templom Cidade Velhában a legrégebbi gyarmati templom a Zöld-foki-szigeteken, és felbecsülhetetlen értékű műemlék a trópusi kereszténység története szempontjából. Az 1495-ben épült templom az egyetlen az egész szigetcsoporton, amely megőrizte a portugál manuelin gótika stílusjegyeit. Speciális oldalkápolnája látványos gótikus bordás boltozatával az a hely, ahol híres hajósok imádkoztak az óceánon való átkelés előtt. A templom csodával határos módon túlélte a számos kalóztámadást, amelyek a város többi részét elpusztították, és több mint 500 éven át a közösség szellemi központja maradt. Kőpadlója alatt jelentős történelmi személyiségek sírjai találhatók, közvetlen kapcsolatot teremtve a felfedezések korával. Az UNESCO Világörökség szerves részeként mély szakralitással bíró helyszín.",
+      "factsAdvanced": [
+        "A Zöld-foki-szigetek legrégebbi gyarmati temploma, 1495-ben alapították.",
+        "Az ország egyetlen épülete, amely manuelin stíluselemeket tartalmaz.",
+        "A Cidade Velha UNESCO Világörökségi helyszín egyik legfontosabb eleme.",
+        "Olyan felfedezők történelmi imádkozóhelye volt, mint Vasco da Gama.",
+        "Azon kevés épületek egyike, amely túlélte a pusztító kalóztámadásokat.",
+        "A templom padlója alatt értékes történelmi sírlapok láthatóak.",
+        "A korai portugál expanzió kiemelkedő építészeti ékköve.",
+        "Több mint öt évszázada a helyi hitélet töretlen központja."
+      ]
+    },
+    {
+      "id": "cv-pacos-concelho-sao-filipe-history-v2",
+      "descriptionAdvanced": "A São Filipe városháza (Paços do Concelho) egy történelmi épület Fogo szigetének szívében, amely a régió 19. századi adminisztratív presztízsét tükrözi. Elegáns építészete a késő gyarmati stílus tökéletes példája, és harmonikusan illeszkedik a város történelmi együttesébe, amely a \"sobradóiról\" (gyarmati kúriáiról) híres. Az épület a helyi közigazgatás központi pontjaként szolgált a kávékereskedelem virágkorában, amikor São Filipe a szigetcsoport egyik leggazdagabb városa volt. A főtéren található városháza ma is a sziget adminisztratív szíve, megőrizve a történelmi tekintély és elegancia hangulatát. A látogatók megcsodálhatják a finom famunkákat és részleteket, amelyek a korszak kézművességét dicsérik. Büszke szimbóluma a fogói lakosok régóta fennálló adminisztratív autonómiájának.",
+      "factsAdvanced": [
+        "A 19. század óta Fogo szigetének adminisztratív központja.",
+        "A késő gyarmati építészet egyik kiemelkedő példája a városban.",
+        "São Filipe védett történelmi városmagjában található.",
+        "A kávékereskedelem révén szerzett gazdasági jólét jelképe.",
+        "A város főterének központi és meghatározó látványossága.",
+        "A mai napig a helyi önkormányzat székhelyeként funkcionál.",
+        "Része a zöld-foki \"sobrado\" építészeti örökségnek.",
+        "Fontos polgári ceremóniák és gyűlések patinás helyszíne."
+      ]
+    },
+    {
+      "id": "cv-igreja-sao-joao-batista-history-v2",
+      "descriptionAdvanced": "A Keresztelő Szent János-templom Nova Sintrában, Brava szigetén, egy letisztult szépségű vallási építmény, amely a szigetcsoport leghegyesebb és legvirágosabb szigetének központjában található. A 19. században épült templom tükrözi a helyi közösség mély áhítatát és a katolikus hit fontosságát a brava-iak mindennapjaiban. Építészete zökkenőmentesen illeszkedik az arisztokratikus városképbe, és gondozott kertek, valamint Nova Sintra jellegzetes macskaköves utcái veszik körül. Belseje hagyományos oltároknak ad otthont, és a város védőszentje tiszteletére rendezett éves ünnepségek központja. A templom a kulturális folytonosság szimbóluma marad, és nélkülözhetetlen tájékozódási pont bárki számára, aki ellátogat erre az elszigetelt és költői szigetre. Megtestesíti annak a közösségnek a szellemét, amely generációkon át ápolta hagyományait.",
+      "factsAdvanced": [
+        "Brava szigetének központi temploma Nova Sintra városában.",
+        "A 19. században épült, egyszerű és letisztult gyarmati stílusban.",
+        "A szigetcsoport \"virágvárosának\" építészeti középpontja.",
+        "A Szent János-napi (São João) vallási ünnepségek fő helyszíne.",
+        "Pompás kertek és arisztokratikus kúriák veszik körül.",
+        "Brava szigete kulturális identitásának meghatározó szimbóluma.",
+        "A mélyen gyökerező katolikus hit jelképe a helyi közösségben.",
+        "Látványos vulkanikus hegyi panoráma környezetében fekszik."
+      ]
+    },
+    {
+      "id": "cv-sobrados-sao-filipe-history-v2",
+      "descriptionAdvanced": "A São Filipe-i \"sobradók\" Fogo szigetén arisztokratikus gyarmati kúriák egyedülálló együttesei, amelyek a városnak megismételhetetlen történelmi karaktert kölcsönöznek. Ezeket az impozáns, kétszintes, széles faerkélyekkel rendelkező épületeket gazdag földbirtokosok emelték a kávé- és gyapotkereskedelem virágzása idején. Az építészet szigorú társadalmi hierarchiát tükröz: a földszint raktárként vagy a szolgálók szállásaként szolgált, míg az emelet az elit rezidenciája volt. São Filipe rendelkezik az ilyen jól megőrzött struktúrák legnagyobb sűrűségével az egész Zöld-foki-szigeteken, és felbecsülhetetlen értékű kulturális örökségnek számít. A látogatók végigsétálhatnak a kövezett utcákon, megcsodálva a művészien faragott famunkákat, amelyek a sziget aranykorára emlékeztetnek. Sok sobrado a tipikus pasztellszínekre van festve, meghatározva az ország második legöregebb városának arculatát.",
+      "factsAdvanced": [
+        "A 18-19. századi arisztokratikus kúriák egyedülálló együttese.",
+        "A kávétermesztésből eredő gazdasági fellendülés jellemző emlékei.",
+        "Kétszintes kialakítás, jellegzetes faerkélyekkel és belső udvarokkal.",
+        "A szigetcsoport legnagyobb sűrűségű sobrado-állománya itt található.",
+        "A Fogo szigetén jellemző történelmi társadalmi tagozódás szimbólumai.",
+        "São Filipe védett kulturális örökségének integrált részét képezik.",
+        "A Zöld-foki-szigetek második legöregebb városának építészeti jelképei.",
+        "A portugál vidéki kúriaépítészet helyi hatásait tükrözik."
+      ]
+    },
+    {
+      "id": "estadio-nacional-landmarks-v2",
+      "descriptionAdvanced": "A Zöld-foki Nemzeti Stadion (Estádio Nacional de Cabo Verde) a főváros, Praia Monte Vaca negyedében található, és az ország legmodernebb és legnagyobb sportlétesítménye. A 2014-ben, kínai nemzetközi együttműködés keretében átadott stadion 15 000 néző befogadására alkalmas, és a nemzeti labdarúgó-válogatott, a \"Tubarões Azuis\" (Kék Cápák) hivatalos otthonaként szolgál. Az aréna a legmodernebb műfüves borítással, korszerű médiaközponttal és atlétikai pályával van felszerelve, így a szigetcsoport sportfejlődésének szimbólumává vált. A labdarúgó-mérkőzések mellett a stadion jelentős kulturális eseményeknek és nemzetközi atlétikai versenyeknek is helyet ad, hozzájárulva a fiatalok aktív életmódjának népszerűsítéséhez. Modern építészete meghatározó látvány Praia északi városkapujánál.",
+      "factsAdvanced": [
+        "A Zöld-foki-szigetek legnagyobb és legmodernebb stadionja.",
+        "15 000 ülőhelyes befogadóképességgel rendelkezik.",
+        "A nemzeti labdarúgó-válogatott (Tubarões Azuis) hivatalos otthona.",
+        "Hivatalos megnyitója 2014 augusztusában volt.",
+        "Nemzetközi szabványoknak megfelelő atlétikai pályával felszerelt.",
+        "A Kínával való nemzetközi együttműködés és sportfejlődés szimbóluma.",
+        "Megfelel a szigorú FIFA biztonsági és technikai előírásoknak.",
+        "A nemzeti nagyrendezvények és koncertek központi helyszíne."
+      ]
+    },
+    {
+      "id": "farol-ponta-temerosa-landmarks-v2",
+      "descriptionAdvanced": "A Ponta Temerosa világítótorony Praia fennsíkjának (Plateau) legdélebbi pontján álló történelmi őrszem, amely a főváros stratégiai fontosságú kikötőjének bejáratát jelzi. Az 1881-ben épült fehér, nyolcszögletű torony immár több mint 140 éve bocsátja fényét a Közép-Atlanti-óceánra, elengedhetetlen eszközként szolgálva a hajózás biztonsága érdekében. Elhelyezkedése látványos panorámát nyújt az Atlanti-óceánra és Santiago szigetének szaggatott partvonalára. A világítótorony környéke a helyiek és a turisták körében is népszerű sétahely, ahol élvezhető a friss tengeri szellő és a nyugalom. A torony Praia szoros tengeri kötődését és fontos kereskedelmi csomópontként betöltött történelmi szerepét szimbolizálja. Klasszikus eleganciája miatt a főváros egyik legtöbbet fotózott látványossága.",
+      "factsAdvanced": [
+        "Történelmi világítótorony Praia legdélebbi pontján.",
+        "Nyolcszögletű, fehér falazott torony, amely 1881-ben épült.",
+        "Fontos navigációs pont a közép-atlanti hajóforgalom számára.",
+        "Innen nyílik a legjobb panoráma a praiai kikötőre.",
+        "A gyarmati korszak egyik legfontosabb tengerészeti műemléke.",
+        "Kedvelt találkozóhely a naplementi sétákhoz a fővárosban.",
+        "Stratégiai elhelyezkedés egy sziklás kiszögellésen az óceán felett.",
+        "A nemzeti tengerészeti hatóság folyamatosan karbantartja és üzemelteti."
+      ]
+    },
+    {
+      "id": "monumento-diogo-gomes-landmarks-v2",
+      "descriptionAdvanced": "A Diogo Gomes-emlékmű Praia történelmi Plateau negyedének déli szélén található, tisztelegve a portugál felfedező előtt, aki 1460-ban felfedezte Santiago szigetét. A navigátor impozáns bronzszobra az óceánra és a kikötőre tekint, amelyet ő térképezett fel először, szimbolikus hivatkozási pontot jelentve a település európai eredetéhez. Az emlékmű körüli kis tér élénk találkozóhely, ahonnan kiváló kilátás nyílik az Achada Santo António negyedre és a tengerre. Diogo Gomes központi alakja a Zöld-foki-szigetek történelmének, képviselve a nagy földrajzi felfedezések korát, amely felhelyezte a szigetcsoportot a világ térképére. A magas talpazaton álló szobor a főváros kulturális örökségének alapvető része, és az európai jelenlét kezdetét jelzi a trópusokon.",
+      "factsAdvanced": [
+        "Santiago szigete felfedezőjének (1460) tiszteletére emelt emlékmű.",
+        "Stratégiailag a történelmi Plateau (fennsík) peremén helyezkedik el.",
+        "Magas, díszes talpazaton álló bronzszobor.",
+        "Széles kilátást nyújt a kikötőre és a partvidékre.",
+        "A praiai városi séták egyik fontos tájékozódási és megállóhelye.",
+        "A szigetcsoport gyarmati történelmének kezdetét szimbolizálja.",
+        "A főváros látogatóinak körében kedvelt fotózási helyszín.",
+        "A fontos kormányzati és adminisztratív épületek közelében található."
+      ]
+    },
+    {
+      "id": "camara-municipal-praia-landmarks-v2",
+      "descriptionAdvanced": "A praiai városháza (Câmara Municipal) egy elegáns történelmi épület a Plateau negyed szívében, amely a főváros adminisztratív és kulturális központja. A portugál gyarmati stílusban emelt építményt szimmetrikus homlokzat, magas ablakok és egy központi erkély jellemzi – a 19. századi építészeti presztízs mintapéldája. A Praça Alexandre Albuquerque téren található, ahol a város fejlődésével kapcsolatos legfontosabb döntések születnek. Belseje eredeti díszítőelemeket őriz, amelyek a főváros igazgatási történetét tükrözik. A városháza nemcsak politikai intézmény, hanem a santiagói lakosok stabilitásának és polgári identitásának szimbóluma is. Impozáns jelenléte jelentősen meghatározza az óváros arisztokratikus karakterét.",
+      "factsAdvanced": [
+        "A főváros, Praia önkormányzatának székhelye.",
+        "A 19. században épült neoklasszicista stílusjegyekkel.",
+        "A portugál gyarmati adminisztratív építészet reprezentatív példája.",
+        "Központi helyen, a Praça Alexandre Albuquerque téren található.",
+        "Santiago szigete helyi politikai hatalmának központja.",
+        "A város védett építészeti örökségének szerves része.",
+        "Reprezentatív ülésteremmel rendelkezik a fontos gyűlésekhez.",
+        "Meghatározó építészeti pont a történelmi városközpontban."
+      ]
+    },
+    {
+      "id": "assembleia-nacional-landmarks-v2",
+      "descriptionAdvanced": "A Zöld-foki Nemzeti Gyűlés az ország demokráciájának szíve, amely egy modern, impozáns épületben kapott helyet Praia Achada Santo António negyedében. A letisztult vonalakkal és monumentális arányokkal rendelkező jellegzetes építészet a függetlenség utáni fiatal köztársaság szuverenitását és modern törekvéseit tükrözi. Itt gyűlnek össze a képviselők, hogy megvitassák a szigetcsoport törvényeit – ez a politikai pluralizmus és a nemzetközileg elismert demokratikus stabilitás szimbóluma. Az épületet gondozott kertek veszik körül, és számos nagykövetség és minisztérium közvetlen közelében található. A Nemzeti Gyűlés épülete fontos hivatkozási pont bárki számára, aki meg akarja érteni a kortárs zöld-foki állam működését. Belső kialakítása modern és funkcionális, a törvényhozói munka követelményeire szabva.",
+      "factsAdvanced": [
+        "A Zöld-foki Köztársaság törvényhozó hatalmának székhelye.",
+        "Modern építészeti nevezetesség Achada Santo António negyedében.",
+        "A nemzeti függetlenség és a demokrácia szimbóluma az országban.",
+        "A parlamenti viták és a törvényalkotás kizárólagos helyszíne.",
+        "Kiemelkedő épület Praia modern városi panorámájában.",
+        "A nemzeti politika és a diplomáciai fogadások egyik központja.",
+        "Egy dombon fekszik, ahonnan rálátás nyílik a fővárosra.",
+        "Nagy ülésteremmel rendelkezik a népképviselők számára."
+      ]
+    },
+    {
+      "id": "igreja-nossa-senhora-graca-landmarks-v2",
+      "descriptionAdvanced": "A praiai Nossa Senhora da Graça-templom a főváros legfontosabb katolikus katedrálisa, amely domináns pozíciót foglal el a Plateau negyedben található Praça Alexandre Albuquerque téren. A 19. században neoklasszicista stílusban épült templom egy korábbi, 16. századi kápolna helyén áll, és a zöld-foki társadalmat évszázadok óta meghatározó mély katolikus hit jelképe. Egyszerű, de elegáns fehér homlokzata két harangtoronnyal rendelkezik, belső tere pedig nyugalmat áraszt, ahol a helyiek istentiszteletekre és jelentős közösségi eseményekre gyűlnek össze. A templom tanúja volt a város számos történelmi fordulópontjának, és továbbra is spirituális horgony marad. Belsejét művészi oltárok és szobrok díszítik, amelyek a vallási hagyományokat tükrözik. Kötelező látnivaló a szakrális építészet és a kultúrtörténet iránt érdeklődők számára.",
+      "factsAdvanced": [
+        "A santiagói katolikus egyházmegye főszékesegyháza.",
+        "19. századi neoklasszicista építmény Praia központjában.",
+        "A történelmi Praça Alexandre Albuquerque téren található.",
+        "Egy 1516-ból származó kápolna alapjaira épült.",
+        "A főváros legfontosabb vallási ünnepeinek központi helyszíne.",
+        "Jellegzetes, ragyogóan fehér homlokzata messziről felismerhető.",
+        "Értékes sakrális műalkotásoknak és oltároknak ad otthont.",
+        "A Plateau negyed legfontosabb spirituális jelképe."
+      ]
+    },
+    {
+      "id": "palacio-justica-praia-landmarks-v2",
+      "descriptionAdvanced": "A praiai Igazságügyi Palota monumentális épület a város történelmi központjában, és a Zöld-foki-szigetek legmagasabb bírói szerveinek székhelyeként szolgál. Robusztus és józan építészete a törvény tekintélyét és pártatlanságát sugallja egy megszilárdult demokráciában. Az elnöki palota és a városháza közvetlen közelében helyezkedik el, teljessé téve az épületegyüttest, amely az ország politikai szívét alkotja a Plateau-n. Az épület tükrözi azt a fontosságot, amelyet a szigetcsoport a jogállamiságnak és az igazságszolgáltatás függetlenségének tulajdonít. A látogatók megcsodálhatják a homlokzat részleteit, amelyek a gyarmati elemeket ötvözik a modern funkcionális követelményekkel. A palota nemcsak adminisztratív hivatal, hanem az állampolgári jogok látható garanciája is a zöld-foki társadalomban. Tanúskodik a köztársaság függetlenség óta fennálló intézményi stabilitásáról.",
+      "factsAdvanced": [
+        "A Zöld-foki-szigetek Legfelsőbb Bíróságának székhelye.",
+        "Impozáns neoklasszicista épület a történelmi Plateau negyedben.",
+        "A jogállamiság és az igazságosság nemzeti szimbóluma.",
+        "Praia adminisztratív központjának szerves része.",
+        "Az ország legmagasabb szintű jogi hivatalainak ad otthont.",
+        "A gyarmati adminisztratív építészet egyik kiemelkedő példája.",
+        "A központi Praça Alexandre Albuquerque téren található.",
+        "A nemzet törvényhozási és jogi történelmének fontos műemléke."
+      ]
+    },
+    {
+      "id": "mercado-sucupira-landmarks-v2",
+      "descriptionAdvanced": "A Sucupira piac a Zöld-foki-szigetek legnagyobb és legélénkebb szabadtéri bazárja, amely Praia Fazenda negyedében, a történelmi Plateau lábánál található. Ez a főváros kereskedelmi szíve, ahol naponta emberek ezrei vásárolnak mindent a ruházattól és cipőktől kezdve az elektronikán át a helyi kézműves termékekig és hagyományos élelmiszerekig. Az atmoszféra elektromos, tele színekkel, fűszerek illatával és a standokról kiszűrődő afrikai zenével. Sucupira az a hely, ahol az afrikai és európai kultúrák a kereskedelem és a csere egyedülálló keverékében találkoznak. A turisták számára ideális célpont olyan autentikus szuvenírek beszerzésére, mint a \"Panu di Terra\" szövetek vagy a fogói kávé. Ez több, mint egy piac; egy társadalmi és kulturális élmény, amely meghatározza Praia lakóinak gyakorlatias és vidám szellemét.",
+      "factsAdvanced": [
+        "Az egész szigetcsoport legnagyobb szabadtéri piaca.",
+        "A praiai informális kereskedelem létfontosságú csomópontja.",
+        "A legjobb hely az autentikus kézműves termékek és helyi textilek beszerzésére.",
+        "A történelmi Plateau alatt, a Fazenda negyedben helyezkedik el.",
+        "Híres az élénk hangulatáról és kulturális sokszínűségéről.",
+        "Hagyományos afrikai szövetek (panu di terra) hatalmas választékát kínálja.",
+        "A helyi grogue és a fogói kávé egyik fő elárusítóhelye.",
+        "Fontos gazdasági motor több ezer kiskereskedő számára."
+      ]
+    }
+  ]
+}

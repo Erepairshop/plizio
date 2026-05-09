@@ -1,0 +1,360 @@
+{
+  "lang": "en",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "igreja-nossa-senhora-graca-landmarks-v2",
+      "descriptionAdvanced": "The Church of Nossa Senhora da Graca is the main Catholic cathedral of Praia, located on the historic Praca Alexandre Albuquerque in the Plateau district. Built in the neoclassical style during the 19th century, it stands on the site of an earlier 16th-century chapel, reflecting the deep religious roots of the capital. The church's elegant white facade and balanced proportions make it one of the most significant architectural landmarks in the city. As the seat of the Diocese of Santiago, it is the focal point for major religious ceremonies and festivals in Cape Verde. Its interior is known for its simplicity and serene atmosphere, providing a place of reflection in the heart of the bustling capital.",
+      "factsAdvanced": [
+        "Principal Catholic cathedral of the city of Praia.",
+        "Located in the historic Plateau district on the main square.",
+        "Built in the 19th century in the neoclassical architectural style.",
+        "Stands on the site of a much older 16th-century chapel.",
+        "Official seat of the Diocese of Santiago de Cabo Verde.",
+        "Focal point for the annual feast of Our Lady of Grace in August.",
+        "Characterized by its elegant white facade and serene interior.",
+        "A key historical and religious landmark in the nation's capital."
+      ]
+    },
+    {
+      "id": "palacio-justica-praia-landmarks-v2",
+      "descriptionAdvanced": "The Palacio da Justica in Praia is the impressive seat of the nation's judicial power, located on the historic Plateau. This grand neoclassical building is a testament to the country's institutional stability and its colonial architectural heritage. With its imposing entrance and balanced design, it remains one of the most prominent structures in the administrative heart of the capital. The palace houses the Supreme Court and other major judicial offices, playing a critical role in the governance and legal life of the archipelago. Its location on the main square, Praca Alexandre Albuquerque, places it alongside other fundamental state institutions, underscoring the Plateau's role as the historical center of power in Cape Verde.",
+      "factsAdvanced": [
+        "Seat of the Supreme Court and national judicial administration.",
+        "Located in the historic Plateau district of Praia.",
+        "Imposing neoclassical building with significant architectural value.",
+        "One of the primary institutional landmarks in the capital city.",
+        "Situated on the central Praca Alexandre Albuquerque square.",
+        "Symbol of the nation's legal system and rule of law.",
+        "Historically part of the colonial administrative complex of the city.",
+        "Features a grand entrance and well-preserved period interiors."
+      ]
+    },
+    {
+      "id": "mercado-sucupira-landmarks-v2",
+      "descriptionAdvanced": "Mercado de Sucupira is the largest and most famous open-air market in Cape Verde, located in the Várzea district of Praia. This sprawling and vibrant marketplace is the economic heartbeat of the capital, where thousands of people gather daily to trade everything from traditional African fabrics and clothing to electronics, fresh produce, and local handicrafts. Sucupira is more than just a place of commerce; it is a cultural crossroads that reflects the diverse influences and entrepreneurial spirit of the archipelago. Visitors can find authentic Cape Verdean street food, listen to the latest local music, and experience the energetic atmosphere of a true West African bazaar. It is a vital institution that supports the livelihoods of many small-scale traders.",
+      "factsAdvanced": [
+        "Largest open-air market in Cape Verde, located in Praia.",
+        "Vital hub for local commerce, handicrafts, and textiles.",
+        "Known for its energetic atmosphere and diverse range of goods.",
+        "Key place to experience authentic Cape Verdean street food.",
+        "Major employer and economic engine for the capital's residents.",
+        "Located in the Várzea district, just below the Plateau.",
+        "Reflects the cultural and social diversity of the archipelago.",
+        "Essential destination for anyone seeking local African products."
+      ]
+    },
+    {
+      "id": "biblioteca-nacional-landmarks-v2",
+      "descriptionAdvanced": "The National Library of Cape Verde (Biblioteca Nacional) is the country's primary institution for the preservation of its literary and intellectual heritage, located in the Plateau district of Praia. Established in 1999, it serves as the nation's legal deposit library, housing an extensive collection of Cape Verdean literature, historical documents, and academic works. The library is a center for research and culture, hosting regular book launches, literary debates, and educational programs aimed at promoting literacy and a love for reading. Its mission is to safeguard the collective memory of the islands and to provide access to information for students, scholars, and the general public. It stands as a symbol of the nation's commitment to education and intellectual growth.",
+      "factsAdvanced": [
+        "Primary repository of Cape Verde's literary and historical heritage.",
+        "Located in the historic Plateau district of the capital.",
+        "Established in 1999 as the nation's legal deposit library.",
+        "Houses a vast collection of Cape Verdean and Lusophone works.",
+        "Major center for research, education, and cultural events.",
+        "Acts as the coordinator for the national network of public libraries.",
+        "Promotes literacy and the dissemination of national literature.",
+        "A key institution for preserving the island nation's intellectual memory."
+      ]
+    },
+    {
+      "id": "estatua-amilcar-cabral-landmarks-v2",
+      "descriptionAdvanced": "The Statue of Amílcar Cabral in Praia is a powerful monument dedicated to the 'Father of the Nation' and the leader of the independence movement against Portuguese colonial rule. Located in a prominent position at the entrance to the Plateau, the statue depicts Cabral in a resolute pose, symbolizing his role as the architect of Cape Verdean and Bissau-Guinean liberation. Amílcar Cabral was a world-renowned revolutionary, intellectual, and poet whose legacy continues to inspire the nation and the African continent. The monument is a site of significant national ceremonies and a place of pilgrimage for those wishing to honor his sacrifice and vision. It stands as a testament to the struggle for freedom and the enduring spirit of the Cape Verdean people.",
+      "factsAdvanced": [
+        "Monument honoring Amílcar Cabral, the nation's liberation leader.",
+        "Located at the strategic entrance to the historic Plateau district.",
+        "Symbol of Cape Verde's independence and national identity.",
+        "Site of major national holidays and commemorative ceremonies.",
+        "Amílcar Cabral is the primary hero of the anti-colonial struggle.",
+        "The statue is a focal point for political and cultural events.",
+        "Represents the intellectual and revolutionary legacy of the leader.",
+        "Essential landmark for understanding modern Cape Verdean history."
+      ]
+    },
+    {
+      "id": "monumento-martires-pindjiguiti-landmarks-v2",
+      "descriptionAdvanced": "The Monument to the Martyrs of Pindjiguiti is a significant historical landmark in Praia that commemorates the victims of the 1959 massacre in Bissau, an event that was a major catalyst for the armed struggle for independence in Cape Verde and Guinea-Bissau. The monument honors the dockworkers who were killed by colonial police during a strike at the Pindjiguiti docks, an act of repression that unified the liberation movement under the PAIGC. Situated in a peaceful park in the capital, the monument serves as a somber reminder of the human cost of freedom and the shared history between the two brother nations. It is a place of reflection and education, ensuring that the sacrifices of the past are never forgotten in the independent Cape Verde.",
+      "factsAdvanced": [
+        "Commemorates the 1959 massacre of dockworkers in Bissau.",
+        "Significant landmark of the anti-colonial struggle in West Africa.",
+        "Symbolizes the shared liberation history with Guinea-Bissau.",
+        "Located in a commemorative park area in the capital, Praia.",
+        "Key site for understanding the origins of the independence movement.",
+        "The event was a turning point for the liberation party PAIGC.",
+        "Honors those who sacrificed their lives for national freedom.",
+        "Regular site for historical education and national ceremonies."
+      ]
+    },
+    {
+      "id": "palacio-governador-mindelo-landmarks-v2",
+      "descriptionAdvanced": "The Governor's Palace (Palácio do Governador) in Mindelo is one of the most elegant and historically significant buildings on Sao Vicente Island. This 19th-century colonial structure, with its balanced neoclassical facade and vibrant colors, served as the official residence of the island's governor during the Portuguese era. Today, it stands as a major cultural landmark and is often used for high-level government functions and exhibitions. Located in the heart of Mindelo, near the Porto Grande harbor, the palace reflects the city's golden age as a strategic Atlantic port. Its architectural beauty and well-preserved state make it a symbol of Mindelo's status as the cultural capital of the archipelago and its long-standing connection to the maritime history of the Atlantic.",
+      "factsAdvanced": [
+        "Historic 19th-century residence of the colonial governors.",
+        "Major architectural landmark in the center of Mindelo.",
+        "Features elegant neoclassical design and vibrant facades.",
+        "Symbol of Sao Vicente's historical importance as a maritime hub.",
+        "Currently used for government functions and cultural exhibitions.",
+        "Located near the historic harbor and the Praca Nova.",
+        "A well-preserved example of Portuguese colonial administration.",
+        "Key stop on any historical tour of the city of Mindelo."
+      ]
+    },
+    {
+      "id": "mercado-municipal-mindelo-landmarks-v2",
+      "descriptionAdvanced": "The Municipal Market of Mindelo is a vibrant and historic hub of local life, located in the center of Sao Vicente's cultural capital. Built in the colonial style, the market is famous for its lively atmosphere and the high quality of its fresh produce, which is brought in daily from the neighboring island of Santo Antao. Visitors can experience the sights and smells of authentic Cape Verdean commerce, with vendors selling tropical fruits, vegetables, traditional medicinal herbs, and locally made grogue. The market is also a social center where residents gather to exchange news and where the island's unique blend of African and European influences is most visible. It remains a vital institution that preserves the traditional culinary and commercial heritage of Mindelo.",
+      "factsAdvanced": [
+        "Historical center of commerce and social life in Mindelo.",
+        "Famous for fresh produce from the neighboring island of Santo Antao.",
+        "Major hub for tropical fruits, vegetables, and local grogue.",
+        "Features traditional colonial-style architecture and layout.",
+        "Authentic place to experience the daily life of Sao Vicente's residents.",
+        "Located in the busy commercial heart of the city.",
+        "Important center for the trade of traditional medicinal herbs.",
+        "A sensory landmark known for its vibrant colors and sounds."
+      ]
+    },
+    {
+      "id": "igreja-nossa-senhora-luz-mindelo-landmarks-v2",
+      "descriptionAdvanced": "The Church of Nossa Senhora da Luz is the principal Catholic church of Mindelo, located in the historic heart of the city. Built in the mid-19th century, its simple but elegant neoclassical architecture reflects the city's development during its rise as a major Atlantic port. The church is dedicated to the patron saint of Mindelo and serves as the focal point for the community's most important religious festivals, particularly the annual celebration of Our Lady of Light in September. Its interior is characterized by a peaceful atmosphere and traditional religious art. As one of the oldest and most significant buildings in Mindelo, it stands as a testament to the enduring faith and cultural identity of the people of Sao Vicente.",
+      "factsAdvanced": [
+        "Principal Catholic church and religious heart of Mindelo.",
+        "Built in the mid-19th century in the neoclassical style.",
+        "Dedicated to Our Lady of Light, the patron saint of the city.",
+        "Focal point for major religious festivals and community events.",
+        "Located in the historic center of Sao Vicente's capital.",
+        "Known for its elegant facade and serene religious interior.",
+        "One of the earliest architectural landmarks of the modern city.",
+        "Significant site of cultural and spiritual heritage for residents."
+      ]
+    },
+    {
+      "id": "farol-d-luis-landmarks-v2",
+      "descriptionAdvanced": "The Farol de D. Luís, also known as the Farol do Ilhéu dos Pássaros, is a historic lighthouse perched on a small, rocky islet at the entrance to the Porto Grande harbor in Mindelo. Named after King Luís I of Portugal and established in 1882, it has guided countless vessels safely into one of the Atlantic's most important natural harbors for over a century. The lighthouse is characterized by its white cylindrical tower and is an iconic part of Mindelo's maritime skyline. While it is not accessible to the general public, it is a constant presence for everyone in the city and a vital symbol of its maritime soul. The lighthouse remains a functional navigational aid, continuing its mission as a sentinel for the ships that connect Cape Verde to the world.",
+      "factsAdvanced": [
+        "Iconic lighthouse located on the Ilhéu dos Pássaros (Bird Islet).",
+        "Guards the entrance to the Porto Grande harbor since 1882.",
+        "Named after the Portuguese King Luís I.",
+        "Features a distinctive 5-meter tall white cylindrical tower.",
+        "A central symbol of Mindelo's maritime identity and history.",
+        "Visible from almost everywhere along the Mindelo waterfront.",
+        "Vital navigational aid for international shipping in the mid-Atlantic.",
+        "Historically significant for the development of Mindelo as a coaling station."
+      ]
+    },
+    {
+      "id": "camara-municipal-sv-landmarks-v2",
+      "descriptionAdvanced": "The Câmara Municipal de São Vicente is the seat of local government in Mindelo, housed in a grand and well-preserved 19th-century building in the city center. This architectural landmark, with its neoclassical design and balanced proportions, reflects the administrative importance and the civic pride of Cape Verde's second-largest city. The building serves as the center for urban planning and municipal administration, playing a vital role in the management of the island's cultural and economic heart. Its location near the main squares and the harbor makes it a focal point of public life. The Town Hall remains a symbol of Mindelo's institutional continuity and its transformation from a colonial outpost into a vibrant, modern city with a strong local identity.",
+      "factsAdvanced": [
+        "Administrative seat of the local government for Sao Vicente Island.",
+        "Located in a grand 19th-century neoclassical building in Mindelo.",
+        "Center of municipal governance and urban administration.",
+        "Significant architectural landmark in the historic city center.",
+        "Symbol of civic pride and institutional history of the island.",
+        "Features a distinctive facade with traditional colonial elements.",
+        "Located near other key landmarks like the Governor's Palace.",
+        "Vital for the management of the cultural capital of Cape Verde."
+      ]
+    },
+    {
+      "id": "liceu-gil-eanes-landmarks-v2",
+      "descriptionAdvanced": "The Liceu Gil Eanes is a historic and prestigious educational institution in Mindelo, often referred to as the 'cradle' of the Cape Verdean intellectual elite. Founded in the early 20th century, the school played a crucial role in the development of the national identity and the anti-colonial movement, as many of the country's future leaders and artists were educated here. The building itself is a fine example of colonial architecture, with its large courtyard and grand halls. Today, it continues to serve as a major center for secondary education on Sao Vicente Island, maintaining its reputation for academic excellence. The Liceu stands as a monument to the nation's commitment to education and the intellectual curiosity that has long characterized the people of Mindelo.",
+      "factsAdvanced": [
+        "Historic and prestigious secondary school founded in 1917.",
+        "Major center for the development of Cape Verde's intellectual elite.",
+        "Where many national leaders and independence heroes were educated.",
+        "A landmark of colonial educational architecture in Mindelo.",
+        "Symbol of the city's long-standing focus on culture and learning.",
+        "Named after the famous 15th-century Portuguese navigator.",
+        "Currently serves as the Escola Secundária Jorge Barbosa.",
+        "An essential site for understanding the modern history of the archipelago."
+      ]
+    },
+    {
+      "id": "cnad-mindelo-landmarks-v2",
+      "descriptionAdvanced": "The National Center for Art, Crafts, and Design (CNAD) in Mindelo is a vibrant cultural institution dedicated to the preservation and promotion of Cape Verdean creative expression. Housed in a beautifully restored colonial building and a striking modern extension, the center showcases the rich heritage of local handicrafts, weaving, and contemporary design. CNAD serves as a creative hub where artisans from across the islands can develop their skills and where the public can engage with the nation's diverse artistic traditions. Its exhibitions and workshops highlight the fusion of African and European influences that define Cape Verdean culture. The center is a testament to Mindelo's status as the cultural heartbeat of the nation and its dedication to nurturing the arts for future generations.",
+      "factsAdvanced": [
+        "National center for the promotion of Cape Verdean art and crafts.",
+        "Located in a unique architectural complex in the center of Mindelo.",
+        "Features a striking modern extension inspired by traditional weaving.",
+        "Hub for contemporary design and traditional artisanal techniques.",
+        "Hosts regular exhibitions of national and international artists.",
+        "Major institution for the development of the local creative economy.",
+        "Preserves the history of Cape Verdean textiles and handicrafts.",
+        "A key landmark in Mindelo's vibrant cultural landscape."
+      ]
+    },
+    {
+      "id": "estadio-aderito-sena-landmarks-v2",
+      "descriptionAdvanced": "The Estádio Adérito Sena is the primary sporting venue in Mindelo and the home of football on Sao Vicente Island. This historic stadium has a deep connection to the city's social life and has been the site of countless legendary matches between local rival teams and national competitions. Named after a prominent local athlete, the stadium has been modernized with synthetic turf and improved facilities to meet contemporary standards. It serves as a central hub for the island's vibrant football culture, which is an integral part of Sao Vicente's identity. The stadium is not only a place for sports but also a venue for major cultural events and concerts, reflecting the energetic and community-focused spirit of the people of Mindelo.",
+      "factsAdvanced": [
+        "Principal football stadium of Mindelo and Sao Vicente Island.",
+        "Named after the legendary local sportsperson Adérito Sena.",
+        "Hub for the island's passionate and vibrant football culture.",
+        "Hosts national league matches and major local derbies.",
+        "Equipped with modern synthetic turf and spectator facilities.",
+        "A central landmark for sports and community gatherings in the city.",
+        "Also serves as a venue for large-scale concerts and festivals.",
+        "Located in the busy Fonte Inês district of Mindelo."
+      ]
+    },
+    {
+      "id": "aeroporto-amilcar-cabral-landmarks-v2",
+      "descriptionAdvanced": "The Amílcar Cabral International Airport on Sal Island is a landmark of immense strategic importance in the history of Cape Verde. Established in 1939 as a refueling stop for flights between Europe and South America, it was for decades the country's only international gateway and a vital hub for transatlantic aviation. The airport played a crucial role in the development of Sal Island and the nation's economy, particularly in the rise of the tourism sector. Named after the liberation hero Amílcar Cabral, the facility has been modernized into a world-class airport that handles hundreds of thousands of visitors annually. Its presence has transformed Sal into an international destination, making it a powerful symbol of Cape Verde's connectivity and its role as a bridge between continents.",
+      "factsAdvanced": [
+        "Historically the nation's first and most strategic international airport.",
+        "Established in 1939 as a refueling hub for transatlantic flights.",
+        "Named after the national liberation hero Amílcar Cabral.",
+        "Primary driver of the tourism industry on the island of Sal.",
+        "Modernized facility capable of handling large international aircraft.",
+        "A symbol of Cape Verde's role as an Atlantic logistical hub.",
+        "Located near the island's administrative capital, Espargos.",
+        "A vital gateway connecting the archipelago to Europe and the Americas."
+      ]
+    },
+    {
+      "id": "igreja-nossa-senhora-conceicao-landmarks-v2",
+      "descriptionAdvanced": "The Church of Nossa Senhora da Conceição in São Filipe is a stunning 19th-century cathedral that serves as the religious heart of Fogo Island. This architectural landmark is famous for its vibrant blue facade and its well-preserved colonial-style interior, which features traditional wooden altars and religious icons. Located in the historic center of the city, the church stands as a symbol of the deep faith and cultural resilience of the people of Fogo. It is the focal point for the community's most important religious festivals, particularly the Feast of Our Lady of the Conception in December. Its elegant design and presence overlooking the Atlantic Ocean make it one of the most photographed and beloved landmarks in all of Cape Verde, reflecting the unique heritage of the volcanic island.",
+      "factsAdvanced": [
+        "Primary Catholic church and iconic landmark of Fogo Island.",
+        "Famous for its striking and vibrant blue exterior facade.",
+        "Built in the 19th century in the Portuguese colonial style.",
+        "Located in the heart of the historic center of São Filipe.",
+        "Dedicated to Our Lady of the Conception, the patron of the city.",
+        "Focal point for the island's major religious and social celebrations.",
+        "Features a well-preserved interior with traditional religious art.",
+        "One of the most beautiful and recognized buildings in the archipelago."
+      ]
+    },
+    {
+      "id": "camara-municipal-rg-landmarks-v2",
+      "descriptionAdvanced": "The Câmara Municipal de Ribeira Grande is the administrative seat of local government for the northern municipality of Santo Antão. Housed in a historic colonial-era building in the center of the town, its architecture reflects the administrative heritage and the civic pride of the island's oldest settlement. The building serves as the center for the governance of one of Cape Verde's most productive agricultural regions, playing a vital role in the management of the island's northern valleys. Its presence in Ribeira Grande underscores the town's status as the regional heart for administration, education, and commerce. The Town Hall remains a symbol of institutional continuity and a landmark of the town's long history as a focal point for the northern community.",
+      "factsAdvanced": [
+        "Seat of the local government for the Ribeira Grande municipality.",
+        "Located in a historic colonial building in the center of the town.",
+        "Administrative hub for the productive northern valleys of Santo Antão.",
+        "Major architectural and institutional landmark of the region.",
+        "Symbol of civic governance and municipal history on the island.",
+        "Manages one of the country's most significant agricultural zones.",
+        "Centrally located near the main marketplace and the parish church.",
+        "A key site for understanding the local governance of the archipelago."
+      ]
+    },
+    {
+      "id": "farol-fontainhas-landmarks-v2",
+      "descriptionAdvanced": "The Farol de Fontainhas, also known as the Farol de Ponta do Sol, is a historic lighthouse located on the northernmost tip of Santo Antão Island. Built during the Portuguese colonial era, it has served as a vital sentinel for ships navigating the treacherous waters between Santo Antão and São Vicente for over a century. The lighthouse is perched on a dramatic cliff, offering breathtaking views of the crashing Atlantic waves and the rugged northern coastline. While its main purpose is navigational, it has also become a significant landmark for hikers who visit the nearby village of Fontainhas, one of the most beautiful in the world. The lighthouse stands as a symbol of the maritime history of the northern islands and the resilience of those who have long guarded these remote shores.",
+      "factsAdvanced": [
+        "Historic lighthouse guiding ships at the northern tip of the island.",
+        "Located on a dramatic cliff overlooking the Atlantic channel.",
+        "A vital navigational aid for maritime traffic in the northern archipelago.",
+        "Landmark for hikers on the spectacular coastal trail of Santo Antão.",
+        "Established during the colonial period to improve maritime safety.",
+        "Offers some of the most stunning coastal views in Cape Verde.",
+        "Symbol of the rugged maritime heritage of the island's residents.",
+        "Located near the picturesque towns of Ponta do Sol and Fontainhas."
+      ]
+    },
+    {
+      "id": "centro-cultural-mindelo-landmarks-v2",
+      "descriptionAdvanced": "The Mindelo Cultural Center (Centro Cultural do Mindelo) is the premier venue for arts and culture in Cape Verde, located in a grandly restored colonial building that once served as the city's customs house. This architectural landmark is the heartbeat of Sao Vicente's cultural scene, hosting international theater festivals, jazz concerts, art exhibitions, and traditional music performances. The center also provides space for artists to work and for the community to engage in cultural workshops and educational programs. Its location on the Mindelo waterfront makes it a central part of the city's social fabric. The center stands as a monument to the island's dedication to creativity and its role as a crossroad of cultures in the Atlantic, continuing the legacy of the city's rich artistic heritage.",
+      "factsAdvanced": [
+        "Primary venue for the arts and theater in Cape Verde.",
+        "Housed in the magnificently restored former Customs House (Alfandega).",
+        "Hosts the renowned Mindelact international theater festival.",
+        "Major hub for live music, jazz, and traditional Cape Verdean arts.",
+        "Features art galleries, performance halls, and creative workshops.",
+        "Iconic architectural landmark on the Mindelo waterfront.",
+        "Central to the cultural identity and life of Sao Vicente Island.",
+        "A key destination for anyone wishing to experience the local arts scene."
+      ]
+    },
+    {
+      "id": "ponte-ferro-rg-landmarks-v2",
+      "descriptionAdvanced": "The Iron Bridge of Ribeira Grande (Ponte de Ferro) is a remarkable piece of industrial architecture located in the northern town of Santo Antão. Built during the early 20th century, it was a major engineering feat of its time, designed to span the deep river valley and connect the different parts of the town. The bridge's intricate iron lattice work and its durable construction have allowed it to withstand the powerful seasonal floods that characterize the region. Today, it remains a vital link for the local community and a powerful symbol of the town's historical development. The bridge is one of the most recognizable landmarks in Ribeira Grande, offering a unique perspective on the town's colonial past and the importance of engineering in overcoming the island's rugged and challenging topography.",
+      "factsAdvanced": [
+        "Historic iron lattice bridge built in the early 20th century.",
+        "Major engineering landmark in the town of Ribeira Grande.",
+        "Connects the two sides of the town over the deep river valley.",
+        "Built to withstand the powerful seasonal floods of the Ribeira.",
+        "A rare and well-preserved example of industrial colonial architecture.",
+        "Vital for the movement of people and goods within the town.",
+        "An iconic symbol of the town's heritage and modernization.",
+        "Offers a unique vantage point over the lush river landscape."
+      ]
+    },
+    {
+      "id": "jardim-botanico-santiago-life-v2",
+      "descriptionAdvanced": "The Jardim Botânico Nacional 'Grandvaux Barbosa' is Cape Verde's only botanical garden, located in the fertile Orgaos valley of Santiago Island. Established in 1986, it is a center for the conservation of the archipelago's unique and often endangered endemic flora. The garden is home to hundreds of species of plants, including rare medicinal herbs, indigenous trees, and traditional crops like coffee and sugarcane. It serves as a vital educational and research facility, helping to preserve the island's biodiversity and promoting environmental awareness among students and visitors. Set against the dramatic backdrop of the Orgaos mountains, the garden offers a peaceful and lush environment where the natural beauty and ecological richness of the islands are showcased and protected for future generations.",
+      "factsAdvanced": [
+        "The only national botanical garden in Cape Verde, founded in 1986.",
+        "Located in the fertile Ribeira dos Orgaos on Santiago Island.",
+        "Primary center for the conservation of endemic and endangered flora.",
+        "Named after the Portuguese botanist Luís Grandvaux Barbosa.",
+        "Features a wide collection of indigenous and medicinal plant species.",
+        "Major site for agricultural research and environmental education.",
+        "Surrounded by the spectacular peaks of the Serra dos Orgaos.",
+        "A key destination for eco-tourism and nature lovers."
+      ]
+    },
+    {
+      "id": "turtle-sos-sal-life-v2",
+      "descriptionAdvanced": "Project Biodiversity (Turtle SOS) on Sal Island is a leading non-profit organization dedicated to the protection of the endangered Loggerhead sea turtle (Caretta caretta) and the island's coastal ecosystems. Cape Verde is the third-largest nesting ground for Loggerheads in the world, and Sal is a critical site for their survival. The project operates several hatcheries and conducts nightly patrols of the beaches to protect nesting females from poaching and to ensure that hatchlings reach the sea safely. Visitors can participate in educational tours and witness the release of baby turtles, gaining a deeper understanding of the importance of marine conservation. The work of Turtle SOS is a vital example of community-led conservation that balances tourism with the protection of the island's most iconic and vulnerable wildlife.",
+      "factsAdvanced": [
+        "Major conservation project for Loggerhead sea turtles on Sal Island.",
+        "Cape Verde is the 3rd largest nesting ground in the world for this species.",
+        "Conducts beach patrols and operates protected turtle hatcheries.",
+        "Provides educational programs and guided eco-tours for visitors.",
+        "Critical for the survival of the endangered sea turtle population.",
+        "Works in partnership with local communities and international NGOs.",
+        "Most nesting activity occurs between June and October.",
+        "A leading example of marine biodiversity protection in the Atlantic."
+      ]
+    },
+    {
+      "id": "coffee-plantations-fogo-life-v2",
+      "descriptionAdvanced": "The coffee plantations of Fogo Island are the source of one of the world's most unique and highly prized Arabica coffees. Cultivated on the fertile, nutrient-rich volcanic slopes of the island's northern and eastern regions, the coffee benefits from a specific microclimate and the high mineral content of the volcanic soil. This 'Cafe de Fogo' is produced using traditional artisanal methods, with beans harvested by hand and dried in the sun. The plantations are often located at elevations between 300 and 1,000 meters, where the cool mountain air and regular mists create the ideal conditions for the coffee to develop its signature earthy and intense aroma. For the people of Fogo, coffee is more than just a crop; it is a vital part of their cultural heritage and a symbol of the island's unique agricultural character.",
+      "factsAdvanced": [
+        "Source of the premium and rare 'Cafe de Fogo' Arabica coffee.",
+        "Grown on the fertile volcanic slopes at high elevations.",
+        "Produced using traditional, manual, and chemical-free methods.",
+        "A major component of Fogo Island's cultural and economic identity.",
+        "Prized globally for its intense, earthy, and unique flavor profile.",
+        "Harvested between January and April by local farming families.",
+        "Grown primarily in the humid microclimates of the northern slopes.",
+        "A key highlight for gastronomic and agricultural tourism."
+      ]
+    },
+    {
+      "id": "vineyards-cha-caldeiras-life-v2",
+      "descriptionAdvanced": "The vineyards of Cha das Caldeiras are a remarkable example of agricultural resilience, located directly inside the volcanic crater of the Pico do Fogo. Despite the extreme conditions and the constant threat of eruptions, local farmers have cultivated vines in the black volcanic ash for over a century. The grapes, primarily of the Moscatel and Prete varieties, produce the unique and award-party Manecom wine, which is known for its intense flavor and high quality. The vines are grown in a traditional low-lying manner to protect them from the harsh mountain winds and to utilize the moisture trapped in the porous volcanic soil. The wine production is managed by a local cooperative, serving as the primary livelihood for the crater's residents and a powerful symbol of their unbreakable connection to the volcano.",
+      "factsAdvanced": [
+        "Unique vineyards located inside an active volcanic crater.",
+        "Producers of the famous Manecom wine and passito.",
+        "Vines are cultivated directly in nutrient-rich volcanic ash.",
+        "Primary economic activity for the residents of Cha das Caldeiras.",
+        "Managed by the Chã das Caldeiras Farmers' Cooperative.",
+        "Resilient agriculture that has survived multiple volcanic eruptions.",
+        "The volcanic soil provides a unique mineral profile to the wine.",
+        "A world-class destination for volcanic viticulture and wine tasting."
+      ]
+    },
+    {
+      "id": "banana-plantations-santa-cruz-life-v2",
+      "descriptionAdvanced": "The banana plantations of Santa Cruz, located on the eastern coast of Santiago Island, form the largest and most productive agricultural area in Cape Verde. These extensive groves of banana palms are situated in the fertile valleys of the Ribeira Seca, where the availability of groundwater and the rich soils support year-round production. The plantations are a vital part of the national food supply and a major source of income for thousands of local families. Visitors to the area can walk through the lush, tropical landscapes and witness the traditional methods of cultivation and harvesting that have defined the region's economy for generations. The green of the banana groves provides a striking contrast to the surrounding volcanic ridges, making it one of the most scenic agricultural landscapes in the archipelago.",
+      "factsAdvanced": [
+        "Largest and most productive banana-growing region in Cape Verde.",
+        "Located in the fertile Ribeira Seca valley of Santiago Island.",
+        "Primary supplier of fresh bananas to the markets of Praia.",
+        "Supports the livelihoods of thousands of residents in Santa Cruz.",
+        "Uses the island's largest concentration of agricultural groundwater.",
+        "A lush, tropical landscape that is a major feature of the east coast.",
+        "Key area for the development of modern irrigation techniques.",
+        "Fundamental to the nation's food security and rural economy."
+      ]
+    }
+  ]
+}

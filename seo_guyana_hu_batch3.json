@@ -1,0 +1,81 @@
+{
+  "lang": "hu",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mahdia-cities-v2",
+      "descriptionAdvanced": "Mahdia, a Potaro-Siparuni régió adminisztratív központja, mélyen Guyana Hinterlandjában, a sűrű esőerdők szívében fekszik. A település történelmileg az arany- és gyémántbányászathoz köthető, amely a mai napig meghatározza gazdasági jellegét és közösségi dinamikáját. A város stratégiai kiindulópontot jelent a világhírű Kaieteur-vízeséshez és a környező, érintetlen természeti területekhez, így az ökoturizmus egyre meghatározóbb tényezővé válik a helyi életben. Gazdaság K8 — a természeti erőforrások kitermelése és fenntartható hasznosítása.",
+      "factsAdvanced": [
+        "Mahdia a Potaro-Siparuni régió adminisztratív központja.",
+        "Az arany- és gyémántbányászat hosszú ideje a gazdaság fő alapja.",
+        "A város mélyen a guyanai esőerdő övezetében helyezkedik el.",
+        "Fontos logisztikai bázis a távoli bányászati régiók számára.",
+        "Közvetlen kaput nyit a látogatók előtt a Kaieteur-vízeséshez.",
+        "Az ökoturizmus növekvő jelentősége új távlatokat nyit a város életében."
+      ]
+    },
+    {
+      "id": "port-kaituma-cities-v2",
+      "descriptionAdvanced": "Port Kaituma az északnyugati Barima-Waini régió egyik legfontosabb települése, amely történelmileg bányászati központként vált ismertté. A város folyami kapcsolatai révén szorosan összefonódik a környező távoli területekkel, biztosítva az áruforgalmat és a lakossági mobilitást. A régió hatalmas biodiverzitása és a dús erdőborítottság komoly felelősséget ró a településre a természetvédelem terén. Port Kaituma ma a térség gazdasági és logisztikai központja, amely összeköti a modern ipari igényeket a helyi közösség életével. Földrajz K6 — az erdei környezet gazdasági hasznosítása.",
+      "factsAdvanced": [
+        "Port Kaituma az északnyugati Guyana fontos logisztikai központja.",
+        "Történelmileg a régió bányászati tevékenységének volt az egyik központja.",
+        "A vízi útvonalak a legfontosabb kapcsolódási pontok a környező vidékkel.",
+        "A hatalmas biológiai sokféleség a térség kiemelt jellemzője.",
+        "A gazdasági fejlődés szorosan összefügg a természeti erőforrások használatával.",
+        "A város az északnyugati térség gazdasági és kereskedelmi ütőere."
+      ]
+    },
+    {
+      "id": "kwakwani-cities-v2",
+      "descriptionAdvanced": "Kwakwani, a Berbice-folyó partján elterülő település, a guyanai erdőgazdálkodás egyik legfontosabb bázisa. A város gazdasági alapja évtizedek óta a környék esőerdeiből származó fakitermelés és szállítás, amely alapvetően meghatározza a település karakterét. Az elszigetelt, belső területen fekvő Kwakwani jó példája annak, hogyan válik egy ipari gyökerű közösség regionális kereskedelmi központtá, amely a helyi lakosság számára alapvető szolgáltatásokat és kereskedelmi lehetőségeket kínál a folyó mentén. Gazdaság K6 — a modern erdőgazdálkodás hatásai.",
+      "factsAdvanced": [
+        "Kwakwani stratégiai elhelyezkedésű a Berbice-folyó mentén.",
+        "A guyanai fakitermelő ipar egyik legfontosabb központja.",
+        "A gazdasági jólét nagymértékben függ az erdészeti termékek kitermelésétől.",
+        "Kereskedelmi központként szolgál a környező vidéki közösségek számára.",
+        "A Berbice-folyó az alapvető logisztikai útvonal az áruk szállításához.",
+        "A település az ipari múltból fejlődött regionális kereskedelmi csomóponttá."
+      ]
+    },
+    {
+      "id": "annandale-cities-v2",
+      "descriptionAdvanced": "Annandale a part menti Demerara-Mahaica régió egyik sűrűn lakott települése, amely a korábbi cukornád-ültetvények területén épült fel. A város szerkezete és társadalmi élete ma már inkább az urbanizált elővárosi életmódot tükrözi, amely szoros kapcsolatban áll a fővárossal, Georgetownnal. A lakosok számára az elővárosi kényelem és az atlantikai part közelsége teszi vonzóvá a környéket, miközben a múltbeli mezőgazdasági tradíciók emlékei is fellelhetőek az épített környezetben. Szociológia K5 — a hagyományos ültetvények modern urbanizációja.",
+      "factsAdvanced": [
+        "Annandale a sűrűn lakott Demerara-Mahaica régió része.",
+        "A település korábbi cukornád-ültetvények területén alakult ki.",
+        "Ma urbanizált, Georgetownhoz szorosan kötődő lakóövezet.",
+        "Az atlantikai part közelsége meghatározza a helyi életmódot.",
+        "A város fontos kapocs a hagyományos és modern életmódok között.",
+        "A lakóközösség számára a főváros közelsége biztosítja a munkalehetőségeket."
+      ]
+    },
+    {
+      "id": "enmore-cities-v2",
+      "descriptionAdvanced": "Enmore, a Demerara-Mahaica régió egyik jellegzetes part menti települése, történelmileg szorosan összefonódott a guyanai cukoriparral. A város a munkásmozgalmi küzdelmek szimbólumaként is ismert, amely mély nyomot hagyott a guyanai társadalmi emlékezetben. A cukornád-termesztés hanyatlásával Enmore egy modern lakóövezetté alakult át, ahol az ipari múlt és a jövőre irányuló urbanizáció egyaránt érezhető. Ma a város a hagyományok és az új társadalmi igények keveredését kínálja lakói számára. Történelem K8 — a guyanai munkásmozgalom öröksége.",
+      "factsAdvanced": [
+        "Enmore történelmileg kiemelt szerepet játszott a cukoriparban.",
+        "A munkásmozgalmi küzdelmek szimbolikus helyszíne az országban.",
+        "A gazdasági fókusz a cukoriparról az urbanizált lakóövezet felé tolódott.",
+        "A település a Demerara-Mahaica part menti régió része.",
+        "A társadalmi emlékezet fontos része a történelmi ipari múlt.",
+        "Modern lakóövezetként kapcsolódik a fővárosi agglomerációhoz."
+      ]
+    },
+    {
+      "id": "lusignan-cities-v2",
+      "descriptionAdvanced": "Lusignan az atlantikai partvonalon elterülő település, amely a korábbi mezőgazdasági karakteréből egyre inkább a sűrűn lakott, modern lakóközösségek irányába mozdult el. A régió központi részén elhelyezkedő város szoros kapcsolatot ápol a fővárossal, ami az ingázók és a kereskedelmi szolgáltatások számára is vonzóvá teszi. A helyi közösség kulturális sokszínűsége a guyanai partvidékre jellemző nyitottságot és dinamizmust tükrözi, miközben a város fokozatosan válik a regionális urbanizáció egyik meghatározó pontjává. Gazdaság K4 — a kereskedelmi szolgáltatások növekedése a part menti térségekben.",
+      "factsAdvanced": [
+        "Lusignan a part menti Demerara-Mahaica régióban található.",
+        "Korábban erősen mezőgazdasági fókuszú közösség volt.",
+        "Manapság sűrűn lakott, modern lakóközösségként funkcionál.",
+        "A fővárossal való jó összeköttetés alapvető a város életében.",
+        "A kulturális sokszínűség a közösség meghatározó ereje.",
+        "A regionális urbanizációs folyamatok egyik fontos csomópontja."
+      ]
+    }
+  ]
+}

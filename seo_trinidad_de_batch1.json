@@ -1,0 +1,295 @@
+{
+  "lang": "de",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-fort-gros-islet-history-v2",
+      "descriptionAdvanced": "Das Fort Gros Islet, gelegen in der Nähe von Port of Spain auf der Insel Trinidad, ist ein bedeutendes Zeugnis der kolonialen Verteidigungsarchitektur des 18. Jahrhunderts. Diese historische Befestigungsanlage wurde strategisch günstig am Golf von Paria errichtet, um die aufstrebende Siedlung vor Angriffen rivalisierender europäischer Mächte und Piraten zu schützen. Die Überreste des Forts bieten heute einen faszinierenden Einblick in die militärische Geschichte der Karibik. Besucher können die massiven Steinmauern und die Standorte der ehemaligen Kanonenbatterien besichtigen, die einst den Hafen kontrollierten. Der Ort veranschaulicht eindrucksvoll die strategische Bedeutung Trinidads während der Kolonialzeit, als Spanien, Frankreich und Großbritannien um die Vorherrschaft in der Region rangen. Für Schüler bietet das Fort einen direkten Bezug zum Lehrplan Geschichte K8, insbesondere zum Thema Kolonialismus und maritime Verteidigung in der Neuen Welt.",
+      "factsAdvanced": [
+        "Erbaut im späten 18. Jahrhundert zur Hafenverteidigung.",
+        "Strategische Lage am Golf von Paria nahe Port of Spain.",
+        "Teil des Verteidigungsrings gegen Piratenangriffe.",
+        "Zeugnis der spanischen Kolonialherrschaft vor 1797.",
+        "Massive Kalksteinmauern sind teilweise erhalten.",
+        "Bietet weiten Blick über die Karibische See.",
+        "Diente als Garnison für lokale Truppenverbände.",
+        "Wichtiger Ort für den Geschichtsunterricht (K8)."
+      ]
+    },
+    {
+      "id": "tt-st-joseph-ruins-history-v2",
+      "descriptionAdvanced": "Die Ruinen von St. Joseph markieren den Standort der ersten Hauptstadt Trinidads, San José de Oruña, die im Jahr 1592 von den Spaniern gegründet wurde. Als älteste europäische Siedlung der Insel birgt dieser Ort eine immense historische Tiefe. Die Ruinen umfassen Überreste von Regierungsgebäuden und sakralen Bauten, die von der frühen kolonialen Verwaltung zeugen. St. Joseph war over zwei Jahrhunderte lang das politische Zentrum, bevor die Hauptstadt 1783 nach Port of Spain verlegt wurde. Die archäologischen Spuren erzählen von den Herausforderungen der frühen Siedler, einschließlich Angriffen durch Sir Walter Raleigh im Jahr 1595. Heute dienen die Ruinen als Mahnmal für die wechselvolle Geschichte der Insel und sind ein zentraler Bestandteil des kulturellen Erbes. Im Rahmen des Lehrplans Geschichte K7 werden hier Themen wie die frühe spanische Kolonisation und die Entwicklung städtischer Strukturen in der Karibik anschaulich vermittelt.",
+      "factsAdvanced": [
+        "Standort der ersten Hauptstadt San José de Oruña.",
+        "Gegründet im Jahr 1592 durch Antonio de Berrio.",
+        "Älteste dauerhafte europäische Siedlung auf Trinidad.",
+        "Zerstört durch Sir Walter Raleigh im Jahr 1595.",
+        "Hauptstadtstatus bis zur Verlegung nach Port of Spain 1783.",
+        "Beinhaltet Überreste der ersten Kirche der Insel.",
+        "Wichtige archäologische Grabungsstätte für Kolonialgeschichte.",
+        "Zentrum des Geschichtslehrplans für die 7. Klasse."
+      ]
+    },
+    {
+      "id": "tt-san-fernando-fort-history-v2",
+      "descriptionAdvanced": "Das Fort von San Fernando, gelegen auf dem markanten San Fernando Hill (Anaparima), spielte eine entscheidende Rolle bei der Überwachung des südlichen Teils von Trinidad. Von diesem strategischen Aussichtspunkt aus hatten die militärischen Befehlshaber einen ungestörten Blick auf den Golf von Paria und die umliegenden Zuckerrohrplantagen. Die Anlage wurde ursprünglich zur Verteidigung der Siedlung San Fernando errichtet, die sich im 18. Jahrhundert zu einem wichtigen wirtschaftlichen Zentrum entwickelte. Heute sind zwar nur noch Fragmente der ursprünglichen Befestigung vorhanden, doch die historische Bedeutung des Ortes als Wächter über den Süden bleibt unvergessen. Der Hügel selbst ist ein heiliger Ort für die indigenen Völker der Region und verbindet somit koloniale Militärgeschichte mit präkolumbianischer Kultur. In der pädagogischen Vermittlung (Geschichte K8) dient das Fort als Beispiel für die Sicherung wirtschaftlicher Ressourcen und die Geopolitik der Kolonialzeit.",
+      "factsAdvanced": [
+        "Gelegen auf dem San Fernando Hill (Anaparima).",
+        "Einstiger Wachturm über den südlichen Golf von Paria.",
+        "Schutzanlage für die Hafenstadt San Fernando.",
+        "Bauzeit datiert in die späte spanische Kolonialperiode.",
+        "Hügel ist für Amerindians von spiritueller Bedeutung.",
+        "Strategischer Punkt während der britischen Übernahme 1797.",
+        "Heute ein beliebter Aussichtspunkt und historisches Denkmal.",
+        "Thematisiert wirtschaftliche Sicherung im Lehrplan K8."
+      ]
+    },
+    {
+      "id": "tt-mission-ruins-history-v2",
+      "descriptionAdvanced": "Die Mission Ruins in Trinidad zeugen von der Ära der christlichen Missionierung, die im 17. und 18. Jahrhundert einen tiefgreifenden Einfluss auf die indigene Bevölkerung der Insel hatte. Diese Überreste ehemaliger Missionsstationen, oft von Kapuzinern oder Dominikanern geleitet, dienten nicht nur religiösen Zwecken, sondern waren auch Zentren der landwirtschaftlichen Ausbildung und sozialen Kontrolle. Die Ruinen bestehen meist aus Grundmauern von Kapellen und Wohngebäuden, die aus lokalem Stein und Lehm errichtet wurden. Sie sind stumme Zeugen der kulturellen Assimilation und der oft spannungsreichen Begegnung zwischen europäischen Missionaren und den Amerindians. Dieser Ort ist von hoher Relevanz für das Verständnis der soziokulturellen Transformation Trinidads. Im Unterricht (Religionslehre/Geschichte K7) ermöglichen die Mission Ruins eine kritische Auseinandersetzung mit dem Thema Missionierung, Encomienda-System und dem Erhalt indigener Traditionen.",
+      "factsAdvanced": [
+        "Überreste von Missionsstationen des 17./18. Jahrhunderts.",
+        "Geleitet von spanischen Mönchsorden (z.B. Kapuziner).",
+        "Zentren für die Bekehrung der indigenen Amerindians.",
+        "Eingebunden in das koloniale Encomienda-System.",
+        "Architektonische Mischung aus europäischen und lokalen Stilen.",
+        "Wichtige Fundorte für religiöse Artefakte der Kolonialzeit.",
+        "Dokumentieren den Rückgang der indigenen Bevölkerung.",
+        "Lehrplanrelevanz: Kulturelle Transformation und Geschichte K7."
+      ]
+    },
+    {
+      "id": "tt-carenage-fort-history-v2",
+      "descriptionAdvanced": "Das Carenage Fort, westlich von Port of Spain gelegen, war ein integraler Bestandteil des Küstenverteidigungssystems von Trinidad. Sein Name leitet sich vom französischen Wort 'carénage' ab, was auf die Reparatur von Schiffen in den geschützten Buchten hinweist. Das Fort wurde errichtet, um die westlichen Zugangswege zur Hauptstadt und die strategisch wichtigen Werftanlagen zu sichern. Während der napoleonischen Kriege erlangte die Befestigung zusätzliche Bedeutung, als die Angst vor einer französischen Invasion die britischen Kolonialherren zur Verstärkung ihrer Stellungen zwang. Die heute noch sichtbaren Kanonenplattformen und Wallanlagen vermitteln ein lebendiges Bild der maritimen Bedrohungslage jener Zeit. Der Ort ist ein exzellentes Beispiel für die militärische Anpassung an die Topographie der Küste. In der Schule (Geschichte K8) wird das Carenage Fort genutzt, um die Auswirkungen europäischer Konflikte auf die karibischen Kolonien zu verdeutlichen.",
+      "factsAdvanced": [
+        "Küstenfort zur Sicherung der westlichen Buchten.",
+        "Name verweist auf historische Schiffswerften (Carenage).",
+        "Verstärkt während der britischen Herrschaft ab 1797.",
+        "Schutz gegen französische Flottenangriffe (Napoleonische Kriege).",
+        "Strategische Lage an der Straße nach Chaguaramas.",
+        "Beinhaltet historische Kanonenstellungen und Munitionslager.",
+        "Wichtiger Punkt im maritimen Erbe von Trinidad.",
+        "Thema: Globale Konflikte in der Karibik (Lehrplan K8)."
+      ]
+    },
+    {
+      "id": "tt-trinidad-sugar-mill-history-v2",
+      "descriptionAdvanced": "Die historische Zuckermühle in Trinidad ist ein monumentales Relikt aus der Blütezeit der Zuckerbarone im 19. Jahrhundert. Als Herzstück einer einst weitläufigen Plantage repräsentiert die Mühle die technologische Entwicklung von der wind- oder tiergetriebenen Extraktion hin zur Dampfkraft. Die massiven Backsteinstrukturen und die Überreste der Mahlwerke verdeutlichen die industriellen Ausmaße der Zuckerproduktion, die über Jahrhunderte das wirtschaftliche Rückgrat der Insel bildete. Gleichzeitig ist dieser Ort untrennbar mit der Geschichte der Sklaverei und der späteren indischen Kontraktarbeit verbunden, da Tausende von Menschen unter härtesten Bedingungen in diesen Anlagen arbeiteten. Die Ruinen dienen heute als Bildungsstätte, um sowohl den technologischen Fortschritt als auch die sozialen Kosten des 'weißen Goldes' zu reflektieren. Im Lehrplan Geographie/Geschichte K7 wird die Mühle als zentrales Element der Plantagenwirtschaft und der globalen Handelsströme behandelt.",
+      "factsAdvanced": [
+        "Industrielles Denkmal der Zuckerproduktion des 19. Jhs.",
+        "Einst betrieben durch Wind, Vieh oder später Dampfkraft.",
+        "Zentrum einer großflächigen Zuckerrohrplantage.",
+        "Symbol für die Ära der Sklaverei und Kontraktarbeit.",
+        "Gut erhaltene Schornsteine und Mahlwerk-Ruinen.",
+        "Technologischer Meilenstein der industriellen Revolution.",
+        "Wesentlicher Teil der Wirtschaftsgeschichte Trinidads.",
+        "Unterrichtsthema: Plantagenwirtschaft und Welthandel (K7)."
+      ]
+    },
+    {
+      "id": "tt-spanishtown-ruins-history-v2",
+      "descriptionAdvanced": "Die Spanishtown Ruins, oft assoziiert mit den ältesten Stadtvierteln von St. Joseph, bewahren die architektonischen Spuren der frühen spanischen Präsenz auf Trinidad. In einer Zeit, in der die Insel eine vernachlässigte Außenstelle des spanischen Weltreiches war, entstanden hier Gebäude im typisch kastilischen Stil mit dicken Mauern und schattigen Innenhöfen. Die Ruinen umfassen Reste von Wohnhäusern und Verwaltungsgebäuden, die aus einer Mischung aus gebrannten Ziegeln und Korallengestein gefertigt wurden. Diese Strukturen bieten einen seltenen Einblick in das Alltagsleben der frühen Kolonialgesellschaft vor der britischen Eroberung. Die Ausgrabungen haben gezeigt, wie die spanischen Siedler europäische Bauweisen an das tropische Klima anpassten. Für Schüler der Mittelstufe (Geschichte K7) bieten diese Ruinen eine ideale Grundlage, um die Unterschiede zwischen spanischer und späterer britischer Stadtplanung und Architektur in der Karibik zu untersuchen.",
+      "factsAdvanced": [
+        "Überreste der frühen spanischen Siedlungskerne.",
+        "Bauweise orientiert an kastilischen Architekturvorbildern.",
+        "Verwendung lokaler Materialien wie Korallenstein.",
+        "Zeugnis der späten spanischen Kolonialverwaltung (18. Jh.).",
+        "Anpassung der Architektur an das tropische Klima.",
+        "Kontrastpunkt zur späteren britischen Kolonialarchitektur.",
+        "Wichtiger Ort für lokale Identität und Denkmalpflege.",
+        "Lehrplanfokus: Koloniale Stadtentwicklung (K7)."
+      ]
+    },
+    {
+      "id": "tt-tobago-french-fort-history-v2",
+      "descriptionAdvanced": "Das französische Fort auf Tobago, bekannt als Fort Castries oder Fort King George während der britischen Perioden, spiegelt die turbulente Geschichte der Insel wider, die mehrfach zwischen Frankreich und Großbritannien wechselte. Erbaut auf einem Hügel über Scarborough, wurde die Anlage von französischen Ingenieuren im späten 18. Jahrhundert massiv befestigt. Die Architektur ist geprägt von den defensiven Prinzipien des französischen Festungsbaus, einschließlich ausgeklügelter Bastionen und Pulvermagazine. Das Fort war Schauplatz heftiger Kämpfe und diente als administratives Hauptquartier während der französischen Besatzung. Heute ist es eine der am besten erhaltenen historischen Stätten der Insel und beherbergt ein Museum. Es veranschaulicht die enorme strategische Bedeutung Tobagos für die europäische Zuckerindustrie. In der Schule (Geschichte K8) dient es als Paradebeispiel für den 'Kampf um die Karibik' und die wechselnden kolonialen Allianzen.",
+      "factsAdvanced": [
+        "Historisch bekannt als Fort Castries (französisch).",
+        "Erbaut auf einer Anhöhe über der Hauptstadt Scarborough.",
+        "Mehrmals zwischen Frankreich und England umkämpft.",
+        "Bedeutende französische Festungsarchitektur des 18. Jhs.",
+        "Beherbergt heute das Tobago Museum mit Artefakten.",
+        "Gut erhaltene Kanonen, Offiziersquartiere und Magazine.",
+        "Wichtigster historischer Aussichtspunkt auf Tobago.",
+        "Thema im Lehrplan K8: Koloniale Konflikte in der Karibik."
+      ]
+    },
+    {
+      "id": "tt-old-courthouse-history-v2",
+      "descriptionAdvanced": "Das Old Courthouse in Trinidad ist ein imposantes Beispiel für die viktorianische Kolonialarchitektur und war über Jahrzehnte das Zentrum der Rechtsprechung auf der Insel. Mit seiner strengen Symmetrie, den hohen Fenstern und den schattenspendenden Arkaden verkörpert das Gebäude den britischen Anspruch auf Ordnung und Gesetzmäßigkeit in den Tropen. Hier wurden bedeutende Prozesse geführt, die die soziale und politische Landschaft Trinidads im 19. und frühen 20. Jahrhundert prägten. Die Architektur des Gerichtsgebäudes spiegelt den Übergang von einer militärisch geprägten zu einer zivilen Verwaltung wider. Heute wird das Gebäude oft für kulturelle Zwecke oder als Archiv genutzt, wobei die prachtvolle Innenausstattung aus dunklem Mahagoniholz weitgehend erhalten blieb. Für Schüler (Sozialkunde/Geschichte K8) bietet das Old Courthouse einen Anknüpfungspunkt, um die Entwicklung des Rechtssystems und der Bürgerrechte unter kolonialer Herrschaft zu diskutieren.",
+      "factsAdvanced": [
+        "Herausragendes Beispiel viktorianischer Kolonialarchitektur.",
+        "Zentrum der britischen Justizverwaltung im 19. Jahrhundert.",
+        "Charakteristische Arkaden und hohe Decken zur Kühlung.",
+        "Ort historisch wegweisender Gerichtsentscheidungen.",
+        "Symbol für den Übergang zur zivilen Kolonialverwaltung.",
+        "Innenräume mit originalem Mahagoni-Interieur erhalten.",
+        "Heute teilweise als Museum oder Archiv genutzt.",
+        "Lehrplanrelevanz: Rechtsgeschichte und Architektur (K8)."
+      ]
+    },
+    {
+      "id": "tt-port-of-spain-citadel-history-v2",
+      "descriptionAdvanced": "Die Zitadelle von Port of Spain, oft assoziiert mit den Befestigungen von Fort George, war das ultimative Rückzugsgebiet für die britische Garnison und die Zivilbevölkerung im Falle einer Invasion. Hoch über der Stadt gelegen, bot diese Festung nicht nur eine überlegene Feuerposition über den Golf von Paria, sondern diente auch als Kommunikationszentrum mit Signalmasten. Die Anlage umfasst massive Kasematten, unterirdische Gänge und befestigte Kanonenstellungen, die in den Fels gehauen wurden. Die Zitadelle wurde so konzipiert, dass sie einer langen Belagerung standhalten konnte, komplett mit eigenen Zisternen und Vorratsspeichern. Sie repräsentiert die militärische Paranoia und die enormen Ressourcen, die Großbritannien aufwandte, um seinen wichtigsten Stützpunkt in der südlichen Karibik zu sichern. Im Unterricht (Geschichte K8) wird die Zitadelle als Beispiel für fortgeschrittene Militärtechnik und als strategisches Nervenzentrum der Kolonialzeit analysiert.",
+      "factsAdvanced": [
+        "Hauptverteidigungsanlage oberhalb von Port of Spain.",
+        "Strategisches Rückzugsgebiet für Militär und Zivilisten.",
+        "Umfassendes System aus Tunneln und Kasematten.",
+        "Wichtigste Signalstation zur Schiffsüberwachung.",
+        "Teil des britischen Verteidigungskonzepts ab 1804.",
+        "Bietet Panoramablick über die gesamte Hauptstadtregion.",
+        "Symbol der britischen Vormachtstellung in der Karibik.",
+        "Lehrplanfokus: Militärstrategie und Kolonialgeschichte (K8)."
+      ]
+    },
+    {
+      "id": "tt-dutch-settlement-site-history-v2",
+      "descriptionAdvanced": "Der Standort der ehemaligen niederländischen Siedlung auf Tobago erinnert an die kurze, aber intensive Phase, in der die Niederländer versuchten, die Insel als Handelsstützpunkt zu etablieren. Im 17. Jahrhundert gründeten Siedler aus Zeeland hier die Kolonie 'Nieuw-Walcheren'. Die archäologischen Funde an diesem Ort, darunter Keramikscherben, Fundamente von Lagerhäusern und Befestigungsreste, belegen den typisch niederländischen Ansatz der Handelskolonisation. Die Siedlung war ständig Angriffen von Spaniern, Franzosen und Briten ausgesetzt, was schließlich zum Abzug der Niederländer führte. Dieser Ort ist von besonderer Bedeutung für die Untersuchung des globalen Handelsnetzes der Niederländischen Westindien-Kompanie. Für Schüler (Geschichte K7) bietet der Besuch oder das Studium dieser Stätte die Möglichkeit, die wirtschaftlichen Motive verschiedener europäischer Mächte in der Karibik zu vergleichen und die Risiken der frühen Kolonialgründungen zu verstehen.",
+      "factsAdvanced": [
+        "Standort der niederländischen Kolonie 'Nieuw-Walcheren'.",
+        "Gegründet im 17. Jahrhundert durch Siedler aus Zeeland.",
+        "Wichtiger Stützpunkt der Niederländischen Westindien-Kompanie.",
+        "Zentrum für den frühen Tabak- und Zuckerhandel.",
+        "Mehrfach durch rivalisierende Kolonialmächte zerstört.",
+        "Archäologische Funde belegen engen Kontakt zu Europa.",
+        "Seltener Beleg niederländischer Präsenz in der Region.",
+        "Lehrplan: Handelsgesellschaften und Kolonialismus (K7)."
+      ]
+    },
+    {
+      "id": "tt-plantation-manor-ruins-history-v2",
+      "descriptionAdvanced": "Die Ruinen des Herrenhauses einer ehemaligen Plantage vermitteln einen tiefen Einblick in die soziale Hierarchie und den Lebensstil der kolonialen Elite auf Trinidad. Diese einst prächtigen Gebäude, oft auf Anhöhen errichtet, um von einer kühleren Brise und einem weiten Blick über die Felder zu profitieren, waren Symbole für Macht und Wohlstand. Die Architektur kombinierte oft europäische Stilelemente mit lokalen Anpassungen wie umlaufenden Veranden. Die Ruinen zeigen heute noch die Trennung zwischen den luxuriösen Wohnbereichen der Besitzer und den funktionalen Zonen der Hausbediensteten. Der Ort dient als Ausgangspunkt für die kritische Auseinandersetzung mit die Plantagenökonomie, die auf Ausbeutung basierte. In der pädagogischen Arbeit (Geschichte K8) werden die Manor Ruins genutzt, um die sozialen Strukturen, die Lebenswelt der 'Plantocracy' und die krassen Gegensätze zur Lebensrealität der versklavten Menschen zu veranschaulichen.",
+      "factsAdvanced": [
+        "Einstiges Wohnhaus der wohlhabenden Plantagenbesitzer.",
+        "Architektonische Mischung aus europäischen und tropischen Stilen.",
+        "Lage auf Anhöhen zur Kühlung und Überwachung der Felder.",
+        "Zentrum der sozialen Macht in der Kolonialgesellschaft.",
+        "Überreste von verzierten Fassaden und herrschaftlichen Treppen.",
+        "Dokumentiert die Lebensweise der kolonialen Elite.",
+        "Gegenpol zu den einfachen Behausungen der Arbeiter.",
+        "Thema: Soziale Hierarchien in der Plantagenwirtschaft (K8)."
+      ]
+    },
+    {
+      "id": "tt-signal-station-history-v2",
+      "descriptionAdvanced": "Die historische Signalstation in Trinidad war im 19. Jahrhundert ein unverzichtbares Glied in der Kommunikationskette der Insel. Bevor Telegrafen und Telefone verbreitet waren, wurden hier optische Signale mittels Flaggen und Semaphoren übertragen. Diese Stationen waren strategisch über die gesamte Insel verteilt, oft auf hohen Gipfeln wie dem Cumberland Hill, um Nachrichten über ankommende Schiffe oder drohende Gefahren blitzschnell an das Hauptquartier in Port of Spain weiterzuleiten. Die Ruinen der Station umfassen oft die Fundamente des Signalmastes und kleine Unterkünfte für die diensthabenden Soldaten. Dieser Ort verdeutlicht die Bedeutung von Information und Geschwindigkeit für die Sicherheit und den Handel einer Inselkolonie. Im Unterricht (Physik/Geschichte K8) bietet die Signalstation einen praktischen Bezug zu frühen Kommunikationsmethoden und deren physikalischen Grundlagen wie Sichtlinien und Lichtsignalen.",
+      "factsAdvanced": [
+        "Teil eines inselweiten optischen Kommunikationssystems.",
+        "Nutzung von Semaphoren und Flaggen zur Nachrichtenübermittlung.",
+        "Wichtig zur Früherkennung feindlicher Flottenbewegungen.",
+        "Oft auf markanten Berggipfeln wie dem Cumberland Hill gelegen.",
+        "Verbindung zwischen abgelegenen Küsten und der Hauptstadt.",
+        "Betrieben durch spezialisierte militärische Einheiten.",
+        "Relikt aus der Zeit vor der Erfindung des elektrischen Telegrafen.",
+        "Lehrplanfokus: Technikgeschichte und Kommunikation (K8)."
+      ]
+    },
+    {
+      "id": "tt-parang-centre-history-v2",
+      "descriptionAdvanced": "Das Parang Centre in Trinidad ist dem lebendigen musikalischen Erbe gewidmet, das seine Wurzeln in der spanischen Kolonialzeit hat. Parang ist eine traditionelle Weihnachtsmusik, die von venezolanischen Kakaobauern (Cocoa Panyols) auf die Insel gebracht wurde. Das Zentrum dokumentiert die Geschichte dieser Kunstform, die spanische Texte mit Instrumenten wie Cuatro, Maracas und Mandoline kombiniert. Es dient als Forschungsstätte und Museum, in dem historische Instrumente, Kostüme und Tonaufnahmen aufbewahrt werden. Der Ort ist ein Symbol für die kulturelle Kontinuität und die Vermischung von spanischen, indigenen und afrikanischen Einflüssen. Hier wird gezeigt, wie Traditionen trotz politischer Umbrüche überlebt haben und Teil der nationalen Identität wurden. Für Schüler (Musik/Kulturgeschichte K7) bietet das Parang Centre eine wunderbare Gelegenheit, die Vielfalt der trinidadischen Kultur jenseits von Karneval und Steelpan zu entdecken.",
+      "factsAdvanced": [
+        "Zentrum zur Bewahrung der traditionellen Parang-Musik.",
+        "Wurzeln in der spanisch-venezolanischen Kultur (Cocoa Panyols).",
+        "Traditionelle Instrumente: Cuatro, Maracas und Mandoline.",
+        "Zentrale Bedeutung während der Weihnachtszeit in Trinidad.",
+        "Dokumentation mündlicher Überlieferungen und Lieder.",
+        "Ort für Workshops und kulturelle Veranstaltungen.",
+        "Symbol der multikulturellen Identität der Insel.",
+        "Lehrplan: Regionale Kulturformen und Musikgeschichte (K7)."
+      ]
+    },
+    {
+      "id": "tt-military-hospital-ruins-history-v2",
+      "descriptionAdvanced": "Die Ruinen des Militärkrankenhauses vermitteln eine düstere, aber faszinierende Perspektive auf das Leben der Soldaten in den tropischen Kolonien des 19. Jahrhunderts. In einer Zeit, in der Krankheiten wie Gelbfieber und Malaria größere Verluste forderten als tatsächliche Kampfhandlungen, war dieses Krankenhaus eine lebensnotwendige Einrichtung. Die Architektur des Gebäudes, oft mit dicken Mauern und großen, gegenüberliegenden Fenstern zur Querlüftung, zeigt das damalige Verständnis von Hygiene und Heilung. Die Ruinen umfassen oft die ehemaligen Krankenstationen, Operationssäle und Apothekenbereiche. Die Geschichte des Ortes ist eng mit dem medizinischen Fortschritt und den Herausforderungen der tropischen Medizin verknüpft. Im Unterricht (Biologie/Geschichte K8) dienen diese Ruinen als Anschauungsobjekt für die Erforschung von Infektionskrankheiten und die harten Lebensbedingungen der Kolonialtruppen.",
+      "factsAdvanced": [
+        "Ehemaliges Lazarett für britische Kolonialtruppen.",
+        "Schwerpunkt auf der Behandlung tropischer Krankheiten.",
+        "Architektur optimiert für natürliche Kühlung und Belüftung.",
+        "Zeugnis der hohen Sterblichkeitsraten durch Gelbfieber.",
+        "Ort früher medizinischer Forschung in der Karibik.",
+        "Massive Steinkonstruktionen haben die Zeit überdauert.",
+        "Dokumentiert den sanitären Wandel im Militärwesen.",
+        "Themenbezug: Geschichte der Medizin und Biologie (K8)."
+      ]
+    },
+    {
+      "id": "tt-slave-market-site-history-v2",
+      "descriptionAdvanced": "Der Ort des ehemaligen Sklavenmarktes in Trinidad ist eine tief bewegende Gedenkstätte, die an eines der dunkelsten Kapitel der Inselgeschichte erinnert. Hier wurden im 18. und frühen 19. Jahrhundert afrikanische Menschen wie Waren feilgeboten und an Plantagenbesitzer verkauft. Die Stelle, oft in der Nähe der Häfen von Port of Spain oder San Fernando gelegen, ist heute meist durch Gedenktafeln oder Mahnmale gekennzeichnet, da die ursprünglichen hölzernen Strukturen längst verschwunden sind. Der Ort dient als Zentrum für die Aufarbeitung der Sklaverei und die Ehrung des Widerstands und der Resilienz der afro-trinidadischen Bevölkerung. Er ist ein unverzichtbarer Teil der kollektiven Erinnerung. Im Lehrplan Geschichte K8 ist dieser Ort zentral für die Behandlung des transatlantischen Sklavenhandels, der Abolitionsbewegung und der Entstehung der modernen trinidadischen Gesellschaft.",
+      "factsAdvanced": [
+        "Einstiger Umschlagplatz für den Handel mit Menschen.",
+        "Zentral gelegen nahe der historischen Hafenviertel.",
+        "Symbol für das transatlantische Sklavenhandelssystem.",
+        "Basis für die Arbeitskraft der Plantagenökonomie.",
+        "Heute ein wichtiger Ort des Gedenkens und der Besinnung.",
+        "Zentrum für Bildungsarbeit zum Thema Menschenrechte.",
+        "Erinnert an die afrikanischen Wurzeln der Inselkultur.",
+        "Kernpunkt im Lehrplan K8: Sklaverei und Emanzipation."
+      ]
+    },
+    {
+      "id": "tt-sugar-refinery-history-v2",
+      "descriptionAdvanced": "Die historische Zuckerraffinerie markiert die nächste Stufe der industriellen Entwicklung Trinidads, in der der Rohzucker für den Export oder den lokalen Verbrauch veredelt wurde. Im Gegensatz zu den einfachen Zuckermühlen auf den Plantagen waren diese Anlagen oft zentralisiert und verfügten über fortschrittliche Vakuum-Pfannen und Zentrifugen. Die Ruinen dieser Raffinerien sind oft gewaltige Skelette aus Eisen und Stahl, die inmitten der tropischen Vegetation stehen. Sie erzählen von der Zeit, als Trinidad versuchte, in der globalen Wertschöpfungskette des Zuckers aufzusteigen. Der Ort ist auch ein Zeugnis für die harte Arbeit der indischen Kontraktarbeiter, die nach der Abschaffung der Sklaverei die Fabriken am Laufen hielten. Für Schüler (Geographie/Wirtschaft K8) bietet die Raffinerie ein Beispiel für industrielle Verarbeitungsprozesse und die Transformation von Rohstoffen in Fertigprodukte im kolonialen Kontext.",
+      "factsAdvanced": [
+        "Zentralisierte Anlage zur Veredelung von Rohzucker.",
+        "Einsatz moderner industrieller Verfahren im 19./20. Jh.",
+        "Technisches Denkmal mit erhaltenen Dampfmaschinenresten.",
+        "Wichtiger Arbeitgeber für indische Kontraktarbeiter.",
+        "Teil der wirtschaftlichen Diversifizierung der Insel.",
+        "Dokumentiert den Übergang zur modernen Industrie.",
+        "Oft mit dem Namen 'Usine Ste. Madeleine' verbunden.",
+        "Lehrplanrelevanz: Wirtschaftsgeographie und Industrie (K8)."
+      ]
+    },
+    {
+      "id": "tt-dutch-fort-tobago-history-v2",
+      "descriptionAdvanced": "Das niederländische Fort auf Tobago, oft als Fort Bennett oder Fort James bezeichnet (da die Briten es später übernahmen), zeugt von der frühen strategischen Befestigung durch Siedler aus den Niederlanden. Im 17. Jahrhundert war Tobago ein heiß umkämpftes Gebiet, und die Niederländer bauten dieses Fort, um ihre Interessen am Tabak- und Zuckerhandel zu schützen. Die Bauweise war funktional und nutzte die natürliche Beschaffenheit der Küste aus, um einen optimalen Schusswinkel auf herannahende Schiffe zu gewährleisten. Die heute sichtbaren Kanonen und die rekonstruierten Wälle geben einen Einblick in die militärische Architektur der Barockzeit. Der Ort ist besonders interessant, da er die Vielfalt der europäischen Einflüsse auf Tobago unterstreicht. Im Unterricht (Geschichte K7) bietet das Fort die Möglichkeit, die spezifischen Verteidigungstaktiken der Niederländer und deren Scheitern gegenüber der britischen Übermacht zu untersuchen.",
+      "factsAdvanced": [
+        "Ursprünglich durch niederländische Kolonisten befestigt.",
+        "Teil der Verteidigung von Nieuw-Walcheren (17. Jh.).",
+        "Später durch Briten übernommen und ausgebaut.",
+        "Strategische Position zur Kontrolle der Courland Bay.",
+        "Beinhaltet seltene holländische Kanonenzüge.",
+        "Zeugnis der wechselhaften Herrschaftsgeschichte Tobagos.",
+        "Kleines Museum vor Ort zur regionalen Geschichte.",
+        "Lehrplanfokus: Europäische Rivalität in der Karibik (K7)."
+      ]
+    },
+    {
+      "id": "tt-cocoa-drying-floor-history-v2",
+      "descriptionAdvanced": "Der historische Kakaotrocknungsplatz (Cocoa Drying Floor) ist ein einzigartiges architektonisches Element der trinidadischen Landwirtschaftsgeschichte. Nachdem Trinidad im 19. Jahrhundert zum weltweit führenden Produzenten von Edelkakao aufgestiegen war, wurden diese speziellen Anlagen entwickelt. Sie bestanden aus großen, flachen Holz- oder Betonplattformen, auf denen die Kakaobohnen zum Trocknen in der Sonne ausgelegt wurden. Das Besondere war das fahrbare Dach ('sliding roof'), das bei plötzlichen Regenschauern schnell über die Bohnen geschoben werden konnte. Die Ruinen dieser Anlagen, oft in der Nähe alter Gutshäuser zu finden, erzählen von der Blütezeit des 'Trinitario'-Kakaos. Der Ort ist eng mit der Kultur der 'Cocoa Panyols' verbunden. Im Unterricht (Geographie/Sachkunde K5-K7) dient der Trocknungsplatz als Beispiel für angepasste Technologie und die Verarbeitung von Agrarprodukten in den Tropen.",
+      "factsAdvanced": [
+        "Spezialisierte Anlage zur Trocknung hochwertiger Kakaobohnen.",
+        "Charakteristisches fahrbares Dach zum Schutz vor Regen.",
+        "Basis für den Weltruf des trinidadischen 'Trinitario'-Kakaos.",
+        "Zentrum des ländlichen Lebens im 19. Jahrhundert.",
+        "Oft verbunden mit der Tradition des 'Dancing the Cocoa'.",
+        "Wichtiges Denkmal der trinidadischen Agrargeschichte.",
+        "Zeigt technisches Geschick der lokalen Farmer.",
+        "Lehrplanbezug: Landwirtschaft und Exportgüter (K5-K7)."
+      ]
+    },
+    {
+      "id": "tt-spanish-garrison-history-v2",
+      "descriptionAdvanced": "Die Reste der spanischen Garnison in Trinidad sind seltene architektonische Zeugnisse der Zeit vor 1797, als die Insel noch offiziell unter der Krone Spaniens stand. Die Garnison war für die Aufrechterhaltung der Ordnung und den Schutz der spärlichen Siedlungen verantwortlich. Die Gebäude waren oft schlicht, funktional und aus Lehmziegeln oder lokalem Stein errichtet, wobei der Fokus auf kühlen Innenräumen lag. Hier waren Soldaten stationiert, die oft unterversorgt und isoliert von Madrid waren, was zur Entwicklung einer sehr eigenständigen lokalen Identität beitrug. Die Ausgrabungen an solchen Standorten fördern oft Uniformknöpfe, Waffenfragmente und Alltagsgegenstände zu Tage, die das harte Leben an der Peripherie des Weltreiches dokumentieren. Für Schüler (Geschichte K7) bietet die spanische Garnison einen Einstieg in das Thema 'Leben an der Grenze' und die militärische Organisation des spanischen Kolonialreiches.",
+      "factsAdvanced": [
+        "Militärisches Hauptquartier der spanischen Ära vor 1797.",
+        "Verantwortlich für den Schutz gegen englische Freibeuter.",
+        "Bauweise mit Fokus auf Hitzeschutz und Funktionalität.",
+        "Sitz der lokalen Miliz und spanischen Berufssoldaten.",
+        "Seltener Fundort für prä-britische Militärartefakte.",
+        "Dokumentiert die spärliche Besiedlung unter Spanien.",
+        "Wichtiger Ort für die Erforschung der Stadtgründungen.",
+        "Lehrplanrelevanz: Spanische Kolonialherrschaft (K7)."
+      ]
+    }
+  ]
+}

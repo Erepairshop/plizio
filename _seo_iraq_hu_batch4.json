@@ -1,0 +1,247 @@
+{
+  "lang": "hu",
+  "country": "iraq",
+  "files": ["lib/visualLab/data/poiExtraIraqLandmarksV2.ts"],
+  "items": [
+    {
+      "id": "al-mutanabbi-street-landmarks-v2",
+      "descriptionAdvanced": "Bagdad történelmi negyedében található Al-Mutanabbi utca az iraki főváros szellemi és irodalmi életének központja, amely a 10. századi arab költőről kapta a nevét. Az 1932-ben megnyitott Shahbandar kávéház az írók és újságírók hagyományos találkozóhelye. Az utca mentén található könyvpiac péntekenként éri el csúcspontját, amikor az árusok a földre terítve kínálják köteteiket, a vallási szövegektől a modern tudományos munkákig. A 2007-es autóba rejtett pokolgépes támadás után a területet 2008-ban nyitották meg újra, miután jelentős újjáépítési munkálatokat hajtottak végre. Az utca végén egy 19. századi óratorony, az Al-Kislá épülete emelkedik, míg a Tigris folyó partján magának Al-Mutanabbinek a bronzszobra áll, amelyet 1968-ban emeltek.",
+      "factsAdvanced": [
+        "A 10. században élt híres arab költőről kapta a nevét.",
+        "A Shahbandar kávéházat 1932-ben alapították az utca központjában.",
+        "2007 márciusában egy merénylet 30 ember életét követelte a könyvpiacon.",
+        "A felújított könyvpiacot 2008 decemberében adták át újra a közönségnek.",
+        "A terület végét lezáró Al-Kislá tornyát 1869-ben építették.",
+        "Al-Mutanabbi bronzszobrát 1968-ban állították fel a Tigris folyó partján."
+      ]
+    },
+    {
+      "id": "baghdad-tower-landmarks-v2",
+      "descriptionAdvanced": "A Bagdadi tévétorony a városközpont nyugati részén, Al-Mansour kerületben emelkedik 205 méteres magasságba, ezzel Irak egyik legmagasabb épülete. Az 1994-ben Szaddám-torony néven átadott vasbeton szerkezet tetején egykor egy forgó étterem működött, amely teljes panorámát biztosított a négymillió lakosú fővárosra. Az 1991-es és 2003-as konfliktusok során a korábbi távközlési infrastruktúra komoly károkat szenvedett, így az épület kulcsfontosságú szerepet kapott a helyi kommunikációs hálózat helyreállításában. A 2003-as események után a tornyot átnevezték jelenlegi nevére. Bár a 2010-es évek elején részleges felújításon esett át, a 110 méteres magasságban található kilátószint megnyitása a nagyközönség számára biztonsági okokból hosszabb ideig szünetelt.",
+      "factsAdvanced": [
+        "A vasbeton szerkezetű torony teljes magassága eléri a 205 métert.",
+        "Az épületet eredetileg 1994-ben adták át a nagyközönségnek.",
+        "A megfigyelő fedélzet és az étterem 110 méteres magasságban található.",
+        "Az építkezés 1992-ben kezdődött, miután a korábbi távközlési tornyok megsemmisültek.",
+        "A 2003-as háború után a nevét Bagdadi tévétoronyra változtatták.",
+        "A létesítmény mintegy 2 millió dolláros részleges felújításon esett át 2010-ben."
+      ]
+    },
+    {
+      "id": "al-kadhimiya-mosque-landmarks-v2",
+      "descriptionAdvanced": "A Bagdad északnyugati kerületében található Al-Kadhimiya mecset a tizenkettes síita iszlám egyik legfontosabb zarándokhelye. A 8. és a 9. században elhunyt hetedik és kilencedik imám, Músza al-Kázim és Muhammad al-Taqi sírja fölé emelt komplexum magját a 16. század elején, I. Iszmáíl perzsa sah uralkodása alatt építették újjá. A belső udvart körülvevő épületet négy minaret és két hatalmas kupola díszíti, amelyeket 1881-ben vontak be vastag aranylemezekkel. Az épületbelső falait aprólékos üvegmozaikok, a mennyezetet pedig fafaragások és kalligráfiák borítják. Az éves zarándoklatok idején a hívők nagy számban gyűlnek össze a mecset 26 000 négyzetméteres területén, hogy részt vegyenek a vallási szertartásokon.",
+      "factsAdvanced": [
+        "A mecsetben nyugszik a 799-ben és a 835-ben elhunyt két síita imám.",
+        "A jelenlegi struktúra alapjait 1515-ben rakták le a Szafavida Birodalom idején.",
+        "A két aranykupolát 1881-ben borították be aranylemezekkel.",
+        "A vallási komplexum teljes alapterülete mintegy 26 000 négyzetméter.",
+        "A mecsethez négy, 35 méternél magasabb minaret csatlakozik.",
+        "A zarándoklatok csúcsidőszakában több millió ember látogatja meg a szentélyt."
+      ]
+    },
+    {
+      "id": "abbasid-palace-landmarks-v2",
+      "descriptionAdvanced": "A Tigris folyó keleti partján álló Abbászida palota Bagdad kevés fennmaradt épületeinek egyike a 12. század végéről. A téglaépület pontos eredete vitatott, a történészek jelentős része úgy véli, hogy a 13. század elején alapított al-Mustansiriya medresze hálózatának részeként funkcionált. A kétszintes komplexum legjellemzőbb építészeti eleme a központi udvart körülvevő boltozatos galéria, amelynek mennyezetét bonyolult mukarnasz stukkódíszítés borítja. A szerkezet megépítése során kizárólag égetett téglát használtak, amely a korszak mezopotámiai építészetének sajátossága volt. A 20. század közepén az iraki Régészeti Igazgatóság jelentős állagmegóvási munkálatokat hajtott végre rajta, ma pedig kiállítótérként működik, ahol kora középkori iszlám műtárgyakat mutatnak be.",
+      "factsAdvanced": [
+        "Az épületet a 12. század végén, al-Nászir kalifa uralkodása idején emelték.",
+        "A kétszintes komplexum belső udvara egy 1500 négyzetméteres területet foglal magába.",
+        "Az épület belső mennyezete több mint 10 000 különálló tégladarabból álló mukarnasz díszítést tartalmaz.",
+        "A 20. század első felében a létesítményt brit katonai raktárként is használták.",
+        "Az iraki állam 1980-ban teljes körű restaurálást hajtott végre a belső tereken.",
+        "Jelenleg mintegy 300 kora középkori iszlám műtárgy tekinthető meg az épületben."
+      ]
+    },
+    {
+      "id": "victory-arch-landmarks-v2",
+      "descriptionAdvanced": "A Bagdad központjában, a Zawraa Park közelében található Győzelem kardjai diadalív egy 40 méter magas monumentális emlékmű, amely az 1980 és 1988 közötti irak-iráni háborúnak állít emléket. Az 1989-ben felavatott struktúra két hatalmas bronzkézből áll, amelyek 24 tonnás, rozsdamentes acélból készült kardokat tartanak a levegőben keresztezve. Az építész, Khaled Al-Rahal úgy tervezte az emlékművet, hogy a kardok alatti 30 méter széles úton katonai parádékat tarthassanak. Az alapokat az elesett iráni katonáktól zsákmányolt, betonba ágyazott 2500 sisak díszíti, amelyeket egy hálószerű mintázatba rendeztek. A 2003-as iraki események után többször is felmerült az építmény lebontása, ám végül a történelmi múlt részeként megőrizték.",
+      "factsAdvanced": [
+        "A rozsdamentes acélból készült kardok mindegyike 43 méter hosszú és 24 tonna súlyú.",
+        "Az emlékművet hivatalosan 1989. augusztus 8-án avatták fel.",
+        "A bronzkézek formáját közvetlenül Szaddám Huszein gipszöntvényeiről mintázták.",
+        "A diadalív alapjainál 2500, a harcmezőn gyűjtött katonai sisak található.",
+        "A kardok legmagasabb pontja 40 méterre emelkedik az úttest fölé.",
+        "A struktúra egy 30 méter széles utat ível át a Zöld Zóna közelében."
+      ]
+    },
+    {
+      "id": "unknown-soldier-monument-landmarks-v2",
+      "descriptionAdvanced": "A bagdadi Zawraa Park mellett elhelyezkedő Ismeretlen katona emlékművét 1982-ben adták át, hogy tisztelegjenek az irak-iráni háborúban elesett katonák előtt. Az olasz Marcello D'Olivo mérnök és Khaled Al-Rahal iraki szobrász által tervezett építmény központi eleme egy 42 méter átmérőjű, konzolos acél tető, amely egy pajzsra emlékeztet. Ez a pajzsszerkezet 12 fokos szögben dől egy üvegből készült felülvilágító fölé, amely a földalatti múzeumot világítja meg. A mesterséges dombon nyugvó komplexum közepén egy acélkocka található, amelyet 250 tonna vörös gránit borít. Az emlékműhöz egy spirális lépcsősor vezet fel, amely egy 18 méter magas kilátóteraszban végződik, ahonnan a környező parádés térre nyílik kilátás.",
+      "factsAdvanced": [
+        "A komplexumot 1979 és 1982 között építették Khaled Al-Rahal tervei alapján.",
+        "A pajzsot formázó konzolos tető átmérője 42 méter, és 12 fokos szögben dől.",
+        "A központi emlékkockát 250 tonna vörös gránittal borították.",
+        "Az emlékmű körül egy 250 méter átmérőjű mesterséges dombot hoztak létre.",
+        "A földalatti szinten egy 3000 négyzetméteres kiállítótér található.",
+        "Az emlékmű kilátóterasza 18 méteres magasságban helyezkedik el."
+      ]
+    },
+    {
+      "id": "shanidar-cave-landmarks-v2",
+      "descriptionAdvanced": "A Bradost-hegység 745 méteres magasságában fekvő Sanidar-barlang a kurdisztáni régió egyik legfontosabb régészeti lelőhelye. Ralph Solecki amerikai régész 1951 és 1960 közötti ásatásai során tíz neandervölgyi ember maradványait tárták fel a 18 méter magas és 53 méter széles barlangban. A leletek kora 35 000 és 65 000 év közé tehető. A legjelentősebb felfedezés egy csontváz volt, amely körül jelentős mennyiségű virágport azonosítottak, ami a kutatók szerint a szándékos, rituális temetkezés korai bizonyítéka lehet. Egy másik egyed maradványai súlyos sérülések nyomait mutatták, ami arra utal, hogy a csoport tagjai gondozták rokkant társaikat. A 2010-es években újraindult brit kutatások további neandervölgyi csontokat hoztak felszínre a 8 méter mély üledékrétegből.",
+      "factsAdvanced": [
+        "A barlang bejárata 53 méter széles, belső magassága eléri a 18 métert.",
+        "Ralph Solecki csapata 1951 és 1960 között végezte az első jelentős ásatásokat.",
+        "A feltárt maradványok korát 35 000 és 65 000 év közé datálják a szakértők.",
+        "Összesen 10 neandervölgyi egyed csontvázát azonosították a barlang üledékében.",
+        "A barlang talajszintjétől számítva 8 méter mélységig tártak fel régészeti rétegeket.",
+        "2014-ben a Cambridge-i Egyetem kutatói újabb ásatásokat kezdtek a helyszínen."
+      ]
+    },
+    {
+      "id": "mudhaffar-minaret-landmarks-v2",
+      "descriptionAdvanced": "Az erbíli citadellától mintegy egy kilométerre délnyugatra álló Csóli minaret a város 12. századi korszakának egyik legfontosabb fennmaradt építészeti emléke. A 36 méter magas, égetett téglából épült tornyot Muzaffar al-Din Abu Szaíd, Erbíl egykori uralkodója emeltette 1190 és 1232 között. Az építmény alsó, nyolcszögletű alapja 15 méter magas, amelyet domborműves téglafalak és kúfi kalligráfiával írt Korán-idézetek díszítenek. A felső, hengeres része rombusz alakú téglamintázattal rendelkezik, amely a korabeli szeldzsuk építészeti stílusra jellemző. A minaret egykor egy mecset része volt, amely azonban az évszázadok során teljesen elpusztult. 2006-ban az iraki régészeti hatóságok átfogó strukturális megerősítést végeztek az épületen, hogy megvédjék az időjárás viszontagságaitól.",
+      "factsAdvanced": [
+        "A minaret teljes magassága eléri a 36 métert, 15 méteres nyolcszögletű alappal.",
+        "Az építményt 1190 és 1232 között emelték a város egykori mecsetjéhez.",
+        "A torony belsejében egy 110 lépcsőfokból álló csigalépcső vezet a csúcsra.",
+        "A szerkezetet 2006-ban egy kiterjedt állagmegóvó program keretében megerősítették.",
+        "A téglaburkolaton található kúfi feliratok 800 éves múltra tekintenek vissza.",
+        "A torony dőlésszöge miatt az építők vasalatokkal stabilizálták az alsó részt."
+      ]
+    },
+    {
+      "id": "great-mosque-kufa-landmarks-v2",
+      "descriptionAdvanced": "A Kúfa városában található nagymecset az iszlám világ egyik legkorábbi és legjelentősebb istentiszteleti helye. Az eredeti szerkezetet 638-ban alapította Szaad ibn Abi Vakkász, majd a 7. század közepén jelentősen kibővítették. A több mint 11 000 négyzetméteres komplexum központi udvarát kilenc méter magas, lőrésekkel ellátott téglafalak veszik körül, amelyeket 28 félköríves bástya erősít meg. A mecset falai között gyilkolták meg 661-ben Ali kalifát, a síiták első imámját, miközben imádkozott. A belső térben számos történelmi szentély található. Az aranykupolával és kék csempékkel díszített főkapu a 20. század közepén végzett felújítások eredménye, amely a zarándokok tízezreit fogadja évente.",
+      "factsAdvanced": [
+        "A mecset építését 638-ban kezdték meg, nem sokkal a város alapítása után.",
+        "A létesítmény alapterülete meghaladja a 11 000 négyzetmétert.",
+        "Az épületet körülvevő masszív téglafalak 9 méter magasak és 28 bástya tagolja őket.",
+        "Ali ibn Abi Talib kalifát 661. január 26-án támadták meg a mecset falai között.",
+        "A belső udvarban 4 különböző imafülke (mihrab) található a különböző imákhoz.",
+        "A komplexum jelentős felújításon esett át az 1990-es évek végén."
+      ]
+    },
+    {
+      "id": "al-askari-shrine-landmarks-v2",
+      "descriptionAdvanced": "A Bagdadtól északra, Szamarrában elhelyezkedő Al-Aszkari szentély a tizedik és a tizenegyedik síita imám, Ali al-Hadi és Haszan al-Aszkari temetkezési helye. A 9. században épült komplexum legjellegzetesebb eleme a 68 méter magas, egykor 72 000 aranylemezzel borított fő kupola volt, amelyet 1905-ben készítettek el. A 2006 februárjában történt robbantásos merénylet során a kupola megsemmisült, majd egy 2007-es támadás a szentély két 36 méteres minaretjét is lerombolta. Az iraki kormány és nemzetközi szervezetek együttműködésével az újjáépítési projekt 2009 áprilisában fejeződött be, melynek során a kupolát és a minareteket az eredeti tervek szerint állították helyre. A 13-szor 13 méteres belső sírkamrát bonyolult tükörmozaikok és faragott fafalburkolatok borítják.",
+      "factsAdvanced": [
+        "A szentély magját a 9. században emelték, miután 868-ban elhunyt a tizedik imám.",
+        "A fő kupola 68 méter magas, átmérője pedig eléri a 20 métert.",
+        "Az eredeti kupolát 1905-ben mintegy 72 000 aranylemezzel borították be.",
+        "2006. február 22-én egy bombatámadás elpusztította az aranykupolát.",
+        "A 2007-es második merénylet a szentély két 36 méter magas minaretjét döntötte romba.",
+        "Az UNESCO által támogatott újjáépítési projekt 2009-ben fejeződött be sikeresen."
+      ]
+    },
+    {
+      "id": "jalil-khayat-mosque-landmarks-v2",
+      "descriptionAdvanced": "A 2007-ben megnyitott Jalil Khayat mecset Erbíl legnagyobb iszlám vallási épülete, amely a modern építészeti technikákat a hagyományos oszmán stílussal ötvözi. A mecsetet építtető helyi üzletemberről nevezték el, aki a befejezés előtt elhunyt, így a munkálatokat fiai fejezték be. A 15 000 négyzetméteres komplexum központi eleme a 48 méter magas főkupola, amelyet több kisebb, kék és arany csempékkel díszített kupola vesz körül. A két karcsú minaret egyenként 73 méter magasra emelkedik. A belső térben található 12 méter magas mihrabot aprólékosan faragott fából és márványból készítették, a mennyezetet pedig kristálycsillárok világítják meg. Az épület péntekenként mintegy 2000 hívőt képes befogadni.",
+      "factsAdvanced": [
+        "A mecset építése 10 éven át tartott, és végül 2007-ben nyitotta meg kapuit.",
+        "A vallási komplexum teljes alapterülete mintegy 15 000 négyzetméter.",
+        "Az épület központi kupolája 48 méter magasra nyúlik a padlószinttől számítva.",
+        "A két minaret mindegyike 73 méter magasságban magasodik a város fölé.",
+        "A belső imaterem mintegy 2000 hívő befogadására alkalmas egyszerre.",
+        "A fali mozaikokhoz és a belső terekhez több ezer négyzetméter márványt használtak fel."
+      ]
+    },
+    {
+      "id": "al-qishla-landmarks-v2",
+      "descriptionAdvanced": "A Tigris folyó keleti partján, Bagdad történelmi központjában magasodó Al-Kislá egy 19. századi oszmán katonai és adminisztratív komplexum. Az 1869-ben Midhat pasa kormányzósága idején épült létesítmény nevét a laktanyát jelentő török szóból kapta. Az épületegyüttes legjellegzetesebb eleme a 22 méter magas óratorony, amelynek négy oldalán egy-egy számlap található. A benne működő órát V. György brit király ajándékozta Iraknak 1922-ben. A komplexum a 20. század elején az iraki kormányzati tisztviselők irodájaként funkcionált, és 1921-ben itt koronázták meg I. Faiszál iraki királyt. A 2013-as felújítás után az épületet kulturális központtá alakították át, amely ma művészek és értelmiségiek találkozóhelye.",
+      "factsAdvanced": [
+        "A laktanyaépület alapjait 1869-ben fektették le Midhat pasa utasítására.",
+        "A komplexum jellegzetes óratornya 22 méter magas a térszinttől számítva.",
+        "A toronyórákat 1922-ben szerelték be, melyeket V. György brit király ajándékozott.",
+        "I. Faiszál iraki király megkoronázására a komplexum udvarán került sor 1921-ben.",
+        "A létesítmény egy átfogó, 3 millió dolláros restauráláson esett át 2013-ban.",
+        "A főépület hossza meghaladja a 100 métert, a Tigris folyó partvonalát követve."
+      ]
+    },
+    {
+      "id": "tree-of-knowledge-landmarks-v2",
+      "descriptionAdvanced": "A dél-iraki Qurna városában, a Tigris és az Eufrátesz folyók találkozásánál található az a helyszín, amelyet a helyi legenda a bibliai Édenkert részének tart. Az itteni Tudás fája egy ősi jujubafa maradványa, amely egy elkerített, kövezett platformon áll. Bár az eredeti fa az 1920-as években elpusztult, kiszáradt törzsét betonnal megerősítve megőrizték a látogatók számára. A helyszínen egy 19. századi arab és angol nyelvű emléktábla hirdeti a fa hagyományos szerepét. A park, amelyből a Shatt al-Arab víziút kiindul, fontos állomás a síita zarándokok és a belföldi turisták számára. Szimbolikus jelentősége révén a hely évente több ezer látogatót vonz.",
+      "factsAdvanced": [
+        "A szimbolikus fa a Tigris és Eufrátesz folyók összefolyásánál található.",
+        "Az eredeti jujubafa az 1920-as évek közepén száradt ki véglegesen.",
+        "A maradványokat az 1950-es években beton alapzattal erősítették meg.",
+        "A helyszínt jelző táblát az 1900-as évek elején helyezték el a fa mellé.",
+        "A terület egyben a 200 kilométer hosszú Shatt al-Arab folyó kiindulópontja.",
+        "Évente több mint 10 000 helyi és külföldi látogató keresi fel a szimbolikus kertet."
+      ]
+    },
+    {
+      "id": "ezekiel-tomb-landmarks-v2",
+      "descriptionAdvanced": "Az Eufrátesz folyó partján, az iraki Al-Kifl városában található Ezékiel sírja, amely a zsidó és az iszlám hagyomány szerint is a bibliai próféta végső nyughelye. A jelenlegi épületegyüttes magja egy 14. században épült szentély, amelyhez egy 20 méter magas, bordázott minaret tartozik. A belső sírkamrában a próféta feltételezett fából faragott szarkofágja áll, amelyet héber nyelvű feliratok borítanak. Az 1950-es évek zsidó kivándorlásáig a szentély az iraki zsidóság egyik legfontosabb zarándokhelye volt, különösen a pészah ünnepe idején. Napjainkban a helyszín elsősorban az Al-Nukhailah mecset részeként működik, és a síita muszlimok felügyelete alatt áll, de történelmi jellege továbbra is megőrződött.",
+      "factsAdvanced": [
+        "A szentélykomplexum jelenlegi formáját a 14. század elején nyerte el.",
+        "Az épülethez tartozó tégla minaret magassága eléri a 20 métert.",
+        "Az 1950-es évekig évente közel 5000 zsidó zarándok látogatta meg a helyszínt pészahkor.",
+        "A belső falakon egy 19. századi héber nyelvű felirat sora olvasható.",
+        "A szentély 2010-ben jelentős restauráláson esett át a minaret megóvása érdekében.",
+        "A sírkápolna belseje egy 6 méter átmérőjű, kupolával fedett teret foglal magába."
+      ]
+    },
+    {
+      "id": "al-nuri-mosque-landmarks-v2",
+      "descriptionAdvanced": "A moszuli An-Núri nagymecset, amelyet 1172-ben építtetett Núr ad-Dín Zengi, Észak-Irak egyik legfontosabb történelmi műemléke volt. A komplexum legismertebb eleme a 45 méter magas, henger alakú Al-Hadba minaret volt, amely az évszázadok során egyre inkább megdőlt, végül közel 3 méterrel tért el a függőlegestől. A tornyot hét sávra osztott, bonyolult téglamintázatok díszítették, amelyek az iszlám geometriai művészet remekeinek számítottak. A mecset és a minaret a 2017-es moszuli események során megsemmisült. 2018-ban az UNESCO az Egyesült Arab Emírségek 50 millió dolláros támogatásával átfogó újjáépítési programot indított, melynek célja a mecset és a dőlt torony eredeti formában történő helyreállítása a fennmaradt kövek felhasználásával.",
+      "factsAdvanced": [
+        "A mecset építését 1172-ben kezdték meg Núr ad-Dín Zengi utasítására.",
+        "Az Al-Hadba minaret 45 méter magas volt az elpusztulása előtt.",
+        "A torony dőlése a 2010-es évekre megközelítette a 3 méteres eltérést a függőlegestől.",
+        "Az épületegyüttes 2017. június 21-én semmisült meg a város ostroma során.",
+        "Az újjáépítési projekt költségvetése eléri az 50 millió dollárt.",
+        "A helyreállítás során az eredeti minaret mintegy 44 000 tégláját hasznosítják újra."
+      ]
+    },
+    {
+      "id": "delal-bridge-landmarks-v2",
+      "descriptionAdvanced": "A Zakhó városán átszelő Habur folyó fölött ívelő Delal híd az iraki Kurdisztán egyik legismertebb ősi kőhídja. A pontos építési ideje vitatott, a becslések a római kortól a korai iszlám időszakig terjednek. A 114 méter hosszú építmény öt ívből áll, melyek közül a 15 méter magas középső ív a legdominánsabb. A híd különlegessége, hogy a hatalmas mészkőtömböket kötőanyag és habarcs nélkül illesztették egymáshoz. A helyi folklór szerint az építőmester, hogy a középső ív stabilitását biztosítsa, saját lányát áldozta fel az alapoknál. Bár a hidat a 20. század során többször is megerősítették az áradások miatt, eredeti szerkezete nagyrészt megmaradt, és ma már csak a gyalogos forgalom számára nyitott.",
+      "factsAdvanced": [
+        "A mészkőből épült híd teljes hossza pontosan 114 méter.",
+        "A szerkezet legmagasabb pontja a folyó vízszintjétől számítva 15,5 méter.",
+        "A folyót átívelő híd összesen 5 aszimmetrikus kőívből áll.",
+        "A híd alapjainak szélessége eléri a 4,7 métert a stabilitás érdekében.",
+        "A 20. század elején a híd még elbírta a könnyebb gépjárművek forgalmát is.",
+        "A történelmi építmény 1980 óta kizárólag gyalogos hídként funkcionál."
+      ]
+    },
+    {
+      "id": "abu-hanifa-mosque-landmarks-v2",
+      "descriptionAdvanced": "A Bagdad Adhamija kerületében található Abu Hanifa mecset az iraki szunnita iszlám egyik legfontosabb szellemi központja. A 767-ben elhunyt Abu Hanifa an-Numán, a hanafita jogi iskola alapítójának sírja köré épült szentélyt a 11. század közepén bővítették jelentős komplexummá. A jelenlegi épület a 16. és 17. századi oszmán felújítások, valamint a 20. század eleji átépítések jegyeit hordozza magán. A 10 000 négyzetméteres területen elhelyezkedő fő imaterem mintegy 5000 hívő befogadására alkalmas, amelyet egy széles aranyozott kupola és egy 35 méter magas minaret ékesít. A mecsethez egy kiterjedt iszlám egyetem és egy értékes kéziratokat őrző könyvtár is csatlakozik.",
+      "factsAdvanced": [
+        "A mecset építését az 1065-ös évben kezdték meg a jelenlegi helyszínen.",
+        "Az imaterem fölé magasodó fő kupola átmérője eléri a 25 métert.",
+        "A mecset minaretje 35 méter magasan emelkedik az Adhamija kerület fölé.",
+        "A fő imaterem mintegy 5000 hívő egyidejű befogadására lett tervezve.",
+        "A vallási komplexumhoz tartozó könyvtárban több száz középkori kéziratot őriznek.",
+        "A komplexum teljes alapterülete megközelíti a 10 000 négyzetmétert."
+      ]
+    },
+    {
+      "id": "gali-ali-beg-waterfall-landmarks-v2",
+      "descriptionAdvanced": "Az iraki Kurdisztán hegyvidékén, Szorán városától nem messze zúdul alá a Gali Ali Beg vízesés, amely az ország egyik legmagasabb és legbővizűbb zuhataga. A Bradost- és a Korek-hegység közötti szurdokban elhelyezkedő vízesés mintegy 130 méter magasról hullik alá a sziklás medencébe. Nevét egy Ali Beg nevű kurd vezetőről kapta, akit a helyi történetírás szerint a 19. században ezen a területen végeztek ki. A vízesés vizét nagyrészt a környező hegyek hóolvadása és a földalatti források biztosítják, így a vízhozam tavasszal a legnagyobb. A helyszín turisztikai jelentőségét mutatja, hogy képe az 1970-es évektől több alkalommal is helyet kapott a hivatalos iraki fizetőeszközön.",
+      "factsAdvanced": [
+        "A vízesés teljes esési magassága eléri a 130 métert a szurdokvölgyben.",
+        "A helyszín 800 méteres tengerszint feletti magasságban fekszik.",
+        "A zuhatag képe az 1978-ban kibocsátott 5 dináros bankjegy hátoldalán szerepelt.",
+        "Jelenleg a 2013-as szériájú 5000 iraki dináros bankjegyet is ez a vízesés díszíti.",
+        "A vízeséshez vezető 12 kilométeres szurdokot évente ezrek látogatják.",
+        "A vízhozam a tavaszi hóolvadás idején elérheti a másodpercenkénti 20 köbmétert."
+      ]
+    },
+    {
+      "id": "bekhal-waterfall-landmarks-v2",
+      "descriptionAdvanced": "A Rawanduz városától keletre található Bekhal-vízesés az iraki Kurdisztán hegyvidéki turizmusának egyik központja. A vízszintesen elterülő vízesés közvetlenül a hegy oldalából, egy kiterjedt karsztforrásból tör elő, és széles kaskádokban zúdul le a köves mederbe. A völgy különösen a nyári hónapokban vonz tömegeket, amikor a helyiek Bagdadból és a déli tartományokból ide érkeznek a meleg elől. A zuhatag környékét sűrűn beépítették turisztikai infrastruktúrával, lépcsőzetes teraszokkal és árusító bódékkal. A forrásvíz hőmérséklete még a legmelegebb napokon is alacsony marad, így hűsítő mikroklímát teremt a völgyben.",
+      "factsAdvanced": [
+        "A vízesés Rawanduz városától 10 kilométeres távolságra fekszik.",
+        "A karsztforrás vízhozama tavaszi csúcsidőszakban óriási mennyiségű vizet ad.",
+        "A feltörő forrásvíz átlagos hőmérséklete a nyári hónapokban is 15 Celsius-fok körül marad.",
+        "A vízesést körülvevő turisztikai terület 950 méteres tengerszint feletti magasságban van.",
+        "A zuhatag szélessége az esőzések idején meghaladhatja a 30 métert.",
+        "A helyszínt a csúcsidényben naponta akár 5000 hazai turista is meglátogatja."
+      ]
+    },
+    {
+      "id": "basra-sports-city-landmarks-v2",
+      "descriptionAdvanced": "A Bászra városától 10 kilométerre délre elhelyezkedő Bászrai sportváros (Basra Sports City) Irak legnagyobb és legmodernebb sportkomplexuma. A 2009 és 2013 között, mintegy 550 millió dolláros költségvetésből épült létesítmény egy 580 hektáros területen fekszik. A komplexum központi eleme egy 65 000 férőhelyes futballstadion, amelynek ívelt tetőszerkezete és külső dizájnja a pálmafák összefonódó leveleit szimbolizálja. A főstadion mellett egy kisebb atlétikai pálya, edzőpályák és VIP-szállodák is helyet kaptak. A stadion hivatalos megnyitójára 2013-ban került sor, legjelentősebb eseménye pedig a 2023-ban megrendezett Arab Öböl-kupa volt, amely évtizedek után az első jelentős torna volt az országban.",
+      "factsAdvanced": [
+        "A sportkomplexum teljes építési költsége megközelítette az 550 millió dollárt.",
+        "A főstadion befogadóképessége pontosan 65 227 ülőhelyet foglal magába.",
+        "A létesítményt egy 580 hektáros mesterségesen parkosított területen építették fel.",
+        "A komplexum második számú stadionja 10 000 néző befogadására alkalmas.",
+        "Az építkezési munkálatok 2009 júliusában kezdődtek el és 2013-ban fejeződtek be.",
+        "A 25. Arab Öböl-kupa 15 mérkőzésének jelentős részét 2023-ban itt rendezték meg."
+      ]
+    }
+  ]
+}

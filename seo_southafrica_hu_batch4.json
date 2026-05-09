@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-paarl-cities-v2",
+      "descriptionAdvanced": "Paarl a Fokföldi borvidék (Cape Winelands) szívében fekszik, és arról a gigantikus gránitszikláról (Paarl Rock) kapta a nevét, amely a napfényben gyöngyként csillog. A város történelmi jelentősége óriási az afrikaans nyelv fejlődésében, itt alakult ki és fejlődött a nyelv, amit az Afrikaans Nyelvi Emlékmű is hirdet. A város a KWV borászati szövetkezet székhelye, és a régió egyik legfontosabb borászati központja.",
+      "factsAdvanced": [
+        "A város nevét a hatalmas gránitszikláról kapta.",
+        "A dél-afrikai borászat egyik történelmi központja.",
+        "Az afrikaans nyelv kialakulásának egyik bölcsője.",
+        "Itt található az Afrikaans Nyelvi Emlékmű.",
+        "A KWV borászati szövetkezet székhelye.",
+        "Termékeny, hegyvidéki környezet jellemzi."
+      ]
+    },
+    {
+      "id": "southafrica-worcester-cities-v2",
+      "descriptionAdvanced": "Worcester a Breede-folyó völgyének gazdasági központja, a hegyek közé ékelődött város Dél-Afrika egyik legfontosabb mezőgazdasági és bortermelő területe. A város környezete különleges, a száraz Karoo és a nedvesebb völgy találkozásánál fekszik, ami lehetővé teszi a változatos mezőgazdasági tevékenységet. A botanikai kertek, különösen a Karoo Nemzeti Botanikus Kert, a régió növényvilágának gazdagságát hivatottak bemutatni.",
+      "factsAdvanced": [
+        "A Breede-folyó völgyének gazdasági központja.",
+        "Az ország egyik legtermékenyebb borvidéke.",
+        "Itt található a Karoo Nemzeti Botanikus Kert.",
+        "A város környéke változatos természeti környezetet kínál.",
+        "1820-as alapítású, tervezett város.",
+        "Fontos kereskedelmi központ a régióban."
+      ]
+    },
+    {
+      "id": "southafrica-oudtshoorn-cities-v2",
+      "descriptionAdvanced": "Oudtshoorn a Kis-Karoo (Little Karoo) régió legfontosabb városa, amelyet gyakran a világ struccfővárosaként emlegetnek. A 19. század végén a strucctoll-kereskedelem virágzása idején a város gazdag és látványos polgári otthonokkal épült ki. Ma a turisták nemcsak a struccfarmok miatt látogatják, hanem a közelben lévő lélegzetelállító Cango-barlangok miatt is, amely a régió egyik legjelentősebb természetvédelmi és idegenforgalmi látványossága.",
+      "factsAdvanced": [
+        "A világ struccfővárosaként emlegetik.",
+        "A 19. század végi strucctoll-kereskedelem gazdagsága tette ismertté.",
+        "A közelben található a lenyűgöző Cango-barlangrendszer.",
+        "A Micul Karoo (Kis-Karoo) régió központja.",
+        "Sivatagi és félsivatagi éghajlat jellemzi.",
+        "Fontos állomása a dél-afrikai turistautaknak."
+      ]
+    },
+    {
+      "id": "southafrica-beaufort-west-cities-v2",
+      "descriptionAdvanced": "Beaufort West a Középső-Karoo régió legrégebbi és legnagyobb városa, amely fontos megállóhelyet jelent a fokvárosi és johannesburgi autós közlekedés számára. A száraz, kietlen, de lenyűgöző táj közepén elhelyezkedő település gazdag történelemmel rendelkezik, és büszke arra, hogy innen származik a világ első sikeres szívátültetését végző orvos, Chris Barnard. A város a Karoo tágas és csendes világának kapuja.",
+      "factsAdvanced": [
+        "A Középső-Karoo régió legrégebbi városa (1818).",
+        "Fontos pihenőhely a Fokváros–Johannesburg tranzitúton.",
+        "Chris Barnard, a szívátültetés úttörőjének szülőhelye.",
+        "A Karoo félsivatagi, tágas tájának központja.",
+        "Jelentős juhtenyésztő körzet.",
+        "Gazdag történelemmel és vidéki nyugalommal rendelkezik."
+      ]
+    },
+    {
+      "id": "southafrica-knysna-cities-v2",
+      "descriptionAdvanced": "Knysna a Garden Route legnépszerűbb és legfestőibb tengerparti városa, egy nagy lagúna partján fekszik, sűrű őserdei övezetben. A város híres a Knysna-i osztrigáról, és az évente megrendezett Osztrigafesztiválról, amely gasztronómiai turisták ezreit vonzza. A települést a tenger felől a látványos 'Knysna Heads' sziklaképződmények védik, ami a régió egyik leginkább fényképezett természeti szépsége.",
+      "factsAdvanced": [
+        "A Garden Route egyik legnépszerűbb turisztikai célpontja.",
+        "Híres az osztrigatermesztéséről és az Osztrigafesztiválról.",
+        "A 'Knysna Heads' látványos sziklaképződményei a bejáratot őrzik.",
+        "Sűrű őserdők és lagúna öleli körül.",
+        "A tengerészeti és a természetközeli turizmus központja.",
+        "Gazdag vadvilágú környezetben helyezkedik el."
+      ]
+    }
+  ]
+}

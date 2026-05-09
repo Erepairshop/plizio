@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "strandspielplatz-corisco-life-v2",
+      "descriptionAdvanced": "Corisco szigetének strandjátszótere egy igazi paradicsomi helyszín, ahol a fehér homokos part és az azúrkék óceán alkotja a gyerekek játékának hátterét. Ez a természetközeli játszótér fenntartható anyagokból készült, és úgy alakították ki, hogy harmonikusan illeszkedjen az érintetlen szigeti környezetbe. Míg a gyerekek a hintákon és a trópusi fák árnyékában hűsölnek, a családok élvezhetik a sziget különleges nyugalmát és a friss tengeri levegőt. Corisco híres a vendégszeretetéről, és ez a közösségi tér a helyi és a látogató gyerekek találkozásának fontos pontja. A játszótér nemcsak szórakozást nyújt, hanem lehetőséget ad az óceán és a part menti élővilág játékos felfedezésére is. Itt a szabadság és a természetes közeg dominál, felejthetetlen emlékeket szerezve a legkisebbeknek.",
+      "factsAdvanced": [
+        "Fehér homokos tengerparton fekvő természetközeli játszótér.",
+        "Környezetbarát és fenntartható alapanyagokból készült játékok.",
+        "Páratlan kilátás a Guineai-öböl kristálytiszta vizeire.",
+        "Természetes árnyékot adó pálmafák és egzotikus növények övezik.",
+        "Biztonságos és nyugodt környezet a kisgyermekes családok számára.",
+        "Népszerű helyszín a szigeti ökoturizmus és a pihenés kedvelőinek.",
+        "Segíti a gyermekek közvetlen kapcsolódását a tengeri élővilághoz."
+      ]
+    },
+    {
+      "id": "kinderfreizeitzentrum-ebebiyin-life-v2",
+      "descriptionAdvanced": "Az ebebiyini gyermekszabadidő-központ az ország északkeleti határvidékének legfontosabb ifjúsági és családi létesítménye. Ezt a modern központot azért hozták létre, hogy a távoli régióban élő gyermekek számára is biztosítsák a minőségi szórakozás és az informális tanulás feltételeit. A központban játszóházak, kreatív műhelyek, egy kis könyvtár és sportpályák várják a fiatalokat, ahol képzett animátorok segítik a szabadidő hasznos eltöltését. Ebebiyin vibráló határmenti életében ez a központ a béke és a fejlődés szigete, ahol a gyerekek biztonságban játszhatnak és fejlődhetnek. A létesítmény rendszeresen szervez közösségi eseményeket, bábszínházi előadásokat és sportversenyeket, amelyek az egész városból vonzzák a családokat. A központ sikere bizonyítja az esélyegyenlőség iránti elkötelezettséget a belső tartományokban is.",
+      "factsAdvanced": [
+        "Modern ifjúsági és szabadidős központ Ebebiyin városában.",
+        "Kreatív fejlesztő foglalkozások és sportolási lehetőségek helyszíne.",
+        "Fontos szerepet tölt be a határmenti régió szociális integrációjában.",
+        "Biztonságos, fedett és szabadtéri játszóterekkel rendelkezik.",
+        "Saját gyermekkonyvtár és média részleg áll a fiatalok rendelkezésére.",
+        "Rendszeres kulturális programok és versenyek befogadója.",
+        "Az északi országrész legmodernebb gyermekjóléti beruházása."
+      ]
+    },
+    {
+      "id": "jugendzentrum-malabo-life-v2",
+      "descriptionAdvanced": "A malabói ifjúsági központ (Centro Juvenil) a főváros szívében a fiatal generációk kreativitásának és társadalmi életének dobogó szíve. Ez a modern épületegyüttes azért jött létre, hogy platformot biztosítson a művészetek, a sport, a technológia és az önkéntesség iránt érdeklődő fiataloknak. A központban próbatermek, informatikai laborok, tánctermek és egy nagy közösségi aula található, ahol a fiatalok szabadon fejleszthetik tehetségüket. Malabo lüktető környezetében ez a helyszín biztonságos alternatívát és szakmai perspektívát kínál a jövő nemzedékének. A központ rendszeresen ad otthont képzéseknek, kerekasztal-beszélgetéseknek és tehetségkutató versenyeknek, elősegítve a fiatalok aktív társadalmi szerepvállalását. Itt születnek a modern Egyenlítői-Guinea legújabb művészeti és technológiai projektjei.",
+      "factsAdvanced": [
+        "A főváros legjelentősebb multifunkcionális ifjúsági létesítménye.",
+        "Informatikai képzések és művészeti workshopok központi helyszíne.",
+        "Modern próbatermeket biztosít helyi zenekarok és tánccsoportok számára.",
+        "Támogatja a fiatalok vállalkozóvá válását és szakmai fejlődését.",
+        "A városi ifjúsági közösségek első számú találkozóhelye.",
+        "Számos nemzeti és nemzetközi ifjúsági program bázisa.",
+        "Innovatív és inspiráló környezet a jövő generációi számára."
+      ]
+    },
+    {
+      "id": "lago-de-biao-nature-v2",
+      "descriptionAdvanced": "A Lago de Biao Bioko szigetének egyik legmisztikusabb és legeldugottabb természeti kincse, egy tökéletes vulkáni kráterto a Monte San Carlos csúcsának közelében. Ez a magaslati állóvíz körülbelül 1800 méteres magasságban található, és érintetlen hegyi köderdők veszik körül, amelyek az év nagy részében felhőbe burkolják a tájat. A tó vize kristálytiszta és hideg, otthont adva ritka kétéltűeknek és olyan növényfajoknak, amelyek csak ezen a speciális mikroklímán képesek fennmaradni. A Lago de Biao elérése nehéz és megerőltető túrát igényel, ami garantálja a terület zavartalanságát és ökológiai tisztaságát. A kráter falaiból kicsapódó pára folyamatosan táplálja a tó vízszintjét, létrehozva egy önszabályozó, zárt ökoszisztémát. A látvány, amikor a köd felszáll és megmutatkozik a tükörsima víztükör, az egyik legdrámaibb élmény Közép-Afrikában.",
+      "factsAdvanced": [
+        "Kivételes szépségű vulkáni kráterto 1800 méter feletti magasságban.",
+        "Érintetlen hegyi köderdők és endemikus növényfajok övezik.",
+        "A sziget egyik legfontosabb és legtisztább természetes víztározója.",
+        "Csak nehéz hegyi túrával érhető el, garantálva a vadvilág nyugalmát.",
+        "Ritka magashegyi kétéltűek és vízi élőlények fontos élőhelye.",
+        "Különleges mikroklíma, állandó párával és hűvös hőmérséklettel.",
+        "Bioko szigetének egyik legikonikusabb és legtitokzatosabb természeti tája."
+      ]
+    },
+    {
+      "id": "gran-caldera-luba-nature-v2",
+      "descriptionAdvanced": "A Gran Caldera de Luba Bioko szigetének déli részén található monumentális vulkáni képződmény, amely az egész Guineai-öböl egyik legjelentősebb biodiverzitási forrópontja. Ez a hatalmas, több kilométer átmérőjű kráter olyan érintetlen esőerdőket és különleges mikroélőhelyeket rejt, amelyek Közép-Afrika utolsó háborítatlan vadonjai közé tartoznak. A kaldera belsejében számos endemikus faj él, köztük ritka főemlősök, madarak és növények, amelyek elszigetelten fejlődtek az évezredek során. A terület nehéz megközelíthetősége és a meredek falak természetes védelmet nyújtanak a külső behatásokkal szemben. A Gran Caldera nemcsak tudományos kutatóhely, hanem az ország természetvédelmi büszkesége is, ahol a természetes folyamatok emberi beavatkozás nélkül zajlanak. A kalderából aláömlő patakok és vízesések látványa a vulkanikus erő és az életerő fenséges találkozása.",
+      "factsAdvanced": [
+        "Hatalmas vulkáni kráter, a sziget egyik legvadabb és legérintetlenebb tája.",
+        "Világviszonylatban is kiemelkedő biodiverzitású természetvédelmi terület.",
+        "Számos csak itt élő (endemikus) majom- és madárfaj otthona.",
+        "Meredek kráterfalak és sűrű trópusi köderdők jellemzik.",
+        "Kritikus jelentőségű tudományos kutatóhely a trópusi ökológiában.",
+        "Látványos vízesések és sebes vizű patakok forrásvidéke.",
+        "A Guineai-öböl egyik utolsó, érintetlen esőerdei ökoszisztémája."
+      ]
+    },
+    {
+      "id": "rio-muni-nature-v2",
+      "descriptionAdvanced": "A Río Muni-folyó az ország kontinentális részének névadója és egyik legfontosabb vízi útja, amely egy hatalmas torkolatvidéket alkot az Atlanti-óceán találkozásánál. Ez a terület a természetvédelmi erőfeszítések központja, ahol a folyó édesvize és az óceán sós vize keveredik, létrehozva a mangrovék és mocsarak gazdag szövedékét. A folyó mentén sűrű esőerdők húzódnak, amelyek menedéket nyújtanak számos vízi és szárazföldi fajnak, beleértve a manátuszokat és a krokodilokat. A Río Muni torkolata fontos ívóhely a halak számára és kritikus pihenőhely a vándormadaraknak. A folyó domborzati és ökológiai jelentősége mellett kulturális szempontból is meghatározó, hiszen partjain történelmi települések és ősi kereskedelmi útvonalak találhatók. A vidék nyers szépsége és biológiai gazdagsága Egyenlítői-Guinea szárazföldi szívét jelképezi.",
+      "factsAdvanced": [
+        "A szárazföldi országrész legnagyobb és legmeghatározóbb folyórendszere.",
+        "Hatalmas torkolatvidéke (Muni-torkolat) gazdag mangrove-erdőkkel rendelkezik.",
+        "Létfontosságú élőhely az afrikai manátuszok és ritka vízi élőlények számára.",
+        "Stratégiai vízi közlekedési útvonal a szárazföld belseje felé.",
+        "A folyó menti esőerdőkben kiemelkedő a biodiverzitás.",
+        "Fontos szerepet játszik a regionális éghajlat és vízháztartás szabályozásában.",
+        "A torkolatvidék halállománya biztosítja a környék lakóinak megélhetését."
+      ]
+    },
+    {
+      "id": "rio-ntem-nature-v2",
+      "descriptionAdvanced": "A Río Ntem Egyenlítői-Guinea északi határfolyója, amely természetes választóvonalat képez Kamerun és Gabon felé. Ez a sebes folyású folyó mélyen bevágódik a kontinentális fennsíkba, látványos kanyonokat és zúgókat alkotva útja során. A Ntem menti esőerdők az ország egyik legzordabb, de egyben leggazdagabb vadonjai, ahol az elefántok és a víziló-populációk még háborítatlanul élnek. A folyó vize kiemelkedő fontosságú a regionális vízháztartás és az energiatermelés szempontjából is. Történelmileg a Ntem fontos kereskedelmi és népmozgási útvonal volt a három ország találkozásánál. A folyóparti táj drámai kontrasztot mutat a csendes holtágak és a dübörgő vízesések között, tükrözve a közép-afrikai természet zabolátlan erejét. A Ntem-völgy megőrzése közös nemzetközi érdek a biodiverzitás fenntartása érdekében.",
+      "factsAdvanced": [
+        "Északi határfolyó, amely Kamerunnal és Gabonnal is határos.",
+        "Meredek szurdokok, látványos zúgók és vízesések tarkítják medrét.",
+        "Fontos élőhelye az erdei elefántoknak és a ritka vízilóknak.",
+        "Kiemelt jelentőségű a nemzeti és regionális vízenergia-potenciálban.",
+        "A part menti esőerdők a biodiverzitási folyosó kritikus elemei.",
+        "Stratégiai jelentőségű a határokon átnyúló természetvédelmi területeken.",
+        "A folyó vize táplálja a Río Campo közeli madárrezervátumát is."
+      ]
+    },
+    {
+      "id": "elobey-grande-nature-v2",
+      "descriptionAdvanced": "Elobey Grande egy kisméretű, de történelmi és természeti szempontból annál jelentősebb sziget a Muni-torkolatban. A szigetet buja trópusi növényzet borítja, és érintetlen, fehér homokos partjai az ország egyik legszebb rejtett kincsévé teszik. A sziget körüli sekély vizek és korallzátonyok gazdag tengeri élővilágnak adnak otthont, ideális terepet biztosítva a búvárkodáshoz és a tengerbiológiai megfigyelésekhez. Történelmileg Elobey Grande fontos kereskedelmi állomás volt, de mára visszahódította a természet, és csak néhány halászcsalád lakja. A sziget nyugalma és izoláltsága miatt kiváló fészkelőhely a tengeri madarak számára. Elobey Grande meglátogatása egy időutazás, ahol a látogató átélheti a Guineai-öböl szigeteinek ősi, zavartalan békéjét és vadságát.",
+      "factsAdvanced": [
+        "A Muni-torkolatban fekvő festői és elszigetelt trópusi sziget.",
+        "Érintetlen fehér homokos strandok és kristálytiszta vizek jellemzik.",
+        "Egykor fontos spanyol kereskedelmi központ volt a gyarmati korban.",
+        "Gazdag tengeri élővilág és partmenti korallképződmények veszik körül.",
+        "Fontos megállóhely és fészkelőhely számos tengeri madárfaj számára.",
+        "Alacsony emberi jelenlét, zavartalan természetes ökoszisztéma.",
+        "Az ország egyik legszebb ökoturisztikai célpontja a szárazföld közelében."
+      ]
+    },
+    {
+      "id": "elobey-chico-nature-v2",
+      "descriptionAdvanced": "Elobey Chico, szomszédjánál kisebb, de történelmi emlékeiben gazdagabb sziget a Muni-torkolat torkolatában. Bár mára szinte lakatlan és a sűrű esőerdő visszavette a területet, a sziget egykor a spanyol gyarmati közigazgatás és kereskedelem vibráló központja volt. A növényzet között ma is megtalálhatók a régi házak, irodák és raktárak romjai, amelyeket teljesen benőtt a zöld inda-szövevény. A természet és a történelem ezen különleges összefonódása misztikus hangulatot kölcsönöz a szigetnek. Elobey Chico partjait mangrove-erdők és sziklás öblök tagolják, amelyek biztonságos menedéket nyújtanak a halaknak és rákféléknek. A sziget kiváló példája annak, hogyan képes a természet regenerálódni és újra birtokba venni az ember által elhagyott területeket, megőrizve közben a múlt néma tanúit.",
+      "factsAdvanced": [
+        "Apró trópusi sziget, amely egykor fontos gyarmati adminisztrációs központ volt.",
+        "A sűrű növényzet között megbújó történelmi romok jellemzik.",
+        "A természet és az emberi történelem találkozásának misztikus helyszíne.",
+        "Védett tengeri övezetek és mangrove-ökoszisztémák veszik körül.",
+        "Alacsony vízállásnál gyalog is megközelíthető egyes homokpadok felől.",
+        "Kritikus élőhely ritka rákfélék és apró tengeri halak számára.",
+        "A csend és a vadon visszahódító erejének szimbóluma a torkolatban."
+      ]
+    },
+    {
+      "id": "altos-de-nsork-nature-v2",
+      "descriptionAdvanced": "Az Altos de Nsork Nemzeti Park Egyenlítői-Guinea délkeleti részén a kontinentális biodiverzitás egyik legfontosabb bástyája. Ez a hegyvidéki és dombos terület Río Muni legeldugottabb részén fekszik, és hatalmas, összefüggő esőerdő-tömböket őriz meg az utókornak. A park domborzata rendkívül tagolt, ami számos különböző mikroélőhelyet hozott létre, ahol olyan ikonikus állatok élnek, mint az erdei elefántok, gorillák és csimpánzok. A terület vízrajza is jelentős, számos folyó és patak ered a dombok között, amelyek vízeséseken keresztül frissítik fel az erdő levegőjét. Az Altos de Nsork elszigeteltsége a legnagyobb védelmet jelenti az orvvadászat és az erdőirtás ellen. Ez a vidék az ország elkötelezettségét jelképezi a közép-afrikai esőerdők érintetlen állapotban való megőrzése iránt.",
+      "factsAdvanced": [
+        "Hatalmas kiterjedésű, hegyvidéki nemzeti park a délkeleti határnál.",
+        "Közép-Afrika egyik legfontosabb gorillákat és elefántokat védő területe.",
+        "Meredek dombok és mély folyóvölgyek által szabdalt vadon.",
+        "Szigorúan védett övezet, minimális emberi beavatkozással.",
+        "Létfontosságú szerepet játszik a regionális biodiverzitási folyosóban.",
+        "Számos csak itt található növény- és rovarfaj otthona.",
+        "A természetvédelem és a tudományos kutatás egyik legfontosabb bázisa."
+      ]
+    },
+    {
+      "id": "rio-wele-nature-v2",
+      "descriptionAdvanced": "A Río Wele (vagy Benito) Egyenlítői-Guinea leghosszabb és legfontosabb folyója a szárazföldi országrészben, amely keresztülszeli Río Muni szívét keletről nyugat felé. Ez a hatalmas víztömeg nemcsak az ország gazdaságának gerince, hanem egy rendkívül gazdag ökológiai folyosó is, amely összeköti a belső esőerdőket az Atlanti-óceánnal. A folyó mentén változatos élőhelyek találhatók: a sebes folyású hegyi szakaszoktól a széles, mocsaras árterekig. A Wele halállománya egyedülálló, számos olyan fajt rejt, amely csak ebben a folyórendszerben honos. A part menti dús vegetáció és a folyó ereje meghatározza a kontinentális táj arculatát. A Wele nemcsak a természet erejét jelképezi, hanem a nemzet életerejét is, hiszen évezredek óta táplálja és összeköti a partjain élő közösségeket.",
+      "factsAdvanced": [
+        "Egyenlítői-Guinea leghosszabb szárazföldi folyója (kb. 300 km).",
+        "A kontinentális országrész legfontosabb édesvízi ökológiai folyosója.",
+        "Számos látványos zuhatag és kanyon tagolja a medrét.",
+        "Kritikus jelentőségű a nemzeti vízháztartás és halászat szempontjából.",
+        "A folyó menti esőerdőkben rendkívül magas a biodiverzitás.",
+        "Fontos közlekedési és szállítási útvonal a szárazföld belseje felé.",
+        "A Wele-völgy az ország agrár- és erdészeti stratégiájának alapja."
+      ]
+    },
+    {
+      "id": "cascadas-de-moca-nature-v2",
+      "descriptionAdvanced": "A Moca-vízesések Bioko szigetének déli fennsíkján található lenyűgöző természeti képződmények, ahol a hegyi patakok kristálytiszta vize meredek bazaltfalakon zúdul alá a mélybe. Ezek a vízesések a hűvös, párás hegyi levegőben, dús páfrányok és mohák között fekszenek, varázslatos és érintetlen hangulatot árasztva. A bőséges csapadék és a vulkáni domborzat ideális feltételeket teremt ezen sebes vizű folyamatok számára, amelyek fontos szerepet játszanak a sziget vízháztartásában. A vízesések környéke ritka növényfajoknak és kétéltűeknek ad otthont, amelyek a folyamatos párát igénylik. A látogatók számára a Moca-vízesések elérése egy izgalmas kaland, ahol a trópusi esőerdő vad szépsége és a víz dübörgő ereje felejthetetlen élményt nyújt. A vízesések az örök körforgás és a természet tisztaságának jelképei a szigeten.",
+      "factsAdvanced": [
+        "Látványos hegyi vízesések sorozata a Bioko szigeti Moca-fennsíkon.",
+        "A vulkáni bazaltfalakon aláömlő víz egyedülálló mikroklímát teremt.",
+        "Ritka páfrányfajok és nedvességkedvelő növények gazdag élőhelye.",
+        "Kiemelt turisztikai és ökológiai célpont a sziget déli részén.",
+        "A patakok vize kristálytiszta és iható minőségű.",
+        "Fontos szerepet játszik a völgyek vízellátásában és a talaj termékenységében.",
+        "A természet nyers erejének és szépségének egyik legszebb példája."
+      ]
+    },
+    {
+      "id": "arenas-blancas-nature-v2",
+      "descriptionAdvanced": "Az Arenas Blancas (Fehér Homok) Luba közelében, Bioko szigetének nyugati partján fekvő, szinte érintetlen tengerparti paradicsom. Nevéhez hűen, a partot finom, vakítóan fehér homok borítja, amely éles kontrasztban áll az óceán mélykék vizével és a partra hajló kókuszpálmák zöldjével. Ez a terület Egyenlítői-Guinea egyik legszebb és legnyugodtabb strandja, amely mentes a nagyüzemi turizmustól, megőrizve természetes vadságát. Az Arenas Blancas nemcsak a kikapcsolódás helyszíne, hanem fontos fészkelőhely a tengeri teknősök számára is, akik az év bizonyos időszakaiban itt rakják le tojásaikat. A part menti vizek gazdagok halakban és korallképződményekben, ideálissá téve a helyet a sznorkelezéshez. Arenas Blancas a trópusi idill megtestesítője, ahol az idő megállni látszik az óceán morajlása mellett.",
+      "factsAdvanced": [
+        "Bioko szigetének egyik legszebb, érintetlen fehér homokos strandja.",
+        "Fontos természetvédelmi terület a tengeri teknősök fészkelése miatt.",
+        "A partot dús kókuszpálma-ligetek és trópusi erdő szegélyezi.",
+        "Kristálytiszta tengeri vizek, kiváló sznorkelezési lehetőségekkel.",
+        "Luba városától rövid autóúttal vagy hajóval elérhető paradicsom.",
+        "Csendes és elszigetelt helyszín, távol a városok zajától.",
+        "Az ország egyik legfontosabb ökoturisztikai és rekreációs kincse."
+      ]
+    },
+    {
+      "id": "monte-mitra-nature-v2",
+      "descriptionAdvanced": "A Monte Mitra egy monumentális hegycsúcs Río Muni déli részén, amely az ország egyik legfontosabb és legkevésbé kutatott esőerdei ökoszisztémájának központi eleme. A hegy domborzata rendkívül tagolt, meredek falaival és mély hasadékaival természetes erődítményként védi a benne élő ritka fajokat. A Monte Mitra környékén található erdők Közép-Afrika egyik utolsó menedékhelyét jelentik a veszélyeztetett hegyi gorillák és más ritka főemlősök számára. A hegy magassága és az abból adódó mikroklíma lehetővé teszi a különleges hegyi flóra kialakulását, amely éles ellentétben áll az alatta elterülő síkvidéki esőerdővel. A Monte Mitra nemcsak földrajzi különlegesség, hanem a tudományos kutatás és a természetvédelem egyik legígéretesebb területe, ahol minden expedíció új fajok felfedezésével kecsegtet. A hegy tekintélyparancsoló sziluettje uralja a déli horizontot.",
+      "factsAdvanced": [
+        "Dél-Río Muni egyik legmagasabb és legvadabb hegycsúcsa.",
+        "Létfontosságú menedékhely a veszélyeztetett hegyi gorillák számára.",
+        "Érintetlen, elsődleges trópusi esőerdők és köderdők borítják.",
+        "Számos csak itt található növény- és rovarfaj otthona.",
+        "A nehéz terepviszonyok miatt szinte teljesen háborítatlan vadon.",
+        "Fontos szerepet játszik a régió csapadékképződésében.",
+        "A nemzeti biodiverzitási stratégia egyik legfontosabb védett területe."
+      ]
+    },
+    {
+      "id": "golfo-de-guinea-nature-v2",
+      "descriptionAdvanced": "A Guineai-öböl Egyenlítői-Guinea létezésének alapköve, egy hatalmas és gazdag tengeri ökoszisztéma, amely körbeöleli az ország szigeteit és mossa a szárazföld partjait. Ez a tengeri térség a világ egyik leggazdagabb halászati területe, és itt találhatók azok a hatalmas kőolaj- és földgázmezők is, amelyek az ország gazdaságát hajtják. Az öböl vizei melegek és tápanyagban gazdagok, ideális feltételeket biztosítva a cetfélék, tengeri teknősök és számtalan halfaj számára. A part menti korallzátonyok és mangroveerdők pedig kritikus óvodaként szolgálnak a tengeri élővilág utánpótlásához. A Guineai-öböl nemcsak gazdasági erőforrás, hanem az ország nemzeti identitásának és klímájának is meghatározója. Az óceán morajlása és a végtelen horizont Malabo és Bata partjainál minden állampolgár számára az összeköttetést jelenti a nagyvilággal.",
+      "factsAdvanced": [
+        "Közép-Afrika legfontosabb tengeri ökoszisztémája és gazdasági övezete.",
+        "Világraszóló kőolaj- és földgázkészletek lelőhelye a tenger alatt.",
+        "Rendkívül gazdag halállomány, a helyi halászat éltetője.",
+        "Fontos vonulási útvonala a bálnáknak és delfineknek.",
+        "Meghatározza az ország párás trópusi éghajlatát.",
+        "Nemzetközi hajózási útvonalak és stratégiai kikötők otthona.",
+        "A tengerparti biodiverzitás és turizmus végtelen forrása."
+      ]
+    },
+    {
+      "id": "rio-campo-nature-v2",
+      "descriptionAdvanced": "A Río Campo (vagy Ntem) a Kamerunnal alkotott északi határvidék legszebb és legfontosabb folyami torkolata. Ez a terület egyedülálló módon ötvözi a folyóvízi és a tengeri ökoszisztémákat, hatalmas mangroveerdőkkel és homokpadokkal tagolva a tájat. A Río Campo vidéke az ország egyik legfontosabb madárrezervátuma, ahol a vándormadarak tömegei találnak pihenőt az Atlanti-óceán partján tett hosszú útjuk során. A folyó vize itt lelassul, mielőtt az óceánba érne, létrehozva egy tápanyagban gazdag lagúnavilágot, amely a helyi kisipari halászat központja. A terület vadsága és a határokon átnyúló ökológiai jelentősége miatt a Río Campo kiemelt figyelmet kap a természetvédelemben. A torkolatvidék csendje, ahol csak a madarak rikoltása és a víz csobogása hallatszik, a természet valódi érintetlenségét közvetíti minden látogatónak.",
+      "factsAdvanced": [
+        "A Kamerun felőli északi határfolyó tágas torkolatvidéke.",
+        "Az ország egyik legjelentősebb partmenti madárrezervátuma.",
+        "Hatalmas, összefüggő mangrove-erdők és mocsarak jellemzik.",
+        "Kiemelt szerepet játszik a tengeri halak ívásában és szaporodásában.",
+        "A torkolatvidék biodiverzitása nemzetközi jelentőségű.",
+        "Hagyományos pirog-halászat és természetközeli életmód a partokon.",
+        "Stratégiai pont a két ország közötti ökológiai együttműködésben."
+      ]
+    },
+    {
+      "id": "estuario-de-malabo-nature-v2",
+      "descriptionAdvanced": "A malabói torkolatvidék (Estuario de Malabo) Bioko szigetének északi partján található, ahol a vulkáni hegyekről lefutó patakok az Atlanti-óceánnal találkoznak. Ez a terület különleges geomorfológiai adottságokkal rendelkezik, meredek sziklákkal és védett öblökkel, amelyek történelmileg kiváló kikötőhelyet biztosítottak a városnak. A torkolat mentén még megmaradtak a természetes mangrove-foltok, amelyek fontos szűrő szerepet töltenek be és élőhelyet nyújtanak a part menti rákoknak és madaraknak. Bár a főváros közelsége miatt az emberi jelenlét erős, a torkolatvidék továbbra is fontos ökológiai folyosó, amely összeköti a szárazföldi és a tengeri élőhelyeket. A kormányzati rehabilitációs programok célja a torkolat tisztaságának megőrzése és a városi vadvilág védelme. A tenger és a folyók találkozása Malabónál a város egyik legdinamikusabb és legszebb természeti eleme.",
+      "factsAdvanced": [
+        "A főváros környéki vizek és az óceán találkozási pontja.",
+        "Védett öblök és sziklás partvonal jellemzi a torkolatot.",
+        "Fontos szerepet játszott Malabo történelmi kikötőjének kialakulásában.",
+        "Megmaradt mangrove-szigetek és tengerparti madárfajok otthona.",
+        "Folyamatos környezetvédelmi felügyelet alatt álló városi ökoszisztéma.",
+        "A vulkáni eredetű patakok itt táplálják friss vízzel az óceánt.",
+        "Látványos pontja a fővárosi sétánynak és a tengeri panorámának."
+      ]
+    },
+    {
+      "id": "monte-temelon-nature-v2",
+      "descriptionAdvanced": "A Monte Temelón Nemzeti Park Río Muni központi részén egy viszonylag alacsonyabb, de annál gazdagabb esőerdei rezervátum. A park domborzatát lágyabb halmok és széles folyóvölgyek jellemzik, amelyeket sűrű, biodiverz növényzet borít. Monte Temelón híres gazdag madárvilágáról és az itt élő ritka növényfajokról, amelyek a tartomány más részein már ritkaságnak számítanak. A terület fontos vízgyűjtő medence, számos kis patak táplálja a környék mezőgazdasági földjeit, így a park megőrzése közvetlenül befolyásolja a helyi lakosság életszínvonalát is. A park területén folyó fenntartható erdőgazdálkodási kísérletek példát mutatnak az ország más régiói számára. Monte Temelón szelídebb vadsága kiváló lehetőséget nyújt a természetközeli turizmus és az ökológiai nevelés számára, bemutatva az afrikai esőerdők regenerációs erejét.",
+      "factsAdvanced": [
+        "Río Muni központi részén fekvő, biodiverzitásban gazdag nemzeti park.",
+        "Fontos fészkelőhely számos endemikus közép-afrikai madárfaj számára.",
+        "Lágyabb domborzat, dús és fajgazdag esőerdei növényzettel.",
+        "Létfontosságú vízgyűjtő terület a környező mezőgazdasági régiók számára.",
+        "A fenntartható közösségi erdőgazdálkodás mintaterülete az országban.",
+        "Gazdag rovarvilág és ritka trópusi pillangók otthona.",
+        "Könnyebben megközelíthető vadon, ideális ökoturisztikai célpont."
+      ]
+    },
+    {
+      "id": "bosque-de-ureca-nature-v2",
+      "descriptionAdvanced": "Az ureca-i erdő Bioko szigetének legdélebbi részén található, és az ország egyik legvadabb, legcsapadékosabb és legkülönlegesebb területe. Ez az érintetlen esőerdő közvetlenül az óceánparttól emelkedik fel a hegyekig, létrehozva egy drámai, sziklás és buja tájat. Ureca híres hatalmas vízeséseiről, amelyek közvetlenül a homokos partra vagy az óceánba zuhannak, valamint a tengeri teknősök fészkelőhelyeiről, amelyek miatt a terület szigorú védelem alatt áll. Az erdő biológiai sokfélesége páratlan: ritka főemlősök, különleges madarak és ősi fafajok lakják a sűrű dzsungelt. Az ureca-i közösség aktívan részt vesz az erdő védelmében, fenntartható módon kezelve a természeti erőforrásokat. Ez a helyszín a sziget 'utolsó határaként' ismert, ahol az elemek ereje és az élet burjánzása minden látogatót lenyűgöz.",
+      "factsAdvanced": [
+        "A sziget legeldugottabb és legcsapadékosabb esőerdei övezete.",
+        "Itt találhatók a híres ureca-i vízesések, amelyek a partra hullanak.",
+        "Kritikus jelentőségű tengeri teknős fészkelőhelyek a homokos öblökben.",
+        "Endemikus majomfajok és ritka trópusi flóra érintetlen bázisa.",
+        "A helyi közösség és a természetvédelem sikeres együttműködésének példája.",
+        "Nyers és vad domborzat, meredek hegyoldalakkal és mély szurdokokkal.",
+        "Egyenlítői-Guinea egyik legértékesebb és legszigorúbban védett vadonja."
+      ]
+    },
+    {
+      "id": "rio-kie-nature-v2",
+      "descriptionAdvanced": "A Río Kié egy fontos mellékfolyó Egyenlítői-Guinea északkeleti részén, amely jelentős szerepet játszik Wele-Nzas tartomány vízháztartásában. A folyó a belső fennsíkokon kanyarog keresztül, dús galériaerdőket hozva létre a partjai mentén, amelyek éles kontrasztban állnak a környező mezőgazdasági területekkel. A Kié-folyó vize bőséges halállománynak ad otthont, és kritikus édesvíz-forrás a környékbeli települések és az állatvilág számára a szárazabb időszakokban is. A folyó menti ökoszisztéma gazdag madárvilággal és kisemlősökkel büszkélkedhet, amelyek a víz közelségét keresik. Történelmileg a folyó fontos szerepet játszott a régió benépesülésében és a kereskedelmi útvonalak kialakulásában Kamerun felé. A Río Kié csendes lüktetése a szárazföldi belső területek természeti állandóságát és gazdasági alapját jelképezi.",
+      "factsAdvanced": [
+        "Fontos északkeleti folyó Wele-Nzas tartomány szívében.",
+        "Látványos galériaerdők kísérik a folyó kanyargós medrét.",
+        "Létfontosságú édesvíz-forrás a régió mezőgazdasága számára.",
+        "Gazdag helyi halállomány, amely a lakosság táplálékforrása.",
+        "Fontos ökológiai folyosó a belső esőerdei fajok számára.",
+        "Természetes határ menti vízi út Kamerun irányába.",
+        "A folyóparti élőhelyek kiemelkedő madártani jelentőséggel bírnak."
+      ]
+    }
+  ]
+}

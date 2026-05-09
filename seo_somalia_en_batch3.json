@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mudug-savanna-relief-v2",
+      "descriptionAdvanced": "The Mudug Savanna extends as an expansive, semi-arid landscape across the central highland of Somalia. The relief is characterized by a gently undulating topography, which is primarily defined by thorny bushland, sparse grasses, and scattered acacia trees. Geologically, this region forms an extensive sedimentary basin that features temporary watercourses during the short but intense rainy seasons, which actively reshape the relief. The region is a classic example of savanna ecology that has adapted to extreme climatic fluctuations and serves as a vital grazing zone for extensive nomadic livestock farming.",
+      "factsAdvanced": [
+        "Extensive, semi-arid savanna relief in central Somalia.",
+        "Characterized by a gently undulating topography.",
+        "Vegetation dominated by thorny bushland and acacia trees.",
+        "Geological foundation consists predominantly of sedimentary basins.",
+        "Short, intense rainy seasons shape temporary watercourses.",
+        "Essential grazing zone for nomadic livestock farming.",
+        "High degree of adaptability to extreme climatic fluctuations."
+      ]
+    },
+    {
+      "id": "burao-valley-relief-v2",
+      "descriptionAdvanced": "The Burao Valley Basin forms a central topographic depression that separates the surrounding highlands in the interior of Somalia from a climatic and ecological perspective. As a natural drainage area, surface runoff from the surrounding hills collects here, enabling the development of oasis-like microhabitats in an otherwise rather dry environment. The soil structure consists of fine alluvial deposits that are particularly productive when moist. This geographic location has historically made the valley basin a hub for nomadic routes and small-scale settlement structures that have significantly shaped the local landscape.",
+      "factsAdvanced": [
+        "Central topographic depression in the Somali highlands.",
+        "Important collection point for surface runoff.",
+        "Development of oasis-like microhabitats in the valley basin.",
+        "Soil structure composed of fine, productive alluvial deposits.",
+        "Historically significant hub for nomadic routes.",
+        "Climatic and ecological peculiarity in the hinterland.",
+        "Structured by small-scale, water-oriented settlements."
+      ]
+    },
+    {
+      "id": "gardafui-coast-cliffs-relief-v2",
+      "descriptionAdvanced": "The Gardafui Coastal Cliffs at the Horn of Africa represent one of the most dramatic coastal formations on the entire African continent. The massive cliffs rise directly from the turbulent waters of the Indian Ocean, forming a steeply sloping, geologically impressive rock face. This formation is the result of tectonic uplift processes that have shaped the easternmost tip of the continent. Due to the constant influence of strong, saline sea currents and powerful winds, the cliffs are subject to continuous, but very slow, erosion, which has stabilized the steep, rugged relief of the coastline over millennia.",
+      "factsAdvanced": [
+        "Massive, steeply sloping cliffs at the Horn of Africa.",
+        "Geologically dramatic formation directly at the Indian Ocean.",
+        "Formed by complex tectonic uplift processes.",
+        "Constant influence from strong, saline sea currents.",
+        "Stabilized, rugged relief through continuous erosion.",
+        "Significant geographical landmark for global shipping.",
+        "Easternmost tip of the African continent."
+      ]
+    },
+    {
+      "id": "ayaha-plains-relief-v2",
+      "descriptionAdvanced": "The Ayaha Plains form a wide, arid highland landscape shaped by arid processes, which is recognizable by its open and horizontal structure. Much of the terrain is extremely flat and characterized by clay-rich soils that prevent rapid drainage and allow wide, grass-covered areas to form briefly after rare, intense rainfall. The topographic openness makes the region highly exposed to winds that can sweep across the terrain almost unimpeded. This combination of open geography and soil composition creates a fragile ecosystem that is dependent on the irregular rain events.",
+      "factsAdvanced": [
+        "Open, horizontal, and extremely flat highland relief.",
+        "Characterized by clay-rich soils with low drainage.",
+        "Brief grass formation after rare, intense rainfall.",
+        "Highly exposed to constant wind conditions.",
+        "Fragile ecosystem with high dependence on rain.",
+        "Topographically simple, expansive plains relief.",
+        "Important, albeit barren, zone for pastoral use."
+      ]
+    },
+    {
+      "id": "surud-cad-heights-relief-v2",
+      "descriptionAdvanced": "The Surud Cad Heights represent the highest topographic point of Somalia and are an integral part of the Golis Mountains. This alpine climate zone stands out significantly from the surrounding lowlands due to the significant altitude. The geological structure consists of massive rock formations that defy climatic extremes, particularly the strong winds and nighttime temperature fluctuations. The altitude allows for unique vegetation development that is climatically more akin to the Mediterranean mountain region than the tropical-arid Somali lowlands, making this area ecologically unique.",
+      "factsAdvanced": [
+        "Highest topographic point of the country in the Golis Massif.",
+        "Represents an alpine climate zone at high altitude.",
+        "Significant climatic separation from the Somali lowlands.",
+        "Consists of massive, weather-resistant rock formations.",
+        "Unique vegetation with a Mediterranean touch.",
+        "Highly exposed to strong winds and cold.",
+        "Ecologically isolated and highly specialized habitat."
+      ]
+    }
+  ]
+}

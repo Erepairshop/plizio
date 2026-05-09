@@ -2,44 +2,68 @@
   "lang": "ro",
   "country": "canada",
   "files": [
-    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
-    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
-    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts"
   ],
   "items": [
     {
-      "id": "mississauga-cities-v2",
-      "descriptionAdvanced": "Mississauga este unul dintre cele mai mari orașe din Canada, cu o populație de peste 700.000 de locuitori, servind ca un centru economic vital în zona metropolitană Toronto (GTA). Orașul găzduiește Aeroportul Internațional Toronto Pearson, cel mai mare aeroport din țară, care facilitează călătoriile pentru milioane de pasageri anual. Geografia K7 — centre urbane și noduri de transport.",
-      "factsAdvanced": ["Peste 700.000 de locuitori", "Cel mai important aeroport din Canada", "Sediul multor companii din top Fortune 500", "Istoric marcat de agricultură", "Fondat ca oraș în 1974", "Situat pe malul lacului Ontario"]
+      "id": "mount-assiniboine-nature-v2",
+      "descriptionAdvanced": "Muntele Assiniboine, cu o altitudine de 3.618 metri, este adesea numit „Matterhorn-ul Canadei” datorită siluetei sale piramidale spectaculoase. Situat la granița dintre provinciile British Columbia și Alberta, acest vârf reprezintă unul dintre cele mai emblematice repere din Munții Stâncoși canadieni. Parcul Provincial Mount Assiniboine protejează acest ecosistem alpin fragil începând cu anul 1922. Zona este renumită pentru lacurile glaciare, cum ar fi Lacul Magog, care servește drept punct de pornire pentru numeroase trasee de drumeție. Geografie K7 — munți și ghețari.",
+      "factsAdvanced": [
+        "Altitudine de 3.618 metri.",
+        "Denumit de George Mercer Dawson în 1885.",
+        "Situat pe granița dintre British Columbia și Alberta.",
+        "Lacul Magog este principala bază pentru drumeții.",
+        "Forma piramidală a fost sculptată de eroziunea glaciară.",
+        "Parcul a fost stabilit în 1922."
+      ]
     },
     {
-      "id": "brampton-cities-v2",
-      "descriptionAdvanced": "Brampton este adesea supranumit "Orașul Florilor din Canada", datorită istoriei sale bogate în producția de flori. Astăzi, este unul dintre cele mai diverse orașe din punct de vedere etnic din America de Nord și un centru dinamic în zona metropolitană Toronto. Istorie K8 — imigrație și dezvoltare culturală.",
-      "factsAdvanced": ["Supranumit "Orașul Florilor"", "Cea mai rapidă creștere a populației în Ontario", "Peste 200 de grupuri etnice", "Fost centru pentru sere", "Găzduiește teatrul Rose Theatre", "Parte a regiunii Peel"]
+      "id": "south-nahanni-river-nature-v2",
+      "descriptionAdvanced": "Râul South Nahanni străbate Parcul Național Nahanni, un sit inclus în Patrimoniul Mondial UNESCO în Teritoriile de Nord-Vest. Această cale navigabilă este celebră pentru Cascada Virginia, care are o înălțime de 96 de metri, fiind considerabil mai înaltă decât Cascada Niagara. Regiunea este caracterizată de canioane adânci, sisteme de peșteri carstice și izvoare termale unice. Râul reprezintă o destinație de top pentru aventurieri și pasionații de rafting, oferind un peisaj sălbatic și aproape intact în nordul îndepărtat al Canadei. Geografie K7 — râuri și cascade.",
+      "factsAdvanced": [
+        "Cascada Virginia are o înălțime de 96 metri.",
+        "Lungimea râului este de aproximativ 540 kilometri.",
+        "Inclus în Patrimoniul Mondial UNESCO în 1978.",
+        "Teritoriul tradițional al populației indigene Dene.",
+        "Reconocut pentru sistemele carstice complexe.",
+        "Parcul Național Nahanni acoperă peste 30.000 km²."
+      ]
     },
     {
-      "id": "hamilton-cities-v2",
-      "descriptionAdvanced": "Situat la capătul vestic al lacului Ontario, Hamilton are rădăcini adânci în istoria industrială a Canadei, în special în producția de oțel. Orașul este, de asemenea, celebru pentru caracteristica sa geografică unică, Escarpa Niagara, și pentru cele peste 100 de cascade naturale. Geografie K6 — formațiuni geologice și industrie.",
-      "factsAdvanced": ["Industria oțelului domină economia locală", "Escarpa Niagara traversează orașul", "Peste 100 de cascade documentate", "Grădinile Botanice Regale sunt cele mai mari din Canada", "Fost sediu al companiei Stelco", "Port important la lacul Ontario"]
+      "id": "great-slave-lake-nature-v2",
+      "descriptionAdvanced": "Marele Lac al Sclavilor este al doilea cel mai mare lac din Teritoriile de Nord-Vest și deține titlul de cel mai adânc lac din America de Nord, cu o adâncime maximă de 614 metri. Orașul Yellowknife, capitala teritoriului, este situat pe țărmul nordic al lacului, dezvoltându-se rapid în timpul febrei aurului din anii 1930. În timpul iernii, suprafața înghețată a lacului permite formarea unor drumuri de gheață esențiale pentru transportul între comunitățile izolate. Apa sa clară susține o biodiversitate bogată, fiind esențială pentru ecosistemul regional. Geografie K7 — hidrologie și lacuri.",
+      "factsAdvanced": [
+        "Adâncime maximă de 614 metri.",
+        "Suprafață de aproximativ 27.200 km².",
+        "Al doilea cel mai mare lac din Canada.",
+        "Yellowknife este situat pe țărmul nordic.",
+        "Apa se scurge prin Râul Mackenzie spre Oceanul Arctic.",
+        "Iarna se creează rețele de drumuri pe gheață."
+      ]
     },
     {
-      "id": "london-cities-v2",
-      "descriptionAdvanced": "London, Ontario, este supranumit "Orașul Pădure" datorită numeroșilor copaci și spații verzi de-a lungul râului Thames. Orașul este un centru educațional și de cercetare semnificativ, susținut de Universitatea Western și de facilitățile sale medicale de top. Biologie K7 — ecosisteme urbane.",
-      "factsAdvanced": ["Universitatea Western fondată în 1878", "Supranumit "The Forest City"", "Situat la confluența râului Thames", "Lider în cercetare medicală", "Populație de aproximativ 400.000", "Nod feroviar istoric important"]
+      "id": "haida-gwaii-islands-nature-v2",
+      "descriptionAdvanced": "Arhipelagul Haida Gwaii, situat în largul coastelor Columbiei Britanice, este adesea supranumit „Galapagosul Nordului” datorită biodiversității sale unice care a evoluat izolat după ultima eră glaciară. Insulele sunt centrul cultural al populației Haida, renumită pentru totemi și satele istorice protejate ca Patrimoniu Mondial. Climatul oceanic favorizează dezvoltarea unor păduri temperate pluviale luxuriante. Regiunea oferă un habitat esențial pentru numeroase specii endemice și păstrează legătura profundă a poporului Haida cu mediul înconjurător. Geografie K7 — insule și biodiversitate.",
+      "factsAdvanced": [
+        "Arhipelagul cuprinde peste 150 de insule.",
+        "Principalele insule sunt Graham și Moresby.",
+        "Populația Haida locuiește aici de milenii.",
+        "Parcul Național Gwaii Haanas se află în sud.",
+        "Climat oceanic cu precipitații abundente.",
+        "Găzduiește numeroase specii endemice de plante și animale."
+      ]
     },
     {
-      "id": "markham-cities-v2",
-      "descriptionAdvanced": "Markham este recunoscut drept "Capitala High-Tech a Canadei", găzduind numeroase sedii ale companiilor multinaționale din sectorul tehnologic. Cu o puternică influență asiatică, orașul oferă o atmosferă culturală unică în zona metropolitană Toronto. Economie K8 — tehnologie și globalizare.",
-      "factsAdvanced": ["Cunoscut ca "Capitala High-Tech a Canadei"", "Peste 1.500 de companii de tehnologie", "Puternică influență economică asiatică", "Nucleu istoric în Markham Village", "Peste 50% din populație de origine asiatică", "Fondat în 1794"]
-    },
-    {
-      "id": "vaughan-cities-v2",
-      "descriptionAdvanced": "Vaughan este unul dintre orașele cu cea mai rapidă creștere din Canada, oferind un amestec de zone rezidențiale moderne și mari atracții de divertisment, precum Canada's Wonderland. Din punct de vedere economic, orașul este un motor important în regiunea York. Geografie K5 — dezvoltare urbană.",
-      "factsAdvanced": ["Găzduiește Canada's Wonderland", "Creșterea populației peste medie", "Centrul Vaughan Metropolitan Centre", "Motor economic al regiunii York", "Vaughan Mills oferă peste 200 de magazine", "Situat aproape de Toronto"]
+      "id": "pacific-rim-national-park-forest-nature-v2",
+      "descriptionAdvanced": "Parcul Național Pacific Rim protejează pădurile tropicale temperate de pe coasta vestică a Insulei Vancouver. Acest ecosistem este caracterizat prin copaci masivi, precum molidul Sitka și cedrul roșu vestic, care au sute de ani vechime. Unitatea Long Beach este celebră pentru plajele sale întinse, care atrag turiști din întreaga lume. West Coast Trail, situat în cadrul parcului, este unul dintre cele mai faimoase trasee de drumeție din lume, oferind exploratorilor o experiență directă în inima naturii sălbatice. Geografie K7 — păduri și conservarea naturii.",
+      "factsAdvanced": [
+        "Unitatea Long Beach este un punct de atracție major.",
+        "Sanctuar pentru molizi Sitka monumentali.",
+        "Cedrii roșii vestici ating dimensiuni impresionante.",
+        "West Coast Trail este un traseu de renume mondial.",
+        "Ecosistemul este puternic influențat de Oceanul Pacific.",
+        "Centru pentru studiul pădurilor temperate pluviale."
+      ]
     }
   ]
 }

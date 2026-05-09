@@ -1,0 +1,249 @@
+{
+  "lang": "hu",
+  "country": "iraq",
+  "files": [
+    "lib/visualLab/data/poiExtraIraqLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "al-zawraa-park-life-v2",
+      "descriptionAdvanced": "Az iraki főváros, Bagdad központjában található Al-Zawraa park megközelítőleg három négyzetkilométernyi területet foglal magában. A komplexum a korai 1970-es években nyitotta meg kapuit, és azóta is a város egyik legfontosabb rekreációs övezetének számít. A hatalmas zöldterületek mellett a park területén működik egy állatkert, egy vidámpark különféle szórakoztató eszközökkel, valamint az 1999-ben átadott, 55 méter magas Al-Zawraa torony, amelyből messzire el lehet látni a metropolisz felett. Ezen felül a park magában foglalja az akár 15 000 néző befogadására alkalmas Al-Zawraa stadiont is, amelyet elsősorban labdarúgó-mérkőzések lebonyolítására használnak. A 2000-es évek konfliktusait követően a park infrastruktúráját 2008-tól kezdődően fokozatosan felújították és modernizálták, hogy a lakosok számára ismét biztonságos szabadidős létesítményt biztosítsanak. Kiemelt ünnepnapokon, például az Eid al-Fitr idején, a park látogatottsága rendszeresen meghaladja a napi 100 000 főt.",
+      "factsAdvanced": [
+        "Körülbelül 3 négyzetkilométeres kiterjedésű területet foglal magában.",
+        "Hivatalos megnyitására az 1970-es évek első felében került sor.",
+        "Itt található az 1999-ben felépített, 55 méter magas Al-Zawraa torony.",
+        "A komplexumba integrált stadion mintegy 15 000 ülőhellyel rendelkezik.",
+        "A 2000-es években elszenvedett károk után 2008-ban kezdődött meg a felújítás.",
+        "A jelentősebb ünnepnapokon a napi látogatók száma meghaladhatja a 100 000 főt."
+      ]
+    },
+    {
+      "id": "baghdad-zoo-life-v2",
+      "descriptionAdvanced": "A Bagdadi Állatkert az Al-Zawraa park területén belül helyezkedik el, és 1971-ben kezdte meg hivatalos működését. A létesítmény mintegy 81 hektáros területet foglal magában. A 2003-as évet megelőzően a komplexum több mint 650 állatnak adott otthont, a háborús események következtében azonban csupán egy körülbelül 35 egyedből álló töredék élte túl a konfliktus első hónapjait. A nemzetközi támogatásoknak és az állatvédő szervezetekkel való együttműködésnek köszönhetően 2003 végén megindult a szisztematikus újjáépítés. 2008-ra az állomány ismét több mint 800 egyedre bővült, amelyek 80 különböző fajt képviseltek, köztük oroszlánokat, medvéket és különféle főemlősöket. Egy jelentősebb bővítésre 2013-ban került sor, amikor új kifutókat építettek a nagymacskák és az afrikai patások számára. A vezetőség a rögövetkező években fokozott hangsúlyt fektetett az állatorvosi előírások betartására és a fajmentő programokra a városi környezetben.",
+      "factsAdvanced": [
+        "A zoológiai létesítmény hivatalos megnyitása 1971-ben történt.",
+        "Az eredeti állatkerti terület mintegy 81 hektáron terül el.",
+        "2003 áprilisában csupán mintegy 35 állat élte túl a háborús cselekményeket.",
+        "2008-ra az adományok révén az állomány ismét 800 egyedre növekedett.",
+        "A gyűjtemény 2008-ban összesen 80 különböző állatfajt foglalt magában.",
+        "2013-ban új, kibővített kifutókat adtak át a ragadozó nagymacskák számára."
+      ]
+    },
+    {
+      "id": "sindbad-land-life-v2",
+      "descriptionAdvanced": "A Szindbád Földje egy bagdadi kereskedelmi vidámpark, amely megközelítőleg 100 000 négyzetméteres területet ölel fel. A komplexumot egy átfogó fejlesztési szakaszt követően, 2015-ben nyitották meg modern szabadidőközpontként. Névválasztása a történelmi irodalmi alakra, az Ezeregyéjszaka meséiből ismert Szindbádra utal. A park 35 különböző mechanikus és elektronikus szórakoztató berendezést kínál, amelyek között szerepel egy 40 méter magas hullámvasút és egy légkondicionált kabinokkal felszerelt óriáskerék is. Az infrastruktúra részét képezi egy mesterséges medence, amelyet csónakázásra használnak, valamint több rendezvényterem, ahol koncerteket és színházi előadásokat tartanak. A létesítmény saját áramfejlesztőkkel rendelkezik, így a hálózati ingadozások ellenére is folyamatos működést képes biztosítani. Évente mintegy 1,5 millió látogató keresi fel a parkot, amely elsősorban a belföldi turizmusra fókuszál.",
+      "factsAdvanced": [
+        "A szabadidőközpont összesen 100 000 négyzetméteres területet foglal el.",
+        "A modernizált létesítmény hivatalos átadása 2015-ben történt.",
+        "A területen 35 különféle mechanikus szórakoztató berendezés üzemel.",
+        "A fő attrakció egy hullámvasút, amelynek magassága eléri a 40 métert.",
+        "Évente több mint 1,5 millió látogatót regisztrálnak az intézményben.",
+        "A park független áramellátó rendszerrel rendelkezik a zavartalan üzemeléshez."
+      ]
+    },
+    {
+      "id": "sami-abdulrahman-park-life-v2",
+      "descriptionAdvanced": "Az erbíli Sami Abdulrahman park 200 hektáron terül el, és ezzel a Kurdisztáni Autonóm Régió legnagyobb belvárosi zöldterülete. A létesítményt az iraki hadsereg 5. hadtestének egykori katonai bázisának alapjaira építették. A polgári parkká történő átalakítás 1998-ban kezdődött meg, a befejezésre és a megnyitásra pedig 2000-ben került sor. A park névadója a 2004-ben egy merényletben életét vesztett kurd politikus, Sami Abdulrahman volt. A komplexumon belül két mesterséges tó, több mozi, éttermek, valamint a 2004-es támadás áldozatainak emléket állító Mártíremlékmű is helyet kapott. A park növényvilága több mint 10 000 telepített fát és kiterjedt rózsakerteket foglal magában. A terület nemcsak pihenésre szolgál, hanem a szomszédos kiállítási központtal együtt évente otthont ad az Erbíli Nemzetközi Vásárnak is.",
+      "factsAdvanced": [
+        "A komplexum teljes területe 200 hektárt tesz ki a városhatáron belül.",
+        "A katonai bázis átalakítási munkálatai 1998-ban vették kezdetüket.",
+        "A polgári park hivatalos felavatása a 2000-es évben zajlott le.",
+        "A park területén szisztematikusan több mint 10 000 fát ültettek el.",
+        "A létesítmény két mesterséges tavat foglal magában csónakázási lehetőséggel.",
+        "Egy különálló emlékmű őrzi a 2004. februári merénylet 98 áldozatának emlékét."
+      ]
+    },
+    {
+      "id": "majidi-land-life-v2",
+      "descriptionAdvanced": "A Majidi Land egy 2009-ben megnyitott, integrált kiskereskedelmi és szórakoztató komplexum Erbíl északnyugati részén. A központ egy 130 000 négyzetméteres beépített területen terül el, ahol egy bevásárlóközpont és egy beltéri vidámpark is helyet kapott. A tervezés során a fő cél egy olyan egész évben használható szabadidős létesítmény létrehozása volt, amely az észak-iraki magas nyári hőmérséklettől függetlenül működtethető. A beltéri park 25 játékelemet kínál, köztük egy az épületbe integrált hullámvasutat, dodzsemet és egy hatalmas területet videójáték-automatákkal. A bevásárlóközpont 85 nemzetközi és helyi márkaüzletnek ad otthont, emellett a gasztronómiai udvarán 15 különböző étterem található. Az épület egy 1200 jármű befogadására alkalmas, föld alatti parkolóházzal is rendelkezik. A projekt a 2003 utáni időszak egyik első nagyszabású magánberuházása volt a régió szórakoztatóiparában.",
+      "factsAdvanced": [
+        "Az épületkomplexum teljes alapterülete eléri a 130 000 négyzetmétert.",
+        "A szabadidős létesítmény hivatalos megnyitójára 2009-ben került sor.",
+        "A beltéri részlegen 25 mechanikus és elektronikus játékgép kapott helyet.",
+        "A kereskedelmi zóna 85 kiskereskedelmi üzletet és 15 éttermet foglal magában.",
+        "A föld alatti parkolóhelyek akár 1200 jármű számára is elegendőek.",
+        "A központot a hagyományos hétvégéken átlagosan 5000 látogató keresi fel."
+      ]
+    },
+    {
+      "id": "chavi-land-life-v2",
+      "descriptionAdvanced": "A Chavi Land egy nagyszabású turisztikai és rekreációs komplexum, amely a Szulejmánijja városában található Goizha-hegy lábánál fekszik. A létesítményt három évig tartó építési munkálatok után, 2013-ban nyitották meg a nagyközönség számára. A park mintegy 380 000 négyzetméteres területet ölel fel, és megvalósításához körülbelül 150 millió amerikai dollárnyi beruházás volt szükséges. Fő attrakciója a két kilométer hosszú drótkötélpálya, amely a park aljából egyenesen a Goizha-hegy csúcsára szállítja a látogatókat, összesen 400 méteres szintkülönbséget áthidalva. Emellett a létesítmény egy 600 méter hosszú hullámvasutat, egy viaszmúzeumot 40 ismert kurd és nemzetközi személyiség viaszfigurájával, valamint mesterséges vízeséseket is kínál. A területen 15 étterem és számos kávézó működik, amelyek naponta akár 10 000 vendéget is ki tudnak szolgálni. Több mint 800 alkalmazottjával a Chavi Land a szulejmánijjai tartomány egyik legnagyobb munkáltatója a turisztikai szektorban.",
+      "factsAdvanced": [
+        "A teljes létesítmény 380 000 négyzetméteres hegyoldali területet foglal el.",
+        "A projekt 2013-ban nyílt meg 150 millió amerikai dolláros beruházással.",
+        "A beépített drótkötélpálya 2 kilométeres szakaszon 400 méteres szintkülönbséget hidal át.",
+        "A park legjelentősebb hullámvasútjának pályahossza eléri a 600 métert.",
+        "A helyszínen lévő viaszmúzeumban 40 híres személyiség viaszfigurája látható.",
+        "A komplexum közvetlenül több mint 800 dolgozót foglalkoztat a szolgáltatószektorban."
+      ]
+    },
+    {
+      "id": "azadi-park-life-v2",
+      "descriptionAdvanced": "Az Azadi park Szulejmánijja belvárosában helyezkedik el, kialakítására a korai 1990-es években került sor. A terület ezt megelőzően az iraki fegyveres erők katonai helyőrségének székhelyeként szolgált, amelyet egészen 1991-ig használtak. Jelenleg a 12 hektáros kiterjedésű park a metropolisz legnagyobb városi zöldövezete. Az összesen öt kilométer hosszú úthálózatot sűrű fák szegélyezik, amelyeket a park megnyitása utáni első években ültettek el. A park északi részén található egy 4000 négyzetméteres mesterséges tó is, melynek vízellátását talajvízszivattyúkkal biztosítják. Emellett egy emlékmű is helyet kapott a parkban, amelyet az 1988-as Anfal-hadművelet áldozatainak szenteltek. Minden év márciusában a terület a Newroz-ünnepségek központi helyszínévé válik, amelyen hagyományosan akár 50 000 helyi lakos is összegyűlik ünnepelni.",
+      "factsAdvanced": [
+        "A park a városközpontban egy 12 hektáros területet foglal magában.",
+        "A létesítmény helyszínét 1991-ig katonai támaszpontként használták.",
+        "A burkolt gyalogos úthálózat teljes hossza eléri az 5 kilométert.",
+        "Az északi szektorban elhelyezkedő mesterséges tó 4000 négyzetméteres.",
+        "Egy központi emlékmű állít emléket az 1988-as események áldozatainak.",
+        "Az évente megrendezett márciusi Newroz-ünnepségek akár 50 000 látogatót is vonzanak."
+      ]
+    },
+    {
+      "id": "basra-family-park-life-v2",
+      "descriptionAdvanced": "A Bászrai Családi Park egy közösségi szabadidős létesítmény a dél-iraki kikötőváros, Bászra nyugati részén. A parkot 2011-ben nyitották meg egy átfogó városrehabilitációs kezdeményezést követően, amelynek célja a tartományban lévő biztonságos pihenőhelyek hiányának enyhítése volt. A komplexum 25 000 négyzetméteren terül el, és folyamatosan öntözött pázsittal, valamint az árnyékolást szolgáló 300 elültetett datolyapálmával várja a kikapcsolódni vágyókat. A gyermekek számára három különálló, gumírozott padlózatú és modern mászókákkal felszerelt játszóteret alakítottak ki. A létesítmény egyik központi eleme a szökőkútrendszer, amelyet az esti órákban 50 LED-es fényszóró világít meg. Mivel a nyári nappali hőmérséklet gyakran meghaladja az 50 Celsius-fokot, a parkot elsősorban a késő esti órákban látogatják aktívan. Az üzemeltetést Bászra város vezetése végzi, amely 2018-ban napelemeket is telepített az esti világítás önálló energiaellátásának biztosítására.",
+      "factsAdvanced": [
+        "A városi park hivatalos megnyitására a 2011-es évben került sor.",
+        "A létesítmény alapterülete összesen 25 000 négyzetmétert tesz ki.",
+        "A területre 300 datolyapálmát ültettek a természetes árnyékolás érdekében.",
+        "A központi szökőkutat sötétedés után 50 darab LED-es lámpa világítja meg.",
+        "A park három különálló gyermekjátszóteret kínál biztonságos burkolattal.",
+        "2018-ban napelemes rendszert építettek ki az autonóm világítás fenntartására."
+      ]
+    },
+    {
+      "id": "mosul-woods-life-v2",
+      "descriptionAdvanced": "A Moszuli erdők, amelyeket a helyiek Al-Ghabat néven ismernek, egy 400 hektáros erdős területet képeznek a Tigris folyó keleti partján Moszul városában. Az erdősítési projekt még az 1950-es években kezdődött, elsősorban eukaliptusz és fenyőfajok ültetésével, amelynek célja a talajerózió megállítása és a mikroklíma javítása volt. 2014 előtt a terület számos étteremnek, úszómedencének és lovasklubnak adott otthont. Az Iszlám Állam általi, 2014 és 2017 közötti megszállás idején azonban a becslések szerint a fák 60 százaléka elpusztult a kiterjedt fakivágások és tüzek miatt, az infrastruktúra pedig jelentős károkat szenvedett. 2018-tól kezdődően a város vezetése nemzetközi civil szervezetek bevonásával újjáépítési programot indított el, melynek keretében 2021-ig több mint 100 000 új facsemetét ültettek el. Az erdőn belüli belső úthálózatot nyolc kilométeres szakaszon újraaszfaltozták. Ma a terület ismét nagy népszerűségnek örvend, különösen péntekenként vonz rengeteg látogatót, és a város legfontosabb zöld tüdejének számít.",
+      "factsAdvanced": [
+        "A Tigris parti erdősítési program eredetileg az 1950-es években vette kezdetét.",
+        "A fásított terület eredeti nagysága megközelítőleg 400 hektár volt.",
+        "2014 és 2017 között a korábbi faállomány mintegy 60 százaléka megsemmisült.",
+        "2018 után az újraerdősítési munka során több mint 100 000 új fát ültettek el.",
+        "A belső úthálózat 8 kilométeres hosszúságban kapott új aszfaltburkolatot.",
+        "Az ültetvények nagy részét a hőtűrő eukaliptusz és különféle fenyőfajok alkotják."
+      ]
+    },
+    {
+      "id": "shanidar-park-life-v2",
+      "descriptionAdvanced": "A Sanidar park egy 10 hektáros nyilvános rekreációs terület Erbíl városának szívében, amelyet 2008-ban adtak át a közönségnek. Nevét a Barzan régióban található, régészetileg kiemelkedően fontos Sanidar-barlangról kapta, ahol az 1950-es években neandervölgyi csontvázakat tártak fel. A park építészeti különlegessége egy mesterséges barlangrendszer, amely egy 600 négyzetméteres kiállítótérrel rendelkező művészeti galériaként funkcionál, ahol helyi festők és szobrászok alkotásait állítják ki. Egy másik jelentős építmény a területen az a drótkötélpálya-állomás, amely 2010 óta biztosít közvetlen kapcsolatot a szomszédos Minaret parkkal egy 1,5 kilométer hosszú szakaszon. A létesítmény 15 méteres szintkülönbséggel rendelkezik, amelyet teraszos kertek és látványos vízi elemek tagolnak. A park területén 200 padot helyeztek el, az öntözést pedig teljes egészében egy automatizált, föld alatti csepegtető rendszer végzi, jelentősen minimalizálva a vízfogyasztást.",
+      "factsAdvanced": [
+        "A 2008-ban átadott nyilvános park egy 10 hektáros területen helyezkedik el.",
+        "A mesterséges barlangban kialakított művészeti galéria 600 négyzetméteres.",
+        "Egy 1,5 kilométer hosszú drótkötélpálya köti össze 2010 óta a Minaret parkkal.",
+        "A terület domborzata lépcsőzetes, 15 méteres szintkülönbséget foglal magában.",
+        "A látogatók számára összesen 200 darab padot telepítettek a parkba.",
+        "Az ültetvények víztakarékos ellátását egy automatizált csepegtető rendszer végzi."
+      ]
+    },
+    {
+      "id": "minaret-park-life-v2",
+      "descriptionAdvanced": "Az erbíli Minaret park a történelmi Muzaffar-minaretet öleli körbe, melynek megépítését 1190 és 1232 közé, Muzaffar ad-Din Gökböri szultán uralkodásának idejére teszik. A 36 méter magas építmény egy nyolcszögletű talapzattal rendelkezik. A körvonalazó parkot 2007-ben alakították ki egy 15 hektáros területen, abból a célból, hogy a történelmi emlékművet jobban bevonják a városi szabadidős életbe. A park elrendezése a geometrikus iszlám kertépítészet hagyományait modern stíluselemekkel ötvözi. Két egymást keresztező, vízcsatornákkal szegélyezett főtengely vezet közvetlenül a minarethez. A sétányok mentén 12 jelentős kurd költő és tudós bronzbüsztje kapott helyet. A park nyugati részén épült fel egy 400 férőhelyes amfiteátrum jellegű létesítmény, amelyet rendszeresen felolvasások és kisebb zenei előadások helyszíneként használnak.",
+      "factsAdvanced": [
+        "A park nevét adó torony az 1190 és 1232 közötti időszakban épült fel.",
+        "A hengeres téglaépítmény magassága eléri a 36 métert.",
+        "Az emlékművet övező 15 hektáros parkosított terület 2007-ben készült el.",
+        "A helyszínen 12 kiemelkedő kurd értelmiségi bronzbüsztjét állították ki.",
+        "A nyugati zónában lévő nyitott amfiteátrum 400 néző befogadására alkalmas.",
+        "Egy drótkötélpálya teremt közvetlen összeköttetést a közeli Sanidar parkkal."
+      ]
+    },
+    {
+      "id": "barzan-nature-reserve-life-v2",
+      "descriptionAdvanced": "A Barzan Természetvédelmi Terület az erbíli tartomány Mergasor kerületében fekszik, és egy több száz négyzetkilométernyi hegyvidéki régiót ölel fel. A védett státusz a Barzani törzs törvényeire vezethető vissza, akik már az 1930-as években is szigorú vadászati és fakivágási tilalmat rendeltek el ezen a területen. Ezek a történelmi gyökerű védelmi intézkedések tették lehetővé a rendkívül változatos hegyvidéki fauna megőrzését, miközben a régió más részein jelentős pusztulást szenvedett el. A dokumentált állatfajok közé tartozik a vadkecske, a vaddisznó, valamint a kritikusan veszélyeztetett anatóliai leopárd kisebb populációi is. A tengerszint feletti magasság 600 és több mint 2500 méter között váltakozik, amely különböző, elsősorban tölgyerdők által dominált vegetációs zónák kialakulását eredményezte. A 2010-es években nemzetközi biológusokkal együttműködve kameracsapdákat telepítettek ki, amelyek 2015-ben 1800 méteres magasságban is sikeresen igazolták a ritka nagymacskák folyamatos jelenlétét.",
+      "factsAdvanced": [
+        "A régió első szigorú vadászati tilalmait még az 1930-as években vezették be.",
+        "A domborzati magasság 600 métertől egészen 2500 méterig váltakozik.",
+        "A terület elsődleges élőhelyet biztosít a vadon élő anatóliai bezoárkecskének.",
+        "2015-ben a kameracsapdák 1800 méteren igazolták ritka nagymacskák jelenlétét.",
+        "A középső magassági zónák növényzetét elsősorban különféle tölgyfák alkotják.",
+        "A természetvédelmi előírások szigorúan tiltják a fák engedély nélküli kivágását."
+      ]
+    },
+    {
+      "id": "bahr-al-najaf-reserve-life-v2",
+      "descriptionAdvanced": "A Bahr Al-Nadzsaf egy lefolyástalan medence Nadzsaf városától nyugatra, melynek vízfelülete bizonyos időszakokban megközelítheti a 360 négyzetkilométert is. A geológiai mélyedés mintegy 20 méterrel fekszik a tengerszint alatt. A tó hidrológiai dinamikája szélsőségesen ingadozó: a nyári és őszi hónapokban a medence nagy része kiszárad, kiterjedt sómedencéket hagyva maga után, míg a januártól áprilisig tartó esős évszakban sekély tóvá alakul át. Ez az időszakos víztömeg kulcsfontosságú pihenőhely a nyugat-ázsiai és kelet-afrikai vonulási útvonalon áthaladó madarak számára. Az évente ideérkező vendégek több mint 30 vízimadárfajt képviselnek, köztük a rózsás gödényt és számos flamingófajt. Csapadékban gazdag években az iraki környezetvédelmi hatóságok akár 50 000 telelő madarat is regisztrálnak itt. Kiemelkedő ökológiai jelentősége miatt a terület egy részét 2017-ben nemzeti természetvédelmi területté nyilvánították, elsősorban a mezőgazdasági lefolyások okozta növekvő szennyezés megfékezése érdekében.",
+      "factsAdvanced": [
+        "A geológiai medence hozzávetőlegesen 20 méterrel a tengerszint alatt húzódik.",
+        "Maximális kiterjedése esetén a víztükör felülete eléri a 360 négyzetkilométert.",
+        "Több mint 30 különböző vízimadárfaj használja pihenőhelyként a területet.",
+        "Csapadékban gazdagabb teleken akár 50 000 vándormadarat is megszámolnak itt.",
+        "A hivatalos, részleges természetvédelmi területté nyilvánítás 2017-ben történt.",
+        "A régió jelentős megállóhely a nyugat-ázsiai és kelet-afrikai madárvonulási útvonalon."
+      ]
+    },
+    {
+      "id": "qara-dagh-reserve-life-v2",
+      "descriptionAdvanced": "A Qara Dagh Természetvédelmi Terület Szulejmánijja városától délre fekszik, és egy 22 000 hektáros erdős hegytömböt foglal magában. A régió jellegzetessége a nehezen járható domborzat, amelynek legmagasabb csúcsa eléri az 1890 métert. A terület 2011-ben keltett nemzetközi tudományos figyelmet, amikor a Nature Iraq szervezet által végzett kameracsapdás kutatás révén első ízben sikerült fényképes bizonyítékot szerezni a perzsa leopárd (Panthera pardus tulliana) iraki fennmaradásáról. A kritikusan veszélyeztetett nagymacska mellett a rezervátum otthont ad a szíriai barna medvének, farkasoknak, valamint több mint 80 dokumentált madárfajnak is. A növényzet több mint 70 százalékát lombhullató tölgyerdők alkotják. Az orvvadászat és az illegális fakivágás megakadályozása érdekében 2014 óta speciális erdészeti járőregységek felügyelik a legérzékenyebb magzónákat, amelyek a teljes védett területből mintegy 5000 hektárt tesznek ki.",
+      "factsAdvanced": [
+        "A hivatalosan kijelölt hegytömb összesen 22 000 hektáros területet fed le.",
+        "A védett hegylánc legmagasabb pontja az 1890 méteres magasságot is eléri.",
+        "2011-ben itt rögzítették az első fényképes bizonyítékot az iraki perzsa leopárdról.",
+        "Az ornitológusok több mint 80 különböző madárfajt katalogizáltak a tölgyerdőkben.",
+        "A lombhullató tölgyfajok teszik ki az erdő teljes növényzetének 70 százalékát.",
+        "A legszigorúbban őrzött 5000 hektáros magzónát speciális erdészek ellenőrzik."
+      ]
+    },
+    {
+      "id": "mesopotamian-marshes-np-life-v2",
+      "descriptionAdvanced": "A Thi Qar, Maysan és Bászra tartományokban elterülő Mezopotámiai Mocsarak Nemzeti Park a Közel-Kelet legnagyobb egybefüggő vizes élőhelyét alkotja. Az Eufrátesz és a Tigris összefolyásánál fekvő mocsárvidék a történelem során időnként 20 000 négyzetkilométeres területet is borított. Az 1990-es években a zóna több mint 90 százalékát mesterségesen lecsapolták, ami drámai ökológiai katasztrófát okozott. A 2003-as eseményeket követően elkezdődött a gátak elbontása és a terület rehabilitációja, amelynek révén az eredeti mocsárvidék körülbelül felét ismét elárasztották. 2013-ban egy 1000 négyzetkilométeres magterületet hivatalosan is Irak első nemzeti parkjává nyilvánítottak. A terület 40 madárfajnak, köztük a veszélyeztetett bászrai nádirigónak, valamint számos endemikus halfajnak ad otthont. Az UNESCO 2016 júliusában hivatalosan is felvette a mocsarakat a világ kulturális és természeti örökségének listájára. A park ráadásul közel 80 000 mocsári arabnak nyújt élőhelyet, akik továbbra is nádkunyhókban őrzik évezredes életmódjukat.",
+      "factsAdvanced": [
+        "A mocsárvidék történelmileg egykor egy 20 000 négyzetkilométeres vizes zónát alkotott.",
+        "Az 1990-es évek során a mocsarak több mint 90 százalékát szándékosan lecsapolták.",
+        "2003-at követően az eredeti vizes élőhelyek mintegy 50 százalékát rehabilitálták.",
+        "A nemzeti parkot 2013-ban alapították egy 1000 négyzetkilométeres magterületen.",
+        "A világörökségi listára való hivatalos felvételről 2016-ban hozott döntést az UNESCO.",
+        "A zóna kiemelt élőhelye a kritikusan veszélyeztetett, endemikus bászrai nádirigónak."
+      ]
+    },
+    {
+      "id": "al-gharraf-agriculture-life-v2",
+      "descriptionAdvanced": "Az Al-Garraf mezőgazdasági régiót a 160 kilométer hosszú Al-Garraf-csatorna öntözi, amely Kut városánál ágazik le a Tigrisből, és egészen Naszirijáig áramlik dél felé. A csatorna építésének gyökerei a sumér korszakig nyúlnak vissza, majd az 1930-as években épült Kut-duzzasztógát révén alaposan modernizálták, hogy biztosítsák a szabályozott vízhozamot. A régió több mint 300 000 hektár szántóföldet foglal magában, és Közép-Irak egyik legjelentősebb őszi gabonatermelőjeként tartják számon. Évente körülbelül 400 000 tonna búzát és 150 000 tonna árpát takarítanak be ezen a területen. A mezőgazdasági termelés nagyrészt a családi kisgazdaságokra épül, amelyek átlagos birtokmérete 5 és 10 hektár között mozog. A vízellátás kritikus mértékben függ a Tigris vízhozamától; súlyos aszályos években, mint például 2021-ben és 2022-ben, kormányzati rendeletekkel akár 50 százalékkal is csökkenteni kellett a művelés alá vont területet az ivóvízkészletek megóvása érdekében.",
+      "factsAdvanced": [
+        "A vizet szállító Al-Garraf-csatorna teljes hossza eléri a 160 kilométert.",
+        "A folyó szabályozását az 1930-as években felépített Kut-duzzasztógát biztosítja.",
+        "Az intenzíven megművelt szántóföldek területe meghaladja a 300 000 hektárt.",
+        "A régió éves búzatermése megközelítőleg 400 000 tonnára tehető.",
+        "A családi kisgazdaságok jellemzően 5 és 10 hektár közötti területen gazdálkodnak.",
+        "Kiemelkedő aszályok idején a vetésterületet állami rendelettel felére is csökkenthetik."
+      ]
+    },
+    {
+      "id": "basra-date-palms-life-v2",
+      "descriptionAdvanced": "A bászrai tartomány datolyapálma-ültetvényei a történelem során az Eufrátesz és a Tigris összefolyásából születő, 200 kilométer hosszú Satt el-Arab folyó mentén terültek el. A 20. század közepén ez a vidék több mint 30 millió datolyapálmájával a Föld legnagyobb összefüggő pálmaerdőjének számított, és a globális datolyatermés mintegy 80 százalékát adta. Az 1980-as évek első öbölháborúja, valamint a folyó felvízi szakaszán épített gátak miatti megnövekedett sótartalom katasztrofális mértékben megtizedelte a faállományt. 2003-ra a termőfák száma alig 3 millióra zuhant vissza. Az iraki mezőgazdasági minisztérium 2010 óta átfogó újratelepítési programokat finanszíroz a régióban. Ennek eredményeképpen 2022-re a tartomány pálmaállománya becslések szerint újra elérte az 5 milliós egyedszámot. Az ültetvényeken több mint 40 különböző datolyafajtát termesztenek, amelyek közül a Barhi és a Hillawi a legfontosabb, exportra is alkalmas prémium minőségű fajták.",
+      "factsAdvanced": [
+        "A történelmi termővidék a 200 kilométer hosszan futó Satt el-Arab mentén terült el.",
+        "A 20. század közepén több mint 30 millió termő datolyapálma élt a régióban.",
+        "A háborúk és a szikesedés miatt 2003-ra a fák száma 3 millió alá csökkent.",
+        "A telepítési programoknak köszönhetően 2022-re az állomány 5 millió fára nőtt.",
+        "A pálmaligeteken belül több mint 40 genetikailag különböző datolyafajtát termesztenek.",
+        "Irak egykor a világon kereskedelmi forgalomba hozott datolya 80 százalékát adta."
+      ]
+    },
+    {
+      "id": "sharazur-plain-life-v2",
+      "descriptionAdvanced": "A Saharazúr-síkság egy tektonikus süllyedék, amely Szulejmánijja városától délkeletre található az iraki Kurdisztán régióban. A 45 kilométer hosszú és 15 kilométer széles terület a tartomány legeredményesebb mezőgazdasági központja. A talajtípus túlnyomórészt mély, rendkívül termékeny hordaléktalajból áll. Irak déli és középső területeivel ellentétben ez a síkság 500 és 700 milliméter közötti átlagos évi csapadékkal rendelkezik, ami nagymértékben lehetővé teszi az esőztető száraz gazdálkodást is. A legjelentősebb termesztett növények közé tartozik a búza, a csicseriborsó, a napraforgó, míg az öntözhető részeken a rizs is meghatározó. A medencét a Sirwan-folyó szeli ketté, amely kiegészítő vízellátást biztosít a termőföldek számára. Az 1960-as és a 2010-es években végzett felszíni régészeti felmérések során több mint 200 ókori településhalmot regisztráltak, ami egyértelműen igazolja, hogy a terület mezőgazdasági hasznosítása már a késő neolitikumban, több mint 8000 évvel ezelőtt megkezdődött.",
+      "factsAdvanced": [
+        "A tektonikus süllyedék teljes hossza 45 kilométer, míg szélessége eléri a 15 kilométert.",
+        "A régió éves átlagos csapadékmennyisége jellemzően 500 és 700 milliméter között mozog.",
+        "Az elegendő esőzés az őszi gabonafélék kiterjedt száraz művelését is lehetővé teszi.",
+        "A Sirwan-folyó átfolyik a síkságon, folyamatos kiegészítő vízellátást nyújtva.",
+        "Régészeti feltárások több mint 200 történelmi településhalmot azonosítottak a zónában.",
+        "A talajok folyamatos mezőgazdasági hasznosítása mintegy 8000 évre nyúlik vissza."
+      ]
+    },
+    {
+      "id": "dohuk-dam-park-life-v2",
+      "descriptionAdvanced": "A Dohuk-gát park Dohuk városának északi peremén helyezkedik el, közvetlenül az 1988-ban átadott földgát szomszédságában. A gát felduzzasztja a Dohuk-folyót, létrehozva ezáltal egy 52 millió köbméter térfogatú víztározót, amelynek elsődleges funkciója a mezőgazdasági öntözés és a lakossági vízellátás biztosítása. A tó part menti övezetét 2006 után kezdték el nagyszabású turisztikai zónává fejleszteni. A létesítmény 40 kiépített piknikezőhellyel, több teraszos étteremmel és egy hajóállomással is büszkélkedhet. A látogatók motorcsónakokat bérelhetnek, hogy bejárják a gát mögött húzódó, meredek fjordra emlékeztető szurdokot, ahol a sziklafalak akár 100 méterrel is a víz fölé magasodnak. A rekreációs park egy 2,5 négyzetkilométeres területet foglal el a déli tópart mentén. Látogatottsága a márciusi és áprilisi tavaszi hónapokban a legmagasabb, amikor a környező hegységek olvadékvize miatt a tározó eléri maximális vízszintjét.",
+      "factsAdvanced": [
+        "A mesterséges földgátat 1988-ban adták át hivatalosan a forgalomnak.",
+        "A gát által felduzzasztott víztározó maximális kapacitása 52 millió köbméter.",
+        "A part menti terület aktív turisztikai fejlesztése leginkább 2006 után indult meg.",
+        "A gátmű mögötti szurdok meredek sziklafalai helyenként 100 méter magasak.",
+        "A kialakított parkkomplexum 2,5 négyzetkilométert ölel fel a tó déli részén.",
+        "A rekreációs övezet 40 modern, jól felszerelt zónát kínál a családi piknikekhez."
+      ]
+    },
+    {
+      "id": "dream-city-dohuk-life-v2",
+      "descriptionAdvanced": "Az Álomváros Dohuk egy 2011-ben megnyílt szabadidőpark Dohuk város nyugati részén, amely 150 000 négyzetméteres kiterjedésével a tartomány legjelentősebb szórakoztató központja. A projekt kivitelezésére egy 40 millió amerikai dollár értékű magánberuházás keretében került sor. A létesítmény mintegy 30 mechanikus játékelemet kínál a különböző korosztályok számára. Legfeltűnőbb építménye egy 45 méter magas óriáskerék, amelyből páratlan panorámás kilátás nyílik Dohuk városára, valamint az attól északra emelkedő Gara-hegységre. A szabadtéri attrakciókon túl a komplexum magában foglal egy 5000 négyzetméteres légkondicionált csarnokot is, ahol játékautomaták és egy jégpálya kapott helyet. A park infrastruktúráját parkosított kertek, 12 étkezde, továbbá egy 800 gépjármű befogadására alkalmas parkoló egészíti ki. A forró nyári hónapokban a park egészen hajnali 2 óráig tart nyitva, hogy elkerülje a tikkasztó déli hőséget.",
+      "factsAdvanced": [
+        "A szórakoztató központot 2011-ben, mintegy 40 millió amerikai dollárból építették fel.",
+        "A teljes szabadidős létesítmény összesen 150 000 négyzetméteres területet foglal el.",
+        "A fő attrakciónak számító óriáskerék szerkezeti magassága eléri a 45 métert.",
+        "A komplexum területén összesen 30 különböző mechanikus szórakoztató elem található.",
+        "A beltéri játékoknak és tevékenységeknek egy 5000 négyzetméteres csarnok ad otthont.",
+        "A létesítmény saját gépjárműparkolója 800 autó befogadására lett méretezve."
+      ]
+    }
+  ]
+}

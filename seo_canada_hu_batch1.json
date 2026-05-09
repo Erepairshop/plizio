@@ -1,0 +1,129 @@
+{
+  "lang": "hu",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "scotiabank-saddledome-landmarks-v2",
+      "descriptionAdvanced": "A Scotiabank Saddledome Calgary ikonikus arénája, amely jellegzetes nyereg alakú tetejéről ismert. Az 1983-ban átadott létesítmény a Calgary Flames otthona, és az 1988-as téli olimpiai játékok jégkorongmérkőzéseinek fő helyszíne volt. A szerkezet mérnöki csúcsteljesítménynek számít, mivel a tetőt tartó kábelrendszer oszlopok nélkül fedi le a teljes jégfelületet. Építészet K7 — modern sportlétesítmények.",
+      "factsAdvanced": [
+        "1983-ban épült, eredetileg Olympic Saddledome néven",
+        "A tető egy hiperbolikus paraboloid szerkezet",
+        "Az 1988-as téli olimpia jégkorongdöntőinek helyszíne",
+        "A Calgary Stampede éves fesztivál egyik központja",
+        "Kb. 19 000 néző befogadására alkalmas",
+        "Calgary egyik legmeghatározóbb építészeti jelképe"
+      ]
+    },
+    {
+      "id": "olympic-stadium-montreal-landmarks-v2",
+      "descriptionAdvanced": "A montreali Olimpiai Stadiont az 1976-os nyári játékokra tervezték, és máig Kanada egyik legvitatottabb, mégis legjellegzetesebb építészeti alkotása. A stadionhoz csatlakozó, 165 méter magas ferde torony a világ legmagasabb ferde tornya, amely a stadion behúzható tetejét hivatott tartani. Bár a tetőrendszerrel sok technikai probléma volt, az épület a montreali városkép elválaszthatatlan része maradt. Földrajz K8 — építészeti rekordok.",
+      "factsAdvanced": [
+        "Roger Taillibert francia építész tervezte",
+        "1976-ban készült el a nyári olimpiai játékokra",
+        "A 165 méteres torony a világ legmagasabb ferde tornya",
+        "Hivatalosan a 'The Big O' becenevet kapta",
+        "Az 1976-os olimpia központi helyszíne",
+        "Az építmény betonból készült, lenyűgöző brutalista stílusú"
+      ]
+    },
+    {
+      "id": "bc-place-stadium-landmarks-v2",
+      "descriptionAdvanced": "A vancouveri BC Place Stadion Kanada nyugati partjának legnagyobb többcélú sport- és szórakoztató központja. A stadion 2010-ben a téli olimpiai játékok nyitó- és záróünnepségének adott otthont, ami világszínvonalú hírnevet biztosított számára. A létesítmény 2011-ben átesett egy hatalmas felújításon, melynek során egy csúcstechnológiás, behúzható tetőszerkezetet kapott, amely éjszakánként látványos fényhatásokkal kápráztatja el a várost. Technika K7 — mérnöki csodák.",
+      "factsAdvanced": [
+        "1983-ban épült, 2011-ben teljesen felújították",
+        "A BC Lions (CFL) és a Vancouver Whitecaps FC (MLS) otthona",
+        "A világ legnagyobb kábeltartású behúzható tetejével rendelkezik",
+        "A 2010-es téli olimpia központi helyszíne",
+        "Az épület teteje éjszaka 'világító párnaként' funkcionál",
+        "Több mint 54 000 néző befogadására képes"
+      ]
+    },
+    {
+      "id": "habitat-67-landmarks-v2",
+      "descriptionAdvanced": "A Habitat 67 Montréal egyik legbátrabb kísérleti lakóépülete, amelyet Moshe Safdie tervezett az 1967-es világkiállításra. Az épület a brutalista építészet egyik remekműve, amely 354 előregyártott betonmodul egymásra halmozásával jött létre. A koncepció lényege a városi környezetben való természetes fény és privát kertek biztosítása volt, ahol minden lakáshoz egy saját tetőkert tartozik. Művészettörténet K8 — kísérleti lakóépületek.",
+      "factsAdvanced": [
+        "Az 1967-es Expo-ra készült",
+        "Moshe Safdie építész mesterdiploma-terve alapján",
+        "354 azonos betonmodulból áll",
+        "Összesen 146 lakóegységet tartalmaz",
+        "A lakások mindegyikéhez saját kert és terasz tartozik",
+        "Az épület szerkezete egyfajta 'emberi kaptár' koncepciója"
+      ]
+    },
+    {
+      "id": "national-gallery-of-canada-landmarks-v2",
+      "descriptionAdvanced": "Az ottawai Kanadai Nemzeti Galéria az ország legfontosabb művészeti gyűjteményének ad otthont, épülete pedig már önmagában is műalkotás. Moshe Safdie tervezte, és az üveg, valamint a rózsaszín gránit elegáns kombinációja jellemzi, amely a közeli Parlament épületeihez igazodik. A múzeum előtti 'Maman' pók szobor mára Ottawa egyik legikonikusabb művészeti látványossága lett. Művészettörténet K7 — galériák és múzeumok.",
+      "factsAdvanced": [
+        "Az épületet Moshe Safdie tervezte",
+        "Üvegből és rózsaszín gránitból épült 1988-ban",
+        "Itt található Louise Bourgeois óriási 'Maman' pók szobra",
+        "Kiterjedt kanadai és inuit művészeti kollekció",
+        "Nagy Csarnoka (Great Hall) csodás panorámát kínál a Parlamentre",
+        "Az ország egyik legfontosabb kulturális intézménye"
+      ]
+    },
+    {
+      "id": "royal-ontario-museum-landmarks-v2",
+      "descriptionAdvanced": "A torontói Royal Ontario Museum, közismert nevén a ROM, Kanada legnagyobb múzeuma, amely a természettörténet és a világkultúrák gazdag gyűjteményét ötvözi. Az épület leglátványosabb része a Michael Lee-Chin Crystal, egy futurisztikus üveg- és acélkiegészítés, amely drasztikus kontrasztot alkot a múzeum eredeti, klasszikus stílusú épületrészével. Földrajz K6 — történelmi és modern épületek harmóniája.",
+      "factsAdvanced": [
+        "Kanada legnagyobb múzeuma",
+        "1914-ben nyitották meg a nagyközönség előtt",
+        "A Michael Lee-Chin Crystal bővítmény 2007-ben készült el",
+        "Több mint 6 millió műtárgyat őriz",
+        "Dinasztikus kínai művészettől az őslénytanig mindent tartalmaz",
+        "Klasszikus és dekonstruktivista stílus keveredése"
+      ]
+    },
+    {
+      "id": "canadian-museum-for-human-rights-landmarks-v2",
+      "descriptionAdvanced": "A winnipegi Kanadai Emberi Jogi Múzeum az első olyan kanadai nemzeti múzeum, amelyet nem a fővárosban, hanem a prérin fekvő városban építettek. Antoine Predock építész merész, futurisztikus formaterve a kanadai tájat és az emberi jogokért folytatott küzdelmet szimbolizálja. A múzeum központi eleme a 'Remény Tornya' (Tower of Hope), amely egy üvegkilátó, ahonnan panorámás kilátás nyílik a környező városra. Történelem K8 — emberi jogok oktatása.",
+      "factsAdvanced": [
+        "2014-ben nyitották meg a nagyközönség számára",
+        "Antoine Predock tervezte a lenyűgöző formát",
+        "Az első nemzeti múzeum a fővárosi régión kívül",
+        "A 'Remény Tornya' kilátó az épület legmagasabb pontja",
+        "Fókusza az emberi jogok történetének megőrzése és oktatása",
+        "Az épületet alabástrom és üveg borítja"
+      ]
+    },
+    {
+      "id": "fairmont-le-chateau-frontenac-landmarks-v2",
+      "descriptionAdvanced": "A Québec City óvárosában magasodó Fairmont Le Château Frontenac nemcsak egy szálloda, hanem a kanadai történelem egyik szimbóluma. A kastély stílusú épület a Saint-Laurent folyóra néz, és az UNESCO világörökség részét képező óváros ékköve. Gyakran nevezik a világ legtöbbet fényképezett szállodájának, köszönhetően történelmi jelentőségének, többek között annak, hogy itt zajlottak a második világháborús szövetséges tanácskozások. Történelem K8 — diplomáciai események.",
+      "factsAdvanced": [
+        "Bruce Price építész tervezte 1893-ban",
+        "Châteauesque stílusú épület",
+        "A világháború alatt itt találkoztak a szövetséges vezetők",
+        "Domináns elem Québec City látképében",
+        "Az óváros részeként UNESCO világörökségi helyszín",
+        "Kanada egyik leghíresebb 'vasúti palota' szállodájája"
+      ]
+    },
+    {
+      "id": "casa-loma-landmarks-v2",
+      "descriptionAdvanced": "A torontói Casa Loma egy neogótikus stílusú kastély, amelyet Sir Henry Pellatt építtetett a 20. század elején. Az 'Otthon a dombon' nevű épület luxusáról és kiterjedt kertjeiről volt ismert, fénykorában Kanada legnagyobb magánlakóháza volt. Ma népszerű turisztikai célpont és számtalan hollywoodi film forgatási helyszíne, amely a város történelmének aranykorát idézi meg. Művészettörténet K7 — kastélyépítészet.",
+      "factsAdvanced": [
+        "Sir Henry Pellatt építtette 1911-1914 között",
+        "Neogótikus stílusú épület",
+        "98 szobával rendelkezik",
+        "A neve spanyolul 'Ház a dombon'-t jelent",
+        "Számos filmforgatás helyszíne volt (pl. X-Men)",
+        "Ma múzeumként működik"
+      ]
+    },
+    {
+      "id": "toronto-city-hall-landmarks-v2",
+      "descriptionAdvanced": "A torontói városháza a város modernizációjának egyik legfontosabb jelképe, amelyet Viljo Revell finn építész tervezett. A 1965-ben átadott, két ívelt toronyból álló épület egyfajta futurizmust hozott Toronto akkori konzervatív központjába. A városháza előtti Nathan Phillips tér az év minden szakában élénk társadalmi események, télen pedig egy közkedvelt szabadtéri korcsolyapálya színhelye. Földrajz K7 — középületek és urbanisztika.",
+      "factsAdvanced": [
+        "1965-ben nyílt meg",
+        "Viljo Revell finn építész tervezte",
+        "A két torony ívelt formája az építészeti modernizmus jelképe",
+        "A központi épületben a városi tanács ülésezik",
+        "Nathan Phillips tér a város egyik legnagyobb köztéri központja",
+        "A tornyok alatt egy nagy, nyitott piazza található"
+      ]
+    }
+  ]
+}

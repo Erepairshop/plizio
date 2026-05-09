@@ -1,0 +1,21 @@
+{
+  "lang": "hu",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "arbaa-rukun-mosque-history-v2",
+      "descriptionAdvanced": "Az Arba'a Rukun mecset Mogadishu egyik legfontosabb középkori vallási építménye, amelyet a 13. században alapítottak. A mecset neve – amely négy pillért jelent – a központi imahely építészeti szerkezetére utal, amely a korabeli szomáliai-iszlám építőművészet egyik alapköve. A falai között évszázadok óta folyó imaélet a város gazdag kulturális múltjának és az Indiai-óceán partvidékén zajló kereskedelmi kapcsolatoknak a szimbóluma. Az épület a mai napig megőrizte eredeti jellegzetességeit, és betekintést nyújt abba, hogyan integrálódott az iszlám a kelet-afrikai társadalmi struktúrákba a középkor során.",
+      "factsAdvanced": [
+        "1268 körül alapították.",
+        "Mogadishu egyik legrégebbi építménye.",
+        "Központi szerepet játszott a korabeli vallási életben.",
+        "A neve négy pillért jelent.",
+        "A középkori szomáliai iszlám építészet kiváló példája.",
+        "Történelmi helyszín Mogadishu óvárosában."
+      ]
+    }
+  ]
+}

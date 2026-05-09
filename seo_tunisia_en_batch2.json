@@ -2,67 +2,67 @@
   "lang": "en",
   "country": "tunisia",
   "files": [
-    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraTunisiaLandmarksV2.ts"
   ],
   "items": [
     {
-      "id": "zaghouan-cities-v2",
-      "descriptionAdvanced": "Zaghouan, situated at the foot of the Djebel Zaghouan mountain, holds immense historical significance as the source of the Roman aqueduct that once supplied Carthage. The city's landscape is defined by its dramatic mountain backdrop and well-preserved Roman remnants, offering a unique blend of nature and heritage. Zaghouan is also known for its traditional production of rose-scented water and essential oils, which remain a local staple. Geography K7: The integration of historical infrastructure (aqueducts) with environmental geography in North African regions.",
+      "id": "djerba-ghriba-synagoge-landmarks-v2",
+      "descriptionAdvanced": "The El Ghriba Synagogue on the island of Djerba is a central place of Jewish pilgrimage in North Africa, with legends of its origin dating back over 2,000 years. As one of the oldest religious sites of its kind, the current 19th-century structure is renowned for its intricate blue tilework and precious Torah scrolls. Every year, during the Lag baOmer holiday, it attracts thousands of pilgrims from across the globe, serving as a living symbol of Tunisia's long Jewish history and the peaceful coexistence of different religious communities within the country's social fabric.",
       "factsAdvanced": [
-        "Historical source of the Carthage aqueduct",
-        "Situated at the base of Djebel Zaghouan",
-        "Renowned for traditional rose water distillation",
-        "Key archaeological site for Roman engineering",
-        "Region defined by rugged mountain terrain",
-        "Important center for Mediterranean agriculture"
+        "Considered the oldest surviving synagogue on the African continent.",
+        "The current building was erected towards the end of the 19th century.",
+        "The annual pilgrimage event attracts thousands of international devotees.",
+        "Interior walls are decorated with artistically crafted blue ceramic tiles.",
+        "Located in the village of Erriadh, historically known as Hara Sghira.",
+        "Represents the enduring long-term Jewish presence on Djerba island."
       ]
     },
     {
-      "id": "bizerte-cities-v2",
-      "descriptionAdvanced": "Bizerte, located at the northernmost tip of Tunisia, is one of the oldest cities in the country, boasting a deep-water harbor that has been central to its identity for centuries. The city is defined by its picturesque old port, historic fortifications, and strong maritime traditions that bridge its Punic, Roman, and colonial past. Modern Bizerte is a key industrial center and a popular destination for those seeking a mix of naval history and coastal living along the Mediterranean. Geography K7: Strategic coastal location and the evolution of maritime hubs in North African port cities.",
+      "id": "kelibia-festung-landmarks-v2",
+      "descriptionAdvanced": "The Kelibia Fort (Fort de Kélibia) is one of Tunisia's best-preserved military installations, majestically rising atop a steep cliff overlooking the Mediterranean Sea. Its rich history, encompassing Punic, Byzantine, and Ottoman influences, offers a profound perspective on the region's historical defense strategies and military architecture. From its massive ramparts, visitors enjoy panoramic views of the Cap Bon Peninsula's coastline. Today, the fortress serves as a popular destination for history enthusiasts and provides valuable insights into the technical evolution of coastal defensive fortifications over the centuries.",
       "factsAdvanced": [
-        "Northernmost city in North Africa",
-        "Features a famous deep-water historic port",
-        "Key naval and maritime industrial center",
-        "Rich Punic and Roman archaeological heritage",
-        "Strategic gateway to the Mediterranean",
-        "Prominent historical fortress and kasbah"
+        "Strategically located on a 150-meter-high cliff above the sea.",
+        "Features a history spanning Punic, Byzantine, and Ottoman expansions.",
+        "Masonry serves as a remarkable testament to ancient and medieval engineering.",
+        "The location was specifically chosen for its strategic military command.",
+        "Complex houses a functioning lighthouse within the historical structure.",
+        "Kelibia is also well-known for its prominent nearby harbor."
       ]
     },
     {
-      "id": "beja-cities-v2",
-      "descriptionAdvanced": "Béja, situated in the fertile Medjerda Valley, serves as a major agricultural capital in northwest Tunisia, historically known as the 'granary' of the region. The city's surroundings are characterized by rolling plains and intensive grain production, which have shaped its identity and economic importance since antiquity. Béja's historic center features remnants of Roman and Byzantine structures, reflecting its long history as a strategic hub for regional agricultural trade. Geography K8: Analyzing agricultural regions and historical grain production routes in the Mediterranean.",
+      "id": "monastir-bourguiba-mausoleum-landmarks-v2",
+      "descriptionAdvanced": "The Bourguiba Mausoleum in Monastir is a magnificent memorial dedicated to Habib Bourguiba, the first president of independent Tunisia. The structure, commenced in 1963, impresses with its striking golden domes, towering minarets, and complex mosaic work. Situated adjacent to the Sidi el-Mezeri cemetery, it reflects the deep national significance of Bourguiba as the founding father of the modern republic. The mausoleum is not merely a tomb, but a place of national identity affirmation, housing a small museum that chronicles the political life and legacy of the first president.",
       "factsAdvanced": [
-        "Known as the 'granary' of Tunisia",
-        "Strategically located in the Medjerda Valley",
-        "Core center for national grain production",
-        "Deep roots in Roman and Byzantine agriculture",
-        "Hub for regional agricultural logistics",
-        "Surrounded by fertile rolling plains"
+        "Construction of the memorial was completed in 1963.",
+        "Commemorates Habib Bourguiba, Tunisia's first president.",
+        "Serves as a pinnacle of modern Tunisian commemorative architecture.",
+        "Golden domes are visible from great distances, becoming a city symbol.",
+        "Two slender minarets elegantly flank the main entrance.",
+        "Building houses a small museum dedicated to Bourguiba's political life."
       ]
     },
     {
-      "id": "jendouba-cities-v2",
-      "descriptionAdvanced": "Jendouba, a city in the Medjerda Valley, is the heart of a region renowned for its lush landscapes, abundant water resources, and productive agricultural output. Once part of the historic 'Tunisian Tell', the city serves as a key administrative hub for the northwest, supporting industries that rely on the fertile surrounding land. Jendouba bridges the transition between the agricultural plains and the mountain ranges, playing a pivotal role in the region's rural and commercial life. Geography K7: The role of regional geography and water resources in agricultural development.",
+      "id": "mahdia-grosse-moschee-landmarks-v2",
+      "descriptionAdvanced": "The Great Mosque of Mahdia is a unique masterpiece of 10th-century Fatimid architecture, standing majestically on coastal cliffs. As one of the few mosques globally constructed without a minaret, it appears particularly monumental and fortress-like in its design. Originally built directly on an artificial platform by the sea in 916, it highlights the strategic and representative role of the Fatimid Caliphate. The structure seen today is a faithful 1960s reconstruction that strictly follows the historical model, preserving the architectural purity and the austere beauty of its original form.",
       "factsAdvanced": [
-        "Administrative center for the northwest region",
-        "Situated within the lush Medjerda Valley",
-        "Productive area for diverse agricultural goods",
-        "Pivotal hub between plains and mountains",
-        "Rich regional water resources supporting farms",
-        "Historically significant agricultural gateway"
+        "Original construction dates back to the early 10th century, 916 AD.",
+        "First mosque established during the reign of the Fatimid Caliphate.",
+        "Unique for the absence of a minaret, a rare feature in mosque architecture.",
+        "Situated on the tip of a peninsula with direct coastal exposure.",
+        "Current form is a meticulous reconstruction completed in 1965.",
+        "Main entrance is designed with monumental and ornate detailing."
       ]
     },
     {
-      "id": "el-kef-cities-v2",
-      "descriptionAdvanced": "Le Kef is a historic mountain city nestled in the northwestern mountains, long serving as a vital strategic outpost and regional hub. Its iconic fortress, the Kasbah, overlooks the city, highlighting its role as a protector of mountain passes through the ages. Le Kef maintains a unique mountain culture, influenced by both Islamic and indigenous Berber traditions, and offers a glimpse into a less-urbanized, historic North Africa. The city is a key center for the cultural identity of the Tunisian northwest. Geography K8: Examining the role of mountain settlements and strategic fortifications in regional history.",
+      "id": "tunis-bab-el-bhar-landmarks-v2",
+      "descriptionAdvanced": "Bab el Bhar, popularly known as 'Porte de France,' marks the historic transition between the medieval medina of Tunis and the modern new town established after 1848. The gate serves as a significant architectural symbol of Tunisia's societal and urban shift during the 19th century. While it previously acted as a passage through the city's old defensive walls, today it forms a vital pedestrian interface between the disparate urban structures of the capital. The structure harmonizes European design elements with local Tunisian building traditions, making it an essential site for understanding the city's colonial history and development.",
       "factsAdvanced": [
-        "Strategically located mountain stronghold",
-        "Famous for the historic Kasbah fortress",
-        "Regional hub with unique local culture",
-        "Strong influence of Berber and Islamic history",
-        "Key cultural center of the Tunisian northwest",
-        "Protector of historic mountain trade routes"
+        "The gate was originally constructed in 1848.",
+        "Widely known by its French name, 'Porte de France'.",
+        "Adopted its French name during the period of French administration.",
+        "Acts as a major landmark and meeting point in the city center.",
+        "Clearly separates the traditional quarter from the modern city.",
+        "Architecturally defined by its three adjacent monumental arches."
       ]
     }
   ]

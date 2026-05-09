@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "marrapodi-settlement-history-v2",
+      "descriptionAdvanced": "Marrapodi is one of the historically most significant unofficial settlements in Lusaka, whose beginnings go back to the activities of Italian construction contractors. Named after Giovanni Marrapodi, the place developed into a unique, multi-ethnic melting pot through the settlement of African workers in the course of the 20th century. The history of Marrapodi reflects the social challenges and the dynamics of urban expansion in the Zambian capital. Despite its origin as an informal settlement, the community has transformed into an integral part of the urban fabric of Lusaka, which makes Marrapodi an important study object for informal urban development and social integration.",
+      "factsAdvanced": [
+        "Origin through Italian construction contractors",
+        "Named after the founder Giovanni Marrapodi",
+        "Transformation into a multi-ethnic workers' settlement",
+        "Historically significant informal settlement",
+        "Symbol for urban dynamics in Lusaka",
+        "Important site for social urban development"
+      ]
+    }
+  ]
+}

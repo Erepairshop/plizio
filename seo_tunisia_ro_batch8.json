@@ -1,0 +1,57 @@
+{
+  "lang": "ro",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "djebel-ben-youne-relief-v2",
+      "descriptionAdvanced": "Djebel Ben Youne este un masiv muntos marcant în regiunea Gafsa, care, datorită compoziției sale geologice și proximității față de rezervele semnificative de fosfați, joacă un rol important în topografia locală. Relieful este caracterizat prin pante stâncoase abrupte, care se află în zona climatică aridă a Tunisiei și formează o barieră impresionantă. Împrejurimile muntelui sunt, de asemenea, marcate de extracția industrială a resurselor de fosfat, ceea ce face ca muntele să fie un martor al legăturii dintre relieful natural și utilizarea economică umană. Din punct de vedere ecologic, masivul oferă un habitat pentru specii specializate care sunt excelent adaptate terenului stâncos și aspru.",
+      "factsAdvanced": [
+        "Masivul se află în imediata apropiere a unor mari mine tunisiene de fosfați.",
+        "Terenul este caracterizat prin pante stâncoase aspre și stânci abrupte.",
+        "Climatul regiunii Gafsa este extrem de arid, cu precipitații foarte reduse.",
+        "Djebel Ben Youne face parte dintr-o serie de ramificații montane din estul Tunisiei.",
+        "Poziția topografică face ca muntele să fie un punct de orientare marcant.",
+        "Împrejurimile muntelui sunt marcate de decenii de utilizare industrială."
+      ]
+    },
+    {
+      "id": "djebel-abderrahmane-relief-v2",
+      "descriptionAdvanced": "Djebel Abderrahmane este o creastă muntoasă alungită care formează coloana vertebrală a peninsulei Cap Bon și joacă un rol crucial ca barieră meteorologică pentru terenul de coastă din jur. Cu versanții săi împăduriți și climatul mediteranean atât de caracteristic acestei peninsule, munții oferă un contrast puternic față de zonele uscate din sudul Tunisiei. Relieful este caracterizat printr-o structură deluroasă ușoară care permite vederi extinse asupra Mării Mediterane și face din munte o locație strategică importantă pentru regiune. Zonele acoperite cu vegetație de maquis subliniază caracterul mediteranean al acestei formațiuni topografice unice pe Cap Bon.",
+      "factsAdvanced": [
+        "Creasta muntoasă domină structura topografică a peninsulei Cap Bon.",
+        "Servește ca o barieră naturală pentru vânturile umede din Marea Mediterană.",
+        "Vegetația constă predominant din maquis mediteranean și populații de pin.",
+        "Relieful oferă o vedere panoramică strategică asupra întregii peninsule.",
+        "Djebel Abderrahmane este o parte esențială a ecosistemului mediteranean.",
+        "Caracterul topografic favorizează un microclimat moderat pe versanți."
+      ]
+    },
+    {
+      "id": "djebel-om-el-adame-relief-v2",
+      "descriptionAdvanced": "Djebel Om el-Adame este un masiv muntos marcant în regiunea Kasserine, care reprezintă peisajul aspru al munților Atlas central din Tunisia. Relieful constă dintr-o topografie uscată, stâncoasă, care impresionează prin sterilitatea sa și vederile extinse asupra câmpiilor adiacente. Ca punct de reper semnificativ într-o regiune slab populată, muntele îndeplinește atât o funcție geografică, cât și una ecologică importantă, servind drept punct de ancorare într-un peisaj întins și uscat. Liniștea și natura neatinsă a muntelui reflectă izolarea interiorului tunisian și oferă o privire impresionantă asupra structurii geologice și peisagistice a masivului Atlas.",
+      "factsAdvanced": [
+        "Masivul muntos este o parte esențială a munților Atlas central.",
+        "Peisajul este caracterizat de o suprafață uscată și stâncoasă.",
+        "Muntele servește drept punct fix geografic important în Tunisia centrală.",
+        "Regiunea din jurul Djebel Om el-Adame este extrem de slab populată.",
+        "Relieful este modelat de procese erozive continue ale climatului arid.",
+        "Masivul oferă vederi extinse asupra platourilor deșertice din jur."
+      ]
+    },
+    {
+      "id": "djebel-bou-hedma-relief-v2",
+      "descriptionAdvanced": "Djebel Bou Hedma este un masiv muntos remarcabil din Tunisia centrală, care a fost pus sub protecție ca parc național datorită diversității sale ecologice unice. Relieful combină lanțuri muntoase abrupte cu peisaje de stepă adiacente, ceea ce creează o zonă de tranziție ecologică extraordinară, în care granițele dintre munți și deșert se estompează. Această combinație face din Djebel Bou Hedma unul dintre cele mai semnificative locuri pentru conservarea biodiversității, deoarece aici prosperă specii care altfel cu greu mai pot fi găsite în habitatul lor natural. Munții în sine sunt caracterizați de o topografie complexă, marcată de văi adânci și pante aspre, care formează un peisaj diversificat geologic.",
+      "factsAdvanced": [
+        "Parcul Național Djebel Bou Hedma combină peisajele montane și de stepă.",
+        "Zona este un habitat de importanță mondială pentru specii rare de animale.",
+        "Diversitatea topografică permite o biodiversitate ecologică ridicată.",
+        "Relieful a fost modelat de mișcări tectonice complexe în zona Atlasului.",
+        "Parcul este un exemplu remarcabil pentru protejarea zonelor de tranziție.",
+        "Regiunea este o destinație esențială pentru cercetarea ecologică în Tunisia."
+      ]
+    }
+  ]
+}

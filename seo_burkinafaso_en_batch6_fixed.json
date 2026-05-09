@@ -1,0 +1,345 @@
+{
+  "lang": "en",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fada-n-gourma-relief-v2",
+      "descriptionAdvanced": "The Fada N'Gourma Plateau, located in the Est region of Burkina Faso, is a vast and arid high-elevation landscape that defines the character of the eastern provinces. Characterized by its hard lateritic crust and sparse vegetation, the plateau stands as a massive geographical block that separates the central plains from the Niger River basin. Historically, the plateau has been the ancestral territory of the Gourmantché people, with its elevation providing strategic lookout points over the surrounding savannas. The relief is punctuated by deep-cut seasonal riverbeds (wadis) and occasional rocky outcrops that catch the rare rainfall. The hard, stony soils present challenges for agriculture, but the plateau remains a vital pastoral zone for nomadic cattle herds. Its rugged terrain and open horizons reflect the resilient nature of life in the eastern Sahel. The Fada N'Gourma Plateau is a key feature in the country's transition from savanna to desert.",
+      "factsAdvanced": [
+        "Major lateritic plateau in the eastern Est region",
+        "Average elevation of approximately 300 meters above sea level",
+        "Characterized by stony soils and sparse thorn-savanna vegetation",
+        "Strategic high-elevation zone for the Gourmantché people",
+        "Features deeply eroded seasonal wadis and rocky outcrops",
+        "Important transit and pastoral zone for northern nomadic herds",
+        "Acts as a natural water catchment for the eastern river systems",
+        "Significant landmark on the trade routes to Niger and Benin"
+      ]
+    },
+    {
+      "id": "hounde-relief-v2",
+      "descriptionAdvanced": "The Houndé Basin, situated in the Tuy province of western Burkina Faso, is one of the country's most geologically and economically significant depressions. This sedimentary basin is characterized by its fertile alluvial soils and relatively low-lying, gently undulating terrain, which contrasts with the surrounding granite plateaus. Historically, the basin has been the heart of the national 'cotton belt,' with its nutrient-rich earth supporting large-scale industrial farming. Beyond its agricultural wealth, the Houndé relief is famous for its rich mineral deposits, particularly high-grade gold veins that have spurred a modern mining boom. The relief allows for easy transportation and infrastructure development, making it one of the most accessible and productive regions in the country. The Mouhoun River tributaries meander through the basin, providing essential water for both irrigation and mining operations. Houndé represents the perfect blend of geological richness and agricultural prosperity.",
+      "factsAdvanced": [
+        "Significant sedimentary basin in the western Tuy province",
+        "National hub for intensive cotton and cereal production",
+        "Geologically rich in gold and other mineral resources",
+        "Features fertile alluvial soils and a gently undulating landscape",
+        "Hydrologically part of the Black Volta (Mouhoun) river system",
+        "Economic engine for the western Hauts-Bassins region",
+        "Relatively flat relief that facilitates large-scale mechanization",
+        "Strategic node for national road and mining logistics"
+      ]
+    },
+    {
+      "id": "ouahigouya-relief-v2",
+      "descriptionAdvanced": "The Ouahigouya Depression is a significant geographical süllyedék in northern Burkina Faso, marking the transition into the semi-arid Sahel region. Characterized by its vast, flat plains and fine sandy-clay soils, this relief acts as a natural collection point for seasonal rainfall from the surrounding granite plateaus. Historically, the depression has been the center of the Yatenga Mossi kingdom, where the landscape's challenges led to the pioneering of 'zai' and other innovative soil conservation techniques. The relief is highly vulnerable to wind erosion and desertification, making it a frontline in the fight against the advancing Sahara. Despite the harsh climate, the depression supports a dense population through intensive market gardening and livestock breeding, utilizing the shallow groundwater typical of this relief. Ouahigouya's landscape is a testament to the resilience of the Burkinabé people in an increasingly arid environment.",
+      "factsAdvanced": [
+        "Strategic depression and transition zone to the northern Sahel",
+        "Center of the historic Yatenga Mossi kingdom and its culture",
+        "Site of world-renowned 'zai' soil restoration and water harvesting",
+        "Characterized by flat terrain and high vulnerability to wind erosion",
+        "Supports intensive market gardening and Sahelian cattle breeding",
+        "Acts as a major drainage basin for the northern provinces",
+        "Relatively low elevation compared to the central Mossi plateau",
+        "Critical area for national reforestation and anti-desertification"
+      ]
+    },
+    {
+      "id": "boromo-relief-v2",
+      "descriptionAdvanced": "The Boromo Hills are a series of striking elevations and riverine terraces that line the banks of the Black Volta (Mouhoun) River in central-western Burkina Faso. This rugged and hilly landscape is characterized by its diverse topography, where laterite ridges alternate with fertile river valleys. Historically, the relief has served as a critical ecological barrier and a sanctuary for wildlife, particularly the elephants of the Deux Balés National Park who use the hills for shelter and orientation. The hills are covered with relatively dense Sudano-Sahelian vegetation, providing a lush contrast to the surrounding flat savannas. The proximity of the river has allowed for the creation of numerous small dams and irrigation projects in the valleys, supporting a vibrant agricultural sector. For visitors, the Boromo relief offers some of the most scenic views in the country, where the river carves through the red hills. It remains a vital anchor for regional biodiversity and ecotourism.",
+      "factsAdvanced": [
+        "Rugged hilly relief along the Black Volta (Mouhoun) river valley",
+        "Critical habitat and orientation landmark for regional elephant herds",
+        "Features a mix of laterite ridges and fertile alluvial valleys",
+        "Located in the central-western Balé province",
+        "Supports diverse woody savanna and dense riverine vegetation",
+        "Scenic destination for wildlife observation and nature photography",
+        "Hydrologically significant for managing the Mouhoun river floods",
+        "Relief influences the high biodiversity of the Deux Balés complex"
+      ]
+    },
+    {
+      "id": "kaya-plateau-v2",
+      "descriptionAdvanced": "The Kaya Highlands, situated in the Centre-Nord region, represent a massive and ancient granite plateau that forms one of the country's most resilient geographical blocks. Characterized by its undulating terrain and the presence of numerous 'inselbergs' (isolated rocky hills), the relief is dominated by hard, weather-beaten granite bedrock. Historically, this has been a strategic stronghold for the Mossi people, with the rocky heights providing natural defenses and lookout points. The plateau's geology prevents the deep infiltration of rainwater, leading to the formation of numerous seasonal ponds and the construction of vital reservoirs that sustain the population during the dry season. The thin, stony soils are used primarily for livestock grazing and small-scale agriculture, particularly sorghum and millet. Kaya's relief is a classic example of the West African crystalline shield, where the raw power of the earth is visible in every stone. It remains the cultural and administrative anchor of the Sanmatenga province.",
+      "factsAdvanced": [
+        "Massive granite plateau located in the Centre-Nord region",
+        "Characterized by numerous inselbergs and ancient rock formations",
+        "Traditional Mossi heartland and historic defensive stronghold",
+        "Geology favors the creation of large-scale seasonal water reservoirs",
+        "Located on the ancient West African crystalline shield",
+        "Primary zone for Sahelian livestock grazing and cereal farming",
+        "High relief energy compared to the surrounding central plains",
+        "Strategic node for the northern trade and transportation routes"
+      ]
+    },
+    {
+      "id": "gaoua-relief-v2",
+      "descriptionAdvanced": "The Gaoua Hills are a lush and verdant mountain range in the southernmost tip of Burkina Faso, representing the country's most humid and topographically diverse relief. Located in the Poni province, the area is characterized by its steep, forested slopes, deep valleys, and numerous permanent streams. This relief stands in sharp contrast to the flat northern savannas, receiving the highest annual rainfall in the nation. Historically, the rugged and protected nature of the hills allowed the Lobi people to preserve their unique 'soukala' (fortified house) architecture and traditional customs. The hills are rich in minerals, particularly gold, which has been mined here using artisanal methods for centuries. The dense tropical vegetation and fertile soils support the cultivation of tubers, fruits, and even small amounts of cacao and coffee. Gaoua's relief is the 'green heart' of Burkina Faso, a landscape of profound natural beauty and cultural depth.",
+      "factsAdvanced": [
+        "Burkina Faso's most humid and green hilly relief",
+        "Located in the southern Poni province near the Ghana border",
+        "Receives the highest annual precipitation in the country",
+        "Characterized by deep-cut valleys and permanent river systems",
+        "Ancestral heartland of the Lobi and their fortified architecture",
+        "Geologically rich in gold deposits and lateritic minerals",
+        "Supports diverse tropical flora not found in the drier north",
+        "Key region for the production of yams, cashews, and fruits"
+      ]
+    },
+    {
+      "id": "diapaga-relief-v2",
+      "descriptionAdvanced": "The Diapaga Plateau is a remote and spectacular sandstone highland in the far eastern Est region, forming part of the ancient Gobnangou escarpment. The relief is famous for its massive, vertical cliffs that rise abruptly from the savanna, creating a dramatic natural fortress. Historically, these cliffs provided a safe haven for the Gourmantché and other local groups seeking refuge from regional wars and slave raids. The plateau's summit is a relatively flat, rocky surface covered with hardy grasses and acacias, while the base of the cliffs features fertile soils and dense gallery forests fed by seasonal runoff. This relief is a critical component of the Arly-W-Pendjari conservation complex, providing specialized habitats for raptors, baboons, and other rock-dwelling species. For adventurous travelers, the Diapaga relief offers some of the most stunning and wild vistas in West Africa. It remains a symbol of the untamed and ancient spirit of the eastern frontier.",
+      "factsAdvanced": [
+        "Spectacular sandstone plateau and escarpment in the far east",
+        "Features dramatic vertical cliffs rising over 100 meters",
+        "Historic refuge for the Gourmantché people in Tapoa province",
+        "Critical habitat for West African raptors and cliff-dwelling fauna",
+        "Part of the international Gobnangou geological formation",
+        "Offers panoramic views over the W National Park and Benin border",
+        "Features unique erosion forms, caves, and seasonal waterfalls",
+        "One of the most remote and untouched natural reliefs in the country"
+      ]
+    },
+    {
+      "id": "leo-relief-v2",
+      "descriptionAdvanced": "The Léo Lowlands are a vast and fertile sedimentary plain in southern Burkina Faso, stretching along the border with Ghana. This relief is characterized by its gentle, undulating terrain and its rich alluvial soils, which are fed by the Sissili and Nazinon river systems. Historically, the Léo relief has been the most productive agricultural zone in the south, earning the nickname 'the orchard of Burkina Faso' due to its high yields of cereals, tubers, and tropical fruits. The area benefits from a relatively humid Sudanian climate and a dense network of seasonal wetlands that support year-round farming. The relief is also a strategic corridor for cross-border trade, with the flat terrain facilitating easy road connections to the ports of the Gulf of Guinea. The Léo Lowlands are a symbol of southern prosperity, where the landscape's natural fertility supports a dynamic and growing population. It remains a vital anchor for national food security.",
+      "factsAdvanced": [
+        "Vast and fertile sedimentary plain in the southern Sissili province",
+        "Known as the 'orchard of the country' for its high agricultural output",
+        "Characterized by gentle undulating terrain and rich alluvial soils",
+        "Strategic gateway for trade and transit with northern Ghana",
+        "Primary production hub for tubers, maize, and cashew nuts",
+        "Benefit from high rainfall and a network of seasonal wetlands",
+        "Ancestral territory of the Gurunsi people and their unique culture",
+        "Vital link in the southern national transportation corridor"
+      ]
+    },
+    {
+      "id": "djibo-relief-v2",
+      "descriptionAdvanced": "The Djibo Dune Field represents a classic Sahelian landscape in northern Burkina Faso, where shifting sands and ancient, fossilized dunes dominate the relief. Located in the Soum province, this area is characterized by its high sensitivity to the Harmattan winds, which constantly reshape the sandy surface. Historically, the relief has been the domain of the Fulani and Tuareg nomads, who have adapted their pastoral lifestyle to the seasonal availability of water in the dune hollows. The relief is a stark reminder of the country's vulnerability to desertification, with the sand often encroaching on vital grazing lands and settlements. However, during the short rainy season, the dune field transforms into a vibrant green landscape as seasonal grasses and flowers bloom. The Djibo relief is not just a geological feature; it is a living, changing environment that dictates the rhythm of survival on the desert's edge.",
+      "factsAdvanced": [
+        "Extensive Sahelian dune field located in the northern Soum province",
+        "Characterized by shifting sands and ancient fossilized dunes",
+        "Traditional home to nomadic Fulani and Tuareg pastoralists",
+        "Frontline region in the national fight against desertification",
+        "Shaped by the powerful seasonal Harmattan-Wüstenwinds",
+        "Features seasonal water-collecting hollows known as 'mares'",
+        "Relief energy is low, with wide horizons and sparse vegetation",
+        "Symbol of the raw and fragile beauty of the Burkinabé north"
+      ]
+    },
+    {
+      "id": "dedougou-relief-v2",
+      "descriptionAdvanced": "The Dédougou Plain is an expansive and fertile savanna relief in western Burkina Faso, centered around the lower reaches of the Mouhoun (Black Volta) River. This relief is characterized by its exceptionally flat terrain and its deep, hordalék-rich soils, which have made it the 'breadbasket' of the country. Historically, the plain has been a major hub for cotton and grain production, supporting the development of Dédougou as a regional capital. The relief is seasonally flooded by the Mouhoun, which leaves behind fertile silts that nourish the extensive fields of maize, sorghum, and cotton. The landscape is dotted with majestic baobabs and shea trees, creating a harmonious mosaic of wild nature and intensive agriculture. The Dédougou relief is also culturally significant as the site of the International Mask Festival, celebrating the deep connection between the land and traditional arts. It remains a pillar of national economic and cultural life.",
+      "factsAdvanced": [
+        "Vast, fertile alluvial plain in the Boucle du Mouhoun region",
+        "Known as the national 'breadbasket' for its high grain production",
+        "Hydrologically dominated by the seasonal floods of the Black Volta",
+        "Characterized by flat terrain and deep, nutrient-rich soils",
+        "Primary zone for large-scale cotton and maize cultivation",
+        "Strategic agricultural relief with high settlement density",
+        "Iconic savanna landscape featuring baobabs and shea trees",
+        "Geologically part of the sedimentary Volta-Becken"
+      ]
+    },
+    {
+      "id": "sebba-relief-v2",
+      "descriptionAdvanced": "The Sebba Wadi Region in the northeastern Yagha province is a unique relief characterized by a dense network of seasonal riverbeds (wadis) that cut through the sandy Sahelian plains. This relief is an essential hydrological feature of the arid north, providing the only reliable sources of groundwater and seasonal pasture for nomadic communities. Historically, Sebba has been a vital crossroads for trans-Sahelian trade, and its relief has dictated the migration routes of the Fulani and Tuareg herders for centuries. The landscape is generally flat, but the wadis create a micro-topography of erosion gulleys and sandy ridges that support specialized flora like acacias and palms. During the rainy season, the wadis can turn into powerful torrents, but for most of the year, they are dry, white ribbons across the red earth. The Sebba relief is a symbol of the extreme challenges and the hidden riches of the northern Burkinabé frontier.",
+      "factsAdvanced": [
+        "Sahelian relief characterized by a dense network of seasonal wadis",
+        "Located in the remote northeastern Yagha province near Niger",
+        "Provides critical groundwater and seasonal grazing for nomads",
+        "Strategic navigation landmark on the trans-Sahelian trade routes",
+        "Shaped by intense seasonal water and wind erosion processes",
+        "Home to specialized arid-zone vegetation along the dry riverbeds",
+        "Essential for the survival of the northern livestock economy",
+        "Features a stark, beautiful landscape of red earth and white sand"
+      ]
+    },
+    {
+      "id": "gourcy-relief-v2",
+      "descriptionAdvanced": "The Gourcy Plateau in northern Burkina Faso is a rugged and stony high-elevation shield that defines the landscape of the Zondoma province. Characterized by its hard lateritic crust (cuirasse) and numerous rocky outcrops, the relief presents a stark and resilient face to the elements. Historically, the Gourcy Plateau has been a site of significant Mossi settlement, where the difficult terrain led to the development of early stone-bund techniques to catch rainfall and prevent soil erosion. The plateau is punctuated by occasional granite hills that offer panoramic views over the surrounding northern plains. The thin, stony soils are a challenge for farming, yet they support a vital ecosystem of drought-resistant trees and shrubs that provide essential materials for local livelihoods. Gourcy's relief is a testament to the ancient geological stability of the central plateau and the ingenuity of the people who have farmed it for centuries. It remains a key cultural and geographical landmark in the north.",
+      "factsAdvanced": [
+        "Rugged lateritic plateau in the northern Zondoma province",
+        "Characterized by a hard stony crust and numerous rocky outcrops",
+        "Center for innovative traditional soil and water conservation",
+        "Strategically located high-elevation relief in the Nord region",
+        "Supports specialized Sahelian vegetation and medicinal plants",
+        "Acts as a major drainage divide for the northern river systems",
+        "Geologically part of the stable West African crystalline shield",
+        "Important landmark for regional navigation and Mossi culture"
+      ]
+    },
+    {
+      "id": "boussouma-relief-v2",
+      "descriptionAdvanced": "The Boussouma Hills are a series of characterful granite elevations and rolling plateaus in the heart of the Sanmatenga province. This relief is famous for its 'chaos granitique'—massive, weathered boulders stacked in artistic formations that dominate the landscape. Historically, the hills served as the sacred heart and defensive stronghold of the Boussouma Kingdom, one of the most resilient Mossi polities. The relief creates a variety of micro-climates, with the shaded valleys between the hills supporting dichte vegetation and seasonal springs. These valleys are highly valued for their fertile soils and protected conditions, allowing for a more diverse range of crops than the open plains. The Boussouma relief is not only a geological wonder but also a living cultural landscape, where every rocky peak has a name and a story. It remains one of the most visually striking and historically significant reliefs on the central plateau.",
+      "factsAdvanced": [
+        "Striking granite hill-country in the central Sanmatenga province",
+        "Famous for unique 'chaos granitique' and massive boulder formations",
+        "Historic defensive and spiritual seat of the Boussouma Kingdom",
+        "Relief creates fertile micro-valleys for diverse agriculture",
+        "Strategic high-elevation landmark in the Plateau-Central region",
+        "Contains Numerous sacred rock shrines and ancestral sites",
+        "Supports a rich variety of native Sudano-Sahelian flora",
+        "Provides spectacular views over the central Burkinabé plains"
+      ]
+    },
+    {
+      "id": "pama-relief-v2",
+      "descriptionAdvanced": "The Pama Lowlands represent a vast and expansive sedimentary depression in the far southeastern corner of Burkina Faso, bordering Benin and Togo. This relief is the lowest and wettest part of the eastern region, characterized by its wide, flat floodplains and dense woody savannas. Historically, the Pama relief has been a primary sanctuary for wildlife, forming a critical part of the Arly and W national parks complex. The area is fed by the seasonal floods of the Singou and Pendjari rivers, which create a fertile but often inaccessible landscape during the rainy season. The relief energy is low, with endless horizons broken only by occasional stands of majestic fan palms and baobabs. This remote and wild landscape is one of the last true wildernesses in West Africa, where the natural rhythm of the floods dictates the movement of both animals and nomadic herders. Pama is a symbol of the raw, untouched natural wealth of the Burkinabé East.",
+      "factsAdvanced": [
+        "Vast sedimentary depression in the far southeastern Est region",
+        "Core wildlife relief for the Arly-W-Pendjari conservation area",
+        "Characterized by flat floodplains and dense woody savanna",
+        "Hydrologically dominated by the Singou and Pendjari river systems",
+        "One of the wettest and most biodiverse reliefs in the eastern sector",
+        "Extremely low population density, preserving its wild character",
+        "Strategic transboundary corridor for elephant and lion migrations",
+        "Home to majestic fan palms and seasonal wetland ecosystems"
+      ]
+    },
+    {
+      "id": "boulsa-relief-v2",
+      "descriptionAdvanced": "The Boulsa Plateau is a massive and stable granite shield in central-eastern Burkina Faso, forming a high-elevation crossroads between the central and northern regions. Characterized by its gently undulating terrain and its deep-red laterite soils, the relief is typical of the Mossi heartland. Historically, Boulsa has been a vital administrative and trade node, with its elevation providing a healthy and strategic location for the local kingdom. The plateau is marked by wide, open savannas punctuated by shea and néré trees, which are essential to the rural economy. The relief influences the regional water flow, acting as a watershed between the Nakambé and the eastern river systems. While the soils can be thin and stony on the heights, the shallow depressions (bas-fonds) provide fertile ground for intensive seasonal farming. The Boulsa relief is a symbol of the enduring stability and agricultural tradition of the Namentenga province.",
+      "factsAdvanced": [
+        "Massive granite and laterite plateau in the Namentenga province",
+        "Strategic high-elevation relief and regional water divide",
+        "Characterized by wide-open savannas and gentle undulating plains",
+        "Historic seat of the Boulsa kingdom and its traditional ministers",
+        "Primary production zone for shea butter and traditional cereals",
+        "Relief supports a dense network of traditional Mossi settlements",
+        "Geologically part of the ancient West African crystalline shield",
+        "Vital landmark for the central-eastern trade and migration routes"
+      ]
+    },
+    {
+      "id": "pouytenga-relief-v2",
+      "descriptionAdvanced": "The Pouytenga Plain is a remarkably flat and accessible relief in the Kouritenga province, serving as the commercial and logistical crossroads of central Burkina Faso. This even landscape is characterized by its lack of major physical barriers, which has historically facilitated its development as the country's premier trading hub. The relief consists of stable laterite plateaus and shallow alluvial valleys that support both intensive commerce and productive agriculture. The simplicity of the terrain has allowed for the creation of one of West Africa's largest livestock markets and a sprawling urban trade network. During the rainy season, the plain's gentle slope ensures efficient drainage into the neighboring river basins. Pouytenga's relief is the ultimate 'human-centric' landscape, where the flat topography has been perfectly utilized to build a dynamic economic engine. It remains the pulse point of Burkinabé private enterprise and transit.",
+      "factsAdvanced": [
+        "Exceptionally flat commercial plain in the Kouritenga province",
+        "Strategically located at the national and international road junction",
+        "Topographic basis for one of West Africa's largest trade centers",
+        "Features stable laterite soils ideal for urban and road expansion",
+        "Major hub for the redistribution of goods across the Sahel",
+        "Relief energy is low, facilitating large-scale market activities",
+        "Supports a high population density and intensive rural trade",
+        "Key link in the logistics corridor between the coast and the north"
+      ]
+    },
+    {
+      "id": "tanguieta-relief-v2",
+      "descriptionAdvanced": "The Tanguiéta Foothills represent the dramatic northwestern edge of the Atakora mountain range, forming a rugged and scenic relief on the border between Burkina Faso and Benin. This area is characterized by its steep sandstone cliffs, rocky ridges, and deep-cut erosion valleys that offer the highest relief energy in the eastern part of the country. Historically, the foothills were a strategic lookout and defense zone for the Gourmantché, providing panoramic views over the vast Pendjari plains. The relief creates a unique micro-climate that catches moisture-laden winds, resulting in lush vegetation and seasonal waterfalls that are a rarity in the region. The rugged terrain provides a sanctuary for specialized wildlife, including raptors and rock-dwelling mammals. For nature lovers, the Tanguiéta relief offers a challenging and rewarding landscape for hiking and exploration, marking the spectacular end of the Burkinabé savanna and the beginning of the Beninese highlands.",
+      "factsAdvanced": [
+        "Rugged mountain foothills at the northwestern Atakora range",
+        "Strategic border relief between Burkina Faso and Benin",
+        "Features steep sandstone cliffs and dramatic rocky ridges",
+        "Highest topographic relief in the eastern Burkinabé provinces",
+        "Provides a unique micro-climate for lush and diverse flora",
+        "Historic strategic lookout point overlooking the Pendjari valley",
+        "Home to numerous species of eagles and rock-dwelling fauna",
+        "Premier regional destination for hiking and rugged ecotourism"
+      ]
+    },
+    {
+      "id": "koudougou-relief-v2",
+      "descriptionAdvanced": "The Koudougou Plain is a vast and productive agricultural relief on the central-western plateau of Burkina Faso. This even and gently sloping landscape is dominated by laterite soils and is punctuated by the occasional granite 'inselberg' that provides a focal point for the surrounding savanna. Historically, the Koudougou relief has been the foundation of the country's textile industry, with its flat, well-drained fields being ideal for industrial cotton cultivation. The plain is also a vital corridor for the Abidjan-Niger railway, as the stable and level terrain allowed for easy rail construction. The landscape is characterized by an extensive parkland of shea and néré trees, which provide a vital secondary income for the local population. Koudougou's relief is the economic heart of the Boulkiemdé province, where the landscape's natural regularity supports a high density of farming and industrial activity. It remains a symbol of Burkinabé productivity and regional development.",
+      "factsAdvanced": [
+        "Vast agricultural plain in the central-western Boulkiemdé province",
+        "Traditional heart of the national cotton and textile industry",
+        "Features stable laterite soils and occasional granite inselbergs",
+        "Strategic level terrain for the historic Abidjan-Niger railway",
+        "Primary production zone for shea nuts and traditional cereals",
+        "Hydrologically part of the upper Black Volta (Mouhoun) basin",
+        "Supports high population density and intensive rural settlement",
+        "Key driver of the regional economy and industrial logistics"
+      ]
+    },
+    {
+      "id": "ouagadougou-plateau-v2",
+      "descriptionAdvanced": "The Ouagadougou Plateau is the central geographical and political anchor of Burkina Faso, a massive and ancient laterite shield that houses the nation's capital. Rising to an average elevation of 300 meters, the plateau is characterized by its slightly undulating surface and its central position on the Mossi plateau. Historically, this relief was chosen as the seat of the Moro Naba due to its strategic and healthy high-elevation environment. The plateau's geology is dominated by hard, weather-resistant laterite and granite, providing a stable foundation for the rapid urban expansion of the modern capital. The relief dictates the city's unique layout, with its seasonal dams and reservoirs being built in the natural shallow depressions to capture the runoff from the heights. The Ouagadougou Plateau is more than just a relief; it is the stage upon which the modern Burkinabé state was built, where tradition and urban modernity meet on the ancient African shield.",
+      "factsAdvanced": [
+        "Central laterite and granite plateau housing the national capital",
+        "Average elevation of 300 meters, providing a strategic urban base",
+        "Geologically stable heart of the West African crystalline shield",
+        "Dictates the hydrology and water supply of the Ouagadougou region",
+        "Knotenpunkt of all major national and international road networks",
+        "Historic political and cultural seat of the Mossi Empire",
+        "Characterized by hard lateritic crusts and slight undulating slopes",
+        "Essential relief for the city's modern infrastructure and planning"
+      ]
+    },
+    {
+      "id": "bobodioulasso-relief-v2",
+      "descriptionAdvanced": "The Bobo-Dioulasso Hills, also known as the Houet Plateau, are a lush and geologically complex relief in southwestern Burkina Faso. This region is unique for its layered rock formations, including limestone, sandstone, and granite, which have created a landscape of rolling hills, deep valleys, and numerous natural springs. Historically, the Bobo-Dioulasso relief has been the most fertile and biodiverse part of the country, earning it the title of the 'green capital.' The relief catches significant rainfall, which feeds permanent rivers like the Kou and supports a lush canopy of fruit orchards and gallery forests. The hills provide a cooler and more varied environment than the central plains, making it a popular destination for tourism and a major center for agro-industry. Bobo-Dioulasso's relief is the source of the city's vibrant energy and its reputation as the country's garden. It remains a vital pillar of the national economy and ecological heritage.",
+      "factsAdvanced": [
+        "Lush and geologically diverse hilly relief in the Houet province",
+        "Known as the 'green heart' and the 'garden of Burkina Faso'",
+        "Features a complex mix of limestone, sandstone, and granite",
+        "Highest concentration of natural springs and permanent streams",
+        "Supports intensive fruit production, particularly mangoes and citrus",
+        "Characterized by rolling hills, deep valleys, and lush forests",
+        "Provides a cool and varied micro-climate for the economic capital",
+        "Essential for the national agro-industrial and juice sectors"
+      ]
+    },
+    {
+      "id": "banfora-relief-v2",
+      "descriptionAdvanced": "The Banfora Rock Plateau is a spectacular and geologically unique relief in the Cascades region of southwestern Burkina Faso. This massive sandstone formation is part of the larger Banfora escarpment and is famous for its bizarre and beautiful erosion forms, including the Dômes de Fabédougou and the peaks of Sindou. Historically, the plateau has been a sacred landscape for the Karaboro and Senoufo peoples, who believe the rock formations are the work of divine spirits. The relief is responsible for the region's spectacular waterfalls, where rivers like the Comoé plunge over the vertical cliffs of the plateau. The sandstone acts as a giant sponge, storing rainwater and releasing it through permanent springs that nourish the lush vegetation at the base of the cliffs. The Banfora relief is the premier ecotourism destination in the country, offering a landscape of profound geological drama and spiritual power. It is the crown jewel of Burkinabé nature.",
+      "factsAdvanced": [
+        "Spectacular sandstone plateau in the southwestern Cascades region",
+        "Home to the iconic Karfiguéla Falls and Dômes de Fabédougou",
+        "Geological masterpiece shaped by millions of years of erosion",
+        "Sandstone acts as a vital regional water filter and reservoir",
+        "Considered a sacred and spiritually powerful cultural landscape",
+        "Features dramatic vertical cliffs and unique 'rock city' formations",
+        "Offers the most diverse and scenic hiking terrain in the country",
+        "Strategic geological feature influencing the southern micro-climate"
+      ]
+    },
+    {
+      "id": "bogande-relief-v2",
+      "descriptionAdvanced": "The Bogandé Depression is a vast and relatively low-lying savanna plain in the eastern Gnagna province. This relief acts as a massive natural basin that collects seasonal runoff from the surrounding Gourma plateaus, creating an essential pastoral landscape. Characterized by its heavy clay soils and sparse woody vegetation, the depression is the economic heart of the eastern livestock sector. Historically, it has been a vital grazing zone for nomadic Fulani and Gourmantché herders, who congregate here during the dry season to utilize the remaining waterholes (mares). The relief is generally flat and open, with wide horizons that are a classic feature of the eastern Sahelian transition zone. During the rainy season, large parts of the depression can become seasonally swampy, providing a rich habitat for water birds and seasonal grasses. The Bogandé relief is a symbol of the open, wild beauty and the pastoral resilience of the Burkinabé East.",
+      "factsAdvanced": [
+        "Vast sedimentary depression in the eastern Gnagna province",
+        "Primary pastoral basin for eastern Burkinabé livestock herds",
+        "Characterized by flat terrain and heavy, seasonally swampy clay soils",
+        "Strategic water catchment area for the northern Gourma region",
+        "Home to diverse Sahelian birdlife and specialized savanna flora",
+        "Relief dictates the seasonal transhumance routes of the east",
+        "Features wide, open horizons typical of the Sahelian transition",
+        "Essential for the regional economy and nomadic survival"
+      ]
+    },
+    {
+      "id": "pissila-relief-v2",
+      "descriptionAdvanced": "The Pissila Hills are a series of distinctive granite ridges and rocky plateaus located in the northern part of the Sanmatenga province. This relief marks the rugged transition between the central Mossi plateau and the drier northern Sahel. Characterized by its dark, weather-beaten rock formations and sparse, hardy vegetation, the hills provide a dramatic and resilient landscape. Historically, the Pissila relief has been a site of significant artisanal and industrial mining, with the rocky heights hiding valuable mineral deposits. The hills also serve as a critical barrier against wind erosion and desertification, protecting the fertile valleys to the south. The rugged terrain offers strategic advantages for local settlements and provides important lookout points over the northern plains. Pissila's relief is a symbol of the tough and enduring nature of the Burkinabé interior, where the ancient bedrock is a constant presence in daily life.",
+      "factsAdvanced": [
+        "Distinctive granite hill-country in the northern Sanmatenga province",
+        "Strategic transition relief between the central plateau and the Sahel",
+        "Characterized by rugged rocky ridges and high mineral potential",
+        "Acts as a natural barrier against northern wind erosion",
+        "Important zone for both artisanal and industrial gold mining",
+        "Home to drought-resistant Sahelian flora and specialized fauna",
+        "Features ancient eróziós forms and strategic high-elevation points",
+        "Essential for understanding the geological history of the north"
+      ]
+    },
+    {
+      "id": "gorom-gorom-relief-v2",
+      "descriptionAdvanced": "The Gorom-Gorom Dunes represent the most spectacular and extensive Sahara-style relief in Burkina Faso, located in the northernmost Oudalan province. These shifting orange sand dunes, which can reach heights of 30 meters, are a dramatic extension of the great desert into the Sahelian zone. Historically, the dunes have been the sacred and symbolic landscape of the Tuareg and Fulani nomads, providing both challenges and unique opportunities for survival. The relief is constantly being reshaped by the seasonal Harmattan winds, creating a dynamic and ever-changing topography. Despite the extreme aridity, the dunes support specialized desert-adapted life, including sand-runners and drought-resistant shrubs. The dunes border the internationally famous Mare de Oursi, creating a visual contrast that is unique in West Africa. Gorom-Gorom's relief is the ultimate symbol of the northern frontier, a landscape of raw, haunting beauty and immense environmental importance.",
+      "factsAdvanced": [
+        "Most significant Sahara-style sand dune system in Burkina Faso",
+        "Located in the northernmost Oudalan province near the Mali border",
+        "Dunes rise up to 30 meters above the surrounding Sahelian plains",
+        "Constantly reshaped by the powerful seasonal Harmattan winds",
+        "Bordering the strategic Mare de Oursi Ramsar wetland site",
+        "Traditional heartland of the Tuareg and Fulani nomadic cultures",
+        "Provides unique habitats for specialized desert-adapted wildlife",
+        "One of the most photographically iconic and adventurous reliefs"
+      ]
+    }
+  ]
+}

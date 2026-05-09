@@ -1,0 +1,58 @@
+{
+  "lang": "ro",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kabwe-region-nature-v2",
+      "descriptionAdvanced": "Regiunea Kabwe se află în inima Zambiei, fiind marcată de un peisaj diversificat, compus din păduri de Miombo și câmpii deschise. Această zonă joacă un rol central în conservarea florei și faunei locale, oferind zone de tranziție între diferite ecosisteme. Caracteristice sunt pădurile vaste și luminoase, care oferă hrană și protecție numeroaselor specii animale. Deși mediul înconjurător este influențat de activitatea umană, încă există zone naturale importante care reflectă caracterul autentic al platoului central zambian, esențiale pentru biodiversitatea locală.",
+      "factsAdvanced": [
+        "Situată în regiunea centrală a Zambiei",
+        "Vegetație dominantă: păduri de Miombo",
+        "Zonă de tranziție ecologică importantă",
+        "Habitat pentru numeroase specii de mamifere mici",
+        "Definește aspectul platoului central zambian",
+        "Semnificativă pentru conservarea biodiversității locale"
+      ]
+    },
+    {
+      "id": "lake-chambeshi-nature-v2",
+      "descriptionAdvanced": "Râul Chambeshi este considerat geografic drept cel mai îndepărtat râu-sursă al întregului bazin al Congo, șerpuind printr-un labirint spectaculos de mlaștini și cursuri de apă în nord-estul Zambiei, înainte de a se vărsa în mlaștinile Bangweulu. Această regiune izolată a râului formează un ecosistem unic și nealterat, fiind dificil de accesat, ceea ce oferă refugiu pentru specii rare. Importanța hidrologică a sistemului Chambeshi este enormă, formând fundația pentru uriașele zone umede situate în aval.",
+      "factsAdvanced": [
+        "Râu-sursă îndepărtat al întregului bazin al Congo",
+        "Lungimea cursului este de aproximativ 480 kilometri",
+        "Formează un labirint complex de zone mlăștinoase",
+        "Ecosistem vast, nealterat și izolat",
+        "Fundația hidrologică pentru mlaștinile Bangweulu",
+        "Peisaj fluvial dificil de explorat",
+        "Sursă critică pentru menținerea zonelor umede în aval"
+      ]
+    },
+    {
+      "id": "malawi-lake-zambia-nature-v2",
+      "descriptionAdvanced": "Regiunea de la marginea lacului Malawi din estul Zambiei se remarcă prin peisajul deluros și vegetația bogată, strâns legată de influența climatică a lacului vecin. Zonele funcționează ca o zonă tampon importantă între platoul zambian și regiunile joase ale lacului. Aici se găsește o densitate mare de floră naturală adaptată condițiilor climatice specifice ale acestei zone de graniță. Este un areal pitoresc care subliniază interconectarea ecologică dintre Zambia și Malawi, reprezentând un habitat valoros pentru specii diverse de plante.",
+      "factsAdvanced": [
+        "Regiune de graniță în estul Zambiei, lângă lacul Malawi",
+        "Definită geografic printr-un peisaj deluros",
+        "Dependență climatică ridicată de lacul vecin",
+        "Zonă tampon ecologică semnificativă la frontieră",
+        "Vegetație bogată adaptată la microclimatul local",
+        "Zonă naturală pitorească și diversă"
+      ]
+    },
+    {
+      "id": "lungwebungu-river-nature-v2",
+      "descriptionAdvanced": "Râul Lungwebungu este un afluent major al fluviului Zambezi în vestul Zambiei, parcurgând peisaje vaste și nealterate. Râul este cunoscut pentru variațiile naturale ale nivelului apei și cursul său care traversează provinciile vestice fără a fi puternic influențat de intervenția umană. Acesta joacă un rol central în alimentarea cu apă a faunei din regiune și contribuie decisiv la integritatea ecologică a sălbăticiei din vest. Datorită locației izolate, cursul râului a rămas în mare parte neatins, fiind un obiect de studiu valoros pentru sistemele hidrologice neperturbate.",
+      "factsAdvanced": [
+        "Afluent major al fluviului Zambezi în vestul Zambiei",
+        "Curs natural, neinfluențat semnificativ de om",
+        "Fluctuații sezoniere puternice ale nivelului apei",
+        "Arteră vitală pentru fauna din regiune",
+        "Integritate ecologică ridicată a cursului râului",
+        "Semnificativ pentru conservarea sălbăticiei vestice"
+      ]
+    }
+  ]
+}

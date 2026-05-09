@@ -1,0 +1,249 @@
+{
+  "lang": "hu",
+  "country": "iraq",
+  "files": [
+    "lib/visualLab/data/poiExtraIraqNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tigris-nature-v2",
+      "descriptionAdvanced": "A Tigris folyó Mezopotámia történelmének és gazdaságának egyik legmeghatározóbb eleme, amely az ókortól kezdve a civilizáció bölcsőjét öntözte. Törökország délkeleti részén, a Taurus-hegységben ered, majd délkelet felé haladva átszeli Irak központi részét, beleértve a fővárost, Bagdadot is. A folyó medencéje rendkívül fontos a mezőgazdaság számára, bár az utóbbi évtizedekben a klímaváltozás és a gátépítések miatt a vízhozama jelentősen csökkent. A Tigris végül Bászra közelében egyesül az Eufrátesszel, megalkotva a Satt el-Arab folyót, amely a Perzsa-öbölbe torkollik. A folyó mentén gazdag kulturális örökség és változatos ökoszisztéma található, amely számos madár- és halfajnak ad otthont.",
+      "factsAdvanced": [
+        "Teljes hossza mintegy 1900 kilométer.",
+        "Törökországban, a Hazar-tó közelében ered.",
+        "Irakban Bagdad mellett Moszul városán is áthalad.",
+        "A sumér, akkád és babiloni birodalmak életadó vize volt.",
+        "Vízhozama nagymértékben függ a tavaszi hóolvadástól.",
+        "Számos gát és víztározó épült rajta öntözés céljából."
+      ]
+    },
+    {
+      "id": "euphrates-nature-v2",
+      "descriptionAdvanced": "Az Eufrátesz Nyugat-Ázsia leghosszabb és egyik legfontosabb folyója, amely a Tigrissel együtt formálta meg az ókori Mezopotámia termékeny síkságát. Törökországban, az Anatóliai-fennsíkon ered a Kara-Su és a Murat folyók összefolyásából, majd Szírián keresztül lép be Irak területére. Az ország nyugati és déli részén haladva hatalmas mezőgazdasági területeket lát el vízzel, és elengedhetetlen szerepet játszik a helyi gazdaságban. Az évezredek során partjain olyan híres városok virágoztak, mint Babilon vagy Ur. Az alsó szakaszán a folyó kiterjedt mocsárvidéket táplál, mielőtt egyesülne a Tigrissel. Napjainkban a folyó vízszintje drasztikusan csökkent a vízerőművek és a kevesebb csapadék következtében.",
+      "factsAdvanced": [
+        "Körülbelül 2800 kilométer hosszan kanyarog.",
+        "Keresztülfolyik Törökországon, Szírián és Irakon.",
+        "Az iszlám és a keresztény hagyományok is jelentős folyóként említik.",
+        "A történelem során többször is megváltoztatta a medrét.",
+        "Fő iraki mellékfolyói nincsenek, a sivatagi klíma miatt jelentős a párolgás.",
+        "Partjainál fontos régészeti ásatások zajlanak napjainkban is."
+      ]
+    },
+    {
+      "id": "halgurd-nature-v2",
+      "descriptionAdvanced": "A Halgurd a Zagrosz-hegység egyik legkiemelkedőbb csúcsa, és egyben a legmagasabb olyan hegy, amely teljes egészében Irak területén, az iraki Kurdisztánban található. Erbil tartományban fekszik, és lenyűgöző természeti szépségével, zord szikláival, valamint nyáron is hófödte foltjaival vonzza a hegymászókat és a természetjárókat. A hegy környéke gazdag alpesi növényvilágban és különféle vadon élő állatoknak, például kőszáli kecskéknek és medvéknek nyújt menedéket. A terület történelmileg is jelentős, mivel a zord domborzat sokáig nyújtott védelmet a helyi közösségeknek. A Halgurd megmászása komoly kihívást jelent, de a csúcsról nyíló panoráma páratlan kilátást biztosít a környező hegyvonulatokra.",
+      "factsAdvanced": [
+        "Tengerszint feletti magassága 3607 méter.",
+        "A hegy a Halgurd-Sakran Nemzeti Park területén fekszik.",
+        "A téli hónapokban vastag hótakaró borítja a lejtőit.",
+        "Népszerű célpont a helyi és nemzetközi túrázók körében.",
+        "A környéken számos hegyi forrás és tiszta vizű patak ered.",
+        "A magasabban fekvő részeken a nyári hőmérséklet is hűvös marad."
+      ]
+    },
+    {
+      "id": "cheekha-dar-nature-v2",
+      "descriptionAdvanced": "A Cheekha Dar, amelynek neve kurd nyelven \"fekete sátrat\" jelent, Irak legmagasabb pontja, egyben egy jelentős határhegy Irán és Irak között. A Zagrosz-hegység rendszeréhez tartozó csúcs Erbil tartomány északi részén emelkedik, és elszigeteltsége miatt a természet szinte érintetlen formában maradt meg itt. A hegyvidéki klíma zord, a telek hosszúak és rendkívül havasak, míg a nyarak rövidek és hűvösek. Bár magassága miatt vonzó lenne a hegymászók számára, a határrégió geopolitikai érzékenysége és a korábbi konfliktusok miatt a megközelítése gyakran nehézkes és engedélyköteles. A hegyoldalakat meredek sziklafalak és ritkás alpesi növényzet jellemzi.",
+      "factsAdvanced": [
+        "Hivatalosan mért magassága 3611 méter.",
+        "A csúcson halad át az iraki-iráni államhatár.",
+        "Az első dokumentált nyugati megmászása csak 2004-ben történt.",
+        "A környező völgyekben hagyományos pásztorkodás zajlik.",
+        "A hegyvidék fontos szerepet játszik a régió vízgyűjtő rendszerében.",
+        "A megközelítéshez speciális helyi vezető és katonai engedély is szükséges lehet."
+      ]
+    },
+    {
+      "id": "lake-tharthar-nature-v2",
+      "descriptionAdvanced": "A Tartar-tó, vagy más néven Tartar-víztározó, Irak legnagyobb felszíni vízteste, amely egy hatalmas mélyedésben helyezkedik el a Tigris és az Eufrátesz folyók között. Eredetileg egy kisebb, természetes sós vizű tó volt, amelyet az 1950-es években egy mesterséges csatornarendszer segítségével duzzasztottak fel a Tigris árvizeinek felfogása céljából. A tó kritikus szerepet játszik az ország vízgazdálkodásában: megvédi Bagdadot a pusztító tavaszi áradásoktól, és száraz időszakokban vízutánpótlást biztosít az Eufrátesz számára. A víz sótartalma a folyamatos párolgás miatt fokozatosan növekszik, de a tó így is fontos élőhelye számos halfajnak és a vonuló vízimadaraknak.",
+      "factsAdvanced": [
+        "Maximális vízfelülete megközelítheti a 2710 négyzetkilétert.",
+        "A víz befogadókapacitása körülbelül 85 milliárd köbméter.",
+        "Szalahaddin és Al-Anbár tartományok határán fekszik.",
+        "A Szamarra melletti gát irányítja a Tigris vizét a tóba.",
+        "Egy másik csatornán keresztül a víz az Eufráteszbe vezethető.",
+        "A tó partvidéke nagyrészt lakatlan és sivatagos jellegű."
+      ]
+    },
+    {
+      "id": "lake-habbaniyah-nature-v2",
+      "descriptionAdvanced": "A Habbanija-tó egy kiterjedt, sekély vizű tó Al-Anbár tartományban, amely elsősorban az Eufrátesz folyó vízszintjének szabályozására szolgál. A tó Ramádi városától délre fekszik, és egy mesterséges csatornán, a Warrar-csatornán keresztül kapja a vizet az Eufráteszből áradások idején. A felesleges vizet a Madzsarra-csatorna vezeti el a szomszédos Razzáza-tóba. Történelmileg a 20. század közepén népszerű üdülőhelyként tartották számon, ahová a fővárosból is sokan érkeztek kikapcsolódni, vízi sportokat űzni. Bár a turisztikai infrastruktúra az elmúlt évtizedek konfliktusai miatt hanyatlásnak indult, a tó továbbra is létfontosságú szerepet tölt be a helyi halászatban és a régió ökológiai egyensúlyának fenntartásában.",
+      "factsAdvanced": [
+        "Területe nagyjából 140 négyzetkilométert tesz ki.",
+        "A tó vízszintje az évszaktól függően erősen ingadozik.",
+        "A Ramádi-gát építése tette lehetővé a rendszeres vízpótlást.",
+        "A 1980-as években jelentős turisztikai komplexum működött a partján.",
+        "Nyáron a magas hőmérséklet miatt a párolgási veszteség jelentős.",
+        "Számos vándormadár használja pihenőhelyként a tavaszi vonuláskor."
+      ]
+    },
+    {
+      "id": "lake-razzaza-nature-v2",
+      "descriptionAdvanced": "A Razzáza-tó, amelyet az arabok Bahr al-Milh, azaz \"Sós-tenger\" néven is ismernek, Irak második legnagyobb tava, amely Kerbela tartomány sivatagos vidékén terül el. A tó részben természetes mélyedésben fekszik, és vízutánpótlását jelentős részben a Habbanija-tó felől érkező csatornákon keresztül kapta. A tó ökológiai szempontból különösen fontos volt a téli hónapokban, amikor százezres nagyságrendben fogadott vonuló madarakat, köztük flamingókat és pelikánokat. Az elmúlt évtizedekben azonban az aszály, a csökkentett vízellátás és az erős párolgás miatt a tó területe drasztikusan zsugorodott, sótartalma pedig olyan mértékben megnőtt, hogy az korlátozza a halállomány túlélését, komoly gazdasági és környezeti kihívásokat okozva a térségnek.",
+      "factsAdvanced": [
+        "Legnagyobb kiterjedésekor elérte az 1500 négyzetkilométert.",
+        "Kerbela városától mintegy 15 kilométerre nyugatra található.",
+        "Sótartalma miatt a halászati hozam jelentősen visszaesett.",
+        "Kialakulásában tektonikus folyamatok is szerepet játszottak.",
+        "Az alacsony vízállás miatt új, sós sivatagi területek jöttek létre.",
+        "A tavat körülölelő táj kietlen, homokos és sziklás dűnékből áll."
+      ]
+    },
+    {
+      "id": "hawizeh-marshes-nature-v2",
+      "descriptionAdvanced": "A Hawizeh-mocsarak Dél-Irak egyik legjelentősebb és biológiailag legváltozatosabb vizes élőhelye, amely átnyúlik az iráni határ túloldalára is. Ez a hatalmas mocsárrendszer a Tigris folyó áradásaiból táplálkozik, és azon kevés mezopotámiai mocsarak egyike, amelyeket az 1990-es évek masszív lecsapolási munkálatai nem semmisítettek meg teljesen. A mocsárvidék kiterjedt nádasai, lótuszmezői és sekély vízfelületei egyedülálló ökoszisztémát alkotnak, amely számos veszélyeztetett faj, köztük a baszrai nádirigó és a simaszőrű vidra számára nyújt menedéket. A terület hagyományosan a mocsári arabok lakóhelye, akik évszázadok óta a halászatból, vízibivaly-tenyésztésből és a nádból épült jellegzetes házaikból, a mudhifokból élnek.",
+      "factsAdvanced": [
+        "Az UNESCO Ahwar világörökségi helyszínének kulcsfontosságú része.",
+        "Vízellátásának egy részét az iráni Karkheh folyó biztosítja.",
+        "A 2000-es évek eleje óta jelentős rehabilitációs programok indultak itt.",
+        "A vízfelület mérete évszakonként 1300 és 3000 négyzetkilométer között változik.",
+        "Fontos ívóhelye a régió őshonos édesvízi halfajainak.",
+        "A mocsarak sűrű növényzete természetes vízszűrőként funkcionál."
+      ]
+    },
+    {
+      "id": "hammar-marshes-nature-v2",
+      "descriptionAdvanced": "A Hammar-mocsarak a dél-iraki Mezopotámiai-mocsárvidék egyik fő egységét alkotják, amelyek az Eufrátesz folyó déli szakasza mentén, Dzi Kár és Bászra tartományokban terülnek el. A rendszer központja a sekély, de kiterjedt Hammar-tó, amely az esős évszakban hatalmas területeket önt el. A mocsarak az ókori sumér civilizáció szívében találhatók, és a táj évezredek óta alig változott, egészen az 1990-es évek drasztikus környezeti beavatkozásáig. Bár a terület nagy része kiszáradt, a 2003 utáni elárasztási erőfeszítéseknek köszönhetően az ökoszisztéma részben magához tért. A Hammar-mocsarak elengedhetetlen állomása a Szibériából Afrikába vándorló vízimadaraknak, és gazdag kulturális örökséggel rendelkezik a mocsári arabok életmódja révén.",
+      "factsAdvanced": [
+        "A mocsárvidéket délről a homokos Arab-sivatag határolja.",
+        "A Hammar-tó hossza megközelíti a 120 kilométert.",
+        "2016-ban az UNESCO világörökség részévé nyilvánították.",
+        "A helyi lakosok csónakokkal, úgynevezett mashoofokkal közlekednek.",
+        "A sekély vízben kiterjedt hínár- és gyékénymezők találhatók.",
+        "A tavaszi hóolvadás jelentősen megnöveli a terület vízmélységét."
+      ]
+    },
+    {
+      "id": "central-marshes-nature-v2",
+      "descriptionAdvanced": "A Központi-mocsarak, vagy más néven Qurna-mocsarak, egy hatalmas, egybefüggő vizes élőhelyet alkotnak Dél-Irakban, pontosan a Tigris és az Eufrátesz folyók között elterülő háromszögben. Ez a régió a történelmi Mezopotámia központja, egy sűrűn benőtt, nádasokkal és vízi utakkal szabdalt labirintus, amely a biodiverzitás igazi oázisa a sivatagi környezetben. A mocsarak jelentős része az 1990-es években szándékos kiszárítás áldozata lett, ami ökológiai katasztrófához és a helyi lakosság elvándorlásához vezetett. 2003-tól kezdődően a gátak lerombolásával a víz visszatért, és a természet figyelemre méltó regenerációs képességről tett tanúbizonyságot. Ma újra otthont adnak bivalycsordáknak, halászoknak és több tucatnyi madárfajnak.",
+      "factsAdvanced": [
+        "A terület központja Nasirija és Qurna városai között található.",
+        "A mocsár domináns növényfaja a közönséges nád (Phragmites australis).",
+        "Egykor a Közel-Kelet legnagyobb összefüggő vizes élőhelye volt.",
+        "A helyreállítás ellenére a folyamatos aszályok veszélyeztetik a vizét.",
+        "A mocsarak szabályozzák a mikroklímát, enyhítve a nyári hőséget.",
+        "A területen ősrégi, évezredes halászati technikákat alkalmaznak ma is."
+      ]
+    },
+    {
+      "id": "dukan-lake-nature-v2",
+      "descriptionAdvanced": "A Dukan-tó a legnagyobb mesterséges víztározó az iraki Kurdisztánban, amely Szulejmánijja tartomány festői hegyvidéki környezetében terül el. A tavat az 1950-es évek végén hozták létre a Kis-Záb folyó felduzzasztásával, egy többcélú gát megépítése révén, amely árvízvédelmet, öntözővizet és vízenergia-termelést biztosít a régiónak. A tó mélykék vizét magas, zöldellő hegyek ölelik körül, ami a területet az ország egyik legnépszerűbb turisztikai célpontjává tette. A látogatók csónakázhatnak, horgászhatnak és élvezhetik a part menti üdülők vendégszeretetét. A víztározó nemcsak gazdasági szempontból elengedhetetlen, hanem mikroklímát is teremt, amely kedvez a helyi növény- és állatvilágnak.",
+      "factsAdvanced": [
+        "A víztározó területe körülbelül 270 négyzetkilométer.",
+        "A Dukan-gát egy monumentális beton ívgát, melynek magassága 116 méter.",
+        "A tó partvidékén több mint 50 régészeti lelőhelyet tártak fel az elárasztás előtt.",
+        "Kiemelt jelentőségű a kurdisztáni áramellátás stabilizálásában.",
+        "A tó vízállása az őszi és tavaszi csapadékmennyiségtől függ.",
+        "Nyáron a helyiek gyakran látogatják a partját piknikezés céljából."
+      ]
+    },
+    {
+      "id": "darbandikhan-lake-nature-v2",
+      "descriptionAdvanced": "A Derbendihán-tó egy gyönyörű, hegyekkel körülvett mesterséges víztározó Észak-Irakban, Szulejmánijja tartományban. A tavat a Dijala folyó felduzzasztásával hozták létre az 1960-as évek elején, azzal a céllal, hogy biztosítsák a régió mezőgazdasági területeinek öntözését, valamint vízenergiát termeljenek. A tározó partvonala erősen tagolt, meredek sziklás hegyoldalak és kisebb öblök tarkítják, amelyek lenyűgöző látványt nyújtanak. A tó környéke gazdag növényzettel és változatos madárvilággal büszkélkedhet, így a természetjárók és a fotósok kedvelt célpontja. 2017-ben egy erős földrengés károkat okozott a gát szerkezetében, de a helyreállítási munkálatok sikeresen biztosították az építmény stabilitását.",
+      "factsAdvanced": [
+        "A gát építését amerikai és európai mérnökök közreműködésével fejezték be 1961-ben.",
+        "A tó kapacitása eléri a 3 milliárd köbmétert.",
+        "Tengerszint feletti magassága körülbelül 485 méter.",
+        "A víztározó fontos pihenőhely a költöző vízimadarak számára.",
+        "A part menti vizekben jelentős ponty- és harcsaállomány él.",
+        "A terület mikroklímája észrevehetően hűvösebb, mint a környező síkságokon."
+      ]
+    },
+    {
+      "id": "sawa-lake-nature-v2",
+      "descriptionAdvanced": "A Száva-tó egy egyedülálló, zárt medencéjű sóstó volt Dél-Irakban, al-Muthanna tartomány sivatagában, amely geológiai és ökológiai szempontból is különlegességnek számított. A tónak nem voltak felszíni befolyásai vagy kifolyásai; vizét kizárólag földalatti repedéseken keresztül felszivárgó felszín alatti források biztosították, amelyeket az Eufrátesz víztartó rétegei tápláltak. A vizet magas kalcium- és szulfáttartalom jellemezte, ami miatt a tó partján és a vízben látványos gipsz- és mészkőképződmények jöttek létre. Évtizedeken át népszerű fürdőhely és rekreációs terület volt, azonban a klímaváltozás, a kevesebb csapadék és a túlzott kútépítések miatt a talajvízszint drasztikusan lecsökkent. Ennek következtében a tó 2022-re teljesen kiszáradt, csupán egy kietlen sós medret hagyva maga után.",
+      "factsAdvanced": [
+        "Vízállása idején hossza mintegy 4,5 kilométer, szélessége 1,8 kilométer volt.",
+        "A víz sótartalma meghaladta a Perzsa-öböl vizének sókoncentrációját.",
+        "Egykor számos madárfaj, köztük kis vöcsök is költött a környékén.",
+        "2014-ben a Ramsari-egyezmény hatálya alá tartozó vizes élőhellyé nyilvánították.",
+        "A partvonalat 3-6 méter magas, természetes módon kialakult gipszfalak övezték.",
+        "A terület kiszáradása súlyos csapást mért a helyi turizmusra."
+      ]
+    },
+    {
+      "id": "mosul-dam-lake-nature-v2",
+      "descriptionAdvanced": "A Moszuli-víztározó Irak legnagyobb mesterséges tava, amely az ország északi részén, Ninive tartományban helyezkedik el. A tavat a Tigris folyón épített, stratégiai jelentőségű Moszuli-gát hozta létre az 1980-as évek közepén. A hatalmas vízfelület létfontosságú szerepet játszik Észak- és Közép-Irak mezőgazdasági területeinek öntözésében, valamint jelentős mennyiségű elektromos energiát termel. A gát és a tó építése geológiailag instabil, gipszben gazdag talajon történt, ami folyamatos karbantartást és cementinjektálást igényel az alapozás kimosódásának megakadályozása érdekében. A tó partvidéke lankás dombokkal és mezőgazdasági vidékekkel van övezve, és fontos halászati területként is szolgál a helyi közösségek számára.",
+      "factsAdvanced": [
+        "A víztározó maximális hossza eléri a 45 kilométert.",
+        "Befogadóképessége körülbelül 11 milliárd köbméter vizet tesz ki.",
+        "Az ország áramellátásának jelentős százalékát a gát turbinái biztosítják.",
+        "A gát instabilitása miatt gyakran \"a világ legveszélyesebb gátjának\" is nevezik.",
+        "A tó vizéből kiterjedt öntözőcsatorna-rendszerek indulnak ki.",
+        "Az elárasztás előtt a területen számos ókori asszír romot tártak fel."
+      ]
+    },
+    {
+      "id": "qandil-mountains-nature-v2",
+      "descriptionAdvanced": "A Kandil-hegység egy rendkívül nehezen megközelíthető, zord hegyvonulat a Zagrosz-hegység északi peremén, amely természetes határt képez Irak és Irán között, és közel esik a török határhoz is. A régiót mély völgyek, meredek sziklaszirtek és sűrű tölgyerdők jellemzik, amelyek szinte áthatolhatatlan terepet alkotnak. A kemény telek és a vastag hóréteg miatt az év jelentős részében a közlekedés erősen korlátozott. A hegyvidék biológiai sokfélesége figyelemre méltó, számos endemikus növényfajnak és ritka vadállatnak ad menedéket. Geopolitikai szempontból a Kandil évtizedek óta fegyveres csoportok és kurd gerillák bázisaként ismert, mivel a terepviszonyok kiváló védelmet nyújtanak.",
+      "factsAdvanced": [
+        "Több csúcsa is meghaladja a 3000 méteres tengerszint feletti magasságot.",
+        "A hegyoldalakat borító erdőségek fő fafaja a perzsa tölgy.",
+        "A hegység jelentős vízválasztó, számos patak és kisebb folyó ered itt.",
+        "A meredek sziklafalak miatt az infrastruktúra fejletlen.",
+        "A területen elszórtan apró, elszigetelt pásztorfalvak találhatók.",
+        "A régió gyakran célpontja határokon átnyúló katonai műveleteknek."
+      ]
+    },
+    {
+      "id": "sinjar-mountains-nature-v2",
+      "descriptionAdvanced": "A Szindzsár-hegység egy kelet-nyugati irányban húzódó, körülbelül 100 kilométer hosszú hegylánc Irak északnyugati részén, Ninive tartományban. A környező lapos, sivatagos síkságból szigetszerűen kiemelkedő vonulat nemcsak földrajzi, hanem rendkívül fontos kulturális és vallási központ is, mivel évszázadok óta a jezidita közösség történelmi szülőföldje és szent menedéke. A hegyoldalakat terraszos mezőgazdaság, füge- és olajfaültetvények borítják, amelyeket a hegyi források vize táplál. A történelem során a Szindzsár számtalanszor nyújtott fizikai védelmet az üldöztetések elől menekülő jeziditáknak, legutóbb a 2014-es ISIS elleni konfliktus során, amikor tízezrek kerestek menedéket a kietlen fennsíkokon.",
+      "factsAdvanced": [
+        "A hegység legmagasabb pontja, a Csel Mera, 1463 méter magas.",
+        "A vonulat vulkáni és üledékes kőzetekből épül fel.",
+        "A hegyvidéken számos ősi jezidi szentély és zarándokhely található.",
+        "A lejtőkön hagyományos teraszos gazdálkodást folytatnak.",
+        "A régió stratégiai fontosságú, mivel közel fekszik a szíriai határhoz.",
+        "Klímája hűvösebb és csapadékosabb, mint a környező síkságoké."
+      ]
+    },
+    {
+      "id": "diyala-river-nature-v2",
+      "descriptionAdvanced": "A Dijala folyó a Tigris egyik legfontosabb bal parti mellékfolyója, amely kulcsszerepet játszik Kelet-Irak és a főváros, Bagdad tágabb környezetének vízellátásában. A folyó az iráni Zagrosz-hegységben, Szirván néven ered, majd nyugat felé kanyarogva mintegy 30 kilométeren át természetes határt képez a két ország között. Irak területére lépve a Szulejmánijja és Dijala tartományokon folyik keresztül, mielőtt Bagdadtól délre a Tigrisbe ömlene. Vize létfontosságú a régió kiterjedt mezőgazdasági területeinek, különösen a narancs- és datolyaültetvényeknek az öntözéséhez. A folyó szabályozását és energiatermelését a Derbendihán- és a Hamrin-gátak biztosítják, amelyek egyben hatalmas víztározókat is létrehoztak.",
+      "factsAdvanced": [
+        "A folyó teljes hossza körülbelül 445 kilométer.",
+        "Vízhozama erősen ingadozik a csapadék és a hóolvadás függvényében.",
+        "Az ókorban számos fontos mezopotámiai kereskedelmi útvonal követte a folyását.",
+        "A vízfolyás alsó szakasza sűrűn lakott és intenzíven művelt terület.",
+        "A torkolat közelében található a történelmi Szeleukeia-Ktésziphón romvárosa.",
+        "Nyáron a csökkent vízhozam miatt a folyó vízszintje jelentősen megcsappan."
+      ]
+    },
+    {
+      "id": "great-zab-nature-v2",
+      "descriptionAdvanced": "A Nagy-Záb a Tigris legnagyobb és legbővizűbb mellékfolyója, amely Törökország délkeleti hegyvidékein ered, és hatalmas mennyiségű tiszta hóolvadékot szállít Irak északi részébe. A folyó sebes folyású, meredek kanyonokon és festői völgyeken vágja át magát az iraki Kurdisztánban, mielőtt Moszul és Erbil között, Kalak városánál a Tigrisbe torkollik. A Nagy-Záb vízgyűjtő területe viszonylag mentes a nagyipari szennyezésektől, így vize kiváló minőségű, amely elengedhetetlen a helyi ivóvízellátáshoz és a mezőgazdasághoz. A folyó rendkívül fontos szerepet játszott a történelemben is; partjainál zajlott le Krisztus előtt 331-ben a híres gaugamelai csata, ahol Nagy Sándor legyőzte a perzsa seregeket.",
+      "factsAdvanced": [
+        "A folyó hossza Törökországtól a torkolatig nagyjából 400 kilométer.",
+        "Hozzájárul a Tigris teljes vízhozamának mintegy harmadához.",
+        "A folyón jelenleg nincsenek nagyobb gátak Irak területén.",
+        "A hegyi szakaszokon népszerű a vadvízi evezés és a horgászat.",
+        "Vizét számos kisebb hegyi patak és forrás táplálja.",
+        "Széles, kavicsos medre az alsóbb szakaszokon fonatos jelleget ölt."
+      ]
+    },
+    {
+      "id": "shatt-al-arab-nature-v2",
+      "descriptionAdvanced": "A Satt el-Arab Dél-Irak legfontosabb vízi útja, egy széles és lassú folyású folyó, amely Kurna városánál jön létre a Tigris és az Eufrátesz összefolyásával. Innen délkelet felé haladva átszeli Bászra városát, majd mintegy 200 kilométer megtétele után Al-Faw kikötőjénél a Perzsa-öbölbe torkollik. A folyó partjait egykor a világ legnagyobb összefüggő datolyapálma-erdei szegélyezték, amelyek jelentős része azonban a huszadik század végi konfliktusok és a vízszennyezés miatt elpusztult. A Satt el-Arab alsó szakasza természetes határvonalat képez Irak és Irán között, amely stratégiai fontossága miatt történelmileg számos geopolitikai feszültség forrása volt. A folyó nemcsak ökológiai folyosó, hanem az ország tengeri kereskedelmének egyetlen természetes kapuja is.",
+      "factsAdvanced": [
+        "Szélessége Bászránál körülbelül 230 méter, a torkolatnál elérheti a 800 métert is.",
+        "A folyón jelentős a tengeri árapály hatása, amely felduzzasztja a vizet.",
+        "Legfontosabb mellékfolyója az Irán felől érkező Karun folyó.",
+        "Vizének sótartalma az utóbbi években aggasztó mértékben megnőtt.",
+        "Kereskedelmi hajók egészen Bászra kikötőjéig fel tudnak hajózni rajta.",
+        "A part menti mocsaras területek gazdag vízimadár-élőhelyek."
+      ]
+    },
+    {
+      "id": "zawita-forest-nature-v2",
+      "descriptionAdvanced": "A Závita-erdő Dohuk tartomány egyik legszebb természeti kincse, egy sűrűn benőtt, hűvös mikroklímájú fenyőerdő Észak-Irakban. A terület különlegességét az adja, hogy a közel-keleti régióban viszonylag ritkák az ilyen kiterjedt, természetes tűlevelű erdők, itt azonban a kalábriai fenyők nagy számban találhatók meg. A tengerszint feletti magasság és az árnyékos lombkorona miatt a hőmérséklet még a legforróbb nyári hónapokban is kellemes marad, így az erdő rendkívül népszerű menedék a helyiek és a belföldi turisták számára. A kiépített pihenőhelyek, éttermek és kávézók a természet tiszteletben tartásával épültek be a tájba, lehetőséget adva a látogatóknak a kikapcsolódásra és a friss hegyi levegő élvezetére.",
+      "factsAdvanced": [
+        "Az erdő központja Dohuk városától mintegy 16 kilométerre fekszik.",
+        "A domináns fafaj a Pinus brutia, más néven kalábriai fenyő.",
+        "A terület egy széles, lankás völgyben helyezkedik el a hegyek között.",
+        "Télen a fák ágait gyakran hó borítja be.",
+        "Az erdő jelentős szerepet játszik a talajerózió megakadályozásában.",
+        "Számos énekesmadár és kisebb emlős talál itt biztonságos élőhelyet."
+      ]
+    }
+  ]
+}

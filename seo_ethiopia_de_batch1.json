@@ -1,0 +1,189 @@
+{
+  "lang": "de",
+  "country": "ethiopia",
+  "files": [
+    "lib/visualLab/data/poiExtraEthiopiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hosaena-cities-v2",
+      "descriptionAdvanced": "Hosaena ist ein zentraler Knotenpunkt im südlichen Äthiopien und dient als Hauptstadt der Hadiya-Zone. Die Stadt hat sich in den letzten Jahrzehnten zu einem bedeutenden Bildungs- und Handelszentrum entwickelt, das eine Brücke zwischen den ländlichen Erzeugerregionen und den urbanen Märkten schlägt. Hosaena profitiert von der fruchtbaren Umgebung, in der neben Ensete und Getreide auch Kaffee kultiviert wird. Die lokale Wirtschaft wird durch den starken Agrarsektor und eine wachsende Anzahl an Dienstleistungsbetrieben gestärkt, die die Stadt für die gesamte Region unverzichtbar machen. Geografie K7 — administrative Zentren und Agrarwirtschaft.",
+      "factsAdvanced": [
+        "Hauptstadt der Hadiya-Zone in der Region der südlichen Nationen.",
+        "Wichtiger Handelsplatz für landwirtschaftliche Produkte.",
+        "Sitz verschiedener regionaler Bildungseinrichtungen.",
+        "Wachsende Bedeutung als urbanes Wirtschaftszentrum.",
+        "Integration in das nationale Verkehrsnetz.",
+        "Bekannt für die Produktion von Ensete und Getreide."
+      ]
+    },
+    {
+      "id": "dila-cities-v2",
+      "descriptionAdvanced": "Dila liegt inmitten einer der ertragreichsten Kaffeeanbauregionen Äthiopiens, der Gedeo-Zone, und fungiert als geschäftiges Handelszentrum für die Vermarktung hochwertiger Arabica-Bohnen. Die Stadt ist durch ihre Lage an der wichtigen Fernstraße nach Kenia ein entscheidendes Bindeglied im internationalen Warenverkehr. Neben der dominierenden Kaffeeindustrie ist Dila durch die Gründung der Dilla-Universität zu einem wichtigen akademischen Standort im Süden geworden, der junge Talente aus der gesamten Region anzieht. Die kulturelle Identität der Stadt ist eng mit den traditionellen Anbaumethoden der Gedeo-Bevölkerung verwoben. Wirtschaft K8 — Kaffee-Export und Agrarindustrie.",
+      "factsAdvanced": [
+        "Zentrum des intensiven Kaffeehandels in der Gedeo-Zone.",
+        "Sitz der Dilla-Universität mit zahlreichen Studenten.",
+        "Wichtiger Transitpunkt an der Straße nach Kenia.",
+        "Umgeben von fruchtbaren Landschaften der Hochlandregion.",
+        "Einer der wichtigsten Umschlagplätze für exportierten Kaffee.",
+        "Kulturelles Zentrum der Gedeo-Bevölkerung."
+      ]
+    },
+    {
+      "id": "nekemte-cities-v2",
+      "descriptionAdvanced": "Nekemte ist eine wirtschaftlich vitale Marktstadt im westlichen Äthiopien und fungiert als Hauptort für die Provinz Welega. Die Stadt liegt in einem strategisch günstigen Hochlandgebiet, das durch eine florierende Landwirtschaft geprägt ist, in der besonders Kaffee und verschiedene Getreidesorten eine zentrale Rolle spielen. Neben ihrer Funktion als Handelsdrehkreuz ist Nekemte ein kultureller Schmelztiegel, dessen Identität durch das bekannte Wollega-Museum dokumentiert wird, das die Geschichte und Traditionen der Region bewahrt. Die Stadt spielt eine wesentliche Rolle in der regionalen Infrastruktur und vernetzt die abgelegeneren Gebiete des Westens mit dem Zentrum. Geschichte K8 — regionale Identität und wirtschaftliche Entwicklung.",
+      "factsAdvanced": [
+        "Zentrale Marktstadt in der Welega-Region.",
+        "Heimat des Wollega-Museums mit kulturellen Artefakten.",
+        "Strategischer Knotenpunkt für den Handel in West-Äthiopien.",
+        "Starke Basis durch vielfältige Landwirtschaft.",
+        "Wichtige Anlaufstelle für den regionalen Austausch.",
+        "Dokumentiertes kulturelles Erbe durch lokale Sammlungen."
+      ]
+    },
+    {
+      "id": "debre-markos-cities-v2",
+      "descriptionAdvanced": "Debre Markos, benannt nach dem Heiligen Markus, war historisch als Hauptstadt der Provinz Gojjam ein machtvolles Zentrum der Region Amhara. Heute wird die Stadt vor allem durch ihre Bedeutung als akademischer Standort, insbesondere durch die Debre-Markos-Universität, geprägt, die den Strukturwandel in der Region vorantreibt. Die Stadt liegt auf einem Hochplateau und ist umgeben von landwirtschaftlich intensiv genutzten Flächen, die das Umland versorgen. Debre Markos verbindet sein reiches historisches Erbe mit einer modernen Ausrichtung, die auf Bildung und regionale Entwicklung setzt. Geschichte K7 — regionale Machtzentren und Moderne.",
+      "factsAdvanced": [
+        "Historisch bedeutsame Hauptstadt der Provinz Gojjam.",
+        "Heimat der Debre-Markos-Universität.",
+        "Benannt nach dem Heiligen Markus.",
+        "Zentraler Ort für die Verwaltung im Amhara-Hochland.",
+        "Wichtige infrastrukturelle Anbindung an das nördliche Äthiopien.",
+        "Wirtschaftliches Zentrum für das umliegende Farmland."
+      ]
+    },
+    {
+      "id": "kombolcha-cities-v2",
+      "descriptionAdvanced": "Kombolcha hat sich in den letzten Jahren von einem bescheidenen Handelsplatz zu einem der wichtigsten Industrieparks Äthiopiens in der Region Amhara entwickelt. Die strategische Lage nahe Dessie und an den Hauptverkehrsrouten ermöglicht einen effizienten Warentransport und macht die Stadt zu einem zentralen Logistikknotenpunkt. Die industrielle Ausrichtung auf Textilien und verarbeitende Gewerbe trägt maßgeblich zur wirtschaftlichen Stabilität und zur Schaffung von Arbeitsplätzen bei. Kombolcha steht damit exemplarisch für die industrielle Modernisierung Äthiopiens, die auf die Nutzung lokaler Ressourcen und den Ausbau exportorientierter Sektoren setzt. Wirtschaft K8 — industrielle Entwicklung und Logistik.",
+      "factsAdvanced": [
+        "Einer der bedeutendsten Industrieparks des Landes.",
+        "Zentraler Logistikknotenpunkt in Nord-Äthiopien.",
+        "Wichtiges wirtschaftliches Zentrum in der Nähe von Dessie.",
+        "Fokus auf Textilindustrie und Produktion.",
+        "Beschleunigtes städtisches Wachstum durch Industrialisierung.",
+        "Integration in das nationale Wirtschaftsnetzwerk."
+      ]
+    },
+    {
+      "id": "debre-birhan-cities-v2",
+      "descriptionAdvanced": "Debre Birhan, was 'Berg des Lichts' bedeutet, wurde im 15. Jahrhundert gegründet und diente zeitweise als Hauptstadt des Äthiopischen Reiches. Die historische Bedeutung der Stadt ist in ihrer Architektur und ihrem kulturellen Status als geistliches Zentrum tief verwurzelt. Mit ihrem für äthiopische Verhältnisse kühlen Hochlandklima bietet die Stadt eine einzigartige Umgebung, die heute auch für industrielle Ansiedlungen attraktiv ist. Debre Birhan schlägt die Brücke zwischen der kaiserlichen Vergangenheit Äthiopiens und einer modernen wirtschaftlichen Zukunft, die Bildung und Industrie miteinander verbindet. Geschichte K7 — kaiserliches Erbe und Hochlandkultur.",
+      "factsAdvanced": [
+        "Ehemalige Hauptstadt des Äthiopischen Reiches im 15. Jahrhundert.",
+        "Gelegen in einem klimatisch kühlen Hochland.",
+        "Bedeutendes historisches Erbe durch frühe Gründung.",
+        "Kulturelles und wirtschaftliches Zentrum nahe Addis Abeba.",
+        "Vielfältige industrielle und landwirtschaftliche Basis.",
+        "Bekannt für die geistliche Tradition der Region."
+      ]
+    },
+    {
+      "id": "asella-cities-v2",
+      "descriptionAdvanced": "Asella ist weltweit nicht nur als landwirtschaftlich geprägtes Zentrum bekannt, sondern vor allem als Geburtsort herausragender äthiopischer Langstreckenläufer wie Haile Gebrselassie. Die Stadt profitiert von ihrer Lage in einer fruchtbaren Region, die für den Anbau von Getreide und Hülsenfrüchten ideal ist. Die sportliche Erfolgsgeschichte hat Asella zu einem Symbol für Disziplin und körperliche Leistungsfähigkeit gemacht, die in der äthiopischen Identität tief verankert sind. Das umliegende Gelände am Mount Chilalo bietet zudem eine beeindruckende Kulisse, die Asella sowohl landschaftlich als auch durch ihre sportliche Tradition einzigartig in Äthiopien macht. Geografie K6 — sportliche Erfolge und regionale Identität.",
+      "factsAdvanced": [
+        "Geburtsort der Sportlegende Haile Gebrselassie.",
+        "Weltweit anerkanntes Zentrum für Langstreckenläufer.",
+        "Strategisch günstig am Mount Chilalo gelegen.",
+        "Zentrum der regionalen Landwirtschaft.",
+        "Symbol für äthiopische Sportkultur.",
+        "Wirtschaftliches Zentrum für die umliegenden Ackerflächen."
+      ]
+    },
+    {
+      "id": "weldiya-cities-v2",
+      "descriptionAdvanced": "Weldiya dient als vitaler Knotenpunkt im nördlichen Teil der Region Amhara und gewinnt durch den Ausbau der Infrastruktur zunehmend an Bedeutung als Wirtschaftsstandort. Die Stadt liegt an einer Hauptfernstraße, die das nördliche Hochland mit dem Zentrum des Landes verbindet, und fungiert dadurch als wichtiger Warenumschlagplatz. Mit der Entwicklung sportlicher und bildungsorientierter Einrichtungen, wie dem lokalen Stadion, stärkt Weldiya seine Rolle als regionales Zentrum, das über den reinen Handel hinausgeht. Die Dynamik der Stadt spiegelt das stetige Streben nach regionaler Anbindung und wirtschaftlicher Vernetzung im nordäthiopischen Raum wider. Wirtschaft K7 — Infrastruktur und regionaler Handel.",
+      "factsAdvanced": [
+        "Zentraler Verkehrsknotenpunkt im Norden Amharas.",
+        "Wichtige Anbindung an das Verkehrsnetz nach Mek'ele.",
+        "Stetig wachsender wirtschaftlicher Einfluss in der Region.",
+        "Investitionen in Sport- und Bildungsinfrastruktur.",
+        "Umschlagplatz für regionale landwirtschaftliche Güter.",
+        "Zunehmende Vernetzung durch moderne Verkehrsführung."
+      ]
+    },
+    {
+      "id": "goba-cities-v2",
+      "descriptionAdvanced": "Goba liegt auf einer beeindruckenden Höhe von fast 2.750 Metern und dient als wichtiges Tor zu den einzigartigen Ökosystemen des Bale-Mountains-Nationalparks. Die Stadt ist ein unverzichtbarer Stützpunkt für den Tourismus, da sie Wanderern und Forschern den Zugang zu den hochalpinen Regionen Äthiopiens ermöglicht. Neben seiner Rolle für den Tourismus ist Goba ein bedeutender Marktplatz für die umliegende Bale-Zone, deren Wirtschaft stark von der Viehzucht und dem Getreideanbau geprägt ist. Die besondere Kombination aus hochgelegener Lebensweise und der Nähe zur unberührten Natur der Bale-Berge macht Goba zu einem Ort von nationaler Bedeutung. Geografie K7 — Hochgebirge und Nationalparks.",
+      "factsAdvanced": [
+        "Höhe von ca. 2.750 Metern über dem Meeresspiegel.",
+        "Hauptausgangspunkt für den Bale-Mountains-Nationalpark.",
+        "Wichtiger Marktplatz für die gesamte Bale-Zone.",
+        "Zentrum für hochgelegene Lebensweise in Äthiopien.",
+        "Logistische Basis für Forschung und Tourismus.",
+        "Wirtschaftlich geprägt durch Viehzucht und Getreide."
+      ]
+    },
+    {
+      "id": "aksum-cities-v2",
+      "descriptionAdvanced": "Aksum ist das Herz des alten Aksumitischen Reiches und eine der historisch bedeutsamsten Städte Afrikas, die heute noch von ihrer kaiserlichen und religiösen Vergangenheit zeugt. Die riesigen, jahrhundertealten Stelen sind architektonische Meisterleistungen, die das archäologische Erbe Äthiopiens repräsentieren. Über die historische Bedeutung hinaus ist Aksum ein lebendiges Zentrum für die äthiopisch-orthodoxe Kirche, die die Stadt als den Aufbewahrungsort der Bundeslade verehrt. Aksum verbindet somit eine archäologische Forschungsstätte mit einem Zentrum für religiöse Pilgerreisen und ist damit ein zentraler Pfeiler für das historische Selbstverständnis Äthiopiens. Geschichte K8 — antike Zivilisationen und religiöses Erbe.",
+      "factsAdvanced": [
+        "Antikes Zentrum des Aksumitischen Reiches.",
+        "Berühmt für die monumentalen Stelen (UNESCO-Erbe).",
+        "Geistiges Zentrum der äthiopisch-orthodoxe Kirche.",
+        "Gilt als Hüterin der Bundeslade.",
+        "Archäologisches Forschungszentrum von Weltrang.",
+        "Wichtiger Pilgerort für Gläubige aus dem ganzen Land."
+      ]
+    },
+    {
+      "id": "adigrat-cities-v2",
+      "descriptionAdvanced": "Adigrat ist ein strategisch bedeutender Knotenpunkt im Norden Tigrays, nahe der eritreischen Grenze, und fungiert als Brücke zwischen den verschiedenen Regionen Äthiopiens. Die Stadt zeichnet sich durch eine wachsende wirtschaftliche Bedeutung aus, die besonders durch die Ansiedlung pharmazeutischer Industrien gestärkt wird. Durch ihre topografische Lage und die Nähe zur Grenze hat Adigrat eine historische Bedeutung als Verteidigungs- und Handelszentrum, die sich in der robusten Architektur der Stadt widerspiegelt. Heute ist Adigrat ein wichtiges Beispiel für den Aufbau industrieller Kapazitäten in den nördlichen Gebieten Äthiopiens. Wirtschaft K8 — pharmazeutische Industrie und Grenznahe Entwicklung.",
+      "factsAdvanced": [
+        "Strategisch wichtiger Verkehrsknotenpunkt im Norden.",
+        "Standort einer bedeutenden pharmazeutischen Fabrik.",
+        "Wachsende wirtschaftliche Bedeutung in der Tigray-Region.",
+        "Wichtige infrastrukturelle Lage nahe der eritreischen Grenze.",
+        "Historisch bedeutsam als Verteidigungs- und Handelszentrum.",
+        "Beispiel für industrielle Ansiedlung im nördlichen Raum."
+      ]
+    },
+    {
+      "id": "robe-cities-v2",
+      "descriptionAdvanced": "Robe dient als Verwaltungszentrum der Bale-Zone in der Region Oromia und ist eng mit der benachbarten Stadt Goba vernetzt, wodurch ein wirtschaftliches Kraftzentrum in der Region entstanden ist. Mit der Etablierung der Madda-Walabu-Universität hat Robe einen bedeutenden Sprung in Richtung Bildung und wissenschaftlicher Forschung vollzogen. Die Stadt fungiert als Verwaltungsschnittstelle für die umliegende bäuerliche Bevölkerung und als Anlaufstelle für lokale Dienstleistungen. Robe repräsentiert das Streben nach regionaler Verwaltungseffizienz und akademischem Wachstum, das für die Entwicklung der Oromia-Region entscheidend ist. Wirtschaft K7 — akademische Entwicklung und Verwaltung.",
+      "factsAdvanced": [
+        "Verwaltungszentrum der gesamten Bale-Zone.",
+        "Sitz der Madda-Walabu-Universität.",
+        "Enger wirtschaftlicher Austausch mit Goba.",
+        "Zentraler Ankerpunkt für regionale Dienstleistungen.",
+        "Wachsendes Bildungszentrum im Süden Oromias.",
+        "Verwaltungsschnittstelle für ländliche Gebiete."
+      ]
+    },
+    {
+      "id": "sodo-cities-v2",
+      "descriptionAdvanced": "Sodo, auch bekannt als Wolaita Sodo, ist das Zentrum der Wolaita-Zone in Süd-Zentraläthiopien und spielt eine wesentliche Rolle bei der Entwicklung der regionalen Wirtschaft. Die Ansiedlung der Wolaita-Sodo-Universität hat die Stadt zu einem der wichtigsten Bildungsstandorte der Region ausgebaut. Sodo zeichnet sich durch eine hohe Bevölkerungsdichte und eine sehr intensive landwirtschaftliche Nutzung aus, die zur Versorgung weiter Gebiete beiträgt. Die Stadt ist ein Symbol für die lokale Identität der Wolaita-Kultur und die Verknüpfung von traditioneller Landwirtschaft mit moderner urbaner Entwicklung. Geografie K7 — regionale Identität und Wissensgesellschaft.",
+      "factsAdvanced": [
+        "Zentraler Ort der Wolaita-Zone.",
+        "Sitz der Wolaita-Sodo-Universität.",
+        "Intensiv landwirtschaftlich genutztes Umland.",
+        "Zentrum der lokalen Wolaita-Kultur und Identität.",
+        "Wichtige Stadt für die Entwicklung der Süd-Zentral-Region.",
+        "Ausgeprägtes urbanes Wachstum in den letzten Jahrzehnten."
+      ]
+    },
+    {
+      "id": "negele-borana-cities-v2",
+      "descriptionAdvanced": "Negele Borana ist ein unverzichtbarer Stützpunkt in Südethiopien und dient als zentraler Markt für das Vieh der Borana-Gemeinschaften. Aufgrund seiner geografischen Lage ist der Ort ein vitaler Umschlagplatz für die pastorale Wirtschaft und die überregionalen Handelsrouten in den Süden des Landes. Die Stadt spiegelt die Lebensweise und die Kultur der pastoralen Bevölkerung wider, die sich an die ariden Bedingungen angepasst hat. Mit der Stärkung des Handels und der lokalen Infrastruktur hat sich Negele Borana zu einer essentiellen Anlaufstelle für den gesamten Süden entwickelt. Geografie K6 — pastorale Wirtschaft und Handel.",
+      "factsAdvanced": [
+        "Zentraler Markt für Vieh und pastorale Produkte.",
+        "Vitaler Umschlagplatz in Südäthiopien.",
+        "Wichtiges Zentrum für die Borana-Gemeinschaft.",
+        "Strategischer Transitpunkt für Handelsrouten.",
+        "Symbol für die pastorale Wirtschaft Äthiopiens.",
+        "Schnittstelle zwischen ländlichen Gebieten und Märkten."
+      ]
+    },
+    {
+      "id": "shire-cities-v2",
+      "descriptionAdvanced": "Shire, oft Inda Selassie genannt, ist ein strategisch bedeutender Knotenpunkt in der westlichen Region Tigray. Die Stadt spielt eine zentrale Rolle bei der Vernetzung der westlichen Gebiete mit den anderen Teilen des nördlichen Hochlands. Mit der Verfügbarkeit eines eigenen Flughafens unterstreicht Shire seine Bedeutung als infrastrukturelle Basis für den regionalen Austausch und für logistische Anforderungen. Die Stadt ist zudem ein historisches Zentrum, dessen Wurzeln tief in die Vergangenheit der Region reichen und dessen heutige Bedeutung sich in seiner Rolle als Handels- und Verwaltungszentrum widerspiegelt. Wirtschaft K8 — Infrastruktur und regionale Vernetzung.",
+      "factsAdvanced": [
+        "Strategisch bedeutende Stadt im westlichen Tigray.",
+        "Zentrum der historischen Shire-Region.",
+        "Infrastrukturell gut vernetzt durch eigenen Flughafen.",
+        "Vitaler Knotenpunkt für den regionalen Handel.",
+        "Verwaltungszentrum mit lokaler Bedeutung.",
+        "Verknüpfung der westlichen Gebiete mit dem Hochland."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "lang": "ro",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ali-ghider-cities-v2",
+      "descriptionAdvanced": "Ali Ghider este cunoscut pentru proiectul agricol de anvergură fondat de investitori italieni, care a pus bazele unei producții masive de bumbac. Infrastructura complexă a canalelor de irigații istorice permite exploatarea terenurilor, demonstrând o gestionare avansată a resurselor de apă încă din perioade trecute. Proiectul a modelat dezvoltarea economică locală și a stabilit standarde în agricultura de export a Eritreei. Ali Ghider rămâne un punct de referință istoric pentru agricultură și inginerie în regiune. Istorie K8 — impactul investițiilor agricole externe în dezvoltarea infrastructurii.",
+      "factsAdvanced": [
+        "Sediul plantațiilor de bumbac Ali Ghider.",
+        "Proiect fondat de investitori italieni în perioada colonială.",
+        "Dispune de canale de irigații istorice complexe.",
+        "Simbol al agriculturii la scară industrială în Eritreea.",
+        "Gestionare avansată a resurselor de apă încă din trecut.",
+        "Punct de referință pentru ingineria agricolă istorică."
+      ]
+    },
+    {
+      "id": "kerkebet-cities-v2",
+      "descriptionAdvanced": "Kerkebet este o localitate marcată de prezența comunităților pastorale, situată strategic de-a lungul râului Barka. Recent, a devenit cunoscută pentru unul dintre cele mai mari baraje moderne ale țării, care promovează industria agricolă locală și oferă resurse vitale pentru pășunat în timpul sezonului uscat. Barajul Kerkebet este un exemplu de investiție în infrastructură hidraulică pentru securitatea alimentară și sprijinirea populațiilor nomade. Orașul îmbină tradiția pastorală cu tehnologia modernă a irigațiilor. Geografie K7 — rolul barajelor moderne în susținerea comunităților pastorale.",
+      "factsAdvanced": [
+        "Situat de-a lungul râului Barka.",
+        "Găzduiește unul dintre cele mai mari baraje moderne din țară.",
+        "Barajul Kerkebet susține industria agricolă regională.",
+        "Pășune crucială pentru comunitățile pastorale în sezonul uscat.",
+        "Îmbină modul de viață tradițional cu tehnologia modernă.",
+        "Sursă vitală pentru irigații și gestionarea resurselor de apă."
+      ]
+    },
+    {
+      "id": "sheeb-cities-v2",
+      "descriptionAdvanced": "She'eb este situat în câmpia fierbinte de coastă, unde locuitorii practică o formă unică de irigații cu apă de viitură (spate irrigation) pentru a cultiva pământul. Acest sistem inteligent de gestionare a resurselor hidrice este esențial pentru securitatea alimentară a zonei aride. Din păcate, orașul este asociat și cu memoria masacrului din 1988, care a marcat profund comunitatea. Astăzi, She'eb este un exemplu de adaptare culturală și tehnică la mediu, încercând să îmbine reconstrucția cu tradițiile agricole specifice. Istorie K8 — adaptarea culturală și tehnică în perioade de criză.",
+      "factsAdvanced": [
+        "Situat în câmpia aridă de coastă.",
+        "Practică irigații unice cu apă de viitură pentru agricultură.",
+        "Sistem esențial pentru securitatea alimentară locală.",
+        "Asociat cu memoria masacrului din 1988.",
+        "Model de adaptare tehnică la medii aride.",
+        "Comunitate orientată spre păstrarea tradițiilor agricole."
+      ]
+    },
+    {
+      "id": "foro-cities-v2",
+      "descriptionAdvanced": "Foro este poarta de acces către situl arheologic Adulis și peisajele vulcanice fascinante din Golful Zula, la Marea Roșie. Regiunea oferă o perspectivă asupra istoriei maritime antice, fiind un nod de contact între diferite civilizații ale timpului. Clima extrem de aridă și fierbinte a definit viața comunităților care au controlat aceste rute comerciale vitale. Astăzi, Foro este punctul de plecare pentru explorarea patrimoniului arheologic și geologic al coastei, fiind un loc unde istoria întâlnește natura spectaculoasă. Geografie K7 — rolul geografiei în dezvoltarea siturilor istorice maritime.",
+      "factsAdvanced": [
+        "Poarta principală către situl arheologic Adulis.",
+        "Aproape de peisajele vulcanice ale Golfului Zula.",
+        "Punct cheie pentru explorarea istoriei maritime antice.",
+        "Climat extrem de arid și cald, specific litoralului.",
+        "Punct de plecare pentru patrimoniul geologic și arheologic.",
+        "Nod istoric între diferite civilizații maritime."
+      ]
+    },
+    {
+      "id": "irafale-cities-v2",
+      "descriptionAdvanced": "Irafale este o așezare izolată de coastă pe Peninsula Buri, recunoscută pentru izvoarele termale vulcanice care apar în imediata apropiere. Zona este activă din punct de vedere geologic, oferind resurse terapeutice naturale unice. Izolarea sa contribuie la păstrarea peisajului nealterat, fiind o destinație de interes pentru cei pasionați de fenomene naturale spectaculoase. Irafale rămâne un exemplu de așezare umană situată într-un mediu natural activ, unde resursele oferite de pământ joacă un rol central. Geografie K7 — fenomene naturale și resurse terapeutice.",
+      "factsAdvanced": [
+        "Așezare izolată pe Peninsula Buri.",
+        "Renume pentru izvoarele termale vulcanice terapeutice.",
+        "Regiune activă din punct de vedere geologic.",
+        "Peisaj natural nealterat datorită izolării.",
+        "Destinație pentru interesul legat de fenomene naturale.",
+        "Resursele oferite de pământ joacă un rol central."
+      ]
+    },
+    {
+      "id": "serejaka-cities-v2",
+      "descriptionAdvanced": "Serejaka este un sat situat la nord de capitala Asmara, oferind vederi panoramice vaste asupra platoului central eritreean. Comunitatea se bazează pe agricultura tradițională, profitând de condițiile climatice favorabile ale zonelor înalte. Situat de-a lungul unui drum cu potențial turistic, satul servește ca loc de oprire pentru observarea reliefului montan. Serejaka conservă echilibrul între viața agricolă și peisajul pitoresc, fiind un exemplu de așezare rurală adaptată la viața de platou. Geografie K7 — rolul așezărilor rurale în peisajul montan.",
+      "factsAdvanced": [
+        "Situat la nord de Asmara pe platoul central.",
+        "Oferă panorame vaste asupra reliefului eritreean.",
+        "Bază agricolă bazată pe practici tradiționale.",
+        "Situat pe un drum cu potențial turistic ridicat.",
+        "Exemplu de adaptare a vieții rurale la viața de platou.",
+        "Echilibru între agricultură și peisaj pitoresc."
+      ]
+    },
+    {
+      "id": "shiketi-cities-v2",
+      "descriptionAdvanced": "Shiketi este o așezare liniștită la periferia regiunii capitalei, unde modul de viață este încă puternic influențat de tradițiile rurale vechi. Urbanizarea Asmarei a început să afecteze zona, dar Shiketi își menține identitatea prin piețele locale de olărit și activitățile meșteșugărești specifice. Este un spațiu de tranziție între viața agrară și mediul urban în expansiune. Shiketi oferă o perspectivă asupra modului în care comunitățile rurale gestionează schimbările sociale și economice provocate de apropierea de orașul mare. Geografie K7 — impactul expansiunii urbane asupra comunităților rurale.",
+      "factsAdvanced": [
+        "Localitate liniștită la marginea capitalei Asmara.",
+        "Tradițiile rurale joacă un rol central în viața de zi cu zi.",
+        "Expansiune urbană determinată de creșterea capitalei.",
+        "Renumită pentru piețele locale de olărit tradițional.",
+        "Spațiu de tranziție între viața agrară și cea urbană.",
+        "Gestionează provocările expansiunii urbane asupra identității locale."
+      ]
+    }
+  ]
+}

@@ -2,293 +2,124 @@
   "lang": "ro",
   "country": "southafrica",
   "files": [
-    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts"
   ],
   "items": [
     {
-      "id": "ford-silverton-plant-economic-v2",
-      "descriptionAdvanced": "Fabrica Ford din Silverton, situată în Pretoria, este una dintre cele mai importante unități de producție ale companiei Ford la nivel global. Aceasta este responsabilă pentru asamblarea modelului Ford Ranger, care este exportat în peste 100 de piețe din întreaga lume. Recent, fabrica a beneficiat de investiții masive pentru modernizare și pentru implementarea proiectului 'Island Mode', care utilizează energie solară și alte surse regenerabile pentru a funcționa independent de rețeaua națională. Silverton este un hub tehnologic care utilizează sisteme avansate de robotică și logistică, asigurând mii de locuri de muncă și contribuind semnificativ la excedentul comercial al Africii de Sud prin exporturi industriale de înaltă valoare. Geografie K7 — Industrializarea sustenabilă și lanțuri de aprovizionare globale.",
+      "id": "sugar-cane-fields-agriculture-life-v2",
+      "descriptionAdvanced": "Zona rurală a provinciei KwaZulu-Natal este acoperită de vaste plantații de trestie de zahăr, de o culoare verde vibrantă, care reprezintă unul dintre pilonii principali ai vieții economice a regiunii. Cultivarea trestiei de zahăr are o lungă tradiție în Africa de Sud, iar aceste plantații nu au doar o valoare industrială semnificativă, ci definesc și caracterul peisajului. Pentru familii și studenții interesați, imaginea câmpurilor și cunoașterea proceselor de cultivare oferă o ocazie excelentă de a înțelege fundamentele agriculturii. Acest mediu prezintă autentic colaborarea armonioasă, dar scopul definit, dintre om și natură în agricultură.",
       "factsAdvanced": [
-        "Principalul centru de producție pentru modelul Ford Ranger exportat global.",
-        "Prima fabrică auto din Africa de Sud care utilizează masiv energia solară (Island Mode).",
-        "Investiția recentă de peste 1 miliard de dolari a crescut capacitatea de producție.",
-        "Exportă vehicule către Europa, Orientul Mijlociu și restul Africii.",
-        "Sistemul logistic include o linie ferată dedicată către portul Gqeberha.",
-        "Utilizează tehnologia de sudură cu laser și roboți de ultimă generație.",
-        "Fabrica operează în Pretoria încă din anul 1967.",
-        "Pilon central al programului de dezvoltare industrială a guvernului sud-african."
+        "Regiune importantă pentru producția de trestie de zahăr",
+        "Baza economică a provinciei KwaZulu-Natal",
+        "Element peisagistic verde caracteristic",
+        "Practici agricole tradiționale",
+        "Zonă agricolă de importanță educațională",
+        "Tradiții îndelungate de cultivare",
+        "Producție de zahăr la scară industrială"
       ]
     },
     {
-      "id": "toyota-prospecton-plant-economic-v2",
-      "descriptionAdvanced": "Fabrica Toyota din Prospecton, situată la sud de Durban, este cea mai mare unitate de producție a vehiculelor din Africa de Sud în ceea ce privește volumul de vânzări pe piața internă și diversitatea modelelor. Aici sunt asamblate modele extrem de populare precum Hilux, Fortuner și Corolla Cross, precum și vehicule comerciale grele. Situată strategic lângă portul Durban, fabrica facilitează atât importul eficient de piese, cât și exportul masiv de vehicule către restul continentului african și către Europa. Toyota Prospecton este recunoscută pentru implementarea riguroasă a sistemului de producție Toyota (Lean Manufacturing), fiind un model de eficiență industrială și un angajator crucial pentru provincia KwaZulu-Natal. Geografie K7 — Sisteme de producție 'just-in-time' și hub-uri auto de coastă.",
+      "id": "eagle-encounters-life-v2",
+      "descriptionAdvanced": "Eagle Encounters este un proiect special de conservare a păsărilor răpitoare care oferă vizitatorilor ocazia de a cunoaște lumea fascinantă a vulturilor, șoimilor și bufnițelor. Obiectivul principal al centrului este reabilitarea păsărilor rănite sau orfane și eliberarea lor ulterioară în mediul natural, educând totodată publicul larg. În timpul demonstrațiilor interactive, copiii pot vedea zborul impresionant al păsărilor de la o distanță sigură, dar directă, oferindu-le o experiență de neuitat. Acest proiect îmbină excelent conservarea naturii cu educarea publicului.",
       "factsAdvanced": [
-        "Lider de piață în Africa de Sud în producția și vânzarea de vehicule.",
-        "Asamblează modelul Hilux, cel mai bine vândut vehicul din istoria țării.",
-        "Prima fabrică din Africa care produce vehicule hibride (Corolla Cross Hybrid).",
-        "Capacitate de producție de peste 200.000 de unități pe an.",
-        "Locația strategică lângă portul Durban reduce costurile logistice de export.",
-        "A supraviețuit și s-a reconstruit rapid după inundațiile devastatoare din 2022.",
-        "Un pilon al economiei locale, cu peste 8.000 de angajați direcți.",
-        "Produce și camioane grele sub mărcile Hino și Dyna."
+        "Centru de reabilitare a păsărilor răpitoare",
+        "Demonstrații de zbor impresionante și interactive",
+        "Programe educaționale pentru toate vârstele",
+        "Salvarea păsărilor răpitoare rănite",
+        "Contact direct cu natura",
+        "Inițiativă importantă de conservare a speciilor",
+        "Destinație populară pentru familii"
       ]
     },
     {
-      "id": "mercedes-east-london-plant-economic-v2",
-      "descriptionAdvanced": "Fabrica Mercedes-Benz din East London este o unitate de elită a grupului german, fiind una dintre puținele locații din lume care produce Clasa C Sedan pentru piețele globale. Renumită pentru precizia și calitatea execuției, fabrica este singurul producător de variante cu volan pe dreapta pentru export în Marea Britanie, Japonia și Australia. Unitatea este complet integrată cu portul fluvial East London, având o conexiune logistică directă care permite încărcarea rapidă a vehiculelor pe nave specializate. Investițiile constante în digitalizare și instruirea forței de muncă au transformat această fabrică într-un centru de excelență tehnică, fiind motorul principal al dezvoltării economice în provincia Eastern Cape. Geografie K7 — Standarde de calitate globală și logistica portuară specializată.",
+      "id": "monkey-land-life-v2",
+      "descriptionAdvanced": "Monkeyland este unul dintre primele centre de protecție a primatelor din lume, unde diverse specii trăiesc în armonie într-un mediu forestier vast și natural. Vizitatorii pot explora pădurea prin tururi ghidate, observând în același timp maimuțele și alte primate în comportamentul lor natural. Scopul centrului nu este doar de a oferi un cămin sigur animalelor, ci și de a educa oamenii despre importanța protejării primatelor. Această experiență specială, aproape de natură, oferă fiecărei familii o perspectivă de neuitat asupra lumii minunate a primatelor.",
       "factsAdvanced": [
-        "Produce noua generație de Mercedes-Benz Clasa C pentru piața mondială.",
-        "Găzduiește una dintre cele mai moderne vopsitorii auto din emisfera sudică.",
-        "Fabrica este premiată repetat pentru cele mai mici rate de defecte din rețeaua Mercedes.",
-        "Exportă peste 90% din producția sa către piețele internaționale.",
-        "Utilizează un sistem logistic avansat conectat direct la portul East London.",
-        "Este cel mai mare investitor industrial din orașul East London.",
-        "Include un centru de formare tehnică de clasă mondială pentru ingineri locali.",
-        "A început producția de vehicule în această locație în anul 1958."
+        "Rezervație pentru primate care trăiesc liber",
+        "Casă comună pentru mai multe specii",
+        "Mediu forestier natural",
+        "Tururi ghidate educative",
+        "Centru important pentru protecția primatelor",
+        "Întâlnire specială cu natura",
+        "Experiență sigură și potrivită pentru familie"
       ]
     },
     {
-      "id": "koeberg-nuclear-power-station-economic-v2",
-      "descriptionAdvanced": "Centrala nucleară Koeberg, situată pe coasta Oceanului Atlantic lângă Cape Town, este singura centrală nucleară funcțională de pe continentul african. Operată de Eskom, centrala furnizează aproximativ 5% din necesarul de electricitate al Africii de Sud, fiind vitală pentru stabilitatea rețelei în regiunea Western Cape. Koeberg utilizează două reactoare cu apă presurizată (PWR) de concepție franceză, care sunt răcite cu apă de mare. Situată într-o zonă protejată care adăpostește numeroase specii de animale sălbatice, centrala funcționează sub standarde de siguranță internaționale riguroase. Koeberg reprezintă o componentă strategică a mixului energetic național, oferind o sursă de energie de bază cu emisii scăzute de carbon. Geografie K7 — Energia nucleară și diversificarea resurselor energetice.",
+      "id": "bird-of-prey-life-v2",
+      "descriptionAdvanced": "Acest centru de reabilitare a păsărilor răpitoare este dedicat îngrijirii și reabilitării cu succes a exemplarelor rănite, bolnave sau orfane. Personalul centrului face tot posibilul pentru ca păsările să își recapete condiția fizică și să poată trăi din nou în libertate. Vizitatorilor li se oferă o perspectivă asupra procesului de reabilitare, astfel încât cei mici și cei mari pot înțelege de ce protejarea prădătorilor din mediul nostru este atât de importantă. Centrul ajută la angajamentul față de protejarea naturii prin programe educaționale constante, fiind o adevărată mină de aur pentru micii cercetători naturaliști.",
       "factsAdvanced": [
-        "Singura centrală nucleară din Africa, inaugurată în 1984.",
-        "Are o capacitate instalată de 1.860 Megawați (două unități de 930 MW).",
-        "Răcirea reactoarelor se face cu apă din Oceanul Atlantic (80 tone pe secundă).",
-        "Construită pe o structură rezistentă la cutremure, folosind fundații de cauciuc.",
-        "Rezervația naturală din jurul centralei (3.000 ha) găzduiește antilope și zebre.",
-        "Reactoarele au fost furnizate de compania franceză Framatome (acum Orano/EDF).",
-        "Produce energie electrică mult mai ieftină decât centralele pe cărbune din nord.",
-        "Trece în prezent printr-un program de extindere a duratei de viață cu încă 20 de ani."
+        "Îngrijire specializată a prădătorilor răniți",
+        "Reabilitare și eliberare în natură",
+        "Educație despre protejarea păsărilor răpitoare",
+        "Oportunitate specială de învățare pentru tineri",
+        "Infrastructură importantă de protecție a animalelor",
+        "Sprijinirea regenerării naturii",
+        "Muncă de conservare a naturii autentică"
       ]
     },
     {
-      "id": "anglo-american-platinum-rustenburg-economic-v2",
-      "descriptionAdvanced": "Complexul Anglo American Platinum din Rustenburg este inima celei mai mari regiuni producătoare de platină din lume. Situat pe Complexul Bushveld, acesta include mai multe mine subterane și facilități masive de procesare, topire și rafinare. Platina extrasă aici este esențială pentru industria auto globală (catalizatori), bijuterii și tehnologii verzi precum pilele de combustie cu hidrogen. Operațiunile din Rustenburg reprezintă coloana vertebrală a economiei provinciei North West și un pilon al industriei miniere sud-africane. Anglo American utilizează tehnologii avansate pentru a extrage și rafina metalele din grupul platinei (PGM), asigurând un flux constant de resurse strategice pentru economia mondială modernă. Geografie K7 — Resurse metalice rare și economia hidrogenului.",
+      "id": "aquila-safari-life-v2",
+      "descriptionAdvanced": "Aquila Private Game Reserve este una dintre cele mai cunoscute destinații de safari din regiunea Cape Town, unde familiile pot ajunge la lumea fascinantă a 'Big Five' – leul, leopardul, elefantul, bivolul și rinocerul – printr-o scurtă călătorie. Rezervația oferă confort de lux și experiențe palpitante aproape de natură, fie că este vorba despre o vizită de o zi sau o ședere mai lungă. Prin programele speciale pentru copii, cei mici pot descoperi fauna sud-africană în siguranță și într-un mod distractiv. Aquila creează echilibrul perfect între confort, educație și aventura naturii neatinse.",
       "factsAdvanced": [
-        "Cel mai mare complex minier de platină de pe glob.",
-        "Produce peste 40% din platina mondială și alte metale prețioase (paladiu, rodiu).",
-        "Metalele sunt extrase din stratul geologic Merensky Reef și UG2.",
-        "Include rafinăria de metale prețioase din Rustenburg, una dintre cele mai mari din lume.",
-        "Platina produsă aici este crucială pentru reducerea emisiilor auto prin catalizatori.",
-        "Investește masiv în tehnologia motoarelor pe bază de hidrogen.",
-        "Asigură locuri de muncă pentru zeci de mii de mineri și tehnicieni.",
-        "Complexul este vizibil din satelit datorită întinderii facilităților industriale."
+        "Safariuri 'Big Five' ușor accesibile",
+        "Opțiuni de cazare de lux confortabile",
+        "Ideal pentru excursii de familie de o zi",
+        "Programe speciale pentru copii",
+        "Faună bogată din Africa de Sud",
+        "Tururi de safari conduse de experți",
+        "Experiență premium aproape de natură"
       ]
     },
     {
-      "id": "impala-platinum-mine-economic-v2",
-      "descriptionAdvanced": "Mina Impala Platinum (Implats) din Rustenburg este una dintre cele mai mari și mai adânci operațiuni miniere de platină din lume. Aceasta constă într-o rețea complexă de puțuri care coboară adânc în Complexul Bushveld pentru a accesa rezervele bogate de metale din grupul platinei. Implats este un producător integrat, având propriile facilități de concentrare și rafinare. Mina joacă un rol vital în lanțul de aprovizionare pentru tehnologiile de energie curată și este un actor economic major în regiune. Siguranța și inovația tehnologică sunt priorități centrale la Impala, unde se utilizează sisteme moderne de monitorizare și ventilație pentru a gestiona provocările mineritului la adâncimi mari în rocă dură. Geografie K7 — Mineritul integrat și metalele strategice.",
+      "id": "butterfly-world-kids-life-v2",
+      "descriptionAdvanced": "Butterfly World este o oază tropicală unde vizitatorii pot păși în lumea magică și colorată a fluturilor și a altor mici creaturi. În grădina tropicală atent concepută, mii de fluturi zboară liber, oferind o experiență uluitoare atât pentru copii, cât și pentru adulți. Particularitatea grădinii este prezentarea interactivă a ciclului de viață al insectelor, astfel încât tinerii naturaliști pot cunoaște micile minuni ale naturii într-o formă ludică. Acest mediu este alegerea perfectă pentru familiile care doresc să se apropie de lumea plantelor și insectelor tropicale într-un loc sigur, dar aproape de natură.",
       "factsAdvanced": [
-        "Unul dintre primii trei producători de platină la nivel mondial.",
-        "Operațiunile includ peste 10 puțuri miniere active în districtul Rustenburg.",
-        "Produce anual peste un milion de uncii de platină rafinată.",
-        "Rafinăria Impala din Springs procesează minereul extras aici.",
-        "Este un furnizor esențial de rodiu, cel mai scump metal prețios din lume.",
-        "Mina a fost un pionier în implementarea programelor de responsabilitate socială.",
-        "Utilizează tehnologia de sortare a minereului pentru a îmbunătăți randamentul.",
-        "Complexul geologic Bushveld conține aproximativ 80% din rezervele de PGM ale lumii."
+        "Mii de fluturi care zboară liber",
+        "Habitat pentru plante și insecte tropicale",
+        "Educație interactivă despre lumea insectelor",
+        "Program ideal pentru familii cu copii mici",
+        "O perspectivă specială asupra ciclului de viață al creaturilor vii",
+        "Mediu tropical sigur",
+        "Experiență colorată și educativă"
       ]
     },
     {
-      "id": "foskor-phalaborwa-economic-v2",
-      "descriptionAdvanced": "Unitatea Foskor din Phalaborwa este centrul producției de fosfați din Africa de Sud, fiind esențială pentru industria agricolă și securitatea alimentară a țării. Foskor extrage rocă fosfatică de înaltă calitate dintr-un zăcământ vulcanic unic în lume. Această rocă este procesată la fața locului și apoi transportată către rafinăria lor din Richards Bay pentru a produce acid fosforic și îngrășăminte. Unitatea este situată într-o zonă de o frumusețe naturală rară, lângă Parcul Național Kruger, și este recunoscută pentru puritatea excepțională a fosfaților săi, care au un conținut foarte scăzut de impurități. Foskor este un jucător strategic care conectează bogăția minerală a solului sud-african cu productivitatea fermelor de pe întreg continentul. Geografie K7 — Minerale pentru agricultură și lanțuri agro-industriale.",
+      "id": "botanical-garden-jhb-life-v2",
+      "descriptionAdvanced": "Grădina Botanică Walter Sisulu din Johannesburg este o adevărată insulă verde în agitația orașului, care oferă experiențe speciale familiilor în orice anotimp. Una dintre principalele atracții ale grădinii este cascada impunătoare care țâșnește din mijlocul peisajului stâncos, oferind un fundal minunat pentru relaxare. Potecile bine amenajate sunt ideale pentru observarea păsărilor și plimbări ușoare în familie, în timp ce zonele de picnic desemnate oferă ocazii excelente pentru timp de calitate petrecut în aer liber. Grădina atrage vizitatori nu doar prin valoarea sa botanică, ci și prin atmosfera sa liniștită.",
       "factsAdvanced": [
-        "Singurul producător de fosfați din Africa de Sud și un lider mondial.",
-        "Extrage minereul dintr-un 'pipe' vulcanic (piroxenit) în districtul Phalaborwa.",
-        "Fosfatul sud-african este renumit pentru puritatea sa chimică ridicată.",
-        "Pilon central pentru fabricarea îngrășămintelor chimice naționale.",
-        "Compania a fost fondată în 1951 pentru a reduce dependența de importuri.",
-        "Minerul este transportat pe calea ferată peste 800 km până la Richards Bay.",
-        "Procesul de flotație utilizat aici este unul dintre cele mai eficiente din lume.",
-        "Angajează o mare parte din populația locală din regiunea Ba-Phalaborwa."
+        "Cascadă spectaculoasă în Johannesburg",
+        "Oportunități excelente pentru observarea păsărilor",
+        "Zone de picnic confortabile și desemnate",
+        "Mediu liniștit și calm pentru familii",
+        "Colecție botanică diversă",
+        "Alegere ideală pentru plimbări ușoare în familie",
+        "Zonă verde urbană importantă"
       ]
     },
     {
-      "id": "modikwa-platinum-mine-economic-v2",
-      "descriptionAdvanced": "Mina de platină Modikwa, situată în estul Complexului Bushveld, este un parteneriat între African Rainbow Minerals și Anglo American Platinum. Aceasta este o mină modernă care exploatează stratul UG2 (Upper Group 2), fiind cunoscută pentru eficientizarea proceselor de extracție în condiții geologice variate. Modikwa utilizează o combinație de metode miniere mecanizate și convenționale, adaptându-se la pantele stratului de minereu. Mina este un exemplu de succes al implicării comunităților locale în sectorul minier, având structuri de proprietate care beneficiază direct locuitorii din jur. Prin producția sa de platină, paladiu și rodiu, Modikwa contribuie la menținerea Africii de Sud în poziția de lider incontestabil al pieței globale de metale prețioase industriale. Geografie K7 — Modele de parteneriat în industria extractivă.",
+      "id": "croc-city-life-v2",
+      "descriptionAdvanced": "În Croc City Crocodile Park, vizitatorii pot cunoaște lumea fascinantă a reptilelor de aproape, inclusiv crocodilii uriași și diverse specii incitante de șerpi. Demonstrațiile spectaculoase de hrănire și spectacolele interactive cu șerpi atrag garantat atenția familiilor, în timp ce învață despre comportamentul natural al acestor animale într-un mediu sigur. Prelegerile susținute de experți ajută la risipirea concepțiilor greșite și promovează respectul și o mai bună înțelegere față de reptile. Croc City promite nu doar o vizită captivantă, ci și una educativă pentru toate grupele de vârstă.",
       "factsAdvanced": [
-        "Situată pe ramura estică a bogatului Complex Bushveld.",
-        "Produce un amestec bogat de metale din grupul platinei (PGM).",
-        "Adâncimea de operare variază, atingând zone de peste 450 metri.",
-        "Capacitate de procesare de peste 200.000 de tone de minereu pe lună.",
-        "Mina are o durată de viață estimată de peste 30 de ani.",
-        "Găzduiește o unitate modernă de concentrare a minereului la fața locului.",
-        "Un model de transformare economică (B-BBEE) în sectorul minier.",
-        "Paladiul produs aici este esențial pentru electronice și stomatologie."
+        "Demonstrații fascinante de hrănire a crocodililor",
+        "Spectacole interactive și educative cu șerpi",
+        "Programe educaționale despre reptile",
+        "Întâlnire sigură cu animale sălbatice",
+        "Demontarea concepțiilor greșite și cunoașterea animalelor",
+        "Atracție familială captivantă în regiunea Gauteng",
+        "Demonstrații supravegheate de experți"
       ]
     },
     {
-      "id": "robben-island-history-v2",
-      "descriptionAdvanced": "Robben Island, situată în Golful Table la 7 km de Cape Town, este un monument viu al istoriei sud-africane și un simbol mondial al rezilienței umane. Timp de peste 400 de ani, insula a servit ca închisoare, colonie de leproși și stație militară. A devenit celebră pe plan internațional ca locul unde Nelson Mandela și alți lideri ai luptei anti-apartheid au fost încarcerați în condiții brutale. Astăzi, situl UNESCO este un muzeu unde tururile sunt adesea ghidate de foști deținuți politici, oferind o perspectivă emoționantă și autentică asupra sacrificiului pentru democrație. Insula păstrează celula originală a lui Mandela și cariera de var unde prizonierii munceau forțat, fiind un loc de pelerinaj pentru toți cei care prețuiesc libertatea. Istorie K8 — Apartheid și mișcările de eliberare națională.",
+      "id": "cheetah-sanctuary-life-v2",
+      "descriptionAdvanced": "Cheetah Outreach este o organizație dedicată care lucrează pentru salvarea, protejarea și supraviețuirea ghepardilor, oferind totodată vizitatorilor posibilitatea de a observa acești prădători minunați. Cercetarea științifică efectuată în centru și activitatea practică de conservare a naturii sunt strâns legate de educație, astfel încât oaspeții pot obține o imagine de ansamblu asupra pericolelor care amenință ghepardii. În timpul vizitei din apropierea Pretoriei, familiile pot cunoaște cerințele naturale ale speciei în siguranță, susținând în același timp munca importantă de salvare a centrului. Această experiență este de neuitat și inspiratoare pentru fiecare iubitor al naturii.",
       "factsAdvanced": [
-        "Inclusă în Patrimoniul Mondial UNESCO în anul 1999.",
-        "Nelson Mandela a fost închis aici timp de 18 ani (1964-1982).",
-        "Celula lui Mandela (nr. 7) măsoară doar 2,4 pe 2,1 metri.",
-        "A găzduit o colonie de leproși între anii 1846 și 1931.",
-        "Insula este un sanctuar natural pentru pinguinii africani.",
-        "Numele 'Robben' provine din olandeză și înseamnă 'foci'.",
-        "Farul de pe insulă a fost construit în 1864 și este încă activ.",
-        "Foștii deținuți politici servesc drept ghizi, oferind mărturii directe."
-      ]
-    },
-    {
-      "id": "cradle-of-humankind-history-v2",
-      "descriptionAdvanced": "Leagănul Omenirii (Cradle of Humankind) este unul dintre cele mai importante situri paleoantropologice din lume, situat la aproximativ 50 km nord-vest de Johannesburg. Acest sit UNESCO de 47.000 de hectare conține un sistem complex de peșteri de calcar care au oferit peste o treime din totalul fosilelor de hominizi timpurii găsite vreodată pe glob. Descoperiri celebre precum 'Mrs. Ples' și 'Little Foot' demonstrează evoluția strămoșilor noștri pe parcursul a milioane de ani. Centrul de vizitatori Maropeng oferă o experiență interactivă spectaculoasă, explorând originile pământului și ale umanității. Situl dovedește că Africa este locul de origine al speciei umane, fiind o destinație esențială pentru înțelegerea identității noastre universale. Istorie K8 — Evoluția umană și preistoria Africii.",
-      "factsAdvanced": [
-        "Patrimoniu Mondial UNESCO din 1999, acoperind 470 km².",
-        "Găzduiește peșterile Sterkfontein, cea mai bogată sursă de fosile de hominizi.",
-        "Locul unde a fost găsit 'Little Foot', un schelet aproape complet de 3,6 milioane de ani.",
-        "Descoperirea lui Homo naledi în 2013 a revoluționat teoriile evoluției.",
-        "Fosila 'Mrs. Ples' a fost descoperită aici de Robert Broom în 1947.",
-        "Maropeng înseamnă 'întoarcerea la locul de origine' în limba Setswana.",
-        "Conține dovezi ale utilizării focului de către oameni de acum un milion de ani.",
-        "Situl este un centru global activ de cercetare științifică."
-      ]
-    },
-    {
-      "id": "castle-of-good-hope-history-v2",
-      "descriptionAdvanced": "Castelul Bunei Speranțe din Cape Town este cea mai veche clădire colonială existentă în Africa de Sud, fiind construit de Compania Olandeză a Indiilor de Est (VOC) între 1666 și 1679. Fortul în formă de stea cu cinci colțuri a servit drept sediu administrativ, militar și judiciar al Coloniei Capului timp de decenii. Arhitectura sa militară barocă olandeză include baze masive de piatră și cinci bástioane numite după titlurile Prințului de Orania. Astăzi, castelul este un monument național care găzduiește muzee militare și colecții de artă valoroase, oferind o perspectivă complexă asupra epocii coloniale, sclaviei și istoriei militare a regiunii. Clopotul său original din 1697 este încă funcțional, marcând trecerea secolelor în inima orașului. Istorie K8 — Colonialismul și expansiunea VOC în Africa.",
-      "factsAdvanced": [
-        "Cea mai veche structură construită de europeni rămasă în Africa de Sud (1666).",
-        "Design unic în formă de stea cu 5 bástioane: Leerdam, Buuren, Katzenellenbogen, Nassau, Oranje.",
-        "A fost situat inițial chiar pe malul mării (acum este în interior din cauza desecărilor).",
-        "Găzduiește Colecția William Fehr de picturi și mobilier istoric.",
-        "Poarta de intrare datează din 1684 și poartă stemele orașelor olandeze.",
-        "A servit drept închisoare pentru lideri indigeni precum Adam Kok.",
-        "Este un monument național restaurat cu grijă pentru a păstra detaliile originale.",
-        "Clopotul turnului a fost turnat în Amsterdam în anul 1697."
-      ]
-    },
-    {
-      "id": "mapungubwe-history-v2",
-      "descriptionAdvanced": "Regatul Mapungubwe, situat la confluența râurilor Limpopo și Shashe, a fost primul mare centru urban al Africii de Sud, atingându-și apogeul între anii 1075 și 1220 d.Hr. Acest sit UNESCO dezvăluie o civilizație africană sofisticată care a practicat agricultura avansată și comerțul la mare distanță cu țări precum China, India și Egipt. Descoperirea celebrului 'Rinocer de Aur' pe Dealul Mapungubwe a spulberat mitul că societățile precoloniale africane erau primitive. Dealul a servit drept reședință regală, demonstrând o ierarhie socială complexă. Mapungubwe este strămoșul cultural al Marelui Zimbabwe, fiind un punct focal pentru mândria africană și pentru studiul civilizațiilor timpurii de pe continent. Istorie K8 — Civilizațiile africane timpurii și rutele comerciale mondiale.",
-      "factsAdvanced": [
-        "Inclus în Patrimoniul Mondial UNESCO în anul 2003.",
-        "Prima societate cu structură de clasă complexă din sudul Africii.",
-        "Locul unde a fost descoperit 'Rinocerul de Aur de la Mapungubwe' (secolul XIII).",
-        "Centru comercial major care exporta aur și fildeș către piețele asiatice.",
-        "Societatea a fost abandonată în secolul XIII din cauza schimbărilor climatice.",
-        "Situat în parcul național care poartă același nume, la granița cu Botswana și Zimbabwe.",
-        "Muzeul Mapungubwe găzduiește artefacte din aur, sticlă și ceramică.",
-        "Dealul sacru era accesat doar de elită printr-o scară de piatră ascunsă."
-      ]
-    },
-    {
-      "id": "voortrekker-monument-history-v2",
-      "descriptionAdvanced": "Monumentul Voortrekker din Pretoria este o structură masivă de granit ridicată pentru a onora pionierii buri (Voortrekkers) care au părăsit Colonia Capului în secolul al XIX-lea în 'Marea Migrație' (Great Trek). Inaugurat în 1949, monumentul domină peisajul orașului și este un simbol central al identității afrikaner. Interiorul său spectaculos adăpostește cea mai lungă friză de marmură din lume, care ilustrează în detaliu povestea migrației și a bătăliilor. Un fenomen optic unic are loc în fiecare an pe 16 decembrie la prânz, când o rază de soare cade direct pe cenotaful central. Monumentul nu este doar un omagiu istoric, ci și un spațiu de reflexie asupra complexității și traumelor istoriei Africii de Sud. Istorie K8 — Marea Migrație și formarea identității afrikaner.",
-      "factsAdvanced": [
-        "Structură gigantică de granit cu o înălțime de 40 de metri.",
-        "Găzduiește cel mai mare basorelief de marmură din lume (92 de metri lungime).",
-        "Raza de soare luminează cuvintele 'Ons vir Jou, Suid-Afrika' la prânz pe 16 decembrie.",
-        "Zidul exterior (laager) este format din 64 de căruțe de piatră sculptate.",
-        "Construcția a durat 12 ani, fiind finalizată în 1949.",
-        "Arhitectul Gerard Moerdijk a proiectat monumentul cu influențe egiptene și europene.",
-        "Situat pe un deal oferind o panoramă de 360 de grade asupra Pretoriei.",
-        "Un loc de o importanță culturală majoră pentru comunitatea vorbitoare de afrikaans."
-      ]
-    },
-    {
-      "id": "blood-river-heritage-site-history-v2",
-      "descriptionAdvanced": "Situl Blood River (Ncome) din KwaZulu-Natal comemorează Bătălia de la Blood River din 16 decembrie 1838, un moment definitoriu în istoria Africii de Sud. Aici, o mână de voortrekkers s-au apărat împotriva miilor de războinici Zulu folosind o formație circulară de căruțe (laager). Monumentul este unic, constând din 64 de căruțe de bronz turnate în mărime naturală, aranjate exact așa cum au fost în ziua luptei. Peste râu se află Muzeul Ncome, care oferă perspectiva Zulu asupra evenimentelor, transformând zona dintr-un câmp de luptă într-un spațiu al reconcilierii. Vizitarea ambelor părți oferă o înțelegere profundă a curajului și tragediei care au marcat întâlnirea acestor două culturi puternice. Istorie K8 — Conflictele dintre coloniști și Regatul Zulu.",
-      "factsAdvanced": [
-        "Monumentul conține 64 de căruțe de bronz, fiecare cântărind peste o tonă.",
-        "Bătălia a avut loc între 470 de buri și aproximativ 10.000-15.000 de Zulu.",
-        "Fluviul Ncome a fost numit Blood River după ce apele sale s-au înroșit în timpul luptei.",
-        "Ziua de 16 decembrie este acum sărbătorită ca 'Ziua Reconcilierii' în Africa de Sud.",
-        "Muzeul Ncome (partea Zulu) are o arhitectură inspirată din scuturile tradiționale.",
-        "Situl este un punct esențial pe traseul turistic al câmpurilor de bătălie (Battlefields).",
-        "Căruțele de bronz sunt replici fidele ale celor folosite în 'Marea Migrație'.",
-        "Locul simbolizează ciocnirea dintre expansiunea colonială și suveranitatea indigenă."
-      ]
-    },
-    {
-      "id": "isandlwana-battlefield-history-v2",
-      "descriptionAdvanced": "Câmpul de luptă Isandlwana este locul uneia dintre cele mai mari înfrângeri militare ale Imperiului Britanic. Pe 22 ianuarie 1879, un sfert de secol de mândrie imperială a fost spulberat când o armată Zulu de 20.000 de oameni a anihilat o coloană britanică tehnologic superioară sub poalele muntelui Isandlwana, care seamănă cu un leu ghemuit. Bătălia este celebră pentru tactica 'Hörner des Stiers' (coarnele bivolului) aplicată cu succes de Zulu. Astăzi, situl este marcat de mici grămezi de pietre albe (cairns) care indică locurile unde odihnesc soldații căzuți. Este un loc plin de liniște și demnitate, care amintește de geniul tactic al regelui Cetshwayo și de prețul sângeros al rezistenței africane împotriva expansionismului colonial. Istorie K8 — Războiul Anglo-Zulu și rezistența indigenă.",
-      "factsAdvanced": [
-        "Prima bătălie majoră a Războiului Anglo-Zulu din 1879.",
-        "Aproape 1.300 de soldați britanici au fost uciși într-o singură zi.",
-        "Zidul muntelui Isandlwana este un punct de reper geografic spectaculos.",
-        "Armata Zulu nu a folosit arme de foc moderne, ci sulițe (assegai) și scuturi.",
-        "Situl este presărat cu monumente și morminte de război bine conservate.",
-        "Victorie răsunătoare care a trimis unde de șoc prin tot Imperiul Britanic.",
-        "Situl include un centru modern de informare pentru vizitatori.",
-        "Tactici de luptă Zulu sunt studiate și astăzi în academiile militare."
-      ]
-    },
-    {
-      "id": "rorkes-drift-history-v2",
-      "descriptionAdvanced": "Rorke's Drift este legendar pentru apărarea eroică a unei mici stații de misiune britanice în fața unui atac masiv al războinicilor Zulu, la doar câteva ore după dezastrul de la Isandlwana în 1879. Aproximativ 150 de soldați britanici au rezistat timp de 12 ore împotriva a peste 3.000 de luptători Zulu, folosind saci de făină și cutii de biscuiți ca baricade. Pentru curajul lor, au fost acordate 11 Cruci Victoria, cel mai mare număr primit vreodată pentru o singură acțiune militară. Astăzi, situl adăpostește un muzeu excelent în vechea clădire a spitalului și un centru de artă Zulu faimos pentru tapiseriile sale. Rorke's Drift rămâne un simbol al curajului extrem manifestat de ambele părți ale conflictului. Istorie K8 — Tactici de asediu și onoare militară.",
-      "factsAdvanced": [
-        "11 Cruci Victoria acordate, un record istoric pentru o singură bătălie.",
-        "Bătălia a durat din după-amiaza zilei de 22 ianuarie până în dimineața zilei de 23 ianuarie 1879.",
-        "Stația de misiune aparținea inițial Bisericii Suedeze.",
-        "Faimosul film 'Zulu' din 1964 a adus acest eveniment în atenția lumii întregi.",
-        "Pierderile britanice au fost de doar 17 oameni, comparativ cu sute de Zulu.",
-        "Cunoscut astăzi pentru ELC Art and Craft Centre, care promovează cultura locală.",
-        "Situl include o replică a grădinii și a structurilor de apărare originale.",
-        "Situat pe malul râului Buffalo (uMzinyathi)."
-      ]
-    },
-    {
-      "id": "nelson-mandela-capture-site-history-v2",
-      "descriptionAdvanced": "Locul Capturării lui Nelson Mandela, situat lângă Howick în KwaZulu-Natal, marchează momentul critic din 5 august 1962 când Mandela a fost arestat, începând cei 27 de ani de închisoare. Atracția principală este o sculptură spectaculoasă compusă din 50 de coloane de oțel tăiate cu laser, care, privite dintr-un anumit unghi, se aliniază pentru a crea portretul perfect al lui Mandela. Situl include și un muzeu modern care prezintă 'Lunga cale către libertate' a liderului sud-african. Este un loc simbolic care transformă o scenă a represiunii într-un monument al speranței și unității. Designul artistic ingenios și peisajul pitoresc al dealurilor Natal fac din acest loc o oprire obligatorie pentru orice călător pasionat de istorie. Istorie K8 — Lupta împotriva apartheidului și moștenirea lui Mandela.",
-      "factsAdvanced": [
-        "Marchează locația exactă unde Mandela a fost oprit și arestat în 1962.",
-        "Sculptura portret este opera artistului Marco Cianfanelli (inaugurată în 2012).",
-        "Mandela călătorea deghizat în șofer sub numele de David Motsamayi.",
-        "Situl a fost dezvoltat pentru a marca 50 de ani de la arestarea sa.",
-        "Include o expoziție multimedia detaliată despre viața politică a lui Mandela.",
-        "Aflat pe ruta pitorească R103, aproape de Cascada Howick.",
-        "Coloanele de oțel variază în înălțime între 6 și 9 metri.",
-        "Unul dintre cele mai fotografiate și recunoscute monumente din Africa de Sud."
-      ]
-    },
-    {
-      "id": "district-six-museum-history-v2",
-      "descriptionAdvanced": "Muzeul District Six din Cape Town este o mărturie dureroasă a evacuărilor forțate din perioada apartheidului. În 1966, acest cartier vibrant și multicultural a fost declarat 'zonă pentru albi', ceea ce a dus la distrugerea caselor și mutarea forțată a peste 60.000 de locuitori către zonele aride din Cape Flats. Muzeul, găzduit într-o fostă biserică, păstrează amintirile, fotografiile și poveștile personale ale celor strămutați. O hartă uriașă pe podea permite foștilor rezidenți să marcheze locația exactă a caselor lor pierdute. Este un spațiu al memoriei colective și al luptei pentru dreptatea socială, subliniind importanța identității și a spiritului comunitar care nu a putut fi dărâmat odată cu zidurile. Istorie K8 — Segregarea urbană și rezistența socială.",
-      "factsAdvanced": [
-        "District Six a fost inima cosmopolită a Cape Town-ului înainte de distrugere.",
-        "Evacuările au început în 1968 și au durat peste un deceniu.",
-        "Peste 60.000 de persoane au fost afectate de declararea zonei ca fiind 'doar pentru albi'.",
-        "Muzeul a fost înființat în 1994, imediat după căderea apartheidului.",
-        "Majoritatea clădirilor au fost rase de pe fața pământului cu buldozerele.",
-        "Hartă de pe podea a devenit un simbol iconic al regăsirii identității.",
-        "Interacțiunea cu ghizii, mulți fiind foști rezidenți, oferă o experiență unică.",
-        "Zona District Six a rămas în mare parte teren viran timp de decenii ca formă de protest."
-      ]
-    },
-    {
-      "id": "apartheid-museum-history-v2",
-      "descriptionAdvanced": "Muzeul Apartheidului din Johannesburg este instituția definitorie pentru înțelegerea sistemului de segregare rasială care a guvernat Africa de Sud între 1948 și 1994. Experiența vizitatorului începe cu o repartizare aleatorie pe criterii rasiale ('Alb' sau 'Non-Alb') prin porți diferite, oferind un impact emoțional imediat. Expozițiile utilizează tehnologii multimedia, fotografii istorice și artefacte precum vehicule de poliție blindate (Casspir) pentru a povesti ascensiunea, teroarea și prăbușirea regimului. Muzeul este o capodoperă de design arhitectural, simbolizând opresiunea prin ziduri groase de beton și libertatea prin spații deschise. Este un loc esențial pentru înțelegerea sufletului națiunii sud-africane și a luptei globale pentru drepturile omului. Istorie K8 — Structura statului de apartheid și eliberarea.",
-      "factsAdvanced": [
-        "Inaugurat în 2001 ca parte a complexului Gold Reef City.",
-        "Utilizează 22 de zone de expoziție individuale pentru a acoperi cronologia istorică.",
-        "Beherbergt o expoziție permanentă masivă despre viața lui Nelson Mandela.",
-        "Arhitectura a câștigat numeroase premii internaționale pentru simbolism.",
-        "Fiecare vizitator experimentează simbolic segregarea la intrare.",
-        "Conține mii de piese de arhivă, inclusiv înregistrări audio și video rare.",
-        "Situl este recunoscut ca cel mai bun muzeu de istorie contemporană din Africa.",
-        "Thematizează procesul Comisiei pentru Adevăr și Reconciliere (TRC)."
-      ]
-    },
-    {
-      "id": "groot-constantia-history-v2",
-      "descriptionAdvanced": "Groot Constantia este cel mai vechi domeniu viticol din Africa de Sud, fondat în 1685 de guvernatorul Simon van der Stel. Situat la poalele munților din Cape Town, este un exemplu splendid de arhitectură Cape Dutch, cu faimoasele sale frontoane sculptate și clădiri văruite în alb. Domeniul este celebru în istoria mondială pentru vinul său dulce 'Vin de Constance', care era preferatul regilor Europei și al lui Napoleon Bonaparte în timpul exilului său pe Insula Sfânta Elena. Astăzi, Groot Constantia este un muzeu viu și o cramă activă, oferind vizitatorilor o incursiune în viața luxoasă a secolului al XVIII-lea și în tradiția de peste 330 de ani a vinificației sud-africane. Istorie K8 — Arhitectura colonială și începuturile agriculturii comerciale.",
-      "factsAdvanced": [
-        "Cea mai veche fermă de vinuri din țară (stabilită acum peste 335 de ani).",
-        "Napoleon a comandat 1.126 de litri de vin de aici în timpul exilului său.",
-        "Conacul principal (Manor House) este un monument național restaurat.",
-        "Friza celebră 'Bacchus' de pe pivnița istorică este opera lui Anton Anreith.",
-        "Parte a 'Rutei Vinului' din Cape Town, una dintre cele mai vizitate zone.",
-        "Găzduiește un muzeu al mobilierului și artei din epoca VOC.",
-        "Domeniul se întinde pe 165 de hectare de teren fertil.",
-        "Vinul 'Grand Constance' a fost exportat către curțile regale din toată Europa."
+        "Se concentrează pe protejarea și salvarea ghepardilor",
+        "Activitate importantă de cercetare și educație",
+        "Observarea etică și sigură a animalelor",
+        "Sprijin direct pentru supraviețuirea speciei",
+        "Informare despre pericolele care amenință ghepardii",
+        "Experiență de conservare accesibilă lângă Pretoria",
+        "Centru inspirator pentru fiecare iubitor al naturii"
       ]
     }
   ]

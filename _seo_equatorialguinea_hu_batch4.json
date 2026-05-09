@@ -1,0 +1,275 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "museo-nacional-history-v2",
+      "descriptionAdvanced": "A malabói Nemzeti Múzeum Egyenlítői-Guinea legfontosabb kulturális kincstára, amely az ország gazdag és sokszínű történelmi örökségét mutatja be. Az intézmény egy gyönyörűen felújított gyarmati épületben kapott helyet, amely már önmagában is építészeti nevezetesség. A múzeumi gyűjtemény felöleli a prekoloniális korszak törzsi művészetét, beleértve a fang és bubi rituális maszkokat és szobrokat, valamint a spanyol gyarmati időszak dokumentumait és tárgyait. Külön részleg foglalkozik a függetlenségi harc emlékeivel és a modern állam kialakulásával. A múzeum nemcsak a múlt megőrzésének helyszíne, hanem az oktatás és a nemzeti identitás erősítésének központja is, ahol rendszeresen tartanak vezetett túrákat iskolások számára. A látogatók itt kaphatnak legátfogóbb képet az ország kulturális evolúciójáról és hagyományairól.",
+      "factsAdvanced": [
+        "Egyenlítői-Guinea központi múzeuma a főváros szívében.",
+        "Értékes gyűjteményt őriz rituális maszkokból és törzsi műtárgyakból.",
+        "Egy elegáns és patinás gyarmati stílusú épületben található.",
+        "Átfogó tárlat mutatja be az országot a kőkortól a függetlenségig.",
+        "Fontos szerepet tölt be a nemzeti kulturális örökség digitalizálásában.",
+        "Gyakran ad otthont ideiglenes kortárs művészeti kiállításoknak.",
+        "A fővárosi kulturális séták egyik legfontosabb megállóhelye."
+      ]
+    },
+    {
+      "id": "palacio-moca-history-v2",
+      "descriptionAdvanced": "A Moka-palota Bioko szigetének déli fennsíkján található történelmi épületegyüttes, amely a bubi nép hagyományos királyi méltóságának és a későbbi spanyol adminisztrációnak az összefonódását jelképezi. A hűvösebb, magaslati környezetben fekvő rezidencia fontos politikai és szakrális központ volt a gyarmati korszak előtt és alatt is. Az épület stílusa egyszerűbb, mint a malabói palotáké, jobban illeszkedik a hegyvidéki tájhoz és a bubi építészeti hagyományokhoz. Történelmileg a Moka-fennsík urai innen irányították a sziget belső területeit és őrizték a helyi törvényeket. Ma a palota és környéke fontos emlékhely, amely tanúskodik a sziget eredeti lakóinak társadalmi szervezettségéről és a spanyolokkal való komplex viszonyrendszerükről. A helyszín spirituális energiája és történelmi súlya ma is érezhető a látogatók számára.",
+      "factsAdvanced": [
+        "Történelmi rezidencia a Bioko szigeti Moka-fennsíkon.",
+        "A bubi nép hagyományos vezetőinek és királyainak egykori székhelye.",
+        "Fontos szerepet játszott a sziget belső közigazgatásában.",
+        "Egyedülálló módon ötvözi a helyi és a spanyol építészeti elemeket.",
+        "Kiemelt jelentőségű a bubi kulturális örökség megőrzésében.",
+        "A hűvös hegyi klíma miatt stratégiai pihenőhely is volt a múltban.",
+        "Ma népszerű történelmi és néprajzi kirándulóhely a szigeten."
+      ]
+    },
+    {
+      "id": "faro-punta-unidad-history-v2",
+      "descriptionAdvanced": "A Faro de Punta Unidad egy történelmi világítótorony, amely Bioko szigetének egyik stratégiai partmenti pontján őrzi a Guineai-öböl hajózási útvonalait. A torony a 20. század elején épült, amikor a spanyol tengeri kereskedelem Malabo és Luba között a csúcspontján volt. Robusztus kőépítménye és klasszikus lanternája a gyarmati mérnöki tudás szép példája, amely évtizedeken át segítette a kakaót és kávét szállító gőzösök biztonságos navigációját a trópusi viharokban és a párás éjszakákban. A világítótorony neve ('Egység-csúcs') a modern időkben új jelentést kapott, szimbolizálva az ország szigeti és szárazföldi részeinek összetartozását. Bár a modern GPS technológia háttérbe szorította eredeti funkcióját, a torony továbbra is fontos tengerparti jelkép és kedvelt célpont a romantikus kilátást keresők számára.",
+      "factsAdvanced": [
+        "Történelmi világítótorony Bioko sziget stratégiai partvonalán.",
+        "A 20. század eleji spanyol tengerészeti infrastruktúra része.",
+        "Klasszikus kőépítészet, amely dacol az óceáni sós levegővel.",
+        "Segítette a gyarmati kor kereskedelmi flottáinak navigációját.",
+        "A neve a nemzeti egység és összefogás modern szimbóluma.",
+        "Páratlan panorámát nyújt a Guineai-öbölre és a partmenti sziklákra.",
+        "Fontos ipartörténeti emlék és turisztikai tájékozódási pont."
+      ]
+    },
+    {
+      "id": "plaza-reloj-malabo-history-v2",
+      "descriptionAdvanced": "A malabói Plaza del Reloj (Óratorony tér) a főváros történelmi magjának egyik legbájosabb és legfontosabb csomópontja. A tér névadója a közepén álló elegáns óratorony, amely a spanyol gyarmati korszak óta méri az időt a kikötő közelében. Ez a terület egykor a város társadalmi és üzleti életének középpontja volt, ahol a tengerészek, kereskedők és közhivatalnokok találkoztak. A teret övező patinás épületek, árnyas verandáikkal és kovácsoltvas erkélyeikkel, Malabo 'aranykorát' idézik. A Plaza del Reloj megőrizte mediterrán hangulatát a trópusok szívében, emlékeztetve a város spanyol gyökereire. Ma a tér népszerű találkozóhely, ahol a múlt és a jelen összeér: a régi óra alatt modern üzletek és kávézók várják a helyieket és a turistákat, akik egy pillanatra megállnak a városi forgatagban.",
+      "factsAdvanced": [
+        "Malabo történelmi negyedének egyik legrégebbi tere.",
+        "Központi eleme a spanyol gyarmati időkből származó óratorony.",
+        "A város egykori társadalmi és kereskedelmi ütőere volt.",
+        "Gyönyörűen megőrzött patinás épületek veszik körül a teret.",
+        "Fontos tájékozódási pont a kikötő és a belváros határán.",
+        "Egyedülálló mediterrán hangulatot áraszt Bioko szigetén.",
+        "Kihagyhatatlan állomás a fővárosi örökségvédelmi túrákon."
+      ]
+    },
+    {
+      "id": "antiguo-puerto-luba-history-v2",
+      "descriptionAdvanced": "Luba régi kikötője (Antiguo Puerto) a gyarmati korszakban Bioko szigetének első számú mezőgazdasági exportkapuja volt. Ezen a történelmi rakparton keresztül hagyták el a szigetet a déli ültetvényekről származó hatalmas kakaó- és kávészállítmányok, amelyek a spanyol gazdaság motorját jelentették. A kikötő környékén ma is láthatók az egykori raktárak, vámépületek és a kereskedőházak romjai, amelyek a 20. század első felének lüktetését idézik. A terület történelmileg fontos szerepet játszott a sziget déli felének benépesítésében és gazdasági integrációjában. Bár a modern kikötő ma már máshol és nagyobb léptékben üzemel, az Antiguo Puerto megőrizte nosztalgikus báját. A látogatók itt megérinthetik a múltat, elképzelve a gőzhajók füstjét és a kikötői munkások sürgölődését a trópusi napsütésben.",
+      "factsAdvanced": [
+        "Luba városának történelmi kakaó- és kávéexport kikötője.",
+        "A 20. század eleji szigeti gazdaság egyik legfontosabb csomópontja.",
+        "Régi raktárépületek és gyarmati házak maradványai övezik.",
+        "A sziget déli régiójának legfontosabb történelmi tengeri kapuja.",
+        "Ipartörténeti emlékhely, amely tanúskodik a kakaó fénykoráról.",
+        "A partvonal mentén tett séták során jól megfigyelhetők a régi mólók.",
+        "Fontos szerepet játszott Bioko Sur tartomány fejlődésében."
+      ]
+    },
+    {
+      "id": "mausoleo-mongomo-history-v2",
+      "descriptionAdvanced": "A mongomói Mauzóleum Egyenlítői-Guinea egyik legimpozánsabb és legfontosabb nemzeti kegyeleti helyszíne a szárazföld belsejében. Ez a monumentális építmény a nemzet nagyjainak, politikai vezetőinek és történelmi személyiségeinek állít méltó emléket Wele-Nzas tartomány szívében. Az épület építészete a modern állami reprezentáció és a tradicionális tisztelet ötvözete, nemes anyagokból készült, precíz kivitelezéssel. A mauzóleum környezete gondosan parkosított, csendes és méltóságteljes, lehetőséget adva a nemzeti emlékezet ápolására és az állami ceremóniák megrendezésére. Mint a szárazföldi rész egyik legjelentősebb modern emlékműve, a mauzóleum hangsúlyozza Mongomo szerepét, mint az ország egyik fontos politikai és szellemi központját. A látogatók számára a helyszín az ország politikai stabilitásának és történelmi folytonosságának szimbóluma.",
+      "factsAdvanced": [
+        "A nemzeti kegyelet és emlékezet monumentális központja Mongomóban.",
+        "Az ország kiemelkedő vezetőinek és hőseinek végső nyughelye.",
+        "Reprezentatív és modern építészeti stílus jellemzi a komplexumot.",
+        "Fontos állami ünnepségek és megemlékezések helyszíne.",
+        "Wele-Nzas tartomány egyik leglátványosabb modern építménye.",
+        "Gondozott kertek és tágas terek biztosítják a méltóságteljes környezetet.",
+        "A nemzeti identitás és az állami folytonosság jelképe a szárazföldön."
+      ]
+    },
+    {
+      "id": "ayuntamiento-malabo-history-v2",
+      "descriptionAdvanced": "Malabo régi Városháza (Ayuntamiento) az ország legrégebbi és legtekintélyesebb közigazgatási épülete a főváros történelmi központjában. A 20. század elején épült klasszikus spanyol gyarmati stílusú épület fehér homlokzatával és jellegzetes erkélyeivel a városi kormányzás és a rend jelképe. Az épület évtizedeken át a polgári élet központja volt, ahol a legfontosabb városi döntéseket hozták, és ahol a hivatalos ünnepségek zajlottak. A Városháza előtt elterülő tér a város társadalmi életének találkozóhelye, ahol a múltbeli tradíciók találkoznak a modern Malabo lüktetésével. Bár azóta új kormányzati épületek is születtek, az Ayuntamiento megőrizte spirituális súlyát és történelmi presztízsét. Az épület belső tereiben őrzött dokumentumok és relikviák felbecsülhetetlen forrást jelentenek a főváros fejlődésének megértéséhez.",
+      "factsAdvanced": [
+        "A főváros legősibb és legfontosabb közigazgatási épülete.",
+        "Klasszikus spanyol gyarmati építészet kiváló állapotban.",
+        "A városi önkormányzati hatalom és stabilitás szimbóluma.",
+        "Malabo történelmi főterének egyik meghatározó építménye.",
+        "Helyszíne volt a város legfontosabb történelmi döntéseinek.",
+        "Patinás belső terei és homlokzata vonzza a történelemkedvelőket.",
+        "A fővárosi örökségvédelmi program egyik központi eleme."
+      ]
+    },
+    {
+      "id": "schimpansen-habitat-montealen-life-v2",
+      "descriptionAdvanced": "A Monte Alén Nemzeti Park mélyén található csimpánz-élőhely Közép-Afrika egyik legfontosabb természetvédelmi területe, ahol a vadon élő csimpánzok stabil populációja él. Ez az érintetlen esőerdő tökéletes feltételeket biztosít a főemlősök számára, bőséges gyümölcsforrásokkal és biztonságos fészkelőhelyekkel a hatalmas fák lombkoronájában. A park biológusai és vadőrei folyamatosan figyelik a közösségeket, segítve megérteni társas viselkedésüket és ökológiai szerepüket. A látogatók számára a terület csak szigorú szabályok mellett és szakképzett vezetőkkel látogatható, minimálisra csökkentve az állatok zavarását. A csimpánz-élőhely megőrzése kulcsfontosságú az ország globális biodiverzitási elkötelezettsége szempontjából. Itt a természet valódi vadsága és az evolúciós rokonainkkal való találkozás élménye várja azokat, akik bemerészkednek Río Muni szívébe.",
+      "factsAdvanced": [
+        "A Monte Alén Nemzeti Park kiemelt főemlősvédelmi zónája.",
+        "Stabil és egészséges vadon élő csimpánz-populációnak ad otthont.",
+        "Érintetlen elsődleges esőerdő, bőséges természetes táplálékkal.",
+        "Szigorú tudományos monitoring és vadvédelmi felügyelet alatt áll.",
+        "Az ökoturizmus egyik legizgalmasabb, ellenőrzött célpontja az országban.",
+        "Létfontosságú élőhely a Közép-afrikai csimpánz alfaj számára.",
+        "A természetvédelmi oktatás és tudatosság növelésének központja."
+      ]
+    },
+    {
+      "id": "kakaoplantage-sampaka-life-v2",
+      "descriptionAdvanced": "A Sampaka kakaóültetvény Bioko szigetének egyik leghíresebb és legrégebbi mezőgazdasági birtoka, amely a sziget 'aranykorának' nevezett kakaótermesztés élő múzeuma. Az ültetvény Bioko szigetének északi részén található, és ma is aktívan termeli a világhírű guineai kakaót, amelyet aromájáért és kiváló minőségéért a nemzetközi piacon is keresnek. A látogatók megismerhetik a teljes folyamatot a kakaóbabok szüretelésétől a fermentáláson át a szárításig a hagyományos szárítóasztalokon. A Sampaka udvarház a gyarmati építészet gyöngyszeme, ahol egykor a birtok igazgatása zajlott. Az ültetvény nemcsak gazdasági egység, hanem kulturális örökség is, amely bemutatja azt a fáradságos munkát és szakértelmet, amely évszázadokon át meghatározta Egyenlítői-Guinea arculatát. A helyszínen megkóstolható a helyben készült kézműves csokoládé is.",
+      "factsAdvanced": [
+        "Bioko szigetének egyik legrégebbi és ma is működő kakaóbirtoka.",
+        "Híres a prémium minőségű, aromás kakaóbabjairól.",
+        "Bemutatja a hagyományos fermentálási és szárítási technológiákat.",
+        "Patinás spanyol gyarmati stílusú gazdasági épületekkel rendelkezik.",
+        "Lehetőséget nyújt a helyben készített kézműves csokoládék kóstolására.",
+        "A sziget mezőgazdasági történelmének legfontosabb látogatható helyszíne.",
+        "Központi szerepe volt az ország világhírű kakaóexportjának megalapozásában."
+      ]
+    },
+    {
+      "id": "kaffeegaerten-moca-life-v2",
+      "descriptionAdvanced": "A Moka-fennsík kávéskertjei Egyenlítői-Guinea magaslati mezőgazdaságának ékkövei, ahol a hűvösebb klíma és a vulkáni talaj ideális feltételeket teremt a kiváló minőségű kávé termesztéséhez. Ezek az ültetvények festőien terülnek el a zöldellő völgyekben és a domboldalakon, gyakran ködfelhőkbe burkolózva. A Moka környéki kávé híres karakteres ízéről és erejéről, ami a hagyományos, kézi megmunkálásnak és a vegyszermentes termesztésnek köszönhető. A kertekben folyó munka a helyi közösségek fő megélhetési forrása, ahol a tudás generációról generációra öröklődik. A kávészüret idején az egész környék megelevenedik, és a levegő megtelik a friss kávébogyók illatával. A látogatók számára a Moka-fennsík kávéskertjei a nyugalom és a természetes jólét szigetét jelentik, távol a tengerparti városok hőségétől.",
+      "factsAdvanced": [
+        "Hűvös magaslati klímán fekvő tradicionális kávéültetvények.",
+        "A vulkáni talaj egyedi és gazdag aromát ad az itt termő kávénak.",
+        "Kistermelői összefogással és kézi szüreteléssel működő gazdaságok.",
+        "Moka régiójának legfőbb mezőgazdasági és gazdasági bázisa.",
+        "Természetközeli, fenntartható termesztési módokat alkalmaznak.",
+        "A kávévirágzás idején az ültetvények hófehér virágba borulnak.",
+        "Kiváló célpont az agroturizmus és a gasztronómia kedvelői számára."
+      ]
+    },
+    {
+      "id": "palmoel-farmen-mbini-life-v2",
+      "descriptionAdvanced": "Mbini környékének pálmaolaj-farmjai Río Muni partvidékének egyik legfontosabb mezőgazdasági tájképét alkotják. Az olajpálmák (Elaeis guineensis) végtelen sorai a Benito-folyó torkolatának közelében fekszenek, ahol a bőséges csapadék és a párás levegő optimális a növekedésükhöz. Ezek a farmok nemcsak az ország étolaj-szükségletét biztosítják, hanem fontos exportalapot is jelentenek a regionális piacok számára. A pálmaolaj-készítés hagyományos módszereit ma már modern feldolgozóüzemek egészítik ki Mbini városában, ahol az értékes olajat kivonják a vöröses bogyókból. A farmokon végzett munka alapvető jelentőségű a helyi családok számára, a pálma pedig a 'szegények fája' nevet is viseli, mivel minden része hasznosítható. A táj rendezett és zöld arculata a modern agráripari fejlődésről tanúskodik.",
+      "factsAdvanced": [
+        "Río Muni legnagyobb összefüggő olajpálma-termesztő vidéke.",
+        "Létfontosságú forrása a hazai étolaj- és szappangyártásnak.",
+        "A Benito-torkolat környékének meghatározó mezőgazdasági ágazata.",
+        "Modern feldolgozó kapacitásokkal rendelkező agráripari zóna.",
+        "Támogatja a vidéki foglalkoztatást és a technológiai fejlődést.",
+        "Az olajpálma minden része (levél, törzs, gyümölcs) hasznosításra kerül.",
+        "Stratégiai szerepet kap az ország élelmezési önrendelkezésében."
+      ]
+    },
+    {
+      "id": "maniokanbau-evinayong-life-v2",
+      "descriptionAdvanced": "Az evinayongi manioktermesztés Egyenlítői-Guinea belső területeinek élelmezésbiztonsági alapköve. A maniok (vagy cassave) az ország legfontosabb néptápláléka, és Evinayong környékének dombos, termékeny tájai kiválóan alkalmasak a termesztésére. A helyi gazdák, különösen a nők, nagy szakértelemmel gondozzák a parcellákat, amelyek mozaikszerűen pettyezik az esőerdők szélét. A maniokból készül a híres 'chikwangue' (erjesztett maniokrúd), amely minden étkezés elengedhetetlen kísérője. Evinayong piaca a régió legnagyobb maniokelosztó központja, ahonnan a termékek eljutnak Batába és Malabóba is. A termesztés folyamata mélyen beágyazódik a helyi kultúrába és a mindennapi rituálékba, szimbolizálva a föld erejét és a közösségi összefogást. A látogatók számára a végtelen maniokföldek a vidéki élet egyszerűségét és állandóságát közvetítik.",
+      "factsAdvanced": [
+        "A kontinentális belső rész legfontosabb alapélelmiszer-termelő vidéke.",
+        "A maniok (cassave) a helyi lakosság napi étrendjének fő forrása.",
+        "Hagyományos, családi alapú mezőgazdaság jellemzi a régiót.",
+        "Evinayong a maniokfeldolgozás és kereskedelem regionális központja.",
+        "Itt készülnek a legjobb minőségű hagyományos chikwangue rudak.",
+        "A termesztés és feldolgozás során megőrizték az ősi technikákat.",
+        "A vidék gazdasági stabilitásának és önellátásának alapja."
+      ]
+    },
+    {
+      "id": "bananenhaine-baney-life-v2",
+      "descriptionAdvanced": "Baney környékének banánligetei Bioko szigetének egyik leglátványosabb és legtermékenyebb agrárterületei. Az óriási, zöld levelekkel borított ligetek a vulkán alsóbb lejtőin terülnek el, ahol a tápanyagban gazdag talaj és a folyamatos esők gyors növekedést biztosítanak a különböző banánfajtáknak és főzőbanánoknak (plantain). A baneyi főzőbanán híres méretéről és édességéről, a fővárosi piacok legkeresettebb áruja. A ligetek között kanyargó ösvényeken a gazdák naponta szüretelik az érett fürtöket, amelyeket aztán színes teherautókkal szállítanak Malabóba. A banántermesztés itt nemcsak munka, hanem életforma is, amely meghatározza a település ritmusát és gazdaságát. A látogatók számára a végtelen zöld banánligetek a trópusi bőség és a természetes életerő megtestesítői, hűvös árnyékot nyújtva a forró délutánokon.",
+      "factsAdvanced": [
+        "Bioko szigetének legjelentősebb banán- és plantain-termelő körzete.",
+        "A vulkáni talaj rendkívüli termékenységet biztosít az ültetvényeknek.",
+        "Elsődleges forrása a malabói piacok gyümölcsellátásának.",
+        "Változatos banánfajták, köztük a fontos alapélelmiszernek számító főzőbanán.",
+        "Hagyományos ligeti gazdálkodás, amely megőrzi a táj természetes jellegét.",
+        "Baney község gazdasági identitásának és jólétének alapköve.",
+        "A ligetek fontos mikroélőhelyet biztosítanak a helyi madárvilágnak."
+      ]
+    },
+    {
+      "id": "nationalpark-malabo-kids-life-v2",
+      "descriptionAdvanced": "A Malabói Nemzeti Park (Parque Nacional de Malabo) az ország modernizációjának egyik legkedveltebb szabadidős eredménye, amelyet kifejezetten a családok és a gyermekek számára alakítottak ki. Ez a hatalmas zöld terület a főváros szélén modern játszótereket, interaktív szökőkutakat, sportpályákat és piknikező helyeket kínál. A park szívében található egy tó is, ahol csónakázni lehet, valamint egy kis állatkerti részleg, ahol a gyerekek megismerhetik a helyi élővilágot. A biztonságos és tiszta környezetben a városi gyerekek szabadon futkározhatnak, távol a forgalom zajától. A park rendszeresen ad otthont gyermeknapi rendezvényeknek, koncerteknek és iskolai kirándulásoknak, központi szerepet játszva az új generációk környezeti nevelésében és társadalmi integrációjában. Malabo lakói számára ez a park a modern városi jólét és a boldog gyermekkor szimbóluma.",
+      "factsAdvanced": [
+        "A főváros legmodernebb és legnagyobb családi rekreációs központja.",
+        "Biztonságos játszóterekkel és interaktív elemekkel felszerelt park.",
+        "Népszerű helyszín csónakázáshoz, sportoláshoz és hétvégi piknikekhez.",
+        "Fontos szerepet tölt be a városi gyermekek környezeti nevelésében.",
+        "Számos kulturális és szórakoztató esemény befogadóhelye.",
+        "Gondozott kertek és egzotikus növényfajok díszítik a területet.",
+        "A modern Malabo életminőségének és fejlődésének egyik legfőbb jelzője."
+      ]
+    },
+    {
+      "id": "promenaden-spielplatz-bata-life-v2",
+      "descriptionAdvanced": "Bata tengerparti sétányának játszótere (Paseo Marítimo) a szárazföldi rész legnagyobb városának kedvenc családi találkozópontja. Közvetlenül az Atlanti-óceán partján fekszik, így a gyerekek a friss tengeri szellőben élvezhetik a modern mászókákat, csúszdákat és hintákat. A játszótér kialakítása színes és ergonomikus, megfelelve a legújabb biztonsági előírásoknak. Naplemente idején a sétány élettel telik meg: a szülők a közeli padokon pihenve beszélgetnek, miközben a gyerekek az óceán morajlása mellett játszanak. Ez a helyszín Bata társadalmi életének egyik legfontosabb pontja, ahol különböző hátterű családok találkoznak és élvezik a városi környezet fejlődését. A közeli fagyizók és kávézók tovább növelik a hely vonzerejét, igazi közösségi oázist teremtve a part mentén.",
+      "factsAdvanced": [
+        "Bata híres tengerparti sétányának egyik legnépszerűbb pontja.",
+        "Modern és biztonságos kültéri játékok széles választéka gyerekeknek.",
+        "Páratlan panoráma nyílik az óceánra és a városi horizontra.",
+        "Központi találkozóhely a batai családok és a látogatók számára.",
+        "Az esti órákban is biztonságosan használható, kivilágított terület.",
+        "Közvetlen közelében számos vendéglátóhely és pihenőzóna található.",
+        "A városi szabadidős infrastruktúra fejlődésének kiváló példája."
+      ]
+    },
+    {
+      "id": "freizeitpark-sipopo-life-v2",
+      "descriptionAdvanced": "A sipopói szabadidőpark Malabo közelében egy exkluzív és modern üdülőövezet része, amelyet a legmagasabb színvonalú kikapcsolódásra terveztek. A park buja trópusi kertek között fekszik, és elegáns sétányokat, medencéket, teniszpályákat és egy privát strandot kínál a látogatóknak. Sipopo híres a nyugalmáról és a professzionális szolgáltatásairól, ami vonzóvá teszi a diplomáciai testületek és a külföldi üzletemberek körében is. A park területén található éttermek nemzetközi és helyi gasztronómiai élményeket nyújtanak egyedülálló környezetben. Ez a komplexum Egyenlítői-Guinea luxusturizmus iránti elkötelezettségét tükrözi, ahol a természet szépsége találkozik a modern kényelemmel. Sipopo nemcsak egy pihenőhely, hanem az ország nemzetközi presztízsének és gazdasági sikerének egyik kirakata a Guineai-öböl partján.",
+      "factsAdvanced": [
+        "Malabo melletti prémium szabadidős és konferencia komplexum.",
+        "Trópusi parkok, luxusszállodák és magánstrandok gyűjtőhelye.",
+        "Kiemelt biztonsági zóna, amely ideális a nyugodt pihenéshez.",
+        "Számos nemzetközi diplomáciai találkozó és csúcs helyszíne.",
+        "Világszínvonalú sportlétesítményekkel és wellness részleggel rendelkezik.",
+        "Gasztronómiai szempontból az ország egyik vezető központja.",
+        "A modern és elegáns egyenlítői-guineai életstílus szimbóluma."
+      ]
+    },
+    {
+      "id": "vogelreservat-riocampo-life-v2",
+      "descriptionAdvanced": "A Río Campo madárrezervátum az ország északi határán, a Kamerunnal szomszédos torkolatvidéken fekvő ornitológiai paradicsom. Ez a vizes élőhelyekből, mangrove-erdőkből és homokpadokból álló terület kritikus megállóhely a vándorló madarak számára az Atlanti-óceán partján. A rezervátum több száz madárfajnak ad otthont, köztük ritka gázlómadaraknak, pelikánoknak és különböző tengeri ragadozóknak. A terület nyugalma és a táplálékbőség ideálissá teszi a fészkeléshez és a fiókák felneveléséhez. A Río Campo nemcsak tudományos szempontból fontos kutatóhely, hanem az ökoturizmus egyik gyöngyszeme is, ahol a látogatók csendes megfigyelőhelyekről csodálhatják meg a madárvilág sokszínűségét. A rezervátum megőrzése kulcsfontosságú a regionális ökológiai egyensúly fenntartásához és a biológiai sokféleség védelméhez Közép-Afrikában.",
+      "factsAdvanced": [
+        "Kiemelt fontosságú madárvédelmi terület az északi határvidéken.",
+        "Számos ritka és veszélyeztetett vándormadár faj pihenőhelye.",
+        "Változatos élőhelyek: folyótorkolat, mangrove és homokpadok.",
+        "Fontos bázisa a nemzetközi ornitológiai kutatásoknak.",
+        "Egyedülálló lehetőséget nyújt a természetfotózásra és madármegfigyelésre.",
+        "A Guineai-öböl egyik leggazdagabb partmenti ökoszisztémája.",
+        "Szigorú természetvédelmi szabályok óvják a terület zavartalanságát."
+      ]
+    },
+    {
+      "id": "seekuh-habitat-cogo-life-v2",
+      "descriptionAdvanced": "A Cogo környéki tengeritehén-élőhely (Manátusz-habitat) a Muni-torkolat egyik legértékesebb ökológiai kincse. Ezek a ritka és békés tengeri emlősök a folyó torkolatvidékének sekély, tápanyagban gazdag vizeiben és a mangrove-csatornákban találnak menedéket. A terület bőséges vízi növényzete biztosítja számukra a szükséges élelmet, a védett öblök pedig nyugalmat nyújtanak a pihenéshez. A manátuszok jelenléte a víz tisztaságának és az ökoszisztéma egészségének fontos jelzője. A helyi közösségek és a természetvédelmi szervezetek közösen dolgoznak az állatok védelmén, tudatosítva a halászokban a faj megőrzésének fontosságát. A manátusz-habitat megfigyelése csak nagy türelemmel és csendben lehetséges, de a látvány, ahogy ezek az óriások megmutatkoznak a víz felszínén, felejthetetlen élményt nyújt a természet szerelmeseinek.",
+      "factsAdvanced": [
+        "A ritka afrikai manátuszok (tengeri tehenek) egyik utolsó bástyája.",
+        "Védett mangrove-csatornák és sekély torkolati vizek jellemzik.",
+        "Kiemelt jelentőségű tengerbiológiai kutatási terület.",
+        "A manátuszok fontos szerepet játszanak a vízi ökoszisztéma egyensúlyában.",
+        "A helyi halászati szabályozás szigorúan védi az állatok nyugalmát.",
+        "Az ország egyik legkülönlegesebb és legérzékenyebb vadon élőhelye.",
+        "Fontos célpontja a fenntartható és felelős ökoturizmusnak."
+      ]
+    },
+    {
+      "id": "gemuesezentrum-mongomo-life-v2",
+      "descriptionAdvanced": "A mongomói zöldségközpont Wele-Nzas tartomány kertészeti motorja, amely a szárazföldi régió friss zöldségellátásáért felelős. A város környéki termékeny földeken és a modern öntözőrendszerekkel felszerelt mintagazdaságokban intenzív termesztés folyik, ahol paprikát, paradicsomot, káposztát és különféle trópusi zöldségeket termesztenek. A központ célja nemcsak a termelés, hanem a gazdák képzése is a modern agrotechnikai eljárásokra, segítve az élelmezési önellátás elérését. Mongomo piacán ezek a termékek frissen és elérhető áron jelennek meg, javítva a lakosság étrendjének sokszínűségét. A központ fejlődése az állami agrár-diverzifikációs program sikeres eleme, amely bebizonyította, hogy a szárazföld belsejében is virágzó kertészet alakítható ki. A zöldségközpont munkája közvetlenül hozzájárul a régió gazdasági stabilitásához és egészségéhez.",
+      "factsAdvanced": [
+        "A kontinentális régió legjelentősebb kertészeti és oktatási központja.",
+        "Sokszínű zöldségkínálat: paradicsom, paprika és helyi különlegességek.",
+        "Modern öntözési és tápanyag-utánpótlási technikákat alkalmaznak.",
+        "Alapvető fontosságú a belső területek élelmiszer-biztonsága szempontjából.",
+        "Támogatja a helyi kistermelők piaci integrációját és képzését.",
+        "A zöldségtermesztés révén csökken a külföldi importfüggőség.",
+        "Példaértékű agrárprojekt, amely a vidéki jólétet szolgálja."
+      ]
+    },
+    {
+      "id": "zuckerrohr-anisoc-life-v2",
+      "descriptionAdvanced": "Az anisoci cukornád-ültetvények Río Muni belső területeinek hagyományos és egyre fontosabb agrártermőhelyei. A cukornád termesztése ebben a régióban ideális a magas hőmérséklet és a bőséges csapadék miatt, ami biztosítja a szárak magas cukortartalmát. Az itt szüretelt nádból nemcsak frissítő gyümölcslevet készítenek a helyi piacokon, hanem alapanyagot szolgáltatnak a kézműves szeszipar (malamba) számára is, amely az ország egyik kedvelt tradicionális itala. Anisoc környékén a cukornád-termesztés sok családnak biztosít állandó jövedelmet, és a tájkép jellegzetes részévé váltak a magasba törő, náddal borított táblák. A kormány tervezi a cukoripar modernizálását, hogy a helyi alapanyagokból ipari mennyiségű cukrot állítsanak elő, tovább erősítve a vidéki gazdaságot. A cukornád-mezők a trópusi táj vitalitását és az agráriumban rejlő lehetőségeket szimbolizálják.",
+      "factsAdvanced": [
+        "Río Muni központi részének legjelentősebb cukornád-termő vidéke.",
+        "Alapanyaga a népszerű hagyományos malamba ital készítésének.",
+        "Kedvező trópusi klíma biztosítja a folyamatos és bőséges termést.",
+        "Anisoc környékének egyik meghatározó mezőgazdasági identitása.",
+        "A helyi kistermelői gazdaságok egyik legjövedelmezőbb növénye.",
+        "Potenciális bázisa a jövőbeli nemzeti cukoriparnak.",
+        "A betakarítás idején a vidék különleges ünnepi hangulatot áraszt."
+      ]
+    }
+  ]
+}

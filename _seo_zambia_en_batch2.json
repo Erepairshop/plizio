@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chikabola-battlefield-history-v2",
+      "descriptionAdvanced": "The Chikabola battlefield site marks an area of significant historical conflict from the late 19th century. While documented as a major clash between Ngoni warriors and the Bemba people, these local sites are integral to understanding the regional power struggles and colonial confrontations that shaped Zambia's borders. The battlefield stands as a testament to the resilience of local groups during periods of expansion and external influence. Today, it serves as a site of historical interest for those wishing to explore the narratives of Zambia's past. History K8 — regional conflicts.",
+      "factsAdvanced": [
+        "Associated with historical pre-colonial conflict",
+        "Important site for understanding regional history",
+        "Reflects local resistance to expansionist pressures",
+        "Preserved by local communities as a historical landmark",
+        "Significant for regional anthropological research",
+        "Marks an important transition point in local control"
+      ]
+    }
+  ]
+}

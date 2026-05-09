@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fianarantsoa-old-town-history-v2",
+      "descriptionAdvanced": "Die Altstadt von Fianarantsoa, bekannt als Haute-Ville, ist eines der am besten erhaltenen historischen Stadtviertel Madagaskars. Auf einem steilen Hügel erbaut, zeichnet sie sich durch schmale, gepflasterte Gassen, zahlreiche Kirchen und traditionelle Backsteinhäuser mit Holzbalkonen aus. Gegründet im 19. Jahrhundert, war sie das administrative und religiöse Zentrum der Region Betsileo. Die Architektur spiegelt den Wunsch wider, ein 'kleines Antananarivo' im Süden zu schaffen. Aufgrund ihrer Einzigartigkeit wurde die Haute-Ville in die Liste des World Monuments Watch aufgenommen. Ein Spaziergang durch die Altstadt bietet tiefe Einblicke in die madagassische Stadtplanung und Missionsgeschichte. Geschichte K7 — Stadtgeschichte und Denkmalschutz.",
+      "factsAdvanced": [
+        "Historischer Kern der Stadt Fianarantsoa (Haute-Ville)",
+        "Gelistet auf dem World Monuments Watch als gefährdetes Erbe",
+        "Geprägt durch über 50 Kirchen und religiöse Einrichtungen",
+        "Architektur vereint Merina-Stil mit europäischem Einfluss",
+        "Wurde im Jahr 1830 von Königin Ranavalona I. gegründet",
+        "Bekannt für seine steilen Treppenwege und Panoramablicke",
+        "Zentrum des katholischen Glaubens im südlichen Hochland",
+        "Wichtigstes kulturelles Wahrzeichen der Betsileo-Region"
+      ]
+    },
+    {
+      "id": "fianarantsoa-weingut-life-v2",
+      "descriptionAdvanced": "Die Weingüter rund um Fianarantsoa bilden das Herz der madagassischen Weinproduktion. Die Region ist die einzige auf der Insel, in der Weinbau in nennenswertem Umfang betrieben wird, begünstigt durch das kühle Klima des Hochlandes und die fruchtbaren Böden. Die Weinberge erstrecken sich oft auf terrassierten Hängen und werden von lokalen Kooperativen bewirtschaftet. Bekannte Marken wie 'Lazan'i Betsileo' sind fester Bestandteil der madagassischen Tischkultur. Die Weinproduktion ist ein Beispiel für den Einfluss europäischer Agrartraditionen und bietet Besuchern die Möglichkeit, die Verbindung von lokaler Landwirtschaft und handwerklicher Veredelung kennenzulernen. Wirtschaft K6 — Spezialkulturen und Lebensmittelverarbeitung.",
+      "factsAdvanced": [
+        "Zentrum der madagassischen Weinindustrie (Betsileo-Land)",
+        "Bekannte Weinsorten sind der Gris, Rot- und Weißwein",
+        "Wichtigste Marke ist die Kooperative Lazan'i Betsileo",
+        "Weinbau erfolgt auf Höhenlagen zwischen 1.100 und 1.300 Metern",
+        "Tradition geht auf die Anpflanzungen durch Missionare zurück",
+        "Reben profitieren von den kühlen Nächten des Hochlandes",
+        "Wesentlicher Wirtschaftsfaktor für die ländliche Bevölkerung",
+        "Bietet Verkostungen und Einblicke in die lokale Kellertechnik"
+      ]
+    },
+    {
+      "id": "fort-dauphin-tolanaro-history-v2",
+      "descriptionAdvanced": "Fort-Dauphin, heute Tolanaro genannt, war die erste französische Siedlung auf Madagaskar und hat eine bewegte Geschichte. Im Jahr 1643 von der Französischen Ostindien-Kompanie gegründet, diente der Ort als strategischer Handelsaußenposten auf dem Weg nach Indien. Die Geschichte der Stadt ist geprägt von ständigen Konflikten mit der lokalen Bevölkerung der Antanosy und gescheiterten Kolonialisierungsversuchen. Die Ruinen von Fort Flacourt und die alten Kanonen am Hafen zeugen von dieser Ära. Heute verbindet Tolanaro seinen historischen Kern mit modernem Bergbau und boomendem Tourismus, bleibt aber ein Ort, an dem die Spuren der ersten Begegnungen zwischen Europa und Madagaskar allgegenwärtig sind. Geschichte K8 — Frühe Kolonialbestrebungen und Widerstand.",
+      "factsAdvanced": [
+        "Erste permanente europäische Siedlung Madagaskars (1643)",
+        "Strategische Lage auf einer Halbinsel im Südosten",
+        "Benannt zu Ehren des französischen Kronprinzen (Dauphin)",
+        "Einstiger Hauptstützpunkt für den Handel mit Sklaven und Ebenholz",
+        "Wirkungsstätte des Forschers und Gouverneurs Étienne de Flacourt",
+        "Historischer Ausgangspunkt für die Erkundung des Südens",
+        "Mischung aus kolonialen Ruinen und moderner Hafenlogistik",
+        "Zentrum der Interaktion zwischen Antanosy-Kultur und Frankreich"
+      ]
+    },
+    {
+      "id": "fort-flacourt-ruins-landmarks-v2",
+      "descriptionAdvanced": "Die Ruinen von Fort Flacourt in Tolanaro sind die ältesten europäischen Steinbauten auf Madagaskar. Diese Festungsanlage wurde Mitte des 17. Jahrhunderts errichtet, um die Siedlung Fort-Dauphin gegen Angriffe zu sichern und den Handel zu kontrollieren. Die massiven Mauern und Bastionen wurden aus lokalem Stein und Korallenmörtel gebaut und beherbergten einst Lagerhäuser, Unterkünfte und eine Kapelle. Benannt nach Étienne de Flacourt, dem bedeutendsten Gouverneur der Frühzeit, bieten die Ruinen heute einen tiefen Einblick in die militärische Logistik und das schwierige Leben der ersten Siedler. Die Stätte ist ein wichtiges Denkmal der madagassischen Kolonialgeschichte und ein Anziehungspunkt für Historiker. Geschichte K7 — Befestigungsbau und Handelsstützpunkte.",
+      "factsAdvanced": [
+        "Älteste Steinfestung Madagaskars aus dem 17. Jahrhundert",
+        "Zentrum der ersten französischen Verwaltung auf der Insel",
+        "Massive Verteidigungsmauern mit Blick auf den Ozean",
+        "Beherbergt Überreste der ursprünglichen Kasernen und Magazine",
+        "Wichtiges Zeugnis der madagassisch-französischen Konflikte",
+        "Archäologisches Denkmal von nationaler Bedeutung",
+        "Bietet eine spektakuläre Aussicht über die Bucht von Tolanaro",
+        "Symbol für die gescheiterten frühen Handelsmonopole"
+      ]
+    },
+    {
+      "id": "foulpointe-fort-manda-history-v2",
+      "descriptionAdvanced": "Das Fort Manda in Foulpointe (Mahavelona) ist eine beeindruckende Festung an der Ostküste, die im frühen 19. Jahrhundert unter König Radama I. errichtet wurde. Das Relief der Anlage ist kreisförmig und besteht aus massiven Mauern, die aus einer Mischung aus Korallenkalk, Sand und Eiweiß gebaut wurden. Das Fort diente dazu, die strategisch wichtige Bucht von Foulpointe gegen europäische Invasoren und Piraten zu schützen. Innerhalb der Mauern waren Kanonen stationiert, von denen einige noch heute zu sehen sind. Fort Manda symbolisiert die militärische Stärke des geeinten Merina-Reiches und seinen Anspruch auf die Kontrolle über die Küstenregionen. Geschichte K8 — Küstenschutz und die Ära Radama I.",
+      "factsAdvanced": [
+        "Bedeutendste Merina-Festung an der madagassischen Ostküste",
+        "Erbaut im Jahr 1822 unter der Herrschaft von König Radama I.",
+        "Mauern bestehen aus einer einzigartigen Mischung mit Korallenmörtel",
+        "Strategischer Standort zur Überwachung des Sklaven- und Gewürzhandels",
+        "Beherbergt historische Kanonen aus britischer und französischer Fertigung",
+        "Ehemals Standort einer großen Garnison mit über 2.000 Soldaten",
+        "Einzigartige Architektur mit Kasematten und geheimen Gängen",
+        "Symbol für den madagassischen Widerstand gegen koloniale Mächte"
+      ]
+    },
+    {
+      "id": "galana-refinery-economic-v2",
+      "descriptionAdvanced": "Die Galana-Raffinerie in Toamasina ist die einzige Erdölraffinerie Madagaskars und damit ein strategischer Pfeiler der nationalen Energieversorgung. In dieser Anlage wird importiertes Rohöl verarbeitet, um Treibstoffe wie Benzin, Diesel und Kerosin für den heimischen Markt herzustellen. Die Raffinerie spielt eine entscheidende Rolle für die Mobilität und Industrie des Landes, da sie die Abhängigkeit von Fertigproduktimporten verringert. Gelegen in unmittelbarer Nähe zum größten Hafen der Insel, verfügt sie über eine komplexe Infrastruktur aus Tanks, Pipelines und Verarbeitungsstationen. Galana ist ein Symbol für die industrielle Infrastruktur und die energetische Sicherheit Madagaskars im 21. Jahrhundert. Wirtschaft K8 — Energiewirtschaft und industrielle Verarbeitung.",
+      "factsAdvanced": [
+        "Einzige Erdölverarbeitungsanlage auf madagassischem Boden",
+        "Strategisch wichtigster Energiekomplex der Region Atsinanana",
+        "Verarbeitet Rohöl für den nationalen Bedarf an Treibstoffen",
+        "Wesentlicher Arbeitgeber in der Hafenstadt Toamasina",
+        "Verfügt über großflächige Tanklager zur strategischen Reserve",
+        "Liegt direkt am wichtigsten Logistikzentrum der Ostküste",
+        "Partner für die nationale Stromgesellschaft JIRAMA",
+        "Symbol für die industrielle Autonomie Bestrebungen des Landes"
+      ]
+    },
+    {
+      "id": "gare-antsirabe-landmarks-v2",
+      "descriptionAdvanced": "Der Bahnhof von Antsirabe ist ein prachtvolles architektonisches Erbe aus der französischen Kolonialzeit und markiert den Endpunkt der Eisenbahnlinie von Antananarivo. Das Gebäude im klassizistischen Stil zeugt von der Zeit, als die Bahn das primäre Transportmittel für die Erzeugnisse des Hochlandes und die Anreise der Kurgäste war. Mit seiner eleganten Fassade und den weitläufigen Bahngleisen ist der Bahnhof ein Wahrzeichen der Stadtentwicklung im frühen 20. Jahrhundert. Obwohl der Personenverkehr heute weitgehend ruht, bleibt der Bahnhof ein wichtiges historisches Denkmal und ein Zentrum für den Gütertransport, insbesondere für die Produkte der lokalen Industrie. Geschichte K7 — Verkehrsarchitektur und Eisenbahngeschichte.",
+      "factsAdvanced": [
+        "Historischer Endbahnhof der TA-Linie (Tananarive-Antsirabe)",
+        "Erbaut im Jahr 1923 im französischen Kolonialstil",
+        "Wichtiges Symbol für die infrastrukturelle Erschließung des Hochlands",
+        "Zentrum für den Abtransport landwirtschaftlicher Produkte",
+        "Architektonisches Highlight im Zentrum der Stadt Antsirabe",
+        "Diente historisch dem Transport von Kurgästen zu den Thermen",
+        "Besitzt gut erhaltene mechanische Signalanlagen der Epoche",
+        "Kulturelles Denkmal der madagassischen Mobilitätsgeschichte"
+      ]
+    },
+    {
+      "id": "gare-soarano-landmarks-v2",
+      "descriptionAdvanced": "Die Gare Soarano im Herzen von Antananarivo ist der bedeutendste Bahnhof Madagaskars und ein architektonisches Meisterwerk des frühen 20. Jahrhunderts. Entworfen vom französischen Architekten Fouchard, wurde das Gebäude auf einem trockengelegten Sumpfgebiet (Soarano bedeutet 'gutes Wasser') errichtet. Der Bahnhof war das glanzvolle Tor zur Hauptstadt und der Ausgangspunkt der Eisenbahnstrecke zur Ostküste. Mit seinen eleganten Steinbögen, der Uhr und dem weitläufigen Vorplatz ist er ein Symbol für den kolonialen Fortschrittsglauben. Heute beherbergt das Gebäude ein Einkaufszentrum und Restaurants, bewahrt aber seine historische Grandeur als einer der wichtigsten Orientierungspunkte der Unterstadt. Geschichte K8 — Urbane Modernisierung und Verkehrslogistik.",
+      "factsAdvanced": [
+        "Hauptbahnhof von Antananarivo, erbaut zwischen 1908 und 1910",
+        "Architektonisches Wahrzeichen der Hauptstadt im Zentrum der Stadt",
+        "Ausgangspunkt der strategischen TCE-Eisenbahnlinie (Ostküste)",
+        "Name 'Soarano' bezieht sich auf die ehemaligen Thermalquellen",
+        "Elegante Fassade im Stil der französischen Neorenaissance",
+        "Heute multifunktional als Gewerbe- und Kulturraum genutzt",
+        "Wesentlicher Bestandteil des historischen Stadtbildes von Tana",
+        "Symbol für die Verbindung zwischen Hochland und Weltmarkt"
+      ]
+    },
+    {
+      "id": "holcim-cement-ibity-economic-v2",
+      "descriptionAdvanced": "Das Zementwerk von Holcim in Ibity bei Antsirabe ist der größte Produzent von Baustoffen auf Madagaskar. Gelegen am Fuße des Ibity-Massivs, nutzt die Fabrik die reichhaltigen Kalksteinvorkommen der Region zur Herstellung von hochwertigem Zement. Dieses Werk ist von entscheidender Bedeutung für die nationale Bauindustrie und die Entwicklung der Infrastruktur im ganzen Land. Die Produktion in Ibity ist ein Beispiel für die Nutzung mineralischer Ressourcen des Hochlandes zur Förderung des städtischen Wachstums. Trotz der Herausforderungen durch hohe Energiekosten bleibt Ibity ein industrielles Zentrum, das tausende Arbeitsplätze schafft und die Grundlage für moderne Gebäude und Brücken auf der Insel liefert. Wirtschaft K8 — Schwerindustrie und Bauwirtschaft.",
+      "factsAdvanced": [
+        "Größte Zementfabrik Madagaskars in der Region Vakinankaratra",
+        "Nutzt die Kalksteinlagerstätten des markanten Ibity-Massivs",
+        "Wichtigster Lieferant für nationale Großbauprojekte",
+        "Bedeutender Arbeitgeber für die ländliche Bevölkerung bei Antsirabe",
+        "Standort einer großangelegten industriellen Steinbruchanlage",
+        "Trägt zur Reduzierung von Baustoffimporten auf die Insel bei",
+        "Verfügt über moderne Anlagen zur Zementmahlung und Verpackung",
+        "Wesentlicher Faktor für die regionale Industrieentwicklung"
+      ]
+    },
+    {
+      "id": "hotel-de-ville-mahajanga-landmarks-v2",
+      "descriptionAdvanced": "Das Rathaus (Hôtel de Ville) von Mahajanga ist ein markantes administratives Gebäude, das den multikulturellen Charakter der Hafenstadt widerspiegelt. In der Nähe der berühmten Uferpromenade gelegen, verbindet die Architektur funktionale Verwaltungsstrukturen mit dem sonnigen Flair des Nordwestens. Das Gebäude ist der Sitz der städtischen Regierung und ein zentraler Ort für das öffentliche Leben in Mahajanga. Mit seinem gepflegten Vorplatz und der zentralen Lage dient es als wichtiger Orientierungspunkt für Besucher und Bürger. Das Rathaus symbolisiert die administrative Stabilität und den Stolz der ehemaligen Hauptstadt des Boina-Königreichs in der modernen Republik. Geschichte K6 — Kommunale Verwaltung und Stadtbild.",
+      "factsAdvanced": [
+        "Administratives Zentrum der Stadt Mahajanga (Majunga)",
+        "Lage im historischen Kern in der Nähe der Küstenpromenade",
+        "Architektur spiegelt die Bedeutung der Stadt als Regionalhauptstadt wider",
+        "Zentraler Ort für offizielle Kabary-Ansprachen und Feste",
+        "Wichtiger Anlaufpunkt für die Bürger der Region Boeny",
+        "Umgeben von kolonialen Bauten und modernen Handelsgeschäften",
+        "Wahrzeichen für die städtische Autonomie und Verwaltung",
+        "Symbol für die Verbindung zwischen Tradition und moderner Führung"
+      ]
+    },
+    {
+      "id": "hotel-des-thermes-landmarks-v2",
+      "descriptionAdvanced": "Das Hôtel des Thermes in Antsirabe ist ein legendäres Zeugnis der madagassischen Tourismusgeschichte. Erbaut am Ende des 19. Jahrhunderts, war es das luxuriöseste Hotel der Insel und das Zentrum des gesellschaftlichen Lebens für die Kolonialelite, die zur Erholung in die Thermalstadt kam. Berühmt wurde das Hotel auch als Exilort für den marokkanischen König Mohammed V. im Jahr 1954. Mit seiner imposanten Fassade, den hohen Decken und dem weitläufigen Garten strahlt es noch heute den Charme der 'Belle Époque' aus. Es steht unmittelbar gegenüber den Thermalquellen und ist ein unverzichtbares Wahrzeichen der Stadt Antsirabe. Geschichte K8 — Tourismusgeschichte und politische Exilorte.",
+      "factsAdvanced": [
+        "Berühmtestes historisches Hotel Madagaskars, erbaut 1897",
+        "Architektonisches Prunkstück im Herzen von Antsirabe",
+        "Einstiger Exilort für den marokkanischen König Mohammed V.",
+        "Symbol für den mondänen Kurort-Charakter der Stadt im 20. Jhd.",
+        "Bewahrt die elegante Atmosphäre der französischen Kolonialzeit",
+        "Verfügt über einen geschützten historischen Gartenkomplex",
+        "Wichtigstes Ziel für Staatsgäste und bedeutende Persönlichkeiten",
+        "Unmittelbare Nähe zu den berühmten Heilquellen 'Ranovisy'"
+      ]
+    },
+    {
+      "id": "ila-fitsarana-history-v2",
+      "descriptionAdvanced": "Ilafitsarana ist ein historisch bedeutsamer Ort in der Region Imerina, der eng mit der traditionellen Justiz der madagassischen Monarchie verbunden ist. Der Name bedeutet übersetzt 'Ort des Gerichts' und weist auf die Funktion als Versammlungsstätte hin, an der in präkolonialer Zeit Rechtsstreitigkeiten geschlichtet und Urteile verkündet wurden. Solche Orte waren oft heilige Stätten, die auf Hügeln gelegen waren, um eine weite Sichtbarkeit und gute Akustik für die 'Kabary'-Reden zu gewährleisten. Ilafitsarana erinnert an die komplexen sozialen und juristischen Strukturen der Merina-Kultur vor dem Einfluss europäischer Rechtssysteme. Es ist ein Ort der Erinnerung an die indigene Staatskunst Madagaskars. Geschichte K7 — Traditionelle Justiz und Versammlungskultur.",
+      "factsAdvanced": [
+        "Historische Gerichtsstätte der madagassischen Könige",
+        "Ort für die Verkündung königlicher Dekrete (Kabary)",
+        "Befindet sich auf einer strategischen Anhöhe im zentralen Hochland",
+        "Symbol für die frühe madagassische Rechtsprechung und Ordnung",
+        "Traditioneller Treffpunkt für Ältestenräte und Dorfvorsteher",
+        "Teil des kulturellen Netzwerks der heiligen Merina-Hügel",
+        "Bewahrt Spuren ritueller Opferstätten und Gräber",
+        "Wichtiger Ort für das Studium der präkolonialen Sozialstruktur"
+      ]
+    },
+    {
+      "id": "ile-sainte-marie-pirate-cemetery-history-v2",
+      "descriptionAdvanced": "Der Piratenfriedhof auf der Insel Sainte Marie (Nosy Boraha) ist ein weltweit einzigartiger historischer Ort. Im 17. und 18. Jahrhundert war die Insel ein berüchtigter Zufluchtsort für Piraten aus aller Welt, die die Handelsrouten im Indischen Ozean unsicher machten. Der Friedhof liegt auf einem Hügel mit Blick auf die Baie des Forbans und beherbergt Grabsteine, die teilweise mit dem berühmten Totenkopf-Symbol verziert sind. Hier liegen legendäre Seefahrer begraben, die in der 'Piratenrepublik Libertalia' nach Freiheit suchten. Die Stätte ist ein mystisches Zeugnis der Ära der Freibeuter und zieht heute Reisende an, die die dunkle, aber faszinierende Seefahrtsgeschichte der Insel erkunden wollen. Geschichte K7 — Piraterie und maritime Abenteuer.",
+      "factsAdvanced": [
+        "Einziger offiziell dokumentierter Piratenfriedhof der Welt",
+        "Gelegen auf der geschichtsträchtigen Insel Sainte Marie",
+        "Grabsteine stammen aus dem 17. und 18. Jahrhundert",
+        "Blick auf die ehemalige Piratenbucht 'Baie des Forbans'",
+        "Letzte Ruhestätte international gesuchter Freibeuter",
+        "Symbole wie Totenköpfe und gekreuzte Knochen auf den Steinen",
+        "Ort zahlreicher Legenden über vergrabene Schätze",
+        "Symbol für Sainte Maries Rolle als 'Piratenhauptstadt' des Indischen Ozeans"
+      ]
+    },
+    {
+      "id": "independance-avenue-arc-landmarks-v2",
+      "descriptionAdvanced": "Der Bogen der Avenue de l'Indépendance ist das markante Entree zur berühmtesten Prachtstraße von Antananarivo. Im Zentrum der Unterstadt gelegen, symbolisiert dieser Bereich den Stolz Madagaskars über die im Jahr 1960 erlangte Unabhängigkeit von Frankreich. Die Avenue selbst ist gesäumt von Arkadengebäuden aus der Kolonialzeit, Banken und Hotels und bildet die wichtigste Sichtachse der Hauptstadt. Der Bogen und die angrenzenden Plätze sind Schauplatz für nationale Paraden, Märkte und kulturelle Großveranstaltungen. Als pulsierendes Herz der Metropole verbindet die Avenue das historische Erbe mit dem dynamischen Leben des modernen Madagaskars. Geschichte K8 — Unabhängigkeit und moderne Stadtplanung.",
+      "factsAdvanced": [
+        "Zentraler Punkt der Avenue de l'Indépendance in Antananarivo",
+        "Wichtigste architektonische Sichtachse zwischen Bahnhof und Oberstadt",
+        "Ort der jährlichen Feierlichkeiten zum Unabhängigkeitstag (26. Juni)",
+        "Geprägt durch klassizistische Arkadenbauten der 1930er Jahre",
+        "Zentrum des politischen und wirtschaftlichen Lebens der Hauptstadt",
+        "Ehemals Standort des riesigen 'Zoma'-Marktes",
+        "Symbol für die Souveränität der Republik Madagaskar",
+        "Häufigster Treffpunkt für Demonstrationen und öffentliche Versammlungen"
+      ]
+    },
+    {
+      "id": "isalo-nature-v2",
+      "descriptionAdvanced": "Die Natur des Isalo-Nationalparks im Südwesten Madagaskars ist eine spektakuläre Kombination aus Geologie und Biodiversität. Das Relief besteht aus massivem Jurassandstein, der durch Erosion in bizarre Schluchten, natürliche Felstore und schroffe Plateaus geformt wurde. Isalo wird oft als der 'Grand Canyon von Madagaskar' bezeichnet. In den tiefen, feuchten Canyons gedeihen Palmen und Farne, die einen scharfen Kontrast zur trockenen Savanne der Hochebene bilden. Der Park ist ein Refugium für den Ringelschwanzmaki und den Larvensifaka. Die einzigartige Flora umfasst den markanten 'Elefantenfuß' (Pachypodium), der sich perfekt an die trockenen Bedingungen der Felsen angepasst hat. Biologie K7 — Wüstenökologie und Erosionslandschaften.",
+      "factsAdvanced": [
+        "Spektakulärster Nationalpark im Südwesten Madagaskars",
+        "Beherbergt bizarre Sandsteinformationen aus dem Jura-Zeitalter",
+        "Bekannt für seine Oasen mit natürlichen Schwimmbecken (Piscine Naturelle)",
+        "Heimat des Ringelschwanzmakis (Lemur catta) und vieler Reptilien",
+        "Botanisches Highlight: Der endemische Elefantenfuß-Baum",
+        "Wichtiges heiliges Gebiet für das Volk der Bara (Grabstätten)",
+        "Relief bietet spektakuläre Ausblicke auf die weite Horombe-Ebene",
+        "Einer der meistbesuchten Parks für Trekking und Naturbeobachtung"
+      ]
+    },
+    {
+      "id": "isalo-plateau-relief-v2",
+      "descriptionAdvanced": "Das Isalo-Plateau ist ein monumentales Sandsteinmassiv, das sich majestätisch aus der trockenen Horombe-Ebene im Südwesten Madagaskars erhebt. Das Relief ist durch dramatische Erosion geprägt, die im Laufe von Jahrmillionen tiefe, fast senkrechte Schluchten und bizarre Felsmonumente geschaffen hat. Diese geomorphologische Struktur aus dem Jura wirkt wie eine natürliche Festung und bildet ein komplexes Labyrinth aus Hochplateaus und versunkenen Tälern. Die poröse Beschaffenheit des Sandsteins ermöglicht das Sammeln von Wasser in tiefen Spalten, was die Entstehung kleiner grüner Oasen in einer ansonsten ariden Landschaft begünstigt. Isalo ist ein Paradebeispiel für die landschaftsprägende Kraft von Wasser und Wind. Geografie K8 — Sandsteinmorphologie und Plateaulandschaften.",
+      "factsAdvanced": [
+        "Massives Sandstein-Plateau aus der Jurazeit vor 150 Mio. Jahren",
+        "Relief ist durch extreme vertikale Erosion und Canyons geprägt",
+        "Wichtige geologische Barriere am Rande der Horombe-Savanne",
+        "Die Felsformationen erinnern oft an Ruinenstädte oder Tiere",
+        "Spektakuläre Aussichtspunkte wie das 'Fenster von Isalo' (La Fenêtre)",
+        "Das Plateau beherbergt zahlreiche versteckte Höhlensysteme",
+        "Wichtiges hydrologisches Einzugsgebiet für die Flüsse des Südens",
+        "Geologisch einzigartig durch seine Schichtung und Farbenpracht"
+      ]
+    },
+    {
+      "id": "itasy-volcanic-field-relief-v2",
+      "descriptionAdvanced": "Das Itasy-Vulkangebiet westlich von Antananarivo ist eine der geologisch jüngsten Landschaften Madagaskars. Das Relief ist geprägt durch ein chaotisches Feld von über 100 erloschenen Vulkankegeln, Maaren und massiven Lavaströmen, die während des Holozäns entstanden sind. Diese postvulkanische Struktur hat das Flusssystem der Region grundlegend verändert, unter anderem durch die Entstehung des Itasy-Sees durch einen Lavadamm. Die Landschaft besticht durch ihre weichen, grünen Hügelkuppen und die perfekt geformten Krater, die heute oft landwirtschaftlich genutzt werden. Das Gebiet ist zudem berühmt für seine thermalen Erscheinungen wie Kaltwassergeysire und sprudelnde Quellen, die die anhaltende geothermische Energie im Untergrund bezeugen. Geografie K7 — Vulkanismus und Formschatz der Erde.",
+      "factsAdvanced": [
+        "Dichteste Konzentration von Vulkankegeln auf Madagaskar",
+        "Relativ junge geologische Formation (weniger als 12.000 Jahre)",
+        "Besitzt zahlreiche Maar-Seen und trachyte Lavadome",
+        "Die Böden gehören zu den fruchtbarsten Agrarzonen des Landes",
+        "Wichtiger Standort für die Geothermie-Forschung auf der Insel",
+        "Das Relief bietet ideale Bedingungen für die Terrassenlandwirtschaft",
+        "Bekannt für die spektakulären Lily-Wasserfälle (Chutes de la Lily)",
+        "Einzigartiges Beispiel für eine durch Vulkanismus geprägte Kulturlandschaft"
+      ]
+    },
+    {
+      "id": "jb-confectionery-economic-v2",
+      "descriptionAdvanced": "Die JB-Süßwarenfabrik (Groupe JB) ist eine Ikone der madagassischen Lebensmittelindustrie und ein Name, den fast jedes Kind auf der Insel kennt. Seit Jahrzehnten produziert das Unternehmen Kekse, Bonbons und Schokolade für den nationalen Markt. Die Fabrik ist ein Beispiel für den Erfolg lokaler Unternehmerfamilien, die es geschafft haben, eine starke madagassische Marke gegen internationale Konkurrenz zu etablieren. Mit modernen Produktionslinien und einer weitreichenden Vertriebsstruktur ist JB ein wichtiger Wirtschaftsfaktor und ein Symbol für die wachsende Konsumgüterindustrie des Landes. Die Produkte sind in jedem kleinen Kiosk (Lépisy) von der Küste bis ins Hochland zu finden. Wirtschaft K6 — Konsumgüterindustrie und lokaler Markt.",
+      "factsAdvanced": [
+        "Führender Hersteller von Süßwaren und Keksen auf Madagaskar",
+        "Teil der diversifizierten Groupe JB, einem der größten Unternehmen der Insel",
+        "Wichtiger Standort für die Schokoladenproduktion aus madagassischem Kakao",
+        "Schafft tausende Arbeitsplätze in der Produktion und Logistik",
+        "Besitzt ein flächendeckendes Vertriebsnetz bis in entlegene Dörfer",
+        "Symbol für die Industrialisierung im Bereich der Grundnahrungsmittel",
+        "Bekannt für Kultmarken wie 'Biscuits JB'",
+        "Trägt zur Wertschöpfung lokaler Agrarprodukte (Zucker, Kakao) bei"
+      ]
+    },
+    {
+      "id": "jean-laborde-house-mantasoa-history-v2",
+      "descriptionAdvanced": "Das Haus von Jean Laborde in Mantasoa ist ein faszinierendes Zeugnis der madagassischen Industriegeschichte im 19. Jahrhundert. Jean Laborde, ein schiffbrüchiger Franzose, wurde zum Vertrauten von Königin Ranavalona I. und errichtete in Mantasoa den ersten modernen Industriekomplex des Landes. Er baute Gießereien, Fabriken für Glas, Seife und Waffen sowie einen Palast für die Königin. Sein eigenes Wohnhaus in Mantasoa kombiniert europäische Architektur mit madagassischen Elementen und ist heute ein Museum. Der Ort Mantasoa symbolisiert den Versuch Madagaskars, sich ohne koloniale Abhängigkeit durch technologische Innovation zu modernisieren. Geschichte K8 — Frühindustrialisierung und ausländische Berater.",
+      "factsAdvanced": [
+        "Ehemaliger Wohnsitz des französischen Visionärs Jean Laborde",
+        "Zentrum des ersten madagassischen Industriekomplexes (1830er Jahre)",
+        "Hier wurden die ersten Kanonen und Seifen der Insel produziert",
+        "Architektur vereint provenzalische Einflüsse mit Merina-Stil",
+        "Mantasoa war ein technisches Experimentierfeld der Monarchie",
+        "Heute ein wichtiges Museum für die Technikgeschichte Madagaskars",
+        "Beherbergt Relikte der frühen Eisen- und Glasverarbeitung",
+        "Symbol für die enge Verbindung zwischen Technik und Macht unter Ranavalona I."
+      ]
+    },
+    {
+      "id": "karambony-peak-relief-v2",
+      "descriptionAdvanced": "Der Karambony-Gipfel ist eine der spektakulärsten Granitformationen im Tsaranoro-Tal, am Rande des Andringitra-Massivs. Das Relief zeichnet sich durch eine fast 800 Meter hohe, senkrechte Steilwand aus, die bei Kletterern aus aller Welt als eine der größten Herausforderungen Madagaskars gilt. Diese monumentale 'Big Wall' ist das Ergebnis von Millionen Jahren von Erosion des kristallinen Grundgebirges. Der Gipfel bietet einen atemberaubenden Blick über das Tal und die bizarren Felsformationen des Südens. Karambony steht sinnbildlich für die majestätische und wilde Schönheit des madagassischen Hochlandes und die gewaltigen geologischen Kräfte der Kontinentalhebung. Geografie K8 — Granitmassive und Klettersport.",
+      "factsAdvanced": [
+        "Eine der imposantesten Granit-Steilwände Madagaskars",
+        "Weltberühmtes Ziel für Big-Wall-Klettern im Tsaranoro-Tal",
+        "Die vertikale Wand ist rund 800 Meter hoch",
+        "Teil der geologisch alten Granit-Intrusionen des Südens",
+        "Gipfel bietet einen Panoramablick auf das Andringitra-Massiv",
+        "Lichtspiele am Fels machen ihn zu einem Motiv für Naturfotografen",
+        "Gehört zum ökologisch wertvollen Schutzgürtel des Nationalparks",
+        "Symbol für die extreme Geomorphologie des Betsileo-Landes"
+      ]
+    },
+    {
+      "id": "katedraly-faravohitra-landmarks-v2",
+      "descriptionAdvanced": "Die Katedraly Faravohitra (Cathédrale Saint-Laurent) ist ein Wahrzeichen der anglikanischen Kirche in Antananarivo. Auf dem Hügel von Faravohitra gelegen, bietet sie einen markanten Blickfang in der Silhouette der Stadt. Das Gebäude aus rotem Backstein wurde im späten 19. Jahrhundert errichtet und erinnert an die Märtyrer, die an diesem Ort hingerichtet wurden. Die Architektur spiegelt den britischen Einfluss auf die madagassische Missionsgeschichte wider. Im Inneren besticht die Kathedrale durch schlichte Eleganz und geschichtsträchtige Grabmale. Faravohitra ist bis heute ein bedeutendes spirituelles Zentrum und ein Zeugnis für den religiösen Pluralismus der Hauptstadt. Geschichte K7 — Religionsgeschichte und Sakralbauten.",
+      "factsAdvanced": [
+        "Hauptsitz der Anglikanischen Kirche auf Madagaskar",
+        "Erbaut im neugotischen Backsteinstil des 19. Jahrhunderts",
+        "Steht an einem Ort früherer christlicher Märtyrerschaften",
+        "Wichtiges Wahrzeichen des historischen Stadtteils Faravohitra",
+        "Bietet eine der besten Akustiken für Chormusik in der Hauptstadt",
+        "Symbol für die historischen Beziehungen zwischen Madagaskar und Großbritannien",
+        "Bekannt für seine kunstvollen Buntglasfenster und Holzschnitzereien",
+        "Wesentlicher Bestandteil der 'Sieben Hügel'-Architektur von Tana"
+      ]
+    },
+    {
+      "id": "kirindy-wald-life-v2",
+      "descriptionAdvanced": "Der Kirindy-Wald im Westen Madagaskars ist eines der bedeutendsten Reservate für den trockenen Laubwald. Das Ökosystem ist die Heimat der Fossa, des größten Raubtieres der Insel, und des seltenen Riesen-Springratte. Die Flora wird von monumentalen Affenbrotbäumen (Baobabs) dominiert, die sich perfekt an die monatelange Trockenheit angepasst haben. Kirindy ist ein Zentrum für die Erforschung der madagassischen Biodiversität, da hier Arten leben, die nirgendwo sonst vorkommen. Geführte Nachtwanderungen ermöglichen es, die hohe Dichte an nachtaktiven Lemuren wie dem Mausmaki zu erleben. Der Schutz dieses Waldes ist eine Priorität, da der westliche Trockenwald weltweit zu den am stärksten bedrohten Lebensräumen gehört. Biologie K7 — Trockenwald-Biodiversität und Raubtiere.",
+      "factsAdvanced": [
+        "Wichtigstes Schutzgebiet zur Beobachtung der Fossa (Cryptoprocta ferox)",
+        "Beherbergt drei der sieben madagassischen Baobab-Arten",
+        "Letztes Refugium für die bedrohte Riesen-Springratte",
+        "Extremer Trockenwald mit hoher saisonaler Anpassung der Tiere",
+        "International renommierte Forschungsstation des DPZ (Göttingen)",
+        "Beherbergt den kleinsten Primaten der Welt, den Madame-Berthe-Mausmaki",
+        "Zentrum für nachhaltige Forstwirtschaft und Ökotourismus",
+        "Verschwinden des Waldes bedroht das ökologische Gleichgewicht im Westen"
+      ]
+    },
+    {
+      "id": "kraoma-mine-economic-v2",
+      "descriptionAdvanced": "Die KRAOMA-Mine (Kraomita Malagasy) bei Brieville ist das Zentrum der madagassischen Chromitförderung. Seit Jahrzehnten ist Madagaskar einer der bedeutendsten Produzenten von Chromerz weltweit, das vor allem in der Stahlveredelung eingesetzt wird. Das staatliche Unternehmen KRAOMA betreibt den Bergbau im Hochland und ist ein wichtiger Devisenbringer für den Staat. Die Mine ist tief im Binnenland gelegen und erfordert eine aufwendige Logistik zum Transport des Erzes zum Hafen von Toamasina. Die Entwicklung der Mine spiegelt die Bedeutung des industriellen Bergbaus für die madagassische Wirtschaft wider, steht aber auch für die Herausforderungen bei der Modernisierung staatlicher Betriebe. Wirtschaft K8 — Bergbau und Metallurgie.",
+      "factsAdvanced": [
+        "Wichtigstes Zentrum für den Abbau von Chromerz auf der Insel",
+        "Staatliches Bergbauunternehmen KRAOMA ist der Hauptakteur",
+        "Erz wird primär für die internationale Edelstahlproduktion exportiert",
+        "Befindet sich in der Region Betsiboka bei Brieville",
+        "Wesentlicher Beitrag zur nationalen Industriewertschöpfung",
+        "Erfordert den Betrieb spezialisierter Schwertransporte zum Hafen",
+        "Symbol für die mineralische Vielfalt des madagassischen Untergrunds",
+        "Zentrum für die Ausbildung madagassischer Bergbauingenieure"
+      ]
+    },
+    {
+      "id": "lakato-lemuren-schutz-life-v2",
+      "descriptionAdvanced": "Das Schutzprojekt in Lakato ist eine bedeutende Initiative zur Rettung des Indri-Indri und anderer bedrohter Lemurenarten in den östlichen Regenwäldern. In dieser wasserreichen und bergigen Region arbeiten lokale Gemeinschaften eng mit Naturschutzorganisationen zusammen, um den verbleibenden Primärwald vor Brandrodung zu schützen. Lakato dient als wichtiger Korridor zwischen den großen Nationalparks der Region und ermöglicht den genetischen Austausch der Tierpopulationen. Durch Bildungsprogramme und nachhaltige Landwirtschaft wird versucht, den Druck auf den Wald zu verringern. Für Besucher bietet Lakato ein authentisches Erlebnis des Regenwaldschutzes abseits der großen Touristenströme. Biologie K7 — Gemeindebasierter Naturschutz und Korridor-Ökologie.",
+      "factsAdvanced": [
+        "Wichtiger biologischer Korridor für den Indri-Indri",
+        "Initiative zur Einbindung der lokalen Bevölkerung in den Naturschutz",
+        "Schutzgebiet für seltene Orchideen und fleischfressende Pflanzen",
+        "Zentrum für Wiederaufforstungsprojekte mit einheimischen Baumarten",
+        "Beherbergt eine hohe Dichte an bedrohten schwarzen Vari-Lemuren",
+        "Modellprojekt für nachhaltigen Regenwald-Tourismus",
+        "Wesentlicher Baustein zum Erhalt der östlichen Biodiversität",
+        "Unterstützt durch internationale Partnerschaften für Umweltschutz"
+      ]
+    },
+    {
+      "id": "lake-alaotra-nature-v2",
+      "descriptionAdvanced": "Der Alaotra-See im Nordosten ist das größte Binnengewässer Madagaskars und ein ökologisch wie wirtschaftlich herausragendes Gebiet. Das Relief besteht aus einer riesigen Senke, die von fruchtbaren Schwemmlandebenen umgeben ist, die als 'Reisschüssel Madagaskars' dienen. Der See ist die Heimat des Alaotra-Bambuslemurs (Bandro), der ausschließlich im Schilfgürtel dieses Gewässers vorkommt. Die zunehmende Verlandung durch Erosion im Hochland und die intensive landwirtschaftliche Nutzung bedrohen jedoch das empfindliche Gleichgewicht dieses Feuchtgebiets. Der Schutz des Sees ist eine nationale Priorität, da er sowohl für die Nahrungsmittelversorgung als auch für die Bewahrung einzigartiger Endemiten von entscheidender Bedeutung ist. Geografie K8 — Binnengewässer und Agrarökologie.",
+      "factsAdvanced": [
+        "Größter See Madagaskars mit einer Fläche von ca. 900 km²",
+        "Wichtigstes Reisanbaugebiet des Landes (Alaotra-Senke)",
+        "Einziger Lebensraum des Alaotra-Bambuslemurs (Bandro)",
+        "Feuchtgebiet von internationaler Bedeutung (Ramsar-Konvention)",
+        "Zentrum der madagassischen Binnenfischerei",
+        "Starke Bedrohung durch Verlandung infolge von Bodenerosion",
+        "Wichtiges Rastgebiet für Zugvögel aus Afrika und Europa",
+        "Symbol für die Herausforderungen zwischen Landwirtschaft und Naturschutz"
+      ]
+    }
+  ]
+}

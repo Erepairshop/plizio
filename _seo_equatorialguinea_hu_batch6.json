@@ -1,0 +1,282 @@
+{
+  "lang": "hu",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rio-lanen-nature-v2",
+      "descriptionAdvanced": "A Río Lanén egy festői és ökológiailag jelentős vízfolyás Río Muni délnyugati részén, amely sűrű, érintetlen trópusi erdőkön kanyarog keresztül. Ez a folyó kritikus szerepet játszik a helyi vízháztartásban, biztosítva a nedvességet a part menti dús vegetációnak és ivóvizet a vadvilág számára. A Lanén-folyó mentén található ártéri erdők gazdagok ritka növényfajokban és endemikus rovarvilágban, ami a biológusok számára izgalmas kutatási területet jelent. A folyó vize tiszta, és számos kisebb zúgót alkot, mielőtt egyesülne a nagyobb folyórendszerekkel vagy elérné az óceánt. A terület érintetlensége miatt a Río Lanén a szárazföldi országrész egyik legnyugodtabb és legtermészetesebb tája, ahol az esőerdő hangjai és a víz csobogása dominál.",
+      "factsAdvanced": [
+        "Río Muni délnyugati régiójának egyik tiszta vízű folyója.",
+        "Érintetlen galériaerdők és buja trópusi növényzet kíséri útját.",
+        "Fontos édesvízi élőhely számos helyi halfaj számára.",
+        "Kritikus szerepet tölt be a part menti ökoszisztémák fenntartásában.",
+        "A folyómenti mocsaras területek ritka madárfajok fészkelőhelyei.",
+        "Szinte teljes hosszában mentes az emberi beavatkozástól.",
+        "A szárazföldi biodiverzitási hálózat egyik fontos eleme."
+      ]
+    },
+    {
+      "id": "estuario-de-mbini-nature-v2",
+      "descriptionAdvanced": "A mbini torkolatvidék (Estuario de Mbini) Egyenlítői-Guinea szárazföldi részének egyik leglátványosabb és legdinamikusabb természeti képződménye, ahol a monumentális Benito-folyó az Atlanti-óceánba ömlik. Ez a hatalmas vízi térség az édes és a sós víz találkozási pontja, létrehozva a mangrove-mocsarak, homokpadok és mély csatornák bonyolult rendszerét. A torkolatvidék biológiai termelékenysége kiemelkedő, hiszen kritikus táplálkozó- és szaporodóhelyet biztosít számtalan tengeri és folyami fajnak, beleértve az afrikai manátuszokat is. A vidék arculatát a modern Mbini-híd határozza meg, amely fenséges panorámát nyújt a torkolat érintetlen partjaira. A naplemente a torkolat felett, amikor a színek megcsillannak a széles víztükrön, az ország egyik legszebb természeti élménye.",
+      "factsAdvanced": [
+        "Az ország legnagyobb folyójának, a Benitónak a tágas torkolata.",
+        "Rendkívül gazdag mangrove-ökoszisztéma és vizes élőhely.",
+        "Létfontosságú terület az afrikai tengeritehén (manátusz) védelmében.",
+        "Kiemelt fontosságú a regionális halállomány utánpótlása szempontjából.",
+        "A torkolatvidék dús növényzete természetes gátat szab a partmenti eróziónak.",
+        "Népszerű helyszín a természetfotózás és a madármegfigyelés számára.",
+        "A víz és az óceán találkozása egyedülálló tájképi értéket képvisel."
+      ]
+    },
+    {
+      "id": "ebebiyin-cities-v2",
+      "descriptionAdvanced": "Ebebiyín, strategisch an der nordöstlichen Grenze gelegen, dient als wichtiger Handelsposten für den grenzüberschreitenden Verkehr zwischen Äquatorialguinea, Gabun und Kamerun. Die Stadt hat sich aufgrund ihrer Lage am sogenannten Dreiländereck zu einem vitalen wirtschaftlichen Knotenpunkt entwickelt, der täglich von Händlern und Reisenden frequentiert wird. Trotz ihrer geschäftigen Natur bewahrt Ebebiyín den Charakter einer lebendigen Grenzstadt, in der lokale Märkte das Stadtbild bestimmen und den Austausch von Waren und Kulturen fördern. Die Infrastruktur der Stadt wird kontinuierlich ausgebaut, um dem wachsenden Bedarf an effizienter Logistik in dieser vernetzten Grenzregion gerecht zu werden. Geografie K7, Wirtschaft K8. Ebebiyín Egyenlítői-Guinea északkeleti kapuja, amely stratégiai elhelyezkedése révén kulcsszerepet játszik a Kamerunnal és Gabonnal folytatott kereskedelemben. A város vibráló hangulatát a határokon átnyúló áruforgalom és a kulturális sokszínűség határozza meg. Ebebiyín modernizációja során nagy hangsúlyt fektettek az utakra és a logisztikai létesítményekre, megerősítve a régió gazdasági súlyát. A látogatók itt megtapasztalhatják a valódi közép-afrikai piaci élet lüktetését.",
+      "factsAdvanced": [
+        "Liegt im Nordosten der Region Río Muni.",
+        "Grenzübergangsstelle zu Kamerun und Gabun.",
+        "Wichtiger Umschlagplatz für Waren im Nordosten.",
+        "Bevölkerung besteht aus einer Mischung lokaler Ethnien.",
+        "Das Klima ist geprägt durch tropische Regenwälder.",
+        "Zentrum des lokalen Dienstleistungssektors.",
+        "Kie-Ntem tartomány közigazgatási és gazdasági székhelye.",
+        "Itt található az ország egyik legjelentősebb katedrálisa."
+      ]
+    },
+    {
+      "id": "mongomo-cities-v2",
+      "descriptionAdvanced": "Mongomo ist eine moderne, aufstrebende Stadt im Osten der Region Río Muni und fungiert als einer der wichtigsten Verwaltungsstandorte Äquatorialguineas. Die Stadt ist vor allem als Heimatort einflussreicher politischer Persönlichkeiten bekannt und hat in den letzten Jahren eine rasante bauliche Entwicklung erfahren, die durch moderne Regierungsbauten und eine beeindruckende Basilika unterstrichen wird. Diese architektonischen Highlights heben Mongomo aus dem typischen Bild ländlicher Städte hervor und machen sie zu einem symbolischen Zentrum nationaler Ambitionen. Die Nähe zur gabunischen Grenze begünstigt zudem den regionalen Handel und stärkt die wirtschaftliche Anbindung des östlichen Festlands. Geschichte K8, Fächer: Sozialkunde K7. Mongomo Egyenlítői-Guinea egyik leggyorsabban fejlődő modern városa a szárazföld belsejében, Wele-Nzas tartományban. A település az ország politikai életének egyik központja, amely impozáns középületeivel és monumentális bazilikájával tűnik ki. A gaboni határ közelsége élénkíti a regionális kereskedelmet, míg a modern infrastruktúra magas életszínvonalat biztosít a lakosoknak. Mongomo a nemzeti fejlődés és a modernizációs törekvések egyik leglátványosabb példája a dzsungel szívében.",
+      "factsAdvanced": [
+        "Stadtbild geprägt durch die Basilika von Mongomo.",
+        "Strategisch wichtige Lage nahe der gabunischen Grenze.",
+        "Erlebte in den letzten Jahren bedeutende infrastrukturelle Investitionen.",
+        "Wichtiges Zentrum für die regionale Verwaltung.",
+        "Die Basilika ist eine der größten ihrer Art in Westafrika.",
+        "Wirtschaftliches Zentrum für den östlichen Teil des Landes.",
+        "Számos rangos nemzetközi konferencia és sportesemény helyszíne.",
+        "A város környékén modern mezőgazdasági mintaprojektek működnek."
+      ]
+    },
+    {
+      "id": "luba-cities-v2",
+      "descriptionAdvanced": "Luba, an der Südwestküste von Bioko gelegen, ist nach der Hauptstadt Malabo die zweitgrößte Stadt der Insel und fungiert als essenzieller Hafenstandort für die lokale Holzindustrie. Die Stadt ist durch ihre idyllische Lage zwischen den dichten Wäldern des Inselinneren und der weiten Küste des Atlantiks geprägt. Luba dient als Tor zur weniger erschlossenen Südseite der Insel Bioko und bietet Reisenden einen Einblick in eine authentischere Lebensweise. Mit ihren vulkanischen Stränden und der Nähe zu naturbelassenen Waldgebieten hat sich Luba zudem zu einem Ausgangspunkt für Naturliebhaber und Wanderer entwickelt, die die ökologische Vielfalt der Region erkunden möchten. Geografie K7, Ökologie K8. Luba Bioko szigetének második legnépesebb városa, amely festői öbléről és mélyvízi kikötőjéről híres. A város kulcsfontosságú szerepet játszik a faanyag- és kakaóexportban, valamint az energetikai szektor logisztikájában. Luba környezete zord vulkanikus partokból és buja esőerdőkből áll, ami vonzóvá teszi a természetjárók számára. A település megőrizte gyarmati báját, miközben modern ipari bázissá fejlődött a sziget délnyugati részén.",
+      "factsAdvanced": [
+        "Zweitgrößte Siedlung auf Bioko.",
+        "Bedeutender Tiefseehafen für Holzexporte.",
+        "Umgeben von vulkanischem Boden.",
+        "Wichtiger Ausgangspunkt für Expeditionen in den Süden der Insel.",
+        "Das Klima ist stark beeinflusst durch die feuchten Winde des Atlantiks.",
+        "Die Stadt hat eine lange Geschichte als Handelsort.",
+        "Bioko Sur tartomány közigazgatási és gazdasági motorja.",
+        "Híres a közeli Arenas Blancas fehér homokos strandjáról."
+      ]
+    },
+    {
+      "id": "evinayong-cities-v2",
+      "descriptionAdvanced": "Evinayong liegt als malerische Hauptstadt der Provinz Centro Sur in den bewaldeten Highlands und ist bekannt für ihr vergleichsweise mildes und angenehmes Klima im Landesinneren. Als administratives Herz der Region ist die Stadt ein zentraler Umschlagplatz für landwirtschaftliche Erzeugnisse aus dem Umland und ein wichtiger Verbindungspunkt für das Straßennetz von Río Muni. Die Stadt besticht durch eine entspannte Atmosphäre, die sie von den hektischen Küstenmetropolen abhebt. Trotz ihrer überschaubaren Größe ist Evinayong ein wesentlicher Akteur für die Versorgung der lokalen Bevölkerung und ein Zentrum der bäuerlichen Traditionen, die den Lebensrhythmus in den zentralen Provinzen Äquatorialguineas bestimmen. Geografie K6, Landwirtschaft K8. Evinayong Centro Sur tartomány székhelye, amely a kontinentális országrész szívében, egy dombos fennsíkon található. A város híres hűvösebb klímájáról és arról a stratégiai szerepéről, amelyet a szárazföldi belső területek összekötésében játszik. Mint fontos közigazgatási és oktatási központ, Evinayong meghatározza a régió szellemi életét. A környező sűrű erdők és a hagyományos mezőgazdaság adják a település autentikus afrikai karakterét.",
+      "factsAdvanced": [
+        "Hauptstadt der Provinz Centro Sur.",
+        "Liegt im zentralen Hochland von Río Muni.",
+        "Bekannt für den Handel mit lokalen Agrarprodukten.",
+        "Klima ist aufgrund der Höhenlage gemäßigter als an der Küste.",
+        "Wichtiger Knotenpunkt für den Transit im Landesinneren.",
+        "Die Umgebung besteht weitgehend aus unberührtem Sekundärwald.",
+        "Itt találkozik a szárazföldi észak-déli és kelet-nyugati főútvonal.",
+        "Hagyományos kézműves és piaci központ a régióban."
+      ]
+    },
+    {
+      "id": "san-antonio-de-pale-cities-v2",
+      "descriptionAdvanced": "San Antonio de Palé ist die einzige nennenswerte Siedlung und die Hauptstadt der abgelegenen Vulkaninsel Annobón, die weit südlich vom Äquator im Golf von Guinea liegt. Aufgrund ihrer geografischen Isolation hat sich dort eine einzigartige kulturelle Identität entwickelt, die sich stark von der des Festlandes und der Hauptinsel Bioko unterscheidet. Ein bemerkenswertes Merkmal der lokalen Gesellschaft ist der Gebrauch eines portugiesisch-basierten Dialekts, ein Überbleibsel der historischen Verbindungen zu den benachbarten Inseln São Tomé und Príncipe. Die Stadt ist bescheiden und eng mit dem Meer verbunden, das die Lebensgrundlage für die Mehrheit der Einwohner bildet. Geografie K5, Kultur K7. San Antonio de Palé Egyenlítői-Guinea legtávolabbi tartományának, Annobón szigetének fővárosa. A település egyedülálló portugál gyökerekkel és sajátos kreol nyelvvel rendelkezik, ami megkülönbözteti az ország többi részétől. A város élete a halászat és az óceán ritmusa köré épül, tükrözve a sziget elszigetelt, de büszke identitását. San Antonio de Palé színes házai és a közeli vulkáni csúcsok drámai hátteret adnak ennek a különleges atlanti településnek.",
+      "factsAdvanced": [
+        "Einzige Stadt auf der Insel Annobón.",
+        "Besondere sprachliche Identität durch portugiesische Wurzeln.",
+        "Geografisch weit vom äquatorialguineischen Festland entfernt.",
+        "Die Insel ist vulkanischen Ursprungs.",
+        "Wirtschaft basiert maßgeblich auf traditionellem Fischfang.",
+        "Sehr isolierte und friedliche Lage im Südatlantik.",
+        "A tartomány egyetlen adminisztrációs és logisztikai központja.",
+        "A sziget déli fekvése miatt az éghajlat kevésbé csapadékos, mint Biokón."
+      ]
+    },
+    {
+      "id": "anisoc-cities-v2",
+      "descriptionAdvanced": "Añisoc ist eine pulsierende Stadt im Herzen von Río Muni und ein zentraler Handelsknotenpunkt, an dem wichtige Verkehrsachsen des Festlandes aufeinandertreffen. Die Stadt zeichnet sich durch ihren lebhaften Markt aus, der nicht nur für die lokale Bevölkerung, sondern auch für Händler aus der gesamten Provinz von großer Bedeutung ist. Durch die verkehrsgünstige Lage an einer der Hauptschlagadern der Region ist Añisoc ein wesentlicher Akteur im lokalen Warenverkehr und trägt maßgeblich zur wirtschaftlichen Dynamik des Landesinneren bei. Die städtische Umgebung vermittelt ein authentisches Bild vom Leben abseits der Küsten, in dem Handel und soziale Interaktion den Alltag bestimmen. Wirtschaft K7, Geografie K6. Añisoc Wele-Nzas tartomány egyik legfontosabb városa, amely a szárazföld belső részének kereskedelmi szívét alkotja. A város elhelyezkedése révén a környező mezőgazdasági vidékek első számú logisztikai gyűjtőpontja. Añisoc híres pezsgő piaci életéről, ahol a trópusi termények és a kézműves áruk széles választéka cserél gazdát. A település folyamatos infrastrukturális fejlődése a belső régiók gazdasági megerősödésének egyik záloga.",
+      "factsAdvanced": [
+        "Verkehrsgünstige Lage im Zentrum von Río Muni.",
+        "Zentraler Handelsplatz für die umliegende Region.",
+        "Bekannt für den regen Austausch auf dem städtischen Markt.",
+        "Schnittpunkt wichtiger regionaler Straßenverbindungen.",
+        "Wichtiger Versorgungsstandort im Landesinneren.",
+        "Die Stadt erlebt eine stetige Zunahme an kommerzieller Aktivität.",
+        "Fontos szerepet játszik az északkeleti határvidék ellátásában.",
+        "Kiemelt oktatási és egészségügyi intézményekkel rendelkezik."
+      ]
+    },
+    {
+      "id": "moca-cities-v2",
+      "descriptionAdvanced": "Moka, situat în zona înaltă a insulei Bioko, este un sat renumit pentru clima sa răcoroasă și peisajele verzi. Localitatea este un punct de plecare important pentru drumețiile spre lacurile vulcanice din apropiere, precum Lacul Biao. Această zonă a insulei păstrează un farmec tradițional, fiind locuită predominant de etnia Bubi, care a menținut practici agricole sustenabile de-a lungul generațiilor. Aerul proaspăt de munte și biodiversitatea bogată fac din Moka o destinație esențială pentru cercetarea ecosistemelor montane din Africa Centrală. Fächer: Geografie K7, Biologie K8. Moka Bioko szigetének egyik legegyedibb települése, amely a déli fennsíkon, több mint 1200 méteres magasságban fekszik. A falu a bubi nép hagyományos spirituális és kulturális központja, ahol a hűvös hegyi levegő és a vulkáni tavak közelsége különleges atmoszférát teremt. Moka fontos bázisa a természetvédelemnek és az ökoturizmusnak, ahonnan a sziget legmagasabb csúcsai és kráterei elérhetőek. Az itt élő közösség büszkén őrzi ősi hagyományait a modernizálódó világban is.",
+      "factsAdvanced": [
+        "Situated at an altitude of approximately 1,400 m.",
+        "Renowned for its cool mountain climate.",
+        "Main access point to Lake Biao.",
+        "Majority population of Bubi ethnicity.",
+        "Region is rich in protected mountain forests.",
+        "Historical ties to the development of subsistence agriculture on Bioko.",
+        "Az ország egyik legfontosabb magaslati mezőgazdasági területe.",
+        "Híres az itt termő különleges kávé- és zöldségfajtákról."
+      ]
+    },
+    {
+      "id": "basakato-cities-v2",
+      "descriptionAdvanced": "Basakato egy hagyományos és nagy múltú bubi település Bioko szigetének északi részén, Malabo közelében. A falu a sziget eredeti lakóinak egyik legfontosabb kulturális bástyája, ahol a közösségi élet a tradicionális rituálék és a mezőgazdaság köré szerveződik. Basakato termékeny vulkáni földjei kiválóan alkalmasak a kakaó és a trópusi gyümölcsök termesztésére, amelyek a helyiek fő megélhetési forrását jelentik. A település híres vendégszeretetéről és arról a képességéről, hogy megőrizze ősi értékeit a főváros közelsége ellenére. A látogatók számára Basakato betekintést nyújt a sziget autentikus vidéki életébe és a bubi építészeti hagyományokba. A falu környezete buja és zöld, tükrözve a biokói táj természetes gazdagságát.",
+      "factsAdvanced": [
+        "Ősi bubi település Bioko sziget északi régiójában.",
+        "A hagyományos szigeti kultúra és életmód egyik őrzője.",
+        "Gazdasága a kakaótermesztésen és a kisüzemi mezőgazdaságon alapul.",
+        "Fontos szerepet játszik a helyi ünnepek és táncok megőrzésében.",
+        "A vulkáni talaj rendkívüli termékenységet biztosít a környéken.",
+        "Malabo közelsége miatt fontos kulturális és piaci kapcsolatokkal bír.",
+        "A közösségi összefogás és a családi tradíciók határozzák meg mindennapjait."
+      ]
+    },
+    {
+      "id": "batete-cities-v2",
+      "descriptionAdvanced": "Batete Bioko szigetének egyik legkülönlegesebb történelmi települése a déli hegyvidéken, amely világhírét egyedülálló faépítészetének köszönheti. A falu ékköve a Szent József-templom, egy monumentális gótikus stílusú fatemplom, amelyet a 19. század végén spanyol misszionáriusok építettek. Batete a bubi kultúra egyik legfontosabb spirituális központja, ahol a vallási hagyományok mélyen beágyazódtak a közösség életébe. A település egy kialudt vulkán lejtőjén fekszik, gyakran ködbe burkolózva, ami misztikus hangulatot kölcsönöz a régi faházaknak. A környék kávé- és kakaóültetvényei egykor a sziget gazdaságának motorjai voltak, ma pedig az agroturizmus ígéretes helyszínei. Batete minden látogató számára felejthetetlen időutazást kínál az esőerdők mélyén.",
+      "factsAdvanced": [
+        "Híres az 1887-ben épült, egyedülálló gótikus fatemplomáról.",
+        "A Bioko-szigeti spanyol missziós építészet legszebb példája.",
+        "A bubi nép egyik legfontosabb hegyvidéki települése.",
+        "Hűvösebb, párás klíma jellemzi a vulkáni lejtőkön.",
+        "Gazdag történelmi múlttal rendelkezik a kakaótermesztés terén.",
+        "Kiemelt jelentőségű az országos kulturális örökségvédelmi programban.",
+        "Páratlan panoráma nyílik innen a sziget déli vadonjaira."
+      ]
+    },
+    {
+      "id": "musola-cities-v2",
+      "descriptionAdvanced": "Musola egy festői és stratégiai fekvésű település Bioko szigetének nyugati vulkáni lejtőin, a Malabo és Luba közötti út mentén. A várost buja trópusi esőerdők veszik körül, ahol a magas páratartalom és a vulkáni talaj különleges flórát, például egzotikus orchideákat és páfrányokat tart fenn. Musola elsősorban az ökoturizmus kapujaként ismert, hiszen innen indulnak a legfontosabb túraútvonalak a közeli Iladyi-vízesésekhez és a Gran Caldera de Luba pereméhez. A települést az 1920-as években alapították mezőgazdasági bázisként, és ma is fontos beszállítója a fővárosi piacoknak friss zöldségekkel és banánnal. A lakosság többsége bubi származású, akik megőrizték a földdel való szoros, hagyományos kapcsolatukat és a közösségi gazdálkodás formáit.",
+      "factsAdvanced": [
+        "Fontos logisztikai és turisztikai csomópont Nyugat-Biokón.",
+        "Kiindulópontja a híres, 250 méter magas Iladyi-vízeséseknek.",
+        "A Gran Caldera de Luba védett természeti övezetének határán fekszik.",
+        "Gazdag vulkáni talaja kiváló feltételeket biztosít a kertészetnek.",
+        "Hagyományos bubi közösség, amely őrzi az agrártradíciókat.",
+        "A 20. század eleji spanyol mezőgazdasági fejlesztések egyik bázisa.",
+        "Kiemelkedő szerepet játszik a sziget ökológiai nevelési programjaiban."
+      ]
+    },
+    {
+      "id": "beayop-cities-v2",
+      "descriptionAdvanced": "Beayop egy tradicionális fang település Río Muni belső részén, Wele-Nzas tartományban, amely egy erdős gerincen fekszik körülbelül 600 méteres magasságban. A várost az 1930-as években alapították a keleti régió egyik adminisztratív központjaként, és azóta is őrzi gazdag kulturális örökségét, beleértve a Bwiti rítusokat és a hagyományos hangszeres zenét. A helyi gazdaság alapja a manióka, a jamgyökér és a földimogyoró termesztése, amelyet kisebb kakaó- és kávéültetvények egészítenek ki. Beayop elhelyezkedése a gaboni és kameruni határ közelében elősegíti a regionális cserét és a kulturális hatások keveredését. Az elmúlt évek infrastrukturális fejlesztései, mint az új országúti összeköttetés, jelentősen javították a település elérhetőségét és kereskedelmi lehetőségeit.",
+      "factsAdvanced": [
+        "Hagyományos fang kulturális és hitéleti központ Río Muniban.",
+        "Az 1930-as évek óta fontos regionális adminisztratív pont.",
+        "A Bwiti beavatási rítusok és a rituális zene egyik fellegvára.",
+        "Mezőgazdasága a manióka- és jamgyökér-termesztésen alapul.",
+        "Strategiai fekvés a Gabon és Kamerun felé vezető utak mentén.",
+        "Folyamatosan fejlődő infrastruktúra az országrész szívében.",
+        "A trópusi esőerdei környezet meghatározza a város mikroklímáját."
+      ]
+    },
+    {
+      "id": "bidjabidjan-cities-v2",
+      "descriptionAdvanced": "Bidjabidján egy létfontosságú határváros Kie-Ntem tartomány távoli északi részén, közvetlenül azon a ponton, ahol Egyenlítői-Guinea, Kamerun és Gabon határai találkoznak. Az eredetileg spanyol vámállomásként az 1940-es években alapított település mára a regionális kereskedelem egyik legfontosabb csomópontjává nőtte ki magát. A város az N4-es autópálya mentén fekszik, megkönnyítve a fogyasztási cikkek, az üzemanyag és a mezőgazdasági termékek, például a kakaó és a kávé cseréjét. A környék sűrű esőerdői az erdei elefántok élőhelyei, ami rávilágít a régió különleges biodiverzitására. A 2008-ban telepített modern határforgalmi infrastruktúra tovább erősítette Bidjabidján szerepét a nemzetközi logisztikában és a biztonsági koordinációban.",
+      "factsAdvanced": [
+        "Kiemelt fontosságú háromoldalú határátkelőhely északon.",
+        "Az 1940-es években létrehozott stratégiai vám- és kereskedelmi pont.",
+        "Az ország egyik legforgalmasabb tranzitállomása az N4-es úton.",
+        "Meghatározó szerepet játszik a Kamerunnal folytatott áruforgalomban.",
+        "A környező dombvidék kiváló minőségű kávét és kakaót termel.",
+        "Modernizált határvédelmi és vámellenőrző rendszerek bázisa.",
+        "A közép-afrikai gazdasági integráció egyik fontos helyi motorja."
+      ]
+    },
+    {
+      "id": "nsang-cities-v2",
+      "descriptionAdvanced": "Nsang egy dinamikusan fejlődő város Kie-Ntem tartományban, amely egy dombos fennsíkon terül el 650 méteres tengerszint feletti magasságban. A spanyol gyarmati időkben, az 1930-as években alapított település hagyományosan a kávé és a kakaó gyűjtőpontjaként szolgált, amelyek kiválóan teremnek a vidék mérsékeltebb, dombvidéki klímáján. Nsang sokat profitált a nemzeti úthálózat fejlesztéséből, különösen a 2012-es modernizáció óta, amely összeköti a várost a fontosabb északi főutakkal. A város logisztikai hídként működik a távoli mezőgazdasági közösségek és a nagyobb városi központok között, alapvető szolgáltatásokat és oktatási lehetőségeket biztosítva a környéknek. A lakosság mélyen kötődik a fang kulturális hagyományokhoz, miközben aktívan részt vesz a modern gazdasági életben.",
+      "factsAdvanced": [
+        "Regionális agrár- és logisztikai központ Kie-Ntem tartományban.",
+        "A 20. század közepe óta a kávékereskedelem egyik pillére.",
+        "Stratégiai elhelyezkedés a kontinentális országrész dombvidékén.",
+        "Kiemelt oktatási és szakképzési központ a belső régió számára.",
+        "A 2012-es útfejlesztések óta a kereskedelmi forgalma megduplázódott.",
+        "A helyi gazdaság alapja a Robusta kávé és a trópusi gyümölcsök.",
+        "Fontos szerepet tölt be a vidéki népesség megtartásában."
+      ]
+    },
+    {
+      "id": "ayene-cities-v2",
+      "descriptionAdvanced": "Ayene egy bájos közigazgatási város Wele-Nzas tartományban, Egyenlítői-Guinea szárazföldi részén. A település hagyományos építészeti stílusairól és nyugodt, közösségi légköréről ismert, amely ideális helyszín a helyi önkormányzati munka és a lakossági szolgáltatások számára. A várost sűrű trópusi vegetáció és termékeny földek veszik körül, amelyek támogatják az olyan alapvető termények termesztését, mint a manióka, a jamgyökér és a földimogyoró. Ayene fejlődése szorosan összefügg a regionális úthálózat bővítésével, amely javította az összeköttetést az olyan nagyobb gazdasági központokkal, mint Mongomo. A helyi lakosság többsége fang származású, megőrizve azokat a szoros közösségi kötelékeket és hagyományos társadalmi struktúrákat, amelyek a város egyedi karakterét adják.",
+      "factsAdvanced": [
+        "Wele-Nzas tartomány egyik meghatározó közigazgatási központja.",
+        "Hagyományos afrikai és spanyol építészeti elemek keveredése.",
+        "Gazdasága a manióka- és földimogyoró-termesztésre épül.",
+        "A belső országrész egyik legbiztonságosabb és legcsendesebb városa.",
+        "A helyi fang közösség kulturális értékeinek fontos bázisa.",
+        "Kiváló közúti összeköttetés a tartományi fővárosok irányába.",
+        "A környező erdők fontos forrásai a hagyományos orvoslásnak."
+      ]
+    },
+    {
+      "id": "mengomeyen-cities-v2",
+      "descriptionAdvanced": "Mengomeyén egy stratégiailag kiemelt fontosságú város Wele-Nzas tartományban, amely leginkább az Obiang Nguema elnök nemzetközi repülőtérről ismert. Ez a modern légiközlekedési létesítmény, amely a 21. század elején készült el, Egyenlítői-Guinea keleti részének, különösen Mongomo városának elsődleges kapujaként szolgál. A település átalakulása egy egyszerű vidéki faluból modern közlekedési csomóponttá jól tükrözi az ország szélesebb körű infrastrukturális fejlesztési céljait. A körülbelül 600 méteres magasságban fekvő Mengomeyén alapvető logisztikai és vendéglátóipari szolgáltatásokat nyújt az utazók számára. Fejlődése ösztönözte a regionális kereskedelmet és jelentősen javította a belső tartományok elérhetőségét a nemzetközi forgalom számára, összekötve a dzsungelt a világgal.",
+      "factsAdvanced": [
+        "Itt található az ország egyik legmodernebb nemzetközi repülőtere.",
+        "A keleti országrész és Mongomo régiójának legfontosabb légi kapuja.",
+        "Strategiai logisztikai központ a szárazföld belsejében.",
+        "Modern szállodai és kiszolgáló infrastruktúrával rendelkezik.",
+        "Kiemelt szerepet játszik a nemzeti decentralizációs programban.",
+        "A repülőtér köré egy teljesen új városrész épült ki.",
+        "A trópusi környezet és a csúcstechnológia találkozási pontja."
+      ]
+    },
+    {
+      "id": "cabo-san-juan-cities-v2",
+      "descriptionAdvanced": "Cabo San Juan egy festői tengerparti település és egy jellegzetes földnyelv Río Muni délnyugati partján, amely az érintetlen fehér homokos strandjairól és kristálytiszta vizéről híres. A terület kiemelt fontosságú természetvédelmi zóna, ahol a trópusi esőerdők közvetlenül találkoznak az Atlanti-óceánnal, egyedülálló élőhelyet teremtve ritka madárfajoknak és tengeri élőlényeknek. Bár történelmileg egy távoli külső állomás volt, mára a fenntartható ökoturizmus egyik legígéretesebb célpontjává vált. A régiót kis halászközösségek lakják, akik megőrizték a hagyományos tengeri életmódot és halászati technikákat, betekintést nyújtva Egyenlítői-Guinea autentikus tengerparti kultúrájába. Cabo San Juan vad szépsége és nyugalma mindenkit lenyűgöz, aki távol akar kerülni a városok zajától.",
+      "factsAdvanced": [
+        "Jellegzetes földnyelv Río Muni délnyugati partvonalán.",
+        "Híres az ország legszebb és legtisztább fehér homokos strandjairól.",
+        "Kritikus jelentőségű partmenti biodiverzitási és védelmi terület.",
+        "Hagyományos kézműves halászközösségek otthona.",
+        "Kiváló lehetőségek az ökoturizmus és a búvárkodás fejlesztésére.",
+        "A trópusi esőerdő és az óceán találkozásának látványos helyszíne.",
+        "Elszigetelt fekvése segít megőrizni a terület érintetlenségét."
+      ]
+    },
+    {
+      "id": "bolondo-cities-v2",
+      "descriptionAdvanced": "Bolondo egy festői tengerparti település közvetlenül a Benito-folyó torkolatától északra, Litoral tartományban. Történelmileg fontos kereskedelmi állomásként a várost ma a csendes strandok és a hagyományos kézműves halászat határozza meg. A helyi gazdaságot erősíti Mbini városának közelsége, amely lehetővé teszi a tengeri termékek és a mezőgazdasági javak gyors cseréjét. Bolondo nyugodt menedéket kínál a látogatóknak Bata nyüzsgő városi központjával szemben, tájképét pedig kókuszpálmák és mangrove-szegélyek teszik egyedivé. A közösség féltve őrzi ősi tengeri hagyományait, a környék pedig egyre ismertebbé válik, mint a belföldi és a nemzetközi tengerparti turizmus egyik ígéretes, természetközeli célpontja az ország szárazföldi részén.",
+      "factsAdvanced": [
+        "Tengerparti település a Benito-torkolat északi peremén.",
+        "A hagyományos atlanti halászati technikák egyik őrzője.",
+        "Strategiai fekvés az északi és déli part menti utak találkozásánál.",
+        "Híres a friss tengeri gyümölcseiről és a piaci kínálatáról.",
+        "A part menti ökoszisztéma gazdag mangrove-erdőkben és madarakban.",
+        "Fontos szerepet játszik Mbini régiójának logisztikai ellátásában.",
+        "A csendes, vidéki tengerparti életmód autentikus helyszíne."
+      ]
+    },
+    {
+      "id": "nkimi-cities-v2",
+      "descriptionAdvanced": "Nkimi egy békés város a szárazföld belsejében, Centro Sur tartományban, amely a környező vidéki falvak társadalmi és közigazgatási központjaként szolgál. A dombos terepen és sűrű trópusi növényzetben megbújó település életét a csendes, közösségközpontú életmód jellemzi. A helyi lakosság elsősorban önellátó gazdálkodással foglalkozik, maniókát, jamgyökeret és trópusi gyümölcsöket termesztve a saját szükségleteikre. Nkimi létfontosságú láncszem a regionális szociális hálózatban, helyszínt biztosítva a helyi piacoknak és közösségi eseményeknek, amelyek összehozzák a szélesebb járás lakóit. Fejlődése az alapvető szolgáltatások, például az egészségügy és az alapfokú oktatás javítására összpontosít, célul tűzve ki a belső területek életminőségének folyamatos emelését.",
+      "factsAdvanced": [
+        "Centro Sur tartomány egyik fontos adminisztratív kisvárosa.",
+        "A környező kistelepülések és falvak központi szolgáltatóhelye.",
+        "Gazdasága a hagyományos családi mezőgazdaságon alapul.",
+        "Dombos trópusi táj és buja vegetáció övezi a települést.",
+        "Híres összetartó közösségéről és hagyományos ünnepeiről.",
+        "Folyamatos fejlesztések az alapfokú oktatás és egészségügy terén.",
+        "A kontinentális belső rész egyik legnyugodtabb lakóhelye."
+      ]
+    }
+  ]
+}

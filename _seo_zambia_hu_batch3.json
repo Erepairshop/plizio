@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mbala-cities-v2",
+      "descriptionAdvanced": "Mbala Zambia legészakibb nagyvárosa, stratégiai fekvésű az Albertine-árok peremén, közel a Tanganjika-tóhoz. A városban található a fontos 'Moto Moto Múzeum', amely kiterjedt gyűjteménnyel rendelkezik Zambia északi régióinak történelméről és kultúrájáról. A tó közelsége és a dombos környezet miatt a város látványos természeti környezettel büszkélkedhet. Mbala ma adminisztratív központként szolgál az északi határvidék számára, emellett stratégiai jelentősége már a gyarmati idők óta meghatározó.",
+      "factsAdvanced": ["Zambia legészakibb nagyvárosa", "A Moto Moto Múzeum otthona", "Közelség a Tanganjika-tóhoz", "Stratégiai határmenti elhelyezkedés", "Magasság: kb. 1670 méter", "Kiemelt adminisztratív központ"]
+    },
+    {
+      "id": "samfya-cities-v2",
+      "descriptionAdvanced": "Samfya a Bangweulu-tó partjának legnagyobb városa, amely a régió fontos halászati kikötőjeként funkcionál. A település festői homokos strandjairól ismert, amelyek révén egyre növekvő célponttá válik a belföldi turizmus számára. A helyi gazdaság nagymértékben a halászatra épül, a tó pedig létfontosságú erőforrást jelent a környező közösségek számára. Samfya példája egy olyan regionális központnak, amelynek identitása elválaszthatatlan a vízforrásoktól és azok fenntartható hasznosításától.",
+      "factsAdvanced": ["A Bangweulu-tó legnagyobb városa", "Jelentős halászkikötő", "Ismert festői homokos strandjairól", "Növekvő belföldi turizmus", "Magasság: kb. 1150 méter", "A Bangweulu-régió gazdasági központja"]
+    },
+    {
+      "id": "sesheke-cities-v2",
+      "descriptionAdvanced": "Sesheke egy fontos határváros a Zambézi-folyó északi partján, a Nyugati Tartományban, amely kapuként szolgál Zambia és Namíbia között. A Katima-Mulilo-híd megnyitása jelentős gazdasági fellendülést hozott a városnak, közvetlen kereskedelmi útvonalat biztosítva a Caprivi-sávon keresztül. Határátkelőként Sesheke dinamikus csomópont a határokon átnyúló kereskedelem és logisztika számára. A várost a Zambézi lenyűgöző folyópartja jellemzi, amely alapvetően meghatározza a lakosság életstílusát.",
+      "factsAdvanced": ["Jelentős határváros Namíbia felé", "Elhelyezkedés a Zambézi-folyó partján", "A Katima-Mulilo-híd otthona", "A határ menti kereskedelem csomópontja", "Magasság: kb. 950 méter", "Fontos logisztikai átrakodóhely"]
+    },
+    {
+      "id": "petauke-cities-v2",
+      "descriptionAdvanced": "Petauke a Keleti Tartomány jelentős mezőgazdasági körzete és városa, amely különösen a gyapot- és kukoricatermesztéséről ismert. A 'Great East Road' mentén elhelyezkedve központi kereskedelmi pontként szolgál a környező kistermelők számára. A város élénk piactérré fejlődött, amely jól tükrözi a régió mezőgazdasági szektorának gazdasági dinamikáját. Petauke alapvető ellátóhelyként működik a környező vidéki közösségek számára, hozzájárulva a régió élelmezésbiztonságához.",
+      "factsAdvanced": ["Jelentős gyapot- és kukoricatermesztő központ", "Elhelyezkedés a Great East Road mentén", "Központi kereskedelmi pont agrártermékekre", "Fontos Keleti Tartománybeli település", "Magasság: kb. 1000 méter", "Alapvető ellátóhely a régió számára"]
+    },
+    {
+      "id": "mumbwa-cities-v2",
+      "descriptionAdvanced": "Mumbwa a Középponti Tartományban fekszik, és stratégiai bejáratként szolgál a Kafue Nemzeti Parkba, Zambia legnagyobb nemzeti parkjába. A város a mezőgazdaság és a kereskedelem fejlődő központja, amely Lusaka és a nyugati tartományok közötti elhelyezkedéséből profitál. Ellátóállomásként az utazók számára és adminisztratív csomópontként a környező vidéki területek számára Mumbwa fontos szerepet játszik a regionális infrastruktúrában. Gazdasága a növénytermesztés és a turisztikai szolgáltatások keveréke.",
+      "factsAdvanced": ["Kapu a Kafue Nemzeti Parkhoz", "Mezőgazdasági és kereskedelmi központ", "Elhelyezkedés a Mongu felé vezető úton", "Fontos adminisztratív csomópont", "Magasság: kb. 1150 méter", "Turisztikai ellátóközpont"]
+    },
+    {
+      "id": "siavonga-cities-v2",
+      "descriptionAdvanced": "Siavonga a Kariba-tó északi partján fekszik, és Zambia egyik legjelentősebb turisztikai célpontjává vált. A város közvetlen hozzáférést biztosít a tározóhoz, és látványos panorámája minden évben számos hazai és külföldi látogatót vonz. A turizmus mellett a halászat döntő szerepet játszik a helyi gazdaságban, mivel a Kariba-tó gazdag élelemforrást biztosít. Siavonga vonzó fekvésének és fejlődő turisztikai infrastruktúrájának köszönhetően kedvelt üdülőhely.",
+      "factsAdvanced": ["Jelentős turisztikai célpont a Kariba-tónál", "Fontos központ a halászat számára", "Fejlődő turisztikai infrastruktúra", "Látványos kilátás a Kariba-medencére", "Magasság: kb. 500 méter", "Szabadidős és üdülési helyszín"]
+    },
+    {
+      "id": "chinsali-cities-v2",
+      "descriptionAdvanced": "Chinsali a Muchinga Tartomány fővárosa, történelmileg jelentős szerepet játszott a zambiai függetlenségi küzdelemben. Tartományi székhelyként az elmúlt években jelentős infrastrukturális fejlesztéseken ment keresztül, új kormányzati épületekkel és javított úthálózattal. A 'Great North Road' melletti elhelyezkedése logisztikai szempontból is kulcsfontosságú. Chinsali a régió adminisztrációjának, igazságszolgáltatásának és fejlődésének központi központja.",
+      "factsAdvanced": ["A Muchinga Tartomány székhelye", "Történelmi jelentőség a függetlenségi mozgalomban", "Fontos logisztikai csomópont", "Tartományi kormányzati központ", "Magasság: kb. 1400 méter", "Az adminisztráció központi egysége"]
+    },
+    {
+      "id": "mpulungu-cities-v2",
+      "descriptionAdvanced": "Mpulungu Zambia egyetlen kikötője a Tanganjika-tavon, amely kulcsfontosságú kapuként szolgál a szomszédos nemzetek, különösen Tanzánia és a Kongói DK felé. A világ második legmélyebb tavának legdélebbi pontján fekve logisztikai központ, amely a vízi áruforgalmat köti össze Zambia szárazföldi részével. A helyi gazdaságot jelentősen meghatározza a kikötői tevékenység és az ahhoz kapcsolódó halászat, amely létfontosságú a régió élelmezésbiztonsága szempontjából.",
+      "factsAdvanced": ["Zambia egyetlen kikötője a Tanganjika-tavon", "Központi kapu a regionális tavi kereskedelemhez", "Jelentős halászközösség", "Fontos csomópont a Kongói DK felé", "Magasság: kb. 780 méter", "Gazdasági összekötő Tanzániával"]
+    },
+    {
+      "id": "senanga-cities-v2",
+      "descriptionAdvanced": "Senanga a Nyugati Tartományban található, a Zambézi-folyó keleti partján, a halászat és az agráripar regionális központja. A folyó közelsége meghatározza a város életét, egyszerre szolgálva a helyi ellátást és a közlekedési útvonalat. A gazdasági struktúra erősen épít a folyó menti erőforrások hasznosítására, ami Senangát a folyóparti vidéki közösségek és az urbánus kereskedelmi állomások közötti híddá teszi. A helyi kultúra és életmód elválaszthatatlan a Zambézi tájától.",
+      "factsAdvanced": ["A Zambézi keleti partján fekvő város", "Fontos központ a halászat számára", "Agrárkereskedelmi szerep a Nyugati Tartományban", "A Zambézi mint életút", "Magasság: kb. 1050 méter", "Kulturális központ a folyóparton"]
+    },
+    {
+      "id": "kaoma-cities-v2",
+      "descriptionAdvanced": "Kaoma jelentős mezőgazdasági város a Nyugati Tartományban, különösen a kukorica, dohány és faanyag termeléséről ismert. A város a környező vidéki régiók ellátóközpontjaként működik, és kedvező fekvése miatt fontos kereskedelmi pont a nyugati Zambián átvezető útvonalon. Gazdasága a termékeny talajra és a helyi erőforrásokra épül, ami a térség élelmezésbiztonságának kulcsfontosságú tényezőjévé teszi. A mezőgazdaság mellett az erdőgazdálkodás szerepe is növekszik a jövedelemtermelésben.",
+      "factsAdvanced": ["Központ a kukorica- és dohánytermesztésben", "Jelentős erdőgazdálkodási központ", "Ellátóközpont a Nyugati Tartományban", "Fontos kereskedelmi pont a Mongu felé vezető úton", "Magasság: kb. 1150 méter", "Kulcstényező a régió élelmezésbiztonságában"]
+    }
+  ]
+}

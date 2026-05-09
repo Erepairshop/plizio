@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "freda-rebecca-gold-mine-economic-v2",
+      "descriptionAdvanced": "A Bindura melletti Freda Rebecca aranybánya Zimbabwe egyik legnagyobb aranykitermelője. A mélyművelésű bányászati műveletek jelentős mélységeket érnek el, így a bánya Mashonaland Central tartomány egyik legfontosabb munkaadója. Az elmúlt években az üzem intenzíven fejlesztette termelési folyamatait a hatékonyság növelése érdekében, hogy tartós és fenntartható módon járuljon hozzá a nemzeti nemesfém-termeléshez és a térség gazdasági stabilitásához.",
+      "factsAdvanced": [
+        "Státusz: Az ország egyik legnagyobb aranytermelője.",
+        "Elhelyezkedés: Bindura mellett, Mashonaland Central tartomány.",
+        "Művelés: Intenzív földalatti bányászat.",
+        "Gazdasági hatás: A régió fő munkaadója.",
+        "Célkitűzés: A termelési hatékonyság folyamatos növelése.",
+        "Jelentőség: Fontos hozzájárulás a nemzeti aranykitermeléshez."
+      ]
+    },
+    {
+      "id": "blanket-gold-mine-economic-v2",
+      "descriptionAdvanced": "A Blanket aranybánya egy jól bejáratott mélyművelésű aranybánya, amely hosszú termelési múlttal rendelkezik. A bányászati komplexum folyamatosan korszerűsíti aknarendszereit, hogy növelje a kitermelést. A stabil energiaellátás biztosítása érdekében a bánya immár részben saját napelemparkjából nyeri az energiát, ami csökkenti a működési költségeket és jelentősen javítja a beruházás energiahatékonyságát, mintaként szolgálva a modern, fenntartható aranybányászati technológiák számára Zimbabwében.",
+      "factsAdvanced": [
+        "Működési múlt: Hosszú történelem az aranytermelésben.",
+        "Korszerűsítés: Az aknarendszerek folyamatos bővítése.",
+        "Fenntarthatóság: Napelemes energiahasználat a működéshez.",
+        "Gazdasági szerep: Stabil és meghatározó szereplő az aranybányászatban.",
+        "Energiahatékonyság: Az országos hálózattól való függés csökkentése.",
+        "Teljesítmény: Kitermelési kapacitás növelése technológiai fejlesztésekkel."
+      ]
+    },
+    {
+      "id": "how-mine-economic-v2",
+      "descriptionAdvanced": "A How bánya jelentős aranykitermelő üzem Bulawayo közvetlen közelében. A bánya kulcsszerepet játszik Zimbabwe második legnagyobb városának helyi gazdaságában, számos munkahelyet teremtve a régióban. A kitermelési folyamatok során modern kohászati eljárásokat alkalmaznak az ércből történő aranykinyerés optimalizálására, ami hosszú távon biztosítja a bányászati projekt jövedelmezőségét. A bánya nemcsak gazdasági, hanem ipari támasza is a Bulawayo környéki agglomerációnak.",
+      "factsAdvanced": [
+        "Elhelyezkedés: Bulawayo város kapujában.",
+        "Gazdasági jelentőség: Központi szerep a helyi gazdaságban.",
+        "Termelési folyamat: Modern kohászati módszerek alkalmazása.",
+        "Foglalkoztatás: Jelentős munkaadó a Bulawayo környéki régióban.",
+        "Fókusz: Az aranykitermelési hozam optimalizálása.",
+        "Ágazat: Aranybányászat és kohászat."
+      ]
+    },
+    {
+      "id": "eureka-gold-mine-economic-v2",
+      "descriptionAdvanced": "A Guruve körzetben található Eureka aranybánya egy nyíltszíni művelésű bánya, amelyen az utóbbi időben jelentős reaktiválási és modernizációs munkálatokat végeztek. Az üzem egy rendkívül fejlett feldolgozósorral rendelkezik, amely lehetővé teszi a hatékony aranyérc-előkészítést. Az egyik legnagyobb bányászati beruházási projektként ebben a körzetben a bánya hozzájárul a helyi foglalkoztatási lehetőségek bővítéséhez és az észak-zimbabwei, mezőgazdasági jellegű régió ipari bázisának erősítéséhez.",
+      "factsAdvanced": [
+        "Elhelyezkedés: Guruve körzet.",
+        "Modernizáció: Átfogó reaktiválás és technikai megújulás.",
+        "Üzem: Magas szintű feldolgozósor.",
+        "Gazdasági hatás: Jelentős bányászati beruházás.",
+        "Foglalkoztatás: Munkahelyek teremtése a körzetben.",
+        "Termelés: Fókusz a hatékony aranyérc-feldolgozáson."
+      ]
+    },
+    {
+      "id": "zisco-steel-works-economic-v2",
+      "descriptionAdvanced": "A Redcliff-ben található Zisco acélművek történelmileg Afrika egyik legnagyobb integrált acélgyártó komplexuma volt, amely évtizedeken át meghatározta a város ipari gerincét. A termelési szünet után jelenleg átfogó törekvések zajlanak a hatalmas kohók revitalizációjára és modernizációjára. A cél az acéltermelés újraindítása a hazai infrastrukturális igények kielégítése és a Midlands tartomány ipari bázisának újraindítása érdekében, ami stratégiai pillér lehet a nemzeti ipari kapacitások kiépítésében.",
+      "factsAdvanced": [
+        "Történelmi jelentőség: Egykor Afrika egyik legnagyobb acélműve.",
+        "Elhelyezkedés: Redcliff, Midlands tartomány.",
+        "Státusz: Aktuális törekvések az ipari újjáélesztésre.",
+        "Ipari örökség: Hosszú ideig a helyi gazdaság szíve.",
+        "Célkitűzés: A hazai acéltermék-igények kielégítése.",
+        "Infrastruktúra: Kohókból és feldolgozóüzemekből álló komplexum."
+      ]
+    }
+  ]
+}

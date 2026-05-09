@@ -1,0 +1,177 @@
+{
+  "lang": "hu",
+  "country": "argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-q-villa-la-angostura-cities-v2",
+      "descriptionAdvanced": "Villa La Angostura, amelyet gyakran „Patagónia kertjeként” emlegetnek, egy festői szépségű hegyi település a Nahuel Huapi-tó északi partján. A falu híres exkluzív, alpesi stílusú építészetéről, ahol a rönkházak és kőépületek tökéletes harmóniában állnak a környező sűrű ciprus- és bükkerdőkkel. Villa La Angostura a Quetrihué-félsziget kapujában fekszik, ahonnan elérhető a világon egyedülálló jégkorszaki mirtuszerdő (Bosque de Arrayanes). A közeli Cerro Bayo síközpont, a kristálytiszta öblök és a Hét Tó Útja közelsége miatt a város az argentin elit és a természetkedvelő utazók egyik legstílusosabb pihenőhelye, ahol a nyugalom és a luxus találkozik.",
+      "factsAdvanced": [
+        "1932. május 15-én alapították.",
+        "Beceneve „El Jardín de la Patagonia” (Patagónia kertje).",
+        "A Quetrihué-félszigeten található különleges mirtuszerdő kapuja.",
+        "Saját butik-síközpontja a Cerro Bayo.",
+        "A Nahuel Huapi Nemzeti Park területén található.",
+        "Híres az „Arany-öböl” (Bahía Mansa) és „Ezüst-öböl” (Bahía Brava) partjairól.",
+        "A Hét Tó Útja (Ruta de los Siete Lagos) déli szakaszán fekszik.",
+        "Szigorú építészeti szabályok őrzik a falu egységes hegyi arculatát."
+      ]
+    },
+    {
+      "id": "ar-r-bariloche-cities-v2",
+      "descriptionAdvanced": "San Carlos de Bariloche az argentin Patagónia legismertebb turisztikai központja, amely a Nahuel Huapi-tó partján, az Andok hófödte csúcsai között fekszik. A várost a 20. század elején alapították európai telepesek, aminek köszönhetően máig meghatározó az alpesi stílusú építészet és a híres helyi csokoládégyártás. Bariloche „Dél-Amerika Svájca” néven is ismert, télen a Cerro Catedral síközpont vonzza a sportolókat, nyáron pedig a tavak, gleccserek és erdők kínálnak végtelen túrázási lehetőséget. A város vibráló kulturális élettel, világszínvonalú szállodákkal és fontos tudományos intézményekkel rendelkezik, így egyszerre kozmopolita metropolisz és a patagóniai vadon kapuja.",
+      "factsAdvanced": [
+        "Hivatalosan 1902. május 3-án alapították.",
+        "A Nahuel Huapi Nemzeti Park legfontosabb városa.",
+        "Itt található a déli félteke egyik legnagyobb sípályarendszere, a Cerro Catedral.",
+        "Világszerte híres kézműves csokoládéiról és sörfőzdéiről.",
+        "Központja, a Centro Cívico nemzeti történelmi emlékhely.",
+        "Itt működik a Balseiro Intézet, az ország vezető fizikai kutatóközpontja.",
+        "A város neve a mapuche 'vuriloche' szóból ered (emberek a hegy mögött).",
+        "A híres Circuito Chico útvonal indulópontja."
+      ]
+    },
+    {
+      "id": "ar-j-san-juan-cities-v2",
+      "descriptionAdvanced": "San Juan az azonos nevű tartomány fővárosa az ország nyugati részén, a Cuyo-régióban, amely híres modern és rendezett városképéről. Az 1562-ben alapított települést egy 1944-es katasztrofális földrengés szinte teljesen elpusztította, ezért a várost teljesen újjáépítették széles sugárutakkal, földrengésbiztos épületekkel és buja növényzetű parkokkal. San Juan Argentína második legfontosabb bortermelő vidéke, különösen a Syrah szőlőfajta hazájaként ismert. A város fontos kulturális központ, itt született Domingo Faustino Sarmiento, az ország egyik legjelentősebb államférfija és oktatási reformere. A közeli Ischigualasto Nemzeti Park (Hold-völgy) és a hófödte Andok közelsége miatt a város a természetjárók kedvelt bázisa.",
+      "factsAdvanced": [
+        "1562. június 13-án alapította Juan Jufré.",
+        "Az 1944-es földrengés után mintaszerűen újjáépítették.",
+        "Argentína második legfontosabb bortermelő tartományának székhelye.",
+        "Itt található Sarmiento szülőháza, amely ma nemzeti múzeum.",
+        "A modern San Juan-i katedrális az ország egyik legkülönlegesebb vallási épülete.",
+        "Híres az Ischigualasto Nemzeti Park felé vezető túrák kiindulópontjaként.",
+        "A tartományban található a világ egyik legfontosabb csillagászati obszervatóriuma.",
+        "Éghajlata száraz, sivatagi, évi több mint 300 napsütéses nappal."
+      ]
+    },
+    {
+      "id": "ar-d-san-luis-cities-v2",
+      "descriptionAdvanced": "San Luis városa a Sierra de San Luis hegység lábánál fekszik, és az ország központi-nyugati részének egyik legdinamikusabb tartományi fővárosa. Az 1594-ben alapított település megőrizte békés, vidéki hangulatát, miközben az utóbbi évtizedekben jelentős ipari és technológiai fejlesztések helyszínévé vált. A város környékén számos természetes víztározó és hegyi üdülőfalu található, mint például Potrero de los Funes, amely híres versenypályájáról és taváról. San Luis lakói büszkék történelmi szerepükre a függetlenségi háborúkban, és a város ma is fontos kulturális csomópont. A tiszta levegő, a rendezett utcák és a környező hegyek látványa San Luist az ország egyik legélhetőbb és legnyugodtabb nagyvárosává teszi.",
+      "factsAdvanced": [
+        "1594-ben alapították San Luis de Loyola Nueva Medina de Río Seco néven.",
+        "San Luis tartomány politikai és közigazgatási központja.",
+        "Itt található a különleges, modern Terrazas del Portezuelo kormányzati negyed.",
+        "A Sierra de San Luis hegység déli lábánál, 710 méteres magasságban fekszik.",
+        "Híres a közeli Potrero de los Funes víztározóról és autóverseny-pályájáról.",
+        "Fontos ipari központ, köszönhetően a speciális adókedvezményes zónáknak.",
+        "Itt működik a San Luis-i Nemzeti Egyetem (UNSL).",
+        "A város egy száraz, de öntözéssel zöldített völgyben terül el."
+      ]
+    },
+    {
+      "id": "ar-d-villa-mercedes-cities-v2",
+      "descriptionAdvanced": "Villa Mercedes San Luis tartomány második legfontosabb városa és egyben az ország egyik legjelentősebb ipari és logisztikai központja. Az 1856-ban katonai erődítményként alapított település a Quinto folyó partján fekszik, stratégiai helyen az ország kelet-nyugati kereskedelmi útvonalán. A város híres a „Calle Angosta” (Keskeny utca) nevű kulturális negyedéről, amely egyben egy világszerte ismert népzenei fesztivál névadója is. Villa Mercedes modern ipari parkjaiban számos nemzetközi vállalat működik, de a város megőrizte parkjait és folyóparti pihenőövezeteit is. A település a fejlődés és a hagyományőrzés érdekes elegyét nyújtja, pezsgő kulturális élettel és erős gazdasági háttérrel.",
+      "factsAdvanced": [
+        "1856. december 1-jén alapították Fortín Constitucional néven.",
+        "San Luis tartomány legjelentősebb ipari és kereskedelmi városa.",
+        "A Quinto folyó (Río V) partján terül el.",
+        "Itt rendezik meg a híres Fiesta Nacional de la Calle Angosta népzenei ünnepet.",
+        "Fontos vasúti és közúti csomópont Buenos Aires és Mendoza között.",
+        "Híres a „La Pedrera” szabadidő- és sportparkjáról, amely egy modern stadiont is tartalmaz.",
+        "Erős egyetemi élettel rendelkezik, saját műszaki és agrár karokkal.",
+        "A város rajza szabályos, tágas sugárutakkal és sok zöldterülettel."
+      ]
+    },
+    {
+      "id": "ar-z-rio-gallegos-cities-v2",
+      "descriptionAdvanced": "Río Gallegos Santa Cruz tartomány fővárosa és az argentin kontinens egyik legdélebbi nagyvárosa, amely a Gallegos folyó torkolatánál fekszik. Az 1885-ben alapított település fontos közigazgatási, katonai és gazdasági központ a zord patagóniai sztyeppén. Történelme szorosan összefonódik a 20. század eleji juhászat virágkorával, mára pedig az olaj- és gázipar, valamint a turizmus határozza meg a fejlődését. Río Gallegos a 3-as nemzeti út végpontja és fontos kapu a Cabo Vírgenes pingvinrezervátum, valamint a dél-andoki gleccserek felé. A város múzeumaiban megismerhető a patagóniai pionírok hősies élete, míg a folyóparti sétány és az élénk kereskedelmi élet modern karaktert ad a „világ végén” fekvő fenséges fővárosnak.",
+      "factsAdvanced": [
+        "1885. december 19-én alapították tengerészeti alprefektúraként.",
+        "Santa Cruz tartomány közigazgatási és politikai fővárosa.",
+        "Az argentin szárazföld egyik legdélebbi városa, 2600 km-re Buenos Airestől.",
+        "Stratégiai bázis az antarktiszi expedíciók és a déli-atlanti szigetek számára.",
+        "Híres a közeli Cabo Vírgenesről, ahol a 40-es út 0. kilométere található.",
+        "Erős brit és horvát bevándorlói múltja van, ami az építészeten is látszik.",
+        "A torkolatvidék a világ egyik legnagyobb árapály-különbségével rendelkezik.",
+        "Itt működik a dél-patagóniai egyetem (UNPA) központja."
+      ]
+    },
+    {
+      "id": "ar-z-el-calafate-cities-v2",
+      "descriptionAdvanced": "El Calafate az argentin Patagónia turisztikai gyöngyszeme, amely az Argentino-tó déli partján fekszik, és a világhírű Perito Moreno-gleccser kapujaként ismert. Az egykor aprócska gyapjúszállító falu mára modern kisvárossá fejlődött, amely világszínvonalú szolgáltatásokkal várja a gleccserekhez érkező utazókat. A város nevét egy jellegzetes patagóniai bogyós cserjéről kapta, amelyből ízletes lekvárt és likőrt készítenek a helyiek. El Calafate különleges mikroklímával rendelkezik a tavak közelsége miatt, főutcáját pedig elegáns üzletek, éttermek és csokoládéboltok díszítik. A város fontos ökológiai központ is, itt található a Glaciarium múzeum, amely a jégmezők titkait mutatja be, és a Nimez-lagúna madárrezervátuma, ahol flamingók is megfigyelhetőek.",
+      "factsAdvanced": [
+        "1927-ben alapították, nevét a sárga virágú patagóniai sóskafa (calafate) után kapta.",
+        "A Los Glaciares Nemzeti Park és a Perito Moreno-gleccser fő bázisa.",
+        "Az Argentino-tó partján fekszik, amely az ország legnagyobb tava.",
+        "Saját nemzetközi repülőtere a patagóniai turizmus egyik legforgalmasabb pontja.",
+        "Itt található a Glaciarium, egy modern gleccserkutató és bemutató központ.",
+        "A város környéke híres a hagyományos patagóniai báránysültről (asado).",
+        "A Nimez-lagúna fontos megállóhely a vándormadarak számára.",
+        "A legenda szerint aki calafate bogyót eszik, az visszatér Patagóniába."
+      ]
+    },
+    {
+      "id": "ar-s-santa-fe-cities-v2",
+      "descriptionAdvanced": "Santa Fe, az „Alkotmány Bölcsője”, az azonos nevű tartomány történelmi fővárosa, amely a Salado és a Paraná folyók találkozásánál fekszik. Az 1573-ban alapított város kulcsszerepet játszott Argentína születésében, hiszen itt írták alá 1853-ban az ország első szövetségi alkotmányát. Santa Fe ma egy vibráló kulturális és oktatási központ, ahol a gyarmati örökség (mint a ferences kolostor) és a modern városfejlesztés harmonikusan keveredik. A város jelképe a monumentális függőhíd (Puente Colgante) és a Setúbal-lagúna mentén húzódó sétány (Costanera). Híres sörfőző hagyományairól, egyedi folyami gasztronómiájáról és élénk diákéletéről, amit a rangos Nemzeti Egyetem (UNL) biztosít.",
+      "factsAdvanced": [
+        "1573. november 15-én alapította Juan de Garay.",
+        "Az 1853-as argentin alkotmány megszületésének helyszíne.",
+        "Santa Fe tartomány közigazgatási és vallási központja.",
+        "Itt található a híres Puente Colgante (függőhíd), a város fő ikonja.",
+        "Argentína sörfőző fővárosaként is emlegetik (Cerveza Santa Fe).",
+        "Híres az „alfajor santafesino” édességről és a folyami halételekről.",
+        "A Hernandarias alagút köti össze a szomszédos Paraná várossal.",
+        "Itt működik az ország egyik legrégebbi és legnevesebb egyeteme (UNL)."
+      ]
+    },
+    {
+      "id": "ar-s-rosario-cities-v2",
+      "descriptionAdvanced": "Rosario Argentína harmadik legnagyobb városa és a Paraná folyó menti régió lüktető gazdasági és kulturális központja. A „Zászló Bölcsőjeként” ismert városban vonta fel Manuel Belgrano először az argentin nemzeti lobogót 1812-ben, aminek tiszteletére épült a monumentális Nemzeti Zászló Emlékmű. Rosario hatalmas gabonakikötőjével az ország mezőgazdasági exportjának motorja, de emellett modern építészetéről, art déco palotáiról és pezsgő kulturális életéről is híres. Itt született Che Guevara és a futball-legenda Lionel Messi is, ami globális ismertséget ad a településnek. A város végtelen folyóparti parkjai, széles sugárútjai és a szenvedélyes futballkultúra egyedülálló, kozmopolita atmoszférát teremtenek.",
+      "factsAdvanced": [
+        "Nincs hivatalos alapítási dátuma, 1852-ben kapott városi rangot.",
+        "A Monumento Nacional a la Bandera a város legfontosabb jelképe.",
+        "Argentína legfontosabb gabonakiviteli és élelmiszeripari kikötője.",
+        "Che Guevara és Lionel Messi szülővárosa.",
+        "A Paraná folyó partján fekszik, hatalmas zöldterületekkel és parkokkal.",
+        "Híres art nouveau és modernista építészeti örökségéről.",
+        "Itt található a Rosario-Victoria híd, amely Entre Ríos tartományba vezet.",
+        "Dinamikus egyetemi város, gazdag színházi és zenei élettel."
+      ]
+    },
+    {
+      "id": "ar-g-santiago-del-estero-cities-v2",
+      "descriptionAdvanced": "Santiago del Estero Argentína legrégebbi, folyamatosan lakott városa, amelyet a „Városok Anyjaként” (Madre de Ciudades) emlegetnek. Az 1553-ban alapított település a Dulce folyó partján fekszik, és innen indultak azok az expedíciók, amelyek számos más észak-argentin várost létrehoztak. A város a nemzeti folklór és népzene szíve, ahol a „chacarera” és a „bombo legüero” ritmusa minden utcasarkon érezhető. Bár az éghajlat forró és száraz, Santiago del Estero lakói híresek vendégszeretetükről és hagyományőrzésükről. A történelmi katedrális, a Cabildo és a modern Bicentenario Kulturális Központ mellett a város a modern fejlesztések útjára is rálépett, megőrizve mélyen gyökerező andoki és spanyol örökségét.",
+      "factsAdvanced": [
+        "1553. július 25-én alapította Francisco de Aguirre.",
+        "Az ország legrégebbi városa, amely az eredeti helyén maradt.",
+        "Santiago del Estero tartomány fővárosa a Dulce folyó mentén.",
+        "Beceneve „Madre de Ciudades”, mivel számos más alapítás bölcsője volt.",
+        "Az argentin népzene, különösen a chacarera országos központja.",
+        "Itt található a modern Bicentenario Kulturális Központ (CCB).",
+        "Híres a „Marcha de los Bombos” nevű hatalmas dobos felvonulásról.",
+        "Környékén még ma is beszélik a kecsua nyelv helyi változatát."
+      ]
+    },
+    {
+      "id": "ar-v-ushuaia-cities-v2",
+      "descriptionAdvanced": "Ushuaia, a „Világ Vége” (El Fin del Mundo), a Föld legdélebbi városa, amely drámai helyszínen, a Beagle-csatorna és a havas Martial-hegység között fekszik. Tűzföld tartomány fővárosaként ez az első számú kiindulópont az antarktiszi expedíciók számára és a természetbarátok álomúticélja. A város története szorosan összefonódott az egykori távoli börtönteleppel, amelynek épülete ma izgalmas múzeumnak ad otthont. Ushuaia ma egy virágzó turisztikai és ipari központ, amely olyan élményeket kínál, mint a hajózás a Beagle-csatornán, síelés a Cerro Castoron, vagy a Tierra del Fuego Nemzeti Park felfedezése. Különleges fekvése, színes házai és a „Világ Vége Vonat” felejthetetlen, misztikus hangulatot kölcsönöznek a városnak.",
+      "factsAdvanced": [
+        "1884. október 12-én alapították az argentin haditengerészet bázisaként.",
+        "A világ legdélebbi városa (déli szélesség 54°).",
+        "Az antarktiszi hajóutak több mint 90%-ának kiindulópontja.",
+        "Itt működik a „Tren del Fin del Mundo” (A világ vége vonat).",
+        "Egykori hírhedt börtöne ma a Tengerészeti és Börtönmúzeumnak ad otthont.",
+        "A közeli Cerro Castor a világ legdélebbi síközpontja.",
+        "Híres tengeri gasztronómiájáról, különösen az óriás rákról (centolla).",
+        "A Beagle-csatorna partján fekszik, nevét a Yámana indiánoktól kapta."
+      ]
+    },
+    {
+      "id": "ar-t-san-miguel-de-tucuman-cities-v2",
+      "descriptionAdvanced": "San Miguel de Tucumán Argentína északnyugati részének legfontosabb városa, amelyet a „Nemzet Bölcsőjeként” tisztelnek. Itt kiáltották ki 1816. július 9-én az ország függetlenségét a spanyol koronától, aminek emléket a Casa Histórica de Tucumán múzeum őriz. Az 1565-ben alapított város egy termékeny szubtrópusi völgyben fekszik, és az ország egyik legnagyobb cukornád- és citrusfélék-termelő vidéke, emiatt kapta az „Észak Kertje” becenevet. Tucumán vibráló egyetemi és kulturális központ, ahol a gyarmati emlékek, a pezsgő éjszakai élet és a dús, zöld andoki előhegyek különleges egyveleget alkotnak. A város nemcsak történelmi szimbólum, hanem a régió gazdasági motorja és az északnyugati közlekedés legfőbb csomópontja.",
+      "factsAdvanced": [
+        "1565. május 31-én alapították, 1685-ben költöztették mai helyére.",
+        "Itt írták alá az argentin függetlenségi nyilatkozatot 1816-ban.",
+        "Tucumán tartomány fővárosa és Északnyugat-Argentína legnagyobb városa.",
+        "Beceneve „El Jardín de la República” (A Köztársaság kertje).",
+        "Az ország egyik legfontosabb cukor- és citromtermelő központja.",
+        "Híres a Casa Histórica de Tucumán nevű nemzeti emlékhelyről.",
+        "Itt található a hatalmas és gyönyörű Parque 9 de Julio.",
+        "Élénk egyetemi város, az UNT az egyik legrangosabb argentin egyetem."
+      ]
+    }
+  ]
+}

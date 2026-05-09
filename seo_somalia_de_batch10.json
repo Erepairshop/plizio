@@ -1,0 +1,48 @@
+{
+  "lang": "de",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "macajilayn-ruins-history-v2",
+      "descriptionAdvanced": "Die Macajilayn Ruinen, versteckt im rauen und zerklüfteten Bergland der Region Sanaag, sind ein Zeugnis einer historischen Siedlung, die einst über bedeutende Handelsbeziehungen zum Jemen und darüber hinaus verfügte. Die Fundamente alter Moscheen weisen darauf hin, dass die Siedlung ein Zentrum für religiöses und soziales Leben war, das in die Handelsnetzwerke der Region fest integriert war. Obwohl die Stätte geografisch schwer zugänglich ist, liefert sie wertvolle Einblicke in die Verbreitung islamischer Architektur und Kultur in entlegene Gebiete Somalias. Macajilayn bleibt ein bedeutendes Beispiel für die Anpassung städtischer Strukturen an die schwierigen topografischen Gegebenheiten des somalischen Hinterlandes.",
+      "factsAdvanced": [
+        "Historische Siedlungsruinen im zerklüfteten Sanaag-Gebirge.",
+        "Frühere Handelsbeziehungen zum Jemen und dem Nahen Osten.",
+        "Fundamente alter Moscheen belegen religiöses Leben.",
+        "Strategische Bedeutung für den Handel im somalischen Hinterland.",
+        "Einblicke in die Verbreitung islamischer Architektur.",
+        "Symbol für die Anpassungsfähigkeit städtischer Strukturen.",
+        "Bedeutsamer archäologischer Ort für die Region Sanaag."
+      ]
+    },
+    {
+      "id": "bender-qassim-old-town-history-v2",
+      "descriptionAdvanced": "Bender Qassim, heute weithin als Bosaso bekannt, blickt auf eine lange Geschichte als historischer Knotenpunkt der Küstenregion zurück. Die alten Strukturen des Stadtkerns dokumentieren die Entwicklung von einem maritimen Handelsposten zu einem zentralen Knotenpunkt für den Export von Weihrauch, der seit dem 14. Jahrhundert florierte. Als Hafenstadt war Bender Qassim über Jahrhunderte ein Umschlagplatz, an dem somalische Produkte auf globale Handelsrouten trafen. Die historischen Gebäude der Altstadt spiegeln die wirtschaftliche Kontinuität und den kulturellen Austausch wider, der Bosaso zu einem unverzichtbaren Bestandteil der somalischen Küstenwirtschaft machte.",
+      "factsAdvanced": [
+        "Historischer Name von Bosaso, einer der wichtigsten Hafenstädte.",
+        "Bedeutender Knotenpunkt für den Weihrauch-Export.",
+        "Florierendes Handelszentrum seit dem 14. Jahrhundert.",
+        "Wichtiger Umschlagplatz an globalen maritimen Handelsrouten.",
+        "Spiegelt wirtschaftliche Kontinuität der Küstenregion wider.",
+        "Historischer Kern als Symbol der somalischen Handelsgeschichte.",
+        "Wichtiger Ort für die Erforschung der somalischen maritimen Ökonomie."
+      ]
+    },
+    {
+      "id": "eyl-dervish-fort-history-v2",
+      "descriptionAdvanced": "Die Eyl Derwisch Festung ist ein zentrales militärisches Monument der Derwisch-Bewegung unter der Führung von Sayyid Mohammed Abdullah Hassan und steht exemplarisch für den somalischen Widerstand gegen die Kolonialmächte. Erbaut um das Jahr 1904, spiegelt das Fort die spezifische militärische Architektur wider, die für die Derwische notwendig war, um in der unwegsamen Küstenlandschaft von Eyl zu agieren. Das Bauwerk ist heute eine bedeutende Stätte, die an die Zeit der Kämpfe um die somalische Souveränität erinnert. Besucher erhalten hier einen tiefen Einblick in eine militärische Strategie, die die somalische Identität des frühen 20. Jahrhunderts maßgeblich beeinflusst hat.",
+      "factsAdvanced": [
+        "Wichtiges Fort der Derwisch-Bewegung um 1904.",
+        "Unterführung von Sayyid Mohammed Abdullah Hassan.",
+        "Symbol für den Widerstand gegen koloniale Mächte.",
+        "Architektonisches Beispiel für militärische Anlagen der Derwische.",
+        "Bedeutsamer Ort für die somalische Souveränitätsgeschichte.",
+        "Strategische Lage in der Küstenlandschaft von Eyl.",
+        "Erforscht als wichtiges Militärmonument Somalias."
+      ]
+    }
+  ]
+}

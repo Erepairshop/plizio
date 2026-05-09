@@ -1,0 +1,57 @@
+{
+  "lang": "de",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zambezi-river-nature-v2",
+      "descriptionAdvanced": "Der Sambesi ist mit einer Länge von etwa 2574 Kilometern der viertlängste Fluss Afrikas und prägt die Landschaft Sambias maßgeblich. Er entspringt im Nordwesten Sambias und durchfließt auf seinem langen Weg zum Indischen Ozean spektakuläre Abschnitte, darunter die weltbekannten Victoriafälle an der Grenze zu Simbabwe. Der Fluss bildet eine zentrale Lebensader für die lokale Tierwelt, besonders in den zahlreichen Schutzgebieten an seinen Ufern. Er ist zudem ein entscheidender Faktor für die Energiegewinnung des Landes, da er mehrere bedeutende Staudämme speist.",
+      "factsAdvanced": [
+        "Länge ca. 2574 Kilometer",
+        "Viertlängster Fluss des afrikanischen Kontinents",
+        "Wichtiger Lebensraum für Flusspferde und Krokodile",
+        "Speist den Kariba-Stausee, einen der größten der Welt",
+        "Bildet an der Grenze zu Simbabwe die berühmten Victoriafälle",
+        "Bedeutende Wasserstraße für die regionale Wirtschaft"
+      ]
+    },
+    {
+      "id": "victoria-falls-nature-v2",
+      "descriptionAdvanced": "Die Victoriafälle, lokal als 'Mosi-oa-Tunya' bekannt, gelten als einer der beeindruckendsten Wasserfälle der Welt und gehören zum UNESCO-Welterbe. Hier stürzt der Sambesi auf einer Breite von etwa 1708 Metern bis zu 108 Meter in die Tiefe, was ein ohrenbetäubendes Tosen und eine permanente Gischt erzeugt. Dieses Naturspektakel schafft ein einzigartiges Mikroklima im umgebenden Regenwald, das eine spezialisierte Flora und Fauna beherbergt. Die Wasserfälle sind ein zentrales Symbol der sambischen Natur und ein bedeutendes Ziel für den internationalen Ökotourismus.",
+      "factsAdvanced": [
+        "UNESCO-Weltnaturerbe seit 1989",
+        "Lokaler Name 'Mosi-oa-Tunya' bedeutet 'donnernder Rauch'",
+        "Maximale Fallhöhe beträgt etwa 108 Meter",
+        "Die Breite der Wasserfälle erreicht ca. 1708 Meter",
+        "Schafft ein einzigartiges Mikroklima im Regenwald",
+        "Beheimatet zahlreiche seltene endemische Pflanzenarten"
+      ]
+    },
+    {
+      "id": "lake-kariba-nature-v2",
+      "descriptionAdvanced": "Der Kariba-Stausee ist der weltweit größte von Menschenhand geschaffene Stausee, gemessen am Wasservolumen. Er entstand Ende der 1950er Jahre durch den Bau der mächtigen Kariba-Staumauer an der Grenze zwischen Sambia und Simbabwe. Der See erstreckt sich über eine beeindruckende Fläche und hat die lokale Ökologie stark verändert, indem er weite Teile der ursprünglichen Sambesi-Auen überflutete. Er ist nicht nur ein essentieller Lieferant für elektrische Energie für Sambia, sondern auch ein bedeutendes Zentrum für die Fischereiindustrie und ein touristisches Ziel für Safari-Begeisterte.",
+      "factsAdvanced": [
+        "Größter künstlicher Stausee der Welt nach Volumen",
+        "Fläche beträgt etwa 5580 Quadratkilometer",
+        "Staudamm wurde zwischen 1955 und 1959 erbaut",
+        "Zentraler Bestandteil der nationalen Stromversorgung",
+        "Wichtiges Fanggebiet für Kapenta-Fische",
+        "Lebensraum für zahlreiche Krokodile und Flusspferde"
+      ]
+    },
+    {
+      "id": "kalahari-desert-nature-v2",
+      "descriptionAdvanced": "Die Kalahari ist ein ausgedehntes Halbwüstengebiet, das sich über weite Teile des südlichen Afrikas erstreckt, einschließlich westlicher Regionen Sambias. Entgegen der landläufigen Meinung handelt es sich nicht um eine klassische Wüste, sondern um eine sandige Ebene mit einer erstaunlich robusten Flora und Fauna. Die sandigen Böden absorbieren Niederschläge schnell, was die Landschaft anpassungsfähig für spezifische Gräser und Akazien macht. Sie bietet traditionellen Gemeinschaften, wie den San, einen angestammten Lebensraum und beherbergt eine spezialisierte Tierwelt, die an die harten, trockenen Bedingungen angepasst ist.",
+      "factsAdvanced": [
+        "Sandiges Becken mit semiaridem Klima",
+        "Geologisch als Kalahari-Becken bezeichnet",
+        "Keine echte Wüste aufgrund der Vegetation",
+        "Heimat der indigenen San-Bevölkerung",
+        "Dominante Vegetation: Akazien und Dornensträucher",
+        "Tiere haben Strategien zur Wasserspeicherung entwickelt"
+      ]
+    }
+  ]
+}

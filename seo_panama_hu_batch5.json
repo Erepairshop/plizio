@@ -1,0 +1,64 @@
+{
+  "lang": "hu",
+  "country": "panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "criadero-cocodrilos-panama-life-v2",
+      "descriptionAdvanced": "A panamai krokodilfarmok – különösen a központi tartományokban vagy a Dariénben található telepek – kettős szerepet töltenek be: gazdaságit és ökológiait. Ezek a létesítmények a Caiman crocodilus és az amerikai krokodil (Crocodylus acutus) fajok megőrzésére szakosodtak, amelyek történelmileg a túlzott vadászat miatt kerültek veszélybe. Az ellenőrzött tenyésztési programok révén a központok lehetővé teszik a példányok szabadon bocsátását a természetbe az állomány megőrzése érdekében, de lehetővé teszik a bőr és a hús fenntartható felhasználását is, a CITES által szabályozott körülmények között. A látogatók megismerhetik ezeknek az ősi hüllőknek a lenyűgöző biológiáját, a vízi ökoszisztémák egészségének megőrzésében betöltött csúcsragadozó szerepüket, valamint a vidéki területeken az ember és krokodil közötti együttéléshez szükséges biztonsági intézkedéseket. Természettudomány K8 — Vadvilág-gazdálkodás és veszélyeztetett fajok védelme.",
+      "factsAdvanced": [
+        "Monitorozza a hüllők életciklusát a tojástól a felnőttkorig.",
+        "Oktatja a helyi lakosságot az ember-krokodil konfliktusok megelőzésére.",
+        "A példányokat a helyi folyókba való visszaengedés előtt megjelölik.",
+        "A panamai krokodilbőr a luxusdivatiparban is keresett.",
+        "A központ hozzájárul a közép-amerikai hüllők genetikai vizsgálatához."
+      ]
+    },
+    {
+      "id": "finca-agroecologica-panama-life-v2",
+      "descriptionAdvanced": "A panamai agroökológiai farmok (Fincas Agroecológicas) – különösen a Coclé és Chiriquí hegyvidéki régióiban – növekvő választ adnak a konvencionális mezőgazdasági ágazat hatalmas környezeti problémáira, mint például az erdőirtás és a növényvédő szer terhelés. Ezek a farmok teljesen elhagyják a szintetikus vegyszereket, és olyan módszereket alkalmaznak, mint a vetésforgó, a természetes kártevőirtás és a saját komposztálási rendszerek. Sokan közülük az 'Agroturismo' hálózat részei, amely lehetővé teszi a látogatók számára, hogy ott aludjanak, segítsenek a kávé- vagy zöldségszüretben, és közvetlenül a 'Farm-to-Table' (földtől az asztalig) elv szerint étkezzenek. Ezek a kezdeményezések elengedhetetlenek a talaj egészségének megőrzéséhez és a helyi ökoszisztémák helyreállításához. Földrajz K8 — Fenntartható mezőgazdaság és ökoturizmus.",
+      "factsAdvanced": [
+        "Teljesen mellőzi a szintetikus műtrágyákat és növényvédő szereket.",
+        "A természetes komposztálásra és a hagyományos vetésforgóra épít.",
+        "Fontos része a panamai 'Agroturismo' szektornak.",
+        "A látogatók segíthetnek a betakarításban és megtapasztalhatják a 'Farm-to-Table' konyhát.",
+        "Pufferzónákat és folyosókat hoz létre a vadállatok számára a nemzeti parkok szélén."
+      ]
+    },
+    {
+      "id": "zoologico-nacional-panama-life-v2",
+      "descriptionAdvanced": "A Panamai Nemzeti Állatkertnek nevezett intézmény szorosan kapcsolódik a Summit Városi Parkhoz, mivel Panama nem üzemeltet klasszikus értelemben vett, nagyüzemi kereskedelmi állatkertet. Az ország filozófiája inkább a mentőközpontokra és a védett területekre összpontosít. A Summit Park zoológiai létesítményei szinte kizárólag olyan őshonos fajokra helyezik a hangsúlyt, amelyek az erdőirtás vagy az illegális állatkereskedelem ('mascotismo') miatt kerültek bajba. Itt a látogatók nem afrikai oroszlánokat vagy elefántokat találnak, hanem tapírokat, jaguárokat, mókusmajmokat és a fenséges hárpiászolyt. A kifutókat úgy alakították ki, hogy utánozzák a trópusi esőerdő természetes élőhelyét, és a létesítmény elsősorban oktatási központként szolgál a természetvédelem számára. Biológia K7 — Őshonos fauna és állatmentés.",
+      "factsAdvanced": [
+        "Szorosan integrálva a Summit Városi Parkba, a csatorna közelében.",
+        "Lemondott az egzotikus állatokról (például elefántok) az őshonos fauna javára.",
+        "Az állatok többségét illegális magánkézből vagy csempészektől mentették meg.",
+        "A kifutók a természetes esőerdő körülményeit utánozzák.",
+        "A fő hangsúly a rehabilitáción és a környezeti nevelésen van."
+      ]
+    },
+    {
+      "id": "granja-educativa-panama-life-v2",
+      "descriptionAdvanced": "A Panama-város és Panama Oeste környékén található oktatási farmok (Granjas Educativas), mint például a Granja Alternativa, az alkalmazott tanulás helyszínei. A rendkívül gyorsan urbanizálódó országban sok városi gyerek elveszíti a kapcsolatát élelmiszerük eredetével. Ezek a farmok iskolai kirándulásokat kínálnak, ahol a gyerekek megtanulják, hogyan készítsenek zöldségeságyásokat, hogyan etessék a haszonállatokat – például csirkéket, kecskéket és teheneket –, valamint megértik a komposztálás és az újrahasznosítás alapjait. Ezenkívül elősegítik a fenntartható permakultúra és az önellátás fogalmait, hogy a fiatalabb generációval megértessék az ökológiai egyensúly és a fenntartható mezőgazdaság fontosságát az éghajlatváltozás elleni küzdelemben. Ismeretismeret K5 — Mezőgazdasági oktatás és fenntarthatóság.",
+      "factsAdvanced": [
+        "Olyan speciális gazdaságok, amelyek iskolai osztályokra és családi kirándulásokra szakosodtak.",
+        "Céljuk, hogy a városi gyerekeknek megmutassák az élelmiszerek eredetét és termelését.",
+        "Gyakorlati órákat kínálnak állatgondozásból, növénytermesztésből és komposztálásból.",
+        "Elősegítik a fenntartható permakultúra és a környezetvédelem tudatosítását.",
+        "Ellensúlyozzák a városi lakosság természetből való fokozatos elidegenedését."
+      ]
+    },
+    {
+      "id": "parque-infantil-santiago-life-v2",
+      "descriptionAdvanced": "A Juan Demóstenes Arosemena Park Santiago városának, Veraguas tartomány fővárosának központja. Ez a kiterjedt, zöld tér a város társadalmi központja, amely a játszóterek mellett egy kis szabadtéri színpadnak is helyet ad. A teret a Santiago Apóstol-katedrális és a történelmi Normáliskola (Escuela Normal), az ország legfontosabb tanárképzője veszi körül. A késő délutáni órákban a park megtelik családokkal, diákokkal és utcai árusokkal. Ez egy kiváló példa arra, hogyan használják a panamai tartományi fővárosok a közterületeket a közösségi érzés erősítésére, és hogyan biztosítanak a gyerekek számára biztonságos, hozzáférhető pihenőhelyeket a forgalomtól távol. Ismeretismeret K5 — Tartományi fővárosok központjai.",
+      "factsAdvanced": [
+        "Santiago városának (Veraguas tartomány) társadalmi központja.",
+        "Egykori panamai elnökről nevezték el.",
+        "A katedrális és a történelmileg fontos tanárképző (Escuela Normal) övezi.",
+        "Szabadtéri színpadokat és biztonságos játszótereket kínál a gyerekeknek.",
+        "Fontos találkozóhely diákok, családok és utcai árusok számára."
+      ]
+    }
+  ]
+}

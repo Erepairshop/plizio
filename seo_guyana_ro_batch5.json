@@ -1,0 +1,48 @@
+{
+  "lang": "ro",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rupununi-savanna-relief-v2",
+      "descriptionAdvanced": "Savana Rupununi este o bijuterie dinamică a sud-vestului guyanez, un peisaj care își schimbă radical identitatea între sezoane: de la câmpii întinse în sezonul secetă, la o rețea de zone umede vitale în perioada ploilor. Această alternanță creează nișe ecologice unice, atrăgând o avifaună spectaculoasă și oferind condiții ideale pentru specii emblematice precum furnicarul uriaș. Împărțită geografic de Munții Kanuku, savana este teritoriul ancestral al poporului Makushi, a căror viață este împletită cu ritmurile acestui pământ. Studiul Rupununi-ului (Geografie K7) oferă elevilor o perspectivă fascinantă asupra dinamicii ecosistemelor și a adaptării oamenilor și animalelor la condițiile climatice sezoniere extreme.",
+      "factsAdvanced": [
+        "A doua savană ca mărime din Guyana, cu o dinamică sezonieră intensă.",
+        "Transformări dramatice ale peisajului: savană uscată vs. zone umede.",
+        "Habitat esențial pentru furnicarul uriaș și alte specii specifice.",
+        "Munții Kanuku acționează ca un divizor natural și ecologic al zonei.",
+        "Teritoriu cultural tradițional al comunităților Makushi.",
+        "Zonă de importanță ridicată pentru studiul migrației păsărilor acvatice.",
+        "Exemplu reprezentativ de tranziție ecologică între savană și pădurea tropicală."
+      ]
+    },
+    {
+      "id": "white-sand-plateau-relief-v2",
+      "descriptionAdvanced": "Podișul Nisipurilor Albe reprezintă o formațiune geologică distinctă, întinzându-se în spatele câmpiei de coastă și acoperind aproximativ 20% din suprafața Guyanei. Solurile sale nisipoase, sărace în nutrienți, au dictat evoluția unei vegetații de tip arbustiv, unică și extrem de specializată, precum Pădurea Dakama. Pe lângă valoarea sa biologică, podișul este de o importanță economică majoră datorită vastelor sale zăcăminte de bauxită, care au modelat istoria economică a țării. Acest contrast între fragilitatea ecosistemelor pe soluri sărace și potențialul industrial oferă elevilor (Geografie K7) o lecție esențială despre interacțiunea dintre geologie, resurse minerale și utilizarea durabilă a terenurilor.",
+      "factsAdvanced": [
+        "Ocupă circa 20% din teritoriul total al Guyanei.",
+        "Soluri nisipoase albe, extrem de permeabile și sărace în nutrienți.",
+        "Zăcăminte masive de bauxită cu impact economic regional.",
+        "Vegetație adaptată specifică, precum Pădurea Dakama.",
+        "Zonă geologică strâns legată de evoluția depozitelor de coastă.",
+        "Diversitate biologică limitată, dar înalt specializată la condițiile solului.",
+        "Punct cheie pentru înțelegerea resursei de bauxită în Guyana."
+      ]
+    },
+    {
+      "id": "demerara-coastal-plain-relief-v2",
+      "descriptionAdvanced": "Câmpia de Coastă Demerara nu este doar centrul demografic și economic al Guyanei, ci și o victorie continuă a ingineriei asupra forțelor naturii. Situată în mare parte sub nivelul mării, această zonă joasă a necesitat construcția unui sistem complex de diguri și canale pentru a asigura supraviețuirea așezărilor și productivitatea agriculturii. Din cauza schimbărilor climatice globale și a creșterii nivelului mării, menținerea acestor sisteme de apărare a devenit o provocare critică de securitate națională. În contextul geografiei K8, acest obiectiv oferă o lecție vitală despre interacțiunea omului cu mediul în condiții de vulnerabilitate climatică și importanța inovației în protecția infrastructurii.",
+      "factsAdvanced": [
+        "Regiune joasă situată parțial sub nivelul mării.",
+        "Motorul economic și politic al națiunii guyaneze.",
+        "Sistem ingineresc complex de diguri și canale pentru protecția împotriva inundațiilor.",
+        "Centru agricol vital pentru producția alimentară a țării.",
+        "Cea mai dens populată zonă a Guyanei.",
+        "Zonă cu vulnerabilitate ridicată la impactul creșterii nivelului mării.",
+        "Model esențial pentru înțelegerea adaptării la schimbările climatice."
+      ]
+    }
+  ]
+}

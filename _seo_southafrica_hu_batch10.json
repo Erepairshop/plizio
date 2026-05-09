@@ -1,0 +1,48 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "owl-house-landmarks-v2",
+      "descriptionAdvanced": "A Nieu-Bethesda-ban található Bagoly-ház (Owl House) a dél-afrikai naiv művészet egyik legkülönlegesebb alkotása, amelyet Helen Martins hozott létre életműveként. A ház és a hozzá tartozó kert telis-tele van üvegből, drótból és cementből készült, misztikus figurákkal, szobrokkal és színes fényekkel, amelyek egy egyedülálló, elvarázsolt világot teremtenek. Az alkotó magányos művészi világa ma múzeumként látogatható, és a Karoo-fennsík egyik legkülönlegesebb kulturális látványossága, amely világszerte ismertté tette ezt a kis dél-afrikai falut.",
+      "factsAdvanced": [
+        "A naiv művészet egyedi alkotása.",
+        "Helen Martins életműve.",
+        "Nieu-Bethesda faluban található.",
+        "Üvegből, drótból és cementből készült szobrok jellemzik.",
+        "A kert és a ház egy elvarázsolt művészi világ.",
+        "A Karoo-fennsík legkülönlegesebb múzeuma.",
+        "Nemzetközileg elismert művészeti látványosság."
+      ]
+    },
+    {
+      "id": "paul-kruger-statue-landmarks-v2",
+      "descriptionAdvanced": "A pretoriai Paul Kruger-szobor, amely a város központi terén, a Church Square-en áll, Dél-Afrika történelmének egyik legvitatottabb figuráját ábrázolja. A bronzszobor a búr köztársaság egykori elnökét, Paul Krugert örökíti meg, akinek jelentős szerepe volt a búr háborúkban és az ország politikai fejlődésében. A szobor és az azt övező tér Pretoria történelmi központja, amely a búr örökség és a dél-afrikai gyarmati múlt bonyolult szimbóluma, és a mai napig az ország történelmi vitáinak egyik központi színtere.",
+      "factsAdvanced": [
+        "Paul Kruger búr elnök szobra.",
+        "A pretoriai Church Square-en található.",
+        "Bronzból készült műemlék.",
+        "A búr köztársasági időszak jelképe.",
+        "Történelmileg ellentmondásos figura.",
+        "Pretoria történelmi központjának része.",
+        "Az ország politikai múltjának szimbóluma."
+      ]
+    },
+    {
+      "id": "port-elizabeth-city-hall-landmarks-v2",
+      "descriptionAdvanced": "A Gqeberha (korábbi nevén Port Elizabeth) Városháza egy gyönyörű, viktoriánus stílusban épült történelmi épület, amelyet a 19. század közepén, 1858 és 1862 között építettek. A város központjában található épület óratornyával és elegáns vonalaival a városi polgári építészet egyik legrégibb és legszebb példája, amely a kikötőváros korai kereskedelmi fellendülését jelképezi. A Városháza ma is fontos adminisztrációs és közösségi szerepet tölt be, miközben történelmi falai őrzik a város egykori gyarmati életének emlékeit.",
+      "factsAdvanced": [
+        "1858 és 1862 között épült.",
+        "Viktoriánus építészeti stílusú.",
+        "A város legrégebbi közigazgatási épülete.",
+        "Gqeberha (Port Elizabeth) központjában található.",
+        "Jellegzetes, klasszikus óratornyos épület.",
+        "A kikötőváros kereskedelmi fejlődésének emléke.",
+        "Fontos történelmi és adminisztrációs központ."
+      ]
+    }
+  ]
+}

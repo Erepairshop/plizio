@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosCitiesV2.ts",
+    "lib/visualLab/data/poiExtraComorosEconomicV2.ts",
+    "lib/visualLab/data/poiExtraComorosHistoryV2.ts",
+    "lib/visualLab/data/poiExtraComorosLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraComorosLifeV2.ts",
+    "lib/visualLab/data/poiExtraComorosNatureV2.ts",
+    "lib/visualLab/data/poiExtraComorosReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hamboda-plateau-relief-v2",
+      "descriptionAdvanced": "The Hamboda Plateau is an elevated volcanic landform situated in the southern part of Grande Comore, characterized by its relatively flat terrain and deep, fertile soils. This plateau is a significant agricultural region, where the combination of altitude and mineral-rich volcanic ash creates ideal conditions for the cultivation of staple crops such as cassava, bananas, and sweet potatoes. In the Plizio K7 Physical Geography curriculum, the Hamboda Plateau illustrates the formation of volcanic plateaus through successive horizontal lava flows and their subsequent erosion. The area also serves as a critical recharge zone for the island's groundwater, with its permeable basalt layers filtering seasonal rainfall into the subterranean aquifers that supply the southern villages.",
+      "factsAdvanced": [
+        "Located in the Mbadjini region of southern Grande Comore.",
+        "Average altitude ranges between 300 and 450 meters.",
+        "Formed by prehistoric fluid basaltic lava flows from the south.",
+        "Major production area for subsistence crops and local livestock.",
+        "The plateau surface is marked by small scoria cones and pits.",
+        "Provides essential groundwater for the southern prefecture.",
+        "Climate is slightly cooler and more humid than the coastal strip.",
+        "Surrounded by dense secondary forest and coconut plantations."
+      ]
+    },
+    {
+      "id": "pointe-de-bangoi-relief-v2",
+      "descriptionAdvanced": "Pointe de Bangoi is a prominent coastal relief feature on the northern shores of Grande Comore, where the land extends into the Indian Ocean as a jagged basaltic promontory. This point is characterized by its sharp volcanic rocks and powerful surf, which have carved unique sea arches and tidal pools into the shore. For Plizio K7 Marine Geography, Pointe de Bangoi illustrates the impact of high-energy wave erosion on young volcanic coastlines and the role of coastal points in regional navigation. The area is also a significant biological site, with its rocky crevices providing nesting grounds for seabirds and its clear tidal waters hosting a diverse array of reef fish and marine invertebrates accessible during low tide.",
+      "factsAdvanced": [
+        "Situated on the northwest coast of Grande Comore, near Bangoi.",
+        "Formed by a recent lava flow that solidified upon reaching the sea.",
+        "Features dramatic sea arches and deep natural tidal basins.",
+        "A major landmark for northern coastal artisanal fishermen.",
+        "Known for its powerful blowholes that erupt during high swells.",
+        "The surrounding waters are rich in coral and marine biodiversity.",
+        "A popular spot for local residents to observe the ocean's force.",
+        "Relief is marked by dark, porous basalt and sharp rocky ridges."
+      ]
+    },
+    {
+      "id": "mount-habakari-relief-v2",
+      "descriptionAdvanced": "Mount Habakari is a significant volcanic peak located in the interior of Mohéli island, forming part of the central mountain range that defines the island's rugged backbone. Reaching an elevation that often captures low-hanging clouds, the mountain is covered in lush primary tropical forest and serves as a vital habitat for several endemic species, including rare birds and fruit bats. In the Plizio K7 Physical Geography curriculum, Mount Habakari illustrates the role of volcanic peaks in creating orographic rainfall, which is essential for the island's permanent rivers and agricultural basins. The mountain's steep slopes and deep ravines make it a challenging but rewarding destination for environmental researchers and eco-tourists seeking the authentic wilderness of Mohéli.",
+      "factsAdvanced": [
+        "A prominent peak in the central mountain chain of Mohéli.",
+        "Rises to an altitude of approximately 700 meters above sea level.",
+        "Acts as a major catchment area for the island's freshwater streams.",
+        "Slopes are covered in ancient tropical rainforest and tree ferns.",
+        "Home to the endemic Mohéli scops owl and rare fruit bats.",
+        "The peak is often shrouded in mountain mist and cloud forest.",
+        "Essential for maintaining the ecological balance of the national park.",
+        "Accessible via forest trails used by local vanilla and clove farmers."
+      ]
+    },
+    {
+      "id": "karthala-caldera-relief-v2",
+      "descriptionAdvanced": "The Karthala Caldera is one of the most spectacular and largest active volcanic calderas in the world, located at the summit of Mount Karthala on Grande Comore. Measuring approximately 3 by 4 kilometers, this massive depression was formed by the collapse of the volcanic summit during successive large-scale eruptions. For Plizio K7 Geology, the Karthala Caldera serves as a primary site for studying volcanic subsidence and the dynamics of active shield volcanoes. The caldera floor is a stark, lunar-like landscape of recent lava flows, volcanic ash, and sulfur vents, providing a dramatic window into the geothermal forces that continue to shape the archipelago. It is a world-class destination for geologists and adventurous trekkers from around the globe.",
+      "factsAdvanced": [
+        "Massive summit collapse feature of the Mount Karthala volcano.",
+        "Dimensions are roughly 3 km wide and 4 km long.",
+        "One of the largest and most active calderas in the Indian Ocean.",
+        "The caldera floor features multiple smaller craters and ash fields.",
+        "Site of numerous historic eruptions, most recently in 2005-2006.",
+        "Accessible via a strenuous 6-hour trek from the coastal villages.",
+        "The relief is marked by sheer inner walls and solidified lava lakes.",
+        "Offers a unique environment for studying primary plant succession."
+      ]
+    },
+    {
+      "id": "nioumbadjou-forest-relief-v2",
+      "descriptionAdvanced": "Nioumbadjou Forest is a significant montane rainforest area located on the slopes of Mount Karthala, characterized by its exceptionally steep relief and high biological diversity. This forest zone acts as a vital protective barrier for the lower agricultural lands, preventing soil erosion and regulating the flow of water during the intense monsoon rains. In the Plizio K6 Nature Protection curriculum, Nioumbadjou illustrates the importance of preserving 'high-value' forests that provide essential ecosystem services. The forest is home to giant tree ferns, ancient hardwood trees, and many of the island's endemic bird species, making it a critical area for conservation and a focal point for national efforts to protect the archipelago's remaining primary forest fragments.",
+      "factsAdvanced": [
+        "Located on the middle slopes of Mount Karthala, Grande Comore.",
+        "Characterized by high-altitude primary and secondary rainforest.",
+        "Functions as a major watershed and erosion control zone.",
+        "Home to the rare Comoro blue pigeon and various endemic reptiles.",
+        "Features steep terrain with deep ravines and volcanic outcrops.",
+        "Part of the designated Karthala National Park protection zone.",
+        "Relief provides a natural corridor for altitudinal bird migration.",
+        "A key site for research on tropical forest carbon sequestration."
+      ]
+    },
+    {
+      "id": "dzialaoutsou-falls-relief-v2",
+      "descriptionAdvanced": "Dzialaoutsou Falls is a spectacular natural landmark on the island of Anjouan, where a permanent mountain river plunges over a sheer basaltic cliff into a deep pool below. This relief feature is a direct result of the island's young and rugged volcanic topography, which creates numerous high-energy watercourses. For Plizio K7 Hydrology, Dzialaoutsou Falls illustrates the process of vertical erosion in volcanic landscapes and the role of waterfalls in the oxygenation of mountain streams. Surrounded by lush tropical vegetation and tree ferns, the falls are a major attraction for local residents and visitors, providing a cool and beautiful environment that highlights the abundance of fresh water in Anjouan's mountainous interior.",
+      "factsAdvanced": [
+        "Prominent waterfall located in the highland interior of Anjouan.",
+        "The water falls approximately 25 meters over a volcanic rock face.",
+        "Fed by a permanent stream originating in the central mountains.",
+        "Surrounded by dense secondary forest and ylang-ylang plantations.",
+        "A popular local site for recreation and traditional celebrations.",
+        "The relief creates a microclimate of high humidity and cooler air.",
+        "Easily accessible via hiking trails from the village of Ouani.",
+        "Represents the hydrological wealth of the Anjouanese highlands."
+      ]
+    },
+    {
+      "id": "chissioua-dzaha-relief-v2",
+      "descriptionAdvanced": "Chissioua Dzaha is a small but geologically significant volcanic islet located off the coast of Mohéli, forming part of the Nioumachoua archipelago. Characterized by its sheer basaltic cliffs and a jagged skyline, the islet is a result of isolated submarine eruptions and subsequent marine erosion. In the Plizio K7 Marine Geography curriculum, Chissioua Dzaha illustrates the formation of volcanic stacks and the role of islets as specialized habitats for seabirds and marine life. The islet is surrounded by pristine coral reefs and deep underwater canyons, making it a focal point for the Mohéli Marine Park's conservation efforts and a spectacular destination for scientific research into island biogeography and marine ecosystem dynamics.",
+      "factsAdvanced": [
+        "Uninhabited volcanic islet in the Nioumachoua group, Mohéli.",
+        "Relief is dominated by dark, erosion-resistant basaltic rock.",
+        "Features inaccessible cliffs that serve as safe nesting sites.",
+        "Surrounded by a strictly protected marine area (Mohéli Marine Park).",
+        "A key monitoring site for the region's diverse seabird populations.",
+        "The underwater relief includes dramatic drop-offs and coral gardens.",
+        "Isolated position has preserved unique islet-specific flora.",
+        "Accessible only by boat for scientific study and eco-tourism."
+      ]
+    },
+    {
+      "id": "bandasamlini-hill-relief-v2",
+      "descriptionAdvanced": "Bandasamlini Hill is a prominent volcanic cinder cone located on the western slopes of Grande Comore, offering a clear view over the capital Moroni and the Indian Ocean. This relief feature is a classic example of a 'parasitic cone' formed by secondary eruptions on the flanks of the massive Mount Karthala. For Plizio K7 Geology, Bandasamlini illustrates the complexity of volcanic plumbing systems and the distribution of lateral vents. The hill's slopes are partially cultivated with subsistence crops and vanilla, taking advantage of the well-drained volcanic scoria soil. Its summit is a popular orientation point for regional planning and provides a unique perspective on the urban growth of the capital in relation to the island's volcanic terrain.",
+      "factsAdvanced": [
+        "A well-defined volcanic cinder cone near the capital, Moroni.",
+        "Part of the extensive flank vent system of Mount Karthala.",
+        "Offers 360-degree panoramic views of the island's west coast.",
+        "Slopes are used for small-scale agriculture and goat grazing.",
+        "Easily recognizable landmark for residents and maritime pilots.",
+        "Geology consists of porous scoria and basaltic ash layers.",
+        "A popular destination for short hikes and panoramic photography.",
+        "Represents the younger volcanic activity in the Moroni region."
+      ]
+    },
+    {
+      "id": "moya-cliffs-relief-v2",
+      "descriptionAdvanced": "The Moya Cliffs are a dramatic geological formation on the southern tip of Anjouan, where vertical walls of basaltic rock drop directly into the turquoise waters of the Mozambique Channel. These cliffs are the result of powerful marine erosion acting on the island's southern volcanic massif, creating a rugged and inaccessible coastline. In the Plizio K7 Marine Geography curriculum, the Moya Cliffs illustrate the formation of sea cliffs, sea caves, and rocky promontories in a high-energy coastal environment. The area is famous for its wild beauty and serves as a vital nesting site for seabirds, while the small, secluded beaches tucked between the cliffs provide critical habitat for nesting green sea turtles, making it a high-priority zone for regional conservation.",
+      "factsAdvanced": [
+        "Dramatic basaltic sea cliffs located in southern Anjouan.",
+        "Rise up to 40 meters vertically from the Indian Ocean shore.",
+        "Known for spectacular sea caves accessible only by water.",
+        "The cliffs frame the famous 'Moya Twin Beaches' area.",
+        "Primary nesting habitat for various tropical seabird species.",
+        "The rugged relief protects the secluded turtle nesting beaches.",
+        "Offers some of the most striking coastal views in the archipelago.",
+        "The surrounding waters are deep and characterized by strong surf."
+      ]
+    },
+    {
+      "id": "jimilime-highlands-relief-v2",
+      "descriptionAdvanced": "The Jimilimé Highlands represent a rugged and relatively isolated plateau region in the northern interior of Anjouan. This relief feature is characterized by steep, forest-covered ridges and deep valleys that have historically limited large-scale urban development. In the Plizio K7 Physical Geography curriculum, Jimilimé illustrates the concept of 'highland isolation' and its impact on biodiversity and traditional culture. The highlands are a major center for mountain agriculture, where the cooler, misty climate is ideal for the cultivation of cloves and high-quality vanilla. The region's dense secondary forests are also a vital refuge for endemic species, making it a significant area for the island's ecological health and water resource management.",
+      "factsAdvanced": [
+        "Inland plateau and ridge system in northern Anjouan.",
+        "Average altitude exceeds 600 meters, creating a cool microclimate.",
+        "Major production zone for Anjouanese cloves and mountain vanilla.",
+        "Characterized by extremely rugged terrain and forest-covered hills.",
+        "Functions as a vital watershed for northern coastal villages.",
+        "Isolation has preserved unique local agricultural techniques.",
+        "Home to diverse endemic birds and rare highland flora.",
+        "Accessible via steep, winding trails from the coastal regions."
+      ]
+    },
+    {
+      "id": "mount-kibouani-relief-v2",
+      "descriptionAdvanced": "Mount Kibouani is a significant volcanic peak in the southern Mbadjini region of Grande Comore, forming part of the older volcanic formations of the island. Its eroded slopes and deep ravines testify to its ancient origin compared to the active Mount Karthala. For Plizio K7 Geology, Mount Kibouani serves as an example of a dormant volcanic structure undergoing advanced stages of tropical weathering and erosion. The mountain is covered in a mosaic of secondary forest and coconut plantations, providing an essential watershed for the southern villages. Its prominent profile makes it a major navigational landmark for the southern maritime routes and a focal point for understanding the geological evolution of the archipelago's largest island.",
+      "factsAdvanced": [
+        "Prominent volcanic peak in the southern region of Grande Comore.",
+        "Reaches an altitude of approximately 550 meters above sea level.",
+        "Part of the older, extinct volcanic massif of the south.",
+        "Relief is marked by deep erosion gullies and basaltic ridges.",
+        "Serves as an essential catchment area for southern water springs.",
+        "Major landmark for inter-island maritime traffic from the south.",
+        "Agriculture on its slopes includes bananas, cassava, and coconut.",
+        "Supports diverse secondary forest and bird populations."
+      ]
+    },
+    {
+      "id": "itsamia-relief-relief-v2",
+      "descriptionAdvanced": "The Itsamia Relief is a unique coastal formation on the eastern tip of Mohéli, characterized by a series of low-lying volcanic hills and crescent-shaped sandy bays. This relief is geologically significant for its combination of recent basaltic lava flows and extensive sand deposition, creating an ideal environment for marine and terrestrial life. In the Plizio K7 Geography curriculum, the Itsamia relief illustrates the interaction between coastal topography and the life cycles of endangered species, as the protected bays provide the calm waters and accessible beaches required for sea turtle nesting. The area's relief also includes ancient coastal rock formations that serve as natural barriers, protecting the inland villages from the powerful Indian Ocean swells.",
+      "factsAdvanced": [
+        "Coastal relief on the eastern extreme of Mohéli island.",
+        "Consists of five crescent-shaped sandy bays and low hills.",
+        "Geology is a mix of basaltic rock and coral sand deposits.",
+        "Provides the premier nesting habitat for green sea turtles in Comores.",
+        "Natural barriers protect the area from extreme marine erosion.",
+        "The hills offer lookout points for monitoring the marine park.",
+        "Relief supports a unique coastal scrub and mangrove ecosystem.",
+        "Part of the core conservation zone of the Mohéli National Park."
+      ]
+    },
+    {
+      "id": "maki-forest-relief-v2",
+      "descriptionAdvanced": "The Maki Forest is a vital montane rainforest area located in the central mountains of Mohéli, characterized by its exceptionally steep and rugged relief. The name 'Maki' refers to the lemurs that inhabit this dense wilderness. For Plizio K6 Nature studies, the Maki forest illustrates the importance of high-altitude ecosystems in maintaining island biodiversity and hydrological stability. The forest's relief is marked by sheer cliffs, hidden waterfalls, and deep ravines that have preserved the area from extensive human encroachment. This ruggedness has turned the Maki forest into a final refuge for many of Mohéli's endemic species, making it a top priority for national and international conservation efforts within the Mohéli National Park.",
+      "factsAdvanced": [
+        "High-altitude primary rainforest in the central Mohéli mountains.",
+        "Characterized by extremely steep slopes and volcanic ravines.",
+        "Primary habitat for the Mongoose lemur (Eulemur mongoz).",
+        "Includes spectacular hidden waterfalls and permanent springs.",
+        "Relief serves as a natural barrier against deforestation.",
+        "Critical area for the protection of the island's freshwater supply.",
+        "Home to the endemic Mohéli scops owl and rare orchids.",
+        "A core zone of the strictly protected Mohéli National Park."
+      ]
+    },
+    {
+      "id": "pointe-de-mitsamiouli-relief-v2",
+      "descriptionAdvanced": "Pointe de Mitsamiouli is the northernmost geological feature of Grande Comore, a dramatic volcanic headland that marks the limit of the La Grille massif. The point is characterized by low basaltic cliffs, black rock formations, and a series of beautiful white sand beaches that are among the most famous in the archipelago. In the Plizio K7 Marine Geography curriculum, Pointe de Mitsamiouli illustrates the concept of a coastal headland and the role of natural rock barriers in creating calm, sheltered bays suitable for tourism and artisanal fishing. The relief here is relatively flat compared to the southern mountains, allowing for the development of some of the island's most important tourist infrastructure and scenic coastal roads.",
+      "factsAdvanced": [
+        "Strategically located headland on the north coast of Grande Comore.",
+        "Geology is defined by fluid basaltic lava from the La Grille massif.",
+        "Frames the archipelago's premier white sand tourist beaches.",
+        "The relief features low volcanic cliffs and natural tidal pools.",
+        "Historically significant as a maritime gateway to the north.",
+        "Major site for the observation of coastal volcanic formations.",
+        "The area is protected for its high tourism and ecological value.",
+        "Connected to the capital Moroni by the primary RN1 highway."
+      ]
+    },
+    {
+      "id": "tsembehou-basin-relief-v2",
+      "descriptionAdvanced": "The Tsembéhou Basin is a large, fertile volcanic depression in the mountainous interior of Anjouan, forming a unique 'amphitheater' surrounded by high peaks. This relief feature acts as a natural catchment area for rainfall, making it the island's most productive agricultural basin. For Plizio K7 Geography, Tsembéhou illustrates the concept of an inland hydrological basin and its role in supporting intensive mountain farming. The basin's floor is a patchwork of coffee, spice, and banana plantations, while its steep sides are ingeniously terraced to prevent soil erosion. Its unique relief and microclimate make Tsembéhou a vital pillar of Anjouan's food security and a primary example of human adaptation to rugged volcanic terrain.",
+      "factsAdvanced": [
+        "Inland volcanic basin and agricultural center in central Anjouan.",
+        "Formed by geological collapse and intensive fluvial erosion.",
+        "Surrounded by peaks rising to over 800 meters above sea level.",
+        "The most fertile region on the island for mountain crops.",
+        "Primary production site for Arabica coffee and cloves.",
+        "Relief creates a humid, misty microclimate ideal for spices.",
+        "Features centuries-old terraced agriculture on its steep sides.",
+        "Acts as a major hydrological hub for the island's northern rivers."
+      ]
+    },
+    {
+      "id": "mount-karthala-nature-v2",
+      "descriptionAdvanced": "Mount Karthala is the largest and most ecologically diverse nature reserve in the Comoros, covering the massive active shield volcano that dominates Grande Comore. The mountain's slopes host a spectacular vertical zonation of ecosystems, from lowland tropical forests to high-altitude cloud forests and sub-alpine volcanic barrens. In the Plizio K6 Nature Protection curriculum, Mount Karthala is a primary case study for island endemism, as it is home to numerous species of birds, reptiles, and plants found nowhere else on Earth. The establishment of the Karthala National Park represents a major milestone in the country's efforts to protect its unique biodiversity while managing the natural risks associated with an active volcano.",
+      "factsAdvanced": [
+        "Active shield volcano and highest point in Comores (2,361 m).",
+        "Hosts one of the largest primary tropical forests in the archipelago.",
+        "Home to several endemic bird species, including the Karthala scops owl.",
+        "Declared a National Park to protect its unique biodiversity.",
+        "Vegetation zones change dramatically with every 500m of altitude.",
+        "Includes a massive summit caldera with active sulfur vents.",
+        "A critical area for the island's freshwater and climate regulation.",
+        "Subject to intensive international scientific monitoring."
+      ]
+    },
+    {
+      "id": "mount-ntingui-nature-v2",
+      "descriptionAdvanced": "Mount Ntingui is the highest peak on Anjouan island and the centerpiece of its northern mountain forest, representing a critical sanctuary for the island's endemic wildlife. The mountain's high-altitude cloud forest is characterized by giant tree ferns, epiphytes, and mosses, thriving in the permanent mist. For Plizio K6 Nature studies, Mount Ntingui illustrates the fragility of island mountain ecosystems and the importance of protecting the remaining fragments of primary forest. This area is one of the final refuges for the Livingstone's fruit bat and the Anjouan scops owl. Conservation efforts here are vital for ensuring the survival of these flagship species and for maintaining the forest's role as a major watershed for the island's population.",
+      "factsAdvanced": [
+        "Highest peak on Anjouan island, reaching 1,595 meters.",
+        "Covered in rare and endangered high-altitude cloud forest.",
+        "Primary habitat for the critically endangered Livingstone's fruit bat.",
+        "Home to the endemic Anjouan scops owl and Anjouan sunbird.",
+        "Acts as a major 'water tower', supplying rivers across the island.",
+        "Vegetation includes ancient giant tree ferns and rare orchids.",
+        "Protected under regional and national conservation programs.",
+        "A major destination for scientific research and eco-trekking."
+      ]
+    },
+    {
+      "id": "lac-sale-nature-v2",
+      "descriptionAdvanced": "Lac Salé (Salt Lake) is a unique geological and biological landmark located in a volcanic crater near the northern tip of Grande Comore. Formed by a prehistoric eruption and subsequent filling with seawater through underground fissures, the lake's water level fluctuates with the tides. In the Plizio K6 Nature curriculum, Lac Salé illustrates the concept of a 'marine-volcanic ecosystem' and the adaptation of life to high-salinity environments. The lake is surrounded by dark basaltic walls and sparse, salt-tolerant vegetation, creating a striking turquoise and black landscape. It is a site of great traditional significance and a major destination for visitors interested in the archipelago's unusual volcanic features and coastal biodiversity.",
+      "factsAdvanced": [
+        "Volcanic crater lake located on the coast near Mitsamiouli.",
+        "Filled with high-salinity seawater through subterranean vents.",
+        "The lake's water level is directly influenced by Indian Ocean tides.",
+        "Water is noted for its intense turquoise color and high sulfur content.",
+        "Surrounded by vertical basaltic walls and coastal scrub.",
+        "Historically used for traditional healing and religious rituals.",
+        "A major natural attraction and stop on northern island tours.",
+        "Provides a unique habitat for specialized saline microorganisms."
+      ]
+    },
+    {
+      "id": "lake-dzialandze-nature-v2",
+      "descriptionAdvanced": "Lake Dzialandzé is a pristine freshwater crater lake located in the high-altitude interior of Anjouan, serving as one of the most important freshwater reserves in the archipelago. Surrounded by the dense, misty forests of the Ntingui massif, the lake is a sanctuary for rare aquatic birds and a vital resource for the island's mountain ecology. For Plizio K6 Environmental Science, Lake Dzialandzé illustrates the role of highland lakes in regulating water cycles and providing habitat for island species dependent on permanent fresh water. The area is strictly protected as part of the Anjouan forest conservation program, highlighting the need to safeguard these rare inland water bodies from pollution and habitat degradation.",
+      "factsAdvanced": [
+        "Highest freshwater lake in the Comoros, located on Anjouan.",
+        "Situated in a volcanic crater at approximately 900m altitude.",
+        "Critical sanctuary for the Madagascar little grebe and other birds.",
+        "The primary freshwater source for several mountain streams.",
+        "Surrounded by primary montane forest and tree ferns.",
+        "Historically a site of traditional spiritual significance.",
+        "A core area for the island's high-altitude biodiversity conservation.",
+        "Accessible only via steep forest trails through the Ntingui massif."
+      ]
+    },
+    {
+      "id": "dziani-boudouni-nature-v2",
+      "descriptionAdvanced": "Dziani Boudouni is the only natural lake on the island of Mohéli, located in a scenic volcanic crater near the southern coast. This freshwater lake is internationally recognized as a Ramsar site due to its importance for migratory birds and its unique biodiversity. In the Plizio K6 Nature Protection curriculum, Dziani Boudouni serves as a case study for wetland conservation on small islands. The lake's surroundings, which include both forest and marshland, provide a vital refuge for various species of herons, ducks, and endemic terrestrial wildlife. Protecting this lake is a high priority for the Mohéli National Park, as it represents a rare and fragile freshwater ecosystem in a predominantly marine-focused island environment.",
+      "factsAdvanced": [
+        "The sole natural lake on Mohéli and a designated Ramsar site.",
+        "Located in a volcanic crater, surrounded by hills and forest.",
+        "Globally important wetland for migratory and resident waterbirds.",
+        "Primary habitat for the Malagasy pond heron and Comoro blue pigeon.",
+        "Lake water is fresh, fed by rainfall and subterranean springs.",
+        "A key monitoring site for the Mohéli National Park authority.",
+        "The name 'Dziani' simply means 'lake' in the local language.",
+        "Essential for maintaining the hydrological balance of southern Mohéli."
+      ]
+    },
+    {
+      "id": "nioumachoua-islets-nature-v2",
+      "descriptionAdvanced": "The Nioumachoua Islets are a group of uninhabited volcanic islands off the southern coast of Mohéli, forming the core of the Mohéli Marine Park. These islets are renowned for their exceptional biodiversity, featuring pristine coral reefs, seagrass beds, and white sand beaches that serve as critical nesting grounds for green sea turtles. For Plizio K6 Marine Biology, the Nioumachoua Islets illustrate the concept of a marine sanctuary and the benefits of strictly protected zones in restoring ocean health. The islets' inaccessible cliffs are also home to massive seabird colonies, while their underwater canyons provide a refuge for dolphins, dugongs, and numerous species of colorful reef fish, making them a global priority for conservation and scientific research.",
+      "factsAdvanced": [
+        "Archipelago of small volcanic islets off southern Mohéli.",
+        "Core protected zone of the Mohéli Marine Park (PNM).",
+        "Includes famous islets like Chissioua Mchaco and Ouenefou.",
+        "Pristine reefs host over 300 species of fish and diverse corals.",
+        "Global hotspot for green sea turtle (Chelonia mydas) nesting.",
+        "Home to massive colonies of Masked Boobies and Frigatebirds.",
+        "Uninhabited, preserving an Alteration-free natural environment.",
+        "The primary destination for eco-tourism and marine research."
+      ]
+    },
+    {
+      "id": "chissioua-mchaco-nature-v2",
+      "descriptionAdvanced": "Chissioua Mchaco is an iconic islet in the Mohéli Marine Park, famous for its sheer volcanic cliffs and its role as a premier sanctuary for seabirds. This isolated rock is one of the most important nesting sites in the Western Indian Ocean for the Masked Booby and the Great Frigatebird. In the Plizio K6 Ornithology studies, Chissioua Mchaco serves as a case study for the importance of predator-free islands in avian conservation. The islet is covered in a layer of guano, giving it a distinctive white appearance, and is surrounded by deep, nutrient-rich waters that attract diverse marine life, including sharks and large pelagic fish, making it a critical node in the region's marine and terrestrial ecological networks.",
+      "factsAdvanced": [
+        "Sheer volcanic islet located 5 km off the coast of Mohéli.",
+        "Hosts one of the region's largest Masked Booby nesting colonies.",
+        "Strictly protected as a core scientific zone of the Marine Park.",
+        "The cliffs are largely inaccessible, protecting birds from predators.",
+        "Known for its intense white color due to centuries of guano deposits.",
+        "Surrounding waters are a major feeding ground for frigatebirds.",
+        "Part of the global Important Bird Area (IBA) network.",
+        "Public access is restricted to preserve the sensitive bird colonies."
+      ]
+    },
+    {
+      "id": "chissioua-ouenefou-nature-v2",
+      "descriptionAdvanced": "Chissioua Ouenefou is one of the largest and most ecologically significant islets in the Nioumachoua archipelago, serving as a primary base for the Mohéli Marine Park's monitoring efforts. The islet features a diverse landscape of coastal scrub, mangroves, and pristine beaches that are vital for the reproduction of green sea turtles and various seabird species. For Plizio K6 Environmental Science, Ouenefou illustrates the complexity of managing islet ecosystems where land and sea protection must be closely integrated. The islet's rich coral reefs and seagrass meadows are home to rare marine species like the dugong, making it a central pillar for the conservation of the Comoros' maritime heritage and a symbol of successful community-led marine park management.",
+      "factsAdvanced": [
+        "Significant islet within the Mohéli Marine Park, near Nioumachoua.",
+        "A major nesting site for green sea turtles and various terns.",
+        "Features healthy mangrove patches and diverse coastal vegetation.",
+        "Surrounded by some of the archipelago's most pristine coral reefs.",
+        "Key monitoring station for the park rangers and researchers.",
+        "Often visited by dolphins and occasionally the rare dugong.",
+        "Played a historical role as a refuge for local fishermen.",
+        "Essential for the reproduction of numerous Indian Ocean fish species."
+      ]
+    },
+    {
+      "id": "chissioua-chandzi-nature-v2",
+      "descriptionAdvanced": "Chissioua Chandzi is a small, rugged volcanic islet off the southern coast of Mohéli, recognized for its exceptional underwater biodiversity and its role as a sanctuary for rare marine life. The islet's relief is characterized by sharp basaltic rock and deep underwater caves that provide a refuge for large groupers and sharks. In the Plizio K6 Marine Biology curriculum, Chissioua Chandzi illustrates the importance of rocky reefs in supporting healthy ocean ecosystems and the role of islets as biological 'reservoirs' for regional fish populations. The islet is part of the strictly protected core zone of the Mohéli Marine Park, where human activity is limited to scientific monitoring, ensuring that its sensitive coral communities and associated fauna remain undisturbed.",
+      "factsAdvanced": [
+        "Rugged volcanic islet in the southern Mohéli Marine Park.",
+        "Underwater relief features deep basaltic caves and overhangs.",
+        "Sanctuary for large marine predators like groupers and reef sharks.",
+        "Home to rare and delicate coral species (e.g., black corals).",
+        "Uninhabited and strictly protected for scientific research.",
+        "A key site for monitoring the health of Anjouanese-Mohélien reefs.",
+        "Provides a vital stopover for migratory pelagic fish species.",
+        "Represents the extreme biodiversity of the Nioumachoua islets."
+      ]
+    },
+    {
+      "id": "chissioua-mea-nature-v2",
+      "descriptionAdvanced": "Chissioua Mea is a picturesque volcanic islet in the Nioumachoua group of Mohéli, celebrated for its pristine white sand beaches and crystal-clear lagoon. This islet is a major sanctuary for sea turtles and serves as a primary destination for carefully managed ecotourism within the Mohéli Marine Park. For Plizio K6 Nature studies, Chissioua Mea illustrates the successful balance between habitat protection and sustainable tourism, showing how local communities can benefit from preserving their natural assets. The islet's shallow reefs are a haven for colorful parrotfish, rays, and sea turtles, providing an ideal environment for educational snorkeling and scientific study of coral reef recovery and resilience in the face of climate change.",
+      "factsAdvanced": [
+        "Small volcanic islet known for its extensive white sand beaches.",
+        "A favored nesting site for green sea turtles throughout the year.",
+        "Features a shallow, crystal-clear lagoon rich in marine life.",
+        "Managed as a sustainable ecotourism site within the Marine Park.",
+        "Reefs are dominated by diverse hard and soft coral species.",
+        "Popular site for educational snorkeling and marine photography.",
+        "Home to resident populations of rays and juvenile reef sharks.",
+        "A symbol of the beauty and tranquility of the Mohélien islets."
+      ]
+    }
+  ]
+}

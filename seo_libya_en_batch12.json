@@ -12,111 +12,213 @@
   ],
   "items": [
     {
-      "id": "sarir-tanezrouft-relief-v2",
-      "descriptionAdvanced": "The relief of the Sarir Tanezrouft (Calanshio Sand Sea region) is defined by its almost terrifying lack of vertical variation. It is an archetypal 'sarir' landscape—a massive, overwhelmingly flat plain entirely covered by heavily compacted coarse sand and gravel. Unlike a 'hamada', there is no exposed bedrock or sharp cliff drop-offs; it simply stretches flat to the horizon in every direction. This uniform, unbroken relief offers absolutely zero shade or protection from the wind, making it one of the most psychologically and physically demanding terrains to cross in the Sahara. Geography K7 — flat gravel plains and sarir landscapes.",
+      "id": "msallata-olive-life-v2",
+      "descriptionAdvanced": "The olive groves of Msallata are legendary in North Africa, representing a continuous tradition of cultivation that dates back to the Roman era. This elevated region in northwestern Libya is home to millions of ancient olive trees, many of which are several centuries old. The life of Msallata is deeply tied to the 'Zitun' (olive), with the harvest being the most important economic and social event of the year. The local population uses traditional stone presses alongside modern facilities to produce some of the finest extra-virgin olive oil in the Mediterranean. Msallata's olive life is a symbol of agricultural resilience and a cornerstone of the nation's cultural and culinary identity. Geography K7 — olive cultivation and Mediterranean heritage.",
       "factsAdvanced": [
-        "A massive, hyper-arid geographical plain located in eastern Libya.",
-        "An archetypal 'sarir' landscape characterized by overwhelmingly flat relief.",
-        "Surface is completely covered by highly compacted coarse sand and gravel.",
-        "Lacks the exposed bedrock or sheer cliffs found in rocky 'hamada' deserts.",
-        "The unbroken topography offers absolutely zero natural shade or wind protection.",
-        "Notoriously demanding to navigate due to the complete lack of visual landmarks."
+        "A world-class center for the production of high-quality extra-virgin olive oil.",
+        "Home to ancient Roman-era olive groves that are still productive today.",
+        "The olive harvest is a major communal event involving thousands of residents.",
+        "Located on a scenic plateau overlooking the Tripolitanian coast.",
+        "Famous for its traditional cold-pressing techniques and local oil varieties.",
+        "The region's economy is almost entirely centered around olive agriculture.",
+        "A primary supplier of olive products to the Tripoli and Al-Khoms markets.",
+        "A cornerstone of the traditional Libyan diet and cultural heritage."
       ]
     },
     {
-      "id": "gaberoun-lake-relief-v2",
-      "descriptionAdvanced": "The relief surrounding Gaberoun Lake is incredibly stark and dramatic, defined by a massive, deep depression hidden entirely within a sea of towering sand dunes. The hyper-saline lake sits at the very bottom of this sandy crater, fringed by a dense, circular ring of palm trees. The sheer, steep slopes of the enclosing dunes plunge directly toward the water, creating a highly localized, wind-protected micro-environment. Getting to the water's edge requires navigating down these massive, shifting slopes of loose sand. Geography K8 — aeolian depressions and desert lakes.",
+      "id": "ghat-family-life-v2",
+      "descriptionAdvanced": "Family life in the Ghat oasis is a beautiful and enduring expression of Tuareg (Amazigh) culture in the deep Sahara. Social life is centered around the extended family and the 'Old Town' with its narrow, shaded alleys and communal squares. The Tuareg traditions, including unique music, storytelling, and intricate silver jewelry-making, are passed down through generations. Families in Ghat often gather in the evenings to enjoy the cool desert air and traditional tea ceremonies. The Ghat family life is deeply connected to the seasonal cycles of the oasis and the legendary Acacus Mountains, representing a resilient and culturally rich community near Libya's southwestern borders. Anthropology K8 — Tuareg family structures and Saharan social life.",
       "factsAdvanced": [
-        "A spectacular hyper-saline lake located in a deep depression in the Ubari Sand Sea.",
-        "The relief is defined by massive, towering sand dunes that completely enclose the lake.",
-        "The steep slopes of the dunes plunge aggressively toward the water's edge.",
-        "Creates a highly localized, wind-protected micro-environment at the bottom.",
-        "The lake is fringed by a dense, circular ring of date palm trees.",
-        "Access requires navigating incredibly steep, shifting slopes of loose sand."
+        "The primary center for Tuareg social and family traditions in Libya.",
+        "Social life is anchored in the historic mud-brick 'Old Town' of Ghat.",
+        "Features a strong matriarchal influence and unique family customs.",
+        "Ghat families are renowned for their traditional Tuareg music and dance.",
+        "Community gatherings often take place in the shaded palm groves.",
+        "A major hub for the preservation of Tuareg language (Tamahaq) and script.",
+        "The 'Ghat Festival' is a major annual event celebrating local family life.",
+        "Maintains close cultural ties with Tuareg communities in Algeria and Niger."
       ]
     },
     {
-      "id": "mandara-lakes-relief-v2",
-      "descriptionAdvanced": "The relief of the Mandara Lakes cluster is highly dynamic and temporary, consisting of multiple extremely shallow, interconnected depressions between large sand dunes. Unlike the deep crater of Gaberoun, these lakes sit in relatively flat, low-lying interdune valleys. Because the relief is so shallow, the intense Saharan evaporation rate frequently dries these lakes completely during the summer, leaving behind flat, crusty salt pans (sebkhas). The topography perfectly demonstrates how slight variations in elevation dictate the presence of surface water in the deep desert. Earth Science K7 — shallow interdune hydrology.",
+      "id": "bin-jawad-park-life-v2",
+      "descriptionAdvanced": "The Bin Jawad Park is a vital green sanctuary and recreational hub in this strategic coastal town, located on the Gulf of Sidra. It serves as a primary gathering spot for families and travelers moving along the main highway between Sirte and Benghazi. The park features shaded picnic areas, playgrounds, and beautifully landscaped gardens that provide a peaceful contrast to the arid desert and the busy transit routes. Bin Jawad Park plays a significant role in fostering a sense of community and providing a space for leisure and social interaction. It represents the importance of urban greening in coastal Libya, serving as a verdant landmark in the 'Oil Crescent' region. Sociology K7 — coastal parks and regional recreation.",
       "factsAdvanced": [
-        "A cluster of highly saline lakes situated in shallow interdune valleys.",
-        "The relief is notably flatter and shallower than the deep Gaberoun crater.",
-        "Located within the massive dune fields of the Ubari Sand Sea.",
-        "The shallow relief causes rapid evaporation, turning them into salt pans in summer.",
-        "Highlights how slight elevation changes dictate desert surface hydrology.",
-        "Surrounded by shifting, dynamic sand dune topography."
+        "A primary green space and recreational hub for the Bin Jawad community.",
+        "A popular rest stop for travelers moving along the main coastal highway.",
+        "Features shaded walkways, seating areas, and facilities for children.",
+        "Located on the Mediterranean coast at the edge of the Sirte Basin.",
+        "Plays a key role in the social and cultural life of the local population.",
+        "A major center for evening gatherings and community celebrations.",
+        "Provides a refreshing and beautiful environment in an arid coastal zone.",
+        "Essential for the urban environmental quality of the central Libyan coast."
       ]
     },
     {
-      "id": "ubari-sand-sea-relief-v2",
-      "descriptionAdvanced": "The relief of the Ubari Sand Sea is a constantly shifting, chaotic ocean of towering, longitudinal and star-shaped sand dunes (ergs). The topography is entirely aeolian, sculpted meticulously by the prevailing Saharan winds over millennia. The dunes can reach staggering heights of over 100 meters, separated by deep, sweeping valleys that occasionally reveal the ancient bedrock below. Navigating this relief requires intense specialized driving skills, as the leeward sides of the dunes frequently feature treacherous, near-vertical drop-offs (slip faces). Geography K8 — aeolian dune topography.",
+      "id": "al-azizia-agri-life-v2",
+      "descriptionAdvanced": "The agricultural life of Al-Azizia is famous for its extreme climate and its role as one of the most productive farming centers in the Jafara Plain. Despite once holding the record for the highest temperature on Earth, the region uses advanced irrigation and deep wells to grow a vast array of crops, including grains, citrus, and vegetables. Al-Azizia is a major supplier of produce to the Tripoli metropolitan area, which is only 40 kilometers to the north. The farming life here is a blend of traditional family estates and large-scale commercial agriculture. The resilience of the farmers in Al-Azizia is a symbol of Libya's ability to master the desert environment for food production. Geography K7 — desert agriculture and extreme climates.",
       "factsAdvanced": [
-        "A massive 'erg' landscape entirely composed of shifting Saharan sand.",
-        "Topography is heavily sculpted by prevailing winds into longitudinal and star dunes.",
-        "Dune crests can reach staggering elevations exceeding 100 meters.",
-        "Separated by deep, sweeping valleys that occasionally expose bedrock.",
-        "The leeward sides of dunes feature treacherous, near-vertical 'slip faces'.",
-        "The relief is highly dynamic, constantly changing shape over time."
+        "A major agricultural center located in the fertile Jafara Plain.",
+        "A primary supplier of fresh produce and grains to the city of Tripoli.",
+        "Famous for its extreme summer temperatures and resilient farming techniques.",
+        "Utilizes modern irrigation and deep wells to sustain year-round crops.",
+        "The region is a leader in the production of wheat, barley, and citrus.",
+        "A major hub for livestock trade and agricultural services in the west.",
+        "The farming life is the backbone of the local Al-Azizia economy.",
+        "Located at a strategic intersection of roads to the Nafusa Mountains."
       ]
     },
     {
-      "id": "kufra-basin-relief-v2",
-      "descriptionAdvanced": "The relief of the Al-Kufra Basin is characterized by a massive, gentle geological depression in the far southeast of Libya. On the surface, the topography appears as an endless, flat sandy plain interspersed with low, scattered sandstone outcroppings. However, the critical relief is subsurface; the basin forms a massive structural bowl that traps and holds one of the largest ancient fossil water aquifers on Earth. It is this specific geological depression that makes the massive, artificial pivot irrigation fields in the region physically possible. Earth Science K8 — subsurface geological basins.",
+      "id": "zintan-orchard-life-v2",
+      "descriptionAdvanced": "The orchards of Zintan are a hallmark of the agricultural life on the Nafusa Mountains plateau. Characterized by their elevated position and cooler highland climate, these orchards specialize in the production of high-quality olives, almonds, and figs. The Zintan orchard life is deeply tied to the city's tribal identity and its history of independent mountain farming. The trees are often planted in well-ordered groves that follow the natural contours of the limestone hills. The harvest is a major communal activity, reinforcing the social bonds of the Zintan tribe and providing a sustainable source of income and food security for the mountain communities. Geography K7 — mountain orchards and highland agriculture.",
       "factsAdvanced": [
-        "A massive, subtle geological depression located in the remote southeastern desert.",
-        "Surface relief is generally flat, sandy, and interspersed with low sandstone outcrops.",
-        "Forms a massive subterranean structural bowl that traps fossil water.",
-        "Sits directly above the massive Nubian Sandstone Aquifer System.",
-        "The specific basin relief is what allows for massive artificial oasis agriculture.",
-        "Geologically separate from the hydrocarbon-rich Sirte Basin to the north."
+        "A primary center for mountain olive and almond production in the west.",
+        "Benefits from a temperate highland climate and fertile plateau soil.",
+        "The orchard life is a source of immense pride for the Zintan community.",
+        "Harvest seasons involve large-scale communal participation and tradition.",
+        "Famous for its high-quality, organic mountain olive oil.",
+        "Produces unique local varieties of almonds and mountain figs.",
+        "Provides the foundation for the local economy of the central Nafusa region.",
+        "A major symbol of the agricultural resilience of the mountain people."
       ]
     },
     {
-      "id": "gar-al-marah-relief-v2",
-      "descriptionAdvanced": "The relief of Gar al-Marah is uniquely striking, forming an ancient, collapsed volcanic crater surrounded by the chaotic Black Haruj lava fields. The topography features a distinct, raised circular rim composed of dark basaltic rock, enclosing a lower, relatively flat interior basin. The surrounding terrain is a heavily fractured, extremely abrasive lava field that makes the approach to the crater incredibly arduous. This distinct, localized relief offers geologists perfectly preserved evidence of ancient, explosive Saharan volcanism. Earth Science K8 — volcanic craters and basaltic relief.",
+      "id": "wadi-al-hayat-nature-v2",
+      "descriptionAdvanced": "Wadi al-Hayat, or the 'Valley of Life,' is a spectacular and fertile 150-kilometer long valley in the southwestern Libyan Sahara. It is a stunning natural oasis nestled between the towering sand dunes of the Ubari Sand Sea and the rugged Messak Sattafet plateau. The valley is home to a series of ancient palm groves, salt lakes, and historical sites, including the Garamantian capital of Germa. Wadi al-Hayat is a critical ecological corridor in the desert, supporting a variety of Saharan wildlife and a vibrant human community that has existed there for millennia. Its lush greenery amidst the hyper-arid sands makes it one of the most beautiful and life-sustaining natural wonders of the Fezzan. Geography K8 — Saharan valleys and oasis ecosystems.",
       "factsAdvanced": [
-        "A distinct, preserved volcanic crater located in the central Black Haruj.",
-        "Relief features a raised, circular rim composed of dark basaltic rock.",
-        "Encloses a relatively flat, lower interior basin.",
-        "Surrounded by a chaotic, highly abrasive, and heavily fractured lava field.",
-        "The dark volcanic relief absorbs massive amounts of solar radiation.",
-        "Provides pristine geological evidence of ancient Saharan volcanic activity."
+        "A 150-kilometer long fertile valley in the heart of the Sahara Desert.",
+        "Home to the ancient Garamantian civilization and the ruins of Germa.",
+        "Bordered by the massive dunes of the Idehan Ubari (Ubari Sand Sea).",
+        "A critical ecological lifeline for desert wildlife and migratory birds.",
+        "Features thousands of date palms and numerous natural springs.",
+        "Known for its high density of prehistoric rock art and ancient tombs.",
+        "Supports a vibrant modern agricultural sector based on desert aquifers.",
+        "One of the most scenic and historically rich natural areas in Libya."
       ]
     },
     {
-      "id": "sirtica-desert-relief-v2",
-      "descriptionAdvanced": "The relief of the Sirtica Desert acts as a massive, gently sloping geographic transition zone, gradually descending from the higher interior plateaus down to the Gulf of Sidra. The topography is largely featureless, consisting of sweeping gravel plains ('reg') interrupted occasionally by low, dry wadis that channel rare winter runoff to the sea. The lack of severe vertical relief made it relatively easy to lay the massive, complex networks of oil pipelines that crisscross the region today. It is a textbook example of a low-relief, coastal-adjacent desert plain. Geography K7 — transitional coastal plains.",
+      "id": "jebel-akhdar-nature-v2",
+      "descriptionAdvanced": "The Jebel al-Akhdar, or 'Green Mountain,' is a spectacular highland region in northeastern Libya that stands as a Mediterranean island of biodiversity amidst the surrounding desert. Its karst landscape is characterized by steep cliffs, deep wadis, and forested plateaus that receive some of the highest rainfall in North Africa. The region is home to unique Mediterranean flora, including dense groves of juniper, pine, and wild olive, as well as several endemic plant species. Jebel al-Akhdar is also a vital sanctuary for wildlife, including golden eagles and several rare reptiles. Its stunning natural beauty and temperate climate make it a critical ecological and tourism asset for Libya. Biology K7 — Mediterranean forests and highland biodiversity.",
       "factsAdvanced": [
-        "A massive, gently sloping transitional geographic zone south of the Gulf of Sidra.",
-        "Relief gradually descends from the interior plateaus toward the Mediterranean.",
-        "Characterized by sweeping, featureless gravel plains known as 'reg'.",
-        "Interrupted occasionally by low, shallow wadis that channel rare runoff.",
-        "The flat topography is ideal for laying massive, complex oil pipeline networks.",
-        "Lacks the severe vertical relief found in the southern mountain ranges."
+        "The greenest and most biologically diverse region in Libya.",
+        "A limestone plateau rising to over 800 meters above sea level.",
+        "Home to unique Mediterranean forests of juniper, cypress, and pine.",
+        "Receives up to 600mm of annual rainfall, the highest in the country.",
+        "A vital sanctuary for rare birds of prey and endemic plant species.",
+        "Features a dramatic karst landscape with numerous caves and sinkholes.",
+        "Known for its stunning scenic views overlooking the Mediterranean coast.",
+        "A primary destination for nature tourism and archaeological exploration."
       ]
     },
     {
-      "id": "gargaf-desert-relief-v2",
-      "descriptionAdvanced": "The relief of the Gargaf Desert is a classic, harsh 'hamada' landscape, characterized by an elevated, deeply eroded rocky plateau. Unlike sandy deserts, the topography here consists of stark, flat-topped mesas (tablelands) and steep, sudden cliff edges carved by ancient water flows. The surface is heavily compacted and covered with loose, jagged stones, making it highly abrasive. This jagged, elevated relief acts as a natural geographic separator between the northern Hamada al Hamra and the deep southern Fezzan sand seas. Geography K7 — hamada plateaus and mesas.",
+      "id": "lake-gaberoun-nature-v2",
+      "descriptionAdvanced": "Lake Gaberoun is a stunning and surreal natural wonder located in the heart of the Idehan Ubari sand dunes in southwestern Libya. This deep, salt-water lake is surrounded by towering orange sand dunes and a small, abandoned mud-brick village. Its water is incredibly salty, making it denser than the Dead Sea and allowing people to float effortlessly. The lake is fringed with palm trees and reeds, creating a quintessential Saharan oasis scene that is among the most famous in the world. Gaberoun is a critical ecological site for specialized desert flora and a premier destination for adventurous travelers seeking the ultimate desert landscape. Geography K8 — Saharan salt lakes and sand sea ecosystems.",
       "factsAdvanced": [
-        "A harsh, highly eroded rocky plateau landscape in the central Fezzan.",
-        "Characterized by classic 'hamada' relief: flat mesas and steep cliff drop-offs.",
-        "Surface is highly abrasive, covered entirely by loose, jagged stones.",
-        "Lacks the sweeping sand dunes found in the nearby Ubari Sand Sea.",
-        "Acts as a massive natural geographic divider in the Libyan interior.",
-        "The topography was carved heavily by ancient, prehistoric water flows."
+        "A spectacular salt lake nestled among some of the Sahara's highest dunes.",
+        "The water is extremely salty, allowing swimmers to float easily.",
+        "Located in the remote Ubari Sand Sea of the Fezzan region.",
+        "Once home to a small community that specialized in gathering salt crusts.",
+        "Surrounded by a verdant fringe of date palms and desert reeds.",
+        "The lake's water can be significantly warmer at depth than on the surface.",
+        "A world-class destination for photographers and desert explorers.",
+        "Home to specialized brine shrimp that thrive in its extreme conditions."
       ]
     },
     {
-      "id": "cyrenaica-coast-relief-v2",
-      "descriptionAdvanced": "The relief of the Cyrenaica Coast is exceptionally dynamic, marked by the abrupt collision of the high Jabal al Akhdar plateau with the Mediterranean Sea. The topography features sheer limestone cliffs that plunge directly into deep water, interspersed with narrow, hidden sandy coves and small coastal plains. This varied, rugged relief naturally creates numerous protected, deep-water anchorages that were heavily utilized by ancient Greek and Roman maritime traders. It presents a stark physical contrast to the long, flat, featureless beaches of western Tripolitania. Geography K8 — coastal geomorphology and cliffs.",
+      "id": "mandara-lakes-nature-v2",
+      "descriptionAdvanced": "The Mandara Lakes are a group of beautiful, seasonal, and permanent salt lakes nestled within the massive dunes of the Ubari Sand Sea. Like their more famous neighbor Gaberoun, these lakes create a breathtaking visual contrast between the deep blue of the water and the brilliant orange of the surrounding sands. The lakes are fed by underground Saharan aquifers and are fringed with palm groves that provide a sanctuary for desert life. During wet years, the lakes expand, attracting migratory birds and creating a lush, temporary ecosystem. The Mandara Lakes are a symbol of the hidden water wealth of the Sahara and a premier natural landmark of the Fezzan desert. Geography K8 — desert hydrology and oasis chains.",
       "factsAdvanced": [
-        "Features highly dynamic, varied relief along the eastern Mediterranean coastline.",
-        "Marked by the abrupt collision of the Jabal al Akhdar plateau with the sea.",
-        "Topography includes sheer limestone cliffs plunging directly into deep water.",
-        "Interspersed with narrow, hidden coves and small, localized coastal plains.",
-        "The rugged relief creates natural, highly protected deep-water anchorages.",
-        "Contrasts sharply with the flat, featureless beaches of western Libya."
+        "A cluster of picturesque salt lakes in the southwestern Libyan desert.",
+        "Fed by deep Saharan aquifers that rise to the surface between dunes.",
+        "Features a stunning contrast between blue water and orange sand sea.",
+        "A critical stop for migratory birds crossing the Saharan desert.",
+        "Surrounded by ancient palm groves and specialized desert vegetation.",
+        "Located near the strategic oasis town of Ubari.",
+        "Part of a chain of lakes that includes Gaberoun and Umm al-Ma.",
+        "Known for their extreme salinity and unique desert ecosystems."
+      ]
+    },
+    {
+      "id": "jebel-nafusa-nature-v2",
+      "descriptionAdvanced": "The Jebel Nafusa is a dramatic limestone escarpment and plateau in northwestern Libya, stretching over 300 kilometers from the Tunisian border to the coast. Its rugged nature is characterized by sheer cliffs, deep rocky wadis, and fertile upland plateaus that have supported human life for millennia. The region is home to a variety of hardy Mediterranean flora, including olive, almond, and fig trees, as well as diverse birdlife. The Jebel Nafusa offers spectacular panoramic views of the Jafara Plain below. Its unique geology and cultural landscapes, including the famous troglodyte houses, make it one of Libya's most important natural and cultural landmarks. Geography K7 — limestone escarpments and highland landscapes.",
+      "factsAdvanced": [
+        "A massive 300-kilometer long limestone plateau in western Libya.",
+        "Rises to an elevation of over 700 meters above the Jafara Plain.",
+        "Home to a unique Mediterranean highland ecosystem.",
+        "Characterized by dramatic cliffs, deep wadis, and scenic plateaus.",
+        "A vital watershed for the surrounding arid plains of northwestern Libya.",
+        "Features thousands of ancient, hand-carved agricultural terraces.",
+        "A primary cultural and natural heartland for the Amazigh (Berber) people.",
+        "Offers some of the most spectacular hiking and viewing points in Libya."
+      ]
+    },
+    {
+      "id": "gar-al-marah-nature-v2",
+      "descriptionAdvanced": "Gar al-Marah is a significant natural depression and wetland area in central Libya, serving as a critical ecological site in the otherwise arid Saharan landscape. It is characterized by its seasonal salt flats (sabkhas) and occasional pools of water that attract a variety of migratory and desert-adapted birds. The area's unique geology and hydrology make it a vital part of the central Libyan ecosystem, supporting specialized flora that can tolerate high salinity. Gar al-Marah is also an important area for scientific research into desert environmental changes and Saharan biodiversity. Its remote and rugged beauty represents the diverse natural heritage of the Libyan interior. Geography K8 — Saharan depressions and salt flat ecosystems.",
+      "factsAdvanced": [
+        "A major natural depression and salt flat area in central Libya.",
+        "A critical sanctuary for migratory birds and Saharan wildlife.",
+        "Characterized by seasonal water pools and specialized saline flora.",
+        "Located in a remote and arid region south of the Gulf of Sidra.",
+        "Provides unique insights into the hydrology of the central Sahara.",
+        "A vital ecological node for the movement of desert-adapted species.",
+        "Known for its stark, white salt flats and rugged desert scenery.",
+        "An important site for environmental monitoring and research in Libya."
+      ]
+    },
+    {
+      "id": "gargaf-mountains-nature-v2",
+      "descriptionAdvanced": "The Gargaf Mountains are a rugged and ancient mountain range in central Libya, forming a primary geological border between the Tripolitanian plateau and the Fezzan desert. This range is characterized by its jagged black peaks, steep rocky valleys, and extremely arid climate. The Gargaf Mountains are home to some of the oldest rock formations in North Africa and contain several important prehistoric rock art sites. Despite their harsh environment, the mountains support a variety of hardy desert-adapted plants and animals, such as the Barbary sheep. The range offers a dramatic and stark landscape that is a quintessential part of the central Saharan experience. Geography K8 — Saharan mountain ranges and ancient geology.",
+      "factsAdvanced": [
+        "An ancient and rugged mountain range in the heart of central Libya.",
+        "Forms a strategic natural gateway between the north and the Fezzan.",
+        "Characterized by dark, jagged peaks and steep rocky terrain.",
+        "Home to several prehistoric rock art and archaeological sites.",
+        "A vital habitat for the desert-adapted Barbary sheep (Aoudad).",
+        "Features some of the oldest geological formations in North Africa.",
+        "A major landmark for travelers moving between Sabha and Tripoli.",
+        "Offers a dramatic and starkly beautiful desert mountain landscape."
+      ]
+    },
+    {
+      "id": "al-hamada-al-hamra-nature-v2",
+      "descriptionAdvanced": "The Al-Hamada al-Hamra, or the 'Red Desert,' is a vast and desolate stony plateau in northwestern Libya, covering over 50,000 square kilometers. It is one of the most hyper-arid and featureless landscapes on Earth, characterized by its reddish, iron-rich stones and extreme lack of vegetation. Despite its harsh appearance, the Hamada is a vital geological and archaeological site, containing numerous fossils and prehistoric stone tools. The plateau serves as a major watershed for the surrounding wadis and is a critical area for oil and gas exploration. Its sheer scale and profound silence make the Al-Hamada al-Hamra a unique and humbling natural landmark of the Sahara. Geography K8 — stony deserts and Saharan plateaus.",
+      "factsAdvanced": [
+        "One of the largest and most desolate stony plateaus (Hamada) in the Sahara.",
+        "Covers over 50,000 square kilometers of northwestern Libya.",
+        "The name translates to 'The Red Stony Desert' due to its iron-rich rocks.",
+        "A hyper-arid landscape with almost zero permanent vegetation.",
+        "A major site for the discovery of meteorites and prehistoric stone tools.",
+        "Contains vast underground reserves of natural gas and petroleum.",
+        "Serves as a critical watershed for several large wadis in the west.",
+        "Known for its extreme temperature fluctuations and profound isolation."
+      ]
+    },
+    {
+      "id": "tibesti-foothills-nature-v2",
+      "descriptionAdvanced": "The Tibesti Foothills in southern Libya represent the northern edge of the massive and volcanic Tibesti Mountains, which contain the highest peaks in the Sahara. This rugged and remote nature area is characterized by jagged black volcanic rocks, steep valleys, and dramatic natural arches. The foothills are home to a variety of specialized desert flora and fauna, including the endangered Saharan cheetah and the Barbary sheep. The region is a vital cultural and natural heartland for the Tebu people. The Tibesti Foothills offer some of the most spectacular and pristine volcanic landscapes in Africa, making them a premier destination for adventurous desert exploration. Geography K8 — volcanic mountains and Saharan biodiversity.",
+      "factsAdvanced": [
+        "The northern edge of the highest mountain range in the Sahara Desert.",
+        "A spectacular volcanic landscape characterized by dark, jagged peaks.",
+        "A vital sanctuary for rare Saharan wildlife, including the cheetah.",
+        "The primary natural heartland of the indigenous Tebu people.",
+        "Features dramatic natural stone arches and deep rocky valleys.",
+        "Home to several high-altitude Saharan plant and animal species.",
+        "Located in the far southern reaches of Libya near the border with Chad.",
+        "A world-class destination for remote and adventurous desert exploration."
+      ]
+    },
+    {
+      "id": "wadi-kuf-nature-v2",
+      "descriptionAdvanced": "Wadi al-Kuf is a stunning and verdant natural landmark in the heart of the Jabal al-Akhdar, famous for its deep limestone canyon and lush Mediterranean forests. It is home to the highest bridge in Libya, the Wadi al-Kuf Bridge, which offers spectacular views of the valley below. The wadi is a critical biodiversity hub, featuring dense groves of juniper, cypress, and pine, as well as several perennial springs. It provides a vital habitat for a variety of bird species and rare mountain mammals. Wadi al-Kuf represents the environmental richness of the 'Green Mountain' and is a primary destination for nature lovers and hikers in northeastern Libya. Biology K7 — Mediterranean canyons and forest biodiversity.",
+      "factsAdvanced": [
+        "Home to one of the deepest and most scenic canyons in Libya.",
+        "Features the highest bridge in the country, spanning the deep valley.",
+        "A primary biodiversity hub with dense Mediterranean forests.",
+        "Located in the heart of the Jabal al-Akhdar (Green Mountain).",
+        "A vital sanctuary for rare birds and mountain wildlife.",
+        "Known for its lush vegetation and perennial natural springs.",
+        "A popular destination for hiking, bird-watching, and nature photography.",
+        "Essential for the preservation of the unique Green Mountain ecosystem."
       ]
     }
   ]

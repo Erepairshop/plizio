@@ -1,0 +1,147 @@
+{
+  "lang": "en",
+  "country": "iraq",
+  "files": ["lib/visualLab/data/poiExtraIraqCitiesV2.ts"],
+  "items": [
+    {
+      "id": "zakho-cities-v2",
+      "descriptionAdvanced": "Zakho is a city located in the Duhok Governorate of the Kurdistan Region in northern Iraq, near the border with Turkey. With a population of approximately 100,000, it serves as a crucial transit point for trade and travel between Iraq and Turkey, primarily through the Ibrahim Khalil border crossing. The city is historically significant, featuring the famous ancient Delal Bridge, an ancient stone arch bridge spanning the Khabur River. Zakho has a diverse population, historically including Kurds, Assyrians, and Armenians, contributing to a rich cultural heritage. The local economy is heavily reliant on border trade, transportation services, and regional agriculture.",
+      "factsAdvanced": [
+        "Located in the Duhok Governorate of Kurdistan",
+        "Situated near the border with Turkey",
+        "Crucial transit point via the Ibrahim Khalil border crossing",
+        "Population is approximately 100,000",
+        "Features the ancient stone Delal Bridge over the Khabur River",
+        "Historically diverse population including Kurds and Assyrians",
+        "Economy heavily dependent on cross-border trade",
+        "Important regional center for transportation services"
+      ]
+    },
+    {
+      "id": "tal-afar-cities-v2",
+      "descriptionAdvanced": "Tal Afar is a city and district in the Nineveh Governorate of northwestern Iraq, located approximately 63 kilometers west of Mosul. The city's population, which was roughly 200,000 before recent conflicts, is predominantly composed of Iraqi Turkmen, making it one of the largest Turkmen-majority cities in the country. Tal Afar features a historic Ottoman-era citadel situated on a hill in the center of the city. The city suffered significantly during the Iraq War, experiencing intense sectarian violence, and was later occupied by the Islamic State in 2014. It was recaptured by Iraqi government forces in August 2017 after a major military offensive.",
+      "factsAdvanced": [
+        "Located 63 kilometers west of Mosul in Nineveh Governorate",
+        "Predominantly populated by Iraqi Turkmen",
+        "Pre-conflict population was roughly 200,000",
+        "Features a historic Ottoman-era citadel in the city center",
+        "One of the largest Turkmen-majority cities in Iraq",
+        "Occupied by the Islamic State in 2014",
+        "Recaptured by Iraqi military forces in August 2017",
+        "Experienced significant infrastructural damage during conflicts"
+      ]
+    },
+    {
+      "id": "halabja-cities-v2",
+      "descriptionAdvanced": "Halabja is a city in the Kurdistan Region of Iraq, located about 240 kilometers northeast of Baghdad and 14 kilometers from the Iranian border. It serves as the capital of the Halabja Governorate and has a population of over 100,000. The city is internationally known for the tragic Halabja chemical attack that occurred on March 16, 1988, during the closing days of the Iran-Iraq War. In this devastating event, the Iraqi regime under Saddam Hussein used chemical weapons against the Kurdish population, killing an estimated 5,000 civilians. Today, the city is home to the Halabja Monument, dedicated to the victims of the massacre.",
+      "factsAdvanced": [
+        "Capital of the Halabja Governorate in the Kurdistan Region",
+        "Located 14 kilometers from the Iranian border",
+        "Population is over 100,000 residents",
+        "Site of the infamous 1988 chemical weapons attack",
+        "An estimated 5,000 civilians died in the 1988 massacre",
+        "Home to the Halabja Monument memorializing the victims",
+        "Historically an important center for Kurdish literature",
+        "Surrounded by the scenic Hawraman mountains"
+      ]
+    },
+    {
+      "id": "kufa-cities-v2",
+      "descriptionAdvanced": "Kufa is a city in the Najaf Governorate of central-south Iraq, located on the banks of the Euphrates River, approximately 170 kilometers south of Baghdad. Founded in 638 AD by Caliph Umar, Kufa holds immense historical and religious significance in early Islamic history, briefly serving as the capital of the Rashidun Caliphate under Ali ibn Abi Talib. The city is home to the Great Mosque of Kufa, one of the earliest and most sacred mosques in Islam. With a population of around 150,000, Kufa forms a continuous urban area with the neighboring holy city of Najaf. The city is a major destination for Shia pilgrims visiting its numerous historical shrines.",
+      "factsAdvanced": [
+        "Located on the banks of the Euphrates River",
+        "Founded in 638 AD by Caliph Umar",
+        "Served briefly as the capital of the Rashidun Caliphate",
+        "Home to the historically significant Great Mosque of Kufa",
+        "Population is approximately 150,000",
+        "Forms a continuous urban area with neighboring Najaf",
+        "Contains the historic house of Ali ibn Abi Talib",
+        "Major destination for international Shia pilgrims"
+      ]
+    },
+    {
+      "id": "al-musayyib-cities-v2",
+      "descriptionAdvanced": "Al Musayyib is a town in the Babylon Governorate of central Iraq, situated on both banks of the Euphrates River. Located south of Baghdad and north of Hillah, it has a population of approximately 50,000. The town acts as a significant local commercial and agricultural hub, benefiting from the fertile lands irrigated by the river. Al Musayyib is also notable for the Al-Musayyib thermal power plant, which provides electricity to the surrounding regions. Historically, the town was a critical crossing point on the Euphrates for travelers and traders moving between Baghdad and the southern holy cities.",
+      "factsAdvanced": [
+        "Located in the Babylon Governorate of central Iraq",
+        "Situated on both banks of the Euphrates River",
+        "Population is approximately 50,000",
+        "Functions as a local commercial and agricultural hub",
+        "Features the significant Al-Musayyib thermal power plant",
+        "Historically a critical crossing point on the Euphrates",
+        "Surrounding region is highly fertile and heavily irrigated",
+        "Located on the main route between Baghdad and southern cities"
+      ]
+    },
+    {
+      "id": "baiji-cities-v2",
+      "descriptionAdvanced": "Baiji is a city in the Saladin Governorate of northern Iraq, located approximately 200 kilometers north of Baghdad. It is strategically and economically significant as the site of Iraq's largest oil refinery, the Baiji Oil Refinery, which was capable of processing hundreds of thousands of barrels of crude oil per day. The city and its refinery were a major battleground during the conflict with the Islamic State between 2014 and 2015. The intense fighting caused massive destruction to both the city's infrastructure and the refinery complex. Efforts have since been underway to rehabilitate the city and slowly restore operations at the heavily damaged industrial facilities.",
+      "factsAdvanced": [
+        "Located in the Saladin Governorate, 200 kilometers north of Baghdad",
+        "Home to the Baiji Oil Refinery, the largest in Iraq",
+        "Strategically important industrial and energy hub",
+        "Site of intense battles with the Islamic State (2014-2015)",
+        "Refinery and city suffered massive infrastructural destruction",
+        "Pre-conflict population was significantly tied to the oil industry",
+        "Located near the historical Baghdad-Mosul railway line",
+        "Ongoing efforts are focused on post-conflict rehabilitation"
+      ]
+    },
+    {
+      "id": "al-qasim-cities-v2",
+      "descriptionAdvanced": "Al Qasim is a city in the Babylon Governorate of central Iraq, located southeast of the provincial capital, Hillah. The city is primarily known as an important religious destination for Shia Muslims due to the shrine of Al-Qasim, the son of the seventh Shia Imam, Musa al-Kadhim. The presence of the shrine makes the city a center for religious tourism and annual pilgrimages. The local economy is supported by this religious tourism as well as agriculture, particularly the cultivation of date palms and grain in the fertile plains fed by branches of the Euphrates River.",
+      "factsAdvanced": [
+        "Located in the Babylon Governorate, southeast of Hillah",
+        "Important religious destination for Shia Muslims",
+        "Home to the shrine of Al-Qasim ibn Musa al-Kadhim",
+        "Economy is significantly supported by religious tourism",
+        "Surrounded by fertile plains irrigated by the Euphrates",
+        "Local agriculture includes date palm and grain cultivation",
+        "Hosts numerous pilgrims during significant Islamic religious dates",
+        "Serves as a local commercial center for surrounding villages"
+      ]
+    },
+    {
+      "id": "abu-ghraib-cities-v2",
+      "descriptionAdvanced": "Abu Ghraib is a city in the Baghdad Governorate, situated approximately 30 kilometers west of the capital's city center. It has a population of over 100,000 residents. The city is internationally infamous for the Abu Ghraib prison, an extensive complex that was notorious for extreme abuses under the regime of Saddam Hussein, and later gained global infamy following the 2003 invasion of Iraq due to a major prisoner abuse scandal involving coalition forces. Beyond the prison, the city is a significant agricultural area, formerly home to large dairy factories and research facilities, acting as a rural-urban transition zone west of Baghdad.",
+      "factsAdvanced": [
+        "Located in the Baghdad Governorate, 30 km west of the capital",
+        "Population is over 100,000 residents",
+        "Internationally infamous for the Abu Ghraib prison complex",
+        "Site of extreme abuses under the regime of Saddam Hussein",
+        "Site of a major prisoner abuse scandal following the 2003 invasion",
+        "Historically a significant agricultural and dairy production area",
+        "Acts as a transitional urban-rural zone west of Baghdad",
+        "Experienced significant instability during the Iraq War"
+      ]
+    },
+    {
+      "id": "hit-cities-v2",
+      "descriptionAdvanced": "Hit is an ancient city in the Al Anbar Governorate of western Iraq, located on the western bank of the Euphrates River, approximately 190 kilometers northwest of Baghdad. The city is historically famous for its natural bitumen springs, which have been utilized since ancient Mesopotamian times for waterproofing boats and construction, notably including the walls of Babylon. Hit features a historic walled citadel positioned on a hill overlooking the river. The city has a population of around 100,000. It fell under the control of the Islamic State in 2014 before being liberated by Iraqi security forces in 2016.",
+      "factsAdvanced": [
+        "Located in the Al Anbar Governorate on the Euphrates River",
+        "Situated approximately 190 kilometers northwest of Baghdad",
+        "Historically famous for natural bitumen (asphalt) springs",
+        "Bitumen used in ancient Mesopotamian boat building and construction",
+        "Features a historic walled citadel overlooking the river",
+        "Population is approximately 100,000",
+        "Captured by the Islamic State in 2014",
+        "Liberated by Iraqi security forces in 2016"
+      ]
+    },
+    {
+      "id": "rawandiz-cities-v2",
+      "descriptionAdvanced": "Rawandiz is a town in the Erbil Governorate of the Kurdistan Region in northern Iraq, situated near the borders with Iran and Turkey. The town is dramatically located on a high plateau surrounded by deep river gorges, including the stunning Rawandiz Gorge, making it a popular destination for nature tourism. Historically, it was the capital of the Kurdish Soran Emirate in the 19th century before falling to the Ottoman Empire. The population is predominantly Kurdish. Due to its challenging terrain, the town has historically been difficult to access, though modern infrastructure improvements have increased its connectivity and tourist appeal.",
+      "factsAdvanced": [
+        "Located in the Erbil Governorate of the Kurdistan Region",
+        "Situated on a high plateau surrounded by deep river gorges",
+        "Features the dramatic and scenic Rawandiz Gorge",
+        "Historically the capital of the 19th-century Soran Emirate",
+        "Popular regional destination for mountain and nature tourism",
+        "Predominantly populated by ethnic Kurds",
+        "Surrounded by challenging, mountainous terrain",
+        "Located near the historical Hamilton Road route"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "lang": "ro",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "djebel-biada-relief-v2",
+      "descriptionAdvanced": "Djebel Biada este un lanț muntos izolat și în mare parte neatins în regiunea Jendouba, în partea de nord a munților Atlas. Zona este acoperită de păduri dese de stejar și pin care, datorită nivelului ridicat de precipitații, sunt verzi pe tot parcursul anului. Accesibilitatea munților este mai dificilă, ceea ce a contribuit la conservarea vieții sălbatice naturale, astfel încât peisajul montan este o zonă atractivă și pentru cercetători, și pentru adevărații iubitori ai naturii. Topografia este fragmentată, alternanța pantelor abrupte și a văilor creează condiții microclimatice diverse care favorizează diversitatea vegetației.",
+      "factsAdvanced": [
+        "Unul dintre cele mai importante lanțuri muntoase din regiunea Jendouba.",
+        "Face parte din munții Atlas de nord.",
+        "Pădurile de stejar și pin constituie cea mai mare parte a vegetației muntelui.",
+        "Zona este relativ neatinsă din punct de vedere al vieții naturale sălbatice.",
+        "Condițiile sale climatice sunt mai răcoroase decât pe câmpiile interioare ale țării.",
+        "Topografia fragmentată necesită o performanță mai mare de drumeție de la vizitatori.",
+        "Munții sunt un refugiu ecologic important în regiune."
+      ]
+    },
+    {
+      "id": "djebel-mghila-relief-v2",
+      "descriptionAdvanced": "Djebel Mghila este un masiv muntos dur și stâncos în Tunisia centrală, care a devenit o zonă protejată de primă importanță datorită importanței sale ecologice. Principala atracție a munților este că găzduiește populația de gazelă berberă (gazela de munte) pe cale de dispariție, care găsește aici refugiu în fața zonelor deșertice înconjurătoare. Peisajul este extrem de fragmentat, cu stânci abrupte și văi adânci și uscate, caracteristici tipice zonei climatice semiaride. Vegetația munților este adaptată special condițiilor deșertice, astfel încât aici pot fi găsite numeroase specii care pot supraviețui doar în acest microclimat.",
+      "factsAdvanced": [
+        "Una dintre cele mai importante arii protejate pentru gazelele berbere.",
+        "Masiv muntos în regiunea aridă centrală.",
+        "Relieful este caracterizat prin pante stâncoase și văi uscate.",
+        "Dispune de o floră semiaridă specială.",
+        "Accesibilitatea zonei este limitată pentru protecția gazelelor.",
+        "Din punct de vedere geologic este o continuare a lanțurilor muntoase ale Atlasului central.",
+        "Tampon ecologic important între zona deșertică și zona montană."
+      ]
+    },
+    {
+      "id": "djebel-selloum-relief-v2",
+      "descriptionAdvanced": "Djebel Selloum este un lanț muntos important în regiunea Kasserine din Tunisia centrală, care se ridică din împrejurimi prin caracterul său arid și stâncos. Structura geologică a zonei este extrem de bogată în diferite roci care s-au format în timpul mișcărilor geologice, iar astăzi joacă un rol important în hidrologia regiunii. Lanțul muntos, ca bazin hidrografic natural, influențează alimentarea cu apă a câmpiilor înconjurătoare, deși zona însăși este extrem de uscată, aproape deșertică. Frumusețea crudă, aproape neînsuflețită a peisajului reflectă izolarea interiorului tunisian, unde activitatea umană este minimă.",
+      "factsAdvanced": [
+        "Lanț muntos situat în apropierea orașului Kasserine.",
+        "Mediul arid, uscat și steril caracterizează întregul masiv.",
+        "Unul dintre bazinele hidrografice naturale importante din regiune.",
+        "Suprafața sa a fost modelată de eroziunea de lungă durată.",
+        "Activitatea umană în zonă este foarte limitată.",
+        "Prezintă straturi geologice speciale din punct de vedere geologic.",
+        "Linia muntoasă servește drept graniță între diferite câmpii geografice."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "lang": "de",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chipinge-cities-v2",
+      "descriptionAdvanced": "Chipinge liegt in der Provinz Manicaland und ist ein bedeutender Standort für die Landwirtschaft, insbesondere für den Anbau von Tee, Kaffee und Macadamia-Nüssen. Die Stadt profitiert von ihrem fruchtbaren Boden und den klimatischen Bedingungen der Highlands, was sie zu einem der ertragreichsten Agrarstandorte Simbabwes macht. Die lokale Wirtschaft ist eng mit der Verarbeitung dieser wertvollen Produkte verknüpft. Erdkunde K7 – spezialisierte Agrarwirtschaft in Hochlandregionen.",
+      "factsAdvanced": [
+        "Wichtiger Standort für den Anbau von Tee und Kaffee.",
+        "Zentrum der Macadamia-Nuss-Produktion.",
+        "Fruchtbare Bedingungen durch Hochlandklima.",
+        "Bedeutende agrarindustrielle Verarbeitungsbetriebe.",
+        "Wirtschaftliches Zentrum in der Provinz Manicaland.",
+        "Ertragsreiche Region für hochwertige Agrarprodukte."
+      ]
+    },
+    {
+      "id": "chimanimani-cities-v2",
+      "descriptionAdvanced": "Chimanimani liegt in den Eastern Highlands und ist bekannt für seine dramatische Berglandschaft sowie als Tor zu den gleichnamigen Chimanimani-Bergen. Die Stadt ist ein beliebtes Ziel für Wanderer und Naturliebhaber und bietet eine einzigartige Umgebung aus dichten Wäldern und felsigen Gipfeln. Die lokale Wirtschaft ist stark vom Tourismus und der kleinbäuerlichen Landwirtschaft geprägt. Erdkunde K7 – Gebirgslandschaften und Ökotourismus.",
+      "factsAdvanced": [
+        "Bekannt für dramatische Berglandschaft.",
+        "Tor zu den Chimanimani-Bergen.",
+        "Beliebtes Ziel für Wanderer und Naturliebhaber.",
+        "Einzigartige Umgebung aus Wäldern und Felsen.",
+        "Wirtschaft geprägt durch Tourismus.",
+        "Bedeutend für kleinbäuerliche Landwirtschaft."
+      ]
+    },
+    {
+      "id": "nyanga-cities-v2",
+      "descriptionAdvanced": "Nyanga ist eine hochgelegene Stadt in den Eastern Highlands und bekannt als eines der bedeutendsten Ferienziele in Simbabwe. Die Stadt bietet kühle Temperaturen, malerische Wasserfälle und ausgedehnte Nadelwälder, die eine europäisch anmutende Landschaft schaffen. Nyanga ist ein Zentrum für den Tourismus und die Forellenzucht sowie für den Anbau von hochwertigen Äpfeln und anderem Obst. Erdkunde K7 – Hochlandtourismus und Agrarproduktion.",
+      "factsAdvanced": [
+        "Bedeutendes Ferienziel in den Highlands.",
+        "Kühle Temperaturen und malerische Wasserfälle.",
+        "Zentrum für den Tourismus und Forellenzucht.",
+        "Anbau von hochwertigen Äpfeln und Obst.",
+        "Europäisch anmutende Landschaftsformen.",
+        "Bedeutendes Wirtschaftszentrum in der Provinz Manicaland."
+      ]
+    },
+    {
+      "id": "penhalonga-cities-v2",
+      "descriptionAdvanced": "Penhalonga liegt in einem landschaftlich reizvollen Tal nahe Mutare und hat eine lange Tradition im Bergbau, insbesondere für Gold. Die Stadt ist von bewaldeten Hügeln umgeben und bietet ein angenehmes Klima. Die lokale Wirtschaft ist eine Mischung aus historisch bedeutendem Goldbergbau und kleineren landwirtschaftlichen Betrieben, die das Tal nutzen. Erdkunde K7 – Bergbautäler.",
+      "factsAdvanced": [
+        "Landschaftlich reizvolle Lage in einem Tal.",
+        "Lange Tradition im Goldbergbau.",
+        "Umgeben von bewaldeten Hügeln.",
+        "Mischung aus Bergbau und Landwirtschaft.",
+        "Nahe Mutare gelegen.",
+        "Angenehmes Klima in der Tal-Region."
+      ]
+    },
+    {
+      "id": "headlands-cities-v2",
+      "descriptionAdvanced": "Headlands ist eine ländliche Stadt in der Provinz Manicaland, die als lokaler Versorgungs- und Handelsort für das umliegende Farmgebiet fungiert. Die Wirtschaft basiert weitgehend auf dem kommerziellen Anbau von Tabak und Getreide. Headlands unterstützt die bäuerliche Bevölkerung durch die Bereitstellung von Dienstleistungen und Handelsplätzen und ist ein wichtiger Knotenpunkt für den regionalen Agrarhandel. Erdkunde K7 – Agrarhandelszentren.",
+      "factsAdvanced": [
+        "Lokaler Versorgungs- und Handelsort.",
+        "Wirtschaft basiert auf Tabak und Getreide.",
+        "Unterstützt die bäuerliche Bevölkerung.",
+        "Wichtiger Knotenpunkt für den Agrarhandel.",
+        "In der Provinz Manicaland gelegen.",
+        "Regionale Bedeutung als Handelsplatz."
+      ]
+    },
+    {
+      "id": "concession-cities-v2",
+      "descriptionAdvanced": "Concession ist eine Stadt in der Provinz Mashonaland Central, die für ihre enge Anbindung an die kommerzielle Landwirtschaft bekannt ist. Die Stadt fungiert als Dienstleistungszentrum für die umliegenden Farmbetriebe und trägt durch die Verarbeitung landwirtschaftlicher Produkte zur wirtschaftlichen Entwicklung der Region bei. Ihre Lage macht sie zu einem wichtigen Ort für den lokalen Handel in der Provinz. Erdkunde K7 – agrarwirtschaftliche Siedlungszentren.",
+      "factsAdvanced": [
+        "Enge Anbindung an kommerzielle Landwirtschaft.",
+        "Dienstleistungszentrum für umliegende Farmen.",
+        "Verarbeitung landwirtschaftlicher Produkte.",
+        "Wichtiger Ort für den lokalen Handel.",
+        "Wirtschaftlicher Beitrag für Mashonaland Central.",
+        "Stetige Entwicklung als Agrarzentrum."
+      ]
+    },
+    {
+      "id": "murehwa-cities-v2",
+      "descriptionAdvanced": "Murehwa ist eine wichtige Stadt östlich von Harare in der Provinz Mashonaland East. Sie dient als administratives und wirtschaftliches Zentrum für die umliegende ländliche Region und ist bekannt für ihre Rolle bei der Förderung der lokalen Landwirtschaft. Murehwa unterstützt den Handel mit agrarischen Erzeugnissen und bietet notwendige Dienste für die Bewohner des ländlichen Raums. Erdkunde K7 – ländliche Entwicklungszentren.",
+      "factsAdvanced": [
+        "Administratives und wirtschaftliches Zentrum.",
+        "Wichtiger Ort für lokale Landwirtschaft.",
+        "Förderung des Handels mit Agrarprodukten.",
+        "Regionale Dienste für ländliche Bewohner.",
+        "Strategische Lage östlich von Harare.",
+        "Wachsende Bedeutung in Mashonaland East."
+      ]
+    },
+    {
+      "id": "wedza-cities-v2",
+      "descriptionAdvanced": "Wedza ist eine Stadt in der Provinz Mashonaland East, die inmitten eines landwirtschaftlich geprägten Gebiets liegt. Die Stadt ist ein lokaler Handels- und Dienstleistungsort, der die bäuerliche Bevölkerung unterstützt. Die wirtschaftliche Basis ist stark auf die kleinbäuerliche Produktion und den Handel mit landwirtschaftlichen Gütern ausgerichtet. Wedza trägt zur lokalen Versorgung und zum Handel in der Provinz bei. Erdkunde K7 – ländliche Handelsorte.",
+      "factsAdvanced": [
+        "Zentraler Handels- und Dienstleistungsort.",
+        "Unterstützung der bäuerlichen Bevölkerung.",
+        "Basiert auf kleinbäuerlicher Produktion.",
+        "Handel mit landwirtschaftlichen Gütern.",
+        "Beitrag zur lokalen Versorgung in der Provinz.",
+        "In Mashonaland East gelegen."
+      ]
+    },
+    {
+      "id": "goromonzi-cities-v2",
+      "descriptionAdvanced": "Goromonzi liegt nahe der Hauptstadt Harare und ist ein wichtiger Standort für die lokale Landwirtschaft und Gartenbau. Die Stadt fungiert als Versorgungszentrum für den wachsenden Ballungsraum Harare und profitiert von ihrer geografischen Nähe zur Hauptstadt. Goromonzi unterstützt die lokale Agrarwirtschaft und ist ein wichtiger Ort für die Vermarktung von frischen Erzeugnissen. Erdkunde K7 – stadtnahe Landwirtschaft.",
+      "factsAdvanced": [
+        "Standort für lokale Landwirtschaft und Gartenbau.",
+        "Wichtiges Versorgungszentrum für Harare.",
+        "Geografische Nähe zur Hauptstadt.",
+        "Vermarktung frischer Agrarerzeugnisse.",
+        "Beitrag zur Versorgung des Ballungsraums.",
+        "Wichtiger agrarwirtschaftlicher Standort."
+      ]
+    },
+    {
+      "id": "chakari-cities-v2",
+      "descriptionAdvanced": "Chakari ist eine Stadt in der Provinz Mashonaland West, die historisch durch den Goldabbau geprägt wurde. Heute fungiert sie als lokaler Versorgungs- und Handelsort für die umliegenden ländlichen Gebiete und Farmbetriebe. Die Wirtschaft ist eine Mischung aus Bergbaugeschichte und kleinbäuerlicher Landwirtschaft, die das Leben in Chakari bestimmt. Erdkunde K7 – Bergbau- und Agrarsiedlungen.",
+      "factsAdvanced": [
+        "Historisch durch den Goldabbau geprägt.",
+        "Lokaler Versorgungs- und Handelsort.",
+        "Standort für ländliche Gebiete und Farmen.",
+        "Mischung aus Bergbau und Landwirtschaft.",
+        "Regionale ökonomische Basis.",
+        "Entwicklung als Handelsort in Mashonaland West."
+      ]
+    }
+  ]
+}

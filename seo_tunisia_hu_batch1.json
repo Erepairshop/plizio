@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "atlas-gebirge-relief-v2",
+      "descriptionAdvanced": "Az Atlasz-hegység Tunézia északnyugati részén nyújt változatos domborzati viszonyokat, ahol a hegyláncok és a termékeny völgyek határozzák meg a táj képét. Ez a terület az ország legfontosabb természetes vízválasztója, amely elválasztja az északi, nedvesebb régiót a déli, szárazabb területektől. A hegységrendszer 2400 kilométer hosszan húzódik keresztül Észak-Afrikán, Tunéziában pedig a Medjerda-folyó vízgyűjtőjének táplálásával teszi lehetővé a mezőgazdaságot a völgyekben. A változatos magasságok és a hegységszerkezet számos mikroklímát hoznak létre, ami különleges élőhelyet biztosít a régió flórájának és faunájának.",
+      "factsAdvanced": [
+        "Az Atlasz-hegység hossza meghaladja a 2400 kilométert Észak-Afrikában.",
+        "A hegységrendszer Tunézia északnyugati részén nyúlik el.",
+        "Fontos szerepet tölt be az ország csapadékellátásában és vízgazdálkodásában.",
+        "A hegyláncok elválasztják a Földközi-tengeri régiót a Szahara szárazabb vidékeitől.",
+        "A hegyvidéki völgyek kiválóan alkalmasak a mezőgazdasági művelésre.",
+        "Az Atlasz-hegység kőzetei változatos geológiai korszakokból származnak.",
+        "A hegységrendszer kulcsfontosságú vízgyűjtője a Medjerda-folyónak."
+      ]
+    },
+    {
+      "id": "djebel-chambi-relief-v2",
+      "descriptionAdvanced": "A Djebel Chambi Tunézia legmagasabb pontja, egyben az Atlasz-hegység Kasserine régióban található kiemelkedő csúcsa, amely 1544 méteres magasságával uralja a tájat. A terület nemzeti parki védettséget élvez, mivel a hegy gazdag flórája és faunája – beleértve a ritka fenyőerdőket és a veszélyeztetett berber szarvast – különleges ökológiai értéket képvisel. Földrajzi szempontból a csúcs a Szahara sivatagi hatása és a hegyvidéki övezet határvonalán helyezkedik el. A hegycsúcs gyakran az egyetlen olyan pont Tunéziában, ahol a téli hónapokban hóréteg figyelhető meg, ami látványos kontrasztot képez a környező félszáraz tájjal.",
+      "factsAdvanced": [
+        "Ez Tunézia legmagasabb pontja 1544 méteres magassággal.",
+        "A Djebel Chambi Nemzeti Park részét képezi.",
+        "Az Atlasz-hegység keleti ágának része Kasserine városa közelében.",
+        "Az UNESCO 1977-ben bioszféra-rezervátummá nyilvánította.",
+        "A hegycsúcsot sűrű, ritka fajoknak otthont adó fenyőerdő borítja.",
+        "Télen az egyetlen olyan hely Tunéziában, ahol tartósan megmaradhat a hó.",
+        "A hegyvidéki domborzat kedvez az egyedülálló élővilágnak."
+      ]
+    },
+    {
+      "id": "chott-el-jerid-relief-v2",
+      "descriptionAdvanced": "A Chott el Jerid Tunézia legnagyobb sós tava, egy hatalmas, mélyen fekvő, időszakos endorheikus medence a sivatagi régió közepén. Területe meghaladja az 5000 négyzetkilométert, és többnyire a tengerszint alatt helyezkedik el, így az ország egyik legmélyebben fekvő pontja. A táj, amely gyakran egy fehér, csillogó, kristályos sóréteggel borított kősivatagra emlékeztet, drámai kontrasztot képez a környező homokdűnékkel és oázisokkal. A víz párolgása miatt a felszínt vastag sókéreg borítja, amely színében a fehértől a vörösesbarnáig változhat, a felszíni ásványi lerakódások típusától függően.",
+      "factsAdvanced": [
+        "Tunézia legnagyobb kiterjedésű sós tava.",
+        "A medence jelentős része a tengerszint alatt fekszik.",
+        "Területe meghaladja az 5000 négyzetkilométert.",
+        "A nyári hónapokban a víz elpárolog, sóréteget hagyva hátra.",
+        "A terület híres délibáb jelenségeiről.",
+        "A sós medence a sivatagi környezet elengedhetetlen része.",
+        "A sós sivatagban a sókéreg vastagsága elérheti az egy métert is."
+      ]
+    },
+    {
+      "id": "tunis-ebene-relief-v2",
+      "descriptionAdvanced": "A Tunisz-síkság az ország északi részének legtermékenyebb síksága, amely a fővárost, Tuniszt öleli körül, és amelyet gyakran Medjerda-síkságként is emlegetnek. Ez a terület Tunézia legintenzívebben művelt mezőgazdasági régiója, ahol a sík domborzat lehetővé teszi a gépesített nagyüzemi termesztést, különösen a gabonafélék és zöldségfélék tekintetében. A síkság a Medjerda-folyó üledéklerakódásai révén alakult ki az évezredek során, így talaja kivételesen tápanyaggazdag. A régió éghajlata a Földközi-tenger közelsége miatt enyhébb, ami stabil vízellátást biztosít az öntözőrendszereknek, támogatva az ország gazdasági központjának népességét.",
+      "factsAdvanced": [
+        "Tunézia legfontosabb gabonatermesztő vidéke.",
+        "A Medjerda-folyó mentén kialakult hordalékkúp síksága.",
+        "A fővárost és sűrűn lakott elővárosait foglalja magában.",
+        "Ez a legintenzívebben művelt mezőgazdasági terület az országban.",
+        "A sík domborzat ideális feltételeket teremt a modern termesztéshez.",
+        "Történelmileg is stratégiai jelentőségű régió Tunéziában.",
+        "A síkságon számos nagy kapacitású öntözőrendszer működik."
+      ]
+    },
+    {
+      "id": "djebel-zaghouan-relief-v2",
+      "descriptionAdvanced": "A Djebel Zaghouan egy látványos mészkőhegység Tunézia északi részén, amely meredek, drámai falaival és csipkézett gerinceivel uralja a tájat. Történelmileg kiemelkedő fontosságú helyszín, mivel a római korban innen vezették el az ókori Karthágó vízellátását biztosító, 132 kilométer hosszú vízvezetéket, amely a Zaghouan-hegy forrásaiból táplálkozott. A terület a természetvédelmi szempontok mellett a hegymászók és túrázók számára is vonzó célpont, mivel számos jól járható, ugyanakkor technikás útvonalat kínál. A hegy geológiailag változatos, erősen karsztosodott mészkőformációi a régió meghatározó tájképi elemei.",
+      "factsAdvanced": [
+        "A hegység csúcsai közel 1300 méteres magasságot érnek el.",
+        "A római korban innen építettek vízvezetéket Karthágóba.",
+        "A hegyvidék erősen karsztosodott mészkőből épül fel.",
+        "A környék a túrázás és hegymászás kedvelt helyszíne.",
+        "Egyedi növényvilága miatt védett természetvédelmi terület.",
+        "A Zaghouan-hegy a régió meghatározó tájképi eleme.",
+        "A római vízvezeték hossza eredetileg 132 km volt."
+      ]
+    }
+  ]
+}

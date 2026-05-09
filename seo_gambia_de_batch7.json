@@ -2,33 +2,294 @@
   "lang": "de",
   "country": "gambia",
   "files": [
-    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "kalagi-cities-v2",
-      "descriptionAdvanced": "Kalagi ist eine strategisch bedeutsame Stadt im Distrikt Foni Jarrol, die durch ihre Lage direkt an der South Bank Road eine zentrale Funktion im regionalen Verkehrsnetz einnimmt. Als lokaler Knotenpunkt ist sie Anlaufstelle für die umliegende landwirtschaftlich geprägte Bevölkerung und bietet wesentliche Handelsmöglichkeiten für die Bauern der Region. Der Ort ist ein lebendiges Beispiel für die Vernetzung ländlicher Gemeinden mit den überregionalen Handelswegen Gambias. Die Dynamik zwischen Durchgangsverkehr und lokalem Handel bestimmt den Alltag in Kalagi und macht die Stadt zu einem wichtigen Ankerpunkt für die gesamte Foni-Region. Geographie K7 — Verkehrs- und Versorgungszentren.",
-      "factsAdvanced": ["Zentrale Lage an der South Bank Road.", "Wichtiger lokaler Knotenpunkt.", "Handelsplatz für regionale Landwirte.", "Bindeglied zwischen Foni und dem restlichen Land.", "Wichtiger Ankerpunkt für den Transit.", "Förderer regionaler Wirtschaftskreisläufe.", "Strategische Bedeutung für den Foni Jarrol-Distrikt."]
+      "id": "brikama-woodcarving-market-life-v2",
+      "descriptionAdvanced": "Der Holzschnitzermarkt in Brikama ist das unbestrittene Zentrum der gambischen Kunstfertigkeit und ein Ort, an dem uralte Traditionen in beeindruckenden Skulpturen lebendig werden. Meisterliche Schnitzer aus dem ganzen Land kommen hier zusammen, um aus harten Tropenhölzern wie Mahagoni, Ebenholz und Teak kunstvolle Masken, Statuen und Gebrauchsgegenstände zu fertigen. Besucher können den Künstlern direkt bei der Arbeit zusehen und miterleben, wie aus einem rohen Holzblock mit einfachen Werkzeugen filigrane Kunstwerke entstehen. Der Markt ist nicht nur eine Touristenattraktion, sondern eine lebensnotwendige wirtschaftliche Basis für hunderte von Handwerksfamilien. Brikama woodcarving market steht für die kulturelle Kontinuität Gambias und bietet eine einzigartige Gelegenheit, die tiefe Symbolik westafrikanischer Holzkunst zu verstehen und zu unterstützen. (Sachkunde K6 — Traditionelles Handwerk und Kulturgüter)",
+      "factsAdvanced": [
+        "Berühmtester Markt für Holzschnitzkunst in Gambia.",
+        "Zentrum für die Verarbeitung von Mahagoni und Teakholz.",
+        "Ort der Ausbildung für junge Schnitzer-Lehrlinge.",
+        "Bedeutender Exportstandort für gambisches Kunsthandwerk.",
+        "Beherbergt hunderte von spezialisierten Werkstätten.",
+        "Symbol für das kulturelle Erbe der Mandinka-Schnitzer.",
+        "Wichtiger Wirtschaftsfaktor für die West Coast Region.",
+        "Ort intensiven kulturellen Austauschs und Handels."
+      ]
     },
     {
-      "id": "faraba-banta-cities-v2",
-      "descriptionAdvanced": "Faraba Banta hat in den letzten Jahren durch die Errichtung des Faraba Banta Universitätscampus an Bedeutung gewonnen, wodurch die Stadt zunehmend als Bildungsstandort wahrgenommen wird. Die Region um die Stadt ist zudem durch eine florierende Cashew-Produktion geprägt, die einen wichtigen Beitrag zur lokalen Wirtschaft und zum Export leistet. Die Kombination aus Bildungsinfrastruktur und landwirtschaftlicher Produktion macht Faraba Banta zu einem interessanten Entwicklungsbeispiel in der West Coast Region. Die Stadt repräsentiert die Verbindung von modernen akademischen Ambitionen und traditioneller Agrarwirtschaft. Bildung/Wirtschaft K8 — Zukunftsfähige Entwicklung.",
-      "factsAdvanced": ["Standort der Faraba Banta Universität.", "Bedeutendes Zentrum für Cashew-Produktion.", "Wachsender Bildungsstandort.", "Verbindung von Agrarwirtschaft und Bildung.", "Wichtige Entwicklungsperspektiven in der Region.", "Moderne Infrastrukturbestrebungen.", "Starke landwirtschaftliche Basis."]
+      "id": "tanji-fishing-village-life-v2",
+      "descriptionAdvanced": "Tanji ist das lebhafteste und authentischste Fischerdorf an der gambischen Atlantikküste und bietet ein unvergleichliches Schauspiel westafrikanischer Erwerbsdynamik. Jeden Nachmittag verwandelt sich der Strand in ein Kaleidoskop aus Farben und Energie, wenn hunderte von Pirogen durch die Brandung anlanden. Die gesamte Dorfgemeinschaft ist in den Prozess involviert – von den starken Männern, die die Netze einholen, bis hin zu den Frauen, die den Fang sortieren, verhandeln und in die Räuchereien bringen. Der Rauch der Fischräuchereien prägt das Aroma des Ortes und ist ein Zeichen für die hocheffiziente, traditionelle Konservierungsmethode, die den Fisch bis tief ins Binnenland haltbar macht. Tanji ist das pulsierende Herz der maritimen Nahrungsmittelversorgung Gambias und ein Ort, an dem man den direkten Puls des Lebens am Meer spüren kann. (Wirtschaft K6 — Maritime Ressourcen und Marktdynamik)",
+      "factsAdvanced": [
+        "Größter handwerklicher Fischlandeplatz des Landes.",
+        "Zentrum der traditionellen Fischräucherei (Bonga-Fisch).",
+        "Wichtiger Lieferant für die Märkte in Zentral-Gambia.",
+        "Bekannt für seine bunt bemalten, hochseetauglichen Pirogen.",
+        "Ort intensiver Tätigkeit von Frauen-Fischhandelskooperativen.",
+        "Bedeutendes Ziel für die internationale Dokumentarfotografie.",
+        "Wachsendes Zentrum für maritime Dienstleistungen.",
+        "Symbol für die harte Arbeit und den Erfolg der Küstenfischerei."
+      ]
     },
     {
-      "id": "yundum-cities-v2",
-      "descriptionAdvanced": "Yundum ist als Standort des Banjul International Airport das erste Tor zur Welt für die meisten Reisenden, die Gambia besuchen. Der Flughafen verbindet Gambia mit internationalen Zielen und bildet die logistische Basis für den Tourismus und den globalen Handel. Neben der Flughafen-Infrastruktur beherbergt Yundum auch den Campus des Gambia College, was den Ort zu einem Zentrum für Ausbildung macht. Die Kombination aus internationalem Luftverkehr und lokaler akademischer Präsenz verleiht Yundum eine einzigartige Rolle in der nationalen Infrastruktur. Wirtschaft K8 — Logistik und internationale Anbindung.",
-      "factsAdvanced": ["Standort des Banjul International Airport.", "Heimat des Gambia College.", "Tor zur Welt für Reisende.", "Zentraler Knotenpunkt für Tourismuslogistik.", "Bedeutende Bildungs- und Ausbildungsinfrastruktur.", "Logistisches Rückgrat für den internationalen Austausch.", "Wichtiger Arbeitgeber für die Region."]
+      "id": "serekunda-central-market-life-v2",
+      "descriptionAdvanced": "Der Serekunda Central Market ist das gigantische wirtschaftliche Epizentrum Gambias, in dem der unbändige Unternehmergeist der Nation in seiner reinsten Form erlebbar ist. Dieses Labyrinth aus engen Gassen und unzähligen Verkaufsständen ist der Ort, an dem buchstäblich alles gehandelt wird – von exotischen Früchten und duftenden Gewürzen bis hin zu leuchtenden Textilien und modernster Technik. Die Energie des Marktes ist elektrisierend; das Feilschen und der ständige Fluss von Menschen schaffen eine Atmosphäre intensiver Vitalität. Der Markt ist nicht nur ein Ort des Handels, sondern das soziale Rückgrat der Region, in dem Informationen ausgetauscht und weitreichende Geschäftsbeziehungen geknüpft werden. Serekunda Market illustriert eindrucksvoll die Bedeutung der informellen Ökonomie für das Überleben und den Wohlstand Westafrikas und ist ein unverzichtbares Erlebnis für jeden Besucher. (Wirtschaft K7 — Urbane Handelszentren und Warenströme)",
+      "factsAdvanced": [
+        "Größter Marktplatz in Gambia und wirtschaftliches Kraftzentrum.",
+        "Zentraler Punkt für den Handel mit traditionellen Textilien.",
+        "Wichtigstes Versorgungszentrum für über eine halbe Million Menschen.",
+        "Bedeutender Umschlagplatz für landwirtschaftliche Erzeugnisse.",
+        "Ort der Beschäftigung für tausende von Kleinsthändlern.",
+        "Logistischer Knotenpunkt für den regionalen Warenvertrieb.",
+        "Symbol für die kulturelle und ethnische Vielfalt des Landes.",
+        "Fokusgebiet für moderne städtische Entwicklungsprojekte."
+      ]
     },
     {
-      "id": "kotu-cities-v2",
-      "descriptionAdvanced": "Kotu ist eines der bekanntesten Touristenzentren Gambias und zeichnet sich durch die Nähe zum Kotu Stream aus, einem Paradies für Vogelbeobachter. Der Ort bietet eine hochwertige touristische Infrastruktur mit vielen strandnahen Hotels, die den Bedürfnissen internationaler Besucher entsprechen. Der Kotu Stream selbst bildet ein natürliches Ökosystem, das einen faszinierenden Kontrast zur touristischen Erschließung darstellt und gleichzeitig einen wichtigen Wert für das Naturbewusstsein bietet. Kotu ist somit ein Musterbeispiel für die Integration von Freizeittourismus und natürlicher Flora in Gambia. Biologie K6 — Ökologischer Tourismus.",
-      "factsAdvanced": ["Bekanntes Zentrum für Strandtourismus.", "Bedeutendes Gebiet für Vogelbeobachtung.", "Hochwertige Hotel-Infrastruktur am Meer.", "Zentrum für naturbezogene Freizeitaktivitäten.", "Erfolgreiche Integration von Tourismus und Natur.", "Beliebtes Ziel für internationale Gäste.", "Ökologisch wertvoller Kotu Stream in der Nähe."]
+      "id": "lamin-lodge-mangroves-life-v2",
+      "descriptionAdvanced": "Lamin Lodge ist das faszinierende Tor zum geheimnisvollen Tanbi Wetland Complex und ein Ort, an dem man die Symbiose aus Mangrovenschutz und Ökotourismus hautnah erleben kann. Die Lodge selbst, ein imposantes Bauwerk aus Mangrovenholz, fügt sich perfekt in die üppige Umgebung ein. Von hier aus starten die traditionellen Pirogen in die gewundenen Kanäle (Bolongs), um die reiche Vogelwelt und die einzigartigen Mangroven-Ökosysteme zu erkunden. Lamin ist zudem ein Zentrum für die Austernfischerei, die traditionell von Frauen betrieben wird, die während der Ebbe die Mangrovenwurzeln nach den begehrten Schalentieren absuchen. Ein Besuch in Lamin bietet nicht nur Erholung, sondern schärft auch das Bewusstsein für die enorme ökologische Bedeutung der Feuchtgebiete als natürliche Barrieren gegen die Küstenerosion und als Kinderstube für unzählige Fischarten. (Biologie K7 — Feuchtgebietsökologie und nachhaltige Nutzung)",
+      "factsAdvanced": [
+        "Wichtigster Stützpunkt für Ökotourismus im Tanbi Wetland.",
+        "Zentrum der traditionellen Austernernte durch Frauenkollektive.",
+        "Architektonisches Wahrzeichen aus lokalem Mangrovenholz.",
+        "Hotspot für die Beobachtung seltener Eisvögel und Reiher.",
+        "Ausgangspunkt für Bootsausflüge in das Ästuar des Gambia-Flusses.",
+        "Wichtiger Standort für die Umweltbildung in städtischen Gebieten.",
+        "Symbol für den Schutz der küstennahen Mangrovenwälder.",
+        "Zentrum für die handwerkliche Fischerei im Oyster Creek."
+      ]
     },
     {
-      "id": "manjai-kunda-cities-v2",
-      "descriptionAdvanced": "Manjai Kunda ist ein dynamisches Wohnviertel in der Kanifing Municipality, das aufgrund seiner Nähe zu den touristischen Hauptattraktionen des Landes zunehmend an Attraktivität gewinnt. Viele junge Fachkräfte finden hier ein Zuhause, was dem Viertel einen modernen und aufstrebenden Charakter verleiht. Die unmittelbare Nachbarschaft zum Senegambia Strip macht Manjai Kunda zu einem bevorzugten Wohnort für alle, die eine gute Anbindung an die lebhaften Teile der Metropolregion suchen. Die Stadt ist ein Spiegelbild der urbanen Mobilität und des sozialen Wandels im modernen Gambia. Sozialkunde K7 — Urbane Wohnraumdynamik.",
-      "factsAdvanced": ["Wachsende Beliebtheit bei jungen Fachkräften.", "Nähe zu den Hauptattraktionen des Tourismus.", "Modernes und aufstrebendes Wohnviertel.", "Gute Anbindung an den Senegambia Strip.", "Dynamische städtische Nachbarschaft.", "Symbol für modernen urbanen Lebensstil.", "Zentral gelegen in der Kanifing Municipality."]
+      "id": "gunjur-turtle-conservation-life-v2",
+      "descriptionAdvanced": "Das Schildkrötenschutzprojekt in Gunjur ist eine herausragende gemeindebasierte Initiative, die den Schutz der bedrohten Meeresschildkröten an der gambischen Atlantikküste in den Mittelpunkt stellt. Durch das unermüdliche Engagement lokaler Freiwilliger und Naturschützer werden die Niststrände überwacht, um die Eier vor Wilderern und Raubtieren zu schützen. Die Station in Gunjur dient zudem als Bildungszentrum, das Fischern und Schulkindern die Bedeutung der marinen Biodiversität für das ökologische Gleichgewicht vermittelt. Besucher können hier oft miterleben, wie junge Schildkröten in die Freiheit des Ozeans entlassen werden – ein emotionaler Moment, der den Erfolg der Naturschutzbemühungen unterstreicht. Das Projekt illustriert eindrucksvoll, dass echter Artenschutz nur durch die aktive Einbeziehung der lokalen Bevölkerung und eine tiefgreifende Sensibilisierung für den Wert der Natur gelingen kann. (Biologie K8 — Maritimer Artenschutz und Umweltethik)",
+      "factsAdvanced": [
+        "Wichtigstes Projekt zum Schutz von Meeresschildkröten in Gambia.",
+        "Fokus auf die Überwachung der Nistplätze von Suppen- und Lederschildkröten.",
+        "Zentrum für Umweltbildung und Ausbildung lokaler Ranger.",
+        "Engagiert in der Bekämpfung von Plastikmüll an den Küsten.",
+        "Bedeutender Partner für internationale Meeresforschungsinstitute.",
+        "Fördert den nachhaltigen Ökotourismus in Gunjur.",
+        "Symbol für den Wandel vom Wilderer zum Naturschützer.",
+        "Wichtiger Standort für die Aufzucht verletzter Meerestiere."
+      ]
+    },
+    {
+      "id": "njau-recycling-center-life-v2",
+      "descriptionAdvanced": "Das Recycling-Zentrum von Njau in der North Bank Region ist eine weltweit anerkannte Pionierleistung auf dem Gebiet des kommunalen Abfallmanagements und des Frauen-Empowerments. Gegründet von Isatou Ceesay, hat das Projekt aus der Notwendigkeit, das Dorf von Plastikmüll zu befreien, eine blühende Kreislaufwirtschaft geschaffen. Die Frauen von Njau sammeln weggeworfene Plastiktüten, reinigen sie und verarbeiten sie in kunstvoller Handarbeit zu hochwertigen Taschen, Geldbörsen und Gebrauchsgegenständen. Dieses Projekt hat nicht nur die Umweltbelastung massiv reduziert, sondern Hunderten von Frauen eine unabhängige Einkommensquelle und soziale Anerkennung verschafft. Njau Recycling Center ist ein leuchtendes Beispiel für Innovation im ländlichen Afrika und zeigt, dass durch Kreativität und Gemeinschaftssinn globale Umweltprobleme auf lokaler Ebene erfolgreich gelöst werden können. (Sachkunde K7 — Abfallwirtschaft und Empowerment)",
+      "factsAdvanced": [
+        "International preisgekröntes Projekt für Plastikrecycling.",
+        "Heimat der Initiative 'One Plastic Bag' von Isatou Ceesay.",
+        "Zentrum für die Produktion von Upcycling-Kunsthandwerk.",
+        "Wichtiger Standort für die ökonomische Stärkung von Frauen.",
+        "Vorreiter bei der Umweltaufklärung im ländlichen Raum.",
+        "Reduziert drastisch die Plastikverschmutzung in der NBR.",
+        "Symbol für nachhaltige ländliche Entwicklung in Gambia.",
+        "Beliebtes Ziel für Delegationen und Umweltaktivisten."
+      ]
+    },
+    {
+      "id": "basse-peanut-fields-life-v2",
+      "descriptionAdvanced": "Die Erdnussfelder rund um Basse Santa Su bilden das agrarische Rückgrat Gambias und prägen seit Generationen die Identität und Wirtschaft der Upper River Region. Hier, im fruchtbaren Hinterland, wird das wichtigste Exportgut des Landes in mühsamer Handarbeit angebaut und geerntet. Der Zyklus des Erdnussanbaus bestimmt den Rhythmus des Lebens in den Dörfern – von der Aussaat zu Beginn der Regenzeit bis hin zur geschäftigen Ernte und dem anschließenden Verkauf an die regionalen Depots. Die Felder von Basse sind ein Symbol für die harte Arbeit der gambischen Bauern und ihre tiefe Verbundenheit mit der Erde. Trotz moderner Herausforderungen bleibt der Erdnussanbau die primäre Einkommensquelle für tausende Familien und illustriert die enorme Bedeutung der Landwirtschaft für die nationale Souveränität und die Stabilität Gambias. (Sachkunde K7 — Agrarwirtschaft und Nutzpflanzen)",
+      "factsAdvanced": [
+        "Hauptanbaugebiet für die Erdnuss-Monokultur in Gambia.",
+        "Lebensgrundlage für den Großteil der ländlichen Bevölkerung.",
+        "Zentrum für die Erforschung resistenterer Saatgut-Sorten.",
+        "Motor für den regionalen Handel in der Upper River Region.",
+        "Ort intensiver gemeinschaftlicher Erntearbeit (Tesito).",
+        "Wichtiger Faktor für die nationalen Deviseneinnahmen.",
+        "Symbol für die agrarische Tradition Gambias.",
+        "Zentraler Standort für agrarlogistische Dienstleistungen."
+      ]
+    },
+    {
+      "id": "sapu-rice-station-life-v2",
+      "descriptionAdvanced": "Die Sapu Rice Station in der Central River Region ist das nationale Zentrum für Reisforschung und ein entscheidender Faktor für die Ernährungssicherheit Gambias. Gegründet zur Zeit der Unabhängigkeit, widmet sich die Station der Entwicklung und Erprobung von Hochertragssorten, die perfekt an die Schwemmlandbedingungen des Gambia-Flusses angepasst sind. In Sapu treffen wissenschaftliche Forschung und praktische Landwirtschaft aufeinander; hier werden Bauern in modernen Anbaumethoden geschult, um die nationale Produktion zu steigern und die Abhängigkeit von Importen zu verringern. Die weitläufigen Versuchsfelder sind ein Zeugnis für den technologischen Fortschritt in der gambischen Landwirtschaft. Sapu spielt eine Schlüsselrolle bei der Bewältigung der Herausforderungen des Klimawandels durch die Entwicklung von Sorten, die sowohl dürreresistent als auch salztolerant sind. (Biologie K8 — Agrarforschung und Lebensmittelsicherheit)",
+      "factsAdvanced": [
+        "Führende staatliche Forschungsstation für Reisanbau.",
+        "Zentrum für die Zucht von an das Flussklima angepassten Sorten.",
+        "Wichtiger Standort für die landwirtschaftliche Fachberatung.",
+        "Beitrag zur Reduzierung der nationalen Reis-Importabhängigkeit.",
+        "Standort umfangreicher Bewässerungsversuchsanlagen.",
+        "Zusammenarbeit mit internationalen Agrarforschungsorganisationen.",
+        "Symbol für den wissenschaftlichen Fortschritt in Gambia.",
+        "Zentraler Punkt für die Koordination der nationalen Reisstrategie."
+      ]
+    },
+    {
+      "id": "kuntaur-rice-mill-life-v2",
+      "descriptionAdvanced": "Die Reismühle in Kuntaur ist die bedeutendste industrielle Verarbeitungsanlage für Getreide im Herzen Gambias und ein unverzichtbarer logistischer Knotenpunkt der Central River Region. Inmitten der größten Reisanbaugebiete des Landes gelegen, verarbeitet diese Anlage die Ernten von Tausenden von Kleinbauern und bereitet sie für den nationalen Markt vor. Die Mühle ist ein Symbol für die industrielle Entwicklung des ländlichen Raums und stellt sicher, dass die lokale Produktion wertschöpfend im Land bleibt. Während der Erntezeit verwandelt sich Kuntaur in ein pulsierendes Zentrum, wenn LKW und Boote tonnenweise Reis zur Verarbeitung anliefern. Die Funktionsfähigkeit dieser Mühle ist direkt mit dem Wohlstand der regionalen Bauern und der Preisstabilität von Reis in ganz Gambia verknüpft, was ihr eine enorme strategische Bedeutung verleiht. (Wirtschaft K8 — Industrielle Verarbeitung und regionale Wertschöpfung)",
+      "factsAdvanced": [
+        "Größte industrielle Reismühle in der Central River Region.",
+        "Zentraler Abnahmepunkt für die Ernten der Schwemmlandbauern.",
+        "Wesentlicher Arbeitgeber für technische Fachkräfte im Inland.",
+        "Garant für die Aufbereitung von Qualitätsreis für den Binnenmarkt.",
+        "Strategisch gelegen am schiffbaren Oberlauf des Gambia-Flusses.",
+        "Symbol für die gewerbliche Transformation der Agrarwirtschaft.",
+        "Wichtiger Standort für die Lagerung nationaler Getreidereserven.",
+        "Motor für die wirtschaftliche Belebung der Stadt Kuntaur."
+      ]
+    },
+    {
+      "id": "basse-groundnut-bay-life-v2",
+      "descriptionAdvanced": "Basse Groundnut Bay ist der historische und emotionale Ankerpunkt des gambischen Außenhandels im tiefen Landesinneren. Über Jahrzehnte war dieses Uferareal in Basse Santa Su der Ort, an dem die wertvollen Erdnussernten des Ostens auf mächtige Flussdampfer verladen wurden, um sie in alle Welt zu exportieren. Die markanten Lagerhäuser und Wiegestationen aus der Kolonialzeit verleihen dem Ort einen nostalgischen Charme und zeugen von einer Ära, in der der Fluss die einzige Verbindung zum globalen Markt war. Auch heute ist das Gebiet ein Zentrum des Handels und der Logistik, wo Agrarprodukte aus Gambia, Senegal und Guinea zusammenkommen. Basse Groundnut Bay illustriert eindrucksvoll die wirtschaftliche Kontinuität und den Wandel Gambias vom Fluss- zum Straßentransport und bleibt ein unverzichtbarer Ort für die sozioökonomische Stabilität der Upper River Region. (Geschichte K8 — Welthandelshistorie und Flusslogistik)",
+      "factsAdvanced": [
+        "Historisch bedeutendster Erdnuss-Verladehafen am Oberlauf.",
+        "Ensemble gut erhaltener kolonialer Handelsarchitektur.",
+        "Strategischer Marktplatz für die gesamte Upper River Region.",
+        "Knotenpunkt für den grenzüberschreitenden Agrarhandel.",
+        "Ehemaliger Haupthalt der legendären Flussdampfer-Flotte.",
+        "Wichtiger Standort für die Qualitätsprüfung von Exportware.",
+        "Symbol für den wirtschaftlichen Aufstieg des gambischen Ostens.",
+        "Zentrum für lokale Transport- und Lagerdienstleistungen."
+      ]
+    },
+    {
+      "id": "tanji-village-museum-life-v2",
+      "descriptionAdvanced": "Das Tanje Village Museum ist weit mehr als eine Touristenattraktion; es ist eine leidenschaftliche Liebeserklärung an das kulturelle Erbe Gambias und ein unverzichtbarer Bildungsort an der Küste. Inmitten des geschäftigen Tanji gelegen, bietet das Museum eine strukturierte und dennoch lebendige Darstellung der Alltagskultur aller großen Volksgruppen des Landes. Die Besucher können in traditionell gebauten Compounds das Leben der Vorfahren nachempfinden, die Vielfalt der rituellen Masken bewundern und die Entwicklung des gambischen Handwerks studieren. Das Museum engagiert sich zudem stark in der Umweltbildung und zeigt die enge Verflechtung der Kultur mit der marinen und terrestrischen Natur. Als Ort der Bewahrung und des Lernens spielt das Tanje Village Museum eine zentrale Rolle bei der Stärkung des nationalen Bewusstseins und der Vermittlung gambischer Werte an Besucher aus aller Welt. (Sozialkunde K7 — Kulturerhalt und nationale Identität)",
+      "factsAdvanced": [
+        "Bedeutendstes ethnographisches Freilichtmuseum des Landes.",
+        "Detaillierte Präsentation der Maskentraditionen (z.B. Kankurang).",
+        "Zentrum für die Erhaltung bedrohter Handwerkstechniken.",
+        "Beherbergt einen Botanischen Garten für traditionelle Heilpflanzen.",
+        "Wichtiger Standort für die kulturelle Ausbildung von Schülern.",
+        "Umfangreiche Exponate zur maritimen Geschichte und Fischerei.",
+        "Ort regelmäßiger traditioneller Musik- und Tanzaufführungen.",
+        "Symbol für privates bürgerschaftliches Engagement in der Kultur."
+      ]
+    },
+    {
+      "id": "marakissa-river-camp-life-v2",
+      "descriptionAdvanced": "Marakissa River Camp ist ein verstecktes Juwel des nachhaltigen Ökotourismus im südlichen Gambia, das tief in die Ruhe und Biodiversität der Flusslandschaften eintaucht. Am Ufer eines ruhigen Seitenarms des Gambia-Flusses gelegen, bietet das Camp eine perfekte Basis für Naturbeobachter, insbesondere für Ornithologen, die hier seltene Wasservögel in ihrer natürlichen Umgebung studieren können. Marakissa zeichnet sich durch seine enge Verbundenheit mit der lokalen Dorfgemeinschaft aus und fördert Projekte, die den Naturschutz und das wirtschaftliche Wohlergehen der Bewohner in Einklang bringen. Ein Besuch im Camp ermöglicht eine entschleunigte Erfahrung des ursprünglichen Gambia, geprägt durch Vogelgesang, dichte Mangroven und authentische Begegnungen mit der ländlichen Bevölkerung. Es ist ein Paradebeispiel für Tourismus, der die Integrität des Ökosystems bewahrt und gleichzeitig ein Bewusstsein für dessen Einzigartigkeit schafft. (Biologie K6 — Ökosysteme und sanfter Tourismus)",
+      "factsAdvanced": [
+        "International renommierter Hotspot für die Vogelbeobachtung.",
+        "Modellprojekt für nachhaltigen, naturverträglichen Tourismus.",
+        "Strategische Lage am biodiversitätsreichen Flussökosystem.",
+        "Fördert aktiv die Entwicklung der lokalen Dorfgemeinschaft.",
+        "Bietet geführte Kanutouren durch unberührte Mangrovenwälder.",
+        "Beherbergt seltene Arten wie den Afrikanischen Zwergeisvogel.",
+        "Wichtiger Standort für die ökologische Forschung im Süden.",
+        "Symbol für die Ruhe und Naturschönheit des gambischen Hinterlandes."
+      ]
+    },
+    {
+      "id": "pirang-shrimp-farm-life-v2",
+      "descriptionAdvanced": "Die Garnelenfarm in Pirang ist ein innovatives Zentrum der modernen Aquakultur in Gambia und ein Symbol für die wirtschaftliche Diversifizierung des Landes. In den weitläufigen Becken an der Mündung des Gambia-Flusses werden unter kontrollierten Bedingungen hochwertige Garnelen für den nationalen Markt und den Export gezüchtet. Die Anlage ist ein technisches Meisterwerk, das die natürlichen Gezeitenströme und die nährstoffreichen Gewässer der Mangroven nutzt, um eine nachhaltige Proteinquelle zu schaffen. Pirang ist zudem ein international bedeutender Standort für die Vogelbeobachtung, da die Teiche der Farm Tausende von Zugvögeln anlocken. Die Garnelenfarm illustriert somit auf faszinierende Weise die Verbindung von moderner industrieller Lebensmittelproduktion und dem Erhalt wertvoller Habitate, was Pirang zu einem unverzichtbaren Ort für Wirtschaft und Naturschutz gleichermaßen macht. (Wirtschaft K8 — Moderne Aquakultur und Exportpotenzial)",
+      "factsAdvanced": [
+        "Größte kommerzielle Garnelenzucht-Anlage Gambias.",
+        "Wichtiger Standort für die Erprobung nachhaltiger Aquakultur.",
+        "International bedeutendes Rastgebiet für hunderte Zugvogelarten.",
+        "Nutzt die ökologischen Vorteile des Ästuars für die Zucht.",
+        "Bedeutender Exportfaktor für hochwertige Meeresfrüchte.",
+        "Zentrum für die Ausbildung in moderner Fischereitechnologie.",
+        "Strategischer Standort für die Erforschung mariner Ressourcen.",
+        "Beitrag zur Ernährungssicherheit und wirtschaftlichen Vielfalt."
+      ]
+    },
+    {
+      "id": "farafenni-livestock-market-life-v2",
+      "descriptionAdvanced": "Der Viehmarkt von Farafenni ist eines der bedeutendsten Handelszentren für Nutztiere in ganz Senegambia und das pulsierende Herz der pastoralen Wirtschaft im Norden Gambias. Händler und Nomaden aus dem gesamten Senegal, Mali und Guinea kommen hier zusammen, um Rinder, Schafe und Ziegen in großem Stil zu handeln. Der Markt ist ein Ort intensiver Verhandlungen, an dem traditionelles Wissen über Tierzucht auf moderne Marktanforderungen trifft. Farafenni profitiert hierbei massiv von seiner Lage am Trans-Gambia Highway, der den Transport der Tiere zu den urbanen Konsumzentren an der Küste erleichtert. Der Viehmarkt ist nicht nur ein wirtschaftlicher Ort, sondern ein Schmelztiegel der Kulturen, in dem die Lebensweise der Savanne und der traditionelle Reichtum der Hirtenvölker unmittelbar sichtbar werden. Er ist ein unverzichtbarer Garant für die Fleischversorgung des Landes. (Wirtschaft K7 — Viehwirtschaft und regionale Handelsnetze)",
+      "factsAdvanced": [
+        "Einer der größten und wichtigsten Viehmärkte in Westafrika.",
+        "Zentraler Knotenpunkt für den länderübergreifenden Tierhandel.",
+        "Wichtigster Lieferant für Schafe während des Tabaski-Festes.",
+        "Bedeutendes Zentrum für die Nomadenkultur der Fula.",
+        "Wesentlicher Wirtschaftsfaktor für die North Bank Region.",
+        "Knotenpunkt für logistische Dienstleistungen und Tiermedizin.",
+        "Symbol für den traditionellen Reichtum in Form von Vieh.",
+        "Fokusgebiet für nationale Programme zur Seuchenkontrolle."
+      ]
+    },
+    {
+      "id": "gambia-river-nature-v2",
+      "descriptionAdvanced": "Der Gambia-Fluss ist die lebenspendende Hauptader der Nation und eines der beeindruckendsten Gewässer Westafrikas. Er entspringt im Fouta-Djallon-Hochland von Guinea und schlängelt sich über 1.100 Kilometer durch das Land, bevor er majestätisch in den Atlantik mündet. Der Fluss ist die Seele Gambias; er formte die Geschichte, diktiert bis heute den Rhythmus der Landwirtschaft und ist der wichtigste Verkehrsweg für das Binnenland. Seine ökologische Vielfalt ist atemberaubend und reicht von salzigen Mangrovenwäldern an der Mündung bis hin zu dichten tropischen Galeriewäldern und Sumpfgebieten im Oberlauf. Als Lebensraum für Flusspferde, Krokodile und hunderte Vogelarten ist der Fluss ein Paradies für Naturbeobachter. Der Gambia-Fluss ist nicht nur eine Wasserstraße, sondern ein Symbol für nationale Einheit, kulturelle Identität und die unzerstörbare Kraft der Natur. (Geographie K6 — Flusssysteme und Lebensräume)",
+      "factsAdvanced": [
+        "Zentrale Wasserstraße und Namensgeber der Republik Gambia.",
+        "Schiffbar für große Seeschiffe bis zu 240 km ins Landesinnere.",
+        "Einer der am wenigsten verschmutzten Flüsse Afrikas.",
+        "Heimat bedeutender Populationen von Nilpferden und Krokodilen.",
+        "Bildet mit seinen Bolongs ein riesiges Mangroven-Ökosystem.",
+        "Lebensader für den Reisanbau und die handwerkliche Fischerei.",
+        "Strategischer Handelsweg seit der vorkolonialen Ära.",
+        "Hauptfaktor für das tropische Mikroklima der Region."
+      ]
+    },
+    {
+      "id": "river-gambia-national-park-nature-v2",
+      "descriptionAdvanced": "Der River Gambia National Park, auch bekannt als Baboon Islands, ist eines der spektakulärsten Wildnisgebiete Gambias und ein weltweit beachtetes Zentrum für den Schutz von Primaten. Der Park umfasst fünf Inseln mitten im Gambia-Fluss, die für Menschen streng gesperrt sind, um ein ungestörtes Habitat für Schimpansen, Flusspferde und Krokodile zu gewährleisten. Besonders berühmt ist der Park für das Schimpansen-Rehabilitationsprojekt, das ehemaligen Labortieren und Haustieren hier eine Rückkehr in ein naturnahes Leben ermöglicht hat. Besucher können die Inseln ausschließlich vom Boot aus umrunden und dabei die Tiere in ihrem dichten Regenwaldparadies beobachten. Der Nationalpark ist ein leuchtendes Beispiel für kompromisslosen Naturschutz und ein wertvolles Refugium für bedrohte westafrikanische Tierarten, das die ökologische Integrität des Flusslaufs nachhaltig sichert. (Biologie K7 — Schutzgebiete und Primatenforschung)",
+      "factsAdvanced": [
+        "Besteht aus fünf Inseln (Baboon Islands) im Zentralfluss.",
+        "Heimat des erfolgreichen Schimpansen-Rehabilitationsprojekts.",
+        "Vollständiges Betretungsverbot für Menschen auf den Inseln.",
+        "Wichtiger Rückzugsort für bedrohte Flusspferde (Hippos).",
+        "Beherbergt eine enorme Vielfalt an Seeadlern und Eisvögeln.",
+        "Zentrum für langfristige ökologische Langzeitstudien.",
+        "Symbol für den rigorosen Schutz ursprünglicher Habitate.",
+        "Herausragendes Ziel für den exklusiven Ökotourismus per Boot."
+      ]
+    },
+    {
+      "id": "kiang-west-national-park-nature-v2",
+      "descriptionAdvanced": "Der Kiang West National Park ist das größte und vielfältigste Naturschutzgebiet Gambias und repräsentiert die ursprüngliche Schönheit der westafrikanischen Savanne und Feuchtgebiete. Am Südufer des Flusses gelegen, beherbergt der Park eine beeindruckende Vielfalt an Lebensräumen – von trockenen Waldgebieten und Mangroven bis hin zu ausgedehnten Sumpflandschaften. Hier finden einige der seltensten Tierarten des Landes eine Zuflucht, darunter Sitatunga-Antilopen, Hyänen und Leoparden. Der Park ist ein Paradies für Vogelbeobachter, da er hunderte von Arten beherbergt, die in den dichten Wäldern und entlang der Bolongs nisten. Kiang West ist nicht nur ein Ort der Bewahrung, sondern auch ein wichtiges Bildungsgebiet, das zeigt, wie die natürlichen Ressourcen des Landes nachhaltig geschützt werden können. Ein Besuch bietet eine tiefgehende Begegnung mit der wilden und unberührten Seele Gambias. (Biologie K8 — Biodiversität und Ökosystem-Management)",
+      "factsAdvanced": [
+        "Größter Nationalpark Gambias (gegründet 1987).",
+        "Wichtigster Rückzugsort für seltene Säugetierarten im Land.",
+        "Umfasst eine Fläche von über 11.500 Hektar unberührter Natur.",
+        "Hotspot für die Beobachtung von Raubvögeln und Waranen.",
+        "Beherbergt den Jualar Bolong, einen ökologisch wertvollen Seitenarm.",
+        "Zentrum für Forschungsprojekte zur Erhaltung der Savannenflora.",
+        "Wichtiger Standort für den naturverträglichen Tourismus im Hinterland.",
+        "Symbol für den Schutz großräumiger Ökosystemverbünde."
+      ]
+    },
+    {
+      "id": "bao-bolong-wetland-nature-v2",
+      "descriptionAdvanced": "Das Bao Bolong Wetland Reserve ist eine international anerkannte RAMSAR-Stätte und eines der ökologisch wertvollsten Feuchtgebiete Westafrikas. In der North Bank Region gelegen, umfasst das Reservat ein riesiges Gebiet aus Mangroven, Salzmarschen und überfluteten Waldgebieten entlang des Bao Bolong Nebenflusses. Diese Landschaft ist ein unverzichtbares Habitat für Tausende von Zugvögeln aus Europa und ein permanenter Wohnort für seltene Arten wie den Afrikanischen Manati und verschiedene Krokodilarten. Das Reservat spielt eine entscheidende Rolle für die Ernährungssicherheit der Region, da die Mangroven als produktive Kinderstube für Fische dienen. Bao Bolong ist ein Paradebeispiel für den Schutz komplexer Wasserökosysteme und zeigt die enorme Bedeutung von Feuchtgebieten für die globale Biodiversität und die Stabilisierung des lokalen Klimas. (Biologie K7 — Internationaler Feuchtgebietsschutz und Hydrologie)",
+      "factsAdvanced": [
+        "International bedeutendes RAMSAR-Feuchtgebiet (seit 1996).",
+        "Größte Mangrovenschutzfläche in der North Bank Region.",
+        "Wichtiger Lebensraum für den bedrohten Afrikanischen Manati.",
+        "Zentrum für die Beobachtung von über 250 Vogelarten.",
+        "Dient als natürlicher Filter für das Flussökosystem.",
+        "Wesentlicher Laichplatz für kommerziell wichtige Fischarten.",
+        "Fokusgebiet für Forschung zur Anpassung an den Meeresspiegelanstieg.",
+        "Symbol für die internationale Verantwortung beim Habitatschutz."
+      ]
+    },
+    {
+      "id": "tanji-bird-reserve-nature-v2",
+      "descriptionAdvanced": "Das Tanji Bird Reserve, offiziell Karinti Bird Reserve genannt, ist ein ornithologisches Paradies direkt an der Atlantikküste Gambias. Dieses relativ kleine, aber ökologisch hochkonzentrierte Gebiet umfasst Lagunen, Mangroven, Sanddünen und vorgelagerte Inseln wie die Bijol Islands. Es ist einer der wichtigsten Rastplätze für Zugvögel an der westafrikanischen Küste und beherbergt zeitweise riesige Kolonien von Raubseeschwalben und anderen seltenen Seevögeln. In Tanji treffen marine und terrestrische Lebensräume aufeinander, was eine außergewöhnliche Artenvielfalt auf engstem Raum schafft. Das Reservat ist ein lebendiges Labor für Umweltschützer und ein Hotspot für Naturtouristen, die hier die faszinierenden Zyklen der Natur unmittelbar beobachten können. Es steht beispielhaft für die Bedeutung von Küstenschutzgebieten in Zeiten wachsender urbaner Erschließung. (Biologie K6 — Ornithologie und Küstenökologie)",
+      "factsAdvanced": [
+        "Erstes offizielles Vogelschutzgebiet in Gambia (gegründet 1993).",
+        "Wichtigster Nistplatz für Raubseeschwalben an der Küste.",
+        "Umfasst die ökologisch wertvollen Bijol Islands.",
+        "Zentrum für internationale Beringungsprojekte und Forschung.",
+        "Beherbergt eine seltene Mischung aus Küstenwald und Lagunen.",
+        "Strategischer Punkt auf der ostatlantischen Zugvogelroute.",
+        "Wichtiger Partner für die Aufklärung über Meeresverschmutzung.",
+        "Hotspot für die Naturbeobachtung nahe der Metropolregion."
+      ]
+    },
+    {
+      "id": "bijilo-forest-park-nature-v2",
+      "descriptionAdvanced": "Der Bijilo Forest Park, im Volksmund oft als 'Monkey Park' bezeichnet, ist ein wertvolles Relikt eines küstennahen Regenwaldes inmitten des touristischen Zentrums von Gambia. Dieses geschützte Gebiet ist eine grüne Bastion gegen die urbane Expansion und bietet auf seinen verschlungenen Pfaden eine unmittelbare Begegnung mit der Natur. Der Park ist berühmt für seine Populationen von Roten Stummelaffen und Grünen Meerkatzen, die hier in einem geschützten Umfeld beobachtet werden können. Zudem ist Bijilo ein wichtiges Reservoir für uralte tropische Bäume und bietet Lebensraum für zahlreiche Schmetterlings- und Vogelarten. Als eines der meistbesuchten Naturschutzgebiete des Landes spielt Bijilo eine entscheidende Rolle bei der Sensibilisierung von Touristen und Einheimischen für den Wert der gambischen Biodiversität. Er ist ein unverzichtbarer Erholungsraum und ein Symbol für die Notwendigkeit grüner Korridore in modernen Küstengebieten. (Biologie K6 — Tropische Waldökosysteme und Naturbildung)",
+      "factsAdvanced": [
+        "Zentrales Naturschutzgebiet in der Tourismuszone von Bijilo.",
+        "Berühmt für die Sichtung von Roten Stummelaffen (Piliocolobus).",
+        "Wichtiger Standort für die Erhaltung küstennaher Flora.",
+        "Dient als grüne Lunge für die Kanifing Municipality.",
+        "Beherbergt markante, jahrhundertealte Rhun-Palmen.",
+        "Wichtigster Ort für stadtnahe Umweltbildungsprogramme.",
+        "Zieht jährlich zehntausende internationale Besucher an.",
+        "Herausragendes Beispiel für die Renaturierung urbaner Flächen."
+      ]
     }
   ]
 }

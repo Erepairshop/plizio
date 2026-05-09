@@ -1,0 +1,48 @@
+{
+  "lang": "de",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hobyo-sultanate-fort-history-v2",
+      "descriptionAdvanced": "Die Festung des Hobyo-Sultanats an der Küste ist ein eindrucksvolles architektonisches Zeugnis des 19. Jahrhunderts und symbolisiert die Macht sowie den strategischen Weitblick der damaligen Herrscher. Unter der Führung von Sultan Yusuf Ali Kenadid wurde Hobyo zu einem zentralen Knotenpunkt für die Kontrolle über den Seehandel im Indischen Ozean. Die Festungsanlagen dienten nicht nur dem militärischen Schutz gegen externe Bedrohungen, sondern unterstrichen auch die administrative Präsenz des Sultanats in dieser strategisch wichtigen Küstenregion. Die Ruinen sind heute ein bedeutender Ort für Geschichtsinteressierte, die die koloniale und vor-koloniale Vergangenheit Somalias sowie die wirtschaftliche Dynamik des Hobyo-Sultanats erkunden möchten.",
+      "factsAdvanced": [
+        "Historische Festung des Hobyo-Sultanats aus dem 19. Jahrhundert.",
+        "Gegründet und ausgebaut unter Sultan Yusuf Ali Kenadid.",
+        "Zentraler Punkt zur Kontrolle des regionalen Seehandels.",
+        "Wichtiger strategischer Militärstützpunkt an der somalischen Küste.",
+        "Architektonisches Zeugnis der Sultanats-Ära in Somalia.",
+        "Wichtiger Ort für das Verständnis der wirtschaftlichen Dynamik.",
+        "Erforscht als Schlüsselmonument der somalischen Küstenverteidigung."
+      ]
+    },
+    {
+      "id": "qardho-tombs-history-v2",
+      "descriptionAdvanced": "Die Sultanats-Gräber von Qardho sind bedeutende historische Stätten, die als letzte Ruhestätten für die herrschenden Familien des Majeerteen-Sultanats fungierten. Die Gräber zeichnen sich durch eine Architektur aus, die einzigartige islamische Stilelemente mit lokalen Bautraditionen verbindet und somit ein wichtiges kulturelles Erbe darstellt. Da Qardho in der Frühphase des Sultanats eine zentrale Rolle als Hauptstadt spielte, sind diese Grabstätten von großer historischer Relevanz für das Verständnis der sozio-politischen Struktur der Majeerteen-Dynastie. Sie dienen heute als ein Ort der Erinnerung, der die historische Bedeutung der Qardho-Region innerhalb der somalischen Sultanatsgeschichte hervorhebt.",
+      "factsAdvanced": [
+        "Antike Grabstätten der Majeerteen-Sultanatsherrscher.",
+        "Einzigartige islamische Architektur gepaart mit lokaler Bauweise.",
+        "Qardho diente als frühe Hauptstadt des Majeerteen-Sultanats.",
+        "Historisch relevante Stätte für die Majeerteen-Dynastie.",
+        "Kulturelles Erbe mit tiefer sozio-politischer Bedeutung.",
+        "Wichtiger Ort der somalischen Sultanatsgeschichte.",
+        "Symbol für die politische Macht im Nordosten Somalias."
+      ]
+    },
+    {
+      "id": "alula-castle-history-v2",
+      "descriptionAdvanced": "Das Alula Majeerteen Kastell an der somalischen Küste war einst das Zentrum der temporären Hauptstadt des Majeerteen-Sultanats und fungierte als strategischer Schutz gegen maritime Übergriffe. Die architektonische Gestaltung des Kastells weist deutliche osmanische Einflüsse auf, was die weitverzweigten Handels- und Kulturbeziehungen des Sultanats mit anderen islamischen Mächten jener Zeit unterstreicht. Heute zeugen die Ruinen in Alula von einer Ära, in der die Kontrolle der Küstenlinien vital für die Sicherheit und den Handel des Sultanats war. Besucher können hier die Spuren einer Geschichte erkunden, in der Alula ein bedeutender Machtfaktor am Horn von Afrika darstellte.",
+      "factsAdvanced": [
+        "Historisches Küstenkastell der temporären Hauptstadt Alula.",
+        "Erbaut zum Schutz der Majeerteen-Sultanatsinteressen.",
+        "Architektonisch geprägt durch osmanische Einflüsse.",
+        "Wichtiger Stützpunkt für die Verteidigung gegen maritime Angriffe.",
+        "Zeugnis der internationalen Beziehungen des Sultanats.",
+        "Standort einer ehemals bedeutenden politischen Schaltstelle.",
+        "Wichtiger Ort zur Erkundung der maritimen somalischen Geschichte."
+      ]
+    }
+  ]
+}

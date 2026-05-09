@@ -1,0 +1,129 @@
+{
+  "lang": "de",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dete-cities-v2",
+      "descriptionAdvanced": "Dete ist eine strategisch wichtige Siedlung am Rande des Hwange-Nationalparks, die primär als Anlaufstelle für Touristen und als Versorgungsort für die umliegende Wildschutzregion fungiert. Die Stadt hat eine lange Verbindung zur Eisenbahnstrecke, die den Park durchquert, und bietet eine notwendige Infrastruktur für die Verwaltung und den Tourismus der Region. Dete ist ein wichtiges Tor zur unberührten Natur des westlichen Simbabwes. Erdkunde K7 – Tourismus und Naturschutzgebiete.",
+      "factsAdvanced": [
+        "Tor zum Hwange-Nationalpark.",
+        "Wichtiger Versorgungsort für die Wildschutzregion.",
+        "Lange Verbindung zur regionalen Eisenbahnstrecke.",
+        "Infrastruktur für Verwaltung und Tourismus.",
+        "In der Provinz Matabeleland North gelegen.",
+        "Schnittstelle zwischen Stadt und Wildnis."
+      ]
+    },
+    {
+      "id": "nkayi-cities-v2",
+      "descriptionAdvanced": "Nkayi ist eine wichtige ländliche Stadt in der Provinz Matabeleland North, die als Verwaltungs- und Handelszentrum für ein weites Hinterland dient. Die Stadt unterstützt die lokale Agrar- und Viehwirtschaft durch die Bereitstellung von Dienstleistungen und Handelsplätzen. Nkayi ist ein typisches Beispiel für eine wachsende Siedlung, die ihre Funktion als lokales Zentrum für die bäuerliche Bevölkerung in der Region stetig festigt. Erdkunde K7 – ländliche Entwicklungszentren.",
+      "factsAdvanced": [
+        "Verwaltungs- und Handelszentrum in Matabeleland North.",
+        "Versorgungsstandort für Agrar- und Viehwirtschaft.",
+        "Zentraler Dienstleistungsort für das ländliche Hinterland.",
+        "Wachsende Bedeutung als lokales Zentrum.",
+        "Wichtiger Handelsplatz für die bäuerliche Bevölkerung.",
+        "Stetige lokale wirtschaftliche Entwicklung."
+      ]
+    },
+    {
+      "id": "mberengwa-cities-v2",
+      "descriptionAdvanced": "Mberengwa ist eine bedeutende Stadt in einer mineralienreichen Region in der Provinz Midlands, die eng mit dem lokalen Bergbau verknüpft ist. Die Stadt fungiert als wichtiges Zentrum für die umliegende Bevölkerung und bietet notwendige Dienstleistungen für Farmer und Bergbauarbeiter gleichermaßen. Die wirtschaftliche Aktivität von Mberengwa ist geprägt durch die Balance zwischen der kleinbäuerlichen Landwirtschaft und dem Abbau von Bodenschätzen. Erdkunde K7 – Bergbau- und Agrarregionen.",
+      "factsAdvanced": [
+        "Bedeutender Standort in einer mineralienreichen Region.",
+        "Eng verknüpft mit lokalen Bergbauaktivitäten.",
+        "Wichtiges Versorgungszentrum für Farmer und Bergleute.",
+        "Kombination aus kleinbäuerlicher Landwirtschaft und Bergbau.",
+        "Zentraler Ort für die lokale Bevölkerung in Midlands.",
+        "Wichtiger wirtschaftlicher Ankerpunkt."
+      ]
+    },
+    {
+      "id": "tsholotsho-cities-v2",
+      "descriptionAdvanced": "Tsholotsho liegt im Westen Simbabwes und ist ein zentraler Versorgungsort für die umliegende Region in Matabeleland North. Die Stadt spielt eine wesentliche Rolle bei der Bereitstellung von Dienstleistungen für die lokale Bevölkerung, die überwiegend in der Landwirtschaft und der kleinbäuerlichen Produktion tätig ist. Tsholotsho ist ein Beispiel für ein wachsendes lokales Zentrum, das die Versorgungssicherheit und den Handel im ländlichen Raum sichert. Erdkunde K7 – ländliche Versorgungszentren.",
+      "factsAdvanced": [
+        "Zentraler Versorgungsort in Matabeleland North.",
+        "Bedeutend für Dienstleistungen der ländlichen Bevölkerung.",
+        "Wichtiger Standort für lokale Landwirtschaftsproduktion.",
+        "Sichert die Versorgungssicherheit in der Region.",
+        "Regionales Handelszentrum im ländlichen Raum.",
+        "Stetig wachsender zentraler Ort."
+      ]
+    },
+    {
+      "id": "binga-cities-v2",
+      "descriptionAdvanced": "Binga liegt malerisch am Südufer des Kariba-Sees und ist bekannt für seine einzigartige kulturelle Verbindung zur Tonga-Bevölkerung sowie sein touristisches Potenzial. Die Stadt ist ein wichtiger Anlaufpunkt für Reisende, die den abgelegenen Teil des Sees und die kulturellen Sehenswürdigkeiten erkunden möchten. Die wirtschaftliche Basis von Binga umfasst neben dem Tourismus auch die Fischerei und die kleinbäuerliche Landwirtschaft in der Region. Erdkunde K7 – kulturelle Tourismuszentren.",
+      "factsAdvanced": [
+        "Gelegen am malerischen Südufer des Kariba-Sees.",
+        "Wichtiges Zentrum der Tonga-Kultur.",
+        "Attraktives Ziel für kulturellen Tourismus.",
+        "Wirtschaftliche Basis durch Fischerei und Landwirtschaft.",
+        "Ausgangspunkt für abgelegene Seeregionen.",
+        "Kulturell bedeutender Ort am Kariba-See."
+      ]
+    },
+    {
+      "id": "filabusi-cities-v2",
+      "descriptionAdvanced": "Filabusi ist eine bekannte Stadt in Matabeleland South, die historisch eng mit dem Bergbau und der Rinderzucht verbunden ist. Die Stadt fungiert als zentraler Handelsplatz für die umliegenden Farmen und bietet Dienstleistungen für die Bergbau- und Agrargemeinschaften an. Filabusi ist ein wichtiger Ort für die regionale Versorgung und trägt maßgeblich zur wirtschaftlichen Stabilität in dieser ländlich geprägten Provinz bei. Erdkunde K7 – Handels- und Agrarknotenpunkte.",
+      "factsAdvanced": [
+        "Historisch bedeutend für Bergbau und Rinderzucht.",
+        "Zentraler Handelsplatz für die umliegende Region.",
+        "Dienstleistungszentrum für Agrargemeinschaften.",
+        "Wichtiger Beitrag zur wirtschaftlichen Stabilität.",
+        "Schnittstelle zwischen Bergbau und Landwirtschaft.",
+        "Regionales Versorgungszentrum in Matabeleland South."
+      ]
+    },
+    {
+      "id": "inyati-cities-v2",
+      "descriptionAdvanced": "Inyati ist eine historische Siedlung in der Provinz Matabeleland North, die eine bedeutende Rolle in der frühen Geschichte Simbabwes spielte. Die Stadt fungiert heute als ländliches Versorgungszentrum für die umliegende Bevölkerung. Ihre Entwicklung ist durch eine Mischung aus historischer Bedeutung und moderner Rolle als Handelsplatz für die ländliche Umgebung gekennzeichnet. Erdkunde K7 – historische Siedlungen und ländliche Entwicklung.",
+      "factsAdvanced": [
+        "Historisch bedeutende Siedlung.",
+        "Frühe Rolle in der Geschichte des Landes.",
+        "Ländliches Versorgungszentrum für die Umgebung.",
+        "Verbindung aus historischer Erbe und moderner Rolle.",
+        "Wichtiger Handelsplatz für die bäuerliche Umgebung.",
+        "Stetige Entwicklung als lokales Zentrum."
+      ]
+    },
+    {
+      "id": "lupane-cities-v2",
+      "descriptionAdvanced": "Lupane ist das administrative Zentrum der Provinz Matabeleland North und eine schnell wachsende Stadt mit einer wachsenden Rolle in der regionalen Verwaltung und Versorgung. Die Stadt unterstützt die lokale Wirtschaft durch die Bereitstellung von Dienstleistungen und Handelsplätzen für ein weites, ländlich geprägtes Gebiet. Lupane festigt stetig seine Position als zentraler Verwaltungsort im Westen des Landes. Erdkunde K7 – regionale Verwaltungs- und Versorgungszentren.",
+      "factsAdvanced": [
+        "Administratives Zentrum von Matabeleland North.",
+        "Stetig wachsende regionale Bedeutung.",
+        "Wichtiger Standort für Verwaltung und Versorgung.",
+        "Handelsplatz für ein weitläufiges Hinterland.",
+        "Wachsende ökonomische Basis im Westen.",
+        "Zentraler Verwaltungsort in Matabeleland North."
+      ]
+    },
+    {
+      "id": "guruve-cities-v2",
+      "descriptionAdvanced": "Guruve ist eine wichtige Stadt in der Provinz Mashonaland Central, die für ihre florierende Landwirtschaft bekannt ist. Als Handelszentrum für Tabak und Getreide spielt die Stadt eine entscheidende Rolle für die lokale Wirtschaft. Guruve fungiert als Dienstleistungsort für die umliegende Bevölkerung und ist ein Beispiel für ein prosperierendes landwirtschaftliches Versorgungszentrum in der Region. Erdkunde K7 – landwirtschaftliche Prosperität.",
+      "factsAdvanced": [
+        "Wichtiges Handelszentrum für Tabak und Getreide.",
+        "Standort mit florierender Agrarwirtschaft.",
+        "Dienstleistungsort für die umliegende Bevölkerung.",
+        "Prosperierendes landwirtschaftliches Versorgungszentrum.",
+        "Wirtschaftlich stabil in Mashonaland Central.",
+        "Regionale Bedeutung durch Agrarproduktion."
+      ]
+    },
+    {
+      "id": "rushinga-cities-v2",
+      "descriptionAdvanced": "Rushinga liegt im Nordosten Simbabwes und dient als lokales Handels- und Verwaltungszentrum in der Provinz Mashonaland Central. Die Stadt ist ein wichtiger Anlaufpunkt für die Bewohner des umliegenden, ländlich geprägten Gebiets. Rushinga spielt eine wesentliche Rolle bei der Bereitstellung von lokalen Dienstleistungen und unterstützt die bäuerliche Produktion durch seine Funktion als Handelsplatz. Erdkunde K7 – ländliche Verwaltungszentren.",
+      "factsAdvanced": [
+        "Lokales Handels- und Verwaltungszentrum.",
+        "Wichtiger Anlaufpunkt in Mashonaland Central.",
+        "Zentrale Versorgung für das umliegende ländliche Gebiet.",
+        "Unterstützt die bäuerliche Produktion.",
+        "Wichtige Rolle für lokale Dienstleistungen.",
+        "Schnittstelle für den ländlichen Handel."
+      ]
+    }
+  ]
+}

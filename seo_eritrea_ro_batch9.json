@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sebderat-cities-v2",
+      "descriptionAdvanced": "Sebderat este un sat de la granița cu Sudanul care reflectă un amestec vibrant de influențe culturale din ambele state, profitând de comerțul de frontieră. Locuitorii vorbesc frecvent atât araba, cât și tigre, subliniind caracterul transcultural al așezării. Această dinamică socio-economică face din Sebderat un nod comercial informal, esențial pentru fluxurile locale de mărfuri. Satul reprezintă un punct de convergență pentru viața de graniță, unde tradițiile se întrepătrund într-un mod natural. Geografie K7 — impactul granițelor asupra dinamicii culturale.",
+      "factsAdvanced": [
+        "Sat situat la granița cu Sudanul.",
+        "Influențe culturale puternice din Eritreea și Sudan.",
+        "Comunitate bilingvă, utilizând araba și tigre.",
+        "Beneficiază activ de comerțul de frontieră.",
+        "Funcționează ca un nod comercial informal vital.",
+        "Punct de convergență culturală în viața de graniță."
+      ]
+    },
+    {
+      "id": "shambuko-cities-v2",
+      "descriptionAdvanced": "Shambuko este un oraș în câmpiile vestice, unde cultivarea meiului predomină în economia locală, servind drept hub pentru producția agricolă a regiunii Kunama. Deși a suferit daune parțiale în timpul conflictelor din trecut, comunitatea a depus eforturi susținute pentru a-și reconstrui infrastructura și a relua viața economică. Orașul găzduiește o piață centrală pentru animale, esențială pentru subzistența populațiilor din zonă. Shambuko ilustrează reziliența rurală prin agricultură și comerț susținut. Geografie K7 — rolul piețelor rurale în subzistența regională.",
+      "factsAdvanced": [
+        "Situat în câmpiile din vestul Eritreei.",
+        "Cultivarea meiului domină activitatea agricolă.",
+        "Hub regional pentru producția din zona Kunama.",
+        "A suferit distrugeri parțiale în timpul conflictelor.",
+        "Centru pentru piața centrală de animale.",
+        "Simbol al rezilienței rurale prin comerț."
+      ]
+    },
+    {
+      "id": "tokombia-cities-v2",
+      "descriptionAdvanced": "Tokombia este un oraș situat pe malurile râului Gash, înconjurat de terenuri agricole luxuriante care depind de inundațiile sezoniere. Acest ciclu natural aduce sedimente fertile, esențiale pentru productivitatea solului în agricultură. Orașul este un centru important pentru etnia Kunama, oferind un spațiu pentru păstrarea tradițiilor și a modului lor de viață. Tokombia exemplifică armonia dintre dependența de natură și dezvoltarea unei economii agrare prospere. Geografie K7 — impactul inundațiilor sezoniere asupra productivității solului.",
+      "factsAdvanced": [
+        "Situat pe malurile râului Gash.",
+        "Agricultură bazată pe inundații sezoniere fertile.",
+        "Sedimentele aduse de râu sunt esențiale pentru sol.",
+        "Centru important pentru etnia Kunama.",
+        "Echilibru între viața tradițională și economia agrară.",
+        "Dependență naturală pentru productivitatea terenurilor."
+      ]
+    },
+    {
+      "id": "omhajer-cities-v2",
+      "descriptionAdvanced": "Omhajer este situat în punctul cel mai vestic al Eritreei, pe râul Setit, funcționând ca un pod strategic vital pentru comerț și migrație către Sudan și Etiopia. Poziția sa la tripunctul granițelor îl transformă într-un punct nodal pentru fluxurile transfrontaliere. Istoria acestui loc este strâns legată de schimburile internaționale și mobilitatea populației în această zonă geografică complexă. Omhajer reprezintă o fereastră către relațiile regionale complexe și viața de la graniță. Geografie K7 — importanța orașelor de tripunct în relațiile internaționale.",
+      "factsAdvanced": [
+        "Cel mai vestic punct al Eritreei, pe râul Setit.",
+        "Pod strategic către Sudan și Etiopia.",
+        "Nod vital pentru comerț și fluxurile migratorii.",
+        "Situat la tripunctul granițelor regionale.",
+        "Punct de referință pentru relațiile internaționale.",
+        "Importanță strategică în mobilitatea populației."
+      ]
+    },
+    {
+      "id": "goluj-cities-v2",
+      "descriptionAdvanced": "Goluj este un centru agricol situat în vasta câmpie din Gash-Barka, recunoscut pentru cultivarea pe scară largă a sorgului și susanului. Peisajul plat și fertil favorizează agricultura mecanizată, permițând obținerea unor randamente ridicate. Orașul găzduiește mulți muncitori agricoli sezonieri, susținând producția la nivel industrial. Goluj joacă un rol esențial în producția de bază a țării, fiind un motor al economiei agrare din câmpiile vestice. Geografie K7 — mecanizarea agriculturii în câmpiile fertile.",
+      "factsAdvanced": [
+        "Centru agricol în vasta câmpie din Gash-Barka.",
+        "Cultivarea sorgului și a susanului la scară largă.",
+        "Peisaj plat care favorizează agricultura mecanizată.",
+        "Găzduiește mulți muncitori agricoli sezonieri.",
+        "Motor esențial pentru economia agrară vest-eritreană.",
+        "Randamente ridicate datorită solului fertil și mecanizării."
+      ]
+    }
+  ]
+}

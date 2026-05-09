@@ -1,0 +1,139 @@
+{
+  "lang": "de",
+  "country": "argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-rio-santa-cruz-nature-v2",
+      "descriptionAdvanced": "Der Río Santa Cruz ist einer der mächtigsten und letzten großen frei fließenden Flüsse Patagoniens. Er entspringt am östlichen Ende des Lago Argentino und durchquert die karge patagonische Steppe auf einer Länge von rund 385 Kilometern, bis er in den Atlantik mündet. Sein Wasser hat eine charakteristische milchig-türkise Farbe, die von den Gletschern der Anden stammt. Historisch ist der Fluss bedeutend, da er 1834 von Robert FitzRoy und Charles Darwin während ihrer Expedition mit der HMS Beagle mühsam stromaufwärts befahren wurde. In jüngster Zeit steht der Fluss im Zentrum ökologischer Debatten aufgrund des Baus massiver Wasserkraftwerke, welche die einzigartige Flora und Fauna, wie die bedrohte Santa-Cruz-Gans, gefährden könnten.",
+      "factsAdvanced": [
+        "Länge von ca. 385 Kilometern in der Provinz Santa Cruz",
+        "Wichtigster Abfluss des Lago Argentino und des Viedma-Sees",
+        "Charles Darwin erforschte das Flusstal im April 1834",
+        "Besitzt eine extrem starke Strömung von bis zu 15 km/h",
+        "Heimat des seltenen Hooded Grebe (Macá Tobiano)",
+        "Die Mündung bildet eine breite Bucht bei Puerto Santa Cruz",
+        "Die geplanten Staudämme sind die südlichsten Großwasserkraftwerke der Welt"
+      ]
+    },
+    {
+      "id": "ar-rio-bermejo-nature-v2",
+      "descriptionAdvanced": "Der Río Bermejo ist ein bedeutender Fluss im Norden Argentiniens, der in den bolivianischen Anden entspringt und die Gran Chaco-Region durchquert. Seinen Namen 'Der Rötliche' verdankt er der enormen Menge an Sedimenten und Schlamm, die er während der Regenzeit mit sich führt und die das Wasser dunkelrot färben. Der Fluss ist bekannt für seinen extrem unbeständigen Lauf; er neigt dazu, sein Bett zu verlagern und weite Gebiete zu überschwemmen, was die Errichtung fester Infrastrukturen an seinen Ufern erschwert. Ökologisch bildet der Bermejo einen wichtigen Korridor für die Tierwelt zwischen den Andenwäldern (Yungas) und den Trockenwäldern des Chaco, wo Jaguare und Tapire noch ungestörte Lebensräume finden.",
+      "factsAdvanced": [
+        "Gesamtlänge von etwa 1.450 Kilometern",
+        "Einer der schlammreichsten Flüsse der Welt im Verhältnis zur Wassermenge",
+        "Bildet teilweise die Grenze zwischen Argentinien und Bolivien",
+        "Mündet in den Río Paraguay nahe der Stadt Resistencia",
+        "Unterteilt sich in den Teuco (Hauptarm) und den alten Bermejo-Lauf",
+        "Wichtiger Lebensraum für den Riesenotter und Kaimane",
+        "Der Sedimenteintrag beeinflusst die Schifffahrt auf dem fernen Paraná-Fluss"
+      ]
+    },
+    {
+      "id": "ar-isla-de-los-estados-nature-v2",
+      "descriptionAdvanced": "Die Isla de los Estados (Staateninsel) ist ein wildes und unbewohntes Naturreservat am äußersten östlichen Zipfel des Feuerland-Archipels, getrennt vom Festland durch die gefährliche Le-Maire-Straße. Die Insel ist geprägt von tiefen Fjorden, schroffen Granitbergen und einem rauen subantarktischen Klima mit fast ständigem Regen und Sturm. Bekanntheit erlangte sie vor allem durch Jules Vernes Roman 'Der Leuchtturm am Ende der Welt', der vom realen Leuchtturm San Juan del Salvamento inspiriert wurde. Die Insel ist ein wichtiger Brutplatz für Pinguine, Albatrosse und Seelöwen. Der Zugang ist streng reglementiert und meist nur für Forscher oder spezialisierte Expeditionsschiffe möglich, was die unberührte Urwüchsigkeit dieser 'letzten Grenze' Argentiniens bewahrt.",
+      "factsAdvanced": [
+        "Fläche von ca. 534 Quadratkilometern",
+        "Östlichster Punkt des argentinischen Territoriums auf Feuerland",
+        "Standort des ersten Leuchtturms der Region (1884 errichtet)",
+        "Wurde im Jahr 1616 von den Niederländern Schouten und Le Maire benannt",
+        "Beherbergt große Kolonien von Felsenpinguinen",
+        "Die Insel ist ein Naturschutzgebiet der Provinz Tierra del Fuego",
+        "Maximale Erhebung ist der Monte Richardson mit 823 Metern"
+      ]
+    },
+    {
+      "id": "ar-isla-victoria-nature-v2",
+      "descriptionAdvanced": "Die Isla Victoria ist die größte und beeindruckendste Insel im Lago Nahuel Huapi, gelegen in der Provinz Neuquén. Sie ist in drei Zonen unterteilt: ein striktes Naturreservat, ein zentrales Waldgebiet und ein touristisch erschlossener Bereich im Norden bei Puerto Anchorena. Die Insel ist berühmt für ihre botanische Vielfalt, die sowohl einheimische Wälder als auch ein im frühen 20. Jahrhundert angelegtes Arboretum mit exotischen Baumarten aus aller Welt umfasst. Wanderwege führen Besucher durch gigantische Coihue-Bäume und zu Aussichtspunkten mit Blick auf das kristallklare Wasser des Sees. Auf der Insel wurden zudem prähistorische Felsmalereien gefunden, die bezeugen, dass sie bereits vor Tausenden von Jahren von indigenen Völkern aufgesucht wurde.",
+      "factsAdvanced": [
+        "Länge von ca. 20 Kilometern und Fläche von 31 km²",
+        "Höchster Punkt ist der Cerro Ansenuza mit 1.025 Metern",
+        "Regelmäßige Katamaran-Verbindungen ab Puerto Pañuelo (Bariloche)",
+        "Beherbergt eine Forschungsstation für Forstwirtschaft",
+        "Standort der kleinsten Hirschart der Welt, dem Pudu",
+        "Die Felsmalereien stammen vermutlich aus der Zeit vor 500 bis 2.000 Jahren",
+        "Wurde im Jahr 1934 Teil des Nationalparks Nahuel Huapi"
+      ]
+    },
+    {
+      "id": "ar-isla-martin-garcia-nature-v2",
+      "descriptionAdvanced": "Die Isla Martín García ist eine historisch und ökologisch bedeutende Insel im Ästuar des Río de la Plata, strategisch günstig am Zusammenfluss von Uruguay und Paraná gelegen. Im Gegensatz zu den umliegenden Delta-Inseln besteht sie aus altem kristallinem Gestein des brasilianischen Schildes. Die Insel hat eine wechselvolle Geschichte hinter sich: Sie diente als Militärstützpunkt, Lazarett und berüchtigtes Gefängnis, in dem mehrere argentinische Präsidenten interniert waren. Heute ist sie ein friedliches Naturreservat, das für seine dichte Vegetation, Schmetterlingsvielfalt und koloniale Architektur bekannt ist. Eine Kuriosität ist ihre Lage: Da sie durch Sedimentablagerungen mit der uruguayischen Insel Timoteo Domínguez zusammengewachsen ist, bildet sie die einzige Landgrenze zwischen Argentinien und Uruguay.",
+      "factsAdvanced": [
+        "Fläche von ca. 1,84 Quadratkilometern",
+        "Liegt ca. 45 Kilometer nordöstlich von Buenos Aires",
+        "Wurde 1998 zum Mehrzweck-Naturreservat erklärt",
+        "Bekannt für das traditionelle Gebäck 'Pan Dulce' der Inselbewohner",
+        "Berühmte Gefangene waren unter anderem Juan Perón und Arturo Frondizi",
+        "Die Insel wächst jährlich durch natürliche Sedimentation weiter",
+        "Beherbergt einen kleinen Flughafen und ein historisches Lazarett"
+      ]
+    },
+    {
+      "id": "ar-selva-misionera-nature-v2",
+      "descriptionAdvanced": "Die Selva Misionera, auch als Atlantischer Regenwald bekannt, ist ein subtropisches Ökosystem im Nordosten Argentiniens, das fast die gesamte Provinz Misiones bedeckt. Es handelt sich um eine der artenreichsten Regionen des Landes mit einer dichten, mehrstöckigen Vegetation aus Riesenbäumen, Lianen und Bromelien. Die charakteristische rote Erde (Tierra Colorada) ist reich an Eisen und bildet einen starken Kontrast zum satten Grün des Dschungels. Dieser Lebensraum ist die Heimat für ikonische Arten wie den Jaguar, den Brüllaffen und bunte Tukane. Trotz des Schutzes durch zahlreiche Provinzparks und den berühmten Nationalpark Iguazú ist der Wald durch Landwirtschaft und Holzschlag bedroht, was kontinuierliche Bemühungen zur Aufforstung und zum Erhalt biologischer Korridore erfordert.",
+      "factsAdvanced": [
+        "Umfasst etwa 35% der Fläche der Provinz Misiones",
+        "Beherbergt über 2.000 Gefäßpflanzenarten",
+        "Letztes großes Rückzugsgebiet für den Jaguar (Yaguareté) in Argentinien",
+        "Region mit der höchsten Anzahl an Schmetterlingsarten des Landes",
+        "Die jährliche Niederschlagsmenge liegt bei ca. 2.000 mm",
+        "Besitzt ein einzigartiges Mikroklima durch die Iguazú-Wasserfälle",
+        "Teil des größeren Projekts 'Grüner Korridor' von Misiones"
+      ]
+    },
+    {
+      "id": "ar-bosque-andino-patagonico-nature-v2",
+      "descriptionAdvanced": "Der Bosque Andino Patagónico erstreckt sich als schmaler, aber tausende Kilometer langer Gürtel entlang der Andenketten vom Norden Neuquéns bis nach Feuerland. Dieser gemäßigte Regenwald ist geprägt von kalten Wintern und hohen Niederschlagsmengen, die eine üppige Vegetation aus Südbuchen (Nothofagus), Zypressen und gigantischen Alerze-Bäumen ermöglichen. Der Wald bildet einen dramatischen Kontrast zur direkt östlich angrenzenden trockenen Steppe. Ökologisch ist er von höchster Bedeutung als Wasserspeicher und Lebensraum für endemische Tierarten wie den kleinen Pudu-Hirsch oder den Berglöwen (Puma). In den Herbstmonaten verwandelt sich der Wald in ein spektakuläres Farbenmeer, wenn sich die Lenga- und Ñire-Bäume in leuchtenden Rot- und Goldtönen verfärben.",
+      "factsAdvanced": [
+        "Erstreckt sich über ca. 2.200 Kilometer entlang der Grenze zu Chile",
+        "Höchste Baumart ist die Alerze, die über 3.000 Jahre alt werden kann",
+        "Dominiert von Nothofagus-Arten wie Lenga, Ñire und Coihue",
+        "Umfasst bekannte Nationalparks wie Lanín, Nahuel Huapi und Los Alerces",
+        "Lebensraum des bedrohten Huemul (Südandenhirsches)",
+        "Wichtigstes Schutzgebiet für gemäßigte Regenwälder in Südamerika",
+        "Bietet Schutz vor Erosion an den steilen Andenhängen"
+      ]
+    },
+    {
+      "id": "ar-bosque-de-arrayanes-nature-v2",
+      "descriptionAdvanced": "Der Bosque de Arrayanes (Arrayán-Wald) ist ein weltweit einzigartiges Naturphänomen auf der Halbinsel Quetrihué im Lago Nahuel Huapi. Während Arrayán-Bäume normalerweise als Sträucher wachsen, bilden sie hier einen ausgewachsenen, dichten Wald mit Bäumen von bis zu 15 Metern Höhe. Das markanteste Merkmal ist die zimtfarbene, seidig glatte Rinde der Bäume, die sich kühl anfühlt und regelmäßig in dünnen Streifen abblättert, wodurch der Stamm ständig seine Farbe ändert. Der Wald wirkt mit seinen gewundenen Ästen und dem gefilterten Sonnenlicht wie aus einem Märchen entsprungen. Um dieses sensible Ökosystem zu schützen, führt heute ein hölzerner Steg die Besucher durch den Wald, der von Villa La Angostura aus entweder zu Fuß oder mit dem Boot erreicht werden kann.",
+      "factsAdvanced": [
+        "Der Wald umfasst ca. 12 Hektar an der Südspitze der Halbinsel",
+        "Das Durchschnittsalter der Bäume liegt bei 300 Jahren (einige bis 600)",
+        "Wurde 1971 zum eigenständigen Nationalpark Los Arrayanes erklärt",
+        "Die zimtfarbene Rinde schält sich ab, um Schmarotzer fernzuhalten",
+        "Bäume blühen im Sommer mit kleinen weißen, duftenden Blüten",
+        "Angeblich diente der Wald als Vorlage für Disneys Film 'Bambi'",
+        "Der Arrayán (Luma apiculata) gehört zur Familie der Myrtengewächse"
+      ]
+    },
+    {
+      "id": "ar-mar-argentino-nature-v2",
+      "descriptionAdvanced": "Das Mar Argentino umfasst den gewaltigen Schelfbereich des Atlantischen Ozeans entlang der argentinischen Küste, vom Río de la Plata bis zu den Falklandinseln und Feuerland. Es ist eines der produktivsten Meeresökosysteme der Welt, was auf das Zusammentreffen der kalten Malwinenströmung aus dem Süden und der warmen Brasilströmung aus dem Norden zurückzuführen ist. Diese Strömungen bringen enorme Mengen an Plankton hervor, die die Basis für einen gigantischen Fischreichtum (insbesondere Seehecht und Tintenfisch) sowie für große Populationen von Seevögeln und Meeressäugern bilden. Die Halbinsel Valdés, die in das Mar Argentino ragt, ist ein weltberühmter Ort zur Beobachtung von Südlichen Glattwalen, die hierher kommen, um sich zu paaren und ihre Jungen zur Welt zu bringen.",
+      "factsAdvanced": [
+        "Fläche von ca. 1 Million Quadratkilometern",
+        "Einer der breitesten Kontinentalschelfe der Erde",
+        "Hauptwirtschaftsfaktor ist der Fang von Seehecht (Merluza Hubbsi)",
+        "Wichtigstes Fortpflanzungsgebiet des Südlichen Glattwals",
+        "Beherbergt riesige Kolonien von Magellan-Pinguinen und Seeelefanten",
+        "Die Malwinenströmung sorgt für nährstoffreiches, aber kaltes Wasser",
+        "Reich an potenziellen Erdöl- und Erdgasvorkommen unter dem Meeresboden"
+      ]
+    },
+    {
+      "id": "ar-canal-beagle-nature-v2",
+      "descriptionAdvanced": "Der Canal Beagle ist eine schmale Wasserstraße am südlichsten Ende Südamerikas, die den Atlantischen Ozean im Osten mit dem Pazifischen Ozean im Westen verbindet. Er erstreckt sich über 240 Kilometer und trennt die Hauptinsel Feuerland von kleineren Inseln wie Navarino und Hoste. Benannt wurde der Kanal nach der HMS Beagle, dem Schiff, mit dem Charles Darwin das Gebiet in den 1830er Jahren erforschte. Die Fahrt durch den Kanal ab Ushuaia bietet atemberaubende Ausblicke auf hängende Gletscher, die direkt ins Meer münden, und auf eine reiche Tierwelt, darunter Seelöwen und Kormorane auf kleinen Felsinseln. Der berühmte rot-weiße Leuchtturm 'Les Eclaireurs' markiert den Eingang zur Bucht von Ushuaia und ist ein Symbol für die Seefahrtsgeschichte der Region.",
+      "factsAdvanced": [
+        "Länge von etwa 240 Kilometern und Breite von 5 bis 13 Kilometern",
+        "Bildet die internationale Grenze zwischen Argentinien und Chile",
+        "Nördlichste Küste gehört zur südlichsten Stadt der Welt, Ushuaia",
+        "Wurde am 11. Mai 1830 von FitzRoy entdeckt",
+        "Standort des berühmten Leuchtturms Les Eclaireurs",
+        "Bekannt für seine exzellenten Vorkommen an Königskrabben (Centolla)",
+        "Die Region war historisch die Heimat des indigenen Yaghan-Volkes"
+      ]
+    }
+  ]
+}

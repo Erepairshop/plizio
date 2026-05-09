@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "baraka-delta-relief-v2",
+      "descriptionAdvanced": "A Baraka-delta egy szezonális folyótorkolat Eritrea északi részén, ahol a Barka folyó hosszú vándorlása után lerakja hordalékát. A delta az áradások idején rendkívül termékennyé válik, így létfontosságú terület a helyi állattenyésztés és a korlátozott mezőgazdasági művelés számára. Ez az időszakos vizes élőhely ritka termékenységi fellendülést biztosít az északi száraz övezetben. Természetes ülepítőmedenceként alapvető szerepet játszik a vidéki közösségek megsegítésében, akik függenek ezektől a szezonális víz- és tápanyag-impulzusoktól. Földrajz K7 — szezonális delták és talajtermékenység.",
+      "factsAdvanced": [
+        "Szezonális folyótorkolat északon.",
+        "Áradáskor rendkívül termékeny.",
+        "Létfontosságú helyi legelő.",
+        "Szezonális termelékenységi csúcs.",
+        "Természetes ülepítőmedence.",
+        "Életfontosságú a vidéki közösségeknek."
+      ]
+    },
+    {
+      "id": "semien-bahri-mountains-relief-v2",
+      "descriptionAdvanced": "A Semien-Bahri-hegység egy meredek, zöldellő hegyvidék Aszmarától keletre, amely híres sűrű köderdőiről és magas éves csapadékmennyiségéről. A száraz felföldektől eltérően ez a hegylánc felfogja a tengertől érkező nedvességet, buja, hűvös környezetet teremtve, amely éles kontrasztban áll Eritrea más tájaival. A nagy csapadék egyedülálló biológiai sokféleséget támogat, ami az ökológia szempontjából kulcsfontosságú zónává teszi. A hegység jól mutatja az eritreai tájban rejlő elképesztő éghajlati sokszínűséget. Földrajz K7 — hegyi köderdők.",
+      "factsAdvanced": [
+        "Meredek hegylánc Aszmara mellett.",
+        "Sűrű köderdők jellemzik.",
+        "Jelentős csapadékmennyiség.",
+        "Hűvös, zöld környezet.",
+        "Kritikus zóna a biodiverzitásnak.",
+        "Az éghajlati sokszínűség mintája."
+      ]
+    },
+    {
+      "id": "barentu-plateau-relief-v2",
+      "descriptionAdvanced": "A Barentu-fennsík Eritrea nyugati részének magaslati területe, amelyet szelíd dombvidék és szavannaszerű növényzet jellemez. Ez a régió a nyugati alföldek kulturális és gazdasági központjaként működik, stabilabb éghajlattal szolgálva, mint az alatta fekvő száraz síkságok. A dombos terep mind a növénytermesztés, mind az állattenyésztés számára kedvező, így a nyugati gazdaság kulcsfontosságú területe. A fennsík tájképe nélkülözhetetlen a helyi népesség élelmezése és ellátása szempontjából. Földrajz K7 — fennsíkok és gazdasági központok.",
+      "factsAdvanced": [
+        "Fennsík a nyugati felföldi régióban.",
+        "Dombvidéki táj jellemzi.",
+        "Szavannaszerű növényvilág.",
+        "Stabilabb éghajlat az alföldeknél.",
+        "Kulcsfontosságú a gazdálkodásban.",
+        "Gazdasági csomópont Nyugat-Eritreában."
+      ]
+    }
+  ]
+}

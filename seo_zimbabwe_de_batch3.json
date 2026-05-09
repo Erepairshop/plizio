@@ -1,0 +1,129 @@
+{
+  "lang": "de",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chiredzi-cities-v2",
+      "descriptionAdvanced": "Chiredzi liegt im Lowveld im Südosten Simbabwes und ist ein Zentrum der intensiven Agrarwirtschaft, insbesondere für den Zuckerrohranbau. Die Stadt ist eng mit den großen Zuckerplantagen verbunden, die die lokale Wirtschaft dominieren und eine wichtige Einnahmequelle für die gesamte Region darstellen. Chiredzi dient zudem als Ausgangspunkt für Reisen in das nahegelegene Gonarezhou-Nationalparkgebiet, was dem Ort auch eine zunehmende Bedeutung im Tourismussektor verleiht. Erdkunde K7 – intensive Agrarwirtschaft und ökologischer Tourismus.",
+      "factsAdvanced": [
+        "Zentrum der simbabwischen Zuckerrohrproduktion.",
+        "Stark verbunden mit großflächigen Zuckerplantagen.",
+        "Ausgangspunkt für den Gonarezhou-Nationalpark.",
+        "In der Lowveld-Region im Südosten gelegen.",
+        "Wichtiger Standort für agrarindustrielle Verarbeitung.",
+        "Wirtschaft massiv geprägt durch die Zuckerindustrie."
+      ]
+    },
+    {
+      "id": "kariba-cities-v2",
+      "descriptionAdvanced": "Kariba ist berühmt für die massive Kariba-Talsperre, eine der größten Talsperren der Welt, die ein gewaltiges Reservoir an Wasser für die Stromerzeugung staut. Die Stadt am Rande des Kariba-Sees ist ein Zentrum für Fischerei, Wasserkraft und Tourismus. Die landschaftliche Schönheit, kombiniert mit den technischen Leistungen der Talsperre, macht Kariba zu einem einzigartigen Ort in der Provinz Mashonaland West. Erdkunde K7 – regenerative Energiegewinnung und Wasserbau.",
+      "factsAdvanced": [
+        "Heimat des massiven Kariba-Staudamms.",
+        "Zentrum für Fischerei und Wasserkraftwerke.",
+        "Beliebtes Touristenziel am Ufer des Kariba-Sees.",
+        "Technische Bedeutung für die simbabwische Energieversorgung.",
+        "In der Provinz Mashonaland West gelegen.",
+        "Umfangreiches Reservoir für Wasser und Strom."
+      ]
+    },
+    {
+      "id": "karoi-cities-v2",
+      "descriptionAdvanced": "Karoi liegt in der Provinz Mashonaland West und ist ein bedeutender Handelsort für die umliegende, landwirtschaftlich geprägte Region. Die Stadt fungiert als Versorgungszentrum für Farmer, die insbesondere Tabak und Mais in großem Umfang anbauen. Dank ihrer strategischen Lage an der Fernstraße Richtung Sambia ist Karoi ein geschäftiger Ort mit einer vitalen Rolle im regionalen Austausch landwirtschaftlicher Waren. Erdkunde K7 – Handelszentren in Agrarregionen.",
+      "factsAdvanced": [
+        "Versorgungszentrum für die Agrarwirtschaft.",
+        "Bekannt für bedeutende Tabak- und Maisproduktion.",
+        "Strategisch gelegen an der Fernstraße nach Sambia.",
+        "Wichtiger regionaler Handelsknotenpunkt.",
+        "In der Provinz Mashonaland West gelegen.",
+        "Stark eingebunden in den lokalen Agrarhandel."
+      ]
+    },
+    {
+      "id": "chipinge-cities-v2",
+      "descriptionAdvanced": "Chipinge liegt in der Provinz Manicaland und ist ein bedeutender Standort für die Landwirtschaft, insbesondere für den Anbau von Tee, Kaffee und Macadamia-Nüssen. Die Stadt profitiert von ihrem fruchtbaren Boden und den klimatischen Bedingungen der Highlands, was sie zu einem der ertragreichsten Agrarstandorte Simbabwes macht. Die lokale Wirtschaft ist eng mit der Verarbeitung dieser wertvollen Produkte verknüpft. Erdkunde K7 – spezialisierte Agrarwirtschaft in Hochlandregionen.",
+      "factsAdvanced": [
+        "Wichtiger Standort für den Anbau von Tee und Kaffee.",
+        "Zentrum der Macadamia-Nuss-Produktion.",
+        "Fruchtbare Bedingungen durch Hochlandklima.",
+        "Bedeutende agrarindustrielle Verarbeitungsbetriebe.",
+        "Wirtschaftliches Zentrum in der Provinz Manicaland.",
+        "Ertragsreiche Region für hochwertige Agrarprodukte."
+      ]
+    },
+    {
+      "id": "gokwe-cities-v2",
+      "descriptionAdvanced": "Gokwe ist eine schnell wachsende Stadt in der Provinz Midlands, die eine zentrale Rolle als Vermarktungs- und Handelsort für das umliegende, agrarisch geprägte Hinterland spielt. Die Stadt ist vor allem für ihre Bedeutung im Bereich des Baumwollanbaus bekannt und dient als Anlaufpunkt für Landwirte aus der gesamten Region. Die infrastrukturelle Anbindung von Gokwe hat sich in den letzten Jahren kontinuierlich verbessert, um den wachsenden Anforderungen des Handels gerecht zu werden. Erdkunde K7 – Handelszentren und ländliche Entwicklung.",
+      "factsAdvanced": [
+        "Zentraler Handelsort in der Provinz Midlands.",
+        "Bedeutender Ort für die Baumwollvermarktung.",
+        "Versorgungszentrum für eine weite ländliche Region.",
+        "Kontinuierliche Verbesserung der Infrastruktur.",
+        "Rasches städtisches Wachstum.",
+        "Schnittstelle zwischen ländlicher Landwirtschaft und Handel."
+      ]
+    },
+    {
+      "id": "shurugwi-cities-v2",
+      "descriptionAdvanced": "Shurugwi ist eine Stadt in der Provinz Midlands, die eine lange Tradition im Bergbau, insbesondere für Gold und Chrom, aufweist. Die Stadt liegt in einer hügeligen Landschaft und bietet eine einzigartige Mischung aus Bergbaugeschichte und landschaftlicher Schönheit. Mit einer gut entwickelten lokalen Gemeinschaft ist Shurugwi ein wichtiger Standort, der die ökonomischen Vorteile des Bergbaus mit der städtischen Entwicklung der Midlands verbindet. Erdkunde K7 – Bergbau-Tradition und Stadtentwicklung.",
+      "factsAdvanced": [
+        "Lange Tradition im Gold- und Chromabbau.",
+        "Gelegen in malerisch hügeliger Landschaft.",
+        "Wichtiger Bergbaustandort in der Provinz Midlands.",
+        "Mischung aus industrieller Geschichte und städtischer Entwicklung.",
+        "Gute lokale Infrastruktur in den Midlands.",
+        "Bedeutend für die regionale Wirtschaftsgeschichte."
+      ]
+    },
+    {
+      "id": "gwanda-cities-v2",
+      "descriptionAdvanced": "Gwanda ist das administrative Zentrum der Provinz Matabeleland South und fungiert als Knotenpunkt für die umliegenden Rinderzucht- und Bergbaugebiete. Die Stadt ist strategisch wichtig für die wirtschaftliche Entwicklung des Südwestens von Simbabwe. Die lokale Wirtschaft profitiert von der Nähe zu Südafrika und der Bedeutung als Dienstleistungszentrum für die Bewohner der Region. Erdkunde K7 – regionale Verwaltungszentren und Viehwirtschaft.",
+      "factsAdvanced": [
+        "Verwaltungshauptstadt von Matabeleland South.",
+        "Knotenpunkt für umliegende Rinderzuchtgebiete.",
+        "Wichtiger Standort für Dienstleistungen in der Region.",
+        "Strategische Bedeutung für den Südwesten Simbabwes.",
+        "Zentrum für lokale Verwaltung und Handel.",
+        "Wirtschaftlich eng mit der Viehwirtschaft verbunden."
+      ]
+    },
+    {
+      "id": "mashava-cities-v2",
+      "descriptionAdvanced": "Mashava ist eine bekannte Bergbaustadt in der Nähe von Masvingo, die historisch eng mit der Asbestproduktion verbunden ist. Die Stadt entwickelte sich rund um die großen Asbestminen und hat ihren Charakter stark nach den Erfordernissen der Bergbauindustrie geformt. Auch heute dient Mashava als wichtiger Standort für industrielle Tätigkeiten und bietet eine spezialisierte Infrastruktur in der Provinz Masvingo. Erdkunde K7 – spezialisierte Bergbaustädte.",
+      "factsAdvanced": [
+        "Historisch bedeutend für die Asbestproduktion.",
+        "Stadtstruktur geprägt durch Bergbauaktivitäten.",
+        "Wichtiger Standort in der Provinz Masvingo.",
+        "Spezialisierte industrielle Infrastruktur.",
+        "Wirtschaftlich eng mit der Asbestindustrie verknüpft.",
+        "Siedlung mit bergbauspezifischem Hintergrund."
+      ]
+    },
+    {
+      "id": "mutoko-cities-v2",
+      "descriptionAdvanced": "Mutoko liegt östlich von Harare und ist als bedeutender Standort für die Gewinnung von schwarzem Granit bekannt, der weltweit exportiert wird. Die Stadt ist ein wichtiger Anlaufpunkt für die Bergbau- und Agrarwirtschaft der Region und bietet eine vitale Handelsinfrastruktur. Die Kombination aus hochwertigem Gesteinsabbau und landwirtschaftlicher Produktion macht Mutoko zu einem wirtschaftlich bedeutsamen Zentrum in der Provinz Mashonaland East. Erdkunde K7 – Gesteinsabbau und lokale Handelszentren.",
+      "factsAdvanced": [
+        "Weltweit bedeutender Standort für schwarzen Granit.",
+        "Bedeutender Exporteur für hochwertigen Stein.",
+        "Anlaufpunkt für Bergbau- und Agrarwirtschaft.",
+        "Wichtige Handelsinfrastruktur in Mashonaland East.",
+        "Wirtschaftliches Zentrum für den Gesteinsabbau.",
+        "Kombination aus Steinbruchaktivitäten und Agrarproduktion."
+      ]
+    },
+    {
+      "id": "epworth-cities-v2",
+      "descriptionAdvanced": "Epworth ist eine dicht besiedelte Gemeinde unmittelbar vor den Toren von Harare, bekannt für ihre beeindruckenden Granitformationen, darunter der berühmte 'Balancing Rock'. Die Stadt fungiert als Wohnstandort mit enger Anbindung an die Hauptstadt. Die einzigartige Geologie und die Nähe zu Harare machen Epworth zu einem bemerkenswerten Ort, der urbane Wohnentwicklung mit natürlichen Sehenswürdigkeiten verbindet. Erdkunde K7 – urbane Siedlung und geologische Formationen.",
+      "factsAdvanced": [
+        "Berühmt für die 'Balancing Rock' Granitformation.",
+        "Dicht besiedelte Gemeinde bei Harare.",
+        "Wohnstandort mit enger Bindung zur Hauptstadt.",
+        "Einzigartige geologische Gegebenheiten.",
+        "Urbane Siedlungsentwicklung in der Peripherie.",
+        "Bekannt für landschaftliche Attraktionen trotz Dichte."
+      ]
+    }
+  ]
+}

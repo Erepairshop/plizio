@@ -2,164 +2,359 @@
   "lang": "de",
   "country": "ghana",
   "files": [
-    "lib/visualLab/data/poiExtraGhanaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
     "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
     "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "nsawam-cities-v2",
-      "descriptionAdvanced": "Nsawam, in der Eastern Region, liegt am malerischen Fluss Densu und ist berühmt als das Zentrum der ghanaischen Ananasproduktion. Die Stadt beheimatet die Astek-Fruchtsaftfabrik sowie die Blue Skies-Anlage, die täglich tonnenweise frische Säfte nach Europa exportiert. Historisch gewann der Ort an Bedeutung als Eisenbahnknotenpunkt in den 1910er Jahren, doch heute ist er vor allem für das angrenzende Nsawam Medium Security Prison, Ghanas größtes Gefängnis, landesweit bekannt. Wirtschaft K6 — Agrarindustrie.",
-      "factsAdvanced": ["Zentrum der Ananasproduktion", "Liegt am Fluss Densu", "Heimat der Blue Skies-Anlage", "Exportiert frische Säfte nach Europa", "Eisenbahnknotenpunkt seit den 1910er Jahren", "Standort von Ghanas größtem Gefängnis"]
+      "id": "cape-three-points-sea-nature-v2",
+      "descriptionAdvanced": "Cape Three Points markiert den südlichsten Punkt Ghanas und ist eine dramatische Landzunge, die tief in den Golf von Guinea ragt. Bekannt als 'Land am Ende der Welt', ist dieses Gebiet geografisch einzigartig, da es der Ort an Land ist, der dem Nullpunkt der Erde (0° Breite, 0° Länge) am nächsten liegt. Die Küstenlinie ist hier von schroffen Felsen, versteckten Buchten und einem historischen Leuchtturm aus dem Jahr 1925 geprägt, der noch heute Schiffen den Weg weist. Die Region ist von dichtem Küstenwald umgeben und dient als wichtiger Nistplatz für gefährdete Meeresschildkröten. Die raue Schönheit des Kaps und die ständigen Winde des Atlantiks verleihen dem Ort eine fast mystische Atmosphäre. Cape Three Points ist ein Muss für Abenteurer, die die ungezähmte Seite der westafrikanischen Küste erleben wollen. Geografie K7 — Küstendynamik und Orientierungspunkte.",
+      "factsAdvanced": [
+        "Südlichster Punkt des ghanaischen Festlandes",
+        "Geografisch dem Nullpunkt (0°, 0°) am nächsten gelegen",
+        "Standort eines historischen Leuchtturms (erbaut 1925)",
+        "Wichtiger Brutplatz für Lederschildkröten und Grüne Meeresschildkröten",
+        "Umgeben vom Cape Three Points Waldreservat",
+        "Bekannt für spektakuläre Sonnenauf- und -untergänge über dem Ozean",
+        "Einst strategischer Punkt für Seefahrer auf der Route nach Indien",
+        "Die Region ist reich an vulkanischen Gesteinsformationen"
+      ]
     },
     {
-      "id": "kasoa-cities-v2",
-      "descriptionAdvanced": "Kasoa in der Central Region ist berüchtigt für sein atemberaubendes Bevölkerungswachstum und den massiven Verkehrsknotenpunkt an der Hauptküstenstraße. Einst ein beschaulicher ländlicher Markt, wo Bauern aus dem Landesinneren ihre Waren an die Küstenbewohner verkauften, ist die Stadt heute zu einem riesigen Handelszentrum für das westliche Accra mutiert. Der Kasoa-Markt zieht freitags Tausende von Großhändlern an, die hier landwirtschaftliche Produkte, Kleidung und Haushaltswaren umsetzen. Geografie K7 — städtisches Wachstum.",
-      "factsAdvanced": ["Liegt in der Central Region", "Berüchtigt für atemberaubendes Bevölkerungswachstum", "Massiver Verkehrsknotenpunkt an der Küstenstraße", "Riesiges Handelszentrum für Accra", "Freitagsmarkt zieht Tausende Großhändler an", "Einst beschaulicher ländlicher Markt"]
+      "id": "gulf-of-guinea-sea-nature-v2",
+      "descriptionAdvanced": "Der Golf von Guinea ist der Teil des tropischen Atlantiks, der die gesamte Südküste Ghanas umschließt und das wirtschaftliche sowie klimatische Schicksal des Landes bestimmt. Er ist bekannt für seine warmen Strömungen, insbesondere den Guinea-Strom, der für die hohen Niederschlagsmengen im südlichen Ghana verantwortlich ist. Geologisch ist der Golf Teil eines passiven Kontinentalrandes, der reich an Erdöl- und Erdgasvorkommen ist, was Ghana in den letzten Jahrzehnten zu einem bedeutenden Energieexporteur gemacht hat. Die Gewässer sind extrem fischreich und bilden die Lebensgrundlage für Hunderttausende von Kleinfischern entlang der Küste. Der Golf ist jedoch auch durch Piraterie und Umweltverschmutzung bedroht. Seine weiten Horizonte und die starke Brandung prägen das Lebensgefühl in Städten wie Accra, Cape Coast und Takoradi. Geografie K8 — Marine Ökosysteme und Ressourcenmanagement.",
+      "factsAdvanced": [
+        "Große Bucht des Atlantischen Ozeans im Westen Afrikas",
+        "Ort des Schnittpunkts von Äquator und Nullmeridian (0°, 0°)",
+        "Wichtigste Quelle für Ghanas Offshore-Erdölproduktion",
+        "Guinea-Strom beeinflusst das feucht-tropische Klima des Südens",
+        "Beheimatet enorme Bestände an Sardinen, Makrelen und Thunfischen",
+        "Wichtiger Korridor für den internationalen Schiffsverkehr",
+        "Leidet unter zunehmender Küstenerosion durch den steigenden Meeresspiegel",
+        "Lebensraum für Wale, Delfine und zahlreiche Haifischarten"
+      ]
     },
     {
-      "id": "yendi-cities-v2",
-      "descriptionAdvanced": "Yendi ist die traditionelle Hauptstadt des historischen Dagbon-Königreichs in der Northern Region und Sitz des Ya-Naa, des obersten Königs. Im späten 19. Jahrhundert wurde die Stadt durch den deutsch-britischen Vertrag geteilt, wovon heute noch Gräber deutscher Soldaten zeugen. Das trockene Savannenklima zwingt die mehrheitlich von der Landwirtschaft lebende Bevölkerung, sich auf den Anbau von trockenheitsresistenten Pflanzen wie Hirse, Sorghum und Yams zu konzentrieren. Geschichte K8 — das Dagbon-Königreich.",
-      "factsAdvanced": ["Hauptstadt des Dagbon-Königreichs", "Sitz des Ya-Naa (oberster König)", "Durch deutsch-britischen Vertrag im 19. Jh. geteilt", "Gräber deutscher Soldaten vorhanden", "Trockenes Savannenklima", "Anbau von Hirse und Sorghum"]
+      "id": "kakum-canopy-forest-nature-v2",
+      "descriptionAdvanced": "Der Kakum Canopy Walkway ist das weltweit bekannte Wahrzeichen des Kakum-Nationalparks und eine technische Meisterleistung des Ökotourismus. Diese Hängebrückenkonstruktion besteht aus sieben Brücken, die sich über eine Länge von 330 Metern erstrecken und an massiven Bäumen in einer Höhe von bis zu 40 Metern verankert sind. Der Gang über die Baumwipfel ermöglicht es den Besuchern, den tropischen Regenwald aus einer Perspektive zu erleben, die normalerweise nur Vögeln und Primaten vorbehalten ist. Von hier oben lassen sich seltene Schmetterlinge, Nashornvögel und mit viel Glück auch Waldelefanten am Boden beobachten. Der Walkway wurde 1995 mit internationaler Unterstützung erbaut, um das Bewusstsein für den Schutz der schwindenden Regenwälder zu schärfen. Es ist eine der wenigen Anlagen dieser Art in ganz Afrika und zieht jährlich Zehntausende Besucher an. Biologie K7 — Stockwerkbau des Regenwaldes.",
+      "factsAdvanced": [
+        "Weltberühmte Hängebrückenkonstruktion im Kakum-Nationalpark",
+        "Besteht aus 7 Brücken mit einer Gesamtlänge von 330 Metern",
+        "Höchster Punkt liegt ca. 40 Meter über dem Waldboden",
+        "Erbaut im Jahr 1995 von kanadischen Ingenieuren",
+        "Einzigartige Plattform zur Beobachtung der Regenwald-Fauna",
+        "Dient dem Schutz des Waldes durch nachhaltige Tourismuseinnahmen",
+        "Nur mit speziell geschulten Parkrangern begehbar",
+        "Bietet spektakuläre Ausblicke auf das Blätterdach (Canopy)"
+      ]
     },
     {
-      "id": "winneba-cities-v2",
-      "descriptionAdvanced": "Winneba, lokal als Simpa bekannt, ist eine geschichtsträchtige Küstenstadt, die für ihr spektakuläres Aboakyer-Festival berühmt ist, bei dem junge Männer traditionell einen lebenden Buschbock fangen. Sie beherbergt die University of Education, die wichtigste Ausbildungsstätte für Lehrer im Land, was der Stadt ein akademisches Flair verleiht. Der Fischfang im Golf von Guinea bleibt jedoch die Lebensader für die ursprüngliche Bevölkerung, deren bunt bemalte Boote die Strände säumen. Kultur K6 — traditionelle Feste.",
-      "factsAdvanced": ["Lokaler Name ist Simpa", "Berühmt für das Aboakyer-Festival", "Junge Männer fangen lebenden Buschbock", "Sitz der University of Education", "Fischfang im Golf von Guinea ist essenziell", "Geschichtsträchtige Küstenstadt"]
+      "id": "bui-dam-lake-nature-v2",
+      "descriptionAdvanced": "Der Bui-Stausee entstand durch den Bau des massiven Bui-Staudamms am Schwarzen Volta, der im Jahr 2013 fertiggestellt wurde. Er ist nach dem Volta-See der zweitgrößte künstliche See Ghanas und erstreckt sich über Teile des Bui-Nationalparks. Das Gewässer dient primär der Erzeugung von 400 Megawatt Wasserkraft, was einen entscheidenden Beitrag zur nationalen Energiesicherheit leistet. Ökologisch hat die Flutung weite Teile der ursprünglichen Galeriewälder und Savannen zerstört, was die Umsiedlung von Menschen und Tieren, insbesondere von Flusspferden, erforderlich machte. Heute entwickelt sich der See zu einem neuen Zentrum für Binnenfischerei und bietet Potenzial für den Tourismus in der Bono-Region. Die Landschaft ist durch das tiefblaue Wasser des Schwarzen Volta und die umliegenden sanften Hügel geprägt, die nun eine neue Uferlinie bilden. Geografie K8 — Energiepolitik und ökologische Transformation.",
+      "factsAdvanced": [
+        "Zweitgrößter künstlicher See Ghanas am Schwarzen Volta",
+        "Entstanden durch den Bui-Damm (fertiggestellt 2013)",
+        "Stausee bedeckt eine Fläche von ca. 444 Quadratkilometern",
+        "Liegt teilweise innerhalb des Bui-Nationalpark-Gebiets",
+        "Hauptzweck ist die Erzeugung von 400 MW Wasserkraft",
+        "Zentrum für neue Fischerei-Initiativen in der Region",
+        "Führte zur Umsiedlung von über 1.200 Anwohnern",
+        "Wichtige Wasserreserve für die Landwirtschaft in Trockenzeiten"
+      ]
     },
     {
-      "id": "mampong-cities-v2",
-      "descriptionAdvanced": "Mampong in der Ashanti-Region fungiert als administratives und erzieherisches Zentrum mit einer starken historischen Bedeutung im Ashanti-Königreich. Es ist der Sitz des Mamponghene, dem zweithöchsten Führer nach dem Asantehene, was die Stadt zu einem zentralen Ort für königliche Rituale macht. Die Region ist von fruchtbaren Böden geprägt, und die örtliche Agrarhochschule zieht Studenten aus dem ganzen Land an, um moderne Anbaumethoden für Kakao und Cashew zu erlernen. Geografie K7 — Landwirtschaft und Bildung.",
-      "factsAdvanced": ["Zentrum in der Ashanti-Region", "Sitz des Mamponghene (zweithöchster Führer)", "Wichtiger Ort für königliche Rituale", "Bekannt für fruchtbare Böden", "Standort einer großen Agrarhochschule", "Anbau von Kakao und Cashew"]
+      "id": "shai-hills-savanna-nature-v2",
+      "descriptionAdvanced": "Die Savanne der Shai Hills stellt ein einzigartiges Mosaik aus offenem Grasland und dichtem Buschwerk dar, das in direkter Nachbarschaft zur Metropolregion Accra liegt. Dieses Ökosystem ist besonders an die trockenen Bedingungen der Accra-Ebene angepasst und wird durch die markanten Granit-Inselberge geschützt, die das Gelände strukturieren. Die Vegetation besteht aus feuerresistenten Gräsern und vereinzelten Akazien, die Lebensraum für eine Vielzahl von Tieren bieten. Besonders auffällig sind die großen Herden von Kob-Antilopen und die frechen Paviane, die oft an den Zufahrtswegen zu sehen sind. Die Savanne dient als wichtiges Refugium für Vögel und Reptilien, die in der zunehmend urbanisierten Umgebung von Accra kaum noch Platz finden. Das Schutzgebiet ist ein wertvolles Freiluftlabor für Schulen, um die Dynamik afrikanischer Savannen-Ökosysteme zu studieren. Biologie K6 — Anpassungen an Trockenheit.",
+      "factsAdvanced": [
+        "Typisches Küsten-Savannen-Ökosystem (Accra Plains)",
+        "Geprägt durch saisonale Trockenheit und feuerresistente Flora",
+        "Heimat der größten Kob-Antilopen-Population in Südghana",
+        "Wichtiges Schutzgebiet für über 170 verschiedene Vogelarten",
+        "Enthält dichte Buschwälder an den Hängen der Inselberge",
+        "Wird aktiv von Parkrangern gegen Wilderei geschützt",
+        "Bietet ideale Bedingungen für die Beobachtung von Pavianen",
+        "Dient als grüne Lunge für die wachsende Hauptstadtregion"
+      ]
     },
     {
-      "id": "navrongo-cities-v2",
-      "descriptionAdvanced": "Navrongo, tief in der trockenen Upper East Region gelegen, zeichnet sich durch seine bemerkenswerte Lehmarchitektur aus. Das berühmteste Wahrzeichen ist die faszinierende Basilica of Our Lady of Seven Sorrows, eine katholische Kirche, die 1906 von französischen Priestern vollständig aus Schlamm erbaut wurde. Die Stadt profitiert maßgellich vom Tono-Staudamm, der eine ganzjährige Bewässerungslandwirtschaft in der sonst trockenen Savanne ermöglicht. Geografie K6 — Bewässerung und Architektur.",
-      "factsAdvanced": ["Liegt in der Upper East Region", "Bemerkenswerte Lehmarchitektur", "Basilica aus Schlamm (erbaut 1906)", "Gegründet von französischen Priestern", "Profitiert vom Tono-Staudamm", "Ganzjährige Bewässerungslandwirtschaft möglich"]
+      "id": "akwapim-togo-relief-v2",
+      "descriptionAdvanced": "Das Akwapim-Togo-Gebirge ist das bedeutendste Gebirgssystem Ghanas und erstreckt sich diagonal von der Küste bei Accra bis zur Grenze nach Togo im Nordosten. Es handelt sich um ein altes Faltengebirge, das geologisch eng mit dem Atakora-Gebirge in Benin verwandt ist. Das Relief zeichnet sich durch markante Quarzitrücken, tiefe Flusstäler und steile Schichtstufen aus, die eine natürliche Barriere gegen die feuchten Seewinde bilden. Dies führt zu erhöhten Steigungsregen an den südwestlichen Hängen, was dort dichte Wälder ermöglicht, während die nordöstlichen Täler trockener sind. Das Gebirge ist nicht nur geografisch prägend, sondern beherbergt auch wichtige Wasserscheiden für zahlreiche regionale Flüsse. Die zerklüftete Topografie hat die Siedlungsstrukturen der dort lebenden Völker über Jahrhunderte beeinflusst. Geografie K7 — Gebirgsformen und Wetterbeeinflussung.",
+      "factsAdvanced": [
+        "Hauptgebirgszug Ghanas, Teil des Togo-Atakora-Systems",
+        "Verläuft diagonal von Südwest nach Nordost durch das Land",
+        "Höchste Erhebung im System ist der Mount Afadjato",
+        "Besteht primär aus sehr altem Quarzit und Schiefer",
+        "Bildet eine markante klimatische Barriere für Seewinde",
+        "Quelle zahlreicher kleiner und mittlerer Flüsse Ghanas",
+        "Geprägt durch steile Kliffs und tiefe, bewaldete Täler",
+        "Wichtiger Standort für Antennenanlagen und Observatorien"
+      ]
     },
     {
-      "id": "akim-oda-cities-v2",
-      "descriptionAdvanced": "Akim Oda ist das pulsierende Zentrum der Birim Central Municipal in der Eastern Region und historisch bekannt für den Handel mit Tropenholz und Diamanten. Der Markt in Oda ist einer der größten der Region, besonders beliebt für den Handel mit Kassava und Palmöl, die im feuchten, dichten Waldklima gedeihen. Die Stadt war jahrzehntelang Standort der größten Sägemühle Westafrikas, doch der Rückgang der Wälder hat zu einem wirtschaftlichen Umdenken in Richtung nachhaltigerer Landwirtschaft geführt. Umwelt K7 — Waldwirtschaft.",
-      "factsAdvanced": ["Zentrum der Birim Central Municipal", "Historisch bekannt für Tropenholz und Diamanten", "Einer der größten Märkte der Region", "Handel mit Kassava und Palmöl", "Einst größte Sägemühle Westafrikas", "Wirtschaftlicher Wandel durch Waldrückgang"]
+      "id": "mount-afadja-relief-v2",
+      "descriptionAdvanced": "Der Mount Afadja, lokal als Afadjato bekannt, ist der höchste Berg Ghanas und liegt im Agumatsa-Gebirge nahe der Grenze zu Togo. Mit einer Höhe von etwa 885 Metern über dem Meeresspiegel überragt er die umliegende Landschaft der Volta Region und bietet einen spektakulären Panoramablick auf den Volta-See und die bewaldeten Berge Togos. Der Name 'Afadjato' leitet sich von dem Ewe-Wort 'Avadzeto' ab, was so viel wie 'im Kampf gegen die Natur' bedeutet, was auf die extrem dichte und dornige Vegetation an seinen Hängen hindeutet. Der Aufstieg zum Gipfel ist eine beliebte Herausforderung für Wanderer und führt durch dichten tropischen Wald, der reich an Schmetterlingen und Vögeln ist. Geologisch besteht der Berg aus widerstandsfähigem präkambrischem Gestein. Er ist ein nationales Symbol für die stolze Hochland-Natur Ghanas. Geografie K6 — Höchste Erhebungen und Bergökologie.",
+      "factsAdvanced": [
+        "Höchster Gipfel Ghanas mit ca. 885 Metern Höhe",
+        "Liegt im Distrikt Hohoe in der Volta Region",
+        "Gehört zum Gebirgssystem des Togo-Atakora-Rückens",
+        "Eingebettet in das Agumatsa Wildlife Sanctuary",
+        "Direkt benachbart zum Berg Mount Aduadu",
+        "Wanderziel mit spektakulärem Blick auf den Volta-See",
+        "Name bedeutet wörtlich 'Krieg mit dem Busch' (Ewe)",
+        "Hotspot für Biodiversität, besonders für Schmetterlingsarten"
+      ]
     },
     {
-      "id": "prestea-cities-v2",
-      "descriptionAdvanced": "Tief in der waldreichen Western Region gelegen, ist Prestea eine der traditionsreichsten Goldgräberstädte Ghanas. Seit über einem Jahrhundert wird hier tief unter der Erde Gold abgebaut, was ein riesiges Labyrinth an Minenschächten hinterlassen hat. Der Bergbau brachte einst enormen Reichtum und eine Eisenbahnanbindung 1901, aber auch schwere ökologische Schäden durch Schwermetalle und Chemikalien, die bis heute das Flusssystem der Region belasten. Wirtschaft K8 — Goldabbau und Umweltfolgen.",
-      "factsAdvanced": ["Traditionsreiche Goldgräberstadt", "Liegt in der Western Region", "Gold unter der Erde abgebaut", "Eisenbahnanbindung im Jahr 1901", "Riesiges Labyrinth an Minenschächten", "Schwere ökologische Schäden durch Schwermetalle"]
+      "id": "kwae-escarpment-relief-v2",
+      "descriptionAdvanced": "Das Kwae-Escarpment ist eine markante geologische Schichtstufe im Süden Ghanas, die den Übergang von den Küstenebenen zum zentralen Hochland markiert. Diese schroffe Felswand erstreckt sich über viele Kilometer und ist von dichtem Regenwald bedeckt, der durch die häufigen Steigungsregen begünstigt wird. Die Felskante besteht aus hartem Sandstein und Quarzit, die der Erosion über Jahrmillionen standgehalten haben. Das Escarpment ist nicht nur eine physische Barriere, die den Bau von Straßen und Schienen erschwert hat, sondern auch ein wichtiger ökologischer Korridor für wandernde Tierarten. Zahlreiche Wasserfälle stürzen über die Kante in die Tiefe und bilden spektakuläre Naturdenkmäler. Historisch boten die steilen Hänge Schutz für Siedlungen während regionaler Konflikte. Geografie K7 — Geomorphologie und Schichtstufenlandschaften.",
+      "factsAdvanced": [
+        "Markante Schichtstufe im zentralen Süden Ghanas",
+        "Trennt die flache Küstenregion vom Ashanti-Hochland",
+        "Besteht primär aus Sandstein- und Quarzitformationen",
+        "Ort zahlreicher kleiner Wasserfälle und Felsvorsprünge",
+        "Wichtiges Wassereinzugsgebiet für regionale Bäche",
+        "Begünstigt die Bildung von dichten Hochland-Regenwäldern",
+        "Stellt eine Herausforderung für die nationale Verkehrsplanung dar",
+        "Bietet strategische Aussichtspunkte über das südliche Tiefland"
+      ]
     },
     {
-      "id": "effiakuma-cities-v2",
-      "descriptionAdvanced": "Effiakuma ist ein dicht besiedelter Vorort innerhalb der Zwillingsstadt Sekondi-Takoradi, der ursprünglich in den 1950er Jahren als geplante Arbeitersiedlung angelegt wurde. Mit dem Boom der ghanaischen Ölindustrie wuchs das Viertel rasant, und heute ist es bekannt für seine lebendige Straßenkultur und die passionierte Unterstützung des lokalen Fußballs. Die meisten Einwohner pendeln zum nahegelegenen Hafen oder arbeiten in den Raffinerien und Fabriken der Industriebahn von Takoradi. Sozialkunde K7 — Arbeiterklasse und Industrie.",
-      "factsAdvanced": ["Vorort von Sekondi-Takoradi", "Geplante Arbeitersiedlung in den 1950ern", "Rasanter Wachstum durch Ölindustrie", "Lebendige Straßenkultur", "Bewohner pendeln zum Hafen und Raffinerien", "Passionierte Fußball-Unterstützer"]
+      "id": "kwahu-plateau-relief-v2",
+      "descriptionAdvanced": "Das Kwahu-Plateau ist eine der markantesten geografischen Regionen Ghanas und bildet die Wasserscheide zwischen dem Volta-Becken und den südwestlichen Flusssystemen. Mit einer durchschnittlichen Höhe von etwa 450 bis 550 Metern bietet das Plateau ein deutlich kühleres Klima als die umliegenden Ebenen. Die Landschaft ist geprägt durch steile Kliffs an den Rändern und eine wellige Hochebene im Zentrum, die intensiv landwirtschaftlich genutzt wird. Kwahu ist bekannt für seine malerischen Bergdörfer, die oft direkt an der Abbruchkante liegen und spektakuläre Ausblicke bieten. Geologisch besteht das Plateau aus den Kwahu-Sandsteinen, die zu den ältesten sedimentären Formationen des Landes zählen. Während der Osterfeiertage wird das Plateau zum Zentrum des nationalen Tourismus, wenn Tausende zum Paragliding und Wandern in die Region kommen. Geografie K7 — Hochebenen und Wasserscheiden.",
+      "factsAdvanced": [
+        "Zentrales Hochland Ghanas mit Höhen bis zu 780 m",
+        "Bildet die Hauptwasserscheide des südlichen Ghana",
+        "Bekannt für seine markanten vertikalen Sandsteinklippen",
+        "Region mit dem angenehmsten Höhenklima des Landes",
+        "Zentrum des ghanaischen Paragliding-Tourismus",
+        "Beherbergt das höchstgelegene bewohnte Dorf Ghanas (Abetifi)",
+        "Quelle bedeutender Flüsse wie dem Pra und dem Afram",
+        "Wichtig für den Anbau von Gemüse und gemäßigten Früchten"
+      ]
     },
     {
-      "id": "agogo-cities-v2",
-      "descriptionAdvanced": "Eingebettet in ein fruchtbares Tal in der Ashanti-Region, hat sich Agogo den Ruf als Plantain-Hauptstadt Ghanas erarbeitet, da hier unglaubliche Mengen an Kochbananen angebaut werden. Die Stadt wurde in den 1930er Jahren durch das presbyterianische Krankenhaus bekannt, das noch heute zu den besten medizinischen Einrichtungen im Hinterland zählt. Durch die Ansiedlung großer Rinderherden durch Fulani-Hirten in der Region kam es jedoch in den letzten Jahren immer wieder zu Spannungen mit den lokalen Bauern. Geografie K6 — Landkonflikte.",
-      "factsAdvanced": ["Ruf als Plantain-Hauptstadt", "Anbau riesiger Mengen von Kochbananen", "Presbyterianisches Krankenhaus (1930er)", "Beste medizinische Einrichtung im Hinterland", "Spannungen mit Fulani-Hirten", "Ansiedlung großer Rinderherden"]
+      "id": "volta-basin-relief-v2",
+      "descriptionAdvanced": "Das Volta-Becken ist eine gewaltige, schüsselförmige Senke, die fast 45 % der gesamten Landfläche Ghanas einnimmt. Es handelt sich um ein geologisch stabiles Sedimentbecken, das von paläozoischen Gesteinen wie Sandstein und Schiefer dominiert wird. Das Relief ist überwiegend flach bis sanft gewellt und fällt zur Mitte hin ab, wo sich heute der riesige Volta-See erstreckt. Diese Region bildet das geografische Herzstück des Landes und wird von den drei Hauptarmen des Volta – dem Weißen, Schwarzen und Roten Volta – entwässert. Aufgrund der flachen Topografie neigt das Becken zu saisonalen Überschwemmungen, bietet aber auch weite Flächen für die Landwirtschaft und Viehzucht. Die Ränder des Beckens sind durch markante Gebirgszüge wie das Akwapim-Togo-Gebirge begrenzt, die den Abfluss des Wassers nach Süden kanalisieren. Geografie K7 — Großlandschaften und Sedimentbecken.",
+      "factsAdvanced": [
+        "Größte geografische Region Ghanas (ca. 103.000 km²)",
+        "Sedimentbecken, das fast die Hälfte des Landes einnimmt",
+        "Entwässerung erfolgt primär über das Volta-Flusssystem",
+        "Zentrum der nationalen Energie- und Wasserwirtschaft",
+        "Geprägt durch die größte künstliche Wasserfläche der Welt",
+        "Böden bestehen vorwiegend aus Sandstein und Tonschiefer",
+        "Relativ dünn besiedelt im Vergleich zur Küstenregion",
+        "Wichtigste Zone für den Getreideanbau im Norden"
+      ]
     },
     {
-      "id": "dunkwa-on-offin-cities-v2",
-      "descriptionAdvanced": "Am Ufer des Flusses Offin gelegen, ist Dunkwa ein entscheidender Knotenpunkt für den Kakao- und Goldbergbau in der Central Region. In den frühen 1900er Jahren florierte die Stadt dank ihrer Lage an der Eisenbahnstrecke, die riesige Holzstämme aus dem Regenwald zur Küste transportierte. Heutzutage leidet der Fluss stark unter den Auswirkungen des Galamsey (illegaler Kleinstbergbau), der das Wasser verschmutzt und die Landwirtschaft flussabwärts massiv beeinträchtigt. Umwelt K8 — illegaler Bergbau.",
-      "factsAdvanced": ["Liegt am Ufer des Flusses Offin", "Knotenpunkt für Kakao und Gold", "Florierte in den frühen 1900er Jahren", "Lage an historischer Eisenbahnstrecke", "Fluss leidet unter Galamsey (illegaler Bergbau)", "Wasserverschmutzung beeinträchtigt Landwirtschaft"]
+      "id": "bui-gorge-relief-v2",
+      "descriptionAdvanced": "Die Bui-Schlucht ist ein dramatischer Durchbruchstal des Schwarzen Volta durch die Hügelketten des westlichen Ghana. Hier hat sich der Fluss tief in das harte Quarzitgestein eingeschnitten und eine enge Passage geschaffen, die ideale Bedingungen für den Bau einer Talsperre bot. Das Relief ist in diesem Bereich durch steile, bewaldete Hänge und felsige Ufer geprägt, die einen starken Kontrast zur ansonsten eher flachen Savanne bilden. Durch den Bau des Bui-Damms wurde die Schlucht teilweise geflutet, was die Dynamik des Flusses und das Erscheinungsbild der Schlucht dauerhaft verändert hat. Dennoch bleibt das Gebiet ein beeindruckendes Beispiel für die erosive Kraft fließenden Wassers über Jahrmillionen. Die Schlucht ist auch ein wichtiger ökologischer Engpass für Wildtiere, die den Fluss in diesem Bereich überqueren. Geografie K7 — Erosion und Talbildungen.",
+      "factsAdvanced": [
+        "Engstelle und Durchbruchstal des Schwarzen Volta",
+        "Geologisch geprägt durch harten, erosionsbeständigen Quarzit",
+        "Standort des 108 Meter hohen Bui-Staudamms",
+        "Tiefste natürliche Schlucht im Westen Ghanas",
+        "Schafft ein einzigartiges Mikroklima für Ufervegetation",
+        "Wichtiger Punkt für geologische Forschung zum Volta-Becken",
+        "Markiert die Grenze zwischen Savanne und Waldland",
+        "Ehemals berüchtigt für gefährliche Stromschnellen"
+      ]
     },
     {
-      "id": "begoro-cities-v2",
-      "descriptionAdvanced": "Begoro liegt auf einem malerischen Plateau der Akwapim-Togo-Bergkette in der Eastern Region und zeichnet sich durch ein auffällig kühles Klima aus. Diese geografische Besonderheit macht das Gebiet zu einem der besten Orte Ghanas für den Anbau von Gemüse und Obst, die ansonsten in den Tropen schwer gedeihen. Die Wasserfälle von Osubin in der Nähe der Stadt sind eine beliebte, wenn auch schwer zugängliche Attraktion für einheimische Wanderer. Geografie K6 — Höhenklima und Flora.",
-      "factsAdvanced": ["Auf dem Plateau der Akwapim-Togo-Bergkette", "Zeichnet sich durch kühles Klima aus", "Optimaler Anbauort für Obst und Gemüse", "Osubin Wasserfälle in der Nähe", "Beliebt bei einheimischen Wanderern", "Liegt in der Eastern Region"]
+      "id": "ashanti-uplands-relief-v2",
+      "descriptionAdvanced": "Das Ashanti-Hochland ist eine wellige Hügellandschaft im zentralen Südghana, die durch ihre fruchtbaren Böden und ihren Reichtum an Bodenschätzen bekannt ist. Das Relief variiert zwischen 200 und 500 Metern Höhe und ist durch zahlreiche isolierte Hügel und tiefe Täler gekennzeichnet, die von dichten Regenwäldern bedeckt sind. Geologisch gehört das Hochland zum Birimian-System, das weltweit für seine Gold- und Diamantvorkommen berühmt ist. Diese geologische Beschaffenheit hat die Geschichte und den Wohlstand des Aschanti-Reiches maßgeblich geprägt. Die Region ist zudem das Zentrum des ghanaischen Kakaoanbaus, da das feucht-warme Klima und die verwitterten Gesteinsböden ideale Bedingungen bieten. Die Ashanti Uplands bilden den Übergang zwischen dem Kwahu-Plateau im Norden und den Küstenebenen im Süden. Geografie K8 — Ressourcenreiche Hochländer.",
+      "factsAdvanced": [
+        "Zentrales Hügel- und Bergland in der Ashanti Region",
+        "Geologisch Teil des mineralreichen Birimian-Gesteinssystems",
+        "Hauptzentrum für Goldabbau (Obuasi) und Kakaoanbau",
+        "Höhenlagen liegen im Durchschnitt bei ca. 300 Metern",
+        "Ursprünglich fast vollständig von tropischem Regenwald bedeckt",
+        "Wichtigste Wasserscheide für die Flüsse Pra und Offin",
+        "Prägt die strategische Topografie des Aschanti-Kernlandes",
+        "Region mit sehr hoher Bodengüte durch vulkanische Verwitterung"
+      ]
     },
     {
-      "id": "kintampo-cities-v2",
-      "descriptionAdvanced": "Kintampo wird oft als das exakte geografische Zentrum Ghanas bezeichnet und ist ein bedeutender historischer Knotenpunkt für Handelskarawanen, die Kola-Nüsse aus dem Süden gegen Salz aus dem Norden tauschten. Die berühmten Kintampo-Wasserfälle ziehen jährlich Tausende von Touristen an, während die Stadt gleichzeitig als Zentrum für die Erforschung der Kintampo-Kultur (ca. 2500–1400 v. Chr.) durch Archäologen bekannt ist. Geschichte K7 — prähistorische Kulturen Westafrikas.",
-      "factsAdvanced": ["Exaktes geografisches Zentrum Ghanas", "Historischer Knotenpunkt für Handelskarawanen", "Tausch von Kola-Nüssen gegen Salz", "Berühmte Kintampo-Wasserfälle", "Forschungszentrum der prähistorischen Kintampo-Kultur", "Archäologische Funde aus 2500–1400 v. Chr."]
+      "id": "denu-coastal-plain-relief-v2",
+      "descriptionAdvanced": "Die Denu-Küstenebene erstreckt sich im äußersten Südosten Ghanas entlang der Bucht von Benin bis zur Grenze nach Togo. Es handelt sich um ein extrem flaches Tiefland, das nur wenige Meter über dem Meeresspiegel liegt und durch seine sandigen Böden und zahlreichen Lagunen geprägt ist. Geologisch ist die Ebene sehr jung und wurde durch marine Sedimente und die Ablagerungen des Volta-Deltas geformt. Die Landschaft ist von Kokospalmenhainen, Salzpfannen und Grasland dominiert. Aufgrund der geringen Höhe ist die Region besonders anfällig für den Anstieg des Meeresspiegels und Küstenerosion, was die Existenz ganzer Fischerdörfer bedroht. Die Ebene ist ein wichtiger Korridor für den grenzüberschreitenden Handel und beherbergt einzigartige Ökosysteme, die an brackiges Wasser und salzige Gischt angepasst sind. Geografie K7 — Küstentiefländer und Delta-Dynamik.",
+      "factsAdvanced": [
+        "Flachstes Küstengebiet Ghanas im Südosten",
+        "Teil der weiten Küstenebene des Golfs von Guinea",
+        "Geprägt durch sandige Barrieren und die Keta-Lagune",
+        "Höhe liegt teilweise unter dem Meeresspiegel (Polder-ähnlich)",
+        "Hauptanbaugebiet für Schalotten und Kokosnüsse",
+        "Wichtig für die großflächige Salzgewinnung aus dem Meer",
+        "Region mit der höchsten Gefährdung durch Ozean-Inundation",
+        "Wichtiger Transitpunkt für den Landweg nach Togo und Nigeria"
+      ]
     },
     {
-      "id": "aflao-cities-v2",
-      "descriptionAdvanced": "Aflao liegt direkt an der östlichen Grenze zu Togo und ist der geschäftigste Landgrenzübergang Ghanas, durch den täglich Tausende von Menschen, Fahrzeugen und Gütern pendeln. Die Wirtschaft der Stadt basiert nahezu vollständig auf dem grenzüberschreitenden Handel und den dazugehörigen Logistikdienstleistungen. Trotz des hohen Handelsvolumens ist Aflao oft Schauplatz von Schmuggelaktivitäten, was eine ständige Herausforderung für den Zoll darstellt. Wirtschaft K8 — Grenzübergänge und Zoll.",
-      "factsAdvanced": ["Geschäftigster Landgrenzübergang Ghanas", "Grenzt direkt an Togo", "Täglich Tausende Pendler und Fahrzeuge", "Wirtschaft basiert auf grenzüberschreitendem Handel", "Wichtiger Ort für Logistik", "Ständige Herausforderung durch Schmuggel"]
+      "id": "gambo-hills-relief-v2",
+      "descriptionAdvanced": "Die Gambo-Hügel (auch Gambaga-Escarpment) bilden eine dramatische Sandstein-Schichtstufe im Nordosten Ghanas. Diese imposante Felswand erstreckt sich über 100 Kilometer in West-Ost-Richtung und fällt steil zum Tal des Weißen Volta ab. Das Plateau auf der Oberseite der Hügel bietet ein deutlich kühleres und trockeneres Klima als die umliegenden Ebenen und ist ein wichtiges Siedlungsgebiet des Mamprusi-Volkes. Geologisch bestehen die Hügel aus massiven Sandsteinschichten, die spektakuläre Klippen und tiefe Schluchten bilden. Die Gambo-Hügel fungieren als natürliche Barriere und haben über Jahrhunderte die Migrations- und Handelswege in der Region beeinflusst. Von den Gipfeln aus bietet sich ein weiter Blick über die Savannen bis nach Togo und Burkina Faso. Die Vegetation ist an die exponierte Lage und die starken Winde angepasst. Geografie K7 — Schichtstufen und Plateaulandschaften.",
+      "factsAdvanced": [
+        "Markante Sandstein-Schichtstufe im Norden Ghanas",
+        "Fällt steil um ca. 200 bis 300 Meter zum Volta-Tal ab",
+        "Zentrum des Mamprusi-Kernlandes (Gambaga/Nalerigu)",
+        "Geologisch Teil der Voltaischen Sandstein-Formation",
+        "Bildet eine natürliche Verteidigungslinie und Wetterbarriere",
+        "Standort der berühmten 'Hexendörfer' (kulturelle Bedeutung)",
+        "Wichtiges Wassereinzugsgebiet für den Weißen Volta",
+        "Bietet spektakuläre Aussichtspunkte für den lokalen Tourismus"
+      ]
     },
     {
-      "id": "nkoranza-cities-v2",
-      "descriptionAdvanced": "Nkoranza liegt in der Bono East Region und spielt eine zentrale Rolle in der landwirtschaftlichen Lebensmittelversorgung des Landes, insbesondere beim Anbau von Yams und Mais. Die Region ist berühmt für ihr traditionelles Munufie-Festival, bei dem die Dorfbewohner den Geistern ihrer Vorfahren für eine erfolgreiche Ernte danken. Historisch gesehen leistete Nkoranza erbitterten Widerstand gegen die Expansion des Ashanti-Reiches im späten 19. Jahrhundert. Geschichte K6 — regionale Kriege.",
-      "factsAdvanced": ["Zentral für Lebensmittelversorgung (Yams, Mais)", "Liegt in der Bono East Region", "Berühmt für das Munufie-Festival", "Dank an Ahnengeister für Ernte", "Widerstand gegen Ashanti-Reich im 19. Jh.", "Reiches landwirtschaftliches Erbe"]
+      "id": "akuapem-ridge-relief-v2",
+      "descriptionAdvanced": "Die Akuapem-Ridge ist ein schmaler, aber weithin sichtbarer Bergrücken, der sich wie ein Rückgrat nordöstlich von Accra erhebt. Als südlicher Ausläufer des Akwapim-Togo-Gebirges trennt er die Accra-Ebene von den fruchtbaren Tälern des Binnenlandes. Der Kamm besteht aus extrem hartem Quarzitgestein, das der Erosion getrotzt hat, während das umliegende weichere Gestein abgetragen wurde. Die Ridge ist bekannt für ihre kühlen Brisen und die dichte Bewaldung, die einen starken Kontrast zur trockenen Küstenebene bildet. Zahlreiche historische Städte thronen auf dem Gipfelgrat und sind durch gewundene Passstraßen mit dem Flachland verbunden. Die Akuapem-Ridge ist nicht nur ein geografisches Hindernis, sondern auch ein bevorzugter Ort für Bildungseinrichtungen und Kurorte aufgrund des gesunden Bergklimas. Geografie K6 — Reliefformen und Besiedlung.",
+      "factsAdvanced": [
+        "Schmaler Quarzit-Bergrücken nordöstlich der Hauptstadt",
+        "Geologische Härtlingsform inmitten einer Erosionslandschaft",
+        "Höhenlagen zwischen 300 und 480 Metern",
+        "Bekannt für den Panoramablick auf die Küste von Accra",
+        "Wichtiger Standort für Internatsschulen und Sanatorien",
+        "Klimatisch deutlich kühler als das Umland",
+        "Standort des Botanischen Gartens Aburi am südlichen Ende",
+        "Wichtiger Punkt für die Trinkwasserleitung aus dem Volta-See"
+      ]
     },
     {
-      "id": "oduponkpehe-cities-v2",
-      "descriptionAdvanced": "Ursprünglich unter dem Namen Kasoa Zongo bekannt, hat sich Oduponkpehe zu einer riesigen Wohnstadt für Pendler entwickelt, die in Accra arbeiten, aber der Enge der Hauptstadt entfliehen wollten. Die rasante, oft ungeplante Bebauung hat zu erheblichen infrastrukturellen Herausforderungen geführt, insbesondere bei der Abfallwirtschaft und der Entwässerung während der Regenzeit. Trotzdem blüht die lokale Wirtschaft durch unzählige kleine Handwerksbetriebe und informelle Straßenmärkte auf. Geografie K7 — Zersiedelung.",
-      "factsAdvanced": ["Früher als Kasoa Zongo bekannt", "Riesige Wohnstadt für Accra-Pendler", "Rasantes und oft ungeplantes Wachstum", "Infrastrukturelle Herausforderungen bei Entwässerung", "Blühende informelle Straßenmärkte", "Viele kleine Handwerksbetriebe"]
+      "id": "tano-basin-relief-v2",
+      "descriptionAdvanced": "Das Tano-Becken im Südwesten Ghanas ist eine ausgedehnte, waldreiche Senke, die vom Tano-Fluss und seinen zahlreichen Nebenflüssen entwässert wird. Das Relief ist sanft gewellt und liegt überwiegend zwischen 100 und 250 Metern über dem Meeresspiegel. Geologisch ist das Becken von großer Bedeutung, da es dicke Schichten von Sedimentgestein enthält, die bedeutende Erdölvorkommen beherbergen. An der Erdoberfläche ist die Region durch ihre extrem fruchtbaren Böden geprägt, die sie zum wichtigsten Zentrum für den Kakao- und Kautschukanbau des Landes machen. Der dichte, immergrüne Regenwald, der das Becken einst vollständig bedeckte, ist heute in großen Reservaten geschützt. Die hohe Luftfeuchtigkeit und die konstanten Niederschläge machen das Tano-Becken zu einer der grünsten und produktivsten Regionen Westafrikas. Geografie K8 — Sedimentbecken und Rohstoffvorkommen.",
+      "factsAdvanced": [
+        "Große hydrologische Senke im Südwesten Ghanas",
+        "Zentrum der Onshore- und Offshore-Erdölexploration",
+        "Wichtigstes Anbaugebiet für Exportgüter wie Kakao und Ölpalmen",
+        "Geprägt durch feuchtes, tropisches Regenwaldklima",
+        "Entwässerung erfolgt über den Tano-Fluss zur Aby-Lagune",
+        "Enthält dicke tertiäre und kretazische Sedimentschichten",
+        "Beherbergt einige der produktivsten Goldminen (Ahafo)",
+        "Relief ist durch niedrige Hügel und breite Sumpftäler geprägt"
+      ]
     },
     {
-      "id": "saltpond-cities-v2",
-      "descriptionAdvanced": "Saltpond ist eine historische Küstenstadt in der Central Region und gilt als Geburtsort der ersten politischen Partei Ghanas (UGCC) im Jahr 1947, was sie zu einem Meilenstein der Unabhängigkeitsbewegung macht. Wie der Name andeutet, war der Ort einst ein Zentrum der Salzgewinnung, doch heute basiert die Wirtschaft vor allem auf der Küstenfischerei. Etwas vor der Küste wurde auch die erste Offshore-Ölplattform Ghanas in Betrieb genommen, wenngleich mit geringer Fördermenge. Geschichte K8 — der Weg zur Unabhängigkeit.",
-      "factsAdvanced": ["Geburtsort der UGCC-Partei (1947)", "Meilenstein der ghanaischen Unabhängigkeitsbewegung", "Früher ein Zentrum der Salzgewinnung", "Wirtschaft basiert heute auf Küstenfischerei", "Standort der ersten Offshore-Ölplattform Ghanas", "Historische Küstenstadt in der Central Region"]
+      "id": "kintampo-plateau-relief-v2",
+      "descriptionAdvanced": "Das Kintampo-Plateau markiert den geografischen Mittelpunkt Ghanas und stellt einen wichtigen Übergang zwischen dem bewaldeten Süden und dem trockenen Norden dar. Es handelt sich um eine Hochebene aus voltaischem Sandstein, die durch ihre markanten Wasserfälle und tiefen Schluchten bekannt ist. Das Relief ist durch flache Gipfelplateaus und steile Abbruchkanten gekennzeichnet, die durch die Erosion der Flüsse geformt wurden. Die berühmten Kintampo-Wasserfälle stürzen hier über mehrere Stufen in ein dicht bewaldetes Tal. Geographisch fungiert das Plateau als Barriere für die feuchten Monsunwinde, was zu einem Wechsel der Vegetation von Regenwald zu Savanne führt. Historisch ist die Region für die Kintampo-Kultur bekannt, eine prähistorische Gesellschaft, die hier bedeutende archäologische Spuren hinterlassen hat. Geografie K7 — Geografischer Mittelpunkt und Schichtstufen.",
+      "factsAdvanced": [
+        "Liegt im geografischen Zentrum Ghanas (Bono East Region)",
+        "Sandstein-Plateau mit einer Höhe von ca. 300 bis 400 m",
+        "Standort der berühmten Kintampo-Wasserfälle (Pumpu-Fluss)",
+        "Übergangszone zwischen Regenwald und Guinea-Savanne",
+        "Wichtiger Knotenpunkt für die Nord-Süd-Handelswege",
+        "Bekannt für archäologische Funde der prähistorischen Kintampo-Kultur",
+        "Bietet weite Ausblicke über das nördliche Volta-Becken",
+        "Geprägt durch Erosion und markante Sandsteinformationen"
+      ]
     },
     {
-      "id": "akwatia-cities-v2",
-      "descriptionAdvanced": "Akwatia, in der Eastern Region, ist das Herz der ghanaischen Diamantenindustrie. Die Stadt wurde in den 1920er Jahren um eine riesige Diamantenmine der Consolidated African Selection Trust herum erbaut. Mehr als ein halbes Jahrhundert lang lieferte die Mine Industrie-Diamanten in alle Welt, was der Stadt einen gewissen Wohlstand brachte. Heute ist die Mine weitgehend erschöpft, und die Bevölkerung wendet sich zunehmend dem illegalen Kleinstbergbau oder der Landwirtschaft zu. Wirtschaft K7 — Diamantenabbau.",
-      "factsAdvanced": ["Herz der ghanaischen Diamantenindustrie", "Mine 1920er Jahre erbaut (CAST)", "Mehr als 50 Jahre Industrie-Diamanten geliefert", "Heute sind Minen weitgehend erschöpft", "Zunehmender illegaler Kleinstbergbau", "Liegt in der Eastern Region"]
+      "id": "white-volta-valley-relief-v2",
+      "descriptionAdvanced": "Das Tal des Weißen Volta im Norden Ghanas ist eine weite, flache Alluvialebene, die durch die saisonale Dynamik des Flusses geprägt wird. Während der Regenzeit verwandelt sich das Tal in eine riesige Seenlandschaft, wenn der Fluss über seine Ufer tritt und fruchtbaren Schlamm auf den Feldern ablagert. Im Gegensatz dazu ist das Relief in der Trockenzeit von staubigen Ebenen und vereinzelten Wasserlöchern dominiert. Geologisch ist das Tal durch junge Flusssedimente gekennzeichnet, die auf den alten Gesteinen des Volta-Beckens ruhen. Die Topografie ist so flach, dass bereits geringe Anstiege des Wasserspiegels weite Gebiete überfluten können, was die Siedlungsplanung vor große Herausforderungen stellt. Das Tal ist eine lebenswichtige Ressource für die Bewässerungslandwirtschaft und ein wichtiger Lebensraum für wandernde Tierarten in der Savanne. Geografie K7 — Flussauen und Sedimentation.",
+      "factsAdvanced": [
+        "Weite Schwemmlandebene des Weißen Volta in Nordghana",
+        "Prägt die Topografie der Upper East und Savannah Regions",
+        "Geprägt durch massive, saisonale Überflutungszyklen",
+        "Böden bestehen aus fruchtbaren Lehm- und Schlammablagerungen",
+        "Wichtiger Standort für großflächige Reis- und Gemüseprojekte",
+        "Relief ist extrem flach mit minimalem Gefälle nach Süden",
+        "Stark beeinflusst durch die Wasserabgabe des Bagre-Damms in Burkina Faso",
+        "Lebensraum für Krokodile und saisonale Wasservogelkolonien"
+      ]
     },
     {
-      "id": "apam-cities-v2",
-      "descriptionAdvanced": "Das Fischerstädtchen Apam an der Küste der Central Region wird dominiert vom historischen Fort Patience, einer niederländischen Festung, die 1697 auf einem Hügel mit Blick auf den Hafen errichtet wurde. Die Wirtschaft ist stark vom saisonalen Fischfang abhängig, wobei der lokale Markt für geräucherten Fisch Händler aus dem gesamten Hinterland anlockt. Bedauerlicherweise kämpft die Stadt aufgrund ihrer niedrigen Lage zunehmend mit Küstenerosion durch den steigenden Meeresspiegel. Geografie K6 — Küstenerosion.",
-      "factsAdvanced": ["Standort von Fort Patience (erbaut 1697)", "Niederländische Festung auf einem Hügel", "Wirtschaft hängt vom Fischfang ab", "Lokaler Markt für geräucherten Fisch", "Zunehmende Bedrohung durch Küstenerosion", "Liegt in der Central Region"]
+      "id": "fanteakwa-escarpment-relief-v2",
+      "descriptionAdvanced": "Das Fanteakwa-Escarpment ist ein beeindruckender Gebirgskamm in der Eastern Region Ghanas, der zum Kwahu-Plateau-System gehört. Diese schroffe Bergkette erhebt sich steil über die Ebenen des Afram-Flusses und ist fast vollständig von dichtem, primärem Regenwald bedeckt. Das Relief ist durch tiefe Täler, tosende Wasserfälle und verborgene Höhlen geprägt, die in den harten Sandstein geschnitten wurden. Die Region ist bekannt für ihren Reichtum an Biodiversität und fungiert als kritischer Wasserspeicher für die umliegenden Agrargebiete. Aufgrund der schwierigen Topografie ist das Escarpment weitgehend unbesiedelt geblieben, bietet aber heute ein enormes Potenzial für den Abenteuertourismus und die ökologische Forschung. Die feuchten Nebelwälder auf dem Kamm beherbergen seltene Pflanzenarten, die an das kühle Hochlandklima angepasst sind. Geografie K7 — Reliefbarrieren und Naturschutz.",
+      "factsAdvanced": [
+        "Teil des Kwahu-Sandstein-Escarpments in der Eastern Region",
+        "Höhenlagen bis zu 700 Meter über dem Meeresspiegel",
+        "Schützt eines der größten zusammenhängenden Waldgebiete im Süden",
+        "Wichtige Wasserscheide für den Volta-See und den Pra-Fluss",
+        "Enthält spektakuläre, kaum erschlossene Wasserfälle",
+        "Geologisch geprägt durch präkambrische Sedimentgesteine",
+        "Refugium für seltene Primaten und exotische Vögel",
+        "Die Region ist berühmt für ihren Nebel- und Wolkenwald"
+      ]
     },
     {
-      "id": "salaga-cities-v2",
-      "descriptionAdvanced": "In der Savannenregion gelegen, war Salaga im 18. und 19. Jahrhundert einer der größten Sklaven- und Kolanussmärkte in Westafrika, oft als Timbuktu des Südens bezeichnet. Karawanen aus dem fernen Sahelgebieten trafen hier auf Händler aus den Aschanti-Wäldern. Noch heute können Besucher die alten Sklavenmärkte und die von Baobabs gesäumten Brunnen besichtigen, die an diese dunkle Epoche erinnern. Geschichte K8 — der Transsaharahandel.",
-      "factsAdvanced": ["Ehemaliger Sklaven- und Kolanussmarkt", "Oft Timbuktu des Südens genannt", "Treffpunkt für Sahel- und Aschanti-Händler", "Alte Brunnen von Baobab-Bäumen gesäumt", "Historisch wichtig im 18. und 19. Jahrhundert", "Wichtige Station im Transsaharahandel"]
+      "id": "akwapim-plains-relief-v2",
+      "descriptionAdvanced": "Die Akwapim-Ebenen, oft als Accra-Plains bezeichnet, sind ein weites, flaches Tiefland, das sich zwischen der Küste des Golfs von Guinea und dem Fuß des Akwapim-Gebirges erstreckt. Diese Region ist geologisch sehr stabil und besteht aus uralten metamorphen Gesteinen des Dahomeyan-Systems. Im Gegensatz zum feuchten Waldland im Westen sind diese Ebenen aufgrund der Regenschattenlage des Gebirges deutlich trockener und von Savannen-Vegetation geprägt. Das Relief ist nahezu eben, unterbrochen nur von vereinzelten Inselbergen, was die Region ideal für die infrastrukturelle Entwicklung und die industrielle Landwirtschaft macht. Hier befinden sich die größten städtischen Zentren Ghanas, einschließlich Accra und Tema. Der Schutz der verbleibenden Naturflächen in dieser Ebene ist eine der größten Herausforderungen der nationalen Stadtplanung. Geografie K7 — Küstenebenen und Urbanisierung.",
+      "factsAdvanced": [
+        "Tieflandregion zwischen Accra und dem Akwapim-Gebirge",
+        "Geologisch geprägt durch das uralte Dahomeyan-Gneiss-System",
+        "Trockenstes Gebiet in Südghana (Regenschatten-Effekt)",
+        "Dominante Vegetation ist die Küsten-Savanne",
+        "Wichtigstes Zentrum für Industrie und Besiedlung in Ghana",
+        "Ebene ist ideal für den Bau von Flughäfen und Häfen (Tema)",
+        "Beheimatet bedeutende Inselberge wie die Shai Hills",
+        "Standort für großangelegte Bewässerungsprojekte (Kpong-Damm)"
+      ]
     },
     {
-      "id": "bibiani-cities-v2",
-      "descriptionAdvanced": "Umgeben von dichten Waldreservaten, ist Bibiani ein wichtiges Bergbauzentrum in der Western North Region. Gold- und Bauxitminen treiben die Wirtschaft der Stadt an, doch in jüngster Zeit spielt auch die Holzverarbeitung eine zentrale Rolle. Die Stadt hat oft mit den Umweltauswirkungen des Abbaus zu kämpfen, insbesondere mit der Verschmutzung der Flüsse, die das Leben in den umliegenden Dörfern beeinträchtigen. Umwelt K7 — Bergbaufolgen.",
-      "factsAdvanced": ["Bergbauzentrum in der Western North Region", "Gold- und Bauxitminen treiben Wirtschaft an", "Umgeben von dichten Waldreservaten", "Zunehmende Holzverarbeitung", "Starke Flussverschmutzung durch Bergbau", "Lokale Dörfer leiden unter Umweltauswirkungen"]
+      "id": "nsuta-hills-relief-v2",
+      "descriptionAdvanced": "Die Nsuta-Hügel in der Western Region Ghanas sind weltweit für ihre massiven Manganvorkommen bekannt, die das Relief dieser Gegend nachhaltig geprägt haben. Diese Hügelkette besteht aus mineralreichen Gesteinen des Birimian-Systems, die durch intensive Verwitterungsprozesse an der Oberfläche angereichert wurden. Das ursprüngliche Relief war von dichten Wäldern bedeckt, wurde jedoch durch den jahrzehntelangen Tagebau in eine terrassierte Industrielandschaft umgeformt. Trotz der massiven Eingriffe bleiben die Hügel eine wichtige Wasserscheide für lokale Bäche und bieten in den unberührten Bereichen immer noch Lebensraum für die tropische Flora und Fauna. Die Nsuta-Hügel sind ein klassisches Beispiel für eine Bergbaulandschaft, in der Geologie und Wirtschaft direkt aufeinandertreffen. Die Erze aus diesen Hügeln sind ein kritischer Rohstoff für die globale Stahlindustrie. Geografie K8 — Bergbaulandschaften und Geologie.",
+      "factsAdvanced": [
+        "Weltweit bedeutende Mangan-Lagerstätte in der Western Region",
+        "Hügelkette geformt aus Birimian-Vulkangestein",
+        "Tagebau seit über 100 Jahren prägt die heutige Topografie",
+        "Wichtigster Wirtschaftsfaktor für die Stadt Tarkwa und Umgebung",
+        "Böden sind extrem reich an Metalloxiden (Laterit)",
+        "Ursprünglich Teil des feuchten Regenwaldgürtels Ghanas",
+        "Enthält einige der reinsten Manganerze der Welt",
+        "Wichtiger Knotenpunkt der nationalen Eisenbahnlinie (Erze-Transport)"
+      ]
     },
     {
-      "id": "somanya-cities-v2",
-      "descriptionAdvanced": "Als Hauptort der Krobo-Volksgruppe in der Eastern Region, ist Somanya berühmt für seine farbenfrohen Glasperlen, die hier seit Generationen in traditionellen Brennöfen hergestellt werden. Das jährliche Ngmayem-Festival feiert den Anbau von Hirse und dient als großes Treffen der Krobo-Familien aus dem ganzen Land. Darüber hinaus beherbergt die Stadt den Campus der neuen University of Environment and Sustainable Development, was einen Wandel hin zur Akademisierung markiert. Kultur K6 — traditionelles Handwerk.",
-      "factsAdvanced": ["Hauptort der Krobo-Volksgruppe", "Berühmt für handgemachte Glasperlen", "Traditionelle Brennöfen für Perlenproduktion", "Jährliches Ngmayem-Festival (Hirseernte)", "Standort der University of Environment", "Zentrum für Bildung und Tradition"]
+      "id": "bongo-hills-relief-v2",
+      "descriptionAdvanced": "Die Bongo-Hügel in der Upper East Region sind eine faszinierende geologische Formation aus riesigen, aufeinandergestapelten Granitfelsen. Diese Inselberge erheben sich markant aus der flachen Savanne nahe der Grenze zu Burkina Faso und verleihen der Region ein fast surreales Aussehen. Die Verwitterung hat über Jahrmillionen skurrile Formen geschaffen, die heute als heilige Stätten und Kletterziele dienen. Das Relief ist geprägt durch nackten Fels, der nur spärlich mit Gräsern und kleinen Bäumen bewachsen ist. Die Bongo-Hügel sind tief in der Kultur des Bongo-Volkes verwurzelt, das die Felsen als Schutzräume und Orte für traditionelle Riten nutzt. Geographisch sind sie Teil des großen kristallinen Grundgebirges Westafrikas. Inmitten der Hitze des Nordens bieten die Felsspalten kühle Schattenplätze und kleine Wasserreservoirs. Geografie K6 — Granitverwitterung und Inselberge.",
+      "factsAdvanced": [
+        "Einzigartige Granit-Inselberg-Formation in Nordghana",
+        "Besteht aus massiven, rundgeschliffenen Felsblöcken (Wollsackverwitterung)",
+        "Kulturelles und spirituelles Zentrum des Bongo-Distrikts",
+        "Beliebtes Ziel für Bouldern und Abenteuertourismus",
+        "Gestein ist Teil des 2 Milliarden Jahre alten Birimian-Granits",
+        "Bietet natürlichen Schutz gegen die heißen Harmattan-Winde",
+        "Ort zahlreicher traditioneller Schreine und Opferstätten",
+        "Spektakuläres Panorama über das nördliche Grenzland"
+      ]
     },
     {
-      "id": "foso-cities-v2",
-      "descriptionAdvanced": "Oft Assin Foso genannt, ist die Stadt ein wichtiger Verkehrs- und Handelsknotenpunkt entlang der Hauptverkehrsstraße zwischen Cape Coast und Kumasi. Sie dient als wichtiges landwirtschaftliches Sammelzentrum, in dem lokale Bauern Kakao, Palmöl und Kochbananen verladen. Die örtliche Pädagogische Hochschule hat den Ruf der Stadt als Bildungszentrum im Hinterland der Central Region zementiert. Geografie K6 — Handel und Infrastruktur.",
-      "factsAdvanced": ["Bekannt als Assin Foso", "Handelsknotenpunkt zwischen Cape Coast und Kumasi", "Sammelzentrum für Kakao und Palmöl", "Heimat einer bekannten Pädagogischen Hochschule", "Wichtiger Verkehrsknotenpunkt", "Bildungszentrum der Central Region"]
+      "id": "dagbon-plateau-relief-v2",
+      "descriptionAdvanced": "Das Dagbon-Plateau (auch bekannt als Northern Plateau) ist eine weite, wellige Hochebene, die das Herzland des ehemaligen Dagbon-Königreichs im Norden Ghanas bildet. Das Relief liegt durchschnittlich auf 200 bis 300 Metern Höhe und besteht geologisch aus voltaischem Sandstein, der eine flache, stabile Oberfläche bildet. Die Landschaft ist von der Guinea-Savanne dominiert, mit weiten Grasflächen und vereinzelten Shea-Butter- und Affenbrotbäumen. Das Plateau wird durch die Zuflüsse des Weißen Volta entwässert, die in der Regenzeit breite, flache Täler bilden. Aufgrund der durchlässigen Sandsteinböden versickert das Wasser schnell, was in der Trockenzeit zu Wasserknappheit führt. Das Dagbon-Plateau ist eine der wichtigsten Agrarzonen für den Anbau von Yamswurzeln, Hirse und Mais und prägt die soziale Struktur des Nordens. Geografie K7 — Savannen-Plateaus und Landwirtschaft.",
+      "factsAdvanced": [
+        "Zentrale Hochebene des nördlichen Ghana (Savannah/Northern Region)",
+        "Geologisch geprägt durch horizontale Sandsteinschichten",
+        "Kernland des Dagomba-Volkes und des Königreichs Dagbon",
+        "Vegetationszone: Guinea-Savanne mit Baobabs und Sheabäumen",
+        "Wichtigstes Anbaugebiet für Yamswurzeln in Westafrika",
+        "Relief ist leicht gewellt mit weiten Horizonten",
+        "Klimatisch stark vom trockenen Harmattan-Wind geprägt",
+        "Durchschnittliche Höhe ca. 200 Meter über dem Meeresspiegel"
+      ]
     },
     {
-      "id": "wenchi-cities-v2",
-      "descriptionAdvanced": "Wenchi ist die historische Hauptstadt der Bono-Region und reich an kulturellem Erbe der Akan. Die Stadt ist landesweit bekannt als Geburtsort von Dr. Kofi Abrefa Busia, einem ehemaligen ghanaischen Premierminister. Wirtschaftlich stützt sich die Region stark auf die Landwirtschaft, wobei Wenchi für seinen hervorragenden Cashewanbau und den großen wöchentlichen Yams-Markt berühmt ist. Geschichte K7 — ghanaische Politiker.",
-      "factsAdvanced": ["Historische Hauptstadt der Bono-Region", "Geburtsort von Dr. Kofi Abrefa Busia", "Reiches kulturelles Erbe der Akan", "Zentrum für den Cashewanbau", "Großer wöchentlicher Yams-Markt", "Wirtschaft stützt sich auf Landwirtschaft"]
+      "id": "akposso-hills-relief-v2",
+      "descriptionAdvanced": "Die Akposso-Hügel sind ein zerklüfteter Gebirgszug in der Oti Region Ghanas, der zur Togo-Atakora-Kette gehört. Diese Hügel sind bekannt für ihre steilen Hänge, tiefen Schluchten und eine üppige Vegetation, die durch die hohen Niederschläge in dieser Grenzregion begünstigt wird. Das Relief ist geprägt durch harten Quarzit und Schiefer, die scharfe Grate und spektakuläre Klippen bilden. Die Akposso-Hügel beherbergen zahlreiche unberührte Wasserfälle und sind ein wichtiges Refugium für seltene Tier- und Pflanzenarten. Aufgrund ihrer abgeschiedenen Lage und der schwierigen Topografie ist die Region infrastrukturell kaum erschlossen, was jedoch zum Erhalt der ursprünglichen Natur beigetragen hat. Das Gebiet ist kulturell eng mit den Völkern in Togo verbunden und dient als wichtiger Wasserspeicher für das östliche Ghana. Geografie K7 — Gebirgslandschaften und Biodiversitätskorridore.",
+      "factsAdvanced": [
+        "Teil des grenzüberschreitenden Togo-Atakora-Gebirgssystems",
+        "Liegt im bergigen Grenzland der neuen Oti Region",
+        "Höhenlagen erreichen oft über 600 Meter",
+        "Besteht primär aus metamorphosem Quarzitgestein",
+        "Hotspot für seltene Farne und Hochland-Flora",
+        "Wichtiges Einzugsgebiet für Nebenflüsse des Oti-Flusses",
+        "Region ist geprägt durch kleine, isolierte Bergdörfer",
+        "Bietet hohes Potenzial für Trekking und Ökotourismus"
+      ]
     },
     {
-      "id": "mumford-cities-v2",
-      "descriptionAdvanced": "Mumford ist eine traditionelle Fischergemeinde an der Küste der Central Region, bekannt für ihre riesige Flotte aus bunten Holzkanus. Die Bevölkerung, mehrheitlich vom Volk der Fante, ist für ihre tief verwurzelten maritimen Traditionen und handwerklichen Fähigkeiten im Bootsbau bekannt. Leider leidet die Gemeinde unter der zunehmenden Überfischung durch ausländische Trawler, was das traditionelle Einkommen der Fischer massiv bedroht. Umwelt K8 — Überfischung der Ozeane.",
-      "factsAdvanced": ["Traditionelle Fischergemeinde (Central Region)", "Riesige Flotte bunter Holzkanus", "Bevölkerung gehört mehrheitlich zum Fante-Volk", "Bekannt für traditionellen Bootsbau", "Leidet unter ausländischer Überfischung", "Maritimes Einkommen massiv bedroht"]
-    },
-    {
-      "id": "duayaw-nkwanta-cities-v2",
-      "descriptionAdvanced": "Duayaw Nkwanta, in der Ahafo Region gelegen, ist ein geschäftiges landwirtschaftliches Zentrum am Rande des tropischen Regenwaldes. Die Stadt profitiert von fruchtbaren Lehmböden, auf denen Kakaobohnen und Tomaten in großen Mengen für den nationalen Markt angebaut werden. Als Residenz eines einflussreichen traditionellen Königs bewahrt die Gemeinde strenge Akan-Rituale, die in regelmäßigen Abständen während des Jahres gefeiert werden. Kultur K6 — Agrargesellschaften.",
-      "factsAdvanced": ["Liegt in der Ahafo Region am Regenwald", "Fruchtbare Lehmböden begünstigen Anbau", "Große Produktion von Kakao und Tomaten", "Residenz eines traditionellen Königs", "Bewahrt strenge Akan-Rituale", "Wichtiges landwirtschaftliches Zentrum"]
-    },
-    {
-      "id": "bekwai-cities-v2",
-      "descriptionAdvanced": "Bekwai ist eine der historisch einflussreichsten Städte des alten Ashanti-Reiches und liegt etwa eine Autostunde südlich von Kumasi. Zu Beginn des 20. Jahrhunderts spielte die Stadt eine Schlüsselrolle, da sie sich während des Yaa-Asantewaa-Krieges mit den Briten verbündete, um lokale Vorteile zu erlangen. Heute dominiert die Kakaowirtschaft das Leben in den umliegenden Dörfern, während Bekwai selbst als wichtiger Verwaltungssitz fungiert. Geschichte K8 — koloniale Allianzen.",
-      "factsAdvanced": ["Historisch einflussreich im Ashanti-Reich", "Liegt südlich von Kumasi", "Verbündete sich im Yaa-Asantewaa-Krieg mit Briten", "Kakaowirtschaft dominiert die Region", "Wichtiger Verwaltungssitz", "Schlüsselrolle im frühen 20. Jahrhundert"]
-    },
-    {
-      "id": "bechem-cities-v2",
-      "descriptionAdvanced": "Bechem, ebenfalls in der Ahafo Region, ist ein florierendes Bildungszentrum, in dem das angesehene St. Josephs College of Education viele der besten Lehrer des Landes ausbildet. Neben der Bildung ist die Wirtschaft stark von der Landwirtschaft geprägt, wobei die Region oft als eine der Brotkörbe des Landes gilt. Der Anbau von Cashewnüssen hat in den letzten Jahren rasant zugenommen und bietet den Bauern eine lukrative Alternative zum Kakao. Wirtschaft K7 — Cash Crops.",
-      "factsAdvanced": ["Florierendes Bildungszentrum in der Ahafo Region", "Sitz des St. Josephs College of Education", "Wichtige Agrarregion (Brotkorb des Landes)", "Rasant wachsender Cashewanbau", "Lukrative Alternative zur Kakaoproduktion", "Ausbildung für ghanaische Lehrkräfte"]
-    },
-    {
-      "id": "denu-cities-v2",
-      "descriptionAdvanced": "Denu ist eine geschäftige Küstenstadt in der Volta-Region, die nahezu mit der Grenzstadt Aflao verschmolzen ist. Die Lage an der Hauptroute nach Togo und Nigeria macht Denu zu einem Knotenpunkt für grenzüberschreitenden Handel und Transport. Die Stadt zeichnet sich auch durch ihre ausgedehnten Kokosnussplantagen entlang der Sandstrände aus, aus denen Kopra für die Ölgewinnung produziert wird. Geografie K6 — Küstenwirtschaft.",
-      "factsAdvanced": ["Nahezu mit der Grenzstadt Aflao verschmolzen", "Knotenpunkt nach Togo und Nigeria", "Ausgedehnte Kokosnussplantagen", "Produktion von Kopra für Ölgewinnung", "Wichtiger Ort für grenzüberschreitenden Handel", "Küstenstadt in der Volta-Region"]
-    },
-    {
-      "id": "anloga-cities-v2",
-      "descriptionAdvanced": "Anloga ist das kulturelle und spirituelle Herz des Anlo-Ewe-Volkes in der Volta-Region, wunderschön gelegen auf einem schmalen Sandstreifen zwischen der Keta-Lagune und dem Ozean. Jedes Jahr im November feiert die Stadt das berühmte Hogbetsotso-Festival, das an die legendäre Flucht der Ewe aus dem Königreich Notsie erinnert. Die Bauern in Anloga sind Meister der Schalottenzucht und nutzen hochentwickelte, intensive Anbaumethoden auf dem sandigen Boden rund um die Lagune. Kultur K7 — Ewe-Migration.",
-      "factsAdvanced": ["Spirituelles Herz des Anlo-Ewe-Volkes", "Liegt zwischen Keta-Lagune und Ozean", "Jährliches Hogbetsotso-Festival im November", "Erinnerung an Flucht aus dem Königreich Notsie", "Bauern sind Meister der Schalottenzucht", "Intensive Anbaumethoden auf sandigem Boden"]
+      "id": "buem-escarpment-relief-v2",
+      "descriptionAdvanced": "Das Buem-Escarpment ist eine markante geologische Verwerfung im Osten Ghanas, die parallel zum bekannteren Akwapim-Togo-Gebirge verläuft. Geologisch besteht es aus den sogenannten 'Buem-Formationen', einer komplexen Mischung aus vulkanischem Gestein, Sandstein und Schiefer. Das Relief zeichnet sich durch lange, bewaldete Bergrücken und schmale Täler aus, die eine natürliche Barriere im Hinterland der Volta-Region bilden. Das Escarpment spielt eine wichtige Rolle im lokalen Wasserhaushalt, da es die feuchten Luftmassen des Volta-Beckens staut und für regelmäßige Niederschläge sorgt. Die fruchtbaren Böden an den Hängen werden intensiv für den Anbau von Kakao und Kaffee genutzt. Die zerklüftete Topografie hat im Laufe der Geschichte als Rückzugsort für verschiedene ethnische Gruppen gedient und so die kulturelle Vielfalt der Region bewahrt. Geografie K7 — Tektonik und Schichtstufenbildung.",
+      "factsAdvanced": [
+        "Geologisch einzigartige Formation (Buem Structural Unit)",
+        "Verläuft parallel zum Hauptkamm des Togo-Gebirges",
+        "Enthält eine Mischung aus vulkanischen und sedimentären Gesteinen",
+        "Wichtiges Kakaoproduktionsgebiet in der Oti/Volta Region",
+        "Besteht aus einer Serie von bewaldeten Hügelketten",
+        "Relief ist geprägt durch markante Steilstufen (Escarpments)",
+        "Höchste Erhebungen liegen bei etwa 550 Metern",
+        "Bietet Lebensraum für eine Vielzahl von Primaten und Vögeln"
+      ]
     }
   ]
 }

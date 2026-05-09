@@ -1,0 +1,45 @@
+{
+  "lang": "de",
+  "country": "ethiopia",
+  "files": [
+    "lib/visualLab/data/poiExtraEthiopiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "blue-nile-falls-nature-v2",
+      "descriptionAdvanced": "Die Blauen-Nil-Fälle, lokal als Tis Issat bekannt, stellen einen der spektakulärsten Naturschauplätze Afrikas dar. Das Wasser des Blauen Nils stürzt hier bei Bahir Dar über eine Basaltkante bis zu 45 Meter in die Tiefe und erzeugt dabei eine gewaltige Wassernebel-Fontäne. Dieses Naturdenkmal ist nicht nur touristisch von großer Bedeutung, sondern bietet auch Einblicke in geologische Prozesse der Basaltformationen. Die Umgebung ist zudem ein wichtiger Lebensraum für eine Vielzahl an Vogelarten und anderen Tieren. Geografie K7 — Dynamik von Flüssen und Wasserfällen.",
+      "factsAdvanced": [
+        "Fallhöhe von beeindruckenden 45 Metern.",
+        "Variabler Wasserfall mit bis zu 400 Metern Breite in der Regenzeit.",
+        "Lokaler Name 'Tis Issat' übersetzt als 'Rauch des Feuers'.",
+        "Gelegen in der Region Amhara, nahe der Stadt Bahir Dar.",
+        "Hydrologisch bedeutsam durch die Speisung aus dem Tanasee.",
+        "Ein zentrales Monument der äthiopischen Naturlandschaft."
+      ]
+    },
+    {
+      "id": "lake-tana-nature-v2",
+      "descriptionAdvanced": "Der Tana-See ist der größte Binnensee Äthiopiens und bildet das essenzielle Quellbecken des Blauen Nils. Mit einer Fläche von bis zu 3.600 Quadratkilometern auf einer Höhe von rund 1.788 Metern stellt er ein gigantisches Süßwasserreservoir dar. Über 20 mittelalterliche Klosteranlagen auf seinen Inseln machen den See zudem zu einem kulturell unverzichtbaren Ort, der tief mit der äthiopisch-orthodoxen Geschichte verwoben ist. Das gesamte Becken ist ein ökologisch hochkomplexes System und ein Schlüssel für das Verständnis hydrologischer Abläufe im ostafrikanischen Hochland. Geografie K7 — Binnengewässer und kulturelle Bedeutung.",
+      "factsAdvanced": [
+        "Größter See Äthiopiens mit ca. 3.000 bis 3.600 Quadratkilometern Fläche.",
+        "Primäre Quelle des Blauen Nils.",
+        "Heimat von über 20 historischen Klöstern auf den Inseln.",
+        "Durchschnittliche Wassertiefe zwischen 8 und 14 Metern.",
+        "Vulkanisch bedingte Entstehung des Seebeckens im Tertiär.",
+        "Zentraler Knotenpunkt für die lokale Binnenfischerei."
+      ]
+    },
+    {
+      "id": "simien-mountains-nature-v2",
+      "descriptionAdvanced": "Das Simien-Gebirge zählt zu den spektakulärsten und dramatischsten Hochgebirgslandschaften Afrikas, geprägt durch tiefe Schluchten, scharfe Grate und weite Plateaus. Als UNESCO-Welterbestätte beheimatet das Gebirge eine außergewöhnliche Dichte an endemischen Arten, darunter den charismatischen Äthiopischen Wolf und den Dschelada-Pavian. Die landschaftliche Vielfalt erstreckt sich von afroalpinen Graslandschaften bis hin zu schroffen Felsformationen, was das Gebirge zu einem Hotspot für Trekking-Begeisterte und Forscher macht. Der ökologische Reichtum dieses Gebirges ist international anerkannt und ein Beispiel für die Einzigartigkeit des äthiopischen Hochlandes. Biologie K7 — Alpine Ökosysteme und Endemismus.",
+      "factsAdvanced": [
+        "Ausgewiesen als UNESCO-Welterbe aufgrund der einzigartigen Landschaft.",
+        "Höchster Gipfel mit dem Ras Dashen (über 4.500 Meter).",
+        "Einzigartige Heimat für endemische Arten wie den Äthiopischen Wolf.",
+        "Drama durch extreme geologische Erosion und steile Abgründe.",
+        "Ausgedehnte Plateaus und Täler als Lebensraum für Dscheladas.",
+        "Hochalpine Klimazonen, die den Lebensraum stark prägen."
+      ]
+    }
+  ]
+}

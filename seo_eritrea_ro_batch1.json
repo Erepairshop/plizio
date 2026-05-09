@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "asmara-cities-v2",
+      "descriptionAdvanced": "Asmara, capitala Eritreei, este o bijuterie arhitecturală situată pe un platou înalt la 2.325 de metri. Cunoscută sub porecla „Piccola Roma”, orașul găzduiește o densitate extraordinară de clădiri în stil Art Déco și modernist, conservate excelent din perioada colonială italiană. Planificarea urbană unică și diversitatea stilistică au adus orașului recunoașterea ca Patrimoniu Mondial UNESCO în 2017. Geografie K7 — studiul orașelor de munte și impactul altitudinii asupra climei.",
+      "factsAdvanced": [
+        "Situată la o altitudine de 2.325 de metri deasupra nivelului mării.",
+        "Recunoscută pentru densitatea ridicată de clădiri Art Déco.",
+        "Patrimoniu Mondial UNESCO începând cu anul 2017.",
+        "Dezvoltată masiv în stil modernist în anii 1930.",
+        "Temperatură medie anuală de 17 °C datorită altitudinii.",
+        "A supraviețuit războiului de independență fără daune structurale majore."
+      ]
+    },
+    {
+      "id": "massawa-cities-v2",
+      "descriptionAdvanced": "Massawa este cel mai important port istoric al Eritreei la Marea Roșie, fiind poarta principală către comerțul maritim al Cornului Africii. Arhitectura veche a orașului reprezintă un amestec fascinant de influențe otomane, egiptene și italiene. Situat pe insulele Mitsiwa și Taulud, conectate prin diguri cu continentul, orașul a fost cândva capitala colonială a Eritreei. Geografie K7 — importanța strategică a porturilor și a comerțului maritim internațional.",
+      "factsAdvanced": [
+        "Situat aproape de nivelul mării, într-o zonă cu climat extrem de cald.",
+        "A fost cel mai important port al administrației coloniale italiene.",
+        "Arhitectura reflectă influențe otomane și egiptene distincte.",
+        "Conectat la continent prin diguri construite între insulele principale.",
+        "Centru istoric esențial pentru schimbul de cafea și bumbac.",
+        "Una dintre cele mai fierbinți locații locuite de pe Pământ."
+      ]
+    },
+    {
+      "id": "keren-cities-v2",
+      "descriptionAdvanced": "Keren, al doilea oraș ca mărime din Eritreea, este un centru agricol vital situat în regiunea Anseba la 1.390 de metri altitudine. Orașul este celebru pentru piața sa săptămânală de animale și produse agricole, un punct de întâlnire cultural pentru diverse comunități. Istoria sa bogată include vestigii importante din timpul celui de-al Doilea Război Mondial, precum cimitirul militar italian. Geografia muntoasă și climatul unic fac din Keren un nod comercial de neînlocuit în zonele înalte. Geografie K7 — rolul piețelor locale în economia regională.",
+      "factsAdvanced": [
+        "Situat în regiunea Anseba la o altitudine de 1.390 de metri.",
+        "Faimos pentru piața săptămânală de animale.",
+        "Locul unor bătălii decisive între forțele britanice și italiene în al Doilea Război Mondial.",
+        "Găzduiește un cimitir militar italian istoric.",
+        "Centru agricol de prim rang pentru fructe și legume.",
+        "Punct de răscruce cultural între diversele grupuri etnice din regiune."
+      ]
+    },
+    {
+      "id": "assab-cities-v2",
+      "descriptionAdvanced": "Assab este un port strategic la capătul sudic al coastei Mării Roșii, esențial pentru rutele maritime dintre Africa de Est și Orientul Mijlociu. Economia orașului este definită de facilitățile portuare de mare adâncime și proximitatea față de deșertul Danakil, ceea ce creează un contrast climatic și geografic acut. Istoric, a servit drept punct de realimentare și hub comercial vital. În prezent, rămâne o poartă de acces internațională crucială pentru Eritreea. Geografie K7 — importanța orașelor de tranzit în rețelele comerciale globale.",
+      "factsAdvanced": [
+        "Port strategic cu facilități de mare adâncime la Marea Roșie.",
+        "Climat extrem de arid și fierbinte, tipic zonei de coastă.",
+        "Poartă comercială majoră pentru Eritreea și Etiopia.",
+        "Situat în proximitatea deșertului Danakil.",
+        "Rol istoric în rutele maritime dintre Africa și Orientul Mijlociu.",
+        "Dotat cu o rafinărie de petrol importantă pentru sudul țării."
+      ]
+    },
+    {
+      "id": "mendefera-cities-v2",
+      "descriptionAdvanced": "Mendefera este centrul administrativ al regiunii Debub, situat într-o zonă fertilă a platoului eritreean. Orașul, cunoscut istoric sub numele de Adi Ugri, este o comunitate agricolă prosperă, jucând un rol cheie în economia țării. Bogăția arheologică a zonei oferă dovezi despre așezări umane milenare, demonstrând continuitatea istorică a regiunii. Astăzi, este un nod comercial important pentru schimburile de produse agricole și servicii în sudul Eritreei. Geografie K7 — economia regiunilor agricole din zonele înalte.",
+      "factsAdvanced": [
+        "Centru administrativ al regiunii Debub.",
+        "Cunoscut anterior sub denumirea colonială de Adi Ugri.",
+        "Înconjurat de terenuri agricole fertile, coloana vertebrală a economiei locale.",
+        "Dovezi arheologice ale unor civilizații antice în împrejurimi.",
+        "Nod important pentru schimbul de produse agricole în sudul țării.",
+        "Regiunea Debub este recunoscută drept cea mai fertilă din Eritreea."
+      ]
+    }
+  ]
+}

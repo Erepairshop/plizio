@@ -2,33 +2,294 @@
   "lang": "de",
   "country": "gambia",
   "files": [
-    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
   ],
   "items": [
     {
+      "id": "banjul-cities-v2",
+      "descriptionAdvanced": "Banjul, die charmante Hauptstadt Gambias, liegt strategisch auf der Insel St. Mary an der Mündung des mächtigen Gambia-Flusses in den Atlantik. Gegründet im Jahr 1816 als Bathurst, diente die Stadt ursprünglich als britischer Militärposten zur Unterbindung des illegalen Sklavenhandels. Heute ist Banjul das pulsierende politische und wirtschaftliche Zentrum des Landes, geprägt von einer Mischung aus kolonialer Architektur und lebhaften Märkten wie dem berühmten Albert Market. Trotz ihrer Rolle als Hauptstadt hat Banjul eine entspannte Atmosphäre bewahrt, da die Stadt geografisch durch das Meer und Mangrovensümpfe begrenzt ist. Besucher können den imposanten Arch 22 bestaunen, der einen Panoramablick über die Stadt bietet, oder das Nationalmuseum erkunden, das tief in die reiche Geschichte und Kultur Westafrikas eintaucht. (Geographie K6 — Mündungsgebiete und Hafenstädte)",
+      "factsAdvanced": [
+        "Gegründet 1816 unter dem Namen Bathurst durch die Briten.",
+        "Liegt auf der Insel St. Mary am Ästuar des Gambia-Flusses.",
+        "Der Arch 22 ist das höchste Bauwerk und Wahrzeichen der Stadt.",
+        "Heimat des Albert Market, einem der größten Märkte Westafrikas.",
+        "Sitz der gambischen Regierung und aller wichtigen Ministerien.",
+        "Geografisch durch den Tanbi Wetland Complex im Süden begrenzt.",
+        "Wichtiger Exporthafen für Erdnüsse, Fisch und Palmöl.",
+        "Verfügt über ein Nationalmuseum mit bedeutenden archäologischen Funden."
+      ]
+    },
+    {
+      "id": "serekunda-cities-v2",
+      "descriptionAdvanced": "Serekunda ist die größte und dynamischste Stadt Gambias und bildet das wahre wirtschaftliche Herz der nation. Während Banjul das administrative Zentrum ist, pulsiert in Serekunda das tägliche Leben mit einer unglaublichen Energie. Die Stadt ist berühmt für ihren weitläufigen Markt, der als einer der größten in Westafrika gilt und alles von traditionellen Textilien bis hin zu moderner Elektronik bietet. Serekunda ist eigentlich ein Zusammenschluss mehrerer Stadtteile wie Latri Kunda, Dippa Kunda und Bakoteh, die nahtlos ineinander übergehen. Die Stadt ist ein Schmelztiegel der Kulturen, in dem Menschen aus allen ethnischen Gruppen Gambias und den Nachbarländern zusammenkommen. Trotz der hohen Bevölkerungsdichte bewahrt Serekunda einen starken Gemeinschaftssinn und ist bekannt für seine lebendige Musikszene und die zahlreichen Sportveranstaltungen in den lokalen Arenen. (Wirtschaft K7 — Urbane Zentren und Handelsstrukturen)",
+      "factsAdvanced": [
+        "Größte Stadt Gambias mit einer stetig wachsenden Bevölkerung.",
+        "Besteht aus neun verschiedenen Untergemeinden (Kundas).",
+        "Zentrum des täglichen Handels und der informellen Wirtschaft.",
+        "Heimat des Serekunda Market, einem logistischen Meisterwerk.",
+        "Wichtiger Verkehrsknotenpunkt für alle nationalen 'Gele-Gele'-Busse.",
+        "Bekannt für die Herstellung von Batik-Stoffen und traditionellem Handwerk.",
+        "Verfügt über eine der höchsten Dichten an Koranschulen im Land.",
+        "Zentraler Punkt für die Telekommunikationsinfrastruktur Gambias."
+      ]
+    },
+    {
       "id": "brikama-cities-v2",
-      "descriptionAdvanced": "Brikama ist eine der größten Städte Gambias und fungiert als zentraler Knotenpunkt für den Distrikt Kombo Central. Die Stadt ist weltberühmt für ihre reiche Tradition der Holzschnitzkunst, wobei Künstler und Handwerker auf dem Brikama Market ihre kunstvollen Werke anbieten. Zudem spielt Brikama eine wichtige Rolle im Bildungssektor als Heimat des Brikama College. Die musikalische Tradition, insbesondere das Spiel auf der Kora, ist tief in der lokalen Kultur verwurzelt und zieht Besucher aus der ganzen Welt an. Musik K5 — Instrumente und kulturelle Traditionen.",
-      "factsAdvanced": ["Bedeutendes Zentrum für Holzschnitzkunst.", "Sitz des Brikama College.", "Wichtiger Knotenpunkt für Kombo Central.", "Zentrum traditioneller Kora-Musik.", "Großer Markt für lokale Handwerkserzeugnisse.", "Wachsende urbane Bevölkerung.", "Verkehrsgünstige Lage im Süden."]
+      "descriptionAdvanced": "Brikama, die Hauptstadt der West Coast Region, ist weit über die Landesgrenzen hinaus als die kulturelle Hauptstadt Gambias bekannt. Die Stadt ist das unumstrittene Zentrum der traditionellen gambischen Musik und hat Generationen von talentierten Kora-Spielern und Griots hervorgebracht. Neben ihrer musikalischen Bedeutung ist Brikama weltberühmt für seine Holzschnitzkunst; auf dem lokalen Kunstmarkt finden sich beeindruckende Werke aus Mahagoni und Ebenholz, die von Meistern ihres Fachs gefertigt werden. Als wichtiger Bildungsstandort beherbergt die Stadt das Gambia College, an dem die zukünftigen Lehrer des Landes ausgebildet werden. Die strategische Lage an der Kreuzung wichtiger Handelsrouten in den Süden (Casamance) und ins Landesinnere macht Brikama zu einem unverzichtbaren wirtschaftlichen Motor für die gesamte Region. (Sozialkunde K7 — Kulturelle Identität und Bildung)",
+      "factsAdvanced": [
+        "Administrativer Hauptsitz der bevölkerungsreichen West Coast Region.",
+        "Zentrum der Mandinka-Kultur und der traditionellen Griot-Musik.",
+        "Beherbergt das renommierte Gambia College (Lehrerbildung).",
+        "Berühmt für den Craft Market mit erstklassigen Holzschnitzereien.",
+        "Wichtiger Knotenpunkt für den Handel mit dem Senegal (Casamance).",
+        "Standort eines der wichtigsten Elektrizitätswerke der NAWEC.",
+        "Zentrum für die Verarbeitung und den Handel von Agrarprodukten.",
+        "Bekannt für die jährlichen kulturellen Festivals und Musikwettbewerbe."
+      ]
     },
     {
       "id": "bakau-cities-v2",
-      "descriptionAdvanced": "Bakau ist eine lebhafte Küstenstadt, die für ihre harmonische Verbindung von Tourismus und lokaler Tradition bekannt ist. Zu den Höhepunkten gehört das Kachikally Krokodilbecken, das als heiliger Ort gilt und Besucher aus aller Welt anzieht. Der botanische Garten bietet eine grüne Oase und Einblicke in die tropische Flora der Region. Bakau hat sich zu einem beliebten Ferienort entwickelt, bewahrt sich aber gleichzeitig den Charakter eines traditionellen Fischerdorfes. Biologie K7 — Ökosysteme und Biodiversität in Westafrika.",
-      "factsAdvanced": ["Standort des heiligen Kachikally Krokodilbeckens.", "Heimat des Botanischen Gartens Bakau.", "Bekannt als beliebte Ferienortschaft am Atlantik.", "Stark ausgeprägte Fischereitraditionen.", "Zentrum für handwerkliches Kunsthandwerk.", "Nähe zur Hauptstadt Banjul.", "Wichtiger Ort für kulturelle Zeremonien."]
+      "descriptionAdvanced": "Bakau ist eine malerische Küstenstadt, die auf den Klippen über dem Atlantik thront und eine einzigartige Verbindung aus Tradition und Moderne bietet. Weltberühmt ist die Stadt für das heilige Kachikally-Krokodilbecken, an dem seit Generationen zahme Krokodile leben und das als Ort für Fruchtbarkeitsrituale dient. Bakau beherbergt zudem den Nationalen Botanischen Garten, eine grüne Oase der Ruhe mit einer beeindruckenden Vielfalt an tropischen Pflanzen. Während das Viertel Cape Point mit seinen luxuriösen Hotels und feinen Sandstränden Touristen anzieht, bewahrt sich das alte Bakau mit seinem Fischlandeplatz den Charme eines authentischen Fischerdorfes. Die Stadt ist auch Sitz wichtiger Institutionen wie dem Independence Stadium und verschiedenen Botschaften, was ihr eine besondere strategische und soziale Bedeutung innerhalb der Greater Banjul Area verleiht. (Biologie K7 — Ökosysteme und Biodiversität)",
+      "factsAdvanced": [
+        "Beherbergt das heilige Kachikally-Krokodilbecken (Spiritueller Ort).",
+        "Standort des Independence Stadium, dem Nationalstadion Gambias.",
+        "Sitz des Nationalen Botanischen Gartens (gegründet im 19. Jh.).",
+        "Wichtiger Fischlandeplatz für die Versorgung der Hauptstadtregion.",
+        "Standort zahlreicher diplomatischer Vertretungen und Botschaften.",
+        "Bekannt für Cape Point mit seinen spektakulären Meeresklippen.",
+        "Zentrum für den ökologisch orientierten Tourismus in Küstennähe.",
+        "Heimat der National Intelligence Agency und militärischer Stützpunkte."
+      ]
     },
     {
       "id": "farafenni-cities-v2",
-      "descriptionAdvanced": "Farafenni ist eine strategisch bedeutsame Handelsstadt am Nordufer des Gambia-Flusses. Durch ihre Lage an der Trans-Gambia-Autobahn, die Gambia mit dem Senegal verbindet, spielt sie eine entscheidende Rolle im internationalen Warenverkehr. Der lokale 'Lumo'-Markt ist einer der größten und wichtigsten in der Region und bietet eine Vielzahl von Produkten aus dem gesamten Landesinneren an. Als wachsendes Handelszentrum prägt Farafenni die wirtschaftliche Entwicklung der gesamten North Bank Region nachhaltig. Wirtschaft K8 — Infrastruktur und Handel in Schwellenländern.",
-      "factsAdvanced": ["Strategische Lage an der Trans-Gambia-Autobahn.", "Zentrum der North Bank Region.", "Bekannt für den riesigen wöchentlichen Lumo-Markt.", "Wichtiger Umschlagplatz für landwirtschaftliche Produkte.", "Dynamische wirtschaftliche Entwicklung.", "Knotenpunkt für grenzüberschreitenden Verkehr.", "Wachsende städtische Infrastruktur."]
+      "descriptionAdvanced": "Farafenni ist die bedeutendste Stadt am Nordufer des Gambia-Flusses und fungiert als vitales Bindeglied zwischen Nord- und Südgambia sowie dem Senegal. Durch den Bau der monumentalen Senegambia-Brücke im Jahr 2019, welche die zeitaufwendige Fähre ersetzte, hat die Stadt einen enormen wirtschaftlichen Aufschwung erlebt. Farafenni ist berühmt für seinen riesigen 'Lumo' (Wochenmarkt), der Händler aus ganz Westafrika anzieht und die Stadt in ein pulsierendes Handelszentrum verwandelt. Als strategischer Knotenpunkt am Trans-Gambia Highway ist die Stadt entscheidend für den Transitverkehr von Waren und Menschen in der gesamten Region. Neben dem Handel beherbergt Farafenni wichtige medizinische Einrichtungen wie das AFPRC General Hospital, das als Referenzzentrum für die gesamte North Bank Region dient. (Wirtschaft K8 — Infrastruktur und Regionalentwicklung)",
+      "factsAdvanced": [
+        "Strategisch wichtigste Stadt in der North Bank Region.",
+        "Unmittelbare Nähe zur Senegambia-Brücke (eröffnet 2019).",
+        "Austragungsort eines der größten Lumo-Märkte Westafrikas.",
+        "Wichtiger Grenzposten für den Transitverkehr nach Senegal.",
+        "Sitz des AFPRC General Hospital (Regionales Gesundheitszentrum).",
+        "Knotenpunkt des Trans-Gambia Highway (Nord-Süd-Verbindung).",
+        "Bedeutendes Zentrum für den Agrarhandel (Hirse, Erdnüsse).",
+        "Wachsendes urbanes Zentrum mit modernen Dienstleistungen."
+      ]
     },
     {
       "id": "soma-cities-v2",
-      "descriptionAdvanced": "Soma gilt als das unverzichtbare Herzstück des Transports in der Lower River Region Gambias. Da sich hier die Wege der Trans-Gambia-Autobahn kreuzen, ist die Stadt ein Hauptanlaufpunkt für Reisende und Händler zwischen dem Norden und dem Süden des Landes. Die Stadt fungiert als Tor zur südgambischen Region und bietet zahlreiche Dienstleistungen, die für den Fernverkehr unerlässlich sind. Die dynamische Lage macht Soma zu einem der wichtigsten Knotenpunkte für den wirtschaftlichen Austausch in der Landesmitte. Geographie K7 — Verkehrsknotenpunkte und Regionalentwicklung.",
-      "factsAdvanced": ["Zentraler Knotenpunkt der Trans-Gambia-Autobahn.", "Haupttor zur südgambischen Region.", "Wichtige Anlaufstelle für Fernreisende.", "Zentrum der Lower River Region.", "Lebhafter Ort mit regem Transitverkehr.", "Wachsende Handelskapazitäten.", "Schnittstelle für den nationalen Warenverkehr."]
+      "descriptionAdvanced": "Soma ist das unverzichtbare Herzstück des Transports in der Lower River Region und gilt als das 'Tor zum Süden' Gambias. Die Stadt liegt an der strategisch entscheidenden Kreuzung der South Bank Road und des Trans-Gambia Highway. Täglich passieren hunderte LKWs und Busse diesen Knotenpunkt, was Soma zu einem blühenden Handelsplatz für Reisende und Fernfahrer macht. Der wirtschaftliche Rhythmus der Stadt wird vom ständigen Strom der Transitgüter bestimmt, die zwischen Dakar und der Casamance transportiert werden. Durch die Eröffnung der Senegambia-Brücke in der Nähe hat sich Soma zu einem noch dynamischeren Zentrum entwickelt, das zahlreiche Tankstellen, Werkstätten und Übernachtungsmöglichkeiten bietet. Trotz der geschäftigen Atmosphäre bewahrt die Stadt ihre Wurzeln als Agrarzentrum für die umliegenden Dörfer der Region. (Geographie K7 — Verkehrsknotenpunkte und Infrastruktur)",
+      "factsAdvanced": [
+        "Zentraler Verkehrsknotenpunkt der Lower River Region.",
+        "Liegt an der Kreuzung von South Bank Road und Trans-Gambia Highway.",
+        "Wichtigster Rastplatz für Fernfahrer zwischen Nord- und Südsenegal.",
+        "Explosives Wachstum durch die Senegambia-Brücke (Yelitenda).",
+        "Bedeutendes Zentrum für den informellen Dienstleistungssektor.",
+        "Hauptmarkt für die landwirtschaftlichen Erzeugnisse der Umgebung.",
+        "Standort wichtiger regionaler Verwaltungsbüros und Polizeistationen.",
+        "Verfügt über eine hohe Dichte an Tankstellen und Logistikbetrieben."
+      ]
     },
     {
       "id": "basse-santa-su-cities-v2",
-      "descriptionAdvanced": "Basse Santa Su ist die geschäftige administrative Hauptstadt der Upper River Region und der östlichste Knotenpunkt Gambias. Gelegen am Südufer des mächtigen Gambia-Flusses, dient die Stadt als zentraler Marktplatz für die östlichen Gebiete und angrenzende Regionen im Senegal und in Guinea. Aufgrund ihrer Lage hat die Stadt eine hohe Bedeutung für den Fernhandel und das lokale Handwerk. Trotz ihrer Abgeschiedenheit von der Küste ist Basse Santa Su ein pulsierendes Zentrum für die umliegende ländliche Bevölkerung. Wirtschaft K7 — Regionale Märkte und Warenströme.",
-      "factsAdvanced": ["Administratives Zentrum der Upper River Region.", "Östlichste Stadt Gambias.", "Großer Markt für regionale Erzeugnisse.", "Wichtiger Handelsplatz für den Fernhandel.", "Liegt direkt am Gambia-Fluss.", "Zentrum für lokales Handwerk.", "Starke Verbindungen zum Senegal und Guinea."]
+      "descriptionAdvanced": "Basse Santa Su, oft einfach Basse genannt, ist die pulsierende Hauptstadt der Upper River Region und die östlichste Großstadt Gambias. Historisch war Basse ein blühender Flusshafen und ein bedeutendes Zentrum für den Erdnusshandel, was sich noch heute in den markanten kolonialen Lagerhäusern am Flussufer widerspiegelt. Die Stadt ist ein faszinierender Schmelztiegel der Kulturen, in dem Fula, Mandinka und Soninke in einem lebhaften Austausch zusammenleben. Durch ihre Lage nahe der Grenze zum Senegal und Guinea ist Basse ein entscheidender Handelsknotenpunkt für das gesamte obere Flusstal. Die jüngste Fertigstellung der Basse-Brücke hat die Konnektivität zum Nordufer drastisch verbessert und die Stadt in eine neue Ära der wirtschaftlichen Entwicklung katapultiert. Basse bewahrt einen einzigartigen Charakter, der durch die Mischung aus historischem Erbe und moderner Grenzhandelsdynamik geprägt ist. (Geschichte K8 — Handelshistorie und Regionalentwicklung)",
+      "factsAdvanced": [
+        "Östlichstes großes urbanes Zentrum und Hauptstadt der URR.",
+        "Ehemaliger wichtiger Endpunkt für die Flussdampfer-Schifffahrt.",
+        "Berühmt für das koloniale Viertel mit alten Handelshäusern.",
+        "Zentrum der Fula-Kultur und des regionalen Viehhandels.",
+        "Strategischer Grenzhandelspunkt zu Senegal und Guinea.",
+        "Neue Basse-Brücke verbindet die Stadt effizient mit dem Nordufer.",
+        "Wichtigster Marktort für das gesamte obere Gambia-Flusstal.",
+        "Beherbergt wichtige regionale Bildungs- und Gesundheitseinrichtungen."
+      ]
+    },
+    {
+      "id": "janjanbureh-cities-v2",
+      "descriptionAdvanced": "Janjanbureh, historisch als Georgetown bekannt, ist eine faszinierende Inselstadt im Herzen des Gambia-Flusses und ein Symbol für die Geschichte der Freiheit. Gegründet im Jahr 1823 als Zufluchtsort für befreite Sklaven, bewahrt die Stadt bis heute ein tiefes historisches Erbe. Die Insel MacCarthy, auf der Janjanbureh liegt, beherbergt zahlreiche Ruinen aus der Kolonialzeit, darunter das ehemalige Sklavenhaus und Verwaltungsgebäude der Briten. Heute ist die Stadt der administrative Hauptsitz der Central River Region und ein Magnet für Kulturtouristen und Naturliebhaber. Umgeben von dichtem Regenwald und dem majestätischen Fluss, ist Janjanbureh ein idealer Ausgangspunkt für Bootsausflüge zur Beobachtung von Flusspferden und seltenen Vögeln. Die Stadt ist stolz auf ihr 'Kankurang'-Festival, das von der UNESCO als immaterielles Kulturerbe anerkannt wurde und die tiefen Maskentraditionen der Region feiert. (Geschichte K8 — Kolonialismus und Befreiungsgeschichte)",
+      "factsAdvanced": [
+        "Gegründet 1823 als Siedlung für befreite Sklaven (Liberated Africans).",
+        "Liegt auf MacCarthy Island, mitten im Gambia-Fluss.",
+        "Hauptstadt der Central River Region (CRR).",
+        "Heimat des Freedom Tree, einem Symbol der Emanzipation.",
+        "Zentrum des Kankurang-Maskenrituals (UNESCO-Weltkulturerbe).",
+        "Wichtiger Stützpunkt für Ökotourismus und Flussbeobachtungen.",
+        "Beherbergt das älteste methodistische Kirchengebäude des Landes.",
+        "Bekannt für seine gut erhaltene koloniale Gitterstruktur der Straßen."
+      ]
+    },
+    {
+      "id": "bansang-cities-v2",
+      "descriptionAdvanced": "Bansang ist eine lebhafte Marktstadt am Südufer des Gambia-Flusses und fungiert als das lebenswichtige Versorgungszentrum für das ländliche Hinterland der Central River Region. Die Stadt erlangte nationale Bedeutung durch das Bansang Hospital, das bereits 1938 gegründet wurde und bis heute die primäre medizinische Einrichtung für Tausende von Menschen im Osten des Landes ist. Bansang liegt in einer fruchtbaren Ebene und ist ein bedeutendes Zentrum für den Agrarhandel, insbesondere für Reis und Erdnüsse. Die Stadt ist geprägt durch eine starke kulturelle Vielfalt und dient als wichtiger Knotenpunkt für den Flussübergang zum Nordufer. Durch ihre Lage abseits der großen Küstenstädte hat Bansang einen authentischen Charakter bewahrt und ist ein hervorragendes Beispiel für eine funktionierende ländliche Infrastruktur in Westafrika. (Sachkunde K7 — Öffentliche Gesundheit und ländliche Versorgung)",
+      "factsAdvanced": [
+        "Standort des Bansang Hospital, dem wichtigsten Krankenhaus im Osten.",
+        "Bedeutender Marktort für Getreide und landwirtschaftliche Geräte.",
+        "Strategischer Flussübergang per Fähre zum Nordufer (Kuntaur).",
+        "Gegründet als wichtiger Außenposten während der Kolonialzeit.",
+        "Zentrum für die Reisproduktion in den umliegenden Flussauen.",
+        "Wichtiger Bildungsstandort mit mehreren Sekundarschulen.",
+        "Bekannt für seine lebhafte Gemeinschaft und diverse ethnische Mischung.",
+        "Spielt eine Schlüsselrolle in der regionalen Logistik der CRR."
+      ]
+    },
+    {
+      "id": "barra-cities-v2",
+      "descriptionAdvanced": "Barra, am Nordufer der Mündung des Gambia-Flusses gelegen, ist das geschäftige Tor zur North Bank Region und ein historischer Ort von großer strategischer Bedeutung. Die Stadt ist untrennbar mit der Fährverbindung nach Banjul verbunden, die die einzige direkte Verbindung zwischen der Hauptstadt und dem Norden darstellt. Historisch war Barra der Sitz des mächtigen Königreichs Niumi, das den Handel am Fluss kontrollierte. Das nahegelegene Fort Bullen, das zum UNESCO-Welterbe gehört, zeugt von den Bemühungen der Briten, den Sklavenhandel im 19. Jahrhundert militärisch zu unterbinden. Heute ist Barra ein permanenter Bienenstock voller Aktivitäten, geprägt von Pendlern, Händlern und Reisenden, die auf dem Weg nach Senegal oder ins Landesinnere sind. Die Stadt verbindet die raue Energie eines Hafens mit einer tiefen historischen Verwurzelung in der vorkolonialen Geschichte Westafrikas. (Geschichte K8 — Königreiche und Kolonialfestungen)",
+      "factsAdvanced": [
+        "Wichtigster Fährhafen am Nordufer gegenüber von Banjul.",
+        "Einstiges Zentrum des mächtigen Königreichs Niumi.",
+        "Heimat von Fort Bullen (UNESCO-Weltkulturerbe).",
+        "Strategischer Knotenpunkt für den Verkehr in Richtung Senegal.",
+        "Bekannt für seine lebhafte Fischerei und Bootsbau-Tradition.",
+        "Zentraler Punkt für den Handel mit Meeresfrüchten am Nordufer.",
+        "Wichtiger Grenzposten für den Personenverkehr (Amdalai).",
+        "Symbol für den Widerstand gegen die frühen kolonialen Steuern."
+      ]
+    },
+    {
+      "id": "gunjur-cities-v2",
+      "descriptionAdvanced": "Gunjur ist eine der bedeutendsten Küstengemeinden in der West Coast Region und ist landesweit bekannt für seinen gigantischen Fischlandeplatz und seine tiefe religiöse Frömmigkeit. Die Stadt beherbergt einen der größten handwerklichen Fischereibetriebe Gambias, wo täglich Hunderte von bunt bemalten Pirogen anlanden und den Markt mit frischem Fisch versorgen. Gunjur ist zudem ein wichtiges spirituelles Zentrum; die heiligen Sanddünen von Kenye-Kenye Jamano ziehen Gläubige aus dem ganzen Land an. In den letzten Jahren hat sich die Stadt zu einem Pionier für Ökotourismus entwickelt, wobei Projekte wie der Gunjur Environmental Protection and Development Group (GEPADG) den Schutz der marinen Biodiversität vorantreiben. Die Mischung aus traditioneller Fischereiindustrie, spiritueller Bedeutung und modernem Umweltschutz macht Gunjur zu einem einzigartigen und dynamischen Ort an der gambischen Atlantikküste. (Biologie K7 — Marine Ressourcen und Umweltschutz)",
+      "factsAdvanced": [
+        "Einer der größten handwerklichen Fischlandeplätze in Gambia.",
+        "Bedeutendes spirituelles Zentrum mit den heiligen Dünen von Kenye-Kenye.",
+        "Pionierort für gemeindebasierten Ökotourismus und Naturschutz.",
+        "Heimat einer großen und einflussreichen islamischen Gelehrtengemeinschaft.",
+        "Standort moderner Fischverarbeitungsbetriebe und Räuchereien.",
+        "Wichtiger Nistplatz für Meeresschildkröten an den unberührten Stränden.",
+        "Zentrum für traditionelles Wrestling (Borreh) an der Küste.",
+        "Bekannt für seine starke soziale Organisation und Gemeinschaftsprojekte."
+      ]
+    },
+    {
+      "id": "sukuta-cities-v2",
+      "descriptionAdvanced": "Sukuta ist eine rasant wachsende Stadt in der West Coast Region, die sich von einer traditionellen Bauerngemeinde zu einem wichtigen urbanen Zentrum im Umkreis der Greater Banjul Area entwickelt hat. Strategisch günstig an der Kreuzung wichtiger Verkehrsachsen gelegen, dient Sukuta heute als bedeutender Wohnort für Tausende von Pendlern, die in Serekunda oder an der Küste arbeiten. Die Stadt ist bekannt für ihre historische Moschee und den geschäftigen lokalen Markt, der das Herz des täglichen Lebens bildet. Sukuta hat es geschafft, trotz der massiven Urbanisierung seinen traditionellen Charme zu bewahren, was sich in den weitläufigen Familien-Compounds und der starken sozialen Kohäsion widerspiegelt. Mit der Verbesserung der Infrastruktur und dem Bau neuer Straßen hat sich die Stadt zu einem attraktiven Standort für Handel und Gewerbe entwickelt und spielt eine Schlüsselrolle in der regionalen Stadtplanung. (Geographie K7 — Urbanisierung und Pendlerströme)",
+      "factsAdvanced": [
+        "Eine der ältesten und größten Siedlungen im Distrikt Kombo North.",
+        "Strategischer Verkehrsknotenpunkt zwischen Küste und Binnenland.",
+        "Bedeutendes Wohngebiet für die wachsende urbane Mittelschicht.",
+        "Bekannt für seine historische Rolle in der Mandinka-Geschichte.",
+        "Heimat eines großen und vielfältigen lokalen Marktes.",
+        "Wichtiger Bildungsstandort mit zahlreichen Primär- und Sekundarschulen.",
+        "Zentrum für die Expansion von Kleingewerbe und Werkstätten.",
+        "Verfügt über moderne Gesundheitseinrichtungen für die Region."
+      ]
+    },
+    {
+      "id": "brufut-cities-v2",
+      "descriptionAdvanced": "Brufut ist ein malerischer Ort an der Atlantikküste, der für seine spektakulären Klippen, unberührten Strände und die reiche Vogelwelt bekannt ist. Die 'Brufut Woods' sind ein international renommiertes Paradies für Vogelbeobachter und beherbergen eine erstaunliche Vielfalt an tropischen Arten. Während sich das moderne Brufut zu einem bevorzugten Standort für luxuriöse Hotelentwicklungen und exklusive Wohngebiete entwickelt hat, bewahrt der alte Dorfkern seine traditionellen Wurzeln. Ein besonderer Ort ist der heilige Wald von Sanneh-Mentering, ein Ort von großer spiritueller Bedeutung für die lokale Bevölkerung. Die Stadt bietet eine einzigartige Balance zwischen dem boomenden Tourismussektor und dem Schutz sensibler Ökosysteme, was sie zu einem Modell für nachhaltige Küstenentwicklung in Gambia macht. (Biologie K6 — Habitate und Artenschutz)",
+      "factsAdvanced": [
+        "International bekanntes Ziel für die Vogelbeobachtung (Brufut Woods).",
+        "Beherbergt den heiligen Hain Sanneh-Mentering am Meer.",
+        "Standort exklusiver Hotelanlagen und moderner Villenviertel.",
+        "Bekannt für seine markanten Küstenklippen und weiten Sandstrände.",
+        "Wichtiger Standort für den ökologisch orientierten Tourismus.",
+        "Zentrum der lokalen Fischerei mit einem aktiven Fischlandeplatz.",
+        "Standort bedeutender internationaler Tagungszentren in der Nähe.",
+        "Bietet eine hohe Biodiversität auf kleinstem Raum."
+      ]
+    },
+    {
+      "id": "tanji-cities-v2",
+      "descriptionAdvanced": "Tanji ist zweifellos das fotogenste und lebhafteste Fischerdorf Gambias und ein absolutes Muss für jeden Besucher der Atlantikküste. Jeden Nachmittag bietet sich am Strand ein spektakuläres Schauspiel, wenn Hunderte von bunten Pirogen unter lautem Jubel anlanden und tonnenweise Fisch direkt am Ufer verkauft werden. Die Stadt ist eingehüllt in den Rauch der zahlreichen Fischräuchereien, die einen wesentlichen Teil der lokalen Industrie ausmachen und den Fisch für den Transport bis weit in das Landesinnere und nach Mali haltbar machen. Neben der Fischerei beherbergt Tanji das faszinierende Tanje Village Museum, das die traditionelle gambische Kultur und Naturgeschichte anschaulich dokumentiert. Das nahegelegene Tanji Bird Reserve bietet zudem Schutz für zahlreiche Seevögel und macht den Ort zu einem Hotspot für Naturliebhaber und Kulturtouristen gleichermaßen. (Wirtschaft K6 — Traditionelle Industrien und Fischerei)",
+      "factsAdvanced": [
+        "Berühmtester und aktivster handwerklicher Fischlandeplatz des Landes.",
+        "Zentrum der traditionellen Fischräucherei und -trocknung.",
+        "Heimat des Tanje Village Museum (Kultur und Naturgeschichte).",
+        "Grenzt an das Tanji Bird Reserve (Vogelschutzgebiet).",
+        "Wichtigster Lieferant für getrockneten Fisch in die Sahel-Region.",
+        "Bekannt für die spektakuläre Rückkehr der Fischerboote am Nachmittag.",
+        "Bietet Einblicke in traditionelle Konservierungsmethoden ohne Strom.",
+        "Beliebtes Ziel für Dokumentarfotografie und Kulturtourismus."
+      ]
+    },
+    {
+      "id": "kerewan-cities-v2",
+      "descriptionAdvanced": "Kerewan ist die administrative Hauptstadt der North Bank Region und liegt eingebettet in eine beeindruckende Landschaft aus Mangrovensümpfen und gewundenen Wasserläufen. Die Stadt am Minni Minniyang Bolong, einem großen Nebenfluss des Gambia, spielt eine zentrale Rolle in der Verwaltung des nördlichen Landesteils. Kerewan ist historisch eng mit dem Handel und der Landwirtschaft verbunden, wobei die Region als eine der produktivsten für den Erdnussanbau gilt. Die Stadt ist geprägt durch eine ruhige, ländliche Atmosphäre, die in starkem Kontrast zur Hektik der Küstengebiete steht. Mit der Modernisierung der Infrastruktur, wie der Kerewan-Brücke, wurde die Isolierung der Region aufgehoben, was den Austausch von Waren und Dienstleistungen massiv erleichtert hat. Kerewan ist ein Paradebeispiel für eine administrative Siedlung, die harmonisch mit der sie umgebenden Flusslandschaft koexistiert. (Geographie K6 — Mangroven-Ökosysteme und Regionalverwaltung)",
+      "factsAdvanced": [
+        "Administratives Hauptquartier der North Bank Region.",
+        "Liegt am Minni Minniyang Bolong, einem wichtigen Nebenfluss.",
+        "Umgeben von einem der größten Mangrovensysteme des Landes.",
+        "Wichtiges logistisches Zentrum für den regionalen Erdnussanbau.",
+        "Standort bedeutender regionaler Bildungs- und Gesundheitseinrichtungen.",
+        "Kerewan-Brücke (eröffnet 1999) beendete die Abhängigkeit von Fähren.",
+        "Zentrum für die Koordination ländlicher Entwicklungsprojekte.",
+        "Bekannt für seine reiche Tradition in der Flussschifffahrt."
+      ]
+    },
+    {
+      "id": "mansa-konko-cities-v2",
+      "descriptionAdvanced": "Mansa Konko, was in der Mandinka-Sprache passenderweise 'Hügel des Königs' bedeutet, ist der Verwaltungssitz der Lower River Region. Die Stadt thront auf einer seltenen Anhöhe, die einen weiten Blick über das umliegende Flusstal und die Savanne bietet. Historisch wurde der Ort von den Briten als strategische Kolonialstation gewählt, da das erhöhte Gelände Schutz vor Überschwemmungen und eine bessere Belüftung bot. Noch heute zeugen einige gut erhaltene Gebäude aus der Kolonialzeit von dieser Ära. Während das benachbarte Soma das kommerzielle Zentrum ist, bildet Mansa Konko den ruhigen, bürokratischen Gegenpol, in dem die Fäden der regionalen Verwaltung zusammenlaufen. Die Stadt ist ein Ort der Ordnung und Planung, umgeben von einer beeindruckenden Naturkulisse, die besonders während der Regenzeit in sattem Grün erstrahlt. (Geschichte K7 — Koloniale Verwaltung und Siedlungsgeographie)",
+      "factsAdvanced": [
+        "Administrativer Hauptsitz der Lower River Region.",
+        "Name bedeutet 'Hügel des Königs' auf Mandinka.",
+        "Befindet sich auf einer strategischen Anhöhe (exponierte Lage).",
+        "Ehemalige britische Kolonialstation mit historischer Architektur.",
+        "Ruhiger administrativer Gegenpol zum geschäftigen Soma.",
+        "Bietet Panoramablicke über das Tal des Gambia-Flusses.",
+        "Wichtiges Zentrum für Bildung und regionale Infrastrukturplanung.",
+        "Umgeben von fruchtbarem Ackerland und geschützten Waldgebieten."
+      ]
+    },
+    {
+      "id": "kartong-cities-v2",
+      "descriptionAdvanced": "Kartong ist das südlichste Dorf Gambias, direkt an der Grenze zum Senegal gelegen, und gilt als einer der authentischsten und entspanntesten Orte des Landes. Fernab des Massentourismus hat sich Kartong als führendes Zentrum für gemeindebasierten Ökotourismus etabliert. Das Dorf beherbergt das heilige Folonko-Krokodilbecken, einen Ort von immenser spiritueller Bedeutung für die lokale Gemeinschaft. Die Landschaft um Kartong ist geprägt durch den Allahein-Fluss, Mangroven und einsame Sandstrände, die ein Paradies für Naturliebhaber und Ruhesuchende darstellen. Die Dorfgemeinschaft ist stark engagiert in Umweltschutzprojekten und der Bewahrung ihrer kulturellen Traditionen, was sich im jährlichen Kartong Festival widerspiegelt. Kartong ist ein Ort, an dem die Grenze zwischen den Ländern fließend ist und die Natur den Rhythmus des täglichen Lebens vorgibt. (Erdkunde K6 — Ökotourismus und Grenzregionen)",
+      "factsAdvanced": [
+        "Südlichste Siedlung Gambias an der Grenze zum Senegal.",
+        "Pionierzentrum für nachhaltigen, gemeindebasierten Ökotourismus.",
+        "Heimat des heiligen Folonko-Krokodilbeckens.",
+        "Liegt an der Mündung des Allahein-Flusses.",
+        "Berühmt für das jährliche Kartong Cultural Festival.",
+        "Wichtiger Standort für Austernfischerei in den Mangroven.",
+        "Eines der ältesten Dörfer in der Kombo-Region.",
+        "Herausragender Ort für die Beobachtung seltener Sumpfvögel."
+      ]
+    },
+    {
+      "id": "kaur-cities-v2",
+      "descriptionAdvanced": "Kaur ist ein geschichtsträchtiger Handelsort am Nordufer des Gambia-Flusses, der in der Mitte des 20. Jahrhunderts als einer der bedeutendsten Erdnusshäfen Westafrikas florierte. Die Stadt liegt in einer malerischen Hügellandschaft, die in der ansonsten flachen gambischen Geographie eine Seltenheit darstellt. In der Blütezeit ankerten hier riesige Ozeandampfer, um die Ernte des Hinterlandes direkt nach Europa zu verschiffen; die massiven kolonialen Lagerhäuser und Wiegestationen zeugen noch heute von diesem einstigen Reichtum. Heute ist Kaur ein ruhigerer Ort, der jedoch seine Bedeutung als regionaler Marktplatz und strategischer Punkt für den Flussverkehr bewahrt hat. Die Stadt bietet einen tiefen Einblick in die wirtschaftliche Transformation Gambias von der Flusslogistik zum Straßenverkehr und bleibt ein wichtiger Ankerpunkt für die agrarisch geprägte North Bank Region. (Wirtschaftshistorie K8 — Agrarhandel und Binnenschifffahrt)",
+      "factsAdvanced": [
+        "Ehemaliger Hauptexporthafen für Erdnüsse im Inland.",
+        "Einzigartige Lage inmitten roter Laterit-Hügel.",
+        "Standort großer historischer Handelsdepots aus der Kolonialzeit.",
+        "Wichtiger Halt für Flusskreuzfahrtschiffe und lokale Händler.",
+        "Bedeutender Marktort für die obere North Bank Region.",
+        "Bekannt für seine reiche Geschichte in der Binnenschifffahrt.",
+        "Zentrum für die Verarbeitung lokaler Agrarprodukte.",
+        "Symbol für den Wandel der gambischen Exportlogistik."
+      ]
+    },
+    {
+      "id": "kuntaur-cities-v2",
+      "descriptionAdvanced": "Kuntaur ist ein pulsierender Flusshafen in der Central River Region und das strategische Tor zum River Gambia National Park. Die Stadt ist ein entscheidender logistischer Knotenpunkt für die Reis- und Erdnussproduktion des Landes; hier befindet sich eine der größten Reismühlen Gambias, die die Ernten der umliegenden Schwemmlandebenen verarbeitet. Da der Gambia-Fluss bis Kuntaur für hochseetaugliche Schiffe schiffbar bleibt, war die Stadt historisch ein Endpunkt für den globalen Handel tief im afrikanischen Binnenland. Heute ist Kuntaur vor allem als Ausgangspunkt für Bootsausflüge zu den 'Baboon Islands' bekannt, wo Schimpansen und Flusspferde in ihrer natürlichen Umgebung beobachtet werden können. Die Stadt vereunt auf einzigartige Weise industrielle Agrarverarbeitung mit ökologischem Tourismus und ist ein lebendiges Zentrum am mittleren Flusslauf. (Geographie K7 — Flusshäfen und Naturschutzgebiete)",
+      "factsAdvanced": [
+        "Wichtigster Binnenhafen in der Central River Region.",
+        "Standort einer der größten industriellen Reismühlen des Landes.",
+        "Tor zum River Gambia National Park (Baboon Islands).",
+        "Endpunkt der Schiffbarkeit für große Ozeandampfer am Fluss.",
+        "Zentraler Marktplatz für die umliegenden Reisanbaugebiete.",
+        "Wichtiger Stützpunkt für wissenschaftliche Forschung am Fluss.",
+        "Bietet regelmäßige Fährverbindungen zum Südufer (Bansang).",
+        "Bekannt für seine geschäftige Atmosphäre während der Erntezeit."
+      ]
+    },
+    {
+      "id": "bwiam-cities-v2",
+      "descriptionAdvanced": "Bwiam ist eine bedeutende Stadt in der West Coast Region und fungiert als der zentrale Stabilitätsanker für die gesamte Foni-Region. Strategisch günstig an der South Bank Road und am Ufer des Bintang Bolong gelegen, ist Bwiam vor allem für seine herausragenden sozialen Einrichtungen bekannt. Das Bwiam General Hospital ist eine der modernsten und effizientesten medizinischen Einrichtungen des Landes und versorgt Patienten aus einem riesigen Einzugsgebiet bis weit nach Senegal hinein. Die Stadt ist zudem ein wichtiger Bildungsstandort mit mehreren renommierten Sekundarschulen. Die geografische Lage am Bintang Bolong, dem größten Nebenfluss des Gambia, ermöglicht eine lebhafte lokale Fischerei und den Zugang zu dichten Mangrovenwäldern. Bwiam ist ein Paradebeispiel für eine ländliche Stadt, die durch gezielte Investitionen in Gesundheit und Bildung zu einem regionalen Zentrum aufgestiegen ist. (Sozialkunde K7 — Ländliche Infrastruktur und Dienstleistungen)",
+      "factsAdvanced": [
+        "Zentrales Bildungs- und Gesundheitszentrum der Foni-Region.",
+        "Standort des modernen Bwiam General Hospital.",
+        "Liegt am Bintang Bolong, dem größten Nebenfluss des Gambia.",
+        "Wichtiger Verkehrsknotenpunkt an der South Bank Road.",
+        "Hauptort des Jola-Volkes in dieser Region Gambias.",
+        "Zentrum für nachhaltige Mangrovennutzung und Fischerei.",
+        "Beherbergt wichtige soziale Projekte internationaler NGOs.",
+        "Bekannt für seine gut organisierte Gemeinschaftsstruktur."
+      ]
     }
   ]
 }

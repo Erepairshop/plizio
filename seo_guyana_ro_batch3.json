@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-weitipu-relief-v2",
+      "descriptionAdvanced": "Muntele Weitipu este un tepui (munte cu vârf plat) clasic și maiestuos, ridicându-se deasupra baldachinului verde al pădurii tropicale, constituind un ecosistem închis și fascinant. Izolarea sa timp de milioane de ani a permis dezvoltarea unor specii vegetale și animale unice, adaptate condițiilor specifice platoului. Pereții săi verticali, aproape imposibil de escaladat, păstrează acest ecosistem într-o stare de puritate aproape absolută. În plus, Weitipu joacă un rol vital în hidrologia regională, acționând ca un rezervor natural de apă pentru întreg sistemul forestier de la poalele sale. În Geografia K7, Weitipu reprezintă un punct de reper pentru înțelegerea proceselor de izolare evolutivă și a importanței tepui-urilor în biologia Scutului Guyanez.",
+      "factsAdvanced": [
+        "Tepui clasic (munte cu vârf plat) al regiunii Cuyuni-Mazaruni.",
+        "Pereți verticali abrupți, foarte dificil de escaladat.",
+        "Ecosistem izolat cu specii endemice unice.",
+        "Rezervor hidrologic vital pentru pădurea tropicală de la poale.",
+        "Evoluție biologică independentă pe platou datorată izolării.",
+        "Unul dintre cele mai protejate medii naturale din Guyana.",
+        "Structură geologică specifică Scutului Guyanez."
+      ]
+    },
+    {
+      "id": "mount-tulameng-relief-v2",
+      "descriptionAdvanced": "Situat în vestul Guyanei, Muntele Tulameng este un masiv stâncos și zord, învăluit într-un microclimat marcat de precipitații abundente care susțin o pădure tropicală densă. Această zonă rămâne o sălbăticie neîmblânzită, servind drept un obstacol natural veritabil pentru orice încercare de deplasare prin regiune. Geologic, Tulameng se bazează pe roci precambriene antice, fiind o verigă importantă în înțelegerea formării Scutului Guyanez. Miturile locale atribuie acestui vârf o semnificație sacră, adesea considerându-l o poartă către lumea strămoșilor. Studiul acestui munte oferă informații cruciale pentru Geografia K8 privind geologia precambriană și adaptarea ecosistemelor la medii extreme și foarte umede.",
+      "factsAdvanced": [
+        "Vârf stâncos și zord situat în vestul Guyanei.",
+        "Microclimat extrem de umed și ploios.",
+        "Compoziție geologică din roci precambriene antice.",
+        "Obstacol natural major pentru călătoriile în regiune.",
+        "Rol mitologic profund în folclorul indigen.",
+        "Ecosistem virgin, nealterat de intervenția umană.",
+        "Zonă critică pentru înțelegerea geologiei Scutului Guyanez."
+      ]
+    },
+    {
+      "id": "mount-maringma-relief-v2",
+      "descriptionAdvanced": "Muntele Maringma este o bijuterie ecologică situată în apropierea masivului Roraima, renumită pentru platoul său montan ce adăpostește o diversitate incredibilă de plante carnivore. Aceste plante, adaptate la solurile sărace în nutrienți specifice gresiei, au dezvoltat mecanisme complexe de supraviețuire. Deseori ascuns privirii de bănci dense de ceață, Maringma este un sit de explorare predilect pentru botaniști și cercetători. Izolarea sa geologică oferă o fereastră către procesele evolutive neîntrerupte, constituind un laborator viu. În contextul geografiei K7, acesta demonstrează cum factorii geologici (tipul de rocă) și cei climatici (ceața constantă) determină apariția unor nișe ecologice extrem de specializate.",
+      "factsAdvanced": [
+        "Situat în vecinătatea imediată a celebrului masiv Roraima.",
+        "Platou montan renumit pentru diversitatea plantelor carnivore.",
+        "Adaptări evolutive remarcabile la soluri sărace în nutrienți.",
+        "Zonă acoperită constant de ceață densă, susținând microclimatul.",
+        "Destinație esențială pentru cercetarea botanică specializată.",
+        "Geologie bazată pe gresii, tipică pentru tepui-urile guyaneze.",
+        "Unul dintre cele mai fragile și izolate medii ecologice din Guyana."
+      ]
+    },
+    {
+      "id": "kamoa-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Kamoa, situați în sudul extrem al Guyanei la granița cu Brazilia, reprezintă un teritoriu aproape complet neexplorat, fiind o componentă esențială a marelui coridor ecologic sud-american. Această zonă servește drept punte naturală între pădurile Amazonului și formațiunile Scutului Guyanez, găzduind o densitate remarcabilă de jaguari și alte specii care necesită spații vaste pentru supraviețuire. Absența oricărei intervenții umane majore a păstrat intactă biodiversitatea acestei regiuni, făcând-o o prioritate pentru conservarea la nivel internațional. Geografia K7 subliniază importanța acestor zone de tranziție ca zone critice pentru conectivitatea ecologică și protejarea speciilor migratoare.",
+      "factsAdvanced": [
+        "Situat în sudul extrem al Guyanei, la granița cu Brazilia.",
+        "Zonă de tranziție vitală între Amazon și Scutul Guyanez.",
+        "Densitate foarte mare de jaguari (indicator al sănătății ecosistemului).",
+        "Ecosistem aproape complet neatins de activitatea umană.",
+        "Parte fundamentală a coridorului internațional de conservare planificat.",
+        "Diferențe floristice semnificative față de restul țării.",
+        "Un teritoriu prioritar pentru conservarea biodiversității."
+      ]
+    }
+  ]
+}

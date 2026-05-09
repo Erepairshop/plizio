@@ -1,0 +1,261 @@
+{
+  "lang": "en",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monte-verde-relief-v2",
+      "descriptionAdvanced": "Monte Verde is the highest point of São Vicente Island, standing at an elevation of 750 meters. Despite the island's generally arid and barren landscape, the summit often captures moisture from passing trade wind clouds, supporting a unique microclimate that allows for a greener environment than the surrounding plains. The mountain offers one of the most spectacular 360-degree panoramas in Cape Verde, with views encompassing the natural harbor of Porto Grande, the city of Mindelo, and the neighboring islands of Santo Antão and Santa Luzia on clear days. The slopes are home to several endemic plant species that have adapted to the misty conditions of the heights. Historically, the peak served as an important lookout and telecommunications hub due to its strategic position overlooking the Atlantic shipping lanes. Today, it is a protected area and a popular destination for hikers seeking fresh air and a bird's-eye view of the northern archipelago.",
+      "factsAdvanced": [
+        "Highest peak on São Vicente Island at 750 meters.",
+        "Home to endemic flora like the Cape Verdean lavender.",
+        "Designated as a protected natural park since 2003.",
+        "Offers views of the Porto Grande natural harbor.",
+        "Features a distinctive humid microclimate on its summit.",
+        "Important site for national telecommunications towers.",
+        "Accessible via a cobblestone road from Mindelo.",
+        "Strategic lookout point used since the colonial era."
+      ]
+    },
+    {
+      "id": "cova-de-paul-relief-v2",
+      "descriptionAdvanced": "The Cova de Paúl is a stunning extinct volcanic crater located in the central highlands of Santo Antão Island, at an altitude of approximately 1,170 meters. This ancient caldera has a diameter of roughly 1,000 meters and features a perfectly flat floor that has been transformed into one of the most productive agricultural sites in Cape Verde. The crater traps moisture and clouds, creating a lush environment where farmers cultivate corn, beans, potatoes, and various sub-tropical vegetables in the rich volcanic soil. The rim of the crater offers a dramatic contrast between the high-altitude pine forests and the steep descent into the tropical Paúl Valley. It serves as the starting point for the archipelago's most famous hiking trail, which winds down nearly 1,000 vertical meters through spectacular terraced landscapes. The Cova is a testament to the geological history of the island and the incredible ingenuity of Cape Verdean mountain agriculture.",
+      "factsAdvanced": [
+        "Extinct volcanic crater at 1,170 meters above sea level.",
+        "Measures approximately 1,000 meters in diameter.",
+        "The flat crater floor is used for intensive agriculture.",
+        "Starting point for the famous Paúl Valley hiking trail.",
+        "Surrounded by high-altitude pine and cypress forests.",
+        "Characterized by a persistent misty microclimate.",
+        "Part of the Cova-Ribeira da Torre-Paúl Natural Park.",
+        "Ancient geological formation from the island's volcanic origin."
+      ]
+    },
+    {
+      "id": "bordeira-do-fogo-relief-v2",
+      "descriptionAdvanced": "The Bordeira is the massive semicircular escarpment that defines the western and northern boundaries of the Chã das Caldeiras on Fogo Island. This towering wall of rock rises up to 1,000 meters above the caldera floor, representing the remains of a prehistoric volcanic collapse that occurred approximately 73,000 years ago. The cliffs of the Bordeira reach a maximum elevation of 2,692 meters at Topo de Bordeira, providing a dramatic vertical backdrop to the active Pico do Fogo volcano. The geological formation is essential for understanding the massive landslides that once triggered mega-tsunamis in the Atlantic. For hikers, the rim of the Bordeira offers unparalleled views of the inner volcanic plain and the lava flows from recent eruptions in 1995 and 2014. The area is also a vital nesting site for rare seabirds like the Fea's Petrel, which find refuge in the inaccessible cracks of the basaltic walls.",
+      "factsAdvanced": [
+        "A semicircular escarpment rising 1,000 meters high.",
+        "Formed by a massive volcanic collapse 73,000 years ago.",
+        "Highest point reaches 2,692 meters at Topo de Bordeira.",
+        "Defines the edge of the Chã das Caldeiras volcanic plain.",
+        "Key site for studying Atlantic mega-tsunami history.",
+        "Provides critical nesting habitat for the Fea's Petrel.",
+        "Offers the best panoramic views of the Pico do Fogo cone.",
+        "Stretches for several kilometers around the caldera's rim."
+      ]
+    },
+    {
+      "id": "monte-trigo-relief-v2",
+      "descriptionAdvanced": "Monte Trigo is an imposing volcanic peak located on the westernmost tip of Santo Antão, rising directly from the Atlantic Ocean to an altitude of over 1,000 meters. The mountain is characterized by its extremely steep and rugged terrain, which has historically isolated the small fishing village of the same name at its base. The slopes are largely barren and dominated by dark volcanic basalt, reflecting the arid climate of the island's western side. Access to this remote region is only possible by boat from Tarrafal de Monte Trigo or through a challenging multi-day trek over the mountain ridges. The relief here is among the most dramatic in Cape Verde, with vertical cliffs plunging into deep, fish-rich waters. Monte Trigo serves as a natural barrier against the prevailing winds and remains one of the most authentic and untouched corners of the archipelago, where the raw power of volcanic geology meets the vastness of the ocean.",
+      "factsAdvanced": [
+        "Located on the westernmost point of Santo Antão Island.",
+        "Dominates the landscape of the isolated village of Monte Trigo.",
+        "Elevation reaches over 1,000 meters above sea level.",
+        "Accessible only by boat or difficult mountain trails.",
+        "Composed of ancient basaltic volcanic formations.",
+        "Surrounded by some of the deepest coastal waters in the region.",
+        "Extreme arid climate with very little vegetation.",
+        "A landmark for maritime navigation in the western Barlavento."
+      ]
+    },
+    {
+      "id": "monte-grande-sal-relief-v2",
+      "descriptionAdvanced": "Monte Grande is the highest elevation on Sal Island, reaching a modest but significant 406 meters above sea level. Standing in the northern part of the island, this ancient volcanic cone provides a stark vertical contrast to the otherwise exceptionally flat and desert-like landscape of Sal. The mountain is an essential orientation point for both locals and travelers navigating the northern plains. From its summit, visitors can enjoy a panoramic view of the Salinas of Pedra de Lume, the port of Palmeira, and the vast sandy expanses of the island's interior. The relief is rocky and dry, featuring sparse vegetation adapted to the near-total lack of rainfall. Geologically, Monte Grande is a relic of the island's early volcanic phase, dating back millions of years. It remains a popular destination for light trekking, especially for those wanting to witness the sunrise over the Atlantic from the highest vantage point on the 'Island of Salt'.",
+      "factsAdvanced": [
+        "Highest point on Sal Island at 406 meters.",
+        "Located in the northern volcanic complex of the island.",
+        "Provides 360-degree views of the Pedra de Lume crater.",
+        "Visible from most parts of the island due to the flat terrain.",
+        "Geological relic of the island's primary volcanic formation.",
+        "Important site for observing endemic arid-zone flora.",
+        "A key landmark for local pilots and maritime traffic.",
+        "Accessible via a rocky trail from the Terra Boa plain."
+      ]
+    },
+    {
+      "id": "monte-penoso-relief-v2",
+      "descriptionAdvanced": "Monte Penoso is the highest peak on Maio Island, standing at an altitude of 436 meters. This volcanic mountain rises from the eastern part of the island, breaking the monotony of the surrounding flat plains and salt marshes. The relief is characterized by its rugged basaltic slopes and its role as a local 'cloud catcher,' which allows for a slightly greener environment on its higher elevations compared to the rest of the arid island. From the summit of Monte Penoso, one can see the entire coastline of Maio and, on exceptionally clear days, the distant mountains of Santiago Island across the channel. The area around the peak is a protected landscape, preserving rare plant species and providing a habitat for local birdlife. Historically, the mountain has been a vital landmark for navigation in the southern Barlavento group. It offers an excellent destination for eco-tourists looking for a peaceful trek in one of Cape Verde's least explored and most authentic islands.",
+      "factsAdvanced": [
+        "Highest peak on Maio Island at 436 meters.",
+        "Located in the eastern protected landscape of Maio.",
+        "Provides views of the Calheta and Barreiro salt flats.",
+        "Highest point for cloud condensation on the island.",
+        "Composed of ancient volcanic basalt and phonolite.",
+        "Important refuge for the island's endemic flora.",
+        "Visible from the shores of Santiago on clear days.",
+        "Accessible through trails starting from the village of Ribeira Dom João."
+      ]
+    },
+    {
+      "id": "monte-batalha-relief-v2",
+      "descriptionAdvanced": "Monte Batalha is a prominent volcanic peak located in the northern interior of Maio Island, reaching an elevation of approximately 294 meters. Although not the highest point on the island, its isolated position and distinctive conical shape make it a major landmark in the Terras Salgadas region. The relief is marked by steep, eroded slopes and dark volcanic rock, which stand out against the white sand dunes and dry plains that dominate northern Maio. The mountain plays a significant role in the island's history, as its name (meaning 'Battle Mountain') is linked to local legends of past conflicts. Today, it is part of a protected area that aims to conserve the fragile ecosystem of the interior. The summit offers a commanding view over the vast acacia forests and the northern coastline, making it a favorite spot for nature photographers and those interested in the unique desert-meets-ocean geography of Maio.",
+      "factsAdvanced": [
+        "Prominent volcanic landmark in northern Maio Island.",
+        "Stands at an elevation of 294 meters.",
+        "Located near the vast Terras Salgadas desert area.",
+        "Features a distinctive and symmetrical conical profile.",
+        "Part of the protected landscape of northern Maio.",
+        "Named after historical local legends of battles.",
+        "Offers panorame views of the island's largest acacia forest.",
+        "Home to resilient bird species adapted to arid conditions."
+      ]
+    },
+    {
+      "id": "monte-sobrado-relief-v2",
+      "descriptionAdvanced": "Monte Sobrado is a significant elevation located on the island of Maio, contributing to the rugged volcanic landscape of the island's interior. Reaching an altitude of around 313 meters, it is one of the few peaks that interrupt the predominantly flat topography of Maio. The relief consists of weathered basaltic formations and steep ridges that have been shaped by centuries of Atlantic winds. The area around Monte Sobrado is known for its sparse but resilient vegetation, including several species of endemic shrubs that thrive in the mineral-rich volcanic soil. From its vantage points, one can observe the contrast between the dark mountain rocks and the brilliant white salt pans near the coast. The peak serves as a natural barrier that influences local wind patterns and is a key site for understanding the geological evolution of Maio, which is one of the oldest islands in the Cape Verdean archipelago.",
+      "factsAdvanced": [
+        "Volcanic peak on Maio Island with an altitude of 313 meters.",
+        "Key geological formation in the central-eastern part of the island.",
+        "Composed of weathered basalt from ancient volcanic activity.",
+        "Provides a vantage point over the southern plains of Maio.",
+        "Surrounded by a landscape of arid shrubs and acacia.",
+        "Helps define the local microclimate through wind shielding.",
+        "Important for studying the tectonic history of the island.",
+        "A landmark for shepherds and traditional salt harvesters."
+      ]
+    },
+    {
+      "id": "monte-duarte-relief-v2",
+      "descriptionAdvanced": "Monte Duarte is one of the significant mountain formations on Maio Island, reaching an elevation that provides a rare vertical perspective on this low-lying island. Located in the central-eastern region, the peak is part of the volcanic backbone of Maio, consisting of ancient rocks that have withstood millions of years of erosion. The relief is characterized by sharp ridges and rocky outcrops that provide a habitat for various species of lizards and birds native to the archipelago. Monte Duarte is particularly important for its geological heritage, showcasing the phonolitic and basaltic layers typical of Cape Verde's early formation. The mountain's slopes are often used for traditional grazing, and the summit offers a peaceful retreat with views extending to the island's turquoise coastline. It remains an off-the-beaten-path destination, perfect for those who want to experience the raw and silent beauty of Maio's volcanic interior.",
+      "factsAdvanced": [
+        "Significant volcanic elevation in the interior of Maio Island.",
+        "Reaches an altitude of approximately 280 meters.",
+        "Formed from ancient phonolitic and basaltic volcanic rock.",
+        "Provides a critical habitat for endemic reptiles.",
+        "Offers panoramic views of the eastern deserted beaches.",
+        "Part of the island's original volcanic ridge system.",
+        "Traditional area for communal goat grazing.",
+        "Located far from the main tourist centers of Vila do Maio."
+      ]
+    },
+    {
+      "id": "morro-de-areia-relief-v2",
+      "descriptionAdvanced": "Morro de Areia is a spectacular coastal relief feature on the western shore of Boa Vista Island, famous for its massive migrating sand dunes that meet the Atlantic Ocean. The area is a protected nature reserve, covering a stretch of coastline where the Saharan sands, transported by trade winds, have accumulated over millennia to form a unique desert-like environment. The relief is dynamic, with the shape of the dunes constantly changing according to the wind's intensity. Beyond its aesthetic beauty, Morro de Areia is a site of immense ecological importance, serving as a primary nesting ground for Loggerhead sea turtles and a habitat for rare birds like the osprey. The turquoise waters at the base of the dunes are often frequented by sharks and rays, creating a diverse marine-terrestrial ecosystem. It is one of the most photographed locations in Cape Verde, representing the perfect harmony between the desert and the sea.",
+      "factsAdvanced": [
+        "Nature reserve featuring massive coastal sand dunes.",
+        "Located on the western coast of Boa Vista Island.",
+        "Formed by Saharan sand transported across the Atlantic.",
+        "Critical nesting site for the Loggerhead sea turtle.",
+        "Home to the endemic Cape Verde Wall Gecko.",
+        "Primary habitat for the Osprey (Guincho) in Boa Vista.",
+        "The dunes can reach heights of over 20 meters.",
+        "Major destination for eco-tourism and wildlife observation."
+      ]
+    },
+    {
+      "id": "monte-semedo-relief-v2",
+      "descriptionAdvanced": "Monte Semedo is a prominent volcanic peak located on the island of Maio, standing as one of the significant heights in the island's central-eastern region. Reaching an elevation of approximately 250 meters, this mountain is a relic of the intense volcanic activity that formed Maio millions of years ago. The relief is characterized by its dark, weathered basalt and steep, rocky slopes that contrast with the surrounding sandy plains. Monte Semedo is an important landmark for the local community and is often used by hikers to get a broader view of the island's unique landscape, which includes vast acacia forests and distant salt pans. The peak also plays a role in the island's hydrology, as its slopes help channel rare rainfall into the ribeiras below. It remains a tranquil and untouched site, showcasing the rugged and ancient volcanic soul of Maio.",
+      "factsAdvanced": [
+        "Volcanic peak on Maio Island reaching 250 meters.",
+        "Located in the central-eastern part of the island.",
+        "Composed of ancient basaltic rock formations.",
+        "Provides views of the island's interior acacia forests.",
+        "A key landmark for local navigation and trekking.",
+        "Part of the geological heritage of one of the oldest islands.",
+        "Features sparse vegetation adapted to extreme drought.",
+        "Important site for observing local birds of prey."
+      ]
+    },
+    {
+      "id": "monte-cintinha-relief-v2",
+      "descriptionAdvanced": "Monte Cintinha is a distinctive elevation located on the island of Boa Vista, rising from the flat eastern plains of the 'Island of Dunes.' This ancient volcanic formation serves as a rare vertical feature in an area dominated by sand and low shrubs. The relief is marked by its eroded basaltic structure and its strategic position overlooking the wild eastern coastline. From its summit, one can see the vast expanses of the Boa Esperança region and the remains of historical shipwrecks along the shore. Monte Cintinha is a vital site for local biodiversity, providing a nesting area for various bird species that seek the safety of its rocky heights. The mountain's geology offers insights into the early volcanic phases of Boa Vista, which have since been largely covered by Saharan sands. It is a quiet and atmospheric location, perfect for those exploring the remote and less-visited eastern side of the island.",
+      "factsAdvanced": [
+        "Volcanic peak in the eastern part of Boa Vista Island.",
+        "Reaches an elevation of approximately 160 meters.",
+        "Dominates the landscape of the eastern arid plains.",
+        "Provides views of the Boa Esperança coastline.",
+        "Important nesting site for local and migratory birds.",
+        "Geological relic of the island's early volcanic history.",
+        "Accessible via off-road trails through the desert.",
+        "A landmark for navigating the remote eastern shore."
+      ]
+    },
+    {
+      "id": "monte-biao-relief-v2",
+      "descriptionAdvanced": "Monte Bião is a notable volcanic elevation on the island of Maio, contributing to the rugged character of the island's northern interior. Standing at an altitude that makes it visible across the northern plains, the mountain is characterized by its dark volcanic rock and steep, weathered slopes. The relief here is a product of millions of years of exposure to the Atlantic elements, resulting in a landscape that is both harsh and beautiful. Monte Bião is part of a series of peaks that form the island's central ridge, acting as a natural divider between the eastern and western coasts. The vegetation on its slopes is sparse, consisting mainly of drought-resistant grasses and endemic shrubs. For visitors, the mountain offers a sense of total isolation and a chance to see the raw, unpolished side of Maio's volcanic geography, far from the settlements of the south.",
+      "factsAdvanced": [
+        "Volcanic elevation in the northern interior of Maio Island.",
+        "Reaches an altitude of approximately 210 meters.",
+        "Part of the central volcanic ridge of the island.",
+        "Features rugged basaltic slopes shaped by wind erosion.",
+        "Provides a vantage point over the Terras Salgadas region.",
+        "Home to resilient endemic flora of the arid zones.",
+        "A traditional landmark for inland navigation on Maio.",
+        "Located in a sparsely populated and wild area."
+      ]
+    },
+    {
+      "id": "monte-tortolho-relief-v2",
+      "descriptionAdvanced": "Monte Tortolho is an interesting geological formation on the island of Sal, located near the southern coast near the town of Santa Maria. Unlike the massive peaks of other islands, Monte Tortolho is a small but prominent hill that serves as one of the few natural elevations in the southernmost part of Sal. The relief is composed of ancient volcanic material that has been heavily eroded by the sea and wind. Its proximity to the main tourist area makes it a popular spot for short walks to watch the sunset over the Atlantic. From the top, visitors can see the entire expanse of Santa Maria Beach and the modern hotel zones, providing a clear visual contrast between the island's natural aridity and its recent tourist development. Monte Tortolho is also a significant site for local history, having served as a lookout point for maritime traffic approaching the salt-exporting port in the past.",
+      "factsAdvanced": [
+        "Small volcanic hill located near Santa Maria on Sal Island.",
+        "Stands as a rare elevation in the flat southern landscape.",
+        "Provides a popular viewpoint for Atlantic sunsets.",
+        "Offers a panoramic view of Santa Maria Beach and the pier.",
+        "Geologically composed of eroded basaltic rock.",
+        "Historically used as a lookout for incoming ships.",
+        "Easy to reach on foot or by bicycle from the town center.",
+        "A landmark separating the town from the wild western coast."
+      ]
+    },
+    {
+      "id": "monte-curral-relief-v2",
+      "descriptionAdvanced": "Monte Curral is a prominent and historically significant hill located in the heart of the city of Espargos, the capital of Sal Island. Standing at 109 meters, this volcanic formation is crowned by the island's primary air traffic control radar and telecommunications towers, making it an essential hub for Cape Verde's international aviation. The relief of Monte Curral is steep and rocky, dominating the urban landscape of Espargos. A road leads to the summit, where visitors can enjoy a 360-degree view of the entire island, including the Amílcar Cabral International Airport and the distant coastlines. The hill is a symbol of the island's development as a mid-Atlantic transit point. Geologically, it represents an ancient volcanic chimney that has resisted erosion better than the surrounding plains. For the residents of Espargos, Monte Curral is a familiar landmark that defines their city's skyline and connects them to the global skies.",
+      "factsAdvanced": [
+        "Central hill in Espargos, Sal Island, standing at 109 meters.",
+        "Home to the national air traffic control radar system.",
+        "Provides the best 360-degree panoramic view of Sal Island.",
+        "Named after the traditional 'curral' (corrals) once located there.",
+        "Strategic site for Cape Verde's telecommunications infrastructure.",
+        "Geologically an ancient volcanic plug or chimney.",
+        "Directly overlooks the Amílcar Cabral International Airport.",
+        "Accessible by a paved road leading to the summit towers."
+      ]
+    },
+    {
+      "id": "monte-arruda-relief-v2",
+      "descriptionAdvanced": "Monte Arruda is the highest point of the uninhabited island of Santa Luzia, reaching an altitude of 395 meters. This rugged volcanic peak dominates the landscape of this strictly protected nature reserve, offering a wild and primordial perspective on the archipelago. The relief is characterized by steep, barren slopes and sharp basaltic ridges that have been shaped by the relentless Atlantic winds and salt spray. From the summit of Monte Arruda, one can see the neighboring islands of São Vicente and São Nicolau, as well as the smaller islets of Raso and Branco. The area is a sanctuary for endemic reptiles, such as the Santa Luzia giant skink, and serves as a vital nesting ground for various seabirds. Due to its status as a total reserve, access to Monte Arruda is restricted to scientific researchers and authorized expeditions, preserving its fragile ecosystem in its most natural state.",
+      "factsAdvanced": [
+        "Highest point on Santa Luzia Island at 395 meters.",
+        "Located in the center of a strictly protected nature reserve.",
+        "Composed of ancient volcanic basalt and phonolite.",
+        "Critical habitat for the endemic Santa Luzia giant skink.",
+        "Offers views of the entire uninhabited Barlavento islets.",
+        "Access is restricted to authorized scientific research.",
+        "Important nesting site for the Fea's Petrel and other seabirds.",
+        "A remote and primordial landmark of the central archipelago."
+      ]
+    },
+    {
+      "id": "monte-joaquim-relief-v2",
+      "descriptionAdvanced": "Monte Joaquim is a notable elevation on Maio Island, situated in the northern interior within a landscape of striking volcanic beauty. Reaching an elevation that commands the surrounding territory, the mountain is part of the island's ancient geological framework. The relief consists of dark, weathered rock and steep slopes that have been carved by infrequent but intense rainfall. Monte Joaquim serves as a vital orientation point in a region of Maio that is largely uninhabited and dominated by arid shrubs and acacia forests. From its summit, the view stretches across the vast northern plains to the turquoise waters of the Atlantic. The area is important for the conservation of local biodiversity, hosting several species of birds and reptiles that are unique to the Cape Verdean islands. It remains a place of profound silence and raw natural power, embodying the volcanic essence of Maio.",
+      "factsAdvanced": [
+        "Prominent volcanic elevation in northern Maio Island.",
+        "Reaches an altitude of approximately 220 meters.",
+        "A major landmark in the sparsely populated northern interior.",
+        "Composed of ancient, weather-resistant volcanic basalt.",
+        "Provides a vantage point over the northern acacia woodlands.",
+        "Key site for studying Maio's early geological formation.",
+        "Surrounded by a protected landscape of high ecological value.",
+        "Traditional landmark for local goatherds and hikers."
+      ]
+    },
+    {
+      "id": "serra-da-garca-relief-v2",
+      "descriptionAdvanced": "Serra da Garça is a dramatic mountain range located in the northern part of Santo Antão Island, famous for its sharp ridges and deep, vertical valleys that plunge toward the Atlantic coast. This relief is one of the most rugged in Cape Verde, with jagged peaks and sheer cliffs that create a landscape of breathtaking intensity. The range is often enveloped in mountain mists, supporting a greener environment than the island's southern slopes. The Serra da Garça is traversed by some of the most spectacular and challenging stone-paved trails in the world, which connect isolated mountain hamlets to the coastal villages. The geography here has forced local farmers to develop extreme terraced agriculture on slopes that seem almost vertical. It is a region of immense natural beauty and cultural significance, where the daily life of the inhabitants is a constant dialogue with the towering mountains and the crashing waves of the northern shore.",
+      "factsAdvanced": [
+        "Dramatic mountain range in northern Santo Antão Island.",
+        "Features vertical cliffs and sharp basaltic ridges.",
+        "Traversed by historic stone-paved mountain trails.",
+        "Home to extreme terraced agriculture on steep slopes.",
+        "Provides a natural barrier for northern trade winds.",
+        "Key site for observing the endemic flora of Santo Antão.",
+        "Offers views of the famous Cruzinha and Ponta do Sol coast.",
+        "A primary destination for high-difficulty mountain trekking."
+      ]
+    }
+  ]
+}

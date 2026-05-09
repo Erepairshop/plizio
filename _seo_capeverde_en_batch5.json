@@ -1,0 +1,360 @@
+{
+  "lang": "en",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeLifeV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "corn-farming-santiago-life-v2",
+      "descriptionAdvanced": "Corn (milho) is the most fundamental staple crop of Cape Verde, and its cultivation on the steep volcanic slopes of Santiago Island is a testament to the resilience of the local farmers. Planted at the onset of the seasonal rains, corn is grown using traditional dry-farming techniques that have changed little over centuries. The success of the harvest is the primary concern for rural communities, as corn is the main ingredient in 'cachupa,' the national dish. The landscape of the island's interior is transformed into a vibrant green during the growing season, with terraced fields covering the ridges. The harvest is a communal activity that brings families together, celebrating the connection between the people, the rain, and the land.",
+      "factsAdvanced": [
+        "Primary staple crop and main ingredient of the national dish, cachupa.",
+        "Grown on steep volcanic terraces using traditional dry-farming.",
+        "Cultivation is strictly tied to the seasonal Atlantic rains.",
+        "The most widespread agricultural activity on Santiago Island.",
+        "Symbol of food security and rural resilience in Cape Verde.",
+        "Harvesting is a major communal and cultural event in the interior.",
+        "Fields transform the island's landscape into vibrant green after rain.",
+        "Practiced by thousands of small-scale subsistence farmers."
+      ]
+    },
+    {
+      "id": "artisanal-fishing-calheta-life-v2",
+      "descriptionAdvanced": "Artisanal fishing in Calheta, on the island of Maio, represents one of the most authentic and enduring ways of life in the archipelago. Every morning, colorful wooden boats (botes) set out into the Atlantic, using traditional lines and nets to catch tuna, grouper, and mackerel. This activity is the backbone of the local economy and a vital part of the island's cultural identity. The arrival of the boats in the afternoon is a major social event, as the catch is sold directly on the beach to local residents and restaurants. The fishermen's deep knowledge of the sea and the currents has been passed down through generations, making Calheta a primary center for maritime heritage and sustainable fishing practices in Cape Verde.",
+      "factsAdvanced": [
+        "Backbone of the local economy and culture in Calheta, Maio.",
+        "Uses traditional wooden boats and sustainable line-fishing methods.",
+        "Primary catch includes Atlantic tuna, mackerel, and grouper.",
+        "The daily arrival of the fishing fleet is a central social event.",
+        "Passes down centuries of maritime knowledge through generations.",
+        "Essential supplier of fresh seafood for the entire island.",
+        "Maintains a strong and resilient close-knit community spirit.",
+        "Reflects the archipelago's profound connection to the ocean."
+      ]
+    },
+    {
+      "id": "pottery-workshop-rabil-life-v2",
+      "descriptionAdvanced": "The pottery workshop in Rabil is the guardian of Boa Vista Island's most famous artisanal tradition. Using local red clay, artisans employ ancient techniques—inherited from both African and European traditions—to create terracotta wares such as decorative turtles, water jugs, and traditional kitchen utensils. The process involves hand-modeling and outdoor firing, resulting in unique pieces that are highly valued by both locals and tourists. The workshop is not just a place of production but a living museum where the history of the island is preserved through clay. It provides a vital source of income for the local community and ensures that this delicate and beautiful craft remains a vibrant part of Cape Verde's cultural landscape.",
+      "factsAdvanced": [
+        "Guardian of Boa Vista's ancient terracotta pottery tradition.",
+        "Uses locally sourced red clay and traditional hand-modeling.",
+        "Famous for decorative items like the iconic terracotta turtles.",
+        "Combines African and Mediterranean artisanal influences.",
+        "Located in the historic town of Rabil, the island's former capital.",
+        "Vital center for handicrafts and cultural tourism in the region.",
+        "Provides sustainable livelihoods for local master potters.",
+        "A living example of the island's unique creative heritage."
+      ]
+    },
+    {
+      "id": "weaving-center-santo-antao-life-v2",
+      "descriptionAdvanced": "The weaving centers of Santo Antao, particularly in the northern valleys, are centers for the production of the 'pano de terra,' the traditional Cape Verdean hand-woven cloth. Using narrow horizontal looms, weavers create intricate geometric patterns that have historical roots in the West African textile traditions. These cloths were once so valuable that they were used as a form of currency during the colonial era. Today, the pano de terra is a symbol of national identity and is used in traditional ceremonies and as a high-quality artisanal product. The weaving centers are essential for preserving this complex skill, providing training for younger generations and ensuring that the rhythmic sound of the loom continues to echo in the island's mountain villages.",
+      "factsAdvanced": [
+        "Centers for the traditional 'pano de terra' hand-woven textiles.",
+        "Uses narrow horizontal looms characteristic of West African heritage.",
+        "Produces intricate geometric patterns with deep cultural meaning.",
+        "Historically used as a form of currency during the colonial period.",
+        "A major symbol of Cape Verdean national identity and pride.",
+        "Located primarily in the rural communities of Santo Antao.",
+        "Vital for the preservation of ancient artisanal knowledge.",
+        "Produces high-quality fabrics used in fashion and ceremonies."
+      ]
+    },
+    {
+      "id": "traditional-salt-pans-maio-life-v2",
+      "descriptionAdvanced": "The traditional salt pans (salinas) of Maio Island, particularly those near Porto Ingles, are a testament to the industry that gave the island its historical importance. For centuries, seawater has been channeled into these shallow basins, where the intense Atlantic sun and constant winds facilitate evaporation, leaving behind high-quality sea salt. Although large-scale commercial export has declined, the salinas remain a vital part of local life and a stunning feature of the landscape. Local residents still harvest the salt by hand for domestic use and artisanal preservation of fish. The area is also an important ecological site, attracting migratory birds and providing a unique habitat that reflects the island's arid but productive nature.",
+      "factsAdvanced": [
+        "Historic centers of salt production that gave the island its name.",
+        "Uses natural solar evaporation and traditional hand-harvesting.",
+        "Among the largest and most significant salt pans in the country.",
+        "Vital for the traditional preservation of fish and local cuisine.",
+        "Important habitat for migratory birds and saline-loving species.",
+        "A major feature of the landscape near the capital, Porto Ingles.",
+        "Reflects the island's historical economic ties to the Atlantic trade.",
+        "A site of great cultural, historical, and ecological value."
+      ]
+    },
+    {
+      "id": "goat-cheese-making-boa-vista-life-v2",
+      "descriptionAdvanced": "Goat cheese production is a cornerstone of the rural economy on Boa Vista Island, particularly in the eastern 'Norte' region. The process is entirely artisanal, with goats grazing on the arid, aromatic shrubs of the island, which gives the milk a distinctive and rich flavor. The cheese, known as 'Queijo de Terra,' is made daily by local families using traditional curdling techniques and wooden molds. It is prized throughout Cape Verde for its unique taste and firm texture. Cheese making is not only a livelihood but a way of life that sustains the remote communities of the island, representing a successful adaptation to the dry environment. The cheese is a staple of the local diet and a must-try for visitors seeking authentic island flavors.",
+      "factsAdvanced": [
+        "Cornerstone of the artisanal rural economy on Boa Vista Island.",
+        "Produced from the milk of goats grazing on wild aromatic shrubs.",
+        "Made using traditional, manual techniques passed down for centuries.",
+        "Famous for its unique, rich flavor and firm texture.",
+        "Primary economic activity for the communities in the 'Norte' region.",
+        "A staple of the Cape Verdean breakfast and local cuisine.",
+        "Sold in markets across the island and exported to the capital.",
+        "A symbol of the island's agricultural resilience and tradition."
+      ]
+    },
+    {
+      "id": "sugar-cane-harvest-paul-life-v2",
+      "descriptionAdvanced": "The sugarcane harvest in the Paul Valley of Santo Antao is one of the most important events in the island's agricultural calendar. From January to June, the lush green valley is filled with activity as farmers harvest the towering cane by hand using machetes. The cane is then transported to local 'trapiches' (mills) to be crushed. This process is the foundation for the production of grogue, the national sugarcane spirit, and 'mel de cana' (sugarcane honey). The harvest is a time of hard labor but also of social gathering, as neighbors help each other in the fields. The sights and sounds of the harvest, including the aroma of boiling cane juice, are an integral part of the sensory experience in Cape Verde's most fertile valley.",
+      "factsAdvanced": [
+        "Major agricultural event in the lush Paul Valley (Jan-June).",
+        "Sugarcane is harvested entirely by hand using traditional methods.",
+        "Primary source for the production of grogue and sugarcane honey.",
+        "Supports the livelihoods of hundreds of farming families.",
+        "The harvest is a major communal and social event on the island.",
+        "Uses traditional 'trapiches' for juice extraction.",
+        "Defines the cultural and economic landscape of northern Santo Antao.",
+        "Fundamental to the island's culinary and artisanal heritage."
+      ]
+    },
+    {
+      "id": "batuko-performance-rincao-life-v2",
+      "descriptionAdvanced": "Batuko is one of the oldest and most profound musical and dance genres of Cape Verde, with its strongest roots in the rural communities of Santiago Island, such as Porto Rincao. Traditionally performed by a group of women known as 'batukadeiras,' it features a powerful polyrhythmic beat created by beating cloth cushions (cabacal) held between the legs. The performance is accompanied by call-and-response singing and a solo dance (txabeta) characterized by rapid hip movements. Batuko was historically a form of social commentary and resistance for enslaved women. Today, it remains a vital expression of Cape Verdean female identity and cultural resilience, serving as a powerful communal ritual that connects the people to their African heritage.",
+      "factsAdvanced": [
+        "Oldest musical and dance genre of Cape Verde, with African roots.",
+        "Performed by groups of women using cloth cushions as percussion.",
+        "Features complex polyrhythms and call-and-response singing.",
+        "Deeply rooted in the rural community of Porto Rincao, Santiago.",
+        "Historically a medium for social commentary and resistance.",
+        "A central expression of female identity and cultural pride.",
+        "The dance (txabeta) is known for its energetic and rhythmic style.",
+        "A vital living tradition that connects Cape Verde to its past."
+      ]
+    },
+    {
+      "id": "morna-nights-mindelo-life-v2",
+      "descriptionAdvanced": "Morna is the soulful and poetic musical heart of Cape Verde, and its spiritual home is the city of Mindelo on Sao Vicente Island. Characterized by its melancholic melodies and themes of longing (sodade), love, and the sea, Morna is typically performed with acoustic instruments like the guitar, cavaquinho, and violin. The legendary Cesaria Evora brought this genre to the world stage, but its most authentic expression is still found in the small bars and restaurants of Mindelo. A 'Morna night' is a profound cultural experience where the music creates an atmosphere of intimacy and shared emotion. In 2019, Morna was recognized by UNESCO as an Intangible Cultural Heritage of Humanity, cementing its status as a global treasure.",
+      "factsAdvanced": [
+        "Melancholic and poetic musical genre, the soul of Cape Verde.",
+        "Recognized as UNESCO Intangible Cultural Heritage of Humanity (2019).",
+        "Spiritual home is Mindelo, the city of Cesaria Evora.",
+        "Themes center on 'sodade' (longing), the sea, and exile.",
+        "Performed with acoustic string instruments like the guitar and violin.",
+        "A central element of the Cape Verdean national identity.",
+        "Best experienced in the intimate bars and cafes of Mindelo.",
+        "Connects the archipelago to a global audience through its emotion."
+      ]
+    },
+    {
+      "id": "tabanka-celebrations-assomada-life-v2",
+      "descriptionAdvanced": "Tabanka is a vibrant and theatrical socio-cultural celebration found on Santiago Island, with its administrative and ceremonial heart in Assomada. Rooted in the history of mutual aid societies among enslaved people, Tabanka features a symbolic 'court' with kings, queens, and soldiers, and is accompanied by the rhythmic sound of conch shells (buzios) and drums. The celebrations occur during the feasts of various saints, particularly in May and June, and involve colorful processions, traditional dances, and communal meals. Tabanka is a powerful symbol of social cohesion and cultural resistance, representing the survival of African communal structures in the colonial environment. It is a unique and energetic spectacle that highlights the island's profound cultural depth.",
+      "factsAdvanced": [
+        "Theatrical and rhythmic socio-cultural celebration of Santiago.",
+        "Administrative heart of the tradition is located in Assomada.",
+        "Features symbolic royal courts and communal mutual aid structures.",
+        "Driven by the sound of conch shells (buzios) and drums.",
+        "Celebrated primarily during the months of May and June.",
+        "A symbol of cultural resistance and social solidarity.",
+        "Processions are characterized by vibrant colors and high energy.",
+        "Home to the Tabanka Museum, dedicated to preserving this heritage."
+      ]
+    },
+    {
+      "id": "funana-dance-santiago-life-v2",
+      "descriptionAdvanced": "Funana is a fast-paced, high-energy music and dance style that originated in the rural interior of Santiago Island. Traditionally played with the 'gaita' (accordion) and the 'ferrinho' (a metal rod scraped with a knife), its infectious rhythm was once banned by colonial authorities for being too provocative and rebellious. Funana is a celebration of the rural life and the struggles of the peasantry, and its dance is characterized by rapid footwork and close physical contact. Today, it is one of the most popular genres in Cape Verde, played at every festival and wedding. It remains a powerful symbol of the island's vibrant and defiant spirit, a music that was born in the fields and conquered the world with its irresistible energy.",
+      "factsAdvanced": [
+        "Fast-paced, accordion-based music and dance of Santiago Island.",
+        "Uses the 'gaita' (accordion) and the 'ferrinho' (metal percussion).",
+        "Was historically banned by colonial rulers for its rebellious nature.",
+        "A central element of the island's popular culture and festivals.",
+        "Known for its high-speed rhythm and energetic dance style.",
+        "Symbolizes the rural life and spirit of the Santiago peasantry.",
+        "Transformed into a modern genre by bands like Bulimundo.",
+        "One of the most recognizable and exported Cape Verdean rhythms."
+      ]
+    },
+    {
+      "id": "serra-malagueta-natural-park-nature-v2",
+      "descriptionAdvanced": "The Serra Malagueta Natural Park is one of Cape Verde's most significant protected areas, located in the northern highlands of Santiago Island. Covering over 700 hectares, the park protects a rugged mountain landscape that reaches elevations of 1,064 meters. It is a vital sanctuary for the island's biodiversity, housing over 20 endemic plant species and providing a habitat for rare birds like the Cape Verde warbler. The park is characterized by its dramatic ridges, deep valleys, and often mist-shrouded peaks, which support a humid microclimate that is rare on the island. For visitors, it offers an extensive network of hiking trails with spectacular panoramic views, making it the premier destination for eco-tourism and mountain exploration in Santiago.",
+      "factsAdvanced": [
+        "Major natural park in northern Santiago, established in 2003.",
+        "Highest point reaches an elevation of 1,064 meters.",
+        "Home to over 20 endemic plant species unique to Cape Verde.",
+        "Vital habitat for the rare and endemic Cape Verde warbler.",
+        "Features dramatic volcanic ridges and lush, mist-filled valleys.",
+        "Primary destination for hiking and eco-tourism on the island.",
+        "Provides critical ecosystem services, including water catchment.",
+        "Offers expansive views over the Atlantic and northern islands."
+      ]
+    },
+    {
+      "id": "cova-crater-nature-v2",
+      "descriptionAdvanced": "The Cova Crater (Cova de Paúl) is one of the most breathtaking natural wonders of Santo Antão Island. This massive, extinct volcanic caldera is perched at an elevation of about 1,170 meters and is often filled with a mystical sea of clouds. The interior of the crater is a fertile oasis, where local farmers have created a patchwork of colorful fields to grow corn, beans, and vegetables in the rich volcanic soil. The rim of the crater offers a dramatic viewpoint, where the lush, green interior contrasts sharply with the rugged peaks of the central range. It is the starting point for one of the most famous hikes in Cape Verde, a spectacular descent into the tropical Paul Valley that showcases the island's incredible topographic diversity.",
+      "factsAdvanced": [
+        "Massive extinct volcanic crater at 1,170 meters elevation.",
+        "The interior is a fertile agricultural basin used by local farmers.",
+        "Often shrouded in mist, creating a unique microclimate.",
+        "Starting point for the iconic hike down into the Paul Valley.",
+        "Features a distinctive patchwork of high-altitude crop fields.",
+        "Offers some of the most spectacular panoramic views in the country.",
+        "Located in the central highlands of Santo Antão Island.",
+        "A key site for experiencing the island's volcanic geology."
+      ]
+    },
+    {
+      "id": "monte-gordo-natural-park-nature-v2",
+      "descriptionAdvanced": "Monte Gordo Natural Park protects the highest point of São Nicolau Island and its surrounding forest and mountain ecosystems. Reaching an elevation of 1,312 meters, Monte Gordo is often enveloped in clouds, creating a humid 'cloud forest' environment that is home to a high concentration of endemic flora and fauna. The park is famous for its ancient dragon trees (Dracaena draco), which are a symbol of the Macaronesian islands. The park's well-maintained trails lead through diverse landscapes, from arid slopes to lush pine and eucalyptus forests, providing sanctuary for the rare Cape Verde kite and various endemic reptiles. It is a vital ecological lung for the island and a world-class destination for botanists, birdwatchers, and mountain hikers.",
+      "factsAdvanced": [
+        "Protects the highest peak of São Nicolau at 1,312 meters.",
+        "Features a rare and biodiverse cloud forest environment.",
+        "Home to a significant population of ancient dragon trees.",
+        "Vital sanctuary for the endemic Cape Verde kite and reptiles.",
+        "Offers a wide variety of microclimates and vegetation zones.",
+        "Primary hub for eco-tourism and hiking on the island.",
+        "Essential for the island's water cycle and soil protection.",
+        "Recognized for its high concentration of endemic plant species."
+      ]
+    },
+    {
+      "id": "fogo-natural-park-nature-v2",
+      "descriptionAdvanced": "The Fogo Natural Park is a dramatic and awe-inspiring protected area that encompasses the entire volcanic crater (Chã das Caldeiras) and the majestic Pico do Fogo volcano. This is a landscape of extreme beauty and power, where black lava flows, volcanic ash, and sulfur vents create a lunar-like environment. The park protects unique high-altitude species that have adapted to the volcanic conditions, as well as the cultural heritage of the resilient community living within the crater. It is the site of the highest point in Cape Verde, rising to 2,829 meters. For travelers, the park offers the ultimate trekking experience, with the climb to the summit providing unforgettable views over the caldera and the Atlantic Ocean. It is a place where the raw forces of nature are visible and tangible.",
+      "factsAdvanced": [
+        "Encompasses the active volcano and the Chã das Caldeiras crater.",
+        "Home to the highest peak in Cape Verde, reaching 2,829 meters.",
+        "Characterized by recent lava flows and unique volcanic geology.",
+        "Protects rare high-altitude endemic flora and fauna.",
+        "A world-class destination for volcano trekking and geology.",
+        "The crater (caldeira) is approximately 9 kilometers wide.",
+        "A site of immense scientific interest and natural beauty.",
+        "Represents the raw volcanic origin of the Cape Verde archipelago."
+      ]
+    },
+    {
+      "id": "santa-luzia-reserve-nature-v2",
+      "descriptionAdvanced": "The Santa Luzia Integral Nature Reserve encompasses the only uninhabited island in the Cape Verde archipelago and its surrounding islets, Branco and Raso. This remote and wild sanctuary is a vital haven for biodiversity, particularly for seabirds and marine life. The island is the sole home of the critically endangered Raso lark and serves as a major nesting site for Loggerhead sea turtles and various species of shearwaters and petrels. The waters surrounding the reserve are teeming with coral reefs and a vast array of fish, protected from the pressures of permanent human settlement. Access to the reserve is strictly regulated to ensure the preservation of its fragile ecosystems, making it one of the most pristine and scientifically important natural sites in the Atlantic.",
+      "factsAdvanced": [
+        "The only uninhabited island and strictly protected reserve in the country.",
+        "Sole habitat of the critically endangered Raso lark.",
+        "Vital nesting site for sea turtles and various endemic seabirds.",
+        "Surrounded by some of the most pristine coral reefs in the region.",
+        "Comprises the island of Santa Luzia and the islets of Branco and Raso.",
+        "Essential for the study of island evolution and conservation biology.",
+        "Access is highly restricted and requires special authorization.",
+        "A major sanctuary for the 'Blue Economy' and marine biodiversity."
+      ]
+    },
+    {
+      "id": "viana-desert-nature-v2",
+      "descriptionAdvanced": "The Viana Desert is a stunning natural phenomenon located on the island of Boa Vista. This 'mini-Sahara' is formed by sand blown across the Atlantic from the African continent, which is then trapped by the island's volcanic hills. The result is a landscape of pristine, shifting white dunes that can reach heights of over 10 meters, interspersed with hardy acacia trees and volcanic rocks. The desert offers a sense of profound silence and immense space, especially at sunset when the dunes take on golden hues. It is a unique ecosystem that demonstrates the climatic connection between Cape Verde and the Sahara. For visitors, it is a primary destination for off-road excursions and for those seeking the surreal beauty of a desert landscape surrounded by the blue of the Atlantic.",
+      "factsAdvanced": [
+        "A 'mini-Sahara' formed by wind-blown sands from mainland Africa.",
+        "Features shifting white sand dunes up to 10 meters high.",
+        "Located in the northwestern interior of Boa Vista Island.",
+        "Interspersed with volcanic rocks and hardy acacia trees.",
+        "A major landmark for desert safaris and off-road exploration.",
+        "The desert is approximately 1 kilometer wide and 5 kilometers long.",
+        "Shows the powerful geological influence of the Saharan winds.",
+        "A unique landscape that contrasts with the island's volcanic origin."
+      ]
+    },
+    {
+      "id": "buracona-blue-eye-nature-v2",
+      "descriptionAdvanced": "Buracona is a spectacular natural site on the northwestern coast of Sal Island, famous for its volcanic rock pools and the 'Olho Azul' (Blue Eye). The Blue Eye is a deep underwater cave where, around midday, the sunlight hits the water at the perfect angle to create a brilliant, glowing turquoise-blue effect that resembles a human eye. The area is characterized by dramatic black volcanic cliffs and natural pools carved out of the rock by the powerful Atlantic waves, where visitors can swim in crystal-clear water. Buracona is a powerful demonstration of the island's volcanic origins and the erosive force of the sea, making it one of the most visited and photographed natural wonders in Cape Verde.",
+      "factsAdvanced": [
+        "Famous for the 'Olho Azul' (Blue Eye) underwater light phenomenon.",
+        "Features natural swimming pools carved into volcanic rock.",
+        "Located on the rugged northwestern coast of Sal Island.",
+        "The 'Blue Eye' effect is best seen between 11:00 and 13:00.",
+        "Surrounded by dramatic black basalt cliffs and crashing waves.",
+        "A primary destination for nature tours on Sal Island.",
+        "Demonstrates the powerful coastal erosion and volcanic geology.",
+        "One of the most iconic and photographed natural sites in the country."
+      ]
+    },
+    {
+      "id": "salinas-de-pedra-de-lume-nature-v2",
+      "descriptionAdvanced": "The Salinas de Pedra de Lume are a unique geological and historical site located inside the crater of an extinct volcano on Sal Island. The crater floor is below sea level, allowing seawater to seep through the porous volcanic rock and evaporate, forming a brilliant white salt lake. For over a century, this was a major industrial center for salt production, and the ruins of the wooden cable car used to transport the salt to the port are still visible. Today, the salinas are a popular destination for visitors who can float in the high-salinity water, which is even saltier than the Dead Sea. The contrast between the white salt, the turquoise water, and the red volcanic walls of the crater makes it a place of surreal beauty and historical intrigue.",
+      "factsAdvanced": [
+        "Located inside the crater of an extinct volcano at sea level.",
+        "Seawater seeps into the crater to form a high-salinity lake.",
+        "Water is 26 times saltier than the ocean, allowing people to float.",
+        "Historic center for salt production since the 18th century.",
+        "Features the ruins of a historic 1,100-meter wooden cable car.",
+        "Recognized as a site of national cultural and natural heritage.",
+        "The landscape is characterized by white salt and red volcanic walls.",
+        "A top-tier destination for wellness and historical tourism on Sal."
+      ]
+    },
+    {
+      "id": "shark-bay-sal-nature-v2",
+      "descriptionAdvanced": "Shark Bay, located on the eastern coast of Sal Island, is a unique natural site where visitors can experience a close encounter with Lemon Sharks in their natural habitat. This shallow, rocky bay is a nursery ground for juvenile Lemon Sharks, which are harmless to humans and can often be seen swimming just a few meters from the shore. The bay is characterized by its volcanic rocks and clear, shallow waters, which provide the perfect environment for these young sharks to grow before heading into the deep ocean. Guided walks allow visitors to wade into the water to observe the sharks up close while learning about the importance of shark conservation in the Atlantic. It is a rare and educational experience that highlights the rich marine biodiversity of Cape Verde.",
+      "factsAdvanced": [
+        "Natural nursery ground for juvenile Lemon Sharks.",
+        "Located in a shallow, rocky bay on the east coast of Sal.",
+        "Visitors can wade into the water to see sharks up close.",
+        "Lemon Sharks here are harmless and primarily feed on small fish.",
+        "A major site for marine education and wildlife conservation.",
+        "Best visited during low tide for the clearest observations.",
+        "Highlights the ecological importance of Cape Verde's coastal waters.",
+        "A top destination for wildlife enthusiasts and families."
+      ]
+    },
+    {
+      "id": "terra-boa-mirage-nature-v2",
+      "descriptionAdvanced": "Terra Boa is a vast, flat plain in the northern interior of Sal Island, known for its fertile soil and the famous 'Fata Morgana' mirage. In this arid, desert-like landscape, the heat rising from the ground creates a powerful optical illusion that resembles a shimmering lake or ocean on the horizon. This phenomenon is a highlight for many visitors exploring the island's interior. Terra Boa is also the island's primary agricultural area, where underground water sources allow for the cultivation of vegetables and fruits in a region that is otherwise a barren steppe. The contrast between the productive green fields and the vast, mirage-filled plains offers a unique perspective on the island's geography and the resilience of its local farmers.",
+      "factsAdvanced": [
+        "Famous for the 'Fata Morgana' mirage, resembling a desert lake.",
+        "Located in a vast, flat plain in the northern part of Sal Island.",
+        "The island's most fertile region for traditional agriculture.",
+        "Uses groundwater for the cultivation of melons and vegetables.",
+        "The mirage is most visible during the hottest part of the day.",
+        "A unique landscape that illustrates the island's desert microclimate.",
+        "Provides a stark contrast between green farms and arid steppes.",
+        "A key stop for off-road island tours and photography."
+      ]
+    },
+    {
+      "id": "monte-trigo-nature-v2",
+      "descriptionAdvanced": "Monte Trigo is a remote and stunning coastal village on the westernmost tip of Santo Antão, accessible only by a challenging trek or by boat from Porto Novo. The village is nestled at the base of the Topo de Coroa, the island's highest volcano, and overlooks a bay with black volcanic sand and crystal-clear water. Monte Trigo is a world pioneer in sustainable energy, as it was the first village in Cape Verde to be powered 100% by a solar-to-hydrogen energy system. This isolation has preserved a traditional fishing way of life and a profound sense of peace. The surrounding volcanic landscape is rugged and untouched, offering some of the most spectacular coastal scenery and authentic cultural experiences in the entire archipelago.",
+      "factsAdvanced": [
+        "Westernmost village of the island and the African continent.",
+        "Accessible only by boat or an arduous mountain trek.",
+        "First village in the country to be 100% powered by solar energy.",
+        "Located at the foot of the 1,979-meter Topo de Coroa volcano.",
+        "Features a pristine black sand beach and clear turquoise waters.",
+        "Preserves a highly authentic and traditional fishing community.",
+        "Surrounded by some of the most remote volcanic landscapes.",
+        "A leading example of sustainable island development."
+      ]
+    },
+    {
+      "id": "ribeira-da-torre-nature-v2",
+      "descriptionAdvanced": "Ribeira da Torre is one of the most spectacularly beautiful and fertile valleys on Santo Antão Island. This deep, narrow canyon is characterized by its towering basalt cliffs, lush tropical vegetation, and traditional terraced fields that seem to defy gravity. A perennial stream flows through the valley, supporting plantations of sugarcane, coffee, yams, and bananas. The valley is dominated by the 'Xôxô' rock, a massive volcanic plug that rises dramatically from the valley floor. For hikers, Ribeira da Torre offers a challenging but rewarding experience, with trails that wind through the heart of the island's agricultural tradition and offer breathtaking views of the rugged central mountains. It is a place where the power of erosion and the ingenuity of local farmers are on full display.",
+      "factsAdvanced": [
+        "One of the deepest and most fertile valleys in Cape Verde.",
+        "Dominated by the iconic 'Xôxô' volcanic needle-like rock.",
+        "Famous for its steep terraced fields and lush tropical crops.",
+        "Home to a perennial stream and numerous natural waterfalls.",
+        "A premier destination for challenging and scenic mountain hiking.",
+        "Primary center for the production of coffee and grogue.",
+        "Characterized by dramatic basalt cliffs and high-altitude mist.",
+        "A masterpiece of traditional engineering and natural beauty."
+      ]
+    },
+    {
+      "id": "paul-valley-nature-v2",
+      "descriptionAdvanced": "The Paul Valley (Vale de Paúl) is widely regarded as the greenest and most spectacular valley in all of Cape Verde. This deep volcanic amphitheatres on the northern coast of Santo Antão is a tropical paradise, characterized by its incredibly lush vegetation and high-altitude mists. Fed by numerous springs, the valley is a patchwork of terraced fields where sugarcane, coffee, breadfruit, and tropical fruits are grown in abundance. The descent from the Cova Crater into the Paul Valley is considered the most iconic hike in the archipelago, offering panoramic views that change from alpine volcanic ridges to humid tropical forests. The valley is home to a resilient and hospitable community whose lives are deeply connected to the fertile land and the seasonal rhythms of the mountain.",
+      "factsAdvanced": [
+        "Widely considered the greenest and most fertile valley in the country.",
+        "Famous for the iconic hike from the Cova Crater down to the sea.",
+        "Features a humid microclimate with abundant tropical vegetation.",
+        "Major center for the production of coffee and grogue.",
+        "Characterized by high-altitude mist and steep volcanic walls.",
+        "Home to a dense network of ancient cobblestone hiking trails.",
+        "A vital agricultural region for northern Santo Antão.",
+        "An essential destination for nature lovers and trekkers."
+      ]
+    },
+    {
+      "id": "ribeira-grande-valley-nature-v2",
+      "descriptionAdvanced": "The Ribeira Grande Valley is the largest and most historically significant drainage system on Santo Antão Island. This massive canyon carves through the central mountain range, reaching from the high peaks to the northern Atlantic coast. The valley is a hub of agricultural life, with wide floodplains and steep terraces used to grow sugarcane, citrus, and vegetables. Its scale is truly impressive, with vertical cliffs rising hundreds of meters on either side. The valley is the site of the island's earliest settlements and its first capital. For explorers, Ribeira Grande offers a gateway to some of the most remote and traditional mountain villages, and its dramatic topography provides a constant source of wonder as the landscape shifts from dry riverbeds to lush, garden-like oases.",
+      "factsAdvanced": [
+        "Largest and most important valley system on Santo Antão Island.",
+        "Historically the site of the island's first European settlements.",
+        "Major hub for citrus and sugarcane production in the north.",
+        "Features a massive canyon with vertical cliffs and wide floodplains.",
+        "A key artery for transport and commerce between the coast and interior.",
+        "Surrounded by peaks that reach over 1,500 meters in height.",
+        "Known for its dramatic geology and scale of agricultural engineering.",
+        "A central landmark for the history and geography of the island."
+      ]
+    }
+  ]
+}

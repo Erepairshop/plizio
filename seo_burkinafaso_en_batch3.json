@@ -1,0 +1,163 @@
+{
+  "lang": "en",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ruines-de-loropeni-history-v2",
+      "descriptionAdvanced": "The Ruins of Loropéni, located in the Gaoua region of southern Burkina Faso, are the country's first UNESCO World Heritage site and one of the most enigmatic archaeological treasures in West Africa. This massive stone-walled fortress, covering over 11,000 square meters, dates back at least 1,000 years and is part of a larger network of approximately 100 similar stone enclosures in the Lobi area. Historically, Loropéni was a vital node in the trans-Saharan gold trade, serving as a fortified collection and protection point for the precious metal extracted from the surrounding hills. The site's well-preserved perimeter walls, some reaching up to six meters in height, demonstrate advanced dry-stone construction techniques that were unique to this part of the continent. Scholars believe the ruins were occupied by diverse ethnic groups, including the Koulango and Lohron, before being abandoned in the 19th century. Today, Loropéni stands as a powerful testament to the complexity and wealth of pre-colonial African civilizations and their integration into global trade networks.",
+      "factsAdvanced": [
+        "First UNESCO World Heritage site in Burkina Faso (inscribed in 2009)",
+        "Massive dry-stone fortress dating back at least 1,000 years",
+        "Strategic center for the trans-Saharan gold trade in West Africa",
+        "Includes perimeter walls reaching up to six meters in height",
+        "Covering an area of approximately 11,130 square meters",
+        "Associated with the Koulango and Lohron ethnic groups",
+        "Part of a broader network of nearly 100 stone ruins in the region",
+        "Remained occupied until the early 19th century"
+      ]
+    },
+    {
+      "id": "bobo-dioulasso-grand-mosque-history-v2",
+      "descriptionAdvanced": "The Grand Mosque of Bobo-Dioulasso, built in the late 19th century (around 1880-1890), is one of the most iconic and magnificent examples of Sudano-Sahelian architecture in West Africa. Constructed entirely of mud-brick and timber, the mosque is famous for its striking silhouette, characterized by its towering minarets and protruding wooden stakes (toron) that serve both as decorative elements and as permanent scaffolding for regular maintenance. The structure was commissioned by Almamy Sidiki Sanou, the local religious leader, as a symbol of the growing Islamic influence in the region and a gesture of reconciliation between local ethnic groups. Its interior is a cool, serene forest of massive pillars and narrow corridors, designed to provide a spiritual refuge from the tropical heat. As the spiritual heart of Bobo-Dioulasso, the mosque continues to serve as an active place of worship and a central gathering point for the community. It stands as a resilient masterpiece of traditional engineering and a proud symbol of Burkinabé religious heritage.",
+      "factsAdvanced": [
+        "Masterpiece of Sudano-Sahelian mud-brick architecture",
+        "Constructed in the late 19th century, around 1880-1890",
+        "Features distinctive wooden 'toron' used as permanent scaffolding",
+        "Commissioned by the local religious leader Almamy Sidiki Sanou",
+        "The largest traditional mosque in Burkina Faso",
+        "Built entirely from local materials: earth, wood, and lime",
+        "Serves as an active religious and community center in Bobo-Dioulasso",
+        "Requires annual communal replastering to preserve its structure"
+      ]
+    },
+    {
+      "id": "cour-royale-tiebele-history-v2",
+      "descriptionAdvanced": "The Royal Court of Tiébélé, located in the Nahouri province near the border with Ghana, is the ancestral home of the Kassena people's traditional chief. This remarkable complex is world-famous for its unique 'sukhala' houses, which are intricately decorated with traditional hand-painted geometric patterns by the local women. These paintings, executed using natural pigments like graphite and clay, are not only decorative but also carry deep symbolic meanings related to history, fertility, and the spirit world. The court itself is a fortified ensemble of earth structures, including the chief's residence, sacred shrines, and communal granaries, all reflecting the sophisticated social hierarchy of the Kassena society. Historically, Tiébélé has been a bastion of traditional culture, successfully preserving its architectural and artistic heritage against modern pressures. The site is a living museum, where ancient rituals and social structures remain active, offering a rare glimpse into the enduring soul of the Gurunsi peoples. Its nomination for UNESCO World Heritage status highlights its exceptional universal value.",
+      "factsAdvanced": [
+        "Traditional seat of the Kassena chief (Pé) in Tiébélé",
+        "Famous for the hand-painted geometric murals created by local women",
+        "Uses only natural pigments such as graphite, clay, and volcanic stone",
+        "Nominated for UNESCO World Heritage status for its cultural value",
+        "Architectural style features windowless houses for thermal regulation",
+        "Sacred site containing the tombs of former chiefs and royal shrines",
+        "Symbols on the walls represent protection, fertility, and wisdom",
+        "Living example of traditional Gurunsi social and architectural organization"
+      ]
+    },
+    {
+      "id": "palais-du-moro-naba-history-v2",
+      "descriptionAdvanced": "The Palace of the Moro Naba, located in the heart of Ouagadougou, is the official residence of the King (Moro Naba) of the Mossi, the most powerful traditional ruler in Burkina Faso. The current palace grounds have been the seat of the Mossi monarchy since the 15th century, serving as the political and spiritual center of the Ouagadougou kingdom. Every Friday morning, the palace hosts the 'Nabayius Gou,' a historic ceremony that commemorates a 12th-century event when the King prepared to leave his capital to reclaim his lost love, only to be persuaded by his people to stay and protect them. This ritual is a powerful display of tradition, featuring the King in ceremonial attire, his court officials, and royal cavalry. Although the Moro Naba no longer holds formal political power in the modern state, he remains a highly influential moral authority and a symbol of national unity. The palace stands as a resilient sanctuary of Mossi heritage amidst the bustling modern capital, preserving a lineage that has lasted for over 800 years.",
+      "factsAdvanced": [
+        "Official residence of the Moro Naba, the King of the Mossi people",
+        "Seat of the Ouagadougou Mossi kingdom since the 15th century",
+        "Hosts the famous 'Nabayius Gou' (The Emperor's False Departure) every Friday",
+        "Symbolizes over 800 years of continuous Mossi monarchical history",
+        "The Moro Naba serves as a key mediator and moral authority in Burkina Faso",
+        "The palace complex includes sacred shrines, royal tombs, and assembly halls",
+        "Maintains a strict traditional court hierarchy and ancient protocols",
+        "Central cultural landmark in the heart of modern Ouagadougou"
+      ]
+    },
+    {
+      "id": "sindou-peaks-refuge-history-v2",
+      "descriptionAdvanced": "The Sindou Peaks, located in the Léraba province of southwestern Burkina Faso, are not only a geological wonder but also a site of deep historical and spiritual significance for the Senoufo people. These spectacular, narrow sandstone needles were formed by millions of years of wind and water erosion, but for the local communities, they served as a vital strategic refuge during the 19th-century slave raids and tribal wars. The intricate labyrinth of rocks provided natural fortifications, hidden caves, and elevated lookout points that allowed the Senoufo to defend their territory against invading Samory Touré's forces and other regional powers. Historically, the area was the original site of the village of Sindou before it moved to its current location in the valley. Today, the peaks are considered sacred, used for initiations and traditional ceremonies that connect the living with the spirits of the ancestors. The site remains a powerful symbol of Senoufo resilience and their profound spiritual connection to the rugged landscape.",
+      "factsAdvanced": [
+        "Spectacular sandstone rock formations near the town of Sindou",
+        "Historic strategic refuge for the Senoufo people during 19th-century wars",
+        "Served as a natural fortification against the raids of Samory Touré",
+        "Contains sacred caves and ritual sites used for traditional initiations",
+        "Original site of the first Senoufo settlements in the region",
+        "Geological formations shaped by millions of years of wind and water erosion",
+        "Considered one of the most spiritual and culturally significant sites in the west",
+        "Continues to host ancestral rituals and offerings by local elders"
+      ]
+    },
+    {
+      "id": "koro-village-rocks-history-v2",
+      "descriptionAdvanced": "Koro is an ancient village perched atop a granite plateau overlooking the plains of Bobo-Dioulasso, serving as a historic stronghold for the Tiefo and Bobo peoples. Founded centuries ago, the village was strategically designed to be invisible from below, with its houses built directly into the granite boulders and camouflaged by the natural rock formations. This defensive layout protected the inhabitants from invaders and slave raiders throughout the pre-colonial era. The village is organized into distinct quarters for blacksmiths, farmers, and weavers, reflecting the traditional social structure of the region. Historically, Koro was a key spiritual center, with its numerous rock shrines and sacred groves used for rain-making rituals and ancestral worship. Despite its proximity to the modern city, Koro has preserved its traditional way of life, with its elders maintaining the ancient customs and oral histories of the Tiefo kingdom. The village stands as a remarkable example of human adaptation to a rugged environment and a resilient bastion of southwestern Burkinabé heritage.",
+      "factsAdvanced": [
+        "Ancient hilltop village built into granite boulders near Bobo-Dioulasso",
+        "Historic defensive stronghold for the Tiefo and Bobo ethnic groups",
+        "Designed to be camouflaged and invisible from the surrounding plains",
+        "Contains sacred rock shrines used for rain-making and ancestral rituals",
+        "Socially organized into professional quarters (blacksmiths, weavers, etc.)",
+        "Offers a strategic 360-degree view of the Houet province",
+        "Preserves the ancient Tiefo language and traditional social customs",
+        "Example of sophisticated pre-colonial defensive architecture"
+      ]
+    },
+    {
+      "id": "ouahigouya-naaba-palace-history-v2",
+      "descriptionAdvanced": "The Naaba's Palace in Ouahigouya is the traditional seat of the King of Yatenga, one of the most powerful and influential Mossi kingdoms in Burkina Faso. Established in the 18th century when the capital was moved to Ouahigouya by Naaba Kango, the palace has been the heart of Yatenga's political and spiritual life for over 250 years. The architecture of the palace complex reflects the traditional Mossi style, with a series of interconnected courtyards, audience halls, and sacred chambers built from mud-brick and timber. Historically, the Palace of Ouahigouya was a center of resistance and diplomacy, navigating the complex relationships between the Mossi, the Fulani, and later the French colonial forces. The King of Yatenga, assisted by a council of traditional ministers, continues to play a vital role in conflict resolution and the preservation of Mossi customs. The palace grounds are also the site of major traditional festivals, such as the Basga, which celebrates the harvest and honors the royal ancestors. It remains a living monument to the enduring power of the Yatenga monarchy.",
+      "factsAdvanced": [
+        "Traditional seat of the King (Naaba) of the Yatenga Mossi kingdom",
+        "Established in the mid-18th century by Naaba Kango",
+        "Political and spiritual center for the northern Mossi regions",
+        "Hosts the annual Basga festival honoring royal ancestors and the harvest",
+        "Constructed in traditional Sudano-Sahelian mud-brick architectural style",
+        "Maintains an active court of traditional ministers and advisors",
+        "Symbol of Yatenga's historic resistance and diplomatic influence",
+        "Focal point for Mossi identity and cultural preservation in the north"
+      ]
+    },
+    {
+      "id": "niansogoni-ruins-history-v2",
+      "descriptionAdvanced": "The Ruins of Niansogoni, located in the Kénédougou province near the border with Mali, are a hauntingly beautiful ancient troglodyte village perched on a steep cliffside. This abandoned settlement was built by the Wara people (a subgroup of the Senoufo) who sought refuge in the high rock shelters to escape the 19th-century jihads and slave raids of the regional empires. The ruins consist of perfectly preserved mud-brick houses, communal granaries with intricate straw roofs, and ritual spaces tucked under overhanging cliffs. The granaries, in particular, are remarkable for their design, intended to protect the village's food supply from both human invaders and the elements. Historically, Niansogoni was a completely self-sufficient fortress, with its inhabitants climbing up and down the cliffs using secret paths and ladders. Abandoned in the 1980s as the population moved to the more accessible valley below, the site remains a sacred 'ghost village' that tells the story of survival, ingenuity, and the profound resilience of the Wara people.",
+      "factsAdvanced": [
+        "Ancient cliffside troglodyte village in the Kénédougou province",
+        "Founded by the Wara people as a refuge from 19th-century slave raids",
+        "Features well-preserved mud-brick houses and elevated granaries",
+        "Located on a steep plateau overlooking the plains near the Mali border",
+        "Abandoned in the late 20th century as the population moved to the valley",
+        "The granaries are famous for their unique 'hat-like' straw roofs",
+        "Sacred site containing ancestral altars and traditional ritual spaces",
+        "Requires a steep hike to reach the perfectly preserved historical structures"
+      ]
+    },
+    {
+      "id": "arbinda-petroglyphs-history-v2",
+      "descriptionAdvanced": "The Arbinda Petroglyphs, located in the Soum province of northern Burkina Faso, represent one of the country's most significant and ancient records of prehistoric human activity. These rock engravings, carved into the granite boulders surrounding the town of Arbinda, date back several millennia and depict a wide variety of animals, including elephants, giraffes, and cattle, many of which no longer inhabit this increasingly arid Sahelian region. The petroglyphs offer invaluable insights into the environmental changes and social evolution of the ancient peoples who once thrived in a much greener Sahara. Alongside the animal figures are mysterious geometric symbols and human representations, believed to be linked to ancient rituals, hunting magic, or territorial markers. Historically, Arbinda has long been a crossroads for nomadic cultures, and the petroglyphs suggest that the area has been a sacred gathering point for diverse groups for over 5,000 years. These ancient carvings remain a silent but powerful testament to the deep roots of human civilization in the heart of the Sahel.",
+      "factsAdvanced": [
+        "Ancient rock engravings located on granite boulders in the Soum province",
+        "Date back several thousand years, reflecting a once-greener Sahel",
+        "Depict a wide range of fauna including giraffes, elephants, and cattle",
+        "Provide critical evidence of prehistoric climate change in West Africa",
+        "Include mysterious geometric symbols and human figures",
+        "Believed to have served as territorial markers or ritual sites",
+        "One of the most important prehistoric archaeological sites in Burkina Faso",
+        "Remains a site of cultural interest for local Fulani and Kurumba peoples"
+      ]
+    },
+    {
+      "id": "pobe-mengao-rock-art-history-v2",
+      "descriptionAdvanced": "Pobé-Mengao, located in the Soum province of northern Burkina Faso, is home to a world-renowned complex of rock art and megalithic sites that date back to the prehistoric and protohistoric eras. The site is famous for its extensive collection of rock engravings, which depict complex scenes of hunting, warriors on horseback, and intricate symbolic patterns that reflect the spiritual beliefs of the region's ancient inhabitants. Beyond the petroglyphs, Pobé-Mengao is also known for its 'sounding stones'—granite boulders that produce melodic tones when struck, historically used by the Kurumba people as a form of long-distance communication and in sacred rituals. The area also contains ancient necropolises and stone enclosures that suggest a highly organized and settled society existed here long before the modern era. Historically, Pobé-Mengao has been a sacred center for the Kurumba ethnic group, who consider the rock formations to be the dwelling place of their ancestors' spirits. This cultural landscape is a vital link to Burkina Faso's earliest history and its nomination for UNESCO status underscores its global importance.",
+      "factsAdvanced": [
+        "Major prehistoric and protohistoric rock art site in northern Burkina Faso",
+        "Famous for rock engravings depicting hunters, warriors, and horses",
+        "Home to the 'sounding stones' used for traditional communication and ritual",
+        "Sacred cultural landscape for the Kurumba ethnic group",
+        "Includes ancient burial sites, megaliths, and stone enclosures",
+        "Nominated for UNESCO World Heritage status for its historical depth",
+        "Provides insights into the transition from hunting to nomadic pastoralism",
+        "Located approximately 25 kilometers from the city of Djibo"
+      ]
+    },
+    {
+      "id": "dori-old-mosque-history-v2",
+      "descriptionAdvanced": "The Old Mosque of Dori is a historic landmark and a symbol of the long-standing Islamic heritage of the Sahel region in northern Burkina Faso. Constructed in the traditional Sudano-Sahelian style using sun-dried mud-bricks and local timber, the mosque dates back to the 19th century, during the height of the Liptako Emirate. Its architecture is characterized by its thick, heat-resistant walls, small ventilation windows, and a modest but elegant minaret that towers over the old town. Historically, the mosque was the spiritual center of the Emirate of Liptako, serving as a place of prayer for the Emirs and a center for Islamic learning that attracted scholars from across the Sahel. The building's design is perfectly adapted to the harsh desert climate, providing a cool and quiet space for reflection amidst the intense northern heat. Despite several renovations, the mosque has maintained its original aesthetic and continues to be an active place of worship for the local Fulani and Songhai communities. It remains a proud testament to Dori's role as a historic bastion of faith and culture at the desert's edge.",
+      "factsAdvanced": [
+        "Historic 19th-century mosque built in the Sudano-Sahelian style",
+        "Spiritual center of the former Emirate of Liptako in the Sahel",
+        "Constructed entirely from local mud-bricks and desert timber",
+        "Features traditional climate-control design for the hot northern climate",
+        "Historic center for Islamic scholarship and regional learning",
+        "Active place of worship for Dori's Fulani and Songhai communities",
+        "Reflects the architectural influence of the great Sahelian empires",
+        "Iconic landmark of Dori's old town and Islamic heritage"
+      ]
+    }
+  ]
+}

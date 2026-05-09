@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cairo-road-commercial-heritage-history-v2",
+      "descriptionAdvanced": "Cairo Road forms the pulsating heart of Lusaka and exemplifies the visionary, albeit colonial, urban planning of the early 20th century. Named as an integral part of Cecil Rhodes' ambitious Cape-to-Cairo route, it rapidly developed into Zambia's commercial center in the 1930s. Today, this historic street houses a multitude of banks, modern business houses, and retail shops. It seamlessly connects Lusaka's colonial past with its current role as a dynamic economic hub. Cairo Road is more than just a thoroughfare – it is a living symbol of Zambia's urban development and economic transformation over the last hundred years.",
+      "factsAdvanced": [
+        "Central commercial thoroughfare of Lusaka",
+        "Named after Cecil Rhodes' Cape-to-Cairo vision",
+        "Rapid expansion in the 1930s",
+        "Current seat of banks and trade centers",
+        "Symbol for urban and economic transformation",
+        "Main axis of the central business district"
+      ]
+    }
+  ]
+}

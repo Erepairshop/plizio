@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "twin-rivers-kopje-history-v2",
+      "descriptionAdvanced": "Twin Rivers Kopje is a hill-top archaeological site containing Middle Stone Age artifacts and early evidence of pigment use. The excavations uncovered ochre pieces are crucial, as they demonstrate symbolic behavior by early humans over 200,000 years ago. This site provides fundamental proof of Stone Age cognitive development and is an indispensable source for researchers of human development history. The findings represent not only the evolution of human intelligence, but also the complex behavioral patterns of early communities.",
+      "factsAdvanced": [
+        "Middle Stone Age archaeological site",
+        "Early evidence of pigment use",
+        "Ochre pieces discovered during excavations",
+        "Evidence of symbolic behavior over 200,000 years ago",
+        "Key to understanding human cognitive development",
+        "Represents the complexity of early communities"
+      ]
+    }
+  ]
+}

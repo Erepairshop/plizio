@@ -1,0 +1,81 @@
+{
+  "lang": "hu",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "better-hope-cities-v2",
+      "descriptionAdvanced": "Better Hope a Demerara-Mahaica régió egyik meghatározó elővárosi központja, amely ideális helyzetben fekszik Georgetown közvetlen közelében. A település fejlődése szorosan összefonódott a főváros gazdasági és lakossági expanziójával, így ma már az ingázók és a kereskedelmi szolgáltatások egyik legfontosabb gócpontja a part menti sávban. A modern lakóövezetek és a hagyományos guyanai életmód itt egyaránt megtalálható, ami sok család számára teszi a települést ideális választássá. Infrastruktúra K7 — a fővárosi vonzáskörzet hatásai.",
+      "factsAdvanced": [
+        "Better Hope az egyik legdinamikusabb előváros Georgetown mellett.",
+        "A régió egyik fontos kereskedelmi és lakossági központja.",
+        "A főváros gazdasági expanziója alapvetően meghatározza fejlődését.",
+        "Kulcsfontosságú helyszín az ingázók és a szolgáltató szektor számára.",
+        "Modern lakóövezetek és hagyományos életmód ötvözete jellemzi.",
+        "Családok számára vonzó választást jelent a megfelelő infrastruktúra miatt."
+      ]
+    },
+    {
+      "id": "beterverwagting-cities-v2",
+      "descriptionAdvanced": "Beterverwagting nevében is hordozza a holland gyarmati múlt emlékét, miközben a település mára a Demerara-Mahaica régió egyik modern lakóközösségévé alakult át. A város története a korai mezőgazdasági fejlesztésektől a mai, urbanizált életmódig vezet, ahol a lakóközösség büszkén ápolja történelmi identitását. A település a főváros közelségét kihasználva kínál nyugodt otthont a városi életbe bekapcsolódó családoknak. Az ipari múlt emlékei és az új lakóépületek közti kontraszt Beterverwagting fejlődésének izgalmas lenyomata. Szociológia K6 — az örökség és a fejlődés kapcsolata.",
+      "factsAdvanced": [
+        "A Beterverwagting név holland eredete a történelmi múltra utal.",
+        "Ma már egy modern lakóközösségként funkcionál a Demerara-Mahaica régióban.",
+        "Története a korai mezőgazdasági fejlesztésektől a mai urbanizációig ível.",
+        "A közösség büszkén őrzi történelmi identitását.",
+        "Ideális, nyugodt otthont biztosít az ingázó családok számára.",
+        "Az ipari múlt emlékei és a modern lakókörnyezet izgalmas kontrasztot alkot."
+      ]
+    },
+    {
+      "id": "blairmont-cities-v2",
+      "descriptionAdvanced": "Blairmont a Berbice-folyó partján elterülő ipari gyökerű település, amely az East Berbice-Corentyne régió cukoriparának egyik meghatározó központja. A város szerkezetét szinte teljes egészében a cukortermeléshez köthető létesítmények és a munkavállalói lakások határozzák meg, ami egyedülálló ipari karaktert kölcsönöz a településnek. Bár a gazdasági fókusz változóban van, a közösség még ma is mélyen kötődik az ipari múlthoz, miközben a folyó menti elhelyezkedés lehetőségeket kínál a gazdasági diverzifikációra. Gazdaság K6 — az ipari települések alkalmazkodása a változó gazdasági környezethez.",
+      "factsAdvanced": [
+        "Blairmont szoros kapcsolatban áll a Berbice-folyó ipari és logisztikai lehetőségeivel.",
+        "A cukoripar meghatározó volt a város szerkezetének kialakításában.",
+        "Az ipari örökség és a munkavállalói lakóövezetek adják a település karakterét.",
+        "A közösség élete mélyen beágyazódott az ipari hagyományokba.",
+        "A folyóparti helyszín új gazdasági távlatokat nyithat a jövőben.",
+        "A cukortermelés változó szerepe új irányokat határoz meg a régió számára."
+      ]
+    },
+    {
+      "id": "rosignol-cities-v2",
+      "descriptionAdvanced": "Rosignol a Berbice-folyó nyugati partján fekvő város, amely kulcsszerepet játszik a regionális közlekedésben, különösen a kompközlekedés révén New Amsterdam felé. A település folyamatos kereskedelmi mozgása és a kereszteződésben elfoglalt helyzete miatt pezsgő élettel teli, ahol az ingázók és a kereskedelmi áruk folyamatosan cserélődnek. A folyó torkolatánál végzett tevékenység és az átmenő forgalom teszi Rosignolt a régió egyik legforgalmasabb közlekedési csomópontjává, amely nélkülözhetetlen a Berbice-régió és a főváros közötti kapcsolattartásban. Infrastruktúra K7 — a folyami kompok jelentősége a regionális forgalomban.",
+      "factsAdvanced": [
+        "Rosignol a Berbice-folyó nyugati partján, közlekedési csomópontként funkcionál.",
+        "A kompközlekedés New Amsterdam felé létfontosságú a régió számára.",
+        "Pezsgő kereskedelmi és ingázó forgalom jellemzi a mindennapokat.",
+        "A város az egyik legfontosabb közlekedési pont a régióban.",
+        "A kereskedelmi áruk folyamatos mozgása a város gazdaságának alapja.",
+        "nélkülözhetetlen szerepet játszik a Berbice-régió és a főváros közötti kapcsolatban."
+      ]
+    },
+    {
+      "id": "bush-lot-cities-v2",
+      "descriptionAdvanced": "Bush Lot a Mahaica-Berbice régió egyik mezőgazdaságilag meghatározott települése, ahol a rizstermesztés és a tágas alföldi vidék határozza meg a mindennapokat. A falu fontos központként szolgál a környéken élő gazdálkodók számára, biztosítva a kereskedelmi és ellátási szolgáltatásokat. A hagyományos életmód és a mezőgazdasági termelés szerves egységet alkot Bush Lotban, amely egy jól működő vidéki közösség példája a part menti övezetben. Mezőgazdaság K5 — az agrártermelés és a vidéki közösség egymásrautaltsága.",
+      "factsAdvanced": [
+        "Bush Lot a Mahaica-Berbice régióban elterülő mezőgazdasági központ.",
+        "A rizstermesztés a fő gazdasági pillér a településen.",
+        "A tágas alföldek ideálisak az agrártermelés számára.",
+        "Fontos kereskedelmi és ellátási központ a környező vidéki gazdák számára.",
+        "A közösség élete szorosan összefonódott a mezőgazdasági ciklusokkal.",
+        "A part menti övezet egyik példamutató, mezőgazdasági karakterű települése."
+      ]
+    },
+    {
+      "id": "fyrish-cities-v2",
+      "descriptionAdvanced": "Fyrish az East Berbice-Corentyne régióban fekszik, és része annak a folyamatosan fejlődő part menti települési sávnak, amely Guyana történelmi cukortermeléséhez kötődik. A falu ma már egy élénk lakóhely, amely a múltbéli ipari hagyományokat ötvözi a modern életvitel igényeivel. A központi part menti út közelsége megkönnyíti a helyi lakosok számára az eljutást a környező kereskedelmi központokba, ezzel is erősítve a társadalmi kohéziót és az üzleti aktivitást a környéken. Szociológia K4 — a történelmi ipari közösségek átalakulása.",
+      "factsAdvanced": [
+        "Fyrish az East Berbice-Corentyne régió part menti sávjában található.",
+        "A történelmi cukoripar emlékei meghatározzák a település örökségét.",
+        "Modern lakóhelyként funkcionál, ötvözve a múltat a jelennel.",
+        "A part menti út közelsége biztosítja a könnyű mobilitást.",
+        "A helyi kisvállalkozások és üzletek jelentősen befolyásolják a gazdaságot.",
+        "Erős közösségi kohézió és társadalmi aktivitás jellemzi."
+      ]
+    }
+  ]
+}

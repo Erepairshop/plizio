@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-manengouba-relief-v2",
+      "descriptionAdvanced": "The Manengouba Massif is a prominent shield volcano located within Cameroon's western volcanic line, world-renowned for its unique twin crater lakes. The relief is defined by a complex volcanic structure, featuring steep, inward-facing crater walls and surrounding highland plateaus. This topographic peculiarity makes it one of the most fascinating volcanic landmarks in the region, offering impressive vistas both geologically and scenically. Geography K7 — mountains and volcanic craters.",
+      "factsAdvanced": [
+        "Important volcanic mountain component of western Cameroon.",
+        "Famous for its striking twin crater lakes.",
+        "Complex topographically structured crater and plateau system.",
+        "Integral part of the volcanically modeled highland relief.",
+        "Distinctive mountain landscape of volcanic origin.",
+        "A major regional landmark in the west."
+      ]
+    },
+    {
+      "id": "mount-kupe-relief-v2",
+      "descriptionAdvanced": "Mount Kupe is a prominent, steeply rising peak that serves as a central element of the southwestern highlands, holding significant spiritual and ecological importance. Its relief is defined by steep slopes which, due to high humidity and tropical location, harbor an important biodiversity hotspot. The mountain’s topographic form serves as a distinct regional orientation point, and it remains deeply intertwined with the traditions of the local population. Geography K7 — mountains and ecology.",
+      "factsAdvanced": [
+        "Prominent mountain in southwestern Cameroon's highlands.",
+        "Steep topographic character of the slopes.",
+        "Spiritually significant site for the local population.",
+        "Vital hotspot for a diverse range of biological biodiversity.",
+        "Topographically dominant landmark for the entire region.",
+        "Part of the ecologically valuable rainforest belt."
+      ]
+    },
+    {
+      "id": "mount-oissa-relief-v2",
+      "descriptionAdvanced": "Mount Oissa is situated in the vicinity of the massive Mount Cameroon, sharing its volcanically formed topographic origins. Its relief is characterized by rolling, volcanic terrain covered by dense tropical vegetation. As part of the volcanic line, this area offers an interesting, albeit challenging, relief for hikers and researchers, reflecting the geological processes of the west Cameroonian coast. Geography K7 — volcanic hill country.",
+      "factsAdvanced": [
+        "Located geologically in the immediate vicinity of Mount Cameroon.",
+        "Volcanic-origin, rolling relief characteristic of the coastal region.",
+        "Covered by dense and diverse tropical vegetation.",
+        "Part of the active volcanic line in western Cameroon.",
+        "Challenging terrain scenically for hiking and exploration.",
+        "Reflects geological processes of the west Cameroonian coast."
+      ]
+    },
+    {
+      "id": "nlonako-mountains-relief-v2",
+      "descriptionAdvanced": "The Nlonako Mountains are a significant range in the western highlands, defined by their steep rock formations and deeply incised valleys. As part of the volcanic line, they present a complex structure largely covered by primary rainforest, thus fulfilling an important ecological protective function. Their topographic nature is significantly influenced by volcanic history, which imparts a striking appearance and a climatic Sonderstellung (special position) compared to the surrounding area. Geography K7 — mountains and nature conservation.",
+      "factsAdvanced": [
+        "Distinctive mountain range in Cameroon's western highlands.",
+        "Relief defined by steep rock walls and deep valleys.",
+        "Part of the volcanic line with a complex structure.",
+        "Extensively covered with protected, primary tropical rainforest.",
+        "Volcanic history shapes its striking exterior appearance.",
+        "Climatically favored Sonderstellung due to topographic position."
+      ]
+    },
+    {
+      "id": "mount-bambouto-relief-v2",
+      "descriptionAdvanced": "The Bambouto Mountains form a striking part of the Cameroon volcanic line, characterized by a relief defined by steep, rugged slopes and extensive highland plateaus. The topographic structure is the result of intense volcanic activity, which has created a spectacular mountain landscape. With their expansive grasslands in higher elevations, they offer a sharp contrast to the country’s lower-lying rainforest areas and serve as a vital natural landmark in the west. Geography K7 — high mountains.",
+      "factsAdvanced": [
+        "Important component of the Cameroonian volcanic line.",
+        "Relief marked by steep, rugged slope formations.",
+        "Extensive highland plateaus above 2,000 meters.",
+        "Landscape shaped by historical volcanic events.",
+        "Expansive grasslands dominate the higher regions.",
+        "Natural topographic landmark in western Cameroon."
+      ]
+    }
+  ]
+}

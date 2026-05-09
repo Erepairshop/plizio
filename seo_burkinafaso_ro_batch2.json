@@ -1,0 +1,51 @@
+{
+  "lang": "ro",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ouahigouya-relief-v2",
+      "descriptionAdvanced": "Depresiunea Ouahigouya este o formațiune geografică semnificativă din nordul statului Burkina Faso, marcând tranziția către regiunea semi-aridă a Sahelului. Caracterizată prin câmpii întinse și soluri nisipo-argiloase, acest relief acționează ca un punct natural de colectare pentru precipitațiile sezoniere din podișurile granitice înconjurătoare. Din punct de vedere istoric, depresiunea a fost centrul regatului Mossi din Yatenga, unde provocările peisajului au dus la pionieratul tehnicilor de conservare a solului, precum „zai”. Relieful este extrem de vulnerabil la eroziunea eoliană și deșertificare, reprezentând o linie de front în lupta împotriva avansării Saharei. În ciuda climatului aspru, depresiunea susține o populație densă prin grădinărit intensiv și creșterea animalelor, utilizând rezervele de apă subterană de mică adâncime. Peisajul Ouahigouya este o dovadă a rezilienței poporului burkinabe într-un mediu tot mai arid.",
+      "factsAdvanced": [
+        "Depresiune strategică și zonă de tranziție către Sahelul nordic",
+        "Centrul regatului istoric Mossi din Yatenga",
+        "Situl tehnicilor de restaurare a solului „zai”",
+        "Caracterizată prin teren plat și vulnerabilitate ridicată la eroziunea eoliană",
+        "Susține grădinăritul intensiv și creșterea vitelor în stil sahelian",
+        "Acționează ca un bazin de drenaj major pentru provinciile nordice",
+        "Altitudine relativ scăzută comparativ cu platoul central Mossi",
+        "Zonă critică pentru reîmpădurirea națională și combaterea deșertificării"
+      ]
+    },
+    {
+      "id": "boromo-relief-v2",
+      "descriptionAdvanced": "Dealurile Boromo sunt o serie de elevații remarcabile și terase fluviale care mărginesc malurile râului Mouhoun (Volta Neagră) din centrul-vestul statului Burkina Faso. Acest peisaj deluros accidentat se caracterizează prin topografia sa diversă, unde crestele de laterită alternează cu văile fluviale fertile. Din punct de vedere istoric, relieful a servit ca barieră ecologică critică și sanctuar pentru fauna sălbatică, în special pentru elefanții din Parcul Național Deux Balés, care utilizează dealurile pentru adăpost și orientare. Dealurile sunt acoperite cu vegetație sudano-saheliană relativ densă, oferind un contrast luxuriant savanelor plate din jur. Proximitatea râului a permis crearea multor baraje mici și proiecte de irigații în văi, susținând un sector agricol vibrant. Pentru vizitatori, relieful Boromo oferă unele dintre cele mai pitorești priveliști din țară, unde râul străpunge dealurile roșii.",
+      "factsAdvanced": [
+        "Relief deluros accidentat de-a lungul văii râului Volta Neagră (Mouhoun)",
+        "Habitat critic și punct de orientare pentru turmele de elefanți regionali",
+        "Prezintă un amestec de creste de laterită și văi aluvionare fertile",
+        "Situat în provincia central-vestică Balé",
+        "Susține o vegetație diversă de savană lemnoasă și păduri riverane dense",
+        "Destinație pitorească pentru observarea faunei și fotografie de natură",
+        "Semnificativ hidrologic pentru gestionarea inundațiilor râului Mouhoun",
+        "Relieful influențează biodiversitatea complexului Deux Balés"
+      ]
+    },
+    {
+      "id": "kaya-plateau-v2",
+      "descriptionAdvanced": "Podișul Kaya, situat în regiunea Centre-Nord, reprezintă un scut granitic masiv și antic, care formează unul dintre cele mai rezistente blocuri geografice ale țării. Caracterizat prin terenul său vălurit și prezența numeroaselor „inselberg-uri” (dealuri stâncoase izolate), relieful este dominat de un substrat granitic dur, bătut de intemperii. Din punct de vedere istoric, acesta a fost un bastion strategic pentru poporul Mossi, înălțimile stâncoase oferind apărări naturale și puncte de observație. Geologia platoului împiedică infiltrarea profundă a apei de ploaie, ducând la formarea multor iazuri sezoniere și la construirea unor rezervoare vitale care susțin populația în timpul sezonului uscat. Solurile subțiri și pietroase sunt folosite în principal pentru pășunat și agricultură la scară mică, în special sorg și mei. Relieful Kaya este un exemplu clasic al scutului cristalin vest-african.",
+      "factsAdvanced": [
+        "Platou granitic masiv situat în regiunea Centre-Nord",
+        "Caracterizat prin numeroase inselberg-uri și formațiuni stâncoase antice",
+        "Inimă tradițională a poporului Mossi și bastion istoric defensiv",
+        "Geologia favorizează crearea de rezervoare de apă sezoniere la scară mare",
+        "Situat pe vechiul scut cristalin vest-african",
+        "Zonă principală pentru pășunatul sahelian și cultivarea cerealelor",
+        "Energie a reliefului ridicată comparativ cu câmpiile centrale din jur",
+        "Nod strategic pentru rutele comerciale și de transport din nord"
+      ]
+    }
+  ]
+}

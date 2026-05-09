@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "syncrude-oilsands-economic-v2",
+      "descriptionAdvanced": "Syncrude Canada betreibt eine der weltweit größten Anlagen zur Ölsandgewinnung im Athabasca-Gebiet in Alberta. Durch aufwendige Tagebau-Techniken wird aus dem bitumenhaltigen Sand synthetisches Rohöl gewonnen, das einen zentralen Pfeiler der kanadischen Energieexporte darstellt. Die geologische und technologische Komplexität macht diesen Standort zu einem wichtigen Forschungsfeld für die Energieeffizienz der Schwerindustrie. Geografie K8 — Rohstoffgewinnung, globale Märkte und Umweltaspekte.",
+      "factsAdvanced": [
+        "Einer der weltweit größten Ölsand-Produzenten",
+        "Standort: Athabasca-Ölsande in Alberta",
+        "Prozess: Synthetisches Rohöl aus Bitumen",
+        "Joint-Venture mehrerer Energiekonzerne",
+        "Entstanden in den 1970er Jahren",
+        "Wichtiger Arbeitgeber in Nord-Alberta",
+        "Jährliche Produktion von Millionen Barrels"
+      ]
+    },
+    {
+      "id": "suncor-fort-mcmurray-economic-v2",
+      "descriptionAdvanced": "Suncor Energy war 1967 das erste Unternehmen, das die kommerzielle Gewinnung von Rohöl aus Ölsanden in der Region um Fort McMurray realisierte. Als integrierter Energiekonzern verbindet Suncor heute die Förderung mit der Raffinerie und dem Vertrieb und prägt maßgeblich die Wirtschaftsstruktur Albertas. Der Standort gilt als technologische Keimzelle für die gesamte Branche der nicht-konventionellen Ölförderung in Nordamerika. Geografie K8 — Energiequellen und globale Wirtschaft.",
+      "factsAdvanced": [
+        "Pionier der kommerziellen Ölsand-Entwicklung",
+        "Zentrum in Fort McMurray, Alberta",
+        "Betreibt integrierte Ölstandorte",
+        "Einer der größten Ölproduzenten Kanadas",
+        "Erstes Unternehmen mit Ölsand-Produktion 1967",
+        "Fokus auf nachhaltige Energiegewinnung",
+        "Wichtiger Beitrag zum kanadischen Bruttoinlandsprodukt"
+      ]
+    },
+    {
+      "id": "sudbury-nickel-mines-economic-v2",
+      "descriptionAdvanced": "Die Nickelminen von Sudbury in Ontario sind das Resultat eines gigantischen Meteoriteneinschlags vor etwa 1,8 Milliarden Jahren, der eine einzigartige geologische Beckenstruktur schuf. Diese Formation ist heute eines der reichhaltigsten Vorkommen von Nickel, Kupfer und Platingruppenmetallen weltweit. Neben der Bedeutung für die globale Industrie sind die Minen entscheidend für die moderne Batterieproduktion im Bereich der Elektromobilität. Geografie K7 — Geologie und Bergbau.",
+      "factsAdvanced": [
+        "Weltweit bedeutende Nickelvorkommen",
+        "Standort: Sudbury-Becken, Ontario",
+        "Entstanden durch einen Meteoriteneinschlags",
+        "Wichtig für die Batterieproduktion",
+        "Historisch ein Zentrum der Bergbauindustrie",
+        "Bekannt für den 'Sudbury Superstack' als einst höchster Schornstein",
+        "Einzigartige geologische Formation"
+      ]
+    },
+    {
+      "id": "potash-corp-saskatchewan-economic-v2",
+      "descriptionAdvanced": "Saskatchewan besitzt die weltweit größten und zugänglichsten Vorkommen an Kalisalz, das als essentieller Grundstoff für die globale Landwirtschaft dient. Das Unternehmen Nutrien, das aus der Fusion von PotashCorp hervorging, kontrolliert einen erheblichen Teil dieser strategischen Ressource. Die Kaliminen stützen die landwirtschaftliche Produktion weltweit, indem sie die Verfügbarkeit von Düngemitteln in großem Maßstab sicherstellen. Wirtschaft K7 — Landwirtschaft und Rohstoffe.",
+      "factsAdvanced": [
+        "Weltweit führende Kaliproduktion",
+        "Standort: Saskatchewan, Kanada",
+        "Kalisalz für Düngemittel weltweit",
+        "Zentraler Bestandteil der Agrarökonomie",
+        "Teil des Nutrien-Konzerns",
+        "Tiefbauverfahren zur Gewinnung",
+        "Export in über 50 Länder"
+      ]
+    },
+    {
+      "id": "gander-international-port-economic-v2",
+      "descriptionAdvanced": "Der Gander International Airport in Neufundland war einst das 'Kreuz der Welt' für die frühe transatlantische Luftfahrt, da er aufgrund seiner Lage als obligatorischer Tankstopp diente. Heute ist er ein bedeutender logistischer Knotenpunkt und ein historisches Symbol für zivile Gastfreundschaft, besonders hervorgehoben durch die Aufnahme gestrandeter Passagiere nach den Anschlägen vom 11. September. Geschichte K8 — Transatlantik-Luftfahrt.",
+      "factsAdvanced": [
+        "Strategischer Stopp für Transatlantikflüge",
+        "Standort: Gander, Neufundland",
+        "Wichtiger Knotenpunkt im Zweiten Weltkrieg",
+        "Symbol der Gastfreundschaft (9/11)",
+        "Ehemals als 'Crossroads of the World' bekannt",
+        "Rolle in der frühen Zivilluftfahrt",
+        "Moderner Logistikstützpunkt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "lang": "en",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "porto-grande-mindelo-economic-v2",
+      "descriptionAdvanced": "Porto Grande in Mindelo, on the island of Sao Vicente, is the primary maritime gateway of Cape Verde and one of the deepest natural harbors in the mid-Atlantic. Situated in the crater of an extinct volcano, it provides a safe and sheltered anchorage for the largest container ships, tankers, and luxury cruise liners. Historically established as a British coaling station in the 19th century, the port has been modernized to become a vital regional hub for transshipment and logistics. It serves as the main point for international imports, supplying the archipelago with food, fuel, and industrial goods. The port's strategic location also makes it a key facility for ship repair and maritime services in the West African region.",
+      "factsAdvanced": [
+        "Deepest natural harbor in Cape Verde and a major Atlantic hub.",
+        "Located in a submerged volcanic crater on Sao Vicente Island.",
+        "Modernized in the 2010s to handle large container vessels.",
+        "Primary gateway for international maritime trade and cruise tourism.",
+        "Vital center for the distribution of goods across the archipelago.",
+        "Features specialized terminals for containers, fuel, and fishing.",
+        "Established in the 19th century as a key coaling station.",
+        "Essential for the national economy and regional logistics."
+      ]
+    },
+    {
+      "id": "porto-da-praia-economic-v2",
+      "descriptionAdvanced": "The Port of Praia, located on the southern coast of Santiago Island, is the nation's second-largest port and the primary logistical hub for the capital city. Following major expansion projects funded by international partners, the port has significantly increased its capacity to handle container traffic and bulk cargo. It plays a crucial role in the national economy by facilitating the import of consumer goods and the export of local agricultural and industrial products. The port area also includes a modern fishing pier and cold storage facilities, supporting the island's vital maritime industry. Its proximity to the Achada Grande Industrial Zone makes it a strategic asset for the development of Cape Verde's commercial sector.",
+      "factsAdvanced": [
+        "Primary maritime hub for the capital city and Santiago Island.",
+        "Recently expanded to include a new container terminal.",
+        "Second busiest port in Cape Verde after Mindelo's Porto Grande.",
+        "Strategic link to the nearby Achada Grande Industrial Zone.",
+        "Features modern facilities for container handling and bulk cargo.",
+        "Home to a significant industrial fishing and processing center.",
+        "Vital for the supply of fuel and food to the southern islands.",
+        "Critical infrastructure for the nation's economic development."
+      ]
+    },
+    {
+      "id": "porto-de-palmeira-economic-v2",
+      "descriptionAdvanced": "The Port of Palmeira is the principal maritime facility of Sal Island, located on its western shore. As Sal is the country's main tourism hub, the port is essential for supplying the island with everything from fuel for the international airport to food and construction materials for its numerous resorts. The port underwent a massive modernization and expansion between 2010 and 2013, which included the construction of new quays and improved storage areas to handle increased cargo and passenger traffic. Palmeira also serves as a vital link for inter-island ferries, connecting Sal to the rest of the archipelago. Its role is fundamental in maintaining the island's status as a top-tier international travel destination.",
+      "factsAdvanced": [
+        "Principal port of Sal Island, vital for its tourism economy.",
+        "Underwent a major 30-million-euro expansion (2010-2013).",
+        "Primary entry point for fuel and cargo for the island.",
+        "Key hub for inter-island ferry services to and from Sal.",
+        "Located 5 kilometers from the island's capital, Espargos.",
+        "Handles the arrival of food and supplies for the resort industry.",
+        "Features specialized terminals for fuel and general cargo.",
+        "Essential for the logistics of Amilcar Cabral International Airport."
+      ]
+    },
+    {
+      "id": "porto-novo-harbour-economic-v2",
+      "descriptionAdvanced": "Porto Novo Harbour is the lifeline of Santo Antao Island, serving as its sole point of maritime connection since the closure of the island's airport. Located on the arid southern coast, the harbor is the scene of constant activity as ferries from Mindelo arrive multiple times a day, transporting thousands of passengers and tons of cargo. The port has been recently modernized with a new passenger terminal and expanded docking facilities to improve safety and efficiency. It is the primary exit point for the island's abundant agricultural products, including grogue and tropical fruits, and the main entry for all industrial goods. The harbor's operation is critical for the survival and economic prosperity of the island's residents.",
+      "factsAdvanced": [
+        "Sole maritime gateway to the island of Santo Antao.",
+        "Daily high-frequency ferry connection to Mindelo, Sao Vicente.",
+        "Recently modernized with a new passenger terminal (2013).",
+        "Main exit point for agricultural exports like grogue and fruit.",
+        "Primary entry point for vehicles, fuel, and industrial supplies.",
+        "The port area is the largest urban development on the island.",
+        "Vital for the logistics of the northern agricultural valleys.",
+        "Essential infrastructure for the island's emerging tourism sector."
+      ]
+    },
+    {
+      "id": "porto-vale-cavaleiros-economic-v2",
+      "descriptionAdvanced": "Porto Vale de Cavaleiros is the main maritime port of Fogo Island, located approximately 4 kilometers north of the city of Sao Filipe. The port is situated in a dramatic setting at the foot of volcanic cliffs and is the island's primary link for inter-island trade and travel. It was significantly reconstructed and expanded after 2010 to better withstand the heavy Atlantic swells and to increase its capacity for cargo and passenger ferries. The port is essential for the export of Fogo's famous volcanic products, including coffee and wine, and for the import of all essential supplies. Its operation is crucial for the connectivity of the island, especially given the limitations of the local airport for large-scale cargo.",
+      "factsAdvanced": [
+        "Primary maritime port for the volcanic island of Fogo.",
+        "Located at the base of steep volcanic cliffs near Sao Filipe.",
+        "Significantly expanded and reinforced in the early 2010s.",
+        "Vital for the export of Fogo's premium coffee and wine.",
+        "Main entry point for fuel and bulk cargo for the island.",
+        "Key stop for inter-island ferry services across the southern group.",
+        "Equipped with modern roll-on/roll-off docking facilities.",
+        "Critical for the island's economic stability and supply chain."
+      ]
+    },
+    {
+      "id": "porto-sal-rei-economic-v2",
+      "descriptionAdvanced": "The Port of Sal Rei is the main maritime gateway for Boa Vista Island, located on its western coast. Protected by a natural bay and the Ilheu de Sal Rei, the port handles the arrival of all essential goods, fuel, and construction materials needed for the island's rapid development. In recent years, the port has seen significant upgrades to accommodate larger cargo ships and the increasing number of inter-island ferries that support both the local population and the booming tourism sector. It also serves as a base for artisanal fishing and small-scale maritime commerce. The port's efficiency is a key factor in the island's ability to maintain its growth and provide services to the international resorts located along its pristine coastline.",
+      "factsAdvanced": [
+        "Principal port of Boa Vista Island for cargo and passengers.",
+        "Located in a sheltered bay protected by a small islet.",
+        "Vital for the supply of construction materials for the resort industry.",
+        "Main entry point for fuel and food supplies for the island.",
+        "Recently upgraded to handle larger vessels and container traffic.",
+        "Important hub for inter-island ferry connections.",
+        "Supports the local artisanal fishing industry in the region.",
+        "Essential infrastructure for the island's long-term growth."
+      ]
+    },
+    {
+      "id": "porto-tarrafal-sn-economic-v2",
+      "descriptionAdvanced": "Porto do Tarrafal is the largest and most active maritime facility on Sao Nicolau Island. Located on its western shore, it has largely surpassed the historical port of Preguica in economic importance. The port is the primary landing point for inter-island ferries and cargo vessels, making it the island's central logistical hub. It is also deeply connected to the local fishing industry, serving as a base for a large fleet of artisanal and semi-industrial fishing boats. The surrounding area has developed into the island's main economic zone, with fish processing plants and cold storage facilities that prepare the catch for export. The port's activity is the primary driver of growth for the town of Tarrafal and the entire island.",
+      "factsAdvanced": [
+        "Main maritime port and logistical heart of Sao Nicolau Island.",
+        "Primary hub for inter-island passenger and cargo transport.",
+        "Supports a large industrial and artisanal fishing fleet.",
+        "Close to major fish processing and canning facilities.",
+        "Has become the island's most important economic gateway.",
+        "Equipped with modern facilities for container and fuel handling.",
+        "Vital for the supply of all essential goods to the island.",
+        "Strategically located on the sheltered western coast."
+      ]
+    },
+    {
+      "id": "porto-da-furna-economic-v2",
+      "descriptionAdvanced": "Porto da Furna is the sole maritime port of Brava, the smallest inhabited island in the archipelago. Since Brava does not have an active airport, this port is the island's only connection to the outside world, primarily through the ferry link with the neighboring island of Fogo. The port is situated in a small, deep-water bay surrounded by steep volcanic mountains. It was modernized with a new quay and passenger facilities in the 2000s to ensure a reliable and safe connection even in rough seas. Porto da Furna is essential for the arrival of all food, medicine, and fuel, as well as for the travel of the island's residents. It serves as a vital lifeline for the isolated but resilient community of Brava.",
+      "factsAdvanced": [
+        "Sole maritime gateway and lifeline for Brava Island.",
+        "Primary connection is the daily ferry to Sao Filipe, Fogo.",
+        "Crucial for all supplies due to the lack of an active airport.",
+        "Located in a deep, sheltered bay on the island's east coast.",
+        "Modernized in the 2000s to improve maritime connectivity.",
+        "Handles the arrival of all essential goods and fuel.",
+        "Vital for the movement of the island's roughly 5,000 residents.",
+        "Situated at the base of dramatic, lush volcanic mountains."
+      ]
+    },
+    {
+      "id": "porto-ingles-maio-economic-v2",
+      "descriptionAdvanced": "Porto Ingles is the main port of Maio Island, located in its capital city. Historically significant for the salt trade, the port today serves as the primary entry point for all cargo, construction materials, and fuel needed by the island's residents and its burgeoning eco-tourism projects. The harbor underwent a major modernization project completed in 2022, which included a new roll-on/roll-off ramp and expanded docking space to accommodate larger ferries and cargo ships. This upgrade has significantly improved the island's connectivity with Praia, located only 25 kilometers away across the channel. The port is also a vital center for the local artisanal fishing community, which remains a cornerstone of the island's traditional economy.",
+      "factsAdvanced": [
+        "Main maritime gateway for Maio Island, recently modernized (2022).",
+        "Strategic link for ferries and cargo from the capital, Praia.",
+        "Equipped with a new roll-on/roll-off ramp for easier vehicle transport.",
+        "Essential for the supply of food, fuel, and construction materials.",
+        "Supports the local fishing industry and artisanal commerce.",
+        "Located in the town of Porto Ingles (Vila do Maio).",
+        "Crucial for the development of the island's eco-tourism sector.",
+        "One of the closest ports to the nation's capital, Praia."
+      ]
+    },
+    {
+      "id": "cabnave-shipyard-economic-v2",
+      "descriptionAdvanced": "Cabnave, located in the Porto Grande of Mindelo on Sao Vicente Island, is the premier shipyard and naval repair facility in Cape Verde. Established in 1982 with international cooperation, it features a sophisticated syncrolift system capable of lifting vessels for dry-docking and repair. The shipyard provides essential maintenance services to the national inter-island ferry fleet, as well as to international fishing vessels and cargo ships operating in the mid-Atlantic. Cabnave is a major employer in Mindelo and a symbol of the city's maritime expertise. Its presence makes Cape Verde a significant regional player in the maritime industry, offering high-tech engineering and repair services that are unique in the West African region.",
+      "factsAdvanced": [
+        "Major naval repair facility located in Mindelo's Porto Grande.",
+        "Features a high-capacity syncrolift for dry-docking vessels.",
+        "Established in 1982 to serve the mid-Atlantic maritime traffic.",
+        "Primary shipyard for the maintenance of Cape Verde's ferry fleet.",
+        "Provides specialized engineering and repair for international ships.",
+        "Critical for the national economy and maritime sector development.",
+        "One of the largest industrial employers on Sao Vicente Island.",
+        "Strengthens Mindelo's status as a regional maritime hub."
+      ]
+    },
+    {
+      "id": "ceris-brewery-praia-economic-v2",
+      "descriptionAdvanced": "CERIS (Cervejaria e Refrigerantes das Ilhas) is Cape Verde's leading producer of beer and soft drinks, located in the Achada Grande Industrial Zone of Praia. Established in the 1980s, the brewery produces the nation's most famous beer, Strela, which has become a cultural icon and is exported to various countries. The facility uses modern technology and international quality standards to produce a wide range of beverages under license, including world-renowned brands. CERIS is one of the largest and most successful private industrial enterprises in the country, contributing significantly to the national GDP and providing hundreds of jobs. It also plays a key role in the local economy through its extensive distribution network that reaches every island in the archipelago.",
+      "factsAdvanced": [
+        "Largest brewery and soft drink producer in Cape Verde.",
+        "Main facility located in the industrial zone of the capital, Praia.",
+        "Produces the iconic Strela beer, a national symbol of Cape Verde.",
+        "Operates under international standards and produces global brands.",
+        "Major industrial employer and contributor to the national economy.",
+        "Established in the 1980s and continuously modernized.",
+        "Features an extensive distribution network across all inhabited islands.",
+        "Significant exporter of beverages to the African and European markets."
+      ]
+    },
+    {
+      "id": "windfarm-gouveia-economic-v2",
+      "descriptionAdvanced": "The Gouveia Wind Farm, located on the island of Santiago near the capital city of Praia, is a landmark project in Cape Verde's ambitious transition to renewable energy. This facility, part of one of the largest wind energy projects in Africa when it was completed, features several high-capacity turbines perched on a windswept plateau. It significantly reduces the nation's historical reliance on expensive imported fossil fuels for electricity generation. The project was realized through a public-private partnership and is a key component of the national strategy to reach 50% renewable energy by 2030. The wind farm not only provides clean, sustainable power to thousands of homes and businesses in Praia but also serves as a model for green energy development in small island developing states.",
+      "factsAdvanced": [
+        "One of the largest wind energy facilities on Santiago Island.",
+        "Key component of Cape Verde's 50% renewable energy target by 2030.",
+        "Reduces national dependence on imported fossil fuels.",
+        "Located on a strategic, high-wind plateau near Praia.",
+        "Features modern, high-efficiency wind turbine technology.",
+        "Developed through a major international public-private partnership.",
+        "Significantly lowers the carbon footprint of the capital city.",
+        "Provides clean electricity to the island's main power grid."
+      ]
+    },
+    {
+      "id": "windfarm-selada-flamengo-economic-v2",
+      "descriptionAdvanced": "The Selada Flamengo Wind Farm is a major renewable energy installation located in the mountainous interior of Sao Vicente Island. Positioned in a natural wind corridor where trade winds are accelerated by the island's topography, the facility generates a substantial portion of the island's electricity. This project, along with similar installations on other islands, has positioned Cape Verde as a regional leader in sustainable energy. The wind farm's turbines are a prominent feature of the landscape and represent the country's commitment to climate resilience and economic sustainability. By harnessing the consistent Atlantic winds, Selada Flamengo helps stabilize energy prices and provides a reliable, clean power source for the cultural capital, Mindelo, and its surrounding communities.",
+      "factsAdvanced": [
+        "Major wind energy producer on the island of Sao Vicente.",
+        "Harnesses consistent trade winds in a natural mountain corridor.",
+        "Significantly contributes to the power supply of Mindelo.",
+        "Reduces the island's fuel consumption for power generation.",
+        "Part of a nationwide network of clean energy projects.",
+        "Strategic asset for the island's economic and environmental goals.",
+        "Features specialized turbines designed for high-wind island environments.",
+        "Strengthens Cape Verde's reputation as a green energy pioneer."
+      ]
+    },
+    {
+      "id": "frescomar-factory-economic-v2",
+      "descriptionAdvanced": "Frescomar is a state-of-the-art fish processing and canning factory located in the Lazareto industrial area of Mindelo, on Sao Vicente Island. It is one of the most important industrial enterprises in the country, processing thousands of tons of tuna, mackerel, and other fish caught in the nutrient-rich waters surrounding the archipelago. The factory operates under strict European Union health and quality standards, allowing its products to be exported to international markets, particularly to Europe. Frescomar is a vital employer in Mindelo, providing thousands of jobs, especially for women, and supporting the local artisanal and semi-industrial fishing fleets. Its success is a key driver of the blue economy in Cape Verde, adding value to the nation's most abundant natural resource.",
+      "factsAdvanced": [
+        "Leading fish canning and processing facility in Cape Verde.",
+        "Located in the Lazareto industrial zone of Mindelo, Sao Vicente.",
+        "Major industrial employer with thousands of local staff.",
+        "Produces high-quality canned tuna and mackerel for export.",
+        "Operates under strict international and EU quality certifications.",
+        "Primary purchaser for the local semi-industrial fishing fleet.",
+        "Essential component of Cape Verde's 'Blue Economy' strategy.",
+        "Exports the majority of its production to European markets."
+      ]
+    },
+    {
+      "id": "desalination-plant-palmarejo-economic-v2",
+      "descriptionAdvanced": "The Palmarejo Desalination Plant, located on the coast of Praia, is a critical piece of infrastructure for the survival and growth of the capital city. Given Cape Verde's arid climate and the scarcity of natural freshwater sources on Santiago Island, this facility uses advanced reverse osmosis technology to convert seawater into high-quality drinking water. The plant supplies a significant majority of the water consumed by Praia's rapidly growing population of over 150,000 residents, as well as by its businesses and hospitals. Continuous investments and expansions have been made to increase its capacity and efficiency, often integrating renewable energy to lower operational costs. The facility is a vital safeguard against drought and is fundamental to the city's public health and economic development.",
+      "factsAdvanced": [
+        "Primary source of potable water for the capital city, Praia.",
+        "Utilizes advanced reverse osmosis technology to treat seawater.",
+        "Critical infrastructure for a city with very limited rainfall.",
+        "Provides water to over 150,000 residents and local industries.",
+        "Continuous expansion has kept pace with rapid urban growth.",
+        "Managed by ELECTRA, the national water and power utility.",
+        "Increasingly powered by nearby renewable energy sources.",
+        "Essential for public health and maintaining the city's hygiene."
+      ]
+    },
+    {
+      "id": "achada-grande-industrial-economic-v2",
+      "descriptionAdvanced": "The Achada Grande Industrial Zone, located on a plateau near the port and airport of Praia, is the primary industrial and commercial hub of Santiago Island. This sprawling area houses a diverse range of enterprises, including beverage production, construction companies, logistics warehouses, and food processing plants. It is the center of the island's modern economy, benefiting from its strategic proximity to the Port of Praia and Nelson Mandela International Airport. The zone is home to some of the country's largest private employers and is a magnet for foreign direct investment. Ongoing infrastructure improvements aim to make it a world-class business environment, supporting the nation's goals of industrial diversification and job creation for its young urban population.",
+      "factsAdvanced": [
+        "Main industrial and commercial zone of the capital city, Praia.",
+        "Strategically located between the main port and the airport.",
+        "Home to major national companies like the CERIS brewery.",
+        "Hub for logistics, manufacturing, and food processing.",
+        "Primary site for industrial employment on Santiago Island.",
+        "Significant concentration of foreign and local business investment.",
+        "Features modern infrastructure for telecommunications and power.",
+        "Critical for the diversification of the Cape Verdean economy."
+      ]
+    },
+    {
+      "id": "lazareto-industrial-economic-v2",
+      "descriptionAdvanced": "The Lazareto Industrial Zone is the main center for manufacturing and logistics on the island of Sao Vicente, located on the outskirts of Mindelo. This zone is particularly focused on maritime-related industries, taking advantage of its proximity to the Porto Grande harbor. It houses significant enterprises such as the Frescomar fish cannery, as well as construction material suppliers, fuel storage terminals, and repair workshops. Lazareto is a vital engine for the island's economy, providing essential services to the maritime sector and creating thousands of industrial jobs. The area is also a focus for the development of the 'Blue Economy' in Cape Verde, with new projects aimed at increasing the value of marine resources and strengthening the island's position as a regional industrial hub.",
+      "factsAdvanced": [
+        "Principal industrial area of Mindelo and Sao Vicente Island.",
+        "Major focus of the maritime-related 'Blue Economy' sector.",
+        "Home to large-scale enterprises like the Frescomar cannery.",
+        "Center for fuel storage, logistics, and heavy manufacturing.",
+        "Provides thousands of industrial jobs to the local population.",
+        "Strategically located near the deepest natural port in the country.",
+        "Key hub for the supply of construction and industrial materials.",
+        "Essential for the economic development of the northern islands."
+      ]
+    },
+    {
+      "id": "solar-plant-palmarejo-economic-v2",
+      "descriptionAdvanced": "The Palmarejo Solar Plant, located in the capital city of Praia, is one of Cape Verde's flagship renewable energy projects. Utilizing the archipelago's abundant sunshine, the facility consists of thousands of photovoltaic panels that contribute clean electricity directly to the Santiago Island power grid. This plant was one of the first large-scale solar installations in the country and represents a significant step toward energy independence and environmental sustainability. By generating power during peak daytime hours, it helps meet the high demand of the capital while reducing the need for diesel-powered generators. The project serves as a clear demonstration of the viability of solar energy in West Africa and is a cornerstone of the national plan to transform Cape Verde into a green economy.",
+      "factsAdvanced": [
+        "Leading large-scale solar power facility in the capital city.",
+        "Harnesses Cape Verde's high annual solar radiation levels.",
+        "Contributes significantly to the Santiago Island electricity grid.",
+        "Reduces carbon emissions and the use of imported fossil fuels.",
+        "Part of the national strategy for energy independence.",
+        "Uses advanced photovoltaic technology for maximum efficiency.",
+        "Demonstrates the sustainability of solar power for island nations.",
+        "Strategically located near major urban consumption centers."
+      ]
+    },
+    {
+      "id": "grogue-distillery-paul-economic-v2",
+      "descriptionAdvanced": "The Grogue distilleries in the Paul Valley of Santo Antao Island represent the heart of Cape Verde's traditional artisanal industry. In this lush and fertile valley, sugarcane is harvested by hand and processed using centuries-old 'trapiches'—traditional mills often powered by oxen. The juice is fermented and then distilled in copper pot stills to produce Grogue, the nation's famous sugarcane spirit. These distilleries are not only economic engines for the local farmers but also vital preservers of the island's cultural heritage. The Grogue from Paul is widely considered to be among the finest in the archipelago due to the high quality of the local cane and the traditional, chemical-free production methods. In recent years, efforts have been made to certify and export this unique spirit to international markets.",
+      "factsAdvanced": [
+        "Traditional center for the production of the national spirit, Grogue.",
+        "Located in the most fertile sugarcane-growing region of the country.",
+        "Uses traditional 'trapiches' (ox-driven mills) and copper stills.",
+        "Sustainably produced using organic sugarcane and local water.",
+        "Vital economic activity for hundreds of small-scale farmers.",
+        "Preserves centuries-old artisanal techniques and cultural heritage.",
+        "Paul Grogue is highly prized for its purity and unique flavor.",
+        "Key attraction for culinary and cultural tourism on the island."
+      ]
+    },
+    {
+      "id": "fuel-terminal-mindelo-economic-v2",
+      "descriptionAdvanced": "The Fuel Terminal of Mindelo is a critical strategic asset located in the Porto Grande harbor on Sao Vicente Island. It serves as the primary storage and distribution hub for petroleum products in the northern region of Cape Verde, supplying the needs of power plants, aircraft, and maritime vessels. The terminal handles the arrival of large tankers and ensures a steady supply of gasoline, diesel, and aviation fuel for the archipelago. Given Mindelo's status as a major Atlantic coaling and now refueling station, the terminal is essential for international shipping that stops in the archipelago. It is managed with high safety and environmental standards and is fundamental to the nation's energy security and the continuous operation of its transport and industrial sectors.",
+      "factsAdvanced": [
+        "Primary fuel storage and distribution hub for the northern islands.",
+        "Located in the strategic Porto Grande harbor of Mindelo.",
+        "Handles the import and transshipment of petroleum products.",
+        "Vital for the operation of the island's power plants and airport.",
+        "Supplies international maritime vessels with refueling services.",
+        "Equipped with modern safety and environmental protection systems.",
+        "Essential infrastructure for the nation's energy security.",
+        "Managed by the national petroleum company, ENACOL."
+      ]
+    },
+    {
+      "id": "estadio-nacional-landmarks-v2",
+      "descriptionAdvanced": "The Estadio Nacional de Cabo Verde is the country's premier sporting venue, located on the outskirts of the capital city, Praia. Opened in 2014, the stadium has a capacity of approximately 15,000 spectators and was built with international cooperation to meet FIFA standards. It serves as the home ground for the Cape Verde national football team, known as the 'Tubaroes Azuis' (Blue Sharks), whose international success has made the stadium a symbol of national pride. Beyond football, the facility is designed for athletics and other major cultural events, featuring a modern synthetic track and high-quality amenities. The stadium's iconic architecture and its role in hosting international competitions make it a central landmark in the nation's modern landscape.",
+      "factsAdvanced": [
+        "Largest and most modern sports stadium in Cape Verde.",
+        "Official home ground of the 'Blue Sharks' national football team.",
+        "Opened in 2014 with a capacity of 15,000 spectators.",
+        "Built to FIFA international standards for football and athletics.",
+        "Located in the Monte Vaca area on the northern edge of Praia.",
+        "Symbol of national athletic achievement and sporting pride.",
+        "Hosts major international matches and cultural performances.",
+        "Features a high-quality synthetic athletics track and modern lighting."
+      ]
+    },
+    {
+      "id": "farol-ponta-temerosa-landmarks-v2",
+      "descriptionAdvanced": "The Farol da Ponta Temerosa is an iconic lighthouse situated on the southern tip of the Plateau in the capital city, Praia. Established in 1881 during the Portuguese colonial era, it has guided countless ships safely into the Port of Praia for over 140 years. The lighthouse is characterized by its white octagonal tower and its position on a rocky promontory overlooking the Atlantic Ocean and the nearby Ilheu de Santa Maria. While it remains a vital navigational aid, the lighthouse and the surrounding area have also become a popular destination for locals and tourists alike, offering some of the best panoramic views of the city's coastline and harbor. It stands as a historic sentinel, marking the entrance to the nation's most important commercial center.",
+      "factsAdvanced": [
+        "Historic lighthouse guiding ships into Praia harbor since 1881.",
+        "Located on a strategic rocky point at the southern end of the city.",
+        "Features a distinctive 13-meter tall white octagonal tower.",
+        "Offers panoramic views of the Atlantic and the Port of Praia.",
+        "Significant landmark of the Portuguese colonial maritime heritage.",
+        "Managed by the national maritime authority for navigation safety.",
+        "A popular spot for sunset viewing and coastal walks in the capital.",
+        "Historically vital for the safety of the transatlantic shipping routes."
+      ]
+    },
+    {
+      "id": "monumento-diogo-gomes-landmarks-v2",
+      "descriptionAdvanced": "The Monument of Diogo Gomes is a prominent historical landmark located at the southern tip of the Plateau, the historic center of Praia. The statue honors the Portuguese explorer Diogo Gomes, who is credited with the European discovery of the island of Santiago in 1460. Cast in bronze, the monument stands on a high pedestal overlooking the harbor and the Atlantic Ocean, symbolizing the archipelago's historical ties to the Age of Discovery. The site is a popular gathering point for visitors, offering breathtaking views and serving as a gateway to the capital's colonial-era administrative district. It is a key stop for those exploring the city's history and its origins as one of the first European settlements in the tropics.",
+      "factsAdvanced": [
+        "Statue honoring the Portuguese explorer who discovered Santiago in 1460.",
+        "Located at a scenic viewpoint on the edge of the Plateau district.",
+        "Overlooks the harbor and the historic Ilheu de Santa Maria.",
+        "Cast in bronze and mounted on a large decorative pedestal.",
+        "One of the most photographed historical monuments in the capital.",
+        "Symbolizes the beginning of the European presence in the archipelago.",
+        "Surrounded by a small plaza with views of the southern coastline.",
+        "Central landmark in the historic district of the city of Praia."
+      ]
+    },
+    {
+      "id": "camara-municipal-praia-landmarks-v2",
+      "descriptionAdvanced": "The Camara Municipal de Praia is the administrative seat of the capital's local government, located in a grand 19th-century building on the Praca Alexandre Albuquerque. This neoclassical structure is one of the most important architectural landmarks in the historic Plateau district, featuring a balanced facade and elegant proportions that reflect the city's colonial heritage. As the center of municipal power, it plays a vital role in the daily life and governance of Cape Verde's largest city. The building is situated on the city's main square, surrounded by other historical institutions, and its presence underscores the Plateau's status as the political and administrative heart of the nation. It remains a symbol of the city's long-standing institutional history and its evolution into a modern capital.",
+      "factsAdvanced": [
+        "Seat of the local government for the city of Praia.",
+        "Located on the historic Praca Alexandre Albuquerque in the Plateau.",
+        "Elegant 19th-century building with neoclassical architecture.",
+        "Central landmark in the capital's administrative and political district.",
+        "Features a distinctive facade that characterizes the city's heritage.",
+        "Surrounded by other key institutions like the Cathedral and Justice Palace.",
+        "Plays a major role in the urban management and planning of Praia.",
+        "A well-preserved example of Portuguese colonial administrative design."
+      ]
+    },
+    {
+      "id": "assembleia-nacional-landmarks-v2",
+      "descriptionAdvanced": "The Assembleia Nacional of Cape Verde is the seat of the nation's legislative power, located in a modern and imposing building in the Achada Santo Antonio district of Praia. This architectural landmark is a symbol of the country's commitment to democracy and its sovereignty as an independent nation. The building's design features grand halls and a distinctive parliamentary chamber where the elected representatives of all the islands meet to debate and pass national laws. Situated on a prominent hill, it overlooks the capital and is surrounded by major government ministries and foreign embassies. The National Assembly is not only a functional political institution but also a site of significant state ceremonies and a powerful symbol of the unified voice of the Cape Verdean people.",
+      "factsAdvanced": [
+        "Seat of the legislative branch of the Cape Verdean government.",
+        "Located in the modern administrative district of Achada Santo Antonio.",
+        "Imposing modern architectural landmark in the capital city.",
+        "Symbol of the nation's democracy and post-independence sovereignty.",
+        "Home to the parliamentary debates and law-making processes.",
+        "Features a large plenary hall for the assembly of representatives.",
+        "Situated on a hill with views over the city of Praia.",
+        "Hosts major state functions and international diplomatic events."
+      ]
+    }
+  ]
+}

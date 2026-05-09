@@ -1,0 +1,334 @@
+{
+  "lang": "hu",
+  "country": "argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "volcan-domuyo-relief-v2",
+      "descriptionAdvanced": "A Neuquén tartomány északi részén található Domuyo-vulkán 4709 méteres magasságával Patagónia legmagasabb pontja, ezért gyakran Patagónia tetejének is nevezik. Bár geológiai értelemben vulkán, alakja nem a tipikus kúpszerű formát mutatja, hanem inkább egy hatalmas hegytömbnek tűnik. A Domuyo környéke rendkívül aktív geotermikus terület, amely híres számos hőforrásáról, fumaroláiról és gejzírjeiről, mint például a Las Olletas termálterület. A hegy megmászása komoly kihívást jelent, elsősorban az extrém erős szél és a terep elszigeteltsége miatt. A csúcsról lenyűgöző panoráma nyílik az Andok láncaira, egészen a chilei vulkánokig. Az érintetlen természet és a kiépített turisztikai infrastruktúra hiánya miatt a tapasztalt hegymászók és kalandkeresők számára igazi titkos tippnek számít.",
+      "factsAdvanced": [
+        "Patagónia legmagasabb hegycsúcsa 4709 méteres magassággal.",
+        "Neuquén tartomány északi részén, a Cordillera del Viento vonulatban fekszik.",
+        "Neve a mapuche nyelvből származik, jelentése remegés.",
+        "Híres a Las Olletas geotermikus terület gejzírjeiről.",
+        "Geológiailag egy hatalmas vulkáni komplexum részének tekintik.",
+        "Európaiak általi első megmászása csak 1903-ban történt meg.",
+        "Vulkáni eredete ellenére nincs klasszikus kráterformája."
+      ]
+    },
+    {
+      "id": "cerro-mercedario-relief-v2",
+      "descriptionAdvanced": "A 6720 méter magas Cerro Mercedario az Andok egyik legmonumentálisabb hegycsúcsa, és a San Juan tartományban található Cordillera de la Ramada vonulat legmagasabb pontja. Bár gyakran az Aconcagua árnyékában marad, a hegymászók körében Argentína egyik legizgalmasabb és technikailag is érdekesebb kihívásának tartják. A régiót rendkívül száraz éghajlat és hatalmas gleccserek jellemzik, mint például a Mercedario-gleccser. A környéken talált inka szentélyek romjai bizonyítják, hogy a hegy már a kolumbusz előtti időkben is spirituális jelentőséggel bírt. A modern korban elsőként egy lengyel expedíció hódította meg 1934-ben, új útvonalat nyitva a keleti falon. Ma a Mercedario azon alpinisták célpontja, akik csendre és elszigeteltségre vágynak, távol az Aconcagua túlzsúfolt ösvényeitől.",
+      "factsAdvanced": [
+        "A Cordillera de la Ramada legmagasabb pontja 6720 méterrel.",
+        "Körülbelül 100 kilométerre északra fekszik a híresebb Aconcaguától.",
+        "Első modern megmászása 1934-ben egy lengyel expedíció nevéhez fűződik.",
+        "A közelében fontos inka régészeti lelőhelyeket fedeztek fel.",
+        "Hatalmas gleccserek borítják San Juan tartomány szárazsága ellenére.",
+        "Legfontosabb alaptábora általában a Pirca de Polacos.",
+        "Amerika tíz legmagasabb hegycsúcsa közé tartozik."
+      ]
+    },
+    {
+      "id": "volcan-maipo-relief-v2",
+      "descriptionAdvanced": "A Maipo-vulkán egy lenyűgöző rétegvulkán az argentin-chilei határon, amely fenségesen magasodik a Mendoza tartományban található Laguna del Diamante fölé. Az 5264 méter magas hegy szinte tökéletes kúp alakjával tűnik ki, ami a Középső-Andok egyik legfotogénebb vulkánjává teszi. A Maipo egy hatalmas kalderában, a Diamante-medencében található, amely körülbelül 450 000 évvel ezelőtt alakult ki masszív kitörések következtében. A környező táj egy kietlen, de színes magashegyi sivatag, amely csak a nyári hónapokban látogatható. A vulkán tükröződése a Laguna del Diamante mélykék vizében világhírű természeti látványosság. A terület természetvédelmi oltalom alatt áll, és védett guanakó-populációnak, valamint andoki kondoroknak ad otthont.",
+      "factsAdvanced": [
+        "Stratégiai elhelyezkedés közvetlenül az argentin-chilei határon.",
+        "Csúcsmagassága 5264 méter a tengerszint felett.",
+        "A hatalmas Diamante-kaldera nyugati peremén fekszik.",
+        "Lábánál 3300 méteres magasságban terül el a Laguna del Diamante.",
+        "Utolsó kisebb kitörését 1912-ben jegyezték fel.",
+        "A mendozai Laguna del Diamante természetvédelmi terület része.",
+        "Világszerte a rétegvulkánok egyik legszebb példájának tartják."
+      ]
+    },
+    {
+      "id": "cerro-bonete-chico-relief-v2",
+      "descriptionAdvanced": "A gyakran csak Cerro Bonete néven említett Cerro Bonete Chico 6759 méteres magasságával a Föld egyik legmagasabb kialudt vulkánja, és Argentína negyedik legmagasabb hegye. A távoli La Rioja tartományban található, a Puna rendkívül száraz és szélfútta fennsíkjának közepén. A régiót erős vulkáni tevékenység formálta, és itt találhatók a világ legmagasabb csúcsai közül többen is, köztük az Ojos del Salado. Az extrém magasság és a nehéz logisztikai feltételek miatt a hegyet viszonylag ritkán másszák meg. A Bonete körüli tájat színes kőzetrétegek, sós síkságok és elszigetelt magashegyi tavak jellemzik, mint például a Laguna Brava. Az éghajlati viszonyok rendkívüli kihívást jelentenek, a fagypont alatti hőmérséklet és az orkán erejű szél még a profi hegymászók számára is kockázatossá teszi a túrát.",
+      "factsAdvanced": [
+        "Argentína negyedik legmagasabb csúcsa 6759 méterrel.",
+        "La Rioja tartomány északi részén, Catamarca határához közel fekszik.",
+        "Kialudt vulkán a rendkívül száraz Puna régióban.",
+        "Csak 1971-ben sikerült először sikeresen megmászni.",
+        "A Laguna Brava természetvédelmi terület körüli hegytömb része.",
+        "Az extrém szárazság miatt alig található rajta állandó jégsapka.",
+        "Az egész Andok egyik legelszigeteltebb hegymasszívuma."
+      ]
+    },
+    {
+      "id": "tupungato-relief-v2",
+      "descriptionAdvanced": "A Tupungato egy hatalmas, kialudt rétegvulkán a Középső-Andokban, amely az argentin Mendoza tartomány és a chilei fővárosi régió határát jelöli. 6570 méteres magasságával a déli félteke egyik legmagasabb hegye, és uralja az Aconcaguától délre eső panorámát. A hegyet szinte teljesen gleccserek borítják, és jellegzetes jégsapkája már messziről jól látható. Geológiai szempontból a Tupungato az andoki vulkanizmus utolsó fázisában keletkezett. Első megmászása a svájci Matthias Zurbriggen nevéhez fűződik 1897-ben, mindössze néhány hónappal az Aconcaguán elért sikere után. A Tupungato körüli terület ma fontos természetvédelmi terület, amely élőhelyet biztosít a ritka andoki kondornak és különböző magashegyi teveféléknek.",
+      "factsAdvanced": [
+        "Az Aconcaguától délre eső Középső-Andok legmagasabb hegye (6570 m).",
+        "Határhegy Argentína és Chile között Mendoza tartományban.",
+        "Matthias Zurbriggen mászta meg először 1897. április 12-én.",
+        "Hatalmas jégmezővel és több aktív gleccserrel rendelkezik.",
+        "Neve valószínűleg a huarpe őslakosok nyelvéből ered.",
+        "Fontos jelkép Mendoza és Santiago de Chile városai számára.",
+        "Az időjárás hirtelen változásai miatt az egyik legnehezebb 6000-es csúcs."
+      ]
+    },
+    {
+      "id": "incahuasi-relief-v2",
+      "descriptionAdvanced": "A Nevado de Incahuasi egy masszív rétegvulkán az argentin Catamarca tartomány és a chilei Atacama régió határán. 6621 méteres magasságával az Andok óriásai közé tartozik, és a híres 6000-esek régiójában fekszik. Az Incahuasi név kecsua nyelven az inka házát jelenti, ami a hegy spirituális jelentőségére utal az inka civilizáció számára. A csúcson szertartási helyek maradványait találták meg, amivel az Incahuasi a világ egyik legmagasabban fekvő régészeti lelőhelye. A környéket extrém szárazság jellemzi, ami bizarr sziklaalakzatokhoz és szinte holdbéli tájhoz vezet. A szélsőséges körülmények ellenére a technikai útvonalak és a történelmi jelentőség minden évben vonzzák a hegymászókat, akik a Puna magányát keresik.",
+      "factsAdvanced": [
+        "6621 méteres csúcsmagasság a chilei határ mentén.",
+        "Az Incahuasi név kecsua nyelven Inka-házat jelent.",
+        "Fontos inka romokat és régészeti leleteket találtak a csúcson.",
+        "A Catamarca tartománybeli Paso de San Francisco hágó közelében fekszik.",
+        "Az amerikai kontinens tizenkét legmagasabb csúcsa közé tartozik.",
+        "A modern korban Walther Penck mászta meg először 1913-ban.",
+        "Az extrém szárazság megakadályozza a nagy gleccserek kialakulását."
+      ]
+    },
+    {
+      "id": "cerro-galan-relief-v2",
+      "descriptionAdvanced": "A Cerro Galán egy monumentális vulkáni masszívum az argentin Catamarca tartományban, amely elsősorban hatalmas kalderájáról ismert, amelyet a világ egyik legnagyobbikaként tartanak számon. A kaldera átmérője körülbelül 35 kilométer, és mintegy 2,2 millió évvel ezelőtt jött létre a földtörténet egyik leghatalmasabb kitörése során. A beomlott kráter közepén emelkedik a Cerro Galán tényleges csúcsa 5912 méteres magasságba. A kalderán belüli táj szürreális, itt található a Laguna Diamante, egy rendkívül sós és lúgos tó, amelyben flamingók és speciális mikroorganizmusok élnek túl. Az elszigeteltség és az extrém magassági viszonyok miatt a terület a Puna egyik legérintetlenebb pontja, amely csak speciális terepjárókkal és helyi vezetéssel érhető el biztonságosan.",
+      "factsAdvanced": [
+        "A világ egyik legnagyobb vulkáni kalderájával rendelkezik (35 km átmérő).",
+        "A hegytömb legmagasabb pontja 5912 méterrel a tengerszint felett van.",
+        "Körülbelül 2,2 millió évvel ezelőtt egy szuperkitörés során alakult ki.",
+        "A kráter belsejében található a sós Laguna Diamante tó.",
+        "Fontos kutatási terület az extrém élőhelyek (extremofilek) számára.",
+        "Catamarca tartomány barátságtalan Puna-fennsíkján fekszik.",
+        "A kaldera olyan hatalmas, hogy csak az űrből ismerték fel teljes egészében."
+      ]
+    },
+    {
+      "id": "cerro-tres-cruces-relief-v2",
+      "descriptionAdvanced": "A Nevado Tres Cruces egy hatalmas vulkáni masszívum Argentína és Chile határán, amely három jellegzetes főcsúcsból áll. A legmagasabb, a Tres Cruces Sur lenyűgöző 6748 méteres magasságot ér el, ezzel a déli félteke egyik legmagasabb hegye. A tömb a száraz Atacama-régióban és az argentin Catamarca tartományban fekszik. Megmászása az extrém szárazság, a hideg és az erős szél miatt fizikailag nagyon megterhelőnek számít. A környéket kiterjedt sivatagi területek, sós tavak és a közeli Ojos del Salado, a Föld legmagasabb vulkánja jellemzi. A Tres Cruces markáns tájékozódási pont a Punában, és a világ egyik legkevésbé felfedezett magashegyi területének része, amely kietlen szépségével és geológiai dinamizmusával nyűgözi le a látogatót.",
+      "factsAdvanced": [
+        "Három főcsúcsból áll, a legmagasabb pontja 6748 méter.",
+        "Catamarca és a chilei Atacama régió határán található.",
+        "Az amerikai kontinens hatodik legmagasabb hegye.",
+        "A chilei oldalon a Nevado Tres Cruces Nemzeti Park része.",
+        "Első megmászása 1937-ben egy lengyel expedícióhoz kötődik.",
+        "Vulkáni eredetű, több kráterrel és lávafolyással rendelkezik.",
+        "Az extrém szárazság miatt csak csekély hó borítja a csúcsokat."
+      ]
+    },
+    {
+      "id": "sierras-de-cordoba-relief-v2",
+      "descriptionAdvanced": "A Sierras de Córdoba egy középhegység Argentína központjában, amely éles kontrasztot alkot a Pampa lapos síkságaival. Ez az ősi hegység három párhuzamos láncból áll – a Sierras Chicas, a Sierras Grandes és a Sierras de Pocho –, és geológiailag sokkal idősebb, mint az Andok. A régió kellemes mikroklímájáról, mély völgyeiről és kristálytiszta patakjairól ismert. Legmagasabb pontja a 2790 méter magas Cerro Champaquí. A Sierras változatos növény- és állatvilágnak ad otthont, köztük az endemikus tabaquillo fának. Argentína számára a hegység az egyik legfontosabb belföldi turisztikai célpont, amely híres túrázási, lovaglási és siklóernyőzési lehetőségeiről. Olyan települések, mint Villa General Belgrano vagy La Cumbrecita, a közép-európai bevándorlók hatását tükrözik ebben a festői hegyi tájban.",
+      "factsAdvanced": [
+        "Három párhuzamos láncból áll Argentína szívében.",
+        "Legmagasabb csúcsa a Cerro Champaquí (2790 m).",
+        "Geológiailag sokkal idősebb, mint az Andok fiatal lánchegységei.",
+        "Córdoba tartomány legfontosabb turisztikai régiója.",
+        "Itt található a Quebrada del Condorito Nemzeti Park.",
+        "Az endemikus Polylepis erdő (tabaquillo) hazája.",
+        "Fontos víztározó terület a környező Pampa-régiók számára."
+      ]
+    },
+    {
+      "id": "sierras-de-la-ventana-relief-v2",
+      "descriptionAdvanced": "A Sierras de la Ventana egy markáns hegytömb Buenos Aires tartomány délnyugati részén, amely szigetként emelkedik ki a Pampa síkságából. Nevét egy természetes sziklaalakzatról, a Ventanáról (ablak) kapta, amely egy körülbelül kilenc méter magas nyílás a Cerro Ventana kőzetében. Geológiailag a Ventania-rendszerhez tartoznak, és Argentína legidősebb kőzeteiből épülnek fel, amelyek több mint 500 millió évesek. Legmagasabb csúcsa az 1239 méteres Cerro Tres Picos. A Sierras éles kontrasztot mutat a környező alfölddel, és egyedülálló növény- és állatvilágnak ad otthont, köztük endemikus hüllőfajoknak. A terület a túrázók és természetbarátok kedvelt célpontja, akik vállalkoznak az Ablak-sziklához vezető mászásra, ahonnan messzire el lehet látni Buenos Aires tartomány végtelen búzatáblái felett.",
+      "factsAdvanced": [
+        "Nevét a hegységben található természetes ablak szerű sziklanyílásról kapta.",
+        "Legmagasabb csúcsa a Cerro Tres Picos (1239 m).",
+        "A geológiailag igen idős Ventania-rendszerhez tartozik.",
+        "Körülbelül 550 kilométerre délnyugatra fekszik Buenos Aires városától.",
+        "Főként paleozoikumi üledékes kőzetekből épül fel.",
+        "Fontos védett terület az Ernesto Tornquist Parkon belül.",
+        "Egyedülálló élőhelye az endemikus Ventana-smaragdgyíknak."
+      ]
+    },
+    {
+      "id": "sistema-de-tandilia-relief-v2",
+      "descriptionAdvanced": "A Tandilia-rendszer egy hegylánc Buenos Aires tartományban, amely körülbelül 350 kilométeren át húzódik Olavarríától egészen Mar del Platáig. A világ egyik legősibb geológiai formációjáról van szó, amelynek kőzetei helyenként több mint kétmilliárd évesek. Ellentétben a szaggatott Andokkal, a Tandilia-hegyek lágyan hullámzó dombokból és lapos fennsíkokból állnak, amelyek ritkán haladják meg az 500 méteres magasságot. Legmagasabb pontja a 524 méteres Cerro La Juanita. Tandil városa körüli régió híres kőbányáiról, de mezőgazdaságáról, valamint sajt- és kolbászgyártásáról is. Turisztikai szempontból a rendszer túraútvonalairól, sziklamászási lehetőségeiről és a mozgó kő (Piedra Movediza) történetéről ismert, amely egykor a régió jelképe volt, mielőtt 1912-ben lezuhant volna.",
+      "factsAdvanced": [
+        "Dél-Amerika egyik legidősebb geológiai képződménye.",
+        "350 kilométer hosszan nyúlik el Buenos Aires tartomány délkeleti részén.",
+        "Kőzeteinek kora eléri a 2,2 milliárd évet.",
+        "Legmagasabb pontja a Cerro La Juanita (524 m).",
+        "Híres Tandil városáról és a legendás Piedra Movediza szikláról.",
+        "Főként gránitból, gneiszből és kvarckavicsból áll.",
+        "Természetes gátat képez a nedves Pampa közepén."
+      ]
+    },
+    {
+      "id": "quebrada-de-humahuaca-relief-v2",
+      "descriptionAdvanced": "A Quebrada de Humahuaca egy mély, színpompás völgy az északnyugat-argentin Jujuy tartományban, amely a Río Grande mentén több mint 150 kilométeren keresztül húzódik. A szurdok világhírű látványos geológiai formációiról, mindenekelőtt a Purmamarca melletti Hét szín hegyéről (Cerro de los Siete Colores). A völgy évezredek óta természetes összeköttetésként szolgál az andoki fennsíkok és az alacsonyabban fekvő völgyek között, ami jelentős kulturális és gazdasági útvonallá tette. A Quebrada számos történelmi falunak ad otthont, ahol koloniális építészet és kolumbusz előtti romok, például a Pucará de Tilcara láthatók. A természeti csodák és a gazdag kulturális örökség egyedülálló kombinációja miatt 2003-ban az UNESCO a világörökség részévé nyilvánította. Az élő tradíciók, ünnepségek és az andoki konyha a mai napig meghatározzák az életet ebben a varázslatos völgyben.",
+      "factsAdvanced": [
+        "2003 óta UNESCO Világörökség a kultúrtáj kategóriában.",
+        "155 kilométer hosszan húzódik a Río Grande de Jujuy mentén.",
+        "Itt található a híres Cerro de los Siete Colores Purmamarcában.",
+        "Az ősi inka úthálózat (Qhapaq Ñan) fontos része volt.",
+        "Legfontosabb települései Humahuaca, Tilcara, Maimará és Purmamarca.",
+        "A régió több mint 10 000 éve lakott terület.",
+        "Híres a színes karneváljáról és az andoki zenei hagyományokról."
+      ]
+    },
+    {
+      "id": "valles-calchaquies-relief-v2",
+      "descriptionAdvanced": "A Valles Calchaquíes lenyűgöző szépségű régió Északnyugat-Argentínában, amely Salta, Catamarca és Tucumán tartományokon húzódik keresztül. Az elágazó völgyrendszert vöröses sziklaalakzatok, mély szurdokok és zöld oázisok jellemzik, ahol a gyarmati idők óta bortermelés folyik. Cafayate városa különösen híres Torrontés borairól. Geológiailag a völgyek olyan formációkkal nyűgöznek le, mint a Quebrada de las Conchas vagy a Las Flechas (Nyilak) sziklái. Történelmileg a völgyek a calchaquí indiánok spanyol hódítókkal szembeni ellenállásának központjai voltak, amiről a Quilmes romjai a mai napig tanúskodnak. A száraz, napos éghajlat, a koloniális építészet és a látványos 40-es főút kombinációja a Valles Calchaquíes-t egész Dél-Amerika egyik legvonzóbb úticéljává teszi.",
+      "factsAdvanced": [
+        "Salta, Tucumán és Catamarca tartományokra terjed ki.",
+        "A régió legmagasabb pontja a Nevado de Cachi (6380 m).",
+        "Cafayate a bortermelés központja (Torrontés fajtáról ismert).",
+        "Itt találhatók a Quilmes romjai, az egyik legnagyobb inka lelőhely.",
+        "A híres 40-es főút a völgyek leglátványosabb részein halad át.",
+        "Bizar sziklaalakzatok jellemzik a Quebrada de las Conchas területét.",
+        "Egyedülálló száraz mikroklíma, évente több mint 300 napsütéses nappal."
+      ]
+    },
+    {
+      "id": "meseta-patagonica-relief-v2",
+      "descriptionAdvanced": "A Patagóniai-fennsík egy hatalmas, lépcsőzetes fennsík, amely Dél-Argentína nagy részét elfoglalja az Andok és az Atlanti-óceán között. Ezt a száraz sztyeppei tájat vízszintes üledékrétegek és kiterjedt bazaltfennsíkok jellemzik, amelyeket egykori folyók mély völgyei (cañadones) szakítanak meg. Az éghajlat zord, kevés csapadékkal és állandó, erős nyugati széllel, ami a növényzetet alacsony cserjékre és füvekre korlátozza. A kietlen megjelenés ellenére a fennsík létfontosságú a juhszektornak, amely a régió hagyományos gazdasági alapja. Geológiailag fosszíliákban és ásványkincsekben, például kőolajban és földgázban gazdag. A végtelen messzeség és a tiszta égbolt melankolikus szépséget kölcsönöz a fennsíknak, amely elkíséri az utazót déli irányba Chubut és Santa Cruz tartományokon keresztül.",
+      "factsAdvanced": [
+        "Lépcsőzetes táblahegyvidék, amely az Andoktól az Atlanti-óceán felé lejt.",
+        "Száraz sztyeppei növényzet és erős szelek jellemzik.",
+        "Az argentin gyapjútermelés (juhszektor) legfontosabb területe.",
+        "Gazdag paleontológiai lelőhelyekben és megkövesedett erdőkben.",
+        "Jelentős kőolaj- és földgázkészletek az üledékes medencékben.",
+        "Mély, száraz völgyek, úgynevezett cañadonok szelik át.",
+        "Területe meghaladja a 600 000 négyzetkilométert."
+      ]
+    },
+    {
+      "id": "puna-de-atacama-relief-v2",
+      "descriptionAdvanced": "A Puna de Atacama egy rendkívül száraz, hideg és ritkán lakott fennsík a Középső-Andokban, amely Északnyugat-Argentína és Észak-Chile egyes részeit foglalja magában. 4000 méteres átlagos magasságban a Puna szürreális tájat kínál hatalmas sós síkságokkal (salares), türkizkék lagúnákkal és tökéletes formájú vulkáni kúpokkal. A levegő itt olyan tiszta és száraz, hogy a távolságokat gyakran alábecsülik. Az extrém UV-sugárzás és a nappali és éjszakai hőmérséklet közötti drasztikus különbségek miatt csak specializálódott állatok, például vikunyák, flamingók és pumák élhetnek meg itt. Az ember számára a Punában való élet nagy kihívás, de az érintetlen természet és az abszolút csend misztikus kisugárzású hellyé teszi. Gazdaságilag a régió a sós tavakban található hatalmas lítiumkészletek révén válik egyre jelentősebbé.",
+      "factsAdvanced": [
+        "A fennsík átlagos magassága körülbelül 4500 méter.",
+        "Hatalmas sós tavaknak ad otthont, mint például a Salar de Arizaro.",
+        "Az amerikai kontinens legalacsonyabb páratartalmú régiója.",
+        "A világ legfontosabb lítiumbányászati területe (Lítium-háromszög).",
+        "Veszélyeztetett vikunyák és három flamingófaj élőhelye.",
+        "Olyan óriási vulkánok formálják, mint a Llullaillaco vagy a Socompa.",
+        "A szélsőséges körülmények a NASA Mars-járóinak teszthelyszínéül szolgáltak."
+      ]
+    },
+    {
+      "id": "canon-de-talampaya-relief-v2",
+      "descriptionAdvanced": "A La Rioja tartományban található Talampaya Nemzeti Parkban fekvő Talampaya-kanyon geológiai csoda, és az UNESCO Világörökség része. A látványos szurdok mélyvörös homokkőből álló, akár 150 méter magas, függőleges falai lenyűgözőek. Ezek a formációk évmilliók alatt alakultak ki az erózió hatására, és betekintést nyújtanak a földtörténet triász időszakába. A lenyűgöző geológia mellett Talampaya régészeti kincseiről is ismert, köztük az őslakosok számos petroglifájáról (sziklarajzáról). Híres formációit, mint például A katedrálist vagy A szerzetest, a szél véste a kőbe. A szomszédos Ischigualasto parkkal együtt Talampaya a világ egyik legjelentősebb dinoszaurusz-fosszília lelőhelyét alkotja, és lenyűgöző módon meséli el a kontinensek kialakulásának történetét.",
+      "factsAdvanced": [
+        "2000 óta az Ischigualastóval együtt az UNESCO Világörökség része.",
+        "Függőleges vörös homokkő falai elérik a 140 méteres magasságot.",
+        "Fontos lelőhelye a triász időszakból származó fosszíliáknak.",
+        "Híres az A katedrális formációban tapasztalható visszhangról.",
+        "Értékes kolumbusz előtti sziklarajzokat (petroglifákat) őriz.",
+        "A nemzeti park területe körülbelül 215 000 hektár.",
+        "A Talampaya név kacán nyelven a Tala-fa száraz folyóját jelenti."
+      ]
+    },
+    {
+      "id": "yungas-relief-v2",
+      "descriptionAdvanced": "A Yungas egy keskeny, nedves, szubtrópusi hegyi esőerdő övezet, amely az Andok keleti lejtőin húzódik Északnyugat-Argentínában. Ezek a köderdők drámai kontrasztot alkotnak a száraz Punával, és az Atlanti-óceán felől érkező nedves szelek táplálják őket, amelyek a hegyeknél felemelkednek és lehűlnek. A Yungas az ország egyik legfajgazdagabb ökoszisztémája, jaguároknak, tapíroknak és több mint 500 madárfajnak ad otthont. A növényzet rendkívül sűrű, óriási fákkal, páfrányokkal és epifitákkal. A régió egyben létfontosságú víztározó is, amely ivóvízzel látja el a mezőgazdasági hasznosítású völgyeket. Olyan védett területek, mint a Calilegua vagy az El Rey Nemzeti Park őrzik Argentína ezen zöld tüdejét, amely meredek lejtőivel és állandó felhőképződésével misztikus hangulatot áraszt.",
+      "factsAdvanced": [
+        "Szubtrópusi hegyi erdők az Andok-vonulatok keleti lejtőin.",
+        "Argentína egyik legmagasabb biodiverzitású területe.",
+        "A veszélyeztetett jaguár utolsó menedékhelye északnyugaton.",
+        "400 métertől több mint 3000 méteres magasságig terjed.",
+        "Nedves éghajlat jellemzi, évente akár 2500 mm csapadékkal.",
+        "Legfontosabb védett területe a Jujuy tartománybeli Calilegua Nemzeti Park.",
+        "A régió zöld tüdejeként és legfontosabb víztározójaként működik."
+      ]
+    },
+    {
+      "id": "el-impenetrable-relief-v2",
+      "descriptionAdvanced": "El Impenetrable egy hatalmas erdőség Északkelet-Argentínában, amely főként Chaco tartományra terjed ki, és a Gran Chaco része. Neve, Az áthatolhatatlan, a tüskés cserjékből, quebracho fákból és kaktuszokból álló rendkívül sűrű növényzetre utal, amely szinte lehetetlenné teszi az áthaladást. Erre az ökoszisztémára a nyári extrém hőség és a hosszú száraz időszakok jellemzőek. Dél-Amerika egyik utolsó nagy vadonja, amely olyan veszélyeztetett fajoknak nyújt élőhelyet, mint a sörényes farkas, a sörényes hangyász és az óriás tatu. Kulturálisan a régió szorosan kötődik a wichí és qom őslakos közösségekhez, akik évszázadok óta harmóniában élnek ezzel a kihívást jelentő erdővel. Ma El Impenetrable-t nemzeti park védi, hogy megakadályozzák a fakitermelés és a mezőgazdaság okozta pusztítást.",
+      "factsAdvanced": [
+        "Észak-Argentína legnagyobb összefüggő erdős területe.",
+        "Körülbelül 4 millió hektárt foglal el Chaco tartományban.",
+        "A rendkívül kemény fájú quebracho (baltaszaggató) fa hazája.",
+        "2014-ben nyilvánították nemzeti parkká (kb. 128 000 hektár).",
+        "Argentína legmagasabb mért hőmérsékletű régiója.",
+        "A wichí és qom közösségek fontos menedékhelye.",
+        "Több mint 300 madárfajnak és ritka emlősöknek ad otthont."
+      ]
+    },
+    {
+      "id": "quebrada-de-las-conchas-relief-v2",
+      "descriptionAdvanced": "A Quebrada de las Conchas, más néven Quebrada de Cafayate, egy látványos folyóvölgy Salta tartományban, amely világhírű bizarr, intenzív vörösen izzó sziklaalakzatairól. A szurdokot évmilliók alatt formálta a Río de las Conchas, miközben a szél és a víz olyan szobrokat alkotott, mint az Amfiteátrum, az Ördögtorok (Garganta del Diablo) vagy A vár (El Castillo). A kőzetrétegek túlnyomórészt a krétakorban keletkeztek, és számos tengeri kagyló kövületet tartalmaznak, amiről a völgy a nevét is kapta. A 68-as út közvetlenül ezen a szürreális tájon halad keresztül, összekötve Salta városát Cafayate borfalujával. Különösen az esti fényben mélyvörös és narancssárga árnyalatokban pompáznak a sziklák, ami a Quebradát Argentína egyik legtöbbet fényképezett természeti csodájává teszi.",
+      "factsAdvanced": [
+        "Lenyűgöző vörös sziklaalakzatok Salta tartomány 68-as útja mentén.",
+        "Neve megkövesedett kagylókra (conchas) utal.",
+        "Leghíresebb formációi az Amfiteátrum és az Ördögtorok.",
+        "Tektonikus emelkedések és erózió révén jött létre 90 millió évvel ezelőtt.",
+        "Az Amfiteátrum tökéletes természetes akusztikával rendelkezik.",
+        "Salta tartomány fontos természetvédelmi területe 1995 óta.",
+        "A túrázók, kerékpárosok és tájfotósok kedvelt célpontja."
+      ]
+    },
+    {
+      "id": "cuesta-del-obispo-relief-v2",
+      "descriptionAdvanced": "A Cuesta del Obispo Argentína egyik leglátványosabb hegyi hágója, amely Salta tartományban található. Az út számtalan szerpentinen keresztül kanyarog a termékeny Lerma-völgytől felfelé a Puna kopár magashegyi sivatagáig. Mindössze 20 kilométeres szakaszon több mint 1200 méteres szintkülönbséget küzd le, és a Piedra del Molino-nál éri el legmagasabb pontját 3348 méteren. Neve (Püspök-lejtő) egy püspöktől származik, aki a 17. században egy fáradságos utazás során itt táborozott le. Gyakran sűrű felhők függnek a lejtőkön, ami a mohával borított tájnak titokzatos hangulatot kölcsönöz. A kilátópontokról lélegzetelállító panoráma nyílik a mély szurdokokra és a Valle Encantado (Elvarázsolt völgy) bizarr sziklaalakzataira, amely egyedülálló magashegyi flórájáról ismert.",
+      "factsAdvanced": [
+        "Látványos hágóút több mint 1200 méteres szintkülönbséggel.",
+        "Legmagasabb pontja a Piedra del Molino 3348 méteren.",
+        "Összeköti a Lerma-völgyet a Los Cardones Nemzeti Parkkal.",
+        "Neve Cortázar püspök 1622-es utazásának emlékét őrzi.",
+        "A Cachiba vezető 33-as tartományi út része.",
+        "Híres a bizarr sziklaformájú Valle Encantado völgyről.",
+        "A régiót gyakran sűrű ködfelhők (garúa) borítják."
+      ]
+    },
+    {
+      "id": "meseta-de-somuncura-relief-v2",
+      "descriptionAdvanced": "A Meseta de Somuncurá egy hatalmas, elszigetelt bazaltfennsík Észak-Patagóniában, amely Río Negro és Chubut tartományokra terjed ki. Ez a geológiailag ősrégi régió szigetként hat a patagóniai sztyeppe közepén, és Argentína egyik legkevésbé felfedezett területe. A fennsíkot vulkáni kráterek, mély szurdokok és elszigetelt, csak esővíz által táplált lagúnák jellemzik. Az extrém éghajlati viszonyok és az elszigeteltség miatt számos endemikus állatfaj fejlődött ki itt, mint például a somuncurái meztelenbéka és a somuncurái mojarra (egy halfaj), amelyek sehol máshol nem találhatók meg a világon. A hatalmas, szinte fátlan síkság nyers és végtelen nyugalmat áraszt, ma pedig nagy ökológiai jelentőségű védett természetvédelmi terület.",
+      "factsAdvanced": [
+        "Elszigetelt vulkáni fennsík körülbelül 25 000 km² területtel.",
+        "A Somuncurá név mapuche nyelven követ jelent, ami hangzik.",
+        "Szigorúan endemikus fajok hazája, mint a meztelenbéka.",
+        "Átlagos magassága 1000 és 1400 méter között mozog.",
+        "Vadhurók és guanakók fontos menedékhelye.",
+        "Egész Patagónia egyik legritkábban lakott területe.",
+        "Több száz elszigetelt, időszakos lagúna jellemzi."
+      ]
+    },
+    {
+      "id": "cerro-campanario-relief-v2",
+      "descriptionAdvanced": "A San Carlos de Bariloche közelében található Cerro Campanariót a világ egyik legszebb kilátópontjaként tartják számon. Bár 1049 méteres magasságával inkább csak egy dombnak számít, csúcsáról páratlan, 360 fokos panoráma nyílik az észak-patagóniai tóvidékre. Fentről rálátni a Nahuel Huapi és Moreno mélykék tavaira, a Llao Llao félszigetre, valamint az Andok hófödte csúcsaira, például a Cerro Tronadorra. A National Geographic ezt a kilátást egykor a világ nyolc legjobbja közé sorolta. A csúcs kényelmesen elérhető libegővel vagy egy meredek túraúsvonalon keresztül. Fent egy cukrászda várja a látogatókat, ahol kávé és sütemény mellett élvezhetik a látványt. A Cerro Campanario kötelező látnivaló minden barilochei látogató számára, és az argentin tóvidék fenséges szépségét testesíti meg.",
+      "factsAdvanced": [
+        "1049 méteres csúcsmagasság a Nahuel Huapi-tó partján.",
+        "A National Geographic a világ egyik legjobb kilátópontjává választotta.",
+        "360 fokos panorámát nyújt a Nahuel Huapi Nemzeti Parkra.",
+        "Libegővel mindössze hét perc alatt elérhető a csúcs.",
+        "A csúcsra vezető gyalogút körülbelül 30-45 percet vesz igénybe.",
+        "Rálátás a Cerro Tronador, Cerro Catedral és Cerro López csúcsokra.",
+        "A Circuito Chico, Bariloche klasszikus turistaútvonalának része."
+      ]
+    },
+    {
+      "id": "cerro-catedral-relief-v2",
+      "descriptionAdvanced": "A Cerro Catedral a Bariloche régió leghíresebb hegye, amely Dél-Amerika legnagyobb és legmodernebb síközpontjának ad otthont. Nevét világos gránitból álló, markáns sziklacsúcsairól kapta, amelyek egy gótikus katedrális tornyaira emlékeztetnek. 2405 méteres magasságával télen és nyáron is látványos szabadidős lehetőségeket kínál. A júniustól szeptemberig tartó síszezonban több mint 120 kilométernyi pálya vonzza a téli sportok kedvelőit a világ minden tájáról. Nyáron a hegy a túrázók, sziklamászók és hegyi kerékpárosok paradicsomává válik. A felső állomásokról nyíló kilátás a mélykék Nahuel Huapi-tóra és a környező andoki csúcsokra lélegzetelállító. A Cerro Catedral nemcsak sportközpont, hanem a patagóniai alpesi turizmus jelképe is.",
+      "factsAdvanced": [
+        "A déli félteke legnagyobb síterepe több mint 120 km pályával.",
+        "Neve a csúcson található gótikus jellegű gránittüskékről ered.",
+        "Legmagasabb pontja eléri a 2405 méteres magasságot.",
+        "Mindössze 19 kilométerre fekszik Bariloche városközpontjától.",
+        "Az első sílifteket már az 1930-as években telepítették.",
+        "Számos nemzetközi téli sportverseny helyszíne.",
+        "Több mint 30 lift és felvonó biztosítja az egész éves üzemet."
+      ]
+    },
+    {
+      "id": "monte-san-lorenzo-relief-v2",
+      "descriptionAdvanced": "A Monte San Lorenzo, más néven Cerro Cochrane, egy hatalmas hegymasszívum Argentína és Chile határán, Patagónia déli részén. 3706 méteres magasságával Santa Cruz tartomány legmagasabb hegye és a déli Andok egyik leghatalmasabb csúcsa. A hegyet három óriási gleccserrendszer veszi körül, amelyek minden égtáj felé áramlanak. Elszigetelt elhelyezkedése és a Csendes-óceán felől érkező gyakori viharok miatti rendkívül bizonytalan időjárása miatt a San Lorenzo Patagónia egyik legnehezebb hegymászó kihívásának számít. Az első megmászás 1943-ban a híres szalézi rendi atyának és felfedezőnek, Alberto Maria de Agostininek sikerült. A hegy környéke vad és érintetlen, mély völgyek, zúgó folyók és eredeti természet jellemzi, amelyet csak kevés ember láthat.",
+      "factsAdvanced": [
+        "Santa Cruz tartomány legmagasabb csúcsa 3706 méterrel.",
+        "Hatalmas határhegység Argentína és Chile között.",
+        "Első megmászása 1943-ban Alberto Maria de Agostini nevéhez fűződik.",
+        "Három nagy főgleccserrel rendelkezik, amelyek körbeveszik a tömböt.",
+        "A régió extrém időjárási körülményeiről és erős szeleiről ismert.",
+        "Egész Patagónia egyik legnehezebben megközelíthető hegye.",
+        "A hegy túlnyomórészt gránitból és metamorf kőzetekből áll."
+      ]
+    },
+    {
+      "id": "cerro-champaqui-relief-v2",
+      "descriptionAdvanced": "A Cerro Champaquí 2790 méterével a Sierras de Córdoba legmagasabb pontja és a Traslasierra régió jelképe. A Sierras Grandes láncolatában fekszik, és természetes határt képez a Valle de Calamuchita és a Valle de Traslasierra völgyek között. A csúcsot egy széles fennsík jellemzi, amelyen egy kis, kristálytiszta tó található – ez adta a hegy nevét is (a Champaquí a comechingónok nyelvén füves vizet jelent). A Champaquí megmászása Argentína egyik legnépszerűbb túraútvonala, amely több irányból is megközelíthető. A csúcsról jó időben fantasztikus kilátás nyílik az egész Córdoba tartományra. A flórát tabaquillo erdők és kiterjedt füves területek jellemzik, amelyek számos ragadozó madárnak, például az andoki kondornak szolgálnak vadászterületül.",
+      "factsAdvanced": [
+        "Córdoba tartomány legmagasabb hegye 2790 méteres magassággal.",
+        "A név comechingón nyelven füves vizet jelent.",
+        "A csúcsplatón egy kis tó található.",
+        "Választóvonal a Calamuchita és a Traslasierra völgyek között.",
+        "Közép-Argentína kedvelt trekking és hegyi turisztikai célpontja.",
+        "Endemikus Polylepis erdők (tabaquillo) otthona.",
+        "A csúcson egy kis menedékház található vészhelyzetek esetére."
+      ]
+    }
+  ]
+}

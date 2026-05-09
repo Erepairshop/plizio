@@ -1,0 +1,147 @@
+{
+  "lang": "hu",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "siguiri-cities-v2",
+      "descriptionAdvanced": "Siguiri Felső-Guinea aranybányászatának központja, amely a Niger folyó partján fekszik, nem messze a mali határtól. A város és környéke évszázadok óta híres nemesfémkészleteiről, amelyek már a Mali Birodalom idején is a térség gazdagságát adták. Ma a hagyományos kisüzemi bányászat és a modern ipari kitermelés egyszerre van jelen, meghatározva a tájat és a helyi gazdaságot. A száraz szavannai éghajlat és a folyó közelsége különleges kontrasztot alkot, miközben a város fontos kereskedelmi csomópontként szolgál a Bamako felé vezető úton. Földrajz K8 — ásványkincsek és történelmi kereskedelmi útvonalak.",
+      "factsAdvanced": [
+        "A Niger folyó partján fekvő stratégiai fontosságú határváros.",
+        "Guinea legjelentősebb aranybányászati körzetének központja.",
+        "Történelmileg a középkori Mali Birodalom fontos része volt.",
+        "Lakossága a bányászati boom hatására rendkívül gyorsan növekszik.",
+        "Híres a hagyományos 'djembe' zenéjéről és mandinka kultúrájáról.",
+        "Környékén jelentős köles- és rizstermesztés folyik a folyó mentén.",
+        "A város közelében működik az ország egyik legnagyobb ipari aranybányája.",
+        "Klímiája forró szavannai, hosszú száraz évszakkal."
+      ]
+    },
+    {
+      "id": "telimele-cities-v2",
+      "descriptionAdvanced": "Télimélé városa a Fouta Djallon-hegység és a partmenti síkság találkozásánál fekszik, lenyűgöző hegyvidéki környezetben. A település híres a környező sziklákban található barlangjairól és a látványos vízesésekről, amelyek a Niger és Szenegál folyók vízgyűjtő területéhez tartoznak. A város elszigeteltebb fekvése megőrizte a fula kultúra érintetlenségét és a hagyományos állattartó életmódot. Télimélé fontos oktatási központ is a régióban, miközben a környékbeli völgyekben folyó zöldség- és gyümölctermesztés biztosítja a helyi piacok ellátását. Sachkunde K5 — hegyvidéki életmód és természeti formakincsek.",
+      "factsAdvanced": [
+        "A Fouta Djallon-hegység nyugati peremén helyezkedik el.",
+        "Híres a környező barlangrendszerekről és karsztformációkról.",
+        "A város környéke fontos szarvasmarha-tenyésztő vidék.",
+        "Tengerszint feletti magassága változatos, 400 és 800 méter között.",
+        "A fula (peul) népcsoport egyik fontos kulturális központja.",
+        "Számos látványos vízesés található a település közvetlen közelében.",
+        "Nehezen megközelíthető, de stratégiai út köti össze Bokéval.",
+        "Gazdasága a mezőgazdaságra és a kisüzemi kereskedelemre épül."
+      ]
+    },
+    {
+      "id": "kouroussa-cities-v2",
+      "descriptionAdvanced": "Kouroussa a Niger folyó felső szakaszánál fekvő város, amely világhírnevét Camara Laye 'Az afrikai gyerek' című regényének köszönheti, amely itt játszódik. A település a malinke kultúra szíve, ahol a hagyományos griot történetmesélés és a folyó menti életmód ma is meghatározó. Kouroussa fontos vasúti és közúti átkelőhely, amely összeköti Conakryt az ország belsejével. A szavannai táj és a Niger méltóságteljes folyása egyedülálló atmoszférát kölcsönöz a városnak, amely az irodalmi emlékezet és a nyugat-afrikai identitás fontos bástyája. Sachkunde K4 — irodalmi helyszínek és kulturális örökség.",
+      "factsAdvanced": [
+        "A Niger folyó partján fekszik, amely itt már hajózható kisebb bárkáknak.",
+        "Camara Laye híres író szülővárosa és regényének színhelye.",
+        "A malinke népcsoport egyik legfontosabb kulturális fellegvára.",
+        "Fontos vasúti híd ível át itt a Niger folyó felett.",
+        "A város gazdaságában a halászat és a rizstermesztés dominál.",
+        "Híres az éves hagyományos táncfesztiváljairól és maszkjairól.",
+        "Környéke gazdag vadon élő állatokban és különleges szavannai növényekben.",
+        "Itt találkozik a Conakry-Kankan vasútvonal a folyami közlekedéssel."
+      ]
+    },
+    {
+      "id": "dubreka-cities-v2",
+      "descriptionAdvanced": "Dubréka közvetlenül Conakry szomszédságában fekszik, és a fővárosi agglomeráció egyik legfontosabb kertészeti központja. A város a Soumba-vízesés és a "Le Chien Qui Fume" (Dohányzó Kutya) hegy lábánál terül el, amely nevét különleges, kutyafejre emlékeztető sziklaformációjáról kapta. Dubréka a tengerparti mangroveerdők és a szárazföldi dombok találkozási pontja, ahol a rizstermesztés és a modern szolgáltatóipar egyszerre van jelen. A település népszerű a kirándulók körében, akik a közeli természetvédelmi területek és a kulturális fesztiválok miatt látogatnak ide. Földrajz K7 — városi növekedés és természeti értékek védelme.",
+      "factsAdvanced": [
+        "A híres 'Le Chien Qui Fume' sziklaformáció közelében található.",
+        "Conakry egyik legfontosabb élelmiszer-beszállítója (zöldség és gyümölcs).",
+        "A közeli Soumba-vízesés népszerű turisztikai látványosság.",
+        "Partvidékét kiterjedt mangroveerdők és mocsarak szegélyezik.",
+        "Fontos ipari üzemeknek és raktárbázisoknak ad otthont.",
+        "Itt található a Dubrékai Művészeti és Kulturális Intézet.",
+        "A város a szuszu nép egyik fontos lakóhelye a partvidéken.",
+        "Gyorsan növekvő lakossága mára meghaladja a 150 000 főt."
+      ]
+    },
+    {
+      "id": "boffa-cities-v2",
+      "descriptionAdvanced": "Boffa városa a Fatala folyó torkolatánál, az Atlanti-óceán partján fekszik, és Guinea egyik legrégebbi gyarmati települése. Történelme szorosan kötődik az első keresztény missziókhoz és a rabszolga-kereskedelem elleni harchoz a 19. században. Ma a város a bauxitkivitel újabb központjává vált, köszönhetően a folyó partján épült modern termináloknak. A környékbeli hatalmas kókuszdió-ültetvények és a tengerparti halászat továbbra is fontos részét képezik a helyi identitásnak, miközben a város a hagyomány és az ipari fejlődés határán egyensúlyoz. Sachkunde K3 — élet a tengerparton és a folyók mentén.",
+      "factsAdvanced": [
+        "A Fatala folyó torkolatánál fekvő történelmi kikötőváros.",
+        "Itt alapították az egyik első keresztény missziót Guineában.",
+        "Híres kiterjedt kókuszpálma-ültetvényeiről és pálmaolajáról.",
+        "Az utóbbi években fontos bauxitrakodó kikötővé fejlődött.",
+        "A baga és szuszu népcsoportok kulturális örökségét őrzi.",
+        "Minden évben itt rendezik meg a Saint Joseph búcsút.",
+        "Környéke gazdag mangrovékban és vizes élőhelyekben.",
+        "Klímiája tipikus óceáni trópusi, magas páratartalommal."
+      ]
+    },
+    {
+      "id": "beyla-cities-v2",
+      "descriptionAdvanced": "Beyla az erdős Guinea keleti szélén, a Simandou-hegység lábánál található, és a világ egyik legnagyobb vasércberuházásának kapuja. A város hagyományosan mezőgazdasági központ volt, ahol a dohánytermesztés és az állattenyésztés dominált, de a Simandou-projekt elindulása gyökeresen megváltoztatta a település kilátásait. A környező hegyek nemcsak mérhetetlen ásványkincset rejtenek, hanem különleges ökológiai értékeket is, ritka növény- és állatfajokkal. Beyla a modern ipari fejlődés és a hagyományos vidéki élet találkozási pontja, ahol a jövő gazdasága épül. Földrajz K8 — globális bányászati projektek és társadalmi változások.",
+      "factsAdvanced": [
+        "A hatalmas Simandou vasércprojekt legközelebbi nagy települése.",
+        "Hagyományosan Guinea dohánytermesztésének központja.",
+        "A maninka népcsoport egyik fontos városa a régióban.",
+        "Tengerszint feletti magassága 600-700 méter, dombos vidéken fekszik.",
+        "Környéke gazdag legelőkben, ami kedvez az állattenyésztésnek.",
+        "A város infrastruktúrája jelentős fejlesztésen megy át a bányászat miatt.",
+        "Fontos kereskedelmi kapu az elefántcsontparti határ felé.",
+        "Klímiája nedves szavannai, bőséges nyári esőkkel."
+      ]
+    },
+    {
+      "id": "dabola-cities-v2",
+      "descriptionAdvanced": "Dabola Guinea földrajzi középpontjában fekszik, ott, ahol a Fouta Djallon-hegyvidék és a szavanna találkozik. A város stratégiai jelentőségét a Conakry-Kankan vasútvonal és a Tinkisso folyó vízesése adja, amely az ország egyik első vízerőművének ad otthont. Dabola híres mezőgazdasági feldolgozóiparáról, különösen az olajos magvakból készült termékeiről. A város kulturális olvasztótégely, ahol a fula és a malinke hagyományok keverednek, létrehozva egy barátságos és dinamikus közösséget a guineai fennsíkon. Földrajz K8 — energiaforrások és feldolgozóipar.",
+      "factsAdvanced": [
+        "Gyakran nevezik Guinea földrajzi középpontjának.",
+        "Itt található a Tinkisso-vízesés és egy fontos vízerőmű.",
+        "Híres az olajosmag-feldolgozó üzeméről (földimogyoró, pálmaolaj).",
+        "Fontos vasúti csomópont a Conakry-Kankan vonalon.",
+        "Tengerszint feletti magassága körülbelül 450 méter.",
+        "A fula és malinke kultúrák találkozási pontja.",
+        "Piacán a hegyvidéki és szavannai termékek egyaránt megtalálhatók.",
+        "Klímiája átmeneti, forró száraz és nedves évszakokkal."
+      ]
+    },
+    {
+      "id": "dinguiraye-cities-v2",
+      "descriptionAdvanced": "Dinguiraye egy szent város Guinea északi részén, amely az El Hadj Umar Tall által alapított Tukulór Birodalom spirituális központjaként vált ismertté a 19. században. A város híres nagy mecsetjéről, amely Nyugat-Afrika egyik legfontosabb iszlám építészeti emléke és zarándokhelye. A település szigorúan őrzi vallási hagyományait és építészeti örökségét, miközben a környező szavannákon az állattenyésztés és az aranymosás jelenti a lakosság fő bevételi forrását. Dinguiraye a hit és a történelem városa, ahol az idő mintha megállt volna a vályogfalak között. Geschichte K8 — iszlám államok és birodalmak Nyugat-Afrikában.",
+      "factsAdvanced": [
+        "El Hadj Umar Tall alapította a 19. század közepén.",
+        "Itt található a híres Dinguiraye-i nagymecset, amely zarándokhely.",
+        "A Tukulór Birodalom egykori fővárosa és spirituális központja.",
+        "Vallási jelentősége miatt különleges tisztelet övezi Guineában.",
+        "Környékén jelentős kisüzemi aranybányászat folyik.",
+        "Építészetére a hagyományos vályogépítészet jellemző.",
+        "A város északi részén kiterjedt szavannai legelők találhatók.",
+        "Minden évben nagy vallási ünnepségeket tartanak itt."
+      ]
+    },
+    {
+      "id": "gaoual-cities-v2",
+      "descriptionAdvanced": "Gaoual városa Guinea északnyugati részén, a szenegáli és bissau-guineai határ közelében fekszik, egy vadregényes, dombos vidéken. A település hagyományosan fontos állattenyésztő központ, de az elmúlt években a felfedezett bauxitkészletek és az aranyláz a figyelem középpontjába emelték. Gaoual környéke természeti szépségekben gazdag, ahol a szavanna és a galériaerdők váltják egymást, menedéket nyújtva számos vadon élő állatnak. A város a fula kultúra és a távoli határvidék életérzését ötvözi, ahol a nomád hagyományok ma is a mindennapok részét képezik. Sachkunde K5 — határ menti régiók és természeti erőforrások.",
+      "factsAdvanced": [
+        "Közel fekszik a szenegáli és a bissau-guineai határhoz.",
+        "A fula (peul) pásztorok egyik fontos északi központja.",
+        "Híres a környéken folyó intenzív szarvasmarha-tenyésztésről.",
+        "Az utóbbi időben jelentős bauxit- és aranylelőhelyeket tártak fel.",
+        "A tájat dombok és a Szenegál-folyó vízgyűjtőjéhez tartozó patakok uralják.",
+        "A város fontos állatpiaccal rendelkezik a régióban.",
+        "Klímiája szélsőséges: nagyon forró száraz évszak jellemzi.",
+        "A terület a Niokolo-Koba nemzeti park ökológiai folyosójának része."
+      ]
+    },
+    {
+      "id": "kerouane-cities-v2",
+      "descriptionAdvanced": "Kérouané városa a Milo folyó völgyében, Felső-Guinea keleti részén fekszik, és történelmileg Samori Touré Wassoulou Birodalmának egyik legfontosabb erődítménye volt. A város híres a környékén található gyémántlelőhelyekről, amelyek évtizedek óta vonzzák a szerencsevadászokat és a kereskedőket. A hegyvidéki környezet és a folyó közelsége termékeny földet biztosít a mezőgazdasághoz is, de a település arculatát és gazdaságát elsősorban a drágakövek határozzák meg. Kérouané a hősies múlt és a csillogó kincsek városa, ahol a történelem és a geológia kéz a kézben jár. Geschichte K8 — ellenállás a gyarmatosítás ellen és természeti kincsek.",
+      "factsAdvanced": [
+        "Samori Touré egyik legfontosabb katonai bázisa és erődje volt.",
+        "Híres kiváló minőségű gyémántjairól, amelyeket a környéken bányásznak.",
+        "A Milo folyó mentén fekszik, festői hegyvidéki környezetben.",
+        "Tengerszint feletti magassága meghaladja az 500 métert.",
+        "A maninka népcsoport egyik történelmi központja.",
+        "Környékén jelentős kávé- és rizstermesztés is folyik.",
+        "A várost gyakran emlegetik a 'gyémántok városaként'.",
+        "Klímiája nedves szavannai, kellemesebb éjszakai hőmérsékletekkel."
+      ]
+    }
+  ]
+}

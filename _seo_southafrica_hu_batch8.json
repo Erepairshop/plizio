@@ -1,0 +1,48 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "green-point-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A fokvárosi Green Point világítótorony, amelyet gyakran Mouille Point világítótoronyként is emlegetnek, Dél-Afrika legrégebbi működő világítótornya. Az 1824-ben épült, jellegzetes fekete-fehér csíkos torony a Table Bay hajózási útvonalának biztonságát szolgálta évszázadokon keresztül. Ma a torony a város egyik leghangulatosabb tengerparti nevezetessége, amely a fokvárosi tengerparti sétány szerves része, és egyben betekintést enged a régió tengerészeti történelmébe, a környék pedig népszerű rekreációs terület a helyiek és turisták számára egyaránt.",
+      "factsAdvanced": [
+        "Dél-Afrika legrégebbi működő világítótornya.",
+        "1824-ben épült.",
+        "Jellegzetes fekete-fehér csíkos mintázat.",
+        "A Table Bay hajózási útvonalát segítette.",
+        "Fokváros egyik leghangulatosabb tengerparti pontja.",
+        "A tengerparti sétány népszerű része.",
+        "Fontos tengerészeti történelmi emlék."
+      ]
+    },
+    {
+      "id": "cape-columbine-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A Cape Columbine világítótorony a nyugati part (West Coast) drámai és sziklás vidékén, Paternoster közelében helyezkedik el. Ez volt az utolsó világítótorony, amelyet emberi jelenléttel működtettek Dél-Afrikában, mielőtt teljesen automatizálták volna a rendszerét. A hatalmas sziklák tetején álló, magányos torony lélegzetelállító kilátást nyújt az Atlanti-óceánra, és a környék vadregényes természeti szépsége miatt a természetkedvelők és fotósok körében is rendkívül népszerű látványosság, amely a régió tengeri örökségét őrzi.",
+      "factsAdvanced": [
+        "Az utolsó emberi működtetésű világítótorony volt az országban.",
+        "A West Coast vadregényes szikláin fekszik.",
+        "Paternoster közelében található.",
+        "Panorámás kilátás az Atlanti-óceánra.",
+        "Teljesen automatizált működés.",
+        "A régió természeti szépségének szimbóluma.",
+        "Fotósok és természetkedvelők kedvenc pontja."
+      ]
+    },
+    {
+      "id": "durban-city-hall-landmarks-v2",
+      "descriptionAdvanced": "Durban Városháza (City Hall) egy neobarokk stílusú építészeti remekmű, amelyet a 20. század elején, 1910-ben adtak át. Az épület a belváros központi részén található, lenyűgöző kupolájával, díszes homlokzatával és tágas központi termével a város adminisztrációjának és kulturális életének központja. A Városháza nemcsak a kormányzati feladatokat látja el, hanem otthont ad a városi múzeumnak, a közkönyvtárnak és egy koncertteremnek is, így Durban történelmi és társadalmi életének elválaszthatatlan része maradt.",
+      "factsAdvanced": [
+        "1910-ben átadott neobarokk épület.",
+        "A belváros központi közigazgatási és kulturális épülete.",
+        "Magában foglalja a múzeumot, könyvtárat és koncerttermet.",
+        "Lenyűgöző kupolás szerkezet és díszes homlokzat.",
+        "Durban egyik legfontosabb építészeti mérföldköve.",
+        "Történelmi és társadalmi központ.",
+        "A gyarmati időszak építészetének szép példája."
+      ]
+    }
+  ]
+}

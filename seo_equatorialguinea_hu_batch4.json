@@ -2,31 +2,333 @@
   "lang": "hu",
   "country": "equatorialguinea",
   "files": [
-    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraEquatorialguineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLifeV2.ts"
   ],
   "items": [
     {
-      "id": "riaba-cities-v2",
-      "descriptionAdvanced": "Riaba egy kisebb, történelmi jelentőségű város Bioko szigetének keleti részén, amely egykor a mezőgazdasági export egyik központja volt. A város elhelyezkedése lehetővé teszi a környező vulkanikus tájak és a partvidék könnyű megközelítését, ami kedvez a lassú turizmus fejlődésének. Riaba atmoszférája csendes, tükrözi a sziget múltbeli gyarmati és agrárfejlődését, és jó példa a biokói életmód konzerválására. A település környékén számos trópusi növénytermesztési projekt valósult meg az évtizedek során. Tanterv: Földrajz K6, Történelem K8.",
+      "id": "sipopo-congress-center-landmarks-v2",
+      "descriptionAdvanced": "A Sipopo Konferencia-központ Egyenlítői-Guinea egyik legmodernebb és legexkluzívabb diplomáciai létesítménye, amely Bioko szigetének északi partján, Malabo közelében található. Az épületkomplexumot kifejezetten az Afrikai Unió 2011-es csúcstalálkozójára építették, és azóta számos nemzetközi konferenciának, elnöki találkozónak és kulturális eseménynek adott otthont. A központ építészete futurisztikus, elegáns üvegfelületekkel és tágas csarnokokkal, amelyek az Atlanti-óceánra néznek. Sipopo területe egyfajta diplomáciai városnegyeddé vált, luxusszállodákkal, villákkal és egy privát tengerparttal, amely az ország modern és nyitott arcát mutatja meg a világnak. A létesítmény magas szintű biztonsági és technikai felszereltséggel rendelkezik. Tanterv: Társadalomismeret K7, Politika K8.",
       "factsAdvanced": [
-        "Bioko szigetének keleti részén található.",
-        "Történelmi mezőgazdasági központ.",
-        "Könnyű hozzáférés a vulkanikus tájakhoz.",
-        "Csendes, hagyományos biokói városka.",
-        "Kiemelkedő szerepet játszott az agrárexportban.",
-        "A sziget kulturális örökségének része."
+        "Malabo mellett, Sipopo üdülőövezetében található.",
+        "Kifejezetten nemzetközi diplomáciai csúcstalálkozókra tervezték.",
+        "Modern konferenciatermei több ezer delegált fogadására alkalmasak.",
+        "Az épület környékén 52 luxusvilla épült az afrikai államfők számára.",
+        "A központ közvetlen tengerparti kapcsolattal és helikopter-leszállóval bír.",
+        "A belső terekben modern afrikai művészeti alkotások láthatók.",
+        "Strategiai fontosságú helyszín az afrikai sport- és gazdasági diplomáciában."
       ]
     },
     {
-      "id": "baney-cities-v2",
-      "descriptionAdvanced": "Baney Bioko szigetének északi részén, a fővárostól nem messze található, és fontos szerepet játszik az északi tartomány ellátásában. A település környezete termékeny, vulkanikus talajon alapuló intenzív növénytermesztésre alkalmas, különösen a banán és más trópusi gyümölcsök tekintetében. Baney a Malabóhoz való közelsége miatt fontos elővárosi jellegű településsé vált, ahol a mezőgazdaság mellett a kereskedelem is meghatározó. A város fejlődése szorosan összekapcsolódik a sziget északi részének gazdasági növekedésével. Tanterv: Földrajz K6, Gazdaságtan K7.",
+      "id": "grand-hotel-djibloho-landmarks-v2",
+      "descriptionAdvanced": "A Grand Hotel Djibloho egy monumentális luxusszálloda és konferencia-központ az épülő új főváros, Ciudad de la Paz (korábban Djibloho) szívében, a trópusi esőerdő közepén. Ez a lenyűgöző építmény az ország modernizációjának és a belső területek fejlesztésének egyik leglátványosabb jelképe. A szálloda nemzetközi színvonalú szolgáltatásokat kínál, beleértve egy hatalmas golfpályát, wellness-központot és elegáns éttermeket, egyedülálló kontrasztot alkotva a körülötte elterülő érintetlen természettel. Djibloho fejlődése során a hotel vált a közigazgatási és üzleti élet egyik fő találkozópontjává. Az épület belső építészete a luxus és az afrikai motívumok modern ötvözete, amely a legmagasabb igényeket is kielégíti. Tanterv: Földrajz K6, Gazdaság K8.",
       "factsAdvanced": [
-        "Bioko sziget északi részén fekszik.",
-        "Termékeny, vulkanikus talajú régió.",
-        "Központja a banántermesztésnek.",
-        "Malabo közelsége miatt fontos előváros.",
-        "A mezőgazdaság és kereskedelem ötvözete.",
-        "A sziget gazdasági növekedésének egyik motorja."
+        "Djibloho tartományban, az épülő új fővárosban található.",
+        "Az ország egyik legnagyobb és legfényűzőbb szállodakomplexuma.",
+        "Környezetében 18 lyukú nemzetközi golfpálya található.",
+        "A szálloda belső tereit márvány és egzotikus faanyagok díszítik.",
+        "Fontos helyszíne a kormányzati szintű tárgyalásoknak és konferenciáknak.",
+        "Közvetlen közelében folyik a Wele-folyó.",
+        "A projekt célja a turizmus és az üzleti élet fellendítése a szárazföld belsejében."
+      ]
+    },
+    {
+      "id": "cathedral-of-bata-landmarks-v2",
+      "descriptionAdvanced": "A Batai Székesegyház (Catedral de Santiago y Nuestra Señora del Pilar) a szárazföldi régió legfontosabb katolikus temploma, amely Bata központjában található. Az épület spanyol gyarmati stílusban épült, fehér falaival és jellegzetes tornyaival meghatározó eleme a városképnek. A székesegyház nemcsak vallási szempontból jelentős, hanem történelmi emlékként is, amely tanúskodik Bata növekedéséről a 20. század során. A templom belseje békés atmoszférát áraszt, díszes oltáraival és vallási festményeivel a hívők és a látogatók kedvelt helyszíne. A székesegyház előtti tér a városi élet egyik fő színtere, ahol a nagy egyházi ünnepeken tömegek gyűlnek össze a közös imádságra. Tanterv: Művészettörténet K7, Vallásismeret K8.",
+      "factsAdvanced": [
+        "A Batai egyházmegye püspöki székhelye.",
+        "Spanyol koloniális építészeti stílusban készült.",
+        "Bata történelmi és közigazgatási központjának szívében fekszik.",
+        "Híres a jó állapotban megőrzött fa oltárképeiről.",
+        "A templom homlokzatát két szimmetrikus harangtorony díszíti.",
+        "A 20. század közepén fejezték be az építését.",
+        "Fontos zarándokhely a szárazföldi régió keresztényei számára."
+      ]
+    },
+    {
+      "id": "martyrs-7m-monument-landmarks-v2",
+      "descriptionAdvanced": "A 7M Mártírok Emlékműve Batában egy megrendítő és fontos történelmi emlékhely, amelyet a 2021. március 7-i tragikus robbanások áldozatainak tiszteletére emeltek. A Nkoantoma katonai bázison történt baleset súlyos károkat okozott a városban, és az emlékmű a nemzet gyászát, ugyanakkor az összefogást és az újjáépítés erejét is jelképezi. Az emlékmű modern és méltóságteljes stílusa lehetőséget ad az elcsendesedésre és az emlékezésre. A helyszín a batai lakosok számára a bátorság és a szolidaritás szimbólumává vált, ahol minden évben megemlékeznek az áldozatokról. Az emlékpark a város fejlődésének és a biztonság iránti elkötelezettségnek is mementót állít. Tanterv: Történelem K7, Társadalomismeret K8.",
+      "factsAdvanced": [
+        "Bata városában található, a 2021-es robbanások helyszínének közelében.",
+        "Az ország egyik legújabb és legfontosabb kegyeleti helyszíne.",
+        "Az áldozatok neveit és az esemény dátumát hirdeti az emlékmű.",
+        "Az emlékmű körül parkosított területet alakítottak ki.",
+        "A nemzeti egység és az újjáépítés jelképe a tragédia után.",
+        "Március 7-e azóta nemzeti emléknap lett a városban.",
+        "A kormány és a lakosság közös gyászának állít emléket."
+      ]
+    },
+    {
+      "id": "unge-campus-malabo-landmarks-v2",
+      "descriptionAdvanced": "Az Egyenlítői-guineai Nemzeti Egyetem (UNGE) malabói campusa az ország legfontosabb felsőoktatási központja. Az egyetem központi épületei a gyarmati és a modern építészet keverékét mutatják, tágas belső udvarokkal és modern előadótermekkel. Az intézmény kulcsszerepet játszik az ország jövőbeli értelmiségének és szakembereinek képzésében, különböző karokkal a jogtól az orvostudományig. A campus pezsgő diákélete és tudományos tevékenysége Malabo intellektuális szívévé teszi a területet. Az egyetem folyamatosan bővül, új laboratóriumok és könyvtárak épülnek, tükrözve a kormányzat oktatásba vetett hitét. A campus kertjei és közösségi terei fontos találkozási pontok a fiatal generációk számára. Tanterv: Oktatás K8, Társadalomismeret K7.",
+      "factsAdvanced": [
+        "A Universidad Nacional de Guinea Ecuatorial (UNGE) fő campusa.",
+        "Malabo városában, központi helyen található.",
+        "Az 1990-es években alapították a korábbi oktatási intézmények egyesítésével.",
+        "Számos nemzetközi együttműködési programban vesz részt (főleg spanyol egyetemekkel).",
+        "A campuson található az ország egyik legjelentősebb tudományos könyvtára.",
+        "Több ezer hallgató tanul itt különböző szakokon.",
+        "Az egyetemi épületek egy része régi koloniális stílusban maradt meg."
+      ]
+    },
+    {
+      "id": "gepetrol-headquarters-landmarks-v2",
+      "descriptionAdvanced": "A GEPetrol székháza Malabóban az ország gazdasági erejének és az olajszektor dominanciájának egyik leglátványosabb építészeti megnyilvánulása. Az állami olajvállalat modern székháza Malabo II negyedében található, amely a főváros új, modern üzleti központja. Az épület futurisztikus megjelenése, acél és üveg homlokzata a technológiai fejlődést és a nemzetközi üzleti életbe való integrációt jelképezi. A székház nemcsak irodáknak ad otthont, hanem fontos döntéshozatali központ is, ahol az ország legértékesebb természeti kincsének, a kőolajnak a kitermelését és értékesítését koordinálják. A környéken számos más nemzetközi vállalat és bank székháza is megtalálható, Malabo II-t igazi modern metropolisszá téve. Tanterv: Gazdaság K8, Építészet K9.",
+      "factsAdvanced": [
+        "A GEPetrol állami kőolajvállalat központi épülete Malabóban.",
+        "Malabo II modern üzleti negyedében helyezkedik el.",
+        "Modern, futurisztikus építészeti stílus jellemzi.",
+        "Az ország gazdasági növekedésének egyik legfontosabb szimbóluma.",
+        "Magas szintű technológiai és biztonsági rendszerekkel van felszerelve.",
+        "Közel található más kormányzati épületekhez és nemzetközi szervezetekhez.",
+        "Az épület környékén modern parkolókat és sétányokat alakítottak ki."
+      ]
+    },
+    {
+      "id": "ngolo-conference-center-landmarks-v2",
+      "descriptionAdvanced": "A Ngolo Konferencia-központ Bata legfontosabb rendezvényhelyszíne és modern építészeti látványossága a szárazföldi régióban. A központ Bata északi részén található, és célja, hogy magas színvonalú helyszínt biztosítson nemzeti és nemzetközi találkozók, kormányzati konferenciák és kulturális események számára. Az épület elegáns, modern vonalvezetése és tágas belső terei tükrözik Bata városának fejlődését és az ország decentralizációs törekvéseit. A Ngolo központ fontos szerepet játszik a szárazföldi régió üzleti és diplomáciai életének fellendítésében, lehetőséget adva nagyszabású rendezvények lebonyolítására Malabón kívül is. A létesítményt gondozott kertek és modern infrastruktúra veszi körül. Tanterv: Társadalomismeret K7, Gazdaság K8.",
+      "factsAdvanced": [
+        "Bata városának legmodernebb konferencia-létesítménye.",
+        "A szárazföldi régió diplomáciai és üzleti eseményeinek központja.",
+        "Modern audiovizuális technológiával felszerelt termekkel rendelkezik.",
+        "Számos regionális csúcstalálkozó helyszíne volt.",
+        "Az épületkomplexum Bata fejlődő északi zónájában található.",
+        "Tágas recepciós terekkel és VIP-helyiségekkel rendelkezik.",
+        "A központ hozzájárul Bata nemzetközi láthatóságának növeléséhez."
+      ]
+    },
+    {
+      "id": "pico-basile-tower-landmarks-v2",
+      "descriptionAdvanced": "A Pico Basilé csúcsán található torony és kommunikációs központ Egyenlítői-Guinea egyik legmagasabb pontján, 3011 méter magasságban helyezkedik el. A torony stratégiai fontosságú az ország távközlése és műsorszórása szempontjából, mivel innen sugározzák a jeleket Bioko szigetének nagy részére és a szárazföld felé is. Az építmény mellett található egy kis kápolna és egy Szűz Mária-szobor is, ami zarándokhellyé teszi a csúcsot. A Pico Basilére vezető szerpentines út mentén a trópusi esőerdő fokozatosan adja át helyét a hegyi vegetációnak, a toronytól pedig tiszta időben ellátni egészen a kameruni partokig. A helyszín a modern technológia és a fenséges természet különleges találkozási pontja. Tanterv: Technológia K7, Földrajz K8.",
+      "factsAdvanced": [
+        "A Pico Basilé vulkán legmagasabb pontján, 3011 méteren található.",
+        "Az ország távközlési és televíziós hálózatának központi tornya.",
+        "A csúcson egy Szűz Mária-szobor és egy kis kápolna is áll.",
+        "Páratlan panoráma nyílik innen Malabóra és az Atlanti-óceánra.",
+        "A torony gyakran felhőkbe burkolózik a nagy magasság miatt.",
+        "Kizárólag engedéllyel látogatható katonai és stratégiai övezet.",
+        "A toronyhoz vezető út az ország egyik leglátványosabb hegyi szakasza."
+      ]
+    },
+    {
+      "id": "ccem-malabo-landmarks-v2",
+      "descriptionAdvanced": "A Malabói Spanyol Kulturális Központ (CCEM) a főváros egyik legaktívabb és legfontosabb kulturális intézménye. A központ célja a spanyol nyelv és kultúra ápolása, valamint a helyi egyenlítői-guineai művészek támogatása és bemutatása. Az épület modern és barátságos, könyvtárral, kiállítótermekkel és egy szabadtéri színpaddal rendelkezik, ahol rendszeresen tartanak koncerteket, filmvetítéseket és színházi előadásokat. A CCEM híres 'Africalia' és egyéb művészeti projektjeiről, amelyek a két kultúra közötti párbeszédet segítik. Ez a helyszín a malabói fiatalok és értelmiségiek kedvelt találkozóhelye, ahol a művészet és az oktatás révén híd épül Afrika és Európa között. Tanterv: Kultúra K7, Művészetek K8.",
+      "factsAdvanced": [
+        "A spanyol nagykövetség által támogatott kulturális intézmény.",
+        "Malabo belvárosában, a tengerpart közelében található.",
+        "Kiváló spanyol nyelvű könyvtárral és médiatárral rendelkezik.",
+        "Fontos szerepet játszik a helyi fiatal művészek képzésében.",
+        "Ingyenes kulturális programokat és tanfolyamokat kínál.",
+        "A központ udvara népszerű helyszíne a kortárs zenei koncerteknek.",
+        "A kulturális diplomácia egyik legsikeresebb példája az országban."
+      ]
+    },
+    {
+      "id": "ceeac-building-malabo-landmarks-v2",
+      "descriptionAdvanced": "A CEEAC (Közép-afrikai Államok Gazdasági Közössége) malabói épülete a regionális integráció és együttműködés szimbóluma Egyenlítői-Guineában. A modern irodaház nemzetközi szervezeteknek és diplomáciai képviseleteknek ad otthont, hangsúlyozva az ország aktív szerepét a közép-afrikai politikai és gazdasági életben. Az épület Malabo II modern negyedében található, tükrözve a főváros regionális központi szerepét. Az építészeti stílus professzionális és modern, megfelelve a nemzetközi diplomáciai sztenderdeknek. A CEEAC jelenléte Malabóban hozzájárul az ország nemzetközi elismertségéhez és a szomszédos országokkal való szorosabb kapcsolatok ápolásához. Tanterv: Politika K8, Társadalomismeret K7.",
+      "factsAdvanced": [
+        "Regionális nemzetközi szervezetek székhelye Malabóban.",
+        "A közép-afrikai gazdasági és politikai együttműködés központja.",
+        "Malabo II diplomáciai negyedében helyezkedik el.",
+        "Modern irodai infrastruktúrával és tárgyalókkal rendelkezik.",
+        "Az épület előtt a tagállamok lobogói láthatók.",
+        "Fontos helyszíne a regionális szintű egyeztetéseknek.",
+        "Az ország diplomáciai nyitottságának egyik fontos jelképe."
+      ]
+    },
+    {
+      "id": "marimba-monument-bata-landmarks-v2",
+      "descriptionAdvanced": "A Marimba-emlékmű Batában a helyi kultúra és a tradicionális zene előtt tiszteleg az ország szárazföldi részén. A marimba, mint hangszer, mélyen gyökerezik a fang nép zenei hagyományaiban, és ez az emlékmű a kulturális örökség megőrzésének fontosságát jelképezi. A szoborcsoport Bata egyik forgalmas pontján található, emlékeztetve a város lakóit és az idelátogatókat az ősi ritmusokra és a közösségi ünnepek erejére. Az emlékmű művészi kidolgozása a zenészek mozdulatait és a hangszer jellegzetes formáját idézi, megragadva az afrikai életörömöt. Ez a landmark fontos eleme Bata városfejlesztési programjának, amely a modern épületek mellett a kulturális identitást is hangsúlyozza. Tanterv: Zene K6, Néprajz K7.",
+      "factsAdvanced": [
+        "Bata egyik legkedveltebb kulturális emlékműve.",
+        "A tradicionális afrikai hangszer, a marimba tiszteletére emelték.",
+        "A helyi fang nép zenei és kulturális örökségét szimbolizálja.",
+        "Gyakran látogatott pont a városi séták során.",
+        "A szobor alakjai tradicionális mozdulatokat örökítenek meg.",
+        "Az emlékmű körül gondozott virágágyások és padok találhatók.",
+        "Fontos szerepet játszik a nemzeti identitás vizuális megjelenítésében."
+      ]
+    },
+    {
+      "id": "luba-port-expansion-landmarks-v2",
+      "descriptionAdvanced": "A lubai kikötő bővítése Egyenlítői-Guinea egyik legjelentősebb tengerészeti fejlesztése, amely Bioko szigetének nyugati partján valósult meg. A projekt keretében a korábbi szerény kikötőt egy modern, mélyvízi logisztikai bázissá alakították át, amely képes a legnagyobb offshore kiszolgáló hajók és tartályhajók fogadására is. Ez a fejlesztés kulcsszerepet játszott Luba városának gazdasági újjáélesztésében és az olajipari szolgáltatások decentralizálásában. A kibővített kikötőben modern daruk, hatalmas raktárak és speciális dokkok találhatók, amelyek a legmagasabb nemzetközi szabványoknak is megfelelnek. A projekt a kormány és magánbefektetők sikeres együttműködésének példája, erősítve az ország regionális hub-szerepét. Tanterv: Gazdaság K8, Földrajz K7.",
+      "factsAdvanced": [
+        "Bioko-sziget legjelentősebb mélyvízi kikötői beruházása a 2000-es években.",
+        "Luba városának gazdasági motorja.",
+        "Kifejezetten az olaj- és gázipar logisztikai igényeihez alakították ki.",
+        "Új mólókat és mélyvízi horgonyzóhelyeket foglal magában.",
+        "A bővítés után a kikötő kapacitása többszörösére nőtt.",
+        "Számos nemzetközi olajipari szolgáltató cég települt ide.",
+        "Szigorú környezetvédelmi és biztonsági protokollokat alkalmaznak."
+      ]
+    },
+    {
+      "id": "annobon-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "Az annobóni repülőtér terminálja a távoli Annobón sziget kapuja és a modernizáció legfontosabb jelképe a szigeten. A 2010-ben átadott új terminál és a tengerbe nyúló kifutópálya alapjaiban változtatta meg a sziget elérhetőségét, lehetővé téve a rendszeres légi összeköttetést Malabóval és Batával. Az épület modern és funkcionális, minden szükséges eszközzel felszerelve az utasok és a légi biztonság kiszolgálására. A repülőtér megépítése előtt a sziget csak napokig tartó hajóúttal volt megközelíthető, így a terminál a szabadságot és a gyors kapcsolatot jelenti a helyiek számára. Az építmény Annobón vulkanikus tájában különleges technológiai kontrasztot alkot. Tanterv: Földrajz K6, Technológia K8.",
+      "factsAdvanced": [
+        "Annobón szigetének egyetlen repülőtere (AFG).",
+        "A kifutópálya egy része a tengerbe nyúló feltöltött területen fekszik.",
+        "A modern utasforgalmi terminált 2010-ben adták át.",
+        "Létfontosságú a sziget sürgősségi ellátása és áruszállítása szempontjából.",
+        "A terminál belső terei tiszták és jól szervezettek.",
+        "Az építkezés mérnöki bravúrnak számított a nehéz terepviszonyok miatt.",
+        "Rendszeres menetrend szerinti járatokat fogad a Ceiba Intercontinental légitársaságtól."
+      ]
+    },
+    {
+      "id": "ministry-of-mines-malabo-landmarks-v2",
+      "descriptionAdvanced": "A Bányászati és Energiaügyi Minisztérium székháza Malabóban az ország legfontosabb gazdasági szektorának irányítási központja. Az épület Malabo II modern negyedében található, és monumentális megjelenése tükrözi a tárca fontosságát Egyenlítői-Guinea fejlődésében. Itt dőlnek el a kőolaj- és földgázkitermeléssel kapcsolatos stratégiai kérdések, amelyek az állami bevételek döntő többségét adják. Az építészet a professzionalizmust és a modern állami adminisztrációt sugallja, elegáns homlokzattal és magas szintű informatikai háttérrel. A minisztérium épülete fontos találkozóhely a nemzetközi olajvállalatok vezetői és a hazai politikai döntéshozók számára. Tanterv: Politika K8, Gazdaság K9.",
+      "factsAdvanced": [
+        "Az ország gazdaságát meghatározó minisztérium székhelye.",
+        "Malabo II üzleti és kormányzati negyedében helyezkedik el.",
+        "Modern, reprezentatív építészeti stílus jellemzi.",
+        "Itt kezelik az ország bányászati és energetikai koncesszióit.",
+        "Szigorú biztonsági beléptető rendszerrel rendelkezik.",
+        "Közel fekszik a GEPetrol és a Sonagas székházaihoz.",
+        "Az épületben modern konferenciatermek és adatbázis-központok működnek."
+      ]
+    },
+    {
+      "id": "plaza-de-la-mujer-bata-landmarks-v2",
+      "descriptionAdvanced": "A Nők Tere (Plaza de la Mujer) Batában egy jelentőségteljes közösségi tér, amelyet az egyenlítői-guineai nők tiszteletére és a társadalomban betöltött fontos szerepük elismerésére hoztak létre. A tér központjában egy szobor áll, amely a női erőt, a gondoskodást és a jövő generációi iránti elkötelezettséget szimbolizálja. Ez a helyszín Bata tengerparti sétányának közelében található, és népszerű pihenőhely a családok és a fiatalok körében. A tér kialakítása modern, padokkal, díszburkolattal és esti kivilágítással rendelkezik, alkalmat adva a közösségi találkozókra és ünnepségekre. A Nők Tere az esélyegyenlőség és a társadalmi fejlődés vizuális emlékeztetője a szárazföldi nagyvárosban. Tanterv: Társadalomismeret K7, Művészet K8.",
+      "factsAdvanced": [
+        "Bata egyik legújabb és legszebb közösségi tere.",
+        "Központi eleme az egyenlítői-guineai nőket ábrázoló szoborkompozíció.",
+        "A nők társadalmi, gazdasági és kulturális hozzájárulását hirdeti.",
+        "Gyakran ad otthont nőnapi és családi rendezvényeknek.",
+        "A térről szép kilátás nyílik az Atlanti-óceánra.",
+        "Díszvilágítása miatt az esti órákban is népszerű sétahely.",
+        "Fontos pontja a városi köztéri művészetnek."
+      ]
+    },
+    {
+      "id": "bata-city-hall-new-landmarks-v2",
+      "descriptionAdvanced": "Bata új Városháza egy nagyszabású, modern középület, amely a szárazföldi nagyváros dinamikus fejlődését és adminisztrációs modernizációját jelképezi. Az épület építészete az eleganciát és a hatékonyságot ötvözi, tágas irodákkal és reprezentatív termekkel a városvezetés számára. A Városháza a helyi közigazgatás szíve, ahol Bata lakosai intézhetik ügyeiket, és ahol a város jövőjét meghatározó döntések születnek. Az épület elhelyezkedése Bata egyik fejlődő központjában található, és fontos szerepet játszik a városkép megújításában. Az új városháza felépítése válasz volt a város népességének gyors növekedésére és a korszerűbb szolgáltatások iránti igényre. Tanterv: Társadalomismeret K7, Építészet K8.",
+      "factsAdvanced": [
+        "Bata önkormányzatának új, modern központi épülete.",
+        "A szárazföldi régió legfontosabb adminisztratív központja.",
+        "Modern építészeti stílus, tágas üvegfelületekkel.",
+        "Rendelkezik nagy befogadóképességű tanácskozótermekkel.",
+        "Az épület előtt nemzeti zászlók és parkosított tér található.",
+        "A városi decentralizáció és fejlődés egyik szimbóluma.",
+        "Könnyen megközelíthető helyen, Bata egyik főútja mentén fekszik."
+      ]
+    },
+    {
+      "id": "friendship-bridge-djibloho-landmarks-v2",
+      "descriptionAdvanced": "A Barátság-híd Djiblohóban egy elegáns mérnöki műalkotás, amely az épülő új fővárosban ível át a Wele-folyó felett. A híd nemcsak fizikai összeköttetést biztosít a folyó két partja között, hanem a nemzetközi együttműködést és az ország belső régióinak integrációját is szimbolizálja. Modern, íves szerkezete és éjszakai díszkivilágítása a város egyik leglátványosabb pontjává teszi. A híd fontos logisztikai szerepet tölt be Ciudad de la Paz építése során, lehetővé téve a nehézgépek és az áruk gyors mozgatását. A gyalogosok és az autósok számára egyaránt biztonságos átkelést nyújt, miközben páratlan kilátás nyílik a folyó trópusi környezetére. Tanterv: Technológia K7, Földrajz K8.",
+      "factsAdvanced": [
+        "A Wele-folyót szeli át az új fővárosban, Ciudad de la Pazban.",
+        "A modern hídépítési technológiák mintapéldája az országban.",
+        "Nevét a nemzetközi barátság és együttműködés tiszteletére kapta.",
+        "Két sávos közúti pálya mellett tágas járdákkal rendelkezik.",
+        "Éjszakai kivilágítása meghatározó eleme a város éjszakai látképének.",
+        "Stabilitását mélyre alapozott tartópillérek biztosítják.",
+        "Fontos szerepet játszott az új város infrastruktúrájának kialakításában."
+      ]
+    },
+    {
+      "id": "malabo-general-hospital-landmarks-v2",
+      "descriptionAdvanced": "A malabói Általános Kórház (Hospital General de Malabo) az ország legfontosabb közegészségügyi intézménye, amely a főváros és Bioko szigetének lakosságát szolgálja. Az épület egy modernizált komplexum, amely az elmúlt években jelentős felújításokon és technológiai fejlesztéseken ment keresztül, hogy megfeleljen a 21. századi egészségügyi kihívásoknak. A kórház különböző szakosztályokkal, modern sürgősségi egységgel és laboratóriumokkal rendelkezik, ahol helyi és nemzetközi orvosok dolgoznak együtt. Történelmileg az intézmény a gyarmati idők óta a sziget egészségügyi bázisa, és mára a nemzeti egészségügyi reformok egyik központjává vált. Az épület parkosított környezete és tiszta kórtermei segítik a betegek gyógyulását. Tanterv: Biológia K7, Társadalomismeret K8.",
+      "factsAdvanced": [
+        "Egyenlítői-Guinea egyik legnagyobb központi kórháza.",
+        "Malabo városában, jól megközelíthető helyen található.",
+        "Modern diagnosztikai eszközökkel (CT, MRI) felszerelt.",
+        "Fontos szerepet tölt be az országos járványvédelmi programokban.",
+        "Az egyetemi orvosképzés egyik gyakorlati helyszíne.",
+        "A kórház épületegyüttese több különálló pavilonból áll.",
+        "Folyamatosan fejlesztik a sürgősségi és sebészeti osztályait."
+      ]
+    },
+    {
+      "id": "beac-building-malabo-landmarks-v2",
+      "descriptionAdvanced": "A BEAC (Közép-afrikai Államok Bankja) malabói székháza az ország monetáris stabilitásának és a regionális pénzügyi integrációnak a központja. Az impozáns, modern épület Malabo üzleti negyedében található, tükrözve az intézmény súlyát és komolyságát. Itt zajlik a Közép-afrikai CFA frank forgalmának felügyelete és az állami pénzügyek koordinálása a regionális jegybanki politikával összhangban. Az épület építészete a biztonságot és a professzionalizmust sugallja, vastag falaival és szigorú beléptető rendszerével. A BEAC jelenléte Malabóban hangsúlyozza az ország fontos szerepét a közép-afrikai gazdasági és monetáris unióban (CEMAC). Tanterv: Gazdaság K9, Politika K8.",
+      "factsAdvanced": [
+        "A Közép-afrikai Államok Bankjának (BEAC) nemzeti igazgatósága.",
+        "Malabo egyik legfontosabb pénzügyi landmarkja.",
+        "Az épületben szigorúan őrzött trezorok és bankjegyraktárak találhatók.",
+        "Modern biztonsági rendszerekkel védett objektum.",
+        "Strategiai helyszín a nemzeti monetáris politika számára.",
+        "Környezete a város elegáns üzleti övezete.",
+        "Az épület homlokzatát a CEMAC és a bank szimbólumai díszítik."
+      ]
+    },
+    {
+      "id": "malabo-mall-landmarks-v2",
+      "descriptionAdvanced": "A Malabo Mall az ország legnagyobb és legmodernebb bevásárló- és szórakoztató központja, amely a főváros északi részén található. A pláza nemzetközi szintű vásárlási élményt nyújt, számos világmárka üzletével, elegáns butikokkal, modern mozival és tágas éttermi részleggel. Ez a landmark a növekvő középosztály és az országba látogató turisták kedvelt találkozóhelye, ahol a vásárlás mellett a kikapcsolódás is garantált. A Malabo Mall építészete modern és vonzó, tágas belső tereivel és légkondicionált üzleteivel oázist jelent a forró trópusi éghajlaton. A központ fejlődése tükrözi az ország fogyasztási szokásainak átalakulását és az urbanizáció modernizációját. Tanterv: Gazdaság K7, Társadalomismeret K8.",
+      "factsAdvanced": [
+        "Az ország első és legnagyobb modern bevásárlóközpontja.",
+        "Malabo északi zónájában, a Sipopo felé vezető út mentén fekszik.",
+        "Számos nemzetközi üzletlánc és helyi vállalkozás otthona.",
+        "Modern mozikomplexummal és játéktérrel rendelkezik a gyerekeknek.",
+        "A parkolója több száz autó befogadására alkalmas.",
+        "Népszerű hétvégi célpont a helyi családok számára.",
+        "Az épület modern építészeti megoldásai nemzetközi színvonalúak."
+      ]
+    },
+    {
+      "id": "iglesia-san-fernando-malabo-landmarks-v2",
+      "descriptionAdvanced": "A Szent Ferdinánd-templom (Iglesia de San Fernando) Malabo egyik legszebb és legmeghittebb katolikus temploma, amely a főváros északi részén található. Az épület modern és klasszikus elemeket ötvöz, letisztult homlokzatával és békés belső terével fontos vallási helyszín a helyi lakosság számára. A templom San Fernando tiszteletére van szentelve, és aktív plébániai élete révén fontos közösségi szerepet tölt be Malabóban. A mise alkalmával a templom megtelik hívőkkel, a kórus éneke pedig messzire hallatszik a környező utcákban. A templom kertje gondozott és csendes, lehetőséget adva az elmélyülésre a város nyüzsgése közepette. Tanterv: Vallásismeret K7, Művészettörténet K8.",
+      "factsAdvanced": [
+        "Malabo egyik meghatározó plébániatemploma.",
+        "Modern építészeti stílusban épült a 20. század második felében.",
+        "Híres a jó akusztikájáról és a lelkes templomi kórusáról.",
+        "Fontos szerepet játszik a helyi ifjúsági közösségi programokban.",
+        "A templom belsejében szép vallási szobrok találhatók.",
+        "A környék lakóinak fontos spirituális központja.",
+        "Az egyházi ünnepeken díszes díszítést kap az épület."
+      ]
+    },
+    {
+      "id": "schildkroetenstrand-ureca-life-v2",
+      "descriptionAdvanced": "Ureca strandjai Bioko szigetének déli partján az egyik legfontosabb tengeri teknős fészkelőhelyek közé tartoznak a világon. Minden évben veszélyeztetett fajok, mint a bőrhátú teknősök, érkeznek ide a távoli óceánokból, hogy tojásaikat a fekete vulkanikus homokba rejtsék. Ez a terület szigorúan védett természetvédelmi övezet, ahol a helyi közösség és a kutatók együttműködnek a teknősök megóvása érdekében. Az éjszakai teknősfigyelés egyedülálló élmény, amely segít megérteni ezeknek az ősi hüllőknek a sebezhetőségét és a természetvédelmi munka fontosságát. Ureca érintetlen, vadregényes partjaival és a közeli vízesésekkel a sziget egyik legtisztább természeti kincse. Tanterv: Biológia K7, Környezetvédelem K8.",
+      "factsAdvanced": [
+        "Bioko-sziget legfontosabb teknősvédelmi helyszíne.",
+        "Négy különböző teknősfaj rak itt tojást évente.",
+        "A fészkelési szezon novembertől februárig tart.",
+        "A helyi Ureca-közösség aktívan részt vesz a teknősfészkek őrzésében.",
+        "Vulkanikus eredetű, fekete homokos strandok jellemzik.",
+        "A Bioko Biodiversity Protection Program (BBPP) egyik bázisa.",
+        "Csak engedéllyel és vezetővel látogatható a teknősök nyugalma érdekében."
+      ]
+    },
+    {
+      "id": "walbeobachtung-annobon-life-v2",
+      "descriptionAdvanced": "Annobón szigete a déli Atlanti-óceán egyik rejtett gyöngyszeme, amely a púpos bálnák vándorlási útvonalának központjában fekszik. Júliustól szeptemberig ezek a hatalmas emlősök a sziget körüli meleg, tiszta vizekben párosodnak és nevelik utódaikat, lenyűgöző látványt nyújtva a partról vagy a halászcsónakokból. A bálnák közelsége mélyen gyökerezik az annobóni kultúrában, a helyiek különleges tisztelettel viseltetnek ezen óriások iránt. A sziget elszigeteltsége miatt a bálnák zavartalanul élhetnek itt, messze a nemzetközi hajózási útvonalaktól. Az ökoturizmus fejlődésével Annobón a bálnavadászat korábbi központjából a bálnamegfigyelés és a természetvédelem bástyájává válik. Tanterv: Biológia K6, Földrajz K8.",
+      "factsAdvanced": [
+        "Annobón szigete az egyik legjobb bálnavadászati és megfigyelő pont Afrikában.",
+        "Főleg púpos bálnák (Megaptera novaeangliae) láthatók a szezonban.",
+        "A bálnák gyakran egészen közel úsznak a parthoz.",
+        "A helyi halászok tradíciói szoros kapcsolatban állnak a bálnákkal.",
+        "A sziget vizei kiválóak a tengeri emlősök szaporodásához.",
+        "A megfigyelés során gyakran látni delfineket is a bálnák mellett.",
+        "A természetvédelmi kutatók rendszeresen látogatják a szigetet a populáció monitorozására."
+      ]
+    },
+    {
+      "id": "primaten-schutzzone-picobasile-life-v2",
+      "descriptionAdvanced": "A Pico Basilé Nemzeti Park primátus-védelmi zónája Bioko szigetének egyik legértékesebb ökológiai területe. A hegy meredek lejtőin és sűrű köderdőiben számos ritka és endemikus majomfaj él, köztük a biokói drill és a különböző gerezamajmok. Ez a védett terület kulcsfontosságú ezen fajok túlélése szempontjából, mivel az orvvadászat és az élőhelyek elvesztése globálisan veszélyezteti őket. A védelmi zónában folyó kutatások segítenek megérteni a primátusok viselkedését és az esőerdő ökoszisztémájában betöltött szerepüket. A látogatók számára a terület a természet iránti tiszteletre és az élőlények védelmére hívja fel a figyelmet ezen a látványos vulkanikus hegyen. Tanterv: Biológia K8, Környezetvédelem K7.",
+      "factsAdvanced": [
+        "Bioko-sziget legmagasabb hegyén, a Pico Basilén található.",
+        "Híres az endemikus biokói drill (Mandrillus leucophaeus poensis) állományáról.",
+        "A terület a sziget biológiai sokféleségének egyik legfontosabb bástyája.",
+        "Szigorú erdőőrzési programok próbálják megállítani az orvvadászatot.",
+        "A kutatók kamera csapdákkal figyelik az állatok mozgását.",
+        "A védett zóna különböző magassági öveket foglal magában a tengerszinttől 3000 méterig.",
+        "Fontos szerepet játszik a nemzetközi főemlősvédelmi együttműködésben."
+      ]
+    },
+    {
+      "id": "elefantenkorridor-nsork-life-v2",
+      "descriptionAdvanced": "Az nsorki elefántkorridor Egyenlítői-Guinea szárazföldi területén egy létfontosságú természetes útvonal az erdei elefántok számára. Ez a zóna összeköti a Nsork Nemzeti Parkot a szomszédos Gabon védett területeivel, lehetővé téve az elefántcsordák szabad és biztonságos vándorlását az évszakok változásával. Az erdei elefántok jelenléte elengedhetetlen az esőerdő megújulásához, mivel ők a magvak legfontosabb terjesztői. A korridor védelme kiemelt feladat, mivel a mezőgazdasági terjeszkedés és az útépítések veszélyeztethetik ezt a hagyományos útvonalat. A területen végzett megfigyelések bizonyítják a határokon átnyúló természetvédelem sikerét és szükségességét Közép-Afrikában. Tanterv: Biológia K7, Földrajz K8.",
+      "factsAdvanced": [
+        "A szárazföldi régió délkeleti részén, Nsork környékén található.",
+        "Az erdei elefántok (Loxodonta cyclotis) vándorlását biztosítja.",
+        "Strategiai összeköttetést jelent a gaboni ökoszisztémákkal.",
+        "A korridor védelme nemzetközi természetvédelmi szervezetek bevonásával zajlik.",
+        "Fontos helyszíne az elefántok populációs dinamikájának kutatásának.",
+        "A helyi közösségeket oktatják az elefántokkal való békés együttélésre.",
+        "A terület sűrű, szinte áthatolhatatlan esőerdőkből áll."
       ]
     }
   ]

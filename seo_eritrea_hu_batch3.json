@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "eritra-rift-valley-relief-v2",
+      "descriptionAdvanced": "Az eritreai hasadékvölgy a nagy kelet-afrikai árokrendszer része, amelyet a folyamatos tektonikai mozgások formáltak és formálnak mind a mai napig. A vidék látványos, mély törésvonalakkal, völgyekkel és kiemelt fennsíkokkal tarkított domborzattal rendelkezik, amely kiváló lehetőséget nyújt a lemeztektonika erejének vizsgálatára. A geológiai jelentősége mellett a terület egyedi ökoszisztémáknak is otthont ad, amelyek az extrém terepviszonyokhoz alkalmazkodtak. Igazi élő laboratórium a geológiai kutatások számára. Földrajz K8 — tektonikai folyamatok.",
+      "factsAdvanced": [
+        "A kelet-afrikai árokrendszer része.",
+        "Folyamatos tektonikai feszültség jellemzi.",
+        "Mély törésvonalak és fennsíkok.",
+        "Tavak és hőforrások kialakulása.",
+        "Kiemelt kutatási terület.",
+        "Változatos mikroklíma."
+      ]
+    },
+    {
+      "id": "gash-valley-relief-v2",
+      "descriptionAdvanced": "A Gash-völgy kulcsfontosságú terület Eritrea mezőgazdasága számára, mivel az itteni öntözési lehetőségek és az áradások által lerakott tápanyagdús üledékek alapozzák meg a nyugati régiók termelékenységét. A folyó minden évben értékes iszapot szállít, ami létfontosságú a gabonatermesztés és a pamutipar számára. A völgy emellett természetes ökológiai folyosóként is szolgál, amely lehetővé teszi az állatvilág vándorlását a szárazabb időszakokban. A völgy a nyugati alföldek gazdasági erejének motorja. Földrajz K7 — vízgyűjtők és mezőgazdaság.",
+      "factsAdvanced": [
+        "Szezonális folyószakasz.",
+        "Termékeny hordalékos talajok.",
+        "A pamuttermelés központja.",
+        "A mezőgazdaság függ az áradásoktól.",
+        "Fontos ökológiai folyosó.",
+        "Regionális biodiverzitási csomópont."
+      ]
+    },
+    {
+      "id": "esen-plateau-relief-v2",
+      "descriptionAdvanced": "Az Esen-fennsík Aszmara közvetlen közelében fekvő terület, amely mérsékelt klímájáról és hagyományos, mégis hatékony mezőgazdasági hasznosításáról ismert. A fennsík a központi régió stabilitását erősíti azzal, hogy kedvező környezetet biztosít a különféle haszonnövények termesztéséhez. A viszonylag sík, kiemelt terep ideális közösségi gazdálkodásra és lakótelepek kialakítására is. A felföldi gazdálkodás egyik stabil pillére az ország központi vidékén. Földrajz K7 — fennsíkok és agrárgazdaság.",
+      "factsAdvanced": [
+        "Aszmara melletti felföldi terület.",
+        "Mérsékelt, felföldi klíma.",
+        "Intenzív közösségi gazdálkodás.",
+        "Ideális talaj a földműveléshez.",
+        "Közel a fővároshoz.",
+        "Hagyományos megélhetési forrás."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "lang": "hu",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "calgary-peace-bridge-landmarks-v2",
+      "descriptionAdvanced": "A Calgary-i Béke-híd egy futurisztikus megjelenésű gyalogos- és kerékpároshíd, amely a Bow folyó felett ível át. A spanyol sztárépítész, Santiago Calatrava által tervezett piros, cső alakú szerkezet egyfajta iparművészeti alkotás, amely élesen elüt a hagyományos hídépítészeti megoldásoktól. A híd tartószerkezetében nincsenek pilonok a folyómederben, így a kecses, spirális szerkezet mintha lebegne a víz felett. Urbanisztika K7 — modern városi közlekedés.",
+      "factsAdvanced": [
+        "Santiago Calatrava spanyol építész tervezte",
+        "A híd 2012-ben készült el",
+        "Piros-fehér spirális csőszerkezetű dizájn",
+        "Nincsenek támasztékok a folyómederben",
+        "Gyalogosok és kerékpárosok számára készült",
+        "A Calgary-i folyóparti infrastruktúra ékköve"
+      ]
+    },
+    {
+      "id": "gooderham-building-landmarks-v2",
+      "descriptionAdvanced": "A torontói Gooderham-épület egy történelmi 'Flatiron', azaz vasaló alakú épület, amely a város egyik legfotogénebb látványossága. 1892-es megépítésekor a város egyik legelőkelőbb irodaépületének számított, ma pedig az ikonikus, hátterében magasodó felhőkarcolók látványa teszi híressé. Jellegzetes vörös téglafalazata és ék alakú szerkezete a torontói építészettörténet aranykorát idézi. Történelem K7 — ipari építészet.",
+      "factsAdvanced": [
+        "1892-ben épült vörös téglából",
+        "Ék alakú, vasalóház (Flatiron) stílusú",
+        "Megelőzte a híresebb New York-i Flatiron Building építését",
+        "A Gooderham család megbízásából épült",
+        "A torontói belváros egyik legikonikusabb épülete",
+        "Történelmi műemléki védettséget élvez"
+      ]
+    },
+    {
+      "id": "hartland-covered-bridge-landmarks-v2",
+      "descriptionAdvanced": "A New Brunswick-i Hartland-i fedett híd a világ leghosszabb fedett hídja, amely a Saint John folyót íveli át. Az 1901-ben épült, majd később tetővel ellátott hídszerkezet a korabeli mérnöki munka és a faépítészet egyik remeke. A híd mai napig is fontos közlekedési útvonal, egyúttal nemzeti történelmi emlékhely is, amely megőrzi a kanadai vidék ipartörténeti örökségét. Földrajz K6 — építészeti örökség.",
+      "factsAdvanced": [
+        "391 méter hosszú (1282 láb)",
+        "A világ leghosszabb fedett hídja",
+        "Az 1901-ben épült hidat később fedték be",
+        "Nemzeti történelmi emlékhely",
+        "A Saint John folyót íveli át",
+        "Egyetlen sávon biztosítja az autós forgalmat"
+      ]
+    },
+    {
+      "id": "macdonald-bridge-halifax-landmarks-v2",
+      "descriptionAdvanced": "Az Angus L. Macdonald-híd Halifax egyik legfontosabb közlekedési kapcsolata, amely a kikötő felett köti össze a várost Dartmouth-szal. Az 1955-ben átadott függőhíd máig a régió egyik legmeghatározóbb építménye, amelyet gyakran csak 'A Régi Hídként' emlegetnek a helyiek. A híd nemcsak az autós forgalmat szolgálja, hanem elválasztott sávjával a gyalogosok és kerékpárosok számára is biztonságos átkelést biztosít a kikötő felett. Földrajz K6 — közlekedési útvonalak.",
+      "factsAdvanced": [
+        "1955-ben adták át a forgalomnak",
+        "A helyiek 'The Old Bridge'-ként emlegetik",
+        "Halifaxot és Dartmouthot köti össze",
+        "Függőhíd építészeti kialakítású",
+        "Dedikált sávok gyalogosoknak és kerékpárosoknak",
+        "Kiemelkedő szerepe van a kikötői közlekedésben"
+      ]
+    },
+    {
+      "id": "winnipeg-legislative-building-landmarks-v2",
+      "descriptionAdvanced": "A winnipegi Manitoba Törvényhozási Épület neoklasszikus stílusának és a tetején csillogó 'Aranyfiú' (Golden Boy) szobornak köszönhetően a prériváros építészeti ékköve. Az épület különlegessége a rejtett szimbólumrendszere, amely hermetikus és szabadkőműves jelképeket is tartalmaz, ami sokak számára teszi izgalmas kutatási területté. A helyi Tyndall-kőből épült palota büszkén hirdeti Manitoba kormányzati múltját és jelenét. Történelem K8 — politikai építészet.",
+      "factsAdvanced": [
+        "Neoklasszikus stílusú épület",
+        "A tetején lévő 'Aranyfiú' szobor a tartomány jelképe",
+        "Tyndall-kőből épült, amely gazdag ősmaradványokban",
+        "Szabadkőműves és hermetikus szimbólumokat tartalmaz",
+        "Manitoba törvényhozó gyűlésének székhelye",
+        "Monumentális építészeti kialakítás jellemzi"
+      ]
+    },
+    {
+      "id": "saskatchewan-legislative-building-landmarks-v2",
+      "descriptionAdvanced": "A Regina városában található Saskatchewan Törvényhozási Épület egy monumentális Beaux-Arts stílusú palota, amely a Wascana-tó partján helyezkedik el. A gondosan tervezett parkosított környezet, a Wascana Centre, tovább emeli az épület fenséges megjelenését. A belső térben 34 különböző típusú márvány díszíti a termeket, ami egyedülálló luxust és építészeti gazdagságot tükröz a prérin fekvő tartomány kormányzati központjában. Földrajz K8 — építészeti luxus.",
+      "factsAdvanced": [
+        "Beaux-Arts stílusú monumentális épület",
+        "A Wascana-tó partján helyezkedik el",
+        "34 különböző típusú márványt tartalmaz a díszítés",
+        "Kereszt alakú építészeti alaprajz",
+        "Saskatchewan kormányzati központja",
+        "A környező Wascana Centre egy hatalmas parkegyüttes"
+      ]
+    },
+    {
+      "id": "edmonton-funicular-landmarks-v2",
+      "descriptionAdvanced": "Az edmontoni sikló egy innovatív, teljesen automatizált felvonórendszer, amely látványos üvegfelületeivel köti össze a belvárost az Észak-Saskatchewan folyó völgyével. A szerkezet nemcsak közlekedési célokat szolgál, hanem egy kilátópont is, ahonnan az edmontoni folyóvölgy páratlan panorámája nyílik meg a városlakók előtt. Az ingyenesen használható építmény a város modern, emberközpontú infrastruktúrájának egyik legszebb példája. Urbanisztika K7 — városi modernizáció.",
+      "factsAdvanced": [
+        "Mindenki számára ingyenes és hozzáférhető",
+        "Üvegszerkezetű, panorámás sikló",
+        "Az edmontoni belvárost köti össze a folyóvölggyel",
+        "Észak-Saskatchewan folyó völgyének kilátója",
+        "Modern városfejlesztési projekt",
+        "Gyalogos híddal és kilátóterasszal kiegészített"
+      ]
+    },
+    {
+      "id": "prince-edward-viaduct-toronto-landmarks-v2",
+      "descriptionAdvanced": "A Prince Edward-viadukt Torontóban egy két szinten működő ívhíd, amely átível a festői Don folyó völgyén. Az alsó szint a metróközlekedést szolgálja, míg a felső szint az autók és gyalogosok számára biztosít átkelést. A viadukt mára a modern biztonsági technológiák alkalmazásáról is híressé vált a híres 'Luminous Veil' korlátok révén, amely egy esztétikus biztonsági megoldás a mély völgy felett. Technika K7 — közlekedési hídak.",
+      "factsAdvanced": [
+        "Kétszintes hídszerkezet (metró és közút)",
+        "Átível a Don folyó völgyén",
+        "Bloor-viadukt néven is ismerték",
+        "A 'Luminous Veil' (Fényes fátyol) biztonsági korlátot 2003-ban szerelték fel",
+        "Torontó egyik legfontosabb közlekedési kapcsolata",
+        "Műemlék jellegű hídépítészeti alkotás"
+      ]
+    },
+    {
+      "id": "the-forks-winnipeg-landmarks-v2",
+      "descriptionAdvanced": "The Forks Winnipeg történelmi találkozóhelye, amely a Red és Assiniboine folyók összefolyásánál található, és már hatezer éve a kereskedelem és az utazók pihenőhelye. Ma egy élénk piac, éttermekkel teli terület és gondozott zöldpark, amely a helyi közösségi élet szíve. A közeli Kanadai Emberi Jogi Múzeummal együtt a terület a város legfontosabb kulturális és szabadidős központja lett. Történelem K6 — közösségi találkozóhelyek.",
+      "factsAdvanced": [
+        "A Red és Assiniboine folyók összefolyásánál található",
+        "Több mint 6000 éves kereskedelmi és találkozóhely",
+        "Napjainkban piac és kulturális rendezvényhelyszín",
+        "Zöldpark és rekreációs terület a város központjában",
+        "A Kanadai Emberi Jogi Múzeum a közelében van",
+        "Winnipeg közösségi életének szerves része"
+      ]
+    }
+  ]
+}

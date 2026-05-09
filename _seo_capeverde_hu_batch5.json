@@ -1,0 +1,289 @@
+{
+  "lang": "hu",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "porto-grande-mindelo-economic-v2",
+      "descriptionAdvanced": "A Porto Grande São Vicente szigetén, Mindelo városában található, és a Zöld-foki Köztársaság legfontosabb mélyvízi kikötője. A természetes öböl kiváló védelmet nyújt a hajóknak, így az Atlanti-óceán középső részén közlekedő hajók egyik legfontosabb megállóhelyévé vált. A kikötő története a 19. század közepéig nyúlik vissza, amikor a gőzhajók számára szénlelőhelyként szolgált. Ma a Porto Grande modern konténerterminállal, üzemanyagtöltő állomásokkal és hajójavító műhelyekkel rendelkezik, és kulcsszerepet játszik az ország nemzetközi kereskedelmében. A kikötő infrastruktúrája lehetővé teszi a legnagyobb tengerjáró hajók fogadását is, ami fellendíti a helyi turizmust. Mindelo gazdasági élete elválaszthatatlan a kikötő tevékenységétől, amely több ezer embernek ad munkát.",
+      "factsAdvanced": [
+        "A Zöld-foki Köztársaság legnagyobb és legforgalmasabb mélyvízi kikötője.",
+        "A kikötő egy kialudt vulkáni kráter által formált természetes öbölben fekszik.",
+        "1838-ban alapították az első szénraktárat a brit hajók számára.",
+        "Modernizált konténerterminálja évente több tízezer TEU forgalmat bonyolít.",
+        "A kikötő mólója több mint 11 méteres merülésű hajókat is képes fogadni.",
+        "Stratégiai fontosságú üzemanyagtöltő bázis az Atlanti-óceáni útvonalakon.",
+        "Mindelo városának gazdasági és kulturális központja a kikötő mentén alakult ki.",
+        "A kikötő területén található a Cabnave hajójavító üzem is."
+      ]
+    },
+    {
+      "id": "porto-da-praia-economic-v2",
+      "descriptionAdvanced": "A Praia kikötője a Zöld-foki Köztársaság fővárosában, Santiago szigetén található, és az ország második legnagyobb kikötői létesítménye. Az elmúlt évtizedben jelentős bővítésen és modernizáción ment keresztül, hogy megfeleljen a növekvő importigényeknek és a nemzetközi biztonsági előírásoknak. A kikötő elsősorban az ország belső fogyasztására szánt áruk beléptetési pontjaként szolgál, beleértve az élelmiszereket, építőanyagokat és ipari termékeket. A modernizációs projekt keretében új mólókat építettek, és korszerűsítették a raktározási kapacitásokat is. Praia kikötője nemcsak a teherforgalom, hanem a szigetek közötti kompösszeköttetés szempontjából is létfontosságú, összekötve a fővárost a többi szigettel.",
+      "factsAdvanced": [
+        "A főváros, Praia és Santiago szigetének legfőbb kereskedelmi kapuja.",
+        "2014-ben fejeződött be egy nagyszabású, több millió eurós modernizációs projekt.",
+        "A kikötő mólóinak teljes hossza meghaladja a 600 métert.",
+        "Évente több mint 1 millió tonna áru halad át a terminálokon.",
+        "Létfontosságú szerepet játszik a szigetek közötti kompközlekedésben.",
+        "Speciális terminálokkal rendelkezik az üzemanyag és a gáz fogadására.",
+        "A kikötő üzemeltetéséért a nemzeti kikötői hatóság, az ENAPOR felel.",
+        "A modern logisztikai park a kikötő közvetlen szomszédságában épült fel."
+      ]
+    },
+    {
+      "id": "porto-de-palmeira-economic-v2",
+      "descriptionAdvanced": "A Palmeira kikötője Sal szigetének nyugati partján található, és kritikus szerepet játszik a sziget virágzó turizmusának fenntartásában. Mivel Sal szigetének természeti erőforrásai korlátozottak, szinte minden élelmiszer, üzemanyag és építőanyag ezen a kikötőn keresztül érkezik. A kikötőt a közelmúltban bővítették, hogy képes legyen nagyobb teherhajók és luxusjachtok fogadására is. Palmeira nemcsak gazdasági központ, hanem egy hangulatos halászfalu is, ahol a modern ipari tevékenység és a hagyományos életmód egymás mellett létezik. A kikötő stratégiai jelentőségét növeli, hogy itt található a sziget legfontosabb üzemanyag-tároló bázisa is, amely a nemzetközi repülőtér kiszolgálásához is elengedhetetlen.",
+      "factsAdvanced": [
+        "Sal szigetének egyetlen kereskedelmi kikötője Palmeira faluban található.",
+        "A kikötő bővítése lehetővé teszi a konténerszállító hajók hatékony fogadását.",
+        "Itt található a sziget legfontosabb gáz- és üzemanyag-terminálja.",
+        "A kikötő mélysége 6 és 10 méter között mozog a különböző mólóknál.",
+        "Létfontosságú a sziget turisztikai szektorának ellátása szempontjából.",
+        "A kikötői mólóról rendszeres kompjáratok indulnak São Vicente és Santiago felé.",
+        "Palmeira kikötője a sziget ivóvízellátásához szükséges alapanyagok fő belépési pontja.",
+        "A halászati tevékenység továbbra is jelentős a móló melletti védett öbölben."
+      ]
+    },
+    {
+      "id": "porto-novo-harbour-economic-v2",
+      "descriptionAdvanced": "A Porto Novo kikötője Santo Antão szigetének kapuja, és az egyetlen modern tengeri összeköttetés a sziget és a külvilág között. Mivel a szigetnek nincs működő kereskedelmi repülőtere, a Porto Novo-i móló életfontosságú minden áruforgalom és személyszállítás számára. A kikötő és Mindelo városa közötti rendszeres kompjáratok jelentik a sziget gazdasági ütőerét. A kikötőt az elmúlt években jelentősen bővítették, új terminált építettek az utasok számára, és javították a hajók kikötési feltételeit. Santo Antão mezőgazdasági termékeit – mint a banán, a kávé és a grogue – ezen a kikötőn keresztül szállítják a többi szigetre, így a létesítmény kulcsszerepet játszik a helyi gazdák megélhetésében.",
+      "factsAdvanced": [
+        "Santo Antão szigetének legfontosabb és legforgalmasabb kikötője.",
+        "Napi rendszerességű kompjáratok kötik össze Mindelo városával (São Vicente).",
+        "A 2010-es években épült új utasterminál modern várókkal rendelkezik.",
+        "A kikötő mólója 200 méter hosszú, és képes közepes méretű hajók fogadására.",
+        "Létfontosságú a sziget mezőgazdasági exportja szempontjából.",
+        "Mivel nincs repülőtér, minden üzemanyag és gép ezen az úton érkezik.",
+        "A kikötő köré épült Porto Novo városa a sziget legnagyobb településévé vált.",
+        "A kikötői forgalom jelentősen megnőtt a sziget turisztikai népszerűségével."
+      ]
+    },
+    {
+      "id": "porto-vale-cavaleiros-economic-v2",
+      "descriptionAdvanced": "A Vale de Cavaleiros kikötője Fogo szigetén található, nem messze a sziget központjától, São Filipe városától. Ez a kikötő jelenti az egyetlen biztos pontot a sziget áruellátása és a szigetek közötti közlekedés számára, különösen a vulkáni tevékenység idején. A mólót modernizálták, hogy ellenálljon az Atlanti-óceán erős hullámzásának és a vulkáni hamu okozta nehézségeknek. Fogo híres kávéja és bora ezen a kikötőn keresztül indul útjára a világpiac felé. A kikötő környezete drámai, a sötét vulkáni homok és a meredek sziklák határolják, ami jól tükrözi a sziget elemi erejét. A létesítmény fenntartása és fejlesztése stratégiai fontosságú a sziget elszigeteltségének csökkentése érdekében.",
+      "factsAdvanced": [
+        "Fogo szigetének fő kikötője, São Filipe városának közelében fekszik.",
+        "A mólót 2013-ben jelentősen megerősítették és kibővítették.",
+        "A kikötő hossza és mélysége lehetővé teszi a RO-RO hajók fogadását.",
+        "Ez a pont a sziget híres borának és kávéjának legfőbb exportkapuja.",
+        "A 2014-es vulkánkitörés idején a segélyszállítmányok fő bázisa volt.",
+        "A móló fekete vulkáni kőzetből álló part mentén épült fel.",
+        "Rendszeres kompkapcsolatot biztosít Santiago és Brava szigetei felé.",
+        "A kikötő rendelkezik egy modern utasterminállal és raktárkapacitással."
+      ]
+    },
+    {
+      "id": "porto-sal-rei-economic-v2",
+      "descriptionAdvanced": "Sal Rei kikötője Boa Vista szigetének gazdasági központja, amely az elmúlt években a sziget turisztikai boomjának köszönhetően vált kiemelten fontossá. A kikötő felelős a szigeten épülő nagyszabású szállodakomplexumok építőanyagainak és a növekvő lakosság élelmiszerellátásának biztosításáért. Bár a kikötő kisebb, mint a praia-i vagy a mindelo-i, stratégiai elhelyezkedése miatt nélkülözhetetlen. A kikötői mólót nemrégiben korszerűsítették, hogy jobb feltételeket biztosítsanak a teherhajók és a szigetek közötti kompok számára. A kikötő öble védett a szél elől, ami kedvező feltételeket teremt a hajózáshoz Boa Vista északi részén.",
+      "factsAdvanced": [
+        "Boa Vista szigetének elsődleges tengeri kikötője Sal Rei városában.",
+        "A kikötő mólóját az EU támogatásával újították fel és bővítették.",
+        "Létfontosságú a szigeti turizmushoz szükséges áruk importjában.",
+        "A kikötő előtt fekvő Ilhéu de Sal Rei természetes hullámtörőként szolgál.",
+        "A móló hossza mintegy 160 méter, ami elegendő a helyi teherforgalomhoz.",
+        "Itt rakodják ki a sziget vízellátásához szükséges sótalanító berendezéseket.",
+        "A kikötő forgalma az elmúlt 15 évben több mint háromszorosára nőtt.",
+        "Rendszeres kapcsolatot tart fenn Sal és Santiago szigeteivel."
+      ]
+    },
+    {
+      "id": "porto-tarrafal-sn-economic-v2",
+      "descriptionAdvanced": "Tarrafal kikötője São Nicolau szigetének nyugati partján fekszik, és a sziget legfontosabb logisztikai pontja. Mivel São Nicolau gazdasága nagymértékben függ a halászattól és a mezőgazdaságtól, a kikötő szerepe meghatározó ezen termékek elosztásában. A kikötő modernizálása segített abban, hogy a sziget jobban bekapcsolódjon a Zöld-foki szigetvilág belső kereskedelmi vérkeringésébe. A móló melletti vizek gazdagok halban, így a kikötő nemcsak a teherhajóknak, hanem a helyi halászflottának is bázisul szolgál. A kikötő tiszta és rendezett, tükrözve São Nicolau békés és hagyománytisztelő jellegét.",
+      "factsAdvanced": [
+        "São Nicolau szigetének legfőbb kereskedelmi és utaskikötője.",
+        "A kikötőt 1991-ben adták át, kiváltva a régi, kevésbé hatékony partraszálló helyeket.",
+        "Itt található a sziget legjelentősebb halkonzervgyára is.",
+        "A móló hossza 145 méter, amely alkalmas a nemzeti kompok fogadására.",
+        "A kikötő mélysége lehetővé teszi a közepes méretű konténerhajók kikötését.",
+        "Létfontosságú a sziget belső részein termelt kukorica és bab szállításához.",
+        "A móló a Tarrafal-öböl nyugodt vizeiben helyezkedik el.",
+        "A kikötő üzemeltetése kulcsfontosságú a sziget élelmiszerbiztonsága szempontjából."
+      ]
+    },
+    {
+      "id": "porto-da-furna-economic-v2",
+      "descriptionAdvanced": "A Furna kikötője Brava szigetén található, és ez az apró, meredek sziget egyetlen tengeri bejárati pontja. Mivel Brava szigetének nincs repülőtere, a Furna-i kikötő az abszolút életvonalat jelenti a lakosság számára. Minden élelmiszer, gyógyszer, üzemanyag és építőanyag ezen a szűk, de jól védett öblön keresztül érkezik. A kikötő és a szomszédos Fogo sziget közötti kompösszeköttetés az egyetlen módja a sziget elérésének. A kikötői mólót és az oda vezető utat folyamatosan karbantartják, hogy biztosítsák a biztonságos közlekedést a sziklás terepen. A kikötő hangulata csendes és családias, minden hajóérkezés jelentős esemény a helyi közösség életében.",
+      "factsAdvanced": [
+        "Brava szigetének egyetlen kikötője és kizárólagos kapuja a külvilág felé.",
+        "A kikötő mólója mindössze 100 méter hosszú, a sziget méretéhez igazodva.",
+        "Mivel nincs repülőtér, a sziget összes utasa itt lép partra.",
+        "Napi kompkapcsolat köti össze Fogo szigetével, ha az időjárás engedi.",
+        "A kikötő egy mély, sziklákkal övezett öbölben található.",
+        "A mólót 2000-ben és 2013-ban is modernizálták a biztonság növelése érdekében.",
+        "Itt történik a sziget generátoraihoz szükséges gázolaj kirakodása.",
+        "A kikötő körüli falu, Furna, a sziget egyik legnépesebb települése lett."
+      ]
+    },
+    {
+      "id": "porto-ingles-maio-economic-v2",
+      "descriptionAdvanced": "Porto Inglês kikötője Maio szigetén található, és a közelmúltban jelentős fejlesztéseken ment keresztül, hogy elősegítse a sziget gazdasági felzárkózását. Az új móló és a modernizált raktárak lehetővé teszik a nagyobb hajók fogadását, ami korábban a sekély víz miatt nehézkes volt. A kikötő különösen fontos a sziget hagyományos sóbányászatának és a fejlődő mezőgazdaságnak. Maio szigete híres érintetlen tengerpartjairól, és az új kikötői infrastruktúra célja a turizmus fellendítése is, anélkül, hogy károsítanák a környezetet. A kikötő stratégiai pont a közeli Santiago szigetével való kereskedelemben, ahonnan a legtöbbez fogyasztási cikk érkezik.",
+      "factsAdvanced": [
+        "Maio szigetének fő kikötője Vila do Maio (Porto Inglês) városa mellett.",
+        "2022-ben fejeződött be a kikötő nagyszabású bővítése és modernizálása.",
+        "Az új RO-RO rámpa lehetővé teszi a járművek gyorsabb be- és kirakodását.",
+        "Történelmileg a sóexport legfontosabb központja volt a szigeteken.",
+        "A kikötő mólója mintegy 350 méter hosszan nyúlik be az óceánba.",
+        "Létfontosságú a Maio és Praia közötti napi kereskedelmi forgalomban.",
+        "A fejlesztés része volt egy új utasterminál és parkolóhelyek kiépítése is.",
+        "A kikötő környéke fontos élőhely a tengeri teknősök számára."
+      ]
+    },
+    {
+      "id": "cabnave-shipyard-economic-v2",
+      "descriptionAdvanced": "A Cabnave hajógyár Mindelo városában, a Porto Grande kikötő területén található, és a Zöld-foki Köztársaság legjelentősebb hajójavító és karbantartó bázisa. A vállalat központi szerepet játszik az ország tengeri infrastruktúrájában, mivel itt végzik a nemzeti flotta, a halászhajók és a térségben elhaladó külföldi hajók javítását. A hajógyár modern felszereléssel rendelkezik, beleértve a sólyapályákat és a darukat, amelyek lehetővé teszik a hajók szárazra emelését. A Cabnave több száz képzett szakmunkásnak ad munkát, így São Vicente szigetének egyik legnagyobb foglalkoztatója. A vállalat technikai szaktudása elismert az Atlanti-óceán nyugat-afrikai partvidékén is.",
+      "factsAdvanced": [
+        "A Zöld-foki Köztársaság legnagyobb és legmodernebb hajójavító üzeme.",
+        "Mindelo stratégiai kikötőjében, São Vicente szigetén található.",
+        "Hat sólyapályával rendelkezik, amelyek akár 110 méter hosszú hajókat is fogadnak.",
+        "A gyár emelőkapacitása eléri a 2800 tonnát hajónként.",
+        "A vállalatot 1982-ben alapították a tengeri szektor fejlesztése érdekében.",
+        "Szolgáltatásai közé tartozik a hajótest javítása, festése és motorfelújítása.",
+        "Fontos szerepet játszik a helyi technikai szakképzésben és oktatásban.",
+        "Nemzetközi tanúsítványokkal rendelkező, exportorientált szolgáltató központ."
+      ]
+    },
+    {
+      "id": "ceris-brewery-praia-economic-v2",
+      "descriptionAdvanced": "A CERIS sörfőzde Praia városában található, és ez a Zöld-foki Köztársaság legnagyobb és legmodernebb italgyára. Itt készül az ország nemzeti büszkesége, a Strela sör, amely mára a helyi kultúra szerves részévé vált. A gyár nemcsak sört, hanem üdítőitalokat és palackozott vizet is termel, kiszolgálva a teljes belföldi piacot. A CERIS jelentős technológiai beruházásokat hajtott végre a fenntartható gyártás és a vízgazdálkodás területén, ami kritikus egy olyan országban, ahol szűkös az édesvízkészlet. A vállalat az ország egyik legfontosabb adófizetője és munkaadója, termékeit pedig már külföldre, többek között Portugáliába is exportálják.",
+      "factsAdvanced": [
+        "A Zöld-foki Köztársaság vezető sör- és üdítőital-gyártó vállalata.",
+        "Itt készül a népszerű Strela sör, az ország legkeresettebb márkája.",
+        "A gyár a fővárosban, Praia ipari negyedében található.",
+        "A nemzetközi Heineken csoport szakmai felügyelete és részleges tulajdona alatt áll.",
+        "Korszerű szennyvízkezelő és újrahasznosító rendszert üzemeltet.",
+        "Évente több millió litert állít elő sörből és üdítőkből.",
+        "Számos nemzetközi minőségi díjat nyert el a termékeivel.",
+        "A vállalat aktív támogatója a helyi kulturális és zenei eseményeknek."
+      ]
+    },
+    {
+      "id": "windfarm-gouveia-economic-v2",
+      "descriptionAdvanced": "A Gouveia szélerőmű Santiago szigetén a Zöld-foki Köztársaság megújuló energia iránti elkötelezettségének egyik ékköve. A szigetcsoport állandó passzátszelei ideális feltételeket biztosítanak a szélenergia hasznosítására, és ez a park jelentősen hozzájárul a fosszilis tüzelőanyagoktól való függőség csökkentéséhez. Az erőmű tucatnyi modern szélturbinából áll, amelyek a hegygerinceken sorakoznak, kihasználva a folyamatos légáramlatokat. A projekt a Cabeólica program része, amely az első kereskedelmi alapú közműves szélerőmű-hálózat Afrikában. A Gouveia park nemcsak elektromos áramot termel, hanem segít az országnak elérni ambiciózus környezetvédelmi céljait, miközben stabilizálja az energiaárakat a lakosság számára.",
+      "factsAdvanced": [
+        "A Cabeólica projekt keretében épült négy nagy szélerőműpark egyike.",
+        "Santiago szigetének déli részén, a szeles hegyhátakon helyezkedik el.",
+        "A turbinák összkapacitása több megawatt, ellátva Praia városának egy részét.",
+        "Csökkenti az ország importált olajtól való függőségét az áramtermelésben.",
+        "A projekt elnyerte a rangos Ashden-díjat a fenntartható energiáért.",
+        "A turbinák látványa mára a sziget modern tájképének részévé vált.",
+        "A szélerőmű park évi több ezer tonna CO2 kibocsátást vált ki.",
+        "Az állandó szélsebesség itt az egyik legmagasabb a szigeteken."
+      ]
+    },
+    {
+      "id": "windfarm-selada-flamengo-economic-v2",
+      "descriptionAdvanced": "A Selada do Flamengo szélerőmű São Vicente szigetén található, és kulcsfontosságú szerepet játszik a sziget elektromos energiaellátásában. Mindelo városa és környéke nagy energiaigénnyel rendelkezik, és ez a szélerőmű park biztosítja a szükséges áram jelentős részét tiszta, megújuló forrásból. A turbinák egy dombos területen helyezkednek el, ahol a szél szinte megállás nélkül fúj az Atlanti-óceán felől. A park üzemeltetése során nyert tapasztalatok segítették a Zöld-foki szigeteket abban, hogy a térség vezetőjévé váljanak a zöld energia területén. A fejlesztés nemcsak környezetvédelmi, hanem gazdasági szempontból is előnyös, mivel csökkenti a drága import üzemanyagok használatát a hőerőművekben.",
+      "factsAdvanced": [
+        "São Vicente szigetének legfontosabb szélerőmű létesítménye.",
+        "A park modern, nagy hatásfokú turbinákat alkalmaz a szélenergia kinyerésére.",
+        "Hozzájárul São Vicente energiaigényének mintegy 20-30%-ához.",
+        "A Cabeólica nemzetközi konzorcium üzemelteti a projektet.",
+        "A terület kiválasztását többéves szélmérési adatok alapozták meg.",
+        "A turbinák karbantartását speciálisan képzett helyi technikusok végzik.",
+        "A projekt segít a szigetnek a klímaváltozás elleni globális küzdelemben.",
+        "Látványos panorámát nyújt a Mindelo környéki vulkáni hegyekre."
+      ]
+    },
+    {
+      "id": "frescomar-factory-economic-v2",
+      "descriptionAdvanced": "A Frescomar konzervgyár Mindelo városában a Zöld-foki Köztársaság halászati iparának egyik zászlóshajója. Ez a modern létesítmény elsősorban tonhal és makréla feldolgozására specializálódott, termékeit pedig a legmagasabb európai minőségi elvárásoknak megfelelően állítják elő. A gyár a szigetcsoport körüli gazdag tengeri élővilágra alapozva több száz, főként női munkavállalónak biztosít stabil megélhetést. A Frescomar konzervek nagy része exportra kerül, főként Spanyolországba és más uniós országokba, jelentős devizabevételt generálva az országnak. A vállalat elkötelezett a fenntartható halászat mellett, és csak olyan forrásból szerez be alapanyagot, amely nem veszélyezteti a tengeri ökoszisztémát.",
+      "factsAdvanced": [
+        "A Zöld-foki Köztársaság legnagyobb halmegmunkáló és konzervgyára.",
+        "São Vicente szigetén, Mindelo kikötőjének közelében található.",
+        "Naponta több tíz tonna friss halat dolgoznak fel a modern sorokon.",
+        "A gyár az egyik legnagyobb női foglalkoztató a szigeten.",
+        "Termékei elnyerték a 'Dolphin Safe' és más környezetvédelmi tanúsítványokat.",
+        "Az itt készült konzervek a világ számos szupermarketjében kaphatóak.",
+        "A vállalat spanyol-zöldfoki vegyesvállalatként működik.",
+        "Szigorú higiéniai és minőségbiztosítási rendszereket (HACCP) alkalmaznak."
+      ]
+    },
+    {
+      "id": "desalination-plant-palmarejo-economic-v2",
+      "descriptionAdvanced": "A Palmarejo sótalanító üzem Praia városában a Zöld-foki Köztársaság ivóvízellátásának egyik legfontosabb oszlopa. Mivel a szigetcsoporton nagyon kevés a természetes édesvízforrás és a csapadék rendszertelen, a tengervíz sótalanítása az egyetlen módja a növekvő fővárosi lakosság kiszolgálásának. Az üzem fordított ozmózis technológiát alkalmaz, amellyel a sós tengervizet kristálytiszta ivóvízzé alakítja. Ez a folyamat rendkívül energiaigényes, ezért az üzemet gyakran napelemparkokkal kombinálják a költségek és a környezeti hatások csökkentése érdekében. A Palmarejo üzem folyamatos fejlesztése elengedhetetlen Praia városának fenntartható fejlődéséhez és a közegészségügyi helyzet fenntartásához.",
+      "factsAdvanced": [
+        "A főváros, Praia ivóvízszükségletének jelentős részét biztosítja.",
+        "Modern fordított ozmózis (Reverse Osmosis) technológiát alkalmaz.",
+        "A tengervizet közvetlenül az Atlanti-óceánból nyerik a part mentén.",
+        "Az üzem napi kapacitása több ezer köbméter tiszta víz.",
+        "A létesítményt a nemzeti víz- és áramszolgáltató, az ELECTRA üzemelteti.",
+        "Kulcsszerepet játszik az aszályos időszakok hatásainak enyhítésében.",
+        "A sótalanítási folyamat során nyert vizet ásványi anyagokkal dúsítják.",
+        "A technológia fenntartása kritikus a sziget gazdasági stabilitásához."
+      ]
+    },
+    {
+      "id": "achada-grande-industrial-economic-v2",
+      "descriptionAdvanced": "Az Achada Grande ipari zóna Praia keleti részén, a nemzetközi repülőtér és a kikötő közelében helyezkedik el, és ez Santiago szigetének gazdasági motorja. A területen számos hazai és nemzetközi vállalat telepedett meg, az élelmiszer-feldolgozástól az építőanyag-gyártásig. A logisztikai szempontból ideális elhelyezkedés lehetővé teszi az áruk gyors mozgatását a kikötő és a repülőtér között. Itt találhatók a legnagyobb raktárak, elosztóközpontok és több könnyűipari üzem is. Az ipari park fejlesztése a kormány stratégiai célja, hogy diverzifikálja az ország gazdaságát és csökkentse az importtól való függőségét, miközben modern munkahelyeket teremt a fiatal generáció számára.",
+      "factsAdvanced": [
+        "Santiago szigetének legnagyobb és legfontosabb ipari negyede.",
+        "Közvetlen szomszédságában található a Nelson Mandela nemzetközi repülőtér.",
+        "Számos logisztikai és szállítmányozási cég központja található itt.",
+        "Itt működik az ország több jelentős raktárbázisa és hűtőháza.",
+        "A zóna infrastruktúráját folyamatosan fejlesztik új utakkal és közművekkel.",
+        "Fontos szerepet játszik a főváros és a sziget áruellátásában.",
+        "Az ipari zóna a tengerparti sziklák feletti síkságon terül el.",
+        "A területen több építőanyag-kereskedés és összeszerelő üzem is működik."
+      ]
+    },
+    {
+      "id": "lazareto-industrial-economic-v2",
+      "descriptionAdvanced": "A Lazareto ipari zóna São Vicente szigetén, Mindelo városának szélén található, és a sziget ipari és logisztikai tevékenységének központja. A terület a nevét a történelmi karanténállomásról kapta, de ma már modern gyáraknak és raktáraknak ad otthont. Itt összpontosul a sziget élelmiszeriparának és könnyűiparának egy jelentős része, kihasználva a közeli Porto Grande kikötő közelségét. A zóna fontos szerepet játszik São Vicente gazdasági stabilitásában, munkahelyeket biztosítva a helyi lakosságnak. A Lazareto ipari terület fejlődése szorosan összefügg a mindelói kikötő forgalmával, mivel az itt előállított és tárolt áruk nagy része tengeri úton érkezik vagy távozik.",
+      "factsAdvanced": [
+        "São Vicente szigetének elsődleges ipari és kereskedelmi parkja.",
+        "Mindelo városától nyugatra, a tengerpart közelében helyezkedik el.",
+        "Számos import-export cég és nagykereskedelmi raktár bázisa.",
+        "Itt található a sziget több jelentős hús- és élelmiszer-feldolgozó üzeme.",
+        "Kiváló közúti összeköttetéssel rendelkezik a mélyvízi kikötő felé.",
+        "A terület a sziget gazdasági diverzifikációjának egyik kulcshelyszíne.",
+        "A zóna folyamatosan bővül, új vállalkozások számára kínálva területet.",
+        "Fontos szerepet játszik a szigetek közötti áruelosztásban is."
+      ]
+    },
+    {
+      "id": "solar-plant-palmarejo-economic-v2",
+      "descriptionAdvanced": "A Palmarejo napelempark Praia városában a Zöld-foki Köztársaság egyik legjelentősebb napenergia-beruházása. A szigetcsoporton az év nagy részében zavartalan a napsütés, ami kiváló lehetőséget ad a fotovoltaikus technológia alkalmazására. Ez az erőmű közvetlenül a főváros energiaigényét szolgálja, segítve a csúcsidőszaki terhelés kezelését. A napelemek több hektáron terülnek el, modern inverterekkel és vezérlőrendszerrel felszerelve, amelyek az országos hálózatba táplálják az áramot. A Palmarejo projekt példaként szolgál a többi afrikai szigetország számára is, bemutatva, hogyan lehet a természeti adottságokat a fenntartható fejlődés szolgálatába állítani és csökkenteni a szén-dioxid-kibocsátást.",
+      "factsAdvanced": [
+        "A Zöld-foki Köztársaság egyik legnagyobb fotovoltaikus erőműve.",
+        "Praia városának déli részén, egy napos fennsíkon helyezkedik el.",
+        "Több ezer napelemmodulból áll, amelyek tiszta energiát termelnek.",
+        "Jelentősen csökkenti a fővárosi hőerőművek környezeti terhelését.",
+        "A projekt nemzetközi fejlesztési források bevonásával valósult meg.",
+        "Az üzemeltetést távfelügyeleti rendszerled és modern technológiával végzik.",
+        "Hozzájárul az ország azon céljához, hogy 50%-ban megújuló energiát használjon.",
+        "A panelek dőlésszögét a maximális napenergia-hasznosításhoz optimalizálták."
+      ]
+    },
+    {
+      "id": "grogue-distillery-paul-economic-v2",
+      "descriptionAdvanced": "A Paul-völgyben található grogue lepárlók a Zöld-foki Köztársaság legfontosabb kézműves iparági központjai. A grogue a nemzeti ital, egy cukornádból készült párlat, amelyet évszázados hagyományok alapján, gyakran még ma is ökörhajtotta présekkel (trapiche) állítanak elő. A Paul-völgy termékeny talaja és bőséges vize ideális a cukornád termesztéséhez, így az itt készült grogue-ot tartják az ország egyik legjobbjának. A lepárlás folyamata közösségi esemény, amely meghatározza a völgy életritmusát a betakarítás idején. A kormány és a helyi egyesületek dolgoznak a gyártási folyamat standardizálásán és a minőségbiztosításon, hogy a grogue nemzetközileg elismert prémium termékké válhasson.",
+      "factsAdvanced": [
+        "A grogue a Zöld-foki szigetek nemzeti itala, tiszta cukornád-párlat.",
+        "A Paul-völgy a leghíresebb grogue-termelő vidék Santo Antão szigetén.",
+        "Sok helyen még ma is hagyományos fa 'trapiche' préseket használnak.",
+        "A lepárlás rézüstökben történik, fatüzelésű kemencék felett.",
+        "A grogue minőségét az eredetvédelmi szabályozás (IG) védi.",
+        "A termelés a cukornád betakarítási szezonjában, januártól júniusig tart.",
+        "A grogue-ból készül a népszerű 'pontche' koktél is méz hozzáadásával.",
+        "A lepárlók fontos turisztikai látványosságok a túrázók számára."
+      ]
+    },
+    {
+      "id": "fuel-terminal-mindelo-economic-v2",
+      "descriptionAdvanced": "A mindelói üzemanyag-terminál stratégiai fontosságú létesítmény São Vicente szigetén, amely biztosítja az egész északi szigetcsoport energiaellátását. A Porto Grande közvetlen közelében fekvő tartálypark hatalmas kapacitással rendelkezik gázolaj, benzin és repülőgép-üzemanyag tárolására. A terminál nemcsak a helyi fogyasztást fedezi, hanem üzemanyagtöltő bázisként is szolgál az Atlanti-óceánon áthaladó nemzetközi hajók számára. A modern biztonsági rendszerekkel és környezetvédelmi védelemmel felszerelt létesítményt a nemzeti kőolajvállalat, az ENACOL üzemelteti. A terminál zavartalan működése elengedhetetlen az ország közlekedése, áramtermelése és gazdasági stabilitása szempontjából.",
+      "factsAdvanced": [
+        "A Zöld-foki Köztársaság egyik legnagyobb üzemanyag-tároló központja.",
+        "Stratégiai elhelyezkedése Mindelo kikötője mellett nemzetközi jelentőségű.",
+        "Hatalmas tartályai több ezer köbméter kőolajszármazékot képesek tárolni.",
+        "Létfontosságú a nemzetközi hajózási útvonalak üzemanyag-utánpótlásához.",
+        "Modern biztonsági és tűzvédelmi rendszerekkel van felszerelve.",
+        "Biztosítja a sziget hőerőműveihez szükséges fűtőanyagot.",
+        "Az ENACOL nemzeti vállalat üzemeltetése alatt áll.",
+        "A terminálhoz saját mélyvízi kirakodó móló tartozik a tankerek számára."
+      ]
+    }
+  ]
+}

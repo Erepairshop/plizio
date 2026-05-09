@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-laventille-cities-v2",
+      "descriptionAdvanced": "Laventille ist ein historisch und kulturell bedeutsames Stadtviertel, das sich auf den Hügeln östlich von Port of Spain erstreckt. Es ist weltweit als Geburtsstätte der Steelpan bekannt, dem nationalen Musikinstrument von Trinidad und Tobago, das in den 1930er Jahren aus Ölfässern entwickelt wurde. Laventille bietet einen atemberaubenden Panoramablick über die Hauptstadt und den Golf von Paria. Das Viertel ist geprägt von einer starken Gemeinschaftsidentität und einer reichen Tradition in Musik und Kunst. Historisch gesehen war Laventille ein Zufluchtsort für befreite Sklaven und hat eine zentrale Rolle in der sozialen Entwicklung der Insel gespielt. Wahrzeichen wie das 'Our Lady of Laventille'-Heiligtum thronen über dem Viertel. Im Unterricht (Musik/Geschichte K7) wird Laventille als Herz der Steelpan-Kultur und als Beispiel für urbane Resilienz und Kreativität behandelt.",
+      "factsAdvanced": [
+        "Geburtsort der Steelpan, Trinidads Nationalinstrument.",
+        "Historische Hügelsiedlung östlich von Port of Spain.",
+        "Heimat berühmter Steelbands wie 'Desperadoes'.",
+        "Bietet den besten Panoramablick über den Golf von Paria.",
+        "Zentrum der afro-trinidadischen Kultur und Identität.",
+        "Standort des imposanten Our Lady of Laventille Heiligtums.",
+        "Prägte die soziale und politische Geschichte des 20. Jhs.",
+        "Thema: Musikgeschichte und soziale Dynamik (K7)."
+      ]
+    },
+    {
+      "id": "tt-morvant-cities-v2",
+      "descriptionAdvanced": "Morvant ist ein dicht besiedeltes Wohngebiet am östlichen Rand von Port of Spain und bildet einen integralen Bestandteil der Metropolregion. Die Stadt erstreckt sich über sanfte Hügel und ist bekannt für ihre lebendige Atmosphäre und ihre enge Verbundenheit mit der Hauptstadt. Morvant hat sich von einer ländlichen Siedlung zu einem wichtigen urbanen Zentrum entwickelt, das eine vielfältige Bevölkerung beherbergt. Die Region ist ein bedeutender Talentpool für Sportler und Musiker, insbesondere in den Bereichen Fußball und Steelpan. Geographisch dient Morvant als Übergangszone zwischen dem Stadtzentrum und dem East-West Corridor. Trotz urbaner Herausforderungen bewahrt Morvant einen starken Gemeinschaftsgeist, der sich in lokalen Organisationen und Sportvereinen manifestiert. Für Schüler (Geographie K7) dient Morvant als Beispiel für urbane Expansion und die sozialen Strukturen einer wachsenden karibischen Vorstadt.",
+      "factsAdvanced": [
+        "Wichtige Wohnstadt im Osten von Port of Spain.",
+        "Teil der Metropolregion am East-West Corridor.",
+        "Talentschmiede für nationale Fußballspieler und Musiker.",
+        "Geprägt durch eine hügelige Topographie im Norden.",
+        "Hohe Bevölkerungsdichte mit lebendiger Stadtkultur.",
+        "Wichtiger Knotenpunkt für Pendler in die Hauptstadt.",
+        "Zentrum zahlreicher sozialer Gemeinschaftsprojekte.",
+        "Lehrplanfokus: Urbane Räume und Gemeinschaft (K7)."
+      ]
+    },
+    {
+      "id": "tt-st-joseph-cities-v2",
+      "descriptionAdvanced": "St. Joseph, ursprünglich San José de Oruña genannt, ist die älteste Stadt Trinidads und war von 1592 bis 1783 die erste Hauptstadt der Insel. Gelegen am Fuße des Northern Range, atmet die Stadt Geschichte in jeder Gasse. Als ehemaliges Verwaltungszentrum der spanischen Krone beherbergt St. Joseph zahlreiche historische Stätten, darunter die St. Joseph's Church, die auf dem Gelände des ersten Gotteshauses der Insel steht. Die Stadt war Schauplatz bedeutender Ereignisse, wie der Kapitulation Trinidads vor den Briten im Jahr 1797. Heute ist St. Joseph eine charmante Wohnstadt, die stolz auf ihr koloniales Erbe blickt und gleichzeitig modernste Bildungseinrichtungen beherbergt. Im Unterricht (Geschichte K7) ist St. Joseph der zentrale Ort, um die spanische Ära, die frühe Stadtplanung und den Übergang zur britischen Herrschaft in Trinidad zu studieren.",
+      "factsAdvanced": [
+        "Älteste Stadt Trinidads, gegründet im Jahr 1592.",
+        "Erste Hauptstadt der Insel unter spanischer Herrschaft.",
+        "Schauplatz der britischen Eroberung im Jahr 1797.",
+        "Beherbergt die historische St. Joseph's Church.",
+        "Gelegen am landschaftlich reizvollen Northern Range.",
+        "Zentrum für historische Forschung und Denkmalschutz.",
+        "Wichtiger Wohnstandort mit reicher kolonialer Architektur.",
+        "Thema: Frühe Kolonialgeschichte und Hauptstädte (K7)."
+      ]
+    },
+    {
+      "id": "tt-maracas-valley-cities-v2",
+      "descriptionAdvanced": "Das Maracas Valley ist ein malerisches Wohn- und Naturgebiet in den Ausläufern des Northern Range, nördlich von St. Joseph. Bekannt für sein kühleres Mikroklima und seine üppige tropische Vegetation, ist das Tal ein Rückzugsort für Naturliebhaber und Ruhesuchende. Historisch war das Tal ein bedeutendes Zentrum für den Kakaoanbau, wovon heute noch alte Plantagenhäuser und die Tradition der Kakaoverarbeitung zeugen. Das Maracas Valley beherbergt auch wichtige Institutionen wie die University of the Southern Caribbean (USC). Flüsse schlängeln sich durch das Tal und bilden kleine Wasserfälle, die zur natürlichen Schönheit beitragen. Die Region ist ein Paradebeispiel für die Integration von Wohnraum in eine sensible ökologische Umgebung. Im Geographieunterricht (K6) dient das Maracas Valley zur Veranschaulichung von Gebirgstälern, tropischen Ökosystemen und nachhaltiger Landnutzung.",
+      "factsAdvanced": [
+        "Malerisches Tal im Northern Range mit kühlem Klima.",
+        "Einstiges Zentrum der hochwertigen Kakaoproduktion.",
+        "Heimat der University of the Southern Caribbean (USC).",
+        "Geprägt durch dichte Regenwälder und Flussläufe.",
+        "Beliebtes Wohngebiet für Natur- und Wanderfreunde.",
+        "Wichtiger Korridor für die heimische Flora und Fauna.",
+        "Bewahrt historische Plantagenarchitektur (Great Houses).",
+        "Lehrplanfokus: Ökosysteme und Mikroklima (K6)."
+      ]
+    },
+    {
+      "id": "tt-piarco-cities-v2",
+      "descriptionAdvanced": "Piarco ist weltweit bekannt als Standort des Piarco International Airport, dem wichtigsten Luftverkehrsknotenpunkt von Trinidad und Tobago und einem der modernsten Flughäfen der Karibik. Gelegen in den flachen Ebenen Zentral-Trinidads, hat sich Piarco von einer landwirtschaftlichen Region zu einem dynamischen Logistik- und Dienstleistungszentrum entwickelt. Neben dem Flughafen beherbergt die Stadt zahlreiche Hotels, Einkaufszentren und Büroparks, die von der internationalen Anbindung profitieren. Historisch gesehen war Piarco Schauplatz bedeutender Entwicklungen in der Luftfahrtgeschichte der Region. Die Stadt spielt eine entscheidende Rolle für den Tourismus und den internationalen Handel. Für Schüler (Wirtschaftsgeographie K8) ist Piarco das perfekte Beispiel für die Auswirkungen globaler Transportinfrastruktur auf die lokale Stadtentwicklung und die Vernetzung eines Inselstaates mit der Welt.",
+      "factsAdvanced": [
+        "Standort des Piarco International Airport (POS).",
+        "Zentraler Luftverkehrsknotenpunkt der südlichen Karibik.",
+        "Wichtigstes Tor für Tourismus und internationalen Handel.",
+        "Modernes Zentrum für Logistik und Hotellerie.",
+        "Gelegen in den flachen Caroni-Ebenen.",
+        "Bedeutender Arbeitgeber für die gesamte Region.",
+        "Knotenpunkt für die nationale Fluggesellschaft Caribbean Airlines.",
+        "Thema: Transportwesen und Globalisierung (K8)."
+      ]
+    },
+    {
+      "id": "tt-arouca-cities-v2",
+      "descriptionAdvanced": "Arouca ist eine geschäftige Stadt am East-West Corridor, die als wichtiges Wohn- und Handelszentrum zwischen Tunapuna und Arima dient. Der Name stammt von den indigenen Ureinwohnern (Arawaks), was auf die tiefe historische Verwurzelung der Region hinweist. Arouca zeichnet sich durch seine exzellente Infrastruktur und seine Rolle als Versorgungsknotenpunkt für die umliegenden ländlichen Gebiete aus. Die Stadt beherbergt bedeutende Bildungseinrichtungen und religiöse Stätten verschiedener Glaubensrichtungen. Geographisch liegt Arouca am Übergang zu den Ebenen von Zentral-Trinidad und bietet eine Mischung aus urbanem Flair und grünen Vorstädten. Die Stadt ist auch bekannt für ihre Sportbegeisterung und lokale Fußballvereine. Im Unterricht (Geographie K7) wird Arouca als Beispiel für eine florierende Mittelstadt am Korridor und für die Kontinuität von indigenen Ortsnamen in der Moderne behandelt.",
+      "factsAdvanced": [
+        "Bedeutende Handelsstadt am East-West Corridor.",
+        "Ortsname indianischen Ursprungs (Arawak).",
+        "Wichtiger Wohnstandort mit guter Verkehrsanbindung.",
+        "Zentrum für lokale Bildung und Gewerbe.",
+        "Strategisch günstig an der Priority Bus Route gelegen.",
+        "Geprägt durch eine multikulturelle und dynamische Bevölkerung.",
+        "Tor zu den südlichen Ebenen und dem Northern Range.",
+        "Lehrplanrelevanz: Siedlungsentwicklung und Etymologie (K7)."
+      ]
+    },
+    {
+      "id": "tt-curepe-cities-v2",
+      "descriptionAdvanced": "Curepe ist ein lebendiger und strategisch wichtiger Ort am East-West Corridor, der vor allem als Hauptverkehrsknotenpunkt (Curepe Junction) bekannt ist. Hier kreuzen sich die wichtigsten Nord-Süd- und Ost-West-Verbindungen der Insel, was den Ort zu einem Schmelztiegel von Pendlern, Händlern und Studenten macht. Aufgrund der unmittelbaren Nähe zum UWI-Campus St. Augustine ist Curepe ein Zentrum studentischen Lebens mit zahlreichen Cafés, Copyshops und Wohnheimen. Die Stadt ist berühmt für ihr vielfältiges Streetfood, insbesondere für die besten 'Doubles' der Region. Curepe dient als administrativer und kommerzieller Ankerpunkt für die Region Tunapuna-Piarco. Für Schüler (Geographie K7) ist Curepe ein Paradebeispiel für einen Verkehrsknotenpunkt (Transport Hub) und die Entwicklung spezialisierter Dienstleistungen im Umfeld einer Universität.",
+      "factsAdvanced": [
+        "Zentraler Verkehrsknotenpunkt (Curepe Junction).",
+        "Wichtiges Zentrum für studentisches Leben (nahe UWI).",
+        "Berühmt für sein vielfältiges und beliebtes Streetfood.",
+        "Knotenpunkt für den öffentlichen Verkehr (Maxi-Taxis).",
+        "Dynamisches Handelsviertel mit hoher Passantenfrequenz.",
+        "Wohnstandort für Studenten und Pendler gleichermaßen.",
+        "Schnittstelle zwischen Stadt- und Bildungsraum.",
+        "Thema: Verkehrsgeographie und Dienstleistungen (K7)."
+      ]
+    },
+    {
+      "id": "tt-st-augustine-cities-v2",
+      "descriptionAdvanced": "St. Augustine ist das akademische Herz von Trinidad und beherbergt den prestigeträchtigen Campus der University of the West Indies (UWI). Diese Funktion prägt die gesamte Atmosphäre der Stadt, die durch eine Mischung aus historischen Universitätsgebäuden, modernen Forschungseinrichtungen und studentischem Flair gekennzeichnet ist. Gegründet auf dem Gelände des ehemaligen Imperial College of Tropical Agriculture (ICTA), spielt St. Augustine eine weltweit führende Rolle in der Agrarforschung. Die Stadt ist von üppigem Grün und stattlichen Alleen geprägt. Neben der Universität finden sich hier auch bedeutende nationale Institutionen und Schulen. St. Augustine ist ein Zentrum für intellektuellen Austausch und kulturelle Vielfalt. Im Unterricht (Geographie/Geschichte K8) dient die Stadt als Beispiel für die Bedeutung von Bildungseinrichtungen für die nationale Entwicklung und als Standort für spezialisierte Wissenschaftszentren.",
+      "factsAdvanced": [
+        "Heimat des Hauptcampus der University of the West Indies.",
+        "Weltzentrum für tropische Agrarforschung (ehemals ICTA).",
+        "Akademisches und intellektuelles Zentrum Trinidads.",
+        "Geprägt durch eine grüne Campus-Architektur.",
+        "Standort zahlreicher Forschungsinstitute und Bibliotheken.",
+        "Multikulturelles Umfeld mit Studenten aus der ganzen Karibik.",
+        "Wichtiger Motor für technologische Innovation.",
+        "Lehrplanfokus: Bildung als Standortfaktor (K8)."
+      ]
+    },
+    {
+      "id": "tt-trincity-cities-v2",
+      "descriptionAdvanced": "Trincity ist eine moderne, planmäßig angelegte Stadt im Osten von Trinidad, die als Musterbeispiel für zeitgenössische Stadtplanung in der Karibik gilt. Bekannt für die gewaltige Trincity Mall, eines der größten Einkaufszentren der Region, ist die Stadt ein Magnet für Handel und Freizeitgestaltung. Trincity wurde so konzipiert, dass Wohngebiete, Gewerbezonen, Schulen und Freizeiteinrichtungen (wie der Millennium Lakes Golf Course) harmonisch integriert sind. Die Stadt zeichnet sich durch breite Straßen, gepflegte Grünanlagen und eine hochwertige Infrastruktur aus. Sie ist besonders bei der wachsenden Mittelschicht beliebt. Geographisch liegt Trincity ideal am East-West Corridor nahe dem Flughafen. Für Schüler (Geographie K8) bietet Trincity ein hervorragendes Beispiel für eine 'Planned Community' und die Konzepte moderner Stadtentwicklung jenseits historischer Kerne.",
+      "factsAdvanced": [
+        "Moderne, planmäßig errichtete Stadt (Planned Community).",
+        "Heimat der Trincity Mall, eines führenden Handelszentrums.",
+        "Integrierte Stadtplanung mit Wohn-, Arbeits- und Freizeitraum.",
+        "Standort erstklassiger Golfplätze und Freizeitanlagen.",
+        "Gute Anbindung an den Flughafen Piarco und den Highway.",
+        "Beispiel für hochwertige urbane Infrastruktur.",
+        "Bevorzugter Wohnort für die aufstrebende Mittelschicht.",
+        "Thema: Moderne Stadtplanung und Konsumgeographie (K8)."
+      ]
+    },
+    {
+      "id": "tt-carenage-cities-v2",
+      "descriptionAdvanced": "Carenage ist eine malerische Küstenstadt westlich von Port of Spain, deren Name auf die historische Praxis des 'Kielholens' (französisch: carénage) von Schiffen in den geschützten Buchten zurückgeht. Die Stadt erstreckt sich entlang der Küstenstraße nach Chaguaramas und bietet spektakuläre Ausblicke auf den Golf von Paria. Carenage hat seine Wurzeln als Fischerdorf bewahrt, was sich im lebhaften Fischmarkt und den zahlreichen bunten Booten widerspiegelt. Gleichzeitig ist die Stadt ein wichtiges Tor zur westlichen Halbinsel, die für ihre Jachtwerften und Nationalparks bekannt ist. Historisch gesehen war die Region Schauplatz militärischer Befestigungen während der Weltkriege. Im Unterricht (Geographie K8) dient Carenage als Beispiel für eine Küstensiedlung, die traditionelle Fischerei mit modernem maritimen Tourismus und militärischem Erbe verbindet.",
+      "factsAdvanced": [
+        "Historisches Fischerdorf westlich der Hauptstadt.",
+        "Name verweist auf die Schiffsreparatur (Carenage).",
+        "Wichtiger Standort für den lokalen Fischfang und Handel.",
+        "Tor zur westlichen Halbinsel Chaguaramas.",
+        "Malerische Lage direkt an der Küste des Golfs von Paria.",
+        "Mischung aus Wohngebieten und maritimer Industrie.",
+        "Schauplatz historischer Küstenbefestigungen.",
+        "Lehrplanfokus: Küstenökonomie und maritimes Erbe (K8)."
+      ]
+    },
+    {
+      "id": "tt-westmoorings-cities-v2",
+      "descriptionAdvanced": "Westmoorings ist eines der exklusivsten Wohngebiete von Trinidad, gelegen im Nordwesten direkt am Meer. Diese planmäßig angelegte Vorstadt ist bekannt für ihre luxuriöse Architektur, gepflegte Parkanlagen und die Nähe zum West Mall, einem der exklusivsten Einkaufszentren der Insel. Westmoorings wurde größtenteils auf Neuland errichtet, das durch Landgewinnung aus dem Golf von Paria gewonnen wurde, was die Stadt zu einem interessanten Beispiel für modernes Geo-Engineering macht. Das Viertel beherbergt zahlreiche Diplomaten, Geschäftsleute und internationale Expats. Die Uferpromenade lädt zum Spazierengehen ein und bietet einen weiten Blick über das Meer. Für Schüler (Geographie K7) verdeutlicht Westmoorings die Konzepte der Landgewinnung (Land Reclamation) und die Entstehung wohlhabender Enklaven innerhalb einer Metropolregion.",
+      "factsAdvanced": [
+        "Exklusivstes Wohnviertel im Nordwesten Trinidads.",
+        "Errichtet auf durch Landgewinnung gewonnenem Boden.",
+        "Heimat des prestigeträchtigen West Mall Einkaufszentrums.",
+        "Sitz vieler Botschaften und internationaler Organisationen.",
+        "Moderne Infrastruktur mit Fokus auf Sicherheit und Design.",
+        "Direkte Lage am Golf von Paria mit schöner Promenade.",
+        "Beispiel für gehobene suburbane Lebensweise.",
+        "Thema: Landgewinnung und soziale Segregation (K7)."
+      ]
+    },
+    {
+      "id": "tt-maraval-cities-v2",
+      "descriptionAdvanced": "Maraval ist ein elegantes Wohn- und Geschäftsviertel in einem der nördlichen Täler von Port of Spain. Bekannt für seine kühleren Temperaturen und die üppige Bergkulisse des Northern Range, gilt Maraval als eine der attraktivsten Wohnlagen der Hauptstadt. Das Tal beherbergt den renommierten St. Andrews Golf Club und zahlreiche exklusive Wohnanlagen. Historisch war Maraval ein bedeutendes Kakao- und Kaffeeanbaugebiet, wovon heute noch der botanische Reichtum der Gärten zeugt. Die Region dient als wichtiges Tor zur Nordküste und zum berühmten Maracas Beach. Entlang der Maraval Road finden sich zahlreiche Boutiquen, Gourmet-Restaurants und Büros. Im Unterricht (Geographie K6) wird Maraval als Beispiel für ein hochpreisiges Wohntal mit spezifischem Mikroklima und als wichtiger Verbindungskorridor zur Küste behandelt.",
+      "factsAdvanced": [
+        "Exklusive Tallage im Norden von Port of Spain.",
+        "Kühleres Klima durch die umgebenden Berge des Northern Range.",
+        "Standort des ältesten Golfclubs von Trinidad (St. Andrews).",
+        "Wichtige Verbindungsstrecke zur Nordküste (Maracas).",
+        "Geprägt durch luxuriöse Villen und Apartmentanlagen.",
+        "Ehemaliges Zentrum für Kakao- und Kaffeeplantagen.",
+        "Vielfältiges Angebot an Gastronomie und Dienstleistungen.",
+        "Lehrplanfokus: Stadtmorphologie und Mikroklima (K6)."
+      ]
+    },
+    {
+      "id": "tt-tabaquite-cities-v2",
+      "descriptionAdvanced": "Tabaquite ist eine charmante Stadt im Herzen von Zentral-Trinidad, eingebettet in die sanften Hügel der Central Range. Die Stadt ist vor allem für ihre natürliche Schönheit und das beeindruckende Navet Reservoir bekannt, das einen großen Teil der Insel mit Wasser versorgt. Historisch erlangte Tabaquite Bedeutung durch den Knolly's Tunnel, einen der längsten Eisenbahntunnel der Karibik, der einst für den Abtransport von Kakao und Zucker genutzt wurde. Die Region ist geprägt von einer starken landwirtschaftlichen Tradition und einer friedlichen, ländlichen Atmosphäre. Tabaquite ist ein Paradies für Ökotouristen, die die umliegenden Wälder und Flüsse erkunden möchten. Im Unterricht (Geographie/Technik K7) dient Tabaquite als Beispiel für die Bedeutung von Wasserressourcen und für historische Ingenieursleistungen im Schienenverkehr.",
+      "factsAdvanced": [
+        "Zentraler Ort in der hügeligen Central Range.",
+        "Standort des Navet Reservoirs (wichtige Wasserversorgung).",
+        "Beherbergt den historischen Knolly's Tunnel (Eisenbahnreliquie).",
+        "Einstiger Knotenpunkt für den Kakao- und Holztransport.",
+        "Zentrum für Ökotourismus und Naturbeobachtung.",
+        "Landwirtschaftlich geprägte Region mit Kakaoanbau.",
+        "Ruhige, ländliche Identität fernab der Großstädte.",
+        "Thema: Wasserwirtschaft und Transportgeschichte (K7)."
+      ]
+    },
+    {
+      "id": "tt-talparo-cities-v2",
+      "descriptionAdvanced": "Talparo ist eine idyllische ländliche Gemeinde in Zentral-Trinidad, die für ihre unberührte Natur und ihre traditionelle Lebensweise bekannt ist. Abseits der großen städtischen Zentren gelegen, bietet Talparo einen Einblick in das ursprüngliche Leben der Insel, geprägt von Subsistenzwirtschaft und engem Gemeinschaftszusammenhalt. Die Region ist reich an biologischer Vielfalt, mit dichten Wäldern und zahlreichen Vogelarten, was sie zu einem Geheimtipp für Naturfotografen macht. Historisch gesehen war Talparo Teil des weitläufigen Plantagengürtels. Die Ruhe und Abgeschiedenheit machen den Ort heute zu einem Rückzugsort für Menschen, die dem hektischen Stadtleben entfliehen möchten. Im Geographieunterricht (K6) wird Talparo als Beispiel für eine ländliche Siedlungsstruktur und die Bedeutung des Naturschutzes im Binnenland behandelt.",
+      "factsAdvanced": [
+        "Ruhige, ländliche Gemeinde im Herzen der Insel.",
+        "Zentrum für kleinteilige Landwirtschaft und Forstwirtschaft.",
+        "Hohe Biodiversität mit zahlreichen tropischen Vogelarten.",
+        "Traditionelle Dorfstruktur mit starkem sozialem Netz.",
+        "Beliebtes Ziel für Wanderer und Naturbeobachter.",
+        "Relikt des historischen Plantagengürtels Zentral-Trinidads.",
+        "Beispiel für nachhaltiges Leben im ländlichen Raum.",
+        "Lehrplanrelevanz: Ländlicher Raum und Biodiversität (K6)."
+      ]
+    },
+    {
+      "id": "tt-chase-village-cities-v2",
+      "descriptionAdvanced": "Chase Village ist eine schnell wachsende Gemeinde in Zentral-Trinidad, die strategisch günstig am Sir Solomon Hochoy Highway liegt. Die Stadt hat sich von einem überwiegend landwirtschaftlich geprägten Dorf zu einem geschäftigen Handelszentrum entwickelt. Aufgrund seiner zentralen Lage ist Chase Village ein attraktiver Wohnort für Menschen, die sowohl in Port of Spain als auch in San Fernando arbeiten. Die Stadt ist bekannt für ihre lebhafte indotrinidadische Kultur und beherbergt zahlreiche Handwerksbetriebe, insbesondere im Bereich der Töpferei und des traditionellen Möbelbaus. Chase Village dient als wichtiges Bindeglied zwischen den nördlichen und südlichen Industriegebieten der Insel. Für Schüler (Geographie K7) bietet der Ort Einblicke in die Themen Suburbanisierung, wirtschaftliche Diversifizierung und die Bedeutung von Fernstraßen für das lokale Wachstum.",
+      "factsAdvanced": [
+        "Strategisch günstig gelegene Stadt am Haupt-Highway.",
+        "Wichtiger Wohnstandort für Pendler in Zentral-Trinidad.",
+        "Zentrum für traditionelles Handwerk (Töpferei, Möbel).",
+        "Starke indo-trinidadische kulturelle Identität.",
+        "Rasante Entwicklung vom Dorf zum Handelszentrum.",
+        "Knotenpunkt für lokale Dienstleister und Kleingewerbe.",
+        "Verbindungsglied zwischen den Metropolregionen.",
+        "Thema: Suburbanisierung und Handelsgeographie (K7)."
+      ]
+    },
+    {
+      "id": "tt-moruga-cities-v2",
+      "descriptionAdvanced": "Moruga ist eine historische Küstenstadt an der Südküste von Trinidad, die vor allem für ihre tiefe Verbindung zur Geschichte und ihre berühmten Pfefferschoten ('Moruga Scorpion') bekannt ist. Die Stadt gilt als der Ort, an dem Christoph Kolumbus während seiner dritten Reise im Jahr 1498 landete. Moruga ist geprägt von einer stolzen Gemeinschaft, die sich aus Nachfahren von Amerindians, afrikanischen Siedlern und spanischen Kolonisten zusammensetzt. Die Region ist ein bedeutendes Zentrum für den Kakaoanbau und die Fischerei. Das 'Moruga Museum' bewahrt wertvolle Artefakte der indigenen Bevölkerung. Die Abgeschiedenheit und die wilde Schönheit der Küste verleihen Moruga einen einzigartigen Charakter. Im Unterricht (Geschichte/Biologie K7-K8) wird Moruga als Ort der Erstentdeckung und als Herkunftsort einer der schärfsten Pfeffersorten der Welt behandelt.",
+      "factsAdvanced": [
+        "Historischer Landeplatz von Christoph Kolumbus (1498).",
+        "Heimat des weltberühmten 'Moruga Scorpion' Pfeffers.",
+        "Zentrum der indigenen amerindischen Kultur im Süden.",
+        "Wichtiger Standort für Fischerei und Kakaoanbau.",
+        "Beherbergt das Moruga Museum mit archäologischen Funden.",
+        "Abgelegene Lage an der wilden Südküste Trinidads.",
+        "Starke Tradition in Volkskunde und mündlicher Überlieferung.",
+        "Thema: Entdeckungsgeschichte und Agrobiodiversität (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-toco-cities-v2",
+      "descriptionAdvanced": "Toco ist die nordöstlichste Siedlung von Trinidad und dient als Tor zu einer der unberührtesten Küstenregionen der Insel. Bekannt für seinen markanten Leuchtturm (Galera Point), wo der Atlantische Ozean und das Karibische Meer aufeinandertreffen, ist Toco ein beliebtes Ziel für Wochenendausflügler und Surfer. Die Stadt hat eine ruhige, friedliche Atmosphäre und ist von dichten Wäldern und dramatischen Klippen umgeben. Toco ist zudem der Ausgangspunkt für die Fährverbindung nach Tobago, was der Stadt eine strategische Bedeutung verleiht. Die lokale Wirtschaft basiert auf Fischerei und kleinteiliger Landwirtschaft. Toco ist ein Symbol für das 'andere' Trinidad, fernab von Industrie und Großstadtlärm. Im Geographieunterricht (K6) wird Toco als Beispiel für Küstenmorphologie, Meeresströmungen und als wichtiger Verkehrsknotenpunkt für den Inselverkehr behandelt.",
+      "factsAdvanced": [
+        "Nordöstlichster Punkt Trinidads (Galera Point).",
+        "Ort des Zusammentreffens von Atlantik und Karibik.",
+        "Wichtiger Fährhafen für die Verbindung nach Tobago.",
+        "Berühmt für den historischen Toco-Leuchtturm.",
+        "Zentrum für Fischerei und naturnahen Tourismus.",
+        "Geprägt durch eine wilde, felsige Küstenlandschaft.",
+        "Beliebtes Ziel für Surfer aufgrund starker Wellen.",
+        "Lehrplanfokus: Küstenformen und Seeverkehr (K6)."
+      ]
+    },
+    {
+      "id": "tt-matelot-cities-v2",
+      "descriptionAdvanced": "Matelot ist eines der abgelegensten und malerischsten Dörfer an der Nordküste von Trinidad. Nur über eine lange, gewundene Küstenstraße erreichbar, hat sich Matelot einen fast unberührten Charme bewahrt. Das Dorf liegt eingebettet zwischen dem Northern Range und dem tobenden Atlantik. Die Bewohner leben traditionell von der Fischerei und dem Kakaoanbau. Matelot ist bekannt für seine kristallklaren Flüsse, die in das Meer münden, und seine reiche Vogelwelt, was es zu einem Paradies für Ökotouristen macht. Die Gemeinschaft ist eng verbunden und pflegt traditionelle Bräuche. Der Name, französisch für 'Matrose', verweist auf die maritime Geschichte. Im Unterricht (Geographie K6) dient Matelot als Beispiel für eine isolierte Küstengemeinde, die im Einklang mit einer herausfordernden, aber ressourcenreichen natürlichen Umgebung lebt.",
+      "factsAdvanced": [
+        "Eines der am schwierigsten erreichbaren Dörfer Trinidads.",
+        "Idyllische Lage an der wilden Nordküste.",
+        "Zentrum für Subsistenzfischerei und Kakaoanbau.",
+        "Bekannt für unberührte Flüsse und Wasserfälle.",
+        "Wichtiger Ort für den Schutz von Lederschildkröten.",
+        "Französischer Ursprung des Namens ('Matrose').",
+        "Geheimtipp für nachhaltigen Ökotourismus.",
+        "Thema: Abgelegene Siedlungsräume und Ökologie (K6)."
+      ]
+    },
+    {
+      "id": "tt-la-brea-cities-v2",
+      "descriptionAdvanced": "La Brea ist weltberühmt für das Pitch Lake (Pechsee), das größte natürliche Asphaltvorkommen der Welt. Diese geologische Besonderheit prägt nicht nur die Landschaft, sondern auch die gesamte Geschichte und Wirtschaft der Stadt. Seit Jahrhunderten wird der hochwertige Asphalt aus La Brea weltweit für den Straßenbau verwendet. Die Stadt selbst ist eng mit der Gewinnung und dem Export dieses Rohstoffs verbunden. Historisch gesehen nutzten bereits indigene Völker und später Entdecker wie Sir Walter Raleigh das Pech zum Abdichten ihrer Schiffe. In jüngster Zeit hat sich La Brea durch den Bau des La Brea Industrial Estate auch zu einem modernen Industriestandort entwickelt. Für Schüler (Geographie/Geologie K8) ist La Brea der wichtigste Ort in Trinidad, um die Entstehung fossiler Brennstoffe und die Nutzung natürlicher Ressourcen zu studieren.",
+      "factsAdvanced": [
+        "Heimat des Pitch Lake, des größten Pechsees der Welt.",
+        "Wichtigster Lieferant für natürlichen Asphalt weltweit.",
+        "Geologische Sensation und bedeutende Touristenattraktion.",
+        "Historisch genutzt durch Sir Walter Raleigh (1595).",
+        "Zentrum für industrielle Entwicklung im Südwesten.",
+        "Stadtbild geprägt durch die Nähe zum Asphaltvorkommen.",
+        "Bedeutender Exporthafen für Industriegüter.",
+        "Lehrplanrelevanz: Rohstoffe und Geologie (K8)."
+      ]
+    },
+    {
+      "id": "tt-cedros-cities-v2",
+      "descriptionAdvanced": "Cedros ist eine charmante Halbinsel und Gemeinde an der südwestlichen Spitze von Trinidad, die für ihre Palmenhaine und ihre Nähe zu Venezuela bekannt ist. Die Region ist geprägt von einer ruhigen, ländlichen Atmosphäre und einer Wirtschaft, die auf Fischerei und Kokosnussanbau basiert. Cedros dient als wichtiger Außenposten für die Küstenwache und als historisches Tor für Migrationsbewegungen zwischen Trinidad und dem südamerikanischen Festland. Die Strände von Cedros bieten einen Blick auf die Küste Venezuelas, die an klaren Tagen sichtbar ist. Das Dorf bewahrt einen starken Gemeinschaftsgeist und ist bekannt für seine Gastfreundschaft. Im Geographieunterricht (K7) wird Cedros als Beispiel für eine Halbinsel und als Grenzregion behandelt, die durch ihre geographische Nähe zu einem Nachbarland geprägt ist.",
+      "factsAdvanced": [
+        "Südwestlichste Halbinsel von Trinidad.",
+        "Geprägt durch weitläufige Kokosnussplantagen.",
+        "Wichtiger Fischereistandort und Grenzübergang.",
+        "Geographische Nähe zu Venezuela (Sichtweite).",
+        "Ruhige, traditionelle Lebensweise der Bewohner.",
+        "Historischer Landeplatz für Migration und Handel.",
+        "Bekannt für seine idyllischen, palmenengesäumten Strände.",
+        "Thema: Grenzgeographie und Küstenökonomie (K7)."
+      ]
+    },
+    {
+      "id": "tt-mayaro-cities-v2",
+      "descriptionAdvanced": "Mayaro ist die bekannteste Urlaubsdestination an der Südostküste von Trinidad, berühmt für ihren kilometerlangen, von Kokospalmen gesäumten Sandstrand. Die Stadt ist ein beliebtes Ziel für Inlandsurlauber, die in den zahlreichen Ferienhäusern ('Beach Houses') Entspannung suchen. Wirtschaftlich ist Mayaro jedoch weit mehr als ein Ferienort; die Region ist ein wichtiges Zentrum für die Offshore-Öl- und Gasindustrie, mit zahlreichen Versorgungsbasen an der Küste. Diese Dualität zwischen Tourismus und Energieindustrie prägt das soziale Gefüge der Stadt. Mayaro bewahrt zudem eine starke Fischereitradition. Die Region ist auch für ihre reiche Folklore und mündliche Überlieferung bekannt. Im Unterricht (Geographie/Wirtschaft K8) dient Mayaro als Fallstudie für die Koexistenz von Tourismus und Rohstoffgewinnung in einer Küstenregion.",
+      "factsAdvanced": [
+        "Beliebtester Ferienort an der Südostküste Trinidads.",
+        "Berühmt für den extrem langen, palmenengesäumten Mayaro Beach.",
+        "Strategisches Zentrum für die Offshore-Energieindustrie.",
+        "Mischung aus Tourismus, Fischerei und Ölsektor.",
+        "Bekannt für seine lebhafte lokale Folklore.",
+        "Standort zahlreicher Ferienhaussiedlungen.",
+        "Wichtiges Versorgungszentrum für den Südosten.",
+        "Lehrplanfokus: Tourismus und Offshore-Industrie (K8)."
+      ]
+    },
+    {
+      "id": "tt-rio-claro-cities-v2",
+      "descriptionAdvanced": "Rio Claro ist die wichtigste Stadt im südöstlichen Binnenland von Trinidad und dient als administratives Zentrum für die Region Mayaro-Rio Claro. Die Stadt entwickelte sich im frühen 20. Jahrhundert als bedeutender Knotenpunkt für die Eisenbahn und die florierende Kakao- und Holzindustrie. Rio Claro ist geprägt von einer geschäftigen Atmosphäre und dient als Versorgungszentrum für die umliegenden landwirtschaftlichen Gemeinden. Die Umgebung ist reich an dichten Wäldern und fruchtbarem Ackerland. Trotz des Endes der Eisenbahnära hat Rio Claro seine Bedeutung als Handelsplatz behauptet. Die Stadt ist ein Schmelztiegel verschiedener ethnischer Gruppen, die die Vielfalt Trinidads widerspiegeln. Für Schüler (Geographie K7) ist Rio Claro ein Beispiel für ein Binnenzentrum, das seine historische Bedeutung aus dem Transportwesen und der Agrarwirtschaft ableitet.",
+      "factsAdvanced": [
+        "Hauptstadt der Region Mayaro-Rio Claro.",
+        "Einstiger strategischer Eisenbahnknotenpunkt im Südosten.",
+        "Zentrum für den Handel mit Holz und Agrarprodukten.",
+        "Wichtiges Versorgungszentrum für ländliche Gemeinden.",
+        "Geprägt durch eine reiche Geschichte des Kakaoanbaus.",
+        "Knotenpunkt für den Verkehr zwischen West- und Ostküste.",
+        "Heimat einer vielfältigen, marktorientierten Bevölkerung.",
+        "Thema: Binnenzentren und historische Transportwege (K7)."
+      ]
+    },
+    {
+      "id": "tt-roxborough-cities-v2",
+      "descriptionAdvanced": "Roxborough ist die zweitgrößte Stadt auf Tobago und das administrative Zentrum des östlichen Teils der Insel. Die Stadt ist tief in der Geschichte Tobagos verwurzelt und war 1876 Schauplatz des 'Belmanna Riots', eines bedeutenden Aufstands gegen koloniale Unterdrückung. Roxborough dient als wichtiges Tor zum UNESCO-geschützten Main Ridge Forest Reserve und zum spektakulären Argyle-Wasserfall, dem höchsten Wasserfall Tobagos. Die Stadt hat sich in den letzten Jahren durch den Bau moderner Regierungsgebäude und Infrastruktur stark entwickelt. Die Bewohner sind stolz auf ihre kulturellen Traditionen und ihren Gemeinschaftsgeist. Im Unterricht (Geschichte/Geographie K7-K8) wird Roxborough als Zentrum des Widerstands gegen die Kolonialherrschaft und als Ausgangspunkt für den Naturschutz auf Tobago behandelt.",
+      "factsAdvanced": [
+        "Wichtigstes Zentrum im Osten Tobagos.",
+        "Ort des historischen Belmanna-Aufstands von 1876.",
+        "Tor zum Argyle-Wasserfall und zum Main Ridge Reservat.",
+        "Administrativer Sitz der östlichen Bezirksverwaltung.",
+        "Historisch bedeutend für die Emanzipationsbewegung.",
+        "Zentrum für Bildung und Gesundheit im Osten der Insel.",
+        "Starke Tradition in Musik und kulturellen Festen.",
+        "Thema: Kolonialer Widerstand und Naturschutz (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-speyside-cities-v2",
+      "descriptionAdvanced": "Speyside ist ein idyllisches Dorf an der Nordostküste von Tobago, das weltweit als erstklassiges Ziel für Taucher und Naturliebhaber bekannt ist. Gelegen an der Tyrrel’s Bay, bietet das Dorf Zugang zu einigen der spektakulärsten Korallenriffe der Karibik und ist die Heimat gewaltiger Hirnkorallen. Von Speyside aus starten Boote zur nahegelegenen Insel Little Tobago, einem bedeutenden Vogelschutzgebiet. Die Region ist geprägt von einer ruhigen, entspannten Atmosphäre und einer tiefen Verbundenheit mit dem Meer. Speyside beherbergt einige der besten Öko-Resorts der Insel. Die hügelige Umgebung bietet Wanderwege mit atemberaubenden Aussichten. Für Schüler (Biologie/Geographie K6-K8) ist Speyside das ideale Studienobjekt für marine Ökosysteme, Korallenriffe und nachhaltigen Tourismus.",
+      "factsAdvanced": [
+        "Weltberühmtes Taucherparadies im Nordosten Tobagos.",
+        "Heimat einiger der größten Hirnkorallen der Welt.",
+        "Ausgangspunkt für Exkursionen zum Little Tobago Vogelschutzgebiet.",
+        "Zentrum für hochwertigen Ökotourismus und Tauchsport.",
+        "Malerische Lage an der Tyrrel’s Bay.",
+        "Geprägt durch steile, bewaldete Hügelketten.",
+        "Wichtiger Standort für die Erforschung mariner Biodiversität.",
+        "Thema: Korallenriffe und Ökotourismus (K6-K8)."
+      ]
+    },
+    {
+      "id": "tt-crown-point-cities-v2",
+      "descriptionAdvanced": "Crown Point ist das touristische Zentrum von Tobago und beherbergt den A.N.R. Robinson International Airport. Gelegen an der flachen südwestlichen Spitze der Insel, ist Crown Point der Ort, an dem sich die meisten Hotels, Restaurants und Bars konzentrieren. Die Stadt ist das Tor zu den weltberühmten Stränden Store Bay und Pigeon Point, die für ihr kristallklares Wasser und ihren weißen Sand bekannt sind. Crown Point ist geprägt von einer lebhaften, internationalen Atmosphäre und dient als Hauptankunftspunkt für Besucher. Trotz der touristischen Entwicklung bewahrt der Ort seinen inseltypischen Charme. In der Nähe finden sich historische Stätten wie Fort Milford. Im Unterricht (Geographie/Wirtschaft K8) wird Crown Point als Beispiel für eine Tourismus-basierte Wirtschaft und als wichtigster Verkehrsknotenpunkt Tobagos analysiert.",
+      "factsAdvanced": [
+        "Touristische Hauptstadt und Hauptverkehrsknotenpunkt Tobagos.",
+        "Standort des A.N.R. Robinson International Airport (TAB).",
+        "Tor zu den Top-Stränden Pigeon Point und Store Bay.",
+        "Höchste Dichte an touristischer Infrastruktur auf der Insel.",
+        "Zentrum für Nachtleben, Gastronomie und Wassersport.",
+        "Strategische Lage an der flachen Westspitze.",
+        "Beherbergt die historischen Ruinen von Fort Milford.",
+        "Lehrplanfokus: Tourismuswirtschaft und Infrastruktur (K8)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chambishi-cities-v2",
+      "descriptionAdvanced": "Chambishi egy gyorsan növekvő bányászati város a Copperbelt tartományban, amely jelentős többcélú gazdasági övezettel rendelkezik. A város a réz- és kobaltbányászatára, valamint az ehhez kapcsolódó feldolgozóiparra szakosodott, ami Zambia exportbevételének egyik fontos forrása. Ipari központként a város nagymértékű infrastrukturális beruházásokat vonzott. Chambishi jól példázza a sambiai bányászati ágazat modernizációját a nemzetközi gazdasági együttműködések és technológiai fejlesztések révén.",
+      "factsAdvanced": ["Fontos központ a réz- és kobaltbányászatban", "Jelentős többcélú gazdasági övezet székhelye", "Meghatározó szerep az országos exportban", "Ipari jellegű városkép", "Magasság: kb. 1250 méter", "Kulcshelyszín az ipari befektetésekhez"]
+    },
+    {
+      "id": "kalulushi-cities-v2",
+      "descriptionAdvanced": "Kalulushit 1953-ban alapították a bányászati dolgozók lakóhelyéül a Copperbelt régióban. A várost történelmileg szoros szálak fűzik a Chibuluma rézbányához, ami meghatározza a város karakterét, amely stabil infrastruktúrát biztosít lakói számára. A város az ipari hagyományok és a nyugodt, lakható környezet sikeres ötvözete. Ma Kalulushi egy növekvő közösség, amely a bányászati hátterét modern szolgáltatásokkal bővíti, sikeresen integrálva az ipari múltat a városi életbe.",
+      "factsAdvanced": ["Történelmi alapítás bányászok számára (1953)", "A Chibuluma rézbánya székhelye", "Fontos lakóhely a Copperbeltben", "Ipari hagyományok sikeres integrációja", "Magasság: kb. 1250 méter", "Növekvő városi közösség"]
+    },
+    {
+      "id": "lufwanyama-cities-v2",
+      "descriptionAdvanced": "Lufwanyama egy kiterjedt körzet a Copperbeltben, amely mind a mezőgazdaságáról, mind a smaragdbányászatáról ismert. A város és a környező kerület egyedi kombinációját mutatja az intenzív mezőgazdasági tevékenységnek és a jelentős drágakő-előfordulásoknak. Míg a mezőgazdaság a helyi közösség megélhetését biztosítja, a smaragdvagyon regionális gazdasági figyelmet vonz. Lufwanyama példája a sambiai erőforrások sokszínűségének, amely a mezőgazdasági és ipari fejlődés találkozási pontja.",
+      "factsAdvanced": ["Jelentős smaragdbányák központja", "Fontos mezőgazdasági körzet a Copperbeltben", "Vidékies-ipari karakter", "Változatos természeti erőforrások", "Magasság: kb. 1200 méter", "Kiemelt szerep a drágakő-előállításban"]
+    },
+    {
+      "id": "chongwe-cities-v2",
+      "descriptionAdvanced": "Chongwe egy város a Lusaka Tartományban, amely létfontosságú mezőgazdasági és oktatási központként működik. A fővároshoz való közelsége elősegíti a folyamatos fejlődést, mind a lakhatási, mind a termelési szektorban. A város a mezőgazdasági üzemek és az oktatási intézmények jelentős támaszpontja, ami nagyban hozzájárul a tartomány fejlődéséhez. A város egyre vonzóbbá válik az ingázók és a vállalkozások számára egyaránt, miközben megőrzi a természetes környezetét a Chongwe-folyó mentén.",
+      "factsAdvanced": ["Fontos központ a mezőgazdaságban és oktatásban", "Meghatározó helyszín a Lusaka Tartományban", "Fejlődő lakhatási és termelési terület", "Erős infrastruktúrai összeköttetés Lusakával", "Magasság: kb. 1200 méter", "Regionális oktatási szerep"]
+    },
+    {
+      "id": "chilanga-cities-v2",
+      "descriptionAdvanced": "Chilanga Lusakától délre fekszik, és leginkább cementgyártásáról, valamint zöldterületeiről ismert. A cementipar révén Chilanga fontos hozzájárulást nyújt az országos építőiparhoz és az infrastruktúra-fejlesztéshez. A város fontos ipari gyártási csomópontként épült ki, miközben környezeti adottságai megőrzése révén minőségi lakóhelyet biztosít. A fővároshoz való közelsége és saját gyártási kapacitása diverzifikált gazdasági struktúrát teremtett.",
+      "factsAdvanced": ["Jelentős központ a cementiparban", "Fontos hozzájárulás az országos építőiparhoz", "Ismert zöld rekreációs övezeteiről", "Stratégiai közelség Lusakához", "Magasság: kb. 1250 méter", "Ipari központ a fővárostól délre"]
+    },
+    {
+      "id": "serenje-cities-v2",
+      "descriptionAdvanced": "Serenje egy fontos kereszteződés a Középponti Tartományban, a 'Great North Road' közelében helyezkedik el. A város a tranzitforgalom központi szolgáltatóhelye, és elengedhetetlen szolgáltatásokat nyújt a környező vidéki közösségek számára, amelyek elsősorban mezőgazdaságiak. A közeli Kundalila-vízesés további potenciált kínál a természetorientált turizmus számára. Serenje egy olyan város, amely folyamatosan építi logisztikai csomóponti szerepét, miközben hasznosítja a régió természeti adottságait.",
+      "factsAdvanced": ["Fontos csomópont a Great North Road mentén", "Közelség a Kundalila-vízeséshez", "Központi szolgáltatóhely tranzitutazóknak", "Fontos szerep a regionális agrárgazdaságban", "Magasság: kb. 1450 méter", "Természetközeli turisztikai potenciál"]
+    },
+    {
+      "id": "mkushi-cities-v2",
+      "descriptionAdvanced": "Mkushi a kereskedelmi mezőgazdaságáról híres, ezzel Zambia egyik kulcsfontosságú agrárközpontjává vált. A város környékén elterülő rendkívül produktív farmblokkok meghatározóak az ország élelmezésbiztonságában, különösen a kukorica- és búzatermesztésben. Ennek a mezőgazdasági fókuszának köszönhetően Mkushi a Középponti Tartomány gazdaságilag stabil helyszíne. A város rendelkezik a modern mezőgazdasági termeléshez szükséges infrastruktúrával, egyben fontos kereskedelmi állomás a környező vidéki régiók számára.",
+      "factsAdvanced": ["Híres a kereskedelmi mezőgazdaságáról", "Kulcshelyszín a gabonatermesztésben (kukorica/búza)", "A Középponti Tartomány gazdasági motorja", "Központi kereskedelmi pont agrártermékekre", "Magasság: kb. 1300 méter", "Hozzájárulás az országos élelmezésbiztonsághoz"]
+    },
+    {
+      "id": "chibombo-cities-v2",
+      "descriptionAdvanced": "Chibombo egy közigazgatási és piaci város a Középponti Tartományban, a környék mezőgazdasági tevékenységeinek létfontosságú csomópontja. A város nagyban profitál a fő közlekedési útvonalak közelségéből, ami megkönnyíti a kukorica és egyéb mezőgazdasági termékek szállítását. Chibombo elengedhetetlen szolgáltatóközpont a vidéki közösségek számára, biztosítva az oktatást, egészségügyet és a kereskedelmet. Növekedése szorosan összefügg a középső-zambiai mezőgazdasági szektor termelékenységével.",
+      "factsAdvanced": ["Adminisztratív központ a Chibombo-kerületben", "Kiemelt csomópont a regionális gabonakereskedelemben", "Stratégiai összeköttetés a fő közlekedési útvonalakkal", "Esszenciális szolgáltatóközpont vidéki térségeknek", "Magasság: kb. 1200 méter", "Központi piac a helyi termékeknek"]
+    },
+    {
+      "id": "nyimba-cities-v2",
+      "descriptionAdvanced": "Nyimba a Keleti Tartomány városa, amely fontos tranzitállomásként szolgál a 'Great East Road' mentén, így kulcsszerepet játszik a regionális logisztikában. A város a főváros és a kelet-zambiai régiók közötti hosszú utak során az utazók és a szállítmányozók számára elengedhetetlen ellátó- és pihenőhely. A tranzitfunkció mellett Nyimba alapvető szolgáltatásokat nyújt a környező vidéki közösségek számára, segítve a régió gazdasági stabilitását.",
+      "factsAdvanced": ["Fontos tranzitállomás a Great East Road mentén", "Központi ellátó- és pihenőhely", "Összekötő elem a keleti távolsági forgalomban", "Fontos település a Keleti Tartományban", "Magasság: kb. 1050 méter", "Létfontosságú szerep a regionális logisztikában"]
+    },
+    {
+      "id": "rufunsa-cities-v2",
+      "descriptionAdvanced": "Rufunsa egy város és kerület a Lusaka Tartományban, amelyet a hagyományos bányászat és festői természeti tájak jellemeznek. A régió változatos földrajzi adottságokkal rendelkezik, ami vonzó hellyé teszi mind a gazdasági tevékenységek, mind a természetközeli kikapcsolódás számára. Lusaka Tartománybeli kerületként Rufunsa profitál a fővároshoz való közelségéből, miközben megőrzi inkább vidéki, hagyományos karakterét. A gazdaságát a bányászat és a mezőgazdaság kisüzemi tevékenységei határozzák meg.",
+      "factsAdvanced": ["Hagyományos bányászati helyszín", "Festői természeti környezet", "Fontos kerület a Lusaka Tartományban", "Vidékies jellegű település", "Magasság: kb. 1100 méter", "Hagyományos gazdasági tevékenységek ötvözete"]
+    }
+  ]
+}

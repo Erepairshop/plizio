@@ -1,0 +1,45 @@
+{
+  "lang": "ro",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "djebel-orbata-relief-v2",
+      "descriptionAdvanced": "Djebel Orbata este un masiv muntos impunător în regiunea Gafsa, care reprezintă o barieră topografică importantă ca parte a ramificațiilor estice ale Atlasului. Relieful se caracterizează prin pereți stâncoși abrupți, văi adânci și pante uscate, stâncoase, caracteristice zonei mai aride a Tunisiei. Din punct de vedere geologic, regiunea este strâns legată de bogatele zăcăminte de fosfați din regiunea Gafsa, care sunt de o importanță economică crucială pentru țară. Din punct de vedere ecologic, masivul funcționează ca un refugiu important pentru specii de plante și animale adaptate și formează un punct de ancorare economic și ecologic esențial într-un mediu altfel destul de uscat.",
+      "factsAdvanced": [
+        "Djebel Orbata face parte din Atlasul Dorsal estic.",
+        "Regiunea este un centru al mineritului de fosfați din Tunisia.",
+        "Relieful este marcat de eroziunea cauzată de vânt și precipitații rare.",
+        "Muntele servește ca un coridor ecologic important în regiunea Gafsa.",
+        "Formațiunile muntoase sunt bogate în straturi de rocă sedimentară.",
+        "Peisajul este marcat de pante sterpe, stâncoase și creste abrupte."
+      ]
+    },
+    {
+      "id": "kroumirie-gebirge-relief-v2",
+      "descriptionAdvanced": "Munții Kroumirie reprezintă cea mai umedă și mai verde regiune muntoasă a Tunisiei, care se întinde în nord-vestul țării. Datorită precipitațiilor ridicate cauzate de vânturile din Mediterana, aici s-a dezvoltat un ecosistem unic cu păduri dese de stejar de plută și stejar verde. Relieful munților Kroumirie este caracterizat de creste ușor rotunjite și văi adânc tăiate, care formează un contrast puternic cu aspectul peisajului tunisian altfel dominat de ariditate. Această regiune este inestimabilă din punct de vedere ecologic și oferă habitat pentru o varietate de specii rare de animale și plante care prosperă în acest mediu umed.",
+      "factsAdvanced": [
+        "Regiunea Kroumirie înregistrează cele mai ridicate precipitații din toată Tunisia.",
+        "Pădurile dese de stejar de plută sunt caracteristice acestui ținut muntos.",
+        "Climatul este considerabil mai blând și mai umed datorită poziției apropiate de coastă.",
+        "Regiunea găzduiește o biodiversitate excepțional de ridicată.",
+        "Zona muntoasă servește ca un turn de apă natural pentru împrejurimi.",
+        "Silvicultura și turismul ecologic sunt principalele forme de utilizare a regiunii."
+      ]
+    },
+    {
+      "id": "djebel-bou-kornine-relief-v2",
+      "descriptionAdvanced": "Djebel Bou Kornine este un munte distinctiv cu două vârfuri care se ridică imediat la sud de Golful Tunis și reprezintă un element de relief important al peisajului de coastă. Ca zonă desemnată de parc național, acesta protejează nu doar flora caracteristică a munților de coastă tunisieni, ci oferă și o vedere panoramică impresionantă asupra capitalei Tunis și a Mediteranei. Relieful său constă predominant din calcar, care a fost modelat de procesele geologice de-a lungul timpului. Importanța ecologică a muntelui ca plămân verde în imediata apropiere a spațiului urban și ca habitat pentru plantele mediteraneene adaptate îl face un monument natural semnificativ al regiunii.",
+      "factsAdvanced": [
+        "Djebel Bou Kornine atinge o înălțime de aproape 600 de metri.",
+        "Este protejat ca parc național pentru a conserva biodiversitatea regională.",
+        "Numele 'Bou Kornine' înseamnă în limba locală 'Tatăl celor două coarne'.",
+        "Muntele este o destinație de excursie foarte populară pentru locuitorii Tunisului.",
+        "Flora parcului include specii rare de plante adaptate local.",
+        "Roca este formată în principal din depuneri calcaroase."
+      ]
+    }
+  ]
+}

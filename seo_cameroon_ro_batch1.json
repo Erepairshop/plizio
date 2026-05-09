@@ -1,0 +1,367 @@
+{
+  "lang": "ro",
+  "country": "cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "foumban-royal-palace-history-v2",
+      "descriptionAdvanced": "Palatul Regal din Foumban, centrul spiritual și politic al Regatului Bamoun, a fost fondat tradițional în 1394 de Nchare Yen. Edificiul actual a fost construit în 1917 sub sultanul Ibrahim Njoya, cunoscut pentru inventarea sistemului de scriere Shü-mom în 1896. Arhitectura îmbină tehnicile locale de lut cu elemente de design ale castelelor germane. Muzeul palatului, stabilit în 1920, este una dintre cele mai vechi colecții din Africa de Vest, găzduind tronuri și manuscrise regale. Acest sit este esențial pentru înțelegerea istoriei Kamerunului în curriculumul K8, evidențiind interacțiunea dintre perioada colonială și regatele locale.",
+      "factsAdvanced": [
+        "Regatul Bamoun a fost fondat în 1394 de Nchare Yen.",
+        "Palatul actual a fost construit în 1917 de sultanul Ibrahim Njoya.",
+        "Njoya a domnit între 1895 și 1931.",
+        "Sistemul de scriere Shü-mom a fost inventat în 1896.",
+        "Arhitectura a fost inspirată de castelele din Berlin.",
+        "Muzeul palatului a fost deschis în 1920.",
+        "Situl este inclus pe lista provizorie UNESCO din 2006."
+      ]
+    },
+    {
+      "id": "bimbia-slave-port-history-v2",
+      "descriptionAdvanced": "Portul de sclavi Bimbia a fost unul dintre cele mai active puncte de transport din Golful Biafra între 1700 și 1852, de unde se estimează că peste 200.000 de persoane au fost deportate în Brazilia, Cuba și Caraibe. Controlat de căpeteniile locale Isubu, portul a fost închis oficial în 1852 prin blocada navală a consulului britanic John Beecroft. Astăzi, situl este un memorial național ce păstrează ruinele depozitelor și lanțurile de fier originale. Acesta oferă o perspectivă tragică asupra începuturilor diasporei africane, fiind integrat în curriculumul K7-K8 privind istoria sclaviei.",
+      "factsAdvanced": [
+        "Perioada activă a fost între anii 1700 și 1852.",
+        "Peste 200.000 de persoane au fost deportate de aici.",
+        "Principalele destinații au fost Brazilia, Cuba și Caraibe.",
+        "Comerțul era controlat de căpeteniile Isubu.",
+        "John Beecroft a pus capăt comerțului în 1852.",
+        "Ruinele depozitelor și lanțurile sunt conservate in situ.",
+        "Situl a devenit memorial național în 2017."
+      ]
+    },
+    {
+      "id": "kribi-lighthouse-history-v2",
+      "descriptionAdvanced": "Farul din Kribi a fost ridicat în 1906, în timpul administrației coloniale germane, pentru a facilita exportul de lemn tropical, cacao și fildeș. Structura de 18 metri înălțime, fabricată în Hamburg, a supraviețuit Primului Război Mondial fără daune majore. Optica originală cu petrol a fost electrificată în anii '60, farul devenind un monument istoric protejat. Acesta ilustrează dezvoltarea infrastructurii comerciale maritime la începutul secolului al XX-lea, fiind relevant pentru curriculumul K7 privind evoluția comerțului colonial.",
+      "factsAdvanced": [
+        "Farul a fost construit în 1906.",
+        "Structura de 18 metri a fost prefabricată în Hamburg.",
+        "A protejat exportul de cacao și fildeș.",
+        "A supraviețuit Primului Război Mondial.",
+        "A fost electrificat în anii 1960.",
+        "Este un monument protejat prin lege în Kamerun."
+      ]
+    },
+    {
+      "id": "prime-ministers-lodge-history-v2",
+      "descriptionAdvanced": "Reședința lui Jesko von Puttkamer din Buéa a fost construită în 1902, după mutarea capitalei coloniale din cauza malariei. Construită din elemente prefabricate în stil wilhelminian, aceasta a servit drept sediu pentru administrația britanică, iar din 1954 a devenit reședința primului-ministru al Kamerunului de Sud. Aici a activat John Ngu Foncha între 1958 și 1961, lider crucial în unificarea celor două părți ale Kamerunului. Astăzi, clădirea este un monument istoric vital pentru curriculumul K8 privind reunificarea țării.",
+      "factsAdvanced": [
+        "Construită în 1902 pentru guvernatorul Jesko von Puttkamer.",
+        "Capitala a fost mutată de la Douala la Buéa în 1901.",
+        "Situată la aproximativ 1000 de metri altitudine.",
+        "A devenit reședința primului-ministru în 1954.",
+        "John Ngu Foncha a activat aici între 1958-1961.",
+        "Reunificarea a avut loc pe 1 octombrie 1961."
+      ]
+    },
+    {
+      "id": "bismarck-fountain-history-v2",
+      "descriptionAdvanced": "Fântâna Bismarck a fost ridicată în 1908 în Buéa pentru a-l onora pe cancelarul german Otto von Bismarck, care a pus bazele protectoratului german în 1884. Construită din piatră vulcanică de pe Mount Cameroon, aceasta purta inițial un relief de bronz eliminat de britanici în 1916. Fântâna servește astăzi ca un simbol controversat al trecutului colonial și face parte din circuitul istoric al orașului. Este un studiu de caz esențial pentru curriculumul K8 privind memoria colonială și relația dintre trecut și prezent.",
+      "factsAdvanced": [
+        "Construită în 1908 în Buéa.",
+        "Dedicată cancelarului Otto von Bismarck.",
+        "Semnată în 1884, protecția germană a început atunci.",
+        "Construită din piatră vulcanică locală.",
+        "Relieful de bronz a fost înlăturat în 1916.",
+        "Face parte din circuitul istoric al orașului din 2010."
+      ]
+    },
+    {
+      "id": "charles-atangana-palace-history-v2",
+      "descriptionAdvanced": "Palatul lui Charles Atangana din Yaoundé a fost construit în 1924 pentru conducătorul Ewondo, o figură politică centrală a secolului al XX-lea. Atangana a colaborat succesiv cu administrația germană și apoi cu cea franceză, având un rol cheie în stabilirea capitalei la Yaoundé în 1922. Palatul, care îmbină stilurile europene cu cele locale, a fost restaurat în 2009 sub președintele Paul Biya și funcționează ca monument național și muzeu. Este un sit important pentru curriculumul K8 privind istoria politică a Kamerunului și rolul elitelor locale.",
+      "factsAdvanced": [
+        "Palatul a fost construit în 1924.",
+        "Charles Atangana a trăit între 1880 și 1943.",
+        "A participat la o delegație diplomatică la Berlin în 1911.",
+        "Yaoundé a devenit capitală în 1922.",
+        "Situl se află în cartierul Mvolyé.",
+        "Restaurat în 2009 ca monument național."
+      ]
+    },
+    {
+      "id": "mankon-fons-palace-history-v2",
+      "descriptionAdvanced": "Palatul Fonului din Mankon este unul dintre cele mai importante centre ale culturii Tikar, fondat în secolul al XVII-lea. Structura actuală datează în mare parte de la sfârșitul secolului al XIX-lea, remarcându-se prin clădiri din lut cu acoperișuri piramidale de paie și stâlpi sculptați simbolic. Muzeul, deschis în 2006, păstrează peste 350 de obiecte regale, inclusiv măști ale societății secrete Kwifoyn. Acest sit este esențial pentru curriculumul K7 privind regatele tradiționale și structurile sociale din Kamerun.",
+      "factsAdvanced": [
+        "Regatul a fost fondat în secolul al XVII-lea.",
+        "Clădirile actuale sunt din secolul al XIX-lea.",
+        "Muzeul Mankon a fost deschis în 2006.",
+        "Colecția numără 350 de obiecte tradiționale.",
+        "Fon Angwafo al III-lea a domnit între 1959 și 2022.",
+        "Acoperișurile piramidale sunt un element distinctiv."
+      ]
+    },
+    {
+      "id": "bafut-palace-history-v2",
+      "descriptionAdvanced": "Palatul din Bafut, situat la 16 kilometri nord de Bamenda, datează de la începutul secolului al XVI-lea și este un centru istoric fundamental al regatelor din savana kameruneză. Complexul include sanctuarul Achum, un loc sacru, și a supraviețuit distrugerii din 1907 în timpul războiului Bafut împotriva germanilor. Reconstruit sub Fon Achirimbi al II-lea, situl a devenit celebru și datorită scriitorului Gerald Durrell, care a scris aici 'Bafut királya'. Este inclus pe lista provizorie UNESCO și este integrat în curriculumul K8 privind rezistența și independența.",
+      "factsAdvanced": [
+        "Fondat la începutul secolului al XVI-lea.",
+        "Complexul cuprinde aproximativ 50 de clădiri.",
+        "Sanctuarul Achum este centrul spiritual.",
+        "Distrus de germani în războiul din 1907.",
+        "Reconstruit sub Achirimbi al II-lea (1932-1968).",
+        "Gerald Durrell a scris 'The Bafut Beagles' aici.",
+        "Candidat UNESCO din 2006."
+      ]
+    },
+    {
+      "id": "notre-dame-des-victoires-history-v2",
+      "descriptionAdvanced": "Catedrala Notre-Dame-des-Victoires din Yaoundé a fost consacrată în 1955, înlocuind o capelă misionară mai veche. Proiectată de arhitectul Armand Salomon, clădirea îmbină modernismul cu motive locale, acoperișul său amintind de colibele tribului Bamiléké. Interiorul este marcat de mozaicul Madonnei Negre, opera artistului Engelbert Mveng, primul iezuit african. Situl a fost martorul vizitei Papei Ioan Paul al II-lea în 1985, fiind un punct central în curriculumul K8 privind istoria ecleziastică din Kamerun.",
+      "factsAdvanced": [
+        "Consacrată în 1955.",
+        "Proiectată de arhitectul Armand Salomon.",
+        "Mozaicul Madonnei Negre a fost creat de Engelbert Mveng.",
+        "Papa Ioan Paul al II-lea a vizitat situl în 1985.",
+        "La slujba papală au participat peste 100.000 de credincioși."
+      ]
+    },
+    {
+      "id": "reunification-monument-history-v2",
+      "descriptionAdvanced": "Monumentul Reunificării din Yaoundé a fost ridicat în 1976 pentru a comemora unirea dintre Camerunul de Est francofon și Camerunul de Vest anglofon, petrecută pe 1 octombrie 1961. Conceput de sculptorul Gédéon Mpando și arhitectul Armand Salomon, monumentul prezintă o spirală de bronz sub forma a doi șerpi, simbolizând contopirea celor două spații lingvistice. Statuia, inaugurată sub președintele Ahmadou Ahidjo, este locul central al sărbătorilor naționale de pe 20 mai. Acesta reprezintă un sit fundamental în curriculumul K8 privind statalitatea cameruneză.",
+      "factsAdvanced": [
+        "Inaugurat în 1976 la Yaoundé.",
+        "Sculptor: Gédéon Mpando.",
+        "Arhitect: Armand Salomon.",
+        "Comemorează reunificarea din 1961.",
+        "Șase figuri de bronz decorează soclul.",
+        "Locul central al ceremoniilor de pe 20 mai."
+      ]
+    },
+    {
+      "id": "palace-of-rey-bouba-history-v2",
+      "descriptionAdvanced": "Palatul Lamidatului Rey Bouba, fondat în 1804 de Ardo Bouba Njida, este una dintre cele mai influente centre tradiționale din nordul țării. Complexul extins din cărămizi de lut, protejat de ziduri cu turnuri, a servit drept bastion al islamizării Podișului Adamaoua în secolul al XIX-lea, păstrându-și autonomia în perioada colonială. Actualul conducător, Aboubakary Abdoulaye, reprezintă a 14-a generație a dinastiei. Situl oferă o perspectivă profundă asupra tradițiilor islamice și structurilor de putere, fiind relevant pentru curriculumul K7 privind istoria influenței din Sahel.",
+      "factsAdvanced": [
+        "Lamidatul a fost fondat în 1804.",
+        "A făcut parte din Califatul Sokoto în secolul al XIX-lea.",
+        "A păstrat autonomia în timpul colonizării germane.",
+        "Actualul lider, Aboubakary Abdoulaye, domnește din 2004.",
+        "Dinastia numără 14 conducători.",
+        "Ziduri caracteristice cu turnuri de veghe."
+      ]
+    },
+    {
+      "id": "bandjoun-chiefdom-history-v2",
+      "descriptionAdvanced": "Căpetenia Bandjoun din regiunea de Vest este un centru major al culturii Bamiléké, fondat tradițional în secolul al XVII-lea. Palatul Hiala, reconstruit în 2005 după un incendiu, este renumit pentru stâlpii din mănunchiuri de bambus de 9 metri și acoperișul piramidal al casei de întruniri La'akam. Din 2008, situl găzduiește și Musée Bandjoun Station, un centru de artă internațional fondat de artistul Barthélémy Toguo. Batjoun a avut un rol strategic în perioada revoltelor Bamiléké din 1955-1971, fiind un sit esențial pentru curriculumul K7 privind cultura și arta Bamiléké.",
+      "factsAdvanced": [
+        "Fondată în secolul al XVII-lea de Notouom.",
+        "Palatul Hiala a fost reconstruit în 2005.",
+        "Stâlpii de susținere au o înălțime de 9 metri.",
+        "Musée Bandjoun Station a fost deschis în 2008.",
+        "Fondator artistul Barthélémy Toguo.",
+        "Perioada revoltelor Bamiléké: 1955-1971.",
+        "Fon Honoré Djomo Kamga domnește din 1995."
+      ]
+    },
+    {
+      "id": "diy-gid-biy-ruins-history-v2",
+      "descriptionAdvanced": "Ruinele din Diy-Gid-Biy, situate în Munții Mandara, cuprind peste 16 situri arheologice cu ziduri complexe din piatră uscată, datate între secolele XIII și XVII. Numele lor, în limba Mafa, înseamnă 'rămășițele căpeteniilor', indicând o populație anterioară grupului actual. Aceste structuri includ terase și ziduri de granit, construite fără mortar. După cercetările sistematice conduse de Scott MacEachern între 2008 și 2014, situl a fost inclus pe lista provizorie UNESCO în 2018, reprezentând un pilon pentru curriculumul K8 privind arheologia și civilizațiile timpurii din Kamerun.",
+      "factsAdvanced": [
+        "Include peste 16 situri arheologice.",
+        "Datare: secolele XIII-XVII.",
+        "Construcții de piatră uscată fără mortar.",
+        "Numele înseamnă 'Rămășițele căpeteniilor'.",
+        "Săpături sistematice între 2008 și 2014.",
+        "Liderul arheologilor: Scott MacEachern.",
+        "Pe lista provizorie UNESCO din 2018."
+      ]
+    },
+    {
+      "id": "old-german-cemetery-douala-history-v2",
+      "descriptionAdvanced": "Vechiul cimitir german din Douala a fost fondat în 1885, imediat după instaurarea protectoratului german în 1884. Acesta adăpostește circa 250 de pietre funerare ale oficialilor, misionarilor și soldaților coloniali, inclusiv mormântul renumitului explorator Eugen Zintgraff. Situl reflectă condițiile sanitare precare de la acea vreme, mortalitatea printre oficiali fiind extrem de ridicată din cauza malariei. Restaurat între 1995 și 2002 cu sprijinul Germaniei, cimitirul reprezintă o mărturie istorică esențială pentru curriculumul K8 privind perioada colonială.",
+      "factsAdvanced": [
+        "Fondat în 1885.",
+        "Aprox. 250 pietre funerare conservate.",
+        "Mormântul exploratorului Eugen Zintgraff.",
+        "Mortalitate ridicată din cauza malariei și febrei galbene.",
+        "Colonia germană a fost pierdută în 1916.",
+        "Restaurat între 1995 și 2002."
+      ]
+    },
+    {
+      "id": "general-leclerc-monument-history-v2",
+      "descriptionAdvanced": "Monumentul Generalului Leclerc din Douala a fost ridicat în 1948 pentru a onora contribuția generalului Philippe Leclerc de Hauteclocque la eliberarea Kamerunului în 1940. A sosit aici pe 27 august 1940, câștigând teritoriul pentru Franța Liberă a lui Charles de Gaulle, acțiune care a permis ulterior formarea 'coloanei Leclerc' ce a contribuit la eliberarea Parisului în 1944. Monumentul de bronz rămâne un loc simbolic pentru relațiile istorice franco-cameruneze, fiind integrat în curriculumul K8 privind cel de-al Doilea Război Mondial.",
+      "factsAdvanced": [
+        "Inaugurat în 1948 la Douala.",
+        "Generalul Leclerc a trăit între 1902 și 1947.",
+        "Debarcarea în Douala pe 27 august 1940.",
+        "Eliberarea Parisului în 1944.",
+        "Generalul a murit într-un accident aviatic în 1947."
+      ]
+    },
+    {
+      "id": "banyo-lamidat-history-v2",
+      "descriptionAdvanced": "Lamidatul din Banyo a fost stabilit în 1862 în regiunea Adamaoua, devenind un punct strategic între Podișul Adamaoua și câmpiile din Bamenda. Palatul din cărămizi de lut adăpostește o colecție rară de manuscrise islamice din secolul al XIX-lea. Banyo a rezistat expansiunii coloniale germane până în 1902, sub presiunea forțelor conduse de căpitanul Hans Dominik. Actualul conducător, Mohamadou Gabdo Yaya, domnește din 1985 și este membru al Senatului camerun. Situl este vital pentru curriculumul K8 privind istoria islamică a nordului țării.",
+      "factsAdvanced": [
+        "Lamidat fondat în 1862.",
+        "Centru strategic la 1100 metri altitudine.",
+        "Colecție de manuscrise islamice din secolul al XIX-lea.",
+        "Eroism în fața colonizării până în 1902.",
+        "Hans Dominik a cucerit zona în 1902.",
+        "Mohamadou Gabdo Yaya este la conducere din 1985."
+      ]
+    },
+    {
+      "id": "ngaoundere-lamidat-history-v2",
+      "descriptionAdvanced": "Lamidatul din Ngaoundéré a luat ființă în 1835 sub Ardo Njobdi, ca parte a Jihadului Fulani care a islamizat Podișul Adamaoua. Palatul din centrul orașului este o capodoperă a arhitecturii sudano-saheliene, fiind faimos pentru sala de audiențe și colecția istorică de săbii. În perioada colonială germană, orașul a rămas o unitate administrativă semi-autonomă. Parada anuală a călăreților de la sfârșitul Ramadanului este unul dintre cele mai vibrante evenimente culturale din nordul țării. Acest sit este integrat în curriculumul K7 privind tradițiile religioase cameruneze.",
+      "factsAdvanced": [
+        "Lamidat fondat în 1835.",
+        "Stil arhitectural sudano-sahelian.",
+        "Cucerit de germani în 1901 sub Curt Pavel.",
+        "A păstrat o autonomie administrativă sub germani.",
+        "Mohammadou Hayatou Issa domnește din 1986.",
+        "Parada anuală a călăreților de la sfârșitul Ramadanului."
+      ]
+    },
+    {
+      "id": "king-bell-palace-history-v2",
+      "descriptionAdvanced": "Palatul Regelui Bell din Douala, cunoscut sub numele de 'La Pagode', a fost construit între 1901 și 1905 pentru dinastia Bell, una dintre cele mai puternice din oraș. Arhitectul Heinrich Reffert a combinat stilul pagodelor chinezești cu arhitectura colonială germană, reflectând statutul regal al dinastiei. Execuția lui Rudolf Duala Manga Bell în 1914 pentru rezistența împotriva exproprierilor a transformat Palatul într-un simbol național al martiriului. Restaurat în 2010, astăzi funcționează ca muzeu, fiind esențial pentru curriculumul K8 privind era colonială.",
+      "factsAdvanced": [
+        "Construit între 1901 și 1905.",
+        "Stil arhitectural hibrid: pagodă și wilhelminian.",
+        "Rudolf Duala Manga Bell a fost executat în 1914.",
+        "Restaurat în 2010 sub președintele Paul Biya.",
+        "Muzeu deschis publicului din 2017."
+      ]
+    },
+    {
+      "id": "german-bridge-edea-history-v2",
+      "descriptionAdvanced": "Podul German din Edéa este o structură de oțel de 160 de metri, construită peste râul Sanaga între 1908 și 1911 pentru a conecta Douala cu interiorul țării. Aruncat în aer de germani în 1915 și reconstruit de francezi în 1923, podul este un monument istoric protejat din 1988. Reprezintă una dintre cele mai importante piese de inginerie colonială păstrate, fiind un studiu de caz excelent pentru curriculumul K8 privind istoria tehnicii și infrastructura colonială.",
+      "factsAdvanced": [
+        "Construit între 1908 și 1911.",
+        "Lungime de 160 de metri.",
+        "Produs de compania MAN din Germania.",
+        "Aruncat în aer în 1915 în timpul Primului Război Mondial.",
+        "Reconstruit în 1923 sub administrația franceză.",
+        "Monument istoric protejat din 1988."
+      ]
+    },
+    {
+      "id": "batoufam-chiefdom-history-v2",
+      "descriptionAdvanced": "Căpetenia Batoufam din regiunea de Vest a fost fondată în secolul al XVII-lea și reprezintă unul dintre cele mai bine conservate centre Bamiléké. Palatul La'akam, construit între 1912 și 1920, este renumit pentru stâlpii săi sculptați. Muzeul palatului, deschis în 2010, păstrează moștenirea artistică a regiunii. Ceremonia dansului Le'ela, desfășurată în februarie, este un reper cultural major. Fon Innocent Nayang Toukam, arhitect de profesie, domnește din 1976. Situl este integrat în curriculumul K7 privind cultura și arta Bamiléké.",
+      "factsAdvanced": [
+        "Fondată în secolul al XVII-lea de Tcheulah.",
+        "Construcția palatului: 1912-1920.",
+        "Muzeul palatului deschis în 2010.",
+        "Dansul Le'ela are loc anual în februarie.",
+        "Fon Innocent Nayang Toukam domnește din 1976.",
+        "A 12-a generație de conducători."
+      ]
+    },
+    {
+      "id": "maroua-lamidat-history-v2",
+      "descriptionAdvanced": "Lamidatul din Maroua, situat în zona Sahel, a fost fondat în 1817 de Modibo Damraka, devenind un hub comercial esențial între Lacul Ciad și Nigeria. Palatul a fost reconstruit în 1955, iar Muzeul Diamaré, deschis în 1953, este unul dintre primele muzee din țară, adăpostind manuscrise și arme tradiționale. Deși orașul a suferit atacuri în 2014, patrimoniul a fost protejat. Actualul lider, Bakary Yaya, conduce dinastia din 2007. Situl este integrat în curriculumul K8 privind istoria regiunii din nord.",
+      "factsAdvanced": [
+        "Lamidat fondat în 1817.",
+        "Centru comercial pentru Sahel.",
+        "Muzeul Diamaré deschis în 1953.",
+        "Palat reconstruit în 1955.",
+        "Lamido Bakary Yaya domnește din 2007.",
+        "A 16-a generație de conducători."
+      ]
+    },
+    {
+      "id": "king-akwas-palace-history-v2",
+      "descriptionAdvanced": "Palatul Regelui Akwa din Douala a fost ridicat în 1894 pentru regele Dika Akwa, fiind centrul uneia dintre cele mai vechi dinastii din regiune. Clădirea combină arhitectura colonială cu sculpturile în lemn locale. King Akwa a fost un semnatar cheie al tratatului cu germanii din 1884, dar succesorii săi au devenit ulterior lideri în lupta împotriva exproprierilor. Astăzi, situl rămâne sediul regelui Dika Akwa al III-lea, încoronat în 1981, și găzduiește un muzeu documentar. Este esențial pentru curriculumul K8 privind dinastiile Duala și perioada colonială.",
+      "factsAdvanced": [
+        "Construit în 1894 la Douala.",
+        "Una dintre cele patru dinastii Duala.",
+        "Tratatul semnat pe 12 iulie 1884.",
+        "Palatul găzduiește un muzeu local.",
+        "Regele Dika Akwa al III-lea domnește din 1981."
+      ]
+    },
+    {
+      "id": "dschang-colonial-center-history-v2",
+      "descriptionAdvanced": "Centrul colonial din Dschang a fost fondat în 1903 ca district administrativ german datorită climei blânde de la 1.400 de metri altitudine. Orașul a fost numit după căpitanul Hans Glauning, devenind mai târziu, în perioada mandatului francez, centrul regiunii Bamiléké. În 1949 s-a deschis centrul climatic, iar fostul institut de cercetare agricolă din 1933 a devenit fundația Universității Dschang. Situl documentează evoluția administrativă și academică a zonei fiind relevant pentru curriculumul K8 privind dezvoltarea orașelor.",
+      "factsAdvanced": [
+        "Fondat ca district german în 1903.",
+        "Situat la 1400 metri altitudine.",
+        "Numit după căpitanul Hans Glauning.",
+        "Centru administrativ francez din 1925.",
+        "Centrul climatic inaugurat în 1949.",
+        "Universitatea Dschang fondată în 1993."
+      ]
+    },
+    {
+      "id": "garoua-lamidat-history-v2",
+      "descriptionAdvanced": "Lamidatul din Garoua, fondat în 1839 pe malul fluviului Benue, a fost un pilon comercial pentru Nordul Kamerunului. Navigabilitatea fluviului permitea legături comerciale cu Nigeria și Atlanticul. Palatul este un exemplu de arhitectură sudano-saheliană, iar zona a fost condusă de personalități marcante precum El Hadj Abbo, aliat al francezilor. Garoua este și locul de naștere al primului președinte, Ahmadou Ahidjo. Situl este esențial pentru curriculumul K8 privind istoria economică și politică a nordului.",
+      "factsAdvanced": [
+        "Lamidat fondat în 1839.",
+        "Situat pe fluviul Benue.",
+        "Cucerit de germani în 1901.",
+        "Lamido El Hadj Abbo a domnit între 1916 și 1958.",
+        "Orașul natal al lui Ahmadou Ahidjo.",
+        "Lamido Hamidou Issa Maïgari domnește din 1991."
+      ]
+    },
+    {
+      "id": "pitoa-slave-market-site-history-v2",
+      "descriptionAdvanced": "Târgul de sclavi din Pitoa, situat în apropierea Garouei, a fost un hub major al comerțului de sclavi din nordul țării în secolul al XIX-lea. Oamenii capturați din Munții Mandara erau vânduți prin rutele trans-sahariene până la Tripolis. Germanii au interzis oficial comerțul în 1902, dar practicile au continuat clandestin până în anii '20. În 2003, situl a fost declarat loc istoric comemorativ. Este un punct tragic, dar necesar pentru curriculumul K8 privind istoria sclaviei în Africa.",
+      "factsAdvanced": [
+        "Aproape 5.000 de sclavi anual între 1850 și 1880.",
+        "Capturați în principal din Munții Mandara.",
+        "Comerț formal interzis de germani în 1902.",
+        "Practici clandestine până în anii 1920.",
+        "Declarat loc istoric în 2003."
+      ]
+    },
+    {
+      "id": "rio-dos-camaroes-discovery-history-v2",
+      "descriptionAdvanced": "Locul descoperirii Rio dos Camarões, descoperit de Fernando Pó în 1472, este sursa numelui actual al țării. Navigatorul portughez a numit estuarul râului Wouri 'Râul Garnetelor' datorită abundenței acestor crustacee. Această denumire a evoluat în numele oficial de Camerun. Locul marchează un moment de cotitură în explorarea geografică a coastei vest-africane. În Douala există o placă comemorativă din 1972, situl fiind integrat în curriculumul K7 privind descoperirile geografice.",
+      "factsAdvanced": [
+        "Descoperit în 1472 de Fernando Pó.",
+        "Numit după crustaceele locale.",
+        "Sursă pentru numele Camerunului.",
+        "Estuar al râului Wouri.",
+        "Placă comemorativă instalată în 1972.",
+        "Wouri are 250 de kilometri."
+      ]
+    },
+    {
+      "id": "fort-of-yaounde-site-history-v2",
+      "descriptionAdvanced": "Situl Fortului Yaoundé a fost fondat pe 30 noiembrie 1889 ca avanpost administrativ german pentru controlul comerțului cu fildeș și cauciuc. Orașul își trage numele de la grupul etnic Ewondo. După Primul Război Mondial, Yaoundé a devenit capitala mandatului francez în 1922. Rămășițele fortului se află în cartierul Mvolyé, fiind marcate de o placă comemorativă din 1989. Acest sit este vital pentru curriculumul K8 privind istoria statalității.",
+      "factsAdvanced": [
+        "Fondat pe 30 noiembrie 1889.",
+        "Fondatori: Curt Morgen și Hans Tappenbeck.",
+        "Orașul numit după grupul Ewondo.",
+        "Capitală din 1922.",
+        "Independența obținută în 1960.",
+        "Placă comemorativă instalată în 1989."
+      ]
+    },
+    {
+      "id": "saints-peter-and-paul-cathedral-history-v2",
+      "descriptionAdvanced": "Catedrala Sfinții Petru și Pavel din Douala a fost construită între 1933 și 1936 pe locul unei capele mai vechi. Catedrala este sediul Arhiepiscopiei Douala, înființată în 1955. Arhitectura sa îmbină elemente neoromanice cu decoruri Art-déco, iar vitraliile din Chartres reprezintă scene din viața sfinților africani. Situl este esențial pentru înțelegerea rolului bisericii în istoria socială a orașului Douala și este integrat în curriculumul K8.",
+      "factsAdvanced": [
+        "Construită între 1933 și 1936.",
+        "Sediul Arhiepiscopiei din 1955.",
+        "Vitralii din 1962 realizate la Chartres.",
+        "Peste 800.000 de credincioși în arhidieceză.",
+        "Ultima restaurare finalizată în 2018."
+      ]
+    },
+    {
+      "id": "old-post-office-buea-history-v2",
+      "descriptionAdvanced": "Vechiul oficiu poștal din Buéa a fost ridicat în 1908, când orașul era capitala coloniei germane. Cu arhitectura sa tipică de înălțime tropicală, a servit drept centru telegrafic al întregului teritoriu. A funcționat ca oficiu poștal până în 2008, fiind în prezent un sit istoric marcat de o planificare de restaurare ca muzeu poștal. Este o mărturie a dezvoltării infrastructurii coloniale și un punct important în curriculumul K8 privind dezvoltarea rețelelor de comunicare.",
+      "factsAdvanced": [
+        "Construit în 1908.",
+        "Capitala coloniei între 1901 și 1916.",
+        "Prima stație telegrafică a teritoriului.",
+        "Funcțional până în 2008.",
+        "Planuri pentru transformarea în muzeu din 2019."
+      ]
+    },
+    {
+      "id": "babungo-palace-history-v2",
+      "descriptionAdvanced": "Palatul din Babungo, fondat în secolul al XIV-lea de Fon Saingi I, este unul dintre cele mai vechi centre regale Tikar. Situl este renumit pentru sculpturile sale în lemn și pentru istoria metalurgiei, arheologii găsind dovezi ale producției de fier din secolul al XII-lea. Muzeul Babungo, deschis în 2005 cu sprijinul institutului Frobenius, găzduiește 600 de obiecte rituale. Fon Ndofoa Zofoa al III-lea conduce dinastia din 1985. Este un sit esențial pentru curriculumul K8 privind metalurgia și istoria timpurie.",
+      "factsAdvanced": [
+        "Fondat în secolul al XIV-lea.",
+        "Metalurgie demonstrată din secolul al XII-lea.",
+        "Muzeu deschis în 2005.",
+        "Colecție de 600 de obiecte.",
+        "Sediul societății secrete Mukan.",
+        "Fon Ndofoa Zofoa al III-lea domnește din 1985."
+      ]
+    }
+  ]
+}

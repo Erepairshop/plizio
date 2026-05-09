@@ -12,243 +12,353 @@
   ],
   "items": [
     {
-      "id": "sharara-oil-field-economic-v2",
-      "descriptionAdvanced": "Das Sharara-Ölfeld liegt im produktiven Murzuq-Becken in der südwestlichen Wüste Libyens und ist das größte Ölfeld des Landes. Die immense Produktionskapazität von rund 300.000 Barrel pro Tag macht es zu einer entscheidenden Säule der libyschen Wirtschaft und zu einem geopolitischen Schwerpunkt. Geografie K8 — Energieressourcen.",
+      "id": "benina-cities-v2",
+      "descriptionAdvanced": "Benina ist eine strategisch wichtige Stadt im Nordosten Libyens, etwa 19 Kilometer östlich von Bengasi gelegen. Sie ist vor allem als Standort des internationalen Flughafens von Bengasi (Benina International Airport) bekannt, der als wichtigstes Luftverkehrsdrehkreuz der Kyrenaika fungiert. Die Stadt liegt am Fuße des Jebel-al-Akhdar-Gebirges und dient als logistisches Tor für die gesamte Region. Neben ihrer Rolle im Transportwesen ist Benina ein bedeutender Wohnort für Beschäftigte im Luftverkehr und in der nahegelegenen Metropole. In der jüngeren Geschichte war die Stadt Schauplatz entscheidender Ereignisse und symbolisiert die Bedeutung von Infrastrukturknotenpunkten für die Stabilität und Entwicklung Ostlibyens. Geografie K8 — Infrastruktur und Verkehrsknotenpunkte.",
       "factsAdvanced": [
-        "Größtes Ölfeld in Libyen",
-        "Gelegen im Murzuq-Becken im Südwesten",
-        "Produktionskapazität von ca. 300.000 Barrel/Tag",
-        "Betrieben als Joint Venture (Akakus Oil)",
-        "Zentral für die libysche Staatswirtschaft",
-        "Oft von Streiks und Blockaden betroffen"
+        "Beherbergt den Benina International Airport, den wichtigsten Flughafen Ostlibyens.",
+        "Strategischer Standort für die logistische Anbindung von Bengasi.",
+        "Liegt am Übergang zwischen der Küstenebene und dem Jebel-al-Akhdar-Gebirge.",
+        "Bedeutender Militärstützpunkt und Standort der libyschen Luftwaffe.",
+        "Zentrum für zahlreiche Wartungs- und Dienstleistungsbetriebe des Luftverkehrs.",
+        "Knotenpunkt an der Straße, die Bengasi mit Al-Abyar verbindet.",
+        "Die Stadt hat sich in den letzten Jahren zu einem wichtigen Vorort entwickelt.",
+        "Ein Schlüsselort für die regionale Wirtschaft und den Personenverkehr."
       ]
     },
     {
-      "id": "el-feel-oil-field-economic-v2",
-      "descriptionAdvanced": "Das El Feel-Ölfeld, wörtlich das 'Elefanten-Ölfeld', ist ein weiteres riesiges Erdölvorkommen im Murzuq-Becken tief in der Sahara. Es wird als Joint Venture zwischen der libyschen NOC und der italienischen Eni betrieben und liefert erhebliche Mengen Öl, das per Pipeline zur Küste gepumpt wird. Geografie K8 — Globale Rohstoffmärkte.",
+      "id": "jardas-al-ahrar-cities-v2",
+      "descriptionAdvanced": "Jardas al-Ahrar ist eine malerische Kleinstadt im Herzen des Jebel-al-Akhdar-Gebirges im Nordosten Libyens. Die Stadt liegt in einer der grünsten und fruchtbarsten Regionen des Landes und ist von dichten Pinien- und Wacholderwäldern umgeben. Der Name, der 'Jardas der Freien' bedeutet, spiegelt den stolzen Geist der lokalen Bevölkerung wider. Jardas al-Ahrar ist ein bedeutendes landwirtschaftliches Zentrum, in dem vor allem Viehzucht und Getreideanbau betrieben werden. Die Stadt genießt ein kühles Gebirgsklima, das sie zu einem attraktiven Ort für Menschen macht, die der Hitze der Küstenebenen entfliehen möchten. Die Umgebung ist reich an natürlicher Schönheit und bietet spektakuläre Landschaften, die typisch für das libysche Bergland sind. Geografie K7 — Gebirgslandwirtschaft und natürliche Ressourcen.",
       "factsAdvanced": [
-        "Großes Ölfeld im Murzuq-Becken",
-        "Wörtlich übersetzt 'Elefanten-Ölfeld'",
-        "Joint Venture zwischen NOC und Eni",
-        "Täglich über 70.000 Barrel Kapazität",
-        "Wichtig für Exporte nach Europa",
-        "Extrem isolierte Lage in der Wüste"
+        "Liegt im Distrikt Al Jabal al Akhdar auf einer Höhe von über 500 Metern.",
+        "Wichtiges Zentrum für die Zucht von Schafen und Ziegen in der Region.",
+        "Umgeben von staatlichen Forstgebieten und Naturschutzflächen.",
+        "Bekannt für seine traditionellen Bauernmärkte und lokalen Produkte.",
+        "Die Region ist berühmt für ihren hochwertigen Honig und Heilkräuter.",
+        "Sitz lokaler Bildungs- und Gesundheitsstationen für das Bergland.",
+        "Ein Symbol für die ländliche Lebensweise im grünen Osten Libyens.",
+        "Strategischer Haltepunkt an den Nebenrouten durch das Gebirge."
       ]
     },
     {
-      "id": "waha-oil-field-economic-v2",
-      "descriptionAdvanced": "Das Waha-Ölfeld ist ein weitläufiges und historisch extrem wichtiges Fördergebiet im Sirte-Becken, dem ertragreichsten Erdölbecken Libyens. Die geförderten Mengen werden größtenteils zum massiven Es Sider Ölterminal an der Mittelmeerküste transportiert, um dort verschifft zu werden. Geografie K8 — Rohstoffketten.",
+      "id": "masa-cities-v2",
+      "descriptionAdvanced": "Masa ist eine charmante ländliche Siedlung im Jebel-al-Akhdar-Gebirge, unweit der Stadt Al-Baida. Sie liegt in einer Region, die für ihre außergewöhnliche Fruchtbarkeit und ihre malerischen Landschaften bekannt ist. Masa dient als wichtiges landwirtschaftliches Versorgungszentrum für die umliegenden Gehöfte und Plantagen. Die Stadt profitiert von den hohen Niederschlagsmengen der Region, was den Anbau von Obst, Oliven und Getreide ohne intensive künstliche Bewässerung ermöglicht. Masa ist geprägt von einer traditionellen Stammesstruktur und einer tiefen Verbundenheit der Bewohner mit ihrem Land. Die ruhige Atmosphäre und die grüne Umgebung machen Masa zu einem typischen Beispiel für die lebenswerten Gebirgsorte der Kyrenaika, die eine wichtige Rolle in der Nahrungsmittelversorgung Ostlibyens spielen. Geografie K7 — Agrarstrukturen im libyschen Bergland.",
       "factsAdvanced": [
-        "Befindet sich im fruchtbaren Sirte-Becken",
-        "Betrieben von der Waha Oil Company",
-        "Öl fließt direkt zum Es Sider Terminal",
-        "Eines der ältesten produzierenden Felder",
-        "Wichtiger Beitrag zur libyschen Wirtschaft",
-        "Produziert begehrtes, leichtes Rohöl"
+        "Befindet sich im fruchtbaren Hochland zwischen Marj und Al-Baida.",
+        "Zentrum für den Anbau von Äpfeln, Pflaumen und anderen Obstsorten.",
+        "Die Region verfügt über zahlreiche natürliche Quellen und Brunnen.",
+        "Wichtiger Standort für die lokale Nahrungsmittelverarbeitung.",
+        "Bekannt für seine gastfreundliche Bevölkerung und traditionelle Architektur.",
+        "Liegt in einer der regenreichsten Zonen des gesamten afrikanischen Mittelmeerraums.",
+        "Spielt eine Rolle als lokaler Bildungsstandort für die umliegenden Dörfer.",
+        "Umgeben von antiken Ruinenresten, die auf eine lange Siedlungsgeschichte hinweisen."
       ]
     },
     {
-      "id": "zelten-oil-field-economic-v2",
-      "descriptionAdvanced": "Das Zelten-Ölfeld, oft auch Nasser-Feld genannt, war der Ort der ersten wirklich massiven Erdölfunde in Libyen im Jahr 1959. Diese historische Entdeckung im Sirte-Becken transformierte Libyen fast über Nacht von einer armen Agrargesellschaft zu einem der wichtigsten Erdölproduzenten der Welt. Geschichte K8 — Wirtschaftsgeschichte.",
+      "id": "martuba-cities-v2",
+      "descriptionAdvanced": "Martuba ist eine strategisch bedeutende Stadt im Nordosten Libyens, etwa 27 Kilometer südöstlich von Derna gelegen. Sie fungiert als wichtiger Verkehrsknotenpunkt an der Hauptstraße, die Derna mit Tobruk verbindet. Martuba ist vor allem durch seinen Flugplatz bekannt, der in der Militärgeschichte Libyens und während des Zweiten Weltkriegs eine wichtige Rolle spielte. Die Umgebung der Stadt ist geprägt von einer trockenen Steppenlandschaft, die intensiv für die Weidewirtschaft genutzt wird. Als administratives Zentrum für die umliegenden ländlichen Gebiete spielt Martuba eine wesentliche Rolle in der lokalen Infrastruktur und Sicherheit. Die Stadt ist ein unverzichtbarer Haltepunkt für den Warenverkehr im östlichen Küstengebiet und ein Symbol für die strategische Tiefe der Region Butnan. Geografie K8 — Strategische Küstenorte und Militärgeschichte.",
       "factsAdvanced": [
-        "Ort des ersten großen Ölfundes in Libyen (1959)",
-        "Transformierte die Wirtschaft des Landes",
-        "Gelegen im Sirte-Becken",
-        "Auch bekannt als Nasser-Ölfeld",
-        "Fördert hauptsächlich süßes, leichtes Rohöl",
-        "Öl wird nach Marsa el Brega gepumpt"
+        "Bedeutender Knotenpunkt an der libyschen Küstenautobahn (Via Balbia).",
+        "Standort des Martuba Air Base, eines wichtigen regionalen Flugplatzes.",
+        "Wichtiger Schauplatz von Kämpfen während des Nordafrikafeldzugs (1941-1943).",
+        "Zentrum für die Versorgung der Nomadenstämme in der Region Butnan.",
+        "Liegt auf einem trockenen Plateau oberhalb der Steilküste von Derna.",
+        "Sitz lokaler Verwaltungsbehörden und Sicherheitskräfte.",
+        "Ein wichtiger Umschlagplatz für den Handel mit Kleinvieh.",
+        "Strategischer Puffer zwischen den Zentren Derna und Tobruk."
       ]
     },
     {
-      "id": "sarir-oil-field-economic-v2",
-      "descriptionAdvanced": "Das Sarir-Ölfeld ist flächenmäßig eines der größten Ölfelder Nordafrikas und befindet sich im östlichen Sirte-Becken. Entdeckt in den frühen 1960er Jahren, produzierte es auf seinem Höhepunkt enorme Mengen Rohöl, die über Pipelines zum Hafen von Tobruk am Mittelmeer exportiert wurden. Geografie K8 — Öl-Extraktion.",
+      "id": "umm-al-rizam-cities-v2",
+      "descriptionAdvanced": "Umm al-Rizam ist eine wichtige Küstenstadt im Osten Libyens, gelegen zwischen Derna und Tobruk. Die Stadt liegt in einer Region, die durch ihre raue, aber faszinierende Küstenlandschaft geprägt ist, in der das Wüstenplateau steil zum Mittelmeer abfällt. Umm al-Rizam dient als administratives Zentrum für den gleichnamigen Distrikt und ist ein wesentlicher Haltepunkt für Reisende entlang der großen Küstenstraße. Die Wirtschaft der Stadt basiert vor allem auf dem Dienstleistungssektor für den Transitverkehr, der Landwirtschaft in den fruchtbaren Wadis und der Küstenfischerei. Umm al-Rizam blickt auf eine lange Geschichte als Station für Reisende zurück und ist heute ein wichtiger Punkt für die regionale Stabilität und die öffentliche Versorgung im Nordosten Libyens. Geografie K7 — Regionale Versorgungszentren an der Mittelmeerküste.",
       "factsAdvanced": [
-        "Eines der größten Ölfelder Nordafrikas",
-        "Gelegen im östlichen Sirte-Becken",
-        "Entdeckt im Jahr 1961",
-        "Öl wird zum Hafen von Tobruk geleitet",
-        "Historisch gigantische Fördermengen",
-        "Betrieben von der Arabian Gulf Oil Company"
+        "Hauptort der Gemeinde Umm al-Rizam im Distrikt Derna.",
+        "Strategisch gelegen an der Hauptverbindung zwischen dem Jebel al-Akhdar und Tobruk.",
+        "Zentrum für die lokale Fischereiindustrie im östlichen Golf von Bumba.",
+        "Die Region ist bekannt für ihre unberührten Strände und Küstenklippen.",
+        "Wichtiger Standort für die öffentliche Verwaltung und Bildung im ländlichen Osten.",
+        "Umgeben von Wadis, die nach Regenfällen saisonale Landwirtschaft ermöglichen.",
+        "Dient als logistische Basis für die Überwachung der Küstengrenzen.",
+        "Ein Ort mit starkem Zusammenhalt der lokalen Stammesgemeinschaften."
       ]
     },
     {
-      "id": "bouri-offshore-field-economic-v2",
-      "descriptionAdvanced": "Das Bouri Offshore-Feld liegt im Mittelmeer, nördlich der libyschen Küste, und ist das größte in Produktion befindliche Offshore-Ölfeld im gesamten Mittelmeerraum. Die enormen Plattformen fördern Öl aus tiefen Gewässern und demonstrieren die technische Komplexität der libyschen Erdölindustrie. Geografie K8 — Offshore-Ökonomie.",
+      "id": "kambut-cities-v2",
+      "descriptionAdvanced": "Kambut ist eine ländliche Stadt im äußersten Nordosten Libyens, etwa 50 Kilometer östlich von Tobruk gelegen. Die Stadt liegt in einer ariden Steppenzone und dient als wichtiges Zentrum für die halbnomadischen Stämme der Region Butnan. Kambut ist vor allem durch seine Lage an der Straße in Richtung der ägyptischen Grenze und seine Rolle in der Tierhaltung bekannt. Die Bewohner von Kambut sind Experten in der Zucht von Kamelen und Schafen, die an die harten Bedingungen der Wüstenrandgebiete angepasst sind. Die Stadt spielt eine wesentliche Rolle in der lokalen Logistik und als Marktplatz für landwirtschaftliche Produkte. Trotz ihrer geringen Größe ist Kambut ein wichtiger Punkt für die soziale Struktur und die grenznahe Wirtschaft im östlichsten Teil Libyens. Geografie K7 — Steppensiedlungen und Viehwirtschaft.",
       "factsAdvanced": [
-        "Größtes Offshore-Ölfeld im Mittelmeer",
-        "Entdeckt im Jahr 1976",
-        "Liegt nordwestlich der Küste von Tripolis",
-        "Block 38 Offshore",
-        "Betrieben von Eni und NOC",
-        "Förderung durch riesige Bohrplattformen"
+        "Gelegen im Distrikt Butnan, unweit der ägyptischen Grenze.",
+        "Wichtiges Zentrum für den Handel mit Schafen und Kamelen.",
+        "Strategischer Haltepunkt für LKWs auf der Route nach Ägypten.",
+        "Die Region war Schauplatz bedeutender Truppenbewegungen im Zweiten Weltkrieg.",
+        "Sitz lokaler Schulen und einer Basis-Gesundheitsversorgung.",
+        "Geprägt von einer traditionellen, konservativen Stammeskultur.",
+        "Die Wasserversorgung erfolgt hauptsächlich über tiefe Brunnenanlagen.",
+        "Ein wichtiger Knotenpunkt für den informellen grenzüberschreitenden Handel."
       ]
     },
     {
-      "id": "al-jurf-offshore-field-economic-v2",
-      "descriptionAdvanced": "Das Al Jurf Offshore-Feld liegt im offenen Meer nahe der Seegrenze zwischen Libyen und Tunesien. Die Produktion erfolgt unter schwierigen maritimen Bedingungen durch moderne FPSO-Schiffe (Floating Production Storage and Offloading), die das Rohöl direkt auf dem Meer aufnehmen und verarbeiten. Geografie K8 — Maritime Technologie.",
+      "id": "jaghbub-cities-v2",
+      "descriptionAdvanced": "Jaghbub ist eine abgelegene Oasenstadt tief in der libyschen Wüste, nahe der Grenze zu Ägypten, mit einer immensen religiösen und historischen Bedeutung. Im 19. Jahrhundert wurde sie zum geistigen und politischen Zentrum der Senussi-Bruderschaft ausgebaut. Die Stadt beherbergt die Grabstätte von Muhammad ibn Ali as-Senussi, dem Gründer des Ordens, und war einst Sitz einer der renommiertesten islamischen Universitäten Nordafrikas. Jaghbub liegt in einer natürlichen Senke unter dem Meeresspiegel und ist von einer extremen Wüstenlandschaft umgeben. Die Oase diente über Jahrzehnte als Rückzugsort für Widerstandskämpfer und Gelehrte. Heute ist Jaghbub ein Ort der Stille und Spiritualität sowie ein strategischer Grenzposten, der die jahrtausendealte Verbindung zwischen Glaube und Wüstenleben symbolisiert. Geschichte K8 — Islamische Reformbewegungen und Widerstandszentren.",
       "factsAdvanced": [
-        "Offshore-Ölfeld nahe der tunesischen Grenze",
-        "Nutzt moderne FPSO-Schiffe zur Verladung",
-        "Block C des libyschen Offshore-Gebiets",
-        "Wichtiger Beitrag zur Offshore-Produktion",
-        "Fernab der von Konflikten betroffenen Festland-Felder",
-        "Betrieben von Mabruk Oil Operations"
+        "Gegründet 1856 als Hauptquartier der Senussi-Bewegung.",
+        "Standort der historischen Jaghbub-Universität, einem Zentrum für islamisches Recht.",
+        "Beherbergt das prächtige Mausoleum des Großen Senussi.",
+        "Liegt in einer geologischen Depression etwa 30 Meter unter dem Meeresspiegel.",
+        "War ein zentraler Punkt auf der Karawanenroute von Kufra nach Ägypten.",
+        "Historisch bekannt für seine umfangreiche Bibliothek mit seltenen Manuskripten.",
+        "Diente dem Nationalhelden Omar Mukhtar als wichtiger Stützpunkt.",
+        "Ein Symbol für die religiöse Identität und die Souveränität Libyens."
       ]
     },
     {
-      "id": "mabruk-oil-field-economic-v2",
-      "descriptionAdvanced": "Das Mabruk-Ölfeld befindet sich in der zentralen Sirte-Wüste und ist ein wichtiges mittelgroßes Produktionsgebiet. In den letzten Jahren erlebte das Feld schwere Zerstörungen durch Sabotage während des Bürgerkriegs, weshalb massive Investitionen für den Wiederaufbau der Förderanlagen nötig waren. Geschichte K8 — Infrastruktur im Krieg.",
+      "id": "qasr-bin-ghashir-cities-v2",
+      "descriptionAdvanced": "Qasr bin Ghashir ist eine bedeutende Stadt südlich von Tripolis und dient als das Tor zur Hauptstadt für Reisende, die aus dem Süden kommen. Die Stadt ist vor allem als Standort des internationalen Flughafens Tripolis (Tripoli International Airport) bekannt, der über Jahrzehnte das wichtigste Luftverkehrsdrehkreuz Libyens war. Qasr bin Ghashir liegt in einer fruchtbaren Übergangszone, in der intensive Landwirtschaft betrieben wird, insbesondere der Anbau von Gemüse und Obst für den Markt in Tripolis. Aufgrund ihrer strategischen Lage an den südlichen Zufahrtswegen zur Hauptstadt hat die Stadt eine enorme wirtschaftliche und militärische Bedeutung. Sie ist ein Schmelztiegel aus urbaner Dynamik und ländlichen Traditionen und spielt eine Schlüsselrolle in der Logistik und Infrastruktur von Westlibyen. Geografie K8 — Urbane Randzonen und Verkehrsinfrastruktur.",
       "factsAdvanced": [
-        "Ölfeld im Sirte-Becken",
-        "Wurde im Bürgerkrieg schwer beschädigt",
-        "Aufwendige Wiederaufbauarbeiten nötig",
-        "Betrieben von Mabruk Oil Operations",
-        "Gemeinschaftsprojekt mit TotalEnergies",
-        "Beispiel für die Verwundbarkeit der Industrie"
+        "Unmittelbar angrenzend an den Tripoli International Airport (TIA).",
+        "Wichtigstes Zentrum für den Gemüse- und Obstanbau in der Region Tripolis.",
+        "Strategischer Knotenpunkt an den Straßenverbindungen in den Fezzan.",
+        "Beherbergt zahlreiche Industriebetriebe und Logistiklager.",
+        "Die Stadt hat in den letzten zwei Jahrzehnten ein rasantes Wachstum erlebt.",
+        "Ein wichtiger Standort für nationale Sicherheits- und Verteidigungseinrichtungen.",
+        "Bekannt für seine lebhaften Märkte und Handelszentren.",
+        "Dient als Wohnort für Tausende von Pendlern aus der Hauptstadtregion."
       ]
     },
     {
-      "id": "amal-oil-field-economic-v2",
-      "descriptionAdvanced": "Das Amal-Feld im Sirte-Becken zeichnet sich durch seine extrem komplexe Geologie und tiefe Ölreservoirs aus. Trotz der technischen Herausforderungen bei der Förderung liefert das Feld kontinuierlich große Mengen an leichtem, hochwertigem Rohöl, das an der Küste von Ras Lanuf exportiert wird. Geografie K8 — Erdölgeologie.",
+      "id": "tajoura-cities-v2",
+      "descriptionAdvanced": "Tajoura ist eine historische Küstenstadt und heute ein bedeutender östlicher Vorort von Tripolis. Die Stadt blickt auf eine lange Geschichte zurück und war im 16. Jahrhundert ein wichtiges Zentrum für den Widerstand gegen die Malteserritter und die Spanier. Tajoura ist bekannt für seine wunderschönen Strände und seine fruchtbaren Gärten, in denen seit Jahrhunderten Zitrusfrüchte und Oliven angebaut werden. Heute beherbergt die Stadt wichtige nationale Einrichtungen, darunter das Tajoura-Zentrum für Nuklearforschung und mehrere große Krankenhäuser. Die Architektur der Stadt zeigt eine Mischung aus historischen Moscheen wie der Murad-Agha-Moschee und moderner städtischer Entwicklung. Tajoura bewahrt trotz der Nähe zur Hauptstadt eine eigene kulturelle Identität und ist ein wichtiges wirtschaftliches Standbein der Region Tripolitania. Geschichte K8 — Küstenverteidigung und moderne Wissenschaftszentren.",
       "factsAdvanced": [
-        "Liegt im Sirte-Becken",
-        "Bekannt für komplexe geologische Strukturen",
-        "Fördert leichtes, süßes Rohöl",
-        "Öl fließt zum Hafen Ras Lanuf",
-        "Betrieben von Harouge Oil Operations",
-        "Eines der älteren, stabilen Förderfelder"
+        "Einstiger Stützpunkt des osmanischen Admirals Murad Agha im 16. Jahrhundert.",
+        "Heimat der Murad-Agha-Moschee, eines der ältesten Bauwerke der Region.",
+        "Standort des Nationalen Zentrums für Kernenergie und Forschung.",
+        "Bekannt für seine erstklassigen Fischrestaurants und die Küstenpromenade.",
+        "Wichtiges Zentrum für Bildung und Medizin im Osten von Tripolis.",
+        "Die Region verfügt über weite Flächen mit traditioneller Bewässerungslandwirtschaft.",
+        "Tajoura spielt eine zentrale Rolle in der libyschen Marine- und Küstenüberwachung.",
+        "Ein bedeutender Wohn- und Industriestandort in der Metropolregion Tripolis."
       ]
     },
     {
-      "id": "nafoora-oil-field-economic-v2",
-      "descriptionAdvanced": "Das Nafoora-Ölfeld ist ein bedeutendes Cluster von Förderanlagen im östlichen Sirte-Becken, nahe der Oase Jalu. Die Anlagen sind tief in der Wüste isoliert, tragen jedoch maßgeblich zur nationalen Förderung bei und stützen sich stark auf die Logistik- und Wasserinfrastruktur der nahen Oasen. Geografie K8 — Wüstenindustrie.",
+      "id": "msallata-cities-v2",
+      "descriptionAdvanced": "Msallata ist eine malerische Stadt im Nordwesten Libyens, die für ihre dichten Olivenhaine und ihre religiöse Gelehrsamkeit bekannt ist. Die Stadt liegt in einer Hügellandschaft zwischen Tripolis und Khoms und genießt ein angenehmes mediterranes Klima. Msallata hat eine tiefe historische Bedeutung als Zentrum für islamische Studien und beherbergt zahlreiche Koranschulen und Zawiyas. Die Region ist berühmt für die Produktion von hochwertigem Olivenöl, das zu den besten des Landes zählt. Historisch war Msallata ein wichtiges Zentrum des Widerstands gegen die italienische Kolonialmacht und Gründungsort der ersten libyschen Republik (Republik Tripolitanien) im Jahr 1918. Die Stadt verbindet auf einzigartige Weise spirituelle Traditionen mit landwirtschaftlichem Fleiß und patriotischem Stolz. Geschichte K8 — Die Republik Tripolitanien und Olivenölwirtschaft.",
       "factsAdvanced": [
-        "Bedeutendes Ölfeld im östlichen Sirte-Becken",
-        "Liegt in der Nähe der Oase Jalu",
-        "Betrieben von der Arabian Gulf Oil Company",
-        "Verfügt über ein weites Pipelinenetz",
-        "Fördert Öl und assoziiertes Gas",
-        "Stark abhänging von logistischen Zentren"
+        "Einer der Gründungsorte der kurzlebigen Republik Tripolitanien im Jahr 1918.",
+        "Besitzt schätzungsweise über eine Million Olivenbäume in der Umgebung.",
+        "Wichtiges Zentrum für die Ausbildung von Imamen und Koranlehrern.",
+        "Die Stadt ist bekannt für ihre traditionellen Feste zur Olivenernte.",
+        "Sitz der Msallata-Universität und technischer Institute.",
+        "Historisch bekannt für die Festung Qasr Msallata.",
+        "Die Architektur der Altstadt ist geprägt von schmalen Gassen und Lehmbauten.",
+        "Ein Symbol für den ländlichen Wohlstand und die religiöse Integrität Libyens."
       ]
     },
     {
-      "id": "messla-oil-field-economic-v2",
-      "descriptionAdvanced": "Das Messla-Ölfeld im tiefen Südosten Libyens wurde vergleichsweise spät entdeckt, entwickelte sich aber schnell zu einem der wichtigsten Felder des Landes. Das hier geförderte Rohöl wird über Hunderte von Kilometern nach Norden gepumpt und bildet eine tragende Säule der Produktion der Arabian Gulf Oil Company (AGOCO). Geografie K8 — Pipelinenetzwerke.",
+      "id": "al-ajaylat-cities-v2",
+      "descriptionAdvanced": "Al-Ajaylat ist eine bedeutende Stadt im Nordwesten Libyens, etwa 80 Kilometer westlich von Tripolis gelegen. Sie befindet sich in der fruchtbaren Jafara-Ebene und ist ein zentrales landwirtschaftliches Drehkreuz der Region. Al-Ajaylat ist landesweit bekannt für seine Dattelpalmen und den Anbau von Getreide sowie für seine Viehmärkte. Die Stadt hat eine starke Stammeskultur und blickt auf eine reiche Geschichte des Widerstands gegen die Kolonialzeit zurück. Heute dient Al-Ajaylat als wichtiges administratives und kommerzielles Zentrum für den Westen der Tripolitania. Die Stadtplanung zeigt ein harmonisches Nebeneinander von traditionellen ländlichen Strukturen und moderner städtischer Infrastruktur. Al-Ajaylat spielt eine wesentliche Rolle in der regionalen Versorgung und ist ein Symbol für die Beständigkeit der bäuerlichen Gemeinschaften Libyens. Geografie K7 — Agrarzentren in der Jafara-Ebene.",
       "factsAdvanced": [
-        "Wichtiges Ölfeld im Südosten Libyens",
-        "Entdeckt in den späten 1970er Jahren",
-        "Betrieben von AGOCO",
-        "Hauptversorger für das Terminal Tobruk",
-        "Produziert große Mengen an Rohöl",
-        "Extrem isoliert in der Sandwüste"
+        "Wichtigstes Zentrum für den Handel mit Datteln im westlichen Libyen.",
+        "Beherbergt einen der größten wöchentlichen Viehmärkte der Region.",
+        "Strategisch gelegen an der Route zwischen Tripolis und der tunesischen Grenze.",
+        "Sitz mehrerer Fakultäten der Universität von Sabratha.",
+        "Bekannt für seine traditionellen Reitturniere und kulturellen Feste.",
+        "Zentrum für die Zucht von Geflügel und die Produktion von Milchprodukten.",
+        "Die Region ist reich an Grundwasserressourcen für die Bewässerung.",
+        "Historisch bedeutsam als Stützpunkt für die libysche Unabhängigkeitsbewegung."
       ]
     },
     {
-      "id": "abu-attifel-oil-field-economic-v2",
-      "descriptionAdvanced": "Abu Attifel ist das erste libysche Ölfeld, das vom italienischen Energieriesen Eni entdeckt wurde. Es befindet sich tief im Sirte-Becken und ist bekannt für sein charakteristisches 'wachshaltiges' Rohöl, das beim Transport spezielle beheizte Pipelines erfordert, um nicht in den Leitungen zu erstarren. Geografie K8 — Chemische Eigenschaften von Rohstoffen.",
+      "id": "al-qubbah-cities-v2",
+      "descriptionAdvanced": "Al-Qubbah ist eine geschichtsträchtige Stadt im Jebel-al-Akhdar-Gebirge im Nordosten Libyens. Sie liegt strategisch zwischen den Städten Al-Baida und Derna in einer Region, die für ihre natürliche Schönheit und Fruchtbarkeit bekannt ist. Der Name Al-Qubbah bezieht sich auf die charakteristischen Kuppeln der historischen Gebäude in der Stadt. Al-Qubbah dient als wichtiges administratives Zentrum der östlichen Kyrenaika und ist bekannt für seine starke politische Rolle in der jüngeren libyschen Geschichte. Die Umgebung der Stadt ist geprägt von tiefen Wadis, Pinienwäldern und terrassierten Feldern, was Al-Qubbah zu einem der malerischsten Orte des Berglandes macht. Die Stadt bewahrt ein reiches Erbe an traditioneller Architektur und ist ein Symbol für die kulturelle Kontinuität in der Region Butnan. Geografie K7 — Bergverwaltung und landschaftliche Vielfalt.",
       "factsAdvanced": [
-        "Erstes von Eni in Libyen entdecktes Feld (1960)",
-        "Liegt in der östlichen Sahara",
-        "Fördert stark wachshaltiges Rohöl",
-        "Erfordert beheizte Pipelines zum Transport",
-        "Bedeutendes Joint-Venture-Projekt",
-        "Wichtiges Zentrum für assoziiertes Gas"
+        "Liegt auf einer strategischen Höhe im östlichen Teil des Jebel-al-Akhdar.",
+        "Heimat einflussreicher politischer Führer der libyschen Nachkriegszeit.",
+        "Zentrum für den Anbau von Mandeln, Feigen und Getreide.",
+        "Bekannt für sein mildes Klima und die dichten Wälder in der Umgebung.",
+        "Wichtiger Standort für die regionale Sicherheit und öffentliche Dienste.",
+        "Die Architektur zeigt Einflüsse aus der osmanischen und kolonialen Ära.",
+        "Ein zentraler Knotenpunkt für den Verkehr zwischen den Bergstädten und der Küste.",
+        "Sitz mehrerer Bildungseinrichtungen und lokaler Verwaltungseinheiten."
       ]
     },
     {
-      "id": "zawiya-refinery-economic-v2",
-      "descriptionAdvanced": "Die Ölraffinerie in Zawiya ist die mit Abstand größte und wichtigste Raffinerie im Westen Libyens. Sie deckt einen Großteil des enormen inländischen Treibstoffbedarfs, insbesondere für die Metropolregion Tripolis, weshalb die Kontrolle über die Anlage oft im Zentrum politischer und militärischer Machtkämpfe stand. Geografie K8 — Energieversorgung.",
+      "id": "badr-cities-v2",
+      "descriptionAdvanced": "Badr ist eine aufstrebende Stadt im Nordwesten Libyens, gelegen in der Region Nafusa am Übergang zwischen der Küstenebene und dem Bergland. Die Stadt hat in den letzten Jahren an Bedeutung gewonnen, da sie als logistisches Bindeglied zwischen den Küstenzentren und den Städten im Hochland fungiert. Badr ist vor allem landwirtschaftlich geprägt, wobei der Anbau von Oliven und die Schafzucht die wirtschaftliche Basis bilden. Die Stadt zeichnet sich durch ihre moderne Infrastruktur und ihren wachsenden kommerziellen Sektor aus. Badr ist ein Ort, der den Wandel Libyens widerspiegelt, indem er traditionelle ländliche Werte mit den Anforderungen einer modernen Logistik- und Handelsdrehscheibe verbindet. Die Stadt spielt eine wichtige Rolle für den sozialen Zusammenhalt in der Region Nalut. Geografie K7 — Logistikstandorte und regionale Entwicklung.",
       "factsAdvanced": [
-        "Größte aktive Ölraffinerie in Westlibyen",
-        "Kapazität von 120.000 Barrel pro Tag",
-        "Hauptversorger für die Region Tripolis",
-        "Produziert Benzin, Diesel und Kerosin",
-        "Strategische Bedeutung für den Binnenmarkt",
-        "Direkt mit dem Hafen von Zawiya verbunden"
+        "Liegt im Distrikt Nalut an einer strategischen Regionalstraße.",
+        "Wichtiger Standort für die Verarbeitung von landwirtschaftlichen Produkten.",
+        "Zentrum des lokalen Kleinhandels für die umliegenden Dörfer.",
+        "Verfügt über moderne Schulen und Gesundheitseinrichtungen.",
+        "Die Region ist bekannt für ihre traditionellen Handwerksprodukte aus Wolle.",
+        "Badr ist ein wichtiger Haltepunkt für Reisende in das westliche Bergland.",
+        "Die Stadt hat sich zu einem Zentrum für technische Dienstleistungen entwickelt.",
+        "Ein Symbol für die dynamische Entwicklung im libysch-tunesischen Grenzgebiet."
       ]
     },
     {
-      "id": "ras-lanuf-refinery-economic-v2",
-      "descriptionAdvanced": "Die Ras Lanuf Raffinerie ist ein gewaltiger petrochemischer Komplex am Golf von Sidra, der ursprünglich für den Export von veredelten Produkten konzipiert wurde. Trotz ihrer enormen Kapazität von über 200.000 Barrel am Tag war die Anlage aufgrund von Wartungsproblemen und Konflikten in den letzten Jahren oft nur eingeschränkt in Betrieb. Geografie K8 — Industrielle Herausforderungen.",
+      "id": "al-magrun-cities-v2",
+      "descriptionAdvanced": "Al-Magrun ist eine strategisch wichtige Stadt an der libyschen Küste, etwa 75 Kilometer südlich von Bengasi gelegen. Sie dient als ein entscheidender Kontroll- und Versorgungspunkt an der großen Küstenstraße (Via Balbia), die Tripolis mit Bengasi verbindet. Al-Magrun liegt in einer Übergangszone zwischen dem Meer und der Wüste und ist geprägt von einer weiten Steppenlandschaft, die für die Tierhaltung genutzt wird. Die Stadt hat in der Militärgeschichte Libyens eine bedeutende Rolle gespielt, insbesondere während der Kolonialzeit und in den Konflikten der letzten Jahrzehnte. Heute ist Al-Magrun ein wichtiges Dienstleistungszentrum für den Fernverkehr und ein administrativer Außenposten, der die Sicherheit und den Warenfluss in der Region Syrtica gewährleistet. Geografie K8 — Transitknotenpunkte und Küstenüberwachung.",
       "factsAdvanced": [
-        "Größte Ölraffinerie Libyens nach Kapazität",
-        "Theoretisch über 200.000 Barrel pro Tag",
-        "Teil eines riesigen petrochemischen Komplexes",
-        "Gelegen am strategischen Golf von Sidra",
-        "Fokus auf Export raffinierter Erdölprodukte",
-        "Häufige Produktionsausfälle seit 2011"
+        "Strategischer Haltepunkt an der Hauptverkehrsader Libyens.",
+        "Wichtiger Standort für die Logistik der libyschen Erdölindustrie.",
+        "Zentrum für die Zucht von Kamelen und Kleinvieh in der Region.",
+        "Die Umgebung war Schauplatz bedeutender Schlachten im Zweiten Weltkrieg.",
+        "Dient als administratives Zentrum für die ländliche Küstenzone.",
+        "Wichtiger Kontrollpunkt für den Personen- und Warenverkehr.",
+        "Die Region ist bekannt für ihre salzhaltigen Böden und Sabkhas (Salzpfannen).",
+        "Ein wesentlicher Punkt für die regionale Infrastruktur Ostlibyens."
       ]
     },
     {
-      "id": "lisco-misrata-steel-economic-v2",
-      "descriptionAdvanced": "Die Libyan Iron and Steel Company (LISCO) in Misrata ist einer der größten nicht-ölbezogenen Industriebetriebe Nordafrikas. Das riesige, direkt am Meer gelegene Werk produziert Millionen Tonnen Eisen und Stahl, die sowohl für den Wiederaufbau der heimischen Infrastruktur als auch für den Export essenziell sind. Geografie K8 — Schwerindustrie.",
+      "id": "qandulah-cities-v2",
+      "descriptionAdvanced": "Qandulah ist eine charmante ländliche Gemeinde im Jebel-al-Akhdar-Gebirge im Nordosten Libyens. Sie liegt in einer abgelegenen, aber landschaftlich reizvollen Gegend, die durch ihre dichten Wälder und fruchtbaren Täler besticht. Qandulah ist ein typisches Beispiel für die traditionellen Siedlungen des grünen Berglandes, in denen die Bewohner seit Generationen von der Landwirtschaft und Viehzucht leben. Die Stadt ist bekannt für ihre Ruhe, ihre reine Luft und ihre reiche lokale Kultur. Qandulah spielt eine wichtige Rolle in der Erhaltung der natürlichen Ressourcen der Region und ist ein Zentrum für den Anbau von traditionellen Feldfrüchten und die Imkerei. Die isolierte Lage hat dazu beigetragen, dass viele Bräuche und Traditionen der Kyrenaika hier in ihrer ursprünglichen Form erhalten geblieben sind. Geografie K7 — Ländliche Idyllen und Gebirgsressourcen.",
       "factsAdvanced": [
-        "Größtes Eisen- und Stahlwerk in Libyen",
-        "Eines der größten in Nordafrika",
-        "Ansässig in der Freihandelszone von Misrata",
-        "Wichtigste Industrie außerhalb des Ölsektors",
-        "Großer Arbeitgeber in der Region",
-        "Produktion von Walzstahl und Eisen"
+        "Befindet sich in einer der ökologisch wertvollsten Zonen des Jebel-al-Akhdar.",
+        "Wichtiges Zentrum für die Produktion von hochwertigem Wildblütenhonig.",
+        "Die Umgebung bietet ideale Bedingungen für die Zucht von Ziegen.",
+        "Bekannt für seine traditionellen Lehm- und Steinhäuser.",
+        "Die Region verfügt über eine einzigartige Flora mit vielen endemischen Pflanzen.",
+        "Ein Ort der Ruhe und Erholung abseits der großen Ballungszentren.",
+        "Spielt eine Rolle im lokalen Naturschutz und der Forstverwaltung.",
+        "Die Bewohner pflegen einen sehr naturnahen und nachhaltigen Lebensstil."
       ]
     },
     {
-      "id": "zliten-cement-plant-economic-v2",
-      "descriptionAdvanced": "Das Zementwerk in Zliten ist ein massiver Industriekomplex und ein wesentlicher Lieferant für Baumaterial in Libyen. Aufgrund des massiven nationalen Bedarfs an Zement für den Wiederaufbau nach den Konflikten arbeitet das Werk an seiner Kapazitätsgrenze und nutzt die reichen Kalksteinvorkommen der Region. Geografie K8 — Baumaterialien und Wiederaufbau.",
+      "id": "tripoli-tower-landmarks-v2",
+      "descriptionAdvanced": "Der Tripolis Tower (früher als Al-Fateh Tower bekannt) ist das markanteste Symbol der modernen Skyline von Tripolis. Mit einer Höhe von 144 Metern und seinen 25 Stockwerken ist er eines der höchsten und erkennbarsten Gebäude Libyens. Der 2003 fertiggestellte Turm besticht durch seine geschwungene Glasfassade und sein futuristisches Design, das einen scharfen Kontrast zur nahegelegenen historischen Medina bildet. Er beherbergt die Büros zahlreicher internationaler Firmen, Fluggesellschaften und Banken sowie exklusive Einzelhandelsflächen. Von den oberen Etagen aus bietet der Turm einen atemberaubenden Panoramablick über den Hafen von Tripolis und das Mittelmeer. Der Tripolis Tower repräsentiert das Streben des Landes nach wirtschaftlicher Modernisierung und ist ein zentraler Knotenpunkt für das internationale Geschäft in der libyschen Hauptstadt. Architektur K8 — Moderne Hochhausarchitektur in Nordafrika.",
       "factsAdvanced": [
-        "Riesige Zementproduktionsanlage",
-        "Zentraler Lieferant für den Wiederaufbau Libyens",
-        "Gelegen in der Küstenstadt Zliten",
-        "Nutzt lokale Kalksteinvorkommen",
-        "Produziert Millionen Tonnen Zement jährlich",
-        "Wichtige Einnahmequelle für die Gemeinde"
+        "Das höchste Bürogebäude in Libyen mit einer markanten bogenförmigen Silhouette.",
+        "Fertiggestellt im Jahr 2003 als Wahrzeichen der neuen Geschäftsstadt.",
+        "Beherbergt das Hauptquartier vieler ausländischer Investoren und Institutionen.",
+        "Stands an der Küstenstraße im zentralen Geschäftsviertel von Tripolis.",
+        "Verfügt über ein integriertes Einkaufszentrum auf den unteren Ebenen.",
+        "Ein Wahrzeichen für den technologischen Fortschritt im libyschen Bauwesen.",
+        "Bietet den höchsten öffentlichen Aussichtspunkt über die Hauptstadt.",
+        "Wurde als Symbol für Libyens Rückkehr in die Weltgemeinschaft in den 2000ern konzipiert."
       ]
     },
     {
-      "id": "mellitah-gas-plant-economic-v2",
-      "descriptionAdvanced": "Die Mellitah Gas Plant ist eine der modernsten industriellen Verarbeitungsanlagen Afrikas, gelegen westlich von Sabratha. Sie reinigt und komprimiert das aus der Wüste und aus dem Meer gewonnene Erdgas, um es in die 520 Kilometer lange Greenstream-Unterseepipeline nach Sizilien zu pressen. Geografie K8 — Transnationale Energieflüsse.",
+      "id": "corinthia-hotel-tripoli-landmarks-v2",
+      "descriptionAdvanced": "Das Corinthia Hotel Tripolis ist Libyens führendes Fünf-Sterne-Luxushotel und ein architektonisches Wahrzeichen an der Küste der Hauptstadt. Das 2003 eröffnete Hotel besteht aus zwei markanten, geschwungenen Türmen, die das Stadtbild am Wasser prägen. Es gilt als die erste Adresse für internationale Diplomaten, Staatsgäste und die globale Medienwelt in Libyen. Die Architektur vereint moderne westliche Standards mit subtilen nordafrikanischen Dekorelementen. Das Corinthia ist nicht nur ein Ort der Beherbergung, sondern auch ein bedeutendes Konferenzzentrum, in dem zahlreiche historische politische Verhandlungen und Gipfeltreffen stattfanden. Mit seinen weitläufigen Außenanlagen, den luxuriösen Restaurants und der hohen Sicherheitsstufe ist es ein Symbol für den kosmopolitischen Geist und das Potenzial der libyschen Tourismus- und Dienstleistungsbranche. Wirtschaft K8 — Internationaler Tourismus und diplomatisches Protokoll.",
       "factsAdvanced": [
-        "Zentrum der libyschen Erdgasaufbereitung",
-        "Ausgangspunkt der Greenstream-Pipeline",
-        "Verarbeitet Onshore- und Offshore-Gas",
-        "Joint Venture (Mellitah Oil & Gas)",
-        "Direkter Exportmarkt ist Italien",
-        "Liegt westlich der Küstenstadt Sabratha"
+        "Libyens prestigeträchtigstes Hotel mit zwei 28-stöckigen Türmen.",
+        "Gelegen an der Küstenpromenade von Tripolis mit Blick auf die Medina.",
+        "Eröffnet im Jahr 2003 von der maltesischen Corinthia Group.",
+        "Zentrum für hochrangige internationale diplomatische Begegnungen.",
+        "Verfügt über umfangreiche Wellnessanlagen und preisgekrönte Restaurants.",
+        "Bekannt für seine extrem hohen Sicherheitsstandards und geschützten Perimeter.",
+        "Ein wichtiger Arbeitgeber im libyschen Dienstleistungssektor.",
+        "Das Hotel ist ein Sinnbild für die wirtschaftliche Öffnung Libyens im frühen 21. Jahrhundert."
       ]
     },
     {
-      "id": "khoms-power-plant-economic-v2",
-      "descriptionAdvanced": "Das Kraftwerk Khoms ist eine der zentralen Anlagen zur Stromerzeugung an der libyschen Mittelmeerküste. Es verbrennt Erdgas und Heizöl, um das nationale Stromnetz zu stabilisieren, hat jedoch wie viele andere Anlagen des Landes mit veralteter Infrastruktur und den Folgen jahrelanger Vernachlässigung zu kämpfen. Geografie K8 — Energieinfrastruktur.",
+      "id": "dat-el-imad-landmarks-v2",
+      "descriptionAdvanced": "Die Dat El Imad Türme sind ein monumentaler Bürokomplex im Herzen des zentralen Geschäftsviertels von Tripolis. Der Komplex besteht aus fünf identischen, zylindrischen Hochhäusern, die in den 1980er Jahren errichtet wurden und eines der größten Bauprojekte dieser Ära darstellten. Die Architektur ist ein herausragendes Beispiel für den libyschen Brutalismus und die massive Verwendung von Beton und Glas. Dat El Imad beherbergt die Zentralen vieler nationaler Behörden, bedeutender Banken und staatlicher Ölgesellschaften. Durch seine strategische Lage unweit des Roten Schlosses und des Hafens ist der Komplex der operative Mittelpunkt der libyschen Wirtschaftsadministration. Die fünf Türme sind ein fester Bestandteil der nationalen Identität und symbolisieren die wirtschaftliche Macht, die Libyen während des Ölbooms erlangte. Architektur K8 — Staatsarchitektur und Wirtschaftszentren.",
       "factsAdvanced": [
-        "Wichtiges Kraftwerk für das nationale Stromnetz",
-        "Gelegen an der Küste in Al Khums",
-        "Kann mit Gas und Öl betrieben werden",
-        "Kampf mit ständigen Stromausfällen im Netz",
-        "Benötigt massive internationale Investitionen",
-        "Strategisch wichtige Infrastruktur"
+        "Besteht aus fünf kreisförmigen Türmen, die symbolisch für Stärke und Stabilität stehen.",
+        "Errichtet während des wirtschaftlichen Aufschwungs in den 1980er Jahren.",
+        "Sitz der Libyan Investment Authority (LIA) und zahlreicher Staatsbanken.",
+        "Einer der größten zusammenhängenden Bürokomplexe im Mittelmeerraum.",
+        "Markanter Orientierungspunkt im Stadtzentrum von Tripolis.",
+        "Verfügt über ein weitläufiges Netz von unterirdischen Parkanlagen und Tunneln.",
+        "Die Türme sind ein Beispiel für die moderne Stadtplanung der Gaddafi-Ära.",
+        "Dienen als zentrales logistisches Herz für die libysche Erdölindustrie."
       ]
     },
     {
-      "id": "ly-leptis-magna-history-v2",
-      "descriptionAdvanced": "Leptis Magna gilt als eine der am besten erhaltenen antiken römischen Städte der Welt, deren monumentale Ruinen direkt am Mittelmeer liegen. Als Geburtsort des Kaisers Septimius Severus wurde sie prachtvoll mit Amphitheatern, riesigen Thermen und Triumphbögen ausgebaut und gehört heute zum UNESCO-Weltkulturerbe. Geschichte K7 — Römisches Kaiserreich.",
+      "id": "jamal-abdul-nasser-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Gamal-Abdel-Nasser-Moschee ist ein beeindruckendes Beispiel für die architektonische und politische Transformation Libyens. Ursprünglich im Jahr 1928 als katholische Kathedrale von Tripolis im neoromanischen Stil während der italienischen Kolonialzeit erbaut, war sie einst die größte Kirche Nordafrikas. Nach der libyschen Revolution von 1969 wurde das Gebäude in eine Moschee umgewandelt und zu Ehren des ägyptischen Führers Gamal Abdel Nasser benannt. Bei der Umgestaltung wurden die markanten Türme in Minarette umgewandelt und das Innere an die Anforderungen des islamischen Gebets angepasst. Die Moschee am Maidan Al Jazair ist ein kraftvolles Denkmal für die postkoloniale Identität Libyens und spiegelt den tiefgreifenden Wandel der städtischen Landschaft wider. Architektur K8 — Umwidmung von Sakralbauten und nationale Symbole.",
       "factsAdvanced": [
-        "Eine der best-erhaltenen Römerstädte weltweit",
-        "UNESCO-Weltkulturerbe seit 1982",
-        "Geburtsort des römischen Kaisers Septimius Severus",
-        "Verfügt über ein riesiges Amphitheater und Thermen",
-        "Liegt an der Küste nahe der Stadt Khoms",
-        "Spektakuläre Bögen und Mosaike erhalten"
+        "Ursprünglich 1928 als Kathedrale von Tripolis durch die Italiener fertiggestellt.",
+        "Wurde 1970 in eine Moschee umgewandelt und nach Gamal Abdel Nasser benannt.",
+        "Markiert das Zentrum des kolonialen Viertels von Tripolis am Maidan Al Jazair.",
+        "Die Architektur zeigt eine faszinierende Mischung aus neoromanischen und islamischen Elementen.",
+        "Besitzt gewaltige Innendimensionen und eine imposante Deckenhöhe.",
+        "Eines der wichtigsten religiösen und politischen Wahrzeichen der Hauptstadt.",
+        "Die Umwandlung symbolisierte das Ende des europäischen religiösen Einflusses.",
+        "Wichtiger Ort für Freitagsgebete und nationale religiöse Feierlichkeiten."
       ]
     },
     {
-      "id": "ly-sabratha-history-v2",
-      "descriptionAdvanced": "Die archäologische Stätte von Sabratha fasziniert Besucher mit ihrem majestätischen römischen Theater, dessen dreistöckige Bühnenwand direkt vor dem azurblauen Mittelmeer aufragt. Die Stadt war ursprünglich ein phönizischer Handelsposten, bevor sie unter römischer Herrschaft florierte und durch den Handel mit afrikanischen Tieren reich wurde. Geschichte K7 — Antiker Handel.",
+      "id": "martyrs-square-tripoli-landmarks-v2",
+      "descriptionAdvanced": "Der Platz der Märtyrer (Maidan al-Shuhada) ist das unbestrittene Herz von Tripolis und der Schauplatz der bedeutendsten Ereignisse der libyschen Geschichte. Der weitläufige Platz am Rande des Hafens und der Medina wurde während der italienischen Kolonialzeit als Piazza Italia angelegt und hieß unter der vorigen Regierung 'Grüner Platz'. Er wird auf einer Seite vom monumentalen Roten Schloss flankiert und öffnet sich auf der anderen Seite zum Mittelmeer. Der Platz ist das soziale und politische Zentrum des Landes, auf dem Demonstrationen, Feierlichkeiten und nationale Kundgebungen stattfinden. Mit seinen Springbrunnen, Palmen und historischen Gebäuden ist er ein Symbol für die Freiheit und den Kampf des libyschen Volkes. Hier trifft die antike Geschichte der Medina auf die koloniale Vergangenheit und die Hoffnung der modernen libyschen Nation. Geschichte K8 — Öffentliche Räume und nationale Identitätsstiftung.",
       "factsAdvanced": [
-        "Ehemaliger phönizischer Handelsposten",
-        "Weltberühmtes dreistöckiges römisches Theater",
-        "UNESCO-Weltkulturerbe",
-        "Wichtiger Umschlagplatz für exotische Tiere im alten Rom",
-        "Wunderschöne byzantinische und römische Mosaike",
-        "Liegt direkt am Mittelmeerstrand"
+        "Zentralster Platz in Tripolis und Schauplatz aller großen Revolutionen.",
+        "Wird vom historischen Roten Schloss (Assaraya al-Hamra) dominiert.",
+        "Wurde im 20. Jahrhundert mehrfach umbenannt (Piazza Italia, Grüner Platz, Märtyrerplatz).",
+        "Knotenpunkt zwischen der modernen Stadt und der historischen Medina.",
+        "Hier befinden sich der Bogen des Marcus Aurelius und das Nationalmuseum.",
+        "Der Platz ist ein beliebter Treffpunkt für Familien und Touristen am Abend.",
+        "Schauplatz der entscheidenden Massenproteste während der Revolution 2011.",
+        "Ein Ort von enormer emotionaler und politischer Symbolkraft für alle Libyer."
+      ]
+    },
+    {
+      "id": "tripoli-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Tripolis-Stadion, offiziell als Stadion des 11. Juni bekannt, ist die größte und wichtigste Sportstätte Libyens. Mit einer Kapazität von über 65.000 Zuschauern ist es das nationale Stadion des Landes und die Heimstätte der libyschen Fußballnationalmannschaft sowie der großen Hauptstadtklubs Al-Ahli und Al-Ittihad. Das Stadion wurde in den 1970er Jahren erbaut und war Schauplatz zahlreicher internationaler Turniere, darunter der Afrika-Cup 1982. Für die fußballbegeisterte libysche Bevölkerung ist das Stadion ein Ort intensiver Emotionen und nationaler Leidenschaft. Trotz der Herausforderungen durch die Konflikte im Land bleibt das Stadion ein Symbol für den Zusammenhalt durch den Sport. Die massive Betonarchitektur ist ein typisches Beispiel für die monumentalen Staatsbauten der damaligen Zeit. Sportwissenschaft K8 — Sportinfrastruktur und gesellschaftliche Bedeutung.",
+      "factsAdvanced": [
+        "Größtes Fußballstadion Libyens mit Platz für bis zu 67.000 Zuschauer.",
+        "Hauptaustragungsort für die Heimspiele der libyschen Nationalmannschaft.",
+        "Schauplatz des Finales des Afrika-Cups im Jahr 1982.",
+        "Bekannt für seine extrem leidenschaftliche Atmosphäre bei Derbys in Tripolis.",
+        "Standort bedeutender nationaler Sportakademien und Trainingszentren.",
+        "Wurde im Jahr 2024 umfassend renoviert und modernisiert.",
+        "Verfügt über eine markante Architektur aus der Zeit des wirtschaftlichen Booms.",
+        "Ein zentrales Symbol für die Bedeutung des Fußballs im libyschen Alltag."
+      ]
+    },
+    {
+      "id": "benina-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "Das Terminal des Benina International Airport ist das wichtigste Luftverkehrstor zum Osten Libyens und ein entscheidendes Infrastruktur-Wahrzeichen von Bengasi. Nach schweren Zerstörungen während der Konflikte wurde in den letzten Jahren ein komplett neues, modernes Passagierterminal errichtet, das 2022 offiziell eröffnet wurde. Das Terminal besticht durch sein zeitgemäßes Design, effiziente Abfertigungsprozesse und eine deutlich erhöhte Kapazität. Es dient als lebenswichtige Verbindung für den Personen- und Warenverkehr zwischen der Kyrenaika und dem Rest der Welt. Der Wiederaufbau des Terminals gilt als Symbol für die Erholung und den Neuanfang der Stadt Bengasi. Als logistisches Herzstück der Region ist der Flughafen Benina für die wirtschaftliche Entwicklung und die humanitäre Versorgung Ostlibyens von unschätzbarem Wert. Geografie K8 — Luftverkehrsnetze und Wiederaufbau nach Konflikten.",
+      "factsAdvanced": [
+        "Neues Passagierterminal, eröffnet im Jahr 2022 nach umfassender Modernisierung.",
+        "Wichtigster internationaler Flughafen für die gesamte östliche Region Libyens.",
+        "Verfügt über eine Kapazität von mehreren Millionen Passagieren pro Jahr.",
+        "Zentraler Stützpunkt für die Fluggesellschaften Libyan Airlines und Afriqiyah Airways.",
+        "Strategisch wichtig für den Export von Waren und die Anbindung an Ägypten und die Türkei.",
+        "Symbol für den zivilen Wiederaufbau der Stadt Bengasi.",
+        "Ausgestattet mit moderner Flugsicherungs- und Sicherheitstechnologie.",
+        "Ein entscheidender Knotenpunkt für die wirtschaftliche Integration der Kyrenaika."
+      ]
+    },
+    {
+      "id": "tibesti-hotel-benghazi-landmarks-v2",
+      "descriptionAdvanced": "Das Tibesti Hotel ist das bekannteste und prestigeträchtigste Hotel in Bengasi und ein Wahrzeichen der Stadt am Ufer des Mittelmeers. Das markante Hochhaus wurde in den 1970er Jahren erbaut und nach dem Tibesti-Gebirge im Süden Libyens benannt. Mit seiner zentralen Lage an der Corniche von Bengasi bietet es einen spektakulären Blick auf den Golf von Sidra. Das Hotel ist seit Jahrzehnten das Zentrum für das gesellschaftliche und politische Leben in Ostlibyen und beherbergte unzählige internationale Staatsgäste und Delegationen. Die Architektur spiegelt den Stil der modernen libyschen Urbanisierung wider. Trotz der turbulenten Geschichte der Stadt blieb das Tibesti Hotel ein stabiler Ankerpunkt und ist heute ein Symbol für die Beständigkeit und Gastfreundschaft der Menschen in Bengasi. Wirtschaft K8 — Hotellerie und städtische Zentren.",
+      "factsAdvanced": [
+        "Das bekannteste Luxushotel in Bengasi und Wahrzeichen der Küstenlinie.",
+        "Beherbergt das wichtigste Konferenzzentrum in der Region Kyrenaika.",
+        "Benannt nach dem höchsten Gebirgsmassiv der Zentralsahara.",
+        "Bietet eine unvergleichliche Aussicht auf den Hafen und das Mittelmeer.",
+        "Zentraler Treffpunkt für Diplomaten, Journalisten und Geschäftsleute.",
+        "Verfügt über mehrere exklusive Restaurants und weitläufige Veranstaltungsräume.",
+        "Ein Symbol für den wirtschaftlichen Aufstieg Bengasis im 20. Jahrhundert.",
+        "Das Hotel spielt eine Schlüsselrolle in der lokalen Tourismusinfrastruktur."
+      ]
+    },
+    {
+      "id": "benghazi-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Leuchtturm von Bengasi ist ein historisches Wahrzeichen an der Küste der Kyrenaika und ein unverzichtbares Navigationsinstrument für den Schiffsverkehr im Golf von Sidra. Errichtet während der italienischen Kolonialzeit im Jahr 1922, steht der markante Turm an der nordwestlichen Ecke des alten Hafens. Mit seiner charakteristischen schwarz-weißen Bemalung ist er weithin sichtbar und ein beliebtes Fotomotiv. Der Leuchtturm hat über ein Jahrhundert lang den Aufstieg Bengasis zur modernen Hafenmetropole begleitet und überdauerte zahlreiche Kriege und politische Umwälzungen. Er symbolisiert die enge Verbindung der Stadt mit dem Meer und ihre Rolle als bedeutender Handelsstützpunkt im Mittelmeerraum. Bis heute ist er ein aktives Symbol für Sicherheit und maritime Tradition in Ostlibyen. Geografie K7 — Maritime Navigation und historische Küstenbauwerke.",
+      "factsAdvanced": [
+        "Erbaut im Jahr 1922 während der italienischen Herrschaft über die Kyrenaika.",
+        "Markante Turmhöhe von etwa 22 Metern mit einem weitreichenden Lichtsignal.",
+        "Besitzt eine charakteristische spiralförmige schwarz-weiße Markierung.",
+        "Befindet sich strategisch am Eingang des historischen Hafens von Bengasi.",
+        "Eines der ältesten erhaltenen technischen Bauwerke aus der Kolonialzeit.",
+        "Ein wichtiges Symbol für die maritime Identität der Stadt Bengasi.",
+        "Überstand die schweren Bombardierungen im Zweiten Weltkrieg nahezu unbeschadet.",
+        "Dient bis heute als aktiver Wegweiser für die Handelsschifffahrt."
+      ]
+    },
+    {
+      "id": "al-sahaba-mosque-derna-landmarks-v2",
+      "descriptionAdvanced": "Die Al-Sahaba-Moschee ist das geistige Herz und das architektonische Wahrzeichen der Stadt Derna im Nordosten Libyens. Die Moschee ist berühmt für ihren Friedhof, auf dem 70 Gefährten des Propheten Muhammad (Sahaba) begraben sein sollen, die während der ersten islamischen Expansion im 7. Jahrhundert hierher kamen. Die Architektur der Moschee ist prachtvoll und vereint traditionelle maghrebinische Stile mit modernen Elementen. Besonders markant ist das Minarett, das über der Stadt Derna thront. Die Moschee ist nicht nur ein Ort des Gebets, sondern ein tief verwurzeltes Symbol für die religiöse Geschichte und die kulturelle Identität der Kyrenaika. Trotz der tragischen Ereignisse durch Naturkatastrophen in der jüngsten Zeit bleibt die Al-Sahaba-Moschee ein Zeichen der Hoffnung und der religiösen Beständigkeit für das libysche Volk. Religionsgeschichte K8 — Die Ausbreitung des Islam in Nordafrika und heilige Stätten.",
+      "factsAdvanced": [
+        "Beherbergt die Grabstätten von 70 Gefährten (Sahaba) des Propheten Muhammad.",
+        "Wichtigstes religiöses Zentrum und Wahrzeichen der Stadt Derna.",
+        "Die Architektur zeigt kunstvolle Kalligraphien und feine geometrische Muster.",
+        "Besitzt ein markantes Minarett, das die Skyline der Stadt prägt.",
+        "Zentraler Wallfahrtsort für Gläubige aus ganz Libyen.",
+        "Ein Symbol für die jahrtausendealte islamische Tradition in der Kyrenaika.",
+        "Wurde im Jahr 2023 zum Symbol der Trauer und des Wiederaufbaus nach der Flutkatastrophe.",
+        "Der angrenzende Friedhof gilt als einer der historisch wertvollsten des Landes."
       ]
     }
   ]

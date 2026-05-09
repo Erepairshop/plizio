@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "solwezi-cities-v2",
+      "descriptionAdvanced": "Solwezi a Nord-Nyugati Tartomány fővárosa, amely az elmúlt években rohamos gazdasági fejlődésen ment keresztül, elsősorban a bányászati ipar bővülése miatt. Különösen a Kansanshi rézbánya tette a várost az ország egyik legfontosabb ipari központjává. A város ötvözi a modern urbanizációt a régió hagyományos kultúrájával. A bányászat ellenére Solwezi körül elterülő hatalmas vidéki területek nagy lehetőségeket kínálnak a mezőgazdaság számára is.",
+      "factsAdvanced": ["A Nord-Nyugati Tartomány fővárosa", "Kiemelt központ a rézbányászatban", "A Kansanshi-bánya székhelye", "Rohamos népességnövekedés", "Magasság: kb. 1250 méter", "A tartomány gazdasági motorja"]
+    },
+    {
+      "id": "mansa-cities-v2",
+      "descriptionAdvanced": "Mansa a Luapula Tartomány adminisztratív fővárosa, stratégiailag kedvező helyen, a Mansa-folyó közelében. A régió táji sokszínűségéről ismert, amelyet folyók, tavak és sűrű erdők jellemeznek. A város fontos kereskedelmi és szolgáltató központ a környező vidéki közösségek számára, amelyek főként halászatból és kisüzemi mezőgazdaságból élnek. Az elmúlt években közigazgatási szerepe megerősödött, és kulcsszerepet játszik a tartomány infrastruktúrájának fejlesztésében.",
+      "factsAdvanced": ["A Luapula Tartomány fővárosa", "A regionális mezőgazdaság és halászat központja", "Korábbi neve: Fort Rosebery", "Fontos adminisztratív székhely", "Magasság: kb. 1200 méter", "A Luapula-régió gazdasági összekötője"]
+    },
+    {
+      "id": "mazabuka-cities-v2",
+      "descriptionAdvanced": "Mazabukát gyakran Zambia 'legédesebb városaként' emlegetik a környékén elterülő hatalmas cukornádültetvények miatt. A város az ország cukortermelésének központja, és meghatározó szerepet játszik a sambiai mezőgazdasági gazdaságban. Infrastruktúrája nagymértékben a cukoripar igényeihez és az azzal járó logisztikai folyamatokhoz igazodik. A Déli Tartomány fontos településeként az ipari feldolgozóüzemeket köti össze a termékeny szántóföldekkel.",
+      "factsAdvanced": ["'Legédesebb városnak' (Sweetest Town) becézik", "A sambiai cukoripar központja", "A 'Zambia Sugar' székhelye", "Fontos mezőgazdasági munkaadó", "Magasság: kb. 1050 méter", "Kulcshelyszín az agrárfeldolgozásban"]
+    },
+    {
+      "id": "choma-cities-v2",
+      "descriptionAdvanced": "Choma a Déli Tartomány adminisztratív székhelye és a mezőgazdasági termékek kereskedelmének központi csomópontja ebben a termékeny régióban. A várost a modern igazgatási funkciók és a kulturális örökség megőrzése jellemzi, ahogy azt a Choma Múzeum és Kézműves Központ is bizonyítja, amely a régió hagyományainak szentelődik. A Lusaka és Livingstone közötti közlekedési útvonal kulcsfontosságú állomásaként Choma logisztikai bázisként is szolgál az agrárszektor számára.",
+      "factsAdvanced": ["A Déli Tartomány székhelye", "Az agrárgazdaság központi csomópontja", "A Choma Múzeum és Kézműves Központ otthona", "Stratégiai helyzet a déli útvonalon", "Magasság: kb. 1250 méter", "A régió központi ellátóhelye"]
+    },
+    {
+      "id": "mongu-cities-v2",
+      "descriptionAdvanced": "Mongu a Nyugati Tartomány adminisztratív fővárosa, a Barotse-ártér szélén egy jellegzetes földnyelven fekszik. A város a Lozi lakosság kulturális központja, és világszerte ismert az éves 'Kuomboka'-szertartásról, amely során a Lozi nép hagyományos uralkodója, a Litunga egy díszes hajón utazik át az elárasztott síkságokon. Kulturális jelentősége mellett kereskedelmi központ a halászat és a régió mezőgazdasága számára.",
+      "factsAdvanced": ["A Nyugati Tartomány fővárosa", "A Lozi-kultúra központja", "A Kuomboka-szertartás helyszíne", "Elhelyezkedés a Barotse-ártér peremén", "Magasság: kb. 1100 méter", "Fontos halászati kereskedelmi központ"]
+    },
+    {
+      "id": "kapiri-mposhi-cities-v2",
+      "descriptionAdvanced": "Kapiri Mposhi jelentős vasúti csomópont és közlekedési központ a Középponti Tartományban, amely döntő szerepet játszik az ország áru- és személyforgalmában. A TAZARA-vasútvonal, amely Zambiát Tanzániával köti össze, és az országos vasúthálózat találkozásánál fekszik, így logisztikai gerincet alkot a nemzetközi kereskedelem számára. A 'Great North Road'-on elhelyezkedve fontos tranzitállomás a kelet-afrikai kikötővárosok és a zambiai bányavidék között.",
+      "factsAdvanced": ["Jelentős vasúti csomópont", "A TAZARA-vonal végállomása", "Fontos közlekedési csomópont a Great North Road-on", "A nemzetközi kereskedelem logisztikai gerince", "Magasság: kb. 1280 méter", "Központi tranzitállomás a régióban"]
+    },
+    {
+      "id": "monze-cities-v2",
+      "descriptionAdvanced": "Monze jelentős mezőgazdasági város a Déli Tartományban, amelyet egy helyi főnökről neveztek el. A város gazdasági alapja szorosan kötődik a régió mezőgazdasági termeléséhez, és fontos kereskedelmi állomásként szolgál a környező gazdálkodók számára. A főbb közlekedési útvonalak mentén elhelyezkedve Monze fontos kereskedelmi és szolgáltató központ a tartományban, amely segíti a mezőgazdasági termékek eljutását a nagyobb piacokra.",
+      "factsAdvanced": ["Jelentős mezőgazdasági város", "Névadó: Monze főnök", "Fontos közúti összeköttetés", "A régió mezőgazdasági központja", "Magasság: 1200 méter körüli", "Kereskedelmi központ a Déli Tartományban"]
+    },
+    {
+      "id": "mpika-cities-v2",
+      "descriptionAdvanced": "Mpika központi tranzitváros a Muchinga Tartományban, stratégiailag két nagy főút kereszteződésénél fekszik, így kulcsfontosságú pont az ország északi és keleti része felé irányuló tranzitforgalomban. A város alapvető logisztikai szolgáltatásokat nyújt az utazók és a szállítmányozási vállalatok számára. A TAZARA-vasút állomásaként Mpika profitál a regionális teherforgalomból is. A Muchinga-hegység és a kiterjedt mélyföldek közötti fekvésével a város jó kiindulópont Sambia érintetlen természeti területeinek felfedezéséhez.",
+      "factsAdvanced": ["Kiemelt tranzitcsomópont", "Elhelyezkedés két főút kereszteződésénél", "A TAZARA-vonal állomása", "Fontos szolgáltatóközpont tranzitutazóknak", "Magasság: kb. 1450 méter", "Kapu az északi régiók felé"]
+    },
+    {
+      "id": "nchelenge-cities-v2",
+      "descriptionAdvanced": "Nchelenge egy város a Luapula Tartományban, a Mweru-tó partján. A település elsősorban a halászati iparáról ismert, amely a tó erőforrásaira támaszkodik. A város emellett kereskedelmi pontként is funkcionál a közeli Kongói Demokratikus Köztársaság határai közelében. A halászat és a kereskedelem a város gazdaságának két alappillére, amelyek meghatározzák a lakosság mindennapi megélhetését ebben a tó menti régióban.",
+      "factsAdvanced": ["Elhelyezkedés a Mweru-tó partján", "Halászati központ", "Határváros a Kongói DK közelében", "Kereskedelmi szerep a tó menti régióban", "Magasság: 900 méter körüli", "A tó erőforrásaira épülő gazdaság"]
+    },
+    {
+      "id": "kawambwa-cities-v2",
+      "descriptionAdvanced": "Kawambwa egy város a Luapula Tartomány fennsíkján, történelmileg fontos adminisztratív központ. A régió híres a teaültetvényeiről, amelyek a kedvező éghajlatnak köszönhetően jelentős mezőgazdasági ágazatot képviselnek. A közeli Lumangwe-vízesés további természeti értékeket és turisztikai potenciált kínál a városnak. Kawambwa adminisztratív szerepe mellett a régió agrárgazdaságának egyik meghatározó szereplője.",
+      "factsAdvanced": ["Teaültetvények régiója", "Közelség a Lumangwe-vízeséshez", "Fontos adminisztratív központ", "Mezőgazdasági szerep a fennsíkon", "Magasság: 1300 méter körüli", "Adminisztratív szerep a tartományban"]
+    }
+  ]
+}

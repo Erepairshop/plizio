@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dadaab-lowlands-relief-v2",
+      "descriptionAdvanced": "The Dadaab Lowlands extend as expansive, flat depressions in the border region of Somalia. This relief is characterized by a monotonous, largely horizontal structure, which consists primarily of fine-grained sandy deposits. Due to geological conditions, these lowland areas have very low topographic variance, which leads to a rapid spread of surface water during rare but intense rainfall. Despite its arid-barren nature, the region serves as a strategically important transition zone due to its vastness, where topographic conditions significantly determine settlement patterns and nomadic migration routes.",
+      "factsAdvanced": [
+        "Extensive, flat lowland depressions in the border region.",
+        "Monotone, horizontally dominated topographic structure.",
+        "Consists primarily of fine-grained sandy sediments.",
+        "Very low natural topographic variance.",
+        "Rapid spread of surface water during rain.",
+        "Strategically important transition zone in the arid relief.",
+        "Topography significantly determines nomadic migration routes."
+      ]
+    },
+    {
+      "id": "barawa-coastal-relief-v2",
+      "descriptionAdvanced": "The Barawa Coastal Strip forms a narrow, topographically fragile zone along the southern Somali coastline. The relief is characterized by a sequence of gently rising dune belts, which border directly on the sandy beaches and form a natural barrier against the force of the sea. This geological formation is subject to constant dynamics through coastal winds and currents, which continuously change the topography in this section. The narrow land bridge serves as an important habitat for adapted coastal flora and acts as a barrier that protects the inland areas from direct marine erosion.",
+      "factsAdvanced": [
+        "Narrow, topographically fragile coastal strip.",
+        "Sequence of gently rising, dynamic dune belts.",
+        "Natural protective barrier against the force of the sea.",
+        "Constant topographic change through wind and current.",
+        "Important habitat for an adapted coastal flora.",
+        "Barrier against direct marine erosion in the hinterland.",
+        "Dynamic interaction between land and Indian Ocean."
+      ]
+    },
+    {
+      "id": "ceerigaabo-uplands-relief-v2",
+      "descriptionAdvanced": "The Ceerigaabo Uplands encompass a significant, topographically elevated area in northern Somalia. The relief is characterized by a cool, plateau-like structure, which is regularly reached by moister air masses due to its altitude. This geographic position leads to a significantly higher amount of precipitation compared to the surrounding lowlands and supports a unique ecosystem with marked juniper forest formations. The geological basis of weathered limestone formations and the topographic position make this highland an ecological oasis that stands out clearly from the barren, arid relief of the rest of the country.",
+      "factsAdvanced": [
+        "Significantly elevated and plateau-like highland area.",
+        "Climatically cooler location with moister air masses.",
+        "Significantly higher precipitation than in the lowland.",
+        "Supports unique juniper forest formations.",
+        "Ecological oasis in an otherwise arid landscape.",
+        "Geologically based on weathered limestone formations.",
+        "Topographic separation from the surrounding, dry relief."
+      ]
+    },
+    {
+      "id": "hordio-lagoon-relief-v2",
+      "descriptionAdvanced": "The Hordio Lagoon forms a protected, topographically deeper-lying brackish lagoon surface in the northeastern coastal area of Somalia. This formation is created by the natural separation of a shallow bay from the open sea via sandbanks, which creates a calm, brackish water zone. The topography is characterized by the interplay of sedimentary deposits and the changing water levels of the tides. This shallow, protected environment serves as an ecologically essential retreat and resting place for numerous migratory bird species, as it offers a stable food base in an otherwise rather rough coastal relief.",
+      "factsAdvanced": [
+        "Protected, deeper-lying brackish lagoon surface.",
+        "Formed by natural separation from the sea via sandbanks.",
+        "Topography through sedimentary deposits and tides.",
+        "Ecologically stable habitat with calm water zones.",
+        "Essential resting place for numerous migratory bird species.",
+        "Stable food base in an otherwise rough relief.",
+        "Interactive zone between marine and terrestrial topography."
+      ]
+    },
+    {
+      "id": "kismayo-coastal-relief-v2",
+      "descriptionAdvanced": "The Kismayo Coastal Relief extends as a flat, expansive zone south of the Juba Delta. The topographic structure is characterized by open, sandy coastal areas and a complex system of shallow bays, which are constantly reshaped by marine influence. The relief shows first signs of specialized mangrove ecosystems, as the protected, sediment-rich bays offer an ideal base for these specialized plants. The coastal landscape is largely horizontal and mediates between the maritime space and the savannah landscape extending into the interior, with the relief being stabilized by both fluvial and marine sedimentation.",
+      "factsAdvanced": [
+        "Flat, expansive zone south of the Juba Delta.",
+        "Characterized by sandy coasts and a system of shallow bays.",
+        "First signs of specialized mangrove ecosystems in the area.",
+        "Formed by constant marine and fluvial sedimentation.",
+        "Horizontal landscape as a transition zone to the savannah.",
+        "Topographic stability through the interaction of forces.",
+        "Complex interplay of marine and terrestrial geography."
+      ]
+    }
+  ]
+}

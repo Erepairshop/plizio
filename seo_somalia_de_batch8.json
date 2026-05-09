@@ -1,0 +1,48 @@
+{
+  "lang": "de",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "las-khorey-fort-history-v2",
+      "descriptionAdvanced": "Las Khorey, die ehemalige Hauptstadt des Warsangali-Sultanats, ist eine geschichtsträchtige Küstenstadt, deren Architektur noch heute von einer glanzvollen Vergangenheit zeugt. Die Überreste historischer zweistöckiger Gebäude und die massiven Befestigungsanlagen aus dem 13. Jahrhundert verweisen auf eine Zeit, in der Las Khorey ein wirtschaftlich bedeutender Hafen war. Durch ihre strategische Lage fungierte die Stadt als wichtiger Handelsposten, der den Austausch von Gütern und kulturellen Einflüssen am Golf von Aden ermöglichte. Heute bieten die Ruinen ein Fenster in eine Zeit somalischer Sultanatsgeschichte, in der Architektur und Handel eng miteinander verknüpft waren.",
+      "factsAdvanced": [
+        "Einstige Hauptstadt des Warsangali-Sultanats.",
+        "Historisch bedeutende Hafenstadt am Golf von Aden.",
+        "Enthält Überreste von Bauwerken aus dem 13. Jahrhundert.",
+        "Zeugnis für die Handelsbedeutung im Mittelalter.",
+        "Architektonisch geprägt durch mehrstöckige historische Bauten.",
+        "Strategischer Stützpunkt der somalischen Sultanatsgeschichte.",
+        "Wichtiger Ort für die Erforschung der Küstenarchitektur."
+      ]
+    },
+    {
+      "id": "afgooye-geledi-ruins-history-v2",
+      "descriptionAdvanced": "Die Ruinen von Afgooye bewahren das Erbe des Geledi-Sultanats, das im 19. Jahrhundert eine dominierende politische und militärische Kraft in der Region um den Shabelle-Fluss darstellte. Afgooye fungierte als ein bedeutendes Zentrum der somalischen Literatur und Poesie, was es zu einem kulturellen Leuchtturm in einer Zeit starker politischer Konsolidierung machte. Die historischen Ruinen sind nicht nur architektonische Reste, sondern auch ein Symbol für die militärische und administrative Stärke des Sultanats, das seine Macht durch weitreichende Handelskontakte und Diplomatie festigte. Die Stätte bietet einen faszinierenden Einblick in das intellektuelle und militärische Leben vor der Ära der intensiven Kolonialisierung.",
+      "factsAdvanced": [
+        "Historische Überreste des einflussreichen Geledi-Sultanats.",
+        "Dominante politische Kraft am Shabelle-Fluss im 19. Jahrhundert.",
+        "Zentrum der somalischen Poesie und Literatur.",
+        "Wichtige militärische Basis in vor-kolonialer Zeit.",
+        "Symbol für administrative und kulturelle Macht.",
+        "Wichtiger Ort für das Verständnis somalischer Sultanatsdiplomatie.",
+        "Archäologisches Zeugnis einer intellektuellen Hochphase."
+      ]
+    },
+    {
+      "id": "luuq-ancient-trading-post-history-v2",
+      "descriptionAdvanced": "Luuq, eingebettet in die markanten Mäander des Flusses Jubba, blickt auf eine lange Tradition als wichtiger Karawanenhalt zurück, der das Landesinnere mit der Küste verband. Als strategischer Handelsknotenpunkt für Elfenbein und Weihrauch war die Stadt über Jahrhunderte ein Umschlagplatz für Waren, die aus den entferntesten Teilen der Region zusammenkamen. Die geografische Lage in den Flusswindungen bot zudem natürlichen Schutz, was Luuq zu einer dauerhaften Ansiedlung machte, die trotz wechselnder politischer Einflüsse ihre wirtschaftliche Bedeutung bewahrte. Die Stadt ist ein Beispiel dafür, wie geografische Gegebenheiten in Somalia genutzt wurden, um nachhaltige Handelsrouten zu etablieren.",
+      "factsAdvanced": [
+        "Strategisch gelegene Stadt an den Mäandern des Flusses Jubba.",
+        "Historischer Karawanenhalt zwischen Landesinnerem und Küste.",
+        "Wichtiger Umschlagplatz für Weihrauch und Elfenbein.",
+        "Geografisch geschützte Lage begünstigte die Stadtentwicklung.",
+        "Handelsknotenpunkt mit jahrhundertealter Tradition.",
+        "Wichtiges Beispiel für somalische Handelsrouten-Logistik.",
+        "Dauerhafte Ansiedlung durch wirtschaftliche Prosperität."
+      ]
+    }
+  ]
+}

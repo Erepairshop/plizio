@@ -2,293 +2,72 @@
   "lang": "ro",
   "country": "southafrica",
   "files": [
-    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts"
   ],
   "items": [
     {
-      "id": "southafrica-empangeni-cities-v2",
-      "descriptionAdvanced": "Empangeni, situat în dealurile ondulate din KwaZulu-Natal, este un centru agricol și comercial vital, aflat la mică distanță de portul industrial Richards Bay. Orașul este inima producției de trestie de zahăr și de silvicultură din regiune, beneficiind de un climat subtropical umed. Fondat ca o stație de misiune norvegiană în 1851, Empangeni s-a dezvoltat într-un nod logistic important. Orașul găzduiește campusul Universității din Zululand și este renumit pentru atmosfera sa relaxată, grădinile luxuriante și proximitatea față de marile rezervații de vânătoare din Zululand. Economia sa este strâns legată de procesarea zahărului și de serviciile de suport pentru industria minieră de coastă. Geografie K7 — Agricultura comercială subtropicală și silvicultura.",
+      "id": "u-shaka-marine-life-v2",
+      "descriptionAdvanced": "uShaka Marine World din Durban este mult mai mult decât un simplu acvariu; este unul dintre cele mai atractive și mari centre de experiențe acvatice din țară. Familiile se pot bucura aici de o combinație fascinantă de lumi subacvatice, unde pot observa rechini și pești exotici de aproape, alături de un vast parc acvatic echipat cu tobogane captivante. Spectacolele cu delfini entuziasmează vizitatorii de toate vârstele, făcând din uShaka o destinație esențială în Durban, care îmbină educația despre ecosistemul marin cu distracția autentică de vacanță.",
       "factsAdvanced": [
-        "Centru major pentru industria zahărului și a cherestelei din Zululand.",
-        "Fondat inițial ca misiune norvegiană în 1851.",
-        "Găzduiește Galeria de Artă Empangeni, cu exponate de artă contemporană și istorică.",
-        "Situat pe drumul principal N2, legătura vitală a coastei de est.",
-        "Numele provine de la arborii 'Mpange' care cresc pe malurile râului local.",
-        "Climatul este cald și umed pe tot parcursul anului.",
-        "Orașul servește ca hub educațional pentru regiunea înconjurătoare.",
-        "Proximitate strategică față de portul de adâncime Richards Bay."
+        "Locație: Durban",
+        "Combinație de acvariu și parc acvatic",
+        "Celebră pentru spectacolele spectaculoase cu delfini",
+        "Bazinete mari cu rechini accesibile vizitatorilor",
+        "Numeroase tobogane cu apă pentru familii",
+        "Reper turistic important în Durban",
+        "Valoare educațională și recreativă ridicată"
       ]
     },
     {
-      "id": "southafrica-port-shepstone-cities-v2",
-      "descriptionAdvanced": "Port Shepstone, situat la gura de vărsare a râului Mzimkulu în Oceanul Indian, este cel mai mare oraș de pe coasta de sud a provinciei KwaZulu-Natal. Orașul a fost fondat în 1867 după descoperirea marmurei în apropiere și a servit inițial ca port fluvial. Astăzi, este un centru administrativ și comercial major, fiind poarta de acces către 'Hibiscus Coast'. Port Shepstone este renumit pentru farul său în dungi alb-negru și pentru producția de var, marmură și zahăr. Orașul oferă acces facil la plaje spectaculoase și la Rezervația Naturală Oribi Gorge, fiind un nod de transport esențial pentru regiunea de sud a provinciei. Geografie K7 — Exploatarea resurselor de marmură și turismul de coastă.",
+      "id": "augurabies-falls-life-v2",
+      "descriptionAdvanced": "Cascada Augrabies, situată pe maiestuosul râu Orange, oferă un spectacol natural impunător în peisajul arid al provinciei Northern Cape. Apa se prăbușește adânc într-o cheie impresionantă, ale cărei dimensiuni și forță surprind la fiecare vizită. Parcul național din jurul cascadei este un loc excelent pentru familiile pasionate de natură, care pot explora regiunea pe jos sau se pot bucura de un picnic în mediul sălbatic. Este un loc al contrastelor, unde forța neîmblânzită a apei se întâlnește cu liniștea deșertului.",
       "factsAdvanced": [
-        "Cel mai mare centru administrativ de pe coasta de sud a KwaZulu-Natal.",
-        "Farul local a fost construit în 1906 și este un simbol al orașului.",
-        "Singurul loc din Africa de Sud unde se extrage marmură de înaltă calitate.",
-        "Situat la vărsarea râului Mzimkulu, cel mai mare râu de pe coasta de sud.",
-        "Numele provine de la Sir Theophilus Shepstone, un oficial colonial britanic.",
-        "Economia este susținută de agricultură (zahăr, banane) și minerit.",
-        "Cunoscut pentru stația sa de cale ferată, care era odinioară un terminal important.",
-        "Oribi Gorge, situat la 21 km distanță, oferă unul dintre cele mai adânci canioane din țară."
+        "Locație: Râul Orange (Northern Cape)",
+        "Cascade impresionante în chei adânci",
+        "Parc național cu poteci bine întreținute",
+        "Ideal pentru drumeții și picnicuri",
+        "Cadru natural spectaculos",
+        "Habitat important pentru fauna sălbatică",
+        "Experiență peisagistică plină de contraste"
       ]
     },
     {
-      "id": "southafrica-ulundi-cities-v2",
-      "descriptionAdvanced": "Ulundi, situat în inima regiunii Zululand, poartă o greutate istorică imensă, fiind fosta capitală a Regatului Zulu în secolul al XIX-lea. Orașul a fost locul bătăliei finale a Războiului Anglo-Zulu din 1879, care a marcat sfârșitul independenței națiunii Zulu sub regele Cetshwayo. Ulundi a servit ulterior drept capitală a bantustanului KwaZulu și este și astăzi un sediu administrativ și legislativ important. Complexul muzeal Ondini păstrează reconstituiri ale gospodăriei regale (kraal), oferind o perspectivă rară asupra culturii și structurii sociale tradiționale Zulu. Orașul este înconjurat de văi pitorești și rezervații de animale, fiind un centru cultural esențial pentru mândra moștenire a acestui popor. Istorie K8 — Regatul Zulu și conflictele coloniale.",
+      "id": "biltong-farms-agriculture-life-v2",
+      "descriptionAdvanced": "O vizită la o fermă tradițională de biltong oferă o perspectivă profundă asupra culturii culinare sud-africane. Biltong-ul, carnea uscată și condimentată, este o parte indispensabilă a dietei locale, fiind preparată pe aceste ferme conform rețetelor transmise din generație în generație. Pentru familii și vizitatori curioși, este o experiență educativă de a înțelege întregul proces, de la exploatarea agricolă până la finisarea cărnii. Aceasta este o felie autentică de viață cotidiană, care demonstrează cât de adânc sunt înrădăcinate tradițiile culinare în istoria și identitatea agricolă a Africii de Sud.",
       "factsAdvanced": [
-        "Fosta capitală regală a regelui Cetshwayo kaMpande.",
-        "Locul Bătăliei de la Ulundi (4 iulie 1879), care a încheiat Războiul Anglo-Zulu.",
-        "Găzduiește Monumentul Războiului Zulu, ridicat în memoria luptătorilor.",
-        "Situat în Valea Regilor (Emakhosini), locul de înmormântare a multor regi Zulu.",
-        "Numele înseamnă 'Locul cel înalt' în limba Zulu.",
-        "Sediul legislativului provinciei KwaZulu-Natal pentru o perioadă post-apartheid.",
-        "Aeroportul din Ulundi deservește avioanele guvernamentale și turistice.",
-        "Climatul este fierbinte, specific regiunii de interior a Zululand."
+        "Specialitate: Biltong tradițional",
+        "Tradiție culinară profund înrădăcinată",
+        "Introducere în prelucrarea cărnii",
+        "Experiență educativă pentru toate vârstele",
+        "Importanță pentru agricultura locală",
+        "Experiență sud-africană autentică",
+        "Metodă de producție perpetuată de secole"
       ]
     },
     {
-      "id": "southafrica-mthatha-cities-v2",
-      "descriptionAdvanced": "Mthatha, situat în inima provinciei Eastern Cape, este principalul centru urban al regiunii Transkei și un punct focal al istoriei politice sud-africane. Orașul a servit drept capitală a bantustanului Transkei și este strâns legat de viața lui Nelson Mandela, care s-a născut în satul din apropiere, Mvezo, și a crescut la Qunu. Muzeul Nelson Mandela din Mthatha este o atracție majoră, adăpostind daruri și artefacte primite de lider de la comunitatea internațională. Orașul este un centru administrativ, educațional și medical vital pentru milioane de oameni din mediul rural din jur. Situat pe malul râului Mthatha, acesta îmbină haosul vibrant al unei piețe africane cu funcțiile formale de guvernare. Geografie K7 — Sisteme politice regionale și centre de servicii rurale.",
+      "id": "crocodile-bridge-life-v2",
+      "descriptionAdvanced": "Crocodile Bridge, fiind una dintre cele mai cunoscute porți de intrare în celebrul Parcul Național Kruger, reprezintă punctul ideal de plecare pentru aventuri de safari de neuitat. Poarta este situată într-o zonă renumită pentru observarea leilor și oferă oportunități excelente de a vedea animalele direct de pe malul râului. Familiile care intră în parc sunt adesea întâmpinate încă de la început de atmosfera sălbatică autentică. Numele amintește de fauna bogată din cursul râului adiacent și promite experiențe naturale veritabile, care aduc entuziasm fiecărui vizitator.",
       "factsAdvanced": [
-        "Fosta capitală a bantustanului independent Transkei (1976-1994).",
-        "Găzduiește clădirea principală a Muzeului Nelson Mandela.",
-        "Centru administrativ major al districtului O.R. Tambo.",
-        "Universitatea Walter Sisulu are campusul principal aici.",
-        "Situat pe autostrada N2, principala rută între Durban și East London.",
-        "Numele provine de la arborii 'Mtati' (Sneezewood) de pe malul râului.",
-        "Catedrala Sf. Ioan este un punct de reper arhitectural anglican.",
-        "Punct de plecare către faimoasa Coastă Sălbatică (Wild Coast)."
+        "Poartă de intrare în Parcul Național Kruger",
+        "Situat într-o zonă bogată în populație de lei",
+        "Oportunități excelente pentru observarea râului",
+        "Punct de plecare popular pentru safariuri de familie",
+        "Densitate mare de întâlniri cu animale sălbatice",
+        "Atmosferă autentică de tufiș african",
+        "Ideal pentru fotografie naturală și observație"
       ]
     },
     {
-      "id": "southafrica-makhanda-cities-v2",
-      "descriptionAdvanced": "Makhanda, cunoscut anterior sub numele de Grahamstown, este recunoscut drept capitala culturală și educațională a provinciei Eastern Cape. Orașul găzduiește prestigioasa Universitate Rhodes și este sediul Festivalului Național al Artelor, cel mai mare eveniment cultural de acest tip din Africa. Makhanda are un profil istoric distinct, fiind fondat ca un avanpost militar britanic în 1812, ceea ce se reflectă în arhitectura sa victoriană superbă și în numeroasele sale biserici (peste 40), care i-au adus supranumele de 'Orașul Sfinților'. Redenumit în 2018 după un profet și lider Xhosa, orașul este astăzi un loc al dialogului intelectual, cercetării științifice și efervescenței artistice. Geografie K7 — Centre de învățământ superior și festivaluri culturale.",
+      "id": "pioneer-museum-kids-life-v2",
+      "descriptionAdvanced": "Muzeul Pionierilor din Pretoria este un muzeu în aer liber amenajat cu dragoste, care permite o privire directă asupra vieții primilor coloniști din Africa de Sud. Într-un mediu idilic, familiile pot vizita case tradiționale și pot urmări demonstrații despre cum se coace pâinea în cuptoare vechi de piatră. Această experiență interactivă face istoria tangibilă și ușor de înțeles pentru copiii de școală și familii. Este un loc liniștit de conservare care reamintește cât de grea, dar și comunitară, a fost viața pionierilor în secolul al XIX-lea.",
       "factsAdvanced": [
-        "Găzduiește Festivalul Național al Artelor, înființat în 1974.",
-        "Sediul Universității Rhodes, una dintre cele mai vechi din țară.",
-        "Cunoscut ca 'Orașul Sfinților' datorită celor peste 40 de lăcașuri de cult.",
-        "Monumentul Coloniștilor din 1820 domină dealul Gunfire.",
-        "Găzduiește Înalta Curte a Africii de Sud pentru regiunea Eastern Cape.",
-        "Observatorul Astronomic de aici are singura Camera Obscura din emisfera sudică.",
-        "Redenumit oficial Makhanda în 2018 în onoarea lui Makhanda ka Nxele.",
-        "Un important centru de cercetare în domeniul ihtiologiei (studiul peștilor)."
-      ]
-    },
-    {
-      "id": "southafrica-kariega-cities-v2",
-      "descriptionAdvanced": "Kariega, cunoscut anterior sub numele de Uitenhage, este un pilon industrial major situat în apropiere de Gqeberha, în provincia Eastern Cape. Orașul este faimos pentru că găzduiește cea mai mare fabrică de automobile de pe continentul african, aparținând grupului Volkswagen. Fondat în 1804, Kariega are o istorie lungă și este renumit pentru grădinile sale frumoase și clădirile istorice bine conservate, cum ar fi Primăria și vechea gară, care este acum muzeu. Orașul joacă un rol crucial în lanțul de aprovizionare global al industriei auto, dar oferă și spații verzi relaxante precum Cuyler Manor. Redenumit recent Kariega, după râul care trece prin zonă, orașul continuă să fie un motor de creștere pentru regiunea Nelson Mandela Bay. Geografie K7 — Industrializarea auto și fluxurile comerciale globale.",
-      "factsAdvanced": [
-        "Sediul fabricii Volkswagen Africa de Sud, inaugurată în 1948.",
-        "Aici se află cel mai mare terminal de transport feroviar din Eastern Cape.",
-        "Fondat în 1804 de comisarul olandez Jacob Glen Cuyler.",
-        "Gara orașului (1875) este una dintre cele mai vechi clădiri feroviare din țară.",
-        "Numele Kariega provine dintr-un cuvânt Khoi care înseamnă 'mulți hipopotami'.",
-        "Orașul a fost un centru important al mișcării anti-apartheid în anii '80.",
-        "Găzduiește faimosul 'Uitenhage Indoor Sports Centre'.",
-        "Climatul este temperat maritim, ideal pentru activități industriale și rezidențiale."
-      ]
-    },
-    {
-      "id": "southafrica-graaff-reinet-cities-v2",
-      "descriptionAdvanced": "Graaff-Reinet, supranumit 'Gema din Karoo', este al patrulea cel mai vechi oraș din Africa de Sud și un tezaur de arhitectură și istorie. Situat într-o curbă a râului Sundays și înconjurat aproape în totalitate de Parcul Național Camdeboo, orașul este celebru pentru cele peste 220 de monumente naționale, mai multe decât orice altă localitate din țară. Atracția principală este 'Valea Dezolării' (Valley of Desolation), unde coloane uriașe de dolerit se ridică spectaculos deasupra câmpiilor Karoo. Orașul păstrează o atmosferă de secol XIX, cu străzi mărginite de case albe în stil Cape Dutch. Graaff-Reinet este inima agricolă a regiunii, fiind renumit pentru producția de lână Merino și mohair. Geografie K7 — Patrimoniu arhitectural și eroziune geologică.",
-      "factsAdvanced": [
-        "Al patrulea cel mai vechi oraș din Africa de Sud, fondat în 1786.",
-        "Peste 220 de clădiri sunt declarate monumente naționale.",
-        "Valea Dezolării are coloane de rocă vulcanica de 120 metri înălțime.",
-        "Sediul primei republici bure independente, care a durat doar un an (1795).",
-        "Biserica Reformată Olandeză este una dintre cele mai fotografiate din țară.",
-        "Înconjurat complet de Parcul Național Camdeboo.",
-        "Zonă majoră pentru producția mondială de lână Merino.",
-        "Găzduiește Muzeul Reinet House, o fostă casă parohială construită în 1812."
-      ]
-    },
-    {
-      "id": "southafrica-queenstown-cities-v2",
-      "descriptionAdvanced": "Queenstown, situat în provincia Eastern Cape la poalele munților Hangklip, este un centru agricol și comercial important, renumit pentru designul său urban unic. Centrul orașului, cunoscut sub numele de 'Hexagon', a fost proiectat cu o formă hexagonală pentru a permite apărarea eficientă din orice direcție în timpul conflictelor de frontieră din secolul al XIX-lea. Orașul este celebru pentru grădinile sale de trandafiri și pentru clima sa temperată, fiind adesea numit 'Orașul Trandafirilor' din Eastern Cape. Queenstown servește ca hub logistic pentru vastele regiuni agricole din jur, unde se cresc oi și vite. Munții învecinați oferă oportunități excelente pentru drumeții, pescuit și observarea păsărilor, făcând din acest oraș o destinație atractivă pentru iubitorii de natură. Geografie K7 — Urbanism defensiv și agricultură pastorală.",
-      "factsAdvanced": [
-        "Centrul orașului are o formă hexagonală unică pentru apărare (The Hexagon).",
-        "Numit după regina Victoria a Marii Britanii, fondat în 1853.",
-        "Cunoscut pentru expozițiile anuale de trandafiri care atrag mii de turiști.",
-        "Situat pe râul Komani, o sursă importantă de apă pentru irigații.",
-        "Nod feroviar major pe linia care leagă East London de Johannesburg.",
-        "Găzduiește prestigioase școli de stat și colegii agricole.",
-        "Zonă renumită pentru vânătoare sportivă și conservarea vieții sălbatice.",
-        "Munții Hangklip oferă o panoramă spectaculoasă asupra întregii văi."
-      ]
-    },
-    {
-      "id": "southafrica-aliwal-north-cities-v2",
-      "descriptionAdvanced": "Aliwal North, situat pe malul sudic al fluviului Orange la granița dintre provinciile Eastern Cape și Free State, este renumit pentru izvoarele sale termale cu proprietăți curative. Orașul s-a dezvoltat ca un popas strategic pe marea rută comercială spre interiorul țării. Izvoarele minerale, cunoscute sub numele de Aliwal Spa, atrag turiști pentru relaxare și tratament încă din secolul al XIX-lea. Din punct de vedere istoric, orașul a fost un punct de frontieră disputat, păstrând monumente precum Garden of Remembrance. Aliwal North este și un centru agricol vital, unde solurile fertile de pe malul Orange-ului permit culturi diverse. Podul istoric de peste fluviu este un simbol al legăturii economice dintre nordul și sudul regiunii. Geografie K7 — Izvoare termale și regiuni de frontieră fluvială.",
-      "factsAdvanced": [
-        "Faimos pentru izvoarele sale de apă termală bogate în minerale.",
-        "Situat pe malurile fluviului Orange, cel mai lung râu din Africa de Sud.",
-        "Punct de tranzit crucial între Eastern Cape și provincia Free State.",
-        "Fondat în 1849 de Sir Harry Smith și numit după victoria sa de la Aliwal (India).",
-        "Podul de peste Orange a fost de mai multe ori distrus și reconstruit istoric.",
-        "Găzduiește Muzeul Kerkplein, dedicat istoriei locale și pionierilor.",
-        "Baza agriculturii locale este creșterea oilor Merino și cultura cerealelor.",
-        "Zonă recunoscută pentru peisajele sale vaste și apusurile spectaculoase de soare."
-      ]
-    },
-    {
-      "id": "southafrica-middelburg-cities-v2",
-      "descriptionAdvanced": "Middelburg, situat în provincia Mpumalanga, este inima industrială și minieră a regiunii Highveld. Orașul este cunoscut drept 'Capitala Oțelului Inoxidabil' a Africii de Sud, găzduind gigantul Columbus Stainless, singurul producător de oțel inoxidabil de pe continent. Economia orașului este susținută masiv de vastele zăcăminte de cărbune din jur, care alimentează numeroasele centrale electrice din regiune. Deși are un profil industrial puternic, Middelburg oferă acces la peisaje naturale frumoase, precum barajul Middelburg și valea râului Olifants. Orașul este un nod de transport strategic pe coridorul Maputo, legând Johannesburg de porturile din Mozambic, fiind un centru logistic și de servicii în continuă expansiune. Geografie K7 — Metalurgia oțelului inoxidabil și resurse de carbonifer.",
-      "factsAdvanced": [
-        "Găzduiește singura fabrică de oțel inoxidabil din Africa (Columbus Stainless).",
-        "Centru major pentru mineritul cărbunelui, alimentând rețeaua națională de electricitate.",
-        "Situat pe autostrada N4, parte a coridorului economic Maputo.",
-        "Fondat în 1864 și numit după locația sa între Pretoria și Lydenburg.",
-        "Barajul Middelburg este o destinație populară pentru sporturi nautice și pescuit.",
-        "Unul dintre orașele cu cel mai ridicat venit pe cap de locuitor din provincie.",
-        "Zona este bogată în situri istorice din timpul Războiului Burilor.",
-        "Găzduiește o piață agricolă activă pentru fermierii de porumb și vite."
-      ]
-    },
-    {
-      "id": "southafrica-witbank-cities-v2",
-      "descriptionAdvanced": "Witbank, renumit oficial sub numele de Emalahleni, este motorul energetic al Africii de Sud, fiind situat în centrul celui mai mare bazin carbonifer din țară. Numele său original înseamnă 'Banc de nisip alb' în afrikaans, dar numele actual, Emalahleni, înseamnă 'Locul cărbunelui' în limba Zulu, reflectând esența sa economică. Orașul este înconjurat de numeroase mine de cărbune și de unele dintre cele mai mari centrale termoelectrice din lume, precum Kusile. Witbank este un nod feroviar și rutier vital, procesând volume uriașe de marfă destinate exportului. În ciuda activității industriale intense, barajul Witbank oferă facilități recreative deosebite, fiind cel mai mare baraj municipal din țară, ideal pentru navigație și sporturi acvatice. Geografie K7 — Industria extractivă și producția de energie termică.",
-      "factsAdvanced": [
-        "Cel mai mare centru de extracție a cărbunelui din Africa de Sud.",
-        "Redenumit oficial Emalahleni în 2006, însemnând 'Locul cărbunelui'.",
-        "Barajul Witbank este cel mai mare rezervor municipal de apă din țară.",
-        "Winston Churchill s-a ascuns într-o mină de aici după evadarea sa din Pretoria în 1899.",
-        "Alimentează numeroase centrale electrice ale companiei naționale Eskom.",
-        "Centru industrial pentru topirea metalelor și fabricarea produselor chimice.",
-        "Nod rutier major unde se întâlnesc autostrăzile N4 și N12.",
-        "Zona are una dintre cele mai mari concentrații de utilaje miniere grele."
-      ]
-    },
-    {
-      "id": "southafrica-secunda-cities-v2",
-      "descriptionAdvanced": "Secunda, situat în provincia Mpumalanga, este un oraș industrial construit de la zero în anii 1970 pentru a găzdui complexul masiv Sasol Two. Orașul este celebru la nivel global pentru rafinăria sa care transformă cărbunele în combustibil lichid, fiind cel mai mare complex de acest tip din lume. Secunda este definit de siluetele turnurilor de răcire și ale coloanelor de fracționare care domină orizontul Highveld-ului. Proiectat ca un oraș modern cu facilități integrate, Secunda oferă o calitate ridicată a vieții angajaților săi, cu numeroase parcuri și cluburi sportive. Economia sa este un pilon al securității energetice a Africii de Sud, reducând dependența țării de importurile de petrol prin utilizarea resurselor interne de cărbune. Geografie K7 — Tehnologia de lichefiere a cărbunelui și orașe industriale moderne.",
-      "factsAdvanced": [
-        "Găzduiește cea mai mare fabrică de petrol din cărbune de pe glob (Sasol Secunda).",
-        "Oraș fondat în 1976 pe baza succesului proiectului Sasolburg.",
-        "Numele provine din latină și înseamnă 'Al doilea' (al doilea proiect Sasol).",
-        "Peste 20% din combustibilul lichid al Africii de Sud este produs aici.",
-        "Orașul este înconjurat de unele dintre cele mai adânci mine de cărbune din lume.",
-        "Secunda deține o rețea vastă de zone verzi și facilități de agrement planificate.",
-        "Centrala de procesare a gazelor din Mozambic are un terminal major aici.",
-        "Unul dintre principalii poluatori cu dioxid de carbon, dar și un centru tehnologic de vârf."
-      ]
-    },
-    {
-      "id": "southafrica-standerton-cities-v2",
-      "descriptionAdvanced": "Standerton, situat pe malurile râului Vaal în provincia Mpumalanga, este un centru agricol și comercial robust, renumit pentru producția sa de lactate și cereale. Fondat în 1876, orașul are o istorie lungă, servind drept punct de trecere strategic peste râu. Standerton este sediul unor mari unități de procesare a laptelui și a porumbului, alimentând piețele urbane din Gauteng. Barajul Grootdraai, situat în amonte, este un element cheie al infrastructurii de apă, susținând atât agricultura locală, cât și nevoile industriale ale orașelor miniere din jur. Cu o atmosferă rurală autentică și un peisaj dominat de câmpii întinse, Standerton rămâne un pilon al stabilității economice în regiunea Highveld de Sud. Geografie K7 — Producția de lactate și managementul resurselor de apă.",
-      "factsAdvanced": [
-        "Unul dintre cele mai mari centre de producție de lapte din Africa de Sud.",
-        "Situat pe cursul superior al râului Vaal, cel mai important râu industrial al țării.",
-        "Barajul Grootdraai (inaugurat în 1982) este principala sursă de apă a regiunii.",
-        "Numit după Adriaan Stander, proprietarul original al fermei pe care s-a construit orașul.",
-        "Scena unor lupte semnificative în timpul primului Război al Burilor (1880-1881).",
-        "Găzduiește fabrici mari de prelucrare a uleiurilor vegetale și a nutrețurilor.",
-        "Nod feroviar important pe linia Durban-Johannesburg.",
-        "Climatul este temperat, cu veri calde și ierni reci, propice culturii porumbului."
-      ]
-    },
-    {
-      "id": "southafrica-ermelo-cities-v2",
-      "descriptionAdvanced": "Ermelo, situat la intersecția a trei autostrăzi naționale majore în provincia Mpumalanga, este un nod de transport și un centru economic esențial în estul Africii de Sud. Orașul este inima unei regiuni bogate în cărbune, aur și antracit, dar este la fel de renumit pentru agricultura sa diversificată, incluzând creșterea oilor Merino și cultura porumbului. Ermelo are o istorie marcată de reconstrucție, fiind distrus aproape total în timpul Războiului Burilor și reclădit ulterior. Astăzi, este un centru educațional și comercial vibrant pentru comunitățile rurale din jur. Peisajul este punctat de numeroase lacuri și situri arheologice cu picturi rupestre san, oferind o fereastră spre trecutul îndepărtat al regiunii. Geografie K7 — Noduri de transport și diversificarea resurselor naturale.",
-      "factsAdvanced": [
-        "Nod de transport strategic unde se întâlnesc autostrăzile N2, N11 și N17.",
-        "Zonă majoră pentru mineritul cărbunelui și producția de energie electrică.",
-        "Cel mai mare producător de lână din provincia Mpumalanga.",
-        "Fondat în 1880 de un reverend și numit după un oraș din Olanda.",
-        "Găzduiește numeroase situri cu artă rupestră ale poporului San (Bushmen).",
-        "Orașul a fost ars complet de britanici în 1901, rămânând o singură clădire în picioare.",
-        "Situat la o altitudine de 1.700 m, oferind o climă revigorantă de Highveld.",
-        "Centru logistic esențial pentru transportul de marfă către portul Richards Bay."
-      ]
-    },
-    {
-      "id": "southafrica-tzaneen-cities-v2",
-      "descriptionAdvanced": "Tzaneen, situat în provincia Limpopo la poalele Munților Wolkberg, este 'Grădina Africii de Sud'. Orașul este centrul celei mai fertile regiuni subtropicale din țară, fiind faimos pentru producția masivă de ceai, avocado, mango, banane și citrice. Climatul cald și umed, combinat cu solurile bogate, permite o agricultură luxuriantă pe tot parcursul anului. Tzaneen este poarta de intrare către regiunea Lowveld și Parcul Național Kruger, oferind peisaje montane spectaculoase și păduri indigene dense. Barajul Tzaneen este un punct de atracție pentru pescuit și recreere, în timp ce plantațiile de arbori de cafea și exploatările forestiere întregesc peisajul economic verde al acestui oraș vibrant. Geografie K7 — Agricultura subtropicală și silvicultura intensivă.",
-      "factsAdvanced": [
-        "Al doilea cel mai mare oraș din provincia Limpopo.",
-        "Cel mai mare producător de avocado și roșii din Africa de Sud.",
-        "Găzduiește Sapekoe, una dintre cele mai mari plantații de ceai de pe continent.",
-        "Numele provine din limba Sotho și se referă la 'coșul de fructe'.",
-        "Situat în apropierea Regatului Modjadji (Regina Ploii).",
-        "Vârful Wolkberg de lângă oraș atinge 2.127 metri înălțime.",
-        "Regiunea deține recordul pentru cele mai mari plantații de nuci macadamia.",
-        "Cunoscut pentru 'Magoebaskloof', un pas montan cu peisaje tropicale uluitoare."
-      ]
-    },
-    {
-      "id": "southafrica-mokopane-cities-v2",
-      "descriptionAdvanced": "Mokopane, situat în provincia Limpopo, este un centru agricol și minier istoric, aflat pe bogatul Complex Bushveld. Orașul este celebru pentru minele sale de platină și pentru situl arheologic Makapansgat, aflat în apropiere, care face parte din 'Leagănul Omenirii' (Cradle of Humankind) și conține fosile umane de o importanță globală. Mokopane este înconjurat de ferme fertile care produc citrice, cereale și tutun. Istoria sa este marcată de conflicte intense între coloniștii buri și triburile locale sub șeful Makapan, istorie păstrată în muzeele locale. Orașul este un nod de transport strategic pe autostrada N1, oferind un amestec unic de moștenire preistorică, bogăție minieră modernă și producție agricolă diversificată. Geografie K7 — Paleoantropologie și mineritul platinei.",
-      "factsAdvanced": [
-        "Situl Makapansgat de lângă oraș conține fosile de Australopithecus vechi de milioane de ani.",
-        "Centru major pentru extracția platinei în regiunea de nord.",
-        "Redenumit oficial Mokopane în 2003 după un șef local legendar.",
-        "Unul dintre cei mai mari producători de citrice și grâu din Limpopo.",
-        "Situat în Valea Mogalakwena, o zonă de o mare frumusețe naturală.",
-        "Găzduiește Centrul de Reproducere a Animalelor Sălbatice din Mokopane.",
-        "Aici se află una dintre cele mai mari mine de platină de suprafață din lume.",
-        "Nod logistic vital pe ruta către Zimbabwe și Botswana."
-      ]
-    },
-    {
-      "id": "southafrica-thohoyandou-cities-v2",
-      "descriptionAdvanced": "Thohoyandou, situat în nordul provinciei Limpopo, este inima culturală și politică a poporului Venda. Numele său înseamnă 'Cap de Elefant' în limba Luvenda, fiind numit după un rege legendar care a unit triburile locale. Orașul a servit drept capitală a bantustanului Venda și păstrează numeroase simboluri ale acelei perioade, inclusiv clădirea parlamentului. Thohoyandou este situat într-o regiune subtropicală luxuriantă, fiind un centru pentru producția de fructe tropicale și nuci. Orașul este poarta de acces către Munții Soutpansberg și către zonele cele mai nordice ale Parcului Național Kruger. Cultura locală este celebră pentru tradițiile sale artistice, olăritul și credințele spirituale legate de lacul sacru Fundudzi. Geografie K7 — Identitate culturală și sisteme de guvernare tradiționale.",
-      "factsAdvanced": [
-        "Fosta capitală a bantustanului independent Venda (1979-1994).",
-        "Sediul Universității din Venda, un centru academic important în regiune.",
-        "Numit după legendarul rege Thohoyandou, simbolul unității Venda.",
-        "Găzduiește centrul comercial Thavhani, cel mai mare din regiune.",
-        "Centru major pentru cultura de banane, mango și litchi.",
-        "Situat în apropierea lacului Fundudzi, singurul lac natural de apă dulce din țară format prin alunecare de teren.",
-        "Regiunea este renumită pentru arta sa tradițională și sculptura în lemn.",
-        "Climatul este fierbinte și umed, specific pădurilor subtropicale din nord."
-      ]
-    },
-    {
-      "id": "southafrica-phalaborwa-cities-v2",
-      "descriptionAdvanced": "Phalaborwa, situat chiar la granița estică a provinciei Limpopo, este singurul oraș din Africa de Sud care are o poartă de acces directă în Parcul Național Kruger în interiorul zonei urbane. Cunoscut drept 'Orașul celor două veri', Phalaborwa are un climat cald tot timpul anului. Economia sa este dominată de una dintre cele mai mari mine de cupru de suprafață din lume, operată de Palabora Mining Company, și de producția masivă de fosfați pentru îngrășăminte. Orașul este un model de coexistență între industria minieră grea și conservarea naturii. Vizitatorii pot juca golf pe un teren faimos unde animalele sălbatice circulă liber, oferind o experiență de safari urbană unică în lume. Geografie K7 — Coexistența industriei miniere cu turismul ecologic.",
-      "factsAdvanced": [
-        "Găzduiește singura poartă de intrare în Parcul Kruger aflată în interiorul unui oraș.",
-        "Sediul uneia dintre cele mai mari gropi miniere excavate de om de pe glob (cupru).",
-        "Cel mai mare producător de fosfați din Africa de Sud (Foskor).",
-        "Numele înseamnă 'mai bine decât la sud' în limba Sotho.",
-        "Terenul de golf Hans Merensky este faimos pentru vizitele girafelor și elefanților.",
-        "Climatul subtropical asigură temperaturi ridicate chiar și în timpul iernii.",
-        "Centru mondial pentru extracția de vermiculit (un mineral folosit în construcții).",
-        "Situat la confluența râurilor Olifants și Selati."
-      ]
-    },
-    {
-      "id": "port-of-durban-economic-v2",
-      "descriptionAdvanced": "Portul Durban este cea mai importantă poartă maritimă a Africii de Sud și cel mai mare terminal de containere din emisfera sudică. Situat strategic pe coasta Oceanului Indian, acest port natural procesează peste 60% din traficul de containere al țării. Portul este un hub logistic vital pentru întreaga regiune a Africii Australe, fiind conectat prin autostrăzi și căi ferate de inima industrială a Johannesburgului. Infrastructura sa include terminale specializate pentru mașini, produse petroliere și vrac solid. Extinderea și modernizarea constantă a portului sunt cruciale pentru competitivitatea economică a Africii de Sud în comerțul global, facilitând exporturile de minerale și importurile de bunuri manufacturate. Geografie K7 — Infrastructura portuară și fluxurile comerciale maritime.",
-      "factsAdvanced": [
-        "Cel mai mare port de containere din Africa de Sud și al patrulea din emisfera sudică.",
-        "Gestionează peste 30 de milioane de tone de marfă anual.",
-        "Terminalul de mașini are o capacitate de peste 500.000 de unități pe an.",
-        "Canalul de intrare a fost lărgit la 222 de metri pentru a primi nave de mare tonaj.",
-        "Portul are o linie de chei de peste 21 de kilometri lungime.",
-        "Este principalul punct de import pentru petrolul destinat provinciei Gauteng.",
-        "Generază mii de locuri de muncă directe și indirecte în regiune.",
-        "Conectat de Johannesburg prin coridorul logistic N3."
-      ]
-    },
-    {
-      "id": "port-of-richards-bay-economic-v2",
-      "descriptionAdvanced": "Portul Richards Bay, situat în KwaZulu-Natal, este unul dintre cele mai mari porturi de export de vrac solid din lume și deține cel mai mare terminal de cărbune de pe glob. Construit în 1976 pentru a degreva portul Durban, acesta a transformat regiunea într-un gigant industrial. Richards Bay este poarta principală prin care cărbunele din bazinele Mpumalanga ajunge pe piețele internaționale, în special în Asia și Europa. Portul este adânc și modern, fiind capabil să primească nave de tip Cape-size. Pe lângă cărbune, gestionează volume masive de aluminiu, titan și produse forestiere. Eficiența sa logistică este un factor cheie în menținerea statutului Africii de Sud de furnizor major de resurse minerale la nivel mondial. Geografie K7 — Exportul resurselor energetice și logistică de mare tonaj.",
-      "factsAdvanced": [
-        "Găzduiește terminalul RBCT, cel mai mare terminal de export de cărbune din lume.",
-        "Capacitatea de proiectare a terminalului de cărbune este de 91 milioane tone pe an.",
-        "Portul a fost construit într-o fostă lagună, fiind inaugurat în 1976.",
-        "Adâncimea apei permite accesul navelor de până la 250.000 de tone (Cape-size).",
-        "Exportă cantități masive de minereuri de titan și zirconiu.",
-        "Este principalul port pentru industria aluminiului din Africa de Sud.",
-        "Dispune de un terminal feroviar specializat, conectat direct cu minele din interior.",
-        "Suprafața portului este de peste 2.000 de hectare."
+        "Locație: Pretoria",
+        "Muzeu în aer liber din epoca pionierilor",
+        "Case istorice deschise pentru vizitare",
+        "Demonstrații ale artei vechi de coacere",
+        "Educație istorică interactivă",
+        "Potrivit în special pentru clase școlare",
+        "O perspectivă asupra vieții din secolul al XIX-lea"
       ]
     }
   ]

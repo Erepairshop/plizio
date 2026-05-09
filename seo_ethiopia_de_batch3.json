@@ -1,0 +1,45 @@
+{
+  "lang": "de",
+  "country": "ethiopia",
+  "files": [
+    "lib/visualLab/data/poiExtraEthiopiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "adwa-battlefield-history-v2",
+      "descriptionAdvanced": "Das Schlachtfeld von Adwa erinnert an einen historischen Wendepunkt der afrikanischen Geschichte, an dem äthiopische Streitkräfte 1896 den Sieg über die koloniale Übermacht Italiens errangen. Dieser Triumph sicherte die Unabhängigkeit Äthiopiens in einer Ära, in der fast der gesamte afrikanische Kontinent kolonisiert wurde. Heute ist der Ort ein heiliges Symbol des Widerstands gegen den Kolonialismus und ein Ausdruck des gewachsenen Selbstbewusstseins sowie der panafrikanischen Identität. Die Bedeutung des Sieges bei Adwa reicht weit über die Landesgrenzen hinaus und machte Äthiopien zu einem Vorbild für Unabhängigkeitsbestrebungen in ganz Afrika. Geschichte K8 — Kolonialismus, Widerstand und nationale Souveränität.",
+      "factsAdvanced": [
+        "Historische Schlacht von Adwa im Jahre 1896.",
+        "Entscheidender Sieg Äthiopiens gegen Italien.",
+        "Symbol für das Scheitern kolonialer Bestrebungen.",
+        "Wichtiger Ort für panafrikanische Identitätsstiftung.",
+        "Bewahrung der nationalen Souveränität Äthiopiens.",
+        "Ort nationalen Stolzes im Norden Äthiopiens."
+      ]
+    },
+    {
+      "id": "tiya-megalithic-history-v2",
+      "descriptionAdvanced": "Die Megalithanlage von Tiya ist eine der bedeutendsten archäologischen Fundstätten Äthiopiens und gibt Zeugnis von der komplexen Kulturgeschichte des Landes. Die über 30 großen Stelen, die das Gelände prägen, sind mit mysteriösen Symbolen und Darstellungen von Waffen wie Schwertern verziert, deren genaue kulturelle Zuordnung und Bedeutung noch immer Gegenstand intensiver Forschung sind. Als Teil des UNESCO-Weltkulturerbes bietet Tiya einen einzigartigen Einblick in die Bestattungsriten und die soziale Struktur antiker Gesellschaften in diesem Teil Äthiopiens. Die Anlage bewahrt ein Stück der Geschichte, das für das Verständnis der vor-aksumitischen Kulturen essenziell ist. Geschichte K6 — Megalithkulturen und Archäologie.",
+      "factsAdvanced": [
+        "Sammlung von über 30 megalitischen Stelen.",
+        "Rätselhafte Gravuren, unter anderem Schwerter.",
+        "UNESCO-Weltkulturerbestätte zur Bewahrung antiker Kultur.",
+        "Einblick in die Bestattungstraditionen antiker äthiopischer Kulturen.",
+        "Eine der bedeutendsten archäologischen Stätten der Region.",
+        "Beitrag zur Erforschung des vor-aksumitischen Erbes."
+      ]
+    },
+    {
+      "id": "konso-cultural-landscape-history-v2",
+      "descriptionAdvanced": "Die Kulturlandschaft der Konso ist ein herausragendes Beispiel für die perfekte Anpassung einer menschlichen Gemeinschaft an ein ökologisch herausforderndes, trockenes Umfeld. Durch die jahrhundertealte Terrassierung der Hügel haben die Konso eine landwirtschaftlich nutzbare Umgebung geschaffen, die ihre Siedlungen seit Generationen ernährt. Besonders charakteristisch sind auch die sogenannten 'Waga'-Statuen, anthropomorphe Grabpfähle, die die soziale Geschichte und die Ahnenkultur der Konso visuell bewahren. Das Gebiet spiegelt die harmonische Koexistenz von Mensch und Natur wider und ist ein lebendiges Zeugnis für traditionelles Wissen, das über vier Jahrhunderte hinweg Bestand hatte. Geografie K6 — Landwirtschaftliche Kulturlandschaften und Anpassung.",
+      "factsAdvanced": [
+        "Seit über 400 Jahren von den Konso bewohnt und kultiviert.",
+        "Terrassierte Feldbauweise zur Bewirtschaftung arider Zonen.",
+        "Besonderheit: anthropomorphe Waga-Grabstatuen aus Holz.",
+        "UNESCO-Welterbestätte als lebendiges Kulturerbe.",
+        "Siedlungsstruktur mit befestigten Dorfanlagen.",
+        "Zeugnis für traditionelles Wissen zur Ressourcenanpassung."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "lang": "de",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "marondera-cities-v2",
+      "descriptionAdvanced": "Marondera ist eine bedeutende Stadt in der Provinz Mashonaland East und ein wichtiges Zentrum für die umliegende Landwirtschaft. Die Stadt ist für ihre Rolle bei der Ausbildung und ihre strategische Lage zwischen der Hauptstadt Harare und der Grenze zu Mosambik bekannt. Mit einer lebendigen lokalen Gemeinschaft und wachsenden Handelsstrukturen spielt Marondera eine zentrale Rolle in der regionalen Entwicklung des Hochlands. Erdkunde K7 – Agrarregionen und lokale Handelszentren.",
+      "factsAdvanced": [
+        "Verwaltungszentrum der Provinz Mashonaland East.",
+        "Wichtiger Standort für landwirtschaftliche Bildung.",
+        "Strategisch gelegen zwischen Harare und Mutare.",
+        "Starke Ausrichtung auf den Ackerbau im Umland.",
+        "Wichtiger Handels- und Versorgungsort der Region.",
+        "Stetiges Wachstum in den letzten Jahrzehnten."
+      ]
+    },
+    {
+      "id": "ruwa-cities-v2",
+      "descriptionAdvanced": "Ruwa ist ein schnell wachsendes, wohlhabendes Vorortgebiet direkt östlich von Harare. In den letzten Jahren hat sich Ruwa von einer Agrarsiedlung zu einer bedeutenden Pendlerstadt und einem beliebten Wohnstandort im Ballungsraum der Hauptstadt entwickelt. Die Stadt zeichnet sich durch eine moderne Infrastruktur aus und bietet eine wachsende Anzahl an Dienstleistungen und kleinen Industriebetrieben, was sie zu einem attraktiven Standort für junge Familien und Unternehmen macht.",
+      "factsAdvanced": [
+        "Rasante Entwicklung zum Vorort von Harare.",
+        "Wichtiger Wohnstandort im Ballungsraum.",
+        "Moderne infrastrukturelle Ausrichtung.",
+        "Wachsende Dienstleistungs- und Gewerbebetriebe.",
+        "Strategische Lage östlich der Hauptstadt.",
+        "Attraktiv für Pendler aufgrund der Nähe zu Harare."
+      ]
+    },
+    {
+      "id": "chegutu-cities-v2",
+      "descriptionAdvanced": "Chegutu liegt in der Provinz Mashonaland West und ist ein Zentrum für die landwirtschaftliche Verarbeitung und kleine Industriebetriebe. Die Stadt hat eine lange Geschichte im Zusammenhang mit dem kommerziellen Farmwesen der Umgebung und fungiert heute als zentraler Handelsort für das umliegende Umland. Mit seiner günstigen Verkehrsanbindung spielt Chegutu eine wichtige Rolle im regionalen Warenverkehr von Simbabwe. Erdkunde K7 – landwirtschaftlich geprägte Kleinstädte.",
+      "factsAdvanced": [
+        "Zentraler Handelsort in Mashonaland West.",
+        "Historisch geprägt durch landwirtschaftliches Farmwesen.",
+        "Standort für kleine industrielle Verarbeitungsbetriebe.",
+        "Wichtige Verkehrsanbindung in der Region.",
+        "Ehemals unter dem Namen Hartley bekannt.",
+        "Starke Verflechtung mit der umliegenden Agrarwirtschaft."
+      ]
+    },
+    {
+      "id": "zvishavane-cities-v2",
+      "descriptionAdvanced": "Zvishavane ist eine bedeutende Bergbaustadt in der Provinz Midlands, bekannt für den Abbau von Asbest und Platin. Die Stadt hat eine ausgeprägte industrielle Identität, die durch die Präsenz großer Bergbauunternehmen geprägt ist. Neben der Bergbauindustrie beheimatet Zvishavane auch das Midlands State University Campus, was die Stadt zu einem wichtigen Bildungsort für die umliegende Region macht. Erdkunde K7 – Bergbauzentren und industrielle Standorte.",
+      "factsAdvanced": [
+        "Zentrum für den Abbau von Asbest und Platin.",
+        "Stark geprägt durch Bergbauunternehmen.",
+        "Standort eines Campus der Midlands State University.",
+        "Wichtiger wirtschaftlicher Kern der Provinz Midlands.",
+        "Rasche Entwicklung als Bergbausiedlung im 20. Jahrhundert.",
+        "Regional bedeutsamer Bildungs- und Wirtschaftsstandort."
+      ]
+    },
+    {
+      "id": "bindura-cities-v2",
+      "descriptionAdvanced": "Bindura ist das administrative Zentrum der Provinz Mashonaland Central und liegt in einer Region, die historisch durch den Goldbergbau bekannt wurde. Die Stadt ist heute ein wichtiges Bildungszentrum und Standort für landwirtschaftliche Dienstleistungen. Die Umgebung ist durch eine abwechslungsreiche Landschaft und eine intensive landwirtschaftliche Nutzung geprägt, die wesentlich zur lokalen Stabilität beigetragen hat. Erdkunde K7 – provinzielle Verwaltungs- und Bildungszentren.",
+      "factsAdvanced": [
+        "Verwaltungshauptstadt der Provinz Mashonaland Central.",
+        "Historisch bedeutsames Zentrum des Goldbergbaus.",
+        "Wichtiger Bildungsstandort in der Region.",
+        "Standort für landwirtschaftliche Dienstleistungsunternehmen.",
+        "Gelegen in einem landwirtschaftlich produktiven Umland.",
+        "Stetiges Wachstum als regionales Zentrum."
+      ]
+    },
+    {
+      "id": "beitbridge-cities-v2",
+      "descriptionAdvanced": "Beitbridge ist die südlichste Stadt Simbabwes und liegt unmittelbar am Ufer des Limpopo-Flusses, der die Grenze zu Südafrika bildet. Als der wichtigste Grenzübergang des Landes ist Beitbridge ein entscheidender Knotenpunkt für den internationalen Handel, den Transitverkehr und die grenzüberschreitende Mobilität im südlichen Afrika. Die Stadt ist geprägt von einer lebendigen, geschäftigen Atmosphäre, die durch den ständigen Waren- und Personenverkehr zwischen Simbabwe und seinem größten Handelspartner Südafrika entsteht.",
+      "factsAdvanced": [
+        "Wichtigster Grenzübergang zu Südafrika.",
+        "Liegt direkt am Ufer des Limpopo-Flusses.",
+        "Entscheidender Knotenpunkt für den Transitverkehr.",
+        "Zentrum für grenzüberschreitenden Warenverkehr.",
+        "Stark durch den internationalen Handel geprägte Atmosphäre.",
+        "Verbindet Simbabwe mit Südafrika, dem größten Handelspartner."
+      ]
+    },
+    {
+      "id": "redcliff-cities-v2",
+      "descriptionAdvanced": "Redcliff liegt in der Nähe von Kwekwe in der Provinz Midlands und ist eng mit der simbabwischen Stahlproduktion verbunden. Die Stadt wurde als Arbeitersiedlung für das nahegelegene Stahlwerk entwickelt und hat eine stark industrielle Geschichte. Trotz der Schwankungen in der Stahlindustrie bleibt Redcliff ein wichtiger Standort für spezialisierte metallverarbeitende Betriebe. Erdkunde K7 – spezialisierte Industriestädte.",
+      "factsAdvanced": [
+        "Entwickelt als Arbeitersiedlung für Stahlwerke.",
+        "Eng verbunden mit der Stahlproduktion des Landes.",
+        "Stark industrielle Historie.",
+        "Standort für spezialisierte Metallverarbeitung.",
+        "Geographisch nahe bei Kwekwe gelegen.",
+        "Geplante industrielle Siedlungsstruktur."
+      ]
+    },
+    {
+      "id": "victoria-falls-cities-v2",
+      "descriptionAdvanced": "Victoria Falls ist das weltweit bekannte touristische Zentrum Simbabwes, direkt gelegen an den spektakulären Viktoriafällen am Sambesi. Die Stadt ist der Ausgangspunkt für den Tourismus in den Nationalpark und bietet eine hoch entwickelte Infrastruktur für internationale Besucher. Neben dem Naturwunder der Fälle ist die Stadt für ihre lebendige Tourismusbranche, gehobene Unterkünfte und eine Vielzahl von Abenteueraktivitäten am Fluss und in der Umgebung berühmt. Erdkunde K7 – Welterbe und Tourismus.",
+      "factsAdvanced": [
+        "Weltberühmt durch die Viktoriafälle am Sambesi.",
+        "Hauptzentrum für internationalen Tourismus in Simbabwe.",
+        "Umfangreiche Infrastruktur für Abenteuer- und Luxustourismus.",
+        "Ausgangspunkt für Nationalparkbesuche.",
+        "UNESCO-Welterbe-Region.",
+        "Zentraler Wirtschaftsstandort der Region durch Tourismus."
+      ]
+    },
+    {
+      "id": "hwange-cities-v2",
+      "descriptionAdvanced": "Hwange ist das Zentrum der simbabwischen Kohleindustrie und der Ausgangspunkt für den gleichnamigen, größten Nationalpark des Landes. Die Wirtschaft der Stadt ist maßgeblich vom Bergbau geprägt, während die umliegende Region eine enorme Biodiversität im Hwange-Nationalpark beherbergt. Diese einzigartige Kombination aus industriellem Bergbauzentrum und ökologischem Hotspot für Naturliebhaber macht Hwange zu einem bedeutenden Ort in der westlichen Provinz Matabeleland North. Erdkunde K7 – Bergbau und Biodiversität.",
+      "factsAdvanced": [
+        "Zentrum der simbabwischen Kohleindustrie.",
+        "Ausgangspunkt zum Hwange-Nationalpark.",
+        "Wichtiger Standort für den industriellen Bergbau.",
+        "Enorme Bedeutung für die regionale Biodiversität.",
+        "In der Provinz Matabeleland North gelegen.",
+        "Kombination aus industriellem Erbe und Naturtourismus."
+      ]
+    },
+    {
+      "id": "rusape-cities-v2",
+      "descriptionAdvanced": "Rusape ist eine bedeutende Stadt in den Eastern Highlands und fungiert als Handels- und Dienstleistungszentrum für die umliegende Agrarregion. Die Stadt ist für ihre Rolle als Versorgungsort für die Landwirtschaft bekannt, insbesondere bei der Produktion von Tabak und Getreide. Mit ihrer Lage an der wichtigen Verbindung zwischen Harare und Mutare spielt Rusape eine wesentliche Rolle in der lokalen Wirtschaftsstruktur der Provinz Manicaland. Erdkunde K7 – landwirtschaftliche Versorgungszentren.",
+      "factsAdvanced": [
+        "Wichtiges Handelszentrum in den Eastern Highlands.",
+        "Versorgungsort für die umliegende Agrarwirtschaft.",
+        "Bedeutend für Tabak- und Getreideproduktion.",
+        "Strategisch gelegen an der Route zwischen Harare und Mutare.",
+        "Regionales Dienstleistungszentrum in Manicaland.",
+        "Schnittstelle zwischen Stadt und Agrarland."
+      ]
+    }
+  ]
+}

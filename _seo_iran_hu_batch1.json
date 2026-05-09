@@ -1,0 +1,267 @@
+{
+  "lang": "hu",
+  "country": "iran",
+  "files": ["lib/visualLab/data/poiExtraIranNatureV2.ts"],
+  "items": [
+    {
+      "id": "mount-damavand-nature-v2",
+      "descriptionAdvanced": "A Damávand Irán és a Közel-Kelet legmagasabb hegycsúcsa, egy markáns szunnyadó rétegvulkán az Elburz-hegység vonulataiban. A tengerszint felett pontosan 5609 méteres magasságba emelkedő vulkáni kúp mintegy 66 kilométerre északkeletre helyezkedik el a fővárostól, Teherántól. Bár jelenleg inaktívnak minősül, a csúcs közelében található fumarolák kénes gázokat bocsátanak ki, ami egyértelműen látens vulkáni tevékenységre utal. A hegy történelmi jelentőségét mutatja, hogy mély gyökerekkel rendelkezik a perzsa mitológiában és a klasszikus költészetben. Felső lejtőit az év jelentős részében vastag hótakaró borítja, így az alpinisták számára technikailag kihívást jelentő célpont. Az első dokumentált megmászást 1837-ben hajtották végre. A környező védett terület gazdag állatvilágnak ad otthont, beleértve a ritka örmény muflont.",
+      "factsAdvanced": [
+        "Magassága eléri a pontosan 5609 métert a tengerszint felett.",
+        "Körülbelül 66 kilométerre északkeletre fekszik az iráni fővárostól.",
+        "A szunnyadó vulkán kénes gázokat kibocsátó fumarolákkal rendelkezik.",
+        "Az első dokumentált sikeres megmászása 1837-ben történt.",
+        "A hegy központi szimbólum a klasszikus perzsa költészetben.",
+        "A felső lejtőkön a nyári hónapokban jelentős kénlerakódások figyelhetők meg.",
+        "A területet 2008-ban hivatalosan is iráni nemzeti természeti örökséggé nyilvánították."
+      ]
+    },
+    {
+      "id": "lake-urmia-nature-v2",
+      "descriptionAdvanced": "Az Urmia-tó Északnyugat-Iránban fekszik, és egykor a Közel-Kelet legnagyobb tava, valamint a bolygó hatodik legnagyobb sóstava volt. Fénykorában a víztömeg körülbelül 5200 négyzetkilométeres területet borított, maximális mélysége pedig elérte a 16 métert. A tó medencéje Nyugat-Azerbajdzsán és Kelet-Azerbajdzsán tartományok között oszlik meg. Az elmúlt évtizedekben a hosszan tartó aszályok és az intenzív mezőgazdasági vízhasználat miatt a tó vízmennyisége drasztikusan csökkent. A víz magas sótartalma, amely elérheti a literenkénti 340 grammot, lehetetlenné teszi a halak életben maradását, de ideális élőhelyet biztosít a sórákok számára. Ezek a rákok szolgálnak fő táplálékforrásul vándormadarak ezrei, köztük flamingók és pelikánok számára. A tó medencéjében összesen 102 kisebb sziget található.",
+      "factsAdvanced": [
+        "A múltban mintegy 5200 négyzetkilométeres vízfelülettel rendelkezett.",
+        "A víz sótartalma elérheti a 340 grammot literenként.",
+        "Történelmileg a Föld hatodik legnagyobb sós vizű tavaként tartották számon.",
+        "Pontosan 102 apró sziget helyezkedik el a tó medencéjében.",
+        "A maximális vízmélység a csapadékosabb években elérte a 16 métert.",
+        "Fontos pihenőhelyként szolgál több ezer rózsás flamingó és pelikán számára.",
+        "A Kabudan-sziget a legnagyobb kiterjedésű szárazföld a tó területén."
+      ]
+    },
+    {
+      "id": "karun-river-nature-v2",
+      "descriptionAdvanced": "A Karun-folyó Irán leghosszabb és legbővizűbb folyóvize, amelynek teljes hossza megközelítőleg 950 kilométert tesz ki. A Zardkuh-hegységben ered, Csahar Mahal és Bahtiari tartományban, több mint 4000 méteres tengerszint feletti magasságban. Innen a Zagrosz-hegységen keresztül haladva éri el Huzesztán tartomány kiterjedt síkságait. A Karun az ország egyetlen olyan folyója, amely a torkolattól Ahváz városáig, mintegy 190 kilométeres szakaszon nagyobb hajókkal is navigálható. Az ókorban a termékeny Karun-völgy alkotta az Elámi Birodalom történelmi magját. Napjainkban a folyó hatalmas mezőgazdasági területek öntözését biztosítja, és több nagy vízerőművet, köztük a Sahid Abbászpur-gátat táplálja. Végül a folyó a Satt el-Arab vízrendszerébe ömlik, közvetlenül a Perzsa-öböl elérése előtt.",
+      "factsAdvanced": [
+        "Teljes hossza becslések szerint megközelítőleg 950 kilométer.",
+        "A Zardkuh-hegységben ered, több mint 4000 méteres magasságban.",
+        "Irán egyetlen olyan folyója, amely alkalmas a nagyhajózásra.",
+        "A hajózható szakasz 190 kilométer hosszan nyúlik el Ahváz városáig.",
+        "A Sahid Abbászpur-gát jelentős mennyiségű elektromos áramot termel.",
+        "A folyóvölgy egykor az ókori Elámi Birodalom központja volt.",
+        "Az iraki határ közelében egyesül a Satt el-Arab vízrendszerével."
+      ]
+    },
+    {
+      "id": "golestan-national-park-nature-v2",
+      "descriptionAdvanced": "Az 1957-ben alapított Golesztán Nemzeti Park Irán legrégebbi hivatalosan kijelölt természetvédelmi területe, amely összesen 918 négyzetkilométeres kiterjedéssel rendelkezik. Az ország északkeleti részén, elsősorban Golesztán tartományban helyezkedik el, és fontos átmeneti zónát képez a nedves kaszpi-tengeri erdők és a keleti száraz félsivatagok között. Ez az egyedi földrajzi elhelyezkedés kivételes biológiai sokféleséget eredményez a park határain belül. A terület több mint 1300 regisztrált növényfajnak és 69 ismert emlősfajnak biztosít élőhelyet. A legfontosabb ragadozók közé tartozik a ritka perzsa leopárd és a szíriai barna medve, míg a növényevőket nagy urial juhnyájak képviselik. A domborzat jelentősen változik, a 400 méteres magasságban lévő erdős völgyektől egészen a 2800 métert meghaladó kopár hegycsúcsokig.",
+      "factsAdvanced": [
+        "1957-ben hozták létre Irán első hivatalos természetvédelmi területeként.",
+        "A park teljes szárazföldi kiterjedése pontosan 918 négyzetkilométer.",
+        "A terület magassága 400 és 2800 méter között váltakozik.",
+        "Több mint 1300 különböző növényfajt regisztráltak a határain belül.",
+        "Legalább 69 dokumentált emlősfajnak biztosít természetes élőhelyet.",
+        "A perzsa leopárd a védett terület egyik legjelentősebb ragadozója.",
+        "A nemzeti park túlnyomó része az északi Golesztán tartományban fekszik."
+      ]
+    },
+    {
+      "id": "hyrcanian-forests-nature-v2",
+      "descriptionAdvanced": "A Hürkaniai-erdők egy hatalmas összefüggő erdőtömböt alkotnak, amely 850 kilométer hosszan húzódik a Kaszpi-tenger déli partvonala mentén. Ez a kiterjedt ökoszisztéma felbecsülhetetlen ökológiai jelentőséggel bír, mivel ezek az erdőségek már 25-50 millió évvel ezelőtt is léteztek, így sikeresen túlélték az utolsó jégkorszakot. Gilán, Mazandarán és Golesztán tartományokban terülnek el, megközelítőleg 1,9 millió hektáros területet lefedve. A növényzetet sűrű nedves lombhullató erdők alkotják, ahol a keleti bükk, a gesztenyelevelű tölgy és a perzsa varázsfa a domináns fafajok. 2019-ben ezen ősi erdők jelentős részeit az UNESCO hivatalosan is felvette a Világörökségi listára. A régió kulcsfontosságú menedéket nyújt számos állatfajnak, köztük a veszélyeztetett perzsa leopárdnak. A magasabb fekvésű területeken az éves csapadékmennyiség elérheti a 2000 millimétert.",
+      "factsAdvanced": [
+        "Az erdősáv megközelítőleg 850 kilométer hosszan terül el a tengerpart mentén.",
+        "A növénytakaró mintegy 25-50 millió éve folyamatosan jelen van.",
+        "A teljes erdőterület kiterjedése eléri a közel 1,9 millió hektárt.",
+        "2019-ben hivatalosan is az UNESCO Világörökség részévé nyilvánították.",
+        "Az éves csapadékmennyiség egyes zónákban a 2000 millimétert is elérheti.",
+        "A keleti bükk a régió egyik legelterjedtebb és legmeghatározóbb fafaja.",
+        "A kiterjedt terület kritikus élőhelyet jelent a perzsa leopárdok számára."
+      ]
+    },
+    {
+      "id": "kavir-national-park-nature-v2",
+      "descriptionAdvanced": "A Közép-Iránban található Kavir Nemzeti Park egy kiterjedt védett terület, amely mintegy 4000 négyzetkilométeres felszínt borít. A nagy Dast-e Kavir sivatag nyugati peremén fekszik, és közigazgatásilag Szemnán, Teherán, Kom és Iszfahán tartományokhoz tartozik. A tájat elsősorban száraz sztyeppék, sziklás hegygerincek és hatalmas agyagos sósíkságok határozzák meg. A rendkívül zord és vízhiányos körülmények ellenére a park meglepően változatos állatvilággal rendelkezik. Kiemelkedő jelentőségű, mint a kritikusan veszélyeztetett ázsiai gepárd, valamint a perzsa félszamár egyik utolsó ismert menedékhelye. A területen ezen kívül csíkos hiénák, szürke farkasok és különböző gazellafajok is élnek. A park határánál fekvő Namak-sóstó jelentősen hozzájárul az egyedi ökológiai egyensúlyhoz. A száraz éghajlat miatt a nappali és éjszakai hőmérséklet közötti ingadozás rendkívül nagy.",
+      "factsAdvanced": [
+        "A védett övezet kiterjedése megközelítőleg 4000 négyzetkilométert tesz ki.",
+        "A nemzeti park a Dast-e Kavir sivatag nyugati határánál helyezkedik el.",
+        "Létfontosságú élőhelyet biztosít a rendkívül ritka ázsiai gepárd számára.",
+        "A kiterjedt régió négy különböző iráni tartomány területét is érinti.",
+        "A Namak-sóstó közvetlenül a nemzeti park adminisztratív határánál fekszik.",
+        "A nappali és éjszakai hőmérséklet-különbség az év nagy részében extrém.",
+        "Kiemelt jelentőségű menedékhely a vadon élő perzsa félszamarak számára."
+      ]
+    },
+    {
+      "id": "zayanderud-river-nature-v2",
+      "descriptionAdvanced": "A Zajande-rud a közép-iráni fennsík leghosszabb folyóvize, amely mintegy 400 kilométeres távolságot tesz meg a forrásától a torkolatáig. A folyó a Zardkuh-hegységben, Csahar Mahal és Bahtiari tartományban ered. Keleti irányba folyva átszeli az egymilliós lakosú történelmi Iszfahán városát, majd végül a sivatagi Gavhuni-tó lefolyástalan sós mocsarába torkollik. A folyó hatalmas történelmi jelentőséggel bír, mivel lehetővé tette a mezőgazdasági oázisok és a városi központok kialakulását egy egyébként rendkívül száraz régióban. Iszfahánban a Szafavida-korszakból származó, építészetileg kiemelkedő hidak ívelnek át rajta, köztük a 33 ívű Szi-o-sze-pol és a 17. században épült Khadzsu-híd. Az elmúlt évtizedekben a túlzott mezőgazdasági vízkivétel és a tartós aszályok miatt a folyómeder Iszfahánban gyakran hónapokra teljesen kiszárad.",
+      "factsAdvanced": [
+        "A központi fennsíkon mért teljes hossza eléri a 400 kilométert.",
+        "A Zardkuh-hegységben ered, több ezer méteres tengerszint feletti magasságban.",
+        "Vízhozama a Gavhuni-tó szezonális, lefolyás nélküli sós mocsarába ömlik.",
+        "A folyót keresztező történelmi Khadzsu-hidat a 17. században építették.",
+        "A világhírű Szi-o-sze-pol híd 33 boltíve ível át a vízfolyáson.",
+        "A túlzott vízhasználat miatt a nyári hónapokban gyakran teljesen kiszárad.",
+        "Történelmileg Iszfahán városfejlődésének legfontosabb és egyetlen vízforrása volt."
+      ]
+    },
+    {
+      "id": "mount-sabalan-nature-v2",
+      "descriptionAdvanced": "A Szabalán egy hatalmas kiterjedésű, inaktív rétegvulkán, amely 4811 méteres csúcsmagasságával Irán harmadik legmagasabb hegye. Az északnyugati Ardabíl tartományban helyezkedik el, nem messze az azerbajdzsáni határtól. A hegység legkiemelkedőbb látványossága a csúcsán található látványos, állandó vizű krátertó, amelyet az év nagy részében vastag jégréteg borít, és csak a késő nyári hónapokban enged fel rövid időre. A vulkán alsó lejtőin, különösen Szarein városának közelében, számos forró termálforrás fakad, amelyek ásványi anyagokban gazdagok és terápiás hatásaikról ismertek. A hegytömb a helyi kultúrában is jelentős szerepet játszik, bizonyos zoroasztriánus hagyományok szent helyként tisztelik. A nyári időszakban a régió sok nomád pásztort vonz, akik a magasan fekvő termékeny legelőket használják juhaik és kecskéik számára.",
+      "factsAdvanced": [
+        "A hegycsúcs pontosan 4811 méteres tengerszint feletti magasságba emelkedik.",
+        "Hivatalosan Irán harmadik legmagasabb pontjaként tartják számon.",
+        "Állandó krátertóval rendelkezik, amelyet az év nagy részében jég borít.",
+        "A hegyoldalakon számos ásványi anyagokban gazdag termálforrás fakad.",
+        "Földrajzilag az északnyugati Ardabíl tartomány területén helyezkedik el.",
+        "A helyi zoroasztriánus közösségek hagyományosan szent hegyként tisztelik.",
+        "A nyári magaslati legelőket a hagyományos nomád törzsek állattartásra használják."
+      ]
+    },
+    {
+      "id": "zarivar-lake-nature-v2",
+      "descriptionAdvanced": "A Zarivar-tó egy természetes eredetű édesvizű tó az iráni Kurdisztán hegyvidéki tartományában, az ország nyugati határa közelében. A vízfelület 1285 méteres tengerszint feletti magasságban fekszik, csupán néhány kilométerre Mariván városától. A tó észak-déli irányú hossza körülbelül 5 kilométer, legnagyobb szélessége pedig eléri az 1,6 kilométert. Földrajzi különlegessége, hogy nem rendelkezik felszíni befolyó folyóval; vízkészletét teljes egészében a meder alján fakadó források, valamint a környező hegyekből származó csapadék biztosítja. A víz maximális mélysége megközelíti az 5,5 métert. A tavat és a csatlakozó vizes élőhelyeket kiterjedt nádasok és öreg tölgyerdők szegélyezik, melyek ideális élőhelyet nyújtanak számos halfajnak és fontos pihenőhelyet a vándormadaraknak. A zord teleken a tó felszíne gyakran vastagon befagy.",
+      "factsAdvanced": [
+        "A vízfelület pontosan 1285 méteres tengerszint feletti magasságban helyezkedik el.",
+        "Észak-déli irányú kiterjedése eléri a megközelítőleg 5 kilométeres hosszt.",
+        "A tómeder maximális vízmélysége körülbelül 5,5 méter körül mozog.",
+        "Kizárólag felszín alatti források és a közvetlen csapadék táplálja.",
+        "A part menti zónákat sűrű nádasok és egybefüggő tölgyerdők borítják.",
+        "Közvetlenül a nyugat-iráni Mariván városának szomszédságában található.",
+        "A hideg téli hónapokban a befagyott felszín természetes jégpályaként szolgál."
+      ]
+    },
+    {
+      "id": "khar-turan-national-park-nature-v2",
+      "descriptionAdvanced": "A Turán Nemzeti Park, amelyet gyakran Khar-Turán néven is említenek, Irán második legnagyobb egybefüggő természetvédelmi területe, és az UNESCO által hivatalosan elismert bioszféra-rezervátum. A több mint 14 000 négyzetkilométeres kiterjedésű park Szemnán tartomány délkeleti részén fekszik. A tájat kíméletlen sivatagi és félsivatagi környezet, kiterjedt sóserpenyők, homokdűnék és kopár hegyvonulatok uralják. Ez az elszigetelt és nehezen megközelíthető régió kulcsfontosságú menedékké vált a súlyosan veszélyeztetett állatfajok számára. Itt él az ázsiai gepárd legnagyobb megmaradt populációja, amelyből világszerte már csak néhány tucat példány maradt fenn. Emellett jelentős perzsa félszamár csordák, golyvás gazellák és szirti sasok is találhatók a területen. Az éves csapadékmennyiség rendkívül alacsony, ritkán haladja meg a 150 millimétert, ami a nyári hőséggel együtt távol tartja az emberi megtelepedést.",
+      "factsAdvanced": [
+        "A rezervátum területe jelentősen meghaladja a 14 000 négyzetkilométert.",
+        "Az UNESCO hivatalosan is kiemelt fontosságú bioszféra-rezervátumként tartja számon.",
+        "Az éves csapadékmennyiség a régióban többnyire 150 milliméter alatt marad.",
+        "A kritikusan veszélyeztetett ázsiai gepárd legnagyobb ismert populációjának ad otthont.",
+        "Kulcsfontosságú természetes élőhely a vadon élő perzsa félszamarak számára.",
+        "Földrajzilag Szemnán tartomány délkeleti részén, a sivatag peremén fekszik.",
+        "A tájképet hatalmas kiterjedésű sóserpenyők és száraz homokdűnék uralják."
+      ]
+    },
+    {
+      "id": "mount-tochal-nature-v2",
+      "descriptionAdvanced": "A Tocsal egy markáns hegycsúcs az Elburz-hegység vonulataiban, amely közvetlenül a többmilliós metropolisz, Teherán északi határainál emelkedik a magasba. A 3964 méteres tengerszint feletti magasságával természetes fizikai akadályt képez, amely egyértelműen uralja az iráni főváros panorámáját. A hegy déli lejtője a teheráni lakosok egyik legfontosabb és legnépszerűbb rekreációs területe. A világ egyik leghosszabb drótkötélpályája, a Tocsal-felvonó, mintegy 7,5 kilométeres hosszon szállítja az utasokat az 1900 méteren fekvő Velenjak kerületből egészen a 3740 méter magasan épült hegyi állomásig. A csúcs közelében található síterep magasságának köszönhetően decembertől áprilisig hóbiztos, míg a helyi hegyi szálloda a világ egyik legmagasabban fekvő hotelje. A hegymászók és túrázók olyan jól kiépített útvonalakat használnak, mint a Darband, hogy gyalogosan érjék el a csúcsot.",
+      "factsAdvanced": [
+        "A fő csúcspont pontosan 3964 méteres tengerszint feletti magasságban van.",
+        "A felvonórendszer teljes utazási hossza megközelíti a 7,5 kilométert.",
+        "A drótkötélpálya legfelső hegyi állomása 3740 méteres magasságban épült.",
+        "A helyi síterep általában decembertől áprilisig elegendő hóval rendelkezik.",
+        "A túraútvonalak kiindulópontja az 1900 méteren lévő Velenjak negyed.",
+        "A hegyen található szálloda a világ egyik legmagasabban fekvő hotelje.",
+        "A hegy déli lejtői közvetlenül határosak Teherán északi kerületeivel."
+      ]
+    },
+    {
+      "id": "lar-national-park-nature-v2",
+      "descriptionAdvanced": "A Lár Nemzeti Park egy 73 500 hektáros természetvédelmi övezet Irán központi részén, Mazandarán és Teherán tartományok határán, közvetlenül a hatalmas Damávand hegy lábánál. Ezt a magasan fekvő hegyvidéki völgyet 1976-ban nyilvánították nemzeti parkká, majd 1982-ben szigorúan védett területté minősítették fel. A park különösen késő tavasszal vonz sok látogatót, amikor a kiterjedt lejtőket több millió virágzó vad vörös pipacs és más alpesi gyógynövény borítja. A terület központjában terül el a Lár-gát által létrehozott víztározó, amely Teherán városának egyik legfontosabb ivóvízbázisa. A folyó és a tó tiszta, jéghideg vizében él a ritka barna sebes pisztráng, amely az ország minden részéből idevonzza a horgászokat. A zord hegyi éghajlat miatt a parkba vezető utak ősztől késő tavaszig a vastag hóréteg miatt többnyire járhatatlanok.",
+      "factsAdvanced": [
+        "A hivatalosan kijelölt természetvédelmi terület 73 500 hektáros kiterjedéssel rendelkezik.",
+        "1976-ban kapta meg hivatalosan is a nemzeti parki besorolást.",
+        "A központi víztározó hatalmas mennyiségű ivóvizet biztosít Teherán lakosságának.",
+        "A hegyoldalak késő tavasszal híresek a virágzó vörös vadpipacsokról.",
+        "A jéghideg hegyi folyóvíz ideális élőhelyet biztosít a sebes pisztrángoknak.",
+        "A bekötőutak a téli hónapokban a többméteres hó miatt járhatatlanok.",
+        "A park közvetlenül a Damávand-masszívum délnyugati lábánál terül el."
+      ]
+    },
+    {
+      "id": "alimastan-forest-nature-v2",
+      "descriptionAdvanced": "Az Alimasztán-erdő a kiterjedt Hürkaniai-erdők egyik legfestőibb szakasza, amely Mazandarán tartományban, Ámol városának közelében helyezkedik el. Ez a sűrű, ősi lombhullató erdő az Elburz-hegység magasabban fekvő zónáiban található, és egy jellegzetesen hűvös, gyakran sűrű ködbe burkolózó mikroklímával rendelkezik. Az őszi hónapokban az erdő látványos színkavalkáddá változik, amikor a hatalmas tölgy- és bükkfák levelei élénk sárga és vörös árnyalatokat öltenek. Egy népszerű, 1500 méteres magasságból induló túraútvonal vezet fel egy hegyi hágóhoz, ahonnan tiszta időben felejthetetlen panoráma nyílik a közeli Damávand vulkán hófödte csúcsára. Az erdő neve egy \"alima\" nevű helyi vadon termő növényből ered, amely tavasszal nő, és a regionális gasztronómiában hagyományosan felhasználják. A ködös fák között vadlovak és ritka hegyi madárfajok is menedéket találnak.",
+      "factsAdvanced": [
+        "Földrajzilag az észak-iráni ősi Hürkaniai-erdők ökorégiójához tartozik.",
+        "A kijelölt túraútvonalak megközelítőleg 1500 méteres magasságban kezdődnek.",
+        "Mazandarán hegyvidéki tartományában, Ámol városának vonzáskörzetében helyezkedik el.",
+        "Nevét az ehető, tavasszal hajtó alima nevű vadnövényről kapta.",
+        "A hegygerincről akadálytalan kilátás nyílik a Damávand vulkán csúcsára.",
+        "A speciális mikroklíma gyakran sűrű ködöt és alacsony hőmérsékletet eredményez.",
+        "Az őszi szezonban az erdő híres az intenzív, színpompás lombkoronáról."
+      ]
+    },
+    {
+      "id": "hara-forests-nature-v2",
+      "descriptionAdvanced": "A Hara-mangroveerdők kivételes tengeri ökoszisztémát alkotnak a Perzsa-öbölben található Kesm szigetének északi partvidékén. A mintegy 20 000 hektáron elterülő terület a Közel-Kelet legnagyobb mangrove erdeje, amely az UNESCO bioszféra-rezervátum hálózatának is része. A domináns fafajt, a szürke mangrovét (Avicennia marina) Iránban a híres tudós, Avicenna tiszteletére \"hara\" néven emlegetik. Ezek a rendkívül ellenálló fák, amelyek gyökerei 3-6 méter mélyen fúródnak az iszapos ágyba, képesek a sós tengervizet biológiai úton sótalanítani. A Perzsa-öböl erős árapály-ingadozása miatt dagálykor az erdők szinte teljesen a víz alá kerülnek, apály idején viszont láthatóvá válik kiterjedt légzőgyökér-rendszerük. A Hara-erdők kritikus jelentőségűek a biológiai sokféleség fenntartásában: halfajok százainak nyújtanak szaporodóhelyet, és évente több mint 100 vándormadárfajnak, köztük hatalmas gémkolóniáknak adnak otthont.",
+      "factsAdvanced": [
+        "A védett mangroveövezet teljes kiterjedése megközelítőleg 20 000 hektárt tesz ki.",
+        "Ökológiai jelentősége miatt hivatalosan UNESCO bioszféra-rezervátummá nyilvánították.",
+        "A fák speciális gyökérzete 3-6 méter mélyen rögzül az iszapban.",
+        "Több mint 100 különböző vándormadárfaj számára biztosít pihenő- és fészkelőhelyet.",
+        "A mangrovefák egyedi biológiai képessége révén sótalanítják a tengervizet.",
+        "Dagály idején a fák szinte a lombkoronájukig víz alá kerülnek.",
+        "A kiterjedt erdőség az iráni Kesm sziget északi partjainál helyezkedik el."
+      ]
+    },
+    {
+      "id": "sefid-rud-nature-v2",
+      "descriptionAdvanced": "A Szefid-rud, amelynek neve szó szerint \"Fehér folyót\" jelent, Irán északi részének, Gilán tartománynak a leghosszabb és legfontosabb folyója, teljes hossza eléri a 670 kilométert. A folyó Mandzsil városának közelében jön létre a Kizil-Uzan és a Sahrud folyók egyesüléséből. Innen hatalmas erővel vágja át magát az Elburz-hegység mély szurdokain, mielőtt kilépne a parti síkságra, majd a Kaszpi-tengerbe ömlik. A vízfolyás hírnevét a magával ragadott hatalmas mennyiségű üledéknek köszönheti, amely jellegzetes fehéres-iszapos színt kölcsönöz a vizének. A hegyi áttörésnél épült Mandzsil-gát egy óriási víztározót hoz létre, amely évente több száz megawatt áramot termel, és öntözőcsatornák kiterjedt hálózatát táplálja a termékeny giláni síkságon. Ez a vízmennyiség létfontosságú a régió intenzív rizstermesztése szempontjából, amely országos szinten is kiemelkedő.",
+      "factsAdvanced": [
+        "A folyó medre a forrástól a torkolatig mintegy 670 kilométer.",
+        "Mandzsil városánál jön létre két nagyobb folyóág összefolyásából.",
+        "Hatalmas mennyiségű hordalékot szállít, amely a víz világos színét adja.",
+        "A folyóra épült gátrendszer jelentős mennyiségű elektromos energiát termel.",
+        "A folyó vize elengedhetetlen Gilán tartomány kiterjedt rizstermesztéséhez.",
+        "A hegységen való áttörés után közvetlenül a Kaszpi-tengerbe torkollik.",
+        "A perzsa történelem során gyakran szolgált természetes határként területek között."
+      ]
+    },
+    {
+      "id": "namak-lake-nature-v2",
+      "descriptionAdvanced": "A Namak-tó, amelynek neve perzsa nyelven sós tavat jelent, egy hatalmas, nagyrészt kiszáradt sóserpenyő a közép-iráni Dast-e Kavir sivatagban. A körülbelül 1800 négyzetkilométeres területet borító képződmény egy történelem előtti beltenger lenyűgöző geológiai maradványa, amely az utolsó jégkorszak idején a központi fennsík jelentős részét beborította. A tó medencéje mintegy 60 kilométerre keletre fekszik Kom zarándokvárosától, kevesebb mint 800 méteres tengerszint feletti magasságban. A rendkívül száraz sivatagi éghajlat a magas hőmérséklettel és intenzív napsugárzással biztosítja, hogy a Kom-folyóból érkező ritka vízutánpótlás gyorsan elpárologjon. Ennek eredményeként egy masszív, vakítóan fehér sókéreg marad hátra, amely jellegzetes geometriai sokszögmintákba töredezik. Bizonyos szakaszokon a tömörített sóréteg vastagsága elérheti a 45 centimétert is.",
+      "factsAdvanced": [
+        "A kiszáradt tómeder kiterjedése megközelítőleg 1800 négyzetkilométert foglal el.",
+        "Körülbelül 800 méteres tengerszint feletti magasságban helyezkedik el.",
+        "A vakítóan fehér, repedezett sókéreg vastagsága elérheti a 45 centimétert.",
+        "Földrajzilag nagyjából 60 kilométerre keletre fekszik Kom milliós városától.",
+        "Egy hatalmas kiterjedésű jégkorszaki beltenger utolsó geológiai maradványa.",
+        "A fő vízforrást jelentő Kom-folyó a nyári hónapokban szinte teljesen kiszárad.",
+        "A párolgás hatására a felszín markáns geometriai sokszögmintákat formál."
+      ]
+    },
+    {
+      "id": "aras-river-nature-v2",
+      "descriptionAdvanced": "Az Arasz egy kiemelkedően fontos nemzetközi folyó, amely hosszan alkotja a természetes határvonalat Irán, valamint északnyugati szomszédai, Örményország és Azerbajdzsán között. Az 1072 kilométer teljes hosszúságú folyó a törökországi anatóliai fennsíkon ered, majd végigfolyik az iráni határon, mielőtt a szomszédos Azerbajdzsánban a Kura folyóba ömlene, röviddel annak a Kaszpi-tengerbe való torkollása előtt. A folyóvölgyet mély, drámai szurdokok és termékeny árterek tagolják. Iráni oldalon az Arasz elsősorban Nyugat-Azerbajdzsán és Kelet-Azerbajdzsán tartományokon halad keresztül. A folyón olyan közös infrastruktúrák épültek, mint az Arasz-gát, amely az öntözést és az áramtermelést szolgálja a határ mindkét oldalán. Az elszigetelt folyóvölgyek gazdag biológiai sokféleséggel rendelkeznek, beleértve a szomszédos hegyekben élő kaukázusi leopárdokat.",
+      "factsAdvanced": [
+        "A folyó hossza a forrástól a torkolatig pontosan 1072 kilométer.",
+        "Több száz kilométeren át alkotja az államhatárt Örményországgal és Azerbajdzsánnal.",
+        "Irán határain jóval kívül, a kelet-törökországi hegyvidéken ered.",
+        "A Kura-Arasz-alföldön egyesül a jóval nagyobb vízhozamú Kura folyóval.",
+        "Az Arasz-gátat Irán és szomszédjai közös beruházásként üzemeltetik.",
+        "A Kelet-Azerbajdzsán tartományban lévő partszakaszok gazdag biodiverzitásukról ismertek.",
+        "A folyó mély völgyeinek mentén történelmi örmény kolostorok találhatók."
+      ]
+    },
+    {
+      "id": "nayband-national-park-nature-v2",
+      "descriptionAdvanced": "A Busehr tartományban fekvő Najband Nemzeti Park a Perzsa-öböl egyik legkiemelkedőbb tengeri természetvédelmi területe, és egyben Irán legelső védett tengeri nemzeti parkja. A 2007-ben létrehozott rezervátum csaknem 42 000 hektáros kiterjedéssel büszkélkedhet, és a part menti tájak, korallzátonyok, tengerifű-mezők és kiterjedt mangroveerdők egyedülálló kombinációját védi. A Najband-öböl nyugodt, sekély vizei létfontosságú és biztonságos fészkelőhelyet biztosítanak a kritikusan veszélyeztetett tengeri teknősök, különösen a cserepesteknősök számára. A terület a madármegfigyelők paradicsoma is, mivel számtalan endemikus faj és vándormadár telel át itt. A park szárazföldi részén zord, sziklás szirtek emelkednek, drámai kontrasztot alkotva az öböl kék vizével. Ökológiai fontossága ellenére a parkot állandó ipari nyomás éri a közeli South Pars gázmező kiterjedt létesítményei miatt.",
+      "factsAdvanced": [
+        "2007-ben hozták létre hivatalosan Irán első tengeri nemzeti parkjaként.",
+        "A teljes védett övezet mintegy 42 000 hektárnyi szárazföldet és tengert foglal magába.",
+        "Kiemelkedően fontos fészkelőhelyet nyújt a súlyosan veszélyeztetett cserepesteknősöknek.",
+        "A Najband-öblöt sekély, nyugodt tengervíz és gazdag mangroveerdők jellemzik.",
+        "A rezervátum a déli Busehr tartomány partvidékén helyezkedik el.",
+        "A park part menti sekély vizeiben hatalmas korallzátonyok fejlődnek.",
+        "Földrajzilag közvetlenül határos a South Pars gázmező hatalmas ipari létesítményeivel."
+      ]
+    },
+    {
+      "id": "alam-kuh-nature-v2",
+      "descriptionAdvanced": "Az Alam-Kuh a maga tekintélyes 4848 méteres magasságával Irán második legmagasabb hegycsúcsa, amely az Elburz-hegység központi részén, Mazandarán tartományban helyezkedik el. A hegy világszerte hírnevet szerzett a professzionális sziklamászók és alpinisták körében a szinte függőleges, több mint 800 méter magas gránit északi fala miatt. Ezt a gigantikus sziklafalat a Közel-Kelet egyik legnehezebb és technikailag leginkább embert próbáló mászóútvonalaként tartják számon, gyakran az európai Alpok legnagyobb falaihoz hasonlítva. Az Alam-Kuh masszívum körül terül el a Taht-e Szolejmán régió, amelyet drámai gleccseres tájképek jellemeznek. Itt több aktív gleccser is található, ami az extrém alacsony hőmérsékletnek és a magaslati csapadéknak köszönhető. Az északi fal első sikeres, dokumentált direkt megmászását egy expedíció hajtotta végre az 1930-as évek elején.",
+      "factsAdvanced": [
+        "Maximális magassága eléri a 4848 métert a tengerszint felett.",
+        "Hivatalos mérések szerint az ország második legmagasabb pontja.",
+        "A hírhedt és meredek gránit északi fal magassága meghaladja a 800 métert.",
+        "A régióban található a kevés megmaradt iráni gleccserek egyike.",
+        "Az északi falat az 1930-as években mászták meg először sikeresen.",
+        "A Taht-e Szolejmán hegytömbben fekszik, az északi Mazandarán tartományban.",
+        "Meredek sziklafalai miatt gyakran az ország alpinista központjának is nevezik."
+      ]
+    },
+    {
+      "id": "sisangan-national-park-nature-v2",
+      "descriptionAdvanced": "A Sziszangan Nemzeti Park egy rendkívüli adottságokkal rendelkező, gyönyörű erdei park Mazandarán tartományban, amely közvetlenül határos a Kaszpi-tenger partvidékével. 1965-ben hozták létre, elsődlegesen azzal a céllal, hogy megvédjék a ritka és történelmileg értékes kaszpi puszpángfa lenyűgöző állományát. A park valamivel több mint 600 hektáros területet fed le, és legfőbb vonzerejét a különleges földrajzi elhelyezkedése adja: a sűrű erdőségek bizonyos pontokon alig néhány méterre húzódnak a tenger homokos partjaitól. A puszpángok mellett hatalmas, ősi tölgyek és fügefák uralják a buja növényzetet. A nemzeti park két fő zónára oszlik; egy turisztikai célokra kialakított részre, amely hétvégente ezer számra vonzza a kempingező családokat, valamint egy szigorúan védett természetvédelmi övezetre, amely megőrzi az aranysakálok, vörös rókák és különféle énekesmadarak természetes élőhelyét.",
+      "factsAdvanced": [
+        "1965-ben alapították, mint egyedi védettségű tengerparti erdei parkot.",
+        "A teljes védett terület nagysága kevéssel meghaladja a 600 hektárt.",
+        "Kifejezetten a történelmi jelentőségű kaszpi puszpángfa megóvása érdekében hozták létre.",
+        "A sűrű fahatár szinte közvetlenül a Kaszpi-tenger homokos partjainál ér véget.",
+        "Földrajzilag a csapadékos és erdőkben gazdag Mazandarán tartományhoz tartozik.",
+        "Egy turisztikai rekreációs zónából és egy szigorú természetvédelmi övezetből áll.",
+        "Fontos természetes élőhelyet biztosít olyan emlősöknek, mint az aranysakál és a vörös róka."
+      ]
+    }
+  ]
+}

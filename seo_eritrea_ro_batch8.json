@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "emni-haili-cities-v2",
+      "descriptionAdvanced": "Emni Haili este un centru administrativ vital cu o pronunțată orientare agricolă, fiind înconjurat de dealuri stâncoase care conferă peisajului un aspect unic. Orașul este considerat „grânarul” regiunii datorită capacității sale de a susține o producție extinsă de cereale, esențială pentru siguranța alimentară a zonei. Comunitatea se bazează pe ingeniozitatea agricolă pentru a transforma terenul accidentat în suprafețe cultivabile productive. Emni Haili ilustrează reziliența și succesul agriculturii locale în fața provocărilor geografice. Geografie K7 — importanța zonelor agricole în siguranța alimentară.",
+      "factsAdvanced": [
+        "Centru administrativ cu rol agricol esențial.",
+        "Înconjurat de dealuri stâncoase cu peisaj distinct.",
+        "Considerat 'grânarul' regiunii Debub.",
+        "Susține o producție extinsă de cereale locale.",
+        "Reziliență agricolă pe terenuri provocatoare și stâncoase.",
+        "Pilon vital pentru siguranța alimentară a zonei."
+      ]
+    },
+    {
+      "id": "mai-dima-cities-v2",
+      "descriptionAdvanced": "Mai Dima este o așezare izolată, situată strategic, care a servit adesea drept poziție defensivă importantă în timpul numeroaselor conflicte istorice care au marcat regiunea. Denumirea sa înseamnă „apă roșie” în limba locală, făcând referire la caracteristicile hidrografice ale zonei. Dincolo de istoria sa militară, așezarea a fost un punct de interes pentru comunitățile care au căutat protecție și control asupra rutelor de acces. Astăzi, Mai Dima rămâne un loc încărcat de amintiri, reprezentând reziliența locuitorilor în zone disputate. Istorie K8 — rolul pozițiilor strategice în conflictele regionale.",
+      "factsAdvanced": [
+        "Așezare izolată cu o locație strategică defensivă.",
+        "A servit drept poziție militară în conflicte istorice.",
+        "Numele înseamnă 'apă roșie' în limba locală.",
+        "Punct de control asupra rutelor critice de acces.",
+        "Zonă disputată cu o istorie militară marcată.",
+        "Loc reprezentativ pentru reziliența în fața conflictelor."
+      ]
+    },
+    {
+      "id": "tera-emni-cities-v2",
+      "descriptionAdvanced": "Tera-Emni este un sat agricol prosper din apropiere de Mendefera, care beneficiază de pe urma rezervoarelor locale de apă, ce permit cultivarea intensivă. În special, producția de roșii și ceapă a devenit o specialitate a zonei, contribuind la prosperitatea economică a comunității. Modernizarea sistemelor de irigații a permis optimizarea randamentului agricol, oferind un exemplu de succes pentru agricultura rurală din regiunea Debub. Satul este un model de dezvoltare bazată pe gestionarea inteligentă a resurselor de apă. Geografie K7 — eficiența irigațiilor în dezvoltarea agricolă locală.",
+      "factsAdvanced": [
+        "Sat agricol prosper situat lângă Mendefera.",
+        "Beneficiază de rezervoare locale de apă pentru irigații.",
+        "Specializat în producția de roșii și ceapă.",
+        "Exemplu de succes pentru agricultura rurală regională.",
+        "Utilizează tehnici moderne pentru gestionarea apei.",
+        "Prosperitate economică bazată pe optimizarea randamentului agricol."
+      ]
+    },
+    {
+      "id": "tserona-cities-v2",
+      "descriptionAdvanced": "Tserona este un oraș de graniță care a fost grav afectat de conflictul de frontieră din 1998, însă astăzi parcurge un proces treptat de revitalizare. Scena unor lupte militare grele în trecut, orașul își reconstruiește acum infrastructura și își reînvie tradițiile agrare cu sprijinul programelor naționale. Reziliența locuitorilor este vizibilă în efortul de a reda viață câmpurilor și de a consolida pacea prin dezvoltare economică locală. Tserona rămâne un simbol al reconstrucției post-conflict și al speranței. Istorie K8 — reconstrucția post-conflict și consolidarea păcii.",
+      "factsAdvanced": [
+        "Oraș de graniță revitalizat după conflictul din 1998.",
+        "A fost scena unor lupte militare grele în trecut.",
+        "Parcurge un proces gradual de reconstrucție și dezvoltare.",
+        "Programe de stat sprijină revitalizarea agriculturii locale.",
+        "Simbol al rezilienței post-conflict și al speranței.",
+        "Focus actual pe dezvoltare economică și stabilitate."
+      ]
+    },
+    {
+      "id": "halai-cities-v2",
+      "descriptionAdvanced": "Halai este situat pe un platou înalt impresionant, care a servit istoric drept post de observație strategic, având în prezent un microclimat mult mai răcoros decât văile din jur. Vederea vastă asupra văilor din regiunea Mării Roșii face din acest loc un punct de referință geografică și istorică. A fost un sit important în explorările europene timpurii, datorită accesibilității sale vizuale asupra regiunii. Halai combină avantajele geografice de altitudine cu o valoare istorică neobișnuită pentru exploratori. Geografie K7 — impactul altitudinii asupra controlului teritorial.",
+      "factsAdvanced": [
+        "Situat pe un platou înalt cu rol de observație strategică.",
+        "Microclimat semnificativ mai răcoros decât în văile adiacente.",
+        "Oferă o vedere vastă asupra văilor din regiunea Mării Roșii.",
+        "Sit istoric important pentru explorările europene timpurii.",
+        "Reper geografic esențial pentru controlul vizual al zonei.",
+        "Combine avantajele altitudinii cu o istorie exploratorie unică."
+      ]
+    }
+  ]
+}

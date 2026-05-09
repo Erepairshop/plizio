@@ -1,0 +1,129 @@
+{
+  "lang": "hu",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "notre-dame-basilica-montreal-landmarks-v2",
+      "descriptionAdvanced": "A montreali Notre-Dame Bazilika a neogótikus építészet egyik legkiemelkedőbb kanadai példája. A bazilika híres lenyűgöző, mélykék mennyezetéről és az aprólékosan kidolgozott, aranyozott fafaragásairól, amelyek misztikus hangulatot kölcsönöznek a belső térnek. Az épület a város spirituális és kulturális központja, amely évente százezreket vonz a világ minden tájáról. Történelem K7 — egyházi építészet.",
+      "factsAdvanced": [
+        "1829-ben készült el a fő szerkezete",
+        "James O'Donnell ír-amerikai építész tervezte",
+        "Neogótikus stílusú bazilika",
+        "Híres lenyűgöző akusztikájáról és 'AURA' fényshowjáról",
+        "Kanada egyik leglátogatottabb vallási emlékhelye",
+        "Belsejét gazdag fafaragások és aranyozott díszek jellemzik"
+      ]
+    },
+    {
+      "id": "saint-josephs-oratory-landmarks-v2",
+      "descriptionAdvanced": "A montreali Szent József-oratórium nemcsak Kanada legnagyobb temploma, hanem a világ egyik legjelentősebb katolikus zarándokhelye. A Mont Royal hegyen elhelyezkedő hatalmas kupolás bazilikát a gyógyító erejéről híres André testvér alapította. Az épület méretei és elhelyezkedése miatt Montréal messziről látható szimbóluma, amely a hit és az építészet találkozását hirdeti. Földrajz K7 — vallási építészet.",
+      "factsAdvanced": [
+        "Kanada legnagyobb temploma",
+        "Kupolája a világ egyik legnagyobbja",
+        "Szent André Bessette alapította",
+        "Jelentős zarándokhely, gyógyulást keresők ezrei látogatják",
+        "A Mont Royal oldalában épült",
+        "Építészeti stílusa a reneszánsz újjáéledésére emlékeztet"
+      ]
+    },
+    {
+      "id": "confederation-bridge-landmarks-v2",
+      "descriptionAdvanced": "A Confederation Bridge (Konföderáció-híd) egy technikai csoda, amely a Prince Edward-szigetet köti össze az észak-amerikai szárazfölddel. A közel 13 kilométer hosszú híd a világ leghosszabb hídja, amely jéggel borított víz felett ível át, így az építése során felhasznált mérnöki megoldások egyedülállóak voltak. Jelentősége nemcsak turisztikai, hanem gazdasági szempontból is felbecsülhetetlen a szigetország számára. Technika K6 — mérnöki infrastruktúra.",
+      "factsAdvanced": [
+        "12,9 kilométer hosszú",
+        "1997-ben adták át a forgalomnak",
+        "A világ leghosszabb hídja, amely jégzajos vizek felett halad",
+        "Útdíjas híd, amely összeköti New Brunswickot a szigettel",
+        "A sziget gazdaságának életmentője",
+        "Kiemelkedő mérnöki teljesítmény a zord körülmények között"
+      ]
+    },
+    {
+      "id": "calgary-tower-landmarks-v2",
+      "descriptionAdvanced": "A Calgary Tower a város belvárosának jelképe, amely 191 méteres magasságával uralja az Albertai metropolisz látképét. Eredetileg 1968-ban épült Kanada 100 éves jubileumának alkalmából, és azóta a város fejlődésének egyik első mérföldköveként tartják számon. A kilátóteraszról tiszta időben nemcsak a városi felhőkarcolók, hanem a távolban húzódó Sziklás-hegység vonulatai is láthatók. Földrajz K7 — városi kilátók.",
+      "factsAdvanced": [
+        "191 méter magas kilátótorony",
+        "1968-ban készült el a Centennial évfordulóra",
+        "Padlózata részben üvegezett, így a város közvetlenül látható alatta",
+        "Az 1988-as olimpia alatt az olimpiai lángot égették a tetején",
+        "A Calgary skyline egyik legkorábbi ikonikus eleme",
+        "Forgó étterem biztosít panorámás vacsorázási élményt"
+      ]
+    },
+    {
+      "id": "rogers-centre-landmarks-v2",
+      "descriptionAdvanced": "A torontói Rogers Centre a modern stadionépítészet egyik mérföldköve, amely elsőként rendelkezett teljesen behúzható tetővel. A város szívében, a CN Tower közvetlen közelében található aréna a Toronto Blue Jays baseballcsapat otthona, de koncertek és más nagy tömegeket vonzó rendezvények állandó helyszíne is. A behúzható tető lehetővé teszi, hogy az időjárástól függetlenül az év bármely szakában használható legyen. Gazdaság K7 — sportturizmus.",
+      "factsAdvanced": [
+        "1989-ben adták át SkyDome néven",
+        "A világ első teljesen behúzható tetővel rendelkező stadionja",
+        "A Toronto Blue Jays (MLB) otthona",
+        "Akár 50 000 néző befogadására is alkalmas",
+        "A CN Tower szomszédságában található",
+        "Többcélú eseményközpontként funkcionál"
+      ]
+    },
+    {
+      "id": "lions-gate-bridge-landmarks-v2",
+      "descriptionAdvanced": "A vancouveri Lions Gate Bridge egy ikonikus függőhíd, amely a várost köti össze a hegyvidéki North és West Vancouverrel. Nevét a közeli 'The Lions' (Az Oroszlánok) csúcsairól kapta, és a Burrard Inlet feletti átkelés során lenyűgöző kilátást nyújt a városra és az óceánra. A híd Kanada egyik nemzeti történelmi emlékhelye, amely a modern vancouveri közlekedés egyik legfontosabb láncszeme. Földrajz K6 — közlekedési hídak.",
+      "factsAdvanced": [
+        "A Burrard Inlet felett ível át",
+        "Nevét a közeli Oroszlánok hegycsúcsokról kapta",
+        "Kanada nemzeti történelmi emlékhelye",
+        "Sűrűn használják filmek forgatási helyszíneként",
+        "A város egyik legfontosabb közlekedési ütőere",
+        "Függőhíd építészeti megoldással készült"
+      ]
+    },
+    {
+      "id": "peace-tower-ottawa-landmarks-v2",
+      "descriptionAdvanced": "Az ottawai Béke-torony az országos parlament központi épületének része, a béke és az emlékezés nemzeti szimbóluma. A 92 méter magas óra- és harangtorony belsejében egy 53 harangból álló carillon található, amely naponta megszólal. A toronyból nyíló kilátóteraszról Ottawa belvárosának és a környező Parlament-domb épületeinek egyik legszebb perspektívája tárul a látogatók elé. Történelem K8 — szimbólumok.",
+      "factsAdvanced": [
+        "92,2 méter magas torony",
+        "A béke és az emlékezés nemzeti emlékműve",
+        "53 harangból álló carillon működik benne",
+        "Az ottawai Parlament központi eleme",
+        "Kilátója teljes körpanorámát nyújt a fővárosra",
+        "A kanadai politikai élet szimbóluma"
+      ]
+    },
+    {
+      "id": "ontario-place-cinesphere-landmarks-v2",
+      "descriptionAdvanced": "Az ontariói Cinesphere a világ első állandó IMAX mozija, amely egy lenyűgöző geodéziai kupolaszerkezetben kapott helyet Torontóban. Az Ontario Place komplexum részeként épült létesítmény az 1970-es évek futurisztikus építészeti irányzatának egyik legizgalmasabb példája. A hatalmas, ívelt vászon és a kupola kialakítása egyedi élményt nyújt a nézőknek, még évtizedekkel a megnyitása után is. Művészettörténet K7 — technológia és építészet.",
+      "factsAdvanced": [
+        "A világ első állandó IMAX mozija",
+        "Geodéziai kupolás épületszerkezet",
+        "Az Ontario Place szórakoztató komplexum része",
+        "Az 1970-es évek egyik legmeghatározóbb építészeti alkotása",
+        "IMAX filmek vetítésére specializálódott",
+        "Ma is népszerű kulturális célpont"
+      ]
+    },
+    {
+      "id": "brockville-railway-tunnel-landmarks-v2",
+      "descriptionAdvanced": "A Brockville-i vasúti alagút Kanada legelső vasúti alagútja, amely ma izgalmas turisztikai látványosságként működik. Az 1854 és 1860 között épült alagút történelmi jelentőségét a modern technika, egy színes LED-fényjáték teszi élményszerűvé a látogatók számára. A Brock túraútvonal részeként a föld alatti séta egyedi módon kapcsolja össze a múlt mérnöki teljesítményét a jelenkor kreatív fejlesztéseivel. Történelem K7 — ipartörténet.",
+      "factsAdvanced": [
+        "Kanada legelső vasúti alagútja",
+        "1854 és 1860 között épült",
+        "Több mint 500 méter hosszú",
+        "Ma színes LED-es fényshow szórakoztatja a sétálókat",
+        "A Brock túraútvonal (Brock Trail) része",
+        "Fontos ipartörténeti emlékhely"
+      ]
+    },
+    {
+      "id": "toronto-sign-landmarks-v2",
+      "descriptionAdvanced": "A torontói 'Toronto-felirat' mára a város egyik legnépszerűbb közösségi látványossága lett. A 2015-ös Pánamerikai Játékok alkalmából telepített 3D-s fényreklám a Nathan Phillips tér központi elemévé vált, ahol a látogatók és a helyiek egyaránt gyakran készítenek fényképeket. A felirat színe az aktuális ünnepi alkalmak vagy társadalmi események szerint változik, ami tovább erősíti közösségi szerepét. Urbanisztika K6 — közösségi terek.",
+      "factsAdvanced": [
+        "A 2015-ös Pánamerikai Játékokra készítették",
+        "Népszerű 3D fotóhelyszín",
+        "Éjszakánként megvilágított, többszínű installáció",
+        "Különleges alkalmakkor a színe megváltozik",
+        "A Nathan Phillips téren, a városháza előtt áll",
+        "A városi identitás egyik legnépszerűbb szimbóluma"
+      ]
+    }
+  ]
+}

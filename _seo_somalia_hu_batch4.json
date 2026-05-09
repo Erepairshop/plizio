@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dhambalin-rock-art-history-v2",
+      "descriptionAdvanced": "Dhambalin sziklarajzai a Szomáliföldön található egyik legérdekesebb őskori művészeti lelőhely, amely az állattenyésztő társadalmak korai időszakába enged betekintést. A barlangfalakon látható rajzok az egykori pásztorkodó életmódot, szarvasmarhákat, zsiráfokat és egyéb állatokat ábrázolják, különleges stílusban. A leletek nemcsak az állatok háziasításának korai jeleit hordozzák, hanem azt is, hogyan alkalmazkodtak ezek a közösségek a száraz éghajlathoz évezredekkel ezelőtt. Dhambalin művészete a régészek számára kulcsfontosságú forrás a térség éghajlati és társadalmi változásainak megértéséhez.",
+      "factsAdvanced": [
+        "Őskori sziklarajzok lelőhelye.",
+        "Szomáliföldi területen található.",
+        "Pásztorkodó életmód ábrázolásai.",
+        "Szarvasmarhák és zsiráfok rajzai.",
+        "Fontos forrás az állatok háziasításának kutatásához.",
+        "Éghajlati változásokra utaló bizonyítékok."
+      ]
+    },
+    {
+      "id": "karinhegane-paintings-history-v2",
+      "descriptionAdvanced": "Karinhegane sziklafestményei a kelet-afrikai régió egyik legfontosabb neolitikus művészeti öröksége, amely egyedülálló módon dokumentálja a korai emberi közösségek mindennapjait. A festmények színes alakokat, vadászjeleneteket és állatokat mutatnak be, amelyek a környék egykori élővilágának gazdagságáról tanúskodnak. A leletek kutatása hozzájárul a térség őstörténetének rekonstruálásához, és segít megismerni azokat a rituális szokásokat, amelyek meghatározták ezeknek a korai közösségeknek a mindennapjait. Karinhegane ma a szomáliai őskori művészet egyik kiemelkedő pontja.",
+      "factsAdvanced": [
+        "Neolitikus művészeti örökség.",
+        "Színes alakokat és vadászjeleneteket ábrázol.",
+        "Az egykori élővilág gazdagságát mutatja.",
+        "Őstörténeti forrás.",
+        "Rituális szokásokra utaló ábrázolások.",
+        "Kiemelkedő őskori lelőhely."
+      ]
+    },
+    {
+      "id": "dhaymoole-rock-art-history-v2",
+      "descriptionAdvanced": "Dhaymoole sziklarajzai a térség őskori életmódjának színes és részletgazdag dokumentációja, amely több ezer évet ölel át. A festmények a mindennapi élet jeleneteit, vadászatot és az állatokkal való kapcsolatot tárják a kutatók elé, különleges művészeti stílusban. A helyszín azért is rendkívül fontos, mert bemutatja azokat az állatfajokat, amelyek már régen eltűntek a régióból, ezzel is segítve a környezeti és éghajlati változások rekonstruálását. Dhaymoole a szomáliai művészeti örökség egyik legértékesebb gyöngyszeme, amely a múltba vezető vizuális hidat képez.",
+      "factsAdvanced": [
+        "Gazdag őskori sziklarajzok.",
+        "Mindennapi élet és vadászat jelenetei.",
+        "Eltűnt állatfajok ábrázolása.",
+        "Fontos forrás az éghajlati változások kutatásához.",
+        "Több ezer éves művészeti hagyomány.",
+        "Vizsgálható őskori örökség."
+      ]
+    }
+  ]
+}

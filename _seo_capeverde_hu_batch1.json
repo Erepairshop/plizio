@@ -1,0 +1,247 @@
+{
+  "lang": "hu",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "biblioteca-nacional-landmarks-v2",
+      "descriptionAdvanced": "A Zöld-foki Nemzeti Könyvtár (Biblioteca Nacional de Cabo Verde) Praia történelmi Plateau negyedében található, és az ország legfontosabb irodalmi és dokumentumfilmes örökségének őrzője. Az 1999-ben alapított intézmény a nemzeti emlékezet központja, amely több ezer kötetet, ritka koloniális kéziratokat és neves zöld-foki írók kortárs műveit gyűjti össze. A könyvtár nem csupán könyvraktár, hanem aktív kulturális központ is, ahol rendszeresen tartanak könyvbemutatókat, irodalmi vitákat és oktatási programokat az olvasás népszerűsítésére. Modern építészete jól tükrözi a nemzet tudás és művelődés iránti elkötelezettségét. Az intézmény emellett koordinálja az országos nyilvános könyvtári hálózatot, és alapvető szerepet játszik a digitális írástudás fejlesztésében. A csendes tanulóhelyiségek diákokat és kutatókat vonzanak Santiago egész szigetéről, biztosítva az információhoz való hozzáférést minden állampolgár számára.",
+      "factsAdvanced": [
+        "A Zöld-foki-szigetek legfontosabb könyvtári intézménye.",
+        "1999-ben alapították Praia Plateau negyedében.",
+        "Az ország kötelespéldány-könyvtáraként működik.",
+        "Ritka gyarmati kori kéziratokat és dokumentumokat őriz.",
+        "Irodalmi viták és kulturális események központi helyszíne.",
+        "Aktívan népszerűsíti a zöld-foki szerzőket és a nemzeti irodalmat.",
+        "Koordinálja az ország összes nyilvános könyvtárának hálózatát.",
+        "Fontos oktatási központ a Santiago szigetén tanuló diákok számára."
+      ]
+    },
+    {
+      "id": "estatua-amilcar-cabral-landmarks-v2",
+      "descriptionAdvanced": "Az Amílcar Cabral-szobor Praia városában a Zöld-foki-szigetek és Bissau-Guinea legnagyobb nemzeti hősének állít emléket. A történelmi Plateau negyed bejáratánál, egy tágas téren elhelyezett emlékmű azt a forradalmi vezetőt ábrázolja, aki kidolgozta és vezette a portugál gyarmatosítás elleni függetlenségi harcot. Cabral nem csupán katonai stratéga volt, hanem nemzetközi hírű értelmiségi és költő is, akinek a kultúráról és szabadságról alkotott filozófiája ma is inspirálja az afrikai kontinenst. A szobor a nemzeti büszkeség és az afrikai méltóság jelképe, ahol a fontos állami ünnepek alkalmával koszorúzási ceremóniákat tartanak. Impozáns jelenléte emlékezteti a járókelőket a szuverenitásért hozott áldozatokra. Az alkotást gyakran a 'nemzet atyjaként' tisztelik, és központi szerepet játszik a modern zöld-foki identitás megértésében.",
+      "factsAdvanced": [
+        "A nemzet atyjaként tisztelt Amílcar Cabral monumentális szobra.",
+        "Praia történelmi Plateau negyedének főbejáratánál található.",
+        "A függetlenség napján zajló állami ünnepségek központi helyszíne.",
+        "A gyarmati elnyomás felett aratott győzelem egyik legfőbb jelképe.",
+        "Az afrikai egység és a zöld-foki identitás fontos inspirációs forrása.",
+        "Gyakran látogatott emlékhely a hazafias megemlékezések alkalmával.",
+        "A szigetcsoport egyik legjelentősebb és legismertebb köztéri szobra.",
+        "Amílcar Cabral forradalmi és intellektuális örökségét hirdeti."
+      ]
+    },
+    {
+      "id": "monumento-martires-pindjiguiti-landmarks-v2",
+      "descriptionAdvanced": "A Pindjiguiti mártírjainak emlékműve Mindelo kikötői övezetében a nemzeti felszabadító harc egyik tragikus, de döntő eseményére emlékeztet. Az emlékmű az 1959-es bissaui kikötői mészárlás áldozatai előtt tiszteleg, ahol a gyarmati erők sztrájkoló tengerészeket és rakodómunkásokat öltek meg. Ez az esemény váltotta ki a PAIGC által vezetett fegyveres ellenállást a portugál uralommal szemben. A műalkotást egy földből kiemelkedő hatalmas fekete kéz szimbolizálja, amely a nép erejét és az elnyomással szembeni szívós ellenállást jelképezi. Mindelói elhelyezése hangsúlyozza a szigetek és az afrikai kontinens közötti szolidaritást a szabadságért folytatott közös küzdelemben. Ez egy komor emlékhely, amely arra tanítja a látogatókat, hogy milyen nagy árat fizetett az ország a függetlenségért. Az emlékmű a társadalmi igazságosság és a munkások jogainak mementójaként is szolgál a régióban.",
+      "factsAdvanced": [
+        "Az 1959-es bissaui kikötői munkások mészárlásának emlékhelye.",
+        "A népi ellenállást egy markáns, fekete kéz szobra jelképezi.",
+        "Az esemény a fegyveres függetlenségi harc egyik fő kiváltó oka volt.",
+        "Mindelo Porto Grande kikötőjének frekventált területén található.",
+        "A Zöld-foki-szigetek és Bissau-Guinea közötti történelmi szolidaritás jele.",
+        "A nemzeti felszabadítási mozgalom egyik legfontosabb emlékműve.",
+        "Fontos helyszín a politikai nevelés és a történelmi emlékezet számára.",
+        "Látványos tájékozódási pont São Vicente szigetének tengerparti részén."
+      ]
+    },
+    {
+      "id": "palacio-governador-mindelo-landmarks-v2",
+      "descriptionAdvanced": "A mindelói Kormányzói Palota (ma Palácio do Povo, azaz a Nép Palotája) a Zöld-foki-szigetek egyik legelegánsabb épülete, amely São Vicente szigetének gyarmati építészeti csúcspontját képviseli. A 19. században épült palota eredetileg a portugál korona képviselőinek rezidenciája volt, tanúskodva Mindelo aranykoráról, amikor a város nemzetközi tengeri csomópontként virágzott. Neoklasszicista stílusjegyei, szimmetrikus homlokzata és tágas belső udvarai az adminisztratív tekintélyt és a sziget fontosságát sugározzák. A függetlenség elnyerése után az épületet átnevezték, és kulturális, valamint protokolláris célokra hasznosították. Ma művészeti kiállításoknak és hivatalos rendezvényeknek ad otthont, miközben Mindelo történelmi kifinomultságának szimbóluma marad. Élénk színeivel és fenséges megjelenésével a történelmi városközpont egyik legmeghatározóbb tájékozódási pontja.",
+      "factsAdvanced": [
+        "Mindelo legimpozánsabb 19. századi gyarmati épülete.",
+        "Eredetileg a portugál kormányzók hivatalos rezidenciája volt.",
+        "1975 után kapta a Palácio do Povo (A Nép Palotája) nevet.",
+        "A neoklasszicista szigeti építészet egyik kiemelkedő példája.",
+        "Ma kortárs művészeti kiállításoknak és múzeumnak ad otthont.",
+        "São Vicente kulturális szívében, a kikötő közelében fekszik.",
+        "Híres tágas belső kertjeiről és elegáns belső tereiről.",
+        "Mindelo atlanti-óceáni stratégiai fontosságának történelmi jelképe."
+      ]
+    },
+    {
+      "id": "mercado-municipal-mindelo-landmarks-v2",
+      "descriptionAdvanced": "A mindelói Városi Piac (Mercado Municipal) egy élettel és színekkel teli hely, amely São Vicente szigetének gasztronómiai és társadalmi központját alkotja. A kétszintes történelmi épületben helyet kapó piacon a helyiek az Atlanti-óceánból frissen fogott halakat, a szomszédos Santo Antão zöld völgyeiből származó zöldségeket és egzotikus trópusi gyümölcsöket vásárolnak. A földszintet a halászati szektor uralja, ahol a látogatók megcsodálhatják a szigetcsoport tengeri élővilágának gazdag választékát. Az emeleten a standok roskadoznak a fűszerektől, gabonaféléktől és a helyi kézműves termékektől, mint például a hagyományos szappanok és a grogue. A piac nem csupán kereskedelmi központ, hanem a közösségi élet színtere is, ahol a kreol nyelv vibráló ritmusában cserélnek gazdát a legfrissebb hírek. Az utazók számára ez a tökéletes hely Mindelo autentikus mindennapjainak és ízeinek felfedezésére.",
+      "factsAdvanced": [
+        "Mindelo központi piactere és a sziget társadalmi szíve.",
+        "Egy jellegzetes gyarmati stílusú, kétszintes épületben működik.",
+        "A friss halak és tenger gyümölcseinek legfontosabb beszerzési helye.",
+        "Itt árusítják a szomszédos Santo Antão sziget mezőgazdasági termékeit.",
+        "A hagyományos gyógynövények és fűszerek széles választéka található itt.",
+        "Híres vibráló, autentikus piaci hangulatáról és vendégszeretetéről.",
+        "A város kereskedelmi központjában, frekventált helyen fekszik.",
+        "Kiváló hely a helyi grogue és kézműves termékek vásárlására."
+      ]
+    },
+    {
+      "id": "igreja-nossa-senhora-luz-mindelo-landmarks-v2",
+      "descriptionAdvanced": "A mindelói Nossa Senhora da Luz-templom São Vicente szigetének legrégebbi és legfontosabb vallási intézménye. A 19. század közepén épült templomot építészeti letisztultság és ragyogó fehér szín jellemzi, amely éles kontrasztban áll a környező színes épületekkel. A történelmi városközpontban található templom a város alapítása óta a közösség szellemi fókusza, és a sziget védőszentjének szentelték. Belső tere józan eleganciát sugároz, hívogatva a hívőket és a látogatókat a csendes elmélyülésre a kikötő nyüzsgő városi forgatagában. Ez a helyszín ad otthont Mindelo legfontosabb keresztelőinek, esküvőinek és vallási ünnepeinek, különösen a szeptemberi búcsúnak. A templom a zöld-foki nép állhatatosságának és hitének emlékműve, amely évszázadokon át tartást adott a közösségnek a nehéz időkben és aszályok idején.",
+      "factsAdvanced": [
+        "São Vicente szigetének legrégebbi katolikus temploma.",
+        "Mindelo védőszentjének, a Fény Asszonyának szentelték.",
+        "A 19. század közepén épült, klasszikus neoklasszicista stílusban.",
+        "A történelmi kikötőnegyed központi szakrális építménye.",
+        "A minden év szeptemberében megrendezett védőszent-ünnep központja.",
+        "Mindelo városának egyik legfontosabb történelmi műemléke.",
+        "Híres egyszerű eleganciájáról és nyugodt spirituális légköréről.",
+        "Szemtanúja volt Mindelo modern nagyvárossá válásának."
+      ]
+    },
+    {
+      "id": "farol-d-luis-landmarks-v2",
+      "descriptionAdvanced": "Az Ilhéu dos Pássaros világítótorony, hivatalos nevén Farol de D. Luís, egy ikonikus tájékozódási pont, amely a Mindelói-öböl bejáratánál, egy kis sziklás szigeten található. Az 1882-ben, I. Lajos portugál király tiszteletére emelt építmény az első kép, amellyel a tengerészek találkoznak, amikor megközelítik São Vicente Porto Grande kikötőjét. Fehér sziluettje a meredek sziklák tetején Mindelo egyik legtöbbet fotózott szimbóluma. A világítótorony döntő szerepet játszott a gőzhajózás aranykorában, biztonságosan vezetve a hatalmas hajókat Nyugat-Afrika legjobb természetes kikötőjébe. Bár lakatlan szigeten áll, fénye minden éjjel villog, emlékeztetve a szigetcsoport dicső tengeri örökségére. A gyarmati mérnöki tudomány emlékműve, amely évtizedek óta dacol az óceán erejével, és mélyen gyökerezik a helyi kultúrában, a morna dalokban és az irodalomban.",
+      "factsAdvanced": [
+        "A Porto Grande-öböl közepén található Ilhéu dos Pássaros szikláján áll.",
+        "1882-ben helyezték üzembe I. Lajos portugál király uralkodása alatt.",
+        "A stratégiai fontosságú mindelói kikötő bejáratát jelzi.",
+        "A helyi morna zenékben és irodalomban gyakran szereplő motívum.",
+        "Klasszikus, fehérre meszelt falazott torony extrém kitett helyen.",
+        "Nélkülözhetetlen navigációs jelzés az atlanti tengeri forgalomnak.",
+        "São Vicente szigetének egyik legismertebb vizuális jelképe.",
+        "Mindelo tengeri lelkének és történelmének néma őre."
+      ]
+    },
+    {
+      "id": "camara-municipal-sv-landmarks-v2",
+      "descriptionAdvanced": "São Vicente városháza Mindelo lüktető központjában egy impozáns gyarmati épület, amely a sziget adminisztratív jelentőségét tükrözi. Az épületet kiegyensúlyozott építészet, magas ablakok és pasztellszínű homlokzat jellemzi – a helyi kormányzás és a polgári identitás szimbóluma. A kikötő közelében elhelyezkedő városháza szemtanúja volt Mindelo fejlődésének, amint egyszerű szénállomásból az Atlanti-óceán kulturális fővárosává vált. Az épület előtti tér a polgárok találkozóhelye, számos ünnepség és nyilvános esemény központja. A városháza nem csupán hivatali helyiség, hanem a városi hagyományok és a közrend őrzője is a szigeten. Alapvető vizuális horgonyként szolgál, amely meghatározza Mindelo arisztokratikus és rendezett városképét. A jól megőrzött neoklasszicista stílus az intézményi folytonosságot jelképezi a gyarmati korszaktól a modern köztársaságig.",
+      "factsAdvanced": [
+        "São Vicente szigeti önkormányzatának hivatalos székhelye.",
+        "Pompás 19. századi neoklasszicista építészeti emlék.",
+        "Mindelo városfejlesztésének és közigazgatásának központja.",
+        "A történelmi városközpont egyik legfrekventáltabb pontján található.",
+        "A polgári büszkeség és az intézményi történelem fontos jelképe.",
+        "Hivatalos állami fogadások és ünnepi ceremóniák helyszíne.",
+        "A portugál adminisztratív építészet kiválóan megőrzött példája.",
+        "Meghatározó épület a város kulturális és politikai életében."
+      ]
+    },
+    {
+      "id": "liceu-gil-eanes-landmarks-v2",
+      "descriptionAdvanced": "A mindelói Gil Eanes Líceum (ma Escola Secundária Jorge Barbosa) a Zöld-foki-szigetek egyik legtekintélyesebb és történelmileg legjelentősebb oktatási intézménye, amely alapvető szerepet játszott az ország értelmiségi elitjének formálásában. A városközpontban található impozáns épület a sziget oktatás és kultúra iránti elkötelezettségének jelképe a gyarmati korszak óta. A zöld-foki nemzeti identitást meghatározó írók, politikusok és művészek közül sokan koptatták e gimnázium padjait. Az épület építészete akadémiai szigort és presztízst tükröz, meghatározva Mindelo városképét. A líceum ma is a tudás világítótornya, amely magas oktatási színvonalat tart fenn, és kritikai, kreatív értékeket közvetít. Ez a szigetcsoport szellemi történetének élő emlékműve, és a függetlenségi mozgalom egyik fontos bölcsője, ahol a nemzet jövőjét meghatározó eszmék születtek.",
+      "factsAdvanced": [
+        "Az ország legrégebbi és leghíresebb gimnáziuma, 1917-ben alapították.",
+        "A zöld-foki szellemi és politikai elit képzésének fő központja.",
+        "A nemzeti identitás kialakulásának egyik legfontosabb bölcsője.",
+        "A híres portugál tengerhajózóról, Gil Eanesről kapta eredeti nevét.",
+        "Pompás gyarmati épület tágas belső udvarral és klasszikus termekkel.",
+        "Kulcsszerepet játszott az antikoloniális mozgalmak fejlődésében.",
+        "Ma Jorge Barbosa költő nevét viseli a középiskola.",
+        "São Vicente szigetének magas oktatási színvonalát jelképezi."
+      ]
+    },
+    {
+      "id": "cnad-mindelo-landmarks-v2",
+      "descriptionAdvanced": "A mindelói Nemzeti Kézműves és Design Központ (CNAD) egy forradalmi kulturális intézmény, amely egy látványos modern épületben kapott helyet, melynek homlokzatát több mint 2500 színes fém hordófedél borítja. Ez az innovatív kialakítás a város kikötői múltját és a zöld-fokiak találékony újrahasznosítási szellemét szimbolizálja. A CNAD a helyi művészek központjaként szolgál, népszerűsítve a hagyományos technikákat, mint a szövés és a fazekasság, valamint a kortárs designt. A központ kulcsszerepet játszik a szellemi kulturális örökség megőrzésében, miközben kiállítási és kísérletezési teret biztosít a kreatívok új generációinak. Mindelo mint a kreativitás fővárosának szimbóluma, ahol a hagyomány vibráló módon találkozik a jövővel. A látogatók itt felfedezhetik a szigetcsoport művészi lelkét olyan egyedi tárgyakon keresztül, amelyek a kulturális ellenállóképességről és a kreol identitásról mesélnek.",
+      "factsAdvanced": [
+        "A kézművesség és a design népszerűsítésének nemzeti központja.",
+        "Egyedülálló homlokzata 2500 darab színes hordófedélből készült.",
+        "Támogatja a hagyományos 'Panu di Terra' szövőművészet megőrzését.",
+        "Multidiszciplináris tér művészeti műhelyekkel és galériákkal.",
+        "Az egykori konzulátus felújított épületében és egy modern szárnyban működik.",
+        "A helyi kreatív gazdaság legfontosabb motorja São Vicente szigetén.",
+        "Modern építészeti fénypont a történelmi Mindelo városképében.",
+        "A hagyományos népművészet és a modern design találkozási pontja."
+      ]
+    },
+    {
+      "id": "estadio-aderito-sena-landmarks-v2",
+      "descriptionAdvanced": "Az Adérito Sena Stadion Mindelo és São Vicente szigetének legfontosabb sportarénája, ahol a helyiek futball iránti szenvedélye eléri csúcspontját. A legendás helyi sportolóról elnevezett stadion a számos hagyományőrző mindelói futballklub otthonaként szolgál. A bajnoki mérkőzések hangulata messze földön híres, tükrözve a közösség versenyszellemét és a sport szeretetét. Az arénát nemrégiben modern műfűvel korszerűsítették, ami lehetővé teszi a játékot optimális körülmények között az év minden szakában. A labdarúgás mellett a stadion atlétikai versenyeknek és nagyszabású koncerteknek is otthont ad, így São Vicente ifjúságának alapvető társadalmi központja. Ez az a hely, ahol számos tehetség született, akik később neves európai bajnokságokban játszottak, nemzetközi szinten képviselve a Zöld-foki-szigetek színeit.",
+      "factsAdvanced": [
+        "São Vicente fő sportlétesítménye labdarúgáshoz és atlétikához.",
+        "A tradicionális mindelói futballklubok központi bázisa.",
+        "A zöld-foki sportikonról, Adérito Senáról nevezték el.",
+        "A sziget szenvedélyes futballkultúrájának legfőbb színtere.",
+        "Modern műfüves borítással és éjszakai világítással felszerelt.",
+        "Rendszeres helyszíne a nemzeti bajnokság döntő mérkőzéseinek.",
+        "Nemzetközi zenei fesztiválok és koncertek kedvelt helyszíne.",
+        "A sziget sportkedvelő ifjúságának központi találkozóhelye."
+      ]
+    },
+    {
+      "id": "aeroporto-amilcar-cabral-landmarks-v2",
+      "descriptionAdvanced": "Az Amílcar Cabral Nemzetközi Repülőtér Sal szigetén a Zöld-foki-szigetek legfontosabb légiközlekedési kapuja és egy történelmi logisztikai csomópont az Atlanti-óceán közepén. Az olaszok által 1939-ben felavatott repülőtér döntő stratégiai szerepet játszott az Európa, Afrika és Dél-Amerika közötti transzatlanti járatok üzemanyag-felvételi állomásaként. Ma a nemzeti hős, Amílcar Cabral nevét viseli, és a Sal szigetének gazdaságát hajtó tömegturizmus fő motorja. Modern létesítményei naponta több tucat nemzetközi járatot fogadnak, összekötve a szigetcsoportot az európai nagyvárosokkal. A repülőtér híres rendkívül hosszú kifutópályájáról, amely a múltban a NASA űrsiklóinak kényszerleszállóhelyeként is szolgált. A konnektivitás és a világ felé való nyitottság jelképe marad, alkotva a nemzeti utazási iparág logisztikai gerincét.",
+      "factsAdvanced": [
+        "Az ország első nemzetközi repülőtere, 1939-ben nyílt meg.",
+        "Történelmi jelentőségű transzatlanti üzemanyagtöltő állomás.",
+        "A függetlenségi harcosról, Amílcar Cabralról nevezték el.",
+        "Nyugat-Afrika egyik leghosszabb kifutópályájával rendelkezik (3200m+).",
+        "A NASA egyik kijelölt kényszerleszállóhelye volt az űrsiklók számára.",
+        "A Sal szigeti nemzetközi turizmus legfőbb belépési pontja.",
+        "A nemzeti légitársaság központi bázisa és operatív központja.",
+        "A szigetcsoport ellátásának kulcsfontosságú logisztikai bázisa."
+      ]
+    },
+    {
+      "id": "igreja-nossa-senhora-conceicao-landmarks-v2",
+      "descriptionAdvanced": "A São Filipe-i Nossa Senhora da Conceição-templom Fogo szigetén az ország egyik legemblematikusabb és legtöbbet fotózott vallási műemléke, elsősorban élénk kék színe miatt. A 19. században épült templom a történelmi város központi terét uralja, tükrözve a gyarmati örökséget és a vulkáni sziget lakóinak mély katolikus hitét. Letisztult építészete klasszikus vonalakkal és szimmetrikus tornyokkal látványos kontrasztot alkot a fekete vulkáni talajjal és a sziget ragyogó egével. Belsejében művészien faragott oltárok és a helyi hagyományban tisztelt szentek szobrai találhatók. A templom a védőszent tiszteletére rendezett éves ünnepségek központja, amely Fogo legfontosabb kulturális és vallási eseménye. Szellemi horgonyként szolgál, amely dacol az idővel és a sziget zord éghajlati kihívásaival, megőrizve a közösség identitását.",
+      "factsAdvanced": [
+        "Világszerte híres az élénk kék színű homlokzatáról.",
+        "A 19. században épült São Filipe szívében, gyarmati stílusban.",
+        "A vulkáni Fogo sziget legfontosabb szakrális jelképe.",
+        "A december 8-i védőszent-ünnepségek központi helyszíne.",
+        "A gyarmati szakrális építészet egyik legszebb példája az országban.",
+        "A történelmi 'sobrado' negyed közvetlen közelében fekszik.",
+        "Értékes, hagyományos faragott faoltárokat őriz a belső terében.",
+        "Fogo lakóinak vallási és kulturális önazonosságának építészeti szimbóluma."
+      ]
+    },
+    {
+      "id": "camara-municipal-rg-landmarks-v2",
+      "descriptionAdvanced": "Ribeira Grande városháza Santo Antão szigetének északi részén egy impozáns történelmi épület, amely az ország egyik leghegyesebb és legzöldebb körzetének adminisztratív központja. Az építmény letisztult és kiváló állapotban megőrzött építészete a régió adminisztratív rendjét és stabilitását tükrözi. A város szívében elhelyezkedő városháza a mély völgyek mezőgazdasági közösségeit érintő döntések központi helyszíne. Klasszikus homlokzata a várost körülvevő gigantikus hegyekre néz, emlékezetes vizuális hátteret teremtve. Az intézmény döntő szerepet játszik a vidékfejlesztés és a gyalogos turizmus népszerűsítésében, amely a sziget egyik növekvő gazdasági ágazata. A városháza a polgári tekintély és az északi lakosok büszkeségének szimbóluma marad a szigetcsoport egyik legrégebbi és legkarakteresebb településén.",
+      "factsAdvanced": [
+        "Santo Antão északi részének központi adminisztratív épülete.",
+        "Egy robusztus, jól karbantartott gyarmati épületben székel.",
+        "Az ország egyik legtermékenyebb mezőgazdasági régióját irányítja.",
+        "A völgyekben élő lakosság ügyintézésének legfőbb helyszíne.",
+        "A települési autonómia és a polgári rend jelképe a hegyvidéken.",
+        "A sziget stratégiai közlekedési csomópontjában helyezkedik el.",
+        "Északi Santo Antão legrégebbi településének történelmi emléke.",
+        "Aktívan támogatja a régió fenntartható vándor-turizmusát."
+      ]
+    },
+    {
+      "id": "farol-fontainhas-landmarks-v2",
+      "descriptionAdvanced": "A Fontainhas világítótorony (más néven Farol de Ponta do Sol) Santo Antão északi partjának egy elszigetelt szikláján áll, az egész szigetcsoport egyik legdrámaibb kilátását kínálva. A tornyot azért építették, hogy a hajókat a sziget meredek és veszélyes partjai mentén vezesse, a tengeri mérnöki tudomány emlékműveként dacolva a rendkívül nehéz terepviszonyokkal. A toronyhoz vezető út a világviszonylatban is híres Fontainhas falun keresztül vezet, amely a szakadék szélén fekvő házairól ismert. Maga a világítótorony egy szerény, de létfontosságú szerkezet, amelynek fénye áthatol az Atlanti-óceán északi, gyakran viharos vizein. Helyszíne egyedülálló betekintést nyújt az óceán erejébe, amely Santo Antão szaggatott domborzatát formálta. Felejthetetlen úti cél a túrázók számára, akik szeretnék felfedezni az ország legészakibb földrajzi határait.",
+      "factsAdvanced": [
+        "A Zöld-foki szigetcsoport legészakibb fekvésű világítótornya.",
+        "Az Atlanti-óceán feletti szédítő sziklafalon helyezkedik el.",
+        "A Santo Antão és São Vicente közötti veszélyes átjárót biztosítja.",
+        "Csak egy látványos part menti túraútvonalon keresztül érhető el.",
+        "A világhírű Fontainhas hegyi falu közvetlen közelében található.",
+        "A szigetlakók tengeri kitartásának és szívósságának jelképe.",
+        "A szigetcsoport egyik legvadabb partszakaszát jelöli ki.",
+        "A gőzhajózás korszakából származó történelmi navigációs jelzés."
+      ]
+    },
+    {
+      "id": "centro-cultural-mindelo-landmarks-v2",
+      "descriptionAdvanced": "A mindelói Kulturális Központ (Centro Cultural do Mindelo) a Zöld-foki-szigetek vezető művészeti fóruma, amely az egykori kikötői vámhivatal fenségesen felújított történelmi épületében kapott helyet. Ez az építészeti gyöngyszem São Vicente kulturális életének lüktető szíve, ahol nemzetközi színházi fesztiválokat, jazzkoncerteket, képzőművészeti kiállításokat és hagyományos zenei előadásokat tartanak. A központ emellett műteremként is szolgál a helyi művészek számára, valamint workshopoknak és közösségi oktatási programoknak ad otthont. Közvetlenül Mindelo tengerpartján fekvő helyszíne a város társadalmi szövetének elválaszthatatlan részévé teszi. Az intézmény a sziget kreativitás iránti elkötelezettségének és az atlanti kultúrák találkozási pontjaként betöltött szerepének állít emléket. Mindelo gazdag művészeti örökségét ápolja, vonzva az értelmiségieket és a művészetkedvelőket a világ minden tájáról.",
+      "factsAdvanced": [
+        "Az ország legfontosabb művészeti és színházi rendezvényhelyszíne.",
+        "A történelmi 'Alfandega' (egykori vámház) épületében működik.",
+        "A híres nemzetközi 'Mindelact' színházi fesztivál fő helyszíne.",
+        "A jazz, a komolyzene és a hagyományos morna koncertek központja.",
+        "Számos művészeti galériát és kreatív műhelyt foglal magában.",
+        "Ikonikus építmény közvetlenül a mindelói tengerparti sétányon.",
+        "São Vicente szigetének kulturális identitását meghatározó intézmény.",
+        "Ötvözi a gyarmati építészetet a legmodernebb művészeti törekvésekkel."
+      ]
+    },
+    {
+      "id": "ponte-ferro-rg-landmarks-v2",
+      "descriptionAdvanced": "A Ribeira Grande-i Vashíd (Ponte de Ferro) az ipari építészet figyelemre méltó alkotása Santo Antão szigetén, a város szívében. A gyarmati időszakban épült híd célja az volt, hogy megkönnyítse az áruk és személyek mozgását a mély folyóvölgy két oldala között, ami korában jelentős mérnöki teljesítménynek számított. Szegecselt fémszerkezetével és ipari megjelenésével érdekes kontrasztot alkot a város hagyományos építészetével és a zöld hegyi háttérrel. A híd ma is használatban van, a helyi gyalogos és autóforgalom létfontosságú ütőereként szolgál. Kiváló kilátópontot kínál a folyó folyásának és Ribeira Grande mindennapi nyüzsgésének megfigyelésére. A 'Ponte de Ferro' több mint egyszerű közlekedési útvonal; az emberi találékonyság emlékműve, amely a szigetcsoport nehéz domborzati viszonyai között biztosítja az összeköttetést.",
+      "factsAdvanced": [
+        "A korai ipari korszakból származó történelmi rácsos szerkezetű híd.",
+        "Ribeira Grande legjelentősebb technikai és mérnöki műemléke.",
+        "A mély Ribeira Grande-völgy felett ível át, összekötve a városrészeket.",
+        "Úgy tervezték, hogy ellenálljon a szezonális hegyi áradásoknak.",
+        "A legfontosabb összekötő kapocs a település északi részei között.",
+        "A gyarmati kori fémépítészet ritka és jól megőrzött példája.",
+        "Santo Antão infrastruktúra-modernizációjának történelmi jelképe.",
+        "A legjobb kilátást nyújtja a város alatti buja folyóvölgyre."
+      ]
+    }
+  ]
+}

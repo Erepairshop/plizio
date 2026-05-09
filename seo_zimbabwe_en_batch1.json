@@ -1,0 +1,139 @@
+{
+  "lang": "en",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "harare-cities-v2",
+      "descriptionAdvanced": "Harare, the vibrant capital and largest city of Zimbabwe, is situated at an elevation of 1,483 meters on the highveld. Founded in 1890 as Fort Salisbury, it has evolved into a modern political and economic hub. The city is renowned for its wide, tree-lined boulevards, iconic jacaranda blooms, and a dynamic mix of colonial-era heritage and contemporary architecture. As the country's center for education and governance, it houses the University of Zimbabwe and key administrative institutions, serving as a gateway for both tourism and regional trade.",
+      "factsAdvanced": [
+        "Established in 1890 as Fort Salisbury.",
+        "Situated at an altitude of approximately 1,483 meters.",
+        "Population exceeds 2 million in the metropolitan area.",
+        "Serves as the nation's political and administrative hub.",
+        "Climate is a mild subtropical highland type.",
+        "Features the National Heroes Acre monument.",
+        "Known for its distinctive purple jacaranda trees."
+      ]
+    },
+    {
+      "id": "bulawayo-cities-v2",
+      "descriptionAdvanced": "Bulawayo, Zimbabwe's second-largest city, is famously known as the 'City of Kings' due to its rich Ndebele history and proximity to the UNESCO-listed Khami Ruins. Unlike Harare, the city maintains a distinct industrial character and is defined by its exceptionally wide, grid-planned streets originally designed to turn ox-wagons. It remains a key transport node and cultural center, providing a vital gateway to the natural wonders of the Matobo National Park and the country's southwestern industrial corridor.",
+      "factsAdvanced": [
+        "Known historically as the 'City of Kings'.",
+        "Second-largest city in Zimbabwe by population.",
+        "Major industrial and rail transport hub.",
+        "Home to the Zimbabwe Natural History Museum.",
+        "Located near the UNESCO-inscribed Khami Ruins.",
+        "Features unique grid-based urban street planning.",
+        "Serves as a gateway to the Matobo National Park."
+      ]
+    },
+    {
+      "id": "chitungwiza-cities-v2",
+      "descriptionAdvanced": "Chitungwiza, a massive dormitory town located about 30 kilometers south of Harare, grew rapidly in the 1970s to accommodate the urban influx of the capital. It serves as a vital residential center for thousands of workers who commute daily to Harare. Despite its primary residential character, the town boasts a vibrant local culture, highlighted by bustling street markets and an independent local administration, making it one of the most densely populated urban centers in the country.",
+      "factsAdvanced": [
+        "Rapidly developed starting in the 1970s.",
+        "Located 30 kilometers south of Harare.",
+        "Primary function as a residential commuter town.",
+        "One of Zimbabwe's most densely populated areas.",
+        "Known for lively local markets like Unit L Market.",
+        "Operates under its own independent local authority.",
+        "Dynamic center for rural-to-urban migrants."
+      ]
+    },
+    {
+      "id": "mutare-cities-v2",
+      "descriptionAdvanced": "Mutare, nestled in the scenic Eastern Highlands, serves as Zimbabwe's vital gateway to Mozambique. As the fourth-largest city, it is celebrated for its lush mountain backdrop, temperate climate, and proximity to major tourist resorts like Bvumba and Nyanga. Economically, Mutare is a strategic logistic link for trade between Zimbabwe and the Mozambican port of Beira, while its surrounding fertile lands sustain a robust industry based on tea, coffee, and timber production.",
+      "factsAdvanced": [
+        "Founded in 1897 within the Eastern Highlands.",
+        "Serves as the gateway to the Mozambique border.",
+        "Fourth-largest city in Zimbabwe.",
+        "Proximity to Bvumba and Nyanga mountain resorts.",
+        "Key logistic hub for trade to the port of Beira.",
+        "Primary industry includes timber, tea, and coffee.",
+        "Renowned for its mountainous and lush landscape."
+      ]
+    },
+    {
+      "id": "gweru-cities-v2",
+      "descriptionAdvanced": "Gweru is a pivotal city in Zimbabwe, serving as the administrative seat of the Midlands province. Founded in 1894, it sits centrally within the country’s agricultural and mining heartland. The city is a crucial node in Zimbabwe’s national rail network and is home to the prestigious Midlands State University, which bolsters its academic profile. Furthermore, its proximity to notable eco-tourism sites like the Antelope Park has established Gweru as a key intersection for both industrial logistics and wildlife conservation efforts.",
+      "factsAdvanced": [
+        "Serves as the capital of the Midlands province.",
+        "Founded during the colonial period in 1894.",
+        "A critical hub for the national rail network.",
+        "Hosts the Midlands State University campus.",
+        "Center for agriculture and regional mining logistics.",
+        "Proximity to Antelope Park promotes eco-tourism.",
+        "Central location in Zimbabwe's national geography."
+      ]
+    },
+    {
+      "id": "kwekwe-cities-v2",
+      "descriptionAdvanced": "Kwekwe is a fundamental industrial city in the Midlands province, with its history deeply rooted in the gold rushes of the early 20th century. Today, it stands as a cornerstone of Zimbabwe's heavy industry, specifically dominating in steel production and metallurgical processing. The city's economic legacy and its crucial role in national development are documented at the National Mining Museum of Zimbabwe, which highlights how Kwekwe transitioned from a mining settlement into an essential manufacturing powerhouse.",
+      "factsAdvanced": [
+        "Founded as a mining settlement in 1902.",
+        "Historical site of the Globe and Phoenix mine.",
+        "Main hub for Zimbabwe's steel industry.",
+        "Hosts the National Mining Museum of Zimbabwe.",
+        "Located centrally between Harare and Bulawayo.",
+        "Economy dominated by metalwork and steel production.",
+        "Key link in the Midlands industrial corridor."
+      ]
+    },
+    {
+      "id": "kadoma-cities-v2",
+      "descriptionAdvanced": "Kadoma, located in the agriculturally fertile Mashonaland West province, has transformed from an early mining outpost into a key industrial center. The city is particularly famous for its thriving cotton and textile sectors, which form the backbone of its local economy. Surrounded by vast commercial farmlands, Kadoma acts as a critical commercial hub for agricultural processing, while still maintaining pockets of small-scale gold mining that remind the city of its historical roots in resource extraction.",
+      "factsAdvanced": [
+        "Founded in 1902 as Gatooma.",
+        "Major hub for cotton and textile manufacturing.",
+        "Serves as a primary center for agricultural processing.",
+        "Situated in the fertile Mashonaland West region.",
+        "Features ongoing small-scale gold mining projects.",
+        "Vital commercial node for local agricultural trade.",
+        "Known for its integrated agro-industrial profile."
+      ]
+    },
+    {
+      "id": "masvingo-cities-v2",
+      "descriptionAdvanced": "Masvingo holds the distinction of being the oldest colonial settlement in Zimbabwe and acts as the essential tourist gateway to the UNESCO World Heritage site of Great Zimbabwe. This medieval city of ruins attracts international scholars and travelers, making tourism a cornerstone of Masvingo’s local economy. Furthermore, the city is a vital administrative center supported by intense local agriculture and the proximity of Lake Mutirikwi, a major reservoir that provides critical irrigation resources for the surrounding Masvingo province.",
+      "factsAdvanced": [
+        "Founded in 1890 as the oldest colonial settlement.",
+        "Serves as the gateway to the Great Zimbabwe ruins.",
+        "Site is a UNESCO World Heritage cultural location.",
+        "Close to Lake Mutirikwi, a major water reservoir.",
+        "Provincial administrative capital for Masvingo.",
+        "Key tourist hub in southern Zimbabwe.",
+        "Supports intense regional agriculture and farming."
+      ]
+    },
+    {
+      "id": "chinhoyi-cities-v2",
+      "descriptionAdvanced": "Chinhoyi, the administrative center of Mashonaland West, is strategically positioned along the main A1 highway connecting Zimbabwe to Zambia. The city is globally recognized for the Chinhoyi Caves, a spectacular karst system containing an intensely blue natural underground lake, designated as a national monument. Beyond its status as a major tourism and geological landmark, Chinhoyi thrives on a highly productive agricultural base, which ensures the town's economic stability and serves as a bustling trading center for the northern region.",
+      "factsAdvanced": [
+        "Administrative seat of Mashonaland West province.",
+        "Historically founded under the name Sinoia.",
+        "Home to the Chinhoyi Caves national monument.",
+        "Features a natural, deep-blue underground lake.",
+        "Strategically located on the A1 route to Zambia.",
+        "Surrounded by highly fertile and productive farmland.",
+        "Renowned center for geological-based tourism."
+      ]
+    },
+    {
+      "id": "norton-cities-v2",
+      "descriptionAdvanced": "Norton is a rapidly expanding town located approximately 40 kilometers west of Harare, serving as both a key industrial node and a major residential hub for commuters working in the capital. Its industrial landscape has diversified significantly in recent years, with strong output in paper and plastic production. By integrating closely with Harare’s metropolitan economy while remaining surrounded by productive agricultural lands, Norton has successfully positioned itself as an attractive location for young families and industrial investment.",
+      "factsAdvanced": [
+        "Originally established as an agricultural settlement.",
+        "Strategically situated 40 km west of Harare.",
+        "Key residential town for metropolitan commuters.",
+        "Hosts substantial paper and plastic manufacturing.",
+        "Rapid infrastructural development in recent years.",
+        "Deeply integrated with the Harare economy.",
+        "Surrounded by large tracts of productive farmland."
+      ]
+    }
+  ]
+}

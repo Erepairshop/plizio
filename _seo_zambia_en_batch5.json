@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "old-drift-settlement-history-v2",
+      "descriptionAdvanced": "The Old Drift settlement was the first landmark for European settlers in the late 19th century, in the immediate vicinity of Victoria Falls. Strategically located at a crossing of the Zambezi River, it served as a trading and rest station for travelers and explorers. Due to the devastating effects of malaria, settlers were soon forced to abandon this spot, laying the foundations for the development of today's city of Livingstone. Today, only a few historical graves bear witness to this early and tragic chapter of colonial history, reflecting the difficulties of exploring the region under extreme tropical conditions.",
+      "factsAdvanced": [
+        "First European settlement at Victoria Falls",
+        "Founded as a key crossing point on the Zambezi River",
+        "Largely abandoned due to malaria risk",
+        "Important historical precedent for Livingstone",
+        "Monument currently marked by historical graves",
+        "Symbol for the hardships of early colonial explorations"
+      ]
+    }
+  ]
+}

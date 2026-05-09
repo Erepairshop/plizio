@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosCitiesV2.ts",
+    "lib/visualLab/data/poiExtraComorosEconomicV2.ts",
+    "lib/visualLab/data/poiExtraComorosHistoryV2.ts",
+    "lib/visualLab/data/poiExtraComorosLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraComorosLifeV2.ts",
+    "lib/visualLab/data/poiExtraComorosNatureV2.ts",
+    "lib/visualLab/data/poiExtraComorosReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "reisfelder-moheli-life-v2",
+      "descriptionAdvanced": "The rice fields of Mohéli, particularly those found in the fertile lowland valleys, are a critical component of the island's subsistence agriculture. Unlike the large-scale industrial paddies found elsewhere, these fields are often small family plots where traditional varieties of mountain and lowland rice are grown. The cultivation process is strictly manual, relying on seasonal rainfall and small irrigation channels fed by mountain springs. In the Plizio K7 Agriculture curriculum, the Mohéli rice fields illustrate the importance of staple grain production in achieving local food sovereignty and the community-based labor systems required for successful planting and harvesting in a tropical island environment.",
+      "factsAdvanced": [
+        "Mohéli is the primary rice-producing island in the Comoros archipelago.",
+        "Cultivation focuses on both rain-fed mountain rice and lowland varieties.",
+        "Rice is a fundamental dietary staple alongside bananas and cassava.",
+        "Harvesting is a collective community event known as 'Mshindzano'.",
+        "Traditional irrigation relies on hand-dug canals from mountain streams.",
+        "Local varieties are prized for their flavor and resilience to humidity.",
+        "Provides a vital source of energy for the rural island population.",
+        "Sustainable practices avoid the use of heavy machinery or chemicals."
+      ]
+    },
+    {
+      "id": "fischmarkt-moroni-life-v2",
+      "descriptionAdvanced": "The Moroni Fish Market, located near the historic port of the capital, is the vibrant epicenter of daily life and commerce on Grande Comore. Every morning, artisanal fishermen arrive in their traditional outrigger canoes (galawas) to sell their fresh catch, ranging from colorful reef fish to large pelagic species like tuna and kingfish. The market is a sensory overload of sights, sounds, and smells, reflecting the deep connection between the Comorian people and the sea. For Plizio K6 Social Studies, the Moroni Fish Market serves as a primary example of a local trade network, illustrating the importance of small-scale fisheries in supporting urban food security and the traditional bargaining customs that govern local commerce.",
+      "factsAdvanced": [
+        "Primary fresh seafood distribution center for the capital city.",
+        "Located at the edge of the historic Moroni harbor (Port de Moroni).",
+        "Daily catch includes yellowfin tuna, skipjack, and various reef fish.",
+        "Traders utilize traditional bamboo baskets for displaying the catch.",
+        "A key site for observing traditional 'galawa' outrigger canoes.",
+        "Market activity peaks in the early morning and late afternoon.",
+        "Supports the livelihoods of hundreds of artisanal fishing families.",
+        "A central meeting place for community news and social interaction."
+      ]
+    },
+    {
+      "id": "strandspielplatz-maloudja-life-v2",
+      "descriptionAdvanced": "The beach playground of Maloudja, located in the northern Mitsamiouli region of Grande Comore, is a popular recreational area where the island's youth engage in traditional and modern outdoor activities. Set against a backdrop of white sand and coconut palms, the area serves as a focal point for community sports, particularly beach soccer and traditional wrestling. For Plizio K5 Physical Education, the Maloudja playground illustrates the importance of natural spaces in promoting physical health and social cohesion in island communities. It provides a safe and beautiful environment for children to learn about team cooperation and maritime skills, such as swimming and basic canoe handling, within the context of their local geography.",
+      "factsAdvanced": [
+        "Popular community recreation site in the northern Mitsamiouli region.",
+        "Center for local beach soccer tournaments and traditional games.",
+        "Surrounded by protective coconut groves and white sand beaches.",
+        "Safe swimming area due to the offshore coral reef barrier.",
+        "A key gathering spot for local families during weekends and holidays.",
+        "Integrates natural landscape elements into an informal play area.",
+        "Provides a scenic environment for traditional youth celebrations.",
+        "Easily accessible from the main coastal road of Grande Comore."
+      ]
+    },
+    {
+      "id": "naturlehrpfad-karthala-life-v2",
+      "descriptionAdvanced": "The Karthala Nature Trail is an educational path that winds through the lower and middle slopes of Mount Karthala, offering a guided journey through the island's unique volcanic ecosystems. The trail showcases the transition from cultivated spice gardens and coconut groves to the lush primary rainforest that harbors endemic species. For Plizio K7 Natural Science, the Karthala trail serves as a living classroom where students can observe volcanic rock formations, soil development, and the vertical zonation of tropical vegetation. Educational signboards along the route explain the importance of watershed protection and the role of the forest in regulating the island's climate, making it a vital tool for environmental awareness.",
+      "factsAdvanced": [
+        "Educational trekking route on the slopes of the Karthala volcano.",
+        "Starts near the village of Mvouni and ascends through various zones.",
+        "Features information points on volcanic geology and endemic flora.",
+        "Key site for observing the Comoro blue pigeon and other rare birds.",
+        "Trail is maintained by local guides trained in environmental education.",
+        "Highlights the importance of the forest in preventing soil erosion.",
+        "Provides access to several scenic lookout points over the capital.",
+        "A popular destination for school field trips and eco-tourists."
+      ]
+    },
+    {
+      "id": "botanischer-garten-mvouni-life-v2",
+      "descriptionAdvanced": "The Botanical Garden of Mvouni, associated with the University of the Comoros, is a dedicated space for the conservation and study of the archipelago's rich floral heritage. Located on the cooler slopes southeast of Moroni, the garden hosts an extensive collection of native and endemic plants, as well as medicinal species used in traditional Comorian healing. In the Plizio K8 Biology curriculum, the Mvouni Botanical Garden serves as a center for research on plant adaptation and biodiversity preservation. It provides a peaceful and organized environment for students and researchers to document rare species and understand the ecological requirements of the island's diverse plant life, from coastal shrubs to high-altitude mountain flora.",
+      "factsAdvanced": [
+        "Research and conservation facility managed by the University.",
+        "Located in Mvouni, offering a favorable microclimate for diverse flora.",
+        "Hosts a specialized section for traditional medicinal plants (MRK).",
+        "Includes examples of rare endemic orchids and tree ferns.",
+        "Serves as a training ground for future Comorian botanists.",
+        "Provides educational programs on biodiversity for local schools.",
+        "Actively involved in reforesting native species on volcanic slopes.",
+        "A peaceful public space for nature appreciation near the capital."
+      ]
+    },
+    {
+      "id": "voidjou-power-station-economic-v2",
+      "descriptionAdvanced": "The Voidjou Power Station is the primary energy production facility for Grande Comore, located just north of the capital Moroni. This thermal plant is critical for the island's economy, providing the electricity necessary for government offices, hospitals, and the growing industrial sector. In the Plizio K8 Economic Geography curriculum, Voidjou illustrates the challenges of energy security in island nations that rely on imported fossil fuels. The station's operations are a focal point for national development plans, which aim to modernize the grid and integrate renewable energy sources, such as solar and geothermal power from Mount Karthala, to reduce the country's carbon footprint and energy costs.",
+      "factsAdvanced": [
+        "Main thermal power plant serving the island of Grande Comore.",
+        "Operated by MAMWE, the national water and electricity company.",
+        "Relies on imported heavy fuel oil for its generators.",
+        "Strategic facility located on the coast north of Moroni.",
+        "Essential for the operation of the capital's telecommunications.",
+        "Provides power to over 60,000 households and businesses.",
+        "Currently undergoing upgrades to improve efficiency and output.",
+        "A key node in the national plan for energy transition."
+      ]
+    },
+    {
+      "id": "boingoma-port-economic-v2",
+      "descriptionAdvanced": "Boingoma Port is the vital maritime gateway for the island of Mohéli, located near the capital Fomboni. This facility manages the transit of essential goods, including food, fuel, and construction materials, as well as the island's spice exports. Due to the lack of a deep-water harbor, larger vessels must anchor offshore, with cargo transferred via smaller barges. For Plizio K7 Logistics studies, Boingoma Port serves as a case study for understanding maritime trade constraints in small island developing states. The port is a hub of daily activity, supporting local traders and ensuring the island remains connected to the broader economic networks of the Comoros and East Africa.",
+      "factsAdvanced": [
+        "Primary commercial port for Mohéli island, near Fomboni.",
+        "Handles the export of cloves, vanilla, and ylang-ylang.",
+        "Relies on lighters (barges) for cargo transfer from larger ships.",
+        "Strategic storage area for the island's essential fuel supplies.",
+        "A major employment hub for local stevedores and logistics staff.",
+        "Connected to the capital by a specialized heavy-load road.",
+        "Critical for receiving humanitarian aid and construction supplies.",
+        "Site of planned expansions to improve maritime safety and capacity."
+      ]
+    },
+    {
+      "id": "moroni-soap-factory-economic-v2",
+      "descriptionAdvanced": "The Moroni Soap Factory is one of the capital's oldest industrial enterprises, specializing in the production of traditional laundry and toilet soaps using locally sourced coconut oil. This facility represents a successful example of value-added manufacturing, transforming a domestic agricultural product into an essential consumer good. In the Plizio K8 Economy curriculum, the soap factory illustrates the concept of import substitution and the importance of supporting local industries to reduce dependency on foreign products. The factory utilizes traditional saponification methods while adopting modern quality controls, providing steady employment and a reliable supply of affordable hygiene products for the Comorian market.",
+      "factsAdvanced": [
+        "Industrial facility specializing in coconut oil-based soaps.",
+        "One of the longest-running manufacturing plants in Moroni.",
+        "Utilizes local 'copra' oil from Grande Comore's plantations.",
+        "Produces the famous 'Savon de Moroni' used across the islands.",
+        "Significant employer in the capital's small industrial sector.",
+        "Promotes the use of sustainable, biodegradable local ingredients.",
+        "Products are competitively priced against imported soap brands.",
+        "Key example of processing agricultural raw materials locally."
+      ]
+    },
+    {
+      "id": "mutsamudu-oil-depot-economic-v2",
+      "descriptionAdvanced": "The Mutsamudu Oil Depot is a critical strategic infrastructure located near Anjouan's primary port, responsible for the storage and distribution of petroleum products for the entire island. This facility manages supplies of gasoline, diesel, and kerosene, which are essential for transportation, electricity generation, and domestic cooking. For Plizio K8 Economic Geography, the oil depot illustrates the importance of energy reserves and logistics in maintaining the stability of an island economy. The depot is strictly monitored for safety and environmental standards, ensuring a continuous supply of fuel even during periods of maritime transit delays, which is vital for the island's hospitals, schools, and commercial sectors.",
+      "factsAdvanced": [
+        "Strategic fuel storage facility located at the port of Mutsamudu.",
+        "Manages 100% of the petroleum supply for the island of Anjouan.",
+        "Stores gasoline, diesel, and kerosene for various sectors.",
+        "Facility includes specialized tanks and safety containment zones.",
+        "Essential for the operation of the island's thermal power plants.",
+        "Supplies fuel to all petrol stations and the regional airport.",
+        "Operated under the national hydrocarbons company, SCH.",
+        "Critical node in the island's emergency management system."
+      ]
+    },
+    {
+      "id": "sima-port-economic-v2",
+      "descriptionAdvanced": "Sima Port, located on the western peninsula of Anjouan, is a vital regional maritime hub that supports the economy of the island's western districts. This secondary port specialized in the transit of agricultural goods and the movement of passengers to the neighboring islands of Mohéli and Mayotte. In the Plizio K7 Trade and Transport curriculum, Sima Port serves as an example of a regional logistical node that decentralizes maritime traffic from the main capital port. Its strategic location reduces transport costs for western farmers and provides a safer anchorage for small coastal vessels during the monsoon season, facilitating the flow of vanilla and spices to the regional export centers.",
+      "factsAdvanced": [
+        "Regional maritime facility on Anjouan's western peninsula.",
+        "Focuses on coastal trade and inter-island passenger transit.",
+        "Major shipping point for vanilla and cloves from the western hills.",
+        "Provides a protected anchorage for artisanal and small cargo boats.",
+        "Economy of Sima village is deeply tied to port services.",
+        "Reduces road transport pressure to the main port in Mutsamudu.",
+        "Hosts a local customs office for regional maritime monitoring.",
+        "Essential for the supply of goods to the remote western villages."
+      ]
+    },
+    {
+      "id": "moroni-customs-warehouse-economic-v2",
+      "descriptionAdvanced": "The Moroni Customs Warehouse is a key administrative and logistical facility located at the capital's port, serving as the primary control point for international trade. This facility manages the inspection, storage, and clearance of all imported goods entering Grande Comore, from consumer electronics to food staples. For Plizio K8 Economic Governance, the customs warehouse illustrates the role of state institutions in regulating trade and generating national revenue through import duties. The warehouse is equipped with modern tracking systems and inspection areas, ensuring that all products meet national safety standards while facilitating the efficient flow of goods to the island's wholesalers and retail markets.",
+      "factsAdvanced": [
+        "Primary customs clearance facility for Grande Comore island.",
+        "Located within the secure perimeter of the Port of Moroni.",
+        "Manages the collection of import duties, a major state revenue source.",
+        "Equipped with container scanning and manual inspection zones.",
+        "Strategic storage for seized or unclaimed international goods.",
+        "Essential for the regulation of food and pharmaceutical imports.",
+        "Staffed by the national customs service (Douanes Comoriennes).",
+        "A critical node in the nation's international supply chain."
+      ]
+    },
+    {
+      "id": "indian-ocean-printing-economic-v2",
+      "descriptionAdvanced": "The Indian Ocean Printing facility in Moroni is the nation's leading commercial press, providing essential services for the government, educational sector, and private business. This industrial plant is responsible for printing official documents, educational textbooks, and national newspapers, playing a vital role in information dissemination and literacy. In the Plizio K8 Industry curriculum, this printing house serves as an example of a specialized service industry that supports the administrative and intellectual life of the country. By utilizing modern digital and offset printing technology, the facility reduces the need for expensive offshore printing, fostering a local knowledge-based economy and providing skilled technical employment in the capital.",
+      "factsAdvanced": [
+        "Main commercial and governmental printing house in the Comoros.",
+        "Responsible for printing national newspapers and official gazettes.",
+        "Key producer of educational materials and school textbooks.",
+        "Utilizes modern offset and high-speed digital printing tech.",
+        "Significant employer for graphic designers and print technicians.",
+        "Located centrally in Moroni for efficient distribution.",
+        "Reduces national dependency on foreign printing services.",
+        "Acts as a major hub for the island's publishing industry."
+      ]
+    },
+    {
+      "id": "mutsamudu-thermal-plant-economic-v2",
+      "descriptionAdvanced": "The Mutsamudu Thermal Plant is the energy heart of Anjouan, responsible for generating the majority of the island's electrical power. Located near the industrial port area, the plant utilizes high-capacity diesel generators to supply electricity to the capital and surrounding rural networks. For Plizio K8 Economic Development, this facility illustrates the critical link between energy production and urban stability. The plant's management is a focal point for national infrastructure improvements, with ongoing projects to increase capacity and reliability. Ensuring a stable power supply from this facility is vital for the island's commercial cold storage, industrial workshops, and the operation of the deep-water port, which are the pillars of Anjouan's economy.",
+      "factsAdvanced": [
+        "Primary electricity generation facility for Anjouan island.",
+        "Operated by EEDA, the regional utility company.",
+        "Equipped with heavy-duty diesel generators for base-load power.",
+        "Supplies the capital Mutsamudu and the regional hospital.",
+        "Strategic location facilitates easy fuel delivery from the port.",
+        "Critical for the operation of Anjouan's cold storage facilities.",
+        "Subject to national energy modernization and expansion plans.",
+        "Directly influences the productivity of local industrial workshops."
+      ]
+    },
+    {
+      "id": "mitsamiouli-port-economic-v2",
+      "descriptionAdvanced": "Mitsamiouli Port, located on the northern tip of Grande Comore, is a specialized maritime hub that supports the region's fishing and tourism sectors. Historically a key stop for dhows transiting from East Africa, the port now focuses on artisanal fishing and boat tours for visitors exploring the northern beaches and islets. In the Plizio K7 Geography curriculum, Mitsamiouli Port is used to explain the role of northern maritime gates in regional trade and the importance of natural harbors in volcanic coastal landscapes. The port serves as a vital economic engine for the northern prefecture, facilitating the daily distribution of fresh fish to the capital and providing a safe harbor for the local fleet during the monsoon season.",
+      "factsAdvanced": [
+        "Northernmost maritime facility on the island of Grande Comore.",
+        "Major landing site for the high-yield northern fishing grounds.",
+        "Historically significant as a stopover for Swahili dhow trade.",
+        "Departure point for tourist excursions to the northern islets.",
+        "Economy of the Mitsamiouli region is deeply integrated with the port.",
+        "Features a natural rock barrier that protects the inner harbor.",
+        "Key center for traditional boat building and repair.",
+        "Connected to Moroni by the primary northern coastal highway."
+      ]
+    },
+    {
+      "id": "anjouan-carpentry-economic-v2",
+      "descriptionAdvanced": "The Anjouan Carpentry and Woodworking Center is a major artisanal industrial facility in Mutsamudu, renowned for producing high-quality furniture and traditional carved doors. This center utilizes both local hardwoods and imported timber to meet the growing demand for construction and domestic furnishings. In the Plizio K8 Vocational studies, the carpentry center illustrates the preservation of traditional Swahili woodworking skills within a modern economic framework. The center also serves as a training hub for apprentices, ensuring that ancient techniques of wood carving—a hallmark of Comorian architectural heritage—are passed down to the next generation while supporting a thriving local manufacturing sector.",
+      "factsAdvanced": [
+        "Main production hub for traditional and modern furniture on Anjouan.",
+        "Famous for the creation of intricate Swahili-style carved doors.",
+        "Utilizes local jackfruit wood and imported high-quality timber.",
+        "Significant provider of skilled employment in Mutsamudu.",
+        "Key supplier for national construction and infrastructure projects.",
+        "Acts as a vocational training school for young woodworkers.",
+        "Products are exported to other islands in the archipelago.",
+        "Preserves centuries-old artisanal techniques for modern use."
+      ]
+    },
+    {
+      "id": "moroni-hydrocarbon-depot-economic-v2",
+      "descriptionAdvanced": "The Moroni Hydrocarbon Depot, located on the western coast near Voidjou, is the strategic reserve facility for Grande Comore's fuel supplies. This highly secure depot stores the gasoline, diesel, and aviation fuel necessary for the island's transportation, energy production, and international flights. For Plizio K8 Economic Geography, the depot illustrates the complexity of managing strategic reserves in a nation entirely dependent on maritime fuel imports. The facility is equipped with modern safety systems and high-capacity storage tanks, ensuring that Grande Comore can maintain essential services even during periods of global supply chain disruptions or severe weather that may delay tankers from reaching the port.",
+      "factsAdvanced": [
+        "National strategic reserve for petroleum products on Grande Comore.",
+        "Located north of Moroni with direct access to coastal pipelines.",
+        "Stores the majority of the island's aviation fuel for the airport.",
+        "Operated by SCH, the national hydrocarbons company.",
+        "Critical for the operation of the Voidjou thermal power station.",
+        "Equipped with advanced fire safety and containment systems.",
+        "Manages the offloading of fuel from international tankers.",
+        "A key node in the national energy security and defense plan."
+      ]
+    },
+    {
+      "id": "foumbouni-port-economic-v2",
+      "descriptionAdvanced": "Foumbouni Port is a vital maritime node in the southeast of Grande Comore, serving as the primary commercial and logistics hub for the Mbadjini region. This port facilitates the movement of local agricultural products, particularly spices and coconuts, to the markets of the capital and for regional export. In the Plizio K7 Trade curriculum, Foumbouni Port serves as an example of how decentralized maritime facilities support rural economies by reducing inland transport costs for farmers. The port is also a significant center for artisanal fishing, with a dedicated pier that supports a large fleet of traditional outriggers, ensuring a steady supply of protein for the southern villages.",
+      "factsAdvanced": [
+        "Primary commercial maritime facility for southeastern Grande Comore.",
+        "Located in the town of Foumbouni, the center of the Mbadjini region.",
+        "Handles the regional export of cloves, vanilla, and copra.",
+        "Supports a large artisanal fishing fleet with dedicated facilities.",
+        "Strategic logistics hub for the southern part of the island.",
+        "Reduces transport times for farmers in the southern highlands.",
+        "Connected to the capital Moroni by the southern coastal highway.",
+        "Key site for local boat maintenance and maritime supplies."
+      ]
+    },
+    {
+      "id": "bambao-distillery-economic-v2",
+      "descriptionAdvanced": "The Bambao Distillery is one of the most famous and productive essential oil facilities in the Comoros, specializing in the extraction of ylang-ylang essence. Located in the heart of the island's most fertile flower plantations, the distillery uses traditional steam distillation methods to produce high-value oils for the global perfume industry. For Plizio K8 Industrial Chemistry, this facility illustrates the process of volatile oil extraction and the importance of quality control in agricultural processing. The distillery is an economic anchor for the region, providing employment for hundreds of local flower pickers and technicians while maintaining the Comoros' status as the world's leading producer of premium ylang-ylang oil.",
+      "factsAdvanced": [
+        "Premier industrial facility for ylang-ylang distillation in Bambao.",
+        "Uses traditional copper stills and modern steam boilers.",
+        "Produces various grades of essence, from 'Extra' to 'III'.",
+        "Directly linked to the sprawling flower plantations of southern Moroni.",
+        "Essential oil produced here is sold to top international perfume brands.",
+        "Provides vital seasonal income for thousands of local pickers.",
+        "The spent wood and water are recycled within the local community.",
+        "Key contributor to the Comoros' foreign exchange earnings."
+      ]
+    },
+    {
+      "id": "mutsamudu-vanilla-center-economic-v2",
+      "descriptionAdvanced": "The Mutsamudu Vanilla Center is the primary processing and quality control hub for Anjouan's lucrative vanilla industry. This facility manages the curing, sorting, and packaging of vanilla beans harvested from the island's mountainous interior, ensuring they meet international export standards. In the Plizio K8 Economy curriculum, the vanilla center serves as an example of a specialized agricultural value chain, showing how raw botanical products are transformed into high-value commodities through careful artisanal techniques. The center also acts as a headquarters for local vanilla cooperatives, providing training for farmers and negotiating fair prices on the global market, which is vital for the island's economic stability.",
+      "factsAdvanced": [
+        "Main quality control and packaging center for Anjouan's vanilla.",
+        "Coordinates the collection of beans from mountain cooperatives.",
+        "Manages the traditional 'curing' process to develop bean aroma.",
+        "Ensures all products meet international 'Bourbon Vanilla' standards.",
+        "Major export node for Anjouan's most valuable agricultural crop.",
+        "Provides training on sustainable harvesting and hand-pollination.",
+        "Facility includes specialized drying racks and fermentation rooms.",
+        "A key partner for international fair-trade spice organizations."
+      ]
+    },
+    {
+      "id": "domoni-port-economic-v2",
+      "descriptionAdvanced": "Domoni Port is a historic maritime gateway on the eastern coast of Anjouan, serving the island's second-largest city. This port is a vital link for the regional economy, facilitating the movement of spices and local produce to the capital Mutsamudu and the neighboring island of Mayotte. In the Plizio K7 Geography curriculum, Domoni Port illustrates the importance of eastern coastal nodes in island trade and the historical continuity of Swahili maritime commerce. The port supports a large community of artisanal fishermen and provides a sheltered harbor for coastal cargo dhows, ensuring that the fertile eastern districts remain well-connected to the archipelago's broader economic and logistical networks.",
+      "factsAdvanced": [
+        "Secondary commercial port located in the historic city of Domoni.",
+        "Primary export point for the fertile eastern agricultural districts.",
+        "Handles significant volumes of cloves and vanilla for domestic trade.",
+        "Historically a major stop for dhows in the Indian Ocean trade.",
+        "Supports a large fleet of artisanal fishing outriggers (galawas).",
+        "Essential for the supply of consumer goods to the eastern region.",
+        "Provides a vital maritime link to the island of Mayotte.",
+        "Connected to the capital Mutsamudu by the scenic eastern road."
+      ]
+    },
+    {
+      "id": "moroni-fish-packaging-economic-v2",
+      "descriptionAdvanced": "The Moroni Fish Packaging facility is a modern industrial unit located near the capital's harbor, designed to improve the value and shelf life of the local artisanal catch. This facility provides essential cold storage, cleaning, and professional packaging services for fish destined for local supermarkets and regional export. For Plizio K8 Economic Development, the packaging plant illustrates the importance of post-harvest infrastructure in reducing food waste and increasing the profitability of the fishing sector. By introducing modern hygiene standards and vacuum-sealing technology, the facility enables Comorian fishermen to reach higher-value markets, supporting the modernization of the country's most important maritime resource industry.",
+      "factsAdvanced": [
+        "Modern cold storage and processing facility at Moroni harbor.",
+        "Focuses on vacuum-sealing and blast-freezing fresh pelagic fish.",
+        "Equipped with industrial ice-making machines for local fishermen.",
+        "Improves food safety standards for the capital's fish supply.",
+        "Key for the commercial distribution of yellowfin tuna and kingfish.",
+        "Supports the transition from subsistence to commercial fishing.",
+        "Facility managed under national food security guidelines.",
+        "Reduces post-harvest losses in the artisanal fishing sector."
+      ]
+    },
+    {
+      "id": "mutsamudu-shipyard-economic-v2",
+      "descriptionAdvanced": "The Mutsamudu Shipyard is the leading maritime repair and construction facility on Anjouan island, specializing in the maintenance of coastal cargo vessels and the building of traditional motorboats. This industrial site is critical for the island's maritime safety and logistics, ensuring that the fleet used for inter-island trade remains seaworthy. In the Plizio K8 Vocational studies, the shipyard serves as a case study for the integration of traditional ship-building techniques with modern engineering and welding. The yard provides skilled employment for marine mechanics and shipwrights, acting as a vital support hub for the entire maritime sector of the Comoros, from artisanal fishing boats to larger regional cargo vessels.",
+      "factsAdvanced": [
+        "Main maritime repair and dry-dock facility on the island of Anjouan.",
+        "Located within the industrial zone of the Port of Mutsamudu.",
+        "Specializes in repairing regional cargo boats and ferry 'vedettes'.",
+        "A center for traditional boat-building using modern materials.",
+        "Essential for maintaining the safety of inter-island transport.",
+        "Significant employer of marine engineers and skilled welders.",
+        "Equipped with specialized slipways for hauling vessels from the water.",
+        "Provides critical technical support for the national coast guard."
+      ]
+    },
+    {
+      "id": "nioumachoua-port-economic-v2",
+      "descriptionAdvanced": "Nioumachoua Port, located on the southwest coast of Mohéli, is a strategic maritime facility that supports the island's growing ecotourism sector and artisanal fishing industry. As the gateway to the Mohéli Marine Park and the Nioumachoua islets, the port handles a high volume of passenger traffic and specialized tourist vessels. For Plizio K7 Geography, Nioumachoua Port illustrates the role of maritime infrastructure in supporting conservation-based economies. The port also serves as a vital distribution point for goods coming from the capital Fomboni, ensuring the remote southwestern villages remain supplied with essential resources while protecting the sensitive marine ecosystems of the nearby national park.",
+      "factsAdvanced": [
+        "Secondary maritime hub on Mohéli's southwest coast.",
+        "Primary departure point for visitors to the Mohéli Marine Park.",
+        "Serves the logistical needs of the southwestern island villages.",
+        "Major center for artisanal fishing and boat maintenance.",
+        "Connected to Fomboni by the island's main western road.",
+        "Infrastructure includes specialized docks for ecotourism boats.",
+        "Economy of the Nioumachoua region is directly tied to the port.",
+        "Strategic node for the monitoring of protected marine areas."
+      ]
+    },
+    {
+      "id": "fomboni-electricity-plant-economic-v2",
+      "descriptionAdvanced": "The Fomboni Electricity Plant is the sole provider of electrical power for the island of Mohéli, located on the outskirts of the capital. This thermal facility uses diesel-powered generators to supply a continuous flow of electricity to the island's administrative centers, hospitals, and residential areas. In the Plizio K8 Economic Geography curriculum, the Fomboni plant illustrates the unique challenges of providing reliable power on a small, isolated island with no domestic energy resources. The facility's management is central to Mohéli's development plans, with recent efforts focusing on improving efficiency and exploring renewable hybrid systems, such as solar power, to reduce energy costs and environmental impact.",
+      "factsAdvanced": [
+        "Primary energy production facility for the island of Mohéli.",
+        "Located near the capital Fomboni to minimize transmission loss.",
+        "Utilizes diesel generators to provide base-load electricity.",
+        "Supplies power to over 15,000 residents across the island.",
+        "Strategic storage of fuel reserves is managed on-site.",
+        "Critical for the operation of the island's regional hospital.",
+        "Operated by MAMWE, the national utility authority.",
+        "Subject to modernization projects for grid stability and renewables."
+      ]
+    },
+    {
+      "id": "iconi-fishing-port-economic-v2",
+      "descriptionAdvanced": "The Iconi Fishing Port, located near the historic city of Iconi on Grande Comore, is one of the most productive artisanal fishing hubs in the archipelago. This facility is built within a natural volcanic cove that provides excellent protection from the open ocean swells, allowing fishermen to operate year-round. For Plizio K6 Economy, the Iconi port serves as an example of a traditional community-based maritime industry that has modernized its logistics and marketing. The port is famous for its daily 'auctions' of yellowfin tuna and other large pelagics, which are rapidly transported to the markets of Moroni, supporting thousands of families and maintaining Iconi's status as a key pillar of the national fishing economy.",
+      "factsAdvanced": [
+        "Major artisanal maritime center on the west coast of Grande Comore.",
+        "Situated in a naturally protected volcanic cove near Iconi.",
+        "One of the highest-yielding artisanal tuna landing sites in Comores.",
+        "Supports a large community of over 500 active fishermen.",
+        "Includes basic facilities for boat repair and net maintenance.",
+        "Key supplier for the fresh fish markets in the capital Moroni.",
+        "The site is historically significant as a port of the Sultanate of Iconi.",
+        "Features a vibrant social and commercial atmosphere during landings."
+      ]
+    }
+  ]
+}

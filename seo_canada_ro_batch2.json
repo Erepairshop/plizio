@@ -2,34 +2,68 @@
   "lang": "ro",
   "country": "canada",
   "files": [
-    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
-    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
-    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts"
   ],
   "items": [
     {
-      "id": "kitchener-cities-v2",
-      "descriptionAdvanced": "Kitchener are o moștenire culturală germană distinctă, fiind celebră pentru găzduirea celui mai mare Oktoberfest din afara Germaniei. Orașul face parte din "Triunghiul Tehnologic" al Canadei, alături de Waterloo și Cambridge, fiind un centru înfloritor pentru inovație și producție industrială. Istorie K7 — migrație și cultură locală.",
-      "factsAdvanced": ["Găzduiește cel mai mare Oktoberfest din Canada", "Parte din "Triunghiul Tehnologic" al Canadei", "Anterior cunoscut sub numele de Berlin până în 1916", "Sediul multor companii de software", "Moștenire puternică a imigrației germane", "Situat în regiunea Waterloo"]
+      "id": "beaufort-sea-nature-v2",
+      "descriptionAdvanced": "Marea Beaufort este o mare marginală a Oceanului Arctic, situată la nord de Canada și Alaska. Datorită poziției sale polare extreme, marea este acoperită de gheață în cea mai mare parte a anului, ceea ce influențează direct ecosistemul marin. Această zonă reprezintă un habitat esențial pentru fauna arctică, inclusiv pentru balenele beluga și urșii polari care depind de gheața marină pentru supraviețuire. Regiunea este de asemenea de o importanță geologică majoră, având rezerve semnificative de petrol și gaze naturale sub fundul mării. Geografie K7 — mări și regiuni arctice.",
+      "factsAdvanced": [
+        "Habitat important pentru balenele beluga și urșii polari.",
+        "Marea este acoperită de gheață în cea mai mare parte a anului.",
+        "Rezerve importante de petrol și gaze sub fundul mării.",
+        "Regiunea poartă numele exploratorului Sir Francis Beaufort.",
+        "Temperaturile apei sunt constant aproape de punctul de îngheț.",
+        "Marea Beaufort primește apă dulce de la fluviul Mackenzie."
+      ]
     },
     {
-      "id": "windsor-cities-v2",
-      "descriptionAdvanced": "Windsor este situat chiar peste râul Detroit, vizavi de orașul american cu același nume, fiind poarta principală de acces către Statele Unite din sud-vestul Ontario. Orașul este esențial pentru industria auto a Canadei, fiind supranumit "Capitala Auto a Canadei". Geografie K7 — relații transfrontaliere și industrie.",
-      "factsAdvanced": ["Situat la granița cu Statele Unite", "Supranumit "Capitala Auto a Canadei"", "Conexiune majoră prin podul Ambassador", "Gazdă a parcului Coventry Gardens", "Industrie manufacturieră dominantă", "Climat blând pentru standardele canadiene"]
+      "id": "mount-temple-nature-v2",
+      "descriptionAdvanced": "Muntele Temple este un vârf remarcabil în Parcul Național Banff, dominând Valea celor Zece Vârfuri cu o altitudine de 3.544 metri. Acesta constituie un punct de reper iconic în Munții Stâncoși canadieni. Pentru alpiniști, Mount Temple reprezintă o provocare cunoscută și dificilă, necesitând abilități tehnice și o condiție fizică bună. De pe vârful său, vizitatorii se bucură de o panoramă uluitoare asupra peisajului muntos accidentat al regiunii Banff, oferind o perspectivă unică asupra frumuseții sălbatice a Canadei. Geografie K7 — munți și alpinism.",
+      "factsAdvanced": [
+        "Altitudine de 3.544 metri.",
+        "Face parte din Parcul Național Banff din Alberta.",
+        "Traseul clasic este o provocare tehnică de alpinism.",
+        "Repere vizual dominant în Valea celor Zece Vârfuri.",
+        "Numit după Sir Richard Temple în 1884.",
+        "Alcătuit în principal din roci sedimentare."
+      ]
     },
     {
-      "id": "guelph-cities-v2",
-      "descriptionAdvanced": "Guelph este cunoscut pentru arhitectura sa istorică bine conservată și pentru Universitatea din Guelph, un lider mondial în studiile agricole și veterinare. Orașul este apreciat pentru calitatea vieții și pentru designul său urban, fiind fondat în 1827. Educație K8 — științe agricole și comunitate.",
-      "factsAdvanced": ["Găzduiește Universitatea din Guelph", "Arhitectură victoriană remarcabilă", "Centru de excelență în științe agricole", "Fondat în 1827", "Calitatea vieții ridicată", "Situat în inima regiunii rurale Wellington"]
+      "id": "athabasca-river-nature-v2",
+      "descriptionAdvanced": "Râul Athabasca este cel mai lung fluviu din provincia Alberta și o arteră vitală a regiunii. Izvorând din ghețarii Câmpului de Gheață Columbia, unul dintre cele mai mari complexe glaciare din afara zonelor polare, râul traversează peisajul spectaculos al Munților Stâncoși, trecând prin Cascada Athabasca. Din punct de vedere istoric, Athabasca a fost o rută comercială crucială în perioada comerțului cu blănuri, conectând avanposturile din nord cu restul Canadei. Astăzi, cursul inferior al râului traversează regiunea nisipurilor petrolifere, jucând un rol important în economia locală. Geografie K7 — râuri și istorie.",
+      "factsAdvanced": [
+        "Cel mai lung râu din Alberta, cu aproximativ 1.231 km.",
+        "Izvorăște din Câmpul de Gheață Columbia.",
+        "Cascada Athabasca este una dintre cele mai cunoscute din Canada.",
+        "A fost o arteră majoră a comerțului cu blănuri timp de secole.",
+        "Străbate nisipurile petrolifere Athabasca din nordul Albertei.",
+        "Se varsă în Lacul Athabasca."
+      ]
     },
     {
-      "id": "oshawa-cities-v2",
-      "descriptionAdvanced": "Oshawa a fost mult timp considerată "Capitala Auto a Canadei" datorită prezenței dominante a General Motors, care a modelat întreaga economie locală timp de un secol. Orașul se transformă rapid într-un centru de educație și servicii în zona Greater Toronto Area. Economie K8 — istoria industrială și tranziție.",
-      "factsAdvanced": ["Sediul istoric al producției General Motors Canada", "Găzduiește Universitatea Ontario Tech", "Parte a Greater Toronto Area", "Centru educațional în creștere", "Moștenire industrială puternică", "Situat pe malul lacului Ontario"]
+      "id": "lake-superior-nature-v2",
+      "descriptionAdvanced": "Lacul Superior este cel mai mare dintre cele cinci Mari Lacuri din America de Nord și deține recordul de cel mai mare lac de apă dulce din lume după suprafață. Acesta se întinde de-a lungul graniței dintre Canada și Statele Unite și conține aproximativ 10% din resursele mondiale de apă dulce de suprafață lichidă. Lacul este renumit pentru apele sale cristaline, dar și pentru furtunile periculoase care pot apărea rapid datorită dimensiunii imense a bazinului. Coastele sale sunt bogate în formațiuni geologice din epoca precambriană, oferind o fereastră către istoria geologică antică a continentului. Geografie K7 — lacuri și apă dulce.",
+      "factsAdvanced": [
+        "Suprafață de circa 82.100 kilometri pătrați.",
+        "Conține 10% din apa dulce de suprafață a lumii.",
+        "Se învecinează cu Ontario și mai multe state americane.",
+        "Punctul cel mai adânc este la aproximativ 406 metri.",
+        "Coastele conțin formațiuni geologice precambriene.",
+        "Cunoscut pentru furtunile violente de toamnă."
+      ]
+    },
+    {
+      "id": "magdalen-islands-nature-v2",
+      "descriptionAdvanced": "Insulele Magdalena formează un arhipelag izolat în Golful Sfântul Laurențiu, aparținând provinciei Quebec. Insulele sunt renumite pentru dunele lor albe de nisip și stâncile dramatice de gresie roșie care contrastează puternic cu apa albastră a mării. Comunitatea insulară și-a păstrat cultura acadiană unică, dezvoltată în izolare timp de secole. Astăzi, arhipelagul este o destinație populară pentru entuziaștii sporturilor nautice, în special pentru kitesurfing, datorită vânturilor constante, și pentru observarea focilor în zonele lor de reproducere. Geografie K7 — insule și cultură.",
+      "factsAdvanced": [
+        "Arhipelag situat în mijlocul Golfului Sfântul Laurențiu.",
+        "Stâncile roșii sunt formate din gresie erodată.",
+        "Găzduiește o cultură acadiană vie și distinctă.",
+        "Zonă importantă pentru reproducerea focilor gri.",
+        "Paradis pentru sporturi nautice, precum kitesurfing.",
+        "Suprafața totală este de aproximativ 205 kilometri pătrați."
+      ]
     }
   ]
 }

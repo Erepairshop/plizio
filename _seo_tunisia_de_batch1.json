@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "atlas-mountains-nature-v2",
+      "descriptionAdvanced": "Das Atlasgebirge, das den nordwestlichen Teil Tunesiens durchzieht, ist ein faszinierendes Gebirgssystem. Es bietet eine abwechslungsreiche Landschaft mit ausgedehnten Wäldern und fruchtbaren Tälern, die für die Wasserversorgung des Landes entscheidend sind. Das Gebirge zeichnet sich durch eine enorme Biodiversität aus und bietet Lebensraum für zahlreiche Pflanzen- und Tierarten. Im Vergleich zu den heißen Küstenregionen ist das Klima hier deutlich milder, was das Gebiet zu einem beliebten Ziel für Naturliebhaber und Wanderer macht.",
+      "factsAdvanced": [
+        "Das Atlasgebirge erstreckt sich über drei nordafrikanische Staaten.",
+        "Es dient als das wichtigste natürliche Wasserspeicherbecken Tunesiens.",
+        "Die klimatischen Bedingungen sind deutlich kühler als in den Ebenen.",
+        "Das Gebiet ist ein Zentrum der Artenvielfalt in Nordafrika.",
+        "Zahlreiche fruchtbare Täler stützen die regionale Landwirtschaft.",
+        "Es stellt einen bedeutenden Wander- und Erholungsraum dar."
+      ]
+    },
+    {
+      "id": "ichkeul-lake-nature-v2",
+      "descriptionAdvanced": "Der Ichkeul-See im Norden Tunesiens bildet zusammen mit dem umgebenden Sumpfgebiet einen einzigartigen Nationalpark von internationaler Bedeutung. Als eines der wichtigsten Winterquartiere für ziehende Wasservögel in der Region ist er ein zentraler Anlaufpunkt für Ornithologen. Die UNESCO hat dieses Gebiet aufgrund seiner ökologischen Einzigartigkeit als Welterbe anerkannt, wobei der Salzgehalt des Sees saisonal stark schwanken kann, was eine spezifische Flora und Fauna hervorgebracht hat.",
+      "factsAdvanced": [
+        "Der See ist ein anerkanntes UNESCO-Welterbe.",
+        "Er dient als entscheidendes Winterquartier für tausende Zugvögel.",
+        "Die Vegetation ist an das wechselnde Salzgehalt des Wassers angepasst.",
+        "Das Gebiet bildet ein komplexes, geschütztes Ökosystem.",
+        "Saisonale Wasserspiegelschwankungen beeinflussen die Lebensraumbedingungen.",
+        "Der Nationalpark ist ein zentraler Ort für ökologische Forschung."
+      ]
+    },
+    {
+      "id": "gulf-of-gabes-nature-v2",
+      "descriptionAdvanced": "Der Golf von Gabès ist der größte Küstenabschnitt Tunesiens am Mittelmeer und zeichnet sich durch seine ökologische Besonderheit und reiche marine Lebenswelt aus. Bekannt für Gezeitenunterschiede, die für das Mittelmeer ungewöhnlich stark ausgeprägt sind, bietet das Gebiet vielfältige Lebensräume wie Lagunen und ausgedehnte Wattflächen. Der Golf ist nicht nur biologisch hochsensibel, sondern auch wirtschaftlich bedeutend für die lokale Fischereiindustrie, weshalb er kontinuierlich beobachtet wird.",
+      "factsAdvanced": [
+        "Es ist der größte Meeresgolf an der tunesischen Küste.",
+        "Die Gezeitenunterschiede sind hier die stärksten im ganzen Mittelmeer.",
+        "Das Ökosystem beherbergt bedeutende Korallen- und Algenbestände.",
+        "Die Region hat eine hohe Bedeutung für die lokale Fischereiwirtschaft.",
+        "Aufgrund seiner Sensibilität steht der Golf unter ökologischer Beobachtung.",
+        "Einzigartige klimatische Bedingungen begünstigen das marine Leben."
+      ]
+    },
+    {
+      "id": "djerba-island-nature-v2",
+      "descriptionAdvanced": "Djerba, die größte Insel vor der Küste Nordafrikas, besticht durch ihre weißen Sandstrände, ausgedehnte Olivenhaine und eine unverwechselbare traditionelle Architektur. Die Insel, die durch ihre isolierte Lage ein einzigartiges kulturelles Erbe bewahrt hat, ist heute ein bedeutendes Touristenziel. Neben dem Erholungstourismus zeichnet sich Djerba durch eine artenreiche Küstenflora aus und ist ein Paradebeispiel für die landschaftliche Schönheit des tunesischen Südens am Mittelmeer.",
+      "factsAdvanced": [
+        "Djerba ist die flächenmäßig größte Insel in Nordafrika.",
+        "Die Insel ist für ihre traditionelle, würfelförmige Architektur bekannt.",
+        "Die Strände zeichnen sich durch feinen, weißen Sand aus.",
+        "Große Teile der Insel sind von historischen Olivenhainen bedeckt.",
+        "Das maritime Klima ermöglicht ganzjährige touristische Aktivitäten.",
+        "Djerba bewahrt kulturelle und sprachliche Besonderheiten."
+      ]
+    },
+    {
+      "id": "medjerda-river-nature-v2",
+      "descriptionAdvanced": "Der Medjerda ist der bedeutendste und längste Fluss Tunesiens, der seinen Ursprung im algerischen Atlasgebirge hat und sich durch das Land bis ins Mittelmeer schlängelt. Sein Lauf durch den Medjerda-Viertel bildet das landwirtschaftliche Herzstück Tunesiens, da das Wasser für die großflächige Bewässerung und Nahrungsmittelproduktion unverzichtbar ist. Entlang seiner Ufer finden sich zahlreiche historische Stätten, die die Bedeutung dieses Wasserwegs für frühe Zivilisationen belegen.",
+      "factsAdvanced": [
+        "Er ist der längste und wichtigste Fluss des Landes.",
+        "Der Fluss entspringt im algerischen Atlasgebirge.",
+        "Das Flusstal bildet die primäre landwirtschaftliche Lebensader.",
+        "Zahlreiche Staudämme dienen zur Regulierung und Bewässerung.",
+        "Entlang des Laufs entstanden viele historische Siedlungen.",
+        "Der Fluss mündet in den Golf von Tunis."
+      ]
+    }
+  ]
+}

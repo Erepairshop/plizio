@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chitimukulu-palace-history-v2",
+      "descriptionAdvanced": "The Palace of the Chitimukulu is the traditional seat of the paramount chief of the Bemba people, located in the Northern Province of Zambia. The site is a repository of Bemba history, culture, and traditional authority. It is not just a residence but a spiritual and administrative landmark for the Bemba community, representing centuries of leadership and tribal structure. Visitors interested in Zambian heritage often look to the palace as a primary site for understanding traditional governance and historical power dynamics that persist into the modern era.",
+      "factsAdvanced": [
+        "Traditional seat of the Bemba paramount chief",
+        "Located in Northern Zambia",
+        "Symbol of ancient tribal governance and history",
+        "Key site for preserving Bemba traditions and culture",
+        "Represents long-standing leadership structures",
+        "Important landmark for regional cultural heritage"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "quebec-aluminum-smelter-economic-v2",
+      "descriptionAdvanced": "Die Aluminiumhütte in Québec profitiert maßgeblich von den reichen Wasserkraftressourcen der Provinz, die eine energieintensive Schmelze wirtschaftlich machen. Québec gehört zu den weltweit führenden Produzenten von Primäraluminium, was die Region zu einem zentralen Lieferanten für die Automobilindustrie und den Flugzeugbau macht. Die industrielle Infrastruktur ist eng mit dem lokalen Stromnetz von Hydro-Québec verknüpft. Wirtschaft K7 — Industrie und erneuerbare Energien.",
+      "factsAdvanced": [
+        "Große industrielle Einrichtung zur Aluminiumschmelze",
+        "Nutzung von reichlich vorhandener Wasserkraft",
+        "Wichtiger Lieferant für globale Industriemärkte",
+        "Kern der Aluminiumindustrie in Québec",
+        "Energieintensive Produktionsprozesse",
+        "Starker Beitrag zur regionalen Exportwirtschaft"
+      ]
+    },
+    {
+      "id": "saint-john-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Saint John in New Brunswick ist der größte Seehafen an der kanadischen Atlantikküste und dient als ein vitales Drehkreuz für den transatlantischen Handel. Die strategische Lage ermöglicht den Import und Export von Rohstoffen, Maschinen und Konsumgütern für den nordamerikanischen Markt. Besonders hervorzuheben ist die Rolle des Hafens bei der Anbindung der maritimen Provinzen an die globalen Lieferketten. Geografie K7 — Seehandel und Infrastruktur.",
+      "factsAdvanced": [
+        "Wichtiger Industriehafen in New Brunswick",
+        "Größter Hafen der kanadischen Atlantikküste",
+        "Vitales Drehkreuz für transatlantischen Handel",
+        "Anbindung der maritimen Provinzen an globale Lieferketten",
+        "Umschlag von Rohstoffen und Konsumgütern",
+        "Wichtiger Wirtschaftsfaktor für Saint John"
+      ]
+    },
+    {
+      "id": "thunder-bay-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Thunder Bay am Oberen See fungiert als entscheidendes Bindeglied zwischen der landwirtschaftlichen Produktion der Prärieprovinzen und den Märkten im Osten Kanadas sowie weltweit. Hier wird Getreide effizient aus Zügen auf Frachtschiffe umgeladen, die über den Sankt-Lorenz-Seeweg weit in den Atlantik hinaus transportiert werden. Diese Infrastruktur ist für die kanadische Agrarökonomie unverzichtbar. Wirtschaft K8 — Landwirtschaft und Seeverkehr.",
+      "factsAdvanced": [
+        "Hauptumschlagplatz für Getreide am Oberen See",
+        "Bindeglied zwischen Prärie und Osten",
+        "Zentral für kanadische Getreideexporte",
+        "Anbindung an den Sankt-Lorenz-Seeweg",
+        "Effiziente multimodale Logistik (Bahn/Schiff)",
+        "Großer talseitiger Seehafen"
+      ]
+    },
+    {
+      "id": "delta-port-economic-v2",
+      "descriptionAdvanced": "Das Deltaport-Terminal bei Vancouver ist eines der technologisch fortschrittlichsten Containerterminals Kanadas und fungiert als primäres Gateway für den Handel mit Asien. Durch modernste Automatisierung und hohe Umschlagskapazitäten bewältigt es einen signifikanten Teil des kanadischen Containeraufkommens. Die Anbindung an den pazifischen Markt macht diesen Standort zu einem der wichtigsten Motoren des nationalen Außenhandels. Geografie K8 — Globaler Handel und Logistik.",
+      "factsAdvanced": [
+        "Einer der modernsten Containerterminals Kanadas",
+        "Primäres Gateway für den Handel mit Asien",
+        "Hoher Grad an Automatisierung",
+        "Signifikanter Anteil am nationalen Containeraufkommen",
+        "Strategische Lage am Pazifik",
+        "Wichtiger Knotenpunkt der globalen Lieferkette"
+      ]
+    },
+    {
+      "id": "sept-iles-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Sept-Îles am Sankt-Lorenz-Golf in Québec ist spezialisiert auf den massiven Umschlag von Eisenerz, das in den nördlichen Bergbaugebieten abgebaut wird. Als Tiefwasserhafen können hier die größten Massengutfrachter der Welt abgefertigt werden, was eine kosteneffiziente Verschiffung nach Übersee ermöglicht. Sept-Îles bildet somit das logistische Rückgrat für die kanadische Eisenindustrie. Geografie K7 — Rohstoffexport und Hafenlogistik.",
+      "factsAdvanced": [
+        "Wichtiger Hafen für den Export von Eisenerz",
+        "Tiefwasserhafen für größte Massengutfrachter",
+        "Logistisches Rückgrat für Bergbau im Norden Québecs",
+        "Kosteneffiziente Exportinfrastruktur",
+        "Strategische Lage am Sankt-Lorenz-Golf",
+        "Wichtiger Beitrag zur globalen Stahlrohstoffversorgung"
+      ]
+    }
+  ]
+}

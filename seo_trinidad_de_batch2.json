@@ -1,0 +1,351 @@
+{
+  "lang": "de",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-indigo-vat-history-v2",
+      "descriptionAdvanced": "Die historischen Indigo-Bottiche (Indigo Vats) in Trinidad sind Überreste einer oft vergessenen Ära der frühen Plantagenwirtschaft im 18. Jahrhundert. Bevor Zuckerrohr die dominierende Nutzpflanze wurde, war Indigo ein kostbares Exportgut für die europäische Textilindustrie. Die Ruinen dieser Bottiche, meist aus Ziegeln oder Stein gefertigt und mit wasserfestem Mörtel verkleidet, dienten dem komplexen Fermentationsprozess, bei dem der blaue Farbstoff aus der Indigo-Pflanze extrahiert wurde. Diese Stätten befinden sich oft in abgelegenen Gebieten, da der Verarbeitungsprozess einen starken, unangenehmen Geruch verbreitete. Die Bottiche sind heute wichtige archäologische Zeugnisse für die wirtschaftliche Diversität der frühen Kolonialzeit. Im Unterricht (Geschichte K7) bieten sie einen Einblick in die Chemie der Farbstoffgewinnung und die frühen globalen Handelsbeziehungen vor dem großen Zucker-Boom.",
+      "factsAdvanced": [
+        "Relikte der frühen Farbstoffproduktion des 18. Jahrhunderts.",
+        "Genutzt zur Extraktion von Indigo für den europäischen Markt.",
+        "Komplexes System aus Einweich- und Absetzbecken.",
+        "Oft aus robusten, importierten Backsteinen errichtet.",
+        "Zeugnis für die Zeit vor der Monokultur des Zuckerrohrs.",
+        "Standorte meist fernab von Siedlungen wegen Geruchsbildung.",
+        "Wichtige Fundorte für koloniale Industriearchäologie.",
+        "Thema: Frühe Exportgüter und Welthandel (K7)."
+      ]
+    },
+    {
+      "id": "tt-tobago-sugar-works-history-v2",
+      "descriptionAdvanced": "Die Tobago Sugar Works repräsentieren die industrielle Kraftanstrengung, die Tobago im späten 18. und 19. Jahrhundert zu einem der effizientesten Zuckerproduzenten der Region machte. Diese großflächigen Fabrikanlagen kombinierten Mühlen, Siedehaus und Destillerie unter einem Dach oder in eng verbundenen Gebäudekomplexen. Die Architektur war massiv und funktional, oft unter Verwendung von Vulkangestein der Insel. Die Ruinen zeigen heute noch die Schornsteine, die einst Rauch über die Plantagen ausstießen, und die Fundamente für die gewaltigen Dampfmaschinen, die die alten Windmühlen ersetzten. Dieser Ort ist ein Mahnmal für die technologische Transformation, aber auch für das Leid der versklavten Menschen, die diese Fabriken am Laufen hielten. Für Schüler (Geschichte K8) verdeutlichen die Sugar Works den Übergang zur industriellen Massenproduktion und die Bedeutung Tobagos für die britische Wirtschaft.",
+      "factsAdvanced": [
+        "Große industrielle Fabrikanlage zur Zuckerverarbeitung.",
+        "Kombination aus Mühle, Siedehaus und Rum-Destillerie.",
+        "Verwendung von lokalem Vulkangestein für den Bau.",
+        "Übergang von tierischer Kraft zu modernen Dampfmaschinen.",
+        "Zentrum der wirtschaftlichen Macht Tobagos im 19. Jh.",
+        "Gut erhaltene Schornsteine als weithin sichtbare Landmarken.",
+        "Dokumentiert die harten Arbeitsbedingungen der Kolonialzeit.",
+        "Lehrplanfokus: Industrielle Revolution in der Karibik (K8)."
+      ]
+    },
+    {
+      "id": "tt-spanish-fort-tobago-history-v2",
+      "descriptionAdvanced": "Das spanische Fort auf Tobago, oft in den Chroniken als kleine Küstenbefestigung erwähnt, erinnert an die Bemühungen Spaniens, seinen Anspruch auf die Insel gegen niederländische und britische Eindringlinge zu verteidigen. Obwohl Spanien Tobago nie so intensiv besiedelte wie Trinidad, waren diese Forts strategische Außenposten zur Überwachung der Seewege. Die Ruinen bestehen meist aus einfachen Erdwällen und Steinplattformen, die so positioniert waren, dass sie die Einfahrt in strategisch wichtige Buchten kontrollierten. Die Architektur war weniger prätentiös als die späteren britischen Festungen, aber funktional für eine kleine Garnison. Dieser Ort ist ein Zeugnis für die Instabilität Tobagos, das im Laufe der Geschichte 33 Mal den Besitzer wechselte. Im Unterricht (Geschichte K7) dient das spanische Fort als Beispiel für die Herausforderungen bei der Verteidigung eines weitläufigen Inselreichs mit begrenzten Ressourcen.",
+      "factsAdvanced": [
+        "Frühe Küstenbefestigung zur Sicherung spanischer Ansprüche.",
+        "Strategischer Beobachtungsposten am Karibischen Meer.",
+        "Einfachere Bauweise im Vergleich zu britischen Forts.",
+        "Teil der Verteidigungskette gegen Freibeuter und Piraten.",
+        "Dokumentiert die wechselhafte Geschichte Tobagos.",
+        "Oft auf natürlichen Anhöhen mit weitem Sichtfeld gelegen.",
+        "Archäologische Belege für frühe spanische Militärpräsenz.",
+        "Lehrplanrelevanz: Verteidigung kolonialer Außenposten (K7)."
+      ]
+    },
+    {
+      "id": "tt-plantation-hospital-history-v2",
+      "descriptionAdvanced": "Das historische Plantagenkrankenhaus war eine spezialisierte Einrichtung auf den großen Ländereien Trinidads, die dazu diente, die Arbeitskraft der versklavten Menschen und später der Kontraktarbeiter zu erhalten. Obwohl die medizinische Versorgung nach heutigen Maßstäben rudimentär war, stellten diese Gebäude einen Fortschritt in der Organisation der Plantagenökonomie dar. Die Architektur war oft schlicht, mit Fokus auf Belüftung und Isolation von Infektionskrankheiten wie Pocken oder Cholera. Die Ruinen dieser Hospitäler geben Aufschluss über die Gesundheitsbedingungen und die damals praktizierte Medizin, die oft europäische Kenntnisse mit lokalem Kräuterwissen verband. Heute sind diese Stätten wichtige Orte der Reflexion über die menschlichen Kosten des Plantagensystems. Für Schüler (Geschichte/Biologie K8) bietet das Plantation Hospital eine Grundlage, um über soziale Fürsorge, Ausbeutung und die Geschichte der Tropenmedizin zu diskutieren.",
+      "factsAdvanced": [
+        "Medizinische Einrichtung zur Erhaltung der Sklaven-Arbeitskraft.",
+        "Zentrum für die Bekämpfung von Tropenkrankheiten vor Ort.",
+        "Architektonische Merkmale zur Förderung der Luftzirkulation.",
+        "Verbindung von europäischer Chirurgie und Kräutermedizin.",
+        "Oft in sicherer Entfernung zum Herrenhaus errichtet.",
+        "Zeugnis für die prekären Lebensbedingungen der Arbeiter.",
+        "Forschungsstätte für historische medizinische Praktiken.",
+        "Thema: Soziale Verhältnisse und Medizingeschichte (K8)."
+      ]
+    },
+    {
+      "id": "tt-old-port-office-history-v2",
+      "descriptionAdvanced": "Das Old Port Office in Port of Spain war im 19. Jahrhundert das pulsierende Herz des Handels in Trinidad. Als Kontrollstelle für alle ein- und ausgehenden Waren sowie für die Registrierung von Schiffen und Passagieren war dieses Gebäude von zentraler administrativer Bedeutung. Die Architektur im klassizistischen Stil strahlt Autorität und Ordnung aus, passend zu seiner Rolle als Tor zur Welt. Hier wurden Zölle erhoben, Schiffspapiere geprüft und wichtige Nachrichten von Übersee empfangen. Die Lage direkt am Kai ermöglichte eine unmittelbare Überwachung des Hafenbeckens. Heute ist das Gebäude ein Denkmal für die maritime Vergangenheit der Hauptstadt und beherbergt oft Archive oder Hafendienststellen. Für Schüler (Geographie/Geschichte K8) verdeutlicht das Old Port Office die Rolle des Welthandels für die Entwicklung Trinidads und die Bedeutung einer organisierten Hafenverwaltung.",
+      "factsAdvanced": [
+        "Verwaltungszentrum des historischen Hafens von Port of Spain.",
+        "Kontrollpunkt für Zoll, Einwanderung und Schiffsverkehr.",
+        "Architektur im repräsentativen britischen Kolonialstil.",
+        "Strategische Lage direkt am Golf von Paria.",
+        "Sammelstelle für Handelsstatistiken des 19. Jahrhunderts.",
+        "Symbol für die Anbindung Trinidads an den Welthandel.",
+        "Bewahrt historische Logbücher und maritime Dokumente.",
+        "Lehrplanfokus: Welthandel und Hafenstädte (K8)."
+      ]
+    },
+    {
+      "id": "tt-spanish-chapel-history-v2",
+      "descriptionAdvanced": "Die spanische Kapelle (Spanish Chapel) ist ein seltenes und spirituelles Überbleibsel der frühen katholischen Missionierung auf Trinidad. Diese kleinen Gotteshäuser wurden oft im ländlichen Raum errichtet, um den über die Insel verstreuten Siedlern und der bekehrten indigenen Bevölkerung einen Ort der Andacht zu bieten. Die Architektur ist geprägt von dicken Mauern, einfachen Glockentürmen und oft einem schattigen Vorplatz. Im Inneren finden sich oft Reste von Altären, die aus lokalem Holz geschnitzt wurden. Diese Kapellen waren nicht nur religiöse Zentren, sondern auch soziale Treffpunkte, die das Gemeinschaftsgefühl in der isolierten Kolonialgesellschaft stärkten. Die Spanish Chapel ist ein Zeugnis für die tiefe Verwurzelung des Katholizismus in der trinidadischen Kultur. Im Unterricht (Religionslehre/Geschichte K7) ermöglicht sie eine Auseinandersetzung mit der Rolle der Kirche bei der Formung der Gesellschaft und der Erhaltung spanischer Traditionen.",
+      "factsAdvanced": [
+        "Religiöses Zentrum aus der spanischen Kolonialzeit.",
+        "Ort der Missionierung und gemeinschaftlichen Andacht.",
+        "Schlichte, robuste Bauweise für das tropische Klima.",
+        "Zentrum für katholische Feste und Prozessionen.",
+        "Oft auf den Fundamenten früherer indigener Stätten.",
+        "Wichtiger Bewahrer spanischer Identität auf der Insel.",
+        "Beinhaltet oft historische religiöse Kunstwerke.",
+        "Lehrplanrelevanz: Kirche und Kolonialgesellschaft (K7)."
+      ]
+    },
+    {
+      "id": "tt-old-tobago-treasury-history-v2",
+      "descriptionAdvanced": "Das Old Tobago Treasury in Scarborough war das finanzielle Nervenzentrum der Insel während der britischen Herrschaft. Hier wurden die enormen Gewinne aus der Zucker- und Rumproduktion verwaltet, Steuern eingezogen und die Gehälter der Kolonialbeamten ausgezahlt. Das Gebäude, oft mit massiven Mauern und verstärkten Tresorräumen ausgestattet, spiegelt die wirtschaftliche Bedeutung Tobagos im 19. Jahrhundert wider. Die Architektur ist funktional, aber dennoch herrschaftlich, um den Reichtum und die Stabilität der Krone zu demonstrieren. Heute beherbergt das Gebäude oft Regierungsbüros oder Museen, die sich mit der Wirtschaftsgeschichte der Insel befassen. Für Schüler (Sozialkunde/Geschichte K8) bietet das Treasury einen Einblick in die Finanzverwaltung einer Kolonie und die Verteilung von Reichtum in einer Gesellschaft, die auf Plantagenarbeit basierte.",
+      "factsAdvanced": [
+        "Finanzzentrum der britischen Verwaltung auf Tobago.",
+        "Ort der Steuererhebung und Finanzplanung im 19. Jh.",
+        "Bauweise mit Fokus auf Sicherheit und Tresorräume.",
+        "Zentral gelegen in der Inselhauptstadt Scarborough.",
+        "Dokumentiert den Reichtum aus der Zuckerwirtschaft.",
+        "Wichtiges Denkmal der öffentlichen Architektur.",
+        "Heute oft als Teil des kulturellen Erbes geschützt.",
+        "Thema: Koloniale Verwaltung und Wirtschaft (K8)."
+      ]
+    },
+    {
+      "id": "tt-fort-james-history-v2",
+      "descriptionAdvanced": "Fort James auf Tobago ist eine der ältesten britischen Befestigungsanlagen der Insel und wurde strategisch günstig an der Plymouth-Küste errichtet. Es diente primär dazu, die Einfahrt in die Courland Bay zu schützen, eine Bucht, die wegen ihres tiefen Wassers bei Handels- und Kriegsschiffen gleichermaßen beliebt war. Das Fort zeichnet sich durch seine massiven Kanonen aus, die noch heute auf das Meer gerichtet sind, und seine gut erhaltenen Wallanlagen. Die Geschichte von Fort James ist eng mit den Konflikten zwischen Briten, Franzosen und Niederländern verknüpft, die alle um diesen wichtigen Stützpunkt kämpften. Der Ort bietet einen atemberaubenden Blick auf die Nordküste und ist ein populäres Ziel für Geschichtsinteressierte. In der pädagogischen Vermittlung (Geschichte K8) wird Fort James als klassisches Beispiel für die maritime Verteidigungsstrategie des British Empire in der Karibik behandelt.",
+      "factsAdvanced": [
+        "Eine der ältesten britischen Festungen auf Tobago.",
+        "Schutzanlage für die strategisch wichtige Courland Bay.",
+        "Benannt nach König James II. von England.",
+        "Beinhaltet original erhaltene Kanonen aus dem 18. Jh.",
+        "Schauplatz zahlreicher kolonialer Machtkämpfe.",
+        "Bietet exzellente Sichtachsen zur Küstenüberwachung.",
+        "Wichtiges Ausflugsziel für historische Bildung.",
+        "Lehrplanfokus: Britische Militärpräsenz (K8)."
+      ]
+    },
+    {
+      "id": "tt-cocoa-estate-office-history-v2",
+      "descriptionAdvanced": "Das Cocoa Estate Office war das administrative Gehirn einer Kakaoplantage in Trinidad. In einer Zeit, als Kakao 'Geld an den Bäumen' bedeutete, wurden hier die Ernten gewogen, die Löhne der Arbeiter berechnet und die Buchführung für den Export nach Europa und Nordamerika erledigt. Das Büro war oft ein eigenständiges Gebäude, das Sicherheit für Dokumente und Bargeld bot, meist in der Nähe des Herrenhauses oder des Trocknungsplatzes gelegen. Die Architektur war oft zweckmäßig, verfügte aber über erhöhte Böden zum Schutz vor Feuchtigkeit und Ungeziefer. Die erhaltenen Aufzeichnungen in solchen Büros sind heute unschätzbare Quellen für Historiker, um die täglichen Abläufe und die sozialen Beziehungen auf den Gütern zu rekonstruieren. Für Schüler (Geographie/Mathematik K6-K8) verdeutlicht das Estate Office die wirtschaftliche Planung und die Bedeutung von Organisation in der Landwirtschaft.",
+      "factsAdvanced": [
+        "Verwaltungszentrum einer Kakaoplantage (19./20. Jh.).",
+        "Ort der Buchführung, Lohnzahlung und Ernteerfassung.",
+        "Strategische Lage nahe den Produktionsstätten.",
+        "Bauweise optimiert für die Lagerung von Dokumenten.",
+        "Zeugnis für den wirtschaftlichen Erfolg des trinidadischen Kakaos.",
+        "Wichtige Quelle für sozialgeschichtliche Forschung.",
+        "Symbol für die Professionalisierung der Agrarwirtschaft.",
+        "Themen: Wirtschaftsmathematik und Agrargeographie (K6-K8)."
+      ]
+    },
+    {
+      "id": "tt-san-juan-cities-v2",
+      "descriptionAdvanced": "San Juan ist eine pulsierende Stadt am sogenannten East-West Corridor von Trinidad und dient als einer der wichtigsten Verkehrsknotenpunkte der Insel. Ursprünglich als ländliche Siedlung während der spanischen Kolonialzeit gegründet, hat sich San Juan zu einem geschäftigen Handelszentrum entwickelt, das Port of Spain mit dem Osten verbindet. Die Stadt ist bekannt für ihren lebhaften Markt, auf dem frische Erzeugnisse aus der gesamten Region gehandelt werden, und für ihre vielfältige Bevölkerung. Die strategische Lage macht San Juan zu einem idealen Standort für Industrie und Kleingewerbe. Trotz der Modernisierung bewahrt die Stadt an einigen Stellen ihren historischen Charme, insbesondere in der Nähe der St. John’s Church. Für Schüler (Geographie K7) ist San Juan ein hervorragendes Beispiel für urbane Entwicklung, Verkehrsflüsse und die Bedeutung von Satellitenstädten in einer Metropolregion.",
+      "factsAdvanced": [
+        "Zentraler Knotenpunkt am East-West Corridor.",
+        "Gegründet während der spanischen Kolonialära.",
+        "Bedeutendes Handelszentrum mit großem regionalem Markt.",
+        "Wichtiger Umsteigepunkt für den öffentlichen Nahverkehr.",
+        "Heimat einer vielfältigen, multikulturellen Bevölkerung.",
+        "Standort für zahlreiche kleine und mittlere Unternehmen.",
+        "Eingebettet in die Metropolregion Port of Spain.",
+        "Unterrichtsthema: Stadtgeographie und Verkehr (K7)."
+      ]
+    },
+    {
+      "id": "tt-diego-martin-cities-v2",
+      "descriptionAdvanced": "Diego Martin ist ein weitläufiges Wohngebiet und eine Region im Nordwesten von Trinidad, bekannt für ihr malerisches Tal und die grünen Hügelketten. Ursprünglich eine Region mit florierenden Kakao- und Zuckerrohrplantagen, hat sich Diego Martin zu einer der bevorzugten Wohngegenden für Pendler nach Port of Spain entwickelt. Das Tal ist geprägt von einer Mischung aus gehobenen Wohnvierteln und lebendigen Dorfgemeinschaften. Besonders sehenswert ist die historische Wassermühle (River Estate Water Wheel), die an die landwirtschaftliche Vergangenheit erinnert. Die Region bietet eine hohe Lebensqualität mit zahlreichen Parks und Freizeitmöglichkeiten. Geographisch gesehen ist Diego Martin durch seine Talkessellage interessant, was spezifische Herausforderungen für die Stadtplanung und den Hochwasserschutz mit sich bringt. Im Unterricht (Geographie K6) wird Diego Martin als Beispiel für suburbane Entwicklung und die Nutzung natürlicher Täler für den Wohnungsbau behandelt.",
+      "factsAdvanced": [
+        "Bevorzugte Wohnregion im Nordwesten von Trinidad.",
+        "Benannt nach einem spanischen Entdecker des 18. Jhs.",
+        "Einstiges Zentrum der Kakaoproduktion im Diego Martin Valley.",
+        "Wichtiger Vorort für Berufstätige aus Port of Spain.",
+        "Beherbergt das historische River Estate Water Wheel.",
+        "Geprägt durch eine markante Talkessellage.",
+        "Vielfältige soziale Struktur in verschiedenen Ortsteilen.",
+        "Lehrplanfokus: Suburbane Entwicklung und Naturraum (K6)."
+      ]
+    },
+    {
+      "id": "tt-couva-cities-v2",
+      "descriptionAdvanced": "Couva ist eine bedeutende Stadt in Zentral-Trinidad, die sich vom ehemaligen Zentrum der Zuckerindustrie zu einem modernen Industrie- und Sportknotenpunkt gewandelt hat. Gelegen in der Nähe des Golfs von Paria, dient Couva als administratives Zentrum für die umliegende Region. Die Stadt erlangte Weltruhm durch das Point Lisas Industrial Estate, eines der größten Industriegebiete der Karibik, das sich in unmittelbarer Nähe befindet. Zudem beherbergt Couva erstklassige Sportstätten wie das Ato Boldon Stadium und das National Cycling Centre, was die Stadt zu einem Zentrum für nationale Athleten macht. Trotz der industriellen Prägung bewahrt Couva eine starke Gemeinschaftsatmosphäre, besonders sichtbar während lokaler Feste. Für Schüler (Geographie K8) bietet Couva ein perfektes Studienobjekt für den wirtschaftlichen Strukturwandel von der Landwirtschaft zur Schwerindustrie und Petrochemie.",
+      "factsAdvanced": [
+        "Wirtschaftliches Zentrum in Zentral-Trinidad.",
+        "Tor zum riesigen Point Lisas Industrial Estate.",
+        "Einstiges Herz der trinidadischen Zuckerrohrwirtschaft.",
+        "Standort nationaler Sportstätten (Ato Boldon Stadium).",
+        "Wichtiger Verwaltungssitz für die Region Couva-Tabaquite-Talparo.",
+        "Zentrum für die Erdgas- und Chemieindustrie.",
+        "Verkehrstechnisch günstig am Sir Solomon Hochoy Highway.",
+        "Thema: Wirtschaftlicher Strukturwandel (K8)."
+      ]
+    },
+    {
+      "id": "tt-point-fortin-cities-v2",
+      "descriptionAdvanced": "Point Fortin, im Südwesten von Trinidad gelegen, ist historisch und wirtschaftlich untrennbar mit der Erdölindustrie verbunden. Als kleinste Gemeinde der Insel hat sie eine enorme wirtschaftliche Schlagkraft. Die Entwicklung der Stadt begann im frühen 20. Jahrhundert mit der Entdeckung von Öl, was Point Fortin zu einem Magneten für Arbeiter und Investoren machte. Heute ist die Stadt vor allem als Standort der Atlantic LNG-Anlage bekannt, einer der weltweit größten Anlagen zur Verflüssigung von Erdgas. Diese industrielle Bedeutung prägt das Stadtbild und den Lebensrhythmus der Bewohner. Jährlich feiert Point Fortin seinen Status als Gemeinde mit dem lebhaften 'Borough Day'-Festival, das Besucher aus dem ganzen Land anzieht. Im Unterricht (Geographie/Wirtschaft K8) dient Point Fortin als Fallstudie für eine Ressourcen-basierte Stadtentwicklung und die Bedeutung der Energieexporte für Trinidad.",
+      "factsAdvanced": [
+        "Zentrum der trinidadischen Erdöl- und Erdgasindustrie.",
+        "Heimat der gewaltigen Atlantic LNG-Verflüssigungsanlage.",
+        "Jüngste Gemeinde (Borough) von Trinidad und Tobago.",
+        "Entstand im frühen 20. Jahrhundert als 'Oil Town'.",
+        "Jährliches Borough Day Festival als kulturelles Highlight.",
+        "Wichtiger Tiefwasserhafen für den Energieexport.",
+        "Starke Identität als Arbeiterstadt im Südwesten.",
+        "Lehrplanrelevanz: Rohstoffe und Industrie (K8)."
+      ]
+    },
+    {
+      "id": "tt-princes-town-cities-v2",
+      "descriptionAdvanced": "Princes Town ist eine historische Stadt im südlichen Binnenland von Trinidad, die ihren Namen zu Ehren des Besuchs der Söhne von Königin Victoria im Jahr 1880 erhielt. Zuvor war die Stadt als 'Mission' bekannt, was auf ihre Ursprünge als spanische Missionsstation zurückgeht. Princes Town ist berühmt für die markanten Hügel in der Umgebung und das Phänomen der Schlammvulkane, wie den nahegelegenen 'Devil's Woodyard'. Die Stadt dient als wichtiger Marktplatz für die landwirtschaftlich geprägte Region Süd-Trinidads. Ein markantes Wahrzeichen sind die königlichen Palmen, die von den Prinzen während ihres Besuchs gepflanzt wurden. Die Stadt spiegelt die Vielfalt der trinidadischen Geschichte wider, von der indigenen Vergangenheit über die spanische Missionierung bis hin zur britischen Kolonialzeit. Für Schüler (Geschichte K7) bietet Princes Town einen Einblick in die koloniale Namensgebung und die Entwicklung von Missionsstationen zu modernen Städten.",
+      "factsAdvanced": [
+        "Benannt nach Prinz Albert Victor und Prinz George (1880).",
+        "Ursprünglich eine spanische Mission für Amerindians.",
+        "Zentrum des landwirtschaftlichen Handels im Süden.",
+        "Berühmt für die Schlammvulkane (Devil's Woodyard).",
+        "Wichtiger Standort der historischen Zuckerindustrie.",
+        "Königliche Palmen als lebendige Denkmäler des Besuchs.",
+        "Knotenpunkt für Reisen in den tiefen Süden der Insel.",
+        "Thema: Koloniale Geschichte und Geologie (K7)."
+      ]
+    },
+    {
+      "id": "tt-tunapuna-cities-v2",
+      "descriptionAdvanced": "Tunapuna ist eine dynamische Stadt am East-West Corridor, die vor allem als Bildungs- und Handelszentrum bekannt ist. Sie liegt strategisch günstig zwischen Port of Spain und Arima und beherbergt in unmittelbarer Nähe den Campus der University of the West Indies (UWI) in St. Augustine. Tunapuna ist berühmt für seinen lebhaften Markt und die geschäftige Main Road, die von zahlreichen Geschäften und Restaurants gesäumt ist. Die Stadt hat eine reiche kulturelle Tradition und ist ein Zentrum für Karnevalsaktivitäten und Steelpan-Musik. Als Wohnort ist Tunapuna aufgrund seiner exzellenten Anbindung und Infrastruktur sehr beliebt. Die Stadt spiegelt das moderne Trinidad wider, in dem Bildung, Handel und Kultur eng miteinander verflochten sind. Im Geographieunterricht (K7) wird Tunapuna als Beispiel für eine Stadt mit hoher Dienstleistungsdichte und als Bildungsstandort analysiert.",
+      "factsAdvanced": [
+        "Wichtiger Handelsplatz am East-West Corridor.",
+        "Direkte Nachbarschaft zum UWI-Campus St. Augustine.",
+        "Berühmter Wochenmarkt für frische Agrarprodukte.",
+        "Kulturelles Zentrum für Steelpan und Karneval.",
+        "Strategische Lage an der Priority Bus Route.",
+        "Hohe Konzentration an Schulen und Bildungseinrichtungen.",
+        "Multikulturelles Stadtbild mit starkem Gemeinschaftssinn.",
+        "Lehrplanfokus: Bildung und Dienstleistungen (K7)."
+      ]
+    },
+    {
+      "id": "tt-sangre-grande-cities-v2",
+      "descriptionAdvanced": "Sangre Grande ist die größte Stadt im Osten von Trinidad und dient als administratives und kommerzielles Zentrum für die gesamte Region östlich von Arima. Der Name, spanisch für 'Großes Blut', bezieht sich auf den Zusammenfluss zweier Flüsse in der Nähe. Sangre Grande entwickelte sich im späten 19. Jahrhundert rasant durch den Boom des Kakaoanbaus, was sie zu einer wohlhabenden Stadt machte. Heute ist sie das Tor zur Ostküste und zu den unberührten Stränden von Manzanilla und Toco. Die Stadt ist geprägt von einer lebhaften Geschäftigkeit und dient als wichtiger Versorgungsknotenpunkt für die ländlichen Gemeinden im Osten. In der Region um Sangre Grande finden sich noch viele Spuren der alten Kakaoplantagen. Für Schüler (Geographie K7) ist die Stadt ein Beispiel für ein regionales Zentrum, das eine weite ländliche Peripherie versorgt und den Übergang zur Ostküste markiert.",
+      "factsAdvanced": [
+        "Größte Stadt und Verwaltungszentrum im Osten Trinidads.",
+        "Name verweist auf den Zusammenfluss von Flüssen.",
+        "Historischer Reichtum durch den Kakaoboom des 19. Jhs.",
+        "Wichtiger Verkehrsknotenpunkt zur Ostküste.",
+        "Zentrum für Gesundheits- und Bildungsdienste der Region.",
+        "Tor zu den Naturschutzgebieten im Nordosten.",
+        "Sitz des Sangre Grande Regional Corporation.",
+        "Thema: Regionale Zentren und Landwirtschaft (K7)."
+      ]
+    },
+    {
+      "id": "tt-penal-cities-v2",
+      "descriptionAdvanced": "Penal ist eine bedeutende Stadt im südlichen Binnenland von Trinidad, die stark von der Landwirtschaft und der Ölindustrie geprägt ist. Die Region ist bekannt für ihre fruchtbaren Böden, auf denen traditionell Reis und Gemüse angebaut werden, was Penal zu einem wichtigen landwirtschaftlichen Versorgungszentrum macht. Gleichzeitig liegt die Stadt im Herzen des südlichen Ölfeldes, was zu einer industriellen Entwicklung geführt hat. Penal ist berühmt für seine lebhafte indotrinidadische Kultur, die sich in der Gastronomie, der Architektur und zahlreichen religiösen Festen widerspiegelt. Die Stadt hat in den letzten Jahren ein starkes wirtschaftliches Wachstum erlebt und sich zu einem modernen Handelszentrum entwickelt. Im Unterricht (Geographie K8) dient Penal als Beispiel für die Koexistenz von Landwirtschaft und Rohstoffindustrie sowie für die kulturelle Vielfalt des ländlichen Raums in Süd-Trinidad.",
+      "factsAdvanced": [
+        "Wichtige Stadt im südlichen 'Rice Belt' von Trinidad.",
+        "Zentrum der indotrinidadischen Kultur im Süden.",
+        "Strategische Lage innerhalb der südlichen Ölfelder.",
+        "Bedeutender Marktplatz für landwirtschaftliche Produkte.",
+        "Sitz wichtiger lokaler Verwaltungsbehörden.",
+        "Geprägt durch eine starke religiöse und kulturelle Vielfalt.",
+        "Wirtschaftliches Wachstum durch Handel und Industrie.",
+        "Lehrplanfokus: Agrar- und Rohstoffwirtschaft (K8)."
+      ]
+    },
+    {
+      "id": "tt-gasparillo-cities-v2",
+      "descriptionAdvanced": "Gasparillo ist eine lebendige Stadt in Zentral-Trinidad, die strategisch günstig am Sir Solomon Hochoy Highway liegt. Sie dient als wichtiges Wohn- und Geschäftszentrum für Menschen, die in der nahegelegenen Stadt San Fernando oder im Industriegebiet von Point Lisas arbeiten. Gasparillo hat sich von einer kleinen Siedlung zu einer dicht besiedelten Stadt mit einer Vielzahl von Geschäften, Banken und Restaurants entwickelt. Die Stadt ist bekannt für ihre gute Anbindung an das nationale Verkehrsnetz, was sie zu einem attraktiven Standort für Pendler macht. In der Umgebung finden sich sowohl Industrieanlagen als auch grüne Hügelketten. Gasparillo spiegelt die Urbanisierung Zentral-Trinidads wider, die durch den Ausbau der Infrastruktur vorangetrieben wurde. Für Schüler (Geographie K7) bietet Gasparillo Einblicke in die Themen Pendlerströme, Suburbanisierung und die Bedeutung von Fernstraßen für die Stadtentwicklung.",
+      "factsAdvanced": [
+        "Wichtige Pendlerstadt am Sir Solomon Hochoy Highway.",
+        "Zentral gelegen zwischen San Fernando und Couva.",
+        "Schnelles urbanes Wachstum in den letzten Jahrzehnten.",
+        "Bedeutendes Handelszentrum für die umliegenden Dörfer.",
+        "Gute Infrastruktur mit Schulen und Gesundheitseinrichtungen.",
+        "Geprägt durch eine multikulturelle Bevölkerung.",
+        "Wichtiger Knotenpunkt für den privaten und öffentlichen Verkehr.",
+        "Thema: Urbanisierung und Infrastruktur (K7)."
+      ]
+    },
+    {
+      "id": "tt-siparia-cities-v2",
+      "descriptionAdvanced": "Siparia, oft als 'The Sand City' bezeichnet, ist eine bedeutende Stadt im tiefen Süden von Trinidad mit einer reichen religiösen und kulturellen Geschichte. Sie ist weltberühmt für das Fest 'La Divina Pastora', das sowohl von Christen als auch von Hindus (die die Figur als 'Sipari Mai' verehren) gemeinsam gefeiert wird. Diese religiöse Verschmelzung ist ein einzigartiges Symbol für die Harmonie zwischen den verschiedenen Bevölkerungsgruppen Trinidads. Siparia ist zudem ein historisches Zentrum der Ölindustrie und der Landwirtschaft. Die Stadt hat ihren traditionellen Charme bewahrt, während sie gleichzeitig als administratives Zentrum der Region dient. In der Umgebung befinden sich wichtige archäologische Stätten der Amerindians. Im Unterricht (Sozialkunde/Geschichte K7) wird Siparia als Musterbeispiel für religiösen Synkretismus und das multikulturelle Erbe Trinidads behandelt.",
+      "factsAdvanced": [
+        "Berühmt für das interreligiöse Fest 'La Divina Pastora'.",
+        "Kulturelles Zentrum im tiefen Süden von Trinidad.",
+        "Historisch bedeutend für den frühen Ölboom.",
+        "Spitzname 'The Sand City' aufgrund lokaler Geologie.",
+        "Ort des religiösen Synkretismus (Sipari Mai).",
+        "Administrativer Sitz der Siparia Regional Corporation.",
+        "Beheimatet viele Pioniere der Parang-Musik.",
+        "Lehrplanrelevanz: Multikulturalismus und Religion (K7)."
+      ]
+    },
+    {
+      "id": "tt-claxton-bay-cities-v2",
+      "descriptionAdvanced": "Claxton Bay ist eine Küstenstadt in Zentral-Trinidad, die vor allem durch ihre industrielle Bedeutung und ihren Fischereihafen bekannt ist. Sie beherbergt die Trinidad Cement Limited (TCL), eine der wichtigsten Produktionsstätten für Zement in der gesamten Karibik. Diese industrielle Präsenz prägt das Stadtbild und die lokale Wirtschaft maßgeblich. Gleichzeitig bewahrt Claxton Bay seine Wurzeln als Fischerdorf; der lokale Fischmarkt ist ein wichtiger Treffpunkt und Versorgungsort für frische Meeresfrüchte. Die Stadt liegt verkehrsgünstig am Highway und bietet Zugang zum Golf von Paria. Claxton Bay ist ein interessantes Beispiel für die Koexistenz von traditionellem Handwerk und moderner Schwerindustrie. Im Geographieunterricht (K8) wird Claxton Bay genutzt, um die maritime Wirtschaft, industrielle Produktion und deren Umweltauswirkungen in Küstennähe zu untersuchen.",
+      "factsAdvanced": [
+        "Wichtiger Standort der Zementindustrie (TCL).",
+        "Traditioneller Fischereihafen am Golf von Paria.",
+        "Industrieller Knotenpunkt in Zentral-Trinidad.",
+        "Bedeutender Fischmarkt für die Region.",
+        "Strategische Lage zwischen Couva und San Fernando.",
+        "Mischung aus industrieller Zone und Wohngebieten.",
+        "Tor zur maritim geprägten Westküste.",
+        "Lehrplanfokus: Industrie und maritime Wirtschaft (K8)."
+      ]
+    },
+    {
+      "id": "tt-fyzabad-cities-v2",
+      "descriptionAdvanced": "Fyzabad ist eine historisch bedeutsame Stadt im Südwesten von Trinidad, die eine zentrale Rolle in der Geschichte der Arbeiterbewegung der Insel spielt. Gegründet von indischen Einwanderern im frühen 20. Jahrhundert, wurde die Stadt zum Schauplatz der Arbeiterunruhen von 1937, die von Tubal Uriah 'Buzz' Butler angeführt wurden. Diese Ereignisse führten zur Gründung moderner Gewerkschaften und prägten die politische Landschaft Trinidads entscheidend. Fyzabad liegt im Herzen der Ölregion und ist eng mit der Ölförderung verbunden. Jedes Jahr am 19. Juni wird hier der 'Labor Day' als nationaler Feiertag mit großen Paraden gefeiert. Die Stadt bewahrt ein starkes Gemeinschaftsbewusstsein und stolzes historisches Erbe. Im Unterricht (Geschichte K8) ist Fyzabad der zentrale Ort, um über Arbeiterrechte, soziale Bewegungen und die moderne Geschichte Trinidads zu lernen.",
+      "factsAdvanced": [
+        "Geburtsort der modernen Arbeiterbewegung Trinidads.",
+        "Zentrum der historischen Unruhen von 1937.",
+        "Verbunden mit dem Nationalhelden Tubal Uriah Butler.",
+        "Ort der jährlichen Labor Day Feierlichkeiten.",
+        "Gegründet durch indische Siedler aus Fyzabad, Indien.",
+        "Wichtige Stadt im südlichen Ölfördergebiet.",
+        "Symbol für den Kampf um soziale Gerechtigkeit.",
+        "Lehrplanrelevanz: Gewerkschaftsgeschichte und K8-Politik."
+      ]
+    },
+    {
+      "id": "tt-valencia-cities-v2",
+      "descriptionAdvanced": "Valencia ist eine wachsende Stadt im Nordosten von Trinidad, die als strategisches Tor zwischen Arima und der Ostküste dient. Die Stadt hat sich in den letzten Jahren von einer ländlichen Siedlung zu einem wichtigen Handels- und Wohnzentrum entwickelt. Valencia ist vor allem für den Abbau von Sand und Kies in der Umgebung bekannt, was eine wesentliche Ressource für die Bauindustrie der gesamten Insel darstellt. Geographisch liegt Valencia am Übergang zum Northern Range, was der Region eine reiche natürliche Schönheit mit Flüssen und Wäldern verleiht. Die Stadt ist ein beliebter Stopp für Reisende auf dem Weg zu den Stränden von Salybia und Toco. Valencia spiegelt die Expansion des Siedlungsraums entlang der Hauptstraßen im Osten wider. Im Unterricht (Geographie K7) wird Valencia als Beispiel für Rohstoffgewinnung und als Durchgangsstadt mit wachsender Versorgungsfunktion behandelt.",
+      "factsAdvanced": [
+        "Strategisches Tor zur Ostküste von Trinidad.",
+        "Wichtigstes Zentrum für den Sand- und Kiesabbau.",
+        "Schnell wachsendes Wohngebiet im Osten.",
+        "Beliebter Rastpunkt für Touristen und Pendler.",
+        "Eingebettet in die Ausläufer des Northern Range.",
+        "Wichtiger Lieferant für die nationale Bauwirtschaft.",
+        "Geprägt durch malerische Flüsse wie den Valencia River.",
+        "Lehrplanfokus: Rohstoffe und Stadtentwicklung (K7)."
+      ]
+    },
+    {
+      "id": "tt-freeport-cities-v2",
+      "descriptionAdvanced": "Freeport ist eine prosperierende Stadt in Zentral-Trinidad, die sich durch ihre dynamische wirtschaftliche Entwicklung und ihre exzellente Lage am Sir Solomon Hochoy Highway auszeichnet. Ursprünglich eine landwirtschaftliche Gemeinde, hat sich Freeport zu einem Zentrum für Logistik, Leichtindustrie und Einzelhandel gewandelt. Die Stadt beherbergt zahlreiche Lagerhäuser und Vertriebszentren, die von der schnellen Anbindung an Port of Spain und San Fernando profitieren. Ein kulturelles Highlight ist der imposante Hindu-Tempel in der Region, der die religiöse Vielfalt widerspiegelt. Freeport bietet eine Mischung aus modernen Wohnsiedlungen und traditionellen ländlichen Strukturen. Die Stadt ist ein Paradebeispiel für die wirtschaftliche Belebung Zentral-Trinidads durch verbesserte Infrastruktur. Für Schüler (Geographie K7) dient Freeport als Fallstudie für Logistikzentren und die Transformation ländlicher Räume in Wirtschaftsstandorte.",
+      "factsAdvanced": [
+        "Boomendes Logistikzentrum in Zentral-Trinidad.",
+        "Strategisch günstig am Haupt-Highway der Insel gelegen.",
+        "Standort zahlreicher Leichtindustrien und Großmärkte.",
+        "Heimat bedeutender religiöser Bauwerke (Hindu-Tempel).",
+        "Wichtiger Arbeitgeber für die mittlere Region der Insel.",
+        "Mischung aus moderner Vorstadt und agrarischem Erbe.",
+        "Schnell wachsender Einzelhandelssektor.",
+        "Lehrplanrelevanz: Logistik und Wirtschaftszonen (K7)."
+      ]
+    },
+    {
+      "id": "tt-debe-cities-v2",
+      "descriptionAdvanced": "Debe ist eine lebhafte Stadt im Süden von Trinidad, die vor allem für ihre kulinarische Kultur und ihre Stellung im landwirtschaftlichen Herzen der Insel bekannt ist. Weltberühmt ist Debe für seine 'Double'-Stände und andere traditionelle indo-trinidadische Delikatessen, die täglich Hunderte von Besuchern anlocken. Die Stadt liegt im fruchtbaren Schwemmland und ist ein Zentrum für den Gemüseanbau. Mit dem Bau des Campus der University of the West Indies (UWI) in Debe hat die Stadt an Bedeutung als Bildungsstandort gewonnen und erlebt derzeit einen starken Modernisierungsschub. Trotz der neuen Infrastruktur bewahrt Debe seinen Charakter als freundliche, marktorientierte Gemeinde. Im Geographieunterricht (K7) wird Debe als Beispiel für kulinarischen Tourismus, agrarische Spezialisierung und die Auswirkungen neuer Bildungseinrichtungen auf das lokale Wachstum analysiert.",
+      "factsAdvanced": [
+        "Kulinarisches Zentrum für 'Doubles' und 'Aloo Pie'.",
+        "Standort des neuen UWI South Campus.",
+        "Wichtiges landwirtschaftliches Zentrum für Gemüseanbau.",
+        "Schnell wachsende Stadt im Süden von San Fernando.",
+        "Berühmter Markt für regionale Agrarprodukte.",
+        "Geprägt durch eine starke indo-trinidadische Identität.",
+        "Profitierte stark von der Verlängerung des Highways.",
+        "Lehrplanfokus: Agrargeographie und Bildungsstandorte (K7)."
+      ]
+    }
+  ]
+}

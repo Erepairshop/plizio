@@ -2,307 +2,217 @@
   "lang": "de",
   "country": "madagascar",
   "files": [
-    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts"
   ],
   "items": [
     {
-      "id": "kirindy-wald-life-v2",
-      "descriptionAdvanced": "Das Kirindy-Reservat an der Westküste ist das Kronjuwel der madagassischen Trockenwälder. Bekannt als der Ort mit der weltweit höchsten Dichte an Primaten, ist dieser Wald der beste Platz, um den Fossa, das größte Raubtier Madagaskars, in freier Wildbahn zu beobachten. Das Reservat beherbergt einzigartige, an die extreme Trockenheit angepasste Pflanzen, darunter mehrere Baobab-Arten. Die faszinierenden nachtaktiven Lemuren (wie der winzige Berthe-Mausmaki, der kleinste Primat der Welt) ziehen Wissenschaftler aus aller Welt an, während lokale Führer (oft aus der Sakalava-Ethnie) ihr tiefes Wissen über die Pflanzenheilkunde teilen. Biologie K7 — Trockenwälder und Raubtiere.",
+      "id": "morondava-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Morondava an der Westküste ist das logistische Zentrum für die Region Menabe und ein wichtiger Umschlagplatz für Agrarprodukte aus dem fruchtbaren Hinterland. Historisch war der Hafen eine bedeutende Basis für den Handel des Sakalava-Königreichs. Heute ist er vor allem für den Export von Zebus, Getreide und Meeresfrüchten, insbesondere Shrimps, von Bedeutung. Die Versandung der Flussmündung des Morondava-Flusses stellt den Hafenbetrieb vor ständige Herausforderungen und erfordert regelmäßige Ausbaggerungen. Dennoch bleibt der Hafen ein unverzichtbarer Knotenpunkt für die Versorgung der westlichen Küstenorte, die oft auf dem Landweg nur schwer erreichbar sind. Die Atmosphäre ist geprägt durch die traditionellen 'Boutres' und die moderne Küstenfischerei. Wirtschaft K6 — Regionale Häfen und Deltalandschaften.",
       "factsAdvanced": [
-        "Eines der wichtigsten Schutzgebiete für madagassische Trockenwälder",
-        "Bester Ort weltweit, um den seltenen Fossa in freier Natur zu sehen",
-        "Heimat des kleinsten Primaten der Welt (Berthe-Mausmaki)",
-        "Besitzt eine extrem hohe Dichte an nachtaktiven Lemurenarten",
-        "Wird oft von lokalen Sakalava-Führern mit enormem Pflanzenwissen verwaltet",
-        "Gefährdet durch illegale Brandrodung und Lebensraumverlust"
+        "Wichtigster Exporthafen für Agrargüter der Region Menabe",
+        "Basis für die industrielle Fischerei und den Shrimps-Export",
+        "Historisch gewachsener Handelsplatz der Sakalava-Monarchie",
+        "Kämpft mit massiver Sedimentation durch den Morondava-Fluss",
+        "Umschlagplatz für Rinder (Zebus) in Richtung Norden",
+        "Logistisches Drehkreuz für die Versorgung abgelegener Küstendörfer",
+        "Strategischer Standort für die Lagerung von Baustoffen und Treibstoff",
+        "Besitzt eine vitale Flotte von traditionellen Holzsegelschiffen"
       ]
     },
     {
-      "id": "tsingy-bemaraha-park-life-v2",
-      "descriptionAdvanced": "Der Nationalpark Tsingy de Bemaraha im Westen Madagaskars ist ein UNESCO-Weltnaturerbe und eines der spektakulärsten geologischen Wunder der Erde. Die «Tsingy» sind ein massiver Wald aus messerscharfen, nadelförmigen Kalksteinspitzen, die durch jahrtausendelangen Monsunregen aus dem Fels gewaschen wurden. Zwischen diesen feindlichen Steinnadeln haben sich tiefe Schluchten mit Feuchtwäldern gebildet, die eine streng isolierte, einzigartige Fauna (wie den Deckens-Sifaka) beherbergen. Um diesen Park ranken sich Mythen lokaler Sakalava-Stämme, die die Klippen als heilige Rückzugsorte verehren. Geografie K8 — Karstlandschaften und Endemismus.",
+      "id": "dzamandzar-rum-economic-v2",
+      "descriptionAdvanced": "Die Rum-Destillerie Dzamandzar auf der Insel Nosy Be ist die Geburtsstätte des weltberühmten madagassischen Rums und ein Symbol für die industrielle Geschichte der Region Diana. Das Werk wurde im Zusammenhang mit den riesigen Zuckerrohrplantagen der Sirama gegründet, die einst die Landschaft der Insel dominierten. Dzama Rum verdankt seinen Namen dem Ort Dzamandzar und wird für seine außergewöhnliche Qualität geschätzt, die durch die Reifung in alten Eichenfässern erzielt wird. Obwohl die Zuckerfabrik selbst heute stillgelegt ist, bleibt die Produktion und Veredelung des Rums ein wichtiger Wirtschaftsfaktor und ein prestigeträchtiges Exportgut. Die Destillerie ist ein lebendiges Beispiel für die Veredelung von Agrarrohstoffen zu einem international anerkannten Luxusprodukt, das madagassisches Terroir weltweit bekannt macht. Wirtschaft K7 — Genussmittelindustrie und Inselwirtschaft.",
       "factsAdvanced": [
-        "UNESCO-Weltnaturerbe aus messerscharfen Karst-Kalksteinspitzen",
-        "Name «Tsingy» bedeutet wörtlich «wo man nicht barfuß gehen kann»",
-        "Einzigartige Mikro-Ökosysteme in den feuchten, tiefen Schluchten",
-        "Sehr isolierter Lebensraum für seltene Sifakas und Reptilien",
-        "Gilt bei den lokalen Sakalava als tief spiritueller, heiliger Ort",
-        "Erreicht man nur über extrem schwierige Pisten und Flussüberquerungen"
+        "Ursprungsort der bekanntesten madagassischen Rummarke 'Dzama'",
+        "Eng verbunden mit der Geschichte der Zuckerrohrindustrie auf Nosy Be",
+        "Nutzt traditionelle Destillationsverfahren zur Gewinnung feiner Aromen",
+        "Wichtigster Standort für die Alterung von Rum in Spezialfässern",
+        "Ein bedeutender Arbeitgeber in der Region Andoany",
+        "Besitzt ein hohes Ansehen in der internationalen Gourmet-Szene",
+        "Symbol für den Übergang von der Rohzuckerproduktion zur Spirituosenveredelung",
+        "Die Destillerie ist ein beliebtes Ziel für industrietouristische Besichtigungen"
       ]
     },
     {
-      "id": "sahambavy-tee-plantage-life-v2",
-      "descriptionAdvanced": "Die Sahambavy-Teeplantage in der Nähe von Fianarantsoa ist das einzige Teeanbaugebiet Madagaskars. Eingebettet in eine sanfte, smaragdgrüne Hügellandschaft neben einem malerischen See, wurde diese Plantage in den 1970er Jahren gegründet. Das kühle, neblige Mikroklima des südlichen Hochlandes bietet perfekte Bedingungen für die Teesträucher. Hunderte Frauen aus den umliegenden Betsileo-Dörfern ernten die Blätter traditionell von Hand, bevor sie in der anliegenden Fabrik zu grünem und schwarzem Tee verarbeitet werden, der vor allem nach Mombasa (Kenia) exportiert wird. Wirtschaft K5 — Sonderkulturen im Hochland.",
+      "id": "tolanaro-port-economic-v2",
+      "descriptionAdvanced": "Der alte Hafen von Tôlanaro (Fort-Dauphin) ist ein geschichtsträchtiger Ort an der Südostküste, der seit dem 17. Jahrhundert eine Brücke zwischen Europa und Madagaskar schlägt. Bevor der moderne Hafen Ehoala in Betrieb genommen wurde, war dieser geschützte Ankerplatz das einzige Tor für den Handel im tiefen Süden. Der Hafen war berühmt für den Export von Kautschuk, Wachs und den begehrten Langusten der Region Anosy. Das Hafenviertel bewahrt mit seinen Lagerhäusern und kolonialen Gebäuden den Charme einer vergangenen Ära der Handelsgesellschaften. Heute dient der alte Hafen primär der handwerklichen Fischerei und kleineren Küstenschiffen. Er bleibt ein identitätsstiftendes Merkmal von Tôlanaro und erinnert an die Zeiten, als französische Siedler und madagassische Händler hier Waren aus der unzugänglichen Wildnis des Hinterlandes austauschten. Geschichte K6 — Hafenstädte und Kolonialhandel.",
       "factsAdvanced": [
-        "Das einzige kommerzielle Teeanbaugebiet auf Madagaskar",
-        "Gelegen in den kühlen, nebligen Hügeln nahe Fianarantsoa",
-        "Ernte der Teeblätter erfolgt traditionell in reiner Handarbeit durch Frauen",
-        "Verarbeitet sowohl hochwertigen grünen als auch schwarzen Tee",
-        "Der Großteil der Produktion wird international exportiert (v.a. Kenia)",
-        "Gegründet in den späten 1970er Jahren zur Diversifizierung der Landwirtschaft"
+        "Ältester strategischer Hafenstandort im Süden Madagaskars",
+        "Wichtigster Umschlagplatz für Langusten und Meeresfrüchte weltweit",
+        "Historischer Stützpunkt der französischen Ostindien-Kompanie",
+        "Diente im 19. Jahrhundert als Ausgangspunkt für die Erschließung des Südens",
+        "Zentrum des regionalen Handels mit Sisal und Naturharzen",
+        "Die Bucht bietet Schutz vor den starken Winden des Indischen Ozeans",
+        "Symbolisiert die maritime Anbindung der isolierten Anosy-Provinz",
+        "Befindet sich in unmittelbarer Nähe zum historischen Fort Flacourt"
       ]
     },
     {
-      "id": "antsirabe-kinderpark-life-v2",
-      "descriptionAdvanced": "Der städtische Park (oft als Kinderpark bezeichnet) im Zentrum von Antsirabe ist eine grüne Lunge der Stadt und ein beliebter Treffpunkt für Familien. Am Wochenende pulsiert hier das Leben: Kinder spielen zwischen großen, schattenspendenden Nadelbäumen, während Straßenverkäufer Süßigkeiten, Zuckerwatte und das beliebte madagassische Eis verkaufen. Der Park ist ein Schmelztiegel der Gesellschaft, wo man die entspannte Atmosphäre des Hochlandes spürt und oft lokale Musiker (die Hira Gasy spielen) oder Akrobaten antrifft. Soziales K5 — Städtische Erholungsräume.",
+      "id": "toliara-sands-economic-v2",
+      "descriptionAdvanced": "Das Toliara Sands Projekt (jetzt oft als Base Toliara bezeichnet) ist ein bedeutendes, aber auch kontrovers diskutiertes Bergbauvorhaben im Südwesten Madagaskars. Es zielt auf den Abbau riesiger Vorkommen von Mineralsanden ab, insbesondere Ilmenit, Rutil und Zirkon, die sich in den Küstendünen nördlich von Toliara befinden. Diese Minerale sind essenziell für die weltweite Farben-, Kunststoff- und Keramikindustrie. Das Projekt verspricht massive Investitionen in die regionale Infrastruktur und tausende Arbeitsplätze in einer strukturschwachen Region. Es steht jedoch im Fokus heftiger Debatten über Landrechte, Umweltauswirkungen auf die empfindlichen Dornwälder und die Auswirkungen auf die traditionelle Lebensweise der lokalen Bevölkerung. Base Toliara repräsentiert das enorme Potenzial Madagaskars im Bereich der Schwermineralien und die Herausforderungen einer nachhaltigen Ressourcenwirtschaft. Wirtschaft K8 — Industrieller Bergbau und Umweltethik.",
       "factsAdvanced": [
-        "Zentraler öffentlicher Park und grüne Lunge der Stadt Antsirabe",
-        "Sehr beliebtes Wochenendziel für lokale Familien und Kinder",
-        "Gesäumt von großen, alten Nadelbäumen und Rasenflächen",
-        "Zentrum für kleine Straßenverkäufer und lokale Straßenmusiker",
-        "Oft Schauplatz traditioneller Aufführungen (Hira Gasy)",
-        "Wichtiger Ort für das soziale Leben und die Erholung der Stadtbewohner"
+        "Großprojekt zur Gewinnung von Ilmenit und Zirkon im Südwesten",
+        "Befindet sich in den küstennahen Dünenformationen der Region Ranobe",
+        "Besitzt eines der weltweit hochwertigsten Vorkommen an Mineralsanden",
+        "Sollte durch den Bau einer dedizierten Exportanlage am Hafen Toliara ergänzt werden",
+        "Wichtiger Faktor für die geplante wirtschaftliche Diversifizierung Madagaskars",
+        "Das Projekt unterliegt strengen internationalen Umweltauflagen",
+        "Ein Symbol für die Spannungen zwischen globalen Konzernen und lokalen Gemeinschaften",
+        "Zielt auf die Produktion von über 600.000 Tonnen Ilmenit pro Jahr ab"
       ]
     },
     {
-      "id": "andasibe-orchid-park-life-v2",
-      "descriptionAdvanced": "Der kleine, spezialisierte Orchideenpark in der Nähe des Andasibe-Nationalparks widmet sich der extrem vielfältigen und oft bedrohten Orchideenwelt Madagaskars. Die Insel beheimatet über tausend Orchideenarten, von denen die meisten endemisch sind. In diesem feuchten, geschützten Reservat können Besucher die Pflanzen in ihrer natürlichen Umgebung bewundern, wie sie als Epiphyten auf massiven Baumriesen wachsen. Besonders im madagassischen Frühling (Oktober/November) entfaltet sich hier eine unglaubliche Blütenpracht, die Botaniker aus der ganzen Welt anzieht. Biologie K6 — Tropische Botanik und Epiphyten.",
+      "id": "jb-confectionery-economic-v2",
+      "descriptionAdvanced": "Die JB-Süßwarenfabrik (Confiserie JB) in Antananarivo ist der unangefochtene Marktführer in der madagassischen Lebensmittelindustrie für Kaugummis, Bonbons und Kekse. Seit ihrer Gründung hat sich das Unternehmen zu einer Nationalmarke entwickelt, deren Produkte wie 'JB-Biscuits' in jedem kleinsten Dorfladen (Lépicerie) auf der Insel zu finden sind. Die Fabrik verarbeitet große Mengen an lokalem Zucker aus Ambilobe und Mehl, was sie zu einem wichtigen Abnehmer für die madagassische Landwirtschaft macht. JB steht für die erfolgreiche Etablierung einer modernen industriellen Produktion von Konsumgütern, die den Massenmarkt bedient. Das Unternehmen investiert kontinuierlich in moderne Verpackungs- und Produktionstechnologien, um wettbewerbsfähig gegenüber Importen zu bleiben. JB ist ein Symbol für madagassischen Unternehmergeist und die Kraft lokaler Marken. Wirtschaft K5 — Konsumgüter und nationale Märkte.",
       "factsAdvanced": [
-        "Spezialisiertes Reservat für heimische madagassische Orchideen",
-        "Gelegen in der extrem feuchten Umgebung von Andasibe",
-        "Zeigt Orchideen, die als Epiphyten auf Bäumen wachsen",
-        "Hauptblütezeit liegt im madagassischen Frühling (Oktober bis Dezember)",
-        "Dient dem Schutz bedrohter Arten, wie der berühmten Angraecum sesquipedale",
-        "Beliebtes Ziel für Botaniker und Naturfotografen weltweit"
+        "Größter Hersteller von Süßwaren und Keksen in Madagaskar",
+        "Die Marke JB genießt einen Bekanntheitsgrad von fast 100% auf der Insel",
+        "Hauptabnehmer für weißen Industriezucker der madagassischen Werke",
+        "Besitzt eine hochmoderne Produktionsstätte in der Hauptstadt",
+        "Bietet erschwingliche Lebensmittel für die breite Bevölkerung",
+        "Wichtiger Arbeitgeber im Sektor der industriellen Weiterverarbeitung",
+        "Das Unternehmen exportiert seine Produkte zunehmend in die Nachbarländer",
+        "Ein Pionier im Bereich des modernen madagassischen Marketings"
       ]
     },
     {
-      "id": "vakona-lemuren-insel-life-v2",
-      "descriptionAdvanced": "Die Lemuren-Insel der Vakona Forest Lodge nahe Andasibe ist ein halbwildes Schutzgebiet, das oft als Erstkontakt für Touristen mit der madagassischen Fauna dient. Auf einer von Flusskanälen umgebenen Insel leben Lemuren, die oft aus der illegalen Haustierhaltung gerettet wurden. Da sie an Menschen gewöhnt sind, springen Kattas, Braune Lemuren und die seltenen Schwarzweißen Varis oft direkt auf die Schultern der Besucher. Obwohl es kein wilder Nationalpark ist, bietet die Insel eine garantierte Begegnung und sensibilisiert stark für den Schutz dieser faszinierenden Primaten. Biologie K5 — Tierrettung und Tourismus.",
+      "id": "tsimiroro-oil-economic-v2",
+      "descriptionAdvanced": "Das Tsimiroro-Ölfeld in der Region Melaky im Westen Madagaskars beherbergt riesige Vorkommen an Schweröl und ist die Hoffnung für die energetische Unabhängigkeit der Insel. Das von Madagascar Oil betriebene Feld nutzt innovative Verfahren wie die Dampfflutung (Steam Flood), um das zähe Öl aus den Sandsteinschichten zu extrahieren. Tsimiroro ist eines der größten Onshore-Vorkommen seiner Art in Afrika. Das gewonnene Öl kann als Brennstoff für die thermischen Kraftwerke des Landes genutzt werden, was Madagaskars Abhängigkeit von teuren Dieselimporten massiv reduzieren könnte. Die Entwicklung des Feldes erfordert enorme Investitionen in Infrastruktur, wie Straßen und Pipelines in einem extrem abgelegenen Gebiet. Tsimiroro ist ein strategischer Pfeiler der madagassischen Industriepolitik für das 21. Jahrhundert. Wirtschaft K8 — Fossile Brennstoffe und Energiesicherheit.",
       "factsAdvanced": [
-        "Privates Insel-Reservat, das zur Vakona Forest Lodge gehört",
-        "Zufluchtsort für oft aus Gefangenschaft gerettete Lemuren",
-        "Tiere sind extrem zutraulich und interagieren direkt mit Besuchern",
-        "Insel ist natürlich durch tiefe Wassergräben begrenzt",
-        "Beherbergt Kattas, Braune Makis und die schwarzweißen Varis",
-        "Spielt eine große Rolle in der touristischen Naturschutz-Sensibilisierung"
+        "Größtes bekanntes Schwerölvorkommen auf madagassischem Boden",
+        "Schätzungen gehen von Reserven von über 1,7 Milliarden Barrel Öl aus",
+        "Nutzt thermische EOR-Technologie (Enhanced Oil Recovery) zur Förderung",
+        "Strategisch wichtig zur Senkung der nationalen Stromkosten",
+        "Das Ölfeld befindet sich im isolierten Binnenland der Region Melaky",
+        "Erfordert den Bau von spezialisierten beheizten Pipelines",
+        "Wichtiger Partner für den staatlichen Energieversorger JIRAMA",
+        "Symbol für die Transformation Madagaskars zum Energieproduzenten"
       ]
     },
     {
-      "id": "ampefy-geyser-park-life-v2",
-      "descriptionAdvanced": "Die Geysire von Analavory in der Nähe von Ampefy (Region Itasy) sind kein klassisches vulkanisches Phänomen, sondern sogenannte Kaltwassergeysire. Sie entstanden durch kohlesäurehaltiges Wasser, das aus artesischen Brunnen gepresst wird. Im Laufe der Jahre haben die gelösten Mineralien spektakuläre, farbenfrohe Kalksinter-Terrassen und Hügel geformt, die wie riesige Pilze aussehen. Das mineralhaltige Wasser wird von der lokalen Bevölkerung oft für medizinische und spirituelle Zwecke genutzt, und das Gelände ist ein beliebtes Ausflugsziel im zentralen Hochland. Geografie K6 — Geothermale Phänomene.",
+      "id": "bemolanga-tar-sands-economic-v2",
+      "descriptionAdvanced": "Die Ölsande von Bemolanga, nördlich von Tsimiroro in der Melaky-Region gelegen, stellen eine der weltweit bedeutendsten unerschlossenen Ressourcen an Kohlenwasserstoffen dar. Diese gigantische Lagerstätte von Bitumen und Teersanden erstreckt sich über hunderte Quadratkilometer im westlichen Binnenland. Die Gewinnung von Öl aus diesen Sanden ist technologisch komplex und energieintensiv, ähnlich wie in den kanadischen Ölsandfeldern. Trotz der Herausforderungen bleibt Bemolanga ein strategisches Asset für Madagaskar, das das Potenzial hat, das Land zu einem bedeutenden regionalen Energieakteur zu machen. Die Erschließung steht jedoch in ständigem Konflikt mit dem Schutz der einzigartigen Trockenwälder der Region. Bemolanga verdeutlicht die gewaltigen natürlichen Reichtümer Madagaskars, die tief im unzugänglichen Untergrund der Insel verborgen liegen. Wirtschaft K8 — Strategische Ressourcen und industrielle Erschließung.",
       "factsAdvanced": [
-        "Sind physikalisch Kaltwassergeysire, angetrieben von Kohlensäure",
-        "Gelegen in der alten vulkanischen Itasy-Region nahe Ampefy",
-        "Mineralien haben massive, bunte Kalksinter-Terrassen gebildet",
-        "Wasser wird wegen seines hohen Eisengehalts als heilend geschätzt",
-        "Phänomen entstand erst künstlich durch alte Brunnenbohrungen",
-        "Beliebtes Ziel für Familienausflüge aus der Hauptstadt"
+        "Eine der weltweit größten Lagerstätten für bituminöse Sande",
+        "Die Reserven werden auf mehrere Milliarden Tonnen Teersand geschätzt",
+        "Gelegen in einem extrem isolierten Gebiet des westlichen Madagaskar",
+        "Bedeutende Option für die langfristige Treibstoffversorgung des Landes",
+        "Abbau erfordert großflächige Bergbauoperationen und Wasserressourcen",
+        "Befindet sich seit Jahrzehnten im Fokus internationaler Energiekonzerne",
+        "Wichtiger Standort für geologische Forschung und Erkundung",
+        "Repräsentiert die enorme Rohstoffbasis des madagassischen Westens"
       ]
     },
     {
-      "id": "tamatave-stadtpark-life-v2",
-      "descriptionAdvanced": "Der Place Bien Aimé oder der große Stadtpark in Toamasina (Tamatave) ist ein historischer, von massiven Banyan-Bäumen gesäumter Platz im Herzen der Hafenstadt. Die jahrhundertealten Bäume mit ihren unzähligen Luftwurzeln verleihen dem Ort eine mystische Atmosphäre. Der Park ist ein zentraler Treffpunkt für die Einheimischen, besonders an den feuchtheißen Nachmittagen, wo man im dichten Schatten der Bäume sitzt, Brettspiele spielt und den oft schweren, süßen Duft der tropischen Pflanzen genießt. Der Platz atmet die tiefe, melancholische Kolonialgeschichte der Stadt. Soziales K5 — Städtische Baumriesen.",
+      "id": "sakoa-coal-economic-v2",
+      "descriptionAdvanced": "Das Sakoa-Kohlebecken im Südwesten Madagaskars beherbergt die bedeutendsten Steinkohlevorkommen der Insel. Die Lagerstätte in der Region Atsimo-Andrefana wurde bereits zu Beginn des 20. Jahrhunderts entdeckt, aber erst in jüngster Zeit gibt es konkrete Pläne für einen großflächigen industriellen Abbau. Die Kohle von Sakoa ist von hoher Qualität und könnte primär zur Stromerzeugung in lokalen Kraftwerken sowie für den Export über den Hafen von Toliara genutzt werden. Die Erschließung dieses Beckens ist ein Eckpfeiler der Strategie, Madagaskars Energiearmut durch den Bau von Kohlekraftwerken zu bekämpfen. Das Projekt umfasst den Bau einer über 100 Kilometer langen Eisenbahnlinie oder einer Schwerlaststraße zur Küste. Kritiker weisen jedoch auf die ökologischen Risiken und die globale Abkehr von fossilen Brennstoffen hin. Wirtschaft K8 — Bergbauinfrastruktur und Energiepolitik.",
       "factsAdvanced": [
-        "Historischer Platz (Place Bien Aimé) im Herzen von Toamasina",
-        "Gesäumt von uralten, gewaltigen Banyan-Bäumen (Ficus)",
-        "Dichtes Netzwerk aus Luftwurzeln erzeugt eine einzigartige Atmosphäre",
-        "Wichtiger schattiger Rückzugsort vor der extremen Küstenhitze",
-        "Beliebter sozialer Treffpunkt der Einheimischen für Spiele und Entspannung",
-        "Spiegelt die koloniale Stadtplanung der französischen Ära wider"
+        "Hauptherkunftsort für hochwertige Steinkohle in Madagaskar",
+        "Die Kohlereserven in Sakoa werden auf über 200 Millionen Tonnen geschätzt",
+        "Strategischer Standort zur industriellen Entwicklung des Südwestens",
+        "Erfordert den Bau eines neuen Kohleterminals am Hafen von Toliara",
+        "Soll die Stromversorgung für Bergbau- und Industrieprojekte sichern",
+        "Wichtiger potenzieller Arbeitgeber in einer der ärmsten Regionen der Insel",
+        "Die Kohleflöze liegen relativ oberflächennah und sind im Tagebau zugänglich",
+        "Gegenstand intensiver nationaler Debatten über den Energiemix"
       ]
     },
     {
-      "id": "maroantsetra-vanille-farm-life-v2",
-      "descriptionAdvanced": "Die traditionellen Vanille-Farmen rund um Maroantsetra sind das Herzstück der lokalen Wirtschaft im feuchten Nordosten. Da die natürliche Bestäuber-Biene auf Madagaskar nicht vorkommt, muss auf diesen Plantagen im madagassischen Sommer jede einzelne Vanille-Orchideenblüte von den Bauern mit einem kleinen Bambusstäbchen von Hand bestäubt werden («le mariage»). Der anschließende, monatelange Trocknungs- und Fermentationsprozess auf hölzernen Tischen erfüllt die Dörfer in der Erntezeit mit dem schweren, intensiven Duft von reiner Bourbon-Vanille. Wirtschaft K6 — Gewürzanbau und Weltmärkte.",
+      "id": "fanalamanga-forestry-economic-v2",
+      "descriptionAdvanced": "Fanalamanga (Forêt d'Antananarivo-Lac Alaotra) ist das größte staatliche Forstwirtschaftsunternehmen Madagaskars und verwaltet riesige Kiefern- und Eukalyptusplantagen im östlichen Hochland. Gegründet in den 1970er Jahren, zielt das Projekt darauf ab, den enormen Bedarf des Landes an Bauholz, Telefonmasten und Brennstoffen nachhaltig zu decken und gleichzeitig den Druck auf die natürlichen Primärwälder zu verringern. Fanalamanga betreibt eigene Sägewerke und Verarbeitungsanlagen in der Nähe von Moramanga. Die forstwirtschaftlichen Flächen dienen zudem als wichtiger Erosionsschutz in einer Region, die durch Lavakas gefährdet ist. Das Unternehmen ist ein Beispiel für die langfristige Planung staatlicher Ressourcen und spielt eine zentrale Rolle in der madagassischen Bauindustrie. Die Plantagen prägen das Landschaftsbild entlang der RN2 und sind ein bedeutender Kohlenstoffspeicher. Wirtschaft K7 — Forstwirtschaft und nachhaltige Ressourcen.",
       "factsAdvanced": [
-        "Gelegen im extrem feuchten, heißen Nordosten bei Maroantsetra",
-        "Jede Orchideenblüte muss manuell von Hand bestäubt werden",
-        "Der komplexe Trocknungs- und Fermentationsprozess dauert Monate",
-        "Die Region liefert die weltbekannte, hochwertige Bourbon-Vanille",
-        "Hoher Wert macht die Ernte oft zum Ziel von nächtlichen Diebstählen",
-        "Ganzer Lebensrhythmus der Dörfer richtet sich nach der Vanillesaison"
+        "Größtes forstwirtschaftliches Unternehmen in Madagaskar",
+        "Verwaltet über 70.000 Hektar künstlich angelegter Wälder",
+        "Hauptlieferant für Bauholz und industrielle Holzprodukte der Insel",
+        "Zentrum für die Produktion von Terpentin und Kolophonium aus Kiefernharz",
+        "Die Plantagen befinden sich primär in der Region Alaotra-Mangoro",
+        "Wichtiger Partner für die nationale Stromgesellschaft JIRAMA (Strommasten)",
+        "Fördert die lokale Beschäftigung im Bereich Waldpflege und Holzverarbeitung",
+        "Symbol für den Schutz der Biodiversität durch alternative Holzquellen"
       ]
     },
     {
-      "id": "nosy-be-korallenriff-life-v2",
-      "descriptionAdvanced": "Die ausgedehnten Korallenriffe rund um Nosy Be und ihre kleinen Nachbarinseln (wie Nosy Sakatia) zählen zu den artenreichsten marinen Lebensräumen des Indischen Ozeans. Diese sensiblen Riffe beherbergen Meeresschildkröten, unzählige bunte Riff-Fische, Riffhaie und gelegentlich auch majestätische Walhaie. Sie sind die Lebensgrundlage der lokalen Sakalava-Fischer, die in ihren Auslegerkanus (Pirogen) auf das Meer hinausfahren, sowie der Hauptmagnet für den internationalen Tauchtourismus. Steigende Meerestemperaturen und Überfischung stellen jedoch eine ständige Bedrohung dar. Biologie K7 — Korallenriffe und Meeresschutz.",
+      "id": "pecheries-nosy-be-economic-v2",
+      "descriptionAdvanced": "Les Pêcheries de Nosy Be (PNB) ist ein traditionsreiches Fischereiunternehmen, das die wirtschaftliche Identität der 'Parfüminsel' im Norden entscheidend mitgeprägt hat. Spezialisiert auf den Fang und die Verarbeitung von Garnelen und Meeresfischen, war das Unternehmen jahrzehntelang der wichtigste industrielle Arbeitgeber auf Nosy Be. Die Fangflotte der PNB operiert im nährstoffreichen Kanal von Mosambik, wo die Garnelen von Weltruf geerntet werden. Das Unternehmen verfügt über umfangreiche Kühlanlagen und Verarbeitungszentren in Hell-Ville, von wo aus die Produkte direkt in den Export gehen. Obwohl der Sektor heute mit sinkenden Beständen und ökologischen Auflagen kämpft, bleibt die Fischereiindustrie ein unverzichtbarer Pfeiler der madagassischen Exportökonomie. PNB steht für die maritime Kompetenz Madagaskars und den Reichtum seiner Küstengewässer. Wirtschaft K6 — Maritime Wirtschaft und Exportfischerei.",
       "factsAdvanced": [
-        "Zählt zu den wichtigsten Tauch- und Schnorchelrevieren Madagaskars",
-        "Beherbergt unzählige Fischarten, Meeresschildkröten und Riffhaie",
-        "Riffe sind die existenzielle Basis für die lokalen Pirogen-Fischer",
-        "Stark bedroht durch Korallenbleiche (Klimawandel) und Überfischung",
-        "Wichtiger Lebensraum auf der Route von wandernden Walhaien",
-        "Bilden eine natürliche Barriere, die Nosy Be vor großen Wellen schützt"
+        "Ältestes industrielles Fischereiunternehmen auf der Insel Nosy Be",
+        "Hauptexporteur von wild gefangenen Garnelen ('Crevettes de Madagascar')",
+        "Betreibt eine eigene Flotte spezialisierter Trawler im Nordwesten",
+        "Die Verarbeitungsanlage in Andoany erfüllt höchste EU-Hygienestandards",
+        "Wichtigster Devisenbringer für die Provinz Antsiranana neben der Vanille",
+        "Das Unternehmen ist ein Pionier in der nachhaltigen Bewirtschaftung von Garnelenbeständen",
+        "Sichert tausende indirekte Arbeitsplätze in der Zulieferindustrie",
+        "Ein Wahrzeichen für die industrielle Fischereitradition des Landes"
       ]
     },
     {
-      "id": "ranomafana-zoo-bereich-life-v2",
-      "descriptionAdvanced": "Das Dorf am Rande des Ranomafana-Nationalparks dient als lebendiges wissenschaftliches und touristisches Zentrum (oft fälschlicherweise als Zoo-Bereich bezeichnet). Hier befindet sich das Centre ValBio, ein international renommiertes Forschungszentrum. In und um das Dorf können Forscher und Besucher halbwilde Gruppen des seltenen Goldenen Bambuslemuren beobachten, dessen Entdeckung 1986 überhaupt erst zur Gründung des Nationalparks führte. Die enge Zusammenarbeit zwischen lokalen Tanala-Gemeinschaften und internationalen Forschern macht diesen Ort zu einem Vorbild für Ökotourismus. Biologie K8 — Primatenforschung und Reservate.",
+      "id": "somacou-textile-economic-v2",
+      "descriptionAdvanced": "Somacou (Société Malgache de Couvertures) ist ein bedeutendes Textilunternehmen in Antananarivo, das sich auf die Herstellung von Decken und Heimtextilien spezialisiert hat. Das Unternehmen ist ein fester Bestandteil der madagassischen Industrielandschaft und versorgt seit Jahrzehnten den Binnenmarkt mit robusten und erschwinglichen Textilprodukten. Somacou nutzt eine Kombination aus lokalem Baumwollgarn und synthetischen Fasern, um Produkte herzustellen, die besonders im kühlen Hochland unverzichtbar sind. Die Fabrik ist ein Beispiel für den Erfolg madagassischer Betriebe in der Nischenproduktion für den regionalen Bedarf. Neben Decken produziert Somacou auch Textilien für den medizinischen Bereich und staatliche Institutionen. Das Unternehmen steht für Beständigkeit und die Fähigkeit, sich an die sich ändernden Bedürfnisse des madagassischen Marktes anzupassen. Wirtschaft K6 — Leichtindustrie und Binnenmarktversorgung.",
       "factsAdvanced": [
-        "Zentrum der internationalen Forschung am Rande des Ranomafana-Parks",
-        "Beherbergt das weltberühmte Forschungszentrum Centre ValBio",
-        "Bekannt für die Population des endemischen Goldenen Bambuslemuren",
-        "Nationalpark wurde 1991 nach der Entdeckung dieses Lemuren gegründet",
-        "Tiere ernähren sich von zyanidhaltigem Bambus ohne sich zu vergiften",
-        "Vorzeigeprojekt für die Integration von Dorfgemeinschaften in den Naturschutz"
+        "Führender Hersteller von Decken und Heimtextilien in Madagaskar",
+        "Die Produkte von Somacou sind in fast jedem Haushalt des Hochlands präsent",
+        "Wichtiger Standort für die industrielle Weberei in der Hauptstadt",
+        "Das Unternehmen blickt auf eine über 50-jährige Firmengeschichte zurück",
+        "Verarbeitet sowohl Naturfasern als auch recycelte Textilstoffe",
+        "Sichert die Versorgung mit essenziellen Textilgütern zu fairen Preisen",
+        "Besitzt ein weitreichendes Vertriebsnetz über die gesamte Insel",
+        "Symbol für die madagassische Textiltradition jenseits des Mode-Exports"
       ]
     },
     {
-      "id": "lakato-lemuren-schutz-life-v2",
-      "descriptionAdvanced": "Die Region um Lakato, ein abgelegenes Gebiet südöstlich von Moramanga, ist ein entscheidender, oft unbesungener Puffer für den Schutz der Lemuren. Hier versuchen kommunale Waldmanagement-Projekte (VOI), die illegale Abholzung und den «Tavy» (Brandrodungsfeldbau) zu stoppen, indem sie den Einheimischen alternative Einkommensquellen durch Ökotourismus bieten. Die noch intakten Primärwälder sind Zufluchtsorte für schwer zu beobachtende Arten wie den Diademsifaka. Dieses Basis-Engagement verdeutlicht den täglichen Kampf madagassischer Gemeinden um ihr Naturerbe. Ökologie K7 — Gemeindebasierter Waldschutz.",
+      "id": "antsingy-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Antsingy, in der Nähe von Maintirano im Westen Madagaskars gelegen, ist ein kleiner, aber strategisch wichtiger Küstenhandelsplatz. Als Tor zur Region Melaky dient er primär dem regionalen Warentausch und der Versorgung des isolierten Hinterlandes. Der Hafen ist durch weite Sandbänke und Mangroven charakterisiert, was die Anlandung größerer Schiffe erschwert, weshalb traditionelle Segelschiffe (Boutres) hier dominieren. Wirtschaftlich ist Antsingy entscheidend für den Abtransport von Rindern und Agrarprodukten in Richtung Mahajanga. Trotz der begrenzten Infrastruktur bleibt der Hafen ein vitaler Lebensnerv für eine Region, die auf dem Landweg während der Regenzeit oft monatelang von der Außenwelt abgeschnitten ist. Er verkörpert die maritime Tradition der Sakalava-Küste und die Bedeutung der Küstenschifffahrt für den nationalen Zusammenhalt. Wirtschaft K6 — Küstenschifffahrt und isolierte Märkte.",
       "factsAdvanced": [
-        "Abgelegenes Waldgebiet südöstlich des Moramanga-Distrikts",
-        "Schwerpunkt gemeindebasierter Waldschutzprojekte (VOI)",
-        "Bekämpft aktiv die Zerstörung durch traditionellen Tavy (Brandrodung)",
-        "Wichtiger Zufluchtsort für den seltenen und bunten Diademsifaka",
-        "Lokale Bauern werden zu Waldhütern und Touristenführern ausgebildet",
-        "Ein kritischer Pufferwald für die großen Nationalparks der Ostküste"
+        "Zentraler Versorgungshafen für die isolierte Region Melaky",
+        "Wichtigster Umschlagplatz für Zebus auf dem Seeweg zur Westküste",
+        "Historisch bedeutender Platz für den Handel im Kanal von Mosambik",
+        "Der Hafenbetrieb ist stark von den Gezeiten und Wetterbedingungen abhängig",
+        "Dient als logistische Basis für kleinere Bergbauerkundungen im Westen",
+        "Zentrum des Austauschs zwischen Vezo-Fischern und Sakalava-Hirten",
+        "Strategischer Punkt für die staatliche Präsenz im weiten Westen",
+        "Besitzt eine vitale Bedeutung für die regionale Ernährungssicherheit"
       ]
     },
     {
-      "id": "antsirabe-reis-felder-life-v2",
-      "descriptionAdvanced": "Die Reisterrassen rund um Antsirabe im Vakinankaratra-Hochland sind nicht nur eine landwirtschaftliche Notwendigkeit, sondern auch ein Meisterwerk landschaftlicher Gestaltung. Wie grüne Treppenstufen schmiegen sich die Felder an die Hänge der erloschenen Vulkane. Der Anbau von Nassreis ist tief in der Kultur der Merina und Betsileo verwurzelt. Das gemeinschaftliche Pflanzen der Setzlinge und die Ernte sind soziale Großereignisse, die von Gesang und traditionellen Riten begleitet werden. Das komplexe Bewässerungssystem leitet Bergquellwasser durch kilometerlange kleine Kanäle. Landwirtschaft K5 — Terrassenfeldbau und Reiskultur.",
+      "id": "maintirano-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Maintirano ist das ökonomische Zentrum der Melaky-Region an der Westküste Madagaskars und ein Symbol für die Herausforderungen der maritimen Anbindung des Landes. Gelegen an einer exponierten Küste, dient der Hafen als primäres Tor für den Export von Zebus, Mais und Meeresfrüchten aus einer der am dünnsten besiedelten Provinzen der Insel. Da Maintirano über keine asphaltierte Straßenverbindung verfügt, ist der Hafen der einzige Weg für schwere Güter und Treibstoffe. Der Hafen wird von der traditionellen Flotte der Boutres und kleineren Motorschiffen dominiert, die den Kontakt zu Mahajanga und den Komoren halten. In Maintirano trifft die harte Realität der geografischen Isolation auf den Reichtum an natürlichen Ressourcen, was den Hafen zu einem der wichtigsten, wenn auch technologisch einfachsten Knotenpunkte des madagassischen Westens macht. Wirtschaft K7 — Küstenlogistik und maritime Isolation.",
       "factsAdvanced": [
-        "Landschaftsprägende Reisterrassen im zentralen Hochland bei Antsirabe",
-        "Aufwendig an den Hängen erloschener Vulkane angelegt",
-        "Nutzen komplexe, jahrhundertealte Kanalsysteme zur Bewässerung",
-        "Reis ist das Grundnahrungsmittel und kulturelle Herz Madagaskars",
-        "Anpflanzung und Ernte sind tief verwurzelte gemeinschaftliche Ereignisse",
-        "Die Terrassen verhindern gleichzeitig die massive Bodenerosion (Lavaka)"
+        "Haupthafen der administrativen Hauptstadt der Region Melaky",
+        "Wichtigster Exporthafen für lebende Zebus im westlichen Madagaskar",
+        "Der Hafen besitzt keine modernen Kais und erfordert den Einsatz von Leichtern",
+        "Einziger zuverlässiger Versorgungspunkt für das gesamte Hinterland im Westen",
+        "Zentrum für den Handel mit getrocknetem Fisch und Meeresprodukten",
+        "Die Region ist berühmt für ihren Reichtum an Garnelen und Seegurken",
+        "Symbolisiert den Widerstand der westlichen Wirtschaft gegen infrastrukturelle Mängel",
+        "Besitzt eine historische Bedeutung für den Seehandel mit Ostafrika"
       ]
     },
     {
-      "id": "nosy-tanikely-marine-life-v2",
-      "descriptionAdvanced": "Der Nationalpark Nosy Tanikely ist eine kleine, unbewohnte Insel vor Nosy Be und wohl das berühmteste Unterwasserschutzgebiet Madagaskars. Die Insel ist von einem extrem flachen und kristallklaren Korallenriff umgeben, was sie zu einem perfekten Ort für Schnorchler macht. Dank strenger Schutzmaßnahmen («No-Take-Zone») ist die Fischdichte und Korallengesundheit hier deutlich besser als in ungeschützten Gewässern. Bunte Papageienfische, riesige Meeresschildkröten und Rochen schwimmen ungestört zwischen farbenprächtigen Hart- und Weichkorallen. Biologie K6 — Marine Schutzgebiete.",
+      "id": "sainte-marie-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Ambodifotatra auf der Insel Sainte-Marie (Nosy Boraha) ist das logistische Herzstück einer Inselwirtschaft, die fast vollständig vom Tourismus und dem Gewürzhandel abhängt. Als einziger Anbindungspunkt zum Festland (Soanierana Ivongo) wickelt der Hafen den gesamten Personen- und Warenverkehr der Insel ab. Hier landen täglich die schnellen Passagierfähren und die Frachtschiffe mit Lebensmitteln, Baustoffen und Treibstoff. In der Erntesaison verwandelt sich der Hafen in ein Exportzentrum für Bio-Vanille und Gewürznelken, die auf der Insel in hoher Qualität angebaut werden. Zudem ist der Hafen der Ausgangspunkt für die berühmten Walbeobachtungstouren, die Sainte-Marie weltbekannt gemacht haben. Die Architektur der Hafenanlagen bewahrt koloniale Züge und spiegelt die maritime Tradition der Insel wider, die einst ein berüchtigter Piratenstützpunkt war. Wirtschaft K7 — Insellogistik und Ökotourismus.",
       "factsAdvanced": [
-        "Kleiner, unbewohnter mariner Nationalpark nahe der Insel Nosy Be",
-        "Gilt als das schönste und intakteste Schnorchelrevier Madagaskars",
-        "Strenges Fangverbot (No-Take-Zone) sichert die enorme Biodiversität",
-        "Kristallklares Flachwasser bietet perfekte Bedingungen für Meeresschildkröten",
-        "Die Korallenriffe hier erholen sich besser von globaler Bleiche",
-        "Gekrönt wird die kleine Insel von einem verlassenen alten Leuchtturm"
+        "Einziges Tor für den Warentransport auf die Insel Sainte-Marie",
+        "Hauptstützpunkt für die Flotten der Walbeobachtungstouristen",
+        "Wichtiger Umschlagplatz für Gewürznelken und Vanille der Region Analanjirofo",
+        "Der Hafen liegt geschützt in der Bucht von Ambodifotatra",
+        "Logistisches Drehkreuz für die Versorgung der exklusiven Insel-Resorts",
+        "Besitzt eine lange Geschichte als Ankerplatz für Piratenschiffe",
+        "Sichert den täglichen Austausch mit dem Festland über die RN5-Anbindung",
+        "Ein bedeutender Standort für die kleingewerbliche Küstenfischerei"
       ]
     },
     {
-      "id": "toliara-botanischer-garten-life-v2",
-      "descriptionAdvanced": "Das Arboretum d'Antsokay, in der Nähe von Toliara im Südwesten, ist ein einzigartiger botanischer Garten, der vom Schweizer Botaniker Hermann Pétignat gegründet wurde. Das Reservat widmet sich ausschließlich der extrem spezialisierten Flora der madagassischen Dornenwälder. Auf einem relativ kleinen Areal können Besucher Hunderte Arten von Sukkulenten, Flaschenbäumen, Pachypodium und stacheligen Euphorbien sehen, von denen fast 90 % endemisch sind. Der Garten ist ein «Arche-Noah»-Projekt, da die umliegenden Dornenwälder massiv durch Köhlerei zerstört werden. Biologie K7 — Xerophyten und botanische Gärten.",
+      "id": "soavoanio-coconut-economic-v2",
+      "descriptionAdvanced": "Die Soavoanio-Plantage bei Sambava ist einer der weltweit größten zusammenhängenden Kokosnusshaine und ein bedeutender Pfeiler der madagassischen Agrarindustrie. Auf einer Fläche von über 5.000 Hektar erstrecken sich Millionen von Kokospalmen entlang der Nordostküste. Das Unternehmen produziert nicht nur Kopra (getrocknetes Kernfleisch), sondern ist auch auf die Herstellung von hochwertigem Kokosöl, Seife und Saatgut spezialisiert. Soavoanio ist ein Paradebeispiel für eine nachhaltige Plantagenwirtschaft, die als Pufferzone zwischen dem Meer und den Vanillefeldern im Landesinneren dient. Die Plantage ist zudem ein wichtiger Forschungsstandort für Hybrid-Palmen, die resistent gegen tropische Krankheiten sind. Mit hunderten Festangestellten ist Soavoanio der größte agrarische Arbeitgeber in der Küstenebene von Sambava und trägt wesentlich zur Diversifizierung der madagassischen Exporte bei. Wirtschaft K6 — Tropische Baumkulturen und Ölsaaten.",
       "factsAdvanced": [
-        "Berühmter botanischer Garten (Arboretum d'Antsokay) nahe Toliara",
-        "Gegründet in den 1980ern vom Schweizer Naturforscher Hermann Pétignat",
-        "Konzentriert sich auf extrem trockenheitsresistente Pflanzen (Sukkulenten)",
-        "Bewahrt über 900 Pflanzenarten, die zu 90% rein endemisch sind",
-        "Dient als Zufluchtsort (Arche) für Arten aus zerstörten Dornenwäldern",
-        "Ein Zentrum für die Forschung an madagassischen Heilpflanzen"
-      ]
-    },
-    {
-      "id": "manakara-kanal-life-v2",
-      "descriptionAdvanced": "Der Abschnitt des Canal des Pangalanes bei Manakara ist eine faszinierende Lebensader für die Menschen an der Südostküste. Dieses künstliche und natürliche Netz aus Seen und Wasserwegen verläuft parallel zum stürmischen Indischen Ozean. Auf dem Kanal herrscht ein reges Treiben: Pirogen (Einbäume) voller Bananen, Litschis und geflochtenen Matten werden zu den Märkten transportiert. Für die Dörfer der Antemoro-Bevölkerung am Ufer, die oft keine Straßenanbindung haben, ist das ruhige, braune Wasser des Kanals Transportweg, Waschplatz und Fischgrund zugleich. Geografie K5 — Binnenwasserstraßen.",
-      "factsAdvanced": [
-        "Teil des 600 km langen Kanalsystems (Canal des Pangalanes) an der Ostküste",
-        "Verläuft parallel zum Ozean und schützt Boote vor den gefährlichen Wellen",
-        "Lebenswichtige Transportader für isolierte Dörfer ohne Straßenanschluss",
-        "Hauptverkehrsmittel sind traditionelle Einbäume (Pirogen) aus großen Bäumen",
-        "Ufer sind von dichten Palmen, Pandanus-Gräsern und Elefantenohren gesäumt",
-        "Kanal dient den Anwohnern als Transportweg, Badestelle und Nahrungsquelle"
-      ]
-    },
-    {
-      "id": "mahajanga-strand-life-v2",
-      "descriptionAdvanced": "Der lange, palmengesäumte Stadtstrand von Mahajanga, insbesondere der Bereich um den «Village Touristique» und Le Bord, ist das pulsierende Herz der Stadt am späten Nachmittag. Wenn die drückende Mittagshitze nachlässt, versammeln sich hier Familien, Fischer und Händler. Während die großen Dhaus (Holzschiffe) mit dem Monsunwind in den Hafen segeln, spielen Jugendliche Fußball im Sand. Die Promenade ist berühmt für ihr multikulturelles Flair, wo sich madagassische, komorische und indische Einflüsse in der Musik und dem allgegenwärtigen Street-Food vermischen. Soziales K5 — Städtische Strände und Kultur.",
-      "factsAdvanced": [
-        "Belebter Stadtstrand und Promenade («Le Bord») an der Baie de Bombetoka",
-        "Zentraler sozialer Treffpunkt der Stadtbewohner in den kühleren Abendstunden",
-        "Kulisse für die Ankunft traditioneller Holzsegelschiffe (Dhaus)",
-        "Spiegelt das starke komorische und arabische Erbe der Region wider",
-        "Bekannt für exzellentes maritimes Street-Food (Brochettes de Zebu)",
-        "Starke Gezeitenströme prägen die Sandbänke am Strand"
-      ]
-    },
-    {
-      "id": "andohahela-nationalpark-life-v2",
-      "descriptionAdvanced": "Der Andohahela-Nationalpark im tiefen Süden, nordwestlich von Tôlanaro, ist eines der außergewöhnlichsten Schutzgebiete der Welt, da er drei völlig unterschiedliche Ökosysteme in sich vereint. Die scharfe Wetterscheide der Anosy-Berge führt dazu, dass auf der Ostseite dichter, feuchter Regenwald wächst, während nur wenige Kilometer westlich extremer, trockener Dornenwald (mit Oktopusbäumen) herrscht. Dazwischen liegt eine seltene Übergangszone. Diese extremen klimatischen Bedingungen bieten Lebensraum für eine unglaubliche Vielzahl an Lemuren, wie den Rotkragenmaki, sowie einzigartige Reptilien. Biologie K8 — Wetterscheiden und Mikroklima.",
-      "factsAdvanced": [
-        "Einziger Park Madagaskars, der feuchten Regenwald und Wüste vereint",
-        "Wird durch die hohen Berge der Anosy-Kette in Klimazonen geteilt",
-        "Ostseite ist extrem regnerisch, Westseite ein knochentrockener Dornenwald",
-        "Beherbergt stark angepasste Lemuren in beiden völlig verschiedenen Habitaten",
-        "Teil des UNESCO-Weltnaturerbes der Regenwälder von Atsinanana",
-        "Zeigt drastisch die Auswirkungen der madagassischen Gebirgsbarrieren auf das Klima"
-      ]
-    },
-    {
-      "id": "tsingy-namoroka-park-life-v2",
-      "descriptionAdvanced": "Der Tsingy de Namoroka Nationalpark im Nordwesten (Region Boeny) ist der weniger bekannte, aber ebenso faszinierende kleine Bruder der Bemaraha-Tsingy. Die Landschaft besteht aus schroffen, stark erodierten Kalksteinplateaus, tiefen Höhlensystemen und Baobab-Wäldern. Die Höhlen dienten einst als Zufluchtsorte, und in den kleinen unterirdischen Seen finden sich blinde Fische. Über den messerscharfen Spitzen turnen Kronensifakas. Aufgrund seiner schweren Zugänglichkeit und fehlenden touristischen Infrastruktur ist der Park ein absolut unberührtes Paradies für abenteuerlustige Forscher und Speleologen. Geografie K7 — Unbekannte Karstgebiete.",
-      "factsAdvanced": [
-        "Unberührtes Karst-Naturreservat im Nordwesten Madagaskars",
-        "Geprägt von schroffen Kalksteinnadeln, ähnlich den berühmteren Bemaraha-Tsingy",
-        "Durchzogen von einem riesigen, weitgehend unerforschten Höhlensystem",
-        "Isolierter Lebensraum für den schönen, seltenen Kronensifaka",
-        "Extrem schwer zugänglich, vor allem während der Regenzeit (November-April)",
-        "Bietet eine wilde, von Touristenströmen verschonte Naturerfahrung"
-      ]
-    },
-    {
-      "id": "fianarantsoa-weingut-life-v2",
-      "descriptionAdvanced": "Die sanften Hänge rund um Fianarantsoa, insbesondere bei Isandra und Famoriana, sind das historische Herz des madagassischen Weinbaus. Die Weinreben wurden im späten 19. Jahrhundert von europäischen Priestern und Mönchen eingeführt, primär um Messwein zu produzieren. Heute prägen die ordentlich aufgereihten Rebstöcke die ansonsten von Reisterrassen dominierte Landschaft. Weingüter wie «Lazasin'i Betsileo» oder «Soavita» produzieren rustikale Rot-, Weiß- und Roséweine, die im kühlen, oft feuchten Hochlandklima gedeihen. Die Weinlese im Februar ist ein wichtiges lokales Ereignis. Landwirtschaft K6 — Kolonialer Weinbau.",
-      "factsAdvanced": [
-        "Das einzige nennenswerte Weinanbaugebiet auf Madagaskar",
-        "Reben wurden historisch von katholischen und protestantischen Missionaren eingeführt",
-        "Hügeliges, kühles Klima bei Fianarantsoa bietet günstige Bedingungen",
-        "Produktion fokussiert sich auf rustikale Weine für den Binnenmarkt",
-        "Weinbaugebiete liegen in direktem Kontrast zu den typischen Reisterrassen",
-        "Weinlese findet während der madagassischen Regenzeit (Februar/März) statt"
-      ]
-    },
-    {
-      "id": "nosy-komba-lemuren-life-v2",
-      "descriptionAdvanced": "Nosy Komba (übersetzt die «Insel der Makis») ist eine runde Vulkaninsel, die sich steil zwischen Nosy Be und dem Festland aus dem Meer erhebt. Die dichten Wälder der Insel sind die Heimat von Gruppen schwarzer Makis (Macaco Lemuren), die bei der lokalen Sakalava-Bevölkerung als heilig gelten und daher nie gejagt wurden. Diese Lemuren weisen einen extremen Geschlechtsdimorphismus auf: Die Männchen sind tiefschwarz, während die Weibchen rostrot mit weißen Ohrbüscheln sind. In den Dörfern (wie Ampangorina) kommen die Tiere oft direkt zu den Besuchern herab, in der Hoffnung auf eine Banane. Biologie K5 — Sakrale Tiere und Dimorphismus.",
-      "factsAdvanced": [
-        "Bewaldete Vulkaninsel gelegen zwischen Nosy Be und der Küste (Ankify)",
-        "Berühmt für die Population von stark habituierten Mohrenmakis",
-        "Tiere gelten bei der ansässigen Bevölkerung traditionell als heilig (Fady)",
-        "Weist starken Geschlechtsdimorphismus auf (Männchen schwarz, Weibchen braun)",
-        "Dörfer der Insel sind auch bekannt für aufwendige handgestickte Richelieu-Decken",
-        "Besitzt keine Straßen, der gesamte Transport erfolgt per Boot oder zu Fuß"
-      ]
-    },
-    {
-      "id": "zombitse-vohibasia-park-life-v2",
-      "descriptionAdvanced": "Der Zombitse-Vohibasia Nationalpark liegt in einer Übergangszone zwischen den trockenen Savannen und den extremen Dornenwäldern des Südwestens, nahe Sakaraha. Dieser isolierte Laubwald-Rest ist ein wahres Mekka für Vogelbeobachter, da er seltene endemische Arten wie den Appert-Tetraka beherbergt, der weltweit nur in diesem kleinen Waldstück vorkommt. Zwischen den riesigen, teils bauchigen Baobabs leben auch mehrere Lemurenarten, darunter der wunderschöne Verreaux-Sifaka. Der Wald ist ständig durch die fortschreitende Rodung für Weideland und Holzkohle bedroht. Biologie K7 — Ornithologie und Waldfragmente.",
-      "factsAdvanced": [
-        "Isoliertes Schutzgebiet aus Trocken- und Laubwald an der RN7",
-        "Bildet eine ökologische Übergangszone im Südwesten Madagaskars",
-        "Einer der wichtigsten Hotspots für Ornithologen (Vogelbeobachter)",
-        "Einziger Lebensraum der Welt für den extrem seltenen Appert-Tetraka",
-        "Baumbestand umfasst mehrere massive madagassische Baobab-Arten",
-        "Wald ist eine grüne Oase inmitten von durch Feuer gerodeten Savannen"
-      ]
-    },
-    {
-      "id": "antsirabe-thermalbad-life-v2",
-      "descriptionAdvanced": "Das Thermalbadgebäude (Etablissement Thermal) in Antsirabe ist eine eindrucksvolle Erinnerung an die Ära der Stadt als «Vichy von Madagaskar». Die in der Kolonialzeit erbauten Bäder nutzten das mineralreiche, natürlich heiße Wasser, das vulkanischen Ursprungs ist, für Heil- und Kurzwecke. Jahrhundertelang besuchten französische Offiziere und die madagassische Elite die Stadt zur Erholung von Rheumatismus und anderen Leiden. Auch wenn der einstige Glanz etwas verblasst ist, pilgern noch immer Einheimische zu den öffentlichen Warmwasserbecken (wie Ranomafana bei Antsirabe), um die heilende Wärme des Hochlands zu genießen. Geschichte K6 — Kurkultur und Vulkanismus.",
-      "factsAdvanced": [
-        "Historisches Zentrum für Kur- und Wellness-Tourismus auf Madagaskar",
-        "Bäder nutzen natürlich heiße, stark mineralisierte vulkanische Quellen",
-        "Zog im 20. Jahrhundert französische Eliten zur Rheumabehandlung an",
-        "Prächtige koloniale Bäder-Architektur dominiert das Stadtzentrum",
-        "Lokale Quellen sind noch heute populär bei der madagassischen Bevölkerung",
-        "Gab der Stadt Antsirabe den Spitznamen «Das Vichy Madagaskars»"
-      ]
-    },
-    {
-      "id": "ankarafantsika-vogelbeobachtung-life-v2",
-      "descriptionAdvanced": "Der Ankarafantsika-Nationalpark im Nordwesten ist geprägt von dichten Laubtrockenwäldern, Savannen und großen, flachen Seen (wie dem Ravelobe-See). Diese Diversität macht den Park zum vielleicht besten Ort auf der ganzen Insel für Vogelbeobachtungen. Seltene Raubvögel, der Madagaskarseeadler und bunte Eisvögel nisten in den Bäumen rund um das Wasser. Neben der Avifauna ist der Park auch für seine Krokodile und die possierlichen Coquerel-Sifakas bekannt. Der Park ist ein entscheidendes Rückzugsgebiet, da die umgebende Region Boeny stark von Brandrodung betroffen ist. Biologie K7 — Avifauna und Seenlandschaften.",
-      "factsAdvanced": [
-        "Ein weites Trockenwald-Reservat in der Region Boeny im Nordwesten",
-        "Gilt international als der Top-Spot für Vogelbeobachtung auf Madagaskar",
-        "Beherbergt den extrem seltenen, vom Aussterben bedrohten Madagaskarseeadler",
-        "Umfasst den Ravelobe-See, ein wichtiges Habitat für Vögel und Krokodile",
-        "Einer der wenigen Orte zur sicheren Beobachtung des Coquerel-Sifakas",
-        "Der Park ist zerschnitten von der viel befahrenen Nationalstraße RN4"
-      ]
-    },
-    {
-      "id": "nosy-mitsio-tauchen-life-v2",
-      "descriptionAdvanced": "Das Mitsio-Archipel, weit nördlich von Nosy Be gelegen, ist eine weitgehend unbewohnte, wilde Inselgruppe im tiefblauen Indischen Ozean. Die vulkanischen Inseln (wie Nosy Ankarea und Tsarabanjina) sind von massiven, steil abfallenden Korallenriffen umgeben. Ohne touristische Masseninfrastruktur ist das Archipel eines der exklusivsten und spektakulärsten Tauchreviere der Welt. Das nährstoffreiche Wasser zieht Großfische an: Barrakudas, Mantarochen und riesige Thunfischschwärme kreisen um die Felsnadeln unter Wasser. Über Wasser besticht die Inselgruppe durch die spektakulären Basaltorgeln (Les Orgues) auf Grande Mitsio. Geografie K7 — Vulkanische Archipele und Tauchsport.",
-      "factsAdvanced": [
-        "Abgelegene, vulkanische Inselgruppe im Norden Madagaskars",
-        "Gilt als eines der spektakulärsten und exklusivsten Tauchreviere der Region",
-        "Steile Riffwände locken pelagische Großfische wie Mantas und Barrakudas an",
-        "Bekannt für die «Les Orgues», riesige symmetrische Basaltsäulenformationen",
-        "Weitgehend unbewohnt, besucht nur von einigen nomadischen Fischern",
-        "Dient als exklusives Ziel für hochpreisigen, nautischen Segeltourismus"
+        "Einer der größten Kokosnuss-Produzenten in ganz Afrika",
+        "Die Plantage schützt die Küste vor Erosion und dem Einfluss von Salzwasser",
+        "Hauptproduzent von madagassischem Bio-Kokosöl für den Export",
+        "Spezialisiert auf die Zucht von ertragreichen Hybrid-Kokospalmen",
+        "Zentrum für die handwerkliche und industrielle Verarbeitung von Kokosfasern",
+        "Das Unternehmen betreibt ein eigenes umfangreiches Bewässerungssystem",
+        "Wichtiger Standort für die Ausbildung von madagassischen Agrartechnikern",
+        "Symbol für den landwirtschaftlichen Reichtum der SAVA-Region jenseits der Vanille"
       ]
     }
   ]

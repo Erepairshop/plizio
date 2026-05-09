@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "maramba-fort-history-v2",
+      "descriptionAdvanced": "Maramba Fort symbolically represents the early colonial presence in today's Livingstone, Zambia. Originally built as a police post, the fort had the strategic task of securing the border as well as the vital crossing over the Zambezi River. The fort was an essential part of the administrative apparatus during the founding phase of Northern Rhodesia and served as an operational base for enforcing colonial order. Today, the building is one of the oldest colonial structures in the region and serves as an illustrative historical witness to the military and administrative structures that, in the British South Africa Company era, laid the foundation for the modern Zambian state.",
+      "factsAdvanced": [
+        "One of the oldest colonial police posts",
+        "Strategic crossing point for border and river",
+        "Important location for the founding of Northern Rhodesia",
+        "Early administrative center of the region",
+        "Example of colonial military architecture",
+        "Significant historical structure in Livingstone"
+      ]
+    }
+  ]
+}

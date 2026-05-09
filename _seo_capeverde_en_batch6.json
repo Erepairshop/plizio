@@ -1,0 +1,360 @@
+{
+  "lang": "en",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeNatureV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "garca-valley-nature-v2",
+      "descriptionAdvanced": "The Garça Valley (Ribeira da Garça) is one of the most rugged and spectacular agricultural valleys on the northern side of Santo Antão Island. Carved by thousands of years of erosion, the valley is framed by towering volcanic cliffs that reach over 800 meters in height. It is a major center for the production of yams, bananas, and sugarcane, with terraced fields clinging to nearly vertical slopes. The valley is known for its traditional irrigation systems, or 'levadas,' which channel water from high-altitude springs to the thirsty crops below. For hikers, Ribeira da Garça offers some of the most dramatic and authentic mountain scenery in Cape Verde, providing a window into the resilient rural life that characterizes the island's interior highlands.",
+      "factsAdvanced": [
+        "Major agricultural valley in northern Santo Antão Island.",
+        "Framed by vertical volcanic cliffs over 800 meters high.",
+        "Famous for terraced farming and traditional irrigation (levadas).",
+        "Primary crops include yams, sweet potatoes, and sugarcane.",
+        "A key site for experiencing authentic rural Cape Verdean life.",
+        "Characterized by dramatic topography and intense tropical green.",
+        "Home to a resilient community of traditional mountain farmers.",
+        "A premier location for adventurous mountain hiking and exploration."
+      ]
+    },
+    {
+      "id": "ribeira-da-janela-nature-v2",
+      "descriptionAdvanced": "Ribeira da Janela is a stunningly beautiful valley on the northeastern coast of Santo Antão, named after a unique rock formation in the sea that resembles a window (janela). The valley is characterized by its lush, tropical vegetation and a perennial stream that supports productive plantations of sugarcane and fruit. One of its most famous features is a large basalt rock with ancient inscriptions (petroglyphs), whose origin remains a mystery and a source of local legend. The valley's narrow entrance from the sea quickly opens into a fertile amphitheatres surrounded by steep ridges. It is a place of great natural beauty and historical intrigue, offering some of the most scenic coastal and mountain vistas on the island.",
+      "factsAdvanced": [
+        "Named after the 'Janela' (Window) rock formation in the Atlantic.",
+        "Famous for mysterious ancient rock inscriptions (petroglyphs).",
+        "Lush tropical valley with a year-round flowing stream.",
+        "Major center for sugarcane cultivation and grogue production.",
+        "Surrounded by steep volcanic ridges and dramatic coastal views.",
+        "Home to a traditional and highly productive farming community.",
+        "A key historical and natural landmark on the northeastern coast.",
+        "Features a distinctive landscape where the mountains meet the sea."
+      ]
+    },
+    {
+      "id": "pombas-valley-nature-v2",
+      "descriptionAdvanced": "The Pombas Valley, the lower section of the legendary Paul Valley, is one of the most picturesque and accessible agricultural regions on Santo Antão. Stretching inland from the coastal town of Vila das Pombas, the valley is a vibrant garden filled with coconut palms, breadfruit trees, and extensive fields of sugarcane. The gentle slope of the valley floor contrast with the towering, jagged peaks that surround it, creating a landscape of immense scale and beauty. It is the logistical heart of the Paul municipality and a vital center for the production of 'mel de cana' (sugarcane honey) and high-quality grogue. The valley is a favorite for visitors who wish to experience the lushness of the island's northern coast through easy walks and cultural encounters.",
+      "factsAdvanced": [
+        "Lower, coastal section of the spectacular Paul Valley.",
+        "Characterized by lush coconut groves and tropical fruit trees.",
+        "Major center for the production of sugarcane and local honey.",
+        "Features a scenic landscape with easy walking and hiking trails.",
+        "Named after the town of Vila das Pombas at the valley mouth.",
+        "Offers a unique microclimate with high humidity and year-round green.",
+        "A hub for traditional distilleries and artisanal agriculture.",
+        "Gateway to the deeper and more rugged Paul mountain system."
+      ]
+    },
+    {
+      "id": "tarrafal-bay-nature-v2",
+      "descriptionAdvanced": "Tarrafal Bay is widely considered the most beautiful and iconic beach destination on Santiago Island. Located at the island's northern tip, it features a perfect crescent of white sand, crystal-clear turquoise waters, and a backdrop of swaying coconut palms and the majestic Monte Graciosa. Unlike most beaches in Cape Verde, which have dark volcanic sand, Tarrafal's white sand gives it a tropical, paradisiacal feel. The bay is not only a tourist attraction but also a busy artisanal fishing harbor where colorful boats bring in the daily catch. It offers a sheltered and calm environment for swimming, diving, and snorkeling, making it a beloved retreat for both locals from Praia and international travelers seeking tranquility and natural beauty.",
+      "factsAdvanced": [
+        "Widely regarded as the most beautiful beach on Santiago Island.",
+        "Features unique white sand in a primarily volcanic landscape.",
+        "Sheltered by the 643-meter tall Monte Graciosa mountain.",
+        "Active artisanal fishing port with traditional colorful boats.",
+        "Ideal conditions for swimming, snorkeling, and scuba diving.",
+        "Surrounded by coconut palms and local seafood restaurants.",
+        "Located approximately 75 kilometers north of the capital, Praia.",
+        "A symbol of Cape Verdean natural beauty and tropical relaxation."
+      ]
+    },
+    {
+      "id": "aguas-belas-grotto-nature-v2",
+      "descriptionAdvanced": "The Águas Belas Grotto is a stunning sea cave located on the western coast of Santiago Island, near the village of Ribeira da Barca. Accessible only by boat, the grotto is a natural masterpiece where the Atlantic has carved a series of chambers and arches into the towering volcanic cliffs. Inside, the sunlight filters through openings in the rock to illuminate the crystal-clear water in shades of brilliant blue and emerald green. The area also features secluded black sand beaches and dramatic rock formations that can only be fully appreciated from the sea. It is a place of profound silence and raw natural beauty, offering one of the most unique and adventurous marine experiences in the archipelago, far from the main tourist routes.",
+      "factsAdvanced": [
+        "Spectacular sea cave and grotto on the west coast of Santiago.",
+        "Accessible only via traditional fishing boat from Ribeira da Barca.",
+        "Features crystal-clear turquoise waters and dramatic rock arches.",
+        "Carved by Atlantic erosion into towering volcanic cliffs.",
+        "Includes secluded and pristine black sand beaches nearby.",
+        "A major highlight for marine eco-tourism and photography.",
+        "Offers a rare and untouched coastal wilderness experience.",
+        "Named 'Águas Belas' (Beautiful Waters) due to its vibrant colors."
+      ]
+    },
+    {
+      "id": "ribeira-dos-flamengos-nature-v2",
+      "descriptionAdvanced": "Ribeira dos Flamengos is a wide and scenic valley located in the southeastern part of Santiago Island, near the town of São Domingos. The valley is known for its dramatic topography, where a wide, sandy riverbed is framed by jagged volcanic ridges and steep plateaus. While it is dry for most of the year, the valley becomes a productive agricultural area during the rainy season, with farmers utilizing the fertile alluvial soil to grow corn and beans. The landscape is dotted with hardy acacia trees and traditional stone houses, offering a stark and beautiful example of the island's arid interior. It is a place of immense stillness and open horizons, providing a gateway to the more rugged and mountainous heart of the Santiago highlands.",
+      "factsAdvanced": [
+        "Significant valley and river system in southeastern Santiago.",
+        "Characterized by a wide sandy bed and steep volcanic ridges.",
+        "Important area for seasonal subsistence agriculture and herding.",
+        "Located near the handicraft center of São Domingos.",
+        "Offers a starkly beautiful landscape of the arid island interior.",
+        "Dotted with traditional stone architecture and acacia groves.",
+        "A key geographical landmark of the Santiago highland region.",
+        "Provides a scenic route for hikers and off-road explorers."
+      ]
+    },
+    {
+      "id": "serras-do-interior-nature-v2",
+      "descriptionAdvanced": "The Serras do Interior represent the rugged and mountainous heart of Santiago Island, a region of dramatic volcanic peaks, deep canyons, and hidden fertile valleys. This central highland area is the most traditional and authentic part of the island, where the majority of the rural population lives. The mountains reach elevations of over 1,000 meters, supporting a variety of microclimates that allow for the cultivation of a wide range of crops. The Serras are characterized by their jagged horizons and the persistent mists that often shroud the higher ridges. For travelers, the region offers endless opportunities for exploration, with a dense network of ancient cobblestone trails that connect isolated villages and offer breathtaking panoramic views across the entire island.",
+      "factsAdvanced": [
+        "Rugged central mountain range and heart of Santiago Island.",
+        "Highest peaks reach elevations exceeding 1,000 meters.",
+        "Characterized by jagged volcanic topography and deep canyons.",
+        "The most culturally traditional and agricultural part of the island.",
+        "Features a network of historic stone-paved mountain trails.",
+        "Offers diverse microclimates and spectacular panoramic views.",
+        "Home to numerous small, isolated rural communities.",
+        "Essential for the island's water catchment and biodiversity."
+      ]
+    },
+    {
+      "id": "picos-de-santiago-nature-v2",
+      "descriptionAdvanced": "The Picos de Santiago are a series of striking, needle-like volcanic plugs and jagged ridges that dominate the skyline of the island's central interior. These dramatic geological formations were created when molten lava solidified within the necks of ancient volcanoes and was later exposed by millions of years of erosion. The most famous of these is the Pico da Antónia, the highest point on the island. The Picos are not only a visual landmark but also a vital part of the island's ecology, as their high elevations capture moisture from the Atlantic trade winds, supporting rare endemic plants and birds. They represent the raw, powerful origin of Santiago and provide some of the most challenging and rewarding terrain for hikers and climbers in Cape Verde.",
+      "factsAdvanced": [
+        "Series of dramatic volcanic plugs and needle-like peaks.",
+        "Created by millions of years of erosion of ancient volcanic necks.",
+        "Includes Pico da Antónia, the highest point on Santiago (1,392m).",
+        "Crucial for capturing moisture from the Atlantic trade winds.",
+        "Major landmark of the island's central interior landscape.",
+        "Supports unique endemic flora and fauna at high elevations.",
+        "Primary destination for expert hiking and mountain climbing.",
+        "Symbolizes the powerful geological heritage of the island."
+      ]
+    },
+    {
+      "id": "baia-de-sao-pedro-nature-v2",
+      "descriptionAdvanced": "Baía de São Pedro is a wide and dramatic bay located on the southwestern tip of São Vicente Island, renowned for its constant winds and crystal-clear turquoise waters. Framed by arid volcanic hills and steep cliffs, the bay is world-famous as one of the fastest spots on Earth for speed windsurfing. The steady trade winds that blow across the bay create ideal conditions for high-performance water sports. Beyond the wind, the bay is a vital natural sanctuary for marine life, particularly the endangered Loggerhead sea turtles, which use the area for foraging. Snorkeling with these gentle creatures in the calm parts of the bay has become a major eco-tourism attraction. The contrast between the blue sea and the barren, golden land makes it one of the most scenic coastal areas in the archipelago.",
+      "factsAdvanced": [
+        "World-renowned bay for high-speed windsurfing and kitesurfing.",
+        "Located on the arid southwestern coast of São Vicente Island.",
+        "Important foraging and nesting site for Loggerhead sea turtles.",
+        "Features crystal-clear turquoise waters and a wide sandy beach.",
+        "Home to a traditional and active artisanal fishing community.",
+        "Starting point for the hike to the historic Dona Amélia lighthouse.",
+        "Known for its steady and powerful Atlantic trade winds.",
+        "Offers excellent opportunities for snorkeling and marine observation."
+      ]
+    },
+    {
+      "id": "monte-verde-nature-v2",
+      "descriptionAdvanced": "Monte Verde is the highest point of São Vicente Island, rising to an elevation of 744 meters. Despite its name, which means 'Green Mountain,' it is only truly green during and after the short rainy season. However, its high elevation allows it to capture moisture from the clouds, supporting a unique microclimate that is home to several endemic plant species not found elsewhere on the island. A paved road leads to the summit, which is topped by a telecommunications station and offers the most spectacular panoramic view in Cape Verde. From the top, visitors can see the entire island of São Vicente, the city of Mindelo, and the neighboring islands of Santo Antão, Santa Luzia, and the islets of Branco and Raso shimmering on the Atlantic horizon.",
+      "factsAdvanced": [
+        "Highest peak of São Vicente Island, reaching 744 meters.",
+        "Home to rare endemic plant species unique to the island.",
+        "Offers the most expansive panoramic views in the archipelago.",
+        "Visible from the summit: Santo Antão, Santa Luzia, Branco, and Raso.",
+        "Features a paved road that leads directly to the mountain top.",
+        "Site of the island's primary telecommunications and radar station.",
+        "A key destination for hiking and sunset viewing in Mindelo.",
+        "Acts as a vital water catchment area for the arid island."
+      ]
+    },
+    {
+      "id": "baia-do-mindelo-nature-v2",
+      "descriptionAdvanced": "The Bay of Mindelo, also known as Porto Grande, is widely considered one of the most beautiful and strategic natural harbors in the world. Formed by the submerged crater of an extinct volcano, the bay is almost perfectly circular and protected by a natural reef and the Ilhéu dos Pássaros. It is the deepest natural harbor in Cape Verde, allowing for the docking of the world's largest ships. The bay is the soul of Mindelo, its waters reflecting the city's colorful colonial buildings and the surrounding volcanic hills. Historically, it was a vital coaling station for Atlantic shipping and today remains the nation's primary maritime gateway. The bay is not only a hub of commerce but also a scenic landmark that defines the identity and cultural life of São Vicente.",
+      "factsAdvanced": [
+        "One of the deepest and most beautiful natural harbors in the world.",
+        "Formed by a submerged volcanic crater on São Vicente Island.",
+        "Primary maritime gateway for Cape Verde's international trade.",
+        "Member of the 'Most Beautiful Bays in the World' association.",
+        "Protected by the iconic Ilhéu dos Pássaros lighthouse islet.",
+        "Heart of the city of Mindelo's economic and cultural life.",
+        "Historically a crucial coaling station for transatlantic steamships.",
+        "Provides safe anchorage for large container vessels and cruise liners."
+      ]
+    },
+    {
+      "id": "calhau-volcano-nature-v2",
+      "descriptionAdvanced": "The Calhau Volcano is a prominent extinct volcanic cone located on the eastern coast of São Vicente Island. Its dark, symmetrical shape is a landmark of the island's rugged eastern landscape and a testament to its powerful volcanic origins. The volcano sits at the edge of the Atlantic, where its ancient lava flows have created a dramatic coastline of black basalt rocks and tide pools. The area surrounding the volcano is arid and sparsely populated, offering a sense of wild isolation and stark natural beauty. For hikers, the climb to the rim of the crater provides spectacular views of the Atlantic Ocean and the nearby uninhabited island of Santa Luzia. Calhau is a place of profound stillness, where the geological history of the archipelago is written in the dark, weathered rock.",
+      "factsAdvanced": [
+        "Extinct volcanic cone and prominent landmark on the east coast.",
+        "Characterized by its symmetrical shape and dark basaltic rock.",
+        "Created extensive lava flows that reach into the Atlantic Ocean.",
+        "Offers a panoramic view of the nearby island of Santa Luzia.",
+        "A major destination for hiking and geological exploration.",
+        "Surrounded by a rugged, arid, and untouched coastal landscape.",
+        "Located near the traditional fishing village of Calhau.",
+        "An important site for understanding the island's volcanic evolution."
+      ]
+    },
+    {
+      "id": "topim-cliffs-nature-v2",
+      "descriptionAdvanced": "The Topim Cliffs are a series of dramatic and vertical volcanic precipices located on the southeastern coast of São Vicente Island. These cliffs rise hundreds of meters directly from the Atlantic, creating one of the most rugged and inaccessible coastlines in the archipelago. Carved by millions of years of relentless wave action, the cliffs feature incredible geological layers and hidden sea caves. The area is a vital nesting ground for various species of seabirds, including shearwaters and petrels, who take advantage of the isolated and protected ledges. Topim offers a sense of raw, untouched wilderness, where the power of the ocean and the resilience of the volcanic rock are on full display. It is a spectacular and remote destination for those seeking the wilder side of Cape Verde's natural heritage.",
+      "factsAdvanced": [
+        "Series of towering vertical cliffs on the southeast coast.",
+        "Created by intense Atlantic wave erosion over millions of years.",
+        "One of the most rugged and inaccessible coastal areas of the island.",
+        "Important nesting site for various endemic Atlantic seabirds.",
+        "Features unique geological strata and hidden marine caves.",
+        "Offers spectacular views of the open ocean and neighboring islands.",
+        "A remote and pristine destination for advanced hikers and explorers.",
+        "Symbolizes the raw, unyielding nature of the volcanic coastline."
+      ]
+    },
+    {
+      "id": "praia-de-curraletes-nature-v2",
+      "descriptionAdvanced": "Praia de Curraletes is a traditional and picturesque beach located on the southern coast of Porto Novo, on Santo Antão Island. This beach is unique for its calm, shallow waters and its mix of volcanic sand and rounded pebbles, known locally as 'calhaus.' It is a favorite weekend destination for the residents of Porto Novo, offering a peaceful retreat for swimming and social gatherings. The beach is set against a backdrop of arid volcanic hills and provides a stark contrast to the lush green valleys of the island's northern side. Curraletes is also a significant center for traditional music and local festivals, maintaining an authentic atmosphere that has remained largely untouched by international tourism. Its simplicity and natural charm make it a cherished part of the island's southern identity.",
+      "factsAdvanced": [
+        "Popular local beach and recreational area for Porto Novo.",
+        "Features calm, shallow waters ideal for families and swimming.",
+        "Composed of a unique mix of dark volcanic sand and sea pebbles.",
+        "Located on the arid and sunny southern coast of Santo Antão.",
+        "A central venue for local festivals and community celebrations.",
+        "Offers a peaceful and authentic atmosphere away from resort areas.",
+        "Surrounded by dramatic volcanic slopes and open sea views.",
+        "A key landmark for the social and cultural life of the south."
+      ]
+    },
+    {
+      "id": "ribeira-do-calhau-nature-v2",
+      "descriptionAdvanced": "Ribeira do Calhau is a wide and arid valley located on the eastern part of São Vicente Island, leading to the coastal village of Calhau. The valley is characterized by its stark, desert-like beauty, where a seasonal riverbed is framed by ancient volcanic cones and rugged ridges. For most of the year, it is a dry and barren landscape, but it supports a surprising variety of hardy endemic plants and serves as a vital grazing area for local goats. The valley offers a unique perspective on the island's arid ecology and the powerful geological forces that shaped it. At the end of the valley, the blue of the Atlantic and the black volcanic sands of Calhau beach create a dramatic and beautiful contrast. It is a place of immense silence and a favorite for those seeking to explore the wilder, less-visited side of the island.",
+      "factsAdvanced": [
+        "Wide arid valley system leading to the eastern coast.",
+        "Characterized by its stark volcanic scenery and seasonal riverbed.",
+        "Important area for traditional goat herding and endemic flora.",
+        "Offers clear views of the extinct Calhau volcanic cone.",
+        "A remote and peaceful landscape away from the urban center.",
+        "A major highlight for off-road excursions and nature walks.",
+        "Ending at a beach with dramatic black volcanic sand.",
+        "Represents the stark and beautiful desert character of the island."
+      ]
+    },
+    {
+      "id": "dunas-de-salamansa-nature-v2",
+      "descriptionAdvanced": "The Dunas de Salamansa are a series of stunning white sand dunes located along the northern coast of São Vicente Island, near the traditional fishing village of the same name. These dunes are formed by sand blown across the Atlantic from the Sahara Desert, which is then trapped by the island's coastal topography. The contrast between the brilliant white sand, the black volcanic rocks, and the deep blue of the Atlantic is visually striking. The area is constantly shaped by the powerful trade winds, making it a dynamic and ever-changing landscape. The dunes and the adjacent beach are world-class spots for kitesurfing and windsurfing, but they also offer a sense of wild, untouched beauty. From the crest of the dunes, one can see the uninhabited island of Santa Luzia shimmer on the horizon.",
+      "factsAdvanced": [
+        "White sand dunes formed by Saharan winds on the north coast.",
+        "Located adjacent to the traditional village of Salamansa.",
+        "World-class destination for kitesurfing and extreme wind sports.",
+        "Features a dramatic contrast between white sand and volcanic rock.",
+        "A dynamic, constantly shifting landscape shaped by trade winds.",
+        "Offers panoramic views of the uninhabited island of Santa Luzia.",
+        "A significant site for coastal biodiversity and nature study.",
+        "One of the most scenic and photographed areas on São Vicente."
+      ]
+    },
+    {
+      "id": "praia-da-laginha-nature-v2",
+      "descriptionAdvanced": "Praia da Laginha is the most popular urban beach in Cape Verde, located in the heart of the city of Mindelo on São Vicente Island. This man-made beach features soft white sand and crystal-clear turquoise waters that stay calm throughout most of the year, protected by the city's harbor walls. Laginha is the social center of Mindelo, where locals and visitors gather to swim, exercise, and enjoy the vibrant seaside bars and restaurants. It offers a spectacular view across the bay to the mountains of Santo Antão and the iconic Monte Cara. The beach is particularly lively during sunset and on weekends, embodying the relaxed and joyful spirit of Mindelo. It is a rare example of a successful urban transformation that has become a vital part of the city's identity.",
+      "factsAdvanced": [
+        "Primary urban beach and social hub of the city of Mindelo.",
+        "Features soft white sand and clear turquoise Atlantic waters.",
+        "Protected and calm, making it ideal for swimming and exercise.",
+        "Offers iconic views of Monte Cara and Santo Antão Island.",
+        "Surrounded by a lively promenade with cafes and restaurants.",
+        "The focal point for Mindelo's beach culture and sunset social life.",
+        "A man-made beach that has become a natural part of the city.",
+        "The most visited beach on the island by both locals and tourists."
+      ]
+    },
+    {
+      "id": "ponta-do-sol-cliff-nature-v2",
+      "descriptionAdvanced": "The Ponta do Sol Cliffs are a series of awe-inspiring vertical precipices located on the northernmost tip of Santo Antão Island. These dark basaltic cliffs rise over 100 meters directly from the crashing waves of the Atlantic, creating one of the most dramatic coastal landscapes in the world. The cliffs frame the picturesque town of Ponta do Sol and provide a spectacular setting for its traditional fishing harbor. The area is famous for its intense coastal energy, with powerful Atlantic swells continuously eroding the volcanic rock. A historic coastal trail, considered one of the most scenic hikes in the archipelago, begins here, winding along the edge of the cliffs toward the isolated village of Fontainhas. The cliffs stand as a powerful symbol of the rugged and unyielding nature of the northern islands.",
+      "factsAdvanced": [
+        "Towering vertical basalt cliffs on the island's northern tip.",
+        "Rise over 100 meters directly from the powerful Atlantic Ocean.",
+        "Frames the historic and colorful town of Ponta do Sol.",
+        "Starting point for the world-famous coastal hike to Fontainhas.",
+        "Characterized by intense coastal erosion and dramatic wave action.",
+        "Offers some of the most spectacular sunset views in Cape Verde.",
+        "Vital landmark for the maritime history of the northern islands.",
+        "Home to various species of Atlantic seabirds and coastal flora."
+      ]
+    },
+    {
+      "id": "ribeira-grande-santiago-nature-v2",
+      "descriptionAdvanced": "Ribeira Grande de Santiago is a deep and fertile valley on the southern coast of Santiago Island, famous as the site of the first European settlement in the tropics. The valley is home to the UNESCO World Heritage site of Cidade Velha and is characterized by its lush vegetation, ancient baobab trees, and the perennial stream that made it an ideal location for the early settlers. The steep volcanic walls of the valley provided natural protection for the historic capital and its fortresses. Today, the valley remains an important agricultural area, with traditional farms growing coconuts, sugarcane, and bananas. It is a place where history and nature are inextricably linked, offering a profound sense of peace and a window into the origins of Cape Verdean identity and the Atlantic slave trade.",
+      "factsAdvanced": [
+        "Site of the first European colonial outpost in the tropics.",
+        "Home to the UNESCO World Heritage town of Cidade Velha.",
+        "Lush and fertile valley with a year-round flowing stream.",
+        "Features massive ancient baobab trees and tropical plantations.",
+        "Strategically protected by high volcanic valley walls.",
+        "The cradle of Cape Verdean history and the Morna culture.",
+        "A major center for cultural and historical tourism in the country.",
+        "Provides a serene and lush contrast to the arid southern coast."
+      ]
+    },
+    {
+      "id": "pico-da-antonia-relief-v2",
+      "descriptionAdvanced": "Pico da Antónia is the highest mountain on Santiago Island, rising to an impressive 1,392 meters above sea level. This massive volcanic massif dominates the central part of the island and is a fundamental geographical landmark. The mountain is part of a protected natural park and is characterized by its rugged ridges, deep ravines, and often mist-shrouded peaks. Its high elevation creates a unique microclimate that supports several endemic plant species and provides a vital habitat for the rare Cape Verde warbler. For experienced hikers, the climb to the summit is one of the most rewarding in the archipelago, offering breathtaking panoramic views that extend across the entire island of Santiago and, on clear days, to the neighboring islands of Fogo and Maio.",
+      "factsAdvanced": [
+        "Highest point of Santiago Island at 1,392 meters.",
+        "Part of the protected Pico da Antónia Natural Park.",
+        "Massive volcanic massif and primary geographical landmark.",
+        "Supports rare endemic flora and the endemic Cape Verde warbler.",
+        "Often enveloped in high-altitude mists and low clouds.",
+        "Offers spectacular views over the entire island of Santiago.",
+        "A premier destination for advanced mountain trekking.",
+        "Vital for the island's water cycle and ecological health."
+      ]
+    },
+    {
+      "id": "monte-graciosa-relief-v2",
+      "descriptionAdvanced": "Monte Graciosa is a striking and iconic mountain that overlooks the town and bay of Tarrafal on the northern coast of Santiago Island. Rising to an elevation of 643 meters, its distinctive, jagged silhouette is one of the most recognized landmarks in Cape Verde. The mountain is composed primarily of phonolitic and basaltic rocks, a testament to the island's complex volcanic history. Its steep, arid slopes provide a dramatic backdrop to the white sands of Tarrafal beach and are home to several hardy endemic plant species. For hikers, the climb to the summit offers spectacular views of the northern coastline and the open Atlantic. Monte Graciosa is not only a geological wonder but also a powerful presence that defines the scenic beauty and the unique identity of the Tarrafal region.",
+      "factsAdvanced": [
+        "Iconic mountain overlooking the bay of Tarrafal, 643m high.",
+        "Distinctive jagged silhouette, a major landmark of northern Santiago.",
+        "Geologically composed of ancient phonolitic and basaltic rock.",
+        "Provides a dramatic and scenic backdrop to Tarrafal beach.",
+        "Home to several rare and resilient endemic plant species.",
+        "Offers breathtaking panoramic views of the northern Atlantic coast.",
+        "A popular destination for hiking and geological study.",
+        "Symbolizes the rugged and beautiful northern tip of the island."
+      ]
+    },
+    {
+      "id": "serra-malagueta-range-relief-v2",
+      "descriptionAdvanced": "The Serra Malagueta is a majestic mountain range in northern Santiago Island, forming one of the most rugged and biodiverse regions in Cape Verde. Reaching heights of over 1,000 meters, this range acts as a significant barrier to the trade winds, capturing moisture and supporting a lush, humid microclimate that contrasts sharply with the island's arid lowlands. The relief is characterized by sharp ridges, deep V-shaped valleys, and dramatic basaltic cliffs. It is home to the Serra Malagueta Natural Park, which protects a high concentration of endemic flora and fauna. The range is a vital hydrological resource for the island, feeding numerous springs and streams. Its spectacular scenery and network of trails make it the premier location for eco-tourism and mountain exploration in Santiago.",
+      "factsAdvanced": [
+        "Major mountain range in northern Santiago, over 1,000m high.",
+        "Characterized by sharp volcanic ridges and deep fertile valleys.",
+        "Captures moisture from trade winds to create a humid microclimate.",
+        "Home to the biodiverse Serra Malagueta Natural Park.",
+        "Vital water catchment area for the entire northern region.",
+        "Supports a high number of endemic Cape Verdean plant species.",
+        "The premier destination for hiking and mountain exploration.",
+        "Offers expansive views that stretch to the islands of Fogo and Maio."
+      ]
+    },
+    {
+      "id": "monte-atchada-relief-v2",
+      "descriptionAdvanced": "Monte Atchada is a prominent and historically significant mountain located in the interior of Santiago Island, near the town of Assomada. Rising from the surrounding plateau (achada), it is a landmark of the Santa Catarina municipality. The mountain is characterized by its steep, rocky slopes and its role as a strategic viewpoint overlooking the fertile highlands of the interior. Geologically, it represents an older stage of the island's volcanic development, now weathered and eroded into its current form. The area around Monte Atchada has long been a center for traditional agriculture, and the mountain itself is a symbol of the rural identity and resilience of the Santiago peasantry. Its silhouette is a constant presence in the landscape of the central highlands, marking the transition between the coast and the high mountains.",
+      "factsAdvanced": [
+        "Significant mountain landmark near the city of Assomada.",
+        "Located in the fertile and populated central highlands of Santiago.",
+        "Provides a strategic viewpoint over the Santa Catarina plateau.",
+        "Characterized by rugged volcanic rock and traditional farmland.",
+        "A symbol of the agricultural heart and identity of the island.",
+        "Part of an ancient and weathered volcanic system.",
+        "A key geographical marker for travelers in the island's interior.",
+        "Offers scenic views of the surrounding 'achadas' and peaks."
+      ]
+    },
+    {
+      "id": "monte-tchota-relief-v2",
+      "descriptionAdvanced": "Monte Tchota is a majestic and often mist-shrouded peak located within the Pico da Antónia Natural Park in the central highlands of Santiago Island. Reaching an elevation of approximately 1,000 meters, it is famous for its cool, humid climate and its lush pine and eucalyptus forests, which are a rare sight in Cape Verde. The mountain is a vital area for biodiversity, providing a habitat for numerous endemic plants and birds. It is also historically significant as a place of retreat and for its role in telecommunications, housing several important antennas. For hikers, Monte Tchota offers a unique experience, with trails that wind through the fragrant forests and lead to spectacular viewpoints overlooking the rugged canyons and peaks of the island's interior. It is a place of profound peace and natural beauty.",
+      "factsAdvanced": [
+        "Major peak in the central highlands, approximately 1,000m high.",
+        "Known for its cool climate and lush pine and eucalyptus forests.",
+        "Part of the protected Pico da Antónia Natural Park ecosystem.",
+        "Vital habitat for endemic flora and rare bird species.",
+        "A key site for national telecommunications and radar systems.",
+        "Offers a unique and serene forest environment in an arid archipelago.",
+        "A popular and scenic destination for high-altitude hiking.",
+        "Provides expansive views of the Santiago central massif."
+      ]
+    },
+    {
+      "id": "achada-leitao-plateau-relief-v2",
+      "descriptionAdvanced": "The Achada Leitão is a high and expansive volcanic plateau located in the central part of Santiago Island, within the São Salvador do Mundo municipality. This 'achada,' or flat-topped ridge, is a characteristic feature of the island's relief, formed by ancient lava flows that have been leveled by time and erosion. Situated at an elevation of about 500 meters, the plateau offers a more temperate climate and fertile soil, making it a major agricultural center where corn, beans, and fruits are grown. The area is characterized by its wide horizons and the traditional stone-walled fields that crisscross the landscape. Achada Leitão is a place of significant rural activity and traditional culture, providing a vital link between the coastal regions and the high mountains of the interior.",
+      "factsAdvanced": [
+        "Expansive high volcanic plateau in central Santiago Island.",
+        "Located at an elevation of approximately 500 meters.",
+        "Major center for traditional agriculture and rural settlements.",
+        "Characterized by flat-topped ridges and stone-walled fields.",
+        "A key geographical feature of the São Salvador do Mundo region.",
+        "Offers a temperate climate and fertile soil for diverse crops.",
+        "Provides a strategic link between the coast and the high peaks.",
+        "A place of profound traditional culture and agricultural heritage."
+      ]
+    }
+  ]
+}

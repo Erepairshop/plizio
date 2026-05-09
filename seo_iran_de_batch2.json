@@ -1,0 +1,197 @@
+{
+  "lang": "de",
+  "country": "iran",
+  "files": ["lib/visualLab/data/poiExtraIranCitiesV2.ts"],
+  "items": [
+    {
+      "id": "sanandaj-cities-v2",
+      "descriptionAdvanced": "Sanandadsch (oder Senne) fungiert als das kulturelle und administrative Zentrum der iranischen Provinz Kurdistan. Die Stadt ist weltberühmt für ihre hochentwickelte Teppichweberei; Senne-Teppiche zeichnen sich durch besonders feine Knoten und das charakteristische Herati-Muster aus. Eingebettet in das schroffe Zagros-Gebirge auf einer Höhe von 1538 Metern, erfährt die Stadt extreme Temperaturunterschiede zwischen schneereichen Wintern und heißen Sommern. Zu den architektonischen Höhepunkten zählt das herrschaftliche Khosro-Abad-Herrenhaus aus der Kadscharenzeit, das um 1808 fertiggestellt wurde. Sanandadsch wurde erst im 17. Jahrhundert durch den Gouverneur Soleyman Khan Ardalan offiziell als befestigte Provinzhauptstadt gegründet. Die lokale Bevölkerung pflegt eine einzigartige kurdische Musikkultur und traditionelle Tänze. Geographie K8 — Kulturelle Enklaven und Berggeographie.",
+      "factsAdvanced": [
+        "Die Stadt liegt im schroffen Zagros-Gebirge auf einer Höhe von 1538 Metern.",
+        "Sanandadsch wurde im frühen 17. Jahrhundert (um 1636) als Festungsstadt gegründet.",
+        "Das historische Khosro-Abad-Herrenhaus wurde im Jahr 1808 unter den Kadscharen erbaut.",
+        "Die Stadt ist weltweit berühmt für die feinen handgeknüpften Senne-Teppiche.",
+        "Über 90 Prozent der lokalen Bevölkerung gehören zur kurdischen Ethnie.",
+        "Sanandadsch wurde 2019 in das UNESCO-Netzwerk der kreativen Städte für Musik aufgenommen."
+      ],
+      "faq": [
+        {"q": "Wofür ist Sanandadsch weltweit bekannt?", "a": "Für die hochwertigen handgeknüpften Senne-Teppiche mit ihrem feinen Herati-Muster."},
+        {"q": "Auf welcher Höhe befindet sich die Stadt?", "a": "Die Stadt liegt hoch im Zagros-Gebirge auf etwa 1538 Metern über dem Meeresspiegel."},
+        {"q": "Wann wurde das Khosro-Abad-Herrenhaus erbaut?", "a": "Dieses herrschaftliche Gebäude wurde im Jahr 1808 unter den Kadscharen fertiggestellt."},
+        {"q": "Welchen UNESCO-Titel hat die Stadt?", "a": "Sanandadsch wurde 2019 in das UNESCO-Netzwerk der kreativen Städte (Musik) aufgenommen."}
+      ],
+      "plizioChallenge": "Wenn die Stadt auf 1538 Metern Höhe liegt und der höchste Berg der Region 3390 Meter hoch ist, wie viel Höhenmeter Unterschied gibt es?"
+    },
+    {
+      "id": "qazvin-cities-v2",
+      "descriptionAdvanced": "Ghaswin besitzt eine glanzvolle Geschichte, insbesondere als Hauptstadt des Safawiden-Reiches von 1548 bis 1598, bevor Schah Abbas den Regierungssitz nach Isfahan verlegte. Die Stadt war historisch ein zentraler Knotenpunkt der Seidenstraße. Das markanteste Bauwerk ist der Tschehel-Sotun-Palast, der einzige noch existierende safawidische Palast in der Stadt. Die Region um Ghaswin ist heute das landwirtschaftliche Herz für die Pistazien- und Traubenproduktion im nördlichen Zentraliran. Ein tragisches Ereignis war das verheerende Buin-Zahra-Erdbeben im Jahr 1962, bei dem in der weiteren Provinz über 12.000 Menschen starben. In den Bergen nördlich von Ghaswin erstreckt sich das legendäre Tal der Assassinen, mit der berühmten Burg Alamut. Geschichte K8 — Das Safawiden-Reich und die Assassinen.",
+      "factsAdvanced": [
+        "Ghaswin war von 1548 bis 1598 die stolze Hauptstadt des persischen Safawiden-Reiches.",
+        "Der historische Tschehel-Sotun-Palast (Vierzig-Säulen-Palast) wurde im 16. Jahrhundert erbaut.",
+        "Die legendäre Festung Alamut liegt in den schwer zugänglichen Bergen nördlich der Stadt.",
+        "Das verheerende Buin-Zahra-Erdbeben im Jahr 1962 forderte über 12.000 Todesopfer in der Provinz.",
+        "Ghaswin beherbergt die bedeutende Jameh-Moschee, deren älteste Teile aus dem 9. Jahrhundert stammen.",
+        "Die Region ist landesweit bekannt für die Produktion hochwertiger kernloser Trauben."
+      ],
+      "faq": [
+        {"q": "Wann war Ghaswin die Hauptstadt Persiens?", "a": "Von 1548 bis 1598 diente die Stadt als politisches Zentrum des Safawiden-Reiches."},
+        {"q": "Was ist der Tschehel-Sotun-Palast?", "a": "Ein bedeutender safawidischer Königspalast, auch als Vierzig-Säulen-Palast bekannt."},
+        {"q": "Welche berühmte Festung liegt nördlich von Ghaswin?", "a": "Die Festung Alamut, das historische Zentrum des geheimen Ordens der Assassinen."},
+        {"q": "Welche Katastrophe traf die Region 1962?", "a": "Das massive Buin-Zahra-Erdbeben, das 1962 über 12.000 Todesopfer forderte."}
+      ],
+      "plizioChallenge": "Wenn Ghaswin 50 Jahre lang Hauptstadt war und Isfahan es danach 138 Jahre war, wie lange waren beide zusammen Hauptstadt?"
+    },
+    {
+      "id": "khorramabad-cities-v2",
+      "descriptionAdvanced": "Chorramabad liegt tief in einem malerischen Tal des Zagros-Gebirges und ist die stolze Hauptstadt der Provinz Lorestan. Das unangefochtene Wahrzeichen der Stadt ist die gigantische Falak-ol-Aflak-Festung, die auf einem Hügel thront und ursprünglich während der sassanidischen Ära (3. bis 7. Jahrhundert) als militärische Bastion erbaut wurde. Im Laufe der Geschichte diente die Festung als Regierungssitz, Gefängnis und heute als bedeutendes archäologisches Museum. Die umliegenden Berge sind von dichten Eichenwäldern gesäumt, die ein einzigartiges lokales Ökosystem bilden. Die Region ist Heimat des indigenen Lur-Volkes, das für seine prähistorischen Luristan-Bronzen bekannt ist, welche auf das 1. Jahrtausend v. Chr. datiert werden. Geographie K7 — Festungsanlagen und indigene Kulturen im Zagros.",
+      "factsAdvanced": [
+        "Die Falak-ol-Aflak-Festung erstreckt sich über eine Fläche von rund 5300 Quadratmetern.",
+        "Die massiven Mauern der Festung erreichen stellenweise eine Höhe von 22 Metern.",
+        "Die Ursprünge der militärischen Anlage reichen bis in die sassanidische Epoche (224–651 n. Chr.) zurück.",
+        "Die berühmten Luristan-Bronzen aus der Region stammen aus der frühen Eisenzeit (um 1000 v. Chr.).",
+        "Chorramabad liegt in einem Gebirgstal auf einer Höhe von rund 1140 Metern.",
+        "Die antike sassanidische Shapuri-Brücke überquert den Fluss südlich der Festung."
+      ],
+      "faq": [
+        {"q": "Was ist das Wahrzeichen von Chorramabad?", "a": "Die riesige Falak-ol-Aflak-Festung, die auf einem Hügel im Stadtzentrum thront."},
+        {"q": "Wie alt ist die Festung?", "a": "Ihre Ursprünge stammen aus der Sassanidenzeit, die zwischen 224 und 651 n. Chr. herrschte."},
+        {"q": "Welches indigene Volk prägt die Region?", "a": "Das Volk der Luren, das historisch für seine prähistorischen Bronzearbeiten bekannt ist."},
+        {"q": "Wie hoch sind die Mauern der Festung?", "a": "Die alten Verteidigungsmauern erreichen eine beachtliche Höhe von bis zu 22 Metern."}
+      ],
+      "plizioChallenge": "Wenn die Burgmauern 22 Meter hoch sind und ein Ziegel 10 cm hoch ist, wie viele Ziegel sind das übereinander?"
+    },
+    {
+      "id": "gorgan-cities-v2",
+      "descriptionAdvanced": "Gorgan (früher Asterabad) ist das Tor zu den dichten hyrkanischen Wäldern, die sich an den Nordhängen des Elburs-Gebirges entlangziehen. Die Stadt blickt auf eine lange Geschichte als wichtiger Handelsposten nahe der Kaspischen See zurück. Historisch berühmt ist die Große Mauer von Gorgan, eine gigantische sassanidische Verteidigungsanlage aus dem 5. Jahrhundert, die mit 195 Kilometern Länge als zweitlängste historische Mauer Asiens gilt. Das feucht-gemäßigte Klima begünstigt eine üppige Landwirtschaft, wodurch die Provinz Golestan große Mengen an Baumwolle, Sojabohnen und Kaviar produziert. Ein tragisches Kapitel erlebte Gorgan im Jahr 1993, als ein schweres Erdbeben schwere Verwüstungen in den Bergdörfern der Umgebung anrichtete. Geographie K8 — Antike Verteidigungsanlagen und hyrkanische Wälder.",
+      "factsAdvanced": [
+        "Die Große Mauer von Gorgan erstreckt sich über beeindruckende 195 Kilometer.",
+        "Die historische Ziegelmauer wurde im 5. Jahrhundert n. Chr. durch die Sassaniden errichtet.",
+        "Die hyrkanischen Wälder südlich der Stadt wurden 2019 in die UNESCO-Welterbeliste aufgenommen.",
+        "Bis zum Jahr 1937 trug die Stadt offiziell den Namen Asterabad.",
+        "Gorgan liegt nur rund 30 Kilometer von der Südostküste des Kaspischen Meeres entfernt.",
+        "Die lokale Jameh-Moschee besitzt noch originale Strukturen aus der Seldschukenzeit (11. Jahrhundert)."
+      ],
+      "faq": [
+        {"q": "Was ist die Große Mauer von Gorgan?", "a": "Eine 195 Kilometer lange Verteidigungsmauer aus dem 5. Jahrhundert, die zweitlängste Asiens."},
+        {"q": "Wie hieß Gorgan früher?", "a": "Bis zum Jahr 1937 war die Stadt unter dem Namen Asterabad bekannt."},
+        {"q": "Was ist besonders an der Natur um Gorgan?", "a": "Die alten hyrkanischen Wälder, die seit 2019 zum UNESCO-Welterbe gehören."},
+        {"q": "Wie weit ist das Kaspische Meer entfernt?", "a": "Das Kaspische Meer liegt nur etwa 30 Kilometer nordwestlich der Stadt."}
+      ],
+      "plizioChallenge": "Wenn die Mauer 195 km lang ist und man 15 km pro Tag wandert, wie viele Tage braucht man für die gesamte Länge?"
+    },
+    {
+      "id": "sari-cities-v2",
+      "descriptionAdvanced": "Sari, umrahmt vom Elburs-Gebirge und dem Kaspischen Meer, ist die Hauptstadt der grünen Provinz Mazandaran. Die Siedlungsgeschichte der Stadt reicht über 2500 Jahre zurück; Sari wurde unter anderem im 18. Jahrhundert durch den Kadscharen-Herrscher Agha Mohammad Khan gefördert. Durch das feuchte subtropische Klima ist die Region das agrarische Kraftzentrum des Irans für den Reisanbau, Zitrusfrüchte und Tee. Die Stadt verzeichnet regelmäßig über 800 Millimeter Niederschlag im Jahr. Touristisch ist Sari wegen seiner Nähe zu den Badestränden von Farahabad und den Thermalquellen von Badab-e Surt, den malerischen Kalksteinterrassen rund 100 Kilometer südlich, sehr beliebt. Der antike Yahya-Turm (Burj-e Resget) aus dem 15. Jahrhundert ist ein historisches Schmuckstück. Geographie K7 — Agrarwirtschaft im subtropischen Klima.",
+      "factsAdvanced": [
+        "Sari wurde von Agha Mohammad Khan im späten 18. Jahrhundert kurzzeitig zur Hauptstadt erklärt.",
+        "Der historische Resget-Turm südlich der Stadt stammt aus dem frühen 11. Jahrhundert.",
+        "Die Region ist das Hauptanbaugebiet Irans für Reis, mit jährlichen Ernten von über 1 Million Tonnen.",
+        "Das subtropische Klima sorgt für durchschnittliche Niederschlagsmengen von 800 Millimetern pro Jahr.",
+        "Die farbenfrohen Kalksteinterrassen von Badab-e Surt liegen etwa 100 Kilometer entfernt.",
+        "Sari war eine der ersten Städte Irans, die 1929 an das transiranische Eisenbahnnetz angeschlossen wurde."
+      ],
+      "faq": [
+        {"q": "Welche landwirtschaftliche Rolle spielt Sari?", "a": "Die feuchte Region ist das Zentrum des Reisanbaus und der Zitrusfrüchte-Produktion Irans."},
+        {"q": "Wie hoch ist der jährliche Niederschlag?", "a": "Das subtropische Klima bringt durchschnittlich über 800 Millimeter Regen pro Jahr."},
+        {"q": "Was sind die Thermalquellen von Badab-e Surt?", "a": "Wunderschöne, farbenfrohe Kalksteinterrassen, die rund 100 Kilometer südlich von Sari liegen."},
+        {"q": "Wann wurde Sari an das Bahnnetz angeschlossen?", "a": "Die Stadt wurde im Jahr 1929 frühzeitig an das transiranische Eisenbahnnetz angebunden."}
+      ],
+      "plizioChallenge": "Wenn in der Region 1 Million Tonnen Reis geerntet werden und ein Sack 25 kg wiegt, wie viele Säcke sind das?"
+    },
+    {
+      "id": "shahriar-cities-v2",
+      "descriptionAdvanced": "Schahriar, etwa 40 Kilometer westlich von Teheran gelegen, ist heute eine boomende Satellitenstadt der Metropolregion. Früher war das Gebiet fast ausschließlich für seine weitläufigen Obstgärten bekannt, die den Großraum Teheran mit frischen Pflaumen, Pfirsichen und Kirschen versorgten. Aufgrund der massiven Bevölkerungsexplosion in den letzten vier Jahrzehnten ist die städtische Struktur rasant gewachsen, wobei die Einwohnerzahl auf über 300.000 anstieg. Obwohl die Landwirtschaft durch den Bau neuer Wohnquartiere und Industriezonen zurückgedrängt wurde, bleibt die Region ein grüner Kontrast zur dichten Bebauung Teherans. Die Infrastrukturprobleme der Pendlerstadt wurden durch neue Autobahnprojekte und den sukzessiven Ausbau öffentlicher Verkehrsmittel teilweise gemildert. Geographie K7 — Zersiedelung und landwirtschaftliche Verdrängung.",
+      "factsAdvanced": [
+        "Die Bevölkerung der Stadt wuchs in den letzten vier Jahrzehnten auf über 300.000 Einwohner an.",
+        "Schahriar befindet sich rund 40 Kilometer westlich vom Teheraner Stadtzentrum.",
+        "Die Region galt historisch als einer der größten Obstlieferanten für die iranische Hauptstadt.",
+        "Durch die starke Zersiedelung (Urban Sprawl) gingen tausende Hektar Ackerland verloren.",
+        "Die Stadt gehört administrativ zur bevölkerungsreichen Provinz Teheran.",
+        "Zahlreiche Pendler nutzen täglich die staugeplagte Azadegan-Autobahn in Richtung Teheran."
+      ],
+      "faq": [
+        {"q": "Wie weit ist Schahriar von Teheran entfernt?", "a": "Die Satellitenstadt liegt rund 40 Kilometer westlich vom Teheraner Zentrum."},
+        {"q": "Wofür war die Region historisch bekannt?", "a": "Für ihre riesigen, ertragreichen Obstgärten, die Teheran versorgten."},
+        {"q": "Wie viele Einwohner hat die Stadt heute?", "a": "Durch enormes Wachstum zählt die Stadt heute über 300.000 Einwohner."},
+        {"q": "Welches ökologische Problem gibt es hier?", "a": "Der städtische Wohnungsbau verdrängt zunehmend die fruchtbaren landwirtschaftlichen Flächen."}
+      ],
+      "plizioChallenge": "Wenn von 300.000 Einwohnern 40% unter 25 Jahre alt sind, wie viele junge Menschen leben in Schahriar?"
+    },
+    {
+      "id": "kashan-cities-v2",
+      "descriptionAdvanced": "Kaschan ist ein architektonisches Juwel am Rande der Dascht-e Kavir, der großen Salzwüste im Zentraliran. Die Stadt blühte während der Kadscharen-Epoche im 19. Jahrhundert auf, aus der prachtvolle historische Kaufmannsvillen wie das Borudscherdi-Haus und das Tabatabai-Haus stammen, deren Bau oft über 10 Jahre dauerte. Ein weiteres Meisterwerk ist der Fin-Garten (Bagh-e Fin), einer der ältesten noch existierenden persischen Gärten (vollendet 1590), der 2011 zum UNESCO-Weltkulturerbe gekürt wurde. Historisch war Kaschan ein Zentrum der Keramikproduktion; das Wort 'Kaschi' ist bis heute der persische Begriff für glasierte Kacheln. Zudem ist die Stadt landesweit für das jährliche Fest der Rosenwasserdestillation (Golabgiri) im Frühling bekannt. Geschichte K8 — Persische Kaufmannsvillen und Gartenarchitektur.",
+      "factsAdvanced": [
+        "Der historische Fin-Garten (Bagh-e Fin) wurde im Jahr 1590 unter Schah Abbas I. vollendet.",
+        "Der persische Gartenkomplex gehört seit 2011 offiziell zum UNESCO-Weltkulturerbe.",
+        "Das prächtige Borudscherdi-Haus wurde ab 1857 in einer Bauzeit von fast 18 Jahren errichtet.",
+        "Die archäologische Ausgrabungsstätte Tepe Sialk nahe Kaschan ist über 7000 Jahre alt.",
+        "Der Begriff 'Kaschi' (Kachel) leitet sich direkt vom Namen der Stadt Kaschan ab.",
+        "Im Jahr 1852 wurde Amir Kabir, der reformerische Premierminister Irans, im Fin-Bad ermordet."
+      ],
+      "faq": [
+        {"q": "Wofür ist Kaschan architektonisch berühmt?", "a": "Für die prachtvollen historischen Kaufmannsvillen aus dem 19. Jahrhundert wie das Tabatabai-Haus."},
+        {"q": "Was ist der Fin-Garten?", "a": "Ein UNESCO-Weltkulturerbe und einer der ältesten klassischen persischen Gärten, vollendet 1590."},
+        {"q": "Welche traditionelle Handwerkskunst stammt aus Kaschan?", "a": "Die Keramikproduktion; der persische Name 'Kaschi' für Kacheln stammt von der Stadt."},
+        {"q": "Welches Fest wird hier jährlich gefeiert?", "a": "Das Golabgiri-Fest, bei dem im Frühling traditionell Rosenwasser destilliert wird."}
+      ],
+      "plizioChallenge": "Wenn das Borudscherdi-Haus 18 Jahre Bauzeit benötigte und 1857 begonnen wurde, in welchem Jahr wurde es fertig?"
+    },
+    {
+      "id": "dezful-cities-v2",
+      "descriptionAdvanced": "Desful ist eine der ältesten Städte in der südwestlichen Provinz Chuzestan und wird vom majestätischen Fluss Dez durchschnitten. Die Stadt ist vor allem berühmt für die Alte Brücke (Pol-e Qadim), die im 3. Jahrhundert n. Chr. unter dem sassanidischen Herrscher Schapur I. von römischen Kriegsgefangenen erbaut wurde und bis ins frühe 21. Jahrhundert für den Fahrzeugverkehr genutzt wurde. Desful wurde während des Ersten Golfkriegs (1980–1988) als 'Stadt der Raketen' bekannt, da sie hunderte von irakischen Scub-Raketenangriffen ertragen musste, was enorme Zerstörungen verursachte. Das Klima im Sommer ist extrem; im Juli und August übersteigen die Temperaturen regelmäßig 45 Grad Celsius. Dennoch ist das Flusstal extrem fruchtbar und ein wichtiges Anbaugebiet für Zitrusfrüchte. Geschichte K8 — Sassanidische Ingenieurskunst und moderne Konflikte.",
+      "factsAdvanced": [
+        "Die Alte Brücke von Desful wurde um das Jahr 260 n. Chr. durch römische Gefangene errichtet.",
+        "Die sassanidische Brücke überspannt den Fluss Dez mit einer ursprünglichen Länge von fast 400 Metern.",
+        "Im Ersten Golfkrieg (1980–1988) wurde die Stadt Ziel von über 160 irakischen Raketenangriffen.",
+        "Das Chogha-Zanbil Zikkurat, ein UNESCO-Welterbe, liegt etwa 45 Kilometer südlich der Stadt.",
+        "Die Sommertemperaturen im Juli und August klettern häufig über 45 Grad Celsius.",
+        "Die landwirtschaftlichen Nutzflächen rund um den Fluss Dez produzieren tausende Tonnen Zitrusfrüchte."
+      ],
+      "faq": [
+        {"q": "Wann wurde die Alte Brücke in Desful gebaut?", "a": "Sie wurde um das Jahr 260 n. Chr. von römischen Kriegsgefangenen unter den Sassaniden erbaut."},
+        {"q": "Welchen traurigen Titel trug die Stadt in den 1980er Jahren?", "a": "Wegen der massiven Bombardierungen im Ersten Golfkrieg wurde sie 'Stadt der Raketen' genannt."},
+        {"q": "Wie heiß wird es in Desful im Sommer?", "a": "In den Monaten Juli und August steigen die Temperaturen regelmäßig auf über 45 Grad Celsius."},
+        {"q": "Was wächst im Tal des Flusses Dez?", "a": "Die fruchtbaren Gebiete um den Fluss sind ein Hauptanbaugebiet für Orangen und andere Zitrusfrüchte."}
+      ],
+      "plizioChallenge": "Wenn im Krieg 160 Raketen in 8 Jahren einschlugen, wie viele waren das durchschnittlich pro Jahr?"
+    },
+    {
+      "id": "neyshabur-cities-v2",
+      "descriptionAdvanced": "Nischapur war im Mittelalter eine der glanzvollsten Metropolen der islamischen Welt, bevor verheerende Erdbeben im 12. Jahrhundert und der vernichtende Mongolensturm im Jahr 1221 die Stadt fast vollständig zerstörten. Heute ist die Stadt in der Provinz Khorasan weltweit als Geburts- und Ruhestätte des legendären persischen Mathematikers, Astronomen und Dichters Omar Chayyam (1048–1131) bekannt, dessen modernes Mausoleum 1963 errichtet wurde. Wirtschaftlich war und ist Nischapur eng mit dem Bergbau verbunden; die Türkisminen (Firuzeh) in den umliegenden Bergen werden seit über 2000 Jahren abgebaut und lieferten die Steine für viele Prachtbauten im Nahen Osten. Die lokale Wirtschaft stützt sich heute auf Landwirtschaft, Keramik und den Abbau von Mineralien. Geschichte K8 — Islamisches Goldenes Zeitalter und der Mongolensturm.",
+      "factsAdvanced": [
+        "Die Stadt wurde im Jahr 1221 durch die mongolischen Heere Dschingis Khans nahezu vollständig ausgelöscht.",
+        "Der berühmte Universalgelehrte Omar Chayyam wurde 1048 hier geboren und 1131 bestattet.",
+        "Das architektonisch markante Mausoleum von Omar Chayyam wurde im Jahr 1963 fertiggestellt.",
+        "Die Türkisminen von Nischapur sind seit mehr als 2000 Jahren ununterbrochen in Betrieb.",
+        "Ein katastrophales Erdbeben forderte im Jahr 1145 Schätzungen zufolge zehntausende Todesopfer.",
+        "Nischapur lag einst als Knotenpunkt direkt auf der wichtigsten Achse der historischen Seidenstraße."
+      ],
+      "faq": [
+        {"q": "Welcher berühmte Gelehrte stammt aus Nischapur?", "a": "Der persische Astronom, Mathematiker und Dichter Omar Chayyam (1048–1131)."},
+        {"q": "Welches Edelstein-Mineral wird hier abgebaut?", "a": "Die Stadt ist seit über 2000 Jahren weltberühmt für ihre hochwertigen Türkisminen."},
+        {"q": "Wann wurde die Stadt zerstört?", "a": "Die Stadt wurde 1145 durch ein Erdbeben und 1221 verheerend durch die Mongolen zerstört."},
+        {"q": "Wann wurde das moderne Omar-Chayyam-Mausoleum erbaut?", "a": "Das ikonische Zelt-Mausoleum wurde im Jahr 1963 errichtet."}
+      ],
+      "plizioChallenge": "Wenn Omar Chayyam 1048 geboren wurde und 1131 starb, wie alt ist er geworden?"
+    },
+    {
+      "id": "ilam-cities-v2",
+      "descriptionAdvanced": "Ilam, die Hauptstadt der gleichnamigen Provinz im äußersten Westen Irans, liegt idyllisch auf einem Hochplateau von 1435 Metern im mächtigen Zagros-Gebirge. Im Gegensatz zum trockenen iranischen Zentralplateau ist die Region stark von dichten Eichenwäldern geprägt. Ilam wurde als moderne Verwaltungsstadt erst in den 1930er Jahren gegründet, doch die antiken Wurzeln der Region reichen tief in die elamitische Epoche vor über 3000 Jahren zurück. Das architektonische Wahrzeichen der Stadt ist das Ghal'eh Vali (Wali-Schloss), das 1908 vom lokalen Gouverneur Gholamreza Khan Vali erbaut wurde und heute ein ethnographisches Museum beherbergt. Wirtschaftlich verlässt sich Ilam heute stark auf die Petrochemie und regionale Landwirtschaft. Die Nähe zur irakischen Grenze (nur ca. 60 Kilometer entfernt) machte die Stadt während des Golfkriegs zu einer Frontzone. Geographie K8 — Grenzgeographie und elamitische Wurzeln.",
+      "factsAdvanced": [
+        "Ilam liegt auf einem Hochplateau in rund 1435 Metern Höhe im Zagros-Gebirge.",
+        "Das historische Ghal'eh Vali (Schloss des Gouverneurs) wurde im Jahr 1908 errichtet.",
+        "Die moderne Stadtstruktur wurde erst in den späten 1920er und 1930er Jahren etabliert.",
+        "Das nahegelegene Erdöl- und Gasfeld von Ilam gehört zu den größten Reservoirs im Westiran.",
+        "Die irakische Grenze ist vom Stadtzentrum aus lediglich etwa 60 Kilometer entfernt.",
+        "Die Landschaft um Ilam wird zu großen Teilen von dichten, jahrhundertealten Eichenwäldern bedeckt."
+      ],
+      "faq": [
+        {"q": "Auf welcher Höhe liegt Ilam?", "a": "Die Stadt befindet sich auf einem Hochplateau von 1435 Metern im Zagros-Gebirge."},
+        {"q": "Was ist das bekannteste historische Gebäude der Stadt?", "a": "Das Ghal'eh Vali, ein Schloss aus dem Jahr 1908, das heute ein Museum beherbergt."},
+        {"q": "Welche natürliche Vegetation prägt die Region?", "a": "Das Umland von Ilam ist für seine ausgedehnten, dichten Eichenwälder bekannt."},
+        {"q": "Wie weit ist die irakische Grenze entfernt?", "a": "Die Grenze zum Nachbarland Irak ist nur knapp 60 Kilometer entfernt."}
+      ],
+      "plizioChallenge": "Wenn die Grenze 60 km entfernt ist und ein Hubschrauber mit 240 km/h fliegt, wie viele Minuten dauert der Flug?"
+    }
+  ]
+}

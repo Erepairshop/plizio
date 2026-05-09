@@ -1,0 +1,81 @@
+{
+  "lang": "hu",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "denkalia-volcanic-field-relief-v2",
+      "descriptionAdvanced": "A Denkalia-vulkáni mező egy geológiailag rendkívül aktív terület, amely számos vulkáni képződményt foglal magában, hűen tükrözve a felszín alatti nyugtalan folyamatokat. A bazaltos kőzetek és az intenzív geotermikus aktivitás révén ez a mező állandó formálódásban van. A vulkáni jelleg egyedülálló, olykor életidegen tájat hozott létre, amely élő laboratóriumként szolgál a geológusok számára. A folyamatos aktivitás elengedhetetlen területté teszi a Horn-félsziget hosszú távú vulkáni folyamatainak megértésében. Földrajz K7 — vulkáni mezők és geotermikus aktivitás.",
+      "factsAdvanced": [
+        "Vulkáni mezők magas koncentrációja.",
+        "Sötét, kiterjedt bazaltképződmények.",
+        "Aktív geotermikus és vulkanikus hatások.",
+        "Folyamatosan formálódó táj.",
+        "Geológiai kutatások helyszíne.",
+        "Nyugtalan felszín alatti folyamatok."
+      ]
+    },
+    {
+      "id": "ansaba-valley-relief-v2",
+      "descriptionAdvanced": "Az Anseba-völgy egy mélyen bevágódott folyóvölgy, amely az északi hegyvidéki tájat szeli át. A völgy szűk alja lehetővé teszi a szezonális mezőgazdasági tevékenységet, amely létfontosságú a környékbeli vidéki népesség számára. A völgy mélysége drámai kontrasztot képez a fölötte elterülő fennsíkkal, miközben oldalai meredekek és sziklásak. A nehéz megközelíthetőség miatt a völgy megőrizte hagyományos élettempóját, és a régió korlátozott művelhető területének egyik legfontosabb artériája. Földrajz K7 — völgy-topográfia és vidéki élet.",
+      "factsAdvanced": [
+        "Mély völgy az északi hegyekben.",
+        "Szezonális kisgazdaságok.",
+        "Kontrasztos, drámai táj.",
+        "Korlátozott művelhető terület.",
+        "Vidéki élet artériája.",
+        "Meredek, sziklás völgyoldalak."
+      ]
+    },
+    {
+      "id": "afer-plain-relief-v2",
+      "descriptionAdvanced": "Az Afer-síkság egy szélsőségesen száraz alföldi régió, amelyet gyakran kiterjedt sós síkságok és igazi sivatagi éghajlat jellemez. Az élet ezen a vidéken az állandó vízforrások hiányáról szól, ami egy egyszerre gyönyörű és kíméletlen tájat hozott létre. A síkság nagyrészt lakatlan, mégis Eritrea alföldjeinek szignifikáns része, amely jól szemlélteti a Danakil-vidék szélsőséges szárazságát. Élénk emlékeztetője azoknak a környezeti végleteknek, amelyek a Horn-félszigeten jellemzőek. Földrajz K7 — sivatagi síkságok és környezeti végletek.",
+      "factsAdvanced": [
+        "Extrém, száraz sivatagi klíma.",
+        "Kiterjedt, lapos sós síkságok.",
+        "Felszíni vízforrások hiánya.",
+        "Eritrea alföldjeinek jellegzetessége.",
+        "A Danakil-vidék kíméletlen arca.",
+        "Környezeti végletek mintája."
+      ]
+    },
+    {
+      "id": "kuma-plateau-relief-v2",
+      "descriptionAdvanced": "A Kuma-fennsík a központi hegyvidék magaslati területe, amelyet nagyrészt gyepek borítanak, így ideális a szarvasmarha-tenyésztéshez. A tengerszint feletti magasság és az éghajlat fontos legelőzónává teszi, biztosítva a pásztorkodáshoz szükséges fenntartható körülményeket. A központi eritreai felföld jelentős részeként olyan hagyományos gazdaságot támogat, amely továbbra is szorosan kötődik az állattartáshoz. A széles, nyílt fennsíkok elengedhetetlenek a helyi marhatartó közösségek életben maradásához és mobilitásához. Földrajz K7 — felföldi fennsíkok és pásztorkodás.",
+      "factsAdvanced": [
+        "Központi hegyvidéki fennsík.",
+        "Kiterjedt gyepek a legeltetéshez.",
+        "Fenntartható szarvasmarha-tartás.",
+        "Fontos legelőzóna a felföldön.",
+        "Hagyományos gazdasági alap.",
+        "Könnyű állatmozgás a nyílt területen."
+      ]
+    },
+    {
+      "id": "dahlak-archipelago-shelf-relief-v2",
+      "descriptionAdvanced": "A Dahlak-szigetcsoport kontinentális talapzata az a kiterjedt tengeralatti terület, amely a szigeteket öleli körbe, sekély vizeiről és gazdag korallzátony-rendszereiről ismert. Ez a self-tenger kritikus fontosságú tengeri élőhely, amely a Vörös-tengeren belül is kimagasló biodiverzitást támogat. A sekély vízmélység lehetővé teszi a napfény behatolását, ezzel elősegítve a színpompás korallvilág életben maradását. A talapzat megőrzése létfontosságú a Vörös-tenger ökoszisztémájának egészségéhez, valamint az eritreai fenntartható halászathoz és turizmushoz. Földrajz K7 — tengeri ökoszisztémák.",
+      "factsAdvanced": [
+        "Kiterjedt, sekély tengeri terület.",
+        "Gazdag, változatos korallzátonyok.",
+        "Kritikus tengeri biodiverzitás.",
+        "A sekély víz segíti a korallokat.",
+        "Kulcsfontosságú a tengeri élővilágnak.",
+        "Alapvető a halászat és turizmus számára."
+      ]
+    },
+    {
+      "id": "gash-bark-basin-relief-v2",
+      "descriptionAdvanced": "A Gash-Barka-medence egy széles süllyedék, amely történelmileg hatalmas mennyiségű folyami üledék lerakódásának helyszíne volt. Idővel ezek az üledékrétegek hozták létre azt a kivételesen termékeny talajt, amelyre a régió mai mezőgazdasági sikerei épülnek. Bár a felszínen száraznak tűnik, a medence mélyebb rétegei fontos információkat rejtenek a vidék geológiai és hidrológiai múltjáról. Kulcsfontosságú terület a nemzeti vízkészlet-gazdálkodásban és a táj fejlődéstörténetének megértésében. Földrajz K7 — üledékes medencék és hidrológia.",
+      "factsAdvanced": [
+        "Széles süllyedékmedence.",
+        "Mély, történelmi üledékes rétegek.",
+        "Kivételesen termékeny talaj.",
+        "Fontos adatok a múlt geológiájáról.",
+        "Vízkészlet-gazdálkodási központ.",
+        "Fejlődéstörténet a rétegekben."
+      ]
+    }
+  ]
+}

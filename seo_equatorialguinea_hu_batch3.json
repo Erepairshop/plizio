@@ -2,31 +2,334 @@
   "lang": "hu",
   "country": "equatorialguinea",
   "files": [
-    "lib/visualLab/data/poiExtraEquatorialguineaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraEquatorialguineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLandmarksV2.ts"
   ],
   "items": [
     {
-      "id": "cogo-cities-v2",
-      "descriptionAdvanced": "Cogo a Río Muni régió déli határán, az Estuario de Muni folyó torkolatvidékén fekszik, és jelentős tengeri kikötője az országnak. A település történelmileg fontos szerepet játszott a régió kereskedelmében, ma pedig a halászat és az erdőgazdálkodás egyik legfontosabb központja. A környező mangroveerdők és vizes élőhelyek védett területnek számítanak, amelyek gazdag biodiverzitást biztosítanak. Cogo stratégiai fekvése révén fontos kapu a déli régiók számára, miközben természeti szépségei miatt a jövőbeni turisztikai fejlesztések számára is potenciállal bír. Tanterv: Földrajz K7, Környezettan K8.",
+      "id": "palm-oil-akonibe-economic-v2",
+      "descriptionAdvanced": "Akonibe környéke Egyenlítői-Guinea szárazföldi részének egyik legfontosabb pálmaolaj-termelő vidéke. Az itt működő pálmaolaj-ültetvények és feldolgozóüzemek kulcsszerepet játszanak a helyi gazdaságban és az ország élelmiszer-önellátási törekvéseiben. A pálmaolaj nemcsak alapvető főzési alapanyag a helyi konyhában, hanem fontos alapanyaga a szappan- és kozmetikai iparnak is. Az ültetvényeken alkalmazott fenntartható gazdálkodási módszerek célja az esőerdők védelme, miközben biztosítják a folyamatos termelést. Az akonibei üzemek modernizálása révén javult a kinyerési hatékonyság, ami több bevételt jelent a helyi kistermelőknek. Tanterv: Mezőgazdaság K7, Gazdaság K8.",
       "factsAdvanced": [
-        "A Río Muni torkolatvidékén fekszik.",
-        "Fontos tengeri kikötőváros.",
-        "A halászat és erdőgazdálkodás központja.",
-        "Védett mangrove-ökoszisztémák övezik.",
-        "Stratégiai fekvésű a déli régiók számára.",
-        "Potenciális turisztikai fejlesztési központ."
+        "Wele-Nzas tartomány egyik meghatározó agráripari ágazata.",
+        "A pálmaolaj az ország egyik legfontosabb hazai élelmiszeripari terméke.",
+        "Az ültetvények nagy része családi vagy közösségi tulajdonban van.",
+        "A feldolgozóüzemek modern présgépekkel vannak felszerelve.",
+        "Fontos szerepet játszik a vidéki szegénység csökkentésében.",
+        "A pálmaolaj melléktermékeit állati takarmányként is hasznosítják.",
+        "A terület klímája ideális az olajpálma (Elaeis guineensis) számára."
       ]
     },
     {
-      "id": "nsork-cities-v2",
-      "descriptionAdvanced": "Nsork a szárazföldi rész keleti részén, Wele-Nzas tartományban található, és a környező erdővidékek kereskedelmi központjaként ismert. A város a mezőgazdasági termékek összegyűjtésében és a helyi kereskedelemben játszik alapvető szerepet. A környéken jellemző a hagyományos gazdálkodás és az erdő alapú megélhetés, amely meghatározza az itt élők mindennapjait. Nsork a központi fekvése miatt a régió fontos logisztikai pontja, amelyen keresztül a vidéki termékek eljutnak a távolabbi piacokra. Tanterv: Földrajz K6, Gazdaságtan K8.",
+      "id": "catedral-santa-isabel-history-v2",
+      "descriptionAdvanced": "A Santa Isabel-székesegyház Malabo leglátványosabb vallási és építészeti emléke, amely a főváros szívében, a Függetlenség tere mellett található. A neogótikus stílusban épült katedrális építése 1897-ben kezdődött spanyol építészek vezetésével, és 1916-ban szentelték fel. Az épület sárga homlokzata és elegáns tornyai a spanyol gyarmati korszak gazdagságát és kulturális hatását tükrözik. A templom belseje lenyűgöző boltívekkel és színes üvegablakokkal büszkélkedhet, amelyek az európai gótika és a helyi afrikai környezet különleges találkozását jelképezik. A székesegyház az ország katolikus hitének központja és a nemzeti identitás egyik legfontosabb szimbóluma. Tanterv: Művészettörténet K8, Történelem K7.",
       "factsAdvanced": [
-        "Wele-Nzas tartomány városa.",
-        "A környező erdővidékek kereskedelmi központja.",
-        "Mezőgazdasági termékgyűjtőpont.",
-        "Hagyományos gazdálkodási központ.",
-        "Fontos regionális logisztikai állomás.",
-        "A vidéki és városi piacokat összekötő pont."
+        "Malabo és az ország legfontosabb katolikus temploma.",
+        "Luis Segarra Llairadó spanyol építész tervezte.",
+        "Építése 19 évig tartott a gyarmati időszakban.",
+        "Tornyai 40 méter magasra emelkednek a város fölé.",
+        "A székesegyház 2020-ban egy súlyos tűzvész után teljes restauráláson esett át.",
+        "A neogótikus építészet egyik legszebb példája Közép-Afrikában.",
+        "A katedrális a malabói érsekség székhelye."
+      ]
+    },
+    {
+      "id": "casa-correos-bata-history-v2",
+      "descriptionAdvanced": "A batai Postaház (Casa de Correos) a város egyik legjellegzetesebb gyarmati kori épülete, amely a spanyol közigazgatás központjaként szolgált Río Muniban. Az épület elegáns árkádjai és klasszikus spanyol stílusjegyei a 20. század első felének építészetét idézik. Történelmileg ez volt a kommunikáció és a logisztika szíve a szárazföldi országrészben, ahol a levelek és a hírek befutottak az anyaországból. A Postaház ma is fontos közintézmény, amely emlékeztet Bata városának fejlődésére és a gyarmati múlt örökségére. Az épület elhelyezkedése a városközpontban központi találkozóhellyé tette a lakosság számára az évtizedek során. Tanterv: Történelem K7, Építészet K8.",
+      "factsAdvanced": [
+        "Bata egyik legrégebbi, épségben maradt középülete.",
+        "A spanyol gyarmati építészet jellegzetes példája a szárazföldön.",
+        "Fontos szerepet játszott a régió távíró- és postaszolgálatában.",
+        "Fehér homlokzata és boltíves bejárata messziről felismerhető.",
+        "A függetlenség után is megőrizte eredeti funkcióját.",
+        "Az épület előtt gyakran tartanak helyi rendezvényeket.",
+        "A batai városszerkezet egyik fix tájékozódási pontja."
+      ]
+    },
+    {
+      "id": "torre-libertad-bata-history-v2",
+      "descriptionAdvanced": "A Szabadság-torony (Torre de la Libertad) Bata tengerparti sétányának, a Paseo Marítimónak a legmodernebb és leglátványosabb emlékműve. A tornyot a függetlenség 43. évfordulójára építették, és az ország szabadságát, szuverenitását és jövőbe vetett hitét jelképezi. Az építmény tetején található kilátóból és forgó étteremből páratlan panoráma nyílik az Atlanti-óceánra és a folyamatosan szépülő Bata városára. Éjszakánként a torony díszkivilágítása messziről is jól látható, világítótoronyként is szolgálva a tengerészek számára. A torony körül modern parkot és közösségi teret alakítottak ki, amely a helyiek kedvelt kikapcsolódási helyszíne lett. Tanterv: Történelem K8, Földrajz K6.",
+      "factsAdvanced": [
+        "2011-ben avatták fel a függetlenség napja alkalmából.",
+        "A torony magassága meghaladja a 60 métert.",
+        "Tetején egy luxus forgó étterem és kilátó üzemel.",
+        "Modern acél- és üvegszerkezete a nemzeti fejlődést szimbolizálja.",
+        "Bata legfontosabb modern landmarkja és turistalátványossága.",
+        "A talapzatánál nemzeti szimbólumok és feliratok láthatók.",
+        "Díszkivilágítása az ország nemzeti színeiben is tündökölhet."
+      ]
+    },
+    {
+      "id": "basilica-mongomo-history-v2",
+      "descriptionAdvanced": "A mongomói Szeplőtelen Fogantatás-bazilika Egyenlítői-Guinea egyik legmonumentálisabb épülete és szellemi központja. A 2011-ben felszentelt bazilika az ország legnagyobb vallási építménye, amely méreteiben a római Szent Péter-bazilikát idézi. Az épület neogótikus és klasszicista elemeket ötvöz, hatalmas kupolája és márvánnyal borított belső terei lenyűgöző látványt nyújtanak. A bazilika építése Mongomo városának modernizációs folyamatának csúcspontja volt, kifejezve az ország elkötelezettségét a vallás és a nemzeti presztízs iránt. A templom kertjében elegáns szobrok és gondozott parkok találhatók, amelyek békés környezetet biztosítanak a zarándokok és látogatók számára. Tanterv: Művészettörténet K8, Történelem K7.",
+      "factsAdvanced": [
+        "A mongomói egyházmegye székhelye és bazilika minor rangú templom.",
+        "Közép-Afrika egyik legnagyobb keresztény temploma.",
+        "A belső térben használt márványt Olaszországból szállították.",
+        "A bazilika egyszerre több ezer hívő befogadására alkalmas.",
+        "Felszentelésén számos afrikai államfő és egyházi méltóság részt vett.",
+        "Mongomo városának legmeghatározóbb építészeti eleme.",
+        "A bazilika kupolája messziről látható az esőerdei tájban."
+      ]
+    },
+    {
+      "id": "mision-claretiana-baney-history-v2",
+      "descriptionAdvanced": "A baney-i Klaretinus Misszió Egyenlítői-Guinea vallástörténetének egyik fontos emléke Bioko szigetén. A missziót a spanyol klaretinus szerzetesek alapították a 19. század végén azzal a céllal, hogy oktatást és egészségügyi ellátást nyújtsanak a helyi bubi lakosságnak. A missziós központ épületei, köztük a jellegzetes kápolna és az iskola, jól tükrözik a korabeli gyarmati építészetet és a missziós tevékenység hatását a sziget társadalmi fejlődésére. Történelmileg Baney fontos bázis volt a belső területek keresztény hitre térítésében és a spanyol nyelv terjesztésében. A misszió öröksége ma is él a helyi közösségben, amely büszkén őrzi vallási és oktatási hagyományait. Tanterv: Történelem K7, Vallásismeret K8.",
+      "factsAdvanced": [
+        "A missziót 1883-ban alapították spanyol szerzetesek.",
+        "Fontos szerepet játszott Bioko szigetének korai oktatási rendszerében.",
+        "Az épületkomplexum stílusa a spanyol koloniális elemeket ötvözi.",
+        "A misszió területén ma is működik egyházi iskola.",
+        "Baney városának egyik legrégebbi és legértékesebb épületegyüttese.",
+        "Híres a jól dokumentált missziós archívumáról.",
+        "A szerzetesek kísérleti mezőgazdasági projekteket is indítottak a környéken."
+      ]
+    },
+    {
+      "id": "ruinas-riaba-history-v2",
+      "descriptionAdvanced": "Riaba romjai a spanyol gyarmati korszak korai időszakába repítik vissza a látogatókat Bioko szigetének keleti partján. A terület egykor Concepción néven volt ismert, és a sziget egyik első állandó spanyol települése volt, amely a kakaó- és kávéexport egyik központjaként szolgált. A romok között láthatók a régi raktárak, a kormányzói ház és a kikötői építmények maradványai, amelyeket mára részben visszahódított a trópusi természet. Ezek a falak a rabszolgaság utáni korszak és a nagy ültetvények világának néma tanúi, emlékeztetve a sziget gazdaságtörténeti jelentőségére. A terület ma fontos régészeti és történelmi helyszín, amely segít megérteni a gyarmati infrastruktúra kialakulását. Tanterv: Történelem K7, Régészet K8.",
+      "factsAdvanced": [
+        "Egykor Concepción néven a sziget második legfontosabb városa volt.",
+        "A 19. század közepén épült gyarmati épületek romjai találhatók itt.",
+        "Fontos exportkikötő volt a kakaó számára 1968-ig.",
+        "A romok között egy régi kápolna alapjai is felfedezhetők.",
+        "A területet sűrű vegetáció borítja, ami misztikus hangulatot áraszt.",
+        "Riaba romjai a Bioko-szigeti örökségvédelmi program részét képezik.",
+        "A helyszín közel fekszik a tengerparthoz, ahol egykor a hajók horgonyoztak."
+      ]
+    },
+    {
+      "id": "puerto-iradier-history-v2",
+      "descriptionAdvanced": "Puerto Iradier, a mai Cogo történelmi neve, amelyet Manuel Iradier spanyol felfedezőről kapott, aki a 19. század végén térképezte fel a Muni-folyó torkolatvidékét. A város egykor a szárazföldi régió legfontosabb kereskedelmi állomása volt, ahol a spanyolok kiépítették közigazgatási és katonai központjukat. A történelmi negyedben még ma is láthatók az elegáns koloniális épületek maradványai, amelyek a folyóra néznek, idézve a felfedezések és a korai gyarmatosítás korát. Puerto Iradier fontos kapu volt a szárazföld belseje felé, ahol a kereskedők és a felfedezők megpihentek a veszélyes expedíciók előtt. A hely szelleme szorosan összekapcsolódik az ország határainak kialakulásával és a spanyol-francia határvitákkal. Tanterv: Történelem K7, Földrajz K8.",
+      "factsAdvanced": [
+        "Manuel Iradier y Bulfy spanyol felfedező alapította a nevet 1874-ben.",
+        "Cogo városának korábbi gyarmati elnevezése.",
+        "A Muni-folyó (Río Muni) torkolatának stratégiai őrpontja volt.",
+        "A spanyol és francia gyarmati érdekek ütközőpontja volt a 19. században.",
+        "Jellegzetes spanyol stílusú árkádos épületek romjai láthatók.",
+        "A város egykor a szárazföldi régió informális fővárosa volt.",
+        "A terület ma a történelmi turizmus egyik ígéretes célpontja."
+      ]
+    },
+    {
+      "id": "elobey-chico-ruins-history-v2",
+      "descriptionAdvanced": "Elobey Chico szigetének romjai egy letűnt korszak emlékei az Atlanti-óceánban, a Muni-torkolat közelében. A pici sziget a 19. század végén és a 20. század elején a spanyol gyarmat kereskedelmi fővárosa volt, ahol virágzott a gumival és elefántcsonttal való kereskedelem. Ma a sziget lakatlan, de sűrű növényzete között megbújnak a régi bankok, raktárak és elegáns lakóházak romjai, amelyek egy egykori pezsgő, kozmopolita világ képét idézik. A látogatók számára a sziget olyan, mint egy időkapszula, ahol a csendet csak az óceán moraja és a madarak éneke töri meg. Elobey Chico romjai Egyenlítői-Guinea egyik legrejtélyesebb és legromantikusabb történelmi helyszíne. Tanterv: Történelem K7, Régészet K8.",
+      "factsAdvanced": [
+        "A sziget területe mindössze 0,19 négyzetkilométer.",
+        "1884 és 1905 között a spanyol Río Muni közigazgatási központja volt.",
+        "A romok között még látszanak az egykori európai kereskedelmi házak alapjai.",
+        "A szigeten temető is található régi spanyol sírokkal.",
+        "A növényzet szinte teljesen benőtte az épületeket.",
+        "Kizárólag hajóval közelíthető meg Cogo városából.",
+        "Egykor itt működött a régió legmodernebb távíróállomása."
+      ]
+    },
+    {
+      "id": "iglesia-pale-history-v2",
+      "descriptionAdvanced": "A San Antonio de Palé-i templom Annobón szigetének spirituális és történelmi középpontja. Ez a szerény, de méltóságteljes épület a sziget viharos történelmének tanúja, tükrözve a lakosság mély katolikus hitét, amely a portugál misszionáriusok idejéből ered. A templom építészete az egyszerűségre törekszik, alkalmazkodva a sziget vulkanikus környezetéhez és a korlátozott építőanyagokhoz. A hívők számára a templom nemcsak az imádság helye, hanem a közösségi élet és az identitás őrzője is, ahol az évszázados hagyományok, mint a processziók és a helyi ünnepségek, ma is elevenek. A templom harangja évszázadok óta jelzi az idő múlását ezen a távoli, óceáni szigeten. Tanterv: Történelem K6, Vallásismeret K7.",
+      "factsAdvanced": [
+        "Annobón szigetének legrégebbi vallási épülete.",
+        "Kulturális gyökerei a 15. századi portugál felfedezésig nyúlnak vissza.",
+        "A templom többször is újjáépült a kalóztámadások és viharok után.",
+        "Belső terében egyszerű fa szobrok és helyi díszítőelemek találhatók.",
+        "A sziget egyetlen plébániája, amely San Antonio tiszteletére van szentelve.",
+        "A templom előtt tágas tér található a közösségi gyűlésekhez.",
+        "Fontos szerepet tölt be a helyi kreol nyelvű egyházi énekek megőrzésében."
+      ]
+    },
+    {
+      "id": "monumento-independencia-malabo-history-v2",
+      "descriptionAdvanced": "A Függetlenségi Emlékmű Malabóban az ország szabadságának és önállóságának legfontosabb nemzeti jelképe. Az emlékmű a főváros szívében helyezkedik el, és az 1968. október 12-én elnyert függetlenség tiszteletére emelték, véget vetve a közel két évszázados spanyol uralomnak. Az építmény stílusa a modern afrikai büszkeséget és a nemzeti egységet sugározza, gyakran díszítve a nemzeti lobogó színeivel. Az emlékmű környezete fontos helyszíne a nemzeti ünnepségeknek, katonai parádéknak és diplomáciai eseményeknek. A helyiek és a látogatók számára ez a pont emlékeztet azokra a történelmi hősökre, akik küzdöttek az ország méltóságáért és a nép szabadságáért. Tanterv: Történelem K6, Társadalomismeret K7.",
+      "factsAdvanced": [
+        "A malabói Plaza de la Independencia (Függetlenség tere) központi eleme.",
+        "Az 1968-as függetlenné válás emlékére állították.",
+        "Gyakran láthatók rajta az ország címerének elemei, például a selyemmajomszőr fa.",
+        "A nemzeti ünnepeken a kormányfő itt helyezi el az emlékezés koszorúit.",
+        "Az emlékmű körül modern park és sétány található.",
+        "Fontos fotópont a Malabóba látogatók számára.",
+        "Jelképezi az átmenetet a gyarmati múltból a szuverén jelenbe."
+      ]
+    },
+    {
+      "id": "centro-historico-evinayong-history-v2",
+      "descriptionAdvanced": "Evinayong történelmi városközpontja Egyenlítői-Guinea belső szárazföldi részének egyik legérdekesebb építészeti együttese. A város hegytetőn való elhelyezkedése miatt a spanyol gyarmati közigazgatás egyik stratégiai bázisa volt, ahol hűvösebb klímán építhették fel hivatalaikat és lakóházaikat. A központban látható régi épületek, a boltíves verandák és a vastag falak a spanyol 'misionero' és 'administrativo' stílus jegyeit hordozzák. Evinayong óvárosa az évtizedek során megőrizte csendes, patinás hangulatát, ahol a történelem szinte kézzel fogható. A régi piactér és a környező utcák bepillantást engednek abba az időbe, amikor a város a belső területek felfedezésének és civilizálásának egyik fő állomása volt. Tanterv: Történelem K7, Építészet K8.",
+      "factsAdvanced": [
+        "Centro Sur tartomány legrégebbi városmagja.",
+        "A spanyol gyarmati közigazgatás egyik belső székhelye volt.",
+        "Számos épület a 20. század elején készült helyi alapanyagokból.",
+        "A városközpont elrendezése a spanyol rácsos utcaszerkezetet követi.",
+        "Fontos vallási és oktatási központ volt a belső régióban.",
+        "A történelmi negyedet nemrégiben részlegesen felújították.",
+        "Híres a jó állapotban maradt gyarmati kori kormányzósági épületről."
+      ]
+    },
+    {
+      "id": "cathedral-ebebiyin-history-v2",
+      "descriptionAdvanced": "Az ebebiyíni székesegyház a szárazföldi régió északkeleti részének legjelentősebb vallási építménye. A modern katedrális monumentális megjelenése és egyedi építészeti megoldásai tükrözik a város növekvő jelentőségét és az egyház erejét a határmenti régióban. Az épület világos homlokzata és égbe törő tornyai uralják Ebebiyín látképét, iránytűként szolgálva a környéken élők számára. A belső tér tágas és világos, díszítései között megtalálhatók a helyi fang kultúra motívumai is, amelyek harmonikusan ötvöződnek a hagyományos keresztény szimbolikával. A székesegyház fontos közösségi találkozóhely, ahol a nagy vallási ünnepeken a környék összes falujából összegyűlnek a hívők. Tanterv: Művészettörténet K7, Társadalomismeret K8.",
+      "factsAdvanced": [
+        "Az Ebebiyíni egyházmegye központi temploma.",
+        "Az ország egyik legújabb és legmodernebb székesegyháza.",
+        "Építése a 2000-es évek infrastrukturális fejlesztéseivel párhuzamosan zajlott.",
+        "Strategiai elhelyezkedése a kameruni határ közelében különleges missziós szerepet ad neki.",
+        "A katedrális kertje kedvelt pihenőhely a helyiek számára.",
+        "Belső világítása és akusztikája nemzetközi színvonalú.",
+        "A város vallási és kulturális büszkesége."
+      ]
+    },
+    {
+      "id": "mision-niefang-history-v2",
+      "descriptionAdvanced": "A niefangi misszió Egyenlítői-Guinea szárazföldi részének egyik korai keresztény bázisa, amely a Río Muni régió belső területeinek evangelizációjában játszott kulcsszerepet. A 20. század elején alapított misszió nemcsak vallási központként, hanem oktatási és egészségügyi állomásként is funkcionált, segítve a trópusi esőerdőkben élő közösségeket. Az épületegyüttes egyszerű, funkcionális spanyol koloniális stílusban épült, amely azóta is meghatározza Niefang városképét. A misszió történelme szorosan kötődik a helyi lakosság életének modernizálásához és a spanyol nyelv elterjedéséhez. Ma a misszió továbbra is aktív, fenntartva az évszázados hagyományokat és segítve a rászorulókat a régióban. Tanterv: Történelem K7, Vallásismeret K8.",
+      "factsAdvanced": [
+        "A 20. század első felében alapították spanyol misszionáriusok.",
+        "A belső szárazföldi területek egyik legfontosabb oktatási bázisa volt.",
+        "A misszió épületei a tartósság jegyében vastag falakkal épültek.",
+        "Jelentős szerepet játszott a helyi fang dialektusok és a spanyol nyelv érintkezésében.",
+        "Niefang városának egyik legfontosabb kulturális örökségi helyszíne.",
+        "A misszió kertjében korábban kísérleti ültetvények is működtek.",
+        "Ma is fontos közösségi és vallási események házigazdája."
+      ]
+    },
+    {
+      "id": "museo-nacional-history-v2",
+      "descriptionAdvanced": "A Nemzeti Múzeum Malabóban Egyenlítői-Guinea kulturális és történelmi örökségének kincstára. A múzeum gyűjteménye bemutatja az ország gazdag etnográfiai sokszínűségét, kiemelt figyelmet fordítva a fang és a bubi népcsoportok hagyományos maszkjaira, eszközeire és művészetére. A kiállítások végigvezetik a látogatót a gyarmatosítás előtti korokon, a spanyol uralom évein, egészen a modern független állam kialakulásáig. A múzeum épülete maga is történelmi jelentőségű, elegáns koloniális stílusa méltó keretet ad a nemzeti kincseknek. Ez az intézmény az ország emlékezetének őrzője, ahol a diákok és a turisták egyaránt mélyebb képet kaphatnak az egyenlítői-guineai nép identitásáról és büszkeségéről. Tanterv: Történelem K7, Művészettörténet K8.",
+      "factsAdvanced": [
+        "Az ország legfontosabb közgyűjteménye és kulturális intézménye.",
+        "Híres a rituális maszkokból és fafaragásokból álló gyűjteményéről.",
+        "Malabo egyik legszebb, felújított gyarmati kori épületében kapott helyet.",
+        "Külön szekció foglalkozik az ország tengerészeti és halászati múltjával.",
+        "Rendszeresen otthont ad időszaki művészeti és történelmi kiállításoknak.",
+        "A múzeum célja a nemzeti kulturális öntudat erősítése.",
+        "Oktatási programokat kínál helyi iskolák számára az ország történelméről."
+      ]
+    },
+    {
+      "id": "palacio-moca-history-v2",
+      "descriptionAdvanced": "A moca-i Palota Bioko szigetének egyik legmisztikusabb történelmi helyszíne, amely egykor a bubi királyok rezidenciájaként szolgált a sziget déli felföldjén. A 'palota' kifejezés itt inkább egy rituális és közigazgatási központot takart, ahol a bubi nép szellemi vezetői hozták meg fontos döntéseiket. A helyszín szorosan kapcsolódik Moka király nevéhez, aki a 19. században egységesítette a bubi törzseket és ellenállt a korai gyarmati törekvéseknek. Bár az eredeti építményekből kevés maradt fenn, a hely spirituális ereje és történelmi aurája ma is vonzza a látogatókat. A Palota területe fontos zarándokhely a bubi identitás számára, ahol a természet és a történelem szinte elválaszthatatlan egymástól. Tanterv: Történelem K7, Néprajz K8.",
+      "factsAdvanced": [
+        "Moka király egykori székhelye a Bioko-szigeti felföldön.",
+        "A bubi nép függetlenségének és szuverenitásának szimbóluma.",
+        "A terület 1200 méter feletti magasságban, hűvös klímájú vidéken található.",
+        "Fontos szerepet játszott a sziget belső közigazgatásában a 19. században.",
+        "A spanyol gyarmatosítók is elismerték a hely stratégiai és kulturális súlyát.",
+        "Ma emléktábla és kisebb emlékhely jelöli az egykori uralkodói központot.",
+        "A közelben találhatók a bubi vallás szent erdei és tavai."
+      ]
+    },
+    {
+      "id": "faro-punta-unidad-history-v2",
+      "descriptionAdvanced": "A Punta Unidad világítótorony Egyenlítői-Guinea szárazföldi partvidékének egyik legfontosabb navigációs pontja, amely a Río Muni régió északi részén található. A torony évtizedek óta mutatja az utat a Guineai-öbölben hajózóknak, különösen a Bata kikötője felé tartó teherhajóknak. Építése és üzemeltetése a tengeri biztonság iránti elkötelezettséget tükrözi az Atlanti-óceán ezen forgalmas szakaszán. A világítótorony elnevezése (Egység-fok) az ország nemzeti mottójára utal, kifejezve a szigetek és a szárazföld közötti egységet. A torony környezete festői, vadregényes sziklákkal és a végtelen óceán látványával, ami népszerűvé teszi a természetjárók körében is. Tanterv: Földrajz K6, Technológia K7.",
+      "factsAdvanced": [
+        "Strategiai elhelyezkedésű világítótorony a szárazföldi partvidéken.",
+        "Fontos szerepet tölt be a nemzetközi és belföldi tengeri navigációban.",
+        "Magas, hengeres szerkezete messziről felismerhető a part mentén.",
+        "Fénye több tengeri mérföldre ellátszik az óceánon.",
+        "A torony és környezete az ország tengerészeti hatóságának kezelésében van.",
+        "Nevét a nemzeti egység szimbólumaként kapta.",
+        "A közeli partvidék gazdag tengeri élővilággal rendelkezik."
+      ]
+    },
+    {
+      "id": "plaza-reloj-malabo-history-v2",
+      "descriptionAdvanced": "Az Óra-tér (Plaza del Reloj) Malabo történelmi óvárosának egyik legbájosabb és legfontosabb közösségi tere. A tér nevét a központi elhelyezkedésű, gyarmati stílusú óratoronyról kapta, amely évtizedek óta méri az időt a főváros lakói számára. A teret elegáns spanyol koloniális épületek, kormányzati hivatalok és üzletek veszik körül, tükrözve Malabo régi világát. Ez a helyszín a mindennapi élet központja, ahol a helyiek megállnak beszélgetni a pálmafák árnyékában, és ahol a város lüktetése leginkább érezhető. Az Óra-tér az elmúlt években kisebb felújításokon esett át, megőrizve történelmi karakterét, de modernebb közvilágítást és padokat kapott. Tanterv: Történelem K6, Várostervezés K7.",
+      "factsAdvanced": [
+        "Malabo óvárosának (Casco Viejo) egyik központi tere.",
+        "Nevét a téren található jellegzetes óratoronyról kapta.",
+        "A spanyol gyarmati időszakban a társasági élet fő színtere volt.",
+        "Közel fekszik a kikötőhöz és az elnöki palotához.",
+        "A teret körülvevő épületek többsége a 20. század elején épült.",
+        "Fontos tájékozódási pont a gyalogos turisták számára.",
+        "A téren gyakran láthatók hagyományos és modern utcai árusok."
+      ]
+    },
+    {
+      "id": "antiguo-puerto-luba-history-v2",
+      "descriptionAdvanced": "Luba régi kikötője a Bioko-szigeti kereskedelem bölcsője volt a spanyol időkben. Mielőtt felépült volna a modern mélyvízi terminál, ez a természetes öböl szolgált a kakaó és a faanyag elsődleges berakodási helyeként. A régi kikötői területen ma is láthatók az egykori raktárak és vámházak romjai, amelyek a gőzhajók és a gyarmati kereskedőházak korszakát idézik. Történelmileg Luba volt a sziget nyugati részének legfontosabb ablakai a világra, ahol az ültetvények terményei behajózásra kerültek Európa felé. A régi kikötő csendes vize ma már főként a helyi halászoknak ad otthont, de történelmi jelentősége továbbra is meghatározó a város identitásában. Tanterv: Történelem K7, Gazdaság K8.",
+      "factsAdvanced": [
+        "Bioko-sziget egyik legrégebbi természetes kikötőhelye.",
+        "A modern Luba Freeport felépítése előtt a régió fő kapuja volt.",
+        "A 19. században fontos állomás volt a rabszolga-kereskedelem elleni brit őrjáratok számára is.",
+        "Jellegzetes, korrodált vasmólók és régi épületek maradványai láthatók.",
+        "A környező sziklák kiváló védelmet nyújtottak a viharok ellen.",
+        "Fontos szerepet játszott a bubi és a spanyol kultúra érintkezésében.",
+        "Ma a kisüzemi halászat és a nosztalgikus turizmus helyszíne."
+      ]
+    },
+    {
+      "id": "mausoleo-mongomo-history-v2",
+      "descriptionAdvanced": "A mongomói Mauzóleum az ország modern történelmének és politikai kultúrájának egyik legfontosabb emlékhelye Wele-Nzas tartományban. Az elegáns és monumentális építmény az állami méltóságok és a nemzet nagyjai előtt tiszteleg, kifejezve a folytonosságot és a tiszteletet az elődök iránt. Az épület építészete a modern klasszicizmus jegyeit hordozza, nemes anyagokból, például márványból és gránitból készült, díszes kerttel körülvéve. A Mauzóleum nemcsak kegyeleti hely, hanem a nemzeti emlékezet része is, ahol az állami látogatások során gyakran helyeznek el koszorúkat. A mongomói bazilika közelsége miatt a terület a város legfontosabb reprezentatív negyedévé vált. Tanterv: Történelem K8, Társadalomismeret K7.",
+      "factsAdvanced": [
+        "Modern építészeti stílusban épült kegyeleti emlékhely.",
+        "Az ország politikai és történelmi vezetőinek állít emléket.",
+        "Mongomo városának reprezentatív övezetében található.",
+        "Belső terét értékes mozaikok és faragványok díszítik.",
+        "A környező parkot nemzetközi kerttervezők alakították ki.",
+        "Fontos helyszíne a protokolláris állami eseményeknek.",
+        "A mauzóleum látogatása szigorú előírásokhoz kötött."
+      ]
+    },
+    {
+      "id": "ayuntamiento-malabo-history-v2",
+      "descriptionAdvanced": "A malabói Városháza (Ayuntamiento de Malabo) a főváros önkormányzati igazgatásának központja és egyik legszebb középülete. Az épület a spanyol koloniális építészet egyik kiváló példája, amely elegáns homlokzatával és központi elhelyezkedésével a városi rend és közigazgatás jelképe. Történelmileg ez a helyszín volt a városfejlesztési döntések forrása Malabo növekedése során a 20. században. A Városháza nemcsak irodáknak ad otthont, hanem fontos reprezentatív funkciója is van: itt fogadják a külföldi küldöttségeket és itt tartják a városi ünnepségeket. Az épület előtti tér a város egyik legtisztább és leggondozottabb része, tükrözve a főváros presztízsét. Tanterv: Társadalomismeret K7, Építészet K8.",
+      "factsAdvanced": [
+        "A főváros közigazgatási és önkormányzati központja.",
+        "Malabo történelmi negyedében található.",
+        "Az épület homlokzatán látható a város címere.",
+        "A gyarmati idők óta a helyi hatalom jelképe.",
+        "Rendszeresen otthont ad kulturális és közösségi rendezvényeknek.",
+        "Az épület belső tereiben régi városi archívumokat is őriznek.",
+        "Környezete a város egyik legfontosabb protokolláris zónája."
+      ]
+    },
+    {
+      "id": "malabo-national-stadium-landmarks-v2",
+      "descriptionAdvanced": "A Malabói Nemzeti Stadion (Estadio de Malabo) Egyenlítői-Guinea legmodernebb sportlétesítménye és a nemzeti büszkeség egyik pillére. A 15 250 néző befogadására alkalmas stadion 2007-ben készült el, és azóta számos nemzetközi eseménynek, köztük az Afrikai Nemzetek Kupájának is otthont adott. A stadion építészete modern és funkcionális, minden igényt kielégítő kiszolgáló létesítményekkel, edzőpályákkal és sajtóközponttal rendelkezik. Ez a helyszín a nemzeti labdarúgó-válogatott, a 'Nzalang Nacional' otthona, ahol a legfontosabb mérkőzéseket játsszák. A stadion nemcsak sporteseményeknek, hanem koncerteknek és nagyszabású nemzeti ünnepségeknek is helyszíne, összefogva a főváros lakosságát a közös élmények jegyében. Tanterv: Sport K6, Földrajz K7.",
+      "factsAdvanced": [
+        "Az ország egyik legmodernebb többfunkciós stadionja.",
+        "Befogadóképessége 15 250 fő.",
+        "A 2012-es és a 2015-ös Afrikai Nemzetek Kupája egyik helyszíne volt.",
+        "Malabo északi részén, a repülőtér közelében található.",
+        "A stadionhoz tartozik egy atlétikai pálya és több edzőpálya is.",
+        "A nemzeti labdarúgó-válogatott hivatalos otthona.",
+        "Modern éjszakai világítási rendszerrel rendelkezik."
+      ]
+    },
+    {
+      "id": "bata-stadium-landmarks-v2",
+      "descriptionAdvanced": "A Batai Stadion (Estadio de Bata) az ország legnagyobb sportlétesítménye, amely a szárazföldi régió sportéletének központja. A stadion eredetileg kisebb kapacitással épült, de a 2012-es Afrikai Nemzetek Kupájára 35 700 fősre bővítették, modern acélszerkezetet és tetőt kapott. Ez a grandiózus építmény nemcsak futballmérkőzéseknek ad otthont, hanem a nemzeti egység szimbóluma is a szárazföldön, ahol a legfontosabb állami és kulturális eseményeket rendezik. A stadion elhelyezkedése Bata városának szélén tágas tereket és jó megközelíthetőséget biztosít a szurkolók számára. A létesítmény nemzetközi színvonala lehetővé teszi, hogy Egyenlítői-Guinea fontos szereplője legyen az afrikai sportdiplomáciának. Tanterv: Sport K7, Társadalomismeret K8.",
+      "factsAdvanced": [
+        "Egyenlítői-Guinea legnagyobb befogadóképességű stadionja.",
+        "35 700 néző befogadására alkalmas a 2012-es bővítés után.",
+        "A 2015-ös Afrikai Nemzetek Kupája döntőjének is otthont adott.",
+        "Modern atlétikai futópályával és VIP-páholyokkal rendelkezik.",
+        "Bata legjelentősebb modern építészeti alkotása.",
+        "Az ország egyik legfontosabb közösségi találkozóhelye nagy események idején.",
+        "A stadion éjszakai kivilágítása meghatározó Bata látképében."
+      ]
+    },
+    {
+      "id": "palacio-del-pueblo-malabo-landmarks-v2",
+      "descriptionAdvanced": "A Nép Palotája (Palacio del Pueblo) Malabóban az ország politikai életének legfontosabb szimbolikus és funkcionális központja. Az impozáns épület az elnöki hivatalnak és számos fontos állami ceremóniának ad otthont a főváros szívében. Építészete a modern eleganciát és a nemzeti méltóságot ötvözi, tágas tereivel és gondosan őrzött kertjeivel kiemelkedik Malabo városképéből. A palota nemcsak a hatalom székhelye, hanem a nemzetközi diplomácia színtere is, ahol külföldi államfőket és delegációkat fogadnak. Az épület szigorú biztonsági intézkedések mellett működik, de külső megjelenése és a körülötte lévő díszes sugárutak a modern Egyenlítői-Guinea fejlődését hirdetik. Tanterv: Társadalomismeret K7, Történelem K8.",
+      "factsAdvanced": [
+        "Az ország egyik legfontosabb kormányzati épülete Malabóban.",
+        "Az elnöki hivatal és a fontosabb állami ünnepségek székhelye.",
+        "Építészeti stílusa a modern reprezentatív állami építészetet követi.",
+        "A palotát tágas, trópusi növényekkel beültetett kertek övezik.",
+        "Szigorúan őrzött terület a főváros diplomáciai negyedében.",
+        "Fontos szerepet játszik az ország protokolláris életében.",
+        "A palota homlokzatát nemzeti jelképek díszítik."
+      ]
+    },
+    {
+      "id": "mbini-bridge-landmarks-v2",
+      "descriptionAdvanced": "A mbini-híd Egyenlítői-Guinea egyik legfontosabb mérnöki alkotása, amely a Benito-folyót szeli át a szárazföldi régió part menti útja mentén. A 2014-ben átadott híd véget vetett a korábbi lassú és bizonytalan kompközlekedésnek, közvetlen és gyors összeköttetést teremtve Bata és a déli határ között. Ez a monumentális építmény nemcsak a logisztikát és a kereskedelmet forradalmasította, hanem a modernizáció jelképévé is vált Río Muniban. A híd elegáns szerkezete a folyó torkolata felett különleges esztétikai élményt nyújt, különösen naplementekor. A beruházás jelentősen hozzájárult a déli tartományok gazdasági integrációjához és a turizmus fellendüléséhez a part menti övezetben. Tanterv: Technológia K7, Földrajz K8.",
+      "factsAdvanced": [
+        "Az ország egyik leghosszabb hídja, amely a Benito-folyó torkolatát íveli át.",
+        "2014-ben adták át a forgalomnak.",
+        "Kulcsfontosságú eleme a Bata és Cogo közötti gyorsforgalmi útnak.",
+        "Szerkezete ellenáll a trópusi korróziónak és a sós tengeri levegőnek.",
+        "Két sávon biztosítja a folyamatos közúti forgalmat.",
+        "A híd lábai mélyen a folyómederbe ágyazódnak a stabilitás érdekében.",
+        "Páratlan kilátást nyújt a folyó és az óceán találkozására."
       ]
     }
   ]

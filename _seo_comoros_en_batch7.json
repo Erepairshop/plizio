@@ -1,0 +1,225 @@
+{
+  "lang": "en",
+  "country": "comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosCitiesV2.ts",
+    "lib/visualLab/data/poiExtraComorosEconomicV2.ts",
+    "lib/visualLab/data/poiExtraComorosHistoryV2.ts",
+    "lib/visualLab/data/poiExtraComorosLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraComorosLifeV2.ts",
+    "lib/visualLab/data/poiExtraComorosNatureV2.ts",
+    "lib/visualLab/data/poiExtraComorosReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bimbini-peninsula-nature-v2",
+      "descriptionAdvanced": "The Bimbini Peninsula is a wild and ecologically significant area on the western coast of Anjouan, characterized by its jagged volcanic shoreline and vibrant mangrove forests. This peninsula acts as a vital nursery for marine life and a major sanctuary for migratory birds. In the Plizio K6 Nature Protection curriculum, Bimbini illustrates the importance of 'coastal transition zones' and the role of mangroves in protecting the island from storm surges and erosion. The area's relatively undisturbed state has made it a focal point for regional conservation efforts, showcasing a rich biodiversity that ranges from rare coastal plants to diverse marine invertebrates and reef fish inhabiting the shallow, nutrient-rich waters.",
+      "factsAdvanced": [
+        "Located on the southwestern extreme of Anjouan island.",
+        "Features some of the island's most extensive mangrove ecosystems.",
+        "A critical breeding ground for regional reef fish and crustaceans.",
+        "The peninsula is marked by sharp basaltic rocks and coral sand.",
+        "Key monitoring site for the Anjouan coastal conservation project.",
+        "Home to various species of herons and migratory shorebirds.",
+        "The surrounding reefs are known for high coral cover and health.",
+        "A destination for eco-conscious travelers seeking unaltered nature."
+      ]
+    },
+    {
+      "id": "vassy-forest-nature-v2",
+      "descriptionAdvanced": "Vassy Forest is a significant fragment of primary tropical forest located in the mountainous interior of Anjouan, recognized for its exceptional richness in endemic flora and fauna. This forest zone, situated on steep volcanic slopes, provides a critical refuge for the endangered Livingstone's fruit bat and numerous rare bird species. For Plizio K6 Nature studies, Vassy Forest illustrates the challenges of 'mountain-top' conservation on small islands and the vital role of forest cover in maintaining the island's water cycle. Protecting this area is essential for preventing soil degradation and ensuring that Anjouan's unique biological heritage survives for future generations despite the pressures of agricultural expansion.",
+      "factsAdvanced": [
+        "High-altitude primary forest area in central Anjouan.",
+        "One of the last remaining habitats for the Livingstone's fruit bat.",
+        "Characterized by high rainfall and frequent mountain mist.",
+        "Home to endemic tree ferns and rare Comorian orchids.",
+        "Acts as a major watershed for the island's southern rivers.",
+        "Relief is extremely rugged with sheer volcanic ravines.",
+        "A top priority site for national forest preservation programs.",
+        "Supports a high concentration of endemic Comoro blue pigeons."
+      ]
+    },
+    {
+      "id": "moheli-marine-park-nature-v2",
+      "descriptionAdvanced": "The Mohéli Marine Park (Parc National de Mohéli) is the oldest and most successful protected marine area in the Comoros, covering the southern waters of the island. Established with significant community involvement, the park protects a vast array of habitats, including coral reefs, seagrass beds, and mangroves. In the Plizio K6 Marine Biology curriculum, the Mohéli Marine Park is used as a global model for co-managed conservation, where local villages participate in patrols and resource management. The park is a sanctuary for iconic species like the green sea turtle, the dugong, and humpback whales, representing a vital pillar of the nation's environmental heritage and a primary destination for global ecotourism.",
+      "factsAdvanced": [
+        "The first national park in the Union of the Comoros, founded in 2001.",
+        "Protects over 400 square kilometers of diverse marine ecosystems.",
+        "A world-renowned sanctuary for nesting green sea turtles.",
+        "Community-led management involves 10 local villages (ADSEI).",
+        "Home to some of the last remaining dugongs in the Indian Ocean.",
+        "Includes the Nioumachoua islets, a major biodiversity hotspot.",
+        "Strictly regulates fishing and boat traffic in core protection zones.",
+        "Received international recognition for sustainable park governance."
+      ]
+    },
+    {
+      "id": "moya-beach-nature-v2",
+      "descriptionAdvanced": "Moya Beach is a spectacular natural area on the southern coast of Anjouan, where golden sands are framed by dramatic basaltic cliffs and tropical greenery. This remote beach is not only a destination for beauty but a critical nesting site for green sea turtles who find safety in its secluded bays. For Plizio K6 Nature studies, Moya Beach illustrates the importance of 'undisturbed coastal habitats' in the life cycle of marine reptiles. The area's unique geography, with its clear turquoise waters and offshore coral gardens, provides a living laboratory for observing coastal biodiversity while highlighting the need for sustainable tourism practices to protect these sensitive and prehistoric nesting grounds.",
+      "factsAdvanced": [
+        "Premier coastal nature site in the southern district of Anjouan.",
+        "Consists of two twin sandy beaches separated by a rocky point.",
+        "Highly significant nesting ground for green sea turtles.",
+        "Surrounded by vertical volcanic cliffs and coconut palms.",
+        "Known for its exceptionally clear waters and calm lagoon.",
+        "Local community associations lead the beach monitoring efforts.",
+        "A major destination for eco-trekking and marine observation.",
+        "Accessible via a scenic mountain road through clove plantations."
+      ]
+    },
+    {
+      "id": "trou-du-prophete-nature-v2",
+      "descriptionAdvanced": "Trou du Prophète (The Prophet's Hole) is a geologically unique and culturally significant bay located on the northern coast of Grande Comore near Mitsamiouli. This naturally protected cove, surrounded by dark volcanic rock and white sand, is said to have provided refuge to travelers and legendary figures throughout history. In the Plizio K7 Geography curriculum, Trou du Prophète illustrates the formation of coastal lagoons and the role of natural harbors in island navigation. The bay's calm, shallow waters and vibrant coral reefs make it a haven for marine life and a popular destination for educational snorkeling, highlighting the archipelago's diverse coastal landforms and maritime legends.",
+      "factsAdvanced": [
+        "Naturally sheltered volcanic bay on the north coast of Grande Comore.",
+        "Name is tied to local legends of refuge for holy men.",
+        "Features a calm turquoise lagoon protected by a coral reef barrier.",
+        "A major site for artisanal fishing and small-scale ecotourism.",
+        "Surrounded by ancient lava flows and coconut plantations.",
+        "The bay offers a safe anchorage for traditional motorboats.",
+        "One of the most photographed natural landmarks in the archipelago.",
+        "Known for its exceptionally white sand and clear underwater visibility."
+      ]
+    },
+    {
+      "id": "hantsindzi-beach-nature-v2",
+      "descriptionAdvanced": "Hantsindzi Beach is a serene and ecologically rich coastal area in the northern part of Grande Comore, known for its pristine white sand and its role as a local sanctuary for marine life. The beach is framed by dark volcanic outcrops that protect the inner lagoon from the open ocean's powerful swells, creating a calm environment for diverse coral species and reef fish. For Plizio K6 Nature studies, Hantsindzi illustrates the importance of 'micro-reefs' and coastal vegetation in maintaining the health of the nearshore environment. The area remains a favorite for local families and eco-tourists seeking a quiet connection with the island's marine beauty while preserving the traditional character of the northern coastline.",
+      "factsAdvanced": [
+        "Picturesque natural beach located in the northern Hahaya region.",
+        "Known for its fine white sand and clear turquoise lagoon.",
+        "Features healthy patches of coral and diverse reef fish populations.",
+        "Relief is marked by black basaltic rock barriers on the shoreline.",
+        "A popular site for educational swimming and snorkeling.",
+        "Surrounded by traditional coconut and ylang-ylang plantations.",
+        "Maintains a quiet, authentic atmosphere away from major hubs.",
+        "A key site for observing northern coastal bird species."
+      ]
+    },
+    {
+      "id": "maloudja-beach-nature-v2",
+      "descriptionAdvanced": "Maloudja Beach is one of the most famous and ecologically significant coastal landmarks in northern Grande Comore, recognized for its extensive white sand and its iconic backdrop of ancient baobab trees. This beach serves as a major recreational and educational area where the island's unique flora meets the rich marine life of the Mitsamiouli reefs. In the Plizio K6 Nature curriculum, Maloudja illustrates the concept of 'coastal ecosystems' and the importance of preserving natural shade and vegetation to prevent beach erosion. The area is a vital habitat for coastal birds and a key site for community-based environmental awareness, showcasing the delicate balance between tourism and habitat preservation in the archipelago.",
+      "factsAdvanced": [
+        "Premier white sand beach in the Mitsamiouli region of the north.",
+        "Famous for the ancient baobab trees that line the shore.",
+        "Protected lagoon area is ideal for snorkeling and diving.",
+        "Surrounded by extensive coconut and ylang-ylang groves.",
+        "A major center for local beach soccer and community festivals.",
+        "One of the best sites for viewing the northern volcanic coastline.",
+        "Important habitat for the ghost crab and other coastal fauna.",
+        "Primary destination for international tourists on Grande Comore."
+      ]
+    },
+    {
+      "id": "galawa-beach-nature-v2",
+      "descriptionAdvanced": "Galawa Beach is a premier natural destination on the northern tip of Grande Comore, celebrated for its expansive white sand and crystal-clear waters that reflect the island's quintessential tropical beauty. The beach is named after the traditional Comorian outrigger canoe, which can often be seen floating in the calm lagoon. For Plizio K6 Environmental Science, Galawa Beach serves as a model for coastal conservation, where the protection of the coral reef barrier ensures the stability of the shoreline and the health of the local marine biodiversity. The area's beauty and ecological richness make it a central pillar of the national tourism strategy and a symbol of the archipelago's pristine maritime heritage.",
+      "factsAdvanced": [
+        "Large white sand beach located at the northern extreme of the island.",
+        "Renowned for its extensive and vibrant coral reef system.",
+        "One of the clearest lagoons in the Comoros for underwater observation.",
+        "Named after the iconic 'galawa' outrigger canoes of the archipelago.",
+        "A major habitat for colorful reef fish, rays, and sea turtles.",
+        "Features a scenic coastal road with panoramic ocean views.",
+        "Host to significant tourism infrastructure and eco-resorts.",
+        "A key site for monitoring the health of northern Comorian reefs."
+      ]
+    },
+    {
+      "id": "chiroroni-beach-nature-v2",
+      "descriptionAdvanced": "Chiroroni Beach is a wild and relatively isolated natural area on the southeastern coast of Anjouan, characterized by its rugged volcanic beauty and powerful surf. This beach is a significant biological site, featuring black volcanic sand and rocky promontories that host specialized coastal flora and fauna. In the Plizio K7 Marine Geography curriculum, Chiroroni illustrates the formation of high-energy volcanic coastlines and the role of rocky shores in supporting unique intertidal life. The area is a favorite for local residents seeking an authentic and powerful connection with the Indian Ocean, representing the unaltered and majestic spirit of Anjouan's southern coast.",
+      "factsAdvanced": [
+        "Southeastern coastal site on Anjouan, far from urban centers.",
+        "Characterized by black volcanic sand and jagged basaltic rocks.",
+        "Known for its high-energy waves and dramatic rocky coastline.",
+        "Surrounded by steep mountain slopes and tropical greenery.",
+        "A vital habitat for coastal crabs and specialized shorebirds.",
+        "Offers a unique and powerful perspective on the Indian Ocean.",
+        "Accessible via scenic trails through clove and vanilla plantations.",
+        "A key location for studying southern Anjouan's coastal geology."
+      ]
+    },
+    {
+      "id": "mount-mfiti-nature-v2",
+      "descriptionAdvanced": "Mount Mfiti is a significant volcanic peak and nature sanctuary in the central highlands of Mohéli, forming part of the island's primary forest belt. This peak is covered in dense tropical rainforest and is often shrouded in mist, providing the ideal conditions for Mohéli's unique biodiversity. For Plizio K6 Nature studies, Mount Mfiti illustrates the importance of 'forest islands' in preserving endemic species like the Mohéli scops owl and rare butterflies. The mountain's slopes are a vital catchment area for the island's fresh water, and its protection within the Mohéli National Park is crucial for ensuring the long-term ecological health and hydrological stability of the archipelago's smallest island.",
+      "factsAdvanced": [
+        "A prominent peak in the central forested mountains of Mohéli.",
+        "Rises to an altitude of approximately 650 meters.",
+        "Covered in high-altitude primary and secondary rainforest.",
+        "Home to the endemic Mohéli scops owl and various rare birds.",
+        "Acts as a major watershed for the island's central valleys.",
+        "The peak is often captured in mountain cloud and mist.",
+        "Part of the core protection zone of the Mohéli National Park.",
+        "Accessible via forest trails used by local vanilla farmers."
+      ]
+    },
+    {
+      "id": "lingoni-waterfalls-nature-v2",
+      "descriptionAdvanced": "The Lingoni Waterfalls are a spectacular natural feature in the mountainous interior of Anjouan, where the Lingoni River drops over a series of basaltic steps into a lush green valley. This area is a significant hydrological and biological landmark, showcasing the power of fresh water in shaping the island's rugged terrain. In the Plizio K7 Hydrology curriculum, the Lingoni falls illustrate the concept of 'cascade erosion' in volcanic landscapes and the importance of permanent rivers in supporting island biodiversity. Surrounded by giant tree ferns and spice plantations, the waterfalls provide a cool and humid microclimate that hosts a variety of rare plants and aquatic insects, highlighting Anjouanese nature's abundance.",
+      "factsAdvanced": [
+        "Spectacular series of waterfalls in the highlands of Anjouan.",
+        "Fed by the permanent Lingoni River, a major freshwater artery.",
+        "The falls drop over 20 meters into a scenic forested pool.",
+        "Surrounded by primary forest fragments and ylang-ylang plots.",
+        "A key site for observing Anjouan's highland freshwater life.",
+        "The area is famous for its cool, misty air and lush ferns.",
+        "Accessible through a scenic trek from the village of Lingoni.",
+        "Essential for the irrigation of the fertile central mountain valleys."
+      ]
+    },
+    {
+      "id": "river-ajaho-nature-v2",
+      "descriptionAdvanced": "The Ajaho River is one of Anjouan's most important permanent watercourses, winding through the fertile valleys of the island's eastern interior. This river is a vital ecological corridor, supporting a diverse array of freshwater species and providing the water necessary for the region's intensive agriculture, particularly vanilla and cloves. For Plizio K7 Hydrology, the Ajaho River illustrates the role of permanent streams in maintaining the island's food security and ecological health. The river's banks are lined with lush tropical vegetation and traditional laundries, reflecting its central role in the daily life and economic prosperity of the eastern Anjouanese communities.",
+      "factsAdvanced": [
+        "A major permanent river on the eastern side of Anjouan island.",
+        "Originates in the high-altitude forests of the Ntingui massif.",
+        "Provides irrigation for the island's most productive spice valleys.",
+        "The river basin is home to several endemic freshwater crustaceans.",
+        "A vital source of drinking water for several eastern villages.",
+        "Features numerous small rapids and scenic pools along its course.",
+        "Banks are characterized by dense tropical flora and plantations.",
+        "A primary node in the island's eastern hydrological network."
+      ]
+    },
+    {
+      "id": "river-goulat-nature-v2",
+      "descriptionAdvanced": "The Goulat River is a significant hydrological feature on the island of Anjouan, flowing through the rugged terrain of the island's northern interior. This permanent stream is essential for the region's biodiversity, carving deep valleys that host fragments of primary tropical forest and providing a consistent water supply for the northern villages. In the Plizio K7 Physical Geography curriculum, the Goulat River illustrates the impact of fluvial erosion on volcanic islands and the importance of protecting river basins to prevent downstream flooding and soil loss. The river's clean, oxygen-rich waters are a sanctuary for native aquatic life and a symbol of Anjouan's natural wealth and resilience.",
+      "factsAdvanced": [
+        "Permanent mountain river flowing in northern Anjouan island.",
+        "Fed by rainfall captured in the high Jimilimé highlands.",
+        "Essential for the water supply of the northern coastal towns.",
+        "Supports diverse aquatic life, including native gobies and shrimp.",
+        "The river valley is a major center for mountain agriculture.",
+        "Features dramatic volcanic rock formations along its banks.",
+        "A key area for regional reforestation and watershed projects.",
+        "Provides a cool and scenic natural environment in the north."
+      ]
+    },
+    {
+      "id": "river-padzani-nature-v2",
+      "descriptionAdvanced": "The Padzani River is a vital freshwater artery in the southeastern part of Anjouan, flowing from the central peaks to the Indian Ocean coast. This river is a crucial resource for the local communities, supporting both subsistence farming and the processing of aromatic plants like ylang-ylang. For Plizio K7 Hydrology, the Padzani River illustrates the seasonal dynamics of tropical island watercourses and the role of mountain forests in maintaining a steady flow. The river's valley is exceptionally fertile, hosting a mosaic of plantations and natural vegetation, representing a key economic and ecological landscape in Anjouan's southern districts.",
+      "factsAdvanced": [
+        "Significant permanent river in southeastern Anjouan.",
+        "Watershed covers a large area of the southern volcanic massif.",
+        "Primary water source for the region's ylang-ylang distilleries.",
+        "Supports intensive terraced agriculture of bananas and cassava.",
+        "A vital habitat for the island's endemic freshwater fauna.",
+        "The river is used locally for traditional washing and irrigation.",
+        "Banks are lined with ancient mango trees and spice groves.",
+        "Key component of Anjouan's southern hydrological system."
+      ]
+    },
+    {
+      "id": "coelacanth-marine-area-nature-v2",
+      "descriptionAdvanced": "The Coelacanth Marine Area, primarily located in the deep waters off the western coast of Grande Comore and Anjouan, is a sanctuary for the world's most famous 'living fossil', Latimeria chalumnae. These prehistoric fish, once thought to be extinct, thrive in the steep underwater volcanic slopes and submarine caves at depths of 150 to 500 meters. For Plizio K9 Marine Biology, the Coelacanth area illustrates the survival of ancient lineages in specialized deep-sea habitats. The Comoros is the global epicenter for this species, and their protection is a national priority, supported by international scientific organizations to ensure that this extraordinary link to the Earth's evolutionary past is preserved in its natural environment.",
+      "factsAdvanced": [
+        "Global epicenter for the 'living fossil' fish, the Coelacanth.",
+        "Fish inhabit deep submarine volcanic caves at 150-500 meters.",
+        "Latimeria chalumnae was rediscovered in the Comores in 1952.",
+        "Strictly protected under international CITES and national laws.",
+        "The fish can grow up to 2 meters long and weigh nearly 100 kg.",
+        "Scientific monitoring utilizes robotized submarines and sonar.",
+        "Coelacanths are a major symbol of Comorian national identity.",
+        "The deep-water habitats are vital for regional marine research."
+      ]
+    }
+  ]
+}

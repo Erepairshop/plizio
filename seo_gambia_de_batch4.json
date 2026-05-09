@@ -2,33 +2,294 @@
   "lang": "de",
   "country": "gambia",
   "files": [
-    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "kaur-cities-v2",
-      "descriptionAdvanced": "Kaur ist ein historischer Handelsort am Nordufer des Gambia-Flusses, der für seinen einst blühenden Erdnusshandel bekannt war. In der Kolonialzeit war Kaur einer der wichtigsten Häfen für die Verschiffung dieses bedeutenden Exportguts. Heute präsentiert sich Kaur als eine Stadt, die ihre Vergangenheit in einer malerischen Hügellandschaft bewahrt. Obwohl der frühere industrielle Glanz verblasst ist, bleibt die Stadt ein wichtiger Bezugspunkt für die lokale Wirtschaft der North Bank Region. Geographie K8 — Wirtschaftshistorische Entwicklung von Agrarzentren.",
-      "factsAdvanced": ["Bedeutender ehemaliger Erdnuss-Verladehafen.", "Liegt in einer malerischen Hügellandschaft.", "Historische Handelsstadt am Nordufer.", "Wichtiger Bezugspunkt für die lokale Wirtschaft.", "Architektonische Spuren der Kolonialzeit.", "Einst florierender Handelsplatz.", "Kulturelles Erbe des Erdnussanbaus."]
+      "id": "bakau-fish-landing-economic-v2",
+      "descriptionAdvanced": "Der Fischlandeplatz von Bakau ist ein lebendiger Mikrokosmos der gambischen Küstenwirtschaft und ein bedeutendes Zentrum für die Versorgung der Metropolregion Banjul mit frischem Eiweiß. Jeden Nachmittag landen hier Dutzende von Pirogen an, die von den fischreichen Gründen des Atlantiks zurückkehren. Der Landeplatz ist nicht nur ein Ort des Handels, sondern auch eine wichtige soziale Institution, in der Frauenkooperativen eine führende Rolle bei der Vermarktung und Verarbeitung der Fänge spielen. Bakau ist berühmt für seine hohe Qualität an Meeresfrüchten, die direkt vom Strand in die Hotels und Privathaushalte gelangen. Die Verbindung von traditionellem Fischfang und direkter Nähe zum urbanen Konsumenten macht diesen Landeplatz zu einem hocheffizienten Teil der lokalen Wertschöpfungskette. (Wirtschaft K6 — Lokale Marktsysteme und Fischerei)",
+      "factsAdvanced": [
+        "Wichtigster Fischlandeplatz in der Greater Banjul Area.",
+        "Zentrum für die handwerkliche Fischerei mit traditionellen Pirogen.",
+        "Bedeutende Rolle von Frauenkooperativen im Fischhandel.",
+        "Direkte Versorgungsquelle für die Tourismusgastronomie.",
+        "Standort für die Instandhaltung von Bootsmotoren und Netzen.",
+        "Wichtiger Punkt für die Eisherstellung und Fischkonservierung.",
+        "Zieht täglich hunderte von Händlern und Käufern an.",
+        "Symbol für die maritime Tradition und Wirtschaftskraft Bakaus."
+      ]
     },
     {
-      "id": "kuntaur-cities-v2",
-      "descriptionAdvanced": "Kuntaur liegt strategisch am Gambia-Fluss und dient als Tor zum River Gambia National Park. Die Stadt war historisch gesehen ein Zentrum für den Erdnusshandel und hat sich heute zu einem beliebten Ausgangspunkt für Reisende entwickelt, die in den Nationalpark wollen. Die atemberaubende Natur entlang des Flusses macht Kuntaur zu einem wichtigen Ort für ökologischen Tourismus. Als Standort großer Handelsaktivitäten bietet die Stadt Einblicke in die logistischen Prozesse des Binnenschifffahrtstransports auf einem der wichtigsten Flüsse Afrikas. Ökologie K7 — Schutzgebiete und Flussökosysteme.",
-      "factsAdvanced": ["Tor zum River Gambia National Park.", "Großer Erdnuss-Großhandelspunkt.", "Startpunkt für Flusssafaris.", "Bedeutendes Zentrum für den Binnenschifffahrtshandel.", "Nähe zur geschützten Flussnatur.", "Wichtige logistische Rolle im Landesinneren.", "Attraktion für Naturtouristen."]
+      "id": "brufut-fish-landing-economic-v2",
+      "descriptionAdvanced": "Der Fischlandeplatz von Brufut liegt malerisch unterhalb der markanten Küstenklippen und ist einer der produktivsten Stützpunkte für die handwerkliche Fischerei an der gambischen Atlantikküste. Durch den Ausbau der Infrastruktur und die gute Anbindung an die Küstenstraße hat Brufut eine enorme Bedeutung für die regionale Fischlogistik gewonnen. Hier werden besonders große Mengen an Sardinellen und Bonga-Fisch angelandet, die das Rückgrat der nationalen Proteinversorgung bilden. Die Fischer von Brufut sind bekannt für ihre weiten Fahrten in tiefe Gewässer, was eine ständige Versorgung auch in schwierigen Zeiten sichert. Der Landeplatz ist ein Zentrum intensiver Arbeit, vom Entladen der Boote bis zum Transport in die Räuchereien im Landesinneren, und illustriert die Leistungsfähigkeit des gambischen Fischereisektors. (Wirtschaft K7 — Küstenressourcen und Logistik)",
+      "factsAdvanced": [
+        "Einer der volumenstärksten Fischlandeplätze an der Küste.",
+        "Strategisch günstig gelegen unterhalb der Brufut-Klippen.",
+        "Zentrum für den Export von Fischprodukten in das Hinterland.",
+        "Wichtiger Standort für großangelegte Räucher- und Trocknungsprozesse.",
+        "Beherbergt eine diverse Gemeinschaft von Fischern aus der gesamten Region.",
+        "Wesentlicher Lieferant für die Fischmehlindustrie in der Umgebung.",
+        "Moderner Umschlagplatz mit verbesserten hygienischen Standards.",
+        "Fokusgebiet für nachhaltige Küstenbewirtschaftungsprogramme."
+      ]
     },
     {
-      "id": "bwiam-cities-v2",
-      "descriptionAdvanced": "Bwiam ist eine wichtige Stadt in der West Coast Region und dient als zentrales Bildungs- und Gesundheitszentrum für die umliegende ländliche Bevölkerung. Das St. Edward's Krankenhaus in Bwiam ist eine unverzichtbare medizinische Einrichtung, die Patienten aus einem weiten Einzugsgebiet betreut. Die Stadt spielt zudem eine wichtige Rolle im Bildungssektor der Region, indem sie Bildungsangebote für die Jugend aus den umliegenden Dörfern bereitstellt. Mit seiner Kombination aus medizinischer Versorgung und Bildungsinfrastruktur ist Bwiam ein Stabilitätsanker für die gesamte Foni-Region. Sozialkunde K7 — Soziale Infrastruktur in ländlichen Räumen.",
-      "factsAdvanced": ["Standort des St. Edward's Krankenhauses.", "Zentrales Bildungszentrum für die Region.", "Wichtiger Stabilitätsanker für die Foni-Region.", "Medizinische Versorgung für weites Einzugsgebiet.", "Zentraler Anlaufpunkt für Bildungsfragen.", "Wichtige soziale Infrastruktur.", "Verkehrsgünstige Anbindung innerhalb der Region."]
+      "id": "sanyang-fish-landing-economic-v2",
+      "descriptionAdvanced": "Der Fischlandeplatz von Sanyang ist ein pulsierendes Zentrum der maritimen Wirtschaft und bildet den produktiven Gegenpol zum berühmten Touristenstrand 'Paradise Beach'. Hier zeigt sich die raue und energiegeladene Seite Gambias, wenn die bunt bemalten Pirogen unter dem Jubel der Helfer an den Strand gezogen werden. Sanyang ist ein bedeutendes Zentrum für die industrielle Weiterverarbeitung im kleinen Maßstab, wobei ein großer Teil des Fangs direkt vor Ort gesalzen, getrocknet oder geräuchert wird. Die hier tätigen Fischer und Händler sind eng mit den Märkten in Banjul und bis weit nach Senegal hinein vernetzt. Der Landeplatz ist ein hervorragendes Beispiel für die Symbiose aus traditioneller Erwerbsquelle und moderner Marktorientierung, die Tausende von Arbeitsplätzen in der West Coast Region sichert. (Wirtschaft K8 — Wertschöpfungsketten in der Fischerei)",
+      "factsAdvanced": [
+        "Bedeutender Fischereistützpunkt in der West Coast Region.",
+        "Zentrum für traditionelle Fischkonservierung (Salzen/Trocknen).",
+        "Wichtiger Lieferant für die Märkte in der Casamance (Senegal).",
+        "Zieht während der Hauptfangsaison Wanderarbeiter an.",
+        "Standort intensiver gewerblicher Tätigkeit am Strand.",
+        "Bekannt für die hohe Vielfalt der angelandeten Fischarten.",
+        "Wichtiger Pfeiler der lokalen Ernährungssicherheit.",
+        "Eng verbunden mit der sozioökonomischen Identität Sanyangs."
+      ]
     },
     {
-      "id": "sibanor-cities-v2",
-      "descriptionAdvanced": "Sibanor ist ein zentraler Handelsort entlang der South Bank Road und fungiert als Knotenpunkt für den Distrikt Foni Bintang-Karanai. Bekannt ist der Ort vor allem für seine medizinischen Einrichtungen, insbesondere die Sibanor Health Clinic, die für die Anwohner von großer Bedeutung ist. Durch die Lage an einer der wichtigsten Verkehrsachsen Gambias profitiert Sibanor von regem Handel und dem ständigen Austausch von Waren zwischen der Küste und den östlichen Landesteilen. Der Ort ist ein Beispiel für eine moderne Siedlungsstruktur, die Dienstleistungen und lokalen Handel erfolgreich miteinander verbindet. Gesundheit K6 — Regionale Gesundheitsversorgung.",
-      "factsAdvanced": ["Zentrum des Distrikts Foni Bintang-Karanai.", "Standort der Sibanor Health Clinic.", "Wichtiger Handelsort an der South Bank Road.", "Knotenpunkt für lokale Dienstleistungen.", "Profitiert vom Fernverkehr zwischen Küste und Osten.", "Wichtige Anlaufstelle für Patienten aus der Region.", "Moderne Siedlungsstruktur."]
+      "id": "kartong-sand-mining-economic-v2",
+      "descriptionAdvanced": "Der Sandabbau in Kartong ist ein bedeutender, wenn auch ökologisch sensibler Wirtschaftszweig im äußersten Süden Gambias. Aufgrund des rasanten Baubooms in der Greater Banjul Area ist der Bedarf an hochwertigem Bausand massiv gestiegen, was Kartong zu einem wichtigen Lieferanten für die Bauindustrie gemacht hat. In der Vergangenheit führte unkontrollierter Abbau zu massiven Umweltproblemen, doch heute gibt es verstärkte Bemühungen, den Prozess nachhaltiger zu gestalten. Die ehemaligen Abbaugebiete füllen sich oft mit Süßwasser und bilden neue, wertvolle Feuchtbiotope, die nun für den Ökotourismus und die Vogelbeobachtung genutzt werden. Kartong illustriert somit das spannungsvolle Verhältnis zwischen dem Rohstoffbedarf einer wachsenden Nation und der Notwendigkeit des ökologischen Schutzes in sensiblen Küstenregionen. (Geographie K8 — Ressourcenmanagement und Landgewinnung)",
+      "factsAdvanced": [
+        "Zentraler Standort für die Gewinnung von Bausand im Süden.",
+        "Wichtiger Versorger für die gambische Bau- und Immobilienbranche.",
+        "Fokusgebiet für Umweltauflagen und Renaturierungsprojekte.",
+        "Ehemalige Gruben dienen heute als wertvolle Vogelhabitate.",
+        "Wesentlicher Arbeitgeber im ländlichen Bereich von Kartong.",
+        "Symbol für die Herausforderungen der urbanen Expansion.",
+        "Zentrum für die logistische Abwicklung des Sandtransports.",
+        "Beispiel für die Transformation von Industrielandschaften."
+      ]
     },
     {
-      "id": "busumbala-cities-v2",
-      "descriptionAdvanced": "Busumbala ist eine rasant wachsende Siedlung in der West Coast Region, die aufgrund ihrer günstigen Lage an der Hauptstraße nach Brikama immer mehr an Bedeutung gewinnt. Die Stadt beherbergt die Busumbala Football Academy, was die wachsende Begeisterung für den Sport in Gambia widerspiegelt und die lokale Jugend fördert. Durch die enorme urbane Expansion der letzten Jahre ist Busumbala zu einem integralen Teil der Metropolregion geworden, in der Menschen leben, die in Serekunda oder Banjul arbeiten. Busumbala ist ein Symbol für die moderne urbane Entwicklung Gambias. Sport/Soziales K5 — Jugendarbeit und Sportförderung.",
-      "factsAdvanced": ["Heimat der Busumbala Football Academy.", "Symbol für modernes urbanes Wachstum.", "Wichtiger Standort für Pendler.", "Günstige Lage an der Hauptverkehrsstraße.", "Dynamische Entwicklung der letzten Jahre.", "Wichtiger Ort für Jugendförderung durch Sport.", "Infrastruktureller Wandel in der Region."]
+      "id": "batokunku-wind-power-economic-v2",
+      "descriptionAdvanced": "Das Batokunku Windkraftprojekt ist ein wegweisendes Beispiel für die Nutzung erneuerbarer Energien im ländlichen Afrika und das erste seiner Art in Gambia. Durch privates Engagement und die Initiative der Dorfgemeinschaft wurde eine leistungsstarke Windturbine errichtet, die das Dorf Batokunku und Teile der Umgebung mit sauberem Strom versorgt. Das Projekt zeigt eindrucksvoll, dass dezentrale Energielösungen technisch machbar und ökonomisch sinnvoll sind, um die Abhängigkeit von teuren fossilen Brennstoffen zu verringern. Batokunku ist damit zu einem Modellort für Energiepioniere und Umweltschützer in ganz Westafrika geworden. Die Anlage ist nicht nur ein technisches Denkmal, sondern auch ein Motor für die lokale Entwicklung, da sie verlässliche Energie für Schulen, Kliniken und Kleingewerbe liefert. (Physik K7 — Erneuerbare Energien und Nachhaltigkeit)",
+      "factsAdvanced": [
+        "Erstes kommerziell genutzte Windkraftanlage in Gambia.",
+        "Modellprojekt für dezentrale Energieversorgung im ländlichen Raum.",
+        "Reduziert den CO2-Ausstoß der lokalen Gemeinde signifikant.",
+        "Wichtiger Standort für die Ausbildung in grünen Technologien.",
+        "Liefert Energie für soziale Einrichtungen und Privathaushalte.",
+        "Wurde durch eine deutsch-gambische Kooperation initiiert.",
+        "Symbol für den Fortschritt Gambias im Umweltschutz.",
+        "Zieht internationale Besucher und Klimaexperten an."
+      ]
+    },
+    {
+      "id": "fatoto-river-wharf-economic-v2",
+      "descriptionAdvanced": "Die Flussanlegestelle von Fatoto ist der am weitesten im Landesinneren gelegene strategische Hafen Gambias und ein unverzichtbarer Knotenpunkt für den Grenzhandel im Osten. Da Fatoto fast am östlichsten Zipfel des Landes liegt, dient der Kai als wichtiges Bindeglied zwischen der Flussschifffahrt und dem Landtransport nach Senegal und Guinea. Hier werden Waren umgeschlagen, die tief ins Hinterland Westafrikas geliefert werden, von Agrarprodukten bis hin zu Konsumgütern. Der Kai ist ein Zeugnis für die historische Bedeutung des Gambia-Flusses als natürliche Autobahn, die bis heute ihre Relevanz für abgelegene Gemeinden bewahrt hat. Trotz der zunehmenden Bedeutung des Straßenverkehrs bleibt Fatoto ein lebenswichtiger Ankerpunkt für die Versorgung der Kantora-Region und ein lebendiger Ort des kulturellen und wirtschaftlichen Austauschs. (Geographie K7 — Binnenhäfen und Grenzhandel)",
+      "factsAdvanced": [
+        "Östlichster schiffbarer Kai am Gambia-Fluss.",
+        "Zentraler Umschlagplatz für den Handel mit Senegal und Guinea.",
+        "Strategisch wichtig für die Versorgung der Region Kantora.",
+        "Bedeutender Sammelpunkt für Vieh- und Agrarprodukte.",
+        "Historisch wichtiger Halt für die Flotte der Kolonialverwaltung.",
+        "Knotenpunkt für den grenzüberschreitenden Personenverkehr.",
+        "Standort für lokale Marktaktivitäten und Logistikservices.",
+        "Lebensader für die wirtschaftliche Integration des Fernostens."
+      ]
+    },
+    {
+      "id": "bansang-river-wharf-economic-v2",
+      "descriptionAdvanced": "Der Bansang River Wharf ist der pulsierende logistische Mittelpunkt der Central River Region und untrennbar mit dem Schicksal der Stadt Bansang verbunden. Als eine der wichtigsten Anlegestellen am mittleren Flusslauf dient er als zentrales Umschlagkreuz für den Transport von Erdnüssen, Getreide und medizinischen Gütern. Täglich verbindet eine stark frequentierte Fähre das Südufer mit dem Nordufer, was Bansang zu einem unverzichtbaren Durchgangspunkt für Reisende macht. Der Kai ist der Ort, an dem die enge Beziehung zwischen dem Fluss und dem wirtschaftlichen Erfolg der Region am deutlichsten spürbar wird. Hier treffen Flusshändler auf LKW-Fahrer und Marktfrauen, was eine hochdynamische Handelsatmosphäre schafft. Der Wharf ist zudem entscheidend für die Erreichbarkeit des Bansang Hospital für Patienten vom gegenüberliegenden Flussufer. (Wirtschaft K6 — Transportlogistik und Flussinfrastruktur)",
+      "factsAdvanced": [
+        "Wichtigster Umschlagplatz in der Central River Region.",
+        "Strategischer Fährübergang zwischen Süd- und Nordufer.",
+        "Zentraler Sammelpunkt für den regionalen Erdnusshandel.",
+        "Lebenswichtige Verbindung für das Bansang Regional Hospital.",
+        "Historisch bedeutsamer Hafen für die Flussdampfer-Ära.",
+        "Zentrum für den Handel mit lokalen Agrarprodukten.",
+        "Bedeutender Arbeitgeber für Fährpersonal und Träger.",
+        "Knotenpunkt für die nationale Nord-Süd-Verkehrsachse."
+      ]
+    },
+    {
+      "id": "kerewan-fish-landing-economic-v2",
+      "descriptionAdvanced": "Der Fischlandeplatz von Kerewan liegt eingebettet in das komplexe System der 'Bolongs' (Seitenarme) und Mangrovensümpfe der North Bank Region. Im Gegensatz zu den großen Küstenlandeplätzen ist Kerewan auf die Flussfischerei spezialisiert, wobei besonders Meeräschen und Welse im Fokus stehen. Der Landeplatz ist von entscheidender Bedeutung für die Versorgung des Hinterlandes mit frischem und geräuchertem Fisch, da er weit vom Meer entfernt liegt. Die Fischer von Kerewan nutzen traditionelle Techniken, die perfekt an die Gezeiten und die dichten Mangroven angepasst sind. Der Ort dient auch als Zentrum für den Austausch zwischen Fischern und Bauern der North Bank und illustriert die enorme ökologische und ökonomische Produktivität der Ästuarlandschaften Gambias. (Biologie K6 — Flussökologie und Binnenfischerei)",
+      "factsAdvanced": [
+        "Bedeutendster Fischlandeplatz am Minni Minniyang Bolong.",
+        "Spezialisierung auf Binnenfischerei und Mangrovenressourcen.",
+        "Wichtiger Lieferant für tierisches Protein in der North Bank Region.",
+        "Zentrum für das traditionelle Räuchern von Flussfischen.",
+        "Nutzt die reichhaltigen Bestände des Mangroven-Ökosystems.",
+        "Strategischer Punkt für den lokalen Warenaustausch am Fluss.",
+        "Beitrag zur Stabilisierung der ländlichen Nahrungsmittelpreise.",
+        "Standort für den Bau und die Reparatur kleinerer Flusspirogen."
+      ]
+    },
+    {
+      "id": "brikama-ice-plant-economic-v2",
+      "descriptionAdvanced": "Die Eisfabrik in Brikama ist eine technologische Schlüsseleinrichtung für die gesamte Agrar- und Fischereiwirtschaft der West Coast Region. In einem tropischen Klima ist die Produktion von Kunsteis die Grundvoraussetzung für die Konservierung leicht verderblicher Waren wie Fisch und Fleisch. Ohne diese Anlage wäre der großflächige Transport von frischen Lebensmitteln ins Landesinnere unmöglich. Die Fabrik ist ein unverzichtbarer Teil der regionalen Kühlkette und versorgt täglich Hunderte von Händlern und Fischern mit dem notwendigen Eis. Brikama fungiert hier als industrielles Zentrum, das die Brücke zwischen der Produktion an der Küste und dem Konsum im Hinterland schlägt. Die Anlage illustriert die enorme Bedeutung technischer Infrastruktur für die moderne Lebensmittelversorgung und Marktwirtschaft in Westafrika. (Physik/Wirtschaft K7 — Thermodynamik und Kühlketten-Logistik)",
+      "factsAdvanced": [
+        "Zentrale Anlage zur Eisherstellung für die West Coast Region.",
+        "Garant für die Aufrechterhaltung der regionalen Kühlkette.",
+        "Unverzichtbar für den Transport von Frischfisch ins Landesinnere.",
+        "Großtechnische industrielle Kühlanlage des NAWEC-Netzes.",
+        "Wichtiger Dienstleister für hunderte von Kleinunternehmern.",
+        "Reduziert massiv die Nachernteverluste in der Agrarwirtschaft.",
+        "Strategisch günstig gelegen am Logistikknotenpunkt Brikama.",
+        "Zentrum für die gewerbliche Versorgung mit Kühlelementen."
+      ]
+    },
+    {
+      "id": "wassu-stone-circles-history-v2",
+      "descriptionAdvanced": "Die Steinkreise von Wassu sind das bedeutendste archäologische Monument Gambias und Teil des UNESCO-Welterbes. Diese mystischen Megalithanlagen bestehen aus kunstvoll behauenen Lateritsäulen, die vor über 1.000 Jahren in präzisen Kreisen angeordnet wurden. Die Anlage diente vermutlich als Grabstätte einer hochgradig organisierten Gesellschaft, deren genaue Identität bis heute ein faszinierendes Rätsel der westafrikanischen Geschichte bleibt. Wassu beherbergt die höchsten Steine des Senegambia-Megalithkomplexes und ist ein Ort von tiefer spiritueller Ausstrahlung. Das angeschlossene Informationszentrum bietet Einblicke in die Bauweise und die astronomische Bedeutung der Kreise. Als Zeugnis einer hochentwickelten vorkolonialen Kultur ist Wassu ein Symbol für den historischen Stolz Gambias und ein unverzichtbares Ziel für Forscher und Kulturreisende. (Geschichte K8 — Vorkoloniale Hochkulturen und Archäologie)",
+      "factsAdvanced": [
+        "Bekannteste Megalithstätte Gambias (UNESCO-Welterbe).",
+        "Besteht aus 11 Steinkreisen mit bis zu 2,5 Meter hohen Säulen.",
+        "Datiert auf den Zeitraum zwischen dem 3. Jh. v. Chr. und 16. Jh. n. Chr.",
+        "Symbol auf der 50-Dalasi-Banknote des Landes.",
+        "Teil eines riesigen Komplexes, der sich bis in den Senegal erstreckt.",
+        "Diente nachweislich als Begräbnisstätte für eine Elitegesellschaft.",
+        "Wichtiger Ort für astronomische und geologische Forschungen.",
+        "Herausragendes Beispiel für die Bearbeitung von Laterit-Gestein."
+      ]
+    },
+    {
+      "id": "kerbatch-stone-circles-history-v2",
+      "descriptionAdvanced": "Die Steinkreise von Kerbatch bilden eine weitere herausragende Komponente des UNESCO-Welterbes in Gambia und sind berühmt für den einzigartigen 'V-Stein'. Dieser markante Doppelsymbol-Stein ist in seiner Form einmalig im gesamten Senegambia-Megalithkomplex und gibt Rätsel über seine spezifische Bedeutung und Funktion auf. Kerbatch liegt in einer malerischen Savannenlandschaft und vermittelt einen noch ursprünglicheren Eindruck als das bekanntere Wassu. Die Anlage zeugt von der enormen handwerklichen Präzision und dem kosmologischen Verständnis der Menschen, die diese Monumente errichteten. Forscher sehen in Kerbatch ein wichtiges Puzzlestück zum Verständnis der rituellen Praktiken und der sozialen Hierarchie der prähistorischen Gesellschaften am Gambia-Fluss. Ein Besuch bietet eine tiefgehende Begegnung mit den rätselhaften Wurzeln Westafrikas. (Geschichte K7 — Megalithkultur und Sakralbauten)",
+      "factsAdvanced": [
+        "Wichtige Megalithanlage des UNESCO-Weltkulturerbes.",
+        "Heimat des berühmten 'V-Steins' (Doppelsymbol-Megalith).",
+        "Besteht aus neun Steinkreisen mit exakt behauenen Säulen.",
+        "Befindet sich im Distrikt Nianija (North Bank Region).",
+        "Wichtiger Ort für rituell-archäologische Ausgrabungen.",
+        "Zeugnis einer komplexen Sozialstruktur in der Eisenzeit.",
+        "Einzigartig durch die spezifische Anordnung der Frontsteine.",
+        "Bietet eine außergewöhnlich ruhige und kontemplative Atmosphäre."
+      ]
+    },
+    {
+      "id": "fort-bullen-history-v2",
+      "descriptionAdvanced": "Fort Bullen, am Barra Point gelegen, ist eine der am besten erhaltenen britischen Festungsanlagen in Westafrika und ein zentrales Monument im Kampf gegen den Sklavenhandel. Errichtet im Jahr 1826 unter dem Kommando von Commodore Bullen, diente die Festung dazu, die Mündung des Gambia-Flusses militärisch zu kontrollieren und Schiffen den Zugang zu verwehren, die am illegalen Sklavenhandel beteiligt waren. Die strategische Lage gegenüber von Banjul ermöglichte eine effektive Überwachung des gesamten Ästuars. Heute ist das Fort Teil des UNESCO-Welterbes und beherbergt ein beeindruckendes Museum sowie die historischen Kanonen, die noch immer auf das Meer gerichtet sind. Ein Besuch in Fort Bullen ist eine emotionale Zeitreise in eine Ära des globalen Wandels und ein Zeugnis für den unermüdlichen Einsatz für die Abschaffung der Sklaverei. (Geschichte K8 — Koloniale Militärarchitektur und Abolitionismus)",
+      "factsAdvanced": [
+        "Errichtet 1826 zur Durchsetzung des Verbots des Sklavenhandels.",
+        "Eines der wenigen britischen Forts, das zum UNESCO-Welterbe gehört.",
+        "Strategisch platziert am Barra Point am Nordufer des Flusses.",
+        "Verfügt über gut erhaltene Bastionen und historische Kanonenstellungen.",
+        "Beherbergt das Museum für die Geschichte des Niumi-Königreichs.",
+        "Wurde im Zweiten Weltkrieg kurzzeitig als Verteidigungsposten reaktiviert.",
+        "Symbol für den militärischen Schutz der 'Freien Afrikaner'.",
+        "Herausragender Ort zur Beobachtung des Schiffsverkehrs nach Banjul."
+      ]
+    },
+    {
+      "id": "arch-22-history-v2",
+      "descriptionAdvanced": "Der Arch 22 ist das imposante Wahrzeichen von Banjul und markiert den monumentalen Eingang zur gambischen Hauptstadt. Mit einer Höhe von 35 Metern ist dieser Triumphbogen das höchste Bauwerk der Stadt und bietet von seiner Galerie einen atemberaubenden Panoramablick über das Ästuar und die Gitterstraßen von Banjul. Der Bogen wurde 1996 zur Erinnerung an den friedlichen Militärputsch vom 22. Juli 1994 errichtet und ist ein Symbol für die jüngere politische Geschichte des Landes. Im Inneren befindet sich ein Museum, das die Ereignisse dieser Zeit dokumentiert, sowie Ausstellungen zur gambischen Kultur. Die Architektur verbindet moderne Stilelemente mit traditionellen afrikanischen Motiven. Als Startpunkt für jeden Stadtrundgang ist der Arch 22 ein unverzichtbarer Ort zum Verständnis der nationalen Identität und des modernen Gambias. (Sozialkunde K7 — Nationale Symbole und politische Zeitgeschichte)",
+      "factsAdvanced": [
+        "Höchstes freistehendes Bauwerk in Banjul (35 Meter).",
+        "Eingeweiht 1996 zur Erinnerung an den Umbruch von 1994.",
+        "Entworfen von senegalesischen und gambischen Architekten.",
+        "Bietet eine Aussichtsplattform mit Blick auf den Atlantik und den Fluss.",
+        "Beherbergt ein Museum zur Geschichte der Zweiten Republik.",
+        "Markiert das Ende des Highways und den Beginn der Independence Drive.",
+        "Ein markantes Beispiel für postkoloniale Monumentalarchitektur.",
+        "Beliebter Ort für offizielle Staatsbesuche und Paraden."
+      ]
+    },
+    {
+      "id": "kachikally-crocodile-pool-history-v2",
+      "descriptionAdvanced": "Das heilige Krokodilbecken von Kachikally in Bakau ist einer der faszinierendsten und meistbesuchten spirituellen Orte Gambias. Seit Jahrhunderten gilt dieser Ort den Mandinka als heilig, wobei die hier lebenden zahmen Krokodile als Vermittler zu den Ahnen und Symbole der Fruchtbarkeit verehrt werden. Frauen aus dem ganzen Land pilgern hierher, um in den rituellen Wassern zu baden und Segen zu erbitten. Kachikally beherbergt zudem ein exzellentes ethnographisches Museum, das tief in die Traditionen, Maskentänze und die Musik der gambischen Völker eintaucht. Die Harmonie, mit der Mensch und Raubtier hier koexistieren, ist weltweit einzigartig und macht Kachikally zu einem Ort von magischer Anziehungskraft. Es ist ein lebendiges Zeugnis für die Kraft afrikanischer Mythen und die Bewahrung indigener Spiritualität in einem modernen Umfeld. (Sozialkunde K6 — Traditionelle Religion und indigene Bräuche)",
+      "factsAdvanced": [
+        "Jahrhundertealte heilige Stätte der Mandinka-Ethnie.",
+        "Beherbergt über 100 'zahme' Nilkrokodile.",
+        "Zentrum für traditionelle Heilrituale und Fruchtbarkeitssegen.",
+        "Standort eines bedeutenden Museums für gambische Alltagskultur.",
+        "Befindet sich im Herzen eines uralten Waldhains in Bakau.",
+        "Überlebte den Wandel der Zeit durch strengen traditionellen Schutz.",
+        "Berühmt für die Möglichkeit, Krokodile hautnah zu erleben.",
+        "Wichtiger Ort für den Erhalt von Volkserzählungen und Mythen."
+      ]
+    },
+    {
+      "id": "fort-louvel-history-v2",
+      "descriptionAdvanced": "Fort Louvel ist eine kleine, aber historisch höchst bedeutsame Verteidigungsanlage im Herzen von Banjul, die an die turbulente Ära der frühen Kolonialkriege erinnert. Errichtet im Jahr 1831 während des Barra-Krieges, wurde es nach einem französischen Offizier benannt, der den Briten in einer kritischen Phase zur Hilfe kam. Das Fort wurde auf einer leichten Anhöhe gebaut, um die Stadt vor Angriffen vom Festland zu schützen. Obwohl heute nur noch eine Gedenksäule und Fundamentreste vorhanden sind, markiert der Ort den höchsten topographischen Punkt der Insel St. Mary. Fort Louvel ist ein Symbol für die strategische Verletzlichkeit der frühen Siedlung und die militärische Zusammenarbeit zwischen europäischen Mächten in Senegambia. Ein Besuch bietet die seltene Gelegenheit, die militärische Entwicklungsgeschichte der Hauptstadt in einem urbanen Kontext zu erkunden. (Geschichte K8 — Koloniale Konflikte und Stadtentwicklung)",
+      "factsAdvanced": [
+        "Errichtet 1831 während des Barra-Konflikts.",
+        "Benannt nach Lieutenant Louvel, einem französischen Alliierten.",
+        "Befindet sich auf dem höchsten natürlichen Punkt von Banjul.",
+        "Diente als innerstädtische Redoute zur Landverteidigung.",
+        "Historisch markanter Ort der anglo-französischen Kooperation.",
+        "Heute als Ruine und Gedenkstätte in der Stadt erhalten.",
+        "Wichtiger Teil des historischen Lehrpfads durch Banjul.",
+        "Symbol für die frühen Verteidigungsstrategien der Kronkolonie."
+      ]
+    },
+    {
+      "id": "national-museum-gambia-history-v2",
+      "descriptionAdvanced": "Das Nationalmuseum von Gambia in Banjul ist der zentrale Hüter des kulturellen Erbes der Nation und ein Muss für jeden geschichtsinteressierten Besucher. Untergebracht in einem charmanten Gebäude aus der Kolonialzeit, präsentiert das Museum eine beeindruckende Sammlung, die von prähistorischen Werkzeugen über prachtvolle Masken bis hin zu Dokumenten aus der Unabhängigkeitsbewegung reicht. Besonders hervorzuheben sind die Ausstellungen zur Megalithkultur und zu den traditionellen Maskenriten wie dem Kankurang. Das Museum fungiert als Bildungszentrum, das die Vielfalt der gambischen Ethnien und ihre harmonische Koexistenz feiert. Es bietet eine tiefe, strukturierte Einordnung der nationalen Identität und bewahrt wertvolle Artefakte, die die Geschichte des Senegambia-Raums über Jahrtausende hinweg lebendig halten. (Geschichte K7 — Museologie und Kulturerhalt)",
+      "factsAdvanced": [
+        "Zentrales Nationalmuseum (eröffnet 1985).",
+        "Beherbergt über 5.000 katalogisierte historische Artefakte.",
+        "Standort umfangreicher Sammlungen zur gambischen Ethnographie.",
+        "Dokumentiert den Weg Gambias zur Unabhängigkeit (1965).",
+        "Wichtiger Ort für die Erforschung der vorkolonialen Königreiche.",
+        "Verfügt über ein bedeutendes Fotoarchiv zur Kolonialgeschichte.",
+        "Zentrum für nationale Bildungs- und Kulturprogramme.",
+        "Herausragende Exponate zur Megalithkultur von Wassu."
+      ]
+    },
+    {
+      "id": "san-domingo-ruins-history-v2",
+      "descriptionAdvanced": "Die Ruinen von San Domingo bei Albreda sind die steinernen Zeugen der frühesten europäischen Präsenz am Gambia-Fluss. Im 15. Jahrhundert von portugiesischen Händlern und Siedlern gegründet, markierte dieser Ort den Beginn des dauerhaften Kontakts zwischen Europa und Westafrika. Die verbliebenen Mauern einer Kapelle und von Wohnhäusern sind die ältesten christlichen Bauwerke in der Region und zeugen von einer Zeit, als die Globalisierung ihre ersten, oft schmerzhaften Schritte machte. San Domingo war ein Zentrum des frühen Handels und ein Vorläufer der späteren großen Sklavenstützpunkte. Heute liegen die Ruinen friedlich in einer ländlichen Umgebung und laden zur Reflexion über die weitreichenden Folgen der portugiesischen Entdeckungsreisen ein. Sie sind ein unverzichtbarer Teil des UNESCO-Welterbe-Ensembles um Kunta Kinteh Island. (Geschichte K8 — Portugiesische Expansion und früher Handel)",
+      "factsAdvanced": [
+        "Älteste europäische Ruinen in Gambia (15. Jahrhundert).",
+        "Gegründet durch portugiesische Händler und Siedler.",
+        "Beinhaltet die Reste der ersten christlichen Kapelle der Region.",
+        "Wichtiger Bestandteil der UNESCO-Welterbestätte Kunta Kinteh.",
+        "Einstiger Knotenpunkt für den frühen Gold- und Gewürzhandel.",
+        "Markiert den Beginn der europäischen Expansion in Senegambia.",
+        "Bedeutender Ort für die archäologische Erforschung der frühen Kolonisation.",
+        "Symbol für die maritime Geschichte des 15. Jahrhunderts."
+      ]
+    },
+    {
+      "id": "cfao-building-albreda-history-v2",
+      "descriptionAdvanced": "Das CFAO-Gebäude in Albreda ist ein markantes Beispiel für die industrielle Handelsarchitektur des 19. Jahrhunderts und ein Symbol für die ökonomische Rivalität zwischen Frankreich und Großbritannien. Als Sitz der 'Compagnie Française de l'Afrique Occidentale' in einer britisch kontrollierten Region verdeutlicht es die Bedeutung Albredas als französische Enklave. Das massiv gebaute Lager- und Verwaltungsgebäude wurde aufwendig restauriert und dient heute als Teil der UNESCO-Welterbestätte als Museum. Es bietet faszinierende Einblicke in die logistischen Prozesse des frühen Kolonialhandels, von der Lagerung von Erdnüssen bis hin zur Verwaltung von Im- und Exportgütern. Das Gebäude ist ein architektonischer Ankerpunkt am Nordufer und ein wichtiges Zeugnis für die wirtschaftliche Durchdringung Westafrikas durch europäische Handelsgesellschaften. (Wirtschaftshistorie K8 — Handelsgesellschaften und Architektur)",
+      "factsAdvanced": [
+        "Historisches Handelsgebäude der französischen CFAO.",
+        "Herausragendes Beispiel für koloniale Lagerhaus-Architektur.",
+        "Teil der UNESCO-Welterbestätte Albreda/Juffureh.",
+        "Strategischer Standort des französischen Einflusses am Fluss.",
+        "Heute als Museum und Informationszentrum genutzt.",
+        "Zeugnis für den Aufstieg des Erdnussexports im 19. Jahrhundert.",
+        "Wichtiger Punkt auf der historischen 'Roots'-Tour.",
+        "Symbol für die maritime Handelslogistik der Kolonialzeit."
+      ]
+    },
+    {
+      "id": "mussa-molloh-tomb-history-v2",
+      "descriptionAdvanced": "Das Grab von Mussa Molloh in Kesserekunda ist eine hochverehrte historische Stätte, die dem letzten großen König von Fuladu gewidmet ist. Mussa Molloh war eine herausragende Persönlichkeit des 19. Jahrhunderts, bekannt für seinen tapferen Widerstand gegen die vordringenden europäischen Kolonialmächte und seine komplexe Diplomatie zwischen Briten und Franzosen. Sein Königreich Fuladu erstreckte sich über weite Teile des heutigen Gambias und Senegals und war ein Symbol für regionale Macht und Unabhängigkeit. Das Grabmal ist heute ein Ort des nationalen Stolzes und der Identität für das Volk der Fula und alle Gambier. Es dient als Erinnerungsort an eine Ära großer politischer Umwälzungen und an die Krieger-Könige, die versuchten, die Souveränität ihrer Völker zu bewahren. Ein Besuch bietet tiefe Einblicke in die vorkoloniale Staatskunst und den heroischen Geist Westafrikas. (Geschichte K8 — Afrikanischer Widerstand und Staatsbildung)",
+      "factsAdvanced": [
+        "Ruhestätte von Mussa Molloh, dem legendären Herrscher von Fuladu.",
+        "Bedeutendes Denkmal für den Widerstand gegen den Kolonialismus.",
+        "Ort von hoher kultureller Relevanz für das Fula-Volk.",
+        "Zeugnis für die vorkoloniale Machtstruktur in Senegambia.",
+        "Zentrum für jährliche Gedenkfeiern und historische Erzählungen.",
+        "Symbol für die militärische und diplomatische Stärke Westafrikas.",
+        "Wichtiger Bezugspunkt für die Geschichte der Upper River Region.",
+        "Nationales Denkmal zur Ehrung bedeutender historischer Führer."
+      ]
+    },
+    {
+      "id": "kataba-fort-history-v2",
+      "descriptionAdvanced": "Das Kataba Fort in der North Bank Region ist eine beeindruckende Ruine einer vorkolonialen Erdfestung (Tata), die im 19. Jahrhundert eine zentrale Rolle in lokalen Konflikten spielte. Diese Befestigungsanlagen waren Meisterwerke der indigenen Militärarchitektur, errichtet aus Lehm und verstärkt durch dicke Wälle und Gräben. Kataba war besonders während der Soninke-Marabout-Kriege von großer strategischer Bedeutung und diente als uneinnehmbare Bastion für lokale Herrscher. Heute vermitteln die verbliebenen Erdwälle ein eindrucksvolles Bild der Verteidigungskraft und der sozialen Organisation vor der vollen kolonialen Übernahme. Das Fort ist ein seltenes und wertvolles Zeugnis für die militärische Geschichte des gambischen Hinterlandes und ein Ort, der die Komplexität der innerafrikanischen Machtkämpfe des 19. Jahrhunderts verdeutlicht. (Geschichte K7 — Indigene Verteidigungsarchitektur und regionale Kriege)",
+      "factsAdvanced": [
+        "Ruine einer traditionellen Erdfestung (Tata) aus dem 19. Jh.",
+        "Wichtiger Schauplatz der Soninke-Marabout-Religionskriege.",
+        "Herausragendes Beispiel für afrikanische Militärbaukunst.",
+        "Befindet sich im Distrikt Sabach Sanjal (North Bank Region).",
+        "Strategischer Stützpunkt zur Kontrolle der Handelsrouten.",
+        "Symbol für die Widerstandskraft lokaler Gemeinschaften.",
+        "Bedeutender Ort für die Erforschung vorkolonialer Befestigungen.",
+        "Teil des historischen Erbes der Krieger-Kultur in Gambia."
+      ]
     }
   ]
 }

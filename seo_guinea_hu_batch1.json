@@ -1,0 +1,147 @@
+{
+  "lang": "hu",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "labe-cities-v2",
+      "descriptionAdvanced": "Labé, Közép-Guinea központja és a Fouta Djallon-hegység legjelentősebb települése, 1000 méter feletti tengerszint feletti magasságával az ország legmagasabban fekvő nagyvárosa. A fula kultúra szellemi és gazdasági központjaként ismert város híres hűvösebb klímájáról és nyüzsgő piacairól, ahol az indigóval festett textilek és a hagyományos bőrműves termékek cserélnek gazdát. A város alapítása óta fontos kereskedelmi csomópont a Szenegál és Mali felé vezető utakon. A helyi kézművesség mellett az oktatásban is kiemelkedő szerepet tölt be a Labéi Egyetem révén. Földrajz K8 — a Fouta Djallon régió hegyvidéki gazdálkodása és kulturális központjai.",
+      "factsAdvanced": [
+        "A Fouta Djallon-felföld legfontosabb városa és közigazgatási székhelye.",
+        "Tengerszint feletti magassága meghaladja az 1000 métert.",
+        "A fula (peul) népcsoport kulturális és vallási központja.",
+        "Híres a hagyományos indigófestésről és bőrdíszművességről.",
+        "Itt található a Tata repülőtér, amely összeköti a régiót Conakryval.",
+        "Az éves csapadékmennyiség eléri az 1500-1600 mm-t a monszun idején.",
+        "Központi piaca az egyik legnagyobb és legfontosabb Felső-Guineában.",
+        "A város környéke fontos burgonya- és zöldségtermesztő vidék."
+      ]
+    },
+    {
+      "id": "kissidougou-cities-v2",
+      "descriptionAdvanced": "Kissidougou az erdős Guinea és a szavanna határán fekszik, stratégiai kapuként szolgálva az ország déli régiói felé. A város neve malinke nyelven 'biztonságos helyet' jelent, ami történelmi szerepére utal mint menedékhely a helyi konfliktusok idején. A település környéke rendkívül gazdag mezőgazdasági szempontból: a kávé, a kakaó és a pálmaolaj kereskedelme határozza meg a mindennapi életet. A város etnikai sokszínűsége, ahol a kissi és a malinke népcsoportok élnek együtt, egyedülálló kulturális atmoszférát teremt, amelyet a helyi zenészek és griotok történetei tesznek még színesebbé. Földrajz K7 — átmeneti övezetek a szavanna és az esőerdő között.",
+      "factsAdvanced": [
+        "A város neve malinke nyelven 'a biztonság helyét' jelenti.",
+        "Fontos közlekedési csomópont Kankan, Faranah és Guéckédou között.",
+        "Környéke Guinea egyik legjelentősebb kávétermesztő vidéke.",
+        "Lakossága a 2014-es népszámláláskor meghaladta a 100 000 főt.",
+        "A környékbeli folyók mentén jelentős rizstermesztés folyik.",
+        "Kulturális öröksége szorosan kötődik a kissi nép szokásaihoz.",
+        "A városban működik a Niandan folyó közeli vízgyűjtő rendszere.",
+        "Híres a hagyományos ütőhangszeres zenéjéről és táncairól."
+      ]
+    },
+    {
+      "id": "gueckedou-cities-v2",
+      "descriptionAdvanced": "Guéckédou városa a guineai, libériai és sierra leone-i határ közelében található, ami Nyugat-Afrika egyik legfontosabb határon átnyúló kereskedelmi központjává tette. Híres hetipiaca kereskedők ezreit vonzza a környező országokból, megteremtve a régió gazdasági lüktetését. A város drámai szerepet játszott a modern történelemben, mint az Ebola-járvány kiindulópontja 2013-ban, ami rávilágított a térség globális egészségügyi jelentőségére. Azóta a település a regeneráció jelképévé vált, ahol a trópusi esőerdők közelsége és a mezőgazdasági termelés, különösen a kávé és a gumi, biztosítja a lakosság megélhetését. Sachkunde K5 — kereskedelem és határok jelentősége Afrikában.",
+      "factsAdvanced": [
+        "Híres nagy hetipiacáról, amely nemzetközi hírű a környéken.",
+        "Három ország (Guinea, Libéria, Sierra Leone) határvidékén fekszik.",
+        "A város a kissi népcsoport egyik legfontosabb szállásterülete.",
+        "2013-ban itt azonosították a nyugat-afrikai Ebola-járvány első eseteit.",
+        "A trópusi esőerdő zónájában fekszik, bőséges csapadékkal.",
+        "A helyi gazdaság alapja a kávé-, kakaó- és gumitermelés.",
+        "Fontos oktatási intézményeknek és kórházaknak ad otthont a régióban.",
+        "A környező erdőkben gazdag vadvilág és különleges növényzet található."
+      ]
+    },
+    {
+      "id": "mamou-cities-v2",
+      "descriptionAdvanced": "Mamou, amelyet gyakran 'a kereszteződések városaként' emlegetnek, Guinea legfontosabb közlekedési gócpontja, ahol a Conakryból induló főút szétágazik a Fouta Djallon-hegység és Felső-Guinea irányába. A város alapítása szorosan kötődik a gyarmati vasútépítéshez, amely stratégiai jelentőséget adott a településnek a 20. század elején. A hegyvidéki környezet hűvös és csapadékos klímát biztosít, ami kedvez a húsfeldolgozásnak és a gyümölcstermesztésnek. Mamou a fula kultúra kapuja, ahol a modern kereskedelem and a hagyományos állattartó életmód találkozik a forgalmas utcákon. Földrajz K8 — közlekedési hálózatok és városfejlődés.",
+      "factsAdvanced": [
+        "Stratégiai elhelyezkedése miatt 'Carrefour' (Kereszteződés) néven is ismerik.",
+        "A Conakry-Kankan vasútvonal egyik legfontosabb állomásaként jött létre.",
+        "Fontos húsfeldolgozó iparral rendelkezik a környező legelők miatt.",
+        "Tengerszint feletti magassága körülbelül 700-800 méter.",
+        "A város fontos oktatási központ, több szakiskolával és líceummal.",
+        "Éghajlata hűvösebb, mint a tengerparti régióké, sok csapadékkal.",
+        "A Fouta Djallon-hegység déli bejáratánál helyezkedik el.",
+        "Híres a gyümölcstermesztéséről, különösen a narancsról és citromról."
+      ]
+    },
+    {
+      "id": "boke-cities-v2",
+      "descriptionAdvanced": "Boké városa a bauxitbányászat világméretű központja, amely Guinea gazdasági motorjának számít. Az Atlanti-óceán partjától nem messze, a Rio Nuñez folyó mentén fekvő település történelme egészen a rabszolga-kereskedelem és a gyarmati időkig nyúlik vissza, amire a régi erőd és a múzeum emlékeztet. Ma a modern ipari létesítmények, a hatalmas bányák és a kikötőkhöz vezető vasútvonalak dominálják a tájat. A város gyors növekedése a nemzetközi beruházásoknak köszönhető, miközben próbálja megőrizni kulturális gyökereit a landuma és baga népcsoportok örökségén keresztül. Földrajz K8 — ásványkincsek és globális bányászat.",
+      "factsAdvanced": [
+        "A világ egyik legnagyobb bauxitkitermelő régiójának központja.",
+        "A Rio Nuñez folyó partján fekszik, közel az Atlanti-óceánhoz.",
+        "Történelmi erődje ma múzeumként működik, bemutatva a gyarmati múltat.",
+        "Fontos vasúti végpont, ahonnan az ércet a tengerparti kikötőkbe szállítják.",
+        "A baga és landuma népcsoportok ősi területeinek központja.",
+        "A város népessége az elmúlt évtizedben a bányászat miatt megugrott.",
+        "Itt található a Bokéi Bányászati és Geológiai Intézet.",
+        "Klímiája trópusi, párás, jelentős csapadékkal az esős évszakban."
+      ]
+    },
+    {
+      "id": "macenta-cities-v2",
+      "descriptionAdvanced": "Macenta az erdős Guinea szívében, a libériai határ közelében fekszik, egy olyan vidéken, ahol az esőerdők bujasága és a trópusi hegyek találkoznak. A város a régió egyik legfontosabb mezőgazdasági központja, ahol a környékbeli ültetvényekről származó kávét, kakaót, gumit és pálmaolajat dolgozzák fel és értékesítik. A város közelében található a Ziama-erdő rezervátum, amely az UNESCO bioszféra-rezervátuma, és az utolsó guineai elefántok egyik menedéke. Macenta kulturálisan a loma népcsoporthoz kötődik, akiknek hagyományai mélyen gyökereznek az erdei életmódból. Sachkunde K5 — az esőerdő gazdasági és ökológiai jelentősége.",
+      "factsAdvanced": [
+        "Az erdős Guinea (Guinée Forestière) egyik legjelentősebb városa.",
+        "Közelében található a Ziama-erdő, amely UNESCO bioszféra-rezervátum.",
+        "Híres a teatermesztéséről, itt található az ország egyik legnagyobb teaültetvénye.",
+        "A loma népcsoport kulturális és nyelvi központja.",
+        "A környéken jelentős a kinintermelés (gyógyszeripari alapanyag).",
+        "Évi csapadékmennyisége az egyik legmagasabb Guineában (2500 mm felett).",
+        "Fontos kutatóállomás működik itt a trópusi betegségek tanulmányozására.",
+        "A város fekvése dombos, tengerszint feletti magassága 500-600 méter."
+      ]
+    },
+    {
+      "id": "coyah-cities-v2",
+      "descriptionAdvanced": "Coyah, amelyet gyakran Conakry 'alvóvárosaként' is emlegetnek, az ország egyik leggyorsabban fejlődő települése a főváros közelsége miatt. A város azonban több mint egyszerű agglomeráció: híres kristálytiszta ásványvizéről, a 'Coyah'-ról, amelyet az itteni forrásokból palackoznak, és az egész országban alapvető fogyasztási cikknek számít. A település a Kakoulima-hegy lábánál fekszik, látványos természeti környezetben, amely népszerű hétvégi célponttá teszi a fővárosi lakosság körében. Stratégiai elhelyezkedése a Kindia és a Sierra Leone felé vezető utak találkozásánál fontos kereskedelmi ponttá emeli. Földrajz K7 — urbanizáció és vízkészletek gazdálkodása.",
+      "factsAdvanced": [
+        "Híres az azonos nevű ásványvízről, amelyet itt palackoznak.",
+        "A Kakoulima-hegy lábánál fekszik, Conakrytól mintegy 50 km-re.",
+        "Fontos közlekedési csomópont Sierra Leone és a szárazföld belseje felé.",
+        "Az ország egyik leggyorsabban növekvő városa az urbanizáció miatt.",
+        "A környező dombok népszerű kirándulóhelyek a Conakryból érkezőknek.",
+        "Gazdaságában a könnyűipar és a mezőgazdasági kereskedelem dominál.",
+        "Klímiája meleg and párás, a tengerparti sávhoz hasonlóan.",
+        "Lakossága jelentős mértékben szuszu (soussou) anyanyelvű."
+      ]
+    },
+    {
+      "id": "forecariah-cities-v2",
+      "descriptionAdvanced": "Forécariah városa Guinea délnyugati részén, a Sierra Leone-i határ mentén fekszik, és a partmenti síkság egyik kulcsfontosságú mezőgazdasági központja. A város környéke híres gyümölcsöseiről, különösen a mangóról és a banánról, amelyek a helyi piacokon és Conakryban is nagy keresletnek örvendenek. A település történelmileg fontos szerepet játszott a régió vallási és kulturális életében, mint az iszlám tanítások egyik központja a szuszu nép körében. A közeli mocsaras területek és folyótorkolatok nemcsak a rizstermesztésnek kedveznek, hanem gazdag vadvilágnak is otthont adnak. Sachkunde K3 — élet a folyók és kertek mentén.",
+      "factsAdvanced": [
+        "A Sierra Leone-i határ közelében fekvő fontos kereskedelmi város.",
+        "Híres a nagy mennyiségű mangó- és banántermeléséről.",
+        "A szuszu (soussou) kultúra egyik történelmi bástyája.",
+        "A város közelében torkollik az Atlanti-óceánba a Forécariah-folyó.",
+        "Fontos szerepet játszott a 2014-es Ebola-járvány elleni védekezésben.",
+        "A környéken jelentős vasérckészleteket tártak fel a közelmúltban.",
+        "Hagyományos iszlám iskoláiról (madrasza) is ismert a régióban.",
+        "Pénteki piaca messze földről vonzza az árusokat és vásárlókat."
+      ]
+    },
+    {
+      "id": "kamsar-cities-v2",
+      "descriptionAdvanced": "Kamsar városa Guinea egyik legmodernebb ipari központja, amely a Rio Nuñez folyó torkolatánál, az Atlanti-óceán partján fekszik. A település életét teljesen a bauxit határozza meg: itt található az ország legnagyobb ércrakodó kikötője, ahonnan a Sangarédiből érkező vasúti szerelvények tartalmát a világ minden tájára szállítják. A várost egy tervezett ipari településként alakították ki, saját infrastruktúrával, kórházakkal és lakónegyedekkel a bányavállalat dolgozói számára. Kamsar a guineai export kapuja, ahol az ipari technológia és a tengerparti mangroveerdők találkoznak. Földrajz K8 — kikötők és globális kereskedelmi útvonalak.",
+      "factsAdvanced": [
+        "Guinea legfontosabb bauxitkiviteli kikötője található itt.",
+        "A Rio Nuñez folyó torkolatánál, mocsaras, mangrovés területen fekszik.",
+        "Saját, modern vasútvonal köti össze a sangarédii bányákkal.",
+        "A várost kifejezetten az alumíniumipar igényei szerint fejlesztették.",
+        "Itt található Nyugat-Afrika egyik legnagyobb mélyvízi kikötője.",
+        "Gazdaságát a Compagnie des Bauxites de Guinée (CBG) dominálja.",
+        "Lakossága nagyrészt a bányászati szektorból él.",
+        "A város körüli vizek gazdagok halban, ami segíti a helyi lakosságot."
+      ]
+    },
+    {
+      "id": "fria-cities-v2",
+      "descriptionAdvanced": "Fria, amelyet gyakran az 'alumínium városának' neveznek, az első olyan afrikai település volt, ahol timföldgyár épült a gyarmati idők végén. A Konkouré folyó közelében elhelyezkedő város sorsa elválaszthatatlanul összefonódott a gyár működésével: a fellendülés idején Guinea egyik legmodernebb, európai stílusban tervezett városa volt. Bár a gyár 2012-es bezárása nehéz éveket hozott a közösségre, a termelés 2018-as újraindítása új reményt adott a lakosoknak. Fria példája jól mutatja az egyetlen iparágtól való függőség kockázatait és lehetőségeit egy fejlődő országban. Földrajz K8 — az ipari termelés hatása a városfejlődésre.",
+      "factsAdvanced": [
+        "Itt épült fel Afrika első timföldgyára (alumínium-oxid előállítására).",
+        "A várost modern, hálós szerkezetben tervezték a gyári munkásoknak.",
+        "A Konkouré folyó mentén fekszik, Conakrytól északra.",
+        "Gazdasága szinte teljes egészében a Rusal/Friguia gyártól függ.",
+        "A város arculatát meghatározzák az 1950-es és 60-as évek épületei.",
+        "Fontos vasútvonal köti össze közvetlenül Conakry kikötőjével.",
+        "A környékbeli dombok gazdag bauxitkészleteket rejtenek.",
+        "Klímiája trópusi, a tengerparti sávnál valamivel kevésbé párás."
+      ]
+    }
+  ]
+}

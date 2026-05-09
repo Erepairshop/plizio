@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "antananarivo-cities-v2",
+      "descriptionAdvanced": "Antananarivo, die pulsierende Hauptstadt Madagaskars, ist das politische, wirtschaftliche und kulturelle Herz der Insel. Gegründet im 17. Jahrhundert auf den zwölf heiligen Hügeln, verbindet die Stadt heute historische Merina-Traditionen mit kolonialer Architektur und modernem Stadtleben. Das Stadtbild ist geprägt von terrassenförmig angelegten Straßen, bunten Märkten wie dem Analakely und dem königlichen Palast Rova, der majestätisch über der Haute-Ville thront. Antananarivo ist ein Schmelztiegel der Kulturen und dient als zentraler Verkehrsknotenpunkt für das gesamte Land. Trotz der Herausforderungen durch das schnelle Bevölkerungswachstum bewahrt die Stadt ihren einzigartigen Charme als 'Stadt der Tausend'. Geografie K6 — Urbane Zentren und Metropolregionen.",
+      "factsAdvanced": [
+        "Größte Stadt und administratives Zentrum Madagaskars",
+        "Gegründet um 1610 von König Andrianjaka",
+        "Liegt auf einer durchschnittlichen Höhe von 1.280 Metern",
+        "Ehemals Standort des größten Freiluftmarktes der Welt (Zoma)",
+        "Beherbergt den historischen Palastkomplex Rova von Antananarivo",
+        "Zentrum des madagassischen Bildungssystems und der Universitäten",
+        "Verkehrsknotenpunkt mit dem internationalen Flughafen Ivato",
+        "Kulturelles Bindeglied zwischen den verschiedenen ethnischen Gruppen"
+      ]
+    },
+    {
+      "id": "antongil-bay-dutch-settlement-history-v2",
+      "descriptionAdvanced": "Die Bucht von Antongil war im 17. Jahrhundert ein wichtiger Schauplatz früher europäischer Handelsaktivitäten, insbesondere durch die Niederländische Ostindien-Kompanie (VOC). Die geschützte Lage der größten Bucht Madagaskars bot ideale Bedingungen für Schiffe, die auf dem Weg nach Indien waren. Holländische Seefahrer errichteten hier temporäre Stützpunkte, um Nahrungsmittel und Wasser aufzunehmen und mit der lokalen Bevölkerung Handel zu treiben. Inschriften auf Felsen an der Küste von Nosy Mangabe zeugen bis heute von dieser Ära der Entdeckungen und des frühen Welthandels. Die Bucht war zudem ein berüchtigter Rückzugsort für Piraten, die von hier aus die Handelsrouten im Indischen Ozean kontrollierten. Geschichte K7 — Früher Welthandel und Seefahrtsgeschichte.",
+      "factsAdvanced": [
+        "Größte natürliche Bucht Madagaskars im Nordosten",
+        "Wichtiger Anlaufpunkt für die Niederländische Ostindien-Kompanie (VOC)",
+        "Historische Inschriften von Seefahrern auf der Insel Nosy Mangabe",
+        "Strategischer Standort für den frühen Sklaven- und Gewürzhandel",
+        "Berüchtigtes Versteck für internationale Piraten im 17. Jahrhundert",
+        "Tor zur Erkundung des Masoala-Regenwaldes",
+        "Zeugnis der frühen diplomatischen Kontakte zwischen Europa und Madagaskar",
+        "Bedeutendes Gebiet für die maritime Archäologie"
+      ]
+    },
+    {
+      "id": "antongona-fortifications-history-v2",
+      "descriptionAdvanced": "Die Befestigungsanlagen von Antongona, westlich von Antananarivo gelegen, sind ein beeindruckendes Beispiel für die militärische Architektur des Imerina-Reiches. Auf zwei steilen Granitgipfeln errichtet, dienten diese Außenposten im 18. Jahrhundert dem Schutz der Hauptstadt vor Angriffen aus dem Westen. Die Anlage besteht aus mehreren Ebenen von Verteidigungsmauern und den charakteristischen 'Hadivory'-Gräben. Auf den Gipfeln befinden sich rekonstruierte Holzhäuser, die den Merina-Adligen als Wohnsitz und Beobachtungsposten dienten. Antongona bietet nicht nur einen tiefen Einblick in die Verteidigungsstrategien jener Zeit, sondern auch einen spektakulären Panoramablick über das zentrale Hochland. Geschichte K8 — Festungsbau und regionale Verteidigung.",
+      "factsAdvanced": [
+        "Historischer Militär-Außenposten des Merina-Königreichs",
+        "Befindet sich auf zwei markanten Granitfelsen (Inselberge)",
+        "Bekannt für seine strategische Lage zur Überwachung des Westens",
+        "Verfügt über gut erhaltene Verteidigungsgräben und Steinmauern",
+        "Beherbergt zwei rekonstruierte königliche Häuser (Trano Gasy)",
+        "Teil des kulturellen Erbes der Region Imerina",
+        "Diente im 18. Jahrhundert als Warnsystem für die Hauptstadt",
+        "Wichtiger Ort für die Erforschung der präkolonialen Militärgeschichte"
+      ]
+    },
+    {
+      "id": "antsingy-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Antsingy ist ein kleiner, aber strategisch wichtiger Umschlagplatz an der madagassischen Küste, der primär der lokalen Fischerei und dem regionalen Warentransport dient. In dieser abgelegenen Region ist der Hafen die wichtigste Verbindung zur Außenwelt, da die Straßenverbindungen oft unpassierbar sind. Hier werden vor allem Meeresfrüchte, landwirtschaftliche Erzeugnisse und Treibstoffe für die umliegenden Gemeinden verladen. Der Hafen spiegelt die Herausforderungen der madagassischen Küsteninfrastruktur wider, in der kleine maritime Knotenpunkte das Überleben ganzer Distrikte sichern. Er ist zudem ein Ausgangspunkt für Boote, die die unberührten Küstenabschnitte und Mangrovenwälder der Umgebung ansteuern. Wirtschaft K6 — Küstenlogistik und maritime Versorgung.",
+      "factsAdvanced": [
+        "Regionaler Versorgungsknotenpunkt an der Westküste",
+        "Wichtigster Umschlagplatz für die lokale Garnelenfischerei",
+        "Dient als Lebensader für isolierte ländliche Gemeinden",
+        "Zentrum für den traditionellen Transport mit Pirogen und Boutres",
+        "Lage inmitten eines ökologisch wertvollen Mangrovengebiets",
+        "Herausforderungen durch Versandung und Gezeiteneinflüsse",
+        "Wesentlicher Faktor für den regionalen Handel mit Trockenfisch",
+        "Beispiel für dezentrale Infrastruktur in Madagaskar"
+      ]
+    },
+    {
+      "id": "antsirabe-kinderpark-life-v2",
+      "descriptionAdvanced": "Der Kinderpark von Antsirabe ist eine beliebte Freizeitanlage im Herzen der Stadt und bietet Familien einen Ort der Erholung inmitten des geschäftigen Treibens. Mit seinen Grünflächen, Spielgeräten und kleinen Imbissständen ist der Park ein zentraler Treffpunkt für die lokale Bevölkerung, besonders an den Wochenenden. Die Anlage spiegelt das soziale Leben in einer madagassischen Großstadt wider, in der öffentliche Räume eine wichtige Rolle für den gemeinschaftlichen Austausch spielen. Der Park ist ein Beispiel für die Bemühungen der Stadtverwaltung, die Lebensqualität in der 'Stadt des Wassers' durch grüne Oasen zu steigern. Sozialkunde K5 — Freizeitgestaltung und städtische Räume.",
+      "factsAdvanced": [
+        "Zentraler Erholungsort für Familien in Antsirabe",
+        "Befindet sich in unmittelbarer Nähe zum Stadtzentrum",
+        "Wichtiger Treffpunkt für den sozialen Austausch der Bürger",
+        "Verfügt über Spielplätze und gastronomische Angebote",
+        "Oft Schauplatz für lokale Kulturveranstaltungen und Feste",
+        "Trägt zur Aufwertung des städtischen Mikroklimas bei",
+        "Einblicke in den Alltag der madagassischen Mittelschicht",
+        "Teil der städtebaulichen Entwicklung der Vakinankaratra-Region"
+      ]
+    },
+    {
+      "id": "antsirabe-reis-felder-life-v2",
+      "descriptionAdvanced": "Die Reisfelder rund um Antsirabe prägen das Landschaftsbild des zentralen Hochlandes auf einzigartige Weise. Dank der fruchtbaren Vulkanböden und der ausreichenden Wasserversorgung durch Thermalquellen und Bäche ist die Region eine der produktivsten Agrarzonen Madagaskars. Die kunstvoll angelegten Terrassen folgen den Konturen der Hügel und schimmern je nach Jahreszeit in sattem Grün oder Goldgelb. Der Reisanbau erfolgt hier noch weitgehend in traditioneller Handarbeit, oft unter Einsatz von Zebu-Rindern zum Pflügen. Diese Felder sind nicht nur die Lebensgrundlage für tausende Bauernfamilien, sondern auch ein Symbol für die tiefe kulturelle Verwurzelung des Reises im Leben der Madagassen. Wirtschaft K6 — Traditionelle Landwirtschaft und Nassreisanbau.",
+      "factsAdvanced": [
+        "Region Vakinankaratra ist ein Hauptanbaugebiet für Reis",
+        "Nutzt mineralreiche Böden vulkanischen Ursprungs",
+        "Reisanbau erfolgt überwiegend in arbeitsintensiver Terrassenkultur",
+        "Wesentlicher Bestandteil der madagassischen Ernährungssicherheit",
+        "Einsatz von Zebus zur Bodenbearbeitung ist weit verbreitet",
+        "Die Felder dienen auch als Lebensraum für Enten und Fische",
+        "Erntesaison ist ein Höhepunkt des ländlichen Arbeitsjahres",
+        "Bedeutendes Beispiel für die Anpassung an das Hochlandrelief"
+      ]
+    },
+    {
+      "id": "antsirabe-thermalbad-life-v2",
+      "descriptionAdvanced": "Das Thermalbad von Antsirabe, auch bekannt als 'Ranovisy', ist seit der Kolonialzeit ein berühmter Kurort. Die Stadt verdankt ihren Namen ('Ort, an dem es viel Salz gibt') den heilkräftigen Mineralquellen, die aus dem vulkanischen Untergrund des Ankaratra-Massivs sprudeln. Das historische Badehaus erinnert mit seiner Architektur an europäische Kurorte des 19. Jahrhunderts und zieht bis heute Menschen an, die Linderung bei verschiedenen Leiden suchen. Das Bad ist ein Symbol für die Wellness-Tradition der Stadt und ein wichtiger Teil des kulturellen Erbes. Ein Besuch im Thermalbad bietet einen authentischen Einblick in die Verbindung von natürlicher Ressourcennutzung und madagassischer Alltagskultur. Natur K6 — Thermalismus und Geologie.",
+      "factsAdvanced": [
+        "Berühmtester Kurort Madagaskars mit eisenhaltigen Quellen",
+        "Das Wasser hat eine konstante Temperatur von ca. 38 Grad Celsius",
+        "Architektur im Stil der französischen 'Belle Époque'",
+        "Wichtigster Standort für medizinischen Tourismus auf der Insel",
+        "Wurde ursprünglich von norwegischen Missionaren erschlossen",
+        "Thermalquellen sind an das vulkanische Itasy-System gebunden",
+        "Beliebtes Ziel für Erholungsuchende aus Antananarivo",
+        "Wesentlicher Faktor für die Namensgebung der Stadt Antsirabe"
+      ]
+    },
+    {
+      "id": "antsiranana-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Antsiranana (Diego Suarez) im hohen Norden ist einer der bedeutendsten Tiefseehäfen Madagaskars und liegt in einer der weltweit schönsten natürlichen Buchten. Historisch als französischer Flottenstützpunkt von enormer strategischer Bedeutung, dient er heute als wichtiges Drehkreuz für den Export von Agrarprodukten und den Tourismus. Der Hafen ist zudem ein Zentrum für die Fischverarbeitung, insbesondere für Thunfisch, und beherbergt eine der größten Schiffswerften im Indischen Ozean. Seine Lage macht Antsiranana zu einem vitalen Wirtschaftszentrum, das den Norden der Insel mit den globalen Handelsrouten verbindet. Wirtschaft K7 — Hafenwirtschaft und maritime Logistik.",
+      "factsAdvanced": [
+        "Zweitgrößte natürliche Bucht der Welt als Standort",
+        "Ehemaliger Hauptstützpunkt der französischen Marine im Indischen Ozean",
+        "Wichtigstes Zentrum für Thunfischfang und -verarbeitung",
+        "Beherbergt die SECREN-Schiffswerft, eine der größten der Region",
+        "Strategischer Exporthafen für Kakao, Vanille und Mineralien",
+        "Bedeutender Anlaufpunkt für internationale Kreuzfahrtschiffe",
+        "Tiefwasserbecken ermöglicht das Anlegen großer Containerschiffe",
+        "Motor der wirtschaftlichen Entwicklung im hohen Norden"
+      ]
+    },
+    {
+      "id": "baie-de-bombetoka-nature-v2",
+      "descriptionAdvanced": "Die Bombetoka-Bucht bei Mahajanga ist ein riesiges Ästuar, in dem der Betsiboka-Fluss in den Kanal von Mosambik mündet. Die Bucht ist weltweit berühmt für ihre spektakuläre, blutrote Farbe, die durch die massive Ausschwemmung von Lateritböden aus dem entwaldeten Hochland entsteht. Das Delta beherbergt eines der größten Mangroven-Ökosysteme Madagaskars, das einen lebenswichtigen Schutzraum für zahlreiche Fischarten, Krustentiere und Vögel bietet. Die dynamische Landschaft aus Sandbänken und Kanälen verändert sich ständig durch die Sedimentfracht des Flusses. Bombetoka ist ein beeindruckendes Beispiel für die gewaltigen ökologischen Prozesse und die Umweltherausforderungen der Insel. Geografie K8 — Flussdeltas und Küstenökologie.",
+      "factsAdvanced": [
+        "Mündungsgebiet des Betsiboka-Flusses in den Indischen Ozean",
+        "Bekannt für die intensive Rotfärbung durch Bodenerosion",
+        "Beherbergt ausgedehnte, geschützte Mangrovenwälder",
+        "Wichtiger Lebensraum für den gefährdeten Madagaskar-Seeadler",
+        "Zentrum für die handwerkliche Fischerei und Krabbenzucht",
+        "Die Bucht umfasst eine Fläche von mehreren hundert Quadratkilometern",
+        "Sedimentablagerungen bilden ständig neue Inseln und Sandbänke",
+        "Symbol für die dramatischen ökologischen Folgen der Brandrodung"
+      ]
+    },
+    {
+      "id": "bemaraha-plateau-relief-v2",
+      "descriptionAdvanced": "Das Bemaraha-Plateau im Westen Madagaskars ist ein geologisches Wunderwerk und beherbergt die berühmten 'Tsingy'. Das Relief besteht aus einem riesigen Kalksteinblock, der durch Millionen Jahre von Regen und Wind in eine bizarre Landschaft aus messerscharfen Felsnadeln, tiefen Spalten und verborgenen Schluchten verwandelt wurde. Das Plateau wirkt wie eine unbezwingbare Festung und schützt eine einzigartige Flora und Fauna. Unterirdische Flusssysteme und Höhlen durchziehen den Kalkstein und bilden ein komplexes hydrologisches Netz. Bemaraha ist ein Paradebeispiel für den Karst-Typus und wurde aufgrund seiner außergewöhnlichen geomorphologischen Bedeutung zum UNESCO-Weltnaturerbe erklärt. Geografie K8 — Karstphänomene und Erosion.",
+      "factsAdvanced": [
+        "Weltberühmtes Kalkstein-Plateau mit 'Tsingy'-Formationen",
+        "UNESCO-Weltnaturerbe aufgrund seiner einzigartigen Geomorphologie",
+        "Die Felsnadeln können Höhen von über 50 Metern erreichen",
+        "Entstand aus dem Meeresboden der Jura-Zeit vor 150 Millionen Jahren",
+        "Beherbergt tiefe Canyons mit isolierten Regenwald-Relikten",
+        "Relief bildet eine natürliche Barriere zwischen Küste und Hochland",
+        "Komplexes System von Höhlen und unterirdischen Wasserläufen",
+        "Spektakuläres Beispiel für chemische und mechanische Verwitterung"
+      ]
+    },
+    {
+      "id": "bemolanga-tar-sands-economic-v2",
+      "descriptionAdvanced": "Die Ölsande von Bemolanga in der Region Melaky sind eine der weltweit größten unerschlossenen Ressourcen an Bitumen. Diese gigantische Lagerstätte im Westen Madagaskars birgt das Potenzial, die Energieabhängigkeit der Insel drastisch zu verringern. Die Gewinnung des Öls aus den Sandsteinschichten erfordert jedoch technologisch anspruchsvolle und kapitalintensive Verfahren, die bisher eine großflächige Förderung verhindert haben. Die Region ist extrem abgelegen, was den Bau von Pipelines und Transportwegen zu einer logistischen Herkulesaufgabe macht. Bemolanga steht sinnbildlich für die im Verborgenen liegenden Schätze Madagaskars und den Konflikt zwischen industrieller Nutzung und dem Schutz der sensiblen Trockenwald-Ökosysteme. Wirtschaft K8 — Fossile Energieträger und Rohstoffstrategie.",
+      "factsAdvanced": [
+        "Eine der weltweit bedeutendsten Lagerstätten für Teersande",
+        "Geschätzte Reserven von über zwei Milliarden Barrel Bitumen",
+        "Befindet sich im abgelegenen Melaky-Becken im Westen",
+        "Erfordert den Einsatz von thermischen Förderverfahren",
+        "Potenzieller Pfeiler für Madagaskars energetische Unabhängigkeit",
+        "Internationale Konzerne wie Total waren an der Exploration beteiligt",
+        "Herausforderungen durch mangelnde Infrastruktur und Wasserknappheit",
+        "Spiegelt den Reichtum Madagaskars an nicht-konventionellen Ölvorkommen wider"
+      ]
+    },
+    {
+      "id": "berenty-reservat-life-v2",
+      "descriptionAdvanced": "Das private Berenty-Reservat im äußersten Süden Madagaskars ist weltberühmt für seine Lemurenpopulationen, insbesondere den Ringelschwanzmaki (Katta). Gelegen am Ufer des Mandrare-Flusses, inmitten riesiger Sisal-Plantagen, schützt das Reservat einen der letzten Reste des Galerie- und Dornwaldes der Region. Besucher können hier die Tiere in einer fast zahmen Umgebung beobachten, was Berenty zu einem der wichtigsten Ziele für Naturfotografen und Primatologen gemacht hat. Der Park ist zudem bekannt für seine großen Kolonien von Flughunden. Das Reservat ist ein Beispiel dafür, wie privates Engagement zum Erhalt der madagassischen Artenvielfalt in einer intensiv genutzten Agrarlandschaft beitragen kann. Biologie K6 — Lemurenbeobachtung und Habitatschutz.",
+      "factsAdvanced": [
+        "Berühmtestes privates Naturschutzgebiet im Süden Madagaskars",
+        "Bekannt für die hohe Dichte an Ringelschwanzmakis (Katta)",
+        "Schützt wertvolle Reste von Galeriewald am Mandrare-Fluss",
+        "Wichtigster Standort für die Erforschung des Sozialverhaltens von Lemuren",
+        "Beherbergt beeindruckende Kolonien von Madagaskar-Flughunden",
+        "Liegt inmitten der weltweit größten Sisal-Anbaugebiete",
+        "Gegründet im Jahr 1936 durch die Familie Heaulme",
+        "Bietet Einblicke in die Flora und Fauna des extremen Südens"
+      ]
+    },
+    {
+      "id": "betioky-royal-tombs-history-v2",
+      "descriptionAdvanced": "Die königlichen Gräber von Betioky sind bedeutende Monumente der Mahafaly-Kultur im trockenen Südwesten Madagaskars. Diese Grabanlagen sind berühmt für ihre kunstvollen 'Aloalo'-Grabstelen – geschnitzte Holzpfähle, die das Leben der Verstorbenen und ihre Ahnenreihe darstellen. Die Mahafaly-Gräber sind oft massiv aus Stein gebaut und mit zahlreichen Zebu-Hörnern geschmückt, was den Reichtum und Status der königlichen Familie symbolisiert. Für die lokale Bevölkerung sind diese Orte hochheilig und dürfen oft nur nach strengen Ritualen betreten werden. Die Gräber von Betioky sind ein eindrucksvolles Zeugnis für die Beständigkeit traditioneller Glaubenssysteme und die meisterhafte Handwerkskunst des Südens. Geschichte K8 — Ahnenkult und Grabarchitektur im Süden.",
+      "factsAdvanced": [
+        "Zentrum der monumentalen Mahafaly-Grabkunst",
+        "Berühmt für die kunstvoll geschnitzten Aloalo-Stelen",
+        "Gräber werden traditionell mit Hunderten von Zebu-Hörnern geschmückt",
+        "Wichtiger Ort für die Ahnenverehrung in der Region Atsimo-Andrefana",
+        "Symbol für den sozialen Status und die Macht der Mahafaly-Könige",
+        "Die Stelen erzählen oft Geschichten aus dem Alltag der Verstorbenen",
+        "Hochheilige Stätten, die durch strenge Tabus (Fady) geschützt sind",
+        "Einzigartige Mischung aus Bildhauerei und sakraler Architektur"
+      ]
+    },
+    {
+      "id": "betsiboka-river-nature-v2",
+      "descriptionAdvanced": "Der Betsiboka ist der größte und wasserreichste Fluss Madagaskars und mündet bei Mahajanga in den Kanal von Mosambik. Er ist berühmt für seine tiefrote Farbe, die durch die enorme Fracht an Laterit-Sedimenten entsteht. Astronauten haben das Bild des Deltas oft als 'Madagaskar blutet aus' beschrieben, was auf die massive Bodenerosion im Hochland hindeutet. Trotz dieser ökologischen Tragödie bildet der Fluss ein fruchtbares Delta, das die Grundlage für den Reisanbau und die Garnelenfischerei im Nordwesten darstellt. Die Mündung des Betsiboka ist zudem ein wichtiger Verkehrsweg für den regionalen Handel und beherbergt wertvolle Mangrovenwälder. Geografie K8 — Flusssysteme und Umweltveränderungen.",
+      "factsAdvanced": [
+        "Längster schiffbarer Fluss im Nordwesten Madagaskars",
+        "Mündet in die Bombetoka-Bucht bei der Stadt Mahajanga",
+        "Visuell markant durch seine blutrote Farbe aus Laterit-Sedimenten",
+        "Weltweites Symbol für das Problem der massiven Bodenerosion",
+        "Das Delta umfasst ausgedehnte, geschützte Mangroven-Ökosysteme",
+        "Hauptquelle für den Bewässerungsfeldbau in der Boeny-Ebene",
+        "Führt gewaltige Wassermengen während der sommerlichen Regenzeit",
+        "Wichtiger Transportweg für Güter aus dem Binnenland zum Hafen"
+      ]
+    },
+    {
+      "id": "boby-peak-foothills-relief-v2",
+      "descriptionAdvanced": "Die Ausläufer des Pic Boby im Andringitra-Massiv markieren den Übergang von den tiefen Tälern zu den alpinen Gipfelregionen Madagaskars. Das Relief ist geprägt durch massive Granitblöcke, spektakuläre Wasserfälle und steile Pfade, die durch dichte Heidevegetation führen. Diese Vorgebirgszone ist klimatisch extrem stabil, bildet jedoch nachts eine Kältefalle, in der sich Nebel und Frost sammeln können. Geologisch sind die Ausläufer Teil der massiven Hebung des Grundgebirges und zeigen beeindruckende Spuren von Verwitterungsprozessen. Für Wanderer stellen die Foothills den anspruchsvollen Einstieg zur Besteigung des zweithöchsten Berges der Insel dar. Geografie K8 — Gebirgsmorphologie und Höhenstufen.",
+      "factsAdvanced": [
+        "Eingangszone zum Pic Boby, dem zweithöchsten Berg der Insel",
+        "Geprägt durch monumentale Granitformationen und Blockhalden",
+        "Besitzt spektakuläre Wasserfälle, die mehrere hundert Meter tief fallen",
+        "Heimat seltener alpiner Pflanzenarten und sukkulenter Kalanchoen",
+        "Startpunkt für die Besteigung des Imarivolanitra-Gipfels",
+        "Einzige Region mit subalpinen Heidelandschaften auf Madagaskar",
+        "Bietet Schutz für die kälteadaptierte Fauna des Hochgebirges",
+        "Teil des ökologisch sensiblen Andringitra-Nationalparks"
+      ]
+    },
+    {
+      "id": "cap-mined-diego-suarez-history-v2",
+      "descriptionAdvanced": "Cap Miné, an der Einfahrt zur Bucht von Antsiranana (Diego Suarez), ist ein Ort von großer militärhistorischer Bedeutung. Die Landspitze war im frühen 20. Jahrhundert schwer befestigt, um den strategisch wichtigen Hafen gegen Angriffe vom Meer zu schützen. Alte Kanonenbatterien und Bunkerruinen zeugen von der französischen Militärpräsenz und der Rolle Madagaskars im Ersten und Zweiten Weltkrieg. Der Leuchtturm von Cap Miné dient seit Jahrzehnten als wichtiges Navigationszeichen für Schiffe, die die schwierige Einfahrt in die Bucht passieren. Heute bietet das Kap einen dramatischen Ausblick auf den Indischen Ozean und ist ein Mahnmal für die wechselvolle Geschichte der kolonialen Verteidigung im Norden. Geschichte K7 — Küstenverteidigung und Kolonialgeschichte.",
+      "factsAdvanced": [
+        "Strategische Landspitze an der Einfahrt zur Bucht von Antsiranana",
+        "Standort historischer französischer Küstenbatterien",
+        "Wichtige Rolle während der Schlacht um Madagaskar im Jahr 1942",
+        "Beherbergt einen markanten Leuchtturm zur Hafensicherung",
+        "Bietet einen spektakulären Blick auf den 'Smaragd-See' (Mer d'Émeraude)",
+        "Zeugnis der militärischen Bedeutung des Nordens im 20. Jahrhundert",
+        "Ruinen von Bunkern und Munitionsdepots sind noch heute sichtbar",
+        "Wichtiger Punkt auf dem historischen Rundweg von Diego Suarez"
+      ]
+    },
+    {
+      "id": "cathedrale-andohalo-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale von Andohalo, offiziell Cathédrale de l'Immaculée Conception, ist das bedeutendste katholische Gotteshaus in Antananarivo. Auf dem historischen Hügel von Andohalo gelegen, unmittelbar in der Nähe des königlichen Rova, symbolisiert sie den wachsenden Einfluss des Christentums im 19. Jahrhundert. Das Bauwerk im neugotischen Stil besticht durch seine roten Backsteinmauern und die kunstvollen Glasfenster. Die Kathedrale war Schauplatz wichtiger religiöser und politischer Ereignisse und ist bis heute das geistige Zentrum der Erzdiözese Antananarivo. Ihre majestätische Präsenz auf dem Gipfel der Stadt macht sie zu einem unverzichtbaren Teil der Skyline der Hauptstadt. Geschichte K7 — Sakralarchitektur und Missionierung.",
+      "factsAdvanced": [
+        "Hauptkirche der römisch-katholischen Erzdiözese Antananarivo",
+        "Erbaut im neugotischen Stil zwischen 1873 und 1890",
+        "Befindet sich auf dem historischen Platz von Andohalo",
+        "Architektonisch geprägt durch die Verwendung lokaler roter Backsteine",
+        "Wichtiger Ort für nationale Gedenkfeiern und Staatszeremonien",
+        "Symbol für den Einfluss der Jesuitenmission auf Madagaskar",
+        "Im Inneren befinden sich wertvolle Reliquien und historische Gräber",
+        "Wesentliches Wahrzeichen der historischen Haute-Ville"
+      ]
+    },
+    {
+      "id": "cathedrale-st-joseph-fianarantsoa-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale Saint-Joseph in Fianarantsoa ist ein architektonisches Juwel im Herzen des Betsileo-Landes. Als Hauptkirche der Haute-Ville thront sie über den terrassierten Hängen der Stadt und prägt mit ihren zwei markanten Türmen das Stadtbild. Der Bau aus der Kolonialzeit vereint europäische Sakralarchitektur mit lokaler Ziegelkunst. Die Kathedrale ist nicht nur ein Ort des Gebets, sondern auch ein Symbol für die starke katholische Tradition in Fianarantsoa, das oft als das 'Rom Madagaskars' bezeichnet wird. Die Umgebung der Kathedrale mit ihren steilen Gassen und historischen Häusern bildet eines der am besten erhaltenen Ensembles der Insel. Geschichte K6 — Regionale Kirchengeschichte und Architektur.",
+      "factsAdvanced": [
+        "Bedeutendstes katholisches Gotteshaus der Stadt Fianarantsoa",
+        "Wahrzeichen der historischen Oberstadt (Haute-Ville)",
+        "Bekannt für ihre imposante Doppelturmfassade",
+        "Zentrum des religiösen Lebens im südlichen Hochland",
+        "Architektur spiegelt die Ziegelbautradition der Betsileo wider",
+        "Häufiger Schauplatz für Chorkonzerte und christliche Feste",
+        "Teil des geschützten historischen Stadtkerns von Fianarantsoa",
+        "Bietet Einblicke in die Missionsgeschichte des 19. Jahrhunderts"
+      ]
+    },
+    {
+      "id": "central-highlands-relief-v2",
+      "descriptionAdvanced": "Das zentrale Hochland Madagaskars, die 'Hauts Plateaux', ist das geographische Rückgrat der Insel. Das Relief ist geprägt von sanften Hügeln, weiten Ebenen und schroffen Granitmassiven, die durch intensive Erosion geformt wurden. Die charakteristischen roten Böden (Laterit) geben der Region ihren Namen 'Die rote Insel'. Geologisch handelt es sich um ein altes kristallines Grundgebirge, das durch tektonische Kräfte angehoben wurde. Dieses Relief bestimmt das Klima der Insel, indem es die feuchten Ostwinde abfängt und den trockenen Westen schützt. Das Hochland ist das am dichtesten besiedelte Gebiet Madagaskars und das Zentrum der Reisterrassenkultur. Geografie K7 — Hochplateaus und Erosionsprozesse.",
+      "factsAdvanced": [
+        "Geographisches Rückgrat Madagaskars mit Höhen bis 2.600 m",
+        "Geprägt durch rote Lateritböden und massive Bodenerosion",
+        "Wichtigstes Siedlungsgebiet und Zentrum der Merina-Kultur",
+        "Besitzt ein kühleres, gemäßigtes Klima als die Küstenregionen",
+        "Entstanden durch massive Hebung des präkambrischen Grundgebirges",
+        "Landschaft ist durch weiträumige Entwaldung stark verändert",
+        "Wichtigste Reisanbauzone der Insel in den fruchtbaren Tälern",
+        "Bildet die Wasserscheide zwischen dem Indischen Ozean und Afrika"
+      ]
+    },
+    {
+      "id": "chateau-d-eau-amparibe-landmarks-v2",
+      "descriptionAdvanced": "Der Wasserturm von Amparibe ist ein markantes technisches Denkmal in Antananarivo. Erbaut während der französischen Kolonialzeit, war er ein Meilenstein in der Modernisierung der Wasserversorgung für die wachsende Hauptstadt. Die Architektur des Turms verbindet Funktionalität mit ästhetischen Elementen jener Epoche und macht ihn zu einem weithin sichtbaren Orientierungspunkt im Stadtteil Amparibe. Der Turm erinnert an die infrastrukturellen Herausforderungen einer auf Hügeln erbauten Stadt und den Übergang zu modernen städtischen Dienstleistungen im frühen 20. Jahrhundert. Heute ist er ein geschätztes historisches Objekt, das die industrielle Geschichte der Metropole dokumentiert. Geschichte K7 — Stadtentwicklung und Infrastruktur.",
+      "factsAdvanced": [
+        "Historisches Industriedenkmal im Stadtteil Amparibe",
+        "Meilenstein der modernen Wasserversorgung von Antananarivo",
+        "Erbaut während der französischen Kolonialadministration",
+        "Wichtiger Orientierungspunkt in der Unterstadt der Hauptstadt",
+        "Symbol für den technologischen Fortschritt zu Beginn des 20. Jahrhunderts",
+        "Bewahrt die industrielle Architektur der Jahrhundertwende",
+        "Teil der städtebaulichen Modernisierung unter General Gallieni",
+        "Dokumentiert die logistische Erschließung der Hochlandmetropole"
+      ]
+    },
+    {
+      "id": "cotona-textile-economic-v2",
+      "descriptionAdvanced": "COTONA (Cotonnière d'Antsirabe) ist das Flaggschiff der madagassischen Textilindustrie und einer der größten Arbeitgeber der Stadt Antsirabe. Die Fabrik verarbeitet lokal produzierten Baumwollrohstoff zu hochwertigen Textilien für den heimischen Markt und den Export. COTONA ist ein Symbol für die industrielle Tradition Madagaskars und spielt eine entscheidende Rolle in der wirtschaftlichen Stabilität der Vakinankaratra-Region. Die Fabrik ist ein Beispiel für die vertikale Integration in der Landwirtschaft, vom Baumwollfeld im Westen bis zum fertigen Stoff im Hochland. Trotz internationaler Konkurrenz bleibt COTONA ein wichtiger Pfeiler der madagassischen Wirtschaftskraft. Wirtschaft K7 — Textilindustrie und Wertschöpfungsketten.",
+      "factsAdvanced": [
+        "Größte Textilfabrik Madagaskars mit Sitz in Antsirabe",
+        "Wichtigster Abnehmer für madagassische Baumwollbauern",
+        "Schafft Tausende von direkten und indirekten Arbeitsplätzen",
+        "Zentrum für die Produktion von Bekleidung und Heimtextilien",
+        "Symbol für den industriellen Erfolg der Stadt Antsirabe",
+        "Exportiert Qualitätsprodukte in den gesamten afrikanischen Raum",
+        "Nutzt moderne Webtechnologien und Färbeverfahren",
+        "Wesentlicher Bestandteil der madagassischen Industriegeschichte"
+      ]
+    },
+    {
+      "id": "dzamandzar-rum-economic-v2",
+      "descriptionAdvanced": "Die Rum-Destillerie von Dzamandzar auf der Insel Nosy Be ist eine legendäre Institution der madagassischen Zucker- und Spirituosenindustrie. Seit Jahrzehnten wird hier aus dem Zuckerrohr der Insel hochwertiger Rum produziert, der für sein besonderes Aroma weltberühmt ist. Die Fabrik in Dzamandzar war einst das wirtschaftliche Zentrum von Nosy Be und beschäftigte einen Großteil der lokalen Bevölkerung. Obwohl die Produktion heute modernisiert wurde, atmet das Gelände noch immer den Geist der alten Plantagenzeit. Der Rum aus Dzamandzar ist nicht nur ein Genussprodukt, sondern auch ein wichtiges Exportgut, das den Namen Nosy Be in die ganze Welt trägt. Wirtschaft K6 — Lebensmittelindustrie und Destillation.",
+      "factsAdvanced": [
+        "Traditionsreichste Rum-Destillerie der Insel Nosy Be",
+        "Verarbeitet das Zuckerrohr der umliegenden Küstenebenen",
+        "Bekannt für den berühmten Dzamandzar-Rum (Dzama)",
+        "Historisch der größte Industriebetrieb im Norden Madagaskars",
+        "Symbol für die koloniale Zuckerrohr-Vergangenheit der Insel",
+        "Wichtiges Ziel für touristische Werksbesichtigungen",
+        "Produziert preisgekrönte Spirituosen für den Weltmarkt",
+        "Wesentlicher Faktor für die lokale Wirtschaftskraft von Nosy Be"
+      ]
+    },
+    {
+      "id": "ehola-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Ehoala bei Fort-Dauphin (Tolanaro) ist einer der modernsten Tiefseehäfen im Indischen Ozean. Er wurde speziell für den Export von Ilmenit aus der nahegelegenen QMM-Mine gebaut, dient aber auch als wichtiger Knotenpunkt für die allgemeine Frachtschifffahrt und Kreuzfahrtschiffe. Die Errichtung des Hafens hat die Wirtschaft des Südostens grundlegend verändert und Tolanaro zu einem modernen Logistikzentrum gemacht. Ehoala ist ein Paradebeispiel für die Verbindung von großindustrieller Erschließung und Infrastrukturentwicklung in einer zuvor isolierten Region. Der Hafen ermöglicht es Madagaskar, schwere mineralische Rohstoffe effizient auf den Weltmarkt zu bringen. Wirtschaft K8 — Logistik und Bergbauinfrastruktur.",
+      "factsAdvanced": [
+        "Moderner Tiefseehafen südlich von Fort-Dauphin",
+        "Finanziert durch eine Partnerschaft zwischen Rio Tinto und dem Staat",
+        "Hauptexporthafen für Ilmenit-Mineralien der Region Anosy",
+        "Ermöglicht das Anlegen von Schiffen mit großem Tiefgang",
+        "Wichtigster logistischer Motor im Südosten Madagaskars",
+        "Anlaufstelle für den aufstrebenden Kreuzfahrttourismus",
+        "Besitzt modernste Umschlaganlagen für Container und Schüttgut",
+        "Symbol für die industrielle Modernisierung der Küstenregion"
+      ]
+    },
+    {
+      "id": "fanalamanga-forestry-economic-v2",
+      "descriptionAdvanced": "Fanalamanga ist das größte Forstwirtschaftsprojekt Madagaskars und verwaltet riesige Pinienplantagen in der Region um Moramanga. Gegründet, um den Bedarf an Bauholz und Zellulose zu decken, hat sich Fanalamanga zu einem wichtigen Akteur in der madagassischen Wirtschaft entwickelt. Die künstlich angelegten Wälder bieten einen Kontrast zu den natürlichen Primärwäldern der Insel und dienen der nachhaltigen Holznutzung. Das Projekt schafft tausende Arbeitsplätze in der Forstpflege, im Holzeinschlag und in der Weiterverarbeitung. Fanalamanga ist ein Beispiel für die strategische Nutzung von Landflächen im Hochland zur Produktion nachwachsender Rohstoffe. Wirtschaft K7 — Forstwirtschaft und Ressourcenmanagement.",
+      "factsAdvanced": [
+        "Größtes staatliches Forstunternehmen Madagaskars",
+        "Verwaltet über 70.000 Hektar Pinienplantagen (Pinus patula)",
+        "Befindet sich in der strategisch wichtigen Region Moramanga",
+        "Hauptlieferant für Bauholz und Industrieholz auf der Insel",
+        "Wichtiger Akteur für die nationale Wiederaufforstungsstrategie",
+        "Schafft umfangreiche Arbeitsmöglichkeiten im ländlichen Raum",
+        "Zentrum für die Produktion von Zellulose und Papierrohstoffen",
+        "Beispiel für großflächige Plantagenwirtschaft im Hochland"
+      ]
+    },
+    {
+      "id": "faratsiho-mission-history-v2",
+      "descriptionAdvanced": "Die Mission von Faratsiho ist ein historisches Zentrum der christlichen Bildung und Gesundheitsversorgung im Ankaratra-Gebirge. Im 19. Jahrhundert von norwegischen Missionaren gegründet, spielte sie eine entscheidende Rolle bei der Einführung moderner Landwirtschaft und medizinischer Dienste in dieser abgelegenen Hochgebirgsregion. Die steinernen Kirchen- und Schulgebäude im typischen skandinavischen Einfluss prägen noch heute den Kern des Ortes. Die Mission ist ein Zeugnis für den kulturellen Austausch und den Einfluss ausländischer Organisationen auf die gesellschaftliche Entwicklung Madagaskars. Für die lokale Bevölkerung bleibt sie ein wichtiger Ankerpunkt für Bildung und soziale Stabilität. Geschichte K7 — Missionsgeschichte und soziale Entwicklung.",
+      "factsAdvanced": [
+        "Historische Missionsstation im Ankaratra-Hochgebirge",
+        "Gegründet von der Norwegischen Missionsgesellschaft (NMS)",
+        "Zentrum für die Einführung europäischer Agrartechniken",
+        "Bekannt für seine gut erhaltenen Steingebäude aus dem 19. Jahrhundert",
+        "Wichtiger Bildungsstandort für das zentrale Hochland",
+        "Symbol für den norwegischen Einfluss auf die madagassische Kultur",
+        "Beherbergt eine der ältesten Kirchen der Region Vakinankaratra",
+        "Ort des kulturellen Austauschs zwischen Europa und dem Merina-Reich"
+      ]
+    }
+  ]
+}

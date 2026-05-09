@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zambezi-boat-club-1905-history-v2",
+      "descriptionAdvanced": "The Zambezi Boat Club, established in 1905, is one of the oldest and socially most significant legacies of the colonial lifestyle in Zambia. Located on the banks of the Zambezi in Livingstone, the club was a central place for leisure and athletic activity for the early European settlers. The club became particularly famous for hosting prestigious regattas, such as in 1910, which reflected the social life of the era. Today, it remains as a remnant of a bygone era and reminds us of the influence of British leisure culture on the social development of the city on the Zambezi at the beginning of the 20th century.",
+      "factsAdvanced": [
+        "Established in the year 1905",
+        "One of the oldest recreational clubs in Zambia",
+        "Central place of colonial social life",
+        "Historical venue for famous regattas",
+        "Important witness to social history",
+        "Symbol for British leisure culture in Africa"
+      ]
+    }
+  ]
+}

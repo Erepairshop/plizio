@@ -1,0 +1,129 @@
+{
+  "lang": "hu",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tanganda-tea-estate-economic-v2",
+      "descriptionAdvanced": "A Tanganda Tea Estate Zimbabwe legnagyobb teatermelője, kiterjedt feldolgozóüzemekkel a keleti-felföld (Eastern Highlands) területén. A vállalat a régió ideális éghajlati feltételei között termeszt kiváló minőségű teát, majd saját üzemeiben csomagolja azokat a belföldi és nemzetközi piacok számára. A Tanganda kulcsszerepet játszik Mutare regionális gazdaságában, és fontos munkaadó, akinek termékeit széles körben elismerik kiváló minőségük miatt, hozzájárulva az ország mezőgazdasági jóhíréhez.",
+      "factsAdvanced": [
+        "Szerep: Zimbabwe legnagyobb teatermelője.",
+        "Régió: Eastern Highlands (ideális éghajlati feltételek).",
+        "Infrastruktúra: Kiterjedt saját feldolgozóüzemek.",
+        "Gazdasági érték: Fontos munkaadó Mutare régiójában.",
+        "Piac: Teaexport és belföldi ellátás.",
+        "Minőségi igény: Fókusz a kiváló minőségű teatermékeken."
+      ]
+    },
+    {
+      "id": "bikita-minerals-economic-v2",
+      "descriptionAdvanced": "A Bikita Minerals a világ egyik legnagyobb ismert lítiumlelőhelyének ad otthont, amely a globális elektromobilitási ellátási láncban egyre inkább felértékelődik. A vállalat petalit- és spodumen-koncentrátumokat állít elő exportcélokra. A lítium iránti növekvő kereslet miatt a Bikita Minerals Zimbabwe jövőbeli gazdasági fejlődésének egyik központi pillére, és kiemelt befektetési célpont a nemzetközi bányavállalatok számára, stratégiai pozíciót elfoglalva a lítium globális ellátási láncában.",
+      "factsAdvanced": [
+        "Lelőhely: A világ egyik legnagyobb lítiumlelőhelye.",
+        "Termékek: Petalit- és spodumen-koncentrátumok.",
+        "Gazdasági relevancia: Kulcsfontosságú az akkumulátor-ellátási láncban.",
+        "Jövőbeli piac: Elektromos járműipar.",
+        "Elhelyezkedés: Bikita, Zimbabwe.",
+        "Jelentőség: Fontos bevételi forrás a nemzetközi export révén."
+      ]
+    },
+    {
+      "id": "arcadia-lithium-mine-economic-v2",
+      "descriptionAdvanced": "Az Arcadia lítiumbánya egy újonnan kifejlesztett, hatalmas keménykőzetű lítiumbányászati és feldolgozó üzem. A létesítmény egy hatalmas koncentráló üzemmel rendelkezik akkumulátor-minőségű ásványok előállítására. A zimbabwei bányászati ágazat egyik legnagyobb külföldi beruházásaként szimbolizálja az ország azon potenciálját, hogy kulcsszerepet játsszon a zöld energiatechnológiák és az akkumulátor-alapanyagok területén, magas szintű nemzetközi technológiai fókusszal.",
+      "factsAdvanced": [
+        "Státusz: Újonnan kifejlesztett, hatalmas lítiumprojekt.",
+        "Technológia: Hatalmas koncentráló üzem akkumulátor-ásványokhoz.",
+        "Befektetés: A legnagyobb külföldi bányászati beruházások egyike.",
+        "Gazdasági fókusz: Zöld energiatechnológiák.",
+        "Fontosság: Kulcsszerep a lítiumellátásban.",
+        "Piac: Termelés a nemzetközi akkumulátoripar számára."
+      ]
+    },
+    {
+      "id": "trojan-nickel-mine-economic-v2",
+      "descriptionAdvanced": "A bindurai Trojan nikkelbánya az elsődleges mélyművelésű nikkelkitermelő hely Zimbabwében. Az üzem egy nagyteljesítményű sűrítőüzemmel és saját kohászati létesítményekkel rendelkezik, amelyek lehetővé teszik a kiváló minőségű nikkelszulfid-érc hatékony feldolgozását. A nikkel stratégiai jelentősége miatt az ötvözött acélok és az akkumulátortechnológia számára a bánya fontos ipari szereplő Mashonaland Central tartományban, és kulcsfontosságú devizabevételi forrás az ország számára.",
+      "factsAdvanced": [
+        "Szerep: Az elsődleges mélyművelésű nikkelbánya az országban.",
+        "Infrastruktúra: Helyszíni sűrítőüzem és kohászati kapacitások.",
+        "Termék: Kiváló minőségű nikkelszulfid-érc.",
+        "Gazdasági jelentőség: Jelentős devizabevételi forrás.",
+        "Elhelyezkedés: Bindura, Mashonaland Central.",
+        "Ágazat: Kohászat és nikkeltermelés."
+      ]
+    },
+    {
+      "id": "empress-nickel-mine-economic-v2",
+      "descriptionAdvanced": "Az Empress nikkel-finomító egy olyan speciális alapfém-finomító, amelyet a nikkel- és rézmatt feldolgozására terveztek. Jelentős szerepet tölt be a regionális értékláncban azáltal, hogy különböző bányászati műveletekből származó termékeket dolgoz fel tovább, és nagy tisztaságú fémeket biztosít ipari felhasználásra. A zimbabwei kohászati ipar integrált részeként a finomító hozzájárul a hatékonyság növeléséhez és a fémes nyersanyagok exportminőségének emeléséhez.",
+      "factsAdvanced": [
+        "Specializáció: Alapfémek (nikkel, réz) finomítása.",
+        "Folyamat: Nikkel- és rézmatt feldolgozása.",
+        "Gazdasági jelentőség: Regionális bányászati termékek nemesítése.",
+        "Termékminőség: Nagy tisztaságú fémek ipari alkalmazásokra.",
+        "Szerep: Csomópont a zimbabwei kohászatban.",
+        "Cél: Az értéknövelés növelése a fémexportoknál."
+      ]
+    },
+    {
+      "id": "mutare-dry-port-economic-v2",
+      "descriptionAdvanced": "A Mutare szárazföldi kikötő egy nélkülözhetetlen szárazföldi logisztikai csomópont, amely jelentős mértékben megkönnyíti a határokon átnyúló kereskedelmet. Mint a Beira-folyosón Zimbabwe és a mozambiki partvidék között mozgó áruk logisztikai horgonyzóhelye, központi szerepet játszik az ország ellátásbiztonságában. A terminál nagy konténerforgalmat bonyolít le és kritikus vámkezelési pontként szolgál, ami jelentősen lerövidíti az export- és importügyletek átfutási idejét.",
+      "factsAdvanced": [
+        "Funkció: Szárazföldi logisztikai központ a határokon átnyúló kereskedelemhez.",
+        "Útvonal: Fontos csomópont a Beira-folyosón.",
+        "Forgalom: Jelentős konténerforgalmi volumen.",
+        "Logisztikai szerep: Vámkezelési pont az export- és import számára.",
+        "Gazdasági jelentőség: A kereskedelmi folyamatok gyorsítása.",
+        "Összeköttetés: Kapcsolat a mozambiki partvidékkel."
+      ]
+    },
+    {
+      "id": "bulawayo-dry-port-economic-v2",
+      "descriptionAdvanced": "A Bulawayo szárazföldi kikötő egy stratégiailag elhelyezett szárazföldi terminál, amely biztosítja az összeköttetést Dél-Afrika és a környező régiók vasúthálózataival. A tengeri kikötőktől távol eső teherkezelés révén tehermentesíti a kikötői kapacitásokat és növeli az ellátási lánc hatékonyságát. Kiterjedt raktározási és konténerkezelési kapacitásaival a terminál központi csomópontként szolgál Dél-Zimbabwe áruforgalma számára, hozzájárulva a regionális szállítási infrastruktúra bővítéséhez.",
+      "factsAdvanced": [
+        "Infrastruktúra: Stratégiai szárazföldi terminál.",
+        "Összeköttetés: Hálózatosodás a dél-afrikai vasúthálózatokkal.",
+        "Hatékonyság: Kikötői zsúfoltság csökkentése kezeléssel.",
+        "Kapacitások: Raktározási és konténerkezelési létesítmények biztosítása.",
+        "Logisztikai szerep: Központi csomópont Dél-Zimbabwe számára.",
+        "Jelentőség: Regionális ellátási láncok hatékonyságának javítása."
+      ]
+    },
+    {
+      "id": "harare-inland-port-economic-v2",
+      "descriptionAdvanced": "A hararei szárazföldi kikötő a fővárosi régió központi konténerdepójaként működik, és kezeli az importált és exportált tömegáruk döntő többségét. Nagy teherbírású portáldarukkal felszerelve a hatékony konténerkezelés érdekében, az üzem zökkenőmentesen kapcsolja össze a közúti és vasúti árufuvarozást. Ez a logisztikai csomópont kritikus jelentőségű Zimbabwe legnépesebb régiójának áruellátása szempontjából, és támogatja a főváros kereskedelmi műveleteit.",
+      "factsAdvanced": [
+        "Szerep: Központi konténerdepó Harare számára.",
+        "Terjedelem: A tömegáruk nagy részének kezelése.",
+        "Felszerelés: Nagy teherbírású portáldaruk a konténerkezeléshez.",
+        "Logisztika: Közúti és vasúti árufuvarozás integrációja.",
+        "Jelentőség: Központi csomópont a fővárosi kereskedelemben.",
+        "Ágazat: Logisztika és nemzeti áruellátás."
+      ]
+    },
+    {
+      "id": "beitbridge-cargo-hub-economic-v2",
+      "descriptionAdvanced": "A Beitbridge teheráru-központ Fekete-Afrika legforgalmasabb szárazföldi határátkelőhelye és átrakodó állomása. Naponta több ezer kereskedelmi teherautót kezelnek itt Dél-Afrika és az északabbra fekvő piacok között. Az átfogó korszerűsítési intézkedéseket követően a központ hatékonyabb vám- és határkezelési eljárásokat kínál, amelyek jelentősen felgyorsítják a regionális kereskedelmet. A szárazföldi árufuvarozás legfontosabb kapujaként Beitbridge az egész dél-afrikai régió logisztikai gerincét képezi.",
+      "factsAdvanced": [
+        "Státusz: Fekete-Afrika legforgalmasabb határátkelője.",
+        "Napi kapacitás: Teherautók ezreinek kezelése naponta.",
+        "Modernizáció: Hatékonyabb vám- és határeljárások.",
+        "Gazdasági jelentőség: Dél-Afrika logisztikai gerince.",
+        "Szerep: A legfontosabb kapu a nemzetközi szárazföldi kereskedelemhez.",
+        "Összeköttetés: Tranzitcsomópont az északi irányú áruforgalom számára."
+      ]
+    },
+    {
+      "id": "plumtree-inland-cargo-terminal-economic-v2",
+      "descriptionAdvanced": "A Plumtree szárazföldi teherterminál logisztikailag jelentős pont a Zimbabwe és Botswana közötti áruforgalomban. A transz-Kalahári folyosó útvonalának fontos csomópontjaként a terminál lehetővé teszi a határokon átnyúló kereskedelem és a vasúti tranzit hatékony kezelését. Stratégiai elhelyezkedése révén a terminál lényegesen hozzájárul a regionális piacok összekapcsolásához, és fontos kiegészítője a nemzeti logisztikai infrastruktúrának az áruk nyugati irányú áramlásának optimalizálása érdekében.",
+      "factsAdvanced": [
+        "Funkció: Logisztikai csomópont Zimbabwe és Botswana között.",
+        "Útvonal: Fontos állomás a transz-Kalahári folyosón.",
+        "Kereskedelem: Határokon átnyúló áruforgalom megkönnyítése.",
+        "Tranzit: Vasúti tranzit-tevékenységek támogatása.",
+        "Gazdasági jelentőség: Logisztikai útvonalak optimalizálása nyugat felé.",
+        "Szerep: Regionális piacok hálózatosítása."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "en",
+  "country": "cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kribi-marsh-nature-v2",
+      "descriptionAdvanced": "The marshlands near Kribi form a highly sensitive and ecologically significant wetland area situated in immediate proximity to the Atlantic coast. These marshes act as an essential source of freshwater for the surrounding region, sustaining unique ecological communities that are highly specialized for these damp conditions. They serve as a critical filter and protective buffer within the coastal landscape, helping to maintain the quality of the regional environment. Beyond their ecological functions, these marshes provide a vital habitat for various bird species and other specialized wildlife, making them a high-value, feuchtes (damp) environment that deserves ongoing conservation and monitoring efforts in Cameroon's coastal zone. Geography K6 — marshes and coastal ecosystems.",
+      "factsAdvanced": [
+        "Ecologically highly sensitive marsh area situated near the coast.",
+        "Essential source of freshwater for the surrounding coastal region.",
+        "Specialized habitat hosting numerous bird and wildlife species.",
+        "Acts as a critical filter and buffer in the coastal landscape.",
+        "Valuable damp ecosystem with high significance for local biodiversity.",
+        "Key natural area for regional ecological balance.",
+        "Important, highly protective, and valuable habitat worthy of conservation."
+      ]
+    },
+    {
+      "id": "lobe-forest-nature-v2",
+      "descriptionAdvanced": "The forest surrounding the Lobé Waterfalls is a lush, tropical ecosystem that directly borders the Atlantic Ocean, creating a striking natural backdrop. It is characterized by an extremely high density of tropical vegetation, where flora has evolved to perfectly match the constant humidity of the coastal climate. This area serves as a key natural habitat in the Kribi region, offering a serene and beautiful environment that is both ecologically significant and a premier destination for those exploring Cameroon's natural heritage. As a lush green corridor, it demonstrates the richness of tropical forest life and its intimate connection with the coastal environment, making it a critical zone for conservation. Geography K6 — tropical forests.",
+      "factsAdvanced": [
+        "Humid, tropical forest ecosystem bordering the Atlantic coast.",
+        "Integrated natural setting for the majestic Lobé Waterfalls.",
+        "Rich in tropical plant biodiversity and lush green corridors.",
+        "Perfectly adapted flora to the constant coastal humidity.",
+        "Outstanding ecological location in the Kribi region.",
+        "Key natural sanctuary within the coastal tropical belt.",
+        "Important intersection of tourism and forest conservation."
+      ]
+    },
+    {
+      "id": "mungo-marsh-nature-v2",
+      "descriptionAdvanced": "The marshy areas along the lower course of the Mungo River constitute a dynamic floodplain landscape that is heavily saturated with water, particularly during the rainy season. This habitat is an essential part of the Mungo river system, providing a rich, though often challenging to traverse, environment for diverse flora and fauna. As a central natural refuge, these marshes help regulate the river's seasonal water masses and sustain a specialized community of plants and animals adapted to aquatic and semi-aquatic conditions. The area is a vital ecological niche that highlights the complexity of the region's fluvial geography and its role in maintaining regional biodiversity. Geography K5 — floodplain ecosystems.",
+      "factsAdvanced": [
+        "Dynamic floodplain landscape located on the lower Mungo River.",
+        "Highly water-saturated marshland environment, especially during rainy seasons.",
+        "Ecologically valuable but naturally challenging, remote habitat.",
+        "Supports rich and specialized flora and fauna in the swampy basin.",
+        "Central natural refuge within the broader Mungo river region.",
+        "Acts as a regulator for the river's seasonal water masses.",
+        "Significant ecological niche for semi-aquatic plant and animal life."
+      ]
+    },
+    {
+      "id": "lake-chad-shore-nature-v2",
+      "descriptionAdvanced": "The shore area of Lake Chad in Cameroon is a vast, expansive zone of grasslands and seasonal wetlands, where dynamic changes in water levels define the rhythm of life for both people and nature. This zone is essential for the regional economy, particularly for local livestock grazing, as the nutritious grasses serve as a primary feed source. It also provides vital observation points for the rich and diverse birdlife that inhabits the region, making it an ecological crossroads in the Sahel. The interplay between the lake's receding and advancing shores is a testament to the region's ecological resilience and underscores the importance of this unique coastal environment for the stability of the entire Lake Chad ecosystem. Geography K6 — lakeside landscapes.",
+      "factsAdvanced": [
+        "Expansive zone of seasonal grasslands and wetlands along Lake Chad.",
+        "Deeply influenced by dynamic changes in regional water levels.",
+        "Essential ground for local, traditional livestock grazing practices.",
+        "Key observation site for diverse and rich regional birdlife.",
+        "Critical ecological crossroads located in the Sahel zone.",
+        "Zone of high ecological resilience and natural adaptation.",
+        "Unique shoreline environment central to the Lake Chad ecosystem."
+      ]
+    }
+  ]
+}

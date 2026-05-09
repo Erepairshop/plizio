@@ -1,644 +1,595 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-Fill empty descriptionAdvanced and factsAdvanced fields in Nigeria V2 POI files.
+Fill empty descriptionAdvanced / factsAdvanced fields in
+lib/visualLab/data/poiExtraNigeria*V2.ts files.
 
-Strategy (token-thrift, no LLM):
-- Parse each POI block to extract: id, name.{lang}, description.{lang}, facts.{lang}.
-- For each language (hu/ro/en), if descriptionAdvanced.{lang} is "" and we have
-  description.{lang} + facts.{lang} → synthesize a 80-150 word advanced description
-  by combining name + base description + facts + an educational tail in that language.
-- For each language, if factsAdvanced.{lang} is [] and facts.{lang} has items →
-  expand to 6-8 facts by combining base facts with name-derived items.
-- "Uncertain → skip": if base description.{lang} is missing/empty OR base facts.{lang}
-  is empty/missing, skip that language for that POI.
-- Write the file back in one pass.
+Mirrors scripts/fill_sudan_seo.py and scripts/fill_ghana_seo.py:
+  1) Merge multiple duplicate `descriptionAdvanced` / `factsAdvanced`
+     blocks per POI, preferring the non-empty value for each language.
+  2) For each language slot still empty after merge, synthesize from the
+     SAME-LANGUAGE `description` + `facts` (no cross-language pollution).
+  3) descriptionAdvanced target: 80-150 words. factsAdvanced: 6-8 items.
 
-Scope: lib/visualLab/data/poiExtraNigeria*V2.ts
+Nigeria-specific closers and fact templates: Niger and Benue rivers /
+Niger Delta mouth, Lagos / Abuja, Yoruba / Hausa / Igbo, oil and gas
+(kőolaj/földgáz), tropical rainforest in the south, Sudan and Sahel
+savanna in the north, Atlantic coast on the Gulf of Guinea.
+
+Idempotent: re-running on already filled files is a no-op (no empty
+slots remain to fill, single advanced block already present).
 """
 from __future__ import annotations
 
 import re
-import os
 import sys
 from pathlib import Path
 
-REPO = Path(r"C:/Users/User/plizio-repo")
-DATA_DIR = REPO / "lib" / "visualLab" / "data"
-
+REPO = Path("C:/Users/User/plizio-repo")
+DATA_DIR = REPO / "lib/visualLab/data"
+FILES = [
+    "poiExtraNigeriaCitiesV2.ts",
+    "poiExtraNigeriaEconomicV2.ts",
+    "poiExtraNigeriaHistoryV2.ts",
+    "poiExtraNigeriaLandmarksV2.ts",
+    "poiExtraNigeriaLifeV2.ts",
+    "poiExtraNigeriaNatureV2.ts",
+    "poiExtraNigeriaReliefV2.ts",
+]
 LANGS = ("de", "hu", "ro", "en")
-TARGET_LANGS = ("hu", "ro", "en")  # de is already filled
 
 
-def _js_unescape(s: str) -> str:
-    """Minimal JS string unescape that PRESERVES literal UTF-8 chars.
-    Handles: \\\\ \\\" \\' \\n \\r \\t \\b \\f \\/ — leaves any other backslash-seq as-is.
-    """
-    out = []
-    i = 0
-    n = len(s)
-    while i < n:
-        c = s[i]
-        if c == "\\" and i + 1 < n:
-            nxt = s[i + 1]
-            if nxt == "\\":
-                out.append("\\"); i += 2; continue
-            if nxt == '"':
-                out.append('"'); i += 2; continue
-            if nxt == "'":
-                out.append("'"); i += 2; continue
-            if nxt == "n":
-                out.append("\n"); i += 2; continue
-            if nxt == "r":
-                out.append("\r"); i += 2; continue
-            if nxt == "t":
-                out.append("\t"); i += 2; continue
-            if nxt == "b":
-                out.append("\b"); i += 2; continue
-            if nxt == "f":
-                out.append("\f"); i += 2; continue
-            if nxt == "/":
-                out.append("/"); i += 2; continue
-            # Unknown — keep as-is
-            out.append(c); i += 1; continue
-        out.append(c); i += 1
-    return "".join(out)
+# ---------- helpers: balanced-brace block extractor ----------
 
-# ---------- Regex helpers ----------
-
-# We process per-POI block. POIs start with `id:` after a `{`.
-# Robust approach: use string-level scanning to find each {...} top-level POI block.
-
-def split_pois(src: str) -> list[tuple[int, int]]:
-    """Return [(start, end)] index spans for each top-level POI object inside the array."""
-    # Find the array opener
-    m = re.search(r"=\s*\[", src)
-    if not m:
-        return []
-    i = m.end()
-    spans = []
-    n = len(src)
-    while i < n:
-        # Skip whitespace and commas
-        while i < n and src[i] in " \t\r\n,":
-            i += 1
-        if i >= n or src[i] == "]":
-            break
-        if src[i] != "{":
-            i += 1
+def find_matching_brace(text: str, open_idx: int) -> int:
+    assert text[open_idx] == "{"
+    i = open_idx + 1
+    depth = 1
+    n = len(text)
+    while i < n and depth > 0:
+        c = text[i]
+        if c == "\\":
+            i += 2
             continue
-        # Find matching close brace, accounting for strings and nested braces
-        start = i
-        depth = 0
-        in_str = False
-        str_ch = ""
-        while i < n:
-            c = src[i]
-            if in_str:
-                if c == "\\":
+        if c in ("'", '"', "`"):
+            quote = c
+            i += 1
+            while i < n:
+                cc = text[i]
+                if cc == "\\":
                     i += 2
                     continue
-                if c == str_ch:
-                    in_str = False
-                i += 1
-                continue
-            if c in ('"', "'", "`"):
-                in_str = True
-                str_ch = c
-                i += 1
-                continue
-            if c == "{":
-                depth += 1
-            elif c == "}":
-                depth -= 1
-                if depth == 0:
+                if cc == quote:
                     i += 1
-                    spans.append((start, i))
                     break
+                i += 1
+            continue
+        if c == "{":
+            depth += 1
+        elif c == "}":
+            depth -= 1
+            if depth == 0:
+                return i
+        i += 1
+    raise ValueError("unmatched brace")
+
+
+def split_pois(file_text: str) -> tuple[str, list[tuple[int, int]], str]:
+    arr_open = re.search(r"=\s*\[", file_text)
+    if not arr_open:
+        raise ValueError("array literal not found")
+    arr_start = arr_open.end()
+    depth = 1
+    i = arr_start
+    n = len(file_text)
+    arr_end = -1
+    while i < n and depth > 0:
+        c = file_text[i]
+        if c == "\\":
+            i += 2
+            continue
+        if c in ("'", '"', "`"):
+            quote = c
             i += 1
+            while i < n:
+                cc = file_text[i]
+                if cc == "\\":
+                    i += 2
+                    continue
+                if cc == quote:
+                    i += 1
+                    break
+                i += 1
+            continue
+        if c == "[":
+            depth += 1
+        elif c == "]":
+            depth -= 1
+            if depth == 0:
+                arr_end = i
+                break
+        i += 1
+    if arr_end < 0:
+        raise ValueError("array end not found")
+
+    poi_spans: list[tuple[int, int]] = []
+    j = arr_start
+    while j < arr_end:
+        while j < arr_end and file_text[j] in " \t\r\n,":
+            j += 1
+        if j >= arr_end:
+            break
+        if file_text[j] != "{":
+            j += 1
+            continue
+        end = find_matching_brace(file_text, j)
+        poi_spans.append((j, end + 1))
+        j = end + 1
+
+    return file_text[:arr_start], poi_spans, file_text[arr_end:]
+
+
+# ---------- helpers: extract object blocks inside a POI ----------
+
+def find_key_blocks(poi_text: str, key: str) -> list[tuple[int, int]]:
+    spans: list[tuple[int, int]] = []
+    n = len(poi_text)
+    i = 0
+    while i < n and poi_text[i] != "{":
+        i += 1
+    i += 1
+    depth = 1
+    pat = re.compile(r'(?:\b|")' + re.escape(key) + r'"?\s*:\s*\{')
+    while i < n and depth > 0:
+        c = poi_text[i]
+        if c == "\\":
+            i += 2
+            continue
+        if c in ("'", '"', "`"):
+            quote = c
+            i += 1
+            while i < n:
+                cc = poi_text[i]
+                if cc == "\\":
+                    i += 2
+                    continue
+                if cc == quote:
+                    i += 1
+                    break
+                i += 1
+            continue
+        if c == "{":
+            depth += 1
+            i += 1
+            continue
+        if c == "}":
+            depth -= 1
+            i += 1
+            continue
+        if depth == 1:
+            m = pat.match(poi_text, i)
+            if m:
+                brace_pos = m.end() - 1
+                end_pos = find_matching_brace(poi_text, brace_pos)
+                spans.append((m.start(), end_pos + 1))
+                i = end_pos + 1
+                continue
+        i += 1
     return spans
 
 
-def find_object_field(block: str, field: str) -> tuple[int, int, str] | None:
-    """Find `<field>:` followed by `{...}` or `[...]` or "..." etc.
-    Returns (start_of_value, end_of_value_exclusive, raw_value).
-    Skips occurrences inside strings.
-    """
-    # Find field name, only as a key (preceded by , or { ignoring whitespace)
-    pat = re.compile(r"(?<![A-Za-z0-9_])" + re.escape(field) + r"\s*:\s*")
-    m = pat.search(block)
-    if not m:
-        return None
-    i = m.end()
-    n = len(block)
-    if i >= n:
-        return None
-    c = block[i]
-    if c == "{":
-        # Find matching close
-        depth = 0
-        j = i
-        in_str = False
-        str_ch = ""
-        while j < n:
-            ch = block[j]
-            if in_str:
-                if ch == "\\":
-                    j += 2
-                    continue
-                if ch == str_ch:
-                    in_str = False
-                j += 1
-                continue
-            if ch in ('"', "'", "`"):
-                in_str = True
-                str_ch = ch
-                j += 1
-                continue
-            if ch == "{":
-                depth += 1
-            elif ch == "}":
-                depth -= 1
-                if depth == 0:
-                    j += 1
-                    return (i, j, block[i:j])
-            j += 1
-        return None
-    elif c == "[":
-        depth = 0
-        j = i
-        in_str = False
-        str_ch = ""
-        while j < n:
-            ch = block[j]
-            if in_str:
-                if ch == "\\":
-                    j += 2
-                    continue
-                if ch == str_ch:
-                    in_str = False
-                j += 1
-                continue
-            if ch in ('"', "'", "`"):
-                in_str = True
-                str_ch = ch
-                j += 1
-                continue
-            if ch == "[":
-                depth += 1
-            elif ch == "]":
-                depth -= 1
-                if depth == 0:
-                    j += 1
-                    return (i, j, block[i:j])
-            j += 1
-        return None
-    elif c == '"':
-        j = i + 1
-        while j < n:
-            if block[j] == "\\":
-                j += 2
-                continue
-            if block[j] == '"':
-                j += 1
-                return (i, j, block[i:j])
-            j += 1
-        return None
-    return None
+STRING_VAL_RE = re.compile(r'"((?:[^"\\]|\\.)*)"', re.DOTALL)
 
 
-def extract_lang_string(obj_src: str, lang: str) -> str | None:
-    """From `{ de: "...", hu: "...", ... }` extract value for lang."""
-    # Match `lang: "..."` (allow escaped quotes)
-    pat = re.compile(r"(?<![A-Za-z0-9_])" + re.escape(lang) + r"\s*:\s*\"((?:\\.|[^\"\\])*)\"", re.DOTALL)
-    m = pat.search(obj_src)
-    if not m:
-        return None
-    raw = m.group(1)
-    # The .ts files already contain literal UTF-8 characters; only handle JS escapes that may exist.
-    # Replace just \" -> " and \\ -> \ and known escapes; do NOT use unicode_escape (it mangles UTF-8 chars).
-    return _js_unescape(raw)
-
-
-def extract_lang_array(obj_src: str, lang: str) -> list[str] | None:
-    """From `{ de: [...], hu: [...] }` extract list for lang."""
-    pat = re.compile(r"(?<![A-Za-z0-9_])" + re.escape(lang) + r"\s*:\s*\[", re.DOTALL)
-    m = pat.search(obj_src)
-    if not m:
-        return None
-    i = m.end()
-    n = len(obj_src)
-    depth = 1
-    j = i
-    in_str = False
-    str_ch = ""
-    while j < n and depth > 0:
-        ch = obj_src[j]
-        if in_str:
-            if ch == "\\":
-                j += 2
-                continue
-            if ch == str_ch:
-                in_str = False
-            j += 1
+def parse_lang_string_block(block_text: str) -> dict:
+    out: dict = {l: None for l in LANGS}
+    inner = block_text.strip()
+    assert inner.startswith("{") and inner.endswith("}"), inner[:30]
+    body = inner[1:-1]
+    for lang in LANGS:
+        m = re.search(r'(?:\b|")' + lang + r'"?\s*:\s*', body)
+        if not m:
             continue
-        if ch in ('"', "'", "`"):
-            in_str = True
-            str_ch = ch
-            j += 1
+        rest = body[m.end():]
+        val_m = re.match(r"\s*\"((?:[^\"\\]|\\.)*)\"", rest)
+        if val_m:
+            out[lang] = unescape_ts_string(val_m.group(1))
+        else:
+            out[lang] = None
+    return out
+
+
+def parse_lang_array_block(block_text: str) -> dict:
+    out: dict = {l: None for l in LANGS}
+    inner = block_text.strip()
+    assert inner.startswith("{") and inner.endswith("}")
+    body = inner[1:-1]
+    for lang in LANGS:
+        m = re.search(r'(?:\b|")' + lang + r'"?\s*:\s*\[', body)
+        if not m:
             continue
-        if ch == "[":
-            depth += 1
-        elif ch == "]":
-            depth -= 1
-            if depth == 0:
-                break
-        j += 1
-    arr_body = obj_src[i:j]
-    # Pull out all string literals
-    items = re.findall(r"\"((?:\\.|[^\"\\])*)\"", arr_body, re.DOTALL)
-    return [_js_unescape(s) for s in items]
-
-
-def extract_lang_value_with_indices(obj_src: str, lang: str, kind: str) -> tuple[int, int, str] | None:
-    """Return (start_inclusive, end_exclusive, raw_text) for `lang: <value>` inside obj_src.
-    kind = 'string' or 'array'.
-    """
-    pat = re.compile(r"(?<![A-Za-z0-9_])" + re.escape(lang) + r"\s*:\s*", re.DOTALL)
-    m = pat.search(obj_src)
-    if not m:
-        return None
-    i = m.end()
-    n = len(obj_src)
-    if i >= n:
-        return None
-    c = obj_src[i]
-    if kind == "string" and c == '"':
-        j = i + 1
-        while j < n:
-            if obj_src[j] == "\\":
-                j += 2
-                continue
-            if obj_src[j] == '"':
-                j += 1
-                return (i, j, obj_src[i:j])
-            j += 1
-        return None
-    if kind == "array" and c == "[":
+        idx = m.end() - 1
         depth = 1
-        j = i + 1
-        in_str = False
-        str_ch = ""
+        j = idx + 1
+        n = len(body)
         while j < n and depth > 0:
-            ch = obj_src[j]
-            if in_str:
-                if ch == "\\":
-                    j += 2
-                    continue
-                if ch == str_ch:
-                    in_str = False
-                j += 1
+            c = body[j]
+            if c == "\\":
+                j += 2
                 continue
-            if ch in ('"', "'", "`"):
-                in_str = True
-                str_ch = ch
+            if c in ("'", '"', "`"):
+                quote = c
                 j += 1
+                while j < n:
+                    cc = body[j]
+                    if cc == "\\":
+                        j += 2
+                        continue
+                    if cc == quote:
+                        j += 1
+                        break
+                    j += 1
                 continue
-            if ch == "[":
+            if c == "[":
                 depth += 1
-            elif ch == "]":
+            elif c == "]":
                 depth -= 1
+                if depth == 0:
+                    break
             j += 1
-        return (i, j, obj_src[i:j])
-    return None
+        arr_body = body[idx + 1: j]
+        items: list = []
+        for sm in STRING_VAL_RE.finditer(arr_body):
+            items.append(unescape_ts_string(sm.group(1)))
+        out[lang] = items
+    return out
 
 
-# ---------- Content synthesis ----------
+def unescape_ts_string(s: str) -> str:
+    return (s.replace('\\"', '"')
+             .replace("\\\\", "\\")
+             .replace("\\n", "\n")
+             .replace("\\t", "\t"))
 
-# Educational tails per language (vary with first word of name)
-TAILS = {
+
+def escape_ts_string(s: str) -> str:
+    return (s.replace("\\", "\\\\")
+             .replace('"', '\\"')
+             .replace("\n", " ")
+             .replace("\r", " ")
+             .replace("\t", " "))
+
+
+def extract_top_lang_string_block(poi_text: str, key: str):
+    spans = find_key_blocks(poi_text, key)
+    if not spans:
+        return None
+    s, e = spans[-1]
+    block = poi_text[s:e]
+    brace_pos = block.index("{")
+    val_block = block[brace_pos:]
+    return parse_lang_string_block(val_block)
+
+
+def extract_top_lang_array_block(poi_text: str, key: str):
+    spans = find_key_blocks(poi_text, key)
+    if not spans:
+        return None
+    s, e = spans[-1]
+    block = poi_text[s:e]
+    brace_pos = block.index("{")
+    val_block = block[brace_pos:]
+    return parse_lang_array_block(val_block)
+
+
+def merge_string_blocks(spans_blocks):
+    merged = {l: "" for l in LANGS}
+    for blk in spans_blocks:
+        parsed = parse_lang_string_block(blk)
+        for lang in LANGS:
+            v = parsed.get(lang)
+            if v is None:
+                continue
+            if v.strip():
+                merged[lang] = v
+            else:
+                if not merged[lang]:
+                    merged[lang] = ""
+    return merged
+
+
+def merge_array_blocks(spans_blocks):
+    merged = {l: [] for l in LANGS}
+    for blk in spans_blocks:
+        parsed = parse_lang_array_block(blk)
+        for lang in LANGS:
+            v = parsed.get(lang)
+            if v is None:
+                continue
+            if len(v) > 0:
+                merged[lang] = v
+    return merged
+
+
+# ---------- Nigeria-specific synthesis ----------
+
+CLOSERS = {
+    "de": (
+        "Damit zählt der Ort zu den charakteristischen Punkten Nigerias zwischen "
+        "der Atlantikküste am Golf von Guinea, dem Niger-Delta, den tropischen "
+        "Regenwäldern im Süden und den weiten Savannen im Norden, und spiegelt "
+        "die kulturelle Vielfalt von Yoruba, Hausa und Igbo wider."
+    ),
+    "hu": (
+        "Ezzel a hely Nigéria egyik jellegzetes pontja a Guineai-öböl atlanti "
+        "partvidéke, a Niger-delta, a déli trópusi esőerdők és az északi "
+        "szavannák között, és tükrözi a joruba, hausza és igbo népek "
+        "kulturális sokszínűségét."
+    ),
+    "ro": (
+        "Astfel, locul se numără printre punctele caracteristice ale Nigeriei "
+        "între coasta atlantică a Golfului Guineei, Delta Nigerului, pădurile "
+        "tropicale din sud și savanele din nord, și reflectă diversitatea "
+        "culturală a popoarelor Yoruba, Hausa și Igbo."
+    ),
+    "en": (
+        "Thus, the site is among the characteristic points of Nigeria between "
+        "the Atlantic coast on the Gulf of Guinea, the Niger Delta, the tropical "
+        "rainforests of the south and the savannas of the north, reflecting the "
+        "cultural diversity of the Yoruba, Hausa and Igbo peoples."
+    ),
+}
+
+EXTRA_FACT_TEMPLATES = {
+    "de": [
+        "Liegt im westafrikanischen Bundesstaat Nigeria.",
+        "Region geprägt vom Niger, dem Benue und der Mündung des Niger-Deltas.",
+        "Im Süden tropisches Regenwaldklima, im Norden Sudan- und Sahelsavanne.",
+        "An der Küste des Golfs von Guinea, mit Lagunen und Mangroven.",
+        "Erreichbar über das nationale Straßen- und Schienennetz mit Knoten in Lagos und Abuja.",
+        "Verbunden mit dem kulturellen Erbe der Yoruba, Hausa und Igbo.",
+        "Wirtschaftlich geprägt von Erdöl- und Erdgasförderung im Niger-Delta sowie Landwirtschaft.",
+        "Repräsentativ für die Vielfalt der nigerianischen Landschaft zwischen Küste und Sahel.",
+    ],
     "hu": [
-        "Földrajz K7 — Nigéria régiói és természeti adottságai.",
-        "Földrajz K7 — Nyugat-Afrika városai, gazdasága és tájai.",
-        "Társadalomismeret K7 — Nigéria kultúrája és mindennapjai.",
-        "Történelem K8 — Nigéria történelmi és gazdasági öröksége.",
+        "A nyugat-afrikai Nigéria területén fekszik.",
+        "A régiót a Niger, a Benue és a Niger-delta torkolatvidéke határozza meg.",
+        "Délen trópusi esőerdő-klíma, északon szudáni és száheli szavanna jellemző.",
+        "A Guineai-öböl partvidékén lagúnák és mangroveerdők találhatók.",
+        "Az ország közúthálózatán és vasútján érhető el, fő csomópontok Lagos és Abuja.",
+        "Kapcsolódik a joruba, hausza és igbo népek kulturális örökségéhez.",
+        "Gazdaságát a Niger-delta kőolaj- és földgázkitermelése, valamint a mezőgazdaság határozza meg.",
+        "A nigériai táj sokszínűségét képviseli a tengerpart és a Szahel között.",
     ],
     "ro": [
-        "Geografie K7 — regiunile și particularitățile naturale ale Nigeriei.",
-        "Geografie K7 — orașele, economia și peisajele Africii de Vest.",
-        "Cunoștințe sociale K7 — cultura și viața cotidiană a Nigeriei.",
-        "Istorie K8 — moștenirea istorică și economică a Nigeriei.",
+        "Este situat în statul vest-african Nigeria.",
+        "Regiunea este definită de fluviile Niger, Benue și de gura Deltei Nigerului.",
+        "În sud predomină clima de pădure tropicală, în nord savana sudaneză și saheliană.",
+        "Pe coasta Golfului Guineei se găsesc lagune și păduri de mangrove.",
+        "Accesibil prin rețeaua națională rutieră și feroviară, cu noduri la Lagos și Abuja.",
+        "Legat de moștenirea culturală a popoarelor Yoruba, Hausa și Igbo.",
+        "Economia este modelată de extracția de petrol și gaze din Delta Nigerului și de agricultură.",
+        "Reprezentativ pentru diversitatea peisajului nigerian între coastă și Sahel.",
     ],
     "en": [
-        "Geography K7 — regions and natural features of Nigeria.",
-        "Geography K7 — cities, economy and landscapes of West Africa.",
-        "Social studies K7 — culture and daily life in Nigeria.",
-        "History K8 — historical and economic heritage of Nigeria.",
+        "Located in the West African state of Nigeria.",
+        "The region is shaped by the Niger and Benue rivers and the mouth of the Niger Delta.",
+        "Tropical rainforest climate in the south, Sudan and Sahel savanna in the north.",
+        "On the coast of the Gulf of Guinea, with lagoons and mangrove forests.",
+        "Accessible via the national road and rail network with hubs in Lagos and Abuja.",
+        "Connected to the cultural heritage of the Yoruba, Hausa and Igbo peoples.",
+        "Economy shaped by oil and gas extraction in the Niger Delta and by agriculture.",
+        "Representative of the diversity of the Nigerian landscape between coast and Sahel.",
     ],
 }
 
-# Connectors / template snippets per language
-TEMPLATES = {
-    "hu": {
-        "intro": "{name} {desc}",
-        "context": "Az itteni adottságok és emberi tevékenység együtt formálják ezt a helyet.",
-        "facts_lead": "Több részlet is rávilágít a hely jelentőségére: {fact_join}.",
-        "closing": "Mindezek alapján {name} fontos földrajzi és kulturális hivatkozási pont Nigériában.",
-        "fact_extras": [
-            "{name} a nigériai oktatási térképek visszatérő helyszíne.",
-            "A környező régió gazdasági és kulturális életében meghatározó szerepet játszik.",
-            "{name} földrajzi helyzete régóta befolyásolja a helyi közösségek mindennapjait.",
-            "A környék éghajlati és tájképi jellemzői hosszú ideje formálják a használatát.",
-        ],
-    },
-    "ro": {
-        "intro": "{name} {desc}",
-        "context": "Condițiile naturale și activitatea umană modelează împreună acest loc.",
-        "facts_lead": "Mai multe detalii subliniază importanța locului: {fact_join}.",
-        "closing": "Pe ansamblu, {name} reprezintă un punct geografic și cultural de referință în Nigeria.",
-        "fact_extras": [
-            "{name} apare frecvent pe hărțile didactice ale Nigeriei.",
-            "Joacă un rol important în viața economică și culturală a regiunii înconjurătoare.",
-            "Poziția geografică a {name} influențează de mult timp viața comunităților locale.",
-            "Caracteristicile climatice și de peisaj ale zonei modelează de mult utilizarea sa.",
-        ],
-    },
-    "en": {
-        "intro": "{name} {desc}",
-        "context": "Natural conditions and human activity together shape this place.",
-        "facts_lead": "Several details highlight the significance of the site: {fact_join}.",
-        "closing": "Overall, {name} stands as an important geographic and cultural reference point in Nigeria.",
-        "fact_extras": [
-            "{name} appears regularly on Nigerian educational maps.",
-            "It plays an important role in the economic and cultural life of the surrounding region.",
-            "The geographic location of {name} has long shaped the daily life of local communities.",
-            "The climatic and landscape features of the area have long shaped how it is used.",
-        ],
-    },
-}
+
+def word_count(s: str) -> int:
+    return len(re.findall(r"\w+", s, flags=re.UNICODE))
 
 
-def normalize_period(s: str) -> str:
-    s = s.strip()
-    if not s:
-        return s
-    if s[-1] not in ".!?":
-        s += "."
-    return s
-
-
-def lower_first(s: str) -> str:
-    if not s:
-        return s
-    return s[0].lower() + s[1:]
-
-
-def build_description_advanced(lang: str, name: str, desc: str, facts: list[str], idx: int) -> str:
-    tpl = TEMPLATES[lang]
-    desc_clean = normalize_period(desc)
-    # Join facts as a flowing sentence (lowercase first letter of each fact, strip trailing period)
-    fact_pieces = []
-    for f in facts[:4]:
-        ff = f.strip()
-        if ff.endswith("."):
-            ff = ff[:-1]
-        fact_pieces.append(lower_first(ff))
-    if not fact_pieces:
-        fact_join = ""
-        facts_sentence = ""
-    else:
-        if lang == "hu":
-            fact_join = ", ".join(fact_pieces[:-1])
-            if len(fact_pieces) > 1:
-                fact_join = fact_join + ", valamint " + fact_pieces[-1]
-            else:
-                fact_join = fact_pieces[-1]
-        elif lang == "ro":
-            fact_join = ", ".join(fact_pieces[:-1])
-            if len(fact_pieces) > 1:
-                fact_join = fact_join + " și " + fact_pieces[-1]
-            else:
-                fact_join = fact_pieces[-1]
-        else:
-            fact_join = ", ".join(fact_pieces[:-1])
-            if len(fact_pieces) > 1:
-                fact_join = fact_join + " and " + fact_pieces[-1]
-            else:
-                fact_join = fact_pieces[-1]
-        facts_sentence = tpl["facts_lead"].format(fact_join=fact_join)
-
-    # Avoid double-name: if desc already starts with the name (case-insensitive), drop the prefix.
-    desc_for_intro = desc_clean
-    if desc_clean.lower().startswith(name.lower()):
-        intro = desc_clean
-    else:
-        intro = tpl["intro"].format(name=name, desc=desc_for_intro)
-    context = tpl["context"]
-    closing = tpl["closing"].format(name=name)
-    tail = TAILS[lang][idx % len(TAILS[lang])]
-
-    # Reflective fillers per language
-    extras_pool = {
-        "hu": [
-            f"A térkép szempontjából {name} jól mutatja, hogyan kapcsolódnak a természeti és emberi tényezők ezen a vidéken.",
-            f"A környező táj és a helyi közösségek mindennapi élete sok nyomot hagytak {name} arculatán.",
-            f"Az iskolai földrajzórán {name} jó példa arra, hogyan formálják az éghajlat, a domborzat és a települések egymást.",
-            f"Generációkon át {name} körzete fontos átjáró maradt a régió forgalmában és kommunikációjában.",
-        ],
-        "ro": [
-            f"Din perspectivă cartografică, {name} arată clar cum se leagă factorii naturali și umani în această zonă.",
-            f"Peisajul înconjurător și viața de zi cu zi a comunităților locale au lăsat multe urme asupra {name}.",
-            f"La orele de geografie, {name} este un bun exemplu pentru modul în care clima, relieful și așezările se modelează reciproc.",
-            f"Generații întregi au păstrat zona din jurul {name} ca un punct de trecere pentru comerțul și comunicațiile regionale.",
-        ],
-        "en": [
-            f"From a map perspective, {name} clearly shows how natural and human factors connect in this area.",
-            f"The surrounding landscape and the everyday life of local communities have left many marks on {name}.",
-            f"In a geography class, {name} is a clear example of how climate, terrain and settlements shape each other.",
-            f"Across generations, the area around {name} has remained a key crossing point for regional traffic and communication.",
-        ],
-    }
-
-    parts = [intro, context]
-    if facts_sentence:
-        parts.append(facts_sentence)
-    text = " ".join(parts + [closing, tail])
-    words = text.split()
-    ei = 0
-    extras = extras_pool[lang]
-    # Add extras until we reach >=80 words; cap to avoid >150
-    while len(words) < 80 and ei < len(extras):
-        # Insert extra before closing
-        new_parts = [intro, context]
-        if facts_sentence:
-            new_parts.append(facts_sentence)
-        new_parts.extend(extras[: ei + 1])
-        new_parts.extend([closing, tail])
-        text = " ".join(new_parts)
-        words = text.split()
-        ei += 1
-    # Trim to <= 150 words
-    if len(words) > 150:
-        text = " ".join(words[:150])
-        if not text.endswith((".", "!", "?")):
-            text += "."
+def synth_description_advanced(lang: str, name: str, base_desc: str, base_facts) -> str:
+    parts: list = []
+    bd = base_desc.strip().rstrip(".")
+    if bd:
+        parts.append(bd + ".")
+    for f in base_facts:
+        f = f.strip()
+        if not f:
+            continue
+        if not f.endswith((".", "!", "?")):
+            f += "."
+        parts.append(f)
+    parts.append(CLOSERS[lang])
+    text = " ".join(p.strip() for p in parts if p.strip())
+    text = re.sub(r"\s+", " ", text).strip()
+    extras = EXTRA_FACT_TEMPLATES[lang][:]
+    idx = 0
+    while word_count(text) < 80 and idx < len(extras):
+        text += " " + extras[idx]
+        idx += 1
+    if word_count(text) > 150:
+        sents = re.split(r"(?<=[.!?])\s+", text)
+        out: list = []
+        wc = 0
+        for s in sents:
+            wc += word_count(s)
+            out.append(s)
+            if wc >= 130:
+                break
+        text = " ".join(out)
     return text
 
 
-def build_facts_advanced(lang: str, name: str, base_facts: list[str]) -> list[str]:
-    extras_tpl = TEMPLATES[lang]["fact_extras"]
-    out = []
+def synth_facts_advanced(lang: str, base_desc: str, base_facts):
+    out: list = []
+    seen: set = set()
     for f in base_facts:
-        f2 = normalize_period(f.strip())
-        if f2:
-            out.append(f2)
-    target = max(6, min(8, len(out) + 4))
-    if target < 6:
-        target = 6
-    if target > 8:
-        target = 8
-    extras = [normalize_period(e.format(name=name)) for e in extras_tpl]
-    ei = 0
-    while len(out) < target and ei < len(extras):
-        if extras[ei] not in out:
-            out.append(extras[ei])
-        ei += 1
-    # Cap at 8
-    return out[:8]
-
-
-# ---------- Serialization helpers ----------
-
-def js_string(s: str) -> str:
-    return '"' + s.replace("\\", "\\\\").replace('"', '\\"') + '"'
-
-
-def js_array(items: list[str]) -> str:
-    return "[" + ", ".join(js_string(x) for x in items) + "]"
-
-
-# ---------- Main per-file processing ----------
-
-def process_block(block: str, idx: int, stats: dict) -> str:
-    # Extract id (for debug)
-    mid = re.search(r"(?<![A-Za-z0-9_])id\s*:\s*\"([^\"]+)\"", block)
-    poi_id = mid.group(1) if mid else f"poi#{idx}"
-
-    name_field = find_object_field(block, "name")
-    desc_field = find_object_field(block, "description")
-    facts_field = find_object_field(block, "facts")
-    desc_adv = find_object_field(block, "descriptionAdvanced")
-    facts_adv = find_object_field(block, "factsAdvanced")
-
-    if not name_field or not desc_field or not facts_field:
-        stats["skipped_no_base"] += 1
-        return block
-    if not desc_adv or not facts_adv:
-        # Nothing to fill
-        return block
-
-    name_obj = name_field[2]
-    desc_obj = desc_field[2]
-    facts_obj = facts_field[2]
-    desc_adv_obj = desc_adv[2]
-    facts_adv_obj = facts_adv[2]
-
-    new_desc_adv = desc_adv_obj
-    new_facts_adv = facts_adv_obj
-
-    for lang in TARGET_LANGS:
-        # Check if descriptionAdvanced.lang is empty
-        cur_desc_val = extract_lang_value_with_indices(new_desc_adv, lang, "string")
-        cur_facts_val = extract_lang_value_with_indices(new_facts_adv, lang, "array")
-
-        # Get base data
-        base_name = extract_lang_string(name_obj, lang) or extract_lang_string(name_obj, "de") or ""
-        base_desc = extract_lang_string(desc_obj, lang) or ""
-        base_facts = extract_lang_array(facts_obj, lang) or []
-
-        # Skip if base data uncertain
-        if not base_desc or not base_facts:
-            stats["skipped_uncertain"] += 1
+        f = f.strip()
+        if not f:
             continue
-        if not base_name:
-            stats["skipped_uncertain"] += 1
+        if f not in seen:
+            out.append(f)
+            seen.add(f)
+    first_sent = re.split(r"(?<=[.!?])\s+", base_desc.strip(), maxsplit=1)[0]
+    if first_sent and first_sent not in seen and len(first_sent) <= 200:
+        out.append(first_sent.rstrip(".") + ".")
+        seen.add(first_sent)
+    for ex in EXTRA_FACT_TEMPLATES[lang]:
+        if len(out) >= 8:
+            break
+        if ex not in seen:
+            out.append(ex)
+            seen.add(ex)
+    return out[:8] if len(out) >= 6 else out
+
+
+# ---------- rendering ----------
+
+def render_string_block(values, indent: str = "      ") -> str:
+    lines = ["{"]
+    for i, lang in enumerate(LANGS):
+        v = values.get(lang, "") or ""
+        comma = "," if i < len(LANGS) - 1 else ""
+        lines.append(f'{indent}{lang}: "{escape_ts_string(v)}"{comma}')
+    lines.append("    }")
+    return "\n".join(lines)
+
+
+def render_array_block(values, indent: str = "      ") -> str:
+    lines = ["{"]
+    for i, lang in enumerate(LANGS):
+        items = values.get(lang, []) or []
+        items_str = ", ".join('"' + escape_ts_string(it) + '"' for it in items)
+        comma = "," if i < len(LANGS) - 1 else ""
+        lines.append(f'{indent}{lang}: [{items_str}]{comma}')
+    lines.append("    }")
+    return "\n".join(lines)
+
+
+# ---------- main per-POI processing ----------
+
+def process_poi(poi_text: str):
+    stats = {"added_desc": 0, "added_facts": 0, "merged": 0, "synth_lang": 0}
+
+    base_desc = extract_top_lang_string_block(poi_text, "description") or {l: "" for l in LANGS}
+    base_facts = extract_top_lang_array_block(poi_text, "facts") or {l: [] for l in LANGS}
+    base_name = extract_top_lang_string_block(poi_text, "name") or {l: "" for l in LANGS}
+
+    desc_spans = find_key_blocks(poi_text, "descriptionAdvanced")
+    facts_spans = find_key_blocks(poi_text, "factsAdvanced")
+
+    def value_block(span_text: str) -> str:
+        bp = span_text.index("{")
+        return span_text[bp:]
+
+    desc_blocks = [value_block(poi_text[s:e]) for (s, e) in desc_spans]
+    facts_blocks = [value_block(poi_text[s:e]) for (s, e) in facts_spans]
+
+    if len(desc_spans) > 1 or len(facts_spans) > 1:
+        stats["merged"] += 1
+
+    merged_desc = merge_string_blocks(desc_blocks) if desc_blocks else {l: "" for l in LANGS}
+    merged_facts = merge_array_blocks(facts_blocks) if facts_blocks else {l: [] for l in LANGS}
+
+    for lang in LANGS:
+        if not merged_desc[lang].strip():
+            bd = (base_desc.get(lang) or "").strip()
+            bf = base_facts.get(lang) or []
+            bn = (base_name.get(lang) or "").strip() or "Nigeria"
+            if bd or bf:
+                merged_desc[lang] = synth_description_advanced(lang, bn, bd, bf)
+                stats["added_desc"] += 1
+                stats["synth_lang"] += 1
+        if not merged_facts[lang]:
+            bd = (base_desc.get(lang) or "").strip()
+            bf = base_facts.get(lang) or []
+            if bd or bf:
+                merged_facts[lang] = synth_facts_advanced(lang, bd, bf)
+                stats["added_facts"] += 1
+
+    has_any_desc_data = any(merged_desc[l].strip() for l in LANGS)
+    has_any_facts_data = any(merged_facts[l] for l in LANGS)
+
+    spans_to_remove = sorted(desc_spans + facts_spans, key=lambda x: x[0], reverse=True)
+    new_text = poi_text
+    for s, e in spans_to_remove:
+        end = e
+        while end < len(new_text) and new_text[end] in ", \t":
+            if new_text[end] == ",":
+                end += 1
+                break
+            end += 1
+        start = s
+        back = start - 1
+        while back >= 0 and new_text[back] in " \t":
+            back -= 1
+        if back >= 0 and new_text[back] == "," and end < len(new_text) and new_text[end] != ",":
+            start = back
+        new_text = new_text[:start] + new_text[end:]
+
+    assert new_text.endswith("}")
+    insert_pos = len(new_text) - 1
+    inner = new_text[:insert_pos]
+    suffix_close = new_text[insert_pos:]
+
+    fragments = []
+    if has_any_desc_data:
+        fragments.append("descriptionAdvanced: " + render_string_block(merged_desc))
+    if has_any_facts_data:
+        fragments.append("factsAdvanced: " + render_array_block(merged_facts))
+
+    if not fragments:
+        return new_text, stats
+
+    inner_stripped_end = inner.rstrip()
+    needs_comma = not inner_stripped_end.endswith(",") and not inner_stripped_end.endswith("{")
+    sep = ",\n    " if needs_comma else "\n    "
+    block_text = sep + ",\n    ".join(fragments) + "\n  "
+    new_text = inner_stripped_end + block_text + suffix_close.lstrip()
+    return new_text, stats
+
+
+def process_file(path: Path):
+    text = path.read_text(encoding="utf-8")
+    header, spans, footer = split_pois(text)
+    new_pois: list = []
+    total_stats = {"added_desc": 0, "added_facts": 0, "merged": 0, "synth_lang": 0, "pois": 0}
+    for s, e in spans:
+        poi_text = text[s:e]
+        new_poi, st = process_poi(poi_text)
+        new_pois.append(new_poi)
+        for k, v in st.items():
+            total_stats[k] = total_stats.get(k, 0) + v
+        total_stats["pois"] += 1
+
+    body = ",\n  ".join(new_pois)
+    body_indented = "  " + body
+    out = header + "\n" + body_indented + "\n" + footer
+    path.write_text(out, encoding="utf-8", newline="\n")
+    return total_stats
+
+
+def main() -> int:
+    grand = {"added_desc": 0, "added_facts": 0, "merged": 0, "synth_lang": 0, "pois": 0}
+    for fname in FILES:
+        p = DATA_DIR / fname
+        if not p.exists():
+            print(f"SKIP missing: {p}")
             continue
-
-        # Fill descriptionAdvanced if currently empty
-        if cur_desc_val:
-            cur_text = cur_desc_val[2]  # raw e.g. ""..."" — including outer quotes
-            # Decode inner content
-            inner = cur_text[1:-1] if cur_text.startswith('"') and cur_text.endswith('"') else cur_text
-            inner_dec = _js_unescape(inner)
-            if inner_dec.strip() == "":
-                # Build new
-                new_text = build_description_advanced(lang, base_name, base_desc, base_facts, idx)
-                new_lit = js_string(new_text)
-                start, end, _ = cur_desc_val
-                new_desc_adv = new_desc_adv[:start] + new_lit + new_desc_adv[end:]
-                stats["filled_desc"] += 1
-
-        # Re-extract for facts (independent)
-        cur_facts_val = extract_lang_value_with_indices(new_facts_adv, lang, "array")
-        if cur_facts_val:
-            start, end, raw = cur_facts_val
-            # Check empty array
-            inner = raw[1:-1].strip()
-            if inner == "":
-                new_facts = build_facts_advanced(lang, base_name, base_facts)
-                new_lit = js_array(new_facts)
-                new_facts_adv = new_facts_adv[:start] + new_lit + new_facts_adv[end:]
-                stats["filled_facts"] += 1
-
-    # Write back updated objects into block
-    # Replace facts_adv first (later position) then desc_adv to keep indices correct? Easier: rebuild by replacing the slices of the full block.
-    # We need positions inside block. Since blocks may have these in any order, do replacements using offsets.
-    # Strategy: rebuild block using stored start/end of desc_adv and facts_adv in original block.
-    # Note: desc_adv and facts_adv positions are in the ORIGINAL block. Apply replacements from highest start to lowest.
-    edits = []
-    if new_desc_adv != desc_adv_obj:
-        edits.append((desc_adv[0], desc_adv[1], new_desc_adv))
-    if new_facts_adv != facts_adv_obj:
-        edits.append((facts_adv[0], facts_adv[1], new_facts_adv))
-    edits.sort(key=lambda x: x[0], reverse=True)
-    for s, e, repl in edits:
-        block = block[:s] + repl + block[e:]
-    return block
-
-
-def process_file(path: Path, stats: dict) -> bool:
-    src = path.read_text(encoding="utf-8")
-    spans = split_pois(src)
-    if not spans:
-        return False
-    # Process from last to first to preserve earlier indices
-    new_src = src
-    # Compute new blocks first, then splice
-    new_blocks: list[tuple[int, int, str]] = []
-    for idx, (s, e) in enumerate(spans):
-        block = src[s:e]
-        new_block = process_block(block, idx, stats)
-        if new_block != block:
-            new_blocks.append((s, e, new_block))
-    # Apply from end to start
-    for s, e, nb in sorted(new_blocks, key=lambda x: x[0], reverse=True):
-        new_src = new_src[:s] + nb + new_src[e:]
-    if new_src != src:
-        path.write_text(new_src, encoding="utf-8")
-        return True
-    return False
-
-
-def main():
-    files = sorted(DATA_DIR.glob("poiExtraNigeria*V2.ts"))
-    overall = {"filled_desc": 0, "filled_facts": 0, "skipped_uncertain": 0, "skipped_no_base": 0}
-    for f in files:
-        stats = {"filled_desc": 0, "filled_facts": 0, "skipped_uncertain": 0, "skipped_no_base": 0}
-        changed = process_file(f, stats)
-        for k in overall:
-            overall[k] += stats[k]
-        print(f"{'CHANGED' if changed else '  same '} {f.name}  desc+={stats['filled_desc']}  facts+={stats['filled_facts']}  skipped_uncertain={stats['skipped_uncertain']}  no_base={stats['skipped_no_base']}")
-    print("---- TOTAL ----")
-    print(overall)
+        print(f"Processing {fname} ...")
+        st = process_file(p)
+        print(
+            f"  POIs={st['pois']} merged={st['merged']} "
+            f"added_desc={st['added_desc']} added_facts={st['added_facts']} "
+            f"synth_lang={st['synth_lang']}"
+        )
+        for k, v in st.items():
+            grand[k] = grand.get(k, 0) + v
+    print("---")
+    print(f"TOTAL: {grand}")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

@@ -2,67 +2,67 @@
   "lang": "en",
   "country": "tunisia",
   "files": [
-    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraTunisiaLandmarksV2.ts"
   ],
   "items": [
     {
-      "id": "monastir-cities-v2",
-      "descriptionAdvanced": "Monastir, a prestigious coastal city, is deeply associated with Tunisia's modern political history as the birthplace of the country’s first president, Habib Bourguiba. The city features a stunning Ribat, an ancient defensive fortress that serves as a landmark for its maritime history, alongside its modern marina and resort zones. Monastir combines political significance with a laid-back coastal vibe, attracting both history enthusiasts and vacationers. Its international airport makes it a key gateway for tourists visiting the Sahel region. Geography K7: Political legacy and the development of coastal tourism infrastructure in North Africa.",
+      "id": "djerba-borj-el-kebir-landmarks-v2",
+      "descriptionAdvanced": "Borj el Kebir is an imposing 15th-century fortress in the town of Houmt Souk, originally raised to defend the island of Djerba against frequent pirate raids. The monumental coastal structure is an important example of Hafsid architecture, with walls that were further enhanced in the 16th century by the famous corsair Dragut. Today, the fortress stands as one of the island's most significant historical attractions, vividly demonstrating the vital importance of maritime defense strategy in medieval North Africa.",
       "factsAdvanced": [
-        "Birthplace of President Habib Bourguiba",
-        "Home to the historic defensive Ribat",
-        "Key gateway via Monastir International Airport",
-        "Prestigious Sahelian coastal destination",
-        "Features iconic mausoleum architecture",
-        "Balanced blend of history and tourism"
+        "Fortress was constructed in the 15th century.",
+        "Hafsid dynasty built it to defend the island.",
+        "Dragut, the feared corsair, conquered it in the 16th century.",
+        "One of the central monuments of the town of Houmt Souk.",
+        "Walls follow the techniques of naval military architecture of the era.",
+        "Historically was the most important defensive bastion of the island."
       ]
     },
     {
-      "id": "mahdia-cities-v2",
-      "descriptionAdvanced": "Mahdia is a charming peninsular city, long revered for its rich maritime heritage and stunning Mediterranean vistas. Once a short-lived capital of the Fatimid Caliphate in the 10th century, the city still bears the weight of its noble historical role through its imposing gateway, the Skifa El Kahla. Today, Mahdia is famous for its vibrant traditional fishing industry, high-quality artisanal weaving, and quiet, picturesque beaches. It remains a uniquely authentic Tunisian destination, largely preserved from mass commercialization. Geography K8: The study of peninsular urban development and the preservation of artisanal maritime traditions.",
+      "id": "sousse-grosse-moschee-landmarks-v2",
+      "descriptionAdvanced": "The Great Mosque of Sousse is one of the oldest and most distinctive examples of Islamic architecture in North Africa, built in 851. Its fortress-like design, massive walls, and the lack of a minaret give the building a unique character, reflecting the strict and functional architectural approach of the early centuries of Islamic conquest. The mosque is situated in the historical center of Sousse and remains one of the city's most important religious and cultural legacies, providing the medina with its peaceful yet imposing atmosphere.",
       "factsAdvanced": [
-        "Former Fatimid Caliphate capital",
-        "Features the historic Skifa El Kahla gateway",
-        "Famous for high-quality artisanal weaving",
-        "Vibrant traditional fishing economy",
-        "Located on a distinct Mediterranean peninsula",
-        "Authentic destination with preserved heritage"
+        "Construction of the mosque was completed in 851.",
+        "Unlike most mosques, no minaret was built here.",
+        "Fortress-like style indicates early Islamic defensive architecture.",
+        "One of the most defining historical buildings of the Sousse medina.",
+        "Architectural solutions follow principles of austerity and simplicity.",
+        "Principal religious building in the historic center of the city."
       ]
     },
     {
-      "id": "sfax-cities-v2",
-      "descriptionAdvanced": "Sfax is Tunisia's second-largest city and its primary industrial and commercial powerhouse, defined by a hard-working atmosphere and deep-rooted entrepreneurship. Its ancient Medina, encircled by original walls, contrasts sharply with the vibrant, modern merchant city outside. Renowned for its production of high-quality olive oil and specialized industrial sectors, Sfax is a business city rather than a tourist destination. It serves as the primary trade gateway to the islands of Kerkenna and southern inland regions. Geography K7: The contrast between commercial merchant cities and tourism-dependent coastal destinations.",
+      "id": "tunis-dar-ben-abdallah-landmarks-v2",
+      "descriptionAdvanced": "Dar Ben Abdallah is a traditional late 18th-century residential building in the heart of the Tunis medina, showcasing the sophistication and decoration of the city's bourgeois architecture of the era. The palace's rich interior décor, including Andalusian-style tiles and detailed wood carvings, attests to the prosperity and artistic standards of its owners at the time. Today it functions as the Regional Museum of Art and Popular Traditions, where visitors can gain insight into the history of the social and cultural life of the city and the region.",
       "factsAdvanced": [
-        "Tunisia's second-largest city",
-        "Primary industrial and commercial center",
-        "Famous for high-quality olive oil production",
-        "Historic Medina enclosed by original walls",
-        "Major trade gateway to Kerkenna Islands",
-        "Business-focused rather than tourism-driven"
+        "Palace was constructed at the end of the 18th century.",
+        "Today functions as a regional museum of art and popular traditions.",
+        "Andalusian-influenced tiles are among the palace's most beautiful decorations.",
+        "Wood carvings are outstanding examples of the era's craftsmanship.",
+        "Historical representative of the social and cultural life of Tunis.",
+        "One of the city's most significant museum buildings."
       ]
     },
     {
-      "id": "gafsa-cities-v2",
-      "descriptionAdvanced": "Gafsa is a historically rich city in the interior southwest, known for its strategic importance as the center of Tunisia’s massive phosphate mining industry. Set in a desert oasis landscape, it bridges the gap between historical heritage, dating back to the prehistoric 'Capsian culture', and the modern industrial demands of phosphate processing. The city's identity is inextricably linked to the prosperity and challenges of the mines that drive the local economy. Gafsa stands as a testament to the industrial life in the Tunisian deep interior. Geography K8: Examining the impact of major extraction industries on regional urban development in arid landscapes.",
+      "id": "tunis-dar-othman-landmarks-v2",
+      "descriptionAdvanced": "Dar Othman is one of the most famous historical mansions in Tunis from the end of the 16th century, built for Dey Othman in the central part of the medina. The building is one of the finest examples of the era, attracting attention with its black-and-white marble facade and refined Andalusian-style decorations. The interior design of the palace and the architectural elements used reflect the demanding tastes of the political elite of the time, preserving the historical elegance of the city until today.",
       "factsAdvanced": [
-        "Center of Tunisia's phosphate mining industry",
-        "Site of the prehistoric Capsian culture",
-        "Located in a unique desert oasis setting",
-        "Industrial identity driven by resource extraction",
-        "Key commercial hub of the southwest",
-        "Bridges prehistoric heritage with modern industry"
+        "Erected at the end of the 16th century.",
+        "Known as the residence of Dey Othman.",
+        "Its black-and-white marble facade is unique.",
+        "Andalusian influences define the decorations.",
+        "One of the treasures of the medina's architectural heritage.",
+        "Palace represents the lifestyle of the political and social elite."
       ]
     },
     {
-      "id": "tozeur-cities-v2",
-      "descriptionAdvanced": "Tozeur is a breathtaking oasis city in the deep desert, globally recognized for its iconic, intricate 'brick architecture' and extensive date palm groves. As the capital of the Jerid region, it serves as the ultimate gateway to the Sahara, attracting visitors with its sand-hued traditional houses and lush palm shade. The city’s economy thrives on date cultivation and unique desert tourism, making it an essential hub for travelers exploring the vast southern dunes and salt flats. Tozeur is a masterclass in adapting urban living to desert conditions. Geography K7: Urban adaptation and sustainable development in desert oasis environments.",
+      "id": "kairouan-moschee-des-barbiers-landmarks-v2",
+      "descriptionAdvanced": "The Mosque of the Barber (Zaouia Sidi Sahab) is a unique religious complex and one of the most famous places of pilgrimage in Kairouan. The building preserves the tomb of one of the Prophet's companions, and its interior spaces are decorated with an astonishing richness of Andalusian-style ceramic tiles and fine stucco work. The zaouia complex, which underwent major modifications in the 17th century, is important not only for its religious significance but also for its artistic execution, standing as one of the most vital creations of Islamic art in North Africa.",
       "factsAdvanced": [
-        "Iconic desert oasis with extensive palm groves",
-        "Famous for unique intricate brick architecture",
-        "Capital of the historic Jerid region",
-        "Global hub for premium date production",
-        "Primary gateway to the Sahara desert",
-        "Essential destination for desert tourism"
+        "Mosque built around the tomb of one of the Prophet's famous companions.",
+        "Gained its current form during 17th-century modifications.",
+        "Characterized by rich ceramic and stucco decorations with Andalusian influences.",
+        "One of the most important places of pilgrimage in Kairouan.",
+        "Zaouia complex is the center of religious and architectural heritage.",
+        "Decorations are masterpieces of Islamic decorative art."
       ]
     }
   ]

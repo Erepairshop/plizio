@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "golis-range-relief-v2",
+      "descriptionAdvanced": "Das Golis-Massiv bildet das beeindruckende Rückgrat Nord-Somalias und erstreckt sich als prägnante Gebirgskette über hunderte Kilometer. Die geologische Formation besteht primär aus Kalkstein und Granit, die über Jahrmillionen durch tektonische Hebungen geformt wurden. Als natürliche Wasserscheide spielt das Massiv eine essenzielle Rolle für das lokale Klima und die Wasserversorgung der tiefer gelegenen Regionen. In den höheren Lagen finden sich einzigartige ökologische Nischen, die trotz der allgemeinen Aridität eine beachtliche Artenvielfalt beherbergen und als wichtige Lebensräume für verschiedene endemische Spezies dienen.",
+      "factsAdvanced": [
+        "Erreicht Gipfelhöhen von über 2000 Metern.",
+        "Wichtigste natürliche Wasserscheide der Region.",
+        "Geologisch geprägt durch Kalksteinformationen.",
+        "Erstreckt sich über hunderte Kilometer in Nordsomalia.",
+        "Bedeutendes Rückzugsgebiet für die lokale Fauna.",
+        "Wirkt als Barriere für feuchte Monsunwinde.",
+        "Basis für zahlreiche saisonale Flusssysteme."
+      ]
+    },
+    {
+      "id": "ogaden-plain-relief-v2",
+      "descriptionAdvanced": "Die Ogaden-Ebene stellt eine weitläufige, arid geprägte Landschaft im südöstlichen Grenzgebiet Somalias dar. Die Region ist durch ein karges Relief charakterisiert, das überwiegend von Dornbusch-Savannen und steppenartigen Abschnitten dominiert wird. Trotz der extremen klimatischen Bedingungen mit unregelmäßigen Niederschlägen stellt das Gebiet für nomadische Gemeinschaften ein unverzichtbares Weideland dar. Die Bodenbeschaffenheit besteht vornehmlich aus sedimentären Ablagerungen, die bei gelegentlichen Starkregen kurzzeitig ergrünen und somit eine fragile, aber lebenswichtige Grundlage für die pastorale Lebensweise in dieser isolierten Region schaffen.",
+      "factsAdvanced": [
+        "Vast, arides Plateau im Südosten Somalias.",
+        "Dominiert von Dornbusch- und Steppenvegetation.",
+        "Essenzielles Weideland für somalische Nomaden.",
+        "Sedimentäre Bodenbeschaffenheit überwiegt.",
+        "Extrem unregelmäßige jährliche Niederschlagsmengen.",
+        "Prägt die nomadische pastorale Lebenskultur.",
+        "Relativ flaches, horizontales Relief."
+      ]
+    },
+    {
+      "id": "cal-madow-peaks-relief-v2",
+      "descriptionAdvanced": "Die Cal-Madow-Gipfel bilden den markantesten und zugleich höchsten Teil des Cal-Madow-Gebirgszuges in Nord-Somalia. Diese Region ist geologisch durch steile, tief eingeschnittene Kalksteinklippen und zerklüftete Formationen gekennzeichnet. Aufgrund der speziellen topografischen Lage und der höheren Feuchtigkeitsaufnahme aus den Winden des Indischen Ozeans beherbergen die Gipfelregionen eine außergewöhnlich reiche Flora, die in anderen Teilen Somalias kaum vorkommt. Das Gebiet ist als ökologischer Hotspot bekannt und bietet Zuflucht für seltene endemische Pflanzenarten, die sich an das raue, aber feuchtere Mikroklima der Gipfellagen angepasst haben.",
+      "factsAdvanced": [
+        "Gehören zu den höchsten Formationen Nordsomalias.",
+        "Bestehen aus markanten, steilen Kalksteinklippen.",
+        "Ökologischer Hotspot mit hoher Pflanzenendemie.",
+        "Profitieren von feuchten Luftmassen des Indischen Ozeans.",
+        "Tief eingeschnittene Täler und zerklüftete Kämme.",
+        "Dienen als wichtiger Wasserspeicher für das Tiefland.",
+        "Höhere Feuchtigkeit ermöglicht einzigartige Waldökosysteme."
+      ]
+    },
+    {
+      "id": "jubba-valley-relief-v2",
+      "descriptionAdvanced": "Das Jubba-Talbecken ist das bedeutendste landwirtschaftliche Tiefland Somalias, geformt durch das Sedimentationspotenzial des Jubba-Flusses. Diese fruchtbare Ebene bildet eine natürliche Senke, die durch regelmäßige saisonale Überschwemmungen regelmäßig mit nährstoffreichen Alluvialböden angereichert wird. Diese topografischen Bedingungen ermöglichen eine Intensivlandwirtschaft, die im Vergleich zu anderen Teilen des Landes außergewöhnlich produktiv ist. Das Tal fungiert als Lebensader der Region, wobei das komplexe Relief aus natürlichen Deichen und Flussauen eine dynamische Landschaft schafft, die sowohl für die lokale Nahrungsmittelsicherheit als auch für die ökologische Stabilität des südlichen Somalias von zentraler Bedeutung ist.",
+      "factsAdvanced": [
+        "Wichtigste landwirtschaftliche Region des Landes.",
+        "Nährstoffreiche Alluvialböden durch Flussüberschwemmungen.",
+        "Regelmäßige saisonale Flutungsmuster definieren das Relief.",
+        "Höchste landwirtschaftliche Produktivität in Somalia.",
+        "Natürliche Sedimentbecken entlang del Jubba-Verlaufs.",
+        "Essenzielle Lebensader für die südliche Bevölkerung.",
+        "Stark durch das hydrologische System geprägte Topografie."
+      ]
+    },
+    {
+      "id": "shabelle-plateau-relief-v2",
+      "descriptionAdvanced": "Das Shabelle-Plateau erstreckt sich als ausgedehntes Hochlandgebiet entlang des Shabelle-Flusses und bildet einen geologischen Übergangsbereich. Das Plateau besteht überwiegend aus sedimentären Gesteinsschichten, die durch jahrtausendelange erosive Prozesse sanft abgetragen wurden. Diese topografische Anhebung ist von entscheidender Bedeutung für die regionale Grundwasserspeicherung, da sie als Auffangbecken für versickernde Niederschläge fungiert. Die Landschaft wird durch eine Abfolge von sanften Anhöhen und flachen Senken definiert, die trotz der arid-semiariden Bedingungen eine für den Ackerbau sowie die extensive Viehhaltung strategisch wichtige Ressourcenzone darstellen.",
+      "factsAdvanced": [
+        "Klassisches sedimentäres Hochlandrelief.",
+        "Flankiert das zentrale Shabelle-Flusssystem.",
+        "Wichtiger natürlicher Wasserspeicher für Grundwasser.",
+        "Sanft abgetragenes, erosionsgeprägtes Relief.",
+        "Strategische Zone für Viehhaltung und Ackerbau.",
+        "Besteht primär aus Ablagerungsgesteinen.",
+        "Sanfte topografische Übergangszone."
+      ]
+    }
+  ]
+}

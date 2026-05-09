@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-bloemfontein-cities-v2",
+      "descriptionAdvanced": "Bloemfontein, Dél-Afrika igazságszolgáltatási fővárosa, a Szabadállam tartomány központja. A 'rózsák városaként' ismert település jelentős szerepet játszik az ország közigazgatásában, itt található a Legfelsőbb Fellebbviteli Bíróság. Történelmileg is meghatározó, hiszen 1912-ben itt alapították az Afrikai Nemzeti Kongresszust (ANC), amely később a demokratikus Dél-Afrika építőkövévé vált. A város dinamikusan fejlődik, ötvözve a történelmi épületeket a modern dél-afrikai életérzéssel.",
+      "factsAdvanced": [
+        "1910 óta Dél-Afrika igazságszolgáltatási fővárosa.",
+        "A város nevét a holland 'virágforrás' szóból kapta.",
+        "Itt alapították meg 1912-ben az ANC-t.",
+        "A Legfelsőbb Fellebbviteli Bíróság székhelye.",
+        "Központi helyen fekszik az ország belsejében.",
+        "A terület híres a rózsatermesztési hagyományairól."
+      ]
+    },
+    {
+      "id": "southafrica-johannesburg-cities-v2",
+      "descriptionAdvanced": "Johannesburg, Dél-Afrika legnagyobb városa és gazdasági motorja, 1886-ban jött létre egy jelentős aranylelőhely felfedezését követően. A metropolisz azóta a kontinentális Afrika pénzügyi és kereskedelmi központjává nőtte ki magát. A városképet mára felhőkarcolók és gazdag üzleti negyedek uralják, emellett fontos kulturális és történelmi látnivalókkal büszkélkedhet, köztük az apartheid történetét bemutató múzeumokkal.",
+      "factsAdvanced": [
+        "Afrika legnagyobb tőzsdéjének otthona.",
+        "1886-ban alapították aranybányászati célból.",
+        "A város a Witwatersrand hegyláncon fekszik.",
+        "Több mint 5 millió lakos a nagyvárosi övezetben.",
+        "Az ország legforgalmasabb repülőtere, az OR Tambo itt található.",
+        "Sokszínű kulturális és etnikai közösségek olvasztótégelye."
+      ]
+    },
+    {
+      "id": "southafrica-durban-cities-v2",
+      "descriptionAdvanced": "Durban Dél-Afrika harmadik legnagyobb városa, amely az Indiai-óceán partján, KwaZulu-Natal tartományban helyezkedik el. A város az afrikai kontinens egyik legforgalmasabb kikötőjével rendelkezik, és a régió kereskedelmének központja. A trópusi éghajlatnak köszönhetően egész évben népszerű turisztikai célpont, híres a Golden Mile homokos strandjairól és a vibráló, multikulturális hangulatáról, ahol az afrikai, indiai és brit hatások keverednek.",
+      "factsAdvanced": [
+        "Afrika legforgalmasabb teherkikötője.",
+        "Híres az indiai származású lakosságáról.",
+        "Szubtrópusi éghajlatú, egész évben meleg.",
+        "A Golden Mile strandja világhírű.",
+        "Az első cukornád-ültetvényeket a 19. században telepítették.",
+        "Fontos nemzetközi konferenciahelyszín."
+      ]
+    },
+    {
+      "id": "southafrica-gqeberha-cities-v2",
+      "descriptionAdvanced": "Gqeberha, korábbi nevén Port Elizabeth, Dél-Afrika egyik legfontosabb kikötővárosa az Algoa-öböl partján, a Kelet-Fokföld tartományban. A város a dél-afrikai autóipar szíve, ahol a legnagyobb nemzetközi márkák tartanak fenn gyártókapacitást. A város gazdag történelmi épületekben, emellett a turizmusban is jelentős szerepet játszik a közeli vadvilág-rezervátumok és a gyönyörű tengerparti környezete miatt.",
+      "factsAdvanced": [
+        "A város nevét hivatalosan 2021-ben változtatták Gqeberha-ra.",
+        "Az autóipar egyik fő dél-afrikai központja.",
+        "Az Algoa-öböl partján fekszik.",
+        "A város első európai alapítású kikötője a 19. század elején épült.",
+        "Közeli vízi sportolási lehetőségek.",
+        "A vadvilág szafarik fontos bázisa a környéken."
+      ]
+    },
+    {
+      "id": "southafrica-east-london-cities-v2",
+      "descriptionAdvanced": "East London az egyetlen folyami kikötőváros Dél-Afrikában, a Buffalo-folyó torkolatánál, az Indiai-óceán partján. A város stratégiai pontnak számít a Kelet-Fokföld régióban, ahol a kereskedelem és az ipar mellett az oktatás is jelentős szerepet játszik. A város környéke természeti szépségeiről és a 20. századi tudománytörténeti jelentőségű celacant-felfedezéséről is ismert.",
+      "factsAdvanced": [
+        "A Buffalo-folyó és az Indiai-óceán találkozásánál fekszik.",
+        "Dél-Afrika egyetlen folyami kikötője.",
+        "1938-ban itt fedezték fel a bojtosúszós halat.",
+        "Jelentős járműgyártó üzemek otthona.",
+        "Kellemes szubtrópusi klíma.",
+        "Sokoldalú homokos partok jellemzik."
+      ]
+    }
+  ]
+}

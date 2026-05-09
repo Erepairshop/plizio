@@ -2,363 +2,46 @@
   "lang": "ro",
   "country": "somalia",
   "files": [
-    "lib/visualLab/data/poiExtraSomaliaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaLifeV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts",
     "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "hargeisa-cities-v2",
-      "descriptionAdvanced": "Hargeisa este capitala și cel mai mare oraș al statului autoproclamat Somaliland, situat în regiunea Woqooyi Galbeed din nord-vestul Somaliei. Orașul a fost reconstruit aproape în totalitate după distrugerile masive din timpul războiului civil de la sfârșitul anilor 1980, devenind un centru vibrant de comerț și educație. Hargeisa găzduiește Monumentul Memorial al Războiului, cu un avion de vânătoare MiG prăbușit, care servește drept simbol al rezistenței și reconstrucției. Situat la o altitudine de aproximativ 1.334 de metri, orașul se bucură de o climă mai blândă decât zonele de coastă, fiind înconjurat de dealurile Ogo. Este un nod vital pentru industria creșterii animalelor, exportând milioane de capete de vite către Peninsula Arabică prin portul Berbera. Geografia K7 — regiuni urbane și dezvoltare economică.",
+      "id": "golis-range-relief-v2",
+      "descriptionAdvanced": "Masivul Golis formează coloana vertebrală a nordului Somaliei, întinzându-se ca un lanț muntos proeminent pe sute de kilometri. Această formațiune geologică, alcătuită în principal din calcar și granit, a fost modelată timp de milenii prin mișcări tectonice. Ca cumpănă de ape naturală, masivul joacă un rol esențial în climatul local și în aprovizionarea cu apă a regiunilor din zonele mai joase. În altitudinile mai mari se găsesc nișe ecologice unice care, în ciuda aridității generale, găzduiesc o biodiversitate considerabilă, servind drept habitat important pentru diverse specii endemice de plante și animale.",
       "factsAdvanced": [
-        "A devenit capitala Somalilandului Britanic în 1941, înlocuind Berbera.",
-        "Populația este estimată la peste 1,2 milioane de locuitori în 2024.",
-        "Găzduiește Piața de Schimb Valutar, un centru financiar informal unic.",
-        "Orașul este situat la o altitudine medie de 1.334 metri deasupra mării.",
-        "Universitatea din Hargeisa este cea mai mare instituție de învățământ superior.",
-        "Piața Waheen este principalul motor economic al activității comerciale.",
-        "Aproape 90% din oraș a fost distrus în timpul conflictului din 1988.",
-        "Este poarta de acces către situl arheologic preistoric Laas Geel."
+        "Atinge vârfuri de peste 2000 de metri înălțime.",
+        "Cea mai importantă cumpănă de ape naturală din regiune.",
+        "Geologic definit prin formațiuni de calcar.",
+        "Se întinde pe sute de kilometri în nordul Somaliei.",
+        "Zonă de retragere semnificativă pentru fauna locală.",
+        "Acționează ca o barieră în fața vânturilor umede musonice.",
+        "Bază pentru numeroase sisteme fluviale sezoniere."
       ]
     },
     {
-      "id": "burao-cities-v2",
-      "descriptionAdvanced": "Burao este al doilea oraș ca mărime din Somaliland și centrul administrativ al regiunii Togdheer. Orașul este cunoscut drept 'inima Somalilandului' datorită rolului său crucial în declararea independenței regiunii în mai 1991. Burao este traversat de râul sezonier Togdheer, care definește peisajul urban și susține agricultura locală în perioadele ploioase. Orașul este un centru major pentru comerțul cu animale, având una dintre cele mai mari piețe de profil din Cornul Africii, unde se tranzacționează cămile, oi și capre pentru export. Dezvoltarea sa modernă include numeroase facilități educaționale și comerciale, reflectând spiritul antreprenorial al locuitorilor săi. Földrajz K8 — resurse naturale și piețe de desfacere.",
+      "id": "ogaden-plain-relief-v2",
+      "descriptionAdvanced": "Câmpia Ogaden reprezintă un peisaj vast și arid în zona de frontieră de sud-est a Somaliei. Regiunea este caracterizată printr-un relief golaș, dominat preponderent de savane cu tufișuri spinoase și secțiuni asemănătoare stepei. În ciuda condițiilor climatice extreme, cu precipitații neregulate, zona constituie o pășune indispensabilă pentru comunitățile nomade. Structura solului este alcătuită în principal din depozite sedimentare care înverzesc pentru scurt timp în timpul ploilor torențiale ocazionale, creând astfel o bază fragilă, dar vitală, pentru modul de viață pastoral în această regiune izolată.",
       "factsAdvanced": [
-        "Aici a avut loc marea conferință de pace din mai 1991.",
-        "Este situat pe platoul Togdheer, la o altitudine de 1.037 metri.",
-        "Piața de animale din Burao gestionează mii de tranzacții zilnice.",
-        "Universitatea din Burao a fost înființată în anul 2004.",
-        "Râul Togdheer împarte orașul în două zone distincte.",
-        "Este un nod rutier strategic care leagă Hargeisa de estul țării.",
-        "Clima este semi-aridă, cu temperaturi ridicate pe tot parcursul anului.",
-        "Orașul are un aeroport internațional ce deservește zboruri regionale."
+        "Platou vast și arid în sud-estul Somaliei.",
+        "Dominat de vegetație de tufișuri spinoase și stepă.",
+        "Pășune esențială pentru nomazii somalezi.",
+        "Predomină structura solului sedimentar.",
+        "Cantități anuale de precipitații extrem de neregulate.",
+        "Influențează cultura de viață pastorală nomadă.",
+        "Relief relativ plat, orizontal."
       ]
     },
     {
-      "id": "bossaso-cities-v2",
-      "descriptionAdvanced": "Bossaso este principalul port comercial și capitala economică a regiunii Puntland din nord-estul Somaliei. Situat pe coasta Golfului Aden, orașul a cunoscut o creștere demografică și economică explozivă de la începutul anilor 1990, devenind o poartă vitală pentru importuri și exporturi. Portul Bossaso este esențial pentru economia somaleză, fiind punctul principal de expediere a animalelor vii către țările arabe. Orașul are o atmosferă cosmopolită, atrăgând comercianți din toată regiunea și din afara ei. Infrastructura sa modernă include un aeroport internațional și numeroase centre de afaceri. Clima este aridă și extrem de caldă, dar proximitatea mării și a munților Golis oferă un cadru natural spectaculos. Földrajz K7 — porturi maritime și comerț internațional.",
+      "id": "cal-madow-peaks-relief-v2",
+      "descriptionAdvanced": "Vârfurile Cal Madow reprezintă cea mai marcantă și înaltă parte a lanțului muntos Cal Madow din nordul Somaliei. Această regiune este caracterizată geologic prin stânci abrupte de calcar, adânc incizate, și formațiuni fragmentate. Datorită poziției topografice speciale și a umidității mai ridicate provenite de la vânturile din Oceanul Indian, regiunile de vârf găzduiesc o floră excepțional de bogată, rar întâlnită în alte părți ale Somaliei. Zona este cunoscută ca un hotspot ecologic, oferind adăpost unor specii rare de plante endemice adaptate la microclimatul aspru, dar mai umed, al culmilor muntoase.",
       "factsAdvanced": [
-        "Bossaso era cunoscut sub numele de Bender Qassim în antichitate.",
-        "Este cel mai aglomerat port de export de animale din Somalia.",
-        "Orașul servește drept punct de tranzit pentru rutele migratorii.",
-        "Temperaturile pot depăși frecvent 40 de grade Celsius în timpul verii.",
-        "Aeroportul Internațional Bender Qassim a fost modernizat recent.",
-        "Populația a crescut de la 15.000 în 1990 la peste 500.000 în prezent.",
-        "Economia se bazează pe pescuit, comerț și servicii portuare.",
-        "Munții Golis se ridică impunător la sud de limitele orașului."
-      ]
-    },
-    {
-      "id": "beledweyne-cities-v2",
-      "descriptionAdvanced": "Beledweyne este un oraș strategic situat în valea fluviului Shebelle, fiind capitala regiunii Hiiraan din centrul Somaliei. Orașul este un punct cheie pe ruta care leagă Mogadishu de regiunile centrale și de granița cu Etiopia. Datorită poziției sale pe malurile fluviului Shebelle, Beledweyne este un centru agricol important, producând cereale, fructe și legume pentru întreaga regiune. Cu toate acestea, orașul este vulnerabil la inundații periodice severe care afectează infrastructura și viața locuitorilor. Beledweyne are o istorie bogată, fiind un centru de rezistență în timpul diferitelor conflicte și un nod de transport esențial. Geografia K8 — fluvii și managementul dezastrelor naturale.",
-      "factsAdvanced": [
-        "Fluviul Shebelle împarte orașul în două districte principale.",
-        "Este situat la aproximativ 345 de kilometri nord de Mogadishu.",
-        "Granița cu Etiopia se află la doar 30 de kilometri distanță.",
-        "Podul Beledweyne este un obiectiv strategic de importanță națională.",
-        "Orașul este cunoscut pentru culturile sale de porumb și banane.",
-        "Găzduiește o bază militară importantă pentru forțele de menținere a păcii.",
-        "În 2019, peste 85% din oraș a fost acoperit de ape în urma inundațiilor.",
-        "Este centrul cultural al clanurilor din regiunea Hiiraan."
-      ]
-    },
-    {
-      "id": "baidoa-cities-v2",
-      "descriptionAdvanced": "Baidoa, cunoscută și sub numele de 'Orașul celor 60 de stâlpi', este capitala administrativă a statului South West din Somalia. Orașul este situat strategic pe un platou înalt, la jumătatea distanței dintre Mogadishu și granița cu Etiopia. Baidoa este celebră pentru fertilitatea solului său, fiind considerată unul dintre principalele coșuri de pâine ale Somaliei, unde se cultivă masiv porumb, sorg și fasole. Orașul are o importanță istorică și politică majoră, servind drept sediu temporar al Guvernului Federal de Tranziție în anii 2000. Clima sa este mai umedă decât în restul țării, ceea ce favorizează agricultura extensivă și creșterea animalelor. Földrajz K7 — agricultură și securitate alimentară.",
-      "factsAdvanced": [
-        "Numele provine de la cultura bogată a grupului etnic Rahanweyn.",
-        "A servit drept sediu al Parlamentului Somalez între 2006 și 2009.",
-        "Este situat la o altitudine de 442 de metri pe un platou calcaros.",
-        "Regiunea este renumită pentru producția de sorg și mei.",
-        "Universitatea din Baidoa a fost redeschisă pentru a sprijini tineretul.",
-        "Orașul este un nod rutier crucial între regiunile Gedo și Lower Shabelle.",
-        "Situl arheologic din apropiere prezintă urme de așezări antice.",
-        "Aeroportul din Baidoa este utilizat pentru transport logistic și umanitar."
-      ]
-    },
-    {
-      "id": "galkayo-cities-v2",
-      "descriptionAdvanced": "Galkayo este un oraș unic din punct de vedere politic și administrativ, fiind situat exact la granița dintre statele Puntland și Galmudug din centrul Somaliei. Orașul este practic împărțit în două zone, cea nordică administrată de Puntland și cea sudică de Galmudug, ceea ce îl face un centru de complexitate socială și politică. Galkayo este un nod comercial esențial pentru pastorii nomazi, servind drept piață majoră pentru animale și produse lactate. Dezvoltarea sa a fost impulsionată de sectorul privat, orașul având propriul aeroport internațional și o rețea activă de comunicații. Este considerat unul dintre cele mai dezvoltate orașe din centrul Somaliei, în ciuda provocărilor de securitate. Földrajz K8 — geopolitică și structuri administrative.",
-      "factsAdvanced": [
-        "Este singurul oraș din Somalia împărțit între două state federale.",
-        "Aeroportul Internațional Abdullahi Yusuf deservește întreaga regiune Mudug.",
-        "Piața de animale este una dintre cele mai mari din centrul țării.",
-        "Orașul este situat într-o zonă aridă, bazându-se pe ape subterane.",
-        "Găzduiește numeroase stații de radio și trusturi de presă independente.",
-        "Este un punct de legătură între portul Bossaso și sudul Somaliei.",
-        "Populația este formată dintr-un amestec divers de clanuri somaleze.",
-        "Infrastructura educațională include mai multe universități private."
-      ]
-    },
-    {
-      "id": "kismayo-cities-v2",
-      "descriptionAdvanced": "Kismayo este un oraș-port strategic situat în sudul Somaliei, la gura de vărsare a fluviului Juba în Oceanul Indian. Orașul este capitala administrativă a statului Jubaland și este renumit pentru portul său de adâncime, care a fost istoric un centru de export pentru banane, piei de animale și cărbune. Kismayo beneficiază de un hinterland agricol bogat datorită fluviului Juba, zona fiind una dintre puținele din Somalia cu vegetație tropicală luxuriantă. Plajele sale cu nisip alb și resursele marine abundente oferă un potențial turistic și economic imens. Orașul a fost de-a lungul timpului un punct de dispută strategică datorită valorii sale comerciale ridicate. Földrajz K7 — resurse marine și delte fluviale.",
-      "factsAdvanced": [
-        "A fost fondat de poporul Bajuni și mai târziu controlat de Sultanatul Zanzibar.",
-        "Portul a fost construit cu asistență americană în anii 1960.",
-        "Este situat la aproximativ 528 de kilometri sud-vest de Mogadishu.",
-        "Parcul Național Kismayo se află în imediata apropiere a orașului.",
-        "Exportul de banane a fost coloana vertebrală a economiei locale.",
-        "Orașul are o istorie de influențe multiculturale arabe și persane.",
-        "Fluviul Juba se varsă în ocean la doar câțiva kilometri de centru.",
-        "Aeroportul Kismayo este un punct logistic cheie pentru sudul țării."
-      ]
-    },
-    {
-      "id": "jowhar-cities-v2",
-      "descriptionAdvanced": "Jowhar este capitala statului Hirshabelle și centrul administrativ al regiunii Middle Shabelle din sudul Somaliei. Orașul este situat la aproximativ 90 de kilometri nord de Mogadishu și este strâns legat de cursul fluviului Shebelle. Jowhar este renumit pentru istoria sa industrială, găzduind în trecut cea mai mare fabrică de zahăr din Cornul Africii, SNAI-Biaxa, construită în perioada colonială italiană. Terenurile din jurul orașului sunt extrem de fertile, fiind utilizate pentru culturi intensive de trestie de zahăr, orez și bumbac. Jowhar servește ca un hub agricol vital, aprovizionând capitala Mogadishu cu produse proaspete. Geografia K8 — sisteme de irigații și peisaje agricole.",
-      "factsAdvanced": [
-        "Orașul a fost cunoscut unter numele de Villabruzzi în perioada italiană.",
-        "A fost fondat de Ducele de Abruzzi în anul 1920.",
-        "Complexul de zahăr SNAI a fost odată motorul economic al regiunii.",
-        "Este situat pe ruta strategică ce leagă Mogadishu de centrul țării.",
-        "Canalul de irigații care pleacă din Jowhar este unul dintre cele mai lungi.",
-        "A servit drept capitală temporară a Somaliei în anul 2005.",
-        "Populația este majoritar implicată în agricultură și comerț.",
-        "Regiunea este cunoscută pentru abundența păsărilor exotice."
-      ]
-    },
-    {
-      "id": "garowe-cities-v2",
-      "descriptionAdvanced": "Garowe este capitala administrativă a statului Puntland și un centru politic important din nord-estul Somaliei. Situat în regiunea Nugaal, orașul a cunoscut o dezvoltare planificată și rapidă după 1998, devenind un model de stabilitate și guvernare locală. Garowe găzduiește palatul prezidențial, parlamentul și diverse ministere ale Puntlandului, fiind inima decizională a regiunii. Orașul este situat pe drumul principal care leagă nordul și sudul Somaliei, ceea ce îi conferă o importanță comercială strategică. Infrastructura sa modernă, curățenia și ordinea publică îl disting în peisaj urban somalez. Földrajz K7 — centre de putere și administrare teritorială.",
-      "factsAdvanced": [
-        "A devenit capitala Puntlandului la înființarea statului în 1998.",
-        "Valea Nugaal oferă un cadru geografic arid, dar strategic.",
-        "Orașul este renumit pentru 'Constituția de la Garowe' din 2012.",
-        "Aeroportul Internațional Garowe a fost inaugurat în 2018.",
-        "Populația a crescut semnificativ datorită stabilității politice.",
-        "Orașul dispune de una dintre cele mai bune rețele stradale din țară.",
-        "Universitatea de Stat din Puntland are sediul principal aici.",
-        "Este situat la o altitudine de 465 de metri deasupra mării."
-      ]
-    },
-    {
-      "id": "borama-cities-v2",
-      "descriptionAdvanced": "Borama este capitala regiunii Awdal din nord-vestul Somalilandului, situată în apropierea graniței cu Etiopia. Orașul este renumit ca fiind capitala educațională a Somalilandului, găzduind Universitatea Amoud, prima instituție de învățământ superior redeschisă după războiul civil. Situat într-o zonă muntoasă și verde, Borama beneficiază de o climă răcoroasă și de peisaje naturale pitorești, fiind o destinație populară pentru tinerii studioși și pentru comercianții transfrontalieri. Orașul are o istorie de pace și stabilitate, fiind locul unde au fost puse bazele multor acorduri de reconciliere între clanuri. Földrajz K8 — munți, climă și centre universitare.",
-      "factsAdvanced": [
-        "Universitatea Amoud a fost fondată în 1998 de diaspora locală.",
-        "Este situat la o altitudine de 1.450 metri, fiind un oraș de munte.",
-        "Aici a avut loc 'Carta de la Borama' care a adus pacea în 1993.",
-        "Orașul este renumit pentru respectul față de educație și cultură.",
-        "Se află la doar câțiva kilometri de granița terestră cu Etiopia.",
-        "Economia locală se bazează pe servicii, educație și agricultură.",
-        "Valea muntoasă oferă condiții bune pentru livezi de pomi fructiferi.",
-        "Este considerat unul dintre cele mai sigure orașe din regiune."
-      ]
-    },
-    {
-      "id": "erigavo-cities-v2",
-      "descriptionAdvanced": "Erigavo este capitala regiunii Sanaag din nordul Somalilandului, situată la o altitudine impresionantă de peste 1.700 de metri. Orașul este punctul de plecare pentru explorarea munților Cal Madow și a vârfului Shimbiris, cel mai înalt punct din Somalia. Erigavo se bucură de o climă unică, răcoroasă și umedă, care permite existența unor păduri de ienupăr și a unor specii rare de floră și faună. Izolarea sa geografică a păstrat tradițiile locale intacte, dar a reprezentat și o provocare pentru dezvoltarea infrastructurii. Orașul este un centru pentru comerțul cu tămâie și smirnă, produse recoltate din munții înconjurători. Földrajz K7 — ecosisteme montane și resurse forestiere.",
-      "factsAdvanced": [
-        "Este situat la poalele muntelui Shimbiris (2.416 m).",
-        "Erigavo este unul dintre cele mai înalte orașe din Somalia.",
-        "Regiunea este faimoasă pentru pădurile sale de ienupăr african.",
-        "Tămâia de cea mai bună calitate provine din munții Sanaag.",
-        "Accesul rutier către Erigavo este unul dintre cele mai spectaculoase.",
-        "Orașul are o istorie veche de așezări pastorale și comerciale.",
-        "Clima permite cultivarea fructelor de climă temperată.",
-        "Găzduiește numeroase specii endemice de păsări și plante."
-      ]
-    },
-    {
-      "id": "las-anod-cities-v2",
-      "descriptionAdvanced": "Las Anod este capitala regiunii Sool din nordul Somaliei, fiind un punct strategic de dispută între statele Somaliland și Puntland, dar și un centru pentru mișcarea locală de autodeterminare SCC-Khatumo. Orașul este situat într-o vale aridă și servește drept nod comercial crucial pe drumul care leagă Hargeisa de Garowe. Las Anod este cunoscut pentru spiritul său independent și pentru rolul său istoric în rezistența dervișilor împotriva colonialismului britanic. Economia sa gravitează în jurul creșterii animalelor și a comerțului de tranzit, fiind o așezare vitală pentru triburile nomade din regiune. Geografia K8 — frontiere disputate și identitate regională.",
-      "factsAdvanced": [
-        "Orașul este situat strategic pe ruta principală est-vest.",
-        "Numele se traduce prin 'Puțul de lapte' în limba somaleză.",
-        "Este centrul politic al comunității Dhulbahante.",
-        "A fost parte integrantă a Statului Derviș condus de Sayyid Abdullah Hassan.",
-        "Populația este renumită pentru tradițiile lor poetice și literare.",
-        "Se află într-o depresiune geografică înconjurată de platouri aride.",
-        "Orașul a cunoscut conflicte recente pentru control administrativ.",
-        "Creșterea cămilelor este activitatea economică predominantă."
-      ]
-    },
-    {
-      "id": "qardho-cities-v2",
-      "descriptionAdvanced": "Qardho este un oraș istoric și cultural situat în regiunea Bari din Puntland, în nord-estul Somaliei. Este cunoscut drept centrul tradițional al nobilimii somaleze, fiind locul unde se află numeroase morminte antice și palate ale foștilor sultani. Qardho este situat strategic pe drumul național care leagă Garowe de portul Bossaso, servind ca punct de odihnă și aprovizionare pentru călători. Orașul este faimos pentru arhitectura sa tradițională și pentru conservarea obiceiurilor somaleze autentice. În ultimii ani, Qardho s-a dezvoltat și ca centru agricol, datorită exploatării resurselor de apă subterană din valea Nugaal. Földrajz K7 — patrimoniu cultural și noduri de transport.",
-      "factsAdvanced": [
-        "Este sediul istoric al Sultanatului Majeerteen.",
-        "Găzduiește palate și structuri administrative din perioada colonială.",
-        "Piața de animale din Qardho este esențială pentru regiunea Bari.",
-        "Este situat la aproximativ 240 de kilometri sud de Bossaso.",
-        "Orașul este renumit pentru producția de miere și lapte.",
-        "În apropiere se află morminte monumentale ale unor figuri istorice.",
-        "Qardho este o destinație pentru cercetătorii culturii somaleze.",
-        "Are un aeroport care deservește zboruri interne periodice."
-      ]
-    },
-    {
-      "id": "marka-cities-v2",
-      "descriptionAdvanced": "Marka este un oraș de coastă străvechi situat în regiunea Lower Shabelle din sudul Somaliei, la aproximativ 90 de kilometri sud de Mogadishu. Orașul este celebru pentru arhitectura sa în stil arabo-somalez, cu străzi înguste și case albe din piatră de corali, reflectând secole de comerț maritim în Oceanul Indian. Marka a fost istoric capitala Sultanatului Geledi și un centru major pentru exportul de banane și bumbac. Plajele sale spectaculoase și atmosfera istorică îl fac unul dintre cele mai frumoase orașe din Somalia. Deși a suferit din cauza conflictelor, Marka rămâne un simbol al rezilienței culturale și al bogăției istorice a coastei somaleze. Geografia K8 — porturi istorice și arhitectură vernaculară.",
-      "factsAdvanced": [
-        "Orașul a fost fondat în secolul al VII-lea de către comercianți.",
-        "Este renumit pentru plaja sa de nisip alb de-a lungul oceanului.",
-        "A fost un centru cheie pentru producția textilă somaleză.",
-        "Populația locală Biimaal a opus o rezistență dârză italienilor.",
-        "Farul din Marka este un reper istoric pentru navigație.",
-        "Orașul este situat la doar câțiva metri deasupra nivelului mării.",
-        "Agricultura din hinterland produce fructe tropicale pentru export.",
-        "Arhitectura sa este similară cu cea din Mogadishu vechi și Zanzibar."
-      ]
-    },
-    {
-      "id": "afgooye-cities-v2",
-      "descriptionAdvanced": "Afgooye este un oraș agricol strategic situat la doar 30 de kilometri vest de Mogadishu, în regiunea Lower Shabelle. Traversat de fluviul Shebelle, orașul este inima producției de fructe și legume care alimentează capitala. Afgooye este faimos în întreaga Somalie pentru festivalul anual 'Istunka', o competiție tradițională de luptă cu bețe care marchează începutul noului an solar. Orașul a servit istoric ca reședință pentru liderii Sultanatului Geledi, profitând de solul extrem de fertil din valea fluviului. Proximitatea față de Mogadishu și resursele sale de apă fac din Afgooye un centru economic și de agrement vital pentru regiunea metropolitană. Földrajz K7 — văi fluviale și tradiții agrare.",
-      "factsAdvanced": [
-        "Găzduiește festivalul Istunka încă din secolul al XVII-lea.",
-        "A fost capitala puternicului Sultanat Geledi.",
-        "Este principalul furnizor de banane și papaya pentru Mogadishu.",
-        "Podul peste fluviul Shebelle este o arteră de transport critică.",
-        "Orașul este înconjurat de plantații vaste de trestie de zahăr.",
-        "Este situat pe drumul principal care leagă capitala de sudul țării.",
-        "Afgooye a atras numeroși investitori în ferme moderne de irigații.",
-        "Regiunea este bogată în situri arheologice din perioada sultanatelor."
-      ]
-    },
-    {
-      "id": "xuddur-cities-v2",
-      "descriptionAdvanced": "Xuddur este capitala regiunii Bakool din sud-vestul Somaliei, situată într-o zonă aridă de platou. Orașul are o importanță strategică majoră, fiind situat la intersecția rutelor care leagă Etiopia de regiunile centrale ale Somaliei. Xuddur a fost istoric un centru de rezistență și un avanpost militar, reflectând provocările de securitate din regiunea de frontieră. Economia locală se bazează pe creșterea animalelor, în special capre și cămile, adaptate la vegetația de tufișuri xerofite. Orașul este un centru administrativ esențial pentru furnizarea serviciilor de bază într-o regiune izolată geografic, fiind punct de sprijin pentru misiunile umanitare internaționale. Geografia K8 — platouri aride și logistica de frontieră.",
-      "factsAdvanced": [
-        "Este situat la o altitudine de 485 de metri pe platoul Bakool.",
-        "Se află la aproximativ 420 de kilometri nord-vest de Mogadishu.",
-        "Piața de animale este motorul economic al orașului.",
-        "Găzduiește o prezență militară constantă pentru stabilitate regională.",
-        "Regiunea Bakool este cunoscută pentru condițiile climatice dure.",
-        "Orașul a fost un centru important în timpul administrației italiene.",
-        "Resursele de apă provin în principal din puțuri forate la adâncime.",
-        "Este un nod pentru transportul comercial transfrontalier."
-      ]
-    },
-    {
-      "id": "garbahaarey-cities-v2",
-      "descriptionAdvanced": "Garbahaarey este capitala regiunii Gedo din sudul Somaliei, situată într-un peisaj dominat de dealuri calcaroase și câmpii aride. Orașul este celebru pentru că este locul de naștere al fostului președinte somalez Siad Barre, ceea ce i-a conferit o importanță simbolică și politică deosebită în trecut. Situat în apropierea granițelor cu Etiopia și Kenya, Garbahaarey servește drept centru administrativ pentru o regiune vastă și adesea turbulentă. Economia orașului depinde de creșterea animalelor și de comerțul la scară mică. Deși accesul este dificil din cauza terenului accidentat, Garbahaarey rămâne un punct focal pentru clanurile locale și pentru politica regională din Gedo. Földrajz K7 — relief deluros și centre administrative.",
-      "factsAdvanced": [
-        "Orașul este înconjurat de un lanț de dealuri numit Munții Gedo.",
-        "Este situat la aproximativ 600 de kilometri de Mogadishu.",
-        "Mormântul mamei lui Siad Barre este un reper local cunoscut.",
-        "Regiunea Gedo are o agricultură limitată pe lângă râul Dawa.",
-        "Garbahaarey este un punct cheie pentru monitorizarea granițelor.",
-        "Zborurile umanitare sunt principala legătură cu restul țării.",
-        "Clima este extrem de uscată, cu precipitații foarte rare.",
-        "Este centrul politic al comunității Marehan din Somalia."
-      ]
-    },
-    {
-      "id": "buaale-cities-v2",
-      "descriptionAdvanced": "Buaale este capitala oficială a statului Jubaland și centrul regiunii Middle Juba din sudul Somaliei. Orașul este situat pe malurile fluviului Juba, beneficiind de un ecosistem riveran bogat, cu păduri dense și terenuri agricole fertile. Buaale este o zonă de o importanță ecologică și agricolă imensă, producând o mare parte din cerealele și fructele necesare regiunii. Deși este capitala desemnată a Jubalandului, controlul administrativ a fost adesea disputat, afectând dezvoltarea infrastructurii urbane. Orașul reprezintă un punct vital pentru înțelegerea geografiei umane și naturale a văii fluviului Juba, cea mai verde regiune a Somaliei. Geografia K8 — ecosisteme riverane și capitale regionale.",
-      "factsAdvanced": [
-        "Este situat în inima văii fertile a fluviului Juba.",
-        "A fost declarată capitală a statului Jubaland în anul 2013.",
-        "Agricultura se bazează pe inundațiile sezoniere ale fluviului.",
-        "Orașul este înconjurat de o biodiversitate bogată, inclusiv hipopotami.",
-        "Producția de sorg și mei este principala activitate a fermierilor.",
-        "Este un nod de legătură între orașele Bardera și Jilib.",
-        "Regiunea Middle Juba este cea mai împădurită din Somalia.",
-        "Accesul rutier este dificil în timpul sezonului ploios (Gu)."
-      ]
-    },
-    {
-      "id": "dhusamareb-cities-v2",
-      "descriptionAdvanced": "Dhusamareb este capitala statului Galmudug din centrul Somaliei, situată în regiunea Galgaduud. Orașul a devenit un centru politic major în ultimii ani, găzduind numeroase conferințe de pace și reconciliere națională. Dhusamareb este situat într-o zonă de savană aridă, fiind un punct strategic pe drumul principal care traversează inima Somaliei. Este cunoscut pentru spiritul civic al locuitorilor săi și pentru rolul său în combaterea extremismului în regiune. Orașul se dezvoltă rapid, cu noi instituții administrative și educaționale care apar pentru a susține noul statut de capitală statală. Földrajz K7 — stabilitate politică și centre de reconciliere.",
-      "factsAdvanced": [
-        "Numele înseamnă 'locul unde se întâlnesc vânturile'.",
-        "A devenit capitala oficială a statului Galmudug în 2015.",
-        "Găzduiește universitatea Dhusamareb, o instituție în creștere.",
-        "Este un nod strategic pentru securitatea în centrul Somaliei.",
-        "Piața locală comercializează în principal cămile și piei.",
-        "Orașul dispune de un aeroport care leagă regiunea de Mogadishu.",
-        "Este cunoscut pentru gruparea religioasă Ahlu Sunna Waljama'a.",
-        "Situat la o altitudine de 210 metri, are o climă caldă de savană."
-      ]
-    },
-    {
-      "id": "barawe-cities-v2",
-      "descriptionAdvanced": "Barawe, cunoscut și sub numele de Brava, este un oraș istoric de coastă și capitala statului South West din Somalia. Orașul este faimos pentru cultura sa unică Bravanese și pentru dialectul Chimwiini, un amestec de somaleză, swahili și arabă. Arhitectura din Barawe reflectă secole de comerț maritim, cu străzi înguste și case cu uși sculptate, similare celor din Lamu sau Zanzibar. Barawe a fost un centru major pentru exportul de textile și piei de animale încă din Evul Mediu. De-a lungul istoriei, orașul a fost un punct de legătură între lumea arabă și Africa de Est, păstrându-și identitatea culturală distinctă în ciuda vicisitudinilor politice. Geografia K8 — culturi maritime și minorități lingvistice.",
-      "factsAdvanced": [
-        "A fost unul dintre cele cinci orașe ale Coastei Banadir.",
-        "Aici s-a născut renumitul savant Sheikh Uways al-Barawi.",
-        "Barawe este faimos pentru producția de pălării 'Brava' lucrate manual.",
-        "Dialectul Chimwiini este vorbit exclusiv în acest oraș.",
-        "A fost declarată capitala statului South West în anul 2014.",
-        "Portul natural a servit istoric comerțului cu mirodenii.",
-        "Casele sunt construite tradițional din piatră de coral.",
-        "Orașul este renumit pentru bucătăria sa cu influențe swahili."
-      ]
-    },
-    {
-      "id": "luuq-cities-v2",
-      "descriptionAdvanced": "Luuq este un oraș geografic fascinant situat în regiunea Gedo din sud-vestul Somaliei. Orașul este construit pe o peninsulă formată de o buclă strânsă a râului Juba, ceea ce îi conferă o protecție naturală și o poziție strategică unică. Numele 'Luuq' înseamnă chiar 'buclă' sau 'cot' în limba somaleză. Datorită proximității apei, Luuq este o oază agricolă într-o regiune altfel aridă, fiind renumit pentru grădinile sale de fructe și legume. Orașul are o istorie lungă ca centru comercial pe rutele dintre Etiopia și coasta Somaliei. Podul istoric din Luuq este o piesă de inginerie crucială care leagă orașul de restul regiunii. Földrajz K7 — meandre fluviale și așezări strategice.",
-      "factsAdvanced": [
-        "Râul Juba înconjoară orașul pe trei părți, formând un 'U'.",
-        "Este unul dintre cele mai vechi centre comerciale din Gedo.",
-        "Podul peste Juba a fost construit inițial de ingineri italieni.",
-        "Orașul este renumit pentru culturile sale de lămâi și grapefruit.",
-        "Este situat pe drumul antic al caravanelor spre regiunea Ogaden.",
-        "Luuq are una dintre cele mai ridicate temperaturi medii din țară.",
-        "Solul aluvial este ideal pentru agricultură intensivă.",
-        "Orașul a fost un centru administrativ important în timpul colonial."
-      ]
-    },
-    {
-      "id": "berbera-cities-v2",
-      "descriptionAdvanced": "Berbera este cel mai important oraș-port de pe coasta Golfului Aden din Somaliland, fiind istoric 'poarta spre mare' pentru întregul Corn al Africii. Orașul are o importanță strategică imensă datorită portului său de adâncime, care a fost recent modernizat cu investiții masive de la DP World. Berbera servește drept principal punct de export pentru animalele vii din regiune către Orientul Mijlociu și este un hub vital pentru comerțul etiopian. Arhitectura orașului este un amestec fascinant de clădiri coloniale britanice, otomane și stiluri locale somaleze. Clima este aridă și extrem de fierbinte, dar plajele sale, precum Batalaale, sunt printre cele mai populare din regiune. Geografia K8 — coridoare comerciale și geopolitică maritimă.",
-      "factsAdvanced": [
-        "A fost capitala Somalilandului Britanic până în 1941.",
-        "Portul a fost folosit ca bază strategică de URSS și SUA.",
-        "Pista aeroportului din Berbera a fost una dintre cele mai lungi din lume.",
-        "Este centrul 'Coridorului Berbera' care leagă portul de Addis Abeba.",
-        "Temperaturile pot ajunge la 45°C în timpul verii (Xagaa).",
-        "Orașul are un cartier istoric cu arhitectură otomană conservată.",
-        "Este cel mai mare port de export de ovine din lume.",
-        "Plaja Batalaale este o destinație turistică majoră în Somaliland."
-      ]
-    },
-    {
-      "id": "jilib-cities-v2",
-      "descriptionAdvanced": "Jilib este cel mai populat oraș din regiunea Middle Juba din sudul Somaliei, situat la o intersecție rutieră strategică. Orașul este inima agricolă a văii inferioare a fluviului Juba, unde climatul tropical și solurile aluvionare permit culturi de scară largă. Jilib este un punct de tranzit obligatoriu pentru călătorii care se deplasează între Mogadishu, Kismayo și granița cu Kenya. Regiunea din jurul orașului este cunoscută pentru plantațiile sale de banane și trestie de zahăr, fiind o zonă cu o biodiversitate remarcabilă, incluzând păduri de luncă. Deși a fost afectat de instabilitate, Jilib rămâne un centru economic esențial pentru sudul Somaliei. Földrajz K7 — noduri de transport și potențial agricol.",
-      "factsAdvanced": [
-        "Este cel mai mare oraș din regiunea Middle Juba.",
-        "Se află la intersecția drumurilor spre Mogadishu și Kismayo.",
-        "Clima este tropical umedă, rară în restul Somaliei.",
-        "Orașul este înconjurat de mlaștini și lacuri sezoniere.",
-        "A fost un centru experimental pentru culturile de orez.",
-        "Economia se bazează pe exportul de fructe tropicale.",
-        "Găzduiește populații diverse de agricultori și pastori.",
-        "Este situat la aproximativ 100 de kilometri nord de Kismayo."
-      ]
-    },
-    {
-      "id": "bulo-burti-cities-v2",
-      "descriptionAdvanced": "Bulo Burti este un oraș istoric situat în regiunea Hiiraan din centrul Somaliei, pe malurile fluviului Shebelle. Orașul este faimos pentru podul său strategic construit de italieni, care este singura cale majoră de traversare a fluviului în această parte a țării. Bulo Burti servește drept centru administrativ și comercial pentru districtele învecinate, profitând de solul fertil pentru culturi de cereale. Orașul are o istorie de rezistență patriotică, fiind un punct focal în luptele pentru independență. Deși s-a confruntat cu blocaje și provocări logistice, spiritul comunității locale a menținut orașul ca un punct vital în geografia Somaliei centrale. Geografia K8 — infrastructură strategică și control teritorial.",
-      "factsAdvanced": [
-        "Podul istoric peste Shebelle a fost finalizat în anii 1930.",
-        "Este al doilea oraș ca mărime din regiunea Hiiraan.",
-        "A fost un centru logistic major în timpul administrației italiene.",
-        "Orașul este renumit pentru grădinile sau de citrice și mango.",
-        "Situat pe ruta principală care leagă Mogadishu de nord.",
-        "Economia locală depinde de comerțul cu produse agricole.",
-        "Aeroportul din Bulo Burti este esențial pentru transportul de urgență.",
-        "Este situat într-o zonă de tranziție între savană și teren arabil."
-      ]
-    },
-    {
-      "id": "wajid-cities-v2",
-      "descriptionAdvanced": "Wajid este un oraș important din regiunea Bakool din sud-vestul Somaliei, situat într-o zonă de câmpie aridă. Orașul este un centru administrativ cheie și a servit timp de mulți ani ca bază logistică principală pentru operațiunile umanitare ale ONU în Somalia. Wajid este locuit în principal de clanul Rahanweyn, iar economia sa se bazează pe agricultura de subzistență (sorg și fasole) și pe creșterea animalelor. Orașul este un nod de transport care leagă regiunea de Baidoa și de granița cu Etiopia. Reziliența locuitorilor din Wajid în fața secetelor recurente este un exemplu al adaptării umane la condițiile extreme din Cornul Africii. Földrajz K7 — asistență umanitară și adaptare climatică.",
-      "factsAdvanced": [
-        "A fost sediul principal al World Food Programme în anii 2000.",
-        "Este situat la aproximativ 90 de kilometri nord-vest de Baidoa.",
-        "Sorgul este cultura alimentară dominantă în zonă.",
-        "Orașul are un aeroport de pământ vital pentru zborurile UN.",
-        "Clima este marcată de două sezoane ploioase scurte și imprevizibile.",
-        "Wajid este un centru pentru comerțul cu gume și rășini naturale.",
-        "Comunitatea locală este renumită pentru sistemele lor de stocare a apei.",
-        "Se află la o altitudine de aproximativ 400 de metri."
+        "Se numără printre cele mai înalte formațiuni din nordul Somaliei.",
+        "Alcătuit din stânci de calcar abrupte și marcante.",
+        "Hotspot ecologic cu o rată ridicată de endemism vegetal.",
+        "Beneficiază de masele de aer umede din Oceanul Indian.",
+        "Văi adânc incizate și creste fragmentate.",
+        "Servesc drept rezervor important de apă pentru zonele joase.",
+        "Umiditatea ridicată permite ecosisteme forestiere unice."
       ]
     }
   ]

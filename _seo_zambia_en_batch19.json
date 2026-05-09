@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chambeshi-monument-history-v2",
+      "descriptionAdvanced": "The Chambeshi Monument marks the site of the final surrender of the German forces in World War I, which occurred on the Chambeshi River in November 1918. This historic event concluded the East African Campaign of the Great War, ending hostilities in what was then Northern Rhodesia. The monument stands as a somber reminder of the global nature of the conflict and its impact on the region. It is a significant site for historians studying the colonial history of Zambia and the conclusion of WWI in Africa, highlighting the region's role in the global Great War.",
+      "factsAdvanced": [
+        "Site of the German surrender in Northern Rhodesia (1918)",
+        "Marks the end of WWI hostilities in East Africa",
+        "Located near the Chambeshi River bridge",
+        "Declared a national monument for historical importance",
+        "Reflects regional role in the global Great War",
+        "Visited primarily for heritage education"
+      ]
+    }
+  ]
+}

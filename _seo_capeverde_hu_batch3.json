@@ -1,0 +1,289 @@
+{
+  "lang": "hu",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monte-verde-relief-v2",
+      "descriptionAdvanced": "A Monte Verde 744 méteres magasságával São Vicente szigetének legmagasabb pontja, amely látványos panorámát nyújt a teljes szigetcsoportra. A hegy központi földrajzi jellemző, és fontos helyszínként szolgál a meteorológiai megfigyelések, valamint a telekommunikáció számára. Védett természetvédelmi területként a Monte Verde egyedülálló endemikus növényzetnek ad otthont, amely a csúcsrégió párás mikroklímájához alkalmazkodott – ez éles kontrasztban áll a sziget egyébként száraz tájaival. A vulkáni formációk és a geológiai szerkezet nagy jelentőséggel bírnak a Zöld-foki-szigetek keletkezéstörténetének megértéséhez. A túrázók nagyra értékelik a feljutást a Mindelo városára és a híres Porto Grande természetes kikötőre nyíló tágas kilátás miatt.",
+      "factsAdvanced": [
+        "São Vicente szigetének legmagasabb csúcsa (744 méter).",
+        "Védett természetvédelmi terület az endemikus növényfajok számára.",
+        "A legjobb panorámát nyújtja Mindelóra és a kikötőre.",
+        "Fontos helyszín a nemzeti időjárás- és radarállomások számára.",
+        "A szigetcsoport ritka páfrányainak és gyógynövényeinek otthona.",
+        "Földrajzi tájékozódási pont a teljes sziget számára.",
+        "A csúcson a mikroklíma gyakran lényegesen hűvösebb és párásabb.",
+        "Jellegzetes vulkáni sziklaalakzatok határozzák meg a csúcs környékét."
+      ]
+    },
+    {
+      "id": "cova-de-paul-relief-v2",
+      "descriptionAdvanced": "A Cova de Paúl egy impozáns antik vulkáni kráter Santo Antão szigetén, amely buja és termékeny mezőgazdasági övezetté alakult át. A krátert magas, szinte függőleges hegyfalak veszik körül, amelyek egyedülálló mikroklímát teremtenek, lehetővé téve a kávé, a cukornád és számos trópusi gyümölcs termesztését. Ez a völgy figyelemre méltó példája annak, hogyan alkalmazkodik a zöld-foki mezőgazdaság a nehéz domborzathoz; a kráter alját intenzíven hasznosítják, és egy természetes zöld amfiteátrumhoz hasonlít. A kráteren áthaladó túraútvonalak a turisták legnépszerűbb útvonalai közé tartoznak, akik autentikus természetélményeket keresnek. A Cova belsejében uralkodó csend, kombinálva a gyakran alacsonyan szálló felhőkkel, misztikus és békés légkört kölcsönöz ennek a helynek.",
+      "factsAdvanced": [
+        "Kialudt vulkáni kráter mintegy 1 km-es átmérővel.",
+        "Santo Antão magaslati mezőgazdaságának központja.",
+        "A biológiai termesztésű hegyi kávé legfontosabb lelőhelye.",
+        "A híres Paúl-völgyi túra klasszikus kiindulópontja.",
+        "A kráter peremén történő felhőkondenzáció segíti a mikroklímát.",
+        "Átlagosan 1100 méteres tengerszint feletti magasságban fekszik.",
+        "A vulkáni talajok hasznosításának kiemelkedő példája.",
+        "Gyakran misztikus köd és mély felhőalakzatok borítják."
+      ]
+    },
+    {
+      "id": "bordeira-do-fogo-relief-v2",
+      "descriptionAdvanced": "A Bordeira do Fogo annak a hatalmas beomlott kalderának a fala, amely a Fogo szigetén található aktív Pico do Fogo vulkánt öleli körül. Ez a lenyűgöző geológiai szerkezet szinte függőleges sziklafalakat kínál, amelyek akár 1000 méterrel is a kráter alja fölé magasodnak, drámai vizuális kontrasztot teremtve a fekete lávakőzet és a kék atlanti égbolt között. A kalderán belüli terület, a Chã das Caldeiras, világhírű az ásványokban gazdag vulkáni talajon növő szőlőültetvényeiről. A Bordeira a geológusok és vulkanológusok számára értékes bemutatóhelyként szolgál a múltbeli hatalmas kitörési események tanulmányozásához. A látogatók számára a kaldera pereme lélegzetelállító kilátást nyújt a természet nyers erejére és a vulkán lábánál megtelepedett törékeny emberi életre.",
+      "factsAdvanced": [
+        "Egy hatalmas, beomlott kaldera szinte kör alakú pereme.",
+        "Függőleges sziklafalai elérik az 1000 méter feletti magasságot.",
+        "Körülöleli a lakott Chã das Caldeiras krátermedencét.",
+        "Fogo szigetének védett nemzeti parkjának része.",
+        "A teljes szigetcsoport legjelentősebb geológiai jellemzője.",
+        "Évezredekkel ezelőtt egy masszív hegyoldal-beomlás során keletkezett.",
+        "Látványos kilátópontokat kínál a Pico do Fogo vulkánra.",
+        "A vulkanológiai megfigyelőrendszerek egyik fontos helyszíne."
+      ]
+    },
+    {
+      "id": "monte-trigo-relief-v2",
+      "descriptionAdvanced": "A Monte Trigo egy hegy Santo Antão szigetének legnyugatibb részén, amely egy azonos nevű elszigetelt halászfalut ural. A hegy körüli terep rendkívül meredek és járhatatlan, ami drámai domborzatot hoz létre, ahol a hegység közvetlenül találkozik az óceán mély vizeivel. Ez a régió szinte kizárólag a tenger felől vagy rendkívül nehéz hegyi ösvényeken érhető el, ami hozzájárult a lakók autentikus és hagyományos életmódjának megőrzéséhez. A Monte Trigo egyedülálló perspektívát kínál a földrajzi elszigeteltségre és arra, ahogyan a domborzat diktálja egy közösség elérhetőségét és fejlődését. A zöld-foki nyugati part vadságának szimbóluma, ahol a vulkáni sziklák fáradhatatlanul dacolnak az Atlanti-óceán hullámaival.",
+      "factsAdvanced": [
+        "Santo Antão szigetének legnyugatibb jelentős hegye.",
+        "Az ország egyik legnehezebben megközelíthető régiójában található.",
+        "Meredeken szakadó oldalai impozáns tengerparti kulisszát alkotnak.",
+        "Fontos tájékozódási pont a helyi kisüzemi halászat számára.",
+        "Egy száraz és vad hegyi ökoszisztéma része.",
+        "A civilizációtól távoli túrák egyik központi helyszíne.",
+        "Meghatározó jelenlét a Monte Trigo halászfalu felett.",
+        "Az Észak-Atlanti-óceán extrém parteróziójának tanúja."
+      ]
+    },
+    {
+      "id": "monte-grande-sal-relief-v2",
+      "descriptionAdvanced": "A Monte Grande Sal szigetének legmagasabb pontja, egy olyan szigeté, amely egyébként nagyrészt sík és száraz. Bár mintegy 406 méteres magasságával a szigetvilág más hegyeihez képest szerénynek tűnik, a Monte Grande jelentős geológiai kiemelkedést képvisel Sal egyébként sivatagos táján. Tiszta kilátást nyújt a sziget tágas hátországára és partvonalaira. Történelmileg jelentősége szorosan összefüggött a navigációval, mivel első tájékozódási pontként szolgált a lapos sziget felé közeledő tengerészek számára. Ma emellett helyi meteorológiai megfigyelésekre is használják. A csúcsra való túrázás ritka alkalmat kínál a látogatóknak Sal szigetének vulkáni szerkezetének felülről történő megtekintésére és az Atlanti-óceán tágas panorámájának élvezetére.",
+      "factsAdvanced": [
+        "Az egyébként sík, sivatagos Sal sziget legmagasabb pontja.",
+        "Maximális magassága eléri a mintegy 406 métert.",
+        "Stratégiai kilátópont a sziget teljes felületére.",
+        "Geológiailag sötét, erodált bazaltkőzet építi fel.",
+        "A történelmi tengeri hajózás fontos referenciapontja.",
+        "Kilátást nyújt az Amílcar Cabral nemzetközi repülőtérre.",
+        "A sziget északi részén, a parthoz közel található.",
+        "Népszerű célpont száraz környezetben zajló túrákhoz."
+      ]
+    },
+    {
+      "id": "monte-penoso-relief-v2",
+      "descriptionAdvanced": "A Monte Penoso a legmarkánsabb hegy Maio szigetén, amely száraz domborzatáról és üledékes kőzetből álló érdekes geológiai formációiról ismert. Bár Maio inkább sík sziget, a Monte Penoso uralja a tájat, és tágas kilátást nyújt a környező fennsíkokra egészen az óceánig. Fontos terület a botanikai sokszínűség megőrzése szempontjából, amely speciálisan az extrém száraz körülményekhez alkalmazkodott. A hegy körüli ösvényeket gyakran használják kalandturizmusra és a helyi geológia tanulmányozására, mivel Maio a szigetcsoport egyik legrégebbi geológiai szerkezetével rendelkezik. A feljutás lenyűgöző perspektívát kínál a sziget csendjére és tágasságára, amelyet gyakran a Zöld-foki-szigetek 'elfeledett szigeteként' emlegetnek. Menedék a magányt kereső természetbarátok számára.",
+      "factsAdvanced": [
+        "Maio szigetének legmagasabb hegye 436 méteres magassággal.",
+        "A sziget legfontosabb földrajzi tájékozódási pontja.",
+        "Részben ritka tengeri üledékes kőzetekből épül fel.",
+        "Körkörös kilátást nyújt az akácosokra és az Atlanti-óceánra.",
+        "Szárazságtűrő endemikus növényfajok otthona.",
+        "A sziget belsejében zajló ökológiai túrák központja.",
+        "Geológiailag jelentős, mint a legrégebbi szigeti formációk része.",
+        "Fontos fészkelőhely a régió ragadozómadarai számára."
+      ]
+    },
+    {
+      "id": "monte-batalha-relief-v2",
+      "descriptionAdvanced": "A Monte Batalha egy jelentős hegy Maio szigetén (földrajzilag gyakran tévesen Santiagóhoz sorolják, de itt Maio-POI-ként szerepel), amely fontos természetes tájékozódási pontként funkcionál. Meredek lejtőivel és vulkáni formációival hozzájárul a sziget topográfiájához. A hegy körüli területet hagyományosan legeltetésre és kisléptékű mezőgazdaságra használják, ami szemlélteti az emberi alkalmazkodást a nehéz terepviszonyokhoz. A Monte Batalha kiváló megfigyelőpontot kínál Maio vulkáni tájainak tanulmányozásához és a hátország kietlen szépségének felfedezéséhez. Sziluettje a horizont jellegzetes vonása és a helyi közösségek mezőgazdasági állhatatosságának szimbóluma, akik itt száraz körülmények között biztosítják megélhetésüket.",
+      "factsAdvanced": [
+        "Markáns kiemelkedés Maio szigetén, a parthoz közel.",
+        "Mintegy 294 méteres magasságot ér el.",
+        "Stratégiai kilátást nyújt a sólepárlókra és a dűnékre.",
+        "A hagyományos állattenyésztés (kecsketartás) fontos helyszíne.",
+        "Erős szél- és tengeri erózió jellemzi a formáit.",
+        "Kedvelt célpont a sziget kiépítetlen északi részén zajló kirándulásokhoz.",
+        "Ősi vulkáni kőzetrétegekből épül fel.",
+        "Referenciapont a helyi kézműves halászat számára."
+      ]
+    },
+    {
+      "id": "monte-sobrado-relief-v2",
+      "descriptionAdvanced": "A Monte Sobrado egy jellegzetes hegyi formáció Sal szigetén, és része e turisztikai sziget változatos, de száraz domborzatának. Bár Sal elsősorban strandjairól ismert, a hegyvidéki belső zónák, mint a Monte Sobrado, mély betekintést nyújtanak a sziget vulkáni történetébe. A hegyet tágas homokos és kőzetes síkságok veszik körül, ami lenyűgöző vizuális kontrasztot teremt. Gyakran fedezik fel túrázók, akik értékelik a sivatagi tájat és a bizarr sziklaalakzatokat, amelyeket az évezredes erózió formált. A Monte Sobrado emellett fontos geológiai bizonyítékként szolgál abból az időből, amikor Sal vulkanikusan aktív volt, és ma nyugodt alternatívát kínál a Santa Maria és Espargos tengerparti városaiban tapasztalható nyüzsgéshez képest.",
+      "factsAdvanced": [
+        "Feltűnő hegyformáció Sal szigetének száraz központjában.",
+        "Mintegy 300 méteres tengerszint feletti magasságot ér el.",
+        "Geológiáját erodált bazalt- és lávafolyások határozzák meg.",
+        "Tágas panorámát kínál a sivatagi tájra.",
+        "Kedvelt helyszín terepjárós túrákhoz és természetfotózáshoz.",
+        "A lapos szigetprofil kevés domborzati elemének egyike.",
+        "A zöld-foki félsivatag ritka hüllőfajainak otthona.",
+        "Fontos pont a tengeri üledékképződés tanulmányozásához."
+      ]
+    },
+    {
+      "id": "monte-duarte-relief-v2",
+      "descriptionAdvanced": "A Monte Duarte egy jelentős hegy Brava szigetén, a Zöld-foki-szigetek legkisebb és legdélebbi lakott szigetén, amely enyhébb klímájáról és buja növényzetéről ismert. A Monte Duarte kiemelkedik a sziget tájképéből, és tágas kilátást nyújt a meredek partra és az Atlanti-óceánra. A magas páratartalom miatt lejtői gazdag növényzetnek adnak otthont, ami éles kontrasztot alkot a szigetcsoport északabbi, szárazabb szigeteivel. Ez a terület iskolapéldája a Zöld-foki-szigeteken belüli éghajlati sokszínűségnek, ahol a hegy 'felhőelkapóként' funkcionál, és értékes nedvességgel látja el a szigetet. A túrázók számára a Monte Duarte kihívást jelentő ösvényeket kínál zöld hegyi tájakon keresztül, amelyek gyakran misztikus ködbe burkolóznak, és Bravának a 'virágsziget' melléknevet kölcsönözték.",
+      "factsAdvanced": [
+        "Impozáns kiemelkedés a 'virágsziget' Braván.",
+        "A szigetcsoporthoz képest szokatlanul párás mikroklímával rendelkezik.",
+        "Fontos helyszín az endemikus babérfélék megőrzése szempontjából.",
+        "Látványos kilátást nyújt a szomszédos Fogo-vulkánra.",
+        "Hagyományos teraszos földművelési területen fekszik.",
+        "A felhőkondenzáció révén biztosítja a sziget vízellátását.",
+        "A turizmustól távoli, természetközeli túrázás központja.",
+        "Csúcsa gyakran sűrű ködbe és felhőkbe burkolózik."
+      ]
+    },
+    {
+      "id": "pico-da-antonia-relief-v2",
+      "descriptionAdvanced": "A Pico da Antónia 1392 méteres lenyűgöző magasságával Santiago szigetének legmagasabb hegye. Ez a masszív vulkáni tömb a sziget központi részét uralja, és a Zöld-foki-szigetek alapvető földrajzi jelképe. A hegy egy védett nemzeti park része, és szaggatott gerincei, mély szurdokai, valamint gyakran ködbe burkolózó csúcsai jellemzik. A jelentős magasság egyedülálló mikroklímát teremt, amely számos endemikus növényfajt támogat, és létfontosságú élőhelyet biztosít a ritka zöld-foki nádiposzáta számára. Tapasztalt túrázók számára a csúcsra való feljutás a szigetvilág egyik legkifizetődőbb élménye, mivel lélegzetelállító panorámát kínál, amely Santiago egész szigetére kiterjed, tiszta napokon pedig egészen a szomszédos Fogo és Maio szigetekig ellátni. Emellett ez a sziget hidrológiai szíve is.",
+      "factsAdvanced": [
+        "Santiago szigetének legmagasabb pontja (1392 méter).",
+        "Az azonos nevű védett nemzeti park központja.",
+        "A legfontosabb víztározó a sziget termékeny völgyei számára.",
+        "Veszélyeztetett állatfajok, például a zöld-foki nádiposzáta hazája.",
+        "Masszív vulkáni domborzat rendkívül meredek hegyoldalakkal.",
+        "Hegymászók és kihívást kereső túrázók első számú célpontja.",
+        "Kilátást nyújt Fogo, Maio és Boa Vista szigeteire.",
+        "Az ország éghajlati megfigyelésének központi csomópontja."
+      ]
+    },
+    {
+      "id": "monte-tchota-relief-v2",
+      "descriptionAdvanced": "A Monte Tchota egy fenséges és gyakran ködbe burkolózó csúcs a Pico da Antónia Nemzeti Park szívében, Santiago szigetén. Mintegy 1000 méteres magasságával híres hűvös, párás klímájáról és buja fenyő- és eukaliptusz-erdőiről, amelyek az egyébként inkább száraz Zöld-foki-szigeteken ritka látványt nyújtanak. A hegy fontos terület a biodiverzitás számára, és számos endemikus növénynek és madárnak nyújt élőhelyet. Történelmileg visszavonulási helyként, valamint a telekommunikációban betöltött szerepe miatt is jelentős, mivel itt több fontos adóállomás található. A túrázók számára a Monte Tchota egyedülálló élményt kínál illatos erdőkön átvezető ösvényeivel, amelyek látványos kilátópontokhoz vezetnek, ahonnan megcsodálhatók a sziget belsejének szaggatott szurdokai és csúcsai. A mély béke és a természetes szépség helye.",
+      "factsAdvanced": [
+        "A szigetvilág egyik legerdősebb és legzöldebb hegye.",
+        "Mintegy 1000 méteres magasságban fekszik a központi masszívumban.",
+        "Kiterjedt fenyő- és eukaliptusz-ültetvényeiről ismert.",
+        "A nemzeti rádió- és televízióadók fontos helyszíne.",
+        "Hűvösebb klímája menekülést kínál a parti hőség elől.",
+        "Ritka madarak ornitológiai megfigyelésének központja.",
+        "Felhőelkapás útján biztosítja Santiago vízkészleteit.",
+        "A legnépszerűbb kiindulópont a Pico da Antónia felé vezető túrákhoz."
+      ]
+    },
+    {
+      "id": "morro-de-areia-relief-v2",
+      "descriptionAdvanced": "A Morro de Areia egy látványos természetvédelmi terület Boa Vista szigetének nyugati partján, ahol óriási homokdűnék találkoznak közvetlenül az Atlanti-óceán vizeivel. Ezt az egyedülálló tengerparti domborzatot a passzátszelek által hordott finom homok formálja, állandó mozgásban lévő sivatagi tájat hozva létre, amely kilométereken át nyúlik el. A terület a természetvédelem kritikus helyszíne, mivel az álcserepes teknősök (Caretta caretta) egyik fő fészkelőhelye. A dűnék mellett a Morro de Areia lapos sziklás zónákat is magában foglal, amelyek különböző tengeri madárfajoknak nyújtanak védelmet. A homok arany színe és a tenger mélykékje közötti kontraszt a fotósok paradicsomává teszi ezt a helyet. Tökéletes példája egy törékeny és dinamikus ökoszisztémának, amely reprezentatív a 'dűnék szigetére'.",
+      "factsAdvanced": [
+        "Kiterjedt dűnemező közvetlenül az atlanti partvonalon.",
+        "Nemzetközi jelentőségű védett természetvédelmi terület.",
+        "A veszélyeztetett tengeri teknősök fő költőterülete.",
+        "A közeli Szahara-régióból származó homokszállítás formálta.",
+        "Vándorló parti dűnék lenyűgöző formációi.",
+        "A tengeri madarak megfigyelésének fontos helyszíne.",
+        "Vadon termő, érintetlen szépségű táj épületek nélkül.",
+        "Egyedülálló ökoszisztéma a sivatag és a tenger találkozásánál."
+      ]
+    },
+    {
+      "id": "monte-semedo-relief-v2",
+      "descriptionAdvanced": "A Monte Semedo egy markáns hegycsúcs Santiago szigetének északi részén, amely rendkívül meredek lejtőivel és tagolt, sziklás domborzatával nyűgöz le. Ez a hegy a sziget belsejét meghatározó hegylánc része, és éles kontrasztot mutat a kopár csúcsok és a lábánál fekvő zöld mezőgazdasági völgyek között. Geológiáját a régi bazaltkőzet uralja, amely tanúságot tesz arról az intenzív vulkáni tevékenységről, amely Santiagót évmilliókkal ezelőtt formálta. A Monte Semedo kihívást jelent a túrázók számára, és nehéz ösvényeket kínál, amelyeket az északi partra és a tengerre nyíló tágas panoráma jutalmaz. A hegy körüli régiót kis vidéki közösségek lakják, akik nehéz körülmények között önellátó mezőgazdaságot folytatnak. A zöld-foki hegyvidék zord szépségének szimbóluma.",
+      "factsAdvanced": [
+        "Impozáns hegycsúcs Santiago északi magasföldjén.",
+        "A harmadkori vulkáni szerkezetek kiemelkedő példája.",
+        "A mély erózió és a szaggatott sziklafalak által meghatározott domborzat.",
+        "Fontos kilátópont Santa Catarina régiója számára.",
+        "Szárazsághoz alkalmazkodott hegyi növényzetnek ad otthont.",
+        "Kevésbé felfedezett célpont az autentikus kalandturizmushoz.",
+        "Geológiai referenciapont a sziget keletkezéséhez.",
+        "A hegyi kecskék hagyományos legeltetésének központja."
+      ]
+    },
+    {
+      "id": "monte-cintinha-relief-v2",
+      "descriptionAdvanced": "A Monte Cintinha egy jellegzetes kúpos alakú hegy São Nicolau szigetén, és a sziget egyik legismertebb vizuális jelképe közé tartozik. Ez a vulkáni domborzat uralja a központi zónát, és elegáns sziluettet kínál, amely már a fővárosból, Ribeira Bravából is látható. A hegyet mély völgyek veszik körül, és ösvényei miatt gyakran látogatják túrázók, amelyek körpanorámás perspektívát kínálnak a sziget összetett domborzatára. Geológiája lenyűgöző, láva- és hamurétegeket mutat be, amelyek a São Nicolau-i vulkanizmus kitörési fázisait illusztrálják. A Monte Cintinha fontos szerepet játszik a helyi identitásban, és gyakran említik a sziget kultúrájában és szájhagyományában. Ez egy olyan természeti műemlék, amely tökéletesen ötvözi a zöld-foki vulkáni táj eleganciáját és erejét.",
+      "factsAdvanced": [
+        "Elegáns, majdnem tökéletes vulkáni kúpformáció.",
+        "São Nicolau központi hegymasszívumában található.",
+        "A sziget jelképe és népszerű fotómotívum.",
+        "Látványos kilátást nyújt Ribeira Bravára és az óceánra.",
+        "A sziget geológiai túraútvonalainak fontos része.",
+        "Meghatározza a szigetközpont jellegzetes látképét.",
+        "Egy kialudt központi kürtő jól megőrzött szerkezete.",
+        "Helyi legendák és történelmi népszokások központja."
+      ]
+    },
+    {
+      "id": "monte-biao-relief-v2",
+      "descriptionAdvanced": "A Monte Biao São Nicolau szigetének egyik legmagasabb és leglátványosabb pontja, amely rendkívül tagolt domborzatot kínál szűk gerincekkel és mély szakadékokkal. A hegymasszívum szívében elhelyezkedő csúcsot gyakran felhők borítják, és profitál a passzátszelek nedvességéből, ami ritka endemikus növények létezését teszi lehetővé a lejtőin. A Monte Biao csúcsáról a kilátás a szigetvilágra lenyűgöző; tiszta napokon Sal és Boa Vista szigetei is kivehetők az Atlanti-óceán horizontján. A régiót mély 'ribeirák' (völgyek) jellemzik, amelyek meredeken szakadnak a tengerbe, drámai, nehezen hozzáférhető tájat hozva létre. A hegy kihívást jelent a hegymászók és kutatók számára, természetes laboratóriumként funkcionálva a szigeti hegyvidéki klíma tanulmányozásához. São Nicolau védett természeti tájának egyik tartóoszlopa.",
+      "factsAdvanced": [
+        "São Nicolau szigetének egyik legmagasabb csúcsa.",
+        "Rendkívül tagolt vulkáni domborzattal rendelkezik.",
+        "Kiemelkedő megfigyelőpont a Közép-Atlanti-óceán felett.",
+        "Köderdő-szerű zónák magas endemikus sokszínűséggel.",
+        "Fontos hidrológiai csomópont a környező völgyek számára.",
+        "Igényes túraútvonalakat kínál tapasztalt alpinisták számára.",
+        "Geológiailag meredek telérek és lávafolyások jellemzik.",
+        "A sziget ökológiailag értékes magasföldjének része."
+      ]
+    },
+    {
+      "id": "monte-tortolho-relief-v2",
+      "descriptionAdvanced": "A Monte Tortolho egy kicsi, de jellegzetes vulkáni hegy Sal szigetének déli részén, és egyike a kevés kiemelkedésnek az egyébként teljesen sík tájban. Bár magassága szerény, a hegy döntő vizuális referenciapont a navigáció számára Santa Maria város és a repülőtér környékén. Formája a sziget geológiai összefüggésében viszonylag fiatal vulkáni tevékenység eredménye, és sötét bazaltkőzeteket mutat, amelyek kontrasztban állnak a környező arany homokkal. A Monte Tortolho kedvelt célpont rövid túrákhoz, és csúcsáról kiváló kilátás nyílik a déli partra és a dűnékre. Ideális hely Sal szigetének vulkáni szerkezetének megértéséhez, amely sivatagi megjelenése ellenére mély földtani gyökerekkel rendelkezik. Egy kis őrző a turisztikai dél felett.",
+      "factsAdvanced": [
+        "Izolált vulkáni domb Sal egyébként sík déli részén.",
+        "A Santa Maria régió legfontosabb vizuális referenciapontja.",
+        "Sötét bazaltkőzete kontrasztban áll az arany sivatagi homokkal.",
+        "360 fokos kilátást nyújt az üdülőhelyekre és a tengerre.",
+        "Könnyen megközelíthető célpont rövid családi túrákhoz.",
+        "Geológiailag jelentős, mint a sziget újkori történetének maradványa.",
+        "Helyi adóberendezések és rádiótechnika helyszíne.",
+        "Markáns tájékozódási pont a tágas parti síkságon."
+      ]
+    },
+    {
+      "id": "monte-curral-relief-v2",
+      "descriptionAdvanced": "A Monte Curral az a hegy, amely Sal szigetén Espargos városát uralja, és összetéveszthetetlen városi és földrajzi hivatkozási pontot alkot. Közvetlenül a település szívében elhelyezkedve, ez a vulkáni domb történelmileg megfigyelőhelyként szolgált, ma pedig a nemzetközi repülőtér közelsége miatt fontos telekommunikációs és légiforgalmi irányító létesítményeknek ad otthont. Csúcsáról a látogatók megcsodálhatják Espargos városának teljes kiterjedését és Sal szigetének lapos táját egészen a tengerig. A hegy a város szimbóluma, és szervesen beépült a lakók mindennapi életébe. Sziklás és száraz domborzata tipikus a szigetvilág keleti szigeteire, ahol a növényzet szinte teljesen hiányzik. Ez egy olyan hely, ahol a modern technológia találkozik a sziget ősi geológiájával. Egy erkély Sal fővárosa felett.",
+      "factsAdvanced": [
+        "Központi hegy az insuláris főváros, Espargos közepén.",
+        "A nemzeti légiforgalmi irányítás és radarendszerek székhelye.",
+        "A legjobb kilátópont a városra és a repülőtér területére.",
+        "Sal városi életterének integrált része.",
+        "Száraz vulkáni domborzat jellegzetes bazaltszerkezetekkel.",
+        "A zöld-foki telekommunikáció fontos csomópontja.",
+        "Tágas kilátást nyújt a teljes szigetfelületre.",
+        "A szigeti infrastruktúra modern fejlődésének szimbóluma."
+      ]
+    },
+    {
+      "id": "monte-arruda-relief-v2",
+      "descriptionAdvanced": "A Monte Arruda a lakatlan Santa Luzia sziget legmagasabb csúcsa, elérve a 395 méteres magasságot. Ez a hegy uralja a sziget száraz táját, és magányos, vad perspektívát kínál a Santa Luziából és a környező szigetecskékből álló kis archipelágra. Mivel egy szigorú természetvédelmi területen található, a Monte Arruda létfontosságú élőhely a hüllők és endemikus madarak számára, amelyek itt nem tapasztalnak emberi tevékenységből fakadó nyomást. A hegy domborzatát erős szélerózió és a fás növényzet szinte teljes hiánya jellemzi, ami egy magashegyi sivatag megjelenését kölcsönzi neki. Csúcsáról tiszta napokon São Vicente és São Nicolau szigetei is tisztán felismerhetők. A Monte Arruda képviseli a Zöld-foki-szigetek legnagyobb lakatlan területének földrajzi szívét. Az érintetlen csend emlékműve.",
+      "factsAdvanced": [
+        "Az egyetlen lakatlan sziget, Santa Luzia legmagasabb pontja.",
+        "Egy szigorúan védett integratív természetvédelmi terület magja.",
+        "Extrém szárazság és szélerózió által meghatározott táj.",
+        "Az endemikus óriásszkink egyik fontos menedékhelye.",
+        "Panorámás kilátást nyújt a São Vicente-szorosra.",
+        "Csak tudományos célból, külön engedéllyel látogatható.",
+        "A szigetcsoport abszolút ősiségének szimbóluma.",
+        "Egyedülálló száraz hegyi ökoszisztéma a Közép-Atlanti-óceánon."
+      ]
+    },
+    {
+      "id": "monte-joaquim-relief-v2",
+      "descriptionAdvanced": "A Monte Joaquim egy hegy Boa Vista szigetének északi részén, és egy vulkáni kiemelkedést képvisel, amely látványosan emelkedik ki egy száraz síkságból. Ez a hegy különleges ökológiai jelentőséggel bír, mivel sziklás lejtői fészkelőhelyet biztosítanak számos tengeri madárfaj és ragadozómadár számára, amelyek a sziget nemzeti parkjain belül védettek. A Monte Joaquim körüli tájat zord szépség jellemzi, sötét vulkáni talajok és szívós sivatagi növények határozzák meg. Bár nem rendkívül magas, izolált helyzete impozáns jelenlétet kölcsönöz neki Boa Vista északi részének lapos táján. Érdekes pont a geológusok és természetkutatók számára, mivel betekintést nyújt a sziget domborzatának korai keletkezési fázisaiba. Csúcsáról az északi régió legvadabb és legérintetlenebb strandjai láthatók. A sivatag néma őre.",
+      "factsAdvanced": [
+        "Izolált vulkáni kiemelkedés Boa Vista északi részén.",
+        "Védett költőterület ritka atlanti tengeri madarak számára.",
+        "Markáns kontraszt a fekete szikla és a világos homok között.",
+        "A sziget nemzeti parkjainak kiterjedt hálózatának része.",
+        "Tágas kilátást nyújt az érintetlen északi partra.",
+        "Fontos geológiai tanúhegy vulkáni eredettel.",
+        "Menedék ragadozómadaraknak, például a zöld-foki dögkeselyűnek.",
+        "Rendkívül alacsony emberi jelenlétű területen fekszik."
+      ]
+    },
+    {
+      "id": "serra-da-garca-relief-v2",
+      "descriptionAdvanced": "A Serra da Garça egy látványos és rendkívül tagolt hegylánc Santo Antão szigetének északi részén, amely mély völgyeiről és az óceánba hirtelen szakadó lejtőiről ismert. Ez a domborzat az intenzív esőzések és az erős északi szelek okozta erózió eredménye, aminek következtében a Zöld-foki-szigetek legdrámaibb tájai jöttek létre. A Serra da Garçában kis mezőgazdasági közösségek élnek, akik hihetetlenül meredek teraszokon művelik a talajt, dacolva a gravitáció törvényeivel. Az ezen a serrán áthaladó túraútvonalak világklasszisnak számítanak, és egyedülálló kalandélményeket kínálnak a magashegységben. A magasabb zónák párás mikroklímája gazdag növényzetet tart fenn, szemben a szárazabb alacsonyabb területekkel. A természet erejének és az emberi állhatatosságnak az emlékműve a nehéz terep formálásában. Az erózió mesterműve.",
+      "factsAdvanced": [
+        "Az ország egyik legerősebben tagolt hegymasszívuma.",
+        "Extrém mély és szűk eróziós völgyek jellemzik.",
+        "Több mint 1000 méteres függőleges látóvonalakat kínál az óceánig.",
+        "Hősies teraszos mezőgazdaság helyszíne a meredek lejtőkön.",
+        "Világhírű terület az igényes hegyi túrázáshoz.",
+        "Mikroklímája lehetővé teszi a citrusfélék és a kávé termesztését.",
+        "Geológiailag szaggatott bazaltgerincek és csúcsok jellemzik.",
+        "Az atlanti eróziós folyamatok erejének lenyűgöző példája."
+      ]
+    }
+  ]
+}

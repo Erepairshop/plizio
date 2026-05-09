@@ -1,0 +1,49 @@
+{
+  "lang": "de",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nakonde-cities-v2",
+      "descriptionAdvanced": "Nakonde ist eine strategisch bedeutende Grenzstadt in der Muchinga-Provinz, die als wichtigstes Gateway für den Handel mit Tansania fungiert. Durch ihre Lage an der TAZARA-Eisenbahnlinie und der wichtigen Fernstraße ist sie ein unverzichtbares Zentrum für den grenzüberschreitenden Güterverkehr und die Logistik in Ost- und Südafrika. Nakonde hat sich aufgrund dieses Transit-Aufkommens zu einem dynamischen Handelszentrum entwickelt, das nicht nur Waren umschlägt, sondern auch lokale Dienstleistungen und Versorgungsangebote für eine schnell wachsende Bevölkerung bereitstellt. Die Stadt ist ein Paradebeispiel für die wirtschaftliche Entwicklung durch grenzüberschreitende Infrastruktur. Geografie K7 — bedeutende Handels- und Grenzstandorte.",
+      "factsAdvanced": ["Zentrales Gateway für den Handel mit Tansania", "Wichtiger Transitknotenpunkt in der Muchinga-Provinz", "Standort an der TAZARA-Bahnlinie", "Dynamisches Handels- und Versorgungszentrum", "Höhe: ca. 1.250 Meter", "Essenzielle Rolle für den grenzüberschreitenden Warenfluss"]
+    },
+    {
+      "id": "shiwangandu-cities-v2",
+      "descriptionAdvanced": "Shiwang'andu in der Muchinga-Provinz ist bekannt für das historische, im englischen Stil errichtete Herrenhaus, das Sir Stewart Gore-Browne Anfang des 20. Jahrhunderts erbauen ließ. Dieses architektonische Kleinod und das nahe gelegene Kapishya-Quellengebiet machen die Region zu einem einzigartigen Ziel, das koloniale Geschichte mit natürlichen Heilquellen verbindet. Shiwang'andu bewahrt ein reiches kulturelles Erbe und dient gleichzeitig als Ausgangspunkt für die Erkundung der ländlichen Gebiete Muchingas. Die Verbindung von Architektur und Naturressourcen schafft ein Alleinstellungsmerkmal für diesen Standort, der sowohl geschichtsinteressierte Reisende als auch Erholungssuchende anzieht. Geografie K7 — kulturhistorisch bedeutende Standorte mit Naturbezug.",
+      "factsAdvanced": ["Heimat des historischen Shiwang'andu-Herrenhauses", "Nahegelegene Kapishya-Quellen", "Kulturelles Erbe von Sir Stewart Gore-Browne", "Zentrum für kulturhistorischen Tourismus", "Höhe: ca. 1.300 Meter", "Verbindung von Kolonialgeschichte und Natur"]
+    },
+    {
+      "id": "mafinga-cities-v2",
+      "descriptionAdvanced": "Mafinga ist ein ländlich geprägter Standort in der Muchinga-Provinz, der unmittelbar an die gleichnamigen Mafinga-Hügel grenzt, die das höchste Gebirge Sambias bilden. Die Region ist von einer beeindruckenden Berglandschaft gezeichnet und bietet eine isolierte, aber naturräumlich reizvolle Umgebung, die vor allem durch kleinteilige Landwirtschaft geprägt ist. Als administrativer Ankerpunkt versorgt Mafinga die umliegenden ländlichen Gemeinschaften mit grundlegenden Dienstleistungen. Die Stadt dient als wichtiger Ausgangspunkt für Trekking- und Naturerlebnisse in den Mafinga-Hügeln und repräsentiert die wirtschaftliche und soziale Stabilität in dieser abgelegenen Bergregion Sambias. Geografie K7 — administrative Zentren in Hochgebirgsregionen.",
+      "factsAdvanced": ["Lage nahe den Mafinga-Hügeln (höchstes Gebirge Sambias)", "Rural geprägter Standort in der Muchinga-Provinz", "Administrativer Ankerpunkt für ländliche Gemeinschaften", "Ausgangspunkt für Natur- und Trekkingtourismus", "Höhe: ca. 1.500 Meter", "Wichtiger sozialer Anker in der Bergregion"]
+    },
+    {
+      "id": "kasempa-cities-v2",
+      "descriptionAdvanced": "Kasempa blickt als ältester Distrikt der Nordwestprovinz auf eine tief verwurzelte Geschichte und kulturelle Tradition zurück, die bis heute durch Zeremonien wie das 'Jafuta'-Fest gelebt wird. Die Stadt bewahrt das kulturelle Erbe der lokalen Gemeinschaften und fungiert als administratives und soziales Zentrum. Kasempa ist ein Ort, der den Wandel zwischen traditioneller Lebensweise und moderner Bezirksverwaltung widerspiegelt. Die Wirtschaft der Region ist nach wie vor stark landwirtschaftlich ausgerichtet, während die soziale Identität der Stadt eng mit ihrer historischen Bedeutung als ältester Distrikt verknüpft ist. Kasempa ist ein kulturelles Rückgrat der Nordwestprovinz. Geografie K7 — historisch-kulturelle Verwaltungszentren.",
+      "factsAdvanced": ["Ältester Distrikt der Nordwestprovinz", "Heimat der kulturellen Jafuta-Zeremonie", "Wichtiger administrativer und sozialer Standort", "Bewahrer des kulturellen Erbes der Region", "Höhe: ca. 1.200 Meter", "Kulturelles Zentrum der Nordwestprovinz"]
+    },
+    {
+      "id": "lukulu-cities-v2",
+      "descriptionAdvanced": "Lukulu liegt in der Westprovinz direkt am Sambesi-Fluss und ist ein wichtiges regionales Zentrum für den Fischfang und den lokalen Handel. Die ständige Nähe zum Sambesi bestimmt den Lebensrhythmus der Stadt und macht sie zu einem Umschlagplatz für aquatische Ressourcen, die für die Ernährung und den Handel in der Region unverzichtbar sind. Lukulu fungiert als ein lokaler Versorgungsstandort, der sowohl die Bedürfnisse der Fischer als auch die der umliegenden landwirtschaftlichen Gemeinschaften bedient. Die Stadt ist ein Beispiel für einen Standort, dessen Entwicklung untrennbar mit dem Sambesi-Fluss und der nachhaltigen Nutzung seiner ökologischen Potenziale verbunden ist. Geografie K7 — flussorientierte Handelszentren.",
+      "factsAdvanced": ["Wichtiges Zentrum für Fischfang", "Lage am Sambesi-Fluss", "Lokaler Versorgungsstandort", "Handelsplatz für aquatische Ressourcen", "Höhe: ca. 1.050 Meter", "Wirtschaftliches Bindeglied am Sambesi"]
+    },
+    {
+      "id": "kalabo-cities-v2",
+      "descriptionAdvanced": "Kalabo ist eine Stadt in der Westprovinz, die für ihre geografische Nähe zum Liuwa-Plain-Nationalpark bekannt ist und als wichtiges Tor zu diesem einzigartigen Naturschutzgebiet dient. Der Ort fungiert als logistische Basis für Besucher, die den Nationalpark und dessen beeindruckende Tierwanderungen erleben möchten. Die Wirtschaft Kalabos stützt sich auf eine Mischung aus Handelsdienstleistungen, lokaler Landwirtschaft und einer wachsenden Rolle als touristisches Servicezentrum. Die Stadt bewahrt eine ruhige Atmosphäre und ist tief in der Kultur der Barotse-Region verwurzelt. Kalabo verbindet den Naturschutz mit der Entwicklung lokaler Serviceangebote. Geografie K7 — Standorte an Nationalparks.",
+      "factsAdvanced": ["Tor zum Liuwa-Plain-Nationalpark", "Wichtige logistische Basis für den Tourismus", "Zentrum für Handel und lokale Landwirtschaft", "Tief verwurzelt in der Kultur der Barotse-Region", "Höhe: ca. 1.050 Meter", "Wichtiger Service-Standort für Naturschutzgebiete"]
+    },
+    {
+      "id": "sinazongwe-cities-v2",
+      "descriptionAdvanced": "Sinazongwe liegt am nördlichen Ufer des Kariba-Sees in der Südprovinz und ist ein Ort, der primär durch seine Fischereiwirtschaft geprägt ist. Die Lage am Stausee bietet der Bevölkerung eine Lebensgrundlage und macht die Stadt zu einem lokalen Zentrum für den Fischhandel. Trotz ihrer industriell-fischereilichen Ausrichtung gewinnt Sinazongwe zunehmend an Attraktivität für den Binnentourismus, da der See vielfältige Erholungsmöglichkeiten bietet. Die Entwicklung des Ortes ist stark mit der ökologischen und ökonomischen Nutzung des Kariba-Beckens verknüpft. Als Teil der Südprovinz verbindet Sinazongwe Tradition mit den modernen Herausforderungen der Ressourcennutzung. Geografie K7 — fischereiorientierte Standorte am Binnengewässer.",
+      "factsAdvanced": ["Bedeutendes Zentrum der Fischereiwirtschaft", "Lage am Kariba-See", "Wichtiger Handelsplatz für Fischereiprodukte", "Wachsende Bedeutung für den Binnentourismus", "Höhe: ca. 500 Meter", "Wichtiger Standort im Kariba-Becken"]
+    },
+    {
+      "id": "rufunsa-cities-v2",
+      "descriptionAdvanced": "Rufunsa ist eine Stadt und ein Bezirk in der Provinz Lusaka, der durch eine Kombination aus traditionellem Bergbau und einer malerischen natürlichen Umgebung charakterisiert ist. Die Region bietet vielfältige geographische Merkmale, die sie zu einem interessanten Standort für sowohl lokale wirtschaftliche Aktivitäten als auch für naturverbundene Erholung machen. Als Bezirk in der Provinz Lusaka profitiert Rufunsa von seiner relativen Nähe zur Hauptstadt bei gleichzeitiger Wahrung eines eher ländlichen, traditionell geprägten Charakters. Die Wirtschaft ist stark durch kleinteilige Aktivitäten in Bergbau und Landwirtschaft geprägt. Rufunsa verkörpert eine Region im Übergang von traditioneller Ressourcen-Nutzung zu modernerer Verwaltung und Erschließung. Geografie K7 — Regionen mit gemischter Ressourcen-Nutzung.",
+      "factsAdvanced": ["Standort für traditionellen Bergbau", "Malerische natürliche Umgebung", "Wichtiger Bezirk in der Provinz Lusaka", "Ländlich geprägter Standort", "Höhe: ca. 1.100 Meter", "Kombination aus traditioneller Wirtschaft und Entwicklung"]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mwata-kazembe-palace-history-v2",
+      "descriptionAdvanced": "The Mwata Kazembe Palace in Mwansabombwe is the traditional seat of the Lunda Kingdom and a central symbol of cultural identity in Zambia. After the Lunda migrated from the Congo basin in the 18th century, they established a complex societal structure, with this palace at its center. The place is especially famous as the venue for the annual Mutomboko ceremony, which celebrates the proud spirit and cultural heritage of the Lunda people. Visitors and historians revere the palace as a site of living history, showing how traditional forms of governance have retained their relevance in a changing world and continue to shape the social fabric in Luapula to this day.",
+      "factsAdvanced": [
+        "Traditional seat of the Lunda Kingdom",
+        "Origins in the 18th century through migration",
+        "Center of the annual Mutomboko ceremony",
+        "Symbol for the cultural identity of the Lunda",
+        "Cultural heart of Mwansabombwe",
+        "Important site for traditional governance"
+      ]
+    }
+  ]
+}

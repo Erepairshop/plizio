@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-mossel-bay-cities-v2",
+      "descriptionAdvanced": "Mossel Bay egy történelmi kikötőváros az Indiai-óceán partján, amely a Garden Route hivatalos déli kapujaként szolgál. A város gazdag tengerészeti múltra tekint vissza, hiszen 1488-ban Bartolomeu Dias itt lépett először afrikai földre. Ma a város nemcsak turisztikai központ, hanem iparilag is fontos, különösen a földgáz-folyékony üzemanyag (gas-to-liquids) finomítóüzeme révén, amely meghatározó gazdasági tényező a régióban.",
+      "factsAdvanced": [
+        "A Garden Route déli kapuja.",
+        "Bartolomeu Dias 1488-ban itt szállt partra.",
+        "Jelentős földgáz-folyékony üzemanyag finomítóüzem található itt.",
+        "Hosszú tengerészeti és felfedezői történelemmel bír.",
+        "Népszerű bázis a tengeri állatok megfigyelésére.",
+        "Gyönyörű, tagolt tengerparti környezet jellemzi."
+      ]
+    },
+    {
+      "id": "southafrica-saldanha-cities-v2",
+      "descriptionAdvanced": "Saldanha a dél-afrikai Nyugati-Fokföld tartomány egyik legfontosabb tengeri csomópontja, amely a természet adta mély vizű öblének köszönhetően vált jelentős kikötővé. A város a vasérc-export központi állomása, ahova a szárazföld belsejéből érkező speciális vasútvonalon szállítják a kitermelt érceket. Saldanha modern ipari környezete mellett a nyugodt tengerparti pihenés és a vitorlázás szerelmeseinek is kedvelt bázisa.",
+      "factsAdvanced": [
+        "Természetes, mély vizű öböllel rendelkezik.",
+        "Az ország legfontosabb vasérc-exportáló kikötője.",
+        "A Sishen–Saldanha vasútvonal végpontja.",
+        "Fontos ipari és hajózási központ a nyugati parton.",
+        "Kedvelt vitorlázó és vízi sporthelyszín.",
+        "A régió gazdasági vérkeringésének meghatározó állomása."
+      ]
+    },
+    {
+      "id": "southafrica-springbok-cities-v2",
+      "descriptionAdvanced": "Springbok a Namakwa régió legnagyobb városa és kereskedelmi központja, amely a sivatagos táj közepén egy igazi oázisként funkcionál. A város hírnevét különösen a tavaszi vadvirág-virágzás idején szerzi, amikor a környező száraz puszták színpompás virágtengerré változnak. Történelmileg rézbányászvárosként alakult ki, és ma is fontos állomása a Namíbiába tartó utazóknak.",
+      "factsAdvanced": [
+        "A Namakwa régió legnagyobb városa.",
+        "Híres az évente megújuló, látványos tavaszi vadvirág-virágzásáról.",
+        "1862-ben alapították rézbányászati településként.",
+        "A Namíbia felé vezető tranzitútvonalak fontos állomása.",
+        "A sivatagi régió legfontosabb kereskedelmi központja.",
+        "Sivatagi táj és meleg éghajlat jellemzi."
+      ]
+    },
+    {
+      "id": "southafrica-de-aar-cities-v2",
+      "descriptionAdvanced": "De Aar a száraz Karoo régió közepén elhelyezkedő fontos vasúti csomópont, amely stratégiai jelentőséggel bír Dél-Afrika belföldi közlekedésében. A név holland eredetű, és egy vízi vénára utal, ami a sivatagos környéken létkérdés volt. A város napjainkban a hagyományos vasúti öröksége mellett új utakon jár, és fontos központja lett az ország egyre bővülő napenergia-projektjeinek.",
+      "factsAdvanced": [
+        "A száraz Karoo régió legfontosabb vasúti csomópontja.",
+        "A város neve hollandul 'vízér' jelentésű.",
+        "A megújuló napenergia-projektek egyik dél-afrikai központja.",
+        "Központi helyszín az ország belföldi vasúthálózatában.",
+        "Tipikus karoo-i, száraz, tágas tájkép övezi.",
+        "Történelmileg a vasúti közlekedés köré épült ki."
+      ]
+    },
+    {
+      "id": "southafrica-kuruman-cities-v2",
+      "descriptionAdvanced": "Kuruman a 'Kalahári oázisaként' ismert, mivel egy állandóan bővizű forrás, az 'Eye of Kuruman' biztosítja a város vízellátását és zöld környezetét a sivatag szélén. A település történelmileg fontos állomása volt az afrikai missziós tevékenységeknek, itt működött a 19. században Robert Moffat misszionárius is. Ma Kuruman a régió kereskedelmi központja, amely életet visz a Kalahári sivatag szomszédságába.",
+      "factsAdvanced": [
+        "A 'Kalahári oázisaként' ismert település.",
+        "A Kuruman Szeme (Eye of Kuruman) nevű állandó vizű forrásról híres.",
+        "Robert Moffat misszionárius tevékenységének központja volt.",
+        "Fontos történelmi missziós helyszín a 19. századból.",
+        "A Kalahári sivatag határán fekvő kereskedelmi központ.",
+        "Kiemelkedő vízforrás a sivatagi környezetben."
+      ]
+    }
+  ]
+}

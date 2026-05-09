@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "danakil-depression-relief-v2",
+      "descriptionAdvanced": "A Danakil-mélyföld Földünk egyik legextrémebb geológiai képződménye, amely mélyen, akár 125 méterrel is a tengerszint alatt fekszik. A táj a lemeztektonika látványos csataterének számít, ahol három tektonikai lemez találkozása hozza létre a kénes forrásokat, színes sóstavakat és az aktív Dallol-vulkánt. Ez a vidék nemcsak a geológusok, hanem a természet erejét kutató tudósok számára is igazi kincsestár. Földrajz K7 — tektonikus lemezek és a Föld felszíne.",
+      "factsAdvanced": [
+        "Kb. 125 méterrel a tengerszint alatt fekszik.",
+        "Az Afar-háromszög része.",
+        "A világ egyik legforróbb régiója.",
+        "Aktív geológiai folyamatok jellemzik.",
+        "Gazdag sólelőhelyekkel rendelkezik.",
+        "Szemlélteti a lemeztektonika dinamikáját."
+      ]
+    },
+    {
+      "id": "soira-mountain-relief-v2",
+      "descriptionAdvanced": "A 3018 méter magas Soira-hegy Eritrea legmagasabb pontja, amely méltóságteljesen emelkedik ki az etióp-felföld keleti peremén. A csúcs környéke hűvös, hegyvidéki klímával rendelkezik, ami éles kontrasztban áll a tőle nem messze fekvő forró alföldekkel. A hegycsúcs és környéke kiváló terep a túrázáshoz, miközben a terület földtani felépítése fontos információkat ad a régió tektonikus kiemelkedéséről. Földrajz K7 — hegységek és domborzat.",
+      "factsAdvanced": [
+        "Magassága 3018 méter.",
+        "Eritrea legmagasabb hegye.",
+        "Az etióp-felföld része.",
+        "Alpin növényzet jellemzi.",
+        "Fontos vízválasztó a régióban.",
+        "Sziklás, nehezen járható terep."
+      ]
+    },
+    {
+      "id": "barkai-plain-relief-v2",
+      "descriptionAdvanced": "A Barka-síkság Eritrea nyugati részének hatalmas, száraz alföldje, amelyet a szezonálisan működő Barka folyó medre és annak áradásai formálnak. A területre a félsivatagi növényzet és a szélsőséges időjárási viszonyok jellemzők, mégis a folyó mentén kialakuló termékenyebb övezetek alapvetőek a helyi állattenyésztő közösségek számára. A síkság a vándorló állatcsordák és a nomadizáló életmód egyik meghatározó színtere az ország nyugati felében. Földrajz K7 — alföldek és folyórendszerek.",
+      "factsAdvanced": [
+        "A Barka folyó alakítja.",
+        "Félsivatagi éghajlat jellemzi.",
+        "Fontos nomád legelőterület.",
+        "Alacsony éves csapadékmennyiség.",
+        "Időszakos vízfolyások.",
+        "Termékeny aluviális talajok."
+      ]
+    }
+  ]
+}

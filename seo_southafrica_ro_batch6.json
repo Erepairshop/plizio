@@ -2,293 +2,72 @@
   "lang": "ro",
   "country": "southafrica",
   "files": [
-    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts"
   ],
   "items": [
     {
-      "id": "thulamela-ruins-history-v2",
-      "descriptionAdvanced": "Ruinele Thulamela, situate în partea de nord a Parcului Național Kruger, reprezintă o mărturie extraordinară a Epocii Fierului Târzii în Africa de Sud. Între secolele al XIII-lea și al XVII-lea, Thulamela a fost un centru urban înfloritor care făcea parte dintr-o civilizație comercială vastă, având legături cu Marele Zimbabwe. Zidurile de piatră impunătoare, construite fără mortar, reflectă o ierarhie socială sofisticată și o măiestrie tehnică avansată. Descoperirile arheologice, precum perlele de aur și ceramica, atestă schimburi comerciale intense care ajungeau până în Asia. Thulamela ne reamintește că Africa deținea structuri statale complexe cu mult timp înainte de sosirea europenilor. Istorie K8 — Regatele epocii fierului și comerțul transcontinental.",
+      "id": "koeberg-nuclear-power-station-economic-v2",
+      "descriptionAdvanced": "Centrala nucleară Koeberg, situată pe coasta Atlanticului la nord de Cape Town, reprezintă o facilitate energetică unică, fiind singura centrală nucleară comercială de pe întregul continent african. Aceasta joacă un rol vital în furnizarea energiei electrice pentru provincia Western Cape, asigurând o parte substanțială din sarcina de bază a sistemului energetic regional. Utilizarea apei oceanului pentru sistemele de răcire a celor două reactoare cu apă sub presiune constituie o soluție inginerească strategică. Având în vedere complexitatea și standardele riguroase de siguranță, Koeberg rămâne un pilon tehnologic și energetic esențial pentru stabilitatea infrastructurii din Africa de Sud.",
       "factsAdvanced": [
-        "Important sit al Epocii Fierului Târzii (aprox. 1250–1700 d.Hr.).",
-        "Aparține culturii Zimbabwe (ziduri de piatră uscată).",
-        "Locul unde au fost descoperite morminte regale cu bijuterii din aur.",
-        "Situat pe un platou deasupra râului Luvuvhu.",
-        "A fost redescoperit de rangeri abia în anul 1983.",
-        "Centru pentru topirea fierului și a aurului.",
-        "Resturile zidurilor au fost restaurate cu grijă în anii '90.",
-        "Dovadă a legăturilor comerciale cu coasta Oceanului Indian."
+        "Singura centrală nucleară comercială din Africa.",
+        "Utilizează apa Atlanticului pentru sistemele de răcire.",
+        "Două reactoare performante cu apă sub presiune.",
+        "Sursă esențială pentru alimentarea provinciei Western Cape.",
+        "Standarde riguroase de siguranță și întreținere operațională.",
+        "Pilon tehnologic vital pentru infrastructura națională.",
+        "Contribuie constant la sarcina de bază a energiei electrice."
       ]
     },
     {
-      "id": "blombos-cave-history-v2",
-      "descriptionAdvanced": "Peștera Blombos, situată pe coasta sudică a provinciei Western Cape, este o senzație arheologică ce a revoluționat înțelegerea noastră despre cogniția umană timpurie. În straturile vechi de aproximativ 75.000 de ani, cercetătorii au descoperit piese de ocru gravate și perle din scoici marine – cele mai timpurii dovezi din lume ale gândirii simbolice și ale creației artistice abstracte ale Homo sapiens. Aceste descoperiri demonstrează că primii oameni posedau deja comportamente sociale complexe și o percepție estetică rafinată cu mult timp înainte de a coloniza Europa. Peștera este o fereastră către momentul nașterii culturii umane moderne. Istorie K8 — Originile omului modern și dezvoltarea cognitivă.",
+      "id": "anglo-american-platinum-rustenburg-economic-v2",
+      "descriptionAdvanced": "Operațiunile Anglo American Platinum din regiunea Rustenburg reprezintă un element cheie în industria globală a metalelor prețioase. Ca parte integrantă a complexului geologic Bushveld, această mină contribuie major la aprovizionarea lumii cu platina și metale din grupa platinelor, resurse indispensabile pentru tehnologii moderne precum convertoarele catalitice auto care reduc emisiile poluante. Prin amploarea activităților sale, Anglo American Platinum consolidează poziția Africii de Sud ca lider mondial în extracția acestor metale rare și valoroase, fiind un motor economic și un angajator de referință în sectorul minier din provincia North West.",
       "factsAdvanced": [
-        "Locul unde a fost găsită cea mai veche gravură abstractă cunoscută (cca. 75.000 ani).",
-        "Descoperirea unor perle perforate din scoici (Nassarius kraussianus).",
-        "Atestă utilizarea ocrului ca pigment în Epoca de Piatră Mijlocie.",
-        "Situată într-o rezervație naturală privată lângă Still Bay.",
-        "Situl deține un 'set de pictură' preistoric pentru fabricarea pastelor colorate.",
-        "A oferit dovezi despre o tehnică de pescuit specializată timpurie.",
-        "Centru de cercetare de importanță internațională pentru evoluția umană.",
-        "Parte a regiunii de cercetare a peșterilor de coastă din Cape."
+        "Parte vitală a complexului geologic Bushveld.",
+        "Contribuție majoră la aprovizionarea globală cu metale din grupa platinei.",
+        "Resursele extrase sunt esențiale pentru convertoarele catalitice auto.",
+        "Jucător dominant pe piața mondială a platinei.",
+        "Esențial pentru reducerea emisiilor poluante la nivel global.",
+        "Motor economic și angajator de referință în North West.",
+        "Consolidează poziția Africii de Sud ca lider minier mondial."
       ]
     },
     {
-      "id": "kimberley-mine-history-v2",
-      "descriptionAdvanced": "Mina Kimberley, cunoscută mai ales sub numele de 'Big Hole', este relicva monumentală a goanei după diamante din Africa de Sud în secolul al XIX-lea. Între 1871 și 1914, mii de mineri au săpat manual, folosind doar târnăcoape și lopeți, o groapă de peste 200 de metri adâncime și un perimetru de 1,6 kilometri – fiind odinioară cea mai adâncă excavație manuală din lume. Descoperirea diamantelor a schimbat radical peisajul economic și politic al Africii de Sud, ducând la formarea gigantului De Beers. Astăzi, Muzeul Minei Kimberley oferă o incursiune fascinantă în condițiile dure de viață ale căutătorilor de diamante și în revoluția industrială a țării. Istorie K8 — Capitalismul minier și schimbările sociale.",
+      "id": "impala-platinum-mine-economic-v2",
+      "descriptionAdvanced": "Mina Impala Platinum, situată în apropierea centrului industrial Rustenburg, este una dintre cele mai importante operațiuni miniere pentru metalele din grupa platinei la scară mondială. Cu o infrastructură subterană complexă, caracterizată prin multiple sisteme de puțuri de mare adâncime, mina dispune de o capacitate de extracție ridicată. Angajând zeci de mii de persoane din întreaga regiune, Impala Platinum reprezintă o forță economică incontestabilă, susținând dezvoltarea comunităților locale și a economiei provinciei North West. Producția sa diversificată de metale rare satisface o cerere globală în creștere, confirmând statutul minei ca un pilon de bază al industriei miniere sud-africane.",
       "factsAdvanced": [
-        "Cea mai mare excavație manuală din lume.",
-        "A produs aproximativ 14,5 milioane de carate de diamante în perioada sa de activitate.",
-        "A atins o adâncime maximă de 240 de metri.",
-        "Formată pe locul fostei ferme a fraților De Beer.",
-        "Deține un muzeu în aer liber cu clădiri victoriene originale reconstruite.",
-        "Puțurile subterane ajung la o adâncime de peste 1.000 de metri.",
-        "Scena centrală a istoriei miniere sud-africane.",
-        "Astăzi este o atracție turistică majoră cu o platformă spectaculoasă de observație."
+        "Una dintre principalele operațiuni de platină la nivel global.",
+        "Infrastructură subterană complexă cu multiple sisteme de puțuri.",
+        "Angajator pentru zeci de mii de muncitori în regiune.",
+        "Forță economică majoră pentru provincia North West.",
+        "Producție diversificată de metale din grupa platinei.",
+        "Jucător strategic pentru cererea industrială globală.",
+        "Pilon de bază pentru industria extractivă sud-africană."
       ]
     },
     {
-      "id": "sterkfontein-caves-history-v2",
-      "descriptionAdvanced": "Peșterile Sterkfontein din provincia Gauteng sunt cea mai bogată sursă de fosile de hominizi din lume și piesa centrală a 'Leagănului Omenirii'. Faima mondială a peșterilor provine din descoperirea lui 'Mrs. Ples', un craniu de peste două milioane de ani aparținând unui Australopithecus africanus, și a scheletului aproape complet 'Little Foot'. Aceste descoperiri au oferit dovezi cruciale că strămoșii omului mergeau vertical acum milioane de ani. Peșterile funcționează ca un centru activ de cercetare și oferă vizitatorilor ocazia unică de a pătrunde adânc în trecutul geologic și evolutiv al speciei noastre. Istorie K8 — Arheologia evolutivă și cercetarea hominizilor.",
+      "id": "foskor-phalaborwa-economic-v2",
+      "descriptionAdvanced": "Uzina de fosfați Foskor din Phalaborwa constituie un centru industrial vital în provincia Limpopo, fiind specializată în producția de rocă fosfatică și acid fosforic de înaltă calitate. Aceste resurse sunt fundamentale pentru sectorul agricol global, reprezentând baza pentru fabricarea îngrășămintelor moderne care susțin productivitatea terenurilor agricole. Foskor se integrează eficient în ecosistemul industrial din Phalaborwa, operând în proximitatea altor mine de cupru, ceea ce creează sinergii operaționale. Prin exporturile sale masive de acid fosforic, uzina contribuie semnificativ la balanța comercială a Africii de Sud și la securitatea alimentară globală, fiind un punct de reper industrial pentru regiune.",
       "factsAdvanced": [
-        "Cel mai important sit din Patrimoniul UNESCO 'Leagănul Omenirii'.",
-        "Descoperirea lui 'Mrs. Ples' de către Robert Broom în anul 1947.",
-        "Locul unde a fost găsit 'Little Foot', unul dintre cele mai complete schelete de hominizi.",
-        "Peșteri de calcar cu camere adânci de peste 40 de metri.",
-        "Săpături arheologice continue de peste 60 de ani.",
-        "Conține fosile cu o vechime de până la 3,6 milioane de ani.",
-        "Aflat în proprietatea Universității Witwatersrand.",
-        "Centru de vizitatori interactiv despre originile umane."
+        "Producător major de rocă fosfatică și acid fosforic.",
+        "Componente esențiale pentru industria îngrășămintelor agricole.",
+        "Exporturi de mare valoare la nivel global.",
+        "Integrare sinergică cu industria minieră de cupru din regiune.",
+        "Pilon industrial vital pentru economia provinciei Limpopo.",
+        "Contribuie major la securitatea alimentară internațională.",
+        "Punct de reper industrial pentru Phalaborwa."
       ]
     },
     {
-      "id": "kaditshwene-ruins-history-v2",
-      "descriptionAdvanced": "Kaditshwene a fost la începutul secolului al XIX-lea cel mai mare oraș din Africa de Sud și centrul cultural al poporului Bahurutshe (o ramură a Tswana). La apogeul său, orașul găzduia peste 20.000 de locuitori, fiind în acea perioadă mai mare decât orașul Cape Town. Ruinele din provincia North West prezintă o arhitectură impresionantă din piatră uscată și atestă o metalurgie a fierului și o agricultură extrem de dezvoltate. Orașul a fost distrus în timpul războaielor Difaqane, însă resturile sale rămân un simbol puternic al urbanizării precoloniale din Africa de Sud și al măiestriei tehnologice a popoarelor Sotho-Tswana. Istorie K8 — Urbanizarea precolonială și perioada Difaqane.",
+      "id": "modikwa-platinum-mine-economic-v2",
+      "descriptionAdvanced": "Mina de platină Modikwa, amplasată strategic pe ramura de est a complexului geologic Bushveld, se distinge printr-un model de management independent și un angajament social pronunțat. Funcționând ca un joint-venture între African Rainbow Minerals și Anglo American Platinum, mina nu urmărește doar eficiența economică în extracția platinei, ci pune un accent puternic pe politici de capacitarea economică a persoanelor de culoare (Black Economic Empowerment). Acest abordare integrată transformă mina Modikwa într-un model de dezvoltare industrială responsabilă, care contribuie direct la bunăstarea comunităților locale și la progresul socioeconomic al regiunii, menținând în același timp o producție sustenabilă de metale strategice.",
       "factsAdvanced": [
-        "Capitala Bahurutshe la începutul secolului al XIX-lea.",
-        "Populație de peste 20.000 de persoane (în jurul anului 1820).",
-        "Faimos pentru topirea specializată a fierului și a cuprului.",
-        "Descris de călători precum John Campbell ca o metropolă înfloritoare.",
-        "Arhitectură din pietre naturale stratificate artistic (Litha).",
-        "Cel mai important centru comercial al regiunii înainte de epoca colonială.",
-        "Monument național al Africii de Sud.",
-        "Situat în apropierea orașului Zeerust."
-      ]
-    },
-    {
-      "id": "pilgrims-rest-history-v2",
-      "descriptionAdvanced": "Pilgrim's Rest, în provincia Mpumalanga, este un oraș-muzeu viu care a conservat epoca goanei după aur sud-africane din anii 1870. După ce în 1873 s-a descoperit aur în pârâul local, mii de căutători de noroc au invadat valea izolată. Orașul a fost declarat monument național în întregime în 1986 și își păstrează farmecul victorian cu case din tablă ondulată și prăvălii istorice. O plimbare pe străzile din Pilgrim's Rest pare o călătorie în timp către începuturile mineritului în Africa de Sud. Este un exemplu unic de așezare de pionieri bine conservată, situată într-un peisaj montan spectaculos. Istorie K8 — Descoperirile de aur și istoria pionierilor.",
-      "factsAdvanced": [
-        "Locul primei goane după aur semnificative din Africa de Sud (1873).",
-        "Întregul oraș este sub protecția monumentelor istorice.",
-        "Numit după căutătorul de aur Alec 'Wheelbarrow' Patterson.",
-        "Găzduiește Hotelul Royal și conacul istoric Alanglade.",
-        "Centrul mineritului de aur aluvionar din regiune.",
-        "Situat pe pitoreasca Rută Panoramă.",
-        "Deține un cimitir istoric unde toate mormintele sunt orientate spre est (cu o excepție).",
-        "Locație importantă pentru meșteșugul spălării aurului."
-      ]
-    },
-    {
-      "id": "pinnacle-point-caves-history-v2",
-      "descriptionAdvanced": "Pinnacle Point, lângă Mossel Bay, este un sit de patrimoniu arheologic mondial care dovedește că primii oameni moderni au început să utilizeze sistematic resursele mării acum 170.000 de ani. Descoperirile din peșterile situate pe stâncile spectaculoase arată că strămoșii noștri colectau scoici, fabricau unelte complexe din piatră prin tratament termic și foloseau primii pigmenți în scopuri rituale. Aceste comportamente marchează tranziția către conștiința umană modernă. Pinnacle Point este un element cheie al cercetării despre adaptarea umană la mediile de coastă în timpul erelor glaciare. Istorie K8 — Preistoria și strategiile de adaptare umană.",
-      "factsAdvanced": [
-        "Atestă utilizarea fructelor de mare de către oamenii timpurii acum 164.000 de ani.",
-        "Descoperirea primului tratament termic sistematic al pietrei (silcret).",
-        "Situat într-o zonă de stânci dramatice deasupra Oceanului Indian.",
-        "Parte a proiectului turistic 'Human Origin Route'.",
-        "A oferit dovezi pentru comportamentul simbolic (pigmenți de ocru).",
-        "Descoperirile arată o capacitate ridicată de planificare a grupurilor umane timpurii.",
-        "Colaborare internațională între antropologi de renume (ASU).",
-        "Patrimoniu național de o importanță științifică globală."
-      ]
-    },
-    {
-      "id": "makapansgat-history-v2",
-      "descriptionAdvanced": "Valea Makapansgat din provincia Limpopo este o vistierie arheologică și paleontologică de o valoare imensă. Situl cuprinde zăcăminte de fosile care datează de peste trei milioane de ani și documentează evoluția de la hominizi la omul modern. Din punct de vedere istoric, valea este cunoscută și ca locul asediului din 1854, când șeful Makapan s-a refugiat cu poporul său într-o peșteră masivă în fața voortrekkers-ilor. Makapansgat face parte din patrimoniul mondial UNESCO și oferă o combinație unică de cercetare evolutivă și istorie colonială tragică. Diversitatea fosilelor de mamifere găsite aici este fără egal în lume. Istorie K8 — Paleoantropologia și conflictele de rezistență.",
-      "factsAdvanced": [
-        "Parte a Patrimoniului Mondial UNESCO 'Leagănul Omenirii'.",
-        "Locul unde a fost găsit 'pumnalul Makapansgat' (față naturală pe piatră).",
-        "Conține 'Peștera Istorică', scena asediului din 1854.",
-        "Descoperiri de fosile ale Australopithecus prometheus.",
-        "Atestă schimbările climatice pe parcursul a milioane de ani.",
-        "Situat în apropierea orașului Mokopane.",
-        "Unul dintre cele mai bine documentate ecosisteme pleistocene din lume.",
-        "Situl de cercetare al Universității Witwatersrand."
-      ]
-    },
-    {
-      "id": "hector-pieterson-memorial-history-v2",
-      "descriptionAdvanced": "Memorialul și Muzeul Hector Pieterson din Soweto amintește de revolta studențească din 1976, un punct de cotitură în lupta împotriva regimului de apartheid. Este numit după băiatul de 12 ani care a fost una dintre primele victime ale violenței polițienești. Fotografia celebră la nivel mondial a lui Hector muribund, purtat de Mbuyisa Makhubo, a făcut înconjurul lumii și a trezit conștiința internațională. Muzeul documentează rolul tineretului în lupta de eliberare și protestul împotriva introducerii limbii afrikaans ca singură limbă de predare. Este un loc de durere profundă, dar și un simbol al curajului neclintit al unei noi generații de sud-africani. Istorie K8 — Revolta din Soweto și rezistența internațională.",
-      "factsAdvanced": [
-        "Inaugurat pe 16 iunie 2002 pentru a comemora evenimentele din 16 iunie 1976.",
-        "Situat la doar două străzi de locul unde Hector Pieterson a fost împușcat.",
-        "Simbolizează rezistența împotriva legii 'Bantu Education Act'.",
-        "Cărămida roșie a clădirii reflectă arhitectura tipică a Soweto-ului.",
-        "Monumentul conține o placă cu numele multor elevi căzuți.",
-        "Punct central al complexului turistic de pe strada Vilakazi.",
-        "Thematizează puterea mass-media prin fotografia lui Sam Nzima.",
-        "Un loc de reflecție națională și educație."
-      ]
-    },
-    {
-      "id": "taung-heritage-site-history-v2",
-      "descriptionAdvanced": "Situl de Patrimoniu Taung din North West este locul unde a fost descoperit celebrul 'Copil de la Taung', prima fosilă de pre-om găsită în Africa. Descoperirea realizată de Raymond Dart în 1924 a fost o senzație științifică mondială, deoarece a dovedit că leagănul omenirii nu se afla în Europa sau Asia, ci în Africa. Găsirea unui craniu de Australopithecus africanus a schimbat cursul științei pentru totdeauna. Astăzi, locul descoperirii face parte dintr-un sit UNESCO și găzduiește un monument și un centru de cercetare. Peisajul calcaros arid, dar impresionant de la Taung este un pământ sacru pentru antropologii din întreaga lume. Istorie K8 — Darwinismul și originea africană a umanității.",
-      "factsAdvanced": [
-        "Locul descoperirii Copilului Taung (Australopithecus africanus) în 1924.",
-        "Dovadă a mersului biped la hominizii timpurii.",
-        "Parte a extensiei Patrimoniului UNESCO 'Leagănul Omenirii'.",
-        "Descoperirea a fost făcută într-o carieră de piatră (Buxton Limeworks).",
-        "Vechimea fosilei este estimată la aproximativ 2,5 milioane de ani.",
-        "Deține o coloană memorială chiar pe locul exact al descoperirii.",
-        "Regiunea este cunoscută pentru geologia sa unică (tuf calcaros).",
-        "Situat la cca. 80 km nord de Kimberley."
-      ]
-    },
-    {
-      "id": "majuba-hill-history-v2",
-      "descriptionAdvanced": "Dealul Majuba, la granița dintre KwaZulu-Natal și Mpumalanga, este locul victoriei decisive a burilor asupra armatei britanice în Primul Război al Burilor (1881). Această bătălie a marcat una dintre cele mai grele umilințe pentru Imperiul Britanic, când un grup mic de trăgători buri a învins o unitate britanică pe vârful muntelui. Victoria a dus la independența temporară a Republicii Sud-Africane. Majuba este pentru buri un simbol al voinței de rezistență și al libertății. Astăzi, muntele este o rezervație istorică ce oferă drumeților panorame spectaculoase și o înțelegere profundă a tacticilor militare din acea vreme. Istorie K8 — Războaiele burilor și lupta anticolonială.",
-      "factsAdvanced": [
-        "Bătălia de la Majuba Hill a avut loc pe 27 februarie 1881.",
-        "Victorie decisivă pentru buri sub comanda generalului Petrus Joubert.",
-        "Moartea comandantului britanic Sir George Pomeroy Colley.",
-        "A dus la Tratatul de Pace de la Pretoria și sfârșitul primului război.",
-        "Faimoasă pentru precizia trăgătorilor voluntari buri.",
-        "Ulterior utilizată ca strigăt de răzbunare 'Remember Majuba' în al doilea război.",
-        "Deține pietre memoriale și morminte pe platoul din vârf.",
-        "Situat lângă trecătoarea strategică Laing's Nek."
-      ]
-    },
-    {
-      "id": "spion-kop-battlefield-history-v2",
-      "descriptionAdvanced": "Câmpul de luptă de la Spion Kop este scena uneia dintre cele mai sângeroase și traumatizante bătălii din al Doilea Război al Burilor, în anul 1900. Pe vârful acestui munte izolat din KwaZulu-Natal, britanicii și burii s-au luptat într-un război de tranșee strâmt pentru supremație. Spion Kop este unic deoarece aici au fost prezenți trei bărbați care au scris ulterior istoria lumii: Winston Churchill ca corespondent de război, Mahatma Gandhi ca infirmier și Louis Botha ca general bur. Bătălia s-a încheiat cu un impas tactic și pierderi devastatoare. Astăzi, mormintele lungi cu pietre albe de pe creasta muntelui avertizează asupra absurdității războiului. Istorie K8 — Al Doilea Război al Burilor și personalități globale.",
-      "factsAdvanced": [
-        "Bătălia de la Spion Kop (23–24 ianuarie 1900).",
-        "Cel mai important punct al încercării britanice de a elibera Ladysmith.",
-        "Sursă de inspirație pentru numele celebrei tribune 'The Kop' de pe stadionul Anfield.",
-        "Gandhi a servit aici în Corpul de Ambulanță pentru răniți.",
-        "Scenă a unor condiții extreme din cauza căldurii și lipsei apei pe vârful muntelui.",
-        "Cea mai costisitoare bătălie a războiului pentru ambele părți raportat la suprafață.",
-        "Oferă o vedere excelentă asupra Munților Drakensberg.",
-        "Astăzi monument național și parte a rutei 'Battlefields'."
-      ]
-    },
-    {
-      "id": "constitution-hill-history-v2",
-      "descriptionAdvanced": "Constitution Hill din Johannesburg este un loc al contrastelor extreme: găzduiește atât infama închisoare Old Fort, cât și actuala Curte Constituțională a Africii de Sud. Timp de peste 100 de ani, aici au fost încarcerați atât criminali obișnuiți, cât și deținuți politici precum Mahatma Gandhi și Nelson Mandela în condiții crude. Astăzi, locul este un monument viu al democrației. Noua clădire a instanței a fost construită simbolic din cărămizile zidurilor de închisoare dărâmate, reprezentând transparența și drepturile omului. O vizită conduce prin celulele întunecate ale închisorii 'Number Four' direct în inima luminoasă a justiției sud-africane. Istorie K8 — Statul de drept și transformarea justiției.",
-      "factsAdvanced": [
-        "Sediul Curții Constituționale a Africii de Sud din anul 2004.",
-        "Beherbergt faimoasele închisori 'Old Fort' și 'Number Four'.",
-        "Singurul loc unde au fost închiși atât Gandhi, cât și Mandela.",
-        "Instanța este accesibilă liber pentru oricine (simbol al deschiderii).",
-        "Conține 'Flacăra Democrației' care arde permanent.",
-        "Arhitectura integrează resturi ale vechilor fortificații.",
-        "Muzeu vast despre istoria drepturilor omului.",
-        "Situat în cartierul Braamfontein din Johannesburg."
-      ]
-    },
-    {
-      "id": "klasies-river-caves-history-v2",
-      "descriptionAdvanced": "Peșterile Klasies River de pe coasta Tsitsikamma sunt printre cele mai importante situri arheologice din lume pentru înțelegerea apariției omului modern Homo sapiens. Depozitele din peșteri atestă o ocupare continuă pe o perioadă de peste 100.000 de ani. Aici, cercetătorii au găsit unele dintre cele mai vechi rămășițe ale oamenilor anatomic moderni, dovedind că strămoșii noștri dezvoltaseră deja în epoca pietrei tehnici complexe de vânătoare și structuri sociale. Locația direct pe malul oceanului a permis o utilizare timpurie a resurselor marine, fapt considerat crucial pentru dezvoltarea umană. Istorie K8 — Antropogeneza și economia preistorică de coastă.",
-      "factsAdvanced": [
-        "Monument național și candidat la patrimoniul UNESCO.",
-        "Adăpostește rămășițe umane vechi de cca. 120.000 de ani.",
-        "Dovadă a celei mai timpurii utilizări sistematice a scoicilor ca hrană.",
-        "Conține dovezi ale vânătorii coordonate de mamifere mari.",
-        "Situat într-o zonă de stânci spectaculoase la Oceanul Indian.",
-        "Locație importantă pentru studiul evoluției culturale (industria Howiesons Poort).",
-        "Cercetat intens arheologic încă din anii '60.",
-        "Arată adaptarea omului la ciclurile climatice ale erei glaciare."
-      ]
-    },
-    {
-      "id": "wonderwerk-cave-history-v2",
-      "descriptionAdvanced": "Peștera Wonderwerk din Northern Cape este o minune arheologică ce documentează o istorie umană aproape neîntreruptă pe parcursul a două milioane de ani. Peștera se întinde la 140 de metri adâncime în dealurile Kuruman. Faima mondială a venit odată cu descoperirea celei mai timpurii utilizări controlate a focului de către hominizi, acum aproximativ un milion de ani. Pe lângă uneltele din epoca pietrei, peștera adăpostește picturi rupestre fascinante ale poporului San și urme ale unor practici rituale timpurii. Wonderwerk este un arhivă fără egal a adaptării umane la condițiile aride din interiorul Africii de Sud de-a lungul eonilor. Istorie K8 — Stăpânirea focului și cronologia epocii de piatră.",
-      "factsAdvanced": [
-        "Una dintre cele mai lungi secvențe arheologice din lume (2 mil. ani).",
-        "Locul descoperirii celor mai vechi dovezi de utilizare a focului (cca. 1 mil. ani).",
-        "Conține picturi rupestre cu o vechime de până la 10.000 de ani.",
-        "Situată în dealurile Kuruman din provincia Northern Cape.",
-        "Folosită de oamenii timpurii ca loc ritualic și spiritual.",
-        "A oferit dovezi despre utilizarea timpurie a pigmenților colorați (ocru).",
-        "Parte a unui proiect major de cercetare a dezvoltării umane.",
-        "Patrimoniu național de o importanță științifică remarcabilă."
-      ]
-    },
-    {
-      "id": "matjes-river-rock-shelter-history-v2",
-      "descriptionAdvanced": "Adăpostul de Stâncă Matjes River, lângă Keurboomstrand, este unul dintre cele mai bogate situri arheologice din Epoca de Piatră Târzie din sudul Africii. Acest imens adăpost natural a găzduit timp de milenii grupuri de vânători și culegători, care au lăsat în urmă o cantitate enormă de resturi (midden). Săpăturile au oferit mii de morminte, unelte din os și piatră, precum și bijuterii lucrate artistic din coji de ou de struț. Situl oferă o perspectivă fără precedent asupra vieții cotidiene, dietei și riturilor funerare ale strămoșilor popoarelor San și Khoikhoi. Matjes River este esențial pentru înțelegerea populației preistorice de coastă a Africii de Sud. Istorie K8 — Culturile epocii de piatră târzie și movilele de scoici.",
-      "factsAdvanced": [
-        "Adăpostește una dintre cele mai mari movile de resturi preistorice (midden) din Africa.",
-        "Locul unde au fost descoperite peste 3.000 de morminte umane preistorice.",
-        "Documentează modul de viață pe o perioadă de 10.000 de ani.",
-        "Situat la gura de vărsare a râului Matjes, lângă Plettenberg Bay.",
-        "Loc de descoperire a harpoanelor și cârligelor de pescuit din os.",
-        "Deține un strat de depozite arheologice de până la 10 metri grosime.",
-        "Locație importantă pentru investigarea originii popoarelor Khoisan.",
-        "Monument național și sit de cercetare."
-      ]
-    },
-    {
-      "id": "union-buildings-history-v2",
-      "descriptionAdvanced": "Clădirile Uniunii (Union Buildings) din Pretoria reprezintă sediul oficial al guvernului sud-african și o capodoperă a arhitecturii neoclasice. Proiectate de Sir Herbert Baker și finalizate în 1913, acestea tronează pe dealul Meintjieskop, oferind o vedere panoramică asupra capitalei. Clădirea este un simbol al unității țării, fiind concepută inițial pentru Uniunea din 1910. Aici a avut loc în 1994 istorica învestire a lui Nelson Mandela ca primul președinte ales democratic. Grădinile terasate splendide găzduiesc o statuie de bronz de nouă metri a lui Mandela și sunt un loc al celebrărilor naționale, dar și al protestelor cetățenești. Istorie K8 — Puterea de stat și transformarea democratică.",
-      "factsAdvanced": [
-        "Sediul Președintelui Africii de Sud.",
-        "Proiectat de arhitectul Sir Herbert Baker în anul 1910.",
-        "Punctul forte este amfiteatrul central situat între cele două aripi.",
-        "Locul depunerii jurământului de către Nelson Mandela pe 10 mai 1994.",
-        "Lungimea clădirii este de aproximativ 285 de metri.",
-        "Găzduiește monumentul iconic Delville Wood Memorial.",
-        "Construit din gresie extrasă din regiunea Free State.",
-        "Monument național și simbol vizual al orașului Pretoria."
-      ]
-    },
-    {
-      "id": "church-square-pretoria-history-v2",
-      "descriptionAdvanced": "Piața Bisericii (Church Square) este inima istorică și arhitecturală a Pretoriei. Situată inițial pe locul primei biserici a orașului, piața este astăzi înconjurată de clădiri magnifice de la sfârșitul secolului al XIX-lea și începutul secolului XX, inclusiv Raadsaal (Parlamentul Republicii Bure) și Palatul Justiției. În centrul pieței se află statuia de bronz a lui Paul Kruger, fostul președinte al ZAR. Piața a fost scena a numeroase adunări politice și reflectă atât puterea colonială, cât și tranziția către modernitate. Aici, în Palatul Justiției, a avut loc celebrul proces Rivonia, în care Nelson Mandela a fost condamnat la închisoare. Istorie K8 — Arhitectura colonială și procesele politice.",
-      "factsAdvanced": [
-        "Centrul istoric al orașului Pretoria încă de la fondarea sa în 1855.",
-        "Găzduiește Palace of Justice, locul Procesului Rivonia (1963-64).",
-        "Monumentul central îl reprezintă pe Paul Kruger ('Oom Paul').",
-        "Înconjurat de clădirile Ou Raadsaal și vechea Reserve Bank.",
-        "Conceput inițial ca piață publică și locație pentru biserică.",
-        "Deține unul dintre cele mai frumoase ansambluri de arhitectură victoriană din lume.",
-        "Loc tradițional pentru parade și adunări publice.",
-        "Nod central al transportului public urban timpuriu."
-      ]
-    },
-    {
-      "id": "fnb-stadium-landmarks-v2",
-      "descriptionAdvanced": "Stadionul FNB din Johannesburg, cunoscut și sub numele de 'Soccer City', este cel mai mare stadion de pe continentul african și o capodoperă a arhitecturii sportive moderne. Designul său spectaculos este inspirat de un dovleac african tradițional (calabash), cu exteriorul placat cu mozaicuri în culori pământii care par să strălucească în lumina soarelui. Stadionul a găzduit finala Campionatului Mondial de Fotbal din 2010 și a fost locul unde Nelson Mandela a ținut primul său discurs public după eliberarea din 1990. Cu o capacitate de peste 94.000 de locuri, FNB Stadium este simbolul pasiunii pentru sport a națiunii și inima vibrantă a evenimentelor majore din Soweto. Geografie K7 — Infrastructura sportivă și urbanizarea de mare scară.",
-      "factsAdvanced": [
-        "Cel mai mare stadion din Africa, cu o capacitate de 94.736 de locuri.",
-        "Design inspirat de un Calabash (vas tradițional african).",
-        "Găzduiește meciurile echipei naționale Bafana Bafana și ale echipei Kaizer Chiefs.",
-        "Locul ceremoniei de deschidere și al finalei Campionatului Mondial de Fotbal 2010.",
-        "Situat în Nasrec, la marginea celebrului cartier Soweto.",
-        "Aici a avut loc slujba de pomenire a lui Nelson Mandela în 2013.",
-        "Fațada este formată din peste 33.000 de panouri din beton armat cu fibră de sticlă.",
-        "Unul dintre cele mai avansate stadioane din punct de vedere tehnologic de pe glob."
-      ]
-    },
-    {
-      "id": "ponte-city-landmarks-v2",
-      "descriptionAdvanced": "Ponte City este cel mai înalt zgârie-nori rezidențial din Africa de Sud, dominând orizontul orașului Johannesburg cu structura sa cilindrică inconfundabilă. Finalizat în 1975, turnul de 54 de etaje este faimos pentru centrul său gol (core-ul central), care permite pătrunderea luminii naturale în apartamentele interioare. De-a lungul deceniilor, Ponte City a devenit un simbol al transformării urbane a Johannesburgului, trecând de la un simbol al luxului apartheid la o perioadă de declin și, ulterior, la o revitalizare spectaculoasă. Astăzi, turnul găzduiește o comunitate diversă și oferă un punct de observație inegalabil asupra metropolei, fiind o piesă centrală a identității vizuale a orașului. Geografie K7 — Arhitectura brutalistă și regenerarea urbană.",
-      "factsAdvanced": [
-        "Cea mai înaltă clădire rezidențială din Africa (173 metri înălțime).",
-        "Design cilindric unic cu un nucleu central deschis.",
-        "Inaugurată în 1975 în cartierul Hillbrow.",
-        "Are o reclamă luminoasă uriașă în vârf, vizibilă de la mare distanță.",
-        "A apărut în numeroase filme internaționale, precum 'District 9' și 'Chappie'.",
-        "Recent renovată, fiind un model pentru gentrificarea centrului orașului.",
-        "Deține 54 de etaje și peste 460 de unități locative.",
-        "Un reper major de navigație aeriană în regiunea Gauteng."
+        "Joint-venture de succes între ARM și Anglo American Platinum.",
+        "Situată în zona bogată a complexului Bushveld pe ramura estică.",
+        "Model de referință pentru dezvoltare socio-economică responsabilă.",
+        "Focus central pe capacitarea economică a comunităților locale.",
+        "Operațiuni eficiente de extracție a platinei.",
+        "Proiect industrial care promovează integrarea și dezvoltarea.",
+        "Pilon economic important pentru regiunea estică a complexului."
       ]
     }
   ]

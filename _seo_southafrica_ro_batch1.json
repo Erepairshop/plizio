@@ -1,0 +1,399 @@
+{
+  "lang": "ro",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "orange-river-nature-v2",
+      "descriptionAdvanced": "Râul Orange este cel mai lung fluviu din Africa de Sud, izvorând din Munții Drakensberg din Lesotho și parcurgând peste 2200 de kilometri până la granița dintre Africa de Sud și Namibia, unde se varsă în Oceanul Atlantic. Acest bazin hidrografic este esențial pentru agricultură și generarea de energie, susținând aprovizionarea cu apă a regiunilor aride și funcționarea unor baraje hidroelectrice majore.",
+      "factsAdvanced": [
+        "Lungime: aprox. 2200 kilometri.",
+        "Sursă: Munții Drakensberg (Lesotho).",
+        "Vărsare: Oceanul Atlantic.",
+        "Cel mai mare afluent: Râul Vaal.",
+        "Bazin hidrografic: aproape un milion de kilometri pătrați.",
+        "Infrastructură: Barajul Gariep.",
+        "Importanță: Irigarea a milioane de hectare."
+      ]
+    },
+    {
+      "id": "drakensberg-nature-v2",
+      "descriptionAdvanced": "Munții Drakensberg, cunoscuți local sub numele de 'Ukhahlamba', reprezintă cel mai înalt și impunător lanț muntos din sudul Africii, întinzându-se de-a lungul coastei estice a Africii de Sud. Vârful Thabana Ntlenyana, cu o altitudine de 3482 metri, este cel mai înalt punct din această regiune. Zona este renumită pentru geologia unică, picturile rupestre ale poporului San și biodiversitatea extraordinară, fiind inclusă în Patrimoniul Mondial UNESCO.",
+      "factsAdvanced": [
+        "Vârful cel mai înalt: Thabana Ntlenyana (3482 m).",
+        "Patrimoniul Mondial UNESCO: Parcul Ukhahlamba-Drakensberg.",
+        "Compoziție: straturi de bazalt pe gresie.",
+        "Patrimoniu cultural: peste 30.000 de picturi rupestre San.",
+        "Lungime: peste 1000 de kilometri.",
+        "Climă: ninsori regulate în lunile de iarnă.",
+        "Biodiversitate: numeroase specii de plante endemice."
+      ]
+    },
+    {
+      "id": "limpopo-river-nature-v2",
+      "descriptionAdvanced": "Fluviul Limpopo este unul dintre cele mai importante cursuri de apă din Africa de Sud, formând un arc vast spre nord-est până la Oceanul Indian. Acesta marchează o mare parte a graniței dintre Africa de Sud, Botswana, Zimbabwe și Mozambic. De-a lungul cursului său se află numeroase parcuri naționale și rezervații naturale private, fiind cruciale pentru conservarea biodiversității regionale și pentru turismul de safari.",
+      "factsAdvanced": [
+        "Lungime: aprox. 1750 kilometri.",
+        "Vărsare: Oceanul Indian (Mozambic).",
+        "Țări riverane: Africa de Sud, Botswana, Zimbabwe, Mozambic.",
+        "Afluenți importanți: Râul Olifants, Râul Shashe.",
+        "Importanță ecologică: baza pentru rezervații majore.",
+        "Etimologie: numele provine din limba Sotho.",
+        "Debit: dependent de precipitațiile sezoniere."
+      ]
+    },
+    {
+      "id": "table-mountain-nature-v2",
+      "descriptionAdvanced": "Muntele Masă este simbolul iconic al orașului Cape Town, remarcându-se prin platoul său plat distinctiv. Cu o înălțime de 1086 metri, acesta reprezintă inima Parcului Național Table Mountain. Un fenomen natural celebru este 'fața de masă' (tablecloth), un strat de nori care se formează când aerul umed urcă pe pantele abrupte ale muntelui și condensează.",
+      "factsAdvanced": [
+        "Înălțime: 1086 metri.",
+        "Statut: una dintre cele șapte noi minuni ale naturii.",
+        "Vegetație: floră unică de tip fynbos.",
+        "Turism: aproape 1 milion de vizitatori anual.",
+        "Telecabină: în funcțiune din anul 1929.",
+        "Geologie: compus în principal din gresie și granit.",
+        "Panoramă: vedere asupra orașului și Oceanului Atlantic."
+      ]
+    },
+    {
+      "id": "lake-st-lucia-nature-v2",
+      "descriptionAdvanced": "Lacul St. Lucia este unul dintre cele mai mari sisteme de estuare din Africa de Sud, situat în Parcul iSimangaliso Wetland din KwaZulu-Natal. Ca sistem lagunar complex, oferă un habitat vital pentru hipopotami, crocodili și sute de specii de păsări. Datorită schimbului continuu între apa dulce și cea sărată, s-a format un ecosistem extrem de dinamic și divers, de relevanță internațională pentru conservare.",
+      "factsAdvanced": [
+        "Statut: Patrimoniul Mondial UNESCO.",
+        "Caracteristică: sistem estuarin complex.",
+        "Faună: habitat pentru hipopotami și crocodili.",
+        "Păsări: peste 400 de specii documentate.",
+        "Localizare: Parcul iSimangaliso Wetland (KwaZulu-Natal).",
+        "Dinamica: flux influențat de maree din Oceanul Indian.",
+        "Statut de protecție: zonă RAMSAR de importanță internațională."
+      ]
+    },
+    {
+      "id": "kruger-forest-nature-v2",
+      "descriptionAdvanced": "Parcul Național Kruger este cea mai cunoscută și vastă rezervație naturală din Africa de Sud, ale cărei păduri și savane găzduiesc faimosul grup 'Big Five': elefanți, lei, bivoli, leoparzi și rinoceri. Parcul se întinde pe peste două milioane de hectare, ecosistemul său variat fiind o destinație principală pentru turiști și documentariști din întreaga lume.",
+      "factsAdvanced": [
+        "Suprafață: peste 2 milioane de hectare.",
+        "Înființat: în anul 1926.",
+        "Faună: acasă pentru 'Big Five'.",
+        "Vegetație: peste 1900 de specii de plante indigene.",
+        "Râuri: traversat de cursuri de apă majore, ex. Olifants.",
+        "Climă: subtropicală.",
+        "Turism: peste 1 milion de vizitatori anual."
+      ]
+    },
+    {
+      "id": "vaal-river-nature-v2",
+      "descriptionAdvanced": "Râul Vaal este cel mai important afluent al râului Orange, reprezentând o sursă vitală de apă pentru provincia Gauteng. Cu o lungime de aproximativ 1120 de kilometri, acesta susține o mare parte din producția industrială a țării, fiind totodată locația unor baraje esențiale pentru aprovizionarea cu apă. Malurile sale sunt zone populare pentru recreere și sporturi nautice.",
+      "factsAdvanced": [
+        "Lungime: 1120 kilometri.",
+        "Importanță: sursă de apă pentru Gauteng.",
+        "Rol economic: utilizare industrială și agricolă.",
+        "Vărsare: Râul Orange (lângă Douglas).",
+        "Calitatea apei: factor critic în regiune.",
+        "Sport: zonă populară pentru pescuit și bărci.",
+        "Infrastructură: numeroase baraje și rezervoare."
+      ]
+    },
+    {
+      "id": "cederberg-nature-v2",
+      "descriptionAdvanced": "Munții Cederberg, situați la nord de Cape Town în provincia Western Cape, sunt un peisaj sălbatic renumit pentru formațiunile stâncoase de gresie și picturile rupestre străvechi. Aria protejată reprezintă un patrimoniu național, ideal pentru drumeții și alpinism, oferind liniște și peisaje spectaculoase. Flora unică, inclusiv faimoasele protee, oferă un habitat diversificat.",
+      "factsAdvanced": [
+        "Geologie: formațiuni stâncoase erodate spectaculoase.",
+        "Statut: zonă de sălbăticie.",
+        "Vegetație: biom bogat de tip fynbos.",
+        "Drumeții: rețea extinsă de trasee.",
+        "Istorie: picturi rupestre San vechi de mii de ani.",
+        "Astronomie: zonă excelentă pentru observarea cerului nocturn.",
+        "Climă: aridă, tip mediteranean."
+      ]
+    },
+    {
+      "id": "indian-ocean-coast-nature-v2",
+      "descriptionAdvanced": "Coasta Oceanului Indian din Africa de Sud oferă ape plăcute datorită curenților marini calzi, fiind o destinație preferată pe tot parcursul anului. Regiunea care se întinde de-a lungul provinciilor KwaZulu-Natal și Eastern Cape este un paradis pentru înot, surfing și observarea vieții marine. Stațiunile de pe coastă constituie una dintre cele mai atractive regiuni turistice din țară.",
+      "factsAdvanced": [
+        "Caracteristică: Curentul cald Agulhas.",
+        "Turism: stațiuni populare (ex. Durban).",
+        "Faună: observarea delfinilor și balenelor.",
+        "Sporturi nautice: surfing de clasă mondială.",
+        "Vegetație: vegetație luxuriantă și păduri de mangrove.",
+        "Viață marină: recife de corali bogate în nord.",
+        "Coastă: plaje cu nisip și dune."
+      ]
+    },
+    {
+      "id": "atlantic-ocean-coast-nature-v2",
+      "descriptionAdvanced": "Coasta Atlanticului de-a lungul părții de vest a Africii de Sud este influențată de Curentul rece Benguela, având ape mai reci și un mediu mai aspru. Această regiune este celebră pentru viața marină bogată, în special coloniile de foci și pinguini, precum și pentru linia de coastă stâncoasă spectaculoasă. Este o zonă mai puțin căutată de înotători, dar fascinantă pentru iubitorii naturii.",
+      "factsAdvanced": [
+        "Caracteristică: Curentul rece Benguela.",
+        "Faună: populații de pinguini și foci.",
+        "Viață marină: bănci bogate de pește (regiune piscicolă).",
+        "Coastă: porțiuni stâncoase, abrupte și aspre.",
+        "Climă: vântoasă și mai răcoroasă.",
+        "Turism: Boulders Beach (observarea pinguinilor).",
+        "Istorie: numeroase epave de-a lungul coastei."
+      ]
+    },
+    {
+      "id": "olifants-river-nature-v2",
+      "descriptionAdvanced": "Râul Olifants este o arteră vitală în nord-estul Africii de Sud, traversând Parcul Național Kruger înainte de a se vărsa în râul Limpopo. Bazinul hidrografic susține atât fauna parcului, cât și producția agricolă a regiunii. Valea râului oferă peisaje variate, trecând de la savane aride la păduri riverane luxuriante.",
+      "factsAdvanced": [
+        "Importanță: sursa de apă a Parcului Național Kruger.",
+        "Vărsare: Râul Limpopo.",
+        "Lungime: aprox. 560 kilometri.",
+        "Ecosistem: viață sălbatică variată de-a lungul râului.",
+        "Rol economic: irigații agricole.",
+        "Geografie: regiunea de nord-est a Africii de Sud.",
+        "Faună: populații de hipopotami și crocodili."
+      ]
+    },
+    {
+      "id": "robben-island-nature-v2",
+      "descriptionAdvanced": "Insula Robben, situată în Oceanul Atlantic în apropierea orașului Cape Town, este astăzi un sit al Patrimoniului Mondial UNESCO. Deși cunoscută istoric ca închisoare pentru deținuții politici, valorile naturale ale insulei, în special viața marină din jur și coloniile de foci, sunt de asemenea semnificative. Vizitarea insulei a devenit un element central pentru înțelegerea istoriei și naturii sud-africane.",
+      "factsAdvanced": [
+        "Statut: Patrimoniul Mondial UNESCO.",
+        "Istorie: închisoarea lui Nelson Mandela.",
+        "Localizare: 6,9 km de coasta orașului Cape Town.",
+        "Originea numelui: cuvântul olandez 'robben' (focă).",
+        "Natură: mediu marin protejat.",
+        "Turism: accesibil cu feribotul din portul Cape Town.",
+        "Faună: păsări marine și foci."
+      ]
+    },
+    {
+      "id": "tugela-falls-nature-v2",
+      "descriptionAdvanced": "Cascada Tugela, situată în Munții Drakensberg, în provincia KwaZulu-Natal, este considerată una dintre cele mai înalte cascade din lume. Cele cinci trepte ale sale însumează o cădere totală de 948 de metri. Cascada oferă un spectacol impresionant în fața peretelui stâncos uriaș numit 'Amfiteatru', în Parcul Național Royal Natal, unde mii de turiști vin să admire forța naturii.",
+      "factsAdvanced": [
+        "Înălțime totală: 948 metri.",
+        "Localizare: Parcul Național Royal Natal.",
+        "Geologie: peretele de bazalt al Munților Drakensberg.",
+        "Stare: sezonieră, depinde de precipitații.",
+        "Accesibilitate: accesibilă prin mai multe trasee dificile.",
+        "Mediu: panoramă impresionantă asupra Amfiteatrului.",
+        "Statut: cea mai înaltă cascadă din Africa de Sud."
+      ]
+    },
+    {
+      "id": "karoo-nature-v2",
+      "descriptionAdvanced": "Karoo este o regiune vastă, aridă și semideșertică, ce ocupă o mare parte din interiorul Africii de Sud. Zona este renumită pentru flora sa unică, tufișurile adaptate la ariditate și peisajele sale vaste și impresionante. Cerul clar și senin din Karoo o fac o locație ideală pentru observarea astronomică, fiind un punct de atracție și pentru cercetători.",
+      "factsAdvanced": [
+        "Suprafață: cea mai mare parte a interiorului Africii de Sud.",
+        "Caracteristică: ecosistem semideșertic.",
+        "Vegetație: plante suculente și arbuști rezistenți la secetă.",
+        "Climă: variații mari de temperatură diurnă.",
+        "Astronomie: cer nocturn extrem de clar.",
+        "Geologie: regiune bogată în fosile străvechi.",
+        "Turism: peisaje liniștite și izolate."
+      ]
+    },
+    {
+      "id": "iSimangaliso-park-nature-v2",
+      "descriptionAdvanced": "Parcul iSimangaliso Wetland este o zonă extrem de diversă, inclusă în Patrimoniul Mondial UNESCO, pe coasta de nord a provinciei KwaZulu-Natal. Parcul cuprinde lacuri, lagune, plaje și păduri de coastă, oferind o biodiversitate remarcabilă. Zona găzduiește animale terestre și acvatice, inclusiv hipopotami, crocodili și broaște țestoase marine, fiind un sanctuar natural.",
+      "factsAdvanced": [
+        "Statut: Patrimoniul Mondial UNESCO.",
+        "Suprafață: peste 300 000 de hectare.",
+        "Ecosistem: estuare, recife, păduri.",
+        "Biodiversitate: număr mare de specii animale și vegetale.",
+        "Faună: țestoase, hipopotami, crocodili.",
+        "Turism: scufundări și safari.",
+        "Localizare: coasta Zululand."
+      ]
+    },
+    {
+      "id": "tsitsikamma-forest-nature-v2",
+      "descriptionAdvanced": "Pădurea Tsitsikamma este una dintre cele mai spectaculoase păduri tropicale de coastă protejate din Africa de Sud, situată de-a lungul rutei Garden Route în provincia Eastern Cape. Regiunea este faimoasă pentru copacii săi giganți și străvechi, defileurile adânci și râurile care se varsă în ocean. Parte a Parcului Național Garden Route, zona protejează un ecosistem rar unde lumea terestră se întâlnește cu oceanul.",
+      "factsAdvanced": [
+        "Tip: pădure tropicală de coastă protejată.",
+        "Localizare: Garden Route (Eastern Cape).",
+        "Atracție: arbori giganți și defileuri adânci.",
+        "Ecosistem: punctul de întâlnire dintre pădure și ocean.",
+        "Activitate: trasee populare de drumeție (ex. Otter Trail).",
+        "Faună: specii rare de păsări și maimuțe.",
+        "Statut: parte a Parcului Național Garden Route."
+      ]
+    },
+    {
+      "id": "swartberg-nature-v2",
+      "descriptionAdvanced": "Munții Swartberg, situați în regiunea Little Karoo, reprezintă un lanț muntos impresionant, care atrage vizitatorii prin caracteristicile sale geologice și trecătorile uluitoare (ex. Swartberg Pass). Regiunea este inclusă în Patrimoniul Mondial UNESCO datorită frumuseții sale naturale și a formațiunilor stâncoase unice. Drumurile abrupte și serpentinele oferă unul dintre cele mai frumoase trasee auto din țară.",
+      "factsAdvanced": [
+        "Trecătoare: Swartberg Pass (drum spectaculos).",
+        "Statut: zonă parțială inclusă în Patrimoniul Mondial.",
+        "Geologie: structură spectaculoasă de stânci și munți.",
+        "Regiune: Little Karoo.",
+        "Vegetație: floră montană rezistentă la secetă.",
+        "Turism: trasee auto și drumeții montane.",
+        "Mediu: zonă izolată și liniștită."
+      ]
+    },
+    {
+      "id": "breede-river-nature-v2",
+      "descriptionAdvanced": "Râul Breede este unul dintre cursurile de apă semnificative din provincia Western Cape, valea sa fiind renumită pentru viticultură și utilizarea agricolă. Râul nu servește doar ca sursă de irigare pentru podgorii, ci este și o locație populară pentru plimbări cu barca, pescuit și alte sporturi nautice. Valea râului creează un peisaj pitoresc împreună cu lanțurile muntoase din jur.",
+      "factsAdvanced": [
+        "Regiune: Western Cape.",
+        "Economie: producție remarcabilă de vin și fructe.",
+        "Sport: plimbări cu barca, pescuit, canotaj.",
+        "Lungime: sistem hidrografic semnificativ în regiune.",
+        "Turism: destinație populară de weekend.",
+        "Peisaj: vale a râului presărată cu podgorii.",
+        "Utilizarea apei: irigații agricole."
+      ]
+    },
+    {
+      "id": "blyde-river-canyon-nature-v2",
+      "descriptionAdvanced": "Canionul râului Blyde este unul dintre cele mai mari canioane 'verzi' din lume, parte a lanțului muntos Drakensberg din provincia Mpumalanga. Canionul este renumit pentru stâncile impresionante, defileurile adânci și vegetația luxuriantă, care diferă spectaculos de canioanele aride obișnuite. Zona oferă mai multe puncte de belvedere cu panorame unice asupra confluenței râurilor Blyde și Treur, precum și asupra formațiunilor stâncoase numite 'Trei Rondavele'.",
+      "factsAdvanced": [
+        "Statut: unul dintre cele mai mari canioane 'verzi' din lume.",
+        "Regiune: Mpumalanga.",
+        "Atracție: stâncile 'Trei Rondavele'.",
+        "Vegetație: vegetație tropicală și subtropicală luxuriantă.",
+        "Belvedere: puncte panoramice celebre (ex. God's Window).",
+        "Râuri: confluența râurilor Blyde și Treur.",
+        "Turism: una dintre cele mai vizitate zone protejate."
+      ]
+    },
+    {
+      "id": "knysna-forest-nature-v2",
+      "descriptionAdvanced": "Pădurea Knysna este una dintre comorile rutei Garden Route, fiind locul de origine al industriei istorice de tăiere a lemnului din regiune și casa elefanților Knysna, astăzi rari. Pădurea străveche și luxuriantă oferă o experiență unică pentru iubitorii de natură, observatorii de păsări și drumeți, prin mediul său verde și umed. Unele părți ale pădurii sunt protejate, conservând astfel starea originală și biodiversitatea bogată a zonei.",
+      "factsAdvanced": [
+        "Regiune: Garden Route.",
+        "Faună: habitatul elefanților Knysna, astăzi rari.",
+        "Istorie: zonă istorică importantă de tăiere a lemnului.",
+        "Mediu: pădure străveche, umedă, densă.",
+        "Turism: destinație populară pentru drumeții.",
+        "Biodiversitate: specii speciale de arbori și păsări.",
+        "Statut: zonă protejată parțial."
+      ]
+    },
+    {
+      "id": "lake-teko-nature-v2",
+      "descriptionAdvanced": "Lacul Teko este unul dintre micile lacuri liniștite din provincia Free State, situat departe de principalele rute turistice. Mediul lacului este ideal pentru observarea păsărilor, deoarece numeroase specii adaptate la zonele umede vizitează zona. Fiind situată la distanță de centrele turistice mari, zona oferă o evadare autentică pentru vizitatorii care caută liniște.",
+      "factsAdvanced": [
+        "Regiune: provincia Free State.",
+        "Caracter: lac mic, izolat și liniștit.",
+        "Turism: relaxare liniștită.",
+        "Faună: zonă de observare a păsărilor.",
+        "Mediu: zonă umedă naturală, curată.",
+        "Popularitate: cunoscută în principal la nivel local.",
+        "Activitate: picnic, liniște."
+      ]
+    },
+    {
+      "id": "drakensberg-amphitheatre-nature-v2",
+      "descriptionAdvanced": "Amfiteatrul Drakensberg este una dintre cele mai impresionante formațiuni geologice din Munții Drakensberg, fiind un perete vertical continuu de peste 5 kilometri lungime. Acest fenomen natural monumental este una dintre cele mai populare destinații de drumeție din regiune, oferind vederi dramatice asupra văilor de dedesubt. Forma și dimensiunea amfiteatrului sunt cunoscute în întreaga lume, fiind unul dintre exemplele spectaculoase ale forței naturii.",
+      "factsAdvanced": [
+        "Caracter: perete vertical de 5 km lungime.",
+        "Statut: parte a Munților Drakensberg.",
+        "Geologie: perete monumental de bazalt.",
+        "Turism: una dintre cele mai vizitate destinații de drumeție.",
+        "Panoramă: vedere asupra văilor de dedesubt.",
+        "Traseu: trasee dificile către vârf.",
+        "Importanță naturală: valoare geologică remarcabilă."
+      ]
+    },
+    {
+      "id": "golden-gate-highlands-nature-v2",
+      "descriptionAdvanced": "Parcul Național Golden Gate Highlands se află în provincia Free State, la poalele Munților Maluti, fiind numit după stâncile sale spectaculoase de gresie aurie. Formațiunile stâncoase strălucesc în nuanțe aurii la apus, ceea ce face zona o adevărată destinație pentru fotografi. Parcul național așteaptă iubitorii de natură cu o floră montană bogată și trasee variate de drumeție în orice anotimp.",
+      "factsAdvanced": [
+        "Regiune: Free State (la poalele Munților Maluti).",
+        "Atracție: stânci de gresie aurie.",
+        "Natură: parc național, zonă protejată.",
+        "Fenomen: strălucire aurie la apus.",
+        "Vegetație: floră montană bogată.",
+        "Turism: drumeții, fotografie.",
+        "Geologie: straturi spectaculoase de gresie."
+      ]
+    },
+    {
+      "id": "agullhas-cape-nature-v2",
+      "descriptionAdvanced": "Capul Agulhas este punctul oficial cel mai sudic al continentului african, unde apele Oceanului Atlantic și ale Oceanului Indian se întâlnesc. Importanța istorică a zonei este marcată de vechiul far construit în 1848, care ghidează navele de decenii pe această secțiune maritimă dificilă. Împrejurimile capului constituie o zonă protejată cu un ecosistem marin și terestru distinctiv.",
+      "factsAdvanced": [
+        "Statut: cel mai sudic punct al Africii.",
+        "Geografie: întâlnirea Oceanului Atlantic cu Oceanul Indian.",
+        "Atracție: far istoric din 1848.",
+        "Faună: ecosistem marin și de coastă protejat.",
+        "Turism: centru de vizitare la far.",
+        "Geologie: mediu stâncos, de coastă.",
+        "Importanță: punct de navigație maritimă."
+      ]
+    },
+    {
+      "id": "kalahari-desert-nature-v2",
+      "descriptionAdvanced": "Deșertul Kalahari este un bazin vast și arid de nisip care include și o parte din nordul Africii de Sud. Dunele de nisip de culoare roșie, flora și fauna rară, dar adaptabilă, oferă o experiență unică. Deși este numit deșert, Kalahari este de fapt o zonă de savană semideșertică, unde în anotimpul ploios se dezvăluie o viață sălbatică spectaculoasă.",
+      "factsAdvanced": [
+        "Caracter: bazin vast de nisip semideșertic.",
+        "Culoare: dune de nisip roșu caracteristice.",
+        "Faună: specii adaptate la secetă.",
+        "Climă: aridă, variații mari de temperatură.",
+        "Regiune: nordul Africii de Sud.",
+        "Habitat: deșert de tip savană.",
+        "Turism: safari și peisaje izolate."
+      ]
+    },
+    {
+      "id": "uphole-lake-nature-v2",
+      "descriptionAdvanced": "Lacul Uphole este una dintre micile ape liniștite din nord-vestul Africii de Sud, situat departe de rutele turistice principale. Cunoscut și apreciat de localnici, lacul oferă un mediu liniștit pentru pescari și pentru cei care doresc să se relaxeze în natură. Deși dimensiunea și notorietatea sa sunt modeste, zona din jurul lacului reprezintă o oază reală pentru localnici în peisajul arid al nord-vestului.",
+      "factsAdvanced": [
+        "Regiune: nord-vestul Africii de Sud.",
+        "Caracter: lac mic, izolat.",
+        "Turism: loc de relaxare liniștit.",
+        "Activitate: pescuit, relaxare.",
+        "Popularitate: cunoscut la nivel local.",
+        "Mediu: zonă umedă naturală, calmă.",
+        "Importanță: refugiu natural de apă."
+      ]
+    },
+    {
+      "id": "mountain-zebra-park-nature-v2",
+      "descriptionAdvanced": "Parcul Național Mountain Zebra se află în provincia Eastern Cape, având scopul principal de a proteja și consolida populația zebrelor de munte pe cale de dispariție. Parcul se mândrește cu peisaje montane spectaculoase și o faună bogată rezistentă la secetă, ideală pentru safari și fotografie. Datorită programului de conservare de succes, zebra de munte trăiește astăzi într-o populație stabilă în această zonă protejată.",
+      "factsAdvanced": [
+        "Scop: protecția zebrelor de munte.",
+        "Regiune: Eastern Cape.",
+        "Caracter: parc național montan.",
+        "Faună: populație specială de zebre de munte.",
+        "Succes: proiect exemplar de conservare a naturii.",
+        "Turism: safari, drumeții montane.",
+        "Peisaj: mediu montan impresionant."
+      ]
+    },
+    {
+      "id": "add-elephant-park-nature-v2",
+      "descriptionAdvanced": "Parcul Național Addo Elephant este una dintre cele mai populare rezervații din Africa de Sud, situată în provincia Eastern Cape. Parcul a fost creat inițial pentru a proteja elefanții, însă astăzi, alături de cirezile mari de elefanți, acesta reprezintă unul dintre parcurile cu cea mai mare biodiversitate, incluzând și zone de coastă. Addo oferă vizitatorilor un amestec unic de viață marină și terestră.",
+      "factsAdvanced": [
+        "Regiune: Eastern Cape.",
+        "Scop inițial: protecția elefanților.",
+        "Caracter: parc național cu o biodiversitate vastă.",
+        "Faună: cirezi mari de elefanți, viață marină.",
+        "Mediu: amestec de zone terestre și de coastă.",
+        "Turism: destinație populară de safari.",
+        "Statut: unul dintre cele mai mari parcuri din Africa de Sud."
+      ]
+    },
+    {
+      "id": "orange-river-mouth-nature-v2",
+      "descriptionAdvanced": "Delta râului Orange (Orange River Mouth) este o zonă umedă de importanță majoră situată la întâlnirea râului cu Oceanul Atlantic, fiind împărțită cu țara vecină, Namibia. Această zonă oferă un loc vital de odihnă și hrană pentru numeroase specii de păsări migratoare și locale. Statutul protejat al deltei garantează că viața sălbatică bogată a regiunii va fi conservată pe termen lung pentru toți cei care vizitează.",
+      "factsAdvanced": [
+        "Statut: zonă umedă internațională importantă (RAMSAR).",
+        "Vărsare: Râul Orange, Oceanul Atlantic.",
+        "Faună: paradisul păsărilor, specii migratoare.",
+        "Mediu: estuar, zonă protejată.",
+        "Importanță: locație cheie pentru protecția păsărilor.",
+        "Turism: drumeții și observarea păsărilor.",
+        "Geografie: la granița dintre Namibia și Africa de Sud."
+      ]
+    },
+    {
+      "id": "wild-coast-nature-v2",
+      "descriptionAdvanced": "Wild Coast, sau 'Coasta Sălbatică', este porțiunea neatinsă și dramatică a coastei provinciei Eastern Cape, care se întinde de-a lungul Oceanului Indian. Stâncile aspre ale regiunii, plajele izolate cu nisip și vegetația sălbatică și luxuriantă oferă o experiență unică călătorilor care caută locuri îndepărtate și neatinse. Această coastă reprezintă una dintre cele mai frumoase și dificil de accesat valori naturale ale Africii de Sud.",
+      "factsAdvanced": [
+        "Regiune: Eastern Cape (coasta Oceanului Indian).",
+        "Caracter: secțiune de coastă neatinsă și aspră.",
+        "Atracție: stânci dramatice și plaje izolate.",
+        "Turism: departe de centrele urbane.",
+        "Peisaj: vegetație sălbatică și luxuriantă.",
+        "Statut: una dintre cele mai frumoase regiuni naturale ale Africii de Sud.",
+        "Acces: dificil de accesat, destinație de aventură."
+      ]
+    }
+  ]
+}

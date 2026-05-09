@@ -1,0 +1,373 @@
+{
+  "lang": "en",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "friguia-park-life-v2",
+      "descriptionAdvanced": "Friguia Park, located near Enfidha, covers 36 hectares and stands as Tunisia's premier zoological destination. Home to over 400 animals across 60 African species, the park emphasizes conservation, biodiversity education, and rehabilitation. Visitors explore the park via elevated wooden walkways, offering views of animals kept in habitats closely mirroring their natural homes. Daily feeding shows are a highlight, engaging both families and researchers in active wildlife education. It serves as a vital hub for regional conservation efforts, teaching visitors the importance of protecting endangered species in North Africa.",
+      "factsAdvanced": [
+        "Spans 36 hectares of natural landscape",
+        "Hosts over 400 animals",
+        "Home to approximately 60 African species",
+        "Includes a dedicated conservation and education center",
+        "Daily spectacular public feeding sessions",
+        "Promotes biodiversity through interactive learning",
+        "Established to protect threatened African fauna"
+      ]
+    },
+    {
+      "id": "ichkeul-bird-life-v2",
+      "descriptionAdvanced": "Lake Ichkeul and its surrounding wetlands form a vital ecological landmark in northern Tunisia, recognized as a UNESCO World Heritage site. This critical stopover and wintering ground supports hundreds of thousands of migratory birds, including ducks, geese, and flamingos, as they traverse the Mediterranean corridor. Stringent protection of the lake's water quality and surrounding marshes ensures the stability of this unique habitat. Dedicated birdwatching posts allow researchers and tourists to observe migratory behaviors without disturbing the wildlife. As a focal point for North African ornithological study, it remains an indispensable site for global biodiversity monitoring.",
+      "factsAdvanced": [
+        "Designated UNESCO World Heritage site",
+        "Vital stopover for Mediterranean migratory birds",
+        "Key wintering ground for thousands of flamingos",
+        "Strictly protected wetland ecosystem",
+        "Central hub for North African ornithological research",
+        "Vital for migratory waterbird survival",
+        "Located near the Ichkeul mountain range"
+      ]
+    },
+    {
+      "id": "olive-grove-sfax-life-v2",
+      "descriptionAdvanced": "The vast olive groves surrounding Sfax represent one of the world's most enduring and extensive agricultural landscapes. Spanning thousands of hectares, this region produces millions of olives, serving as a pillar for Tunisia's global oil export. Traditional farming practices, often handed down through generations, remain at the heart of cultivation here, emphasizing manual harvesting methods. The region produces high-quality olive oil noted for its low acidity and intense flavor profile. These groves are not merely agricultural land but a cultural monument to the tenacity of Sfax’s farmers in adapting to the coastal climate over centuries.",
+      "factsAdvanced": [
+        "Historical center of Mediterranean olive cultivation",
+        "Millions of trees spanning thousands of hectares",
+        "Crucial pillar of the Tunisian agricultural export economy",
+        "Renowned for high-quality, low-acidity extra virgin olive oil",
+        "Traditional hand-harvesting methods still widely practiced",
+        "Cultural landscape defined by centuries of farming",
+        "Major contributor to the region's economic stability"
+      ]
+    },
+    {
+      "id": "palmeraie-tozeur-life-v2",
+      "descriptionAdvanced": "Tozeur Oasis is a historic agricultural marvel, sustained by an ingenious network of springs and ancient irrigation channels. Home to an estimated 400,000 date palms, the oasis employs a multi-tiered cultivation system where palms provide shade for fruit trees and vegetables grown below. It is most famous for the Deglet Nour date, dubbed the 'fingers of light' for its translucent quality. This site serves as a vital economic lifeline for the region and a living testament to human engineering and adaptation in the Sahara’s challenging desert environment.",
+      "factsAdvanced": [
+        "Supports approximately 400,000 date palm trees",
+        "Sustained by an ancient, complex irrigation system",
+        "Renowned for the premium Deglet Nour date variety",
+        "Employs a multi-layered desert agro-forestry system",
+        "An oasis with over 1,000 years of cultivation history",
+        "Serves as the vital economic heart of the Tozeur region",
+        "Exemplifies human survival in the Sahara environment"
+      ]
+    },
+    {
+      "id": "kid-park-tunis-life-v2",
+      "descriptionAdvanced": "The Tunis Children's Park is a premier urban recreation center designed to provide green respite in the heart of the capital city. Featuring diverse playgrounds, sprawling lawns, and shaded walking paths, the park is a favored destination for local families. Constant modernization efforts ensure the facilities remain safe and engaging for children across all age groups. Beyond standard play equipment, thematic zones encourage active physical movement and outdoor learning. It stands as a critical component of the city’s urban infrastructure, improving quality of life and serving as a central meeting place for community events.",
+      "factsAdvanced": [
+        "Centrally located within the Tunisian capital",
+        "Features expansive, well-maintained green spaces",
+        "Includes modern, safe, and diverse playground equipment",
+        "Designed as a family-centric recreational hub",
+        "Attracts children from all age demographics",
+        "Vital urban cooling and relaxation zone",
+        "Host site for community family gatherings"
+      ]
+    },
+    {
+      "id": "douz-camel-habitat-life-v2",
+      "descriptionAdvanced": "Often referred to as the 'Gateway to the Sahara,' Douz has long been a center for camel culture and desert pastoralism. The local habitat preserve serves to maintain the traditional breeding methods of the dromedary, an animal essential to desert survival. Visitors can observe the natural behavior of these resilient animals and gain insight into their historical importance for Bedouin communities. The habitat functions as an educational preserve, illustrating the profound historical connection between human inhabitants and their animal counterparts in the harsh Saharan climate.",
+      "factsAdvanced": [
+        "Strategically located at the 'Gateway to the Sahara'",
+        "Preserves traditional dromedary breeding practices",
+        "Serves as a habitat for adapted desert animals",
+        "Vital center for understanding Saharan ecology",
+        "Strong cultural-historical ties to Bedouin lifestyle",
+        "Educational site exploring desert survival strategies",
+        "Unique biodiversity hotspot in southern Tunisia"
+      ]
+    },
+    {
+      "id": "gammarth-zoo-life-v2",
+      "descriptionAdvanced": "The Gammarth Adventure Park represents a sophisticated development in Tunisian urban leisure. Targeted at children and teenagers, the park incorporates interactive play stations with educational modules that promote physical coordination and outdoor discovery. Safety is a top priority, with a modernized facility that caters to families year-round. Located near the coast, its design leverages the seaside climate to provide a refreshing, engaging experience. It has become a key destination for locals and tourists alike, setting a high standard for modern recreational infrastructure in the region.",
+      "factsAdvanced": [
+        "Equipped with modern interactive play and learning stations",
+        "Targeted demographic of children and youth",
+        "Focuses on developing motor and coordination skills",
+        "Adheres to a strictly enforced safety concept",
+        "Highly popular leisure destination all year round",
+        "Attractively situated near the Gammarth coast",
+        "Incorporates educational discovery modules"
+      ]
+    },
+    {
+      "id": "sidi-bou-said-garden-life-v2",
+      "descriptionAdvanced": "The botanical garden in Sidi Bou Said is a serene sanctuary dedicated to showcasing the indigenous flora of Tunisia’s coastal regions. It offers an invaluable educational experience, allowing visitors to explore rare, native plants often overlooked in favor of common garden species. The layout encourages a deep appreciation for the ecological importance of preserving local vegetation against urbanization. Furthermore, the garden paths provide one of the most stunning panoramic views over the Gulf of Tunis, blending botanical study with a memorable aesthetic experience for families and nature enthusiasts.",
+      "factsAdvanced": [
+        "Primary focus on conserving indigenous Tunisian flora",
+        "Offers a quiet, family-friendly sanctuary of peace",
+        "Provides deep education on regional plant biodiversity",
+        "Stunning panoramic views over the Gulf of Tunis",
+        "Showcases plant species adapted to the coastal environment",
+        "Educates visitors on local ecological preservation",
+        "High aesthetic value blended with educational study"
+      ]
+    },
+    {
+      "id": "bizerte-aquarium-life-v2",
+      "descriptionAdvanced": "Bizerte Aquarium is a dedicated marine center that offers a comprehensive window into the Mediterranean Sea's complex biodiversity. The facility is specifically designed to engage children and families, providing an educational narrative about the fragile underwater ecosystems along Tunisia's northern coast. Through interactive exhibits, visitors learn about endangered marine species and the critical need for regional habitat protection. It is a cornerstone for local maritime education, frequently hosting school groups eager to understand the ecology of the Mediterranean and the ongoing conservation efforts in Bizerte’s coastal waters.",
+      "factsAdvanced": [
+        "Displays the diverse biodiversity of the Mediterranean Sea",
+        "Interactive exhibits tailored to children and youth",
+        "Key educational resource for local school groups",
+        "Focuses on the protection of endangered marine species",
+        "Family-friendly attraction on the northern coast",
+        "Essential center for maritime ecological awareness",
+        "Promotes the importance of coastal water protection"
+      ]
+    },
+    {
+      "id": "testour-pomegranate-life-v2",
+      "descriptionAdvanced": "Testour is renowned nationwide for its pomegranate cultivation, a tradition deeply embedded in the region’s soil and history. The area’s unique microclimate provides ideal conditions, resulting in fruit celebrated for its intense, sweet-tart flavor. Each year, the harvest period is marked by a dedicated festival, highlighting the importance of this fruit to the local economy and cultural identity. Testour stands as a prime example of agricultural specialization, where traditional farming methods continue to yield premium produce highly sought after by domestic markets.",
+      "factsAdvanced": [
+        "Nationally famous for premium pomegranate production",
+        "Benefits from a unique regional microclimate",
+        "Hosts an annual festival celebrating the pomegranate harvest",
+        "Key economic pillar for the local Testour region",
+        "Employs time-honored, traditional cultivation techniques",
+        "Recognized regional specialty throughout Tunisia",
+        "Known for exceptionally intense and unique fruit flavor"
+      ]
+    },
+    {
+      "id": "grombalia-vineyard-life-v2",
+      "descriptionAdvanced": "Grombalia serves as the heart of Tunisia’s viticulture, benefiting from an ideal Mediterranean climate characterized by moderate temperatures and sufficient seasonal rainfall. Generations of winemakers have refined cultivation here, resulting in high-quality grape varieties that compete successfully on domestic and international markets. The rolling landscape is dominated by expansive vineyards that integrate seamlessly into the hillsides. While traditional harvest methods are honored, the industry also utilizes modern oenological techniques to ensure product quality, making a visit a fascinating study in the evolution of Tunisian wine culture.",
+      "factsAdvanced": [
+        "Recognized as the center of Tunisian viticulture",
+        "Benefits from optimal Mediterranean temperature and rainfall",
+        "Major export sector for Tunisian wine production",
+        "Culturally deep tradition of grape cultivation",
+        "Expansive vineyards that define the regional landscape",
+        "Combines traditional harvest with modern oenology",
+        "Renowned for high-quality, diverse grape varieties"
+      ]
+    },
+    {
+      "id": "zaghouan-rose-life-v2",
+      "descriptionAdvanced": "Zaghouan’s identity is inextricably linked to its rose cultivation, a craft practiced for centuries. The town is famous throughout the country for its high-purity rose essence and distilled rose water, prized in both haute cuisine and traditional perfumery. During the flowering season, the surrounding plantations transform the region into a fragrant oasis. The distillation process, guarded and passed down through generations, remains a proud artisanal heritage. Zaghouan remains a major source for premium rose products, representing a successful marriage of traditional craftsmanship and sustainable agricultural identity.",
+      "factsAdvanced": [
+        "Nationally famous for centuries of rose cultivation",
+        "Center for traditional rose water distillation",
+        "Key contributor to Tunisian culinary and perfumery sectors",
+        "Rose plantations create a vibrant, fragrant landscape",
+        "Distillation techniques preserved across many generations",
+        "Artisanal heritage that defines the city's identity",
+        "Source of premium rose essence products"
+      ]
+    },
+    {
+      "id": "sfax-fishery-life-v2",
+      "descriptionAdvanced": "Sfax has served as a primary maritime hub for centuries, with its fishing industry deeply intertwined with the coastal city’s economic and cultural foundation. Traditional fishing techniques, honed over decades, remain essential for the daily supply of fresh seafood to the region's markets and high-end restaurants. The harbor is a bustling, authentic space where the spirit of the Sfaxian maritime community is vividly on display. As a critical economic sector, the fishery not only supports local gastronomy but also sustains the livelihood of thousands of families.",
+      "factsAdvanced": [
+        "Primary maritime hub and fishing center in Tunisia",
+        "Deeply rooted in the city's economic and cultural life",
+        "Uses long-standing, refined fishing techniques",
+        "Provides vital daily supply of fresh local seafood",
+        "Dynamic, authentic working harbor atmosphere",
+        "Critical pillar supporting Sfax's gastronomic sector",
+        "Supports the livelihood of thousands of local families"
+      ]
+    },
+    {
+      "id": "nabeul-pottery-garden-life-v2",
+      "descriptionAdvanced": "Nabeul is widely recognized as the epicenter of Tunisian ceramics, and its dedicated Pottery Garden serves as a unique venue to explore this art form. The facility is specially tailored for children and families, featuring creative workshops where visitors can try their hand at traditional pottery wheel and painting techniques. It is an ideal environment to pass on Nabeul's rich ceramic heritage in a fun, hands-on manner. Beyond the entertainment, the garden offers a profound look at the artisan precision required to create these intricate pieces, fostering cultural appreciation in a relaxed setting.",
+      "factsAdvanced": [
+        "Epicenter of Tunisian traditional ceramic artistry",
+        "Features interactive pottery and painting workshops",
+        "Designed to pass heritage to younger generations",
+        "Promotes cultural appreciation through hands-on activity",
+        "Educationally oriented, family-friendly environment",
+        "Deep insight into artisan production and precision",
+        "Popular cultural destination for regional excursions"
+      ]
+    },
+    {
+      "id": "atlas-mountain-habitat-life-v2",
+      "descriptionAdvanced": "The Atlas Mountains in Tunisia host a vast, wild nature reserve that serves as a critical refuge for numerous endemic species. This biodiversity hotspot is at the forefront of local conservation research, where scientists monitor the impacts of climate change on mountain wildlife. The harsh mountain climate and varied terrain support a specialized fauna that cannot be found elsewhere in the country. It is an essential site for nature enthusiasts, offering a true wilderness experience for hikers who seek to explore the rugged, untouched beauty of Tunisia's interior mountains.",
+      "factsAdvanced": [
+        "Biodiversity hotspot of the Tunisian interior",
+        "Critical refuge for various endemic wildlife species",
+        "Key location for climate change conservation research",
+        "Harsh mountain climate supporting specialized fauna",
+        "Premier destination for rugged mountain hiking",
+        "Showcases the untamed side of Tunisia's geography",
+        "Managed for long-term ecological preservation"
+      ]
+    },
+    {
+      "id": "medjerda-valley-agri-life-v2",
+      "descriptionAdvanced": "The Medjerda Valley is often cited as the breadbasket of Tunisia, serving as the most fertile agricultural landscape in the nation. Utilizing the waters of the Medjerda River for irrigation, the valley produces a substantial portion of the country's grain and a wide variety of vegetables. This area reflects a successful synthesis of traditional irrigation and modern farming technologies, resulting in exceptional productivity. As the heart of Tunisia's agricultural production, the valley plays an irreplaceable role in national food security, showcasing how intensive cultivation can thrive with proper resource management.",
+      "factsAdvanced": [
+        "Known as the breadbasket of Tunisia",
+        "Most fertile and productive valley in the country",
+        "Leading producer of national grain supplies",
+        "Synthesizes historical irrigation with modern farming technology",
+        "Vital role in ensuring national food security",
+        "Heart of Tunisia's extensive agricultural production",
+        "Showcases high productivity through resource management"
+      ]
+    },
+    {
+      "id": "djerba-ostrich-farm-life-v2",
+      "descriptionAdvanced": "The Djerba Ostrich Farm is a captivating attraction that bridges the gap between exotic animal breeding and educational outreach. The site provides a unique opportunity for families to observe these imposing creatures in a controlled, safe environment. Designed as a learning center, it offers deep insights into the biology, lifecycle, and unique adaptations of the ostrich. The farm has become an essential part of Djerba's tourism landscape, demonstrating how private enterprises can effectively integrate animal welfare with educational initiatives for the public.",
+      "factsAdvanced": [
+        "Specialized facility for ostrich breeding and care",
+        "Unique tourist attraction on Djerba island",
+        "Provides interactive and safe animal observation",
+        "Educational center for ostrich biology and behavior",
+        "Highly popular destination for families with children",
+        "Integrates animal welfare with public education",
+        "Essential component of Djerba's diverse tourism"
+      ]
+    },
+    {
+      "id": "cap-bon-fruit-garden-life-v2",
+      "descriptionAdvanced": "The Cap Bon Peninsula is affectionately dubbed the garden of Tunisia, owing to its exceptionally mild maritime climate. This region boasts a high density of fruit orchards, where diverse citrus and exotic fruits thrive, significantly shaping the local landscape. These groves are a hallmark of Tunisia's agricultural export capacity, celebrated for their quality and variety. The synergy of traditional cultivation methods and modern market outreach makes Cap Bon a key agricultural hub. During harvest season, the landscape transforms into a vibrant display of botanical diversity, offering visitors an unforgettable look at the nation's fruit productivity.",
+      "factsAdvanced": [
+        "Widely known as the garden of Tunisia",
+        "Ideal maritime climate supporting diverse fruit trees",
+        "Major production center for citrus and exotic fruits",
+        "Key contributor to Tunisian agricultural export",
+        "Landscape defined by high botanical diversity",
+        "Traditional farming methods met with modern standards",
+        "Premier destination for witnessing harvest productivity"
+      ]
+    },
+    {
+      "id": "kairouan-date-orchard-life-v2",
+      "descriptionAdvanced": "The date orchard near Kairouan represents a remarkable feat of desert adaptation. Situated on the fringe of the Sahara, these orchards demonstrate how careful water management can transform arid land into a productive agricultural space. These gardens are more than just an economic resource; they serve as a cultural monument reflecting the deep bond between the local community and the desert landscape. The quality of the harvest here is a testament to decades of inherited experience and a thorough understanding of soil conditions in a challenging arid environment.",
+      "factsAdvanced": [
+        "Date cultivation successfully managed in arid conditions",
+        "Reflects incredible agricultural adaptability to the Sahara",
+        "Significant cultural site for the Kairouan community",
+        "Demonstrates efficient water management in desert climates",
+        "Product of decades of inherited farming experience",
+        "Symbolizes sustainable agriculture in challenging settings",
+        "Renowned for the quality of dates produced locally"
+      ]
+    },
+    {
+      "id": "tabarka-marine-park-life-v2",
+      "descriptionAdvanced": "The Tabarka Marine Park safeguards a pristine underwater world along Tunisia’s northern coastline. The region is widely acclaimed for its rare coral reefs, which support a remarkably high density of marine life. The park serves a critical role in the conservation of these fragile ecosystems, which are integral to both local fisheries and sustainable tourism. Ongoing research projects monitor the health of these reefs, ensuring that environmental impacts are kept to a minimum. For divers, Tabarka is a world-class destination offering untamed natural beauty and contributing valuable data to Mediterranean marine conservation.",
+      "factsAdvanced": [
+        "Protects pristine Mediterranean coral reefs",
+        "Supports highly dense marine biodiversity",
+        "Essential hub for marine ecosystem conservation",
+        "World-class destination for recreational diving",
+        "Hosts ongoing projects to monitor reef health",
+        "Contributes valuable data to Mediterranean research",
+        "Crucial for both local fisheries and tourism"
+      ]
+    },
+    {
+      "id": "hammamet-fun-land-life-v2",
+      "descriptionAdvanced": "Hammamet Fun World is one of Tunisia’s largest and most comprehensive leisure facilities, specifically designed for families and children. The park features an impressive collection of modern slides, clean swimming areas, and diverse play zones. Safety is integrated into every aspect of the park’s infrastructure, allowing for a worry-free experience for parents. With an active daily program that keeps guests entertained, it is a primary destination on the coast. The combination of refreshing water fun and an infrastructure geared toward families makes it far more than just a seasonal swimming spot.",
+      "factsAdvanced": [
+        "One of the largest leisure parks in Tunisia",
+        "Features extensive, modern slide landscapes",
+        "Safe and clean swimming areas for all ages",
+        "Daily animation programs for non-stop entertainment",
+        "Highly popular coastal destination for families",
+        "Integrated infrastructure designed for safety and fun",
+        "Offers a full-day experience beyond swimming"
+      ]
+    },
+    {
+      "id": "gala-desert-reserve-life-v2",
+      "descriptionAdvanced": "The Gala Desert Reserve serves as a pivotal center for documenting and protecting the unique flora and fauna of the Sahara’s fringe. Beyond its role as a scientific research center, it functions as a vital educational space where visitors can learn about the ingenious survival strategies used by desert-adapted animals. A dedicated nature trail allows guests to explore the ecology of the environment safely. This reserve is a testament to local conservation efforts and is instrumental in fostering ecological awareness, combining scientific study with an engaging, hands-on nature experience.",
+      "factsAdvanced": [
+        "Scientific center for documenting Saharan fauna",
+        "Features a nature trail for ecological education",
+        "Pivotal for local Saharan conservation efforts",
+        "Provides insights into desert survival strategies",
+        "Promotes public ecological awareness of the Sahara",
+        "Unique location for guided desert exploration",
+        "Integrates scientific study with visitor engagement"
+      ]
+    },
+    {
+      "id": "sidi-bou-zid-agriculture-life-v2",
+      "descriptionAdvanced": "The agricultural region surrounding Sidi Bouzid is an intensively farmed landscape that acts as a pillar for both local and national food supplies. Renowned for its diverse vegetable harvest and robust grain production, the region showcases high agricultural productivity supported by modern technological integration. It functions as a central economic hub for the broader area, significantly boosting regional self-sufficiency. Through continuous innovation, Sidi Bouzid demonstrates how maximizing the output of agricultural lands can foster economic prosperity while supporting the nutritional needs of the surrounding population.",
+      "factsAdvanced": [
+        "Intensively farmed landscape vital to national supply",
+        "Leading producer of diverse regional vegetables",
+        "Major contributor to Tunisian grain production",
+        "Integrates modern farming technology for high yields",
+        "Serves as a key economic hub for the surrounding area",
+        "Significant driver of regional self-sufficiency",
+        "Maximizes land productivity through continuous innovation"
+      ]
+    },
+    {
+      "id": "monastir-aquarium-life-v2",
+      "descriptionAdvanced": "Monastir Aquarium is built as an interactive educational center designed to make the wonders of the Mediterranean accessible to young learners. Focusing on the diverse flora and fauna of local maritime habitats, it features numerous learning stations that actively encourage children to explore the importance of ocean protection. The park offers an engaging program that is as entertaining as it is educational, sharpening ecological awareness regarding marine life. Through this playful approach, the aquarium successfully instills a lasting appreciation for the Mediterranean's underwater processes in younger generations.",
+      "factsAdvanced": [
+        "Interactive education center for marine studies",
+        "Highlights the unique biodiversity of the Mediterranean",
+        "Includes learning stations designed for children",
+        "Focuses on fostering awareness for ocean protection",
+        "Entertaining and educational program for families",
+        "Vital facility within Monastir's educational landscape",
+        "Instills early appreciation for maritime ecosystems"
+      ]
+    },
+    {
+      "id": "gabes-oasis-life-v2",
+      "descriptionAdvanced": "The oasis of Gabès is a rare and striking architectural and agricultural anomaly, as it stands as one of the few oases located directly on the coastline. Its complex, multi-tiered cultivation system supports a wide range of fruit production, ensuring a diverse harvest throughout the year. As a cultural cornerstone, the oasis remains intimately linked to the daily traditions of its inhabitants. The farming methods employed here have evolved over centuries, representing a successful adaptation to the specific climatic conditions of the coast while showcasing sustainable resource use.",
+      "factsAdvanced": [
+        "One of the few oases located directly on the coast",
+        "Features a complex, multi-tiered cultivation system",
+        "Supports diverse, year-round fruit production",
+        "Deeply woven into local community traditions",
+        "Evolved over centuries to adapt to coastal climates",
+        "Showcases sustainable use of limited resources",
+        "Key cultural site for the Gabès region"
+      ]
+    },
+    {
+      "id": "el-djem-gardens-life-v2",
+      "descriptionAdvanced": "The family park in El Djem serves as an engaging complement to the city’s world-famous Roman amphitheater, providing an educational narrative tailored for children. The park’s design allows kids to discover the history of the ancient city from a relaxed, family-centric perspective. With generous green spaces and well-designed play areas, it serves as an ideal space where history and entertainment intersect. Parents find it an invaluable resource for introducing younger generations to El Djem’s cultural depth, proving that historical education can be both accessible and enjoyable for the whole family.",
+      "factsAdvanced": [
+        "Educational park designed around local history",
+        "Tailored to engage children and families",
+        "Complements the El Djem Roman amphitheater visit",
+        "Offers generous, well-maintained green spaces",
+        "Combines historical learning with recreational play",
+        "Provides an accessible context for children to learn history",
+        "Value-add to the city’s cultural tourism sector"
+      ]
+    },
+    {
+      "id": "bizerte-wildlife-park-life-v2",
+      "descriptionAdvanced": "The Bizerte Wildlife Park is a dedicated sanctuary committed to the preservation of animals native to Tunisia's northern coastal region. By providing a natural environment for endangered species, the park ensures their survival while offering the public a close look at local wildlife beauty. The facility serves a dual purpose as both a conservation site and an educational center, where families learn about the ecological roles animals play. It stands as a popular attraction, recognized for its commitment to naturalistic environments and educational transparency, fostering deeper respect for Tunisian fauna.",
+      "factsAdvanced": [
+        "Dedicated sanctuary for native coastal animals",
+        "Located in the critical northern coastal region",
+        "Focuses on the conservation of endangered species",
+        "Dual-purpose conservation and educational facility",
+        "Highly popular and family-friendly attraction",
+        "Committed to providing naturalistic wildlife environments",
+        "Promotes deeper public respect for Tunisian fauna"
+      ]
+    },
+    {
+      "id": "medenine-ksar-kids-life-v2",
+      "descriptionAdvanced": "The Medenine Explorer Park is an innovative recreational space that translates the traditional ksar architectural heritage into a playful environment for children. Through thoughtful design, historical themes are made tangible, allowing young visitors to interact with the region’s architectural legacy. The park acts as both an adventure playground and a unique learning space, sparking curiosity about regional history. The layout is deeply tied to the Medenine region’s identity, prioritizing the transmission of values like tradition and durability. It provides an experience that playfully supports cultural connection while bridging the past and present.",
+      "factsAdvanced": [
+        "Playful introduction to traditional ksar architecture",
+        "Thematizes the region’s rich architectural heritage",
+        "Innovative learning concepts for younger visitors",
+        "Focuses on the formation of cultural identity",
+        "Combines adventure play with cultural education",
+        "Supports the values of tradition and durability",
+        "Connects historical roots with modern play"
+      ]
+    }
+  ]
+}

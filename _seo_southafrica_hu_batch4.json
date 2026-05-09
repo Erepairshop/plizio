@@ -1,0 +1,48 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "the-leonardo-landmarks-v2",
+      "descriptionAdvanced": "A johannesburgi The Leonardo jelenleg Afrika egyik legmagasabb felhőkarcolója, amely 234 méteres magasságával meghatározza a város látképét. A Sandton negyedben elhelyezkedő, többcélú épület luxuslakásoknak, irodáknak és egy ötcsillagos szállodának ad otthont. A modern építészet csúcsát képviselő torony nemcsak a város üzleti életének központja, hanem prémium életteret is biztosít a legmagasabb igényeknek megfelelően, miközben lenyűgöző panorámát kínál Johannesburgra.",
+      "factsAdvanced": [
+        "234 méter magas felhőkarcoló.",
+        "Sandton városrészben található.",
+        "Luxuslakások, irodák és szálloda egyben.",
+        "A város egyik legmodernebb épülete.",
+        "2019-ben nyitották meg.",
+        "Afrika egyik legmagasabb lakóépülete.",
+        "Innovatív, fenntartható építészeti megoldásokkal rendelkezik."
+      ]
+    },
+    {
+      "id": "bloukrans-bridge-landmarks-v2",
+      "descriptionAdvanced": "A Bloukrans-híd a Garden Route egyik leglátványosabb építménye, amely az azonos nevű völgy fölött ível át. A híd nemcsak közlekedési szempontból jelentős, hanem a világ egyik legnépszerűbb bungee jumping helyszíne is, ahol a látogatók a hídról a mélybe ugorva élhetik át a szabadesés élményét. A mérnöki precizitással épült betonhíd a vadregényes táj közepén egyben biztonságos és izgalmas turistacélpont, amely a kalandvágyókat vonzza a világ minden tájáról.",
+      "factsAdvanced": [
+        "A világ egyik legmagasabb bungee jumping helyszíne (216 méter).",
+        "A Garden Route népszerű útvonalán fekszik.",
+        "Íves betonhíd szerkezet.",
+        "1983-ban adták át a forgalomnak.",
+        "A Bloukrans folyó völgye fölött ível át.",
+        "Látványos természeti környezet.",
+        "Nemzetközi hírű extrém sport helyszín."
+      ]
+    },
+    {
+      "id": "taalmonument-landmarks-v2",
+      "descriptionAdvanced": "A paarli Afrikaans Nyelvi Emlékmű (Afrikaans Language Monument) egy különleges, futurisztikus formavilágú emlékmű, amelyet az afrikaans nyelv fejlődése és története iránti tiszteletből emeltek. A Paarl-hegy oldalában álló, különböző magasságú betonoszlopok az afrikaans nyelvre ható különböző kultúrákat és a nyelvi gyökereket szimbolizálják. A látogatók körében kedvelt helyszín, ahonnan csodálatos kilátás nyílik a Paarl-völgy szőlőültetvényeire, miközben kulturális és történelmi betekintést nyújt a régió nyelvi örökségébe.",
+      "factsAdvanced": [
+        "Az afrikaans nyelv tiszteletére emelt emlékmű.",
+        "1975-ben adták át.",
+        "Futurisztikus betonforma, amely a nyelvi gyökereket tükrözi.",
+        "Paarl városában, a Paarl-hegyen található.",
+        "Csodálatos panoráma a környékbeli szőlőskertekre.",
+        "A régió egyik fontos kulturális jelképe.",
+        "Kiemelt turisztikai látványosság."
+      ]
+    }
+  ]
+}

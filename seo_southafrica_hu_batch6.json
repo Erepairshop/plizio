@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-kathu-cities-v2",
+      "descriptionAdvanced": "Kathu az Észak-Fokföld tartomány egyik leggyorsabban növekvő városa, amely szorosan összefonódott a közeli Sishen vasércbánya sorsával. A bányászat biztosítja a város gazdasági alapját, emellett a különleges környezeti adottságai is ismertté teszik, mivel a várost egy ritka, ősi teveakác-erdő veszi körül. A 'fák alatti város' elnevezés jól jellemzi azt az egyedülálló ökológiai környezetet, amelyben ez a fiatal, dinamikus iparváros kialakult.",
+      "factsAdvanced": [
+        "A Sishen vasércbánya közelsége biztosítja a gazdasági alapot.",
+        "A 'fák alatti város' néven is ismert az ősi teveakác-erdő miatt.",
+        "A világ egyik legjelentősebb vasérc-kitermelő régiója.",
+        "Fiatal város, amely az 1970-es években épült ki.",
+        "Sivatagi környezetben elhelyezkedő zöld oázis-szerű település.",
+        "Fontos ipari központ az Észak-Fokföld tartományban."
+      ]
+    },
+    {
+      "id": "southafrica-colesberg-cities-v2",
+      "descriptionAdvanced": "Colesberg egy történelmi jelentőségű mezőgazdasági kisváros a Karoo közepén, amely az ország észak-déli tranzitútvonalának egyik legnépszerűbb pihenőhelye. A városka hangulatos, 19. századi épületeivel és a környező, végeláthatatlan juhtenyésztő farmokkal a Karoo tipikus életérzését kínálja. A merinó juhok tenyésztéséről világszerte ismert régió kereskedelmi és kulturális központjaként szolgál az utazók számára.",
+      "factsAdvanced": [
+        "1830-as alapítású település.",
+        "Népszerű éjszakai pihenőhely a Johannesburg–Fokváros tranzitúton.",
+        "A kiváló minőségű merinó juhok tenyésztésének központja.",
+        "Tipikus karoo-i építészeti stílus jellemzi.",
+        "A száraz puszták közepén fekvő kereskedelmi állomás.",
+        "A történelem során jelentős szerepet töltött be a kereskedelemben."
+      ]
+    },
+    {
+      "id": "southafrica-vryburg-cities-v2",
+      "descriptionAdvanced": "Vryburg az Északnyugati tartomány jelentős mezőgazdasági központja, amelyet gyakran 'Dél-Afrika Texasának' neveznek a kiterjedt szarvasmarha-tenyésztés és marhatartás miatt. A város 1882-ben a rövid életű Stellaland Köztársaság fővárosaként jött létre, és azóta a régió gazdasági és ipari központjává fejlődött. A város a mezőgazdasági termékek feldolgozásának és a marhatenyésztésnek a meghatározó dél-afrikai állomása.",
+      "factsAdvanced": [
+        "Gyakran 'Dél-Afrika Texasaként' emlegetik.",
+        "A szarvasmarha-tenyésztés egyik legfontosabb dél-afrikai központja.",
+        "1882-ben Stellaland fővárosaként alapították.",
+        "Mezőgazdasági termékfeldolgozás az ipari alapja.",
+        "Fontos kereskedelmi központ az Északnyugati tartományban.",
+        "Tipikus dél-afrikai alföldi mezőgazdasági központ."
+      ]
+    },
+    {
+      "id": "southafrica-klerksdorp-cities-v2",
+      "descriptionAdvanced": "Klerksdorp az Északnyugati tartomány legnagyobb városa, amely történelmileg az aranybányászat köré épült ki, ma pedig a régió egyik legjelentősebb gazdasági és mezőgazdasági centruma. A város a voortrekker telepesek egyik korai bázisa volt a 19. század közepén, innen ered történelmi súlya. A modern Klerksdorp a gazdag aranykészletek kiaknázása mellett ma a kukoricatermesztés és az ipari feldolgozás központja.",
+      "factsAdvanced": [
+        "Az Északnyugati tartomány legnépesebb városa.",
+        "A voortrekker telepesek egyik legkorábbi dél-afrikai bázisa.",
+        "Gazdag aranybányászati hagyományokkal rendelkezik.",
+        "Meghatározó kukoricatermesztő és feldolgozó központ.",
+        "Jelentős kereskedelmi csomópont a régióban.",
+        "Modern városi infrastruktúrával rendelkező iparváros."
+      ]
+    },
+    {
+      "id": "southafrica-potchefstroom-cities-v2",
+      "descriptionAdvanced": "Potchefstroom egy dinamikus egyetemváros a Mooi-folyó partján, amelyet 1838-ban alapítottak. A város az Északnyugati Egyetem fő kampuszának ad otthont, amely meghatározó szerepet tölt be a város intellektuális és kulturális életében. Potchefstroom történelmi épületei és parkjai mellett a felsőoktatási és kutatóintézeti profilja miatt a régió egyik legfontosabb szellemi központja, amely ötvözi a hagyományokat a modern fejlesztésekkel.",
+      "factsAdvanced": [
+        "1838-as alapítású, történelmi város.",
+        "Az Északnyugati Egyetem fő kampuszának városa.",
+        "Számos műemlék épülettel és történelmi emlékkel rendelkezik.",
+        "Kiemelkedő felsőoktatási és kutatói központ.",
+        "A Mooi-folyó mentén fekvő zöld, parkos város.",
+        "A voortrekker történelem fontos állomása."
+      ]
+    }
+  ]
+}

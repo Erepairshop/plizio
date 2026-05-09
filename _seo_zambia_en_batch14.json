@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lubwa-mission-history-v2",
+      "descriptionAdvanced": "The Lubwa Mission station, initiated in 1905 by David Kaunda, takes a special place in Zambia's historical landscape. As the place of work of the father of Kenneth Kaunda, Zambia's first president, and the birthplace of Kenneth Kaunda himself, the mission developed into a cultural and spiritual center of African nationalism. Here, the foundation was laid for generations of Zambian education, which finally culminated in the independence movement. Lubwa therefore symbolizes not only religious work, but also the intellectual cradle of those political ideals that decisively drove the later struggle for a sovereign Zambia.",
+      "factsAdvanced": [
+        "Founded in 1905 by David Kaunda",
+        "Birthplace of President Kenneth Kaunda",
+        "Center for education and African nationalism",
+        "Intellectual cradle of the Zambian independence movement",
+        "Important place in Zambia's political history",
+        "Symbol for intellectual emancipation"
+      ]
+    }
+  ]
+}

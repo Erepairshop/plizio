@@ -1,0 +1,74 @@
+{
+  "lang": "ro",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chao-bom-cities-v2",
+      "descriptionAdvanced": "Chão Bom, situat la trei kilometri sud de Tarrafal, reprezintă un centru urban în dezvoltare în cadrul municipiului Tarrafal, având o populație de circa 4.500 de locuitori. Localitatea este marcată de istoria tragică a fostului lagăr de concentrare Campo do Tarrafal, care a funcționat între 1936 și 1974, fiind locul unde au fost deținuți numeroși prizonieri politici din Portugalia, Angola și Guineea-Bissau. Astăzi, fostul lagăr găzduiește un muzeu național și un memorial dedicat victimelor. În ultimele decenii, Chão Bom s-a dezvoltat semnificativ datorită proiectelor agricole și comerciale, devenind o zonă rezidențială importantă în nordul insulei Santiago.",
+      "factsAdvanced": [
+        "Situat la trei kilometri sud de Tarrafal",
+        "Populație de aproximativ 4.500 de locuitori",
+        "Locația fostului lagăr Campo do Tarrafal (1936–1974)",
+        "Memorial și muzeu dedicat victimelor",
+        "Zonă rezidențială și agricolă în plină dezvoltare",
+        "Centru pentru proiecte locale de irigații",
+        "Poziționare cheie în nordul insulei Santiago"
+      ]
+    },
+    {
+      "id": "achada-monte-cities-v2",
+      "descriptionAdvanced": "Achada Monte, situată în zona muntoasă de nord-est a insulei Santiago, face parte din municipiul São Miguel, fiind situată la o altitudine de 450 de metri. Această așezare rurală cu aproximativ 800 de locuitori se întinde de-a lungul drumului național EN1, care leagă orașul Praia de Tarrafal. Peisajul este marcat de creste muntoase impresionante, care oferă vederi spectaculoase asupra Oceanului Atlantic. Agricultura de subzistență, concentrată pe cultura porumbului și a fasolei, reprezintă baza traiului zilnic. Remitențele financiare trimise de emigranți joacă un rol vital în susținerea gospodăriilor locale, în special în timpul sezonului secetos, cuprins între lunile decembrie și iunie.",
+      "factsAdvanced": [
+        "Altitudine de aproximativ 450 de metri",
+        "Populație de circa 800 de locuitori",
+        "Situată pe traseul drumului național EN1",
+        "Agricultură bazată pe cultura porumbului și a fasolei",
+        "Sezon secetos marcat între decembrie și iunie",
+        "Rol important al remitențelor în economia locală",
+        "Punct de acces spre Parcul Natural Serra Malagueta"
+      ]
+    },
+    {
+      "id": "porto-rincao-cities-v2",
+      "descriptionAdvanced": "Porto Rincão este un sat pescăresc izolat pe coasta vestică a insulei Santiago, integrat în municipiul Santa Catarina. Cu o populație de 1.200 de locuitori, satul este așezat la baza unei văi adânci care coboară abrupt către Oceanul Atlantic. Până în 2010, drumul de acces era dificil, fapt care a contribuit la conservarea autenticității satului. Porto Rincão este un punct focal pentru cultura muzicală Batuko, stil interpretat tradițional de femei folosind instrumente de percuție. Plajele cu nisip negru sunt supuse unei forțe mari a valurilor oceanice, făcând înotul periculos, însă pescuitul rămâne activitatea principală, în special capturarea macroului.",
+      "factsAdvanced": [
+        "Sat pescăresc pe coasta vestică a insulei",
+        "Populație de circa 1.200 de locuitori",
+        "Accesibilitate dificilă înainte de asfaltarea din 2010",
+        "Centru al tradiției muzicale locale Batuko",
+        "Plajă cu nisip negru și curenți oceanici puternici",
+        "Principala captură a pescarilor este macroul",
+        "Municipiul Santa Catarina"
+      ]
+    },
+    {
+      "id": "porto-mosquito-cities-v2",
+      "descriptionAdvanced": "Porto Mosquito se situează la 15 kilometri vest de Praia, pe coasta de sud a insulei Santiago, în municipiul Ribeira Grande de Santiago. Satul, care găzduiește în jur de 1.400 de locuitori, se dezvoltă într-un golf natural protejat de formațiuni stâncoase vulcanice distinctive. Portul local are o lungă tradiție în construcția manuală a bărcilor din lemn de pin, folosite pentru pescuitul artizanal. Principalele capturi includ tonul, peștele-spadă și specia Garoupa. Din platoul situat în spatele satului, vizitatorii pot admira o perspectivă panoramică asupra orașului istoric Cidade Velha, aflat la doar trei kilometri distanță către vest.",
+      "factsAdvanced": [
+        "Situat la 15 km vest de Praia",
+        "Populație de aproximativ 1.400 locuitori",
+        "Municipiul Ribeira Grande de Santiago",
+        "Tradiție în construcția manuală a bărcilor de pescuit",
+        "Pescuit intensiv de ton și pește-spadă",
+        "Poziționare la 3 km de orașul istoric Cidade Velha",
+        "Golf protejat de formațiuni vulcanice"
+      ]
+    },
+    {
+      "id": "mindelo-cities-v2",
+      "descriptionAdvanced": "Mindelo, situat pe coasta de nord-vest a insulei São Vicente, ocupă malul golfului Porto Grande, un crater vulcanic scufundat. Devenit capitală regională în 1838, orașul a prosperat ca punct strategic de aprovizionare pentru navele cu aburi britanice. Cu peste 70.000 de locuitori, este a doua cea mai mare așezare din țară și centrul cultural neoficial al arhipelagului. Orașul este locul de naștere al celebrei cântărețe Cesária Évora, iar carnavalul anual este considerat cel mai grandios eveniment de acest tip din Africa de Vest. Arhitectura colonială cu clădiri în culori pastelate și viața muzicală intensă fac din Mindelo o destinație culturală de neegalat.",
+      "factsAdvanced": [
+        "Populație de circa 70.000 de persoane (2021)",
+        "Capitala insulei São Vicente din 1838",
+        "Port natural în crater vulcanic scufundat",
+        "Locul de naștere al legendarei Cesária Évora",
+        "Cel mai mare carnaval din Africa de Vest",
+        "Influențat istoric de companiile britanice de cărbune",
+        "Aeroportul Cesária Évora situat la 11 km"
+      ]
+    }
+  ]
+}

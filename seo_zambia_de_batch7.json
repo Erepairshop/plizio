@@ -1,0 +1,57 @@
+{
+  "lang": "de",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "luangwa-river-head-nature-v2",
+      "descriptionAdvanced": "Die Quellregion des Luangwa-Flusses liegt in einer hochgelegenen, klimatisch rauen und landschaftlich reizvollen Region im Nordosten Sambias. Hier entspringt der mächtige Strom in einer Berglandschaft, die durch kristallklare Wasserläufe und eine vielfältige, spezialisierte Flora geprägt ist. Die unzugängliche Lage schützt dieses Gebiet effektiv vor großflächigen menschlichen Eingriffen, wodurch eine nahezu unberührte, wilde Naturlandschaft erhalten bleibt. Diese Region bildet das hydrologische Fundament für das gesamte Luangwa-Ökosystem und ist ein entscheidender Rückzugsort für Tierarten, die an die Bedingungen des Hochlandes angepasst sind.",
+      "factsAdvanced": [
+        "Hochgelegene Quellregion des Luangwa-Flusses",
+        "Landschaftlich geprägt durch Bergregionen im Nordosten",
+        "Heimat von kristallklaren und naturbelassenen Wasserläufen",
+        "Weitgehend unzugängliche und wilde Naturlandschaft",
+        "Hydrologische Basis für das gesamte Luangwa-Ökosystem",
+        "Lebensraum für hochland-spezialisierte Tierarten"
+      ]
+    },
+    {
+      "id": "mulungushi-river-nature-v2",
+      "descriptionAdvanced": "Der Mulungushi-Fluss ist ein bedeutender Nebenfluss in Zentral-Sambia und ist eng mit der wirtschaftlichen Entwicklung und dem Naturschutz in dieser Region verknüpft. Sein Lauf ist von einer natürlichen Flora geprägt, die Lebensraum für diverse kleine Säugetiere bietet und eine wichtige ökologische Funktion erfüllt. Zudem spielt der Fluss eine Rolle bei der Energieversorgung durch Wasserkraft, wobei die wasserwirtschaftlichen Anlagen so gestaltet sind, dass der ökologische Charakter des Flusses weitgehend erhalten bleibt. Die Region ist ein wichtiges Beispiel für den Einklang von notwendiger infrastruktureller Nutzung und dem Erhalt wertvoller natürlicher Lebensräume.",
+      "factsAdvanced": [
+        "Wichtiger Nebenfluss im Herzen Zentral-Sambias",
+        "Naturnaher Verlauf mit bedeutender ökologischer Funktion",
+        "Wichtige Wasserressource für die umliegende Region",
+        "Unterstützt eine artenreiche Fischpopulation",
+        "Nutzung für moderne Wasserkraft zur Energieerzeugung",
+        "Wichtiges Bindeglied zwischen Nutzung und Naturschutz"
+      ]
+    },
+    {
+      "id": "luapula-valley-nature-v2",
+      "descriptionAdvanced": "Das Luapula-Tal zeichnet sich durch seine üppige, fast tropisch anmutende Vegetation und seine hohe ökologische Vielfalt aus, die es zu einer der fruchtbarsten Regionen Sambias macht. Als Lebensraum für zahlreiche Spezies bildet das Tal ein wichtiges ökologisches Rückgrat im Norden des Landes. Die fruchtbaren Auen des Luapula, kombiniert mit den reichhaltigen Ressourcen des Tals, unterstützen ein komplexes Nahrungsnetz und bieten ideale Bedingungen für eine hohe Konzentration an Vögeln und Amphibien. Der Schutz dieser Region ist von zentraler Bedeutung für die langfristige Sicherung der biologischen Integrität im gesamten nördlichen Sambia.",
+      "factsAdvanced": [
+        "Üppige, fast tropische Vegetation charakterisiert das Tal",
+        "Eine der ökologisch vielfältigsten Regionen Nord-Sambias",
+        "Wichtiges ökologisches Rückgrat durch fruchtbare Auen",
+        "Unterstützt ein komplexes und artenreiches Nahrungsnetz",
+        "Hohe Dichte an Vögeln und Amphibienarten",
+        "Schlüsselregion für die biologische Integrität des Nordens"
+      ]
+    },
+    {
+      "id": "iitezhi-tezhi-lake-nature-v2",
+      "descriptionAdvanced": "Der Itezhi-Tezhi-Stausee ist ein künstliches Gewässer am Rande des Kafue-Nationalparks, das durch seine immense Größe und ökologische Bedeutung besticht. Obwohl er menschengemacht ist, hat sich die Region um den See in ein wertvolles Naturgebiet verwandelt, das zahlreichen Wasservögeln einen sicheren Brutplatz bietet. Die Wasserfläche dient zudem als wichtige Grenze und Schutzpuffer für die angrenzenden Wildnisgebiete des Nationalparks. Er unterstreicht, wie gezielte wasserwirtschaftliche Maßnahmen ökologische Nischen schaffen können, die langfristig den Naturschutz in der Region fördern und die biologische Vielfalt aktiv unterstützen.",
+      "factsAdvanced": [
+        "Großer künstlich geschaffener See am Kafue-Nationalpark",
+        "Wichtige natürliche Schutzgrenze für den Nationalpark",
+        "Bedeutendes Brut- und Rastgebiet für zahlreiche Wasservögel",
+        "Ökologischer Puffer für angrenzende unberührte Wildnis",
+        "Zeigt Synergie zwischen Wasserwirtschaft und Naturschutz",
+        "Erhebliche Bedeutung für die regionale Artenvielfalt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zambezi-river-nature-v2",
+      "descriptionAdvanced": "Zambezi este al patrulea cel mai lung fluviu din Africa, traversând Zambia pe un parcurs spectaculos de 2574 de kilometri înainte de a se vărsa în Oceanul Indian. Fluviul servește drept sursă vitală de apă pentru biodiversitatea locală și este gazda celebrei Cascade Victoria, situată la granița cu Zimbabwe. Valea Zambezilor constituie un habitat esențial pentru fauna sălbatică și susține activitățile economice locale, fiind un element central al dinamicii ecologice în sudul țării.",
+      "factsAdvanced": [
+        "Al patrulea cel mai lung sistem fluvial african",
+        "Lungime totală de aproximativ 2574 de kilometri",
+        "Se varsă în Oceanul Indian în Mozambic",
+        "Sursă vitală de apă dulce pentru Zambia",
+        "Găzduiește spectaculoasa Cascadă Victoria",
+        "Jucă un rol major în hidroenergia regională",
+        "Habitat crucial pentru hipopotami și crocodili"
+      ]
+    },
+    {
+      "id": "victoria-falls-nature-v2",
+      "descriptionAdvanced": "Cascada Victoria, cunoscută local ca Mosi-oa-Tunya (fumul care tună), este una dintre cele mai grandioase minuni naturale ale lumii, situată pe fluviul Zambezi între Zambia și Zimbabwe. Cu o înălțime de 108 metri și o lățime de 1708 metri, aceasta reprezintă cea mai mare cascadă continuă de pe glob. Spray-ul constant generat de prăbușirea masivă a apei întreține un microclimat de pădure tropicală în defileul adiacent, oferind un refugiu pentru specii rare și endemice de plante și animale.",
+      "factsAdvanced": [
+        "Sit inclus în Patrimoniul Mondial UNESCO",
+        "Denumire locală Mosi-oa-Tunya („fumul care tună”)",
+        "Înălțime maximă de 108 metri",
+        "Lățime impresionantă de aproximativ 1708 metri",
+        "Cea mai mare cascadă continuă din lume",
+        "Susține un microclimat unic de pădure tropicală",
+        "Simbol național și centru major al ecoturismului"
+      ]
+    },
+    {
+      "id": "lake-kariba-nature-v2",
+      "descriptionAdvanced": "Lacul Kariba este cel mai mare lac de acumulare artificial din lume după volumul de apă, creat la sfârșitul anilor '50 prin bararea fluviului Zambezi la granița dintre Zambia și Zimbabwe. Întinzându-se pe o suprafață de 5580 de kilometri pătrați, lacul joacă un rol vital în generarea energiei electrice pentru Zambia și susține o industrie piscicolă înfloritoare. Construcția barajului a remodelat complet ecologia locală, oferind în prezent noi habitate pentru fauna acvatică și devenind o destinație populară pentru observarea naturii.",
+      "factsAdvanced": [
+        "Cel mai mare lac artificial din lume după volum",
+        "Suprafață de aproximativ 5580 kilometri pătrați",
+        "Creat între anii 1955 și 1959",
+        "Pilon central al producției de electricitate",
+        "Centru comercial important pentru pescuitul de Kapenta",
+        "Habitat vast pentru populații mari de crocodili",
+        "Impact major asupra ecosistemului regional"
+      ]
+    },
+    {
+      "id": "kalahari-desert-nature-v2",
+      "descriptionAdvanced": "Deșertul Kalahari este o zonă vastă de semideșert cu câmpii nisipoase care se extinde și în vestul Zambiei. Deși este denumit deșert, climatul și vegetația, compusă din ierburi rezistente și tufe, permit supraviețuirea unei faune specializate. Această regiune a fost istoric teritoriul strămoșesc al poporului San, renumit pentru stilul lor de viață tradițional de vânători-culegători. Peisajul se remarcă prin dune de nisip roșu și o biodiversitate adaptată la condiții de ariditate extremă, oferind un studiu fascinant asupra supraviețuirii în mediile dificile.",
+      "factsAdvanced": [
+        "Regiune vastă de semideșert în sudul Africii",
+        "Nu constituie un deșert în sens geologic strict",
+        "Specific prin dunele de nisip de culoare roșie",
+        "Patria istorică a populației indigene San",
+        "Vegetație adaptată la condiții de secetă",
+        "Concentrație importantă de specii sălbatice",
+        "Precipitații anuale foarte scăzute"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-mokopane-cities-v2",
+      "descriptionAdvanced": "Mokopane, korábbi nevén Potgietersrus, az Északnyugati tartomány egyik meghatározó mezőgazdasági városa, amelyet rendkívül termékeny, gazdag vidék vesz körül. A település a közelében található Makapansgat-barlangrendszerről is híres, amely a világ egyik legfontosabb őskori régészeti lelőhelye, betekintést nyújtva az emberiség evolúciós múltjába. A mezőgazdasági produkció mellett ma Mokopane a modern platinabányászat egyik fontos dél-afrikai központja is.",
+      "factsAdvanced": [
+        "A Makapansgat-barlangrendszer őskori lelőhelyéről híres.",
+        "Kiemelkedően termékeny mezőgazdasági környezet övezi.",
+        "A platinabányászat egyik dél-afrikai bázisvárosa.",
+        "Potgietersrus néven alapították.",
+        "Az evolúciókutatás és az antropológia fontos helyszíne.",
+        "Gazdag mezőgazdasági termékfeldolgozással rendelkezik."
+      ]
+    },
+    {
+      "id": "southafrica-thohoyandou-cities-v2",
+      "descriptionAdvanced": "Thohoyandou, a korábbi Venda bantusztán fővárosa, ma a Vhembe régió kulturális és gazdasági epicentruma. A város neve isiVenda nyelven 'elefántfejet' jelent, és a régió gazdag állatvilágára utal. A város dinamikusan fejlődik, a Venda Egyetem székhelyeként pedig a régió legfontosabb oktatási központja. A hagyományos tradíciók és a modern városi életforma keveredése miatt egyedülálló atmoszférával rendelkezik a távoli északi régióban.",
+      "factsAdvanced": [
+        "A Venda bantusztán korábbi fővárosa.",
+        "A név isiVenda nyelven 'elefántfejet' jelent.",
+        "A Venda Egyetem otthona és a régió tudományos központja.",
+        "A Vhembe régió kulturális és gazdasági epicentruma.",
+        "A hagyományos zulu és venda kultúrák ötvözete jellemzi.",
+        "A régió legfontosabb oktatási intézménye található itt."
+      ]
+    },
+    {
+      "id": "southafrica-phalaborwa-cities-v2",
+      "descriptionAdvanced": "Phalaborwa városa 'a két nyár városa' néven ismert, amely a Kruger Nemzeti Park központi kapujánál, a táj különleges adottságai mellett fekszik. A település nemcsak turisztikai szempontból jelentős, hanem a környékén lévő hatalmas rézbányák és ipari létesítmények révén is meghatározó gazdasági bázis. A város körüli környezet az év szinte minden szakában kellemes, meleg hőmérsékletet kínál, ami a természetbarátok és az ipari bányászat szakemberei számára egyaránt vonzóvá teszi.",
+      "factsAdvanced": [
+        "Ismert mint 'a két nyár városa'.",
+        "Közvetlen kaput nyit a Kruger Nemzeti Parkhoz.",
+        "Afrika egyik legszélesebb mesterséges rézbányája található itt.",
+        "Az év nagy részében meleg és napfényes az éghajlata.",
+        "Fontos ipari és turisztikai központ egyaránt.",
+        "Természeti szépségei és ipari jelentősége is említésre méltó."
+      ]
+    }
+  ]
+}

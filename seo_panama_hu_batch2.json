@@ -1,0 +1,64 @@
+{
+  "lang": "hu",
+  "country": "panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-banano-barú-life-v2",
+      "descriptionAdvanced": "A Barú régióban (Puerto Armuelles) található banánültetvények történelmileg Panama mezőgazdasági gazdaságának egyik fő motorját jelentették. A 20. század elején a United Fruit Company – később Chiquita Brands – hatalmas infrastruktúrát épített ki itt, beleértve saját vasutakat és kikötőket. A forró, párás éghajlat és a Costa Rica-i határhoz közeli termékeny talaj ideális a Cavendish banánfajták számára. Bár az iparág súlyos válságokon ment keresztül, mint például sztrájkok, a 'panamai betegség' gomba és a nagyvállalatok kivonulása, a szektor új beruházásoknak és betegségellenálló fajtáknak köszönhetően erőteljesen visszatért. Földrajz K7 — Monokultúrák és agrárexport.",
+      "factsAdvanced": [
+        "A Barú régió volt történelmileg a panamai banánexport központja.",
+        "A United Fruit Company masszív infrastruktúrát épített ki a 20. században.",
+        "A forró és párás éghajlat optimális feltételeket biztosít a banántermesztéshez.",
+        "A hírhedt 'panamai betegség' gomba korábban hatalmas terméseket pusztított el.",
+        "Az új beruházások a betegségellenálló fajtákra, mint a Cavendish banán, összpontosítanak."
+      ]
+    },
+    {
+      "id": "parque-recreativo-omar-torrijos-life-v2",
+      "descriptionAdvanced": "A General de División Omar Torrijos Herrera Nemzeti Park (vagy röviden El Copé Park) Coclé tartományban található, és a központi hegylánc (Cordillera Central) egy részét védi. A park célja a sűrű felhőerdők és a fontos vízgyűjtők megőrzése, amelyek a Karib-tengerbe és a Csendes-óceánba vezetnek. A hűvös, ködös éghajlat miatt a biodiverzitás hatalmas; számtalan endemikus orchidea-, páfrány- és kétéltűfaj él itt. A park történelmileg is jelentős: 1981-ben Omar Torrijos tábornok repülőgépe soha nem tisztázott körülmények között zuhant le ezekben a hegyekben. A túrázók számára a park kihívást jelentő ösvényeket kínál, ahonnan tiszta időben látványos panoráma nyílik az óceánoktól az óceánokig. Földrajz K8 — Vízgyűjtők és felhőerdők.",
+      "factsAdvanced": [
+        "A Coclé tartományban, a Cordillera Central hűvös felhőerdőiben található.",
+        "Fontos vízgyűjtőket véd a mindkét óceánba ömlő folyók számára.",
+        "Omar Torrijos tábornokról nevezték el, akinek gépe itt zuhant le 1981-ben.",
+        "Az endemikus növényfajok, mint például orchideák és páfrányok forrópontja.",
+        "Túrautakat kínál, amelyek tiszta napokon lehetővé teszik a két óceán látványát."
+      ]
+    },
+    {
+      "id": "refugio-vida-silvestre-taboga-life-v2",
+      "descriptionAdvanced": "A Taboga Vadvédelmi Terület a Panama-öbölben található 'Isla Taboga' (a Virágok Szigete) nagy részét foglalja magában, alig néhány kilométerre a fővárostól. A sziget meredek, erdős dombjai biztonságos fészkelőhelyet biztosítanak az egyik legnagyobb barna pelikánkolóniának Latin-Amerikában. A költési időszakban több ezer pelikán népesíti be a sziget szikláit és mangroveerdőit. A rezervátum védi a szigetet körülvevő tengeri ökoszisztémákat is, ahol gyakran delfinek, ráják és vándorlásaik során hosszúszárnyú bálnák is megfigyelhetők. Annak ellenére, hogy Taboga strandjai turisztikailag népszerűek, a rezervátum biztosítja, hogy az ökológiailag érzékeny költőhelyek érintetlenek maradjanak. Biológia K7 — Tengeri madarak és fészkelőkolóniák.",
+      "factsAdvanced": [
+        "Magában foglalja a Csendes-óceánban található Isla Taboga erdős dombjait és partvidékét.",
+        "Az egyik legnagyobb barna pelikán fészkelőkolónia Latin-Amerikában.",
+        "Védi a ráják és delfinek által frekventált érzékeny tengervizeket.",
+        "A sziget a buja növényzete miatt kapta a 'Virágok Szigete' nevet.",
+        "Szabályozott turizmussal biztosítják a tengeri madarak költőhelyeit."
+      ]
+    },
+    {
+      "id": "finca-orquideas-boquete-life-v2",
+      "descriptionAdvanced": "A Boquete-i Orchideafarm (Finca de Orquídeas) a Chiriquí felföld hűvös, ködös éghajlatát használja ki, hogy a világ legritkább és legexotikusabb orchideáit termessze. A Barú-vulkán lejtőin található üvegházakban több száz különféle fajt nevelnek, köztük az ikonikus 'Flor del Espíritu Santo' (Szentlélek-orchidea) fajt, amely Panama nemzeti virága. Ezek a farmok nem csupán turistalátványosságok, hanem fontos természetvédelmi munkát is végeznek. Sok orchideafaj erősen veszélyeztetett az erdőirtás és az illegális kereskedelem miatt. A farmok botanikusokkal együttműködve szaporítják ezeket az érzékeny epifitákat, biztosítva túlélésüket ellenőrzött körülmények között vagy visszatelepítéssel. Biológia K7 — Epifiták és nemzeti növények.",
+      "factsAdvanced": [
+        "A Boquete-i hűvös éghajlat tökéletes az érzékeny epifiták termesztésére.",
+        "Itt termesztik a 'Flor del Espíritu Santo'-t, Panama hivatalos nemzeti virágát.",
+        "Segíti az illegális gyűjtés miatt veszélyeztetett orchideafajok védelmét.",
+        "A növények gyakran föld nélkül, kérgeken és köveken nőnek (epifiták).",
+        "Fontos partner a közép-amerikai felföldek botanikai kutatásában."
+      ]
+    },
+    {
+      "id": "centro-naturaleza-punta-culebra-life-v2",
+      "descriptionAdvanced": "A Punta Culebra Természetközpont egy interaktív szabadtéri múzeum, amelyet az Smithsonian Trópusi Kutatóintézet (STRI) üzemeltet az Amador-félszigeten. A Panamai-csatorna csendes-óceáni bejáratánál található központ Panama tengeri és part menti biodiverzitásának szenteli magát. A látogatók a 'Touch-Pool'-okban (érintőmedencék) testközelből ismerhetik meg a tengeri csillagokat és sünöket, az akváriumokban pedig cápákat és tengeri teknősöket figyelhetnek meg. Egy másik fontos terület a kétéltűmentő program. Ezenkívül a központ tanösvényeket kínál Panama csendes-óceáni partvidékének egyik utolsó száraz erdején keresztül, ahol lajhárok és leguánok élnek szabadon. Biológia K7 — Tengerbiológia és környezeti nevelés.",
+      "factsAdvanced": [
+        "A neves Smithsonian Trópusi Kutatóintézet üzemelteti.",
+        "Az Amador-félszigeten, közvetlenül a csendes-óceáni csatornabejáratnál található.",
+        "Interaktív tengeri medencéket (Touch-Pool) kínál oktatási célokra.",
+        "Tanösvényt tartalmaz egy ritka csendes-óceáni száraz erdőben.",
+        "Tudatosítja a közvéleményt az óceánok és a kétéltűek védelméről."
+      ]
+    }
+  ]
+}

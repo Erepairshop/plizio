@@ -1,0 +1,51 @@
+{
+  "lang": "ro",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gaoua-relief-v2",
+      "descriptionAdvanced": "Dealurile Gaoua reprezintă o zonă deluroasă luxuriantă și verde în extremitatea sudică a statului Burkina Faso, reprezentând relieful cel mai umed și diversificat din punct de vedere topografic al țării. Situată în provincia Poni, zona este caracterizată prin pante abrupte împădurite, văi adânci și numeroase cursuri de apă permanente. Acest relief contrastează puternic cu savanele plate din nord, primind cele mai mari precipitații anuale din națiune. Din punct de vedere istoric, natura accidentată și protejată a dealurilor a permis poporului Lobi să-și păstreze arhitectura unică de case fortificate („soukala”) și obiceiurile tradiționale. Dealurile sunt bogate în minerale, în special aur, extras aici prin metode artizanale de secole. Vegetația tropicală densă și solurile fertile susțin cultivarea tuberculilor, fructelor și chiar a unor cantități mici de cacao și cafea. Relieful Gaoua este „inima verde” a statului Burkina Faso.",
+      "factsAdvanced": [
+        "Cel mai umed și verde relief deluros din Burkina Faso",
+        "Situat în provincia sudică Poni, lângă granița cu Ghana",
+        "Primește cele mai mari precipitații anuale din țară",
+        "Caracterizat prin văi adânci și sisteme fluviale permanente",
+        "Inima ancestrală a poporului Lobi și a arhitecturii lor fortificate",
+        "Bogată geologic în zăcăminte de aur și minerale lateritice",
+        "Susține o floră tropicală diversă, inexistentă în nordul arid",
+        "Regiune cheie pentru producția de ignamă, nuci de caju și fructe"
+      ]
+    },
+    {
+      "id": "diapaga-relief-v2",
+      "descriptionAdvanced": "Podișul Diapaga este un ținut muntos de gresie, spectaculos și îndepărtat, în extremitatea estică a regiunii Est, făcând parte din vechea escarpare Gobnangou. Relieful este faimos pentru stâncile sale masive, verticale, care se ridică brusc deasupra savanei, creând o fortăreață naturală dramatică. Din punct de vedere istoric, aceste stânci au oferit un refugiu sigur pentru Gourmantché și alte grupuri locale care căutau scăpare de războaiele regionale și raidurile de sclavi. Culmea podișului este o suprafață relativ plană, stâncoasă, acoperită cu ierburi rezistente și salcâmi, în timp ce baza stâncilor prezintă soluri fertile și păduri de galerie dense. Acest relief este o componentă critică a complexului de conservare Arly-W-Pendjari, oferind habitate specializate pentru răpitoare, babuini și alte specii care trăiesc pe stânci. Pentru călătorii aventuroși, relieful Diapaga oferă unele dintre cele mai uimitoare și sălbatice priveliști din Africa de Vest.",
+      "factsAdvanced": [
+        "Podiș spectaculos de gresie și escarpare în extremitatea estică",
+        "Prezintă stânci verticale dramatice care se ridică la peste 100 de metri",
+        "Refugiu istoric pentru poporul Gourmantché în provincia Tapoa",
+        "Habitat critic pentru păsările răpitoare vest-africane și fauna de stâncă",
+        "Parte a formațiunii geologice internaționale Gobnangou",
+        "Oferă priveliști panoramice asupra Parcului Național W și graniței cu Benin",
+        "Prezintă forme de eroziune unice, peșteri și cascade sezoniere",
+        "Unul dintre cele mai izolate și neatinse reliefuri naturale din țară"
+      ]
+    },
+    {
+      "id": "leo-relief-v2",
+      "descriptionAdvanced": "Câmpiile Léo sunt o câmpie sedimentară vastă și fertilă în sudul statului Burkina Faso, întinzându-se de-a lungul graniței cu Ghana. Acest relief se caracterizează prin terenul său blând, vălurit, și solurile aluvionare bogate, alimentate de sistemele fluviale Sissili și Nazinon. Din punct de vedere istoric, relieful Léo a fost cea mai productivă zonă agricolă din sud, câștigând porecla de „livada statului Burkina Faso” datorită randamentelor ridicate de cereale, tuberculi și fructe tropicale. Zona beneficiază de un climat sudanez relativ umed și de o rețea densă de zone umede sezoniere care susțin agricultura pe tot parcursul anului. Relieful este, de asemenea, un coridor strategic pentru comerțul transfrontalier, terenul plat facilitând conexiuni rutiere ușoare către porturile Golfului Guineei. Câmpiile Léo sunt un simbol al prosperității sudice, unde fertilitatea naturală susține o populație dinamică.",
+      "factsAdvanced": [
+        "Câmpie sedimentară vastă și fertilă în provincia sudică Sissili",
+        "Cunoscută drept „livada țării” pentru producția agricolă ridicată",
+        "Caracterizată prin teren vălurit blând și soluri aluvionare bogate",
+        "Poartă strategică pentru comerțul și tranzitul cu nordul Ghanei",
+        "Centru principal de producție pentru tuberculi, porumb și nuci de caju",
+        "Beneficiază de precipitații ridicate și o rețea de zone umede sezoniere",
+        "Teritoriu ancestral al poporului Gurunsi și al culturii lor unice",
+        "Legătură vitală în coridorul național de transport sudic"
+      ]
+    }
+  ]
+}

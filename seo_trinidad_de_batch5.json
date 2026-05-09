@@ -1,0 +1,323 @@
+{
+  "lang": "de",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-plymouth-cities-v2",
+      "descriptionAdvanced": "Plymouth ist eine historisch bedeutsame Stadt an der Nordwestküste von Tobago und war einst die erste Hauptstadt der Insel unter britischer Herrschaft. Die Stadt ist berühmt für das geheimnisvolle 'Mystery Tombstone', ein Grabmal aus dem Jahr 1783 mit einer rätselhaften Inschrift, das Besucher aus aller Welt anlockt. Plymouth bietet einen weiten Blick über die Courland Bay und beherbergt die Ruinen von Fort James, einer der ältesten Festungen Tobagos. Die Stadt hat eine ruhige, ehrwürdige Atmosphäre und bewahrt viele Spuren ihrer kolonialen Vergangenheit. Die Strände in der Umgebung sind bekannt für ihre natürliche Schönheit und Ruhe. Für Schüler (Geschichte K7) ist Plymouth ein idealer Ort, um die frühe britische Siedlungsgeschichte und die Legenden der Insel zu erkunden.",
+      "factsAdvanced": [
+        "Erste britische Hauptstadt von Tobago.",
+        "Heimat des weltberühmten 'Mystery Tombstone'.",
+        "Standort der historischen Ruinen von Fort James.",
+        "Malerische Lage an der Küste der Courland Bay.",
+        "Zentrum für lokale Geschichte und Legendenbildung.",
+        "Geprägt durch koloniale Architektur und Denkmäler.",
+        "Wichtiger Ort für den frühen Überseehandel.",
+        "Thema: Koloniale Hauptstädte und Inselgeschichte (K7)."
+      ]
+    },
+    {
+      "id": "tt-pembroke-cities-v2",
+      "descriptionAdvanced": "Pembroke ist ein lebendiges Dorf an der Windward-Küste von Tobago, das vor allem für seine tiefen kulturellen Wurzeln und das jährliche 'Heritage Festival' bekannt ist. Das Dorf gilt als das kulturelle Herz von Tobago, wo traditionelle afrikanische Bräuche, Tänze und mündliche Überlieferungen besonders intensiv gepflegt werden. Bekannt ist Pembroke auch für den 'Salaka Feast', eine rituelle Feier zu Ehren der Vorfahren. Geographisch liegt das Dorf an einer malerischen Küstenstrecke mit Blick auf den Atlantik. Die Bewohner sind stolz auf ihre Autarkie und ihre landwirtschaftlichen Traditionen. Im Unterricht (Kulturgeschichte K7) dient Pembroke als Musterbeispiel für die Bewahrung des afrikanischen Erbes in der Karibik und die Bedeutung von Folklore für die Identität.",
+      "factsAdvanced": [
+        "Kulturelles Zentrum Tobagos mit starken afrikanischen Wurzeln.",
+        "Hauptaustragungsort des Tobago Heritage Festival.",
+        "Berühmt für traditionelle Tänze und das Salaka-Fest.",
+        "Gelegen an der malerischen Windward Road.",
+        "Zentrum für die Bewahrung mündlicher Überlieferungen.",
+        "Starke Gemeinschaft mit Fokus auf kulturelle Identität.",
+        "Bekannt für lokale kulinarische Spezialitäten.",
+        "Thema: Afro-karibisches Erbe und Folklore (K7)."
+      ]
+    },
+    {
+      "id": "tt-morne-quinton-cities-v2",
+      "descriptionAdvanced": "Morne Quinton ist eine Siedlung auf einer Anhöhe in Tobago, die für ihre spektakulären Aussichten und ihre ruhige Wohnlage bekannt ist. Der Name 'Morne' verweist auf den französischen Ursprung und bedeutet Hügel oder Berg. Von hier aus hat man einen weiten Blick über die umliegenden Täler und die Küstenlinie, was Morne Quinton zu einem beliebten Ort für Fotografen und Naturliebhaber macht. Die Region ist geprägt von üppiger tropischer Vegetation und bietet ein kühleres Klima als die Küstenebenen. Historisch war die Region Teil der weitläufigen Plantagenlandschaft Tobagos. Heute ist es eine friedliche Gemeinde, die durch ihre Nähe zur Natur besticht. Im Geographieunterricht (K6) wird Morne Quinton als Beispiel für eine Höhensiedlung und die topographischen Unterschiede auf einer Vulkaninsel behandelt.",
+      "factsAdvanced": [
+        "Höhensiedlung mit Panoramablick über Tobago.",
+        "Name französischen Ursprungs (Morne = Hügel).",
+        "Geprägt durch ein angenehmes, kühleres Mikroklima.",
+        "Umgeben von dichter, tropischer Sekundärvegetation.",
+        "Historisch verbunden mit der Plantagenwirtschaft.",
+        "Beliebter Wohnort für Ruhesuchende und Pendler.",
+        "Idealer Ausgangspunkt für Wanderungen im Binnenland.",
+        "Thema: Topographie und Siedlungsformen (K6)."
+      ]
+    },
+    {
+      "id": "tt-goldsborough-cities-v2",
+      "descriptionAdvanced": "Goldsborough ist eine malerische Region an der Südküste von Tobago, die für ihre ausgedehnten ehemaligen Plantagenflächen und die Mündung des Goldsborough River bekannt ist. Die Gegend bietet eine reiche Vielfalt an Ökosystemen, von Mangrovensümpfen an der Küste bis hin zu fruchtbarem Ackerland im Binnenland. Goldsborough ist ein Zentrum für landwirtschaftliche Forschung und Entwicklung auf der Insel. Die Bucht von Goldsborough ist ruhig und bietet einen friedlichen Rückzugsort fernab der touristischen Massen. Historisch war Goldsborough eine der produktivsten Zucker- und Kakaoplantagen Tobagos. Heute ist es ein wichtiger Ort für den Naturschutz und die nachhaltige Landwirtschaft. Im Unterricht (Geographie K7) wird Goldsborough zur Untersuchung von Flusssystemen, Küstenschutz und der Transformation historischer Agrarflächen genutzt.",
+      "factsAdvanced": [
+        "Lage an der Mündung des wasserreichen Goldsborough River.",
+        "Ehemalige Großplantage für Zucker und Kakao.",
+        "Zentrum für moderne landwirtschaftliche Projekte.",
+        "Vielfältige Flora und Fauna in den Küstenfeuchtgebieten.",
+        "Ruhige Bucht mit natürlicher Schönheit.",
+        "Wichtiger Korridor für die Tierwelt des Binnenlandes.",
+        "Beispiel für den Wandel der Plantagenwirtschaft.",
+        "Lehrplanfokus: Flussmündungen und Landwirtschaft (K7)."
+      ]
+    },
+    {
+      "id": "tt-belle-garden-cities-v2",
+      "descriptionAdvanced": "Belle Garden ist eine charmante und geschichtsträchtige Gemeinde an der Windward-Küste von Tobago. Der Name spiegelt die natürliche Schönheit der Region wider, die durch sanfte Hügel, üppige Gärten und den Blick auf den Atlantik geprägt ist. Belle Garden ist bekannt für seine starke landwirtschaftliche Tradition und seine Rolle in der lokalen Geschichte Tobagos. Die Region beherbergt historische Stätten wie die Ruinen des Richmond Great House. Das Dorf hat eine enge Gemeinschaft, die ihre kulturellen Traditionen pflegt. Belle Garden dient als wichtiger Versorgungspunkt an der Küstenstraße. Für Schüler (Geographie/Geschichte K7) bietet Belle Garden einen Einblick in das ländliche Leben auf Tobago und die Bedeutung der historischen Plantagenarchitektur für das kulturelle Erbe der Insel.",
+      "factsAdvanced": [
+        "Malerisches Dorf an der Ostküste von Tobago.",
+        "Standort historischer Plantagenruinen (Richmond Estate).",
+        "Geprägt durch fruchtbare Böden und vielfältige Gärten.",
+        "Wichtiger Ort für die lokale Agrarproduktion.",
+        "Bietet weite Ausblicke auf den Atlantischen Ozean.",
+        "Zentrum der ländlichen Gemeinschaft im Osten.",
+        "Bewahrt traditionelle Bräuche und Handwerkskunst.",
+        "Thema: Ländlicher Raum und historisches Erbe (K7)."
+      ]
+    },
+    {
+      "id": "tt-goodwood-cities-v2",
+      "descriptionAdvanced": "Goodwood ist ein friedliches Dorf auf Tobago, das auf einem Bergrücken mit weitem Blick über den Atlantik liegt. Die Siedlung ist für ihre markante Lage und ihre gepflegten Wohnhäuser bekannt. Goodwood hat sich von einer Plantagensiedlung zu einer modernen Wohngemeinde entwickelt, die dennoch ihre ländliche Identität bewahrt hat. Das Dorf dient als wichtiger Haltepunkt an der Windward Road und ist bekannt für seine Gastfreundschaft. In der Umgebung finden sich fruchtbare Täler, die für den Anbau von Wurzelgemüse und Obst genutzt werden. Die Höhe bietet eine angenehme Brise und ein milderes Klima. Im Geographieunterricht (K6) dient Goodwood als Beispiel für eine Kammsiedlung (Ridge Settlement) und die Anpassung der Architektur an die topographischen Gegebenheiten einer Insel.",
+      "factsAdvanced": [
+        "Markante Lage auf einem Bergrücken über dem Meer.",
+        "Bietet spektakuläre Aussichten auf die Atlantikküste.",
+        "Historisch hervorgegangen aus der Plantagenwirtschaft.",
+        "Moderne Wohngemeinde mit ländlichem Charme.",
+        "Wichtiger Versorgungsort an der Hauptküstenstraße.",
+        "Angenehmes Klima durch erhöhte Lage und Seewinde.",
+        "Zentrum kleinteiliger landwirtschaftlicher Nutzung.",
+        "Thema: Siedlungsgeographie und Mikroklima (K6)."
+      ]
+    },
+    {
+      "id": "tt-mason-hall-cities-v2",
+      "descriptionAdvanced": "Mason Hall ist eine bedeutende Binnengemeinde auf Tobago, gelegen im hügeligen Zentrum der Insel. Die Stadt ist bekannt für ihre starke landwirtschaftliche Basis und ihre Rolle als Bildungs- und Handelszentrum für die umliegenden ländlichen Regionen. Mason Hall liegt in einem fruchtbaren Tal, das von zahlreichen Flüssen bewässert wird, was es zu einem der produktivsten Agrargebiete Tobagos macht. Historisch war die Stadt ein wichtiger Knotenpunkt für den Transport von Erzeugnissen zur Küste. Mason Hall hat eine lebhafte Gemeinschaft mit zahlreichen Sportvereinen und kulturellen Gruppen. Im Unterricht (Geographie K7) wird Mason Hall als Beispiel für ein Binnenzentrum und die Bedeutung der Binnenlandwirtschaft für die Versorgung der Inselbevölkerung behandelt.",
+      "factsAdvanced": [
+        "Wichtiges landwirtschaftliches Zentrum im Binnenland.",
+        "Gelegen in einem fruchtbaren, flussreichen Tal.",
+        "Knotenpunkt für den regionalen Handel und Bildung.",
+        "Geprägt durch eine starke, autarke Dorfgemeinschaft.",
+        "Historisch bedeutend für den Kakao- und Gemüseanbau.",
+        "Zentrum für lokale Handwerkskunst und Traditionen.",
+        "Wichtiger Standort für die ländliche Infrastruktur.",
+        "Lehrplanfokus: Agrarwirtschaft im Binnenland (K7)."
+      ]
+    },
+    {
+      "id": "tt-castara-cities-v2",
+      "descriptionAdvanced": "Castara ist ein idyllisches Fischerdorf an der Nordküste von Tobago, das für seinen sanften Ökotourismus und seine authentische Atmosphäre bekannt ist. Das Dorf liegt in einer geschützten Bucht mit goldenem Sandstrand und kristallklarem Wasser, ideal zum Schwimmen und Schnorcheln. Castara ist berühmt für seine Tradition des gemeinschaftlichen Fischens mit dem Zugnetz (Seine Fishing), an dem oft auch Besucher teilnehmen können. Die Gemeinschaft ist sehr engagiert im Umweltschutz und in der Erhaltung ihres kulturellen Erbes. Hinter dem Dorf ragen bewaldete Hügel auf, die zahlreiche Wasserfälle beherbergen. Im Geographieunterricht (K6) dient Castara als Musterbeispiel für eine nachhaltige Tourismusentwicklung, die die lokalen Traditionen und die natürliche Umwelt respektiert.",
+      "factsAdvanced": [
+        "Zentrum des sanften Ökotourismus auf Tobago.",
+        "Bekannt für die Tradition des gemeinschaftlichen Netzfischens.",
+        "Malerische Bucht mit hervorragender Wasserqualität.",
+        "Starkes Engagement der Dorfgemeinschaft im Naturschutz.",
+        "Umgeben von Regenwald und kaskadierenden Wasserfällen.",
+        "Beliebtes Ziel für Individualreisende und Naturliebhaber.",
+        "Bewahrt einen ursprünglichen, entspannten Lebensstil.",
+        "Thema: Nachhaltiger Tourismus und Küstenschutz (K6)."
+      ]
+    },
+    {
+      "id": "tt-englishmans-bay-cities-v2",
+      "descriptionAdvanced": "Englishman’s Bay ist oft als einer der schönsten und unberührtesten Strände der Karibik bezeichnet worden. Gelegen zwischen Castara und Parlatuvier an der Nordküste Tobagos, bietet diese tief eingeschnittene Bucht ein klassisches Postkartenpanorama mit dichtem Regenwald, der bis an den goldgelben Sand heranreicht. Die Bucht ist ein geschütztes Gebiet und beherbergt ein reiches Korallenriff direkt vor der Küste, was sie zu einem Paradies für Schnorchler macht. Es gibt nur minimale Infrastruktur, was den wilden und natürlichen Charakter des Ortes unterstreicht. Historisch wird die Bucht mit frühen europäischen Seefahrern in Verbindung gebracht. Im Unterricht (Geographie K6) wird Englishman’s Bay als Beispiel für eine unberührte Küstenlandschaft und die Bedeutung des Schutzes ökologischer Juwelen behandelt.",
+      "factsAdvanced": [
+        "Gilt als einer der schönsten Strände weltweit.",
+        "Einzigartige Symbiose aus Regenwald und Korallenriff.",
+        "Minimale touristische Erschließung bewahrt Naturbelassenheit.",
+        "Exzellente Bedingungen zum Schnorcheln und Tauchen.",
+        "Wichtiger Rückzugsort für bedrohte Tierarten.",
+        "Eingebettet in eine tief eingeschnittene, geschützte Bucht.",
+        "Symbol für das ökologische Erbe Tobagos.",
+        "Lehrplanrelevanz: Naturschutz und Küstenmorphologie (K6)."
+      ]
+    },
+    {
+      "id": "tt-richmond-cities-v2",
+      "descriptionAdvanced": "Richmond ist eine historisch bedeutende Region auf Tobago, die vor allem für das Richmond Great House bekannt ist, eines der am besten erhaltenen Herrenhäuser der Insel. Gelegen auf einer Anhöhe mit Blick auf den Atlantik, zeugt Richmond von der prachtvollen, aber auch schmerzvollen Ära der Plantagenwirtschaft. Das Anwesen wurde im 18. Jahrhundert errichtet und dient heute oft als Museum und Gästehaus, das Einblicke in die koloniale Lebensweise bietet. Die umliegende Landschaft ist geprägt von ehemaligem Zuckerrohr- und Kakaoland, das heute teilweise bewaldet oder landwirtschaftlich genutzt wird. Richmond ist ein zentraler Punkt für das Verständnis der sozioökonomischen Geschichte Tobagos. Im Unterricht (Geschichte K8) wird Richmond zur Veranschaulichung der Plantagenarchitektur und der sozialen Hierarchien der Kolonialzeit genutzt.",
+      "factsAdvanced": [
+        "Standort des historischen Richmond Great House.",
+        "Wichtiges Denkmal der kolonialen Plantagenarchitektur.",
+        "Bietet weite Ausblicke über die Atlantikküste Tobagos.",
+        "Zentrum für historische Bildung und Tourismus.",
+        "Bewahrt wertvolle Artefakte aus der Zeit der Sklaverei.",
+        "Umgeben von fruchtbarem Land mit reicher Agrargeschichte.",
+        "Symbol für die Transformation der Inselökonomie.",
+        "Thema: Plantagenwirtschaft und Sozialgeschichte (K8)."
+      ]
+    },
+    {
+      "id": "tt-glamis-cities-v2",
+      "descriptionAdvanced": "Glamis ist eine kleine, ruhige Siedlung in Tobago, die sich durch ihre ländliche Atmosphäre und ihre Nähe zum Northern Range auszeichnet. Die Region ist geprägt von kleinteiliger Landwirtschaft und bietet ein friedliches Umfeld abseits der touristischen Hauptrouten. Glamis ist bekannt für seine fruchtbaren Böden und die üppige Gartenlandschaft, in der traditionell Obst und Gemüse für den lokalen Markt angebaut werden. Die Gemeinschaft ist eng verbunden und pflegt einen Lebensstil, der stark im Einklang mit den Jahreszeiten und der Natur steht. Geographisch bietet Glamis Einblicke in die Übergangszonen zwischen den flacheren Ebenen und dem hügeligen Binnenland. Im Geographieunterricht (K5) dient Glamis als Beispiel für eine dörfliche Gemeinschaft und die Bedeutung der Subsistenzwirtschaft für die lokale Versorgung.",
+      "factsAdvanced": [
+        "Ruhige ländliche Siedlung im Binnenland von Tobago.",
+        "Zentrum für den lokalen Obst- und Gemüseanbau.",
+        "Geprägt durch eine üppige, tropische Gartenlandschaft.",
+        "Starke Verbundenheit der Bewohner mit der Landwirtschaft.",
+        "Beispiel für traditionelle Lebensweisen auf der Insel.",
+        "Wichtiger Korridor für die heimische Flora.",
+        "Friedliche Atmosphäre fernab der Stadtzentren.",
+        "Thema: Ländliches Leben und Agrarkultur (K5)."
+      ]
+    },
+    {
+      "id": "tt-cumaca-cities-v2",
+      "descriptionAdvanced": "Cumaca ist ein abgelegenes und faszinierendes Dorf im Northern Range von Trinidad, bekannt für seine spektakulären Höhlensysteme und seine reiche Biodiversität. Die Cumaca-Höhlen beherbergen eine der weltweit größten Kolonien von Fettschwalben (Guacharos), nachtaktiven Vögeln, die sich von Früchten ernähren. Das Dorf liegt tief im Regenwald und ist nur über eine abenteuerliche Straße erreichbar. Cumaca ist ein Paradies für Höhlenforscher, Biologen und Extrem-Wanderer. Die Region ist auch für ihre kristallklaren Flüsse und Kalksteinformationen bekannt. Die Bewohner leben in enger Gemeinschaft mit der Natur. Im Unterricht (Biologie/Geographie K6-K8) wird Cumaca als Beispiel für Karstlandschaften, Höhlen-Ökosysteme und die spezifischen Anpassungen der Fettschwalben an ihre Umwelt behandelt.",
+      "factsAdvanced": [
+        "Standort der berühmten Cumaca-Fettschwalbenhöhlen.",
+        "Wichtiges Zentrum für Höhlenforschung und Biologie.",
+        "Gelegen im dichten Regenwald des Northern Range.",
+        "Heimat seltener und geschützter Tierarten.",
+        "Einzigartige Karstlandschaft mit Kalksteinformationen.",
+        "Abgelegene Lage bietet Schutz für unberührte Natur.",
+        "Bedeutender Ort für den wissenschaftlichen Ökotourismus.",
+        "Thema: Höhlenökologie und Biodiversität (K6-K8)."
+      ]
+    },
+    {
+      "id": "tt-brasso-cities-v2",
+      "descriptionAdvanced": "Brasso ist eine geschichtsträchtige Stadt in Zentral-Trinidad, gelegen in den fruchtbaren Tälern der Central Range. Die Stadt erlangte während des Kakaobooms im 19. und frühen 20. Jahrhundert große Bedeutung als Verladestation für die Eisenbahn. Noch heute zeugen einige historische Gebäude von der einstigen wirtschaftlichen Blütezeit. Brasso ist umgeben von Hügeln, die ideal für den Anbau von Kakao, Kaffee und Zitrusfrüchten sind. Die Region ist bekannt für ihre ruhige, ländliche Atmosphäre und ihre landschaftliche Schönheit. Brasso dient als wichtiger Verbindungspunkt zwischen dem Zentrum und der Ostküste. Im Geographieunterricht (K7) wird Brasso als Beispiel für den Strukturwandel im ländlichen Raum und die historische Bedeutung der Eisenbahn für die Agrarwirtschaft behandelt.",
+      "factsAdvanced": [
+        "Historischer Knotenpunkt der Kakaowirtschaft in Zentral-Trinidad.",
+        "Einst wichtiger Bahnhof an der zentralen Eisenbahnlinie.",
+        "Geprägt durch den Anbau von Kakao, Kaffee und Zitrusfrüchten.",
+        "Malerische Lage in den Tälern der Central Range.",
+        "Zentrum einer traditionellen bäuerlichen Gemeinschaft.",
+        "Bewahrt Spuren der kolonialen Agrararchitektur.",
+        "Wichtiger Verbindungspunkt im Binnenland der Insel.",
+        "Thema: Agrargeschichte und Transportwege (K7)."
+      ]
+    },
+    {
+      "id": "tt-piparo-cities-v2",
+      "descriptionAdvanced": "Piparo ist ein Dorf in Zentral-Trinidad, das weltweit durch einen gewaltigen Ausbruch seines Schlammvulkans im Jahr 1997 bekannt wurde. Dieses geologische Ereignis zerstörte Teile des Dorfes und veränderte die Landschaft dauerhaft. Heute ist Piparo ein wichtiges Ziel für Geologen und Touristen, die die Aktivität des Schlammvulkans beobachten möchten. Das Dorf liegt in einer malerischen Hügellandschaft und hat sich trotz der Katastrophe wieder erholt. Die Bewohner pflegen eine enge Gemeinschaft und sind stolz auf ihre Resilienz. Piparo bietet zudem fantastische Aussichten über die Central Range. Für Schüler (Erdkunde/Geologie K7-K8) ist Piparo das zentrale Beispiel für Plattentektonik, Schlammvulkanismus und den Umgang mit natürlichen Risiken in Trinidad.",
+      "factsAdvanced": [
+        "Standort des aktivsten Schlammvulkans in Trinidad.",
+        "Berühmt durch den großen Ausbruch im Februar 1997.",
+        "Wichtiges Forschungsgebiet für internationale Geologen.",
+        "Bietet Einblicke in unterirdische Gas- und Schlammbewegungen.",
+        "Geprägt durch eine hügelige, landschaftlich reizvolle Umgebung.",
+        "Symbol für die geologische Dynamik der Insel.",
+        "Zentrum für naturkundliche Bildung und Tourismus.",
+        "Lehrplanrelevanz: Geologie und Naturkatastrophen (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-preysal-cities-v2",
+      "descriptionAdvanced": "Preysal ist eine dynamische Stadt in Zentral-Trinidad, die vor allem als Wiege zahlreicher nationaler Cricket-Legenden bekannt ist. Strategisch günstig am Sir Solomon Hochoy Highway gelegen, hat sich Preysal von einer Zuckerrohrsiedlung zu einem modernen Wohn- und Handelsstandort entwickelt. Die Stadt beherbergt erstklassige Sportstätten und ist ein Zentrum für die Förderung junger Talente. Aufgrund der zentralen Lage ist Preysal ein beliebter Wohnort für Pendler. Die Gemeinschaft zeichnet sich durch einen starken Zusammenhalt und einen ausgeprägten Sportsgeist aus. In der Umgebung finden sich sowohl Industrieanlagen als auch landwirtschaftliche Flächen. Im Unterricht (Geographie/Sozialkunde K7) dient Preysal als Beispiel für Suburbanisierung und die Rolle des Sports für die soziale Identität einer Gemeinde.",
+      "factsAdvanced": [
+        "Bekannt als Kaderschmiede für Weltklasse-Cricketspieler.",
+        "Strategisch wichtige Lage am zentralen Nord-Süd-Highway.",
+        "Rasante Entwicklung von der Plantage zum modernen Wohnort.",
+        "Zentrum sportlicher Exzellenz in Zentral-Trinidad.",
+        "Beliebter Wohnstandort für Pendler nach Point Lisas.",
+        "Starke soziale Identität durch gemeinsame Sporttradition.",
+        "Wichtiger Knotenpunkt für regionale Dienstleistungen.",
+        "Thema: Sportgeographie und Stadtentwicklung (K7)."
+      ]
+    },
+    {
+      "id": "tt-tortuga-cities-v2",
+      "descriptionAdvanced": "Tortuga ist ein malerisches Dorf in den Hügeln der Central Range von Trinidad, bekannt für seine atemberaubenden Aussichten und seine historische Kirche, 'Our Lady of Montserrat'. Die Region hat eine starke spanische und französische Prägung, was sich in der lokalen Kultur und dem Weinanbau widerspiegelt; Tortuga ist einer der wenigen Orte in Trinidad, an dem traditionell Kakao-Wein hergestellt wird. Die hügelige Landschaft ist von alten Kakaoplantagen und dichten Wäldern geprägt. Tortuga bietet ein kühleres Klima und eine friedliche Abgeschiedenheit. Die Kirche ist berühmt für ihre kunstvollen Glasfenster und Holz schnitzereien. Im Unterricht (Geographie/Geschichte K7) dient Tortuga als Beispiel für eine Höhensiedlung mit spezifischer kultureller Identität und als Zentrum des historischen Kakaoanbaus.",
+      "factsAdvanced": [
+        "Heimat der historischen Kirche 'Our Lady of Montserrat'.",
+        "Berühmt für die Herstellung von traditionellem Kakaowein.",
+        "Bietet spektakuläre Panoramablicke über Zentral-Trinidad.",
+        "Kulturelle Einflüsse aus der spanischen und französischen Zeit.",
+        "Zentrum des hochwertigen Kakaoanbaus (Central Range).",
+        "Geprägt durch ein angenehmes, mildes Hügelklima.",
+        "Wichtiger Ort für religiöse Wallfahrten und Tourismus.",
+        "Thema: Kulturlandschaften und Bergdörfer (K7)."
+      ]
+    },
+    {
+      "id": "tt-mamoral-cities-v2",
+      "descriptionAdvanced": "Mamoral ist eine idyllische ländliche Gemeinde in Zentral-Trinidad, die tief in die Täler der Central Range eingebettet ist. Die Stadt ist bekannt für ihre unberührte Natur, ihre ruhigen Flüsse und ihre traditionelle Landwirtschaft. Abseits der großen Verkehrsströme gelegen, hat Mamoral einen Lebensstil bewahrt, der eng mit dem Boden und den Wäldern verbunden ist. Die Region ist reich an Kakaoplantagen und Obstbäumen. Mamoral bietet eine hohe Lebensqualität für Menschen, die Ruhe und eine gesunde Umwelt suchen. Die Gemeinschaft ist klein, aber sehr eng verbunden. Im Geographieunterricht (K6) dient Mamoral als Beispiel für eine isolierte Talsiedlung und die Bedeutung ökologischer Korridore im Binnenland der Insel.",
+      "factsAdvanced": [
+        "Abgelegene Talsiedlung in der Central Range.",
+        "Zentrum für traditionellen Kakao- und Obstanbau.",
+        "Geprägt durch malerische Flussläufe und dichte Wälder.",
+        "Oase der Ruhe mit hoher biologischer Vielfalt.",
+        "Starker Gemeinschaftssinn in einer ländlichen Struktur.",
+        "Wichtiger Rückzugsort für die heimische Tierwelt.",
+        "Beispiel für nachhaltige ländliche Lebensweise.",
+        "Thema: Ökologische Nischen und Talsiedlungen (K6)."
+      ]
+    },
+    {
+      "id": "tt-flanagin-town-cities-v2",
+      "descriptionAdvanced": "Flanagin Town ist eine geschichtsträchtige Stadt im Herzen der Central Range von Trinidad, deren Entwicklung eng mit der Eisenbahn und der Kakaoindustrie verbunden war. Als ehemaliger Haltepunkt der Eisenbahnlinie diente die Stadt als wichtiger Umschlagplatz für die Ernten der umliegenden Plantagen. Heute ist Flanagin Town eine ruhige Gemeinde, die für ihre landschaftliche Schönheit und ihre fruchtbaren Hügel bekannt ist. Die Region bietet ideale Bedingungen für den Anbau von Zitrusfrüchten und Kakao. Historische Gebäude erinnern an die Zeit des wirtschaftlichen Aufschwungs um die Jahrhundertwende. Im Unterricht (Geschichte/Geographie K7) wird Flanagin Town als Beispiel für eine ehemalige Eisenbahnstadt und deren Anpassung an die Zeit nach dem Schienenverkehr behandelt.",
+      "factsAdvanced": [
+        "Historische Eisenbahnstadt in Zentral-Trinidad.",
+        "Einst bedeutender Umschlagplatz für Kakao und Holz.",
+        "Gelegen in der landschaftlich reizvollen Central Range.",
+        "Zentrum für den regionalen Zitrusfruchtanbau.",
+        "Bewahrt architektonische Relikte aus der Kolonialzeit.",
+        "Wichtiger Verbindungspunkt für ländliche Gemeinden.",
+        "Geprägt durch ein friedliches, bäuerliches Umfeld.",
+        "Thema: Transportgeschichte und Agrarwandel (K7)."
+      ]
+    },
+    {
+      "id": "tt-ecclesville-cities-v2",
+      "descriptionAdvanced": "Ecclesville ist eine ländliche Gemeinde im Südosten von Trinidad, die für ihre ausgedehnten landwirtschaftlichen Flächen und ihre Forstwirtschaft bekannt ist. Die Stadt liegt in einer Region, die durch dichte Sekundärwälder und fruchtbare Böden geprägt ist, was sie zu einem wichtigen Produzenten von Wurzelgemüse und Kakao macht. Ecclesville hat eine ruhige Atmosphäre und ist stark im ländlichen Leben verwurzelt. Die Gemeinschaft lebt traditionell in Harmonie mit den natürlichen Ressourcen der Umgebung. Die Stadt dient als Versorgungszentrum für die verstreuten Farmen der Region. Im Geographieunterricht (K6) wird Ecclesville als Beispiel für die Nutzung forstwirtschaftlicher Ressourcen und die Struktur ländlicher Binnensiedlungen im Südosten Trinidads behandelt.",
+      "factsAdvanced": [
+        "Zentraler Agrar- und Forststandort im Südosten.",
+        "Bekannt für den Anbau von Wurzelgemüse und Kakao.",
+        "Geprägt durch dichte Waldgebiete und fruchtbares Land.",
+        "Ruhige, traditionell orientierte Dorfgemeinschaft.",
+        "Wichtiger Standort für lokale Sägewerke und Holzhandel.",
+        "Versorgungsknotenpunkt für abgelegene Farmgebiete.",
+        "Beispiel für die Verbindung von Wald- und Landwirtschaft.",
+        "Thema: Forstwirtschaft und ländliche Versorgung (K6)."
+      ]
+    },
+    {
+      "id": "tt-brothers-road-cities-v2",
+      "descriptionAdvanced": "Brothers Road ist eine markante Siedlung in Zentral-Trinidad, die an einer strategischen Verbindung zwischen Rio Claro und den zentralen Städten liegt. Der ungewöhnliche Name verweist auf die Geschichte der Besiedlung und die familiären Bande der frühen Pioniere in dieser Region. Die Stadt ist ein geschäftiges Handelszentrum für die umliegenden Kakaoplantagen und Kleinbauern. Brothers Road zeichnet sich durch seine lebhaften Märkte und seine Funktion als wichtiger Verkehrsknotenpunkt im Binnenland aus. Die Region ist von sanften Hügeln und üppiger Vegetation geprägt. Im Unterricht (Geographie K7) dient Brothers Road als Beispiel für eine Straßensiedlung (Linear Settlement) und die Bedeutung von Verkehrsachsen für die Entwicklung des ländlichen Handels.",
+      "factsAdvanced": [
+        "Wichtige Straßensiedlung im Herzen von Trinidad.",
+        "Handelsknotenpunkt für lokale Agrarprodukte.",
+        "Zentrum einer dynamischen bäuerlichen Gemeinschaft.",
+        "Strategische Lage an der Route nach Rio Claro.",
+        "Geprägt durch lebhafte Märkte und Dienstleister.",
+        "Namensgebung verweist auf die Siedlungsgeschichte.",
+        "Tor zu den landwirtschaftlichen Gebieten der Central Range.",
+        "Thema: Verkehrswege und Siedlungsformen (K7)."
+      ]
+    },
+    {
+      "id": "tt-hardbargain-cities-v2",
+      "descriptionAdvanced": "Hardbargain ist ein geschichtsträchtiges Dorf im Süden von Trinidad, dessen Name auf die schwierigen Verhandlungen über Landpreise oder Arbeitsbedingungen während der Kolonialzeit zurückgehen soll. Die Stadt liegt in einem ehemaligen Zentrum der Zuckerindustrie und ist heute geprägt von einer Mischung aus Landwirtschaft und Wohngebieten. Hardbargain hat eine starke Gemeinschaftsidentität und bewahrt viele Traditionen des ländlichen Südens. In der Umgebung finden sich Überreste alter Plantagenanlagen und weite Felder, die heute teilweise für den Gemüseanbau genutzt werden. Die Stadt dient als wichtiger sozialer Ankerpunkt für die Bewohner der umliegenden Region. Im Unterricht (Geschichte/Sozialkunde K7) wird Hardbargain als Beispiel für die sprachlichen Spuren der Kolonialgeschichte und die soziale Entwicklung im Zuckerrohrgürtel behandelt.",
+      "factsAdvanced": [
+        "Historisches Dorf mit markanter Namensgebung.",
+        "Ehemals Teil des zentralen Zuckerrohrgürtels.",
+        "Zentrum für lokalen Gemüseanbau und Handwerk.",
+        "Starke soziale Bindungen innerhalb der Dorfgemeinschaft.",
+        "Dokumentiert die Geschichte der kolonialen Landvergabe.",
+        "Ruhige Wohnlage mit ländlichem Charakter.",
+        "Wichtiger Bezugspunkt für die Regionalgeschichte des Südens.",
+        "Thema: Namenskunde und Siedlungsgeschichte (K7)."
+      ]
+    },
+    {
+      "id": "tt-point-dor-cities-v2",
+      "descriptionAdvanced": "Point-d'Or ist eine Küsten- und Industriestadt im Südwesten von Trinidad, unmittelbar angrenzend an La Brea. Der Name, französisch für 'Goldener Punkt', verweist möglicherweise auf den Reichtum an Bodenschätzen oder die Farbe der Küste bei Sonnenuntergang. Die Stadt ist eng mit der Erdöl- und Asphaltindustrie verbunden und beherbergt zahlreiche Arbeiterfamilien. Point-d'Or verfügt über einen direkten Zugang zum Meer und ist ein wichtiger Standort für maritime Dienstleistungen und die lokale Fischerei. Die Region hat sich in den letzten Jahren durch industrielle Großprojekte stark gewandelt. Im Unterricht (Geographie K8) dient Point-d'Or als Beispiel für eine Industriegemeinde an der Küste und die Auswirkungen der Rohstoffgewinnung auf die urbane Umwelt und das soziale Gefüge.",
+      "factsAdvanced": [
+        "Industriell geprägte Stadt nahe dem Pitch Lake.",
+        "Zentrum für maritime Dienstleistungen und Fischerei.",
+        "Wichtiger Wohnstandort für Beschäftigte im Energiesektor.",
+        "Strategische Lage an der südwestlichen Industrieküste.",
+        "Name mit französischen kolonialen Wurzeln.",
+        "Eng verbunden mit der Entwicklung von La Brea.",
+        "Knotenpunkt für regionale Infrastrukturprojekte.",
+        "Thema: Industrielle Küstenstädte und Rohstoffe (K8)."
+      ]
+    }
+  ]
+}

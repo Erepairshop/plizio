@@ -1,0 +1,48 @@
+{
+  "lang": "de",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "warsheikh-ancient-port-history-v2",
+      "descriptionAdvanced": "Warsheikh ist eine der historisch frühesten islamischen Küstensiedlungen in Somalia und blickt auf eine lange Tradition als wichtiger maritimer Handelspunkt zurück. Die Stadt war über lange Zeit hinweg eng mit dem Mogadischu-Sultanat verknüpft, was ihren politischen und ökonomischen Einfluss in der Region maßgeblich prägte. Bis heute zeugen alte Moscheen und historische Grabstätten von der kulturellen und religiösen Tiefe, die Warsheikh über Jahrhunderte hinweg zu einem zentralen Ort an der somalischen Küste machte. Die Stätte ist ein wertvoller Zeuge für die maritime Geschichte der islamischen Siedlungen, die das soziale und ökonomische Gefüge der somalischen Küstengesellschaften nachhaltig geformt haben.",
+      "factsAdvanced": [
+        "Eine der frühesten islamischen Siedlungen an der somalischen Küste.",
+        "Historisch eng mit dem Mogadischu-Sultanat verbunden.",
+        "Wichtiger maritimer Handelspunkt über Jahrhunderte.",
+        "Enthält historische Moscheen und Grabstätten.",
+        "Zeugnis für die islamische Geschichte der Küstenregion.",
+        "Bedeutender Ort für das soziale Gefüge der Küstengesellschaft.",
+        "Wichtige Stätte für die maritime somalische Geschichte."
+      ]
+    },
+    {
+      "id": "ras-hafun-lighthouse-history-v2",
+      "descriptionAdvanced": "Der historische Leuchtturm von Ras Hafun ist ein markantes Bauwerk am östlichsten Punkt des afrikanischen Kontinents, das in der italienischen Kolonialzeit errichtet wurde. Während seiner aktiven Zeit diente er als essenzielle Navigationshilfe für Schiffe, die den Indischen Ozean befuhren, und unterstreicht die koloniale Infrastrukturgeschichte am Horn von Afrika. Trotz wiederholter Beschädigungen durch Tsunamis und extreme Witterungseinflüsse stehen die Ruinen des Turms noch heute als mahnendes Zeugnis der vergangenen Ära. Ras Hafun ist somit nicht nur ein geografisch bedeutender Ort, sondern auch ein architektonisches Symbol, das die komplexe Geschichte der kolonialen Seefahrt und die natürliche Kraft des Ozeans miteinander verbindet.",
+      "factsAdvanced": [
+        "Historischer Leuchtturm am östlichsten Punkt Afrikas.",
+        "Erbaut während der italienischen Kolonialzeit.",
+        "Einst essenzielle Navigationshilfe am Indischen Ozean.",
+        "Wiederholte Beschädigungen durch Tsunami-Ereignisse.",
+        "Architektonisches Symbol für die koloniale Seefahrtsgeschichte.",
+        "Geografisch markante Landmarke in der Region Bari.",
+        "Zeugnis für die Herausforderungen der Küsteninfrastruktur."
+      ]
+    },
+    {
+      "id": "qoorgaab-ruins-history-v2",
+      "descriptionAdvanced": "Die Qoorgaab Ruinen in der Region Sanaag sind ein herausragendes Beispiel für die noch wenig erforschte prähistorische Besiedlung des somalischen Hochlandes. Die Überreste massiver, in Trockenmauertechnik errichteter Steinbauten lassen auf eine komplexe urbane oder soziale Organisation schließen, die in diesem rauen Gelände überlebensfähig war. Obwohl die Stätte archäologisch bisher nur oberflächlich untersucht wurde, bietet sie ein enormes Potenzial für das Verständnis früher, dauerhafter Ansiedlungen abseits der Küsten. Qoorgaab bleibt somit ein faszinierendes Rätsel der somalischen Geschichte, das Forscher dazu einlädt, die Entwicklung architektonischer Strukturen in den unwegsamen Gebieten der Region zu entschlüsseln.",
+      "factsAdvanced": [
+        "Wenig erforschte Stätte prähistorischer Steinarchitektur.",
+        "Umfasst massive Mauern in Trockenmauertechnik.",
+        "Zeugnis einer urbanen Organisation im somalischen Hochland.",
+        "Bedeutsame Fundstelle für archäologische Analysen in Sanaag.",
+        "Wichtiger Ort für das Verständnis früher Ansiedlungstechniken.",
+        "Potenziell wertvolle Quelle zur Erforschung des somalischen Hinterlandes.",
+        "Architektonisches Rätsel der vor-islamischen Besiedlung."
+      ]
+    }
+  ]
+}

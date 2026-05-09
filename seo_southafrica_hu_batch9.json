@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-empangeni-cities-v2",
+      "descriptionAdvanced": "Empangeni egy dinamikus, dombos település KwaZulu-Natal északi partvidékén, nem messze Richards Bay kikötővárosától. Hagyományosan a régió mezőgazdasági központja, ahol a cukornád- és fafeldolgozás adja a gazdaság gerincét. Az 1851-ben norvég missziós állomásként alapított település mára fontos kereskedelmi és közigazgatási centrummá nőtte ki magát, szubtrópusi környezetben, amely egész évben kellemes meleget biztosít.",
+      "factsAdvanced": [
+        "A cukornád- és fatermesztés hagyományos központja.",
+        "1851-ben norvég missziós állomásként alapították.",
+        "Subtrópusi éghajlatú, egész évben meleg.",
+        "Richards Bay kikötőjének közelsége meghatározza a fejlődését.",
+        "KwaZulu-Natal északi részének kereskedelmi csomópontja.",
+        "Hilly, zöldellő, gazdag természeti környezet jellemzi."
+      ]
+    },
+    {
+      "id": "southafrica-port-shepstone-cities-v2",
+      "descriptionAdvanced": "Port Shepstone a festői 'Hibiscus Coast' kapuja KwaZulu-Natal déli partvidékén. A város jelentős kereskedelmi központ a tengerparti régióban, emellett híres a tengerpartját díszítő jellegzetes öntöttvas világítótoronyról. A település a Durbanból érkező vasúti közlekedés déli végállomása, és az ide érkező turisták számára a tengerparti nyaralás és a nyugodt pihenés ideális állomása a dél-afrikai óceánparti régióban.",
+      "factsAdvanced": [
+        "A turisták körében népszerű 'Hibiscus Coast' kapuja.",
+        "Jellegzetes, történelmi öntöttvas világítótoronnyal rendelkezik.",
+        "A Durbanból érkező személyvonatok végállomása.",
+        "KwaZulu-Natal déli partvidékének legfontosabb városa.",
+        "A tengerparti turizmus és kereskedelem központja.",
+        "Kiemelkedő óceánparti pihenőhely a régióban."
+      ]
+    },
+    {
+      "id": "southafrica-ulundi-cities-v2",
+      "descriptionAdvanced": "Ulundi a Zulu Királyság egykori fővárosa, amely mélyen gyökerezik a dél-afrikai történelemben és kultúrában. A település az 1879-es zulu háború utolsó nagy csatájának helyszíne volt, és később a KwaZulu bantusztán székhelyeként is szolgált. Ma Ulundi a Zulu történelem és örökség egyik legfontosabb központja, ahová a látogatók a kulturális múlt felfedezése és a zulu tradíciók iránti érdeklődés miatt érkeznek.",
+      "factsAdvanced": [
+        "A zulu királyi történelem egyik fellegvára.",
+        "Az 1879-es angol–zulu háború utolsó nagy csatájának helyszíne.",
+        "Egykor a KwaZulu bantusztán székhelye volt.",
+        "A zulu kultúra és örökség egyik legfontosabb központja.",
+        "KwaZulu-Natal tartomány egyik történelmi szimbóluma.",
+        "Fontos oktatási és kulturális állomás a régióban."
+      ]
+    },
+    {
+      "id": "southafrica-mthatha-cities-v2",
+      "descriptionAdvanced": "Mthatha a Kelet-Fokföld egyik legfontosabb városa, a korábbi Transkei fővárosa. A település mélyen összefonódott Nelson Mandela életével, akinek szülőföldje és történelmi környezete a város környékén található. Mthatha ma a xhosza nép kulturális központja és egy fontos kereskedelmi állomás, amely büszkén őrzi Nelson Mandela emlékét a városban működő, róla elnevezett múzeumon keresztül.",
+      "factsAdvanced": [
+        "A korábbi Transkei bantusztán központja.",
+        "Nelson Mandela emlékéhez és szülőföldjéhez kötődik.",
+        "A város ad otthont a Nelson Mandela Múzeumnak.",
+        "A xhosza nép kulturális és közigazgatási központja.",
+        "Fontos kereskedelmi és közlekedési csomópont a régióban.",
+        "Történelmi jelentősége a felszabadítási küzdelmekben kiemelkedő."
+      ]
+    },
+    {
+      "id": "southafrica-makhanda-cities-v2",
+      "descriptionAdvanced": "Makhanda, a korábbi Grahamstown, az oktatási intézmények és az évente megrendezett nagy művészeti fesztiválok városa Kelet-Fokföld tartományban. A település a Rhodes Egyetemnek köszönhetően Dél-Afrika egyik legfontosabb szellemi központja, amely a fiatalos, kulturális atmoszféra mellett történelmi épületeivel is vonzza az utazókat. A város minden évben otthont ad a Nemzeti Művészeti Fesztiválnak, amely az ország legjelentősebb kulturális eseménye.",
+      "factsAdvanced": [
+        "Dél-Afrika egyik legfontosabb oktatási központja.",
+        "A neves Rhodes Egyetem otthona.",
+        "Házigazdája a Nemzeti Művészeti Fesztiválnak.",
+        "Történelmi építészeti örökséggel rendelkező város.",
+        "Kulturális és szellemi központ a Kelet-Fokföldön.",
+        "Fiatalos, pezsgő légkörű, egyetemi atmoszférájú város."
+      ]
+    }
+  ]
+}

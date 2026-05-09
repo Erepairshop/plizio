@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ceris-brewery-praia-economic-v2",
+      "descriptionAdvanced": "Die CERIS-Brauerei in Praia ist ein Eckpfeiler der kapverdischen Getränkeindustrie und der bedeutendste Produzent von Erfrischungsgetränken und Bier, darunter die beliebte Marke 'Strela', für den gesamten nationalen Markt. Durch moderne Produktionsanlagen und effiziente Logistikprozesse trägt das Unternehmen maßgeblich zur heimischen Wertschöpfung bei. Die Brauerei ist nicht nur ein Symbol für industrielle Leistungsfähigkeit, sondern sichert auch eine zuverlässige Versorgung des täglichen Bedarfs und stärkt die lokale wirtschaftliche Autonomie.",
+      "factsAdvanced": [
+        "Führende Brauerei und Abfüllanlage",
+        "Hersteller der bekannten Biermarke 'Strela'",
+        "Moderne industrielle Fertigungsanlage",
+        "Sichert die Versorgung mit Getränken",
+        "Wichtiger Akteur der nationalen Wirtschaft",
+        "Zentrum für Getränkeproduktion in Praia"
+      ]
+    },
+    {
+      "id": "windfarm-gouveia-economic-v2",
+      "descriptionAdvanced": "Der Windpark Gouveia auf Santiago ist ein zentrales Projekt für die Energiewende des Landes und nutzt die stetigen Passatwinde zur nachhaltigen Stromgewinnung. Durch den Ausbau dieser erneuerbaren Energiequelle wird die Abhängigkeit von teuren und umweltbelastenden Ölimporten kontinuierlich reduziert, was die nationale wirtschaftliche Stabilität langfristig stärkt. Die Anlage gilt als Vorzeigeprojekt für grüne Technologie auf dem Archipel und unterstützt die ehrgeizigen klimapolitischen Ziele der Regierung.",
+      "factsAdvanced": [
+        "Nutzung der konstanten Passatwinde",
+        "Wichtiger Teil der nationalen Energiestrategie",
+        "Reduziert Abhängigkeit von Ölimporten",
+        "Symbol für nachhaltige Energieerzeugung",
+        "Fördert die grüne Energiewende",
+        "Infrastrukturprojekt auf Santiago"
+      ]
+    },
+    {
+      "id": "windfarm-selada-flamengo-economic-v2",
+      "descriptionAdvanced": "Der Windpark Selada do Flamengo auf São Vicente leistet einen unverzichtbaren Beitrag zur Versorgung der Insel mit sauberer und kosteneffizienter Energie. Auf einem windreichen Bergrücken strategisch günstig platziert, ist die Anlage heute eine tragende Säule der lokalen Energieinfrastruktur und versorgt die urbane Region um Mindelo verlässlich. Als eines der ersten Projekte seiner Art auf den Kapverden unterstreicht der Park das Engagement für den Umweltschutz und eine zukunftsorientierte wirtschaftliche Entwicklung der Region.",
+      "factsAdvanced": [
+        "Strategisch positioniert auf windreichem Rücken",
+        "Eine der Pionieranlagen der Kapverden",
+        "Versorgung der urbanen Region um Mindelo",
+        "Essenzieller Beitrag zum Umweltschutz",
+        "Stärkt die lokale Energieautarkie",
+        "Wegweisendes Projekt für erneuerbare Energien"
+      ]
+    },
+    {
+      "id": "frescomar-factory-economic-v2",
+      "descriptionAdvanced": "Die Frescomar-Fabrik in Mindelo ist das bedeutendste Unternehmen für Fischverarbeitung auf den Kapverden und stellt durch ihre industrielle Kapazität eine wichtige Exportstütze dar. Hier wird fangfrischer Fisch aus den reichen Gewässern des Archipels unter modernen Standards verarbeitet und für den Weltmarkt aufbereitet. Die Fabrik ist ein zentraler wirtschaftlicher Motor der Stadt, bietet eine hohe Zahl an Arbeitsplätzen und trägt durch die Veredelung von Meeresfrüchten maßgeblich zum Exportvolumen des Landes bei.",
+      "factsAdvanced": [
+        "Größte Fischverarbeitungsfabrik des Landes",
+        "Spezialisiert auf Thunfisch und Makrele",
+        "Wichtiger Exporteur für den Weltmarkt",
+        "Großer Arbeitgeber in Mindelo",
+        "Verarbeitung frischer lokaler Fangware",
+        "Stärkt die maritime Wertschöpfungskette"
+      ]
+    },
+    {
+      "id": "desalination-plant-palmarejo-economic-v2",
+      "descriptionAdvanced": "Die Entsalzungsanlage Palmarejo ist eine kritische Infrastruktureinrichtung in Praia, die durch moderne Umkehrosmose-Technologie Meerwasser in dringend benötigtes Trinkwasser umwandelt. Angesichts der trockenen klimatischen Bedingungen ist diese Anlage für die Versorgung der wachsenden Hauptstadtbevölkerung und die lokale Industrie schlichtweg unverzichtbar. Das Projekt markiert einen technologischen Meilenstein für die Insel Santiago und sichert die Daseinsvorsorge durch eine verlässliche und nachhaltige Wasseraufbereitungs-Infrastruktur.",
+      "factsAdvanced": [
+        "Kritische Wasserversorgung für die Hauptstadt",
+        "Einsatz moderner Umkehrosmose-Technik",
+        "Sichert Wasserbedarf für Bevölkerung und Industrie",
+        "Technologischer Meilenstein der Wasseraufbereitung",
+        "Unverzichtbar bei arid-klimatischen Bedingungen",
+        "Strategische Infrastruktur auf Santiago"
+      ]
+    }
+  ]
+}

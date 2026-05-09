@@ -1,0 +1,1294 @@
+import type { POI } from "./poi";
+
+export const poiExtraKyrgyzstanCitiesV2: POI[] = [
+  {
+    id: "bishkek-cities-v2",
+    type: "state-capital",
+    parent: "KG-GB",
+    coords: [74.59, 42.87],
+    name: {
+      de: "Bischkek",
+      hu: "Biskek",
+      ro: "Bishkek",
+      en: "Bishkek"
+    },
+    description: {
+      de: "Die Hauptstadt und größte Stadt Kirgisistans, gelegen im weiten Tschüi-Tal am Fuße des Tian-Shan-Gebirges.",
+      hu: "Kirgizisztán fővárosa és legnagyobb városa, amely a tágas Csüi-völgyben fekszik a Tien-san hegység lábánál.",
+      ro: "Capitala și cel mai mare oraș din Kârgâzstan, situat în vasta vale Chuy, la poalele munților Tian Shan.",
+      en: "The capital and largest city of Kyrgyzstan, located in the wide Chuy Valley at the foothills of the Tian Shan mountains."
+    },
+    facts: {
+      de: [
+        "Wurde 1825 als Festung Pischpek gegründet.",
+        "Ist das politische und wirtschaftliche Zentrum des Landes."
+      ],
+      hu: [
+        "1825-ben alapították Pispek erődjeként.",
+        "Az ország politikai és gazdasági központja."
+      ],
+      ro: [
+        "A fost fondată în 1825 ca fortăreața Pishpek.",
+        "Este centrul politic și economic al țării."
+      ],
+      en: [
+        "Founded in 1825 as the fortress of Pishpek.",
+        "It is the political and economic center of the country."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Bischkek ist die Hauptstadt und mit rund einer Million Einwohnern zugleich die größte Stadt Kirgisistans, gelegen auf etwa 800 Metern Höhe im weiten Tschüi-Tal direkt am Fuße der Kirgisischen Kette. Die Stadt wurde 1825 als kokandsche Festung Pischpek angelegt, 1862 von russischen Truppen erobert und unter sowjetischer Herrschaft 1926 in Frunse umbenannt, bevor sie 1991 ihren heutigen Namen erhielt. Das großzügige Schachbrettmuster der breiten Boulevards, üppige Parkanlagen, monumentale Plätze wie der Ala-Too-Platz, klassizistische Theater und sowjetische Mosaikfassaden prägen das Stadtbild. Bischkek ist politisches, wirtschaftliches und kulturelles Zentrum, beherbergt das Parlament, die Kirgisische Nationaluniversität, das Staatliche Historische Museum sowie den größten Basar Zentralasiens, den Osch-Basar. Die Stadt gilt als grünste Hauptstadt der Region, da fast jeder Wohnblock von schattigen Pappel- und Eichenalleen gesäumt ist.",
+      hu: "Biskek Kirgizisztán fővárosa és legnagyobb városa, közel egymillió lakossal, mintegy 800 méteres tengerszint feletti magasságban a tágas Csüi-völgyben, közvetlenül a Kirgiz-hegylánc lábánál. A települést 1825-ben kokandi erődítményként alapították Pispek néven, 1862-ben orosz csapatok foglalták el, a szovjet időszakban 1926-ban Frunzéra keresztelték, majd 1991-ben kapta vissza mai nevét. A nagyvonalú sakktáblás utcahálózat, a széles fasorok, a hatalmas Ala-Too tér, a klasszicista operaház és a szovjet mozaikhomlokzatok együttesen adják különleges hangulatát. Biskek az ország politikai, gazdasági és kulturális központja: itt található a parlament, a Kirgiz Nemzeti Egyetem, az Állami Történeti Múzeum, valamint Közép-Ázsia egyik legnagyobb piaca, az Os-bazár is. A várost gyakran a régió legzöldebb fővárosaként emlegetik a végeláthatatlan nyár- és tölgyfasorok miatt.",
+      ro: "Bishkek este capitala și cel mai mare oraș al Kârgâzstanului, cu aproape un milion de locuitori, situat la circa 800 de metri altitudine, în vasta vale Chuy, chiar la poalele lanțului Kârgâz. Localitatea a fost întemeiată în 1825 ca fortăreața kokandă Pișpek, cucerită în 1862 de trupele țariste și redenumită Frunze în 1926 sub regimul sovietic, înainte de a-și primi numele actual în 1991. Bulevardele largi trasate în șah, parcurile generoase, Piața Ala-Too, Opera și Baletul în stil neoclasic, precum și mozaicurile monumentale de pe blocurile sovietice formează identitatea sa vizuală. Bishkek este centrul politic, economic și cultural al țării, găzduind Parlamentul, Universitatea Națională Kârgâză, Muzeul Național de Istorie și uriașul Bazar Osh, unul dintre cele mai mari din Asia Centrală. Este adesea numită cea mai verde capitală a regiunii datorită aliniamentelor dese de plopi și stejari.",
+      en: "Bishkek is the capital and largest city of Kyrgyzstan, home to nearly one million residents and set at roughly 800 metres above sea level in the broad Chuy Valley, right at the foot of the Kyrgyz Range. The settlement was founded in 1825 as the Kokandi fortress of Pishpek, captured by Russian troops in 1862 and renamed Frunze in 1926 under Soviet rule, before reverting to its present name in 1991. Its character is shaped by a generous grid of wide tree-lined boulevards, sprawling parks, the monumental Ala-Too Square, neoclassical opera and theatre buildings, and Soviet-era mosaic facades. The city serves as the political, economic and cultural heart of the country, hosting the Parliament, the Kyrgyz National University, the State Historical Museum and the vast Osh Bazaar, one of Central Asia's largest markets. Bishkek is often called the greenest capital in the region thanks to its endless avenues of poplars and oaks."
+    }
+  
+  },
+  {
+    id: "osh-cities-v2",
+    type: "city",
+    parent: "KG-GO",
+    coords: [72.8, 40.53],
+    name: {
+      de: "Osch",
+      hu: "Os",
+      ro: "Osh",
+      en: "Osh"
+    },
+    description: {
+      de: "Die zweitgrößte Stadt Kirgisistans, oft als südliche Hauptstadt bezeichnet, mit einer über 3000 Jahre alten Geschichte.",
+      hu: "Kirgizisztán második legnagyobb városa, amelyet gyakran a déli fővárosnak is neveznek, és több mint 3000 éves múlttal rendelkezik.",
+      ro: "Al doilea oraș ca mărime din Kârgâzstan, adesea numit capitala de sud, cu o istorie de peste 3000 de ani.",
+      en: "Kyrgyzstan's second-largest city, often referred to as the southern capital, with a history spanning over 3000 years."
+    },
+    facts: {
+      de: [
+        "War ein wichtiger Knotenpunkt an der Seidenstraße.",
+        "Beherbergt den heiligen Berg Sulaiman-Too."
+      ],
+      hu: [
+        "Fontos csomópont volt a történelmi Selyemúton.",
+        "Itt található a szent Szulajman-hegy."
+      ],
+      ro: [
+        "A fost un nod important pe Drumul Mătăsii.",
+        "Găzduiește muntele sacru Sulaiman-Too."
+      ],
+      en: [
+        "Was a major hub on the historic Silk Road.",
+        "Home to the sacred Sulaiman-Too mountain."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Osch ist mit über 320.000 Einwohnern die zweitgrößte Stadt Kirgisistans und zugleich das wirtschaftliche und kulturelle Herz des Südens. Sie liegt auf etwa 1000 Metern Höhe am östlichen Rand des fruchtbaren Ferganatals, eingebettet zwischen sanften Hügeln und dem dominierenden Bergmassiv Sulaiman-Too, das seit 2009 als UNESCO-Welterbe ausgewiesen ist. Die Stadt blickt auf eine über 3000 Jahre alte Geschichte zurück und war seit der Antike eine wichtige Karawanenstation an der Großen Seidenstraße zwischen China und dem Mittelmeerraum. In der Altstadt verschmelzen kirgisische, usbekische, tadschikische und russische Einflüsse zu einem lebendigen Mosaik aus Lehmhäusern, Mahalla-Vierteln, blauen Moscheen und Tschaichanas. Der zentrale Dschajma-Basar erstreckt sich seit Jahrhunderten kilometerlang entlang des Akbura-Flusses und gilt als einer der ältesten Märkte Zentralasiens.",
+      hu: "Os Kirgizisztán második legnagyobb városa több mint 320 ezer lakossal, és egyben a déli országrész gazdasági és kulturális szíve. Mintegy 1000 méter magasan fekszik a termékeny Fergana-völgy keleti peremén, lankás dombok és a város fölé magasodó Szulajman-hegy között, amelyet 2009 óta az UNESCO világörökség részeként tartanak nyilván. A város több mint 3000 éves múltra tekint vissza, az ókortól kezdve fontos karavánállomás volt a Selyemút Kínát és a Földközi-tengert összekötő ágán. Az óvárosban kirgiz, üzbég, tadzsik és orosz hatások keverednek élénk mozaikká: agyagházak, mahalla-negyedek, kék kupolás mecsetek és teaházak váltják egymást. A központi Dzsajma-bazár évszázadok óta kilométereken át húzódik az Akbura folyó mentén, és Közép-Ázsia egyik legősibb piacaként emlegetik.",
+      ro: "Osh este al doilea oraș ca mărime din Kârgâzstan, cu peste 320.000 de locuitori, și inima economică și culturală a sudului țării. Se află la aproximativ 1000 de metri altitudine, pe marginea estică a fertilei Văi Fergana, încadrat între dealuri domoale și impozantul masiv Sulaiman-Too, înscris din 2009 în patrimoniul mondial UNESCO. Orașul are o istorie de peste 3000 de ani și a fost încă din antichitate o importantă stație de caravane pe Drumul Mătăsii, între China și Marea Mediterană. Centrul vechi îmbină influențe kârgâze, uzbece, tadjice și ruse într-un mozaic viu de case de lut, cartiere mahalla, moschei cu cupole albastre și ceainării. Marele bazar Jayma se întinde de secole pe kilometri întregi de-a lungul râului Akbura și este considerat una dintre cele mai vechi piețe din Asia Centrală.",
+      en: "Osh is the second-largest city of Kyrgyzstan, home to more than 320,000 residents, and serves as the economic and cultural heart of the country's south. Sitting at around 1000 metres above sea level on the eastern edge of the fertile Fergana Valley, it is framed by gentle hills and the towering Sulaiman-Too massif, a UNESCO World Heritage Site since 2009. The city looks back on more than 3000 years of history and has been an important caravan stop on the Silk Road between China and the Mediterranean since antiquity. Its old quarters blend Kyrgyz, Uzbek, Tajik and Russian influences into a vivid mosaic of mud-brick houses, mahalla neighbourhoods, blue-domed mosques and traditional teahouses. The central Jayma Bazaar has stretched for kilometres along the Akbura River for centuries and is regarded as one of the oldest continuously operating markets in Central Asia."
+    }
+  
+  },
+  {
+    id: "jalal-abad-cities-v2",
+    type: "city",
+    parent: "KG-J",
+    coords: [73.0, 40.93],
+    name: {
+      de: "Dschalalabat",
+      hu: "Dzsalalabad",
+      ro: "Jalal-Abad",
+      en: "Jalal-Abad"
+    },
+    description: {
+      de: "Eine der größten Städte im Süden des Landes, bekannt für ihre Heilquellen und Mineralwässer.",
+      hu: "Az ország déli részének egyik legnagyobb városa, amely gyógyforrásairól és ásványvizeiről ismert.",
+      ro: "Unul dintre cele mai mari orașe din sudul țării, cunoscut pentru izvoarele sale termale și apele minerale.",
+      en: "One of the largest cities in the south of the country, known for its hot springs and mineral waters."
+    },
+    facts: {
+      de: [
+        "Ein wichtiges Zentrum für den Anbau von Walnüssen.",
+        "Die Region ist berühmt für die Arslanbob-Wälder."
+      ],
+      hu: [
+        "A diótermesztés egyik fontos központja.",
+        "A régió híres az Arszlanbob dióerdőkről."
+      ],
+      ro: [
+        "Un centru important pentru cultivarea nucilor.",
+        "Regiunea este renumită pentru pădurile Arslanbob."
+      ],
+      en: [
+        "A major center for the cultivation of walnuts.",
+        "The region is famous for the Arslanbob forests."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Dschalalabat ist mit rund 110.000 Einwohnern die drittgrößte Stadt Kirgisistans und Hauptstadt des gleichnamigen Gebiets im Norden des Ferganatals. Sie liegt auf etwa 770 Metern Höhe am Fuße des Babasch-Ata-Gebirges, in einer landschaftlich reizvollen Region zwischen dichten Walnusswäldern, Apfelplantagen und ausgedehnten Reisfeldern. Die Stadt verdankt ihren Ruf vor allem den heißen, schwefelhaltigen Heilquellen, die seit dem Mittelalter Pilger und Reisende anzogen und bereits zu Zarenzeiten in einem großen Kurort gefasst wurden. Heute gilt Dschalalabat als wichtigstes Sanatoriumszentrum Zentralasiens. Wirtschaftlich stützt sich die Stadt auf Lebensmittelverarbeitung, Baumwollindustrie, Tabakfabriken und den Handel mit den Erzeugnissen der umliegenden Bauernhöfe. In der Umgebung liegt der berühmte Wald von Arslanbob, der größte natürliche Walnusswald der Welt.",
+      hu: "Dzsalalabad mintegy 110 ezer lakosával Kirgizisztán harmadik legnagyobb városa és a Fergana-völgy északi részén fekvő azonos nevű régió székhelye. Körülbelül 770 méter magasan található a Babas-Ata hegység lábánál, festői vidéken, dió- és almaerdők, valamint kiterjedt rizsföldek között. Hírnevét elsősorban forró, kéntartalmú gyógyforrásainak köszönheti, amelyek már a középkorban is zarándokokat vonzottak, a cári korszakban pedig nagyszabású fürdővárossá fejlődött. Ma a város Közép-Ázsia legjelentősebb szanatóriumi központjának számít. Gazdaságát az élelmiszer-feldolgozás, a gyapot- és dohányipar, valamint a környező farmok termékeinek kereskedelme tartja fenn. A környéken található a világhírű Arszlanbob, a Föld legnagyobb természetes dióerdeje, amelynek fái állítólag már Nagy Sándor seregeit is megvendégelték.",
+      ro: "Jalal-Abad este al treilea oraș ca mărime din Kârgâzstan, cu aproximativ 110.000 de locuitori, și capitala regiunii cu același nume, situată în nordul Văii Fergana. Se află la circa 770 de metri altitudine, la poalele munților Babash-Ata, într-o zonă pitorească presărată cu păduri de nuci, livezi de meri și orezării întinse. Faima sa se datorează mai ales izvoarelor termale sulfuroase care încă din Evul Mediu atrăgeau pelerini și călători, fiind transformate sub țari într-o stațiune balneară de mari dimensiuni. Astăzi este considerat cel mai important centru de sanatorii din Asia Centrală. Economia se sprijină pe procesarea alimentelor, industria bumbacului, fabricile de tutun și comerțul cu produsele fermelor din jur. În apropiere se află celebra pădure Arslanbob, cea mai mare pădure naturală de nuci din lume, ai cărei copaci, conform legendei, ar fi hrănit oștile lui Alexandru Macedon.",
+      en: "Jalal-Abad, with about 110,000 inhabitants, is Kyrgyzstan's third-largest city and the capital of the eponymous region in the northern Fergana Valley. It lies at around 770 metres above sea level at the foot of the Babash-Ata range, in a picturesque landscape of dense walnut forests, apple orchards and broad rice paddies. The city is best known for its hot, sulphur-rich springs, which have drawn pilgrims and travellers since medieval times and were developed into a major spa town under the Russian Empire. Today Jalal-Abad is regarded as the most important sanatorium centre in Central Asia. Its economy rests on food processing, the cotton and tobacco industries, and trade in the produce of the surrounding farms. Nearby lies the world-famous Arslanbob forest, the largest natural walnut woodland on Earth, whose trees are said to have once fed the armies of Alexander the Great."
+    }
+  
+  },
+  {
+    id: "karakol-cities-v2",
+    type: "city",
+    parent: "KG-Y",
+    coords: [78.38, 42.49],
+    name: {
+      de: "Karakol",
+      hu: "Karakol",
+      ro: "Karakol",
+      en: "Karakol"
+    },
+    description: {
+      de: "Die Verwaltungshauptstadt des Gebiets Yssykköl, gelegen am östlichen Ende des gleichnamigen Sees.",
+      hu: "Az Iszik-köl tartomány közigazgatási központja, amely a tó keleti végénél helyezkedik el.",
+      ro: "Capitala administrativă a regiunii Issyk-Kul, situată la capătul estic al lacului cu același nume.",
+      en: "The administrative capital of the Issyk-Kul Region, situated at the eastern end of the lake of the same name."
+    },
+    facts: {
+      de: [
+        "Ein beliebtes Ausgangsziel für Trekking und Alpinismus.",
+        "Verfügt über eine russisch-orthodoxe Holzkirche und eine Dunganen-Moschee."
+      ],
+      hu: [
+        "Népszerű kiindulópont túrázáshoz és hegymászáshoz.",
+        "Egy orosz ortodox fatemplom és egy dungán mecset is található itt."
+      ],
+      ro: [
+        "Un punct de plecare popular pentru drumeții și alpinism.",
+        "Are o biserică ortodoxă rusă din lemn și o moschee dungană."
+      ],
+      en: [
+        "A popular starting point for trekking and alpinism.",
+        "Features a Russian Orthodox wooden church and a Dungan mosque."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Karakol mit etwa 85.000 Einwohnern ist die Verwaltungshauptstadt des Gebiets Yssykköl und liegt auf rund 1770 Metern Höhe am östlichen Ende des gleichnamigen Hochgebirgssees. Die Stadt wurde 1869 als russischer Militärstützpunkt gegründet und trug zwischen 1889 und 1991 zeitweise den Namen Prschewalsk, zu Ehren des berühmten Asienforschers Nikolai Prschewalski, dessen Grab und Museum bis heute am Stadtrand zu besichtigen sind. Karakol gilt als das touristische Zentrum für Trekking, Skifahren und Alpinismus im Tian-Shan-Gebirge, denn von hier aus starten die Routen zum Khan-Tengri, zum Ala-Köl-Pass und zur Altyn-Arashan-Schlucht. Im Stadtbild dominieren liebevoll restaurierte russische Holzhäuser, die hölzerne Heilig-Dreifaltigkeits-Kathedrale ohne einen einzigen Nagel sowie die einzigartige chinesische Dunganen-Moschee, die wie eine bunte Pagode wirkt.",
+      hu: "Karakol mintegy 85 ezer lakosával az Iszik-köl tartomány közigazgatási központja, és körülbelül 1770 méter magasan fekszik az azonos nevű magashegyi tó keleti végében. A várost 1869-ben orosz katonai erődként alapították, majd 1889 és 1991 között hosszú időn át a híres Ázsia-kutató Nyikolaj Prezsevalszkij tiszteletére Przsevalszk nevet viselte; tudós sírja és emlékmúzeuma máig megtekinthető a város szélén. Karakol a Tien-san-hegység trekking-, sí- és hegymászó-központjának számít, innen indulnak a Kán-Tengri-csúcs, az Ala-köl-hágó és az Altin-Arasan-szurdok felé vezető útvonalak. Városképét gondosan felújított orosz fagerendaházak, a szögek nélkül épült Szentháromság-fatemplom és a kínai stílusban épített, pagodára emlékeztető dungán mecset uralja.",
+      ro: "Karakol, cu aproximativ 85.000 de locuitori, este capitala administrativă a regiunii Issyk-Kul și se află la circa 1770 de metri altitudine, la capătul estic al lacului alpin cu același nume. Orașul a fost fondat în 1869 ca avanpost militar rus, iar între 1889 și 1991 a purtat o lungă perioadă numele Prjevalsk, în onoarea celebrului explorator al Asiei Nikolai Prjevalski, al cărui mormânt și muzeu pot fi vizitate și astăzi la marginea orașului. Karakol este considerat centrul turistic pentru drumeții, schi și alpinism în munții Tian Shan: de aici pornesc traseele către vârful Khan Tengri, trecătoarea Ala-Kul și defileul Altyn Arashan. În peisajul urban predomină casele rusești din lemn frumos restaurate, Catedrala ortodoxă Sfânta Treime construită fără niciun cui de fier și unica moschee dungană în formă de pagodă chinezească colorată.",
+      en: "Karakol, with around 85,000 inhabitants, is the administrative capital of the Issyk-Kul Region, set at roughly 1770 metres above sea level at the eastern tip of the alpine lake of the same name. The town was founded in 1869 as a Russian military outpost and, from 1889 until 1991, bore for long stretches the name Przhevalsk in honour of the great Asia explorer Nikolai Przhevalsky, whose grave and museum can still be visited at the edge of town. Karakol is regarded as the trekking, skiing and mountaineering hub of the Tian Shan, with trails radiating out to Khan Tengri Peak, the Ala-Kul Pass and the Altyn Arashan gorge. The townscape is dominated by lovingly restored Russian wooden houses, the all-timber Holy Trinity Cathedral built entirely without iron nails, and the unique Dungan Mosque, shaped like a colourful Chinese pagoda."
+    }
+  
+  },
+  {
+    id: "tokmok-cities-v2",
+    type: "city",
+    parent: "KG-C",
+    coords: [75.3, 42.84],
+    name: {
+      de: "Tokmok",
+      hu: "Tokmok",
+      ro: "Tokmok",
+      en: "Tokmok"
+    },
+    description: {
+      de: "Eine bedeutende Industriestadt im Tschüi-Tal, die einst eine wichtige Station an der alten Seidenstraße war.",
+      hu: "Jelentős iparváros a Csüi-völgyben, amely egykor az ősi Selyemút egyik fontos állomása volt.",
+      ro: "Un important oraș industrial în valea Chuy, care a fost odată o stație importantă pe vechiul Drum al Mătăsii.",
+      en: "A significant industrial city in the Chuy Valley, which was once an important stop on the ancient Silk Road."
+    },
+    facts: {
+      de: [
+        "In der Nähe befindet sich der berühmte Burana-Turm.",
+        "Wurde im 19. Jahrhundert als Vorposten des Kokand-Khanats gegründet."
+      ],
+      hu: [
+        "A közelben található a híres Burana-torony.",
+        "A 19. században alapították a kokandi kánság előőrsaként."
+      ],
+      ro: [
+        "Celebrul turn Burana se află în apropiere.",
+        "A fost fondat în secolul al XIX-lea ca avanpost al Hanatului Kokand."
+      ],
+      en: [
+        "The famous Burana Tower is located nearby.",
+        "Founded in the 19th century as an outpost of the Kokand Khanate."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Tokmok ist mit etwa 60.000 Einwohnern eine bedeutende Industriestadt im östlichen Tschüi-Tal, rund 60 Kilometer von Bischkek entfernt am Fluss Tschu gelegen. Die Stadt geht auf eine kokandsche Festungsanlage zurück, die 1864 von russischen Truppen erobert wurde und kurzzeitig sogar Verwaltungssitz der Region war, bevor diese Funktion an Bischkek überging. Heute prägen Glasfabriken, Fleischverarbeitung, Baumwoll- und Wollkombinate sowie Maschinenbaubetriebe die Wirtschaft. Tokmok gilt als kulturelles Zentrum der dunganischen Minderheit, die hier nach ihrer Flucht aus China im 19. Jahrhundert eine eigene Gemeinde gründete und ihre Sprache, Küche und Hochzeitsbräuche bis heute pflegt. Wenige Kilometer südlich erhebt sich der berühmte Burana-Turm, das letzte Überbleibsel der mittelalterlichen Karachaniden-Hauptstadt Balasagun und eines der bekanntesten Wahrzeichen Kirgisistans.",
+      hu: "Tokmok mintegy 60 ezer lakosával jelentős iparváros a Csüi-völgy keleti felében, Biskektől nagyjából 60 kilométerre, a Csu folyó partján. A települést egy kokandi erődítményből fejlesztették ki, amelyet 1864-ben orosz csapatok foglaltak el, és rövid ideig még a régió közigazgatási központja is volt, mielőtt ezt a szerepet Biskek vette át. Gazdaságát ma üveggyárak, hús- és tejüzemek, gyapjú- és pamutkombinátok, valamint gépgyártó vállalatok határozzák meg. Tokmok a dungán kisebbség kulturális központja: a 19. században Kínából menekült közösség itt önálló negyedet alapított, és a mai napig ápolja saját nyelvét, konyháját és lakodalmi szokásait. A várostól néhány kilométerre délre magasodik a híres Burana-torony, a középkori karahánida főváros, Balaszagun utolsó maradványa, Kirgizisztán egyik legismertebb jelképe.",
+      ro: "Tokmok, cu aproximativ 60.000 de locuitori, este un important oraș industrial în estul văii Chuy, la circa 60 de kilometri de Bishkek, pe râul Chu. Localitatea s-a dezvoltat dintr-o fortăreață kokandă cucerită în 1864 de trupele țariste; pentru scurt timp a fost chiar centrul administrativ al regiunii, înainte ca acest rol să fie preluat de Bishkek. Astăzi economia este dominată de fabrici de sticlă, abatoare, combinate de lână și bumbac, precum și uzine constructoare de mașini. Tokmok este considerat centrul cultural al minorității dungane, care s-a refugiat aici din China în secolul al XIX-lea și păstrează propria limbă, bucătărie și obiceiuri de nuntă. La câțiva kilometri sud de oraș se înalță celebrul turn Burana, ultimul vestigiu al capitalei medievale karakhanide Balasagun și unul dintre cele mai cunoscute simboluri ale Kârgâzstanului.",
+      en: "Tokmok, with about 60,000 residents, is an important industrial town in the eastern Chuy Valley, some 60 kilometres from Bishkek on the banks of the Chu River. It grew out of a Kokandi fortress that was captured by Russian troops in 1864 and even briefly served as the administrative seat of the region before that role passed to Bishkek. The local economy today rests on glass works, meat and dairy plants, cotton and wool combines and machine-building enterprises. Tokmok is also regarded as the cultural centre of the Dungan minority, descendants of refugees who fled China in the 19th century and still preserve their language, cuisine and elaborate wedding traditions. A few kilometres south of the town rises the famous Burana Tower, the last surviving fragment of the medieval Karakhanid capital of Balasagun and one of Kyrgyzstan's most iconic landmarks."
+    }
+  
+  },
+  {
+    id: "kara-balta-cities-v2",
+    type: "city",
+    parent: "KG-C",
+    coords: [73.85, 42.81],
+    name: {
+      de: "Karabalta",
+      hu: "Kara-Balta",
+      ro: "Kara-Balta",
+      en: "Kara-Balta"
+    },
+    description: {
+      de: "Eine wichtige Industriestadt westlich von Bischkek, bekannt für ihre Uranaufbereitung und Lebensmittelindustrie.",
+      hu: "Fontos iparváros Biskektől nyugatra, amely uránfeldolgozó és élelmiszeriparáról ismert.",
+      ro: "Un important oraș industrial la vest de Bishkek, cunoscut pentru procesarea uraniului și industria alimentară.",
+      en: "An important industrial city west of Bishkek, known for its uranium processing and food industry."
+    },
+    facts: {
+      de: [
+        "Liegt an der strategischen Fernstraße zwischen Bischkek und Osch.",
+        "Der Name bedeutet übersetzt Schwarze Axt."
+      ],
+      hu: [
+        "A Biskeket és Ost összekötő stratégiai autópálya mentén fekszik.",
+        "A név jelentése fekete fejsze."
+      ],
+      ro: [
+        "Este situat pe autostrada strategică dintre Bishkek și Osh.",
+        "Numele se traduce prin Toporul Negru."
+      ],
+      en: [
+        "Situated on the strategic highway between Bishkek and Osh.",
+        "The name translates to Black Axe."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Karabalta liegt rund 60 Kilometer westlich von Bischkek am gleichnamigen Fluss und zählt etwa 50.000 Einwohner. Der Name bedeutet wörtlich übersetzt Schwarze Axt und geht auf eine Legende zurück, nach der ein Krieger an dieser Stelle seine eiserne Streitaxt im Boden verloren haben soll. Die Stadt entstand in ihrer heutigen Form erst in der zweiten Hälfte des 20. Jahrhunderts, als die Sowjetunion hier eines der größten Uranerzaufbereitungswerke Zentralasiens errichtete, das Erze aus mehreren Lagerstätten der Region zu Yellowcake verarbeitete. Daneben entwickelten sich eine Zuckerfabrik, eine Ölraffinerie, ein Maschinenbauwerk und Lebensmittelbetriebe. Karabalta liegt an der strategisch wichtigen Fernstraße M41 zwischen Bischkek und Osch und ist Endpunkt der einzigen Eisenbahnlinie, die das fruchtbare Tschüi-Tal mit den Industrieanlagen am Fuß des Talas-Alatau verbindet.",
+      hu: "Kara-Balta Biskektől mintegy 60 kilométerre nyugatra, az azonos nevű folyó mentén fekszik, és körülbelül 50 ezer lakost számlál. A név szó szerint fekete fejszét jelent, és egy legendára utal, mely szerint egy harcos itt vesztette el vasból kovácsolt csatabárdját. A város mai formájában csak a 20. század második felében alakult ki, amikor a Szovjetunió itt építette fel Közép-Ázsia egyik legnagyobb uránércfeldolgozó üzemét, amely a régió több lelőhelyéről származó ércet alakított át yellowcake-é. Emellett cukorgyár, olajfinomító, gépgyár és élelmiszer-ipari üzemek is létesültek. Kara-Balta a stratégiai jelentőségű M41-es Biskek–Os főút mentén fekszik, és a Talasz-Alatau lábánál működő üzemeket a termékeny Csüi-völggyel összekötő egyetlen vasútvonal végállomása.",
+      ro: "Kara-Balta se află la aproximativ 60 de kilometri vest de Bishkek, pe râul cu același nume, și are circa 50.000 de locuitori. Numele se traduce literal prin Toporul Negru și provine dintr-o legendă conform căreia un războinic și-ar fi pierdut aici securea de luptă din fier. Forma actuală a orașului s-a conturat în a doua jumătate a secolului al XX-lea, când Uniunea Sovietică a construit aici unul dintre cele mai mari combinate de prelucrare a uraniului din Asia Centrală, transformând în yellowcake minereul adus din mai multe zăcăminte regionale. Alături s-au dezvoltat o fabrică de zahăr, o rafinărie de petrol, o uzină constructoare de mașini și unități alimentare. Orașul este situat pe șoseaua strategică M41 dintre Bishkek și Osh și este capătul unicei căi ferate care leagă fertila vale Chuy de instalațiile industriale aflate la poalele lanțului Talas Alatau.",
+      en: "Kara-Balta lies about 60 kilometres west of Bishkek on the river of the same name and is home to roughly 50,000 inhabitants. Its name literally means Black Axe and refers to a local legend in which a warrior is said to have lost his iron battle axe at this very spot. The town in its present form took shape only in the second half of the 20th century, when the Soviet Union built here one of Central Asia's largest uranium ore processing plants, turning ore from several regional deposits into yellowcake concentrate. Around it grew a sugar refinery, an oil refinery, a heavy machinery plant and food-industry facilities. Kara-Balta sits on the strategically vital M41 highway between Bishkek and Osh and is also the terminus of the only railway line linking the fertile Chuy Valley with the industrial sites at the foot of the Talas Alatau range."
+    }
+  
+  },
+  {
+    id: "naryn-cities-v2",
+    type: "city",
+    parent: "KG-N",
+    coords: [75.93, 41.43],
+    name: {
+      de: "Naryn",
+      hu: "Narin",
+      ro: "Naryn",
+      en: "Naryn"
+    },
+    description: {
+      de: "Eine hochgelegene Stadt in Zentral-Kirgisistan, die am gleichnamigen Fluss liegt und von hohen Bergen umgeben ist.",
+      hu: "Közép-Kirgizisztán magasan fekvő városa, amely az azonos nevű folyó mentén található, hegyekkel körülvéve.",
+      ro: "Un oraș situat la mare altitudine în Kârgâzstanul Central, pe râul cu același nume și înconjurat de munți înalți.",
+      en: "A high-altitude city in central Kyrgyzstan, located on the river of the same name and surrounded by high mountains."
+    },
+    facts: {
+      de: [
+        "Eine der kältesten Städte des Landes im Winter.",
+        "Ein wichtiger Halt auf dem Weg zum Torugart-Pass nach China."
+      ],
+      hu: [
+        "Télen az ország egyik leghidegebb városa.",
+        "Fontos megállóhely a Kínába vezető Torugart-hágó felé."
+      ],
+      ro: [
+        "Unul dintre cele mai reci orașe din țară pe timpul iernii.",
+        "O oprire importantă pe drumul spre trecătoarea Torugart spre China."
+      ],
+      en: [
+        "One of the coldest cities in the country during winter.",
+        "An important stop on the way to the Torugart Pass to China."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Naryn ist die Hauptstadt des gleichnamigen Gebiets und liegt mit etwa 40.000 Einwohnern auf rund 2020 Metern Höhe in einem schmalen Tal des inneren Tian-Shan, durch das der Naryn-Fluss in zahlreichen Mäandern strömt. Die Stadt erstreckt sich über fast 15 Kilometer entlang des Flussufers, ist aber selten breiter als drei Querstraßen, da sie zwischen steile Bergflanken eingezwängt ist. Naryn ist die kälteste größere Stadt Kirgisistans, mit Wintertemperaturen, die regelmäßig unter minus dreißig Grad fallen. Sie wurde 1868 als russische Festung an einem alten Karawanenweg errichtet und blieb bis zur Sowjetisierung ein wichtiger Handelsposten am Übergang zum Tarim-Becken. Heute ist Naryn ein bedeutender Halt auf dem Weg zum Torugart-Pass nach China, Sitz der University of Central Asia und Ausgangspunkt für Touren zur Karawanserei Tasch-Rabat und zum Hochgebirgssee Song-Köl.",
+      hu: "Narin az azonos nevű tartomány székhelye, mintegy 40 ezer lakossal, körülbelül 2020 méter tengerszint feletti magasságban a Belső-Tien-san egy keskeny völgyében fekszik, amelyen a Narin folyó számos kanyarulattal halad át. A város szinte 15 kilométer hosszan nyúlik el a folyópart mentén, ám meredek hegyoldalak közé szorítva csak ritkán szélesebb három utcányinál. Narin Kirgizisztán leghidegebb nagyobb városa, ahol a téli hőmérséklet rendszeresen mínusz harminc fok alá süllyed. 1868-ban orosz erődként alapították egy ősi karavánút mentén, és a szovjet időkig fontos kereskedelmi állomásnak számított a Tarim-medence felé. Ma fontos megálló a Kínába vezető Torugart-hágó útvonalán, otthont ad az University of Central Asia kampuszának, és kiindulópontja a Tas-Rabat karavánszerájhoz és a Szong-köl tóhoz vezető túráknak.",
+      ro: "Naryn este capitala regiunii cu același nume și are circa 40.000 de locuitori, situată la aproximativ 2020 de metri altitudine, într-o vale îngustă din interiorul Tian Shanului, prin care șerpuiește râul Naryn cu numeroase meandre. Orașul se întinde pe aproape 15 kilometri de-a lungul malului, dar rareori are mai mult de trei străzi în lățime, fiind strâns între versanți abrupți. Naryn este cel mai friguros oraș mai mare din Kârgâzstan, iarna temperaturile scăzând frecvent sub minus treizeci de grade. A fost întemeiat în 1868 ca fortăreață rusă pe un vechi drum al caravanelor și a rămas, până la sovietizare, un important punct comercial către Bazinul Tarim. Astăzi este o oprire esențială pe drumul spre trecătoarea Torugart, găzduiește un campus al University of Central Asia și este punct de plecare spre caravanseraiul Tash-Rabat și lacul alpin Song-Kul.",
+      en: "Naryn is the capital of the eponymous region and, with about 40,000 inhabitants, sits at roughly 2020 metres above sea level in a narrow valley of the Inner Tian Shan, threaded by the meandering Naryn River. The town stretches for almost 15 kilometres along the river bank but is rarely more than three blocks wide, squeezed between steep mountain flanks. Naryn is the coldest major town in Kyrgyzstan, with winter temperatures that regularly drop below minus thirty degrees Celsius. It was founded in 1868 as a Russian fort along an ancient caravan road and, until Soviet times, served as an important trading post on the route to the Tarim Basin. Today Naryn is a key stop on the way to the Torugart Pass into China, hosts a campus of the University of Central Asia, and acts as the launch point for journeys to the Tash Rabat caravanserai and Lake Song-Kul."
+    }
+  
+  },
+  {
+    id: "uzgen-cities-v2",
+    type: "city",
+    parent: "KG-O",
+    coords: [73.3, 40.77],
+    name: {
+      de: "Ösgön",
+      hu: "Özgön",
+      ro: "Uzgen",
+      en: "Uzgen"
+    },
+    description: {
+      de: "Eine historische Stadt im Ferganatal, die einst eine Hauptstadt des Karachaniden-Reiches war.",
+      hu: "Történelmi város a Fergana-völgyben, amely egykor a Karahánida Birodalom egyik fővárosa volt.",
+      ro: "Un oraș istoric din Valea Fergana, care a fost cândva o capitală a Imperiului Karakhanid.",
+      en: "A historic city in the Fergana Valley, which was once a capital of the Karakhanid Empire."
+    },
+    facts: {
+      de: [
+        "Bekannt für das gut erhaltene Ösgön-Minarett.",
+        "Ein Zentrum für den Anbau von hochwertigem Reis."
+      ],
+      hu: [
+        "A jól megőrzött Özgön-minaretről ismert.",
+        "A kiváló minőségű rizs termesztésének központja."
+      ],
+      ro: [
+        "Cunoscut pentru minaretul Uzgen bine conservat.",
+        "Un centru pentru cultivarea orezului de înaltă calitate."
+      ],
+      en: [
+        "Known for the well-preserved Uzgen Minaret.",
+        "A center for the cultivation of high-quality rice."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Ösgön zählt heute rund 55.000 Einwohner und liegt etwa 50 Kilometer nordöstlich von Osch im fruchtbaren Ferganatal, am Fluss Karadarja. Die Stadt blickt auf eine über zweitausendjährige Geschichte zurück und gehörte im 11. und 12. Jahrhundert zu den drei Hauptstädten des mächtigen Karachaniden-Reichs, das von hier aus weite Teile Zentralasiens beherrschte. Aus dieser Blütezeit sind drei Mausoleen aus gebranntem Backstein und ein gut erhaltenes 27 Meter hohes Minarett erhalten, die heute zu den bedeutendsten architektonischen Denkmälern Kirgisistans zählen und kunstvolle Stuckornamente sowie kufische Inschriften zeigen. Ösgön ist außerdem berühmt für seinen rotbraunen Devsira-Reis, der unter Kennern als bester Reis Zentralasiens gilt und die Grundlage des klassischen usbekisch-kirgisischen Plov bildet. Die Bevölkerung ist überwiegend usbekisch geprägt.",
+      hu: "Özgön ma mintegy 55 ezer lakossal rendelkezik, és Ostól körülbelül 50 kilométerre északkeletre, a termékeny Fergana-völgyben, a Karadarja folyó mentén fekszik. A város több mint kétezer éves múltra tekint vissza, és a 11–12. században a hatalmas Karahánida Birodalom három fővárosának egyike volt, ahonnan az uralkodók Közép-Ázsia jelentős részét igazgatták. Ebből a virágkorból három, égetett téglából emelt mauzóleum és egy jó állapotban fennmaradt 27 méter magas minaret őrződött meg, amelyek ma Kirgizisztán legjelentősebb építészeti emlékei közé tartoznak: gazdag stukkódíszek és kúfi feliratok borítják őket. Özgön emellett a vörösbarna devszira rizséről is híres, amelyet a szakértők Közép-Ázsia legjobb rizsének tartanak, és amely a klasszikus üzbég–kirgiz plov alapja. A város lakossága túlnyomórészt üzbég.",
+      ro: "Uzgen are astăzi aproximativ 55.000 de locuitori și se află la circa 50 de kilometri nord-est de Osh, în fertila Vale Fergana, pe râul Karadaria. Orașul are o istorie de peste două mii de ani, iar în secolele al XI-lea și al XII-lea a fost una dintre cele trei capitale ale puternicului Imperiu Karakhanid, care își exercita autoritatea asupra unei mari părți din Asia Centrală. Din acea perioadă de glorie se păstrează trei mausolee din cărămidă arsă și un minaret bine conservat, înalt de 27 de metri, considerate astăzi printre cele mai importante monumente arhitectonice ale Kârgâzstanului, cu stucaturi rafinate și inscripții cufice. Uzgen este renumit și pentru orezul roșu-brun devsira, considerat de cunoscători cel mai bun orez din Asia Centrală și ingredient esențial al pilafului uzbeco-kârgâz. Populația este predominant uzbecă.",
+      en: "Uzgen is home to about 55,000 people today and lies some 50 kilometres northeast of Osh in the fertile Fergana Valley, on the banks of the Kara Darya River. The town has a history stretching back more than two thousand years and, in the 11th and 12th centuries, served as one of the three capitals of the mighty Karakhanid Empire, which ruled vast tracts of Central Asia from here. Surviving from that golden age are three baked-brick mausoleums and a well-preserved 27-metre-high minaret, today counted among Kyrgyzstan's most important architectural monuments and decorated with intricate stucco patterns and Kufic inscriptions. Uzgen is also renowned for its reddish-brown devzira rice, considered by connoisseurs the finest rice of Central Asia and the foundation of classical Uzbek-Kyrgyz plov. The local population is predominantly ethnic Uzbek."
+    }
+  
+  },
+  {
+    id: "balykchy-cities-v2",
+    type: "city",
+    parent: "KG-Y",
+    coords: [76.18, 42.46],
+    name: {
+      de: "Balyktschy",
+      hu: "Balikcsi",
+      ro: "Balykchy",
+      en: "Balykchy"
+    },
+    description: {
+      de: "Eine Stadt am westlichen Ende des Yssykköl-Sees, die lange Zeit ein wichtiger Verkehrsknotenpunkt war.",
+      hu: "Város az Iszik-köl tó nyugati végénél, amely hosszú ideig fontos közlekedési csomópont volt.",
+      ro: "Un oraș la capătul vestic al lacului Issyk-Kul, care a fost mult timp un important nod de transport.",
+      en: "A city at the western end of Lake Issyk-Kul, which was an important transport hub for a long time."
+    },
+    facts: {
+      de: [
+        "War während der Sowjetzeit ein wichtiges Zentrum der Fischerei.",
+        "Ist der Endpunkt der Bahnstrecke von Bischkek."
+      ],
+      hu: [
+        "A szovjet korszakban a halászat fontos központja volt.",
+        "A Biskekből induló vasútvonal végállomása."
+      ],
+      ro: [
+        "A fost un centru important de pescuit în perioada sovietică.",
+        "Este punctul terminus al căii ferate din Bishkek."
+      ],
+      en: [
+        "Was a major center for fishing during the Soviet era.",
+        "It is the terminus of the railway line from Bishkek."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Balyktschy liegt am westlichen Ende des Yssykköl-Sees auf rund 1620 Metern Höhe und zählt heute etwa 45.000 Einwohner. Der Name bedeutet auf Kirgisisch wörtlich Fischer und verweist auf die früher dominierende Rolle des Fischfangs im salzigen Hochgebirgssee. Die Stadt entwickelte sich ab den 1870er Jahren als russische Siedlung mit dem Namen Rybatschje und war zu Sowjetzeiten ein bedeutendes Industrie- und Verkehrszentrum mit Wollwäschereien, Schiffswerften und einem Trockendock für die Forschungsschiffe der sowjetischen Torpedoerprobungsanlage am Yssykköl. Heute ist Balyktschy der Endpunkt der einzigen Bahnstrecke nach Bischkek und der wichtigste Umschlagplatz für Touristen, die vom Tschüi-Tal in die Strände am Nordufer oder zu den Hochweiden im Süden reisen. Die Wirtschaft kämpft seit dem Niedergang der Schwerindustrie mit hoher Arbeitslosigkeit und setzt verstärkt auf Tourismus und Logistik.",
+      hu: "Balikcsi az Iszik-köl tó nyugati végén, mintegy 1620 méter magasan fekszik, és ma körülbelül 45 ezer lakost számlál. Neve kirgiz nyelven szó szerint halászt jelent, és a sós magashegyi tóban folytatott hagyományos halászatra utal. A települést az 1870-es években orosz telepesek alapították Ribacsje néven, és a szovjet korszakban jelentős ipari és közlekedési csomópont lett: gyapjúmosó üzemek, hajógyár és egy szárazdokk működött itt a tó torpedókísérleti telepének kutatóhajói számára. Ma Balikcsi a Biskek felé induló egyetlen vasútvonal végállomása, és a turisták legfontosabb átszállóhelye azok számára, akik a Csüi-völgyből az északi parti strandok vagy a déli hegyvidéki nyári szállások felé utaznak. A nehézipar leépülése óta a város magas munkanélküliséggel küzd, és egyre inkább a turizmusra és logisztikára támaszkodik.",
+      ro: "Balykchy se află la capătul vestic al lacului Issyk-Kul, la o altitudine de circa 1620 de metri, și are astăzi aproximativ 45.000 de locuitori. Numele înseamnă literalmente pescar în limba kârgâză și amintește de rolul important pe care îl avea cândva pescuitul pe acest lac alpin sărat. Localitatea s-a dezvoltat din anii 1870 ca o așezare rusească numită Rybacie, iar în perioada sovietică a fost un important centru industrial și de transport, cu spălătorii de lână, un șantier naval și un doc uscat care deservea navele de cercetare ale poligonului sovietic de testare a torpilelor de pe Issyk-Kul. Astăzi este capătul unicei căi ferate spre Bishkek și cel mai important nod de transbordare pentru turiștii care vin din valea Chuy spre plajele nordului sau spre pășunile alpine din sud. De la declinul industriei grele, orașul se confruntă cu un șomaj ridicat și mizează tot mai mult pe turism și logistică.",
+      en: "Balykchy lies at the western end of Lake Issyk-Kul at about 1620 metres above sea level and is home to roughly 45,000 inhabitants today. Its name literally means fisherman in Kyrgyz and recalls the once dominant role of fishing on this salty alpine lake. The town developed from the 1870s as a Russian settlement called Rybachye and, during the Soviet era, became a significant industrial and transport hub, with wool-washing plants, a small shipyard and a dry dock serving the research vessels of the Soviet torpedo testing facility on Issyk-Kul. Today Balykchy is the terminus of the only railway line to Bishkek and the main transfer point for tourists travelling from the Chuy Valley to the beach resorts of the northern shore or the high pastures of the south. Since the collapse of heavy industry the town has struggled with high unemployment and increasingly relies on tourism and logistics."
+    }
+  
+  },
+  {
+    id: "talas-cities-v2",
+    type: "city",
+    parent: "KG-T",
+    coords: [72.24, 42.52],
+    name: {
+      de: "Talas",
+      hu: "Talasz",
+      ro: "Talas",
+      en: "Talas"
+    },
+    description: {
+      de: "Eine Stadt im Nordwesten des Landes, gelegen im Talas-Tal und abgeschirmt durch hohe Gebirgsketten.",
+      hu: "Az ország északnyugati részén, a Talasz-völgyben fekvő város, amelyet magas hegyláncok védenek.",
+      ro: "Un oraș în nord-vestul țării, situat în valea Talas și protejat de lanțuri muntoase înalte.",
+      en: "A city in the northwest of the country, located in the Talas Valley and shielded by high mountain ranges."
+    },
+    facts: {
+      de: [
+        "Die Region gilt als Geburtsort des Nationalhelden Manas.",
+        "Der Austragungsort der historischen Schlacht am Talas im Jahr 751."
+      ],
+      hu: [
+        "A régiót a nemzeti hős, Manasz szülőhelyeként tartják számon.",
+        "A 751-es történelmi talaszi csata helyszíne."
+      ],
+      ro: [
+        "Regiunea este considerată locul de naștere al eroului național Manas.",
+        "Locul bătăliei istorice de la Talas din anul 751."
+      ],
+      en: [
+        "The region is considered the birthplace of the national hero Manas.",
+        "The site of the historic Battle of Talas in 751."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Talas ist die Hauptstadt des gleichnamigen, von den restlichen Gebieten des Landes durch hohe Pässe getrennten kirgisischen Verwaltungsgebiets und liegt auf rund 1280 Metern Höhe am Fluss Talas im weiten Talas-Tal. Die Stadt zählt etwa 40.000 Einwohner und entstand in ihrer heutigen Form im 19. Jahrhundert um eine russische Festungssiedlung. Die Region gilt als Herz der kirgisischen Identität, denn nach mündlicher Überlieferung des Manas-Epos wurde der legendäre Nationalheld Manas hier geboren und wurde unweit der Stadt im Mausoleum von Gumbös bestattet. Wirtschaftlich ist Talas vor allem für seine ausgedehnten Bohnenfelder bekannt, deren Erträge zu den wichtigsten Exportgütern Kirgisistans zählen. Schon in der Antike war das Tal Schauplatz der berühmten Schlacht am Talas im Jahr 751, in der Abbasiden und Karluken die chinesische Tang-Armee besiegten und damit die Westausbreitung Chinas stoppten.",
+      hu: "Talasz a magas hágókkal a többi országrésztől elválasztott azonos nevű kirgiz közigazgatási terület székhelye, és mintegy 1280 méter magasan fekszik a Talasz folyó partján, a tágas Talasz-völgyben. A város mintegy 40 ezer lakost számlál, mai formájában a 19. században alakult ki egy orosz erőd körül. A régiót gyakran a kirgiz identitás szívének nevezik, hiszen a Manasz-eposz szóbeli hagyománya szerint a legendás nemzeti hős, Manasz itt született, és a közeli Gumböz-mauzóleumban temették el. Gazdaságilag Talasz főként kiterjedt babföldjeiről ismert, amelyek termése Kirgizisztán egyik legfontosabb exportcikkének számít. Már az ókorban is e völgy volt a 751-es híres talaszi csata helyszíne, ahol az abbászida és karluk csapatok legyőzték a kínai Tang-sereget, és ezzel megállították Kína nyugati terjeszkedését.",
+      ro: "Talas este capitala regiunii kârgâze cu același nume, separată de restul țării prin trecători înalte, situată la circa 1280 de metri altitudine, pe râul Talas, în vasta vale Talas. Orașul are aproximativ 40.000 de locuitori și s-a conturat în forma actuală în secolul al XIX-lea, în jurul unei fortărețe rusești. Regiunea este considerată inima identității kârgâze, deoarece, conform tradiției orale a epopeii Manas, eroul național legendar Manas s-ar fi născut aici și ar fi fost înmormântat în mausoleul Gumbez din apropierea orașului. Economic, Talas este cunoscut mai ales pentru întinsele sale câmpuri de fasole, ale căror recolte sunt printre cele mai importante produse de export ale Kârgâzstanului. Încă din antichitate, valea a fost scena celebrei bătălii de la Talas din 751, când abbasizii și karlucii au învins armata chineză Tang, oprind expansiunea Chinei spre vest.",
+      en: "Talas is the capital of the eponymous Kyrgyz region, cut off from the rest of the country by high mountain passes, and lies at roughly 1280 metres above sea level on the Talas River in the broad Talas Valley. The town has about 40,000 inhabitants and took shape in the 19th century around a Russian fortified settlement. The region is often called the heart of Kyrgyz identity, since according to the oral tradition of the Manas Epic, the legendary national hero Manas was born here and was buried in the Gumbez Mausoleum just outside town. Economically Talas is best known for its vast bean fields, whose harvest ranks among Kyrgyzstan's most important export commodities. Even in antiquity, the valley was the setting of the famous Battle of Talas in 751, when Abbasid and Karluk forces defeated the Chinese Tang army and halted China's westward expansion."
+    }
+  
+  },
+  {
+    id: "kyzyl-kiya-cities-v2",
+    type: "city",
+    parent: "KG-B",
+    coords: [72.13, 40.26],
+    name: {
+      de: "Kysyl-Kija",
+      hu: "Kizil-Kija",
+      ro: "Kyzyl-Kiya",
+      en: "Kyzyl-Kiya"
+    },
+    description: {
+      de: "Eine Stadt im Süden Kirgisistans, die sich als eines der ältesten Kohlebergbauzentren Zentralasiens entwickelte.",
+      hu: "Város Dél-Kirgizisztánban, amely Közép-Ázsia egyik legrégebbi szénbányászati központjaként fejlődött ki.",
+      ro: "Un oraș din sudul Kârgâzstanului care s-a dezvoltat ca unul dintre cele mai vechi centre de exploatare a cărbunelui din Asia Centrală.",
+      en: "A city in southern Kyrgyzstan that developed as one of the oldest coal mining centers in Central Asia."
+    },
+    facts: {
+      de: [
+        "Wurde 1898 während des Aufschwungs der Kohleförderung gegründet.",
+        "Liegt nahe der Grenze zu Usbekistan."
+      ],
+      hu: [
+        "1898-ban alapították a szénbányászat fellendülése idején.",
+        "Közel fekszik az üzbég határhoz."
+      ],
+      ro: [
+        "A fost fondat în 1898 în timpul boom-ului exploatării cărbunelui.",
+        "Este situat aproape de granița cu Uzbekistan."
+      ],
+      en: [
+        "Founded in 1898 during the boom of coal mining.",
+        "Located near the border with Uzbekistan."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Kysyl-Kija liegt im Süden Kirgisistans am Rand des Ferganatals auf rund 950 Metern Höhe, unmittelbar an der Grenze zu Usbekistan, und zählt heute etwa 50.000 Einwohner. Der Name lässt sich frei mit roter Hang übersetzen und nimmt Bezug auf die rötlich gefärbten Sandsteinformationen, in denen seit Ende des 19. Jahrhunderts hochwertige Steinkohle gefördert wird. Die Stadt wurde 1898 mit dem Beginn des industriellen Kohleabbaus gegründet und galt während der Sowjetzeit als eines der wichtigsten Bergbauzentren Zentralasiens. Heute beherbergt Kysyl-Kija neben dem stark zurückgegangenen Kohlebergbau auch eine Zementfabrik, eine Ziegelei und eine Kabelfabrik, dazu Werkstätten für die Reparatur von Bergbaumaschinen. Die enge Verflechtung mit der usbekischen Wirtschaftszone bringt eine multiethnische Bevölkerungsstruktur mit sich: Kirgisen, Usbeken, Tadschiken und Russen leben hier eng zusammen und prägen das ungewöhnlich vielsprachige Stadtbild.",
+      hu: "Kizil-Kija Dél-Kirgizisztán szélén, a Fergana-völgy peremén, mintegy 950 méter magasan fekszik, közvetlenül az üzbég határ mellett, és ma körülbelül 50 ezer lakost számlál. Neve szabadon fordítva vörös lejtőt jelent, és a 19. század vége óta intenzíven bányászott, vörös színű homokkő-rétegekre utal. A várost 1898-ban alapították a nagyipari szénbányászat megindulásakor, és a szovjet érában Közép-Ázsia egyik legfontosabb bányavárosának számított. Ma a jelentősen visszaesett szénkitermelés mellett cementgyár, téglagyár és kábelgyár, valamint bányászati gépek javítóüzemei működnek. A szoros gazdasági kapcsolat az üzbég körzetekkel sokszínű etnikai szerkezetet eredményezett: kirgizek, üzbégek, tadzsikok és oroszok élnek egymás közelében, ami szokatlanul többnyelvű városképet kölcsönöz a városnak.",
+      ro: "Kyzyl-Kiya se află în sudul Kârgâzstanului, la marginea Văii Fergana, la o altitudine de circa 950 de metri, chiar la granița cu Uzbekistanul, și are astăzi aproximativ 50.000 de locuitori. Numele se traduce liber prin Coasta Roșie și se referă la straturile de gresie roșiatică în care, încă de la sfârșitul secolului al XIX-lea, se exploatează cărbune de calitate. Orașul a fost fondat în 1898, odată cu începerea exploatării miniere industriale, și a fost considerat în perioada sovietică unul dintre cele mai importante centre miniere ale Asiei Centrale. Astăzi, pe lângă mineritul cărbunelui mult diminuat, funcționează aici o fabrică de ciment, o cărămidărie, o fabrică de cabluri și ateliere de reparat utilaje miniere. Strânsa interdependență cu zonele economice uzbece a generat o populație multietnică: kârgâzi, uzbeci, tadjici și ruși conviețuiesc strâns, conferind orașului un peisaj urban remarcabil de multilingv.",
+      en: "Kyzyl-Kiya lies at the southern edge of Kyrgyzstan on the rim of the Fergana Valley at around 950 metres above sea level, right next to the Uzbek border, and is home to about 50,000 inhabitants today. Its name can be loosely translated as Red Slope and refers to the reddish sandstone formations from which high-quality bituminous coal has been mined since the late 19th century. The town was founded in 1898 with the start of industrial coal extraction and during the Soviet era ranked among the most important mining centres of Central Asia. Today, besides the much-reduced coal industry, Kyzyl-Kiya hosts a cement works, a brickyard, a cable plant and workshops for the repair of mining machinery. Close economic ties with neighbouring Uzbekistan have produced a markedly multi-ethnic population, with Kyrgyz, Uzbeks, Tajiks and Russians living side by side and giving the town an unusually multilingual character."
+    }
+  
+  },
+  {
+    id: "batken-cities-v2",
+    type: "city",
+    parent: "KG-B",
+    coords: [70.82, 40.06],
+    name: {
+      de: "Batken",
+      hu: "Batken",
+      ro: "Batken",
+      en: "Batken"
+    },
+    description: {
+      de: "Die Verwaltungshauptstadt des südwestlichsten Gebiets Kirgisistans, umgeben von komplexen internationalen Grenzen.",
+      hu: "Kirgizisztán legdélnyugatibb régiójának közigazgatási központja, amelyet bonyolult nemzetközi határok vesznek körül.",
+      ro: "Capitala administrativă a celei mai sud-vestice regiuni a Kârgâzstanului, înconjurată de granițe internaționale complexe.",
+      en: "The administrative capital of the southwesternmost region of Kyrgyzstan, surrounded by complex international borders."
+    },
+    facts: {
+      de: [
+        "Wurde 1999 zum Zentrum einer neu geschaffenen Provinz ernannt.",
+        "Die Gegend ist bekannt für ihre getrockneten Aprikosen."
+      ],
+      hu: [
+        "1999-ben nevezték ki egy újonnan létrehozott tartomány központjává.",
+        "A környék híres a szárított sárgabarackjáról."
+      ],
+      ro: [
+        "A fost desemnat centrul unei provincii nou create în 1999.",
+        "Zona este cunoscută pentru caisele sale uscate."
+      ],
+      en: [
+        "Was designated the center of a newly created province in 1999.",
+        "The area is famous for its dried apricots."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Batken ist die Hauptstadt des gleichnamigen, südwestlichsten Verwaltungsgebiets Kirgisistans und liegt auf rund 1100 Metern Höhe in einer abgelegenen, von komplexen Grenzverläufen geprägten Region zwischen den tadschikischen und usbekischen Enklaven. Die Stadt zählt etwa 30.000 Einwohner und wurde im Jahr 2000 zum Verwaltungszentrum des damals neu geschaffenen Gebiets ernannt, nachdem die Region durch islamistische Einfälle aus Tadschikistan in den Jahren 1999 und 2000 internationale Aufmerksamkeit erlangt hatte. Die wirtschaftliche Grundlage bilden Obst- und Gemüseanbau, vor allem die Produktion von süßen, sonnengetrockneten Aprikosen, die als die besten Zentralasiens gelten. Der politische Alltag wird durch die immer wieder aufflammenden Grenzkonflikte mit Tadschikistan und die fehlende direkte Verbindung in den Rest des Landes erschwert; viele Wege führen über usbekisches und tadschikisches Territorium.",
+      hu: "Batken Kirgizisztán legdélnyugatibb tartományának, az azonos nevű régiónak a székhelye, és mintegy 1100 méter magasan fekszik egy elszigetelt, bonyolult határvonalakkal tagolt vidéken, tadzsik és üzbég exklávék között. A város mintegy 30 ezer lakost számlál, és 2000-ben nevezték ki az akkor újonnan létrehozott terület közigazgatási központjává, miután 1999 és 2000 tadzsikisztáni iszlamista csoportok betörései révén nemzetközi figyelmet kapott a régió. A gazdaság alapját a gyümölcs- és zöldségtermesztés képezi, mindenekelőtt az édes, napon szárított sárgabarack, amelyet egész Közép-Ázsia legjobbjaként tartanak számon. A mindennapokat megnehezítik a tadzsik határ mentén időről időre fellobbanó konfliktusok és a régió közvetlen, az ország többi részével való összeköttetésének hiánya: sok útvonal csak üzbég és tadzsik területen át vezet.",
+      ro: "Batken este capitala celei mai sud-vestice regiuni a Kârgâzstanului, situată la circa 1100 de metri altitudine, într-o zonă izolată brăzdată de granițe complicate, între enclavele tadjice și uzbece. Orașul are aproximativ 30.000 de locuitori și a fost desemnat în 2000 centrul administrativ al regiunii nou create, după ce zona atrăsese atenția internațională prin incursiunile gruprilor islamiste venite din Tadjikistan în 1999 și 2000. Baza economică o constituie cultivarea legumelor și a fructelor, în special producția de caise dulci, uscate la soare, considerate cele mai bune din Asia Centrală. Viața de zi cu zi este îngreunată de conflictele de frontieră reaprinse periodic cu Tadjikistanul și de lipsa unei legături directe cu restul țării; multe drumuri trec obligatoriu prin teritoriu uzbec sau tadjic.",
+      en: "Batken is the capital of the eponymous, southwesternmost administrative region of Kyrgyzstan, sitting at around 1100 metres above sea level in a remote area threaded with intricate borders between Tajik and Uzbek enclaves. The town has about 30,000 inhabitants and was designated administrative centre of the newly created region in 2000, after the area drew international attention during the incursions of Islamist groups from Tajikistan in 1999 and 2000. Its economic base rests on fruit and vegetable cultivation, above all the production of sweet sun-dried apricots, widely regarded as the finest in Central Asia. Daily life is complicated by recurring border tensions with Tajikistan and by the lack of a direct corridor to the rest of the country, since many roads must inevitably pass through Uzbek or Tajik territory."
+    }
+  
+  },
+  {
+    id: "razzakov-cities-v2",
+    type: "city",
+    parent: "KG-B",
+    coords: [69.53, 39.83],
+    name: {
+      de: "Rassakow",
+      hu: "Razzakov",
+      ro: "Razzakov",
+      en: "Razzakov"
+    },
+    description: {
+      de: "Eine Stadt im äußersten Westen Kirgisistans, die früher als Isfana bekannt war.",
+      hu: "Kirgizisztán legnyugatibb városa, amely korábban Iszfana néven volt ismert.",
+      ro: "Un oraș din vestul extrem al Kârgâzstanului, cunoscut anterior sub numele de Isfana.",
+      en: "A city in the far west of Kyrgyzstan, formerly known as Isfana."
+    },
+    facts: {
+      de: [
+        "Wurde 2022 zu Ehren von Ischak Rassakow umbenannt.",
+        "Ist auf drei Seiten von Tadschikistan umgeben."
+      ],
+      hu: [
+        "2022-ben nevezték át Isak Razzakov tiszteletére.",
+        "Három oldalról Tádzsikisztán veszi körül."
+      ],
+      ro: [
+        "A fost redenumit în 2022 în onoarea lui Ishak Razzakov.",
+        "Este înconjurat pe trei laturi de Tadjikistan."
+      ],
+      en: [
+        "Renamed in 2022 in honor of Ishak Razzakov.",
+        "It is surrounded on three sides by Tajikistan."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Rassakow, bis 2022 unter dem Namen Isfana bekannt, liegt im äußersten Westen der Region Batken auf rund 1100 Metern Höhe und zählt etwa 28.000 Einwohner. Die Stadt ist auf drei Seiten von tadschikischem Staatsgebiet umgeben und kann von der kirgisischen Hauptstadt aus nur über lange Umwege oder per Flugzeug erreicht werden. Bereits im 9. Jahrhundert lag hier eine wichtige Karawanenstation auf dem Weg zwischen Khujand und Kashgar, und die heutige Stadt entwickelte sich aus mehreren Dörfern, die im 19. Jahrhundert zum Kokand-Khanat gehörten. Im Jahr 2022 wurde Isfana zu Ehren des kirgisischen Politikers und Schriftstellers Ischak Rassakow umbenannt, der als einer der ersten kirgisischen Parteichefs nach 1937 von Stalin verfolgt und 1938 hingerichtet wurde. Wirtschaftlich stützt sich die Stadt auf Trockenfrüchte, Tabakanbau, Schafzucht und kleinere Gewerbe.",
+      hu: "Razzakov, amelyet 2022-ig Iszfana néven ismertek, a Batken régió legnyugatibb csücskében, mintegy 1100 méter magasan fekszik, és körülbelül 28 ezer lakost számlál. A várost három oldalról tadzsik államterület veszi körül, és a fővárosból csak hosszú kerülőkkel vagy repülővel közelíthető meg. Már a 9. században fontos karavánállomásként szolgált a Hudzsand és Kasgar közötti útvonalon, mai formájában pedig több falu összeolvadásából alakult ki, amelyek a 19. században a kokandi kánsághoz tartoztak. Iszfanát 2022-ben Isak Razzakov kirgiz politikus és író tiszteletére nevezték át; ő a 30-as évek egyik első kirgiz pártvezetője volt, akit Sztálin 1938-ban kivégeztetett. A város gazdasága a szárított gyümölcsökre, a dohánytermesztésre, a juhtenyésztésre és apró kézműves műhelyekre épül, miközben sok lakó vendégmunkásként Oroszországban dolgozik.",
+      ro: "Razzakov, cunoscut până în 2022 sub numele de Isfana, se află în extremitatea vestică a regiunii Batken, la circa 1100 de metri altitudine, și are aproximativ 28.000 de locuitori. Orașul este înconjurat pe trei laturi de teritoriul Tadjikistanului și poate fi accesat din capitala kârgâză doar pe ocoluri lungi sau cu avionul. Încă din secolul al IX-lea, aici se afla o importantă stație de caravane între Khujand și Kashgar, iar orașul actual s-a format prin unirea mai multor sate care, în secolul al XIX-lea, aparțineau Hanatului Kokand. În 2022 Isfana a fost redenumit în onoarea omului politic și scriitorului kârgâz Ishak Razzakov, unul dintre primii șefi de partid kârgâzi, persecutat de Stalin și executat în 1938. Economia se bazează pe fructe uscate, tutun, creșterea oilor și mici întreprinderi, în timp ce mulți locuitori muncesc ca emigranți sezonieri în Rusia.",
+      en: "Razzakov, known until 2022 as Isfana, lies at the far western tip of the Batken Region at around 1100 metres above sea level and has about 28,000 inhabitants. The town is surrounded on three sides by Tajik territory and can be reached from the Kyrgyz capital only via long detours or by aircraft. As early as the 9th century, an important caravan stop on the route between Khujand and Kashgar was located here, and the present-day town grew out of several villages that, in the 19th century, were part of the Kokand Khanate. In 2022 Isfana was renamed in honour of the Kyrgyz politician and writer Ishak Razzakov, one of the first Kyrgyz Communist Party chiefs, persecuted by Stalin and executed in 1938. The local economy rests on dried fruit, tobacco cultivation, sheep breeding and small workshops, while many residents work seasonally as labour migrants in Russia."
+    }
+  
+  },
+  {
+    id: "kara-suu-cities-v2",
+    type: "city",
+    parent: "KG-O",
+    coords: [72.86, 40.7],
+    name: {
+      de: "Karasuu",
+      hu: "Kara-Szuu",
+      ro: "Kara-Suu",
+      en: "Kara-Suu"
+    },
+    description: {
+      de: "Eine Grenzstadt nahe Osch, die durch einen Kanal direkt von der usbekischen Stadt Qorasuv getrennt ist.",
+      hu: "Határváros Os közelében, amelyet egy csatorna választ el az üzbég Koraszuv városától.",
+      ro: "Un oraș de graniță lângă Osh, despărțit direct de orașul uzbec Qorasuv printr-un canal.",
+      en: "A border city near Osh, separated directly from the Uzbek city of Qorasuv by a canal."
+    },
+    facts: {
+      de: [
+        "Besitzt einen der größten Großhandelsmärkte im Ferganatal.",
+        "Ein wichtiger Knotenpunkt für den Handel mit China und Usbekistan."
+      ],
+      hu: [
+        "A Fergana-völgy egyik legnagyobb nagykereskedelmi piacával rendelkezik.",
+        "Fontos csomópont a Kínával és Üzbegisztánnal folytatott kereskedelemben."
+      ],
+      ro: [
+        "Are una dintre cele mai mari piețe en-gros din Valea Fergana.",
+        "Un nod important pentru comerțul cu China și Uzbekistan."
+      ],
+      en: [
+        "Has one of the largest wholesale markets in the Fergana Valley.",
+        "A major hub for trade with China and Uzbekistan."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Karasuu liegt nur etwa 25 Kilometer nordöstlich von Osch im fruchtbaren Ferganatal, direkt an der Grenze zu Usbekistan, von dem es lediglich ein schmaler Bewässerungskanal trennt. Die kirgisische Stadt Kara-Suu und die spiegelbildlich auf der anderen Kanalseite liegende usbekische Stadt Qorasuv bilden eine eng verzahnte, ethnisch gemischte Doppelstadt mit traditionell starken Handelsbeziehungen. Mit rund 25.000 Einwohnern gehört Kara-Suu zu den lebendigsten Marktstädten der Region: Der riesige Großhandelsmarkt Kara-Suu-Bazar zählt zu den größten im gesamten Ferganatal und versorgt Händler aus Kirgisistan, Usbekistan, Tadschikistan und China mit chinesischen Konsumgütern, Textilien, Schuhen, Haushaltswaren und Elektronik. Wirtschaftlich profitiert die Stadt zudem von Reisanbau, Baumwollverarbeitung und Trockenfrüchten. Politische Spannungen und gelegentliche Schließungen des Grenzübergangs treffen die Bevölkerung hart.",
+      hu: "Kara-Szuu mindössze mintegy 25 kilométerre északkeletre fekszik Ostól a termékeny Fergana-völgyben, közvetlenül az üzbég határ mellett, amelytől csupán egy keskeny öntözőcsatorna választja el. A kirgizisztáni Kara-Szuut és a csatorna túlpartján tükörképként elhelyezkedő üzbég Koraszuvot szorosan összefonódó, vegyes etnikumú ikervárosként szokták emlegetni, amelynek hagyományosan élénk kereskedelmi kapcsolatai vannak. Mintegy 25 ezer lakosával Kara-Szuu a régió egyik legpezsgőbb piacvárosa: a hatalmas Kara-Szuu nagykereskedelmi bazár az egész Fergana-völgy legnagyobbjai közé tartozik, és Kirgizisztán, Üzbegisztán, Tadzsikisztán és Kína kereskedőit látja el kínai fogyasztási cikkekkel, textíliákkal, cipőkkel, háztartási eszközökkel és elektronikai termékekkel. A városhoz emellett rizstermesztés, gyapotfeldolgozás és aszalt gyümölcs export kapcsolódik. A politikai feszültségek és a határátkelő időnkénti lezárása súlyosan érinti a lakosságot.",
+      ro: "Kara-Suu se află la doar circa 25 de kilometri nord-est de Osh, în fertila Vale Fergana, chiar la granița cu Uzbekistanul, de care îl desparte doar un canal îngust de irigații. Orașul kârgâz Kara-Suu și orașul uzbec Qorasuv, situat în oglindă pe celălalt mal al canalului, formează un veritabil oraș geamăn, etnic mixt și strâns interconectat, cu legături comerciale tradițional puternice. Cu aproximativ 25.000 de locuitori, Kara-Suu este unul dintre cele mai vibrante orașe-piață ale regiunii: bazarul angro Kara-Suu este printre cele mai mari din întreaga Vale Fergana și aprovizionează negustori din Kârgâzstan, Uzbekistan, Tadjikistan și China cu produse chinezești de larg consum, textile, încălțăminte, articole de uz casnic și electronice. Orașul beneficiază și de cultivarea orezului, prelucrarea bumbacului și exportul de fructe uscate. Tensiunile politice și închiderile periodice ale punctului de frontieră lovesc puternic populația.",
+      en: "Kara-Suu lies only about 25 kilometres northeast of Osh in the fertile Fergana Valley, right against the Uzbek border, separated from it by no more than a narrow irrigation canal. The Kyrgyz town of Kara-Suu and the Uzbek town of Qorasuv, mirrored on the opposite bank of the same channel, form a tightly interlocked, ethnically mixed twin city with traditionally strong commercial ties. With around 25,000 inhabitants, Kara-Suu is among the busiest market towns of the region: the vast Kara-Suu wholesale bazaar is one of the largest in the whole Fergana Valley and supplies traders from Kyrgyzstan, Uzbekistan, Tajikistan and China with Chinese consumer goods, textiles, shoes, household wares and electronics. The town also benefits from rice growing, cotton processing and dried-fruit exports. Political tensions and occasional closures of the border crossing hit the population hard."
+    }
+  
+  },
+  {
+    id: "tash-kumyr-cities-v2",
+    type: "city",
+    parent: "KG-J",
+    coords: [72.22, 41.35],
+    name: {
+      de: "Tasch-Kömür",
+      hu: "Tas-Kumir",
+      ro: "Tash-Kumyr",
+      en: "Tash-Kumyr"
+    },
+    description: {
+      de: "Eine Industriestadt am Fluss Naryn, die für ihren Kohlebergbau und die Wasserkraftwerke bekannt ist.",
+      hu: "Iparváros a Narin folyó mentén, amely szénbányászatáról és vízerőműveiről ismert.",
+      ro: "Un oraș industrial pe râul Naryn, cunoscut pentru exploatarea cărbunelui și centralele hidroelectrice.",
+      en: "An industrial city on the Naryn River, known for its coal mining and hydroelectric power plants."
+    },
+    facts: {
+      de: [
+        "In der Umgebung wurden bedeutende Dinosaurierfossilien gefunden.",
+        "Wurde 1943 offiziell als Stadt gegründet."
+      ],
+      hu: [
+        "A környéken jelentős dinoszaurusz fosszíliákat találtak.",
+        "1943-ban alapították hivatalosan városként."
+      ],
+      ro: [
+        "În apropiere au fost găsite fosile importante de dinozauri.",
+        "A fost fondat oficial ca oraș în 1943."
+      ],
+      en: [
+        "Significant dinosaur fossils have been found in the surrounding area.",
+        "Officially established as a city in 1943."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Tasch-Kömür ist eine alte Industriestadt am Naryn-Fluss in der Region Dschalalabat und liegt auf rund 600 Metern Höhe in einer engen Schlucht, die das Innere Tian-Shan-Gebirge mit dem Ferganatal verbindet. Der Name lässt sich mit Steinkohle übersetzen und verweist auf die seit den 1930er Jahren intensiv betriebene Förderung hochwertiger Anthrazitkohle in den umliegenden Bergwerken. Die Stadt erhielt 1943 offiziell Stadtrechte und wuchs während der sowjetischen Industrialisierung rasch an. Neben dem Kohleabbau entstanden hier ein Halbleiterwerk, das einst Solarpaneele für sowjetische Raumfahrzeuge herstellte, sowie zwei große Wasserkraftwerke, das Tasch-Kömür-Werk und das nahegelegene Kurp-Sai-Werk, die zusammen einen erheblichen Teil des kirgisischen Stroms erzeugen. Bei Bauarbeiten am Damm wurden in den 1970er Jahren bedeutende Dinosaurierfossilien aus der Jurazeit entdeckt.",
+      hu: "Tas-Kumir egy régi iparváros a Narin folyó mentén, a Dzsalalabad tartományban, mintegy 600 méter magasan egy keskeny szurdokban, amely a Belső-Tien-san hegységet köti össze a Fergana-völggyel. A név jelentése szénkő, és arra utal, hogy az 1930-as évek óta itt nagy intenzitással bányásznak kiváló minőségű antracit szenet. A települést 1943-ban hivatalosan várossá nyilvánították, és a szovjet iparosítás idején gyors növekedésnek indult. A szénbányászat mellett félvezetőgyár épült itt, amely egykor a szovjet űrhajók napelemeit készítette, valamint két nagy vízerőmű, a Tas-Kumir és a közeli Kurp-Szaj erőmű, amelyek együtt Kirgizisztán áramtermelésének jelentős részét adják. A gát építésekor az 1970-es években jelentős dinoszaurusz-fosszíliákat találtak a jura időszakból.",
+      ro: "Tash-Kumyr este un vechi oraș industrial pe râul Naryn, în regiunea Jalal-Abad, situat la circa 600 de metri altitudine, într-o trecătoare îngustă care leagă Tian Shanul interior de Valea Fergana. Numele se traduce prin Cărbune de Piatră și amintește că din anii 1930 aici se exploatează intens cărbune antracit de calitate. Localitatea a primit oficial statutul de oraș în 1943 și a crescut rapid în perioada industrializării sovietice. Pe lângă mineritul cărbunelui s-au dezvoltat o uzină de semiconductori, care fabrica cândva panouri solare pentru navele spațiale sovietice, și două mari centrale hidroelectrice, Tash-Kumyr și Kurp-Sai, care împreună produc o parte semnificativă din electricitatea Kârgâzstanului. La lucrările pentru baraj, în anii 1970, au fost descoperite importante fosile de dinozauri din perioada jurasică.",
+      en: "Tash-Kumyr is an old industrial town on the Naryn River in the Jalal-Abad Region, set at about 600 metres above sea level in a narrow gorge linking the Inner Tian Shan with the Fergana Valley. The name translates as Stone Coal and refers to the intensive mining of high-quality anthracite carried out in the surrounding pits since the 1930s. The settlement was granted city status in 1943 and grew rapidly during Soviet industrialisation. Alongside coal mining, a semiconductor plant was built here that once produced solar panels for Soviet spacecraft, as well as two major hydroelectric power stations, Tash-Kumyr and the nearby Kurpsai, which together generate a significant share of Kyrgyzstan's electricity. During construction of the dam in the 1970s, important Jurassic dinosaur fossils were unearthed in the surrounding area."
+    }
+  
+  },
+  {
+    id: "mailuu-suu-cities-v2",
+    type: "city",
+    parent: "KG-J",
+    coords: [72.46, 41.26],
+    name: {
+      de: "Mailuu-Suu",
+      hu: "Majluu-Szuu",
+      ro: "Mailuu-Suu",
+      en: "Mailuu-Suu"
+    },
+    description: {
+      de: "Eine ehemalige sowjetische geschlossene Stadt, die für ihren Uranbergbau während des Kalten Krieges berühmt war.",
+      hu: "Egykori szovjet zárt város, amely a hidegháború alatti uránbányászatáról volt híres.",
+      ro: "Un fost oraș închis sovietic, faimos pentru exploatarea uraniului în timpul Războiului Rece.",
+      en: "A former Soviet closed city, famous for its uranium mining during the Cold War."
+    },
+    facts: {
+      de: [
+        "Das hier geförderte Uran wurde für das sowjetische Atomprogramm genutzt.",
+        "Heute ist die Glühbirnenproduktion ein wichtiger Wirtschaftszweig."
+      ],
+      hu: [
+        "Az itt bányászott uránt a szovjet atomprogramhoz használták fel.",
+        "Ma a villanykörte-gyártás fontos gazdasági ágazat."
+      ],
+      ro: [
+        "Uraniul extras aici a fost folosit pentru programul nuclear sovietic.",
+        "Astăzi, producția de becuri este un sector economic important."
+      ],
+      en: [
+        "The uranium mined here was used for the Soviet nuclear program.",
+        "Today, light bulb production is a major economic sector."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Mailuu-Suu liegt in der Region Dschalalabat auf rund 1000 Metern Höhe in einer engen Bergschlucht und zählt heute etwa 24.000 Einwohner. Während der Sowjetzeit war die Stadt eine streng abgeriegelte geschlossene Stadt, in der zwischen 1946 und 1968 hochwertige Uranerze für das sowjetische Atomwaffenprogramm gefördert und verarbeitet wurden. Über zehntausend Tonnen radioaktiver Schlamm und Abraum lagern bis heute in 23 oft schlecht gesicherten Halden in der Umgebung, weshalb die Stadt vom Blacksmith Institute in den 2000er Jahren auf die Liste der zehn am stärksten verschmutzten Orte der Welt gesetzt wurde. Heute laufen umfangreiche internationale Sanierungsprogramme der Weltbank und der EU. Wirtschaftlich gewann die Stadt nach dem Niedergang des Uranbergbaus durch eine große Glühbirnen- und Glaslampenfabrik wieder etwas an Bedeutung, die einen Großteil Zentralasiens beliefert.",
+      hu: "Majluu-Szuu Dzsalalabad tartományban, körülbelül 1000 méter magasan, egy szűk hegyszorosban fekszik, és ma mintegy 24 ezer lakost számlál. A szovjet korszakban szigorúan elzárt zárt város volt, ahol 1946 és 1968 között nagy tisztaságú uránércet bányásztak és dolgoztak fel a szovjet atomfegyver-program számára. Több mint tízezer tonna radioaktív iszap és meddőhányó halmozódott fel 23, gyakran rosszul biztosított depóniában a környéken, ezért a várost a 2000-es években a Blacksmith Institute felvette a világ tíz legszennyezettebb helyének listájára. Jelenleg jelentős nemzetközi rehabilitációs programok zajlanak a Világbank és az EU támogatásával. Gazdaságilag a város az uránbányászat hanyatlása után egy nagy izzólámpa- és üvegcsőgyár révén tett szert új jelentőségre, amely Közép-Ázsia jelentős részét látja el termékkel.",
+      ro: "Mailuu-Suu se află în regiunea Jalal-Abad, la circa 1000 de metri altitudine, într-un defileu strâmt, și are astăzi aproximativ 24.000 de locuitori. În perioada sovietică a fost un oraș închis strict secret, unde între 1946 și 1968 s-a extras și prelucrat minereu de uraniu de mare puritate pentru programul nuclear militar sovietic. Peste zece mii de tone de șlam și steril radioactiv sunt încă depozitate în 23 de halde adesea slab securizate din împrejurimi, motiv pentru care orașul a fost inclus în anii 2000 de Blacksmith Institute pe lista celor mai poluate zece locuri din lume. În prezent se derulează ample programe internaționale de reabilitare ale Băncii Mondiale și UE. Economic, orașul a recâștigat o oarecare importanță după declinul uraniului datorită unei mari fabrici de becuri și tuburi de sticlă, care aprovizionează o bună parte din Asia Centrală.",
+      en: "Mailuu-Suu lies in the Jalal-Abad Region at about 1000 metres above sea level in a narrow mountain gorge and is home to roughly 24,000 inhabitants today. In Soviet times the town was a strictly sealed closed city, where between 1946 and 1968 high-grade uranium ore was mined and processed for the Soviet nuclear weapons programme. More than ten thousand tonnes of radioactive sludge and tailings still sit in 23 often poorly secured dumps around the town, which led the Blacksmith Institute in the 2000s to list it among the ten most polluted places on Earth. Major international remediation programmes funded by the World Bank and the EU are currently under way. Economically the town regained some importance after the decline of uranium mining thanks to a large incandescent bulb and glass-tube factory that supplies much of Central Asia."
+    }
+  
+  },
+  {
+    id: "kochkor-ata-cities-v2",
+    type: "city",
+    parent: "KG-J",
+    coords: [72.48, 41.03],
+    name: {
+      de: "Kotschkor-Ata",
+      hu: "Kocskor-Ata",
+      ro: "Kochkor-Ata",
+      en: "Kochkor-Ata"
+    },
+    description: {
+      de: "Eine Stadt in der Region Dschalalabat, deren Wirtschaft traditionell von der Erdöl- und Erdgasförderung geprägt ist.",
+      hu: "Város Dzsalalabad régióban, amelynek gazdaságát hagyományosan a kőolaj- és földgázkitermelés határozza meg.",
+      ro: "Un oraș din regiunea Jalal-Abad, a cărui economie este tradițional dominată de extracția de petrol și gaze.",
+      en: "A city in the Jalal-Abad Region whose economy is traditionally dominated by oil and gas extraction."
+    },
+    facts: {
+      de: [
+        "Wurde 1952 im Zuge der Ölentdeckungen gegründet.",
+        "Der örtliche Fußballverein Nefttschi gehört zu den erfolgreichsten des Landes."
+      ],
+      hu: [
+        "1952-ben alapították az olajfelfedezések nyomán.",
+        "A helyi Neftcsi futballklub az ország egyik legsikeresebb csapata."
+      ],
+      ro: [
+        "A fost fondat în 1952 în urma descoperirilor de petrol.",
+        "Clubul local de fotbal Neftchi este unul dintre cele mai de succes din țară."
+      ],
+      en: [
+        "Founded in 1952 following oil discoveries.",
+        "The local football club Neftchi is one of the most successful in the country."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Kotschkor-Ata liegt in der Region Dschalalabat auf rund 800 Metern Höhe und hat etwa 22.000 Einwohner. Die Stadt wurde 1952 gegründet, nachdem in der Umgebung große Erdöl- und Erdgasvorkommen entdeckt worden waren, und entwickelte sich rasch zum Zentrum der kirgisischen Erdölindustrie. Bis heute befindet sich hier der Sitz des staatlichen Erdölkonzerns Kyrgyzneftegas, der die meisten der noch aktiven Bohrungen im Land betreibt. Der Stadtname bedeutet sinngemäß Vater Widder und geht auf ein nahegelegenes Heiligtum zurück, das einer mythischen Schutzfigur der Hirten geweiht ist. Sportlich ist Kotschkor-Ata für den traditionsreichen Fußballverein Nefttschi bekannt, der mehrfach kirgisischer Meister wurde und zu den ältesten Klubs der Sowjetzeit gehörte. Wirtschaftlich profitiert die Stadt zudem vom Anbau von Baumwolle, Tabak und Mais sowie von der Verarbeitung dieser landwirtschaftlichen Produkte.",
+      hu: "Kocskor-Ata a Dzsalalabad tartományban fekszik, körülbelül 800 méter magasan, és mintegy 22 ezer lakossal rendelkezik. A várost 1952-ben alapították, miután a környéken jelentős kőolaj- és földgázlelőhelyeket fedeztek fel, és gyorsan a kirgiz olajipar központjává vált. Itt található a mai napig az állami Kirgizneftegáz olajvállalat székhelye, amely az ország még működő olajkutainak nagy részét üzemelteti. A város neve nagyjából Apa-Kos-t jelent, és egy közeli, a pásztorok mitikus védőszellemének szentelt szent helyre utal. Sportéletét a hagyományokban gazdag Neftcsi futballklub fémjelzi, amely többször nyert kirgiz bajnoki címet, és a szovjet korszak egyik legrégebbi klubja volt. Gazdaságát a kőolaj mellett a gyapot-, dohány- és kukoricatermesztés, valamint ezek feldolgozása élteti.",
+      ro: "Kochkor-Ata se află în regiunea Jalal-Abad, la circa 800 de metri altitudine, și are aproximativ 22.000 de locuitori. Orașul a fost fondat în 1952, după ce în împrejurimi au fost descoperite zăcăminte importante de petrol și gaze, devenind rapid centrul industriei petroliere kârgâze. Aici se află și astăzi sediul companiei de stat Kyrgyzneftegaz, care exploatează majoritatea sondelor active din țară. Numele orașului se traduce aproximativ prin Tatăl Berbec și provine de la un sanctuar din apropiere dedicat unui spirit protector mitic al păstorilor. Sportiv, Kochkor-Ata este cunoscut pentru clubul de fotbal cu tradiție Neftchi, multiplu campion al Kârgâzstanului și unul dintre cele mai vechi cluburi din epoca sovietică. Pe lângă petrol, economia se sprijină pe cultivarea bumbacului, tutunului și porumbului și pe prelucrarea acestor produse agricole.",
+      en: "Kochkor-Ata lies in the Jalal-Abad Region at about 800 metres above sea level and has roughly 22,000 inhabitants. The town was founded in 1952 after major oil and gas deposits were discovered in the surrounding area and rapidly became the centre of the Kyrgyz oil industry. To this day it hosts the headquarters of the state oil company Kyrgyzneftegaz, which operates most of the country's still active wells. The town's name roughly means Father Ram and refers to a nearby shrine dedicated to a mythical protector of shepherds. In sports Kochkor-Ata is renowned for its tradition-rich football club Neftchi, which has won the Kyrgyz championship several times and is among the oldest clubs of the Soviet era. Beyond oil, the local economy is supported by the cultivation and processing of cotton, tobacco and maize."
+    }
+  
+  },
+  {
+    id: "kant-cities-v2",
+    type: "city",
+    parent: "KG-C",
+    coords: [74.85, 42.89],
+    name: {
+      de: "Kant",
+      hu: "Kant",
+      ro: "Kant",
+      en: "Kant"
+    },
+    description: {
+      de: "Eine Stadt im Tschüi-Tal in der Nähe von Bischkek, die heute einen wichtigen russischen Militärflugplatz beherbergt.",
+      hu: "Város a Csüi-völgyben Biskek közelében, amely ma egy fontos orosz katonai repülőtérnek ad otthont.",
+      ro: "Un oraș în valea Chuy lângă Bishkek, care găzduiește astăzi un important aeroport militar rus.",
+      en: "A city in the Chuy Valley near Bishkek, which today hosts an important Russian military airbase."
+    },
+    facts: {
+      de: [
+        "Wurde nach dem deutschen Philosophen Immanuel Kant benannt.",
+        "War früher ein wichtiges Zentrum der deutschen Minderheit in Kirgisistan."
+      ],
+      hu: [
+        "Immanuel Kant német filozófusról nevezték el.",
+        "Korábban a kirgizisztáni német kisebbség fontos központja volt."
+      ],
+      ro: [
+        "A fost numit după filosoful german Immanuel Kant.",
+        "În trecut, a fost un centru important al minorității germane din Kârgâzstan."
+      ],
+      en: [
+        "Named after the German philosopher Immanuel Kant.",
+        "Was formerly an important center for the German minority in Kyrgyzstan."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Kant liegt rund 20 Kilometer östlich von Bischkek im Tschüi-Tal auf etwa 750 Metern Höhe und zählt heute knapp 30.000 Einwohner. Die Stadt entstand Ende des 19. Jahrhunderts als deutsche Mennoniten-Siedlung und erhielt ihren Namen zu Ehren des Königsberger Philosophen Immanuel Kant, dessen aufklärerisches Erbe von den evangelisch-lutherischen Siedlern hochgehalten wurde. Bis in die 1990er Jahre lebte hier eine der größten deutschsprachigen Gemeinden Kirgisistans, deren Einfluss noch heute in der typischen Bauweise einiger Gehöfte sichtbar ist. Wirtschaftlich dominiert eine große Zementfabrik aus den 1960er Jahren, die zu den modernsten Zentralasiens zählt, sowie eine Zuckerrübenraffinerie und Maschinenwerkstätten. Strategisch besonders wichtig ist der Militärflughafen Kant, der seit 2003 als russischer Stützpunkt der Organisation des Vertrags über kollektive Sicherheit dient und eine Eskadrille von Kampfflugzeugen beherbergt.",
+      hu: "Kant Biskektől mintegy 20 kilométerre keletre, a Csüi-völgyben, körülbelül 750 méter magasan fekszik, és ma alig 30 ezer lakossal rendelkezik. A város a 19. század végén jött létre német mennonita telepesfaluként, és nevét a königsbergi filozófus, Immanuel Kant tiszteletére kapta, akinek felvilágosító örökségét az evangélikus-lutheránus telepesek nagyra tartották. Az 1990-es évekig itt élt Kirgizisztán egyik legnagyobb német ajkú közössége, amelynek hatása még ma is látható egyes parasztgazdaságok jellegzetes építészetén. Gazdaságát egy 1960-as évekbeli, közép-ázsiai szinten is modernnek számító nagy cementgyár, egy cukorrépa-finomító és gépipari műhelyek dominálják. Stratégiai szempontból különösen fontos a Kanti katonai repülőtér, amely 2003 óta a Kollektív Biztonsági Szerződés Szervezetének orosz támaszpontjaként működik, és vadászrepülő-kontingenst szállásol el.",
+      ro: "Kant se află la circa 20 de kilometri est de Bishkek, în valea Chuy, la o altitudine de aproximativ 750 de metri, și are astăzi puțin sub 30.000 de locuitori. Orașul a apărut la sfârșitul secolului al XIX-lea ca o așezare de menoniți germani și a primit numele în onoarea filosofului din Königsberg Immanuel Kant, ai cărui idei iluministe erau prețuite de coloniștii evanghelici-luterani. Până în anii 1990 a trăit aici una dintre cele mai mari comunități germanofone din Kârgâzstan, a cărei influență se vede încă în arhitectura caracteristică a unor gospodării. Economic predomină o mare fabrică de ciment din anii 1960, considerată printre cele mai moderne din Asia Centrală, alături de o rafinărie de sfeclă de zahăr și ateliere mecanice. Strategic, este important aeroportul militar Kant, care din 2003 funcționează ca bază rusească a Organizației Tratatului de Securitate Colectivă și găzduiește o escadrilă de avioane de luptă.",
+      en: "Kant lies about 20 kilometres east of Bishkek in the Chuy Valley at around 750 metres above sea level and has just under 30,000 inhabitants today. The town emerged in the late 19th century as a German Mennonite settlement and was named in honour of the Königsberg philosopher Immanuel Kant, whose Enlightenment legacy the Evangelical-Lutheran settlers held in high regard. Until the 1990s, one of the largest German-speaking communities in Kyrgyzstan lived here, and its influence remains visible in the distinctive architecture of some farmsteads. The local economy is dominated by a large cement plant built in the 1960s, considered one of the most modern in Central Asia, along with a sugar-beet refinery and engineering workshops. Strategically important is Kant Air Base, which since 2003 has hosted Russian forces under the Collective Security Treaty Organisation and houses a squadron of combat aircraft."
+    }
+  
+  },
+  {
+    id: "cholpon-ata-cities-v2",
+    type: "city",
+    parent: "KG-Y",
+    coords: [77.08, 42.65],
+    name: {
+      de: "Tscholponata",
+      hu: "Csolpon-Ata",
+      ro: "Cholpon-Ata",
+      en: "Cholpon-Ata"
+    },
+    description: {
+      de: "Ein beliebter Urlaubsort am Nordufer des Yssykköl-Sees, bekannt für seine Sandstrände und Sanatorien.",
+      hu: "Népszerű üdülőváros az Iszik-köl tó északi partján, amely homokos strandjairól és szanatóriumairól ismert.",
+      ro: "O stațiune populară pe malul nordic al lacului Issyk-Kul, cunoscută pentru plajele sale cu nisip și sanatoriile sale.",
+      en: "A popular resort town on the northern shore of Lake Issyk-Kul, known for its sandy beaches and sanatoriums."
+    },
+    facts: {
+      de: [
+        "War Austragungsort der ersten World Nomad Games.",
+        "In der Nähe befinden sich beeindruckende alte Petroglyphen."
+      ],
+      hu: [
+        "A Nomád Világjátékok első házigazdája volt.",
+        "A közelben lenyűgöző ősi sziklarajzok találhatók."
+      ],
+      ro: [
+        "A găzduit primele Jocuri Mondiale ale Nomazilor.",
+        "În apropiere se află petroglife antice impresionante."
+      ],
+      en: [
+        "Hosted the first World Nomad Games.",
+        "Impressive ancient petroglyphs are located nearby."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Tscholponata liegt am Nordufer des türkisblauen Yssykköl-Sees auf rund 1620 Metern Höhe und gilt als wichtigster Badeort Kirgisistans. Die Stadt zählt etwa 13.000 ständige Einwohner, in den Sommermonaten verzehnfacht sich diese Zahl jedoch durch Touristen aus Kirgisistan, Kasachstan, Russland und in jüngerer Zeit auch aus China. Tscholponata bedeutet auf Kirgisisch sinngemäß Vater des Morgensterns und geht auf eine Sage zurück, in der die Götter den Hirten am Seeufer den Planeten Venus als Schutzpatron schickten. Schon zu Sowjetzeiten lagen hier Dutzende Sanatorien für Werktätige, deren weiße Pavillons im Pinienpark des Stadtzentrums noch heute prägend sind. Außerhalb der Stadt liegt das größte Petroglyphenfeld Zentralasiens mit über 5000 in Stein geritzten Tier- und Jagdmotiven aus der Bronze- und Frühmittelalterzeit. Tscholponata war zudem 2014 erster Austragungsort der World Nomad Games.",
+      hu: "Csolpon-Ata az Iszik-köl türkizkék vizű tó északi partján, mintegy 1620 méter magasan fekszik, és Kirgizisztán legfontosabb fürdővárosának számít. Állandó lakossága körülbelül 13 ezer fő, ám a nyári hónapokban ez a szám a kirgiz, kazah, orosz és egyre inkább kínai turisták érkezésével akár tízszeresére is duzzad. A városnév kirgiz nyelven nagyjából a Hajnalcsillag Atyját jelenti, és egy mondára utal, mely szerint az istenek a tóparti pásztorok védőszellemeként a Vénusz bolygót küldték. Már a szovjet érában is itt működött a dolgozók pihenésére létesített tucatnyi szanatórium, amelyek fehér pavilonjai a városközpont fenyőparkjában máig meghatározzák az utcaképet. A városon kívül található Közép-Ázsia legnagyobb sziklarajz-mezője, több mint 5000 vésett állat- és vadászjelenettel a bronzkortól a kora középkorig. Csolpon-Ata 2014-ben adott otthont az első Nomád Világjátékoknak.",
+      ro: "Cholpon-Ata se află pe malul nordic al lacului Issyk-Kul, cu apele sale turcoaz, la circa 1620 de metri altitudine, și este considerată cea mai importantă stațiune balneară a Kârgâzstanului. Orașul are aproximativ 13.000 de locuitori permanenți, însă în lunile de vară numărul lor crește de zece ori datorită turiștilor din Kârgâzstan, Kazahstan, Rusia și, mai recent, China. Numele se traduce aproximativ prin Tatăl Luceafărului și provine dintr-o legendă în care zeii i-au trimis ciobanilor de pe malul lacului planeta Venus drept protector. Încă din epoca sovietică, aici funcționau zeci de sanatorii pentru muncitori, ale căror pavilioane albe domină și astăzi parcul de pini din centrul orașului. La marginea localității se află cel mai mare câmp de petroglife din Asia Centrală, cu peste 5000 de scene gravate de animale și vânătoare, din epoca bronzului până în Evul Mediu timpuriu. În 2014, Cholpon-Ata a găzduit primele Jocuri Mondiale ale Nomazilor.",
+      en: "Cholpon-Ata lies on the northern shore of turquoise Lake Issyk-Kul at around 1620 metres above sea level and is regarded as the most important resort town in Kyrgyzstan. Its permanent population is about 13,000, but in the summer months this number grows tenfold thanks to visitors from Kyrgyzstan, Kazakhstan, Russia and, increasingly, China. The name roughly translates as Father of the Morning Star and refers to a legend in which the gods sent the planet Venus to watch over the shepherds along the lake. Already in Soviet times dozens of sanatoriums for industrial workers stood here, and their whitewashed pavilions among the pines of the central park still shape the streetscape. On the edge of town lies the largest petroglyph field in Central Asia, with more than 5000 carved animal and hunting scenes spanning the Bronze Age to the early Middle Ages. In 2014 Cholpon-Ata also hosted the very first World Nomad Games."
+    }
+  
+  },
+  {
+    id: "kerben-cities-v2",
+    type: "city",
+    parent: "KG-J",
+    coords: [71.76, 41.5],
+    name: {
+      de: "Kerben",
+      hu: "Kerben",
+      ro: "Kerben",
+      en: "Kerben"
+    },
+    description: {
+      de: "Eine Kleinstadt im Bezirk Aksy, die in einer malerischen Berglandschaft im Westen des Landes liegt.",
+      hu: "Kisváros az Akszi körzetben, amely egy festői hegyvidéki környezetben, az ország nyugati részén fekszik.",
+      ro: "Un mic oraș din districtul Aksy, situat într-un peisaj montan pitoresc în vestul țării.",
+      en: "A small town in the Aksy District, located in a picturesque mountainous landscape in the west of the country."
+    },
+    facts: {
+      de: [
+        "Früher hieß die Siedlung Karawan.",
+        "Erhielt im Jahr 2004 offiziell den Status einer Stadt."
+      ],
+      hu: [
+        "Korábban a települést Karavánnak hívták.",
+        "2004-ben kapott hivatalosan városi rangot."
+      ],
+      ro: [
+        "Așezarea a fost numită anterior Karavan.",
+        "A primit oficial statutul de oraș în 2004."
+      ],
+      en: [
+        "The settlement was previously called Karavan.",
+        "Officially received city status in 2004."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Kerben liegt im Bezirk Aksy in der Region Dschalalabat, in einer malerischen Bergregion auf rund 950 Metern Höhe am Übergang vom Ferganatal in das innere Tian-Shan-Gebirge. Die Stadt zählt etwa 14.000 Einwohner und trug bis 2002 den Namen Karawan, was schon im Namen die Bedeutung dieses Ortes für den historischen Fernhandel andeutet: Über die nahe Schlucht des Flusses Kasansaj zogen jahrhundertelang Karawanen aus dem Ferganatal über Hochgebirgspässe nach Kaschgar im chinesischen Tarim-Becken. Im Jahr 2004 erhielt Kerben offiziell Stadtrechte. Wirtschaftlich basiert das Leben hier auf Bewässerungsbau für Tabak, Mais, Aprikosen und Granatäpfel sowie auf der Vieh- und Hirschzucht. Der nahegelegene Sary-Tschelek-Biosphärenreservat mit seinem türkisfarbenen Bergsee und uralten Walnusswäldern macht Kerben zudem zu einem Ausgangspunkt für naturnahen Tourismus.",
+      hu: "Kerben az Akszi körzetben, Dzsalalabad tartományban fekszik, festői hegyvidéki környezetben, mintegy 950 méter magasan, ott, ahol a Fergana-völgy átmegy a Belső-Tien-san vidékére. A városnak körülbelül 14 ezer lakosa van, és 2002-ig a Karaván nevet viselte, ami önmagában jelzi a település egykori szerepét a távolsági kereskedelemben: a közeli Kazanszaj folyó szurdokán át évszázadokon keresztül vonultak a karavánok a Fergana-völgyből magashegyi hágókon keresztül a kínai Tarim-medencei Kasgarba. 2004-ben kapott hivatalosan városi rangot. A helyi gazdaság öntözéses mezőgazdaságra épül: dohányt, kukoricát, sárgabarackot és gránátalmát termesztenek, emellett a szarvasmarha- és szarvastenyésztés is fontos. A közeli Szari-Cselek bioszféra-rezervátum türkizkék hegyi tavával és ősi dióerdejével Kerbent egyben ökoturisztikai kapuvá teszi.",
+      ro: "Kerben se află în districtul Aksy, în regiunea Jalal-Abad, într-un peisaj montan pitoresc, la circa 950 de metri altitudine, la trecerea din Valea Fergana spre interiorul munților Tian Shan. Orașul are aproximativ 14.000 de locuitori și până în 2002 s-a numit Karavan, denumire care sugerează rolul său istoric în comerțul caravanier: prin defileul apropiat al râului Kasansay au trecut secole de-a rândul caravane din Valea Fergana, peste trecători înalte, spre Kashgar, în Bazinul Tarim chinezesc. În 2004 a primit oficial statutul de oraș. Economia locală se bazează pe agricultură irigată — tutun, porumb, caise și rodii — precum și pe creșterea bovinelor și a cerbilor. Apropiatul rezervație a biosferei Sary-Chelek, cu lacul său de munte turcoaz și pădurile străvechi de nuc, face din Kerben și o poartă de intrare spre turismul ecologic.",
+      en: "Kerben lies in the Aksy District of the Jalal-Abad Region, in a picturesque mountain setting at about 950 metres above sea level, where the Fergana Valley gives way to the Inner Tian Shan. The town has roughly 14,000 inhabitants and was known until 2002 by the name Karavan, a name that already hints at its historical role in long-distance trade: through the nearby gorge of the Kasan-Say River, caravans travelled for centuries from the Fergana Valley over high mountain passes towards Kashgar in China's Tarim Basin. In 2004 Kerben was officially granted city status. The local economy is based on irrigated agriculture, with tobacco, maize, apricots and pomegranates, as well as cattle and deer farming. The nearby Sary-Chelek Biosphere Reserve, with its turquoise alpine lake and ancient walnut forests, also makes Kerben a gateway for nature tourism."
+    }
+  
+  },
+  {
+    id: "nookat-cities-v2",
+    type: "city",
+    parent: "KG-O",
+    coords: [72.62, 40.26],
+    name: {
+      de: "Nookat",
+      hu: "Nookat",
+      ro: "Nookat",
+      en: "Nookat"
+    },
+    description: {
+      de: "Eine landwirtschaftlich geprägte Stadt südwestlich von Osch, die von den fruchtbaren Böden des Ferganatals profitiert.",
+      hu: "Mezőgazdasági jellegű város Ostól délnyugatra, amely a Fergana-völgy termékeny talajából profitál.",
+      ro: "Un oraș agricol la sud-vest de Osh, care beneficiază de solurile fertile din Valea Fergana.",
+      en: "An agricultural city southwest of Osh that benefits from the fertile soils of the Fergana Valley."
+    },
+    facts: {
+      de: [
+        "Das Zentrum eines großen Obst- und Gemüseanbaugebiets.",
+        "Früher war die Stadt unter dem Namen Eski-Nookat bekannt."
+      ],
+      hu: [
+        "Egy hatalmas gyümölcs- és zöldségtermesztő terület központja.",
+        "Korábban Eszki-Nookat néven volt ismert a város."
+      ],
+      ro: [
+        "Centrul unei mari zone de cultivare a fructelor și legumelor.",
+        "Anterior, orașul a fost cunoscut sub numele de Eski-Nookat."
+      ],
+      en: [
+        "The center of a large fruit and vegetable growing area.",
+        "The city was previously known as Eski-Nookat."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Nookat liegt etwa 50 Kilometer südwestlich von Osch im Süden des Ferganatals auf rund 1100 Metern Höhe und zählt etwa 25.000 Einwohner. Die Region rund um die Stadt gilt als eine der fruchtbarsten Anbaugebiete Kirgisistans und ist besonders berühmt für ihre saftigen Nookat-Aprikosen, dunkelroten Kirschen, Quitten und süßen Trauben, die in den Sommermonaten in Lastwagen direkt über die Berge nach Bischkek und sogar bis Almaty geliefert werden. Der frühere Name der Stadt war Eski-Nookat, was wörtlich Alt-Nookat bedeutet und auf eine Vorgängersiedlung verweist, die bereits zu Zeiten des Kokand-Khanats Marktstatus besaß. Die heutige Bevölkerung ist überwiegend kirgisisch und usbekisch geprägt; daneben leben kleine Gemeinden von Tadschiken, Türken und Russen in der Stadt. In den umliegenden Bergen entspringen mehrere Heilquellen, die immer mehr Wellnesstouristen anziehen.",
+      hu: "Nookat Ostól mintegy 50 kilométerre délnyugatra, a Fergana-völgy déli részén, körülbelül 1100 méter magasan fekszik, és mintegy 25 ezer lakossal rendelkezik. A városát övező vidék Kirgizisztán egyik legtermékenyebb kertészeti területe, és különösen híres szaftos Nookat-sárgabarackjáról, sötétpiros cseresznyéjéről, birsalmájáról és édes szőlőjéről, amelyeket nyaranta teherautóval szállítanak át a hegyeken Biskekbe, sőt egészen Almatiba is. A város korábbi neve Eszki-Nookat, ami szó szerint Ó-Nookatot jelent, és egy korábbi településre utal, amely már a kokandi kánság idején is piacjoggal rendelkezett. A mai lakosság döntő többsége kirgiz és üzbég, mellettük tadzsik, török és orosz közösségek élnek a városban. A környező hegyekben több gyógyforrás fakad, amelyek egyre több wellnessturistát vonzanak.",
+      ro: "Nookat se află la circa 50 de kilometri sud-vest de Osh, în sudul Văii Fergana, la o altitudine de aproximativ 1100 de metri, și are aproximativ 25.000 de locuitori. Regiunea înconjurătoare este una dintre cele mai fertile zone horticole ale Kârgâzstanului, fiind renumită pentru caisele suculente de Nookat, cireșele roșu-închis, gutuile și strugurii dulci, care vara sunt transportați cu camionul peste munți spre Bishkek și chiar până la Almaty. Numele anterior al orașului era Eski-Nookat, adică Nookatul Vechi, și amintește de o așezare predecesoare ce avea statut de târg încă din timpul Hanatului Kokand. Populația actuală este preponderent kârgâză și uzbecă, alături de comunități mai mici de tadjici, turci și ruși. În munții din apropiere izvorăsc mai multe surse termale, care atrag tot mai mulți turiști de wellness.",
+      en: "Nookat lies about 50 kilometres southwest of Osh in the southern Fergana Valley at around 1100 metres above sea level and has roughly 25,000 inhabitants. The surrounding region is one of Kyrgyzstan's most fertile horticultural districts, especially famous for juicy Nookat apricots, deep-red cherries, quinces and sweet grapes, which during the summer months are trucked directly over the mountains to Bishkek and even as far as Almaty. The town's former name, Eski-Nookat, literally meaning Old Nookat, recalls a predecessor settlement that already enjoyed market town status under the Kokand Khanate. The present population is mostly Kyrgyz and Uzbek, alongside smaller communities of Tajiks, Turks and Russians. Several healing hot springs bubble up in the nearby mountains, attracting a growing number of wellness tourists."
+    }
+  
+  },
+  {
+    id: "kochkor-cities-v2",
+    type: "city",
+    parent: "KG-N",
+    coords: [75.65, 42.22],
+    name: {
+      de: "Kotschkor",
+      hu: "Kocskor",
+      ro: "Kochkor",
+      en: "Kochkor"
+    },
+    description: {
+      de: "Eine lebhafte Marktstadt auf dem Weg zum Song-Köl-See, bekannt für ihre kirgisische Filzkunst.",
+      hu: "Nyüzsgő piacváros a Szong-köl tó felé vezető úton, amely kirgiz nemezművészetéről ismert.",
+      ro: "Un oraș-piață animat pe drumul spre lacul Song-Kul, cunoscut pentru arta kârgâză a pâslei.",
+      en: "A lively market town on the way to Lake Song-Kul, known for its Kyrgyz felt art."
+    },
+    facts: {
+      de: [
+        "Ein wichtiges Zentrum für den Ökotourismus.",
+        "Hier kann man Frauen bei der traditionellen Herstellung von Shyrdaks (Filzteppichen) beobachten."
+      ],
+      hu: [
+        "Az ökoturizmus fontos központja.",
+        "Itt megfigyelhető, ahogy az asszonyok hagyományos sirdakokat (nemeztakarókat) készítenek."
+      ],
+      ro: [
+        "Un centru important pentru ecoturism.",
+        "Aici puteți urmări femeile realizând shyrdaks (covoare de pâslă) tradiționale."
+      ],
+      en: [
+        "An important center for ecotourism.",
+        "Here you can watch women making traditional shyrdaks (felt carpets)."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Kotschkor liegt im nördlichen Teil der Region Naryn auf rund 1810 Metern Höhe in einem weiten Hochtal und zählt etwa 13.000 Einwohner. Die Stadt ist seit jeher eine wichtige Karawanen- und Marktstation, denn hier kreuzen sich die Straßen von Bischkek über den Dolon-Pass nach Naryn und der Weg zum Hochgebirgssee Song-Köl, der zu den schönsten Sommerweiden der kirgisischen Hirten gehört. Kotschkor ist landesweit berühmt für seine Filzkunst: In zahlreichen Frauenkooperativen werden hier traditionelle Schyrdaks und Ala-Kijis hergestellt, dicke Filzteppiche aus eingefärbter Schafwolle, deren spiralförmige und zackige Muster jahrhundertealte Hirtensymbole und Schutzzeichen tragen. Diese Filzwaren gelten als wichtigster Beitrag Kirgisistans zum UNESCO-Welterbe der immateriellen Kultur und werden von hier in alle Welt exportiert.",
+      hu: "Kocskor Narin tartomány északi részén, mintegy 1810 méter magasan, egy tágas hegyvidéki völgyben fekszik, és körülbelül 13 ezer lakossal rendelkezik. A város ősidők óta fontos karaván- és piacállomás, hiszen itt találkozik a Biskekből a Dolon-hágón át Narinba vezető út a Szong-köl tóhoz, a kirgiz pásztorok egyik legszebb nyári szállásterületéhez vivő úttal. Kocskor országos hírnévre tett szert nemezművészetével: számos női szövetkezetben készülnek itt a hagyományos sirdakok és ala-kijik, vastag, festett juhgyapjúból nemezelt szőnyegek, amelyek spirál- és cikcakkmintáin évszázados pásztorszimbólumok és védőjelek élnek tovább. Ezeket a nemeztermékeket az UNESCO szellemi örökségének részeként tartják számon, és innen exportálják a világ számos országába.",
+      ro: "Kochkor se află în partea de nord a regiunii Naryn, la o altitudine de circa 1810 metri, într-o vale largă de munte, și are aproximativ 13.000 de locuitori. Orașul a fost dintotdeauna o importantă stație de caravane și piață, fiindcă aici se intersectează drumul care leagă Bishkek, prin trecătoarea Dolon, de Naryn cu cel ce duce spre lacul alpin Song-Kul, una dintre cele mai frumoase pășuni de vară ale ciobanilor kârgâzi. Kochkor este renumit în întreaga țară pentru arta pâslei: în numeroase cooperative ale femeilor se realizează aici shyrdaks și ala-kiyiz tradiționale, covoare groase din lână de oaie vopsită, ale căror motive în spirală și în zigzag poartă simboluri pastorale și amulete vechi de secole. Aceste produse din pâslă sunt considerate parte din patrimoniul cultural imaterial UNESCO și se exportă de aici în întreaga lume.",
+      en: "Kochkor lies in the northern part of the Naryn Region at about 1810 metres above sea level in a wide upland valley and has roughly 13,000 inhabitants. The town has long been an important caravan and market station, as it sits at the crossroads of the road from Bishkek over the Dolon Pass to Naryn and the route to alpine Lake Song-Kul, one of the most beautiful summer pastures of Kyrgyz herders. Kochkor is famous nationwide for its felt craft: numerous women's cooperatives produce traditional shyrdaks and ala-kiyiz here, thick rugs of dyed sheep wool whose swirling and zigzag patterns carry centuries-old pastoral symbols and protective signs. These felt wares are recognised as part of UNESCO's intangible cultural heritage and are exported from Kochkor to customers around the world."
+    }
+  
+  },
+  {
+    id: "suluktu-cities-v2",
+    type: "city",
+    parent: "KG-B",
+    coords: [69.57, 39.93],
+    name: {
+      de: "Sülüktü",
+      hu: "Szülüktü",
+      ro: "Sülüktü",
+      en: "Sülüktü"
+    },
+    description: {
+      de: "Eine abgelegene Bergbaustadt am Rande des Turkestan-Gebirges in der Region Batken.",
+      hu: "Elzárt bányászváros a Turkesztáni-hegység peremén, a Batken régióban.",
+      ro: "Un oraș minier izolat la marginea Munților Turkestan din regiunea Batken.",
+      en: "A remote mining town on the edge of the Turkestan Mountains in the Batken Region."
+    },
+    facts: {
+      de: [
+        "Eine der ältesten Kohleabbaustätten in Zentralasien.",
+        "Verfügt über eine der wenigen Schmalspurbahnen der Region."
+      ],
+      hu: [
+        "Közép-Ázsia egyik legrégebbi szénbányászati helyszíne.",
+        "A régió egyik ritka keskeny nyomtávú vasútjával rendelkezik."
+      ],
+      ro: [
+        "Unul dintre cele mai vechi situri de exploatare a cărbunelui din Asia Centrală.",
+        "Are una dintre puținele căi ferate cu ecartament îngust din regiune."
+      ],
+      en: [
+        "One of the oldest coal mining sites in Central Asia.",
+        "Features one of the few narrow-gauge railways in the region."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Sülüktü liegt im äußersten Westen der Region Batken auf rund 1090 Metern Höhe an den Ausläufern des Turkestan-Gebirges und zählt etwa 25.000 Einwohner. Die Stadt zählt zu den ältesten Bergbausiedlungen Zentralasiens: Bereits im späten 19. Jahrhundert wurde hier von der zaristischen Regierung Steinkohle abgebaut, um die russische Eisenbahn und die Garnisonen im Ferganatal zu versorgen. In den 1920er Jahren entstand eine schmalspurige Industriebahn, die Kohle aus den Stollen direkt auf die Hauptlinie nach Tadschikistan brachte; sie ist eine der wenigen noch funktionierenden Schmalspurbahnen der Region und gilt heute als technisches Denkmal. Sülüktü liegt auf einer Höhe, die vom Rest Kirgisistans nur über einen langen Umweg durch Tadschikistan oder über schwierige Bergstraßen zu erreichen ist, was die Stadt politisch und wirtschaftlich stark abhängig von ihren Nachbarn macht.",
+      hu: "Szülüktü a Batken régió legnyugatibb részén, a Turkesztáni-hegység lábánál, mintegy 1090 méter magasan fekszik, és körülbelül 25 ezer lakost számlál. A város Közép-Ázsia egyik legrégebbi bányatelepülése: már a 19. század végén szénbányászatot folytattak itt a cári kormányzat számára, hogy ellássák szénnel az orosz vasutat és a Fergana-völgyi helyőrségeket. Az 1920-as években keskeny nyomtávú iparvasút épült, amely a tárnákból közvetlenül a Tadzsikisztánba vezető fővonalra szállította a szenet; ez a régió egyik utolsó működő keskeny nyomtávú vasútja, és ma műszaki emlék. Szülüktü olyan zugban fekszik, amely az ország többi részéről csak hosszú tadzsikisztáni kerülővel vagy nehéz hegyi utakon érhető el, ami a várost politikai és gazdasági értelemben erősen függővé teszi szomszédaitól.",
+      ro: "Sülüktü se află în extremitatea vestică a regiunii Batken, la poalele munților Turkestan, la o altitudine de circa 1090 de metri, și are aproximativ 25.000 de locuitori. Orașul este una dintre cele mai vechi așezări miniere din Asia Centrală: încă de la sfârșitul secolului al XIX-lea, guvernul țarist exploata aici cărbune pentru a alimenta calea ferată rusă și garnizoanele din Valea Fergana. În anii 1920 s-a construit o cale ferată industrială cu ecartament îngust, care transporta cărbunele direct din galerii pe linia principală spre Tadjikistan; este una dintre puținele căi ferate înguste încă funcționale din regiune și este considerată astăzi monument tehnic. Sülüktü se află într-o zonă care poate fi atinsă din restul Kârgâzstanului doar printr-un ocol lung prin Tadjikistan sau pe drumuri montane dificile, ceea ce face orașul foarte dependent politic și economic de vecini.",
+      en: "Sülüktü lies at the far western edge of the Batken Region at the foot of the Turkestan Range at about 1090 metres above sea level and has roughly 25,000 inhabitants. The town is one of the oldest mining settlements in Central Asia: already in the late 19th century coal was being extracted here under the Tsarist government to fuel the Russian railway and the garrisons of the Fergana Valley. In the 1920s a narrow-gauge industrial railway was built that carried coal straight from the pits to the main line into Tajikistan; it remains one of the few still-functioning narrow-gauge railways in the region and is now considered a technical monument. Sülüktü sits in a corner of the country that can only be reached from the rest of Kyrgyzstan via a long detour through Tajikistan or over difficult mountain roads, leaving it politically and economically heavily dependent on its neighbours."
+    }
+  
+  },
+  {
+    id: "kadamjay-cities-v2",
+    type: "city",
+    parent: "KG-B",
+    coords: [71.73, 40.13],
+    name: {
+      de: "Kadamdschai",
+      hu: "Kadamdzsaj",
+      ro: "Kadamjay",
+      en: "Kadamjay"
+    },
+    description: {
+      de: "Eine Industriestadt im Süden des Landes, die sich um den Abbau und die Verarbeitung von Antimon entwickelt hat.",
+      hu: "Iparváros az ország déli részén, amely az antimon bányászata és feldolgozása köré épült.",
+      ro: "Un oraș industrial din sudul țării, care s-a dezvoltat în jurul mineritului și prelucrării antimoniului.",
+      en: "An industrial city in the south of the country that developed around the mining and processing of antimony."
+    },
+    facts: {
+      de: [
+        "Besitzt die größte Antimonmine Kirgisistans.",
+        "Wurde in den 1930er Jahren in der Sowjetzeit gegründet."
+      ],
+      hu: [
+        "Kirgizisztán legnagyobb antimonbányájával rendelkezik.",
+        "Az 1930-as években, a szovjet időszakban alapították."
+      ],
+      ro: [
+        "Are cea mai mare mină de antimoniu din Kârgâzstan.",
+        "A fost fondat în anii 1930, în perioada sovietică."
+      ],
+      en: [
+        "Has the largest antimony mine in Kyrgyzstan.",
+        "Founded in the 1930s during the Soviet era."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Kadamdschai liegt in der Region Batken im Süden Kirgisistans auf rund 1000 Metern Höhe in einem engen Tal des Alai-Gebirges und zählt etwa 13.000 Einwohner. Die Stadt entstand in den 1930er Jahren rund um die Erschließung einer der weltweit größten Antimonlagerstätten und galt während der Sowjetzeit als zentrales Zentrum für die Antimongewinnung im gesamten Ostblock. Während des Zweiten Weltkriegs lieferte Kadamdschai einen erheblichen Teil des sowjetischen Antimonbedarfs, das vor allem für Munition, Akkumulatoren und Lager metallurgischer Maschinen verwendet wurde. Auch heute betreibt die Stadt einen großen metallurgischen Kombinatsbetrieb, der Antimon, Quecksilber und Wolfram verarbeitet und exportiert. Daneben werden in der Umgebung Aprikosen, Walnüsse und Honig produziert. Die Bevölkerung ist multiethnisch geprägt mit einer großen usbekischen Minderheit und engen wirtschaftlichen Beziehungen zum Ferganatal.",
+      hu: "Kadamdzsaj a Batken régióban, Dél-Kirgizisztánban, mintegy 1000 méter magasan, az Alaj-hegység egy keskeny völgyében fekszik, és körülbelül 13 ezer lakossal rendelkezik. A városhe település az 1930-as években jött létre, amikor a világ egyik legnagyobb antimon-előfordulását kezdték kitermelni; a szovjet időkben az egész keleti blokk antimonkitermelésének központi helyszíne volt. A második világháború alatt Kadamdzsaj a szovjet antimonigény jelentős részét biztosította, ami elsősorban a lőszergyártáshoz, akkumulátorokhoz és kohászati gépek csapágyaihoz kellett. Ma is jelentős kohászati kombinát működik a városban, amely antimont, higanyt és wolframot dolgoz fel és exportál. Emellett a környéken sárgabarackot, diót és mézet termelnek. A lakosság soknemzetiségű, nagy üzbég kisebbséggel, és szoros gazdasági kapcsolatokat ápol a Fergana-völggyel.",
+      ro: "Kadamjay se află în regiunea Batken, în sudul Kârgâzstanului, la circa 1000 de metri altitudine, într-o vale îngustă a munților Alai, și are aproximativ 13.000 de locuitori. Orașul s-a format în anii 1930 odată cu deschiderea unuia dintre cele mai mari zăcăminte de antimoniu din lume și a fost, în perioada sovietică, principalul centru de extracție a antimoniului din întregul bloc estic. În timpul celui de-al Doilea Război Mondial, Kadamjay a livrat o parte considerabilă din necesarul sovietic de antimoniu, folosit mai ales la muniție, acumulatori și lagăre pentru utilaje metalurgice. Și astăzi orașul găzduiește un mare combinat metalurgic care prelucrează și exportă antimoniu, mercur și wolfram. În jur se cultivă caise, nuci și se produce miere. Populația este multietnică, cu o importantă minoritate uzbecă și legături economice strânse cu Valea Fergana.",
+      en: "Kadamjay lies in the Batken Region of southern Kyrgyzstan at about 1000 metres above sea level in a narrow valley of the Alay Range and has roughly 13,000 inhabitants. The town developed in the 1930s with the opening of one of the world's largest antimony deposits and during the Soviet era served as the central hub of antimony extraction for the entire Eastern Bloc. In the Second World War, Kadamjay supplied a substantial part of Soviet antimony demand, mainly for ammunition, batteries and bearings for metallurgical machinery. To this day the town hosts a large metallurgical combine that processes and exports antimony, mercury and tungsten. The surrounding area also produces apricots, walnuts and honey. The local population is multi-ethnic, with a sizeable Uzbek minority and close economic ties to the Fergana Valley."
+    }
+  
+  },
+  {
+    id: "toktogul-cities-v2",
+    type: "city",
+    parent: "KG-J",
+    coords: [72.94, 41.87],
+    name: {
+      de: "Toktogul",
+      hu: "Toktogul",
+      ro: "Toktogul",
+      en: "Toktogul"
+    },
+    description: {
+      de: "Eine Stadt nördlich des riesigen Toktogul-Stausees, umgeben von spektakulären Bergketten.",
+      hu: "A hatalmas Toktogul-víztározótól északra fekvő város, amelyet látványos hegyláncok vesznek körül.",
+      ro: "Un oraș la nord de uriașul lac de acumulare Toktogul, înconjurat de lanțuri muntoase spectaculoase.",
+      en: "A city north of the huge Toktogul Reservoir, surrounded by spectacular mountain ranges."
+    },
+    facts: {
+      de: [
+        "Benannt nach dem berühmten kirgisischen Akyn (Sänger) Toktogul Satylganow.",
+        "Die ursprüngliche Siedlung wurde beim Bau des Stausees überflutet."
+      ],
+      hu: [
+        "A híres kirgiz akin (énekes), Toktogul Szatilganov után nevezték el.",
+        "Az eredeti települést a víztározó építésekor elárasztották."
+      ],
+      ro: [
+        "Numit după celebrul akyn (cântăreț) kârgâz Toktogul Satylganov.",
+        "Așezarea originală a fost inundată în timpul construcției lacului de acumulare."
+      ],
+      en: [
+        "Named after the famous Kyrgyz akyn (singer) Toktogul Satylganov.",
+        "The original settlement was flooded during the construction of the reservoir."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Toktogul liegt im westlichen Teil der Region Dschalalabat auf rund 900 Metern Höhe nordöstlich des riesigen Toktogul-Stausees und zählt etwa 18.000 Einwohner. Die heutige Stadt wurde in den 1960er Jahren neu gegründet, nachdem die ursprüngliche Siedlung beim Bau des gewaltigen Wasserkraftwerks von 1962 bis 1976 vom aufgestauten Wasser des Naryn-Flusses überflutet wurde. Das Toktogul-Wasserkraftwerk ist mit einer installierten Leistung von 1200 Megawatt das größte Kirgisistans und liefert je nach Wasserstand bis zu vierzig Prozent des nationalen Strombedarfs. Der Stadt gab der berühmte kirgisische Akyn Toktogul Satylganow ihren Namen, ein Volksdichter und Komus-Spieler, dessen sozialkritische Lieder die kirgisische mündliche Tradition tief geprägt haben. Wirtschaftlich profitiert die Region heute vom Wasserkraftwerk, vom Tourismus rund um den See sowie vom Anbau von Honig, Aprikosen und Bohnen.",
+      hu: "Toktogul a Dzsalalabad tartomány nyugati részén, mintegy 900 méter magasan, a hatalmas Toktogul-víztározótól északkeletre fekszik, és körülbelül 18 ezer lakossal rendelkezik. A mai várost az 1960-as években alapították újra, miután az eredeti települést az 1962 és 1976 között épülő óriás vízerőmű duzzasztott vize a Narin folyó völgyében elárasztotta. A Toktogul-vízerőmű 1200 megawattos beépített teljesítményével Kirgizisztán legnagyobbja, és a vízállástól függően az ország áramszükségletének akár negyven százalékát is fedezheti. A városnévet a híres kirgiz akin, Toktogul Szatilganov, népköltő és komuszjátékos után kapta, akinek társadalomkritikus dalai mélyen meghatározták a kirgiz szóbeli hagyományt. Gazdaságát ma a vízerőmű, a tó körüli turizmus, valamint a méz, sárgabarack és bab termesztése határozza meg.",
+      ro: "Toktogul se află în partea de vest a regiunii Jalal-Abad, la circa 900 de metri altitudine, la nord-est de uriașul lac de acumulare Toktogul, și are aproximativ 18.000 de locuitori. Orașul actual a fost refondat în anii 1960, după ce așezarea originală a fost inundată de apele Narynului acumulate odată cu ridicarea masivei hidrocentrale între 1962 și 1976. Hidrocentrala Toktogul, cu o putere instalată de 1200 de megawați, este cea mai mare din Kârgâzstan și asigură, în funcție de nivelul apei, până la patruzeci la sută din necesarul național de energie electrică. Numele orașului provine de la celebrul akyn kârgâz Toktogul Satylganov, poet popular și interpret de komuz, ale cărui cântece sociale au modelat profund tradiția orală kârgâză. Economia regiunii se sprijină astăzi pe hidrocentrală, pe turismul de pe malul lacului și pe cultivarea mierii, caiselor și fasolei.",
+      en: "Toktogul lies in the western part of the Jalal-Abad Region at about 900 metres above sea level, just northeast of the vast Toktogul Reservoir, and has roughly 18,000 inhabitants. The present-day town was re-founded in the 1960s after the original settlement was flooded by the rising waters of the Naryn River as the giant hydroelectric station was built between 1962 and 1976. The Toktogul Hydroelectric Power Plant, with an installed capacity of 1200 megawatts, is the largest in Kyrgyzstan and, depending on water levels, can supply up to forty percent of the country's electricity needs. The town takes its name from the famous Kyrgyz akyn Toktogul Satylganov, a folk poet and komuz player whose socially conscious songs deeply shaped the Kyrgyz oral tradition. Today the regional economy relies on the hydropower plant, lakeside tourism and the cultivation of honey, apricots and beans."
+    }
+  
+  },
+  {
+    id: "kazarman-cities-v2",
+    type: "city",
+    parent: "KG-J",
+    coords: [74.03, 41.41],
+    name: {
+      de: "Kasarman",
+      hu: "Kazarman",
+      ro: "Kazarman",
+      en: "Kazarman"
+    },
+    description: {
+      de: "Eine sehr isolierte Bergbausiedlung im inneren Kirgisistans, die oft im Winter vom Rest des Landes abgeschnitten ist.",
+      hu: "Egy nagyon elszigetelt bányásztelepülés Belső-Kirgizisztánban, amelyet télen gyakran elvágnak az ország többi részétől.",
+      ro: "O așezare minieră foarte izolată din interiorul Kârgâzstanului, adesea tăiată de restul țării pe timpul iernii.",
+      en: "A highly isolated mining settlement in inner Kyrgyzstan, often cut off from the rest of the country in winter."
+    },
+    facts: {
+      de: [
+        "Wichtig für den Goldabbau in der nahegelegenen Makmal-Mine.",
+        "In der Nähe befinden sich die alten Felszeichnungen von Saimaluu Tasch."
+      ],
+      hu: [
+        "A közeli Makmal-bánya aranykitermelése miatt fontos.",
+        "A közelben találhatók Szajmalú-Tas ősi sziklarajzai."
+      ],
+      ro: [
+        "Important pentru exploatarea aurului în mina Makmal din apropiere.",
+        "În apropiere se află desenele antice pe stâncă din Saimaluu Tash."
+      ],
+      en: [
+        "Important for gold mining in the nearby Makmal mine.",
+        "The ancient petroglyphs of Saimaluu Tash are located nearby."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Kasarman ist eine der abgelegensten Siedlungen Kirgisistans und liegt in der Region Dschalalabat auf rund 1300 Metern Höhe im engen Tal des Naryn-Flusses, weit entfernt von größeren Städten. Die Ortschaft zählt etwa 13.000 Einwohner und ist im Winter oft monatelang vom Rest des Landes abgeschnitten, da die einzige direkte Strecke nach Bischkek über mehrere Hochgebirgspässe von über 3000 Metern führt, die regelmäßig durch Schneestürme blockiert werden. Wirtschaftlich lebt Kasarman seit den 1980er Jahren vor allem von der nahe gelegenen Goldmine Makmal, einer der ältesten industriellen Goldgewinnungsanlagen Zentralasiens. Daneben werden Schafe, Ziegen, Yak-Rinder und Pferde auf den umliegenden Sommerweiden gehalten. Wenige Kilometer von Kasarman entfernt liegen die Petroglyphen von Saimaluu Tasch, mit über 90.000 in den Hochgebirgsfels eingravierten Bildern eine der größten Felskunststätten der Welt.",
+      hu: "Kazarman Kirgizisztán egyik legelszigeteltebb települése, a Dzsalalabad tartományban, mintegy 1300 méter magasan, a Narin folyó keskeny völgyében, a nagyobb városoktól messze. A falu körülbelül 13 ezer lakossal rendelkezik, és télen gyakran hónapokra elvágják az ország többi részétől, mivel a Biskek felé vezető egyetlen közvetlen út több, 3000 méter feletti hágón vezet keresztül, amelyeket havazás idején rendszeresen lezárnak. Gazdaságát az 1980-as évek óta elsősorban a közeli Makmal aranybánya tartja fenn, amely Közép-Ázsia egyik legrégebbi ipari aranykitermelő üzeme. Emellett a környéken juhokat, kecskéket, jakot és lovakat tartanak a nyári hegyi szállásokon. Kazarmantől néhány kilométerre található a Szajmalú-Tas sziklarajzainak hely, ahol több mint 90 ezer, magas hegyi sziklába vésett ábra teszi a vidéket a világ legnagyobb sziklakép-lelőhelyei közé.",
+      ro: "Kazarman este una dintre cele mai izolate așezări din Kârgâzstan, situată în regiunea Jalal-Abad, la circa 1300 de metri altitudine, în valea îngustă a râului Naryn, departe de orașele mari. Localitatea are aproximativ 13.000 de locuitori și iarna este adesea tăiată luni întregi de restul țării, deoarece singurul drum direct spre Bishkek traversează mai multe trecători de peste 3000 de metri, frecvent blocate de viscol. Economia se sprijină din anii 1980 mai ales pe mina de aur Makmal din apropiere, una dintre cele mai vechi exploatări industriale de aur din Asia Centrală. În plus, pe pășunile din jur se cresc oi, capre, iaci și cai pe stânele de vară. La câțiva kilometri de Kazarman se află petroglifele de la Saimaluu Tash, cu peste 90.000 de imagini gravate în stâncile alpine, unul dintre cele mai mari situri de artă rupestră din lume.",
+      en: "Kazarman is one of the most remote settlements in Kyrgyzstan, lying in the Jalal-Abad Region at about 1300 metres above sea level in the narrow valley of the Naryn River, far from any major town. The village has roughly 13,000 inhabitants and in winter is often cut off from the rest of the country for months at a time, as the only direct road to Bishkek crosses several mountain passes above 3000 metres that regularly close in heavy snow. Its economy has rested since the 1980s on the nearby Makmal gold mine, one of the oldest industrial gold operations in Central Asia. In addition, sheep, goats, yaks and horses are kept on the surrounding summer pastures. Just a few kilometres from Kazarman lie the Saimaluu Tash petroglyphs, with more than 90,000 images engraved into the high-mountain rocks, making them one of the largest rock-art sites in the world."
+    }
+  
+  },
+  {
+    id: "orlovka-cities-v2",
+    type: "city",
+    parent: "KG-C",
+    coords: [75.59, 42.74],
+    name: {
+      de: "Orlowka",
+      hu: "Orlovka",
+      ro: "Orlovka",
+      en: "Orlovka"
+    },
+    description: {
+      de: "Eine Industriestadt im Osten des Tschüi-Tals, die stark von der sowjetischen Metallurgie geprägt wurde.",
+      hu: "Iparváros a Csüi-völgy keleti részén, amelyre a szovjet kohászat erős hatást gyakorolt.",
+      ro: "Un oraș industrial în estul văii Chuy, care a fost puternic influențat de metalurgia sovietică.",
+      en: "An industrial city in the east of the Chuy Valley, strongly influenced by Soviet metallurgy."
+    },
+    facts: {
+      de: [
+        "Ein wichtiges Zentrum für die Verarbeitung seltener Erden.",
+        "Verfügt über ein beliebtes Skigebiet."
+      ],
+      hu: [
+        "A ritkaföldfémek feldolgozásának egyik fontos központja.",
+        "Egy népszerű sítereppel is rendelkezik."
+      ],
+      ro: [
+        "Un centru important pentru procesarea pământurilor rare.",
+        "Dispune de o stațiune de schi populară."
+      ],
+      en: [
+        "A major center for the processing of rare earth elements.",
+        "Features a popular ski resort."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Orlowka liegt im östlichen Tschüi-Tal auf rund 1090 Metern Höhe in einem Talkessel am Fuß der Kungöj-Ala-Too und zählt etwa 11.000 Einwohner. Die Stadt entstand in den 1950er Jahren als sowjetische geheimgehaltene Siedlung rund um das Kara-Balta-Bergbau- und Verarbeitungswerk, das hier seltene Erden und vor allem Tantal sowie Niob aus den Erzen der nahegelegenen Kutessai-Lagerstätte gewann. Während der Sowjetzeit war Orlowka eine der wichtigsten Quellen für seltene Erden, und die hier hergestellten hochreinen Metalle gingen unter anderem in Raumfahrt-, Atom- und Halbleiterprogramme. Nach dem Zerfall der Sowjetunion verfiel die Anlage weitgehend, doch in den letzten Jahren bekundeten chinesische und kasachische Investoren Interesse an einer Reaktivierung. Daneben verfügt Orlowka über ein kleines Skigebiet auf den Hängen oberhalb der Stadt, das sich wachsender Beliebtheit bei Bischkeker Wochenendgästen erfreut.",
+      hu: "Orlovka a Csüi-völgy keleti részén, mintegy 1090 méter magasan, a Kungöj-Ala-Too lábánál fekvő völgykatlanban található, és körülbelül 11 ezer lakost számlál. A várost az 1950-es években, szovjet titkos településként alapították a Kara-Balta-i bányászati és feldolgozó üzem körül, amely ritkaföldfémeket, különösen tantált és nióbiumot vont ki a közeli Kutyeszáj lelőhely érceiből. A szovjet érában Orlovka a ritkaföldfémek egyik legfontosabb forrása volt, és az itt készült nagy tisztaságú fémeket az űrkutatási, atom- és félvezetőprogramokba szállították. A Szovjetunió felbomlása után az üzem nagyrészt leromlott, de az utóbbi években kínai és kazah befektetők is érdeklődést mutattak a reaktiválás iránt. A város fölött emelkedő hegyoldalakon kis síterep is működik, amely egyre népszerűbb a biskeki hétvégi vendégek körében.",
+      ro: "Orlovka se află în partea de est a văii Chuy, la o altitudine de circa 1090 de metri, într-un bazin la poalele lanțului Kungöy Ala-Too, și are aproximativ 11.000 de locuitori. Orașul a luat naștere în anii 1950 ca așezare sovietică ținută secret, în jurul Combinatului minier și de prelucrare Kara-Balta, care extrăgea aici pământuri rare, mai ales tantal și niobiu, din minereul zăcământului apropiat Kutessay. În perioada sovietică Orlovka era una dintre cele mai importante surse de pământuri rare, iar metalele de înaltă puritate produse aici intrau în programele spațiale, nucleare și ale semiconductorilor. După destrămarea URSS instalațiile s-au degradat în mare parte, dar în ultimii ani investitori chinezi și kazahi și-au manifestat interesul pentru reactivare. Pe versanții de deasupra orașului funcționează și o mică stațiune de schi, tot mai apreciată de bișkekenii care vin la sfârșit de săptămână.",
+      en: "Orlovka lies in the eastern Chuy Valley at about 1090 metres above sea level in a basin at the foot of the Kungey Ala-Too range and has roughly 11,000 inhabitants. The town was founded in the 1950s as a secretive Soviet settlement around the Kara-Balta Mining and Processing Combine, which extracted rare-earth elements here, especially tantalum and niobium, from ores of the nearby Kutessay deposit. During the Soviet era Orlovka was one of the most important sources of rare earths, and the ultra-pure metals produced here fed into space, nuclear and semiconductor programmes. After the collapse of the Soviet Union the facilities largely fell into disrepair, although Chinese and Kazakh investors have recently expressed interest in restarting operations. On the slopes above town there is also a small ski resort that is growing in popularity among weekend visitors from Bishkek."
+    }
+  
+  },
+  {
+    id: "shopokov-cities-v2",
+    type: "city",
+    parent: "KG-C",
+    coords: [74.33, 42.82],
+    name: {
+      de: "Schopokow",
+      hu: "Sopokov",
+      ro: "Shopokov",
+      en: "Shopokov"
+    },
+    description: {
+      de: "Eine kleine Stadt westlich von Bischkek, die von Landwirtschaft und leichter Industrie lebt.",
+      hu: "Biskektől nyugatra fekvő kisváros, amely mezőgazdaságból és könnyűiparból él.",
+      ro: "Un mic oraș la vest de Bishkek, susținut de agricultură și industria ușoară.",
+      en: "A small city west of Bishkek, supported by agriculture and light industry."
+    },
+    facts: {
+      de: [
+        "Benannt nach Djuischenkul Schopokow, einem Helden des Zweiten Weltkriegs.",
+        "Hieß bis 1967 Nowotroizkoje."
+      ],
+      hu: [
+        "Djujsenkul Sopokov, egy második világháborús hős után kapta a nevét.",
+        "1967-ig Novotroickoje volt a neve."
+      ],
+      ro: [
+        "Numit după Djuishenkul Shopokov, un erou al celui de-al Doilea Război Mondial.",
+        "Până în 1967 s-a numit Novotroițkoe."
+      ],
+      en: [
+        "Named after Djuishenkul Shopokov, a hero of the Second World War.",
+        "Was named Novotroitskoye until 1967."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Schopokow liegt im Tschüi-Tal etwa 25 Kilometer westlich von Bischkek auf rund 750 Metern Höhe und zählt etwa 8000 Einwohner. Die Stadt war ursprünglich ein russisches Kosakendorf namens Nowotroizkoje, das 1872 gegründet wurde und sich rasch zu einem wichtigen Marktort für die deutschen, ukrainischen und russischen Bauern in der Umgebung entwickelte. Im Jahr 1967 wurde der Ort zu Ehren von Djuischenkul Schopokow umbenannt, einem kirgisischen Soldaten und Helden der Sowjetunion, der 1941 als einer der Achtundzwanzig Panfilow-Helden im Schlacht von Wolokolamsk vor Moskau fiel. Wirtschaftlich basiert die Stadt heute auf einer großen Wollspinnerei, einer Konservenfabrik, Backwarenproduktion und Geflügelfarmen. Schopokow gilt zudem als beliebter Wohnort für Pendler nach Bischkek, da von hier aus eine moderne Schnellstraße direkt in die Hauptstadt führt und der Bodenpreis deutlich unter dem in Bischkek liegt.",
+      hu: "Sopokov a Csüi-völgyben, Biskektől mintegy 25 kilométerre nyugatra, körülbelül 750 méter magasan fekszik, és nagyjából 8000 lakossal rendelkezik. A település eredetileg az 1872-ben alapított Novotroickoje nevű orosz kozákfalu volt, amely gyorsan jelentős piacközponttá vált a környéken élő német, ukrán és orosz parasztok számára. 1967-ben Djujsenkul Sopokov tiszteletére nevezték át, aki kirgiz katona és a Szovjetunió hőse volt; 1941-ben a moszkvai csatában, a Volokolamszk előtti harcok során esett el a Huszonnyolc Panfilov-hős egyikeként. Gazdaságát ma egy nagy gyapjúfonoda, egy konzervgyár, péksütemény-üzem és baromfifarmok alkotják. Sopokov egyre népszerűbb a Biskekbe ingázók körében, hiszen modern gyorsforgalmi út köti össze a fővárossal, miközben az ingatlanárak jóval alacsonyabbak a biskekieknél.",
+      ro: "Shopokov se află în valea Chuy, la circa 25 de kilometri vest de Bishkek, la o altitudine de aproximativ 750 de metri, și are în jur de 8.000 de locuitori. Localitatea a fost inițial un sat cazac rusesc numit Novotroițkoe, întemeiat în 1872, care s-a dezvoltat rapid ca important târg pentru țăranii germani, ucraineni și ruși din împrejurimi. În 1967 a fost redenumit în onoarea lui Djuishenkul Shopokov, soldat kârgâz și Erou al Uniunii Sovietice, căzut în 1941 în bătălia de la Volokolamsk, în fața Moscovei, ca unul dintre cei Douăzeci și opt de Eroi Panfilov. Economia se sprijină astăzi pe o mare filatură de lână, o fabrică de conserve, brutării industriale și ferme de păsări. Shopokov este și o destinație preferată de navetiști, fiind legat printr-o șosea modernă de Bishkek, în condițiile în care prețurile imobiliare sunt mult mai mici decât în capitală.",
+      en: "Shopokov lies in the Chuy Valley about 25 kilometres west of Bishkek at around 750 metres above sea level and has roughly 8000 inhabitants. The town was originally a Russian Cossack village called Novotroitskoye, founded in 1872, which quickly grew into an important market hub for the German, Ukrainian and Russian farmers in the surrounding area. In 1967 it was renamed in honour of Djuishenkul Shopokov, a Kyrgyz soldier and Hero of the Soviet Union who fell in 1941 at the Battle of Volokolamsk near Moscow as one of the famed Twenty-Eight Panfilov Heroes. Today the local economy rests on a large wool spinning mill, a cannery, baked-goods production and poultry farms. Shopokov is also a popular residential area for commuters to Bishkek, as a modern highway links it directly to the capital while property prices remain considerably lower than in the city."
+    }
+  
+  },
+  {
+    id: "kaindy-cities-v2",
+    type: "city",
+    parent: "KG-C",
+    coords: [73.68, 42.82],
+    name: {
+      de: "Kajyndy",
+      hu: "Kaindi",
+      ro: "Kaindy",
+      en: "Kaindy"
+    },
+    description: {
+      de: "Die Verwaltungshauptstadt des Panfilow-Bezirks, bekannt für ihre Zuckerfabrik.",
+      hu: "A Panfilov körzet közigazgatási központja, amely cukorgyáráról ismert.",
+      ro: "Capitala administrativă a districtului Panfilov, cunoscută pentru fabrica sa de zahăr.",
+      en: "The administrative capital of the Panfilov District, known for its sugar factory."
+    },
+    facts: {
+      de: [
+        "Wurde 2012 offiziell zur Stadt erhoben.",
+        "Liegt direkt an der Bahnstrecke Bischkek–Taras."
+      ],
+      hu: [
+        "2012-ben kapott hivatalosan városi rangot.",
+        "Közvetlenül a Biskek–Taras vasútvonal mentén fekszik."
+      ],
+      ro: [
+        "A fost ridicat oficial la rangul de oraș în 2012.",
+        "Este situat direct pe linia de cale ferată Bishkek-Taras."
+      ],
+      en: [
+        "Officially elevated to city status in 2012.",
+        "Located directly on the Bishkek-Taras railway line."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Kaindy liegt im westlichen Tschüi-Tal auf rund 730 Metern Höhe etwa 40 Kilometer westlich von Bischkek und zählt etwa 8500 Einwohner. Die Stadt ist Verwaltungszentrum des Panfilow-Bezirks, der nach dem sowjetischen Generalmajor Iwan Panfilow benannt wurde, dessen 316. Schützendivision 1941 vor Moskau einen wichtigen Beitrag zur Verteidigung der Hauptstadt leistete. Wirtschaftlich basiert das Stadtleben seit den 1950er Jahren auf der großen Zuckerfabrik, die die Zuckerrübenernte aus den Tschüi-Sowchosen verarbeitete und in Spitzenzeiten mehrere tausend Arbeiter beschäftigte; daneben wurden Mais- und Getreidemühlen sowie eine Schuhfabrik betrieben. Im Jahr 2012 wurde Kaindy offiziell zur Stadt erhoben, nachdem der Ort jahrzehntelang als großes Dorf geführt worden war. Die Stadt liegt unmittelbar an der vielbefahrenen Bahnstrecke Bischkek-Taras, die Kirgisistan mit dem südkasachischen Schienennetz verbindet.",
+      hu: "Kaindi a Csüi-völgy nyugati részén, Biskektől mintegy 40 kilométerre nyugatra, körülbelül 730 méter magasan fekszik, és nagyjából 8500 lakost számlál. A város a Panfilov körzet közigazgatási központja, amelyet a szovjet vezérőrnagy, Ivan Panfilov után neveztek el; az ő 316. lövészhadosztálya 1941-ben jelentősen hozzájárult Moszkva védelméhez. A város gazdasági élete az 1950-es évek óta a nagy cukorgyárra épül, amely a Csüi-völgyi szovhozok cukorrépatermését dolgozta fel, és csúcsidőszakokban több ezer munkást foglalkoztatott; mellette kukorica- és gabonamalmok, valamint cipőgyár is működött. 2012-ben kapta meg hivatalosan a városi rangot, miután évtizedekig nagyközségként tartották nyilván. A város közvetlenül a forgalmas Biskek–Taras vasútvonalon helyezkedik el, amely Kirgizisztánt összeköti a dél-kazah vasúthálózattal.",
+      ro: "Kaindy se află în partea de vest a văii Chuy, la circa 40 de kilometri vest de Bishkek, la o altitudine de aproximativ 730 de metri, și are circa 8.500 de locuitori. Orașul este centrul administrativ al districtului Panfilov, denumit după generalul-maior sovietic Ivan Panfilov, a cărui Divizie 316 Pușcași a contribuit semnificativ la apărarea Moscovei în 1941. Economic, viața orașului se sprijină din anii 1950 pe marea fabrică de zahăr, care prelucra recolta de sfeclă din sovhozurile văii Chuy și care, în vârfurile de producție, angaja câteva mii de muncitori; alături funcționau mori de porumb și grâu, precum și o fabrică de încălțăminte. În 2012 Kaindy a fost ridicat oficial la rangul de oraș, după ce decenii întregi a fost considerat un sat mare. Localitatea este situată direct pe linia ferată aglomerată Bishkek-Taras, care leagă Kârgâzstanul de rețeaua feroviară a Kazahstanului de sud.",
+      en: "Kaindy lies in the western Chuy Valley about 40 kilometres west of Bishkek at around 730 metres above sea level and has roughly 8500 inhabitants. The town is the administrative centre of the Panfilov District, named after the Soviet Major-General Ivan Panfilov, whose 316th Rifle Division made a vital contribution to the defence of Moscow in 1941. Economically the town has rested since the 1950s on a large sugar refinery, which processed the sugar-beet harvest of the Chuy valley sovkhozes and at its peak employed several thousand workers; alongside it operated maize and grain mills as well as a shoe factory. In 2012 Kaindy was officially elevated to city status after decades as a large village. It lies directly on the busy Bishkek-Taras railway line that links Kyrgyzstan with the rail network of southern Kazakhstan."
+    }
+  
+  },
+  {
+    id: "kemin-cities-v2",
+    type: "city",
+    parent: "KG-C",
+    coords: [75.69, 42.78],
+    name: {
+      de: "Kemin",
+      hu: "Kemin",
+      ro: "Kemin",
+      en: "Kemin"
+    },
+    description: {
+      de: "Eine Stadt am östlichen Rand des Tschüi-Tals, die das Tor zur spektakulären Boom-Schlucht bildet.",
+      hu: "Város a Csüi-völgy keleti szélén, amely kaput nyit a látványos Boom-szurdok felé.",
+      ro: "Un oraș la marginea estică a văii Chuy, servind ca poartă de intrare spre spectaculosul defileu Boom.",
+      en: "A city on the eastern edge of the Chuy Valley, serving as the gateway to the spectacular Boom Gorge."
+    },
+    facts: {
+      de: [
+        "Bekannt als Geburtsort des ersten kirgisischen Präsidenten, Askar Akajew.",
+        "Befindet sich an einer wichtigen Transportroute in den Osten des Landes."
+      ],
+      hu: [
+        "Aszkar Akajev, az első kirgiz elnök szülőhelyeként ismert.",
+        "Egy fontos közlekedési útvonalon fekszik az ország keleti része felé."
+      ],
+      ro: [
+        "Cunoscut ca locul de naștere al primului președinte kârgâz, Askar Akayev.",
+        "Este situat pe o rută importantă de transport către estul țării."
+      ],
+      en: [
+        "Known as the birthplace of the first Kyrgyz president, Askar Akayev.",
+        "Located on a major transport route to the east of the country."
+      ]
+    },
+    descriptionAdvanced: {
+      de: "Kemin liegt am östlichen Rand des Tschüi-Tals auf rund 1280 Metern Höhe am Eingang der spektakulären Boom-Schlucht und zählt etwa 11.000 Einwohner. Die Stadt ist das Verwaltungszentrum des Bezirks Kemin, einer landwirtschaftlich geprägten Region, die für ihre Kartoffel-, Apfel- und Beerenernten bekannt ist und gleichzeitig den Eingang zu den hochalpinen Tälern der Tschong-Kemin-Region bildet. Hier befindet sich auch der Geburtsort von Askar Akajew, dem ersten Präsidenten Kirgisistans nach der Unabhängigkeit 1991, dessen Familie aus dem Dorf Kysyl-Bairak unweit der Stadt stammt. Strategisch wichtig ist Kemin als Knotenpunkt der Hauptstraße und der einzigen Bahnlinie zwischen dem Tschüi-Tal und dem Yssykköl-See: Sämtliche Lastwagen, Busse und Züge auf dem Weg zu den Stränden und Sanatorien des großen Hochgebirgssees passieren hier zwangsläufig die enge Schlucht des Flusses Tschu.",
+      hu: "Kemin a Csüi-völgy keleti szélén, mintegy 1280 méter magasan, a látványos Boom-szurdok bejáratánál fekszik, és körülbelül 11 ezer lakossal rendelkezik. A város a Kemin körzet közigazgatási központja: ez a vidék mezőgazdasági jellegű, és különösen híres burgonya-, alma- és bogyótermesztéséről, miközben kapuját képezi a Csong-Kemin-régió magashegyi völgyeinek. Itt található Aszkar Akajev szülőhelye is, aki az 1991-es függetlenség után Kirgizisztán első elnöke volt; családja a várostól nem messze fekvő Kizil-Bajrak faluból származik. Stratégiai szempontból Kemin a Csüi-völgy és az Iszik-köl tó közötti fő közúti és egyetlen vasúti útvonal csomópontja: minden teherautónak, busznak és vonatnak, amely a magashegyi tó strandjaira és szanatóriumaira igyekszik, kötelezően át kell haladnia itt a Csu folyó keskeny szurdokán.",
+      ro: "Kemin se află la marginea estică a văii Chuy, la circa 1280 de metri altitudine, chiar la intrarea în spectaculosul defileu Boom, și are aproximativ 11.000 de locuitori. Orașul este centrul administrativ al districtului Kemin, o regiune agricolă cunoscută pentru recoltele de cartofi, mere și fructe de pădure, dar care reprezintă totodată poarta de intrare spre văile alpine din zona Chong-Kemin. Aici se află și locul de naștere al lui Askar Akayev, primul președinte al Kârgâzstanului după independența din 1991, a cărui familie provine din satul Kyzyl-Bayrak, situat în apropierea orașului. Strategic, Kemin este nodul rutier și singurul nod feroviar între valea Chuy și lacul Issyk-Kul: toate camioanele, autobuzele și trenurile care se îndreaptă spre plajele și sanatoriile lacului alpin trec inevitabil prin defileul îngust al râului Chu.",
+      en: "Kemin lies on the eastern edge of the Chuy Valley at about 1280 metres above sea level at the entrance to the spectacular Boom Gorge and has roughly 11,000 inhabitants. The town is the administrative centre of the Kemin District, an agricultural region known for its potato, apple and berry harvests that at the same time forms the gateway to the high alpine valleys of the Chong-Kemin region. It is also the birthplace of Askar Akayev, the first president of Kyrgyzstan after independence in 1991, whose family comes from the village of Kyzyl-Bayrak just outside town. Strategically Kemin sits at the junction of the main highway and the only railway line between the Chuy Valley and Lake Issyk-Kul: every truck, bus and train heading for the beaches and sanatoriums of the great alpine lake must inevitably pass through the narrow gorge of the Chu River right here."
+    }
+  
+  }
+];

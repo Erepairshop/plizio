@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "darin-valley-relief-v2",
+      "descriptionAdvanced": "The Darin Valley represents a deeply incised valley depression characteristic of the mountainous terrain in northern Somalia. This geological formation has been sculpted over millennia by the erosive power of short but violent rain events, which characterize the otherwise dry mountainous relief during the summer months. The lower-lying position offers significant protection against the constant, drying winds of the surrounding plateaus. Due to this protected microclimate, a special vegetal space has developed on the valley floor, displaying a higher concentration of xerophytic plants than the exposed crests in the vicinity.",
+      "factsAdvanced": [
+        "Deeply incised valley depression in the northern mountains.",
+        "Sculpted by intense, temporary hydrological erosion.",
+        "Provides natural protection against drying winds.",
+        "Develops a unique microclimate in the valley floor.",
+        "Higher density of vegetation compared to surrounding crests.",
+        "Typical example of near-desert erosion formations.",
+        "Important retreat site for local flora."
+      ]
+    },
+    {
+      "id": "gacan-libaah-summit-relief-v2",
+      "descriptionAdvanced": "The Gacan Libaah Summit rises from the Golis mountain massif as a prominent topographic landmark. It is not just a geographical orientation point, but also a key climatic point due to its exposed position. By lifting the moisture-laden air masses coming from the Indian Ocean, the summit area functions as a natural condensation point, leading to more frequent fog formation and precipitation. This topographic peculiarity favors the existence of forest areas in an otherwise arid mountain region and serves as a strategically important observation point over the northern coastal plains.",
+      "factsAdvanced": [
+        "Prominent topographic elevation in the Golis Massif.",
+        "Serves as a natural condensation point for moisture.",
+        "Known for its dense, island-like forest formations.",
+        "Strategically important platform with a wide field of view.",
+        "Climatically favored by frequent fog formation.",
+        "Important ecological retreat site in the mountain region.",
+        "Geographical landmark between the mountains and the coast."
+      ]
+    },
+    {
+      "id": "xaysimo-highlands-relief-v2",
+      "descriptionAdvanced": "The Xaysimo Highlands encompass an expansive, ecologically valuable forest and plateau landscape in northern Somalia. The region is characterized by plateau-like terrain, which stands out due to its relative humidity compared to the surrounding semi-desert. Geologically, large parts are formed from weathered rock formations that offer fertile, albeit shallow, soil conditions. This combination of topographic position and soil nature allows for the occurrence of rare juniper specimens, which are of outstanding importance for Somali mountain ecology and decisively define the landscape uniqueness of this area.",
+      "factsAdvanced": [
+        "Extensive, plateau-like highland relief.",
+        "Known for its rare and protected juniper specimens.",
+        "Significantly higher humidity than the surrounding semi-desert.",
+        "Relatively fertile soil conditions due to weathering.",
+        "Important ecological zone of Somali highland flora.",
+        "Landscape marked by forested plateaus.",
+        "Topographic transition between high mountains and plains."
+      ]
+    },
+    {
+      "id": "juba-delta-plains-relief-v2",
+      "descriptionAdvanced": "The Juba Delta Plains form a complex and topographically highly dynamic zone at the mouth of the Jubba River into the Indian Ocean. This region is characterized by a flat relief, traversed by numerous river arms and channels, which is continuously reshaped by sediment deposits. The soil structure is extremely nutrient-rich and consists of fine-grained alluvium, which makes this region an ideal zone for agricultural use, particularly for rice cultivation. The constant interaction between fluvial discharge and marine tides creates a unique, constantly changing landscape structure.",
+      "factsAdvanced": [
+        "Dynamic, flat estuary relief with sediment deposits.",
+        "Traversed by a complex network of river arms.",
+        "Extremely nutrient-rich alluvial soils shape the area.",
+        "Ideal topographic conditions for rice cultivation.",
+        "Constant interaction between river flow and tides.",
+        "Landscape is highly dynamic and in constant flux.",
+        "Important economic center due to fertile soils."
+      ]
+    },
+    {
+      "id": "karkar-mountains-relief-v2",
+      "descriptionAdvanced": "The Karkar Mountains stretch as an extensive, dry mountain region in northeastern Somalia. This formation is the result of intensive erosive processes that have created a fractured, arid relief over long periods. Due to the lack of significant rainfall, the mountain range is largely devoid of vegetation and very sparsely settled by humans. The geological structure consists primarily of exposed rock layers, which create a rough and monotonous topographic appearance. The Karkar Mountains thus pose a challenge for any economic use and serve primarily as an untouched, geologically interesting natural landscape.",
+      "factsAdvanced": [
+        "Extensive, dry mountain relief in the northeast.",
+        "Characterized by profound, long-term erosion.",
+        "Extremely arid and vegetation-poor conditions.",
+        "Little to no human settlement present.",
+        "Geologically dominated by exposed rock layers.",
+        "Landscape characterized by a rough, fractured profile.",
+        "Untouched, unexploited natural landscape."
+      ]
+    }
+  ]
+}

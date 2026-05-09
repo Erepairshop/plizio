@@ -1,0 +1,45 @@
+{
+  "lang": "ro",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cap-bon-halbinsel-relief-v2",
+      "descriptionAdvanced": "Peninsula Cap Bon se ridică ca un deget distinctiv în Marea Mediterană, formând cel mai nordic punct al Tunisiei. Relieful acestei peninsule este ușor deluros și fertil, ceea ce o face unul dintre cele mai importante centre agricole ale țării, în special pentru viticultură și producția de citrice. Climatul mediteranean, cu ierni blânde și veri calde, favorizează vegetația luxuriantă și așezările dense de-a lungul coastelor. Cap Bon este strategic de mare importanță geografică, deoarece marchează strâmtoarea dintre Africa și Europa. Combinația de coastă, dealuri și teren fertil face ca regiunea să fie extrem de versatilă din punct de vedere ecologic.",
+      "factsAdvanced": [
+        "Cap Bon se află la doar aproximativ 140 km de insula italiană Sicilia.",
+        "Peninsula este celebră pentru plantațiile de citrice și regiunile viticole.",
+        "Numeroase ruine antice, inclusiv Kerkouane, se află pe peninsulă.",
+        "Peninsula servește drept un loc de odihnă important pentru mii de păsări migratoare.",
+        "Coasta este marcată de golfuri și plaje pitorești.",
+        "Climatul este puternic moderat de curenții marini din jur."
+      ]
+    },
+    {
+      "id": "djebel-serj-relief-v2",
+      "descriptionAdvanced": "Djebel Serj este un masiv muntos impresionant în Tunisia centrală, care se remarcă prin pereții abrupți de calcar și cheile adânci. Acesta aparține lanțului muntos Atlas și reprezintă un masiv geologic complex. Una dintre cele mai remarcabile caracteristici geologice ale Djebel Serj este peștera 'Aïn Dhab', unul dintre cele mai lungi și mai adânci sisteme de peșteri din țară. Peisajul aspru oferă nu doar habitat pentru o floră și faună specializată, ci este și foarte apreciat de alpiniști și drumeți datorită formațiunilor de teren solicitante și punctelor de vedere spectaculoase.",
+      "factsAdvanced": [
+        "Djebel Serj atinge o înălțime de peste 1.300 de metri.",
+        "Peștera 'Aïn Dhab' este o atracție geologică semnificativă a muntelui.",
+        "Masivul adăpostește specii rare de plante adaptate la locații uscate.",
+        "Muntele servește ca un coridor ecologic important în Tunisia centrală.",
+        "Formațiunile de calcar domină geologia întregului masiv montan.",
+        "Regiunea din jurul Djebel Serj este mai puțin dens populată decât nordul."
+      ]
+    },
+    {
+      "id": "gulf-von-gabes-relief-v2",
+      "descriptionAdvanced": "Golful Gabès este un golf extins și puțin adânc pe coasta de est a Tunisiei, marcat de proprietăți oceanografice remarcabile. Trebuie evidențiate diferențele de maree foarte mari, care rar apar în Marea Mediterană în această amploare. Această dinamică a modelat peisajul de coastă timp de milenii, permițând formarea unor bancuri de nisip înguste și a zonelor puțin adânci. Golful este de importanță centrală din punct de vedere economic pentru pescuitul tunisian și include insula Djerba, importantă din punct de vedere strategic. Apa puțin adâncă oferă un habitat ideal pentru o faună marină diversă și este o componentă esențială a ecologiei de coastă tunisiene.",
+      "factsAdvanced": [
+        "Maree în golf poate atinge o diferență de înălțime de până la un metru.",
+        "Golful este centrul tunisian pentru pescuitul de bureți și pește.",
+        "Insula Djerba este cea mai mare insulă de pe coasta Tunisiei.",
+        "Regiunea este un loc important pentru prelucrarea industrială a fosfaților.",
+        "Apele de coastă puțin adânci și bancurile de nisip definesc relieful subacvatic.",
+        "Apa caldă a golfului favorizează stabilirea organismelor marine."
+      ]
+    }
+  ]
+}

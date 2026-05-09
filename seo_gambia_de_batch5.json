@@ -2,33 +2,294 @@
   "lang": "de",
   "country": "gambia",
   "files": [
-    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "bijilo-cities-v2",
-      "descriptionAdvanced": "Bijilo ist ein exklusiver Küstenort, der für den Bijilo Forest Park bekannt ist, in dem eine beeindruckende Vielfalt an Affenarten in ihrer natürlichen Umgebung beobachtet werden kann. Der Ort hat sich zu einem beliebten Zentrum für Reisende entwickelt, die die Nähe zur Natur mit einem luxuriösen Aufenthalt verbinden möchten. Der Waldpark dient zudem als grünes Rückzugsgebiet in der ansonsten wachsenden Küstenregion und spielt eine wichtige Rolle für den lokalen Naturschutz. Durch die Kombination aus hochwertigen Unterkünften und direkter Strandnähe ist Bijilo ein Paradebeispiel für den modernen gambischen Tourismus. Geographie K7 — Naturschutz in touristischen Regionen.",
-      "factsAdvanced": ["Standort des Bijilo Forest Park.", "Lebensraum für zahlreiche Affenarten.", "Bedeutendes Tourismuszentrum.", "Luxuriöse Unterkunftsmöglichkeiten.", "Wichtiger grüner Rückzugsort an der Küste.", "Förderer des lokalen Naturschutzes.", "Beliebt bei Natur- und Strandtouristen."]
+      "id": "berending-crocodile-pool-history-v2",
+      "descriptionAdvanced": "Das heilige Krokodilbecken von Berending in der North Bank Region ist eine der bedeutendsten spirituellen Stätten Westafrikas und tief in der Mythologie der Mandinka verwurzelt. Ähnlich wie sein Pendant in Bakau gilt dieser Ort als Bindeglied zwischen der physischen Welt und dem Reich der Ahnen. Die hier lebenden Krokodile werden als heilige Wesen verehrt, denen übernatürliche Kräfte bei der Heilung von Krankheiten und der Gewährung von Kindersegen zugeschrieben werden. Berending zeichnet sich durch seine ruhige, fast mystische Atmosphäre inmitten eines dichten Hains aus, der seit Generationen vor menschlichen Eingriffen geschützt ist. Ein Besuch bietet tiefe Einblicke in die lebendige indigene Spiritualität Gambias, die trotz modernisierungsbedingter Einflüsse ihre zentrale Bedeutung für die lokale Identität und den sozialen Zusammenhalt bewahrt hat. (Sozialkunde K6 — Traditionelle Religion und indigene Bräuche)",
+      "factsAdvanced": [
+        "Wichtige spirituelle Stätte der Mandinka am Nordufer.",
+        "Beherbergt eine Population von als heilig verehrten Krokodilen.",
+        "Zentrum für traditionelle Heilungsrituale und Segen.",
+        "Eingebettet in einen geschützten heiligen Waldhain.",
+        "Ort von großer ritueller Bedeutung für lokale Familien-Clans.",
+        "Symbol für die harmonische Koexistenz von Mensch und Natur.",
+        "Hüter mündlich überlieferter Mythen und Legenden.",
+        "Bedeutendes Ziel für spirituelle Pilgerfahrten in der Region."
+      ]
     },
     {
-      "id": "kololi-cities-v2",
-      "descriptionAdvanced": "Kololi bildet das pulsierende Herz des gambischen Tourismus und ist berühmt für den 'Senegambia Strip'. Dieser Bereich ist gesäumt von zahlreichen erstklassigen Restaurants, Bars und Hotels, die Kololi zum nächtlichen Treffpunkt für Besucher aus aller Welt machen. Trotz der starken touristischen Prägung bietet der Ort direkten Zugang zu den weiten Sandstränden des Atlantiks. Kololi ist ein Beispiel für eine hochgradig spezialisierte touristische Infrastruktur, die maßgeblich zum wirtschaftlichen Erfolg der gambischen Tourismusbranche beiträgt. Geographie K8 — Tourismusökonomie und Dienstleistungszentren.",
-      "factsAdvanced": ["Zentrum des gambischen Tourismus.", "Bekannt durch den 'Senegambia Strip'.", "Hauptstandort für gehobene Gastronomie.", "Direkter Zugang zu atlantischen Sandstränden.", "Pulsierendes Zentrum für das Nachtleben.", "Maßgeblicher Beitrag zur gambischen Tourismuswirtschaft.", "Treffpunkt für internationale Reisende."]
+      "id": "folonko-crocodile-pool-history-v2",
+      "descriptionAdvanced": "Das Folonko-Krokodilbecken in Kartong, im äußersten Süden Gambias, ist eine heilige Stätte von außergewöhnlicher historischer und kultureller Relevanz. Es wird seit Jahrhunderten von der Dorfgemeinschaft von Kartong geschützt und gepflegt, wobei die zahmen Krokodile als Wächter des Dorfwohls angesehen werden. Folonko ist besonders für seine jährlichen Reinigungsrituale bekannt, die den Zusammenhalt der Gemeinschaft stärken und Schutz vor Unheil erflehen. Die Stätte illustriert die tiefe ökologische Ethik der lokalen Bevölkerung, bei der der Schutz des Habitats untrennbar mit dem spirituellen Überleben verbunden ist. In einer Zeit des rasanten Wandels steht Folonko als Symbol für kulturelle Resilienz und die Bewahrung von Werten, die den Respekt vor allen Lebewesen in den Mittelpunkt stellen. Ein Besuch vermittelt ein tiefes Verständnis für das ursprüngliche Gambia. (Biologie/Sozialkunde K6 — Ethnoökologie und kulturelles Erbe)",
+      "factsAdvanced": [
+        "Heilige Stätte im südlichsten Dorf Gambias (Kartong).",
+        "Traditionell genutzter Ort für gemeinschaftliche Segnungsriten.",
+        "Beherbergt zahme Krokodile als spirituelle Schutzwesen.",
+        "Zentrum für die Bewahrung vorkolonialer Mandinka-Traditionen.",
+        "Wichtiger Ort für die Identitätsfindung der lokalen Jugend.",
+        "Eng verbunden mit dem ökologischen Schutz der Allahein-Mündung.",
+        "Symbol für den respektvollen Umgang mit der Tierwelt.",
+        "Austragungsort bedeutender ritueller Waschungen und Gebete."
+      ]
     },
     {
-      "id": "kanifing-cities-v2",
-      "descriptionAdvanced": "Kanifing fungiert als industrielles Rückgrat der Metropolregion Serekunda und ist ein zentraler Ort für wirtschaftliche und akademische Aktivitäten. Hier befindet sich die Universität von Gambia, die eine entscheidende Rolle für die Ausbildung der künftigen Generation des Landes spielt. Die Stadt vereint großflächige Industriegebiete mit stetig wachsenden Wohnflächen und bildet damit einen wichtigen Lebens- und Arbeitsraum in Gambia. Durch die Konzentration von Bildungseinrichtungen und gewerblichen Unternehmen ist Kanifing ein unverzichtbarer Baustein in der ökonomischen Struktur des Landes. Politik/Wirtschaft K8 — Bildung und Industrie in Schwellenländern.",
-      "factsAdvanced": ["Sitz der Universität von Gambia.", "Industrielles Zentrum des Landes.", "Wichtiger Bildungsstandort.", "Hohe Konzentration von Gewerbebetrieben.", "Zentraler Arbeitsort der Region.", "Verbindung von Industrie und Wohnraum.", "Wichtiger Knotenpunkt für die ökonomische Entwicklung."]
+      "id": "janjanbureh-slave-house-history-v2",
+      "descriptionAdvanced": "Das ehemalige Sklavenhaus in Janjanbureh (Georgetown) ist ein bedrückendes und zugleich wichtiges Mahnmal, das an die dunkle Geschichte des transatlantischen Sklavenhandels im Landesinneren erinnert. Gelegen auf der Insel MacCarthy, diente dieses massive Steingebäude im 19. Jahrhundert als Zwischenlager für Gefangene, bevor sie flussabwärts zur Küste transportiert wurden. Die bedengten Räume und massiven Eisenringe vermitteln ein greifbares Bild des unvorstellbaren Leids der Verschleppten. Janjanbureh war ein strategischer Knotenpunkt, an dem die kommerziellen Interessen der Kolonialmächte auf die grausamen Realitäten der Versklavung trafen. Heute ist das Sklavenhaus ein zentraler Bestandteil der historischen Bildungsarbeit in Gambia und ein Ort der stillen Reflexion über Freiheit, Widerstand und das dauerhafte Erbe der afrikanischen Diaspora. (Geschichte K8 — Sklavenhandel und regionale Auswirkungen)",
+      "factsAdvanced": [
+        "Historisches Gebäude aus der Ära des Sklavenhandels.",
+        "Eines der wichtigsten Mahnmale auf MacCarthy Island.",
+        "Dokumentiert die logistische Kette der Versklavung im Hinterland.",
+        "Bedeutender Ort für den internationalen 'Roots'-Tourismus.",
+        "Zeugnis für die koloniale Architektur des frühen 19. Jahrhunderts.",
+        "Symbol für den langen Kampf um die Abschaffung der Sklaverei.",
+        "Wichtiger Bestandteil des historischen Erbes von Janjanbureh.",
+        "Dient heute der Aufklärung und dem Gedenken an die Opfer."
+      ]
     },
     {
-      "id": "bundung-cities-v2",
-      "descriptionAdvanced": "Bundung ist ein dicht besiedeltes, dynamisches Wohnviertel, das tief in der sozialen Struktur der Kanifing Municipality verwurzelt ist. Als Teil der Serekunda-Agglomeration ist Bundung ein Mosaik aus verschiedenen ethnischen Gruppen und Kulturen, was sich in einer einzigartigen sozialen Lebendigkeit widerspiegelt. Die dichte Bebauung ist ein Ergebnis des enormen Wachstumsdrucks und der Landflucht, die Gambias Städte in den letzten Jahrzehnten transformiert haben. Bundung ist ein Ort des täglichen Austauschs und ein faszinierendes Beispiel für gelebte Gemeinschaft in einer afrikanischen Großstadt. Sozialkunde K7 — Soziale Dynamik in wachsenden Stadtvierteln.",
-      "factsAdvanced": ["Siedlungsdichtes Wohnviertel.", "Kultureller Schmelztiegel der Serekunda-Region.", "Ergebnis rasanten urbanen Wachstums.", "Starke lokale Gemeinschaftsstrukturen.", "Diversität der ethnischen Bevölkerung.", "Zentrum für kleinteiliges soziales Leben.", "Typisches Beispiel für afrikanische Urbanisierung."]
+      "id": "bwiam-stone-circle-history-v2",
+      "descriptionAdvanced": "Der Steinkreis von Bwiam ist ein beeindruckendes Zeugnis der prähistorischen Megalithkultur in der West Coast Region und verdeutlicht die weite geografische Verbreitung dieser Monumente in Senegambia. Obwohl weniger bekannt als die Anlagen im Norden, besticht der Kreis von Bwiam durch seine präzise bearbeiteten Lateritsäulen, die in einer klaren geometrischen Ordnung angeordnet sind. Archäologische Untersuchungen legen nahe, dass dieser Ort vor über einem Jahrtausend als rituelles Zentrum und Begräbnisstätte für eine lokal herrschende Elite diente. Die Anlage ist eng mit den umgebenden Wäldern und Feuchtgebieten verknüpft und zeugt von einer hochentwickelten Sozialstruktur der Eisenzeit-Gesellschaften. Bwiam bietet Besuchern die seltene Möglichkeit, die Megalithgeschichte Gambias südlich des Flusses zu erkunden und die tiefen historischen Wurzeln der Region abseits der Haupttouristenrouten zu entdecken. (Geschichte K7 — Archäologie und vorkoloniale Kulturen)",
+      "factsAdvanced": [
+        "Bedeutendes Megalith-Monument südlich des Gambia-Flusses.",
+        "Besteht aus massiven, kunstvoll behauenen Lateritsteinen.",
+        "Teil des großräumigen prähistorischen Siedlungsnetzes.",
+        "Diente vermutlich rituellen Zwecken und als Grabstätte.",
+        "Wichtiger Bezugspunkt für die Regionalgeschichte der Foni-Distrikte.",
+        "Zeugnis für hochentwickelte astronomische Kenntnisse der Erbauer.",
+        "Symbol für die kulturelle Kontinuität über Jahrtausende hinweg.",
+        "Seltener Standort von Steinkreisen in der West Coast Region."
+      ]
     },
     {
-      "id": "tallinding-cities-v2",
-      "descriptionAdvanced": "Tallinding ist ein wichtiger Stadtteil innerhalb der Serekunda-Agglomeration, der vor allem als dicht besiedeltes Wohngebiet und lokales Handelszentrum fungiert. Durch die Lage direkt an einer der Hauptverkehrsstraßen nach Banjul ist das Viertel ein Durchgangspunkt für viele Bewohner, die in der Hauptstadt arbeiten. Die lokalen Märkte von Tallinding bieten eine Vielzahl von Lebensmitteln und Alltagswaren, die den Grundbedarf der wachsenden Bevölkerung decken. Als integrierter Bestandteil des urbanen Gefüges von Serekunda spiegelt Tallinding das Wachstum und die wirtschaftliche Energie des gambischen Westens wider. Wirtschaft K6 — Lokale Marktwirtschaft.",
-      "factsAdvanced": ["Bedeutendes Wohngebiet in Serekunda.", "Lage an der Hauptstraße nach Banjul.", "Wichtige lokale Märkte für Alltagswaren.", "Hohe urbane Dichte.", "Zentrum für den lokalen Handel.", "Wichtiger Transitpunkt für Pendler.", "Integration in das städtische Gesamtgefüge."]
+      "id": "tanje-village-museum-history-v2",
+      "descriptionAdvanced": "Das Tanje Village Museum ist ein außergewöhnliches Freilichtmuseum, das sich der umfassenden Dokumentation und lebendigen Vermittlung der gambischen Kultur, Handwerkskunst und Naturgeschichte widmet. Inmitten des authentischen Fischerdorfes Tanji gelegen, präsentiert das Museum detailgetreue Nachbauten traditioneller Wohnhäuser der verschiedenen Ethnien des Landes. Besucher können Handwerkern wie Webern, Töpfern und Schnitzern bei der Arbeit über die Schulter schauen und die enorme Vielfalt lokaler Instrumente und Masken entdecken. Ein besonderer Schwerpunkt liegt auf der Darstellung der regionalen Flora und Fauna sowie der traditionellen Heilmethoden. Das Tanje Village Museum ist weit mehr als eine Sammlung von Artefakten; es ist eine Bildungseinrichtung, die das kulturelle Bewusstsein stärkt und zeigt, wie traditionelles Wissen auch in einer modernen Gesellschaft wertvoll bleibt. (Sozialkunde K7 — Kulturerhalt und ethnographische Bildung)",
+      "factsAdvanced": [
+        "Führendes privates ethnographisches Museum in Gambia.",
+        "Beherbergt authentische Nachbauten traditioneller Wohnhäuser.",
+        "Zentrum für die Demonstration historischer Handwerkstechniken.",
+        "Umfangreiche Sammlung von traditionellen Musikinstrumenten.",
+        "Integrierter Naturpfad zur Erläuterung lokaler Heilpflanzen.",
+        "Wichtiger Ort für die Ausbildung gambischer Schüler in Kulturgeschichte.",
+        "Engagiert in der Bewahrung bedrohter indigener Sprachen und Bräuche.",
+        "Beliebtes Ziel für Kulturtouristen an der Atlantikküste."
+      ]
+    },
+    {
+      "id": "st-joseph-church-banjul-history-v2",
+      "descriptionAdvanced": "Die St. Joseph's Church in Banjul ist ein architektonisches und religiöses Juwel, das die lange Geschichte des Christentums in der gambischen Hauptstadt verkörpert. Erbaut in der Mitte des 19. Jahrhunderts, ist sie eine der ältesten katholischen Kirchen des Landes und ein herausragendes Beispiel für koloniale Sakralarchitektur. Mit ihrer markanten Fassade und dem eleganten Innenraum bietet sie einen Ort der Ruhe inmitten der geschäftigen Hauptstadt. Die Kirche spielte eine zentrale Rolle bei der Integration befreiter Sklaven in die städtische Gesellschaft und war über Generationen ein Zentrum für Bildung und soziale Fürsorge. Heute steht die St. Joseph's Church als Symbol für die religiöse Vielfalt und Toleranz in Gambia, wo Muslime und Christen seit Jahrhunderten in Frieden zusammenleben. Ein Besuch bietet tiefe Einblicke in die soziale und spirituelle Entwicklungsgeschichte von Banjul. (Geschichte K8 — Religionsgeschichte und Kolonialarchitektur)",
+      "factsAdvanced": [
+        "Eine der ältesten katholischen Kirchen in Gambia (19. Jh.).",
+        "Herausragendes Denkmal der kolonialen Missionsarchitektur.",
+        "Zentraler Ort für die katholische Gemeinde in der Hauptstadt.",
+        "Historisch bedeutend für den Aufbau des nationalen Bildungswesens.",
+        "Beherbergt kunstvolle Glasfenster und religiöse Artefakte.",
+        "Symbol für den sozialen Wandel in der frühen Kronkolonie.",
+        "Wichtiger Punkt auf dem historischen Stadtrundgang durch Banjul.",
+        "Zentrum für interreligiösen Dialog und soziale Projekte."
+      ]
+    },
+    {
+      "id": "vainqueur-ruins-history-v2",
+      "descriptionAdvanced": "Die Ruinen von Vainqueur an der North Bank sind die steinernen Überreste eines strategisch platzierten französischen Militärpostens aus dem 18. Jahrhundert. In einer Ära, in der Frankreich und Großbritannien erbittert um die Vorherrschaft am Gambia-Fluss kämpften, diente Vainqueur als nördliche Bastion zur Überwachung des Schiffsverkehrs. Die Ruinen verdeutlichen die enormen Anstrengungen, die unternommen wurden, um kleine, aber wirtschaftlich wertvolle Enklaven in einem fremden Territorium zu halten. Heute sind die verwitterten Mauern ein Ort der Stille, der von den gescheiterten imperialen Träumen und der rauen Realität des Koloniallebens erzählt. Vainqueur ist ein wichtiges archäologisches Zeugnis für die militärische Rivalität in Senegambia und bietet einen faszinierenden Einblick in die geopolitische Komplexität des 18. Jahrhunderts, lange vor der formalen Aufteilung Afrikas. (Geschichte K8 — Koloniale Rivalitäten und Militärgeschichte)",
+      "factsAdvanced": [
+        "Relikte eines französischen Militärpostens aus dem 18. Jh.",
+        "Strategisch positioniert zur Kontrolle der Nordpassage am Fluss.",
+        "Zeugnis für den jahrhundertelangen Konflikt zwischen FRA und GB.",
+        "Wichtiger Ort für die archäologische Erforschung kolonialer Außenposten.",
+        "Symbol für die fragilen Machtverhältnisse in vorkolonialer Zeit.",
+        "Bietet Einblicke in die Bautechniken des 18. Jahrhunderts in Westafrika.",
+        "Abgelegene historische Stätte mit hoher authentischer Ausstrahlung.",
+        "Teil des historischen Netzwerkes von Fortifikationen am Ästuar."
+      ]
+    },
+    {
+      "id": "sankandi-battlefield-history-v2",
+      "descriptionAdvanced": "Das Schlachtfeld von Sankandi in der Lower River Region ist ein Ort von höchster emotionaler und historischer Bedeutung für die nationale Identität Gambias. Im Jahr 1900 fand hier eine entscheidende und blutige Auseinandersetzung zwischen lokalen Kriegern und britischen Expeditionstruppen statt, die den endgültigen Zusammenbruch des indigenen Widerstands im Hinterland markierte. Die Schlacht von Sankandi gilt als der Wendepunkt, der den Weg für die vollständige koloniale Verwaltung des Protektorats ebnete. Heute erinnert ein Denkmal an die Tapferkeit der lokalen Kämpfer und an die Opfer dieses Konflikts. Ein Besuch in Sankandi ist eine Auseinandersetzung mit der harten Realität der Kolonisierung und ein notwendiger Schritt zum Verständnis der modernen politischen Geographie Gambias. Der Ort ist ein Symbol für Widerstandskraft und den hohen Preis der Souveränität. (Geschichte K8 — Widerstandsbewegungen und Kolonialisierung)",
+      "factsAdvanced": [
+        "Schauplatz einer der bedeutendsten Schlachten gegen die Briten (1900).",
+        "Wichtiger Ort des nationalen Gedenkens in der Lower River Region.",
+        "Markiert das Ende der souveränen lokalen Herrschaft im Protektorat.",
+        "Symbol für den heroischen Widerstand gegen koloniale Expansion.",
+        "Historisch fundierter Ort für nationale Bildungskampagnen.",
+        "Beherbergt ein Denkmal zur Ehre der gefallenen lokalen Krieger.",
+        "Zentraler Punkt für die Erforschung der kolonialen Militärtaktik.",
+        "Wesentlicher Bezugspunkt für die politische Geschichte Gambias."
+      ]
+    },
+    {
+      "id": "basse-colonial-quarter-history-v2",
+      "descriptionAdvanced": "Das historische Kolonialviertel von Basse Santa Su am Ufer des Gambia-Flusses ist ein faszinierendes Freilichtmuseum des frühen 20. Jahrhunderts. Als einstigem Endpunkt der großen Flussdampfer verdankt Basse seinen Reichtum dem Erdnusshandel, was sich in den massiven, oft zweistöckigen Lagerhäusern und Handelshäusern widerspiegelt. Die Architektur verbindet viktorianische Stilelemente mit lokalen Anpassungen an das tropische Klima und erzeugt eine Atmosphäre, die an die Blütezeit der Flussschifffahrt erinnert. Viele dieser Gebäude werden heute noch als Geschäfte oder Wohnhäuser genutzt, was dem Viertel eine lebendige, authentische Dynamik verleiht. Ein Spaziergang durch diese Gassen ist eine Zeitreise in die Ära der großen Handelsgesellschaften und verdeutlicht die historische Rolle von Basse als das wirtschaftliche Tor zum tiefen afrikanischen Binnenland. (Geschichte/Wirtschaft K8 — Handelshistorie und Stadtgeographie)",
+      "factsAdvanced": [
+        "Bedeutendstes Ensemble kolonialer Handelsarchitektur im Inland.",
+        "Ehemaliger Haupthafen für den Erdnussexport am Oberlauf.",
+        "Beherbergt gut erhaltene Gebäude bedeutender Handelsgesellschaften.",
+        "Symbol für den wirtschaftlichen Boom der 1920er und 1930er Jahre.",
+        "Einzigartige Mischung aus historischem Erbe und modernem Handel.",
+        "Strategisch gelegen am Ufer zur Beobachtung der Flusslogistik.",
+        "Wichtiger Ort für den Erhalt der urbanen Identität der URR.",
+        "Inspirationsquelle für zeitgenössische gambische Architektur."
+      ]
+    },
+    {
+      "id": "arch-22-landmarks-v2",
+      "descriptionAdvanced": "Der Arch 22 in Banjul ist weit mehr als nur ein architektonisches Wahrzeichen; er ist das monumentale Symbol für den Eintritt Gambias in eine neue politische Ära. Mit einer beeindruckenden Höhe von 35 Metern dominiert er die Skyline der Hauptstadt und bildet das majestätische Tor am Ende des Highways. Das Bauwerk, das 1996 eingeweiht wurde, kombiniert moderne Betonbauweise mit klassizistischen Elementen und beherbergt in seinem Inneren ein Museum zur Zeitgeschichte sowie eine Galerie mit traditionellem Kunsthandwerk. Besucher können mit einem Fahrstuhl zur Aussichtsplattform gelangen, die einen unvergleichlichen Panoramablick über die Gitterstraßen von Banjul, den Hafen und den Atlantischen Ozean bietet. Der Arch 22 ist ein Ort der nationalen Repräsentation und ein Muss für jeden Besucher, der die moderne Seele Gambias verstehen möchte. (Erdkunde K7 — Stadtplanung und nationale Wahrzeichen)",
+      "factsAdvanced": [
+        "Höchstes Bauwerk der Hauptstadt Banjul (35 Meter).",
+        "Errichtet zur Erinnerung an den friedlichen Umbruch von 1994.",
+        "Bietet eine 360-Grad-Aussichtsplattform über die gesamte Insel.",
+        "Beherbergt das Museum für nationale Entwicklung und Kultur.",
+        "Strategisch platziert am Eingang der Independence Drive.",
+        "Architektonisches Wahrzeichen von internationalem Rang.",
+        "Symbol für die Unabhängigkeit und Souveränität des Landes.",
+        "Zentraler Punkt für Staatszeremonien und Paraden."
+      ]
+    },
+    {
+      "id": "wassu-stone-circles-landmarks-v2",
+      "descriptionAdvanced": "Die Steinkreise von Wassu sind das international bekannteste Wahrzeichen Gambias und ein mystisches Portal in die tiefe Vergangenheit Westafrikas. Diese UNESCO-Welterbestätte besteht aus elf Kreisen, die aus massiven, rötlichen Lateritsäulen geformt wurden – ein Zeugnis für die enorme handwerkliche und organisatorische Leistung prähistorischer Gesellschaften. Die Präzision, mit der die Steine behauen und angeordnet wurden, lässt auf ein tiefes Verständnis von Astronomie und Geometrie schließen. Wassu ist nicht nur eine archäologische Stätte, sondern ein Ort von tiefer spiritueller Bedeutung, der die Identität Gambias nachhaltig prägt und sogar auf der Landeswährung verewigt ist. Ein Besuch in Wassu bietet die einzigartige Gelegenheit, über die Rätsel der Menschheitsgeschichte nachzudenken und die beeindruckende Megalithkultur in einer malerischen Savannenlandschaft zu erleben. (Geschichte K8 — Vorkoloniale Hochkulturen und Weltkulturerbe)",
+      "factsAdvanced": [
+        "Bedeutendste archäologische Stätte des Senegambia-Megalithkomplexes.",
+        "UNESCO-Weltkulturerbe seit 2006 aufgrund seiner Einzigartigkeit.",
+        "Die Steine stammen aus dem Zeitraum zwischen 300 v. Chr. und 1600 n. Chr.",
+        "Beherbergt ein modernes Informationszentrum für Besucher.",
+        "Lateritsäulen mit einem Gewicht von mehreren Tonnen pro Stein.",
+        "Wichtigster Ort für die Erforschung der eisenzeitlichen Sozialstrukturen.",
+        "Nationales Symbol, dargestellt auf der 50-Dalasi-Banknote.",
+        "Zieht Wissenschaftler und Mystery-Touristen aus aller Welt an."
+      ]
+    },
+    {
+      "id": "fort-bullen-landmarks-v2",
+      "descriptionAdvanced": "Fort Bullen, am Barra Point strategisch an der Flussmündung gelegen, ist ein weithin sichtbares Denkmal für den Schutz der Menschenrechte und den Kampf gegen die Sklaverei. Erbaut von den Briten im frühen 19. Jahrhundert, war es die einzige Festung in Gambia, die explizit dazu diente, das Verbot des Sklavenhandels militärisch durchzusetzen. Die massiven Bastionen und die imposanten Kanonenstellungen zeugen von einer Zeit, als die Kontrolle über den Fluss über das Schicksal Tausender entschied. Heute ist das Fort ein bedeutendes UNESCO-Welterbe und beherbergt ein Museum, das die maritime Geschichte und den kulturellen Widerstand des Niumi-Königreichs dokumentiert. Die Kombination aus historischer Architektur, bewegender Geschichte und dem dramatischen Blick über das Ästuar macht Fort Bullen zu einem der wichtigsten kulturellen Ankerpunkte Westafrikas. (Geschichte K8 — Menschenrechte und koloniale Fortifikationen)",
+      "factsAdvanced": [
+        "Strategische Festungsanlage zur Kontrolle der Gambia-Flussmündung.",
+        "Einziges britisches Fort in Westafrika zum Schutz der 'Freien Afrikaner'.",
+        "Teil der UNESCO-Welterbeliste 'Kunta Kinteh Island and Related Sites'.",
+        "Beherbergt historische 32-Pfünder-Kanonen in originaler Aufstellung.",
+        "Wichtiger Standort für die militärische Überwachung im 19. Jahrhundert.",
+        "Standort eines exzellenten Museums zur lokalen Geschichte.",
+        "Herausragendes Beispiel für koloniale Lehm- und Steinbaukunst.",
+        "Symbol für die globale Wende in der Abolitionismus-Bewegung."
+      ]
+    },
+    {
+      "id": "senegambia-bridge-landmarks-v2",
+      "descriptionAdvanced": "Die Senegambia-Brücke, oft als 'Brücke der Hoffnung' bezeichnet, ist das modernste und ökonomisch bedeutendste Wahrzeichen Gambias. Seit ihrer Eröffnung im Jahr 2019 verbindet sie Yelitenda und Bambatenda und hat die jahrzehntelange Abhängigkeit von unzuverlässigen Fähren beendet. Mit einer Länge von fast 2 Kilometern ist sie ein technisches Meisterwerk, das die Nord-Süd-Verbindung innerhalb Senegambias revolutioniert hat. Die Brücke ist ein Symbol für die regionale Integration Westafrikas und hat den Warenverkehr zwischen Dakar und der Casamance massiv beschleunigt. Für Gambia bedeutet sie einen enormen wirtschaftlichen Impuls, da sie den Transitverkehr zentralisiert und neue Entwicklungschancen für das Landesinnere eröffnet. Die Senegambia-Brücke steht für den Fortschritt, die Modernisierung der Infrastruktur und den Wunsch nach grenzüberschreitender Zusammenarbeit im 21. Jahrhundert. (Wirtschaft K8 — Infrastruktur und regionale Integration)",
+      "factsAdvanced": [
+        "Längste Brücke in Gambia und bedeutendste Infrastruktur des Landes.",
+        "Ersetzte 2019 die historische Yelitenda-Fähre am Trans-Gambia Highway.",
+        "Fast 2 Kilometer langes Bauwerk finanziert durch internationale Partner.",
+        "Zentraler Punkt für den Transitverkehr zwischen Nord- und Südsenegal.",
+        "Revolutionierte den regionalen Agrarhandel und die Logistik.",
+        "Symbol für die moderne Partnerschaft zwischen Gambia und Senegal.",
+        "Hochmoderne Mautstation mit digitaler Verkehrsüberwachung.",
+        "Motor für das wirtschaftliche Wachstum der ländlichen Regionen."
+      ]
+    },
+    {
+      "id": "independence-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Independence Stadium in Bakau ist das nationale Heiligtum des Sports und der zentrale Ort für bedeutende Staatszeremonien in Gambia. Mit einer Kapazität von rund 30.000 Zuschauern ist es die größte und wichtigste Arena des Landes und der stolze Austragungsort der Heimspiele der gambischen Fußballnationalmannschaft, den 'Scorpions'. Erbaut mit internationaler Unterstützung, ist das Stadion ein Symbol für die nationale Einheit und den sportlichen Aufstieg Gambias in Afrika. Neben Fußball finden hier Leichtathletikwettbewerbe, politische Kundgebungen und große Musikkonzerte statt, die Menschen aus allen Gesellschaftsschichten zusammenbringen. Das Stadion ist das pulsierende Herz der gambischen Jugendkultur und ein Ort, an dem nationale Begeisterung und Stolz unmittelbar erlebbar sind. Es spielt eine Schlüsselrolle bei der Förderung des Sports und der Identitätsbildung der jungen Nation. (Sozialkunde K7 — Nationale Symbole und Sportkultur)",
+      "factsAdvanced": [
+        "Nationalstadion Gambias mit Sitz in Bakau (Kanifing Municipality).",
+        "Hauptaustragungsort für alle Länderspiele der Nationalmannschaft.",
+        "Größte Mehrzweckarena des Landes für Sport und Kultur.",
+        "Zentrum für bedeutende nationale Feierlichkeiten und Paraden.",
+        "Symbol für die Förderung der gambischen Jugend und des Sports.",
+        "Wichtiger Standort für Leichtathletik und nationale Meisterschaften.",
+        "Beherbergt Büros zahlreicher nationaler Sportverbände.",
+        "Inspirationsort für die aufstrebende Fußball-Generation des Landes."
+      ]
+    },
+    {
+      "id": "kachikally-pool-landmarks-v2",
+      "descriptionAdvanced": "Das Krokodilbecken von Kachikally ist eines der ikonischsten Wahrzeichen Bakaus und ein faszinierendes Beispiel für die tiefe Verbindung zwischen Kultur, Spiritualität und Natur in Gambia. Dieser heilige Ort, der von einem uralten Waldhain umgeben ist, beherbergt Dutzende von Nilkrokodilen, die für ihre außergewöhnliche Sanftmut bekannt sind. Kachikally ist weit mehr als eine Touristenattraktion; es ist ein lebendiges spirituelles Zentrum, in dem seit Jahrhunderten Fruchtbarkeitsrituale und Heilungszeremonien durchgeführt werden. Die Stätte beherbergt zudem ein erstklassiges ethnographisches Museum, das die Geschichte der Region und die Bedeutung der Krokodile in der westafrikanischen Kosmologie erläutert. Kachikally ist ein magischer Ort, der zeigt, wie traditionelle Werte in einem modernen urbanen Umfeld bewahrt werden können und bleibt ein unverzichtbares Ziel für jeden, der die tiefere kulturelle Identität Gambias erkunden möchte. (Sachkunde K6 — Indigenes Wissen und kulturelle Diversität)",
+      "factsAdvanced": [
+        "Berühmteste heilige Stätte für Fruchtbarkeitsrituale in Westafrika.",
+        "Einzigartiger Lebensraum für über 100 zahme Krokodile.",
+        "Beherbergt ein bedeutendes Museum für gambische Volkskunde.",
+        "Symbol für die spirituelle Identität der Stadt Bakau.",
+        "Inmitten eines jahrhundertealten, geschützten Regenwald-Relikts.",
+        "Wichtiger Ort für den Erhalt traditioneller Maskentänze und Musik.",
+        "Zieht jährlich tausende internationale Forscher und Reisende an.",
+        "Hüter der heiligen Gewässer mit angeblicher Heilkraft."
+      ]
+    },
+    {
+      "id": "king-fahad-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die King Fahad Moschee in Banjul ist ein architektonisches Meisterwerk und das spirituelle Herz der gambischen Hauptstadt. Mit ihren eleganten Minaretten und der imposanten Kuppel prägt sie das Stadtbild von Banjul und ist ein weithin sichtbares Symbol für den islamischen Glauben der Nation. Die Moschee wurde mit Unterstützung Saudi-Arabiens errichtet und kombiniert klassische islamische Architekturstile mit modernen Bautechniken. Sie dient nicht nur als Ort des Gebets für Tausende von Gläubigen, sondern ist auch ein Zentrum für islamische Gelehrsamkeit und soziale Begegnung. Die King Fahad Moschee ist ein Ort der Ruhe und Besinnung inmitten der geschäftigen Metropole und verdeutlicht die zentrale Rolle, die der Islam im täglichen Leben und in der moralischen Struktur der gambischen Gesellschaft spielt. Ihre prachtvolle Gestaltung macht sie zu einem der meistfotografierten Gebäude Westafrikas. (Religion/Sozialkunde K7 — Religiöse Architektur und gesellschaftliche Werte)",
+      "factsAdvanced": [
+        "Größte und prachtvollste Moschee in der Hauptstadt Banjul.",
+        "Wahrzeichen des modernen islamischen Glaubens in Gambia.",
+        "Architektonische Kombination aus saudischen und westafrikanischen Einflüssen.",
+        "Zentraler Versammlungsort für die großen Freitagsgebete.",
+        "Sitz bedeutender islamischer Bildungs- und Wohltätigkeitsinitiativen.",
+        "Bietet Platz für tausende Gläubige im prächtigen Gebetssaal.",
+        "Strategisch positioniert in der Nähe des Regierungsviertels.",
+        "Wichtiges Symbol für die internationale islamische Zusammenarbeit."
+      ]
+    },
+    {
+      "id": "st-josephs-cathedral-landmarks-v2",
+      "descriptionAdvanced": "Die St. Joseph's Kathedrale ist die bedeutendste katholische Kirche in Gambia und ein stolzes Zeugnis der christlichen Geschichte in der Hauptstadt Banjul. Dieses historische Bauwerk aus dem 19. Jahrhundert besticht durch seine elegante koloniale Architektur und seine spirituelle Ausstrahlung. Als Kathedrale des Bistums Banjul ist sie das religiöse Zentrum für die katholische Gemeinschaft des Landes und spielt eine zentrale Rolle bei bedeutenden ökumenischen Ereignissen. Die Kathedrale ist bekannt für ihre harmonische Integration in das städtische Umfeld und steht beispielhaft für das friedliche Miteinander der Religionen in Gambia. Im Inneren finden Besucher kunstvolle Altäre und eine Atmosphäre der Andacht, die einen starken Kontrast zum lebhaften Marktgeschehen vor den Toren bildet. St. Joseph's ist ein unverzichtbarer Teil des kulturellen und religiösen Erbes der Nation. (Geschichte K8 — Christliche Mission und urbane Sakralbauten)",
+      "factsAdvanced": [
+        "Hauptkathedrale der römisch-katholischen Diözese von Banjul.",
+        "Historisch bedeutsames Gebäude aus der frühen Kolonialzeit.",
+        "Zentrum der christlichen Bildung und sozialen Fürsorge in der Stadt.",
+        "Symbol für die religiöse Toleranz und Vielfalt in Gambia.",
+        "Beherbergt wertvolle religiöse Kunstwerke und Glasmalereien.",
+        "Wichtiger Standort für die musikalische Ausbildung (Chorgesang).",
+        "Teil des architektonischen Ensembles der historischen Independence Drive.",
+        "Ort für bedeutende nationale Gedenkgottesdienste."
+      ]
+    },
+    {
+      "id": "albert-market-landmarks-v2",
+      "descriptionAdvanced": "Der Albert Market in Banjul ist das pulsierende wirtschaftliche Herz der Hauptstadt und ein wahres Fest für alle Sinne. Gegründet in der Mitte des 19. Jahrhunderts und benannt nach Prinz Albert, dem Ehegemahl von Königin Victoria, hat sich dieser Markt zu einem gigantischen Labyrinth aus Handelswegen entwickelt. Hier findet man alles: von leuchtenden Textilien und traditionellem Kunsthandwerk bis hin zu exotischen Gewürzen, frischem Fisch und modernen Elektronikgeräten. Der Markt ist nicht nur ein Ort des Warenaustauschs, sondern das soziale Epizentrum des Landes, wo die unglaubliche Energie und der Unternehmergeist der Gambier unmittelbar spürbar sind. Ein Besuch des Albert Market ist eine faszinierende Reise durch die Alltagskultur Westafrikas und bietet tiefe Einblicke in die informelle Wirtschaft, die das Rückgrat der Nation bildet. (Wirtschaft K6 — Handelssysteme und informeller Sektor)",
+      "factsAdvanced": [
+        "Berühmtester und ältester Markt in Gambia (gegründet um 1850).",
+        "Wichtigster Handelsplatz für traditionelle gambische Textilien (Batik).",
+        "Zentrum des täglichen Warenaustauschs für die gesamte Hauptstadt.",
+        "Beherbergt einen spezialisierten Sektor für hochwertiges Kunsthandwerk.",
+        "Wesentlicher Wirtschaftsfaktor für tausende von Kleinhändlern.",
+        "Einzigartige Mischung aus historischer Struktur und modernem Trubel.",
+        "Wichtigster Punkt für den Import und Vertrieb von Konsumgütern.",
+        "Symbol für die maritime Handelsgeschichte von Banjul."
+      ]
+    },
+    {
+      "id": "state-house-gambia-landmarks-v2",
+      "descriptionAdvanced": "Das State House in Banjul ist der offizielle Amtssitz des Präsidenten der Republik Gambia und das Symbol der nationalen Souveränität. Dieses prächtige weiße Gebäude an der Marina Parade blickt direkt auf das Ästuar des Gambia-Flusses und ist von gut bewachten, üppigen Gärten umgeben. Historisch als Government House bekannt, diente es während der Kolonialzeit als Residenz der britischen Gouverneure. Heute ist es das politische Kraftzentrum des Landes, in dem wegweisende Entscheidungen für die Zukunft Gambias getroffen werden. Die Architektur spiegelt die koloniale Vergangenheit wider, während die Funktion die moderne demokratische Identität des Landes verkörpert. Obwohl es für die Öffentlichkeit meist nur von außen sichtbar ist, bleibt das State House der wichtigste administrative Ankerpunkt und ein unverzichtbares Wahrzeichen im Herzen der Hauptstadt. (Sozialkunde K8 — Staatsorgane und nationale Verwaltung)",
+      "factsAdvanced": [
+        "Offizieller Amtssitz des Präsidenten der Republik Gambia.",
+        "Ehemalige Residenz der britischen Gouverneure (Government House).",
+        "Strategisch gelegen an der Marina Parade mit Blick auf den Atlantik.",
+        "Zentraler Ort für alle bedeutenden diplomatischen Empfänge.",
+        "Symbol für die politische Stabilität und nationale Führung.",
+        "Beherbergt die höchsten administrativen Büros des Staates.",
+        "Herausragendes Beispiel für koloniale Architektur in Banjul.",
+        "Zentrum der nationalen Sicherheits- und Verteidigungsplanung."
+      ]
+    },
+    {
+      "id": "national-museum-gambia-landmarks-v2",
+      "descriptionAdvanced": "Das Nationalmuseum von Gambia ist der wichtigste Hüter des kollektiven Gedächtnisses der Nation und ein zentrales Bildungsdenkmal in Banjul. Untergebracht in einem geschichtsträchtigen kolonialen Gebäude, bietet das Museum eine umfassende Reise durch die Jahrtausende gambischer Geschichte. Die Ausstellungen reichen von prähistorischen Werkzeugen der Megalithkultur bis hin zu zeitgenössischer Kunst und ethnographischen Schätzen. Besonders beeindruckend ist die Darstellung der Unabhängigkeitsbewegung und die Würdigung der kulturellen Vielfalt der verschiedenen Volksgruppen wie der Mandinka, Fula und Wolof. Das Museum spielt eine entscheidende Rolle bei der Vermittlung der nationalen Identität an die junge Generation und dient als Forschungszentrum für die Bewahrung des immateriellen Kulturerbes. Ein Besuch ist essenziell, um die Wurzeln und die kulturelle Widerstandskraft der Bevölkerung zu verstehen. (Geschichte K7 — Nationalgeschichte und musealer Erhalt)",
+      "factsAdvanced": [
+        "Zentraler Standort für die Bewahrung des gambischen Kulturerbes.",
+        "Beherbergt die bedeutendste Sammlung zur Archäologie des Landes.",
+        "Zentrum für die Dokumentation der vorkolonialen Königreiche.",
+        "Ausstellungsort für traditionelle Masken, Instrumente und Kleidung.",
+        "Wichtiger Partner für internationale Forschungsprojekte.",
+        "Dient als nationales Archiv für historische Dokumente und Karten.",
+        "Symbol für die kulturelle Bildung und den nationalen Stolz.",
+        "Gelegen in einem gut erhaltenen Baudenkmal der Kolonialzeit."
+      ]
     }
   ]
 }

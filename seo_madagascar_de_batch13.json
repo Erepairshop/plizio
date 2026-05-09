@@ -1,0 +1,127 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ranomafana-zoo-bereich-life-v2",
+      "descriptionAdvanced": "Das Leben in Ranomafana wird durch den Nationalpark und sein spezialisiertes Forschungs- und Bildungszentrum geprägt, das oft als 'Zoo-Bereich' oder Informationszentrum bezeichnet wird. Inmitten des dichten Nebelwaldes der Ostküste bietet dieser Bereich einen konzentrierten Einblick in die außergewöhnliche Biodiversität der Region. Hier können Besucher die seltenen Goldenen Bambuslemuren und die Vielfalt an Chamäleons, Geckos und exotischen Vögeln in ihrer natürlichen Umgebung besser verstehen lernen. Das Zentrum dient als Brücke zwischen der internationalen Forschung (Centre ValBio) und der lokalen Bevölkerung. Das Leben hier ist der Erhaltung des Regenwaldes gewidmet, wobei Bildungsprogramme das Bewusstsein für den Schutz dieses fragilen Ökosystems stärken. Für Schüler und Studenten ist dieser Bereich ein lebendes Klassenzimmer der Evolutionsbiologie. Biologie K7 — Regenwaldökologie und Artenschutz.",
+      "factsAdvanced": [
+        "Zentraler Bildungs- und Informationsbereich des Ranomafana-Nationalparks",
+        "Eng verknüpft mit der Forschungsstation Centre ValBio unter Dr. Patricia Wright",
+        "Wichtigster Standort für die Beobachtung des seltenen Goldenen Bambuslemuren",
+        "Beherbergt Ausstellungen zur endemischen Flora und Fauna des Nebelwaldes",
+        "Zentrum für die Ausbildung lokaler Naturführer (Guides)",
+        "Fördert den nachhaltigen Ökotourismus in der Region Haute Matsiatra",
+        "Symbol für die erfolgreiche Integration von Forschung und Naturschutz",
+        "Bietet detaillierte Einblicke in die komplexen Symbiosen der Regenwald-Biodiversität"
+      ]
+    },
+    {
+      "id": "sahambavy-tee-plantage-life-v2",
+      "descriptionAdvanced": "Das Leben in Sahambavy, nahe Fianarantsoa, wird durch die einzige Teeplantage Madagaskars geprägt, die das Relief der Hügel in eine akkurate, grüne Teppichlandschaft verwandelt. In der kühlen Höhenlage des südlichen Hochlandes gedeihen die Teesträucher auf fruchtbaren Böden und profitieren von den regelmäßigen Nebeln. Gegründet in den 1970er Jahren, hat sich Sahambavy zu einem bedeutenden Wirtschaftsfaktor für die Region entwickelt. Das Leben auf der Plantage folgt dem Rhythmus der händischen Ernte, bei der geschickte Pflückerinnen die zarten Blätter für die Produktion von Schwarz- und Grüntee sammeln. Die Teefabrik vor Ort ist ein industrielles Wahrzeichen, das den Duft von frischem Tee über die Täler verbreitet. Ein Besuch in Sahambavy bietet einen faszinierenden Einblick in die madagassische Agrarkultur und die handwerkliche Verarbeitung eines Weltklasse-Produkts. Wirtschaft K7 — Spezialkulturen und industrielle Verarbeitung.",
+      "factsAdvanced": [
+        "Einzige kommerzielle Teeplantage in ganz Madagaskar",
+        "Gegründet im Jahr 1970 unter Verwendung von Setzlingen aus Kenia",
+        "Wichtigster Arbeitgeber für die ländliche Bevölkerung rund um Sahambavy",
+        "Produziert hochwertigen Schwarz- und Grüntee für den nationalen und Exportmarkt",
+        "Das Relief der Plantage besteht aus sanft gewellten, intensiv grün leuchtenden Hügeln",
+        "Zentrum für den agrarischen Tourismus im südlichen Hochland",
+        "Symbol für die Diversifizierung der madagassischen Landwirtschaft",
+        "Verwendet traditionelle Methoden der Blattwelkung und Fermentierung"
+      ]
+    },
+    {
+      "id": "tamatave-stadtpark-life-v2",
+      "descriptionAdvanced": "Das Leben in Toamasina (Tamatave), der größten Hafenstadt Madagaskars, findet in den städtischen Parks und auf den weiten Plätzen wie der Place de la Colonne einen Ort der Ruhe und des gesellschaftlichen Austauschs. Inmitten der geschäftigen Handelsmetropole bieten diese Grünflächen einen notwendigen Kontrast zum Lärm der Häfen und Containerterminals. Das Leben im Park ist geprägt durch die salzige Meeresluft des nahen Indischen Ozeans und den Schatten großer tropischer Bäume. Hier treffen sich Händler, Reisende und Familien, um die kühlen Abendstunden zu genießen. Die Parks sind Zeugen der kolonialen Stadtplanung und dienen heute als wichtige soziale Knotenpunkte, die die Identität der 'Betsimisaraka-Metropole' stärken. Sie spiegeln den kosmopolitischen Geist von Toamasina wider, wo sich maritime Einflüsse mit madagassischer Lebensfreude vermischen. Sozialkunde K5 — Städtische Erholungsräume und Gemeinschaftsleben.",
+      "factsAdvanced": [
+        "Zentrale grüne Lunge im Herzen der wichtigsten madagassischen Hafenstadt",
+        "Wichtiger Treffpunkt für die Bewohner von Toamasina zur sozialen Interaktion",
+        "Geprägt durch eine Mischung aus kolonialen Denkmälern und moderner Stadtkultur",
+        "Zentrum für öffentliche Veranstaltungen und kulturelle Festlichkeiten",
+        "Beitrag zum städtischen Mikroklima in der feuchtheißen Küstenregion",
+        "Wahrzeichen für den Stolz der Betsimisaraka-Bevölkerung auf ihre Stadt",
+        "Bietet Raum für den informellen Handel mit regionalen Spezialitäten",
+        "Wesentlicher Bestandteil des historischen Stadtrundgangs durch Tamatave"
+      ]
+    },
+    {
+      "id": "toliara-botanischer-garten-life-v2",
+      "descriptionAdvanced": "Das Leben im Botanischen Garten von Toliara (Arboretum d'Antsokay) ist eine faszinierende Reise in die Welt des madagassischen Dornenwaldes. Dieser weltweit einzigartige Garten, gegründet vom Schweizer Botaniker Hermann Petignat, widmet sich der Erhaltung der bizarren Flora des Südwestens. Inmitten der ariden Landschaft der Region Atsimo-Andrefana gedeihen hier hunderte Arten von Sukkulenten, Flaschenbäumen und stacheligen Gewächsen, die an extreme Trockenheit angepasst sind. Das Arboretum ist ein kritisches Zentrum für den Schutz gefährdeter Pflanzenarten, die durch Holzkohleproduktion bedroht sind. Für Besucher und Schüler ist der Garten ein lebendes Museum, das die Genialität der Natur im Kampf ums Überleben zeigt. Das Arboretum symbolisiert die Leidenschaft für den Erhalt der biologischen Schätze des Südens und ist ein unverzichtbarer Ort für die Umweltbildung. Botanik K7 — Anpassungen an aride Lebensräume und Xerophyten.",
+      "factsAdvanced": [
+        "Weltweit bedeutendste Sammlung von Pflanzen des madagassischen Dornenwaldes",
+        "Gegründet im Jahr 1980 zur Erhaltung der bedrohten Flora des Südwestens",
+        "Beherbergt über 900 Pflanzenarten, von denen 90% endemisch sind",
+        "Zentrum für botanische Forschung und Saatgut-Sicherung in Madagaskar",
+        "Wichtiger Standort für die Umwelterziehung lokaler Schulklassen",
+        "Schützt seltene Exemplare von Didiereaceae und blühenden Sukkulenten",
+        "Symbol für das Lebenswerk des Naturschützers Hermann Petignat",
+        "Bietet Rückzugsräume für seltene Reptilien und Vögel der Trockenzone"
+      ]
+    },
+    {
+      "id": "tsingy-bemaraha-park-life-v2",
+      "descriptionAdvanced": "Das Leben im Nationalpark Tsingy de Bemaraha ist eine extreme Herausforderung an die Anpassungsfähigkeit der Natur. Dieses UNESCO-Weltnaturerbe im Westen Madagaskars ist ein Labyrinth aus messerscharfen Kalksteinnadeln, tiefen Schluchten und unterirdischen Flüssen. Die Tiere und Pflanzen hier haben sich in Millionen von Jahren an dieses lebensfeindliche, felsige Relief angepasst. Sifakas springen mit unglaublicher Präzision zwischen den scharfen Spitzen, während seltene Reptilien in den kühlen Felsspalten Zuflucht finden. Für die Menschen der Region ist der Park ein heiliger Ort, der durch traditionelle Gesetze geschützt wird. Der Zugang für Besucher ist aufgrund des schwierigen Terrains nur mit spezieller Ausrüstung möglich, was die Unberührtheit dieses geologischen Wunders sichert. Bemaraha ist ein Symbol für die Wildheit und die evolutionäre Einzigartigkeit Madagaskars. Geologie K8 — Karstlandschaften und evolutionäre Anpassung.",
+      "factsAdvanced": [
+        "UNESCO-Weltnaturerbe und einer der spektakulärsten Nationalparks weltweit",
+        "Geprägt durch ein riesiges Kalksteinrelief mit bis zu 100 m hohen Steinnadeln (Tsingy)",
+        "Lebensraum für elf Lemurenarten, darunter der Von-der-Decken-Sifaka",
+        "Beherbergt das größte unterirdische Höhlensystem Madagaskars",
+        "Die Vegetation umfasst seltene Ebenholzarten und xerophytische Pflanzen",
+        "Strategische Bedeutung für den Schutz der Wassereinzugsgebiete im Westen",
+        "Zentrum für den Extremtourismus und wissenschaftliche Geomorphologie-Studien",
+        "Symbol für den Erhalt unberührter Wildnisgebiete auf der Insel"
+      ]
+    },
+    {
+      "id": "tsingy-namoroka-park-life-v2",
+      "descriptionAdvanced": "Das Leben im Namoroka-Nationalpark im Nordwesten Madagaskars ist geprägt von extremer Abgeschiedenheit und der rauen Schönheit eines unberührten Karstreliefs. Ähnlich wie sein berühmterer Nachbar Bemaraha, bietet Namoroka einen dichten Wald aus messerscharfen Kalksteinnadeln, ist jedoch aufgrund seiner schwierigen Erreichbarkeit weit weniger erforscht. Das Leben hier folgt dem Rhythmus der intensiven Trockenzeit, in der die Tiere und Pflanzen wahre Überlebensstrategien entwickeln. Der Park beherbergt acht Lemurenarten und eine Vielzahl von Vögeln, die in den reizvollen Canyons und Höhlen Schutz finden. Namoroka ist ein heiliger Ort für die lokalen Gemeinschaften, deren Legenden eng mit den verborgenen Wasserquellen des Reliefs verknüpft sind. Die Erhaltung dieses ursprünglichen Zustands ist ein Zeugnis für die Resilienz der madagassischen Natur weitab der Zivilisation. Natur K7 — Karstökologie und isolierte Biodiversität.",
+      "factsAdvanced": [
+        "Abgelegener Nationalpark im Nordwesten mit spektakulärem Tsingy-Relief",
+        "Gilt als einer der ursprünglichsten und am wenigsten besuchten Parks der Insel",
+        "Geprägt durch tiefe Klüfte, Höhlensysteme und unterirdische Wasserläufe",
+        "Wichtiger Rückzugsort für den Decken-Sifaka und seltene Greifvögel",
+        "Relief bildet ein natürliches Reservoir für die umliegende Trockensavanne",
+        "Besitzt keine permanente touristische Infrastruktur, was den Schutz fördert",
+        "Zentrum für die Erforschung der Anpassung von Wirbeltieren an Kalksteinhabitate",
+        "Symbol für die geologische und biologische Vielfalt der Region Boeny"
+      ]
+    },
+    {
+      "id": "vakona-lemuren-insel-life-v2",
+      "descriptionAdvanced": "Das Leben auf der Vakona-Lemuren-Insel in der Nähe von Andasibe bietet eine weltweit einzigartige Möglichkeit zur direkten Interaktion mit Madagaskars berühmtesten Bewohnern. In diesem privaten Schutzgebiet leben Lemuren, die aus illegaler Haltung gerettet wurden oder verwaist sind, in einer halbwüchsigen Umgebung. Da sie durch Wassergräben auf der Insel bleiben, haben sie ihre Scheu vor Menschen teilweise abgelegt, was spektakuläre Nahbeobachtungen ermöglicht. Das Leben auf der Insel dient der Resozialisierung der Tiere und der Sensibilisierung der Besucher für den Schutz ihrer wilden Verwandten im benachbarten Nationalpark. Die Anlage ist ein wichtiger Bestandteil des Ökotourismus-Clusters von Andasibe und trägt zur Finanzierung umfangreicherer Naturschutzprojekte bei. Die Insel vermittelt auf emotionale Weise die Faszination und die Gefährdung der madagassischen Primaten. Naturschutz K6 — Tierschutz und Bildungskonzeptionen.",
+      "factsAdvanced": [
+        "Einzigartiges privates Lemuren-Resozialisierungszentrum in der Region Andasibe",
+        "Heimat für zahme Kattas, Braune Lemuren und seltene Varis",
+        "Bietet unmittelbare Begegnungen zwischen Mensch und Primat in sicherem Rahmen",
+        "Wichtiges Instrument zur Sensibilisierung von Touristen für den Wildtierschutz",
+        "Zentrum für die Vermittlung ökologischer Zusammenhänge des Regenwaldes",
+        "Das Gelände ist durch natürliche Wasserbarrieren (Kanäle) geschützt",
+        "Unterstützt lokale Arbeitsplätze im Bereich Tierpflege und Tourismus",
+        "Symbol für das Potenzial des privaten Engagements im madagassischen Naturschutz"
+      ]
+    },
+    {
+      "id": "zombitse-vohibasia-park-life-v2",
+      "descriptionAdvanced": "Das Leben im Nationalpark Zombitse-Vohibasia im Südwesten Madagaskars ist ein Wettlauf gegen die Zeit, da der Park eine der letzten Inseln des Übergangswaldes in einer intensiv genutzten Agrarlandschaft darstellt. Gelegen an der strategisch wichtigen Nationalstraße RN7, ist der Park berühmt für seine außergewöhnliche Vogelwelt, insbesondere den Appert-Bülbül, der nur hier vorkommt. Das Relief des Parks bietet einen kühlen Rückzugsort für Lemuren und Reptilien inmitten der heißen Ebenen. Die Erhaltung von Zombitse ist von entscheidender Bedeutung für das regionale Klima und dient als Puffer gegen die fortschreitende Wüstenbildung. Das Leben im Park zeigt die Herausforderungen des Naturschutzes in Madagaskar, wo der Schutz der Biodiversität mit den Bedürfnissen der lokalen Bevölkerung in Einklang gebracht werden muss. Er bleibt ein unverzichtbarer Halt für jeden Reisenden in den tiefen Süden. Ökologie K7 — Habitat-Fragmentierung und Endemismus.",
+      "factsAdvanced": [
+        "Strategisch wichtiges Relikt-Waldgebiet am Rande der Isalo-Region",
+        "Weltweit einziger Lebensraum für den seltenen Appert-Bülbül (Vogelart)",
+        "Hotspot für die Beobachtung von acht Lemurenarten, darunter der Larvensifaka",
+        "Bildet eine ökologische Brücke zwischen den Regenwäldern und dem Dornenwald",
+        "Wichtiges Zentrum für die Erforschung der Auswirkungen von Waldfragmentierung",
+        "Einer der besten Orte Madagaskars für die Beobachtung tagaktiver Lemuren",
+        "Schützt wertvolle Bestände an endemischen Orchideen und Sukkulenten",
+        "Unverzichtbares Bildungszentrum für Reisende entlang der RN7"
+      ]
+    }
+  ]
+}

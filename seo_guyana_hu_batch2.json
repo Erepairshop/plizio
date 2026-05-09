@@ -1,0 +1,81 @@
+{
+  "lang": "hu",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rose-hall-cities-v2",
+      "descriptionAdvanced": "Rose Hall az East Berbice-Corentyne régió egyik dinamikus kereskedelmi központja, amely szorosan kötődik a régió mezőgazdasági termeléséhez, különösen a cukornád- és rizstermesztéshez. Bár méretét tekintve a kisebb guyanai városok közé tartozik, Rose Hall élénk piaci élete és barátságos közössége miatt fontos szerepet játszik a helyi mindennapokban. A város egy hiteles betekintést nyújt a guyanai vidéki életbe, ahol a tradíciók és az új kereskedelmi lehetőségek folyamatosan találkoznak egymással. Szociológia K4 — a piaci központok szerepe a vidéki életben.",
+      "factsAdvanced": [
+        "Rose Hall az East Berbice-Corentyne régió szívében található.",
+        "Fontos kereskedelmi központ a helyi mezőgazdasági termékek számára.",
+        "A cukornád-termesztés történelmileg meghatározta a város gazdaságát.",
+        "A helyi piacok a közösségi élet és a kereskedelem fő színterei.",
+        "A település a külső szemlélő számára hiteles képet nyújt a vidéki Guyanáról.",
+        "Gazdasága szorosan összefonódott a régióban termesztett növényekkel."
+      ]
+    },
+    {
+      "id": "mahaica-village-cities-v2",
+      "descriptionAdvanced": "Mahaica Village stratégiai elhelyezkedésének köszönhetően a Demerara-Mahaica régió egyik kulcsfontosságú települése, amely összeköti a fővárost, Georgetownot a keleti partvidékkel. A Mahaica-folyó torkolatánál fekvő falu élete szorosan kötődik a folyóhoz, amely a mezőgazdasági területek vízellátását és a helyi közlekedést egyaránt biztosítja. A települést a termékeny talaj és az intenzív rizstermesztés jellemzi, ami a régió egyik legfontosabb megélhetési forrása. Földrajz K5 — a folyóvölgyek és a part menti gazdálkodás összefüggései.",
+      "factsAdvanced": [
+        "A település a Mahaica-folyó torkolatánál fekszik.",
+        "Georgetown és a keleti országrész közötti tranzitforgalom fontos állomása.",
+        "A mezőgazdaság alapját a rizstermesztés és az intenzív talajhasználat adja.",
+        "A folyó a gazdasági logisztika és a vízellátás alapja is.",
+        "Csendes, vidéki atmoszféra jellemzi a modern kereskedelmi fejlesztések mellett.",
+        "A vízrendszerek meghatározó elemei a közösségi életnek."
+      ]
+    },
+    {
+      "id": "mahaicony-village-cities-v2",
+      "descriptionAdvanced": "Mahaicony Village a Mahaicony-folyó mentén húzódik, egy olyan vidéken, ahol a kiterjedt alföldek ideális feltételeket biztosítanak a rizstermesztés és az állattenyésztés számára. A település szerves része a guyanai part menti övezetnek, ahol a folyó egyszerre működik életforrásként és logisztikai útvonalként a gazdálkodók számára. A város gyakran szolgál megállóhelyként az utazók számára, akik a főváros és a keleti régiók között közlekednek a part menti úton. Földrajz K5 — a part menti síkságok mezőgazdasági jelentősége.",
+      "factsAdvanced": [
+        "Mahaicony Village egy mezőgazdasági fókuszú település a part menti övezetben.",
+        "A környék kiterjedt alföldjei kitűnőek rizstermesztésre és állattartásra.",
+        "A Mahaicony-folyó a mindennapi élet és a gazdálkodás szerves része.",
+        "Fontos megállóhely a Georgetown és az ország keleti része közötti útvonalon.",
+        "A társadalmi életet az agrártermelési ciklusok ritmusa határozza meg.",
+        "A település a part menti infrastruktúra szerves része."
+      ]
+    },
+    {
+      "id": "vreed-en-hoop-cities-v2",
+      "descriptionAdvanced": "Vreed-en-Hoop a Demerara-folyó nyugati partján, közvetlenül a fővárossal szemben fekszik, és az Essequibo Islands-West Demerara régió egyik legmeghatározóbb kereskedelmi és adminisztratív központja. A Georgetown felé irányuló napi rendszerességű kompjáratoknak köszönhetően a város a legfőbb tranzitponttá vált a nyugati partról ingázók számára. A település az elmúlt évtizedekben dinamikus urbanizáción ment keresztül, és ma már a főváros és a nyugati országrész közötti gazdasági integráció egyik legfőbb motorja. Infrastrukturális tanulmányok K7 — az urbanizált ingázó zónák fejlesztése.",
+      "factsAdvanced": [
+        "A város a Demerara-folyó nyugati partján, Georgetownnal szemben épült.",
+        "Az Essequibo Islands-West Demerara régió fő adminisztratív központja.",
+        "A napi kompjárat a fővárossal való legfontosabb összeköttetést biztosítja.",
+        "Kulcsfontosságú tranzitpont a nyugati partról ingázó munkavállalók számára.",
+        "Az elmúlt években dinamikus kereskedelmi fejlődés jellemezte.",
+        "A város az urbanizált nyugati part egyik legfontosabb motorja."
+      ]
+    },
+    {
+      "id": "lethem-cities-v2",
+      "descriptionAdvanced": "Lethem a guyanai délnyugati Rupununi-szavanna szívében található, és a legfőbb kaput képezi a szomszédos Brazília irányába. A város a hatalmas szavannai táj központja, amely fontos kereskedelmi és szolgáltatási csomóponttá fejlődött a ritkábban lakott déli országrészben. A Takutu-folyó itt képezi a határt, és a két ország közötti élénk kereskedelem és kulturális cserék központja. Lethem az igazi 'határváros' hangulatát árasztja, ahol a természeti táj és a határon átnyúló kapcsolatok találkoznak. Földrajz K8 — a szavannai régiók és határátlépő városok.",
+      "factsAdvanced": [
+        "Lethem a Rupununi-szavanna központi városa.",
+        "Legfőbb átkelőhely Brazília és Guyana között.",
+        "A Takutu-folyó képezi a természetes országhatárt.",
+        "Kereskedelmi és szolgáltatási központ a déli régió számára.",
+        "A környék híres a hatalmas és látványos szavannai tájairól.",
+        "A nemzetközi határ menti kereskedelem a város gazdaságának motorja."
+      ]
+    },
+    {
+      "id": "mabaruma-cities-v2",
+      "descriptionAdvanced": "Mabaruma a Barima-Waini régió adminisztratív központjaként szolgál, Guyana északi, erdős és dombos részén. A település közel fekszik az Orinoco-folyó torkolatvidékéhez, ami sajátos földrajzi helyzetet biztosít számára. Gazdasága alapvetően a mezőgazdaságra és a halászatra támaszkodik, és mivel földrajzilag némileg elszigeteltebb a többi lakott központtól, a város sikeresen őrizte meg hagyományos értékeit és közösségi életét. Mabaruma egy létfontosságú ellátási pont a távoli északi régiók lakossága számára. Szociológia K5 — a regionális igazgatás kihívásai elszigetelt területeken.",
+      "factsAdvanced": [
+        "Mabaruma a Barima-Waini régió adminisztratív központja.",
+        "Északnyugaton, az Orinoco-folyó torkolatvidéke közelében fekszik.",
+        "A hagyományos gazdaság alapja a mezőgazdaság és a halászat.",
+        "A település a dombos táj és a partvidék egyedi találkozási pontja.",
+        "Fontos ellátási bázis az északnyugati régió lakói számára.",
+        "A földrajzi izoláció hozzájárult a helyi kulturális értékek megőrzéséhez."
+      ]
+    }
+  ]
+}

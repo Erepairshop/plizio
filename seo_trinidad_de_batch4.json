@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-barataria-cities-v2",
+      "descriptionAdvanced": "Barataria ist eine geschäftige Stadt am East-West Corridor von Trinidad, unmittelbar östlich von Port of Spain gelegen. Die Stadt dient als wichtiger Transitpunkt und Handelszentrum, geprägt von einer Mischung aus Wohnvierteln, Industrieanlagen und kleinen Gewerbebetrieben. Barataria ist bekannt für seinen lebhaften Markt und seine zentrale Rolle für Pendler, die in die Hauptstadt reisen. Geographisch liegt die Stadt in den flachen Ebenen am Fuße des Northern Range. Historisch entwickelte sich Barataria als Wohnvorort während des wirtschaftlichen Aufschwungs im 20. Jahrhundert. Die Stadt spiegelt die Dynamik der Metropolregion wider, mit einer hohen Dichte an Dienstleistungsangeboten und einer multikulturellen Bevölkerung. Im Unterricht (Geographie K7) wird Barataria als Beispiel für eine Stadt in der Agglomerationszone der Hauptstadt und für urbane Verdichtungsprozesse behandelt.",
+      "factsAdvanced": [
+        "Wichtiger Handels- und Wohnstandort am East-West Corridor.",
+        "Unmittelbare Nähe zur Hauptstadt Port of Spain.",
+        "Zentraler Knotenpunkt für den öffentlichen Nahverkehr.",
+        "Geprägt durch eine Mischung aus Gewerbe und Wohnraum.",
+        "Standort zahlreicher kleinerer Industrie- und Handwerksbetriebe.",
+        "Lebhaftes Stadtzentrum mit vielfältigen Einkaufsmöglichkeiten.",
+        "Teil der am schnellsten wachsenden Region Trinidads.",
+        "Thema: Agglomerationsräume und Urbanisierung (K7)."
+      ]
+    },
+    {
+      "id": "tt-st-james-cities-v2",
+      "descriptionAdvanced": "St. James ist ein pulsierendes und historisch reiches Stadtviertel im Westen von Port of Spain, das oft als 'die Stadt, die niemals schläft' bezeichnet wird. Berühmt für seine lebhafte Western Main Road, bietet St. James eine unglaubliche Vielfalt an Gastronomie, Bars und nächtlicher Unterhaltung. Das Viertel hat eine tiefe kulturelle Identität, geprägt durch die Nachfahren indischer Kontraktarbeiter, was sich besonders im jährlichen Hosay-Festival widerspiegelt. Historisch war St. James eine eigenständige Siedlung, bevor es in die Hauptstadt eingegliedert wurde. Die Architektur ist eine Mischung aus traditionellen Gingerbread-Häusern und modernen Geschäftsgebäuden. Für Schüler (Sozialkunde/Geschichte K7) bietet St. James einen faszinierenden Einblick in die religiöse Toleranz, die multikulturelle Geschichte und das moderne städtische Leben von Trinidad.",
+      "factsAdvanced": [
+        "Bekannt als das Unterhaltungszentrum von Port of Spain.",
+        "Zentrum des kulturellen und religiösen Hosay-Festivals.",
+        "Starke historische Wurzeln in der indotrinidadischen Gemeinschaft.",
+        "Vielseitiges gastronomisches Angebot entlang der Main Road.",
+        "Einstige Garnisonsstadt während der britischen Kolonialzeit.",
+        "Schmelztiegel verschiedener ethnischer und sozialer Gruppen.",
+        "Lebendiger Wohn- und Geschäftsbezirk im Westen.",
+        "Lehrplanfokus: Multikulturalismus und Stadtkultur (K7)."
+      ]
+    },
+    {
+      "id": "tt-woodbrook-cities-v2",
+      "descriptionAdvanced": "Woodbrook ist ein elegantes und kulturell bedeutendes Stadtviertel westlich des Zentrums von Port of Spain. Ursprünglich eine Zuckerplantage, entwickelte es sich im frühen 20. Jahrhundert zu einer bevorzugten Wohngegend, bekannt für seine charmante 'Gingerbread'-Architektur mit kunstvollen Holzverzierungen. Heute ist Woodbrook das Epizentrum des Karnevals von Trinidad; in den zahlreichen 'Mas Camps' und Panyards werden die Kostüme und die Musik für das größte Fest der Insel vorbereitet. Die Ariapita Avenue, die Hauptstraße von Woodbrook, ist berühmt für ihr exquisites kulinarisches Angebot und ihr pulsierendes Nachtleben. Trotz der kommerziellen Entwicklung bewahrt Woodbrook seinen historischen Charakter. Im Geographieunterricht (K7) dient Woodbrook als Beispiel für den Wandel eines Wohngebiets zu einem Kultur- und Dienstleistungszentrum innerhalb einer Metropole.",
+      "factsAdvanced": [
+        "Historisches Viertel, berühmt für Gingerbread-Architektur.",
+        "Zentrum der Karnevalsvorbereitungen (Mas Camps, Panyards).",
+        "Ariapita Avenue als wichtigste Gastronomie-Meile der Insel.",
+        "Ehemals eine Zuckerplantage der Familie Siegert.",
+        "Geprägt durch schachbrettartige Straßenführung.",
+        "Beliebter Standort für kleine Agenturen und Kreativwirtschaft.",
+        "Wichtiger Teil des kulturellen Erbes der Hauptstadt.",
+        "Thema: Stadtwandel und kulturelle Identität (K7)."
+      ]
+    },
+    {
+      "id": "tt-belmont-cities-v2",
+      "descriptionAdvanced": "Belmont ist das älteste Vorstadtviertel von Port of Spain, gelegen in einem Tal nordöstlich des Stadtzentrums. Es entwickelte sich im 19. Jahrhundert als Wohnort für befreite afrikanische Sklaven und später für die aufstrebende schwarze Mittelklasse. Belmont ist bekannt für seine engen, gewundenen Gassen und seine einzigartige Architektur, die den Charakter einer gewachsenen, organischen Siedlung bewahrt hat. Das Viertel hat zahlreiche bedeutende Persönlichkeiten in Kunst, Politik und Literatur hervorgebracht. Trotz der Nähe zum Stadtzentrum hat Belmont seine eigene, fast dörfliche Atmosphäre behalten. Die Region beherbergt viele historische Kirchen und Schulen. Für Schüler (Geschichte/Geographie K7) bietet Belmont ein Studienobjekt für die post-emanzipatorische Stadtentwicklung und die Formung einer eigenständigen afro-karibischen urbanen Kultur.",
+      "factsAdvanced": [
+        "Ältestes Vorstadtviertel von Port of Spain.",
+        "Zentrum der afro-trinidadischen Geschichte und Identität.",
+        "Geprägt durch organisch gewachsene, enge Straßenzüge.",
+        "Heimat bedeutender Intellektueller und Künstler.",
+        "Besondere Architektur aus der viktorianischen Ära.",
+        "Bewahrt einen starken Gemeinschaftsgeist und lokale Traditionen.",
+        "Standort zahlreicher historischer Bildungseinrichtungen.",
+        "Thema: Post-Emanzipationsgeschichte und Stadtplanung (K7)."
+      ]
+    },
+    {
+      "id": "tt-charlotteville-cities-v2",
+      "descriptionAdvanced": "Charlotteville ist ein malerisches Fischerdorf an der nordöstlichen Spitze von Tobago, eingebettet in die dramatische Kulisse der Man-o-War Bay. Fernab der touristischen Zentren im Südwesten hat sich Charlotteville eine authentische und friedliche Atmosphäre bewahrt. Das Dorf liegt am Fuße steiler, grün bewaldeter Berge und bietet einige der besten Tauchgründe und unberührtesten Strände der Insel, wie den berühmten Pirate’s Bay. Die lokale Gemeinschaft lebt traditionell vom Fischfang und ist für ihre Gastfreundschaft und ihren Stolz auf das kulturelle Erbe bekannt. Charlotteville ist ein Zentrum für nachhaltigen Tourismus und Naturbeobachtung. Im Unterricht (Geographie K6) dient Charlotteville als Beispiel für eine isolierte Küstengemeinde, die ihre natürlichen Ressourcen schützt und im Einklang mit der Meeresumwelt lebt.",
+      "factsAdvanced": [
+        "Idyllisches Fischerdorf an der Man-o-War Bay.",
+        "Tor zum unberührten Pirate’s Bay Strand.",
+        "Geprägt durch eine steile, bewaldete Gebirgskulisse.",
+        "Zentrum für nachhaltigen Tourismus im Nordosten Tobagos.",
+        "Wichtiger Standort für die handwerkliche Fischerei.",
+        "Bewahrt eine authentische, traditionelle Dorfkultur.",
+        "Bekannt für exzellente Schnorchel- und Tauchmöglichkeiten.",
+        "Lehrplanfokus: Küstenökologie und Nachhaltigkeit (K6)."
+      ]
+    },
+    {
+      "id": "tt-parlatuvier-cities-v2",
+      "descriptionAdvanced": "Parlatuvier ist eines der schönsten und meistfotografierten Küstendörfer an der Nordküste von Tobago. Die halbmondförmige Bucht mit ihrem goldenen Sandstrand und den im ruhigen Wasser schaukelnden Fischerbooten bietet ein klassisches karibisches Panorama. Das Dorf liegt abgeschieden zwischen dem Main Ridge Forest Reserve und dem Meer. Die Bewohner leben primär von der Fischerei und kleinteiliger Landwirtschaft. Parlatuvier ist bekannt für seinen langen Pier, an dem Besucher den Fischern beim Einholen ihres Fangs zusehen können. Die umliegenden Hügel bieten spektakuläre Aussichtspunkte. In der Region finden sich zahlreiche Wasserfälle und Wanderwege durch den Regenwald. Für Schüler (Geographie K6) ist Parlatuvier ein hervorragendes Beispiel für eine subsistenzorientierte Küstenwirtschaft und die Bedeutung geschützter Buchten für maritime Siedlungen.",
+      "factsAdvanced": [
+        "Malerische Bucht mit markanter Halbmondform.",
+        "Eingebettet in die Ausläufer des Main Ridge Reservats.",
+        "Traditionelles Dorf mit Fokus auf Fischerei.",
+        "Bekannt für den ikonischen hölzernen Pier.",
+        "Beliebtes Ziel für Naturfotografen und Individualtouristen.",
+        "Reich an lokaler Flora und Fauna in der Umgebung.",
+        "Symbol für die unberührte Schönheit der Nordküste Tobagos.",
+        "Thema: Küstensiedlungen und maritime Ressourcen (K6)."
+      ]
+    },
+    {
+      "id": "tt-blanchisseuse-cities-v2",
+      "descriptionAdvanced": "Blanchisseuse ist ein idyllisches Dorf an der Nordküste von Trinidad, das für seine dramatische Küstenlandschaft, seine Wanderwege und seine friedliche Atmosphäre bekannt ist. Der französische Name bedeutet 'Wäscherin' und erinnert an die Frauen, die früher in den Flüssen des Tals Wäsche wuschen. Blanchisseuse ist das Ziel der berühmten Wanderung von Arima über den Northern Range. Das Dorf liegt an der Mündung des Marianne River, der ein beliebtes Gebiet zum Kajakfahren und Schwimmen ist. Die Küste ist geprägt von rauen Wellen und versteckten Buchten. Blanchisseuse hat sich trotz seiner Beliebtheit bei Wochenendausflüglern einen rustikalen Charme bewahrt. Im Unterricht (Geographie K6) dient Blanchisseuse als Beispiel für die Topographie des Northern Range, die Bedeutung von Flussmündungen und den sanften Tourismus im ländlichen Raum.",
+      "factsAdvanced": [
+        "Isoliertes Küstendorf am nördlichen Ende des Northern Range.",
+        "Name französischen Ursprungs ('Wäscherin').",
+        "Beliebtes Ziel für Wanderer und Naturliebhaber.",
+        "Lage an der Mündung des malerischen Marianne River.",
+        "Tor zu einsamen Stränden wie Paria Springs.",
+        "Geprägt durch dichten Regenwald und zerklüftete Küsten.",
+        "Wichtiger Ort für den lokalen Ökotourismus.",
+        "Lehrplanfokus: Gebirgsgeographie und Flusssysteme (K6)."
+      ]
+    },
+    {
+      "id": "tt-grande-riviere-cities-v2",
+      "descriptionAdvanced": "Grande Riviere ist ein kleines, abgelegenes Dorf an der Nordküste von Trinidad, das weltweite Bekanntheit als einer der wichtigsten Nistplätze der Lederschildkröte erlangt hat. Jedes Jahr zwischen März und August kommen hunderte dieser riesigen Meeresreptilien an den Strand, um ihre Eier abzulegen. Das Dorf hat sich erfolgreich zu einem Zentrum für gemeinschaftsbasierten Ökotourismus entwickelt, wobei der Schutz der Schildkröten oberste Priorität hat. Die Region ist geprägt von unberührtem Regenwald und dem Grande Riviere Fluss, der in den Atlantik mündet. Grande Riviere bietet eine einzigartige Kombination aus Naturerlebnis und herzlicher Dorfgemeinschaft. Im Unterricht (Biologie/Geographie K6-K8) ist Grande Riviere das Paradebeispiel für den Artenschutz, die Biologie der Meeresschildkröten und die Chancen eines nachhaltigen Tourismus.",
+      "factsAdvanced": [
+        "Weltweit bedeutender Nistplatz für Lederschildkröten.",
+        "Zentrum für vorbildlichen gemeinschaftsbasierten Naturschutz.",
+        "Idyllische Lage zwischen Bergen und dem Atlantik.",
+        "Wichtiges Forschungsgebiet für Meeresbiologen.",
+        "Geprägt durch dichte Wälder mit hoher Biodiversität.",
+        "Erfolgreiches Modell für nachhaltigen Ökotourismus.",
+        "Heimat seltener Vogelarten wie dem Pawi (Trinidad-Blaustirnguan).",
+        "Thema: Artenschutz und nachhaltige Entwicklung (K6-K8)."
+      ]
+    },
+    {
+      "id": "tt-guayaguayare-cities-v2",
+      "descriptionAdvanced": "Guayaguayare ist eine historisch und wirtschaftlich bedeutende Küstenstadt im äußersten Südosten von Trinidad. Bekannt als der Ort, an dem Christoph Kolumbus die 'Drei Schwestern' (die drei Gipfel der Trinity Hills) sah, markiert die Stadt den Beginn der kolonialen Geschichte der Insel. Wirtschaftlich ist Guayaguayare von entscheidender Bedeutung, da hier 1902 die ersten kommerziellen Ölbohrungen Trinidads stattfanden. Heute dient die Stadt als wichtige Basis für die Offshore-Energieindustrie. Die Region ist geprägt von einer wilden Küstenlandschaft und ausgedehnten Sumpfgebieten. Trotz der industriellen Prägung bewahrt Guayaguayare seine Identität als Fischergemeinde. Im Unterricht (Geschichte/Geographie K8) wird Guayaguayare als Geburtsort der Erdölindustrie und als strategischer Punkt in der Entdeckungsgeschichte Trinidads behandelt.",
+      "factsAdvanced": [
+        "Geburtsort der kommerziellen Ölindustrie Trinidads (1902).",
+        "Historischer Ort der Sichtung der Trinity Hills durch Kolumbus.",
+        "Wichtige Versorgungsbasis für Offshore-Öl- und Gasplattformen.",
+        "Südöstlichste Siedlung der Insel Trinidad.",
+        "Traditionelles Zentrum für Fischerei und Kokosnussanbau.",
+        "Tor zu den unberührten Gebieten der Südostküste.",
+        "Geprägt durch eine wilde und windgepeitschte Küste.",
+        "Lehrplanrelevanz: Industriegeschichte und Entdeckungen (K8)."
+      ]
+    },
+    {
+      "id": "tt-icacos-cities-v2",
+      "descriptionAdvanced": "Icacos ist ein abgeschiedenes Dorf an der äußersten Südwestspitze von Trinidad, gelegen in einer Region mit endlosen Kokospalmenhainen. Diese Gegend ist geographisch faszinierend, da sie Venezuela am nächsten liegt; die Küste des Nachbarlandes ist über die Meerenge der Serpent’s Mouth oft deutlich sichtbar. Die Wirtschaft von Icacos basiert traditionell auf dem Kokosnussanbau und der Fischerei. Aufgrund seiner exponierten Lage ist das Dorf stark von Küstenerosion betroffen, was es zu einem wichtigen Studienobjekt für Klimawandel und Meeresspiegelanstieg macht. Icacos hat eine ruhige, fast zeitlose Atmosphäre. Die Region ist auch bekannt für ihre reiche Vogelwelt in den Feuchtgebieten. Im Geographieunterricht (K7) dient Icacos als Beispiel für eine Randlage (Peripherie), Küstenerosion und die engen Verbindungen zwischen Trinidad und Südamerika.",
+      "factsAdvanced": [
+        "Südwestlichster Punkt der Insel Trinidad.",
+        "Zentrum der historischen Kokosnussindustrie (Coconuts).",
+        "Geographisch nächster Punkt zum venezolanischen Festland.",
+        "Stark betroffen von natürlicher Küstenerosion.",
+        "Wichtiger Stützpunkt für die handwerkliche Fischerei.",
+        "Einzigartige Sumpf- und Lagunenlandschaften in der Umgebung.",
+        "Ruhige, isolierte Lage mit traditioneller Dorfstruktur.",
+        "Thema: Küstenveränderungen und Grenzgeographie (K7)."
+      ]
+    },
+    {
+      "id": "tt-manzanilla-cities-v2",
+      "descriptionAdvanced": "Manzanilla ist bekannt für seinen spektakulären, 27 Kilometer langen Sandstrand an der Ostküste von Trinidad, der von zehntausenden Kokospalmen gesäumt wird (Cocal). Diese Region bietet eine raue, wilde Schönheit und ist ein beliebtes Ziel für Naturfreunde und Camper. Hinter den Dünen erstreckt sich das Nariva Swamp, das größte Feuchtgebiet der Insel und ein UNESCO-geschütztes Ramsar-Gebiet. Manzanilla dient als wichtiges Ökosystem für Seekühe (Manatees) und zahlreiche Vogelarten. Historisch war die Region ein Zentrum der Kopra-Produktion. Die Straße entlang der Küste bietet atemberaubende Ausblicke auf den Atlantik. Im Unterricht (Geographie/Biologie K6-K8) wird Manzanilla zur Untersuchung von Küstenökosystemen, Feuchtgebieten und der Bedeutung von Mangrovenwäldern für den Küstenschutz genutzt.",
+      "factsAdvanced": [
+        "Heimat des berühmten Cocal-Strandes (27 km Palmen).",
+        "Tor zum Nariva Swamp, dem größten Feuchtgebiet der Insel.",
+        "Wichtiger Lebensraum für die gefährdete Karibik-Manati.",
+        "Zentrum des Naturschutzes und des Ökotourismus.",
+        "Geprägt durch starken atlantischen Wellengang.",
+        "Historisch bedeutend für den Kokosnuss- und Koprahandel.",
+        "Bietet ideale Bedingungen für die Beobachtung von Primaten.",
+        "Lehrplanfokus: Feuchtgebiete und Küstenschutz (K6-K8)."
+      ]
+    },
+    {
+      "id": "tt-buccoo-cities-v2",
+      "descriptionAdvanced": "Buccoo ist ein charmantes Dorf auf Tobago, das weltweite Berühmtheit durch das nahegelegene Buccoo Reef und das Nylon Pool erlangt hat. Als Ausgangspunkt für Glasbodenboot-Touren ist Buccoo das touristische Herz der Insel für Meeresexkursionen. Das Dorf selbst bewahrt eine lebhafte lokale Kultur, die besonders während des wöchentlichen 'Sunday School'-Straßenfestes und des jährlichen Ziegenrennens (Goat Racing) zur Geltung kommt. Buccoo ist ein Zentrum für traditionelles Handwerk und Musik. Die Bucht bietet ruhiges Wasser und ist ideal für Familien. Historisch gesehen war Buccoo ein Fischerdorf, das sich erfolgreich an den Tourismus angepasst hat, ohne seine Identität zu verlieren. Im Geographieunterricht (K7) dient Buccoo als Beispiel für den Dienstleistungssektor im Tourismus und die Bedeutung geschützter Meeresgebiete.",
+      "factsAdvanced": [
+        "Tor zum Buccoo Reef Marine Park und dem Nylon Pool.",
+        "Weltberühmt für die traditionellen Ziegenrennen (Goat Racing).",
+        "Zentrum des wöchentlichen Kulturfestes 'Sunday School'.",
+        "Wichtiger Standort für den maritimen Tourismus auf Tobago.",
+        "Bewahrt eine authentische, lebendige Dorfgemeinschaft.",
+        "Malerische Bucht mit exzellenten Bademöglichkeiten.",
+        "Zentrum für lokales Kunsthandwerk und Gastronomie.",
+        "Thema: Maritimer Tourismus und lokale Traditionen (K7)."
+      ]
+    },
+    {
+      "id": "tt-black-rock-cities-v2",
+      "descriptionAdvanced": "Black Rock ist eine malerische Küstenstadt im Westen von Tobago, bekannt für ihre dramatischen schwarzen Felsformationen und ihre erstklassigen Strände wie Turtle Beach und Courland Bay. Die Stadt hat eine ruhige, gehobene Atmosphäre und beherbergt einige der bekanntesten Hotels der Insel. Historisch ist Black Rock eng mit Fort Bennett verbunden, einer Festung, die einen weiten Blick über die Bucht bietet und heute ein friedlicher Park ist. Die Region ist ein wichtiger Nistplatz für Lederschildkröten. Black Rock verbindet auf harmonische Weise luxuriösen Tourismus mit historischem Erbe und Naturschutz. Die Architektur der Region ist eine Mischung aus modernen Villen und traditionellen karibischen Häusern. Im Geographieunterricht (K6-K8) wird Black Rock zur Veranschaulichung von Küstenformen (Abrasionsküste) und als Beispiel für historischen Küstenschutz behandelt.",
+      "factsAdvanced": [
+        "Bekannt für markante schwarze Vulkangesteinsformationen.",
+        "Standort des historischen Fort Bennett Aussichtspunkts.",
+        "Wichtiger Nistplatz für Meeresschildkröten (Turtle Beach).",
+        "Gehobener Wohn- und Touristenstandort im Westen.",
+        "Malerische Lage an der geschichtsträchtigen Courland Bay.",
+        "Zentrum für Wassersport und Strandtourismus.",
+        "Geprägt durch gepflegte Grünanlagen und Gärten.",
+        "Lehrplanrelevanz: Küstenmorphologie und Denkmalschutz (K6-K8)."
+      ]
+    },
+    {
+      "id": "tt-mount-irvine-cities-v2",
+      "descriptionAdvanced": "Mount Irvine ist eine exklusive Region im Westen von Tobago, die vor allem für ihren preisgekrönten Golfplatz und ihre spektakulären Strände bekannt ist. Der Mount Irvine Bay Beach bietet hervorragende Bedingungen zum Schnorcheln an den Korallenriffen und ist bei Surfern für seine beständigen Wellen beliebt. Historisch war die Region eine bedeutende Zuckerplantage, wovon die Ruinen der alten Zuckermühle am Golfplatz heute noch zeugen. Mount Irvine zeichnet sich durch seine weitläufigen Anlagen, luxuriösen Resorts und eine ruhige, parkähnliche Landschaft aus. Die Region ist ein Paradebeispiel für die Umwandlung kolonialer Plantagen in moderne Freizeit- und Tourismusareale. Im Unterricht (Geographie/Wirtschaft K8) wird Mount Irvine als Beispiel für hochwertige touristische Erschließung und die Folgenutzung historischer Agrarflächen analysiert.",
+      "factsAdvanced": [
+        "Heimat des renommierten Mount Irvine Bay Golf Course.",
+        "Erstklassiges Ziel für Schnorchler und Surfer.",
+        "Ruinen einer historischen Zuckermühle als Wahrzeichen.",
+        "Exklusiver Tourismusstandort mit weitläufigen Resorts.",
+        "Bekannt für seine sanften Hügel und Küstenpanoramen.",
+        "Einstiges Zentrum der kolonialen Zuckerrohrwirtschaft.",
+        "Beliebter Ort für Hochzeiten und gehobene Veranstaltungen.",
+        "Thema: Strukturwandel im ländlichen Raum (K8)."
+      ]
+    },
+    {
+      "id": "tt-canaan-cities-v2",
+      "descriptionAdvanced": "Canaan ist eine geschäftige Stadt im Südwesten von Tobago, die als wichtiges Handels- und Wohnzentrum für die Region Crown Point dient. Gelegen an der Hauptstraße, bietet Canaan eine Vielzahl von Dienstleistungen, Supermärkten und lokalen Geschäften, die sowohl Einheimische als auch Touristen versorgen. Die Stadt hat sich in den letzten Jahrzehnten rasant entwickelt und bildet heute einen zusammenhängenden urbanen Raum mit dem benachbarten Bon Accord. Canaan ist ein Knotenpunkt für den Nahverkehr auf der Insel. Trotz der Modernisierung bewahrt die Stadt einen starken Gemeinschaftssinn, der sich in den lokalen Sportvereinen und Kirchen manifestiert. Im Geographieunterricht (K7) wird Canaan als Beispiel für eine wachsende Handelsstadt im Einzugsbereich eines Flughafens und für die urbane Expansion auf Tobago behandelt.",
+      "factsAdvanced": [
+        "Bedeutendes Handelszentrum im Südwesten Tobagos.",
+        "Wichtiger Dienstleistungsknotenpunkt für Touristen.",
+        "Dicht besiedeltes Wohngebiet mit guter Infrastruktur.",
+        "Strategische Lage an der Hauptverbindung zum Flughafen.",
+        "Zentrum des täglichen Lebens für viele Inselbewohner.",
+        "Eng verbunden mit dem benachbarten Ort Bon Accord.",
+        "Hohe Konzentration an Schulen und lokalen Betrieben.",
+        "Thema: Handelsgeographie und Siedlungswachstum (K7)."
+      ]
+    },
+    {
+      "id": "tt-palo-seco-cities-v2",
+      "descriptionAdvanced": "Palo Seco ist eine bedeutende Industriestadt im tiefen Süden von Trinidad, die eng mit der Geschichte der Erdölförderung verbunden ist. Die Stadt beherbergt wichtige Einrichtungen nationaler Energieunternehmen und ist geprägt von der Infrastruktur der Ölfelder. Palo Seco ist bekannt für sein starkes Gemeinschaftsgefühl und seine Sportbegeisterung; die Stadt hat zahlreiche nationale Athleten hervorgebracht. Trotz der industriellen Basis bietet Palo Seco Zugang zu malerischen Stränden an der Südküste, die oft weniger überlaufen sind als im Norden. Die Region ist auch für ihre reiche Flora und Fauna bekannt, da sie an ausgedehnte Waldgebiete grenzt. Im Unterricht (Geographie/Wirtschaft K8) dient Palo Seco als Beispiel für eine 'Company Town' und die sozioökonomischen Auswirkungen der Rohstoffindustrie auf den ländlichen Raum.",
+      "factsAdvanced": [
+        "Zentrum der südlichen Erdölindustrie in Trinidad.",
+        "Wichtiger Standort für nationale Energieunternehmen.",
+        "Talentschmiede für den nationalen Sport (Leichtathletik).",
+        "Gelegen in einer rohstoffreichen Region im tiefen Süden.",
+        "Mischung aus Industrieanlagen und unberührter Natur.",
+        "Bekannt für den 'Palo Seco Beach' an der Südküste.",
+        "Bedeutender Arbeitgeber für die umliegende Region.",
+        "Lehrplanrelevanz: Industriegeographie und Rohstoffe (K8)."
+      ]
+    },
+    {
+      "id": "tt-point-lisas-cities-v2",
+      "descriptionAdvanced": "Point Lisas ist das industrielle Herz von Trinidad und Tobago und einer der wichtigsten Industriekomplexe der gesamten Karibik. Gelegen an der Westküste in der Nähe von Couva, beherbergt das Point Lisas Industrial Estate über 100 Unternehmen, die sich auf Petrochemie, Stahlproduktion und die Verarbeitung von Erdgas spezialisiert haben. Die Region verfügt über einen modernen Tiefwasserhafen, der den weltweiten Export von Methanol, Ammoniak und Harnstoff ermöglicht. Point Lisas ist der Motor der nationalen Wirtschaft und ein Paradebeispiel für erfolgreiche industrielle Diversifizierung basierend auf Erdgas. Die gewaltigen Anlagen prägen die Skyline der Region. Für Schüler (Wirtschaftsgeographie K8) ist Point Lisas das zentrale Studienobjekt für Schwerindustrie, globale Handelsströme und die wirtschaftliche Transformation eines Schwellenlandes.",
+      "factsAdvanced": [
+        "Größtes Industriegebiet der Karibik (Petrochemie-Cluster).",
+        "Weltweit führender Standort für den Export von Methanol.",
+        "Beherbergt einen hochmodernen Tiefwasser-Exporthafen.",
+        "Wichtigstes Standbein der nationalen Wirtschaft.",
+        "Zentrum für Energie-intensive Industrien wie Stahl und Düngemittel.",
+        "Modell für die Nutzung heimischer Erdgasressourcen.",
+        "Hohe Konzentration an Ingenieurs- und Technik-Know-how.",
+        "Thema: Industrielle Cluster und Welthandel (K8)."
+      ]
+    },
+    {
+      "id": "tt-tacariqua-cities-v2",
+      "descriptionAdvanced": "Tacarigua ist eine historische und wachsende Stadt am East-West Corridor, gelegen zwischen Tunapuna und Arouca. Der Name hat indigene Wurzeln und verweist auf die frühe Besiedlung durch Amerindians. Tacarigua war im 19. Jahrhundert ein Zentrum der Zuckerrohrindustrie, was sich heute noch im Namen 'Orange Grove' widerspiegelt. Die Stadt beherbergt bedeutende religiöse Stätten wie die St. Mary’s Anglican Church und ist bekannt für das 'Eddie Hart Savannah', ein großes Freizeitareal, das als Zentrum für Breitensport und Gemeinschaftsveranstaltungen dient. Die Stadt hat sich zu einem beliebten Wohnort für Familien entwickelt, die die gute Anbindung und die zahlreichen Bildungseinrichtungen schätzen. Im Geographieunterricht (K7) wird Tacarigua als Beispiel für die Transformation von Agrarland in Wohn- und Freizeiträume am urbanen Korridor behandelt.",
+      "factsAdvanced": [
+        "Historische Stadt mit indigenem Namensursprung.",
+        "Einstiges Zentrum der Zuckerrohrwirtschaft (Orange Grove).",
+        "Heimat des Eddie Hart Savannah Sportkomplexes.",
+        "Wichtiger Wohnstandort am East-West Corridor.",
+        "Zentrum für soziale und sportliche Aktivitäten.",
+        "Beherbergt historische Kirchen und Friedhöfe.",
+        "Gute Infrastruktur mit Schulen und Einkaufszentren.",
+        "Lehrplanfokus: Siedlungsgeschichte und Freizeiträume (K7)."
+      ]
+    },
+    {
+      "id": "tt-dabadie-cities-v2",
+      "descriptionAdvanced": "D'Abadie ist eine dynamische Wohngemeinde im Osten von Trinidad, die Teil des zusammenhängenden Siedlungsbandes am East-West Corridor ist. Sie liegt zwischen Arouca und Arima und hat in den letzten Jahren ein signifikantes Wachstum durch neue Wohnbauprojekte erfahren. D'Abadie ist bekannt für seine ruhige Atmosphäre im Vergleich zu den geschäftigeren Nachbarstädten und bietet eine hohe Lebensqualität für Familien. Die Stadt ist gut an die Priority Bus Route und den Eastern Main Road angebunden. In der Umgebung finden sich sowohl moderne Einkaufszentren als auch grüne Ausläufer des Northern Range. D'Abadie ist ein Beispiel für die fortlaufende Urbanisierung des Ostens, bei der ehemalige landwirtschaftliche Flächen in Wohngebiete umgewandelt werden. Für Schüler (Geographie K7) dient D'Abadie als Fallstudie für suburbanes Wachstum und die Entwicklung von Wohnvierteln für die Mittelschicht.",
+      "factsAdvanced": [
+        "Wachsende Wohngemeinde im Osten Trinidads.",
+        "Teil der urbanen Achse zwischen Arima und Port of Spain.",
+        "Bekannt für moderne Wohnsiedlungen und Urbanisierungen.",
+        "Gute Verkehrsanbindung für Pendler in die Hauptstadt.",
+        "Geprägt durch eine familienfreundliche Infrastruktur.",
+        "Mischung aus Vorstadtflair und Nähe zur Natur.",
+        "Zentrum kleinerer Dienstleistungsunternehmen.",
+        "Thema: Suburbanisierung und Wohnraumentwicklung (K7)."
+      ]
+    },
+    {
+      "id": "tt-california-cities-v2",
+      "descriptionAdvanced": "California ist eine industriell geprägte Stadt in Zentral-Trinidad, unmittelbar südlich von Couva gelegen. Ihr Schicksal ist eng mit der Zuckerindustrie verknüpft, da sie einst der Standort einer großen Zuckerraffinerie war. Heute dient California vor allem als Wohnort für Beschäftigte im nahegelegenen Point Lisas Industrial Estate. Die Stadt hat eine starke multikulturelle Identität und ist bekannt für ihren lebhaften Handel entlang der Hauptstraße. Trotz des industriellen Umfelds bewahrt California einen dörflichen Charakter mit engen sozialen Bindungen. In der Nähe befinden sich wichtige Sportstätten und Bildungseinrichtungen. Die Stadt ist ein interessantes Beispiel für den wirtschaftlichen Wandel in Zentral-Trinidad. Im Unterricht (Geographie K8) wird California zur Veranschaulichung des Übergangs von der Agrarindustrie zur modernen Schwerindustrie und der damit verbundenen sozialen Veränderungen genutzt.",
+      "factsAdvanced": [
+        "Industriestadt in unmittelbarer Nähe zu Point Lisas.",
+        "Historisch bedeutender Standort der Zuckerverarbeitung.",
+        "Wichtiger Wohnstandort für Industriearbeiter.",
+        "Strategische Lage an der Westküste Zentral-Trinidads.",
+        "Geprägt durch eine vielfältige und dynamische Bevölkerung.",
+        "Knotenpunkt für den regionalen Handel.",
+        "Symbol für den wirtschaftlichen Wandel der Region.",
+        "Lehrplanfokus: Industrie und soziale Transformation (K8)."
+      ]
+    },
+    {
+      "id": "tt-erin-cities-v2",
+      "descriptionAdvanced": "Erin ist eine historisch bedeutsame und malerische Gemeinde an der Südküste von Trinidad. Sie ist bekannt für den 'Erin Savannas' und ihre tiefe Verbindung zur präkolumbianischen Geschichte; archäologische Ausgrabungen haben hier bedeutende Siedlungsspuren der Amerindians ans Licht gebracht. Die Stadt hat eine ruhige, ländliche Atmosphäre und ist ein Zentrum für Fischerei und Landwirtschaft. Erin spielt auch eine Rolle in der Ölindustrie der Region. Die Küste von Erin ist wild und unberührt, mit spektakulären Ausblicken auf das Karibische Meer. Die lokale Kultur ist reich an Traditionen und Legenden. Für Schüler (Geschichte/Geographie K7) bietet Erin eine ideale Grundlage, um über die indigene Vergangenheit Trinidads, die frühe spanische Besiedlung und die natürliche Ressourcenverteilung im Süden zu lernen.",
+      "factsAdvanced": [
+        "Bedeutende archäologische Stätte der Amerindians.",
+        "Zentrum für Fischerei und Landwirtschaft im Süden.",
+        "Bekannt für die einzigartigen Erin Savannas.",
+        "Historischer Landeplatz während der spanischen Zeit.",
+        "Geprägt durch eine wilde und unberührte Südküste.",
+        "Kleinerer Standort innerhalb der südlichen Ölregion.",
+        "Reich an lokaler Folklore und indigenem Erbe.",
+        "Thema: Archäologie und indigene Geschichte (K7)."
+      ]
+    },
+    {
+      "id": "tt-biche-cities-v2",
+      "descriptionAdvanced": "Biche ist eine abgelegene ländliche Gemeinde im Osten von Trinidad, eingebettet in die dichten Wälder und sanften Hügel des Binnenvorlandes. Die Stadt ist bekannt für ihre starke landwirtschaftliche Tradition, insbesondere für den Anbau von Kakao und Gemüse. Biche ist ein Symbol für das ländliche Trinidad, wo das Leben in einem ruhigeren Tempo verläuft und die Natur allgegenwärtig ist. Die Region beherbergt eine reiche Tierwelt und ist ein Ziel für Naturliebhaber. Historisch war Biche ein wichtiger Außenposten für die Forstwirtschaft. Die Stadt hat in den letzten Jahren durch den Bau neuer Schulen und Infrastruktur an Bedeutung gewonnen. Im Geographieunterricht (K6) dient Biche als Beispiel für eine Binnensiedlung, die auf nachhaltiger Landwirtschaft basiert und eine enge Verbindung zu den Waldressourcen pflegt.",
+      "factsAdvanced": [
+        "Zentraler Agrarstandort im östlichen Binnenland.",
+        "Bekannt für den Anbau hochwertiger Nutzpflanzen.",
+        "Umgeben von dichten tropischen Waldgebieten.",
+        "Starke Gemeinschaft mit traditioneller Lebensweise.",
+        "Wichtiger Ort für den Schutz lokaler Ökosysteme.",
+        "Historisch bedeutend für die Holzgewinnung.",
+        "Ruhige Lage fernab der industriellen Zentren.",
+        "Lehrplanrelevanz: Ländliche Entwicklung und Forstwirtschaft (K6)."
+      ]
+    },
+    {
+      "id": "tt-tableland-cities-v2",
+      "descriptionAdvanced": "Tableland ist eine landwirtschaftlich geprägte Region und Stadt im Süden von Trinidad, die vor allem für ihre fruchtbaren Böden und den großflächigen Anbau von Ananas bekannt ist. Die sanft gewellte Landschaft bietet ideale Bedingungen für die Landwirtschaft und macht Tableland zu einem der wichtigsten Lieferanten für Obst auf der Insel. Die Stadt selbst dient als Versorgungszentrum für die umliegenden Farmen und ist ein wichtiger Knotenpunkt an der Naparima Mayaro Road. Historisch war die Region Teil des Zuckerrohrgürtels. Tableland bewahrt eine friedliche, ländliche Identität mit starken sozialen Bindungen innerhalb der Bauerngemeinschaft. Im Unterricht (Geographie K7) wird Tableland als Beispiel für spezialisierte Agrarräume und die Bedeutung der Nahrungsmittelproduktion für den heimischen Markt behandelt.",
+      "factsAdvanced": [
+        "Hauptzentrum des Ananasanbaus in Trinidad.",
+        "Wichtige landwirtschaftliche Region im Süden.",
+        "Knotenpunkt an der historischen Naparima Mayaro Road.",
+        "Geprägt durch fruchtbare, hügelige Landschaften.",
+        "Zentrum für den Handel mit lokalen Agrarprodukten.",
+        "Wichtiger Arbeitgeber im ländlichen Sektor.",
+        "Beispiel für erfolgreiche kleinbäuerliche Spezialisierung.",
+        "Thema: Agrarökonomie und spezialisierte Kulturen (K7)."
+      ]
+    },
+    {
+      "id": "tt-new-grant-cities-v2",
+      "descriptionAdvanced": "New Grant ist eine geschichtsträchtige Stadt im Süden von Trinidad, deren Name auf die Landzuteilungen (Grants) an afroamerikanische Soldaten (Merikins) nach dem Krieg von 1812 zurückgeht. Diese ehemaligen Soldaten der britischen Armee siedelten sich in dieser Region an und schufen eine einzigartige Gemeinschaft mit starken spirituellen und kulturellen Traditionen, die bis heute lebendig sind. New Grant liegt inmitten eines ehemals bedeutenden Zuckerrohranbaugebiets und dient heute als Wohn- und Handelszentrum. Die Stadt spiegelt die Vielfalt der trinidadischen Migrationsgeschichte wider. Die Architektur und die Namen der Siedlungen in der Umgebung zeugen von diesem besonderen Erbe. Für Schüler (Geschichte K7-K8) bietet New Grant einen faszinierenden Einblick in die Geschichte der Merikins und deren Beitrag zur kulturellen Vielfalt Trinidads.",
+      "factsAdvanced": [
+        "Gegründet durch afroamerikanische 'Merikin'-Soldaten.",
+        "Name verweist auf Landzuteilungen nach dem Krieg von 1812.",
+        "Zentrum einer einzigartigen kulturellen und spirituellen Gruppe.",
+        "Ehemals wichtiges Zentrum der Zuckerrohrindustrie.",
+        "Historisch bedeutende Kirchen und Versammlungshäuser.",
+        "Wichtiger Wohnort im südlichen Binnenland.",
+        "Bewahrt das Erbe der afro-karibischen Siedlungspioniere.",
+        "Lehrplanfokus: Migrationsgeschichte und Merikin-Kultur (K7-K8)."
+      ]
+    },
+    {
+      "id": "tt-bon-accord-cities-v2",
+      "descriptionAdvanced": "Bon Accord ist eine dynamische Stadt im touristischen Südwesten von Tobago, unmittelbar angrenzend an Crown Point. Die Region ist bekannt für das Bon Accord Lagoon, ein ökologisch wertvolles Feuchtgebiet, das ein wichtiger Lebensraum für Mangroven und seltene Vogelarten ist. Die Stadt hat sich zu einem Zentrum für touristische Dienstleistungen entwickelt, mit zahlreichen Pensionen, Autovermietungen und Restaurants. Trotz der Nähe zum Flughafen und den großen Stränden bewahrt Bon Accord eine ruhige Wohnatmosphäre. Die Lagune bietet ideale Bedingungen zum Kajakfahren und zur Naturbeobachtung. Bon Accord ist ein Beispiel für die Herausforderung, Tourismusentwicklung mit dem Schutz sensibler Ökosysteme in Einklang zu bringen. Im Unterricht (Geographie K6-K8) wird Bon Accord zur Untersuchung von Mangroven-Ökosystemen und nachhaltiger Küstenplanung genutzt.",
+      "factsAdvanced": [
+        "Heimat der ökologisch bedeutenden Bon Accord Lagune.",
+        "Wichtiger Standort für Mangrovenschutz und Vogelforschung.",
+        "Zentrum für touristische Dienstleistungen im Südwesten Tobagos.",
+        "Beliebtes Ziel für Kajaktouren und Naturbeobachter.",
+        "Strategische Lage zwischen Flughafen und Pigeon Point.",
+        "Mischung aus Wohngebieten und touristischer Infrastruktur.",
+        "Wichtiger Puffer zum Buccoo Reef Marine Park.",
+        "Thema: Ökosysteme und nachhaltiger Tourismus (K6-K8)."
+      ]
+    }
+  ]
+}

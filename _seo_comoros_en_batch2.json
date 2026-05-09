@@ -1,0 +1,365 @@
+{
+  "lang": "en",
+  "country": "comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosCitiesV2.ts",
+    "lib/visualLab/data/poiExtraComorosEconomicV2.ts",
+    "lib/visualLab/data/poiExtraComorosHistoryV2.ts",
+    "lib/visualLab/data/poiExtraComorosLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraComorosLifeV2.ts",
+    "lib/visualLab/data/poiExtraComorosNatureV2.ts",
+    "lib/visualLab/data/poiExtraComorosReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "barakani-cities-v2",
+      "descriptionAdvanced": "Barakani is a significant town located in the fertile interior of Anjouan island, acting as a major administrative and educational center for the central region. The town's geography is defined by its position on a plateau surrounded by high volcanic peaks, creating a moderately cooler climate that supports intensive mixed farming. Barakani is home to one of the island's largest regional middle schools, making it a focal point for youth from several neighboring mountain villages. In the Plizio K7 Social Geography curriculum, Barakani serves as a case study for analyzing the role of administrative towns in rural development and how educational infrastructure can centralize demographic flows in rugged island environments.",
+      "factsAdvanced": [
+        "Located in the central highlands of Anjouan island at 400 meters.",
+        "Population estimated at approximately 6,500 permanent residents.",
+        "Regional administrative seat for the central prefecture.",
+        "Home to one of Anjouan's most important secondary schools.",
+        "Economy based on mixed crops including bananas, cassava, and vanilla.",
+        "Strategic crossroads connecting the capital to the southern districts.",
+        "Climate is characterized by frequent afternoon orographic rains.",
+        "Features a well-maintained irrigation system dating from the colonial era."
+      ]
+    },
+    {
+      "id": "chindini-cities-v2",
+      "descriptionAdvanced": "Chindini is a strategically important coastal village located at the southernmost tip of Grande Comore. It serves as the primary maritime gateway for travelers and goods moving between the main island and the islands of Mohéli and Anjouan via traditional motorboats. The landscape is marked by dark basaltic rock formations and a rugged shore that offers one of the few safe launch points in the southern region. In the Plizio K7 Geography curriculum, Chindini is used to illustrate the importance of 'gateway settlements' in island archipelagos and the challenges of maritime logistics in areas without deep-water ports, where the local economy revolves entirely around transit trade and artisanal fishing.",
+      "factsAdvanced": [
+        "Situated at the southern extreme of the Grande Comore island.",
+        "Primary departure point for 'vedettes' (motorboats) to other islands.",
+        "Population of about 3,800 residents involved in transit and trade.",
+        "Landscape dominated by recent volcanic basalt and rocky cliffs.",
+        "Strategic node for the distribution of goods to the southern villages.",
+        "Nearby waters are known for rich schools of pelagic fish like tuna.",
+        "The village features a historic lookout point used by maritime pilots.",
+        "Relies on a network of underground cisterns for fresh water storage."
+      ]
+    },
+    {
+      "id": "itsandzeni-cities-v2",
+      "descriptionAdvanced": "Itsandzeni is a traditional settlement located on the northeast coast of Grande Comore, in a region characterized by ancient lava flows and dense coconut groves. The town maintains a deeply conservative social structure, preserving the Swahili customs and architectural styles that have defined the northern villages for centuries. Itsandzeni's economy is primarily rooted in artisanal fishing and the processing of coconut products, which are vital for local subsistence and domestic trade. For Plizio K5 Cultural Heritage studies, Itsandzeni provides a clear example of a coastal community that has remained largely insulated from modern urban pressures, showcasing a lifestyle that prioritizes communal religious life and traditional agrarian practices.",
+      "factsAdvanced": [
+        "Located in the northeast Hamahamet region of Grande Comore.",
+        "Home to approximately 3,200 residents in a compact coastal layout.",
+        "Architecture features several mosques with traditional carved wood.",
+        "Economy based on artisanal fishing using outrigger canoes.",
+        "Primary producer of traditional coconut oil and woven palm mats.",
+        "The surrounding area contains well-preserved ancient lava formations.",
+        "Traditional 'Grand Mariage' customs are strictly upheld here.",
+        "Accessible via the scenic but narrow northern coastal road."
+      ]
+    },
+    {
+      "id": "madiedjou-cities-v2",
+      "descriptionAdvanced": "Madiedjou is situated in the central southern region of Grande Comore, resting on the fertile volcanic plateaus between Mount Karthala and the coast. The town is recognized for its agricultural productivity, particularly in the cultivation of tubers and leafy vegetables that supply the southern regional markets. Madiedjou's geography, characterized by slightly cooler temperatures and frequent mist, provides an ideal environment for diversified horticulture. In the Plizio K7 Tropical Agriculture curriculum, Madiedjou serves as an example of successful family-based farming systems that utilize the mineral-rich volcanic ash to maintain soil fertility without the need for extensive chemical fertilizers, representing a sustainable approach to island food security.",
+      "factsAdvanced": [
+        "Inland town located in the Dimani region of southern Grande Comore.",
+        "Estimated population of approximately 4,200 active residents.",
+        "Significant regional producer of cassava, taro, and sweet potatoes.",
+        "Altitude of about 350 meters, providing a milder microclimate.",
+        "Economy supported by strong agricultural cooperatives.",
+        "Weekly market attracts traders from the entire southern prefecture.",
+        "Surrounded by dense mango and avocado orchards.",
+        "A key node in the local network of agricultural supply routes."
+      ]
+    },
+    {
+      "id": "moidzaza-cities-v2",
+      "descriptionAdvanced": "Moidzaza is a coastal settlement in the southern Mbadjini region of Grande Comore, known for its strategic position along the main southern highway. The town's economy is a blend of maritime activities and plantation agriculture, with a focus on the production of ylang-ylang and cloves. The local coastline is marked by black volcanic sand and rocky outcrops that create natural barriers against the powerful Indian Ocean swells. For Plizio K6 Geography, Moidzaza illustrates the concept of a 'coastal plantation village', where the community's survival depends on both the bounty of the sea and the fertile volcanic hinterland, maintaining a socio-economic structure typical of the Comorian southern districts.",
+      "factsAdvanced": [
+        "Located on the southeast coast of Grande Comore, 40 km from Moroni.",
+        "Population consists of about 2,800 residents.",
+        "Major local producer of high-grade ylang-ylang perfume essence.",
+        "Features a distinctive coastline with black volcanic sand deposits.",
+        "Artisanal fishing provides the primary protein source for the town.",
+        "Climate is characterized by high rainfall during the monsoon season.",
+        "The town is a key service center for the isolated southern hamlets.",
+        "Traditional architecture includes houses built from volcanic basalt blocks."
+      ]
+    },
+    {
+      "id": "pidjani-cities-v2",
+      "descriptionAdvanced": "Pidjani is an important town in the Domba region of southeast Grande Comore, characterized by its elevated position on a scenic volcanic ridge. The town is famous for its panoramic views over the Indian Ocean and its role as a regional educational center, hosting several influential Quranic and secular schools. Pidjani's economy is primarily agricultural, with extensive plantations of vanilla and cloves thriving in the humid, mineral-rich soil. In the Plizio K8 Social Studies curriculum, Pidjani serves as an example of how traditional religious education and modern secular schooling coexist to shape the identity of Comorian youth in rural districts, while maintaining the town's status as an intellectual hub for the southern part of the island.",
+      "factsAdvanced": [
+        "Situated on a volcanic ridge in the Domba region, southeast Grande Comore.",
+        "Population of approximately 5,500 residents.",
+        "Renowned center for traditional Islamic and Quranic studies.",
+        "Primary production site for export-quality vanilla and cloves.",
+        "Altitude provides a cooler climate and clear ocean views.",
+        "Host to a regional health center serving the Domba area.",
+        "The local market is active in the trade of forest products.",
+        "Architecture blends traditional stone construction with modern styles."
+      ]
+    },
+    {
+      "id": "tsidje-cities-v2",
+      "descriptionAdvanced": "Tsidjé is a large, historically significant town located just north of the capital Moroni, serving as a primary cultural and administrative center for the Itsandra region. The town is built around a historic center with narrow alleys and coral-stone buildings that reflect its pre-colonial importance. Tsidjé is famous for its traditional governance and its strong commitment to preserving Comorian customs, particularly in the context of communal decision-making and social hierarchy. For Plizio K8 History students, Tsidjé represents a perfectly preserved example of a 'Medina-style' settlement that has adapted to modern urban growth while maintaining its role as a guardian of Swahili-Comorian heritage and traditional law.",
+      "factsAdvanced": [
+        "Suburban town located 3 kilometers north of the capital Moroni.",
+        "One of the largest settlements in the Itsandra region with 8,000 residents.",
+        "Historic heart of the Itsandra sultanate's administrative system.",
+        "Features several ancient mosques with elaborate coral carvings.",
+        "Center for traditional social gatherings and regional governance.",
+        "Economy is a mix of urban employment and peri-urban agriculture.",
+        "Home to a high concentration of skilled traditional craftsmen.",
+        "Directly connected to the Moroni-Mitsamiouli national highway."
+      ]
+    },
+    {
+      "id": "bazmini-cities-v2",
+      "descriptionAdvanced": "Bazmini is located in the Oichili region of central Grande Comore, situated on the high plateaus that form the foothills of Mount Karthala. This town is characterized by its exceptionally fertile soil and high rainfall, making it a powerhouse of subsistence and commercial agriculture for the island. Bazmini is particularly famous for its large-scale production of bananas and yams, which are transported daily to the markets of the capital. In the Plizio K7 Geography curriculum, Bazmini illustrates the concept of 'agricultural hinterlands', showing how the fertility of volcanic slopes supports the food requirements of growing urban centers while maintaining a traditional rural socio-economic structure.",
+      "factsAdvanced": [
+        "Situated in the Oichili plateau region of central Grande Comore.",
+        "Population of approximately 4,500 active residents.",
+        "Key supplier of bananas and tubers to the capital, Moroni.",
+        "The town sits at an average altitude of 450 meters.",
+        "Climate is characterized by high humidity and frequent rainfall.",
+        "Host to several agricultural cooperatives focused on vanilla export.",
+        "Surrounding landscape consists of secondary forest and plantations.",
+        "Local architecture includes large traditional stone warehouses for crops."
+      ]
+    },
+    {
+      "id": "bambao-cities-v2",
+      "descriptionAdvanced": "Bambao is a historic and economic hub located on the western coast of Grande Comore, just south of the capital Moroni. The town is the ancestral center of the Bambao region, which was historically one of the most powerful sultanates on the island. Today, Bambao is characterized by its transition from a plantation-based economy to a modern industrial and commercial center, hosting several essential oil distilleries and small manufacturing units. For Plizio K8 Economic History, Bambao serves as a case study for analyzing the transformation of pre-colonial power centers into modern economic nodes, highlighting the persistence of regional identity and the town's role in the national spice and perfume trade.",
+      "factsAdvanced": [
+        "Coastal town south of Moroni, heart of the historic Bambao region.",
+        "Population of approximately 6,000 permanent residents.",
+        "Site of Anjouan's early colonial ylang-ylang plantations.",
+        "Currently hosts several major essential oil distillation units.",
+        "Agriculture focuses on cloves, vanilla, and high-value perfume plants.",
+        "Architecture features a mix of historic stone ruins and modern villas.",
+        "Strategically located on the main western coastal highway.",
+        "Educational center with several primary and vocational schools."
+      ]
+    },
+    {
+      "id": "itsoundzou-cities-v2",
+      "descriptionAdvanced": "Itsoundzou is a traditional coastal village located in the southern part of Grande Comore, nestled in a region of rugged volcanic beauty. The settlement is built on a rocky promontory overlooking the Indian Ocean, where deep waters and strong currents have shaped a community of expert deep-sea fishermen. Itsoundzou preserves a lifestyle largely centered around the ocean, with traditional outrigger canoes lining its rocky shore. In the Plizio K5 Maritime Geography curriculum, Itsoundzou is used to explain the techniques of traditional line fishing in deep waters and the cultural significance of the sea in Comorian village life, showing how geography dictates the professional skills and social organization of coastal populations.",
+      "factsAdvanced": [
+        "Coastal settlement in southern Grande Comore, Mbadjini region.",
+        "Estimated population of approximately 3,000 residents.",
+        "Built on a volcanic rock promontory with direct ocean access.",
+        "Renowned for its community of expert deep-sea artisanal fishermen.",
+        "Economy based almost exclusively on fishing and coconut products.",
+        "Local waters are deep, allowing for the capture of large pelagic fish.",
+        "Features a historic mosque built with volcanic basalt blocks.",
+        "Remote location has helped preserve traditional Swahili dialects."
+      ]
+    },
+    {
+      "id": "ylang-ylang-plantagen-bambao-life-v2",
+      "descriptionAdvanced": "The Ylang-Ylang plantations of Bambao on Grande Comore represent a fundamental pillar of the island's perfume industry and cultural landscape. These sprawling estates are home to Cananga odorata trees, which are meticulously pruned to a reachable height to facilitate the manual harvest of their fragrant yellow flowers. The air in Bambao is often thick with the sweet, heady scent of ylang-ylang, especially during the early morning harvest hours. In the Plizio K7 Economic Geography curriculum, these plantations serve as a primary example of specialized tropical export agriculture, illustrating the labor-intensive process of flower collection and the delicate balance required between soil nutrients, pruning, and sun exposure to produce high-quality essential oils.",
+      "factsAdvanced": [
+        "Located in the fertile Bambao region, south of Moroni.",
+        "Harvested flowers are processed in local steam distilleries.",
+        "The trees are kept at 2 meters height for easier manual picking.",
+        "Comoros provides about 80% of the world's ylang-ylang essence.",
+        "Peak flowering occurs during the rainy season (November to May).",
+        "Provides seasonal employment for thousands of local women.",
+        "Flowers must be distilled within 24 hours of being picked.",
+        "Essence is used by major French perfume houses (e.g., Chanel No. 5)."
+      ]
+    },
+    {
+      "id": "vanillefelder-anjouan-life-v2",
+      "descriptionAdvanced": "The vanilla fields of Anjouan are a testament to the archipelago's status as a top producer of high-grade Bourbon vanilla. Growing on the shaded volcanic slopes of the island's interior, the vanilla orchids (Vanilla planifolia) require precise conditions and painstaking manual labor. Since the natural pollinator is absent in the Comoros, every single flower must be hand-pollinated by local workers using a specialized technique. For Plizio K8 Agriculture students, the Anjouan vanilla fields illustrate the complexity of 'curing' and processing, where the green beans are blanched, sweated, and dried for months to develop their signature aroma, showcasing the intersection of botanical science and traditional artisanal expertise.",
+      "factsAdvanced": [
+        "Vanilla is Anjouan's most valuable agricultural export crop.",
+        "Every flower is hand-pollinated using a small wooden needle.",
+        "Requires 9 months for the pods to reach full maturity.",
+        "Plants grow best in the shade of 'tutor' trees like gliricidia.",
+        "The 'Bourbon' variety is known for high vanillin content.",
+        "Curing process includes sun-drying and fermentation in blankets.",
+        "Village cooperatives manage much of the processing and trade.",
+        "The scent of drying vanilla pods fills the air in harvest season."
+      ]
+    },
+    {
+      "id": "nelkenhaine-moheli-life-v2",
+      "descriptionAdvanced": "The clove groves of Mohéli represent one of the most sensory and economically significant agricultural landscapes in the Comoros. These tall, evergreen trees (Syzygium aromaticum) thrive in the humid, volcanic soils of the island's interior, producing the aromatic flower buds known worldwide as cloves. During the harvest season, the entire community participates in picking and sun-drying the buds on large mats laid out in village squares. In the Plizio K7 Geography curriculum, Mohéli's clove groves illustrate the importance of spice production in island economies and the historical trade links between the Indian Ocean and global markets, highlighting the tree's long lifespan and its role in sustainable agroforestry systems.",
+      "factsAdvanced": [
+        "Cloves are the dried flower buds of the Syzygium aromaticum tree.",
+        "Mohéli is a major producer due to its high humidity and fertile soil.",
+        "Trees can grow up to 12 meters tall and live for over 100 years.",
+        "Harvesting involves climbing the trees to pick the buds by hand.",
+        "Drying takes about 4-5 days under the intense tropical sun.",
+        "The spicy aroma is noticeable throughout the island during harvest.",
+        "Used globally in medicine, cooking, and the tobacco industry.",
+        "Exports are primarily managed through the port of Fomboni."
+      ]
+    },
+    {
+      "id": "gewuerzgarten-moroni-life-v2",
+      "descriptionAdvanced": "The spice gardens of Moroni offer a concentrated and educational glimpse into the botanical wealth of the Comoros, often referred to as the 'Perfume Islands'. These gardens, located on the outskirts of the capital, showcase a variety of aromatic plants, including pepper vines, cinnamon trees, nutmeg, and ginger, alongside the iconic vanilla and ylang-ylang. For Plizio K6 Nature studies, the spice gardens provide a living laboratory to observe the diverse morphological traits of tropical plants and understand their traditional uses in Comorian medicine and cuisine. Walking through these gardens, students can learn about the history of the spice trade and the ecological importance of preserving native and naturalized botanical species in the archipelago.",
+      "factsAdvanced": [
+        "Botanical collection showcasing the archipelago's major spice plants.",
+        "Features cinnamon, nutmeg, black pepper, and cardamom.",
+        "Educational site used for training local students in botany.",
+        "Demonstrates traditional organic composting and soil management.",
+        "Includes a section on medicinal herbs used in Comorian healing.",
+        "Gardeners provide guided tours explaining the harvest of each spice.",
+        "Located near the National Museum (CNDRS) for cultural context.",
+        "Important site for preserving rare local varieties of aromatic plants."
+      ]
+    },
+    {
+      "id": "livingstone-flughunde-habitat-life-v2",
+      "descriptionAdvanced": "The habitat of Livingstone's fruit bats (Pteropus livingstonii) is confined to the remaining fragments of high-altitude primary forest on the islands of Anjouan and Mohéli. These giant bats, with wingspans of up to 1.4 meters, are among the rarest and largest in the world, playing a crucial role as seed dispersers and pollinators for the island's native trees. In the Plizio K9 Biology curriculum, the Livingstone habitat serves as a critical case study for endangered species conservation and the impact of habitat fragmentation. Protecting these bats involves preserving the ancient, giant trees they use for roosting, highlighting the interconnectedness of forest health, biodiversity, and the survival of the island's unique ecological heritage.",
+      "factsAdvanced": [
+        "One of the world's largest bats with a wingspan of 1.4 meters.",
+        "Critically endangered, with only about 1,200 individuals remaining.",
+        "Found exclusively in the high-altitude forests of Anjouan and Mohéli.",
+        "Active primarily at night, feeding on native fruits and nectar.",
+        "Roosts in large colonies in the canopy of ancient forest trees.",
+        "Essential for the natural regeneration of the tropical rainforest.",
+        "Habitat is threatened by deforestation for agriculture and logging.",
+        "Local and international NGOs work together to protect roost sites."
+      ]
+    },
+    {
+      "id": "meeresschildkroeten-itsamia-life-v2",
+      "descriptionAdvanced": "The sea turtle sanctuary at Itsamia on Mohéli is one of the Indian Ocean's most important nesting grounds for the green sea turtle (Chelonia mydas). The local community has become famous for its successful transition from turtle harvesting to dedicated protection, creating a model for community-based conservation. For Plizio K6 Environmental Science, Itsamia provides a direct look at the life cycle of these marine reptiles, from the nocturnal nesting on the beach to the emergence of hatchlings. The sanctuary's success is rooted in the active participation of village youth, who conduct nightly patrols to protect the eggs from predators and poaching, ensuring that thousands of young turtles reach the sea every year to continue their epic migration.",
+      "factsAdvanced": [
+        "Itsamia is the premier site for green sea turtle conservation in Comores.",
+        "Thousands of turtles nest here annually, especially from June to August.",
+        "The ADSEI association manages the sanctuary and ecotourism.",
+        "Volunteers conduct nightly beach patrols to protect nesting females.",
+        "Hatchlings emerge after about 60 days of incubation in the sand.",
+        "A dedicated visitor center provides education on turtle biology.",
+        "Project has won international awards for community conservation.",
+        "Itsamia's beaches are part of the Mohéli National Park."
+      ]
+    },
+    {
+      "id": "dugong-schutzgebiet-moheli-life-v2",
+      "descriptionAdvanced": "The Dugong sanctuary in the Mohéli Marine Park protects one of the last remaining populations of these rare marine mammals in the Western Indian Ocean. These 'sea cows' rely on the extensive seagrass meadows found in the shallow, protected waters of the park for their survival. In the Plizio K9 Marine Biology curriculum, the Mohéli dugong sanctuary is used to illustrate the fragility of marine herbivores and the importance of protecting specific habitats like seagrass beds. Conservation efforts include strict regulations on net fishing and boat traffic in core areas to prevent accidental capture and disturbance, highlighting the park's role in safeguarding some of the most elusive and endangered species of the sea.",
+      "factsAdvanced": [
+        "Dugongs (Dugong dugon) are rare marine mammals related to manatees.",
+        "The Mohéli population is one of the last in the Mozambique Channel.",
+        "They feed exclusively on seagrass found in shallow coastal waters.",
+        "Protected within the core zones of the Mohéli Marine Park.",
+        "Threatened by accidental entanglement in fishing nets and habitat loss.",
+        "Often referred to locally as 'Nguva' in the Comorian language.",
+        "Research includes acoustic monitoring to track their movements.",
+        "Symbolizes the ultimate success of marine habitat preservation."
+      ]
+    },
+    {
+      "id": "buckelwal-beobachtung-life-v2",
+      "descriptionAdvanced": "Humpback whale observation in the waters of Mohéli and Grande Comore is a spectacular seasonal event that highlights the archipelago's role as a vital breeding and calving ground. Between July and October, these majestic giants (Megaptera novaeangliae) migrate from the Antarctic to the warm, shallow waters of the Comoros to give birth and nurse their young. For Plizio K7 Marine Science, whale observation provides an opportunity to study mammalian migration and maternal behavior in a natural setting. Ecotourism operators follow strict codes of conduct to minimize disturbance to the whales, ensuring that these encounters remain respectful and educational while supporting the local economy through sustainable wildlife tourism.",
+      "factsAdvanced": [
+        "Migration season occurs annually from July to late October.",
+        "Whales come to the warm Comorian waters to mate and give birth.",
+        "The shallow bays of Mohéli are particularly favored for calving.",
+        "Strict regulations govern boat distance to prevent whale stress.",
+        "Observers can often see breaching and hear whale songs.",
+        "Contributes significantly to the local economy during the dry season.",
+        "Part of a regional network for whale monitoring in the Indian Ocean.",
+        "Educational programs focus on the life cycle of these giants."
+      ]
+    },
+    {
+      "id": "kokosnuss-haine-mitsamiouli-life-v2",
+      "descriptionAdvanced": "The coconut groves of Mitsamiouli on the northern coast of Grande Comore are a quintessential part of the island's landscape and economy. These extensive plantations of Cocos nucifera provide the local community with a versatile resource used for food, construction, and oil production. The groves also offer a natural cooling effect, creating a pleasant microclimate for the nearby villages and beaches. In the Plizio K5 Geography curriculum, the Mitsamiouli coconut groves illustrate the multi-purpose utility of the 'tree of life' in tropical cultures, showing how every part of the palm—from the fruit and fronds to the trunk—is integrated into daily life and traditional craftsmanship, supporting a self-sustaining coastal economy.",
+      "factsAdvanced": [
+        "Mitsamiouli is the primary region for coconut production on Grande Comore.",
+        "Groves provide shade for the island's most famous white sand beaches.",
+        "Coconuts are harvested for their water, meat, and oil (copra).",
+        "The husks are used locally as a fuel source and for making rope.",
+        "Palm fronds are woven into mats (mikeka) and roofing material.",
+        "Coconut oil is a staple in Comorian cooking and traditional cosmetics.",
+        "The groves help protect the coastline from wind and salt spray.",
+        "Local cooperatives manage the collection and processing of oil."
+      ]
+    },
+    {
+      "id": "zuckerrohrfelder-pomoni-life-v2",
+      "descriptionAdvanced": "The sugarcane fields of Pomoni on Anjouan carry the weight of the island's colonial industrial history, once serving as the engine for a massive sugar production system. Although the large-scale industrial plantations have diminished, small-scale sugarcane cultivation continues, used primarily for local consumption and artisanal production. These fields, situated on the lower volcanic slopes, benefit from the rich soil and high rainfall of the southwest coast. For Plizio K8 History and Social Studies, the Pomoni sugarcane fields serve as a link to the 19th-century plantation era, illustrating how former industrial landscapes have been repurposed by local communities for subsistence and small-scale trade while maintaining the cultural memory of Anjouan's complex past.",
+      "factsAdvanced": [
+        "Pomoni was the site of a major French sugar factory in the 1800s.",
+        "Current cultivation is mostly for local use and traditional juice.",
+        "Sugarcane thrives in the humid, volcanic soil of Anjouan's coast.",
+        "Remnants of colonial irrigation systems can still be seen in the fields.",
+        "Manual harvesting techniques have remained unchanged for generations.",
+        "Sugarcane stalks are sold in local markets as a popular snack.",
+        "The crop is integrated into traditional crop rotation systems.",
+        "Symbolizes the historical shift from industrial exports to local farming."
+      ]
+    },
+    {
+      "id": "bananenplantagen-nioumachoua-life-v2",
+      "descriptionAdvanced": "The banana plantations around Nioumachoua on Mohéli are the foundation of the local diet and a central feature of the island's agricultural identity. A wide variety of bananas, including cooking plantains (mbiwi) and sweet dessert varieties, are grown in these lush, humid groves. The plantations are typically managed as part of an agroforestry system, where banana trees provide shade for delicate spice plants like vanilla and cocoa. In the Plizio K5 Nutrition and Agriculture curriculum, the Nioumachoua plantations illustrate the importance of staple crops in ensuring food security and the role of bananas as a versatile, year-round food source that requires minimal processing and provides essential nutrients for the Comorian population.",
+      "factsAdvanced": [
+        "Bananas are the primary staple food for the residents of Mohéli.",
+        "Over 20 different varieties of bananas are grown in the region.",
+        "Grown in mixed agroforestry systems alongside spices and cocoa.",
+        "Trees provide vital shade for vanilla orchids and ylang-ylang.",
+        "Harvesting occurs throughout the year, ensuring constant food supply.",
+        "Leaves are used as biodegradable plates and wrapping for steaming food.",
+        "Local markets in Fomboni are supplied daily from these groves.",
+        "The crop is resilient to the island's high humidity and rainfall."
+      ]
+    },
+    {
+      "id": "lemuren-wald-moheli-life-v2",
+      "descriptionAdvanced": "The Lemur forests of Mohéli, particularly the Mchaco and Maki forests, are one of the few places in the world where these primates can be observed in their natural habitat outside of Madagascar. The Mongoose lemur (Eulemur mongoz) was introduced to the island centuries ago and has since become a naturalized and protected part of Mohéli's biodiversity. In the Plizio K6 Zoology curriculum, the Mohéli lemur forests serve as a case study for island biogeography and species adaptation. These forests, ranging from humid mountain slopes to dry coastal thickets, provide the lemurs with a variety of fruits, flowers, and leaves, highlighting the importance of preserving diverse forest types to ensure the survival of these charismatic and ecologically significant primates.",
+      "factsAdvanced": [
+        "Mohéli is home to the Mongoose lemur (Eulemur mongoz).",
+        "The species was likely introduced by early settlers from Madagascar.",
+        "Lemurs are active both day and night depending on the season.",
+        "They play a role in seed dispersal within the island's forests.",
+        "Protected by local laws and part of the Mohéli National Park.",
+        "The Mchaco forest is a primary location for lemur spotting.",
+        "Their diet includes nectar, flowers, and various tropical fruits.",
+        "Threatened by habitat loss and competition with invasive species."
+      ]
+    },
+    {
+      "id": "vogelparadies-mchaco-life-v2",
+      "descriptionAdvanced": "The bird paradise of Mchaco on Mohéli is a sanctuary of global importance for seabirds and endemic terrestrial species. The islet of Mchaco, with its sheer volcanic cliffs, hosts massive colonies of Masked Boobies and Great Frigatebirds, who find safety from predators in its inaccessible terrain. The nearby coastal forests on the main island are home to rare endemics like the Mohéli scops owl and the Comoro blue pigeon. For Plizio K6 Ornithology studies, Mchaco provides a perfect environment to observe avian behavior, from the dramatic aerial displays of frigatebirds to the intricate nesting habits of seabirds, emphasizing the role of isolated islands and islets as critical refuges for the world's migratory and endemic bird populations.",
+      "factsAdvanced": [
+        "Mchaco islet hosts one of the largest Masked Booby colonies in the region.",
+        "Recognized as an Important Bird Area (IBA) by BirdLife International.",
+        "Home to the endemic Mohéli scops owl (Otus moheliensis).",
+        "The cliffs are covered in guano, giving them a distinct white color.",
+        "Great Frigatebirds are known for their impressive 2-meter wingspans.",
+        "Coastal forests harbor the rare Comoro blue pigeon.",
+        "Islets are strictly protected core zones of the Mohéli Marine Park.",
+        "Ideal for scientific research on Indian Ocean avian migrations."
+      ]
+    },
+    {
+      "id": "ylang-ylang-destillerie-ouani-life-v2",
+      "descriptionAdvanced": "The Ylang-Ylang distillery in Ouani on Anjouan is a sensory crossroads where traditional craftsmanship meets global industry. Using vintage steam distillation units, local experts transform fresh Cananga odorata flowers into the precious essential oil that forms the heart of world-famous perfumes. The process is a delicate art, requiring precise control of temperature and pressure to extract the 'extra' grade essence from the first hours of distillation. In the Plizio K8 Industrial Chemistry curriculum, the Ouani distillery serves as a practical example of steam distillation and volatile oil extraction, showcasing how the archipelago's botanical wealth is processed into high-value liquid gold, supporting thousands of families and maintaining Anjouan's reputation as a world leader in essential oils.",
+      "factsAdvanced": [
+        "Ouani is a major center for essential oil processing on Anjouan.",
+        "Fresh ylang-ylang flowers are distilled daily in copper stills.",
+        "The distillation process takes up to 20 hours to complete.",
+        "The 'Extra' grade is the highest quality, extracted in the first phase.",
+        "The spent water (hydrosol) is often reused for local soaps.",
+        "Wood from old plantations is used as fuel for the distillation boilers.",
+        "Anjouan's essence is prized for its complex, floral-spicy aroma.",
+        "Exported directly to the major perfume hubs in Grasse, France."
+      ]
+    },
+    {
+      "id": "kaffeeplantagen-tsembehou-life-v2",
+      "descriptionAdvanced": "The coffee plantations of Tsembéhou are nestled in one of Anjouan's most fertile and humid mountain basins, offering the perfect microclimate for the cultivation of Arabica and Robusta coffee. These small-scale family plots are often integrated into complex agroforestry systems, where coffee trees grow alongside cloves, bananas, and vanilla. For Plizio K7 Agriculture students, the Tsembéhou plantations illustrate the benefits of mountain agriculture, where high altitude and rich volcanic soil produce coffee beans with a distinct, smooth flavor. The process—from hand-picking the red cherries to sun-drying and traditional roasting—is a deeply rooted part of the local culture, providing a sustainable income for the highland communities while preserving the island's botanical diversity.",
+      "factsAdvanced": [
+        "Tsembéhou is a high-altitude basin ideal for coffee cultivation.",
+        "Produces both Arabica and Robusta varieties for local markets.",
+        "Coffee is grown under the shade of native trees to preserve soil moisture.",
+        "Harvesting is done by hand, picking only the ripe red cherries.",
+        "Beans are sun-dried on mats in the village squares.",
+        "Traditional Comorian coffee is often roasted with local spices.",
+        "Provides an important secondary income for mountain farmers.",
+        "The crop is resilient to the cooler, misty climate of the interior."
+      ]
+    }
+  ]
+}

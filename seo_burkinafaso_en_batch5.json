@@ -1,0 +1,360 @@
+{
+  "lang": "en",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoLifeV2.ts",
+    "lib/visualLab/data/poiExtraBurkinafasoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "culture-du-coton-life-v2",
+      "descriptionAdvanced": "Cotton culture, famously known as 'white gold,' is the most important commercial agricultural sector in Burkina Faso and the second largest export after gold. Cultivated primarily in the western and central-southern regions, cotton provides a livelihood for over four million people and is the backbone of the rural economy. Historically, the sector has been managed through a sophisticated system of farmer cooperatives and three major ginning companies, including SOFITEX. The Burkinabé cotton is renowned on the international market for being hand-picked, which preserves the length and quality of the fibers. The planting season begins with the first rains in May or June, and the harvest takes place between November and January, transforming the landscape into endless white fields. Beyond the fiber, cotton seeds are processed locally into vegetable oil and animal feed, supporting national food security. Cotton is not just a crop; it is a vital engine of national development and industrial pride.",
+      "factsAdvanced": [
+        "Known as 'white gold' and the country's second-largest export",
+        "Supports the livelihoods of over four million Burkinabé people",
+        "Burkinabé cotton is hand-picked to ensure superior fiber quality",
+        "Primary production zones are in the western and southern regions",
+        "Harvested between November and January each year",
+        "Managed through a large-scale network of rural farmer cooperatives",
+        "By-products include edible vegetable oil and high-protein animal feed",
+        "Major contributor to the national balance of trade and rural stability"
+      ]
+    },
+    {
+      "id": "centre-equestre-de-ouaga-life-v2",
+      "descriptionAdvanced": "The Ouagadougou Equestrian Center is a premier sporting and cultural facility dedicated to the long-standing Burkinabé tradition of horsemanship. Located in a quiet area of the capital, the center provides professional training in riding, jumping, and dressage, while also preserving the unique heritage of the local horse breeds. Historically, the horse has been a symbol of nobility and military power in Mossi society, and the center serves to maintain this connection for modern urban residents. It hosts regular national competitions and equestrian shows that attract horse enthusiasts from across West Africa. The facility includes stables for dozens of horses, a large outdoor arena, and a clubhouse that serves as a social hub for the equestrian community. For many young Burkinabé, the center is a place to learn discipline and respect for animals while continuing the legacy of their ancestors. It remains a vital institution for both sport and cultural identity in Ouagadougou.",
+      "factsAdvanced": [
+        "Premier facility for professional equestrian training in the capital",
+        "Preserves the traditional Burkinabé heritage of expert horsemanship",
+        "Focuses on both modern jumping and traditional Mossi riding styles",
+        "Hosts major national equestrian competitions and cultural shows",
+        "Home to various local and cross-bred West African horse breeds",
+        "Promotes youth discipline and animal welfare through sport",
+        "Serves as a key social center for the capital's equestrian community",
+        "Reflects the historical importance of the horse in Mossi culture"
+      ]
+    },
+    {
+      "id": "reserve-de-faune-de-tin-akoff-life-v2",
+      "descriptionAdvanced": "The Tin-Akoff Wildlife Reserve, located in the northernmost Oudalan province, is a unique protected area situated at the edge of the Sahara Desert. This semi-arid landscape is characterized by its vast sand dunes, thorny acacia savannas, and the seasonal Béli River, which provides a critical water source for the region's fauna. Historically, Tin-Akoff has been a vital habitat for wüsten-adapted species such as the dorcas gazelle, patas monkeys, and a variety of specialized desert birds. The reserve also serves as a crucial transit point for nomadic Fulani and Tuareg herders, who have shared this landscape with the wildlife for centuries. Management efforts in the reserve focus on preventing desertification and protecting the fragile waterholes that sustain life during the extreme dry season. For those who venture to this remote corner of Burkina Faso, Tin-Akoff offers a hauntingly beautiful experience of the Sahelian wilderness, where the resilience of nature is on full display.",
+      "factsAdvanced": [
+        "Northernmost wildlife reserve in Burkina Faso near the Mali border",
+        "Unique Sahelian-Sahara transition habitat with shifting dunes",
+        "Centered around the seasonal Béli River and its vital waterholes",
+        "Sanctuary for desert-adapted species like the dorcas gazelle",
+        "Critical stop for nomadic Fulani and Tuareg transhumance",
+        "Managed to combat desertification and habitat loss in the north",
+        "Home to a diverse array of specialized arid-zone bird species",
+        "Offers a rare glimpse into the extreme northern wilderness"
+      ]
+    },
+    {
+      "id": "culture-de-l-arachide-life-v2",
+      "descriptionAdvanced": "Peanut (arachide) culture is a vital component of smallholder agriculture across Burkina Faso, serving as both a primary source of protein and a significant cash crop for rural families. Grown in almost every region, peanuts are well-suited to the country's sandy soils and variable rainfall. Historically, peanuts have been a staple of Burkinabé cuisine, used to make the famous 'peanut sauce' (sauce arachide) that accompanies almost every meal, and processed into high-quality cooking oil. The cultivation is often carried out by women's cooperatives, who also handle the manual shelling and traditional roasting processes. Beyond the nuts themselves, the plant's leafy tops (haulms) are a highly valued fodder for livestock, particularly during the dry season. The sector is also a major driver of local markets, with thousands of tonnes of peanuts traded annually for both domestic consumption and export to neighboring countries. Peanut culture is a perfect example of a sustainable, multi-purpose crop that supports both family nutrition and economic independence.",
+      "factsAdvanced": [
+        "Essential source of protein and a major national cash crop",
+        "Grown by millions of smallholder farmers across all regions",
+        "Central ingredient in traditional Burkinabé sauces and oil production",
+        "Often managed and processed by local women's cooperatives",
+        "The plant's haulms provide high-quality fodder for livestock",
+        "Suited for the sandy soils and Sahelian climate of the country",
+        "Significant contributor to local market activity and regional trade",
+        "Zero-waste crop that supports both human and animal nutrition"
+      ]
+    },
+    {
+      "id": "parc-de-la-reunification-life-v2",
+      "descriptionAdvanced": "The Reunification Park in Ouagadougou is a symbolic green space created to commemorate the national unity and political history of Burkina Faso. Located near the administrative heart of the capital, the park features monuments, paved walkways, and manicured gardens that provide a dignified environment for reflection and public gatherings. Historically, the park was established during a period of national restructuring to symbolize the coming together of different political and ethnic factions under a common national identity. It serves as a popular site for official ceremonies, military parades, and civic celebrations. For everyday residents, the park offers a peaceful retreat for walking and socializing in a well-maintained urban setting. Its central monument is a landmark of the capital, representing the resilience and aspirations of the Burkinabé people. The Reunification Park is not just a place of leisure; it is a living monument to the nation's journey and its commitment to peace.",
+      "factsAdvanced": [
+        "Symbolic park and monument commemorating Burkinabé national unity",
+        "Located in the central administrative district of Ouagadougou",
+        "Venue for official national ceremonies and military parades",
+        "Features well-maintained gardens, walkways, and historical monuments",
+        "Provides a peaceful urban retreat for residents and visitors",
+        "Reflects the political history and aspirations of the country",
+        "Key landmark for understanding modern Burkinabé statehood",
+        "Major gathering point for civic celebrations and national holidays"
+      ]
+    },
+    {
+      "id": "ferme-avicole-ouaga-life-v2",
+      "descriptionAdvanced": "The Ouagadougou Poultry Farm is a modern agro-industrial facility dedicated to meeting the growing demand for eggs and chicken meat in the capital and beyond. Utilizing advanced breeding and feeding technologies, the farm is a major contributor to the national goal of food self-sufficiency and improved nutrition. Historically, poultry has been a mainstay of Burkinabé agriculture, but the transition to industrial-scale farming has significantly increased production efficiency and reduced prices for consumers. The farm also serves as a model for private investment in the agricultural sector, providing training and high-quality chicks to smaller-scale producers across the region. With strict hygiene and veterinary standards, the facility ensures a safe and reliable supply of protein for the urban population. The poultry sector is one of the most dynamic parts of the national economy, creating thousands of jobs in feed production, processing, and retail. The farm stands as a symbol of the modernization of Burkina Faso's livestock industry.",
+      "factsAdvanced": [
+        "Major industrial producer of eggs and poultry for the capital",
+        "Key driver of national food self-sufficiency and protein security",
+        "Uses modern intensive breeding and feeding technologies",
+        "Serves as a training hub for small-scale poultry entrepreneurs",
+        "Significant employer in the capital's peri-urban agricultural zone",
+        "Follows strict international hygiene and veterinary protocols",
+        "Drives the regional market for maize and soy-based animal feeds",
+        "Critical for the stabilization of poultry prices in urban markets"
+      ]
+    },
+    {
+      "id": "jardin-botanique-ouaga-life-v2",
+      "descriptionAdvanced": "The Ouagadougou Botanical Garden is a sanctuary of biodiversity dedicated to the preservation and study of West African flora. Located within the Bangr Weogo forest complex, the garden features thousands of native plant species, including rare medicinal herbs, fruit trees, and the iconic baobabs of the savanna. Historically, the garden was established to serve as a living laboratory for botanists and a center for environmental education, teaching visitors about the ecological importance of local vegetation. It is divided into several thematic zones, such as a traditional medicine garden and a nursery for reforestation projects. The garden also plays a critical role in the conservation of endangered plant species that are threatened by climate change and urban expansion. For visitors, it offers a tranquil and educational walking experience, providing deep insights into the natural wealth of Burkina Faso. The Botanical Garden is a vital institution for the scientific and cultural preservation of the country's botanical heritage.",
+      "factsAdvanced": [
+        "Premier center for the study and preservation of West African flora",
+        "Located in the Bangr Weogo urban forest of Ouagadougou",
+        "Features thousands of native species including rare medicinal plants",
+        "Serves as a living laboratory for botanical and ecological research",
+        "Major destination for environmental education and school field trips",
+        "Includes a dedicated nursery for national reforestation projects",
+        "Critical for the conservation of endangered Sahelian plant species",
+        "Provides a peaceful and educational green space for the public"
+      ]
+    },
+    {
+      "id": "reserve-de-faune-de-bontioli-nord-life-v2",
+      "descriptionAdvanced": "The Bontioli-Nord Wildlife Reserve is a significant northern extension of the Bontioli conservation complex in the Bougouriba province. This area is characterized by its hilly terrain and a mosaic of dry deciduous forests and shrub savannas, providing a varied habitat for a wide range of Sudano-Sahelian fauna. Historically, Bontioli-Nord has been a critical sanctuary for various species of antelopes, including the kobs and bushbucks, as well as several species of wild cats and hyenas. The reserve's strategic importance lies in its role as a buffer zone for the core Bontioli park, protecting it from agricultural encroachment and ensuring a continuous habitat for migratory species. Management focuses on water management and fire prevention, which are essential for maintaining the ecological balance in this seasonal landscape. For the adventurous traveler, Bontioli-Nord offers a rugged and authentic wilderness experience, showcasing the resilient beauty of the Burkinabé interior. Its preservation is vital for the long-term sustainability of the southwestern wildlife corridors.",
+      "factsAdvanced": [
+        "Northern extension of the Bontioli wildlife conservation complex",
+        "Characterized by hilly terrain and dry deciduous forest habitats",
+        "Safe haven for kobs, bushbucks, and various small predators",
+        "Acts as a critical buffer zone against regional habitat fragmentation",
+        "Essential for the southern national wildlife migration network",
+        "Focused on fire prevention and water source management",
+        "Offers a rugged, off-the-beaten-path safari experience",
+        "Located in the ecologically rich Bougouriba province"
+      ]
+    },
+    {
+      "id": "culture-du-mais-life-v2",
+      "descriptionAdvanced": "Maize (corn) culture has seen a dramatic expansion in Burkina Faso over the last few decades, becoming the third most important cereal crop after sorghum and millet. Primarily grown in the more humid western and southern regions, maize is a critical component of national food security and a major source of income for millions of farmers. Historically, its growth was driven by the introduction of improved, early-maturing varieties and the expansion of the 'cotton belt,' where maize is often grown in rotation with cotton. Maize is widely used for human consumption, often ground into flour for 'tô,' and is also the primary ingredient for the country's rapidly growing poultry and livestock feed industries. The cultivation of maize is highly intensive, requiring significant labor and inputs, which has led to increased mechanization in some parts of the country. As a versatile and high-yielding crop, maize is a symbol of the modernization and commercialization of Burkinabé agriculture. It remains a key driver of rural prosperity and urban food supply.",
+      "factsAdvanced": [
+        "Third most important cereal crop for national food security",
+        "Primary production hub in the humid western and southern regions",
+        "Often grown in strategic rotation with the national cotton crop",
+        "Essential ingredient for both human 'tô' and industrial animal feed",
+        "Experienced massive expansion due to improved seed varieties",
+        "Significant driver of rural income and agricultural modernization",
+        "Grown by millions of smallholder and commercial farmers",
+        "Key component of the national strategy for cereal self-sufficiency"
+      ]
+    },
+    {
+      "id": "volta-noire-river-nature-v2",
+      "descriptionAdvanced": "The Black Volta River, known locally in Burkina Faso as the Mouhoun, is the country's most significant and only permanent waterway that flows year-round. Originating in the western highlands near Bobo-Dioulasso, it carves a massive loop through the heart of the country before heading south to form the border with Ghana. The river is the lifeblood of the western and central provinces, providing essential water for large-scale irrigation projects, including the Samendeni and Bagré systems, which are critical for national food security. Historically, the Mouhoun valley has been a fertile cradle for numerous ethnic groups and a major corridor for trade and migration. Its banks are lined with lush gallery forests that harbor diverse wildlife, including some of the country's most stable hippo populations. The river also supports a thriving artisanal fishing industry that provides protein and income for thousands of families. As a strategic national resource, the Mouhoun is central to Burkina Faso's energy, agriculture, and ecological health.",
+      "factsAdvanced": [
+        "The only permanent, year-round flowing river in Burkina Faso",
+        "Known locally as the Mouhoun, the country's longest waterway",
+        "Vital for major national irrigation projects like the Samendeni dam",
+        "Forms a natural international border with Ghana in the south",
+        "Primary habitat for the country's largest hippopotamus populations",
+        "Critical corridor for regional trade, migration, and biodiversity",
+        "Supports a major artisanal freshwater fishing industry",
+        "Essential for the agricultural 'breadbasket' of western Burkina Faso"
+      ]
+    },
+    {
+      "id": "lac-tengrela-nature-v2",
+      "descriptionAdvanced": "Lake Tengrela, situated near the city of Banfora in the Cascades region, is a serene freshwater lake famous for its sacred hippopotamus population. This relatively small but permanent body of water is surrounded by lush vegetation and majestic trees, providing a striking contrast to the surrounding savanna. For the local Karaboro and Turka peoples, the lake's hippos are considered sacred spirits that protect the nearby villages, leading to a unique and peaceful coexistence between humans and these powerful animals. Historically, the lake has been a central point for local livelihoods, supporting small-scale fishing and traditional kano (pirogue) navigation. Today, it is one of Burkina Faso's premier ecotourism destinations, where visitors can glide silently across the water at sunrise to witness the hippos in their natural habitat. The lake's ecosystem is also a haven for migratory birds and rare aquatic plants like water lilies. Lake Tengrela remains a symbol of natural beauty and spiritual harmony in southwestern Burkina Faso.",
+      "factsAdvanced": [
+        "Famous freshwater lake known for its sacred hippopotamus population",
+        "Located in the Cascades region near the city of Banfora",
+        "The hippos are traditionally considered sacred by the local people",
+        "Premier destination for silent pirogue-based ecotourism",
+        "Surrounded by lush vegetation, water lilies, and ancient trees",
+        "Important habitat for diverse migratory and native water birds",
+        "Permanent body of water that supports local artisanal fishing",
+        "Symbol of spiritual harmony between local communities and nature"
+      ]
+    },
+    {
+      "id": "bale-foret-nature-v2",
+      "descriptionAdvanced": "The Balé Forest (Forêt classée des Deux Balés) is a massive and ecologically vital protected area in the Balé province of central-western Burkina Faso. This woody savanna and gallery forest complex is one of the most important sanctuaries for the country's elephant population, which migrates along the Mouhoun River. Historically, the forest has served as a critical buffer against desertification and soil erosion in the central plains, preserving the region's micro-climate. The area is characterized by its diverse flora, including majestic baobabs and shea trees, which provide food and shelter for a wide range of wildlife, from antelopes to various primate species. Conservation efforts in Balé are focused on sustainable forest management and the prevention of illegal logging and poaching, which threaten its fragile balance. For nature lovers, the forest offers a rugged and authentic wilderness experience, showcasing the natural beauty of the Sudanian zone. Its preservation is essential for the ecological health of the entire Mouhoun river basin.",
+      "factsAdvanced": [
+        "Major component of the Deux Balés National Park complex",
+        "Critical sanctuary and migration route for Burkinabé elephants",
+        "Located along the banks of the strategic Mouhoun (Black Volta) River",
+        "Characterized by woody savannas and dense gallery forests",
+        "Vital buffer against desertification and soil erosion in the center",
+        "Home to diverse wildlife including antelopes, monkeys, and rare birds",
+        "Features iconic West African flora like baobabs and shea trees",
+        "Essential for maintaining the ecological health of the central regions"
+      ]
+    },
+    {
+      "id": "parc-national-w-nature-v2",
+      "descriptionAdvanced": "The W National Park is a monumental transboundary UNESCO World Heritage site shared between Burkina Faso, Benin, and Niger, named after the 'W'-shaped curve of the Niger River. This massive wilderness area represents one of the most significant and intact ecosystems in West Africa, providing a critical refuge for the region's 'Big Five' and many other endangered species. Historically, the park has been a sanctuary for the last remaining populations of West African lions and the rare North African ostrich. Its landscape is a fascinating mosaic of shrublands, gallery forests, and seasonal wetlands, supported by the complex hydrology of the Niger River basin. Management of the park involves a unique international cooperation aimed at large-scale landscape conservation and anti-poaching operations. Despite the logistical and security challenges of the border region, the W Park remains the ultimate sanctuary of Sahelian biodiversity and a site of immense scientific and cultural value. It is the pride of West African conservation.",
+      "factsAdvanced": [
+        "UNESCO World Heritage site shared by Burkina Faso, Benin, and Niger",
+        "Named after the distinctive 'W'-shaped curve of the Niger River",
+        "Last major refuge for the critically endangered West African lion",
+        "One of the largest transboundary protected areas in Africa",
+        "Home to elephants, leopards, buffalos, and over 350 bird species",
+        "Diverse habitat ranging from shrub savanna to seasonal wetlands",
+        "Focal point for international conservation and anti-poaching efforts",
+        "Iconic symbol of the wild natural heritage of West Africa"
+      ]
+    },
+    {
+      "id": "pic-de-nazinga-nature-v2",
+      "descriptionAdvanced": "The Nazinga Peak is the highest point within the renowned Nazinga Wildlife Reserve, located in southern Burkina Faso near the border with Ghana. This prominent elevation provides a strategic panoramic view over the reserve's vast savanna landscapes and its network of artificial waterholes, which were designed to sustain wildlife year-round. Historically, Nazinga was the site of a pioneering ecological experiment in the 1970s that combined wildlife management with sustainable community development, making it a model for conservation across Africa. The peak and its surrounding hills are characterized by rugged laterite formations and dornige shrublands, providing a unique habitat for raptors and rock-dwelling mammals. From this vantage point, visitors can often spot herds of elephants and buffalos moving through the plains below. The peak is not only a geological landmark but also a symbol of the successful restoration of Burkinabé wildlife. It remains one of the most rewarding spots for nature photographers and hikers in the country.",
+      "factsAdvanced": [
+        "Highest elevation within the famous Nazinga Wildlife Reserve",
+        "Offers panoramic views over one of Africa's most successful reserves",
+        "Strategic lookout for spotting elephant and buffalo herds",
+        "Characterized by rugged laterite rocks and specialized shrubland",
+        "Symbol of the pioneering Nazinga wildlife management project",
+        "Home to numerous species of eagles and other birds of prey",
+        "Located in the southern Nahouri province near the border with Ghana",
+        "Key destination for ecological research and nature photography"
+      ]
+    },
+    {
+      "id": "fleuve-niger-nature-v2",
+      "descriptionAdvanced": "The Niger River, the third longest in Africa, touches the northeastern tip of Burkina Faso, providing a critical life-giving resource to the arid Sahel region. Although only a small section of the river flows along the Burkinabé border, its impact on the local economy and ecology is immense. Historically, this area has been a vital crossroads for nomadic herders and sedentary farmers, who rely on the river's seasonal floods for rice cultivation and cattle watering. The river also supports an important artisanal fishing sector that provides protein for the northern provinces. Its banks are lined with wetlands that are designated as Ramsar sites of international importance, serving as essential stopovers for millions of migratory birds. The presence of the Niger River in the far north is a symbol of regional interconnectedness and the shared responsibility of the Sahelian nations to manage their precious water resources. It remains a vital artery for survival in an increasingly dry landscape.",
+      "factsAdvanced": [
+        "Third longest river in Africa, touching the northern Burkinabé border",
+        "Life-giving water source for the arid Sahelian regions of the north",
+        "Supports seasonal flood-recession agriculture, particularly rice",
+        "Essential for the survival of nomadic cattle herds during the dry season",
+        "Its wetlands are designated Ramsar sites of global importance",
+        "Key stopover for millions of migratory birds on the trans-Saharan route",
+        "Strategic international waterway shared with several West African nations",
+        "Supports a vital artisanal freshwater fishing industry for the Sahel"
+      ]
+    },
+    {
+      "id": "mare-aux-hippopotames-nature-v2",
+      "descriptionAdvanced": "The Mare aux Hippopotames (Hippo Lake) is a UNESCO Biosphere Reserve located in the Houet province of western Burkina Faso, near Bobo-Dioulasso. This natural lake and its surrounding gallery forest form one of the most important and stable freshwater ecosystems in the country. As its name suggests, it is home to a significant and well-protected population of hippos, which are considered sacred by the local Bobo and Tiefo communities. Historically, this spiritual protection has been the most effective tool in preventing the destruction of the lake's biodiversity. The reserve also supports over 250 species of birds and various small mammals, making it a hotspot for ecological research. The lake's waters are a critical resource for local agriculture and fishing, but their use is strictly regulated to maintain the ecological balance. The Mare aux Hippopotames is a shining example of how traditional beliefs can successfully integrate with modern conservation goals to protect a fragile environment.",
+      "factsAdvanced": [
+        "UNESCO Biosphere Reserve and international Ramsar wetland site",
+        "Home to a significant and stable population of sacred hippopotamuses",
+        "Located in the Houet province north of Bobo-Dioulasso",
+        "The hippos are traditionally protected by the local Bobo and Tiefo",
+        "Features a rich biodiversity with over 250 native bird species",
+        "Critical freshwater source for regional agriculture and biodiversity",
+        "Surrounded by a dense and ecologically vital gallery forest",
+        "Model for integrating traditional culture with modern conservation"
+      ]
+    },
+    {
+      "id": "foret-kourou-nature-v2",
+      "descriptionAdvanced": "The Kourou Forest (Forêt classée de Kourou) is a vital protected area on the central plateau of Burkina Faso, serving as a critical barrier against the advancing desertification from the north. This woody savanna is home to a diverse array of native tree species, including the karité (shea) and néré, which are essential for both the local ecology and the rural economy. Historically, the forest has provided a sustainable source of non-timber forest products for the surrounding villages, including medicinal herbs and edible fruits. Management efforts focus on reforestation and the prevention of illegal wood-cutting, which is a major threat in this densely populated part of the country. The forest also serves as a refuge for small mammals and a variety of bird species that are increasingly rare in the transformed agricultural landscapes of the plateau. Kourou is a symbol of the national 'Great Green Wall' initiative and a vital green lung for the central provinces. Its preservation is essential for the long-term climate resilience of the region.",
+      "factsAdvanced": [
+        "Vital protected forest area on the central Burkinabé plateau",
+        "Acts as a critical barrier against northern desertification",
+        "Home to economically important species like shea and néré trees",
+        "Source of traditional medicinal plants and non-timber forest products",
+        "Managed through community-led reforestation and protection programs",
+        "Serves as a refuge for native small mammals and birdlife",
+        "Essential for regulating the local micro-climate and soil health",
+        "Part of the national strategy for the 'Great Green Wall' initiative"
+      ]
+    },
+    {
+      "id": "monts-diossor-nature-v2",
+      "descriptionAdvanced": "The Diossor Mountains, located in the Cascades region of western Burkina Faso, are a striking range of sandstone hills that offer some of the most dramatic relief in the country. These mountains are part of the larger Banfora escarpment and are characterized by their steep cliffs, deep ravines, and hidden waterfalls that appear during the rainy season. Historically, the Diossor range has been a site of spiritual importance for the local ethnic groups, who believe the spirits of the mountains control the rainfall and the fertility of the surrounding plains. The rugged terrain provides a unique microclimate that supports dichte gallery forests and a variety of specialized flora. The mountains are also a haven for raptors and rock-dwelling wildlife like baboons and hyraxes. For hikers and nature enthusiasts, the Diossor Mountains offer spectacular views over the sugarcane plantations and the Black Volta valley. They remain a symbol of the rugged, untamed beauty of the Burkinabé west.",
+      "factsAdvanced": [
+        "Dramatic sandstone mountain range in the southwestern Cascades region",
+        "Part of the strategic Banfora escarpment with steep cliffs and ravines",
+        "Considered a sacred site by local communities for controlling rain",
+        "Features hidden seasonal waterfalls and lush gallery forests",
+        "Unique microclimate supporting specialized tropical flora and fauna",
+        "Important habitat for baboons, hyraxes, and birds of prey",
+        "Offers panoramic views over the fertile Black Volta (Mouhoun) valley",
+        "Popular destination for rugged hiking and landscape photography"
+      ]
+    },
+    {
+      "id": "fleuve-volta-rouge-nature-v2",
+      "descriptionAdvanced": "The Red Volta River, known locally as the Nazinon, is one of the three major rivers that gave Burkina Faso its original name, 'Upper Volta.' Flowing through the central-southern part of the country, the river is named for the reddish silt it carries from the laterite plateaus during the rainy season. The Nazinon is the primary water source for the Kaboré Tambi National Park and the Nazinga Wildlife Reserve, sustaining a rich array of wildlife, including the nation's largest elephant herds. Historically, the river has been a natural boundary and a source of life for the Mossi and Gurunsi peoples. Along its banks, dense gallery forests provide a critical ecological corridor for migratory animals and a sanctuary for diverse birdlife. The river's seasonal flow is essential for the local agriculture and provides important seasonal fishing grounds. As a central hydrological feature, the Nazinon is a symbol of the country's natural heritage and its ongoing efforts to preserve its vital water systems.",
+      "factsAdvanced": [
+        "One of the three major rivers of the historic 'Upper Volta' system",
+        "Known locally as the Nazinon River in central Burkina Faso",
+        "Named for the distinctive red silt it carries during the rainy season",
+        "Primary water source for the Kaboré Tambi and Nazinga reserves",
+        "Essential life-support for the country's largest elephant populations",
+        "Features dense gallery forests that act as vital wildlife corridors",
+        "Supports traditional seasonal fishing and small-scale agriculture",
+        "Hydrologically critical for the central-southern savanna ecosystems"
+      ]
+    },
+    {
+      "id": "mare-de-oursi-nature-v2",
+      "descriptionAdvanced": "The Mare de Oursi is a stunning seasonal lake located in the far northern Oudalan province, famous for being one of the most important Ramsar wetlands in the Sahel. Surrounded by massive, shifting sand dunes and thorny scrubland, the lake füllt each year during the rains, creating a massive oasis that attracts millions of migratory birds from Europe and Asia. Historically, Oursi has been the spiritual and economic heart of the northern nomadic communities, serving as a primary water source for their cattle and a center for artisanal fishing. The contrast between the blue water and the orange dunes makes it one of the most photographically iconic landscapes in Burkina Faso. Management of the site involves international cooperation to protect the fragile desert wetland and to ensure that the pastoralist communities can continue their traditional way of life. Oursi is a powerful symbol of the resilience of the Sahel and the global importance of its seasonal water bodies.",
+      "factsAdvanced": [
+        "Internationally recognized Ramsar wetland in the far northern Sahel",
+        "Iconic seasonal lake surrounded by massive, orange sand dunes",
+        "Strategic stopover for millions of intercontinental migratory birds",
+        "Primary water source and economic center for nomadic herders",
+        "Located in the Oudalan province near the border with Mali",
+        "Supports a vibrant seasonal artisanal fishing industry in the desert",
+        "Focal point for international desert wetland conservation efforts",
+        "One of the most photographically iconic natural sites in the country"
+      ]
+    },
+    {
+      "id": "foret-tengrela-nature-v2",
+      "descriptionAdvanced": "The Tengrela Forest is a protected gallery forest that borders the famous Lake Tengrela in the Cascades region. This dense and lush green belt acts as a critical protective buffer for the lake, preventing siltation and regulating the water's temperature through its extensive shade. Historically, the forest has been considered sacred by the nearby communities, who believe it houses the protective spirits of the lake and its hippos. The forest is home to a rich variety of tropical flora, including giant mahagony trees and numerous species of colorful birds and butterflies. It provides a cool micro-climate that is significantly different from the surrounding dry savanna, making it a haven for small mammals and reptiles. For visitors, the forest offers shaded paths for walking and birdwatching before heading out onto the lake in a pirogue. Its preservation is essential for the survival of the Lake Tengrela ecosystem and the cultural traditions that depend on it.",
+      "factsAdvanced": [
+        "Protective gallery forest bordering the sacred Lake Tengrela",
+        "Acts as a critical buffer for the lake's water quality and temperature",
+        "Home to majestic West African mahagony and tropical shade trees",
+        "Sanctuary for diverse tropical birds, butterflies, and small mammals",
+        "Considered a sacred site by the local Karaboro and Turka peoples",
+        "Provides a cool and shaded micro-climate for visitors and wildlife",
+        "Essential for preventing soil erosion and siltation of the lake",
+        "Integral part of the Banfora-Cascades ecotourism destination"
+      ]
+    },
+    {
+      "id": "monts-kanala-nature-v2",
+      "descriptionAdvanced": "The Kanala Mountains are a rugged and remote range in the eastern Gnagna province, standing as one of the least-explored natural treasures of Burkina Faso. These hills are characterized by their dramatic rocky outcrops, steep slopes, and hidden valleys that harbor rare species of flora adapted to the drier eastern climate. Historically, the Kanala range has been a strategic location for the local Gourmantché communities, offering protection and natural lookout points during times of regional conflict. The mountains also play a vital role in the region's hydrology, catching the seasonal rains and feeding numerous small streams that sustain the agriculture of the surrounding plains. The area is a haven for wildlife, particularly raptors and rock-dwelling mammals like hyraxes. For the few travelers who reach this remote area, the Kanala Mountains offer a sense of ancient solitude and a raw, untouched beauty. Their preservation is vital for the ecological and cultural heritage of the Gourma region.",
+      "factsAdvanced": [
+        "Rugged and remote mountain range in the eastern Gnagna province",
+        "Characterized by dramatic rocky outcrops and steep sloping terrain",
+        "Historic strategic refuge and lookout point for the Gourmantché",
+        "Critical for the regional water catchment and local irrigation",
+        "Home to specialized flora and fauna of the eastern Sahelian zone",
+        "Important nesting site for various eagles and other birds of prey",
+        "One of the least explored and most authentic natural sites in the east",
+        "Symbol of the untamed wilderness of the greater Gourma region"
+      ]
+    },
+    {
+      "id": "fleuve-volta-blanche-nature-v2",
+      "descriptionAdvanced": "The White Volta River, known locally as the Nakambé, is one of Burkina Faso's most economically and hydrologically significant rivers. Originating on the central plateau north of Ouagadougou, it flows south through the country's most densely populated regions before entering Ghana. The Nakambé is the primary source of water for the Bagré Dam, the country's largest hydroelectric and irrigation project, which provides power and food for millions. Historically, the river valley has been the heartland of the Mossi Empire, with its fertile floodplains supporting centuries of agricultural development. The river's flow is highly seasonal, transforming from a massive, powerful current in the rainy season to a series of connected pools in the height of the dry season. Its banks are lined with gallery forests that provide a vital refuge for birds and small mammals. As a strategic national artery, the Nakambé is central to Burkina Faso's vision for energy independence and agricultural modernization.",
+      "factsAdvanced": [
+        "Known locally as the Nakambé, a major national river system",
+        "Primary water source for the strategic Bagré hydroelectric dam",
+        "Historic heartland of the Mossi Empire's central development",
+        "Supports the country's largest irrigation and aquaculture projects",
+        "Flows through the most densely populated regions of the country",
+        "Highly seasonal river that transforms significantly between seasons",
+        "Critical for the national supply of electricity and food security",
+        "Provides essential gallery forest habitats for central biodiversity"
+      ]
+    },
+    {
+      "id": "mare-de-gourou-nature-v2",
+      "descriptionAdvanced": "The Mare de Gourou is a permanent natural lake located in the western Mouhoun river basin, serving as a critical sanctuary for aquatic life and migratory birds. Surrounded by a dense belt of reeds and water lilies, the lake remains a lush oasis even at the height of the dry season. Historically, Gourou has been a vital resource for the nearby communities, supporting artisanal fishing and small-scale vegetable gardening that sustain local livelihoods. The lake is particularly famous for its rich birdlife, including storks, herons, and various species of ducks that congregate here during the northern winter. The surrounding savanna is a mix of acacias and fan palms, providing a unique landscape that is a haven for small mammals and reptiles. Conservation of the lake is essential to prevent pollution and to manage the competing demands for its water. Gourou remains a symbol of the hydrological richness of the western provinces and a vital anchor for regional biodiversity.",
+      "factsAdvanced": [
+        "Permanent natural lake and oasis in the western Mouhoun basin",
+        "Surrounded by a rich ecosystem of reeds, lilies, and fan palms",
+        "Critical sanctuary for storks, herons, and migratory water birds",
+        "Vital source of water for local market gardening and fishing",
+        "Maintains its water levels throughout the long Sahelian dry season",
+        "Supports a high diversity of native fish and aquatic life",
+        "Important ecological research site for the Boucle du Mouhoun region",
+        "Strategic water source for local wildlife and nomadic herds"
+      ]
+    },
+    {
+      "id": "foret-dindivier-nature-v2",
+      "descriptionAdvanced": "The Dindivier Forest (properly known as the Forêt de Dindéresso) is a lush and ecologically vital protected area located just west of Bobo-Dioulasso. This gallery forest is famous for housing the primary sources of the Kou River, which provides the essential drinking water for the country's second-largest city. Historically, the forest has been protected as a strategic resource and a spiritual site for the local Bobo people. It is characterized by its high, dense canopy and its remarkably cool micro-climate, which supports a variety of tropical flora and fauna not found in the surrounding savannas. The forest is a haven for monkeys, rare butterflies, and an incredible diversity of birdlife, making it a popular spot for nature walks and scientific study. Management efforts are strictly focused on preserving the forest's hydrological function and preventing urban encroachment. Dindivier is a symbol of the critical link between forest conservation and urban survival in West Africa.",
+      "factsAdvanced": [
+        "Vital gallery forest housing the sources of the strategic Kou River",
+        "Primary source of drinking water for the city of Bobo-Dioulasso",
+        "Characterized by a dense tropical canopy and cool micro-climate",
+        "Sanctuary for rare butterflies, monkeys, and diverse birdlife",
+        "Considered a sacred site and spiritual resource for the Bobo people",
+        "Essential for regulating the hydrology of the Houet province",
+        "Popular destination for nature walks and ecological education",
+        "Strictly protected against urban expansion and illegal wood cutting"
+      ]
+    }
+  ]
+}

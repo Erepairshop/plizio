@@ -2,335 +2,127 @@
   "lang": "de",
   "country": "southafrica",
   "files": [
-    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
-    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+    "lib/visualLab/data/poiExtraSouthafricaEconomicV2.ts"
   ],
   "items": [
     {
-      "id": "thulamela-ruins-history-v2",
-      "descriptionAdvanced": "Die Ruinen von Thulamela im nördlichen Teil des Kruger-Nationalparks sind ein bedeutendes Zeugnis der späten Eisenzeit im südlichen Afrika. Zwischen dem 13. und 17. Jahrhundert war Thulamela ein blühendes städtisches Zentrum, das Teil einer größeren Handelszivilisation war, zu der auch Groß-Simbabwe gehörte. Die beeindruckenden Steinmauern zeugen von einer hoch entwickelten sozialen Hierarchie und technischem Geschick. Archäologische Funde wie Goldperlen und Keramik belegen den weitreichenden Handel bis nach Asien. Thulamela erinnert uns daran, dass Afrika lange vor der Ankunft der Europäer über komplexe staatliche Strukturen verfügte. Geschichte K8 — Eisenzeitliche Königreiche und afrikanischer Fernhandel.",
+      "id": "bmw-rosslyn-plant-economic-v2",
+      "descriptionAdvanced": "Das BMW-Werk in Rosslyn, gelegen in der Provinz Gauteng, ist ein historisch bedeutender Meilenstein für den deutschen Automobilhersteller, da es die erste BMW-Produktionsstätte außerhalb Deutschlands darstellt. Seit seiner Gründung im Jahr 1968 hat das Werk seine Kapazitäten stetig erweitert und ist heute ein unverzichtbarer Akteur innerhalb des globalen Produktionsnetzwerks von BMW. Das Werk spielt nicht nur eine zentrale Rolle für die lokale Automobilwirtschaft, sondern produziert auch Fahrzeuge für den Export in zahlreiche internationale Märkte. Aktuell liegt der strategische Fokus der Produktion auf der Integration moderner Plug-in-Hybrid-Antriebstechnologien in die Fahrzeugpalette.",
       "factsAdvanced": [
-        "Wichtiger Standort der späten Eisenzeit (ca. 1250–1700 n. Chr.).",
-        "Teil der Simbabwe-Kultur (Steinmauern ohne Mörtel).",
-        "Fundort königlicher Gräber mit Goldschmuck.",
-        "Liegt auf einem Plateau über dem Luvuvhu-Fluss.",
-        "Wurde erst 1983 von Rangern wiederentdeckt.",
-        "Zentrum für die Verhüttung von Eisen und Gold.",
-        "Die Mauerreste wurden in den 1990er Jahren sorgfältig restauriert.",
-        "Beweis für Handelsbeziehungen mit dem Indischen Ozean."
+        "Das Werk Rosslyn ist die erste BMW-Fabrik außerhalb von Deutschland.",
+        "Der Betrieb nahm bereits im Jahr 1968 seine Produktion auf.",
+        "Insgesamt wurden hier weit mehr als eine Million Fahrzeuge gefertigt.",
+        "Das Werk exportiert Fahrzeuge in zahlreiche internationale Märkte weltweit.",
+        "Die Produktion umfasst hochmoderne Plug-in-Hybrid-Elektrofahrzeuge.",
+        "BMW Rosslyn ist ein wichtiger industrieller Arbeitgeber in der Provinz Gauteng."
       ]
     },
     {
-      "id": "blombos-cave-history-v2",
-      "descriptionAdvanced": "Die Blombos-Höhle an der Südküste des Westkaps ist eine archäologische Sensation, die unser Verständnis der frühen menschlichen Kognition revolutioniert hat. In den rund 75.000 Jahre alten Schichten entdeckten Forscher gravierte Ockerstücke und Perlen aus Meeresschnecken – die weltweit frühesten Beweise für symbolisches Denken und abstraktes Kunstschaffen des Homo sapiens. Diese Funde belegen, dass frühe Menschen bereits komplexe soziale Verhaltensweisen und eine ästhetische Wahrnehmung besaßen, lange bevor sie Europa besiedelten. Die Höhle ist ein Fenster in die Geburtsstunde der modernen menschlichen Kultur. Geschichte K8 — Ursprünge des modernen Menschen und kognitive Entwicklung.",
+      "id": "vw-kariega-plant-economic-v2",
+      "descriptionAdvanced": "Das Volkswagen-Werk in Kariega (früher Uitenhage) in der Provinz Ostkap ist das größte seiner Art auf dem gesamten afrikanischen Kontinent. Es fungiert als zentraler Produktionsknotenpunkt für die Marke Volkswagen und ist primär für die Herstellung des international äußerst populären Modells Polo bekannt. Das Werk ist ein unverzichtbarer Anker der regionalen verarbeitenden Industrie im Ostkap und trägt durch sein hohes Produktionsvolumen maßgeblich zu den südafrikanischen Automobil-Exportzahlen bei. Die Anlage ist ein hervorragendes Beispiel für die Leistungsfähigkeit der südafrikanischen Fertigungsindustrie und ihre tiefe Einbindung in globale Lieferketten.",
       "factsAdvanced": [
-        "Fundort der ältesten bekannten abstrakten Gravur (ca. 75.000 Jahre alt).",
-        "Entdeckung von durchbohrten Muschelperlen (Nassarius kraussianus).",
-        "Belegt die Nutzung von Ocker als Farbstoff in der Mittelsteinzeit.",
-        "Liegt in einem privaten Naturreservat nahe Still Bay.",
-        "Fundstätte eines 'Zeichensets' zur Herstellung von Farbpasten.",
-        "Lieferte Beweise für eine frühe spezialisierte Fischerei-Technik.",
-        "International bedeutende Forschungsstätte zur menschlichen Evolution.",
-        "Teil der südafrikanischen Küstenhöhlen-Forschung (Cape Coastal Region)."
+        "Das Werk in Kariega ist das größte Automobilwerk in ganz Afrika.",
+        "Hier wird der international beliebte VW Polo für globale Märkte produziert.",
+        "Die Anlage ist ein zentraler Eckpfeiler für die Wirtschaft des Ostkaps.",
+        "Der Standort hieß früher Uitenhage und wurde in Kariega umbenannt.",
+        "Volkswagen Kariega spielt eine tragende Rolle bei den Kfz-Exporten des Landes.",
+        "Das Werk ist tief in die globalen Produktionsabläufe von Volkswagen integriert."
       ]
     },
     {
-      "id": "kimberley-mine-history-v2",
-      "descriptionAdvanced": "Die Kimberley-Mine, besser bekannt als das 'Big Hole', ist das monumentale Relikt des südafrikanischen Diamantenrausches im 19. Jahrhundert. Zwischen 1871 und 1914 gruben Tausende von Bergleuten nur mit Spitzhacken und Schaufeln ein Loch von über 200 Metern Tiefe und einem Umfang von 1,6 Kilometern – das ehemals tiefste von Hand gegrabene Loch der Welt. Der Fund der Diamanten veränderte die wirtschaftliche und politische Landschaft Südafrikas radikal und führte zur Gründung des Weltkonzerns De Beers. Heute bietet das Kimberley Mine Museum einen faszinierenden Einblick in die harten Lebensbedingungen der Diamantensucher und die industrielle Revolution des Landes. Geschichte K8 — Bergbau-Kapitalismus und gesellschaftlicher Wandel.",
+      "id": "ford-silverton-plant-economic-v2",
+      "descriptionAdvanced": "Das Ford-Werk in Silverton, in der Provinz Gauteng, repräsentiert einen hochmodernen Industriestandort, der auf die Montage von Fahrzeugen für den Weltmarkt spezialisiert ist. Das Werk ist das globale Herzstück für die Produktion des populären Ford Ranger. Durch massive Investitionen in den letzten Jahren wurde der Standort zu einer technologisch führenden Produktionsstätte ausgebaut, die nicht nur die lokalen Anforderungen erfüllt, sondern Fahrzeuge in mehr als 100 Länder weltweit exportiert. Mit seiner fortgeschrittenen Fertigungstechnik und dem Fokus auf Effizienz und Qualität unterstreicht Silverton die Wettbewerbsfähigkeit der südafrikanischen Automobilindustrie.",
       "factsAdvanced": [
-        "Größte von Hand gegrabene Erdaushebung der Welt.",
-        "Produzierte während ihrer Betriebszeit ca. 14,5 Millionen Karat Diamanten.",
-        "Erreichte eine maximale Tiefe von 240 Metern.",
-        "Entstanden aus der ehemaligen Farm der Brüder De Beer.",
-        "Besitzt ein Freilichtmuseum mit originalgetreuen viktorianischen Gebäuden.",
-        "Die unterirdischen Schächte reichen bis in eine Tiefe von über 1.000 Metern.",
-        "Zentraler Schauplatz der südafrikanischen Bergbaugeschichte.",
-        "Heute eine wichtige touristische Attraktion mit Aussichtsplattform."
+        "Das Werk ist auf die Produktion des Ford Ranger Pickup spezialisiert.",
+        "Die hier gefertigten Fahrzeuge werden in über 100 Länder weltweit exportiert.",
+        "Silverton hat kürzlich eine massive Modernisierung erfahren.",
+        "Die Fertigungsanlage gilt als eine der modernsten in Südafrika.",
+        "Ford Silverton leistet einen signifikanten Beitrag zur Exportbilanz des Landes.",
+        "Das Werk verbindet moderne Montagetechnik mit globaler logistischer Reichweite."
       ]
     },
     {
-      "id": "sterkfontein-caves-history-v2",
-      "descriptionAdvanced": "Die Sterkfontein-Höhlen in der Provinz Gauteng sind die weltweit reichste Fundstätte für Hominidenfossilien und das Prunkstück der 'Wiege der Menschheit'. Weltruhm erlangten die Höhlen durch die Entdeckung von 'Mrs. Ples', einem über zwei Millionen Jahre alten Schädel eines Australopithecus africanus, und dem fast vollständigen Skelett 'Little Foot'. Diese Funde lieferten entscheidende Beweise dafür, dass die Vorfahren des Menschen bereits vor Millionen von Jahren aufrecht gingen. Die Höhlen sind ein aktives Forschungszentrum und bieten Besuchern die einmalige Gelegenheit, tief in die geologische und evolutionäre Vergangenheit unserer Spezies einzutauchen. Geschichte K8 — Evolutionäre Archäologie und Hominiden-Forschung.",
+      "id": "toyota-prospecton-plant-economic-v2",
+      "descriptionAdvanced": "Das Toyota-Werk in Prospecton bei Durban ist eine der volumenstärksten Fahrzeugproduktionsstätten auf dem afrikanischen Kontinent. In der riesigen Anlage werden Modelle wie der Toyota Hilux und der Fortuner hergestellt, die sowohl in Afrika als auch in Europa eine enorme Nachfrage genießen. Trotz der verheerenden Auswirkungen der Überschwemmungen in KwaZulu-Natal im Jahr 2022 bewies der Standort durch eine schnelle und vollständige Wiederherstellung seiner Produktionskapazitäten seine beeindruckende industrielle Widerstandsfähigkeit. Prospecton ist ein entscheidendes Standbein für Toyotas Marktstrategie in der Region und stellt einen wesentlichen industriellen Motor für die Provinz KwaZulu-Natal dar.",
       "factsAdvanced": [
-        "Wichtigste Fundstätte im UNESCO-Welterbe 'Wiege der Menschheit'.",
-        "Entdeckung von 'Mrs. Ples' durch Robert Broom im Jahr 1947.",
-        "Fundort von 'Little Foot', einem der vollständigsten frühen Hominiden-Skelette.",
-        "Kalksteinhöhlen mit über 40 Meter tiefen Kammern.",
-        "Kontinuierliche Ausgrabungen seit über 60 Jahren.",
-        "Enthält Fossilien, die bis zu 3,6 Millionen Jahre alt sind.",
-        "Befindet sich im Besitz der University of the Witwatersrand.",
-        "Interaktives Besucherzentrum zur menschlichen Herkunft."
+        "Das Werk hat eines der höchsten Produktionsvolumina auf dem gesamten Kontinent.",
+        "Es produziert den Toyota Hilux und Fortuner für afrikanische und europäische Märkte.",
+        "Die Anlage überstand erfolgreich die katastrophalen Überschwemmungen von 2022.",
+        "Toyota Prospecton ist ein zentraler wirtschaftlicher Faktor in KwaZulu-Natal.",
+        "Der Standort ist ein Paradebeispiel für die Fertigungsstärke von Toyota in Afrika.",
+        "Die Produktion ist fest in die globalen Lieferketten von Toyota eingebunden."
       ]
     },
     {
-      "id": "kaditshwene-ruins-history-v2",
-      "descriptionAdvanced": "Kaditshwene war im frühen 19. Jahrhundert die größte Stadt im südlichen Afrika und das kulturelle Zentrum des Bahurutshe-Volkes (ein Zweig der Tswana). Auf ihrem Höhepunkt beherbergte die Stadt über 20.000 Einwohner, was sie zu jener Zeit größer als das zeitgenössische Kapstadt machte. Die Ruinen in der Provinz Nordwest zeigen eine beeindruckende Architektur aus Trockenmauerwerk und zeugen von einer hoch entwickelten Eisenverhüttung und Landwirtschaft. Die Stadt wurde während der Difaqane-Kriege zerstört, doch ihre Überreste sind ein kraftvolles Symbol für die präkoloniale Urbanisierung in Südafrika und die technologische Meisterschaft der Sotho-Tswana-Völker. Geschichte K8 — Präkoloniale Urbanisierung und die Difaqane.",
+      "id": "mercedes-east-london-plant-economic-v2",
+      "descriptionAdvanced": "Das Mercedes-Benz-Werk in East London, in der Provinz Ostkap, hat sich über Jahrzehnte den Ruf als eine der qualitätstechnisch besten Produktionsstätten innerhalb des globalen Netzwerks von Mercedes-Benz erarbeitet. Die Anlage ist für die Fertigung der Mercedes-Benz C-Klasse zuständig und erfüllt dabei höchste internationale Standards. Als ein wesentlicher Arbeitgeber in der Region Ostkap leistet das Werk einen beträchtlichen Beitrag zur regionalen wirtschaftlichen Stabilität und zur industriellen Entwicklung. Die exzellente Fertigungsqualität in East London ist ein bedeutender Faktor, der maßgeblich dazu beiträgt, den Ruf der südafrikanischen Automobilfertigung auf den Weltmärkten zu festigen.",
       "factsAdvanced": [
-        "Hauptstadt der Bahurutshe im frühen 19. Jahrhundert.",
-        "Einwohnerzahl von über 20.000 Menschen (um 1820).",
-        "Berühmt für hochspezialisierte Eisen- und Kupferverhüttung.",
-        "Beschrieben von Reisenden wie John Campbell als blühende Metropole.",
-        "Architektur aus kunstvoll geschichteten Natursteinen (Litha).",
-        "Wichtigstes Handelszentrum der Region vor der Kolonialzeit.",
-        "Nationales Denkmal Südafrikas.",
-        "Liegt in der Nähe der Stadt Zeerust."
+        "Das Werk produziert die Mercedes-Benz C-Klasse für globale Abnehmer.",
+        "East London rangiert kontinuierlich unter den besten Mercedes-Werken weltweit.",
+        "Die Fertigungsqualität des Standorts wird international hoch geschätzt.",
+        "Das Werk ist ein zentraler Arbeitgeber in der Provinz Ostkap.",
+        "Es leistet einen wesentlichen Beitrag zur südafrikanischen Automobil-Exportquote.",
+        "Der Standort ist ein Aushängeschild für deutsche Präzision in der südafrikanischen Montage."
       ]
     },
     {
-      "id": "pilgrims-rest-history-v2",
-      "descriptionAdvanced": "Pilgrim's Rest in der Provinz Mpumalanga ist eine lebendige Museumsstadt, die die Zeit des südafrikanischen Goldrausches der 1870er Jahre konserviert hat. Nachdem 1873 im hiesigen Bach Gold gefunden wurde, strömten Tausende von Glückssuchern in das abgelegene Tal. Die Stadt wurde 1986 in ihrer Gesamtheit zum Nationaldenkmal erklärt und bewahrt ihren charmanten viktorianischen Charakter mit Wellblechhäusern und historischen Geschäften. Ein Spaziergang durch die Straßen von Pilgrim's Rest fühlt sich an wie eine Zeitreise zurück zu den Anfängen des Bergbaus in Südafrika. Es ist ein einzigartiges Beispiel für eine gut erhaltene Pioniersiedlung in einer spektakulären Berglandschaft. Geschichte K8 — Goldfunde und Pioniergeschichte.",
+      "id": "koeberg-nuclear-power-station-economic-v2",
+      "descriptionAdvanced": "Das Kernkraftwerk Koeberg ist ein Unikum in der südafrikanischen Energiewirtschaft und bleibt bis heute das einzige kommerzielle Kernkraftwerk auf dem gesamten afrikanischen Kontinent. Es befindet sich direkt an der Atlantikküste, nördlich von Kapstadt, wo es die strategisch vorteilhafte Lage nutzt, um Meerwasser für die Kühlung der beiden Druckwasserreaktoren zu verwenden. Koeberg ist für die Stromversorgung des gesamten Westkaps von entscheidender Bedeutung und liefert einen kontinuierlichen Anteil an die Energiebasis der Region. Als hochkomplexe technische Anlage erfordert Koeberg strenge Sicherheits- und Wartungsstandards, die das Kraftwerk zu einem technologisch anspruchsvollen Rückgrat der regionalen Stromversorgung machen.",
       "factsAdvanced": [
-        "Ort des ersten nennenswerten Goldrausches in Südafrika (1873).",
-        "Gesamte Stadt steht unter Denkmalschutz.",
-        "Benannt nach dem Glückssucher Alec 'Wheelbarrow' Patterson.",
-        "Beherbergt das Royal Hotel und den historischen Alanglade-Herrenhof.",
-        "Zentrum des Alluvial-Goldbergbaus in der Region.",
-        "Liegt an der malerischen Panorama Route.",
-        "Besitzt einen historischen Friedhof, auf dem alle Gräber nach Osten ausgerichtet sind (außer einem).",
-        "Wichtiger Standort für das Handwerk des Goldwaschens."
+        "Koeberg ist das einzige kommerzielle Kernkraftwerk in ganz Afrika.",
+        "Der Standort nutzt das Wasser des Atlantiks zur effizienten Kühlung.",
+        "Die Anlage ist mit zwei Druckwasserreaktoren ausgestattet.",
+        "Koeberg deckt einen essenziellen Teil des Strombedarfs für das Westkap.",
+        "Der Betrieb erfordert weltweit höchste Standards bei Sicherheit und Wartung.",
+        "Das Kraftwerk ist ein unverzichtbarer Teil der Energieinfrastruktur Südafrikas."
       ]
     },
     {
-      "id": "pinnacle-point-caves-history-v2",
-      "descriptionAdvanced": "Pinnacle Point bei Mossel Bay ist eine archäologische Welterbestätte, die beweist, dass frühe moderne Menschen bereits vor 170.000 Jahren begannen, die Ressourcen des Meeres systematisch zu nutzen. Die Funde in den Höhlen an den spektakulären Klippen zeigen, dass unsere Vorfahren hier Muscheln sammelten, komplexe Steinwerkzeuge mittels Feuerhärtung herstellten und erste Pigmente für rituelle Zwecke verwendeten. Diese Verhaltensweisen markieren den Übergang zum modernen menschlichen Bewusstsein. Pinnacle Point ist ein Schlüsselaspekt der Forschung zur menschlichen Anpassung an Küstenumgebungen während der Eiszeiten. Geschichte K8 — Frühgeschichte und menschliche Anpassungsstrategien.",
+      "id": "anglo-american-platinum-rustenburg-economic-v2",
+      "descriptionAdvanced": "Die Platinmine von Anglo American Platinum nahe Rustenburg ist ein zentraler Akteur im südafrikanischen Bergbausektor und trägt maßgeblich zur weltweiten Versorgung mit Platingruppenmetallen bei. Das Bergwerk ist Teil des berühmten Bushveld-Komplexes, einer geologischen Formation, die einen Großteil der global bekannten Platinreserven birgt. Platin ist ein unverzichtbares Element für die moderne Industrie, insbesondere für die Herstellung von Katalysatoren, welche die Emissionen von Verbrennungsmotoren maßgeblich senken. Die Mine von Anglo American Platinum unterstreicht die enorme Bedeutung Südafrikas als weltweit führender Lieferant für diese strategisch wichtigen und technologisch unverzichtbaren Metalle.",
       "factsAdvanced": [
-        "Belegt die Nutzung von Meeresfrüchten durch Frühmenschen vor 164.000 Jahren.",
-        "Entdeckung der ersten systematischen thermischen Behandlung von Silcret-Gestein.",
-        "Liegt in einer dramatischen Steilküste über dem Indischen Ozean.",
-        "Teil des 'Human Origin Route' Tourismusprojekts.",
-        "Lieferte Beweise für symbolisches Verhalten (Ocker-Pigmente).",
-        "Funde zeigen eine hohe Planungsfähigkeit früher Menschengruppen.",
-        "Internationale Zusammenarbeit führender Anthropologen (ASU).",
-        "Nationales Erbe von globaler wissenschaftlicher Bedeutung."
+        "Die Mine ist Teil des geologisch einzigartigen Bushveld-Komplexes.",
+        "Platin aus dieser Mine ist essentiell für Fahrzeug-Katalysatoren.",
+        "Der Bushveld-Komplex birgt einen Großteil der globalen Platinreserven.",
+        "Anglo American Platinum ist ein weltweit führender Platinproduzent.",
+        "Die Förderung ist für die globale Automobilindustrie von zentraler Bedeutung.",
+        "Der Bergbaubetrieb ist ein Eckpfeiler der südafrikanischen Exportwirtschaft."
       ]
     },
     {
-      "id": "makapansgat-history-v2",
-      "descriptionAdvanced": "Das Makapansgat-Tal in der Provinz Limpopo ist eine archäologische und paläontologische Schatzkammer von immensem Wert. Die Stätte umfasst Fossilienlagerstätten, die über drei Millionen Jahre zurückreichen, und dokumentiert die Entwicklung von Hominiden bis zum modernen Menschen. Historisch ist das Tal zudem als Ort der Belagerung von 1854 bekannt, als sich Häuptling Makapan mit seinem Volk in einer massiven Höhle vor den Voortrekkern verschanzte. Makapansgat ist Teil des UNESCO-Welterbes und bietet eine einzigartige Kombination aus evolutionärer Forschung und tragischer Kolonialgeschichte. Die Vielfalt der hier gefundenen Säugetierfossilien ist weltweit beispiellos. Geschichte K8 — Paläoanthropologie und Widerstandskonflikte.",
+      "id": "impala-platinum-mine-economic-v2",
+      "descriptionAdvanced": "Das Bergwerk von Impala Platinum, ebenfalls in der Region um Rustenburg angesiedelt, zählt zu den weltweit bedeutendsten Betrieben zur Gewinnung von Platingruppenmetallen. Die Anlage verfügt über eine beeindruckende untertägige Infrastruktur mit komplexen Schachtsystemen, die für den Abbau der wertvollen Erze in großen Tiefen ausgelegt sind. Aufgrund der enormen Ausdehnung der untertägigen Aktivitäten beschäftigt Impala Platinum Zehntausende von Mitarbeitern aus der gesamten Region, was das Unternehmen zu einem der wichtigsten wirtschaftlichen Arbeitgeber im Nordwesten Südafrikas macht. Mit seiner Produktion ist Impala Platinum ein wesentlicher Akteur, der die weltweite Nachfrage nach diesen begehrten Metallen bedient.",
       "factsAdvanced": [
-        "Teil des UNESCO-Welterbes 'Wiege der Menschheit'.",
-        "Fundort des 'Makapansgat-Kieselsteins' (natürliches Gesicht, frühes Kuriosum).",
-        "Enthält die 'Historic Cave', Schauplatz der Belagerung von 1854.",
-        "Fossilienfunde des Australopithecus prometheus.",
-        "Belegt die klimatischen Veränderungen über Millionen von Jahren.",
-        "Liegt in der Nähe der Stadt Mokopane.",
-        "Eines der weltweit am besten dokumentierten pleistozänen Ökosysteme.",
-        "Forschungsstätte der University of the Witwatersrand."
+        "Impala ist einer der weltweit führenden Platin-Produzenten.",
+        "Das Bergwerk besitzt ein riesiges untertägiges Schachtsystem.",
+        "Die Mine beschäftigt zehntausende Arbeiter in der Region Rustenburg.",
+        "Die Produktion umfasst eine breite Palette an Platingruppenmetallen.",
+        "Die industrielle Präsenz von Impala ist ein wichtiger regionaler Motor.",
+        "Die Mine bedient eine weltweit stetig wachsende Nachfrage nach Platin."
       ]
     },
     {
-      "id": "hector-pieterson-memorial-history-v2",
-      "descriptionAdvanced": "Das Hector-Pieterson-Mahnmal und Museum in Soweto erinnert an den Studentenaufstand von 1976, ein Wendepunkt im Kampf gegen das Apartheid-Regime. Es ist nach dem 12-jährigen Jungen benannt, der eines der ersten Opfer der Polizeigewalt wurde. Das weltberühmte Foto des sterbenden Hector, getragen von Mbuyisa Makhubo, ging um die Welt und rüttelte das internationale Gewissen wach. Das Museum dokumentiert die Rolle der Jugend im Befreiungskampf und den Protest gegen die Einführung von Afrikaans als alleinige Unterrichtssprache. Es ist ein Ort tiefer Trauer, aber auch ein Symbol für den ungebrochenen Mut einer neuen Generation Südafrikaners. Geschichte K8 — Der Soweto-Aufstand und internationaler Widerstand.",
+      "id": "foskor-phalaborwa-economic-v2",
+      "descriptionAdvanced": "Das Phosphatwerk von Foskor in Phalaborwa ist ein bedeutender industrieller Standort in der Provinz Limpopo, der auf die Gewinnung und Verarbeitung von Rohphosphat sowie die Herstellung von Phosphorsäure spezialisiert ist. Diese Produkte sind für die globale Landwirtschaft von existentieller Bedeutung, da sie die Basis für die Produktion hochwertiger Düngemittel bilden, ohne die die moderne Nahrungsmittelproduktion kaum denkbar wäre. Foskor ist eng in das industrielle Ökosystem der Region Phalaborwa integriert und operiert in räumlicher Nähe zu anderen bedeutenden Bergbaubetrieben. Die Anlage ist ein wichtiger Exporteur von Phosphorsäure und leistet einen soliden Beitrag zur südafrikanischen Industrieexportbilanz.",
       "factsAdvanced": [
-        "Eröffnet am 16. Juni 2002 zum Gedenken an den 16. Juni 1976.",
-        "Liegt nur zwei Blocks vom Ort entfernt, an dem Hector Pieterson erschossen wurde.",
-        "Symbolisiert den Widerstand gegen das Bantu Education Act.",
-        "Der rote Backstein des Gebäudes spiegelt die typische Architektur Sowetos wider.",
-        "Das Denkmal enthält eine Gedenktafel mit den Namen vieler gefallener Schüler.",
-        "Zentraler Punkt des 'Vilakazi Street' Tourismus-Clusters.",
-        "Thematisiert die Kraft der Medien (Fotografie von Sam Nzima).",
-        "Ein Ort nationaler Besinnung und Bildung."
+        "Foskor produziert essenzielle Komponenten für moderne Agrardünger.",
+        "Die Anlage exportiert hochwertige Phosphorsäure in die gesamte Welt.",
+        "Das Werk befindet sich in Phalaborwa, nahe der Kupfermine.",
+        "Phosphat ist eine unverzichtbare Ressource für die Nahrungsmittelproduktion.",
+        "Foskor ist ein wichtiger industrieller Akteur in der Provinz Limpopo.",
+        "Die Produktion ist eng in regionale und internationale Handelsketten eingebunden."
       ]
     },
     {
-      "id": "taung-heritage-site-history-v2",
-      "descriptionAdvanced": "Die Taung-Erbestätte im Nordkap ist der Fundort des berühmten 'Kindes von Taung', des ersten in Afrika entdeckten Vormenschen-Fossils. Die Entdeckung durch Raymond Dart im Jahr 1924 war eine wissenschaftliche Weltsensation, da sie belegte, dass die Wiege der Menschheit nicht in Europa oder Asien, sondern in Afrika lag. Der Fund eines Schädels des Australopithecus africanus änderte den Lauf der Wissenschaft für immer. Heute ist der Fundort Teil eines UNESCO-Welterbes und beherbergt ein Denkmal und ein Forschungszentrum. Die karge, aber beeindruckende Kalksteinlandschaft von Taung ist ein heiliger Boden für Anthropologen aus aller Welt. Geschichte K8 — Darwinismus und der afrikanische Ursprung der Menschheit.",
+      "id": "modikwa-platinum-mine-economic-v2",
+      "descriptionAdvanced": "Die Modikwa-Platinmine, gelegen an der östlichen Ausdehnung des Bushveld-Komplexes, ist ein eigenständig verwaltetes und wirtschaftlich bedeutendes Bergbauprojekt. Die Mine wird als Joint Venture zwischen der African Rainbow Minerals (ARM) und der Anglo American Platinum geführt. Ein zentrales Anliegen bei der Ausrichtung des Betriebs ist die breit angelegte wirtschaftliche Stärkung der Bevölkerung (Black Economic Empowerment), wobei die Mine als Modell für eine verantwortungsbewusste industrielle Entwicklung in der Region fungiert. Neben der effizienten Förderung von Platin aus dem Bushveld-Komplex zeichnet sich das Bergwerk durch sein Engagement für lokale sozioökonomische Entwicklung aus.",
       "factsAdvanced": [
-        "Fundort des Taung-Kindes (Australopithecus africanus) im Jahr 1924.",
-        "Beweis für den aufrechten Gang bei frühen Hominiden.",
-        "Teil des erweiterten UNESCO-Welterbes 'Wiege der Menschheit'.",
-        "Entdeckung in einem Steinbruch (Buxton Limeworks).",
-        "Alter des Fossils wird auf ca. 2,5 Millionen Jahre geschätzt.",
-        "Besitzt eine Gedenksäule am exakten Fundort.",
-        "Region ist bekannt für ihre einzigartige Geologie (Kalksteintuff).",
-        "Liegt ca. 80 km nördlich von Kimberley."
-      ]
-    },
-    {
-      "id": "majuba-hill-history-v2",
-      "descriptionAdvanced": "Majuba Hill an der Grenze zwischen KwaZulu-Natal und Mpumalanga ist der Ort des entscheidenden Sieges der Buren über die britische Armee im Ersten Burenkrieg (1881). Diese Schlacht markierte eine der schwersten Demütigungen für das British Empire, als eine kleine Gruppe burischer Schützen eine britische Einheit auf dem Gipfel des Berges vernichtend schlug. Der Sieg führte zur vorübergehenden Unabhängigkeit der Südafrikanischen Republik. Majuba ist für die Buren ein Symbol des Widerstandswillens und der Freiheit. Heute ist der Berg ein historisches Reservat, das Wanderern spektakuläre Ausblicke und ein tiefes Verständnis für die militärische Taktik der damaligen Zeit bietet. Geschichte K8 — Burenkriege und anti-kolonialer Kampf.",
-      "factsAdvanced": [
-        "Schlacht am Majuba Hill fand am 27. Februar 1881 statt.",
-        "Entscheidender Sieg für die Buren unter General Petrus Joubert.",
-        "Tod des britischen Oberbefehlshabers Sir George Pomeroy Colley.",
-        "Führte zum Friedensvertrag von Pretoria und dem Ende des Ersten Burenkrieges.",
-        "Berühmt für die überlegene Schießkunst der burischen Freiwilligen.",
-        "Später als Racheschrei 'Remember Majuba' im Zweiten Burenkrieg genutzt.",
-        "Besitzt Gedenksteine und Gräber auf dem Gipfelplateau.",
-        "Liegt an der strategischen Laing's Nek Passage."
-      ]
-    },
-    {
-      "id": "spion-kop-battlefield-history-v2",
-      "descriptionAdvanced": "Das Schlachtfeld von Spion Kop ist der Schauplatz einer der blutigsten und traumatischsten Schlachten des Zweiten Burenkrieges im Jahr 1900. Auf dem Gipfel dieses einsamen Berges in KwaZulu-Natal kämpften Briten und Buren in einem engen Grabenkrieg um die Vorherrschaft. Spion Kop ist einzigartig, da hier drei Männer anwesend waren, die später Weltgeschichte schrieben: Winston Churchill als Kriegsberichterstatter, Mahatma Gandhi als Sanitäter und Louis Botha als burischer General. Die Schlacht endete in einem taktischen Patt mit verheerenden Verlusten. Heute mahnen die langen weißen Steingräber auf dem Bergrücken an die Sinnlosigkeit des Krieges. Geschichte K8 — Zweiter Burenkrieg und globale Persönlichkeiten.",
-      "factsAdvanced": [
-        "Schlacht von Spion Kop (23.–24. Januar 1900).",
-        "Wichtigster Schauplatz des britischen Versuchs, Ladysmith zu entsetzen.",
-        "Namensgeber für die berühmte Tribüne 'The Kop' im Anfield-Stadion (Liverpool).",
-        "Gandhi leistete hier Dienst im Ambulance Corps für die Verwundeten.",
-        "Schauplatz extremer Bedingungen durch Hitze und fehlendes Wasser auf dem Berggipfel.",
-        "Verlustreichste Schlacht des Krieges für beide Seiten im Verhältnis zur Fläche.",
-        "Bietet eine hervorragende Sicht auf die Drakensberge.",
-        "Heute ein nationales Denkmal und Teil der 'Battlefields' Route."
-      ]
-    },
-    {
-      "id": "constitution-hill-history-v2",
-      "descriptionAdvanced": "Constitution Hill in Johannesburg ist ein Ort extremer Gegensätze: Er beherbergt sowohl das berüchtigte Old Fort Gefängnis als auch das heutige Verfassungsgericht Südafrikas. Über 100 Jahre lang wurden hier sowohl gewöhnliche Kriminelle als auch politische Gefangene wie Mahatma Gandhi und Nelson Mandela unter grausamen Bedingungen inhaftiert. Heute ist der Ort ein lebendiges Denkmal der Demokratie. Das neue Gerichtsgebäude wurde symbolisch aus den Ziegeln der abgerissenen Gefängnismauern erbaut und steht für Transparenz und Menschenrechte. Ein Besuch führt durch die dunklen Zellen des 'Number Four' Gefängnisses direkt in das lichtdurchflutete Herz der südafrikanischen Justiz. Geschichte K8 — Rechtsstaatlichkeit und Transformation der Justiz.",
-      "factsAdvanced": [
-        "Sitz des Verfassungsgerichts von Südafrika seit 2004.",
-        "Beherbergt das berüchtigte 'Old Fort' und das 'Number Four' Gefängnis.",
-        "Einziger Ort, an dem sowohl Gandhi als auch Mandela inhaftiert waren.",
-        "Das Gericht ist für jedermann frei zugänglich (Symbol der Offenheit).",
-        "Enthält die 'Flamme der Demokratie', die permanent brennt.",
-        "Architektur integriert Reste der alten Festungsanlagen.",
-        "Umfangreiches Museum zur Geschichte der Menschenrechte.",
-        "Liegt im Stadtteil Braamfontein in Johannesburg."
-      ]
-    },
-    {
-      "id": "klasies-river-caves-history-v2",
-      "descriptionAdvanced": "Die Klasies-River-Höhlen an der Küste von Tsitsikamma sind eine der weltweit bedeutendsten archäologischen Stätten für das Verständnis der Entstehung des modernen Homo sapiens. Die Ablagerungen in den Höhlen belegen eine kontinuierliche Besiedlung über einen Zeitraum von mehr als 100.000 Jahren. Hier fanden Forscher einige der ältesten Überreste anatomisch moderner Menschen, die beweisen, dass unsere Vorfahren bereits in der Steinzeit komplexe Jagdtechniken und soziale Strukturen entwickelten. Die Lage direkt am Ozean ermöglichte eine frühe Nutzung von marinen Ressourcen, was als entscheidender Faktor für die menschliche Entwicklung gilt. Geschichte K8 — Anthropogenese und prähistorische Küstenökonomie.",
-      "factsAdvanced": [
-        "Nationales Denkmal und UNESCO-Kandidat.",
-        "Beherbergt menschliche Überreste, die ca. 120.000 Jahre alt sind.",
-        "Nachweis für die früheste systematische Nutzung von Muscheln als Nahrung.",
-        "Enthält Beweise für koordinierte Jagd auf große Säugetiere.",
-        "Liegt in einer spektakulären Felsküste am Indischen Ozean.",
-        "Wichtiger Standort für die Untersuchung der kulturellen Evolution (Howiesons Poort Industrie).",
-        "Wurde seit den 1960er Jahren intensiv archäologisch erforscht.",
-        "Zeigt die Anpassung des Menschen an klimatische Zyklen der Eiszeit."
-      ]
-    },
-    {
-      "id": "wonderwerk-cave-history-v2",
-      "descriptionAdvanced": "Die Wonderwerk-Höhle im Nordkap ist ein archäologisches Wunderwerk, das eine fast ununterbrochene menschliche Geschichte über zwei Millionen Jahre dokumentiert. Die Höhle erstreckt sich über 140 Meter tief in das Kuruman-Hügelgelände. Weltweite Berühmtheit erlangte sie durch die Entdeckung der frühesten kontrollierten Nutzung des Feuers durch Hominiden vor etwa einer Million Jahren. Neben steinzeitlichen Werkzeugen beherbergt die Höhle faszinierende Felszeichnungen der San und Spuren früher ritueller Handlungen. Wonderwerk ist ein unvergleichliches Archiv der menschlichen Anpassung an die trockenen Bedingungen des südafrikanischen Binnenlandes über Äonen hinweg. Geschichte K8 — Beherrschung des Feuers und Steinzeit-Chronologie.",
-      "factsAdvanced": [
-        "Eine der längsten archäologischen Sequenzen der Welt (2 Mio. Jahre).",
-        "Fundort der ältesten Beweise für Feueranwendung (ca. 1 Mio. Jahre alt).",
-        "Enthält Felsmalereien, die bis zu 10.000 Jahre alt sind.",
-        "Liegt in den Kuruman Hills der Provinz Nordkap.",
-        "Wurde von frühen Menschen als ritueller und spiritueller Ort genutzt.",
-        "Lieferte Beweise für die früheste Nutzung von Farbpigmenten (Ocker).",
-        "Teil eines bedeutenden Forschungsprojekts zur menschlichen Entwicklung.",
-        "Nationales Erbe von herausragender wissenschaftlicher Bedeutung."
-      ]
-    },
-    {
-      "id": "matjes-river-rock-shelter-history-v2",
-      "descriptionAdvanced": "Der Matjes River Rock Shelter bei Keurboomstrand ist eine der reichsten archäologischen Fundstätten der späten Steinzeit im südlichen Afrika. Dieser riesige Felsschutzüberhang beherbergte über Jahrtausende Gruppen von Jägern und Sammlern, die eine enorme Menge an Abfällen (Midden) hinterließen. Die Ausgrabungen lieferten Tausende von Gräbern, Werkzeugen aus Knochen und Stein sowie kunstvoll bearbeiteten Schmuck aus Straußeneierschalen. Die Stätte bietet einen beispiellosen Einblick in das tägliche Leben, die Ernährung und die Bestattungsriten der Vorfahren der San- und Khoikhoi-Völker. Matjes River ist ein Schlüsselaspekt für das Verständnis der prähistorischen Küstenbevölkerung Südafrikas. Geschichte K8 — Spätsteinzeitliche Kulturen und Küsten-Middens.",
-      "factsAdvanced": [
-        "Beherbergt einen der größten prähistorischen Abfallhaufen (Midden) Afrikas.",
-        "Fundort von über 3.000 prähistorischen menschlichen Gräbern.",
-        "Dokumentiert die Lebensweise über einen Zeitraum von 10.000 Jahren.",
-        "Liegt an der Mündung des Matjes River in der Nähe von Plettenberg Bay.",
-        "Fundstätte von Harpunen und Angelhaken aus Knochen.",
-        "Besitzt eine bis zu 10 Meter dicke Schicht archäologischer Ablagerungen.",
-        "Wichtiger Standort für die Untersuchung der Herkunft der Khoisan-Völker.",
-        "Nationales Denkmal und Forschungsstätte."
-      ]
-    },
-    {
-      "id": "union-buildings-history-v2",
-      "descriptionAdvanced": "Die Union Buildings in Pretoria sind der offizielle Sitz der südafrikanischen Regierung und ein Meisterwerk der neoklassizistischen Architektur. Entworfen von Sir Herbert Baker und 1913 fertiggestellt, thronen sie auf dem Meintjieskop-Hügel und überblicken die Hauptstadt. Das Gebäude ist ein Symbol für die Einheit des Landes, ursprünglich für die Union von 1910 konzipiert. Hier fand 1994 die historische Amtseinführung von Nelson Mandela als erstem demokratisch gewählten Präsidenten statt. Die prächtigen Terrassengärten beherbergen eine neun Meter hohe Bronzestatue Mandelas und sind ein Ort nationaler Feierlichkeiten und des Protests. Geschichte K8 — Staatsgewalt und demokratische Transformation.",
-      "factsAdvanced": [
-        "Sitz des Präsidenten von Südafrika.",
-        "Entworfen vom Architekten Sir Herbert Baker im Jahr 1910.",
-        "Architektonisches Highlight ist das zentrale Amphitheater zwischen den Flügeln.",
-        "Ort der Vereidigung Nelson Mandelas am 10. Mai 1994.",
-        "Länge des Gebäudes beträgt ca. 285 Meter.",
-        "Beherbergt das ikonische Delville Wood Memorial.",
-        "Erbaut aus Sandstein aus der Region (Free State).",
-        "Nationales Denkmal und Wahrzeichen von Pretoria."
-      ]
-    },
-    {
-      "id": "church-square-pretoria-history-v2",
-      "descriptionAdvanced": "Der Church Square (Kirchplatz) ist das historische und architektonische Herz von Pretoria. Ursprünglich der Ort der ersten Kirche der Stadt, wird der Platz heute von prächtigen Gebäuden aus dem späten 19. und frühen 20. Jahrhundert gesäumt, darunter der Raadsaal (Parlament der Burenrepublik) und der Palast der Justiz. Im Zentrum des Platzes thront die bronzene Statue von Paul Kruger, dem ehemaligen Präsidenten der ZAR. Der Platz war Schauplatz zahlreicher politischer Kundgebungen und spiegelt die koloniale Macht sowie den Übergang zur Moderne wider. Hier fand im Justizpalast der berühmte Rivonia-Prozess statt, in dem Nelson Mandela verurteilt wurde. Geschichte K8 — Kolonialarchitektur und politische Prozesse.",
-      "factsAdvanced": [
-        "Historisches Zentrum der Stadt Pretoria seit ihrer Gründung 1855.",
-        "Beherbergt den Palace of Justice, Ort des Rivonia-Prozesses (1963-64).",
-        "Zentrales Denkmal zeigt Paul Kruger ('Oom Paul').",
-        "Umgeben vom Ou Raadsaal und dem Gebäude der Old Reserve Bank.",
-        "Ursprünglich als Marktplatz und Kirchenstandort konzipiert.",
-        "Besitzt eines der schönsten Ensembles viktorianischer Architektur weltweit.",
-        "Traditioneller Ort für Paraden und öffentliche Versammlungen.",
-        "Knotenpunkt des frühen städtischen Nahverkehrs."
-      ]
-    },
-    {
-      "id": "fnb-stadium-landmarks-v2",
-      "descriptionAdvanced": "Das FNB-Stadium in Johannesburg, auch bekannt als 'Soccer City', ist das größte Stadion Afrikas und eine architektonische Ikone. Seine charakteristische Form ist einer traditionellen afrikanischen Kalebasse (Trinkgefäß) nachempfunden, wobei die Außenhülle bei Nacht golden leuchtet. Weltweit bekannt wurde das Stadion als Austragungsort des Eröffnungsspiels und des Finales der Fußball-Weltmeisterschaft 2010. Es ist zudem ein Ort von tiefer emotionaler Bedeutung: Hier hielt Nelson Mandela 1990 seine erste Rede nach der Freilassung aus dem Gefängnis, und hier fand 2013 seine offizielle Trauerfeier statt. Das Stadion ist das Symbol für den sportlichen Stolz und die Einheit des modernen Südafrikas. Geografie K7 — Moderne Architektur und Sportinfrastruktur.",
-      "factsAdvanced": [
-        "Größtes Stadion Afrikas mit einer Kapazität von ca. 94.700 Zuschauern.",
-        "Architektonisches Design basiert auf einer afrikanischen Kalebasse.",
-        "Austragungsort des WM-Finales 2010.",
-        "Ort der ersten großen Rede Nelson Mandelas nach 27 Jahren Haft.",
-        "Sitz des südafrikanischen Fußballverbandes (SAFA).",
-        "Modernisiert für die WM 2010 mit einer Investition von ca. 440 Mio. USD.",
-        "Liegt im Stadtteil Nasrec nahe Soweto.",
-        "Beherbergt zahlreiche internationale Musikkonzerte und Großereignisse."
-      ]
-    },
-    {
-      "id": "ponte-city-landmarks-v2",
-      "descriptionAdvanced": "Ponte City in Johannesburg ist der höchste Wohnwolkenkratzer Afrikas und ein weithin sichtbares Wahrzeichen der Stadt. Das 54-stöckige zylindrische Gebäude ist berühmt für seinen hohlen Kern, der das Tageslicht bis in die unteren Etagen lässt. In den 1970er Jahren als exklusive Wohnadresse erbaut, spiegelte Ponte in den 1990er Jahren den Verfall des Stadtzentrums wider und wurde zu einem Symbol für städtische Kriminalität und Vernachlässigung. In den letzten Jahren erlebte das Gebäude jedoch eine beeindruckende Renaissance und wurde zu einem Trendobjekt für junge Stadtbewohner. Ponte City ist ein faszinierendes Beispiel für städtische Transformation und soziale Dynamik im Herzen von Johannesburg. Geografie K7 — Urbaner Wandel und Hochhausarchitektur.",
-      "factsAdvanced": [
-        "Höchstes Wohngebäude in Afrika (173 Meter hoch).",
-        "Einzigartige zylindrische Form mit einem hohlen Innenschacht.",
-        "Erbaut 1975 im brutalistischen Stil.",
-        "Bietet Platz für über 3.000 Bewohner in 467 Wohnungen.",
-        "Wahrzeichen des Stadtteils Hillbrow.",
-        "Diente als Drehort für Filme wie 'District 9' und 'Chappie'.",
-        "Die Werbetafel auf dem Dach ist die größte Leuchtreklame der südlichen Hemisphäre.",
-        "Symbol für die Revitalisierung des Johannesburg CBD."
-      ]
-    },
-    {
-      "id": "moses-mabhida-stadium-landmarks-v2",
-      "descriptionAdvanced": "Das Moses-Mabhida-Stadion in Durban ist eine preisgekrönte Ingenieurleistung und ein Wahrzeichen am Indischen Ozean. Das markanteste Merkmal ist der 106 Meter hohe Bogen, der das gesamte Stadion überspannt und an die Einheit des Landes erinnert (symbolisiert durch den Bogen der Nationalflagge). Besucher können mit dem 'SkyCar' auf den Gipfel des Bogens fahren und einen atemberaubenden 360-Grad-Blick über Durban genießen. Das Stadion wurde für die Fußball-WM 2010 gebaut und ist heute ein multifunktionales Zentrum für Sport, Kultur und Tourismus. Der Big Rush Big Swing bietet Wagemutigen den weltweit höchsten Stadion-Schaukelsprung vom Bogen aus. Geografie K7 — Ikonische Bauwerke und Tourismusentwicklung.",
-      "factsAdvanced": [
-        "Benannt nach dem südafrikanischen Politiker Moses Mabhida.",
-        "Besitzt einen markanten 350 Meter langen Bogen.",
-        "Kapazität von ca. 54.000 Zuschauern (während der WM 70.000).",
-        "SkyCar bringt Besucher auf eine Aussichtsplattform in 106 m Höhe.",
-        "Heimat des 'Big Rush Big Swing', des größten Schaukelsprungs weltweit.",
-        "Gewinner mehrerer internationaler Architekturpreise.",
-        "Integrierte Strandpromenade und Parklandschaften.",
-        "Multifunktionale Nutzung für Fußball, Cricket und Leichtathletik."
-      ]
-    },
-    {
-      "id": "cape-town-stadium-landmarks-v2",
-      "descriptionAdvanced": "Das Kapstadt-Stadion, malerisch zwischen dem Tafelberg und dem Atlantik im Stadtteil Green Point gelegen, ist eines der ästhetischsten Sportbauwerke der Welt. Die Außenfassade ist mit einem lichtdurchlässigen Gewebe bespannt, das sich harmonisch in das oft neblige Küstenklima Kapstadts einfügt. Erbaut für die Weltmeisterschaft 2010, dient es heute als Heimat für Rugby- und Fußballteams sowie als erstklassiger Veranstaltungsort für internationale Superstars. Das Stadion ist von einem weitläufigen Stadtpark umgeben, der auf einem ehemaligen Brachland errichtet wurde. Seine Lage direkt an der Küste macht es zu einem unverzichtbaren Teil der modernen Skyline von Kapstadt. Geografie K7 — Sportstättenbau und Küstenplanung.",
-      "factsAdvanced": [
-        "Kapazität von ca. 55.000 Zuschauern.",
-        "Spektakuläre Lage direkt am Meer am Fuße des Signal Hill.",
-        "Besitzt ein einzigartiges Glasdach zur Geräuschminderung für die Anwohner.",
-        "Hauptexportort für große internationale Konzerttourneen (z.B. U2, Lady Gaga).",
-        "Heimat des Rugby-Teams DHL Stormers.",
-        "Umgeben vom 12,5 Hektar großen Green Point Urban Park.",
-        "Baukosten betrugen ca. 4,4 Milliarden Rand.",
-        "Bekannt für seine exzellente Akustik und Sichtlinien."
-      ]
-    },
-    {
-      "id": "carlton-centre-landmarks-v2",
-      "descriptionAdvanced": "Das Carlton Centre in Johannesburg war fast 50 Jahre lang der höchste Wolkenkratzer Afrikas und ist ein monumentales Symbol für den wirtschaftlichen Aufstieg der Stadt im 20. Jahrhundert. Der 50-stöckige Turm beherbergt Büros und ein großes unterirdisches Einkaufszentrum. Das absolute Highlight ist die Aussichtsplattform 'Top of Africa' in der obersten Etage, die einen unvergleichlichen Panoramablick über das riesige Ballungsgebiet von Johannesburg, die Goldminen und das ferne Pretoria bietet. Das Carlton Centre steht im Zentrum des Central Business Districts und ist ein Zeugnis für den internationalen architektonischen Stil der 1970er Jahre in Südafrika. Geografie K7 — Hochhausarchitektur und Metropolregionen.",
-      "factsAdvanced": [
-        "Höhe von 223 Metern über dem Straßenniveau.",
-        "War von 1973 bis 2019 das höchste Gebäude des Kontinents.",
-        "Besitzt 50 Stockwerke und ein riesiges unterirdisches Shopping-Zentrum.",
-        "Die Aussichtsplattform 'Top of Africa' bietet einen 360-Grad-Blick.",
-        "Erbaut im internationalen Stil durch das Büro Skidmore, Owings & Merrill.",
-        "Ehemals Standort des luxuriösen Carlton Hotels.",
-        "Zentraler Orientierungspunkt in der Skyline von Johannesburg.",
-        "Sitz der Zentrale des staatlichen Transportunternehmens Transnet."
+        "Modikwa wird als Gemeinschaftsunternehmen von ARM und Anglo American geführt.",
+        "Die Mine liegt an der geologisch reichen östlichen Flanke des Bushveld-Komplexes.",
+        "Ein Kernziel des Betriebs ist das Broad-Based Black Economic Empowerment.",
+        "Der Standort fördert aktiv die sozioökonomische Entwicklung in der Region.",
+        "Die Mine ist ein bedeutendes Projekt zur Platinextraktion im Osten.",
+        "Modikwa verfolgt einen integrativen Ansatz für den Bergbaubetrieb."
       ]
     }
   ]

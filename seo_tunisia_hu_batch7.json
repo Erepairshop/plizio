@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sidi-abdelhamid-industrial-economic-v2",
+      "descriptionAdvanced": "A Sousse-ban található Sidi Abdelhamid ipari zóna a tunéziai Szahel-régió egyik legfontosabb gyártóközpontja, amely a mechanikai, elektronikai és textilipari gyártásra összpontosít. A zóna sikeresen vonzza a külföldi közvetlen befektetéseket, ezzel ösztönözve a régió gazdasági fejlődését és a technológiai tudástranszfert. A Sidi Abdelhamid nemcsak jelentős munkahelyteremtő képességgel rendelkezik, hanem technológiai és ipari szinergiáival a régió gazdasági stabilitását is biztosítja. A zónában működő vállalkozások szorosan együttműködnek a szomszédos logisztikai és szolgáltatói szektorokkal, kialakítva egy dinamikus ipari ökoszisztémát, amely a tunéziai export egyik megbízható bástyája.",
+      "factsAdvanced": [
+        "A tunéziai Szahel-régió egyik legfontosabb gyártóközpontja.",
+        "Mechanikai, elektronikai és textilipari gyártásra szakosodott.",
+        "Sikeresen vonzza a jelentős külföldi közvetlen befektetéseket.",
+        "A régió gazdasági fejlődésének és stabilitásának motorja.",
+        "Technológiai és ipari szinergiákat teremt a helyi cégek között.",
+        "A tunéziai export egyik megbízható bástyája."
+      ]
+    },
+    {
+      "id": "thyna-industrial-zone-economic-v2",
+      "descriptionAdvanced": "A Sfax melletti Thyna ipari zóna a déli országrész gazdasági dinamizmusának egyik központi színtere, amely a könnyű- és nehézipar számára egyaránt kiterjedt gyártási területeket biztosít. A nemzetközi repülőtér közelsége és a kiváló közúti infrastruktúra lehetővé teszi, hogy a zónában letelepedett vállalatok gyorsan és hatékonyan kapcsolódjanak be a nemzetközi kereskedelmi láncokba. Thyna az exportorientált gazdasági fejlesztés egyik sikertörténete, amely folyamatosan vonzza az innovatív gyártási megoldásokat alkalmazó cégeket. A zóna jelenléte alapvető fontosságú Sfax régió gazdasági versenyképességének fenntartásában, támogatva ezzel az ipari kapacitások folyamatos bővülését és az export diverzifikációját.",
+      "factsAdvanced": [
+        "A déli országrész ipari dinamizmusának központja.",
+        "Kiterjedt területek könnyű- és nehézipari célokra.",
+        "A nemzetközi repülőtér közelsége segíti a logisztikát.",
+        "A nemzetközi kereskedelmi láncok szerves része.",
+        "Sfax régió gazdasági versenyképességének pillére.",
+        "Támogatja az ipari kapacitások bővülését és az exportot."
+      ]
+    },
+    {
+      "id": "zarzis-economic-park-economic-v2",
+      "descriptionAdvanced": "A Zarzis Gazdasági Park Tunézia déli határvidékének legfontosabb logisztikai és exportközpontja, amely adókedvezményekkel vonzza a nemzetközi befektetőket. A szabadkereskedelmi övezetként működő park a határon átnyúló kereskedelem és az exportorientált gyártás ösztönzésével jelentős szerepet játszik a déli régió gazdasági felzárkóztatásában. A park logisztikai infrastruktúrája és kedvező szabályozási környezete révén a külföldi cégek számára kaput nyit a teljes észak-afrikai piacra, miközben folyamatosan bővíti a helyi ipari termelési kapacitásokat. Zarzis a déli országrész gazdasági nyitottságának szimbóluma, amely a munkahelyteremtés és az innovatív üzleti megoldások terén is meghatározó.",
+      "factsAdvanced": [
+        "Tunézia déli határvidékének legfontosabb exportközpontja.",
+        "Szabadkereskedelmi övezet, vonzó adókedvezményekkel.",
+        "Az exportorientált gyártás és logisztika központja.",
+        "Kaput nyit a külföldi cégek számára az afrikai piacra.",
+        "Meghatározó szerepet játszik a déli régió gazdasági nyitásában.",
+        "A munkahelyteremtés egyik kiemelt helyszíne a déli országrészben."
+      ]
+    }
+  ]
+}

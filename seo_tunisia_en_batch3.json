@@ -2,67 +2,67 @@
   "lang": "en",
   "country": "tunisia",
   "files": [
-    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraTunisiaLandmarksV2.ts"
   ],
   "items": [
     {
-      "id": "siliana-cities-v2",
-      "descriptionAdvanced": "Siliana is a central Tunisian city that serves as a regional agricultural hub, known for its extensive grain lands and resilient mountain landscapes. The city acts as a major crossroad between the fertile northern valleys and the semi-arid southern regions, making it a critical center for regional trade and rural life. Despite its rural focus, Siliana has seen significant investment in infrastructure to support modern farming techniques and regional connectivity, maintaining its role as an essential pillar of inland Tunisia. Geography K7: The study of inland trade hubs and agricultural transitions in semi-arid zones.",
+      "id": "karthago-akropolium-landmarks-v2",
+      "descriptionAdvanced": "The Acropolium of Carthage, formerly known as the Cathedral of Saint Louis, stands atop the historically significant Byrsa Hill, offering views over the ruins of the ancient Punic capital. Completed in 1890, the building is a distinct blend of Byzantine and Moorish architectural styles, serving today as a cultural events center and concert hall. The silhouette of the cathedral has become an integral part of the landscape within the Carthage archaeological park, reminding visitors of the diverse cultural heritage of the area, spanning from antiquity through the modern era.",
       "factsAdvanced": [
-        "Regional hub for central Tunisian agriculture",
-        "Key crossroad between northern and southern regions",
-        "Extensive grain production area",
-        "Focus on modern agricultural infrastructure",
-        "Transition zone between fertile and semi-arid lands",
-        "Center for rural trade and inland logistics"
+        "Building constructed in a distinct Byzantine-Moorish architectural style.",
+        "The cathedral was completed in 1890.",
+        "Byrsa Hill was the primary administrative center of Punic Carthage.",
+        "Currently functions as a modern center for cultural events and concerts.",
+        "Combines remnants of Roman and Christian cultural heritages.",
+        "One of the most spectacular buildings within the UNESCO World Heritage site."
       ]
     },
     {
-      "id": "kairouan-cities-v2",
-      "descriptionAdvanced": "Kairouan, founded in 670 AD, is one of the holiest cities in Islam and a UNESCO World Heritage site, deeply rooted in religious, architectural, and historical significance. Its legendary Great Mosque remains a masterpiece of Islamic architecture, defining the city's character. Kairouan also thrives as a renowned center for artisanal carpet weaving, a tradition that contributes significantly to the local economy and identity. The city stands as a testament to the endurance of Islamic culture in North Africa. Geography K6: Analyzing the development and cultural impact of historic religious centers.",
+      "id": "hammamet-kasbah-landmarks-v2",
+      "descriptionAdvanced": "The Kasbah of Hammamet is an exceptionally well-preserved 13th-century coastal fortress that protects the northern corner of the old city (medina). Its massive walls, reaching up to 15 meters in thickness in some areas, have withstood numerous attacks over the centuries and now offer stunning panoramas of the Mediterranean Sea and the labyrinth of whitewashed houses. Walking through the fortress walls, visitors can discover the remnants of medieval defense strategies while enjoying the historical atmosphere of the city.",
       "factsAdvanced": [
-        "Founded in 670 AD, key holy city in Islam",
-        "UNESCO World Heritage site",
-        "Home to the Great Mosque of Kairouan",
-        "Renowned hub for traditional carpet weaving",
-        "Major historical center for Islamic learning",
-        "Architecture defines North African religious sites"
+        "Fortress was constructed in the 13th century.",
+        "Defense walls reach a massive thickness of 15 meters in some sections.",
+        "Situated at the direct northern end of the medina.",
+        "Provides spectacular panoramic views over the coastline.",
+        "Played an important historical role in keeping pirates at bay.",
+        "One of the primary historical tourist attractions in Hammamet."
       ]
     },
     {
-      "id": "kasserine-cities-v2",
-      "descriptionAdvanced": "Kasserine, located in the central-western region near the Algerian border, is characterized by its high-altitude landscape and historical depth. The city sits near significant archaeological sites, including the Roman ruins of Cillium, and has historically served as a gateway to the mountainous hinterlands. Known for its challenging climate, Kasserine represents the resilient spirit of the Tunisian interior, with a developing economy centered on agriculture and regional services. Geography K8: Examining interior urban development in high-altitude environments and mountainous border zones.",
+      "id": "tunis-bab-saadoun-landmarks-v2",
+      "descriptionAdvanced": "Bab Saadoun is one of the historic city gates of Tunis, which, with its distinctive triple arches, reinforced the western defensive line of the medina. Built around 1350, the gate has undergone numerous modifications over the centuries, particularly in the 19th century under the French protectorate, when urban expansion necessitated a realignment of traffic corridors. Today, the structure is an important element of Tunis's historical heritage, bridging the massive modern metropolis with the centuries-old streets of the medina.",
       "factsAdvanced": [
-        "Located in the central-western interior",
-        "Site of the historic Roman ruins of Cillium",
-        "Gateway to mountainous border landscapes",
-        "Characteristic high-altitude semi-arid climate",
-        "Economy focused on inland agriculture and services",
-        "Strategic region along the Algerian border"
+        "History of the city gate began around 1350.",
+        "Distinctive design characterized by three adjacent arches.",
+        "French administration modernized the structure for traffic in 1881.",
+        "Was once one of the most important entry points to the medina.",
+        "Remains a vital traffic node in the capital today.",
+        "Most prominent historical gate on the western side of the city."
       ]
     },
     {
-      "id": "sidi-bouzid-cities-v2",
-      "descriptionAdvanced": "Sidi Bouzid, situated in the heart of the Tunisian interior, is a key center for the country's rural development and agricultural innovation. Recognized as a critical hub for the production of seasonal fruits and vegetables, the city plays a vital role in national food supply and trade. In recent years, it has become a symbol of regional economic ambition, with ongoing efforts to diversify the local economy beyond traditional farming. Sidi Bouzid stands as an anchor for the development of interior Tunisia. Geography K7: Analyzing rural economies and the importance of interior food production hubs.",
+      "id": "sfax-kasbah-landmarks-v2",
+      "descriptionAdvanced": "The Kasbah of Sfax is a traditional Islamic fortress that formed the interior defensive line of the historic port city. The complex, dating back to the 9th century, today houses the architectural museum, where visitors can learn about life within the city walls and the strategic role of the fortress. Its thick walls and watchtowers reflect the technical military architecture of the era, while the courtyards and arches evoke the atmosphere of traditional Islamic residential and administrative spaces.",
       "factsAdvanced": [
-        "Major hub for seasonal fruit and vegetable farming",
-        "Vital center for Tunisian domestic food supply",
-        "Symbol of inland economic development",
-        "Located in the heart of rural Tunisia",
-        "Ongoing economic diversification efforts",
-        "Anchor for interior region growth"
+        "Fortress history can be traced back to the 9th century.",
+        "Formed an integral part of the city's defensive system.",
+        "Today functions as the city's museum of architecture.",
+        "Building exemplifies the structure of medieval Islamic fortresses.",
+        "Sfax was one of the most important trade and defensive centers in the region.",
+        "Conserved bastions still offer an impressive sight today."
       ]
     },
     {
-      "id": "sousse-cities-v2",
-      "descriptionAdvanced": "Sousse, often called the 'Pearl of the Sahel', is a world-renowned coastal resort city known for its historic Medina and breathtaking Mediterranean beaches. With a port that has been operational since Phoenician times, it blends ancient maritime prestige with contemporary tourism dominance. The city's Medina, a UNESCO World Heritage site, is famous for its well-preserved walls and Islamic architectural gems like the Ribat. Sousse remains one of Tunisia’s most important hubs for international tourism and commercial shipping. Geography K6: The transformation of ancient maritime ports into modern tourism and trade centers.",
+      "id": "sousse-ribat-landmarks-v2",
+      "descriptionAdvanced": "The Ribat of Sousse is an exceptionally well-preserved monastic fort built in the 8th century for Muslim warriors who lived a life that was simultaneously ascetic and military. Its central watchtower once communicated via light signals with other coastal outposts, ensuring the city's safety against maritime attacks. The building standing today is located in the center of the medina and remains one of the oldest and most important Islamic defensive monuments in Tunisia.",
       "factsAdvanced": [
-        "Known as the 'Pearl of the Sahel'",
-        "UNESCO-listed historic Medina and Ribat",
-        "Phoenician-founded maritime port",
-        "Dominant hub for international tourism",
-        "Strategic center for coastal commercial shipping",
-        "Renowned Mediterranean resort destination"
+        "Building was completed in the 8th century.",
+        "Ribat served dual functions as a monastery and a military fort.",
+        "The watchtower provides an excellent view over the entire medina.",
+        "One of the most important Islamic military monuments in Tunisia.",
+        "Walls exhibit strict and clear architectural forms.",
+        "Popular destination for visitors as a central element of the medina."
       ]
     }
   ]

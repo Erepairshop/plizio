@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sebanzi-hill-iron-age-site-history-v2",
+      "descriptionAdvanced": "The Sebanzi Hill site is a landmark archaeological monument on the edge of the Kafue Flats in Zambia. For centuries, this location served as a living area, demonstrating a remarkable continuity of human settlements. Excavations conducted here, through the discovery of distinct pottery sequences, have provided valuable information about technological evolution and cultural changes during the Zambian Iron Age. As one of the key sites for researching the transition of Iron Age cultures, Sebanzi Hill is indispensable for a better scientific understanding of the socio-economic structure of early societies in southern Zambia.",
+      "factsAdvanced": [
+        "Key archaeological monument in the Kafue Flats",
+        "Center for Iron Age settlement studies",
+        "Discovery of specific pottery sequences",
+        "Evidence of centuries of continuous settlement",
+        "Central site for cultural history in southern Zambia",
+        "Scientific reference for the African Iron Age"
+      ]
+    }
+  ]
+}

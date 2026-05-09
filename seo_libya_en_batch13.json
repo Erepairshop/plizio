@@ -1,0 +1,225 @@
+{
+  "lang": "en",
+  "country": "libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sirte-basin-nature-v2",
+      "descriptionAdvanced": "The Sirte Basin is a vast geological and ecological province in central Libya, spanning from the Gulf of Sidra deep into the Saharan interior. It is most famous as the nation's premier petroleum-producing region, containing hundreds of oil and gas fields within its ancient sedimentary layers. Beyond its industrial importance, the Sirte Basin is a unique desert ecosystem characterized by expansive gravel plains (sarir), isolated oases, and seasonal wadis that support a variety of Saharan flora and fauna. The basin's geology is a complex record of millions of years of environmental change, making it a critical area for both economic wealth and scientific research. Geography K8 — Saharan basins and petroleum geology.",
+      "factsAdvanced": [
+        "The most important oil-producing basin in Libya and one of the largest in Africa.",
+        "Covers a massive area of approximately 375,000 square kilometers.",
+        "Contains nearly 80% of Libya's total proven oil and gas reserves.",
+        "Characterized by vast 'sarir' (gravel plains) and significant fossil water aquifers.",
+        "Home to numerous desert-adapted species, including the Saharan gazelle.",
+        "A primary center for national and international energy exploration.",
+        "The basin's formation dates back to the late Cretaceous period.",
+        "A critical strategic region for Libya's economic stability and development."
+      ]
+    },
+    {
+      "id": "gulf-of-sidra-nature-v2",
+      "descriptionAdvanced": "The Gulf of Sidra is a massive, crescent-shaped body of water on the Mediterranean coast of central Libya, representing the nation's largest maritime territory. It is a critical ecological zone where the warm Saharan winds meet the Mediterranean Sea, creating a unique coastal environment characterized by extensive sandy beaches, salt marshes (sabkhas), and productive fishing grounds. The Gulf is world-famous as a strategic 'Oil Crescent,' with several major petroleum terminals and refineries dotting its shore. Its waters are home to a diverse array of marine life, including dolphins and various Mediterranean fish species. The Gulf of Sidra is a central pillar of Libya's maritime identity and its economic connection to the world. Geography K8 — Mediterranean gulfs and coastal ecosystems.",
+      "factsAdvanced": [
+        "The largest gulf on the Libyan coast, stretching from Misrata to Benghazi.",
+        "Known as the 'Oil Crescent' due to its high density of energy terminals.",
+        "A major center for the Libyan fishing industry and maritime commerce.",
+        "Features extensive salt marshes (sabkhas) that attract migratory birds.",
+        "The waters are a vital habitat for Mediterranean dolphins and sea turtles.",
+        "Historically significant as a site of major naval and territorial disputes.",
+        "Surrounded by some of the longest and most pristine beaches in North Africa.",
+        "A primary driver of the industrial and economic development of central Libya."
+      ]
+    },
+    {
+      "id": "al-haruj-nature-v2",
+      "descriptionAdvanced": "Al-Haruj is a massive and spectacular volcanic field in central Libya, covering over 45,000 square kilometers of the Sahara. It is one of the largest volcanic provinces in Africa, characterized by thousands of dark basaltic scoria cones, ancient lava flows, and dramatic craters. The landscape is a surreal world of black rock that contrasts sharply with the orange sands of the surrounding desert. Despite its arid appearance, Al-Haruj contains several small oases and seasonal pools that support hardy desert life. Its unique geology and Martian-like scenery make it a premier destination for scientific research and adventurous Saharan exploration. Geography K8 — volcanic fields and Saharan geology.",
+      "factsAdvanced": [
+        "The largest volcanic field in Libya, covering a vast area of the central Sahara.",
+        "Contains over 150 individual volcanic cones and numerous lava flows.",
+        "Characterized by its dark, basaltic rock formations (Black Mountains).",
+        "The volcanic activity in the region dates back to the Pliocene epoch.",
+        "A major landmark for travelers moving between the coast and the Fezzan.",
+        "Features a surreal, Martian-like landscape of craters and black rock.",
+        "Supports specialized desert flora that thrives in volcanic soil.",
+        "A primary site for geological research into African plate tectonics."
+      ]
+    },
+    {
+      "id": "jebel-aswad-nature-v2",
+      "descriptionAdvanced": "The Jebel Aswad, or 'Black Mountain,' is a rugged and ancient mountain range in central Libya, forming part of the broader volcanic landscape of Al-Haruj. Its name derives from the dark, basaltic rock that covers its peaks and valleys, creating a stark and dramatic visual contrast with the Saharan sands. The range is a vital habitat for a variety of desert-adapted wildlife, including the Barbary sheep and several rare reptiles. Jebel Aswad also features prehistoric rock art and ancient tombs, reflecting thousands of years of human passage through the central desert. Its rugged beauty and profound isolation make it a quintessential part of Libya's natural desert heritage. Geography K8 — Saharan mountain ranges and volcanic geology.",
+      "factsAdvanced": [
+        "A significant volcanic mountain range in central Libya.",
+        "Characterized by dark basaltic rock and jagged, eroded peaks.",
+        "Part of the massive Al-Haruj al-Aswad volcanic province.",
+        "A vital sanctuary for desert-adapted species like the Aoudad (Barbary sheep).",
+        "Features several ancient rock art sites and Saharan archaeological remains.",
+        "The range's dark color is visible from satellite imagery as a massive 'island.'",
+        "Provides a dramatic and starkly beautiful desert mountain landscape.",
+        "Historically a major landmark for caravans and desert travelers."
+      ]
+    },
+    {
+      "id": "wadi-zamzam-nature-v2",
+      "descriptionAdvanced": "Wadi Zamzam is a major seasonal river valley in northwestern Libya, stretching from the interior plateaus towards the Gulf of Sidra. It is a critical ecological corridor that supports a variety of Saharan and Mediterranean flora, especially after the winter rains. The wadi is characterized by its wide, sandy bed, ancient palm groves, and fertile floodplains that have sustained human life and livestock for millennia. Historically, Wadi Zamzam was a major center for the Roman 'Limes Tripolitanus' defense system and contains numerous ancient fortified farms (gasrs). It represents a vital link between the desert interior and the coastal regions, serving as a haven for biodiversity and a center for traditional pastoral life. Geography K7 — desert wadis and ancient irrigation.",
+      "factsAdvanced": [
+        "One of the largest and most historically significant wadis in western Libya.",
+        "A primary ecological corridor for desert wildlife and migratory birds.",
+        "Home to numerous Roman-era 'gasrs' (fortified farms) and ancient cisterns.",
+        "Supports seasonal agriculture and extensive livestock grazing.",
+        "The wadi's bed is lined with ancient acacia and tamarisk trees.",
+        "Located in the strategic transition zone between the coast and the desert.",
+        "Played a major role in the defense and agriculture of Roman Tripolitania.",
+        "A vital source of seasonal water for the surrounding arid plains."
+      ]
+    },
+    {
+      "id": "al-kufra-basin-nature-v2",
+      "descriptionAdvanced": "The Al-Kufra Basin is a massive and remote geological province in southeastern Libya, famous for containing one of the world's largest fossil water aquifers. This vast underground reservoir, the Nubian Sandstone Aquifer, has transformed the hyper-arid desert surface into a hub of modern circular irrigation. The nature of the basin is characterized by its extreme isolation, towering sand dunes, and the startling green circles of agriculture visible from space. It is a critical area for both national food security and scientific research into ancient African climates. The Al-Kufra Basin represents the immense, hidden water wealth of the Sahara and the transformative power of modern desert engineering. Geography K8 — fossil water aquifers and Saharan basins.",
+      "factsAdvanced": [
+        "Contains part of the Nubian Sandstone Aquifer, the world's largest fossil water system.",
+        "A massive geological basin located in the remote southeastern Sahara.",
+        "Famous for the large-scale circular irrigation projects that produce desert crops.",
+        "A critical strategic resource for the Great Man-Made River project.",
+        "Home to specialized desert-adapted flora and fauna in its isolated oases.",
+        "The basin's surface is dominated by the massive dunes of the Libyan Desert.",
+        "Provides a vital record of the 'Green Sahara' periods from millions of years ago.",
+        "One of the most remote but economically significant regions in North Africa."
+      ]
+    },
+    {
+      "id": "jebel-uwaynat-nature-v2",
+      "descriptionAdvanced": "Jebel Uwaynat is a massive and isolated mountain massif located at the triple-border point of Libya, Egypt, and Sudan. It is a world-class natural and archaeological landmark, famous for its grand granite peaks and its incredibly rich collection of prehistoric rock art. The mountain contains numerous permanent springs (uwaynat), which have sustained human and animal life in the hyper-arid desert for thousands of years. The rock paintings and engravings at Jebel Uwaynat provide a stunning record of the Sahara's environmental transformation over the last 10,000 years. Its remote and rugged beauty makes it one of the most significant and mysterious natural wonders of the African continent. Anthropology K8 — prehistoric rock art and Saharan massifs.",
+      "factsAdvanced": [
+        "A massive mountain massif located at the intersection of Libya, Egypt, and Sudan.",
+        "Known for its thousands of prehistoric rock paintings and engravings.",
+        "Contains permanent water springs (uwaynat) that sustain desert life.",
+        "The highest point in the immediate region, rising to 1,934 meters.",
+        "A critical sanctuary for rare desert wildlife like the Saharan oryx and cheetah.",
+        "Features a unique micro-ecosystem with plants not found in the surrounding desert.",
+        "A world-renowned site for archaeologists and desert explorers.",
+        "The name translates to 'Mountain of the Little Springs' in Arabic."
+      ]
+    },
+    {
+      "id": "wadi-al-ajal-nature-v2",
+      "descriptionAdvanced": "Wadi al-Ajal is a spectacular and fertile valley in the southwestern Libyan Sahara, stretching for over 150 kilometers between the Messak plateau and the Ubari Sand Sea. This 'Valley of Life' is one of the most historically and naturally rich areas in the Fezzan, home to a continuous chain of ancient oases and the ruins of the Garamantian civilization. The valley is characterized by its dense palm groves, vibrant modern farms, and a high concentration of prehistoric rock art and ancient tombs. Wadi al-Ajal is a critical ecological lifeline, providing a verdant sanctuary for Saharan wildlife and a home for a diverse human population. Its unique blend of nature and history makes it a premier landmark of the Libyan desert. Geography K8 — Saharan valleys and oasis chains.",
+      "factsAdvanced": [
+        "A 150-kilometer long fertile valley in the heart of the Fezzan desert.",
+        "The historic heartland of the ancient Garamantian Kingdom.",
+        "Bordered by the towering orange dunes of the Idehan Ubari.",
+        "Home to thousands of ancient 'foggara' underground irrigation tunnels.",
+        "A critical ecological corridor for desert-adapted species and migratory birds.",
+        "Contains a massive concentration of prehistoric rock art and ancient burials.",
+        "The primary agricultural center for southwestern Libya.",
+        "Features a stunning contrast between green palms and black desert plateaus."
+      ]
+    },
+    {
+      "id": "sirtica-desert-nature-v2",
+      "descriptionAdvanced": "The Sirtica Desert is a vast and strategic arid region in central Libya, connecting the coastal Gulf of Sidra with the deep Saharan interior. It is characterized by its expansive 'sarir' (gravel plains), occasional salt flats, and scattered sand dunes. The region is a vital ecological bridge between the Mediterranean and the desert, supporting hardy flora and specialized wildlife like the Saharan gazelle and various reptiles. Historically, the Sirtica has been a critical transit zone for caravans and military movements. In modern times, it has become the heart of Libya's petroleum industry, with its ancient geological layers containing some of the world's most productive oil fields. Geography K8 — gravel plains and Saharan transit zones.",
+      "factsAdvanced": [
+        "A massive arid region in central Libya, also known as the 'Oil Crescent' hinterland.",
+        "Characterized by vast, flat gravel plains (sarir) and occasional sand dunes.",
+        "A vital transition zone between the Mediterranean coast and the deep Sahara.",
+        "Home to many of Libya's most important oil and gas fields.",
+        "Supports a variety of hardy desert wildlife and specialized flora.",
+        "Historically a significant and challenging transit route for desert travelers.",
+        "Played a major role in the military campaigns of the 20th century.",
+        "A critical strategic area for the nation's energy infrastructure and security."
+      ]
+    },
+    {
+      "id": "wadi-mathendous-nature-v2",
+      "descriptionAdvanced": "Wadi Mathendous is a world-class archaeological and natural landmark located on the Messak Settafet plateau in southwestern Libya. It is famous for hosting one of the most spectacular and well-preserved collections of prehistoric rock engravings in the Sahara. These ancient artworks, carved into the sandstone cliffs, depict a lush 'Green Sahara' filled with elephants, giraffes, crocodiles, and rhinoceroses, dating back over 8,000 years. The wadi itself is a rugged and dramatic desert valley that offers profound insights into the environmental history of North Africa. Wadi Mathendous is a primary destination for researchers and explorers seeking to understand the origins of human culture in the desert. Anthropology K8 — prehistoric rock engravings and Saharan climate change.",
+      "factsAdvanced": [
+        "Home to some of the world's finest prehistoric rock engravings.",
+        "Features large-scale depictions of tropical African animals in the desert.",
+        "The engravings date back to the 'Round Head' and 'Pastoral' periods.",
+        "Located on the rugged sandstone plateau of Messak Settafet.",
+        "A critical site for understanding the prehistoric 'Green Sahara' era.",
+        "The art reflects a time of high rainfall and abundant wildlife in the Fezzan.",
+        "A world-renowned destination for archaeological and nature tourism.",
+        "One of the most important and well-preserved rock art sites in Africa."
+      ]
+    },
+    {
+      "id": "jebel-soda-nature-v2",
+      "descriptionAdvanced": "The Jebel Soda, or 'Black Mountain,' is a spectacular volcanic mountain range in central Libya, forming a primary geological and natural border in the Sahara. Its name derives from the dark, basaltic rock that covers its jagged peaks and steep valleys, creating a stark visual contrast with the surrounding desert sands. The range is a vital habitat for desert-adapted wildlife, including the Barbary sheep and various rare birds. Jebel Soda also serves as an important watershed for the surrounding oases, providing seasonal runoff that sustains local palm groves. Its rugged beauty and profound isolation make it a quintessential part of the central Libyan desert experience. Geography K8 — Saharan mountain ranges and volcanic geology.",
+      "factsAdvanced": [
+        "A prominent volcanic mountain range in the central Libyan Sahara.",
+        "Characterized by dark basaltic rock and dramatic, eroded peaks.",
+        "Part of the broader Al-Haruj volcanic province of North Africa.",
+        "A vital sanctuary for desert-adapted species like the Aoudad (Barbary sheep).",
+        "Provides seasonal water runoff for the nearby oases of Jufra.",
+        "The range's dark color makes it a major landmark for desert navigation.",
+        "Features some of the most spectacular and rugged desert scenery in Libya.",
+        "Historically significant as a natural barrier and transit gateway."
+      ]
+    },
+    {
+      "id": "fezzan-desert-nature-v2",
+      "descriptionAdvanced": "The Fezzan Desert is a vast and diverse natural region in southwestern Libya, representing the quintessential Saharan landscape. It is characterized by a stunning variety of terrain, including the towering dunes of the Ubari Sand Sea, the black volcanic peaks of Al-Haruj, and the fertile oasis valleys of Wadi al-Ajal and Wadi al-Shati. The Fezzan is a critical ecological and cultural heartland, home to the Tuareg and Tebu peoples and several UNESCO World Heritage rock art sites. Its ancient aquifers sustain life in some of the most arid conditions on Earth. The Fezzan represents the profound beauty, history, and environmental resilience of the deep Libyan Sahara. Geography K8 — Saharan ecosystems and desert diversity.",
+      "factsAdvanced": [
+        "The southwestern region of Libya, covering a massive portion of the Sahara.",
+        "Characterized by a diverse landscape of sand seas, plateaus, and oases.",
+        "Home to several UNESCO World Heritage sites, including the Tadrart Acacus.",
+        "A vital cultural heartland for the Tuareg and Tebu desert communities.",
+        "Contains massive underground aquifers that support desert agriculture.",
+        "Famous for its spectacular orange sand dunes and black volcanic mountains.",
+        "Historically the crossroads for trans-Saharan trade for over two millennia.",
+        "A major center for the petroleum and natural gas industries of the south."
+      ]
+    },
+    {
+      "id": "cyrenaica-coast-nature-v2",
+      "descriptionAdvanced": "The Cyrenaica Coast is a spectacular and unique maritime region in northeastern Libya, where the green cliffs of the Jabal al-Akhdar meet the turquoise waters of the Mediterranean. It is the most biologically diverse coastal area in the country, characterized by rocky coves, pristine sandy beaches, and lush Mediterranean vegetation that grows right to the water's edge. The region is home to several ancient port cities, such as Apollonia and Ptolemais, and supports a vibrant marine ecosystem. The Cyrenaica Coast offers a dramatic mix of natural beauty and profound history, making it a premier destination for tourism and ecological conservation in Libya. Geography K7 — Mediterranean coastlines and coastal biodiversity.",
+      "factsAdvanced": [
+        "The most scenic and green coastal region in Libya.",
+        "Characterized by the steep limestone cliffs of the Green Mountain.",
+        "Home to pristine Mediterranean beaches and rare coastal flora.",
+        "A major hub for the Libyan fishing industry and maritime trade.",
+        "Features numerous ancient Greek and Roman port ruins along the shore.",
+        "The waters are a vital habitat for sea turtles and diverse fish species.",
+        "Known for its cool, pleasant Mediterranean climate and scenic drives.",
+        "A primary destination for nature tourism and archaeological exploration."
+      ]
+    },
+    {
+      "id": "wadi-farigh-nature-v2",
+      "descriptionAdvanced": "Wadi Farigh is a massive and strategic seasonal river valley in central Libya, stretching across the Sirte Basin. It is a critical ecological feature of the desert hinterland, serving as a major drainage system for the occasional but intense Saharan rains. The wadi is characterized by its wide, sandy bed and the presence of hardy desert vegetation that supports seasonal grazing for livestock. Historically, Wadi Farigh has been a major transit route for both caravans and modern transport. In recent decades, it has become a vital corridor for the oil and gas industry, with several major pipelines and facilities located along its course. Geography K8 — Saharan wadis and industrial corridors.",
+      "factsAdvanced": [
+        "One of the longest and most significant wadis in central Libya.",
+        "A major drainage system for the Sirte Basin region.",
+        "Supports seasonal grazing and specialized desert flora.",
+        "A vital corridor for Libya's petroleum and natural gas pipelines.",
+        "Characterized by a wide, arid bed and occasional palm groves.",
+        "Historically an important transit route for desert travelers and armies.",
+        "Plays a key role in the regional hydrology of the central Sahara.",
+        "Provides a unique desert landscape of rugged beauty and scale."
+      ]
+    },
+    {
+      "id": "jebel-tarhuna-nature-v2",
+      "descriptionAdvanced": "Jebel Tarhuna is a scenic and fertile highland region in northwestern Libya, forming the southeastern part of the Nafusa Mountains plateau. It is characterized by its rolling hills, fertile valleys, and a temperate Mediterranean climate that supports some of Libya's most extensive olive and almond groves. The region is a vital watershed for the coastal plains and a major center for agricultural production. Jebel Tarhuna's nature is a beautiful mix of cultivated land and wild Mediterranean scrubland, offering spectacular views and a peaceful environment. It represents a critical link between the rugged mountain ranges and the productive Jafara Plain. Geography K7 — highland agriculture and Mediterranean landscapes.",
+      "factsAdvanced": [
+        "A scenic highland region located about 65 kilometers southeast of Tripoli.",
+        "Famous for its extensive olive, almond, and fruit orchards.",
+        "Features a temperate Mediterranean climate with fertile terra rossa soil.",
+        "A major watershed and agricultural heartland for western Libya.",
+        "Characterized by rolling hills and traditional stone farmsteads.",
+        "A vital center for the production of mountain honey and livestock.",
+        "Offers spectacular panoramic views of the surrounding coastal plains.",
+        "A primary destination for regional nature tourism and outdoor recreation."
+      ]
+    }
+  ]
+}

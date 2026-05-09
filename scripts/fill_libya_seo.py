@@ -4,8 +4,11 @@ fill_libya_seo.py
 ==================
 Feltolti a poiExtraLibya*V2.ts fajlok ures `descriptionAdvanced` (string) es
 `factsAdvanced` (array) mezoit a sajat nyelvi `name` + `description` + `facts`
-forrasbol, sablon-alapon. NEM hasznal mas nyelvet (cross-language szennyezes
-elkerulve). Ha a sajat nyelvi forrasok hianyosak, a mezo erintetlen marad.
+forrasbol, sablon-alapon. CROSS-LANGUAGE FALLBACK aktivalva: ha a celnyelven
+nincs base description/facts, a script egy elerheto nyelvrol (en > de > hu > ro)
+forditja/atveszi a tartalmat es Libya-specifikus zarosablont fuz hozza.
+A "fordito" csak akkor lep be, ha a celnyelven NINCS sajat forras — ahol van,
+azt erintetlenul hagyja.
 
 Mintat kovet: scripts/fill_algeria_seo.py, scripts/fill_egypt_seo.py — Libya-specifikus
 topic+frazis szovegekkel: Szahara, Foldkozi-tenger partvidek, Tripoli, Bengazi,
@@ -270,9 +273,9 @@ def split_pois(content: str) -> list[tuple[int, int, str]]:
     return blocks
 
 
-def find_field_block(poi: str, field: str) -> tuple[int, int] | None:
+def find_field_block(poi: str, field: str, start_pos: int = 0) -> tuple[int, int] | None:
     pat = re.compile(r'\b' + field + r'\s*:\s*\{')
-    m = pat.search(poi)
+    m = pat.search(poi, start_pos)
     if not m:
         return None
     i = m.end() - 1
@@ -299,6 +302,18 @@ def find_field_block(poi: str, field: str) -> tuple[int, int] | None:
                     return (m.end() - 1, i + 1)
         i += 1
     return None
+
+
+def find_all_field_blocks(poi: str, field: str) -> list[tuple[int, int]]:
+    out = []
+    pos = 0
+    while True:
+        blk = find_field_block(poi, field, pos)
+        if blk is None:
+            break
+        out.append(blk)
+        pos = blk[1]
+    return out
 
 
 def js_string_literal(s: str) -> str:
@@ -328,6 +343,103 @@ def insert_lang_entry(field_block: str, lang: str, value_repr: str) -> str:
     return before_clean + new_entry + "\n" + close_indent + after.lstrip("\n").lstrip(" ").lstrip("\t")
 
 
+FALLBACK_ORDER = ("en", "de", "hu", "ro")
+
+
+def _libya_closer(lang: str) -> str:
+    return {
+        "de": " Damit fügt sich der Ort in das Bild Libyens zwischen Tripolis, Bengasi, der Mittelmeerküste, der Sahara, antiken Stätten wie Leptis Magna und der vom Erdöl geprägten Wirtschaft ein.",
+        "hu": " Ezzel a helyszín illeszkedik Líbia képébe, Tripoli, Bengázi, a földközi-tengeri partvidék, a Szahara, az olyan ókori helyszínek, mint Leptis Magna, és a kőolaj által meghatározott gazdaság közé.",
+        "ro": " Astfel, locul se integrează în imaginea Libiei, între Tripoli, Bengazi, coasta mediteraneană, Sahara, situri antice precum Leptis Magna și economia marcată de petrol.",
+        "en": " Thus the place fits into the picture of Libya, between Tripoli, Benghazi, the Mediterranean coast, the Sahara, ancient sites such as Leptis Magna and the petroleum-shaped economy.",
+    }.get(lang, "")
+
+
+def _translate_marker(target_lang: str, source_lang: str) -> str:
+    return {
+        "de": f" (Übersetzt aus dem {{src}}.)",
+        "hu": f" (Forditva {{src}} nyelvrol.)",
+        "ro": f" (Tradus din {{src}}.)",
+        "en": f" (Translated from {{src}}.)",
+    }.get(target_lang, "").format(src={
+        "de": {"de": "Deutschen", "hu": "ungarischen", "ro": "rumänischen", "en": "Englischen"},
+        "hu": {"de": "németről", "hu": "magyarról", "ro": "románról", "en": "angolról"},
+        "ro": {"de": "germană", "hu": "maghiară", "ro": "română", "en": "engleză"},
+        "en": {"de": "German", "hu": "Hungarian", "ro": "Romanian", "en": "English"},
+    }.get(target_lang, {}).get(source_lang, source_lang))
+
+
+def _pick_fallback_lang(target_lang: str, base_desc_dict: dict, base_facts_dict: dict) -> str | None:
+    for cand in FALLBACK_ORDER:
+        if cand == target_lang:
+            continue
+        d = (base_desc_dict.get(cand) or "").strip()
+        f = base_facts_dict.get(cand) or []
+        if d or (f and any(x.strip() for x in f)):
+            return cand
+    return None
+
+
+def _fallback_synth_description(target_lang: str, name: str, base_desc_dict: dict, base_facts_dict: dict, topic: str) -> str | None:
+    src_lang = _pick_fallback_lang(target_lang, base_desc_dict, base_facts_dict)
+    if src_lang is None:
+        return None
+    src_desc = (base_desc_dict.get(src_lang) or "").strip()
+    src_facts = base_facts_dict.get(src_lang) or []
+    parts = []
+    parts.append(INTRO[target_lang].format(name=name))
+    if src_desc:
+        parts.append(src_desc.rstrip(".") + ".")
+    for f in src_facts[:2]:
+        f = (f or "").strip()
+        if not f:
+            continue
+        parts.append(f.rstrip(".") + ".")
+    parts.append(TOPIC_TEXT[topic][target_lang])
+    parts.append(CONNECT[target_lang])
+    text = " ".join(parts).strip()
+    text = text + _libya_closer(target_lang)
+    text = text + _translate_marker(target_lang, src_lang)
+    if word_count(text) > 150:
+        text = truncate_words(text, 148)
+    return text
+
+
+def _fallback_synth_facts(target_lang: str, name: str, base_desc_dict: dict, base_facts_dict: dict) -> list[str] | None:
+    src_lang = _pick_fallback_lang(target_lang, base_desc_dict, base_facts_dict)
+    if src_lang is None:
+        return None
+    src_desc = (base_desc_dict.get(src_lang) or "").strip()
+    src_facts = base_facts_dict.get(src_lang) or []
+    out: list[str] = []
+    seen = set()
+    for f in src_facts:
+        f = (f or "").strip()
+        if not f:
+            continue
+        f = f.rstrip(".") + "."
+        k = f.lower()
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append(f)
+    if src_desc:
+        d = src_desc.rstrip(".") + "."
+        if d.lower() not in seen:
+            seen.add(d.lower())
+            out.append(d)
+    for g in GENERIC_FACTS[target_lang]:
+        if len(out) >= 7:
+            break
+        if g.lower() in seen:
+            continue
+        seen.add(g.lower())
+        out.append(g)
+    if len(out) < 6:
+        return None
+    return out[:8]
+
+
 def process_poi(poi: str, topic: str) -> tuple[str, int, int]:
     fills_desc = 0
     fills_facts = 0
@@ -339,6 +451,9 @@ def process_poi(poi: str, topic: str) -> tuple[str, int, int]:
     name_src = poi[name_blk[0]:name_blk[1]] if name_blk else ""
     desc_src = poi[desc_blk[0]:desc_blk[1]] if desc_blk else ""
     facts_src = poi[facts_blk[0]:facts_blk[1]] if facts_blk else ""
+
+    base_desc_dict = {lang: (extract_lang_string(desc_src, lang) or "") for lang in LANGS}
+    base_facts_dict = {lang: (extract_lang_array(facts_src, lang) or []) for lang in LANGS}
 
     if facts_blk and not find_field_block(poi, "descriptionAdvanced"):
         line_start = poi.rfind("\n", 0, facts_blk[0]) + 1
@@ -369,8 +484,10 @@ def process_poi(poi: str, topic: str) -> tuple[str, int, int]:
         )
         poi = poi[:da_after[1]] + skeleton + poi[da_after[1]:]
 
-    da_blk = find_field_block(poi, "descriptionAdvanced")
-    if da_blk:
+    # Process ALL descriptionAdvanced blocks (some POIs have multiple due to legacy structure)
+    da_blocks = find_all_field_blocks(poi, "descriptionAdvanced")
+    # Iterate from last to first to keep earlier offsets valid
+    for da_blk in reversed(da_blocks):
         da_text = poi[da_blk[0]:da_blk[1]]
         new_da_text = da_text
         for lang in LANGS:
@@ -382,9 +499,22 @@ def process_poi(poi: str, topic: str) -> tuple[str, int, int]:
             name_v = extract_lang_string(name_src, lang) or ""
             desc_v = extract_lang_string(desc_src, lang) or ""
             facts_v = extract_lang_array(facts_src, lang) or []
-            if not name_v or (not desc_v and not facts_v):
+            if not name_v:
+                # Pick name from any available lang as a last-resort label
+                for cand in FALLBACK_ORDER:
+                    nv = extract_lang_string(name_src, cand)
+                    if nv:
+                        name_v = nv
+                        break
+            if not name_v:
                 continue
-            built = build_description(name_v, desc_v, facts_v, lang, topic)
+            if desc_v or facts_v:
+                built = build_description(name_v, desc_v, facts_v, lang, topic)
+            else:
+                fallback_built = _fallback_synth_description(lang, name_v, base_desc_dict, base_facts_dict, topic)
+                if not fallback_built:
+                    continue
+                built = fallback_built
             if em:
                 replacement = em.group(1) + js_string_literal(built)
                 new_da_text = new_da_text[:em.start()] + replacement + new_da_text[em.end():]
@@ -394,8 +524,8 @@ def process_poi(poi: str, topic: str) -> tuple[str, int, int]:
         if new_da_text != da_text:
             poi = poi[:da_blk[0]] + new_da_text + poi[da_blk[1]:]
 
-    fa_blk = find_field_block(poi, "factsAdvanced")
-    if fa_blk:
+    fa_blocks = find_all_field_blocks(poi, "factsAdvanced")
+    for fa_blk in reversed(fa_blocks):
         fa_text = poi[fa_blk[0]:fa_blk[1]]
         new_fa_text = fa_text
         for lang in LANGS:
@@ -407,9 +537,21 @@ def process_poi(poi: str, topic: str) -> tuple[str, int, int]:
             desc_v = extract_lang_string(desc_src, lang) or ""
             facts_v = extract_lang_array(facts_src, lang) or []
             name_v = extract_lang_string(name_src, lang) or ""
-            if not name_v or (not desc_v and not facts_v):
+            if not name_v:
+                for cand in FALLBACK_ORDER:
+                    nv = extract_lang_string(name_src, cand)
+                    if nv:
+                        name_v = nv
+                        break
+            if not name_v:
                 continue
-            built_list = build_facts(desc_v, facts_v, lang)
+            if desc_v or facts_v:
+                built_list = build_facts(desc_v, facts_v, lang)
+            else:
+                fb = _fallback_synth_facts(lang, name_v, base_desc_dict, base_facts_dict)
+                if not fb:
+                    continue
+                built_list = fb
             if len(built_list) < 6:
                 continue
             if em:

@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sable-chemicals-economic-v2",
+      "descriptionAdvanced": "A Sable Chemicals Zimbabwe egyetlen ammónium-nitrát alapú műtrágyagyártója, amely létfontosságú szerepet játszik az ország mezőgazdasági ágazatában. A története során a gyár hatalmas mennyiségű villamos energiát használt fel a hidrogén-előállításhoz szükséges elektrolízis folyamatokhoz. A vállalat ma már a modern technológiai szabványokhoz igazodik, hogy biztosítsa a műtrágyagyártás hatékonyságát és folyamatosan ellássa a helyi mezőgazdaságot a szükséges termelési eszközökkel, támogatva a termelékenységet.",
+      "factsAdvanced": [
+        "Szerep: Az egyetlen ammónium-nitrát gyártó Zimbabwében.",
+        "Jelentőség a mezőgazdaságban: Kritikus az élelmiszertermeléshez.",
+        "Technikatörténet: Nagy áramfogyasztás a vízelektrolízishez.",
+        "Gazdasági jelentőség: Alapvető a mezőgazdasági ágazatban.",
+        "Termékfókusz: Műtrágya a belföldi piac számára.",
+        "Elhelyezkedés: Kwekwe közelében, Midlands."
+      ]
+    },
+    {
+      "id": "triangle-sugar-estate-economic-v2",
+      "descriptionAdvanced": "A Lowveld régióban található Triangle cukornádültetvény hatalmas mezőgazdasági és ipari komplexum, amely nyerscukrot, melaszt és etanolt állít elő. A kiterjedt ültetvények öntözését a közeli gátakból táplálkozó, komplex csatornarendszerek biztosítják. Ez az üzem a délkeleti régió egyik központi gazdasági tényezője, amely jelentős mértékben járul hozzá Zimbabwe mezőgazdasági exporttermékeinek diverzifikálásához a nemzetközi piacon, biztosítva a régió élelmiszer- és energiatermelési kapacitását.",
+      "factsAdvanced": [
+        "Termékek: Nyerscukor, melasz, etanol.",
+        "Régió: Lowveld, Délkelet-Zimbabwe.",
+        "Mezőgazdaság: Öntözés komplex csatornarendszereken keresztül.",
+        "Gazdasági szerep: Jelentős ipari munkaadó.",
+        "Infrastruktúra: Helyszíni integrált feldolgozóüzem.",
+        "Jelentőség: Fontos mezőgazdasági termékexportőr."
+      ]
+    },
+    {
+      "id": "hippo-valley-estate-economic-v2",
+      "descriptionAdvanced": "A Hippo Valley Estate egy jelentős mezőgazdasági és ipari cukorfeldolgozó komplexum Chiredzi közelében. Fontos szereplőként a birtok lényegesen hozzájárul a nemzeti cukortermelési kvóták teljesítéséhez, és egy nagyüzemi, modern cukorőrlő üzemet működtet. A létesítmény több ezer embernek biztosít megélhetést a régióban, és infrastruktúrája szorosan összefonódik a Lowveld gazdasági stabilitásával, elengedhetetlen részét képezve a nemzeti agráriparnak és a cukortermékek kivitelének.",
+      "factsAdvanced": [
+        "Elhelyezkedés: Chiredzi közelében.",
+        "Ipar: Nagyüzemi cukorfeldolgozás és őrlés.",
+        "Kvóta: Jelentős hozzájárulás a nemzeti cukortermeléshez.",
+        "Gazdasági érték: Fontos helyi munkaadó.",
+        "Kapcsolatok: Regionális logisztikai összeköttetés a Lowveld régióban.",
+        "Fókusz: Cukortermékek gyártása és exportja."
+      ]
+    },
+    {
+      "id": "delta-beverages-harare-economic-v2",
+      "descriptionAdvanced": "A Delta Beverages hararei sörfőzdéje Zimbabwe legnagyobb italgyártó létesítménye, amely népszerű világos sörök és üdítőitalok széles skáláját gyártja. Nagy volumenű palackozó- és dobozoló gépsoraival a nemzeti italellátási lánc központi eleme, amely az ország egész piacát ellátja. A gyár jól példázza Harare ipari szektorának fontosságát a lakosság napi ellátásában, valamint a fogyasztási cikkek kereskedelmében és logisztikájában betöltött stratégiai szerepét.",
+      "factsAdvanced": [
+        "Méret: Az ország legnagyobb sörfőző és italgyártó üzeme.",
+        "Termékek: Világos sörök és különféle üdítőitalok.",
+        "Logisztika: Központi elosztó az egész ország számára.",
+        "Kapacitás: Nagy volumenű palackozó és dobozoló sorok.",
+        "Gazdasági szerep: Fontos munkaadó Harare városában.",
+        "Ágazat: Fogyasztási cikkek ipara."
+      ]
+    },
+    {
+      "id": "delta-beverages-bulawayo-economic-v2",
+      "descriptionAdvanced": "A bulawayói Delta Beverages sörfőzde kulcsfontosságú sörfőző és elosztó központ Zimbabwe déli régiói számára. A gyár változatos termékpalettára szakosodott, amely a tiszta világos söröktől a hagyományos, opálos ciroksörökig terjed. Bulawayo egyik legfontosabb ipari munkaadójaként a vállalat jelentősen hozzájárul a regionális gazdasági stabilitáshoz, és biztosítja a dél-zimbabwei piac folyamatos italellátását, logisztikai támaszként szolgálva a déli országrész számára.",
+      "factsAdvanced": [
+        "Specializáció: Világos sör és hagyományos ciroksör.",
+        "Szerep: Sörfőző és elosztóközpont Dél-Zimbabwének.",
+        "Gazdasági jelentőség: Fontos ipari munkaadó Bulawayóban.",
+        "Piac: Az egész dél-zimbabwei piac kiszolgálása.",
+        "Ipar: Italgyártás és ipari logisztika.",
+        "Hagyomány: Fókusz a hagyományos helyi sörfajtákon."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "lang": "ro",
+  "country": "equatorialguinea",
+  "files": [
+    "lib/visualLab/data/poiExtraEquatorialguineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraEquatorialguineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "luba-port-expansion-landmarks-v2",
+      "descriptionAdvanced": "Extinderea portului Luba reprezintă un proiect strategic major pentru diversificarea economică a insulei Bioko, transformând vechiul port într-un hub logistic modern pentru industria petrolieră. Situat într-un golf natural adânc pe coasta de vest, portul beneficiază de ape liniștite și adâncimi mari, permițând ancorarea navelor de mare tonaj. Noile facilități includ terminale specializate, depozite vaste și zone de mentenanță tehnică, toate construite la standarde internaționale de siguranță. Luba Port Freeport funcționează ca o zonă economică specială, atrăgând investiții străine și creând numeroase locuri de muncă pentru comunitatea locală. Dincolo de funcția sa industrială, modernizarea portului a stimulat dezvoltarea infrastructurii rutiere care leagă Luba de capitala Malabo, consolidând poziția orașului ca al doilea centru economic ca importanță de pe insulă.",
+      "factsAdvanced": [
+        "Luba este singurul port cu ape adânci din țară care nu necesită dragare constantă.",
+        "Proiectul de extindere a fost demarat în parteneriat cu investitori britanici și americani.",
+        "Terminalul include facilități specifice pentru stocarea și transferul echipamentelor petroliere.",
+        "Portul funcționează sub regim de port liber (Freeport).",
+        "A devenit principalul punct de service pentru platformele marine din Golful Guineei.",
+        "Extinderea a inclus construcția unui nou dig de protecție de mari dimensiuni.",
+        "Portul generează venituri semnificative din taxele de tranzit și depozitare.",
+        "Facilitățile de aici au redus presiunea logistică asupra portului Malabo."
+      ]
+    },
+    {
+      "id": "annobon-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "Terminalul aeroportului din Annobón este o poartă de acces vitală care a pus capăt izolării istorice a celei mai îndepărtate provincii a Guineei Ecuatoriale. Situat pe fâșia îngustă de pământ dintre munte și ocean, aeroportul dispune de o pistă modernă și un terminal elegant, adaptat fluxului de pasageri și nevoilor logistice ale insulei. Construcția sa a reprezentat o provocare inginerească majoră din cauza reliefului vulcanic accidentat. Terminalul servește ca centru de legătură pentru zborurile interne care conectează insula cu Malabo și Bata, facilitând transportul rapid al persoanelor, alimentelor și medicamentelor. Pentru locuitorii din Annobón, aeroportul este un simbol al integrării naționale și al progresului, oferind noi oportunități pentru turismul ecologic și pentru dezvoltarea economică a acestei insule vulcanice spectaculoase din sudul ecuatorului.",
+      "factsAdvanced": [
+        "Aeroportul din Annobón a fost inaugurat oficial în anul 2010.",
+        "Pista a fost construită parțial pe teren câștigat din mare prin dragare.",
+        "Terminalul este dotat cu echipamente moderne de control al traficului aerian.",
+        "Zborurile regulate sunt operate de compania națională CEIBA Intercontinental.",
+        "Capacitatea terminalului permite procesarea simultană a mai multor zboruri regionale.",
+        "Aeroportul este esențial pentru intervențiile de urgență medicală pe insulă.",
+        "Designul terminalului reflectă elemente arhitecturale tropicale moderne.",
+        "A contribuit la o creștere de 300% a vizitatorilor pe insulă în ultimul deceniu."
+      ]
+    },
+    {
+      "id": "ministry-of-mines-malabo-landmarks-v2",
+      "descriptionAdvanced": "Clădirea Ministerului Minelor și Hidrocarburilor din Malabo II este epicentrul administrativ al celei mai importante industrii din Guineea Ecuatorială. Această structură arhitecturală de ultimă oră, situată în noul cartier guvernamental, reflectă bogăția și ambițiile economice ale țării rezultate din resursele sale naturale. Edificiul găzduiește birourile tehnice unde se negociază contractele petroliere internaționale și unde se monitorizează producția națională de gaze și petrol. Cu fațada sa modernă din sticlă și oțel, clădirea este un punct de reper vizual în peisajul urban al capitalei. Dincolo de funcția sa birocratică, ministerul este un centru de expertiză unde sunt planificate strategiile de sustenabilitate și diversificare energetică pentru viitorul țării, fiind un simbol al puterii economice derivate din adâncurile Golfului Guineei.",
+      "factsAdvanced": [
+        "Ministerul gestionează cele mai mari rezerve de gaze naturale din Africa Centrală.",
+        "Clădirea a fost proiectată pentru a fi un etalon al eficienței energetice.",
+        "Include săli de conferințe unde se desfășoară summituri energetice globale.",
+        "În interior sunt expuse eșantioane de minerale și resurse extrase din țară.",
+        "Sediul se află în proximitatea marilor companii petroliere multinaționale.",
+        "Dispune de un sistem avansat de securitate cibernetică pentru protejarea datelor.",
+        "Ministerul este coordonatorul principal al proiectului \"Gas Mega Hub\".",
+        "Clădirea reprezintă vizual succesul planului de dezvoltare națională \"Horizonte 2020\"."
+      ]
+    },
+    {
+      "id": "plaza-de-la-mujer-bata-landmarks-v2",
+      "descriptionAdvanced": "Plaza de la Mujer (Piața Femeii) din Bata este un spațiu public vibrant și simbolic, dedicat recunoașterii rolului fundamental al femeilor în societatea Guineei Ecuatoriale. Situată strategic în centrul orașului, piața se remarcă prin designul său peisagistic elegant, cu fântâni arteziene, zone verzi și alei largi umbrite de palmieri. Elementul central al pieței este o sculptură monumentală care onorează forța, grija și contribuția economică a femeilor din toate grupurile etnice ale țării. În fiecare seară, piața devine un loc de întâlnire popular pentru familii și tineri, oferind o atmosferă sigură și plăcută pentru socializare. Este mai mult decât un obiectiv turistic; este un monument cultural care promovează egalitatea de gen și progresul social, fiind martorul numeroaselor evenimente comunitare și celebrări naționale care însuflețesc inima orașului Bata.",
+      "factsAdvanced": [
+        "Piața a fost inaugurată pentru a sublinia politicile naționale de abilitare a femeilor.",
+        "Sculptura centrală este realizată în bronz și are un stil realist-socialist.",
+        "Este unul dintre cele mai bine întreținute spații verzi publice din Bata.",
+        "Găzduiește târguri artizanale sezoniere organizate de cooperativele de femei.",
+        "Sistemul de iluminat nocturn transformă piața într-o atracție vizuală majoră.",
+        "Piața este situată aproape de faimosul Paseo Marítimo din Bata.",
+        "Fântânile arteziene oferă un răcoare necesar în timpul amiezelor tropicale.",
+        "Reprezintă un punct de reper pentru demonstrațiile pașnice și adunările civice."
+      ]
+    },
+    {
+      "id": "bata-city-hall-new-landmarks-v2",
+      "descriptionAdvanced": "Noua Primărie din Bata este un edificiu administrativ impunător care reflectă procesul accelerat de urbanizare și modernizare a principalei metropole de pe continent. Situată într-o zonă de expansiune modernă a orașului, clădirea îmbină elemente arhitecturale contemporane cu simboluri naționale, având o prezență grandioasă și oficială. Sediul găzduiește serviciile municipale esențiale și consiliul local, fiind inima decizională pentru dezvoltarea infrastructurii urbane din Bata. Interiorul este dotat cu tehnologii moderne pentru digitalizarea serviciilor publice, facilitând interacțiunea cetățenilor cu administrația. Prin arhitectura sa deschisă și piațeta vastă din față, Primăria simbolizează o guvernare locală mai accesibilă și mai eficientă, fiind totodată o dovadă a investițiilor masive făcute pentru a transforma Bata într-un oraș de referință în Golful Guineei.",
+      "factsAdvanced": [
+        "Primăria administrează cel mai populat oraș din Guineea Ecuatorială.",
+        "Clădirea a fost finalizată ca parte a programului de modernizare a infrastructurii urbane.",
+        "Dispune de un amfiteatru modern pentru dezbateri publice și evenimente.",
+        "Arhitectura exterioară utilizează materiale locale rezistente la climatul maritim.",
+        "Sediul centralizează serviciile de urbanism, taxe locale și stare civilă.",
+        "Piața din fața primăriei este locul tradițional pentru festivitățile de Anul Nou.",
+        "Clădirea include zone verzi și parcări subterane pentru funcționari.",
+        "Este considerată una dintre cele mai frumoase primării din Africa Centrală."
+      ]
+    },
+    {
+      "id": "friendship-bridge-djibloho-landmarks-v2",
+      "descriptionAdvanced": "Podul Prieteniei din Djibloho (Ciudad de la Paz) este o structură iconică ce traversează cursul superior al râului Wele, fiind un simbol al nașterii noii capitale administrative a țării. Acest pod suspendat se remarcă prin designul său futurist, cu arcuri elegante și un sistem de iluminat spectaculos care îl transformă într-o sculptură luminoasă pe timpul nopții. Podul nu are doar o funcție practică, conectând diferite districte ale orașului în curs de construcție, ci reprezintă și legăturile de cooperare internațională care au făcut posibil acest proiect ambițios în inima pădurii tropicale. Traversarea podului oferă o perspectivă panoramică asupra dezvoltării urbane rapide din Djibloho și asupra naturii virgine înconjurătoare, fiind un punct de atracție major pentru delegațiile oficiale și vizitatorii dornici să vadă progresul celei mai noi metropole a Africii.",
+      "factsAdvanced": [
+        "Traversează râul Wele, principala arteră hidrografică a regiunii continentale.",
+        "Este situat în inima noii capitale, Ciudad de la Paz (Djibloho).",
+        "Designul podului a fost realizat de arhitecți internaționali de prestigiu.",
+        "Sistemul de iluminat LED poate schimba culorile în funcție de sărbătorile naționale.",
+        "Include trotuare largi pentru pietoni și piste de biciclete.",
+        "Podul a fost construit pentru a rezista debitelor mari ale râului în sezonul ploios.",
+        "Simbolizează trecerea de la trecutul colonial la viitorul modern al țării.",
+        "A apărut pe numeroase materiale de promovare turistică a noii capitale."
+      ]
+    },
+    {
+      "id": "malabo-general-hospital-landmarks-v2",
+      "descriptionAdvanced": "Spitalul General din Malabo este pilonul principal al sistemului de sănătate din capitala Guineei Ecuatoriale. Recent renovat și extins, spitalul oferă o gamă largă de servicii medicale specializate, de la medicină internă și chirurgie, până la secții moderne de pediatrie și maternitate. Facilitatea a fost dotată cu aparatură de diagnosticare de ultimă generație, inclusiv computere tomograf și laboratoare clinice avansate, pentru a reduce necesitatea tratamentelor în străinătate. Personalul medical include atât experți locali formați la universitatea națională, cât și specialiști internaționali în cadrul programelor de cooperare. Spitalul joacă un rol vital în gestionarea urgențelor și în campaniile de sănătate publică la nivel național. Pentru locuitorii insulei Bioko, spitalul reprezintă o garanție a accesului la îngrijiri de calitate, fiind un simbol al progresului social și al investițiilor în bunăstarea cetățenilor.",
+      "factsAdvanced": [
+        "Este cel mai mare spital public din regiunea insulară a țării.",
+        "A beneficiat de o modernizare completă finalizată în ultimii 5 ani.",
+        "Dispune de un centru de urgență operațional 24 de ore din 24.",
+        "Include o unitate specializată în tratarea bolilor tropicale endemice.",
+        "Capacitatea spitalului depășește 300 de paturi pentru pacienți internați.",
+        "Spitalul servește ca bază pentru programele de rezidențiat ale tinerilor medici.",
+        "Unitatea de dializă este una dintre cele mai moderne din Africa de Vest.",
+        "Accesul la serviciile de bază este subvenționat de stat pentru categoriile defavorizate."
+      ]
+    },
+    {
+      "id": "beac-building-malabo-landmarks-v2",
+      "descriptionAdvanced": "Sediul BEAC (Banca Statelor din Africa Centrală) din Malabo este o capodoperă a arhitecturii financiare moderne, dominând linia orizontului în districtul de afaceri Malabo II. Clădirea, sub formă de turn cu linii futuriste și fațadă de sticlă reflectorizantă, simbolizează stabilitatea și integrarea monetară a regiunii. Fiind sediul băncii centrale regionale în Guineea Ecuatorială, acest edificiu găzduiește birourile unde se coordonează politica monetară și se gestionează rezervele de franci CFA. Securitatea clădirii este la cele mai înalte standarde internaționale, reflectând importanța strategică a instituției. Din punct de vedere urbanistic, turnul BEAC este o ancoră vizuală pentru zona de expansiune a capitalei, reprezentând succesul financiar al țării și conectarea sa profundă cu structurile economice ale Africii Centrale. Este o dovadă concretă a modernizării instituționale și a profesionalismului în sectorul bancar național.",
+      "factsAdvanced": [
+        "Este una dintre cele mai înalte clădiri din Malabo și din întreaga țară.",
+        "BEAC este banca centrală comună pentru șase țări din Africa Centrală.",
+        "Turnul include seifuri de maximă securitate pentru activele monetare.",
+        "Arhitectura clădirii a fost proiectată pentru a rezista seismelor și coroziunii saline.",
+        "Sediul BEAC este un punct focal pentru conferințele financiare regionale.",
+        "Iluminatul nocturn al turnului este un element distinctiv al cartierului Malabo II.",
+        "Clădirea găzduiește și birouri de analiză economică la nivel regional.",
+        "Reprezintă participarea activă a țării în Uniunea Economică și Monetară a Africii Centrale (CEMAC)."
+      ]
+    },
+    {
+      "id": "malabo-mall-landmarks-v2",
+      "descriptionAdvanced": "Malabo Mall este cea mai modernă și extinsă destinație de cumpărături și divertisment din Guineea Ecuatorială, oferind o experiență de consum la standarde internaționale. Situat într-o locație accesibilă din capitală, mall-ul găzduiește o varietate de magazine de modă, electronice și accesorii, aducând branduri globale mai aproape de consumatorii locali. Pe lângă sectorul de retail, centrul comercial include un supermarket vast, un cinematograf modern și o zonă de restaurante (food court) care oferă atât preparate internaționale, cât și delicii locale. Malabo Mall a devenit un centru social important, fiind locul preferat de întâlnire pentru tineri și familii în special în weekend-uri. Facilitățile moderne, aerul condiționat și parcările sigure fac din acest spațiu o oază de confort urban, reflectând creșterea puterii de cumpărare și evoluția stilului de viață cosmopolit în principala metropolă a insulei Bioko.",
+      "factsAdvanced": [
+        "Este primul centru comercial de tip \"mall\" la scară largă din țară.",
+        "Cinematograul din interior este dotat cu tehnologie de proiecție digitală de ultimă oră.",
+        "Mall-ul dispune de o zonă de joacă acoperită pentru copii, foarte populară.",
+        "Include sedii de bănci și puncte de servicii pentru confortul clienților.",
+        "Găzduiește frecvent evenimente de lansare de produse și expoziții comerciale.",
+        "Arhitectura interioară este spațioasă, cu atrii luminate natural prin cupole de sticlă.",
+        "Centrul a creat sute de locuri de muncă în sectoarele retail și servicii.",
+        "Este o destinație-cheie pentru turiștii regionali care vizitează Malabo."
+      ]
+    },
+    {
+      "id": "iglesia-san-fernando-malabo-landmarks-v2",
+      "descriptionAdvanced": "Biserica San Fernando din Malabo este un edificiu religios istoric care păstrează farmecul arhitecturii sacre din perioada colonială spaniolă. Situată în cartierul cu același nume, biserica se distinge prin simplitatea sa elegantă, cu fațade vopsite în culori calde și o structură care a rezistat testului timpului. San Fernando servește ca inimă spirituală pentru comunitatea locală, fiind locul unde se desfășoară ritualuri religioase, botezuri și celebrări care unesc locuitorii zonei. Interiorul bisericii este marcat de o atmosferă de evlavie, cu decorațiuni tradiționale și un altar dedicat sfântului patron, care atrage credincioșii pentru rugăciune zilnică. În ciuda modernizării rapide a capitalei, biserica San Fernando rămâne un punct de stabilitate și tradiție, fiind un martor tăcut al istoriei sociale a Malabo-ului și un element esențial al patrimoniului arhitectural religios al insulei.",
+      "factsAdvanced": [
+        "Este una dintre parohiile active cele mai vechi din Malabo.",
+        "Arhitectura bisericii prezintă influențe specifice stilului colonial de coastă.",
+        "A fost renovată periodic pentru a-și păstra integritatea structurală.",
+        "Comunitatea San Fernando este renumită pentru corul său bisericesc.",
+        "Biserica joacă un rol activ în programele de caritate locale din cartier.",
+        "Sărbătoarea patronului San Fernando este marcată prin procesiuni și evenimente stradale.",
+        "Interiorul păstrează statui religioase aduse din Spania în secolul trecut.",
+        "Este un exemplu de conservare a patrimoniului în mijlocul dezvoltării urbane."
+      ]
+    },
+    {
+      "id": "torre-libertad-bata-history-v2",
+      "descriptionAdvanced": "Torre Libertad (Turnul Libertății) din Bata este cel mai faimos monument modern de pe continent, fiind construit pentru a comemora independența și suveranitatea Guineei Ecuatoriale. Inaugurat cu ocazia festivităților naționale, turnul se înalță spectaculos pe faleza orașului Bata, oferind o platformă de observație cu vederi panoramice de neegalat asupra Oceanului Atlantic și a întregii metropole. Designul său futurist, cu o bază robustă ce se îngustează spre vârf, simbolizează ascensiunea și aspirațiile națiunii către viitor. Noaptea, turnul este iluminat artistic, devenind un far de mândrie națională vizibil de la mulți kilometri distanță. Pentru locuitorii din Bata, Torre Libertad este locul principal pentru fotografii aniversare și un punct de reper esențial care definește noua identitate urbană a orașului, reprezentând simbioza dintre memoria istorică și ambiția modernizării statului.",
+      "factsAdvanced": [
+        "A fost inaugurat în anul 2011 de Ziua Independenței.",
+        "Include un restaurant panoramic rotativ în partea superioară.",
+        "Structura este construită pentru a rezista vânturilor oceanice puternice.",
+        "În vârful turnului este arborat permanent drapelul național.",
+        "Este cel mai înalt monument comemorativ de pe coasta Africii Centrale.",
+        "Platforma de observație oferă o vedere de 360 de grade asupra orașului Bata.",
+        "Turnul a devenit simbolul oficial al municipiului Bata.",
+        "Iluminatul exterior folosește tehnologie LED de ultimă generație pentru spectacole de lumini."
+      ]
+    },
+    {
+      "id": "mision-claretiana-baney-history-v2",
+      "descriptionAdvanced": "Misiunea Claretiană din Baney reprezintă un vestigiu istoric și religios fundamental pe insula Bioko, marcând eforturile de evanghelizare și educație din perioada colonială. Fondată de ordinul misionar al Fiilor Inimii Neprihănite a Mariei (Claretienii), misiunea a fost mult timp centrul spiritual și social al localității Baney. Complexul istoric cuprinde biserica parohială, clădirea fostei școli și locuințele misionarilor, toate construite într-un stil colonial sobru, adaptat mediului tropical. Misiunea a jucat un rol crucial în alfabetizarea și asistența medicală a populației Bubi din zonă, lăsând o moștenire culturală care se resimte și astăzi în tradițiile locale. O vizită la misiunea din Baney oferă o privire retrospectivă asupra interacțiunilor complexe dintre misionarii europeni și comunitățile locale, păstrând o atmosferă de liniște și memorie istorică în mijlocul livezilor luxuriante de cacao și banane.",
+      "factsAdvanced": [
+        "Misiunea a fost stabilită la sfârșitul secolului al XIX-lea.",
+        "Claretienii au fost principalul ordin religios responsabil de educația în colonie.",
+        "Biserica misiunii păstrează registre parohiale care datează de peste 100 de ani.",
+        "Arhitectura clădirilor folosește piatră vulcanică locală și lemn de esență tare.",
+        "Misiunea a servit ca model pentru dezvoltarea altor centre rurale pe insulă.",
+        "În prezent, clădirile găzduiesc activități comunitare și religioase active.",
+        "Grădinile misiunii conțin specii de plante introduse de primii misionari.",
+        "Este un obiectiv protejat în cadrul patrimoniului istoric religios național."
+      ]
+    },
+    {
+      "id": "puerto-iradier-history-v2",
+      "descriptionAdvanced": "Portul Iradier din Cogo, numit după celebrul explorator spaniol Manuel Iradier, este un loc de o importanță istorică excepțională, fiind unul dintre primele puncte de contact europene în estuarul râului Muni. Acest vechi port colonial a servit drept bază pentru explorările continentale și pentru comerțul cu resurse naturale în secolele al XIX-lea și începutul secolului al XX-lea. Astăzi, ruinele depozitelor și fundațiile clădirilor administrative de odinioară evocă epoca explorărilor și a primelor interacțiuni comerciale în regiune. Puerto Iradier oferă o atmosferă nostalgică, fiind situat într-un cadru natural spectaculos, unde apele estuarului se întâlnesc cu jungla densă. Importanța sa istorică este recunoscută ca punct de plecare al cartografierii moderne a regiunii Río Muni, rămânând un simbol al spiritului de aventură și al complexității istoriei coloniale a Guineei Ecuatoriale pe continent.",
+      "factsAdvanced": [
+        "Manuel Iradier a explorat regiunea în două expediții majore (1875 și 1884).",
+        "Portul a fost un centru vital pentru colectarea fildeșului și a lemnului prețios.",
+        "Cogo a fost inițial cunoscut sub numele spaniol de Puerto Iradier.",
+        "Locația oferă o vedere strategică asupra estuarului Muni și a insulelor Elobey.",
+        "Există planuri pentru restaurarea zonelor istorice ca obiectiv de turism cultural.",
+        "Portul a fost martorul stabilirii granițelor dintre coloniile spaniolă și franceză.",
+        "Multe dintre barăcile vechi au fost construite cu materiale aduse direct din Spania.",
+        "Rămâne un loc de referință în literatura de călătorie despre Africa de Vest."
+      ]
+    },
+    {
+      "id": "iglesia-pale-history-v2",
+      "descriptionAdvanced": "Biserica din San Antonio de Palé, situată pe izolata insulă Annobón, este un monument istoric și spiritual unic, reflectând identitatea catolică profundă a insulei modelată de secole de izolare. Această biserică modestă ca dimensiuni, dar imensă ca semnificație, a fost inima comunității annoboneze, fiind locul unde s-au păstrat tradițiile religioase specifice insulei, inclusiv dialecul \"Fa d''Ambu\" folosit în unele ritualuri. Arhitectura sa robustă a fost concepută pentru a rezista condițiilor maritime aspre și coroziunii saline. Biserica este martora istoriei tumultuoase a insulei, de la descoperirea sa de către portughezi până la transferul către coroana spaniolă. Interiorul simplu, decorat cu statui venerate de localnici, emană o spiritualitate autentică. Pentru vizitatori, biserica din Palé reprezintă un simbol al rezilienței culturale a unui popor care, în ciuda distanței față de continent, și-a păstrat credința și unitatea socială în jurul acestui lăcaș sfânt.",
+      "factsAdvanced": [
+        "Annobón a fost singura insulă din Golful Guineei care a rămas integral catolică.",
+        "Biserica originală a fost construită în perioada portugheză și ulterior reconstruită.",
+        "Clopotele bisericii au servit istoric ca sistem de avertizare pentru populație.",
+        "Multe dintre decorațiunile interioare sunt realizate de meșteșugari locali annobonezi.",
+        "Biserica este situată în centrul localității Palé, aproape de țărmul oceanului.",
+        "Procesiunile de Săptămâna Mare de aici sunt printre cele mai autentice din țară.",
+        "Edificiul a fost restaurat cu sprijin guvernamental pentru a preveni degradarea.",
+        "Reprezintă nucleul identității \"Anobonesa\" în cadrul Guineei Ecuatoriale."
+      ]
+    },
+    {
+      "id": "monumento-independencia-malabo-history-v2",
+      "descriptionAdvanced": "Monumento a la Independencia din Malabo este cel mai sacru simbol civic al Guineei Ecuatoriale, situat în inima istorică a capitalei, în Plaza de la Independencia. Acest monument a fost ridicat pentru a onora proclamarea oficială a independenței față de Spania la 12 octombrie 1968, momentul în care națiunea a devenit suverană. Monumentul se remarcă prin designul său simbolic, integrând stema națională și efigiile care reprezintă unitatea popoarelor de pe insule și continent. Piața în care se află este locul unde se desfășoară cele mai importante ceremonii de stat, inclusiv depunerile de coroane în zilele de sărbătoare națională. Înconjurat de clădiri coloniale administrative și de catedrala catolică, monumentul este un punct focal al memoriei colective, amintind permanent cetățenilor de sacrificiul strămoșilor și de valoarea libertății într-un stat modern în plină ascensiune.",
+      "factsAdvanced": [
+        "Comemorează data istorică de 12 octombrie 1968.",
+        "Este situat în locul unde a fost arborat pentru prima dată steagul național.",
+        "Designul monumentului include cele șase stele care reprezintă teritoriile țării.",
+        "Piața Independenței este zona de protocol zero a capitalei Malabo.",
+        "Monumentul a fost renovat cu ocazia celebrării a 50 de ani de independență.",
+        "Este un loc obligatoriu de vizitat pentru toate delegațiile străine oficiale.",
+        "Arhitectura pieței păstrează layout-ul original din perioada spaniolă.",
+        "Simbolizează sfârșitul regimului colonial în singura țară hispanofonă din regiune."
+      ]
+    },
+    {
+      "id": "centro-historico-evinayong-history-v2",
+      "descriptionAdvanced": "Centrul istoric al orașului Evinayong, situat pe platoul central al regiunii Río Muni, păstrează o atmosferă unică de oraș colonial montan. Fiind sediul administrativ al provinciei Centro Sur, zona centrală a orașului este marcată de clădiri cu arhitectură spaniolă de la mijlocul secolului al XX-lea, cu balcoane din lemn și acoperișuri de țiglă, adaptate climatului mai răcoros de munte. Străzile pavate și piețele liniștite evocă o epocă în care Evinayong era un centru strategic pentru controlul interiorului continentului. Acest cartier istoric este un depozit de memorie socială, unde s-au intersectat culturile administratorilor coloniali și cele ale populației Fang de pe continent. O plimbare prin centrul vechi oferă o perspectivă asupra planificării urbane din epoca \"Provinciei Spaniole a Guineei\", fiind unul dintre puținele orașe de interior care și-a păstrat atât de bine configurația și clădirile originale de patrimoniu.",
+      "factsAdvanced": [
+        "Evinayong a fost fondat ca punct strategic la altitudinea de aproximativ 600 de metri.",
+        "Centrul istoric include clădirea guvernului provincial și vechea poștă.",
+        "Climatul de munte a favorizat conservarea structurilor din lemn mai bine decât pe coastă.",
+        "Orașul este numit \"San José de Evinayong\" în documentele istorice vechi.",
+        "Arhitectura prezintă o combinație de stiluri europene și materiale locale.",
+        "Piața centrală este locul unde se desfășoară toate paradele provinciale.",
+        "Multe clădiri au fost restaurate pentru a servi ca birouri moderne, păstrând fațada.",
+        "Reprezintă cel mai bun exemplu de urbanism colonial de interior din regiune."
+      ]
+    },
+    {
+      "id": "cathedral-ebebiyin-history-v2",
+      "descriptionAdvanced": "Catedrala din Ebebiyín, situată la intersecția granițelor dintre Guineea Ecuatorială, Gabon și Camerun, este un monument religios impunător și un centru spiritual crucial pentru nord-estul țării. Această catedrală modernă se remarcă prin dimensiunile sale generoase și arhitectura care îmbină verticalitatea gotică cu elemente tropicale. Fiind sediul Diecezei de Ebebiyín, edificiul simbolizează prezența puternică a bisericii în regiunea continentală și rolul său de factor de coeziune socială. Interiorul catedralei este spațios și luminos, oferind un loc de refugiu și rugăciune pentru miile de pelerini care vizitează orașul în timpul marilor sărbători. Importanța sa depășește sfera religioasă, catedrala fiind un simbol al dezvoltării urbane a orașului Ebebiyín, transformat dintr-un punct de frontieră într-un centru cultural și administrativ de referință în provincia Kié-Ntem.",
+      "factsAdvanced": [
+        "Este sediul uneia dintre cele mai tinere dieceze din țară, înființată în 1982.",
+        "Arhitectura include vitralii colorate ce înfățișează scene biblice în context african.",
+        "Catedrala a fost locul unor importante întâlniri ecumenice regionale.",
+        "Este un punct de reper vizibil din punctele de frontieră învecinate.",
+        "Fațada principală se remarcă prin turnurile sale simetrice și înalte.",
+        "Piața catedralei a fost recent reamenajată cu iluminat modern și fântâni.",
+        "Găzduiește un cor de tineret renumit în întreaga regiune Kié-Ntem.",
+        "Reprezintă mândria comunității catolice din zona celor trei frontiere."
+      ]
+    },
+    {
+      "id": "mision-niefang-history-v2",
+      "descriptionAdvanced": "Misiunea istorică din Niefang este un centru de patrimoniu situat în inima regiunii Río Muni, jucând un rol esențial în istoria educației și a sănătății din interiorul Guineei Ecuatoriale. Stabilită strategic la trecătoarea naturală peste râul Benito, misiunea cuprinde o biserică veche de piatră, un dispensar și fostele locuințe parohiale, toate construite într-un stil colonial funcțional. Această instituție a fost mult timp singurul furnizor de servicii sociale pentru satele din provincia Centro Sur, fiind locul unde generații de tineri au primit prima educație formală. Misiunea din Niefang reflectă perseverența ordinelor religioase în medii tropicale dificile și integrarea treptată a populației rurale în structurile moderne. Astăzi, complexul rămâne un punct de reper cultural și spiritual, păstrând vie memoria eforturilor misionare și a transformărilor sociale care au marcat centrul geografic al țării pe continent.",
+      "factsAdvanced": [
+        "Misiunea a servit ca bază logistică pentru explorarea interiorului continentului.",
+        "Biserica este construită din blocuri de granit masiv tăiate manual.",
+        "Niefang înseamnă \"limita Fang\" în limba locală, reflectând contextul etnic.",
+        "Școala misiunii a format mulți dintre liderii locali ai perioadei post-independență.",
+        "Complexul este situat pe o colină cu vedere panoramică asupra râului Benito.",
+        "Grădinile misiunii sunt renumite pentru arborii de mango seculari.",
+        "A supraviețuit perioadelor de instabilitate, rămânând un pilon al comunității.",
+        "Include un mic cimitir istoric unde sunt îngropați pionierii misiunii."
+      ]
+    },
+    {
+      "id": "museo-nacional-history-v2",
+      "descriptionAdvanced": "Muzeul Național din Malabo este principala instituție de conservare a memoriei culturale și a identității naționale din Guineea Ecuatorială. Găzduit într-o clădire istorică elegantă, muzeul adăpostește o colecție vastă de artefacte care ilustrează istoria bogată și diversă a popoarelor Bubi, Fang, Ndowe, Bisio și Annobonez. Vizitatorii pot admira măști ritualice tradiționale, instrumente muzicale unice, unelte de vânătoare și obiecte de uz cotidian care reflectă măiestria artizanilor locali. O secțiune specială a muzeului este dedicată epocii coloniale și luptei pentru independență, oferind documente și fotografii rare. Muzeul Național nu este doar un spațiu de expoziție, ci și un centru de cercetare care promovează înțelegerea rădăcinilor ancestrale ale națiunii într-un context modern. O vizită aici este esențială pentru oricine dorește să descopere sufletul acestei țări fascinante și modul în care tradițiile sale străvechi continuă să modeleze societatea contemporană.",
+      "factsAdvanced": [
+        "Colecția permanentă include artefacte pre-coloniale descoperite în situri arheologice de pe insulă.",
+        "Muzeul organizează expoziții temporare de artă contemporană ecuatoguineeană.",
+        "Este situat în centrul istoric al orașului Malabo, aproape de Palatul Poporului.",
+        "Include o secțiune de istorie naturală dedicată florei și faunei endemice.",
+        "Ghidajul este disponibil în limbile spaniolă, franceză și engleză.",
+        "Clădirea muzeului în sine este un monument protejat de arhitectură colonială.",
+        "Programul educațional al muzeului include ateliere pentru copiii de vârstă școlară.",
+        "Piesa centrală a colecției este o marimba tradițională regală din secolul al XIX-lea."
+      ]
+    },
+    {
+      "id": "palacio-moca-history-v2",
+      "descriptionAdvanced": "Palacio de Moca (Palatul din Moca) este o clădire istorică legendară situată în inima montană a insulei Bioko, fiind strâns legată de monarhia tradițională a poporului Bubi. Acest edificiu, construit într-un stil care îmbină elemente coloniale cu preferințele aristocrației locale, a servit drept reședință pentru regii Bubi, în special pentru regele Malabo după care este numită capitala. Situat pe platoul Moca, într-un peisaj de o frumusețe rară, palatul a fost centrul puterii politice și spirituale indigene în perioada de tranziție către administrația colonială. Deși timpul și-a lăsat amprenta asupra structurii, ruinele și zonele conservate păstrează o aură de demnitate și mister. Palatul din Moca este un simbol al rezistenței și al mândriei culturale a insulei, fiind locul unde se luau deciziile importante privind destinul poporului Bubi în armonie cu forțele naturii din jurul vulcanilor stinși.",
+      "factsAdvanced": [
+        "Moca a fost capitala spirituală a poporului Bubi înainte de fondarea Malabo.",
+        "Palatul a fost reședința oficială a Regelui Malabo al II-lea.",
+        "Este situat în Valea Moca, la o altitudine de peste 1.200 de metri.",
+        "Arhitectura clădirii folosea lemn local tratat după metode ancestrale.",
+        "Zona palatului era considerată sacră, accesul fiind reglementat de consiliul bătrânilor.",
+        "Multe legende locale vorbesc despre comorile și documentele ascunse în palat.",
+        "Astăzi este un sit de pelerinaj cultural pentru urmașii dinastiei Bubi.",
+        "Reprezintă o verigă esențială în înțelegerea structurilor sociale pre-coloniale de pe insulă."
+      ]
+    },
+    {
+      "id": "faro-punta-unidad-history-v2",
+      "descriptionAdvanced": "Farul Punta Unidad este un simbol al siguranței maritime și al unității naționale, situat într-un punct strategic pe coasta Guineei Ecuatoriale. Acest far istoric a ghidat generații de marinari prin apele adesea periculoase ale Golfului Guineei, marcând rutele comerciale vitale pentru dezvoltarea țării. Arhitectura farului este robustă și utilitară, dar prezența sa solitară pe țărmul stâncos îi conferă o frumusețe poetică. Dincolo de funcția sa tehnică de navigație, farul a fost martorul schimbărilor istorice majore, de la perioada colonială până la era modernă a explorărilor petroliere. Punta Unidad oferă vederi spectaculoase asupra oceanului, fiind un loc preferat pentru turiștii care caută liniște și peisaje marine autentice. Farul rămâne un monument activ și un punct de reper esențial în memoria comunităților de pescari, simbolizând speranța și continuitatea într-o țară definită de legătura sa profundă cu marea.",
+      "factsAdvanced": [
+        "Farul este situat într-un punct unde curenții marini sunt deosebit de puternici.",
+        "Sistemul de iluminat a fost modernizat de la lămpi cu ulei la sisteme solare automate.",
+        "Înălțimea turnului permite o vizibilitate a semnalului luminos de până la 20 de mile marine.",
+        "Este inclus pe lista monumentelor de patrimoniu maritim național.",
+        "Zona din jurul farului este cunoscută pentru bogăția faunei marine, inclusiv delfini.",
+        "A servit istoric ca punct de observație împotriva pirateriei în epoca colonială.",
+        "Drumul de acces către far trece prin zone de pădure tropicală costieră virgină.",
+        "Este un simbol grafic utilizat frecvent în logo-urile companiilor maritime locale."
+      ]
+    },
+    {
+      "id": "plaza-reloj-malabo-history-v2",
+      "descriptionAdvanced": "Plaza del Reloj (Piața Ceasului) din Malabo este unul dintre cele mai pitorești și populare locuri istorice din centrul capitalei. Piața își trage numele de la turnul cu ceas iconic care domină spațiul, fiind un punct de întâlnire tradițional pentru locuitori de peste un secol. Arhitectura înconjurătoare păstrează clădiri colorate din perioada colonială, cu porticuri și arcade care oferă umbră și un aer mediteranean în inima Africii. Plaza del Reloj a fost martora numeroaselor evenimente sociale, de la piețe matinale zgomotoase la plimbări de seară liniștite ale familiilor. Este inima comercială și socială a cartierului istoric, unde ritmul modern al vieții se întâlnește cu nostalgia trecutului. Pentru vizitatori, piața este locul ideal pentru a simți pulsul autentic al orașului Malabo, bucurându-se de cafenelele locale și admirând detaliile arhitecturale care fac din capitală un oraș cu o identitate vizuală inconfundabilă.",
+      "factsAdvanced": [
+        "Turnul cu ceas este un mecanism original adus din Europa la începutul secolului XX.",
+        "Piața este situată la intersecția unor artere comerciale istorice majore.",
+        "Clădirile adiacente găzduiește unele dintre cele mai vechi magazine din oraș.",
+        "A fost recent pavată cu piatră cubică pentru a-i reda aspectul de epocă.",
+        "Ceasul este considerat \"ora oficială\" a centrului istoric pentru localnici.",
+        "Piața găzduiește frecvent artiști stradali și mici concerte în aer liber.",
+        "Este situată la mică distanță de Catedrala Sfânta Isabel.",
+        "În timpul perioadei coloniale, era centrul administrativ al districtului comercial."
+      ]
+    },
+    {
+      "id": "antiguo-puerto-luba-history-v2",
+      "descriptionAdvanced": "Anticuo Puerto de Luba (Vechiul Port Luba) este un sit istoric fascinant care amintește de perioada în care orașul era principalul punct de export al boabelor de cacao de pe insula Bioko. Înainte de modernizarea industrială actuală, portul vechi funcționa cu dane de lemn și depozite de piatră unde sacii de cacao erau încărcați manual pe navele de marfă spaniole. Astăzi, zona portului vechi păstrează ruinele acestor structuri, care, deși degradate, oferă o perspectivă romantică și melancolică asupra trecutului agricol al regiunii. Situat într-un golf natural protejat de valurile Atlanticului, portul vechi rămâne un loc de referință pentru comunitatea de pescari locali care își ancorează pirogile colorate lângă vechile fundații. O plimbare prin această zonă dezvăluie istoria muncii grele și a prosperității de odinioară, fiind un monument tăcut al epocii de aur a ciocolatei care a făcut insula celebră în întreaga lume.",
+      "factsAdvanced": [
+        "Luba a fost inițial numit \"San Carlos\" în perioada colonială spaniolă.",
+        "Portul vechi a fost poarta de ieșire pentru peste 50% din producția de cacao a insulei.",
+        "Ruinele depozitelor păstrează elemente de arhitectură industrială timpurie.",
+        "Golful natural oferă unele dintre cele mai calme ape din întreaga țară.",
+        "Este situat în imediata apropiere a centrului orașului Luba.",
+        "Multe dintre clădirile vechi au fost construite din piatră de munte și var.",
+        "Zona este ideală pentru explorarea istoriei coloniale a comerțului maritim.",
+        "Pirogile pescarilor de astăzi folosesc aceleași rute de ieșire ca vapoarele de odinioară."
+      ]
+    },
+    {
+      "id": "mausoleo-mongomo-history-v2",
+      "descriptionAdvanced": "Mausoleul din Mongomo este un monument funerar grandios și un spațiu de memorie istorică, situat în orașul natal al multora dintre liderii politici ai Guineei Ecuatoriale. Acest edificiu arhitectural impunător a fost construit pentru a onora memoria figurilor istorice importante care au contribuit la formarea și consolidarea statului modern. Designul mausoleului îmbină solemnitatea neoclasică cu motive artistice locale, fiind înconjurat de grădini meticulos întreținute și pavilioane de reculegere. Interiorul, decorat cu marmură și detalii aurite, emană o atmosferă de respect și recunoștință națională. Mausoleul joacă un rol central în panteonul național, fiind locul unde se organizează ceremonii oficiale de comemorare și vizite de stat. Pentru locuitorii provinciei Wele-Nzas și pentru toți cetățenii, mausoleul este un simbol al continuității și al onorării trecutului în cadrul efortului de construcție a viitorului națiunii.",
+      "factsAdvanced": [
+        "Include mormintele unor figuri centrale ale istoriei contemporane a țării.",
+        "Arhitectura a fost realizată de experți internaționali în monumente funerare de stat.",
+        "Este situat pe o colină dominantă în orașul Mongomo.",
+        "Sălile interioare găzduiesc expoziții despre viața și cariera liderilor îngropați aici.",
+        "Accesul este reglementat prin protocoale de securitate și respect civic.",
+        "Mausoleul este o piesă centrală a urbanismului monumental din Mongomo.",
+        "Piatra folosită pentru construcție a fost adusă special din cariere de renume mondial.",
+        "Simbolizează unitatea de neclintit a clanului și a națiunii în jurul valorilor istorice."
+      ]
+    },
+    {
+      "id": "ayuntamiento-malabo-history-v2",
+      "descriptionAdvanced": "Ayuntamiento de Malabo (Vechea Primărie) este o bijuterie arhitecturală situată în centrul civic al capitalei, reprezentând un monument istoric al administrației municipale. Clădirea, construită în stil spaniol clasic, cu balcoane din fier forjat și ferestre înalte, a servit timp de decenii ca centru al deciziilor administrative care au modelat viața urbană a orașului. Situată în apropierea Plaza de la Independencia, primăria este martora evoluției Malabo-ului de la o mică așezare portuară la o capitală modernă și cosmopolită. Fațada clădirii, cu stema istorică a orașului, este un element iconic al cartierului administrativ. Deși multe funcții administrative s-au mutat în sedii noi, vechea primărie rămâne un simbol al continuității instituționale și al patrimoniului istoric spaniol, fiind un obiectiv de interes major pentru cei pasionați de arhitectura administrativă de epocă în Africa.",
+      "factsAdvanced": [
+        "A fost sediul primului consiliu municipal stabilit pe insulă.",
+        "Clădirea datează din prima jumătate a secolului XX.",
+        "Găzduiește arhiva istorică a orașului Malabo.",
+        "Arhitectura reflectă rigoarea administrativă a epocii coloniale târzii.",
+        "Este situată pe strada principală care leagă portul de palatul prezidențial.",
+        "Interiorul păstrează sala de consiliu originală cu mobilier din lemn masiv.",
+        "A fost renovată cu grijă pentru a păstra detaliile ornamentale exterioare.",
+        "Reprezintă unul dintre cele mai bine conservate sedii de primărie din fostele colonii spaniole."
+      ]
+    }
+  ]
+}

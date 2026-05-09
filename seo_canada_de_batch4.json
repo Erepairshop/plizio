@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nanticoke-steel-plant-economic-v2",
+      "descriptionAdvanced": "Das Stahlwerk in Nanticoke, Ontario, am Ufer des Eriesees, ist eines der größten und modernsten seiner Art in Nordamerika und ein Rückgrat der kanadischen Schwerindustrie. Die unmittelbare Nähe zu den Großen Seen ermöglicht eine effiziente Rohstoffzufuhr und den einfachen Transport von Stahlprodukten zu den Automobil- und Fertigungszentren in Ontario und den USA. Das Werk ist ein Paradebeispiel für die Bedeutung der kanadischen Metallurgie im globalen Wettbewerb. Wirtschaft K7 — Schwerindustrie und Fertigung.",
+      "factsAdvanced": [
+        "Großes Stahlwerk an den Großen Seen",
+        "Eines der größten Stahlwerke Nordamerikas",
+        "Zentraler Akteur der kanadischen Schwerindustrie",
+        "Effiziente Transportwege via Große Seen",
+        "Wichtiger Zulieferer für die Automobilindustrie",
+        "Symbol für die industrielle Leistungsfähigkeit Ontarios"
+      ]
+    },
+    {
+      "id": "columbia-river-hydro-economic-v2",
+      "descriptionAdvanced": "Die Wasserkraftwerke am Columbia River in British Columbia nutzen die enorme Fließkraft des Flusssystems zur großflächigen Erzeugung regenerativer Energie. Diese Stromproduktion ist die Basis für die energieintensive Schwerindustrie in der gesamten Region, einschließlich Aluminiumschmelzen und anderer industrieller Prozesse. Die Anlage unterstreicht Kanadas führende Rolle bei der Nutzung nachhaltiger Ressourcen zur Stärkung der regionalen Wirtschaft. Geografie K7 — Wasserkraft und erneuerbare Energien.",
+      "factsAdvanced": [
+        "Große Wasserkraftanlage zur Stromerzeugung",
+        "Basis für energieintensive Schwerindustrie",
+        "Beitrag zur Energiewende in Kanada",
+        "Nutzung einer wichtigen regenerativen Energiequelle",
+        "Zentraler Faktor für das regionale Wirtschaftswachstum",
+        "Nachhaltige Nutzung des Flusssystems"
+      ]
+    },
+    {
+      "id": "hamilton-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Hamilton, strategisch gelegen am westlichen Ende des Ontariosees, ist einer der bedeutendsten Binnenhäfen Kanadas und ein zentraler Akteur im industriellen Kernland von Ontario. Er dient als lebenswichtige Schnittstelle für den Umschlag von industriellen Rohstoffen wie Eisenerz, Kohle und Stahl, die für die kanadische Produktion essentiell sind. Die Hafenlogistik ist damit ein unverzichtbarer Teil der regionalen Wertschöpfungskette. Geografie K7 — Binnenhäfen und Logistik.",
+      "factsAdvanced": [
+        "Wichtiger Binnenhafen an den Großen Seen",
+        "Zentraler Akteur im industriellen Kernland Ontarios",
+        "Lebenswichtige Schnittstelle für Rohstoffumschlag",
+        "Wichtiger Umschlagpunkt für Stahl und Kohle",
+        "Essentiell für die industrielle Wertschöpfungskette",
+        "Strategische Anbindung an die Handelszentren"
+      ]
+    },
+    {
+      "id": "sarnia-petrochemical-economic-v2",
+      "descriptionAdvanced": "Sarnia, oft als 'Chemical Valley' bezeichnet, beherbergt einen der dichtesten und bedeutendsten Komplexe der petrochemischen Industrie in Nordamerika. Die Infrastruktur basiert auf einer engen Integration von Raffinerien und spezialisierten Produktionsanlagen für Kunststoffe und Chemikalien, die weit über Kanada hinaus exportiert werden. Der Industriepark bildet das wirtschaftliche Zentrum der Region und ist ein entscheidender Faktor für die petrochemische Versorgung der nordamerikanischen Fertigung. Wirtschaft K8 — Petrochemie und Industriecluster.",
+      "factsAdvanced": [
+        "Großer Standort der petrochemischen Industrie",
+        "Bezeichnung 'Chemical Valley' für hohe Dichte",
+        "Integration von Raffinerien und Produktion",
+        "Wichtige Produktion von Kunststoffen",
+        "Exportorientiertes Industriecluster",
+        "Zentraler Beitrag zur petrochemischen Versorgung Nordamerikas"
+      ]
+    },
+    {
+      "id": "vancouver-grain-terminals-economic-v2",
+      "descriptionAdvanced": "Die Getreideterminals in Vancouver sind für Kanada von strategischer Bedeutung, da sie den Hauptausgangspunkt für den Export landwirtschaftlicher Produkte aus den westlichen Provinzen auf den asiatischen Markt bilden. Die hocheffiziente Infrastruktur ermöglicht eine schnelle Verladung großer Mengen Getreide, was die kanadische Agrarökonomie wettbewerbsfähig gegenüber globalen Produzenten macht. Dies unterstreicht die Rolle Vancouver als maritimes Tor zum Pazifik für Kanadas wichtigste Exportgüter. Geografie K7 — Agrarexport und Schifffahrt.",
+      "factsAdvanced": [
+        "Spezialisierte Terminals für Getreideexporte",
+        "Strategischer Ausgangspunkt für Asien-Exporte",
+        "Wettbewerbsvorteil durch hocheffiziente Logistik",
+        "Zentral für die kanadische Agrarökonomie",
+        "Maritimes Tor zum Pazifik",
+        "Verladung von massiven Getreidemengen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bangweulu-swamp-nature-v2",
+      "descriptionAdvanced": "Mlaștinile Bangweulu reprezintă unul dintre cele mai importante și complexe sisteme de zone umede din Africa, situat în nordul Zambiei. Caracterizat prin covoare dense de papirus, canale deschise și inundații sezoniere, acest areal oferă un refugiu esențial pentru specii rare, precum barza-pantof, și susține o diversitate biologică remarcabilă. Fluctuarea nivelului apei influențează direct ecosistemul, oferind zone de reproducere pentru pești și susținând economia locală prin pescuitul tradițional, totul într-un peisaj sălbatic și nealterat.",
+      "factsAdvanced": [
+        "Unul dintre cele mai semnificative sisteme de zone umede din Africa",
+        "Acasă pentru barza-pantof, o specie extrem de rară",
+        "Arealul acoperă aproximativ 3000 de kilometri pătrați",
+        "Zona principală de reproducere pentru peștii indigeni",
+        "Bază vitală pentru comunitățile locale de pescari",
+        "Zona desemnată ca sit important pentru păsări (IBA) global",
+        "Dinamica extremă a inundațiilor sezoniere"
+      ]
+    },
+    {
+      "id": "luangwa-river-nature-v2",
+      "descriptionAdvanced": "Râul Luangwa este un afluent major al fluviului Zambezi și reprezintă una dintre cele mai importante artere vitale ale Zambiei pentru conservarea faunei. Valea Luangwa este faimoasă la nivel mondial pentru concentrația impresionantă de animale sălbatice, inclusiv populații semnificative de elefanți și leoparzi, care populează parcurile naționale din regiune. Dinamica hidrologică sezonieră, marcată de variații mari ale debitului, dictează ciclul biologic al întregii regiuni, transformând valea într-un centru esențial pentru ecoturism și cercetarea faunei africane.",
+      "factsAdvanced": [
+        "Afluent major al fluviului Zambezi în estul Zambiei",
+        "Lungimea cursului este de aproximativ 770 kilometri",
+        "Pilon central al Parcului Național South Luangwa",
+        "Găzduiește populații excepționale de elefanți și leoparzi",
+        "Caracterizat prin variații hidrologice sezoniere extreme",
+        "Element vital pentru supraviețuirea faunei locale",
+        "Centru recunoscut pentru safari și ecoturism"
+      ]
+    },
+    {
+      "id": "lake-mweru-nature-v2",
+      "descriptionAdvanced": "Lacul Mweru este un lac întins situat la granița dintre Zambia și Republica Democrată Congo, fiind o componentă centrală a sistemului hidrografic al râului Luapula. Regiunea lacului joacă un rol istoric și economic crucial în pescuitul comercial, susținând numeroase comunități locale prin bogăția sa piscicolă. zonele cu apă mai puțin adâncă și mlaștinile perimetrale oferă un mediu optim pentru păsările de apă și diverse specii de reptile. Climatul și geografia lacului îl transformă într-un nod ecologic vital pentru nordul țării.",
+      "factsAdvanced": [
+        "Lac de frontieră între Zambia și RD Congo",
+        "Cel mai important lac natural din nordul Zambiei",
+        "Alimentat în principal de râul Luapula",
+        "Lungimea atinge aproximativ 131 de kilometri",
+        "Lățimea medie de aproximativ 56 de kilometri",
+        "Centru strategic pentru comerțul regional de pește",
+        "Ecosistem complex pentru păsări și reptile"
+      ]
+    },
+    {
+      "id": "kafue-river-nature-v2",
+      "descriptionAdvanced": "Râul Kafue este cel mai lung râu care curge integral pe teritoriul Zambiei, parcurgând 1576 de kilometri prin diverse peisaje. Râul alimentează Parcul Național Kafue, cea mai vastă arie protejată din țară, și lacul de acumulare Itezhi-Tezhi. De-a lungul cursului său, câmpiile inundabile creează pășuni bogate pentru fauna sălbatică și furnizează resurse vitale pentru irigații și agricultură. Râul Kafue este o componentă esențială a sistemului hidrografic al Zambezilor, având un rol fundamental în gestionarea resurselor de apă ale țării.",
+      "factsAdvanced": [
+        "Cel mai lung râu care curge în întregime în Zambia",
+        "Lungime totală de aproximativ 1576 de kilometri",
+        "Pilon ecologic pentru Parcul Național Kafue",
+        "Sursă vitală de apă pentru irigații agricole",
+        "Afluent semnificativ al fluviului Zambezi",
+        "Susține diverse ecosisteme de luncă",
+        "Element cheie în gestionarea resurselor hidrice naționale"
+      ]
+    }
+  ]
+}

@@ -2,38 +2,280 @@
   "lang": "de",
   "country": "gambia",
   "files": [
-    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "albreda-cities-v2",
-      "descriptionAdvanced": "Albreda ist ein geschichtsträchtiger Handelsposten am Nordufer des Gambia-Flusses, der auf eine bewegte koloniale Vergangenheit zurückblickt. Die Stadt ist vor allem für ihre historische Rolle als französischer Handelsposten und ihre Verstrickung in den transatlantischen Sklavenhandel bekannt. Heute ist Albreda ein integraler Bestandteil eines UNESCO-Welterbes, das die Erinnerung an diese dunkle Epoche wachhält und Besuchern Einblicke in die Auswirkungen der Kolonialisierung auf die Region gibt. Die Auseinandersetzung mit dieser Vergangenheit ist ein zentraler Bestandteil der heutigen kulturellen Identität von Albreda. Geschichte K8 — Kolonialismus und historisches Erbe.",
-      "factsAdvanced": ["Ehemaliger französischer Handelsposten.", "Teil des UNESCO-Welterbes.", "Historische Verbindungen zum Sklavenhandel.", "Wichtiger Ort des kolonialen Erbes.", "Zeugnis der transatlantischen Geschichte.", "Kulturelle Auseinandersetzung mit der Vergangenheit.", "Lage am Nordufer des Gambia-Flusses."]
+      "id": "fajara-cliffs-relief-v2",
+      "descriptionAdvanced": "Die Fajara-Klippen sind eine markante geologische Formation an der Atlantikküste Gambias und bieten eine spektakuläre Kulisse für eines der exklusivsten Wohngebiete des Landes. Diese rötlichen Lateritklippen ragen steil über dem Meer auf und zeugen von den jahrtausendelangen Erosionsprozessen durch den Ozean. Geografisch bilden sie eine natürliche Barriere und bieten Schutz vor Küstenerosion, während sie gleichzeitig atemberaubende Aussichtspunkte für Naturbeobachter darstellen. Die Klippen sind ein wichtiger Lebensraum für verschiedene Greifvögel und bieten einen Einblick in die geologische Zusammensetzung der Kombo-Halbinsel. Trotz der touristischen Entwicklung bewahren die Fajara-Klippen ihre wilde, raue Schönheit und sind ein Symbol für die dynamische Schnittstelle zwischen Land und Meer in Westafrika. (Geographie K7 — Küstenmorphologie und Lateritgestein)",
+      "factsAdvanced": [
+        "Markanteste Meeresklippen in der Greater Banjul Area.",
+        "Bestehen hauptsächlich aus stark eisenhaltigem Laterit.",
+        "Wichtiger natürlicher Schutz gegen das Vordringen des Ozeans.",
+        "Bedeutender Standort für die Beobachtung mariner Greifvögel.",
+        "Bevorzugte Lage für diplomatische Residenzen und Luxushotels.",
+        "Einzigartige geologische Aufschlüsse der Küstengeschichte.",
+        "Symbol für die erosive Kraft des Atlantiks in Westafrika.",
+        "Hotspot für spektakuläre Küstenfotografie."
+      ]
     },
     {
-      "id": "juffureh-cities-v2",
-      "descriptionAdvanced": "Juffureh hat durch Alex Haleys berühmten Roman 'Roots' weltweite Bekanntheit erlangt, in dem das Dorf als die Heimat von Kunta Kinte beschrieben wird. Dieser literarische Ruhm hat Juffureh zu einem zentralen Ort für Reisende gemacht, die mehr über die Geschichte der Versklavung und die Wurzeln der afrikanischen Diaspora erfahren möchten. Juffureh versteht sich heute als ein Ort der Erinnerung und der historischen Aufklärung. Die Bedeutung des Dorfes geht weit über die lokale Ebene hinaus und macht es zu einem Symbol für die Suche nach Identität und Herkunft. Geschichte K7 — Literarisches Erbe und historische Aufklärung.",
-      "factsAdvanced": ["Weltbekannt durch Alex Haleys 'Roots'.", "Heimat von Kunta Kinte.", "Zentrum für Roots-Tourismus.", "Bedeutende historische Stätte der Diaspora-Geschichte.", "Symbol für die Suche nach Identität.", "Wichtiger Ort der historischen Erinnerungskultur.", "Symbolträchtiges Dorf in Gambia."]
+      "id": "bama-kuno-forest-relief-v2",
+      "descriptionAdvanced": "Der Bama Kuno Forest ist ein bedeutendes Waldreservat in der West Coast Region, das eine Brücke zwischen den Küstenökosystemen und der Savanne des Binnenlandes schlägt. Dieses geschützte Gebiet zeichnet sich durch seine reiche Biodiversität und seine Funktion als wichtiger Wasserspeicher für die Region aus. Die Reliefstruktur ist durch sanfte Anhöhen und flache Täler geprägt, die eine Vielzahl von Baumarten, darunter Mahagoni und verschiedene Akazien, beherbergen. Bama Kuno spielt eine entscheidende Rolle im Kampf gegen die Wüstenbildung und dient als wertvoller Korridor für wandernde Tierarten. Der Wald wird von der lokalen Bevölkerung nachhaltig genutzt und ist ein Paradebeispiel für gemeinschaftsbasiertes Forstmanagement in Gambia. Ein Besuch bietet Einblicke in die komplexen ökologischen Gleichgewichte der westafrikanischen Wälder. (Biologie K6 — Waldökosysteme und Klimaschutz)",
+      "factsAdvanced": [
+        "Strategisch wichtiges Waldreservat für den regionalen Wasserhaushalt.",
+        "Beherbergt seltene Bestände an wertvollen tropischen Harthölzern.",
+        "Wichtiger Korridor für Primaten und diverse Vogelarten.",
+        "Zentrum für nachhaltige Waldnutzungsprogramme.",
+        "Barriere gegen die Bodenerosion in der West Coast Region.",
+        "Fokusgebiet für nationale Wiederaufforstungsprojekte.",
+        "Beliebtes Ziel für Forscher und Umweltpädagogen.",
+        "Symbol für die Widerstandskraft gambischer Primärwälder."
+      ]
     },
     {
-      "id": "garowol-cities-v2",
-      "descriptionAdvanced": "Garowol ist eine der bedeutenden Siedlungen in der Upper River Region und ein Zentrum der soninkesprachigen Kultur. Die lokale Wirtschaft ist stark von der Landwirtschaft geprägt, wobei die Viehzucht einen besonderen Stellenwert für den Wohlstand und die Stabilität der dörflichen Gemeinschaft einnimmt. Durch die Bewahrung traditioneller Praktiken und die enge soziale Verbundenheit der Einwohner ist Garowol ein Beispiel für das ländliche Gambia abseits der urbanen Zentren. Die Stadt verbindet traditionelle Lebensweisen mit den Anforderungen einer modernen Agrarwirtschaft. Soziologie K6 — Ländliche Gemeinschaften und Tradition.",
-      "factsAdvanced": ["Bedeutende Siedlung der Soninke.", "Zentrum für traditionelle Viehzucht.", "Starke landwirtschaftliche Prägung.", "Bewahrung traditioneller Lebensformen.", "Stabile dörfliche Gemeinschaftsstrukturen.", "Wichtiger lokaler Wirtschaftsfaktor.", "Repräsentativ für das ländliche Gambia."]
+      "id": "salagi-forest-relief-v2",
+      "descriptionAdvanced": "Der Salagi Forest ist ein wertvolles ökologisches Refugium in unmittelbarer Nähe zum rasant wachsenden urbanen Gürtel von Serekunda. Dieses Waldstück ist von enormer Bedeutung für den Erhalt des Mikroklimas in einer Zone, die zunehmend durch Beton und Asphalt versiegelt wird. Salagi beherbergt eine erstaunliche Vielfalt an einheimischen Pflanzenarten und dient als letzte Zufluchtsstätte für zahlreiche Kleinsäugetiere und hunderte von Vogelarten in Stadtnähe. Die Reliefstruktur von Salagi ist flach, aber ökologisch hochkomplex, geprägt durch saisonale Feuchtgebiete und dichten Unterwuchs. Als 'grüne Lunge' spielt der Wald eine unverzichtbare Rolle bei der Erholung der städtischen Bevölkerung und ist ein kritisches Beispiel für die Notwendigkeit, natürliche Lebensräume inmitten der massiven Urbanisierung Westafrikas konsequent zu schützen. (Biologie K7 — Städtische Ökologie und Habitatverlust)",
+      "factsAdvanced": [
+        "Wichtigste 'grüne Lunge' am Rand der Kanifing Municipality.",
+        "Refugium für hunderte von Vogelarten in einer urbanen Umgebung.",
+        "Zentraler Standort für Umweltbildungsprogramme für Schulen.",
+        "Kritischer Faktor für die Kühlung des städtischen Mikroklimas.",
+        "Beherbergt wertvolle Heilpflanzen, die traditionell genutzt werden.",
+        "Fokuspunkt nationaler Debatten über Landnutzung und Naturschutz.",
+        "Symbol für den Kampf gegen den Verlust an Biodiversität.",
+        "Unverzichtbares Reservoir für den städtischen Wasserhaushalt."
+      ]
     },
     {
-      "id": "koina-cities-v2",
-      "descriptionAdvanced": "Koina ist der östlichste Außenposten Gambias, gelegen am Ufer des Gambia-Flusses unmittelbar an der Grenze zum Senegal. Aufgrund dieser Grenzlage und der Entfernung zu den städtischen Ballungszentren spielt der Ort eine spezielle Rolle im regionalen Grenzhandel und der lokalen Logistik. Die geografische Isolation verleiht Koina einen ganz eigenen Charakter, der durch das Leben am Fluss und den Austausch mit den senegalesischen Nachbarn geprägt ist. Die Stadt ist ein Beispiel für ein Leben in einer Grenzregion, in der geografische Gegebenheiten den täglichen Rhythmus maßgeblich bestimmen. Geographie K7 — Leben in Grenzregionen.",
-      "factsAdvanced": ["Östlichster Punkt Gambias.", "Grenzlage zum Senegal.", "Wichtiger Flusshafen im Osten.", "Eigener Charakter durch geografische Isolation.", "Reger Austausch mit senegalesischen Nachbarn.", "Zentrum für lokalen Grenzhandel.", "Lebensweise geprägt durch den Fluss."]
+      "id": "nyambai-forest-relief-v2",
+      "descriptionAdvanced": "Der Nyambai Forest bei Brikama ist einer der bekanntesten und historisch bedeutendsten Nutzwälder Gambias. Er wurde ursprünglich als forstwirtschaftliches Versuchsgebiet angelegt und beherbergt beeindruckende Bestände an Teakbäumen und einheimischen Harthölzern. Nyambai spielt eine duale Rolle: Er ist ein wichtiger Lieferant für nachhaltiges Bauholz und gleichzeitig ein unverzichtbarer Lebensraum für eine reiche Fauna, insbesondere Affen und seltene Schmetterlingsarten. Das Relief des Waldes ist durch sandige Plateaus und kleine Senken geprägt, die während der Regenzeit wertvolle Feuchtbiotope bilden. Nyambai ist ein Paradebeispiel dafür, wie planvolle Forstwirtschaft zur wirtschaftlichen Entwicklung beitragen kann, während gleichzeitig die ökologische Integrität einer Region bewahrt wird. Ein Besuch vermittelt ein tiefes Verständnis für den Wert systematischer Wiederaufforstung. (Erdkunde K6 — Forstwirtschaft und Ressourcenmanagement)",
+      "factsAdvanced": [
+        "Größtes forstwirtschaftliches Reservat in der Nähe von Brikama.",
+        "Zentrum für die nachhaltige Teakholz-Produktion des Landes.",
+        "Wichtiger Standort für die forstwissenschaftliche Ausbildung.",
+        "Dient als Rückzugsraum für Grüne Meerkatzen und Paviane.",
+        "Bedeutender Wirtschaftsfaktor für die lokale Handwerksindustrie.",
+        "Herausragendes Beispiel für gelungene Monokultur-Management.",
+        "Fokusgebiet für Brandprävention und Waldschutzmaßnahmen.",
+        "Beliebter Ort für Exkursionen zum Thema Ökosystemdienstleistungen."
+      ]
     },
     {
-      "id": "sabi-cities-v2",
-      "descriptionAdvanced": "Sabi ist eine lebhafte Handelsstadt in der Upper River Region, deren wirtschaftliche Aktivität eng mit der Nähe zur senegalesischen Grenze verknüpft ist. Als bedeutender Grenzübergang ist Sabi ein zentraler Punkt für den grenzüberschreitenden Handel und den Austausch von Waren und Menschen zwischen den beiden Nationen. Die Stadt fungiert als wirtschaftlicher Ankerpunkt für die gesamte Umgebung und zieht Händler aus einem weiten Umkreis an. Diese grenznahe Dynamik prägt das Gesicht der Stadt und macht sie zu einem unverzichtbaren Akteur für die regionale Wirtschaftsleistung. Wirtschaft K7 — Grenzüberschreitende Handelsbeziehungen.",
-      "factsAdvanced": ["Bedeutender Grenzübergang zum Senegal.", "Zentrum für den grenzüberschreitenden Handel.", "Wirtschaftlicher Ankerpunkt für die Region.", "Anziehungspunkt für Händler aus der Umgebung.", "Dynamische wirtschaftliche Handelsstruktur.", "Wichtiger Akteur für den regionalen Austausch.", "Prägend durch grenznahe Lage."]
+      "id": "furuyar-forest-relief-v2",
+      "descriptionAdvanced": "Der Furuyar Forest ist ein geheimnisvolles und biologisch hochgradig wertvolles Waldgebiet in der West Coast Region, das sich durch seine besonders dichte und ursprüngliche Vegetation auszeichnet. Fernab der Hauptverkehrswege gelegen, hat sich hier ein Ökosystem erhalten, das einen seltenen Einblick in die ursprüngliche Waldlandschaft Gambias bietet. Das Relief von Furuyar ist durch leicht gewelltes Gelände geprägt, das in dichte Mangrovensümpfe an den Bolongs übergeht, was eine außergewöhnliche Vielfalt an Nischen für verschiedenste Tierarten schafft. Der Wald ist besonders bei Ornithologen beliebt, da er Arten beherbergt, die in stärker erschlossenen Gebieten längst verschwunden sind. Furuyar ist ein Symbol für die verborgenen Naturschätze des Landes und verdeutlicht die enorme Bedeutung von Waldschutzgebieten für die regionale Klimastabilität und den Erhalt der genetischen Vielfalt. (Biologie K7 — Biodiversitäts-Hotspots und Waldschutz)",
+      "factsAdvanced": [
+        "Abgelegenes Waldreservat mit hohem Anteil an Primärvegetation.",
+        "Einzigartiges Habitat an der Schnittstelle zu den Mangrovensümpfen.",
+        "Herausragender Standort für die Beobachtung seltener Waldvögel.",
+        "Zentrum für den Schutz bedrohter westafrikanischer Baumarten.",
+        "Wichtiger Regulator für die lokale Bodenfeuchtigkeit.",
+        "Ort mit hoher spiritueller Bedeutung für die umliegenden Dörfer.",
+        "Symbol für die Stille und Unberührtheit des gambischen Südens.",
+        "Fokus für wissenschaftliche Studien zur tropischen Waldregeneration."
+      ]
     },
     {
-      "id": "gambissara-cities-v2",
-      "descriptionAdvanced": "Gambissara ist eine der größten Siedlungen in der Upper River Region und bekannt für eine tief verwurzelte religiöse Tradition, die den Alltag der Bewohner stark beeinflusst. Die religiöse Gelehrsamkeit in Gambissara zieht Menschen aus weiten Teilen des Landes an, die hier Inspiration und Wissen suchen. Neben dem religiösen Aspekt ist die Stadt ein bedeutender landwirtschaftlicher Akteur in der Region, der die wirtschaftliche Basis für viele Familien bildet. Diese Kombination aus geistlicher Ausstrahlung und bodenständiger Agrarwirtschaft macht Gambissara zu einem kulturell und ökonomisch wichtigen Ort im gambischen Osten. Geschichte/Soziologie K7 — Religion und Gemeinschaft.",
-      "factsAdvanced": ["Bekannt für religiöse Gelehrsamkeit.", "Eines der größten Dörfer im Osten Gambias.", "Starke landwirtschaftliche Basis.", "Zentrum für religiöse Traditionen.", "Wichtiger Ort für kulturellen Austausch.", "Hohe sozio-ökonomische Relevanz in der Region.", "Kulturelle Ausstrahlung weit über den Ort hinaus."]
+      "id": "kuntaur-highlands-relief-v2",
+      "descriptionAdvanced": "Die Kuntaur Highlands in der Central River Region stellen eine der topographisch interessantesten Landschaften Gambias dar. Inmitten des ansonsten flachen Schwemmlandes des Flusses erheben sich hier markante Plateaus und sanfte Hügelketten aus rotem Laterit. Diese Anhöhen bieten einen spektakulären Kontrast zu den tiefgelegenen Reisfeldern und Mangrovensümpfen am Ufer. Geologisch sind die Highlands Überreste eines uralten Plateaus, das durch den Gambia-Fluss über Jahrmillionen geformt und abgetragen wurde. Für die Landwirtschaft sind die Highlands von Bedeutung, da sie in der Regenzeit Schutz vor Überschwemmungen bieten und als Standorte für Siedlungen und trockene Feldfrüchte genutzt werden. Ein Besuch in dieser Region ermöglicht einen faszinierenden Einblick in die geologische Dynamik und die Anpassungsstrategien der Menschen an die vielfältigen Landschaftsformen im Landesinneren. (Geographie K8 — Geomorphologie und ländliche Siedlungsgeographie)",
+      "factsAdvanced": [
+        "Markanteste Hügellandschaft in der Central River Region.",
+        "Besteht aus eisenreichen Laterit-Plateaus (Inselberge).",
+        "Wichtiger Standort für Siedlungen oberhalb der Überflutungszone.",
+        "Bietet weite Panoramablicke über das Tal des Gambia-Flusses.",
+        "Einzigartiges Habitat für trockenresistente Savannenflora.",
+        "Symbol für die erdgeschichtliche Erosion des Senegambia-Raums.",
+        "Historisch bedeutsam als Verteidigungs- und Beobachtungsposten.",
+        "Zentrum für den Abbau von lokalem Baumaterial (Lateritsteine)."
+      ]
+    },
+    {
+      "id": "basse-plateau-relief-v2",
+      "descriptionAdvanced": "Das Basse-Plateau ist eine weitläufige geologische Formation im äußersten Osten Gambias, die die Stadt Basse Santa Su und ihre Umgebung dominiert. Diese Hochebene erhebt sich deutlich über den Gambia-Fluss und ist durch ihre harten Laterit-Böden und die typische Savannenvegetation geprägt. Das Plateau spielt eine entscheidende Rolle für die Hydrologie der Upper River Region, da es das Regenwasser in tiefer liegende Gebiete ableitet und so den Fluss speist. Wirtschaftlich ist das Plateau ein wichtiger Standort für die Viehzucht und den Erdnussanbau auf den trockeneren Flächen. Geologisch vermittelt das Basse-Plateau einen Eindruck von der Weite des afrikanischen Binnenlandes und markiert den Übergang zu den bergigeren Regionen Guineas und Senegals. Es ist ein Symbol für die geographische Ausdehnung Gambias bis tief in das kontinentale Hinterland. (Geographie K7 — Hochebenen und regionale Landnutzung)",
+      "factsAdvanced": [
+        "Bedeutendste Hochebene in der Upper River Region.",
+        "Geographische Grenze zwischen dem Flusstal und dem Binnenland.",
+        "Geprägt durch eisenhaltige Krusten und tiefgründige Verwitterung.",
+        "Wesentlicher Standort für die großflächige Viehhaltung.",
+        "Strategischer Punkt für die Verkehrsplanung im Osten des Landes.",
+        "Bietet Schutz vor den saisonalen Hochwassern des Gambia-Flusses.",
+        "Wichtiger Bezugspunkt für die historische Siedlungsentwicklung.",
+        "Symbol für die topographische Vielfalt des gambischen Ostens."
+      ]
+    },
+    {
+      "id": "keneba-plateau-relief-v2",
+      "descriptionAdvanced": "Das Keneba-Plateau in der Lower River Region ist eine markante topographische Erhebung, die für ihre landwirtschaftliche Bedeutung und ihre wissenschaftliche Relevanz bekannt ist. Diese Anhöhe bietet einen stabilen Untergrund inmitten der weiten Feuchtgebiete am Südufer des Flusses und hat Keneba zu einem Zentrum der Forschung über Ernährung und Gesundheit im ländlichen Raum gemacht. Das Relief des Plateaus ist durch flache, fruchtbare Ebenen gekennzeichnet, die einen idealen Standort für den Anbau von Hirse und Erdnüssen bieten. Geologisch ist das Plateau ein wertvolles Zeugnis für die Ablagerungsprozesse des Gambia-Ästuars über Jahrmillionen. Ein Besuch auf dem Keneba-Plateau ermöglicht es, die enge Verflechtung zwischen geographischer Erhabenheit, landwirtschaftlicher Produktivität und dem menschlichen Fortschritt in einer der wichtigsten Forschungsstandorte Westafrikas zu erleben. (Geographie K7 — Landnutzung und wissenschaftliche Standorte)",
+      "factsAdvanced": [
+        "Strategisch wichtige Erhebung in der Lower River Region.",
+        "Standort des international bekannten MRC-Forschungszentrums.",
+        "Bietet optimale Bedingungen für den trockenen Feldbau (Hirse).",
+        "Geologischer Schutzwall gegen das Versalzen der ufernahen Böden.",
+        "Wichtiger Punkt zur Untersuchung tropischer Bodenstrukturen.",
+        "Symbol für den Fortschritt in der ländlichen Gesundheitsforschung.",
+        "Einzigartige Aussicht über die Mangrovenwälder des Südufers.",
+        "Beherbergt traditionelle Siedlungen mit langer Geschichte."
+      ]
+    },
+    {
+      "id": "nianija-hills-relief-v2",
+      "descriptionAdvanced": "Die Nianija Hills sind eine Gruppe von malerischen Hügeln in der North Bank Region, die zu den landschaftlich reizvollsten und geologisch interessantesten Gebieten Gambias zählen. Diese Laterit-Erhebungen ragen wie Inseln aus der Savanne empor und beherbergen eine Flora und Fauna, die sich deutlich von den umliegenden Ebenen unterscheidet. Die Hills sind bekannt für ihre Höhlen und Felsformationen, die in der Vergangenheit oft als heilige Stätten oder Rückzugsorte genutzt wurden. Geographisch markieren sie den Rand des Gambia-Flusstals und bieten spektakuläre Panoramablicke über die Megalithstätten von Kerbatch und die weiten Schwemmlandebenen. Die Nianija Hills sind ein Symbol für die wilde, unberührte Natur des Nordens und ein unverzichtbares Ziel für Wanderer und Geographie-Begeisterte, die die Vielfalt des gambischen Reliefs erkunden möchten. (Geographie K8 — Geomorphologische Vielfalt und kulturelle Landschaften)",
+      "factsAdvanced": [
+        "Spektakulärste Hügelkette in der North Bank Region.",
+        "Besteht aus markanten Rotsediment- und Lateritformationen.",
+        "Historisch bedeutsamer Ort für rituelle Zeremonien in Höhlen.",
+        "Wichtiger Lebensraum für Klippen brütende Raubvogelarten.",
+        "Bietet den besten Überblick über die UNESCO-Welterbestätten.",
+        "Symbol für den geologischen Reichtum des gambischen Hinterlandes.",
+        "Fokus für Projekte zum Schutz der Savannenökologie.",
+        "Beliebtes Ziel für den sanften Naturtourismus im Norden."
+      ]
+    },
+    {
+      "id": "sami-plateau-relief-v2",
+      "descriptionAdvanced": "Das Sami-Plateau in der Central River Region ist eine weitläufige Hochebene, die für ihren extrem fruchtbaren Boden und ihre Bedeutung als agrarisches Kraftzentrum Gambias bekannt ist. Geografisch gesehen bildet das Plateau eine stabile Plattform oberhalb des Gambia-Flusses und ist durch seine tiefgründigen Böden prädestiniert für den Anbau von Getreide und Erdnüssen im großen Stil. Das Relief ist sanft gewellt und bietet ideale Bedingungen für eine mechanisierte Landwirtschaft, was Sami zu einer Modellregion für moderne Agrarprojekte gemacht hat. Das Plateau ist zudem ein wichtiges Reservoir für das Grundwasser und speist zahlreiche Brunnen, die die umliegenden Dörfer versorgen. Sami-Plateau illustriert eindrucksvoll das wirtschaftliche Potenzial der gambischen Hochebenen und bleibt ein unverzichtbarer Pfeiler für die nationale Ernährungssicherheit und den Agrarexport. (Sachkunde K7 — Landwirtschaftliche Geographie und Bodenkunde)",
+      "factsAdvanced": [
+        "Größtes zusammenhängendes Plateau der Central River Region.",
+        "Zentrum für die intensive Erdnuss- und Hirseproduktion.",
+        "Strategisch wichtige Erhebung für den regionalen Wasserhaushalt.",
+        "Geprägt durch nährstoffreiche eisenhaltige Böden.",
+        "Standort wegweisender landwirtschaftlicher Innovationsprojekte.",
+        "Symbol für die ökonomische Kraft des ländlichen Gambias.",
+        "Wichtiger Verkehrsweg für den Agrartransport am Nordufer.",
+        "Bietet eine hohe Biodiversität in den angrenzenden Savannengürteln."
+      ]
+    },
+    {
+      "id": "tumani-tenda-cliffs-relief-v2",
+      "descriptionAdvanced": "Die Klippen von Tumani Tenda sind eine spektakuläre geologische Formation am Ufer des Gambia-Flusses und das Wahrzeichen eines der erfolgreichsten Ökotourismus-Dörfer des Landes. Diese Laterit-Wände ragen majestätisch über den Fluss auf und bieten einen faszinierenden Einblick in die erosive Kraft des Wassers im Ästuar. Geographisch bilden die Klippen eine natürliche Grenze zwischen dem dichten Uferwald und den Plateaus im Hinterland. Sie sind ein wichtiger Nistplatz für seltene Wasservögel und bieten Besuchern atemberaubende Ausblicke auf den Fluss und die Mangrovensümpfe. Tumani Tenda Cliffs illustrieren auf einzigartige Weise die Harmonie zwischen einer markanten Reliefstruktur und einem nachhaltigen, gemeindebasierten Naturschutzkonzept. Ein Besuch hier ermöglicht eine tiefgehende Begegnung mit der ursprünglichen Flusslandschaft und dem ökologischen Erbe Gambias. (Geographie K7 — Flussmorphologie und Ökotourismus)",
+      "factsAdvanced": [
+        "Markante Flussklippen in der West Coast Region.",
+        "Bestandteil eines preisgekrönten Ökotourismus-Projekts.",
+        "Wichtiger Standort zur Beobachtung der Gezeiten am Oberlauf.",
+        "Beherbergt seltene Vogelarten in den Felsnischen.",
+        "Historisch genutzter Ort für die Kontrolle des Flussverkehrs.",
+        "Einzigartige geologische Aufschlüsse von Laterit-Formationen.",
+        "Symbol für den starken gemeinschaftlichen Naturschutz.",
+        "Beliebtes Ziel für Naturfotografie und Kanufahrten."
+      ]
+    },
+    {
+      "id": "brikama-plateau-relief-v2",
+      "descriptionAdvanced": "Das Brikama-Plateau ist eine strategisch bedeutsame Hochebene in der West Coast Region, die die Stadt Brikama und ihre wachsende urbane Umgebung topographisch prägt. Dieses erhöhte Gelände bietet einen stabilen Untergrund für die massive Stadterweiterung und schützt die Bewohner vor den saisonalen Überschwemmungen der tiefer gelegenen Bolongs. Geologisch ist das Plateau durch sandige Ablagerungen und harte Laterit-Krusten gekennzeichnet, die einen hervorragenden Standort für die Bauindustrie und den Abbau von Baumaterialien bieten. Das Relief spielt eine zentrale Rolle für die Entwässerung der bevölkerungsreichen Kombo-Distrikte. Brikama-Plateau illustriert die Bedeutung topographischer Erhebungen für die Stadtplanung und die ökonomische Entwicklung in einem Land, das sonst weitgehend flach ist. Es bleibt ein wichtiger Faktor für die Stabilität und das Wachstum des Westens. (Geographie K7 — Urbane Topographie und Landgewinnung)",
+      "factsAdvanced": [
+        "Zentrale topographische Erhebung in der West Coast Region.",
+        "Bietet stabilen Baugrund für die Expansion von Brikama.",
+        "Wichtiger Standort für den Abbau von rotem Lateritstein.",
+        "Geographisches Zentrum der Agrar- und Industrielogistik.",
+        "Regulator für die Entwässerung in Richtung Atlantik.",
+        "Standort bedeutender Bildungs- und Gesundheitseinrichtungen.",
+        "Historisch bevorzugter Ort für strategische Ansiedlungen.",
+        "Symbol für die urbane Dynamik Gambias außerhalb der Hauptstadt."
+      ]
+    },
+    {
+      "id": "kiang-west-plateau-relief-v2",
+      "descriptionAdvanced": "Das Kiang West Plateau ist das wilde Herz des gleichnamigen Nationalparks und eine der unberührtesten Landschaften Gambias. Diese Hochebene überragt das Südufer des Gambia-Flusses und ist durch eine rauhe, oft steinige Topographie und dichte Trockenwälder geprägt. Das Plateau dient als wichtiges Refugium für seltene Säugetierarten wie die Sitatunga-Antilope und Warzenschweine, die in den unzugänglichen Felsformationen Schutz finden. Geologisch stellt das Plateau eine Barriere dar, die das Vordringen von Salzwasser in das Hinterland verlangsamt. Kiang West Plateau ist ein Ort der absoluten Stille und der ökologischen Reinheit, der die ungeheure Widerstandskraft der westafrikanischen Savannenflora verdeutlicht. Für Forscher und Naturbeobachter bietet das Relief des Plateaus einzigartige Möglichkeiten zur Untersuchung großräumiger Ökosystemzusammenhänge. (Biologie K8 — Habitatökologie und Schutzgebietsmanagement)",
+      "factsAdvanced": [
+        "Höchstgelegener Bereich des Kiang West National Park.",
+        "Wichtigster Rückzugsort für bedrohte Großsäuger.",
+        "Geprägt durch trockene Waldgebiete und Laterit-Abbrüche.",
+        "Wesentlicher Faktor für die regionale Artenvielfalt.",
+        "Bietet spektakuläre Aussichtspunkte über das Flussökosystem.",
+        "Unbewohntes Gebiet mit hoher ökologischer Integrität.",
+        "Strategisch wichtig für die Erhaltung von Korridoren für Wildtiere.",
+        "Symbol für die wilde und ungezähmte Seite Gambias."
+      ]
+    },
+    {
+      "id": "niumi-dunes-relief-v2",
+      "descriptionAdvanced": "Die Niumi-Dünen im äußersten Norden Gambias sind ein spektakuläres Zeugnis für die dynamische Gestaltung der Küstenlandschaft durch Wind und Ozean. Diese massiven Sandformationen im Niumi National Park bilden eine natürliche Barriere gegen den Atlantik und beherbergen eine spezialisierte Flora und Fauna, die an extreme Salz- und Windbedingungen angepasst ist. Geographisch gesehen markieren die Dünen den Übergang von der Meeresküste zu den Mangrovensümpfen und Salzwiesen des Binnenlandes. Sie sind ein international bedeutendes Habitat für seltene Insekten, Reptilien und als Rastplatz für Zugvögel. Die Niumi-Dünen illustrieren auf faszinierende Weise die Schönheit und Fragilität von Küstenökosystemen und sind ein zentraler Ort zum Studium des Meeresspiegelanstiegs und dessen Auswirkungen auf den westafrikanischen Küstensaum. (Geographie K6 — Küstengeomorphologie und Dünenbildung)",
+      "factsAdvanced": [
+        "Größtes zusammenhängendes Dünensystem an der gambischen Küste.",
+        "Natürlicher Schutzwall gegen Sturmfluten und Küstenerosion.",
+        "Wichtiges Habitat für spezialisierte Pionierpflanzen.",
+        "International bedeutendes Rastgebiet für Zugvögel.",
+        "Zentrum für die Forschung über küstennahe Sanddynamik.",
+        "Bietet eine einzigartige, fast wüstenartige Landschaft.",
+        "Symbol für die unberührte Wildnis der North Bank Region.",
+        "Kritischer Bestandteil der Biodiversität des Niumi National Park."
+      ]
+    },
+    {
+      "id": "kartong-cliffs-relief-v2",
+      "descriptionAdvanced": "Die Klippen von Kartong markieren das dramatische Ende der gambischen Atlantikküste und den Übergang zur Allahein-Flussmündung. Diese Laterit-Abbrüche im äußersten Süden bieten einen faszinierenden Einblick in die geologische Zusammensetzung des Landes und zeugen von der jahrtausendelangen Interaktion zwischen Ozean und Festland. Die Klippen sind ein wichtiger Aussichtspunkt für die Beobachtung wandernder Meeresbewohner und seltener Küstenvögel. Geographisch fungieren sie als natürliche Ankerpunkte für die umliegenden Sandstrände und schützen das Hinterland vor der Wucht der atlantischen Brandung. Kartong Cliffs sind ein Ort von rauer Schönheit und Stille, der die ungezähmte Kraft der Natur widerspiegelt und ein unverzichtbares Ziel für Geographie-Begeisterte und Naturfotografen darstellt, die den authentischen Süden erkunden möchten. (Geographie K7 — Küstenformen und regionale Geologie)",
+      "factsAdvanced": [
+        "Südlichste Küstenklippen Gambias an der senegalesischen Grenze.",
+        "Markanter Aufschluss von rotem, eisenhaltigem Laterit-Gestein.",
+        "Wichtiger Orientierungspunkt für die handwerkliche Fischerei.",
+        "Einzigartiges Habitat für Klippen bewohnende Tierarten.",
+        "Spektakulärer Panoramablick über die Mündung des Allahein.",
+        "Symbol für die maritime Grenze Gambias.",
+        "Wesentlicher Faktor beim Schutz der südlichen Küstenlinie.",
+        "Beliebtes Ziel für exklusive Naturbeobachtungen."
+      ]
+    },
+    {
+      "id": "jambanjali-forest-relief-v2",
+      "descriptionAdvanced": "Der Jambanjali Forest ist ein wertvolles Waldreservat in der West Coast Region, das sich durch sein sanft gewelltes Relief und seine reiche Biodiversität auszeichnet. Inmitten einer Region, die stark von der Landwirtschaft geprägt ist, bildet dieser Wald eine unverzichtbare Oase für bedrohte Baumarten und dient als Lebensraum für zahlreiche Primaten und seltene Vögel. Die Reliefstruktur von Jambanjali ermöglicht ein Mikroklima, das Feuchtigkeit speichert und so den umliegenden Feldern auch in der Trockenzeit zugutekommt. Der Wald ist ein Paradebeispiel für die Bedeutung von Restwäldern für die regionale ökologische Stabilität und die Erhaltung der Bodenqualität. Jambanjali ist ein Symbol für die notwendige Balance zwischen landwirtschaftlicher Nutzung und dem Erhalt ursprünglicher Waldökosysteme in Gambia und bleibt ein wichtiges Bildungsziel für den Naturschutz. (Biologie K6 — Ökosystemdienstleistungen und ländliche Wälder)",
+      "factsAdvanced": [
+        "Wichtiges Waldreservat im Herzen der West Coast Region.",
+        "Bedeutendes Reservoir für die ursprüngliche Flora Senegambias.",
+        "Hotspot für die lokale Vogelbeobachtung und Naturfotografie.",
+        "Zentrum für die Erhaltung wertvoller Teak- und Mahagonibestände.",
+        "Wichtiger Regulator für das lokale Mikroklima.",
+        "Refugium für Grüne Meerkatzen und Rote Stummelaffen.",
+        "Symbol für den Schutz der Biodiversität im ländlichen Raum.",
+        "Beliebter Ort für umweltpädagogische Exkursionen."
+      ]
+    },
+    {
+      "id": "kabafita-forest-relief-v2",
+      "descriptionAdvanced": "Der Kabafita Forest bei Brikama ist ein herausragendes Beispiel für ein kombiniertes Wald- und Wasserschutzgebiet in Gambia. Das Relief dieses Waldes ist durch tiefe Senken und sandige Plateaus geprägt, die eine entscheidende Rolle für die Grundwasserneubildung der Region spielen. Kabafita beherbergt riesige Baobab-Bäume und dichte Bestände an einheimischen Nutzhölzern, die unter strengem forstwirtschaftlichem Schutz stehen. Der Wald ist nicht nur ökologisch wertvoll, sondern auch ein wichtiger kultureller Ort, an dem traditionelle Medizinmänner seltene Heilpflanzen sammeln. Als Barriere gegen die fortschreitende Urbanisierung von Brikama ist der Kabafita Forest eine unverzichtbare Komponente der regionalen Stadtplanung und ein leuchtendes Beispiel für die Integration von Ressourcenschutz und kultureller Identität. (Erdkunde K7 — Wasserschutzgebiete und Forstgeographie)",
+      "factsAdvanced": [
+        "Zentrales Waldschutzgebiet zur Sicherung der städtischen Wasserreserven.",
+        "Beherbergt monumentale, jahrhundertealte Affenbrotbäume (Baobabs).",
+        "Wichtiger Standort für die Erforschung der Grundwasserdynamik.",
+        "Zentrum für die nachhaltige Ernte von traditionellen Heilpflanzen.",
+        "Unverzichtbares Habitat für eine Vielzahl von Kleinsäugern.",
+        "Dient als Schutzgürtel für die wachsende Stadt Brikama.",
+        "Fokusgebiet für nationale Brandschutz- und Präventionsprogramme.",
+        "Symbol für die enge Verbindung von Waldschutz und Lebensqualität."
+      ]
+    },
+    {
+      "id": "berending-forest-relief-v2",
+      "descriptionAdvanced": "Der Berending Forest in der North Bank Region ist ein einzigartiges Waldökosystem, das untrennbar mit der spirituellen Bedeutung des dortigen Krokodilbeckens verbunden ist. Dieses geschützte Waldstück bewahrt Bestände an ursprünglicher Vegetation, die in der ansonsten stark landwirtschaftlich genutzten Umgebung eine Seltenheit darstellen. Das Relief des Waldes ist flach, aber von kleinen Wasserläufen und Senken durchzogen, die in der Regenzeit wertvolle Biotope bilden. Berending Forest ist ein Paradebeispiel für den traditionellen Naturschutz, bei dem religiöse Tabus über Generationen hinweg den Erhalt eines wertvollen Waldes gesichert haben. Er fungiert als ökologisches Refugium für hunderte von Vogelarten und seltene Reptilien. Ein Besuch hier ermöglicht ein tiefes Verständnis für die Kraft spiritueller Landschaften und deren Bedeutung für den Erhalt der gambischen Biodiversität. (Biologie K7 — Spirituelle Wälder und Ethnobotanik)",
+      "factsAdvanced": [
+        "Traditionell geschützter 'heiliger Wald' in der North Bank Region.",
+        "Einzigartiges Refugium für seltene endemische Pflanzenarten.",
+        "Direkte Verbindung zum heiligen Berending Krokodilbecken.",
+        "Hotspot für die Beobachtung spezialisierter Sumpfvögel.",
+        "Zentrum für die Bewahrung mündlicher Naturüberlieferungen.",
+        "Wichtiger Standort für den Erhalt seltener Rhun-Palmen.",
+        "Symbol für den Erfolg indigener Naturschutzmethoden.",
+        "Beitrag zur Stabilisierung des regionalen Mikroklimas."
+      ]
+    },
+    {
+      "id": "kwinella-hills-relief-v2",
+      "descriptionAdvanced": "Die Kwinella Hills in der Lower River Region sind eine topographische Besonderheit und bieten eine der markantesten Reliefstrukturen im Landesinneren Gambias. Diese sanften Hügelketten bestehen aus verwittertem Laterit und erheben sich deutlich über die weiten Ebenen des Kiang West Distrikts. Geographisch bilden die Kwinella Hills einen wertvollen Beobachtungspunkt zur Überwachung der Savannenlandschaft und der angrenzenden Flusswälder. Sie beherbergen eine Flora, die sich perfekt an den nährstoffarmen, harten Untergrund angepasst hat, und dienen als Orientierungspunkt für Reisende auf der South Bank Road. Die Hills sind ein Symbol für die geologische Vielfalt Zentral-Gambias und ein faszinierender Ort zum Studium der erosiven Prozesse, die die heutige Gestalt des Landes geprägt haben. Ein Besuch hier vermittelt ein Gefühl für die unendliche Weite und die raue Schönheit der gambischen Savanne. (Geographie K8 — Regionaltopographie und Verwitterungsprozesse)",
+      "factsAdvanced": [
+        "Bedeutendste Hügelformation in der Lower River Region.",
+        "Geprägt durch markante Laterit-Auswaschungen und Rotsedimente.",
+        "Bietet exzellente Fernblicke über den Kiang West National Park.",
+        "Wichtiger Standort für Funkmasten und logistische Infrastruktur.",
+        "Einzigartiges Habitat für Greifvögel und Klippenschliefer.",
+        "Symbol für die landschaftliche Markanz des zentralen Gambias.",
+        "Wesentlicher Bezugspunkt für die regionale Verkehrsführung.",
+        "Fokus für geologische Kartierungs- und Erforschungsprojekte."
+      ]
     }
   ]
 }

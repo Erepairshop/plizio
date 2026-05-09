@@ -1,0 +1,139 @@
+{
+  "lang": "ro",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hobyo-dunes-relief-v2",
+      "descriptionAdvanced": "Dunele Hobyo se întind ca un peisaj deșertic impunător și dinamic de-a lungul coastei somaleze a Oceanului Indian. Această formațiune din mase de nisip liber este modelată continuu de vânturile persistente, care suflă în mare parte dinspre nord-est, și migrează lent spre interiorul țării. Dinamica geologică a acestui peisaj dunar împiedică stabilirea unei vegetații permanente, dar creează un relief unic, aflat într-o schimbare constantă, care influențează durabil geografia coastei. Zona servește drept tampon natural între influența maritimă a oceanului și câmpiile uscate și vaste din interior.",
+      "factsAdvanced": [
+        "Peisaj dunar impunător și dinamic de-a lungul coastei.",
+        "Transformare peisagistică continuă prin vânturile alizee.",
+        "Caracterizat printr-un relief de nisip în schimbare constantă.",
+        "Tampon natural între ocean și interiorul uscat.",
+        "Instabilitatea geologică împiedică vegetația permanentă.",
+        "Formațiuni de nisip vaste și marcante din punct de vedere peisagistic.",
+        "Influență directă prin condițiile de vânt maritime."
+      ]
+    },
+    {
+      "id": "shabelle-valley-relief-v2",
+      "descriptionAdvanced": "Bazinul Văii Shabelle formează coloana vertebrală hidrologică centrală a regiunii fluviale Shabelle. Profilul topografic se distinge printr-un bazin plat, dar vast, care a fost modelat de-a lungul mileniilor de sarcina de sedimente a râului. Zonele malurilor și câmpiile adiacente oferă soluri aluviale bogate în nutrienți prin inundațiile ciclice, care permit o productivitate agricolă ridicată într-un mediu altfel destul de uscat. Peisajul fluvial este structurat printr-o succesiune de dealuri line, lunci inundabile vaste și albii de râu adâncite, care reprezintă o resursă importantă pentru populația sedentară.",
+      "factsAdvanced": [
+        "Coloana vertebrală hidrologică centrală a regiunii Shabelle.",
+        "Bazin plat, modelat prin sarcina continuă de sedimente.",
+        "Soluri aluviale bogate în nutrienți prin inundații ciclice.",
+        "Peisaj fluvial structurat cu lunci inundabile vaste.",
+        "Sursă vitală naturală importantă pentru populația sedentară.",
+        "Albii adâncite determină dinamica topografică.",
+        "Zonă strategic esențială pentru utilizarea agricolă intensivă."
+      ]
+    },
+    {
+      "id": "nugaal-valley-relief-v2",
+      "descriptionAdvanced": "Bazinul Văii Nugaal se întinde ca o depresiune marcantă și uscată peste centrul Somaliei și reprezintă o structură clasică de ued. Această formațiune geologică este caracterizată de soluri vaste, aproape plate, și cursuri de apă uscate, care devin active doar în timpul evenimentelor rare de precipitații abundente. Relieful este rezultatul eroziunii lente, de milenii, într-o zonă climatică semiaridă. Câmpia vastă oferă puține bariere naturale datorită topografiei plate și funcționează ca un drum de trecere istoric pentru migrațiile nomade, care se orientează după disponibilitatea sezonieră a pășunilor rare și a punctelor temporare de apă.",
+      "factsAdvanced": [
+        "Depresiune marcantă, uscată și structură clasică de ued.",
+        "Soluri vaste, aproape plate, modelate prin eroziune lentă.",
+        "Activitatea cursurilor de apă doar în timpul precipitațiilor rare și intense.",
+        "Peisaj deschis din punct de vedere topografic, fără bariere naturale.",
+        "Drum istoric de trecere pentru migrațiile nomade.",
+        "Se orientează după disponibilitatea sezonieră a pășunilor.",
+        "Zonă climatică semiaridă caracteristică în centru."
+      ]
+    },
+    {
+      "id": "bajuni-cliffs-relief-v2",
+      "descriptionAdvanced": "Stâncile coastei Bajuni formează o secțiune interesantă din punct de vedere topografic de-a lungul arhipelagului somalez sudic. Aceste zone de coastă stâncoase se caracterizează prin structura lor puternic fragmentată, marcată atât de eroziunea marină, cât și de existența formațiunilor de calcar coralier erodat. Peisajul prezintă o interacțiune dinamică între stânca masivă și forța care acționează constant a Oceanului Indian, ceea ce a dus la crearea unei multitudini de golfuri mici, protejate, și stânci abrupte. Acest relief este esențial pentru protecția apelor de coastă și oferă habitate pentru o floră și faună marină specifică.",
+      "factsAdvanced": [
+        "Secțiune de coastă puternic fragmentată la arhipelagul sudic.",
+        "Caracterizat prin eroziune marină și formațiuni de calcar coralier.",
+        "Interacțiune dinamică între stâncă și forța mării.",
+        "Crearea unei multitudini de golfuri mici și protejate.",
+        "Relief de coastă abrupt cu semnificație marină importantă.",
+        "Bază topografică pentru habitate marine specifice.",
+        "Structura stâncoasă marchează aspectul liniei de coastă."
+      ]
+    },
+    {
+      "id": "ras-xaafuun-peninsula-relief-v2",
+      "descriptionAdvanced": "Peninsula Ras Xaafuun se întinde ca un deget marcant și semnificativ din punct de vedere geologic adânc în Oceanul Indian. Peninsula este alcătuită dintr-un istm îngust, dar precis din punct de vedere topografic, care a apărut prin procese de ridicare tectonică. Relieful este în mare parte plat și pietros-nisipos, dar prezintă zone de coastă abrupt descendente la margini, care trebuie să reziste forțelor marine izbitoare. Datorită expunerii geografice, această formațiune marchează un punct strategic important în Oceanul Indian și servește, datorită formei sale marcante, drept reper inconfundabil pentru navigația maritimă încă din antichitate.",
+      "factsAdvanced": [
+        "Peninsulă marcantă, care se întinde adânc în ocean.",
+        "Creată prin procese complexe de ridicare tectonică.",
+        "Relief plat, pietros-nisipos, cu margini de coastă abrupte.",
+        "Punct geografic expus în Oceanul Indian.",
+        "Reper istoric semnificativ pentru navigația maritimă.",
+        "Istm geologic precis și format.",
+        "Solicitare puternică prin forțele de eroziune marină."
+      ]
+    },
+    {
+      "id": "dadaab-lowlands-relief-v2",
+      "descriptionAdvanced": "Zonele joase Dadaab se întind ca niște depresiuni vaste și plate în zona de frontieră a Somaliei. Acest relief este marcat de o structură monotonă, dominată în mare parte orizontal, care constă în principal din depozite nisipoase cu granulație fină. Din motive geologice, aceste zone de câmpie prezintă o variație topografică naturală foarte mică, ceea ce duce la o răspândire rapidă a apelor de suprafață în caz de precipitații rare, dar intense. Regiunea servește, în ciuda caracterului său arid-golaș, datorită vastității sale, drept o zonă de tranziție strategic importantă, unde condițiile topografice determină semnificativ modelele de așezare și rutele de migrație nomadă.",
+      "factsAdvanced": [
+        "Depresiuni vaste și plate de câmpie în zona de frontieră.",
+        "Structură topografică monotonă, dominată pe orizontală.",
+        "Alcătuit în principal din sedimente nisipoase cu granulație fină.",
+        "Variație topografică naturală foarte mică.",
+        "Răspândire rapidă a apei de suprafață în caz de ploaie.",
+        "Zonă de tranziție strategic importantă în relieful arid-golaș.",
+        "Topografia determină semnificativ rutele de migrație nomadă."
+      ]
+    },
+    {
+      "id": "barawa-coastal-relief-v2",
+      "descriptionAdvanced": "Fâșia de coastă Barawa formează o zonă îngustă și fragilă din punct de vedere topografic de-a lungul liniei de coastă sudice a Somaliei. Relieful este marcat de o succesiune de centuri de dune care cresc ușor, care se învecinează direct cu plajele cu nisip și formează un zid de protecție natural împotriva forței mării. Această formațiune geologică este supusă unei dinamici constante prin vânturile de coastă și curenții marini, ceea ce modifică continuu topografia în această secțiune. Această fâșie îngustă de pământ servește drept habitat important pentru o floră de coastă adaptată și funcționează ca o barieră care protejează zonele din interiorul țării împotriva eroziunii marine imediate.",
+      "factsAdvanced": [
+        "Fâșie de coastă îngustă și fragilă din punct de vedere topografic.",
+        "Succesiune de centuri de dune care cresc ușor și dinamice.",
+        "Zid de protecție natural împotriva forței mării.",
+        "Modificare topografică constantă prin vânt și curenți.",
+        "Habitat important pentru o floră de coastă adaptată.",
+        "Barieră împotriva eroziunii marine imediate în interiorul țării.",
+        "Interacțiune dinamică între uscat și Oceanul Indian."
+      ]
+    },
+    {
+      "id": "ceerigaabo-uplands-relief-v2",
+      "descriptionAdvanced": "Podișul Ceerigaabo cuprinde o zonă semnificativ ridicată și de tip platou în nordul Somaliei. Relieful se distinge printr-o structură răcoroasă, de tip platou, care este atinsă în mod regulat de mase de aer mai umede datorită altitudinii sale. Această locație geografică duce la o cantitate de precipitații semnificativ mai mare în comparație cu câmpiile din jur și susține un ecosistem unic cu formațiuni forestiere marcate de ienupăr. Baza geologică din formațiuni de calcar erodat și poziția topografică fac din acest podiș o oază ecologică, care se ridică clar din relieful golaș și arid al restului țării.",
+      "factsAdvanced": [
+        "Zonă de podiș semnificativ ridicată și de tip platou.",
+        "Locație climatică mai răcoroasă cu mase de aer mai umede.",
+        "Cantități de precipitații semnificativ mai mari decât în câmpie.",
+        "Susține formațiuni forestiere unice de ienupăr.",
+        "Oază ecologică într-un peisaj altfel arid.",
+        "Bazat geologic pe formațiuni de calcar erodat.",
+        "Separare topografică de relieful uscat înconjurător."
+      ]
+    },
+    {
+      "id": "hordio-lagoon-relief-v2",
+      "descriptionAdvanced": "Laguna Hordio formează o suprafață de apă protejată, situată mai jos din punct de vedere topografic, în zona de coastă de nord-est a Somaliei. Această formațiune a luat naștere prin separarea naturală a unui golf puțin adânc de mare deschisă prin bancuri de nisip, ceea ce creează o zonă de apă liniștită, salmastră. Relieful este caracterizat prin depuneri sedimentare și maree. Acest mediu plat și protejat servește drept retragere ecologică esențială și loc de odihnă pentru numeroase specii de păsări migratoare, deoarece oferă o bază alimentară stabilă într-un relief de coastă altfel destul de aspru.",
+      "factsAdvanced": [
+        "Suprafață de lagună salmastră protejată, situată mai jos.",
+        "Formată prin separarea naturală de mare via bancuri de nisip.",
+        "Topografie prin depuneri sedimentare și maree.",
+        "Habitat ecologic stabil cu zone de apă liniștită.",
+        "Loc de odihnă esențial pentru numeroase specii de păsări migratoare.",
+        "Bază alimentară stabilă într-un relief altfel aspru.",
+        "Zonă interactivă între topografia marină și terestră."
+      ]
+    },
+    {
+      "id": "kismayo-coastal-relief-v2",
+      "descriptionAdvanced": "Relieful de coastă Kismayo se întinde ca o zonă plată și vastă la sud de delta râului Juba. Structura topografică este marcată de zone de coastă deschise și nisipoase și un sistem complex de golfuri puțin adânci, care sunt remodelate constant prin influența marină. Relieful prezintă aici primele semne pentru ecosistemele de mangrove specializate, deoarece golfurile protejate, bogate în sedimente, oferă o bază ideală pentru aceste plante. Peisajul de coastă este în mare parte orizontal și mediază între spațiul maritim și peisajul de savană care se întinde spre interiorul țării, relieful fiind stabilizat atât prin sedimentarea fluvială, cât și prin cea marină.",
+      "factsAdvanced": [
+        "Zonă plată și vastă la sud de delta râului Juba.",
+        "Caracterizat prin coaste nisipoase și un sistem de golfuri puțin adânci.",
+        "Primele semne pentru ecosisteme de mangrove specializate în zonă.",
+        "Format prin sedimentare marină și fluvială constantă.",
+        "Peisaj orizontal ca zonă de tranziție către savană.",
+        "Stabilitate topografică prin interacțiunea forțelor.",
+        "Interacțiune complexă din geografia marină și terestră."
+      ]
+    }
+  ]
+}

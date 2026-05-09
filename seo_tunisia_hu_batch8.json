@@ -1,0 +1,57 @@
+{
+  "lang": "hu",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jebel-djerissa-iron-mine-economic-v2",
+      "descriptionAdvanced": "Jebel Djerissa vasércbányája Tunézia bányászati történelmének egyik legjelentősebb helyszíne, amely évtizedeken át meghatározó szerepet játszott az ország ipari fejlődésében. A bánya által kitermelt kiváló minőségű vasérc a nemzeti kohászat alapjait biztosította, és szorosan összekapcsolódott a tunéziai infrastruktúra kiépülésével a huszadik században. A terület jellegzetes vörös tájképe az egykori bányászati tevékenység emlékét őrzi, emlékeztetve az ország korai iparosítási törekvéseire. Bár a kitermelés jellege mára megváltozott, Jebel Djerissa az ipari örökség egyik legmeghatározóbb szimbóluma, amely hűen tükrözi Tunézia bányászati múltját és az ásványkincsekben rejlő gazdasági lehetőségeket.",
+      "factsAdvanced": [
+        "Tunézia bányászati történelmének meghatározó helyszíne.",
+        "A 20. századi nemzeti kohászat alapjait biztosította.",
+        "Évtizedeken át kiváló minőségű vasércet szállított.",
+        "Jellegzetes vörös tájképe az ipari múltra emlékeztet.",
+        "Az ország korai iparosításának fontos ipari öröksége.",
+        "Szimbolizálja a bányászati múltat és a gazdasági lehetőségeket."
+      ]
+    },
+    {
+      "id": "miskar-gas-field-economic-v2",
+      "descriptionAdvanced": "A Miskar tengeri földgázmező a Gabèsi-öböl egyik legmeghatározóbb energetikai létesítménye, amely az ország áramtermeléséhez szükséges földgáz nagy részét biztosítja. A hatalmas offshore platformról irányított kitermelés technológiailag a legmagasabb szintet képviseli, garantálva a folyamatos és biztonságos energiaellátást a tunéziai erőművek számára. A Miskar a nemzeti energetikai függetlenség megőrzésének egyik kulcsfontosságú eleme, amely megbízható bázist nyújt az ipari és lakossági energiaigények kielégítéséhez. A földgázmező működése a tunéziai offshore mérnöki tudást és a nehéz tengeri körülmények közötti kitermelési szakértelmet is ékesen bizonyítja.",
+      "factsAdvanced": [
+        "A Gabèsi-öböl legmeghatározóbb energetikai létesítménye.",
+        "Az ország áramtermelésének kulcsfontosságú forrása.",
+        "Hatalmas tengeri platformról irányított kitermelés.",
+        "Garantálja a folyamatos és biztonságos energiaellátást.",
+        "A nemzeti energetikai függetlenség alappillére.",
+        "Bizonyítja az ország tengeri kitermelési szakértelmét."
+      ]
+    },
+    {
+      "id": "ashtart-oil-field-economic-v2",
+      "descriptionAdvanced": "Az Ashtart tengeri olajmező a Gabèsi-öböl egyik legrégebbi és legtermékenyebb olajlelőhelye, amely az 1970-es évek óta járul hozzá jelentős mértékben a tunéziai kőolaj-kitermeléshez. A modern, úszó termelő- és tárolóhajóval felszerelt mező az offshore technológia egyik sikertörténete, amely stabil olajhozamot biztosít az ország számára. A mező hosszú távú üzemelése bizonyítja a tunéziai szakemberek kitartását és technológiai felkészültségét a tengeri olajiparban. Az Ashtart az ország kőolaj-függetlenségének egyik záloga, amely a mai napig aktívan támogatja a nemzetgazdaság olajszükségleteit és exportpotenciálját.",
+      "factsAdvanced": [
+        "A Gabèsi-öböl egyik legrégebbi olajlelőhelye.",
+        "Az 1970-es évek óta meghatározó kőolajforrás.",
+        "Modern úszó termelő- és tárolóhajóval (FPSO) felszerelt.",
+        "Stabilitást biztosít az ország kőolajtermelésében.",
+        "Ékesen bizonyítja a tunéziai offshore szakértelmet.",
+        "Aktívan támogatja a nemzetgazdaság energiaigényeit."
+      ]
+    },
+    {
+      "id": "sra-ouertane-mine-economic-v2",
+      "descriptionAdvanced": "A Sra Ouertane foszfátlelőhely az északnyugati régió legnagyobb kiaknázatlan ásványkincs-tartaléka, amely az ország jövőbeli bányászati stratégiájának egyik legígéretesebb eleme. A hatalmas kiterjedésű terület bányászati potenciálja világszinten is figyelemre méltó, amely hosszú távon jelentős lökést adhat a regionális gazdasági fejlődésnek. A tervezett nagyszabású fejlesztések révén Sra Ouertane új munkahelyek ezreit teremtheti és hosszú távon erősítheti a tunéziai foszfát-export pozícióit. A terület jelenleg az ásványkincsek stratégiai tartalékát képezi, amelynek kiaknázása az ország jövőbeli ipari és bányászati növekedésének egyik kiemelt projektje.",
+      "factsAdvanced": [
+        "Északnyugat legnagyobb kiaknázatlan foszfátlelőhelye.",
+        "Az ország jövőbeli bányászati stratégiájának alapja.",
+        "Világszinten is jelentős bányászati potenciállal rendelkezik.",
+        "Hosszú távon erősítheti a nemzeti exportpotenciált.",
+        "Új munkahelyek ezreinek teremtését ígéri a jövőben.",
+        "Az ásványkincsek egyik legfontosabb stratégiai tartaléka."
+      ]
+    }
+  ]
+}

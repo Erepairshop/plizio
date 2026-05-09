@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bangweulu-basin-relief-v2",
+      "descriptionAdvanced": "A Bangweulu-medence egy hatalmas, lapos süllyedék Zambia északkeleti részén, amelynek központja a Bangweulu-tó és az azt körülvevő kiterjedt mocsárvilág. Ez a terület egy összetett hidrológiai rendszer, ahol az állandóan változó vízszint és a sűrű csatornahálózat folyamatosan átformálja a tájat. A térség geológiailag az egyik leginstabilabb zóna az országban, ugyanakkor rendkívül gazdag élővilággal rendelkezik, amely létfontosságú a vándormadarak és számos endemikus állatfaj számára. A táj lapos, szinte teljesen sík domborzata és a szezonális áradások döntően meghatározzák a helyi gazdaságot és a településszerkezetet.",
+      "factsAdvanced": [
+        "A medence területe körülbelül 15 000 négyzetkilométer.",
+        "A Bangweulu elnevezés jelentése: 'ahol a víz megérinti az eget'.",
+        "A terület a Bangweulu-mocsárrendszer központja.",
+        "Jelentős szerepet játszik Zambia édesvízi halászatában.",
+        "Geológiailag egy süllyedékes zóna a fennsíkon.",
+        "A régió átlagos tengerszint feletti magassága 1100–1200 méter."
+      ]
+    },
+    {
+      "id": "nyika-plateau-relief-v2",
+      "descriptionAdvanced": "A Nyika-fennsík Zambia és Malawi határán húzódó, különleges domborzatú, magasan fekvő régió, amely szelíden hullámzó, füves dombjaival emelkedik ki a környező területekből. A fennsík nagy része 2000 méteres tengerszint feletti magasság fölé nyúlik, ami egyedi, alpesi jellegű vegetációt és a környező alföldeknél jelentősen hűvösebb mikroklímát eredményez. A táj gyakran ködös reggeleivel és kiterjedt, érintetlen legelőivel a zambiai földrajz egyik legkülönlegesebb pontja, amely fontos menedéket nyújt számos ritka állatfaj, például a leopárd számára is.",
+      "factsAdvanced": [
+        "Az átlagos tengerszint feletti magasság meghaladja a 2000 métert.",
+        "A régió földrajzilag Zambia és Malawi határán oszlik meg.",
+        "Egyedülálló afro-montán füves növénytársulások jellemzik.",
+        "Fontos élőhelye a ritka leopárdpopulációknak.",
+        "A terület híres a vadon élő orchideák gazdag változatosságáról.",
+        "Zambia egyik legfontosabb, természetvédelmi szempontból is kiemelkedő fennsíkja."
+      ]
+    },
+    {
+      "id": "zambezi-valley-relief-v2",
+      "descriptionAdvanced": "A Zambézi-völgy Zambia egyik legfontosabb földrajzi korridorja, amelyet az afrikai tektonikai lemezek mozgása alakított ki hosszú évmilliók során. A mélyen fekvő völgy az ország vízrajzának és mezőgazdaságának ütőere, ahol a termékeny hordalékos talajok ideális feltételeket biztosítanak az intenzív növénytermesztéshez. A domborzatot az uralkodó Zambézi folyó folyamatos eróziós munkája formálja, amely látványos partvonalakat és kiterjedt ártéri síkságokat hozott létre, egyben fontos migrációs útvonalat kínálva a térség változatos vadvilága számára.",
+      "factsAdvanced": [
+        "A régió több geológiai zóna találkozási pontján fekszik.",
+        "Központi helyet foglal el Zambia déli részén.",
+        "A völgyet rendkívül termékeny, hordalékos síkságok jellemzik.",
+        "Alapvető jelentőséggel bír a helyi halászat és mezőgazdaság számára.",
+        "Kulcsfontosságú állatvándorlási útvonal Afrikában.",
+        "A terület földtani képződése több millió éves tektonikus folyamatok eredménye."
+      ]
+    },
+    {
+      "id": "kabwe-plateau-relief-v2",
+      "descriptionAdvanced": "A Kabwe-fennsík Zambia középső részének kiterjedt, enyhén hullámos felszínű régiója, amely geológiai szempontból az ország egyik legstabilabb és leggazdagabb képződménye. Ez a vidék alkotja az ország történelmi ipari központját, mivel talaja jelentős ólom- és cinkérckészleteket rejt, amely alapjaiban határozta meg a régió urbanizációját és gazdasági fejlődését. A fennsík nemcsak bányászati szempontból kulcsfontosságú, hanem a szállítási infrastruktúra és a mezőgazdaság, különösen a kukoricatermesztés számára is nélkülözhetetlen alapot biztosít a régióban.",
+      "factsAdvanced": [
+        "Az átlagos tengerszint feletti magasság 1200 méter.",
+        "Zambia bányászati iparának történelmi fellegvára.",
+        "Jelentős ólom- és cinkkészletek találhatók a területen.",
+        "Észak- és Dél-Zambia legfontosabb közlekedési csomópontja.",
+        "A régió meghatározó szerepet tölt be a hazai kukoricatermesztésben.",
+        "Vízválasztóként működik a Kafue- és a Luangwa-medence között."
+      ]
+    },
+    {
+      "id": "northwestern-highlands-relief-v2",
+      "descriptionAdvanced": "Zambia északnyugati felföldjei egy komplex, plateauszerű dombokkal és mély folyóvölgyekkel szabdalt vidék, amely meghatározó szerepet játszik az ország vízháztartásában. Ez a terület számos nagy folyó, köztük a Zambézi forrásvidéke is, ezért földrajzilag kritikus fontosságú a régió hidrológiai stabilitása szempontjából. A tájat sűrű, érintetlen erdőségek borítják, miközben változatos geológiája a tudományos kutatások számára is kiemelt jelentőséggel bír, megőrizve a természetes állapotú közép-afrikai fennsík jellegét.",
+      "factsAdvanced": [
+        "Fontos vízválasztója a Zambézi folyónak.",
+        "Földtani szempontból rendkívül változatos üledékes képződmények jellemzik.",
+        "A régió nagy részét sűrű, érintetlen erdővidékek borítják.",
+        "A tengerszint feletti magasság helyenként eléri az 1400 métert.",
+        "Központi jelentőséggel bír a nyugati országrész ökológiai egyensúlyában.",
+        "Gazdag rézlelőhelyekben, amelyek meghatározzák a régió gazdaságát."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cape-town-city-hall-landmarks-v2",
+      "descriptionAdvanced": "A fokvárosi Városháza (City Hall) egy impozáns, edwardiánus stílusban épült történelmi épület, amely a város szívében áll. Az 1905-ben átadott, mésszerkezetű épület toronyórája és díszes homlokzata a gyarmati korszak építészetének egyik legszebb példája Dél-Afrikában. A Városháza nemcsak közigazgatási szerepet töltött be, hanem politikai jelentőséggel is bír: a helyszín legismertebb eseménye Nelson Mandela első nyilvános beszéde volt a börtönből való szabadulása után, 1990-ben, amely a modern dél-afrikai demokrácia megszületésének egyik legmeghatározóbb pillanata volt.",
+      "factsAdvanced": [
+        "1905-ben átadott történelmi épület.",
+        "Edwardiánus építészeti stílus jellemzi.",
+        "A városközpontban, a Grand Parade közelében áll.",
+        "Nelson Mandela 1990-es, történelmi beszédeinek helyszíne.",
+        "Díszes toronyórája a város látképének része.",
+        "A dél-afrikai demokrácia egyik jelképe.",
+        "Ma kulturális és rendezvényközpont."
+      ]
+    },
+    {
+      "id": "nelson-mandela-bay-stadium-landmarks-v2",
+      "descriptionAdvanced": "A Gqeberhában (korábbi nevén Port Elizabeth) található Nelson Mandela Bay Stadion egy korszerű, multifunkcionális sportlétesítmény, amelyet a 2010-es labdarúgó-világbajnokságra építettek. A stadiont az North End-tó partján alakították ki, jellegzetes tetőszerkezete – amely egy virágszirmokra emlékeztető formát idéz – a város egyik legmodernebb építészeti alkotásává teszi. A létesítmény rendszeresen ad otthont rögbimérkőzéseknek, labdarúgó-eseményeknek és különböző kulturális nagyrendezvényeknek, aktívan hozzájárulva a régió sportéletéhez és turizmusához.",
+      "factsAdvanced": [
+        "A 2010-es világbajnokságra készült sportlétesítmény.",
+        "Gqeberha (Port Elizabeth) North End-tavánál található.",
+        "A tetőszerkezete virágszirmokat idéző formájú.",
+        "Többfunkciós: rögbi és labdarúgó mérkőzések helyszíne.",
+        "Kapacitása mintegy 46 000 néző.",
+        "A régió sportéletének központja.",
+        "Modern építészeti kialakítás."
+      ]
+    },
+    {
+      "id": "sentech-tower-landmarks-v2",
+      "descriptionAdvanced": "A johannesburgi Sentech-torony, amelyet korábban Brixton-toronyként ismertek, egy magas, karcsú betonépítmény, amely évtizedek óta a városi látkép egyik kiemelkedő mérföldköve. Az 1962-ben átadott torony eredetileg televíziós és rádiós sugárzási célokat szolgált, és magassága miatt a város szinte minden pontjáról látható. A modern ipari építészet ékköve, amely a technológiai fejlődést jelképezi, éjszakai kivilágításával pedig Johannesburg egyik legfontosabb fényjelzőjévé vált a sötétben, segítve a tájékozódást a városban.",
+      "factsAdvanced": [
+        "1962-ben épült híradástechnikai torony.",
+        "237 méter magas vasbeton szerkezet.",
+        "Johannesburg skyline-jának meghatározó része.",
+        "Televíziós és rádiós sugárzásra tervezték.",
+        "Brixton negyedben található.",
+        "A modern technológiai építészet példája.",
+        "Éjszakai kivilágítása fontos tájékozódási pont."
+      ]
+    }
+  ]
+}

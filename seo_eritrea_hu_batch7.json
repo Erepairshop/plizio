@@ -1,0 +1,21 @@
+{
+  "lang": "hu",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tessenei-lowland-relief-v2",
+      "descriptionAdvanced": "A Tessenei-alföld Szudánnal határos, termékeny vidék, amely elsősorban az öntözéses mezőgazdaságra való összpontosításáról ismert. A pamuttermesztés itt igazi virágkorát éli a fejlett öntözőrendszereknek köszönhetően, amelyek a félszáraz talajt magas hozamú szántóföldekké varázsolják. Ez a régió kritikus fontosságú mezőgazdasági termelő, amely jelentősen hozzájárul az ország exportjához és a regionális gazdasági kereskedelemhez. A sikeres gazdálkodás jól példázza az ipari méretű mezőgazdaságban rejlő lehetőségeket Eritrea nyugati felében. Földrajz K7 — határ menti mezőgazdaság és öntözés.",
+      "factsAdvanced": [
+        "Termékeny alföld a szudáni határnál.",
+        "Magas hozamú, öntözött pamuttermelés.",
+        "Modern öntözési rendszerek.",
+        "Kritikus mezőgazdasági központ.",
+        "Jelentős hozzájárulás az exporthoz.",
+        "Ipari méretű gazdálkodás mintája."
+      ]
+    }
+  ]
+}

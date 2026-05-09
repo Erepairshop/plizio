@@ -1,0 +1,48 @@
+{
+  "lang": "ro",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "djebel-fkirine-relief-v2",
+      "descriptionAdvanced": "Djebel Fkirine este un masiv muntos impunător lângă Zaghouan, care domină peisajul tunisian nordic prin pereții săi stâncoși și relieful arid și fragmentat. Munții sunt carstificați din punct de vedere geologic, ceea ce permite stocarea apei adânc în stânci, astfel încât zona muntoasă servește ca un turn de apă natural pentru zonele joase din jur. Izvoarele care izvorăsc la poalele munților au fost esențiale din punct de vedere istoric pentru alimentarea cu apă a așezărilor antice, inclusiv a centrelor de infrastructură din epoca romană. Suprafața este extrem de uscată, vegetația constă în arbuști mediteraneeni adaptați condițiilor dificile, ceea ce conferă zonei o atmosferă sălbatică, deosebită.",
+      "factsAdvanced": [
+        "Munții sunt compuși în principal din calcar carstificat.",
+        "Una dintre cele mai importante surse naturale de apă din zona Zaghouan.",
+        "Zona este aridă din punct de vedere climatic, vegetația tipică fiind arbuștii mediteraneeni.",
+        "Vârfurile sale și stâncile abrupte sunt puncte de reper excelente.",
+        "Din punct de vedere istoric, a fost o bază importantă pentru sistemele antice de alimentare cu apă.",
+        "Munții prezintă efectele eroziunii naturale și ale carstificării.",
+        "Datorită izolării sale, fauna naturală a rămas neperturbată."
+      ]
+    },
+    {
+      "id": "djebel-hamra-relief-v2",
+      "descriptionAdvanced": "Djebel Hamra este un lanț muntos de o frumusețe pitorească în partea de nord a regiunii Kroumirie din Tunisia, care aparține ramurii nordice a munților Atlas. Peisajul este caracterizat de dealuri verzi și văi adânci care, datorită precipitațiilor abundente din regiune, sunt pline de viață în cea mai mare parte a anului. Lanțul muntos este o zonă agricolă și de pășunat importantă pentru comunitățile locale, în timp ce panorama care se deschide de pe creastă oferă una dintre cele mai spectaculoase priveliști montane din țară. Vegetația este bogată, stejarul de plută și arbuștii mediteraneeni formează stocul forestier, ceea ce oferă aspectul tipic munților din nordul Tunisiei.",
+      "factsAdvanced": [
+        "Face parte din lanțurile muntoase ale Atlasului de nord.",
+        "Iarna și primăvara zona are o vegetație deosebit de bogată și verde.",
+        "Una dintre zonele tradiționale importante de pășunat din regiune.",
+        "Datorită panoramei pitorești, zona este o destinație populară pentru drumeții.",
+        "În pădurile din jur, stejarul de plută este una dintre speciile dominante.",
+        "Topografia este mai blândă și mai ușor de parcurs decât munții Atlas din sud.",
+        "Microclimatul este considerabil mai blând decât în zonele aride interioare ale țării."
+      ]
+    },
+    {
+      "id": "djebel-es-sif-relief-v2",
+      "descriptionAdvanced": "Djebel es Sif este un lanț muntos izolat și aspru în Tunisia centrală, care se conectează tectonic cu mișcările la scară largă ale sistemului muntos Atlas. Peisajul este extrem de îndepărtat, efectul climei deșertice se exercită puternic aici, astfel încât vegetația este rară, iar suprafața este acoperită de stânci goale și pietre. Interesul geologic al zonei este că prezintă structuri tectonice complexe care dezvăluie dinamica formării munților. Izolarea lanțului muntos înseamnă că natura predomină aici complet neperturbat, iar clima - din cauza căldurii mari din timpul zilei și a răcirii semnificative de noapte - reprezintă o adevărată provocare deșertică pentru creaturile vii.",
+      "factsAdvanced": [
+        "Face parte din mișcările tectonice ale munților Atlas.",
+        "Este unul dintre cele mai îndepărtate lanțuri muntoase din Tunisia centrală.",
+        "Vegetația este extrem de rară datorită climei aride.",
+        "Mediul se răcește drastic noaptea și se încălzește ziua.",
+        "Suprafața sa este compusă aproape în întregime din stânci goale și pietriș.",
+        "Din punct de vedere geologic, arată procesele dinamice de formare a munților.",
+        "Datorită izolării sale, viața naturală este deosebit de neperturbată."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "lang": "en",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cv-cidade-velha-history-v2",
+      "descriptionAdvanced": "Cidade Velha, formerly known as Ribeira Grande, was the first European colonial outpost in the tropics and the first capital of Cape Verde. Founded in 1462 by the Portuguese, it served as a crucial hub for the transatlantic slave trade and maritime navigation between Europe, Africa, and the Americas for nearly three centuries. The settlement's strategic importance is reflected in its UNESCO World Heritage status, granted in 2009. The historic center contains remarkable ruins, including the 16th-century Se Cathedral, the Royal Fortress of Sao Filipe, and several churches that showcase the fusion of European and African cultural influences. Despite multiple pirate attacks, including those led by Francis Drake, Cidade Velha remains a living monument to the beginnings of globalization and the birth of the Cape Verdean nation. Today, visitors can walk the cobblestone streets that once echoed with the activity of one of the world's most significant commercial ports.",
+      "factsAdvanced": [
+        "Founded in 1462, it is the oldest European settlement in West Africa.",
+        "Designated as a UNESCO World Heritage Site in 2009.",
+        "First capital of the Cape Verde archipelago until 1770.",
+        "Strategic maritime hub for the transatlantic slave trade.",
+        "Sacked by the famous English pirate Francis Drake in 1585.",
+        "Home to the first European cathedral built in West Africa.",
+        "Features the iconic Pelourinho (Pillory) from 1512.",
+        "Located 15 kilometers west of the modern capital, Praia."
+      ]
+    },
+    {
+      "id": "cv-fortaleza-real-sao-filipe-history-v2",
+      "descriptionAdvanced": "The Fortaleza Real de São Filipe is a majestic stone fortress perched 120 meters above Cidade Velha on the island of Santiago. Built by the Portuguese between 1587 and 1593, it was designed to defend the former capital from the frequent pirate attacks that plagued the mid-Atlantic shipping routes. The fort's construction followed the devastating raid by Francis Drake in 1585, which highlighted the city's vulnerability. The structure features thick basalt walls, several bastions, and a central courtyard containing a cistern and a small chapel. From its ramparts, soldiers once commanded a 360-degree view of the Atlantic Ocean and the surrounding valleys. Restored in the late 20th century, the fortress is now one of Cape Verde's most iconic historical landmarks, offering visitors a deep dive into the colonial military architecture and the strategic history of the archipelago during the Age of Discovery.",
+      "factsAdvanced": [
+        "Built between 1587 and 1593 to defend Ribeira Grande.",
+        "Perched on a plateau 120 meters above sea level.",
+        "Constructed using massive blocks of local volcanic basalt.",
+        "Commissioned by King Philip I of Portugal (Philip II of Spain).",
+        "Features multiple bastions named after various saints.",
+        "Contains a subterranean cistern for rainwater storage.",
+        "Successfully repelled various pirate and corsair attacks.",
+        "Underwent extensive restoration by the Spanish government in 1999."
+      ]
+    },
+    {
+      "id": "cv-pelourinho-cidade-velha-history-v2",
+      "descriptionAdvanced": "The Pelourinho (Pillory) of Cidade Velha is one of the most significant and sobering monuments in Cape Verdean history. Erected in 1512 in the center of the main square of Ribeira Grande, this white marble column in the Manueline style served as a symbol of Portuguese royal authority and municipal justice. More tragically, it was the central point where enslaved Africans were displayed and sold before being shipped across the Atlantic. The monument features intricate carvings of the Portuguese royal arms and spheres, reflecting the artistic style of the Portuguese Renaissance. Standing as a silent witness to centuries of human suffering and commercial greed, the Pelourinho is now a powerful site of remembrance and national identity. It represents the starting point of the Creolization process that defined the Cape Verdean people, making it a focal point for visitors seeking to understand the deep roots of the archipelago's history.",
+      "factsAdvanced": [
+        "Erected in 1512, making it over 500 years old.",
+        "Built from imported white marble in the Manueline style.",
+        "A central monument in the UNESCO World Heritage Site.",
+        "Symbolized Portuguese judicial and administrative power.",
+        "Site of the public sale and punishment of enslaved people.",
+        "Features the coat of arms of King Manuel I of Portugal.",
+        "One of the best-preserved Manueline monuments in Africa.",
+        "Located in the heart of the historic square of Cidade Velha."
+      ]
+    },
+    {
+      "id": "cv-ruinas-se-catedral-history-v2",
+      "descriptionAdvanced": "The ruins of the Sé Cathedral in Cidade Velha are the imposing remains of what was once the largest Christian building in sub-Saharan Africa. Construction began in 1556, but the cathedral was not fully completed until around 1700, reflecting the long periods of economic instability and pirate threats faced by the colony. The building was a massive structure of basalt and limestone, designed to showcase the religious power of the Bishopric of Cape Verde, which then controlled vast areas of the West African coast. However, its glory was short-lived; in 1712, the French privateer Jacques Cassard led a brutal raid that left the cathedral in ruins. Today, the roofless nave and the massive columns provide a hauntingly beautiful silhouette against the Atlantic sky. The site is a key component of the Cidade Velha UNESCO World Heritage area, representing both the peak of colonial religious ambition and the subsequent decline of the first capital.",
+      "factsAdvanced": [
+        "Construction began in 1556 and spanned over 140 years.",
+        "Once the largest cathedral in the West African region.",
+        "Destroyed by the French privateer Jacques Cassard in 1712.",
+        "Built using a combination of local basalt and imported limestone.",
+        "The cathedral's ruins are 12 meters high at their peak.",
+        "Center of the Diocese of Cape Verde for nearly 200 years.",
+        "Features a distinctive Manueline and Renaissance architectural style.",
+        "Archaeological excavations have uncovered 16th-century floor tiles."
+      ]
+    },
+    {
+      "id": "cv-tarrafal-concentration-camp-history-v2",
+      "descriptionAdvanced": "The Tarrafal Concentration Camp, officially known as the 'Campo de Trabalho de Chão Bom', is a site of immense historical and political significance located in the northern part of Santiago Island. Established in 1936 by the Portuguese Estado Novo regime under António de Oliveira Salazar, it was used to imprison and silence political opponents from Portugal and its African colonies. The camp was notorious for its brutal conditions, including extreme heat, lack of medical care, and the infamous 'frigideira' (the frying pan)—a concrete isolation cell with no ventilation where prisoners were often kept for days. It was closed in 1954 but reopened in 1961 to house African independence fighters from Angola, Guinea-Bissau, and Cape Verde. Today, the site has been converted into the Museum of Resistance, serving as a solemn memorial to those who fought and died for freedom and decolonization in the Lusophone world.",
+      "factsAdvanced": [
+        "Established in 1936 by the Portuguese Salazar dictatorship.",
+        "Modeled after Nazi concentration camps for political dissidents.",
+        "Known as the 'Camp of Slow Death' due to its harsh conditions.",
+        "Housed political prisoners from Portugal, Angola, and Guinea-Bissau.",
+        "Reopened in 1961 during the African wars for independence.",
+        "Permanently closed in 1974 following the Carnation Revolution.",
+        "Designated as a National Heritage site of Cape Verde in 2004.",
+        "Home to the infamous 'Frigideira' isolation torture chamber."
+      ]
+    },
+    {
+      "id": "cv-farol-dona-maria-pia-history-v2",
+      "descriptionAdvanced": "The Farol de Dona Maria Pia, also known as the Ponta Temerosa Lighthouse, is a prominent maritime landmark located at the entrance to the harbor of Praia on the island of Santiago. Completed in 1881 and named after the Queen Consort of Portugal, this octagonal masonry tower stands 21 meters tall and has guided countless ships through the dangerous waters of the southern Barlavento for over a century. The lighthouse is situated on a rocky promontory that offers breathtaking views of the Atlantic Ocean and the modern port facilities of the capital. Architecturally, the tower is white with a distinctive red lantern room, and the complex includes the former lighthouse keepers' residence. Historically, its construction was part of a major effort to modernize Cape Verde's maritime infrastructure during the late colonial period. Today, while automated, it remains a symbol of Praia's nautical heritage and a favorite spot for evening walks among locals and tourists alike.",
+      "factsAdvanced": [
+        "Completed and inaugurated in 1881 during the colonial era.",
+        "Named after Maria Pia of Savoy, Queen of Portugal.",
+        "The masonry tower stands at a height of 21 meters.",
+        "Located at Ponta Temerosa, guarding the entry to Praia harbor.",
+        "The light has a focal plane of 25 meters above sea level.",
+        "Features a distinctive octagonal shape and white-painted stone.",
+        "Visible from a distance of 15 nautical miles at sea.",
+        "Surrounded by a scenic promenade popular for sunset viewing."
+      ]
+    },
+    {
+      "id": "cv-palacio-presidencial-praia-history-v2",
+      "descriptionAdvanced": "The Presidential Palace in Praia is one of the most elegant examples of colonial neoclassical architecture in Cape Verde. Located in the Plateau district (Plateau), the historic heart of the capital, the building was constructed in the late 19th century to serve as the residence for the Portuguese Governors. Following Cape Verde's independence in 1975, it became the official residence and workplace of the President of the Republic. The palace is characterized by its balanced facade, stately columns, and manicured gardens that overlook the Atlantic Ocean. Its pink-toned walls and green shutters are iconic features of the city's skyline. Historically, the palace has been the site of many crucial political decisions and diplomatic events that shaped the modern state of Cape Verde. While access to the interior is restricted for security reasons, the exterior remains a focal point for any architectural tour of Praia, representing the transition from colonial administration to national sovereignty.",
+      "factsAdvanced": [
+        "Built in the late 19th century as the Governor's Palace.",
+        "Official residence of the President of Cape Verde since 1975.",
+        "Located on the southern edge of the historic Plateau district.",
+        "Exemplifies Portuguese neoclassical colonial architecture.",
+        "Surrounded by some of the city's best-preserved gardens.",
+        "Commanding views over the harbor and the lighthouse.",
+        "Guarded by members of the Cape Verdean Armed Forces.",
+        "A key landmark in the administrative center of the capital."
+      ]
+    },
+    {
+      "id": "cv-quartel-jaime-mota-history-v2",
+      "descriptionAdvanced": "The Quartel Jaime Mota is a massive and imposing military barracks located in the Plateau district of Praia. Built in 1823, it is one of the oldest and most historically significant buildings in the capital, reflecting the strategic importance of Santiago Island for Portuguese military control in West Africa. The structure is characterized by its thick stone walls, classical facade, and a large central courtyard where military exercises have taken place for two centuries. The barracks are named after Jaime Mota, a soldier who played a significant role in the local military history. Throughout its existence, the building has served as the headquarters for colonial troops and later for the Cape Verdean Armed Forces after independence. Its presence on the edge of the Plateau, overlooking the sea, serves as a reminder of Praia's origins as a fortified administrative center. Today, it remains an active military facility and a prominent feature of the city's colonial heritage.",
+      "factsAdvanced": [
+        "One of the oldest buildings in Praia, constructed in 1823.",
+        "Named after the historical military figure Jaime Mota.",
+        "Features a prominent neoclassical facade and massive walls.",
+        "Located in the southern part of the historic Plateau district.",
+        "Served as the primary military headquarters for colonial Santiago.",
+        "Still houses administrative offices of the Cape Verdean Armed Forces.",
+        "Overlooks the Atlantic Ocean and the Achada Grande region.",
+        "Displays historical cannons at its main entrance."
+      ]
+    },
+    {
+      "id": "cv-mindelo-historic-center-history-v2",
+      "descriptionAdvanced": "The historic center of Mindelo, located on the island of São Vicente, is widely considered the cultural heart of Cape Verde. Developed primarily in the 19th century around the Porto Grande harbor, the city was shaped by its role as a major British coaling station, which brought together influences from across the Atlantic. The center is characterized by its well-preserved colonial architecture, featuring colorful facades, wrought-iron balconies, and cobblestone streets. Key landmarks include the Palácio do Povo (formerly the Governor's Palace), the vibrant Municipal Market, and the Torre de Belém. Mindelo's urban layout follows a grid pattern that opens onto the picturesque waterfront, where the iconic Rua de Lisboa begins. Historically, this area was the birthplace of the Morna music genre and the home of legendary singer Cesária Évora. Today, the historic center remains a lively hub of commerce, art, and nightlife, embodying the cosmopolitan and nostalgic spirit of Cape Verde's most European-influenced city.",
+      "factsAdvanced": [
+        "Developed in the 19th century as a key Atlantic maritime hub.",
+        "Features a unique blend of Portuguese and British architecture.",
+        "Birthplace of the 'Morna', Cape Verde's national music genre.",
+        "Home to the famous Rua de Lisboa, the city's main social artery.",
+        "Built around Porto Grande, one of the deepest natural harbors.",
+        "Contains the 19th-century Paços do Concelho (Town Hall).",
+        "Hosted diverse international communities due to the coal trade.",
+        "A protected heritage zone and center of the national carnival."
+      ]
+    },
+    {
+      "id": "cv-torre-de-belem-mindelo-history-v2",
+      "descriptionAdvanced": "The Torre de Belém in Mindelo is a striking architectural landmark and a symbol of the city's deep maritime history. Built between 1918 and 1921, the tower is a faithful, albeit smaller, replica of the famous Torre de Belém in Lisbon, Portugal. It was constructed during the height of the colonial era to serve as a maritime control station and a symbol of Portuguese presence in the vital Porto Grande harbor. Located on the waterfront near the fish market, the tower features the distinctive Manueline decorative elements, such as stone ropes and crosses of the Order of Christ. For decades, it served various administrative and maritime purposes. Today, it has been restored and houses a small maritime museum, providing visitors with insights into the history of Mindelo's port and its importance for transatlantic shipping. The tower stands as a bridge between the historical identity of the mother country and the local maritime soul of São Vicente.",
+      "factsAdvanced": [
+        "Constructed between 1918 and 1921 on the Mindelo waterfront.",
+        "A scale replica of the 16th-century Torre de Belém in Lisbon.",
+        "Built to commemorate the Portuguese maritime tradition.",
+        "Served as a lighthouse and harbor control post for decades.",
+        "Features Manueline architectural details and stone carvings.",
+        "Now houses the Mindelo Maritime Museum and local exhibitions.",
+        "Located next to the vibrant Mercado de Peixe (Fish Market).",
+        "One of the most photographed monuments on São Vicente Island."
+      ]
+    },
+    {
+      "id": "cv-fortim-del-rei-history-v2",
+      "descriptionAdvanced": "Fortim d'el-Rei is a historical fortification located on a hill overlooking the city of Mindelo and the Porto Grande harbor on São Vicente Island. Built in 1852 by the Portuguese, it was the first major military structure on the island, designed to protect the increasingly important port and the British coal depots from potential naval threats. The fort is situated at an elevation of 30 meters, providing a perfect vantage point over the bay and the neighboring island of Santo Antão. Throughout its history, it has served as a military post, a signal station, and even a prison during the colonial period. Although currently in a state of partial ruin, the site remains one of the most important historical locations in Mindelo, representing the strategic military interests that drove the city's early development. The hill offers some of the most spectacular views of Mindelo's skyline, making it a popular spot for both history enthusiasts and photographers.",
+      "factsAdvanced": [
+        "First major military fortification on São Vicente, built in 1852.",
+        "Positioned on a strategic hill overlooking Porto Grande.",
+        "Designed to defend the coal stations from maritime attacks.",
+        "Served as a prison for political dissidents during the dictatorship.",
+        "Highest historical military point within the city of Mindelo.",
+        "Offers a 360-degree panoramic view of the bay and city center.",
+        "Key landmark for studying 19th-century coastal defense.",
+        "Connected to the city center via a steep stone path."
+      ]
+    },
+    {
+      "id": "cv-historical-salt-pans-pedra-de-lume-history-v2",
+      "descriptionAdvanced": "The historical salt pans of Pedra de Lume, located on the island of Sal, are a site of extraordinary industrial and geological interest. Situated inside the crater of an extinct volcano whose floor lies below sea level, the salt pans were developed in the late 18th century by the Portuguese entrepreneur Manuel António Martins. The natural infiltration of seawater through the volcanic rock created a perfect environment for salt crystallization. For nearly 150 years, Pedra de Lume was one of the largest salt production centers in the Atlantic, exporting the 'white gold' to Brazil and Africa. The site still features the remnants of an impressive aerial cableway system built by the French company Salins du Cap-Vert in 1921 to transport salt to the port. Today, while industrial production has ceased, the site is a major tourist attraction where visitors can float in the highly saline waters of the pans, experiencing a piece of the island's economic soul.",
+      "factsAdvanced": [
+        "Located inside an extinct volcanic crater below sea level.",
+        "Commercial salt extraction began in 1796.",
+        "Features a 1,100-meter long aerial cableway from 1921.",
+        "Salt from here was historically exported to Brazil and Europe.",
+        "The water is 27 times saltier than regular ocean water.",
+        "Site of the first industrial railway in Cape Verde (1804).",
+        "A designated National Heritage site and a Ramsar wetland.",
+        "Provides a natural therapeutic floating experience for visitors."
+      ]
+    },
+    {
+      "id": "cv-forte-duque-de-braganca-history-v2",
+      "descriptionAdvanced": "The Forte de Duque de Bragança is a historic ruin located on the Ilhéu de Sal Rei, just off the coast of Boa Vista Island. Built by the Portuguese in 1820, the fort was a response to the devastating attacks by pirates and privateers who targeted the island's valuable salt trade. The structure was named after the Duke of Braganza (King Pedro IV) and was equipped with several cannons to defend the harbor and the nearby town of Sal Rei. The fort's thick stone walls were constructed using local limestone and volcanic rock, designed to withstand naval bombardment. Historically, it served as a key outpost for maritime surveillance and defense until the late 19th century. Today, the ruins of the fort, including parts of the walls and the old cannon emplacements, offer a glimpse into the defensive history of the archipelago. Accessible by boat or a challenging swim, the site is a place of solitude and history, surrounded by the turquoise waters of the Atlantic.",
+      "factsAdvanced": [
+        "Built in 1820 to protect the island from pirate raids.",
+        "Located on the uninhabited Ilhéu de Sal Rei off Boa Vista.",
+        "Named in honor of the Duke of Braganza, King Pedro IV.",
+        "Equipped with iron cannons to guard the lucrative salt port.",
+        "Constructed using local stone and lime during the colonial era.",
+        "Served as a strategic lookout point for over 60 years.",
+        "Now a protected historical site with visible artillery remains.",
+        "Offers views across the bay to the town of Sal Rei."
+      ]
+    },
+    {
+      "id": "cv-igreja-nossa-senhora-rosario-history-v2",
+      "descriptionAdvanced": "The Igreja de Nossa Senhora do Rosário in Cidade Velha is a building of immense historical and religious importance, being the oldest colonial church in the world that is still in use. Built in 1495, this small but beautiful church predates the Se Cathedral and served as the primary place of worship for the early settlers and the Christianized African population of Ribeira Grande. The architecture is primarily Gothic, featuring a unique Manueline chapel with intricate stone ribbing—one of the few examples of this style in Africa. Historically, the church is significant as the place where Father António Vieira preached and where the earliest Cape Verdean Christian communities were formed. It survived numerous pirate raids that destroyed much of the city. Today, its white-washed walls and simple wooden interior offer a peaceful and authentic glimpse into the religious life of the first colonial capital, standing as a testament to five centuries of continuous faith.",
+      "factsAdvanced": [
+        "Built in 1495, it is the oldest colonial church still in use.",
+        "Features a rare Gothic-Manueline chapel from the 16th century.",
+        "Only church in Cidade Velha to survive the 1712 French raid.",
+        "Place where the famous Portuguese Jesuit António Vieira preached.",
+        "Burial site for several early colonial governors and dignitaries.",
+        "Part of the core UNESCO World Heritage zone of Cidade Velha.",
+        "Underwent significant restoration work in the 20th century.",
+        "Located along the historic 'Rua Banana', the city's first street."
+      ]
+    },
+    {
+      "id": "cv-pacos-concelho-sao-filipe-history-v2",
+      "descriptionAdvanced": "The Paços do Concelho (Town Hall) of São Filipe is a beautiful example of colonial administrative architecture located in the heart of the historic center of Fogo Island. Built in the late 19th century, this elegant two-story building stands on the edge of a plateau overlooking the black sand beaches and the Atlantic Ocean. Its facade is characterized by symmetrical windows, wooden shutters, and a central balcony, reflecting the neoclassical influences typical of Portuguese administrative structures of that period. The Town Hall serves as the headquarters for the municipal government of São Filipe and is a key landmark in the city's urban layout. Historically, it has been the center of civic life on the island, witnessing the political changes from the colonial era to independence. The building's well-preserved state and its integration into the surrounding 'sobrado' (colonial house) district make it a vital part of the city's cultural and architectural heritage.",
+      "factsAdvanced": [
+        "Constructed in the late 19th century as the municipal center.",
+        "Located in the historic 'Bila' district of São Filipe.",
+        "A prime example of Portuguese neoclassical colonial architecture.",
+        "Serves as the administrative heart of the municipality of Fogo.",
+        "Features a prominent balcony with views over the Atlantic.",
+        "Part of the city's protected historical and architectural zone.",
+        "Integrates perfectly with the local tradition of 'Sobrado' houses.",
+        "Important site for official ceremonies and local civic events."
+      ]
+    },
+    {
+      "id": "cv-igreja-sao-joao-batista-history-v2",
+      "descriptionAdvanced": "The Igreja de São João Batista, located in the northern town of Ribeira Brava on São Nicolau Island, is one of the most impressive religious structures in the archipelago. Completed in the 18th century, the church served as the Cathedral of the Diocese of Cape Verde for a period when the see was moved from Cidade Velha due to pirate threats. The building is noted for its massive size, two prominent bell towers, and a beautifully decorated interior featuring gilded woodwork and traditional tiles. Its position in the narrow valley of Ribeira Brava makes it a dominant feature of the town's skyline. Historically, the church was a center for higher education and culture on the island, contributing to São Nicolau's reputation as a cradle of Cape Verdean intellectuals. Today, it remains a vital spiritual hub and a symbol of the island's deep-rooted Catholic traditions and historical prestige in the central Barlavento group.",
+      "factsAdvanced": [
+        "Completed in the 18th century in the heart of Ribeira Brava.",
+        "Served as the Cathedral of Cape Verde between 1798 and 1851.",
+        "Features two iconic bell towers and a massive basalt facade.",
+        "Interior contains valuable 18th-century gilded altarpieces.",
+        "Symbol of São Nicolau's historical role as a cultural center.",
+        "Part of a historic complex that included a famous seminary.",
+        "Strategically located in a deep, sheltered mountain valley.",
+        "One of the largest and most prestigious churches in the archipelago."
+      ]
+    },
+    {
+      "id": "cv-sobrados-sao-filipe-history-v2",
+      "descriptionAdvanced": "The Sobrados of São Filipe are the most distinctive and architecturally significant colonial residences in Cape Verde, representing the social and economic history of Fogo Island. These elegant two-story houses were built by the local land-owning aristocracy in the 18th and 19th centuries, primarily from the wealth generated by the coffee and cotton trade. A 'sobrado' is characterized by its large wooden balconies, high ceilings, and interior courtyards (quintals). Historically, the upper floor was reserved for the family, while the ground floor served as a warehouse or quarters for workers and enslaved people. The architecture blends Portuguese colonial styles with tropical adaptations. Many of these houses have been beautifully restored and now serve as hotels, museums, or offices, preserving the aristocratic atmosphere of the 'Bila' (the upper town). Walking through the streets of São Filipe is like visiting an open-air museum where each sobrado tells a story of the island's complex social hierarchy and maritime connections.",
+      "factsAdvanced": [
+        "Traditional 18th and 19th-century aristocratic residences.",
+        "Unique to São Filipe, defining the city's 'Bila' (Upper Town).",
+        "Characterized by large wooden balconies and high ceilings.",
+        "Built using local volcanic stone and imported hardwoods.",
+        "Reflect the social hierarchy of the colonial coffee-trading era.",
+        "Often feature beautiful interior gardens and stone cisterns.",
+        "Designated as a National Historical Heritage of Cape Verde.",
+        "Many have been converted into charming boutique hotels."
+      ]
+    },
+    {
+      "id": "cv-vila-porto-ingles-history-v2",
+      "descriptionAdvanced": "The historic center of Vila do Porto Inglês on Maio Island is a tranquil and well-preserved colonial settlement that reflects the island's historical importance in the salt trade. Established near the southwestern coast, the town was a key port for British and American ships who came to load the high-quality salt produced in the nearby pans. The center is characterized by its wide, sandy streets, colorful single-story houses, and the imposing Church of Nossa Senhora da Luz. Historically, the town's name (English Port) derives from the significant British influence during the 18th and 19th centuries. The architecture is a blend of traditional Cape Verdean styles with British colonial touches. Unlike the more bustling centers of Praia or Mindelo, Vila do Porto Inglês has maintained a slow pace of life and an authentic atmosphere. It serves as the administrative and cultural heart of Maio, preserving the memory of the island's maritime prosperity and its resilient salt-harvesting community.",
+      "factsAdvanced": [
+        "Administrative center of Maio, established during the salt boom.",
+        "Named after the strong British commercial presence in the 1800s.",
+        "Features the 19th-century Church of Nossa Senhora da Luz.",
+        "Strategically located near the island's primary salt pans.",
+        "The urban layout follows a grid with large, open squares.",
+        "Primary port of entry for the island for over two centuries.",
+        "Architecture consists of colorful colonial houses (casas térreas).",
+        "A quiet, authentic town known for its hospitality and peace."
+      ]
+    },
+    {
+      "id": "cv-igreja-nossa-senhora-conceicao-history-v2",
+      "descriptionAdvanced": "The Igreja de Nossa Senhora da Conceição in São Filipe is one of the most beautiful and iconic religious buildings on Fogo Island. Built in the 19th century, this neoclassical church is famous for its vibrant blue facade and its two symmetrical bell towers that dominate the city's central square. The interior is spacious and elegant, featuring a high altar with religious art from the colonial period. Historically, the church has been the center of religious life for the people of Fogo, hosting the island's most important festivals, including the celebration of São Filipe on May 1st. Its architecture reflects the prosperity of the island during the late 19th century, when the local aristocracy invested in the beautification of the town. The church is perfectly integrated into the historic 'sobrado' district and serves as a vital landmark for both spiritual practice and cultural identity on the island of the volcano.",
+      "factsAdvanced": [
+        "Constructed in the late 19th century in neoclassical style.",
+        "Iconic for its bright blue and white painted facade.",
+        "Located in the main square of São Filipe, Fogo Island.",
+        "Features two prominent bell towers visible from the coast.",
+        "Center of the island's biggest festival (Festa de São Filipe).",
+        "Houses valuable colonial-era religious statues and paintings.",
+        "A key element of Fogo's architectural and cultural heritage.",
+        "Restored recently to preserve its historical and aesthetic value."
+      ]
+    },
+    {
+      "id": "cv-casa-da-memoria-history-v2",
+      "descriptionAdvanced": "The Casa da Memória, located in the historic center of São Filipe on Fogo Island, is a museum dedicated to preserving and showcasing the unique cultural and social history of the island. Housed in a beautifully restored 19th-century 'sobrado', the museum offers visitors a deep dive into the traditions of the people of Fogo, from the techniques of volcanic agriculture to the history of the local aristocracy and the transatlantic connections. The exhibits include traditional household items, historical photographs, and tools used in the production of Fogo's famous coffee and wine. The museum also explores the history of the Pico do Fogo volcano and its impact on the island's settlements. Historically, the building itself was a family home, and its architecture—with its high ceilings and interior courtyard—is as much a part of the museum experience as the artifacts themselves. It serves as a vital cultural hub for education and the preservation of the island's collective memory.",
+      "factsAdvanced": [
+        "A cultural museum housed in a traditional 19th-century sobrado.",
+        "Located in the 'Bila' district of São Filipe on Fogo Island.",
+        "Exhibits focus on local history, volcanic life, and agriculture.",
+        "Displays traditional artifacts from Fogo's coffee and wine trade.",
+        "Provides insights into the island's complex social hierarchy.",
+        "Includes a collection of historical photographs and documents.",
+        "Serves as a research center for the island's cultural heritage.",
+        "The building itself is a protected architectural landmark."
+      ]
+    }
+  ]
+}

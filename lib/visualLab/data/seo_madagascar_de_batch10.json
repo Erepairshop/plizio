@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pont-kamoro-landmarks-v2",
+      "descriptionAdvanced": "Die Kamoro-Brücke ist ein architektonisches Highlight und ein entscheidendes Infrastrukturelement an der Nationalstraße 4 (RN4), die Antananarivo mit Mahajanga verbindet. Die ursprüngliche Hängebrücke, ein Erbe aus der Kolonialzeit, wurde durch eine moderne Konstruktion ergänzt, die den steigenden Anforderungen des Schwerlastverkehrs gerecht wird. Die Brücke überspannt den Kamoro-Fluss in einer dramatischen Schlucht und ist ein Symbol für die Überwindung der topographischen Hindernisse Madagaskars. Für Reisende ist die Überquerung der Kamoro-Brücke ein markantes Erlebnis auf der Reise durch das trockene Hochland in Richtung Westküste. Geschichte K7 — Verkehrsinfrastruktur und Ingenieurwesen.",
+      "factsAdvanced": [
+        "Strategisch wichtige Brücke auf der Hauptverkehrsader RN4",
+        "Überspannt den Kamoro-Fluss in der Region Boeny",
+        "Kombination aus historischer Hängebrücke und modernem Neubau",
+        "Ermöglicht den ganzjährigen Warenverkehr zur Westküste",
+        "Wichtiges technisches Denkmal der madagassischen Moderne",
+        "Meilenstein bei der Erschließung des Nordwestens",
+        "Architektonisch markant durch ihre weithin sichtbaren Pylone",
+        "Symbol für die nationale Integration durch verbesserte Logistik"
+      ]
+    },
+    {
+      "id": "port-of-toamasina-landmarks-v2",
+      "descriptionAdvanced": "Der Hafen von Toamasina (Tamatave) ist das wirtschaftliche Tor Madagaskars zur Welt und der mit Abstand größte Seehafen des Landes. An der Ostküste gelegen, schlägt er über 90 Prozent des gesamten Außenhandelsvolumens der Insel um. Das Hafenareal ist geprägt durch massive Containerterminals, Getreidesilos und spezialisierte Anlagen für den Export von Vanille, Nickel und Textilien. Der Hafen ist das Herzstück der madagassischen Wirtschaft und ein Motor für die Entwicklung der gesamten Region Atsinanana. Die ständige Erweiterung und Modernisierung des Hafens ist eine nationale Priorität, um Madagaskar als logistische Drehscheibe im Indischen Ozean zu positionieren. Wirtschaft K8 — Globaler Handel und Hafenlogistik.",
+      "factsAdvanced": [
+        "Bedeutendster Tiefseehafen der Republik Madagaskar",
+        "Zentraler Umschlagplatz für über 90% des Seehandels",
+        "Hauptexporthafen für madagassische Vanille und Gewürze",
+        "Besitzt modernste Container-Terminals nach internationalem Standard",
+        "Logistisches Drehkreuz für das Ambatovy-Nickelprojekt",
+        "Strategisches Ziel umfangreicher japanischer Investitionen (JICA)",
+        "Wesentlicher Arbeitgeber für die Hafenstadt Toamasina",
+        "Wahrzeichen für den wirtschaftlichen Aufschwung der Insel"
+      ]
+    },
+    {
+      "id": "prime-minister-palace-andafiavaratra-history-v2",
+      "descriptionAdvanced": "Der Palast des Premierministers in Andafiavaratra war im 19. Jahrhundert das eigentliche politische Machtzentrum Madagaskars. Hier residierte der mächtige Premierminister Rainilaiarivony, der nacheinander drei Merina-Königinnen heiratete und das Land durch die Stürme der europäischen Diplomatie führte. Das imposante Backsteingebäude mit seiner markanten Glaskuppel steht symbolisch für die Modernisierung des Merina-Reiches und den Versuch, westliche Regierungsformen zu integrieren. Nach einem Brand im Jahr 1995 wurde der Palast restauriert und beherbergt heute ein Museum, das die kostbaren Artefakte aus dem königlichen Rova bewahrt. Geschichte K8 — Diplomatie und Staatsbildung im 19. Jahrhundert.",
+      "factsAdvanced": [
+        "Ehemalige offizielle Residenz von Premierminister Rainilaiarivony",
+        "Architektonisches Monument auf dem Gipfel von Antananarivo",
+        "Beherbergt das Museum für königliche Geschichte und Artefakte",
+        "Symbol für die reale Machtausübung während der späten Monarchie",
+        "Erbaut im neoklassizistischen Stil mit vier Ecktürmen",
+        "Wurde nach dem verheerenden Brand von 1995 aufwendig saniert",
+        "Bietet Einblicke in die diplomatischen Korrespondenzen jener Ära",
+        "Wichtigstes historisches Archiv für das Merina-Königreich"
+      ]
+    },
+    {
+      "id": "qmm-mine-economic-v2",
+      "descriptionAdvanced": "Die QMM-Mine (QIT Madagascar Minerals) bei Fort-Dauphin ist ein weltweit bedeutendes Projekt zur Gewinnung von Ilmenit, einem Rohstoff für die Titanproduktion. Das von Rio Tinto betriebene Bergbauprojekt hat die Region Anosy im Südosten grundlegend transformiert und Madagaskar zu einem wichtigen Akteur auf dem globalen Mineralienmarkt gemacht. Der Abbau erfolgt in Küstensanden und ist mit anspruchsvollen Umweltschutz- und Wiederaufforstungsprogrammen verbunden. QMM hat zudem maßgeblich zur Entwicklung der lokalen Infrastruktur beigetragen, einschließlich des Baus des modernen Hafens von Ehoala. Wirtschaft K8 — Industrieller Bergbau und regionale Entwicklung.",
+      "factsAdvanced": [
+        "Großflächiges Ilmenit-Bergbauprojekt im Südosten Madagaskars",
+        "Joint Venture zwischen Rio Tinto und dem madagassischen Staat",
+        "Ilmenit wird primär zur Herstellung von Titandioxid-Pigmenten genutzt",
+        "Schuf die Basis für den Bau des Tiefseehafens von Ehoala",
+        "Wichtigster privater Investor in der Region Fort-Dauphin",
+        "Beinhaltet umfangreiche soziale und ökologische Ausgleichsprojekte",
+        "Besitzt eine eigene Forschungsstation für Biodiversitätsmonitoring",
+        "Zentraler Faktor für die wirtschaftliche Stabilität des Südens"
+      ]
+    },
+    {
+      "id": "ranomafana-hills-relief-v2",
+      "descriptionAdvanced": "Das Relief der Ranomafana-Region ist geprägt durch ein Labyrinth aus steilen, bewaldeten Hügeln und tiefen Tälern an der Ostflanke des zentralen Hochlandes. Diese Übergangszone zwischen dem Plateau und der Küstenebene ist durch intensive orographische Niederschläge gekennzeichnet, was die Entstehung eines dichten Bergregenwaldes begünstigt hat. Das Gelände ist von zahlreichen reißenden Flüssen und spektakulären Wasserfällen durchzogen, die das harte kristalline Gestein erodiert haben. Das Relief bietet ideale Bedingungen für Thermalquellen, die in Ranomafana ('Heißes Wasser') zutage treten. Geografisch gesehen ist diese Hügellandschaft ein kritischer Korridor für die Biodiversität Madagaskars. Geografie K7 — Gebirgslandschaften und Hydrologie.",
+      "factsAdvanced": [
+        "Geprägt durch stark zerklüftete Hügelketten an der Ostflanke",
+        "Übergangsbereich vom zentralen Hochland zum Indischen Ozean",
+        "Zentrum des orographischen Niederschlags im südöstlichen Regenwald",
+        "Beherbergt zahlreiche Wasserfälle wie den Namorona-Fall",
+        "Geologisch geprägt durch präkambrische Gneise und Granite",
+        "Relief ermöglichte die Bildung natürlicher Thermalquellen",
+        "Schwierige Topographie schützte den Primärwald vor Abholzung",
+        "Wichtiger Wasserspeicher für die Flusssysteme des Südostens"
+      ]
+    },
+    {
+      "id": "ranomafana-nature-v2",
+      "descriptionAdvanced": "Die Natur des Ranomafana-Nationalparks ist ein biologisches Weltwunder und Teil des UNESCO-Weltnaturerbes. Der Park wurde 1991 gegründet, nachdem hier der Goldene Bambuslemur entdeckt wurde, eine Art, die zuvor als ausgestorben galt. Die dichten Regenwälder beherbergen insgesamt zwölf Lemurenarten sowie eine unglaubliche Vielfalt an Vögeln, Reptilien und Amphibien. Durch die hohe Luftfeuchtigkeit und die steilen Hänge hat sich eine Flora aus riesigen Baumfarnen, Moosen und seltenen Orchideen erhalten. Ranomafana ist zudem ein Zentrum für die internationale Klimaforschung und beherbergt mit 'Centre ValBio' eine der modernsten Forschungsstationen Afrikas. Biologie K7 — Tropischer Regenwald und Artenschutz.",
+      "factsAdvanced": [
+        "Heimat des Goldenen Bambuslemurs (Hapalemur aureus)",
+        "Teil des UNESCO-Weltnaturerbes 'Regenwälder von Atsinanana'",
+        "Beherbergt zwölf verschiedene Lemurenarten in freier Wildbahn",
+        "Bekannt für seine hohe Dichte an endemischen Orchideen",
+        "Wichtigster Standort für die Erforschung seltener Amphibien",
+        "Verfügt über die moderne Forschungsstation Centre ValBio",
+        "Geprägt durch ein feuchtes, kühles Bergwald-Klima",
+        "Zentrum für nachhaltigen Ökotourismus und Umweltbildung"
+      ]
+    },
+    {
+      "id": "ranomafana-zoo-bereich-life-v2",
+      "descriptionAdvanced": "Der 'Zoo-Bereich' innerhalb oder nahe des Ranomafana-Nationalparks dient primär der Rettung und Rehabilitation verletzter oder konfiszierter Wildtiere. In dieser Einrichtung können Besucher Tiere beobachten, die in der freien Wildbahn oft schwer zu sichten sind, und gleichzeitig etwas über die Bedrohungen der madagassischen Fauna erfahren. Der Schwerpunkt liegt auf der Wiederauswilderung und der Aufklärung über den illegalen Tierhandel. Für Schulen und Forscher bietet der Bereich wertvolle Einblicke in das Verhalten und die Biologie von Lemuren und Reptilien unter kontrollierten Bedingungen. Die Einrichtung ist ein wichtiger Baustein im integrierten Naturschutzkonzept der Region Vatovavy. Biologie K6 — Tierpflege und Artenschutz-Management.",
+      "factsAdvanced": [
+        "Rehabilitationszentrum für bedrohte Lemurenarten",
+        "Zentrum zur Bekämpfung des illegalen Wildtierhandels",
+        "Bietet Einblicke in die Pflege seltener madagassischer Reptilien",
+        "Wichtiger Lernort für lokale Schülergruppen zum Thema Biodiversität",
+        "Arbeitet eng mit der Forschungsstation Centre ValBio zusammen",
+        "Fokus auf die Erhaltung lokaler Endemiten der Ostküste",
+        "Ort für medizinische Untersuchungen an geschützten Tierarten",
+        "Symbol für das Engagement Madagaskars im aktiven Tierschutz"
+      ]
+    },
+    {
+      "id": "rova-antananarivo-history-v2",
+      "descriptionAdvanced": "Der Rova von Antananarivo, der königliche Palastkomplex auf dem Hügel Analamanga, ist das ultimative Symbol der madagassischen Souveränität. Über Jahrhunderte hinweg war dieser befestigte Ort der Sitz der Merina-Monarchen, die von hier aus die Einigung der Insel vorantrieben. Das imposante 'Manjakamiadana' (Königinpalast), entworfen von Jean Laborde und James Cameron, prägt die Silhouette der Hauptstadt. Trotz eines verheerenden Brandes im Jahr 1995 bleibt der Rova das spirituelle Herz Madagaskars, an dem Geschichte, Ahnenkult und nationale Identität aufeinandertreffen. Die Rekonstruktion der Anlage ist ein Denkmal für die Widerstandsfähigkeit der madagassischen Kultur. Geschichte K8 — Monarchie und nationale Identität.",
+      "factsAdvanced": [
+        "Höchster Punkt und historisches Zentrum von Antananarivo",
+        "Einstiger Regierungssitz der Merina-Könige und -Königinnen",
+        "Wichtigstes nationales Heiligtum der Republik Madagaskar",
+        "Beherbergt die Gräber bedeutender Herrscher wie Radama I.",
+        "Symbol für den Widerstand gegen die französische Kolonialisierung",
+        "Wurde im Jahr 1995 durch Brandstiftung schwer beschädigt",
+        "Rekonstruiert als Monument für die madagassische Staatsbürgerschaft",
+        "Zentrum ritueller Zeremonien und offizieller Gedenkveranstaltungen"
+      ]
+    },
+    {
+      "id": "sahafary-forest-relief-v2",
+      "descriptionAdvanced": "Der Sahafary-Wald im Norden Madagaskars ist ein einzigartiges ökologisches Relief, das auf einer isolierten Ebene zwischen Kalksteinplateaus und vulkanischen Massiven liegt. Dieser Übergangswald ist durch eine Mischung aus Trockenwald-Elementen und feuchten Senken geprägt, was eine spezialisierte Flora und Fauna hervorgebracht hat. Das Relief ist relativ flach, wird jedoch durch markante Bodenerosion und kleine Bachläufe gegliedert. Sahafary ist besonders wertvoll als Lebensraum für bedrohte Lemurenarten und seltene Baobabs. Die geologische Lage des Waldes macht ihn zu einem sensiblen Ökosystem, das auf kleinste Veränderungen im Wasserhaushalt des Nordens reagiert. Geografie K7 — Ökologische Übergangszonen und Waldschutz.",
+      "factsAdvanced": [
+        "Bedeutender Trockenwaldkomplex in der Region Diana",
+        "Relief bildet einen wichtigen biologischen Korridor im Norden",
+        "Heimat des seltenen Sanford-Makis und des Kronenmakis",
+        "Geprägt durch rote Lateritböden und vereinzeltes Vulkangestein",
+        "Wichtiger Standort für botanische Inventuren der Nordspitze",
+        "Schützt seltene endemische Ebenholz- und Palisanderarten",
+        "Besitzt eine hohe Konzentration an sukkulenten Pflanzen",
+        "Symbol für die Bedrohung der nördlichen Waldökosysteme"
+      ]
+    },
+    {
+      "id": "sahambavy-tee-plantage-life-v2",
+      "descriptionAdvanced": "Die Teeplantage von Sahambavy bei Fianarantsoa ist die einzige ihrer Art auf Madagaskar und ein bedeutendes Agrarzentrum im Hochland. Begünstigt durch das kühle Klima und die konstanten Niederschläge, werden hier hochwertige Teesorten für den heimischen Markt und den Export angebaut. Die Plantage wurde in den 1970er Jahren gegründet und ist heute der wichtigste Arbeitgeber der Region. Besucher können den Prozess von der Ernte der jungen Blätter bis zur industriellen Trocknung und Verpackung in der Fabrik verfolgen. Sahambavy ist ein Beispiel für die erfolgreiche Diversifizierung der madagassischen Landwirtschaft und ein beliebtes Ziel für Agrotourismus. Wirtschaft K6 — Plantagenwirtschaft und Genussmittelproduktion.",
+      "factsAdvanced": [
+        "Einzige kommerzielle Teeplantage der Republik Madagaskar",
+        "Hauptexporteur von madagassischem Schwarz- und Grüntee",
+        "Gegründet im Jahr 1970 mit Unterstützung aus Kenia",
+        "Befindet sich auf einer Höhe von rund 1.100 Metern",
+        "Wichtigster Wirtschaftsfaktor für das Umland von Fianarantsoa",
+        "Tee wird primär nach Großbritannien und Kenia exportiert",
+        "Bietet geführte Touren durch die Felder und die Fabrik an",
+        "Wahrzeichen für den Agrarsektor des südlichen Hochlandes"
+      ]
+    },
+    {
+      "id": "saint-marie-island-nature-v2",
+      "descriptionAdvanced": "Die Natur der Insel Sainte Marie (Nosy Boraha) an der Ostküste ist ein tropisches Paradies von außergewöhnlicher Schönheit. Geprägt durch ein sanftes, hügeliges Relief, üppige Palmenhaine und weiße Sandstrände, bietet die Insel einen Rückzugsort für seltene Endemiten. Die Gewässer rund um Sainte Marie sind weltberühmt als bevorzugter Kalbungsort für Buckelwale im madagassischen Winter. Das maritime Relief ist reich an Korallenriffen, die die Insel vor der Brandung schützen und ideale Bedingungen für Schnorchler bieten. Die Insel ist zudem ein bedeutender Standort für den Anbau von Nelken und Vanille, was den Duft des gesamten Archipels prägt. Natur K7 — Inselökologie und Meeressäugetiere.",
+      "factsAdvanced": [
+        "Berühmtester Ort Madagaskars zur Buckelwal-Beobachtung (Juli-Sept.)",
+        "Geprägt durch einen dichten Gürtel aus Kokospalmen und Regenwald",
+        "Beherbergt seltene Orchideenarten und die Madagaskar-Boa",
+        "Wichtiges Zentrum für den Anbau von Gewürznelken (Girofle)",
+        "Umschlossen von geschützten, fischreichen Korallenriffen",
+        "Besitzt ein mildes, feucht-tropisches Mikroklima",
+        "Bietet Lebensraum für bedrohte Meeresschildkröten",
+        "Symbol für die unberührte maritime Natur des Ostens"
+      ]
+    },
+    {
+      "id": "sainte-marie-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Ambodifotatra auf der Insel Sainte Marie ist die lebenswichtige Versorgungsader des Archipels. In diesem geschützten Naturhafen kommen täglich Fähren vom Festland und Güterschiffe an, die die Insel mit Lebensmitteln, Treibstoff und Baumaterialien versorgen. Gleichzeitig dient der Hafen als Exportzentrum für die lokalen Gewürznelken, die ein Haupteinnahmefall der Inselbewohner sind. Der Hafen ist zudem ein touristisches Drehkreuz für Besucher, die zur Walbeobachtung kommen. Trotz seiner geringen Größe symbolisiert er die maritime Identität von Nosy Boraha und die Herausforderungen der Inselversorgung in Madagaskar. Wirtschaft K6 — Inselversorgung und Transportlogistik.",
+      "factsAdvanced": [
+        "Haupthandelshafen der Insel Sainte Marie (Nosy Boraha)",
+        "Zentraler Anlaufpunkt für Personenfähren aus Soanierana Ivongo",
+        "Wichtigstes Exportzentrum für Gewürznelken in der Region",
+        "Basis für die lokale Walbeobachtungsflotte",
+        "Strategischer Standort für die Versorgung mit Grundgütern",
+        "Symbol für die maritime Tradition der Betsimisaraka",
+        "Leidet historisch unter der Bedrohung durch Zyklone",
+        "Wesentlicher Motor für den regionalen Tourismussektor"
+      ]
+    },
+    {
+      "id": "sakoa-coal-economic-v2",
+      "descriptionAdvanced": "Das Sakoa-Kohlebecken im Südwesten Madagaskars beherbergt die größten bekannten Steinkohlevorkommen der Insel. Gelegen in der Region Atsimo-Andrefana, birgt diese Lagerstätte ein enormes Potenzial für die nationale Energieerzeugung und die Versorgung der Industrie. Die Erschließung der Sakoa-Kohle ist jedoch mit großen logistischen Herausforderungen verbunden, da die Infrastruktur in dieser trockenen und entlegenen Region kaum vorhanden ist. Das Projekt ist Gegenstand intensiver wirtschaftspolitischer Debatten über die zukünftige Energiestrategie Madagaskars und den Konflikt zwischen fossilen Brennstoffen und dem Umweltschutz. Sakoa steht für die ungenutzten mineralischen Potenziale im geologischen Fundament des Südens. Wirtschaft K8 — Bergbau und Energiestrategie.",
+      "factsAdvanced": [
+        "Größte Steinkohlelagerstätte der Republik Madagaskar",
+        "Befindet sich im abgelegenen Südwesten bei Sakoa",
+        "Geschätzte Vorräte von mehreren hundert Millionen Tonnen Kohle",
+        "Potenzielle Quelle für die nationale Stromerzeugung (Kohlekraftwerk)",
+        "Erfordert massive Investitionen in Eisenbahn und Hafenbau",
+        "Wichtiger Standort für die geologische Erforschung des Südens",
+        "Herausforderungen durch die ökologischen Auswirkungen des Tagebaus",
+        "Symbol für die Rohstoffreichtümer der madagassischen Karoo-Formation"
+      ]
+    },
+    {
+      "id": "savonnerie-tropicale-economic-v2",
+      "descriptionAdvanced": "Die Savonnerie Tropicale ist eines der traditionsreichsten Industrieunternehmen Madagaskars und bekannt für die Herstellung von Seifen und Kosmetika aus lokalen Rohstoffen. Das Unternehmen verarbeitet madagassische Öle, insbesondere aus Kokosnüssen und Palmfrüchten, zu Produkten für den Massenmarkt. Als Pionier der heimischen Veredelung landwirtschaftlicher Güter ist die Savonnerie Tropicale ein Symbol für die nationale Industrieproduktion ('Vita Malagasy'). Das Unternehmen spielt eine wichtige Rolle bei der Reduzierung von Importen und bietet tausenden Menschen in der Wertschöpfungskette eine Beschäftigung. Die Marke ist in jedem Haushalt der Insel präsent und steht für die Qualität madagassischer Industrieprodukte. Wirtschaft K7 — Konsumgüterindustrie und Agrarveredelung.",
+      "factsAdvanced": [
+        "Führender madagassischer Hersteller von Haushalts- und Körperpflegeseifen",
+        "Nutzt primär lokale Pflanzenöle zur Seifenproduktion",
+        "Wichtiger Akteur für die nationale Importsubstitution",
+        "Zentrum der industriellen Produktion in der Hauptstadtregion",
+        "Bekannt für seine ökologischen Ansätze bei der Rohstoffbeschaffung",
+        "Traditionsmarke mit hoher nationaler Bekanntheit",
+        "Schafft bedeutende Abnahmemärkte für lokale Ölpalm-Bauern",
+        "Wesentlicher Pfeiler der verarbeitenden Industrie Madagaskars"
+      ]
+    },
+    {
+      "id": "soavoanio-coconut-economic-v2",
+      "descriptionAdvanced": "SOAVOANIO ist Madagaskars größtes Unternehmen für den Anbau und die Verarbeitung von Kokosnüssen mit Sitz an der Nordostküste. In den fruchtbaren Ebenen rund um Sambava bewirtschaftet das Unternehmen riesige Kokosplantagen, die das Landschaftsbild prägen. SOAVOANIO produziert Kokosöl, Kopra und Fasern für den nationalen und internationalen Markt. Die Plantagen sind ein wichtiger Faktor für die ökologische Stabilität und die Beschäftigung in der Region SAVA. Das Unternehmen ist ein Beispiel für die industrielle Nutzung tropischer Palmenkulturen und spielt eine zentrale Rolle in der Exportwirtschaft des madagassischen Nordostens. Wirtschaft K7 — Agrarindustrie und Exportkulturen.",
+      "factsAdvanced": [
+        "Größte zusammenhängende Kokosplantage Madagaskars",
+        "Hauptproduzent von Kokosöl und Kopra auf der Insel",
+        "Befindet sich in der fruchtbaren Küstenregion bei Sambava",
+        "Unterstützt tausende Familien durch direkte und indirekte Arbeit",
+        "Wichtiger Standort für die Züchtung ertragreicher Kokospalmen",
+        "Trägt zur Diversifizierung der madagassischen Agrarexporte bei",
+        "Zentrum für die Erforschung nachhaltiger Palmenbewirtschaftung",
+        "Wesentlicher Wirtschaftsmotor für die Region SAVA"
+      ]
+    },
+    {
+      "id": "somacou-textile-economic-v2",
+      "descriptionAdvanced": "SOMACOU (Société Malgache de Couvertures) ist ein traditionsreiches Textilunternehmen in Madagaskar, das sich auf die Herstellung von Decken und schweren Stoffen spezialisiert hat. Seit Jahrzehnten versorgt die Fabrik die madagassische Bevölkerung mit erschwinglichen Textilprodukten, die besonders im kühlen Hochland unverzichtbar sind. SOMACOU ist ein Beispiel für die erfolgreiche Ansiedlung von Industrie im Sektor der Grundbedürfnisse und ein bedeutender Arbeitgeber in der Hauptstadtregion. Die Fabrik nutzt sowohl lokale als auch importierte Rohstoffe und hat sich zu einer nationalen Marke entwickelt, die für Langlebigkeit und Qualität steht. Wirtschaft K7 — Textilproduktion und Binnenmarkt.",
+      "factsAdvanced": [
+        "Traditionsreichster Hersteller von Wolldecken auf Madagaskar",
+        "Wichtiger Versorger für die Bevölkerung des kühlen Hochlandes",
+        "Sitz der Produktion im industriellen Gürtel von Antananarivo",
+        "Symbol für die madagassische Eigenproduktion ('Vita Malagasy')",
+        "Arbeitsplatz für hunderte qualifizierte Textilarbeiter",
+        "Exportiert Spezialtextilien in benachbarte Inselstaaten",
+        "Verwendet moderne Webmaschinen zur Qualitätssteigerung",
+        "Wesentlicher Bestandteil der madagassischen Industriegeschichte"
+      ]
+    },
+    {
+      "id": "star-brewery-antsirabe-economic-v2",
+      "descriptionAdvanced": "Die STAR-Brauerei in Antsirabe ist die größte und modernste Braustätte Madagaskars. Hier wird das berühmte Nationalbier 'Three Horses Beer' (THB) sowie eine Vielzahl von Erfrischungsgetränken produziert. Dank der hervorragenden Wasserqualität in der Thermalstadt Antsirabe hat sich die Brauerei zu einem industriellen Aushängeschild des Landes entwickelt. Die Fabrik ist ein gigantischer Wirtschaftsfaktor für die Region Vakinankaratra, schafft tausende Arbeitsplätze und fördert den lokalen Anbau von Braugerste. STAR ist ein Paradebeispiel für eine erfolgreiche madagassische Industrie, die internationale Qualitätsstandards mit lokaler Tradition verbindet. Wirtschaft K7 — Getränkeindustrie und Agrobusiness.",
+      "factsAdvanced": [
+        "Produktionsstätte des berühmten Nationalbiers THB (Three Horses Beer)",
+        "Größte Brauerei des Landes mit Sitz in der Thermalstadt Antsirabe",
+        "Nutzt die hohe Qualität der lokalen vulkanischen Wasserquellen",
+        "Wichtigster Abnehmer für madagassische Gerstenbauern",
+        "Teil der Groupe STAR, dem größten Getränkehersteller der Insel",
+        "Schafft ein weitreichendes Logistiknetzwerk in ganz Madagaskar",
+        "Symbol für den industriellen Erfolg und die Lebensfreude der Insel",
+        "Zentrum für moderne Lebensmitteltechnologie und Qualitätskontrolle"
+      ]
+    },
+    {
+      "id": "star-brewery-tana-economic-v2",
+      "descriptionAdvanced": "Die STAR-Brauerei in Antananarivo ist die historische Wiege des größten Getränkekonzerns Madagaskars. In der Hauptstadt gelegen, bedient diese Anlage den enormen Bedarf der Metropolregion an Bier und alkoholfreien Getränken. Die Brauerei ist nicht nur ein bedeutender Industriebetrieb, sondern auch ein Teil der städtischen Identität, dessen Produkte auf jedem Markt und in jedem Restaurant der Stadt präsent sind. Die Geschichte von STAR ist eng mit der wirtschaftlichen Entwicklung Antananarivos im 20. Jahrhundert verknüpft. Heute fungiert der Standort Tana als wichtiges Verwaltungs- und Logistikzentrum für das gesamte Land. Wirtschaft K7 — Industrielle Entwicklung und städtischer Markt.",
+      "factsAdvanced": [
+        "Historischer Gründungsstandort der Groupe STAR in der Hauptstadt",
+        "Zentraler Versorgungsbetrieb für den Großraum Antananarivo",
+        "Produziert ein breites Sortiment an Softdrinks und Mineralwasser",
+        "Wichtiger Pfeiler der städtischen Industrieökonomie",
+        "Besitzt modernste Abfüllanlagen für Glas- und PET-Flaschen",
+        "Zentrum des nationalen Vertriebs- und Marketingmanagements",
+        "Arbeitgeber für tausende Menschen in der Hauptstadtregion",
+        "Wesentlicher Beitrag zum nationalen Steueraufkommen"
+      ]
+    },
+    {
+      "id": "tamatave-old-port-history-v2",
+      "descriptionAdvanced": "Der alte Hafen von Toamasina (Tamatave) ist ein geschichtsträchtiger Ort, der von der Ära des frühen Seehandels und der kolonialen Expansion erzählt. Bevor der moderne Hafen ausgebaut wurde, war dieser Bereich der Hauptankunftspunkt für Entdecker, Missionare und Händler an der Ostküste. Die Ruinen alter Kaianlagen und Lagerhäuser zeugen von der Zeit, als Tamatave das Tor zum Merina-Königreich war. Der Hafen war Schauplatz zahlreicher Zyklone und militärischer Auseinandersetzungen zwischen Briten, Franzosen und Madagassen. Heute bietet der alte Hafenbereich eine nostalgische Atmosphäre und ist ein wichtiger Ausgangspunkt für die Erkundung der maritimen Geschichte der Stadt. Geschichte K7 — Maritime Geschichte und Handelswege.",
+      "factsAdvanced": [
+        "Historischer Kern der madagassischen Hafenwirtschaft an der Ostküste",
+        "Früherer Hauptankunftspunkt für europäische Missionare und Händler",
+        "Strategischer Standort während der Kolonialkriege im 19. Jahrhundert",
+        "Bewahrt Überreste der frühen industriellen Infrastruktur",
+        "Symbol für die Bedeutung von Toamasina als 'Tor zum Orient'",
+        "Ort wichtiger früher diplomatischer Begegnungen",
+        "Dokumentiert die ständige Bedrohung durch tropische Stürme",
+        "Wesentlicher Teil des kulturellen Erbes der Betsimisaraka-Region"
+      ]
+    },
+    {
+      "id": "tamatave-stadtpark-life-v2",
+      "descriptionAdvanced": "Der Stadtpark von Toamasina, oft als 'Place Bienaimé' bekannt, ist eine grüne Oase im Zentrum der Hafenstadt. Geprägt durch uralte Banyan-Bäume und blühende tropische Pflanzen, bietet der Park einen Ort der Ruhe und des Schattens in der oft schwülen Hitze des Ostens. Er ist ein beliebter Treffpunkt für Familien, Studenten und Touristen und spiegelt das entspannte Lebensgefühl von Tamatave wider. Der Park ist zudem Schauplatz für lokale Märkte und Kulturveranstaltungen, die die Vielfalt der Betsimisaraka-Kultur feiern. Seine Gestaltung erinnert an die französische Stadtplanung der Kolonialzeit und macht ihn zu einem der schönsten öffentlichen Räume Madagaskars. Sozialkunde K5 — Öffentliches Leben und städtische Erholung.",
+      "factsAdvanced": [
+        "Zentraler Erholungsort im Herzen von Toamasina (Tamatave)",
+        "Berühmt für seine monumentalen Banyan-Feigenbäume",
+        "Wichtiger Treffpunkt für den sozialen Austausch der Stadtbewohner",
+        "Oft Standort für Kunsthandwerksmärkte und Musikfeste",
+        "Teil der historischen Stadtplanung aus der Kolonialzeit",
+        "Bietet Schatten und Abkühlung im feucht-tropischen Klima",
+        "Symbol für die städtische Lebensqualität an der Ostküste",
+        "Wichtiges Ziel für botanische Spaziergänge in der Stadt"
+      ]
+    },
+    {
+      "id": "tampolo-naturreservat-life-v2",
+      "descriptionAdvanced": "Das Tampolo-Naturreservat an der Ostküste schützt eines der letzten Gebiete des ursprünglichen Küstenregenwaldes Madagaskars. In unmittelbarer Nähe zum Ozean gelegen, beherbergt es eine einzigartige Flora und Fauna, die sich an die sandigen Böden und die salzhaltige Luft angepasst hat. Das Reservat ist ein Rückzugsort für den Weißkopfmaki und zahlreiche seltene Vogelarten. Tampolo ist nicht nur ein Schutzgebiet, sondern auch ein Ort für nachhaltige forstwirtschaftliche Forschung, in dem die Regeneration tropischer Harthölzer untersucht wird. Die Kombination aus dichtem Dschungel und unberührten Stränden macht Tampolo zu einem ökologischen Juwel an der Vanille-Küste. Biologie K7 — Küstenwälder und Biodiversität.",
+      "factsAdvanced": [
+        "Einer der am besten erhaltenen Küstenregenwälder Madagaskars",
+        "Direkte Lage am Indischen Ozean auf der Masoala-Halbinsel",
+        "Schutzgebiet für bedrohte Ebenholz- und Palisanderarten",
+        "Heimat des Weißkopfmakis und des Roten Vari-Lemuren",
+        "Wichtiger Standort für forstwirtschaftliche Langzeitstudien",
+        "Beherbergt eine Vielzahl seltener Farne und Epiphyten",
+        "Zentrum für den Schutz mariner und terrestrischer Übergangszonen",
+        "Beliebtes Ziel für Ökotouristen abseits der Hauptwege"
+      ]
+    },
+    {
+      "id": "temple-ambatonakanga-landmarks-v2",
+      "descriptionAdvanced": "Der Tempel von Ambatonakanga in Antananarivo ist das älteste Steingebäude einer protestantischen Kirche auf Madagaskar. Erbaut in den 1860er Jahren nach einem Entwurf des Missionars James Cameron, markiert er das Ende der Christenverfolgung und den offiziellen Einzug der protestantischen Mission in das Merina-Königreich. Das Gebäude aus behauenem Granit steht an der Stelle, an der einst die ersten Christen inhaftiert waren, was ihm eine hohe symbolische Bedeutung verleiht. Mit seiner schlichten, aber würdevollen Architektur ist der Tempel ein Meilenstein der madagassischen Sakralgeschichte und ein zentrales Zeugnis der engen Beziehungen zum British Commonwealth. Geschichte K7 — Religionsfreiheit und Sakralarchitektur.",
+      "factsAdvanced": [
+        "Erste aus Stein errichtete protestantische Kirche Madagaskars (1864)",
+        "Entworfen vom bedeutenden Architekten und Missionar James Cameron",
+        "Gedenkstätte für die frühen christlichen Märtyrer der Insel",
+        "Wahrzeichen des historischen Stadtteils Ambatonakanga",
+        "Symbol für den diplomatischen Einfluss Großbritanniens im 19. Jhd.",
+        "Beherbergt wertvolle historische Dokumente der Missionsgesellschaften",
+        "Architektur vereint viktorianische Einflüsse mit madagassischem Steinbau",
+        "Wichtiger Ort für nationale religiöse Gedenkfeiern"
+      ]
+    },
+    {
+      "id": "toamasina-cities-v2",
+      "descriptionAdvanced": "Toamasina, oft Tamatave genannt, ist die zweitgrößte Stadt Madagaskars und der wirtschaftliche Herzschlag der Ostküste. Als wichtigster Hafen des Landes verbindet sie die Insel mit den globalen Handelsmärkten. Die Stadt ist geprägt von einem feucht-tropischen Klima, kolonialen Alleen mit Banyan-Bäumen und einer lebendigen Mischung aus Kulturen, insbesondere der Betsimisaraka. Toamasina ist nicht nur ein Logistikzentrum, sondern auch ein Ausgangspunkt für Reisen entlang des Canal des Pangalanes und zu den paradiesischen Stränden des Ostens. Trotz der Bedrohung durch regelmäßige Zyklone bewahrt die Stadt ihre dynamische Atmosphäre als Schmelztiegel von Handel und tropischem Lebensstil. Geografie K6 — Küstenstädte und Wirtschaftsgeographie.",
+      "factsAdvanced": [
+        "Zweitgrößte Stadt Madagaskars und administratives Zentrum des Ostens",
+        "Haupthafen der Insel für den internationalen Schiffsverkehr",
+        "Geprägt durch breite Boulevards und koloniale Architektur",
+        "Zentrum des madagassischen Gewürzhandels (Vanille, Nelken, Pfeffer)",
+        "Endpunkt der strategisch wichtigen Eisenbahnstrecke aus dem Hochland",
+        "Besitzt ein multikulturelles Flair mit indischen und chinesischen Einflüssen",
+        "Wichtigster Standort für die verarbeitende Industrie im Osten",
+        "Tor zum Nationalpark Ivoloina und zum Masoala-Massiv"
+      ]
+    },
+    {
+      "id": "toamasina-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Toamasina ist der ökonomische Motor Madagaskars und schlägt den Großteil der nationalen Warenströme um. Als einziger Hafen, der große Containerschiffe abfertigen kann, ist er die Lebensader für die Versorgung des Binnenlandes und die Anbindung der Industrie an den Weltmarkt. Der Hafenkomplex umfasst spezialisierte Terminals für Treibstoffe, Getreide und mineralische Rohstoffe wie Nickel. Die strategische Bedeutung Toamasinas hat in den letzten Jahren zu massiven internationalen Investitionen in die Hafenerweiterung geführt. Er symbolisiert die Ambition Madagaskars, sich als maritime Drehscheibe im westlichen Indischen Ozean zu etablieren. Wirtschaft K8 — Hafenlogistik und Außenhandel.",
+      "factsAdvanced": [
+        "Größtes Logistikzentrum und wichtigster Devisenbringer des Landes",
+        "Umschlagplatz für über 75 Prozent des madagassischen Bruttoinlandsprodukts",
+        "Zentrum für den Export von mineralischen Rohstoffen (Ambatovy)",
+        "Verfügt über moderne Öl-Terminals für die nationale Energieversorgung",
+        "Wichtigster Anlaufpunkt für internationale Reedereien wie MSC und Maersk",
+        "Strategischer Ausbau durch japanische Entwicklungshilfe (JICA)",
+        "Besitzt eine eigene Zoll- und Freihandelszone für die Industrie",
+        "Schlüsselstelle für die Lebensmittelversorgung der Hauptstadt"
+      ]
+    },
+    {
+      "id": "tolanaro-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Tolanaro (Fort-Dauphin) hat durch den Bau des neuen Tiefseehafens Ehoala eine wirtschaftliche Renaissance erlebt. Historisch ein isolierter Außenposten im Südosten, ist er heute ein hochmodernes Zentrum für den Export von mineralischen Rohstoffen, insbesondere Ilmenit. Der Hafen verbindet die Ressourcen des madagassischen Südens mit den globalen Industriemärkten und hat Tolanaro zu einer der am schnellsten wachsenden Städte der Insel gemacht. Neben dem Bergbau dient der Hafen auch als wichtiges Tor für den Kreuzfahrttourismus und die lokale Fischerei. Er symbolisiert den wirtschaftlichen Aufbruch und die strategische Bedeutung des tiefen Südens im 21. Jahrhundert. Wirtschaft K7 — Infrastruktur und Bergbaulogistik.",
+      "factsAdvanced": [
+        "Modernster Tiefseehafen Madagaskars in der Region Anosy",
+        "Hauptexporthafen für Titanerz und Seltenerdmetalle",
+        "Ersetzte den alten, flachen Hafen von Fort-Dauphin für Großschiffe",
+        "Zentrum der logistischen Kette für das QMM-Bergbauprojekt",
+        "Strategischer Standort für die Versorgung des südlichen Madagaskars",
+        "Wichtiger Ankerplatz für Luxus-Kreuzfahrtschiffe im Indischen Ozean",
+        "Besitzt modernste Sicherheits- und Umschlagstandards",
+        "Wesentlicher Treiber für den regionalen Arbeitsmarkt im Süden"
+      ]
+    }
+  ]
+}

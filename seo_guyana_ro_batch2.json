@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-kamakusa-relief-v2",
+      "descriptionAdvanced": "Muntele Kamakusa se ridică spectaculos în regiunea Cuyuni-Mazaruni, dominând baldachinul pădurilor tropicale ca o fortăreață naturală. Această formațiune geologică, formată preponderent din gresie, reprezintă un element cheie în studiul tectonic al Scutului Guyanez, oferind indicii prețioase despre istoria pământului. În cultura popoarelor indigene locale, Kamakusa este adesea venerat ca un spirit protector al pământului, legendele sale fiind strâns legate de formarea reliefului. Biodiversitatea sa endemică, dezvoltată grație izolării pe platouri înalte, face din acest munte un laborator viu. În contextul geografiei K7, acesta exemplifică perfect structura tepui-urilor și importanța lor pentru ecologia regională.",
+      "factsAdvanced": [
+        "Situat în regiunea centrală Cuyuni-Mazaruni.",
+        "Compoziție geologică bazată pe gresie precambriană.",
+        "Des adesea învăluit în nori, creând un microclimat umed.",
+        "Simbol spiritual central pentru popoarele indigene locale.",
+        "Biodiversitate endemică remarcabilă, unică în regiune.",
+        "Element esențial în înțelegerea structurii geologice a Scutului Guyanez.",
+        "Traseele de acces urmează poteci tradiționale prin pădure."
+      ]
+    },
+    {
+      "id": "merume-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Merume reprezintă o zonă de un interes geologic și mineralogic unic în nord-vestul Guyanei, fiind locul care a dat numele rarului mineral merumit. Acest lanț muntos accidentat a fost în trecut un centru intens de extracție a aurului, însă astăzi natura și-a recâștigat terenul, vegetația primară acoperind aproape în întregime cicatricile mineritului istoric. Munții Merume oferă o fereastră către istoria precambriană a planetei, fiind una dintre cele mai vechi formațiuni din regiune. Din perspectiva geografiei K7, munții constituie un studiu de caz excelent despre regenerarea ecosistemelor după activități umane antropice și despre importanța conservării zonelor bogate în resurse minerale.",
+      "factsAdvanced": [
+        "Situat în nord-vestul Guyanei.",
+        "Locul de descoperire și denumire a mineralului rar merumit.",
+        "Zona a fost un hub al mineritului de aur în secolul XX.",
+        "Regenerare naturală spectaculoasă a vegetației după exploatare.",
+        "O formațiune geologică extrem de veche din era precambriană.",
+        "Terestru marcat de un relief accidentat și văi adânci.",
+        "Coridor ecologic important pentru fauna locală."
+      ]
+    },
+    {
+      "id": "imataka-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Imataka formează o creastă muntoasă vastă și bogată în resurse naturale la granița dintre Guyana și Venezuela, având un rol ecologic critic ca bazin hidrografic pentru întreaga regiune. Pădurile tropicale umede care acoperă acești munți funcționează ca un rezervor imens de carbon și oferă adăpost unor prădători de vârf precum jaguarul și hărpiile, indicatori ai sănătății ecosistemului. Bogăția lor în minereu de fier atrage atenția economică, însă menținerea acestui echilibru fragil între dezvoltare și conservare rămâne prioritară. În Geografia K7, acești munți demonstrează interdependența dintre formarea reliefului, resursele minerale și protecția biodiversității.",
+      "factsAdvanced": [
+        "Creastă muntoasă naturală ce definește granița cu Venezuela.",
+        "Zăcăminte imense de minereu de fier, importante economic.",
+        "Bazin hidrografic crucial pentru rețeaua de râuri din Guyana.",
+        "Păduri tropicale esențiale pentru reglarea microclimatului local.",
+        "Habitat optim pentru populații de jaguari și hărpii.",
+        "Exemplu complex de ecosistem forestier montan.",
+        "Formațiune geologică ce face parte integrantă din Scutul Guyanez."
+      ]
+    },
+    {
+      "id": "mount-appokail-relief-v2",
+      "descriptionAdvanced": "Muntele Appokail este un vârf izolat și mistic, ascuns în ținuturile înalte ale regiunii Cuyuni-Mazaruni, fiind considerat un sanctuar al biodiversității în stare pură. Lipsit de orice infrastructură turistică, masivul a fost păstrat neatins, fiind accesibil doar prin intermediul cărărilor tradiționale folosite de generații de vânători indigeni. Bogăția sa în orhidee endemice, care înfloresc în zonele umede de la altitudine, face ca Appokail să fie un sit de mare importanță pentru botaniști. Dincolo de valoarea științifică, muntele are o semnificație spirituală profundă pentru comunitățile locale, fiind perceput ca un loc al strămoșilor. Studiul acestuia este fundamental pentru Geografia K7 în înțelegerea rezilienței ecosistemelor izolate.",
+      "factsAdvanced": [
+        "Situat în zona izolată a platoului Cuyuni-Mazaruni.",
+        "Absența completă a infrastructurii moderne de acces.",
+        "Centru major pentru orhidee endemice și rare.",
+        "Acces posibil doar prin poteci tradiționale de vânătoare.",
+        "Semnificație culturală și spirituală profundă pentru indigeni.",
+        "Zonă de cercetare vitală pentru biologi.",
+        "Reprezentativ pentru culmile sălbatice ale Scutului Guyanez."
+      ]
+    }
+  ]
+}

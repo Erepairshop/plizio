@@ -1,0 +1,163 @@
+{
+  "lang": "en",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bittou-cities-v2",
+      "descriptionAdvanced": "Bittou, located in the Boulgou province of southeastern Burkina Faso, is a crucial border town and international transit hub on the primary corridor connecting Ouagadougou with the port of Lomé in Togo. Due to its strategic location, the town is a bustling center for customs clearance, logistics, and cross-border trade, with its markets featuring a diverse array of goods from the Gulf of Guinea. Historically, Bittou has been a melting pot of Bissa and Mossi cultures, thriving on the entrepreneurial energy of its diverse population. The surrounding fertile plains support the production of corn, peanuts, and livestock, which are major exports for the region. As an administrative and service center, Bittou provides essential support for the growing population of the southeastern borderlands. Its rapid urban expansion reflects its role as a vital link in the regional economic integration of West Africa. Bittou remains a symbol of the commercial vitality that connects landlocked Burkina Faso to the sea.",
+      "factsAdvanced": [
+        "Major international border town on the Togo-Burkina Faso corridor",
+        "Strategic transit hub for logistics and customs clearance",
+        "Located in the Boulgou province near the Togolese border",
+        "Primary trade node for goods arriving from the port of Lomé",
+        "Cultural melting pot of Bissa, Mossi, and Togolese ethnic groups",
+        "Major regional producer of maize, peanuts, and livestock",
+        "Dynamic entrepreneurial center with a rapidly growing urban population",
+        "Vital link in the West African international trade and transport network"
+      ]
+    },
+    {
+      "id": "boni-cities-v2",
+      "descriptionAdvanced": "Boni is a significant local town in the Tuy province of western Burkina Faso, situated within the country's highly productive 'cotton belt.' The town is an essential collection and logistics point for the regional agricultural economy, supporting thousands of smallholder farmers who cultivate the 'white gold.' Historically, Boni has been a traditional center for the Bwaba people, whose heritage of communal farming and mask-making remains central to the community's identity. The area's fertile savannas also support significant grain production, particularly maize and sorghum, which contribute to the national food supply. As an administrative node, Boni provides basic services to the surrounding rural districts, facilitating the development of the Tuy provincial network. Its position along the trade routes between Bobo-Dioulasso and the central plateau makes it a quiet but important link in the western economic chain. Boni remains a symbol of the steady, agricultural resilience that defines the Burkinabé west.",
+      "factsAdvanced": [
+        "Important agricultural and local hub in the western Tuy province",
+        "Located in the heart of the national cotton production belt",
+        "Traditional center for Bwaba cultural heritage and social practices",
+        "Strategic collection point for regional cotton and cereal harvests",
+        "Supports a large population of smallholder farmers and traders",
+        "Provides essential administrative services to the Tuy rural districts",
+        "Key link in the regional trade network of the Hauts-Bassins",
+        "Surrounded by fertile savanna lands ideal for intensive farming"
+      ]
+    },
+    {
+      "id": "boulsa-cities-v2",
+      "descriptionAdvanced": "Boulsa, the capital of the Namentenga province in central-eastern Burkina Faso, is a historic seat of Mossi power and a vital regional center for trade and administration. According to tradition, the Boulsa kingdom is one of the most senior and respected polities within the Mossi Empire, with its King (Naaba) maintaining significant cultural and moral authority. Today, the city is a bustling market town where livestock, cereals, and shea butter are traded daily, serving as a central hub for the eastern central plateau. The local economy is deeply rooted in agriculture, benefiting from the region's undulating terrain and the presence of numerous small reservoirs. Boulsa also serves as a major educational and religious center, providing essential services to the surrounding rural districts. Its rapid development reflects its strategic position as a bridge between the central government and the eastern provinces. Boulsa remains a proud guardian of Mossi heritage and a driver of regional development.",
+      "factsAdvanced": [
+        "Capital of the Namentenga province and historic Mossi seat",
+        "Home to the influential Boulsa Kingdom and its traditional Naaba",
+        "Major regional market for livestock, cereals, and shea products",
+        "Strategic administrative and service hub for the Centre-Nord region",
+        "Center for traditional Mossi arts, culture, and social hierarchy",
+        "Located in a scenic undulating landscape with several water reservoirs",
+        "Key contributor to the regional agricultural and trade economy",
+        "Prominent educational and religious center for the eastern provinces"
+      ]
+    },
+    {
+      "id": "dakola-cities-v2",
+      "descriptionAdvanced": "Dakola is a vital border town in the Nahouri province of southern Burkina Faso, standing as the primary entry point for trade and transit from Ghana. Located just south of Pô, the town is the site of a massive international customs and logistics platform that handles a significant portion of the country's imports from the ports of Tema and Accra. Historically, Dakola has been a gateway for cultural and economic exchange between the Sahel and the Gulf of Guinea, thriving on the energy of international truckers and merchants. The town's economy is almost entirely driven by the transit sector, with its infrastructure constantly expanding to meet the demands of West African regional integration. Beyond the customs offices, Dakola is surrounded by a fertile savanna that supports local agriculture and livestock. Its strategic importance as a national revenue generator and a link to the sea makes it a critical pillar of the Burkinabé economy. Dakola is where the southern frontier meets the global market.",
+      "factsAdvanced": [
+        "Primary international border crossing between Burkina Faso and Ghana",
+        "Strategic customs and logistics hub for West African trade",
+        "Located in the southern Nahouri province, south of the city of Pô",
+        "Main gateway for imports from the Ghanaian ports of Tema and Accra",
+        "Key driver of national customs revenue and transit statistics",
+        "Vital link in the international corridor to the Gulf of Guinea",
+        "Home to a dynamic population of traders, transporters, and officials",
+        "Frontline site for regional economic integration and security"
+      ]
+    },
+    {
+      "id": "dapelogo-cities-v2",
+      "descriptionAdvanced": "Dapélologo is a significant administrative and agricultural town in the Oubritenga province of the Plateau-Central region, located just north of the capital, Ouagadougou. Due to its strategic proximity to the metropolis, Dapélologo has become a vital satellite center, supplying a wide range of fresh produce, poultry, and livestock to the urban markets. Historically, the town has been an important center for Mossi social and religious life, with its traditional leadership continuing to play a central role in provincial governance. The local economy benefits from intensive market gardening supported by small-scale irrigation and dams, which allow for year-round production. Dapélologo also serves as an important transit node on the road networks connecting the capital to the northern provinces. Its steady urban growth and its role as an agricultural provider make it a key contributor to the regional economy. Dapélologo remains a symbol of the productive synergy between the rural heartland and the growing capital city.",
+      "factsAdvanced": [
+        "Strategic satellite town in the Oubritenga province near Ouagadougou",
+        "Major supplier of fresh vegetables, poultry, and meat to the capital",
+        "Traditional Mossi center with active local leadership and social rituals",
+        "Located in the fertile transition zone of the central plateau",
+        "Supports intensive market gardening through a network of small dams",
+        "Important administrative hub for the Dapélologo provincial district",
+        "Key stop on the regional trade routes leading to the north",
+        "Plays a vital role in the food security and economy of the capital"
+      ]
+    },
+    {
+      "id": "diabo-cities-v2",
+      "descriptionAdvanced": "Diabo is a prominent town in the Gourma province of eastern Burkina Faso, serving as a historic and cultural stronghold for the Gourmantché people. Located along the main highway connecting the capital to the eastern border with Niger, the city is a vital trade and transit node for the region. Historically, Diabo has been known for its traditional blacksmithing and the production of high-quality agricultural tools, which are traded across the eastern provinces. The local economy is based on a mix of cereal farming, livestock breeding, and small-scale commerce, with its weekly markets being a major draw for the surrounding rural population. As an administrative hub, Diabo provides essential health and educational services to its district, supporting the regional development of the Gourma. The town's architecture and social customs reflect a deep commitment to preserving the Gourmantché heritage in a modernizing world. Diabo remains a resilient and vibrant anchor for the eastern Burkinabé communities.",
+      "factsAdvanced": [
+        "Historic Gourmantché town and administrative hub in Gourma province",
+        "Strategic trade stop on the international highway to Niger",
+        "Famous for traditional blacksmithing and artisanal tool production",
+        "Major regional market for livestock, cereals, and local crafts",
+        "Located in the vast woody savannas of eastern Burkina Faso",
+        "Provides essential social and administrative services to the district",
+        "Guardian of Gourmantché cultural traditions and social hierarchy",
+        "Key link in the regional economic network of the Est region"
+      ]
+    },
+    {
+      "id": "diapaga-cities-v2",
+      "descriptionAdvanced": "Diapaga, the capital of the Tapoa province in the far eastern Est region, is a rugged and remote town situated at the gateway to some of West Africa's most significant wildlife sanctuaries. Perched near the spectacular Gobnangou escarpment, the city is the primary hub for visitors to the W National Park and the Arly Reserve. Historically, Diapaga has been a frontier outpost for the Gourmantché people, with its dramatic landscape of cliffs and ravines providing natural defensive advantages. The local economy is driven by livestock trade, high-rainfall agriculture, and its role as a regional administrative center. Despite its distance from the capital, Diapaga is a vital node for cross-border cooperation with neighboring Benin and Niger, facilitating transboundary conservation and trade. The city's unique position amidst a world-class natural heritage makes it a symbol of the country's commitment to biodiversity. Diapaga remains a resilient and culturally rich guardian of the eastern wilderness.",
+      "factsAdvanced": [
+        "Capital of the Tapoa province and gateway to the W National Park",
+        "Located near the dramatic Gobnangou escarpment and vertical cliffs",
+        "Strategic frontier hub for the Gourmantché people in the far east",
+        "Main administrative and service center for the Tapoa district",
+        "Primary base for transboundary conservation and eco-tourism",
+        "Significant center for regional livestock trade and forest products",
+        "Remote but vital link for cross-border transit with Benin and Niger",
+        "Home to a resilient population deeply connected to the eastern wilderness"
+      ]
+    },
+    {
+      "id": "doulougou-cities-v2",
+      "descriptionAdvanced": "Doulougou is an important agricultural and administrative town in the Bazèga province of the Centre-Sud region, located in a fertile plain south of Ouagadougou. The town is a major contributor to the national food supply, specializing in the production of cereals, tubers, and vegetables for the capital city's markets. Historically, Doulougou has been a center of Mossi cultural life, with its traditional leadership continuing to influence the region's agricultural and social organization. The area benefits from a series of small dams and irrigation projects that allow for productive dry-season farming, making it a model for rural development on the central plateau. As a provincial administrative node, Doulougou provides essential services to its district, including health, education, and agricultural extension programs. Its steady growth and its role as a reliable provider of fresh produce make it a key anchor of the regional economy. Doulougou remains a symbol of the productive heartland of central Burkina Faso.",
+      "factsAdvanced": [
+        "Important agricultural and administrative hub in the Bazèga province",
+        "Major supplier of cereals, tubers, and vegetables to Ouagadougou",
+        "Traditional Mossi center with active local leadership and heritage",
+        "Located in the fertile plains of the central-southern region",
+        "Supports intensive market gardening through local irrigation dams",
+        "Key provider of social and administrative services for the district",
+        "Model for sustainable rural development and food production",
+        "Strategically located near the main southern transit corridors"
+      ]
+    },
+    {
+      "id": "gorom-gorom-cities-v2",
+      "descriptionAdvanced": "Gorom-Gorom, the capital of the Oudalan province in the far northern Sahel, is one of the most culturally iconic and visually spectacular towns in Burkina Faso. Located at the edge of the Sahara, the city is famous for its colorful weekly market, where nomadic Fulani, Tuareg, and Songhai traders congregate in their traditional attire to trade livestock, silver jewelry, and desert crafts. Historically, Gorom-Gorom has been a vital crossroads for trans-Saharan commerce and Islamic scholarship, preserving an ancient way of life that is unique in the country. The town's architecture features beautiful mud-brick mosques and wide avenues designed to manage the intense desert heat. Beyond its cultural fame, Gorom-Gorom is the gateway to the shifting sand dunes and the sacred Mare de Oursi. As an administrative hub, it coordinates vital water management and anti-desertification projects for the northern provinces. It remains the legendary 'last stop' before the vast emptiness of the desert.",
+      "factsAdvanced": [
+        "Capital of the Oudalan province and a legendary Sahelian crossroads",
+        "Famous for its vibrant weekly market attracting Tuareg and Fulani nomads",
+        "Strategic gateway to the Sahara Desert and the Mare de Oursi",
+        "Historic center for Islamic scholarship and desert trade routes",
+        "Major hub for the trade of camels, cattle, and traditional silver jewelry",
+        "Characterized by traditional Sudano-Sahelian mud-brick architecture",
+        "Focal point for northern water management and anti-desertification",
+        "Culturally rich city preserving the ancestral traditions of the far north"
+      ]
+    },
+    {
+      "id": "kayan-cities-v2",
+      "descriptionAdvanced": "Kayan is a significant local town in the Kénédougou province of western Burkina Faso, situated in a lush agricultural zone famous for its fruit production. Known as part of the country's 'green belt,' Kayan benefits from high rainfall and fertile soils, making it a major contributor to the national output of mangoes, oranges, and cashews. Historically, the town has been a center of the Senoufo people, whose traditional music and balafon traditions are a vital part of the local social fabric. The economy is almost entirely driven by horticulture, with its markets serving as a central collection point for fruit exports to Mali and the central provinces. As a rural administrative node, Kayan provides basic services to the surrounding districts, facilitating the development of the southwestern horticultural sector. Its peaceful and verdant landscape stands in sharp contrast to the drier savannas of the north. Kayan remains a symbol of agricultural wealth and cultural resilience in western Burkina Faso.",
+      "factsAdvanced": [
+        "Important horticultural hub in the western Kénédougou province",
+        "Located in the country's lush 'green belt' with high fruit production",
+        "Primary center for the cultivation of mangoes, citrus, and cashew nuts",
+        "Traditional heartland of Senoufo culture and balafon musical heritage",
+        "Strategic collection point for fruit exports to Mali and national markets",
+        "Benefit from the highest annual rainfall levels in the country",
+        "Provides essential administrative and service support for rural farmers",
+        "Symbol of the agricultural prosperity of the southwestern region"
+      ]
+    },
+    {
+      "id": "kordie-cities-v2",
+      "descriptionAdvanced": "Kordié is a prominent town in the Sanguié province of the Centre-Ouest region, serving as a historic and cultural anchor for the Lyélé people. Situated in a fertile agricultural zone, the town is a major producer of cereals, peanuts, and seasonal vegetables, which form the backbone of the local livelihood. Historically, Kordié has been known for its traditional social organization and its role in preserving the Gurunsi customs and architectural styles. The town's markets are a vital exchange point for the surrounding rural districts, facilitating the trade of agricultural goods and handcrafted items. As an administrative center, Kordié provides essential health and educational services, supporting the regional development of the Sanguié province. The town's steady growth and its focus on community-led development initiatives make it a model for sustainable rural progress on the central plateau. Kordié remains a resilient and vibrant symbol of Gurunsi heritage and agricultural productivity in central-western Burkina Faso.",
+      "factsAdvanced": [
+        "Prominent administrative and cultural town in the Sanguié province",
+        "Historic heartland of the Lyélé (Gurunsi) people and their traditions",
+        "Major regional producer of cereals, peanuts, and seasonal crops",
+        "Important market hub for the trade of agricultural and handcrafted goods",
+        "Provides essential social, health, and administrative services to the district",
+        "Center for community-based development and rural innovation",
+        "Located in the fertile savanna of the central-western plateau",
+        "Guardian of traditional Gurunsi social organization and ancestral arts"
+      ]
+    }
+  ]
+}

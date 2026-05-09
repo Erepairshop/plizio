@@ -1,0 +1,269 @@
+{
+  "lang": "de",
+  "country": "comoros",
+  "files": [
+    "lib/visualLab/data/poiExtraComorosReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "la-grille-relief-v2",
+      "descriptionAdvanced": "Der La Grille Gebirgszug im Norden von Grande Comore ist eine faszinierende vulkanische Formation, die durch eine Vielzahl kleinerer Schlackekegel und Krater charakterisiert ist. Im Gegensatz zum massiven Karthala-Vulkan im Süden zeigt La Grille eine Landschaft, die von zahlreichen isolierten Eruptionen geprägt wurde, was zu einer wellenförmigen und reliefreichen Topographie führt. Im K8-Lehrplan für Geographie illustriert La Grille die Vielfalt vulkanischer Erscheinungsformen auf engem Raum. Der Gebirgszug ist zudem ein wichtiges landwirtschaftliches Gebiet, da die verwitterten Lavaböden extrem fruchtbar sind und den Anbau von Vanille und Gewürzen begünstigen. Die kühleren Höhenlagen bieten zudem einen angenehmen Kontrast zur feuchten Hitze der Küstenregionen.",
+      "factsAdvanced": [
+        "Zweitgrößtes vulkanisches Massiv auf der Insel Grande Comore.",
+        "Höchste Erhebung erreicht etwa 1.087 Meter über dem Meeresspiegel.",
+        "Besteht aus Hunderten von kleinen Aschekegeln und Lavaströmen.",
+        "Bekannt für seine dichte Vegetation und fruchtbare Vulkanerde.",
+        "Wichtiges Gebiet für den Anbau von Vanille und Ylang-Ylang.",
+        "Weniger aktiv als der Karthala, aber geologisch jung.",
+        "Bietet spektakuläre Panoramablicke über den Norden der Insel."
+      ]
+    },
+    {
+      "id": "mount-sima-relief-v2",
+      "descriptionAdvanced": "Der Mount Sima ist eine markante Erhebung auf der westlichen Halbinsel der Insel Anjouan und prägt die dortige Gebirgslandschaft. Seine steilen, oft in Wolken gehüllten Flanken sind ein Zeugnis der intensiven vulkanischen Vergangenheit der Insel, die durch Hebung und Erosion geformt wurde. Im K7-Lehrplan für Geomorphologie dient der Mount Sima als Beispiel für die Entstehung von Gebirgsketten auf vulkanischen Ozeaninseln. Die Region ist von dichtem tropischem Wald bewachsen, der eine wichtige Rolle für den Wasserhaushalt der umliegenden Dörfer spielt. Von den Gipfelgraten aus hat man einen atemberaubenden Blick auf die Westküste und den Indischen Ozean, was den Berg zu einem Ziel für abenteuerlustige Wanderer macht.",
+      "factsAdvanced": [
+        "Markante vulkanische Erhebung im Westen von Anjouan.",
+        "Gekennzeichnet durch steile Grate und tief eingeschnittene Täler.",
+        "Wichtiges Wassereinzugsgebiet für die Siedlung Sima.",
+        "Besteht überwiegend aus altem Basalt und vulkanischem Gestein.",
+        "Standort einer reichen endemischen Flora und Fauna.",
+        "Dominante Landmarke für die Seeschifffahrt entlang der Westküste.",
+        "Spielt eine zentrale Rolle im lokalen ökologischen Gleichgewicht."
+      ]
+    },
+    {
+      "id": "mutsamudu-valley-relief-v2",
+      "descriptionAdvanced": "Das Mutsamudu-Tal auf der Insel Anjouan ist ein tief eingeschnittenes Reliefmerkmal, das sich von der zentralen Bergkette bis zur Küste erstreckt. Geformt durch die Erosionskraft von Gebirgsbächen über Jahrtausende, bildet es einen natürlichen Korridor durch das schroffe Gelände. Im K6-Lehrplan für physische Geographie veranschaulicht das Tal die Wirkung von Flusserosion auf vulkanischen Untergrund. Aufgrund seiner geschützten Lage und der fruchtbaren Schwemmböden ist das Tal ein bedeutendes landwirtschaftliches Gebiet, in dem Nahrungsmittel für die nahegelegene Hauptstadt angebaut werden. Die steilen Talwände sind dicht bewaldet und bieten Schutz vor den starken Winden, was ein feucht-warmes Mikroklima begünstigt.",
+      "factsAdvanced": [
+        "Tiefes Flusstal unmittelbar hinter der Hauptstadt von Anjouan.",
+        "Ergebnis langanhaltender fluviatiler Erosion in Basaltgestein.",
+        "Hauptquelle für die Wasserversorgung der Stadt Mutsamudu.",
+        "Extrem fruchtbare Böden für den Anbau von Obst und Gemüse.",
+        "Umgeben von fast senkrecht aufragenden, grünen Gebirgshängen.",
+        "Standort mehrerer historischer Bewässerungssysteme.",
+        "Bietet einen natürlichen Zugangsweg in das Innere der Insel."
+      ]
+    },
+    {
+      "id": "djabal-cave-relief-v2",
+      "descriptionAdvanced": "Die Djabal-Höhle auf der Insel Grande Comore ist eine beeindruckende Lavaröhre und eine der bedeutendsten archäologischen Stätten des Archipels. Entstanden durch einen Lavastrom des Vulkans Karthala, bietet die Höhle einen Einblick in die geologische Entstehungsgeschichte der Insel durch vulkanische Aktivität. Im K8-Lehrplan für Geschichte und Geologie wird die Höhle als Beweis für die frühe menschliche Besiedlung der Komoren im ersten Jahrtausend n. Chr. thematisiert. Die kühlen, schattigen Gänge dienten einst als Zufluchtsort und ritueller Platz für die frühen Bewohner. Heute ist die Höhle ein wichtiges Ziel für Forscher und Besucher, die das faszinierende Zusammenspiel von Naturgeschichte und menschlicher Vergangenheit erkunden wollen.",
+      "factsAdvanced": [
+        "Geologisch bedeutende Lavaröhre in der Nähe von Iconi.",
+        "Älteste bekannte Siedlungsstätte auf der Insel Grande Comore.",
+        "Enthält prähistorische Keramikscherben und Muschelreste.",
+        "Einzigartiges Beispiel für vulkanische Hohlraumstrukturen.",
+        "Zentrum für paläoökologische Forschung im Indischen Ozean.",
+        "Ganzjährig konstantes, kühles Mikroklima im Inneren.",
+        "Wichtiger Punkt auf dem nationalen historischen Lehrpfad."
+      ]
+    },
+    {
+      "id": "cape-saint-andre-relief-v2",
+      "descriptionAdvanced": "Kap Saint-André ist eine markante vulkanische Landzunge im Nordwesten von Grande Comore, wo erstarrte Lavaströme weit in den Ozean hinausragen. Dieses Reliefmerkmal zeugt von der Kraft der Eruptionen des La-Grille-Massivs, die die Küstenlinie der Insel über Jahrtausende geformt haben. Im K7-Lehrplan für Erdkunde dient das Kap als Beispiel für Küstenerosion und die Bildung von Brandungstoren und vulkanischen Klippen. Die karge, windgepeitschte Landschaft am Kap kontrastiert stark mit dem üppigen Grün des Binnenlandes und bietet spektakuläre Ausblicke auf den Kanal von Mosambik. Aufgrund seiner exponierten Lage ist das Kap ein wichtiger Navigationspunkt für Fischer und Seeleute in der Region.",
+      "factsAdvanced": [
+        "Strategische vulkanische Landzunge an der Nordwestküste.",
+        "Geprägt durch dunkles Basaltgestein und scharfe Kanten.",
+        "Markiert die nördliche Begrenzung der Mitsamiouli-Region.",
+        "Ort mit extrem starken Meeresströmungen vor der Küste.",
+        "Spektakulärer Aussichtspunkt für Walbeobachtungen in der Saison.",
+        "Wichtiges geomorphologisches Denkmal für vulkanische Küstenformen.",
+        "Standort einer natürlichen Leuchtfeuerstation für die Seefahrt."
+      ]
+    },
+    {
+      "id": "hamboda-plateau-relief-v2",
+      "descriptionAdvanced": "Das Hamboda-Plateau ist eine weite, fruchtbare Hochebene im Herzen von Grande Comore, die zwischen den Massiven von La Grille und Karthala liegt. Dieses Reliefmerkmal wurde durch die Ablagerung von vulkanischer Asche und verwitterter Lava gebildet und ist eines der wichtigsten landwirtschaftlichen Gebiete der Insel. Im K9-Lehrplan für Wirtschaftsgeographie wird das Plateau als Beispiel für die Nutzung vulkanischer Böden für die Subsistenzwirtschaft und den Anbau von Exportgütern wie Vanille analysiert. Die relativ flache Topographie in dieser Höhe ist untypisch für die sonst sehr steile Insel und ermöglichte die Gründung zahlreicher Dörfer. Das Plateau fängt zudem bedeutende Mengen an Niederschlag auf, der die Grundwasserspeicher der tiefer gelegenen Küstenzonen speist.",
+      "factsAdvanced": [
+        "Zentrales Hochplateau auf der Insel Grande Comore.",
+        "Wichtigste Agrarregion für den Anbau von Grundnahrungsmitteln.",
+        "Gebildet aus mächtigen Schichten vulkanischer Sedimente.",
+        "Kühleres Klima als in den Küstengebieten begünstigt die Landwirtschaft.",
+        "Wasserscheide für die nördlichen und zentralen Inselregionen.",
+        "Zentrum für die Produktion hochwertiger komorischer Vanille.",
+        "Bietet eine weite, offene Landschaft mit Panoramablicken."
+      ]
+    },
+    {
+      "id": "pointe-de-bangoi-relief-v2",
+      "descriptionAdvanced": "Die Pointe de Bangoi ist der nördlichste Punkt der Insel Grande Comore und eine wilde, felsige Küstenformation von beeindruckender Schönheit. Hier treffen die massiven Lavaströme des La-Grille-Vulkans auf die unbändige Kraft des Indischen Ozeans, was zu bizarren Klippenformationen und natürlichen Gezeitenbecken geführt hat. Im K5-Lehrplan für Sachkunde wird dieser Ort genutzt, um die Wirkung von Wellenenergie auf hartes Vulkangestein zu erklären. Die Vegetation ist hier spärlich und an das salzhaltige Milieu angepasst, was der Landschaft einen fast unwirklichen Charakter verleiht. Für Besucher bietet die Pointe de Bangoi ein spektakuläres Naturerlebnis abseits der touristischen Pfade, geprägt von der rauen Meeresgischt und dem weiten Blick auf den Horizont.",
+      "factsAdvanced": [
+        "Geographischer Nordpunkt der Hauptinsel Grande Comore.",
+        "Besteht aus massiven, schwarzen Basaltklippen am Meer.",
+        "Ort spektakulärer Wellenbrecher und Brandungsschauspiel.",
+        "Geologisch Teil des prähistorischen La-Grille-Ausläufers.",
+        "Beherbergt seltene Küstenpflanzen, die salzresistent sind.",
+        "Einzigartiges Relief mit natürlichen Pools aus vulkanischem Stein.",
+        "Unverzichtbares Ziel für Landschaftsfotografen und Naturforscher."
+      ]
+    },
+    {
+      "id": "mount-habakari-relief-v2",
+      "descriptionAdvanced": "Der Mount Habakari ist ein bewaldeter Gipfel auf der Insel Mohéli, der den zentralen Gebirgsrücken der kleinsten Hauptinsel krönt. Dieses Reliefmerkmal ist entscheidend für das ökologische Gleichgewicht von Mohéli, da der dichte Bergwald Feuchtigkeit aus den Passatwolken filtert und so die Quellen der Insel speist. Im K8-Lehrplan für Biologie dient der Mount Habakari als Beispiel für ein isoliertes Ökosystem mit einer hohen Anzahl endemischer Arten. Die steilen Hänge sind fast vollständig von unberührtem Regenwald bedeckt, der nur über schmale Pfade zugänglich ist. Von den Kammwegen aus bietet sich eine weite Aussicht über den Mohéli-Meeres-Nationalpark, was die Bedeutung des Berges als Teil eines ganzheitlichen Naturschutzgebietes unterstreicht.",
+      "factsAdvanced": [
+        "Höchste Erhebung im westlichen Teil der Insel Mohéli.",
+        "Bedeckt mit einem der am besten erhaltenen Bergregenwälder.",
+        "Kritischer Schutzraum für die seltene Mohéli-Zwergohreule.",
+        "Haupteinzugsgebiet für die Wasserläufe im Distrikt Nioumachoua.",
+        "Besteht aus geologisch altem, stark verwittertem Vulkangestein.",
+        "Zentrum nationaler Naturschutzprogramme zur Walderhaltung.",
+        "Einzigartiges Mikroklima mit hoher Luftfeuchtigkeit und Nebelbildung."
+      ]
+    },
+    {
+      "id": "karthala-caldera-relief-v2",
+      "descriptionAdvanced": "Die Caldera des Vulkans Karthala ist ein monumentales Reliefmerkmal und eine der weltweit größten aktiven Vulkankraterstrukturen. Mit einem Durchmesser von mehreren Kilometern bildet sie ein riesiges Plateau in über 2.300 Metern Höhe, das von jüngeren Lavaströmen und kleineren Schlackekegeln übersät ist. Im K9-Lehrplan für Geologie wird die Karthala-Caldera als Beispiel für einen Schildvulkan in einem fortgeschrittenen Stadium der Magmakammer-Entleerung behandelt. Die Wanderung zum Kraterrand führt durch verschiedene Vegetationszonen, von dichten Wäldern bis zu alpinen Heidelandschaften, und bietet am Ende einen Blick in den gewaltigen Abgrund. Die Caldera ist nicht nur ein Forschungsobjekt für Vulkanologen, sondern auch ein spiritueller Ort für die Bewohner der Insel.",
+      "factsAdvanced": [
+        "Riesige Einsturzstruktur auf dem Gipfel des Mount Karthala.",
+        "Eine der aktivsten Vulkan-Calderen der Welt.",
+        "Kraterrand liegt auf einer Höhe von ca. 2.361 Metern.",
+        "Schauplatz zahlreicher historischer Eruptionen seit dem 19. Jh.",
+        "Beinhaltet oft kleine Kraterseen, die saisonal erscheinen.",
+        "Einzigartiges Ökosystem mit subalpiner Vulkanvegetation.",
+        "Wichtigster Bezugspunkt für das Katastrophenmanagement der Insel."
+      ]
+    },
+    {
+      "id": "nioumbadjou-forest-relief-v2",
+      "descriptionAdvanced": "Der Nioumbadjou-Wald ist ein ausgedehntes Waldgebiet an den Westhängen des Mount Karthala auf Grande Comore. Dieses Reliefmerkmal ist geprägt durch die stufenförmige Anordnung alter Lavaströme, auf denen sich im Laufe der Jahrhunderte extrem fruchtbare Böden und ein dichter Primärwald entwickelt haben. Im K6-Lehrplan für Naturkunde illustriert der Wald die vertikale Schichtung von Vegetationstypen in Abhängigkeit von der Höhe und dem Relief. Der Wald dient als riesiger Schwamm, der Regenwasser aufsaugt und langsam an die Quellen in den unteren Lagen abgibt. Für die Artenvielfalt der Komoren ist Nioumbadjou unverzichtbar, da er Rückzugsgebiete für endemische Vögel und seltene Reptilien bietet, die auf die Struktur dieses speziellen Bergwaldes angewiesen sind.",
+      "factsAdvanced": [
+        "Bedeutender Urwaldkomplex am Westhang des Karthala-Massivs.",
+        "Höhenlage zwischen 500 und 1.200 Metern über dem Meer.",
+        "Zentrum für die Erhaltung der Biodiversität auf Grande Comore.",
+        "Bekannt für seine riesigen Baumfarne und exotischen Orchideen.",
+        "Wichtige Forschungsstation für die Beobachtung seltener Vogelarten.",
+        "Sichert die Wasserversorgung für die Hauptstadt Moroni.",
+        "Beliebtes Ziel für geführte ökotouristische Wanderungen."
+      ]
+    },
+    {
+      "id": "dzialaoutsou-falls-relief-v2",
+      "descriptionAdvanced": "Der Dzialaoutsou-Wasserfall ist ein spektakuläres Naturereignis auf der Insel Anjouan, wo Wasser in mehreren Stufen über schroffe Basaltfelsen in ein tiefes Becken stürzt. Das umliegende Relief ist extrem steil und zerklüftet, was den Wasserfall zu einem verborgenen Juwel im dichten Regenwald macht. Im K5-Lehrplan für Umweltbildung wird der Wasserfall als Beispiel für den Wasserkreislauf einer tropischen Vulkaninsel und die Energie von Gebirgsbächen thematisiert. Die hohe Luftfeuchtigkeit rund um die Fälle begünstigt eine üppige Vegetation aus Moosen und Farnen, die direkt an den Felswänden wachsen. Der Zugang zu den Fällen erfordert eine anspruchsvolle Wanderung, die Besuchern die wilde und unberührte Topographie des Inselinneren näherbringt.",
+      "factsAdvanced": [
+        "Einer der höchsten und malerischsten Wasserfälle auf Anjouan.",
+        "Kaskadenartige Formation über vulkanischem Festgestein.",
+        "Gespeist durch ganzjährige Quellen aus dem Ntingui-Massiv.",
+        "Umgeben von dichtem, feuchtem tropischem Nebelwald.",
+        "Naturdenkmal von hoher ökologischer und ästhetischer Bedeutung.",
+        "Bietet natürliche Erfrischungsbecken am Fuß der Felswand.",
+        "Wichtiger Punkt für lokale Mythen und Naturlegenden."
+      ]
+    },
+    {
+      "id": "chissioua-dzaha-relief-v2",
+      "descriptionAdvanced": "Chissioua Dzaha ist eine kleine Vulkaninsel, die dem Relief der Insel Mohéli im Süden vorgelagert ist. Diese Felsinsel ist Teil eines Archipels kleiner Inselchen, die durch maritime Erosion vom Hauptmassiv getrennt wurden und nun als isolierte Lebensräume dienen. Im K7-Lehrplan für Biogeographie wird Chissioua Dzaha als Beispiel für Insel-Endemismus und den Schutz mariner Lebensräume im Mohéli-Meeres-Nationalpark behandelt. Die Insel weist steile Klippen und eine fast unzugängliche Oberfläche auf, was sie zu einem perfekten Brutplatz für Tausende von Seevögeln macht, die dort vor Raubtieren sicher sind. Unter Wasser setzen sich die vulkanischen Formationen in Form von Korallenriffen fort, die zu den artenreichsten der Komoren zählen.",
+      "factsAdvanced": [
+        "Isolierte Felsinsel im Mohéli-Meeres-Nationalpark.",
+        "Besteht aus dunklem Vulkanstein mit steil abfallenden Wänden.",
+        "International bedeutender Nistplatz für Seeschwalben und Fregattvögel.",
+        "Kernzone eines streng geschützten marinen Ökosystems.",
+        "Relikt einer prähistorischen Verbindung zur Insel Mohéli.",
+        "Umgeben von intakten Korallengärten und reichem Fischbestand.",
+        "Dient als Labor für die Untersuchung mariner Erosionsprozesse."
+      ]
+    },
+    {
+      "id": "bandasamlini-hill-relief-v2",
+      "descriptionAdvanced": "Der Bandasamlini-Hügel ist ein markanter vulkanischer Kegel, der sich isoliert aus der südlichen Küstenebene von Grande Comore erhebt. Dieses Reliefmerkmal ist ein sogenannter 'Parasitärkegel', der während einer prähistorischen Eruptionsphase an den Flanken des Karthala-Vulkans entstand. Im K5-Lehrplan für Geographie illustriert der Hügel die typischen Formen eines Schlackekegels und bietet einen exzellenten Aussichtspunkt zur Beobachtung der umliegenden Lavaströme. Der Hügel ist heute von lockerem Buschwerk bewachsen und stellt eine wichtige Landmarke für die Bewohner der umliegenden Dörfer dar. Seine isolierte Lage macht ihn geologisch interessant, da er Aufschluss über die Verteilung der magmatischen Gänge im Untergrund der Insel gibt.",
+      "factsAdvanced": [
+        "Vulkanischer Kegelberg im südlichen Distrikt von Grande Comore.",
+        "Geologisch als monogenetischer Schlackekegel klassifiziert.",
+        "Bietet einen 360-Grad-Panoramablick über die Südspitze der Insel.",
+        "Entstand durch eine isolierte Eruption außerhalb des Hauptkraters.",
+        "Wichtiger Orientierungspunkt für Wanderer und lokale Fischer.",
+        "Gekennzeichnet durch lockere vulkanische Schlacke und Asche.",
+        "Zentrum für Studien zur Landschaftsentwicklung im Süden."
+      ]
+    },
+    {
+      "id": "moya-cliffs-relief-v2",
+      "descriptionAdvanced": "Die Moya-Klippen auf der Insel Anjouan sind eine der spektakulärsten Küstenformationen des Archipels, wo senkrechte Felswände aus Basalt über 100 Meter tief in den Indischen Ozean abfallen. Dieses Reliefmerkmal wurde durch die abrasive Kraft der Brandung über Jahrmillionen geformt, wobei die weicheren Gesteinsschichten abgetragen wurden und die harten vulkanischen Kerne als Klippen stehen blieben. Im K7-Lehrplan für Meereskunde dienen die Moya-Klippen als Beispiel für Kliffküsten und die Entstehung von Meereshöhlen. Die Klippen rahmen die malerischen Zwillingsstrände von Moya ein und bieten Schutz vor den stürmischen Winden aus dem Süden. Für Wanderer bieten die Klippenwege atemberaubende Ausblicke auf das Spiel der Wellen und die tiefblaue Farbe des Meeres.",
+      "factsAdvanced": [
+        "Monumentale Basaltklippen an der Südwestküste von Anjouan.",
+        "Vertikale Abstürze von beeindruckender geologischer Wucht.",
+        "Heimat für seltene Seevögel, die in den Felsspalten nisten.",
+        "Ergebnis intensiver mariner Erosion an vulkanischem Gestein.",
+        "Spektakuläre Kulisse für die benachbarten Strände von Moya.",
+        "Wichtiger Aussichtspunkt für die traditionelle Küstenwache.",
+        "Bietet Einblicke in die inneren Schichten alter Lavaströme."
+      ]
+    },
+    {
+      "id": "jimilime-highlands-relief-v2",
+      "descriptionAdvanced": "Das Jimilime-Hochland auf Anjouan ist eine abgelegene und reliefreiche Region im Nordosten der Insel, die für ihre steilen Täler und terrassierten Hänge bekannt ist. Diese Region ist das Herz des traditionellen Landbaus auf Anjouan, wobei die Bauern das schwierige Gelände geschickt nutzen, um Vanille, Nelken und Nahrungsmittel in verschiedenen Höhenstufen anzubauen. Im K7-Lehrplan für Geographie illustriert das Jimilimé-Hochland die Anpassung menschlicher Siedlungen an extreme topographische Bedingungen. Die Region ist oft nur über schmale Pfade erreichbar, was die traditionelle Lebensweise und die intakte Natur bewahrt hat. Das Hochland ist zudem ein wichtiges Wassereinzugsgebiet, dessen Bäche die fruchtbaren Küstenebenen mit Wasser versorgen.",
+      "factsAdvanced": [
+        "Reliefreiches Bergland mit steilen, terrassierten Agrarflächen.",
+        "Zentrum des traditionellen Nelken- und Vanilleanbaus auf Anjouan.",
+        "Geprägt durch tief eingeschnittene Täler und scharfe Gebirgsgrate.",
+        "Wichtiger Standort für den Erhalt seltener lokaler Nutzpflanzensorten.",
+        "Bekannt für seine außergewöhnliche Gastfreundschaft und Abgeschiedenheit.",
+        "Sichert die ökologische Stabilität der nordöstlichen Wasserscheiden.",
+        "Ein Paradies für Wanderer, die das authentische Anjouan suchen."
+      ]
+    },
+    {
+      "id": "mount-kibouani-relief-v2",
+      "descriptionAdvanced": "Der Berg Kibouani ist eine markante Erhebung im Zentrum von Mohéli, die das Relief der Insel mit ihrem kegelförmigen Profil prägt. Der Berg ist Teil eines alten Vulkankomplexes und zeichnet sich durch seine dichte Bewaldung aus, die bis zum Gipfel reicht. Im K8-Lehrplan für Biologie dient der Kibouani als Beispiel für die vertikale Zonierung von Ökosystemen auf Mohéli. Der Berg spielt eine entscheidende Rolle bei der Staubildung von Regenwolken, was die kontinuierliche Versorgung der umliegenden Dörfer mit Oberflächenwasser sicherstellt. Die Hänge des Kibouani beherbergen eine Vielzahl von endemischen Insekten und Orchideen, was ihn zu einem wichtigen Forschungsgebiet für Naturwissenschaftler und zu einem lohnenden Ziel für naturbeobachtende Wanderungen macht.",
+      "factsAdvanced": [
+        "Bedeutender Gipfel im zentralen Gebirgszug der Insel Mohéli.",
+        "Höchste Priorität für den Schutz des insularen Wasserhaushalts.",
+        "Standort dichter Primärwälder mit hoher Biodiversität.",
+        "Habitat für die seltene Mohéli-Zwergohreule.",
+        "Strategischer Punkt für die Beobachtung der Vegetationstypen.",
+        "Fokus von Projekten zur Vermeidung von Bergrutschungen.",
+        "Ein Wahrzeichen für den Naturschutz auf der Insel."
+      ]
+    },
+    {
+      "id": "itsamia-relief-relief-v2",
+      "descriptionAdvanced": "Das Relief rund um Itsamia im Osten von Mohéli ist geprägt durch sanfte Hügelketten, die in weiten Bögen zum Indischen Ozean abfallen und die berühmten Schildkröten-Niststrände einrahmen. Diese Küstenzone ist geologisch interessant, da sie eine Mischung aus alten Lavaströmen und korallinen Ablagerungen zeigt, was zu einer hohen Bodenvielfalt führt. Im K5-Lehrplan für Umweltkunde wird das Relief von Itsamia als Beispiel für ein integriertes Küstenmanagementsystem analysiert, bei dem das Hinterland den Schutz der Strände beeinflusst. Die Hügel bieten zudem wichtige Aussichtspunkte für die 'Eco-Guards', um die Buchten zu überwachen. Die Kombination aus hügeliger Landschaft und flachen Sandstränden schafft ein ideales Habitat für marine und terrestrische Tierarten.",
+      "factsAdvanced": [
+        "Charakteristische Hügellandschaft im östlichsten Distrikt von Mohéli.",
+        "Geologische Barriere, die die Niststrände vor dem Binnenland schützt.",
+        "Reich an fruchtbaren Böden für den Anbau von Kokosnüssen und Bananen.",
+        "Standort der wichtigsten Beobachtungspunkte für Meeresschildkröten.",
+        "Bietet ein einzigartiges Mikroklima durch die Nähe zum Ozean.",
+        "Teil des UNESCO-Biosphärenreservats der Insel Mohéli.",
+        "Sichert die landschaftliche Harmonie des Dorfes Itsamia."
+      ]
+    },
+    {
+      "id": "maki-forest-relief-v2",
+      "descriptionAdvanced": "Der Maki-Wald auf Mohéli ist ein reliefreiches Waldgebiet, das seinen Namen den dort lebenden Lemuren verdankt und durch ein Mosaik aus dichten Baumgruppen und tiefen Tälern besticht. Das zerklüftete Gelände hat dazu beigetragen, dass dieser Wald als einer der besterhaltenen Lebensräume für den Mongoz-Maki (Eulemur mongoz) fungiert. Im K6-Lehrplan für Naturkunde illustriert der Maki-Wald die Bedeutung komplexer Reliefstrukturen als Schutzraum für bedrohte Tierarten. Die Topographie begünstigt eine hohe Feuchtigkeitsspeicherung, was das Wachstum von riesigen Farngewächsen und Lianen fördert. Für Wanderer bietet der Wald ein intensives Naturerlebnis, bei dem das Auf und Ab des Geländes immer neue Ausblicke auf die unberührte Wildnis der Insel freigibt.",
+      "factsAdvanced": [
+        "Wichtigstes Rückzugsgebiet für Lemuren auf der Insel Mohéli.",
+        "Reliefreiches Areal mit hoher ökologischer Komplexität.",
+        "Beherbergt eine Mischung aus tropischem Regenwald und Küstenvegetation.",
+        "Vital für die Erhaltung der genetischen Vielfalt des Mongoz-Makis.",
+        "Sichert den natürlichen Wasserabfluss in die südlichen Lagunen.",
+        "Zentrum für Forschung zum Verhalten von Primaten auf den Komoren.",
+        "Ein Beispiel für erfolgreichen Waldschutz durch unzugängliches Relief."
+      ]
+    },
+    {
+      "id": "pointe-de-mitsamiouli-relief-v2",
+      "descriptionAdvanced": "Die Pointe de Mitsamiouli im äußersten Nordwesten von Grande Comore ist eine spektakuläre geologische Formation, bei der schwarze Lavaklippen tief in das türkisfarbene Wasser schneiden und weite Lagunen bilden. Das Relief ist hier durch die Interaktion von flachen Sandstränden und scharfen vulkanischen Graten geprägt, was der Region eine einzigartige ästhetische Vielfalt verleiht. Im K7-Lehrplan für Geographie dient die Pointe de Mitsamiouli als Beispiel für die Entstehung von Korallenriff-Lagunen an Vulkaninseln. Die Region ist bekannt für ihre spektakulären Unterwasserhöhlen und Lava-Tunnel, die sich bis weit ins Meer erstrecken. Diese Formationen bieten Schutz für eine reiche marine Fauna und machen die Pointe zu einem der bedeutendsten Standorte für den Tauchtourismus.",
+      "factsAdvanced": [
+        "Nordwestliches Kap der Insel Grande Comore mit reichem Relief.",
+        "Geformt durch multiple prähistorische Lavaströme ins Meer.",
+        "Beherbergt einige der schönsten Korallenlagunen des Landes.",
+        "Standort wichtiger geologischen Denkmäler wie Brandungstore.",
+        "Bietet einen weiten Blick über den Kanal von Mosambik.",
+        "Zentrum für maritime Freizeitaktivitäten und ökologische Bildung.",
+        "Ein landschaftliches Wahrzeichen mit hoher touristischer Bedeutung."
+      ]
+    },
+    {
+      "id": "tsembehou-basin-relief-v2",
+      "descriptionAdvanced": "Das Tsembehou-Becken im Zentrum von Anjouan ist eine beeindruckende kesselförmige Hochebene, die von den höchsten Gipfelgraten der Insel umgeben ist. Dieses natürliche Amphitheater verfügt über ein kühles Mikroklima und extrem fruchtbare Böden, was es zum wichtigsten Zentrum für den Anbau von hochwertigem Kaffee und Gemüse macht. Im K9-Lehrplan für Wirtschaftsgeographie wird das Tsembehou-Becken als Beispiel für ein hochgelegenes landwirtschaftliches Gunstgebiet analysiert. Das Relief fängt die feuchten Passatwinde ein, was zu regelmäßigen Regenfällen führt, die das Becken in ein immergrünes Paradies verwandeln. Die Abgeschiedenheit des Beckens und die majestätische Kulisse der umliegenden Berge machen Tsembehou zu einem Ort von seltener Schönheit.",
+      "factsAdvanced": [
+        "Fruchtbares Hochbecken im Herzen des Anjouan-Gebirges.",
+        "Umgeben von den steilen Flanken des Mount Ntingui.",
+        "Hauptanbaugebiet für komorischen Bergkaffee und Kartoffeln.",
+        "Standort zahlreicher natürlicher Quellen und kleiner Gebirgsbäche.",
+        "Einzigartiges kühles Klima im Vergleich zu den Küstenregionen.",
+        "Ein Musterbeispiel für nachhaltige Berglandwirtschaft in den Tropen.",
+        "Sichert die Versorgung der Insel mit frischen Agrarprodukten."
+      ]
+    }
+  ]
+}

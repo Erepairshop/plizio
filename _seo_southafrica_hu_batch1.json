@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cape-point-nature-life-v2",
+      "descriptionAdvanced": "A Fok-félsziget csúcsán elterülő Cape Point Természetvédelmi Terület Afrika egyik leglátványosabb természeti csodája. A drámai sziklák, a hatalmas óceáni hullámok és a gazdag növényvilág különleges élményt kínálnak a látogatóknak. A terület történelmi jelentőségét a régi világítótorony adja, amelyről pazar kilátás nyílik a környező vidékre. A családok számára kijelölt túraútvonalak lehetőséget biztosítanak az őshonos fauna, többek között a környéken élő pingvinkolóniák és különleges madárfajok megfigyelésére, miközben az érintetlen természet nyugalmát élvezhetik.",
+      "factsAdvanced": [
+        "Látványos sziklás tengerparti kilátók",
+        "Történelmi világítótorony a csúcson",
+        "Kiterjedt kijelölt túraútvonalak",
+        "Gazdag őshonos flóra és fauna",
+        "Könnyen megközelíthető családi program",
+        "Az Atlanti- és Indiai-óceán találkozása",
+        "Fontos természetvédelmi övezet"
+      ]
+    },
+    {
+      "id": "boulders-beach-life-v2",
+      "descriptionAdvanced": "A Boulders Beach nem csupán egy festői strand Fokváros közelében, hanem az ikonikus afrikai pingvin-kolónia otthona. A hatalmas, ősi gránitsziklák védelmet nyújtanak a széltől és a hullámoktól, így biztonságos környezetet biztosítanak a pingvinek fészkeléséhez és a családok számára a fürdőzéshez. A látogatók pallókon sétálva figyelhetik meg az állatokat természetes közegükben, anélkül, hogy zavarnák őket. Ez a különleges élőhely kiválóan alkalmas a gyerekek számára az ökológiai összefüggések és a természetvédelem fontosságának játékos megismerésére.",
+      "factsAdvanced": [
+        "Ikonikus afrikai pingvin-kolónia",
+        "Védett strand gránitsziklákkal",
+        "Biztonságos fürdőhely családoknak",
+        "Pallókon keresztül megfigyelhető élővilág",
+        "Fontos pingvin-védelmi terület",
+        "Fokváros környékének egyik legfőbb látnivalója",
+        "Egész évben látogatható élőhely"
+      ]
+    },
+    {
+      "id": "addison-farms-agriculture-life-v2",
+      "descriptionAdvanced": "Az Addo régióban elhelyezkedő citrusfarmok bepillantást engednek Dél-Afrika egyik legfontosabb mezőgazdasági ágazatába. A környék mediterrán jellegű klímája kiváló körülményeket teremt a citrom- és narancstermesztéshez, amely a térség gazdasági erejének alapját képezi. A farmokon tett látogatások során a családok megismerkedhetnek a modern mezőgazdasági technológiákkal, a gyümölcsszedés folyamatával és a friss termékek feldolgozásával. Ez a tanulságos élmény közvetlen kapcsolatot teremt az élelmiszer-termelés és a mindennapi élet között, miközben a gyerekek közelebbről is láthatják, hogyan működik egy ilyen hatalmas termelőegység.",
+      "factsAdvanced": [
+        "Citrom- és narancstermesztési központ",
+        "Fontos regionális mezőgazdasági tevékenység",
+        "Interaktív gyümölcsszedési lehetőségek",
+        "Modern mezőgazdasági technológiák bemutatása",
+        "Oktatási célú látogatások családoknak",
+        "A régió gazdasági gerincét alkotó iparág",
+        "Friss termékek kóstolása a helyszínen"
+      ]
+    },
+    {
+      "id": "kalahari-wildlife-life-v2",
+      "descriptionAdvanced": "A Kalahari Nemzeti Park a végtelen vörös homokdűnék és a különleges sivatagi élővilág birodalma. A hatalmas, szinte érintetlen terület a springbokok, oryxok és különböző ragadozók otthona, amelyek alkalmazkodtak a szélsőséges környezeti feltételekhez. A park kivételes lehetőséget nyújt a csillagvizsgálatra és az éjszakai szafarikra, ahol a sivatag élete teljesen más arcát mutatja. A családok számára a dűnék között vezető utak és a vadvilág közvetlen megfigyelése felejthetetlen kalandot jelent, amely közelebb hozza a természet lenyűgöző erejét és törékenységét.",
+      "factsAdvanced": [
+        "Végtelen vörös homokdűnék vidéke",
+        "Sivataghoz alkalmazkodott vadvilág (springbok, oryx)",
+        "Kiváló csillagvizsgálati körülmények",
+        "Kalandos éjszakai és nappali szafarik",
+        "Tágas, érintetlen természeti környezet",
+        "A dél-afrikai sivatagi ökoszisztéma része",
+        "Fontos természetvédelmi menedékhely"
+      ]
+    },
+    {
+      "id": "cango-wildlife-life-v2",
+      "descriptionAdvanced": "Az Oudtshoorn közelében található Cango Wildlife Ranch elkötelezett a veszélyeztetett állatfajok védelme és szaporítása mellett. A látogatóközpont interaktív túrái során a családok testközelből ismerhetik meg a különleges állatokat, miközben a szakemberek felhívják a figyelmet a természetvédelem globális kihívásaira. A ranch nemcsak bemutatóhely, hanem fontos oktatási központ is, ahol a gyerekek játékos formában tanulhatnak a biodiverzitásról. A gondozott környezet és a biztonságos, mégis közvetlen kapcsolat az állatokkal felejthetetlen élményt nyújt minden korosztály számára.",
+      "factsAdvanced": [
+        "Kiemelt veszélyeztetett fajok védelme",
+        "Interaktív ismeretterjesztő vezetett túrák",
+        "Fontos természetvédelmi és nevelési központ",
+        "Szakértői gondozás és kutatás",
+        "Közvetlen állatkapcsolatok biztonságban",
+        "Népszerű családi program Oudtshoorn környékén",
+        "Különleges állatfajok megfigyelése"
+      ]
+    }
+  ]
+}

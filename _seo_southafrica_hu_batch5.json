@@ -1,0 +1,48 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "juma-masjid-mosque-landmarks-v2",
+      "descriptionAdvanced": "A durbani Juma Masjid mecset a déli félteke egyik legnagyobb és legimpozánsabb muszlim imahelye, amely az 1880-as évek óta áll a város szívében. Az indiai stílusjegyeket és a viktoriánus építészet elemeit ötvöző vöröstéglás épület két minaretjével és tágas imatermével a város muszlim közösségének spirituális központja. A zajos, forgalmas belvárosban elhelyezkedő mecset a béke és a nyugalom szigete, amely kulturális és vallási gazdagságot ad a város sokszínű arculatához.",
+      "factsAdvanced": [
+        "A déli félteke egyik legnagyobb mecsete.",
+        "Az 1880-as években alapították.",
+        "Indiai és viktoriánus építészeti stílusok keveredése.",
+        "Két magas minaret jellemzi.",
+        "Durban belvárosának forgalmas övezetében található.",
+        "A muszlim közösség vallási központja.",
+        "Több mint egy évszázados vallási örökség."
+      ]
+    },
+    {
+      "id": "nizamiye-mosque-landmarks-v2",
+      "descriptionAdvanced": "A johannesburgi Nizamiye-mecset egy lenyűgöző oszmán stílusú épületegyüttes, amelyet az isztambuli Kék Mecset mintájára építettek. A komplexum nemcsak imahelyként szolgál, hanem iskolát, klinikát és kulturális központot is magában foglal, ezzel a közösségi élet egyik meghatározó színtere lett. A gondosan megtervezett, kupolás szerkezet és a minaretek a hagyományos török építészet remekművei, amelyek Dél-Afrika szívében egy kis szeletet mutatnak be a keleti kultúrából és vallási építészetből.",
+      "factsAdvanced": [
+        "Oszmán stílusú építészet, az isztambuli mecsetek mintájára.",
+        "A komplexum iskolát, klinikát és közösségi központot is tartalmaz.",
+        "Kupolás tetőszerkezet és elegáns minaretek jellemzik.",
+        "Johannesburg egyik legszebb vallási épülete.",
+        "A helyi török-dél-afrikai közösség építtette.",
+        "Kulturális és oktatási központként is funkcionál.",
+        "A hagyományos török építészet hű képviselője."
+      ]
+    },
+    {
+      "id": "pretoria-city-hall-landmarks-v2",
+      "descriptionAdvanced": "Pretoria Városháza (City Hall) egy elegáns, történelmi jelentőségű épület, amely a város közigazgatási és társadalmi életének szimbóluma. Az 1930-as években épült, klasszikus stílusú épület impozáns harangtornyával és díszes homlokzatával a városközpont egyik legmeghatározóbb pontja. A Városháza előtti téren gyakran tartanak kulturális és közösségi rendezvényeket, miközben az épület a régió történelmének és politikai fejlődésének tanúja, megőrizve az elmúlt évtizedek polgári építészetének eleganciáját.",
+      "factsAdvanced": [
+        "Az 1930-as években épült közigazgatási központ.",
+        "Klasszikus stílusú, impozáns épület.",
+        "Jellegzetes nagy harangtoronnyal rendelkezik.",
+        "Pretoria belvárosának egyik meghatározó épülete.",
+        "Közösségi és kulturális rendezvények színhelye.",
+        "Történelmileg fontos közigazgatási helyszín.",
+        "A város polgári építészetének szép példája."
+      ]
+    }
+  ]
+}

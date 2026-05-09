@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "ecuador",
+  "files": [
+    "lib/visualLab/data/poiExtraEcuadorEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pilsener-brauerei-guayaquil-economic-v2",
+      "descriptionAdvanced": "A guayaquili Pilsener Sörfőzde az ecuadori italgyártás ikonikus létesítménye, amely a legnépszerűbb nemzeti sörmárkát állítja elő. A Cervecería Nacionalhoz tartozó gyár több mint egy évszázados múltra tekint vissza, és a Pilsener márka az ecuadori nemzeti identitás és társasági élet szerves részévé vált. A modern termelési technológiák alkalmazása biztosítja az állandó minőséget, miközben a vállalat jelentős szerepet vállal a helyi gazdaságban és a társadalmi felelősségvállalásban. A márka és a hozzá kapcsolódó társadalmi tradíciók, valamint a nagyipari élelmiszergyártás gazdasági jelentősége izgalmas téma a K7-es szintű társadalomismeret vagy gazdasági órákon, ahol a diákok a nemzeti márkák és a fogyasztói kultúra összefüggéseit tárgyalhatják.",
+      "factsAdvanced": [
+        "A Cervecería Nacional tulajdonában lévő legnagyobb gyár.",
+        "A Pilsener márka több mint 100 éve létezik a piacon.",
+        "Ecuador legkelendőbb és legismertebb sörmárkája.",
+        "A márka a nemzeti kulturális identitás és társasági élet része.",
+        "Modern sörfőzési technológiákat alkalmaznak az állandó minőség érdekében.",
+        "Jelentős foglalkoztató a guayaquili ipari szektorban.",
+        "A márka marketingje mélyen beépült a társadalmi tradíciókba."
+      ]
+    },
+    {
+      "id": "frutadeli-ananasexport-economic-v2",
+      "descriptionAdvanced": "A Frutadeli egy vezető agrárvállalat, amely az ecuadori ananásztermesztés egyik szakértője, és a Santo Domingo tartománybeli ültetvényeiről látja el a nemzetközi piacokat magas minőségű gyümölcsökkel. A nagyüzemi ananásztermelés precíz termesztési technológiákat és hatékony ellátási láncot követel meg a frissesség megőrzése érdekében az Európába és Észak-Amerikába irányuló hosszú szállítási útvonalak során. A cég sikeres nemzetközi expanziója jól példázza Ecuador mezőgazdasági potenciáljának kihasználását a világgazdaságban. A mezőgazdasági export folyamatai és a globális élelmiszer-ellátási láncok működése kiváló példa a K7-es szintű földrajzi tantervben az agrárágazat modernizációjának bemutatására.",
+      "factsAdvanced": [
+        "Az ország egyik legnagyobb ananászexportőrének számít.",
+        "Ültetvényei a mezőgazdaságilag rendkívül produktív Santo Domingo tartományban találhatók.",
+        "Fő célpiacai az Európai Unió és Észak-Amerika.",
+        "Fejlett mezőgazdasági technológiákat alkalmaznak az állandó minőség érdekében.",
+        "Az ananászexport kiemelt szerepet játszik a helyi mezőgazdasági gazdaságban.",
+        "Hatékony szállítási és hűtési láncot működtetnek a frissesség megőrzésére.",
+        "A vállalat fontos munkaadó a vidéki régiókban."
+      ]
+    },
+    {
+      "id": "textil-fabril-ambato-economic-v2",
+      "descriptionAdvanced": "A La Fabril Textilgyár Ambato városában, az ecuadori textilipar hagyományos központjában működik, ahol a minőségi szövetek és fonalak előállítása az egyik legfontosabb ipari tevékenység. Ambato városa, amelyet gyakran 'a virágok és gyümölcsök városaként' emlegetnek, a bőripar mellett a textilgyártásban is erős bázissal rendelkezik, amely jelentős mértékben járul hozzá a helyi ruhaipar versenyképességéhez. A gyár modern berendezéseivel biztosítja azokat a textíliákat, amelyekből az ecuadori divatipar és a mindennapi viselet számára készülő ruhák készülnek. Az ipari termelés hatékonysága és a regionális ipari központok gazdasági jelentősége fontos része a K8-as szintű gazdasági ismeretek tantervnek, ahol a diákok a regionális specializáció folyamatát vizsgálhatják.",
+      "factsAdvanced": [
+        "Jelentős szereplő az ecuadori textiliparban.",
+        "Ambato városában található, amely az iparág egyik történelmi központja.",
+        "Fő profilja a szövetek és különféle fonalak gyártása.",
+        "Ambato ipara széles spektrumot ölel fel a bőripartól a textilgyártásig.",
+        "Fontos beszállítója az ecuadori ruházati iparnak és a helyi divatszektornak.",
+        "A gyár jelentősen támogatja Ambato gazdasági stabilitását.",
+        "Korszerű gyártási folyamatokkal biztosítják a minőséget."
+      ]
+    },
+    {
+      "id": "puerto-jardin-duran-economic-v2",
+      "descriptionAdvanced": "A Jardín del Río belföldi kikötő Durán városában a Guayas folyó keleti partján helyezkedik el, és kritikus logisztikai szerepet tölt be a mezőgazdasági áruk, különösen a gabona és a műtrágya kezelésében. A kikötő kiegészíti a közeli nagy tengeri kikötőkapacitásokat, hatékonyabbá téve az ország mezőgazdasági ellátási láncát és csökkentve a Guayaquil-öbölbeli terminálok terhelését. A logisztikai csomópont elhelyezkedése lehetővé teszi az áruk gyors eljuttatását a belvízi és a közúti szállítási hálózatokhoz. A belföldi kikötők szerepe a mezőgazdasági logisztikában és a gazdasági infrastruktúra optimalizálása fontos témakörök a K8-as szintű földrajzi és gazdasági tantervben.",
+      "factsAdvanced": [
+        "A kikötő a Guayas folyó keleti partján fekszik.",
+        "Szakterülete az ömlesztett áruk, mint például gabona és műtrágya kezelése.",
+        "Jelentősen kiegészíti Guayaquil nagy kikötőinek kapacitását.",
+        "Kritikus logisztikai csomópont a mezőgazdasági szektor számára.",
+        "Hatékony összeköttetést biztosít a belvízi és közúti szállítási hálózatokkal.",
+        "Csökkenti a nagy guayaquili tengeri terminálok terhelését.",
+        "Fontos szerepet tölt be az ecuadori belföldi mezőgazdasági kereskedelemben."
+      ]
+    },
+    {
+      "id": "adelca-stahlwerk-milagro-economic-v2",
+      "descriptionAdvanced": "Az Adelca acélmű Milagro városában az ecuadori építőipar és az acél újrahasznosításának egyik legmeghatározóbb ipari szereplője. A gyár a fémhulladékok begyűjtésével és újraolvasztásával fejlett körforgásos gazdasági modellt valósít meg, biztosítva a magas minőségű betonacélokat az országos infrastrukturális és lakásépítési projektekhez. Ez a technológiai megközelítés nemcsak gazdaságilag hatékony, hanem jelentősen hozzájárul a környezeti terhelés csökkentéséhez is a bányászati szükségletek mérséklése révén. A körforgásos gazdaság elvei, az acélipar környezeti hatásai és az ipari hulladékkezelés jelentősége a mai világban fontos tananyag a K8-as szintű technika és környezetismeret órákon.",
+      "factsAdvanced": [
+        "Ecuador egyik vezető acélgyártó vállalata.",
+        "A betonacélok gyártása mellett az acéltermékek széles skáláját kínálja.",
+        "Fő profilja a fémhulladék hatékony újrahasznosítása.",
+        "Aktívan támogatja a körforgásos gazdasági modellek elterjedését.",
+        "Fontos beszállítója az építőiparnak és az állami projekteknek.",
+        "Modern technológiai megoldásokkal biztosítja a minőségi acélt.",
+        "Jelentős mértékben csökkenti a bányászati nyersanyagigényt."
+      ]
+    }
+  ]
+}

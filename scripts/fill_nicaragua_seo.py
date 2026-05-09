@@ -39,24 +39,36 @@ DESC_TEMPLATES = {
 
 EXTRA_FACTS_TEMPLATES = {
     "de": [
-        "{name} ist Teil des nicaraguanischen Kulturerbes.",
-        "Die Region um {name} hat eine reiche Geschichte und Tradition.",
-        "{name} ist ein bedeutender Ort in Nicaragua.",
+        "{name} ist Teil des nicaraguanischen Natur- und Kulturerbes zwischen Karibik und Pazifikküste.",
+        "Die Region um {name} ist geprägt von der vulkanischen Cordillera und dem Lago de Nicaragua (Cocibolca).",
+        "Die Landschaft um {name} ist eng mit dem Anbau von Kaffee, Zuckerrohr und tropischen Früchten verbunden.",
+        "Spuren präkolumbianischer Kulturen wie der Chorotega und Nicarao finden sich in der Umgebung von {name}.",
+        "{name} hat eine bewegte Geschichte aus spanischer Kolonialzeit, Unabhängigkeit und sandinistischer Revolution.",
+        "{name} verkörpert das mestizische Erbe Nicaraguas mit indigenen, spanischen und afrokaribischen Einflüssen.",
     ],
     "hu": [
-        "A(z) {name} a nicaraguai kulturális örökség része.",
-        "A(z) {name} térségének gazdag történelme és hagyománya van.",
-        "A(z) {name} jelentős helyszín Nicaraguában.",
+        "A(z) {name} Nicaragua természeti és kulturális örökségének része, a Karib-tenger és a Csendes-óceán partvidéke között.",
+        "A(z) {name} környékét a vulkáni Cordillera hegylánca és a Nicaragua-tó (Cocibolca) tájképe határozza meg.",
+        "A(z) {name} térsége szorosan kötődik a kávé-, cukornád- és trópusi gyümölcstermesztéshez.",
+        "A(z) {name} környékén a prekolumbián chorotega és nicarao őslakos kultúrák nyomai találhatók.",
+        "A(z) {name} mozgalmas történelmet hordoz a spanyol gyarmati kortól a függetlenségen át a sandinista forradalomig.",
+        "A(z) {name} a nicaraguai mesztic örökséget testesíti meg, indián, spanyol és afrokaribi hatásokkal.",
     ],
     "ro": [
-        "{name} face parte din patrimoniul cultural al statului Nicaragua.",
-        "Regiunea {name} are o istorie și o tradiție bogată.",
-        "{name} este un loc important în Nicaragua.",
+        "{name} face parte din patrimoniul natural și cultural al statului Nicaragua, între coasta Caraibelor și cea a Pacificului.",
+        "Regiunea {name} este modelată de lanțul vulcanic Cordillera și de Lacul Nicaragua (Cocibolca).",
+        "Peisajul din jurul {name} este strâns legat de cultivarea cafelei, a trestiei de zahăr și a fructelor tropicale.",
+        "În zona {name} se găsesc urme ale culturilor precolumbiene chorotega și nicarao.",
+        "{name} are o istorie agitată, de la perioada colonială spaniolă și independență până la revoluția sandinistă.",
+        "{name} întruchipează moștenirea mestizo a statului Nicaragua, cu influențe indigene, spaniole și afro-caraibiene.",
     ],
     "en": [
-        "{name} is part of Nicaragua's cultural heritage.",
-        "The region around {name} has a rich history and tradition.",
-        "{name} is a significant location in Nicaragua.",
+        "{name} is part of Nicaragua's natural and cultural heritage between the Caribbean and Pacific coasts.",
+        "The region around {name} is shaped by the volcanic Cordillera range and Lake Nicaragua (Cocibolca).",
+        "The landscape around {name} is closely tied to coffee, sugarcane and tropical fruit cultivation.",
+        "Traces of pre-Columbian Chorotega and Nicarao cultures are found near {name}.",
+        "{name} has a turbulent history from Spanish colonial times through independence to the Sandinista revolution.",
+        "{name} embodies Nicaragua's mestizo heritage with Indigenous, Spanish and Afro-Caribbean influences.",
     ],
 }
 
@@ -271,16 +283,15 @@ def generate_description_advanced(name, desc, facts, lang):
 
 def generate_facts_advanced(name, facts, lang):
     """Generál factsAdvanced tömböt. 6-8 elem."""
-    if not name or not facts or len(facts) < 3:
+    if not name or not facts or len(facts) < 1:
         return None
     out = list(facts)  # kezdjük a meglévő fact-ekkel
-    # Egészítsük ki templatekkel
+    # Egészítsük ki templatekkel (Nicaragua-specifikus, max 6)
     extras = EXTRA_FACTS_TEMPLATES[lang]
     for ex in extras:
-        if len(out) >= 7:
+        if len(out) >= 8:
             break
         out.append(ex.format(name=name))
-    # 6-8 elem
     if len(out) < 6:
         return None
     return out[:8]

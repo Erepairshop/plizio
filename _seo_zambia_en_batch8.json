@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lundazi-castle-hotel-history-v2",
+      "descriptionAdvanced": "Lundazi Castle, built in the 1940s by a British District Commissioner, is a unique architectural work in Norman style. Located in the heart of Lundazi, it initially served as a central administrative hub for the British colonial administration. The castle, constructed entirely from locally sourced bricks, reflects the architectural desire to transpose European traditions into an African landscape. Today it is known as a hotel and is a popular destination for travelers who want to experience Zambia's colonial heritage up close. It creates a fascinating link between the history of colonial administration and its current tourist use.",
+      "factsAdvanced": [
+        "Norman architectural style from the 1940s",
+        "Built by a British District Commissioner",
+        "Former administrative hub of the region",
+        "Constructed using locally manufactured bricks",
+        "Operates today as a historic hotel",
+        "Important witness to colonial infrastructure"
+      ]
+    }
+  ]
+}

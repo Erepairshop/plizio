@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bata-shoe-factory-gweru-economic-v2",
+      "descriptionAdvanced": "A Gweru-ben található Bata cipőgyár a zimbabwei feldolgozóipar ikonikus vállalata, amely évtizedek óta sikeresen működik. A gyár a lábbelik széles választékát – az iskolai cipőktől a munkavédelmi bakancsokon át a divatos utcai cipőkig – állítja elő, miközben saját cserzőüzemet is működtet a helyi bőrök feldolgozására. Ez lehetővé teszi a jelentős értéknövelést az országon belül, ami a Bata-t a Midlands tartomány meghatározó gazdasági szereplőjévé és ipari pillérévé teszi.",
+      "factsAdvanced": [
+        "Történet: Évtizedes jelenlét a cipőgyártásban.",
+        "Termékek: Iskolai cipők, munkavédelmi bakancsok, utcai cipők.",
+        "Értéknövelés: Helyi bőrök feldolgozása saját cserzőüzemben.",
+        "Elhelyezkedés: Gweru, Midlands tartomány.",
+        "Gazdasági státusz: Meghatározó ipari gazdasági tényező.",
+        "Piaci lefedettség: Széles választék a mindennapi igényekhez."
+      ]
+    },
+    {
+      "id": "mutare-board-paper-mills-economic-v2",
+      "descriptionAdvanced": "A Mutare Papír- és Kartongyár a keleti-felföld (Eastern Highlands) erdészeti termékfeldolgozásának hagyományos központja. A gyár a közeli, kiterjedt fenyő- és eukaliptuszültetvényekre támaszkodva gyárt kiváló minőségű újságpapírt és csomagolóanyagokat. A fa- és cellulóz-erőforrások helyi feldolgozásával az üzem a mutarei ipari infrastruktúra fontos részét képezi, jelentősen hozzájárulva a papírtermékek hazai piaci elérhetőségéhez és az erőforrások fenntartható hasznosításához.",
+      "factsAdvanced": [
+        "Fókusz: Erdészeti termékek feldolgozása a Keleti-felföldön.",
+        "Nyersanyag: Kiterjedt fenyő- és eukaliptuszültetvények.",
+        "Termékek: Újságpapír és különféle csomagolóanyagok.",
+        "Elhelyezkedés: Mutare.",
+        "Gazdasági szerep: Regionális nyersanyagok ipari nemesítése.",
+        "Piaci jelentőség: Fontos beszállító a hazai papíripar számára."
+      ]
+    },
+    {
+      "id": "willowvale-motor-industries-economic-v2",
+      "descriptionAdvanced": "A hararei Willowvale Autóipar Zimbabwe legjelentősebb jármű-összeszerelő üzeme. A vállalat nagy múlttal rendelkezik nemzetközi személygépkocsi- és haszongépjármű-márkák összeszerelésében, és központi szerepet tölt be a helyi autóipari beszállítói láncban. Az összeszerelési technológiák átadása és a szakemberek foglalkoztatása révén a Willowvale olyan ipari kapacitásokat biztosít, amelyek a belföldi piacon elengedhetetlenek a közlekedési igények kielégítéséhez.",
+      "factsAdvanced": [
+        "Szerep: Zimbabwe első számú jármű-összeszerelő üzeme.",
+        "Történet: Nemzetközi márkatípusok összeszerelése.",
+        "Gazdasági jelentőség: Az autóipari ellátási lánc kulcsszereplője.",
+        "Elhelyezkedés: Harare.",
+        "Technológia-átadás: Összeszerelési szaktudás a belföldi piacra.",
+        "Piac: Fontos szerep a járműigények hazai kielégítésében."
+      ]
+    },
+    {
+      "id": "quest-motor-corporation-economic-v2",
+      "descriptionAdvanced": "A Mutare-ben működő Quest Autógyár jelentős járműgyártó és összeszerelő üzem, amely buszok, teherautók és traktorok gyártására szakosodott a helyi és regionális piacok számára. Hatalmas összeszerelő sorokkal és speciális festőüzemekkel felszerelve a vállalat alapvető mértékben járul hozzá a mezőgazdasági és szállítási ágazatban nélkülözhetetlen nehézgépjárművek ellátásához, erősítve az ország keleti régiójának ipari bázisát.",
+      "factsAdvanced": [
+        "Specializáció: Buszok, teherautók és traktorok összeszerelése.",
+        "Piaci szegmens: Lokális és regionális mezőgazdasági/szállítási piacok.",
+        "Elhelyezkedés: Mutare.",
+        "Üzem: Nagy összeszerelő sorok és festőműhelyek.",
+        "Gazdasági jelentőség: Az ország keleti ipari bázisának erősítése.",
+        "Termékigény: Elengedhetetlen a mezőgazdasági és szállítmányozási szektorban."
+      ]
+    },
+    {
+      "id": "mazowe-citrus-estate-economic-v2",
+      "descriptionAdvanced": "A Mazowe Citrusültetvény Dél-Afrika egyik legnagyobb ilyen jellegű gazdasága, integrált feldolgozóüzemmel. Itt készül a világszerte ismert Mazoe Orange Crush szörp, amely exporttermékként és a zimbabwei háztartások alapvető élelmiszereként is nagy népszerűségnek örvend. A több ezer tonna citrusféle éves feldolgozásával az ültetvény komoly mértékben támogatja a nemzeti élelmiszeripart, biztosítva a Mashonaland Central tartomány agrárgazdaságának stabilitását.",
+      "factsAdvanced": [
+        "Státusz: Dél-Afrika egyik legnagyobb citrusültetvénye.",
+        "Márkatermék: A híres Mazoe Orange Crush származási helye.",
+        "Feldolgozás: Évente több ezer tonna citrusféle.",
+        "Gazdasági jelentőség: Az agráripar fontos támasza.",
+        "Elhelyezkedés: Mashonaland Central.",
+        "Piac: Termelés mind a belföldi, mind az exportpiacokra."
+      ]
+    }
+  ]
+}

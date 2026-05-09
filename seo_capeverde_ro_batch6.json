@@ -1,0 +1,74 @@
+{
+  "lang": "ro",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "vila-das-pombas-cities-v2",
+      "descriptionAdvanced": "Vila das Pombas este situată pe coasta nordică a insulei Santo Antão și reprezintă reședința municipiului Paúl. Localitatea de 1.700 de locuitori se întinde de-a lungul gurii văii Ribeira do Paúl, una dintre cele mai fertile zone din tot arhipelagul Capului Verde. Aici, vegetația luxuriantă alcătuită din trestie de zahăr, banani, mango, igname și cafea oferă un contrast puternic față de regiunile aride ale insulei. Distileriile tradiționale (trapiches) prelucrează trestia de zahăr pentru a produce „grogue”, băutura națională cu peste 40% alcool. Faleza îngustă, decorată cu clădiri coloniale, amintește de perioada portugheză. Valea este punctul de plecare ideal pentru drumeții către cascade spectaculoase și versanți terasați.",
+      "factsAdvanced": [
+        "Populație de aproximativ 1.700 locuitori",
+        "Reședința municipiului Paúl",
+        "Valea Ribeira do Paúl, cea mai fertilă din Capul Verde",
+        "Cultivare de trestie, banane, mango și cafea",
+        "Distilerii artizanale pentru producția de Grogue",
+        "Grogue cu concentrație de peste 40% alcool",
+        "Faleză cu arhitectură colonială portugheză"
+      ]
+    },
+    {
+      "id": "coculi-cities-v2",
+      "descriptionAdvanced": "Coculi se află la patru kilometri distanță de Ribeira Grande, în inima insulei Santo Antão, la confluența a două văi profunde. Satul, cu 1.200 de locuitori, este renumit pentru câmpurile sale terasate fertile, care se întind pe versanții abrupți până la peste 800 de metri altitudine. Biserica parohială Igreja de Santo Crucifixo, construită în secolul al XIX-lea, este simbolul principal al așezării. Coculi este situat pe vechea rută montană, construită manual cu piatră cubică în anii '60 pentru a face legătura cu Porto Novo. Astăzi, această rută este una dintre cele mai spectaculoase drumeții montane din Africa. Principalele culturi includ igname, manioc, cartofi dulci, porumb și fasole.",
+      "factsAdvanced": [
+        "Populație de aproximativ 1.200 locuitori",
+        "La 4 km de Ribeira Grande",
+        "Terasamente până la peste 800 metri altitudine",
+        "Igreja de Santo Crucifixo din secolul al XIX-lea",
+        "Drum istoric din piatră cubică din anii '60",
+        "Una dintre cele mai spectaculoase rute montane din Africa",
+        "Cultivarea ignamei, maniocului și cartofilor dulci"
+      ]
+    },
+    {
+      "id": "sao-filipe-cities-v2",
+      "descriptionAdvanced": "São Filipe se află pe coasta vestică a insulei Fogo și, cu cei 8.300 de locuitori ai săi, este capitala municipală și al doilea oraș ca vechime din Capul Verde. Fondat în secolul al XVI-lea de coloniștii portughezi, orașul a servit drept port strategic pentru comerțul cu sclavi și exportul produselor vulcanice. Centrul istoric este definit de „sobrados”, conace coloniale cu etaj, ce reprezintă unele dintre cele mai fine exemple de arhitectură locală, fiind sub protecție oficială ca patrimoniu istoric din 2010. Din golf se înalță spectaculos vulcanul Pico do Fogo (2.829 m), cel mai înalt vârf al țării, care a avut ultima sa erupție majoră în noiembrie 2014.",
+      "factsAdvanced": [
+        "Populație de aproximativ 8.300 locuitori (2021)",
+        "Al doilea oraș ca vechime din țară",
+        "Fondat în secolul al XVI-lea",
+        "Sobrados coloniale portugheze protejate",
+        "Patrimoniu istoric protejat din 2010",
+        "Pico do Fogo (2.829 m) - cel mai înalt punct din țară",
+        "Ultima erupție majoră: noiembrie 2014"
+      ]
+    },
+    {
+      "id": "mosteiros-cities-v2",
+      "descriptionAdvanced": "Mosteiros este situat pe coasta nord-estică a insulei Fogo și reprezintă reședința municipiului cu același nume, desprins în 1991 de São Filipe. Orașul cu 3.500 de locuitori se întinde de-a lungul unui golf cu nisip negru, la baza vulcanului activ Pico do Fogo. Numele „Mosteiros” (Mănăstiri) provine de la formațiunile de lavă impresionante care se ridică din mare ca niște turnuri monahale. Regiunea este unul dintre pilonii producției de cafea din Capul Verde, cultivată pe versanții vulcanici încă din secolul al XVIII-lea. „Café de Fogo”, un sortiment Arabica cu arome pământii unice, este produsul local emblematic. Viticultura este, de asemenea, practicată pe solurile vulcanice, Mosteiros servind drept poartă către caldera Chã das Caldeiras.",
+      "factsAdvanced": [
+        "Populație de circa 3.500 de locuitori",
+        "Municipiu înființat în 1991",
+        "Golf cu nisip negru vulcanic",
+        "Principalul centru de producție a cafelei din țară",
+        "Café de Fogo: varietate Arabica pământie",
+        "Viticultură pe soluri vulcanice",
+        "Hub pentru drumeții către caldera Chã das Caldeiras"
+      ]
+    },
+    {
+      "id": "cova-figueira-cities-v2",
+      "descriptionAdvanced": "Cova Figueira se află pe coasta de sud-est a insulei Fogo, la 20 de kilometri de São Filipe, și este reședința municipiului Santa Catarina do Fogo. Municipiul a fost creat în 2005. Cu o populație de aproximativ 2.000 de locuitori, Cova Figueira este un centru administrativ vital pentru partea de sud-est a insulei. Regiunea este renumită pentru culturile de fasole, porumb, cartofi dulci și cafea, fertilizate natural de depunerile periodice de cenușă vulcanică de la Pico do Fogo. Numele de Figueira (smochin) face referire la arborii care creșteau în trecut în zonă. Orașul se află la 700 de metri altitudine, oferind priveliști panoramice spectaculoase asupra oceanului și peisajului vulcanic.",
+      "factsAdvanced": [
+        "Populație de aproximativ 2.000 de locuitori",
+        "Centrul municipiului Santa Catarina do Fogo",
+        "Municipiu desprins din São Filipe în 2005",
+        "Altitudine de circa 700 de metri",
+        "Agricultură de fasole, porumb, cafea și cartofi dulci",
+        "Aproape de São Filipe (20 km)",
+        "Soluri vulcanice cu fertilitate ridicată"
+      ]
+    }
+  ]
+}

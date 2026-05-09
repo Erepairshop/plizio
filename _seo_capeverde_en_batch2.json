@@ -1,0 +1,359 @@
+{
+  "lang": "en",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "vila-das-pombas-cities-v2",
+      "descriptionAdvanced": "Vila das Pombas is a charming coastal town located on the northern shore of Santo Antao Island, serving as the main urban center for the Paul municipality. It is situated at the mouth of the spectacular Paul Valley, widely considered the greenest and most fertile valley in all of Cape Verde. The town is characterized by its pretty seafront promenade, pastel-colored colonial buildings, and a relaxed atmosphere. Vila das Pombas is a major center for the production of sugarcane and grogue, the national spirit, with several traditional distilleries operating in the area. It serves as a popular starting point for hikers who wish to explore the lush, terraced landscapes and tropical plantations that define the Paul Valley.",
+      "factsAdvanced": [
+        "Administrative seat of the Paul municipality.",
+        "Located at the mouth of the lush Paul Valley.",
+        "Main center for sugarcane cultivation and grogue production.",
+        "Features a scenic seafront promenade with colonial architecture.",
+        "Situated on the rugged and green northern coast of the island.",
+        "Home to approximately 1,700 residents.",
+        "Known for its humid and tropical microclimate.",
+        "Starting point for the famous hike up the Ribeira do Paul."
+      ]
+    },
+    {
+      "id": "coculi-cities-v2",
+      "descriptionAdvanced": "Coculi is a significant agricultural village nestled in the mountainous interior of Santo Antao Island, located at the confluence of several deep valleys. The village is famous for its stunning terraced fields that cling to the steep volcanic slopes, reaching heights of over 800 meters. These fertile terraces are used to grow a variety of crops, including yams, manioc, sweet potatoes, and tropical fruits, supported by an ancient and complex irrigation system. Coculi is also home to the striking 19th-century Church of Santo Crucifixo, which serves as a major landmark. The village is situated along the historic cobblestone road that once served as the primary link across the island's central mountain range.",
+      "factsAdvanced": [
+        "Located at the confluence of two major mountain valleys.",
+        "Famous for its extensive and ancient terraced agriculture.",
+        "Home to the landmark 19th-century Igreja de Santo Crucifixo.",
+        "Situated about 4 kilometers inland from Ribeira Grande.",
+        "Primary crops include yams, manioc, and coffee.",
+        "Located along the historic Estrada da Corda cobblestone road.",
+        "Surrounded by peaks that rise to over 1,000 meters.",
+        "Home to a population of approximately 1,200 people."
+      ]
+    },
+    {
+      "id": "sao-filipe-cities-v2",
+      "descriptionAdvanced": "Sao Filipe is the largest city on the volcanic island of Fogo and the fourth-largest in Cape Verde. Perched on a high cliff overlooking the Atlantic Ocean, it is renowned for its remarkably well-preserved Portuguese colonial architecture, particularly the 'sobrados'—elegant manor houses that once belonged to wealthy landowning families. The city's historical center is a protected heritage site, characterized by its narrow streets, colorful facades, and the striking blue Church of Nossa Senhora da Conceicao. Sao Filipe serves as the gateway to the Pico do Fogo volcano and is a vibrant center for trade, culture, and the export of the island's famous wine and coffee. Its annual Festival of Sao Filipe in May is one of the nation's most important celebrations.",
+      "factsAdvanced": [
+        "Largest city on Fogo Island and 4th largest in the country.",
+        "Famous for its 'sobrados,' traditional colonial manor houses.",
+        "Perched on a cliff with spectacular views of the sea and Brava Island.",
+        "Home to the distinctive blue Igreja de Nossa Senhora da Conceicao.",
+        "Gateway to the Cha das Caldeiras and the Pico do Fogo volcano.",
+        "Established in the 16th century, making it one of the nation's oldest.",
+        "Features a black volcanic sand beach known as Praia da Bila.",
+        "Hosts the renowned Festival of Sao Filipe every April and May."
+      ]
+    },
+    {
+      "id": "mosteiros-cities-v2",
+      "descriptionAdvanced": "Mosteiros is a town located on the humid northeastern coast of Fogo Island, set at the foot of the active Pico do Fogo volcano. The town is situated on a narrow coastal strip of black lava flows and is surrounded by a lush, green microclimate that contrasts sharply with the island's arid western side. Mosteiros is the center of Cape Verde's most prestigious coffee production, with Arabica beans grown on the fertile volcanic slopes above the town. The 'Cafe de Fogo' is prized for its unique, earthy aroma and is a major local export. The town's name, meaning 'Monasteries,' is thought to derive from the tower-like lava formations in the sea that resemble religious structures.",
+      "factsAdvanced": [
+        "Center of Cape Verde's premium coffee cultivation.",
+        "Located on the humid northeastern coast of Fogo Island.",
+        "Administrative seat of the Mosteiros municipality since 1991.",
+        "Built on historic lava flows from the Pico do Fogo volcano.",
+        "Known for its fertile soil and lush tropical vegetation.",
+        "Home to a population of approximately 3,500 residents.",
+        "Features black sand beaches and dramatic coastal cliffs.",
+        "The local coffee is grown at elevations of 300 to 1,000 meters."
+      ]
+    },
+    {
+      "id": "cova-figueira-cities-v2",
+      "descriptionAdvanced": "Cova Figueira is the administrative capital of the Santa Catarina do Fogo municipality, located on the rugged southeastern slopes of Fogo Island. The town is situated on a plateau overlooking the Atlantic and is surrounded by a starkly beautiful volcanic landscape. Its economy is deeply rooted in traditional agriculture, with local farmers growing corn, beans, and coffee in the volcanic ash-enriched soil, which is periodically replenished by eruptions from the nearby Pico do Fogo. Cova Figueira serves as a vital hub for the rural communities of the southeast and is a key stop along the island's ring road. The town's name, meaning 'Fig Tree Hollow,' refers to the wild fig trees that were once a prominent feature of the local vegetation.",
+      "factsAdvanced": [
+        "Administrative seat of the Santa Catarina do Fogo municipality.",
+        "Located approximately 20 kilometers east of Sao Filipe.",
+        "Economy based on volcanic soil agriculture and livestock.",
+        "Situated on the southeastern ring road of Fogo Island.",
+        "Offers expansive views of the Atlantic and the island of Brava.",
+        "Home to a population of approximately 2,000 residents.",
+        "Key gateway for exploring the southern slopes of the volcano.",
+        "Officially elevated to the status of a city (Cidade) in 2010."
+      ]
+    },
+    {
+      "id": "cha-das-caldeiras-cities-v2",
+      "descriptionAdvanced": "Cha das Caldeiras is a unique and resilient village located directly inside the massive crater of the Pico do Fogo volcano, at an elevation of about 1,700 meters. Surrounded by a lunar-like landscape of black lava and volcanic ash, the village is famous for its production of high-quality wine (Manecom) and fruit, which thrive in the nutrient-rich soil. Despite being destroyed several times by volcanic eruptions, most recently in 2014, the community has consistently returned to rebuild, demonstrating a profound connection to the land. Cha das Caldeiras is the primary starting point for hikers attempting to summit the 2,829-meter Pico do Fogo, the highest point in Cape Verde, and offers one of the most dramatic settings in the world.",
+      "factsAdvanced": [
+        "Located inside the volcanic crater at 1,700 meters elevation.",
+        "Famous for the production of Manecom wine and coffee.",
+        "Highest permanently inhabited settlement in Cape Verde.",
+        "Partially destroyed by volcanic eruptions in 1951, 1995, and 2014.",
+        "Primary base for trekking to the summit of Pico do Fogo.",
+        "Characterized by traditional 'funco' stone houses.",
+        "Part of the Fogo Natural Park, protecting unique biodiversity.",
+        "The crater (caldeira) has a diameter of approximately 9 kilometers."
+      ]
+    },
+    {
+      "id": "sal-rei-cities-v2",
+      "descriptionAdvanced": "Sal Rei is the capital and largest town of Boa Vista Island, situated on its western coast. Originally a small settlement focused on the salt trade—from which it derives its name, meaning 'Salt King'—it has evolved into a growing tourist destination known for its beautiful beaches and relaxed island vibe. The town is protected by the Ilheu de Sal Rei, which creates a calm bay ideal for swimming and windsurfing. While modern resorts are appearing on its outskirts, the town center maintains a colonial charm with its colorful plazas and the historic Church of Santa Isabel. Sal Rei is also a hub for whale watching and turtle conservation, as the island's coast is a major breeding ground for humpback whales and Loggerhead turtles.",
+      "factsAdvanced": [
+        "Capital city of Boa Vista Island.",
+        "Named after the historic salt pans (salinas) found nearby.",
+        "Protected by the Ilheu de Sal Rei island in its bay.",
+        "Home to the historic Igreja de Santa Isabel, built in 1906.",
+        "Major hub for whale-watching tours (March to May).",
+        "The island's main port for cargo and international goods.",
+        "Located just 5 kilometers from the Aristides Pereira Airport.",
+        "Population of approximately 6,000 residents as of 2021."
+      ]
+    },
+    {
+      "id": "estancia-de-baixo-cities-v2",
+      "descriptionAdvanced": "Estancia de Baixo is a quiet and picturesque village located in the central interior of Boa Vista Island, nestled in a fertile valley that serves as a green oasis amidst the island's desert landscape. The village is known for its traditional Cape Verdean architecture, with small, colorful houses surrounded by groves of date palms and acacia trees. Agriculture is the primary livelihood here, with farmers utilizing the groundwater to grow dates, vegetables, and fodder for livestock. Estancia de Baixo offers a glimpse into the authentic, slow-paced rural life of Boa Vista, away from the coastal tourist developments. It is also a popular stop for explorers heading toward the Viana Desert and the northern dunes.",
+      "factsAdvanced": [
+        "Located in a fertile oasis in the interior of Boa Vista.",
+        "Known for its groves of date palms and traditional agriculture.",
+        "Offers an authentic glimpse into rural Cape Verdean life.",
+        "Characterized by colorful, low-rise traditional housing.",
+        "Situated along the road connecting Sal Rei to the north.",
+        "Provides a base for exploring the nearby Viana Desert.",
+        "Home to a small, close-knit community of farmers.",
+        "The area is one of the few places on the island with lush vegetation."
+      ]
+    },
+    {
+      "id": "fundo-das-figueiras-cities-v2",
+      "descriptionAdvanced": "Fundo das Figueiras is a charming and well-kept village located in the eastern 'Norte' region of Boa Vista Island. It is widely regarded as one of the most beautiful villages on the island, famous for its impeccably clean streets, colorful houses adorned with flowers, and lush backyard gardens. The village is a center for traditional goat cheese production, a local specialty that is highly prized across the archipelago. The community is known for its exceptional hospitality and maintains strong cultural traditions, including vibrant folk music and traditional festivals. Fundo das Figueiras serves as a tranquil base for travelers wishing to explore the wild eastern coast and the nearby Turtle Foundation conservation sites.",
+      "factsAdvanced": [
+        "Located in the 'Norte' region, the eastern part of the island.",
+        "Famous for its high-quality traditional goat cheese production.",
+        "Known for its clean streets and flower-adorned colorful houses.",
+        "Major center for local folk traditions and community festivals.",
+        "Close to the important turtle nesting beaches of the east coast.",
+        "Home to a population of approximately 250 residents.",
+        "Characterized by a very hospitable and traditional community.",
+        "Surrounded by a landscape of volcanic hills and small farms."
+      ]
+    },
+    {
+      "id": "cabeca-dos-tarrafes-cities-v2",
+      "descriptionAdvanced": "Cabeca dos Tarrafes is a remote and peaceful village situated in the far eastern part of Boa Vista Island, within the rugged 'Norte' region. As the easternmost settlement on the island, it is surrounded by a wild, volcanic landscape and arid plains that stretch toward the Atlantic Ocean. The village's name refers to the 'tarrafes' or tamarix trees that are a characteristic feature of the local flora. Life in Cabeca dos Tarrafes is quiet and traditional, centered on subsistence agriculture and goat herding. Its isolation has preserved an authentic way of life, making it a place of profound stillness. The village is also a starting point for adventurous travelers heading toward the isolated beaches and shipwrecks of the eastern coast.",
+      "factsAdvanced": [
+        "Easternmost village on the island of Boa Vista.",
+        "Located in the remote and wild 'Norte' region.",
+        "Economy based primarily on goat herding and small-scale farming.",
+        "Named after the native Tarrafe (Tamarix) trees found nearby.",
+        "Offers a quiet, traditional, and slow-paced lifestyle.",
+        "Gateway to the secluded beaches of the eastern coastline.",
+        "Surrounded by dramatic volcanic rock formations.",
+        "Home to a small population of roughly 100 residents."
+      ]
+    },
+    {
+      "id": "bofareira-cities-v2",
+      "descriptionAdvanced": "Bofareira is a small, traditional village located in the northern part of Boa Vista Island, set amidst a vast and arid steppe-like landscape. The village is known for its simple, authentic way of life, where the raising of goats and cattle remains the primary economic activity. Bofareira offers visitors a glimpse into the island's historical past, with its traditional stone-built houses and a community that has remained largely untouched by the mass tourism seen elsewhere on Sal and Boa Vista. The village is a place of silence and solitude, surrounded by wide-open spaces and the rugged beauty of the northern volcanic plains. It is a popular stop for off-road excursions exploring the island's wild interior.",
+      "factsAdvanced": [
+        "Located in the arid northern interior of Boa Vista.",
+        "Economy centered on traditional livestock and goat farming.",
+        "Characterized by its traditional architecture and quiet atmosphere.",
+        "A popular stop for off-road desert and wilderness safaris.",
+        "Provides an authentic look at the island's rural heritage.",
+        "Situated away from the main coastal tourist routes.",
+        "Home to a small community of fewer than 200 people.",
+        "Surrounded by a landscape of dry steppes and volcanic hills."
+      ]
+    },
+    {
+      "id": "povoacao-velha-cities-v2",
+      "descriptionAdvanced": "Povoacao Velha is the oldest settlement on Boa Vista Island, founded in the 16th century at the foot of the Rocha Estancia mountain. For centuries, it served as the island's primary population center before the rise of Sal Rei. The village is steeped in history and colonial charm, with its quiet cobblestone streets and the historic Chapel of Nossa Senhora da Conceicao, which dates back to 1828. Povoacao Velha is located in the southwestern part of the island, just a few kilometers from the spectacular Santa Monica Beach, widely considered one of the finest in the world. Its location offers a peaceful retreat and a sense of timelessness, making it a favorite for those seeking to connect with the island's origins.",
+      "factsAdvanced": [
+        "Oldest settlement on Boa Vista, founded in the 16th century.",
+        "Served as the island's capital until the early 19th century.",
+        "Located at the foot of the 354-meter Rocha Estancia mountain.",
+        "Home to the historic Capela de Nossa Senhora da Conceicao (1828).",
+        "Situated just 5 kilometers from the famous Santa Monica Beach.",
+        "Known for its traditional handicrafts and authentic atmosphere.",
+        "The name 'Povoacao Velha' translates to 'Old Village'.",
+        "A key cultural landmark and historical site on the island."
+      ]
+    },
+    {
+      "id": "rabil-cities-v2",
+      "descriptionAdvanced": "Rabil is the former capital of Boa Vista Island and remains one of its most important cultural and historical centers. Located just a short distance from the Aristides Pereira International Airport, the town is famous throughout Cape Verde for its traditional pottery, with a local factory preserving ancient techniques used to create terracotta wares from local clay. Rabil is situated on a hill overlooking the fertile Rabil Lagoon (Lagoa da Ribeira do Rabil), one of the few places on the island with year-round water and lush vegetation, attracting a variety of birdlife. The town is also home to the Church of Sao Roque, the oldest church on the island, which stands as a testament to its long history as a center of community life.",
+      "factsAdvanced": [
+        "Former capital of Boa Vista Island.",
+        "Famous for its traditional terracotta pottery workshop.",
+        "Home to the Igreja de Sao Roque, the island's oldest church.",
+        "Located overlooking the ecologically important Rabil Lagoon.",
+        "Situated just 2 kilometers from the international airport.",
+        "A major center for artisanal handicrafts and local culture.",
+        "The nearby lagoon is a vital habitat for migratory birds.",
+        "Population of approximately 1,200 residents as of 2021."
+      ]
+    },
+    {
+      "id": "joao-galego-cities-v2",
+      "descriptionAdvanced": "Joao Galego is a traditional village located in the northern 'Norte' region of Boa Vista Island. It is part of a trio of villages, along with Fundo das Figueiras and Cabeca dos Tarrafes, that share a common culture and agricultural heritage. The village is known for its strong community spirit and its reliance on traditional goat farming and artisanal cheese production. Joao Galego is characterized by its colorful, low-rise houses and its proximity to the vast, arid desert landscapes that define the island's northern interior. The village is a place where traditional Cape Verdean folk music and dance are still a vital part of daily life, and its local festivals are known for their authenticity and warmth.",
+      "factsAdvanced": [
+        "One of the three main villages in the eastern 'Norte' region.",
+        "Major center for goat herding and artisanal cheese making.",
+        "Known for its authentic folk festivals and community spirit.",
+        "Features traditional colorful architecture and tidy streets.",
+        "Located about 25 kilometers east of the capital, Sal Rei.",
+        "Surrounded by a rugged landscape of dunes and volcanic plains.",
+        "Home to a population of approximately 120 residents.",
+        "The area is famous for its hospitality and traditional way of life."
+      ]
+    },
+    {
+      "id": "ribeira-brava-cities-v2",
+      "descriptionAdvanced": "Ribeira Brava is the historical and administrative capital of Sao Nicolau Island, nestled in a deep and narrow valley in the island's mountainous interior. Founded in the 17th century, the town is one of the most culturally significant in Cape Verde, once serving as a major center for religious education and intellectual life. It is famous for its well-preserved colonial architecture, characterized by colorful buildings with elegant balconies and narrow winding streets. The town is dominated by the majestic Cathedral of Sao Nicolau and was the seat of the first seminary in the archipelago, which played a crucial role in the development of the Cape Verdean elite. Despite the rise of the port town Tarrafal, Ribeira Brava remains the island's soul and administrative heart.",
+      "factsAdvanced": [
+        "Historical and administrative capital of Sao Nicolau Island.",
+        "Founded in the 17th century in a narrow, deep valley.",
+        "Home to the landmark Cathedral of Sao Nicolau.",
+        "Site of the first seminary in Cape Verde, founded in 1866.",
+        "Renowned for its elegant and well-preserved colonial architecture.",
+        "Administrative seat of the Ribeira Brava municipality.",
+        "Located at an elevation of roughly 130 meters.",
+        "Population of approximately 2,000 residents in the urban area."
+      ]
+    },
+    {
+      "id": "tarrafal-de-sao-nicolau-cities-v2",
+      "descriptionAdvanced": "Tarrafal de Sao Nicolau is the primary port and the largest economic center of Sao Nicolau Island. Located on the western coast, the town has grown rapidly in recent decades to become the island's main gateway for people and goods arriving by ferry. It is famous for its unique beaches with black, medicinal sand, which is rich in titanium and iodine and believed to have healing properties for various ailments. The town is a major hub for the local fishing industry, with a busy harbor and several fish processing facilities. Tarrafal offers a more modern and bustling atmosphere than the historic Ribeira Brava, with a wide range of services, restaurants, and guest houses that cater to both locals and the increasing number of visitors.",
+      "factsAdvanced": [
+        "Principal port and largest town on Sao Nicolau Island.",
+        "Famous for its black sand beaches with medicinal properties.",
+        "Major center for the island's fishing and canning industry.",
+        "Primary arrival point for ferries from Sao Vicente and Sal.",
+        "Administrative seat of the Tarrafal de Sao Nicolau municipality.",
+        "Officially elevated to the status of a city (Cidade) in 2010.",
+        "Home to a population of approximately 4,000 residents.",
+        "Known for its high concentration of titanium in the volcanic sands."
+      ]
+    },
+    {
+      "id": "faja-de-baixo-cities-v2",
+      "descriptionAdvanced": "Faja de Baixo is a lush and fertile agricultural village located in the mountainous interior of Sao Nicolau Island, within the Ribeira Brava municipality. The village is situated in a deep, green valley known for its productive microclimate, which allows for the cultivation of a wide variety of tropical fruits and vegetables. Its terraced fields are a testament to the ingenuity of local farmers, who have used ancient irrigation techniques to transform the steep volcanic slopes into a productive garden. Faja de Baixo is particularly famous for its bananas, papayas, and sugarcane, which is used to produce some of the island's finest grogue. The village offers spectacular panoramic views of the surrounding peaks and is a favorite for hikers exploring the island's rugged highlands.",
+      "factsAdvanced": [
+        "Major agricultural center in the interior of Sao Nicolau.",
+        "Located in a fertile valley within the Ribeira Brava municipality.",
+        "Known for the production of bananas, papayas, and sugarcane.",
+        "Features impressive terraced fields and ancient irrigation systems.",
+        "Offers spectacular views of the central mountain range.",
+        "Situated at an elevation of approximately 250 meters.",
+        "Known for its humid and productive tropical microclimate.",
+        "Home to a population of roughly 600 residents."
+      ]
+    },
+    {
+      "id": "juncalinho-cities-v2",
+      "descriptionAdvanced": "Juncalinho is a tranquil coastal village located on the eastern tip of Sao Nicolau Island, within the Ribeira Brava municipality. It is famous throughout the archipelago for its stunning natural rock swimming pools, where the volcanic coastline forms protected basins filled with crystal-clear turquoise water. The village is situated in a wild and remote landscape of dry plains and dramatic coastal cliffs, offering a sense of seclusion and peace. Fishing is the primary livelihood for the local community, and the village remains largely untouched by tourism. Juncalinho's unique geology and the stark contrast between the arid land and the vibrant sea make it one of the island's most scenic and memorable locations.",
+      "factsAdvanced": [
+        "Famous for its natural volcanic rock swimming pools (piscinas naturais).",
+        "Located on the remote eastern tip of Sao Nicolau Island.",
+        "Economy based primarily on artisanal coastal fishing.",
+        "Characterized by a wild, arid, and dramatic coastal landscape.",
+        "Offers a peaceful and secluded atmosphere away from urban centers.",
+        "The rock pools are a popular destination for domestic tourism.",
+        "Home to a small community of approximately 400 residents.",
+        "Accessible via a scenic road from Ribeira Brava."
+      ]
+    },
+    {
+      "id": "preguica-cities-v2",
+      "descriptionAdvanced": "Preguica is a historical coastal village on Sao Nicolau Island, located on a steep cliff overlooking the Atlantic on the southern shore. Founded in the early colonial period, it once served as the island's primary port and was a vital hub for the export of agricultural products and the arrival of settlers. The village is home to the ruins of the 18th-century Forte do Principe Real, which was built to protect the harbor from pirate attacks. Today, Preguica is a quiet fishing village that preserves a sense of its grand past through its old stone houses and historical landmarks. Its location provides spectacular views over the sea toward the islands of Sal and Boa Vista on clear days, and it remains a place of significant cultural heritage.",
+      "factsAdvanced": [
+        "Historical former main port of Sao Nicolau Island.",
+        "Home to the ruins of the 18th-century Forte do Principe Real.",
+        "Perched on a steep coastal cliff with panoramic ocean views.",
+        "Was a major hub for the export of coffee and sugarcane.",
+        "Located approximately 7 kilometers from Ribeira Brava.",
+        "Home to the island's first airport (now closed).",
+        "Features traditional stone architecture from the colonial era.",
+        "A key site for understanding the maritime history of the island."
+      ]
+    },
+    {
+      "id": "nova-sintra-cities-v2",
+      "descriptionAdvanced": "Nova Sintra is the capital of Brava Island and is widely considered to be one of the most beautiful and well-kept towns in all of Cape Verde. Named after the historic Portuguese town of Sintra, it is perched in the highlands of the island and is often shrouded in a mystical mist that supports its lush, floral gardens. Known as the 'Flower City,' Nova Sintra is characterized by its elegant colonial houses, clean cobblestone streets, and a European-style charm. It was the home of the famous Cape Verdean poet Eugenio Tavares, who was instrumental in the development of the Morna music style. The town's cool climate and spectacular views over the Atlantic make it a serene and unique destination within the archipelago.",
+      "factsAdvanced": [
+        "Capital city of Brava, the smallest inhabited island.",
+        "Known as the 'Flower City' (Cidade das Flores) of Cape Verde.",
+        "Located at an elevation of approximately 500 meters.",
+        "Named after the picturesque town of Sintra in Portugal.",
+        "Home of the legendary poet and composer Eugenio Tavares.",
+        "Characterized by its humid microclimate and lush gardens.",
+        "Features well-preserved European-style colonial architecture.",
+        "The main square, Praca Eugenio Tavares, is the heart of the town."
+      ]
+    },
+    {
+      "id": "porto-ingles-cities-v2",
+      "descriptionAdvanced": "Porto Ingles, also known as Vila do Maio, is the capital and largest town of Maio Island. Located on the southwestern coast, the town is famous for its immense, white sandy beaches and its exceptionally quiet and tranquil atmosphere. Its history is deeply tied to the salt trade, with the nearby salt pans once being a major source of wealth and the reason for its name, which reflects the historical presence of English salt traders. The town center is dominated by a majestic 19th-century colonial church and a historic fortress that once protected the harbor. Porto Ingles offers a slow-paced lifestyle and is a gateway to the island's pristine natural beauty, including its vast dunes and important sea turtle nesting sites.",
+      "factsAdvanced": [
+        "Capital city and main urban center of Maio Island.",
+        "Named 'Porto Ingles' due to the historical English salt trade.",
+        "Home to a massive white sand beach that stretches along the town.",
+        "Features the majestic Igreja de Nossa Senhora da Luz (1872).",
+        "Site of a historic fortress built to defend the salt trade.",
+        "The nearby salinas (salt pans) are among the largest in the country.",
+        "Located just 3 kilometers from the island's airport.",
+        "Known for having some of the most tranquil streets in Cape Verde."
+      ]
+    },
+    {
+      "id": "calheta-cities-v2",
+      "descriptionAdvanced": "Calheta is a traditional and authentic fishing village located on the western coast of Maio Island, a few kilometers north of the capital, Porto Ingles. The village is one of the most important centers for artisanal fishing on the island, with a close-knit community whose life is entirely dictated by the rhythms of the sea. Calheta is known for its relaxed way of life, its colorful wooden fishing boats, and the warm hospitality of its residents. The village is situated along a rugged coastline and offers some of the best opportunities to see traditional Cape Verdean life away from any tourist influence. It is also a significant center for local cultural traditions, including traditional music and the celebration of maritime festivals.",
+      "factsAdvanced": [
+        "Major center for artisanal fishing on Maio Island.",
+        "Located on the western coast, north of Porto Ingles.",
+        "Characterized by its colorful fishing boats and close community.",
+        "Known for its exceptionally relaxed and traditional lifestyle.",
+        "Offers an authentic glimpse into the maritime heritage of Maio.",
+        "Home to a population of approximately 1,200 residents.",
+        "Surrounded by a landscape of dry plains and coastal cliffs.",
+        "A key location for traditional music and sea-related festivals."
+      ]
+    },
+    {
+      "id": "barreiro-cities-v2",
+      "descriptionAdvanced": "Barreiro is a peaceful village located on the southwestern part of Maio Island, serving as a rural suburb of the capital, Porto Ingles. The village is situated in an area of flat, arid plains near the island's airport and is characterized by its colorful, low-rise residential houses. While it is close to the main administrative center, Barreiro maintains a distinct rural character, with many residents involved in small-scale agriculture and livestock farming, particularly goat herding. The village serves as a gateway to the southern part of the island, including the beautiful and isolated beaches of the south coast. Its quiet streets and traditional atmosphere reflect the slow-paced life that is characteristic of Maio.",
+      "factsAdvanced": [
+        "Located in the southwestern part of Maio Island.",
+        "Serves as a residential and agricultural suburb of Porto Ingles.",
+        "Economy based on small-scale farming and goat herding.",
+        "Situated in close proximity to the Maio Airport.",
+        "Characterized by its colorful traditional Cape Verdean houses.",
+        "Gateway to the secluded beaches of the southern coastline.",
+        "Home to a community of approximately 600 people.",
+        "The area is known for its wide-open, dry, and sunny landscapes."
+      ]
+    },
+    {
+      "id": "figueira-da-horta-cities-v2",
+      "descriptionAdvanced": "Figueira da Horta is a vital agricultural center located in the interior of Maio Island, nestled in one of the few areas with significant groundwater. The village is known as the island's 'vegetable garden,' with local farmers using traditional wells to irrigate fertile plots of land where they grow a variety of vegetables and fruits for the local market. The landscape is characterized by a surprising amount of green amidst the island's generally arid terrain, with rows of crops and fruit trees. Figueira da Horta is a place of hard work and traditional knowledge, where the sustainable use of water has allowed a community to thrive for generations. It offers a unique perspective on the island's agricultural resilience.",
+      "factsAdvanced": [
+        "Primary center for vegetable production on Maio Island.",
+        "Known as the island's 'vegetable garden' due to its fertile soil.",
+        "Famous for its traditional hand-dug irrigation wells.",
+        "Supplies the majority of fresh produce to Porto Ingles.",
+        "Located in the central-western interior of the island.",
+        "Home to a productive community of roughly 400 residents.",
+        "Characterized by its green garden plots and agricultural focus.",
+        "A key site for understanding water management on the island."
+      ]
+    },
+    {
+      "id": "cascabulho-cities-v2",
+      "descriptionAdvanced": "Cascabulho is a small and isolated settlement located in the northern part of Maio Island, set within a vast and arid landscape of volcanic plains and dry steppes. The village is one of the most remote on the island, and life here is characterized by its simplicity and the traditional practice of livestock farming, particularly goats and cattle. Cascabulho offers a glimpse into the stark and barren beauty of Maio's interior, a place of immense silence and open horizons. The community is small but resilient, maintaining an authentic way of life that has changed little over the decades. It is a destination for those seeking to experience the most rugged and untouched parts of the island, far from any urban centers.",
+      "factsAdvanced": [
+        "Remote settlement located in the northern interior of Maio.",
+        "Economy centered on traditional livestock and goat herding.",
+        "Characterized by its isolation and simple way of life.",
+        "Surrounded by a vast landscape of dry steppes and dunes.",
+        "Offers a view of the island's rugged and barren natural beauty.",
+        "One of the least populated and most secluded villages on Maio.",
+        "Home to a small community of fewer than 200 residents.",
+        "Located away from the main road and tourist infrastructure."
+      ]
+    }
+  ]
+}

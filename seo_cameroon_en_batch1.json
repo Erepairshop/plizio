@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-cameroon-relief-v2",
+      "descriptionAdvanced": "Mount Cameroon, locally known as Fako, is a massive volcanic feature rising over 4,000 meters from the tropical Atlantic coast. Its extraordinary altitudinal range creates distinct ecological zones, spanning from lush lowland rainforests to unique alpine environments at its summit. The mountain acts as a massive topographic barrier to moisture-laden oceanic winds, making it one of the wettest places on Earth. This intense precipitation, combined with its ongoing volcanic activity, continuously reshapes its complex slopes. Geography K7 — mountains and volcanism.",
+      "factsAdvanced": [
+        "A massive, active stratovolcano on the Atlantic coast.",
+        "Rises sharply from sea level to 4,040 meters.",
+        "Topographic lift creates extreme local rainfall.",
+        "Shaped by millennia of volcanic eruption cycles.",
+        "Unique, elevation-dependent vegetation zones.",
+        "The highest peak in Central Africa and a dominant regional relief feature."
+      ]
+    },
+    {
+      "id": "adamaoua-plateau-relief-v2",
+      "descriptionAdvanced": "The Adamawa Plateau serves as the crucial central geographical gateway of Cameroon, dividing the humid southern forests from the arid northern Sahelian zones. Averaging about 1,000 meters in altitude, this vast plateau is defined by gentle undulations and dramatic escarpments at its fringes. It acts as a major continental watershed, directing significant river systems northward towards the Lake Chad basin and southward into the Atlantic. This plateau is a defining topographic feature that dictates much of the nation's climatic and hydrological distribution. Geography K7 — plateaus and hydrography.",
+      "factsAdvanced": [
+        "Natural topographic divide between North and South Cameroon.",
+        "Extensive plateau with an average elevation of 1,000 meters.",
+        "Pronounced step-like landscape at the plateau's edges.",
+        "Central watershed point for numerous river systems.",
+        "A decisive geographic factor for the country's climatic zones.",
+        "Landscape dominated by expansive grasslands and savannas."
+      ]
+    },
+    {
+      "id": "mandara-mountains-relief-v2",
+      "descriptionAdvanced": "The Mandara Mountains in the far north form a geologically complex volcanic massif, characterized by rugged granite and volcanic rock formations. Their deeply incised, steep valleys have functioned as a natural topographic fortress, shaping local settlement patterns and cultural defense strategies for centuries. The intense erosion has carved a unique, craggy landscape that rises dramatically above the surrounding plains. This harsh terrain contrasts sharply with the nearby lowlands, maintaining a distinct ecological and social environment. Geography K7 — mountains and settlement geography.",
+      "factsAdvanced": [
+        "Rugged volcanic range with deeply carved valleys.",
+        "Dominant rocky landscape in Cameroon's far north.",
+        "Topographic complexity defines historical settlement structures.",
+        "Steep cuts between sharp, iconic rock formations.",
+        "Natural defensive landscape with strategic regional importance.",
+        "Unique relief with high erosive activity."
+      ]
+    },
+    {
+      "id": "bamenda-highlands-relief-v2",
+      "descriptionAdvanced": "The Bamenda Highlands comprise a fertile, volcanic-based plateau, renowned for its rolling, distinct hill-and-peak topography. Its higher elevation provides a markedly milder and more humid climate than the surrounding lowlands, establishing this relief as one of Cameroon's most productive western agricultural hubs. The region's extensive valleys and terraced slopes are the legacy of prolonged volcanic activity and geological weathering. These topographic characteristics make the area both scenically impressive and highly suited for intensive farming. Geography K7 — highlands and agriculture.",
+      "factsAdvanced": [
+        "Fertile highland region in western Cameroon.",
+        "Marked by distinct peaks and broad, gentle valleys.",
+        "Topographically ideal for intensive terraced farming.",
+        "Higher altitude provides a milder climate than surrounding plains.",
+        "Landscape historically shaped by volcanic activity.",
+        "Vital topographic unit supporting regional agricultural production."
+      ]
+    },
+    {
+      "id": "sanaga-basin-relief-v2",
+      "descriptionAdvanced": "The Sanaga Basin is a vast, low-lying alluvial depression in the heart of southern Cameroon, collecting drainage for the country's most powerful river, the Sanaga. The topography here consists of gentle, undulating terrain entirely blanketed by dense tropical rainforest. This basin structure serves a vital hydrological purpose, dictating the flow dynamics and drainage patterns of the entire river system as it travels toward the Atlantic. The flat, rain-fed nature of this basin is central to the ecological character of the southern forest zone. Geography K6 — lowlands and waters.",
+      "factsAdvanced": [
+        "Extensive basin structure centered around the Sanaga River.",
+        "Gentle, rolling hills within the rainforest belt.",
+        "Determines the hydrological course of the country's main river.",
+        "Geographical heart of the central Cameroonian lowlands.",
+        "High ecological density relief covered in tropical forests.",
+        "Essential topographic unit for drainage toward the Atlantic."
+      ]
+    }
+  ]
+}

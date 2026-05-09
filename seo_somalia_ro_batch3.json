@@ -2,363 +2,46 @@
   "lang": "ro",
   "country": "somalia",
   "files": [
-    "lib/visualLab/data/poiExtraSomaliaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaLifeV2.ts",
-    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts",
     "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "wanlaweyn-cities-v2",
-      "descriptionAdvanced": "Wanlaweyn este un oraș strategic situat în regiunea Lower Shabelle, la aproximativ 90 de kilometri nord-vest de Mogadishu. Orașul este faimos pentru proximitatea sa față de baza aeriană Baledogle, un punct cheie pentru securitatea națională și operațiunile internaționale. Wanlaweyn este un centru agricol și pastoral vibrant, servind ca punct de colectare pentru animalele și produsele lactate din câmpiile înconjurătoare. Economia sa este impulsionată de comerțul de tranzit între capitală și regiunile interioare Baidoa și Hiiraan. Comunitatea locală este recunoscută pentru ospitalitatea sa și pentru rolul de hub logistic într-o zonă de contact între diferite clanuri. Geografia K7 — baze strategice și noduri comerciale rurale.",
+      "id": "gacan-libaah-summit-relief-v2",
+      "descriptionAdvanced": "Vârful Gacan Libaah se ridică din masivul muntos Golis ca un punct de reper topografic proeminent. Acesta nu este doar un punct de orientare geografică, ci și un punct cheie climatic datorită poziției sale expuse. Prin ridicarea maselor de aer umede care vin dinspre Oceanul Indian, zona vârfului funcționează ca un punct natural de condensare, ceea ce duce la formarea mai frecventă a ceții și la precipitații. Această particularitate topografică favorizează existența suprafețelor forestiere într-o regiune muntoasă altfel aridă și servește drept punct de observare strategic important asupra câmpiilor de coastă din nord.",
       "factsAdvanced": [
-        "Este situat la intersecția drumurilor spre Baidoa și Mogadishu.",
-        "Baza aeriană Baledogle se află la doar câțiva kilometri distanță.",
-        "Piața de lapte de cămilă din Wanlaweyn este renumită în regiune.",
-        "Agricultura se bazează pe precipitațiile sezoniere și puțuri.",
-        "Orașul a cunoscut o creștere demografică datorită activităților logistice.",
-        "Este un centru administrativ important pentru districtul Wanlaweyn.",
-        "Clima este tropical-aridă, cu vânturi puternice de savană.",
-        "Comerțul cu cărbune a fost istoric o activitate economică majoră."
+        "Ridicătura topografică proeminentă în masivul Golis.",
+        "Servește drept punct natural de condensare pentru umiditate.",
+        "Cunoscut pentru formațiunile sale forestiere dense, ca niște insule.",
+        "Platformă strategică importantă cu un câmp vizual larg.",
+        "Favorizat climatic prin formarea frecventă a ceții.",
+        "Loc important de retragere ecologică în regiunea montană.",
+        "Punct de reper geografic între munți și coastă."
       ]
     },
     {
-      "id": "kurtunwarey-cities-v2",
-      "descriptionAdvanced": "Kurtunwarey este un oraș agricol situat în regiunea Lower Shabelle, beneficiind de resursele de apă ale fluviului Shebelle. Orașul este inima unei zone de producție intensivă de banane și grapefruit, produse care au fost istoric exportate prin portul Mogadishu. Kurtunwarey reprezintă un exemplu de adaptare a comunităților la viața de-a lungul fluviului, folosind sisteme de irigații tradiționale pentru a susține fermele de familie și plantațiile comerciale. Deși zona s-a confruntat cu provocări legate de inundații și securitate, rămâne un pilon al agriculturii somaleze. Földrajz K8 — plantații tropicale și managementul apei fluviale.",
+      "id": "xaysimo-highlands-relief-v2",
+      "descriptionAdvanced": "Podișul Xaysimo cuprinde un peisaj forestier și de platou vast, valoros din punct de vedere ecologic, în nordul Somaliei. Regiunea este caracterizată de un relief de tip platou, care se remarcă prin umiditatea sa relativă față de semideșertul înconjurător. Din punct de vedere geologic, părți mari sunt formate din formațiuni stâncoase erodate care oferă condiții de sol fertile, deși superficiale. Această combinație de poziție topografică și natura solului permite apariția unor exemplare rare de ienupăr, care sunt de o importanță remarcabilă pentru ecologia montană somaleză și definesc în mod decisiv unicitatea peisagistică a acestei zone.",
       "factsAdvanced": [
-        "Fluviul Shebelle trece în imediata apropiere a orașului.",
-        "Este renumit pentru plantațiile sale de banane de înaltă calitate.",
-        "Economia este 100% dependentă de exporturile agricole.",
-        "Orașul are un sistem vechi de canale de irigații italiene.",
-        "Inundațiile anuale aduc sedimente fertile solului local.",
-        "Kurtunwarey este locuit de o comunitate de agricultori sedentari.",
-        "Drumul către oraș este adesea impracticabil în sezonul ploios.",
-        "Este situat la aproximativ 150 km sud-vest de capitală."
+        "Relief vast, de tip platou.",
+        "Cunoscut pentru exemplarele sale rare și protejate de ienupăr.",
+        "Umiditate semnificativ mai mare decât în semideșertul înconjurător.",
+        "Condiții de sol relativ fertile datorită eroziunii.",
+        "Zonă ecologică importantă a florei montane somaleze.",
+        "Peisaj marcat de podișuri împădurite.",
+        "Tranziție topografică între munți înalți și câmpie."
       ]
     },
     {
-      "id": "sablale-cities-v2",
-      "descriptionAdvanced": "Sablale este un oraș situat în regiunea Lower Shabelle, cunoscut istoric pentru proiectele sale de colonizare agricolă și relocare. În anii 1970, Sablale a fost centrul unui program guvernamental masiv de transformare a nomazilor afectați de secetă în agricultori sedentari și pescari. Orașul este situat într-o zonă de tranziție între savana aridă și valea fertilă a fluviului Shebelle. Sablale servește ca un laborator social și geografic pentru înțelegerea modului în care comunitățile somaleze s-au adaptat la schimbările climatice prin diversificarea mijloacelor de trai. Geografia K7 — relocări umane și adaptări la secetă.",
+      "id": "juba-delta-plains-relief-v2",
+      "descriptionAdvanced": "Câmpiile Deltei Juba formează o zonă complexă și extrem de dinamică din punct de vedere topografic la gura de vărsare a râului Jubba în Oceanul Indian. Această regiune este caracterizată printr-un relief plat, traversat de numeroase brațe fluviale și canale, care este modelat continuu prin depuneri de sedimente. Structura solului este extrem de bogată în nutrienți și constă în aluviuni cu granulație fină, ceea ce face din această regiune o zonă ideală pentru utilizarea agricolă, în special pentru cultivarea orezului. Interacțiunea constantă dintre scurgerea fluvială și mareele marine creează o structură peisagistică unică, aflată într-o schimbare continuă.",
       "factsAdvanced": [
-        "A fost sediul proiectului de relocare a nomazilor din 1975.",
-        "Este situat între cursul fluviului Shebelle și Oceanul Indian.",
-        "Economia combină agricultura de subzistență cu creșterea animalelor.",
-        "Regiunea este bogată în pășuni naturale după ploile 'Gu'.",
-        "Orașul are o structură urbană planificată în perioada socialistă.",
-        "Sablale este un punct focal pentru asistența în dezvoltarea rurală.",
-        "Populația este diversă, provenind din diferite regiuni ale Somaliei.",
-        "Clima este caldă, cu influențe maritime de umiditate."
-      ]
-    },
-    {
-      "id": "dinsoor-cities-v2",
-      "descriptionAdvanced": "Dinsoor este un oraș strategic situat în regiunea Bay din sud-vestul Somaliei, așezat pe un platou calcaros înconjurat de munți mici. Orașul este un centru administrativ și comercial vital pentru districtul Dinsoor, fiind renumit pentru piețele sale de animale și pentru producția de sorg și fasole. Datorită poziției sale izolate și a reliefului accidentat, Dinsoor a servit adesea ca o fortăreață naturală și un centru de putere regională. Orașul este un punct de legătură între regiunile Bay, Gedo și Middle Juba, jucând un rol crucial în controlul rutelor comerciale din sudul țării. Földrajz K8 — relief de platou și geopolitică locală.",
-      "factsAdvanced": [
-        "Este situat la o altitudine de aproximativ 350 de metri.",
-        "Numele se referă la terenul stâncos și rezistent al zonei.",
-        "Economia se bazează pe agricultura de 'ploaie' (sorg).",
-        "Orașul este un nod rutier spre Bardera și Baidoa.",
-        "Dinsoor are o istorie de rezistență împotriva forțelor externe.",
-        "Piața de cămile este una dintre cele mai mari din regiunea Bay.",
-        "Clima este marcată de temperaturi ridicate și secete frecvente.",
-        "Apa potabilă provine din puțuri forate în stâncă."
-      ]
-    },
-    {
-      "id": "qansahdhere-cities-v2",
-      "descriptionAdvanced": "Qansahdhere este un oraș agricol și pastoral situat în regiunea Bay, fiind considerat unul dintre cele mai fertile districte din sud-vestul Somaliei. Orașul se află într-o zonă de câmpii bogate unde se cultivă masiv sorg, mei și diverse leguminoase care alimentează piețele din Mogadishu. Qansahdhere este un hub vital pentru comunitățile de agro-pastori, combinând cultivarea pământului cu creșterea extensivă a vitelor și caprelor. Orașul joacă un rol esențial în securitatea alimentară regională, fiind un centru de colectare pentru cerealele produse în hinterlandul său vast. Geografia K7 — economii agro-pastorale și câmpii fertile.",
-      "factsAdvanced": [
-        "Este situat la aproximativ 90 de kilometri vest de Baidoa.",
-        "Sorgul de Qansahdhere este recunoscut pentru calitatea sa.",
-        "Orașul este un centru comercial pentru regiunea dintre râurile Juba și Shebelle.",
-        "Infrastructura se bazează pe piețe tradiționale în aer liber.",
-        "Populația este majoritar formată din grupul Rahanweyn.",
-        "Regiunea beneficiază de soluri de tip 'pământ negru' (vertisoli).",
-        "Este un punct strategic pe ruta spre regiunea Gedo.",
-        "Clima este semi-aridă, optimă pentru cereale rezistente."
-      ]
-    },
-    {
-      "id": "burhakaba-cities-v2",
-      "descriptionAdvanced": "Burhakaba este un oraș spectaculos din punct de vedere geografic, situat în regiunea Bay, renumit pentru muntele său de granit care domină peisajul. Numele orașului înseamnă 'Muntele Hakaba', referindu-se la masivul stâncos izolat care se ridică brusc din câmpie. Burhakaba este un punct strategic pe drumul principal care leagă Mogadishu de Baidoa, fiind un nod de transport și comerț obligatoriu. Orașul este faimos pentru carierele sale de piatră și pentru meșteșugarii care prelucrează granitul, dar și pentru importanța sa spirituală și istorică pentru comunitățile locale. Földrajz K8 — inselberguri și resurse de piatră.",
-      "factsAdvanced": [
-        "Muntele Hakaba este un 'inselberg' (munte-insulă) de granit.",
-        "Este situat la 180 km vest de Mogadishu.",
-        "Carierele de piatră de aici furnizează materiale de construcție pentru regiune.",
-        "Orașul are o istorie veche de așezări în jurul muntelui.",
-        "Este un nod strategic pentru controlul rutei spre sud-vest.",
-        "Agricultura locală produce sorg și fasole în câmpiile din jur.",
-        "Burhakaba găzduiește piețe vibrante de animale și cereale.",
-        "Relieful oferă o protecție naturală unică așezării."
-      ]
-    },
-    {
-      "id": "tiyeglow-cities-v2",
-      "descriptionAdvanced": "Tiyeglow este un oraș situat în regiunea Bakool din sudul Somaliei, având o importanță militară și administrativă majoră. Situat pe drumul care leagă Baidoa de Beledweyne, orașul servește drept punct de control strategic pentru mișcările de trupe și bunuri între centrul și sudul țării. Tiyeglow este situat într-o zonă aridă, unde viața comunității gravitează în jurul puțurilor de apă și a comerțului cu animale. Orașul a fost un punct central în eforturile de stabilizare a regiunii Bakool, reflectând provocările geografice și politice ale Somaliei interioare. Geografia K7 — noduri logistice și securitate regională.",
-      "factsAdvanced": [
-        "Este un punct cheie pe ruta strategică Baidoa-Beledweyne.",
-        "Situat într-un peisaj de savană aridă cu arbuști spinoși.",
-        "Economia se bazează pe taxele de tranzit și comerțul cu capre.",
-        "Tiyeglow are o istorie de fortificații în perioada colonială.",
-        "Puțurile de apă de aici sunt esențiale pentru nomazii în tranzit.",
-        "Orașul este locuit de sub-clanuri ale grupului Rahanweyn.",
-        "Accesul la servicii este limitat de izolarea geografică.",
-        "Se află la o altitudine de aproximativ 410 metri."
-      ]
-    },
-    {
-      "id": "el-barde-cities-v2",
-      "descriptionAdvanced": "El Barde este un oraș de frontieră situat în nordul regiunii Bakool, chiar la granița cu Etiopia. Orașul este un centru comercial transfrontalier vital, prin care trec bunuri, animale și oameni între cele două țări. El Barde are o importanță strategică imensă pentru monitorizarea frontierei și pentru logistica umanitară, dispunând de un aeroport care leagă regiunea izolată de restul țării. Economia sa este alimentată de comerțul de tranzit și de piețele de animale care atrag pastori din ambele părți ale graniței. Geografia K8 — frontiere politice și fluxuri comerciale.",
-      "factsAdvanced": [
-        "Este situat direct pe linia de demarcație cu Etiopia.",
-        "Aeroportul El Barde este un hub pentru transportul de urgență.",
-        "Comerțul cu cereale din Etiopia trece prin acest oraș.",
-        "Populația este formată din comercianți și agro-pastori.",
-        "Orașul este situat într-o zonă de platou arid și stâncos.",
-        "El Barde servește ca punct vamal informal pentru regiune.",
-        "Resursele de apă sunt gestionate prin rezervoare și puțuri.",
-        "Este unul dintre cele mai nordice puncte ale statului South West."
-      ]
-    },
-    {
-      "id": "dolow-cities-v2",
-      "descriptionAdvanced": "Dolow este un oraș de frontieră fascinant situat la tripla intersecție dintre Somalia, Etiopia și Kenya, în regiunea Gedo. Orașul este amplasat pe malurile râului Juba, beneficiind de un flux constant de apă care susține o agricultură prosperă într-un peisaj altfel arid. Dolow este un centru major pentru comerțul regional și logistica internațională, găzduind numeroase organizații umanitare. Orașul este practic împărțit în două de graniță, existând un 'Dolow Ado' în Etiopia și un 'Dolow' în Somalia, ceea ce creează o dinamică transfrontalieră unică. Geografia K7 — puncte triple de frontieră și coridoare fluviale.",
-      "factsAdvanced": [
-        "Este situat la confluența râurilor Dawa și Juba.",
-        "Reprezintă un punct strategic la granița cu Etiopia și Kenya.",
-        "Podul de la Dolow este o legătură vitală pentru comerțul regional.",
-        "Orașul a devenit un centru logistic major pentru ONU.",
-        "Agricultura pe malul râului produce banane și legume.",
-        "Dolow are un aeroport internațional cu activitate intensă.",
-        "Este un model de integrare economică transfrontalieră.",
-        "Râul Juba începe oficial să poarte acest nume în apropiere de Dolow."
-      ]
-    },
-    {
-      "id": "mogadishu-port-economic-v2",
-      "descriptionAdvanced": "Portul Mogadishu, cunoscut și sub numele de Portul Internațional Mogadishu, este cea mai importantă poartă maritimă a Somaliei și motorul economiei naționale. Situat strategic pe Oceanul Indian, portul a fost modernizat semnificativ în ultimii ani, fiind administrat de compania turcă Albayrak. Acesta gestionează cea mai mare parte a importurilor de bunuri de larg consum, materiale de construcție și vehicule pentru țară, servind regiunea Banadir și hinterlandul său vast. Portul este, de asemenea, un punct cheie pentru exportul de produse agricole și animale. Infrastructura sa modernă și creșterea volumului de containere reflectă redresarea economică a capitalei somaleze. Földrajz K8 — infrastructură portuară și comerț global.",
-      "factsAdvanced": [
-        "Este cel mai mare și mai dotat port din Somalia.",
-        "Administrat sub un contract de concesiune de către grupul Albayrak.",
-        "Veniturile portuare reprezintă o parte majoră din bugetul național.",
-        "Capacitatea de procesare a containerelor a crescut cu 50% din 2014.",
-        "Portul a fost folosit de comercianți arabi încă din secolul al X-lea.",
-        "Dispune de terminale specializate pentru ciment și combustibil.",
-        "Este protejat de un dig masiv împotriva valurilor Oceanului Indian.",
-        "Siguranța portului este asigurată de standarde internaționale ISPS."
-      ]
-    },
-    {
-      "id": "berbera-port-economic-v2",
-      "descriptionAdvanced": "Portul Berbera este cel mai strategic activ economic din Somaliland, situat pe Golful Aden. Modernizat recent printr-o investiție uriașă de la DP World, portul a devenit un hub regional de clasă mondială, concurând cu porturile din Djibouti. Importanța sa este vitală nu doar pentru Somaliland, ci și pentru Etiopia, oferind un coridor comercial alternativ către mare pentru a doua cea mai populată țară din Africa. Portul Berbera este renumit pentru eficiența sa în exportul de animale vii și pentru noul său terminal de containere care poate primi nave de mare tonaj. Geografia K7 — coridoare logistice și investiții străine directe.",
-      "factsAdvanced": [
-        "Modernizat cu o investiție de peste 442 milioane USD de DP World.",
-        "Dispune de un terminal de containere cu o capacitate de 500.000 TEU.",
-        "Este poarta principală a 'Coridorului Berbera' către Etiopia.",
-        "Include o zonă economică liberă (Berbera Economic Zone).",
-        "Adâncimea danei permite acostarea celor mai mari nave cargo.",
-        "Peste 4 milioane de capete de animale sunt exportate anual aici.",
-        "Portul funcționează ca un hub de transbordare pentru Cornul Africii.",
-        "Berbera a fost istoric un port cheie pe rutele comerciale otomane."
-      ]
-    },
-    {
-      "id": "kismayo-port-economic-v2",
-      "descriptionAdvanced": "Portul Kismayo este al treilea port ca mărime din Somalia și un activ strategic esențial pentru statul Jubaland. Situat într-un golf natural protejat din sudul țării, portul a fost construit cu asistență internațională în anii 1960. Este renumit pentru exportul istoric de banane și pentru potențialul său în industria pescuitului. Portul Kismayo servește regiunile fertile ale văii râului Juba, fiind poarta de ieșire pentru produsele agricole către piețele internaționale. În prezent, se fac eforturi pentru reabilitarea infrastructurii sale pentru a stimula comerțul regional și a oferi o alternativă viabilă pentru importurile din sudul Somaliei. Földrajz K8 — porturi de export și resurse agricole.",
-      "factsAdvanced": [
-        "A fost construit inițial cu sprijinul Corpului de Geniu al Armatei SUA.",
-        "Dispune de dane de adâncime capabile să primească nave comerciale mari.",
-        "A fost centrul mondial al exportului de cărbune de lemn (în prezent interzis).",
-        "Portul este vital pentru aprovizionarea statului federal Jubaland.",
-        "Se află la o distanță strategică de granița cu Kenya.",
-        "Exportul de banane din anii '70-'80 a atins recorduri prin acest port.",
-        "Golful Kismayo oferă o protecție naturală excelentă împotriva furtunilor.",
-        "Este o resursă cheie pentru economia pescuitului industrial."
-      ]
-    },
-    {
-      "id": "bosaso-port-economic-v2",
-      "descriptionAdvanced": "Portul Bosaso este principala arteră economică a statului Puntland, situat pe coasta nordică a Somaliei, pe Golful Aden. Dezvoltat inițial în anii 1980, portul a cunoscut o expansiune continuă, fiind poarta principală pentru exportul de animale vii către Arabia Saudită și Emiratele Arabe Unite. Portul Bosaso gestionează, de asemenea, importurile de produse alimentare și materiale de construcție pentru întreaga regiune de nord-est. Administrarea sa a fost recent concesionată companiei P&O Ports (o subsidiară a DP World) pentru modernizare și adâncirea danelor, scopul fiind transformarea sa într-un centru logistic competitiv în Golful Aden. Geografia K7 — economii portuare și rutele din Golful Aden.",
-      "factsAdvanced": [
-        "Este principalul port de export pentru tămâie și mir din Somalia.",
-        "Administrat de P&O Ports sub o concesiune de 30 de ani.",
-        "Volumul de export de animale depășește 2 milioane de capete anual.",
-        "Portul a impulsionat transformarea Bosaso dintr-un sat într-o metropolă.",
-        "Este situat strategic pe una dintre cele mai circulate rute maritime din lume.",
-        "Proiectele actuale vizează extinderea cheiului cu peste 400 de metri.",
-        "Portul include facilități pentru depozitarea combustibililor.",
-        "Pescuitul comercial din Puntland își are baza principală aici."
-      ]
-    },
-    {
-      "id": "garacad-port-economic-v2",
-      "descriptionAdvanced": "Portul Garacad este primul port major din Somalia construit integral prin investiții private și contribuții ale comunității locale (Puntland). Situat pe coasta Oceanului Indian, acest port nou-nouț a fost inaugurat în 2022 și are potențialul de a transforma economia centrului Somaliei și a regiunii somaleze din Etiopia. Portul oferă o rută mai scurtă pentru bunurile destinate statelor Galmudug și Puntland, dar și pentru estul Etiopiei. Garacad este un exemplu remarcabil de reziliență și inițiativă locală, demonstrând puterea sectorului privat somalez în dezvoltarea infrastructurii naționale. Földrajz K8 — porturi private și dezvoltare regională.",
-      "factsAdvanced": [
-        "Inaugurat oficial în octombrie 2022, fiind un proiect de 350 milioane USD.",
-        "Finanțat integral de oameni de afaceri somalezi și diaspora.",
-        "Reduce distanța de transport către estul Etiopiei cu sute de kilometri.",
-        "Este situat în regiunea Mudug, pe o coastă anterior izolată.",
-        "Portul poate procesa nave de containere și mărfuri generale.",
-        "Include planuri pentru o zonă industrială și un drum modern spre Galkayo.",
-        "A revitalizat micul sat de pescari Garacad într-un oraș portuar.",
-        "Este considerat 'Portul Speranței' pentru regiunea centrală a Somaliei."
-      ]
-    },
-    {
-      "id": "hobyo-port-economic-v2",
-      "descriptionAdvanced": "Portul Hobyo este un proiect strategic de dezvoltare situat în regiunea Mudug, având scopul de a revitaliza un port istoric pentru a servi nevoile economice ale statului Galmudug. Deși a fost un centru comercial major în timpul sultanatelor medievale, infrastructura sa modernă este în curs de planificare și construcție cu sprijin internațional și investiții private. Dezvoltarea portului Hobyo este crucială pentru a oferi acces direct la mare pentru regiunile centrale ale Somaliei, reducând dependența de porturile Mogadishu sau Berbera. Odată finalizat, portul va stimula exporturile de animale și va facilita importul de bunuri esențiale pentru milioane de locuitori. Geografia K7 — porturi istorice și dezvoltare strategică.",
-      "factsAdvanced": [
-        "Proiectul vizează construcția unui port de adâncime modern.",
-        "Este susținut de guvernul statului Galmudug și investitori somalezi.",
-        "Hobyo a fost un port de export de succes în secolul al XIII-lea.",
-        "Drumul care leagă Hobyo de Galkayo este vital pentru succesul portului.",
-        "Locația oferă acces direct către regiunile arabile din centrul țării.",
-        "Portul va servi ca hub pentru industria pescuitului din Mudug.",
-        "Se preconizează că va atrage investiții în logistica de depozitare.",
-        "Hobyo este situat pe o coastă cu dune de nisip spectaculoase."
-      ]
-    },
-    {
-      "id": "eyl-port-economic-v2",
-      "descriptionAdvanced": "Portul Eyl, situat pe coasta Oceanului Indian în regiunea Nugaal, este un centru istoric de pescuit și un punct strategic pentru economia statului Puntland. Deși nu dispune de infrastructura masivă a porturilor moderne de containere, Eyl este esențial pentru industria pescuitului artizanal și comercial de mică scară. Portul este renumit pentru exportul de homari și diverse specii de pești valoroși către piețele internaționale. Guvernul din Puntland are planuri de a moderniza facilitățile de debarcare și procesare pentru a transforma Eyl într-un nod mai eficient pentru economia halieutică. Geografia K8 — pescuit artizanal și exporturi de fructe de mare.",
-      "factsAdvanced": [
-        "Este unul dintre cele mai bogate locuri de pescuit homari din lume.",
-        "Zona portuară este situată la baza unor faleze impresionante de calcar.",
-        "Eyl a servit istoric ca punct de aprovizionare pentru navele maritime.",
-        "Facilitățile de refrigerare sunt în curs de dezvoltare cu ajutor extern.",
-        "Pescarii folosesc bărci tradiționale 'dhow' adaptate pentru ocean.",
-        "Orașul are un potențial mare pentru ecoturism maritim.",
-        "Exporturile de pește de aici ajung în Dubai și alte piețe asiatice.",
-        "Portul este legat de Garowe prin valea Nugaal."
-      ]
-    },
-    {
-      "id": "baraawe-port-economic-v2",
-      "descriptionAdvanced": "Portul Baraawe este un port istoric situat pe coasta Banadir, servind în prezent ca o infrastructură cheie pentru statul South West din Somalia. Cunoscut pentru tradiția sa comercială multiseculară, portul a fost reabilitat recent pentru a primi nave comerciale mici și medii. Baraawe este vital pentru exportul de produse agricole și animale din regiunile Lower Shabelle și Bay. Poziția sa strategică între Mogadishu și Kismayo îl face un nod logistic important pentru rutele de coastă. Modernizarea portului Baraawe promite să revitalizeze economia locală și să readucă orașul la gloria sa de centru comercial al Oceanului Indian. Földrajz K7 — porturi istorice și rute comerciale de coastă.",
-      "factsAdvanced": [
-        "A fost unul dintre centrele medievale ale culturii Swahili.",
-        "Portul a fost folosit pentru exportul de țesături Brava faimoase.",
-        "Guvernul a finalizat construcția unui dig nou în anul 2020.",
-        "Este poarta maritimă pentru capitala regională Baidoa.",
-        "Baraawe are un fundal istoric de comerț cu Peninsula Arabică.",
-        "Pescuitul local este o componentă majoră a economiei portuare.",
-        "Arhitectura orașului portuar include elemente de fortificație.",
-        "Drumul de coastă spre Mogadishu este în curs de modernizare."
-      ]
-    },
-    {
-      "id": "somaliland-beverage-economic-v2",
-      "descriptionAdvanced": "Somaliland Beverage Industries (SBI) este una dintre cele mai mari și mai de succes întreprinderi industriale din Somaliland, fiind îmbuteliatorul oficial al produselor Coca-Cola în regiune. Fabrica, situată la periferia orașului Hargeisa, reprezintă un simbol al investițiilor masive realizate de sectorul privat și diaspora somaleză. Inaugurată în 2012 cu o investiție de peste 15 milioane USD, SBI folosește tehnologie de ultimă oră și respectă standarde internaționale de calitate. Această unitate de producție nu doar că asigură băuturi răcoritoare pentru piața locală, dar oferă și sute de locuri de muncă, contribuind semnificativ la dezvoltarea industrială a regiunii. Geografia K8 — dezvoltare industrială și investiții de capital.",
-      "factsAdvanced": [
-        "A fost prima fabrică Coca-Cola deschisă în Somalia după 1991.",
-        "Inaugurată în mai 2012 cu o investiție inițială de 15 mil. USD.",
-        "Fabrica utilizează un sistem avansat de purificare a apei prin osmoză.",
-        "Este situată la Jalelo, la aproximativ 30 km de Hargeisa.",
-        "Capacitatea de producție depășește zeci de mii de sticle pe oră.",
-        "A primit premii internaționale pentru standardele sale de igienă.",
-        "Proiectul a fost finanțat de familia Guelleh din Djibouti.",
-        "SBI susține numeroase inițiative sociale și educaționale locale."
-      ]
-    },
-    {
-      "id": "berbera-cement-economic-v2",
-      "descriptionAdvanced": "Fabrica de Ciment din Berbera este un obiectiv industrial major situat în apropierea portului Berbera, fiind esențială pentru industria construcțiilor din Somaliland și Somalia. Construită inițial cu asistență din Coreea de Nord în anii 1980, fabrica a fost recent subiectul unor proiecte de reabilitare masivă cu investiții străine. Aceasta utilizează depozitele locale bogate de calcar și ghips din munții regiunii Sahil pentru a produce ciment de înaltă calitate. Funcționarea fabricii reduce dependența de importurile scumpe și sprijină boom-ul imobiliar și de infrastructură din regiune, fiind un pilon al strategiei de industrializare locală. Földrajz K7 — resurse minerale și materiale de construcție.",
-      "factsAdvanced": [
-        "Este singura fabrică de ciment de mari dimensiuni din nordul Somaliei.",
-        "Locația a fost aleasă datorită rezervelor uriașe de calcar.",
-        "A fost un proiect industrial de mândrie națională în anii '80.",
-        "Reabilitarea actuală vizează o capacitate de 1 milion tone/an.",
-        "Energia este furnizată parțial de o centrală solară proprie.",
-        "Fabrica este situată strategic lângă port pentru export/import.",
-        "Cimentul produs aici este folosit pentru extinderea portului Berbera.",
-        "Creează mii de locuri de muncă directe și indirecte în regiune."
-      ]
-    },
-    {
-      "id": "las-khorey-tuna-economic-v2",
-      "descriptionAdvanced": "Fabrica de Conserve de Ton din Las Khorey este un simbol al industriei alimentare din Somalia, situată în orașul de coastă din regiunea Sanaag. Înființată în 1970, fabrica a fost renumită pentru tonul său de calitate superioară, procesat direct din apele bogate ale Oceanului Indian. După ani de inactivitate din cauza războiului, unitatea a fost reabilitată parțial de investitori locali, demonstrând potențialul Somaliei de a procesa și exporta resursele sale marine. Fabrica joacă un rol vital în economia locală, oferind locuri de muncă pescarilor și femeilor din oraș și contribuind la securitatea alimentară regională prin produse conservate durabile. Geografia K8 — procesarea peștelui și resurse oceanice.",
-      "factsAdvanced": [
-        "A fost construită cu sprijin sovietic în anul 1970.",
-        "Tonul conservat la Las Khorey era faimos în tot blocul estic.",
-        "Apele din zonă sunt printre cele mai bogate în ton din lume.",
-        "Reabilitarea recentă a fost finanțată de comunitatea locală.",
-        "Fabrica are propria sa unitate de fabricare a cutiilor metalice.",
-        "Produsele sunt vândute sub brandul 'Las Khorey Tuna'.",
-        "Este motorul economic principal al regiunii de coastă Sanaag.",
-        "Capacitatea de procesare a fost restaurată la câteva tone pe zi."
-      ]
-    },
-    {
-      "id": "hafun-salt-economic-v2",
-      "descriptionAdvanced": "Salinele de la Hafun, situate pe peninsula Ras Hafun din nord-estul Somaliei, reprezintă una dintre cele mai mari și mai vechi exploatări de sare din Africa. În perioada colonială italiană, Hafun găzduia cea mai mare fabrică de sare din lume, exportând cantități uriașe de sare industrială către Asia și Europa. Deși infrastructura masivă de transport prin cablu a fost distrusă în timpul celui de-al Doilea Război Mondial, potențialul natural de producție de sare prin evaporare solară rămâne imens. Peninsula Hafun oferă condiții climatice ideale — vânturi constante și radiație solară puternică — pentru obținerea unei sări de o puritate excepțională. Földrajz K7 — resurse de sare și istorie industrială colonială.",
-      "factsAdvanced": [
-        "Hafun a fost sediul celei mai mari companii de sare din anii '30.",
-        "Producția anuală depășea 200.000 de tone în perioada de vârf.",
-        "Infrastructura includea un funicular lung de 27 de kilometri.",
-        "Sarea este extrasă prin evaporarea apei de mare în lagune.",
-        "Sarea de Hafun este renumită pentru conținutul ridicat de magneziu.",
-        "Peninsula Ras Hafun este cel mai estic punct al Africii continentale.",
-        "Tsunami-ul din 2004 a afectat grav salinele și orașul.",
-        "Există planuri de revitalizare a exporturilor de sare la scară mare."
-      ]
-    },
-    {
-      "id": "juba-sugar-economic-v2",
-      "descriptionAdvanced": "Complexul de Zahăr Juba (Juba Sugar Project) situat în apropierea orașului Jilib, în regiunea Middle Juba, a fost odată cel mai mare proiect agricol-industrial din Somalia. Inaugurat în anii 1980, complexul cuprindea mii de hectare de plantații de trestie de zahăr irigate direct din râul Juba și o fabrică modernă de procesare. Acest proiect a vizat independența Somaliei în ceea ce privește consumul de zahăr și a creat un ecosistem economic vibrant în sudul țării. Deși a suferit distrugeri masive în timpul războiului, rămâne un simbol al potențialului agricol uriaș al văii Juba și un obiectiv prioritar pentru reconstrucția economică națională. Geografia K8 — agro-industrie și managementul fluviilor.",
-      "factsAdvanced": [
-        "A fost construit cu finanțare din Emiratele Arabe Unite și Arabia Saudită.",
-        "Plantațiile ocupau peste 13.000 de hectare de teren fertil.",
-        "Fabrica avea o capacitate de producție de 70.000 tone de zahăr pe an.",
-        "Folosea un sistem de irigații prin pompare de mare capacitate.",
-        "A generat apariția unor noi sate și infrastructuri rurale în zonă.",
-        "Trestia de zahăr de aici beneficiază de clima tropical umedă.",
-        "Reconstituirea proiectului este estimată la sute de milioane USD.",
-        "Valea Juba este considerată zona cu cel mai mare potențial arabil."
-      ]
-    },
-    {
-      "id": "habo-tuna-economic-v2",
-      "descriptionAdvanced": "Fabrica de Conserve Habo, situată în regiunea Bari din Puntland, este una dintre puținele unități industriale de succes din nordul Somaliei, specializată în procesarea peștelui. Localizată într-un golf natural, fabrica procesează ton, rechin și alte specii marine capturate de pescarii locali. Habo a reușit să supraviețuiască și să se modernizeze prin investiții private, oferind un brand de ton conservat apreciat în toată Somalia și în diaspora. Unitatea de producție contribuie la stabilizarea economiei de coastă și oferă o alternativă sustenabilă la piraterie prin crearea de locuri de muncă legale și profitabile. Földrajz K7 — resurse marine și antreprenoriat de coastă.",
-      "factsAdvanced": [
-        "Este situată pe coasta Golfului Aden, într-o zonă muntoasă izolată.",
-        "Produsele sunt exportate sub marca 'Habo Tuna'.",
-        "Fabrica include facilități de refrigerare și ambalare modernă.",
-        "A contribuit la reducerea șomajului în districtul Alula.",
-        "Pescarii sunt echipați cu bărci moderne prin contracte cu fabrica.",
-        "Tonul galben și tonul 'skipjack' sunt principalele specii procesate.",
-        "Utilizează sare locală pentru conservarea produselor.",
-        "Este un exemplu de succes al sectorului privat din statul Puntland."
-      ]
-    },
-    {
-      "id": "qandala-fish-economic-v2",
-      "descriptionAdvanced": "Industria pescuitului din Qandala este coloana vertebrală a economiei acestui oraș istoric din Puntland, profitând de apele extrem de adânci și bogate ale Golfului Aden. Qandala este renumită pentru capturile masive de pește și fructe de mare, care sunt procesate tradițional prin uscare sau congelate pentru export. Orașul servește ca un punct de colectare pentru produsele marine din toată zona muntoasă de coastă, fiind un nod vital în lanțul de aprovizionare cu proteine al regiunii Bari. Investițiile recente în bărci motorizate și facilități de depozitare la rece promit să transforme Qandala într-un centru modern al economiei albastre din Somalia. Geografia K8 — economie albastră și resurse halieutice.",
-      "factsAdvanced": [
-        "Qandala este celebră pentru captura de rechini și aripioare de rechin.",
-        "Apele de coastă sunt influențate de curentul de upwelling Upwelling.",
-        "Pescuitul de adâncime este facilitat de relieful submarin abrupt.",
-        "Orașul exportă pește uscat către piețele din interiorul Somaliei.",
-        "Femeile din Qandala sunt implicate activ în procesarea peștelui.",
-        "Resursele includ diversitate mare de ton și macrou.",
-        "Dezvoltarea este limitată de accesul rutier dificil prin munți.",
-        "Se fac demersuri pentru certificarea sustenabilității pescuitului local."
-      ]
-    },
-    {
-      "id": "bosaso-tannery-economic-v2",
-      "descriptionAdvanced": "Tăbăcăria din Bosaso este una dintre cele mai importante unități de procesare a pieilor din Somalia, valorificând imensul sector al creșterii animalelor din statul Puntland. Fabrica prelucrează piei de oaie, capră și cămilă, pregătindu-le pentru export către piețele internaționale din Europa și Asia. Prin transformarea materiilor prime în produse semi-finisate, tăbăcăria adaugă valoare exporturilor somaleze și creează oportunități de angajare. Această industrie este strâns legată de fluxul de animale care trece prin portul Bosaso, reprezentând un exemplu de integrare a lanțului de valoare agricol în industria ușoară. Földrajz K7 — procesarea pieilor și lanțuri de valoare animale.",
-      "factsAdvanced": [
-        "Procesează anual sute de mii de piei pentru export.",
-        "Pieile de capră din Somalia sunt considerate printre cele mai fine din lume.",
-        "Utilizează tehnici de tăbăcire vegetală și chimică.",
-        "Produsele ajung în fabrici de încălțăminte din Italia și China.",
-        "Tăbăcăria este situată strategic în zona industrială a portului Bosaso.",
-        "A fost modernizată cu sprijinul investitorilor din diaspora.",
-        "Economia Puntlandului depinde masiv de valoarea adăugată acestor piei.",
-        "Respectă standarde tot mai stricte de management al mediului."
+        "Relief dinamic, plat, la estuar, cu depuneri de sedimente.",
+        "Străbătut de o rețea complexă de brațe fluviale.",
+        "Soluri aluviale extrem de bogate în nutrienți.",
+        "Condiții topografice ideale pentru cultivarea orezului.",
+        "Interacțiune constantă între fluxul râului și maree.",
+        "Peisagistic foarte dinamic și într-o schimbare continuă.",
+        "Centru economic important datorită solurilor fertile."
       ]
     }
   ]

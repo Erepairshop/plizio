@@ -1,0 +1,139 @@
+{
+  "lang": "en",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "marondera-cities-v2",
+      "descriptionAdvanced": "Marondera, the capital of Mashonaland East province, is a vital strategic urban center located on the main trade route between Harare and Mutare. The city is renowned for its academic contributions, hosting significant professional training institutions, and its robust commercial sector that supports the surrounding rural communities. As a pillar of economic development in the Zimbabwe plateau, Marondera provides essential services and maintains a strong focus on enhancing regional agricultural productivity, serving as a critical commercial hub in the eastern landscape.",
+      "factsAdvanced": [
+        "Administrative capital of Mashonaland East province.",
+        "Strategically located between Harare and Mutare.",
+        "Major educational hub for regional professional training.",
+        "Crucial economic support for the regional agricultural sector.",
+        "Essential commercial center for rural communities.",
+        "Significant commercial infrastructure growth.",
+        "Well-positioned in the highveld plateau region."
+      ]
+    },
+    {
+      "id": "ruwa-cities-v2",
+      "descriptionAdvanced": "Ruwa is a remarkable example of a rapidly expanding suburban area situated immediately east of the capital, Harare. Once primarily agricultural, the town has evolved into a prosperous residential center for commuters, benefiting from modern infrastructure and its close proximity to the capital city. Ruwa attracts numerous young families and small enterprises, offering essential services in a landscape characterized by balanced residential development, dynamic economic activity, and an efficient integration into the greater Harare metropolitan area.",
+      "factsAdvanced": [
+        "Rapidly growing suburban area of Harare.",
+        "Attractive residential center for capital city commuters.",
+        "Continually modernized urban infrastructure.",
+        "Hosts a growing number of services and small businesses.",
+        "Strategic position immediately east of Harare.",
+        "Popular destination for young families and small investments.",
+        "Successful transition from rural to urban environment."
+      ]
+    },
+    {
+      "id": "chegutu-cities-v2",
+      "descriptionAdvanced": "Chegutu, situated in the Mashonaland West province, serves as a vital agricultural processing center and a logistic hub for small-scale industrial enterprises. Its history is deeply intertwined with the development of commercial farming in the surrounding areas, which continue to drive the local economy today. The city's favorable geographical location on primary transport arteries facilitates efficient trade and logistical operations, establishing Chegutu as an essential link in the circulation of basic agricultural and industrial goods within central Zimbabwe.",
+      "factsAdvanced": [
+        "Regional commercial hub in Mashonaland West.",
+        "History defined by commercial farm development.",
+        "Center for small-scale industrial processing units.",
+        "Strategically positioned with strong transport links.",
+        "Historically known under the name Hartley.",
+        "Economy closely linked to commercial agriculture.",
+        "Essential link in the national agricultural trade chain."
+      ]
+    },
+    {
+      "id": "zvishavane-cities-v2",
+      "descriptionAdvanced": "Zvishavane is a distinct mining town in the Midlands province, recognized for its asbestos and platinum extraction operations, which have historically dictated its industrial and urban profile. The city also hosts a campus of the Midlands State University, providing vital educational opportunities and diversifying its identity beyond traditional mining. This synergy between large-scale mining enterprises and academic development makes Zvishavane a particularly important economic center within the Midlands region, contributing significantly to the local economy and professional development.",
+      "factsAdvanced": [
+        "Major center for asbestos and platinum extraction.",
+        "Industrial profile defined by large-scale mining companies.",
+        "Hosts a campus of the Midlands State University.",
+        "Critical economic nucleus in the Midlands province.",
+        "Accelerated development in the 20th century as a mining settlement.",
+        "Significant regional educational and economic hub.",
+        "Diversified economic base through tertiary education."
+      ]
+    },
+    {
+      "id": "bindura-cities-v2",
+      "descriptionAdvanced": "Bindura, the administrative capital of Mashonaland Central, holds deep historical roots in the gold mining industry. Today, the city has consolidated its role as a regional benchmark for education and a service provider for the surrounding diverse agricultural sectors. The landscape around Bindura features a blend of fertile farmlands and varied topography, which has supported the city's economic growth and community stability, making it an essential hub for development in the northern part of Zimbabwe.",
+      "factsAdvanced": [
+        "Administrative center of Mashonaland Central province.",
+        "Rich historical ties to gold mining industry.",
+        "Major regional educational hub.",
+        "Service provider for local agriculture.",
+        "Surrounded by highly fertile farmlands.",
+        "Steady growth as a provincial administration center.",
+        "Economic engine in the northern part of the country."
+      ]
+    },
+    {
+      "id": "beitbridge-cities-v2",
+      "descriptionAdvanced": "Beitbridge is Zimbabwe’s southernmost city, strategically positioned on the banks of the Limpopo River, directly bordering South Africa. It serves as the country’s most important border crossing, playing a decisive logistic role in regional trade, freight transit, and cross-border mobility. The atmosphere in Beitbridge is constantly defined by the dynamism of the intense economic exchanges between the two nations, transforming the locality into an essential commercial node and an indispensable transit point for Southern Africa.",
+      "factsAdvanced": [
+        "Southernmost city in Zimbabwe.",
+        "Situated directly on the banks of the Limpopo River.",
+        "Most important border point to South Africa.",
+        "Critical logistic node for cross-border trade.",
+        "Essential transit point for freight and people.",
+        "Economy defined by the dynamism of international trade.",
+        "Main link with the country's largest trading partner."
+      ]
+    },
+    {
+      "id": "redcliff-cities-v2",
+      "descriptionAdvanced": "Redcliff, situated near Kwekwe in the Midlands province, originated and developed as a settlement dedicated to workers of the local steel works, maintaining a strong industrial identity. While the steel industry has experienced significant fluctuations over the decades, Redcliff remains an important landmark for metal processing and retains an urban structure specifically planned to support metallurgical activities, thereby remaining a focal point in the industrial landscape of the Midlands province.",
+      "factsAdvanced": [
+        "Historically developed for steel mill workers.",
+        "Indissoluble link with the nation's steel production.",
+        "Economic and historical profile is predominantly industrial.",
+        "Center for specialized metal processing activities.",
+        "Geographically located in the immediate vicinity of Kwekwe.",
+        "Urban structure planned for industrial needs.",
+        "Essential component of the Midlands industrial landscape."
+      ]
+    },
+    {
+      "id": "victoria-falls-cities-v2",
+      "descriptionAdvanced": "Victoria Falls is the world-class tourist center of Zimbabwe, situated in the immediate proximity of the spectacular namesake waterfalls on the Zambezi River. The city boasts an advanced infrastructure designed to cater to constant streams of international visitors, offering a complex experience ranging from luxury accommodation to nature adventure activities. Beyond the UNESCO World Heritage fame of the natural attraction, Victoria Falls acts as a major regional economic engine, supported by a thriving hospitality industry and the exploration of the unique ecosystems of the surrounding national park.",
+      "factsAdvanced": [
+        "Global tourist center of high importance.",
+        "Situated near Victoria Falls on the Zambezi River.",
+        "High-level tourist infrastructure for international visitors.",
+        "Starting point for regional national parks.",
+        "Region included in UNESCO World Heritage list.",
+        "Economic hub based on tourism and hospitality.",
+        "Primary destination for adventure and natural exploration."
+      ]
+    },
+    {
+      "id": "hwange-cities-v2",
+      "descriptionAdvanced": "Hwange is an industrial center recognized for its coal extraction industry while also serving as the primary gateway to the largest national park in Zimbabwe, which bears the same name. This duality makes the city a fascinating focal point, blending intense mining activity with its role as a guardian of natural biodiversity. Hwange plays a dual role: as a provider of energy resources for the country and as a logistic node for large-scale ecological tourism in the Matabeleland North province.",
+      "factsAdvanced": [
+        "Main center of Zimbabwe's coal industry.",
+        "Gateway to Hwange National Park.",
+        "Industrial pillar for the national energy sector.",
+        "Region of major importance for biodiversity conservation.",
+        "Located in Matabeleland North province.",
+        "Synergy between mining and natural tourism.",
+        "Essential logistic hub for large-scale ecotourism."
+      ]
+    },
+    {
+      "id": "rusape-cities-v2",
+      "descriptionAdvanced": "Rusape, located in the Eastern Highlands, fulfills the function of a commercial and service center indispensable for the fertile agricultural region that surrounds it. The town is valued for its support to local farms, particularly regarding tobacco processing and cereal production. Its strategic geographical position on the Harare-Mutare trade route facilitates the exchange of goods and access to essential services for the Manicaland community, making Rusape a nodal point for rural economy in eastern Zimbabwe.",
+      "factsAdvanced": [
+        "Important commercial center in the Eastern Highlands.",
+        "Essential service provider for regional agriculture.",
+        "Reference point for tobacco and cereal production.",
+        "Strategic position on the Harare-Mutare trade route.",
+        "Vital service center for the Manicaland province.",
+        "Dynamic interface between agriculture and commercial sectors.",
+        "Contributes to economic stability in the eastern region."
+      ]
+    }
+  ]
+}

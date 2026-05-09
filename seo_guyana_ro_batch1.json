@@ -1,0 +1,60 @@
+{
+  "lang": "ro",
+  "country": "guyana",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-kopinang-relief-v2",
+      "descriptionAdvanced": "Situat în inima regiunii Potaro-Siparuni, Muntele Kopinang este o mărturie geologică a Scutului Guyanez, o formațiune ce datează de acum aproximativ două miliarde de ani. Pantele sale abrupte sunt acoperite de o pădure tropicală virgină, o zonă de un interes biologic excepțional, unde ecosistemele montane au evoluat izolat. Acest teren accidentat și greu accesibil a permis conservarea unei flore și faune endemice rare, făcând din acest loc un refugiu vital pentru biodiversitatea guyaneză. Din perspectiva curiculei Plizio, acest obiectiv este esențial pentru înțelegerea geografiei K7, ilustrând perfect formarea lanțurilor montane antice și importanța menținerii unor habitate neatinse în ecosistemele tropicale.",
+      "factsAdvanced": [
+        "Face parte din Scutul Guyanez, cu o vechime de aproximativ 2 miliarde de ani.",
+        "Situat în regiunea administrativă Potaro-Siparuni.",
+        "Acoperit de păduri tropicale primare neatinse.",
+        "Habitat critic pentru specii de floră și faună montană endemică.",
+        "Terestru predominant precambrian.",
+        "Zonă cu un grad ridicat de protecție datorită accesibilității dificile."
+      ]
+    },
+    {
+      "id": "mount-wating-relief-v2",
+      "descriptionAdvanced": "Muntele Wating domină peisajul regiunii Upper Takutu-Upper Essequibo din sudul Guyanei, remarcându-se printr-un relief stâncos și arid, complet diferit de zonele forestiere nordice. Izolarea sa geografică, departe de așezările urbane, a favorizat adaptarea unor specii vegetale rare la condițiile extreme de pe stâncile expuse eroziunii. Acest munte reprezintă un punct de reper geologic crucial în cadrul savanelor sudice, servind drept centru de biodiversitate pentru organismele adaptate la microclimatele stâncoase. Studiul acestui relief este fundamental pentru Geografia K7, oferind elevilor ocazia de a analiza modul în care compoziția rocilor și izolarea influențează formarea biodiversității.",
+      "factsAdvanced": [
+        "Situat în regiunea administrativă Upper Takutu-Upper Essequibo.",
+        "Caracterizat prin aflorimente stâncoase spectaculoase și zord.",
+        "Izolare geografică semnificativă față de centrele urbane.",
+        "Găzduiește specii de plante adaptate condițiilor stâncoase extreme.",
+        "Constituie o unitate geologică fundamentală a sudului guyanez.",
+        "Rol esențial în cercetarea botanică regională.",
+        "Punct de reper major pentru orientarea în sălbăticie."
+      ]
+    },
+    {
+      "id": "mount-makarapan-relief-v2",
+      "descriptionAdvanced": "Muntele Makarapan se ridică ca o insulă verde deasupra întinderilor plate ale savanelor Rupununi, servind drept un reper vizual și cultural de neînlocuit pentru comunitățile indigene. Această masivitate izolată oferă un contrast dramatic între vegetația luxuriantă a pădurii de munte și iarba scurtă a savanei adiacente, creând o zonă de tranziție ecologică vitală pentru fauna locală. În perioadele de secetă, masivul devine un refugiu sigur pentru animalele savanei. În contextul curriculumului Plizio, Makarapan exemplifică importanța reperelor geografice în orientare (Geografie K5) și rolul munților izolați ca centre de biodiversitate.",
+      "factsAdvanced": [
+        "Situat strategic în centrul savanelor Rupununi.",
+        "Masiv izolat cu versanți abrupți.",
+        "Refugiu natural vital pentru fauna sălbatică în timpul secetei.",
+        "Element central în legendele tradiționale ale poporului Makushi.",
+        "Oferă o panoramă extinsă asupra întregului ecosistem al savanei.",
+        "Zonă de tranziție între pădurea tropicală montană și savană.",
+        "Studiu de caz important pentru înțelegerea geologiei Scutului Guyanez."
+      ]
+    },
+    {
+      "id": "mount-holitipu-relief-v2",
+      "descriptionAdvanced": "Muntele Holitipu reprezintă una dintre zonele cele mai sălbatice și mai puțin explorate din regiunea Mazaruni, o dovadă a naturii neîmblânzite a Guyanei centrale. Caracterizat prin chei adânci și pereți stâncoși verticali, acest munte captează precipitațiile abundente, alimentând un ecosistem forestier dens și vital pentru echilibrul hidrologic al regiunii. Izolarea extremă și accesul dificil au transformat acest masiv într-un bastion al naturii primare, protejând probabil specii încă necunoscute științei. Din punct de vedere educațional, Holitipu ilustrează complexitatea ecosistemelor tropicale și impactul precipitațiilor asupra formării reliefului (Geografie K7).",
+      "factsAdvanced": [
+        "Situat în regiunea centrală și izolată Mazaruni.",
+        "Zonă marcată de un nivel extrem de ridicat al precipitațiilor anuale.",
+        "Structură geologică definită de chei adânci și pereți verticali.",
+        "Unul dintre cele mai puțin explorate terenuri din Guyana.",
+        "Rol ecologic major în hidrologia regională.",
+        "Exemplu reprezentativ de ecosistem tropical neatins.",
+        "Formațiune geologică strâns legată de evoluția Scutului Guyanez."
+      ]
+    }
+  ]
+}

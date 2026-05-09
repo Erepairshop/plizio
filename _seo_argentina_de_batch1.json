@@ -1,0 +1,269 @@
+{
+  "lang": "de",
+  "country": "argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-aconcagua-nature-v2",
+      "descriptionAdvanced": "Der Aconcagua in der Provinz Mendoza ist mit einer beachtlichen Höhe von 6.961 Metern der höchste Gipfel der westlichen und südlichen Hemisphäre. Er gehört zu den berühmten 'Seven Summits' und zieht Bergsteiger aus der ganzen Welt an, da er technisch gesehen keine extreme Kletterausrüstung erfordert, aber dennoch enorme physische Ausdauer und Akklimatisierung verlangt. Der Berg liegt im Aconcagua-Provinzpark, einem Schutzgebiet, das eine karge, aber beeindruckende Hochgebirgslandschaft bewahrt. Die Besteigung erfolgt meist über die 'Normalroute', während die Südwand als eine der schwierigsten Kletterherausforderungen der Anden gilt. Die Region ist von Gletschern wie dem Polengletscher geprägt, die trotz der trockenen Luft wichtige Wasserreserven darstellen.",
+      "factsAdvanced": [
+        "Höchster Berg außerhalb Asiens mit 6.961 Metern",
+        "Erste bestätigte Besteigung durch Matthias Zurbriggen im Jahr 1897",
+        "Liegt vollständig auf argentinischem Staatsgebiet in den Anden",
+        "Der Aconcagua-Provinzpark umfasst rund 71.000 Hektar",
+        "Besitzt mehrere große Gletscher, darunter den Horcones Superior",
+        "Die Luftdruckverhältnisse am Gipfel entsprechen nur etwa 40% des Meeresspiegels",
+        "Wichtiges Ziel für die Vorbereitung auf 8.000er-Expeditionen"
+      ]
+    },
+    {
+      "id": "ar-cerro-fitz-roy-nature-v2",
+      "descriptionAdvanced": "Der Cerro Fitz Roy, auch bekannt unter seinem ursprünglichen Namen El Chaltén, ist ein ikonischer Granitberg im Nationalpark Los Glaciares in Patagonien. Mit seiner markanten Silhouette aus steilen Wänden und scharfen Zinnen gilt er unter Alpinisten als einer der technisch anspruchsvollsten Berge der Welt. Trotz seiner vergleichsweise geringen Höhe von 3.405 Metern machen das extrem wechselhafte Wetter und die massiven Granitwände jede Expedition zu einem riskanten Unterfangen. Die Region um den Berg ist ein Paradies für Trekking-Begeisterte, mit Wegen, die zu atemberaubenden Aussichtspunkten wie der Laguna de los Tres führen. Der Berg dient heute als Symbol für die ungezähmte Wildnis Patagoniens und ist auf vielen Outdoormarken und Logos verewigt.",
+      "factsAdvanced": [
+        "Höhe von 3.405 Metern über dem Meeresspiegel",
+        "Erstbesteigung durch Lionel Terray und Guido Magnone im Jahr 1952",
+        "Der Name El Chaltén bedeutet in der Sprache der Aonikenk 'Rauchender Berg'",
+        "Besteht fast vollständig aus extrem hartem, poliertem Granit",
+        "Liegt an der Grenze zwischen Argentinien und Chile, im südpatagonischen Eisfeld",
+        "Gilt als einer der schwierigsten Kletterberge der Erde",
+        "Der Fitz Roy ist das Wahrzeichen der Provinz Santa Cruz"
+      ]
+    },
+    {
+      "id": "ar-cerro-torre-nature-v2",
+      "descriptionAdvanced": "Der Cerro Torre gilt als einer der spektakulärsten und umstrittensten Gipfel der Weltgeschichte des Bergsteigens. Diese markante Felsnadel im südlichen Patagonien zeichnet sich durch ihre extrem steilen Granitwände und den berüchtigten 'Eispilz' am Gipfel aus, der durch konstante Winde und gefrierenden Nebel entsteht. Mit 3.128 Metern ist er zwar niedriger als seine Nachbarn, aber seine vertikalen Wände bieten kaum Halt. Die Erstbesteigung durch Cesare Maestri im Jahr 1959 bleibt bis heute Gegenstand intensiver Debatten in der Alpinwelt. Bergsteiger müssen hier nicht nur technisches Können auf höchstem Niveau beweisen, sondern auch den berüchtigten Stürmen des patagonischen Inlandeises trotzen, die oft wochenlang jegliches Fortkommen verhindern.",
+      "factsAdvanced": [
+        "Höhe von 3.128 Metern in den patagonischen Anden",
+        "Berühmt für die kontroverse 'Kompressor-Route' von 1970",
+        "Die erste zweifelsfreie Besteigung erfolgte erst im Jahr 1974",
+        "Charakteristischer Eispilz am Gipfel kann mehrere Meter dick sein",
+        "Gehört zur Gebirgskette des Nationalparks Los Glaciares",
+        "Winde erreichen hier regelmäßig Geschwindigkeiten von über 150 km/h",
+        "Die Granitwände sind fast durchgehend vertikal oder überhängend"
+      ]
+    },
+    {
+      "id": "ar-volcan-lanin-nature-v2",
+      "descriptionAdvanced": "Der Volcán Lanín ist ein majestätischer, schneebedeckter Schichtvulkan, der die Landschaft der Provinz Neuquén dominiert und die Grenze zwischen Argentinien und Chile markiert. Seine fast perfekte Kegelform erinnert an den Berg Fuji in Japan und macht ihn zu einem der meistfotografierten Naturdenkmäler der nördlichen Patagonien-Region. Der Vulkan ist Teil des Lanín-Nationalparks, der zum Schutz der einzigartigen Araukarienwälder (Pehuén) gegründet wurde. Für das Volk der Mapuche besitzt der Berg eine tiefe spirituelle Bedeutung und wird als heilig verehrt. Eine Besteigung des 3.747 Meter hohen Gipfels ist technisch moderat, erfordert aber aufgrund des Eises und der Höhe eine gute Ausrüstung und Genehmigungen der Parkbehörde.",
+      "factsAdvanced": [
+        "Höhe von 3.747 Metern über dem Meeresspiegel",
+        "Ein erloschener oder ruhender Stratovulkan in den Anden",
+        "Der Name Lanín bedeutet 'erstickt' oder 'toter Berg'",
+        "Umgeben von jahrtausendealten Araukarienwäldern",
+        "Die Erstbesteigung gelang im Jahr 1897 durch Rudolf Hauthal",
+        "Sichtbar aus einer Entfernung von über 100 Kilometern",
+        "Zentrales Element im Wappen der Provinz Neuquén"
+      ]
+    },
+    {
+      "id": "ar-cerro-tronador-nature-v2",
+      "descriptionAdvanced": "Der Cerro Tronador ist ein imposanter, erloschener Vulkan in den südlichen Anden, der die Grenze zwischen Argentinien und Chile in der Nähe von Bariloche bildet. Seinen Namen 'Der Donnerer' verdankt er den massiven Eisabbrüchen seiner sieben großen Gletscher, die beim Herabstürzen weithin hörbare Grollgeräusche verursachen. Der Berg verfügt über drei markante Gipfel: den argentinischen, den chilenischen und den internationalen Hauptgipfel, der mit 3.491 Metern der höchste Punkt ist. Die Region um den Tronador ist für ihre tiefblauen Seen, Wasserfälle wie den 'Saltillo de las Nalcas' und den berühmten 'Schwarzen Gletscher' (Ventisquero Negro) bekannt, der durch Schlamm und Gestein eine ungewöhnliche dunkle Färbung aufweist.",
+      "factsAdvanced": [
+        "Höchster Punkt mit 3.491 Metern (Pico Internacional)",
+        "Besitzt sieben benannte Gletscher auf beiden Seiten der Grenze",
+        "Liegt im Nationalpark Nahuel Huapi, dem ältesten Argentiniens",
+        "Der Ventisquero Negro ist ein seltener schwarzer Gletscher am Fuße",
+        "Besteht aus geologisch altem Basalt- und Andesitgestein",
+        "Wichtiger Forschungsstandort für die Glaziologie in Südamerika",
+        "Die Erstbesteigung des Hauptgipfels gelang Hermann Claussen 1934"
+      ]
+    },
+    {
+      "id": "ar-monte-pissis-nature-v2",
+      "descriptionAdvanced": "Der Monte Pissis ist ein gewaltiger, erloschener Vulkan-Komplex in der trockenen Hochwüste der Provinz La Rioja. Er gilt als der dritthöchste Berg der westlichen Hemisphäre und als einer der höchsten Vulkane der Erde. Aufgrund seiner isolierten Lage in der Puna de Atacama wurde seine genaue Höhe lange Zeit unterschätzt und erst durch moderne GPS-Messungen präzisiert. Die Umgebung des Monte Pissis ist extrem lebensfeindlich, geprägt von starken Winden, extremer Trockenheit und weiten Salzpfannen. Dennoch beherbergen die Lagunen am Fuße des Berges, wie die Laguna Brava, Populationen von Flamingos. Für Bergsteiger stellt der Pissis eine logistische Herausforderung dar, da der Zugang nur mit Allradfahrzeugen über unwegsame Hochplateaus möglich ist.",
+      "factsAdvanced": [
+        "Höhe von 6.793 Metern nach neueren Messungen",
+        "Dritthöchster Gipfel Amerikas nach Aconcagua und Ojos del Salado",
+        "Benannt nach dem französischen Geographen Pedro José Amadeo Pissis",
+        "Ein massiver vulkanischer Komplex mit sechs Gipfeln",
+        "Die Erstbesteigung erfolgte 1937 durch eine polnische Expedition",
+        "Liegt in einer der trockensten Regionen der Welt",
+        "Besitzt trotz der Trockenheit einige der höchsten Gletscher der Erde"
+      ]
+    },
+    {
+      "id": "ar-llullaillaco-nature-v2",
+      "descriptionAdvanced": "Der Llullaillaco ist ein beeindruckender Schichtvulkan an der Grenze zwischen der argentinischen Provinz Salta und Chile. Er ist weltweit bekannt als der Standort der höchsten archäologischen Fundstätte der Erde. Im Jahr 1999 wurden nahe seinem Gipfel auf über 6.700 Metern drei außergewöhnlich gut erhaltene Inka-Mumien entdeckt, die heute im Museum für Hochgebirgsarchäologie in Salta (MAAM) ausgestellt sind. Der Berg ist Teil der trockenen Andenkette und zeichnet sich durch seine rötliche Färbung und das Fehlen einer permanenten Schneekappe aus, was auf die extreme Aridität der Region zurückzuführen ist. Die Besteigung ist physisch fordernd, bietet aber Einblicke in die faszinierende Kultur der Inka, die den Berg als Opferstätte nutzten.",
+      "factsAdvanced": [
+        "Höhe von 6.739 Metern über dem Meeresspiegel",
+        "Höchster Schauplatz ritueller Opferungen im Inka-Reich",
+        "Fundort der 'Kinder vom Llullaillaco' im Jahr 1999",
+        "Fünfthöchster Vulkan der Welt und zweithöchster in Argentinien",
+        "Die Mumien blieben über 500 Jahre durch Frost konserviert",
+        "Der Name bedeutet in Quechua 'Heißes Wasser, das lügt'",
+        "Erste moderne Besteigung im Jahr 1950 durch Bión González"
+      ]
+    },
+    {
+      "id": "ar-ojos-del-salado-nature-v2",
+      "descriptionAdvanced": "Der Nevado Ojos del Salado ist ein gigantischer Vulkan in der Atacama-Region und hält den Titel als höchster aktiver Vulkan der Erde. Er befindet sich an der Grenze zwischen Argentinien (Provinz Catamarca) und Chile und ist nach dem Aconcagua der zweithöchste Berg der südlichen Hemisphäre. Trotz seiner enormen Höhe von 6.893 Metern ist der Berg aufgrund der extrem trockenen Bedingungen in der Puna-Wüste selten schneebedeckt. Eine Besonderheit ist der Kratersee auf etwa 6.390 Metern, der als der am höchsten gelegene See der Welt gilt. Der Ojos del Salado ist Ziel zahlreicher Expeditionen, die oft auch motorisierte Höhenrekorde an seinen Flanken versuchen, da das Gelände bis in große Höhen befahrbar ist.",
+      "factsAdvanced": [
+        "Höhe von 6.893 Metern (offiziell anerkannt)",
+        "Höchster aktiver Vulkan der Welt laut Global Volcanism Program",
+        "Beherbergt den höchsten See der Erde auf 6.390 Metern",
+        "Erstbesteigung 1937 durch Jan Alfred Szczepański und Justyn Wojsznis",
+        "Der Name bezieht sich auf die salzigen 'Augen' (Quellen) im Flusslauf",
+        "Letzte größere Eruption fand vor etwa 1.300 Jahren statt",
+        "Beliebter Ort für Weltrekordversuche mit Geländewagen"
+      ]
+    },
+    {
+      "id": "ar-lago-nahuel-huapi-nature-v2",
+      "descriptionAdvanced": "Der Lago Nahuel Huapi ist das Herzstück des gleichnamigen Nationalparks im Norden Patagoniens und einer der schönsten Seen Argentiniens. Das tiefblaue Wasser des Sees erstreckt sich über eine Fläche von 530 Quadratkilometern und ist von schneebedeckten Andengipfeln und dichten Coihue-Wäldern umgeben. Der See ist glazialen Ursprungs und erreicht Tiefen von bis zu 464 Metern. Zahlreiche Buchten und sieben große Seitenarme, wie der Blest-Arm, verleihen ihm eine zerklüftete, fjordähnliche Struktur. Am Ufer liegt die berühmte Stadt San Carlos de Bariloche. Legenden besagen, dass im See eine geheimnisvolle Kreatur namens 'Nahuelito' lebt, ähnlich dem Ungeheuer von Loch Ness, was den See auch zu einem Ziel für Mythen-Liebhaber macht.",
+      "factsAdvanced": [
+        "Fläche von ca. 530 Quadratkilometern auf 770 Metern Höhe",
+        "Maximale Tiefe von 464 Metern (in der Nähe der Isla Victoria)",
+        "Der Name stammt aus der Mapuche-Sprache und bedeutet 'Insel des Jaguars'",
+        "Beinhaltet die große Isla Victoria und die Halbinsel Quetrihué",
+        "Hauptzufluss ist der Fluss Limay, der in den Atlantik entwässert",
+        "Der See friert aufgrund seiner Tiefe und Bewegung im Winter nicht zu",
+        "Zentrum des ersten Nationalparks Argentiniens (gegründet 1934)"
+      ]
+    },
+    {
+      "id": "ar-lago-argentino-nature-v2",
+      "descriptionAdvanced": "Der Lago Argentino ist der größte und südlichste der großen Eisseen in der argentinischen Provinz Santa Cruz. Er ist weltberühmt für seine spektakuläre Lage am Rande des Südpatagonischen Eisfeldes im Nationalpark Los Glaciares. Die markanteste Attraktion am See ist der Perito-Moreno-Gletscher, der direkt in den See kalbt und regelmäßig gigantische Eiswände in das milchig-türkise Wasser stürzen lässt. Dieses Wasser, oft als 'Gletschermilch' bezeichnet, erhält seine Farbe durch feines Gesteinsmehl, das von den Gletschern zermahlen wurde. Der See verzweigt sich in mehrere Arme, darunter den Upsala-Arm, wo riesige Eisberge treiben, die teilweise größer sind als die Ausflugsboote, die sie passieren.",
+      "factsAdvanced": [
+        "Größter See Argentiniens mit einer Fläche von 1.415 km²",
+        "Dritttiefter See Amerikas mit einer Tiefe von bis zu 500 Metern",
+        "Speist sich aus den Schmelzwassern von über 200 Gletschern",
+        "Der Perito-Moreno-Gletscher bildet eine natürliche Barriere im See",
+        "Wurde 1877 vom Forscher Francisco P. Moreno benannt",
+        "Liegt auf einer Höhe von nur 187 Metern über dem Meeresspiegel",
+        "UNESCO-Weltnaturerbe seit 1981 als Teil des Nationalparks"
+      ]
+    },
+    {
+      "id": "ar-lago-viedma-nature-v2",
+      "descriptionAdvanced": "Der Lago Viedma ist ein riesiger Gletschersee in der Provinz Santa Cruz, der unmittelbar nördlich des Lago Argentino liegt. Er wird hauptsächlich durch den imposanten Viedma-Gletscher gespeist, der mit einer Breite von fünf Kilometern in den See mündet. Das Wasser des Sees zeichnet sich durch eine intensive, trübe Türkisfärbung aus, die durch die hohe Konzentration an Schwebstoffen aus dem Gletscherschliff entsteht. Der See liegt in einer windgepeitschten Steppenlandschaft, die einen dramatischen Kontrast zu den eisigen Gipfeln der Anden bildet. Von der Ortschaft El Chaltén aus ist der See gut erreichbar und dient als Ausgangspunkt für Bootstouren, die Touristen nah an die Abbruchkante des Gletschers bringen, wo man die Kraft der patagonischen Natur hautnah erleben kann.",
+      "factsAdvanced": [
+        "Fläche von etwa 1.088 Quadratkilometern",
+        "Zweitgrößter See im Nationalpark Los Glaciares",
+        "Der Viedma-Gletscher ist der größte Auslassgletscher Argentiniens",
+        "Länge des Sees beträgt rund 80 Kilometer",
+        "Maximale Tiefe wird auf über 300 Meter geschätzt",
+        "Entdeckt im Jahr 1782 durch den spanischen Entdecker Antonio de Viedma",
+        "Der Fluss La Leona verbindet den Lago Viedma mit dem Lago Argentino"
+      ]
+    },
+    {
+      "id": "ar-lago-buenos-aires-nature-v2",
+      "descriptionAdvanced": "Der Lago Buenos Aires ist ein gewaltiges Gewässer in Patagonien, das sich Argentinien mit Chile teilt, wo er unter dem Namen General Carrera bekannt ist. Mit seiner beeindruckenden Wasseroberfläche ist er der zweitgrößte See Südamerikas nach dem Titicacasee. Der See ist berühmt für seine unglaubliche Vielfalt an Blautönen, die von hellem Türkis bis zu tiefem Saphirblau reichen. Auf der chilenischen Seite befinden sich die berühmten Marmorhöhlen, während die argentinische Seite durch weite Ebenen und eine raue, ursprüngliche Landschaft geprägt ist. Das Klima am See ist aufgrund seiner Größe mikroklimatisch begünstigt, was am Südufer in der Ortschaft Los Antiguos sogar den Anbau von Kirschen ermöglicht, eine Seltenheit in dieser südlichen Breite.",
+      "factsAdvanced": [
+        "Gesamtfläche von 1.850 km², davon 880 km² in Argentinien",
+        "Tiefster See Südamerikas mit einer maximalen Tiefe von 590 Metern",
+        "Der See ist ein wichtiges Ziel für Sportfischer (Forellen und Lachse)",
+        "Entwässert über den Fluss Baker in den Pazifischen Ozean",
+        "Das Wasser ist von außergewöhnlicher Reinheit und Transparenz",
+        "Am Ufer liegt Los Antiguos, die Kirschen-Hauptstadt Argentiniens",
+        "Entstanden durch den Rückzug massiver eiszeitlicher Gletscher"
+      ]
+    },
+    {
+      "id": "ar-lago-san-martin-nature-v2",
+      "descriptionAdvanced": "Der Lago San Martín ist ein abgelegener und faszinierender See in den südlichen Anden, der für seine charakteristische, unregelmäßige Form mit acht tief in die Berge eingeschnittenen Armen bekannt ist. Wie viele Seen der Region wird er zwischen Argentinien und Chile geteilt (dort Lago O'Higgins genannt). Der See hält den Rekord als tiefster See des amerikanischen Doppelkontinents, wobei seine Abgründe über 800 Meter hinabreichen. Die Farbe des Wassers ist ein fast unnatürlich wirkendes, milchiges Hellblau, das durch die Sedimente der umliegenden Gletscher verursacht wird. Aufgrund seiner isolierten Lage und der schwierigen Erreichbarkeit über die legendäre Ruta 40 ist der Lago San Martín ein Ziel für Abenteurer, die Einsamkeit und unberührte Wildnis suchen.",
+      "factsAdvanced": [
+        "Tiefster See Amerikas mit einer gemessenen Tiefe von 836 Metern",
+        "Fläche von 1.013 km², etwa zur Hälfte in Argentinien gelegen",
+        "Der See hat eine sehr lange Uferlinie aufgrund seiner fingerartigen Form",
+        "Wurde nach dem argentinischen Nationalhelden José de San Martín benannt",
+        "Speist sich unter anderem aus dem O'Higgins-Gletscher",
+        "Das umliegende Gelände ist extrem zerklüftet und schwer zugänglich",
+        "Entwässert über den Río Pascua in den Pazifik"
+      ]
+    },
+    {
+      "id": "ar-mar-chiquita-nature-v2",
+      "descriptionAdvanced": "Die Mar Chiquita, auch bekannt als Ansenuza-See, ist ein riesiger endorheischer Salzsee im Nordosten der Provinz Córdoba. Es handelt sich um eine der größten Salzseen der Welt und das bedeutendste Feuchtgebiet Zentralargentiniens. Der Salzgehalt des Wassers variiert stark je nach Niederschlagsmenge und kann in Trockenzeiten die Konzentration des Toten Meeres erreichen. Diese einzigartige Umgebung bietet einen lebenswichtigen Lebensraum für Hunderttausende von Zugvögeln, insbesondere für drei Arten von Flamingos, die hier in gewaltigen Kolonien brüten. Im Jahr 2022 wurde das Gebiet zum Nationalpark Ansenuza erklärt, um die fragile Biodiversität und die weiten Schlammflächen des Sees dauerhaft vor menschlichen Eingriffen zu schützen.",
+      "factsAdvanced": [
+        "Größter Salzsee Argentiniens und viertgrößter weltweit",
+        "Fläche schwankt extrem zwischen 2.000 und 6.000 Quadratkilometern",
+        "Heimat von über 300 Vogelarten, darunter 60% der Weltpopulation des Chile-Flamingos",
+        "Hauptzuflüsse sind die Flüsse Río Primero und Río Segundo",
+        "Der See hat keinen Abfluss; Wasser entweicht nur durch Verdunstung",
+        "Das Wasser und der Schlamm gelten als heilkräftig (Peloidtherapie)",
+        "Status als RAMSAR-Feuchtgebiet von internationaler Bedeutung"
+      ]
+    },
+    {
+      "id": "ar-lago-traful-nature-v2",
+      "descriptionAdvanced": "Der Lago Traful ist ein verstecktes Juwel innerhalb des Nationalparks Nahuel Huapi in der Provinz Neuquén. Der See ist bekannt für seine kristallklare Transparenz und die steilen Berge, die ihn einrahmen. Eine weltweit einzigartige Besonderheit ist der 'Versunkene Wald' (Bosque Sumergido): Bei einem Erdrutsch vor Jahrzehnten rutschte ein ganzer Hang mit etwa 60 Zypressen in den See. Da das Wasser so kalt und nährstoffarm ist, blieben die Bäume aufrecht stehen und sind heute unter Wasser perfekt konserviert. Die Spitzen der Bäume ragen teilweise aus der Oberfläche heraus. Der kleine Ort Villa Traful am Südufer bewahrt sich einen rustikalen Charme und ist weit weniger überlaufen als die nahegelegenen Touristenzentren Bariloche oder Villa La Angostura.",
+      "factsAdvanced": [
+        "Fläche von ca. 76 Quadratkilometern auf 717 Metern Höhe",
+        "Der 'Versunkene Wald' befindet sich in ca. 30 Metern Tiefe",
+        "Aussichtspunkt 'Mirador del Viento' bietet Panorama auf den See",
+        "Bekannt für exzellentes Sportfischen auf Lachsforellen",
+        "Maximale Tiefe des Sees liegt bei etwa 300 Metern",
+        "Das Wasser gehört zu den klarsten in ganz Patagonien",
+        "Der Name Traful bedeutet in Mapuche 'Zusammenfluss'"
+      ]
+    },
+    {
+      "id": "ar-rio-parana-nature-v2",
+      "descriptionAdvanced": "Der Río Paraná ist nach dem Amazonas der zweitlängste Fluss Südamerikas und eine der wichtigsten Wasserstraßen des Kontinents. Auf seinem Weg durch Argentinien bildet er ein riesiges Delta, bevor er in den Río de la Plata mündet. Der Fluss ist lebensnotwendig für die Wirtschaft, da er den Transport von Getreide aus dem Hinterland zu den Häfen von Rosario und Buenos Aires ermöglicht. Ökologisch ist der Paraná von unschätzbarem Wert; sein Überschwemmungsgebiet beherbergt eine enorme Vielfalt an Fischen, Vögeln und Säugetieren wie den Wasserschwein (Carpincho). Das Paraná-Delta bei Tigre ist ein beliebtes Naherholungsgebiet, in dem das Leben noch immer stark vom Rhythmus des Wassers und den Gezeiten des nahen Ozeans geprägt ist.",
+      "factsAdvanced": [
+        "Gesamtlänge von etwa 4.880 Kilometern",
+        "Einzugsgebiet umfasst rund 2,6 Millionen Quadratkilometer",
+        "Wichtigster Fisch im Fluss ist der goldene Dorado",
+        "Das Delta erstreckt sich über eine Fläche von 14.000 km²",
+        "Transportiert jährlich etwa 160 Millionen Tonnen Sedimente",
+        "Dient zur Stromerzeugung durch massive Dämme wie Yacyretá",
+        "Der Name stammt aus der Guarani-Sprache und bedeutet 'Wie das Meer'"
+      ]
+    },
+    {
+      "id": "ar-rio-uruguay-nature-v2",
+      "descriptionAdvanced": "Der Río Uruguay entspringt im südlichen Brasilien und fließt über 1.800 Kilometer nach Süden, wobei er die natürliche Grenze zwischen Argentinien und Brasilien sowie später zwischen Argentinien und Uruguay bildet. Gemeinsam mit dem Río Paraná vereinigt er sich zum gewaltigen Ästuar des Río de la Plata. Der Fluss ist bekannt für seine landschaftliche Schönheit, insbesondere in der Provinz Entre Ríos, wo sich zahlreiche Sandstrände und Thermalquellen an seinen Ufern befinden. Eine geologische Besonderheit sind die Moconá-Fälle (Yucumã in Brasilien), wo der Fluss über drei Kilometer längs seiner Fließrichtung in eine tiefe Schlucht stürzt – ein weltweit seltenes Phänomen. Der Fluss spielt zudem eine zentrale Rolle in der Energieversorgung durch den großen Salto-Grande-Staudamm.",
+      "factsAdvanced": [
+        "Länge von ca. 1.838 Kilometern bis zur Mündung",
+        "Bildet die gesamte Ostgrenze der argentinischen Provinz Entre Ríos",
+        "Die Moconá-Wasserfälle sind die längsten Längswasserfälle der Welt",
+        "Der Salto-Grande-Damm liefert Strom für Argentinien und Uruguay",
+        "Wichtiges Brutgebiet für den gefährdeten Gelbkardinal",
+        "Das Wasser ist im Vergleich zum Paraná deutlich klarer",
+        "Der Name bedeutet in Guarani 'Fluss der bunten Vögel'"
+      ]
+    },
+    {
+      "id": "ar-rio-colorado-nature-v2",
+      "descriptionAdvanced": "Der Río Colorado gilt traditionell als die geografische Grenze zwischen der Pampa-Region im Norden und der trockenen Wildnis Patagoniens im Süden. Er entspringt in den Anden aus dem Zusammenfluss des Río Grande und des Río Barrancas und fließt über 1.000 Kilometer in Richtung Osten, bis er in den Atlantischen Ozean mündet. Sein Tal ist eine lebenswichtige Oase in einer ansonsten ariden Umgebung und ermöglicht durch ein ausgeklügeltes Bewässerungssystem den Anbau von Obst, Gemüse und Wein. Trotz seiner Bedeutung leidet der Fluss in den letzten Jahrzehnten unter einem signifikanten Rückgang der Wassermenge, was auf Klimaveränderungen in den Anden und eine verstärkte Entnahme für die Landwirtschaft und die Ölindustrie zurückzuführen ist.",
+      "factsAdvanced": [
+        "Länge von etwa 1.114 Kilometern",
+        "Durchquert fünf argentinische Provinzen: Mendoza, Neuquén, La Pampa, Río Negro und Buenos Aires",
+        "Der Damm 'Casa de Piedra' reguliert den Wasserfluss",
+        "Hauptquelle ist die Schneeschmelze in den Hochanden",
+        "Das Flusstal produziert einen Großteil der argentinischen Äpfel und Birnen",
+        "Mündung bildet ein ökologisch wertvolles Ästuar am Atlantik",
+        "Historisch wichtig als Grenzlinie während der 'Wüsteneroberung'"
+      ]
+    },
+    {
+      "id": "ar-rio-negro-nature-v2",
+      "descriptionAdvanced": "Der Río Negro ist der wasserreichste Fluss Patagoniens und gab der gleichnamigen Provinz ihren Namen. Er entsteht durch den Zusammenfluss der Gebirgsflüsse Limay und Neuquén bei der Stadt Neuquén und windet sich durch ein weites Tal bis zum Atlantik. Das 'Alto Valle' (Oberes Tal) des Río Negro ist berühmt als das wichtigste Obstanbaugebiet Argentiniens, insbesondere für Äpfel und Birnen, die weltweit exportiert werden. Der Fluss selbst ist ein beliebtes Revier für Wassersportler und Schauplatz der 'Regata del Río Negro', des längsten Kajakrennens der Welt. Sein Name 'Schwarzer Fluss' ist eigentlich irreführend, da das Wasser meist eine tiefgrüne Farbe hat; der Name stammt von der wörtlichen Übersetzung des Mapuche-Begriffs 'Currú Leuvú'.",
+      "factsAdvanced": [
+        "Gesamtlänge von rund 635 Kilometern (ohne Quellflüsse)",
+        "Das Flusstal ist bis zu 20 Kilometer breit und sehr fruchtbar",
+        "Mündet bei El Cóndor in der Nähe von Viedma in den Atlantik",
+        "Der Fluss hat keine Staudämme in seinem Hauptlauf",
+        "Schauplatz der längsten Kajak-Regatta der Welt (über 500 km)",
+        "Wichtigste Wasserquelle für die Steppenregion Patagoniens",
+        "Die Wasserqualität gilt als eine der besten unter den großen Flüssen des Landes"
+      ]
+    },
+    {
+      "id": "ar-rio-chubut-nature-v2",
+      "descriptionAdvanced": "Der Río Chubut durchquert das Herz Zentralpatagoniens von den Anden bis zum Atlantik und ist die Lebensader einer extrem trockenen Hochebene. Bekanntheit erlangte das Flusstal vor allem durch die walisischen Einwanderer, die sich im 19. Jahrhundert hier niederließen und Städte wie Gaiman und Trelew gründeten. Der Fluss speist den Florentino-Ameghino-Stausee, ein beeindruckendes Ingenieurbauwerk in einer tiefen Schlucht aus rotem Vulkangestein, das sowohl der Stromerzeugung als auch der Bewässerung dient. Der Unterlauf des Flusses ist geprägt von fruchtbaren Weiden und Pappelreihen, die als Windschutz dienen, während der Oberlauf in den Anden ein beliebtes Ziel für Fliegenfischer ist, die hier kapitale Forellen fangen können.",
+      "factsAdvanced": [
+        "Gesamtlänge von etwa 810 Kilometern",
+        "Der Name stammt aus der Tehuelche-Sprache und bedeutet 'Transparent'",
+        "Einziger Fluss, der die trockene Provinz Chubut vollständig durchfließt",
+        "Der Florentino-Ameghino-Damm ist 113 Meter hoch",
+        "Mündet bei Rawson in den Atlantischen Ozean",
+        "Zentrum der walisischen Kultur in Argentinien",
+        "Wichtiger Lebensraum für Nutrias und verschiedene Entenarten"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-brits-cities-v2",
+      "descriptionAdvanced": "Brits egy modern, pezsgő város az északnyugati régióban, a termékeny Bushveld területén. A város jelentős szerepet játszik az autóalkatrész-gyártásban és a bányászatban, miközben a környék mezőgazdasági termelése, különösen a citrusfélék termesztése, világszinten is elismert. A Hartbeespoort-gát közelsége miatt a város kedvelt célpontja azoknak, akik a természetközeli kikapcsolódást és a vízi sportokat keresik a régióban.",
+      "factsAdvanced": [
+        "A termékeny Bushveld régióban helyezkedik el.",
+        "Jelentős autóalkatrész-gyártó és bányászati központ.",
+        "Híres a minőségi citrusfélék termesztéséről.",
+        "A Hartbeespoort-gát közelsége miatt fontos rekreációs terület.",
+        "Modern városi infrastruktúra jellemzi.",
+        "A régió egyik kulcsfontosságú ipari és mezőgazdasági állomása."
+      ]
+    },
+    {
+      "id": "southafrica-welkom-cities-v2",
+      "descriptionAdvanced": "Welkom a Szabadállam tartomány második legnagyobb városa, amely az 1940-es évek végén jött létre a térségben felfedezett gazdag aranykészletek kiaknázása céljából. A város egyedülálló, tervezett 'kertváros' koncepciója révén vált híressé, ahol a városközpontot eredetileg közlekedési lámpák nélkül tervezték a forgalom zavartalan áramlása érdekében. Ma a város a régió bányászati örökségének és a modern városfejlesztésnek az emlékhelye.",
+      "factsAdvanced": [
+        "A Szabadállam tartomány második legnépesebb városa.",
+        "Az 1947-es aranyfelfedezést követően épült ki.",
+        "Különleges 'kertváros' koncepció alapján tervezték.",
+        "Eredetileg közlekedési lámpák nélküli központtal épült.",
+        "Fontos szerepet játszott az aranybányászat fejlődésében.",
+        "Modern városi arculattal és történelmi bányaörökséggel rendelkezik."
+      ]
+    },
+    {
+      "id": "southafrica-kroonstad-cities-v2",
+      "descriptionAdvanced": "Kroonstad a Szabadállam tartomány északi részének egyik meghatározó városa, a Vals-folyó partján fekszik. A település történelmi és gazdasági szempontból is kiemelt fontosságú, hiszen fontos mezőgazdasági szolgáltatóközpont, és az ország egyik legfontosabb vasúti csomópontja. A 19. század közepén alapított város a régió közlekedésének és mezőgazdasági kereskedelmének egyik legfontosabb láncszeme.",
+      "factsAdvanced": [
+        "A Vals-folyó mentén elhelyezkedő város.",
+        "Szabadállam egyik legfontosabb mezőgazdasági központja.",
+        "Az ország vasúthálózatának kiemelt csomópontja.",
+        "1855-ös alapítású, történelmi jelentőségű település.",
+        "Jelentős kereskedelmi és közlekedési szerepet tölt be a régióban.",
+        "Tipikus szabadállami mezőgazdasági kereskedőváros."
+      ]
+    },
+    {
+      "id": "southafrica-bethlehem-cities-v2",
+      "descriptionAdvanced": "Bethlehem a Maluti-hegység termékeny völgyében fekszik, és a régió búzatermelésének központja. A bibliai nevű város, amely héberül 'kenyér házát' jelent, tökéletesen tükrözi a régió mezőgazdasági profilját. A festői környezetben elhelyezkedő település nemcsak gazdaságilag, hanem turisztikailag is jelentős, hiszen a környező hegyvidék kiváló lehetőségeket kínál a természetjárók számára.",
+      "factsAdvanced": [
+        "A név héberül 'A kenyér házát' jelenti.",
+        "A régió búzatermelésének legfontosabb központja.",
+        "A Maluti-hegység termékeny völgyében fekszik.",
+        "1864-es alapítású, történelmi jelentőségű mezőgazdasági központ.",
+        "Festői környezete kedvelt célpontja a turistáknak.",
+        "Gazdag mezőgazdasági hagyományokkal rendelkező város."
+      ]
+    },
+    {
+      "id": "southafrica-sasolburg-cities-v2",
+      "descriptionAdvanced": "Sasolburg egy különleges iparváros, amelyet kifejezetten a Sasol vállalat széncseppfolyósító üzemének munkásai számára hoztak létre az 1950-es évek elején. A város ipari profilja azóta is a vegyipar köré épül, és Dél-Afrika egyik legjelentősebb kémiai ipari központjává fejlődött. Sasolburg a tervezett ipari városfejlesztés iskolapéldája, ahol a modern technológia és az ipari munkáskultúra ötvöződik.",
+      "factsAdvanced": [
+        "Kifejezetten ipari célra épített város (Sasol vállalat).",
+        "A széncseppfolyósító üzemhez kötődik alapítása.",
+        "Az 1950-es évek elején alapították.",
+        "Dél-Afrika egyik legfontosabb vegyipari központja.",
+        "Az ipari városfejlesztés egyik példaértékű projektje.",
+        "A modern technológiai és vegyipari ágazat motorja."
+      ]
+    }
+  ]
+}

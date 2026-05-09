@@ -2,33 +2,294 @@
   "lang": "de",
   "country": "gambia",
   "files": [
-    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "brufut-cities-v2",
-      "descriptionAdvanced": "Brufut ist ein malerischer Küstenort, der für seine unberührten Strände und die Brufut Woods bekannt ist. Die Wälder stellen ein Paradies für Vogelbeobachter aus aller Welt dar, da sie eine erstaunliche Vielfalt an Arten beheimaten. Während sich der Ort zunehmend zu einer bevorzugten Adresse für luxuriöse Hotelentwicklungen entwickelt, bewahrt er sich den Charme einer entspannten Küstenatmosphäre. Die strategische Lage zwischen der städtischen Entwicklung von Serekunda und der Ruhe des Meeres macht Brufut zu einer einzigartigen Destination in Gambia. Biologie K6 — Habitate und Zugvögel.",
-      "factsAdvanced": ["Bekannt für die Brufut Woods.", "Paradiese für Vogelbeobachter.", "Steigende Anzahl von Luxushotels.", "Unberührte Strände entlang des Atlantiks.", "Wichtiger Ort für nachhaltigen Tourismus.", "Nähe zur Metropolregion Serekunda.", "Ruhige, entspannte Atmosphäre."]
+      "id": "new-jeshwang-cities-v2",
+      "descriptionAdvanced": "New Jeshwang ist eine moderne und rasant wachsende Erweiterung des historischen Old Jeshwang innerhalb der Kanifing Municipality. Die Stadt hat sich zu einem pulsierenden Wohn- und Gewerbegebiet entwickelt, das besonders für die aufstrebende urbane Mittelschicht Gambias attraktiv ist. New Jeshwang ist geprägt durch eine dynamische Bauaktivität, moderne Geschäfte und eine Vielzahl von Kleingewerben entlang der Hauptverkehrsstraßen. Durch seine zentrale Lage in der Greater Banjul Area bietet das Viertel eine hervorragende Anbindung an die wirtschaftlichen Zentren von Serekunda und Banjul. Die Stadt illustriert den ungebrochenen Trend zum urbanen Wachstum und die Entstehung neuer, gut strukturierter Subzentren, die den Bedarf einer jungen, mobilen und ambitionierten Bevölkerung decken. (Geographie K6 — Stadterweiterung und suburbane Dynamik)",
+      "factsAdvanced": [
+        "Modernes Erweiterungsgebiet der Kanifing Municipality.",
+        "Bevorzugter Wohnort für Pendler und die Mittelschicht.",
+        "Zentrum für moderne Dienstleistungen und Einzelhandel.",
+        "Strategisch günstige Lage zwischen Highway und Wohngebieten.",
+        "Hohe Dichte an privaten Schulen und modernen Kliniken.",
+        "Motor für die lokale Bauwirtschaft und Immobilienentwicklung.",
+        "Dynamisches Viertel mit einer jungen Bevölkerungsstruktur.",
+        "Beherbergt zahlreiche Büros von Dienstleistungsunternehmen."
+      ]
     },
     {
-      "id": "tanji-cities-v2",
-      "descriptionAdvanced": "Tanji ist ein authentisches Fischerdorf, das für seine bunten, traditionellen Holzboote und den täglichen Trubel am Strand bekannt ist. Das Tanji Village Museum gewährt Einblicke in das traditionelle Leben der verschiedenen Stämme Gambias und ist ein zentraler Anlaufpunkt für Kulturtouristen. Die Fischräuchereien, die den Strand in eine neblige Kulisse hüllen, sind ein wichtiger Teil der lokalen Wirtschaft und ein faszinierendes Fotomotiv. Tanji ist ein Ort, an dem sich die maritime Lebensweise Gambias in ihrer reinsten Form erleben lässt. Geschichte K7 — Traditionelle maritime Wirtschaft.",
-      "factsAdvanced": ["Bekanntes Fischerdorf.", "Sitz des Tanji Village Museum.", "Berühmte Fischräuchereien am Strand.", "Traditionelle, farbenfrohe Fischerboote.", "Wichtiger Ort für Kulturtourismus.", "Nähe zum Tanji Bird Reserve.", "Authentische Einblicke in den Alltag der Fischer."]
+      "id": "ebo-town-cities-v2",
+      "descriptionAdvanced": "Ebo Town ist ein dicht besiedeltes und außergewöhnlich resilientes Viertel in der Greater Banjul Area, das direkt an den ökologisch sensiblen Tanbi Wetland Complex grenzt. Die Stadt ist bekannt für ihre geografischen Herausforderungen, insbesondere die Anfälligkeit für Überschwemmungen während der Regenzeit, was zu einem starken gemeinschaftlichen Engagement im Bereich der Infrastrukturverbesserung geführt hat. Ebo Town beherbergt eine sehr aktive Bevölkerung, die hauptsächlich im informellen Sektor tätig ist, wobei das Sammeln von Austern und die handwerkliche Fischerei in den angrenzenden Mangroven eine wichtige Rolle spielen. Das Viertel ist ein Paradebeispiel für die komplexen Wechselwirkungen zwischen urbaner Besiedlung, ökologischen Schutzzonen und den direkten Auswirkungen des Klimawandels an der westafrikanischen Küste. (Sachkunde K6 — Urbane Resilienz und Küstenökologie)",
+      "factsAdvanced": [
+        "Dicht besiedeltes Viertel am Rand des Tanbi-Feuchtgebiets.",
+        "Fokusgebiet für kommunale Entwässerungs- und Schutzprojekte.",
+        "Zentrum für das traditionelle Austernsammeln in den Mangroven.",
+        "Bekannt für seine starke soziale Kohäsion und Selbsthilfe.",
+        "Wichtiger Standort für handwerkliche Küstenfischerei.",
+        "Herausforderung durch saisonale Überschwemmungen (Klimaanpassung).",
+        "Bunte Mischung aus Wohnraum und kleinstgewerblichen Betrieben.",
+        "Zentrum für lokale ökologische Sensibilisierungsprogramme."
+      ]
     },
     {
-      "id": "kerewan-cities-v2",
-      "descriptionAdvanced": "Kerewan ist die administrative Hauptstadt der North Bank Region und spielt eine zentrale Rolle für die umliegende Bevölkerung. Die Stadt liegt strategisch an einem der zahlreichen 'Bolongs' – den typischen schmalen Seitenarmen des Gambia-Flusses. Ihre Umgebung ist von dichten Mangrovensümpfen geprägt, die ein komplexes und schützenswertes Ökosystem bilden. Die Stadtverwaltung koordiniert von hier aus wichtige lokale Infrastrukturprojekte, die für die Entwicklung der Region entscheidend sind. Geographie K6 — Mangrovensysteme und Flusstalsiedlungen.",
-      "factsAdvanced": ["Hauptstadt der North Bank Region.", "Strategische Lage an einem Bolong des Gambia-Flusses.", "Umgeben von weitläufigen Mangrovensümpfen.", "Wichtiges Verwaltungszentrum.", "Knotenpunkt für lokale Dienstleistungen.", "Zentrum für regionale Infrastrukturprojekte.", "Typische Flusslandschaft in der Umgebung."]
+      "id": "latri-kunda-cities-v2",
+      "descriptionAdvanced": "Latri Kunda ist eines der geschäftigsten und ökonomisch wichtigsten Viertel innerhalb der Kanifing Municipality und gilt oft als das schlagende Herz von Serekunda. Die Stadt ist durch ihre massiven Märkte entlang der Hauptstraßen geprägt, auf denen Händler aus ganz Westafrika Waren aller Art anbieten – von Autoteilen bis hin zu hochwertigen Textilien. Latri Kunda ist ein Schmelztiegel der Kulturen und ein zentraler Verkehrsknotenpunkt, an dem die Fäden des nationalen Transports zusammenlaufen. Die Stadt beherbergt bedeutende Bildungseinrichtungen und große religiöse Zentren, die weit über das Viertel hinausstrahlen. Latri Kunda illustriert eindrucksvoll die enorme wirtschaftliche Energie und den unermüdlichen Unternehmergeist der gambischen Bevölkerung und ist ein unverzichtbarer Pfeiler der urbanen Wirtschaft des Landes. (Wirtschaft K7 — Urbane Handelsstrukturen und Transportwesen)",
+      "factsAdvanced": [
+        "Eines der größten kommerziellen Viertel von Serekunda.",
+        "Zentrum des regionalen Handels mit Industriegütern und Textilien.",
+        "Wichtiger Knotenpunkt für das nationale Verkehrsnetz (Gele-Gele).",
+        "Heimat des bekannten Latri Kunda Market (Handelszentrum).",
+        "Hohe Dichte an Bildungseinrichtungen und religiösen Zentren.",
+        "Schmelztiegel verschiedener westafrikanischer Ethnien und Kulturen.",
+        "Standort bedeutender Handwerksbetriebe und Reparaturzentren.",
+        "Wesentlicher Motor für den wirtschaftlichen Austausch in der URR."
+      ]
     },
     {
-      "id": "mansa-konko-cities-v2",
-      "descriptionAdvanced": "Mansa Konko, was übersetzt 'Hügel des Königs' bedeutet, ist der Verwaltungssitz der Lower River Region. Die Stadt liegt auf einem exponierten Hügel, der einen beeindruckenden Blick auf den Gambia-Fluss bietet. Historisch gesehen war der Ort eine wichtige britische Kolonialstation, was sich heute noch in einigen der älteren Bauten widerspiegelt. Die Stadt fungiert als lokales Zentrum für politische und soziale Angelegenheiten in der Mitte Gambias und hat eine strategische Bedeutung für die Verwaltung der Region. Geschichte K8 — Britische Kolonialverwaltung in Westafrika.",
-      "factsAdvanced": ["Name bedeutet 'Hügel des Königs'.", "Administrativer Sitz der Lower River Region.", "Ehemalige britische Kolonialstation.", "Exponierte Lage mit Flussblick.", "Zentrum für regionale Politik.", "Wichtiger Ort für soziale Angelegenheiten.", "Historische Bedeutung in der Region."]
+      "id": "albreda-cities-v2",
+      "descriptionAdvanced": "Albreda ist eine historisch bedeutsame Hafenstadt am Nordufer des Gambia-Flusses, die über Jahrhunderte als wichtiger Handelsposten für europäische Mächte diente. Als einstige französische Enklave inmitten eines britisch kontrollierten Territoriums spielte Albreda eine Schlüsselrolle im globalen Handel mit Sklaven, Gold und Elfenbein. Heute ist die Stadt Teil des UNESCO-Welterbes und bildet zusammen mit dem benachbarten Juffureh ein bedeutendes Zentrum für den historischen Bildungstourismus. Albreda bewahrt eindrucksvolle Ruinen aus der Kolonialzeit, darunter das restaurierte CFAO-Gebäude, das als Museum dient. Die Stadt bietet Besuchern einen tiefen Einblick in die dunkle Ära des transatlantischen Sklavenhandels und ist ein Ort des Gedenkens an den unermüdlichen Kampf für Freiheit und Menschenwürde in Westafrika. (Geschichte K8 — Koloniale Enklaven und Welterbestätten)",
+      "factsAdvanced": [
+        "Ehemalige französische Handelsenklave (gegründet im 17. Jh.).",
+        "Teil der UNESCO-Welterbestätte Kunta Kinteh Island.",
+        "Bedeutendes Zentrum für den historischen 'Roots'-Tourismus.",
+        "Beherbergt das restaurierte CFAO-Handelsgebäude (Museum).",
+        "Strategischer Hafen am Nordufer des Gambia-Ästuars.",
+        "Eng verbunden mit der Geschichte der afrikanischen Diaspora.",
+        "Standort bedeutender archäologischer Funde aus der Kolonialzeit.",
+        "Wichtiger Ort für die Gedenkkultur und historische Bildung."
+      ]
     },
     {
-      "id": "kartong-cities-v2",
-      "descriptionAdvanced": "Kartong ist das südlichste Dorf Gambias, direkt an der Grenze zum Senegal gelegen, und zeichnet sich durch einen starken Fokus auf Ökotourismus aus. Der Ort ist bekannt für das heilige Krokodilbecken von Folonko, ein Ort von großer spiritueller Bedeutung für die lokale Gemeinschaft. Durch die naturnahe Umgebung und den bewussten Umgang mit der Umwelt bietet Kartong Besuchern eine andere Erfahrung als die stark touristisch geprägten Küstenabschnitte im Norden. Die Dorfgemeinschaft legt großen Wert auf die Bewahrung ihrer Traditionen und ihrer ökologischen Einzigartigkeit. Biologie K6 — Spirituelle Orte und Umweltschutz.",
-      "factsAdvanced": ["Südlichster Grenzort Gambias.", "Standort des heiligen Folonko-Krokodilbeckens.", "Vorreiter im gambischen Ökotourismus.", "Spirituelle Bedeutung für die Gemeinschaft.", "Bewahrung traditioneller Bräuche.", "Ruhige Lage direkt am Senegal-Grenzfluss.", "Naturbelassene Küstenabschnitte."]
+      "id": "juffureh-cities-v2",
+      "descriptionAdvanced": "Juffureh hat durch Alex Haleys berühmten Roman 'Roots' weltweite Bekanntheit erlangt, in dem das Dorf als die ursprüngliche Heimat des Kunta Kinte beschrieben wird. Dieser literarische Ruhm hat Juffureh zu einem zentralen Ort der Pilgerschaft für die afrikanische Diaspora gemacht, die hier nach ihren Wurzeln sucht. Die Stadt versteht sich heute als ein lebendiges Denkmal und ein Ort der historischen Aufklärung über die Schrecken der Versklavung. Besucher können die traditionellen Clan-Strukturen der Mandinka erleben und das Kunta Kinteh Museum besuchen, das die Geschichte der Region dokumentiert. Juffureh arbeitet eng mit Albreda zusammen, um die historische Integrität dieses UNESCO-Welterbes zu bewahren. Die Stadt ist ein kraftvolles Symbol für Identität, Herkunft und die unzerbrechliche Verbindung zwischen Afrika und Amerika. (Geschichte K7 — Literarisches Erbe und historische Identität)",
+      "factsAdvanced": [
+        "Weltbekannt als Heimat von Kunta Kinte (Alex Haleys 'Roots').",
+        "Zentraler Ort für den internationalen Kulturtourismus.",
+        "Teil der UNESCO-Welterbestätte Kunta Kinteh Island.",
+        "Heimat des Kunta Kinteh Museums für Sklavengeschichte.",
+        "Wichtiger Ort der Begegnung für die afrikanische Diaspora.",
+        "Traditionell geprägte Mandinka-Gemeinschaft mit Clan-Strukturen.",
+        "Zentrum für Bildungsreisen und historische Forschung.",
+        "Bedeutendes Symbol für Freiheit und kulturelle Kontinuität."
+      ]
+    },
+    {
+      "id": "garowol-cities-v2",
+      "descriptionAdvanced": "Garowol ist eine der wohlhabendsten und architektonisch beeindruckendsten Siedlungen in der Upper River Region und gilt als eine Hochburg der Serahule-Kultur (Soninke). Die Stadt zeichnet sich durch imposante, mehrstöckige Villen aus, die oft mit Mitteln der weit verzweigten globalen Diaspora finanziert wurden. Diese Verbindung zur Welt macht Garowol zu einem Ort der Kontraste inmitten der ländlichen Savanne. Neben der modernen Architektur bewahrt die Stadt stolz ihre traditionellen Handelsnetzwerke und religiösen Werte. Garowol ist ein bedeutendes Zentrum für den Islam im Osten Gambias und beherbergt einflussreiche religiöse Schulen. Die Stadt illustriert den enormen Einfluss von Rücküberweisungen auf die ländliche Entwicklung und die Entstehung einer neuen, global vernetzten Elite im tiefen Landesinneren Westafrikas. (Sozialkunde K8 — Diaspora-Ökonomie und kultureller Wandel)",
+      "factsAdvanced": [
+        "Bedeutende und wohlhabende Siedlung des Soninke-Volkes.",
+        "Bekannt für seine beeindruckende Architektur und prachtvolle Villen.",
+        "Stark geprägt durch Rücküberweisungen der globalen Diaspora.",
+        "Bedeutendes Zentrum für islamische Gelehrsamkeit in der URR.",
+        "Wichtiger Knotenpunkt für den regionalen Handel mit dem Senegal.",
+        "Zentrum für traditionelles Unternehmertum und Goldhandel.",
+        "Beherbergt einflussreiche lokale Führungsfiguren und Händler.",
+        "Symbol für den wirtschaftlichen Erfolg ländlicher Gemeinden."
+      ]
+    },
+    {
+      "id": "koina-cities-v2",
+      "descriptionAdvanced": "Koina ist geografisch bedeutsam als der absolut östlichste Punkt Gambias, an dem sich die Grenzen Senegals eng um den Flusslauf schließen. Diese abgelegene Stadt fungiert als das symbolische Ende des gambischen Territoriums und ist ein wichtiger Außenposten für den Grenzverkehr. Historisch war Koina der letzte schiffbare Punkt für größere Boote, bevor sie auf die felsigen Stromschnellen des Oberlaufs stießen. Heute ist Koina eine resiliente Bauerngemeinde, die stark vom Erdnussanbau und der Viehzucht geprägt ist. Die geografische Isolation hat in Koina einen ganz eigenen Charakter geformt, der durch den täglichen Austausch mit den senegalesischen Nachbarn und das Leben im Einklang mit dem Fluss bestimmt wird. Die Stadt ist ein faszinierendes Beispiel für das Leben an der Peripherie einer Nation, wo Geographie den Alltag diktiert. (Geographie K6 — Nationale Grenzen und extreme Randlagen)",
+      "factsAdvanced": [
+        "Östlichste Siedlung Gambias (Ende der South Bank Road).",
+        "Wichtiger Grenzposten und Umschlagplatz im tiefen Osten.",
+        "Historisch der letzte Navigationspunkt für große Flussschiffe.",
+        "Traditionell geprägte Agrargemeinschaft (Erdnüsse, Viehzucht).",
+        "Reger grenzüberschreitender Austausch mit Senegal.",
+        "Beherbergt eine diverse ethnische Mischung (Fula, Soninke).",
+        "Zentrum für die Versorgung der entlegenen Kantora-Region.",
+        "Symbol für die territoriale Ausdehnung Gambias entlang des Flusses."
+      ]
+    },
+    {
+      "id": "sabi-cities-v2",
+      "descriptionAdvanced": "Sabi ist eine blühende Handelsstadt in der Upper River Region, unmittelbar an der südlichen Grenze zum Senegal gelegen. Die Stadt ist weithin bekannt für ihren außergewöhnlichen Reichtum, der hauptsächlich durch die geschäftige Handelstätigkeit der Soninke-Bevölkerung und die Unterstützung ihrer globalen Diaspora generiert wird. Sabi beherbergt einen der aktivsten offiziellen Grenzübergänge des Landes, was sie zu einem unverzichtbaren Knotenpunkt für den Transit von Waren zwischen Gambia und der senegalesischen Casamance macht. Die Stadt beeindruckt durch ihre moderne Infrastruktur, prachtvolle Moscheen und gut organisierte Gemeindeeinrichtungen. Sabi illustriert eindrucksvoll, wie grenzüberschreitender Handel und internationale Vernetzung eine ländliche Region in ein dynamisches wirtschaftliches Zentrum verwandeln können. (Wirtschaft K7 — Grenzökonomie und Handelsnetzwerke)",
+      "factsAdvanced": [
+        "Einer der wichtigsten Grenzübergänge zwischen Gambia und Senegal.",
+        "Bastion der Soninke-Händlerkultur im Osten des Landes.",
+        "Starkes wirtschaftliches Wachstum durch Diaspora-Investitionen.",
+        "Wichtiger Umschlagplatz für Textilien, Elektronik und Agrargüter.",
+        "Beherbergt imposante religiöse Bauten und Schulen.",
+        "Zentrum für den regionalen Vieh- und Getreidehandel.",
+        "Vorreiter bei gemeinschaftlich finanzierten Infrastrukturprojekten.",
+        "Knotenpunkt für den grenzüberschreitenden LKW-Verkehr."
+      ]
+    },
+    {
+      "id": "gambissara-cities-v2",
+      "descriptionAdvanced": "Gambissara ist eine der größten und einflussreichsten Siedlungen in der Upper River Region und bekannt für ihre tiefe Verwurzelung in religiöser Gelehrsamkeit und traditionellem Unternehmertum. Die Stadt fungiert als spirituelle Hauptstadt für viele Soninke und zieht Studenten aus der gesamten Region in ihre renommierten Koranschulen. Neben seiner geistigen Ausstrahlung ist Gambissara ein wirtschaftliches Kraftzentrum, dessen Bewohner für ihre weitreichenden Handelskontakte bis nach Europa und Amerika berühmt sind. Dieser Erfolg zeigt sich in der städtischen Entwicklung, die moderne Architektur mit traditionellen Lebensformen verbindet. Gambissara ist ein Paradebeispiel für eine hochgradig organisierte ländliche Gemeinschaft, die durch Bildung, Glauben und globalen Handel eine führende Rolle in der sozioökonomischen Landschaft Gambias einnimmt. (Sozialkunde K7 — Traditionelle Autorität und moderne Ökonomie)",
+      "factsAdvanced": [
+        "Eines der größten Serahule-Dörfer in Westafrika.",
+        "Nationales Zentrum für islamische Bildung und Gelehrsamkeit.",
+        "Wirtschaftliches Zentrum mit Fokus auf globalen Handel.",
+        "Bekannt für seine hochqualifizierten traditionellen Weber und Töpfer.",
+        "Hohe Dichte an moderne Architektur finanziert durch die Diaspora.",
+        "Starke traditionelle Führungsstrukturen und Clan-Hierarchien.",
+        "Wichtiger Marktort für das Hinterland der Upper River Region.",
+        "Zentrum für kulturelle Erhaltung und ethnotouristische Einblicke."
+      ]
+    },
+    {
+      "id": "banjul-sea-port-economic-v2",
+      "descriptionAdvanced": "Der Seehafen von Banjul ist die lebenswichtige Lunge der gambischen Wirtschaft und der einzige Zugang des Landes zum globalen maritimen Handel. Strategisch günstig an der Mündung des Gambia-Flusses gelegen, schlägt dieser Tiefwasserhafen fast 90 Prozent des nationalen Außenhandels um. Seit seiner Gründung im 19. Jahrhundert hat er sich von einem kolonialen Außenposten zu einem modernen Logistikzentrum entwickelt, das für den Export von Erdnüssen, Fisch und Palmöl sowie für den Import lebensnotwendiger Güter entscheidend ist. Der Hafen ist nicht nur für Gambia selbst von Bedeutung, sondern fungiert auch als wichtiger Transitknotenpunkt für Binnenländer wie Mali und Guinea. Seine Effizienz und Kapazität sind direkte Indikatoren für die wirtschaftliche Stärke und die internationale Integration der Nation. (Wirtschaft K8 — Globalhandel und Hafenlogistik)",
+      "factsAdvanced": [
+        "Einziger Tiefwasserseehafen Gambias (Banjul Port Authority).",
+        "Umschlagplatz für über 80% des nationalen Außenhandels.",
+        "Strategischer Logistikknoten für Transitgüter nach Mali und Guinea.",
+        "Wichtigster Exporthafen für die nationale Erdnussproduktion.",
+        "Modernes Containerterminal mit wachsender Kapazität.",
+        "Lebenswichtige Einrichtung für die nationale Versorgungssicherheit.",
+        "Bedeutender Arbeitgeber für die Bevölkerung der Hauptstadt.",
+        "Zentrum für die maritime Überwachung und Zollsicherung."
+      ]
+    },
+    {
+      "id": "banjul-fisheries-jetty-economic-v2",
+      "descriptionAdvanced": "Der Banjul Fisheries Jetty ist das pulsierende Herz der maritimen Lebensmittelproduktion Gambias und ein entscheidender Faktor für die Ernährungssicherheit des Landes. Hier landen täglich Hunderte von handwerklichen Fischern ihre Fänge an, die direkt vor Ort verarbeitet, verkauft oder für den Export vorbereitet werden. Der Anleger ist ein Zentrum intensiver wirtschaftlicher Aktivität, an dem Fischer, Händler, Frauenkooperativen und Exporteure in einem hochdynamischen Umfeld zusammenarbeiten. Die Fischerei am Jetty bietet nicht nur tausenden Menschen eine direkte Lebensgrundlage, sondern ist auch die Basis für eine wachsende Verarbeitungsindustrie. Als Ort der Begegnung zwischen traditionellem Handwerk und modernen Marktanforderungen illustriert der Jetty die enorme Bedeutung der marinen Ressourcen für die gambische Gesellschaft und Wirtschaft. (Wirtschaft K6 — Ressourcenmanagement und lokale Wertschöpfung)",
+      "factsAdvanced": [
+        "Zentraler Anlandepunkt für die handwerkliche Fischerei in Banjul.",
+        "Wichtiger Wirtschaftsfaktor für den Export von Qualitätfisch.",
+        "Zentrum für die Beschäftigung von tausenden Kleinhändlern.",
+        "Standort moderner Kühllager und Fischverarbeitungsanlagen.",
+        "Lebenswichtige Versorgungsquelle für Proteine in der Metropolregion.",
+        "Ort intensiver Tätigkeit von Frauenkooperativen im Fischhandel.",
+        "Drehkreuz für den Transport von frischem Fisch ins Landesinnere.",
+        "Wichtiger Standort für den Bau und die Reparatur von Pirogen."
+      ]
+    },
+    {
+      "id": "sarro-groundnut-plant-economic-v2",
+      "descriptionAdvanced": "Das Sarro-Erdnusswerk bei Banjul ist ein historisches und wirtschaftliches Monument der gambischen Industrie, das die Verarbeitung des wichtigsten Exportguts des Landes zentralisiert. Als Flaggschiff der Gambia Groundnut Corporation (GGC) werden hier Rohprodukte gereinigt, geschält und für den Weltmarkt vorbereitet. Die Anlage steht symbolisch für den jahrzehntelangen Fokus Gambias auf die Monokultur der Erdnuss, die bis heute das Rückgrat der bäuerlichen Einkommen bildet. Das Werk ist ein logistisches Meisterwerk, das über eigene Verladeeinrichtungen am Fluss verfügt, um die Produkte effizient auf Ozeandampfer zu verladen. Trotz der Bemühungen um wirtschaftliche Diversifizierung bleibt Sarro ein unverzichtbarer Pfeiler für den Devisenerwerb und die industrielle Beschäftigung im Land. (Sachkunde K7 — Agrarindustrie und Exportwirtschaft)",
+      "factsAdvanced": [
+        "Größte Erdnussverarbeitungsanlage Gambias (GGC-Zentrale).",
+        "Zentrum für die Qualitätskontrolle und Verpackung für den Export.",
+        "Direkter Zugang zum Gambia-Fluss für die Schiffsverladung.",
+        "Wichtigster industrieller Abnehmer für nationale Erdnussernten.",
+        "Symbol für die historische 'Groundnut-Ökonomie' des Landes.",
+        "Bedeutender Arbeitgeber für technische Fachkräfte.",
+        "Standort massiver Lager- und Silokapazitäten.",
+        "Spielt eine Schlüsselrolle bei der nationalen Devisenbeschaffung."
+      ]
+    },
+    {
+      "id": "banjul-breweries-economic-v2",
+      "descriptionAdvanced": "Banjul Breweries, oft unter dem Markennamen 'JulBrew' bekannt, ist das führende Unternehmen der verarbeitenden Getränkeindustrie in Gambia und ein Symbol für nationale Markenidentität. Seit ihrer Gründung in den 1970er Jahren produziert die Brauerei eine breite Palette an alkoholischen und alkoholfreien Getränken, die im ganzen Land konsumiert werden. Das Unternehmen ist ein bedeutender Steuerzahler und einer der größten privaten Arbeitgeber in der Greater Banjul Area. Durch die Verwendung moderner Produktionstechnologien und strenger Qualitätsstandards setzt Banjul Breweries Maßstäbe für die industrielle Fertigung in Westafrika. Die Fabrik ist ein wichtiger Bestandteil des Kanifing Industrial Estate und illustriert die Fähigkeit Gambias, hochwertige Konsumgüter für den lokalen Markt und den regionalen Export zu produzieren. (Wirtschaft K8 — Industrielle Produktion und Binnenkonsum)",
+      "factsAdvanced": [
+        "Marktführer in der gambischen Getränkeindustrie (JulBrew).",
+        "Einer der größten privaten Arbeitgeber im Land.",
+        "Wichtiger Beitrag zum nationalen Steueraufkommen.",
+        "Modernste Produktionsanlage im Kanifing Industrial Estate.",
+        "Produziert ein breites Sortiment an Erfrischungsgetränken.",
+        "Zentrum für technische Ausbildung und Qualitätsmanagement.",
+        "Wichtiger Partner für den lokalen Gastronomie- und Tourismussektor.",
+        "Symbol für nationale Eigenproduktion und Markenstärke."
+      ]
+    },
+    {
+      "id": "gambia-milling-corp-economic-v2",
+      "descriptionAdvanced": "Die Gambia Milling Corporation ist das Rückgrat der nationalen Getreideverarbeitung und spielt eine entscheidende Rolle für die Ernährungssicherheit Gambias. Die modernen Mühlenanlagen im Industriegebiet von Banjul verarbeiten importierten Weizen und lokale Getreidesorten zu hochwertigem Mehl, das die Basis für die tägliche Brotversorgung der Bevölkerung bildet. Durch die Reduzierung der Abhängigkeit von teuren Mehlimporten stärkt das Unternehmen die wirtschaftliche Souveränität des Landes. Die Fabrik ist ein technisches Meisterwerk, das rund um die Uhr arbeitet, um den stetig wachsenden Bedarf der urbanen Zentren zu decken. Als strategische Industrieanlage ist die Milling Corp ein unverzichtbarer Teil der Wertschöpfungskette im Lebensmittelsektor und ein wichtiger Partner für tausende von Bäckereien im ganzen Land. (Wirtschaft K8 — Lebensmittelverarbeitung und Versorgungssicherheit)",
+      "factsAdvanced": [
+        "Zentrale Mühlenanlage für die Mehlproduktion in Gambia.",
+        "Garant für die tägliche Versorgung mit Brot und Backwaren.",
+        "Reduziert die Abhängigkeit von internationalen Fertigmehl-Importen.",
+        "Hochmoderne industrielle Verarbeitungs- und Lagertechnik.",
+        "Wichtiger Arbeitgeber im Industriesektor von Banjul.",
+        "Spielt eine Schlüsselrolle bei der Preisstabilität von Grundnahrungsmitteln.",
+        "Standort umfangreicher Getreidesilos am Hafenareal.",
+        "Zentrum für die Qualitätsüberwachung von Getreideerzeugnissen."
+      ]
+    },
+    {
+      "id": "brikama-power-station-economic-v2",
+      "descriptionAdvanced": "Die Brikama Power Station ist das technische Herzstück der nationalen Energieversorgung und die wichtigste Quelle für Elektrizität in der Greater Banjul Area. Als zentrale Anlage des Energieversorgers NAWEC erzeugt sie die Grundlast, die für den Betrieb von Krankenhäusern, Schulen, Industriebetrieben und Haushalten in der bevölkerungsreichsten Region Gambias unerlässlich ist. Die Station ist ein Symbol für die Bemühungen des Landes, seine Infrastruktur zu modernisieren und eine zuverlässige Energiequelle für das Wirtschaftswachstum zu schaffen. Mit massiven Dieselgeneratoren und zunehmend integrierten erneuerbaren Energielösungen arbeitet Brikama daran, die Energielücke zu schließen. Die Sicherheit und Effizienz dieser Anlage sind direkt mit der Lebensqualität und der ökonomischen Dynamik des gesamten westlichen Landesteils verknüpft. (Physik/Wirtschaft K8 — Energieerzeugung und Netzinfrastruktur)",
+      "factsAdvanced": [
+        "Größte und wichtigste Stromerzeugungsanlage in Gambia.",
+        "Kernstück der Energieversorgung für die Greater Banjul Area.",
+        "Wichtigster Standort des nationalen Energieversorgers NAWEC.",
+        "Grundpfeiler für den Betrieb der nationalen Industrie.",
+        "Zentrum für die Wartung massiver schwerölbetriebener Generatoren.",
+        "Fokuspunkt für die Modernisierung des nationalen Stromnetzes.",
+        "Strategisch wichtige Infrastruktur für die nationale Sicherheit.",
+        "Standort für die Ausbildung von Elektroingenieuren und Technikern."
+      ]
+    },
+    {
+      "id": "gunjur-fish-meal-factory-economic-v2",
+      "descriptionAdvanced": "Die Fischmehlfabrik in Gunjur ist ein hochmodernes, wenn auch ökologisch diskutiertes Zentrum der marinen Rohstoffverarbeitung an der gambischen Küste. Hier werden große Mengen an Kleinfisch, insbesondere Sardinellen, zu Fischmehl und Fischöl verarbeitet, das hauptsächlich für den internationalen Export in die Aquakulturindustrie bestimmt ist. Die Anlage ist ein wichtiger Wirtschaftsfaktor, der Arbeitsplätze schafft und Devisen generiert, steht aber gleichzeitig im Fokus von Umweltschützern, die vor Überfischung und Geruchsbelästigung warnen. Die Fabrik illustriert die globalen Verflechtungen der modernen Fischereiwirtschaft, in der lokale Ressourcen in globale Lieferketten integriert werden. Als bedeutendes Industrieobjekt an der Küste ist sie ein zentraler Punkt in der Debatte über nachhaltige Entwicklung und wirtschaftlichen Fortschritt in Gambia. (Wirtschaft K8 — Ressourcenökonomie und globale Lieferketten)",
+      "factsAdvanced": [
+        "Großtechnische Anlage zur Produktion von Fischmehl und Fischöl.",
+        "Wichtiger Exporteur von Rohstoffen für die globale Aquakultur.",
+        "Bedeutender Arbeitgeber in der Küstenregion von Gunjur.",
+        "Standort intensiver industrieller Verarbeitungsprozesse.",
+        "Fokuspunkt nationaler Debatten über nachhaltige Fischerei.",
+        "Nutzt moderne Extraktions- und Trocknungstechnologien.",
+        "Trägt maßgeblich zum nationalen Devisenaufkommen bei.",
+        "Knotenpunkt zwischen handwerklicher Fischerei und globalem Markt."
+      ]
+    },
+    {
+      "id": "denton-bridge-fish-cluster-economic-v2",
+      "descriptionAdvanced": "Das Denton Bridge Fish Cluster ist ein dynamisches wirtschaftliches Ökosystem an der strategischen Verbindung zwischen der Insel Banjul und dem Festland. Dieses Gebiet beherbergt eine Vielzahl von Fischverarbeitungsbetrieben, Kühllagern und handwerklichen Fischereistützpunkten, die gemeinsam das Rückgrat der maritimen Exportwirtschaft bilden. Hier trifft modernste Technik auf traditionelle Methoden; hochwertiger Fisch wird für den europäischen und asiatischen Markt verpackt, während gleichzeitig Pirogen den täglichen Bedarf der lokalen Bevölkerung decken. Die Denton Bridge ist ein logistischer Flaschenhals, der diesem Cluster eine enorme strategische Bedeutung verleiht. Die Konzentration von Fachwissen, Infrastruktur und Zugang zum Wasser macht dieses Gebiet zu einem der produktivsten und wirtschaftlich wertvollsten Räume in ganz Westafrika. (Wirtschaft K7 — Industrielle Cluster und Logistik)",
+      "factsAdvanced": [
+        "Zentrales Cluster für die Fischverarbeitung und den Export.",
+        "Strategische Lage an der Denton Bridge (Banjul-Zufahrt).",
+        "Konzentration von modernen Kühllagern und Logistikfirmen.",
+        "Wichtiger Standort für die gewerbliche Krabben- und Garnelenfischerei.",
+        "Bedeutender Arbeitgeber für Fachkräfte in der Lebensmitteltechnik.",
+        "Knotenpunkt für den Transport von Meeresfrüchten zum Flughafen.",
+        "Zentrum für die maritime Dienstleistungsindustrie.",
+        "Wesentlicher Faktor für die nationale Handelsbilanz."
+      ]
+    },
+    {
+      "id": "kaur-groundnut-depot-economic-v2",
+      "descriptionAdvanced": "Das Kaur Groundnut Depot ist ein historisches und funktionelles Monument des gambischen Agrarhandels am mittleren Flusslauf. In der Blütezeit der Binnenschifffahrt war Kaur einer der wichtigsten Verladepunkte für Erdnüsse, die hier tonnenweise gelagert und auf Flussschiffe verladen wurden. Die massiven Lagerhallen und die markanten Wiegestationen zeugen von der Zeit, als der Fluss die einzige Lebensader für den Export war. Auch wenn der Straßentransport heute dominiert, bleibt das Depot ein wichtiger Sammelpunkt für die Bauern der North Bank Region. Es illustriert den Übergang von kolonialen Handelsstrukturen zu moderner agrarischer Logistik und bewahrt die Erinnerung an den wirtschaftlichen Aufstieg des Landes durch seine wichtigste Nutzpflanze. Kaur bleibt ein unverzichtbarer Ort für die Sicherung der bäuerlichen Einkommen in der Region. (Geschichte K8 — Agrarhandel und Flusslogistik)",
+      "factsAdvanced": [
+        "Historisch bedeutendster Erdnuss-Verladepunkt am Nordufer.",
+        "Beherbergt massive Lagerhallen aus der Kolonial- und Postkolonialzeit.",
+        "Strategischer Punkt für die Sammlung der Ernten in der NBR.",
+        "Ehemaliger Haupthalt für die Flotte der Groundnut Corporation.",
+        "Wichtiger Arbeitgeber für die lokale Bevölkerung während der Erntezeit.",
+        "Symbol für die historische wirtschaftliche Blüte von Kaur.",
+        "Zentrum für die Qualitätskontrolle von Saatgut und Exportware.",
+        "Wichtiger Orientierungspunkt für die Schifffahrt am Oberlauf."
+      ]
+    },
+    {
+      "id": "kuntaur-groundnut-depot-economic-v2",
+      "descriptionAdvanced": "Das Kuntaur Groundnut Depot ist ein entscheidender logistischer Außenposten der Gambia Groundnut Corporation tief im Landesinneren. Seine Bedeutung ergibt sich aus der Tatsache, dass der Gambia-Fluss bis Kuntaur für große Schiffe schiffbar bleibt, was das Depot zum idealen Umschlagplatz für die riesigen Anbauflächen der Central River Region macht. Hier werden die Ernten von Tausenden von Kleinbauern gesammelt, gewogen und für den Weitertransport vorbereitet. Das Depot ist nicht nur eine wirtschaftliche Einrichtung, sondern auch ein soziales Zentrum, das während der Verkaufssaison das Leben in der gesamten Region bestimmt. Es steht beispielhaft für die Verknüpfung von traditioneller Landwirtschaft und industrieller Verwertungskette und sichert die Einbindung entlegener Gebiete in den globalen Handelskreislauf. (Wirtschaft K7 — Ländliche Sammelstellen und Exportketten)",
+      "factsAdvanced": [
+        "Wichtigster Umschlagplatz für Erdnüsse in der Central River Region.",
+        "Endpunkt der Schiffsbarkeit für die großen Flusstransporter.",
+        "Zentrale Sammelstelle für die Ernten der umliegenden Schwemmländer.",
+        "Standort massiver Silo- und Lagerkapazitäten.",
+        "Wesentlicher Faktor für die Preisstabilität und bäuerliche Sicherheit.",
+        "Logistisches Zentrum für den Transport zum Hafen von Banjul.",
+        "Bedeutender lokaler Wirtschaftsfaktor in der CRR.",
+        "Symbol für die industrielle Durchdringung des ländlichen Raums."
+      ]
+    },
+    {
+      "id": "barra-ferry-terminal-economic-v2",
+      "descriptionAdvanced": "Das Barra Ferry Terminal ist das pulsierende Tor zwischen der Hauptstadt Banjul und dem Norden des Landes sowie dem Senegal. Täglich passieren Tausende von Menschen, Fahrzeugen und Waren diesen kritischen Infrastrukturpunkt, der die einzige effiziente Verbindung über die Flussmündung darstellt. Das Terminal ist ein Ort intensiver wirtschaftlicher Aktivität, an dem sich ein riesiges Netzwerk von Händlern, Trägern, Geldwechslern und Transportunternehmern gebildet hat. Seine Funktionsfähigkeit ist entscheidend für den nationalen Warenverkehr und die regionale Integration Westafrikas. Als Schmelztiegel von Pendlern und Fernreisenden illustriert das Terminal die Herausforderungen und die Dynamik der gambischen Transportlogistik. Trotz der Eröffnung der Senegambia-Brücke im Landesinneren bleibt Barra der wichtigste Knotenpunkt für die direkte Anbindung der Hauptstadt an den Norden. (Geographie K7 — Verkehrsknotenpunkte und urbane Mobilität)",
+      "factsAdvanced": [
+        "Wichtigster Fährhafen am Nordufer des Gambia-Ästuars.",
+        "Zentraler Knotenpunkt für den Personenverkehr zwischen Banjul und Dakar.",
+        "Motor für die lokale Handelswirtschaft und den informellen Sektor.",
+        "Strategisch wichtige Infrastrukturanlage für die nationale Sicherheit.",
+        "Sitz von Zoll- und Immigrationsbehörden für den Nordtransit.",
+        "Bedeutender Umschlagplatz für Konsumgüter und Agrarprodukte.",
+        "Standort komplexer technischer Anlagen zur Fährwartung.",
+        "Lebensader für die Versorgung der North Bank Region."
+      ]
     }
   ]
 }

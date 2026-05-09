@@ -1,0 +1,209 @@
+      de: ["Entspringt im äthiopischen Hochland", "Mündet in den Indischen Ozean", "Wichtig für die Landwirtschaft", "Länge ca. 1650 km"],
+      hu: ["Az etióp-felföldön ered", "Az Indiai-óceánba ömlik", "Fontos a mezőgazdaság számára", "Hossza kb. 1650 km"],
+      ro: ["Izvorăște din podișul Etiopiei", "Se varsă în Oceanul Indian", "Important pentru agricultură", "Lungime aprox. 1650 km"],
+      en: ["Originates in the Ethiopian Highlands", "Flows into the Indian Ocean", "Important for agriculture", "Length approx. 1650 km"]
+    }, image: "/poi-images/jubba-river-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Fließt durch das südliche Somalia", "Parallel zum Jubba", "Wichtige Wasserquelle", "Periodisch trockener Unterlauf"],
+      hu: ["Dél-Szomálián folyik át", "Párhuzamosan a Jubbával", "Fontos vízforrás", "Időszakosan száraz alsó szakasz"],
+      ro: ["Curge prin sudul Somaliei", "Paralel cu Jubba", "Sursă importantă de apă", "Curs inferior periodic secat"],
+      en: ["Flows through southern Somalia", "Parallel to the Jubba", "Important water source", "Periodically dry lower course"]
+    }, image: "/poi-images/shebelle-river-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Höchster Teil Somalias", "Besteht aus Kalkstein", "Reiche Vegetation", "Steile Klippen"],
+      hu: ["Szomália legmagasabb része", "Mészkőből áll", "Gazdag növényzet", "Meredek sziklák"],
+      ro: ["Cea mai înaltă parte a Somaliei", "Constă din calcar", "Vegetație bogată", "Stânci abrupte"],
+      en: ["Highest part of Somalia", "Consists of limestone", "Rich vegetation", "Steep cliffs"]
+    }, image: "/poi-images/cal-madow-mountains-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Nördlich von Hargeisa", "Wichtiges Ökosystem", "Trockene Region", "Wandergebiet"],
+      hu: ["Hargeisától északra", "Fontos ökoszisztéma", "Száraz régió", "Túrázóhely"],
+      ro: ["La nord de Hargeisa", "Ecosistem important", "Regiune aridă", "Zonă de drumeții"],
+      en: ["North of Hargeisa", "Important ecosystem", "Arid region", "Hiking area"]
+    }, image: "/poi-images/golis-mountains-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Höhe ca. 2416 Meter", "Teil des Cal Madow", "Im Norden gelegen", "Spektakuläre Aussicht"],
+      hu: ["Magassága kb. 2416 méter", "A Cal Madow része", "Északon található", "Látványos kilátás"],
+      ro: ["Altitudine aprox. 2416 metri", "Parte a Cal Madow", "Situat în nord", "Vedere spectaculoasă"],
+      en: ["Height approx. 2416 meters", "Part of Cal Madow", "Located in the north", "Spectacular view"]
+    }, image: "/poi-images/surud-cad-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Im Golf von Aden", "Unbewohnt", "Riffnähe", "Felsig"],
+      hu: ["Az Ádeni-öbölben", "Lakatlan", "Zátony közelében", "Sziklás"],
+      ro: ["În Golful Aden", "Nelocuită", "Aproape de recif", "Stâncoasă"],
+      en: ["In the Gulf of Aden", "Uninhabited", "Near reef", "Rocky"]
+    }, image: "/poi-images/darin-island-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Im Indischen Ozean", "Schöne Strände", "Korallenriffe", "Artenreich"],
+      hu: ["Az Indiai-óceánban", "Szép strandok", "Korallzátonyok", "Fajgazdag"],
+      ro: ["În Oceanul Indian", "Plaje frumoase", "Recife de corali", "Bogate în specii"],
+      en: ["In the Indian Ocean", "Beautiful beaches", "Coral reefs", "Biodiverse"]
+    }, image: "/poi-images/bajuni-islands-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Fischreich", "Historischer Ort", "Sandige Strände", "Tiefes Wasser"],
+      hu: ["Halban gazdag", "Történelmi hely", "Homokos strandok", "Mély víz"],
+      ro: ["Bogată în pește", "Loc istoric", "Plaje cu nisip", "Apă adâncă"],
+      en: ["Rich in fish", "Historical place", "Sandy beaches", "Deep water"]
+    }, image: "/poi-images/maydh-coast-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Salzhaltig", "Wichtige Vogelregion", "Vom Indischen Ozean getrennt", "Still"],
+      hu: ["Sós", "Fontos madárvidék", "Az Indiai-óceántól elválasztva", "Csendes"],
+      ro: ["Sărată", "Regiune importantă pentru păsări", "Separată de Oceanul Indian", "Liniștită"],
+      en: ["Saline", "Important bird region", "Separated from Indian Ocean", "Quiet"]
+    }, image: "/poi-images/hordio-lagoon-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Treffpunkt Golf von Aden und Indischer Ozean", "Windig", "Markanter Punkt", "Klarer Blick"],
+      hu: ["Az Ádeni-öböl és Indiai-óceán találkozása", "Szeles", "Jellegzetes pont", "Tiszta kilátás"],
+      ro: ["Întâlnirea Golfului Aden și Oceanului Indian", "Vântos", "Punct marcant", "Vedere clară"],
+      en: ["Meeting point of Gulf of Aden and Indian Ocean", "Windy", "Distinctive point", "Clear view"]
+    }, image: "/poi-images/ras-casir-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Oft ausgetrocknet", "Nur nach Regen Wasser", "Wichtiges Bewässerungsgebiet", "Trockenlandschaft"],
+      hu: ["Gyakran kiszáradt", "Csak eső után van víz", "Fontos öntözési terület", "Száraz táj"],
+      ro: ["Deseori secată", "Apă doar după ploaie", "Zonă importantă de irigații", "Peisaj arid"],
+      en: ["Often dried out", "Water only after rain", "Important irrigation area", "Arid landscape"]
+    }, image: "/poi-images/ayaha-valley-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Schutzgebiet für Pflanzen", "Bergige Landschaft", "Teil der Golis-Berge", "Einzigartige Flora"],
+      hu: ["Védett terület a növényeknek", "Hegyes táj", "A Golis-hegység része", "Egyedülálló növényvilág"],
+      ro: ["Zonă protejată pentru plante", "Peisaj muntos", "Parte a munților Golis", "Floră unică"],
+      en: ["Protected area for plants", "Mountainous landscape", "Part of Golis Mountains", "Unique flora"]
+    },
+    descriptionAdvanced: {
+--
+      de: ["Wacholderwälder", "Sehr trockenes Klima", "Langsam wachsend", "Bedroht"],
+      hu: ["Borókaerdők", "Nagyon száraz éghajlat", "Lassan növekszik", "Veszélyeztetett"],
+      ro: ["Păduri de ienupăr", "Climat foarte uscat", "Creștere lentă", "Amenințată"],
+      en: ["Juniper forests", "Very dry climate", "Slow growing", "Threatened"]
+    }, image: "/poi-images/xaysimo-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Mangrovenwälder", "Reiches Vogelvorkommen", "Schlickig", "Gezeitenbeeinflusst"],
+      hu: ["Mangroveerdők", "Gazdag madárvilág", "Iszapos", "Árapály által befolyásolt"],
+      ro: ["Păduri de mangrove", "Bogată în păsări", "Mâloasă", "Influențată de maree"],
+      en: ["Mangrove forests", "Rich birdlife", "Muddy", "Tide-influenced"]
+    }, image: "/poi-images/juba-delta-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Wichtig für Siedlungen", "Fruchtbares Umland", "Schwankender Wasserstand", "Staudämme"],
+      hu: ["Fontos a településeknek", "Termékeny környék", "Ingadozó vízállás", "Gátak"],
+      ro: ["Important pentru așezări", "Împrejurimi fertile", "Nivelul apei fluctuant", "Baraje"],
+      en: ["Important for settlements", "Fertile surroundings", "Fluctuating water level", "Dams"]
+    },
+    descriptionAdvanced: {
+--
+      de: ["Trockensavanne", "Dornensträucher", "Sehr heiß", "Karge Böden"],
+      hu: ["Száraz szavanna", "Tüskés bokrok", "Nagyon meleg", "Sovány talajok"],
+      ro: ["Savana aridă", "Arbuști spinoși", "Foarte cald", "Soluri sărace"],
+      en: ["Dry savanna", "Thorn bushes", "Very hot", "Poor soils"]
+    }, image: "/poi-images/dadaab-bushland-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Wanderdünen", "Weißer Sand", "Direkt am Indischen Ozean", "Stark windig"],
+      hu: ["Vándordűnék", "Fehér homok", "Közvetlenül az Indiai-óceánnál", "Erősen szeles"],
+      ro: ["Dune mișcătoare", "Nisip alb", "Direct la Oceanul Indian", "Foarte vântos"],
+      en: ["Moving dunes", "White sand", "Directly at Indian Ocean", "Very windy"]
+    }, image: "/poi-images/hobyo-dunes-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Sandige Strände", "Fischfangregion", "Offener Ozean", "Heiße Temperaturen"],
+      hu: ["Homokos strandok", "Halászati régió", "Nyílt óceán", "Meleg hőmérséklet"],
+      ro: ["Plaje cu nisip", "Regiune de pescuit", "Ocean deschis", "Temperaturi calde"],
+      en: ["Sandy beaches", "Fishing region", "Open ocean", "Hot temperatures"]
+    },
+    descriptionAdvanced: {
+--
+      de: ["Korallenküste", "Klares Wasser", "Viele Buchten", "Wichtig für Schifffahrt"],
+      hu: ["Korallpart", "Tiszta víz", "Sok öböl", "Fontos a hajózásnak"],
+      ro: ["Coastă de corali", "Apă limpede", "Multe golfuri", "Important pentru navigație"],
+      en: ["Coral coast", "Clear water", "Many bays", "Important for shipping"]
+    }, image: "/poi-images/barawa-coast-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Kühleres Klima", "Weideland", "Bergig", "Trockenes Grasland"],
+      hu: ["Hűvösebb éghajlat", "Legelő", "Hegyes", "Száraz gyepek"],
+      ro: ["Climat mai răcoros", "Pășune", "Muntos", "Pajiști aride"],
+      en: ["Cooler climate", "Grazing land", "Mountainous", "Dry grasslands"]
+    }, image: "/poi-images/ceerigaabo-uplands-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Reiche Fischgründe", "Korallenreviere", "Flaches Wasser", "Sehr warm"],
+      hu: ["Gazdag halászhelyek", "Korallzátonyok", "Sekély víz", "Nagyon meleg"],
+      ro: ["Zone bogate în pește", "Recife de corali", "Apă puțin adâncă", "Foarte caldă"],
+      en: ["Rich fishing grounds", "Coral reefs", "Shallow water", "Very warm"]
+    },
+    descriptionAdvanced: {
+--
+      de: ["Sehr fruchtbar", "Saisonal überschwemmt", "Landwirtschaftlich genutzt", "Schlick"],
+      hu: ["Nagyon termékeny", "Szezonálisan elöntött", "Mezőgazdaságilag hasznosított", "Iszap"],
+      ro: ["Foarte fertilă", "Inundată sezonier", "Utilizată agricol", "Mâl"],
+      en: ["Very fertile", "Seasonally flooded", "Agriculturally used", "Silt"]
+    }, image: "/poi-images/jowhar-floodplain-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Karge Vegetation", "Weite Flächen", "Nomadengebiet", "Trocken"],
+      hu: ["Gyér növényzet", "Hatalmas terek", "Nomádterület", "Száraz"],
+      ro: ["Vegetație rară", "Zone vaste", "Zonă nomadă", "Aridă"],
+      en: ["Sparse vegetation", "Vast areas", "Nomadic region", "Dry"]
+    }, image: "/poi-images/mudug-savanna-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Immergrün", "Nebelwaldartige Zonen", "Artenreich", "Sehr abgelegen"],
+      hu: ["Örökzöld", "Ködös erdőhöz hasonló zónák", "Fajgazdag", "Nagyon távoli"],
+      ro: ["Veșnic verde", "Zone asemănătoare pădurilor de ceață", "Bogată în specii", "Foarte izolată"],
+      en: ["Evergreen", "Cloud forest-like zones", "Biodiverse", "Very remote"]
+    }, image: "/poi-images/cal-madow-forest-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Steil abfallend", "Gute Aussicht", "Vegetationszonen", "Felsig"],
+      hu: ["Meredeken lejtő", "Jó kilátás", "Növényzeti zónák", "Sziklás"],
+      ro: ["În pantă abruptă", "Vedere bună", "Zone de vegetație", "Stâncos"],
+      en: ["Steeply sloping", "Good view", "Vegetation zones", "Rocky"]
+    }, image: "/poi-images/golis-northern-slope-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Trockenes Hochland", "Ausgedehnt", "Karge Landschaft", "Kalksteinplateaus"],
+      hu: ["Száraz fennsík", "Kiterjedt", "Kopár táj", "Mészkőfennsíkok"],
+      ro: ["Podiș arid", "Extins", "Peisaj kopár", "Platouri calcaroase"],
+      en: ["Dry highland", "Extensive", "Barren landscape", "Limestone plateaus"]
+    }, image: "/poi-images/karkar-mountains-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Windeinfluss", "Felsige Küste", "Starke Meeresströmungen", "Historischer Standort"],
+      hu: ["Szélhatás", "Sziklás part", "Erős tengeráramlatok", "Történelmi helyszín"],
+      ro: ["Influența vântului", "Coastă stâncoasă", "Curenți marini puternici", "Locație istorică"],
+      en: ["Wind influence", "Rocky coast", "Strong marine currents", "Historical location"]
+    }, image: "/poi-images/ras-xaafuun-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Saisonales Wasser", "Wichtig für Nomaden", "Trockenlandschaft", "Oft staubig"],
+      hu: ["Szezonális víz", "Fontos a nomádoknak", "Száraz táj", "Gyakran poros"],
+      ro: ["Apă sezonieră", "Important pentru nomazi", "Peisaj arid", "Deseori prăfuit"],
+      en: ["Seasonal water", "Important for nomads", "Arid landscape", "Often dusty"]
+    }, image: "/poi-images/burao-valley-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Steilküste", "Tiefes Wasser", "Schiffahrtsroute", "Windig"],
+      hu: ["Meredek part", "Mély víz", "Hajózási útvonal", "Szeles"],
+      ro: ["Coastă abruptă", "Apă adâncă", "Rută de navigație", "Vântos"],
+      en: ["Steep coast", "Deep water", "Shipping route", "Windy"]
+    }, image: "/poi-images/gardafui-coast-nature-v2.webp",
+    descriptionAdvanced: {
+--
+      de: ["Trockensteppe", "Nomadenweiden", "Sehr flach", "Sandig"],
+      hu: ["Száraz sztyepp", "Nomád legelők", "Nagyon lapos", "Homokos"],
+      ro: ["Stepă aridă", "Pășuni nomade", "Foarte plat", "Nisipos"],
+      en: ["Dry steppe", "Nomadic pastures", "Very flat", "Sandy"]
+      },
+    descriptionAdvanced: {

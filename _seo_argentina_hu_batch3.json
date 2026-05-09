@@ -1,0 +1,289 @@
+{
+  "lang": "hu",
+  "country": "argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-u-esquel-cities-v2",
+      "descriptionAdvanced": "Esquel a chubuti Andok nyugati peremén fekvő bájos hegyi város, amely 1906-os alapítása óta fontos turisztikai és kereskedelmi csomópont. A település világszerte ismert a „La Trochita” (Old Patagonian Express) nevű történelmi gőzmozdonyos vasútról, amely Patagónia egyik legnépszerűbb ipari műemléke. Esquel kapuként szolgál a Los Alerces Nemzeti Park felé, amely UNESCO Világörökség részét képező évezredes erdőiről és kristálytiszta tavairól híres. Télen a közeli La Hoya síközpont vonzza a sportolni vágyókat, míg nyáron a hegyi túrázás és a horgászat dominál. A városban harmonikusan keveredik a walesi alapítók öröksége az andoki kultúrával, nyugalmat és kalandot kínálva az ide látogatóknak.",
+      "factsAdvanced": [
+        "1906. február 25-én alapították.",
+        "A La Trochita történelmi kisvasút végállomása.",
+        "A Los Alerces Nemzeti Park fő bejárata a közelben van.",
+        "Itt található a La Hoya síközpont, amely hosszan tartó hóminőségéről híres.",
+        "Körülbelül 570 méteres tengerszint feletti magasságban fekszik.",
+        "A város neve a mapuche 'esquel' szóból ered, jelentése bogáncs.",
+        "Fontos walesi és litván bevándorló közösségek élnek itt.",
+        "A régió egyik legfontosabb hegyi turisztikai központja."
+      ]
+    },
+    {
+      "id": "ar-x-cordoba-cities-v2",
+      "descriptionAdvanced": "Córdoba Argentína második legnépesebb városa és egyben az ország kulturális, oktatási szempontú szíve. Az 1573-ban alapított város beceneve „La Docta” (A Tudós), mivel itt jött létre 1613-ban Dél-Amerika egyik legrégebbi egyeteme. A történelmi belvárosban található Jezsuita negyed (Manzana Jesuítica) UNESCO Világörökség részét képezi, lenyűgöző gyarmati építészetével és templomaival. Córdoba ma egy modern metropolisz, ahol a pezsgő diákélet és a lüktető ipar (autógyártás, technológia) találkozik. A várost körülvevő Sierras de Córdoba hegység népszerű pihenőhely, festői völgyeivel és folyóival. A cordobaiak híresek vidám természetükről, sajátos akcentusukról és a „cuarteto” zenei irányzatról, amely a város egyik legfőbb kulturális védjegye.",
+      "factsAdvanced": [
+        "1573-ban alapította Jerónimo Luis de Cabrera.",
+        "A Universidad Nacional de Córdoba az ország legrégebbi egyeteme (1613).",
+        "A Jezsuita negyed 2000 óta az UNESCO Világörökség része.",
+        "Argentína második legnagyobb gazdasági és népességi központja.",
+        "Híres a cuarteto zenéről és a Fernet koktél fogyasztásáról.",
+        "Fontos autóipari központ (Renault, Fiat gyárak).",
+        "A városon keresztül folyik a Suquía folyó.",
+        "Évente itt rendezik meg a nemzetközi színházi fesztivált."
+      ]
+    },
+    {
+      "id": "ar-x-rio-cuarto-cities-v2",
+      "descriptionAdvanced": "Río Cuarto Córdoba tartomány déli részének legfontosabb gazdasági és kulturális központja, amelyet 1786-ban alapítottak a pampa szívében. A város beceneve az „Empire of the South” (A Dél Birodalma), ami meghatározó regionális szerepére utal a mezőgazdasági termelésben, különösen a gabona és a marhatenyésztés területén. A települést a Río Cuarto folyó szeli át, amelynek partján modern pihenőövezetek és parkok alakultak ki. Fontos egyetemi város, ahol a fiatalos lendület keveredik a vidéki Argentína hagyományaival. Építészete a 19. századi polgári stílust és a modern funkcionalizmust ötvözi, legfontosabb közösségi tere a Plaza Roca, ahol a város társadalmi élete összpontosul.",
+      "factsAdvanced": [
+        "1786-ban alapították Concepción del Río Cuarto néven.",
+        "Córdoba tartomány második legfontosabb városa.",
+        "Az ország egyik vezető mezőgazdasági és élelmiszeripari központja.",
+        "Itt található a Universidad Nacional de Río Cuarto (UNRC).",
+        "Beceneve El Imperio del Sur.",
+        "A város központja a Plaza Roca köré szerveződik.",
+        "Jelentős szerepet játszik az argentin földimogyoró-exportban.",
+        "Stratégiai kereskedelmi csomópont a pampák és az Andok között."
+      ]
+    },
+    {
+      "id": "ar-x-villa-maria-cities-v2",
+      "descriptionAdvanced": "Villa María Córdoba tartomány egyik legdinamikusabban fejlődő városa, amely a Tercero folyó partján fekszik. Az 1867-ben alapított település a vasúti közlekedés révén vált fontos kereskedelmi és logisztikai csomóponttá, összekötve a pampák szívét a kikötőkkel. A város ma Argentína egyik vezető tejipari központja, ahol modern feldolgozóüzemek és gazdag mezőgazdasági háttér találkozik. Villa María országos ismertségét a minden évben megrendezett Festival Nacional de Peñas-nak köszönheti, amely a latin-amerikai zene egyik legfontosabb találkozóhelye. A folyóparti sétányok (costanera), a modern egyetemi kampusz és a pezsgő kulturális élet modern, vonzó nagyvárossá teszik a települést.",
+      "factsAdvanced": [
+        "1867. szeptember 27-én alapította Manuel Anselmo Ocampo.",
+        "Itt rendezik meg a rangos Festival Nacional de Peñas-t.",
+        "Argentína egyik legfontosabb tej- és sajttermelő vidéke.",
+        "A Universidad Nacional de Villa María fontos regionális oktatási bázis.",
+        "A várost a Tercero folyó (Río Ctalamochita) szeli át.",
+        "Fontos vasúti és közúti logisztikai központ.",
+        "Különleges, modern városszerkezete és costanerája van.",
+        "Beceneve a „Vidék fővárosa” az agrár súlya miatt."
+      ]
+    },
+    {
+      "id": "ar-x-villa-carlos-paz-cities-v2",
+      "descriptionAdvanced": "Villa Carlos Paz Argentína egyik legnépszerűbb és legmozgalmasabb üdülővárosa, amely a festői San Roque-tó partján, a Sierras de Córdoba hegyei között fekszik. Az 1913-ban alapított város mára a belföldi turizmus egyik fellegvárává vált, különösen híres nyári színházi szezonjáról, amely az ország minden részéből vonzza a látogatókat. A település legismertebb jelképe a hatalmas kakukkos óra (Reloj Cucú), valamint a tavat és a várost összekötő libegő (Aerosilla). Carlos Paz ideális helyszín a vízi sportok, a hegyi túrázás és az éjszakai élet kedvelői számára egyaránt. A modern infrastruktúra, a gyönyörű panoráma és a családi programok bősége miatt egész évben kedvelt úticél.",
+      "factsAdvanced": [
+        "1913. július 16-án alapította Carlos Nicandro Paz.",
+        "A San Roque-tó partján, Punilla-völgyében fekszik.",
+        "Legismertebb szimbóluma a 13 méter magas kakukkos óra.",
+        "Az ország egyik legfontosabb színházi központja a nyári szezonban.",
+        "Libegője (Aerosilla) 1955 óta működik, remek panorámát nyújtva.",
+        "Itt rendezik meg gyakran a Rali-világbajnokság argentin futamait.",
+        "A város népessége a nyári hónapokban többszörösére nő.",
+        "Fontos vízisport-központ (vitorlázás, evezés a tavon)."
+      ]
+    },
+    {
+      "id": "ar-x-san-francisco-cities-v2",
+      "descriptionAdvanced": "San Francisco Córdoba tartomány keleti határán fekvő virágzó ipari és kereskedelmi város, amely szoros kapcsolatban áll a szomszédos Santa Fe tartománnyal. Az 1886-ban alapított település az ország egyik legfontosabb mezőgazdasági gépgyártó és élelmiszeripari központja. A várost eredetileg olasz, főként piemonti bevándorlók alapították, akiknek hatása a mai napig érezhető a helyi kultúrában, a gasztronómiában és az építészetben. San Francisco tágas sugárútjaival, rendezett tereivel és modern oktatási intézményeivel a pampai régió egyik legstabilabb és legélhetőbb városának számít. Stratégiai elhelyezkedése miatt fontos logisztikai pont a közép-argentin kereskedelmi útvonalakon.",
+      "factsAdvanced": [
+        "1886. szeptember 9-én alapította José Bernardo Iturraspe.",
+        "Fontos ipari központ a mezőgazdasági gépgyártásban.",
+        "Erős piemonti olasz gyökerekkel és bevándorlói hagyományokkal bír.",
+        "Córdoba és Santa Fe tartományok határán helyezkedik el.",
+        "A városban található a tartomány egyik legfontosabb technológiai egyeteme.",
+        "Híres a szép, széles sugárútjairól és parkjairól.",
+        "A régió egyik vezető tej- és gabonafeldolgozója.",
+        "A város neoklasszicista stílusú székesegyháza kiemelkedő építmény."
+      ]
+    },
+    {
+      "id": "ar-w-corrientes-cities-v2",
+      "descriptionAdvanced": "Corrientes Argentína egyik legrégebbi és legkarakteresebb történelmi városa, amelyet 1588-ban alapítottak a Paraná folyó kanyarulatában. A település a „Hét Áramlat Városa” néven ismert, utalva a folyó itt kialakuló sodrásaira. Corrientes mélyen gyökerezik a guaraní és a spanyol kultúra keveredésében, ami megmutatkozik a népzenében (chamamé), a gasztronómiában és abban is, hogy a guaraní a tartomány hivatalos társnyelve. A város híres látványos karneváljáról és a folyóparti sétányáról (Costanera), amely az ország egyik legszebbje. Történelmi központja a gyarmati házakkal, a neoklasszicista kormányzati épületekkel és a dús, szubtrópusi növényzettel egyedülálló, marasztaló hangulatot áraszt.",
+      "factsAdvanced": [
+        "1588. április 3-án alapították, az ország egyik legősibb városa.",
+        "A Paraná folyó partján fekszik, szemben Resistencia városával.",
+        "A chamamé népzene és tánc bölcsője és központja.",
+        "Itt rendezik meg Argentína egyik legrégebbi és legnagyobb karneválját.",
+        "A General Belgrano híd köti össze Chaco tartománnyal.",
+        "A guaraní nyelv hivatalos státuszt élvez a tartományban.",
+        "Híres a costanerájáról, amely a város közösségi életének központja.",
+        "A város neve a folyó hét áramlatára (siete corrientes) utal."
+      ]
+    },
+    {
+      "id": "ar-w-goya-cities-v2",
+      "descriptionAdvanced": "Goya Corrientes tartomány második legnagyobb városa, amely a Paraná folyó mentén, egy termékeny mezőgazdasági vidéken fekszik. A település nevét Gregoria „Goya” Oliveráról kapta, aki egykor egy híres fogadót vezetett a folyóparton. Goya országos hírnevét elsősorban a sporthorgászatnak köszönheti: minden évben itt rendezik meg a nemzetközi Surubí Fesztivált, amely a világ egyik legnagyobb édesvízi horgászversenye. A város gazdasága hagyományosan a dohánytermesztésre épült, de ma már a turizmus és a kereskedelem is meghatározó. Történelmi belvárosa a neoklasszicista bazilikával és a folyami kikötő nyugodt ritmusával a vidéki Argentína egyik leghangulatosabb állomása.",
+      "factsAdvanced": [
+        "Hivatalosan 1852-ben kapott városi rangot.",
+        "Itt tartják a Fiesta Nacional del Surubí-t, a világ egyik legnagyobb horgászversenyét.",
+        "Corrientes tartomány második legfontosabb gazdasági központja.",
+        "A dohánytermesztés és feldolgozás történelmi központja az országban.",
+        "Nevét egy Gregoria Olivera nevű legendás asszonyról kapta.",
+        "A Paraná folyó egyik fontos természetes kikötőjével rendelkezik.",
+        "A Nuestra Señora del Rosario bazilika a város legszebb épülete.",
+        "Saját repülőtere (Aeropuerto de Goya) biztosítja a kapcsolatot a fővárossal."
+      ]
+    },
+    {
+      "id": "ar-w-paso-de-los-libres-cities-v2",
+      "descriptionAdvanced": "Paso de los Libres egy stratégiai fontosságú határváros az Uruguay folyó partján, amely közvetlen kapcsolatot biztosít Brazíliával. Az 1843-ban alapított település neve a „Szabadok Átkelője” jelentést hordozza, emléket állítva a függetlenségi háborúk egyik hősies mozzanatának. A várost a nemzetközi híd köti össze a brazíliai Uruguaianával, így Argentína egyik legforgalmasabb kereskedelmi és tranzitpontja. Paso de los Libres kulturálisan is különleges helyszín, ahol a folyami hagyományok brazil hatásokkal keverednek, ami leginkább a vidám, szamba-alapú karneválján érezhető. A környező tájra a végtelen rizsföldek és a szarvasmarha-tartás jellemző, igazi mezopotámiai hangulatot árasztva.",
+      "factsAdvanced": [
+        "1843. szeptember 12-én alapította Joaquín Madariaga.",
+        "Az Uruguay folyó partján fekvő kulcsfontosságú határváros.",
+        "A Getúlio Vargas-Agustín P. Justo híd köti össze Brazíliával.",
+        "A Mercosur kereskedelmi forgalmának egyik legfontosabb állomása.",
+        "A karneválja erős brazil hatást mutat (szambaiskolák jelenléte).",
+        "A környék Argentína egyik legfontosabb rizstermelő vidéke.",
+        "Fontos vasúti és közúti logisztikai központ.",
+        "Itt született Arturo Frondizi, Argentína egykori elnöke."
+      ]
+    },
+    {
+      "id": "ar-w-curuzu-cuatia-cities-v2",
+      "descriptionAdvanced": "Curuzú Cuatiá egy történelmi jelentőségű város Corrientes tartomány déli részén, amelyet Manuel Belgrano tábornok alapított 1810-ben a függetlenségi háborúk idején. A város neve guaraní nyelven „vésett keresztet” jelent, utalva a korai misszionáriusok tevékenységére a vidéken. Curuzú Cuatiá a tartományi állattenyésztés egyik fellegvára, híres hatalmas estanciáiról és a hagyományos gaucho kultúra megőrzéséről. A város építészete a 19. századi vidéki városok báját idézi, tágas tereivel és koloniális stílusú házaival. Mint „a chamamé bölcsője”, fontos kulturális központ is, ahol a népzene és a néptánc a mindennapi élet szerves részét képezi, különösen a helyi fesztiválok idején.",
+      "factsAdvanced": [
+        "1810. november 16-án alapította Manuel Belgrano tábornok.",
+        "A város neve guaraní eredetű, jelentése vésett kereszt.",
+        "Corrientes tartomány egyik legfontosabb szarvasmarha-tenyésztő központja.",
+        "A tartomány déli részének fontos vasúti és közúti csomópontja.",
+        "Híres a gaucho hagyományokról és a népi hímzésművészetéről.",
+        "Különleges vallási és népzenei fesztiválok helyszíne.",
+        "A Plaza San Martín a város történelmi magja.",
+        "A környéken számos patinás argentin estancia (nagybirtok) található."
+      ]
+    },
+    {
+      "id": "ar-e-parana-cities-v2",
+      "descriptionAdvanced": "Paraná Entre Ríos tartomány fővárosa, amely méltóságteljesen magasodik a Paraná folyó keleti partján. Az 1730-ban alapított város rövid ideig, 1853 és 1861 között az Argentin Konföderáció fővárosa is volt, ami gazdag történelmi és építészeti örökséget hagyott hátra. A település híres gyönyörű folyóparti sétányáról (Costanera) és dombos parkjairól, mint például a Parque Urquiza, ahonnan lélegzetelállító kilátás nyílik a folyóra és a szigetekre. Parana és a szomszédos Santa Fe városa között a Hernandarias alagút biztosítja a kapcsolatot a folyó alatt, ami egyedülálló mérnöki megoldás a régióban. A város egyszerre kínál nyugodt folyóparti életmódot, jelentős kulturális életet és fontos közigazgatási központot.",
+      "factsAdvanced": [
+        "1730-ban alapították Bajada del Paraná néven.",
+        "1853 és 1861 között az Argentin Konföderáció fővárosa volt.",
+        "Entre Ríos tartomány közigazgatási és kulturális székhelye.",
+        "A Hernandarias alagút köti össze a szomszédos Santa Fe várossal.",
+        "A Parque Urquiza az ország egyik legszebb városi parkja.",
+        "Híres a „Hét Domb Városa” (Ciudad de las Siete Colinas) elnevezésről.",
+        "Fontos oktatási központ, több egyetem székhelye.",
+        "A folyóparti sétánya (Costanera) több kilométer hosszan húzódik."
+      ]
+    },
+    {
+      "id": "ar-e-concordia-cities-v2",
+      "descriptionAdvanced": "Concordia az Uruguay folyó partján fekvő vibráló város, Entre Ríos tartomány második legfontosabb települése. Az 1832-ben alapított város Argentína egyik vezető citrusfélék-termelő vidéke, narancs- és mandarinültetvényei világszerte ismertek. Concordia stratégiai jelentőségét a közeli Salto Grande vízierőmű adja, amely nemcsak energiát termel, hanem egyben közúti és vasúti kapcsolatot is biztosít Uruguay felé. A város híres termálfürdőiről, amelyek egész évben vonzzák a kikapcsolódni vágyókat, valamint történelmi parkjairól, mint a Castillo San Carlos, ahol egykor Antoine de Saint-Exupéry is megfordult. A folyó közelsége, a gazdag növényzet és a határ menti kereskedelem egyedülálló, dinamikus légkört kölcsönöz a városnak.",
+      "factsAdvanced": [
+        "1832. november 29-én alapították.",
+        "Entre Ríos tartomány második legnépesebb városa.",
+        "Az ország egyik legfontosabb citrusfélék-termelő központja.",
+        "Itt található a hatalmas Salto Grande vízierőmű és gát.",
+        "Híres gyógyhatású termálfürdő-komplexumairól.",
+        "A Castillo San Carlos romjai Antoine de Saint-Exupéry emlékét őrzik.",
+        "Fontos határátkelőhely Uruguay (Salto városa) felé.",
+        "A város környéke a sporthorgászat (arany durbincs) fellegvára."
+      ]
+    },
+    {
+      "id": "ar-e-gualeguaychu-cities-v2",
+      "descriptionAdvanced": "Gualeguaychú Entre Ríos tartomány déli részének legvidámabb városa, amelyet világszerte az „argentin karnevál fővárosaként” ismernek. Minden nyáron a város Corsódromoja ad otthont az ország legnagyobb szabadtéri ünnepségének, ahol látványos jelmezek és ritmikus szamba-dobolás tölti meg az éjszakákat. A Gualeguaychú folyó partján fekvő város azonban nemcsak a bulizásról szól: népszerű folyóparti strandjai és gyógyvizes termálfürdői miatt a pihenésre vágyók körében is kedvelt úticél. A település a 2000-es években nemzetközi figyelmet kapott környezetvédelmi mozgalmai miatt is. Gualeguaychú egyszerre kínál pezsgő kulturális élményt, természetközeli kikapcsolódást és egy barátságos, jellegzetesen mezopotámiai városi hangulatot.",
+      "factsAdvanced": [
+        "1783-ban alapította Tomás de Rocamora spanyol tisztviselő.",
+        "Itt rendezik meg Argentína legnagyobb és leghíresebb karneválját.",
+        "A Corsódromo de Gualeguaychú 30 000 néző befogadására alkalmas.",
+        "Fontos turisztikai célpont termálfürdői és folyóparti strandjai miatt.",
+        "Az 1. számú nemzeti út mentén, Buenos Aires közelében fekszik.",
+        "A környező tájra a galériaerdők és a gazdag madárvilág jellemző.",
+        "A város gazdaságát a turizmus mellett a mezőgazdaság hajtja.",
+        "Híres az „Ablak az Uruguay folyóra” nevű kilátópontjáról."
+      ]
+    },
+    {
+      "id": "ar-e-concepcion-del-uruguay-cities-v2",
+      "descriptionAdvanced": "Concepción del Uruguay Entre Ríos tartomány egyik legtörténelmibb városa, amelyet a „Kultúra Városának” is neveznek. Az 1783-ban alapított település kulcsszerepet játszott Argentína megalakulásában, hiszen itt élt és kormányzott Justo José de Urquiza tábornok, az ország első alkotmányos elnöke. A város főterén álló bazilika és az ország egyik legrégebbi középiskolája (Colegio del Uruguay) a nemzeti örökség fontos részei. Concepción ma egy modern oktatási és kikötőváros az Uruguay folyó partján, ahol a történelmi emlékek mellett a pezsgő egyetemi élet és a folyóparti strandok határozzák meg a mindennapokat. A közeli Palacio San José, Urquiza egykori fényűző rezidenciája, ma az ország egyik legfontosabb múzeuma.",
+      "factsAdvanced": [
+        "1783. június 25-én alapította Tomás de Rocamora.",
+        "Justo José de Urquiza tábornok és elnök politikai bázisa volt.",
+        "Itt található a Colegio del Uruguay (1849), az ország egyik első világi iskolája.",
+        "Fontos folyami kikötővel rendelkezik az Uruguay folyón.",
+        "A közeli Palacio San José az ország egyik leglátványosabb történelmi kastélya.",
+        "A város beceneve „La Histórica” gazdag múltja miatt.",
+        "Híres az Isla del Puerto nevű folyóparti sétányáról és strandjáról.",
+        "Az Entre Ríos-i Nemzeti Egyetem (UNER) egyik székhelye."
+      ]
+    },
+    {
+      "id": "ar-p-formosa-cities-v2",
+      "descriptionAdvanced": "Formosa a Paraguay folyó partján fekvő szubtrópusi tartományi főváros, amely Argentína távoli északkeleti sarkában található. Az 1879-ben alapított város neve a spanyol „formosa” (szép) szóból ered, utalva a folyóparti táj buja szépségére. A város modern arculatát széles sugárutak, sűrű trópusi növényzet és a folyó mentén húzódó, látványos sétány (Costanera) határozza meg, amely a helyiek kedvenc találkozóhelye. Formosa fontos kapu a Gran Chaco vidékére, ahol a természet érintetlensége és az őslakos közösségek (toba, wichí) kulturális jelenléte különleges karaktert ad a régiónak. A párás, meleg éghajlat és a folyó közelsége miatt a város élete lassabb, barátságosabb ritmusban zajlik, távol a nagy metropoliszok zajától.",
+      "factsAdvanced": [
+        "1879. április 8-án alapította Luis Jorge Fontana parancsnok.",
+        "Formosa tartomány közigazgatási és politikai központja.",
+        "A Paraguay folyó partján, a paraguayi határ mentén fekszik.",
+        "Neve a régi spanyol/portugál 'fermosa' (gyönyörű) szóból származik.",
+        "Szubtrópusi nedves éghajlat jellemzi, gyakori esőkkel és hőséggel.",
+        "A Costanera de Formosa az ország egyik legmodernebb folyóparti sétánya.",
+        "Környékén található a Laguna Blanca Nemzeti Park.",
+        "Fontos mezőgazdasági központ (gyapot, szarvasmarha, déligyümölcsök)."
+      ]
+    },
+    {
+      "id": "ar-p-clorinda-cities-v2",
+      "descriptionAdvanced": "Clorinda Formosa tartomány második legnépesebb városa és Argentína egyik legfontosabb északkeleti határállomása. A Pilcomayo folyó mentén fekvő város közvetlen kapcsolatot biztosít a paraguayi fővárossal, Asunciónnal, amivel élénk kereskedelmi és kulturális csomóponttá vált. Az 1899-ben alapított település élete a határon átnyúló forgalom és a nemzetközi logisztika körül forog, ahol az argentin és a paraguayi hatások szinte elválaszthatatlanul összefonódnak. Clorinda a szubtrópusi síkság közepén fekszik, környékére a dús növényzet és a vizes élőhelyek jellemzőek. A város mozgalmas piacai, multikulturális légköre és tranzit szerepe miatt a régió egyik legdinamikusabb pontja.",
+      "factsAdvanced": [
+        "1899. december 5-én alapították egy nagybirtok központjaként.",
+        "A nemzetközi San Ignacio de Loyola híd köti össze Paraguayjal.",
+        "Formosa tartomány második legfontosabb gazdasági központja.",
+        "Stratégiai tranzitpont Asunción (Paraguay fővárosa) felé.",
+        "Éghajlata nedves szubtrópusi, gyakori áradásokkal a Pilcomayo folyón.",
+        "Erős kereskedelmi és vámügyi jelenlét jellemzi.",
+        "Kulturálisan erősen kötődik a paraguayi hagyományokhoz és a guaraní nyelvhez.",
+        "A környék gazdag madárvilágáról és trópusi növényzetéről ismert."
+      ]
+    },
+    {
+      "id": "ar-y-san-salvador-de-jujuy-cities-v2",
+      "descriptionAdvanced": "San Salvador de Jujuy Argentína legészakibb tartományi fővárosa, amely az Andok hegyei között, a Grande és a Xibi Xibi folyók találkozásánál fekszik. Az 1593-ban alapított város 1250 méteres magasságban található, és kapuként szolgál a világhírű Quebrada de Humahuaca völgy felé. A település gyarmati építészete, a Plaza Belgrano körüli történelmi épületek és a dús andoki növényzet egyedülálló, misztikus hangulatot kölcsönöznek a városnak. Jujuy lakói büszkén őrzik őslakos örökségüket és a függetlenségi háborúk emlékeit, különösen az „Éxodo Jujeño” hőstettét. A város egyszerre modern közigazgatási központ és egy olyan hely, ahol a természet közelsége és az andoki spiritualitás minden utcasarkon érezhető.",
+      "factsAdvanced": [
+        "1593. április 19-én alapította Francisco de Argañarás y Murguía.",
+        "Beceneve „La Tacita de Plata” (Az ezüst csészécske) fekvése miatt.",
+        "1259 méteres tengerszint feletti magasságban található.",
+        "A Quebrada de Humahuaca (UNESCO Világörökség) déli bejárata.",
+        "Itt található a történelmi Cabildo és a gyönyörű katedrális.",
+        "Híres az „Éxodo Jujeño” (Jujuy-i kivonulás) nevű történelmi eseményről.",
+        "A tartomány közigazgatási, kulturális és egyetemi központja.",
+        "Környéke gazdag ásványkincsekben (különösen lítiumban és ezüstben)."
+      ]
+    },
+    {
+      "id": "ar-y-san-pedro-de-jujuy-cities-v2",
+      "descriptionAdvanced": "San Pedro de Jujuy a tartomány második legnépesebb városa, amely a meleg és termékeny San Pedro-völgyben, az úgynevezett „Ramal” övezetben fekszik. A település fejlődését a 19. század végén a cukornád-termesztés és a hatalmas cukorgyárak (mint a La Esperanza) alapozák meg, amelyek máig a helyi gazdaság motorjai. San Pedro híres színes karneváljairól, amelyek az andoki és a trópusi hagyományok különleges keverékét mutatják be. A város éghajlata sokkal melegebb és párásabb, mint a hegyvidéki Jujuyé, ami lehetővé teszi a trópusi gyümölcsök és a dohány termesztését is. Mint fontos kereskedelmi és közlekedési csomópont, San Pedro élettel teli, dolgos város, amely hidat képez a magashegység és az alföldi síkságok között.",
+      "factsAdvanced": [
+        "1883-ban alapították a cukornád-ültetvények központjaként.",
+        "Jujuy tartomány második legfontosabb városa.",
+        "Az ország egyik legfontosabb cukortermelő vidéke.",
+        "Híres a trópusi jellegű, többhetes karneváljáról.",
+        "A San Pedro-völgyben fekszik, párás, meleg éghajlaton.",
+        "Fontos dohány-, citrus- és zöldségtermesztő központ.",
+        "A La Esperanza cukorgyár történelmi és gazdasági szimbólum.",
+        "Stratégiai pont a 34-es nemzeti út mentén."
+      ]
+    },
+    {
+      "id": "ar-y-palpala-cities-v2",
+      "descriptionAdvanced": "Palpalá Jujuy tartomány ipari szíve, amely közvetlenül a főváros mellett fekszik. A város sorsa szorosan összefonódott az 1940-es években alapított Altos Hornos Zapla acélművel, amely Argentína első integrált acélgyára volt, és évtizedekig meghatározta a település növekedését és identitását. Palpalá ma egy dinamikus város, amely próbálja összehangolni ipari örökségét a modern városfejlesztéssel és a zöldterületek kialakításával. A lakosságot eredetileg az ország minden részéből és Európából ide érkező munkások alkották, ami sokszínű közösséget hozott létre. A városban több ipartörténeti múzeum és park emlékeztet a „vas és acél városának” dicső múltjára, miközben fontos regionális szolgáltató központtá vált.",
+      "factsAdvanced": [
+        "1949-ben nyerte el a városi rangot.",
+        "Itt épült fel Argentína első nagy acélműve (Altos Hornos Zapla).",
+        "A tartomány egyik legfontosabb nehépipari központja.",
+        "San Salvador de Jujuy agglomerációjának része.",
+        "Beceneve a „Vas városa” (Ciudad de Hierro).",
+        "A környéken jelentős vasérc-lelőhelyek találhatóak.",
+        "Fontos oktatási és technológiai központ a régióban.",
+        "Itt található az ország egyik legmodernebb ipari parkja."
+      ]
+    },
+    {
+      "id": "ar-l-santa-rosa-cities-v2",
+      "descriptionAdvanced": "Santa Rosa La Pampa tartomány fővárosa, amely pontosan az ország földrajzi szívében, a végtelen pampák és a patagóniai bozótos találkozásánál fekszik. Az 1892-ben alapított város a modern várostervezés mintapéldája: tágas utcák, rendezett parkok és alacsony épületek jellemzik, nyugalmat és biztonságot árasztva. Santa Rosa fontos közigazgatási és kulturális központ, ahol a Universidad Nacional de La Pampa vibráló diákéletet biztosít. A város legismertebb pihenőhelye a Laguna Don Tomás, ahol vízi sportok és zöldövezeti kikapcsolódás várja a helyieket. Mint a pampai gazdálkodás és állattenyésztés egyik legfőbb bázisa, Santa Rosa a vidéki Argentína büszke és fejlődő arcát mutatja meg az utazónak.",
+      "factsAdvanced": [
+        "1892. április 22-én alapította Tomás Mason.",
+        "La Pampa tartomány közigazgatási és kulturális fővárosa.",
+        "A pampai és a patagóniai tájegység határán fekszik.",
+        "A Laguna Don Tomás a város legnépszerűbb rekreációs parkja.",
+        "Fontos mezőgazdasági központ, különösen a marhatenyésztésben.",
+        "Itt található a tartományi művészeti múzeum és több rangos színház.",
+        "A város rajza szabályos, tágas sugárutakkal rendelkezik.",
+        "Beceneve „A Pampa kapuja” (Portal de la Pampa)."
+      ]
+    }
+  ]
+}

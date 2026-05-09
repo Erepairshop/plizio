@@ -1,0 +1,57 @@
+{
+  "lang": "de",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kabwe-region-nature-v2",
+      "descriptionAdvanced": "Die Region Kabwe liegt im Herzen Sambias und ist durch eine abwechslungsreiche Landschaft aus Miombo-Wäldern und offenen Ebenen geprägt. Die Region spielt eine zentrale Rolle bei der Erhaltung der lokalen Flora und Fauna, da sie wichtige Übergangszonen zwischen verschiedenen Ökosystemen beherbergt. Charakteristisch sind die ausgedehnten, lichtdurchfluteten Wälder, die zahlreichen Tierarten Schutz und Nahrung bieten. Auch wenn die Umgebung von menschlichen Aktivitäten beeinflusst ist, finden sich noch viele naturbelassene Bereiche, die den natürlichen Charakter des sambischen Zentralplateaus widerspiegeln und für die lokale Biodiversität von großer Bedeutung sind.",
+      "factsAdvanced": [
+        "Gelegen in der ökologisch bedeutenden Zentralregion Sambias",
+        "Dominante Vegetation sind die lichtreichen Miombo-Wälder",
+        "Wichtige Übergangszone für verschiedene afrikanische Ökosysteme",
+        "Lebensraum für eine Vielzahl kleinerer Säugetiere",
+        "Prägt das Bild des zentralen sambischen Plateaus",
+        "Bedeutsam für die Erhaltung lokaler Artenvielfalt"
+      ]
+    },
+    {
+      "id": "lake-chambeshi-nature-v2",
+      "descriptionAdvanced": "Der Chambeshi-Fluss gilt geographisch als der am weitesten entfernte Quellfluss des gesamten riesigen Kongobeckens. Er windet sich in einem spektakulären, komplexen Labyrinth aus Sümpfen und Wasserwegen durch den Nordosten Sambias, bevor er schließlich in die Bangweulusümpfe mündet. Diese entlegene Flussregion bildet ein einzigartiges und weitgehend unberührtes Ökosystem, das nur schwer zugänglich ist und somit Rückzugsmöglichkeiten für seltene Tierarten bietet. Die hydrologische Bedeutung des Chambeshi-Systems ist enorm, da es die Grundlage für die riesigen Feuchtgebiete weiter flussabwärts bildet.",
+      "factsAdvanced": [
+        "Entfernter Quellfluss des gesamten Kongobeckens",
+        "Länge des Flusslaufs beträgt rund 480 Kilometer",
+        "Bildet ein hochkomplexes Labyrinth aus Sümpfen",
+        "Weitgehend unberührtes und entlegenes Ökosystem",
+        "Hydrologisches Fundament für die Bangweulusümpfe",
+        "Schwierig zu erschließende Flusslandschaft"
+      ]
+    },
+    {
+      "id": "malawi-lake-zambia-nature-v2",
+      "descriptionAdvanced": "Die Region am Malawisee-Rand im Osten Sambias ist geprägt von einer hügeligen Landschaft und einer reichhaltigen Vegetation, die eng mit dem klimatischen Einfluss des benachbarten Malawisees verbunden ist. Die Gebiete dienen als wichtige Pufferzone zwischen dem sambischen Hochland und den tiefer gelegenen Regionen am See. Hier findet man eine hohe Dichte an natürlicher Flora, die sich an die spezifischen klimatischen Bedingungen dieser Grenzzone angepasst hat. Es ist ein landschaftlich reizvoller Bereich, der die enge ökologische Vernetzung zwischen Sambia und dem Nachbarland Malawi unterstreicht und einen wichtigen Lebensraum für diverse Pflanzenarten bildet.",
+      "factsAdvanced": [
+        "Grenznahe Region zum Malawisee im Osten Sambias",
+        "Geographisch durch eine hügelige Landschaft definiert",
+        "Hohe klimatische Abhängigkeit vom nahegelegenen See",
+        "Bedeutende ökologische Pufferzone im Grenzgebiet",
+        "Reichhaltige Vegetation angepasst an lokales Mikroklima",
+        "Landschaftlich reizvolle und vielfältige Naturzone"
+      ]
+    },
+    {
+      "id": "lungwebungu-river-nature-v2",
+      "descriptionAdvanced": "Der Lungwebungu-Fluss ist ein bedeutender Nebenfluss des Sambesi im westlichen Sambia und durchfließt weite, unberührte Landschaften. Der Fluss ist bekannt für seine natürlichen Wasserstandsschwankungen und seinen weitgehend unbeeinflussten Verlauf durch die westlichen Provinzen. Er spielt eine zentrale Rolle bei der Wasserversorgung der dortigen Fauna und trägt entscheidend zur ökologischen Integrität der westlichen Wildnis bei. Aufgrund seiner entlegenen Lage blieb der Flusslauf über Jahrzehnte hinweg weitgehend naturbelassen, was ihn zu einem wichtigen Studienobjekt für die Erhaltung ungestörter hydrologischer Systeme in West-Sambia macht.",
+      "factsAdvanced": [
+        "Großer Nebenfluss des Sambesi in West-Sambia",
+        "Weitgehend unbeeinflusster und naturbelassener Verlauf",
+        "Starke saisonale Schwankungen der Wassermenge",
+        "Zentrale Wasserader für die Tierwelt der Region",
+        "Hohe ökologische Integrität des Flusslaufs",
+        "Bedeutsam für die Erhaltung der westlichen Wildnis"
+      ]
+    }
+  ]
+}

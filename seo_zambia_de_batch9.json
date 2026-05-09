@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chibombo-cities-v2",
+      "descriptionAdvanced": "Chibombo ist eine wichtige Verwaltungs- und Marktstadt in der Zentralprovinz, die als entscheidender Knotenpunkt für landwirtschaftliche Aktivitäten in der umliegenden Region fungiert. Die Stadt profitiert von ihrer unmittelbaren Nähe zu den Hauptverkehrsrouten, was den effizienten Transport von Mais und anderen landwirtschaftlichen Erzeugnissen aus der näheren Umgebung begünstigt. Als essentielles Dienstleistungszentrum bietet Chibombo Zugang zu Bildungseinrichtungen, Gesundheitsvorsorge und einem lebendigen zentralen Marktplatz, der den lokalen Handel ankurbelt. Die wirtschaftliche Entwicklung des Ortes ist untrennbar mit der Produktivität des zentral sambischen Agrarsektors verbunden. Geografie K7 — agrarisch geprägte Handels- und Verwaltungszentren.",
+      "factsAdvanced": ["Administratives Zentrum des Chibombo-Distrikts", "Wichtiger Knotenpunkt für den regionalen Handel mit Getreide", "Strategische Anbindung an die Hauptverkehrswege", "Essentielles Dienstleistungszentrum für ländliche Gebiete", "Höhe: ca. 1.200 Meter", "Zentraler Marktplatz für lokale Erzeugnisse"]
+    },
+    {
+      "id": "nyimba-cities-v2",
+      "descriptionAdvanced": "Nyimba ist eine Stadt in der Ostprovinz, die als wichtige Transitstation entlang der 'Great East Road' eine Schlüsselrolle in der regionalen Logistik spielt. Die Stadt fungiert als Bindeglied für den Fernverkehr zwischen der Hauptstadt und dem östlichen Sambia sowie den benachbarten Regionen. Durch ihre Lage dient Nyimba als Versorgungs- und Rastplatz, der für Transportunternehmen und Reisende unverzichtbar ist. Neben ihrer Funktion als Transitort bietet die Stadt Dienstleistungen für die umliegenden ländlichen Gemeinschaften und trägt zur sozioökonomischen Entwicklung in dieser verkehrsgünstig gelegenen Region bei. Die wirtschaftliche Rolle von Nyimba ist stark auf den Transitverkehr und die lokale Nahversorgung fokussiert. Geografie K7 — wichtige Transit- und Versorgungsorte an Fernstraßen.",
+      "factsAdvanced": ["Wichtiger Transitort an der Great East Road", "Zentraler Versorgungs- und Rastplatz", "Bindeglied für den Fernverkehr im Osten", "Wichtiger Standort der Ostprovinz", "Höhe: ca. 1.050 Meter", "Essentielle Rolle in der regionalen Logistik"]
+    },
+    {
+      "id": "chama-cities-v2",
+      "descriptionAdvanced": "Chama ist eine administrative Stadt in der Muchinga-Provinz, die als zentrales Drehkreuz für die umliegende landwirtschaftlich geprägte Region dient. Die geografische Isolation in diesem Teil Sambias hat die Entwicklung einer eigenständigen lokalen Handels- und Versorgungsstruktur begünstigt, die auf die Bedürfnisse der Bewohner zugeschnitten ist. Die Wirtschaft des Ortes ist weitgehend rural, wobei Chama als Umschlagplatz für landwirtschaftliche Güter fungiert und die notwendigen Dienstleistungen für die umliegende Bevölkerung bereitstellt. Die Stadt ist ein unverzichtbarer Ankerpunkt für den regionalen Handel und die soziale Versorgung in dieser abgelegenen, aber entwicklungsstarken Region. Chama spielt eine zentrale Rolle bei der Stabilität und dem Austausch innerhalb der Muchinga-Provinz. Geografie K7 — administrative Zentren ruraler Regionen.",
+      "factsAdvanced": ["Administratives Zentrum des Chama-Distrikts", "Lage in der Muchinga-Provinz", "Primär agrarisch und rural geprägte Wirtschaftsbasis", "Zentraler Handelsplatz für regionale Agrargüter", "Wichtiger sozialer Ankerpunkt der Region", "Integration über regionale Transportrouten"]
+    },
+    {
+      "id": "luwingu-cities-v2",
+      "descriptionAdvanced": "Luwingu ist eine Stadt in der Nordprovinz, die als administratives und kommerzielles Zentrum für die umliegende Region fungiert. Die Stadt spielt eine wichtige Rolle bei der Bündelung von Dienstleistungen und Handelsaktivitäten für die ländliche Bevölkerung der Nordprovinz. Als Zentrum für den Austausch landwirtschaftlicher Erzeugnisse trägt Luwingu signifikant zur sozioökonomischen Stabilität der Region bei. Die Stadt ist ein Beispiel für ein regionales Versorgungszentrum, das die notwendige Infrastruktur für Bildung, Handel und Verwaltung in einer geografisch ausgedehnten Provinz bereitstellt. Die lokale Wirtschaft profitiert von der stetigen Nachfrage nach Gütern und Dienstleistungen, die Luwingu erfolgreich bedient. Geografie K7 — regionale administrative Versorgungszentren.",
+      "factsAdvanced": ["Administratives und kommerzielles Zentrum", "Wichtige Rolle für die ländliche Bevölkerung der Nordprovinz", "Zentraler Ort für den Austausch agrarischer Güter", "Bereitstellung essenzieller Dienstleistungen", "Höhe: ca. 1.300 Meter", "Wichtiger Service-Standort der Region"]
+    },
+    {
+      "id": "kaputa-cities-v2",
+      "descriptionAdvanced": "Kaputa ist eine entlegene Stadt in der Nordprovinz nahe dem Mweru-Wantipa-See, die besonders für ihre traditionelle Salzgewinnung und ihre Rolle als lokales Handelszentrum bekannt ist. Die abgelegene Lage macht die Stadt zu einem eigenständigen Versorgungszentrum, das die Bedürfnisse der umliegenden Gemeinschaften in dieser naturräumlich beeindruckenden Region erfüllt. Die Wirtschaft von Kaputa basiert auf einer Kombination aus lokalem Handel, der Gewinnung von Salz und anderen landwirtschaftlichen Aktivitäten. Als administrativer Standort spielt der Ort eine essenzielle Rolle für die Anbindung der abgelegenen nördlichen Gebiete an das nationale Versorgungsnetz. Kaputa repräsentiert die Widerstandsfähigkeit und Anpassungsfähigkeit regionaler Handelszentren in geografisch herausfordernden Regionen. Geografie K7 — eigenständige Handelszentren in entlegenen Regionen.",
+      "factsAdvanced": ["Bedeutend für traditionelle Salzgewinnung", "Entlegener Standort in der Nordprovinz", "Wichtiger lokaler Handelsplatz", "Essenzielle Anbindung abgelegener Gebiete", "Höhe: ca. 950 Meter", "Wichtiger administrativer Standort nahe Mweru-Wantipa"]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-anivorano-nature-v2",
+      "descriptionAdvanced": "Der Anivorano-See, auch bekannt als Lac Sacré, ist ein mystischer Ort im Norden Madagaskars, der eng mit den Legenden der Sakalava-Kultur verwoben ist. Das Relief des Sees besteht aus einem kreisförmigen Kraterbecken, das von dichter Vegetation umgeben ist. Der See ist berühmt für seine großen Nilkrokodile, die von der lokalen Bevölkerung als Reinkarnationen ihrer Vorfahren verehrt werden. Es ist streng verboten ('Fady'), den Krokodilen Schaden zuzufügen, und regelmäßig werden rituelle Opferzeremonien abgehalten. Dieser Ort ist ein faszinierendes Beispiel für den gelebten Animismus und den Schutz der Natur durch religiöse Tabus in Madagaskar. Geografie K6 — Sakrale Landschaften und Binnengewässer.",
+      "factsAdvanced": [
+        "Heiliger See der Sakalava in der Region Diana",
+        "Beherbergt eine große Population von Nilkrokodilen",
+        "Krokodile werden als heilige Vorfahren rituell gespeist",
+        "Gelegen in einem geologisch alten Vulkankrater",
+        "Streng geschützt durch lokale kulturelle Tabus (Fady)",
+        "Ort für traditionelle Reinigungsrituale und Gebete",
+        "Umgeben von einem ökologisch wertvollen Trockenwaldgürtel",
+        "Einzigartige Verbindung von biologischem Schutz und Folklore"
+      ]
+    },
+    {
+      "id": "lake-anosy-monument-landmarks-v2",
+      "descriptionAdvanced": "Das Monument am Lac Anosy im Zentrum von Antananarivo ist eine markante Gedenkstätte inmitten der Hauptstadt. Der künstlich angelegte See in Form eines Herzens wurde bereits im 19. Jahrhundert unter König Radama I. geschaffen. Das Monument auf der Insel im See erinnert an die madagassischen Soldaten, die während des Ersten Weltkriegs auf französischer Seite kämpften. Mit seiner von einem Engel gekrönten weißen Säule ist es ein Wahrzeichen der Stadtgeschichte und ein Ort der Stille inmitten der Hektik von Tana. Der See ist zudem für die blühenden Jakaranda-Bäume an seinen Ufern bekannt, die das Stadtbild im Oktober in ein violettes Blütenmeer verwandeln. Geschichte K8 — Gedenkkultur und Stadtplanung.",
+      "factsAdvanced": [
+        "Zentrales Denkmal auf einer künstlichen Insel im Lac Anosy",
+        "Errichtet zur Erinnerung an die Gefallenen des Ersten Weltkriegs",
+        "Der See wurde im 19. Jahrhundert als Wasserreservoir angelegt",
+        "Architektonisch geprägt durch eine Säule mit Engelsstatue",
+        "Befindet sich in unmittelbarer Nähe zum Regierungsviertel",
+        "Berühmt für die Jakaranda-Blüte in den Frühlingsmonaten",
+        "Wichtiger Schauplatz für nationale Gedenkfeiern",
+        "Symbol für die historische Verbindung zwischen Madagaskar und Frankreich"
+      ]
+    },
+    {
+      "id": "lake-itasy-nature-v2",
+      "descriptionAdvanced": "Der Itasy-See ist das viertgrößte Binnengewässer Madagaskars und liegt im vulkanisch geprägten Herzen der Insel. Seine Entstehung verdankt der See einem prähistorischen Lavastrom, der ein Flusstal blockierte und so ein natürliches Becken schuf. Das Relief der Umgebung ist geprägt durch sanfte grüne Hügel, die ehemalige Vulkankegel darstellen. Der See ist ein lebenswichtiges Zentrum für die regionale Binnenfischerei und ein bedeutender Wasserspeicher für die fruchtbaren Ebenen des zentralen Hochlandes. Mit seinen zahlreichen Buchten und den spektakulären Lily-Wasserfällen in der Nähe ist Lac Itasy ein bedeutendes Ziel für den Naturtourismus und die Agrarwirtschaft. Geografie K7 — Vulkanogene Seen und Wassernutzung.",
+      "factsAdvanced": [
+        "Größter vulkanisch entstandener See Madagaskars",
+        "Wichtigstes Fischereizentrum für das zentrale Hochland",
+        "Fläche von ca. 35 km² in einer Höhe von 1.200 Metern",
+        "Entstand durch einen Lavastrom-Staudamm vor ca. 8.000 Jahren",
+        "Umgeben von fruchtbaren Böden für den Gemüseanbau",
+        "Bietet Lebensraum für zahlreiche endemische Wasservögel",
+        "Beliebtes Ausflugsziel für die Bewohner der Hauptstadt",
+        "Wesentlicher Regulator für das lokale Mikroklima"
+      ]
+    },
+    {
+      "id": "lake-tampolo-nature-v2",
+      "descriptionAdvanced": "Der Tampolo-See an der Nordostküste Madagaskars ist Teil eines faszinierenden Netzwerks aus Süßwasserlagunen und Küstenregenwäldern. Gelegen auf der Masoala-Halbinsel, grenzt der See direkt an den Indischen Ozean, getrennt nur durch einen schmalen Waldgürtel. Das Relief ist geprägt durch flache Uferzonen, die nahtlos in dichten Primärwald übergehen, was eine einzigartige ökologische Nische für Lemuren und Wasservögel bildet. Der See dient der lokalen Bevölkerung als wichtige Quelle für Fisch und als Transportweg durch die unwegsame Küstenregion. Tampolo ist ein Paradebeispiel für die unberührte Natur der madagassischen Ostküste und die Dynamik von Küstenökosystemen. Natur K7 — Küstenlagunen und Regenwald-Interaktion.",
+      "factsAdvanced": [
+        "Küstenlagune an der unberührten Masoala-Halbinsel",
+        "Bestandteil des UNESCO-Weltnaturerbes der Regenwälder",
+        "Mischung aus Süßwasser-Ökosystem und Küstenvegetation",
+        "Refugium für den seltenen Roten Vari-Lemuren",
+        "Wichtiger Laichgrund für lokale Fischarten",
+        "Zentrum für ökologische Forschungsstationen im Nordosten",
+        "Bietet Schutz vor der Meeresbrandung für kleine Pirogen",
+        "Symbol für die Artenvielfalt der madagassischen Küstenwälder"
+      ]
+    },
+    {
+      "id": "lake-tsimanampetsotsa-nature-v2",
+      "descriptionAdvanced": "Der Tsimanampetsotsa-See im tiefen Südwesten ist das einzige Salzgewässer Madagaskars und liegt in einem der trockensten Gebiete der Insel. Das Relief besteht aus einem flachen Becken am Fuße einer markanten Kalksteinstufe (Mahafaly-Plateau). Der See ist berühmt für seine milchig-türkise Farbe, die durch den hohen Gehalt an Kalziumsulfat entsteht, und beherbergt große Kolonien von Zwergflamingos. Da der See keinen Abfluss hat, konzentrieren sich die Mineralien und machen ihn zu einem extremen Lebensraum für spezialisierte Arten. Das umliegende Reservat schützt zudem monumentale Baobabs und den bizarren Dornwald, was Tsimanampetsotsa zu einem geologischen und biologischen Highlight des Südens macht. Geografie K8 — Salzseen und Trockengebiets-Hydrologie.",
+      "factsAdvanced": [
+        "Einziger großer Salzsee Madagaskars (Region Atsimo-Andrefana)",
+        "Wichtigstes Brutgebiet für Zwergflamingos auf der Insel",
+        "Geprägt durch das angrenzende Kalkstein-Plateau der Mahafaly",
+        "Das Wasser ist aufgrund hoher Mineralisation ungenießbar",
+        "Beherbergt seltene blinde Höhlenfische in den nahen Karstspalten",
+        "Umgeben von uralten, monumentalen Affenbrotbäumen (Baobabs)",
+        "Feuchtgebiet von internationaler Bedeutung (Ramsar-Stätte)",
+        "Zeugnis der paläoklimatischen Veränderungen im Südwesten"
+      ]
+    },
+    {
+      "id": "lokobe-nature-v2",
+      "descriptionAdvanced": "Das Lokobe-Reservat auf der Insel Nosy Be bewahrt den letzten ursprünglichen Tieflandregenwald der Region. Während der Rest der Insel für den Anbau von Ylang-Ylang und Zuckerrohr gerodet wurde, bietet das steile Relief von Lokobe einen Rückzugsort für bedrohte Endemiten. Besonders bekannt ist der Park für den Mohrenmaki (Eulemur macaco) und eine Vielzahl von Chamäleons und Schlangen. Die dichten Wälder reichen bis direkt an die Küste, wo Korallenriffe auf Granitfelsen treffen. Lokobe ist ein kritisches Ökosystem, das nicht nur die Artenvielfalt schützt, sondern auch als wichtiger Wasserspeicher für die gesamte Insel Nosy Be fungiert. Biologie K7 — Insel-Endemismus und Regenwaldschutz.",
+      "factsAdvanced": [
+        "Einziges streng geschütztes Waldgebiet auf der Insel Nosy Be",
+        "Beherbergt den seltenen Mohrenmaki (Eulemur macaco)",
+        "Geprägt durch massive vulkanische Granitfelsen und dichten Dschungel",
+        "Wichtigster Standort für die herpetologische Forschung im Norden",
+        "Schützt seltene endemische Palmen- und Orchideenarten",
+        "Zentrum für nachhaltigen Ökotourismus und Pirogen-Exkursionen",
+        "Reguliert die Wasserversorgung der umliegenden Dörfer",
+        "Symbol für den Erhalt der ursprünglichen Flora von Nosy Be"
+      ]
+    },
+    {
+      "id": "mahabo-royal-cemetery-history-v2",
+      "descriptionAdvanced": "Der Mahabo-Friedhof bei Morondava ist eine hochheilige Stätte des Sakalava-Volkes und das kulturelle Herz der Menabe-Region. Hier befinden sich die Gräber der Sakalava-Könige, die traditionell mit erotischen Holzskulpturen geschmückt sind, welche den Kreislauf von Leben, Tod und Wiedergeburt symbolisieren. Das Relief der Anlage ist geprägt durch einfache, aber spirituell aufgeladene Grabkonstruktionen inmitten der trockenen Küstenebene. Der Zugang ist strengen Tabus (Fady) unterworfen, und der Ort ist bis heute Schauplatz wichtiger Ahnenzeremonien. Mahabo ist ein eindrucksvolles Beispiel für die Beständigkeit der Sakalava-Traditionen und die Bedeutung der sakralen Grabkunst für die Identität Madagaskars. Geschichte K8 — Sakalava-Dynastien und sakrale Kunst.",
+      "factsAdvanced": [
+        "Bedeutendste königliche Nekropole des Sakalava-Volkes",
+        "Berühmt für die einzigartige erotische Grabkunst aus Holz",
+        "Zentrum der Ahnenverehrung in der Region Menabe",
+        "Liegt in der Nähe der berühmten Baobab-Allee bei Morondava",
+        "Streng geschützte Stätte durch komplexe lokale Tabus (Fady)",
+        "Ort für regelmäßige königliche Reinigungsrituale (Fitampoha)",
+        "Spiegelt den sozialen Status und die Genealogie der Herrscher wider",
+        "Kulturelles Denkmal von nationaler Bedeutung für Madagaskar"
+      ]
+    },
+    {
+      "id": "mahajanga-arab-trading-post-history-v2",
+      "descriptionAdvanced": "Der historische arabische Handelsposten von Mahajanga zeugt von der jahrhundertelangen Verbindung Madagaskars mit der maritimen Seidenstraße des Indischen Ozeans. Gegründet von muslimischen Händlern aus Oman und den Komoren, entwickelte sich Mahajanga zu einem zentralen Knotenpunkt für den Austausch von Sklaven, Elfenbein und Gewürzen. Die Ruinen im Viertel 'Le Vieux Port' zeigen Spuren suksessiver kultureller Einflüsse in der Architektur, insbesondere bei den kunstvoll geschnitzten Holztoren. Dieser Ort markiert den Übergang Madagaskars in ein globales Handelsnetzwerk und den Beginn der multikulturellen Identität der Nordwestküste. Geschichte K7 — Maritimer Handel und islamische Einflüsse.",
+      "factsAdvanced": [
+        "Einer der ältesten muslimischen Handelsplätze an der Westküste",
+        "Strategischer Stützpunkt für Händler aus der Golfregion",
+        "Bekannt für die typische Swahili-Architektur und Holzschnitzereien",
+        "Einstiger Hauptumschlagplatz für den regionalen Karawanenhandel",
+        "Zeugnis der frühen Globalisierung im Indischen Ozean",
+        "Historisches Viertel geprägt durch enge Gassen und alte Moscheen",
+        "Symbol für die multikulturelle Geschichte der Boina-Region",
+        "Bedeutende Stätte für die Erforschung der afro-arabischen Migration"
+      ]
+    },
+    {
+      "id": "mahajanga-coast-nature-v2",
+      "descriptionAdvanced": "Die Küste von Mahajanga am Kanal von Mosambik ist geprägt durch eine dramatische Landschaft aus roten Sandsteinfelsen, Mangrovenwäldern und weiten Sandstränden. Das Relief ist das Ergebnis intensiver Erosion durch den Betsiboka-Fluss, dessen Delta die Küstenlinie ständig verändert. Besonders spektakulär ist der 'Cirque Rouge', ein natürliches Amphitheater aus bunt schimmernden Erosionsrinnen. Die Küstengewässer sind reich an Krustentieren, was die Region zum Zentrum der madagassischen Garnelenindustrie macht. Die Mangrovenwälder dienen als natürlicher Küstenschutz und sind ein kritisches Ökosystem für zahlreiche Seevögel und Fischarten. Geografie K7 — Küstenmorphologie und marine Ökosysteme.",
+      "factsAdvanced": [
+        "Dynamische Küstenlandschaft am Mündungsdelta des Betsiboka",
+        "Bekannt für die spektakulären Sandsteinformationen (Cirque Rouge)",
+        "Haupterzeugungsgebiet für madagassische Zuchtgarnelen",
+        "Geprägt durch ein heißes, trockenes Tropenklima",
+        "Beherbergt weitläufige, geschützte Mangrovengürtel",
+        "Wichtiger Lebensraum für Dugongs und seltene Seeschildkröten",
+        "Beliebtes Ziel für den nationalen Strandtourismus",
+        "Symbol für die Wechselwirkung zwischen Flussfracht und Meeresküste"
+      ]
+    },
+    {
+      "id": "mahajanga-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Mahajanga ist das wirtschaftliche Rückgrat des madagassischen Nordwestens und der zweitwichtigste Exporthafen der Insel. Aufgrund seiner strategischen Lage an der Bombetoka-Bucht dient er als Hauptumschlagplatz für landwirtschaftliche Produkte wie Baumwolle, Tabak und Raffia aus dem Hinterland. Der Hafen leidet unter der massiven Verschlammung durch den Betsiboka-Fluss, was ständige Ausbaggerungen erforderlich macht. Trotz dieser Herausforderungen bleibt er ein vitales Zentrum für den Containerumschlag und die Fischverarbeitung. Der Hafen verbindet Madagaskar mit den Komoren und den Häfen Südostafrikas und ist ein Symbol für die maritime Tradition der Boina-Region. Wirtschaft K7 — Hafenlogistik und internationaler Handel.",
+      "factsAdvanced": [
+        "Zentraler Exporthafen für Agrarprodukte der Boeny-Region",
+        "Wichtigster Stützpunkt für die madagassische Fischereiflotte",
+        "Strategisches Tor zum afrikanischen Festland und den Komoren",
+        "Stark betroffen durch die Sedimentfracht des Betsiboka-Flusses",
+        "Zentrum für den Umschlag von Raffia und Baumwolle",
+        "Wesentlicher Arbeitgeber für die Stadt Mahajanga",
+        "Verfügt über spezielle Anlagen zur Lagerung von Treibstoffen",
+        "Symbol für die jahrhundertealte Handelstradition im Kanal von Mosambik"
+      ]
+    },
+    {
+      "id": "mahajanga-strand-life-v2",
+      "descriptionAdvanced": "Der Strand von Mahajanga, insbesondere der Bereich 'Village Touristique', ist das Zentrum des sozialen Lebens an der Nordwestküste. Während der trockenen Monate verwandelt sich der weitläufige Sandstrand in einen bunten Treffpunkt für Einheimische und Besucher aus dem Hochland. Das Leben hier wird geprägt von Garküchen, die gegrillte Spieße (Masikita) anbieten, und dem geschäftigen Treiben der Pousse-Pousse-Fahrer. Der Strand bietet einen entspannten Kontrast zum hektischen Leben in Antananarivo und ist berühmt für seine spektakulären Sonnenuntergänge über dem Kanal von Mosambik. Er ist ein lebendiges Beispiel für die madagassische Urlaubskultur und den Stolz der Bewohner auf ihre sonnenverwöhnte Stadt. Sozialkunde K5 — Freizeit und lokale Alltagskultur.",
+      "factsAdvanced": [
+        "Beliebteste Flaniermeile der Stadt (Village Touristique)",
+        "Bekannt für seine lebendige Gastronomie am Abend",
+        "Zentrum des innerstaatlichen Tourismus in den Ferienmonaten",
+        "Bietet weite Sandstrände direkt am Kanal von Mosambik",
+        "Berühmt für das Angebot an frischen Meeresfrüchten und Grillspießen",
+        "Wichtiger Ort für kulturelle Veranstaltungen und Konzerte",
+        "Spiegelt das multikulturelle Flair der Hafenstadt wider",
+        "Hauptattraktion für Erholungsuchende aus dem zentralen Hochland"
+      ]
+    },
+    {
+      "id": "mahajanga-zoo-life-v2",
+      "descriptionAdvanced": "Der Zoo von Mahajanga ist eine wichtige Bildungseinrichtung, die sich dem Schutz und der Dokumentation der westmadagassischen Flora und Fauna widmet. Inmitten des tropischen Klimas der Hafenstadt können Besucher hier die Vielfalt der Trockenwald-Endemiten wie Lemuren, Schildkröten und Krokodile aus nächster Nähe erleben. Der Zoo spielt eine zentrale Rolle bei der Sensibilisierung der lokalen Bevölkerung für den Umweltschutz und dient als Forschungsstation für herpetologische Studien. Die Anlage ist oft in den Stadtpark integriert und bietet eine grüne Oase der Ruhe. Für Schulen der Region ist der Zoo ein unverzichtbarer außerschulischer Lernort für Naturkunde. Biologie K6 — Artenschutz und Umweltbildung.",
+      "factsAdvanced": [
+        "Regionales Zentrum für Umweltbildung im Nordwesten",
+        "Fokus auf Tierarten des trockenen Laubwaldes",
+        "Beherbergt seltene madagassische Landschildkröten (Angonoka)",
+        "Wichtiger Standort für die Zucht bedrohter Endemiten",
+        "Bietet Einblicke in die lokale Biodiversität der Boeny-Region",
+        "Beliebtes Ziel für Schulexkursionen zur Naturkunde",
+        "Eingebettet in eine parkähnliche tropische Anlage",
+        "Symbol für das wachsende Bewusstsein für den Naturschutz"
+      ]
+    },
+    {
+      "id": "mahamasina-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Mahamasina-Stadion in Antananarivo ist das nationale Sportzentrum und ein Ort von großer symbolischer Bedeutung für Madagaskar. Am Fuße des Rova-Hügels gelegen, ist es der Hauptschauplatz für Länderspiele der Nationalmannschaft ('Barea') und große Leichtathletik-Wettbewerbe. Über den Sport hinaus dient das Stadion als Bühne für nationale Feiertage, insbesondere die Feiern zum Unabhängigkeitstag am 26. Juni, sowie für politische Großkundgebungen. Der Name 'Mahamasina' bedeutet 'Das, was heilig macht', was auf die historische Funktion des Platzes als Ort der königlichen Investitur hinweist. Heute ist das modernisierte Stadion ein Monument des nationalen Stolzes und der Einheit der Inselnation. Geschichte K8 — Nationalstolz und zeitgenössische Geschichte.",
+      "factsAdvanced": [
+        "Größtes Fußball- und Leichtathletikstadion Madagaskars",
+        "Historischer Ort der Königskrönungen im 19. Jahrhundert",
+        "Zentrum der Unabhängigkeitsfeiern der Republik Madagaskar",
+        "Heimspielstätte der madagassischen Nationalmannschaft (Barea)",
+        "Umfangreich modernisiert im Jahr 2021",
+        "Befindet sich am Fuße des historischen Analamanga-Hügels",
+        "Wichtiger Austragungsort der Indian Ocean Island Games",
+        "Symbol für den Zusammenhalt durch Sport und Tradition"
+      ]
+    },
+    {
+      "id": "maintirano-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Maintirano ist das maritime Eingangstor zum abgelegenen Westen Madagaskars und von entscheidender Bedeutung für die Versorgung der Region Melaky. In einer Gegend, in der Straßenverbindungen oft monatelang durch Schlamm blockiert sind, ist der Hafen die einzige zuverlässige Verbindung für Güter des täglichen Bedarfs. Hier werden vor allem Rinder, Tabak und landwirtschaftliche Erzeugnisse für den Transport nach Mahajanga oder Morondava verladen. Der Hafen ist geprägt von traditionellen Segelbooten (Boutres) und kleinen Frachtern, die die seichten Küstengewässer befahren können. Maintirano symbolisiert die logistischen Herausforderungen und die wirtschaftliche Widerstandsfähigkeit des madagassischen Westens. Wirtschaft K6 — Regionale Versorgung und Logistik.",
+      "factsAdvanced": [
+        "Haupthandelshafen der isolierten Region Melaky",
+        "Zentraler Punkt für den Export von Zebu-Rindern",
+        "Abhängig vom traditionellen Pirogen- und Segelboottransport",
+        "Ermöglicht den Import von Grundnahrungsmitteln und Treibstoff",
+        "Gelegen an einer flachen Küste mit schwieriger Ansteuerung",
+        "Wesentlicher Wirtschaftsfaktor für die Stadt Maintirano",
+        "Tor zu den unerschlossenen mineralischen Ressourcen des Westens",
+        "Beispiel für die Bedeutung der Küstenschifffahrt in Madagaskar"
+      ]
+    },
+    {
+      "id": "makay-massif-relief-v2",
+      "descriptionAdvanced": "Das Makay-Massiv im Südwesten Madagaskars ist eines der spektakulärsten und unzugänglichsten Reliefs der Welt. Es handelt sich um ein gigantisches Labyrinth aus gelbem Sandstein, das über Jahrmillionen durch Erosion in hunderte tiefe Canyons und messerscharfe Grate zerlegt wurde. Dieses 'verlorene Gebirge' wirkt wie eine ökologische Arche Noah, in deren feuchten Tälern isolierte Regenwälder und seltene Tierarten überlebt haben, die im Rest des trockenen Westens längst verschwunden sind. Das Relief ist so komplex, dass es erst vor wenigen Jahrzehnten vollständig kartiert wurde. Makay ist ein Paradebeispiel für orographische Isolation und bietet eine Landschaft von archaischer Wildheit. Geografie K8 — Sandstein-Geomorphologie und Evolution.",
+      "factsAdvanced": [
+        "Eines der am wenigsten erforschten Gebirgsmassive der Insel",
+        "Besteht aus einem weitläufigen Labyrinth von Sandstein-Canyons",
+        "Gilt als ökologisches Refugium für prähistorische Arten",
+        "Erosion hat vertikale Wände von über 200 Metern Tiefe geschaffen",
+        "Wichtigstes Untersuchungsgebiet für die Evolution von Lemuren",
+        "Wasserquellen in den Canyons speisen die Flüsse des Menabe",
+        "Landschaft ist durch extreme Trockenheit und feuchte Oasen geprägt",
+        "Symbol für den Kampf um den Erhalt der letzten Wildnis Madagaskars"
+      ]
+    },
+    {
+      "id": "manakara-kanal-life-v2",
+      "descriptionAdvanced": "Der Canal des Pangalanes bei Manakara ist ein beeindruckendes Beispiel für die Verbindung von Mensch und Wasserlandschaft an der madagassischen Ostküste. Dieser hunderte Kilometer lange künstliche Wasserweg verbindet natürliche Seen und Flüsse parallel zum Indischen Ozean. Für die Menschen in Manakara ist der Kanal die wichtigste Verkehrsader für den Transport von Gewürzen, Fisch und Baumaterialien. Das Leben am Kanalufer ist geprägt durch traditionelle Pirogen, kleine Fischerdörfer und üppige tropische Vegetation. Die Fahrt auf dem Kanal bietet einen entschleunigten Einblick in den Alltag der Betsimisaraka und die Bedeutung der Binnenschifffahrt für die regionale Wirtschaft. Geografie K6 — Künstliche Wasserwege und Transportlogistik.",
+      "factsAdvanced": [
+        "Teil des längsten künstlichen Kanals der Welt (Canal des Pangalanes)",
+        "Wichtigster Transportweg für Pfeffer, Kaffee und Vanille",
+        "Verbindet die Stadt Manakara mit den abgelegenen Küstendörfern",
+        "Geprägt durch ruhiges Süßwasser parallel zur Meeresküste",
+        "Lebensader für die handwerkliche Fischerei im Osten",
+        "Historisch von der französischen Kolonialmacht ausgebaut",
+        "Bietet Schutz vor den gefährlichen Strömungen des Ozeans",
+        "Zentrum für nachhaltigen Flusstourismus in der Region Vatovavy"
+      ]
+    },
+    {
+      "id": "mangoky-river-nature-v2",
+      "descriptionAdvanced": "Der Mangoky ist einer der mächtigsten Flüsse Madagaskars und entwässert weite Teile des südlichen Hochlandes in Richtung Mosambik-Kanal. Das Relief seines Einzugsgebiets umfasst spektakuläre Sandsteinplateaus wie Isalo und trockene Savannen. Der Mangoky ist bekannt für seinen enormen Sedimenttransport und sein sich ständig veränderndes Flussbett, das in der Trockenzeit aus riesigen Sandbänken besteht und in der Regenzeit zu einer gewaltigen Flut anschwillt. Das Mündungsdelta ist eines der größten der Insel und beherbergt wertvolle Mangroven-Ökosysteme. Der Fluss ist eine Lebensader für den Südwesten, da er die Wasserversorgung für die Landwirtschaft in einer extrem trockenen Region sichert. Geografie K8 — Hydrographie und Erosionsprozesse.",
+      "factsAdvanced": [
+        "Längster Fluss im Südwesten Madagaskars (ca. 820 km)",
+        "Entwässert das Andringitra- und das Isalo-Massiv",
+        "Mündet in ein gigantisches Delta bei Morombe",
+        "Hauptlieferant für Sedimente in den südlichen Mosambik-Kanal",
+        "Lebensader für den Bewässerungsfeldbau der Sakalava",
+        "Besitzt eines der dynamischsten Flussbette der Welt",
+        "Wichtiger Lebensraum für das gefährdete Madagaskar-Krokodil",
+        "Symbol für die gewaltigen Wasserkräfte der roten Insel"
+      ]
+    },
+    {
+      "id": "mangoro-river-nature-v2",
+      "descriptionAdvanced": "Der Mangoro ist der bedeutendste Fluss der madagassischen Ostküste und ein zentraler Faktor für das Ökosystem der Regenwälder. Er entspringt im zentralen Hochland bei Moramanga und stürzt über zahlreiche Kaskaden und Stromschnellen durch den dichten Waldgürtel zum Indischen Ozean. Aufgrund seines hohen Gefälles und der konstanten Niederschläge im Osten ist er einer der wasserreichsten Flüsse der Insel. Der Mangoro dient nicht nur der Bewässerung und Fischerei, sondern ist auch ein wichtiges Transportmittel für Tropenhölzer. In seinem Oberlauf ist er zudem ein beliebtes Ziel für Wildwasser-Rafting. Der Fluss symbolisiert die gewaltige Energie der madagassischen Wasserläufe an der feuchten Ostflanke. Geografie K7 — Gebirgsflüsse und Energiepotential.",
+      "factsAdvanced": [
+        "Größtes Flusssystem an der regenreichen madagassischen Ostküste",
+        "Entspringt in der Nähe des Industriestandorts Moramanga",
+        "Führt ganzjährig hohe Wassermengen durch konstante Passatregen",
+        "Wichtigstes Rafting-Gebiet Madagaskars aufgrund zahlreicher Stromschnellen",
+        "Hauptzufluss für das Feuchtgebiets-System der Pangalanes",
+        "Bedeutend für den Abtransport von landwirtschaftlichen Produkten",
+        "Beherbergt eine Vielzahl endemischer Süßwasserfische",
+        "Wesentlicher Akteur bei der Formung der östlichen Küstenebene"
+      ]
+    },
+    {
+      "id": "manongarivo-massif-relief-v2",
+      "descriptionAdvanced": "Das Manongarivo-Massiv im Norden Madagaskars ist ein imposanter Ausläufer der vulkanischen Tsaratanana-Kette. Das Relief zeichnet sich durch schroffe Basaltgipfel und tief eingeschnittene Täler aus, die von dichtem, nebelverhangenem Regenwald bedeckt sind. Aufgrund seiner extremen Steilheit und Unwegsamkeit ist das Massiv eines der am besten erhaltenen Primärwaldgebiete der Insel. Das Gebirge wirkt als Klimascheide und fängt die Feuchtigkeit für den Sambirano-Distrikt ein, was den Anbau von hochwertigem Kakao im Umland ermöglicht. Manongarivo ist ein Paradies für Botaniker und beherbergt Pflanzenarten, die ausschließlich in diesem Gebirgsmikroklima vorkommen. Geografie K8 — Vulkanische Massive und Regenwald-Ökologie.",
+      "factsAdvanced": [
+        "Bedeutendes vulkanisches Massiv in der Region Sambirano",
+        "Höchster Gipfel erreicht knapp 1.900 Meter (Pic Manongarivo)",
+        "Strenges Naturreservat zum Schutz seltener Endemiten",
+        "Wichtigster Wasserspeicher für die Kakao-Plantagen des Nordens",
+        "Geprägt durch steile Abstürze und unzugängliche Gorges",
+        "Heimat des seltenen Sambirano-Mausmakis",
+        "Botanisch wertvoll durch eine hohe Dichte an Orchideen und Farnen",
+        "Symbol für die ökologische Isolation des nördlichen Hochlands"
+      ]
+    },
+    {
+      "id": "maroantsetra-vanille-farm-life-v2",
+      "descriptionAdvanced": "Die Vanille-Farmen rund um Maroantsetra liegen im Herzen der 'Vanille-Küste' Madagaskars. In diesem heißen und extrem feuchten Klima findet die Orchidee Vanilla planifolia ideale Bedingungen. Der Anbau ist extrem arbeitsintensiv, da jede einzelne Blüte von Hand bestäubt werden muss. Nach der Ernte erfolgt ein monatelanger Veredelungsprozess aus Trocknen und Fermentieren, der die Vanille zu einem der kostbarsten Agrarprodukte der Welt macht. Ein Besuch auf einer Farm ermöglicht Einblicke in dieses faszinierende Handwerk und die Bedeutung der Vanille für die madagassische Exportwirtschaft. Maroantsetra ist das Tor zum Weltmarkt für das 'schwarze Gold' der Insel. Wirtschaft K7 — Exportlandwirtschaft und Gewürzproduktion.",
+      "factsAdvanced": [
+        "Madagaskar liefert rund 80 Prozent des weltweiten Vanillebedarfs",
+        "Maroantsetra ist das Zentrum für den Anbau hochwertiger Bourbon-Vanille",
+        "Jede Blüte wird traditionell mit einer feinen Nadel handbestäubt",
+        "Veredelungsprozess dauert bis zu sechs Monate",
+        "Wichtigster Wirtschaftszweig für die Region Analanjirofo",
+        "Die Farmen sind oft in kleine Familienbetriebe gegliedert",
+        "Vanille ist nach wie vor das wertvollste Exportgut Madagaskars",
+        "Zentrum für den fairen Handel mit biologischen Gewürzen"
+      ]
+    },
+    {
+      "id": "marojejy-massif-relief-v2",
+      "descriptionAdvanced": "Das Marojejy-Massiv im Nordosten Madagaskars ist ein monumentales Beispiel für ein kristallines Hochgebirge. Das Relief ist geprägt durch extrem steile Grate, gigantische Granitwände und eine vertikale Zonierung, die vom dichten tropischen Tieflandregenwald bis zur afro-alpinen Tundra auf dem Gipfel (2.132 m) reicht. Diese dramatische Topographie hat eine unglaubliche Biodiversität hervorgebracht, darunter den seltenen Seidensifaka. Marojejy ist für seine unberechenbaren Wetterumschwünge und den ständigen Nebel bekannt, der dem Gebirge eine mystische Atmosphäre verleiht. Es ist ein Paradebeispiel für den Schutz ökologischer Gradienten und gehört zum UNESCO-Weltnaturerbe. Geografie K8 — Hochgebirgsmorphologie und Biodiversitätszentren.",
+      "factsAdvanced": [
+        "Spektakuläres Granitmassiv mit Höhen über 2.000 Metern",
+        "Teil des UNESCO-Weltnaturerbes der Regenwälder von Atsinanana",
+        "Beherbergt vier verschiedene Waldtypen in unterschiedlichen Höhenstufen",
+        "Wichtigster Lebensraum des vom Aussterben bedrohten Seidensifakas",
+        "Relief ist geprägt durch extrem schwieriges und steiles Gelände",
+        "Zentrum für internationale Naturschutzexpeditionen",
+        "Besitzt eine Flora mit extrem hoher Endemismus-Rate",
+        "Symbol für den Reichtum des madagassischen Nordostens"
+      ]
+    },
+    {
+      "id": "maromokotro-peak-relief-v2",
+      "descriptionAdvanced": "Der Maromokotro ist mit 2.876 Metern der höchste Berg Madagaskars und thront über dem Tsaratanana-Massiv im Norden. Das Relief des Berges ist vulkanischen Ursprungs und bildet einen isolierten Gipfel in einer fast unzugänglichen Hochgebirgsregion. Der Aufstieg zum Maromokotro gilt als eine der schwierigsten Expeditionen der Insel, da es keine Infrastruktur gibt und dichte Nebelwälder den Berg umgeben. Von oben bietet sich ein atemberaubender Blick über den Norden bis hin zum Indischen Ozean. Für das Volk der Sakalava ist der Berg ein heiliger Ort, die Wohnstätte der Vorfahren, was seine Besteigung oft mit rituellen Tabus belegt. Er ist der absolute topographische Höhepunkt der Insel. Geografie K8 — Hochgebirgsgeomorphologie und Landeshöhepunkte.",
+      "factsAdvanced": [
+        "Höchster Punkt der Insel Madagaskar (2.876 m)",
+        "Befindet sich im abgelegenen Tsaratanana-Massiv im Norden",
+        "Gipfelregion ist durch vulkanische Basalte und kühle Temperaturen geprägt",
+        "Aufstieg erfordert mehrtägige Expeditionen durch dichten Primärwald",
+        "Gilt als heiliger Sitz der Ahnengeister in der Sakalava-Tradition",
+        "Zentrum für die Erforschung seltener Hochgebirgsvegetation",
+        "Topographisches Wahrzeichen von nationaler Bedeutung",
+        "Die Besteigung ist nur mit speziellen Genehmigungen möglich"
+      ]
+    },
+    {
+      "id": "maromokotro-royal-tombs-history-v2",
+      "descriptionAdvanced": "Die königlichen Gräber am Fuße des Maromokotro sind von höchster spiritueller Bedeutung für die Sakalava-Königtümer des Nordens. Diese sakralen Stätten sind eng mit der Legende des höchsten Berges Madagaskars verbunden, der als Brücke zwischen der Welt der Lebenden und der Ahnen gilt. Die Gräber sind meist schlichte Steinstrukturen, die in der Einsamkeit des Tsaratanana-Massivs verborgen liegen und nur von Eingeweihten und Priestern aufgesucht werden. Sie symbolisieren die göttliche Legitimation der Sakalava-Herrscher durch ihre Verbindung zum 'heiligen Gipfel'. Der Ort ist ein Zentrum ritueller Kraft und ein Zeugnis für die tiefe animistische Verwurzelung der madagassischen Monarchien. Geschichte K8 — Sakrale Monarchie und Ahnenkulte.",
+      "factsAdvanced": [
+        "Heiligste Grabstätten der nördlichen Sakalava-Dynastie",
+        "Eng verbunden mit dem Status des Maromokotro als heiliger Berg",
+        "Ort geheimnisvoller Rituale und jährlicher Ahnenopfer",
+        "Zugang ist durch strenge religiöse Tabus (Fady) reglementiert",
+        "Die Stätten sind archäologische Zeugnisse der Sakalava-Expansion",
+        "Symbol für die Vereinigung von politischer Macht und Religion",
+        "Die Architektur ist betont schlicht und der Natur angepasst",
+        "Wichtiger Punkt zur Bewahrung der mündlichen Überlieferungen des Nordens"
+      ]
+    },
+    {
+      "id": "masoala-nature-v2",
+      "descriptionAdvanced": "Die Natur des Masoala-Nationalparks ist ein biologischer Superlativ und das größte zusammenhängende Schutzgebiet Madagaskars. Der Park umfasst unberührte Regenwälder, die bis zum azurblauen Meer reichen, sowie ausgedehnte Korallenriffe und Mangroven. Diese Vielfalt an Lebensräumen auf der Masoala-Halbinsel beherbergt Arten, die nirgendwo sonst existieren, wie den Roten Vari. In den Buchten des Parks kalben im madagassischen Winter Buckelwale aus der Antarktis. Masoala ist ein Paradebeispiel für ein intaktes tropisches Ökosystem, in dem die Energieflüsse zwischen Land und Meer noch ungestört funktionieren. Der Park ist ein zentrales Monument des globalen Naturschutzes. Biologie K7 — Regenwaldökologie und marine Biodiversität.",
+      "factsAdvanced": [
+        "Größter Nationalpark Madagaskars (über 2.300 km² Landfläche)",
+        "Beherbergt zwei Prozent der weltweiten Artenvielfalt",
+        "Schützt die letzten großen Küstenregenwälder des Indischen Ozeans",
+        "Heimat des streng endemischen Roten Vari (Varecia rubra)",
+        "Umfasst drei geschützte Meeresparks mit intakten Korallenriffen",
+        "Wichtiges Fortpflanzungsgebiet für Buckelwale in der Antongil-Bucht",
+        "Teil des UNESCO-Weltnaturerbes Madagaskars",
+        "Zentrum für Spitzenforschung im Bereich tropischer Biodiversität"
+      ]
+    },
+    {
+      "id": "masoala-peninsula-nature-v2",
+      "descriptionAdvanced": "Die Masoala-Halbinsel im Nordosten ist ein geographisches und biologisches Refugium von weltweiter Bedeutung. Das Relief ist geprägt durch ein zerklüftetes Bergland, das steil in den Indischen Ozean abfällt und die größte Bucht Madagaskars, die Antongil-Bucht, umschließt. Durch die exponierte Lage erhält die Halbinsel enorme Niederschlagsmengen, was den dichten, immergrünen Regenwald nährt. Die Isolation der Halbinsel hat dazu geführt, dass sich hier eine Flora und Fauna entwickeln konnte, die selbst für madagassische Verhältnisse außergewöhnlich ist. Masoala steht für die wilde, ungezähmte Kraft der Natur und ist einer der wenigen Orte, an denen man den Regenwald in seiner ursprünglichen Grandeur erleben kann. Geografie K8 — Halbinsel-Morphologie und Klimaxvegetation.",
+      "factsAdvanced": [
+        "Größte Halbinsel Madagaskars an der Nordostküste",
+        "Geographisches Rückgrat der 'Vanille-Küste'",
+        "Geprägt durch extrem hohe Niederschläge (bis 6.000 mm pro Jahr)",
+        "Letztes großes Rückzugsgebiet für die bedrohte madagassische Fauna",
+        "Relief bildet eine natürliche Barriere gegen Zyklone aus dem Osten",
+        "Beherbergt spektakuläre weiße Sandstrände am Rande des Dschungels",
+        "Wichtiges hydrologisches System für den Nordosten der Insel",
+        "Zentrum des Masoala-Nationalparks und UNESCO-Welterbe"
+      ]
+    }
+  ]
+}

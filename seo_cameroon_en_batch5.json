@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "cameroon",
+  "files": [
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mungo-delta-nature-v2",
+      "descriptionAdvanced": "The Mungo Delta is a dynamic, mangrove-dominated estuarine region in southwestern Cameroon, subject to strong seasonal changes in water levels and flow. This area serves as a critical habitat that plays a significant role in regulating water quality between the river and the wider estuary system. The delta supports a rich array of marine and freshwater species that rely on this unique meeting point for breeding and refuge. Because the delta is constantly reshaped by tidal fluctuations, it is a highly productive biological environment and a vital resource for local fishing communities, ensuring both ecological diversity and food security in the region. Geography K5 — rivers and wetlands.",
+      "factsAdvanced": [
+        "Dynamic, mangrove-dominated estuarine delta region.",
+        "Significantly influenced by seasonal precipitation changes.",
+        "Critical habitat for a variety of aquatic species.",
+        "Serves as a natural regulator for regional water quality.",
+        "Key junction between terrestrial and marine ecosystems.",
+        "Important nursery and breeding ground for maritime species.",
+        "High ecological sensitivity to environmental change."
+      ]
+    },
+    {
+      "id": "buea-forest-nature-v2",
+      "descriptionAdvanced": "The Buea mountain forest, located on the slopes of Mount Cameroon, is a specialized cloud forest ecosystem defined by high air humidity and a cool, temperate microclimate. This forest provides a sanctuary for numerous rare tree species specifically adapted to the mountain climate, making it an essential component of the volcanic mountain's vegetation zone. The ecosystem offers great stability due to its dense cover and unique climatic conditions, serving as an important buffer against climatic shifts in the region. For ecological researchers, it represents a rich laboratory for studying montane flora and the specialized biodiversity that thrives in the volcanic highland environment. Geography K7 — mountain forests.",
+      "factsAdvanced": [
+        "Specialized mountain forest ecosystem on Mount Cameroon slopes.",
+        "Climate defined by high, constant air humidity.",
+        "Central sanctuary for rare tree species adapted to montane climates.",
+        "Essential and integrated component of the mountain vegetation zone.",
+        "Dense ecosystem with significant climatic stability.",
+        "Important ecological buffer against regional climatic shifts.",
+        "Rich biodiversity featuring specialized montane flora."
+      ]
+    },
+    {
+      "id": "manengouba-forest-nature-v2",
+      "descriptionAdvanced": "The forests of the Manengouba Massif are located in the cool highlands of Cameroon and serve as an important natural watershed for the surrounding regions. These largely undisturbed, natural forest areas provide a vital retreat for specialized high-altitude animal and plant species that depend on these stable, high-altitude habitats. As a central regulator for the region's water cycles, the Manengouba forest plays a crucial role in maintaining ecological balance. Its isolated, pristine nature makes it a high-priority area for conservation efforts, ensuring the survival of highland habitats amidst a changing environment. Geography K6 — mountain forests.",
+      "factsAdvanced": [
+        "Natural watershed for the surrounding highland regions.",
+        "Nearly undisturbed, pristine natural forest landscape.",
+        "Vital retreat for specialized high-altitude species.",
+        "Fundamental to the maintenance of regional water cycles.",
+        "High-priority area for regional conservation efforts.",
+        "Characterized by cool, foggy microclimates.",
+        "Stable, ecological habitat for highland species."
+      ]
+    },
+    {
+      "id": "nkam-forest-nature-v2",
+      "descriptionAdvanced": "The Nkam Lowland Forest is a lush, warm, and humid ecosystem, renowned for its monumental trees and dense, multi-layered vegetation structure. It represents a central biotope indispensable for preserving biodiversity in western Cameroon. Unlike many other forests, this area retains a largely pristine character, offering a safe haven where tropical flora and fauna can flourish undisturbed. The ecological significance of the basin is high, as it acts as a reservoir for rare tropical species, demonstrating the stability and complexity of an untouched rainforest. This forest is one of the most important protected areas for understanding the intricate workings of the tropical rainforest system. Geography K5 — rainforests.",
+      "factsAdvanced": [
+        "Lush, warm, and humid lowland rainforest ecosystem.",
+        "Renowned for monumental tree species and complex vegetation.",
+        "Central biotope essential for preserving regional biodiversity.",
+        "Retains a largely pristine and undisturbed character.",
+        "Important reservoir for rare tropical flora and fauna species.",
+        "Serves as a stable, untouched rainforest model.",
+        "Significant protected area for tropical rainforest study."
+      ]
+    },
+    {
+      "id": "sanaga-forest-nature-v2",
+      "descriptionAdvanced": "The riparian forest along the Sanaga River plays a decisive ecological role, acting as a natural protector against erosion while providing a vital habitat for many aquatic bird and reptile species. Its lush vegetation is perfectly adapted to the river's periodic flood cycles, which define the dynamics of the ecosystem. Serving as a protective green corridor, this forest provides shade and structural integrity to the riverbanks, essential for both aquatic life and land-dwelling species that depend on the river for survival. This zone is a testament to the resilience of tropical plants in the face of constant environmental change and remains a key component of the Sanaga’s ecological continuity. Geography K5 — river ecosystems.",
+      "factsAdvanced": [
+        "Ecologically decisive riparian forest zone along the Sanaga.",
+        "Natural protector against erosion along the river course.",
+        "Specialized habitat for many bird and reptile species.",
+        "Lush vegetation adapted to seasonal river flooding.",
+        "Bedeutsamer, shady corridor for riverside wildlife.",
+        "Important buffer for stabilizing riverbanks.",
+        "Rich ecosystem in direct contact with the river flow."
+      ]
+    }
+  ]
+}

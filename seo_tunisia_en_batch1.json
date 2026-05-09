@@ -2,67 +2,67 @@
   "lang": "en",
   "country": "tunisia",
   "files": [
-    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+    "lib/visualLab/data/poiExtraTunisiaLandmarksV2.ts"
   ],
   "items": [
     {
-      "id": "tunis-cities-v2",
-      "descriptionAdvanced": "Tunis, the vibrant capital of Tunisia, serves as the country's primary political, cultural, and economic hub. Located along the Mediterranean coast, it uniquely bridges ancient history with modern urban development. The city's crown jewel is its Medina, a UNESCO World Heritage site known for its labyrinthine alleys and traditional souks. Adjacent to this historic core, the 20th-century 'Ville Nouvelle' showcases French colonial architecture and grand boulevards like the Avenue Habib Bourguiba. Today, Tunis stands as a bustling metropolitan area, central to North African commerce. Geography K6: Students explore the strategic significance and urbanization of major North African capitals.",
+      "id": "tunis-st-vincent-de-paul-landmarks-v2",
+      "descriptionAdvanced": "The Cathedral of St. Vincent de Paul in Tunis stands as a prominent architectural landmark in the capital's modern district (Ville Nouvelle). Completed in 1897 during the French protectorate, this imposing structure features an eclectic mix of Neo-Byzantine, Gothic, and Moorish architectural styles. Positioned strategically opposite the French Embassy on Avenue Habib Bourguiba, it serves as a silent witness to Tunisia's multifaceted colonial history. The cathedral remains the largest surviving Christian church in the country and continues to serve as the seat of the Archbishop of Tunis, making it a critical site for understanding the intersection of Western and Eastern influences in modern Tunisian urban development.",
       "factsAdvanced": [
-        "Population exceeds 1 million inhabitants",
-        "Home to the UNESCO-listed Medina of Tunis",
-        "Political capital since 1956",
-        "Strategic location on the Gulf of Tunis",
-        "Features the famous Avenue Habib Bourguiba",
-        "Connected to the ancient site of Carthage"
+        "Constructed between 1893 and 1897 to honor Saint Vincent de Paul.",
+        "Represents a prime example of 19th-century eclectic colonial architecture.",
+        "Located in the heart of Tunis's modern business and diplomatic district.",
+        "Currently serves as the cathedral seat for the Archbishop of Tunis.",
+        "Notable for its massive façade and intricate interior decorations.",
+        "Remains the largest preserved Christian church in Tunisia today."
       ]
     },
     {
-      "id": "ariana-cities-v2",
-      "descriptionAdvanced": "Ariana is a major northern suburb of Tunis, widely recognized for its high quality of life and lush green spaces. Historically a quiet residential area, it has developed into a bustling part of the Greater Tunis metropolitan region. It is particularly famous for its annual Rose Festival, reflecting the city's strong horticultural traditions. Ariana benefits from excellent connectivity, linking the capital to northern coastal regions, making it a key urban node. Geography K7: The study of suburban growth and urban planning in North African metropolitan centers.",
+      "id": "rades-stade-olympique-landmarks-v2",
+      "descriptionAdvanced": "The Radès Olympic Stadium is the premier sports facility in Tunisia, built specifically to host the 2001 African Games. Boasting a seating capacity of over 60,000, it stands as an architectural symbol of modern Tunisia's aspirations and its integration into the global sporting community. Located near Tunis, this modern stadium is the primary home ground for the Tunisian national football team and serves as a major venue for national and international competitions. Its distinctive roof structure and modern engineering make it a significant landmark in contemporary North African sports infrastructure, highlighting the role of large-scale public projects in urban social development.",
       "factsAdvanced": [
-        "Part of the Greater Tunis metropolitan area",
-        "Famous for the annual Rose Festival",
-        "Known for significant horticultural heritage",
-        "Key administrative and residential hub",
-        "Rapid urban development in the last decades",
-        "Located near the Tunis-Carthage International Airport"
+        "Inaugurated in 2001 for the African Games.",
+        "Official capacity exceeds 60,000 spectators.",
+        "Regarded as one of the most modern sports stadiums in North Africa.",
+        "Serves as the main home ground for the Tunisia national football team.",
+        "Notable for its advanced roof structure and engineering design.",
+        "Acts as a central feature of a much larger Olympic sports complex."
       ]
     },
     {
-      "id": "ben-arous-cities-v2",
-      "descriptionAdvanced": "Ben Arous serves as a vital industrial and residential hub situated south of the capital, Tunis. As an integral part of the Greater Tunis area, it plays a critical role in the country's manufacturing and logistics sectors. The city features a diverse economic landscape, housing many production facilities while providing essential housing for the metropolitan workforce. Its strategic location facilitates easy access to major ports and transport networks, driving local economic growth. Geography K7: Analyzing the industrialization and urbanization processes in the outskirts of major capital cities.",
+      "id": "tunis-cite-culture-landmarks-v2",
+      "descriptionAdvanced": "The City of Culture (Cité de la Culture) in Tunis is the country's most significant contemporary cultural complex, inaugurated in March 2018. Designed as a massive, multifunctional artistic hub, it integrates multiple theaters, an opera house, a cinema center, a national library, and spaces for contemporary art exhibitions under one cohesive, modern roof. Located on Avenue Mohamed V, the complex serves as a critical national platform for Tunisian artists and facilitates international cultural exchanges. Its striking architectural design, which merges modern steel and glass structures with subtle traditional patterns, stands as a testament to modern state-sponsored cultural infrastructure in the heart of the capital.",
       "factsAdvanced": [
-        "Major industrial hub of Greater Tunis",
-        "Essential logistics and manufacturing center",
-        "High concentration of production facilities",
-        "Part of the southern suburban belt",
-        "Strategic proximity to Rades port",
-        "Rapidly growing residential population"
+        "Officially opened to the public on March 21, 2018.",
+        "Covers an expansive total area of 9 hectares.",
+        "Houses three large, high-capacity theater stages.",
+        "Includes a dedicated museum for modern and contemporary art.",
+        "Architectural design blends modern steel structures with traditional motifs.",
+        "Features a highly prominent location on Avenue Mohamed V."
       ]
     },
     {
-      "id": "manouba-cities-v2",
-      "descriptionAdvanced": "Manouba, situated just west of Tunis, is a significant administrative and educational center within the national capital region. Home to the prestigious University of Manouba, the area has a youthful and dynamic character, shaped by academic activity and growing service industries. The city also maintains rich agricultural roots, with areas still dedicated to traditional farming despite recent urbanization. Its unique blend of academic life, history, and rural development defines its modern identity. Geography K7: Understanding the role of educational institutions and service sectors in urban development.",
+      "id": "tunis-uhrenturm-landmarks-v2",
+      "descriptionAdvanced": "The Clock Tower of Tunis, located in the bustling Place du 14 Janvier, is a defining landmark of the modern Tunisian capital. Erected in 2001 as part of broader urban modernization efforts, this delicate, 30-meter-tall steel structure stands at the eastern end of the iconic Avenue Habib Bourguiba, visually marking the transition between the historical medina and the modern city. Its unique futuristic design has made it a favorite photo spot for tourists and a central meeting point for residents, symbolizing the country's progress and constant evolution in the 21st century.",
       "factsAdvanced": [
-        "Home to the University of Manouba",
-        "Key administrative district of Greater Tunis",
-        "Retains pockets of traditional agricultural heritage",
-        "Significant educational and research hub",
-        "Rapid transition from rural to urban land use",
-        "Located at the western gate of the capital"
+        "Constructed in 2001 as part of urban development initiatives.",
+        "Situated at the intersection of the medina and the modern district.",
+        "Stands approximately 30 meters high.",
+        "Primary structure is built almost entirely of steel.",
+        "Replaced an older, smaller monument at the same location.",
+        "Highly recognized as an iconic landmark of modern Tunis."
       ]
     },
     {
-      "id": "nabeul-cities-v2",
-      "descriptionAdvanced": "Nabeul is a prominent coastal city located on the Cap Bon peninsula, celebrated for its long-standing tradition of pottery and ceramics. As a major tourism destination, it attracts visitors with its pristine beaches and Mediterranean climate, balancing industrial craft production with a thriving resort economy. The city is the capital of its governorate and serves as the primary gateway to the northern Cap Bon region, rich in citrus groves and agricultural wealth. Geography K8: Analyzing the intersection of artisanal craft industries, agriculture, and tourism in coastal development.",
+      "id": "tunis-rathaus-landmarks-v2",
+      "descriptionAdvanced": "The Tunis City Hall (Hôtel de Ville), located in the historic and political heart of the capital at Kasbah Square, is a monumental example of modern Tunisian administrative architecture. Completed in the late 1990s, the complex serves as the seat of the municipal government and functions as a focal point for local democratic processes. Its design elegantly combines functional, modern architectural requirements with traditional Islamic motifs, echoing the historical importance of the surrounding government buildings and the nearby medina citadel. The square itself remains a center of Tunisian political history, making the City Hall a pivotal site of local governance.",
       "factsAdvanced": [
-        "Renowned for Tunisian pottery and ceramics",
-        "Key tourist destination on the Cap Bon peninsula",
-        "Capital of the Nabeul Governorate",
-        "Surrounded by vast citrus and fruit orchards",
-        "Historic site of Roman Neapolis",
-        "Coastal economy based on crafts and tourism"
+        "Kasbah Square serves as the center of municipal power in Tunis.",
+        "Façade design subtly integrates modern and traditional Moorish styles.",
+        "Completed and inaugurated in the late 1990s.",
+        "Situated in immediate proximity to the historical medina citadel.",
+        "Contains the primary offices of the Tunis municipal administration.",
+        "Central venue for municipal government meetings and protocol."
       ]
     }
   ]

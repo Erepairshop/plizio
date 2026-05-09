@@ -1,0 +1,64 @@
+{
+  "lang": "hu",
+  "country": "panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "parque-nacional-coiba-animales-life-v2",
+      "descriptionAdvanced": "A Coiba Nemzeti Park, amelyet gyakran a 'közép-amerikai Galápagosnak' neveznek, a világ egyik legkülönlegesebb állatmegfigyelési élményét nyújtja. Mivel a sziget több mint 80 éven át (2004-ig) hírhedt szigorúan őrzött börtönként szolgált, a természet nagyrészt megmenekült az erdőirtástól és az emberi fejlesztéstől. Ma a sziget olyan endemikus fajok otthona, amelyek elszigetelten fejlődtek, mint például a coibai üvöltőmajom és a coibai aguti. Az igazi varázslat azonban a víz alatt rejlik: a védett tengeri rezervátum óriási bálnacápáknak, zátonycápáknak, mantarájáknak és delfineknek ad otthont, amelyek az ép korallzátonyokban élnek. Az UNESCO szigorú védelmi státusza őrzi ezt az érintetlen evolúciós laboratóriumot. Biológia K8 — Szigetökológia és tengeri rezervátumok.",
+      "factsAdvanced": [
+        "A sok endemikus faj miatt gyakran a 'közép-amerikai Galápagosnak' nevezik.",
+        "Érintetlen maradt, mivel a sziget 2004-ig hírhedt szigorúan őrzött börtön volt.",
+        "Elszigetelt fajok, mint például az endemikus coibai üvöltőmajom otthona.",
+        "Híres a bálnacápák és mantaráják víz alatti megfigyeléséről.",
+        "Szigorú védelem alatt áll, mint az UNESCO Világörökség része."
+      ]
+    },
+    {
+      "id": "finca-maiz-veraguas-life-v2",
+      "descriptionAdvanced": "A Veraguas tartományban található kukoricafarmok (Fincas de Maíz) létfontosságúak Panama vidéki gazdasága és élelmezése szempontjából. A rendkívül gépesített rizstermesztéssel ellentétben a kukoricát itt gyakran még hagyományosabb módon termesztik, mind közvetlen emberi fogyasztásra, mind a baromfi- és sertésipar legfontosabb takarmányaként. A kukorica számtalan hagyományos panamai étel alapja, mint például a 'bollo', 'tamales' és 'tortillas', amelyek mélyen gyökereznek a Kolumbusz előtti bennszülött kultúrában. A betakarítási időszak, gyakran a kemény száraz évszak előtt, egy közösségi esemény ('Junta'), ahol a szomszédok összegyűlnek, hogy kézzel hámozzák és szárítsák a kukoricát. Földrajz K7 — Földművelés és őshonos élelmiszerek.",
+      "factsAdvanced": [
+        "A kukorica a rizs mellett a legfontosabb mezőgazdasági növény Veraguasban.",
+        "Az emberi táplálkozás mellett takarmányként is szolgál (baromfiipar).",
+        "Számtalan hagyományos étel, mint a tamales és bollo alapja.",
+        "A termesztés és a fogyasztás mélyen a Kolumbusz előtti hagyományokban gyökerezik.",
+        "A betakarítást gyakran hagyományos közösségi munkával ('Junta') végzik."
+      ]
+    },
+    {
+      "id": "parque-infantil-david-life-v2",
+      "descriptionAdvanced": "A Parque Miguel de Cervantes Saavedra (gyakran csak Parque de David) a Chiriquí tartományban található David város szíve. Ez a kiterjedt, nagy árnyékot adó fákkal szegélyezett park népszerű pihenőhely a családok számára, és kiterjedt játszóterekkel rendelkezik. A városi táj fojtogató hőségében a park fái, amelyekben gyakran hangos leguánok és kis majmok élnek, szívesen látott felfrissülést nyújtanak. A park körül utcai árusok csoportosulnak, akik 'raspados'-t (jégkásás jég sziruppal) árulnak. A park világos példája annak, hogyan alakították át a gyarmati városszerkezeteket (a központi teret) modern, családbarát pihenőterületekké. Ismeretismeret K5 — Városi parkok és hőszabályozás.",
+      "factsAdvanced": [
+        "A Chiriquí tartományban található David város legfontosabb központi parkja.",
+        "A híres spanyol szerzőről, Miguel de Cervantes Saavedráról nevezték el.",
+        "Árnyékot adó fái hűtik a helyi mikroklímát a hőségben.",
+        "A park fáin gyakran szabadon kóborló leguánok és madarak élnek.",
+        "Népszerű hely a tipikus 'Raspado' jégital élvezésére."
+      ]
+    },
+    {
+      "id": "santuario-perezosos-gambo-life-v2",
+      "descriptionAdvanced": "A Gamboa-i Lajhár-rezervátum (Sloth Sanctuary), amelyet a Pánamerikai Természetvédelmi Egyesülettel (APPC) együttműködve működtetnek, a lajhárok mentésére, rehabilitációjára és visszaengedésére szakosodott. Ezek a lassú állatok gyakran megsérülnek az elektromos vezetékek miatt, kutyatámadások érik őket, vagy az erdőirtás miatt elszigetelődnek élőhelyüktől. A rezervátumban az állatok orvosi ellátást kapnak, és biztonságos, fásított kifutókban megtanulnak újra önállóan táplálkozni. A látogatók tiszteletteljes távolságból figyelhetik meg a háromujjú és kétujjú lajhárokat, miközben idegenvezetők tájékoztatják őket ezen lenyűgöző emlősök lassú anyagcseréjéről és ökológiai fülkéjéről. A központ célja, hogy minden egészséges állatot újra visszaengedjen a szomszédos nemzeti parkokba. Biológia K7 — Vadállat-mentés és emlősök.",
+      "factsAdvanced": [
+        "A Gamboa-i rezervátum sérült lajhárok ápolására szakosodott.",
+        "Az állatok gyakran áramütés vagy élőhelyvesztés után kerülnek be.",
+        "Mind a háromujjú, mind a kétujjú lajhárfajokat gondozzák.",
+        "Hosszú távú cél az egészséges állatok visszaengedése a természetbe.",
+        "Tájékoztatják a látogatókat az állatok rendkívül lassú anyagcseréjéről."
+      ]
+    },
+    {
+      "id": "finca-tomate-chiriqui-life-v2",
+      "descriptionAdvanced": "A Chiriquí-i paradicsomfarmok, különösen a magasan fekvő Cerro Punta régióban, Panama legfejlettebb kertészetét képviselik. A hűvös éghajlat és a vulkanikus talaj miatt a paradicsom, a saláta és a hagyma itt pompásan fejlődik. A növények védelme érdekében az extrém esőktől és a ködtől sok gazda hatalmas üvegházakat és hidroponikus (föld nélküli) termesztési módszereket alkalmaz. Ez az ellenőrzött környezet drasztikusan csökkenti a növényvédő szerek használatát és maximalizálja a hektáronkénti hozamot. A Chiriquí-ből származó termés egy logisztikai hűtőláncon keresztül a főváros szinte összes szupermarketjébe és éttermébe eljut, ami az ország nélkülözhetetlen 'salátástáljává' teszi a régiót. Földrajz K7 — Üvegháztechnológia és kertészet.",
+      "factsAdvanced": [
+        "Chiriquí hűvös hegyvidéki régiójában, Cerro Punta környékén összpontosul.",
+        "Egyre inkább üvegházakat használ a trópusi esőzések elleni védelemre.",
+        "A fejlett farmok hidroponikus (föld nélküli) termesztési rendszereket alkalmaznak.",
+        "Az ellenőrzött termesztéssel drasztikusan csökkentik a növényvédő szerek használatát.",
+        "Naponta friss zöldséggel látja el a Panama-városi nagyvárosi régiót."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "prince-edward-island-nature-v2",
+      "descriptionAdvanced": "Prince Edward Island (PEI) este cea mai mică provincie a Canadei, celebră pentru peisajele sale rurale, dealurile domoale și plajele cu nisip roșu care creează un contrast spectaculos cu oceanul. Insula a câștigat faima mondială ca decor pentru seria de cărți pentru copii „Anne de la Green Gables”, care a imortalizat stilul de viață idilic de aici. Geografia insulei este definită de solul fertil și bogat în oxid de fier, care oferă condiții excelente pentru agricultură, în special pentru cultivarea cartofilor. Podul Confederației leagă această insulă de continent, transformând-o într-o destinație accesibilă și liniștită pentru vizitatori. Geografie K7 — insule și literatură.",
+      "factsAdvanced": [
+        "Cea mai mică provincie a Canadei ca suprafață și populație.",
+        "Renume pentru solul fertil roșu, bogat în oxid de fier.",
+        "Cultivarea cartofilor este coloana vertebrală a economiei locale.",
+        "Podul Confederației are 12,9 km lungime, legând insula de continent.",
+        "Personajul literar „Anne de la Green Gables” a adus faimă mondială.",
+        "Linia de coastă este caracterizată de plaje lungi cu nisip roșu."
+      ]
+    },
+    {
+      "id": "carmanah-walbran-provincial-park-forest-nature-v2",
+      "descriptionAdvanced": "Parcul Provincial Carmanah Walbran protejează una dintre cele mai impresionante regiuni forestiere de pe Insula Vancouver, incluzând o parte din cea mai mare pădure tropicală temperată veche care încă mai există. Aici se găsesc copaci monumentali, printre care molizi Sitka giganți, care cresc de secole în acest ecosistem protejat. Parcul servește drept o rezervație ecologică vitală pentru biodiversitatea insulei și reprezintă un simbol al eforturilor de conservare a naturii din British Columbia. Această sălbăticie izolată oferă vizitatorilor o conexiune profundă cu natura intactă, departe de zgomotul civilizației moderne. Geografie K7 — păduri și conservarea naturii.",
+      "factsAdvanced": [
+        "Protejează cei mai masivi molizi Sitka cunoscuți la nivel mondial.",
+        "Habitat esențial pentru specii rare din zona temperată.",
+        "Ecosistemul este crucial pentru stocarea carbonului în regiune.",
+        "Parcul a fost stabilit în urma unor campanii intense de conservare.",
+        "Oferă o experiență de sălbăticie izolată și netulburată.",
+        "Condițiile umede favorizează creșterea extremă în grosime a arborilor."
+      ]
+    },
+    {
+      "id": "mount-assiniboine-park-forest-nature-v2",
+      "descriptionAdvanced": "Parcul Mount Assiniboine protejează nu doar muntele iconic, ci și vaste păduri alpine și subalpine care înconjoară vârful, definind peisajul local. În special toamna, pădurile de zadă se transformă într-o mare aurie, oferind un decor spectaculos în contrast cu vârfurile stâncoase și gri. Ca parte a unui sit inclus în Patrimoniul Mondial UNESCO, parcul este supus unor reglementări stricte care garantează conservarea vegetației originale și a ecosistemelor montane fragile. Deoarece parcul nu dispune de acces direct prin drumuri auto, liniștea naturii rămâne în mare parte netulburată de activitatea umană intensă. Geografie K7 — ecologie montană.",
+      "factsAdvanced": [
+        "Pădurile de zadă sunt faimoase pentru culoarea aurie din toamnă.",
+        "Parte a Patrimoniului Mondial UNESCO Munții Stâncoși Canadieni.",
+        "Accesul în parc este posibil doar prin drumeție sau elicopter.",
+        "Oferă perspective unice asupra ecosistemelor de limită alpină.",
+        "Protejează habitate valoroase pentru animale montane precum capra neagră.",
+        "Pădurile sunt o componentă centrală a experienței estetice locale."
+      ]
+    },
+    {
+      "id": "gwaii-haanas-national-park-reserve-forest-nature-v2",
+      "descriptionAdvanced": "Parcul Național Gwaii Haanas protejează o pădure pluvială bogată, strâns legată de cultura poporului Haida, fiind totodată locul unde se păstrează stâlpi totemici antici. Ecosistemul unic al acestui parc susține o mare diversitate biologică, fiind considerat un sit de importanță mondială atât cultural, cât și natural. Supravegheat de „Paznicii Haida” (Haida Watchmen), acest parc oferă vizitatorilor șansa de a învăța despre istoria și tradițiile indigene într-un cadru natural spectaculos, unde pădurea se întâlnește cu oceanul. Această zonă este un exemplu desăvârșit de conservare a patrimoniului cultural și natural împreună. Geografie K7 — păduri și cultura Haida.",
+      "factsAdvanced": [
+        "Protejează atât mediul terestru cât și cel marin.",
+        "Sit al Patrimoniului Mondial UNESCO (SGang Gwaay).",
+        "Monitorizat de „Paznicii Haida” (Haida Watchmen).",
+        "Găzduiește stâlpi totemici antici și sate istorice.",
+        "Ecosistem de pădure pluvială temperată extrem de bogat.",
+        "Un exemplu de conservare comună între guvern și poporul Haida."
+      ]
+    },
+    {
+      "id": "mount-columbia-nature-v2",
+      "descriptionAdvanced": "Muntele Columbia, cu o altitudine de 3.747 metri, este cel mai înalt punct din provincia Alberta. Vârful se înalță maiestuos deasupra Câmpului de Gheață Columbia, un sistem glaciar gigant care se întinde de-a lungul cumpenei apelor continentale. Această locație geografică este de o importanță crucială, deoarece apa rezultată din topirea ghețarilor de pe munte curge atât către Oceanul Pacific, cât și către Oceanul Arctic și Golful Hudson. Ascensiunea pe Muntele Columbia este considerată o întreprindere logistică foarte dificilă pentru alpiniști, necesitând traversarea complexă a ghețarilor. Geografie K7 — munți și cumpene de ape.",
+      "factsAdvanced": [
+        "Cel mai înalt punct din provincia Alberta, la 3.747 metri.",
+        "Situat direct pe cumpăna apelor continentală.",
+        "Parte a masei masive de gheață a Câmpului de Gheață Columbia.",
+        "Ascensiunea necesită traversarea ghețarilor.",
+        "Izolarea face destinația foarte exclusivistă pentru alpiniști.",
+        "Câmpul de gheață alimentează mai multe sisteme fluviale canadiene."
+      ]
+    }
+  ]
+}

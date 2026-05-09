@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "porto-ingles-cities-v2",
+      "descriptionAdvanced": "Porto Inglês, the principal administrative and commercial center of Maio Island, is known for its remarkable sense of tranquility. The town offers access to extensive, pristine white sand beaches that are among the most beautiful in the archipelago, providing a serene environment for both locals and visitors. Historically, Porto Inglês played a pivotal role in the region's economy due to its function as a central node for the export of sea salt, which was a vital industry in past centuries. Today, the town features a striking colonial church, which serves as a landmark for the community, along with a small harbor and an airport that provide essential connections to the outside world.",
+      "factsAdvanced": [
+        "Principal administrative center of Maio Island",
+        "Known for its atmosphere of profound tranquility",
+        "Home to vast, untouched white sand beaches",
+        "Historically vital for the regional sea salt export trade",
+        "Features a prominent and historic colonial church",
+        "Provides basic maritime and air transport links",
+        "Serves as the island's main residential and trade hub"
+      ]
+    },
+    {
+      "id": "calheta-cities-v2",
+      "descriptionAdvanced": "Calheta is a traditional fishing village located on the west coast of Maio Island. The village serves as a significant hub for artisanal fishing, a practice that remains the backbone of its local economy and community identity. Calheta is widely recognized for its laid-back pace of life, reflecting the values of a small, tight-knit village community where neighbors know one another and traditional ways of life remain strong. Visitors to Calheta are often welcomed with authentic Cape Verdean hospitality, making it a unique destination for those seeking to experience the real, unhurried side of island life in a setting that values heritage and human connection over rapid commercial development.",
+      "factsAdvanced": [
+        "Traditional fishing village on the west coast of Maio",
+        "Major hub for artisanal, small-scale fishing",
+        "Characterized by a relaxed, unhurried pace of life",
+        "Strong, tight-knit community structure",
+        "Offers genuine and authentic Cape Verdean hospitality",
+        "Values traditional heritage over rapid development",
+        "Ideal destination for experiencing local island life"
+      ]
+    },
+    {
+      "id": "barreiro-cities-v2",
+      "descriptionAdvanced": "Barreiro is a suburban residential area situated near Porto Inglês on Maio Island, distinguished by its rural character and laid-back atmosphere. The town is conveniently located in close proximity to the island's airport, making it a functional yet peaceful place for residents. The landscape is defined by its brightly colored residential houses, which contrast with the island's naturally muted arid tones, giving the town a lively and welcoming appearance. Agriculture remains a critical activity for the local residents, who work the surrounding land to supply the local markets. Barreiro serves as a vital gateway connecting the southern portions of Maio to the administrative center in Porto Inglês.",
+      "factsAdvanced": [
+        "Suburban residential area near Porto Inglês",
+        "Maintains a distinct, peaceful rural character",
+        "Conveniently located near the island's main airport",
+        "Features lively, brightly colored residential houses",
+        "Supports an essential local agricultural economy",
+        "Vital link connecting the south to the main town",
+        "Provides a functional residential space for Maio's people"
+      ]
+    },
+    {
+      "id": "figueira-da-horta-cities-v2",
+      "descriptionAdvanced": "Figueira da Horta is a pivotal agricultural center on Maio Island, dedicated to maintaining the island's domestic food supply. The settlement is widely known for its traditional wells, which historically served as the primary source of water for both residents and their crops, sustaining life in an otherwise arid climate. The town is defined by its fertile garden areas and small-scale plantations, which supply fresh produce to the local markets throughout the year. As an agricultural hub, Figueira da Horta plays a necessary role in the island's food security. The village provides visitors with an opportunity to see how generations of settlers adapted their farming techniques to the unique ecological challenges of the Cape Verdean environment.",
+      "factsAdvanced": [
+        "Primary agricultural center on Maio Island",
+        "Critical for the island's domestic food supply",
+        "Known for historic and traditional irrigation wells",
+        "Characterized by fertile garden and orchard areas",
+        "Essential supplier for local island markets",
+        "Demonstrates traditional farming adaptations to aridity",
+        "Represents a vital part of the island's sustainability"
+      ]
+    },
+    {
+      "id": "cascabulho-cities-v2",
+      "descriptionAdvanced": "Cascabulho is a small, quiet settlement located in the northern region of Maio Island. It is set within an expansive, dry landscape that reflects the wild and barren beauty characteristic of this part of the archipelago. Daily life in Cascabulho is governed by the rhythms of traditional livestock farming, an occupation that has supported the sparse population of this area for generations. The village serves as a peaceful retreat far from the tourist-frequented coastal paths, offering an undisturbed experience of the island's natural aridity. For those interested in the authentic, rugged side of Maio, Cascabulho provides a clear view into the sparse but resilient lifestyle of the northern island interior.",
+      "factsAdvanced": [
+        "Small settlement in northern Maio Island",
+        "Situated within a vast, dry, and arid landscape",
+        "Daily life defined by traditional livestock farming",
+        "Quiet retreat far from tourist-heavy coastal trails",
+        "Offers an undisturbed view of the island's wild interior",
+        "Provides insight into a resilient, traditional lifestyle",
+        "Reflects the barren, rugged beauty of the northern regions"
+      ]
+    }
+  ]
+}

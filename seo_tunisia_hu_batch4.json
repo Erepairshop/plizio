@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "djebel-fkirine-relief-v2",
+      "descriptionAdvanced": "A Djebel Fkirine egy impozáns mészkőhegység Zaghouan közelében, amely meredek sziklafalaival és száraz, tagolt domborzatával az észak-tunéziai táj meghatározó eleme. A hegység geológiailag karsztosodott, ami lehetővé teszi, hogy mélyen a sziklákban víz raktározódjon, így a hegyvidék természetes 'víztoronyként' szolgál a környező alacsonyabban fekvő területek számára. A források, amelyek a hegység lábánál erednek, történelmileg kulcsfontosságúak voltak az ókori települések, köztük a római kori infrastrukturális központok vízellátásában. A felszín rendkívül száraz, a növényzet a nehéz körülményekhez alkalmazkodott mediterrán bozótosból áll, ami különleges, vadregényes hangulatot kölcsönöz a területnek.",
+      "factsAdvanced": [
+        "A hegység főként karsztosodott mészkőből áll.",
+        "Zaghouan térségének egyik legfontosabb természetes vízforrása.",
+        "A terület klimatikusan száraz, a mediterrán bozótos a jellemző növényzet.",
+        "A hegycsúcsai és meredek sziklái kiváló tájékozódási pontok.",
+        "Történelmileg az ókori vízellátó rendszerek fontos bázisa volt.",
+        "A hegység a természetes erózió és a karsztosodás hatásait mutatja.",
+        "A táj elszigeteltsége miatt a természetes élővilág zavartalan maradt."
+      ]
+    },
+    {
+      "id": "djebel-hamra-relief-v2",
+      "descriptionAdvanced": "A Djebel Hamra egy festői szépségű hegyvonulat a tunéziai Kroumirie-régió északi részén, amely az Atlasz-hegység északi ágához tartozik. A tájat a dombos, zöldellő lankák és a mély völgyek jellemzik, amelyek a régió bőséges csapadékának köszönhetően az év nagy részében élettel teliek. A hegyvonulat fontos mezőgazdasági és legeltetési terület a helyi közösségek számára, miközben a gerincről nyíló panoráma az ország egyik leglátványosabb hegyvidéki kilátását kínálja. A növényzet gazdag, paratölgyek és mediterrán cserjések alkotják az erdőállományt, ami az észak-tunéziai hegyvidékek tipikus arculatát adja.",
+      "factsAdvanced": [
+        "Az északi Atlasz-hegység vonulatainak része.",
+        "Télen és tavasszal a terület különösen dús, zöld növényzetű.",
+        "A régió egyik fontos hagyományos legeltetési területe.",
+        "Festői panorámája miatt a vidék kedvelt kirándulóhely.",
+        "A környező erdőkben a paratölgy az egyik domináns faj.",
+        "A domborzat lágyabb, könnyebben járható, mint a déli Atlasz-hegység.",
+        "A mikroklíma jelentősen enyhébb, mint az ország belső, arid területein."
+      ]
+    },
+    {
+      "id": "djebel-es-sif-relief-v2",
+      "descriptionAdvanced": "A Djebel es Sif egy elszigetelt és zord hegyvonulat Közép-Tunéziában, amely tektonikailag szorosan kapcsolódik az Atlasz-hegységrendszer nagyarányú mozgásaihoz. A táj rendkívül távoli, a sivatagos éghajlat hatása itt már erőteljesen érvényesül, így a növényzet gyér, a felszínt pedig csupasz sziklák és kövek borítják. A terület geológiai érdekessége, hogy olyan összetett tektonikai struktúrákat mutat be, amelyek a hegyképződés dinamikáját tárják fel az érdeklődők előtt. A hegyvonulat elzártsága miatt a természet itt teljesen zavartalanul érvényesül, a klíma pedig – a nappali nagy forróság és az éjszakai jelentős lehűlés miatt – igazi sivatagi kihívást jelent az élőlények számára.",
+      "factsAdvanced": [
+        "Tektonikailag az Atlasz-hegységmozgások részét képezi.",
+        "A terület Közép-Tunézia egyik legtávolabbi hegyvidéke.",
+        "A növényzet rendkívül ritka az arid klímának köszönhetően.",
+        "A környezet éjszakánként drasztikusan lehűl, nappal pedig felforrósodik.",
+        "Felszínét szinte teljesen csupasz sziklák és kőzettörmelék alkotja.",
+        "Geológiai szempontból a hegységképződés dinamikus folyamatait mutatja.",
+        "Elzártsága miatt a természetes élővilág különösen zavartalan."
+      ]
+    },
+    {
+      "id": "djebel-el-gharrah-relief-v2",
+      "descriptionAdvanced": "A Djebel el Gharrah a közép-tunéziai Kasserine régió egyik markáns, száraz hegyvonulata, amely hűen képviseli a 'magas Atlasz' jellegzetes, kietlen arcát. A tájat szinte teljes egészében kopár sziklák és kiterjedt kőmezők alkotják, amelyek között csak a legszívósabb, aszálytűrő növényfajok képesek fennmaradni. Geológiailag a hegyvonulat kiváló betekintést nyújt a régió tektonikai fejlődésébe, mivel a rétegek jól megfigyelhetőek a csupasz lejtőkön. A terület ritkán lakott, így a táj érintetlen maradt, és a természet egyeduralma érvényesül az arid környezetben.",
+      "factsAdvanced": [
+        "A közép-tunéziai Atlasz-hegység egyik jellegzetes vonulata.",
+        "A tájra az arid, kopár és kietlen felszín a jellemző.",
+        "Geológiai rétegei kiválóan tanulmányozhatóak a csupasz lejtőkön.",
+        "A régió szinte teljesen lakatlan, a természet érintetlen maradt.",
+        "A hegység a környező síkságok között természetes akadályként áll.",
+        "Az erózió folyamatosan formálja a hegyvonulat sziklás felszínét.",
+        "A növényvilág rendkívül aszálytűrő, speciális fajokra korlátozódik."
+      ]
+    },
+    {
+      "id": "djebel-bel-khodra-relief-v2",
+      "descriptionAdvanced": "A Djebel Bel Khodra egy érdekes hegymasszívum Siliana régió közelében, amely a domborzat és a mezőgazdaság egyensúlyának egyik példája a régióban. A hegy alapzata mészkőből épül fel, amelyet az évezredes esőzések koptattak lágyabb, dombos formákká, lehetővé téve, hogy a lábánál fekvő völgyeket intenzíven műveljék. A masszívum maga fontos menedékhely a helyi vadon élő állatok számára, mivel egyes részei nehezen megközelíthetőek. A táj harmonikus ötvözete a természetes hegyvidéki formáknak és az ember által átalakított mezőgazdasági területeknek, amelyek a Siliana régió életének alapját adják.",
+      "factsAdvanced": [
+        "A masszívum Siliana régió egyik fontos természeti pontja.",
+        "Mészkő alapú szerkezet jellemzi a hegyvidéket.",
+        "A hegy lábánál fekvő földek intenzív mezőgazdasági művelés alatt állnak.",
+        "A nehezen járható területek védelmet nyújtanak a vadon élő állatoknak.",
+        "A táj a természetes domborzat és az emberi művelés ötvözete.",
+        "Geológiailag az Atlasz-hegység északi vonulataihoz kapcsolódik.",
+        "A hegyvidék a Siliana régió mikroklímáját is kedvezően befolyásolja."
+      ]
+    }
+  ]
+}

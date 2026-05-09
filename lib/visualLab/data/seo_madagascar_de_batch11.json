@@ -1,0 +1,379 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "toliara-botanischer-garten-life-v2",
+      "descriptionAdvanced": "Der Botanische Garten von Toliara, oft als 'Arboretum d'Antsokay' bekannt, ist eine weltweit einzigartige Sammlung sukkulenter Pflanzen des madagassischen Südwestens. Gegründet vom Schweizer Botaniker Hermann Petignat, schützt das Arboretum über 900 Pflanzenarten, von denen 90 Prozent endemisch in der Region sind. Inmitten einer extrem trockenen Landschaft zeigt der Garten die faszinierenden Anpassungsstrategien der Flora an Wassermangel, darunter bizarre Baobabs, Euphorbien und Didiereaceen. Das Arboretum ist nicht nur ein Ort der Schönheit, sondern auch ein kritisches Zentrum für Umweltbildung und die Erhaltung bedrohter Wüstenpflanzen. Biologie K6 — Botanik und xerophile Ökosysteme.",
+      "factsAdvanced": [
+        "Beherbergt über 900 endemische Pflanzenarten des Südwestens",
+        "Gegründet im Jahr 1980 zum Schutz des bedrohten Dornwaldes",
+        "Wichtigstes Arboretum für sukkulente Pflanzen auf Madagaskar",
+        "Zentrum für die Erforschung der Flora der Region Atsimo-Andrefana",
+        "Bietet geführte Touren zur Evolution der madagassischen Wüste",
+        "Besitzt ein eigenes Herbar und eine Samenbank für Endemiten",
+        "Beispiel für erfolgreichen privatem Naturschutz",
+        "Unverzichtbarer Lernort für die lokale Biodiversität"
+      ]
+    },
+    {
+      "id": "toliara-colonial-center-history-v2",
+      "descriptionAdvanced": "Das koloniale Zentrum von Toliara (Tuléar) spiegelt die Bedeutung der Stadt als administratives und merkantiles Drehkreuz im Südwesten während des 20. Jahrhunderts wider. Die Architektur ist geprägt durch breite Boulevards, schattige Arkadenbauten und ehemalige Kontore der französischen Handelsgesellschaften. Trotz des heißen und trockenen Klimas strahlt das Viertel eine entspannte, sonnendurchflutete Atmosphäre aus, die typisch für die Küstenstädte des Kanals von Mosambik ist. Das koloniale Erbe ist hier eng mit der lokalen Vezo- und Masikoro-Kultur verwoben, was Toliara seinen einzigartigen, multikulturellen Charakter verleiht. Geschichte K7 — Stadtplanung und koloniale Handelszentren.",
+      "factsAdvanced": [
+        "Historischer Kern der Stadt Toliara aus der französischen Ära",
+        "Architektur angepasst an das extrem heiße Klima des Südens",
+        "Zentrum des regionalen Handels mit Sisal, Baumwolle und Salz",
+        "Geprägt durch klassizistische Verwaltungsbauten und Lagerhäuser",
+        "Symbol für die Erschließung des madagassischen Südwestens",
+        "Befindet sich in unmittelbarer Nähe zur Uferpromenade",
+        "Wichtiger Ausgangspunkt für die Erkundung der Küstenregion",
+        "Zeugnis der städtebaulichen Modernisierung im frühen 20. Jahrhundert"
+      ]
+    },
+    {
+      "id": "toliara-port-economic-v2",
+      "descriptionAdvanced": "Der Hafen von Toliara ist das maritime Herz des madagassischen Südens und ein strategischer Knotenpunkt für den regionalen Handel. Aufgrund des flachen Küstengewässers und des vorgelagerten Korallenriffs verfügt der Hafen über eine beeindruckende lange Pier, die weit ins Meer hinausragt. Hier werden vor allem landwirtschaftliche Produkte des Südens wie Mais, Maniok und Meeresfrüchte sowie mineralische Rohstoffe verladen. Der Hafen ist die lebenswichtige Verbindung für die Versorgung der Region Atsimo-Andrefana und ein Zentrum für die handwerkliche Fischerei der Vezo. Trotz logistischer Herausforderungen bleibt er ein Motor für die wirtschaftliche Entwicklung des Südwestens. Wirtschaft K6 — Hafenlogistik und regionaler Seehandel.",
+      "factsAdvanced": [
+        "Wichtigster Exporthafen für den Südwesten Madagaskars",
+        "Besitzt eine der längsten Verladepiers der Insel (über 500 m)",
+        "Zentraler Umschlagplatz für landwirtschaftliche Güter und Salz",
+        "Strategische Basis für die regionale Fischereiflotte",
+        "Haupteingangstor für Güter des täglichen Bedarfs im Süden",
+        "Geprägt durch die Herausforderungen der Versandung und Korallenbänke",
+        "Wesentlicher Arbeitgeber für die Stadt Toliara",
+        "Symbol für die Anbindung des Südens an nationale Handelsrouten"
+      ]
+    },
+    {
+      "id": "toliara-sands-economic-v2",
+      "descriptionAdvanced": "Toliara Sands (Ranobe-Projekt) ist ein bedeutendes, wenn auch kontroverses Bergbauprojekt zur Gewinnung von Mineralsanden im Südwesten Madagaskars. Die Lagerstätten nördlich von Toliara enthalten große Mengen an Ilmenit und Zirkon, die weltweit in der Industrie gefragt sind. Das Projekt birgt das Potenzial für massive Investitionen und die Schaffung von Arbeitsplätzen in einer wirtschaftlich schwachen Region. Gleichzeitig gibt es intensive Debatten über die ökologischen Auswirkungen auf den Dornwald und die traditionellen Lebensgrundlagen der lokalen Bevölkerung. Toliara Sands steht sinnbildlich für den globalen Konflikt zwischen industrieller Rohstoffgewinnung und dem Schutz einzigartiger Ökosysteme. Wirtschaft K8 — Bergbaupolitik und Nachhaltigkeit.",
+      "factsAdvanced": [
+        "Großprojekt zur Gewinnung von Mineralsanden (Ilmenit, Zirkon)",
+        "Befindet sich in der trockenen Ranobe-Ebene bei Toliara",
+        "Eines der größten potenziellen Bergbauvorhaben im Süden",
+        "Gegenstand intensiver Diskussionen über Umweltschutzstandards",
+        "Wichtiger Faktor für die nationale Rohstoffstrategie",
+        "Potenzieller Arbeitgeber für tausende Menschen in der Region",
+        "Erfordert den Bau spezialisierter Transportwege zur Küste",
+        "Symbol für die mineralische Vielfalt des madagassischen Südwestens"
+      ]
+    },
+    {
+      "id": "tour-orange-antananarivo-landmarks-v2",
+      "descriptionAdvanced": "Der Orange Tower (Tour Orange) in Antananarivo ist ein Symbol für das moderne, geschäftsorientierte Madagaskar des 21. Jahrhunderts. Als eines der höchsten und markantesten Gebäude der Hauptstadt prägt es die Skyline im Viertel Ankorondrano, dem modernen Geschäftszentrum der Unterstadt. Der Turm beherbergt den Hauptsitz des Telekommunikationsriesen Orange Madagascar sowie Büros internationaler Unternehmen. Die Architektur aus Glas und Stahl steht im scharfen Kontrast zur traditionellen Backsteinbauweise der Oberstadt und symbolisiert den technologischen Aufbruch und die digitale Transformation des Landes. Der Bau markiert die Entwicklung Antananarivos zu einer modernen afrikanischen Metropole. Wirtschaft K7 — Dienstleistungssektor und moderne Architektur.",
+      "factsAdvanced": [
+        "Eines der modernsten Hochhäuser in Antananarivo",
+        "Hauptquartier eines führenden Telekommunikationsanbieters",
+        "Wahrzeichen des modernen Geschäftsviertels Ankorondrano",
+        "Symbol für den wirtschaftlichen Wandel und die Digitalisierung",
+        "Architektonisch markant durch großflächige Glasfassaden",
+        "Zentrum für digitale Innovation und Dienstleistungen",
+        "Wichtiger Orientierungspunkt in der Unterstadt der Metropole",
+        "Dokumentiert das Wachstum des tertiären Sektors in Madagaskar"
+      ]
+    },
+    {
+      "id": "tour-zital-landmarks-v2",
+      "descriptionAdvanced": "Der Zital-Turm in Antananarivo ist ein weiteres markantes Beispiel für die industrielle und gewerbliche Expansion in der Hauptstadt. Gelegen im geschäftigen Stadtteil Ankorondrano, dient das Gebäude als wichtiges Zentrum für Handel, Logistik und Büroflächen. Die Architektur spiegelt den funktionalen Stil moderner Gewerbeimmobilien wider, der darauf ausgelegt ist, die steigende Nachfrage nach qualifizierten Arbeitsräumen in der Metropole zu bedienen. Zital ist ein Name, der eng mit der wirtschaftlichen Entwicklung des Ankorondrano-Plateaus verbunden ist, das sich von einem Sumpfgebiet zum dynamischsten Wirtschaftsmotor Madagaskars gewandelt hat. Das Gebäude steht für die städtische Verdichtung und Modernisierung. Wirtschaft K6 — Immobilienmarkt und Stadtentwicklung.",
+      "factsAdvanced": [
+        "Multifunktionales Geschäftsgebäude im Viertel Ankorondrano",
+        "Wichtiger Standort für nationale und internationale Firmen",
+        "Symbol für die gewerbliche Erschließung der Hauptstadtregion",
+        "Bietet moderne Infrastruktur für Dienstleistungsunternehmen",
+        "Teil des dynamischen Wirtschaftsgürtels von Antananarivo",
+        "Wahrzeichen für den Übergang zu modernen Bürokomplexen",
+        "Zentrum für Handelsmanagement und Logistikplanung",
+        "Dokumentiert den Wandel der städtischen Landnutzung"
+      ]
+    },
+    {
+      "id": "trano-gasy-architecture-landmarks-v2",
+      "descriptionAdvanced": "Der Begriff 'Trano Gasy' bezeichnet die traditionelle madagassische Hausarchitektur, die besonders im zentralen Hochland weit verbreitet ist. Diese mehrstöckigen Ziegelhäuser mit ihren steilen Dächern und oft kunstvoll verzierten Holzbalkonen sind ein Wahrzeichen der Merina- und Betsileo-Regionen. Ursprünglich aus Holz und Lehm gebaut, entwickelten sie sich im 19. Jahrhundert unter dem Einfluss britischer Missionare zu den charakteristischen Backsteinbauten. Die Ausrichtung des Hauses und die Anordnung der Räume folgen oft strengen kosmologischen Regeln (Mpanandro). Das 'Trano Gasy' ist nicht nur eine Wohnform, sondern ein tief verwurzeltes Symbol für die kulturelle Identität und die soziale Struktur des madagassischen Hochlandes. Kultur K6 — Architektur und Traditionen.",
+      "factsAdvanced": [
+        "Charakteristischer Haustyp des zentralen Hochlandes",
+        "Entwickelt aus einer Verschmelzung von lokaler und europäischer Bauweise",
+        "Markant durch hohe, schmale Formen und rote Backsteine",
+        "Besitzt oft zwei Stockwerke und einen nach Westen ausgerichteten Balkon",
+        "Die Bauweise wurde im 19. Jahrhundert durch James Cameron revolutioniert",
+        "Symbol für den sozialen Status und die Beständigkeit der Familie",
+        "Wesentlicher Bestandteil des UNESCO-geschützten Stadtbildes von Tana",
+        "Integrierte oft funktionale Bereiche für Vieh und Vorräte"
+      ]
+    },
+    {
+      "id": "tsaratanana-foothills-relief-v2",
+      "descriptionAdvanced": "Die Ausläufer des Tsaratanana-Massivs im Norden Madagaskars bilden eine dramatische Übergangszone von den tropischen Küstenebenen zum höchsten Gebirge der Insel. Das Relief ist geprägt durch sanft ansteigende Hügelketten, die von tiefen Flusstälern durchschnitten werden. Diese Vorgebirgsregion ist klimatisch begünstigt und beherbergt eine Mischung aus Primärwäldern und fruchtbaren Agrarflächen. Geologisch bestehen die Foothills aus vulkanischen Sedimenten und Basaltgestein, das durch intensive Verwitterung extrem fruchtbare Böden hervorgebracht hat. Für Expeditionen zum Gipfel des Maromokotro stellen diese Ausläufer die erste große logistische Hürde dar und bieten spektakuläre Einblicke in die geologische Vielfalt des Nordens. Geografie K7 — Gebirgsmorphologie und Übergangszonen.",
+      "factsAdvanced": [
+        "Eingangszone zum höchsten Gebirgsmassiv Madagaskars",
+        "Geprägt durch eine hohe Dichte an Wasserläufen und Quellen",
+        "Geologisch aus vulkanischen Intrusionen und Gneisen bestehend",
+        "Wichtigstes Anbaugebiet für Bergkakao und Kaffee im Umland",
+        "Relief bildet eine natürliche Barriere gegen Zyklone aus dem Norden",
+        "Beherbergt seltene Übergangswald-Ökosysteme",
+        "Strategischer Ausgangspunkt für wissenschaftliche Expeditionen",
+        "Symbol für die topographische Komplexität des madagassischen Nordens"
+      ]
+    },
+    {
+      "id": "tsaratanana-massif-relief-v2",
+      "descriptionAdvanced": "Das Tsaratanana-Massiv ist das mächtigste Gebirgsrelief Madagaskars und beherbergt den höchsten Berg der Insel, den Maromokotro. Das Relief ist vulkanischen Ursprungs und formt eine riesige, schwer durchdringliche Festung aus dichtem Regenwald und steilen Basaltfelsen im Norden des Landes. Durch seine enorme Höhe fängt das Massiv die Feuchtigkeit des Indischen Ozeans ein und wirkt als zentraler 'Wasserturm', der fast alle großen Flüsse des Nordens speist. Die geomorphologische Struktur ist durch tiefe, V-förmige Täler und schroffe Grate gekennzeichnet, die Zeugnis von Millionen Jahren intensiver Erosion ablegen. Zaratanana ist aufgrund seiner Isolation eines der unberührtesten und geologisch faszinierendsten Hochgebirge Afrikas. Geografie K8 — Hochgebirgsgeomorphologie und Wasserscheiden.",
+      "factsAdvanced": [
+        "Höchstes zusammenhängendes Gebirgsmassiv der gesamten Insel",
+        "Beherbergt den Pic Maromokotro mit 2.876 Metern Höhe",
+        "Geologisch geprägt durch präkambrische Gesteine und junge Vulkanite",
+        "Wichtigste Wasserscheide für den Norden und Nordwesten",
+        "Relief ist fast vollständig von unzugänglichem Primärwald bedeckt",
+        "Gilt als einer der letzten 'weißen Flecken' auf der Landkarte der Insel",
+        "Erosion schafft jährlich neue, spektakuläre Schluchten und Wasserfälle",
+        "Nationales Naturreservat mit höchster Schutzstufe"
+      ]
+    },
+    {
+      "id": "tsaratanana-nature-v2",
+      "descriptionAdvanced": "Die Natur des Tsaratanana-Reservats im Norden Madagaskars ist ein Inbegriff für unberührte Wildnis und extremen Endemismus. Bedingt durch die enormen Höhenunterschiede finden sich hier alle Waldtypen der Insel, vom Tieflandregenwald bis zur afro-alpinen Vegetation auf den Gipfeln. Das Massiv ist ein Refugium für seltene Tierarten wie den Schwarzen Vari und zahlreiche Vögel, die ausschließlich in diesen Nebelwäldern existieren können. Aufgrund der extremen Unwegsamkeit und des Fehlens jeglicher Infrastruktur ist Tsaratanana eines der am wenigsten erforschten Gebiete der Welt. Der Schutz dieses Parks ist von fundamentaler Bedeutung für den Erhalt der biologischen Vielfalt und des hydrologischen Gleichgewichts von ganz Madagaskar. Biologie K8 — Gebirgsökologie und Endemismus-Hotspots.",
+      "factsAdvanced": [
+        "Strenges Naturreservat mit der höchsten Schutzstufe (IUCN I)",
+        "Beherbergt Arten, die nur in diesem Massiv vorkommen (Lokalendemiten)",
+        "Wichtigster Standort für die Erforschung der vertikalen Biodiversität",
+        "Heimat des seltenen Tsaratanana-Chamäleons",
+        "Geprägt durch konstante Feuchtigkeit und dichten Nebelwald",
+        "Schutzgebiet ohne jeglichen menschlichen Siedlungsdruck",
+        "Bedeutendes Zentrum für die Bewahrung genetischer Ressourcen",
+        "Symbol für die majestätische Isolation der madagassischen Natur"
+      ]
+    },
+    {
+      "id": "tsiafajavona-peak-relief-v2",
+      "descriptionAdvanced": "Der Tsiafajavona ist mit 2.642 Metern der dritthöchste Berg Madagaskars und der dominierende Gipfel des vulkanischen Ankaratra-Massivs südlich der Hauptstadt. Sein Name bedeutet 'Der, der nie ohne Nebel ist', was auf die fast ständige Wolkenbedeckung des Gipfels hinweist. Das Relief ist durch weite Plateaus und steile Lavadome geprägt, die Zeugnis von intensiver vulkanischer Aktivität in der geologischen Vergangenheit ablegen. Die Gipfelregion ist karg und windgepeitscht, bietet aber an klaren Tagen einen Panoramablick über das gesamte zentrale Hochland. Der Tsiafajavona ist ein wichtiger topographischer Orientierungspunkt und ein heiliger Ort für die Merina-Bevölkerung. Geografie K8 — Vulkanmassive und Hochlandmorphologie.",
+      "factsAdvanced": [
+        "Höchster Gipfel des Ankaratra-Vulkanmassivs",
+        "Dritthöchster Berg der Insel Madagaskar",
+        "Geologisch geprägt durch mächtige Lavaströme und Pyroklastika",
+        "Wichtiger Punkt für geodätische Messungen im Hochland",
+        "Klima auf dem Gipfel ist durch Kälte und Frost gekennzeichnet",
+        "Relief bildet die Quelle für mehrere Flüsse der Region Vakinankaratra",
+        "Traditionell ein Ort für königliche Gebete und Rituale",
+        "Wahrzeichen der städtischen Umgebung von Antananarivo"
+      ]
+    },
+    {
+      "id": "tsimiroro-oil-economic-v2",
+      "descriptionAdvanced": "Das Tsimiroro-Ölfeld im Westen Madagaskars ist eines der bedeutendsten Onshore-Projekte zur Gewinnung von Schweröl. Die Lagerstätte im Morondava-Becken enthält Milliarden Barrel Öl, dessen Förderung aufgrund der hohen Viskosität technologisch anspruchsvoll ist. Das Projekt nutzt Dampfinjektionsverfahren, um das Öl fließfähig zu machen – ein Meilenstein der industriellen Entwicklung auf der Insel. Tsimiroro spielt eine zentrale Rolle in Madagaskars Bestreben, seine Abhängigkeit von Energieimporten zu verringern und eine eigene Ölindustrie aufzubauen. Die Erschließung ist mit hohen Erwartungen an das Wirtschaftswachstum, aber auch mit großen Herausforderungen in Bezug auf Infrastruktur und Umwelt verknüpft. Wirtschaft K8 — Fossile Ressourcen und Energiewirtschaft.",
+      "factsAdvanced": [
+        "Bedeutendstes Onshore-Schwerölfeld in der Region Menabe",
+        "Nutzt modernste CSS-Technologie (Cyclic Steam Stimulation)",
+        "Besitzt Potenzial zur vollständigen Deckung des nationalen Ölbedarfs",
+        "Wichtigster Standort für die industrielle Ölförderung auf Madagaskar",
+        "Unterstützt durch internationale Investitionen im Energiesektor",
+        "Ermöglicht die lokale Produktion von Heizöl für Kraftwerke",
+        "Zentrum für technisches Training in der Erdölindustrie",
+        "Symbol für Madagaskars Streben nach energetischer Autarkie"
+      ]
+    },
+    {
+      "id": "tsingy-bemaraha-nature-v2",
+      "descriptionAdvanced": "Die Natur des Tsingy de Bemaraha-Nationalparks ist eine der außergewöhnlichsten Landschaften der Welt und gehört zum UNESCO-Weltnaturerbe. Das Relief besteht aus einem riesigen Kalksteinplateau, das durch Erosion in messerscharfe Nadeln ('Tsingy') verwandelt wurde. Diese unzugängliche Steinfestung schützt ein Labyrinth aus Canyons, in denen isolierte Regenwälder und seltene Tierarten wie der Deckensifaka überlebt haben. Bemaraha ist ein Paradebeispiel für die Anpassung der Natur an extreme geomorphologische Bedingungen. Die Vegetation auf den Felsen umfasst bizarre sukkulente Pflanzen wie Baobabs und Pachypodium, während in den feuchten Spalten Orchideen gedeihen. Biologie K7 — Karst-Ökosysteme und biologische Refugien.",
+      "factsAdvanced": [
+        "Größtes Kalkstein-Karstgebiet Madagaskars (UNESCO-Welterbe)",
+        "Weltberühmt für seine 'Steinwälder' aus messerscharfen Felsnadeln",
+        "Beherbergt den seltenen Deckensifaka und elf weitere Lemurenarten",
+        "Geprägt durch ein komplexes System von Höhlen und Schluchten",
+        "Besitzt eine Flora mit extremen Anpassungen an Wassermangel",
+        "Wichtigster Standort für die Erforschung der Karst-Biodiversität",
+        "Natürliche Barriere, die den Primärwald vor menschlichem Eingriff schützt",
+        "Symbol für die erdgeschichtliche Dynamik der madagassischen Westküste"
+      ]
+    },
+    {
+      "id": "tsingy-bemaraha-park-life-v2",
+      "descriptionAdvanced": "Das Leben im Nationalpark Tsingy de Bemaraha wird durch die extremen Herausforderungen des Geländes und das trockene Klima des Westens bestimmt. Für Besucher ist der Park ein Abenteuerort, der über Hängebrücken, Eisenleitern und enge Spalten erschlossen wird. Ökologisch gesehen ist der Park ein Mikrokosmos, in dem Tiere wie der Weißkopfmaki und zahlreiche Chamäleons in den schattigen Canyons Schutz vor der glühenden Hitze finden. Die Verwaltung des Parks arbeitet eng mit den lokalen Gemeinschaften zusammen, um nachhaltigen Tourismus zu fördern und die illegale Jagd zu verhindern. Bemaraha ist ein Modell für den Schutz von 'Insel-Ökosystemen' innerhalb eines massiven Felsreliefs. Natur K6 — Ökotourismus und Schutzgebietsmanagement.",
+      "factsAdvanced": [
+        "Einer der meistbesuchten und spektakulärsten Nationalparks der Insel",
+        "Erschließung erfolgt über anspruchsvolle Klettersteige (Via Ferrata)",
+        "Wichtigstes Schutzprojekt für den bedrohten madagassischen See-Adler",
+        "Zentrum für nachhaltige Entwicklung in der abgelegenen Melaky-Region",
+        "Bietet geführte Exkursionen durch die 'Kleinen' und 'Großen' Tsingy",
+        "Schauplatz für internationale Naturdokumentationen",
+        "Lebensraum für hochspezialisierte, höhlenbewohnende Reptilien",
+        "Symbol für die Verbindung von Abenteuer und Naturschutz"
+      ]
+    },
+    {
+      "id": "tsingy-namoroka-nature-v2",
+      "descriptionAdvanced": "Die Natur des Namoroka-Nationalparks im Nordwesten ist eine faszinierende Variation der klassischen Tsingy-Landschaften. Das Relief besteht aus einem isolierten Kalksteinmassiv, das durch Erosion in weiche Formen und tiefe Gorges geschliffen wurde. Im Gegensatz zu Bemaraha ist Namoroka durch weite Höhlensysteme und unterirdische Flüsse geprägt, die in der Trockenzeit lebenswichtige Wasserlöcher für Lemuren und Vögel bilden. Der Park beherbergt acht Lemurenarten und eine Vielzahl von Endemiten des trockenen Laubwaldes. Namoroka ist ein Beispiel für ein fragiles Ökosystem, das extrem anfällig für klimatische Veränderungen ist und durch seine Abgeschiedenheit eine fast archaische Biodiversität bewahrt hat. Biologie K7 — Trockenwald-Karst und Hydrologie.",
+      "factsAdvanced": [
+        "Isoliertes Karstschutzgebiet in der Provinz Mahajanga",
+        "Bekannt für seine weitläufigen und tiefen Höhlensysteme",
+        "Beherbergt den seltenen Von-der-Decken-Sifaka",
+        "Relief ist geprägt durch wassergefüllte Senken und Dolinen",
+        "Wichtiges Rückzugsgebiet für die Fauna des Nordwestens",
+        "Besitzt eine Flora mit vielen endemischen Aloe- und Euphorbienarten",
+        "Zentrum für speleologische Forschungen in Madagaskar",
+        "Symbol für den Schutz seltener Karst-Ökosysteme"
+      ]
+    },
+    {
+      "id": "tsingy-namoroka-park-life-v2",
+      "descriptionAdvanced": "Das Leben im Namoroka-Park ist geprägt von extremer Stille und der Anpassung an die jahreszeitliche Trockenheit. In dieser abgelegenen Region Madagaskars ist der Park ein Refugium, in dem Naturprozesse fast ungestört ablaufen können. Die Tiere hier sind Meister der Überlebenskunst, wie etwa die Mausmakis, die in der Trockenzeit in einen Schlafzustand verfallen. Der Schutz des Parks wird durch die traditionellen Gesetze der lokalen Bevölkerung unterstützt, die viele Teile des Waldes als heilig betrachtet. Für Forscher und Abenteurer bietet Namoroka Einblicke in ein Madagaskar, wie es vor Jahrhunderten war – wild, geheimnisvoll und biologisch einzigartig. Natur K6 — Tierökologie in ariden Zonen.",
+      "factsAdvanced": [
+        "Einer der abgelegensten und ursprünglichsten Parks Madagaskars",
+        "Besitzt keine permanente touristische Infrastruktur",
+        "Heimat von über 80 verschiedenen Vogelarten",
+        "Wichtiges Schutzgebiet für das Aussetzen geretteter Landschildkröten",
+        "Geprägt durch eine enge Verzahnung von Wald und Kalkstein",
+        "Zentrum für das Monitoring von Lemurenpopulationen im Nordwesten",
+        "Bietet spektakuläre Nachthimmel aufgrund fehlender Lichtverschmutzung",
+        "Symbol für den Erhalt der biologischen Integrität des Westens"
+      ]
+    },
+    {
+      "id": "tsiribihina-delta-nature-v2",
+      "descriptionAdvanced": "Das Delta des Tsiribihina-Flusses an der Westküste ist ein riesiges System aus Wasserläufen, Sandbänken und Mangrovenwäldern. Es ist eines der ökologisch wertvollsten Feuchtgebiete Madagaskars und ein kritisches Habitat für Wasservögel und Meeresschildkröten. Das Relief des Deltas verändert sich ständig durch die Sedimentfracht des Flusses, was zur Bildung neuer Inseln und Kanäle führt. Die Mangroven fungieren als natürlicher Küstenschutz und als Filter für Nährstoffe, die aus dem Hochland kommen. Das Delta ist zudem ein wichtiger Wirtschaftsraum für die lokale Fischerei und den traditionellen Bootsverkehr. Es symbolisiert die gewaltige Dynamik der madagassischen Westküste an der Mündung eines ihrer größten Flüsse. Geografie K8 — Delta-Morphologie und Küstenökologie.",
+      "factsAdvanced": [
+        "Eines der flächenmäßig größten Flussdeltas Madagaskars",
+        "Wichtigstes Rast- und Brutgebiet für Zugvögel im Westen",
+        "Beherbergt ausgedehnte, geschützte Mangroven-Ökosysteme",
+        "Zentrum für die handwerkliche Fischerei auf Garnelen und Krabben",
+        "Wichtiges Schutzgebiet für das bedrohte Madagaskar-Krokodil",
+        "Relief ist geprägt durch periodische Überschwemmungen und Neulandbildung",
+        "Lebensader für den regionalen Handel zwischen Menabe und Melaky",
+        "Bedeutender Standort für die Erforschung von Küstenveränderungen"
+      ]
+    },
+    {
+      "id": "tsiribihina-river-nature-v2",
+      "descriptionAdvanced": "Der Tsiribihina ist einer der legendärsten Flüsse Madagaskars und die wichtigste Verkehrsader im Westen der Insel. Er entspringt im zentralen Hochland und windet sich durch spektakuläre Schluchten und weite Ebenen zum Mosambik-Kanal. Berühmt ist der Fluss für seine Bootsfahrten, bei denen Reisende die vielfältige Natur des Westens, von Baobabs bis zu Lemuren in den Uferwäldern, erleben können. Das Relief des Tsiribihina ist geprägt durch massive Erosion und Sandbänke, die in der Trockenzeit weite Teile des Flussbettes einnehmen. Der Fluss ist nicht nur ein Naturwunder, sondern auch die Lebensgrundlage für tausende Menschen, die an seinen fruchtbaren Ufern Landwirtschaft und Fischerei betreiben. Geografie K7 — Flusssysteme und Transportwege.",
+      "factsAdvanced": [
+        "Längster schiffbarer Fluss im Westen Madagaskars",
+        "Bekannt für die spektakulären Schluchten von Bemaraha",
+        "Beherbergt die berühmten Wasserfälle von Anosin'ampela",
+        "Haupthandelsweg für Zebu-Rinder und Tabak aus dem Hinterland",
+        "Reich an Nilkrokodilen und seltenen Wasservögeln",
+        "Geprägt durch dramatische Veränderungen des Wasserstandes",
+        "Wichtigstes Ziel für Flusssafaris in traditionellen Lastkähnen",
+        "Lebenswichtige Wasserquelle für die trockene Menabe-Region"
+      ]
+    },
+    {
+      "id": "tsitondroina-relief-v2",
+      "descriptionAdvanced": "Das Tsitondroina-Massiv ist eine markante geologische Erhebung im zentralen Westen Madagaskars. Das Relief ist geprägt durch ein isoliertes Gebirge aus altem kristallinem Gestein, das sich über die umliegenden Peneplains erhebt. Diese geomorphologische Struktur bildet eine signifikante Barriere für die Luftmassen, was zur Entstehung lokaler Regenschatten-Effekte führt. Die Hänge des Tsitondroina sind oft durch Lavakas (Erosionsrinnen) zerfurcht, die Zeugnis von der Instabilität der Lateritböden nach der Entwaldung ablegen. Geologisch ist das Massiv ein wichtiger Teil des präkambrischen Fundaments der Insel und bietet Einblicke in die tektonische Geschichte der Region Bongolava. Geografie K8 — Inselberge und Erosionsphänomene.",
+      "factsAdvanced": [
+        "Isoliertes Gebirgsmassiv in der Region Bongolava",
+        "Geologisch Teil des zentralen Hochland-Grundgebirges",
+        "Relief ist durch extreme Erosion und Lavaka-Bildung gekennzeichnet",
+        "Wichtiger Wasserspeicher für die Zuflüsse des Tsiribihina",
+        "Höchster Punkt bietet weite Rundblicke über den Westen",
+        "Besitzt eine spezialisierte Flora der Übergangszone",
+        "Symbol für die weitreichende Landschaftsveränderung im Hochland",
+        "Wissenschaftlich bedeutend für die Erforschung der Bodenstabilität"
+      ]
+    },
+    {
+      "id": "tulear-sea-museum-landmarks-v2",
+      "descriptionAdvanced": "Das Meeresmuseum von Toliara (Musée de la Mer) ist eine herausragende wissenschaftliche Einrichtung, die sich der Erforschung und Dokumentation der marinen Welt des Kanals von Mosambik widmet. Das Museum wird vom Institut für Meereswissenschaften (IHSM) betrieben und beherbergt eine spektakuläre Sammlung mariner Organismen, darunter den legendären Quastenflosser (Coelacanth). Diese prähistorische Fischart, die lange als ausgestorben galt, wurde in den tiefen Gewässern vor Madagaskars Südwestküste wiederentdeckt. Das Museum bietet tiefe Einblicke in die marine Biodiversität des großen Korallenriffs von Toliara und spielt eine zentrale Rolle bei der Ausbildung madagassischer Meeresbiologen. Biologie K8 — Meeresbiologie und prähistorische Fauna.",
+      "factsAdvanced": [
+        "Beherbergt ein konserviertes Exemplar des Quastenflossers (Latimeria chalumnae)",
+        "Einziges spezialisiertes Meereskundemuseum Madagaskars",
+        "Teil des renommierten Instituts IHSM der Universität Toliara",
+        "Zeigt die enorme Vielfalt der Korallen und Muscheln des Südwestens",
+        "Wichtiges Zentrum für die Forschung zum Schutz der Meeresökosysteme",
+        "Bietet Einblicke in die traditionellen Fischfangmethoden der Vezo",
+        "Wahrzeichen für den wissenschaftlichen Status der Stadt Toliara",
+        "Unverzichtbares Ziel für Studenten und Naturforscher"
+      ]
+    },
+    {
+      "id": "university-of-antananarivo-landmarks-v2",
+      "descriptionAdvanced": "Die Universität von Antananarivo (Université d'Antananarivo) ist das akademische Herz Madagaskars und eine der angesehensten Bildungseinrichtungen im Indischen Ozean. Auf dem Hügel von Ankatso gelegen, überblickt der Campus die Hauptstadt und beherbergt zehntausende Studenten in zahlreichen Fakultäten. Gegründet in der Kolonialzeit und nach der Unabhängigkeit massiv ausgebaut, symbolisiert die Universität den Stolz und die intellektuelle Ambition der madagassischen Nation. Die Architektur des Campus kombiniert moderne Funktionalität mit weitläufigen Grünflächen. Die Universität ist der zentrale Ort für die Ausbildung der nationalen Elite und ein bedeutendes Zentrum für die Erforschung der madagassischen Kultur und Naturwissenschaften. Bildung K8 — Hochschulwesen und Wissenschaftsstandorte.",
+      "factsAdvanced": [
+        "Größte und älteste Universität der Republik Madagaskar",
+        "Campus befindet sich auf dem strategisch gelegenen Hügel Ankatso",
+        "Zentrum für die Ausbildung in Medizin, Jura und Geisteswissenschaften",
+        "Symbol für den sozialen Aufstieg durch Bildung",
+        "Beherbergt wichtige nationale Forschungsinstitute und Museen",
+        "Wichtiger Schauplatz für die politische Willensbildung der Jugend",
+        "Kooperiert mit zahlreichen internationalen Universitäten",
+        "Wesentlicher Pfeiler für die technologische Entwicklung des Landes"
+      ]
+    },
+    {
+      "id": "vakona-lemuren-insel-life-v2",
+      "descriptionAdvanced": "Die Lemuren-Insel des Vakona Forest Lodge bei Andasibe ist ein weltweit bekannter Ort für hautnahe Begegnungen mit Madagaskars berühmtesten Bewohnern. Auf diesem künstlich geschützten Inselareal leben Lemuren, die oft aus schlechter Haltung gerettet wurden und sich an die Nähe des Menschen gewöhnt haben. Besucher können hier Kattas, Bambuslemuren und Varis beobachten, die oft sogar auf die Schultern der Gäste springen. Obwohl es kein reiner Wildpark ist, dient die Insel als wichtiges Bildungszentrum, um das Bewusstsein für den Schutz der Lemuren zu schärfen. Die Insel ist ein Beispiel für den naturnahen Tourismus und die Bemühungen, den Reichtum der madagassischen Fauna einem breiten Publikum zugänglich zu machen. Biologie K6 — Tierverhalten und Tourismus-Management.",
+      "factsAdvanced": [
+        "Privates Reservat für gerettete und rehabilitierte Lemuren",
+        "Einziger Ort in Andasibe für direkten Kontakt mit den Tieren",
+        "Beherbergt zahme Populationen von Ringelschwanzmakis und Varis",
+        "Zentrum für die Sensibilisierung internationaler Touristen",
+        "Eingebettet in ein üppiges privates Regenwaldgebiet",
+        "Wichtiges Ziel für Familien und Naturfotografen",
+        "Bietet Einblicke in die Sozialstrukturen verschiedener Primatenarten",
+        "Unterstützt lokale Arbeitsplätze im Bereich des Ökotourismus"
+      ]
+    },
+    {
+      "id": "vohimana-relief-v2",
+      "descriptionAdvanced": "Das Vohimana-Relief ist ein Teil der steilen Ostflanke Madagaskars und ein kritisches Übergangsgebiet zwischen dem zentralen Hochland und den Küstenebenen. Das Gelände ist geprägt durch schroffe, bewaldete Grate und tief eingeschnittene Täler, die durch den hohen Niederschlag der Passatregion geformt wurden. Die Topographie von Vohimana wirkt wie ein natürlicher Schwamm, der das Regenwasser speichert und kontrolliert an die Flüsse der Ostküste abgibt. Das Relief beherbergt eine enorme Dichte an endemischen Pflanzen und Tieren, die an das steile und feuchte Gelände angepasst sind. Geologisch ist Vohimana ein Schauplatz intensiver lateritischer Verwitterung, was die charakteristische rote Farbe der erodierten Stellen erklärt. Geografie K7 — Gebirgsökologie und Regenwald-Topographie.",
+      "factsAdvanced": [
+        "Isoliertes Gebirgsrelief in der Region Atsinanana",
+        "Wichtiger biologischer Korridor zwischen Andasibe und der Küste",
+        "Geprägt durch ein extrem steiles und unwegsames Gelände",
+        "Zentrum für gemeindebasierte Wiederaufforstungsprojekte",
+        "Beherbergt spektakuläre Kaskaden und kristallklare Bergbäche",
+        "Geologisch ein Teil der großen Bruchkante des madagassischen Ostens",
+        "Höchster Punkt bietet Einblicke in die Struktur des Regenwaldgürtels",
+        "Symbol für den Kampf gegen die Erosion an steilen Hängen"
+      ]
+    },
+    {
+      "id": "vohipeno-arab-settlement-history-v2",
+      "descriptionAdvanced": "Vohipeno ist das geistige Zentrum der Antemoro-Kultur und einer der historisch bedeutsamsten Orte an der madagassischen Südostküste. Gegründet von arabischen Einwanderern im 15. Jahrhundert, ist der Ort bis heute der Sitz der 'Katibo' – der Schriftgelehrten, die das heilige Wissen in den 'Sorabe'-Manuskripten bewahren. Die Architektur von Vohipeno spiegelt die Verbindung zwischen islamischen Traditionen und madagassischen Bräuchen wider. Der Ort ist berühmt für die Herstellung des handgeschöpften Antemoro-Papiers, das ursprünglich für die Niederschrift religiöser Texte verwendet wurde. Vohipeno ist ein lebendiges Denkmal für den tiefgreifenden kulturellen Einfluss der arabischen Welt auf die Geschichte Madagaskars. Geschichte K8 — Antemoro-Kultur und religiöse Schrifttraditionen.",
+      "factsAdvanced": [
+        "Zentrum der Antemoro-Bevölkerung mit starken arabischen Wurzeln",
+        "Ort der Bewahrung der heiligen Sorabe-Schriften (malagasy in arabischer Schrift)",
+        "Traditioneller Herkunftsort des berühmten Antemoro-Papiers",
+        "Sitz mächtiger Schriftgelehrter und Astrologen (Ombiasy)",
+        "Wichtigstes religiöses Zentrum an der Südostküste",
+        "Bewahrt jahrhundertealte Bräuche und soziale Hierarchien",
+        "Zeugnis der frühen islamischen Migration nach Madagaskar",
+        "Kulturelles Bindeglied zwischen Afrika, dem Orient und Madagaskar"
+      ]
+    },
+    {
+      "id": "zoma-market-historical-site-history-v2",
+      "descriptionAdvanced": "Der Zoma von Antananarivo war einst der größte Freiluftmarkt der Welt und das pulsierende Herz der madagassischen Hauptstadt. Auf dem Platz von Analakely gelegen, versammelten sich hier jeden Freitag tausende Händler unter charakteristischen weißen Sonnenschirmen, um Waren aus dem ganzen Land anzubieten. Gegründet unter der Monarchie, war der Zoma nicht nur ein Ort des Handels, sondern auch ein soziales und politisches Forum für den Austausch von Neuigkeiten. Obwohl der Markt heute dezentralisiert wurde, bleibt der Ort ein historisches Symbol für den Unternehmergeist der Madagassen und die Bedeutung der Marktplätze für das urbane Leben. Geschichte K7 — Wirtschaftsgeschichte und städtische Traditionen.",
+      "factsAdvanced": [
+        "Ehemals größter Freiluftmarkt der Welt im Herzen von Tana",
+        "Name 'Zoma' bedeutet 'Freitag' (der traditionelle Markttag)",
+        "Geprägt durch das ikonische Bild weißer Schirmdächer in Analakely",
+        "Wichtigster Umschlagplatz für Produkte aus allen Regionen der Insel",
+        "Zentrum der nationalen Kommunikation und sozialen Interaktion",
+        "Historisch verbunden mit der Entwicklung der Merina-Wirtschaft",
+        "Wurde im Jahr 1997 zur Entlastung des Stadtverkehrs reorganisiert",
+        "Symbol für die multikulturelle Vielfalt des madagassischen Handels"
+      ]
+    },
+    {
+      "id": "zombitse-vohibasia-park-life-v2",
+      "descriptionAdvanced": "Der Zombitse-Vohibasia-Nationalpark im Südwesten ist ein ökologisches Juwel an der Schwelle zum tiefen Süden. Inmitten einer Region, die durch Savannen und Holzkohleproduktion geprägt ist, schützt dieser Park den letzten nennenswerten Trockenwaldrest des Plateaus. Der Park ist weltberühmt für seine Vogelwelt, insbesondere den Appert-Bülbül, der ausschließlich in diesem kleinen Waldgebiet vorkommt. Das Relief ist flach, wird aber durch monumentale Baobabs und dichten Dornwald gegliedert. Zombitse ist ein kritisches Rückzugsgebiet für Lemuren wie den Larvensifaka und bietet ein faszinierendes Beispiel für die Widerstandsfähigkeit der Natur in einer extrem trockenen Umgebung. Biologie K7 — Ornithologie und Trockenwald-Relikte.",
+      "factsAdvanced": [
+        "Kritischer Rückzugsort für den endemischen Appert-Bülbül",
+        "Schützt die letzten ursprünglichen Trockenwälder des Isalo-Plateaus",
+        "Beherbergt acht Lemurenarten, darunter den Wieselmaki",
+        "Wichtiger Standort für die Zählung seltener Greifvögel",
+        "Besitzt eine hohe Dichte an monumentalen 'Grandidier'-Baobabs",
+        "Zentrum für Umweltbildung für die Bevölkerung entlang der RN7",
+        "Lebensraum für spezialisierte Reptilien und Geckos des Südens",
+        "Symbol für den Kampf gegen die Desertifikation im Südwesten"
+      ]
+    }
+  ]
+}

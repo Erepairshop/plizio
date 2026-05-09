@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "amud-ruins-history-v2",
+      "descriptionAdvanced": "Amud romjai az ókori és középkori szomáliai civilizáció egyik legtitokzatosabb és legkiterjedtebb régészeti lelőhelye. A Borama közelében található romváros egykor virágzó kereskedelmi és mezőgazdasági központ volt, ahol a kőépületek fejlett építészeti kultúráról tanúskodnak. A helyszínen folytatott feltárások során kerámia- és fémműves emlékek kerültek elő, amelyek a terület egykori gazdasági jólétét és a környező régiókkal fenntartott élénk kereskedelmi kapcsolatokat igazolják. Amud romjai ma a térség történelmi jelentőségének egyik legfontosabb bizonyítékai, amelyek segítenek megérteni az Adal Szultanátus és elődeinek társadalmi struktúráit.",
+      "factsAdvanced": [
+        "Jelentős középkori romváros.",
+        "Borama közelében található.",
+        "Fejlett kőépítészeti kultúra.",
+        "Virágzó kereskedelmi és mezőgazdasági központ volt.",
+        "Gazdag kerámia- és fémműves emlékek.",
+        "Kulcsfontosságú lelőhely az Adal Szultanátus korából."
+      ]
+    },
+    {
+      "id": "abasa-ruins-history-v2",
+      "descriptionAdvanced": "Abasa romvárosa a középkori Szomália egyik legérdekesebb régészeti lelőhelye, amely a térség egykori kereskedelmi és politikai jelentőségét dokumentálja. A romok között található kőépületek és falmaradványok arra utalnak, hogy a település az Adal Szultanátus fontos állomása volt, amely összekötötte a szomáliai partvidéket az etiópiai fennsíkokkal. A helyszín különleges építészeti megoldásai és a feltárt leletek tanúskodnak a korszak fejlett életminőségéről és kulturális cseréjéről. Abasa ma egy csendes emléke annak az időszaknak, amikor a szomáliai városok az indiai-óceáni kereskedelem aktív részei voltak.",
+      "factsAdvanced": [
+        "Középkori régészeti lelőhely.",
+        "Fontos kereskedelmi és politikai állomás volt.",
+        "Az Adal Szultanátushoz tartozott.",
+        "Összekötő pont a partvidék és az etiópiai fennsíkok között.",
+        "Különleges kőépítészeti emlékek.",
+        "Kulturális cserehelyszín a középkorban."
+      ]
+    },
+    {
+      "id": "gogoshis-qabuur-history-v2",
+      "descriptionAdvanced": "Gogoshis Qabuur történelmi temetkezési helyszín, amely a középkori szomáliai kultúra és vallási tradíciók emlékeit őrzi. A lelőhely jelentősége az itt található sírkövekben és azok díszítésében rejlik, amelyek egyedülálló módon mutatják be a korszak helyi művészetét és temetkezési szokásait. A helyszín a kutatók szerint betekintést nyújt abba, hogyan alakultak ki az iszlám hatások és a hagyományos szomáliai hiedelemvilág közötti szintézisek a történelem során. Gogoshis Qabuur így nemcsak egy temető, hanem a középkori társadalmi viszonyok és vallási élet fontos dokumentuma is.",
+      "factsAdvanced": [
+        "Történelmi temetkezési helyszín.",
+        "A középkori szomáliai kultúra emlékeit őrzi.",
+        "Jellegzetes és díszes sírkövek.",
+        "Betekintést nyújt a vallási tradíciókba.",
+        "Iszlám hatások a helyi művészetben.",
+        "Fontos forrás a szomáliai társadalmi történelem kutatásához."
+      ]
+    }
+  ]
+}

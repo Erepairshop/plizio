@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "southafrica-harrismith-cities-v2",
+      "descriptionAdvanced": "Harrismith a dél-afrikai N3 autópálya egyik legfontosabb közlekedési állomása, amely festői környezetben, a jellegzetes, lapos tetejű Platberg-hegy lábánál fekszik. A város az ország egyik fontos tranzitpontja, amely a Szabadállam és KwaZulu-Natal tartományokat köti össze. Történelmileg az 1849-ben alapított település jelentős kereskedelmi és mezőgazdasági központtá vált, emellett a Platberg-hegy a túrázók és a természetkedvelők számára kínál felejthetetlen panorámát.",
+      "factsAdvanced": [
+        "Fontos közlekedési tranzitpont az N3 autópályán.",
+        "A jellegzetes Platberg-hegy lábánál fekszik.",
+        "1849-es alapítású, történelmi jelentőségű település.",
+        "Nevét Sir Harry Smith brit kormányzóról kapta.",
+        "A régió kereskedelmi és mezőgazdasági szolgáltatóközpontja.",
+        "A környező hegyvidék népszerű célpont a természetjárók számára."
+      ]
+    },
+    {
+      "id": "southafrica-phuthaditjhaba-cities-v2",
+      "descriptionAdvanced": "Phuthaditjhaba, amelyet gyakran QwaQwa néven ismernek, a Drakensberg-hegység északi lábánál elhelyezkedő festői kisváros. A település egykor a QwaQwa bantusztán adminisztratív központja volt, és ma is a régió egyik legmeghatározóbb települése. A név jelentése – 'a nemzetek találkozóhelye' – jól utal a város multikulturális múltjára és a hegyek közé ékelődött környezetére, amely a régió egyik leglátványosabb természeti adottsága.",
+      "factsAdvanced": [
+        "A Drakensberg-hegység lábánál fekvő település.",
+        "A név jelentése: 'A nemzetek találkozóhelye'.",
+        "A korábbi QwaQwa bantusztán adminisztratív központja volt.",
+        "A régió egyik kulturális és társadalmi meghatározó városa.",
+        "Látványos hegyvidéki környezet jellemzi.",
+        "Kulturális és történelmi öröksége fontos a környéken."
+      ]
+    },
+    {
+      "id": "southafrica-newcastle-cities-v2",
+      "descriptionAdvanced": "Newcastle a KwaZulu-Natal tartomány északi részének legnagyobb városa, amely gazdag ipari és történelmi hagyományokkal rendelkezik. A város a régió egyik legjelentősebb textilipari és kereskedelmi központja, amely az elmúlt évtizedekben dinamikusan fejlődött. Történelmileg a szénbányászat alapozta meg a város növekedését, ma pedig a diverzifikált gazdaság és az erős ipari alap teszi a régió egyik meghatározó gazdasági motorjává.",
+      "factsAdvanced": [
+        "KwaZulu-Natal tartomány északi részének központja.",
+        "A dél-afrikai textilipar egyik kulcsfontosságú városa.",
+        "Gazdag szénbányászati múlttal rendelkező település.",
+        "1864-es alapítású, dinamikusan fejlődő ipari központ.",
+        "A régió meghatározó kereskedelmi és gazdasági motorja.",
+        "Sokoldalú, modern infrastruktúrával rendelkező város."
+      ]
+    },
+    {
+      "id": "southafrica-richards-bay-cities-v2",
+      "descriptionAdvanced": "Richards Bay az Indiai-óceán partján fekvő nagy kikötőváros, amely a Dél-Afrikából induló szénszállítás egyik globális terminálja. A város az 1970-es években indult hatalmas ipari fejlesztéseknek köszönhetően vált világszintű jelentőségű kikötővárossá. Az óceán közelsége, a természetes lagúnák és a jelentős nehézipari létesítmények – köztük a világ egyik legnagyobb alumíniumkohója – egyedülálló ipari és természeti környezetet hoztak létre itt.",
+      "factsAdvanced": [
+        "Dél-Afrika egyik legnagyobb szén-export terminálja.",
+        "Világszintű jelentőségű, mély vizű kikötő.",
+        "Az 1970-es években zajlott hatalmas ipari fejlesztések központja.",
+        "A világ egyik legnagyobb alumíniumkohója található itt.",
+        "Ipari és természeti látnivalók különleges egyvelege.",
+        "Fontos tengerészeti és nehézipari csomópont."
+      ]
+    },
+    {
+      "id": "southafrica-ladysmith-cities-v2",
+      "descriptionAdvanced": "Ladysmith egy történelmi kisváros a Klip-folyó partján, amely világhírnévre a búr háború idején, az 1899–1900-as ostrom révén tett szert. A 118 napig tartó ostrom a konfliktus egyik legmeghatározóbb eseménye volt. Ma a város a régió fontos kereskedelmi központja és tranzitállomása, emellett a búr háborús történelem iránt érdeklődők számára kötelező úti cél, amely megőrzi a múlt emlékeit és a város történelmi karakterét.",
+      "factsAdvanced": [
+        "A búr háború (1899–1900) egyik híres ostromának helyszíne.",
+        "118 napig tartó elszigeteltségben volt a háború idején.",
+        "A Klip-folyó partján fekvő kereskedelmi állomás.",
+        "Fontos történelmi emlékhely a búr háborús útvonalon.",
+        "A régió kereskedelmi és közlekedési tranzitpontja.",
+        "Megőrzi a múltbéli ostrom történelmi emlékeit."
+      ]
+    }
+  ]
+}

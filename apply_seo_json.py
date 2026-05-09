@@ -4,41 +4,92 @@ import sys
 import os
 
 def find_object_bounds(content, start_index):
-    """
-    Finds the closing brace of a JSON-like object in a string,
-    handling nested braces and strings correctly.
-    """
     brace_count = 0
     in_string = False
     escape = False
     
-    for i in range(start_index, len(content)):
+    real_start = content.find('{', start_index)
+    if real_start == -1:
+        return -1
+    brace_count = 1
+    
+    for i in range(real_start + 1, len(content)):
         char = content[i]
         
         if in_string:
             if escape:
                 escape = False
-            elif char == '\\':
+            elif char == chr(92):
                 escape = True
-            elif char == '"':
+            elif char == in_string:
                 in_string = False
         else:
-            if char == '"':
-                in_string = True
+            if char in ('"', "'", "`"):
+                in_string = char
             elif char == '{':
                 brace_count += 1
             elif char == '}':
                 brace_count -= 1
                 if brace_count == 0:
-                    return i # index of closing brace
+                    return i
                     
     return -1
+
+def find_string_bounds(content, start_index):
+    quote_char = content[start_index]
+    escape = False
+    for i in range(start_index + 1, len(content)):
+        char = content[i]
+        if escape:
+            escape = False
+        elif char == chr(92):
+            escape = True
+        elif char == quote_char:
+            return i
+    return -1
+
+def get_field_inner_bounds(block, field_name, lang):
+    field_pattern = re.search(r'\b' + field_name + r'\b\s*:\s*\{', block)
+    if not field_pattern:
+        return None
+    
+    obj_start = field_pattern.end()
+    obj_end = find_object_bounds(block, field_pattern.start())
+    if obj_end == -1:
+        return None
+        
+    inner_content = block[obj_start:obj_end]
+    
+    lang_pattern = re.search(
+        r'\b' + lang + r'\b\s*:\s*(["\'`]|\[)', 
+        inner_content
+    )
+
+    if not lang_pattern:
+        return None
+        
+    val_start_char = lang_pattern.group(1)
+    val_start_in_inner = lang_pattern.start(1)
+
+    if val_start_char == '[':
+        brace_depth = 1
+        i = val_start_in_inner + 1
+        while i < len(inner_content) and brace_depth > 0:
+            if inner_content[i] == '[': brace_depth += 1
+            elif inner_content[i] == ']': brace_depth -= 1
+            i += 1
+        val_end_in_inner = i
+    else:
+        val_end_in_inner = find_string_bounds(inner_content, val_start_in_inner) + 1
+
+    return (obj_start + val_start_in_inner, obj_start + val_end_in_inner)
+
 
 def apply_seo(json_file):
     with open(json_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    lang = data.get('lang', 'en')
+    lang_setting = data.get('lang', 'en')
     items = data.get('items', [])
     files = data.get('files', [])
 
@@ -52,90 +103,70 @@ def apply_seo(json_file):
         with open(ts_file, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        updated = False
+        original_content = content
         
-        # Process each POI ID specified in the JSON file
         for poi_id, item in item_map.items():
-            # Find the exact start of the POI object
-            id_match = re.search(r'\{\s*id:\s*"' + re.escape(poi_id) + r'"', content)
+            id_match = re.search(r'id:\s*"' + re.escape(poi_id) + r'"', content)
             if not id_match:
                 continue
             
-            start_index = id_match.start()
-            end_index = find_object_bounds(content, start_index)
+            # Find the start of the object containing this ID
+            obj_start = content.rfind('{', 0, id_match.start())
+            if obj_start == -1: continue
             
+            end_index = find_object_bounds(content, obj_start)
             if end_index == -1:
-                print(f"Could not find bounds for {poi_id}")
                 continue
                 
-            poi_block = content[start_index:end_index + 1]
+            poi_block = content[obj_start:end_index + 1]
             new_poi_block = poi_block
-            
+
+            # Handle descriptionAdvanced
             if 'descriptionAdvanced' in item:
-                new_desc = item['descriptionAdvanced'].replace('"', '\\"').replace('\n', ' ')
-            else:
-                new_desc = None
+                new_desc = item['descriptionAdvanced'].replace('"', chr(92) + '"').replace('\n', ' ')
                 
+                if 'descriptionAdvanced:' not in new_poi_block:
+                    addition = f',\n    descriptionAdvanced: {{ {lang_setting}: "{new_desc}" }}'
+                    last_brace = new_poi_block.rfind('}')
+                    new_poi_block = new_poi_block[:last_brace] + addition + new_poi_block[last_brace:]
+                else:
+                    bounds = get_field_inner_bounds(new_poi_block, "descriptionAdvanced", lang_setting)
+                    if bounds:
+                        new_poi_block = new_poi_block[:bounds[0]] + '"' + new_desc + '"' + new_poi_block[bounds[1]:]
+                    else:
+                        match = re.search(r'descriptionAdvanced:\s*\{', new_poi_block)
+                        if match:
+                            insert_pos = match.end()
+                            new_poi_block = new_poi_block[:insert_pos] + f' {lang_setting}: "{new_desc}",' + new_poi_block[insert_pos:]
+
+            # Handle factsAdvanced
             if 'factsAdvanced' in item:
                 new_facts = item['factsAdvanced']
                 facts_json = json.dumps(new_facts, ensure_ascii=False)
-            else:
-                new_facts = None
-
-            # --- Handle descriptionAdvanced ---
-            if new_desc is not None:
-                if "descriptionAdvanced" in new_poi_block:
-                    desc_inner_pattern = r'(descriptionAdvanced:\s*\{)([\s\S]*?)(\})'
-                    desc_match = re.search(desc_inner_pattern, new_poi_block)
-                    if desc_match:
-                        prefix, inner, suffix = desc_match.groups()
-                        lang_pattern = r'(' + lang + r':\s*)(["\'`][\s\S]*?["\'`])'
-                        if re.search(lang_pattern, inner):
-                            new_inner = re.sub(lang_pattern, r'\1"' + new_desc + r'"', inner)
-                        else:
-                            sep = "," if inner.strip() and not inner.strip().endswith(',') else ""
-                            new_inner = inner.rstrip() + f'{sep}\n      {lang}: "{new_desc}"\n    '
-                        new_poi_block = new_poi_block.replace(desc_match.group(0), prefix + new_inner + suffix)
+                
+                if 'factsAdvanced:' not in new_poi_block:
+                    addition = f',\n    factsAdvanced: {{ {lang_setting}: {facts_json} }}'
+                    last_brace = new_poi_block.rfind('}')
+                    new_poi_block = new_poi_block[:last_brace] + addition + new_poi_block[last_brace:]
                 else:
-                    addition = f',\n    descriptionAdvanced: {{\n      {lang}: "{new_desc}"\n    }}'
-                    # Strip closing brace and trailing comma if present
-                    inner_content = new_poi_block[:-1].rstrip()
-                    if inner_content.endswith(','):
-                        inner_content = inner_content[:-1].rstrip()
-                    new_poi_block = inner_content + addition + "\n  }"
-
-            # --- Handle factsAdvanced ---
-            if new_facts is not None:
-                if "factsAdvanced" in new_poi_block:
-                    facts_inner_pattern = r'(factsAdvanced:\s*\{)([\s\S]*?)(\})'
-                    facts_match = re.search(facts_inner_pattern, new_poi_block)
-                    if facts_match:
-                        prefix, inner, suffix = facts_match.groups()
-                        lang_pattern = r'(' + lang + r':\s*)(\[[\s\S]*?\])'
-                        if re.search(lang_pattern, inner):
-                            new_inner = re.sub(lang_pattern, r'\1' + facts_json, inner)
-                        else:
-                            sep = "," if inner.strip() and not inner.strip().endswith(',') else ""
-                            new_inner = inner.rstrip() + f'{sep}\n      {lang}: {facts_json}\n    '
-                        new_poi_block = new_poi_block.replace(facts_match.group(0), prefix + new_inner + suffix)
-                else:
-                    addition = f',\n    factsAdvanced: {{\n      {lang}: {facts_json}\n    }}'
-                    # Strip closing brace and trailing comma if present
-                    inner_content = new_poi_block[:-1].rstrip()
-                    if inner_content.endswith(','):
-                        inner_content = inner_content[:-1].rstrip()
-                    new_poi_block = inner_content + addition + "\n  }"
+                    bounds = get_field_inner_bounds(new_poi_block, "factsAdvanced", lang_setting)
+                    if bounds:
+                        new_poi_block = new_poi_block[:bounds[0]] + facts_json + new_poi_block[bounds[1]:]
+                    else:
+                        match = re.search(r'factsAdvanced:\s*\{', new_poi_block)
+                        if match:
+                            insert_pos = match.end()
+                            new_poi_block = new_poi_block[:insert_pos] + f' {lang_setting}: {facts_json},' + new_poi_block[insert_pos:]
 
             if new_poi_block != poi_block:
-                # Replace the exact block in the content, avoiding duplicates or structural breakage
-                content = content[:start_index] + new_poi_block + content[end_index + 1:]
-                updated = True
+                content = content.replace(poi_block, new_poi_block)
                 print(f"Updated {poi_id}")
 
-        if updated:
+        if content != original_content:
             with open(ts_file, 'w', encoding='utf-8') as f:
                 f.write(content)
             print(f"Saved changes to {ts_file}")
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:

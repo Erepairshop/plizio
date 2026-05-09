@@ -1,0 +1,129 @@
+{
+  "lang": "de",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mvuma-cities-v2",
+      "descriptionAdvanced": "Mvuma ist ein wichtiger Handels- und Verkehrsknotenpunkt in der Provinz Midlands. Die Stadt liegt strategisch günstig und dient als Versorgungszentrum für die umliegende Agrar- und Bergbauregion. Ihre Entwicklung ist eng mit dem Ausbau der lokalen Infrastruktur verbunden, die Mvuma zu einem bedeutenden Verbindungsglied für den regionalen Warenverkehr macht. Erdkunde K7 – regionale Verkehrsknotenpunkte.",
+      "factsAdvanced": [
+        "Wichtiger Verkehrs- und Handelsknotenpunkt.",
+        "Versorgungszentrum für die Region Midlands.",
+        "Strategische Bedeutung für den regionalen Warenverkehr.",
+        "Verbindungspunkt zwischen verschiedenen Agrarregionen.",
+        "Stetiges lokales Entwicklungspotenzial.",
+        "Schnittstelle für den ländlichen Handel."
+      ]
+    },
+    {
+      "id": "shamva-cities-v2",
+      "descriptionAdvanced": "Shamva ist eine bekannte Stadt in der Provinz Mashonaland Central mit einer historisch bedeutenden Verbindung zum Goldbergbau. Die Stadt dient als zentraler Ort für die landwirtschaftliche Produktion im umliegenden Gebiet, wobei insbesondere der Anbau von Getreide und Tabak eine wichtige Rolle spielt. Shamva kombiniert seine industrielle Vergangenheit mit einer modernen Rolle als landwirtschaftliches Versorgungszentrum. Erdkunde K7 – industrielle Geschichte und Agrarwirtschaft.",
+      "factsAdvanced": [
+        "Historisch bedeutend durch Goldbergbau.",
+        "Zentraler Ort für die landwirtschaftliche Produktion.",
+        "Wichtig für den Anbau von Getreide und Tabak.",
+        "Verbindung zwischen Bergbaugeschichte und Agrarwirtschaft.",
+        "Regionaler Dienstleistungsstandort.",
+        "In der Provinz Mashonaland Central gelegen."
+      ]
+    },
+    {
+      "id": "glendale-cities-v2",
+      "descriptionAdvanced": "Glendale liegt in der Provinz Mashonaland Central und ist eng mit der großen Zuckerrohr- und Landwirtschaftsproduktion der Umgebung verbunden. Die Stadt fungiert als wichtiges Zentrum für die Verarbeitung landwirtschaftlicher Erzeugnisse und bietet eine notwendige Infrastruktur für die lokale Wirtschaft. Ihre wirtschaftliche Stabilität hängt stark von der erfolgreichen agrarindustriellen Produktion der umliegenden Farmen ab. Erdkunde K7 – agrarindustrielle Zentren.",
+      "factsAdvanced": [
+        "Eng verbunden mit der lokalen Zuckerrohrproduktion.",
+        "Zentrum für die Verarbeitung landwirtschaftlicher Güter.",
+        "Wichtige Infrastruktur für die Agrarwirtschaft.",
+        "Wirtschaftliche Stabilität durch Farmbetriebe.",
+        "In Mashonaland Central gelegen.",
+        "Standort für industrielle Produktionszweige der Landwirtschaft."
+      ]
+    },
+    {
+      "id": "mvurwi-cities-v2",
+      "descriptionAdvanced": "Mvurwi ist eine Stadt in der Provinz Mashonaland Central, die eine zentrale Rolle bei der Versorgung der umliegenden kommerziellen Farmen spielt. Die Wirtschaft der Stadt ist stark auf den Agrarsektor, insbesondere den Tabakanbau, ausgerichtet. Mvurwi fungiert als wichtiges Handels- und Dienstleistungszentrum für die Bewohner der Region und trägt wesentlich zur wirtschaftlichen Aktivität in der Provinz bei. Erdkunde K7 – Handels- und Agrarzentren.",
+      "factsAdvanced": [
+        "Wichtiges Versorgungszentrum für kommerzielle Farmen.",
+        "Wirtschaft stark auf Tabakanbau ausgerichtet.",
+        "Regionales Handels- und Dienstleistungszentrum.",
+        "Bedeutend für die wirtschaftliche Aktivität in Mashonaland Central.",
+        "Schnittstelle für die lokale agrarische Infrastruktur.",
+        "Stetiger lokaler Handelsplatz."
+      ]
+    },
+    {
+      "id": "mount-darwin-cities-v2",
+      "descriptionAdvanced": "Mount Darwin liegt im Nordosten Simbabwes in der Provinz Mashonaland Central und fungiert als Verwaltungs- und Handelszentrum für ein weites, ländlich geprägtes Hinterland. Die Stadt ist ein wichtiger Anlaufpunkt für die lokale Bevölkerung, um Dienstleistungen zu nutzen und landwirtschaftliche Erzeugnisse zu vermarkten. Die strategische Lage macht Mount Darwin zu einem essenziellen Ort für den Austausch in der nordöstlichen Grenzregion. Erdkunde K7 – regionale Verwaltungszentren.",
+      "factsAdvanced": [
+        "Wichtiges Verwaltungszentrum in Mashonaland Central.",
+        "Handelsdrehkreuz für das umliegende ländliche Hinterland.",
+        "Zentraler Anlaufpunkt für lokale Dienstleistungen.",
+        "Essenziell für den Warenverkehr im Nordosten.",
+        "Schnittstelle in der nordöstlichen Grenzregion.",
+        "Regionale Bedeutung als Handels- und Verwaltungsort."
+      ]
+    },
+    {
+      "id": "plumtree-cities-v2",
+      "descriptionAdvanced": "Plumtree liegt im Südwesten Simbabwes an der Grenze zu Botswana und ist ein bedeutender Grenzübergang sowie ein wichtiges Handelszentrum. Die Stadt dient als Transitpunkt für Reisende und den Warenverkehr zwischen Simbabwe und Botswana. Mit ihrer Lage an der Grenze hat Plumtree eine wichtige strategische Funktion für den grenzüberschreitenden Austausch und die regionale wirtschaftliche Zusammenarbeit. Erdkunde K7 – Grenz- und Transitstädte.",
+      "factsAdvanced": [
+        "Bedeutender Grenzübergang zu Botswana.",
+        "Wichtiges Handelszentrum an der Grenze.",
+        "Zentraler Transitpunkt für Reisende und Waren.",
+        "Strategische Funktion für den grenzüberschreitenden Austausch.",
+        "Wirtschaftlich geprägt durch die Grenzlage.",
+        "Schnittstelle der regionalen Kooperation."
+      ]
+    },
+    {
+      "id": "chivhu-cities-v2",
+      "descriptionAdvanced": "Chivhu liegt strategisch in der Provinz Mashonaland East und ist ein wichtiger Knotenpunkt an der Verbindung zwischen Harare und dem Süden des Landes. Die Stadt fungiert als bedeutendes Handels- und Dienstleistungszentrum für die umliegende Agrarregion. Die stetige Entwicklung von Chivhu macht es zu einem wichtigen Ort für Reisende und zur lokalen ökonomischen Basis für die Provinz. Erdkunde K7 – regionale Knotenpunkte.",
+      "factsAdvanced": [
+        "Wichtiger Knotenpunkt zwischen Harare und dem Süden.",
+        "Bedeutendes Handels- und Dienstleistungszentrum.",
+        "Versorgungsort für die umliegende Agrarregion.",
+        "Stetige ökonomische Entwicklung.",
+        "Wichtiger Ort für Reisende im Transit.",
+        "Basis für die lokale Ökonomie in Mashonaland East."
+      ]
+    },
+    {
+      "id": "triangle-cities-v2",
+      "descriptionAdvanced": "Triangle ist eine agrarindustrielle Stadt im Lowveld, die weltweit für ihre großflächige Zuckerproduktion bekannt ist. Die gesamte Siedlung und Wirtschaft sind rund um den Betrieb der großen Zuckerfabriken aufgebaut. Triangle stellt ein Paradebeispiel für eine agrarindustrielle Stadt dar, in der die Produktion und Verarbeitung von Zuckerrohr den Lebensrhythmus und die gesamte Infrastruktur der Region bestimmen. Erdkunde K7 – agrarindustrielle Siedlungsstrukturen.",
+      "factsAdvanced": [
+        "Zentrum der industriellen Zuckerproduktion.",
+        "Paradebeispiel für eine agrarindustrielle Stadt.",
+        "Wirtschaft massiv durch Zuckerfabriken bestimmt.",
+        "Infrastruktur direkt mit der Zuckerproduktion verknüpft.",
+        "Großflächiger Anbau von Zuckerrohr.",
+        "Bedeutender Industriestandort im Lowveld."
+      ]
+    },
+    {
+      "id": "centenary-cities-v2",
+      "descriptionAdvanced": "Centenary ist eine wichtige agrarische Siedlung in Mashonaland Central, die für ihre landwirtschaftliche Produktion bekannt ist. Die Stadt dient als lokaler Umschlagplatz für landwirtschaftliche Erzeugnisse und bietet Dienstleistungen für die umliegenden Farmen. Centenary ist ein Beispiel für eine wachsende ländliche Stadt, deren Entwicklung eng an den Erfolg der regionalen Agrarwirtschaft geknüpft ist. Erdkunde K7 – ländliche Handelszentren.",
+      "factsAdvanced": [
+        "Wichtige landwirtschaftliche Siedlung.",
+        "Lokaler Umschlagplatz für Agrarprodukte.",
+        "Dienstleistungsstandort für Farmbetriebe.",
+        "Entwicklung eng an Agrarwirtschaft geknüpft.",
+        "Wachsende ländliche Bedeutung.",
+        "In der Provinz Mashonaland Central."
+      ]
+    },
+    {
+      "id": "banket-cities-v2",
+      "descriptionAdvanced": "Banket liegt in Mashonaland West und ist ein wichtiger Handelsplatz, der eng mit dem kommerziellen Farmwesen der Umgebung verbunden ist. Die Stadt bietet Dienstleistungen für die umliegenden Farmen und fungiert als zentraler Ort für die regionale Agrarwirtschaft. Ihre Lage macht Banket zu einer wichtigen Schnittstelle für den Austausch landwirtschaftlicher Waren. Erdkunde K7 – landwirtschaftliche Handelsplätze.",
+      "factsAdvanced": [
+        "Wichtiger Handelsplatz für landwirtschaftliche Waren.",
+        "Versorgungsstandort für kommerzielle Farmen.",
+        "Zentraler Ort für regionale Agrarwirtschaft.",
+        "Eng mit dem lokalen Farmwesen verbunden.",
+        "Schnittstelle für den landwirtschaftlichen Austausch.",
+        "Regionale ökonomische Basis."
+      ]
+    }
+  ]
+}

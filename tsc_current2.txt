@@ -1,0 +1,9 @@
+final_check_guatemala.ts(2,33): error TS5097: An import path can only end with a '.ts' extension when 'allowImportingTsExtensions' is enabled.
+final_check_guatemala.ts(5,74): error TS2339: Property 'de' does not exist on type '{}'.
+final_check_guatemala.ts(5,104): error TS2339: Property 'de' does not exist on type '{}'.
+final_check_guatemala.ts(6,63): error TS2339: Property 'de' does not exist on type '{}'.
+final_check_guatemala.ts(6,87): error TS2339: Property 'de' does not exist on type '{}'.
+lib/visualLab/data/gambiaAllPoi.ts(4,40): error TS2306: File 'C:/Users/User/plizio-repo/lib/visualLab/data/poiExtraGambiaCitiesV2.ts' is not a module.
+scripts/gen_chile_seo.ts(2,21): error TS2307: Cannot find module './poi' or its corresponding type declarations.
+update_andorra.ts(1,21): error TS2307: Cannot find module './poi' or its corresponding type declarations.
+usa_sample.ts(2,26): error TS2307: Cannot find module './poi' or its corresponding type declarations.

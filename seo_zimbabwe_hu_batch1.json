@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "zimbabwe",
+  "files": [
+    "lib/visualLab/data/poiExtraZimbabweEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hwange-colliery-economic-v2",
+      "descriptionAdvanced": "A nyugat-zimbabwei Hwange Szénbánya Afrika egyik legnagyobb szénkitermelő helye. Az itt bányászott szén elengedhetetlen az ország energiaellátásához, hiszen ez látja el a Hwange Erőművet, amely Zimbabwe legnagyobb hőerőműve. A bányászati tevékenység jelentősen átalakította a régió gazdasági és társadalmi szerkezetét, ipari központot hozva létre egy korábban elszigetelt térségben. Gazdasági szempontból a bánya kulcsfontosságú az ország nemzeti energiabiztonsága és ipari infrastruktúrájának fenntartása szempontjából.",
+      "factsAdvanced": [
+        "Jelentősége: Afrika egyik legnagyobb szénlelőhelye.",
+        "Szerepe: A Hwange Erőmű elsődleges üzemanyagforrása.",
+        "Infrastruktúra: Kiterjedt vasúthálózattal összekötött.",
+        "Elhelyezkedés: Nyugat-Zimbabwe, a Hwange Nemzeti Park közelében.",
+        "Hatás: Alapvető az országos villamosenergia-termelésben.",
+        "Bányászati mód: Külfejtéses és mélyművelésű technológia."
+      ]
+    },
+    {
+      "id": "zimplats-ngezi-mine-economic-v2",
+      "descriptionAdvanced": "A Ngezi-ben, a Great Dyke geológiai képződményen található Zimplats bánya a platinafémek (PGM) egyik legjelentősebb kitermelője. Zimbabwe egyik legnagyobb bányászati műveleteként alapvető szerepet játszik az ország devizabevételeiben és a bruttó hazai termék (GDP) növekedésében. A bánya több ezer munkahelyet biztosít, és jelentősen hozzájárult Mashonaland West tartomány infrastruktúrájának, köztük az utak és lakóövezetek fejlesztéséhez, ami a régió gazdasági felvirágzását segítette elő.",
+      "factsAdvanced": [
+        "Termék: Platinacsoportba tartozó fémek (PGM).",
+        "Geológia: Az ásványkincsekben gazdag Great Dyke területén fekszik.",
+        "Gazdasági súly: A nemzeti export egyik legfontosabb támogatója.",
+        "Méret: Több ezer alkalmazott a helyszínen.",
+        "Infrastruktúra: Kiterjedt helyszíni feldolgozóüzemek.",
+        "Tartomány: Mashonaland West."
+      ]
+    },
+    {
+      "id": "mimosa-platinum-mine-economic-v2",
+      "descriptionAdvanced": "A Mimosa Mining Company Zimbabwe egyik leggazdaságosabb platinabányáját üzemelteti Zvishavane közelében, a Great Dyke déli részén. A vállalat hosszú múltra tekint vissza a hatékony bányászati műveletek terén, és a Midlands tartomány gazdaságának egyik fő pillére. A bánya platinát, palládiumot, aranyat, nikkelt, rezet és ródiumot termel ki, amelyek elengedhetetlen alapanyagok a globális ipari gyártásban és az autóiparban, különösen a katalizátorok előállításában.",
+      "factsAdvanced": [
+        "Elhelyezkedés: Zvishavane közelében, Midlands tartomány.",
+        "Geológia: A Great Dyke déli nyúlványa.",
+        "Termékek: Platinacsoport, arany, nikkel, réz.",
+        "Üzleti státusz: Hosszú távon is jövedelmező vállalat.",
+        "Gazdasági szerep: Jelentős munkaadó a Midlands régióban.",
+        "Kiemelt exportcikk: Alapanyag az autókatalizátorokhoz."
+      ]
+    },
+    {
+      "id": "unki-platinum-mine-economic-v2",
+      "descriptionAdvanced": "Az Anglo American Platinum tulajdonában lévő Unki bánya jelentős platinatermelő központ Gweru közelében, a Great Dyke mentén. A komplexum a bányászati tevékenységen kívül egy korszerű feldolgozóüzemmel is rendelkezik, ami lehetővé teszi az értéknövelést még az export előtt. A bánya innovatív infrastruktúrájáról ismert, beleértve a saját napelemparkot is, amely fenntartható energiát biztosít az üzemeléshez, ezzel hangsúlyozva a vállalat elkötelezettségét az ipari fenntarthatóság iránt.",
+      "factsAdvanced": [
+        "Tulajdonos: Anglo American Platinum.",
+        "Elhelyezkedés: Great Dyke, Gweru közelében.",
+        "Értéknövelés: Helyszíni platinadúsító és feldolgozó üzem.",
+        "Innováció: Naperőmű használata a működési fenntarthatóságért.",
+        "Gazdasági hatás: Fontos munkaadó a Midlands régióban.",
+        "Termékek: Platinacsoport és alapfémek."
+      ]
+    },
+    {
+      "id": "murowa-diamond-mine-economic-v2",
+      "descriptionAdvanced": "A Murowa gyémántbánya egy nyíltszíni kitermelési hely, amely kiváló minőségű drágaköveiről ismert. A bánya a Midlands tartomány gazdaságának egyik meghatározó eleme, folyamatos üzemeléssel és csúcstechnológiás válogatóüzemekkel dolgozik annak érdekében, hogy a kinyert nyersgyémántok minőségét maximalizálja. A kitermelt értékek hozzájárulnak a zimbabwei export diverzifikációjához, különösen az értékes drágakövek nemzetközi piaci értékesítése révén.",
+      "factsAdvanced": [
+        "Termék: Kiváló minőségű drágakő-minőségű gyémántok.",
+        "Kitermelés: Folyamatos, nyíltszíni művelés.",
+        "Technológia: Csúcstechnológiás válogatóüzemek.",
+        "Gazdasági hatás: Fontos bevételi forrás az exportban.",
+        "Elhelyezkedés: Midlands, Zimbabwe.",
+        "Piaci jelentőség: Beszállító a nemzetközi gyémántkereskedelemben."
+      ]
+    }
+  ]
+}

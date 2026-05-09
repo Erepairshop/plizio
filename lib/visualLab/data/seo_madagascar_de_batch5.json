@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "alasora-royal-village-history-v2",
+      "descriptionAdvanced": "Alasora ist eine der bedeutendsten historischen Stätten Madagaskars und einer der zwölf heiligen Hügel von Imerina. Als Geburtsort der Merina-Monarchie im 16. Jahrhundert unter König Andriamanelo symbolisiert Alasora den Beginn der organisierten Staatsführung im Hochland. Die Stätte ist berühmt für ihre defensiven Innovationen wie die 'Hadivory' (tiefe Verteidigungsgräben) und die massiven 'Vavahady' (rollende Steintore). Innerhalb der heiligen Umfriedung befinden sich Gräber früher Könige, die bis heute als spirituelle Zentren für Ahnenrituale dienen. Die Architektur und die strategische Lage verdeutlichen den Übergang von Stammesstrukturen zu einem geeinten Königreich. Geschichte K8 — Ursprung der Monarchie und Verteidigungsstrategien.",
+      "factsAdvanced": [
+        "Gilt als die Wiege der Merina-Monarchie im 16. Jahrhundert",
+        "Einer der zwölf heiligen Hügel der Imerina-Region",
+        "Einführung der Eisenbearbeitung durch König Andriamanelo",
+        "Bekannt für die ersten massiven Steintore (Vavahady)",
+        "Besitzt ein komplexes System aus Verteidigungsgräben (Hadivory)",
+        "Ort wichtiger königlicher Zeremonien und Reinigungsrituale",
+        "Beherbergt hochverehrte Grabstätten früherer Herrscher",
+        "Symbolisiert die frühe militärische Organisation des Hochlandes"
+      ]
+    },
+    {
+      "id": "ambalonamana-market-hall-landmarks-v2",
+      "descriptionAdvanced": "Die Markthalle von Ambalonamana in Fianarantsoa ist ein pulsierendes Zentrum des regionalen Handels und ein architektonisches Wahrzeichen der Betsileo-Region. Der Bau vereint traditionelle Ziegelbauweise mit kolonialen Elementen und dient als zentraler Marktplatz für Textilien, Korbwaren und Agrarprodukte. Als Herzstück des wirtschaftlichen Lebens in der Haute-Ville von Fianarantsoa spiegelt die Halle den kulturellen Reichtum und die handwerkliche Tradition des Betsileo-Volkes wider. Die lebendige Atmosphäre und die Vielfalt der gehandelten Güter machen sie zu einem unverzichtbaren Ort für das Verständnis der lokalen Ökonomie. Wirtschaft K6 — Regionale Märkte und Handelslogistik.",
+      "factsAdvanced": [
+        "Zentraler Marktplatz in der historischen Haute-Ville von Fianarantsoa",
+        "Wichtiges Zentrum für den Handel mit Betsileo-Textilien",
+        "Kombiniert koloniale Architektur mit lokalen Baumaterialien",
+        "Drehscheibe für landwirtschaftliche Produkte aus dem Umland",
+        "Berühmt für handgefertigte Korbwaren und Holzschnitzereien",
+        "Spiegelt die traditionelle Marktordnung des Hochlandes wider",
+        "Historisch gewachsener Treffpunkt für regionale Händler",
+        "Wesentlicher Bestandteil der städtischen Identität von Fianarantsoa"
+      ]
+    },
+    {
+      "id": "ambatovy-mine-economic-v2",
+      "descriptionAdvanced": "Die Ambatovy-Mine nahe Moramanga ist das größte industrielle Unterfangen in der Geschichte Madagaskars. Als eine der weltweit bedeutendsten Lagerstätten für Nickel und Kobalt spielt sie eine zentrale Rolle in der globalen Energiewende, insbesondere für die Batterieproduktion. Der Tagebau wird unter strengen ökologischen Auflagen betrieben, um die umliegende Biodiversität zu schützen. Über eine beeindruckende 220 Kilometer lange Pipeline wird das Erz zur Weiterverarbeitung an die Küste transportiert. Ambatovy ist ein gigantischer Wirtschaftsmotor, der tausende Arbeitsplätze schafft und die technologische Entwicklung des Landes maßgeblich vorantreibt. Wirtschaft K8 — Globaler Bergbau und Rohstoffökonomie.",
+      "factsAdvanced": [
+        "Größtes Nickel- und Kobalt-Bergbauprojekt in Madagaskar",
+        "Internationale Investition mit Beteiligung aus Kanada und Japan",
+        "Erztransport erfolgt über eine 220 km lange Pipeline",
+        "Wichtiger Lieferant für die globale Elektroauto-Industrie",
+        "Generiert einen signifikanten Teil der nationalen Exporteinnahmen",
+        "Umfangreiche Programme zum Schutz lokaler Lemurenarten",
+        "Modernste hydro-metallurgische Fördertechnologien im Einsatz",
+        "Zentrum für industrielle Ausbildung und Technologietransfer"
+      ]
+    },
+    {
+      "id": "ambatovy-plant-landmarks-v2",
+      "descriptionAdvanced": "Die Raffinerieanlage von Ambatovy bei Toamasina ist das industrielle Herzstück des größten Bergbauprojekts Madagaskars. Hier wird das Roherz, das aus den Wäldern von Moramanga kommt, in einem hochkomplexen Verfahren veredelt, um reines Nickel und Kobalt für den Weltmarkt zu produzieren. Die Anlage symbolisiert den technologischen Fortschritt und die industrielle Ambition des Landes. Mit ihren massiven Strukturen und modernsten Verarbeitungsstationen ist sie ein bedeutender Arbeitgeber und ein Motor für die Entwicklung der Hafenstadt Toamasina. Die Anlage stellt die Verbindung zwischen madagassischen Ressourcen und der globalen Hochtechnologie her. Wirtschaft K7 — Industrielle Veredelung und Exportprozesse.",
+      "factsAdvanced": [
+        "Endpunkt der Erz-Pipeline aus dem Landesinneren",
+        "Hochmoderne Raffinerie zur Nickel- und Kobaltveredelung",
+        "Liegt strategisch günstig in der Nähe des Hafens von Toamasina",
+        "Symbol für den industriellen Aufbruch Madagaskars",
+        "Verwendet komplexe chemische Prozesse zur Reinheitssteigerung",
+        "Bedeutender Wirtschaftsfaktor für die Region Atsinanana",
+        "Bietet hochqualifizierte Arbeitsplätze in der Metallurgie",
+        "Zentrum für den Export von mineralischen Rohstoffen"
+      ]
+    },
+    {
+      "id": "ambilobe-sugar-economic-v2",
+      "descriptionAdvanced": "Die Zuckerindustrie in Ambilobe ist der wirtschaftliche Motor im Norden Madagaskars. Die weiten Ebenen des Mahavavy-Flusses bieten dank ihres heißen Klimas und der fruchtbaren Böden ideale Bedingungen für den großflächigen Anbau von Zuckerrohr. Die Fabrik von Ambilobe ist eine der größten des Landes und produziert Zucker und Ethanol für den nationalen Verbrauch und den Export. Diese Industrie prägt die regionale Identität und bietet tausenden Menschen in der Provinz Diana eine Lebensgrundlage. Die Plantagen sind ein Beispiel für die Transformation traditioneller Agrarstrukturen in moderne industrielle Wertschöpfungsketten. Wirtschaft K7 — Agrarindustrie und globale Märkte.",
+      "factsAdvanced": [
+        "Haupterzeugungsgebiet für Zuckerrohr im Norden Madagaskars",
+        "Wichtigste Verarbeitungsanlage der Firma SIRAMA",
+        "Nutzt die fruchtbaren Ebenen rund um den Mahavavy-Fluss",
+        "Produktion von Zucker und industriellem Ethanol",
+        "Zentrum der regionalen Wirtschaft in der Provinz Diana",
+        "Historisch bedeutende Plantagenwirtschaft seit der Kolonialzeit",
+        "Wesentlicher Lieferant für den madagassischen Binnenmarkt",
+        "Arbeitsplatz für eine Vielzahl saisonaler Erntehelfer"
+      ]
+    },
+    {
+      "id": "ambohimanga-royal-hill-history-v2",
+      "descriptionAdvanced": "Ambohimanga, der 'blaue Hügel', ist das spirituelle und historische Zentrum der madagassischen Nation. Als Sitz der Merina-Könige im 18. Jahrhundert war er der Ausgangspunkt für die Einigung der Insel unter König Andrianampoinimerina. Die Stätte umfasst königliche Paläste, heilige Stätten und Gräber, die von einer mächtigen Mauer aus Kalk und Eiweiß geschützt werden. Seit 2001 gehört Ambohimanga zum UNESCO-Weltkulturerbe und bleibt ein aktiver Ort der Ahnenverehrung. Für viele Madagassen ist dieser Hügel ein heiliges Symbol ihrer Identität, an dem Geschichte und Glaube untrennbar miteinander verwoben sind. Geschichte K8 — Staatsbildung und sakrale Architektur.",
+      "factsAdvanced": [
+        "Bedeutendster der zwölf heiligen Hügel von Imerina",
+        "UNESCO-Weltkulturerbe als Symbol nationaler Identität",
+        "Ehemaliger Regierungssitz von König Andrianampoinimerina",
+        "Ort für heilige Rituale und die Verehrung der Vorfahren",
+        "Befestigte Anlage mit massiven Toren und Verteidigungsgräben",
+        "Beherbergt den ursprünglichen Holzpalast des Königs",
+        "Zentrum der religiösen und politischen Macht im 18. Jahrhundert",
+        "Wichtigster Pilgerort für die Bewahrung madagassischer Traditionen"
+      ]
+    },
+    {
+      "id": "amohi-palace-fianarantsoa-history-v2",
+      "descriptionAdvanced": "Der Palast von Fianarantsoa (Rova) thront auf der höchsten Ebene der Stadt und erinnert an die administrative Bedeutung Fianarantsoas im 19. Jahrhundert. Errichtet nach dem Vorbild des Rova von Antananarivo, diente er den Merina-Gouverneuren als strategischer Stützpunkt im Betsileo-Land. Das Gebäude spiegelt den traditionellen Baustil des Hochlandes wider und war das Zentrum der politischen Macht im Süden der Insel. Heute ist der Palast ein wichtiger Bestandteil der historischen Haute-Ville und bietet einen beeindruckenden Blick über die terrassierten Reisfelder der Umgebung. Er steht für die Expansion des Merina-Reiches und die Integration regionaler Kulturen. Geschichte K7 — Regionale Gouverneurssitze und Architektur.",
+      "factsAdvanced": [
+        "Historischer Sitz des Merina-Gouverneurs in Fianarantsoa",
+        "Befindet sich auf dem Gipfel der historischen Haute-Ville",
+        "Architektonisch inspiriert vom königlichen Palast in der Hauptstadt",
+        "Symbol für die politische Einheit unter der Merina-Herrschaft",
+        "Wichtiger Ort für Zeremonien und offizielle Versammlungen",
+        "Teil des geschützten Kulturerbes der Betsileo-Region",
+        "Bietet einen Panoramablick über das gesamte Stadtgebiet",
+        "Zeugnis der Stadtplanung des 19. Jahrhunderts im Hochland"
+      ]
+    },
+    {
+      "id": "amozon-fort-flacourt-history-v2",
+      "descriptionAdvanced": "Fort Flacourt in Tolanaro ist ein bedeutendes Relikt der frühen europäischen Präsenz auf Madagaskar. Gegründet im 17. Jahrhundert durch die französische Ostindien-Kompanie, markiert es einen der ersten Versuche einer dauerhaften Kolonialisierung. Benannt nach dem Gouverneur Étienne de Flacourt, diente das Fort als Handelsstation und Verteidigungsanlage an der strategisch wichtigen Südostküste. Die Ruinen erzählen von den Herausforderungen und Konflikten jener Epoche und der Begegnung zwischen europäischen Händlern und der lokalen Bevölkerung. Heute ist Fort Flacourt ein historisches Denkmal, das einen weiten Blick über die Bucht von Fort-Dauphin bietet. Geschichte K7 — Frühe Kolonialgeschichte und Handelsaußenposten.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1643 als Fort-Dauphin durch französische Siedler",
+        "Benannt nach dem berühmten Forscher Étienne de Flacourt",
+        "Älteste französische Militärbefestigung auf madagassischem Boden",
+        "Strategischer Standort für den frühen Gewürz- und Sklavenhandel",
+        "Zeugnis der ersten permanenten europäischen Siedlungsversuche",
+        "Bietet einen Panoramablick über die Bucht von Tolanaro",
+        "Wichtige Stätte für archäologische Untersuchungen der Kolonialzeit",
+        "Zentrum früher diplomatischer Kontakte mit lokalen Herrschern"
+      ]
+    },
+    {
+      "id": "ampefy-geyser-park-life-v2",
+      "descriptionAdvanced": "Der Geysir-Park von Analavory bei Ampefy ist ein außergewöhnliches geologisches Phänomen im zentralen Hochland. Diese Kaltwasser-Geysire entstehen durch den Druck von Kohlendioxid in unterirdischen Wasserreservoirs, was zu regelmäßigen Wasserfontänen führt. Über die Jahrhunderte haben die Mineralien im Wasser farbenprächtige Sinterterrassen und rötliche Travertinhügel geformt. Die Region Itasy ist vulkanisch geprägt, und die Geysire sind ein faszinierendes Nebenprodukt dieser geothermalen Aktivität. Der Park ist ein beliebtes Ziel für Naturfreunde und bietet die Möglichkeit, in mineralhaltigem Wasser zu baden, das für seine entspannende Wirkung bekannt ist. Geografie K6 — Postvulkanische Phänomene und Geologie.",
+      "factsAdvanced": [
+        "Seltener Typ von Kaltwasser-Geysiren (CO2-angetrieben)",
+        "Gelegen in der vulkanisch aktiven Region Itasy bei Ampefy",
+        "Mineralreiche Ablagerungen formen bizarre Sinterterrassen",
+        "Die Fontänen erreichen regelmäßig Höhen von mehreren Metern",
+        "Das Wasser ist reich an Eisen, was dem Boden eine rote Farbe verleiht",
+        "Beliebte Touristenattraktion für Wellness und Naturbeobachtung",
+        "Teil des vulkanischen Erbes des Ankaratra-Massivs",
+        "Einzigartiges geologisches Labor unter freiem Himmel"
+      ]
+    },
+    {
+      "id": "amphibien-wald-ranomafana-life-v2",
+      "descriptionAdvanced": "Der Amphibien-Wald von Ranomafana beherbergt eine der weltweit höchsten Dichten an endemischen Froscharten. In diesem feuchten Bergregenwald, der durch konstanten Nebel und hohe Niederschläge geprägt ist, finden Amphibien ideale Lebensbedingungen. Besonders berühmt sind die leuchtend bunten Mantella-Frösche und die zahlreichen Baumfrösche, die im dichten Blätterdach leben. Der Schutz dieses speziellen Mikroklimas ist entscheidend, da viele Arten auf engstem Raum spezialisiert sind. Geführte Nachtwanderungen bieten die spektakuläre Gelegenheit, das lautstarke Konzert der Frösche zu erleben und seltene Reptilien zu entdecken. Dieser Wald ist ein Juwel der madagassischen Biodiversität. Biologie K7 — Tropische Ökosysteme und Amphibienschutz.",
+      "factsAdvanced": [
+        "Teil des Ranomafana-Nationalparks (UNESCO-Weltnaturerbe)",
+        "Weltweit bedeutender Standort für die Herpetologie",
+        "Beherbergt über 100 endemische Amphibienarten",
+        "Bekannt für die farbenprächtigen Goldfröschchen (Mantella)",
+        "Extrem hohe Luftfeuchtigkeit ermöglicht die enorme Artenvielfalt",
+        "Wichtiger Ort für die Erforschung der globalen Amphibienkrise",
+        "Bietet Schutz für seltene nachtaktive Lemuren und Chamäleons",
+        "Zentrum für internationalen Naturschutz und Forschung"
+      ]
+    },
+    {
+      "id": "analamazaotra-colonial-station-history-v2",
+      "descriptionAdvanced": "Die Bahnstation von Analamazaotra in Andasibe ist ein nostalgisches Denkmal der Infrastrukturentwicklung zu Beginn des 20. Jahrhunderts. Als Teil der Eisenbahnlinie Antananarivo-Toamasina diente sie dem Transport von Handelsgütern wie Graphit, Kaffee und Edelhölzern. Das Gebäude im kolonialen Backsteinstil hat seinen historischen Charme bewahrt und ist heute ein wichtiger Anlaufpunkt für Reisende, die die umliegenden Regenwälder erkunden. Die Ankunft des Zuges prägt nach wie vor den sozialen Rhythmus des Dorfes. Die Station steht sinnbildlich für die Verbindung zwischen dem Hochland und dem Indischen Ozean und die Herausforderungen des Transports in der tropischen Bergwelt. Geschichte K7 — Verkehrsgeschichte und Kolonialarchitektur.",
+      "factsAdvanced": [
+        "Historischer Bahnhof an der TCE-Linie (Antananarivo-Toamasina)",
+        "Erbaut im französischen Kolonialstil des frühen 20. Jahrhunderts",
+        "Wichtiger Knotenpunkt für den Export von tropischen Rohstoffen",
+        "Liegt unmittelbar am Eingang zum Andasibe-Nationalpark",
+        "Bietet Einblicke in die traditionelle madagassische Bahnlogistik",
+        "Zentraler sozialer Treffpunkt für die Bevölkerung von Andasibe",
+        "Relikt der industriellen Erschließung des madagassischen Ostens",
+        "Wichtiger Halt für Naturtouristen aus aller Welt"
+      ]
+    },
+    {
+      "id": "analamera-relief-v2",
+      "descriptionAdvanced": "Das Analamera-Plateau im Norden Madagaskars ist ein abgelegenes und wildes Karstgebirge. Geprägt durch die bizarren 'Tsingy'-Kalksteinnadeln, bildet es eine unwegsame natürliche Festung. Durch Millionen Jahre von Wassererosion wurden tiefe Spalten und Höhlensysteme geschaffen, die als wertvolle Wasserspeicher fungieren. Analamera ist weniger bekannt als das Bemaraha-Massiv, beherbergt jedoch eine ebenso faszinierende Flora und Fauna, die an die harten Bedingungen der Trockenwälder angepasst ist. Das Relief stellt eine geologische Barriere dar, die zur Entstehung zahlreicher spezialisierter Arten beigetragen hat und bis heute eines der am wenigsten erforschten Gebiete der Insel bleibt. Geografie K8 — Karstgeomorphologie und Erosion.",
+      "factsAdvanced": [
+        "Spektakuläres Kalksteinplateau mit scharfen Tsingy-Formationen",
+        "Gelegen in der abgelegenen nördlichen Region Diana",
+        "Beherbergt seltene Trockenwald-Ökosysteme auf Karstgrund",
+        "Wichtiger Zufluchtsort für den gefährdeten Perrier-Sifaka",
+        "Besitzt ein komplexes System aus Höhlen und tiefen Schluchten",
+        "Geologisch verwandt mit dem benachbarten Ankarana-Massiv",
+        "Natürlicher Wasserspeicher in einer ansonsten semiariden Zone",
+        "Extrem schwierig zu durchquerendes und zu erforschendes Relief"
+      ]
+    },
+    {
+      "id": "analavelona-forest-relief-v2",
+      "descriptionAdvanced": "Der Analavelona-Wald im Südwesten ist ein außergewöhnliches Beispiel für ein Gebirgsmikroklima. Das isolierte Massiv erhebt sich aus der trockenen Savanne und fängt durch seine Höhe von über 1.300 Metern die Feuchtigkeit der Wolken ein. Dies ermöglicht die Existenz eines feuchten Bergregenwaldes inmitten einer semiariden Region. Der Wald gilt der lokalen Bevölkerung als heilig und wird traditionell streng geschützt, was ihn zu einer der am besten erhaltenen Primärwaldinseln des Südwestens macht. Geologisch gesehen handelt es sich um einen isolierten Tafelberg, dessen Relief Schutz für zahlreiche seltene Lemuren- und Vogelarten bietet, die in der umgebenden Savanne nicht überleben könnten. Geografie K7 — Inselberge und isolierte Ökosysteme.",
+      "factsAdvanced": [
+        "Feuchte Waldinsel inmitten der trockenen Savanne des Südwestens",
+        "Erhebt sich auf eine Höhe von ca. 1.320 Metern über dem Meeresspiegel",
+        "Heiliges Schutzgebiet der ethnischen Gruppen Bara und Mahafaly",
+        "Besitzt eine einzigartige Flora, die von Bergluftfeuchtigkeit lebt",
+        "Wichtige Quelle für die Bewässerung der umliegenden Trockengebiete",
+        "Beherbergt seltene und lokal endemische Lemurenarten",
+        "Geologisch ein isolierter Erosionsrest des Hochplateaus",
+        "Symbol für den erfolgreichen traditionellen Naturschutz"
+      ]
+    },
+    {
+      "id": "andafiavaratra-palace-landmarks-v2",
+      "descriptionAdvanced": "Der Andafiavaratra-Palast in Antananarivo war die Machtbasis des Premierministers Rainilaiarivony im 19. Jahrhundert. Das markante rote Backsteingebäude mit seinen vier Ecktürmen und der charakteristischen Glaskuppel steht in unmittelbarer Nähe zum königlichen Rova auf dem höchsten Hügel der Stadt. Nach einer aufwendigen Restaurierung dient der Palast heute als Museum für die geretteten Schätze des Rova-Brandes von 1995. Die Architektur verdeutlicht den Übergang von der traditionellen Bauweise zu europäischen Einflüssen und spiegelt den Reichtum der damaligen Elite wider. Als historisches Denkmal ist er ein zentraler Ort für das Verständnis der politischen Geschichte Madagaskars vor der Kolonialzeit. Geschichte K8 — Politische Machtzentren und Architektur des 19. Jahrhunderts.",
+      "factsAdvanced": [
+        "Ehemalige Residenz des mächtigen Premierministers Rainilaiarivony",
+        "Befindet sich auf dem höchsten Gipfel der Hauptstadt Antananarivo",
+        "Architektonisch markant durch rote Ziegel und eine große Glaskuppel",
+        "Beherbergt heute die wichtigsten Insignien der Merina-Monarchie",
+        "Wurde nach einem schweren Brand im Jahr 1995 aufwendig restauriert",
+        "Symbol für die Modernisierung Madagaskars im späten 19. Jahrhundert",
+        "Bietet einen 360-Grad-Blick über die gesamte Hauptstadt",
+        "Wichtigstes historisches Museum für die Zeit der Monarchie"
+      ]
+    },
+    {
+      "id": "andasibe-mantadia-life-v2",
+      "descriptionAdvanced": "Das Nationalpark-Ensemble von Andasibe-Mantadia ist das weltweit bedeutendste Schutzgebiet für den Indri-Indri, den größten aller Lemuren. Nur drei Stunden von der Hauptstadt entfernt, bietet der Park einen tiefen Einblick in die feuchten Regenwälder der Ostküste. Das Relief ist geprägt von dichten Wäldern, Farnen und Orchideen, die einen idealen Lebensraum für eine Vielzahl von Primaten, Chamäleons und Vögeln bilden. Der morgendliche Gesang der Indris, der kilometerweit durch den Wald schallt, ist ein unvergessliches Naturerlebnis. Der Park ist ein zentraler Pfeiler des madagassischen Naturschutzes und ein Modell für nachhaltigen Ökotourismus auf der Insel. Biologie K7 — Primatenforschung und Biodiversitätsschutz.",
+      "factsAdvanced": [
+        "Wichtigster Lebensraum des Indri-Indri (größte Lemurenart)",
+        "Besteht aus zwei getrennten Gebieten: Analamazaotra und Mantadia",
+        "Beherbergt über 100 Orchideenarten und seltene Baumfarne",
+        "Berühmt für die markanten Gesänge der Indri-Populationen",
+        "Einer der am besten erschlossenen Nationalparks Madagaskars",
+        "Zentrum für internationale biologische Forschungsprojekte",
+        "Schutzgebiet für zahlreiche seltene Chamäleon- und Froscharten",
+        "Wesentlicher Teil des östlichen Regenwald-Korridors"
+      ]
+    },
+    {
+      "id": "andasibe-orchid-park-life-v2",
+      "descriptionAdvanced": "Der Orchideenpark von Andasibe ist eine botanische Kostbarkeit, die der Bewahrung der enormen Vielfalt madagassischer Orchideen gewidmet ist. In dem feuchten, kühlen Klima der Region gedeihen hunderte Arten, von denen viele streng endemisch sind. Der Park zeigt die Pflanzen in ihrer natürlichen Umgebung, oft als Epiphyten auf moosbedeckten Bäumen. Ein Highlight ist die Darwin-Orchidee (Angraecum sesquipedale) mit ihrem außergewöhnlich langen Sporn. Die Anlage dient sowohl dem Schutz bedrohter Arten als auch der Bildung und Forschung. Zur Blütezeit verwandelt sich der Park in ein farbenprächtiges Labor der Evolution, das die botanische Einzigartigkeit Madagaskars unterstreicht. Biologie K6 — Botanik und evolutionäre Anpassung.",
+      "factsAdvanced": [
+        "Spezialisiertes Reservat für endemische Orchideenarten",
+        "Beherbergt die berühmte Darwin-Orchidee (Stern von Madagaskar)",
+        "Wichtiger Standort für den Erhalt seltener tropischer Flora",
+        "Pflanzen werden in ihrem natürlichen Regenwald-Habit gezeigt",
+        "Bietet Einblicke in die komplexen Bestäubungsmechanismen der Orchideen",
+        "Zentrum für botanische Bildung und lokalen Naturschutz",
+        "Idealer Ort für Makrofotografie und Pflanzenstudien",
+        "Schützt seltene Epiphyten vor dem illegalen Handel"
+      ]
+    },
+    {
+      "id": "andohahela-massif-relief-v2",
+      "descriptionAdvanced": "Das Andohahela-Massiv im Süden Madagaskars ist ein extremes Beispiel für orographische Effekte. Das Gebirge erhebt sich bis auf fast 2.000 Meter und wirkt als absolute Klimascheide zwischen dem feuchten Osten und dem ariden Süden. Das Relief ist asymmetrisch: Die Ostflanken fangen die Feuchtigkeit des Indischen Ozeans auf und sind von dichtem Regenwald bedeckt, während nur wenige Kilometer westlich, im Regenschatten, der Dornwald beginnt. Geologisch besteht das Massiv aus uralten kristallinen Gesteinen des Präkambriums. Dieser abrupte ökologische Übergang auf engstem Raum macht das Andohahela-Massiv zu einem der faszinierendsten Forschungsgebiete für Geographen und Biologen weltweit. Geografie K8 — Klimabarrieren und Landschaftsökologie.",
+      "factsAdvanced": [
+        "Südlichster Ausläufer des zentralen Gebirgsrückens (Region Anosy)",
+        "UNESCO-Weltnaturerbe aufgrund seiner einzigartigen Biodiversität",
+        "Erzeugt einen der weltweit schärfsten Übergänge zwischen Regenwald und Wüste",
+        "Höchster Punkt ist der Pic Trafonomby mit 1.956 Metern",
+        "Geologisch geprägt durch über 500 Millionen Jahre altes Gestein",
+        "Wichtiger Regulator für das Wasserangebot in der Region Fort-Dauphin",
+        "Natürliche Barriere für die feuchten Passatwinde des Südostens",
+        "Beherbergt den einzigen Übergangswald der Insel (Transition Forest)"
+      ]
+    },
+    {
+      "id": "andohahela-nationalpark-life-v2",
+      "descriptionAdvanced": "Der Andohahela-Nationalpark ist ein biologisches Unikat, da er drei völlig gegensätzliche Welten vereint. Bedingt durch das Andohahela-Massiv, das als Klimascheide fungiert, beherbergt der Park Regenwälder, Übergangswälder und den bizarren Dornwald des Südens. Diese Vielfalt ermöglicht das Zusammenleben von Arten, die normalerweise hunderte Kilometer voneinander entfernt siedeln. Besucher können hier die Anpassungsfähigkeit der Natur bewundern, von wasserliebenden Lemuren bis hin zu sukkulenten Pflanzen der Wüste. Der Park ist ein kritischer Rückzugsort für bedrohte Tierarten und ein Symbol für die ökologische Komplexität Madagaskars an der Schwelle zum tiefen Süden. Biologie K7 — Ökosystem-Management und Artendiversität.",
+      "factsAdvanced": [
+        "Einziger Park Madagaskars mit drei verschiedenen Klimazonen",
+        "Teil des geschützten UNESCO-Weltnaturerbe-Netzwerks",
+        "Heimat des seltenen Larvensifaka und elf weiterer Lemurenarten",
+        "Schutzgebiet für den endemischen Dreieckspalmen-Wald",
+        "Zentrum für die Erforschung extremer klimatischer Anpassungen",
+        "Bietet spektakuläre Wanderwege durch gegensätzliche Landschaften",
+        "Wichtiger Standort für die Erhaltung bedrohter Reptilienarten",
+        "Symbol für die ökologische Zerrissenheit des madagassischen Südens"
+      ]
+    },
+    {
+      "id": "andringitra-massif-relief-v2",
+      "descriptionAdvanced": "Das Andringitra-Massiv ist Madagaskars alpinste Gebirgsregion und bekannt für seine monumentalen Granitkuppeln und tiefen Gletschertäler. Es beherbergt den Pic Boby (2.658 m), den zweithöchsten Gipfel der Insel. Das Relief ist das Ergebnis tektonischer Hebungen, die das kristalline Grundgebirge freigelegt haben, welches anschließend durch Erosion zu bizarren Formen geschliffen wurde. In den Wintermonaten können die Temperaturen hier bis unter den Gefrierpunkt sinken, was für die Tropeninsel außergewöhnlich ist. Das raue Relief bietet eine spektakuläre Kulisse für Wanderer und beherbergt eine Flora, die sich an die extremen Temperaturschwankungen und die dünne Luft angepasst hat. Geografie K8 — Hochgebirgsbildung und Geomorphologie.",
+      "factsAdvanced": [
+        "Beherbergt den zweithöchsten Gipfel Madagaskars (Pic Boby)",
+        "Bekannt für seine gigantischen Granit-Steilwände (Tsaranoro)",
+        "Einzige Region Madagaskars mit regelmäßigem Bodenfrost im Winter",
+        "UNESCO-Weltnaturerbe seit dem Jahr 2007",
+        "Geologisch geprägt durch massives präkambrisches Granitgestein",
+        "Wichtiger Ursprung mehrerer großer Flüsse des Südens",
+        "Das Gelände bietet die anspruchsvollsten Trekkingrouten der Insel",
+        "Einzigartige Vegetation mit alpinen Wiesen und Sukkulenten"
+      ]
+    },
+    {
+      "id": "andringitra-nature-v2",
+      "descriptionAdvanced": "Die Natur des Andringitra-Nationalparks ist ein Rückzugsort für kälteadaptierte Arten und bietet eine faszinierende vertikale Zonierung. Von den dichten Regenwäldern der tieferen Lagen bis zu den baumlosen Heidelandschaften der Gipfelregionen hat sich eine einzigartige Artenvielfalt entwickelt. Der Katta-Lemur ist hier besonders prominent vertreten und hat sich an das Leben auf dem nackten Fels angepasst. Viele Pflanzen im Park, wie spezielle Orchideen und sukkulente Aloen, sind streng lokal endemisch. Der Schutz dieses Parks ist von internationaler Bedeutung, da er einen der letzten ungestörten Hochgebirgskorridore Madagaskars darstellt, in dem natürliche Prozesse ohne menschlichen Einfluss ablaufen können. Biologie K7 — Hochgebirgsbiologie und endemische Vielfalt.",
+      "factsAdvanced": [
+        "Reservat mit extrem hoher Konzentration seltener Bergpflanzen",
+        "Heimat des Ringelschwanzmakis (Katta) in alpinen Höhen",
+        "Beherbergt spezialisierte Lemurenarten wie den Goldenen Bambuslemur",
+        "Einzigartiges Ökosystem mit Flechten, Moosen und alpinen Kräutern",
+        "Zentrum für die Erforschung der Klimageschichte der Insel",
+        "Schutzgebiet für über 100 Vogelarten und seltene Hochlandamphibien",
+        "Bietet Lebensraum für kälteangepasste Reptilien und Insekten",
+        "Teil des UNESCO-Weltnaturerbes 'Regenwälder von Atsinanana'"
+      ]
+    },
+    {
+      "id": "ankarafantsika-nature-v2",
+      "descriptionAdvanced": "Der Ankarafantsika-Nationalpark im Nordwesten ist das wichtigste Schutzgebiet für den trockenen Laubwald Madagaskars. Die Landschaft wird durch ein sanft gewelltes Relief, riesige Binnenseen und die charakteristischen 'Lavaka'-Canyons aus buntem Sandstein geprägt. Der Park ist ein Refugium für den Coquerel-Sifaka und zahlreiche andere Lemurenarten. Während der langen Trockenzeit werfen die Bäume ihr Laub ab, was den Park in eine bizarre, silbrige Waldlandschaft verwandelt. Der Schutz von Ankarafantsika ist entscheidend, da dieser Waldtyp besonders anfällig für Brände ist. Der Ravelobe-See im Herzen des Parks ist ein wichtiges Heiligtum und Lebensraum für Nilkrokodile. Biologie K7 — Trockenwald-Ökologie und Biodiversität.",
+      "factsAdvanced": [
+        "Größter zusammenhängender Trockenwaldkomplex im Nordwesten",
+        "Bedeutendes Schutzgebiet für den Coquerel-Sifaka und den Wieselmaki",
+        "Wichtigster Standort für die Erhaltung des Madagaskar-Seeadlers",
+        "Besitzt spektakuläre Erosions-Canyons aus rotem Sandstein",
+        "Der heilige Ravelobe-See ist ein Zentrum lokaler Sakalava-Traditionen",
+        "Einer der besten Orte zur Beobachtung von Reptilien und Schlangen",
+        "Beherbergt eine internationale Zuchtstation für bedrohte Schildkröten",
+        "Strategischer Park zur Erhaltung der Boeny-Biodiversität"
+      ]
+    },
+    {
+      "id": "ankarafantsika-vogelbeobachtung-life-v2",
+      "descriptionAdvanced": "Ankarafantsika ist ein Paradies für Ornithologen und einer der besten Standorte zur Beobachtung der madagassischen Avifauna. Mit über 130 dokumentierten Vogelarten, von denen fast die Hälfte endemisch ist, bietet der Park eine unglaubliche Vielfalt. Besonders hervorzuheben ist der Madagaskar-Seeadler, der oft am Ravelobe-See gesichtet wird. Die Kombination aus Trockenwald, Seenlandschaft und Savanne schafft unterschiedliche Nischen für Eisvögel, Greifvögel und seltene Vangas. Geführte Touren ermöglichen es, die Vögel in ihrem natürlichen Rhythmus zu erleben. Der Schutz der Vögel ist eng mit dem Erhalt des Waldes verknüpft, da viele Arten auf alte Baumhöhlen angewiesen sind. Biologie K6 — Ornithologie und Artenschutz.",
+      "factsAdvanced": [
+        "Weltweit geschätztes Ziel für professionelle Vogelbeobachter",
+        "Wichtigstes Brutgebiet für den seltenen Madagaskar-Seeadler",
+        "Über 130 Arten, davon viele streng lokal endemisch",
+        "Verschiebung der Artenzusammensetzung zwischen Regen- und Trockenzeit",
+        "Speziell errichtete Beobachtungsplattformen am Seeufer",
+        "Zentrum für das Monitoring bedrohter Inselfalken und Vangas",
+        "Idealer Ort für die Aufzeichnung von Vogelstimmen im Wald",
+        "Enger Zusammenhang zwischen Waldgesundheit und Vogelvielfalt"
+      ]
+    },
+    {
+      "id": "ankarana-karst-relief-v2",
+      "descriptionAdvanced": "Das Ankarana-Massiv ist eines der spektakulärsten Karstgebiete der Erde. Gelegen im Norden Madagaskars, besteht es aus einem riesigen Kalksteinplateau, das durch Millionen Jahre von Erosion in die messerscharfen 'Tsingy'-Nadeln verwandelt wurde. Das Relief ist von tiefen Schluchten, unterirdischen Flüssen und riesigen Höhlen durchzogen, die zu den größten des afrikanischen Kontinents gehören. Diese unzugängliche 'Steinfestung' schützt isolierte Regenwaldinseln in ihren Tälern, in denen seltene Lemuren und Vögel überleben. Für das Volk der Antakarana ist das Massiv ein heiliger Rückzugsort und Grabstätte ihrer Vorfahren. Die geologische Dynamik von Ankarana ist ein Lehrbuchbeispiel für die Wirkung von Wasser auf lösliches Gestein. Geografie K8 — Karstsysteme und Speleologie.",
+      "factsAdvanced": [
+        "Weltberühmtes Karst-Plateau mit messerscharfen Tsingy-Spitzen",
+        "Beherbergt das größte Höhlensystem im gesamten Indischen Ozean",
+        "Entstand aus einem 150 Millionen Jahre alten Korallenriff",
+        "Unterirdische Flusssysteme sind die Heimat blinder Höhlenfische",
+        "Tiefe Einsturzschluchten bilden geschützte Regenwald-Mikroklimata",
+        "Heiliger Zufluchtsort des Antakarana-Stammes mit Königsgräbern",
+        "Erosion schafft jährlich neue, bizarre Felsformationen",
+        "Eines der biologisch und geologisch spannendsten Gebiete der Insel"
+      ]
+    },
+    {
+      "id": "ankaratra-mountains-relief-v2",
+      "descriptionAdvanced": "Das Ankaratra-Gebirge ist das zentrale Vulkanmassiv Madagaskars und prägt das Klima und die Geographie des Hochlandes südlich von Antananarivo. Es handelt sich um ein komplexes Relief aus erloschenen Vulkanen, Kraterseen und weiten, oft nebligen Plateaus, die eine Höhe von über 2.600 Metern erreichen. Die fruchtbaren Lavaböden der Region machen sie zur Kornkammer der Insel, in der Kartoffeln, Getreide und Obst für die Hauptstadt angebaut werden. Geologisch gesehen ist Ankaratra das Ergebnis junger tektonischer Aktivitäten, die die Insel während des Tertiärs und Quartärs erschütterten. Die kühlen Temperaturen und hohen Niederschläge machen das Massiv zum wichtigsten Wasserspeicher Zentralland-Madagaskars. Geografie K8 — Vulkanismus und Hochlandökologie.",
+      "factsAdvanced": [
+        "Höchstgelegenes Vulkanmassiv des zentralen Hochlandes",
+        "Höchster Gipfel ist der Tsiafajavona mit 2.642 Metern",
+        "Wichtigste Agrarregion Madagaskars dank fruchtbarer Vulkanböden",
+        "Ursprung zahlreicher Flüsse, die das Hochland bewässern",
+        "Kühles Gebirgsklima ermöglicht den Anbau europäischer Früchte",
+        "Geologisch geprägt durch Trachyte, Basalte und pyroklastische Sedimente",
+        "Beliebtes Ziel für Wanderungen und Bergsport nahe der Hauptstadt",
+        "Zentrum für die Erforschung der geologischen Entwicklung Madagaskars"
+      ]
+    },
+    {
+      "id": "antahakana-martyrs-cliff-history-v2",
+      "descriptionAdvanced": "Die Märtyrerklippe Antsahamanitra ist ein bedeutender Erinnerungsort in der Geschichte des madagassischen Christentums. Im 19. Jahrhundert, während der repressiven Herrschaft von Königin Ranavalona I., wurden hier gläubige Christen hingerichtet, indem man sie von der steilen Felswand stieß. Die Klippe in der Haute-Ville von Antananarivo steht sinnbildlich für den gewaltsamen Konflikt zwischen traditionellen madagassischen Werten und dem eindringenden europäischen Einfluss. Heute befindet sich dort eine Gedenkstätte, die an die Opfer erinnert und einen weiten Blick über den Lac Anosy bietet. Der Ort ist ein stilles Mahnmal für die Religionsfreiheit und die tragischen Umbrüche in der Ära der Monarchie. Geschichte K7 — Religionsgeschichte und die Monarchie des 19. Jahrhunderts.",
+      "factsAdvanced": [
+        "Ort der Christenverfolgung unter Königin Ranavalona I. (1849)",
+        "Steile Felsenklippe in der historischen Haute-Ville von Antananarivo",
+        "Gedenkstätte für die hingerichteten christlichen Märtyrer",
+        "Symbol für den Widerstand gegen die rigide Monarchie",
+        "Bietet einen der beeindruckendsten Ausblicke über die Hauptstadt",
+        "Wichtiger Punkt auf dem historischen Rundweg durch die Oberstadt",
+        "Zeugnis der religiösen Spannungen während der Staatsbildung",
+        "Ort des Gedenkens für die christlichen Gemeinden Madagaskars"
+      ]
+    }
+  ]
+}

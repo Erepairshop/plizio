@@ -1,0 +1,365 @@
+{
+  "lang": "de",
+  "country": "madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tsaratanana-foothills-relief-v2",
+      "descriptionAdvanced": "Die Ausläufer des Tsaratanana-Massivs im Norden Madagaskars bilden eine faszinierende Übergangszone zwischen den tropischen Küstenebenen des Sambirano-Tals und den kühlen Hochgebirgsgipfeln des Nordens. Das Relief ist geprägt durch eine wellige Hügellandschaft, die von zahlreichen Gebirgsbächen durchschnitten wird. Geologisch bestehen die Foothills aus verwitterten vulkanischen Gesteinen, die extrem fruchtbare Böden hervorgebracht haben. Dies macht die Region zum wichtigsten Anbaugebiet für den weltberühmten madagassischen Kakao und feine Vanille. Das Relief wirkt hier als ökologischer Puffer, der die einzigartigen Primärwälder der höheren Lagen vor dem menschlichen Siedlungsdruck schützt. Die Topographie ist weniger schroff als im Zentrum des Massivs, bietet jedoch spektakuläre Ausblicke auf die aufragenden Basaltwände des Maromokotro. Geografie K7 — Gebirgsmorphologie und agrarische Übergangszonen.",
+      "factsAdvanced": [
+        "Strategische Übergangszone zwischen dem Küstentiefland und dem Hochgebirge",
+        "Geprägt durch extrem fruchtbare, lateritische Vulkanböden",
+        "Wichtigstes Zentrum für den Anbau von Edelkakao in der Region Sambirano",
+        "Relief bildet ein natürliches Reservoir für die Bewässerung der Tiefebenen",
+        "Beherbergt seltene Sekundärwald-Ökosysteme mit hoher Biodiversität",
+        "Topographische Barriere für die feuchten Nordwest-Monsunwinde",
+        "Wichtiger Korridor für die Migration endemischer Tierarten am Berg",
+        "Gilt als Tor für wissenschaftliche Expeditionen in das Tsaratanana-Massiv"
+      ]
+    },
+    {
+      "id": "ambalonamana-market-hall-landmarks-v2",
+      "descriptionAdvanced": "Die historische Markthalle von Ambalonamana in Fianarantsoa ist das pulsierende Herz der Betsileo-Region und ein architektonisches Denkmal des frühen 20. Jahrhunderts. Das Relief der Haute-Ville wird durch diesen markanten Ziegelbau mit seinen charakteristischen Böden und dem weitläufigen Marktplatz geprägt. Als zentraler Handelsplatz verbindet die Halle die ländlichen Produzenten des Hochlandes mit den städtischen Konsumenten. Hier werden traditionelle Betsileo-Textilien, handgefertigte Korbwaren und die berühmten Agrarprodukte der Region gehandelt. Die Architektur ist ein hervorragendes Beispiel für die Verschmelzung von madagassischen Bautraditionen mit europäischen Kolonialeinflüssen. Die Markthalle ist nicht nur ein Ort des Austauschs, sondern auch ein soziales Zentrum, das die kulturelle Identität Fianarantsoas widerspiegelt. Wirtschaft K6 — Regionale Märkte und Warenströme.",
+      "factsAdvanced": [
+        "Zentrales architektonisches Wahrzeichen der Haute-Ville von Fianarantsoa",
+        "Wichtigster Umschlagplatz für Textilien und Kunsthandwerk der Betsileo",
+        "Erbaut unter Verwendung lokaler roter Ziegel und europäischer Bautechniken",
+        "Drehscheibe für den regionalen Handel mit Reis, Mais und Tabak",
+        "Beherbergt hunderte von kleinen Händlerständen in einem historischen Ambiente",
+        "Spiegelt die traditionelle soziale Hierarchie der madagassischen Märkte wider",
+        "Wesentlicher Bestandteil des geschützten historischen Stadtkerns",
+        "Bietet authentische Einblicke in die ökonomische Basis des südlichen Hochlandes"
+      ]
+    },
+    {
+      "id": "ambatovy-plant-landmarks-v2",
+      "descriptionAdvanced": "Die Ambatovy-Anlage nahe Moramanga ist das größte Industrieprojekt in der Geschichte Madagaskars und eine der bedeutendsten Nickel- und Kobaltraffinerien weltweit. Das Relief der Region wurde durch den Tagebau und die massiven Infrastrukturmaßnahmen grundlegend verändert. Das Projekt umfasst eine Mine im Regenwald, eine über 200 Kilometer lange Pipeline und eine riesige Verarbeitungsanlage an der Ostküste. Ambatovy ist ein entscheidender Faktor für das madagassische Bruttoinlandsprodukt und schafft tausende hochqualifizierte Arbeitsplätze. Gleichzeitig stellt die Anlage eine enorme Herausforderung für den Umweltschutz dar, weshalb umfangreiche Biodiversitäts-Management-Programme implementiert wurden, um den umliegenden Primärwald zu erhalten. Die Anlage symbolisiert den technologischen Fortschritt und die globale Integration der madagassischen Rohstoffwirtschaft. Wirtschaft K8 — Industrielle Großprojekte und Rohstoffabbau.",
+      "factsAdvanced": [
+        "Größte Auslandsinvestition in der Geschichte Madagaskars",
+        "Zentrum für die Gewinnung von Nickel und Kobalt in Weltmarkqualität",
+        "Umfasst eine der weltweit längsten Pipelines für Erzschlämme (220 km)",
+        "Wichtigster Exporteur mineralischer Rohstoffe auf der Insel",
+        "Technologische Spitzenanlage mit modernsten Hydrometallurgie-Verfahren",
+        "Schafft umfangreiche Infrastruktur in der Region Alaotra-Mangoro",
+        "Führend in der Umsetzung internationaler Umwelt- und Sozialstandards auf der Insel",
+        "Symbol für die ökonomische Transformation Madagaskars im 21. Jahrhundert"
+      ]
+    },
+    {
+      "id": "andafiavaratra-palace-landmarks-v2",
+      "descriptionAdvanced": "Der Andafiavaratra-Palast, majestätisch auf dem höchsten Hügel von Antananarivo gelegen, war die offizielle Residenz der Premierminister des Merina-Königreichs im 19. Jahrhundert. Das markante rote Backsteingebäude mit seinen vier Ecktürmen wurde vom Architekten William Pool für Rainilaiarivony entworfen, der über 30 Jahre lang die Geschicke des Landes leitete. Das Relief der Hauptstadt wird durch diesen Palast, der direkt neben dem königlichen Rova thront, entscheidend geprägt. Heute beherbergt das Gebäude ein Museum, das die geretteten Schätze des Rova-Brands von 1995 ausstellt, darunter Kronen, Staatsgewänder und historische Dokumente. Der Palast ist ein Symbol für die administrative Macht und die diplomatischen Bemühungen Madagaskars vor der Kolonialzeit. Die Architektur spiegelt den viktorianischen Einfluss wider, der im 19. Jahrhundert am madagassischen Hof Einzug hielt. Geschichte K7 — Machtzentren und königliches Erbe.",
+      "factsAdvanced": [
+        "Ehemalige Residenz des mächtigen Premierministers Rainilaiarivony",
+        "Erbaut im Jahr 1872 im eklektischen viktorianischen Stil",
+        "Beherbergt heute die wichtigsten Insignien der madagassischen Monarchie",
+        "Strategische Lage auf dem Gipfel des Hügels Analamanga",
+        "Die rote Backsteinfassade ist ein Wahrzeichen des historischen Zentrums",
+        "Zentrum für die Dokumentation der vorkolonialen Diplomatie Madagaskars",
+        "Wurde nach dem verheerenden Brand im Rova zum primären Aufbewahrungsort für Staatsschätze",
+        "Eindrucksvolles Beispiel für die Modernisierung der Imerina-Architektur"
+      ]
+    },
+    {
+      "id": "cathedrale-andohalo-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale von Andohalo, offiziell Cathédrale de l'Immaculée Conception, ist der bedeutendste katholische Sakralbau in Antananarivo und ein markantes Wahrzeichen der Oberstadt. Erbaut auf dem historischen Hügel von Andohalo, an der Stelle, an der früher christliche Märtyrer hingerichtet wurden, symbolisiert sie den Triumph des Glaubens über die Verfolgung im 19. Jahrhundert. Die Architektur der Kathedrale ist im neugotischen Stil gehalten, mit zwei imposanten Türmen, die das Stadtbild prägen. Im Inneren beeindrucken die kunstvollen Glasfenster und die feierliche Atmosphäre, die einen starken Kontrast zum geschäftigen Treiben der Hauptstadt bilden. Die Kathedrale ist nicht nur ein religiöses Zentrum, sondern auch ein Ort von großer historischer Bedeutung, da sie eng mit der Geschichte der Missionierung und der sozialen Transformation Madagaskars verknüpft ist. Religion K7 — Kirchengeschichte und Sakralarchitektur.",
+      "factsAdvanced": [
+        "Hauptsitz des Erzbistums Antananarivo im historischen Viertel Andohalo",
+        "Erbaut im neugotischen Stil zwischen den Jahren 1873 und 1890",
+        "Steht an einem ort, der historisch mit christlicher Verfolgung assoziiert war",
+        "Die markante Doppelturmfassade ist weithin über die Stadt sichtbar",
+        "Beherbergt wertvolle religiöse Kunstwerke und historische Statuen",
+        "Zentrum für bedeutende staatliche und religiöse Zeremonien der Hauptstadt",
+        "Architektonisches Zeugnis des französischen Einflusses auf die Imerina-Kultur",
+        "Wichtiger Punkt auf dem historischen Pfad durch die Haute-Ville"
+      ]
+    },
+    {
+      "id": "cathedrale-st-joseph-fianarantsoa-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale St. Joseph in Fianarantsoa ist das religiöse Wahrzeichen der Betsileo-Region und dominiert die Silhouette der historischen Haute-Ville. Als Sitz der Diözese Fianarantsoa spiegelt der monumentale Bau die tief verwurzelte katholische Tradition im Süden Madagaskars wider. Die Kathedrale wurde im späten 19. Jahrhundert auf einer strategischen Erhebung errichtet, die einen Panoramablick über das gesamte Tal bietet. Die Architektur ist durch massive Steinmauern und ein elegantes Interieur geprägt, das Zeugnis von der handwerklichen Meisterschaft der lokalen Erbauer ablegt. Fianarantsoa, bekannt als das 'Rom Madagaskars', verdankt diesen Ruf vor allem der hohen Dichte an Kirchen, wobei St. Joseph das spirituelle Zentrum bildet. Die Kathedrale ist ein lebendiger Ort der Gemeinschaft und ein unverzichtbares Ziel für Besucher der Altstadt. Architektur K7 — Sakrale Monumentalbauten und Stadtgeschichte.",
+      "factsAdvanced": [
+        "Zentrale Kathedrale der Betsileo-Region im südlichen Hochland",
+        "Wichtigster Bestandteil des UNESCO-beobachteten Ensembles der Haute-Ville",
+        "Erbaut auf einer markanten Hügelkuppe mit Blick über Fianarantsoa",
+        "Symbolisiert den Status der Stadt als Zentrum des madagassischen Katholizismus",
+        "Architektur vereint romanische Elemente mit lokalen Gesteinsarten",
+        "Beherbergt eine bedeutende Sammlung religiöser Paramente und Statuen",
+        "Zentrum für Bildung und soziale Dienste in der Region Haute Matsiatra",
+        "Gilt als eine der am besten erhaltenen historischen Kathedralen der Insel"
+      ]
+    },
+    {
+      "id": "chateau-d-eau-amparibe-landmarks-v2",
+      "descriptionAdvanced": "Das Château d'Eau in Amparibe ist ein historisches Zeugnis der infrastrukturellen Modernisierung von Antananarivo zu Beginn des 20. Jahrhunderts. Der markante Wasserturm auf dem Hügel von Amparibe diente der Sicherstellung der Wasserversorgung für die wachsende Bevölkerung der Oberstadt. Architekturgeschichtlich ist der Turm ein interessantes Beispiel für den funktionalen Ingenieurbau der Kolonialzeit, der gleichzeitig ästhetische Akzente im Stadtbild setzte. Das Relief des Amparibe-Hügels wird durch diesen Bau, der weithin sichtbar ist, topographisch markiert. Heute ist das Château d'Eau ein geschätztes industrielles Erbe, das an die Herausforderungen der städtischen Hygiene und Technik erinnert. Der Turm und die umliegenden Anlagen bieten zudem einen Einblick in die historische Wasserwirtschaft, die für die Entwicklung der madagassischen Metropole entscheidend war. Technik K6 — Infrastruktur und städtische Wasserversorgung.",
+      "factsAdvanced": [
+        "Historischer Wasserturm zur Versorgung der Oberstadt von Antananarivo",
+        "Erbaut zu Beginn der französischen Kolonialverwaltung um 1900",
+        "Wichtiges Denkmal der Industriegeschichte im Hochland",
+        "Markanter topographischer Orientierungspunkt im Viertel Amparibe",
+        "Architektur kombiniert utilitaristische Funktion mit dekorativen Ziegel-Elementen",
+        "Teil des frühen Systems zur Modernisierung der städtischen Hygiene",
+        "Symbol für den technologischen Transfer im Bereich der Siedlungswasserwirtschaft",
+        "Erhaltener Teil des historischen Infrastruktur-Netzes der Hauptstadt"
+      ]
+    },
+    {
+      "id": "fort-flacourt-ruins-landmarks-v2",
+      "descriptionAdvanced": "Die Ruinen von Fort Flacourt in Tôlanaro (Fort-Dauphin) markieren den Ort der ersten dauerhaften französischen Siedlung auf Madagaskar im 17. Jahrhundert. Gelegen auf einer strategischen Landzunge an der Südostküste, bietet die Festung einen weiten Blick über den Indischen Ozean. Benannt nach Étienne de Flacourt, dem Gouverneur und Chronisten der Insel, war das Fort das administrative Zentrum der französischen Ostindien-Kompanie. Die verbliebenen Mauern, Fundamente und Kanonen zeugen von den harten Kämpfen, Meutereien und Klimabedingungen, denen die frühen Siedler ausgesetzt waren. Heute ist das Gelände Teil eines Museums, das die komplexe Geschichte der Begegnung zwischen Madagaskar und Europa dokumentiert. Die Ruinen sind ein stilles Denkmal für die gescheiterten frühen Kolonisationsversuche und die Widerstandskraft der lokalen Bevölkerung. Geschichte K8 — Frühe Kolonialgeschichte und Festungsbau.",
+      "factsAdvanced": [
+        "Historische Ruinen der ersten französischen Festung (gegründet 1643)",
+        "Benannt nach dem berühmten Gouverneur und Autor Étienne de Flacourt",
+        "Strategische Lage auf einer Halbinsel zum Schutz der Bucht von Fort-Dauphin",
+        "Beherbergt Reste der ursprünglichen Befestigungswälle und Batterien",
+        "Zentrum für die frühe wissenschaftliche Dokumentation der Insel durch Europäer",
+        "Ort bedeutender historischer Konflikte mit der lokalen Antanosy-Bevölkerung",
+        "Wichtigstes archäologisches Zeugnis des 17. Jahrhunderts im Süden",
+        "Heute Teil des städtischen Museums für Geschichte und Kultur"
+      ]
+    },
+    {
+      "id": "gare-antsirabe-landmarks-v2",
+      "descriptionAdvanced": "Der Bahnhof von Antsirabe ist ein architektonisches Juwel im Kolonialstil und ein Symbol für die Blütezeit der Eisenbahn auf Madagaskar. Als Endpunkt der 'Vakinankaratra-Linie' (TA), die die Hauptstadt mit dem kühlen Hochland verbindet, spielte der Bahnhof eine zentrale Rolle für den Transport von Agrargütern und Passagieren. Das elegante Gebäude mit seiner symmetrischen Fassade und den hohen Fenstern spiegelt den Wohlstand wider, den der Kurort Antsirabe im frühen 20. Jahrhundert genoss. Obwohl der regelmäßige Passagierverkehr heute ruht, bleibt der Bahnhof ein wichtiges kulturelles Wahrzeichen und ein Zeugnis der ingenieurtechnischen Leistung, die für den Bau der Schienen durch das schwierige Hochland-Relief erforderlich war. Die Gleisanlagen und das historische Empfangsgebäude vermitteln eine nostalgische Atmosphäre und sind ein Muss für Geschichtsinteressierte. Geschichte K7 — Verkehrsinfrastruktur und koloniale Architektur.",
+      "factsAdvanced": [
+        "Historischer Endbahnhof der Eisenbahnlinie von Antananarivo nach Antsirabe",
+        "Erbaut im Jahr 1923 im repräsentativen französischen Kolonialstil",
+        "Wichtigster Umschlagplatz für landwirtschaftliche Produkte des Hochlandes",
+        "Architektur zeichnet sich durch harmonische Proportionen und Zierelemente aus",
+        "Symbol für die Erschließung der Region Vakinankaratra durch moderne Technik",
+        "Beherbergt oft Ausstellungen zur Geschichte der madagassischen Eisenbahn",
+        "Einer der am besten erhaltenen historischen Bahnhöfe der gesamten Insel",
+        "Markiert den südlichsten Punkt des nördlichen Schienen netzes"
+      ]
+    },
+    {
+      "id": "gare-soarano-landmarks-v2",
+      "descriptionAdvanced": "Der Bahnhof Soarano im Herzen von Antananarivo ist das monumentale Eingangstor zur Hauptstadt und ein Meisterwerk der französischen Kolonialarchitektur. Entworfen vom Architekten Fouchard und erbaut zwischen 1908 und 1910, markiert er den Beginn der wichtigsten Eisenbahnstrecke des Landes nach Toamasina (TCE). Das Gebäude besticht durch seine prächtige Steinfassade, die hohen Rundbogenfenster und die elegante Gestaltung, die an große europäische Bahnhöfe erinnert. Soarano, was 'Gutes Wasser' bedeutet, war über Jahrzehnte der geschäftigste Ort der Stadt, an dem sich Handel, Politik und Reisen trafen. Heute beherbergt der Bahnhof neben den Gleisanlagen ein exklusives Einkaufszentrum und Restaurants, was ihm eine neue Rolle im modernen Stadtleben verleiht. Er bleibt ein zentrales Symbol für die historische Vernetzung Madagaskars und die städtebauliche Entwicklung der Hauptstadt. Geschichte K7 — Schienenverkehr und Stadtentwicklung.",
+      "factsAdvanced": [
+        "Zentraler Hauptbahnhof von Antananarivo, eröffnet im Jahr 1910",
+        "Ausgangspunkt der strategisch wichtigen Bahnstrecke zur Ostküste (TCE)",
+        "Architektonisch beeinflusst durch die Belle Époque und klassizistische Elemente",
+        "Name 'Soarano' bezieht sich auf die ursprüngliche Wasserquelle an diesem Ort",
+        "Wurde im Jahr 2008 umfassend renoviert und als Kulturzentrum revitalisiert",
+        "Die gusseisernen Bahnsteighallen sind ein bedeutendes Industriedenkmal",
+        "Zentrum der wirtschaftlichen Achse entlang der Avenue de l'Indépendance",
+        "Symbol für den technologischen Aufbruch Madagaskars im frühen 20. Jahrhundert"
+      ]
+    },
+    {
+      "id": "hotel-de-ville-mahajanga-landmarks-v2",
+      "descriptionAdvanced": "Das Rathaus (Hôtel de Ville) von Mahajanga ist ein markantes administratives Gebäude, das den multikulturellen Charakter der bedeutendsten Hafenstadt am Kanal von Mosambik widerspiegelt. Die Architektur kombiniert funktionale koloniale Strukturen mit dekorativen Elementen, die an die maritime Bedeutung der Region Boeny erinnern. Gelegen an den breiten Boulevards nahe der berühmten Küstenpromenade 'Le Bord', ist das Rathaus das Zentrum des politischen Lebens der Stadt. Das Gebäude überstand zahlreiche Zyklone und bleibt ein Symbol für die Beständigkeit und den Stolz der Bevölkerung von Mahajanga. Es dient als administrativer Knotenpunkt und ist oft Schauplatz öffentlicher Feierlichkeiten und kultureller Veranstaltungen, die die Mischung aus suheli-arabischen, indischen und madagassischen Einflüssen zelebrieren. Das Rathaus ist ein unverzichtbarer Bestandteil des historischen Rundgangs durch die 'Stadt der Blumen'. Geschichte K6 — Kommunale Verwaltung und Stadtgeschichte.",
+      "factsAdvanced": [
+        "Administratives Zentrum der Region Boeny und der Stadt Mahajanga",
+        "Repräsentatives Gebäude im Herzen des kolonialen Stadtviertels",
+        "Architektur ist an das heiße, tropische Klima des Nordwestens angepasst",
+        "Strategische Lage unweit des riesigen historischen Baobab-Baums",
+        "Zentrum für die Koordination der bedeutenden Hafenaktivitäten der Stadt",
+        "Wichtiges Denkmal für die städtebauliche Entwicklung am Kanal von Mosambik",
+        "Beherbergt historische Archive zur Gründungszeit des Sakalava-Königreichs Boina",
+        "Symbol für den kosmopolitischen Geist der Hafenmetropole"
+      ]
+    },
+    {
+      "id": "hotel-des-thermes-landmarks-v2",
+      "descriptionAdvanced": "Das Hôtel des Thermes in Antsirabe ist eines der berühmtesten und geschichtsträchtigsten Hotels Madagaskars und ein Wahrzeichen des 'Vichy Afrikas'. Das prächtige Gebäude im neoklassizistischen Stil wurde 1897 eröffnet und diente als luxuriöse Unterkunft für Besucher, die zur Kur an die heilenden Thermalquellen der Stadt kamen. Das Hotel ist weltweit bekannt als der Ort, an dem der marokkanische Sultan Mohammed V. im Jahr 1954 von den Franzosen ins Exil geschickt wurde. Die Architektur mit ihren weiten Fluren, hohen Decken und dem weitläufigen Garten strahlt noch heute den Glanz der Belle Époque aus. Gelegen am Ende einer von Bäumen gesäumten Allee, prägt das Hotel das elegante Stadtbild von Antsirabe entscheidend. Es ist ein lebendiges Denkmal der Diplomatiegeschichte und der Entwicklung des Tourismus im Hochland. Geschichte K8 — Exilgeschichte und Kolonialer Luxus.",
+      "factsAdvanced": [
+        "Berühmtestes historisches Luxushotel Madagaskars, eröffnet 1897",
+        "Historischer Zufluchtsort und Exil-Residenz für Sultan Mohammed V. von Marokko",
+        "Zentraler Bestandteil des Kurviertels von Antsirabe",
+        "Architektur ist ein hervorragendes Beispiel für den französischen Kolonialstil",
+        "Beherbergt originale Möbel und Dokumente aus der Ära der marokkanischen Unabhängigkeit",
+        "Direkter Zugang zu den berühmten Thermalbädern der Stadt",
+        "Wahrzeichen für den europäischen Einfluss auf die Stadtplanung im Hochland",
+        "Gilt als eines der bedeutendsten diplomatischen Denkmäler der Insel"
+      ]
+    },
+    {
+      "id": "independance-avenue-arc-landmarks-v2",
+      "descriptionAdvanced": "Die Avenue de l'Indépendance mit ihrem markanten Torbogen ist die prachtvollste Straße von Antananarivo und das symbolische Zentrum des modernen Madagaskar. Die Avenue wurde nach dem Vorbild großer französischer Boulevards angelegt und wird von eleganten Arkadenhäusern gesäumt, die heute Geschäfte, Cafés und Banken beherbergen. Der Torbogen und die umliegenden Denkmäler erinnern an den Kampf um die Unabhängigkeit und die nationale Souveränität. Die Avenue ist Schauplatz der großen Militärparaden am Nationalfeiertag und ein ständiger Treffpunkt für Menschen aus allen Teilen der Insel. Das Relief des zentralen Tals, in dem die Avenue liegt, wurde durch massive Trockenlegung und Stadtplanung geformt. Dieser Boulevard ist das Herzstück der Metropole und spiegelt den Wandel von der königlichen Garnisonsstadt zur modernen afrikanischen Hauptstadt wider. Geschichte K7 — Nationale Symbole und Stadtplanung.",
+      "factsAdvanced": [
+        "Zentrale Prachtstraße von Antananarivo und Ort nationaler Feierlichkeiten",
+        "Architektur geprägt durch durchgehende Arkadengänge im europäischen Stil",
+        "Symbolisiert den Übergang Madagaskars in die Unabhängigkeit im Jahr 1960",
+        "Zentrum des öffentlichen Lebens und der kommerziellen Aktivitäten",
+        "Verbindet den Bahnhof Soarano mit dem historischen Stadtzentrum",
+        "Ort für bedeutende politische Kundgebungen und kulturelle Events",
+        "Die Gestaltung der Avenue folgt dem Prinzip der 'Grandes Axes' der Stadtplanung",
+        "Wichtigstes städtebauliches Erbe der französischen Kolonialzeit in der Hauptstadt"
+      ]
+    },
+    {
+      "id": "katedraly-faravohitra-landmarks-v2",
+      "descriptionAdvanced": "Die Kathedrale von Faravohitra, eine imposante Backsteinkirche auf einem der höchsten Hügel von Antananarivo, ist ein Meisterwerk der anglikanischen Kirchenarchitektur. Das Gebäude, das Ende des 19. Jahrhunderts errichtet wurde, besticht durch seine schlichte Eleganz und die Verwendung von lokalen Materialien, die perfekt mit der Umgebung harmonieren. Der Hügel Faravohitra bietet eine der spektakulärsten Aussichten über die gesamte Hauptstadt, und die Kathedrale ist ein zentraler Orientierungspunkt in der Skyline. Sie erinnert an die bedeutende Rolle der britischen Missionare und den Einfluss des Protestantismus auf die Merina-Monarchie. Im Inneren schaffen die klaren Linien und die Ruhe einen besinnlichen Raum, der weit über die Stadtgrenzen hinaus geschätzt wird. Die Kathedrale ist ein wichtiger Teil des kulturellen und spirituellen Erbes der Imerina-Region. Architektur K7 — Anglikanische Sakralbauten und Stadtbild.",
+      "factsAdvanced": [
+        "Bedeutende anglikanische Kathedrale im historischen Viertel Faravohitra",
+        "Erbaut im späten 19. Jahrhundert unter Verwendung charakteristischer roter Backsteine",
+        "Markanter architektonischer Fixpunkt auf den zwölf heiligen Hügeln",
+        "Symbol für den starken Einfluss britischer Missionare auf das madagassische Bildungswesen",
+        "Bietet von ihrem Vorplatz aus einen 360-Grad-Blick über Antananarivo",
+        "Zentrum der anglikanischen Gemeinschaft in der Hauptstadtregion",
+        "Architektur verbindet neugotische Elemente mit madagassischer Bodenständigkeit",
+        "Wichtiger Ort für die Erhaltung der protestantischen Liedkultur und Tradition"
+      ]
+    },
+    {
+      "id": "lake-anosy-monument-landmarks-v2",
+      "descriptionAdvanced": "Das Monument mitten im herzförmigen Lake Anosy in Antananarivo ist ein ergreifendes Denkmal für die Gefallenen des Ersten Weltkriegs. Die geflügelte Engelsstatue, oft 'L'Ange Noir' genannt, thront auf einer Insel in der Mitte des künstlichen Sees, der im 19. Jahrhundert von James Cameron für König Radama I. angelegt wurde. Das Relief des Sees und die ihn umgebenden Jacaranda-Bäume machen diesen Ort zu einem der meistfotografierten Wahrzeichen Madagaskars. Das Denkmal erinnert an die tausenden madagassischen Soldaten (Tirailleurs Malgaches), die auf den Schlachtfeldern Europas kämpften. In der Blütezeit der Jacarandas im Oktober verwandelt sich der See in ein violettes Blütenmeer, das einen starken Kontrast zur grauen Steinstatue bildet. Der Ort ist nicht nur ein Kriegsdenkmal, sondern auch eine grüne Oase der Ruhe inmitten des hektischen Stadtzentrums. Geschichte K7 — Gedenkkultur und internationale Verflechtungen.",
+      "factsAdvanced": [
+        "Kriegsdenkmal für die madagassischen Gefallenen des Ersten Weltkriegs",
+        "Gelegen auf einer Insel im künstlich angelegten, herzförmigen Lake Anosy",
+        "Die Engelsstatue wurde im klassischen Stil der französischen Gedenkkunst entworfen",
+        "Der See wurde ursprünglich zur Versorgung der königlichen Schießpulver-Fabrik genutzt",
+        "Berühmt für die spektakuläre violette Jacaranda-Blüte im madagassischen Frühling",
+        "Zentraler Punkt für Gedenkzeremonien und militärische Ehrenbezeugungen",
+        "Symbol für die Opferbereitschaft Madagaskars während der Weltkriege",
+        "Beliebtes Ziel für Stadtspaziergänge und kulturelle Dokumentationen"
+      ]
+    },
+    {
+      "id": "mahamasina-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Mahamasina-Stadion (heute Stade Barea) ist das nationale Stadion Madagaskars und ein Ort von enormer historischer und emotionaler Bedeutung. Gelegen am Fuße des Hügels von Analamanga, war der Platz bereits zur Zeit der Merina-Könige ein heiliger Ort für Staatszeremonien und königliche Reden (Kabary). Hier wurde am 26. Juni 1960 offiziell die Unabhängigkeit Madagaskars verkündet. Heute ist das Stadion die Heimat der madagassischen Fußballnationalmannschaft 'Barea' und das Zentrum des sportlichen Lebens auf der Insel. Mit seiner modernen Architektur und der beeindruckenden Kapazität ist es Schauplatz für internationale Spiele, Konzerte und politische Großereignisse. Mahamasina symbolisiert den nationalen Stolz, die sportlichen Erfolge und die ungebrochene Tradition öffentlicher Versammlungen in der Hauptstadt. Sport K6 — Nationalsport und nationale Identität.",
+      "factsAdvanced": [
+        "Nationalstadion Madagaskars und Austragungsort der Unabhängigkeitsfeierlichkeiten",
+        "Historischer Versammlungsort der Merina-Monarchen für königliche Kabarys",
+        "Kürzlich renoviert und nach dem Nationaltier Madagaskars (Barea) benannt",
+        "Befindet sich an einer strategisch und spirituell wichtigen Stelle unterhalb des Rova",
+        "Kapazität für über 40.000 Zuschauer bei sportlichen und kulturellen Events",
+        "Heimstätte der Barea-Nationalmannschaft, dem Symbol des sportlichen Aufstiegs",
+        "Schauplatz für bedeutende historische Vereidigungen und politische Reden",
+        "Zentraler Knotenpunkt für das soziale und sportliche Leben in Antananarivo"
+      ]
+    },
+    {
+      "id": "monument-aux-morts-diego-suarez-landmarks-v2",
+      "descriptionAdvanced": "Das Monument aux Morts in Antsiranana (Diego Suarez) ist ein bedeutendes Denkmal, das an die komplexen militärischen Verwicklungen Madagaskars im 20. Jahrhundert erinnert. Antsiranana war aufgrund seines natürlichen Tiefwasserhafens ein strategischer Stützpunkt von Weltrang. Das Monument ehrt die Soldaten, die in den Weltkriegen und insbesondere während der 'Operation Ironclad' im Jahr 1942 gefallen sind, als britische Truppen die Stadt besetzten, um sie vor japanischem Einfluss zu schützen. Die Architektur des Denkmals ist schlicht und würdevoll, mit Blick auf die wunderschöne Bucht von Diego Suarez. Es ist ein stilles Zeugnis für die geopolitische Bedeutung des Nordens und ein Ort des Gedenkens für die vielen Nationalitäten, die in den Konflikten um Madagaskar ihr Leben ließen. Geschichte K8 — Geopolitik und die Weltkriege im Indischen Ozean.",
+      "factsAdvanced": [
+        "Gedenkstätte für die Gefallenen der Weltkriege im Norden Madagaskars",
+        "Erinnert insbesondere an die britische Invasion von 1942 (Operation Ironclad)",
+        "Strategische Lage mit Blick auf einen der größten natürlichen Häfen der Welt",
+        "Ehrt Soldaten verschiedener Herkunft, darunter Madagassen, Senegalesen und Franzosen",
+        "Zentraler Ort für offizielle Gedenkfeiern in der Provinz Diana",
+        "Architektonisches Bindeglied zur militärischen Geschichte der Stadt Diego Suarez",
+        "Symbol für den Kampf um die Kontrolle des Indischen Ozeans im Zweiten Weltkrieg",
+        "Wichtiges Ziel für geschichtlich interessierte Besucher des Nordens"
+      ]
+    },
+    {
+      "id": "morondava-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die große Moschee von Morondava ist ein beeindruckendes Zeugnis des islamischen Erbes an der Westküste Madagaskars. Als wichtiges religiöses und soziales Zentrum für die muslimische Gemeinschaft in der Region Menabe spiegelt sie die jahrhundertelangen Handelsbeziehungen mit der arabischen Welt und dem indischen Subkontinent wider. Die Architektur der Moschee zeichnet sich durch ihre eleganten Minarette und die strahlend weiße Fassade aus, die einen wunderschönen Kontrast zum blauen Himmel und den staubigen Straßen der Stadt bildet. Morondava war historisch ein Knotenpunkt für Händler, die den Kanal von Mosambik überquerten, was zur Entstehung einer vielfältigen und lebendigen muslimischen Gemeinde führte. Die Moschee ist nicht nur ein Ort des Gebets, sondern auch ein Symbol für die religiöse Toleranz und die kulturelle Vielfalt, die den Westen Madagaskars so einzigartig machen. Religion K7 — Islamische Architektur und Küstenhandel.",
+      "factsAdvanced": [
+        "Zentraler religiöser Zentrum der muslimischen Gemeinde in Morondava",
+        "Architektur vereint moderne Elemente mit traditionellen islamischen Motiven",
+        "Wahrzeichen für den kulturellen Austausch über den Kanal von Mosambik",
+        "Wichtiger Standort für religiöse Bildung und soziale Arbeit in der Region Menabe",
+        "Die strahlend weiße Fassade ist ein markanter Orientierungspunkt in der Stadt",
+        "Symbol für die friedliche Koexistenz verschiedener Glaubensrichtungen im Westen",
+        "Beherbergt wertvolle Kalligraphien und religiöse Texte",
+        "Ein Muss für Besucher, die sich für die multikulturelle Geschichte der Küste interessieren"
+      ]
+    },
+    {
+      "id": "nosy-be-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Leuchtturm von Nosy Be, gelegen am südlichen Zipfel der Insel, ist ein unverzichtbares Navigationsmerkmal für die Schifffahrt im Kanal von Mosambik. Seit seiner Errichtung in der Kolonialzeit weist er den Seefahrern den Weg in die sicheren Gewässer rund um das Archipel. Die Architektur des Turms ist funktional und robust, entworfen, um den extremen tropischen Bedingungen und den gelegentlichen Zyklonen standzuhalten. Von seiner Spitze aus bietet sich ein atemberaubender Blick über den Indischen Ozean und die umliegenden Inseln. Der Leuchtturm ist ein Symbol für die maritime Sicherheit und die Bedeutung von Nosy Be als historischer Handelsaußenposten. Er erinnert an die Ära der großen Segelschiffe und Dampfer, die hier Gewürze, Parfümöle und Waren für den Weltmarkt luden. Technik K6 — Maritime Navigation und Küstenschutz.",
+      "factsAdvanced": [
+        "Historischer Leuchtturm zur Sicherung der Seewege im Nordwesten",
+        "Erbaut während der französischen Verwaltung zur Unterstützung des Seehandels",
+        "Strategischer Standort mit weitreichendem Blick über das Archipel von Nosy Be",
+        "Wichtiges technisches Denkmal der kolonialen Infrastruktur",
+        "Die Leuchtfeuer-Technik wurde über Jahrzehnte modernisiert",
+        "Wahrzeichen für die maritime Identität der Inselbewohner",
+        "Beliebtes Ziel für Wanderungen und Sonnenuntergangs-Beobachtungen",
+        "Symbol für den Schutz der wertvollen marinen Ressourcen der Region"
+      ]
+    },
+    {
+      "id": "palais-justice-amboasary-landmarks-v2",
+      "descriptionAdvanced": "Der Justizpalast in Amboasary ist ein monumentales administratives Gebäude im tiefen Süden Madagaskars, das die Präsenz des staatlichen Rechtssystems in der Region Anosy symbolisiert. Die Architektur zeichnet sich durch einen strengen, neoklassizistischen Stil aus, der Autorität und Ordnung vermitteln soll. Das Gebäude wurde errichtet, um den rechtlichen Rahmen für die schnell wachsende Agrarwirtschaft und die Sisal-Plantagen im Mandrare-Tal zu sichern. Das Relief der umliegenden Trockenlandschaft wird durch diesen massiven Bau, der oft einen starken Kontrast zur einfachen ländlichen Architektur bildet, dominiert. Der Justizpalast ist ein wichtiges Zeugnis für die administrative Durchdringung des Südens und die Bemühungen um eine Zentralisierung der Rechtsprechung. Er bleibt ein zentraler Anlaufpunkt für die Bürger der Region und ein Monument der jüngeren Rechtsgeschichte. Geschichte K7 — Rechtsstaatlichkeit und Regionalverwaltung.",
+      "factsAdvanced": [
+        "Zentraler Justizgebäude für den Distrikt Amboasary-Sud",
+        "Architektonisches Symbol für staatliche Autorität im ländlichen Süden",
+        "Erbaut im repräsentativen Stil zur Zeit der administrativen Expansion",
+        "Wichtiger Standort für die Schlichtung lokaler Land- und Ressourcenkonflikte",
+        "Das Gebäude prägt das städtische Zentrum der Region Anosy entscheidend",
+        "Wesentliches administratives Bindeglied zwischen der Hauptstadt und dem tiefen Süden",
+        "Symbol für die rechtliche Begleitung der industriellen Agrarentwicklung",
+        "Beherbergt bedeutende regionale Register und juristische Archive"
+      ]
+    },
+    {
+      "id": "phare-cap-minne-landmarks-v2",
+      "descriptionAdvanced": "Der Phare du Cap Minne, an der Einfahrt zur riesigen Bucht von Antsiranana gelegen, ist einer der wichtigsten Leuchttürme Madagaskars. Er markiert den strategischen Übergang vom offenen Indischen Ozean in den geschützten Tiefwasserhafen von Diego Suarez. Das Relief des Kaps ist schroff und exponiert, was die Bedeutung des Leuchtfeuers für die Sicherheit der internationalen Schifffahrt unterstreicht. Der Leuchtturm wurde zu Beginn des 20. Jahrhunderts erbaut und ist ein technisches Meisterwerk der kolonialen Küstensicherung. Die dramatische Lage des Turms auf den Felsen bietet spektakuläre Einblicke in die geologische Struktur des Nordens. Er ist nicht nur ein technisches Hilfsmittel, sondern auch ein historisches Wahrzeichen, das an die Ära erinnert, in der Antsiranana ein militärisches und handelslogistisches Zentrum von globaler Bedeutung war. Technik K7 — Küstennavigation und maritime Geographie.",
+      "factsAdvanced": [
+        "Wichtigster Leuchtturm an der strategischen Einfahrt zur Bucht von Diego Suarez",
+        "Erbaut im frühen 20. Jahrhundert zur Sicherung der Marinebasis",
+        "Das Leuchtfeuer ist über 20 Seemeilen weit sichtbar",
+        "Architektur ist auf extreme Windgeschwindigkeiten und Gischt ausgelegt",
+        "Gelegen an einem geologisch markanten Punkt der nördlichen Bruchlandkante",
+        "Symbol für die maritime Vormachtstellung des Hafens im Indischen Ozean",
+        "Unverzichtbares Instrument für die moderne Container- und Kreuzschifffahrt",
+        "Historischer Standort mit Resten alter Verteidigungsanlagen in der Umgebung"
+      ]
+    },
+    {
+      "id": "pirate-cemetery-sainte-marie-landmarks-v2",
+      "descriptionAdvanced": "Der Piratenfriedhof auf der Île Sainte-Marie (Nosy Boraha) ist das weltweit einzige verbliebene Denkmal seiner Art und erinnert an das Goldene Zeitalter der Piraterie im Indischen Ozean. Im späten 17. und frühen 18. Jahrhundert war die Insel ein berüchtigter Zufluchtsort für hunderte Freibeuter, darunter legendäre Gestalten wie William Kidd und Christopher Condent. Die geschützte Bucht von Ambodifotatra bot ideale Bedingungen für Schiffsreparaturen und als Ausgangspunkt für Überfälle auf die reich beladenen Schiffe der Gewürzroute. Der kleine Friedhof beherbergt etwa 30 verwitterte Grabsteine, von denen einige mit dem klassischen Totenkopfsymbol (Jolly Roger) verziert sind. Die melancholische Atmosphäre unter den Palmen zeugt von einer Ära, in der Sainte-Marie kurzzeitig ein Zentrum des globalen Seehandels und der Gesetzlosigkeit war. Geschichte K6 — Piraterie und Handelsgeschichte.",
+      "factsAdvanced": [
+        "Weltweit einzigartiger historischer Friedhof, der ausschließlich Piraten gewidmet ist",
+        "Sainte-Marie diente ab ca. 1685 als Stützpunkt für hunderte internationale Seeräuber",
+        "Bekannte Piraten wie William Kidd und Thomas Tew suchten hier Zuflucht",
+        "Einige Grabsteine zeigen noch heute die Gravur von Totenkopf und Knochen",
+        "Die Insel war Teil der legendären 'Piratenrunde' zwischen Amerika und dem Indischen Ozean",
+        "Der Friedhof ist nur bei Ebbe über einen schmalen Pfad durch die Mangroven erreichbar",
+        "Die Grabsteine bestehen aus lokalem Vulkangestein und sind stark verwittert",
+        "Erinnert an die kurzlebige Piratenrepublik Libertalia, die hier existiert haben soll"
+      ]
+    },
+    {
+      "id": "pont-betsiboka-landmarks-v2",
+      "descriptionAdvanced": "Die Betsiboka-Brücke ist eine der längsten und bedeutendsten Brückenbauwerke Madagaskars und verbindet das zentrale Hochland mit dem Nordwesten der Insel. Sie überspannt den mächtigen Betsiboka-Fluss, der für seine charakteristische rotbraune Farbe aufgrund der massiven Laterit-Erosion im Hochland bekannt ist. Die Brücke ist ein technisches Meisterwerk der Ingenieurskunst und wurde entworfen, um den enormen Wassermassen und den reißenden Strömungen während der Regenzeit standzuhalten. Das Relief des weiten Flusstals wird durch diese filigrane Stahlkonstruktion auf beeindruckende Weise überbrückt. Die Brücke ist die Lebensader für den Warentransport zum Hafen von Mahajanga und symbolisiert die Überwindung der topographischen Barrieren des Landes. Sie bietet Reisenden einen spektakulären Blick auf den 'roten Fluss' und die umliegenden Savannenlandschaften der Region Boeny. Technik K7 — Brückenbau und Verkehrswege.",
+      "factsAdvanced": [
+        "Längste Hängebrücke Madagaskars über den mächtigen Betsiboka-Fluss",
+        "Strategisch wichtiges Glied der Nationalstraße RN4 nach Mahajanga",
+        "Konstruktion ist für extreme Hochwasserereignisse und Zyklone ausgelegt",
+        "Bietet den besten Aussichtspunkt auf die massiven Sedimenttransporte des Flusses",
+        "Technisches Denkmal für die infrastrukturelle Erschließung des Nordwestens",
+        "Die rote Farbe des Wassers unter der Brücke ist ein weltbekanntes Symbol für Boden-Erosion",
+        "Wurde nach Beschädigungen durch Naturkatastrophen mehrfach modernisiert",
+        "Wesentlicher Faktor für die wirtschaftliche Integration der Hafenstadt Mahajanga"
+      ]
+    },
+    {
+      "id": "pont-kamoro-landmarks-v2",
+      "descriptionAdvanced": "Die Kamoro-Brücke ist eine spektakuläre Hängebrücke an der Nationalstraße RN4, die das tiefe und schroffe Tal des Kamoro-Flusses im Nordwesten Madagaskars überspannt. Erbaut im frühen 20. Jahrhundert und vor kurzem durch eine moderne Parallelkonstruktion ergänzt, ist sie ein Musterbeispiel für die Entwicklung der nationalen Verkehrsinfrastruktur. Die ursprüngliche Brücke, eine elegante Stahlkonstruktion, war über Jahrzehnte ein technisches Nadelöhr und gleichzeitig ein architektonisches Highlight im Relief der Region. Das schwierige Gelände und die Tiefe des Tals machten den Bau zu einer enormen Herausforderung für die damaligen Ingenieure. Heute symbolisiert das Brückenpaar den Fortschritt und die Bemühungen um eine sichere Anbindung der Hafenmetropole Mahajanga an die Hauptstadt. Die Brücke ist ein faszinierendes Beispiel für die Verschmelzung von historischer Industriearchitektur und moderner Bautechnik. Technik K7 — Ingenieurbau und moderne Infrastruktur.",
+      "factsAdvanced": [
+        "Berühmte Hängebrücke über den Kamoro-Fluss an der Nationalstraße RN4",
+        "Besteht aus einer historischen Stahlbrücke und einer modernen Neukonstruktion",
+        "Strategisch entscheidender Punkt auf der Hauptverkehrsachse zum Nordwesten",
+        "Ingenieurtechnische Höchstleistung im schwierigen Gelände des Hochlandrandes",
+        "Symbol für die Modernisierung und Sicherung des madagassischen Straßennetzes",
+        "Die historische Brücke wurde unter Verwendung von Bautechniken der Ära Eiffel errichtet",
+        "Wichtiger Punkt für den Transport von Agrar- und Industriegütern zur Küste",
+        "Markantes Wahrzeichen für alle Reisenden zwischen Antananarivo und Mahajanga"
+      ]
+    },
+    {
+      "id": "port-of-toamasina-landmarks-v2",
+      "descriptionAdvanced": "Der Hafen von Toamasina (Tamatave) ist der wichtigste Seehafen Madagaskars und das wirtschaftliche Tor der Insel zum Weltmarkt. Als einziger moderner Tiefwasserhafen des Landes wickelt er über 80 % des internationalen Schiffsverkehrs ab. Das Relief der Küstenstadt wird durch die gewaltigen Containerterminals, Verladekräne und Lagerhallen dominiert. Der Hafen ist der zentrale Umschlagplatz für die wichtigsten Exporthüter wie Vanille, Nelken, Nickel und Kobalt sowie für den Import lebenswichtiger Güter wie Treibstoff und Nahrungsmittel. Die strategische Lage an der Ostküste macht Toamasina zum logistischen Herzstück des Landes. Trotz der ständigen Bedrohung durch Zyklone wurde der Hafen kontinuierlich ausgebaut und modernisiert, um den Anforderungen des globalen Handels gerecht zu werden. Er ist ein Symbol für die wirtschaftliche Stärke und die maritime Ambition Madagaskars. Wirtschaft K8 — Seehandel und Hafenlogistik.",
+      "factsAdvanced": [
+        "Haupthafen Madagaskars mit dem bei weitem höchsten Umschlagvolumen",
+        "Einziger Tiefwasserhafen der Insel für große Containerschiffe der Post-Panamax-Klasse",
+        "Zentrum für den Export hochwertiger Mineralien und Agrarprodukte aus dem Hinterland",
+        "Logistischer Endpunkt der Eisenbahnverbindung (TCE) aus dem Hochland",
+        "Verfügt über spezialisierte Terminals für Erdöl, Flüssiggüter und Schüttgut",
+        "Wesentlicher Arbeitgeber und Wirtschaftsmotor für die gesamte Region Atsinanana",
+        "Gegenstand großangelegter internationaler Erweiterungs- und Modernisierungsprojekte",
+        "Lebenswichtige Versorgungsader für das gesamte madagassische Staatsgebiet"
+      ]
+    }
+  ]
+}

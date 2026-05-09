@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sahel-lowlands-relief-v2",
+      "descriptionAdvanced": "A Sahel-alföld Eritrea északi részének kritikus éghajlati átmeneti övezete, amelyet nagyrészt a sivatagi és félsivatagi táj határoz meg. Ez a régió létfontosságú szerepet játszik az ország ökológiai egyensúlyában, mivel természetes gátat képez a forró sivatagi szelekkel szemben, és jelentősen befolyásolja a helyi csapadékeloszlást. Az itt élő közösségek bámulatos alkalmazkodóképességről tettek tanúbizonyságot a szélsőséges és gyakran nehezen előrejelezhető éghajlati viszonyok közepette. Földrajz K6 — éghajlati átmenetek és elsivatagosodás.",
+      "factsAdvanced": [
+        "A tágabb saheli éghajlati öv része.",
+        "Dűnék és köves síkságok dominálják.",
+        "A felszín alatti vízkészletek nagyon ritkák.",
+        "A növényzet alkalmazkodott a hosszú aszályokhoz.",
+        "A fauna fajai rendkívül hőállóak.",
+        "Fontos övezet a talajerózió monitorozásához."
+      ]
+    },
+    {
+      "id": "zula-bay-lowland-relief-v2",
+      "descriptionAdvanced": "A Zula-öböl környéke a Vörös-tenger partvidékének mélyen fekvő, stratégiai jelentőségű övezete, amely gazdag ókori múlttal rendelkezik. Itt működött egykor Adulis kikötővárosa, amely az eritreai felföldet kötötte össze a tengeri kereskedelmi útvonalakkal. A táj változatossága, a part menti mocsaraktól a kiterjedt sós síkságokig, komplex élőhelyet biztosít a tengeri flóra és fauna számára. Ez a régió tökéletes példája a partvidék és a szárazföldi hátország közötti geomorfológiai kapcsolatnak. Földrajz K7 — partvidéki geomorfológia.",
+      "factsAdvanced": [
+        "Az ókori Adulis kikötőváros közelében fekszik.",
+        "Mangrove-ökoszisztémák jellemzik.",
+        "Természetes kapu a felföld és a tenger között.",
+        "A Vörös-tenger riftesedése formálta.",
+        "Magas tengeri biodiverzitás.",
+        "Jelentős sókitermelő terület."
+      ]
+    },
+    {
+      "id": "keren-highland-relief-v2",
+      "descriptionAdvanced": "A Keren körüli magasföld egy termékeny hegyvidéki terület, amelyet enyhe klímája és zöldellő tájai tettek híressé. Ez a vidék Eritrea egyik legfontosabb mezőgazdasági központja, ahol a környezeti feltételek lehetővé teszik a gyümölcsök és zöldségek széles választékának termesztését. A változatos domborzat és a történelmi kereskedelmi utak mentén való fekvés révén Keren mára az ország kulturális és gazdasági életének egyik fő csomópontjává vált. Földrajz K6 — felföldi mezőgazdaság és regionális klíma.",
+      "factsAdvanced": [
+        "Kb. 1400 méter tengerszint feletti magasság.",
+        "Mérsékelt, egész évben kedvező klíma.",
+        "Keren az Anseba régió kereskedelmi központja.",
+        "Változatos gyümölcsöskertek jellemzik.",
+        "Sziklás hegyek és termékeny völgyek.",
+        "Fontos szerep a nemzetközi élelmezésben."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chott-el-gharsa-relief-v2",
+      "descriptionAdvanced": "A Chott el Gharsa egy mélyen fekvő, sós medence Tunézia délnyugati részén, amely az ország egyik legmélyebb pontja. Geológiailag egy természetes lefolyástalan sós mocsár, amely a ritka esőzések során vízzel telítődik, majd a sivatagi hőségben gyorsan elpárolog, hátrahagyva a jellegzetes sókérget. A tájat sivatagi dűnék övezik, amelyek folyamatosan alakítják a terület peremét, misztikus és szinte földönkívüli látványt nyújtva. A medence fontos geológiai objektum, amely betekintést nyújt a régió sós vízi múltjába és az aríd folyamatokba. A sós környezet miatt itt szinte alig él meg növényzet, de a medence peremén lévő oázisok és dűnék élőhelyet biztosítanak néhány, a szélsőségekhez alkalmazkodott fajnak.",
+      "factsAdvanced": [
+        "Tunézia egyik legmélyebben fekvő sós medencéje.",
+        "Geológiailag egy lefolyástalan üledékgyűjtő medence.",
+        "A sivatagi dűnék folyamatosan alakítják a medence peremét.",
+        "A ritka esőzések után a terület sós mocsárrá változik.",
+        "A sós környezet miatt a növényvilág rendkívül szegényes.",
+        "A medence az arid régiók geológiai folyamatainak kiváló példája.",
+        "A terület a Szahara és az Atlasz-hegység közötti átmeneti zónában fekszik."
+      ]
+    },
+    {
+      "id": "djebel-ben-youne-relief-v2",
+      "descriptionAdvanced": "A Djebel Ben Youne egy markáns, sziklás hegy a Gafsa régióban, amely geológiai felépítésében szoros kapcsolatban áll a régió híres foszfátkészleteivel. A masszívum sziklás oldalai és meredek gerincei a környék tájékozódási pontjai, miközben a hegy körüli területek intenzív ipari bányászatnak adnak otthont. A száraz, arid éghajlat miatt a hegy növényzete ritkás, főként pozsgás és aszálytűrő cserjékből áll, amelyek képesek fennmaradni a tápanyagszegény, sziklás talajon. A hegység nemcsak gazdasági, hanem tájképi szempontból is meghatározza Gafsa környékét, a bányászati tevékenység pedig folyamatosan alakítja a környező domborzatot, kontrasztot képezve a hegy eredeti formáival.",
+      "factsAdvanced": [
+        "A hegy a régió egyik fontos foszfátbányászati központjának közelében fekszik.",
+        "A környező domborzatot a bányászati tevékenység jelentősen átformálta.",
+        "Száraz, arid éghajlati viszonyok határozzák meg a hegy arculatát.",
+        "A növényzet elsősorban aszálytűrő cserjékből és pozsgásokból áll.",
+        "A hegy sziklás gerincei Gafsa régió fontos tájékozódási pontjai.",
+        "A hegyvidék a Gafsa régió geológiai sokszínűségét reprezentálja.",
+        "Az arid környezet miatt a hegy növényzete és élővilága igen ritkás."
+      ]
+    },
+    {
+      "id": "djebel-abderrahmane-relief-v2",
+      "descriptionAdvanced": "A Djebel Abderrahmane a Cap Bon-félsziget domináns hegygerince, amely északkeletről délnyugati irányba nyúlik el, védelmet nyújtva a félsziget belső területeinek a tengeri széllökésekkel szemben. A hegygerinc az Atlasz-hegység északkeleti nyúlványa, melyet sűrű, mediterrán típusú macchia és kisebb paratölgyesek borítanak, igazodva a félsziget enyhébb éghajlatához. A gerincről nyíló látvány a Földközi-tengerre és a félsziget ültetvényeire az egyik legszebb kilátást nyújtja az országban. A hegygerinc fontos meteorológiai akadály, amely befolyásolja a félsziget csapadékeloszlását, így közvetve segíti a Cap Bon-i mezőgazdaság termelékenységét is.",
+      "factsAdvanced": [
+        "A félsziget központi, gerincet képező hegyvonulata.",
+        "Fontos meteorológiai barier a tengeri szelekkel szemben.",
+        "A növényzet tipikus, dús mediterrán macchia-társulás.",
+        "Földrajzilag az Atlasz-hegység északkeleti nyúlványa.",
+        "A gerincről kiváló panoráma nyílik a Földközi-tengerre.",
+        "A hegyvidék befolyásolja a félsziget csapadékeloszlását.",
+        "A régió enyhébb klímája kedvez a hegyoldali mezőgazdaságnak."
+      ]
+    },
+    {
+      "id": "djebel-om-el-adame-relief-v2",
+      "descriptionAdvanced": "A Djebel Om el Adame a Kasserine régió egyik fontos, elszigetelt hegycsoportja, amely Közép-Tunézia arid hátországának egyik tájékozódási pontja. A masszívum kőzetekben gazdag, kopár, sziklás felszíne a hosszú évezredek során lejátszódott eróziós folyamatok eredménye, amelyek a hegyet éles gerincekké és meredek lejtőkké formálták. A terület lakatlan, a természet erői zavartalanul érvényesülnek, így a hegység igazi vadonként szolgál Közép-Tunézia szívében. Az itt található kevés növényzet is a sivatagi viszonyokhoz alkalmazkodott, így a hegység leginkább geológiai és tájképi értékeivel hívja fel magára a figyelmet.",
+      "factsAdvanced": [
+        "A középső Atlasz-hegység egyik fontos, kopár masszívuma.",
+        "Kasserine régió egyik meghatározó, lakatlan hegyvidéke.",
+        "Az eróziós folyamatok éles gerincekké és lejtőkké formálták.",
+        "A táj igazi, érintetlen tunéziai vadonként funkcionál.",
+        "Növényzete teljes egészében az arid viszonyokhoz alkalmazkodott.",
+        "Geológiai és tájképi értékei a régió legfontosabb jellemzői.",
+        "A hegység a közép-tunéziai hátország egyik természetes akadálya."
+      ]
+    },
+    {
+      "id": "djebel-bou-hedma-relief-v2",
+      "descriptionAdvanced": "A Djebel Bou Hedma egy egyedülálló ökológiai átmeneti zóna Tunéziában, ahol a magas hegység és a sivatagi sztyeppe összeér, gazdag élővilágot biztosítva. A hegycsoport a közép-tunéziai régió egyik legfontosabb nemzeti parkja, amely arról híres, hogy itt élnek az ország egyik legfontosabb veszélyeztetett gazellapopulációi, amelyeket sikeresen visszatelepítettek természetes élőhelyükre. A hegyvidéki domborzat és az alacsonyabb, sík sztyeppe találkozása olyan változatos mikroklimatikus viszonyokat teremt, amelyek a növényzetnek is kiváló életteret adnak. A park nemcsak biológiai, hanem geológiai szempontból is érdekes, mivel itt az Atlasz-hegység látványos formációi figyelhetőek meg.",
+      "factsAdvanced": [
+        "A nemzeti park a hegység és a sztyeppe átmeneti övezete.",
+        "Kiemelt jelentőségű a veszélyeztetett gazellafajok védelmében.",
+        "A hegycsoport az Atlasz-hegység geológiai látványeleme.",
+        "Ökológiai szempontból az ország egyik legváltozatosabb élőhelye.",
+        "A terület a sikeres visszatelepítési programok helyszíne.",
+        "A domborzat a hegység és a sík vidék harmonikus találkozása.",
+        "A nemzeti park kutatási célokra is fontos szerepet tölt be."
+      ]
+    }
+  ]
+}

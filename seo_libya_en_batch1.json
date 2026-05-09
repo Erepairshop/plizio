@@ -13,266 +13,212 @@
   "items": [
     {
       "id": "misrata-cities-v2",
-      "descriptionAdvanced": "Misrata functions as the commercial heart of Libya, distinguished by its massive seaport and robust industrial sectors. Unlike the capital, this coastal metropolis thrives heavily on trade, with ships docking daily to unload international goods. The city's Free Trade Zone is a critical economic engine, attracting global investments since its inception in 2000. Beyond commerce, Misrata features unique local architecture that blends modern construction with traditional Libyan elements. Geography K7 — coastal trade centers.",
+      "descriptionAdvanced": "Misrata stands as Libya's premier commercial and industrial powerhouse, strategically located on the Mediterranean coast approximately 187 kilometers east of Tripoli. Known as the 'Business Capital,' the city is home to the Misrata Free Zone, the first and largest of its kind in the country, which drives significant international trade. The city's landscape is defined by the massive Qasr Ahmed port and the LISCO steel complex, one of the largest in North Africa. Misrata's history is marked by its resilient spirit, particularly highlighted during the 2011 revolution. The urban layout reflects a blend of modern industrial growth and traditional Libyan Mediterranean architecture. Geography K8 — coastal industrial centers and international trade networks.",
       "factsAdvanced": [
-        "Situated 187 kilometers east of Tripoli.",
-        "Home to the Misrata Free Trade Zone established in 2000.",
-        "Population exceeds 500,000 residents.",
-        "Often called the business capital of Libya.",
-        "Features the Qasr Ahmed port, one of Libya's busiest.",
-        "Known for extensive iron and steel complexes."
+        "Located 187 kilometers east of Tripoli along the Mediterranean coast.",
+        "Hosts the Misrata Free Zone, established in 2000 to attract investment.",
+        "Home to the Libyan Iron and Steel Company (LISCO), a major employer.",
+        "Qasr Ahmed Port is one of Libya's most vital maritime gateways.",
+        "Population estimated at over 500,000 residents, the third largest in Libya.",
+        "Historically significant as a Phoenician and later Roman trade post.",
+        "Serves as a critical logistics hub connecting coastal trade with the interior.",
+        "Known for its distinct entrepreneurial culture and economic independence."
       ]
     },
     {
       "id": "bayda-cities-v2",
-      "descriptionAdvanced": "Al Bayda sits gracefully in the Jabal al Akhdar mountains, offering a surprisingly mild and verdant environment compared to Libya's desert interior. Founded originally around a religious lodge, the city evolved significantly, especially when it was slated to become the new capital in the 1950s. The nearby ancient Greek ruins of Cyrene highlight the region's deep historical roots. Visitors often notice the distinct Mediterranean climate that allows for rich local agriculture. History K8 — post-war urban development.",
+      "descriptionAdvanced": "Al-Bayda, the commercial and administrative heart of the Jabal al-Akhdar region, is one of Libya's most scenic and historically significant cities. Situated at a high elevation, it enjoys a Mediterranean climate with relatively high rainfall, resulting in lush greenery that contrasts sharply with the desert elsewhere. The city rose to prominence during the Senussi movement and served as a secondary capital during the Kingdom of Libya era. It is home to Omar Al-Mukhtar University and lies near the ancient ruins of Cyrene. Al-Bayda's modern development is centered around agriculture and education, while its cool summers make it a popular regional destination. Geography K7 — highland climates and regional administration.",
       "factsAdvanced": [
-        "Located in the Jabal al Akhdar region at 600 meters elevation.",
-        "Originally famous for the Senussi religious lodge founded in 1843.",
-        "Omar Mukhtar University is a major educational hub here.",
-        "Intended as Libya's capital during the 1950s.",
-        "Close to the historic ancient Greek city of Cyrene.",
-        "Known for a pleasant Mediterranean climate."
+        "Highest major city in Libya, situated at approximately 600 meters elevation.",
+        "The name 'Al-Bayda' means 'The White,' referring to the historic White Mosque.",
+        "Served as a secondary capital and seat of government during the 1950s.",
+        "Center of the Senussi religious and political movement in the 19th century.",
+        "Home to the Omar Al-Mukhtar University, founded in 1961.",
+        "Located near the UNESCO World Heritage site of ancient Cyrene.",
+        "Enjoys one of the highest average annual rainfalls in Libya.",
+        "Key agricultural hub for grain, fruit, and livestock in the Green Mountain."
       ]
     },
     {
       "id": "zawiya-cities-v2",
-      "descriptionAdvanced": "Zawiya plays a pivotal role in Libya's energy sector due to its extensive oil refining infrastructure. Located just west of Tripoli, the city acts as a vital conduit for resources processed and shipped along the Mediterranean coast. Besides its industrial might, Zawiya holds historical significance, particularly stemming from the colonial era and the 2011 uprising. The blend of coastal living and heavy industry creates a unique urban dynamic. Geography K8 — industrial urban landscapes.",
+      "descriptionAdvanced": "Zawiya is a major coastal city located approximately 45 kilometers west of Tripoli, serving as a vital industrial and agricultural center for western Libya. It is most famous for housing the Zawiya Oil Refinery, the largest in the country, which processes crude oil for both domestic consumption and export. The city is surrounded by fertile plains that support extensive olive groves, citrus orchards, and vegetable farms, highlighting its dual economic identity. Historically, Zawiya has been a center of learning and resistance, with its central square often being a focal point for political expression. The city's proximity to the capital makes it a key part of the Greater Tripoli metropolitan economy. Geography K8 — petroleum processing and Mediterranean agriculture.",
       "factsAdvanced": [
-        "Located about 45 kilometers west of Tripoli.",
-        "Home to the Zawiya Oil Refining Company.",
-        "Features a prominent coastal port for energy export.",
-        "Population is approximately 200,000.",
-        "Site of major historical events during the 2011 revolution.",
-        "Surrounded by agricultural lands producing citrus and olives."
+        "Located just 45 kilometers west of Tripoli on the Mediterranean coast.",
+        "Home to Libya's largest oil refinery, critical for the nation's fuel supply.",
+        "Surrounded by some of the most fertile agricultural land in the Jafara Plain.",
+        "Historically known as a major center for Islamic studies and Sufi zawiyas.",
+        "A major hub for the coastal highway connecting Libya with Tunisia.",
+        "Features a large central square that is the heart of civic and political life.",
+        "Supports a significant fishing industry operating from its coastal harbors.",
+        "Known for its role as a strategic gateway to the western borders."
       ]
     },
     {
       "id": "zliten-cities-v2",
-      "descriptionAdvanced": "Zliten is renowned across Libya for its religious scholarship and the majestic Shrine of Sidi Abd as-Salam al-Asmar. This coastal city perfectly balances spiritual heritage with practical industry, notably cement production and agriculture. The presence of Al Asmarya Islamic University cements its status as an educational center. Palm groves and olive orchards surround the urban center, providing a lush contrast to the arid regions further south. History K7 — religious centers and education.",
+      "descriptionAdvanced": "Zliten is a prominent coastal city in western Libya, renowned for its deep religious heritage and burgeoning industrial sector. It is home to the Al-Asmarya University for Islamic Sciences, centered around the historic shrine of Sidi Abdus-Salam Al-Asmar, making it a major spiritual center. Economically, Zliten is a leader in the construction materials industry, hosting the largest cement factory in Libya. The city also boasts extensive palm groves and a vibrant maritime culture. Its location between Tripoli and Misrata places it at a strategic intersection of trade and transit. Zliten's blend of traditional religious education and modern heavy industry creates a unique urban character. Geography K7 — religious centers and industrial growth.",
       "factsAdvanced": [
-        "Situated 160 kilometers east of Tripoli.",
-        "Hosts the shrine of the 16th-century Sufi saint Sidi Abd as-Salam al-Asmar.",
-        "Al Asmarya Islamic University is a key educational institution.",
-        "Major producer of Libyan cement.",
-        "Famous for expansive palm and olive plantations.",
-        "Features beautiful coastal beaches along the Mediterranean."
+        "Situated 160 kilometers east of Tripoli on the Mediterranean shore.",
+        "The Al-Asmarya University is one of the most prestigious Islamic institutions in Libya.",
+        "Hosts the Arab Union Cement Company, the nation's largest cement producer.",
+        "Famed for the shrine of Sidi Abdus-Salam Al-Asmar, a 16th-century Sufi scholar.",
+        "Surrounded by vast groves of date palms and olive trees.",
+        "Features the ancient Roman Villa Silin nearby, known for its exquisite mosaics.",
+        "A major center for the traditional production of lime and building stone.",
+        "Known for its distinct local dialect and strong community traditions."
       ]
     },
     {
       "id": "sirte-cities-v2",
-      "descriptionAdvanced": "Sirte holds a complex legacy as a major strategic midpoint on the Libyan coastline, connecting the eastern and western halves of the country. Historically significant as the birthplace of Muammar Gaddafi, the city saw massive infrastructural investments, including the Ouagadougou Conference Center meant to host pan-African summits. Despite the destruction faced in recent conflicts, Sirte remains a critical geographical juncture along the Gulf of Sidra. History K8 — modern political history.",
+      "descriptionAdvanced": "Sirte, located at the midpoint of the Gulf of Sidra, serves as a critical geographic and political link between the eastern and western regions of Libya. Traditionally a small fishing and trade settlement, the city saw massive expansion during the late 20th century when it was envisioned as a new administrative capital. Sirte is home to the massive Ouagadougou Conference Center, which has hosted numerous international summits. The city's strategic location also makes it a hub for the Great Man-Made River project and various oil pipelines from the Sirte Basin. Despite being heavily impacted by recent conflicts, Sirte remains a vital node for national reconciliation and infrastructure. Geography K8 — political geography and strategic coastal hubs.",
       "factsAdvanced": [
-        "Located exactly midway between Tripoli and Benghazi.",
-        "Birthplace of former Libyan leader Muammar Gaddafi in 1942.",
-        "Features the massive Ouagadougou Conference Center.",
-        "Lies on the coast of the Gulf of Sidra.",
-        "Historically a major administrative hub in the late 20th century.",
-        "Home to Sirte University, founded in 1989."
+        "Located exactly halfway between Tripoli and Benghazi on the Gulf of Sidra.",
+        "Home to the massive Ouagadougou Conference Center, built for international summits.",
+        "Serves as the administrative center for several national and pan-African organizations.",
+        "Strategically located near the major oil fields of the Sirte Basin.",
+        "Site of the historic 1999 Sirte Declaration which led to the African Union.",
+        "A major junction for Libya's coastal highway and south-bound desert roads.",
+        "Birthplace of Muammar Gaddafi and a focal point of the 2011 conflict.",
+        "Supports a local economy based on fishing, transit, and government services."
       ]
     },
     {
       "id": "tobruk-cities-v2",
-      "descriptionAdvanced": "Tobruk's deep, natural harbor made it a highly prized strategic location during World War II, resulting in prolonged sieges and historic battles. Today, the city serves as a critical port near the Egyptian border, handling both commercial shipping and oil exports. The surrounding desert landscape contrasts sharply with the blue Mediterranean waters. War cemeteries in the area draw visitors interested in 20th-century military history. Geschichte K8 — World War II North African campaigns.",
+      "descriptionAdvanced": "Tobruk is a vital port city in northeastern Libya, famous for its deep natural harbor and its heroic role in World War II. Situated near the Egyptian border, the city serves as a critical maritime gateway for the export of crude oil via the Marsa el Hariga terminal. Tobruk is historically significant for the 1941 Siege of Tobruk, where Allied forces held out against the Axis for months. The city's landscape is dotted with war cemeteries and monuments commemorating the soldiers from many nations who fought there. Today, Tobruk is an important administrative center and a key hub for trade with Egypt, maintaining a unique eastern Libyan identity. History K8 — World War II in North Africa.",
       "factsAdvanced": [
-        "Site of the famous Siege of Tobruk in 1941.",
-        "Features one of the deepest natural harbors in North Africa.",
-        "Located near the border with Egypt.",
-        "Hosts several prominent Commonwealth and German war cemeteries.",
-        "A key terminal for oil pipelines from the Sarir field.",
-        "Population is roughly 120,000 residents."
+        "Possesses the best natural deep-water harbor in North Africa.",
+        "Famous for the 1941 Siege of Tobruk, a major turning point in World War II.",
+        "Home to the Marsa el Hariga oil terminal, connected to the Sarir oil field.",
+        "Located approximately 125 kilometers west of the Egyptian border.",
+        "Features the British, German, and French World War II cemeteries.",
+        "Serves as the seat of the Libyan House of Representatives in recent years.",
+        "Originally founded as the Greek colony of Antipyrgos in antiquity.",
+        "Key hub for the desalination of seawater to supply the arid eastern region."
       ]
     },
     {
       "id": "ajdabiya-cities-v2",
-      "descriptionAdvanced": "Ajdabiya acts as the gateway to the expansive eastern desert and the oil-rich Sirte Basin. Historically, it was a vital oasis stop for caravans traversing the Sahara towards the coast. Today, its economy is heavily tied to the energy sector, serving as a logistical hub for nearby oil fields. The city retains elements of its ancient past, including ruins from the Fatimid and Sanussi periods. Geography K7 — desert oasis economies.",
+      "descriptionAdvanced": "Ajdabiya is a strategic crossroads city in northeastern Libya, serving as the gateway between the coastal regions and the deep Saharan interior. Located at the intersection of the coastal highway and the road to the Kufra Oasis, it is a vital logistics and transport hub. The city's economy is closely tied to the nearby oil terminals of Brega and Zueitina, as many workers and services are based here. Historically, Ajdabiya was a major station on the trans-Saharan caravan routes and features the remains of a Fatimid-era mosque and palace. Its position makes it a critical point of control for both trade and the movement of energy resources. Geography K7 — desert gateways and transit nodes.",
       "factsAdvanced": [
-        "Located about 150 kilometers south of Benghazi.",
-        "Historically a major junction for trans-Saharan trade routes.",
-        "Crucial logistical center for the Sirte Basin oil fields.",
-        "Contains ruins of an 11th-century Fatimid palace.",
-        "Connects the coastal highway with roads heading to Kufra.",
-        "Population is approximately 130,000."
+        "Located at the strategic junction of roads to Benghazi, Tobruk, and Kufra.",
+        "Historically a vital stop for caravans traveling between Egypt and the Maghreb.",
+        "Features the ruins of a 10th-century Fatimid palace and Great Mosque.",
+        "Primary support hub for the nearby Brega and Zueitina oil terminals.",
+        "Known as the capital of the Al-Wahat District, focusing on the desert oases.",
+        "Site of intense fighting during the 2011 revolution due to its strategic position.",
+        "Economy relies on transport, trade, and services for the petroleum industry.",
+        "Surrounded by vast, arid plains that transition into the Libyan Desert."
       ]
     },
     {
       "id": "derna-cities-v2",
-      "descriptionAdvanced": "Derna boasts a unique microclimate and stunning geography, situated where the lush Jabal al Akhdar mountains meet the Mediterranean Sea. The city was once famous for its beautiful waterfalls and historic old town, reflecting Andalusian and Ottoman architectural influences. Although severely impacted by the catastrophic floods of 2023, Derna's cultural identity as a center of poetry and arts remains resilient. Geography K8 — natural disasters and urban recovery.",
+      "descriptionAdvanced": "Derna is a unique coastal city in eastern Libya, nestled between the Mediterranean Sea and the steep cliffs of the Jabal al-Akhdar. Known for its distinct culture and Mediterranean charm, the city is famous for its Wadi Derna, which provides water for lush gardens and citrus groves. Historically, Derna was a major center for the Barbary pirates and was the site of the 1805 Battle of Derne, the first foreign land battle fought by the United States. The city features Ottoman-era architecture and a vibrant intellectual tradition. Despite the tragic 2023 floods, Derna remains a symbol of cultural resilience and the unique environmental diversity of Libya's 'Green Mountain' coast. History K7 — the Barbary Wars and Mediterranean trade.",
       "factsAdvanced": [
-        "Known for its unique position between mountains and sea.",
-        "Historically influenced by Andalusian refugees in the 15th century.",
-        "Famous for the Derna waterfalls in the Wadi Derna.",
-        "Suffered massive destruction from Storm Daniel in September 2023.",
-        "Traditionally a cultural hub for Libyan poetry and arts.",
-        "Features distinct Ottoman-era architecture in its old city."
+        "Situated in a coastal valley where Wadi Derna meets the Mediterranean.",
+        "Famous for the 1805 Battle of Derne, involving the U.S. Marines.",
+        "Known for its 'Old Town' with Ottoman-style architecture and narrow streets.",
+        "Surrounded by fertile land producing lemons, oranges, and bananas.",
+        "Home to the Sahaba Mosque, where companions of the Prophet are said to be buried.",
+        "Historically regarded as a center for poetry, arts, and intellectual life in Libya.",
+        "Severely impacted by the catastrophic collapse of dams during Storm Daniel in 2023.",
+        "The only city in Libya with a perennial river-like wadi flow through its center."
       ]
     },
     {
       "id": "sabha-cities-v2",
-      "descriptionAdvanced": "Sabha is the undisputed capital of Libya's Fezzan region, a sprawling oasis city surrounded by the vast Sahara Desert. It serves as the primary commercial and transport hub for the entire southern sector of the country. The historic Fort Elena, perched on a hill, overlooks the city and tells tales of Italian colonial rule and indigenous resistance. Sabha's dusty, vibrant markets reflect the deep connections between Libya and Sub-Saharan Africa. Geography K7 — Saharan urban centers.",
+      "descriptionAdvanced": "Sabha is the principal city of the Fezzan region and the undisputed capital of the Libyan Sahara. Located in the southwest, it serves as the primary administrative, commercial, and transport hub for the vast desert interior. Sabha is a critical node for trans-Saharan trade and migration, connecting Libya with neighboring Niger and Chad. The city is home to the historic Fortezza Margherita, built during the Italian colonial period, which sits atop a hill overlooking the urban expanse. Sabha's economy is based on government services, trade, and its role as a logistics center for nearby oil fields and agricultural projects like the Sabha airbase. Geography K8 — desert urbanism and trans-Saharan networks.",
       "factsAdvanced": [
-        "Capital city of the southern Fezzan region.",
-        "Features the prominent Fort Elena overlooking the city.",
-        "A crucial hub for trade connecting to Sub-Saharan Africa.",
-        "Located in a vast desert oasis environment.",
-        "Sebha University is the largest educational center in the south.",
-        "Historical center for caravan routes."
+        "The largest city in southern Libya and the administrative heart of Fezzan.",
+        "Located approximately 640 kilometers south of Tripoli in the Sahara.",
+        "Features the iconic Italian-built Fortezza Margherita (Sabha Castle).",
+        "A major hub for the Great Man-Made River project's southern wells.",
+        "Home to Sabha University, a major educational center for the desert region.",
+        "Serves as the primary gateway for travelers and goods moving to Niger and Chad.",
+        "Historically a major center for the Tebu and Tuareg peoples of the Sahara.",
+        "Surrounded by vast sand dunes and several smaller, picturesque oases."
       ]
     },
     {
       "id": "khoms-cities-v2",
-      "descriptionAdvanced": "Khoms is globally recognized as the modern gateway to the spectacular Roman ruins of Leptis Magna, a UNESCO World Heritage site. The city itself thrives on agriculture and fishing, benefiting from a fertile coastal strip along the Mediterranean. Beyond its ancient neighbor, Khoms has developed its own industrial port and lively local markets. The juxtaposition of a bustling modern Libyan town against monumental ancient architecture is striking. History K6 — Roman empire in North Africa.",
+      "descriptionAdvanced": "Al-Khoms is a significant coastal city in western Libya, primarily known as the gateway to the world-famous Roman ruins of Leptis Magna. Located about 120 kilometers east of Tripoli, the city's identity is deeply intertwined with this UNESCO World Heritage site, attracting tourists and archaeologists from around the globe. Beyond tourism, Al-Khoms is a major industrial and maritime center, featuring a large commercial port and the nearby Khoms Power Station, one of the country's largest. The city is also surrounded by olive groves and supports a productive fishing industry. Al-Khoms represents a bridge between Libya's grand ancient history and its modern industrial development. History K7 — Roman North Africa and Mediterranean ports.",
       "factsAdvanced": [
-        "Located about 120 kilometers east of Tripoli.",
-        "Directly adjacent to the ancient Roman city of Leptis Magna.",
-        "Economy driven by fishing, agriculture, and port activities.",
-        "Produces high-quality olive oil and dates.",
-        "A major tourist destination before recent conflicts.",
-        "Founded formally during the Ottoman period."
+        "Located 120 kilometers east of Tripoli, adjacent to the ruins of Leptis Magna.",
+        "The port of Al-Khoms is a major entry point for cars and industrial goods.",
+        "Home to the Khoms Steam Power Plant, a critical part of the national grid.",
+        "Leptis Magna, located on the city's outskirts, is the best-preserved Roman city in Africa.",
+        "Known for its high-quality olive oil production from the surrounding plains.",
+        "Supports a large fishing fleet and several seafood processing facilities.",
+        "Originally a small fishing village that expanded due to port development.",
+        "Served as a major supply hub during the Italian colonial era."
       ]
     },
     {
       "id": "bani-walid-cities-v2",
-      "descriptionAdvanced": "Bani Walid is deeply rooted in the rugged terrain of the Nafusa Mountains' eastern edges and the Wadi Merdum valley. Known for its strong tribal identity, particularly the Warfalla tribe, the city has a fiercely independent spirit. Olive groves dot the arid landscape, sustained by ancient and modern water management techniques. The city's geography offers natural defensive advantages, which played a significant role during the 2011 civil war. Sociology K8 — tribal structures and urban life.",
+      "descriptionAdvanced": "Bani Walid is a major inland city located on a high plateau approximately 180 kilometers southeast of Tripoli. It is the ancestral home of the Warfalla tribe, one of the largest and most influential tribal groups in Libya. The city is geographically defined by its location along the deep Wadi Merdum, which is lined with ancient olive trees and traditional stone houses. Bani Walid is famous for its unique architecture and its history as a center of resistance against various colonial and central powers. The city's isolation and strong tribal identity have made it a significant political actor in modern Libyan history. Its economy is largely based on agriculture, livestock, and local trade. Sociology K8 — tribal structures and plateau settlements.",
       "factsAdvanced": [
-        "Home to the Warfalla, one of Libya's largest tribes.",
-        "Situated along the Wadi Merdum, an ancient river valley.",
-        "Located roughly 150 kilometers southeast of Tripoli.",
-        "Known for extensive olive oil production.",
-        "Features a rugged, defensible geographical position.",
-        "Maintained strong resistance during the 2011 conflict."
+        "Located on a strategic plateau 180 kilometers from the capital, Tripoli.",
+        "Home to the Warfalla tribe, a dominant political force in Libya.",
+        "Geographically centered around the fertile Wadi Merdum valley.",
+        "Features unique ancient 'troglodyte' or semi-subterranean dwellings.",
+        "Famous for its high-quality carpets and traditional wool weaving.",
+        "Known as one of the last strongholds of the former regime in 2011.",
+        "Home to the Bani Walid University, specializing in technical education.",
+        "Surrounded by thousands of ancient olive trees, some dating back centuries."
       ]
     },
     {
       "id": "kufra-cities-v2",
-      "descriptionAdvanced": "Al Jawf, commonly known as Kufra, is one of the most isolated desert outposts on Earth, situated deep in the Libyan Sahara. Historically, it was a pivotal point for the Sanussi order and a crucial stop for trade and pilgrim caravans. Today, it is famous for its massive pivot irrigation circles that draw water from ancient underground aquifers to grow crops in the sand. The extreme arid climate shapes every aspect of life in this remote oasis. Geography K7 — desert agriculture and aquifers.",
+      "descriptionAdvanced": "Kufra is a remote and vital oasis group located deep in the southeastern corner of the Libyan Desert. It is one of the most isolated settlements in the Sahara, serving as a critical stop for trans-Saharan trade between Libya, Sudan, and Chad. Kufra is world-famous for its innovative 'center-pivot' irrigation projects, which create startling green circles of agriculture visible from space amidst the hyper-arid sands. The oasis produces dates, grains, and fruits that are essential for the region's survival. Historically, it was a center for the Senussi order and a major battlefield during World War II. Kufra remains a strategic and culturally unique outpost of Libyan desert life. Geography K8 — oasis agriculture and desert survival.",
       "factsAdvanced": [
-        "Located in the remote southeastern Libyan desert.",
-        "Historically a stronghold of the Sanussi religious order.",
-        "Utilizes massive center-pivot irrigation systems visible from space.",
-        "Taps into the Nubian Sandstone Aquifer System for water.",
-        "Temperatures frequently exceed 40°C in the summer.",
-        "A key historical stop for caravans traveling to Chad and Sudan."
+        "One of the most remote settlements on Earth, deep in the Sahara Desert.",
+        "Famed for its massive circular irrigation farms visible from satellite imagery.",
+        "A critical hub for the trans-Saharan trade route to Sudan and Chad.",
+        "Historically the headquarters of the Senussi religious and military order.",
+        "Served as a major Italian airbase and later a WWII battlefield.",
+        "Rich in fossil water, supplying the southern branch of the Great Man-Made River.",
+        "Produces high-quality dates and citrus in its ancient palm groves.",
+        "Home to a diverse population including Arab and Tebu communities."
       ]
     },
     {
       "id": "marj-cities-v2",
-      "descriptionAdvanced": "Marj is nestled in a lush, elevated valley in the Jabal al Akhdar region, making it one of Libya's most important agricultural centers. The city was completely rebuilt after a devastating earthquake in 1963 leveled the ancient town of Barca. Today's modern grid layout contrasts with its deep historical roots dating back to Greek and Roman times. The fertile red soil surrounding the city produces abundant crops of wheat and barley. Geography K7 — agriculture and seismic events.",
+      "descriptionAdvanced": "Al-Marj is a major city in northeastern Libya, situated in the fertile and elevated plains of the Jabal al-Akhdar. The city is the modern successor to the ancient Greek colony of Barca, once one of the most powerful cities in the Cyrenaica Pentapolis. Al-Marj was tragically destroyed by a massive earthquake in 1963 and was subsequently rebuilt as a completely modern planned city a few kilometers from the original site. Its surrounding region is the agricultural heartland of eastern Libya, producing vast quantities of wheat, barley, and vegetables. The city serves as an important administrative and educational hub for the interior of the Green Mountain region. Geography K7 — earthquake recovery and agricultural plains.",
       "factsAdvanced": [
-        "Located in a fertile basin of the Jabal al Akhdar.",
-        "Rebuilt entirely following a massive earthquake in 1963.",
-        "Sits on the site of the ancient Greek city of Barca.",
-        "A major producer of wheat, barley, and local produce.",
-        "Known for its distinct reddish, fertile soil.",
-        "Features a modern, planned urban grid."
+        "Located on a fertile upland plain approximately 90 kilometers east of Benghazi.",
+        "Successor to the ancient Greek city of Barca, founded in the 6th century BC.",
+        "Completely rebuilt after a devastating earthquake in February 1963.",
+        "The modern city is one of the few in Libya designed with a grid layout.",
+        "A major center for the production of grain and livestock in eastern Libya.",
+        "Home to several faculties of the University of Benghazi.",
+        "The region is known for its cool, Mediterranean climate and winter rains.",
+        "Historically significant as the namesake for the 'Barca' region (Cyrenaica)."
       ]
     },
     {
       "id": "tarhuna-cities-v2",
-      "descriptionAdvanced": "Tarhuna is often referred to as the agricultural lung of the Tripoli region, famous for its sprawling olive orchards and agricultural bounty. The city lies in a hilly landscape that receives slightly more rainfall than the coastal plains, allowing for diverse farming. It has a complex political history, heavily involved in the tribal dynamics of western Libya. The local markets are vibrant, showcasing the fresh produce that sustains the nearby capital. Geography K7 — regional agricultural economies.",
+      "descriptionAdvanced": "Tarhuna is a significant agricultural city located about 65 kilometers southeast of Tripoli, situated on the slopes of the Nafusa Mountains plateau. It is the heartland of the Tarhuna tribe and is famous for its vast olive and almond groves, which produce some of Libya's finest oils and nuts. The city acts as a major supplier of produce to the Tripoli metropolitan area. Historically, Tarhuna was a site of fierce resistance during the Italian colonial period and has remained a politically influential center. The landscape is characterized by rolling hills, fertile valleys, and traditional stone farmsteads. Tarhuna's economy is deeply rooted in its land and its strategic proximity to the capital. Geography K7 — highland agriculture and tribal heartlands.",
       "factsAdvanced": [
-        "Located 65 kilometers to the southeast of Tripoli.",
-        "Renowned for its vast olive groves and olive oil production.",
-        "Sits in a hilly, agriculturally productive region.",
-        "Historically a stronghold for the Tarhuna tribal confederation.",
-        "Produces significant amounts of fruits and vegetables for the capital.",
-        "Known for its traditional Friday markets."
+        "Located 65 kilometers southeast of Tripoli on the edge of the Nafusa plateau.",
+        "Famous for having over 10 million olive and almond trees in its district.",
+        "A primary agricultural supplier to the markets of Tripoli.",
+        "Home to the Tarhuna tribe, a major social and political group.",
+        "Historically a site of major battles during the Italian-Libyan War.",
+        "Features numerous ancient Roman olive presses scattered across the countryside.",
+        "Hosts the Tarhuna University, contributing to regional higher education.",
+        "Known for its scenic rolling hills and pleasant, slightly cooler highland climate."
       ]
     },
     {
       "id": "zuwara-cities-v2",
-      "descriptionAdvanced": "Zuwara is a distinctive coastal city near the Tunisian border, famous for its deeply rooted Amazigh (Berber) culture and language. Unlike most Libyan cities, the local population primarily speaks Zuwari, a dialect of the Amazigh language, alongside Arabic. The city relies heavily on fishing, cross-border trade, and its proximity to the Mellitah oil and gas complex. Its coastal setting and cultural uniqueness make it a standout location in western Libya. Sociology K8 — minority cultures and languages.",
+      "descriptionAdvanced": "Zuwara is a vibrant coastal city in northwestern Libya, located near the Tunisian border. It is most notable for its Amazigh (Berber) identity, with the local population speaking the Nafusi Berber language and maintaining distinct cultural traditions. The city's economy is based on fishing, maritime trade, and the nearby Mellitah Oil and Gas Complex, which is the starting point for the Greenstream pipeline to Italy. Zuwara is famous for its beautiful beaches and its lively annual festivals. The city's strategic location and unique cultural heritage make it a significant and independent-minded center in the Tripoli region. Geography K8 — Amazigh culture and energy infrastructure.",
       "factsAdvanced": [
-        "Located just 60 kilometers from the Tunisian border.",
-        "A major center for the indigenous Amazigh (Berber) culture.",
-        "Residents commonly speak the Zuwari Berber dialect.",
-        "Close to the Mellitah industrial gas complex.",
-        "Economy relies heavily on fishing and border trade.",
-        "Known for its distinct cultural festivals and traditions."
-      ]
-    },
-    {
-      "id": "gharyan-cities-v2",
-      "descriptionAdvanced": "Gharyan stands as the gateway to the Nafusa Mountains, perched dramatically on an escarpment overlooking the Jafara plain. The city is famous for its troglodyte dwellings—underground homes carved into the rock that offer natural climate control against extreme temperatures. Additionally, Gharyan is the undisputed pottery capital of Libya, with vibrant ceramic markets lining the main roads. The steep, winding mountain road up to the city is a famous engineering feat. Geography K7 — mountain environments and traditional crafts.",
-      "factsAdvanced": [
-        "Located on the edge of the Nafusa Mountains at roughly 700 meters elevation.",
-        "Famous for traditional underground troglodyte cave dwellings.",
-        "Renowned across Libya for its extensive pottery and ceramics industry.",
-        "Accessed by a dramatic, winding mountain road known as the Abu Ghilan pass.",
-        "A major historical center for resistance against Italian colonization.",
-        "Produces excellent olive oil and figs."
-      ]
-    },
-    {
-      "id": "sabratha-cities-v2",
-      "descriptionAdvanced": "Sabratha is a modern coastal town that exists in the shadow of its magnificent ancient past. It is best known globally for the stunning Roman theater that overlooks the Mediterranean, part of a UNESCO World Heritage archaeological site. The modern town functions as an agricultural and fishing center, while also hosting a significant oil terminal. The contrast between daily contemporary Libyan life and towering ancient columns defines the city's atmosphere. History K6 — Roman architecture and coastal trade.",
-      "factsAdvanced": [
-        "Located 70 kilometers west of Tripoli along the coast.",
-        "Home to a remarkably preserved 3rd-century Roman theater.",
-        "The ancient ruins are designated as a UNESCO World Heritage site.",
-        "Modern economy includes agriculture, fishing, and a nearby oil terminal.",
-        "Originally founded as a Phoenician trading post.",
-        "Features beautiful, expansive beaches along the Mediterranean."
-      ]
-    },
-    {
-      "id": "al-jamil-cities-v2",
-      "descriptionAdvanced": "Al Jamil is a rapidly growing urban center in the Nuqat al Khams district, functioning as an agricultural and administrative hub near the western border. The city benefits from the coastal aquifer, supporting local farming initiatives that produce olives, dates, and various vegetables. Its proximity to Zuwara and the Tunisian border makes it a critical node for regional trade and transport. The city has seen significant modernization in its infrastructure over the last two decades. Geography K7 — border trade and regional agriculture.",
-      "factsAdvanced": [
-        "Located in western Libya, close to the Tunisian border.",
-        "Serves as an important agricultural center for the district.",
-        "Produces olives, dates, and citrus fruits.",
-        "A key hub for regional road transport and cross-border trade.",
-        "Population has grown significantly due to urbanization.",
-        "Features modern administrative and educational facilities."
-      ]
-    },
-    {
-      "id": "surman-cities-v2",
-      "descriptionAdvanced": "Surman is a bustling coastal city located just west of Zawiya, deeply integrated into the agricultural and commercial network of the Tripolitania region. The city is known for its sprawling markets and proximity to historical ruins that dot the coastline. Surman maintains a strong community feel, balancing its role as a modern transit point with traditional farming practices. It forms part of the densely populated western coastal corridor. Geography K7 — coastal urban corridors.",
-      "factsAdvanced": [
-        "Situated roughly 60 kilometers west of Tripoli.",
-        "Part of the densely populated western coastal strip.",
-        "Economy is supported by local agriculture and retail trade.",
-        "Located near several minor ancient archaeological sites.",
-        "Serves as a transit point between Tripoli and the Tunisian border.",
-        "Known for its large local produce markets."
-      ]
-    },
-    {
-      "id": "yefren-cities-v2",
-      "descriptionAdvanced": "Yefren is a deeply historical and cultural stronghold perched high in the Nafusa Mountains, offering breathtaking views of the plains below. It is a major center for the Amazigh (Berber) people, preserving their unique language, customs, and traditional architecture. The town features centuries-old mosques and fortified grain stores that speak to a long history of mountain resilience. Its elevated position gives it a cooler, more temperate climate than the coast. Sociology K8 — mountain cultures and indigenous heritage.",
-      "factsAdvanced": [
-        "Located high in the Nafusa Mountains.",
-        "A central hub for Libya's Amazigh (Berber) population and culture.",
-        "Features historic fortified architecture and ancient mosques.",
-        "Offers a notably cooler climate due to its high elevation.",
-        "Played a significant strategic role in the 2011 revolution.",
-        "Surrounded by ancient olive and fig orchards."
-      ]
-    },
-    {
-      "id": "nalut-cities-v2",
-      "descriptionAdvanced": "Nalut is a visually stunning mountain town located near the Tunisian border, famous for its spectacular ancient granary, the Qasr Nalut. This multi-story, fortified structure was used by the local Amazigh tribes for centuries to store oil and grain safely. The town sits on a dramatic cliff edge, overlooking the harsh desert below. Nalut represents a profound connection to indigenous Berber traditions and architectural ingenuity. History K7 — indigenous architecture and survival strategies.",
-      "factsAdvanced": [
-        "Located at the western end of the Nafusa Mountains near Tunisia.",
-        "Famous for the Qasr Nalut, an ancient fortified granary.",
-        "A major center of Amazigh (Berber) culture and language.",
-        "Built on a steep cliff offering immense defensive advantages.",
-        "Historically a crucial stop for caravans trading across the mountains.",
-        "Features a distinctive, rugged, and arid mountain landscape."
-      ]
-    },
-    {
-      "id": "murzuq-cities-v2",
-      "descriptionAdvanced": "Murzuq is a historic oasis city deep in the Fezzan region, characterized by its towering sand dunes and intense Saharan environment. For centuries, it was a major terminus for trans-Saharan slave and trade caravans moving between Central Africa and the Mediterranean. The remains of a massive Ottoman-era fort still dominate the city center. Today, it struggles with the harsh realities of desert life but remains a critical cultural and historical landmark. History K8 — trans-Saharan trade routes.",
-      "factsAdvanced": [
-        "Located deep in the Sahara Desert in the Fezzan region.",
-        "Historically a primary hub for trans-Saharan trade and caravans.",
-        "Features a large, prominent Ottoman-era fortress.",
-        "Surrounded by massive sand dune seas (Erg Murzuq).",
-        "Home to diverse Saharan ethnic groups, including the Toubou.",
-        "Experiences extreme summer temperatures typical of the deep Sahara."
+        "Located on the Mediterranean coast, 60 kilometers from the Tunisian border.",
+        "The primary center of Amazigh (Berber) culture and language on the Libyan coast.",
+        "Home to the Mellitah Gas Plant, a major hub for exports to Europe.",
+        "Known for its thriving fishing industry and traditional boat building.",
+        "Features some of the most popular and pristine beaches in western Libya.",
+        "Historically a major center for trade between the Maghreb and the Levant.",
+        "Celebrates unique local festivals like 'Awussu' during the summer.",
+        "Maintains a strong sense of local autonomy and cultural pride."
       ]
     }
   ]

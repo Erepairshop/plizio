@@ -1,0 +1,45 @@
+{
+  "lang": "ro",
+  "country": "tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "djebel-el-gharrah-relief-v2",
+      "descriptionAdvanced": "Djebel el-Gharrah este un lanț muntos distinctiv în regiunea Kasserine, care reprezintă caracteristicile tipice ale Atlasului înalt. Relieful este marcat de un peisaj extrem de uscat, stâncos, în care pot supraviețui doar câteva specii de plante extrem de adaptate la secetă. Structura geologică a muntelui este de mare interes pentru oamenii de știință, deoarece oferă informații despre procesele tectonice care au modelat interiorul tunisian. Deoarece zona este extrem de puțin populată, topografia naturală rămâne în mare parte neperturbată și reflectă natura crudă, necosmetizată a platourilor din Tunisia centrală.",
+      "factsAdvanced": [
+        "Djebel el-Gharrah este reprezentativ pentru Atlasul înalt din Tunisia centrală.",
+        "Zona este caracterizată prin condiții climatice extrem de uscate și ostile vieții.",
+        "Peisajul constă dintr-o succesiune aridă de stânci și deșerturi de piatră.",
+        "Din punct de vedere geologic, masivul oferă o abundență de cunoștințe despre tectonica Atlasului.",
+        "Regiunea este extrem de slab populată, ceea ce lasă natura în mare parte neatinsă.",
+        "Lanțul muntos acționează ca o barieră naturală între câmpiile adiacente."
+      ]
+    },
+    {
+      "id": "djebel-bel-khodra-relief-v2",
+      "descriptionAdvanced": "Djebel Bel Khodra este un masiv muntos marcant în apropierea orașului Siliana, care se ridică ușor din împrejurimi și modelează semnificativ peisajul. Relieful constă din rocă calcaroasă care a fost modelată de eroziunea milenară, având astăzi o structură deluroasă variată. Muntele oferă nu doar adăpost pentru o varietate de animale sălbatice în zonele sale greu accesibile, ci joacă și un rol economic pentru agricultura care s-a stabilit la poalele sale fertile. Combinația dintre atracția peisagistică și semnificația ecologică face din Djebel Bel Khodra un spațiu natural central în regiunea Siliana.",
+      "factsAdvanced": [
+        "Masivul de calcar este un element topografic esențial al regiunii Siliana.",
+        "Poalele muntelui sunt utilizate intens din punct de vedere agricol.",
+        "Masivul servește ca arie naturală protejată pentru fauna locală.",
+        "Topografia deluroasă contribuie la atractivitatea peisagistică a zonei.",
+        "Din punct de vedere geologic, masivul prezintă caracteristici tipice pentru lanțurile Atlasului nordic.",
+        "Flora muntelui Djebel Bel Khodra este bine adaptată condițiilor climatice mediteraneene."
+      ]
+    },
+    {
+      "id": "chott-el-gharsa-relief-v2",
+      "descriptionAdvanced": "Chott el-Gharsa este un lac sărat situat jos, care se află la vest de mai cunoscutul Chott el-Djerid din sudul Tunisiei. Formează una dintre cele mai joase depresiuni din regiune și este, din punct de vedere geologic, un bazin fără scurgere în care apa se colectează în timpul ploilor rare, dar se evaporă rapid sub căldura intensă a deșertului, lăsând în urmă o crustă de sare caracteristică și extinsă. Peisajul din jurul Chott el-Gharsa este marcat de condițiile sale extreme, de dunele de deșert extinse și de frumusețea aridă a depunerilor de sare, ceea ce îl face o parte geologic interesantă și vizual impresionantă a reliefului deșertic tunisian.",
+      "factsAdvanced": [
+        "Chott el-Gharsa este unul dintre cele mai joase puncte de pe teritoriul tunisian.",
+        "Regiunea este marcată de un mediu aproape ostil vieții, bogat în sare.",
+        "Din punct de vedere geologic, zona reprezintă un bazin de sedimentare clasic fără scurgere.",
+        "Depresiunea este înconjurată de dune de deșert extinse și dinamice.",
+        "Zona este un loc important pentru explorarea geologică a bazinelor de sare.",
+        "Chott el-Gharsa face parte dintr-o rețea vastă de lacuri sărate și depresiuni."
+      ]
+    }
+  ]
+}

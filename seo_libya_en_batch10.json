@@ -12,243 +12,213 @@
   ],
   "items": [
     {
-      "id": "ubari-sand-sea-nature-v2",
-      "descriptionAdvanced": "The Ubari Sand Sea is a massive, incredibly picturesque expanse of towering sand dunes located in the Fezzan region of southwestern Libya. It is visually defined by massive, shifting 'erg' formations of golden and red sand that stretch for hundreds of kilometers. Hidden within these colossal dunes are several highly saline, beautiful desert lakes, such as Gaberoun and Mandara, which form unique extremophile ecosystems. The sheer scale and brutal beauty of this landscape make it one of the most iconic geographical features of the deep Sahara. Geography K8 — aeolian landforms and desert lakes.",
+      "id": "benghazi-university-campus-landmarks-v2",
+      "descriptionAdvanced": "The University of Benghazi, formerly Garyounis University, is the oldest and most prestigious institution of higher learning in Libya. Its massive campus is a landmark of modern educational architecture in North Africa, featuring grand academic halls, extensive libraries, and specialized research centers. Founded in 1955, the university has been the intellectual heart of eastern Libya, producing generations of the country's leaders, scholars, and professionals. The campus serves as a primary center for cultural and scientific discourse, with its modernist buildings reflecting the nation's 20th-century progress. Despite the challenges of recent years, the university remains a symbol of resilience and the vital importance of education in Libyan society. Sociology K8 — higher education and intellectual centers.",
       "factsAdvanced": [
-        "A massive expanse of towering sand dunes in the southwestern Fezzan region.",
-        "Characterized by large 'erg' formations of shifting, wind-blown sand.",
-        "Contains several unique, hyper-saline desert lakes like Gaberoun.",
-        "The dunes here can reach heights of over 100 meters.",
-        "Represents a quintessential, iconic Saharan desert landscape.",
-        "Creates a brutal, extremely arid environment hostile to most life."
+        "The first and largest university established in modern Libya, founded in 1955.",
+        "A major intellectual landmark in the city of Benghazi.",
+        "Features a massive campus with modernist architectural designs.",
+        "Home to the largest academic library in the country.",
+        "A primary center for research in medicine, engineering, and the arts.",
+        "Produces a significant portion of Libya's professional and academic elite.",
+        "A focal point for regional cultural events and scientific conferences.",
+        "Strategically located in the southern part of Benghazi as an urban anchor."
       ]
     },
     {
-      "id": "gargaf-mountains-nature-v2",
-      "descriptionAdvanced": "The Gargaf Mountains form a rugged, eroded rocky plateau in the central Fezzan, acting as a natural geographic barrier between the northern coastal plains and the deep southern deserts. Composed primarily of ancient sandstone and limestone, the mountains feature deep, dramatic ravines and stark, flat-topped mesas. Because of their elevation, they occasionally capture sparse winter rains, supporting highly adapted desert scrub and occasional wildlife. The region is notable for massive subterranean fossil water reserves located beneath the rocky surface. Earth Science K7 — desert plateaus and fossil water.",
+      "id": "al-majidiya-mosque-tripoli-landmarks-v2",
+      "descriptionAdvanced": "The Al-Majidiya Mosque is a beautiful and historic religious landmark located in the modern center of Tripoli. Built during the late Ottoman period, it is characterized by its elegant architectural style that blends traditional Libyan motifs with Ottoman influences. The mosque features a prominent central dome and a tall, slender minaret that is a fixture of the city's downtown skyline. It has long been a center of worship and community gathering, serving as a peaceful sanctuary amidst the bustling commercial districts of the capital. The Al-Majidiya Mosque is a testament to the enduring religious traditions of Tripoli and the architectural quality of the 19th-century urban expansion. History K8 — Ottoman urbanism and regional mosques.",
       "factsAdvanced": [
-        "A rugged, highly eroded mountain plateau in the central Fezzan.",
-        "Composed primarily of ancient, layered sandstone and limestone.",
-        "Acts as a physical barrier separating the coast from the deep Sahara.",
-        "Features dramatic ravines, wadis, and flat-topped mesas.",
-        "Sits directly above massive subterranean fossil water aquifers.",
-        "Supports highly specialized, drought-resistant desert scrub flora."
+        "A significant late Ottoman-era mosque in the heart of Tripoli.",
+        "Features an elegant architectural style with a prominent central dome.",
+        "Located near the central commercial districts and government offices.",
+        "A primary place of worship for residents and workers in downtown Tripoli.",
+        "Known for its fine interior decoration and traditional calligraphy.",
+        "The mosque's minaret is a major landmark of the modern city center.",
+        "Served as a focal point for religious and community life for over a century.",
+        "Reflects the artistic and architectural quality of the Karamanli and Ottoman eras."
       ]
     },
     {
-      "id": "mizdah-plateau-nature-v2",
-      "descriptionAdvanced": "The Mizdah Plateau is a vast, transitional geographic zone that slopes gently down from the Nafusa Mountains toward the deep Hamada al Hamra desert. It is an expansive, stony, semi-arid plain, covered largely by gravel rather than sand. This rocky terrain, known as 'reg', is highly characteristic of the northern Saharan fringes. The plateau provides a stark, open landscape that has historically been utilized by nomadic pastoralists for seasonal grazing after rare winter rains. Geography K6 — transitional stony deserts.",
+      "id": "tobruk-grand-mosque-landmarks-v2",
+      "descriptionAdvanced": "The Tobruk Grand Mosque is the primary religious landmark in the strategic port city of Tobruk, northeastern Libya. Its architecture is a prominent example of the modern Islamic style favored in eastern Libya, featuring multiple domes and a towering minaret that is visible from the harbor. The mosque serves as the spiritual heart of the city, hosting thousands of worshippers for Friday prayers and major Islamic festivals. It is a center for religious education and community services, playing a vital role in the social fabric of this important maritime hub. The Tobruk Grand Mosque symbolizes the city's deep faith and its identity as a key bastion of eastern Libyan culture. Sociology K7 — regional mosques and maritime cities.",
       "factsAdvanced": [
-        "A vast, stony plateau located south of the Nafusa Mountains.",
-        "Acts as a transitional zone between the mountains and the Hamada al Hamra.",
-        "Covered primarily by harsh gravel and loose stone, known as 'reg'.",
-        "Features a highly sparse, semi-arid scrub environment.",
-        "Historically utilized by nomadic pastoralists during seasonal rains.",
-        "Presents a flat, open, and visually stark geographic landscape."
+        "The largest and most important religious landmark in the city of Tobruk.",
+        "A primary center for community life and religious education in the east.",
+        "Features a grand architectural design with multiple prominent domes.",
+        "Located in the heart of Tobruk, near the commercial and port districts.",
+        "A focal point for national celebrations and major Islamic holidays.",
+        "Its tall minaret serves as a primary navigational landmark for the city.",
+        "Surrounded by the vibrant local markets of the Tobruk center.",
+        "A symbol of the city's spiritual resilience and cultural heritage."
       ]
     },
     {
-      "id": "al-hamada-al-hamra-nature-v2",
-      "descriptionAdvanced": "Al-Hamada al-Hamra, translating literally to the 'Red Desert', is an immense, incredibly desolate limestone plateau dominating northwestern Libya. It is characterized by flat, almost entirely featureless expanses of red-tinted rock and gravel, with virtually no sand dunes or notable elevations. The lack of visual landmarks and extreme aridity make navigating this vast plain exceptionally dangerous. Despite its hostility to surface life, the Hamada conceals vast, critical oil and gas reserves deep underground. Geography K8 — limestone plateaus and resource geography.",
+      "id": "misrata-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "The Misrata Airport Terminal is a vital infrastructure landmark in western Libya, serving as a primary gateway for international and domestic travel. As the main airport for the nation's 'Business Capital,' it plays a critical role in supporting the city's thriving commercial and industrial sectors. The terminal has undergone significant modernization to handle the increasing volume of passengers and cargo, reflecting Misrata's economic dynamism. It serves as a key hub for trade, diplomacy, and the movement of workers, connecting the region with major cities in Turkey, Egypt, and Tunisia. The airport is a symbol of Misrata's independence and its integration into the global economy. Economics K8 — aviation and commercial logistics.",
       "factsAdvanced": [
-        "An immense, flat limestone plateau in northwestern Libya.",
-        "Translates from Arabic as the 'Red Desert' due to the tint of its rocky soil.",
-        "Characterized by featureless expanses of gravel and exposed rock.",
-        "Virtually devoid of major sand dunes or significant surface vegetation.",
-        "Notoriously difficult and dangerous to navigate due to a lack of landmarks.",
-        "Conceals massive, economically vital subterranean oil and gas reserves."
+        "The primary international airport terminal serving the city of Misrata.",
+        "A vital gateway for international business and commercial travel in Libya.",
+        "Recently modernized with expanded passenger halls and cargo facilities.",
+        "A major hub for regional flights connecting Libya with Turkey and Egypt.",
+        "Strategically located to support the Misrata Free Zone and industrial complexes.",
+        "Crucial for the movement of goods and specialized technical personnel.",
+        "Serves as a primary alternative gateway to the capital city, Tripoli.",
+        "One of the most efficient and active airport terminals in North Africa."
       ]
     },
     {
-      "id": "tibesti-foothills-nature-v2",
-      "descriptionAdvanced": "The Tibesti Foothills form the extreme southern geographic border of Libya, acting as the rugged gateway to the massive Tibesti Mountains located primarily in Chad. This terrain is brutal, featuring jagged volcanic rock, deep canyons, and an intensely arid climate. The dark, basaltic rock formations provide a sharp contrast to the surrounding sand seas of the Sahara. The remoteness and harsh terrain have made these foothills a historical refuge for the indigenous Toubou people. Geography K8 — volcanic foothills and border geography.",
+      "id": "al-kish-square-mosque-landmarks-v2",
+      "descriptionAdvanced": "The Al-Kish Square Mosque is a major religious and social landmark in Benghazi, located on one of the city's largest and most famous public squares. Its modern Islamic architecture, featuring a grand dome and slender minaret, dominates the Al-Kish district. The mosque is not only a place of worship but also a central gathering point for community events and religious gatherings. Its position on Al-Kish Square makes it a focal point for public life in Benghazi, where thousands of people congregate for prayers and national celebrations. The mosque represents the vibrant religious life of the city and its role as a supportive anchor for the large metropolitan community. Sociology K8 — public squares and urban religious life.",
       "factsAdvanced": [
-        "Located in the extreme southern border region of Libya.",
-        "Form the northern, rugged gateway to the massive Tibesti Mountain range.",
-        "Characterized by highly abrasive, dark volcanic and basaltic rock.",
-        "Features an extremely arid, hostile, and rugged geographical landscape.",
-        "Historically serves as a natural refuge for the indigenous Toubou people.",
-        "Marks the transition from sand seas to towering volcanic massifs."
+        "A prominent modern mosque located on the famous Al-Kish Square in Benghazi.",
+        "One of the primary gathering points for public prayers in the city.",
+        "Features a grand architectural style that serves as an urban anchor.",
+        "A central hub for religious and community activities in southern Benghazi.",
+        "Located near several major educational and administrative institutions.",
+        "The square itself is a historic site for public gatherings and political rallies.",
+        "Characterized by its spacious prayer hall and elegant modern minaret.",
+        "A vital symbol of the spiritual and social life of modern Benghazi."
       ]
     },
     {
-      "id": "sarir-tanezrouft-nature-v2",
-      "descriptionAdvanced": "The Sarir Tanezrouft (or simply the Calanshio Sand Sea region) represents one of the most utterly desolate, hyper-arid environments on the planet, located in eastern Libya. It is a vast 'sarir'—a flat, featureless plain of coarse sand and gravel baked entirely barren by the sun. The complete lack of water, vegetation, and visual landmarks earned it the grim historical nickname 'The Land of Terror'. Only the most heavily equipped modern convoys or deeply experienced desert guides can safely cross this expanse. Geography K7 — hyper-arid featureless plains.",
+      "id": "benghazi-great-mosque-landmarks-v2",
+      "descriptionAdvanced": "The Great Mosque of Benghazi is a historic and majestic religious landmark in the heart of Libya's second city. Built during the Ottoman era, it is one of the oldest and most revered mosques in the Cyrenaica region. Its architecture reflects a blend of traditional North African and Ottoman styles, with thick stone walls, a grand central courtyard, and a tall minaret. For centuries, the mosque has been the primary center of religious authority and Islamic learning in Benghazi, hosting prominent scholars and serving as a spiritual sanctuary for the population. Its location in the historic center makes it a cornerstone of the city's cultural and religious identity. History K8 — Ottoman Libya and regional religious centers.",
       "factsAdvanced": [
-        "A massive, hyper-arid plain located in the eastern Libyan desert.",
-        "Characterized as a 'sarir': a flat expanse of coarse sand and gravel.",
-        "Considered one of the most desolate, barren regions on Earth.",
-        "Contains virtually zero surface water, vegetation, or visual landmarks.",
-        "Historically known to ancient caravans as a highly dangerous crossing.",
-        "Experiences some of the most intense, unmitigated solar radiation in Africa."
+        "The most historic and revered mosque in the city of Benghazi.",
+        "A primary center for Islamic learning and religious authority in the east.",
+        "Features a grand Ottoman-North African architectural design.",
+        "Located in the historic 'Medina' district of central Benghazi.",
+        "Home to a significant library of Islamic texts and historical records.",
+        "Served as a spiritual heart for the city for hundreds of years.",
+        "Famous for its spacious prayer hall and elegant stone-carved minaret.",
+        "A primary site for major national and religious ceremonies in Cyrenaica."
       ]
     },
     {
-      "id": "wadi-kuf-nature-v2",
-      "descriptionAdvanced": "Wadi al-Kuf is a spectacular, massive, and deep gorge that violently cuts through the lush Jabal al Akhdar mountains in eastern Libya. The steep, heavily forested walls of the wadi drop precipitously, creating a dramatic, naturally fortified environment. Its thick vegetation and hidden caves made it a famous, impenetrable stronghold for Omar Mukhtar's resistance fighters against Italian colonial forces. Today, the gorge is spanned by the massive, structurally impressive Wadi el Kuf Bridge. Geography K8 — massive river gorges and resistance geography.",
+      "id": "tripoli-zoo-life-v2",
+      "descriptionAdvanced": "The Tripoli Zoo, located in the lush parklands of the capital, is one of the oldest and most popular family destinations in Libya. It serves as a vital green space and recreational hub for the Tripoli metropolitan area, offering a rare opportunity for residents to encounter wildlife in a city setting. The zoo houses a variety of animals, including lions, bears, and exotic birds, as well as a significant collection of Saharan species. It plays an important role in public education and environmental awareness, particularly for school groups. The zoo's mature trees and shaded pathways provide a peaceful escape from the urban bustle, making it a cornerstone of the capital's social and family life. Biology K7 — wildlife conservation and urban parks.",
       "factsAdvanced": [
-        "A massive, incredibly deep gorge cutting through the Jabal al Akhdar.",
-        "Features steep, dramatic cliffs covered in dense Mediterranean forest.",
-        "Historically served as an impenetrable stronghold for anti-colonial resistance.",
-        "Used extensively by Omar Mukhtar's fighters during the 1920s.",
-        "Spanned by the visually stunning, concrete Wadi el Kuf Bridge.",
-        "Provides a highly unique, lush microclimate distinct from the rest of Libya."
+        "The largest and most historic zoological garden in Libya.",
+        "A primary recreational destination for families in the Tripoli region.",
+        "Home to a diverse collection of African and Saharan wildlife.",
+        "Located in a sprawling, mature parkland in the southern part of the city.",
+        "Plays a key role in regional animal conservation and public education.",
+        "Features specialized enclosures for big cats, primates, and desert species.",
+        "A vital green lung for the densely populated capital city.",
+        "Hosts thousands of visitors during weekends and national holidays."
       ]
     },
     {
-      "id": "sirte-basin-nature-v2",
-      "descriptionAdvanced": "The Sirte Basin is unarguably the most economically significant geological feature in Libya, spanning a massive swath of the central desert. While the surface appears as a barren, flat, and unremarkable stony desert, the geology beneath holds the vast majority of the nation's proven oil and gas reserves. The basin is a highly complex system of ancient, subsurface rift faults that perfectly trapped millions of years of organic material. The entire modern history and economy of Libya are built directly upon the geology of this basin. Earth Science K8 — petroleum geology and rift basins.",
+      "id": "benghazi-zoo-life-v2",
+      "descriptionAdvanced": "The Benghazi Zoo, or the 'Il-Kish' Zoo, is a cherished recreational and educational landmark in eastern Libya. Situated within a large public park, it serves as a primary destination for families and school children from across the Cyrenaica region. The zoo features a variety of animal enclosures, ranging from large African mammals to local bird species and reptiles. It is also an important center for community gathering, offering shaded picnic areas and playgrounds. The Benghazi Zoo plays a significant role in promoting an interest in nature and wildlife among the youth, serving as a vital green space and a center for environmental education in the nation's second city. Biology K7 — regional wildlife and community parks.",
       "factsAdvanced": [
-        "A massive geological depression dominating central Libya.",
-        "Holds the vast majority of Libya's proven oil and natural gas reserves.",
-        "Surface features consist primarily of flat, barren, stony desert.",
-        "Formed through highly complex, ancient subsurface tectonic rifting.",
-        "Rift faults created perfect structural traps for subterranean hydrocarbons.",
-        "The absolute foundation of the modern Libyan national economy."
+        "The premier zoological park in eastern Libya, located in Benghazi.",
+        "A major center for family recreation and school educational field trips.",
+        "Features a variety of enclosures for lions, tigers, and Saharan animals.",
+        "Located within a popular public park in the central part of the city.",
+        "An important hub for regional animal care and wildlife awareness.",
+        "Provides a vital green space and shaded escape for city residents.",
+        "Home to an aquarium and several bird-watching facilities.",
+        "A cornerstone of the social and cultural life of modern Benghazi."
       ]
     },
     {
-      "id": "gulf-of-sidra-nature-v2",
-      "descriptionAdvanced": "The Gulf of Sidra (Gulf of Sirte) is a massive indentation of the Mediterranean Sea into the northern coast of Libya, forming the widest gulf in the Mediterranean. Its coastline is incredibly flat and arid, directly abutting the vast Sirte Basin desert. Because it is the maritime gateway for the majority of Libya's oil exports, the waters here are of immense geopolitical and strategic importance. The Gulf is also notorious for highly unpredictable, intense seasonal storms that historically plagued ancient mariners. Geography K7 — coastal geography and maritime boundaries.",
+      "id": "djebel-nafusa-agri-life-v2",
+      "descriptionAdvanced": "The agricultural landscapes of the Djebel Nafusa are a testament to the ingenuity and resilience of the Berber (Amazigh) people. This elevated plateau in northwestern Libya is famous for its ancient stone-walled terraces that cling to the steep mountain slopes, capturing precious rainwater for farming. The region is a major producer of high-quality olives, figs, and almonds, utilizing traditional methods that have remained largely unchanged for centuries. The Nafusa agricultural life is deeply tied to the seasonal cycles of the highlands, with the harvest being a major communal event. This unique mountain ecosystem represents a sustainable and ancient form of Mediterranean highland farming. Geography K7 — mountain agriculture and terraced farming.",
       "factsAdvanced": [
-        "The widest and largest gulf in the entire Mediterranean Sea.",
-        "Cuts deeply into the northern, central coastline of Libya.",
-        "The coastal terrain is notably flat, barren, and highly arid.",
-        "Serves as the primary maritime exit for the nation's massive oil exports.",
-        "Highly strategic waters heavily patrolled by national authorities.",
-        "Known historically for intense, unpredictable seasonal maritime storms."
+        "A world-class example of ancient terraced farming in the mountains.",
+        "A primary region for the production of organic olive oil and figs.",
+        "Utilizes stone-walled terraces to conserve soil and rainwater.",
+        "The agricultural heartland of the Amazigh (Berber) people of Libya.",
+        "Features unique highland microclimates that support diverse fruit trees.",
+        "Harvest seasons are major cultural events involving entire communities.",
+        "Provides a sustainable livelihood for thousands of mountain families.",
+        "A critical region for the preservation of indigenous Libyan agricultural techniques."
       ]
     },
     {
-      "id": "al-haruj-nature-v2",
-      "descriptionAdvanced": "Al-Haruj (the Black Haruj) is a vast, alien landscape in central Libya, forming the largest basaltic volcanic field in North Africa. It is characterized by hundreds of extinct volcanic craters and endless, jagged expanses of black lava flows. The dark rock violently absorbs the Saharan sun, creating a brutally hot microclimate that makes the region incredibly difficult to explore. It stands as a massive, dark stain against the lighter sands and gravels of the surrounding desert, visible clearly from space. Earth Science K8 — massive basaltic volcanic fields.",
+      "id": "gadamis-oasis-life-v2",
+      "descriptionAdvanced": "The Ghadames Oasis, fed by the ancient 'Ain al-Faras' spring, is one of the most successful and sophisticated examples of Saharan agriculture in history. This verdant enclave in the desert features a complex system of shaded gardens and palm groves, where the multi-layered 'under-canopy' farming technique is used to grow dates, fruits, and vegetables simultaneously. The oasis life is deeply integrated with the architecture of the UNESCO-listed Old Town, with the water being distributed through a precise network of traditional channels. The Ghadames Oasis represents the pinnacle of desert environmental management, allowing human life and productive agriculture to thrive in a hyper-arid climate. Geography K8 — oasis ecosystems and traditional irrigation.",
       "factsAdvanced": [
-        "The largest basaltic volcanic field in all of North Africa.",
-        "Located in central Libya, spanning roughly 45,000 square kilometers.",
-        "Features hundreds of extinct volcanic craters and massive lava flows.",
-        "The jagged, black basalt rock makes ground travel incredibly difficult.",
-        "Absorbs massive amounts of solar heat, creating extreme surface temperatures.",
-        "Appears as a massive, distinct dark anomaly on satellite imagery."
+        "Powered by the ancient and legendary 'Ain al-Faras' (Spring of the Mare).",
+        "Utilizes a highly sophisticated system of traditional water distribution.",
+        "Features thousands of date palms that provide shade for fruit trees below.",
+        "A premier example of sustainable desert agriculture in the Sahara.",
+        "The oasis life is a vital component of the Ghadames UNESCO heritage.",
+        "Produces high-quality dates, citrus, and traditional medicinal herbs.",
+        "Managed collectively by the community through ancient water-sharing rules.",
+        "A lush green sanctuary in the heart of the hyper-arid Libyan Desert."
       ]
     },
     {
-      "id": "jebel-aswad-nature-v2",
-      "descriptionAdvanced": "The Jebel Aswad, translating to the 'Black Mountains', is a rugged, deeply eroded mountainous region in the central Fezzan. Like the Haruj, its striking dark appearance is due to ancient basaltic volcanic activity mixed with heavily weathered sandstone. The terrain is a chaotic mix of steep ravines, dark plateaus, and dry riverbeds (wadis) that occasionally channel flash floods during rare storms. The stark contrast between the black rock and the surrounding pale desert sands makes it visually spectacular. Geography K7 — volcanic mountain ranges.",
+      "id": "kufra-orchard-life-v2",
+      "descriptionAdvanced": "The Kufra Orchards are a marvel of modern agricultural innovation in the deep Sahara, made possible by the tapping of the massive Nubian Sandstone Aquifer. These orchards, often characterized by their striking circular shape visible from space, produce a staggering variety of crops, including grains, alfalfa, and high-quality citrus, amidst some of the most arid sands on Earth. The life of the Kufra oasis is a blend of traditional date palm cultivation and high-tech center-pivot irrigation. These orchards are a critical strategic asset, providing food security for the remote southeastern region and demonstrating the transformative power of water in the desert. Geography K8 — fossil water and circular irrigation.",
       "factsAdvanced": [
-        "A rugged, highly eroded mountain range in the central Fezzan.",
-        "Translates from Arabic directly as the 'Black Mountains'.",
-        "Visual appearance is dominated by ancient, dark basaltic rock.",
-        "Features a chaotic landscape of steep ravines and dry wadis.",
-        "Highly prone to intense, sudden flash flooding during rare rainstorms.",
-        "Provides a stark, high-contrast visual against surrounding pale sands."
+        "Famous for massive circular fields visible from satellite imagery.",
+        "Taps into the Nubian Sandstone Aquifer, one of the world's largest fossil water sources.",
+        "A major producer of grains and animal fodder in the deep desert.",
+        "Produces high-quality dates and citrus in a hyper-arid environment.",
+        "A critical strategic food source for the southeastern Libya region.",
+        "Utilizes advanced center-pivot irrigation technology on a massive scale.",
+        "The 'orchard life' is a primary employer for the local Kufra community.",
+        "Shows the extreme contrast between green agriculture and Saharan sand."
       ]
     },
     {
-      "id": "wadi-zamzam-nature-v2",
-      "descriptionAdvanced": "Wadi Zamzam is one of the most prominent dry river valleys in the Tripolitania region, carving a long, meandering path toward the Gulf of Sidra. While it remains completely dry for most of the year, sudden winter rains in the interior can transform it into a raging, dangerous flash flood. The deep subsurface moisture of the wadi supports sporadic clusters of resilient acacia trees and desert shrubs. Historically, the wadi served as a natural navigation route for nomadic tribes moving across the stony plains. Geography K6 — ephemeral desert river systems.",
+      "id": "zawia-farm-life-v2",
+      "descriptionAdvanced": "The farming life of the Zawiya region is a cornerstone of the economy in northwestern Libya, benefiting from the fertile soil of the Jafara Plain and proximity to the capital. This area is characterized by large, productive farms that specialize in a variety of crops, from vast olive groves to citrus orchards and greenhouses producing fresh vegetables. The Zawiya farms are a vital link in the national food supply chain, providing the majority of the produce sold in the markets of Tripoli. The agricultural life here is a blend of traditional family farming and modern commercial operations, representing the high productivity of the Libyan Mediterranean coast. Geography K7 — coastal plain agriculture and food security.",
       "factsAdvanced": [
-        "A massive, prominent dry river valley (wadi) in western Tripolitania.",
-        "Carves a long, winding geographical path toward the Gulf of Sidra.",
-        "Remains completely dry and arid for the vast majority of the year.",
-        "Highly susceptible to massive, dangerous flash floods during winter storms.",
-        "Subsurface moisture supports scattered acacia trees and desert scrub.",
-        "Historically utilized as a natural navigational route by nomadic tribes."
+        "A primary agricultural supplier to the Tripoli metropolitan area.",
+        "Characterized by the high productivity of the fertile Jafara Plain.",
+        "A major region for the cultivation of olives, citrus, and tomatoes.",
+        "Features a high density of modern greenhouses and irrigation systems.",
+        "The farming sector is a major employer for the local Zawiya population.",
+        "Benefits from a classic Mediterranean climate with winter rainfall.",
+        "Produces high-quality livestock, particularly poultry and dairy.",
+        "A critical zone for the national strategy of agricultural self-sufficiency."
       ]
     },
     {
-      "id": "al-kufra-basin-nature-v2",
-      "descriptionAdvanced": "The Al-Kufra Basin is a massive geographical and geological depression located in the remote southeastern corner of Libya. On the surface, it is a hyper-arid, flat expanse of the deep Sahara, largely devoid of natural life. However, beneath the sand lies one of the largest accumulations of fossil water in the world, part of the Nubian Sandstone Aquifer System. This immense hidden ocean of fresh water, trapped during prehistoric wet periods, is the sole reason the massive agricultural projects in Kufra are possible. Earth Science K8 — fossil water aquifers and desert basins.",
+      "id": "gharyan-nursery-life-v2",
+      "descriptionAdvanced": "The nurseries and agricultural projects of Gharyan are vital for the reforestation and greening of the Nafusa Mountains. These specialized facilities focus on the cultivation of drought-resistant trees, including olive, almond, and juniper, which are essential for soil conservation in the rugged highland terrain. The Gharyan nursery life is a blend of scientific research and traditional mountain farming, where seedlings are carefully raised to withstand the region's extreme temperature shifts. These projects are a major source of pride for the city, contributing to the environmental health of the mountains and providing thousands of young trees for local farmers and national environmental initiatives. Biology K7 — mountain reforestation and soil conservation.",
       "factsAdvanced": [
-        "A massive geological depression in the remote southeastern Libyan desert.",
-        "Surface environment is extremely flat, barren, and hyper-arid.",
-        "Sits directly above the massive Nubian Sandstone Aquifer System.",
-        "Contains one of the largest reserves of prehistoric fossil water on Earth.",
-        "The subterranean water allows for massive, artificial oasis agriculture.",
-        "Geologically distinct from the oil-rich Sirte Basin to the northwest."
+        "A major center for the cultivation of drought-resistant tree seedlings.",
+        "Focuses on preserving the indigenous flora of the Nafusa Mountains.",
+        "Provides millions of olive and almond trees for regional farmers.",
+        "A critical node for national reforestation and anti-desertification programs.",
+        "Utilizes specialized mountain nurseries to acclimatize plants.",
+        "A primary employer and center of technical knowledge in Gharyan.",
+        "Supports the environmental health and soil stability of the plateau slopes.",
+        "Known for its high-quality almond and fruit tree varieties."
       ]
     },
     {
-      "id": "jebel-uwaynat-nature-v2",
-      "descriptionAdvanced": "Jebel Uwaynat is a stunning, highly remote mountain massif that sits exactly on the tri-border point of Libya, Egypt, and Sudan. Rising abruptly from the flat desert floor, its towering granite and sandstone peaks create a localized microclimate that can support sparse vegetation and rare wildlife, including Barbary sheep. The mountain is famous among archaeologists for its extensive, beautifully preserved prehistoric rock art depicting cattle and early pastoral life. It serves as a monumental, natural border marker in the deep Sahara. Geography K8 — tri-border mountain massifs and rock art.",
+      "id": "sebha-park-life-v2",
+      "descriptionAdvanced": "Sebha Park is a vital green sanctuary and recreational hub in the heart of the Libyan Sahara. As the primary park in the capital of the Fezzan, it offers a rare and essential escape from the intense desert heat and the urban environment. The park features shaded walkways, playgrounds, and community spaces that are a focal point for family life in the south. It plays a significant role in fostering a sense of community and providing a space for leisure and social interaction. Sebha Park represents the importance of urban greening in desert cities, serving as a peaceful oasis that enhances the quality of life for the residents of Sabha. Sociology K7 — desert urban greening and community life.",
       "factsAdvanced": [
-        "A towering mountain massif located in the extreme southeast of Libya.",
-        "Sits exactly on the tri-border junction of Libya, Egypt, and Sudan.",
-        "Composed primarily of massive granite and eroded sandstone formations.",
-        "Features extensive, highly significant prehistoric rock art and petroglyphs.",
-        "Generates a slight microclimate capable of supporting rare desert wildlife.",
-        "Acts as a massive, natural geographical boundary marker."
+        "The primary public park and green space in the city of Sabha.",
+        "A vital recreational oasis for families in the deep southern desert.",
+        "Features shaded groves and facilities for children and social events.",
+        "Plays a key role in the social and cultural life of the Fezzan people.",
+        "A major center for evening gatherings and national holiday celebrations.",
+        "Contributes to the micro-climate cooling of the central city area.",
+        "Provides a rare green landscape amidst the surrounding desert sands.",
+        "A cornerstone of the urban development and public health of Sabha."
       ]
     },
     {
-      "id": "wadi-al-ajal-nature-v2",
-      "descriptionAdvanced": "Wadi al-Ajal is a profound, linear depression in the Fezzan that acts as a natural geographical boundary between the rocky Messak plateau and the Ubari Sand Sea. The wadi is essentially a 150-kilometer-long oasis, featuring a continuous string of palm groves sustained by a high, accessible water table. This unique geography made it the absolute epicenter of the ancient Garamantian empire, providing the precise conditions needed for early Saharan agriculture. It remains one of the most densely populated and vital strips of land in the deep desert. Geography K7 — inhabited desert depressions.",
+      "id": "tubruq-garden-life-v2",
+      "descriptionAdvanced": "The public gardens and parks of Tobruk are essential green spaces in this arid, strategic port city. Given the city's limited rainfall, these gardens are a testament to successful urban planning and the careful management of water resources. They serve as primary hubs for family recreation, social gathering, and community events, offering a shaded and pleasant environment away from the busy harbor and commercial zones. The gardens of Tobruk are particularly important for the well-being of the population, providing a place of rest and beauty in a region dominated by rugged, rocky desert. They represent the city's commitment to creating a livable and vibrant urban environment. Sociology K7 — urban parks and arid-zone recreation.",
       "factsAdvanced": [
-        "A massive, 150-kilometer-long linear depression in the Fezzan region.",
-        "Separates the rocky Messak Settafet plateau from the Ubari Sand Sea.",
-        "Features a continuous, life-sustaining string of lush date palm oases.",
-        "Possesses a highly accessible, shallow subterranean water table.",
-        "The historical and geographical epicenter of the ancient Garamantian civilization.",
-        "Remains a highly vital, populated ecological corridor in the deep Sahara."
-      ]
-    },
-    {
-      "id": "gargaf-desert-nature-v2",
-      "descriptionAdvanced": "The Gargaf Desert refers to the stony, highly arid plains and eroded plateaus that surround the Gargaf mountain range in the central Fezzan. Unlike the romanticized sandy dunes of the Ubari, this desert is a harsh, abrasive 'hamada' landscape of shattered rock and compacted gravel. The severe lack of surface water and the intensely abrasive terrain make it incredibly inhospitable. However, its geological structure is critical for trapping and protecting the massive subterranean fossil aquifers located beneath it. Earth Science K7 — hamada landscapes and aquifer protection.",
-      "factsAdvanced": [
-        "A harsh, stony desert region surrounding the central Gargaf Mountains.",
-        "Characterized as a 'hamada' landscape: shattered rock and compacted gravel.",
-        "Severely lacks the massive sand dunes associated with other Saharan regions.",
-        "Highly abrasive and notoriously difficult terrain to traverse.",
-        "Provides critical geological capstone protection for subterranean fossil aquifers.",
-        "Experiences brutal, unmitigated solar heat reflection off the stony surface."
-      ]
-    },
-    {
-      "id": "sirtica-desert-nature-v2",
-      "descriptionAdvanced": "The Sirtica Desert represents the bleak, barren hinterland that stretches southward from the Gulf of Sidra, merging eventually into the deep Sahara. It is a transitional geographic zone, featuring a mix of flat gravel plains, sparse scrubland, and the occasional low, rocky ridge. While historically viewed merely as an obstacle between Tripolitania and Cyrenaica, its modern significance is immeasurable due to the vast oil infrastructure built across it. The landscape is continually marked by pipelines, pumping stations, and long, straight desert highways. Geography K7 — transitional deserts and energy infrastructure.",
-      "factsAdvanced": [
-        "A transitional desert region stretching south from the Gulf of Sidra.",
-        "Features a mix of flat gravel plains, sparse scrub, and low rocky ridges.",
-        "Historically acted as a massive, barren geographic barrier between east and west Libya.",
-        "Overlays the massive, economically vital Sirte Basin oil fields.",
-        "The landscape is heavily marked by pipelines, flare stacks, and pumping stations.",
-        "Crossed by the massive, straight coastal-interior desert highways."
-      ]
-    },
-    {
-      "id": "wadi-mathendous-nature-v2",
-      "descriptionAdvanced": "Wadi Mathendous is a deeply cut, ancient dry riverbed located in the remote Messak Settafet plateau of southwestern Libya. While visually spectacular with its steep, rocky cliffs, the wadi is most famous globally for its astonishing prehistoric rock engravings. The highly detailed carvings deeply etched into the sandstone depict a lush, ancient Sahara populated by crocodiles, elephants, and massive felines. The wadi serves as an incredibly preserved, open-air museum documenting the catastrophic climate shift of the North African continent. Earth Science K8 — prehistoric paleoclimates and rock art.",
-      "factsAdvanced": [
-        "A deeply incised, ancient dry river valley in the Messak Settafet plateau.",
-        "Located in the highly remote southwestern region of the Fezzan.",
-        "Globally famous for exceptionally detailed prehistoric sandstone engravings.",
-        "Artwork clearly depicts water-dependent animals like crocodiles and elephants.",
-        "Serves as profound geological evidence of a previously lush, wet Saharan climate.",
-        "A highly significant, unprotected open-air museum of human history."
-      ]
-    },
-    {
-      "id": "jebel-soda-nature-v2",
-      "descriptionAdvanced": "The Jebel Soda, also known as the Black Mountains of the Fezzan, is a formidable, dark volcanic massif that visually dominates the surrounding pale desert plains. Similar in geology to the Al-Haruj, its jagged peaks and deep ravines are composed of ancient, dark basaltic rock. The mountains create a severe, localized microclimate; they absorb intense heat during the day and radiate it rapidly at night. The rugged, impenetrable nature of the Jebel Soda has historically made it a natural boundary and refuge for desert nomads. Geography K7 — isolated volcanic massifs.",
-      "factsAdvanced": [
-        "A formidable, dark volcanic mountain massif in the Fezzan region.",
-        "Composed primarily of ancient, dark basaltic rock and hardened lava.",
-        "The dark rock intensely absorbs and radiates extreme Saharan solar heat.",
-        "Features highly rugged, jagged peaks and deeply shadowed ravines.",
-        "Provides a massive, stark visual contrast to the surrounding pale desert.",
-        "Historically served as an impenetrable natural refuge for nomadic tribes."
-      ]
-    },
-    {
-      "id": "fezzan-desert-nature-v2",
-      "descriptionAdvanced": "The Fezzan Desert is not a single geographical feature, but rather the massive, diverse, and entirely landlocked southwestern sector of Libya. It encompasses a chaotic, spectacular mix of towering sand seas, deep oasis depressions like Wadi al-Ajal, and brutal volcanic plateaus. The region is fundamentally defined by its extreme isolation and its absolute reliance on ancient, subterranean fossil water to sustain life. Despite its harshness, the Fezzan has a rich, deep history as the central crossroads for trans-Saharan trade and indigenous Saharan empires. Geography K8 — regional Saharan geography and hydrology.",
-      "factsAdvanced": [
-        "The massive, entirely landlocked southwestern geographical region of Libya.",
-        "Encompasses towering sand seas, volcanic plateaus, and deep oasis wadis.",
-        "Defined by extreme geographic isolation and hyper-arid climate conditions.",
-        "Life is sustained almost entirely by massive, deep subterranean fossil aquifers.",
-        "Historically the central crossroads for the trans-Saharan gold and slave trades.",
-        "The ancestral heartland of the ancient Garamantian civilization."
+        "A primary green space and recreational hub for the people of Tobruk.",
+        "Utilizes desalinated water to maintain lush landscapes in an arid climate.",
+        "A major gathering spot for families and social groups in the city center.",
+        "Features shaded areas, walkways, and playgrounds for the community.",
+        "Plays a vital role in the social life and civic pride of Tobruk.",
+        "Provides a refreshing contrast to the industrial and port infrastructure.",
+        "A popular site for evening leisure and major public celebrations.",
+        "Essential for the urban environmental quality of the northeastern coast."
       ]
     }
   ]

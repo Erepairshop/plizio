@@ -32,13 +32,13 @@ from pathlib import Path
 REPO = Path("C:/Users/User/plizio-repo")
 DATA_DIR = REPO / "lib/visualLab/data"
 FILES = [
-    "poiExtraSudanCitiesV2.ts",
-    "poiExtraSudanEconomicV2.ts",
-    "poiExtraSudanLandmarksV2.ts",
-    "poiExtraSudanReliefV2.ts",
-    "poiExtraSudanHistoryV2.ts",
-    "poiExtraSudanLifeV2.ts",
-    "poiExtraSudanNatureV2.ts",
+    "poiExtraNigerCitiesV2.ts",
+    "poiExtraNigerEconomicV2.ts",
+    "poiExtraNigerLandmarksV2.ts",
+    "poiExtraNigerReliefV2.ts",
+    "poiExtraNigerHistoryV2.ts",
+    "poiExtraNigerLifeV2.ts",
+    "poiExtraNigerNatureV2.ts",
 ]
 LANGS = ("de", "hu", "ro", "en")
 
@@ -166,6 +166,15 @@ def find_key_blocks(poi_text: str, key: str) -> list[tuple[int, int]]:
             i += 2
             continue
         if c in ("'", '"', "`"):
+            # at depth==1 try first whether this is a quoted key match
+            if depth == 1 and c == '"':
+                m = pat.match(poi_text, i)
+                if m:
+                    brace_pos = m.end() - 1
+                    end_pos = find_matching_brace(poi_text, brace_pos)
+                    spans.append((m.start(), end_pos + 1))
+                    i = end_pos + 1
+                    continue
             quote = c
             i += 1
             while i < n:
@@ -393,52 +402,60 @@ CONNECTORS = {
 }
 
 CLOSERS = {
-    "de": "Damit zählt der Ort zu den charakteristischen Punkten Sudans entlang des Nils, der Nubischen Wüste und des Roten Meeres und bietet einen Einblick in das alte nubische Erbe und die regionale Identität.",
-    "hu": "Ezzel a hely Szudán egyik jellegzetes pontja a Nílus, a Núbiai-sivatag és a Vörös-tenger mentén, és betekintést nyújt az ősi núbiai örökségbe és a regionális identitásba.",
-    "ro": "Astfel, locul se numără printre punctele caracteristice ale Sudanului de-a lungul Nilului, al Deșertului Nubian și al Mării Roșii și oferă o imagine asupra moștenirii nubiene antice și a identității regionale.",
-    "en": "Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity.",
+    "de": "Damit zählt der Ort zu den charakteristischen Punkten Nigers zwischen dem Niger-Fluss, der Sahara und der Sahelzone und bietet einen Einblick in das Erbe der Tuareg, Hausa und Songhai sowie in die regionale Identität des Landes.",
+    "hu": "Ezzel a hely Niger egyik jellegzetes pontja a Niger-folyó, a Szahara és a Szahel-zóna között, és betekintést nyújt a tuareg, hausza és szongáj népek örökségébe, valamint az ország regionális identitásába.",
+    "ro": "Astfel, locul se numără printre punctele caracteristice ale Nigerului, între fluviul Niger, Sahara și zona saheliană, și oferă o imagine asupra moștenirii tuaregilor, hausa și songhai, precum și asupra identității regionale a țării.",
+    "en": "Thus, the site is among the characteristic points of Niger between the Niger River, the Sahara and the Sahel zone, and offers insight into the heritage of the Tuareg, Hausa and Songhai peoples and the regional identity of the country.",
 }
 
 EXTRA_FACT_TEMPLATES = {
     "de": [
-        "Liegt im nordostafrikanischen Staat Sudan.",
-        "Region geprägt vom Nil und der Nubischen Wüste.",
-        "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen.",
-        "Erreichbar über das nationale Straßen- und Flussnetz entlang des Nils.",
-        "Verbunden mit dem Erbe der antiken nubischen Königreiche von Kusch und Meroe.",
-        "Spielt eine Rolle in der lokalen Wirtschaft, Landwirtschaft und Kultur.",
-        "Repräsentativ für die Vielfalt der sudanesischen Landschaft zwischen Rotem Meer und Sahel.",
-        "Bedeutendes Element des sudanesischen Kulturerbes.",
+        "Liegt im westafrikanischen Binnenstaat Niger.",
+        "Region geprägt vom Niger-Fluss, der Sahara und der Sahelzone.",
+        "Klima überwiegend heiß und trocken, mit ausgedehnten Wüstenflächen wie der Ténéré.",
+        "Erreichbar über das nationale Straßennetz oder den Wasserweg des Niger-Flusses.",
+        "Verbunden mit dem Erbe der Tuareg, Hausa, Songhai und Fulbe.",
+        "Spielt eine Rolle in der lokalen Wirtschaft, Landwirtschaft und Viehzucht.",
+        "Repräsentativ für die Vielfalt der nigrischen Landschaft zwischen Aïr-Gebirge und Sahel.",
+        "Bedeutendes Element des nigrischen Kulturerbes.",
+        "Niger ist reich an Uran- und Erdölvorkommen.",
+        "Hauptstadt des Landes ist Niamey am Niger-Fluss.",
     ],
     "hu": [
-        "Az északkelet-afrikai Szudán területén fekszik.",
-        "A régiót a Nílus és a Núbiai-sivatag határozza meg.",
-        "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal.",
-        "Az ország közúthálózatán és a Nílus menti vízi útvonalakon érhető el.",
-        "Kapcsolódik az ősi núbiai Kus és Meroé királyságok örökségéhez.",
-        "Szerepet játszik a helyi gazdaságban, mezőgazdaságban és kultúrában.",
-        "A szudáni táj sokszínűségét képviseli a Vörös-tenger és a Szahel között.",
-        "A szudáni kulturális örökség fontos eleme.",
+        "A nyugat-afrikai, tengerparttal nem rendelkező Niger területén fekszik.",
+        "A régiót a Niger-folyó, a Szahara és a Szahel-zóna határozza meg.",
+        "Éghajlata többségében forró és száraz, kiterjedt sivatagi területekkel, mint a Ténéré.",
+        "Az ország közúthálózatán vagy a Niger-folyó vízi útvonalán érhető el.",
+        "Kapcsolódik a tuareg, hausza, szongáj és fulbe népek örökségéhez.",
+        "Szerepet játszik a helyi gazdaságban, mezőgazdaságban és állattenyésztésben.",
+        "A nigeri táj sokszínűségét képviseli az Aïr-hegység és a Szahel között.",
+        "A nigeri kulturális örökség fontos eleme.",
+        "Niger gazdag urán- és kőolajkészletekben.",
+        "Az ország fővárosa Niamey, a Niger-folyó partján.",
     ],
     "ro": [
-        "Este situat în statul nord-est african Sudan.",
-        "Regiunea este definită de Nil și de Deșertul Nubian.",
-        "Climatul este predominant cald și uscat, cu zone deșertice și sahelene.",
-        "Accesibil prin rețeaua națională de drumuri și pe căile fluviale ale Nilului.",
-        "Legat de moștenirea regatelor nubiene antice Kush și Meroë.",
-        "Joacă un rol în economia, agricultura și cultura locală.",
-        "Reprezentativ pentru diversitatea peisajului sudanez între Marea Roșie și Sahel.",
-        "Element important al patrimoniului cultural sudanez.",
+        "Este situat în statul vest-african fără ieșire la mare Niger.",
+        "Regiunea este definită de fluviul Niger, Sahara și zona saheliană.",
+        "Climatul este predominant cald și uscat, cu zone deșertice întinse precum Ténéré.",
+        "Accesibil prin rețeaua națională de drumuri sau pe calea fluvială a Nigerului.",
+        "Legat de moștenirea tuaregilor, hausa, songhai și fulani.",
+        "Joacă un rol în economia, agricultura și creșterea animalelor locale.",
+        "Reprezentativ pentru diversitatea peisajului nigerian între Munții Aïr și Sahel.",
+        "Element important al patrimoniului cultural nigerian.",
+        "Nigerul este bogat în zăcăminte de uraniu și petrol.",
+        "Capitala țării este Niamey, pe malul fluviului Niger.",
     ],
     "en": [
-        "Located in the Northeast African state of Sudan.",
-        "The region is shaped by the Nile and the Nubian Desert.",
-        "Climate is mostly hot and dry, with desert and Sahel zones.",
-        "Accessible via the national road network and Nile waterways.",
-        "Connected to the heritage of the ancient Nubian kingdoms of Kush and Meroe.",
-        "Plays a role in the local economy, agriculture and culture.",
-        "Representative of the diversity of the Sudanese landscape between the Red Sea and the Sahel.",
-        "An important element of Sudanese cultural heritage.",
+        "Located in the West African landlocked state of Niger.",
+        "The region is shaped by the Niger River, the Sahara and the Sahel zone.",
+        "Climate is mostly hot and dry, with extensive desert areas such as the Ténéré.",
+        "Accessible via the national road network or the Niger River waterway.",
+        "Connected to the heritage of the Tuareg, Hausa, Songhai and Fulani peoples.",
+        "Plays a role in the local economy, agriculture and livestock raising.",
+        "Representative of the diversity of the Nigerien landscape between the Aïr Mountains and the Sahel.",
+        "An important element of Nigerien cultural heritage.",
+        "Niger is rich in uranium and petroleum reserves.",
+        "The capital of the country is Niamey, on the banks of the Niger River.",
     ],
 }
 
@@ -623,7 +640,7 @@ def process_poi(poi_text: str) -> tuple[str, dict]:
         if not merged_desc[lang].strip():
             bd = (base_desc.get(lang) or "").strip()
             bf = base_facts.get(lang) or []
-            bn = (base_name.get(lang) or "").strip() or "Sudan"
+            bn = (base_name.get(lang) or "").strip() or "Niger"
             if bd or bf:
                 merged_desc[lang] = synth_description_advanced(lang, bn, bd, bf)
                 stats["added_desc"] += 1
@@ -695,8 +712,46 @@ def process_poi(poi_text: str) -> tuple[str, dict]:
     return new_text, stats
 
 
+def count_empty_fields(text: str) -> dict:
+    """Count empty descriptionAdvanced/factsAdvanced slots per language."""
+    _, spans, _ = split_pois(text)
+    counts = {"desc_empty": 0, "facts_empty": 0, "desc_total": 0, "facts_total": 0}
+    for s, e in spans:
+        poi_text = text[s:e]
+        ds = find_key_blocks(poi_text, "descriptionAdvanced")
+        fs = find_key_blocks(poi_text, "factsAdvanced")
+        if ds:
+            blocks = []
+            for ss, ee in ds:
+                bp = poi_text[ss:ee].index("{")
+                blocks.append(poi_text[ss:ee][bp:])
+            merged = merge_string_blocks(blocks)
+            for lang in LANGS:
+                counts["desc_total"] += 1
+                if not merged[lang].strip():
+                    counts["desc_empty"] += 1
+        else:
+            counts["desc_total"] += len(LANGS)
+            counts["desc_empty"] += len(LANGS)
+        if fs:
+            blocks = []
+            for ss, ee in fs:
+                bp = poi_text[ss:ee].index("{")
+                blocks.append(poi_text[ss:ee][bp:])
+            merged = merge_array_blocks(blocks)
+            for lang in LANGS:
+                counts["facts_total"] += 1
+                if not merged[lang]:
+                    counts["facts_empty"] += 1
+        else:
+            counts["facts_total"] += len(LANGS)
+            counts["facts_empty"] += len(LANGS)
+    return counts
+
+
 def process_file(path: Path) -> dict:
     text = path.read_text(encoding="utf-8")
+    pre = count_empty_fields(text)
     header, spans, footer = split_pois(text)
     # rebuild from end to start to keep indices valid
     new_pois: list[str] = []
@@ -722,6 +777,13 @@ def process_file(path: Path) -> dict:
     # footer starts with ']' (the closing). Insert "\n" before "]" if not already.
     out = header + "\n" + body_indented + "\n" + footer
     path.write_text(out, encoding="utf-8", newline="\n")
+    post = count_empty_fields(out)
+    total_stats["pre_desc_empty"] = pre["desc_empty"]
+    total_stats["pre_facts_empty"] = pre["facts_empty"]
+    total_stats["post_desc_empty"] = post["desc_empty"]
+    total_stats["post_facts_empty"] = post["facts_empty"]
+    total_stats["desc_total"] = pre["desc_total"]
+    total_stats["facts_total"] = pre["facts_total"]
     return total_stats
 
 
@@ -735,6 +797,8 @@ def main() -> int:
         print(f"Processing {fname} ...")
         st = process_file(p)
         print(f"  POIs={st['pois']} merged={st['merged']} added_desc={st['added_desc']} added_facts={st['added_facts']} synth_lang={st['synth_lang']}")
+        print(f"  desc empty: {st['pre_desc_empty']}/{st['desc_total']} -> {st['post_desc_empty']}/{st['desc_total']}")
+        print(f"  facts empty: {st['pre_facts_empty']}/{st['facts_total']} -> {st['post_facts_empty']}/{st['facts_total']}")
         for k, v in st.items():
             grand[k] = grand.get(k, 0) + v
     print("---")

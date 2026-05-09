@@ -1,0 +1,1187 @@
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(80,10): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(86,10): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(86,48): error TS1005: ',' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(86,49): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(89,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(90,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(91,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(92,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(92,28): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(92,41): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(92,54): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(92,65): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(95,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(96,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(97,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(98,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(99,954): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(99,998): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(99,1827): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(99,2576): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(100,583): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(100,649): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(100,1103): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(101,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(104,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(105,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(106,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(107,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(108,46): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(108,47): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(111,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(112,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(113,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(114,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(114,32): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(114,49): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(114,66): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(114,81): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(117,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(118,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(119,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(120,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(121,901): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(121,949): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(121,1775): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(121,2490): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(122,525): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(122,591): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(122,1040): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(123,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(126,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(127,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(128,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(129,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(130,50): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(130,51): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(133,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(134,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(135,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(136,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(136,27): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(136,39): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(136,51): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(136,61): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(139,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(140,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(141,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(142,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(143,928): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(143,971): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(143,1749): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(143,2485): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(144,571): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(144,637): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(144,1070): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(145,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(148,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(149,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(150,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(151,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(152,45): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(152,46): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(155,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(156,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(157,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(158,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(158,37): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(158,59): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(158,81): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(158,101): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(161,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(162,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(163,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(164,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(165,1004): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(165,1048): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(165,1845): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(165,2570): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(166,544): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(166,610): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(166,1090): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(167,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(170,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(171,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(172,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(173,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(174,55): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(174,56): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(177,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(178,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(179,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(180,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(180,34): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(180,53): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(180,72): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(180,89): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(183,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(184,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(185,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(186,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(187,1011): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(187,1061): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(187,1868): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(187,2601): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(188,534): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(188,600): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(188,1001): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(189,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(192,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(193,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(194,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(195,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(196,52): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(196,53): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(199,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(200,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(201,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(202,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(202,30): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(202,45): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(202,60): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(202,73): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(205,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(206,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(207,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(208,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(209,941): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(209,987): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(209,1787): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(209,2507): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(210,566): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(210,632): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(210,1080): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(211,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(214,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(215,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(216,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(217,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(218,48): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(218,49): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(221,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(222,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(223,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(224,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(224,28): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(224,41): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(224,54): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(224,65): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(227,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(228,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(229,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(230,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(231,982): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(231,1026): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(231,1839): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(231,2533): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(232,516): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(232,582): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(232,1027): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(233,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(236,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(237,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(238,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(239,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(240,46): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(240,47): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(243,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(244,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(245,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(246,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(246,29): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(246,43): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(246,57): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(246,69): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(249,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(250,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(251,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(252,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(253,1002): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(253,1047): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(253,1891): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(253,2638): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(254,593): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(254,659): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(254,1088): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(255,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(258,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(259,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(260,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(261,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(262,47): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(262,48): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(265,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(266,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(267,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(268,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(268,29): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(268,43): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(268,57): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(268,69): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(271,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(272,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(273,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(274,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(275,1009): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(275,1054): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(275,1875): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(275,2600): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(276,560): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(276,626): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(276,1095): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(277,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(280,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(281,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(282,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(283,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(284,47): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(284,48): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(287,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(288,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(289,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(290,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(290,29): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(290,43): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(290,57): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(290,69): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(293,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(294,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(295,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(296,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(297,893): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(297,938): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(297,1742): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(297,2500): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(298,549): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(298,615): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(298,1055): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(299,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(302,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(303,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(304,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(306,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(306,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(309,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(310,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(311,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(312,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(312,28): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(312,41): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(312,54): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(312,65): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(315,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(316,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(317,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(318,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(319,965): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(319,1009): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(319,1808): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(319,2556): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(320,564): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(320,630): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(320,1100): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(321,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(324,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(325,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(326,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(327,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(328,46): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(328,47): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(331,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(332,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(333,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(334,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(334,30): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(334,45): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(334,60): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(334,73): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(337,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(338,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(339,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(340,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(341,1000): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(341,1046): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(341,1807): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(341,2530): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(342,554): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(342,620): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(342,1052): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(343,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(346,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(347,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(348,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(350,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(350,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(353,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(354,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(355,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(356,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(356,34): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(356,53): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(356,72): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(356,89): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(359,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(360,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(361,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(362,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(363,934): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(363,978): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(363,1758): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(363,2486): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(364,522): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(364,588): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(364,1018): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(365,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(368,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(369,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(370,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(372,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(372,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(375,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(376,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(377,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(378,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(378,30): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(378,45): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(378,60): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(378,73): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(381,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(382,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(383,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(384,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(385,949): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(385,995): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(385,1759): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(385,2496): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(386,480): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(386,546): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(386,1022): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(387,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(390,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(391,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(392,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(393,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(394,48): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(394,49): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(397,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(398,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(399,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(400,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(400,27): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(400,39): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(400,51): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(400,61): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(403,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(404,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(405,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(406,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(407,984): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(407,1027): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(407,1812): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(407,2525): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(408,502): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(408,568): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(408,1019): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(409,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(412,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(413,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(414,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(415,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(416,45): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(416,46): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(419,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(420,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(421,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(422,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(422,30): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(422,45): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(422,60): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(422,73): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(425,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(426,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(427,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(428,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(429,951): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(429,997): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(429,1764): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(429,2403): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(430,529): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(430,595): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(430,1078): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(431,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(434,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(435,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(436,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(438,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(438,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(441,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(442,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(443,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(444,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(444,28): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(444,41): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(444,54): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(444,65): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(447,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(448,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(449,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(450,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(451,1005): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(451,1049): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(451,1841): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(451,2562): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(452,498): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(452,564): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(452,1064): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(453,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(456,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(457,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(458,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(459,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(460,46): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(460,47): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(463,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(464,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(465,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(466,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(466,30): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(466,45): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(466,60): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(466,73): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(469,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(470,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(471,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(472,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(473,962): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(473,1008): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(473,1752): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(473,2487): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(474,482): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(474,548): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(474,1001): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(475,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(478,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(479,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(480,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(482,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(482,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(485,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(486,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(487,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(488,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(488,30): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(488,45): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(488,60): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(488,73): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(491,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(492,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(493,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(494,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(497,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(498,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(499,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(500,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(503,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(504,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(505,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(506,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(509,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(510,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(511,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(512,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(512,52): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(515,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(516,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(517,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(518,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(518,32): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(518,49): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(518,66): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(518,81): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(521,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(522,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(523,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(524,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(525,902): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(525,950): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(525,1672): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(525,2391): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(526,543): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(526,609): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(526,1059): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(527,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(530,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(531,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(532,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(534,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(534,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(537,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(538,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(539,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(540,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(540,29): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(540,43): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(540,57): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(540,69): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(543,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(544,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(545,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(546,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(547,891): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(547,936): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(547,1731): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(547,2413): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(548,489): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(548,555): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(548,1069): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(549,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(552,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(553,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(554,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(555,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(556,47): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(556,48): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(559,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(560,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(561,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(562,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(562,29): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(562,43): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(562,57): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(562,69): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(565,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(566,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(567,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(568,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(569,927): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(569,972): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(569,1765): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(569,2480): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(570,532): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(570,598): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(570,1082): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(571,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(574,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(575,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(576,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(577,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(578,47): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(578,48): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(581,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(582,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(583,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(584,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(584,31): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(584,47): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(584,63): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(584,77): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(587,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(588,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(589,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(590,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(591,913): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(591,960): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(591,1749): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(591,2477): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(592,517): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(592,583): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(592,1087): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(593,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(596,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(597,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(598,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(599,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(600,49): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(600,50): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(603,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(604,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(605,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(606,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(606,30): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(606,45): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(606,60): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(606,73): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(609,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(610,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(611,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(612,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(613,940): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(613,986): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(613,1800): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(613,2499): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(614,557): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(614,623): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(614,1086): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(615,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(618,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(619,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(620,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(621,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(622,48): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(622,49): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(625,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(626,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(627,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(628,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(628,33): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(628,51): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(628,69): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(628,85): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(631,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(632,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(633,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(634,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(635,924): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(635,973): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(635,1751): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(635,2441): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(636,543): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(636,609): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(636,1092): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(637,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(640,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(641,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(642,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(643,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(644,51): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(644,52): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(647,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(648,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(649,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(650,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(650,32): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(650,49): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(650,66): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(650,81): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(653,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(654,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(655,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(656,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(657,998): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(657,1046): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(657,1811): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(657,2515): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(658,518): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(658,584): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(658,1035): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(659,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(662,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(663,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(664,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(665,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(666,50): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(666,51): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(669,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(670,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(671,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(672,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(672,34): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(672,53): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(672,72): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(672,89): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(675,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(676,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(677,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(678,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(679,887): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(679,931): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(679,1655): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(679,2371): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(680,545): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(680,611): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(680,1073): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(681,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(684,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(685,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(686,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(687,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(688,52): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(688,53): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(691,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(692,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(693,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(694,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(694,28): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(694,41): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(694,54): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(694,65): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(697,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(698,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(699,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(700,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(701,980): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(701,1024): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(701,1772): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(701,2475): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(702,507): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(702,573): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(702,1044): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(703,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(706,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(707,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(708,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(709,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(710,46): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(710,47): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(713,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(714,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(715,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(716,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(716,32): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(716,49): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(716,66): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(716,81): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(719,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(720,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(721,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(722,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(723,920): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(723,968): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(723,1710): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(723,2404): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(724,533): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(724,599): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(724,1010): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(725,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(728,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(729,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(730,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(732,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(732,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(735,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(736,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(737,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(738,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(738,31): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(738,47): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(738,63): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(738,77): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(741,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(742,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(743,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(744,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(745,974): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(745,1021): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(745,1763): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(745,2486): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(746,533): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(746,599): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(746,1032): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(747,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(750,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(751,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(752,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(754,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(754,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(757,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(758,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(759,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(760,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(760,29): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(760,43): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(760,57): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(760,69): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(763,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(764,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(765,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(766,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(767,977): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(767,1022): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(767,1754): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(767,2470): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(768,496): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(768,562): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(768,1016): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(769,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(772,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(773,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(774,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(775,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(776,47): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(776,48): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(779,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(780,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(781,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(782,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(782,35): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(782,55): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(782,75): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(782,93): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(785,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(786,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(787,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(788,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(789,913): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(789,958): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(789,1728): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(789,2454): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(790,513): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(790,579): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(790,1021): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(791,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(794,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(795,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(796,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(798,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(798,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(801,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(802,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(803,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(804,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(804,29): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(804,43): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(804,57): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(804,69): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(807,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(808,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(809,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(810,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(811,947): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(811,992): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(811,1749): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(811,2470): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(812,517): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(812,583): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(812,1075): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(813,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(816,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(817,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(818,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(820,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(820,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(823,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(824,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(825,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(826,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(826,27): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(826,39): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(826,51): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(826,61): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(829,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(830,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(831,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(832,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(833,895): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(833,938): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(833,1717): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(833,2424): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(834,537): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(834,603): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(834,1058): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(835,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(838,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(839,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(840,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(841,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(842,45): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(842,46): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(845,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(846,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(847,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(848,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(848,35): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(848,55): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(848,75): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(848,93): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(851,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(852,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(853,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(854,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(855,883): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(855,928): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(855,1721): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(855,2424): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(856,502): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(856,568): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(856,1061): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(857,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(860,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(861,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(862,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(863,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(864,53): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(864,54): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(867,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(868,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(869,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(870,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(870,30): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(870,45): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(870,60): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(870,73): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(873,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(874,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(875,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(876,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(877,929): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(877,975): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(877,1759): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(877,2507): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(878,490): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(878,556): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(878,1018): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(879,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(882,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(883,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(884,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(885,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(886,48): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(886,49): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(889,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(890,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(891,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(892,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(892,35): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(892,55): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(892,75): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(892,93): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(895,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(896,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(897,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(898,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(899,946): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(899,988): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(899,1754): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(899,2468): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(900,511): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(900,577): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(900,1063): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(901,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(904,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(905,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(906,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(907,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(908,53): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(908,54): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(911,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(912,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(913,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(914,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(914,35): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(914,55): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(914,75): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(914,93): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(917,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(918,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(919,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(920,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(921,888): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(921,930): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(921,1675): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(921,2444): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(922,516): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(922,582): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(922,1057): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(923,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(926,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(927,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(928,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(929,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(930,53): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(930,54): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(933,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(934,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(935,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(936,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(936,31): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(936,47): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(936,63): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(936,77): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(939,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(940,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(941,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(942,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(943,930): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(943,972): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(943,1769): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(943,2530): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(944,539): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(944,605): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(944,1090): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(945,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(948,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(949,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(950,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(951,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(952,49): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(952,50): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(955,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(956,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(957,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(958,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(958,34): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(958,53): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(958,72): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(958,89): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(961,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(962,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(963,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(964,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(965,933): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(965,977): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(965,1726): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(965,2435): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(966,555): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(966,621): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(966,1111): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(967,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(970,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(971,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(972,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(973,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(974,52): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(974,53): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(977,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(978,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(979,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(980,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(980,30): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(980,45): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(980,60): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(980,73): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(983,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(984,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(985,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(986,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(987,920): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(987,966): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(987,1776): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(987,2494): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(988,524): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(988,590): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(988,1071): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(989,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(992,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(993,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(994,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(995,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(996,48): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(996,49): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(999,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1000,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1001,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1002,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1002,31): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1002,47): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1002,63): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1002,77): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1005,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1006,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1007,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1008,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1009,940): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1009,987): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1009,1790): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1009,2488): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1010,516): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1010,582): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1010,1049): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1011,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1014,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1015,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1016,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1017,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1018,49): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1018,50): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1021,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1022,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1023,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1024,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1024,30): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1024,45): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1024,60): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1024,73): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1027,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1028,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1029,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1030,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1031,928): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1031,974): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1031,1763): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1031,2451): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1032,547): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1032,613): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1032,1091): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1033,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1036,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1037,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1038,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1040,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1040,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1043,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1044,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1045,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1046,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1046,28): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1046,41): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1046,54): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1046,65): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1049,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1050,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1051,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1052,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1053,937): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1053,981): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1053,1761): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1053,2455): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1054,530): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1054,596): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1054,1077): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1055,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1058,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1059,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1060,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1061,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1062,46): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1062,47): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1065,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1066,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1067,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1068,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1068,27): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1068,39): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1068,51): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1068,61): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1071,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1072,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1073,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1074,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1075,925): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1075,968): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1075,1676): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1075,2373): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1076,532): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1076,598): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1076,1063): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1077,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1080,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1081,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1082,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1083,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1084,45): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1084,46): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1087,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1088,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1089,11): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1090,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1090,33): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1090,51): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1090,69): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1090,85): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1093,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1094,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1095,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1096,6): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1097,958): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1097,1007): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1097,1814): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1097,2555): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1098,546): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1098,612): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1098,1100): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1099,4): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1102,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1103,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1104,9): error TS1005: ';' expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1106,3): error TS1128: Declaration or statement expected.
+lib/visualLab/data/poiExtraGambiaCitiesV2.ts(1107,1): error TS1128: Declaration or statement expected.

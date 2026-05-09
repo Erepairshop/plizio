@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "darin-valley-relief-v2",
+      "descriptionAdvanced": "Das Darin-Tal repräsentiert eine tief eingeschnittene, charakteristische Talsenke innerhalb des nord-somalischen Berglandes. Diese geologische Formation wurde über Jahrmillionen durch die erosive Kraft kurzzeitiger, aber heftiger Niederschläge geformt, die in den Sommermonaten das ansonsten trockene Gebirgsrelief prägen. Die tiefere Lage bietet einen signifikanten Schutz vor den kontinuierlich wehenden, austrocknenden Winden der umliegenden Hochebenen. Durch dieses geschützte Mikroklima hat sich in der Talsohle ein spezieller Vegetationsraum entwickelt, der eine höhere Dichte an xerophytischen Pflanzen aufweist als die exponierten Kämme der Umgebung.",
+      "factsAdvanced": [
+        "Tief eingeschnittene Talsenke im nördlichen Bergland.",
+        "Geformt durch intensive, zeitlich begrenzte Wassererosion.",
+        "Bietet natürlichen Schutz vor starken, austrocknenden Winden.",
+        "Entwickelt ein spezielles Mikroklima in der Talsohle.",
+        "Höhere Vegetationsdichte als auf den umliegenden Kämmen.",
+        "Typisches Beispiel für wüstennahe Erosionsformen.",
+        "Wichtiger Rückzugsort für lokale Flora."
+      ]
+    },
+    {
+      "id": "gacan-libaah-summit-relief-v2",
+      "descriptionAdvanced": "Der Gacan-Libaah-Gipfel ragt als prominente topografische Landmarke aus dem Golis-Gebirgsmassiv hervor. Er stellt nicht nur einen geografischen Orientierungspunkt dar, sondern ist aufgrund seiner exponierten Lage auch ein klimatischer Schlüsselpunkt. Durch die Hebung der feuchten Luftmassen des Indischen Ozeans fungiert der Gipfelbereich als natürlicher Kondensationspunkt, was zu häufigeren Nebelbildungen und Niederschlägen führt. Diese topografische Besonderheit begünstigt die Existenz von Waldflächen in einer ansonsten ariden Gebirgsregion und dient als strategisch wichtiger Beobachtungspunkt über die nördlichen Küstenebenen.",
+      "factsAdvanced": [
+        "Prominente topografische Erhebung im Golis-Massiv.",
+        "Dient als natürlicher Kondensationspunkt für Feuchtigkeit.",
+        "Bekannt für seine inselartigen, dichten Waldformationen.",
+        "Strategisch wichtige Plattform mit weitem Sichtfeld.",
+        "Klimatisch begünstigt durch häufige Nebelbildung.",
+        "Wichtiger ökologischer Rückzugsort in der Gebirgsregion.",
+        "Geografische Landmarke zwischen Gebirge und Küste."
+      ]
+    },
+    {
+      "id": "xaysimo-highlands-relief-v2",
+      "descriptionAdvanced": "Das Xaysimo-Hochland umfasst eine weitläufige, ökologisch wertvolle Wald- und Hochebenenlandschaft im nördlichen Somalia. Die Region ist durch ein plateauartiges Relief geprägt, das sich durch seine relative Feuchtigkeit von der umliegenden Halbwüste abhebt. Geologisch bestehen weite Teile aus verwitterten Gesteinsformationen, die fruchtbare, wenn auch flache Bodenbedingungen bieten. Diese Kombination aus topografischer Lage und Bodenbeschaffenheit ermöglicht das Vorkommen seltener Wacholderbestände, die für die somalische Gebirgsökologie von herausragender Bedeutung sind und die landschaftliche Einzigartigkeit dieses Gebietes maßgeblich definieren.",
+      "factsAdvanced": [
+        "Weitläufiges, plateauartiges Hochlandrelief.",
+        "Bekannt für seltene und geschützte Wacholderbestände.",
+        "Deutlich höhere Feuchtigkeit als die umliegende Halbwüste.",
+        "Relativ fruchtbare Bodenbedingungen durch Verwitterung.",
+        "Wichtige ökologische Zone der somalischen Hochlandflora.",
+        "Landschaftlich geprägt durch bewaldete Plateaus.",
+        "Topografischer Übergang zwischen Hochgebirge und Ebene."
+      ]
+    },
+    {
+      "id": "juba-delta-plains-relief-v2",
+      "descriptionAdvanced": "Die Juba-Delta-Ebenen bilden eine komplexe, topografisch hochdynamische Zone an der Mündung des Jubba-Flusses in den Indischen Ozean. Diese Region ist durch ein flaches, von zahlreichen Flussarmen und Kanälen durchzogenes Relief gekennzeichnet, das kontinuierlich durch Sedimentablagerungen geformt wird. Die Bodenbeschaffenheit ist extrem nährstoffreich und besteht aus feinkörnigen Alluvialsedimenten, was diese Region zu einer idealen Zone für die landwirtschaftliche Nutzung, insbesondere für den Reisanbau, macht. Die ständige Interaktion zwischen fluvialem Abfluss und marinen Gezeiten schafft eine einzigartige, sich stetig verändernde Landschaftsstruktur.",
+      "factsAdvanced": [
+        "Dynamisches, flaches Mündungsrelief mit Sedimentablagerungen.",
+        "Durchzogen von einem komplexen Netzwerk an Flussarmen.",
+        "Extrem nährstoffreiche Alluvialböden prägen das Gebiet.",
+        "Ideale topografische Bedingungen für den Reisanbau.",
+        "Ständige Interaktion zwischen Flussfluss und marinen Gezeiten.",
+        "Landschaftlich hochdynamisch und in stetem Wandel.",
+        "Wichtiges wirtschaftliches Zentrum durch fruchtbare Böden."
+      ]
+    },
+    {
+      "id": "karkar-mountains-relief-v2",
+      "descriptionAdvanced": "Das Karkar-Gebirge erstreckt sich als ausgedehnte, trockene Bergregion im Nordosten Somalias. Diese Formation ist das Ergebnis intensiver erosiver Prozesse, die über lange Zeiträume ein zerklüftetes, arides Relief geschaffen haben. Aufgrund des Fehlens signifikanter Niederschläge ist das Gebirge weitgehend vegetationsarm und menschlich nur sehr spärlich besiedelt. Die geologische Struktur besteht primär aus freiliegenden Gesteinsschichten, die eine raue und monotone topografische Optik erzeugen. Das Karkar-Gebirge stellt somit eine Herausforderung für jegliche wirtschaftliche Nutzung dar und dient primär als unberührte, geologisch interessante Naturlandschaft.",
+      "factsAdvanced": [
+        "Ausgedehntes, trockenes Gebirgsrelief im Nordosten.",
+        "Geprägt durch tiefgreifende, langjährige Erosion.",
+        "Extrem aride und vegetationsarme Bedingungen.",
+        "Wenig bis gar keine menschliche Besiedlung vorhanden.",
+        "Geologisch durch freiliegende Gesteinsschichten dominiert.",
+        "Landschaftlich raues, zerklüftetes Profil.",
+        "Naturbelassene, unerschlossene Naturlandschaft."
+      ]
+    }
+  ]
+}

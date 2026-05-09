@@ -1,0 +1,269 @@
+{
+  "lang": "de",
+  "country": "iran",
+  "files": [
+    "lib/visualLab/data/poiExtraIranNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-damavand-nature-v2",
+      "descriptionAdvanced": "Der Dschamawand ist nicht nur ein beeindruckender Schichtvulkan, sondern auch das markanteste geologische Merkmal im Elburs-Gebirge. Mit einer majestätischen Höhe von 5609 Metern über dem Meeresspiegel ist er der höchste Gipfel Irans und des gesamten Nahen Ostens. Der Vulkan liegt etwa 66 Kilometer nordöstlich der Hauptstadt Teheran. Obwohl er derzeit als ruhend gilt, weisen Fumarolen in Gipfelnähe, die Schwefelgase ausstoßen, auf eine latente vulkanische Aktivität hin. Der Berg hat tiefe Wurzeln in der persischen Mythologie und Poesie und wird oft als Symbol für den iranischen Widerstand gegen Fremdherrschaft angesehen. Seine oberen Hänge sind während eines Großteils des Jahres schneebedeckt, was ihn zu einem beliebten, aber anspruchsvollen Ziel für Alpinisten macht. Die ersten dokumentierten Besteigungen fanden im späten 19. Jahrhundert statt. Der umliegende Nationalpark beherbergt zudem eine reiche Fauna, darunter das Armenische Mufflon und verschiedene Steinadlerarten.",
+      "factsAdvanced": [
+        "Erreicht eine maximale Höhe von 5609 Metern über dem Meeresspiegel.",
+        "Liegt ungefähr 66 Kilometer nordöstlich der iranischen Hauptstadt Teheran.",
+        "Der Vulkan gilt als ruhend, zeigt jedoch noch aktive Fumarolen.",
+        "Die erste dokumentierte Besteigung erfolgte im Jahr 1837 durch W. T. Thomson.",
+        "Der Berg ist ein zentrales Symbol in der klassischen persischen Poesie.",
+        "Auf den oberen Hängen findet man im Sommer Schwefelablagerungen.",
+        "Die Umgebung wurde 2008 zum nationalen Naturerbe Irans erklärt."
+      ]
+    },
+    {
+      "id": "lake-urmia-nature-v2",
+      "descriptionAdvanced": "Der Urmia-See im Nordwesten Irans war einst der größte See im Nahen Osten und der sechstgrößte Salzsee der Erde. In seinen besten Zeiten bedeckte das Gewässer eine Fläche von etwa 5200 Quadratkilometern und hatte eine maximale Tiefe von 16 Metern. Der See teilt sich auf die Provinzen West-Aserbaidschan und Ost-Aserbaidschan auf. Im Laufe der letzten Jahrzehnte hat der See aufgrund von Dürreperioden und intensiver landwirtschaftlicher Wassernutzung dramatisch an Wasservolumen verloren. Der hohe Salzgehalt des Wassers, der bis zu 340 Gramm pro Liter betragen kann, ermöglicht kein Fischleben, ist jedoch der ideale Lebensraum für Artemia, eine Salinenkrebsart. Diese Krebse dienen als Hauptnahrungsquelle für Tausende von Zugvögeln, darunter Flamingos und Pelikane, die hier während ihrer Wanderungen rasten. Im Seebecken existieren 102 kleine Inseln, von denen die Kabudan-Insel die größte ist.",
+      "factsAdvanced": [
+        "Bedeckte in der Vergangenheit eine Fläche von rund 5200 Quadratkilometern.",
+        "Der Salzgehalt des Wassers kann bis zu 340 Gramm pro Liter erreichen.",
+        "War historisch der sechstgrößte Salzwassersee auf dem Planeten Erde.",
+        "Beherbergt exakt 102 kleine Inseln innerhalb des gesamten Seebeckens.",
+        "Die maximale Wassertiefe lag in niederschlagsreichen Jahren bei 16 Metern.",
+        "Dient als wichtiger Rastplatz für Tausende von Rosaflamingos und Pelikanen.",
+        "Die Kabudan-Insel ist die größte Insel im gesamten Seengebiet."
+      ]
+    },
+    {
+      "id": "karun-river-nature-v2",
+      "descriptionAdvanced": "Der Karun-Fluss ist der längste und wasserreichste Fluss des Irans und misst eine Gesamtlänge von ungefähr 950 Kilometern. Er entspringt im Zardkuh-Gebirge in der Provinz Tschahār Mahāl und Bachtiyāri auf einer Höhe von über 4000 Metern. Von dort aus bahnt er sich seinen Weg durch die Zagros-Berge bis in die Ebenen der Provinz Chuzestan. Der Karun ist der einzige Fluss des Landes, der auf einer Strecke von etwa 190 Kilometern von der Mündung bis zur Stadt Ahvaz für größere Schiffe schiffbar ist. In der Antike bildete das fruchtbare Karun-Tal das Herzstück des elamischen Reiches. Der Fluss liefert heute wertvolles Wasser für weite landwirtschaftliche Flächen und speist mehrere große Wasserkraftwerke, darunter die Shahid-Abbaspour-Talsperre, die eine wichtige Rolle bei der Stromversorgung der Region spielt. Schließlich vereinigt sich der Karun mit dem Schatt al-Arab, bevor er in den Persischen Golf fließt.",
+      "factsAdvanced": [
+        "Besitzt eine geschätzte Gesamtlänge von ungefähr 950 Kilometern.",
+        "Entspringt im Zardkuh-Gebirge auf einer Höhe von über 4000 Metern.",
+        "Ist der einzige Fluss im Iran, der für große Schiffe schiffbar ist.",
+        "Die schiffbare Strecke erstreckt sich über 190 Kilometer bis nach Ahvaz.",
+        "Die Shahid-Abbaspour-Talsperre am Fluss liefert große Mengen an elektrischem Strom.",
+        "Das Flusstal war das historische Zentrum des antiken elamischen Reiches.",
+        "Mündet in den Schatt al-Arab in der Nähe der irakischen Grenze."
+      ]
+    },
+    {
+      "id": "golestan-national-park-nature-v2",
+      "descriptionAdvanced": "Der Golestan-Nationalpark, gegründet im Jahr 1957, ist das älteste ausgewiesene Naturschutzgebiet des Irans und erstreckt sich über eine Fläche von 918 Quadratkilometern. Er liegt im Nordosten des Landes, hauptsächlich in der Provinz Golestan, und bildet eine Übergangszone zwischen den feuchten kaspischen Wäldern und den trockenen Halbwüsten im Osten. Diese einzigartige geografische Lage führt zu einer außergewöhnlichen biologischen Vielfalt. Der Nationalpark beheimatet über 1300 Pflanzenarten und 69 Säugetierarten. Zu den bemerkenswertesten Bewohnern zählen der seltene Persische Leopard, der Syrische Braunbär und große Herden von Urial-Schafen. Das Gelände variiert stark und reicht von tiefen bewaldeten Tälern auf 400 Metern über dem Meeresspiegel bis hin zu kargen Berggipfeln von über 2800 Metern Höhe. Der Park wird durch eine wichtige Autobahn durchschnitten, was den Schutz der Wildtiere vor Verkehrsunfällen zu einer dauerhaften Herausforderung für Naturschützer macht.",
+      "factsAdvanced": [
+        "Wurde im Jahr 1957 als das erste offizielle Naturschutzgebiet Irans gegründet.",
+        "Umfasst eine gesamte Landfläche von exakt 918 Quadratkilometern.",
+        "Die Höhe des Parks variiert zwischen 400 und 2800 Metern über dem Meeresspiegel.",
+        "Beheimatet nachweislich mehr als 1300 verschiedene Pflanzenarten in seinen Grenzen.",
+        "Bietet einen natürlichen Lebensraum für mindestens 69 bekannte Säugetierarten.",
+        "Der Persische Leopard gehört zu den wichtigsten Raubtieren im Schutzgebiet.",
+        "Der Park liegt größtenteils in der nördlichen Provinz Golestan."
+      ]
+    },
+    {
+      "id": "hyrcanian-forests-nature-v2",
+      "descriptionAdvanced": "Die Hyrkanischen Wälder bilden ein einzigartiges Waldmassiv, das sich über 850 Kilometer entlang der südlichen Küste des Kaspischen Meeres erstreckt. Dieses weitläufige Ökosystem ist von immenser ökologischer Bedeutung, da die Wälder bereits seit 25 bis 50 Millionen Jahren existieren und die letzte Eiszeit überstanden haben. Sie decken Gebiete in den Provinzen Gilan, Mazandaran und Golestan ab und umfassen eine Fläche von fast 1,9 Millionen Hektar. Die Vegetation zeichnet sich durch feuchte Laubwälder aus, in denen Baumarten wie die Orientalische Buche, die Kastanienblättrige Eiche und der Eisenholzbaum dominieren. Im Jahr 2019 wurden bedeutende Teile dieser Wälder von der UNESCO in die Liste des Weltnaturerbes aufgenommen. Die Region ist ein Zufluchtsort für eine Vielzahl von Tierarten, darunter der seltene Persische Leopard. Die Niederschlagsmenge in diesen Wäldern kann in bestimmten Höhenlagen bis zu 2000 Millimeter pro Jahr erreichen, was ein dichtes und üppiges Pflanzenwachstum begünstigt.",
+      "factsAdvanced": [
+        "Das Waldgebiet erstreckt sich über eine Länge von etwa 850 Kilometern.",
+        "Die Wälder existieren durchgehend seit etwa 25 bis 50 Millionen Jahren.",
+        "Sie umfassen eine Gesamtfläche von fast 1,9 Millionen Hektar Land.",
+        "Wurden im Jahr 2019 offiziell zum UNESCO-Weltnaturerbe erklärt.",
+        "Die jährliche Niederschlagsmenge kann bis zu 2000 Millimeter betragen.",
+        "Die Orientalische Buche gehört zu den am weitesten verbreiteten Baumarten.",
+        "Das Gebiet ist ein wichtiger Lebensraum für den Persischen Leoparden."
+      ]
+    },
+    {
+      "id": "kavir-national-park-nature-v2",
+      "descriptionAdvanced": "Der Kavir-Nationalpark, gelegen im zentralen Iran, ist ein massives Schutzgebiet, das eine Fläche von etwa 4000 Quadratkilometern bedeckt. Er befindet sich am westlichen Rand der großen Salzwüste Dascht-e Kavir und gehört zu den Provinzen Semnan, Teheran, Ghom und Isfahan. Die Landschaft ist geprägt von trockenen Steppen, felsigen Bergketten und weiten Salztonebenen. Trotz der extrem rauen und wasserarmen Bedingungen beheimatet der Park eine erstaunlich vielfältige Fauna. Er ist besonders bekannt als einer der letzten Zufluchtsorte für den vom Aussterben bedrohten Asiatischen Geparden sowie für den Persischen Halbesel. Darüber hinaus finden sich hier Streifenhyänen, Wölfe und verschiedene Gazellenarten. Der Salzsee Namaksee liegt direkt an der Grenze des Nationalparks und trägt zur einzigartigen Ökologie bei. Das trockene Klima führt zu extremen Temperaturschwankungen zwischen Tag und Nacht, weshalb die meisten Säugetiere in den kühleren Dämmerungsstunden aktiv sind.",
+      "factsAdvanced": [
+        "Das Schutzgebiet umfasst eine Gesamtfläche von ungefähr 4000 Quadratkilometern.",
+        "Der Nationalpark liegt am westlichen Rand der Wüste Dascht-e Kavir.",
+        "Bietet einen lebenswichtigen Lebensraum für den seltenen Asiatischen Geparden.",
+        "Die Region erstreckt sich über Teile von vier verschiedenen iranischen Provinzen.",
+        "Der Namaksee befindet sich unmittelbar an der Grenze des Parks.",
+        "Temperaturschwankungen zwischen Tag und Nacht können extrem hoch ausfallen.",
+        "Ist ein wichtiger Zufluchtsort für den wilden Persischen Halbesel."
+      ]
+    },
+    {
+      "id": "zayanderud-river-nature-v2",
+      "descriptionAdvanced": "Der Zayandeh Rud ist der längste Fluss des zentraliranischen Plateaus und erstreckt sich über eine Länge von rund 400 Kilometern. Seine Quellen befinden sich im Zardkuh-Gebirge in der Provinz Tschahār Mahāl und Bachtiyāri. Von dort aus fließt er in östlicher Richtung, durchquert die historische Millionenstadt Isfahan und mündet schließlich im abflusslosen Gawchuni-See, einem Salzsumpf in der Wüste. Der Fluss hat eine immense historische Bedeutung, da er die Entwicklung landwirtschaftlicher Oasen und städtischer Zentren in einer ansonsten sehr trockenen Region ermöglichte. In Isfahan wird der Fluss von mehreren architektonisch bedeutsamen Bücken aus der Safawiden-Zeit überspannt, darunter die 33-Bögen-Brücke, Sio-se-Pol, und die Chadschu-Brücke, erbaut im 17. Jahrhundert. In den letzten Jahrzehnten hat der Zayandeh Rud jedoch dramatisch unter Wassermangel gelitten. Übermäßige Entnahme für die Landwirtschaft und langanhaltende Dürren führen dazu, dass das Flussbett in Isfahan oft monatelang komplett austrocknet.",
+      "factsAdvanced": [
+        "Erreicht eine Gesamtlänge von ungefähr 400 Kilometern auf dem Zentralplateau.",
+        "Entspringt im Zardkuh-Gebirge in einer Höhe von mehreren tausend Metern.",
+        "Mündet in den saisonalen Salzsumpf des abflusslosen Gawchuni-Sees.",
+        "Die historische Chadschu-Brücke über den Fluss wurde im 17. Jahrhundert erbaut.",
+        "Überspannt von der berühmten Sio-se-Pol-Brücke mit ihren 33 Bögen.",
+        "Übermäßige Wassernutzung führt in den Sommermonaten zur häufigen Austrocknung.",
+        "War historisch die wichtigste Wasserquelle für die Stadtentwicklung von Isfahan."
+      ]
+    },
+    {
+      "id": "mount-sabalan-nature-v2",
+      "descriptionAdvanced": "Der Sabalan ist ein massiver inaktiver Stratovulkan und mit 4811 Metern Höhe der dritthöchste Berg im Iran. Er liegt in der nordwestlichen Provinz Ardabil, nicht weit von der aserbaidschanischen Grenze entfernt. Das markanteste Merkmal des Sabalan ist der spektakuläre, permanente Kratersee auf seinem Gipfel, der die meiste Zeit des Jahres zugefroren ist und nur in den späten Sommermonaten kurzzeitig auftaut. An den unteren Hängen des Vulkans, insbesondere in der Nähe der Stadt Sareyn, finden sich zahlreiche heiße Thermalquellen, die für ihre mineralhaltigen und therapeutischen Eigenschaften bekannt sind. Das Gebirgsmassiv des Sabalan spielt auch in der lokalen Kultur eine wichtige Rolle und wird von einigen zoroastrischen Traditionen als ein heiliger Ort angesehen. Im Sommer zieht die Region viele Nomaden an, die die fruchtbaren, hochgelegenen Weideflächen für ihre Schaf- und Ziegenherden nutzen.",
+      "factsAdvanced": [
+        "Erreicht eine Höhe von exakt 4811 Metern über dem Meeresspiegel.",
+        "Ist der dritthöchste Berggipfel innerhalb der Staatsgrenzen Irans.",
+        "Besitzt einen permanenten Kratersee, der fast ganzjährig mit Eis bedeckt ist.",
+        "Zahlreiche mineralhaltige Thermalquellen entspringen an den Flanken des Berges.",
+        "Liegt vornehmlich im Gebiet der nordwestlichen Provinz Ardabil.",
+        "Wird in lokalen zoroastrischen Traditionen oft als heiliger Berg verehrt.",
+        "Die Sommerweiden am Berg werden von traditionellen Nomadenstämmen genutzt."
+      ]
+    },
+    {
+      "id": "zarivar-lake-nature-v2",
+      "descriptionAdvanced": "Der Zariwar-See ist ein wunderschöner, natürlich entstandener Süßwassersee in der bergigen Provinz Kurdistan im Westen des Irans. Er liegt auf einer Höhe von 1285 Metern über dem Meeresspiegel und ist nur wenige Kilometer von der Stadt Marivan entfernt. Der See hat eine Länge von etwa 5 Kilometern und eine maximale Breite von 1,6 Kilometern. Das Besondere an diesem See ist, dass er über keinen oberirdischen Zufluss verfügt; stattdessen wird er vollständig durch zahlreiche Quellen am Grund des Seebeckens sowie durch Niederschläge aus den umliegenden Bergen gespeist. Die maximale Tiefe beträgt rund 5,5 Meter. Das Gewässer und die angrenzenden Feuchtgebiete sind von dichten Schilfbeständen und alten Eichenwäldern umgeben. Sie bieten einen perfekten Lebensraum für zahlreiche Fischarten und dienen als wichtiges Rastgebiet für Zugvögel. In strengen Wintern friert die Oberfläche des Sees häufig komplett zu, was ihn zu einem lokalen Zentrum für Eislaufen macht.",
+      "factsAdvanced": [
+        "Befindet sich auf einer Höhe von 1285 Metern über dem Meeresspiegel.",
+        "Der See besitzt eine Länge von etwa 5 Kilometern in Nord-Süd-Richtung.",
+        "Erreicht eine maximale Wassertiefe von ungefähr 5,5 Metern.",
+        "Wird ausschließlich von unterirdischen Quellen und direktem Niederschlag gespeist.",
+        "Die Uferbereiche sind dicht mit Schilf und angrenzenden Eichenwäldern bewachsen.",
+        "Liegt in unmittelbarer Nähe zur kurdischen Stadt Marivan im Westiran.",
+        "Dient in den kalten Wintermonaten oft als natürliche, zugefrorene Eisfläche."
+      ]
+    },
+    {
+      "id": "khar-turan-national-park-nature-v2",
+      "descriptionAdvanced": "Der Turan-Nationalpark, oft auch als Khar-Turan bezeichnet, ist das zweitgrößte zusammenhängende Naturschutzgebiet Irans und ein von der UNESCO anerkanntes Biosphärenreservat. Mit einer massiven Ausdehnung von über 14.000 Quadratkilometern erstreckt sich der Park im Südosten der Provinz Semnan. Die Landschaft ist eine extreme Wüsten- und Halbwüstenregion mit ausgedehnten Salzpfannen, Sanddünen und kargen Gebirgszügen. Diese abgelegene und unzugängliche Region hat sich als ein entscheidender Zufluchtsort für stark bedrohte Tierarten erwiesen. Turan beheimatet die größte noch verbliebene Population des Asiatischen Geparden, von dem es weltweit nur noch wenige Dutzend Exemplare gibt. Darüber hinaus leben hier bedeutende Herden des Persischen Halbesels (Onager) sowie Kropfgazellen und Steinadler. Die Niederschlagsmenge ist extrem gering und überschreitet selten 150 Millimeter im Jahr. Das raue Klima mit heißen Sommern und eiskalten Wintern macht das Gebiet für menschliche Besiedlung weitgehend unattraktiv, was den Tieren zugutekommt.",
+      "factsAdvanced": [
+        "Das Reservat umfasst eine gewaltige Landfläche von über 14.000 Quadratkilometern.",
+        "Wurde von der UNESCO offiziell als wichtiges Biosphärenreservat anerkannt.",
+        "Der jährliche Niederschlag in der Region liegt oft bei unter 150 Millimetern.",
+        "Beheimatet die größte bekannte Population des stark gefährdeten Asiatischen Geparden.",
+        "Ist ein wichtiger Lebensraum für große Herden des Persischen Halbesels.",
+        "Liegt im südöstlichen Teil der Provinz Semnan am Rande der Wüste.",
+        "Die Landschaftsstruktur wird von weiten Salzpfannen und trockenen Sanddünen dominiert."
+      ]
+    },
+    {
+      "id": "mount-tochal-nature-v2",
+      "descriptionAdvanced": "Der Totschāl ist ein markanter Berggipfel im Elburs-Gebirge, der sich unmittelbar nördlich der Millionenmetropole Teheran erhebt. Mit einer Höhe von 3964 Metern bildet er eine natürliche Barriere, die das Stadtbild der iranischen Hauptstadt dominiert. Der Südhang des Berges ist ein äußerst beliebtes Naherholungsgebiet für die Einwohner Teherans. Eine der längsten Gondelbahnen der Welt, die Totschāl-Seilbahn, transportiert Besucher von der Basisstation in Velenjak auf etwa 1900 Metern über mehrere Stationen bis fast zum Gipfel auf 3740 Metern Höhe. Die gesamte Fahrt erstreckt sich über eine Strecke von knapp 7,5 Kilometern. Oben auf dem Berg befinden sich ein renommiertes Skigebiet, das aufgrund seiner Höhe von Dezember bis in den April hinein schneesicher ist, sowie ein Berghotel, das zu den höchstgelegenen der Welt gehört. Kletterer und Wanderer nutzen zahlreiche Pfade, wie den Darband- oder Darabad-Weg, um den Gipfel zu Fuß zu erreichen.",
+      "factsAdvanced": [
+        "Der Hauptgipfel erreicht eine exakte Höhe von 3964 Metern.",
+        "Die Seilbahn überwindet eine Fahrstrecke von fast 7,5 Kilometern.",
+        "Die Bergstation der Seilbahn liegt auf einer Höhe von 3740 Metern.",
+        "Das Skigebiet bietet meist von Dezember bis April ausreichend Schnee.",
+        "Startpunkt vieler Bergtouren ist das Viertel Velenjak auf 1900 Metern Höhe.",
+        "Auf dem Berg befindet sich eines der höchstgelegenen Hotels der Welt.",
+        "Die Südhänge des Berges grenzen direkt an die nördlichen Stadtteile Teherans."
+      ]
+    },
+    {
+      "id": "lar-national-park-nature-v2",
+      "descriptionAdvanced": "Der Lar-Nationalpark ist ein 73.500 Hektar großes Naturschutzgebiet in den zentralen Provinzen Mazandaran und Teheran, gelegen am Fuße des mächtigen Dschamawand. Dieses hochgelegene Tal wurde 1976 zum Nationalpark erklärt und 1982 zu einem streng geschützten Gebiet heraufgestuft. Der Park ist besonders im späten Frühling berühmt, wenn die weitläufigen Hänge von unzähligen roten Mohnblumen und Wildkräutern bedeckt sind. Im Zentrum des Parks liegt der große Lar-Stausee, der durch den Lar-Staudamm gebildet wird und eine wesentliche Trinkwasserquelle für die Stadt Teheran darstellt. Das saubere, kalte Wasser des Flusses und des Sees ist Heimat der seltenen Bachforelle, die Angler aus dem ganzen Land anzieht. Das Gelände ist extrem bergig, und das raue Klima sorgt dafür, dass die Zugangsstraßen von Herbst bis ins späte Frühjahr durch starken Schneefall meist unpassierbar bleiben. Raubtiere wie Braunbären, Wölfe und Persische Leoparden durchstreifen das unberührte Gebiet.",
+      "factsAdvanced": [
+        "Das ausgewiesene Schutzgebiet umfasst eine Fläche von 73.500 Hektar.",
+        "Wurde im Jahr 1976 offiziell als Nationalpark Irans ausgewiesen.",
+        "Der Stausee liefert große Mengen Trinkwasser für die Millionenstadt Teheran.",
+        "Die Hänge sind im späten Frühling für ihre roten Wildmohnblumen bekannt.",
+        "Das kalte Bergwasser bietet den idealen Lebensraum für Bachforellen.",
+        "Die Zufahrtswege sind im Winter aufgrund von meterhohem Schnee meist gesperrt.",
+        "Der Park grenzt direkt an die südwestlichen Ausläufer des Dschamawand-Massivs."
+      ]
+    },
+    {
+      "id": "alimastan-forest-nature-v2",
+      "descriptionAdvanced": "Der Alimastan-Wald ist ein malerischer Bestandteil der ausgedehnten Hyrkanischen Wälder und befindet sich in der Provinz Mazandaran, unweit der Stadt Amol. Dieser dichte Laubwald liegt in höheren Lagen des Elburs-Gebirges und zeichnet sich durch ein auffällig kühles, oft nebliges Mikroklima aus. Besonders im Herbst verwandelt sich der Wald in ein spektakuläres Farbenmeer, wenn die Blätter der alten Eichen und Buchen in leuchtenden Gelb- und Rottönen erstrahlen. Ein bekannter Wanderweg führt die Besucher von etwa 1500 Metern Höhe hinauf bis zu einem Bergpass, von dem aus man bei klarem Wetter einen unvergesslichen Panoramablick auf den nahegelegenen Vulkan Dschamawand hat. Der Name des Waldes stammt von einer lokalen Wildpflanze namens \"Alima\", die im Frühjahr wächst und traditionell in der regionalen Küche verwendet wird. Wilde Pferde und verschiedene seltene Vogelarten sind häufige Bewohner dieses mystischen, nebelverhangenen Waldes, der ein populäres Fluchtziel vor der städtischen Hitze ist.",
+      "factsAdvanced": [
+        "Gehört zur Ökoregion der historischen Hyrkanischen Wälder im Nordiran.",
+        "Die typischen Wanderrouten starten auf einer Höhe von etwa 1500 Metern.",
+        "Befindet sich in der gebirgigen Provinz Mazandaran nahe der Stadt Amol.",
+        "Benannt nach der essbaren Wildpflanze Alima, die im Frühjahr wächst.",
+        "Bietet auf dem Bergkamm freie Sicht auf den Gipfel des Dschamawand.",
+        "Das Mikroklima sorgt oft für extrem dichten Nebel und kühle Temperaturen.",
+        "Im Herbst ist der Wald für seine intensive und farbenfrohe Laubfärbung berühmt."
+      ]
+    },
+    {
+      "id": "hara-forests-nature-v2",
+      "descriptionAdvanced": "Die Hara-Mangrovenwälder stellen ein außergewöhnliches marines Ökosystem an der Nordküste der Insel Qeschm im Persischen Golf dar. Mit einer Fläche von rund 20.000 Hektar sind sie das größte Mangrovengebiet im Nahen Osten und gehören zu einem UNESCO-Biosphärenreservat. Die dominierende Baumart, die graue Mangrove (Avicennia marina), wird im Iran zu Ehren des Universalgelehrten Avicenna als \"Hara\" bezeichnet. Diese widerstandsfähigen Bäume, deren Wurzeln drei bis sechs Meter tief ins Schlammbett ragen, haben die bemerkenswerte Fähigkeit, Meerwasser zu entsalzen und das verbleibende Süßwasser zu nutzen. Die Gezeiten des Persischen Golfs sorgen dafür, dass die Wälder bei Flut fast vollständig im Wasser verschwinden und bei Ebbe ihr komplexes Wurzelsystem offenbaren. Die Hara-Wälder sind ein kritischer Lebensraum für Biodiversität, dienen als sichere Kinderstube für viele Fischarten und beherbergen jährlich über 100 Arten von Zugvögeln, darunter große Reiherkolonien.",
+      "factsAdvanced": [
+        "Das geschützte Mangrovengebiet erstreckt sich über rund 20.000 Hektar.",
+        "Wurde in Anerkennung seiner ökologischen Bedeutung zum UNESCO-Biosphärenreservat erklärt.",
+        "Die Baumwurzeln reichen in der Regel drei bis sechs Meter in den Boden.",
+        "Dient als Rast- und Nistplatz für mehr als 100 verschiedene Zugvogelarten.",
+        "Die Mangrovenbäume haben die biologische Fähigkeit, Meerwasser zu entsalzen.",
+        "Bei Flut stehen die Bäume fast bis zur Krone unter Wasser.",
+        "Liegt vor der Nordküste der großen iranischen Insel Qeschm."
+      ]
+    },
+    {
+      "id": "sefid-rud-nature-v2",
+      "descriptionAdvanced": "Der Sefid-Rud, wörtlich übersetzt der \"Weiße Fluss\", ist der längste und wichtigste Fluss in der nördlichen iranischen Provinz Gilan und hat eine Länge von rund 670 Kilometern. Er entsteht durch den Zusammenfluss der Flüsse Qizil-Uzan und Schahrud in der Nähe der Stadt Mandschil. Von dort bahnt er sich gewaltig seinen Weg durch einen tiefen Durchbruch im Elburs-Gebirge, bevor er in die Küstenebene eintritt und in das Kaspische Meer mündet. Der Fluss ist berühmt für die enorme Menge an Sedimenten, die er mit sich führt, was ihm seine charakteristische weißliche bis schlammige Farbe verleiht. Der beim Durchbruch bei Mandschil errichtete Sefid-Rud-Staudamm bildet einen riesigen Stausee, der jährlich Hunderte von Megawatt Strom produziert und ein riesiges Netz von Bewässerungskanälen in der fruchtbaren Gilan-Ebene speist. Diese Gewässer sind entscheidend für den intensiven Reisanbau der Region. Historisch markierte der Fluss die Grenze zwischen verschiedenen alten persischen Fürstentümern.",
+      "factsAdvanced": [
+        "Der Flusslauf erstreckt sich über eine Gesamtlänge von rund 670 Kilometern.",
+        "Entsteht bei der Stadt Mandschil aus dem Zusammenfluss zweier großer Flüsse.",
+        "Führt eine enorme Sedimentlast, die dem Wasser die helle Farbe verleiht.",
+        "Der zugehörige Staudamm erzeugt große Mengen an elektrischer Energie.",
+        "Das Wasser des Flusses ist elementar für den Reisanbau in der Provinz Gilan.",
+        "Mündet nach dem Durchbruch durch das Gebirge direkt in das Kaspische Meer.",
+        "War in der persischen Geschichte oft eine natürliche Grenze zwischen Territorien."
+      ]
+    },
+    {
+      "id": "namak-lake-nature-v2",
+      "descriptionAdvanced": "Der Namak-See, dessen Name übersetzt \"Salzsee\" bedeutet, ist ein riesiger, weitgehend ausgetrockneter Salzsee in der großen zentraliranischen Dascht-e Kavir Wüste. Mit einer Fläche von etwa 1800 Quadratkilometern ist er ein beeindruckendes geologisches Überbleibsel eines prähistorischen Inlandsmeeres, das während der letzten Eiszeit weite Teile des zentralen Plateaus bedeckte. Der See liegt etwa 60 Kilometer östlich der Pilgerstadt Ghom in einer Höhe von knapp 800 Metern. Das extrem aride Wüstenklima mit hohen Temperaturen und intensiver Sonneneinstrahlung sorgt dafür, dass der Zufluss aus dem Qom-Fluss schnell verdunstet. Was bleibt, ist eine massive, blendend weiße Salzkruste, die sich in geometrische, polygonale Muster bricht. In manchen Bereichen kann die konzentrierte Salzschicht bis zu 45 Zentimeter dick sein. Die abgelegene und unwirtliche Landschaft dient im Winter jedoch als temporärer Rückzugsort für robuste Zugvögel und wird vereinzelt für den kommerziellen Salzabbau genutzt.",
+      "factsAdvanced": [
+        "Das ausgetrocknete Seebecken bedeckt eine Fläche von rund 1800 Quadratkilometern.",
+        "Befindet sich auf einer Höhe von ungefähr 800 Metern über dem Meeresspiegel.",
+        "Die blendend weiße Salzkruste kann bis zu 45 Zentimeter dick werden.",
+        "Liegt etwa 60 Kilometer östlich der bedeutenden Millionenstadt Ghom.",
+        "Ist das historische Überbleibsel eines riesigen eiszeitlichen Binnenmeeres.",
+        "Der Hauptzufluss, der Qom-Fluss, trocknet in den Sommermonaten fast vollständig aus.",
+        "Die Oberfläche formt sich durch Verdunstung in markante geometrische Polygonmuster."
+      ]
+    },
+    {
+      "id": "aras-river-nature-v2",
+      "descriptionAdvanced": "Der Aras ist ein bedeutender internationaler Fluss, der auf einer langen Strecke die natürliche Grenze zwischen dem Iran und seinen nordwestlichen Nachbarn Armenien und Aserbaidschan bildet. Mit einer Gesamtlänge von 1072 Kilometern entspringt er im anatolischen Hochland in der Türkei, fließt entlang der iranischen Grenze und mündet schließlich im benachbarten Aserbaidschan in den Fluss Kura, kurz vor dessen Mündung in das Kaspische Meer. Das Flusstal ist geprägt von tiefen, dramatischen Schluchten und fruchtbaren Überschwemmungsgebieten. Auf iranischer Seite verläuft der Aras hauptsächlich durch die Provinzen West-Aserbaidschan und Ost-Aserbaidschan. Der Fluss ist stark verbaut; gemeinsame Projekte wie die Aras-Talsperre dienen der Bewässerung und der Stromerzeugung für beide Grenzlängsseiten. Die abgelegenen Flusstäler beherbergen alte armenische Klöster, wie das nahegelegene Kloster Sankt Stephanos, und weisen eine hohe Biodiversität auf, darunter kaukasische Leoparden in den angrenzenden Bergen.",
+      "factsAdvanced": [
+        "Der Fluss misst von der Quelle bis zur Mündung exakt 1072 Kilometer.",
+        "Bildet auf hunderten Kilometern die Staatsgrenze zu Armenien und Aserbaidschan.",
+        "Entspringt weit außerhalb des Irans in den Gebirgen im Osten der Türkei.",
+        "Vereinigt sich in der Kura-Aras-Niederung mit dem größeren Fluss Kura.",
+        "Die Aras-Talsperre wird gemeinsam vom Iran und seinen Nachbarn betrieben.",
+        "Die Uferregionen in Ost-Aserbaidschan sind für ihre reiche Biodiversität bekannt.",
+        "Historische armenische Klöster säumen die tiefen Täler entlang des Flusses."
+      ]
+    },
+    {
+      "id": "nayband-national-park-nature-v2",
+      "descriptionAdvanced": "Der Nayband-Nationalpark in der Provinz Buschehr ist ein herausragendes marines Naturschutzgebiet am Persischen Golf und der erste geschützte Meeresnationalpark des Irans. Das 2007 etablierte Reservat umfasst eine Fläche von knapp 42.000 Hektar und schützt eine einzigartige Kombination aus Küstenlandschaften, Korallenriffen, Seegraswiesen und ausgedehnten Mangrovenwäldern. Die Nayband-Bucht bietet ruhiges und seichtes Wasser, was sie zu einem perfekten und lebenswichtigen Nistplatz für stark bedrohte Meeresschildkröten, insbesondere die Echte Karettschildkröte, macht. Darüber hinaus ist der Park ein Paradies für Vogelbeobachter, da hier zahlreiche endemische Arten und Zugvögel überwintern. Im Hinterland des Parks erheben sich raue, felsige Klippen, die einen dramatischen Kontrast zum blauen Wasser des Golfs bilden. Trotz seiner ökologischen Bedeutung steht der Nationalpark unter ständigem Druck durch industrielle Verschmutzung, da die massiven Anlagen der South Pars Gasfelder in unmittelbarer Nähe betrieben werden.",
+      "factsAdvanced": [
+        "Wurde im Jahr 2007 als erster offizieller Meeresnationalpark des Irans gegründet.",
+        "Das gesamte Schutzgebiet umfasst eine Land- und Meeresfläche von 42.000 Hektar.",
+        "Beheimatet bedeutende Niststrände für die stark gefährdete Echte Karettschildkröte.",
+        "Die Nayband-Bucht zeichnet sich durch ruhiges, seichtes Wasser und Mangroven aus.",
+        "Das Reservat befindet sich an der Küste der südlichen Provinz Buschehr.",
+        "Riesige Korallenriffe gedeihen in den flachen Küstengewässern des Parks.",
+        "Grenzt geologisch an die riesigen industriellen Anlagen der South Pars Gasfelder."
+      ]
+    },
+    {
+      "id": "alam-kuh-nature-v2",
+      "descriptionAdvanced": "Der Alam-Kuh ist mit einer stolzen Höhe von 4848 Metern der zweithöchste Berggipfel im Iran und liegt im zentralen Teil des majestätischen Elburs-Gebirges in der Provinz Mazandaran. Der Berg ist vor allem bei professionellen Kletterern und Alpinisten auf der ganzen Welt für seine nahezu vertikale, über 800 Meter hohe Granit-Nordwand berühmt. Diese gigantische Wand gilt als eine der schwierigsten und technisch anspruchsvollsten Kletterrouten im gesamten Nahen Osten und wird oft mit den großen Wänden der europäischen Alpen verglichen. Rund um das Alam-Kuh-Massiv erstreckt sich die Takht-e Soleyman-Region, die durch eine dramatische glaziale Landschaft geprägt ist. Hier befinden sich mehrere noch aktive Gletscher, was auf die extrem kalten Temperaturen und hohen Niederschlagsmengen in dieser Höhe zurückzuführen ist. Die erste erfolgreiche dokumentierte Besteigung der Nordwand über die direkte Route gelang einer Expedition in den frühen 1930er Jahren.",
+      "factsAdvanced": [
+        "Erreicht eine maximale Höhe von 4848 Metern über dem Meeresspiegel.",
+        "Ist offiziell der zweithöchste Gipfel innerhalb der Grenzen des Irans.",
+        "Die berüchtigte steile Granit-Nordwand hat eine Höhe von über 800 Metern.",
+        "In der Region befinden sich einige der wenigen verbliebenen iranischen Gletscher.",
+        "Die Nordwand wurde in den 1930er Jahren erstmals erfolgreich durchstiegen.",
+        "Liegt im Takht-e Soleyman-Massiv in der nördlichen Provinz Mazandaran.",
+        "Wird wegen seiner steilen Wände als das alpinistische Zentrum des Landes bezeichnet."
+      ]
+    },
+    {
+      "id": "sisangan-national-park-nature-v2",
+      "descriptionAdvanced": "Der Sisangan-Nationalpark ist ein außergewöhnlicher und wunderschöner Waldpark in der Provinz Mazandaran, der direkt an die Ufer des Kaspischen Meeres grenzt. Er wurde 1965 primär zum Schutz des seltenen und historisch wertvollen kaspischen Buchsbaums (Buxus hyrcana) eingerichtet, der in diesem Gebiet in beeindruckenden Beständen wächst. Der Park bedeckt eine Fläche von etwas mehr als 600 Hektar und zeichnet sich durch seine seltene geografische Lage aus: Dichte Waldgebiete reichen hier stellenweise bis auf wenige Meter an die sandigen Strände des Meeres heran. Neben dem Buchsbaum dominieren riesige, uralte Eichen und Feigenbäume die Vegetation. Der Park ist zweigeteilt; ein Teil ist für touristische Zwecke erschlossen und zieht an Wochenenden tausende Familien zum Picknicken und Campen an, während der andere Teil als strenges Naturschutzgebiet dient, um den natürlichen Lebensraum von Schakalen, Füchsen und verschiedenen Singvögeln zu bewahren.",
+      "factsAdvanced": [
+        "Wurde im Jahr 1965 als geschützter Waldpark an der Küste gegründet.",
+        "Umfasst eine Gesamtfläche von etwas mehr als 600 Hektar Land.",
+        "Wurde speziell zum Schutz der historischen kaspischen Buchsbaumbestände angelegt.",
+        "Die dichten Baumgrenzen enden fast direkt an den Sandstränden des Kaspischen Meeres.",
+        "Gehört geografisch zur feuchten und waldreichen Provinz Mazandaran.",
+        "Besteht aus einer touristisch genutzten Zone und einem strengen Naturschutzgebiet.",
+        "Ist ein wichtiger Lebensraum für kleine Säugetiere wie Schakale und Rotfüchse."
+      ]
+    }
+  ]
+}

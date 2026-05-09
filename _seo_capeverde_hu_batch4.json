@@ -1,0 +1,289 @@
+{
+  "lang": "hu",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jardim-botanico-santiago-life-v2",
+      "descriptionAdvanced": "A Jardim Botânico Nacional Grandvaux Barbosa São Jorge dos Órgãosban található, és a Zöld-foki-szigetek egyetlen botanikus kertje, a biodiverzitás valódi oázisa Santiago szigetének szívében. Az 1999-ben alapított intézmény célja a szigetvilág egyedülálló és gyakran veszélyeztetett endemikus flórájának védelme és kutatása. A kertben több száz növényfaj látható, köztük gyógynövények, sárkányfák és ritka pálmafajták, amelyek mindegyike oktatási célból feliratozva van. Elhelyezkedése a Pico da Antónia hegység lábánál párás és hűvös mikroklímát biztosít, ami ideális a kutatáshoz és a kikapcsolódáshoz. A kert fontos központként szolgál a kihalással fenyegetett fajok megőrzésében, és elősegíti a diákok és látogatók környezettudatosságát. A mély csend helye, ahol a természet és a tudomány találkozik.",
+      "factsAdvanced": [
+        "Az ország egyetlen hivatalos nemzeti botanikus kertje.",
+        "1986-ban alapították a termékeny Ribeira dos Órgãos völgyében.",
+        "Több mint 60 ritka és endemikus növényfajt védelmez.",
+        "Luís Grandvaux Barbosa portugál botanikusról nevezték el.",
+        "A nemzeti agrár- és botanikai kutatások központja.",
+        "Tematikus útvonalakat kínál a helyi hagyományos orvoslásról.",
+        "Fontos helyszín az ifjúság környezeti nevelése számára.",
+        "Értékes sárkányfa- és pálmakollekcióknak ad otthont."
+      ]
+    },
+    {
+      "id": "turtle-sos-sal-life-v2",
+      "descriptionAdvanced": "A Sal szigetén működő Biodiverzitás Projekt (Turtle SOS) egy vezető nonprofit szervezet, amely a veszélyeztetett álcserepesteknősök (Caretta caretta) és a sziget tengerparti ökoszisztémáinak védelmének szentelte magát. A Zöld-foki-szigetek világszerte a harmadik legnagyobb fészkelőhelye ennek a teknősfajnak, és Sal kritikus helyszín a túlélésük szempontjából. A projekt több keltetőállomást üzemeltet, és éjszakai járőrszolgálatot tart a strandokon, hogy megvédje a fészkelő nőstényeket az orvvadászoktól, és biztosítsa, hogy a fiókák biztonságban elérjék a tengert. A látogatók oktatási túrákon vehetnek részt, és tanúi lehetnek a bébyteknősök szabadon engedésének, ezáltal mélyebb betekintést nyernek a tengeri védelem jelentőségébe. A Turtle SOS munkája a közösségi alapú természetvédelem fontos példája, amely egyensúlyt teremt a turizmus és a veszélyeztetett vadvilág védelme között.",
+      "factsAdvanced": [
+        "Vezető védelmi projekt az álcserepesteknősök számára Sal szigetén.",
+        "A Zöld-foki-szigetek a világ harmadik legnagyobb fészkelőhelye e faj számára.",
+        "Éjszakai strandjárőröket szervez az orvvadászat elleni küzdelemben.",
+        "Speciális és védett teknős-keltetőállomásokat üzemeltet.",
+        "Etikailag felelős oktatási túrákat kínál a turisták számára.",
+        "Kritikus program a Caretta caretta faj globális túlélése szempontjából.",
+        "A fészkelési főszezon június és október közé esik.",
+        "Szorosan együttműködik nemzetközi NGO-kkal és a helyi közösségekkel."
+      ]
+    },
+    {
+      "id": "coffee-plantations-fogo-life-v2",
+      "descriptionAdvanced": "Fogo kávéültetvényei a világ egyik legegyedibb és leginkább becsült Arabica kávéjának forrásai. A Mosteiros régió termékeny, ásványi anyagokban gazdag vulkáni lejtőin termesztett kávé profitál a specifikus mikroklímából és a tápanyagdús lávatalajból. Ezt a 'Café de Fogót' hagyományos kézműves módszerekkel állítják elő, ahol a szemeket kézzel szüretelik és a napon szárítják. Az ültetvények gyakran 300 és 1000 méter közötti magasságban találhatók, ahol a hűvös hegyi levegő és a rendszeres köd ideális feltételeket teremt a jellegzetes földes és intenzív aroma kialakulásához. A fogóiak számára a kávé több mint mezőgazdasági termény; kulturális örökségük szerves része és a vulkáni sziget egyedülálló agrárjellegének szimbóluma.",
+      "factsAdvanced": [
+        "Az exkluzív és ritka 'Café de Fogo' (Arabica) forrása.",
+        "Termesztése Mosteiros régió termékeny vidékein zajlik.",
+        "A termelés vegyszermentesen, tiszta kézi munkával történik.",
+        "A regionális gazdaság és identitás legfontosabb pillére.",
+        "Világszerte nagyra értékelik intenzív, földes aromaprofiljáért.",
+        "A betakarítás évente január és április között zajlik.",
+        "Az északi vulkáni lejtők nedves mikroklímáját hasznosítja.",
+        "A gasztronómiai és agrár-turizmus központi helyszíne."
+      ]
+    },
+    {
+      "id": "vineyards-cha-caldeiras-life-v2",
+      "descriptionAdvanced": "Chã das Caldeiras szőlőültetvényei a mezőgazdasági állhatatosság figyelemre méltó példái, közvetlenül a Pico do Fogo hatalmas vulkáni kráterében találhatók. Az extrém körülmények és a folyamatos kitörésveszély ellenére a helyi gazdák több mint egy évszázada nevelnek szőlőt a fekete vulkáni hamuban. A szőlőfajták, elsősorban a Moscatel és a Prete, az egyedi és nagyra értékelt 'Manecom' bort adják, amely robusztus ízéről és kiváló minőségéről ismert. A szőlőtőkéket hagyományosan a földön kúszva nevelik, hogy megvédjék őket a zord hegyi szelektől és optimálisan kihasználják a porózus vulkáni hamuban tárolt nedvességet. A bortermelést egy helyi szövetkezet kezeli, és a kráter lakóinak fő megélhetési forrásaként, valamint a vulkánnal való elszakíthatatlan kapcsolatuk erős szimbólumaként szolgál.",
+      "factsAdvanced": [
+        "A világ egyetlen bortermelő övezete egy aktív kráter belsejében.",
+        "A híres hagyományos Manecom vulkáni bor hazája.",
+        "A szőlőművelés közvetlenül a tápanyagdús fekete hamuban zajlik.",
+        "Chã das Caldeiras lakóinak fő gazdasági ágazata.",
+        "Helyi borászati szövetkezet (Cooperativa Chã) kezeli a termelést.",
+        "Mezőgazdaság, amely már több vulkánkitörést is túl élt.",
+        "Az ásványokban gazdag lávatalaj egyedi profilt ad a bornak.",
+        "Kiemelt úti cél a borértők és a geológia iránt érdeklődők számára."
+      ]
+    },
+    {
+      "id": "banana-plantations-santa-cruz-life-v2",
+      "descriptionAdvanced": "A Santiago szigetének keleti partján fekvő Santa Cruz-i banánültetvények a Zöld-foki-szigetek legnagyobb és legtermékenyebb agrárterületét alkotják. Ezek a kiterjedt ligetek a Ribeira Seca termékeny völgyeiben találhatók, ahol a rendelkezésre álló talajvíz és a gazdag talaj egész évben támogatja a termelést. Az ültetvények a nemzeti élelmiszerellátás létfontosságú részei és helyi családok ezreinek fő jövedelemforrását jelentik. A régióba látogatók a buja, trópusi tájakon sétálva tanúi lehetnek a termesztés és betakarítás hagyományos módszereinek, amelyek generációk óta meghatározzák a környék gazdaságát. A banánligetek mélyzöldje markáns kontrasztot alkot a környező vulkáni hegygerincekkel, így ez az egész szigetvilág egyik legfestőibb agrárpályája. Santa Cruz Santiago zöld szíve.",
+      "factsAdvanced": [
+        "A szigetvilág legnagyobb és legjövedelmezőbb banántermesztő régiója.",
+        "A termékeny Ribeira Seca völgyben található Santiago szigetén.",
+        "A fővárosi piacok friss banánjának legfőbb beszállítója.",
+        "Családok ezreinek biztosít megélhetést Santa Cruzban.",
+        "A mezőgazdasági talajvíz legnagyobb koncentrációját hasznosítja.",
+        "Trópusi oázis a száraz vulkáni hegyvonulatok szomszédságában.",
+        "A modern öntözési technológiák fejlesztésének központja.",
+        "A nemzeti élelmiszerbiztonság és a vidéki gazdaság alapköve."
+      ]
+    },
+    {
+      "id": "donkey-sanctuary-maio-life-v2",
+      "descriptionAdvanced": "A maio-i szamárvédelmi központ egy nemes kezdeményezés, amely ezen állatok védelmének és gondozásának szentelték magukat, melyek döntő szerepet játszottak a sziget vidéki történelmében. A múltban a szamarak nélkülözhetetlenek voltak a víz és a só szállításához Maio köves útjain, de a modernizációval sokukat elhanyagolták vagy sorsukra hagyták. A menedékhely biztonságos központot kínál, ahol az állatok élelmet, orvosi ellátást és szeretetet kapnak, miközben oktatási központként is funkcionál a látogatók számára. A projekt elősegíti az állatok jólétét és lehetőséget biztosít a turistáknak, hogy felelősségteljesen interakcióba lépjenek ezekkel a szelíd teremtményekkel. Ez a tisztelet bizonyítéka, amelyet a maio-i közösség tanúsít múltja és az állatok iránt, amelyek generációk óta szolgálták őket. A központ hozzájárul a környezettudatos turizmus népszerűsítéséhez is.",
+      "factsAdvanced": [
+        "Az első és egyetlen szamármenedékhely az egész szigetvilágban.",
+        "Menedéket nyújt elhagyott, beteg vagy öreg munkásállatoknak.",
+        "Aktívan népszerűsíti a magas állatjóléti szabadságokat Maio szigetén.",
+        "Természetvédelmi helyszín a csendes szigeti táj közepén.",
+        "Nemzetközi önkéntes segítők kedvelt munkavégzési helyszíne.",
+        "Oktatási központ a hagyományos szállítás történelméről.",
+        "Biztosítja egy Maio számára szimbolikus állatfaj túlélését.",
+        "Vezetett interakciókat kínál családok és állatbarátok számára."
+      ]
+    },
+    {
+      "id": "whale-watching-boa-vista-life-v2",
+      "descriptionAdvanced": "A boa vista-i bálnamegfigyelő állomás az Észak-Atlanti-óceán egyik legjelentősebb tengeri emlősmegfigyelő helye, mivel a sziget a hosszúszárnyú bálnák kedvelt szaporodási helye. Február és május között a Boa Vista körüli kristálytiszta vizek lenyűgöző természeti látványosság színhelyévé válnak, ahol a bálnák ugrálva és összetett énekekkel kommunikálva figyelhetők meg. A helyi túraszervezők szorosan együttműködnek a tengerbiológusokkal, hogy olyan megfigyeléseket biztosítsanak, amelyek nem zavarják az állatok természetes viselkedését. Ez a tudományosan kísért turizmus nemzetközi elismerést hozott a szigetnek, és rávilágított a tengeri vándorlási folyosók védelmének fontosságára. A látogatók részletes információkat kapnak a bálnák biológiájáról, hozzájárulva a globális fajmegőrzési erőfeszítésekhez. Megható élmény, amely összeköti az embert az óceáni élet fenségességével.",
+      "factsAdvanced": [
+        "Boa Vista a legjobb hely a bálnák megfigyelésére a Zöld-foki-szigeteken.",
+        "A megfigyelések főszezonja február és május közé esik.",
+        "A hosszúszárnyú bálnák nagy koncentrációja a párzási időszakban.",
+        "Szigorúan szabályozott tevékenység a tengeri emlősök védelmében.",
+        "Aktív kutatóhelyek nemzetközi tengerbiológusok számára.",
+        "Egyedülálló esély a bálnák énekének víz alatti meghallgatására.",
+        "Fontos hozzájárulás az atlanti vándorlási útvonalak védelméhez.",
+        "Ökoturisztikai központ, fókuszban a tengeri biodiverzitással."
+      ]
+    },
+    {
+      "id": "goat-farms-brava-life-v2",
+      "descriptionAdvanced": "Brava hagyományos kecskefarmjai e legkisebb lakott sziget vidéki gazdaságának szívét alkotják, és híresek a kiváló minőségű, kézműves kecskesajt előállításáról. A kecskék az extrém meredek és zöld hegyoldalakon legelnek, számos aromás endemikus növényt fogyasztva, ami a tejnek és a sajtnak összetéveszthetetlen ízt kölcsönöz. A sajtkészítés művészet, amely generációról generációra öröklődik, és elsősorban nők végzik kis családi gazdaságokban. Ez a termék elengedhetetlen a sziget élelmiszerbiztonságához és hagyományos ajándék a látogatók számára. A brava-i pásztorok életmódja a hegyvidéki domborzathoz való tökéletes alkalmazkodást és az ősökkel való mély kapcsolatot tükrözi. Egy látogatás lehetőséget kínál a friss sajt kóstolására és a préselés és érlelés manuális folyamatának megismerésére.",
+      "factsAdvanced": [
+        "A brava-i kecskesajt nemzeti delikátnak számít a Zöld-foki-szigeteken.",
+        "Az állatok tökéletesen alkalmazkodtak a meredek hegyi domborzathoz.",
+        "A sajttermelés 100%-ban kézi és természetes módszerekkel történik.",
+        "Gazdasági alap a távoli hegyi falvakban élő családok számára.",
+        "Mesterséges adalékanyagok nélkül, ősi receptek alapján készül.",
+        "A 'virágsziget' autentikus gasztronómiájának szimbóluma.",
+        "Fontos tényező Brava kultúrtájának fenntartásában.",
+        "Támogatja a fenntartható agroturizmust a hegyvidéki régióban."
+      ]
+    },
+    {
+      "id": "terra-branca-playground-life-v2",
+      "descriptionAdvanced": "A Terra Branca játszótér egy modern szabadidős létesítmény a főváros, Praia egyik legsűrűbben lakott negyedében, és a kikapcsolódás oázisát kínálja a gyermekek és családok számára. Biztonságos játékeszközökkel, színes felületekkel és árnyékos zónákkal felszerelve a park a városi regeneráció modellje, amely az ifjúság életminőségét helyezi fókuszba. Itt különböző társadalmi rétegekből származó gyerekek találkoznak közös játékra, ami elősegíti a társadalmi integrációt és a közösségi kohéziót. Praia városvezetése azért fektetett be ebbe a térbe, hogy egészséges alternatívát kínáljon a beltéri tevékenységekkel szemben, és ösztönözze a friss levegőn való mozgást. Este a hely élénk társadalmi központtá válik, ahol a szülők pihennek és beszélgetnek, miközben felügyelik gyermekeiket. Terra Branca a városfejlesztés modern, gyerekbarát arcát képviseli Santiagón.",
+      "factsAdvanced": [
+        "Az egyik legmodernebb nyilvános szabadidős létesítmény Praiában.",
+        "A stratégiailag fontos Terra Branca városnegyedben található.",
+        "Kialakítása a biztonságra és a kreatív fejlődésre összpontosít.",
+        "Központi találkozóhely a környék több száz családja számára.",
+        "Kültéri fitneszeszközöket is tartalmaz felnőttek számára.",
+        "Az ifjúságjóléti közberuházások szimbóluma.",
+        "Népszerű helyszín gyerekzsúrokhoz és közösségi ünnepekhez.",
+        "Jól megvilágított terület az esti órákban is biztonságos játékhoz."
+      ]
+    },
+    {
+      "id": "rabil-lagoon-birds-life-v2",
+      "descriptionAdvanced": "A boa vista-i Rabil-lagúna nemzetközi jelentőségű vizes élőhelyi ökoszisztéma, amely a sziget legnagyobb ribeirájának torkolatánál található. Ez a hely a madármegfigyelők paradicsoma és döntő pihenőhely az Afrika és Európa között az Atlanti-óceánt átszelő költözőmadár-fajok számára. Itt olyan ritka fajok figyelhetők meg, mint a vörös gémek, alkalmanként flamingók és különböző gázlómadarak, amelyek a lagúna sekély vizeiben keresnek táplálékot. A környező pálma- és tamariszkusz-növényzet látványos zöld kontrasztot alkot az arany homokos strandokkal és a közeli Viana-sivataggal. Ezen élőhely védelme elengedhetetlen a Zöld-foki-szigetek madárvilágának biodiverzitásának megőrzéséhez. A turisták számára a lagúna az abszolút csend táját kínálja, és ideális természetfotózáshoz hajnalban vagy alkonyatkor.",
+      "factsAdvanced": [
+        "Szigorúan védett vizes élőhely magas ökológiai relevanciával.",
+        "Létfontosságú pihenőhely a transzatlanti költözőmadarak számára.",
+        "Ideális helyszín gémek és gázlómadarak megfigyelésére.",
+        "Boa Vista szigetének legnagyobb brakkvizes lagúnája.",
+        "Oázis-szerű növényzete támogatja a helyi fajgazdagságot.",
+        "A nemzetközi ökoturizmus kiemelt célpontja.",
+        "A sziget védett területei hálózatának része.",
+        "Kiváló feltételek a professzionális természetfotózáshoz."
+      ]
+    },
+    {
+      "id": "maize-fields-santiago-life-v2",
+      "descriptionAdvanced": "A Santiago sziget belső kukoricaföldjei alkotják a Zöld-foki-szigetek önellátó mezőgazdaságának gerincét, mivel a kukorica a nemzeti étrend fő összetevője. Ez a termesztés meredek teraszokon vagy mély völgyekben zajlik, és teljes mértékben az 'Azágua' szezon alatti rövid, intenzív esőzésektől függ. A vetés ideje közösségi esemény, amelyet a remény és az ősi hagyományok jellemeznek. A táj az első esők után látványosan átalakul a száraz barnából üde zöldre, az életerő képét nyújtva. A gazdák hagyományos vetésforgó technikákat alkalmaznak, gyakran babot ültetve a kukoricasorok közé a talaj nitrogénnel való dúsítása érdekében. Ezek a földek nem csupán élelemforrások, hanem a zöld-foki nép éghajlati bizonytalanságokkal szembeni ellenállóképességének szimbólumai is.",
+      "factsAdvanced": [
+        "A kukorica a nemzeti étel, a 'Cachupa' alapja.",
+        "A termesztési ciklust az esős évszak (Azágua) határozza meg.",
+        "Hagyományos teraszos földművelés extrém lejtőkön.",
+        "Santiago szigetének vidéki ellenállóképességének jelképe.",
+        "Gyakran közösségi összefogással (Djunta-mõ) művelik meg.",
+        "Meghatározza a központi rész kulturális és vizuális tájképét.",
+        "A betakarítás biztosítja a hegyi falvak alapellátását.",
+        "Az agrárhagyományok és a nemzeti identitás fontos kapcsolata."
+      ]
+    },
+    {
+      "id": "papaya-orchards-ribeira-brava-life-v2",
+      "descriptionAdvanced": "A São Nicolau szigetén található Ribeira Brava-i papayakertek az egész szigetvilágban híresek gyümölcseik minőségéről és édességéről, ami a völgy védett mikroklímájának köszönhető. Ezek a kis ültetvények, amelyeket gyakran más trópusi kultúrákkal elegyítenek, hagyományos kutakból profitálnak, amelyek még szárazabb időszakokban is garantálják a vizet. A São Nicolau-i papaya a hagyományos zöld-foki édességek alapvető összetevője, és gyakran kézzel készítenek belőle lekvárokat és konzerveket, amelyek nagyon népszerűek a turisták körében. A Ribeira Brava-i gazdák megőrizték a biológiai termesztési technikákat, kerülve a kémiai peszticideket, így tartva fenn a vulkáni talaj természetes egyensúlyát. Egy látogatás ezekben a kertekben egyedülálló szenzoros élményt nyújt az érett gyümölcsök illatával és a széles levelek árnyékával. A fenntartható rétegmezőgazdaság iskolapéldája.",
+      "factsAdvanced": [
+        "Ribeira Brava völgye a prémium papayák fő termelője.",
+        "A gyümölcsök rendkívül magas cukortartalommal rendelkeznek.",
+        "A helyi lekváripar központi alapanyagforrása.",
+        "Az öntözés történelmi kutakból és medencékből (tanques) történik.",
+        "A kistermelői, fenntartható gazdálkodás mintaképe.",
+        "São Nicolau kultúrtájának szerves része.",
+        "A piacokon történő értékesítés révén támogatja a helyi gazdaságot.",
+        "Különleges ízélmény az ásványdús vulkáni talajnak köszönhetően."
+      ]
+    },
+    {
+      "id": "date-palm-groves-sal-rei-life-v2",
+      "descriptionAdvanced": "Boa Vista fővárosának, Sal Reinek peremterületein található datolyapálma-ligetek az afrikai hatások örökségei és tökéletes alkalmazkodások a száraz környezethez. Ezek a magas pálmák nem csupán energiadús gyümölcsöt adnak, hanem értékes árnyékot is a nap és a szél által uralt tájban. A boa vista-i datolyát kézzel szüretelik, frissen vagy szárítva fogyasztják, ami fontos tápanyagforrássá teszi a helyi lakosság számára. Az élelmiszerértéke mellett a pálmaleveleket a helyi kézművességben kosarak és hagyományos kalapok fonásához használják. A ligetek oázis-szerű tájat hoznak létre, amely vonzza a sziget belsejét felfedezni vágyó látogatókat. Ezeknek az ültetvényeknek a védelme döntő fontosságú a sivatagosodás elleni küzdelemben és a helyi biodiverzitás megőrzésében a 'dűnék szigetén'.",
+      "factsAdvanced": [
+        "A pálmaligetek természetes védelmet nyújtanak a talajerózió ellen.",
+        "Fontos hagyományos élelemforrás és kézműves alapanyag.",
+        "Oázis-szerű mikroklímát teremtenek a boa vista-i sivatagban.",
+        "A datolyaszüret manuálisan történik a forró nyári hónapokban.",
+        "Az afrikai kontinenssel való szoros földrajzi kapcsolat szimbóluma.",
+        "Sal Rei környékének jelentős vizuális eleme.",
+        "A sziget kis hüllőinek és madarainak élőhelye.",
+        "Támogatja a part menti városok hátországában zajló szelíd turizmust."
+      ]
+    },
+    {
+      "id": "zoo-mindelo-life-v2",
+      "descriptionAdvanced": "A São Vicente szigetén található mindelói állatkert egy oktatási és szabadidős központ, amely lehetőséget kínál a helyieknek és látogatóknak a helyi fauna és néhány egzotikus faj közelebbi megismerésére. Bár szerény méretű, az állatkert nagy hangsúlyt fektet a gyerekek környezeti nevelésére, workshopokat szervezve az endemikus madár- és hüllőfajok védelméről. A kifutókat úgy alakították ki, hogy szimulálják a természetes élőhelyeket és optimális gondozási feltételeket biztosítsanak az állatoknak. A park hétvégente kedvelt célpontja a mindelói családoknak, tanulási és kikapcsolódási helyszínként szolgálva a városi környezetben. Jelenléte hozzájárul a szigetvilág biodiverzitásával kapcsolatos tudatosság növeléséhez és a védelem szükségességének hangsúlyozásához. Érdekes helyszín, amely értelmesen egészíti ki Mindelo városának kulturális kínálatát.",
+      "factsAdvanced": [
+        "São Vicente szigetének egyetlen állatkertje és fontos oktatási helyszín.",
+        "A hangsúly az endemikus madárfajok bemutatásán van.",
+        "A szigetvilág sérült vadállatainak befogadó állomásaként is működik.",
+        "Az ökológiai iskolai programok központi helyszíne Mindelóban.",
+        "A városközpont könnyen elérhető részén található.",
+        "Elősegíti a természet iránti tiszteletet a fiatalabb generációkban.",
+        "Az északi szigetekre jellemző hüllőknek ad otthont.",
+        "Népszerű hétvégi pihenőhely a helyi családok számára."
+      ]
+    },
+    {
+      "id": "kid-center-mindelo-life-v2",
+      "descriptionAdvanced": "A mindelói gyermekszabadidő-központ egy modern létesítmény, amelyet a São Vicente szigeti ifjúság kreatív és fizikai fejlődésének szenteltek. Ez a multifunkcionális tér tevékenységek széles skáláját kínálja, a festő- és óráktól kezdve a sportterületeken át az interaktív játékokig. A központot biztonságos és ösztönző környezetnek tervezték, ahol a gyerekek szakképzett személyzet felügyelete mellett konstruktívan tölthetik szabadidejüket. A központ jelentősége a korai tehetséggondozásban és a társadalmi interakciós lehetőségek megteremtésében rejlik minden városrészből érkező fiatal számára. Vidám építészete és modern felszereltsége Mindelo szociális szolgáltatásainak referenciapontjává teszi. Egy hely, ahol a város kulturális jövőjét játékon és nem formális oktatáson keresztül táplálják. Az ifjúságsegítés mérföldköve.",
+      "factsAdvanced": [
+        "Mindelo iskolán kívüli tevékenységeinek központi csomópontja.",
+        "Könyvtárral és művészeti alkotóműhelyekkel felszerelt.",
+        "Aktív életmódot népszerűsít a csapatsportokon keresztül.",
+        "Inkluzív tér minden társadalmi rétegből érkező gyermek számára.",
+        "Rendszeresen szervez bábszínházi előadásokat a legkisebbeknek.",
+        "A helyi oktatási és szociálpolitika fontos pillére.",
+        "Biztonságos helyszín a gyermeki kreativitás szabad kibontakozásához.",
+        "Modern infrastruktúra, fókuszban a pedagógiai minőséggel."
+      ]
+    },
+    {
+      "id": "eco-center-santa-luzia-life-v2",
+      "descriptionAdvanced": "A Santa Luzia szigetén található öko-kutatóállomás az egyetlen ellenőrzött emberi jelenlét ezen a lakatlan szigeten, és bázisként szolgál a tudósok és természetvédők számára. Fő feladata a Santa Luzia-i óriásszkink és más, ebben a természeti szentélyben élő endemikus fajok védelmi állapotának felügyelete. A kutatók itt az invazív fajok kiirtására irányuló programokat hajtanak végre, és tanulmányozzák a klímaváltozás hatásait a törékeny szigeti ökoszisztémákra. Az állomást megújuló energiával üzemeltetik, hogy minimalizálják az ökológiai lábnyomot és tiszteletben tartsák a sziget teljes rezervátumi státuszát. Az itt végzett munka alapvető fontosságú a Zöld-foki-szigetek biodiverzitásának megértéséhez és a nemzeti védelmi stratégiák kidolgozásához. A tudomány előőrse egy vad és érintetlen atlanti természet közepén.",
+      "factsAdvanced": [
+        "Az egyetlen tudományos bázis a lakatlan Santa Luzia szigeten.",
+        "Ritka endemikus hüllőfajok kutatásának központja.",
+        "A működés önellátó, modern napelemrendszerek segítségével.",
+        "A parti vizeken zajló illegális halászat elleni őrjáratok bázisa.",
+        "Nemzetközileg védett tengeri madarak fontos élőhelye.",
+        "Természetes laboratórium a szigeti fajfejlődés tanulmányozására.",
+        "Lehetővé teszi a tengeri biodiverzitás hosszú távú kutatását.",
+        "Szigorúan korlátozott hozzáférés, csak engedéllyel rendelkező kutatóknak."
+      ]
+    },
+    {
+      "id": "salt-experience-sal-life-v2",
+      "descriptionAdvanced": "A Sal szigetén található tengerisó-élményközpont egy interaktív és pedagógiai múzeum, amely azt az erőforrást ünnepli, amelyről a sziget a nevét kapta és amely meghatározta történetét. A látogatók, különösen a gyerekek, közvetlen kísérleteken keresztül tanulhatják meg a tengervíz párolgásának és a só kristályosodásának folyamatát. A múzeum történelmi eszközöket és archív fotókat mutat be, amelyek az elmúlt évszázadok sómunkásainak kemény munkáját dokumentálják. Ez egy olyan tér, amely a geológiát az ipartörténettel és az egyszerű kémiával ötvözi, átfogó perspektívát nyújtva a só gazdasági jelentőségéről az Atlanti-óceánon. A központ egy olyan területet is magában foglal, ahol a só egészségügyi előnyeit magyarázzák el. Modern kulturális célpont, amely egy mindennapi erőforrást a túlélés és a globális kereskedelem lenyűgöző történetévé változtat.",
+      "factsAdvanced": [
+        "Interaktív múzeum a Sal-szigeti sókitermelés történetéről.",
+        "Gyakorlati sóbetakarítási workshopokat kínál gyerekeknek.",
+        "Bemutatja a sólepárlók történelmi drótkötélpályás rendszereinek makettjeit.",
+        "Oktatási központ a tengeri só egészségügyi előnyeiről.",
+        "Közvetlenül a történelmi kitermelési területek szomszédságában található.",
+        "Támogatja a zöld-foki ipari örökség megőrzését.",
+        "Kombinálja a természettudományt az izgalmas szigeti történelemmel.",
+        "Népszerű célpont családi és iskolai kirándulások számára."
+      ]
+    },
+    {
+      "id": "shark-bay-lemon-sharks-life-v2",
+      "descriptionAdvanced": "A Shark Bay-i citromcápa-megfigyelés Sal szigetén az egyik leglátványosabb és legbiztonságosabb élmény a szigetvilág tengeri világával való érintkezésben. A keleti part sekély és meleg vizei bölcsődeként szolgálnak a fiatal citromcápák számára, amelyek megfigyelhetők, ahogy alig néhány méterre úsznak a látogatóktól. Ez a faj az emberre ártalmatlan, és ritka lehetőséget kínál a cápákkal kapcsolatos negatív mítoszok eloszlatására. A helyi vezetők tájékoztatást adnak e lények biológiájáról és alapvető szerepükről a korallzátonyok egészségének megőrzésében. Az élmény közvetlenül az óceánban zajlik, a vadvilággal való mély kapcsolat érzését nyújtva. Shark Bay a sikeres vadvilág-megfigyelési turizmus szimbólumává vált, amely a természetvédelem révén járul hozzá a helyi gazdasághoz. Felejthetetlen élmény térdig érő vízben.",
+      "factsAdvanced": [
+        "Fiatal citromcápák figyelhetők meg közvetlenül a térdig érő vízben.",
+        "Az állatok ebben az élőhelyen teljesen ártalmatlanok az emberre.",
+        "Stratégiai helyszín a tengeri természetvédelemmel kapcsolatos felvilágosításhoz.",
+        "Sal szigetének egyik leglátogatottabb természetközeli élménye.",
+        "Fontos helyszín a helyi cápapopuláció monitorozásához.",
+        "Apály idején különösen jók a látási viszonyok közvetlenül a partról.",
+        "Elősegíti a tengeri ökoszisztémákkal kapcsolatos ökológiai tudatosságot.",
+        "Egyedülálló szimbiózis a turizmus és a fajvédelem között."
+      ]
+    },
+    {
+      "id": "agro-center-santo-antao-life-v2",
+      "descriptionAdvanced": "A Santo Antão-i agráregyetemi kutatóközpont a Ribeira Grande hegyvidéki régiójában a mezőgazdasági innováció pillére az ország legzöldebb szigetén. A központ a teraszos földművelés javítását szolgáló technikák fejlesztésére és olyan új trópusi gyümölcsfajták tesztelésére összpontosít, amelyek ellenállnak a klímaváltozásnak. Itt jelentős tanulmányokat folytatnak a biológiai növényvédelemről és a vulkáni talaj erózió elleni védelméről. Az állomás a helyi gazdáknak ingyenes technikai tanácsadást nyújt, segítve őket termelékenységük fenntartható növelésében. Emellett a központ endemikus növények faiskoláit is fenntartja, amelyeket a sziget degradált területeinek újraerdősítésére használnak. Ez egy olyan hely, ahol a tudomány a hagyomány szolgálatába áll, biztosítva a mezőgazdaság jövőjét Santo Antão szigetén.",
+      "factsAdvanced": [
+        "Vezető innovációs központ a magashegyi mezőgazdaság számára.",
+        "A meredek lejtők talajvédelmi technikáira szakosodott.",
+        "Minősített vetőmagot és palántákat oszt ki a helyi gazdáknak.",
+        "Santo Antão endemikus flórájának kutatási helyszíne.",
+        "Nagy hatékonyságú öntözési módszereket fejleszt a hegyvidéki régiók számára.",
+        "Központi szereplő a nemzeti élelmiszerbiztonsági stratégiában.",
+        "Népszerűsíti a vegyszermentes ökológiai gazdálkodást.",
+        "Fontos oktatási helyszín agrártudományi szakemberek számára."
+      ]
+    },
+    {
+      "id": "parque-infantil-espargeos-life-v2",
+      "descriptionAdvanced": "Az espargosi játszótér a legfontosabb nyilvános szabadidős tér Sal szigetén, és a sziget adminisztratív központjában található. Ez a park ellenőrzött és vidám környezetet kínál, ahol a helyiek gyermekei modern csúszdákat, hintákat és mászókákat élvezhetnek. Mint a kevés zöld és árnyékos zónák egyike a száraz Espargos városában, a park mágnesként vonzza a családokat, különösen a forró délutánokon. A park kialakítása a legmodernebb biztonsági elemeket tartalmazza, és az önkormányzat rendszeresen karbantartja. Ez a tér alapvető társadalmi szerepet játszik azáltal, hogy semleges találkozóhelyet biztosít a különböző negyedekből érkező lakosoknak. Ez a bizonyítéka a hatóságok elkötelezettségének a városi környezet javítása és a Sal-szigeti fiatal generáció számára nyújtott minőségi létesítmények iránt.",
+      "factsAdvanced": [
+        "Központi szabadidő-központ gyerekeknek Espargos városában.",
+        "Robusztus és színes játékeszközökkel felszerelve.",
+        "Alapvető árnyékos zónákat kínál Sal forró sivatagi klímájában.",
+        "Fontos találkozóhely a szülők társadalmi interakciója számára.",
+        "Rendszeres helyszíne kis kulturális és gyermekfesztiváloknak.",
+        "A szigeti főváros városi infrastruktúrájának központi eleme.",
+        "Ösztönzi a gyerekek aktív szabadtéri mozgását.",
+        "Biztonságos és gondozott tér a városi közösség számára."
+      ]
+    }
+  ]
+}

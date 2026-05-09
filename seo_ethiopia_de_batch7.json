@@ -1,0 +1,45 @@
+{
+  "lang": "de",
+  "country": "ethiopia",
+  "files": [
+    "lib/visualLab/data/poiExtraEthiopiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ras-dashen-relief-v2",
+      "descriptionAdvanced": "Der Ras Daschän ist mit 4.550 Metern der höchste Gipfel Äthiopiens und der zeithöchste Afrikas, eingebettet in die dramatische Bergwelt des Simien-Nationalparks. Als UNESCO-Welterbe ist dieses Gebiet nicht nur für seine atemberaubenden, tiefen Schluchten und schroffen Felsformationen bekannt, sondern auch als wichtiger Lebensraum für endemische Arten wie den Walia-Steinbock und den Dschelada-Pavian. Die Besteigung des Gipfels erfordert alpine Erfahrung und belohnt mit einem spektakulären Panoramablick über das äthiopische Hochland. Geografie K7 — Hochgebirgsökosysteme und alpine Regionen.",
+      "factsAdvanced": [
+        "Mit 4.550 Metern der höchste Punkt des äthiopischen Hochlandes.",
+        "Gelegen innerhalb des UNESCO-Welterbes Simien-Nationalpark.",
+        "Wichtiger Lebensraum für seltene Arten wie den Walia-Steinbock.",
+        "Erste bekannte europäische Besteigung durch Ferret und Galinier (1841).",
+        "Charakterisiert durch extreme tageszeitliche Temperaturschwankungen.",
+        "Ein herausragendes Beispiel für afroalpine Ökosysteme."
+      ]
+    },
+    {
+      "id": "tulu-dimtu-relief-v2",
+      "descriptionAdvanced": "Der Tulu Dimtu ist mit 4.377 Metern der zweithöchste Gipfel Äthiopiens und der höchste Punkt des Bale-Gebirges. Er befindet sich im Zentrum des Bale-Mountains-Nationalparks, einem Gebiet, das für seine einzigartigen afroalpinen Hochplateaus und eine außergewöhnliche Artenvielfalt geschätzt wird. Die Region ist zudem ein unverzichtbarer Wasserspeicher, der für die Wasserversorgung weite Teile Südäthiopiens sicherstellt. Die kühle, raue Hochgebirgsumgebung bietet Wanderern eine unvergleichliche Kulisse über die Hochebene. Geografie K7 — Vulkanismus und Hochgebirgsklima.",
+      "factsAdvanced": [
+        "Mit 4.377 Metern zweithöchster Gipfel Äthiopiens.",
+        "Zentrales Element des Bale-Mountains-Nationalparks.",
+        "Wichtiges Wassereinzugsgebiet für die umliegende Region.",
+        "Heimat für seltene endemische Tierarten des Hochlandes.",
+        "Geprägt durch ein kaltes und raues Hochgebirgsklima.",
+        "Geologisch faszinierendes Gebiet vulkanischen Ursprungs."
+      ]
+    },
+    {
+      "id": "danakil-depresion-relief-v2",
+      "descriptionAdvanced": "Die Danakil-Senke im Afar-Dreieck zählt zu den geologisch aktivsten und lebensfeindlichsten, aber zugleich faszinierendsten Regionen der Erde. Sie liegt bis zu 125 Meter unter dem Meeresspiegel und ist ein Brennpunkt der Plattentektonik, an dem drei tektonische Platten auseinanderdriften. Die Landschaft wird durch eine surreale Mischung aus brodelnden Schwefelquellen, weiten Salzwüsten und aktiven Vulkanen wie dem Erta Ale bestimmt. Die extremen Temperaturen von oft über 50 Grad Celsius machen die Region zu einem extremen Forschungsobjekt für Geologen und Abenteurer gleichermaßen. Erdkunde K8 — Tektonik und vulkanische Extreme.",
+      "factsAdvanced": [
+        "Gelegen bis zu 125 Meter unter dem Meeresspiegel.",
+        "Ein global bedeutender geothermischer Hotspot.",
+        "Geprägt durch die Spreizungszone dreier tektonischer Platten.",
+        "Einer der heißesten Orte auf der Erdoberfläche.",
+        "Enthält riesige natürliche Salzvorkommen.",
+        "Surreale Landschaft mit aktiven Vulkanen und Schwefelquellen."
+      ]
+    }
+  ]
+}

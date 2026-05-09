@@ -2,253 +2,358 @@
   "lang": "de",
   "country": "libya",
   "files": [
-    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
     "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraLibyaLifeV2.ts",
-    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
-    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts"
   ],
   "items": [
     {
-      "id": "nalut-cities-v2",
-      "descriptionAdvanced": "Nalut, eine der wichtigsten Städte im westlichen Nafusa-Gebirge, beeindruckt durch ihr historisches Zentrum. Die Hauptattraktion ist der gut erhaltene Ksar Nalut, eine alte, mehrstöckige Speicherburg der Berber, die als herausragendes Beispiel der traditionellen Lehbau-Architektur der Amazigh gilt. Geschichte K7 — Berber-Architektur.",
+      "id": "tripoli-tower-landmarks-v2",
+      "descriptionAdvanced": "Der Tripoli Tower, auch bekannt als Burj al-Fateh, ist das markanteste Wahrzeichen der modernen Skyline von Tripolis. Das beeindruckende Hochhaus mit seiner charakteristischen ovalen Form und der gläsernen Fassade dominiert das Geschäftsviertel der libyschen Hauptstadt. Es wurde entworfen, um als Symbol für den wirtschaftlichen Aufbruch und die Modernisierung des Landes zu dienen. Der Turm beherbergt Luxusbüros, ein High-End-Hotel sowie exklusive Konferenzzentren und bietet einen atemberaubenden Panoramablick über das Mittelmeer und die historische Medina. Die Architektur verbindet kühne, moderne Linien mit funktionaler Eleganz und macht das Gebäude zu einem wichtigen Orientierungspunkt für Besucher und Geschäftsleute aus aller Welt.",
       "factsAdvanced": [
-        "Wichtige Stadt im Nafusa-Gebirge",
-        "Berühmt für den Ksar Nalut",
-        "Zentrum der Amazigh-Kultur",
-        "Historische Speicherburg mit hunderten Kammern",
-        "Eindrucksvolle Lage am Klippenrand",
-        "Rolle bei der Bewahrung lokaler Traditionen"
+        "Modernstes Hochhaus und Wahrzeichen von Tripolis.",
+        "Markante ovale Architektur mit Glasfassade.",
+        "Beherbergt Büros, ein Hotel und Konferenzräume.",
+        "Bietet einen weiten Blick über das Mittelmeer.",
+        "Symbol für den wirtschaftlichen Fortschritt der Stadt.",
+        "Gelegen im zentralen Geschäftsviertel nahe der Küste.",
+        "Eines der höchsten Gebäude in ganz Libyen.",
+        "Wichtiger Treffpunkt für internationale Geschäftsdelegationen."
       ]
     },
     {
-      "id": "murzuq-cities-v2",
-      "descriptionAdvanced": "Murzuq war im 16. Jahrhundert ein blühendes Zentrum im Fessan und ein entscheidender Knotenpunkt des Karawanenhandels durch die Sahara. Die Ruinen der massiven osmanischen Festung zeugen von der strategischen Bedeutung der Stadt, die einst eine wichtige Rolle im transsaharischen Sklaven- und Goldhandel spielte. Geschichte K8 — Transsaharahandel.",
+      "id": "corinthia-hotel-tripoli-landmarks-v2",
+      "descriptionAdvanced": "Das Corinthia Hotel Tripoli ist das führende Luxushotel Libyens und ein zentraler Treffpunkt für Diplomatie und internationale Geschäfte. Direkt an der Küstenstraße von Tripolis gelegen, besticht das Gebäude durch seine zwei markanten Türme und seine opulente Innenausstattung, die modernen Luxus mit traditionellen arabischen Designelementen verbindet. Das Hotel bietet erstklassige Unterkünfte, exklusive Restaurants und umfangreiche Wellness-Einrichtungen. Es ist bekannt für seine hohe Sicherheit und seine Rolle als Gastgeber für hochrangige politische Treffen und internationale Konferenzen. Die Lage in der Nähe des Hafens und der Altstadt macht es zu einem idealen Ausgangspunkt für Reisende, die den Komfort einer Weltklasse-Anlage im Herzen der libyschen Metropole suchen.",
       "factsAdvanced": [
-        "Ehemalige Hauptstadt des Fessan",
-        "Zentrum des historischen Transsaharahandels",
-        "Ruinen der osmanischen Festung Murzuq",
-        "Historische Rolle im Sklaven- und Goldhandel",
-        "Gelegen in einer großen Wüstensenke",
-        "Umgeben von Dattelpalmen-Oasen"
+        "Exklusivstes Fünf-Sterne-Hotel in Libyen.",
+        "Markante Architektur mit zwei markanten Türmen.",
+        "Liegt direkt an der Küstenlinie von Tripolis.",
+        "Zentrum für internationale Diplomatie und Wirtschaft.",
+        "Verbindet modernes Design mit orientalischem Luxus.",
+        "Beherbergt preisgekrönte Restaurants und Spa-Bereiche.",
+        "Wichtiger Veranstaltungsort für globale Staatsbesuche.",
+        "Bietet erstklassige Sicherheit für internationale Gäste."
       ]
     },
     {
-      "id": "awbari-cities-v2",
-      "descriptionAdvanced": "Awbari (Ubari) ist eine malerische Wüstenstadt, die im fruchtbaren Wadi al Hayaa liegt. Sie ist das Hauptzentrum der libyschen Tuareg-Bevölkerung und dient als idealer Ausgangspunkt für Ausflüge zu den atemberaubenden, stark salzhaltigen Ubari-Seen, die umgeben von hohen Sanddünen mitten in der Wüste liegen. Geografie K7 — Wüstenökosysteme.",
+      "id": "dat-el-imad-landmarks-v2",
+      "descriptionAdvanced": "Der Dat el-Imad Komplex ist eines der bekanntesten Bauwerke der modernen Ära in Tripolis und besteht aus fünf identischen, zylinderförmigen Türmen. Dieser Bürokomplex prägt die Skyline im Westen der Stadt und ist Sitz zahlreicher nationaler und internationaler Unternehmen, darunter viele Akteure aus dem Öl- und Gassektor. Die Architektur ist ein Beispiel für den modernistischen Stil der 1980er und 90er Jahre in Libyen und symbolisiert die bürokratische und wirtschaftliche Infrastruktur des Landes. Umgeben von gepflegten Anlagen und in direkter Nähe zum Meer gelegen, bietet der Komplex eine hochfunktionale Arbeitsumgebung. Dat el-Imad bleibt ein bedeutendes Denkmal der Stadtplanung, das die wirtschaftliche Bedeutung der Hauptstadt als administratives Zentrum Libyens unterstreicht.",
       "factsAdvanced": [
-        "Gelegen im Wadi al Hayaa",
-        "Hauptzentrum der Tuareg in Libyen",
-        "Ausgangspunkt zu den Ubari-Seen",
-        "Umgrenzt von riesigen Sanddünen",
-        "Historisch ein Rastplatz für Karawanen",
-        "Stark von landwirtschaftlichen Oasen geprägt"
+        "Bürokomplex bestehend aus fünf markanten Türmen.",
+        "Zentraler Sitz für internationale Öl- und Gasfirmen.",
+        "Wahrzeichen der modernen Stadtplanung von Tripolis.",
+        "Gelegen im exklusiven Viertel nahe der Küstenstraße.",
+        "Architektonisches Beispiel für libyschen Modernismus.",
+        "Wichtiger Knotenpunkt für nationale Verwaltungsbehörden.",
+        "Bietet umfangreiche Park- und Sicherheitskapazitäten.",
+        "Markanter Orientierungspunkt in der Skyline der Hauptstadt."
       ]
     },
     {
-      "id": "ghat-cities-v2",
-      "descriptionAdvanced": "Ghat, nahe der algerischen Grenze, war lange ein Endpunkt der Karawanenrouten und ist heute noch eine traditionelle Tuareg-Oase. Die Stadt ist berühmt für ihre alte, lehmgebaute Medina sowie die nahegelegenen Akakus-Berge, in denen prähistorische Felsmalereien von einer einst grünen Sahara erzählen. Geschichte K7 — Prähistorische Kunst.",
+      "id": "jamal-abdul-nasser-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Jamal-Abdul-Nasser-Moschee, die sich am zentralen Platz der Unabhängigkeit in Tripolis befindet, ist eine der größten und bedeutendsten Sakralbauten des Landes. Ursprünglich als katholische Kathedrale von Tripolis während der italienischen Kolonialzeit erbaut, wurde das Gebäude nach der Unabhängigkeit in eine Moschee umgewandelt und nach dem ägyptischen Präsidenten benannt. Die Architektur ist eine faszinierende Mischung aus neoromanischen Elementen der ursprünglichen Struktur und späteren islamischen Ergänzungen wie den Minaretten. Die Moschee dient heute als zentrales religiöses Zentrum und Ort für große Freitagsgebete. Ihre imposante Präsenz und ihre bewegte Geschichte machen sie zu einem symbolträchtigen Ort, der den Wandel Libyens von der Kolonialzeit zur islamischen Republik widerspiegelt.",
       "factsAdvanced": [
-        "Traditionelle Tuareg-Oasenstadt",
-        "Nahe der Grenze zu Algerien",
-        "Historische, lehmgebaute Medina",
-        "Tor zu den Akakus-Bergen",
-        "Zugang zu prähistorischen Felszeichnungen",
-        "Austragungsort des Ghat-Festivals"
+        "Zentrale Großmoschee am Platz der Unabhängigkeit.",
+        "Ehemals die römisch-katholische Kathedrale von Tripolis.",
+        "Umbenannt zu Ehren des ägyptischen Führers Nasser.",
+        "Präsentiert eine einzigartige Mischung aus Stilen.",
+        "Wichtiger Ort für religiöse Feierlichkeiten und Gebete.",
+        "Dominantes Bauwerk im Herzen der Innenstadt.",
+        "Spiegelt die komplexe Geschichte Libyens im 20. Jahrhundert wider.",
+        "Verfügt über prächtige Innenräume und moderne Minarette."
       ]
     },
     {
-      "id": "ghadames-cities-v2",
-      "descriptionAdvanced": "Ghadames, oft als die 'Perle der Wüste' bezeichnet, ist berühmt für seine einzigartige, traditionelle Architektur, die an extreme Wüstenbedingungen angepasst ist. Die durch weiß getünchte Wände und verwinkelte Gänge geprägte Altstadt gehört seit 1986 zum UNESCO-Weltkulturerbe und bot einst Schutz vor Wüstenhitze und Sandstürmen. Geografie K8 — Klimaangepasstes Bauen.",
+      "id": "martyrs-square-tripoli-landmarks-v2",
+      "descriptionAdvanced": "Der Platz der Märtyrer (Maidan al-Shuhada) ist das pulsierende Herz von Tripolis und der bedeutendste öffentliche Raum Libyens. Der weite Platz, der direkt an das Rote Schloss (Assai al-Hamra) und die Altstadt grenzt, ist seit Jahrzehnten der Ort für politische Kundgebungen, nationale Feierlichkeiten und soziale Treffen. Umgeben von italienischen Kolonialbauten und modernen Fassaden, bietet der Platz einen faszinierenden Einblick in die Schichten der Stadtgeschichte. Abends füllt sich der Bereich mit Familien und Spaziergängern, die die Meeresbrise und die lebendige Atmosphäre genießen. Als Schauplatz entscheidender Momente der libyschen Revolutionen bleibt der Platz der Märtyrer ein kraftvolles Symbol für die nationale Identität und den Freiheitswillen der libyschen Bevölkerung.",
       "factsAdvanced": [
-        "Bekannt als 'Perle der Wüste'",
-        "UNESCO-Weltkulturerbe seit 1986",
-        "Einzigartige klimatisierte Lehmarchitektur",
-        "Drei-Länder-Eck (Libyen, Algerien, Tunesien)",
-        "Historisch wichtige Karawanenstadt",
-        "Unterirdische Fußgängerwege"
+        "Zentraler Platz und wichtigster Treffpunkt in Tripolis.",
+        "Grenzt direkt an das historische Rote Schloss.",
+        "Ort für bedeutende politische und soziale Ereignisse.",
+        "Umgeben von markanter Architektur verschiedener Epochen.",
+        "Hieß früher 'Grüner Platz' und 'Piazza Italia'.",
+        "Symbolzentrum der libyschen Revolution von 2011.",
+        "Bietet direkten Zugang zur historischen Medina.",
+        "Beliebtester Ort für öffentliche Feiern und Paraden."
       ]
     },
     {
-      "id": "hun-cities-v2",
-      "descriptionAdvanced": "Hun ist die größte der drei historischen Oasenstädte in der Region Jufra in Zentrallibyen. Die Stadt ist landesweit bekannt für ihr jährliches Dattelfestival, bei dem die reiche lokale Ernte gefeiert wird, sowie für ihre strategische Lage zwischen der Küstenregion und dem tiefen Süden. Geografie K7 — Oasenwirtschaft.",
+      "id": "tripoli-stadium-landmarks-v2",
+      "descriptionAdvanced": "Das Tripolis-Stadion, offiziell bekannt als Internationales Stadion von Tripolis, ist die größte Sportstätte Libyens und ein Tempel für den Fußball, den Nationalsport des Landes. Es wurde in den 1970er Jahren erbaut und bietet Platz für zehntausende begeisterte Fans. Das Stadion ist die Heimstätte der libyschen Nationalmannschaft und der großen Hauptstadtklubs Al-Ahli und Al-Ittihad. Hier finden die emotionalsten Derbys und wichtigsten Länderspiele statt, die das Land regelmäßig in Atem halten. Die Atmosphäre bei Spielen ist legendär und spiegelt die tiefe Leidenschaft der Libyer für den Sport wider. Über den Fußball hinaus dient die Anlage auch für große Leichtathletikwettbewerbe und kulturelle Großveranstaltungen, was sie zu einem zentralen Ort der sozialen Integration macht.",
       "factsAdvanced": [
-        "Hauptstadt des Jufra-Bezirks",
-        "Zentrale Oasenstadt Libyens",
-        "Bekannt für das jährliche Dattelfestival",
-        "Liegt südlich der Syrte-Wüste",
-        "Wichtiger ziviler und militärischer Knotenpunkt",
-        "Umgeben von fruchtbaren Palmenhainen"
+        "Größtes Fußballstadion Libyens mit hoher Kapazität.",
+        "Heimstätte der libyschen Nationalmannschaft.",
+        "Schauplatz der hitzigen Derbys zwischen Al-Ahli und Al-Ittihad.",
+        "Wichtigster Austragungsort für internationale Länderspiele.",
+        "Zentrum des sportlichen und sozialen Lebens in Tripolis.",
+        "Multifunktionale Anlage für Leichtathletik und Events.",
+        "Erbaut im Rahmen der sportlichen Modernisierung Libyens.",
+        "Symbol für die nationale Begeisterung für den Fußball."
       ]
     },
     {
-      "id": "waddan-cities-v2",
-      "descriptionAdvanced": "Waddan ist die älteste Stadt in der Jufra-Oasengruppe und verfügt über antike, prähistorische und islamische Ruinen. Die historische Stadt war historisch von zentraler Bedeutung für Karawanen, die sich in Zentrallibyen aufhielten, und hat ihre Beduinen- und Oasentraditionen bis heute weitgehend bewahrt. Geschichte K7 — Saharische Siedlungen.",
+      "id": "benina-airport-terminal-landmarks-v2",
+      "descriptionAdvanced": "Der Flughafen Bengasi-Benina ist das wichtigste Luftverkehrsdrehkreuz in Ostlibyen und das Tor zur Region Kyrenaika. Das Terminal dient als lebenswichtige Verbindung für den Personen- und Frachtverkehr und verbindet Bengasi mit der Hauptstadt Tripolis sowie mit internationalen Zielen im Nahen Osten und Nordafrika. Nach Zeiten der Zerstörung und Sperrung wurde der Flughafen mit modernisierten Einrichtungen wiedereröffnet, was ein entscheidendes Zeichen für die Erholung und Stabilität der Region war. Das Terminal bietet moderne Check-in-Bereiche, Lounges und Logistikzentren, die den reibungslosen Ablauf des Flugbetriebs gewährleisten. Benina ist nicht nur eine Infrastruktureinrichtung, sondern auch ein strategisches Asset, das den wirtschaftlichen Austausch und die Mobilität der Bevölkerung im Osten Libyens sichert.",
       "factsAdvanced": [
-        "Älteste Stadt in der Jufra-Region",
-        "Enthält antike und islamische Ruinen",
-        "Historischer Karawanen-Knotenpunkt",
-        "Traditioneller Dattelanbau",
-        "Liegt am Rand vulkanischen Gesteins",
-        "Bewahrt reiche Oasenkultur"
+        "Haupthafen für den Flugverkehr im Osten Libyens.",
+        "Befindet sich ca. 19 km östlich von Bengasi.",
+        "Wichtiger Knotenpunkt für Inlands- und Auslandsflüge.",
+        "Wurde nach umfangreichen Renovierungen wiedereröffnet.",
+        "Tor zur Region Kyrenaika für Geschäftsreisende und Touristen.",
+        "Beherbergt moderne Passagier- und Frachtterminals.",
+        "Strategische Basis für die zivile Luftfahrt in Libyen.",
+        "Entscheidend für die wirtschaftliche Anbindung der Region."
       ]
     },
     {
-      "id": "brak-cities-v2",
-      "descriptionAdvanced": "Brak liegt im fruchtbaren Wadi al-Shati im Südwesten Libyens und ist ein wichtiges lokales Landwirtschaftszentrum. Die Stadt profitiert von unterirdischen Wasserquellen, die eine intensive Oasen-Landwirtschaft ermöglichen, und dient als administratives Zentrum für die weiten, spärlich besiedelten Täler der Region. Geografie K6 — Wüstenlandwirtschaft.",
+      "id": "tibesti-hotel-benghazi-landmarks-v2",
+      "descriptionAdvanced": "Das Tibesti Hotel ist das bekannteste und prestigeträchtigste Hotel in Bengasi und ein Wahrzeichen der Stadt am Meer. Das markante Hochhaus dominiert die Skyline am Hafen und ist seit Jahrzehnten das Zentrum für soziale und geschäftliche Ereignisse in der Kyrenaika. Es bietet luxuriöse Unterkünfte und erstklassige Konferenzmöglichkeiten, die es zum bevorzugten Aufenthaltsort für Staatsgäste, Journalisten und internationale Delegationen machen. Von den oberen Etagen genießen Gäste einen unvergleichlichen Blick auf den Hafen von Bengasi und das Mittelmeer. Trotz der Herausforderungen durch Konflikte in der Stadt blieb das Tibesti ein Symbol für Beständigkeit und Gastfreundschaft. Seine Architektur und seine zentrale Lage machen es zu einem unverzichtbaren Teil der urbanen Identität und zu einem Motor für den lokalen Dienstleistungssektor.",
       "factsAdvanced": [
-        "Hauptstadt des Wadi al-Shati",
-        "Zentrum der lokalen Landwirtschaft",
-        "Nutzung tiefer Grundwasserleiter",
-        "Zahlreiche Dattel- und Gemüsefarmen",
-        "Historisch eine wichtige Raststätte",
-        "Starke traditionelle Stammesstruktur"
+        "Bedeutendstes Luxushotel und Hochhaus in Bengasi.",
+        "Zentraler Treffpunkt für Politik und Wirtschaft im Osten.",
+        "Bietet einen Panoramablick auf den Hafen und das Meer.",
+        "Wahrzeichen der Skyline von Bengasi seit Jahrzehnten.",
+        "Hoster für internationale Medien und Staatsdelegationen.",
+        "Verfügt über umfangreiche Bankett- und Tagungsräume.",
+        "Symbol für den Wiederaufbau und die Gastfreundschaft der Stadt.",
+        "Zentral gelegen im Herzen des Geschäftsviertels."
       ]
     },
     {
-      "id": "al-qatrun-cities-v2",
-      "descriptionAdvanced": "Al Qatrun ist eine der südlichsten Siedlungen Libyens und ein zentrales Siedlungsgebiet der indigenen Tebu. Aufgrund ihrer abgelegenen Lage an der Straße Richtung Tschad und Niger ist die Stadt ein wichtiger, wenn auch rauer Grenzposten und Transitort für Handel und Migration durch die tiefste Sahara. Geografie K8 — Grenzen und Migration.",
+      "id": "benghazi-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Der Leuchtturm von Bengasi ist eines der ältesten und charmantesten Wahrzeichen der Stadt. Er steht am Rande des alten Hafens und dient seit der italienischen Kolonialzeit als sicherer Wegweiser für Schiffe, die die zweitgrößte Stadt Libyens anlaufen. Das elegante Bauwerk mit seinen charakteristischen schwarz-weißen Streifen ist ein beliebtes Fotomotiv und ein Symbol für die maritime Geschichte Bengasis. Der Leuchtturm hat zahlreiche Stürme und Kriege überdauert und ist ein stiller Zeuge des Wandels der Stadt von einem osmanischen Handelsposten zu einer modernen Metropole. In seiner Umgebung finden sich Reste der historischen Altstadt und lebendige Märkte, was den Ort zu einem kulturellen Anziehungspunkt macht. Er repräsentiert die Beständigkeit und die tiefe Verbindung Bengasis mit dem Mittelmeer.",
       "factsAdvanced": [
-        "Eine der südlichsten Städte Libyens",
-        "Hauptsächlich vom Volk der Tebu bewohnt",
-        "Wichtiger Transitort nach Tschad und Niger",
-        "Extreme Wüstenumgebung",
-        "Historisch Teil der Gold- und Salzroute",
-        "Grenzposten für den Saharahandel"
+        "Historisches maritimes Wahrzeichen am Hafen von Bengasi.",
+        "Charakteristisches schwarz-weiß gestreiftes Design.",
+        "Erbaut während der italienischen Ära zur Sicherung der Schifffahrt.",
+        "Einer der am besten erhaltenen historischen Leuchttürme Libyens.",
+        "Beliebter Orientierungspunkt und Treffpunkt an der Küste.",
+        "Symbol für die lange Seefahrtstradition der Kyrenaika.",
+        "Bietet eine malerische Kulisse für das Hafenviertel.",
+        "Zeuge der bewegten modernen Geschichte der Stadt."
       ]
     },
     {
-      "id": "zintan-cities-v2",
-      "descriptionAdvanced": "Zintan liegt hoch in den Nafusa-Bergen und wurde 2011 weltweit bekannt, als bewaffnete Gruppen aus der Stadt eine Schlüsselrolle beim Fall des Gaddafi-Regimes in Tripolis spielten. Die robuste Bergstadt zeichnet sich durch ihre starke, kriegerische Stammeskultur und die traditionelle Weidewirtschaft in den Tälern aus. Geschichte K8 — Jüngste Konflikte.",
+      "id": "al-sahaba-mosque-derna-landmarks-v2",
+      "descriptionAdvanced": "Die Al-Sahaba-Moschee in Darna ist das architektonische und spirituelle Wahrzeichen dieser traditionsreichen Stadt im Osten Libyens. Die Moschee ist berühmt für ihre prächtige goldene Kuppel und ihre eleganten Minarette, die das Stadtbild dominieren. Das Bauwerk ist nicht nur ein Ort des Gebets, sondern auch ein Symbol für die kulturelle Identität und die religiöse Gelehrsamkeit, für die Darna seit Jahrhunderten bekannt ist. In der Moschee befinden sich die Gräber einiger Gefährten (Sahaba) des Propheten Muhammad, was ihr eine besondere spirituelle Bedeutung und Anziehungskraft für Pilger verleiht. Die Architektur verbindet klassische islamische Elemente mit lokaler Ästhetik und spiegelt den Stolz der Bewohner auf ihr Erbe wider. Die Moschee ist das Herz der Gemeinschaft und ein Ort der Ruhe und Besinnung inmitten der lebendigen Küstenstadt.",
       "factsAdvanced": [
-        "Gelegen im Nafusa-Gebirge",
-        "Schlüsselrolle in der Revolution 2011",
-        "Starke, traditionelle Stammesidentität",
-        "Viehzucht und lokale Landwirtschaft",
-        "Bedeutende militärische Präsenz",
-        "Strategischer Blick auf die Küstenebene"
+        "Bedeutendste Moschee und Wahrzeichen der Stadt Darna.",
+        "Berühmt für ihre weithin sichtbare goldene Kuppel.",
+        "Beherbergt Gräber von Gefährten des Propheten (Sahaba).",
+        "Zentrum der religiösen Bildung und Kultur im Osten.",
+        "Meisterwerk der modernen islamischen Architektur in Libyen.",
+        "Wichtigster Treffpunkt für religiöse Feiertage in der Region.",
+        "Symbol für den kulturellen Reichtum und die Identität Darnas.",
+        "Gelegen im historischen Zentrum nahe dem Wadi Darna."
       ]
     },
     {
-      "id": "mizda-cities-v2",
-      "descriptionAdvanced": "Mizda, eingebettet in die Hochebenen Tripolitaniens südlich von Tripolis, hat eine lange Geschichte als Rastplatz auf den Handelsrouten in den Fezzan. Die Region ist von zerklüfteten Tälern und Steinwüsten geprägt und dient bis heute als wichtiger Verkehrsknotenpunkt, der den Norden mit den Wüstenregionen verbindet. Geografie K7 — Historische Geografie.",
+      "id": "misrata-central-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Zentralmoschee von Misrata ist ein beeindruckendes Beispiel für moderne islamische Architektur und das religiöse Zentrum der drittgrößten Stadt Libyens. Das weitläufige Bauwerk zeichnet sich durch seine klaren Linien, die monumentale Gebetshalle und die eleganten Minarette aus, die weit über das Stadtzentrum ragen. Als Hauptmoschee der Stadt dient sie nicht nur den täglichen Gebeten, sondern ist auch ein Ort für soziale Zusammenkünfte, Hochzeiten und religiöse Unterweisung. Die Moschee spiegelt den wirtschaftlichen Wohlstand und den starken Gemeinschaftssinn der Bewohner von Misrata wider. Mit ihrer ruhigen Atmosphäre und ihrer ästhetischen Gestaltung bietet sie einen Ort der Einkehr in einer ansonsten sehr geschäftigen Handelsstadt. Sie ist ein Symbol für die tief verwurzelten Werte und die moderne Vitalität der Region Misrata.",
       "factsAdvanced": [
-        "Knotenpunkt in Tripolitanien",
-        "Historischer Rastplatz auf dem Weg in den Süden",
-        "Umgeben von Halbwüste und Felsplateaus",
-        "Landwirtschaft in bewässerten Tälern",
-        "Wichtige Straßenverbindung nach Sabha",
-        "Gemischte Bevölkerungsstruktur"
+        "Größte und wichtigste Moschee in der Handelsstadt Misrata.",
+        "Zentrum des religiösen und sozialen Lebens der Gemeinde.",
+        "Markantes Wahrzeichen mit moderner islamischer Architektur.",
+        "Ort für bedeutende Freitagsgebete und Festlichkeiten.",
+        "Verfügt über umfangreiche Räumlichkeiten für Bildung.",
+        "Symbol für die Identität und den Zusammenhalt Misratas.",
+        "Herausragendes Beispiel für zeitgenössisches libysches Design.",
+        "In der Nähe wichtiger Handels- und Verwaltungszentren gelegen."
       ]
     },
     {
-      "id": "shahhat-cities-v2",
-      "descriptionAdvanced": "Shahhat wurde direkt neben den beeindruckenden Ruinen der antiken griechischen Stadt Kyrene (Cyrene) erbaut. Diese UNESCO-Weltkulturerbestätte in den fruchtbaren Hügeln des Dschabal al-Achdar zeugt von der enormen Bedeutung Libyens in der hellenistischen Epoche, mit gut erhaltenen Tempeln des Apollon und Zeus. Geschichte K7 — Griechische Antike.",
+      "id": "ouagadougou-conference-center-landmarks-v2",
+      "descriptionAdvanced": "Das Ouagadougou-Konferenzzentrum in Sirte ist ein monumentales Bauwerk, das einst als Schauplatz für globale Diplomatie und afrikanische Einheit konzipiert wurde. Benannt nach der Hauptstadt von Burkina Faso, diente der riesige Komplex als Austragungsort für Gipfeltreffen der Afrikanischen Union und andere internationale Konferenzen. Die Architektur ist durch ihre Größe und ihre futuristischen Elemente beeindruckend und sollte Sirtes Rolle als politisches Zentrum Libyens und Brücke zu Afrika unterstreichen. Der Komplex umfasst riesige Plenarsäle, luxuriöse Empfangsbereiche und modernste Kommunikationstechnik. Trotz der schweren Schäden, die Sirte in den letzten Jahren erfahren hat, bleibt das Zentrum ein bedeutendes Landmark, das an eine Ära des politischen Ehrgeizes und an die Versuche Libyens erinnert, eine führende Rolle auf dem afrikanischen Kontinent einzunehmen.",
       "factsAdvanced": [
-        "Heimat der antiken Stadt Kyrene",
-        "UNESCO-Weltkulturerbe",
-        "Hervorragend erhaltene griechische Tempel",
-        "Gelegen im fruchtbaren Dschabal al-Achdar",
-        "Einst wichtiges hellenistisches Zentrum",
-        "Nahe der Stadt Al Bayda"
+        "Monumentaler Konferenzkomplex in der Stadt Sirte.",
+        "Einstiger Haupttagungsort für die Gipfel der Afrikanischen Union.",
+        "Symbol für libysche Diplomatie und afrikanische Integration.",
+        "Umfasst riesige Säle und modernste Konferenztechnik.",
+        "Markante, weithin sichtbare Architektur in der Wüstenstadt.",
+        "Wurde als 'Hauptstadt von Afrika' in politischen Kreisen beworben.",
+        "Wichtiges historisches Denkmal für die Ära Gaddafi.",
+        "Ort bedeutender internationaler Vertragsunterzeichnungen."
       ]
     },
     {
-      "id": "susa-cities-v2",
-      "descriptionAdvanced": "Susa ist eine pittoreske Küstenstadt, die direkt auf den Überresten der antiken Hafenstadt Apollonia liegt. In der Antike diente sie als Haupthafen für die nahegelegene Stadt Kyrene; heute zieht die Stadt Touristen und Archäologen durch die teilweise im Mittelmeer versunkenen Ruinen an. Geschichte K7 — Antike Hafenstädte.",
+      "id": "zawiya-grand-mosque-landmarks-v2",
+      "descriptionAdvanced": "Die Große Moschee von Zawiya ist das spirituelle Herz dieser strategisch wichtigen Stadt im Westen Libyens. Gelegen am zentralen Platz der Stadt, ist sie ein bedeutender Ort des Gebets und ein Treffpunkt für die lokale Gemeinschaft. Die Moschee ist bekannt für ihre traditionelle Architektur, die Ruhe und Würde ausstrahlt, und dient als Ankerpunkt für die Bewohner in Zeiten des Wandels. Das Bauwerk mit seinen charakteristischen Merkmalen und dem angrenzenden Platz hat eine hohe symbolische Bedeutung und war oft Schauplatz bedeutender öffentlicher Ereignisse. Als Zentrum der religiösen Bildung spielt sie eine wichtige Rolle bei der Bewahrung der islamischen Werte in der Region. Die Große Moschee von Zawiya repräsentiert die Kontinuität des Glaubens und die tiefe kulturelle Verwurzelung der Menschen in der Küstenregion Tripolitanien.",
       "factsAdvanced": [
-        "Erbaut auf der antiken Stadt Apollonia",
-        "Antiker Hafen von Kyrene",
-        "Versunkene römische und griechische Ruinen",
-        "Pittoreske Lage am Mittelmeer",
-        "Besitzt antikes römisches Theater am Meer",
-        "Bedeutendes byzantinisches Erbe"
+        "Zentrales religiöses Zentrum der Küstenstadt Zawiya.",
+        "Gelegen am Hauptplatz, dem Mittelpunkt des öffentlichen Lebens.",
+        "Bedeutender Ort für die Bewahrung lokaler Traditionen.",
+        "Symbol für den Zusammenhalt und die Widerstandskraft der Stadt.",
+        "Traditionelle islamische Architektur mit markantem Minarett.",
+        "Zentrum für Freitagsgebete und religiöse Unterweisung.",
+        "Wichtiges Denkmal für die Stadtgeschichte von Zawiya.",
+        "Ort für bedeutende soziale und gemeinschaftliche Treffen."
       ]
     },
     {
-      "id": "jalu-cities-v2",
-      "descriptionAdvanced": "Die Oase Jalu im Nordosten Libyens ist besonders bekannt für ihre hochwertigen Datteln, die seit Jahrhunderten in die Küstenstädte exportiert werden. Seit der Entdeckung von Erdöl in der umliegenden Wüste hat sich die Stadt zudem zu einem wichtigen logistischen Zentrum für die libysche Ölindustrie entwickelt. Geografie K8 — Oasen und Erdöl.",
+      "id": "wadi-al-hayat-nature-v2",
+      "descriptionAdvanced": "Das Wadi al-Hayat, das 'Tal des Lebens', ist eine faszinierende Oasenkette im Herzen der libyschen Sahara im Fessan. Dieses fruchtbare Tal erstreckt sich entlang des Nordrandes des Ubari-Sandmeeres und ist seit Jahrtausenden besiedelt. Es ist bekannt für seine üppigen Palmenhaine, die einen scharfen Kontrast zu den gewaltigen orangefarbenen Sanddünen im Hintergrund bilden. Hier befand sich einst das Zentrum des Garamanten-Reiches, einer antiken Zivilisation, die durch ausgeklügelte Bewässerungssysteme in der Wüste florierte. Das Wadi al-Hayat ist nicht nur eine ökologische Nische von großer Schönheit, sondern auch ein Freilichtmuseum der Menschheitsgeschichte mit zahlreichen archäologischen Stätten und traditionellen Lehmbauten. Es verkörpert das Wunder des Lebens in einer der extremsten Umgebungen der Erde und bleibt ein Lebensnerv für die Menschen der Wüste.",
       "factsAdvanced": [
-        "Zentrum des libyschen Dattelanbaus",
-        "Strategisches Logistikzentrum für Erdöl",
-        "Bedeutende Oasenstadt in Ostlibyen",
-        "Einheimische sprachen historisch den Awjila-Jalu-Dialekt",
-        "Wichtiger Wüsten-Knotenpunkt",
-        "Starker Ausbau durch die Ölindustrie"
+        "Fruchtbare Oasenkette im südwestlichen Fessan.",
+        "Einstiges Kernland der antiken Garamanten-Zivilisation.",
+        "Spektakuläre Lage zwischen Sanddünen und felsigen Plateaus.",
+        "Reich an Dattelpalmen und traditioneller Landwirtschaft.",
+        "Beherbergt zahlreiche historische Stätten wie Germa.",
+        "Lebensader für die lokale Bevölkerung in der Sahara.",
+        "Bekannt für seine antiken Foggaras (Bewässerungskanäle).",
+        "Einzigartige Kulturlandschaft von internationalem Rang."
       ]
     },
     {
-      "id": "awjila-cities-v2",
-      "descriptionAdvanced": "Awjila ist eine historisch extrem bedeutsame Oase, die bereits vom antiken griechischen Historiker Herodot erwähnt wurde. Sie ist berühmt für die Große Moschee, die als älteste Moschee in ganz Nordafrika gilt, sowie für die Bewahrung der vom Aussterben bedrohten lokalen Berbersprache. Geschichte K8 — Islamische Frühgeschichte.",
+      "id": "jebel-akhdar-nature-v2",
+      "descriptionAdvanced": "Der Jebel Akhdar, das 'Grüne Gebirge', ist ein ökologisches Juwel im Nordosten Libyens und bildet einen erstaunlichen Gegensatz zum Rest des überwiegend wüstenhaften Landes. Durch die hohen Niederschlagsmengen in dieser Küstenregion ist das Gebirge mit dichten Wäldern aus Pinien, Wacholder und wilden Olivenbäumen bedeckt. Die fruchtbaren Hochebenen werden seit der Antike für den Ackerbau genutzt und bieten ein mildes, mediterranes Klima. Tiefe Schluchten (Wadis), antike Ruinen wie die von Kyrene und malerische Dörfer prägen das Landschaftsbild. Der Jebel Akhdar ist ein Rückzugsort für eine vielfältige Flora und Fauna und ein wichtiges Naherholungsgebiet. Die Kombination aus grüner Natur, frischer Bergluft und der Nähe zum tiefblauen Mittelmeer macht dieses Gebirge zu einer der schönsten und lebenswertesten Regionen in ganz Nordafrika.",
       "factsAdvanced": [
-        "Eine der ältesten Oasen Nordafrikas",
-        "Heimat der ältesten Moschee Libyens (Große Moschee)",
-        "Bewahrung der indigenen Awjila-Sprache",
-        "Schon von Herodot in der Antike erwähnt",
-        "Wichtige Station im alten Karawanenhandel",
-        "Typische Lehmziegel-Architektur"
+        "Niederschlagsreichste und grünste Region Libyens.",
+        "Besteht aus Kalksteinplateaus, die bis auf 880 m ansteigen.",
+        "Heimat seltener Pflanzenarten und dichter Wälder.",
+        "Zentrum der antiken griechischen Kolonisation (Kyrenaika).",
+        "Wichtiges landwirtschaftliches Gebiet für Obst und Getreide.",
+        "Mildes mediterranes Klima im Kontrast zur Sahara.",
+        "Bekannt für malerische Wadis und Wasserquellen.",
+        "Bedeutendes Ziel für Naturtourismus und Wandern."
       ]
     },
     {
-      "id": "zella-cities-v2",
-      "descriptionAdvanced": "Zella, die südlichste Oase in der Jufra-Region, war einst ein ruhiges landwirtschaftliches Zentrum, das sich dem Palmenanbau widmete. Heute ist die Stadt stark von der umgebenden libyschen Ölindustrie geprägt, wobei große Ölfelder in der Nähe maßgeblich zur lokalen Wirtschaft beitragen. Geografie K8 — Öl-Ökonomie.",
+      "id": "lake-gaberoun-nature-v2",
+      "descriptionAdvanced": "Der Gaberoun-See ist eine der spektakulärsten und meistfotografierten Naturschönheiten der libyschen Wüste. Inmitten der gewaltigen Sanddünen des Ubari-Sandmeeres gelegen, wirkt dieser tiefblaue, salzhaltige See wie eine Fata Morgana. Umgeben von Ruinen eines verlassenen Beduinendorfes und üppigen Palmen, bietet er einen surrealen Anblick. Das Wasser des Sees ist extrem salzhaltig und an der Oberfläche kühl, während es in der Tiefe überraschend warm ist. Früher lebten hier die Daouada, ein Stamm, der sich von den im See vorkommenden Salzkrebschen ernährte. Heute ist Gaberoun ein legendäres Ziel für Wüstensafaris. Ein Bad im See, bei dem man wie im Toten Meer obenauf schwimmt, während man auf die riesigen Sicheldünen blickt, ist ein unvergessliches Erlebnis, das die Magie der Sahara perfekt verkörpert.",
       "factsAdvanced": [
-        "Südlichste Oase der Jufra-Region",
-        "Historisches Zentrum des Dattelanbaus",
-        "Heute geprägt von umliegenden Ölfeldern",
-        "Wichtiger lokaler Knotenpunkt",
-        "Extrem trockenes und heißes Klima",
-        "Dient als Stützpunkt für Ölarbeiter"
+        "Berühmter Oasensee im Ubari-Sandmeer.",
+        "Extrem salzhaltiges Wasser mit thermischen Schichten.",
+        "Umgeben von bis zu 200 Meter hohen Sanddünen.",
+        "Standort eines verlassenen Dorfes des Daouada-Stammes.",
+        "Legendäres Ziel für Geländewagen-Safaris.",
+        "Das Wasser ist bekannt für seine heilende Wirkung.",
+        "Einzigartiges Ökosystem mit spezialisierten Krebsarten.",
+        "Symbol für die versteckten Schätze der Sahara."
       ]
     },
     {
-      "id": "sokna-cities-v2",
-      "descriptionAdvanced": "Sokna ist eine der drei großen historischen Siedlungen der Jufra-Oasengruppe und war in der Vergangenheit bekannt für einen lokalen Amazigh-Dialekt, die Sokna-Sprache, die heute als ausgestorben gilt. Die traditionelle Altstadt ist umgeben von Palmen und spiegelt das ruhige Leben der Oasenbauern wider. Geografie K7 — Oasen und Linguistik.",
+      "id": "mandara-lakes-nature-v2",
+      "descriptionAdvanced": "Die Mandara-Seen sind eine Gruppe von versteckten Oasenseen inmitten der Idhan Ubari Sandwüste. Der bekannteste unter ihnen, der Mandara-See, ist oft ausgetrocknet und hinterlässt eine strahlend weiße Salzkruste, die einen dramatischen Kontrast zu den goldenen Dünen bildet. In regenreicheren Zeiten füllen sich die Seen und ziehen Vögel und Reisende gleichermaßen an. Die Umgebung ist geprägt von einer absoluten Stille und der unendlichen Weite der Sandsee-Landschaft. Diese Seen sind Teil eines komplexen unterirdischen Wassersystems, das Leben in einer Region ermöglicht, die zu den trockensten der Welt gehört. Ein Besuch der Mandara-Seen bietet die seltene Gelegenheit, die fragile Schönheit von Wüstenfeuchtgebieten zu erleben und die gewaltige geologische Dynamik der Sahara aus nächster Nähe zu bewundern.",
       "factsAdvanced": [
-        "Teil der historischen Jufra-Oasen",
-        "Historische Heimat der ausgestorbenen Sokna-Sprache",
-        "Landwirtschaft geprägt von Dattelpalmen",
-        "Traditionelle Lehmziegelarchitektur",
-        "Knotenpunkt auf der Straße nach Sabha",
-        "Ruhiges Zentrum der Region Zentrallibyen"
+        "Gruppe von Seen inmitten der riesigen Ubari-Dünen.",
+        "Bekannt für den dramatischen Kontrast zwischen Salz und Sand.",
+        "Wichtiger Orientierungspunkt für Karawanen und Reisende.",
+        "Teil eines fossilen Aquifersystems tief unter der Wüste.",
+        "Bietet spektakuläre Fotomotive, besonders bei Sonnenuntergang.",
+        "Oft temporäre Seen, die je nach Grundwasserspiegel variieren.",
+        "Heimat einer spezialisierten Wüstenflora an den Ufern.",
+        "Einzigartiges Naturphänomen in der Zentralsahara."
       ]
     },
     {
-      "id": "tiji-cities-v2",
-      "descriptionAdvanced": "Tiji ist eine beschauliche Kleinstadt an den Hängen des Nafusa-Gebirges. Wie viele Siedlungen in dieser zerklüfteten Region stützt sich die Wirtschaft von Tiji hauptsächlich auf die Landwirtschaft, insbesondere den Anbau von Olivenbäumen und die Schaf- und Ziegenzucht in den trockenen Tälern. Geografie K6 — Ländliche Wirtschaft.",
+      "id": "jebel-nafusa-nature-v2",
+      "descriptionAdvanced": "Der Jebel Nafusa ist ein imposantes Schichtstufen-Gebirge im Nordwesten Libyens, das sich wie eine Mauer aus der Küstenebene erhebt. Diese Region ist das kulturelle Herzland der libyschen Amazigh (Berber) und bietet eine raue, majestätische Landschaft aus Kalksteinfelsen, tiefen Schluchten und fruchtbaren Terrassen. Das Gebirge wirkt als Klimascheide: Während es auf den Gipfeln im Winter sogar schneien kann, ist die Ebene darunter heiß und trocken. Die Menschen hier haben sich perfekt an die Umgebung angepasst, was sich in den spektakulären Speicherburgen (Qasrs) und Troglodyten-Häusern zeigt. Der Jebel Nafusa ist berühmt für seine Olivenhaine und Feigenbäume sowie für seine strategische Bedeutung. Es ist eine Landschaft, die von Widerstandskraft, uralter Tradition und einer tiefen Verbundenheit mit der Erde geprägt ist.",
       "factsAdvanced": [
-        "Gelegen in den Ausläufern des Nafusa-Gebirges",
-        "Traditionelles Agrarzentrum",
-        "Fokus auf Olivenanbau und Viehzucht",
-        "Starke ländliche und familiäre Strukturen",
-        "Historische lokale Marktstadt",
-        "Typische Berg-Architektur der Region"
+        "Markantes Gebirgsplateau im Nordwesten Libyens.",
+        "Kulturelles Zentrum der berberischen Amazigh-Bevölkerung.",
+        "Steigt steil aus der Jafara-Ebene auf bis zu 980 m an.",
+        "Berühmt für Olivenölproduktion und Terrassenfeldbau.",
+        "Beherbergt einzigartige Höhlenwohnungen und Speicherburgen.",
+        "Wichtige Klimabarriere zwischen Mittelmeer und Sahara.",
+        "Bietet spektakuläre Aussichten von der Abbruchkante.",
+        "Region mit reicher mündlicher Überlieferung und Geschichte."
       ]
     },
     {
-      "id": "wazin-cities-v2",
-      "descriptionAdvanced": "Wazin ist eine strategisch wichtige libysche Grenzstadt, die den primären westlichen Grenzübergang zu Tunesien kontrolliert. Während der Revolution 2011 war Wazin hart umkämpft, da der Grenzübergang von zentraler Bedeutung für die Versorgung der Rebellen im Nafusa-Gebirge war. Geschichte K8 — Grenzen und Konflikte.",
+      "id": "gar-al-marah-nature-v2",
+      "descriptionAdvanced": "Gar al-Marah ist eine markante Felsformation und ein bedeutendes Naturdenkmal in der weitläufigen Wüstenlandschaft Libyens. Diese isolierten Erhebungen ragen wie Inseln aus dem Sandmeer empor und dienen seit Jahrhunderten als Orientierungspunkte für Nomaden und Reisende. Die Geologie von Gar al-Marah erzählt von Jahrmillionen der Erosion durch Wind und Sand, die bizarre Formen und Texturen im Gestein geschaffen haben. Die Formationen bieten in der ansonsten flachen oder dünenreichen Umgebung Schutz vor Stürmen und sind oft Orte, an denen kleine Mengen an Feuchtigkeit gespeichert werden, was eine karge, aber spezialisierte Vegetation ermöglicht. Für Besucher der Wüste ist Gar al-Marah ein Ort der Stille und der geologischen Wunder, der die unerbittliche und doch wunderschöne Kraft der Natur in der Sahara verdeutlicht.",
       "factsAdvanced": [
-        "Wichtiger Grenzübergang zu Tunesien",
-        "Gelegen in den Nafusa-Bergen",
-        "Schauplatz schwerer Kämpfe im Jahr 2011",
-        "Strategischer Versorgungspunkt",
-        "Traditionelle berberische (Amazigh) Wurzeln",
-        "Knotenpunkt des regionalen Schmuggels"
+        "Isolierte Felsformation in der Zentralsahara.",
+        "Wichtiger natürlicher Navigationspunkt für Wüstenreisen.",
+        "Beispiel für spektakuläre äolische Erosion (Windschliff).",
+        "Bietet Lebensraum für spezialisierte Wüstenfauna.",
+        "Markanter Orientierungspunkt auf alten Karawanenwegen.",
+        "Besteht aus uraltem Sedimentgestein.",
+        "Symbol für die geologische Vielfalt der libyschen Wüste.",
+        "Ort von absoluter Stille und beeindruckender Weite."
       ]
     },
     {
-      "id": "al-abyar-cities-v2",
-      "descriptionAdvanced": "Al Abyar ist eine florierende Agrarstadt im Osten Libyens, nicht weit von der Großstadt Bengasi entfernt. Die fruchtbaren Ebenen rund um die Stadt sind ideal für den Getreideanbau und die Viehzucht, wodurch Al Abyar eine wichtige Rolle für die lokale Nahrungsmittelversorgung der Kyrenaika spielt. Geografie K7 — Landwirtschaft.",
+      "id": "ubari-sand-sea-nature-v2",
+      "descriptionAdvanced": "Das Ubari-Sandmeer (Idhan Ubari) ist eine der spektakulärsten Dünenlandschaften der Erde und das Inbegriff der Sahara. In dieser riesigen Region im Südwesten Libyens erstrecken sich endlose Ketten von gewaltigen, orange-goldenen Sicheldünen, die Höhen von über 200 Metern erreichen können. Das Sandmeer ist berühmt für seine versteckten Oasenseen wie Gaberoun, die wie blaue Juwelen zwischen den Sandbergen liegen. Die Fahrt durch das Ubari-Sandmeer erfordert großes fahrerisches Können und bietet ein unvergleichliches Abenteuer in einer der unberührtesten Landschaften der Welt. Hier erlebt man die Sahara in ihrer reinsten Form: die glühende Hitze des Tages, die klirrende Kälte der Nacht und einen Sternenhimmel von unvergleichlicher Klarheit. Es ist ein Ort der Extreme, der Ehrfurcht einflößt und die unendliche Kraft der Wüste demonstriert.",
       "factsAdvanced": [
-        "Bedeutende Agrarstadt nahe Bengasi",
-        "Zentrum des Getreideanbaus",
-        "Wichtig für die Viehzucht in der Kyrenaika",
-        "Milder, mediterraner Einfluss",
-        "Einst italienische landwirtschaftliche Siedlung",
-        "Wichtiger lokaler Viehmarkt"
+        "Eines der größten und schönsten Dünenfelder der Sahara.",
+        "Dünen erreichen beeindruckende Höhen von bis zu 200 m.",
+        "Beherbergt die berühmten Oasenseen von Ubari.",
+        "Zentrales Ziel für internationale Wüstenexpeditionen.",
+        "Besteht aus feinem, mineralreichem Quarzsand.",
+        "Landschaft von surrealer Schönheit und gewaltiger Ausdehnung.",
+        "Lebensraum für spezialisierte Arten wie den Wüstenfuchs.",
+        "Kritisches Ökosystem der extremen Trockenzone."
+      ]
+    },
+    {
+      "id": "gargaf-mountains-nature-v2",
+      "descriptionAdvanced": "Die Gargaf-Berge sind ein beeindruckendes Massiv aus dunklem Sandstein und Urgestein, das die flachen Ebenen des zentralen Libyens durchbricht. Diese zerklüftete Landschaft ist geprägt von schroffen Kämmen, tiefen Schluchten und weiten Plateaus, die eine fast außerirdische Atmosphäre vermitteln. Die Berge fungieren als natürliche Barriere und haben über Jahrtausende das Klima und die Wanderbewegungen in der Region beeinflusst. Geologisch sind die Gargaf-Berge von großem Interesse, da sie Einblicke in die frühe Formung des afrikanischen Kontinents bieten. Trotz ihrer Unwirtlichkeit verbergen sie kleine Oasen und Wasserstellen, die für die lokale Tierwelt und gelegentliche Nomaden überlebenswichtig sind. Die raue Schönheit der Gargaf-Berge macht sie zu einem faszinierenden Ziel für Geologen und Abenteurer, die die weniger bekannten Ecken der Sahara erkunden wollen.",
+      "factsAdvanced": [
+        "Altes Gebirgsmassiv im zentralen Westen Libyens.",
+        "Besteht hauptsächlich aus präkambrischem Gestein.",
+        "Bildet eine schroffe Barriere zwischen verschiedenen Wüstenzonen.",
+        "Wichtiger Fundort für geologische Studien zur Kontinentalbildung.",
+        "Beherbergt versteckte Wasserstellen (Geltas).",
+        "Landschaft aus dunklem Fels und hellem Wüstensand.",
+        "Wenig erforschte Region von wilder, ursprünglicher Schönheit.",
+        "Strategischer Punkt für die Überquerung der Zentralsahara."
+      ]
+    },
+    {
+      "id": "mizdah-plateau-nature-v2",
+      "descriptionAdvanced": "Das Mizdah-Plateau ist eine weite, steinige Hochfläche (Hamada) im Nordwesten Libyens, die den Übergang zwischen der Küstenregion und der tiefen Sahara markiert. Die Landschaft ist geprägt von flachen Horizonten, unterbrochen durch tiefe Wadis, die sich während seltener Regenfälle in reißende Ströme verwandeln können. Die karge Oberfläche ist mit dunklen Steinen übersät, was ihr ein charakteristisches Aussehen verleiht. Trotz der scheinbaren Lebensfeindlichkeit ist das Plateau ein wichtiger Raum für die nomadische Viehzucht. Die Stadt Mizdah, die dem Plateau seinen Namen gibt, war historisch ein wichtiger Knotenpunkt für Karawanen. Das Plateau bietet eine beeindruckende Weite und ist bekannt für seine spektakulären Lichtverhältnisse, besonders bei Sonnenauf- und -untergang, was die raue Eleganz der libyschen Steinwüste perfekt zur Geltung bringt.",
+      "factsAdvanced": [
+        "Weite Steinwüsten-Hochebene (Hamada) bei Mizdah.",
+        "Wichtiger Übergangsbereich zur zentrallibyschen Sahara.",
+        "Gekennzeichnet durch tief eingeschnittene Trockentäler (Wadis).",
+        "Traditionelles Weidegebiet für Beduinenstämme.",
+        "Geologisch stabil und reich an Sedimentgesteinen.",
+        "Ort von extremer Weitsicht und klarem Wüstenlicht.",
+        "Historisch bedeutend als Teil der transsaharischen Routen.",
+        "Beispiel für die karge Schönheit der nordafrikanischen Hamada."
+      ]
+    },
+    {
+      "id": "al-hamada-al-hamra-nature-v2",
+      "descriptionAdvanced": "Die Al-Hamada al-Hamra, die 'Rote Steinwüste', ist eines der größten und unwirtlichsten Plateaus der Sahara. Diese riesige, flache Ebene im Westen Libyens erstreckt sich über zehntausende Quadratkilometer und ist fast völlig vegetationslos. Ihr Name leitet sich von der rötlichen Farbe des eisenoxidreichen Kalksteins und der Sedimente ab, die die Oberfläche bedecken. Die Hamada ist bekannt für ihre extreme Trockenheit und die Abwesenheit von dauerhaften Wasserquellen, was sie zu einer der größten Barrieren für Karawanen in der Geschichte machte. Unter ihrer Oberfläche verbergen sich jedoch riesige fossile Wasservorkommen und bedeutende Ölreserven. Für den Betrachter bietet die Al-Hamada al-Hamra ein Bild von unendlicher, fast beängstigender Leere, die jedoch eine faszinierende geologische Geschichte und eine stille, monumentale Kraft ausstrahlt.",
+      "factsAdvanced": [
+        "Riesige rote Steinwüste im Westen Libyens.",
+        "Eine der größten zusammenhängenden Hamadas der Welt.",
+        "Fast 50.000 Quadratkilometer vegetationslose Ebene.",
+        "Wichtiges Reservoir für fossiles Grundwasser.",
+        "Beherbergt bedeutende Onshore-Ölvorkommen.",
+        "Früher ein gefürchtetes Hindernis für Sahara-Durchquerungen.",
+        "Bekannt für extreme Tag-Nacht-Temperaturschwankungen.",
+        "Landschaft von minimalistischer, fast außerirdischer Ästhetik."
+      ]
+    },
+    {
+      "id": "tibesti-foothills-nature-v2",
+      "descriptionAdvanced": "Die Ausläufer des Tibesti-Gebirges im äußersten Süden Libyens markieren den Rand eines der gewaltigsten und entlegensten Gebirgsmassive der Sahara. Diese Region ist geprägt von bizarren vulkanischen Formationen, tiefen Schluchten und schroffen Granitgipfeln, die in den Himmel ragen. Es ist eine Landschaft von wilder Schönheit, in der vulkanische Aktivität über Jahrmillionen spektakuläre Krater und Basaltfelder geschaffen hat. Die Ausläufer beherbergen versteckte Geltas (Felsbecken mit Wasser) und sind ein Rückzugsort für seltene Wüstentiere wie das Mähnenschaf. Für die hier lebenden Tubu-Nomaden ist das Gebirge ein heiliger Raum und eine uneinnehmbare Festung. Die Tibesti-Ausläufer gehören zu den am wenigsten erforschten Orten der Welt und bieten Abenteurern und Wissenschaftlern einen Einblick in die urzeitlichen geologischen Kräfte, die Nordafrika geformt haben.",
+      "factsAdvanced": [
+        "Nördliche Ausläufer des höchsten Gebirges der Sahara.",
+        "Vulkanisch geprägte Landschaft mit spektakulären Formationen.",
+        "Heimat des nomadischen Volkes der Tubu.",
+        "Region von extremer Abgeschiedenheit und wilder Natur.",
+        "Beherbergt seltene Tierarten wie Gazellen und Mähnenschafe.",
+        "Reich an prähistorischen Felszeichnungen.",
+        "Landschaft aus dunklem Basalt und schroffen Granitspitzen.",
+        "Eine der am schwersten zugänglichen Regionen Libyens."
+      ]
+    },
+    {
+      "id": "sarir-tanezrouft-nature-v2",
+      "descriptionAdvanced": "Der Sarir Tanezrouft ist eine riesige, flache Kies- und Sandebene im südlichen Libyen, die für ihre absolute Monotonie und Leere bekannt ist. In dieser Region der 'Wüste der Wüsten' fehlen jegliche Landmarken, was die Orientierung ohne moderne Hilfsmittel fast unmöglich macht. Die Oberfläche besteht aus einer harten Kruste aus feinem Kies (Sarir), die durch jahrtausendlange Winderosion entstanden ist. Der Sarir Tanezrouft ist ein Ort der absoluten Stille, an dem man hunderte Kilometer reisen kann, ohne auf einen einzigen Baum oder Strauch zu treffen. Unter dieser kargen Oberfläche liegen jedoch bedeutende fossile Wasservorkommen des nubischen Sandstein-Aquifers. Diese Ebene ist ein beeindruckendes Zeugnis für die unermessliche Weite der Sahara und stellt höchste Anforderungen an die logistische Planung jeder Expedition, die dieses 'Land des Durstes' durchqueren will.",
+      "factsAdvanced": [
+        "Riesige Kiesebebene im Süden Libyens.",
+        "Teil der berüchtigten 'Wüste der Wüsten'.",
+        "Nahezu völlige Abwesenheit von Vegetation und Landmarken.",
+        "Geologisch geprägt durch ausgedehnte Sarir-Flächen.",
+        "Wichtiger Standort für fossile Grundwasserstudien.",
+        "Herausforderndes Gebiet für Wüsten-Navigation.",
+        "Ort extremer Isolation und klimatischer Härte.",
+        "Bietet einen Einblick in die urzeitlichen Ebenen der Sahara."
       ]
     }
   ]

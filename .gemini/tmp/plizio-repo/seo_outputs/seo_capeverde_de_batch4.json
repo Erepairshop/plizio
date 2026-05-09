@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "achada-grande-industrial-economic-v2",
+      "descriptionAdvanced": "Das Industriegebiet Achada Grande in Praia ist ein zentrales Gewerbeareal, das zahlreiche Unternehmen beherbergt und als bedeutender Motor der lokalen Wirtschaft fungiert. Durch die unmittelbare Nähe zum Hafen von Praia bietet dieser Standort logistische Vorteile, die die Abwicklung von Import- und Exportprozessen erheblich erleichtern. Die Zone ist ein Schwerpunkt für Lagerhaltung, Distribution sowie diverse Fertigungsbetriebe und trägt maßgeblich zur wirtschaftlichen Dynamik der Hauptstadt bei, indem sie Arbeitsplätze schafft und die Infrastruktur der Stadt stärkt.",
+      "factsAdvanced": [
+        "Zentrales Industrie- und Gewerbegebiet",
+        "Wichtiger Umschlagplatz für Logistik",
+        "Nähe zum Hafen von Praia",
+        "Sitz diverser Fertigungsbetriebe",
+        "Bedeutender Arbeitgeber in der Hauptstadt",
+        "Drehkreuz für lokale Lagerhaltung"
+      ]
+    },
+    {
+      "id": "lazareto-industrial-economic-v2",
+      "descriptionAdvanced": "Die Industriezone Lazareto am Rande von Mindelo entwickelt sich zunehmend zu einem wichtigen Standort für die diversifizierte Inselwirtschaft. Hier haben sich Betriebe aus der Lebensmittelverarbeitung und dem Handwerkssektor angesiedelt, die aktiv zur Stärkung der regionalen Wirtschaft beitragen. Das Gebiet ist ein fester Bestandteil der städtischen Entwicklung von Mindelo und bietet modernen Raum für neue geschäftliche Impulse, die die Abhängigkeit von einzelnen Sektoren verringern und zukunftssichere Arbeitsplätze auf São Vicente schaffen.",
+      "factsAdvanced": [
+        "Wachsende Industriezone in Mindelo",
+        "Standort für Handwerk und Lebensmittel",
+        "Fördert wirtschaftliche Diversifizierung",
+        "Fester Bestandteil der Stadtentwicklung",
+        "Bietet Raum für neue geschäftliche Impulse",
+        "Stärkt die regionale Wettbewerbsfähigkeit"
+      ]
+    },
+    {
+      "id": "solar-plant-palmarejo-economic-v2",
+      "descriptionAdvanced": "Das Solarkraftwerk in Palmarejo ist eine der größten Photovoltaikanlagen auf Santiago und ein exzellentes Beispiel für die Nutzung der intensiven kapverdischen Sonneneinstrahlung zur nachhaltigen Energiegewinnung. Die Anlage reduziert den ökologischen Fußabdruck der Hauptstadt Praia signifikant und ist ein zentraler Baustein der nationalen Strategie für eine grüne Energiezukunft. Durch die saubere Stromproduktion leistet das Werk einen unverzichtbaren Beitrag zur Sicherung der Energieversorgung und zur Erreichung der Klimaschutzziele.",
+      "factsAdvanced": [
+        "Großflächiges Photovoltaik-Projekt",
+        "Nutzung intensiver Sonneneinstrahlung",
+        "Wichtiger Beitrag zur CO2-Reduktion",
+        "Zentraler Baustein der Energiestrategie",
+        "Nachhaltige Energiegewinnung für Praia",
+        "Stärkt lokale Energieautonomie"
+      ]
+    },
+    {
+      "id": "grogue-distillery-paul-economic-v2",
+      "descriptionAdvanced": "Die traditionelle Grogue-Brennerei im malerischen Paúl-Tal auf Santo Antão verkörpert das kulturelle und wirtschaftliche Erbe der Insel durch die Veredelung von lokalem Zuckerrohr. Hier werden überlieferte Fermentations- und Destillationsmethoden angewandt, um das berühmte kapverdische Nationalgetränk Grogue in hoher Qualität zu produzieren. Die Brennerei ist nicht nur ein Symbol landwirtschaftlicher Tradition, sondern dient auch als Anziehungspunkt für Reisende und trägt durch die lokale Wertschöpfung direkt zur wirtschaftlichen Stabilität des Tals bei.",
+      "factsAdvanced": [
+        "Traditionelle Brennerei im Paúl-Tal",
+        "Spezialisiert auf hochwertigen Grogue",
+        "Anwendung überlieferter Methoden",
+        "Wichtiges kulturelles und ökonomisches Erbe",
+        "Fördert die lokale Wertschöpfungskette",
+        "Touristische Attraktion auf Santo Antão"
+      ]
+    },
+    {
+      "id": "fuel-terminal-mindelo-economic-v2",
+      "descriptionAdvanced": "Das Enacol-Treibstoffterminal im Hafen von Mindelo fungiert als hochsensibler Knotenpunkt für die Lagerung und Verteilung sämtlicher Erdölprodukte auf dem Archipel. Durch seine strategische Lage ist es für die konstante Versorgung von Frachtschiffen, Fischereiflotten und die lokale Infrastruktur auf den Nordinseln von überragender Bedeutung. Als energetische Drehscheibe bildet das Terminal ein Rückgrat der nationalen Kraftstofflogistik und garantiert den reibungslosen Betrieb wichtiger Transport- und Versorgungswege im Atlantik.",
+      "factsAdvanced": [
+        "Zentraler Knotenpunkt für Erdölprodukte",
+        "Versorgung von Schifffahrt und Industrie",
+        "Strategisch wichtige energetische Infrastruktur",
+        "Rückgrat der nationalen Kraftstofflogistik",
+        "Sichert Versorgung der Nordinseln",
+        "Spezialisiert auf Lagerung und Verteilung"
+      ]
+    }
+  ]
+}

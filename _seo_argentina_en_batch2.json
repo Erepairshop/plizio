@@ -1,0 +1,219 @@
+{
+  "lang": "en",
+  "country": "argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-rio-parana-nature-v2",
+      "descriptionAdvanced": "The Paraná River is the second longest river in South America after the Amazon and one of the most important waterways on the continent. Originating in Brazil, it flows through Paraguay and into Argentina, stretching over 4,880 kilometers before emptying into the Río de la Plata. The river is vital to the Argentine economy, facilitating the transport of grains from the agricultural heartland to the major ports of Rosario and Buenos Aires. Ecologically, the Paraná is invaluable; its vast floodplain and delta support an immense diversity of fish, birds, and mammals, such as the carpincho (capybara). The Paraná Delta near Tigre is a unique island world where life is still dictated by the rhythm of the river's tides and seasonal floods.",
+      "factsAdvanced": [
+        "Total length of approximately 4,880 kilometers (3,032 miles)",
+        "Second longest river system in South America after the Amazon",
+        "Basin covers an area of 2.6 million square kilometers",
+        "The Paraná Delta spans over 14,000 square kilometers",
+        "Name originates from Tupi, meaning Like the Sea",
+        "Transports around 160 million tons of sediment annually",
+        "Major source of hydroelectric power through dams like Yacyretá",
+        "Home to the golden dorado, a highly prized game fish"
+      ]
+    },
+    {
+      "id": "ar-rio-uruguay-nature-v2",
+      "descriptionAdvanced": "The Uruguay River originates in southern Brazil and flows southward for over 1,800 kilometers, forming the natural border between Argentina and Brazil, and later between Argentina and Uruguay. It eventually joins the Paraná River to create the massive Río de la Plata estuary. The river is celebrated for its scenic beauty, particularly in Entre Ríos Province, where numerous sandy beaches and thermal springs dot its banks. A unique geological feature is the Moconá Falls, where the river drops into a deep canyon along its longitudinal axis for over three kilometers—a rare global phenomenon. The river also plays a critical role in regional energy production through the large Salto Grande Dam, a joint venture between Argentina and Uruguay.",
+      "factsAdvanced": [
+        "Total length of about 1,838 kilometers (1,142 miles)",
+        "Forms the entire eastern border of Entre Ríos Province",
+        "Moconá Falls are the longest longitudinal waterfalls in the world",
+        "The Salto Grande Dam provides power to Argentina and Uruguay",
+        "Water is significantly clearer compared to the silt-rich Paraná",
+        "Name translates to River of the Painted Birds in Guarani",
+        "Important habitat for the endangered yellow cardinal bird",
+        "Catchment area covers approximately 365,000 square kilometers"
+      ]
+    },
+    {
+      "id": "ar-rio-colorado-nature-v2",
+      "descriptionAdvanced": "The Colorado River traditionally serves as the geographic boundary between the fertile Pampa region to the north and the arid wilderness of Patagonia to the south. Originating in the Andes from the confluence of the Grande and Barrancas rivers, it flows for over 1,000 kilometers eastward until it empties into the Atlantic Ocean. Its valley is a vital oasis in an otherwise dry environment, supporting an extensive irrigation system that allows for the cultivation of fruits, vegetables, and wine. Despite its importance, the river has faced a significant decline in water volume over recent decades due to climate change in the Andes and increased water extraction for agriculture and the oil industry. It remains a critical lifeline for the five provinces it traverses.",
+      "factsAdvanced": [
+        "Total length of approximately 1,114 kilometers (692 miles)",
+        "Historically considered the northern gateway to Patagonia",
+        "Traverses Mendoza, Neuquén, La Pampa, Río Negro, and Buenos Aires",
+        "The Casa de Piedra Dam regulates its water flow and generates power",
+        "Mainly fed by Andean snowmelt, peaking in spring and summer",
+        "River valley produces a large share of Argentina's apples and pears",
+        "Empties into the Atlantic Ocean near the city of Bahía Blanca",
+        "Serves as a vital source of irrigation for desert agriculture"
+      ]
+    },
+    {
+      "id": "ar-rio-negro-nature-v2",
+      "descriptionAdvanced": "The Río Negro is the most voluminous river in Patagonia and gives its name to the province it bisects. It is formed by the confluence of the Limay and Neuquén rivers near the city of Neuquén and winds through a wide valley until it reaches the Atlantic Ocean. The Alto Valle (Upper Valley) of the Río Negro is world-famous as Argentina's premier fruit-growing region, particularly for apples and pears destined for global export. The river itself is a popular hub for water sports and hosts the Regata del Río Negro, the longest kayak race in the world. Despite its name, which means Black River (translated from the Mapuche term Currú Leuvú), the water typically exhibits a deep green hue and is known for its purity and clarity.",
+      "factsAdvanced": [
+        "Total length of 635 kilometers from confluence to mouth",
+        "Largest river by discharge volume in the Patagonian region",
+        "The river valley is up to 20 kilometers wide and highly fertile",
+        "Empties into the Atlantic at El Cóndor near the city of Viedma",
+        "Hosts the world's longest kayak regatta, covering over 500 km",
+        "Formed by the merging of the Neuquén and Limay rivers",
+        "Primary source of water for the arid Patagonian steppe",
+        "Name is a translation of the Mapuche words Currú Leuvú"
+      ]
+    },
+    {
+      "id": "ar-rio-chubut-nature-v2",
+      "descriptionAdvanced": "The Chubut River crosses the heart of central Patagonia from the Andes to the Atlantic, serving as the lifeblood for an extremely dry high plateau. The river valley gained international fame through the Welsh immigrants who settled here in the 19th century, founding towns like Gaiman and Trelew. The river feeds the Florentino Ameghino Dam, an impressive engineering feat situated within a deep canyon of red volcanic rock that provides both electricity and irrigation. The lower reaches of the river are characterized by fertile pastures and rows of poplars used as windbreaks, while the upper reaches in the Andes are a premier destination for fly fishing enthusiasts. Its name is derived from the Tehuelche word chupat, meaning transparent, reflecting the clarity of its mountain-fed waters.",
+      "factsAdvanced": [
+        "Total length of approximately 810 kilometers (503 miles)",
+        "Name comes from the Tehuelche language meaning Transparent",
+        "Only river to fully cross the arid Chubut Province to the sea",
+        "The Florentino Ameghino Dam stands at 113 meters in height",
+        "Empties into the Atlantic Ocean at the port of Rawson",
+        "Served as the historic center of Welsh colonization in Argentina",
+        "Supports unique wildlife like coypus and various duck species",
+        "Its valley is famous for traditional Welsh tea houses in Gaiman"
+      ]
+    },
+    {
+      "id": "ar-rio-santa-cruz-nature-v2",
+      "descriptionAdvanced": "The Santa Cruz River is one of Patagonia's most powerful and last major free-flowing rivers. Originating at the eastern end of Lake Argentino, it traverses the barren Patagonian steppe for approximately 385 kilometers before emptying into the Atlantic. Its water has a characteristic milky-turquoise color, a result of its glacial origins in the Andes. Historically, the river is significant as it was laboriously navigated upstream by Robert FitzRoy and Charles Darwin in 1834 during the HMS Beagle expedition. In recent years, the river has been at the center of ecological debates due to the construction of massive hydroelectric dams, which critics argue could threaten the unique flora and fauna of the region, including the endangered Santa Cruz grebe. It remains a symbol of wild, untamed Patagonian nature.",
+      "factsAdvanced": [
+        "Length of about 385 kilometers in Santa Cruz Province",
+        "Main outlet for Lake Argentino and Lake Viedma",
+        "Charles Darwin explored the river valley in April 1834",
+        "Features an extremely strong current of up to 15 km/h",
+        "Habitat for the rare and endangered Hooded Grebe",
+        "Mouth forms a wide bay near the town of Puerto Santa Cruz",
+        "Planned dams will be the southernmost large hydro plants in the world",
+        "Glacial rock flour gives the water its distinct turquoise color"
+      ]
+    },
+    {
+      "id": "ar-rio-bermejo-nature-v2",
+      "descriptionAdvanced": "The Bermejo River is a major waterway in northern Argentina that originates in the Bolivian Andes and crosses the Gran Chaco region. Its name, meaning The Reddish One, refers to the enormous amount of sediment and silt it carries, especially during the rainy season, which dyes the water a dark red hue. The river is known for its extremely unstable course; it frequently shifts its bed and floods wide areas, making the construction of permanent infrastructure along its banks difficult. Ecologically, the Bermejo serves as a critical corridor for wildlife between the Andean cloud forests (Yungas) and the dry Chaco forests, where jaguars, tapirs, and caimans still find undisturbed habitats. It eventually joins the Paraguay River, significantly influencing the sediment levels of the downstream Paraná system.",
+      "factsAdvanced": [
+        "Total length of approximately 1,450 kilometers (901 miles)",
+        "One of the world's most sediment-rich rivers by volume",
+        "Forms part of the international border between Argentina and Bolivia",
+        "Empties into the Paraguay River near the city of Resistencia",
+        "Split into two main branches: the Teuco and the Old Bermejo",
+        "Vital habitat for the giant otter and various caiman species",
+        "Sediment output affects navigation on the distant Paraná River",
+        "Name Bermejo is Spanish for reddish-brown or vermilion"
+      ]
+    },
+    {
+      "id": "ar-isla-de-los-estados-nature-v2",
+      "descriptionAdvanced": "Isla de los Estados (Statten Island) is a wild and uninhabited nature reserve at the extreme eastern tip of the Tierra del Fuego archipelago, separated from the mainland by the treacherous Le Maire Strait. The island is characterized by deep fjords, rugged granite mountains, and a harsh sub-antarctic climate with near-constant rain and storms. It gained worldwide fame through Jules Verne's novel The Lighthouse at the End of the World, which was inspired by the real San Juan del Salvamento lighthouse located on the island. As a strictly protected sanctuary, it is a vital breeding ground for penguins, albatrosses, and sea lions. Access is highly regulated and usually restricted to researchers or specialized expedition ships, preserving the untouched wilderness of Argentina's last frontier.",
+      "factsAdvanced": [
+        "Total area of approximately 534 square kilometers",
+        "Easternmost point of Argentine territory in Tierra del Fuego",
+        "Site of the first lighthouse in the region, built in 1884",
+        "Named in 1616 by Dutch explorers Schouten and Le Maire",
+        "Home to large colonies of Southern Rockhopper penguins",
+        "Designated as a provincial nature reserve by Tierra del Fuego",
+        "Highest elevation is Mount Richardson at 823 meters",
+        "Features a sub-antarctic climate with over 2,000mm of annual rain"
+      ]
+    },
+    {
+      "id": "ar-isla-victoria-nature-v2",
+      "descriptionAdvanced": "Victoria Island is the largest and most impressive island within Lake Nahuel Huapi, located in Neuquén Province. It is divided into three distinct zones: a strict nature reserve, a central forest area, and a tourist-accessible northern section near Puerto Anchorena. The island is famous for its botanical diversity, which includes both native forests of coihue and cypress as well as an arboretum established in the early 20th century featuring exotic tree species from around the world, such as giant sequoias. Hiking trails lead visitors through these towering forests to viewpoints offering panoramic views of the lake's crystal-clear waters. The island also contains prehistoric rock paintings, proving it was visited by indigenous peoples thousands of years ago. It remains a primary destination for boat excursions from nearby Bariloche.",
+      "factsAdvanced": [
+        "Spans 31 square kilometers and reaches 20 km in length",
+        "Highest point is Cerro Ansenuza at 1,025 meters above sea level",
+        "Accessible via regular catamaran service from Puerto Pañuelo",
+        "Houses a forestry research station and an exotic arboretum",
+        "Habitat for the pudu, the world's smallest deer species",
+        "Features rock paintings dating back 500 to 2,000 years",
+        "Became part of Nahuel Huapi National Park in 1934",
+        "Home to diverse birdlife including cormorants and grebes"
+      ]
+    },
+    {
+      "id": "ar-isla-martin-garcia-nature-v2",
+      "descriptionAdvanced": "Martín García Island is a historically and ecologically significant island in the Río de la Plata estuary, strategically located at the confluence of the Uruguay and Paraná rivers. Unlike the surrounding delta islands, it is composed of ancient crystalline rock from the Brazilian Shield. The island has a multi-layered history, having served as a military base, a quarantine station, and a notorious prison where several Argentine presidents were interned. Today, it is a peaceful nature reserve known for its dense vegetation, butterfly diversity, and colonial architecture. A geographical curiosity is its location: due to natural sedimentation, it has physically joined with the Uruguayan island of Timoteo Domínguez, creating the only land border between Argentina and Uruguay. Visitors enjoy its rustic atmosphere and traditional local sweets like Pan Dulce.",
+      "factsAdvanced": [
+        "Surface area of approximately 1.84 square kilometers",
+        "Located about 45 kilometers northeast of Buenos Aires",
+        "Declared a Multiple-Use Nature Reserve in 1998",
+        "Famous for the traditional Pan Dulce made by islanders",
+        "Former prisoners include presidents Juan Perón and Arturo Frondizi",
+        "The island grows annually due to natural sediment deposition",
+        "Home to a small airport and a historic colonial cemetery",
+        "Features the only dry land border between Argentina and Uruguay"
+      ]
+    },
+    {
+      "id": "ar-selva-misionera-nature-v2",
+      "descriptionAdvanced": "The Selva Misionera, also known as the Paranaense Rainforest, is a subtropical ecosystem in northeastern Argentina that covers much of Misiones Province. It is one of the most biodiverse regions in the country, featuring dense, multi-layered vegetation with giant trees, lianas, and bromeliads. The characteristic red earth (Tierra Colorada) is rich in iron and creates a sharp contrast with the lush green of the jungle. This habitat is home to iconic species such as the jaguar, howler monkeys, and vibrant toucans. Despite being protected by numerous provincial parks and the famous Iguazú National Park, the forest faces threats from agriculture and logging, necessitating ongoing efforts to preserve biological corridors. The rainforest is also the ancestral home of the Mbyá Guaraní people, who maintain a deep connection to the land.",
+      "factsAdvanced": [
+        "Covers approximately 35% of Misiones Province's territory",
+        "Home to over 2,000 species of vascular plants",
+        "One of the last strongholds for the jaguar in Argentina",
+        "Boasts the highest diversity of butterfly species in the country",
+        "Receives an average annual rainfall of about 2,000 mm",
+        "Features a unique microclimate influenced by the Iguazú Falls",
+        "Part of the Green Corridor project for environmental conservation",
+        "Soil is characterized by high iron and aluminum oxide content"
+      ]
+    },
+    {
+      "id": "ar-bosque-andino-patagonico-nature-v2",
+      "descriptionAdvanced": "The Andean-Patagonian Forest stretches as a narrow but thousands of kilometers long belt along the Andes from northern Neuquén to Tierra del Fuego. This temperate rainforest is defined by cold winters and high precipitation, allowing for lush vegetation of southern beech (Nothofagus), cypress, and giant Alerce trees. The forest provides a dramatic contrast to the arid steppe immediately to its east. Ecologically, it is of paramount importance as a water reservoir and habitat for endemic species such as the tiny pudu deer and the Patagonian puma. During the autumn months, the forest undergoes a spectacular transformation as the Lenga and Ñire trees turn into a sea of brilliant red and gold. It spans several of Argentina's most famous national parks, including Los Alerces and Lanín.",
+      "factsAdvanced": [
+        "Extends for 2,200 kilometers along the Argentine-Chilean border",
+        "Dominated by Nothofagus species like Lenga, Ñire, and Coihue",
+        "Home to the Alerce tree, which can live for over 3,000 years",
+        "Spans national parks like Nahuel Huapi, Lanín, and Los Alerces",
+        "Primary habitat for the endangered South Andean Huemul deer",
+        "Most important temperate rainforest reserve in South America",
+        "Provides critical protection against soil erosion on steep slopes",
+        "Receives up to 4,000 mm of annual rainfall in its wettest areas"
+      ]
+    },
+    {
+      "id": "ar-bosque-de-arrayanes-nature-v2",
+      "descriptionAdvanced": "The Arrayanes Forest (Bosque de Arrayanes) is a globally unique natural phenomenon located on the Quetrihué Peninsula within Lake Nahuel Huapi. While arrayán trees typically grow as shrubs, here they form a full-grown, dense forest with trees reaching up to 15 meters in height. The most striking feature is the cinnamon-colored, silky-smooth bark of the trees, which is cold to the touch and peels off in thin strips, causing the trunk to constantly change its appearance. The forest, with its twisted branches and filtered sunlight, feels like something out of a fairy tale. To protect this sensitive ecosystem, a wooden boardwalk leads visitors through the forest. Accessible from Villa La Angostura by foot or from Bariloche by boat, it is famously rumored to have inspired the forest scenes in Walt Disney's Bambi.",
+      "factsAdvanced": [
+        "Covers approximately 12 hectares at the tip of Quetrihué Peninsula",
+        "Average age of trees is 300 years, with some exceeding 600",
+        "Declared the Los Arrayanes National Park as a separate entity in 1971",
+        "The cinnamon bark peels off to naturally prevent parasites",
+        "Trees bloom in summer with small, fragrant white flowers",
+        "Famously rumored to be the inspiration for Disney's Bambi",
+        "Arrayán (Luma apiculata) belongs to the myrtle family",
+        "The boardwalk protects the delicate root systems of the trees"
+      ]
+    },
+    {
+      "id": "ar-mar-argentino-nature-v2",
+      "descriptionAdvanced": "The Argentine Sea encompasses the vast continental shelf of the Atlantic Ocean along the Argentine coast, extending from the Río de la Plata to the Falkland Islands and Tierra del Fuego. It is one of the most productive marine ecosystems in the world, thanks to the meeting of the cold Malvinas Current from the south and the warm Brazil Current from the north. these currents produce enormous amounts of plankton, which form the base for a massive abundance of fish (notably hake and squid) as well as large populations of seabirds and marine mammals. The Valdés Peninsula, jutting into the Argentine Sea, is a world-renowned site for observing Southern Right Whales, which come here to mate and give birth in the sheltered bays, making it a pinnacle of marine biodiversity.",
+      "factsAdvanced": [
+        "Total area of approximately 1 million square kilometers",
+        "Features one of the widest continental shelves in the world",
+        "Primary economic factor is the hake (Merluza Hubbsi) fishery",
+        "Vital breeding ground for the Southern Right Whale",
+        "Home to massive colonies of Magellanic penguins and elephant seals",
+        "The cold Malvinas Current provides nutrient-rich waters",
+        "Rich in potential offshore oil and natural gas reserves",
+        "Protected by several marine national parks along the coast"
+      ]
+    },
+    {
+      "id": "ar-canal-beagle-nature-v2",
+      "descriptionAdvanced": "The Beagle Channel is a narrow waterway at the southern tip of South America, connecting the Atlantic Ocean in the east with the Pacific Ocean in the west. Stretching for 240 kilometers, it separates the Big Island of Tierra del Fuego from smaller islands like Navarino and Hoste. The channel was named after the HMS Beagle, the ship that Charles Darwin used to explore the area in the 1830s. A boat trip through the channel from Ushuaia offers breathtaking views of hanging glaciers that flow directly into the sea and a wealth of wildlife, including sea lions and cormorants on small rocky islets. The famous red-and-white Les Eclaireurs lighthouse marks the entrance to Ushuaia's bay and has become an iconic symbol of the region's seafaring history and remote beauty.",
+      "factsAdvanced": [
+        "Length of about 240 kilometers and 5 to 13 kilometers wide",
+        "Forms the international border between Argentina and Chile",
+        "Shores include Ushuaia, the southernmost city in the world",
+        "Discovered on May 11, 1830, by Robert FitzRoy",
+        "Location of the iconic Les Eclaireurs Lighthouse",
+        "Famous for its abundant and delicious Southern King Crab (Centolla)",
+        "Historically the ancestral home of the indigenous Yaghan people",
+        "One of the few passages between the Atlantic and Pacific oceans"
+      ]
+    }
+  ]
+}

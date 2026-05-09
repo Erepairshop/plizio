@@ -6,303 +6,283 @@
   ],
   "items": [
     {
-      "id": "antsirabe-cities-v2",
-      "descriptionAdvanced": "Antsirabe, fondat în anul 1872 de către misionarul norvegian Rosaas, este al treilea oraș ca mărime din Madagascar, renumit pentru izvoarele sale termale și aerul răcoros datorat altitudinii de peste 1.500 de metri. Supranumit \"Orașul Apelor\", a devenit un important centru industrial unde se află fabrici de prelucrare a bumbacului (Cotona) și faimoasa berărie STAR. Călătorii sunt impresionați de arhitectura colonială, de bulevardele largi aliniate de copaci și de sutele de ricșe viu colorate (pousse-pousse) care reprezintă principalul mijloc de transport local. Orașul joacă un rol vital în economia regiunii Vakinankaratra, fiind un centru pentru comerțul agricol și meșteșugurile tradiționale malgașe. Geografie K7 — așezări urbane și izvoare termale.",
+      "id": "antananarivo-cities-v2",
+      "descriptionAdvanced": "Antananarivo, inima politică, economică și culturală a Madagascarului, este o metropolă fascinantă situată la o altitudine de aproximativ 1.280 de metri în munții centrali. Orașul a fost fondat în jurul anului 1625 de regele Andrianjaka pe unul dintre cele douăsprezece dealuri sacre ale poporului Merina, iar numele său se traduce prin „Orașul celor O Mie”, referindu-se la numărul de soldați care au păzit inițial fortăreața regală. Peisajul urban este spectaculos, marcat de case colorate din cărămidă, străzi abrupte și terase de orez care se întind până la marginea zonelor rezidențiale. Monumentul cel mai impunător este Rova (Palatul Reginei), care domină orizontul de pe cel mai înalt punct al orașului, oferind o panoramă uluitoare. Deși se confruntă cu provocările urbanizării rapide, Antananarivo rămâne un centru vital al educației și inovației, găzduind cele mai prestigioase universități și instituții de cercetare din țară. Geografie K7 — așezări montane și peisaje urbane complexe.",
       "factsAdvanced": [
-        "Fondat în 1872 de misionarul norvegian T. G. Rosaas.",
-        "Este al treilea cel mai populat oraș, cu peste 250.000 de locuitori.",
-        "Situat la o altitudine de aproximativ 1.500 de metri.",
-        "Găzduiește fabrica de textile Cotona, un motor economic local.",
-        "Cunoscut pentru rețeaua sa de peste 3.000 de ricșe (pousse-pousse).",
-        "A fost numit "Vichy malgaș" datorită izvoarelor termale bogate în minerale."
+        "Fondat în jurul anului 1625 pe dealurile sacre ale regatului Merina.",
+        "Situat la o altitudine medie de 1.280 de metri, oferind un climat temperat.",
+        "Numele orașului înseamnă „Orașul celor O Mie” în limba malgașă.",
+        "Dominat de complexul palatului regal Rova, un simbol al suveranității.",
+        "Găzduiește sediul central al guvernului și principalele bănci ale țării.",
+        "Universitatea din Antananarivo a fost stabilită oficial în anul 1961.",
+        "Aeroportul Internațional Ivato este principala poartă de acces aerian.",
+        "Lacul Anosy, în formă de inimă, este un reper geografic central iconic."
+      ]
+    },
+    {
+      "id": "toamasina-cities-v2",
+      "descriptionAdvanced": "Toamasina, cunoscut istoric sub numele de Tamatave, reprezintă principalul port maritim al Madagascarului și motorul său comercial pe coasta Oceanului Indian. Orașul este situat într-o zonă tropicală umedă și servește ca punct terminal pentru Canalul Pangalanes, o cale navigabilă istorică de 600 de kilometri. Toamasina gestionează peste 80% din traficul maritim internațional al insulei, fiind poarta principală pentru exporturile de vanilie, cuișoare, cafea și minerale precum nichelul. Arhitectura orașului reflectă un amestec de influențe coloniale franceze și adaptări moderne la climatul maritim, cu bulevarde largi mărginite de palmieri, cum este celebrul Boulevard des Ratsimilaho. În ciuda distrugerilor cauzate de ciclonul devastator din 1927, orașul a fost reconstruit rapid, devenind un centru urban vibrant și cosmopolit. Pentru studenții de geografie, Toamasina este un exemplu perfect de nod logistic unde transportul feroviar din podiș întâlnește rutele comerciale oceanice. Geografie K7 — porturi maritime și comerț global.",
+      "factsAdvanced": [
+        "Este cel mai mare și important port maritim comercial din Madagascar.",
+        "Gestionează aproximativ 80% din volumul total de mărfuri internaționale.",
+        "Reprezintă punctul de terminare al canalului istoric Pangalanes.",
+        "A fost aproape complet distrus de un ciclon sever în anul 1927.",
+        "Economia sa depinde masiv de exportul de vanilie și cuișoare.",
+        "Bulevardul Ratsimilaho este una dintre cele mai largi străzi din țară.",
+        "Conectat de capitală prin singura linie ferată comercială activă.",
+        "Găzduiește o rafinărie de petrol și facilități mari de procesare a nichelului."
+      ]
+    },
+    {
+      "id": "antsirabe-cities-v2",
+      "descriptionAdvanced": "Antsirabe, supranumit „Vichy al Madagascarului”, este al treilea oraș ca mărime din țară, renumit pentru izvoarele sale termale și climatul răcoros din podișul central. Situat la o altitudine de 1.500 de metri, orașul a fost dezvoltat inițial de misionarii norvegieni în 1872 ca un centru de sănătate și recreere. Identitatea vizuală a orașului este marcată de prezența a mii de ricșe viu colorate, numite „pousse-pousse”, care constituie principalul mijloc de transport local pe bulevardele largi și curate. Pe lângă turismul balnear, Antsirabe este un gigant industrial, găzduind cea mai mare berărie a insulei (STAR) și fabrici textile de importanță națională (Cotona). Regiunea vulcanică înconjurătoare este extrem de fertilă, făcând din Antsirabe „grânarul” Madagascarului, unde se cultivă intens cartofi, mere și cereale. Orașul reușește să combine armonios moștenirea arhitecturală colonială franceză cu dinamismul economic modern, fiind un punct cheie pe ruta națională RN7. Geografie K6 — industrii regionale și resurse geotermale.",
+      "factsAdvanced": [
+        "Fondat în 1872 de misionarul norvegian T.G. Rosaas ca stațiune termală.",
+        "Situat la o altitudine ridicată de 1.500 de metri, având temperaturi scăzute.",
+        "Cunoscut pentru rețeaua vastă de peste 3.000 de ricșe (pousse-pousse).",
+        "Găzduiește Hotel des Thermes, o clădire istorică celebră construită în 1897.",
+        "Este sediul fabricii Cotona, pilonul industriei textile malgașe.",
+        "Aici se află berăria STAR, care produce berea națională THB.",
+        "Regiunea este bogată în pietre semiprețioase și ateliere de lapidărie.",
+        "În apropiere se află lacurile vulcanice Tritriva și Andraikiba."
       ]
     },
     {
       "id": "fianarantsoa-cities-v2",
-      "descriptionAdvanced": "Fianarantsoa, capitala regiunii Haute Matsiatra din sud-estul țării, a fost înființată în 1830 de către regina Ranavalona I, având scopul de a fi un al doilea Antananarivo. Orașul este împărțit în trei niveluri distincte: Orașul de Sus (cunoscut pentru străduțele pietruite și bisericile vechi), Orașul de Mijloc (centrul administrativ) și Orașul de Jos (zona comercială și stația feroviară). Fianarantsoa este un pilon intelectual și spiritual al Madagascarului, deținând unele dintre cele mai prestigioase școli și seminarii teologice. Totodată, este punctul de plecare pentru singura linie de cale ferată funcțională spre est, care leagă orașul de portul Manakara de pe coasta Oceanului Indian. Geografie K7 — dezvoltare urbană și transport feroviar.",
+      "descriptionAdvanced": "Fianarantsoa, al cărui nume se traduce prin „Acolo unde se învață binele”, este centrul cultural și intelectual al grupului etnic Betsileo din podișul sudic. Fondat în 1830 de regina Ranavalona I pentru a servi drept capitală administrativă a provinciilor din sud, orașul a fost construit după modelul Antananarivo, fiind structurat pe trei niveluri: Orașul de Sus istoric, Orașul de Mijloc modern și Orașul de Jos comercial. Orașul de Sus (Haute-Ville) este renumit pentru bisericile sale vechi și străzile înguste pietruite, fiind inclus pe lista World Monuments Watch datorită valorii sale arhitecturale. Fianarantsoa este inima viticulturii malgașe, dealurile din jur fiind acoperite cu podgorii care produc singurele vinuri de pe insulă. Totodată, orașul este un nod feroviar crucial, fiind punctul de plecare pentru linia istorică FCE către portul Manakara, oferind o conexiune vitală pentru comunitățile izolate din pădurea tropicală. Geografie K7 — centre de educație și infrastructură feroviară montană.",
       "factsAdvanced": [
-        "Fondat în anul 1830 prin decretul reginei Ranavalona I.",
-        "Numele orașului se traduce prin "Acolo unde se învață binele".",
-        "Punctul de plecare al căii ferate istorice Fianarantsoa-Côte Est (FCE).",
-        "Găzduiește o populație estimată la peste 190.000 de rezidenți.",
-        "Centrul istoric a fost inclus pe lista World Monuments Watch în 2008.",
-        "Regiunea este renumită pentru producția de vin și plantațiile de ceai Sahambavy."
+        "Înființat în 1830 de Regina Ranavalona I ca centru administrativ sudic.",
+        "Numele său înseamnă în limba malgașă „Locul unde se învață binele”.",
+        "Orașul de Sus a fost nominalizat pe lista World Monuments Watch in 2008.",
+        "Este singurul centru major de producție de vin din tot Madagascarul.",
+        "Punct de plecare pentru calea ferată Fianarantsoa-Côte Est (FCE).",
+        "Găzduiește numeroase instituții catolice și seminarii teologice prestigioase.",
+        "Situat la o altitudine de 1.200 de metri, cu peisaje montane superbe.",
+        "Regiunea este celebră pentru singurele plantații de ceai din țară (Sahambavy)."
       ]
     },
     {
       "id": "mahajanga-cities-v2",
-      "descriptionAdvanced": "Mahajanga, situat la gura estuarului râului Betsiboka pe coasta de nord-vest, este un port maritim plin de viață care îmbină armonios influențele arabe, comoriene și indiene. Fostă capitală a regatului Boina în secolul al XVIII-lea, orașul păstrează o atmosferă vibrantă pe faleză (Le Bord), unde localnicii și vizitatorii se adună în serile calde. Arhitectura sa reflectă istoria comercială a Oceanului Indian, cu porți masive de lemn sculptat și moschei antice. Mahajanga servește ca un important nod comercial pentru exportul de rafie, orez și tutun, fiind protejat simbolic de un baobab enorm vechi de peste 700 de ani. Geografie K7 — orașe portuare și estuare.",
+      "descriptionAdvanced": "Mahajanga, situat la gura estuarului râului Betsiboka pe coasta de nord-vest, este un port maritim vibrant, marcat de o istorie cosmopolită și un amestec cultural fascinant. Fostă capitală a regatului Sakalava de Boina, orașul a fost timp de secole un punct de întâlnire pentru comercianții arabi, indieni și africani. Simbolul incontestabil al orașului este un baobab gigantic, vechi de peste 700 de ani și cu o circumferință de 21 de metri, care tronează pe faleza cunoscută sub numele de „Le Bord”. Portul are o importanță strategică pentru exportul de rafie, bumbac și rafinarea zahărului, deși se confruntă cu probleme de sedimentare din cauza aluviunilor roșii transportate de fluviu. Mahajanga este, de asemenea, o destinație turistică populară datorită plajelor sale și a formațiunii geologice Cirque Rouge, un amfiteatru natural de gresie colorată. Climatul cald și atmosfera relaxată fac din acest oraș o poartă de acces către minunile naturale din vestul insulei. Geografie K7 — dinamica estuarelor și istoria comerțului maritim.",
       "factsAdvanced": [
-        "A fost capitala istorică a regatului Sakalava de Boina în secolul al XVIII-lea.",
-        "Portul exportă cantități mari de creveți, rafie și condimente.",
-        "Emblema orașului este un baobab gigantic, a cărui circumferință atinge 21 de metri.",
-        "Populația numără aproximativ 220.000 de locuitori.",
-        "Temperatura medie anuală este una dintre cele mai ridicate din țară, în jur de 27°C.",
-        "Este situat în estuarul masiv al râului Betsiboka."
+        "A fost capitala istorică a regatului Sakalava de Boina în secolul XVIII.",
+        "Emblema orașului este un baobab imens cu o vechime de peste 700 de ani.",
+        "Este al doilea port maritim ca importanță de pe coasta vestică.",
+        "Fluviul Betsiboka varsă sedimente roșii vizibile chiar și din spațiu.",
+        "Regiunea este faimoasă pentru exploatarea și exportul de rafie.",
+        "Cirque Rouge este un monument natural de gresie situat în apropiere.",
+        "Găzduiește o populație diversă, inclusiv o comunitate indiană influentă.",
+        "Temperatura medie anuală este ridicată, atingând frecvent 27 de grade Celsius."
       ]
     },
     {
       "id": "toliara-cities-v2",
-      "descriptionAdvanced": "Toliara, denumit și Tuléar, este metropola dominantă din sud-vestul arid al Madagascarului, având o climă tropicală semi-aridă unică. Înconjurat de un peisaj spectaculos definit de păduri de baobabi, tufișuri spinoase specifice și vaste recife de corali, orașul este un veritabil laborator biologic. Înființat oficial în 1895 de către arhitectul francez Joseph Gallieni pe un plan în grilă, portul are un rol cheie în importurile de mărfuri și în comerțul regional cu produse agricole locale (porumb, bumbac și arahide). În plus, Toliara este gazda unui muzeu oceanografic important și a unui impresionant parc botanic (Arboretum d'Antsokay), care adună mii de specii de plante endemice adaptate la secetă. Geografie K8 — ecosisteme semi-aride și urbanizare.",
+      "descriptionAdvanced": "Toliara, cunoscută anterior sub numele de Tuléar, este metropola luminoasă și aridă din sud-vestul Madagascarului, situată chiar sub Tropicul Capricornului. Orașul este poarta de acces către peisajele extreme ale sudului, dominate de păduri spinoase endemice și recife de corali masive. Planificat în 1895 pe un sistem geometric de către arhitectul francez Joseph Gallieni, orașul servește drept hub logistic pentru exportul de bumbac, sisal și produse marine. Toliara este protejată de un recif barieră de 250 de kilometri, unul dintre cele mai lungi din lume, care oferă resurse vitale pescarilor nomazi Vezo. Instituțiile de cercetare oceanografică de aici sunt printre cele mai respectate de pe insulă, subliniind importanța biodiversității marine a regiunii. În ciuda climatului semideșertic și a lipsei acute de precipitații, Toliara pulsează de viață, fiind un centru cultural unde tradițiile pastorale se întâlnesc cu modernitatea portuară. Geografie K8 — ecosisteme aride și structuri urbane coloniale.",
       "factsAdvanced": [
-        "A fost planificat pe un sistem modern de tip grilă în 1895 de Joseph Gallieni.",
-        "Reprezintă principalul hub urban pentru regiunea sud-vestică Atsimo-Andrefana.",
-        "În apropiere se află cel mai lung recif de corali din țară.",
-        "Arboretum d'Antsokay, fondat în 1980 de un elvețian, protejează peste 900 de specii de plante.",
-        "Temperatura anuală înregistrează medii de 24°C, precipitațiile fiind extrem de rare.",
-        "Este punctul final al rutei naționale istorice Route Nationale 7."
+        "Fondat oficial în 1895 de către guvernatorul francez Joseph Gallieni.",
+        "Situat pe coasta de sud-vest, în apropierea Tropicului Capricornului.",
+        "Protejat de un recif barieră de corali cu o lungime de peste 250 km.",
+        "Primește mai puțin de 400 mm de precipitații anual, fiind o zonă aridă.",
+        "Găzduiește Arboretum d'Antsokay, care protejează 900 de specii de plante.",
+        "Este centrul cultural al poporului de pescari Vezo.",
+        "Reprezintă punctul terminal al faimoasei șosele naționale RN7.",
+        "Economia locală se bazează pe exportul de sisal, sare și bumbac."
       ]
     },
     {
       "id": "antsiranana-cities-v2",
-      "descriptionAdvanced": "Cunoscut istoric sub numele de Diego-Suarez, Antsiranana domină vârful de nord al Madagascarului, situându-se într-unul dintre cele mai extinse și magnifice golfuri naturale din lume. Originea denumirii sale istorice provine de la exploratorii portughezi Diogo Soares și Fernando Soares, care au navigat în zonă la începutul secolului al XVI-lea. Portul a servit drept o bază navală strategică esențială pentru trupele franceze până în anul 1973, moștenirea colonială fiind vizibilă în clădirile din centrul vechi. Orașul este recunoscut pentru străzile sale largi, influențele cosmopolite care împletesc culturi arabe, indiene și europene, și proximitatea față de faimosul parc național Montagne d'Ambre. Istorie K8 — rute comerciale maritime și baze navale.",
+      "descriptionAdvanced": "Antsiranana, cunoscut istoric sub numele de Diego-Suarez, domină extremitatea nordică a Madagascarului, fiind situat într-unul dintre cele mai mari și spectaculoase golfuri naturale din lume. Orașul are o istorie maritimă profundă, servind timp de aproape un secol ca bază navală strategică pentru Franța, influență care se resimte și astăzi în arhitectura sa cu arcade coloniale. Golful Diego-Suarez este compus din patru brațe mai mici și este celebru pentru „Pâinea de Zahăr” (Nosy Lonjo), o insulă conică izolată considerată sacră de localnici. Antsiranana este un punct de plecare esențial pentru turiștii care doresc să exploreze Parcul Național Montagne d'Ambre sau formațiunile bizare de Tsingy Roșii. Deși izolată din punct de vedere terestru, orașul prosperă prin industria conservelor de ton și șantierele navale SECREN, fiind cel mai important pol economic din nordul insulei. Amestecul său de cultură arabă, africană și europeană îi conferă o identitate cosmopolită unică. Geografie K7 — golfuri naturale și puncte strategice navale.",
       "factsAdvanced": [
-        "Situat în golful Diego-Suarez, care măsoară aproximativ 156 de kilometri pătrați.",
-        "Numele colonial provine de la navigatorii portughezi din anul 1543.",
-        "A fost o bază militară navală a Franței între 1885 și 1973.",
-        "Astăzi, are o populație metropolitană de aproximativ 115.000 de persoane.",
-        "Zona este considerată centrul industriei conservelor de ton din regiune.",
-        "Golful conține faimoasa insulă izolată, cunoscută ca "Pâinea de Zahăr" (Nosy Lonjo)."
+        "Situat în al doilea cel mai mare golf natural din lume după cel din Rio.",
+        "A purtat numele exploratorului portughez Diego Suarez până în anul 1975.",
+        "A fost o bază navală franceză majoră în Oceanul Indian până în 1973.",
+        "Insula Nosy Lonjo din centrul golfului este un loc sacru interzis vizitei.",
+        "Găzduiește SECREN, cel mai mare șantier de reparații navale din țară.",
+        "Este poarta principală de acces către Parcul Național Montagne d'Ambre.",
+        "Regiunea este renumită pentru vânturile puternice numite Varatraza.",
+        "A fost locul unor bătălii importante în timpul celui de-al Doilea Război Mondial."
       ]
     },
     {
       "id": "antanifotsy-cities-v2",
-      "descriptionAdvanced": "Antanifotsy este un oraș dinamic, situat în regiunea centrală Vakinankaratra, cunoscut pentru rolul său fundamental în agricultura din inima Madagascarului. Clima favorabilă și altitudinea au transformat acest oraș într-un centru prosper de producție agricolă, în special pentru culturile de cartofi, fasole și porumb, precum și pentru creșterea animalelor. Infrastructura locală servește drept piață vitală pentru mii de fermieri din satele montane înconjurătoare, adunând comunitățile în zilele de târg efervescente. Orașul păstrează ritmul tradițional al vieții malgașe, axat pe agricultură și meșteșuguri rurale, susținând în același timp economia regiunii mai largi. Geografie K5 — dezvoltare rurală și piețe agricole.",
+      "descriptionAdvanced": "Antanifotsy, situat în regiunea muntoasă Vakinankaratra, este inima agricolă a podișului central malgaș, beneficiind de un sol vulcanic extrem de fertil. Numele orașului, care înseamnă „La pământul alb”, reflectă caracteristicile geologice ale zonei care au favorizat o producție masivă de cereale și legume. Aflat la o altitudine de peste 1.400 de metri, Antanifotsy are un climat răcoros, ideal pentru cultivarea cartofilor și a porumbului, fiind unul dintre principalii furnizori de hrană pentru capitala Antananarivo. Orașul este un centru de tranzit crucial pentru fermierii din satele din jur care își aduc produsele la marile piețe săptămânale. Identitatea locală este strâns legată de etnia Merina și de tehnicile avansate de terasare a versanților, transformând munții Ankaratra într-o grădină vastă. Din punct de vedere istoric, Antanifotsy a jucat un rol logistic important în timpul expansiunii regatului Imerina, menținându-și până astăzi importanța ca nod de comunicație rural. Geografie K5 — agricultura de altitudine și peisaje rurale.",
       "factsAdvanced": [
-        "Este localizat în regiunea muntoasă Vakinankaratra.",
-        "Reprezintă unul dintre cele mai mari centre de recoltare a cartofilor.",
-        "Populația localității și a comunei adiacente depășește 70.000 de locuitori.",
-        "Numele "Antanifotsy" se poate traduce prin "La pământul alb".",
-        "Găzduiește piețe rurale mari, unde fermierii își vând recolta o dată pe săptămână.",
-        "Altitudinea este favorabilă culturilor de climat temperat, fiind peste 1.400 m."
+        "Numele orașului se traduce prin „Locul cu pământ alb” în limba malgașă.",
+        "Situat la o altitudine ridicată de aproximativ 1.450 de metri în podiș.",
+        "Este unul dintre cei mai mari producători de cartofi din Madagascar.",
+        "Bazinul râului Onive oferă apă vitală pentru irigațiile agricole locale.",
+        "Populația comunei depășește 70.000 de locuitori, majoritatea fiind fermieri.",
+        "Se află în vecinătatea masivului vulcanic Ankaratra.",
+        "Reprezintă un punct de oprire important pe drumul dintre capitală și Antsirabe.",
+        "Casele tradiționale din cărămidă roșie cu etaj sunt specifice zonei."
       ]
     },
     {
       "id": "ambovombe-cities-v2",
-      "descriptionAdvanced": "Ambovombe este capitala administrativă a regiunii Androy, o așezare aflată în sudul extrem al Madagascarului, definită de provocările majore ale climei deșertice și de vânturile puternice (tioka-antsimo). În ciuda condițiilor vitrege de secetă severă, orașul se impune ca principalul târg de vite zebu din regiune, un animal profund înrădăcinat în cultura și economia populației Antandroy. Ambovombe acționează ca un nod crucial pentru comerțul cu sisal și arahide, încercând permanent să combată crizele recurente de apă prin proiecte umanitare. Așezarea ilustrează extraordinara reziliență a comunităților umane din medii extrem de uscate, care depind direct de resursele naturale limitate. Geografie K6 — adaptarea la deșertificare.",
+      "descriptionAdvanced": "Ambovombe-Androy este capitala administrativă a regiunii Androy și reprezintă centrul vital al sudului extrem al Madagascarului, o zonă marcată de provocări climatice severe. Orașul este situat într-o savană aridă, caracterizată prin tufișuri spinoase și absența cursurilor de apă permanente, fiind patria poporului Antandroy. Identitatea locală este definită de rezistența în fața perioadelor prelungite de secetă, cunoscute sub numele de „Kere”, care au făcut din Ambovombe un punct focal pentru asistența umanitară internațională. În ciuda mediului ostil, orașul este un nod comercial vibrant, fiind renumit pentru marile sale târguri de vite zebu, esențiale pentru economia și cultura locală. Ambovombe face legătura între orașele Fort-Dauphin și Toliara prin rutele naționale RN10 și RN13, fiind o oprire strategică pentru oricine traversează peisajul deșertic malgaș. Plantațiile vaste de sisal din împrejurimi oferă o sursă importantă de venit, deși resursele de apă rămân cea mai prețioasă marfă. Geografie K7 — zone semi-aride și adaptări umane la secetă.",
       "factsAdvanced": [
-        "Este capitala regiunii aride Androy din sudul îndepărtat.",
-        "Principalul târg regional pentru tranzacționarea vitelor zebu.",
-        "Regiunea este constant afectată de secetă severă (Kere).",
-        "Populația zonei este formată majoritar din grupul etnic Antandroy.",
-        "Precipitațiile anuale medii abia depășesc 400 mm.",
-        "Așezarea este un nod rutier care leagă Fort-Dauphin de Toliara."
+        "Este capitala regiunii Androy, cea mai aridă parte a Madagascarului.",
+        "Precipitațiile medii anuale sunt extrem de scăzute, adesea sub 400 mm.",
+        "Este principalul centru de comerț cu vite zebu din sudul extrem.",
+        "Grupul etnic dominant este Antandroy, cunoscuți drept „oamenii spinilor”.",
+        "Regiunea este celebră pentru monumentele funerare din piatră pictate.",
+        "Ambovombe înseamnă „Acolo unde sunt fântâni mari” în limba malgașă.",
+        "Orașul este un punct critic pentru distribuția ajutorului alimentar în caz de secetă.",
+        "Se află la intersecția drumurilor strategice naționale RN10 și RN13."
       ]
     },
     {
       "id": "amparafaravola-cities-v2",
-      "descriptionAdvanced": "Situat în inima regiunii Alaotra-Mangoro, Amparafaravola este un oraș a cărui identitate este complet modelată de vastele orezării care înconjoară bazinul Lacului Alaotra, cel mai mare corp de apă dulce din țară. Această zonă este supranumită "grânarul de orez" al Madagascarului, iar orașul acționează ca un centru imens de procesare și distribuție a recoltelor esențiale pentru alimentația națională. Populația locală este adânc legată de ritmurile musonice care dictează plantarea și recoltarea. De-a lungul deceniilor, Amparafaravola a văzut dezvoltarea sistemelor de irigații complexe menite să susțină producția masivă, având un rol strategic pe plan economic. Biologie K7 — agricultura de orez și ecosisteme lacustre.",
+      "descriptionAdvanced": "Amparafaravola, situat pe malul vestic al Lacului Alaotra, este inima celui mai productiv bazin agricol din Madagascar, fiind supranumit „coșul de pâine” sau „bolul de orez” al țării. Orașul domină o regiune de câmpii inundabile vaste, unde cultivarea orezului umed este practicată la o scară industrială, furnizând peste 10% din necesarul național. Viața economică a localității este dictată de ciclul apelor lacului Alaotra, cel mai mare corp de apă dulce de pe insulă, care oferă resurse atât pentru agricultură, cât și pentru pescuit. Amparafaravola se confruntă însă cu provocări ecologice majore, cum ar fi colmatarea lacului din cauza eroziunii solului de pe dealurile înconjurătoare (lavaka). Totuși, importanța sa rămâne crucială, fiind conectat prin rute feroviare istorice la rețeaua națională pentru transportul recoltelor. Pentru biologi, zona este vitală deoarece adăpostește specii unice, precum lemurul de bambus de Alaotra, care trăiește exclusiv în stuful din jurul orașului. Geografie K6 — sisteme de irigații și zone umede protejate.",
       "factsAdvanced": [
-        "Este amplasat pe malul vestic al imensului Lac Alaotra.",
-        "Regiunea sa este responsabilă pentru o mare parte din producția națională de orez.",
-        "Este deservit de o ramificație istorică a căii ferate Tce (Tananarive-Côte Est).",
-        "Sistemul de irigații din zonă acoperă zeci de mii de hectare.",
-        "Orașul aparține regiunii administrativ-teritoriale Alaotra-Mangoro.",
-        "Bazinul Alaotra furnizează aproximativ 10% din totalul orezului malgaș."
+        "Este centrul principal de producție de orez din regiunea Alaotra-Mangoro.",
+        "Situat lângă Lacul Alaotra, cel mai mare lac de apă dulce din Madagascar.",
+        "Numele orașului se referă la locul unde se fabricau lămpi tradiționale.",
+        "Bazinul agricol Alaotra furnizează hrană pentru peste un milion de oameni.",
+        "Este un habitat critic pentru specia endemică Bandro (lemurul de bambus).",
+        "Eroziunea solului cunoscută sub numele de „lavaka” este o problemă gravă locală.",
+        "Orașul a fost istoric conectat la rețeaua de cale ferată spre Moramanga.",
+        "Pescuitul de tilapia este a doua activitate economică după orez."
       ]
     },
     {
       "id": "tolanaro-cities-v2",
-      "descriptionAdvanced": "Tolanaro, istoric cunoscut drept Fort-Dauphin, se află pe o peninsulă magnifică în sud-estul țării, apărată de crestele Munților Anosy. Fondat în anul 1643 de către Compania Franceză a Indiilor de Est, orașul reprezintă una dintre cele mai vechi așezări coloniale din Madagascar. Clima sa de tranziție, poziționată între junglele estice și sudul arid, permite o diversitate ecologică remarcabilă în împrejurimi, atrăgând cercetători. În ultimele două decenii, economia orașului a fost profund revitalizată datorită construirii minei de ilmenit (QMM) și a portului modern de la Ehoala. Turismul joacă un rol important datorită plajelor cu nisip alb (precum Libanona) și a rezervațiilor naturale vecine (Nahampoana). Istorie K8 — primele colonii europene.",
+      "descriptionAdvanced": "Tôlanaro, cunoscut anterior sub numele colonial de Fort-Dauphin, este o bijuterie portuară situată la intersecția dintre munții Anosy și Oceanul Indian, în extremitatea sud-estică a insulei. Fondat în 1643 de Compania Franceză a Indiilor de Est, orașul este una dintre cele mai vechi așezări europene din Madagascar, păstrând vestigii istorice precum Fort Flacourt. Cadrul său natural este dramatic, fiind înconjurat de trei golfuri superbe și de o vegetație unică unde pădurea tropicală umedă întâlnește deșertul spinos. În ultimul deceniu, Tôlanaro a cunoscut o transformare economică masivă odată cu deschiderea minei de ilmenit Rio Tinto și a portului de mare adâncime Ehoala, unul dintre cele mai moderne din regiune. Pe lângă industrie, orașul este o destinație de top pentru ecoturism, servind ca bază pentru vizitarea rezervațiilor Berenty și Nahampoana, unde fauna endemică este ușor de observat. Climatul vântos și plajele izolate fac din Tôlanaro un loc de o frumusețe sălbatică și un pilon de dezvoltare pentru sudul țării. Történelem K8 — colonizare și resurse minerale moderne.",
       "factsAdvanced": [
-        "A fost stabilit în 1643, fiind o așezare pionieră a francezilor.",
-        "Portul Ehoala, finalizat în 2009, permite acostarea navelor mari de marfă.",
-        "Proiectul minier QMM din apropiere extrage ilmenit (dioxid de titan).",
-        "Orașul are o climă de tranziție unică, cu vânturi frecvente.",
-        "Numele original colonial a fost dat în onoarea Delfinului, viitorul rege Ludovic al XIV-lea.",
-        "Este poarta principală de acces către rezervația Berenty."
+        "Fondat în 1643, fiind prima așezare franceză permanentă pe insulă.",
+        "A fost denumit Fort-Dauphin în onoarea viitorului rege Ludovic al XIV-lea.",
+        "Portul Ehoala, deschis în 2009, este cel mai modern port din sudul țării.",
+        "Găzduiește una dintre cele mai mari mine de ilmenit (titan) din lume.",
+        "Este singurul loc unde se întâlnesc două ecosisteme opuse: umed și arid.",
+        "Numele malgaș „Tôlanaro” înseamnă „Locul celor multe oase”.",
+        "Rezervația Berenty, celebră pentru lemurienii katta, se află la 80 km distanță.",
+        "Orașul este renumit pentru vânturile sale constante și puternice."
       ]
     },
     {
       "id": "ambatondrazaka-cities-v2",
-      "descriptionAdvanced": "Ambatondrazaka servește ca oraș capitală al bogatei regiuni agricole Alaotra-Mangoro, situat pe platourile de lângă Lacul Alaotra. Numele său evocă istoria eroului local care ar fi spart o stâncă, orașul fiind înființat în timpul campaniilor de expansiune merina din secolul al XVIII-lea. Fiind un centru comercial major, Ambatondrazaka este faimos pentru silozurile masive de orez și pentru agitația zilnică din piețele de cereale care aprovizionează capitala națională. Infrastructura locală s-a dezvoltat în concordanță cu nevoile agronomiei și ale distribuției alimentelor, creând o localitate vibrantă unde tradiția întâlnește modernizarea rurală. Geografie K6 — economii regionale bazate pe agricultură.",
+      "descriptionAdvanced": "Ambatondrazaka este capitala regiunii Alaotra-Mangoro și principalul centru administrativ al vastului bazin de orez din jurul Lacului Alaotra. Orașul este situat într-o zonă de o importanță strategică pentru securitatea alimentară a Madagascarului, fiind punctul central de colectare și distribuție pentru cerealele produse în „grânarul” insulei. Peisajul din jurul orașului este dominat de orezării nesfârșite care se întind până la poalele dealurilor muntoase din est. Ambatondrazaka a fost istoric un punct cheie în regatul Merina, controlând rutele comerciale dintre podiș și coastă. Orașul este deservit de linia de cale ferată Moramanga-Lac Alaotra, o infrastructură vitală pentru exportul orezului către Antananarivo. Pe lângă agricultură, orașul este un hub pentru comerțul cu produse locale și un centru educațional regional. Provocările actuale includ gestionarea sustenabilă a resurselor de apă ale lacului și combaterea degradării solului prin tehnici moderne de conservare. Geografie K7 — gestiunea resurselor agricole și bazine hidrografice.",
       "factsAdvanced": [
-        "Capitala administrativă a regiunii centrale Alaotra-Mangoro.",
-        "A fost integrat în regatul Merina în secolul al XVIII-lea de regele Radama I.",
-        "Se află la o altitudine de 800 de metri, aproape de malul estic al lacului.",
-        "Populația locală depășește 100.000 de persoane, preponderent fermieri.",
-        "Orașul este capătul nordic al liniei de cale ferată Moramanga-Lac Alaotra (MLA).",
-        "Este un nod principal de export pentru producția a zeci de mii de hectare de orezării."
+        "Capitala regiunii Alaotra-Mangoro și centru administrativ major.",
+        "Situat în zona de est a Madagascarului, la o altitudine de 760 de metri.",
+        "Hub feroviar pe linia MLA (Moramanga-Lac Alaotra) pentru transportul orezului.",
+        "Numele se traduce prin „La piatra lui Razzaka”, un lider local istoric.",
+        "Este principalul punct de plecare pentru explorarea Lacului Alaotra.",
+        "Economia se bazează pe procesarea orezului și a leguminoaselor.",
+        "Găzduiește piețe săptămânale uriașe ce atrag mii de comercianți.",
+        "Regiunea deține recorduri naționale pentru randamentul la hectar al orezului."
       ]
     },
     {
       "id": "mananara-avaratra-cities-v2",
-      "descriptionAdvanced": "Mananara Avaratra este un oraș izolat situat pe coasta de nord-est a Madagascarului, renumit global pentru producția uneia dintre cele mai fine varietăți de vanilie și cuișoare. Datorită precipitațiilor tropicale abundente din regiunea Analanjirofo, orașul este înconjurat de păduri pluviale dense și de un biosistem unic de recife de corali, incluse în Parcul Național Mananara-Nord, prima rezervație a biosferei UNESCO a țării (1990). Izolarea sa rutieră, adesea accesibil în special pe cale maritimă sau prin drumuri dificile, i-a permis să-și păstreze o autenticitate neatinsă și un ritm de viață dictat de recoltarea condimentelor. Economia de export a vaniliei susține complet comunitățile din zonă. Biologie K7 — agricultura de condimente și biosfere protejate.",
+      "descriptionAdvanced": "Mananara Avaratra este un oraș portuar izolat, situat pe coasta de nord-est a Madagascarului, în inima regiunii Analanjirofo, celebră pentru producția de cuișoare și vanilie. Orașul este situat la vărsarea râului Mananara în Oceanul Indian și este flancat de Parcul Național Mananara Nord, o rezervație a biosferei UNESCO ce protejează ecosisteme marine și terestre rare. Accesul către acest oraș este extrem de dificil pe cale terestră din cauza stării precare a drumurilor, ceea ce a transformat barjele de transport maritim în principala sa legătură cu restul lumii. Mananara Avaratra păstrează o atmosferă autentică, unde ritmul vieții este dictat de sezoanele de recoltare a condimentelor și de condițiile meteorologice din Oceanul Indian. Pentru vizitatori, este un paradis al biodiversității, fiind unul dintre puținele locuri de pe pământ unde se pot vedea lemuri Aye-aye în habitatul lor natural. Orașul reprezintă o frontieră a conservării naturii, îmbinând supraviețuirea economică bazată pe exporturi cu protecția speciilor endemice. Geografie K6 — protecția biosferei și economii izolate.",
       "factsAdvanced": [
-        "Găzduiește Parcul Național Mananara-Nord, declarat Rezervație a Biosferei UNESCO în 1990.",
-        "O mare parte a populației lucrează direct în cultivarea și prelucrarea vaniliei.",
-        "Orașul este traversat de râul Mananara care se varsă în Golful Antongil.",
-        "Infrastructura rutieră către oraș este extrem de dificilă (Route Nationale 5).",
-        "Zona produce anual cantități semnificative de cuișoare la nivel național.",
-        "Se află în inima regiunii forestiere Analanjirofo."
+        "Poarta de acces către Parcul Național Mananara Nord (biosferă UNESCO).",
+        "Unul dintre puținele locuri unde lemurul nocturn Aye-aye poate fi observat ușor.",
+        "Economia locală depinde aproape integral de producția de cuișoare și vanilie.",
+        "Accesul rutier pe RN5 este considerat unul dintre cele mai dificile din lume.",
+        "Include zone de protecție marină cu recife de corali și iarbă de mare.",
+        "Râul Mananara oferă un port natural pentru ambarcațiunile comerciale mici.",
+        "Regiunea primește precipitații abundente pe tot parcursul anului.",
+        "Populația locală aparține în principal grupului etnic Betsimisaraka."
       ]
     },
     {
       "id": "soavinandriana-cities-v2",
-      "descriptionAdvanced": "Localitatea pitorească Soavinandriana se află în regiunea Itasy, renumită pentru peisajele vulcanice excepționale și fertilitatea solurilor înconjurătoare. Fosta fortăreață montană, orașul a evoluat într-un important nucleu agricol axat pe producția de cafea arabica, roșii și cereale, profitând de clima răcoroasă de mare altitudine. În apropierea orașului se extind câmpuri cultivate care alimentează piețele din capitala Antananarivo, situată relativ aproape. Arhitectura din Soavinandriana este definită de case tradiționale de pământ roșu, marcând esența vieții din zonele muntoase ale poporului Merina. Localnicii combină meșteșugurile tradiționale cu o agricultură diversificată și intensivă. Geografie K6 — solurile vulcanice și fertilitatea.",
+      "descriptionAdvanced": "Soavinandriana este un oraș pitoresc situat în regiunea Itasy din podișul central al Madagascarului, renumit pentru solurile sale vulcanice extrem de productive și peisajele sale verzi. Situat la vest de capitală, orașul este centrul unei regiuni agricole diversificate unde se cultivă cafea, porumb și orez, dar și legume pentru piețele urbane. Topografia zonei este marcată de conuri vulcanice stinse și lacuri de crater, ceea ce conferă regiunii Itasy un aspect unic și o fertilitate neobișnuită. Soavinandriana servește drept nod comercial important, unde drumurile rurale converg pentru a aduce produsele proaspete către drumul național principal. Climatul este temperat și plăcut, atrăgând mulți vizitatori care doresc să scape de aglomerația capitalei. Orașul este, de asemenea, cunoscut pentru implicarea sa în proiecte de dezvoltare rurală și reîmpădurire, fiind un model de gestionare a terenurilor în zonele de altitudine. Geografie K5 — relief vulcanic și agricultura de podiș.",
       "factsAdvanced": [
-        "Aparține de regiunea administrativă vulcanică Itasy.",
-        "Se găsește la o distanță de doar câțiva kilometri de spectaculosul Lac Itasy.",
-        "Principalele sale culturi economice includ arborii de cafea și tutunul.",
-        "Altitudinea de peste 1.300 de metri contribuie la clima temperată.",
-        "Soavinandriana găzduiește o populație urbană stabilă de peste 40.000 de locuitori.",
-        "Activitățile rurale din jurul orașului asigură o bună parte din hrana capitalei."
+        "Centru administrativ și economic principal al regiunii Itasy.",
+        "Situat într-o zonă vulcanică activă din punct de vedere geologic în trecut.",
+        "Altitudinea medie este de 1.300 de metri, oferind un climat răcoros.",
+        "Este faimos pentru producția sa de cafea de înaltă calitate.",
+        "Se află în apropierea faimosului Lac Itasy, un centru de pescuit și turism.",
+        "Regiunea furnizează o mare parte din laptele și produsele lactate ale capitalei.",
+        "Economia este sprijinită de numeroase cooperative agricole de succes.",
+        "Peisajul este presărat cu morminte tradiționale Merina frumos decorate."
       ]
     },
     {
       "id": "mahanoro-cities-v2",
-      "descriptionAdvanced": "Orașul costier Mahanoro, al cărui nume se traduce prin "Care face pe cineva fericit", reprezintă un pivot istoric al comerțului din sud-estul coastei Oceanului Indian. Acesta este poziționat strategic la gura de vărsare a masivului râu Mangoro, făcând din el un nod hidrografic esențial pentru transportul pe barje. În mod tradițional, orașul a servit drept punct de control și tranzit pe celebrul Canal des Pangalanes, o rută navigabilă construită de francezi care se întinde paralel cu țărmul. Economia orașului Mahanoro pulsează în ritmul barcagiilor și comercianților de cafea, lemn de palisandru și litchi, orașul menținând structurile coloniale de-a lungul principalului său drum estic. Istorie K8 — canale navigabile coloniale.",
+      "descriptionAdvanced": "Mahanoro este un oraș de coastă liniștit și strategic situat pe malul Oceanului Indian, la gura râului Mangoro, pe coasta de est a Madagascarului. Orașul are o importanță istorică majoră ca punct de tranzit pe Canalul Pangalanes, o rețea de lacuri și canale artificiale care permite navigația ferită de furia oceanului. Mahanoro este renumit pentru atmosfera sa pitorească, cu case pe piloni și vegetație luxuriantă, fiind un centru pentru recoltarea condimentelor precum cuișoarele și scorțișoara. De asemenea, orașul este cunoscut ca locul de naștere al multor personalități politice și culturale malgașe, păstrând un aer de demnitate istorică. Plajele sale largi sunt spectaculoase, deși curenții puternici ai Oceanului Indian fac înotul periculos. Mahanoro servește drept hub de transport pentru regiunea Atsinanana, fiind conectat prin drumuri dificile, dar pitorești, de orașele din podiș. Pentru elevi, acesta este un loc ideal pentru a studia interacțiunea dintre gurile de vărsare ale râurilor mari și sistemele de navigație interioară. Geografie K6 — sisteme de transport fluvial și de coastă.",
       "factsAdvanced": [
-        "Situat exact la nord de estuarul magnificului râu Mangoro.",
-        "Este un punct major de oprire pe ruta internă maritimă Canal des Pangalanes.",
-        "Localitatea este cunoscută pentru festivalurile tradiționale tromba (ceremonii de transă).",
-        "Regiunea este expusă regulat la cicloanele tropicale ale Oceanului Indian.",
-        "Mahanoro tranzitează cantități mari de cafea și litchi.",
-        "În timpul dominației Merina, a fost un important fort de control pe coastă."
+        "Situat la vărsarea râului Mangoro, cel mai mare fluviu de pe coasta estică.",
+        "Un punct cheie de oprire pe canalul navigabil istoric Pangalanes.",
+        "Numele orașului s-ar putea traduce prin „Cel care aduce sănătate”.",
+        "A fost un punct strategic în timpul regatului Merina pentru controlul coastei.",
+        "Regiunea este un mare producător de cuișoare, vanilie și cafea.",
+        "Orașul are o pistă de aterizare mică ce îl conectează de capitală.",
+        "Aici se pot vedea tehnici tradiționale de construcție a bărcilor (pirogue).",
+        "Cascadele râului Sahatandra se află în apropierea localității."
       ]
     },
     {
       "id": "soanierana-ivongo-cities-v2",
-      "descriptionAdvanced": "Soanierana Ivongo este un oraș portuar mic, dar crucial, situat pe coasta de est a Madagascarului (regiunea Analanjirofo). Acesta acționează ca punctul de îmbarcare exclusiv și indispensabil pentru traversarea cu feribotul către faimoasa insulă turistică Sainte-Marie (Nosy Boraha). Orașul este caracterizat printr-o agitație sezonieră incredibilă, legată de sosirea turiștilor care doresc să observe migrația balenelor cu cocoașă în Canalul Sainte-Marie. Pe lângă importanța sa în turism, așezarea trăiește din recoltele uriașe de cuișoare și vanilie care se desfășoară în hinterlandul tropical. Infrastructura locală s-a orientat pe servicii de transport, logistica barcazelor și pescuitul tradițional. Geografie K7 — orașe portuare de tranzit turistic.",
+      "descriptionAdvanced": "Soanierana Ivongo este un oraș portuar strategic situat pe coasta de nord-est a Madagascarului, fiind cunoscut în principal ca principalul punct de plecare pentru feriboturile către insula turistică Sainte Marie. Orașul este situat într-o regiune dens împădurită, unde agricultura de subzistență se întâlnește cu producția comercială de condimente, în special cuișoare. Portul său fluvial, situat pe râul Marimbona, este un loc de o activitate intensă, unde mărfurile și călătorii se îmbarcă pe nave către destinații insulare. Soanierana Ivongo a jucat istoric un rol de fortăreață naturală și centru de supraveghere a coastei, numele său sugerând un loc de refugiu și securitate. În ultimii ani, infrastructura rutieră către oraș a fost îmbunătățită, facilitând accesul turiștilor și dezvoltarea economică a regiunii Analanjirofo. Orașul este, de asemenea, o poartă către pădurile tropicale de coastă, adăpostind specii rare de floră și faună specifice estului umed. Geografie K7 — noduri de transport maritim și turism insular.",
       "factsAdvanced": [
-        "Acționează ca principalul port de transfer către Insula Sainte-Marie.",
-        "Zilnic, zeci de bărci cu motor și feriboturi operează pe Canalul Sainte-Marie.",
-        "Se află la vărsarea râului Marimbona.",
-        "Este integrat în ecosistemul forestier al regiunii Analanjirofo.",
-        "Activitatea economică atinge apogeul între lunile iulie și septembrie (sezonul balenelor).",
-        "Orașul este o piață centrală pentru strângerea cuișoarelor (girofle)."
+        "Principalul punct de transfer pentru turiștii care merg pe Insula Sainte Marie.",
+        "Situat pe malul râului Marimbona, aproape de vărsarea în ocean.",
+        "Centru vital pentru colectarea cuișoarelor din regiunea Analanjirofo.",
+        "Numele se referă la un „Loc de adunare liniștită pe deal”.",
+        "Orașul a servit drept punct de control strategic în timpul reginei Ranavalona I.",
+        "Economia se bazează pe servicii turistice, transport și agricultură.",
+        "Regiunea este afectată frecvent de ciclonii din Oceanul Indian.",
+        "Biodiversitatea locală include orhidee rare și păduri de mangrove."
       ]
     },
     {
       "id": "faratsiho-cities-v2",
-      "descriptionAdvanced": "Situat în vestul masivului vulcanic Ankaratra, orașul Faratsiho are o particularitate remarcabilă: cu o altitudine de aproximativ 1.700 de metri, este printre cele mai înalte așezări urbane permanente din Madagascar. Numele său, care provine de la un vechi termen referitor la fortărețe, subliniază istoria militară din timpul regatului Merina. Datorită climei de munte, care produce dimineți reci și adesea îngheț pe timp de iarnă, localitatea s-a specializat în culturi rare în zonele tropicale, fiind principalul furnizor național de grâu, orz și mere. Orașul reprezintă o comunitate puternic tradițională, cu biserici înalte și piețe care reflectă viața solitară a agricultorilor de munte. Geografie K7 — altitudinea și agricultura de climă rece.",
+      "descriptionAdvanced": "Faratsiho este cel mai înalt oraș din Madagascar, situat la o altitudine impresionantă de aproximativ 1.720 de metri, pe versanții masivului vulcanic Ankaratra. Această poziție geografică unică îi conferă un climat subalpin răcoros, adesea învăluit în nori și ceață, ceea ce a modelat agricultura locală spre culturi rezistente la frig, precum merele, cartofii și orzul. Faratsiho este o localitate de o frumusețe austeră, cu case de cărămidă ce par suspendate deasupra văilor adânci. Orașul este un centru pentru etnia Merina de altitudine, renumită pentru dârzenia și adaptabilitatea lor la condiții de viață aspre. Accesul către oraș oferă unele dintre cele mai spectaculoase drumuri montane de pe insulă, cu panorame care se întind peste tot podișul central. Pe lângă agricultură, creșterea animalelor, în special a oilor și bovinelor, joacă un rol esențial în viața comunității. Faratsiho reprezintă un laborator natural pentru studiul limitelor așezărilor umane în zonele montane tropicale. Geografie K8 — așezări la mare altitudine și clima subalpină.",
       "factsAdvanced": [
-        "Reprezintă una dintre cele mai înalte comune din țară, la peste 1.700 m altitudine.",
-        "Climatul său specific permite recoltarea grâului și a orzului la scară industrială.",
-        "Poziționat la baza masivului Ankaratra, vârful Tsiafajavona fiind în vecinătate.",
-        "Temperaturile de iarnă (iulie-august) pot scădea sub zero grade Celsius noaptea.",
-        "Numele orașului amintește de cele cinci așezări militare istorice (Fara-Tsiho).",
-        "Este legat rutier de Antsirabe, facilitând exportul recoltelor sale."
+        "Cel mai înalt oraș din Madagascar, situat la circa 1.720 m altitudine.",
+        "Numele înseamnă „Ultimul loc unde crește arborele Tsihy”.",
+        "Temperaturile pot scădea sub pragul de îngheț în timpul nopților de iarnă.",
+        "Centru principal pentru producția de cartofi și mere a țării.",
+        "Peisajul este dominat de vârful Tsiafajavona din masivul Ankaratra.",
+        "Economia locală include prelucrarea lânii și creșterea zebulor de munte.",
+        "Drumul spre Faratsiho este unul dintre cele mai înalte și spectaculoase rute RN43.",
+        "Comunitatea este faimoasă pentru dârzenia cu care cultivă pantele abrupte."
       ]
     },
     {
       "id": "nosy-varika-cities-v2",
-      "descriptionAdvanced": "Nosy Varika, denumire ce înseamnă literar "Insula Lemurienilor", este un oraș izolat de pe coasta estică a insulei, în regiunea Vatovavy-Fitovinany. Construit pe malurile unde râul Sakaleona întâlnește apele sărate, orașul trăiește aproape exclusiv din agricultura plantațiilor de cafea, banane și vanilie. În lipsa unei infrastructuri rutiere solide (DN 11 fiind faimoasă pentru dificultatea ei, mai ales în timpul ploilor torențiale), principalul canal de comunicare cu restul țării este Canal des Pangalanes. Această izolare l-a păstrat ferit de turismul de masă, favorizând un ritm lent al vieții de-a lungul barjelor lente care navighează transportând litchi și produse din pădure. Biologie K6 — habitate costiere izolate.",
+      "descriptionAdvanced": "Nosy Varika este un oraș de coastă situat în regiunea Vatovavy din estul Madagascarului, definit de izolarea sa geografică și de legătura sa profundă cu Canalul Pangalanes. Orașul este așezat pe o fâșie îngustă de pământ între râul Sakaleona și Oceanul Indian, fiind accesibil în principal pe calea apei. Această locație unică îl transformă într-un centru pentru transportul fluvial de condimente, cum ar fi cuișoarele, cafeaua și piperul, care sunt colectate din zonele împădurite adânci ale regiunii. Nosy Varika este celebru pentru apropierea sa de cascada Sakaleona, cea mai înaltă din Madagascar (200 metri), situată în amonte pe râul cu același nume. Viața în oraș este marcată de provocările climatice, fiind una dintre zonele cele mai expuse ciclonilor tropicali care lovesc coasta de est. Populația locală depinde de pescuit și de agricultura de subzistență, păstrând tradiții ancestrale malgașe întrun mediu dominat de forțele naturii. Geografie K6 — rețele hidrografice și impactul ciclonilor tropicali.",
       "factsAdvanced": [
-        "Traducerea numelui este "Insula lemurienilor bruni (Varika)".",
-        "Accesul rutier principal se face prin Route Nationale 11, una dintre cele mai proaste rute din țară.",
-        "Este dependent masiv de navigația internă a Canalului Pangalanes.",
-        "Recoltele anuale includ în mare măsură cafeaua robusta și bananele.",
-        "În apropiere (aproximativ 100 km) se găsesc cascadele spectaculoase Sakaleona.",
-        "Zona înregistrează precipitații extrem de mari, favorizând flora densă estică."
+        "Situat pe Canalul Pangalanes, principala sa cale de comunicare.",
+        "Poarta de acces către Cascada Sakaleona, cea mai înaltă de pe insulă.",
+        "Numele „Nosy Varika” se traduce prin „Insula Lemurilor”.",
+        "Regiunea produce cantități semnificative de cafea și cuișoare pentru export.",
+        "Este una dintre zonele cele mai vulnerabile la ciclonii din Oceanul Indian.",
+        "Transportul produselor agricole se face aproape exclusiv prin barje pe canal.",
+        "Include zone vaste de mlaștini și ecosisteme de lagună bogate în pește.",
+        "Aparține administrativ regiunii Vatovavy, în centrul coastei de est."
       ]
     },
     {
       "id": "vavatenina-cities-v2",
-      "descriptionAdvanced": "Vavatenina este o localitate vibrantă situată în estul Madagascarului, renumită național și internațional pentru un singur produs: cuișoarele. În timpul sezonului de recoltare, străzile orașului sunt acoperite cu prelate pe care fermierii întind bobocii florali la uscat la soare, inundând aerul cu o aromă puternică, inconfundabilă. Aflat pe cursul râului Miarinarivo, orașul joacă un rol central în economia exporturilor de mirodenii, având piețe de en-gros care adună comercianți din toată regiunea Analanjirofo. Tradițiile comunităților locale (preponderent etnicii Betsimisaraka) rămân puternic ancorate în ritmul ciclic al sezoanelor de cuișoare și cafea, asigurând un venit stabil într-o zonă muntoasă și dens împădurită. Științe Sociale K6 — economia bazată pe o singură cultură.",
+      "descriptionAdvanced": "Vavatenina este un oraș agricol prosper situat în regiunea Analanjirofo din estul Madagascarului, fiind un pilon al industriei condimentelor de pe insulă. Orașul este situat într-o vale fertilă, înconjurat de dealuri acoperite cu plantații dense de arbori de cuișoare, litchi și vanilie. Numele său evocă importanța sa ca nod de comunicare și „gura” de acces către zonele muntoase din hinterlandul coastei de est. Vavatenina vibrează de activitate în timpul sezoanelor de recoltare, când comercianții și fermierii se adună pentru a schimba produsele care vor ajunge în final pe piețele globale prin portul Toamasina. Climatul cald și umed, tipic estului, favorizează o biodiversitate agricolă excepțională, dar face și infrastructura rutieră greu de întreținut. Orașul este, de asemenea, un centru administrativ pentru comunitățile rurale din jur, oferind servicii esențiale și educație. Pentru observatorii economici, Vavatenina este un exemplu de localitate care depinde de prețurile volatile ale condimentelor pe piața mondială. Geografie K7 — monoculturi tropicale și lanțuri de aprovizionare.",
       "factsAdvanced": [
-        "Considerat unul dintre "capitalele" producției de cuișoare din Madagascar.",
-        "Etnia majoritară a locuitorilor orașului este Betsimisaraka.",
-        "Numele orașului poate fi tradus ca "Locul foarte mare" (referitor la o fostă stâncă).",
-        "Populația depășește 35.000 de locuitori activi în sectorul agro-forestier.",
-        "În anii buni, zona exportă mii de tone de cuișoare uscate la nivel global.",
-        "Se află la aproximativ 40 de kilometri distanță, în interior, de coasta oceanului."
+        "Unul dintre cei mai importanți producători de cuișoare din regiunea Analanjirofo.",
+        "Economia orașului este impulsionată masiv de exportul fructelor de litchi.",
+        "Situat la aproximativ 100 de kilometri nord-vest de portul Toamasina.",
+        "Climatul este tropical-umed, cu precipitații foarte mari tot anul.",
+        "Numele se poate referi la o „Gură a discuțiilor” sau un loc de întâlnire.",
+        "Regiunea din jur este marcată de un peisaj de dealuri verzi și abrupte.",
+        "Drumul național RN22 este principala cale de legătură cu coasta.",
+        "Găzduiește o piață săptămânală faimoasă pentru varietatea condimentelor."
       ]
     },
     {
       "id": "morondava-cities-v2",
-      "descriptionAdvanced": "Morondava, situat pe coasta estuarului canalului Mozambic în vestul țării, este un oraș legendar ce acționează ca un magnet turistic datorită apropierii sale de faimoasa Alee a Baobabilor. Cândva centrul înfloritor al marelui regat Sakalava al grupului Menabe, orașul prezintă o fuziune impresionantă de istorie antică și plaje extinse flancate de mangrove protejate. Dincolo de imaginea iconică de pe cărțile poștale cu baobabii milenari, Morondava funcționează ca un port de pescuit vital și un centru administrativ în creștere. Ritmul orașului este definit de pescarii Vezo cu bărci din lemn sculptate (pirogues) și de ritmurile muzicale tradiționale care onorează strămoșii îngropați în pădurile sacre din apropiere. Geografie K7 — atracții naturale și arbori endemici.",
+      "descriptionAdvanced": "Morondava, situată pe coasta de vest a Madagascarului la gura râului cu același nume, este capitala regiunii Menabe și o destinație iconică datorită apropierii sale de faimoasa Alee a Baobabilor. Orașul este centrul culturii Sakalava, fiind marcat de o atmosferă marină relaxată și de tradiții legate de mare și strămoși. Morondava servește ca hub comercial pentru exportul de zahăr, orez și tutun, fiind totodată o bază pentru explorarea parcurilor naționale spectaculoase, cum ar fi Kirindy și Tsingy de Bemaraha. Peisajul este marcat de marea deltă a râului, care însă amenință orașul cu eroziunea de coastă și inundațiile periodice. Climatul este secetos și însorit, făcând plajele locale, precum Kimony, foarte atractive pentru vizitatori. Pentru geografi, Morondava este un studiu de caz privind interacțiunea dintre ecosistemele de mangrove, eroziunea accelerată a coastelor și turismul de renume mondial bazat pe specii vegetale endemice unice. Geografie K6 — baobabi, delte și turism sustenabil.",
       "factsAdvanced": [
-        "A fost inima vechiului regat Menabe (Sakalava) în secolele XVII și XVIII.",
-        "Aleea Baobabilor (Adansonia grandidieri) se află la doar 15 km nord de oraș.",
-        "Zona este renumită pentru mormintele Sakalava decorate cu sculpturi erotice.",
-        "Economia se bazează puternic pe pescuit, ecoturism și plantații de trestie de zahăr.",
-        "Temperatura orașului se menține ridicată pe parcursul anului, depășind frecvent 30°C.",
-        "Este străbătut de un fluviu cu același nume, care formează delte masive de mangrove."
-      ]
-    },
-    {
-      "id": "amboasary-cities-v2",
-      "descriptionAdvanced": "Amboasary-Atsimo se află într-o regiune izbitoare din sud, fiind un nod de tranziție între peisajele deșertice spinoase ale regiunii Androy și fertilitatea bazinului râului Mandrare. Orașul a căpătat importanță industrială în perioada postbelică datorită zecilor de mii de hectare de plantații de agave cultivate intensiv pentru extragerea fibrei de sisal. Aceste câmpuri geometrice gigantice domină absolut panorama din jurul râului. Astăzi, Amboasary este, de asemenea, faimos pentru că este punctul obligatoriu de traversare al unui impresionant pod de oțel, precum și ultima stație urbană importantă înainte ca turiștii să pătrundă în populara Rezervație Particulară Berenty, un sanctuar mondial pentru lemurienii catta. Istorie K8 — agricultura de sisal și ecosistemele de sud.",
-      "factsAdvanced": [
-        "Economia este definită aproape în întregime de marile companii de extracție a sisalului.",
-        "Numele orașului se traduce prin "Acolo unde cresc lămâii/portocalii sălbatici".",
-        "Podul suspendat Amboasary traversează râul lat Mandrare.",
-        "Servește drept punct de acces spre Rezervația de lemurieni Berenty (la 14 km distanță).",
-        "Face parte integrantă din vasta regiune administrativă Anosy.",
-        "A suferit adesea din cauza conflictelor legate de furturile de vite zebu (dahalo)."
-      ]
-    },
-    {
-      "id": "ambatoboeny-cities-v2",
-      "descriptionAdvanced": "Ambatoboeny este o localitate cu specific rural intens situată în nord-vestul insulei, în marea depresiune a bazinului fluviului Betsiboka. Acest fluviu masiv domină și hrănește agricultura locului, lăsând straturi de aluviuni bogate ce permit cultivarea abundentă a tutunului blond și a orezului. Orașul pulsează în ritmul anotimpurilor ploioase, când râul iese din matcă pentru a inunda câmpiile, creând vaste suprafețe perfecte pentru producția de tutun, care reprezintă principala sursă de venit pentru majoritatea locuitorilor. Populația orașului trăiește o viață comunitară autentică, dominată de respectul pentru vechile tradiții ale etniei Sakalava și de ceremoniile spiritelor naturii asociate cursului apei. Geografie K6 — dinamica fluvială și producția de tutun.",
-      "factsAdvanced": [
-        "Localitatea este situată în vecinătatea imediată a deltei extinse a râului Betsiboka.",
-        "Reprezintă unul dintre cele mai prolifice districte producătoare de tutun din țară.",
-        "Fluviul adiacent este renumit pentru apele sale de culoare roșie-sângerie datorită eroziunii solului.",
-        "Aparține din punct de vedere administrativ de regiunea Boeny.",
-        "A fost un centru prosper pe rutele comerciale interne de-a lungul secolului XX.",
-        "Ecosistemul local include o prezență semnificativă de crocodili de Nil (Crocodylus niloticus)."
-      ]
-    },
-    {
-      "id": "vohipeno-cities-v2",
-      "descriptionAdvanced": "Vohipeno are o distincție istorică rară și prețioasă: este capitala spirituală și istorică a grupului etnic Antemoro, urmași ai coloniștilor arabi care au sosit pe coasta de sud-est în secolele XIV-XV. Orașul, așezat pe malurile râului Matitanana, păstrează până astăzi un sistem de clanuri (castă) extrem de structurat, condus de o regalitate locală ("Ambasina") și prezervă vechile manuscrise scrise în alfabetul arabico-malgaș antic (Sorabe), o comoară culturală unică. Tradițiile islamice au fost sincretizate puternic cu animismul malgaș. Dincolo de misterul său istoric, Vohipeno trăiește din orezării și este faimos pentru ceremoniile sale grandioase, în special sacrificiul ritualic zebu. Istorie K8 — migrațiile antice și scrierea Sorabe.",
-      "factsAdvanced": [
-        "A fost fondat de imigranți arabi care s-au integrat în populația locală în secolul al XV-lea.",
-        "Sediul regilor tradiționali Antemoro și inima culturii scrierii "Sorabe".",
-        "Singura zonă din Madagascar unde se fabrică hârtia tradițională Antemoro din scoarță de arbore (Avoha).",
-        "Traversat de râul istoric Matitanana.",
-        "Populația locală este adânc structurată în clanuri nobiliare stricte.",
-        "Cultura locală combină cutume islamice ancestrale cu animismul endemic malgaș."
-      ]
-    },
-    {
-      "id": "ankazobe-cities-v2",
-      "descriptionAdvanced": "Amplasat pe vastele platouri golașe ale zonei Tampoketsa la nord-vest de Antananarivo, Ankazobe are un peisaj definit de orizonturi nemărginite și pajiști înalte. Cu o istorie ce îl leagă de un vechi post militar avansat al regatului Merina creat pentru a proteja capitala de invaziile vestice, astăzi orașul este o oprire obligatorie pe șoseaua ce leagă zona centrală de portul Mahajanga (Route Nationale 4). Terenul puternic despădurit din jurul său este dominat de pășunat extensiv pentru cirezile de zebu. În ciuda aparentei aridități cauzate de incendiile de tufișuri, Ankazobe posedă în apropiere fragmente izolate remarcabile de pădure primară, unde se ascund specii rare de floră protejată. Geografie K6 — eroziunea solului și pășunatul extensiv.",
-      "factsAdvanced": [
-        "Situat pe platoul Tampoketsa, cunoscut pentru peisajele sale erodate (lavaka).",
-        "A funcționat ca o fortăreață defensivă importantă în secolul al XIX-lea.",
-        "Este un nod principal de tranzit pentru mărfurile care circulă pe RN4 spre Mahajanga.",
-        "Regiunea suferă anual din cauza focurilor intenționate de pășune (tavy).",
-        "Aparține administrativ regiunii centrale Analamanga.",
-        "La nord de oraș se află rezervația Ambohitantely, un vestigiu al pădurilor originale de altitudine."
-      ]
-    },
-    {
-      "id": "ambohimahasoa-cities-v2",
-      "descriptionAdvanced": "Ambohimahasoa, tradus literalmente prin "Orașul de pe Dealul care aduce Binele", este un mic dar prosper centru situat în zona muntoasă din regiunea Matsiatra superioară. Pădurile dense de pini și eucalipți înconjoară colinele așezării, oferindu-i un aer proaspăt, asemănător Alpilor, precum și o importantă industrie a exploatării lemnului pentru construcții și cărbune. La începutul secolului XX, orașul s-a distins și prin mănăstirile sale fondate de misionarii creștini care au contribuit major la educația locală. Economia sa curentă combină horticultura diversificată cu silvicultura, peisajele din preajmă fiind presărate cu sere și mici livezi pitorești ale fermierilor din etnia Betsileo. Geografie K5 — relieful muntos și silvicultura.",
-      "factsAdvanced": [
-        "Denumirea "Ambohimahasoa" provine din limba malgașă, simbolizând prosperitatea colinei.",
-        "Localitatea depinde masiv de industria forestieră și fabricarea cărbunelui de lemn.",
-        "Temperaturile pot fi destul de răcoroase, datorită altitudinii considerabile din teritoriul Betsileo.",
-        "Este un punct de oprire popular de-a lungul rutei sudice Route Nationale 7.",
-        "Zona a fost un puternic bastion al activității misionarilor catolici și protestanți.",
-        "Se remarcă prin arhitectura sa rurală etajată, cu balcoane din lemn frumos sculptate."
-      ]
-    },
-    {
-      "id": "sambava-cities-v2",
-      "descriptionAdvanced": "Sambava este supranumită la nivel internațional drept "Capitala Mondială a Vaniliei", dominând linia coastei de nord-est a regiunii SAVA. Mirosul dulciu de vanilie și cuișoare care pătrunde pe străzile aglomerate este o caracteristică incontestabilă a acestui oraș prosper. Fiind un centru financiar imens pentru marile corporații exportatoare, Sambava dictează prețurile globale pentru această prețioasă orhidee liană. Mii de fermieri din munții de coastă coboară aici pentru a-și comercializa pastăile atent prelucrate manual. Dincolo de economie, orașul oferă kilometri de plaje mărginite de palmieri și proximitatea de uluitorul Parc Național Marojejy, fiind de asemenea un pivot al comerțului cu nucă de cocos și orez. Economie K8 — piețele globale și exportul de vanilie.",
-      "factsAdvanced": [
-        "Reprezintă epicentrul triunghiului de aur al vaniliei (regiunea SAVA).",
-        "Regiunea sa este responsabilă pentru peste 70% din producția globală de vanilie Bourbon.",
-        "Plantațiile vaste de palmieri de cocos (Soavoanio) se întind pe 4.800 de hectare în proximitate.",
-        "Infrastructura s-a îmbunătățit masiv prin investițiile în port și aeroportul regional.",
-        "Populația orașului depășește 80.000 de oameni atrași de comerțul profitabil cu condimente.",
-        "Se bucură de un climat superumed, ideal pentru speciile tropicale extinse."
-      ]
-    },
-    {
-      "id": "manakara-cities-v2",
-      "descriptionAdvanced": "Manakara este un fermecător oraș portuar divizat de Canal des Pangalanes, situat la intersecția dintre fluviul Manakara și apele agitate ale Oceanului Indian. Are un parfum nostalgic inedit creat de arhitectura colonială pe jumătate ruinată din vechiul cartier "Manakara Be", și servește ca stație terminus estică pentru faimoasa linie de tren Fianarantsoa-Côte Est (FCE). Această linie de tren istorică aduce vizitatori, dar mai ales mărfuri din munți, pe o rută cu pante abrupte și zeci de tuneluri. Astăzi, orașul își susține economia predominant prin cultivarea și procesarea piperului, a litchiului și a cafelei, având o piață stradală efervescentă. Atmosfera lentă a cicliștilor ce traversează podul vechi din oțel atrage în mod special fotografi și iubitori de istorie. Istorie K7 — arhitectură feroviară și comerț costier.",
-      "factsAdvanced": [
-        "Punctul de sosire al uneia dintre cele mai abrupte și vechi linii feroviare, trenul FCE.",
-        "Orașul este despărțit fizic în două de cursul apei Canal des Pangalanes.",
-        "Are un pod metalic istoric construit parțial din componente reutilizate (presupus de origine Eiffel).",
-        "Posedă un port care, din cauza curenților oceanici (barre), și-a pierdut importanța navelor mari.",
-        "Este faimos pentru sezonul recoltării de fructe exotice Litchi, spre final de an.",
-        "Temperatura orașului reflectă un climat ecuatorial clasic, cu precipitații masive regulate."
+        "Capitala regiunii Menabe și poarta de acces către Aleea Baobabilor.",
+        "Aleea Baobabilor se află la doar 20 de kilometri de centrul orașului.",
+        "Este centrul regatului istoric Sakalava de Menabe.",
+        "Economia se bazează pe pescuitul de creveți și cultura trestiei de zahăr.",
+        "Se confruntă cu probleme severe de eroziune a plajelor și inundații.",
+        "Punct de plecare pentru expedițiile către Tsingy de Bemaraha (UNESCO).",
+        "Regiunea Kirindy din apropiere adăpostește cea mai mare populație de Fossa.",
+        "Mormintele regale Sakalava cu sculpturi erotice sunt o atracție culturală unică."
       ]
     }
   ]

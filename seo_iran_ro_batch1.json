@@ -1,0 +1,247 @@
+{
+  "lang": "ro",
+  "country": "iran",
+  "files": ["lib/visualLab/data/poiExtraIranReliefV2.ts"],
+  "items": [
+    {
+      "id": "damavand-relief-v2",
+      "descriptionAdvanced": "Muntele Damavand este cel mai înalt vârf din Iran și din întregul Orient Mijlociu, fiind un stratovulcan impunător situat în masivul Elburz la nord de Teheran. Forma sa conică perfectă, adesea acoperită de zăpadă, domină peisajul regiunii și a captivat atenția localnicilor și călătorilor de milenii. În mitologia persană, vulcanul latent joacă un rol central și este considerat un simbol durabil al rezistenței iraniene. Pe pantele sale abrupte izvorăsc mai multe izvoare termale fierbinți care indică activitatea vulcanică reziduală din adâncuri, apele acestora fiind frecvent utilizate pentru proprietățile lor terapeutice. Ascensiunea către vârf reprezintă o provocare majoră și extrem de populară pentru alpiniștii din întreaga lume, oferind în zilele senine o panoramă spectaculoasă ce se întinde până la Marea Caspică. În ciuda condițiilor aspre de mare altitudine, flora și fauna alpină găzduiesc specii endemice rare.",
+      "factsAdvanced": [
+        "Conul vulcanic maiestuos atinge o altitudine impresionantă de 5.609 metri deasupra nivelului mării.",
+        "Ultima erupție vulcanică cunoscută a muntelui Damavand a avut loc cu aproximativ 7.300 de ani în urmă.",
+        "În anul 2008, muntele a fost înscris ca primul monument natural al Iranului pe lista patrimoniului național.",
+        "Pe pantele superioare, la peste 4.000 de metri altitudine, se află fumarole cu emisii puternice de gaze sulfuroase.",
+        "Traseul sudic este considerat cel mai popular și cel mai bine echipat drum de ascensiune pentru alpiniști.",
+        "Imaginea muntelui Damavand decorează partea din spate a bancnotei oficiale iraniene de 10.000 de riali."
+      ]
+    },
+    {
+      "id": "dasht-e-kavir-relief-v2",
+      "descriptionAdvanced": "Dasht-e Kavir, cunoscut și sub denumirea de Marele Deșert de Sare, este un vast platou extrem de arid situat în centrul Iranului, dominat de câmpii de sare infinite și formațiuni stâncoase bizare. În timpul verilor toride, temperaturile ating niveluri extreme care accelerează masiv evaporarea apei, lăsând în urmă o crustă de sare cristalină și groasă pe suprafața solului. Deși regiunea pare complet lipsită de viață la prima vedere, o serie de plante adaptate deșertului și specii de animale deosebit de rezistente au reușit să supraviețuiască acestor condiții inospitaliere. În antichitate, rutele comerciale importante se desfășurau de-a lungul oazelor de la marginea acestui deșert imens, servind drept popasuri vitale pentru negustorii care parcurgeau Drumul Mătăsii. Astăzi, mediul sălbatic atrage exploratori și geologi dornici să studieze ecosistemul său unic și izolarea absolută.",
+      "factsAdvanced": [
+        "Deșertul de sare acoperă o suprafață totală enormă de aproximativ 77.600 de kilometri pătrați.",
+        "În anumite porțiuni ale bazinului, crusta solidă de sare poate atinge o grosime de câțiva metri.",
+        "În lunile de vară, temperaturile maxime din timpul zilei depășesc frecvent valoarea de 50 de grade Celsius.",
+        "Regiunea este situată la o altitudine medie de aproximativ 800 de metri deasupra nivelului mării.",
+        "Partea centrală a deșertului este aproape complet lipsită de orice formă de așezare umană permanentă.",
+        "Parcul Național Kavir de la marginea vestică protejează ghepardul asiatic, o specie rară și amenințată."
+      ]
+    },
+    {
+      "id": "lut-desert-relief-v2",
+      "descriptionAdvanced": "Deșertul Lut, situat în sud-estul Iranului, este recunoscut drept unul dintre cele mai extreme și captivante fenomene naturale de pe glob, fiind inclus în patrimoniul mondial UNESCO. Peisajul său ireal este dominat de creste uriașe din nisip și argilă formate de vânt, cunoscute sub numele de kaluts, care se înalță brusc din sol asemenea ruinelor unor orașe antice abandonate. Între lunile iunie și octombrie, vânturi extrem de puternice mătură bazinul uscat, modelând și transformând continuu aceste structuri geologice impresionante. Această depresiune hiperaridă se numără printre cele mai fierbinți locuri măsurate vreodată pe planetă, unde pietrișul vulcanic întunecat absoarbe masiv radiația solară. Din cauza căldurii extreme și a lipsei aproape totale a precipitațiilor, zone întregi sunt complet lipsite de microorganisme vii, o rară dovadă a inactivității biologice absolute.",
+      "factsAdvanced": [
+        "În anul 2005, măsurătorile din satelit au înregistrat o temperatură record la suprafața solului de 70,7 grade Celsius.",
+        "Regiunea deșertică ocupă o suprafață de aproximativ 51.800 de kilometri pătrați în sud-estul țării.",
+        "În 2016, deșertul Lut a fost declarat oficial primul sit natural din Iran inclus în Patrimoniul Mondial UNESCO.",
+        "Formațiunile spectaculoase kaluts, sculptate de vânt, pot atinge înălțimi uluitoare de până la 150 de metri.",
+        "La marginea sa estică se ridică dune uriașe de nisip, unele depășind altitudinea de 450 de metri.",
+        "Aproximativ 480 de kilometri din suprafața regiunii sunt marcați de șanțuri paralele adânci de eroziune."
+      ]
+    },
+    {
+      "id": "mount-sabalan-relief-v2",
+      "descriptionAdvanced": "Muntele Sabalan este un stratovulcan inactiv impunător din nord-vestul Iranului, fiind al treilea cel mai înalt vârf al țării, după Damavand și Alam-Kuh. Silueta sa proeminentă domină orizontul regiunilor istorice din jurul orașelor Ardabil și Meshginshahr, oferind un peisaj alpin de o frumusețe rară. Cea mai fascinantă caracteristică a acestui masiv este lacul permanent din craterul său, care, din cauza altitudinii extreme și a climei reci, rămâne acoperit de un strat gros de gheață în cea mai mare parte a anului. Pe pantele inferioare și în văile adiacente izvorăsc numeroase izvoare termale bogate în minerale, utilizate de secole de locuitorii din zonă pentru proprietățile lor curative deosebite. În lunile de vară, ascensiunea către vârf devine relativ accesibilă, atrăgând numeroși pasionați de drumeții montane din toate colțurile lumii.",
+      "factsAdvanced": [
+        "Vârful principal al vulcanului se înalță la o altitudine de 4.811 metri deasupra provinciei Ardabil.",
+        "Lacul din craterul vulcanic are o formă eliptică și dimensiuni de aproximativ 140 pe 80 de metri.",
+        "Se estimează că ultimele erupții majore ale vulcanului au avut loc în perioada Holocenului, acum mai bine de 10.000 de ani.",
+        "La baza muntelui se află orașul Sareyn, la 1.650 de metri altitudine, faimos pentru izvoarele sale termale.",
+        "Apele vindecătoare fierbinți din împrejurimi atrag anual sute de mii de turiști și pacienți.",
+        "Zona montană găzduiește populații importante de urși bruni și diverse specii de păsări răpitoare mari."
+      ]
+    },
+    {
+      "id": "mount-sahand-relief-v2",
+      "descriptionAdvanced": "Muntele Sahand reprezintă un masiv vulcanic puternic erodat situat în provincia Azerbaidjanul de Est din nord-vestul Iranului, remarcându-se prin văile sale adânci și pantele mai domoale. Spre deosebire de multe alte vârfuri stâncoase și aride ale țării, Sahand este faimos pentru pășunile sale alpine verzi și luxuriante, precum și pentru flora sa bogată, fiind adesea supranumit mireasa munților iranieni. Structura vulcanică antică este formată din mai multe vârfuri dispuse în formă de stea în jurul unei zone de crater central de mult stins. În defileurile adânci sculptate de apa scursă de-a lungul mileniilor, se ascund mai multe sate mici și izolate, printre care și celebrul Kandovan, unde locuințele tradiționale au fost sculptate direct în formațiunile de tuf vulcanic moale. Iarna, pantele sunt perfecte pentru schi.",
+      "factsAdvanced": [
+        "Cel mai înalt punct al masivului Sahand, vârful Kamal, atinge o altitudine de 3.707 metri deasupra nivelului mării.",
+        "Întreaga zonă vulcanică se extinde pe o rază considerabilă, estimată la aproximativ 100 de kilometri.",
+        "Satul istoric troglodit Kandovan este situat la poalele nord-vestice ale muntelui, la 2.200 de metri altitudine.",
+        "Complexul de schi Sahand este recunoscut drept unul dintre principalele centre de sporturi de iarnă din nord-vestul Iranului.",
+        "Roca de tuf vulcanic specifică regiunii are o vechime estimată la perioadele geologice Pliocen și Pleistocen.",
+        "Peste 17 râuri permanente izvorăsc de pe pantele masivului, contribuind parțial la alimentarea lacului Urmia."
+      ]
+    },
+    {
+      "id": "alam-kuh-relief-v2",
+      "descriptionAdvanced": "Alam-Kuh este al doilea cel mai înalt vârf din Iran și reprezintă centrul necontestat al spectaculosului masiv Takht-e Soleyman din pitoreștii munți Elburz. Acest munte a dobândit o faimă internațională extraordinară în rândul alpiniștilor datorită peretelui său nordic masiv și aproape vertical, alcătuit din rocă de granit extrem de dură. Această formațiune stâncoasă impresionantă este considerată una dintre cele mai dificile provocări de escaladă din Orientul Mijlociu, fiind deseori comparată cu traseele tehnice de top din Alpii europeni. Împrejurimile sale sunt dominate de relicve ale erei glaciare, de ghețari care sunt încă activi și de creste ascuțite, inaccesibile celor fără experiență. În timp ce pe timpul iernii condițiile meteorologice extreme fac ascensiunea aproape imposibilă, vara muntele atrage nenumărate expediții profesionale dornice să cucerească stânca de granit.",
+      "factsAdvanced": [
+        "Vârful muntelui domină regiunea înconjurătoare cu o altitudine impresionantă de 4.848 de metri.",
+        "Peretele nordic aproape vertical, format din granit solid, are o înălțime amețitoare de aproximativ 800 de metri.",
+        "Prima ascensiune documentată cu succes a peretelui a fost realizată de alpiniști europeni în anul 1933.",
+        "În masivul din jurul muntelui Alam-Kuh se găsesc peste 40 de vârfuri care depășesc cota de 4.000 de metri.",
+        "Aici se află cei mai mari ghețari din Iran, printre care și ghețarul Alamchal, lung de aproape 7 kilometri.",
+        "Tabăra de bază Vandarbeen, punctul principal de plecare pentru expediții, este situată la 2.600 de metri."
+      ]
+    },
+    {
+      "id": "zard-kuh-relief-v2",
+      "descriptionAdvanced": "Zard-Kuh, al cărui nume se traduce prin Muntele Galben, este un vârf impunător din secțiunea centrală a uriașului lanț muntos Zagros, reprezentând una dintre cele mai importante surse hidrologice ale Iranului. Numele masivului provine de la rocile sale masive de calcar de culoare gălbuie, care capătă o strălucire spectaculoasă în lumina soarelui la apus. Văile adânci și pantele extrem de abrupte rețin cantități masive de zăpadă pe parcursul iernii, alimentând câmpuri uriașe de firn și ghețari permanenți. Aceste rezervoare naturale de gheață și apă la mare altitudine reprezintă principala sursă pentru Karun, cel mai bogat râu al Iranului, și pentru Zayandeh Rud. De asemenea, teritoriul servește drept pășune de vară esențială pentru nomazii triburilor Bakhtiari, care își ghidează turmele pe traseele periculoase ale munților.",
+      "factsAdvanced": [
+        "Cu o altitudine de 4.221 de metri, Zard-Kuh este al doilea cel mai înalt vârf din întregul lanț montan Zagros.",
+        "Regiunea adăpostește cea mai mare populație supraviețuitoare de capre sălbatice din centrul munților Zagros.",
+        "Apa provenită din topirea zăpezii alimentează tunelul Kuhrang, un proiect major de infrastructură finalizat în 1953.",
+        "Formațiunile stâncoase din zonă constau în principal din straturi groase de calcar marin din perioada Cretacicului.",
+        "Masivul include ghețarul Ill, unul dintre foarte rarii ghețari subtropicali existenți în Orientul Mijlociu.",
+        "Precipitațiile anuale la altitudini mari pot depăși în mod excepțional valoarea de 1.500 de milimetri."
+      ]
+    },
+    {
+      "id": "mount-dena-relief-v2",
+      "descriptionAdvanced": "Munții Dena formează un lanț muntos extins și extrem de proeminent în secțiunea sudică a masivului Zagros, situat la granița dintre provinciile Kohgiluyeh și Boyer-Ahmad și Isfahan. Această barieră naturală impunătoare se întinde pe zeci de kilometri, remarcându-se prin concentrația sa unică de vârfuri foarte înalte, păduri dese de stejar și râuri de munte cu ape cristaline. Datorită valorii sale ecologice inestimabile, o mare parte a teritoriului a fost recunoscută în 2010 drept rezervație a biosferei, oferind un sanctuar protejat pentru nenumărate plante endemice și specii de animale pe cale de dispariție, cum ar fi leopardul persan. Pereții abrupți de calcar sunt presărați cu peșteri carstice extinse și izvoare abundente care asigură vitalitatea văilor. În lunile de primăvară, topirea masivă a zăpezilor creează pășuni bogate de care depind comunitățile nomade locale.",
+      "factsAdvanced": [
+        "Lanțul muntos Dena se extinde pe o lungime totală impresionantă de aproximativ 90 de kilometri.",
+        "Masivul dispune de peste 40 de vârfuri stâncoase individuale ce depășesc altitudinea de 4.000 de metri.",
+        "Cel mai înalt punct al masivului, vârful Qash-Mastan, se înalță la 4.409 metri deasupra nivelului mării.",
+        "Rezervația Biosferei Dena, recunoscută oficial de UNESCO, acoperă o suprafață extinsă de peste 250.000 de hectare.",
+        "În acești munți cresc aproximativ 1.200 de specii diferite de plante, o proporție semnificativă fiind endemică.",
+        "Descoperirile arheologice atestă prezența umană în peșterile din regiune încă din perioada epipaleolitică."
+      ]
+    },
+    {
+      "id": "shir-kuh-relief-v2",
+      "descriptionAdvanced": "Shir Kuh, al cărui nume înseamnă Muntele Leului în limba persană, este un masiv muntos izolat și impunător care se înalță brusc din câmpiile fierbinți și aride din centrul Iranului. Acest vârf dominant are un rol crucial pentru supraviețuirea orașului deșertic istoric Yazd și a așezărilor înconjurătoare, deoarece zăpada abundentă acumulată pe crestele sale în timpul iernii reprezintă o sursă vitală de apă dulce. Apa din topirea zăpezii se infiltrează lent în rocile poroase adânci, alimentând direct un sistem ingenios și antic de canale subterane denumite qanat, care susțin agricultura și viața urbană de milenii. Datorită climatului semnificativ mai răcoros și umidității mai ridicate, pantele muntelui Shir Kuh contrastează puternic cu deșertul din jur, servind drept refugiu de vară extrem de popular pentru locuitorii din Yazd, dornici să scape de căldura toridă.",
+      "factsAdvanced": [
+        "Cel mai înalt punct al masivului montan atinge exact 4.075 de metri deasupra nivelului mării.",
+        "În timpul iernii, temperaturile din apropierea vârfului scad în mod regulat sub valoarea de minus 20 de grade Celsius.",
+        "Regiunea reprezintă principalul bazin hidrografic pentru sistemul extins de qanat din Yazd, vechi de circa 3.000 de ani.",
+        "Satul de bază Taft, punctul de pornire pentru numeroase drumeții, se află la 30 de kilometri sud-vest de Yazd.",
+        "Structura geologică este alcătuit predominant din granite aparținând Precambrianului și din calcare paleozoice.",
+        "La o altitudine de aproximativ 3.500 de metri se găsește un refugiu montan robust destinat alpiniștilor experimentați."
+      ]
+    },
+    {
+      "id": "zagros-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Zagros formează cel mai masiv și extins lanț montan din Iran, servind drept coloană vertebrală topografică a jumătății vestice a țării, de la granița cu Turcia în nord-vest până la Strâmtoarea Ormuz în sud. Acest sistem formidabil de cutare a luat naștere de-a lungul a milioane de ani în urma coliziunii continue și masive dintre plăcile tectonice arabă și eurasiatică. Topografia regiunii este definită de șiruri lungi de creste muntoase paralele, separate de văi înguste și extrem de adânci, care în antichitate constituiau o barieră naturală formidabilă împotriva invaziilor. Văile protejate și fertile din sectorul vestic al lanțului au fost teatrul unora dintre cele mai timpurii experimente agricole și al primelor domesticiri de animale din istoria umanității. Astăzi, peisajul este îmbogățit de păduri vechi de stejar, chei sălbatice impresionante și tabere de nomazi tradiționali.",
+      "factsAdvanced": [
+        "Lungimea totală a uriașului lanț montan măsoară aproximativ 1.600 de kilometri, traversând mai multe provincii.",
+        "Lățimea maximă a masivului atinge în anumite secțiuni centrale și sudice dimensiuni de peste 300 de kilometri.",
+        "Unul dintre cele mai înalte și impunătoare vârfuri ale sistemului muntos este Zard-Kuh, având 4.221 de metri.",
+        "Formarea intensivă a acestor munți a avut loc preponderent în perioadele geologice Miocen și Pliocen.",
+        "Bazinul sedimentar gros al munților Zagros conține o mare parte din cele mai mari rezerve mondiale de petrol și gaze.",
+        "În sistemele carstice din zonă au fost descoperite urme arheologice lăsate de omul de Neanderthal vechi de 50.000 de ani."
+      ]
+    },
+    {
+      "id": "alborz-mountains-relief-v2",
+      "descriptionAdvanced": "Munții Elburz constituie o formațiune geografică spectaculoasă și o barieră orografică esențială în nordul Iranului, care delimitează clar Podișul Iranian arid de la sud de câmpiile umede și fertile ale Mării Caspice din nord. Această structură montană impunătoare forțează masele de aer umed venite dinspre mare să elibereze precipitații abundente pe versanții nordici, ceea ce a dus la formarea pădurilor virgine hirciene, incredibil de dese și luxuriante. În contrast izbitor, pantele sudice prezintă o floră de stepă aspră și mult mai uscată, din cauza efectului de umbră pluviometrică. Masivul îmbină uriașe vârfuri de origine vulcanică, cum ar fi celebrul Damavand, cu versanți calcaroși abrupți și canioane adânci săpate de râuri torențiale. Astăzi, acești munți sunt o destinație de top pentru recreere, oferind pârtii excelente de schi și peisaje fabuloase locuitorilor din regiunea capitalei.",
+      "factsAdvanced": [
+        "Sistemul muntos se întinde pe o distanță de peste 900 de kilometri, urmând linia coastei sudice a Mării Caspice.",
+        "Lățimea masivului Elburz variază semnificativ pe lungimea sa, încadrându-se între 60 și 130 de kilometri.",
+        "Pe versanții nordici acoperiți de păduri dese, precipitațiile anuale depășesc adesea pragul de 1.000 de milimetri.",
+        "Cea mai înaltă stațiune de schi din zonă, Dizin, este situată la o altitudine remarcabilă de aproximativ 3.600 de metri.",
+        "Munții acționează ca cel mai important bazin natural de colectare a apei potabile pentru metropola Teheran.",
+        "Datorită faliilor active din punct de vedere tectonic, regiunea este expusă istoric la cutremure puternice frecvente."
+      ]
+    },
+    {
+      "id": "taftan-volcano-relief-v2",
+      "descriptionAdvanced": "Vulcanul Taftan este un reper geologic impunător și activ din sud-estul arid și izolat al Iranului, aparținând provinciei Sistan și Baluchestan. Face parte dintr-un arc vulcanic antic care se extinde până în statul vecin Pakistan, devenind faimos în întreaga regiune pentru activitatea sa fumarolică continuă. Din craterul său principal se degajă neîncetat gaze fierbinți, bogate în sulf, și vapori de apă, care formează un nor caracteristic, gălbui, vizibil de la zeci de kilometri distanță. Pantele masivului stratovulcanic sunt acoperite cu straturi groase de cenușă, piatră ponce poroasă și fluxuri de lavă solidificată, făcând ascensiunea o experiență extrem de solicitantă și impresionantă din punct de vedere vizual. Populația locală baluchă a creat în jurul muntelui numeroase mituri străvechi, considerându-l un lăcaș plin de forțe ascunse. Pentru alpiniști, peisajul selenar din zona superioară este principala atracție.",
+      "factsAdvanced": [
+        "Cel mai înalt punct al craterului vulcanic atinge altitudinea impresionantă de 3.941 de metri deasupra câmpiilor aride.",
+        "Emisiile constante de gaze vulcanice au creat cruste groase și pure de sulf galben strălucitor în jurul craterului.",
+        "Ultima erupție majoră cu expulzare de magmă, dovedită geologic, este estimată a fi avut loc în epoca Holocenului.",
+        "Tabăra de bază Darreh-e Gol, punctul principal de plecare pentru exploratori, se situează la circa 2.500 de metri.",
+        "În văile adânci de la poalele vulcanului se găsesc izvoare termale naturale cu apă caldă și o concentrație mare de minerale.",
+        "Mediul intens sulfuros și toxic din apropierea vârfului permite supraviețuirea doar a unor plante extrem de rezistente."
+      ]
+    },
+    {
+      "id": "kopet-dag-relief-v2",
+      "descriptionAdvanced": "Munții Kopet Dag alcătuiesc un lanț montan lung și puternic fragmentat, ce servește drept frontieră naturală și politică între provincia iraniană Khorasan din nord-est și statul vecin Turkmenistan. Această regiune spectaculoasă se remarcă prin stâncile abrupte de calcar de culoare deschisă, cheile înguste săpate de ape și un climat continental foarte dur, cu variații extreme de temperatură între anotimpuri. Din punct de vedere istoric, munții au funcționat ca o importantă zonă tampon și o rută de tranzit de-a lungul vechiului Drum al Mătăsii, fapt atestat de ruinele caravanseraiurilor abandonate vizibile și astăzi în văile montane. Ecosistemul unic din Kopet Dag oferă un refugiu izolat și esențial pentru multe specii rare și amenințate ale faunei din Asia Centrală, incluzând urialul și impresionantul leopard asiatic. Terenul stâncos și greu accesibil a salvat mare parte din zonă de intervenția umană distructivă.",
+      "factsAdvanced": [
+        "Masivul montan robust se extinde de-a lungul graniței irano-turkmene pe o distanță de aproximativ 650 de kilometri.",
+        "Cel mai înalt vârf de pe teritoriul iranian al masivului, Muntele Quchan, are exact 3.191 de metri înălțime.",
+        "Un cutremur tectonic devastator produs de-a lungul lanțului în anul 1948 a provocat distrugeri majore în orașul așgabat.",
+        "Rezervația Naturală Tandoureh, situată pe partea iraniană, protejează peste 73.000 de hectare de habitate valoroase.",
+        "Procesul complex de formare a acestui masiv de cutare a avut loc preponderent în Cretacicul târziu și Terțiarul timpuriu.",
+        "Canioanele carstice abrupte care străpung munții pot atinge pe alocuri adâncimi uimitoare de până la 500 de metri."
+      ]
+    },
+    {
+      "id": "makran-coast-relief-v2",
+      "descriptionAdvanced": "Coasta Makran din sud-estul Iranului este una dintre cele mai aspre, aride și neatinse linii de coastă din lume, întinzându-se de-a lungul apelor adânci ale Golfului Oman. Peisajul marin uluiește prin contraste uluitoare, marcând locul în care deșertul implacabil întâlnește brusc oceanul. Stâncile de gresie înalte, care au fost sculptate milenii la rând de vântul nemilos și forța valurilor în forme complet suprarealiste, se înalță deasupra plajelor nesfârșite de nisip și a golfurilor izolate. O caracteristică geologică absolut fascinantă a regiunii o reprezintă vulcanii noroioși activi care, în loc de lavă încinsă, aruncă nămol rece de culoare gri, însoțit de gaze din adâncuri. Hinterlandul sălbatic ascunde porturi abandonate și urme de așezări străvechi, stând mărturie unei perioade în care pe aici treceau corăbii comerciale importante, în timp ce plajele sunt un sanctuar liniștit pentru broaștele țestoase marine.",
+      "factsAdvanced": [
+        "Linia de coastă stâncoasă și fragmentată se întinde pe o distanță de peste 1.000 de kilometri din Iran până în Pakistan.",
+        "Faimosul vulcan noroios Gel-Afshan aruncă frecvent noroi gros la o înălțime remarcabilă de până la 10 metri.",
+        "Munții erodați masiv de lângă Chabahar prezintă formațiuni geologice de tip marțian, fiind complet lipsiți de vegetație.",
+        "Portul efervescent Chabahar reprezintă singurul acces direct și de adâncime al Iranului către vastul Ocean Indian.",
+        "În timpul verilor toride, în zonele deșertice continentale temperaturile pot atinge și depăși limita extremă de 50 de grade Celsius.",
+        "Pe plajele liniștite și retrase cu nisip fin de lângă satul Tang, țestoasele verzi își depun în mod regulat ouăle."
+      ]
+    },
+    {
+      "id": "binalud-relief-v2",
+      "descriptionAdvanced": "Lanțul muntos Binalud se desfășoară maiestuos în nord-estul Iranului, pe teritoriul vastei provincii Khorasan Razavi, acționând ca o barieră formidabilă între câmpia fertilă istorică Nishapur și zona metropolitană a orașului Mashhad. Deseori supranumit acoperișul Khorasanului, acest masiv este renumit pentru întinsele sale pășuni alpine aflate la mare altitudine, care au servit drept bază pastorală pentru turmele comunităților locale încă din vremuri străvechi. În timpul iernilor aspre, ninsorile abundente acoperă piscurile cu un strat gros de zăpadă, a cărui topire treptată primăvara asigură resursele de apă dulce esențiale pentru satele și zonele agricole din văile adiacente. Topografia sa diversificată, care combină dealuri blânde, prăpăstii stâncoase abrupte și defileuri înverzite plantate cu pomi fructiferi, este extrem de atrăgătoare pentru pasionații de drumeții. Satele străvechi de la poalele sale impresionează prin arhitectura tradițională în trepte.",
+      "factsAdvanced": [
+        "Masivul Shirbad atinge 3.321 de metri, fiind recunoscut drept cel mai înalt vârf muntos din întreaga provincie Khorasan Razavi.",
+        "Structura montană se extinde pe o lungime de aproximativ 130 de kilometri, orientată pe axa nord-vest spre sud-est.",
+        "Văile abundente în resurse de apă, cum ar fi faimoasa vale Akhlamad, găzduiesc cascade spectaculoase și livezi mari de meri.",
+        "La altitudini superioare, neafectate de poluare, crește o mare varietate de plante medicinale rare culese de localnici.",
+        "Lanțul muntos funcționează ca un bazin hidrografic critic pentru râuri istorice importante din regiune, precum râul Kashaf.",
+        "Satul montan pitoresc Kang atrage turiști grație structurii sale urbane unice, cu case terasate direct pe panta abruptă."
+      ]
+    },
+    {
+      "id": "shahdad-kaluts-relief-v2",
+      "descriptionAdvanced": "Formațiunile kaluts din Shahdad sunt situate la marginea vestică a înfricoșătorului deșert Lut, creând un peisaj bizar și ireal, ce amintește cu ușurință de ruinele abandonate ale unei metropole uriașe din timpurile preistorice. Cunoscute științific sub numele de yardang, aceste turnuri imense au fost sculptate de-a lungul a mii de ani de puterea devastatoare a vânturilor puternice, încărcate cu nisip, care au erodat adânc solul moale argilos și sărat. Structurile masive, striate, din nisip compactat și noroi sunt aliniate perfect cu direcția vântului dominant nord-vestic și aruncă umbre incredibil de lungi și dramatice la răsăritul soarelui. Din cauza precipitațiilor aproape inexistente și a căldurii mistuitoare, acest teritoriu este lipsit de orice formă de vegetație. Câmpul nesfârșit de sculpturi eoliene atrage fotografi profesioniști fascinați de liniștea sa absolută.",
+      "factsAdvanced": [
+        "Această zonă uimitoare ocupă o suprafață extinsă, atingând impresionanta valoare de aproximativ 11.000 de kilometri pătrați.",
+        "Cele mai lungi șiruri continue de formațiuni yardang din regiune pot ajunge până la o lungime de 120 de kilometri.",
+        "În timpul verilor sufocante, temperaturile înregistrate pe fundul acestor șanțuri înguste pot trece ușor de 65 de grade Celsius.",
+        "Forța necruțătoare a eroziunii eoliene a reușit să sape pe alocuri văi și șanțuri cu o adâncime incredibilă de 100 de metri.",
+        "Structurile fascinante sunt formate predominant din depozitele fine de sedimente ale unui lac sărat secat din perioada Pliocenului.",
+        "Din 2016, peisajul formidabil a fost integrat oficial ca parte a Deșertului Lut în rețeaua siturilor naturale UNESCO."
+      ]
+    },
+    {
+      "id": "alamut-valley-relief-v2",
+      "descriptionAdvanced": "Legendara vale Alamut se ascunde departe de ochii curioșilor, în inima aspră și izolată a zonei vestice a munților Elburz, la altitudini ridicate în provincia Qazvin. Această vale profundă, modelată de pereți abrupți de stâncă, este un exemplu perfect în care frumusețea peisajului alpin întâlnește o istorie medievală plină de mister și fascinație. Râul vijelios Shahrud traversează fundul văii flancat de terase înguste, unde locuitorii cultivă intens de secole o mare varietate de pomi fructiferi, cu accent pe cireși sălbatici și aluni. Notorietatea globală a regiunii derivă însă din ruinele fortăreței Alamut, o fortificație de temut care în secolul al XI-lea a servit drept cartier general al legendarei secte a asasinilor ismailiți. În prezent, frumusețea neatinsă și atmosfera arhaică atrag numeroși montaniarzi pasionați de drumeții dificile și explorarea traseelor uitate de lume.",
+      "factsAdvanced": [
+        "Ruinele masive ale faimoasei cetăți Alamut tronează pe o formațiune stâncoasă abruptă, la altitudinea de 2.100 de metri.",
+        "Valea ascunsă se află la o distanță rutieră de aproximativ 100 de kilometri spre nord-est de vechea capitală safavidă Qazvin.",
+        "Temuta fortăreață inexpugnabilă a fost în cele din urmă distrusă complet în 1256 de trupele mongole conduse de Hanul Hulagu.",
+        "Superbul Lac Ovan cu apă cristalină este poziționat spectaculos în vecinătatea văii, la o altitudine de 1.800 de metri.",
+        "Văile adânci găzduiesc suprafețe considerabile de păduri cu aluni și cireși sălbatici, foarte importante pentru economia locală.",
+        "Climatul hibernal extrem de dur determină deseori blocarea trecătorilor montane cu zăpadă timp de câteva luni la rând."
+      ]
+    },
+    {
+      "id": "maranjab-desert-relief-v2",
+      "descriptionAdvanced": "Deșertul Maranjab este o zonă de o frumusețe cuceritoare situată în inima Iranului central, la sud de vastul lac sărat secat Namak, foarte aproape de oaza urbană a anticului Kashan. Peisajul regiunii este definit de alternanța bruscă și dinamică dintre dunele de nisip galben-auriu bătute de vânt, suprafețele dure presărate cu pietriș închis la culoare și zonele orbește de albe acoperite de sare. Aceste pământuri neprimitoare au marcat odinioară un punct de trecere aglomerat de-a lungul vechiului Drum al Mătăsii, fapt care l-a determinat pe legendarul Șah Abbas I să construiască aici un caravanserai fortificat în secolul al XVII-lea. Spre deosebire de alte porțiuni sterpe ale Iranului, Maranjab posedă o varietate uimitoare de vegetație halofită și adăpostește creaturi deșertice sfioase, precum vulpea de nisip. Cerul de noapte fără poluare luminoasă este ideal pentru astronomii amatori.",
+      "factsAdvanced": [
+        "Impunătorul caravanserai din piatră Maranjab a fost inaugurat în anul 1603 ca post de pază militar și han izolat.",
+        "Dunele mișcătoare sculptate constant de rafale de vânt pot atinge înălțimi considerabile de până la 70 de metri.",
+        "Marginile deșertului ating vastele pajiști de sare orbitoare ale lacului Namak, care însumează circa 1.800 de kilometri pătrați.",
+        "Clădirea solidă a caravanseraiului a fost ridicată strategic pe un platou situat la 850 de metri deasupra nivelului mării.",
+        "Teritoriile aride marginale constituie un adăpost de siguranță crucial pentru populațiile amenințate de onagru asiatic sălbatic.",
+        "Din cauza climei secetoase extreme, nivelul de precipitații mediul anual depășește foarte rar valoarea minimă de 100 de milimetri."
+      ]
+    },
+    {
+      "id": "caspian-coast-iran-relief-v2",
+      "descriptionAdvanced": "Litoralul sudic și lat al Mării Caspice, aflat sub suveranitate iraniană, oferă un contrast vizual profund și neașteptat în comparație cu peisajele continentale prăfuite și uscate care caracterizează restul podișului național. Datorită barierei orografice insurmontabile create de falnicii Munți Elburz, fronturile atmosferice bogate în vapori dinspre nord sunt forțate să precipite intens, transformând fâșia îngustă de coastă într-o junglă subtropicală veșnic verde. Această câmpie litorală luxuriantă și deosebit de fertilă susține suprafețe impresionante de păduri ancestrale hirciene cu arbori seculari, mari orezării inundate, plantații parfumate de ceai verde și livezi pline de citrice. Considerată la scară globală cel mai vast lac sărat de pe planetă, Marea Caspică susține faimoasa industrie iraniană de obținere a prețiosului caviar negru, în timp ce clima deosebit de umedă transformă micile porturi într-o destinație turistică predilectă de vacanță pe timpul verii.",
+      "factsAdvanced": [
+        "Această coastă litorală iraniană sinuoasă măsoară cumulat o lungime remarcabilă de aproximativ 740 de kilometri în nordul țării.",
+        "Ca urmare a unor mișcări geologice, oglinda apei se situează cu circa 28 de metri mai jos comparativ cu nivelul mediu oceanic.",
+        "Ecosistemul biologic fascinant al codrilor seculari hircieni a fost integrat onorabil în Patrimoniul Natural Mondial UNESCO în 2019.",
+        "Orașul de coastă Ramsar abundă de verdeață datorită unui fenomenal volum pluviometric anual situat între 1.200 și 1.500 de milimetri.",
+        "Apele adânci și reci adăpostesc peștele morun endemic (Huso huso), sursa uimitorului procent de 90% din captura mondială de caviar.",
+        "Terenul roditor cu sedimente marine bogate este nucleul care generează cea mai mare cantitate a orezului și ceaiului produs pe plan intern."
+      ]
+    },
+    {
+      "id": "persian-gulf-coast-relief-v2",
+      "descriptionAdvanced": "Coasta meridională iraniană din lungul faimosului Golf Persic reprezintă o regiune dominată de o căldură absolut toridă și de o umiditate severă, care se desfășoară lin de la vasta deltă fluviatilă mlăștinoasă Arvand Rud până în preajma strategică a strâmtorii maritime Ormuz. În contradicție fățișă cu vegetația proaspătă din regiunile septentrionale, litoralul golfului se definește printr-o imagine vizuală dură, presărată cu platforme masive de calcar alb sculptat puternic de maree și vaste depozite inundabile netede. Punctul focal al acestei arii din punct de vedere biologic este spectaculoasa pădure maritimă de mangrove Hara, poziționată intim la adăpostul mării pe lângă uriașa insulă Qeshm. Aici funcționează un biom extrem de fragil ce dă o mână de ajutor coloniilor uriașe migratoare de păsări. Toate centrele portuare efervescente de odinioară din golful plin de corăbii poartă influențe arhaice specifice africane și indiene vizibile în detaliile elegante arhitecturale tradiționale.",
+      "factsAdvanced": [
+        "Granița sudică navală completă a republicii se ondulează spectaculos de-a lungul unei incredibile lungimi de aproape 1.250 de kilometri.",
+        "Limitele complexe acvatice care circumscriu rezervația de importanță internațională Hara protejează ferm nu mai puțin de 85.000 de hectare.",
+        "Exagerata saturație absolută a aerului marin duce des indicele periculos de temperatură din perioadele de vârf estivale peste limita de 60 de grade Celsius.",
+        "În apele domoale staționează pașnic enorma insulă teritorială iraniană Qeshm, lăudându-se solitar cu suprafața record de 1.491 de kilometri pătrați.",
+        "Laguna tulbure și mică la adâncime deține privilegiul de a feri o remarcabilă comunitate protejată activ de delfini rari cu cocoașă din familia indo-pacifică.",
+        "Vase cu gabarit gigantic traversează strâmtoarea vitală tranzitând regulat o extraordinară pondere estimată la o cincime din vânzările globale zilnice de hidrocarburi extrase."
+      ]
+    }
+  ]
+}

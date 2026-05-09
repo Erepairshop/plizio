@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "capeverde",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bofareira-cities-v2",
+      "descriptionAdvanced": "Bofareira is a small, authentic village located in the northern part of Boa Vista Island. Life in the village is simple and largely dictated by the rhythms of traditional livestock farming, which has sustained the local community for generations. Situated in a dry, steppe-like environment, the village offers a distinct perspective on the island's harsh but beautiful geography. Far removed from the major tourist routes and coastal hotels, Bofareira provides a quiet retreat and a valuable glimpse into the history of Boa Vista, reflecting the lifestyle of rural settlers who shaped the interior. For visitors, it is a place to experience the island's raw character and the quiet resilience of its inhabitants.",
+      "factsAdvanced": [
+        "Small, authentic village in northern Boa Vista",
+        "Lifestyle defined by traditional livestock farming",
+        "Situated in a dry, steppe-like environment",
+        "Located well away from major tourist infrastructure",
+        "Provides genuine insight into the island's rural history",
+        "Offers a quiet, immersive experience of Boa Vista",
+        "Reflects the raw, authentic character of the interior"
+      ]
+    },
+    {
+      "id": "povoacao-velha-cities-v2",
+      "descriptionAdvanced": "Povoação Velha is the oldest settlement on Boa Vista Island, with foundations dating back to the 16th century. It is located at the foot of the Rocha Estância mountain, providing a historical context to the island's evolution. The village is situated in close proximity to the world-famous Santa Monica Beach, one of the most stunning stretches of coastline in Cape Verde. Povoação Velha prides itself on preserving its historical charm, traditional architecture, and cultural customs, serving as a living link to the island's early colonial days. It remains a tranquil, culturally rich destination for those who wish to appreciate the heritage and long-standing traditions of Boa Vista beyond its modern tourist attractions.",
+      "factsAdvanced": [
+        "Oldest historical settlement on Boa Vista",
+        "Established during the 16th century",
+        "Located at the foot of the Rocha Estância mountain",
+        "Near the famous Santa Monica coastal beach",
+        "Preserves significant historical charm and traditions",
+        "Provides a direct link to early colonial heritage",
+        "Tranquil destination for cultural exploration"
+      ]
+    },
+    {
+      "id": "rabil-cities-v2",
+      "descriptionAdvanced": "Rabil, the former capital of Boa Vista, stands as a historical center of Cape Verdean craftsmanship, most notably known for its traditional pottery. It is strategically located near the island's international airport, making it one of the first points of contact for arriving visitors. Rabil houses the oldest church on the island, the Igreja de São Roque, which dates back to the early periods of settlement. The village is adjacent to the fertile Rabil Lagoon, an important wetland area that contrasts with the surrounding arid landscapes. The combination of historical architecture, active traditional arts, and unique ecological surroundings makes Rabil a vital cultural destination for those looking to understand the core history of Boa Vista.",
+      "factsAdvanced": [
+        "Former capital of Boa Vista Island",
+        "Famous for traditional Cape Verdean pottery craft",
+        "Located near the international airport",
+        "Home to the island's oldest church, São Roque",
+        "Adjacent to the ecologically important Rabil Lagoon",
+        "Serves as a historical cultural destination",
+        "Combines early history with traditional local crafts"
+      ]
+    },
+    {
+      "id": "joao-galego-cities-v2",
+      "descriptionAdvanced": "João Galego is one of several traditional villages in the northern region of Boa Vista, a part of the island often referred to as the 'Norte.' The region is deeply traditional, with local life centered around goat farming and subsistence agriculture, activities that have defined the northern interior for decades. João Galego is particularly known for hosting authentic folk festivals that showcase the unique musical and cultural traditions of the area. Surrounded by a vast, dramatic desert landscape, the village offers an immersive experience of the quiet, interior side of Boa Vista. It remains an essential destination for travelers who value cultural authenticity and the opportunity to witness the traditional, rural way of life in Cape Verde.",
+      "factsAdvanced": [
+        "Village in the traditional 'Norte' region",
+        "Economy centers on goat farming and agriculture",
+        "Known for authentic, traditional folk festivals",
+        "Showcases unique local musical traditions",
+        "Surrounded by a vast, dramatic desert landscape",
+        "Essential destination for authentic cultural experience",
+        "Represents the rural, interior life of northern Boa Vista"
+      ]
+    },
+    {
+      "id": "ribeira-brava-cities-v2",
+      "descriptionAdvanced": "Ribeira Brava serves as the historical and administrative heart of São Nicolau Island. Nestled deep within a narrow, green valley that provides a temperate contrast to the island's drier regions, the town is famed for its impeccably preserved colonial-era buildings and its storied streets. It is an important center for education, culture, and governance, housing key administrative buildings and public institutions. The town is the site of the São Nicolau Cathedral, a central spiritual landmark. Ribeira Brava offers visitors a walk through history, with its colonial charm and cultural depth serving as the cornerstone of the island's identity and its most significant point of interest for heritage-focused travelers.",
+      "factsAdvanced": [
+        "Historical and administrative capital of São Nicolau",
+        "Nestled in a deep, narrow, and green valley",
+        "Known for exceptionally well-preserved colonial buildings",
+        "Primary center for island education and culture",
+        "Home to the central São Nicolau Cathedral",
+        "Represents the historical heart of the island",
+        "Key cultural destination for heritage travelers"
+      ]
+    }
+  ]
+}

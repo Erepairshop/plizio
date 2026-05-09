@@ -1,0 +1,57 @@
+{
+  "lang": "de",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-tanganyika-zambia-nature-v2",
+      "descriptionAdvanced": "Der Tanganjikasee ist einer der ältesten und tiefsten Süßwasserseen der Erde und erstreckt sich mit seinem nördlichen Ende auch auf sambisches Staatsgebiet. Er ist weltweit für seine außerordentliche Artenvielfalt bekannt, insbesondere bei den Buntbarschen, von denen ein Großteil endemisch ist. Der See fungiert als wichtige Transportroute für den Handel in der Region und bietet den Bewohnern des nördlichen Sambias eine wesentliche Lebensgrundlage durch die Fischerei. Seine tiefblauen Wasser und die umgebende hügelige Landschaft bilden eine der geologisch faszinierendsten Kulissen des afrikanischen Kontinents.",
+      "factsAdvanced": [
+        "Einer der tiefsten und ältesten Seen weltweit",
+        "Beheimatet eine der weltweit höchsten Artenzahlen an Buntbarschen",
+        "Großteil der Fischarten ist dort endemisch",
+        "Wichtige Wasserstraße für den internationalen Regionalhandel",
+        "Geologisch Teil des Ostafrikanischen Grabensystems",
+        "Die Wassertiefe erreicht an einigen Stellen über 1400 Meter"
+      ]
+    },
+    {
+      "id": "muchinga-mountains-nature-v2",
+      "descriptionAdvanced": "Das Muchinga-Gebirge bildet einen markanten, langgestreckten Höhenzug im Nordosten Sambias und fungiert als natürliche Barriere und wichtige Wasserscheide. Die raue, hügelige Landschaft ist durchzogen von zahlreichen Tälern und Flüssen, die die hydrologischen Muster der umliegenden Provinzen bestimmen. Aufgrund des schwierigen Terrains ist das Gebirge weitgehend naturbelassen und bietet einen Rückzugsort für spezialisierte Flora und Fauna. Es bildet die geologische Kulisse für weite Teile der Muchinga-Provinz und ist ein entscheidender Faktor für das regionale Klima und die Verteilung von Niederschlägen.",
+      "factsAdvanced": [
+        "Markante Wasserscheide im Nordosten Sambias",
+        "Geologische Barriere, die das regionale Klima beeinflusst",
+        "Charakterisiert durch hügeliges und teils unzugängliches Terrain",
+        "Natürliche Trennlinie zwischen verschiedenen Flusseinzugsgebieten",
+        "Landschaft mit geringer menschlicher Besiedlungsdichte",
+        "Wichtiger Lebensraum für gebirgsspezifische Tierarten"
+      ]
+    },
+    {
+      "id": "luapula-river-nature-v2",
+      "descriptionAdvanced": "Der Luapula-Fluss verläuft über weite Strecken entlang der Grenze zwischen Sambia und der Demokratischen Republik Kongo und verbindet den Bangweulusee im Süden mit dem Mwerusee im Norden. Er ist eine essentielle Lebensader für die Anwohner auf beiden Seiten des Flusses, die ihn intensiv für den Fischfang und die kleinbäuerliche Landwirtschaft nutzen. Der Flussverlauf ist von ausgedehnten Sumpf- und Feuchtgebieten gesäumt, die ein komplexes Ökosystem mit einer hohen Dichte an Wasservögeln und Amphibien unterstützen. Er bildet das Rückgrat der ökologischen Konnektivität im gesamten Luapula-Tal.",
+      "factsAdvanced": [
+        "Verbindet den Bangweulusee direkt mit dem Mwerusee",
+        "Bildet über weite Abschnitte die internationale Grenze zur DR Kongo",
+        "Gesäumt von bedeutenden Sumpf- und Feuchtgebietsökosystemen",
+        "Kritische Wasserquelle für die lokale Bevölkerung",
+        "Hohe Bedeutung für die regionale Fischereiwirtschaft",
+        "Unterstützt eine vielfältige Vogelwelt in den Uferzonen"
+      ]
+    },
+    {
+      "id": "zambezi-floodplains-nature-v2",
+      "descriptionAdvanced": "Die Sambesi-Überschwemmungsgebiete sind weite, flache Landstriche, die während der Regenzeit regelmäßig vom Sambesi-Fluss überflutet werden. Diese saisonale Dynamik schafft ein hochdynamisches Ökosystem, das jedes Jahr enorme Mengen an Nährstoffen in den Boden einbringt und damit fruchtbare Weidegründe für Wildtiere wie Antilopen sowie traditionelle landwirtschaftliche Anbauflächen für die lokale Bevölkerung bietet. Die Region ist von einer großen Artenvielfalt an Wasservögeln geprägt und unterliegt einem einzigartigen Rhythmus aus Trockenheit und Überflutung, der die gesamte Landschaft und das menschliche Leben hier tiefgreifend beeinflusst.",
+      "factsAdvanced": [
+        "Periodische Überflutungsdynamik durch den Sambesi-Fluss",
+        "Schafft hochgradig fruchtbare Böden für die Landwirtschaft",
+        "Bedeutender Lebensraum für migrierende Wasservögel",
+        "Saisonale Weidegründe für zahlreiche Antilopenarten",
+        "Die Landschaft wird vom jährlichen Rhythmus der Regenzeit geprägt",
+        "Traditionell eine der wichtigsten Fischereiregionen"
+      ]
+    }
+  ]
+}

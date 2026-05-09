@@ -1,0 +1,45 @@
+{
+  "lang": "de",
+  "country": "ethiopia",
+  "files": [
+    "lib/visualLab/data/poiExtraEthiopiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "babile-elephant-habitat-life-v2",
+      "descriptionAdvanced": "Das Babile-Elefantenreservat im Osten Äthiopiens bietet eine letzte Zuflucht für die seltene Population der afrikanischen Steppenelefanten in dieser geografischen Region. Die Landschaft ist durch trockene Savannen und Halbwüsten gekennzeichnet, die den Tieren als unverzichtbarer Lebensraum dienen. Das Reservat spielt eine entscheidende Rolle für den Naturschutz, da es die voneinander isolierten Bestände schützt und Wanderkorridore erhält. Zudem bietet die Region Schutz für andere seltene Tierarten wie Antilopen. Biologie K6 — Artenschutz und gefährdete Ökosysteme.",
+      "factsAdvanced": [
+        "Wichtiger Rückzugsort für die afrikanischen Steppenelefanten.",
+        "Einzigartiges Ökosystem bestehend aus Savannen und Halbwüsten.",
+        "Kritisch für den Erhalt der Wanderwege von Großsäugern.",
+        "Bedeutsam für den Erhalt seltener lokaler Antilopenarten.",
+        "Fundamentaler Beitrag zum äthiopischen Naturschutz.",
+        "Wichtiger Standort für ökologische Forschungszwecke."
+      ]
+    },
+    {
+      "id": "senkele-hartebeest-habitat-life-v2",
+      "descriptionAdvanced": "Das Senkele-Hartebeest-Schutzgebiet im Rift Valley wurde eigens zur Rettung der Swayne-Leierantilope gegründet, einer endemischen Unterart, die in Äthiopien ihre letzte Heimat gefunden hat. Das Reservat bietet auf Graslandflächen optimale Bedingungen für die Überlebensfähigkeit dieser bedrohten Spezies. Als Rückzugsort spielt Senkele eine zentrale Rolle für die Biodiversität im Rift Valley, da es den Schutz eines spezialisierten Lebensraums garantiert. Durch strikte Naturschutzmaßnahmen wird versucht, das Aussterben dieser stolzen Antilopenart zu verhindern. Biologie K6 — Erhalt bedrohter Arten.",
+      "factsAdvanced": [
+        "Spezialisierter Schutzraum für die endemische Swayne-Kuhantilope.",
+        "Kritischer Lebensraum im äthiopischen Rift Valley.",
+        "Eine der wichtigsten Naturschutzgebiete für diese Unterart weltweit.",
+        "Strikte Maßnahmen zum Schutz vor Wilderei und Habitatverlust.",
+        "Wichtiger Beitrag zur Aufrechterhaltung der regionalen Biodiversität.",
+        "Gründungsgeschichte eng mit dem Erhalt der Antilopenart verbunden."
+      ]
+    },
+    {
+      "id": "yirgacheffe-coffee-agriculture-life-v2",
+      "descriptionAdvanced": "Yirgacheffe ist weltweit als Synonym für exzellenten, feinwürzigen äthiopischen Kaffee bekannt, der in den Hochlandregionen unter idealen, fast mystischen Bedingungen gedeiht. Die lokale Kaffeekultur ist ein fester Bestandteil des alltäglichen Lebens sowie der Geschichte der ansässigen Bevölkerung und wird durch nachhaltige Anbaumethoden unter schattenspendenden Bäumen gepflegt. Der Kaffee aus Yirgacheffe zeichnet sich durch seine charakteristischen blumigen und fruchtigen Noten aus, die ihn auf dem Weltmarkt zu einer begehrten Rarität machen. Die Region zeigt eindrucksvoll, wie Landwirtschaft und kulturelles Erbe Hand in Hand gehen. Sachkunde K4 — Weltweite Kaffeekultur und Anbau.",
+      "factsAdvanced": [
+        "Weltweit anerkannte Referenzregion für Premium-Kaffee.",
+        "Anbau in hohen Lagen unter schattenspendenden Bäumen.",
+        "Charakteristisches aromatisches Profil mit blumigen Noten.",
+        "Tief verwurzelte Tradition des Kaffeeanbaus seit Jahrhunderten.",
+        "Nachhaltige und ökologische Anbaupraktiken durch lokale Bauern.",
+        "Wichtiger wirtschaftlicher Pfeiler für die gesamte Region."
+      ]
+    }
+  ]
+}

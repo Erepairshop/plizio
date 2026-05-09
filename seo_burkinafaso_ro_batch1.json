@@ -1,0 +1,51 @@
+{
+  "lang": "ro",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tenkodogo-relief-v2",
+      "descriptionAdvanced": "Câmpia Tenkodogo din sud-estul statului Burkina Faso este caracterizată printr-un relief ușor vălurit, dominat de soluri lateritice roșii și formațiuni granitice izolate, cunoscute sub numele de „inselberg-uri”. Această zonă geografică constituie un nod strategic în inima fostului Imperiu Mossi, fiind totodată una dintre cele mai prospere regiuni agricole ale țării, datorită rețelei hidrografice bogate alimentate de afluenții Volta. Din punct de vedere geologic, teritoriul este o extensie a scutului cristalin vest-african, oferind terenuri fertile propice culturilor de cereale și creșterii animalelor. Peisajul, marcat de sate tradiționale și situri ancestrale sacre, rămâne un punct crucial pentru comerțul regional, facilitând legăturile rutiere internaționale către Togo și Benin.",
+      "factsAdvanced": [
+        "Platou granitic deluros în regiunea Centre-Est",
+        "Leagăn istoric al Imperiului Mossi",
+        "Zonă de tranziție între câmpiile centrale și savana umedă",
+        "Bogată în inselberg-uri și văi fluviale sezoniere",
+        "Productivitate agricolă ridicată în provincia Boulgou",
+        "Peisaj sacru cu altare ancestrale și situri ritualice",
+        "Teren strategic pentru comerțul regional și coridoarele rutiere",
+        "Habitat divers pentru flora și fauna sudano-saheliene"
+      ]
+    },
+    {
+      "id": "fada-n-gourma-relief-v2",
+      "descriptionAdvanced": "Podișul Fada N'Gourma din regiunea Est reprezintă o formațiune geografică masivă și aridă, dominată de o crustă lateritică dură care separă câmpiile centrale de bazinul fluviului Niger. Relieful este caracterizat printr-o rețea densă de albii sezoniere (vadi) și formațiuni stâncoase care captează rarele precipitații ale regiunii, creând un peisaj auster dar impresionant. Teritoriul a fost istoric vatra poporului Gourmantché, oferind puncte strategice de observație asupra savanei din jur. Deși solurile stâncoase limitează agricultura extensivă, podișul rămâne o zonă vitală pentru păstoritul nomad, fiind totodată o poartă naturală de tranziție de la savana sudaneză către mediul deșertic al Sahelului.",
+      "factsAdvanced": [
+        "Podiș lateritic major în regiunea de est",
+        "Altitudine medie de aproximativ 300 metri",
+        "Soluri pietroase și vegetație rară de savană spinoasă",
+        "Zonă strategică pentru poporul Gourmantché",
+        "Vadi adânci erodate și formațiuni stâncoase",
+        "Zonă de tranzit vitală pentru turmele nomade",
+        "Bazin hidrografic natural pentru sistemele fluviale estice",
+        "Punct de reper pe rutele comerciale către Niger și Benin"
+      ]
+    },
+    {
+      "id": "hounde-relief-v2",
+      "descriptionAdvanced": "Bazinul Houndé, situat în provincia Tuy din vestul țării, este una dintre cele mai importante depresiuni sedimentare din punct de vedere economic din Burkina Faso. Relieful este caracterizat printr-un teren ușor vălurit, cu soluri aluvionare extrem de fertile, care au transformat regiunea în inima „centurii bumbacului”. Pe lângă bogăția agricolă, zona este renumită pentru resursele minerale semnificative, inclusiv zăcăminte bogate de aur. Rețeaua hidrografică formată de afluenții râului Mouhoun (Volta Neagră) susține activitățile intensive de irigații, făcând din acest bazin un motor economic esențial pentru regiunea Hauts-Bassins.",
+      "factsAdvanced": [
+        "Bazin sedimentar semnificativ în provincia Tuy",
+        "Centrul național pentru producția de bumbac și cereale",
+        "Zăcăminte bogate de aur și alte resurse minerale",
+        "Soluri aluvionare fertile și peisaj ușor vălurit",
+        "Hidrografic parte a sistemului Volta Neagră (Mouhoun)",
+        "Motor economic pentru regiunea Hauts-Bassins",
+        "Relief relativ plat care facilitează mecanizarea",
+        "Nod strategic pentru logistica minieră și transport"
+      ]
+    }
+  ]
+}

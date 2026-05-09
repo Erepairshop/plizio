@@ -269,9 +269,9 @@ def split_pois(content: str) -> list[tuple[int, int, str]]:
     return blocks
 
 
-def find_field_block(poi: str, field: str) -> tuple[int, int] | None:
+def find_field_block(poi: str, field: str, start_pos: int = 0) -> tuple[int, int] | None:
     pat = re.compile(r'\b' + field + r'\s*:\s*\{')
-    m = pat.search(poi)
+    m = pat.search(poi, start_pos)
     if not m:
         return None
     i = m.end() - 1
@@ -298,6 +298,18 @@ def find_field_block(poi: str, field: str) -> tuple[int, int] | None:
                     return (m.end() - 1, i + 1)
         i += 1
     return None
+
+
+def find_all_field_blocks(poi: str, field: str) -> list[tuple[int, int]]:
+    blocks = []
+    pos = 0
+    while True:
+        b = find_field_block(poi, field, pos)
+        if b is None:
+            break
+        blocks.append(b)
+        pos = b[1]
+    return blocks
 
 
 def js_string_literal(s: str) -> str:
@@ -384,16 +396,15 @@ def process_poi(poi: str, topic: str) -> tuple[str, int, int]:
         )
         poi = poi[:da_after[1]] + skeleton + poi[da_after[1]:]
 
-    # descriptionAdvanced
-    da_blk = find_field_block(poi, "descriptionAdvanced")
-    if da_blk:
+    # descriptionAdvanced — minden elofordulasra (duplikalt blokkok lehetnek)
+    # Hatulrol elore megyunk, hogy az indexek ne csusszanjanak el.
+    da_blks = find_all_field_blocks(poi, "descriptionAdvanced")
+    for da_blk in reversed(da_blks):
         da_text = poi[da_blk[0]:da_blk[1]]
         new_da_text = da_text
         for lang in LANGS:
-            # ures string -> regex match
             empty_pat = re.compile(r'(\b' + lang + r'\s*:\s*)""')
             em = empty_pat.search(new_da_text)
-            # ha mar ki van toltve (nem ures), kihagyjuk
             curr = extract_lang_string(new_da_text, lang)
             if curr is not None and curr.strip() != "":
                 continue
@@ -407,15 +418,14 @@ def process_poi(poi: str, topic: str) -> tuple[str, int, int]:
                 replacement = em.group(1) + js_string_literal(built)
                 new_da_text = new_da_text[:em.start()] + replacement + new_da_text[em.end():]
             else:
-                # nincs lang kulcs -> beszurjuk a zaro `}` ele
                 new_da_text = insert_lang_entry(new_da_text, lang, js_string_literal(built))
             fills_desc += 1
         if new_da_text != da_text:
             poi = poi[:da_blk[0]] + new_da_text + poi[da_blk[1]:]
 
-    # factsAdvanced
-    fa_blk = find_field_block(poi, "factsAdvanced")
-    if fa_blk:
+    # factsAdvanced — minden elofordulasra
+    fa_blks = find_all_field_blocks(poi, "factsAdvanced")
+    for fa_blk in reversed(fa_blks):
         fa_text = poi[fa_blk[0]:fa_blk[1]]
         new_fa_text = fa_text
         for lang in LANGS:

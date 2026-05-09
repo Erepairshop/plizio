@@ -1,0 +1,359 @@
+{
+  "lang": "en",
+  "country": "burkinafaso",
+  "files": [
+    "lib/visualLab/data/poiExtraBurkinafasoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "orodara-cities-v2",
+      "descriptionAdvanced": "Orodara, the capital of the Kénédougou province in western Burkina Faso, is celebrated as the country's primary horticultural hub, earning the title of 'the orchard of Burkina Faso.' Situated near the Malian border, the city benefits from a relatively humid tropical climate and fertile soils, which support vast plantations of mangoes, citrus fruits, and cashews. Historically, Orodara has been the cultural heartland of the Senoufo people, who are renowned for their musical traditions, particularly the use of the balafon. The city's economy is almost entirely driven by the fruit trade, with its markets serving as a central collection point for exports to neighboring countries and Europe. Every year, Orodara hosts a national mango festival, highlighting its importance to the national agricultural sector. Its strategic location on the international highway connecting Bobo-Dioulasso to Bamako makes it a bustling center for transit and commerce. Orodara remains a symbol of Burkinabé agricultural abundance and cultural vibrancy.",
+      "factsAdvanced": [
+        "Capital of the Kénédougou province in western Burkina Faso",
+        "Known as the 'orchard of the country' for its fruit production",
+        "Primary center for mango, orange, and cashew cultivation",
+        "Cultural heartland of the Senoufo people and balafon music",
+        "Strategic stop on the international highway to Bamako, Mali",
+        "Hosts the annual national mango festival celebrating its harvest",
+        "Located in one of the highest rainfall zones in the country",
+        "Major export hub for fresh fruits to West Africa and Europe"
+      ]
+    },
+    {
+      "id": "po-cities-v2",
+      "descriptionAdvanced": "Pô, the capital of the Nahouri province in southern Burkina Faso, is a strategically significant town located just 15 kilometers from the border with Ghana. The city holds a unique place in national history as the birthplace of the 1983 revolution, where Thomas Sankara and his comrades launched their transformative movement from the local military garrison. Today, Pô is home to the Georges Namoano Military Academy, the country's premier officer training school. Beyond its military importance, the town is the gateway to the spectacular Nazinga Wildlife Reserve and the cultural landscape of Tiébélé, famous for its decorated houses. The local population is predominantly Kassena, known for their distinct architecture and rich ancestral traditions. Pô's economy is driven by cross-border trade, livestock, and eco-tourism, benefiting from its position on the main transit corridor to the Gulf of Guinea. The iconic Pic de Nahouri, which towers over the town, provides a majestic backdrop to this historic southern anchor.",
+      "factsAdvanced": [
+        "Capital of the Nahouri province near the Ghanaian border",
+        "Historical starting point of the 1983 Burkinabé revolution",
+        "Home to the prestigious Georges Namoano Military Academy",
+        "Gateway to the Nazinga Wildlife Reserve and Tiébélé village",
+        "Cultural capital of the Kassena (Gurunsi) people",
+        "Located on the primary trade corridor between Ouagadougou and Accra",
+        "Strategic center for cross-border logistics and commerce",
+        "Dominated by the majestic geological landmark of Pic de Nahouri"
+      ]
+    },
+    {
+      "id": "gourcy-cities-v2",
+      "descriptionAdvanced": "Gourcy, the capital of the Zondoma province in northern Burkina Faso, is a historic seat of Mossi power and a vital religious center for the region. According to tradition, the city was a critical spiritual hub where the early Mossi kings performed essential rituals to legitimize their rule. Today, Gourcy remains a bustling administrative and commercial center situated along the strategic highway connecting the capital, Ouagadougou, to the northern city of Ouahigouya. The city's economy is rooted in agriculture and livestock, with its markets serving as a primary exchange point for the northern provinces. Historically, Gourcy has been a site of Mossi resistance and diplomacy, maintaining a strong traditional hierarchy led by the local Naaba. The surrounding landscape is characterized by laterite plateaus and fertile valleys that support the cultivation of onions and drought-resistant grains. Gourcy continues to be a vibrant guardian of Mossi heritage while adapting to the modern demands of regional trade and development.",
+      "factsAdvanced": [
+        "Capital of the Zondoma province in the Nord region",
+        "Historically one of the most important spiritual seats of the Mossi",
+        "Strategic trade node on the road to northern Burkina Faso",
+        "Major producer of onions and dry-season market garden crops",
+        "Traditional seat of power for the local Mossi Naaba",
+        "Located approximately 145 kilometers northwest of the capital",
+        "Vital center for regional livestock trade and agricultural services",
+        "Known for preserving ancient Mossi rituelles and social structures"
+      ]
+    },
+    {
+      "id": "bousse-cities-v2",
+      "descriptionAdvanced": "Boussé is the capital of the Kourwéogo province in the Plateau-Central region, located just 50 kilometers northwest of Ouagadougou. Due to its close proximity to the capital, Boussé has developed into a dynamic satellite city, providing essential services and agricultural products to the metropolitan area. The city is situated on the main international road toward northern Burkina Faso and Mali, making it a critical transit point for travelers and traders. Historically, Boussé has been a bastion of Mossi culture, with its traditional leadership continuing to play a major role in community life. The local economy is supported by market gardening, livestock trade, and small-scale crafts, particularly weaving. The town also hosts important educational and religious institutions, including a prominent Catholic diocese and seminary. Boussé's rapid growth reflects its strategic position as a bridge between the urban energy of the capital and the traditional heartland of the central plateau.",
+      "factsAdvanced": [
+        "Capital of the Kourwéogo province in the Plateau-Central",
+        "Strategic satellite city located 50 kilometers from Ouagadougou",
+        "Major transit hub on the international highway to northern regions",
+        "Primary supplier of fresh produce and livestock to the capital",
+        "Sitz of a major Catholic diocese and regional seminary",
+        "Traditional cultural center with an active Mossi Naaba",
+        "Important location for regional administrative and social services",
+        "Growing hub for local commerce and traditional textile weaving"
+      ]
+    },
+    {
+      "id": "sindou-cities-v2",
+      "descriptionAdvanced": "Sindou, the capital of the Léraba province in southwestern Burkina Faso, is world-renowned for the breathtaking Sindou Peaks (Pics de Sindou) that tower over the town. These narrow, weather-beaten sandstone needles were formed by millions of years of wind and water erosion, creating one of the most iconic natural landscapes in West Africa. Historically, these rock formations served as a strategic and spiritual refuge for the Senoufo people during periods of conflict. The town itself is a peaceful center of Senoufo culture, where traditional blacksmithing and balafon music are still a vital part of daily life. Sindou benefits from a relatively high-rainfall climate, supporting lush orchards of mangoes and cashews, which are the mainstays of the local economy. As a premier destination for ecotourism and geological research, Sindou has become a symbol of the country's natural beauty. Its proximity to the Malian border also makes it a quiet but important node for cross-border cultural and economic exchanges.",
+      "factsAdvanced": [
+        "Capital of the Léraba province in the southwestern Cascades",
+        "Home to the world-famous Sindou Peaks sandstone formations",
+        "Historic strategic and spiritual refuge for the Senoufo people",
+        "Premier national destination for ecotourism and hiking",
+        "Located in one of the wettest regions, ideal for mango production",
+        "Major center for Senoufo cultural heritage and balafon music",
+        "Situated near the border with Mali, facilitating local transit",
+        "Known for its unique geological history and dramatic rock vistas"
+      ]
+    },
+    {
+      "id": "diebougou-cities-v2",
+      "descriptionAdvanced": "Diébougou, the capital of the Bougouriba province in the Sud-Ouest region, is a historic and strategic town located at the crossroads of major trade routes leading to Bobo-Dioulasso and Ghana. The city is famous for its colonial-era military heritage and its unique 'crocodile caves'—natural and artificial caverns that served as defensive hideouts during the pre-colonial and colonial periods. Historically, Diébougou has been a meeting point for diverse ethnic groups, particularly the Dagara, Lobi, and Fulani, whose traditions blend in the city's vibrant markets. The economy is driven by livestock trade, agriculture, and a significant artisanal gold mining sector in the surrounding hills. As the seat of an important Catholic diocese, the city also serves as a major religious and educational center for the southwest. Its lush surroundings, characterized by rolling hills and proximity to the Bougouriba River, make it one of the most scenic urban centers in the country. Diébougou remains a vital anchor of stability and commerce in the southern provinces.",
+      "factsAdvanced": [
+        "Capital of the Bougouriba province in the Sud-Ouest region",
+        "Strategic crossroads for trade between Bobo-Dioulasso and Ghana",
+        "Famous for the historic 'crocodile caves' and colonial defenses",
+        "Cultural melting pot of Dagara, Lobi, and Fulani ethnic groups",
+        "Major center for livestock markets and artisanal gold mining",
+        "Sitz of an influential regional Catholic diocese and cathedral",
+        "Located in a fertile hilly region near the Bougouriba River",
+        "Key administrative and educational hub for the southwest"
+      ]
+    },
+    {
+      "id": "nouna-cities-v2",
+      "descriptionAdvanced": "Nouna, the capital of the Kossi province in the Boucle du Mouhoun region, is a significant urban center in northwestern Burkina Faso, located near the border with Mali. The city is best known internationally as a major hub for medical and health research, hosting a prominent research center (CRSN) that collaborates with global institutions to study tropical diseases. Historically, Nouna has been a prosperous market town and a center for Islamic scholarship, attracting students and traders from across the Sahel. The local economy is deeply rooted in agriculture, particularly the production of cotton, cereals, and livestock, supported by the fertile savannas of the northwest. The population is etnikailag diverse, including the Dafing, Bwaba, and Mossi, whose cultural festivals and mask traditions are a point of local pride. Despite its relatively remote location, Nouna's role in both scientific research and regional trade makes it a critical pillar of development in the northwestern borderlands.",
+      "factsAdvanced": [
+        "Capital of the Kossi province in the Boucle du Mouhoun",
+        "International center for tropical health and medical research (CRSN)",
+        "Strategic market town located near the border with Mali",
+        "Major producer of cotton, cereals, and regional livestock",
+        "Historic hub for Islamic education and Sahelian trade",
+        "Culturally diverse city with strong Bwaba and Dafing heritage",
+        "Located in the fertile transition zone between savanna and Sahel",
+        "Administrative anchor for the development of the Kossi district"
+      ]
+    },
+    {
+      "id": "toma-cities-v2",
+      "descriptionAdvanced": "Toma, the capital of the Nayala province in the Boucle du Mouhoun region, is the historical and cultural heartland of the Samo (or San) people. The city is famous throughout Burkina Faso for the unique 'joking kinship' (parenté à plaisanterie) relationship that the Samo share with the Mossi, a tradition that plays a vital role in national peace and social cohesion. Historically, Toma has been a center of intellectual and political life, producing many of the country's prominent academics and leaders. The city's economy is based on rain-fed agriculture, with its markets serving as a central collection point for peanuts, sorghum, and millet. Toma is also renowned for its traditional music and dance, which are celebrated during regional festivals and communal rituals. As an administrative hub, the city provides essential services to the surrounding rural districts, maintaining a balance between modern development and ancestral Samo traditions. Toma remains a symbol of cultural pride and intellectual vitality in western Burkina Faso.",
+      "factsAdvanced": [
+        "Capital of the Nayala province and center of Samo culture",
+        "Famous for the traditional 'joking kinship' with the Mossi people",
+        "Historical birthplace of notable Burkinabé scholars and leaders",
+        "Major agricultural center for peanut and cereal production",
+        "Renowned for its vibrant traditional music and dance heritage",
+        "Administrative and educational hub for the Nayala district",
+        "Located in the fertile plains of the Boucle du Mouhoun region",
+        "Strategic transit point connecting northwestern rural areas"
+      ]
+    },
+    {
+      "id": "zorgho-cities-v2",
+      "descriptionAdvanced": "Zorgho, the capital of the Ganzourgou province in the Plateau-Central region, is a bustling trade and transit city located along the main international highway connecting Ouagadougou to Niger. This strategic location has transformed Zorgho into one of the country's most important logistical hubs, serving as a primary stop for cross-border transportation and commerce. Historically, the city is a traditional seat of Mossi power, with the Zorgho Naaba continuing to exercise significant moral authority over the eastern central plateau. The local economy is driven by a mix of transit services, livestock trade, and agriculture, particularly the production of cereals and shea butter. Zorgho has experienced rapid urban growth in recent years, with expanding infrastructure and a dynamic retail sector. The town also benefits from its proximity to the Bagré Dam, which has spurred agricultural development in the wider region. Zorgho remains a vital economic and cultural anchor on the road to the eastern frontier.",
+      "factsAdvanced": [
+        "Capital of the Ganzourgou province in the Plateau-Central",
+        "Strategic logistics and transit hub on the highway to Niger",
+        "Traditional seat of power for an influential Mossi Naaba",
+        "Major market for livestock, cereals, and shea butter products",
+        "Located approximately 110 kilometers east of Ouagadougou",
+        "Economic hub benefiting from regional irrigation at the Bagré Dam",
+        "Important administrative and service center for the Ganzourgou district",
+        "Key link in the international transit corridor of the Sahel"
+      ]
+    },
+    {
+      "id": "batie-cities-v2",
+      "descriptionAdvanced": "Batié, the capital of the Noumbiel province, is the southernmost administrative city in Burkina Faso, situated at the unique intersection of the borders with Ghana and Ivory Coast. Nestled in a rugged and forested landscape, the town serves as a vital but remote outpost of Burkinabé sovereignty and a center for cross-border cultural exchange. Historically, Batié has been a bastion of the Lobi people, whose distinctive fortified earth architecture and traditional beliefs remain central to the town's identity. The local economy is supported by high-rainfall agriculture, including the production of yams and cashews, as well as a significant artisanal gold mining industry in the surrounding hills. Due to its isolated position, Batié has preserved a high degree of its ancestral heritage, making it a site of great interest for anthropologists and travelers. Despite modern infrastructure challenges, the town remains a resilient hub for trade and administration in the far southwestern frontier.",
+      "factsAdvanced": [
+        "Capital of the Noumbiel province and the southernmost city in the country",
+        "Strategically located at the border junction with Ghana and Ivory Coast",
+        "Historic heartland of the Lobi people and their fortified architecture",
+        "Center for high-rainfall agriculture (yams, cashews, and mangoes)",
+        "Major hub for artisanal gold mining in the southwestern hills",
+        "Provides essential administrative services to the remote frontier",
+        "Site of deep cultural traditions and ancestral spiritual practices",
+        "Key transit point for local cross-border market exchanges"
+      ]
+    },
+    {
+      "id": "kongoussi-cities-v2",
+      "descriptionAdvanced": "Kongoussi, the capital of the Bam province in northern Burkina Faso, is a strategically located town situated on the shores of Lake Bam, the only natural permanent lake on the central plateau. This unique geographical setting has made Kongoussi a major center for irrigated agriculture and freshwater fishing, providing a vital source of food and income for the region. The city is particularly famous for its high-quality green beans and vegetables, which are exported as far as Europe. Historically, Kongoussi has been an important Mossi stronghold, and today it serves as a critical administrative and commercial hub along the road toward the northern mining districts. The town is also known for its environmental initiatives, including pioneering reforestation and soil conservation projects around the lake. Despite the challenges of siltation in Lake Bam, Kongoussi remains a vibrant model of agricultural adaptation in a semi-arid landscape. It is the life-blood of the Bam region.",
+      "factsAdvanced": [
+        "Capital of the Bam province and located on the shores of Lake Bam",
+        "Primary center for irrigated vegetable farming and freshwater fishing",
+        "Famous for the production and export of high-quality green beans",
+        "Strategic transit point on the route to northern Burkina Faso",
+        "Administrative and market hub for the Bam provincial district",
+        "Home to significant reforestation and soil conservation projects",
+        "Key contributor to regional food security and the export economy",
+        "Supports a growing urban population and vibrant local marketplace"
+      ]
+    },
+    {
+      "id": "solenzo-cities-v2",
+      "descriptionAdvanced": "Solenzo, the capital of the Banwa province in the Boucle du Mouhoun region, is one of Burkina Faso's most important industrial and agricultural powerhouses in the west. Situated in a highly fertile region, the town is the heart of the nation's primary 'white gold' (cotton) production, hosting significant collection and processing facilities. Historically, Solenzo has been a center of the Bwaba culture, known for their elaborate mask traditions and communal agricultural practices. The city's economy is almost entirely driven by the agro-industrial sector, with its markets serving as a vital link between thousands of cotton farmers and the global export market. Solenzo also serves as a key administrative hub for the Banwa district, managing the development of one of the country's most productive rural regions. The vast fields of cotton and cereals that surround the town reflect its status as a cornerstone of the national economy. Solenzo remains a symbol of western agricultural wealth and regional growth.",
+      "factsAdvanced": [
+        "Capital of the Banwa province and a major industrial hub",
+        "Center of the country's most productive cotton-growing region",
+        "Primary hub for agricultural collection and agro-industrial processing",
+        "Cultural center of the Bwaba people and their mask traditions",
+        "Strategically located in the fertile western agricultural belt",
+        "Key administrative point for managing rural development in Banwa",
+        "Essential contributor to the national GDP through cotton exports",
+        "Supports a diverse population of farmers, traders, and laborers"
+      ]
+    },
+    {
+      "id": "titao-cities-v2",
+      "descriptionAdvanced": "Titao, the capital of the Loroum province in northern Burkina Faso, is a resilient town situated in the semi-arid transition zone of the Sahel. Historically, the city has been a vital outpost of the Mossi Yatenga kingdom, serving as a strategic defensive and administrative center for the northern borderlands. The local economy is based on livestock breeding and drought-resistant agriculture, with its markets acting as a primary exchange point for the northern nomadic and sedentary communities. Titao is well-known for its strong traditional leadership and its role in preserving Mossi customs in a challenging environment. In recent years, the city has become a focal point of regional security and humanitarian efforts, demonstrating the immense resilience of its population. As an administrative hub, Titao provides essential services and coordinates development projects aimed at combating desertification and improving water access. It remains a symbolic anchor of survival and tradition on the edge of the Sahel.",
+      "factsAdvanced": [
+        "Capital of the Loroum province in the northern Sahelian zone",
+        "Historic defensive outpost of the Mossi Yatenga kingdom",
+        "Important hub for regional livestock trade and nomadic exchange",
+        "Focus of national efforts to combat desertification and drought",
+        "Administrative and community service center for the Loroum region",
+        "Located on a strategic road connecting to the northern frontier",
+        "Guardian of traditional Mossi heritage and social hierarchy",
+        "Symbol of resilience amidst the security challenges of the north"
+      ]
+    },
+    {
+      "id": "boromo-cities-v2",
+      "descriptionAdvanced": "Boromo, the capital of the Balé province, is a major transit town located halfway between Burkina Faso's two largest cities, Ouagadougou and Bobo-Dioulasso. This strategic position on the country's busiest highway and the Abidjan-Niger railway has made Boromo a critical logistical hub and a vibrant center for services and commerce. The city is best known for its proximity to the Deux Balés National Park, where herds of elephants are often seen crossing the nearby Mouhoun (Black Volta) River. Historically, Boromo has been a center of the Bwaba and Mossi cultures, reflecting the ethnic diversity of the central-western region. The local economy benefits from intensive transit trade, agriculture, and increasing ecotourism centered on the park's wildlife. As a key administrative center, Boromo manages the resources of the fertile Mouhoun valley, which supports significant grain and livestock production. The town is a symbol of the interconnectedness of Burkinabé life, where the road, the river, and the forest meet.",
+      "factsAdvanced": [
+        "Capital of the Balé province and major transit hub on the N1 highway",
+        "Strategic stop on the historic Abidjan-Niger railway line",
+        "Gateway to the Deux Balés National Park and its elephant herds",
+        "Located on the banks of the strategic Mouhoun (Black Volta) River",
+        "Important center for regional agricultural trade and traveler services",
+        "Socioeconomic link between the capital and the industrial west",
+        "Administrative hub for managing the Balé district's natural resources",
+        "Home to a diverse population of Bwaba, Mossi, and Fulani groups"
+      ]
+    },
+    {
+      "id": "dano-cities-v2",
+      "descriptionAdvanced": "Dano, the capital of the Ioba province in the Sud-Ouest region, is a picturesque town nestled in a hilly landscape famous for its Dagara culture and ancestral traditions. The city is renowned for its traditional earth architecture and its role as a spiritual center for the Dagara people, whose rituals and xylophone music are a vital part of local life. Historically, Dano has been an important center for artisanal gold mining, which continues to attract a dynamic population to the surrounding hills. The local economy is further supported by a productive agricultural sector that benefits from the region's higher rainfall, specializing in cereals, peanuts, and tubers. Dano has also become a model for community-based development and sustainable architecture, influenced by the works of local figures like Pritzker-winner Francis Kéré. As an administrative and educational hub, the city provides essential services to the southwestern community. Dano remains a beautiful blend of rugged nature and deep cultural heritage.",
+      "factsAdvanced": [
+        "Capital of the Ioba province and center of Dagara culture",
+        "Located in a scenic, hilly region with high agricultural potential",
+        "Famous for traditional Dagara xylophone music and spiritual rituals",
+        "Major center for artisanal gold mining in the southwestern hills",
+        "Benefit from relatively high annual rainfall and fertile soil",
+        "Model for sustainable earth architecture and community projects",
+        "Important administrative and service provider for the Ioba district",
+        "Key transit point in the southwestern regional trade network"
+      ]
+    },
+    {
+      "id": "gayeri-cities-v2",
+      "descriptionAdvanced": "Gayéri, the capital of the Komondjari province in the Est region, is an essential administrative and market town serving a vast and remote rural district. Located in a woody savanna landscape, the city acts as the primary hub for the Gourmantché people of the northeastern Est region. Historically, Gayéri has been a vital center for the livestock economy, with its weekly markets attracting cattle and small ruminant traders from across the eastern provinces and neighboring countries. The town is also a focal point for managing the region's natural resources, including water harvesting and reforestation projects in an increasingly dry climate. Despite its isolation from the main national highways, Gayéri remains a critical anchor for provincial governance and essential services like health and education. The resilience of its population is reflected in their ability to maintain traditional pastoral lifestyles while adapting to regional security and environmental challenges. Gayéri is a vital symbol of eastern Burkinabé frontier life.",
+      "factsAdvanced": [
+        "Capital of the Komondjari province in the eastern Est region",
+        "Important administrative and market hub for the Gourmantché people",
+        "Major center for regional livestock trade and pastoralist activity",
+        "Located in a vast woody savanna district in the northeast",
+        "Focal point for community-based rural development and services",
+        "Strategic outpost for managing regional water and food security",
+        "Vital link in the communication network of the eastern provinces",
+        "Supports a resilient population on the eastern Sahelian frontier"
+      ]
+    },
+    {
+      "id": "sebba-cities-v2",
+      "descriptionAdvanced": "Sebba, the capital of the Yagha province, is a significant town located in the remote northeastern corner of Burkina Faso near the border with Niger. Situated in the heart of the Sahel region, the town's life is defined by the arid landscape and its role as a critical market for the nomadic Fulani and Songhai communities. Historically, Sebba has been an important node on the trans-Sahelian trade routes, connecting the Niger River valley with the Mossi plateaus of the south. The local economy is almost entirely based on livestock breeding, with the town's cattle and camel markets being some of the most important in the far north. As an administrative hub, Sebba provides essential services to one of the most sparsely populated and environmentally challenged provinces in the country. The town's architecture and social structure reflect a deep adaptation to the desert's edge, preserving traditions of hospitality and transhumance that have lasted for centuries. Sebba remains a vital pillar of Sahelian identity.",
+      "factsAdvanced": [
+        "Capital of the Yagha province in the remote northeastern Sahel",
+        "Major market and administrative hub for Fulani and Songhai nomads",
+        "Strategically located near the international border with Niger",
+        "Primary center for the trade of cattle, camels, and small ruminants",
+        "Essential provider of basic social and administrative services in the north",
+        "Historic landmark on the trans-Sahelian cultural and trade routes",
+        "Focus of national programs for Sahelian water management",
+        "Vital symbol of nomadic resilience and northern frontier life"
+      ]
+    },
+    {
+      "id": "ouargaye-cities-v2",
+      "descriptionAdvanced": "Ouargaye, the capital of the Koulpélogo province in the Centre-Est region, is a dynamic administrative and trade center situated near the southern border with Togo. The town functions as a vital gateway for cross-border commerce, facilitating the movement of agricultural products and manufactured goods along the Togo-Burkina corridor. Historically, Ouargaye has been a cultural meeting point for the Bissa and Mossi peoples, creating a rich and diverse social fabric. The city's economy is rooted in agriculture, particularly the production of maize, peanuts, and livestock, which form the backbone of the local livelihood. As an administrative hub, Ouargaye manages one of the country's most important rural development zones, focusing on improving infrastructure and market access for smallholder farmers. The town has seen significant growth in recent years, with its markets becoming a central node for the distribution of goods in the southeastern provinces. Ouargaye remains a symbol of southern trade and regional integration.",
+      "factsAdvanced": [
+        "Capital of the Koulpélogo province in the Centre-Est region",
+        "Strategic commercial gateway near the border with Togo",
+        "Hub for cross-border trade and regional transit logistics",
+        "Cultural crossroads for the Bissa and Mossi ethnic groups",
+        "Primary center for the trade of maize, peanuts, and poultry",
+        "Administrative anchor for the Koulpélogo provincial district",
+        "Significant contributor to regional economic integration in the south",
+        "Provides essential services to a growing southern population"
+      ]
+    },
+    {
+      "id": "reo-cities-v2",
+      "descriptionAdvanced": "Réo, the capital of the Sanguié province in the Centre-Ouest region, is one of the most vibrant and culturally rich cities in central Burkina Faso. Known as the heartland of the Lyélé (a subgroup of the Gurunsi people), Réo is famous for its unique traditional architecture and its role as a major national supplier of fresh vegetables. The city's markets are a bustling center for the trade of onions, tomatoes, and tubers, which are transported daily to the capital and neighboring regions. Historically, Réo has been a site of strong traditional leadership and communal organization, with its annual festivals celebrating the deep spiritual connection between the people and the land. As the seat of a prominent Catholic diocese, the city also serves as a major religious and educational center for the central-western provinces. Réo's dynamic entrepreneurial spirit, particularly among its women's cooperatives, has made it a model for rural-urban economic development. It remains a proud guardian of Gurunsi heritage.",
+      "factsAdvanced": [
+        "Capital of the Sanguié province in the Centre-Ouest region",
+        "Cultural heartland of the Lyélé (Gurunsi) people",
+        "Burkina Faso's primary center for market gardening and onion production",
+        "Sitz of an influential regional Catholic diocese and cathedral",
+        "Famous for unique traditional Gurunsi architecture and art",
+        "Major hub for regional agricultural trade and women's cooperatives",
+        "Located in a fertile transition zone with stable water resources",
+        "Essential administrative and educational center for the province"
+      ]
+    },
+    {
+      "id": "kombissiri-cities-v2",
+      "descriptionAdvanced": "Kombissiri, the capital of the Bazèga province in the Centre-Sud region, is a strategically important town located just 40 kilometers south of Ouagadougou. Often referred to as the 'orchard of the capital,' the city is a major hub for the production of vegetables and fruits, benefiting from small dams and intensive market gardening that supply the growing demand of the nearby metropolis. Historically, Kombissiri has been a traditional Mossi seat of power, and today it remains a vital point of transit for travelers and goods moving along the international highway toward Ghana. The town's economy is highly dynamic, driven by its proximity to the capital, cross-border trade, and its status as an administrative center. Kombissiri is also home to several important educational and technical training facilities that serve the central-southern region. By bridging the gap between rural production and urban consumption, Kombissiri plays a critical role in the national food supply chain and regional prosperity.",
+      "factsAdvanced": [
+        "Capital of the Bazèga province and a vital peri-urban hub",
+        "Known as the 'orchard of the capital' for its fresh produce",
+        "Strategic transit point on the highway connecting Ouagadougou to Ghana",
+        "Traditional seat of power for an influential Mossi Naaba",
+        "Located just 40 kilometers south of the national capital",
+        "Major center for market gardening, sweet potatoes, and tomatoes",
+        "Key link in the agricultural supply chain to Ouagadougou",
+        "Hub for regional administrative services and technical education"
+      ]
+    },
+    {
+      "id": "aribinda-cities-v2",
+      "descriptionAdvanced": "Aribinda, located in the Soum province of northern Burkina Faso, is a historic and archaeologically significant town situated in the heart of the Sahel. The city is world-renowned for its proximity to ancient rock engraving sites and prehistoric ruins, which testify to the long human history of the region. Historically, Aribinda has been a critical spiritual and political center for the Kurumba people and a major crossroads for trans-Sahelian trade. The local economy is based on nomadic and semi-nomadic livestock breeding, with its markets serving as a vital node for the cattle trade in the north. In recent years, Aribinda has shown extraordinary resilience amidst regional security challenges, remaining an essential anchor for the local population. As a cultural landmark, the city preserves the memory of ancient Sahelian kingdoms while serving as a contemporary administrative and service center. Aribinda stands as a hauntingly beautiful testament to the endurance of human civilization in an arid landscape.",
+      "factsAdvanced": [
+        "Major town in the Soum province and an ancient Kurumba center",
+        "World-renowned for nearby prehistoric rock engravings and ruins",
+        "Historic crossroads for trans-Sahelian trade and cultural interaction",
+        "Primary center for nomadic livestock breeding and regional markets",
+        "Administrative and community service anchor for the northern district",
+        "Located in a dramatic Sahelian landscape of rocky hills and plains",
+        "Symbol of resilience amidst the security challenges of the Sahel",
+        "Key archaeological site for understanding West Africa's deep past"
+      ]
+    },
+    {
+      "id": "bere-cities-v2",
+      "descriptionAdvanced": "Béré is an important town in the Zoundwéogo province of the Centre-Sud region, functioning as a vital agricultural and administrative hub for the surrounding rural communities. Situated in a fertile savanna landscape, the city is a major collection point for cereals, peanuts, and livestock, which are traded in its vibrant weekly markets. Historically, Béré has been part of the Mossi cultural heartland, with its traditional leadership maintaining a strong influence over the region's social and economic life. The town benefits from its location near the road networks connecting the capital to the southern provinces, facilitating the transit of goods and people. As a local service center, Béré provides essential healthcare, education, and administrative support to its district, playing a key role in regional development. The town's steady growth and its focus on agricultural productivity make it a model for sustainable rural-urban integration on the central plateau. Béré remains a symbol of rural stability and commercial vitality.",
+      "factsAdvanced": [
+        "Key administrative and market hub in the Zoundwéogo province",
+        "Major collection point for regional cereals, peanuts, and livestock",
+        "Traditional Mossi center with influential local leadership",
+        "Strategically located in the fertile savanna of the Centre-Sud",
+        "Provides essential services to a large rural agricultural district",
+        "Important node in the regional trade and transportation network",
+        "Focal point for local community-based development initiatives",
+        "Supports a growing urban population and active marketplace"
+      ]
+    },
+    {
+      "id": "bama-cities-v2",
+      "descriptionAdvanced": "Bama, situated in the Houet province, is a critical agricultural and strategic town located just 30 kilometers northwest of Bobo-Dioulasso. The city is famous throughout Burkina Faso for the 'Plaine de Bama,' one of the country's largest and most successful irrigation projects, which has transformed the area into a massive producer of rice and vegetables. Historically, this project has been a model for national food security, utilizing the waters of the Mouhoun (Black Volta) River to support year-round farming. The town's economy is highly dynamic, attracting laborers, traders, and agricultural entrepreneurs from across the region. Bama also serves as a vital transit hub on the road toward the Mali border, facilitating cross-border trade and logistics. With its diverse population and intensive economic activity, Bama has become a symbol of the modernization of Burkinabé agriculture. It remains a pillar of prosperity and food production in the western part of the country.",
+      "factsAdvanced": [
+        "Strategic agricultural town in the Houet province near Bobo-Dioulasso",
+        "Home to the Bama irrigation project, a major national rice producer",
+        "Utilizes the waters of the Mouhoun River for intensive farming",
+        "Key contributor to national food security and cereal self-sufficiency",
+        "Located 30 kilometers from the economic capital of the west",
+        "Major hub for agricultural logistics, transit, and rural trade",
+        "Supports a large and diverse population of farmers and traders",
+        "Vital stop on the international corridor leading toward Mali"
+      ]
+    },
+    {
+      "id": "beregadougou-cities-v2",
+      "descriptionAdvanced": "Bérégadougou, located in the Comoé province of the Cascades region, is a picturesque and economically significant town situated at the foot of the Banfora escarpment. The city is best known for its role in the national sugar industry, as it is surrounded by vast sugarcane plantations that feed the nearby SN-SOSUCO refinery. Historically, Bérégadougou has been the heartland of the Turka people, whose traditions and connection to the lush tropical landscape are a point of local pride. The area benefits from some of the highest rainfall in Burkina Faso, supporting a verdant environment where mangoes, cashews, and citrus fruits also thrive. As a growing urban center, Bérégadougou provides essential administrative and commercial services to its district while also serving as a gateway for tourists visiting the fabled domes and falls of the region. Its blend of industrial production, agricultural wealth, and natural beauty makes it a unique and vital anchor of southwestern development.",
+      "factsAdvanced": [
+        "Important agricultural town in the Comoé province of the Cascades",
+        "Major center for industrial sugarcane production in Burkina Faso",
+        "Cultural heartland of the Turka people and their traditions",
+        "Located in the high-rainfall southwestern belt, ideal for orchards",
+        "Strategically positioned near the Banfora-Côte d'Ivoire axis",
+        "Administrative hub for the sugar-producing and fruit districts",
+        "Contributor to national industrial and food sovereignty",
+        "Surrounded by some of the most scenic landscapes in the country"
+      ]
+    },
+    {
+      "id": "bingo-cities-v2",
+      "descriptionAdvanced": "Bingo is a significant local town in the Boulkiemdé province of the Centre-Ouest region, serving as an essential hub for regional trade and administration. Located in the heart of the Mossi plateau, the town's economy is based on a mix of traditional agriculture and its role as a service provider for the surrounding rural districts. Historically, Bingo has been a traditional seat of power, with its leadership maintaining a strong influence over the local social order and land management. The town benefits from its strategic position along the road networks connecting the capital to the western industrial cities, facilitating the exchange of agricultural and handcrafted goods. As a provider of basic provincial services, Bingo plays a key role in improving education and healthcare for its population. The town's landscape, characterized by woody savannas and seasonal riverbeds, reflects the resilient beauty of the central plateau. Bingo remains a vital and growing anchor of stability in the Boulkiemdé district.",
+      "factsAdvanced": [
+        "Important local hub in the central-western Boulkiemdé province",
+        "Traditional center for Mossi cultural and social organization",
+        "Supports the regional agricultural economy and local trade",
+        "Strategically located on the trade routes of the central plateau",
+        "Provides essential administrative and provincial services to rural areas",
+        "Center for community-led development and social initiatives",
+        "Hub for local market exchanges and seasonal crop collection",
+        "Plays a vital role in the socioeconomic life of the Centre-Ouest"
+      ]
+    }
+  ]
+}

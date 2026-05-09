@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ghinda-cities-v2",
+      "descriptionAdvanced": "Ghinda este un oraș pitoresc situat pe drumul principal între Asmara și Massawa, beneficiind de precipitații regulate care susțin o vegetație luxuriantă. Orașul este un centru recunoscut pentru cultivarea fructelor, precum portocalele și papaya, profitând de climatul specific zonelor de tranziție de la platou spre coastă. Datorită locației sale, reprezintă o oprire esențială pentru călătorii care traversează acest traseu spectaculos. Este un exemplu de adaptare agricolă la condițiile climatice unice ale regiunii. Geografie K7 — importanța microclimatelor în agricultura regională.",
+      "factsAdvanced": [
+        "Situat pe ruta principală între capitala Asmara și portul Massawa.",
+        "Centru agricol prosper pentru cultivarea fructelor tropicale.",
+        "Beneficiază de precipitații regulate datorită locației geografice.",
+        "Renume pentru plantațiile de portocali și papaya.",
+        "Oprire esențială pentru călătoriile de tranzit spre coastă.",
+        "Exemplu de adaptare agricolă la microclimatul zonei de tranziție."
+      ]
+    },
+    {
+      "id": "himbirti-cities-v2",
+      "descriptionAdvanced": "Himbirti este o comunitate agricolă din regiunea muntoasă centrală, susținută de practici tradiționale de agricultură și creșterea animalelor pe platourile înalte. Situat la sud-vest de capitala Asmara, satul păstrează stiluri arhitecturale eritreene tradiționale care reflectă istoria și cultura comunităților locale. Economia sa este strâns legată de exploatarea terenurilor agricole în conformitate cu ciclurile sezoniere, asigurând subzistența populației locale. Este un loc care conservă echilibrul între viața rurală și mediul de platou. Geografie K7 — conservarea tradițiilor agrare în zonele înalte.",
+      "factsAdvanced": [
+        "Comunitate rurală situată la sud-vest de capitala Asmara.",
+        "Economie bazată pe agricultura tradițională și creșterea animalelor.",
+        "Situat pe platourile înalte ale Eritreei.",
+        "Păstrează elemente autentice ale arhitecturii tradiționale locale.",
+        "Mod de viață modelat de ciclurile agricole sezoniere.",
+        "Punct de conservare a culturii agrare în zona centrală."
+      ]
+    },
+    {
+      "id": "nefasit-cities-v2",
+      "descriptionAdvanced": "Nefasit este un oraș pitoresc de pe pantele estice ale platoului eritreean, renumit în special pentru proximitatea față de mănăstirea Debur Bizen, situată pe un vârf de munte impresionant. Orașul se află pe un drum de munte șerpuit, oferind acces către situri religioase și istorice de o valoare spirituală mare pentru țară. Nefasit servește drept punct de plecare pentru drumeții care doresc să viziteze mănăstirea, fiind o poartă către peisajele montane din estul platoului. Este un loc care îmbină spiritualitatea cu frumusețea geografică. Geografie K7 — rolul așezărilor montane în accesul către situri istorice.",
+      "factsAdvanced": [
+        "Oraș pitoresc situat pe pantele estice ale platoului eritreean.",
+        "Poartă de acces către mănăstirea Debre Bizen.",
+        "Situat pe un traseu montan spectaculos și sinuos.",
+        "Punct de plecare pentru drumeții montane și spirituale.",
+        "Acces către situri istorice de mare importanță culturală.",
+        "Microclimat montan distinct pe pantele estice."
+      ]
+    },
+    {
+      "id": "tio-cities-v2",
+      "descriptionAdvanced": "Tio este un mic oraș portuar situat de-a lungul coastei deșertice izolate din regiunea sudică a Mării Roșii, unde se menține cultura tradițională a poporului Afar. Locația sa oferă un centru pentru pescuitul local, susținând comunitățile care trăiesc în acest mediu dificil. Se confruntă cu temperaturi extrem de ridicate în timpul verii, caracteristică definitorie a regiunii deșertice de coastă. Orașul rămâne un punct important pentru menținerea stilului de viață tradițional în armonie cu resursele marine. Geografie K7 — adaptarea așezărilor umane la medii deșertice extreme.",
+      "factsAdvanced": [
+        "Oraș portuar situat în zona deșertică a regiunii Southern Red Sea.",
+        "Centru esențial pentru pescuitul local.",
+        "Menține cultura și tradițiile poporului Afar.",
+        "Climat definit de temperaturi extrem de ridicate vara.",
+        "Izolare geografică specifică coastelor deșertice.",
+        "Exemplu de adaptare la un mediu natural dificil."
+      ]
+    },
+    {
+      "id": "zula-cities-v2",
+      "descriptionAdvanced": "Zula este un oraș istoric situat în Golful Zula, aproape de vestigiile vechiului oraș portuar Adulis, care a controlat accesul la Marea Roșie timp de milenii. Zona este încărcată de istorie, fiind un punct strategic pentru comerț și contacte culturale din antichitate până în prezent. Apropierea de situri arheologice importante subliniază importanța istorică a golfului ca rută maritimă. În prezent, Zula este un punct de referință pentru explorarea trecutului maritim al Eritreei. Istorie K8 — importanța rutelor comerciale antice în dezvoltarea porturilor.",
+      "factsAdvanced": [
+        "Situat în Golful Zula, un punct istoric pentru accesul la mare.",
+        "În proximitatea fostei metropole portuare Adulis.",
+        "Punct strategic pentru comerț și schimburi culturale milenare.",
+        "Dă numele Golfului Zula, un reper geografic major.",
+        "Importanță majoră pentru arheologia maritimă a regiunii.",
+        "Reprezintă o legătură istorică între trecutul antic și prezent."
+      ]
+    }
+  ]
+}

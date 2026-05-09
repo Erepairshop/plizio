@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "eritrea",
+  "files": [
+    "lib/visualLab/data/poiExtraEritreaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mai-atal-cities-v2",
+      "descriptionAdvanced": "Mai Atal este un punct de popas cu aspect deșertic pe ruta dintre Ghinda și Massawa, unde caravanele găseau în mod tradițional apă pentru a-și continua călătoria. Denumirea sa în limba Tigrinya înseamnă „apa caprelor”, reflectând importanța vitală a acestui izvor într-un mediu extrem de secetos. Zona înconjurătoare este foarte uscată și aridă, punând în evidență rolul esențial al resurselor de apă pe rutele comerciale istorice. Astăzi, Mai Atal rămâne o mărturie a adaptării umane în condiții extreme de mediu. Geografie K7 — rolul resurselor hidrice în rutele comerciale deșertice.",
+      "factsAdvanced": [
+        "Punct de popas vital pe ruta Ghinda-Massawa.",
+        "Denumire Tigrinya care înseamnă 'apa caprelor'.",
+        "Mediu înconjurător extrem de uscat și arid.",
+        "Rol istoric în aprovizionarea caravanelor cu apă.",
+        "Exemplu de adaptare umană în medii deșertice dure.",
+        "Reprezintă o resursă esențială pe un traseu dificil."
+      ]
+    },
+    {
+      "id": "quatit-cities-v2",
+      "descriptionAdvanced": "Quatit este o așezare istorică din regiunea sudică Debub, caracterizată prin biserici vechi din piatră care mărturisesc bogata moștenire ortodoxă. Comunitatea este puternic implicată în agricultura tradițională, păstrând stiluri de viață care au rămas neschimbate timp de generații. Acest centru religios local nu este doar un spațiu de cult, ci și un pilon al identității sociale în regiune. Quatit reprezintă o destinație care oferă o privire în tradițiile ortodoxe și rurale profunde ale Eritreei. Geografie K7 — influența tradițiilor religioase asupra dezvoltării rurale.",
+      "factsAdvanced": [
+        "Așezare istorică în regiunea sudică Debub.",
+        "Caracterizată prin biserici vechi din piatră.",
+        "Centru religios important pentru comunitățile ortodoxe locale.",
+        "Comunitate profund implicată în agricultura tradițională.",
+        "Păstrează stiluri de viață neschimbate timp de generații.",
+        "Pilon al identității sociale și culturale în regiune."
+      ]
+    },
+    {
+      "id": "tsazega-cities-v2",
+      "descriptionAdvanced": "Tsazega este un sat situat pe platoul Maekel, un loc cu o istorie feudală marcantă, fiind reședința unor lorzi care controlau vaste domenii. Rivalitatea istorică cu satul vecin Hazega a modelat folclorul și identitatea locală a comunității. Satul este bogat în tradiții orale, transmițând povestiri despre puterea politică și conflictele seculare care au definit regiunea. Tsazega rămâne un loc cu o valoare istorică și culturală semnificativă, oferind o perspectivă asupra structurilor sociale ale Eritreei de odinioară. Istorie K8 — rolul feudalismului în organizarea socială regională.",
+      "factsAdvanced": [
+        "Situat pe platoul Maekel, într-o zonă istorică.",
+        "Reședință istorică a lorzilor feudali cu mari domenii.",
+        "Rivalitate istorică notorie cu satul vecin Hazega.",
+        "Bogată moștenire de folclor și tradiții orale.",
+        "Reflectă structurile sociale feudale ale Eritreei medievale.",
+        "Punct de reper pentru istoria politică regională."
+      ]
+    },
+    {
+      "id": "wekiro-cities-v2",
+      "descriptionAdvanced": "Wekiro este o așezare care servește drept punct de tranzit spre câmpiile de coastă din nord, fiind frecventată de păstorii nomazi în deplasările lor sezoniere. Situat într-un mediu uscat, locul funcționează ca un punct de întâlnire vital unde comunitățile își schimbă produse și informații. Rolul de tranzit al acestui punct reflectă mobilitatea și adaptabilitatea populațiilor pastorale din regiune. Wekiro rămâne o așezare discretă, dar esențială pentru conexiunile dintre diferitele regiuni geografice. Geografie K7 — rolul punctelor de tranzit în mobilitatea nomadismului.",
+      "factsAdvanced": [
+        "Punct de tranzit spre câmpiile nordice de coastă.",
+        "Frecventat regulat de către păstorii nomazi.",
+        "Mediu geografic uscat și arid.",
+        "Loc de întâlnire vital pentru schimburi de mărfuri.",
+        "Reflectă mobilitatea comunităților pastorale din zonă.",
+        "Așezare esențială pentru conexiunile regionale."
+      ]
+    },
+    {
+      "id": "kudo-felasi-cities-v2",
+      "descriptionAdvanced": "Kudo-Felasi este un mic oraș situat în regiunea Debub, apreciat pentru atelierele sale de țesut tradiționale și pentru cultivarea cerealelor care susțin economia locală. Îmbinarea între activitatea artizanală și agricultura de subzistență creează un echilibru care menține vitalitatea comunității. Practicile tradiționale sunt transmise din generație în generație, garantând conservarea metodelor de producție locale. Kudo-Felasi este o destinație care pune în valoare meșteșugurile tradiționale și cultura agrară autentică a Eritreei. Geografie K7 — rolul meșteșugurilor în identitatea economică rurală.",
+      "factsAdvanced": [
+        "Oraș mic situat în regiunea Debub.",
+        "Apreciat pentru atelierele de țesut tradiționale.",
+        "Economie bazată pe cultivarea cerealelor.",
+        "Echilibru între artizanat și agricultura locală.",
+        "Conservarea metodelor tradiționale de producție.",
+        "Hub local pentru meșteșuguri și produse agricole."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-elwes-history-v2",
+      "descriptionAdvanced": "Fort Elwes, erected in 1896, is an architecturally remarkable stone fort in Zambia, constructed entirely without the use of mortar. It arose in a phase of intensive colonial exploration when European prospectors tried to assert themselves against the expansion of the Ngoni people. The fort bears witness to the precarious situation of these early settlers and their endeavor to secure territorial control through military architecture. After the successful suppression of the Ngoni uprisings, the fort quickly lost its military relevance and was abandoned. Today it serves as a historical monument to the conflicts of the waning era of pre-colonial power structures.",
+      "factsAdvanced": [
+        "Built in 1896 by European prospectors",
+        "Construction entirely without mortar",
+        "Defense facility against the Ngoni people",
+        "Abandoned after the suppression of the Ngoni uprisings",
+        "Symbol for colonial territorial claims",
+        "Important witness for early military architecture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalomo-cities-v2",
+      "descriptionAdvanced": "Kalomo történelmi jelentőségű város a Déli Tartományban, amely Észak-Rodézia első közigazgatási központja volt, mielőtt a székhely Livingstone-ba került volna. A város megőrizte a korai gyarmati időkből származó báját, ugyanakkor ma mezőgazdaságilag meghatározó kereskedelmi központként működik. A környező gazdák számára fontos ellátóhelyként szolgál, ötvözve a történelmi örökséget a modern agráriparral, amely meghatározza a város mai arculatát.",
+      "factsAdvanced": ["Észak-Rodézia első adminisztratív központja", "Mezőgazdaságilag meghatározó a Déli Tartományban", "Fontos kereskedelmi központ gazdáknak", "Kulturális örökség a gyarmati időkből", "Magasság: kb. 1250 méter", "Helyi kereskedelmi csomópont"]
+    },
+    {
+      "id": "lundazi-cities-v2",
+      "descriptionAdvanced": "Lundazi a Keleti Tartomány városa, amely a különleges, normann stílusban épült Lundazi-kastélyáról vált híressé. Ez a kulturális jelkép egyedülálló identitást kölcsönöz a városnak, és tanúskodik a gazdag történelmi múltról. A mezőgazdasági kereskedelem egyik fontos állomásaként Lundazi alapvető szolgáltatásokat nyújt a malawi határhoz közeli közösségek számára, hozzájárulva a régió társadalmi és gazdasági stabilitásához.",
+      "factsAdvanced": ["Híres a normann stílusú Lundazi-kastélyról", "Fontos mezőgazdasági kereskedelmi pont", "Közelség a malawi határhoz", "Regionális kulturális jelkép", "Magasság: kb. 1100 méter", "Lokális kereskedelmi és szolgáltató központ"]
+    },
+    {
+      "id": "maamba-cities-v2",
+      "descriptionAdvanced": "Maamba a Déli Tartomány meghatározó szénbányászati városa, a 'Maamba Collieries' otthona, amely döntő szerepet tölt be Zambia energiaellátásában. A kiterjedt szénkészletek kitermelése a régió gazdasági motorja, amely jelentősen hozzájárul az országos villamosenergia-termeléshez. Ipari központként Maamba szorosan kötődik a bányászati vállalkozásokhoz, emellett a szükséges infrastruktúrát is biztosítja a növekvő közösség számára, stratégiailag kulcsfontosságú az ország ipari függetlensége szempontjából.",
+      "factsAdvanced": ["Jelentős szénbányászati város", "A Maamba Collieries székhelye", "Központi szerep a sambiai energiaellátásban", "Fontos ipari munkaadó", "Magasság: kb. 600 méter", "A régió gazdasági motorja"]
+    },
+    {
+      "id": "mwense-cities-v2",
+      "descriptionAdvanced": "Mwense a Luapula Tartomány városa, amely a Luapula-folyó völgyének termékeny környezetében helyezkedik el. A város gazdasága elsősorban a halászatra és a kisüzemi mezőgazdaságra épül, amelyek elengedhetetlenek a helyi lakosság élelmezéséhez. A kerület adminisztratív központjaként alapvető szolgáltatásokat nyújt a környező vidéki közösségeknek. A Kongói Demokratikus Köztársasággal közös határ közelsége kis kereskedelmi központtá is teszi a határokon átnyúló cserék számára.",
+      "factsAdvanced": ["Elhelyezkedés a Luapula-völgyben", "Halászat és mezőgazdaság a fő ágazat", "A kerület adminisztratív központja", "Határ menti kereskedelmi pont a Kongói DK felé", "Magasság: kb. 1050 méter", "Alapvető szolgáltatások a vidéki közösségeknek"]
+    },
+    {
+      "id": "mwinilunga-cities-v2",
+      "descriptionAdvanced": "Mwinilunga a Nord-Nyugati Tartomány egyik városa, amely az ananásztermesztéséről és a Zambézi-folyó forrásának közelségéről híres. A régió termékeny talaja és kedvező éghajlata kedvez az ananásztermesztésnek, amely fontos jövedelemforrást jelent a helyi lakosságnak. Adminisztratív központként szolgál az utazók számára is, akik Zambia érintetlen természeti területeit kívánják felfedezni. A város egyesíti a mezőgazdasági szakosodást a növekvő ökoturisztikai szereppel.",
+      "factsAdvanced": ["Ananásztermesztéséről ismert", "Közelség a Zambézi-forráshoz", "Adminisztratív központ a Nord-Nyugati Tartományban", "Helyi gyümölcskereskedelmi központ", "Magasság: kb. 1350 méter", "Ökológiai jelentőségű helyszín"]
+    },
+    {
+      "id": "zambezi-cities-v2",
+      "descriptionAdvanced": "Zambezi (korábbi nevén Balovale) a Nord-Nyugati Tartományban fekszik, közvetlenül a Zambézi-folyó mellett. A város kulturálisan kiemelkedő, hiszen itt tartják évente a Luvale nép 'Likumbi Lya Mize' ünnepségét, amely a régió gazdag kulturális örökségét ünnepli. A folyó közelsége meghatározza a város életét, egyszerre szolgálva a helyi szállítási logisztikát és a lakosság mindennapi életmódját. Adminisztratív központként a Zambezi ötvözi a modern igényeket a hagyományos értékekkel.",
+      "factsAdvanced": ["Korábbi neve: Balovale", "Elhelyezkedés a Zambézi-folyó mentén", "A Likumbi Lya Mize-ünnepség házigazdája", "A Luvale nép kulturális központja", "Magasság: kb. 1000 méter", "Lokális kereskedelmi központ"]
+    },
+    {
+      "id": "katete-cities-v2",
+      "descriptionAdvanced": "Katete a Keleti Tartomány egyik városa, amely festői környezetben, sziklás dombok lábánál fekszik. A város agrárgazdasági alapon működik, fontos kereskedelmi és adminisztratív központként. A 'Kulamba'-szertartás, amely a Chewa nép hagyományait mutatja be, szintén kiemelt kulturális esemény a városban. A 'Great East Road' mentén elhelyezkedő Katete logisztikai szempontból is előnyös, fontos szolgáltatócsomópont a környező vidéki közösségek számára.",
+      "factsAdvanced": ["Sziklás dombok lábánál fekszik", "A tradicionális Kulamba-ünnepség helyszíne", "Agrárkereskedelmi központ", "Fontos Keleti Tartománybeli település", "Magasság: kb. 1100 méter", "Kedvező elhelyezkedés a Great East Road-on"]
+    },
+    {
+      "id": "isoka-cities-v2",
+      "descriptionAdvanced": "Isoka a Muchinga Tartomány fontos adminisztratív kerülete, amely történelmileg is jelentős szerepet játszott az adminisztrációban. Központi szerepet tölt be a régió igazgatásában és a vidéki lakosság ellátásában. A Tanzániával határos terület közelsége stratégiai jelentőséget biztosít a regionális kereskedelem számára. Isoka a régió növekvő lakossága számára biztosít oktatási, egészségügyi és kereskedelmi szolgáltatásokat.",
+      "factsAdvanced": ["Adminisztratív központ a Muchinga-területen", "Központi szerep a vidéki lakosság ellátásában", "Stratégiai közelség a tanzániai határhoz", "Kisüzemi mezőgazdaság központja", "Magasság: kb. 1450 méter", "Szolgáltatócsomópont a tartományban"]
+    },
+    {
+      "id": "mporokoso-cities-v2",
+      "descriptionAdvanced": "Mporokoso a Nord-Nyugati Tartomány egyik városa, amely festői vízeséseiről ismert a környéken. Adminisztratív székhelyként alapvető infrastruktúrát biztosít a környező vidéki közösségek számára, és lokális kereskedelmi központként is működik. Mporokoso egyesíti az adminisztratív központi szerepét a természetközeli turizmus lehetőségével, amely egyedülálló természeti adottságaiból fakad. A város folyamatosan erősíti szerepét, mint a régió kereskedelmi és ellátó csomópontja.",
+      "factsAdvanced": ["Ismert a környékbeli vízeséseiről", "Adminisztratív központ az Északi Tartományban", "Fontos lokális kereskedelmi központ", "Essenciális infrastruktúra vidéki közösségeknek", "Magasság: kb. 1300 méter", "Természetközeli turisztikai potenciál"]
+    },
+    {
+      "id": "chililabombwe-cities-v2",
+      "descriptionAdvanced": "Chililabombwe egy rézbányászati város a Copperbeltben, amely közvetlenül a Kongói Demokratikus Köztársaság határa közelében fekszik. A város gazdasága szinte teljes mértékben a közeli Konkola rézbányáktól függ, amelyek az ország legnagyobbjai közé tartoznak. Ipari központként a város fontos csomópont a regionális kereskedelem számára. A város fejlődése erősen kötődik a globális bányászati piacok változásaihoz, ami kritikus mérőfokot jelent Zambia bányászati alapú gazdasága számára.",
+      "factsAdvanced": ["A Konkola rézbányák központja", "Közelség a Kongói DK határához", "A rézbányászat a fő gazdasági ágazat", "Kiemelt csomópont a nemzetközi kereskedelmi útvonalakon", "Magasság: kb. 1300 méter", "Ipari növekedés a bányászati technológiák révén"]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "lang": "ro",
+  "country": "argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-temaiken-life-v2",
+      "descriptionAdvanced": "Bioparcul Temaikèn, situat în Belén de Escobar, la aproximativ 50 de kilometri de Buenos Aires, reprezintă unul dintre cele mai moderne și complexe centre de conservare a biodiversității din America de Sud. Inaugurat în anul 2002, acest spațiu vast nu este o grădină zoologică tradițională, ci un ecosistem controlat unde animalele trăiesc în habitate care reproduc fidel mediul lor natural. Vizitatorii pot explora zone dedicate faunei africane, asiatice și sud-americane, punându-se un accent deosebit pe speciile native aflate în pericol. Una dintre cele mai spectaculoase atracții este voliera imensă, unde sute de păsări zboară liber deasupra vizitatorilor, oferind o experiență imersivă unică. De asemenea, acvariul oferă o incursiune fascinantă în lumea subacvatică a platformei continentale argentiniene, incluzând bazine impresionante cu rechini și alte specii marine, toate prezentate într-un cadru educativ riguros.",
+      "factsAdvanced": [
+        "Inaugurat oficial pe data de 11 iulie 2002.",
+        "Numele provine din cuvintele tehuelche tem (pământ) și aiken (viață).",
+        "Se întinde pe o suprafață totală de aproximativ 34 de hectare.",
+        "Găzduiește peste 200 de specii diferite de animale din întreaga lume.",
+        "Voliera sa este una dintre cele mai mari de acest tip din emisfera sudică.",
+        "Centrul de reproducere a condorilor andini este unul dintre cele mai de succes.",
+        "Acvariul deține un volum de peste 1 milion de litri de apă marină.",
+        "Fundația Temaikèn derulează peste 10 programe active de conservare în Argentina."
+      ]
+    },
+    {
+      "id": "ar-parque-de-la-costa-life-v2",
+      "descriptionAdvanced": "Parque de la Costa este cel mai important parc de distracții din Argentina, fiind situat în orașul Tigre, la confluența râurilor Luján și Tigre. De la deschiderea sa în anul 1997, parcul a devenit o destinație emblematică pentru familiile care vizitează zona deltei, oferind un mix echilibrat între adrenalină și divertisment cultural. Complexul dispune de numeroase montagne rousse, printre care se remarcă Boomerang și El Vigía, precum și de atracții acvatice perfecte pentru clima caldă a regiunii. Pe lângă carusele și jocurile mecanice, parcul găzduiește spectacole live zilnice și zone tematice dedicate copiilor de toate vârstele. Locația sa privilegiată în Delta Tigre permite accesul facil din Buenos Aires prin intermediul celebrului Tren de la Costa, transformând vizita într-o excursie completă ce îmbină peisajele naturale ale deltei cu energia unui centru de divertisment de talie internațională.",
+      "factsAdvanced": [
+        "Inaugurat în anul 1997 în cadrul proiectului de revitalizare a zonei Tigre.",
+        "Oferă vizitatorilor peste 40 de atracții mecanice și tematice diferite.",
+        "Este situat pe malul râului Luján, având o deschidere peisagistică deosebită.",
+        "Parcul include un teatru cu o capacitate de peste 300 de spectatori.",
+        "Montagne rousse-ul Boomerang atinge viteze de până la 75 km/h.",
+        "Complexul include și parcul acvatic Aquafan, deschis în timpul verii.",
+        "Este deservit de stația Delta a liniei feroviare turistice Tren de la Costa.",
+        "Găzduiește anual peste un milion de vizitatori din întreaga regiune."
+      ]
+    },
+    {
+      "id": "ar-republica-ninos-life-v2",
+      "descriptionAdvanced": "Republica Copiilor (República de los Niños), situată în localitatea Manuel B. Gonnet, lângă La Plata, este primul parc tematic și educativ din America de Sud dedicat exclusiv universului infantil. Construit între anii 1949 și 1951, parcul reprezintă un oraș în miniatură, cu clădiri publice la scară redusă care reproduc stiluri arhitecturale europene și locale celebre. Copiii pot interacționa cu instituții precum Parlamentul, Palatul de Justiție, bănci și biserici, totul fiind conceput pentru a preda concepte de civism și democrație prin joc. Există o legendă persistentă conform căreia Walt Disney ar fi vizitat acest parc înainte de a construi Disneyland, fiind impresionat de conceptul de oraș miniaturizat. Pe lângă valoarea sa educativă, parcul oferă zone verzi vaste, un trenuleț pitoresc care străbate proprietatea și numeroase atracții mecanice, rămânând un simbol al arhitecturii vizionare și al educației non-formale din Argentina.",
+      "factsAdvanced": [
+        "Inaugurat oficial pe 17 noiembrie 1951 de către președintele Juan Domingo Perón.",
+        "Se întinde pe o suprafață verde de aproximativ 53 de hectare.",
+        "Cuprinde 35 de clădiri miniaturizate realizate în stiluri arhitecturale diverse.",
+        "Palatul de Justiție a fost inspirat de primăria din orașul Louvain, Belgia.",
+        "Palatul Culturii este o replică a faimosului Palat Dogilor din Veneția.",
+        "Dispune de o linie feroviară internă cu o lungime de 2 kilometri.",
+        "A fost declarat Monument Istoric Național în anul 2001.",
+        "Se spune că Walt Disney a vizitat locația în anul 1953."
+      ]
+    },
+    {
+      "id": "ar-tierra-santa-life-v2",
+      "descriptionAdvanced": "Tierra Santa este un parc tematic religios unic în lume, situat pe malul fluviului Río de la Plata, în cartierul Costanera Norte din Buenos Aires. Deschis în anul 1999, acesta recreează cu o precizie remarcabilă atmosfera orașului vechi Ierusalim din urmă cu două mii de ani. Vizitatorii pot parcurge străzi înguste flancate de replici ale caselor din acea epocă, întâlnind actori care interpretează roluri de meșteșugari, soldați romani și cetățeni ai anticului oraș. Punctul culminant al experienței este momentul învierii, marcat de o statuie mecanică a lui Iisus care se ridică deasupra dealului Golgota, acompaniată de muzică simfonică și efecte speciale. Parcul oferă o perspectivă ecumenică, incluzând elemente din iudaism și islam, subliniind coexistența religioasă istorică. Este o destinație populară pentru pelerinaje urbane și turiști curioși să descopere istoria biblică într-un format interactiv și accesibil.",
+      "factsAdvanced": [
+        "Este primul parc tematic religios construit vreodată în lume.",
+        "Inaugurat în anul 1999 în prezența cardinalului Jorge Bergoglio (Papa Francisc).",
+        "Recreează etapele vieții lui Iisus, de la naștere până la înviere.",
+        "Statuia învierii are o înălțime de 18 metri și se ridică automat din oră în oră.",
+        "Include replici ale Zidului Plângerii și ale Bisericii Sfântului Mormânt.",
+        "Oferă spectacole de dansuri tradiționale din Orientul Apropiat în zona food court.",
+        "Personalul parcului poartă costume de epocă create după cercetări istorice.",
+        "Ocupă o suprafață de 7 hectare pe malul fluviului Río de la Plata."
+      ]
+    },
+    {
+      "id": "ar-museo-ninos-abasto-life-v2",
+      "descriptionAdvanced": "Muzeul Copiilor Abasto (Museo de los Niños Abasto) este un spațiu interactiv situat în interiorul celebrului centru comercial Abasto din Buenos Aires, ocupând o parte din structura fostei piețe de gros de fructe și legume. Conceput ca un oraș la scară infantilă, muzeul permite copiilor cu vârste între 0 și 12 ani să exploreze universul adulților într-un mediu sigur și educativ. Aici, copiii pot „lucra” într-un supermarket, pot prezenta știri la un studio de televiziune, pot efectua operațiuni bancare sau pot conduce un autobuz real. Fiecare secțiune este proiectată pentru a stimula curiozitatea și învățarea prin experiență directă, punând accent pe rolurile sociale și responsabilitățile civice. Arhitectura interioară păstrează elemente din stilul Art Deco al clădirii originale, oferind un contrast fascinant între patrimoniul istoric al orașului și abordarea modernă a educației interactive.",
+      "factsAdvanced": [
+        "Inaugurat pe 20 aprilie 1999 în incinta centrului comercial Abasto.",
+        "Ocupă o suprafață generoasă de peste 3.500 de metri pătrați.",
+        "Include o zonă specială numită „Orașul” cu peste 20 de activități tematice.",
+        "Dispune de un studio de televiziune complet echipat și funcțional pentru copii.",
+        "Colaborează cu branduri reale pentru a oferi o experiență de joc autentică.",
+        "Clădirea Abasto în care se află este un monument istoric construit în 1934.",
+        "Găzduiește peste 300.000 de vizitatori în fiecare an.",
+        "Include o zonă dedicată bebelușilor sub 2 ani, axată pe stimulare senzorială."
+      ]
+    },
+    {
+      "id": "ar-ecoparque-buenos-aires-life-v2",
+      "descriptionAdvanced": "Ecoparcul Buenos Aires reprezintă transformarea ambițioasă a vechii Grădini Zoologice a orașului, situată în inima cartierului Palermo, într-un centru modern dedicat conservării mediului și educației ecologice. Procesul de reconversie a început în anul 2016, punând capăt modelului tradițional de expunere a animalelor în cuști și concentrându-se pe salvarea, reabilitarea și eliberarea speciilor native. Astăzi, vizitatorii pot explora peste 18 hectare de spații verzi restaurate, unde arhitectura istorică victoriană de la sfârșitul secolului al XIX-lea se împletește cu tehnologii interactive de învățare. Păunii, mara (iepuri patagonici) și rațele se plimbă libere pe aleile parcului, în timp ce programele de conservare lucrează activ pentru salvarea condorului andin și a altor specii emblematice. Ecoparcul funcționează ca un plămân verde urban, oferind o alternativă sustenabilă de petrecere a timpului liber în metropolă.",
+      "factsAdvanced": [
+        "Grădina Zoologică originală a fost inaugurată pe acest amplasament în 1888.",
+        "Transformarea oficială în Ecoparc a fost demarată în iunie 2016.",
+        "Se întinde pe o suprafață de 18 hectare în centrul cartierului Palermo.",
+        "Găzduiește peste 40 de clădiri istorice declarate Monumente Istorice Naționale.",
+        "Proiectul a relocat peste 800 de animale în rezervații naturale și sanctuare.",
+        "Include un laborator specializat în biotehnologie pentru conservarea speciilor.",
+        "Accesul în parc este gratuit, promovând educația ecologică pentru toți.",
+        "Găzduiește cel mai important program de conservare a condorului andin din Argentina."
+      ]
+    },
+    {
+      "id": "ar-aquasol-life-v2",
+      "descriptionAdvanced": "Aquasol este cel mai mare și mai popular parc acvatic din Argentina, situat pe drumul național 2, în apropierea celebrei stațiuni balneare Mar del Plata. Inaugurat în urmă cu peste trei decenii, parcul s-a extins constant, devenind o destinație obligatorie pentru turiștii care își petrec vacanța pe coasta atlantică în timpul verii. Complexul impresionează prin varietatea toboganelor sale, de la cele dedicate copiilor mici până la atracții de mare viteză precum „Kamikaze” sau „Black Hole”, care testează curajul celor mai temerari vizitatori. Una dintre atracțiile centrale este piscina uriașă cu valuri artificiale, care recreează experiența oceanului într-un mediu controlat și sigur. Parcul oferă servicii complete, inclusiv zone de picnic, restaurante și spectacole de animație, fiind conceput pentru a oferi o zi întreagă de distracție și răcorire sub soarele argentinian.",
+      "factsAdvanced": [
+        "Inaugurat în anul 1988 lângă orașul Mar del Plata.",
+        "Dispune de peste 18 tobogane acvatice de diferite niveluri de dificultate.",
+        "Include piscina cu valuri Giant Wave, una dintre cele mai mari din țară.",
+        "Toboganul Kamikaze oferă o cădere aproape verticală de la 20 de metri înălțime.",
+        "Complexul ocupă o suprafață de aproximativ 10 hectare de teren.",
+        "Atracția Tornado oferă o experiență de coborâre în spirală unică în Argentina.",
+        "Parcul funcționează exclusiv în sezonul de vară (decembrie - martie).",
+        "Oferă peste 1.500 de locuri de parcare pentru vizitatorii sosiți cu mașina."
+      ]
+    },
+    {
+      "id": "ar-mundo-marino-life-v2",
+      "descriptionAdvanced": "Mundo Marino, situat în San Clemente del Tuyú, este cel mai mare oceanariu din America de Sud și un reper fundamental pentru turismul educațional din Argentina. De la deschiderea sa în anul 1979, complexul s-a concentrat pe prezentarea faunei marine atlantice, oferind spectacole impresionante cu balene ucigașe (orci), delfini și lei de mare. Totuși, rolul parcului depășește sfera divertismentului, acesta găzduind Fundația Mundo Marino, una dintre cele mai active organizații de salvare a animalelor marine rănite sau eșuate de pe coasta argentiniană. Vizitatorii pot vedea îndeaproape pinguini, rechini și numeroase specii de păsări acvatice, învățând în același timp despre pericolele poluării oceanice. Parcul este împărțit în diverse zone tematice, incluzând safari-uri terestre și expoziții subacvatice, oferind o experiență completă de contact cu natura în provincia Buenos Aires.",
+      "factsAdvanced": [
+        "Inaugurat oficial pe 6 ianuarie 1979 de familia Méndez.",
+        "Este situat pe o suprafață vastă de 40 de hectare în San Clemente del Tuyú.",
+        "Găzduiește singura orcă din America de Sud care trăiește sub îngrijire umană.",
+        "Fundația Mundo Marino a salvat peste 10.000 de animale de la înființare.",
+        "Include un spital veterinar specializat în patologia animalelor marine.",
+        "Atracția Safari Terrestre permite observarea animalelor pe o zonă de 25 de hectare.",
+        "Oceanariul dispune de un teatru în aer liber cu o capacitate de mii de locuri.",
+        "Este una dintre cele mai vizitate atracții turistice de pe coasta atlantică argentiniană."
+      ]
+    },
+    {
+      "id": "ar-pekos-multiparque-life-v2",
+      "descriptionAdvanced": "Pekos Multiparque este cel mai mare centru de recreere și divertisment din regiunea muntoasă a provinciei Córdoba, fiind situat strategic între localitățile Villa Carlos Paz și Tanti. Acest complex vast se distinge prin abordarea sa multidisciplinară, oferind vizitatorilor o combinație de atracții mecanice, spectacole educaționale și contact direct cu natura. Printre cele mai apreciate zone se numără labirintul de oglinzi, acvariul, serpentariul și „Cripta Terorii”, o atracție tematică populară printre tineri. De asemenea, parcul pune un mare accent pe conservare, deținând un mini-zoo unde sunt protejate specii native și exotice. Spectacolul de magie și demonstrațiile cu păsări dresate completează oferta zilnică, transformând Pekos într-un reper esențial pentru turiștii care explorează Valle de Punilla, oferind distracție într-un cadru natural spectaculos.",
+      "factsAdvanced": [
+        "Inaugurat în anul 1983 în inima regiunii Valle de Punilla.",
+        "Situat pe drumul național 38, la doar 5 kilometri de Villa Carlos Paz.",
+        "Include un acvariu impresionant cu specii de apă dulce și sărată.",
+        "Găzduiește spectacolul de magie al lui Mago Matus, celebru în Argentina.",
+        "Dispune de un cinematograf 5D cu efecte speciale senzoriale.",
+        "Labirintul său de grădină este unul dintre cele mai mari din provincie.",
+        "Include o replică a unei piramide mayașe folosită pentru expoziții.",
+        "Este deschis pe tot parcursul anului, adaptându-și programul în funcție de sezon."
+      ]
+    },
+    {
+      "id": "ar-parque-tematico-cruz-life-v2",
+      "descriptionAdvanced": "Parcul Tematic al Crucii (Parque Temático de la Cruz) este un complex turistic și spiritual situat pe vârful dealului Santa Ana, în provincia Misiones, oferind vederi panoramice spectaculoase asupra junglei și fluviului Paraná. Elementul central al parcului este o cruce gigantică din oțel, înaltă de 82 de metri, dotată cu ascensoare care transportă vizitatorii spre balcoane de observație situate la diferite înălțimi. Pe lângă semnificația sa religioasă, parcul este un model de turism sustenabil, găzduind o seră de fluturi (mariposario) unde sunt crescute specii native din pădurea paranaense și o zonă dedicată orhideelor locale. Traseele prin pădure permit observarea florei și faunei native, fiind punctate de zone de rugăciune și reflecție. Designul parcului respectă topografia terenului, minimizând impactul asupra ecosistemului fragil al pădurii tropicale misionesene.",
+      "factsAdvanced": [
+        "Crucea centrală are o înălțime totală de 82 de metri de la bază.",
+        "Inaugurat oficial în aprilie 2011 ca punct de reper turistic în Misiones.",
+        "Situat pe dealul Santa Ana, la o altitudine de 360 de metri deasupra mării.",
+        "Include o seră de fluturi unde trăiesc peste 30 de specii native.",
+        "Ascensorul panoramic oferă vederi spre Paraguay și fluviul Paraná.",
+        "Ocupă o suprafață de 57 de hectare de pădure nativă protejată.",
+        "Dispune de un amfiteatru în aer liber și o galerie de artă.",
+        "Traseul interpretativ prin junglă are o lungime de peste 600 de metri."
+      ]
+    },
+    {
+      "id": "ar-peninsula-valdes-life-v2",
+      "descriptionAdvanced": "Peninsula Valdés, situată pe coasta atlantică a provinciei Chubut, este una dintre cele mai importante rezervații naturale ale lumii, fiind inclusă în Patrimoniul Mondial UNESCO din anul 1999. Această zonă aridă și vântoasă servește drept un sanctuar vital pentru reproducerea unor specii marine emblematice. Între lunile iunie și decembrie, apele calme ale golfului Nuevo devin scena spectacolului oferit de balenele france australe (Eubalaena australis), care sosesc aici pentru a se împerechea și a-și îngriji puii. Pe malurile peninsulei se află colonii masive de elefanți de mare și lei de mare, în timp ce orcele (balenele ucigașe) oferă imagini dramatice în zona Punta Norte, folosind tehnici de atac pe plajă unice în lume. Fauna terestră este la fel de bogată, incluzând guanaco, mara și pinguini Magellan, transformând peninsula într-un laborator viu al naturii patagonice.",
+      "factsAdvanced": [
+        "Declarată Sit al Patrimoniului Mondial UNESCO în anul 1999.",
+        "Ocupă o suprafață totală de aproximativ 3.625 de kilometri pătrați.",
+        "Este legată de continent prin istmul îngust Carlos Ameghino.",
+        "Punctul cel mai jos din Argentina, Salinas Chicas (-42 m), se află aici.",
+        "Peste 1.500 de balene france australe vizitează zona în fiecare an.",
+        "Colonia de elefanți de mare de aici este singura care crește pe continent.",
+        "Orcele de la Punta Norte folosesc tehnica unică de eșuare intenționată.",
+        "Puerto Pirámides este singura localitate din cadrul rezervației."
+      ]
+    },
+    {
+      "id": "ar-punta-tombo-life-v2",
+      "descriptionAdvanced": "Punta Tombo este o rezervație naturală provincială situată în provincia Chubut, renumită pentru că găzduiește cea mai mare colonie continentală de pinguini Magellan (Spheniscus magellanicus) din lume. În fiecare an, începând cu luna septembrie, sute de mii de pinguini sosesc pe acest promontoriu stâncos pentru a-și face cuiburile, a se împerechea și a-și crește puii înainte de a pleca din nou spre nord în luna aprilie. Rezervația este amenajată cu un sistem modern de pasarele de lemn care permit vizitatorilor să se plimbe chiar prin mijlocul coloniei, fără a deranja comportamentul natural al păsărilor. Peisajul este unul spectaculos, unde solul arid și argilos este perforat de mii de cuiburi săpate de pinguini, iar orizontul este dominat de albastrul intens al Oceanului Atlantic. Este un loc fundamental pentru cercetarea științifică și un exemplu de succes în gestionarea turismului de observare a faunei.",
+      "factsAdvanced": [
+        "Inaugurată ca rezervație naturală în anul 1979.",
+        "Găzduiește peste 500.000 de pinguini Magellan în vârful sezonului.",
+        "Promontoriul stâncos se întinde pe o lungime de 3,5 kilometri în ocean.",
+        "Pinguinii parcurg anual mii de kilometri în timpul migrației lor.",
+        "Include Centrul de Interpretare Punta Tombo, inaugurat în 2011.",
+        "Pasarelele pentru vizitatori au o lungime totală de peste 1,5 kilometri.",
+        "Pe lângă pinguini, pot fi observați guanaco și vulpi cenușii.",
+        "Se află la aproximativ 110 kilometri sud de orașul Trelew."
+      ]
+    },
+    {
+      "id": "ar-esteros-ibera-life-v2",
+      "descriptionAdvanced": "Esteros del Iberá reprezintă unul dintre cele mai vaste și bogate ecosisteme de zone umede din lume, situat în inima provinciei Corrientes. Această rețea complexă de mlaștini, lagune, canale și insule plutitoare de vegetație (embalsados) ocupă o suprafață de peste 1,3 milioane de hectare, fiind a doua cea mai mare zonă umedă de pe glob după Pantanal. Biodiversitatea de aici este uluitoare: vizitatorii pot observa cu ușurință în mediul lor natural caimani (yacaré), capibare (carpinchos), cerbi de mlaștină și maimuțe urlătoare. De asemenea, zona este un paradis pentru ornitologi, găzduind peste 350 de specii de păsări. În ultimii ani, Iberá a devenit centrul celui mai ambițios proiect de „rewilding” din America de Sud, coordonat de Fundația Rewilding Argentina, care a reușit reintroducerea cu succes a jaguarului, a furnicarului gigant și a papagalului guacamayo roșu, specii care dispăruseră din regiune.",
+      "factsAdvanced": [
+        "Suprafața totală a ecosistemului depășește 1,3 milioane de hectare.",
+        "Numele provine din limba guarani: Yverá, care înseamnă „apă strălucitoare”.",
+        "Declarat Parc Național în anul 2018, consolidând protecția zonei.",
+        "Găzduiește peste 350 de specii de păsări și 85 de specii de mamifere.",
+        "Jaguarul a fost reintrodus oficial în sălbăticie în Iberá în 2021.",
+        "Majoritatea apei din sistem provine din precipitații, nu din râuri.",
+        "Insulele plutitoare de vegetație pot susține greutatea unor animale mari.",
+        "Localitatea Colonia Carlos Pellegrini este principalul punct de acces turistic."
+      ]
+    },
+    {
+      "id": "ar-monte-leon-life-v2",
+      "descriptionAdvanced": "Parcul Național Monte León, situat pe coasta atlantică a provinciei Santa Cruz, este prima rezervație marină de coastă creată în Argentina. Inaugurat în anul 2004, parcul protejează un segment spectaculos al stepei patagonice care se întâlnește abrupt cu oceanul prin faleze înalte și formațiuni stâncoase neobișnuite. Numele său provine de la o peninsulă care, văzută de la distanță, seamănă cu un leu culcat. Biodiversitatea parcului este remarcabilă, adăpostind o colonie importantă de pinguini Magellan, colonii de cormorani imperiali și numeroși lei de mare care se odihnesc pe plajele izolate. În interiorul stepei, vizitatorii pot observa grupuri mari de guanaco și nandú (struțul sud-american). Un element fascinant al parcului sunt resturile fosile care apar pe plajă în timpul refluxului, oferind mărturii despre trecutul geologic marin al regiunii.",
+      "factsAdvanced": [
+        "Inaugurat oficial pe 20 octombrie 2004 prin efortul Douglas Tompkins.",
+        "Protejează o linie de coastă atlantică de aproximativ 40 de kilometri.",
+        "Găzduiește o colonie de pinguini Magellan de peste 60.000 de perechi.",
+        "Formațiunea stâncoasă „Capul Leului” este simbolul vizual al parcului.",
+        "În apele sale pot fi observate balene france australe în timpul migrației.",
+        "Include resturi fosile marine vechi de peste 20 de milioane de ani.",
+        "Diferența dintre flux și reflux poate depăși 8 metri înălțime.",
+        "Ocupă o suprafață totală de peste 62.000 de hectare."
+      ]
+    },
+    {
+      "id": "ar-cabo-dos-bahias-life-v2",
+      "descriptionAdvanced": "Rezervația Naturală Cabo Dos Bahías, situată la aproximativ 28 de kilometri de satul pescăresc Camarones în provincia Chubut, este o bijuterie ascunsă a coastei patagonice. Această arie protejată se distinge printr-un peisaj dramatic, unde rocile vulcanice de un roșu intens contrastează puternic cu albastrul turcoaz al Oceanului Atlantic. Deși mai mică decât Punta Tombo, rezervația oferă o experiență mult mai intimă de observare a pinguinilor Magellan, pasarelele fiind amplasate în așa fel încât vizitatorii se simt parte din viața coloniei. Un aspect unic al Cabo Dos Bahías este prezența masivă a guanakos-ilor, care pășunează fără teamă chiar lângă cuiburile pinguinilor, oferind ocazii fotografice rare. Apele din jurul capului sunt bogate în pește și viață marină, atrăgând numeroase specii de păsări și lei de mare care populează insulele din apropiere.",
+      "factsAdvanced": [
+        "Inaugurată în anul 1973 pentru protejarea biodiversității locale.",
+        "Se află la aproximativ 28 km de pitorescul sat Camarones.",
+        "Găzduiește o colonie de pinguini Magellan de aproximativ 20.000 de exemplare.",
+        "Rocile vulcanice roșii au o vechime geologică impresionantă.",
+        "Este un loc ideal pentru observarea vulpilor cenușii și a armadillo-urilor.",
+        "Guanako-șii din rezervație sunt obișnuiți cu prezența umană.",
+        "Include trasee interpretative bine marcate spre punctele de belvedere.",
+        "Face parte din Parcul Interjurisdicțional Marin de Coastă Patagonia Austral."
+      ]
+    },
+    {
+      "id": "ar-parque-luro-life-v2",
+      "descriptionAdvanced": "Rezervația Naturală Parque Luro, situată în provincia La Pampa, la 35 de kilometri de orașul Santa Rosa, este singurul sanctuar din lume dedicat conservării pădurii de caldén (Prosopis caldenia), un arbore endemic în Argentina. Această zonă protejată oferă un mix fascinant de istorie și natură; în centrul său se află „Castelul”, un conac luxos construit la începutul secolului XX de către Pedro Luro ca bază pentru prima rezervație de vânătoare privată din țară. Astăzi, parcul este celebru pentru populația sa de cerbi roșii, aduși inițial din Europa, care oferă un spectacol sonor impresionant în timpul perioadei de boncănit (împerechere), între martie și aprilie. Pe lângă cerbi, parcul găzduiește peste 160 de specii de păsări și o populație importantă de pume, fiind o destinație esențială pentru ecoturism în regiunea centrală a țării.",
+      "factsAdvanced": [
+        "Singura zonă din lume care protejează pădurea nativă de caldén.",
+        "Conacul central „El Castillo” a fost declarat Monument Istoric Național.",
+        "Sezonul de boncănit al cerbilor roșii are loc în martie și aprilie.",
+        "Găzduiește Laguna Salada, unde pot fi observați numeroși flamingo.",
+        "Ocupă o suprafață de 7.600 de hectare de stepă și pădure.",
+        "Include peste 160 de specii de păsări inventariate în rezervație.",
+        "Inițial, a fost prima rezervație de vânătoare din Argentina, creată în 1907.",
+        "Situată pe drumul național 35, accesul fiind foarte facil."
+      ]
+    },
+    {
+      "id": "ar-cabo-virgenes-life-v2",
+      "descriptionAdvanced": "Cabo Vírgenes reprezintă punctul extrem sud-estic al Argentinei continentale și locul simbolic unde începe legendara rută națională 40, care străbate țara până în nordul extrem. Situat la gura de vărsare a Strâmtorii Magellan în Oceanul Atlantic, acest promontoriu izolat și vântos găzduiește a doua cea mai mare colonie de pinguini Magellan din Argentina, cu peste 250.000 de exemplare care sosesc aici în fiecare primăvară. Peisajul este marcat de farul istoric Cabo Vírgenes, care ghidează navigația în aceste ape periculoase încă din anul 1904. Vizitatorii pot parcurge un traseu interpretativ care oferă informații despre pinguini, dar și despre „febra aurului” care a cuprins regiunea la sfârșitul secolului al XIX-lea, când plajele au fost luate cu asalt de căutătorii de metale prețioase. Este un loc de o frumusețe sălbatică, unde istoria maritimă și natura patagonică se întâlnesc într-un punct geografic de cotitură.",
+      "factsAdvanced": [
+        "Reprezintă kilometrul 0 al faimoasei șosele Ruta Nacional 40.",
+        "Aproximativ 250.000 de pinguini Magellan cuibăresc aici anual.",
+        "Farul Cabo Vírgenes funcționează fără întrerupere din anul 1904.",
+        "Strâmtoarea Magellan a fost descoperită aici în octombrie 1520.",
+        "Include un muzeu mic dedicat căutătorilor de aur din secolul XIX.",
+        "Este situat la 134 de kilometri sud de orașul Río Gallegos.",
+        "Vânturile în această zonă pot depăși frecvent viteza de 100 km/h.",
+        "Zona a fost declarată Rezervație Naturală Provincială în anul 1986."
+      ]
+    },
+    {
+      "id": "ar-punta-bermeja-life-v2",
+      "descriptionAdvanced": "Rezervația de Lei de Mare Punta Bermeja, situată pe coasta atlantică a provinciei Río Negro, la aproximativ 60 de kilometri de orașul Viedma, adăpostește cea mai mare colonie permanentă de lei de mare (Otaria flavescens) din Patagonia. Situată sub faleze spectaculoase de gresie care ating înălțimi de până la 40 de metri, rezervația oferă un refugiu sigur pentru mii de exemplare care folosesc plaja pentru odihnă și reproducere. Un sistem modern de balcoane și puncte de belvedere amplasate pe marginea falezei permite vizitatorilor să observe comportamentul animalelor de la o înălțime considerabilă, oferind o perspectivă de ansamblu fără a interveni în habitatul lor. Apele din jurul punctului Punta Bermeja sunt, de asemenea, un loc preferat de vânătoare pentru orce și un punct de observație pentru balenele france australe în timpul migrației lor anuale, transformând zona într-un punct fierbinte al biodiversității marine.",
+      "factsAdvanced": [
+        "Găzduiește în mod constant între 4.000 și 7.000 de lei de mare.",
+        "Inaugurată ca rezervație faunistică în anul 1971.",
+        "Se află la aproximativ 60 de kilometri de Viedma, pe drumul de coastă.",
+        "Include Centrul de Interpretare Faunei Marine, inaugurat în 2005.",
+        "Falezele de aici sunt locuri de cuibărit pentru numeroase păsări marine.",
+        "Orcele sunt văzute frecvent patrulând zona în căutare de hrană.",
+        "Diferența de maree descoperă zone bogate în biodiversitate intertidală.",
+        "Punctele de observație permit folosirea binoclurilor pentru detalii fine."
+      ]
+    },
+    {
+      "id": "ar-ciervo-pantanos-life-v2",
+      "descriptionAdvanced": "Parcul Național Ciervo de los Pantanos, situat în localitatea Campana, la doar 70 de kilometri de Buenos Aires, reprezintă un efort crucial de conservare a zonelor umede de pe malul fluviului Paraná. Creat în anul 2018 pe baza fostei Rezervații Otamendi, parcul are ca obiectiv principal protejarea cerbului de mlaștină (Blastocerus dichotomus), cel mai mare cervid din America de Sud, care se află în pericol de dispariție. Ecosistemul parcului este o mozaic de pajiști inundabile, mlaștini și păduri riverane, oferind un habitat vital pentru peste 300 de specii de păsări. Apropierea sa de metropolă îl face o destinație ideală pentru educația ecologică și „birdwatching”, vizitatorii putând parcurge trasee amenajate care traversează diversele micro-habitate ale deltei inferioare a fluviului Paraná, oferind o scăpare rapidă în natură sălbatică.",
+      "factsAdvanced": [
+        "Declarat Parc Național pe 10 octombrie 2018.",
+        "Include fosta Rezervație Naturală Otamendi, creată în 1990.",
+        "Ocupă o suprafață totală de aproximativ 5.300 de hectare.",
+        "Protejează cerbul de mlaștină, monument natural în provincie.",
+        "Au fost inventariate peste 300 de specii de păsări în perimetrul său.",
+        "Traseul „Laguna Grande” oferă cele mai bune oportunități de observare.",
+        "Situat strategic între Ruta 9 și fluviul Paraná de las Palmas.",
+        "Include zone de „pădure albă” (selva blanca) tipică regiunii deltei."
+      ]
+    },
+    {
+      "id": "ar-reserva-uruguai-life-v2",
+      "descriptionAdvanced": "Rezervația de Viață Sălbatică Urugua-í este o arie protejată privată de o importanță capitală situată în nordul provinciei Misiones, funcționând ca un coridor biologic esențial între parcurile naționale Iguazú și Urugua-í. Această zonă conservă una dintre ultimele porțiuni intacte de Pădure Atlantică (Selva Paranaense), un ecosistem cu o biodiversitate extremă, dar grav amenințat de defrișări. Rezervația este un refugiu critic pentru marii prădători ai regiunii, precum jaguarul (yaguareté) și puma, precum și pentru specii emblematice ca tapirul și furnicarul gigant. Gestionată de Fundația Vida Silvestre Argentina, rezervația include un centru de cercetare unde botaniști și zoologi studiază flora și fauna locală, inclusiv sute de specii de orhidee și păsări endemice. Turismul aici este de impact redus, fiind concentrat pe educație științifică și observarea conștientă a junglei tropicale.",
+      "factsAdvanced": [
+        "Creată în anul 1997 și gestionată de Fundația Vida Silvestre Argentina.",
+        "Se întinde pe o suprafață de peste 3.200 de hectare de selvă primară.",
+        "Funcționează ca un coridor cheie pentru circulația jaguarilor.",
+        "Adăpostește peste 300 de specii de păsări tropicale.",
+        "Include stația biologică Urugua-í, un centru de cercetare activ.",
+        "Protejează cursul superior al râului Urugua-í și afluenții săi.",
+        "Au fost identificate specii noi de plante și insecte în acest perimetru.",
+        "Accesul este limitat pentru a minimiza impactul asupra mediului fragil."
+      ]
+    }
+  ]
+}

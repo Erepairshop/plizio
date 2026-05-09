@@ -2,308 +2,287 @@
   "lang": "ro",
   "country": "madagascar",
   "files": [
-    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
-    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
   ],
   "items": [
     {
-      "id": "toliara-sands-economic-v2",
-      "descriptionAdvanced": "Situat în regiunea aridă din sud-vest, proiectul Toliara Sands reprezintă una dintre cele mai semnificative, dar și controversate, propuneri de exploatare minieră din Madagascar, vizând extracția nisipurilor grele (ilmenit, zircon, rutil) pe o suprafață masivă de coastă. Gândit inițial sub forma unui consorțiu multinațional imens denumit Base Toliara, proiectul promite să diversifice masiv exporturile țării furnizând materiale critice pentru producția globală de pigmenți albi de titan, aviație și echipamente medicale. Pe de altă parte, dezvoltarea sitului s-a confruntat cu o puternică rezistență locală din partea comunităților de pescari (Vezo) și a agricultorilor, care se tem de impactul devastator asupra pădurilor endemice cu baobabi și asupra pânzei freatice limitate a deșertului. Științe Ecologice K8 — exploatări miniere și conflicte comunitare.",
+      "id": "andafiavaratra-palace-landmarks-v2",
+      "descriptionAdvanced": "Palatul Andafiavaratra, situat pe cel mai înalt deal din Antananarivo, chiar lângă complexul regal Rova, este o bijuterie arhitecturală de culoare roșie care a servit drept reședință pentru prim-miniștrii puternici ai Regatului Merina în secolul al XIX-lea. Construit inițial din lemn și ulterior reconstruit din piatră sub supravegherea arhitectului britanic William Pool în 1872, palatul are un design eclectic cu patru turnuri de colț marcate de cupole de sticlă spectaculoase. Clădirea a fost centrul puterii executive a Madagascarului, fiind locuită în special de Rainilaiarivony, cel care a guvernat țara timp de peste trei decenii. Astăzi, palatul funcționează ca muzeu, adăpostind resturile prețioase salvate din incendiul devastator al Palatului Rova din 1995, inclusiv coroane regale și obiecte de aur masiv. Este un simbol al tranziției Madagascarului către modernitate și al influenței arhitecturale europene asupra curții malgașe. Történelem K8 — monarhia malgașă și arhitectura colonială.",
       "factsAdvanced": [
-        "Proiectul urmărește extracția de ilmenit, zirconiu și rutil, minerale fundamentale în aliajele grele mondiale.",
-        "Se concentrează geografic pe teritoriile de coastă din districtul Ranobe (lângă orașul Toliara).",
-        "Durata previzionată a operațiunilor de forare depășește un ciclu continuu de cel puțin 30 de ani.",
-        "Generarea infrastructurii include planuri pentru un nou port de apă adâncă masiv dedicat exclusiv evacuării nisipurilor.",
-        "A fost frecvent suspendat de autorități naționale din cauza opoziției și demonstrațiilor masive ecologiste.",
-        "Impactul său riscă să deregleze ireversibil ecosistemul micro-local arid de arbuști spinoși și baobabi unici."
+        "Reședința oficială a prim-miniștrilor Madagascarului în secolul al XIX-lea.",
+        "Proiectat de arhitectul britanic William Pool și finalizat în anul 1872.",
+        "Adăpostește peste 1.400 de artefacte regale salvate din incendiul Rova.",
+        "Se remarcă prin domurile sale de sticlă unice care luminează interiorul.",
+        "A supraviețuit unui incendiu propriu în 1976, fiind ulterior restaurat.",
+        "Rainilaiarivony a condus țara de aici în timp ce era căsătorit cu trei regine consecutive.",
+        "Este situat la cea mai înaltă altitudine din oraș, oferind o vedere panoramică.",
+        "Arhitectura combină stilul baroc italian cu elemente victoriene britanice."
       ]
     },
     {
-      "id": "savonnerie-tropicale-economic-v2",
-      "descriptionAdvanced": "Istoria industriei ușoare a Madagascarului este marcată de prezența companiei Savonnerie Tropicale, una dintre primele și cele mai prestigioase fabrici artizanale și industriale dedicate extragerii și procesării săpunului. Fondată la jumătatea secolului XX în Antananarivo de antreprenori vizionari, uzina s-a dedicat încă de la bun început folosirii exclusiv a bogățiilor naturale malgașe – uleiul pur de cocos, extracțiile de palmier, glicerina naturală și uleiurile esențiale luxuriante (cum ar fi ylang-ylang). Produsele sale, cunoscute pentru calitatea organică neatinsă și lipsa adaosurilor chimice, nu domină doar piața insulară a bunurilor esențiale de uz casnic, dar se exportă masiv în buticurile bio din Europa, purtând mândre emblema sustenabilității africane. Economie K6 — industria de procesare și bunuri cosmetice organice.",
+      "id": "cathedrale-andohalo-landmarks-v2",
+      "descriptionAdvanced": "Catedrala Imaculata Concepție din Andohalo, cunoscută și sub numele de Catedrala din Antananarivo, este un reper spiritual și arhitectural impunător situat în inima istorică a capitalei. Construită între anii 1873 și 1890, catedrala este opera arhitectului francez Alphonse Taix și reprezintă stilul gotic revival în cea mai pură formă a sa pe insulă. Fațada sa monumentală este flancată de două turnuri gemene care domină piața Andohalo, locul unde odinioară aveau loc marile adunări regale (Kabary). Interiorul este la fel de spectaculos, fiind decorat cu vitralii fine aduse din Franța și o acustică remarcabilă care atrage mii de credincioși. Catedrala a jucat un rol simbolic crucial în timpul colonizării franceze, marcând prezența puternică a catolicismului în fața influenței protestante britanice. Vizita Papei Ioan Paul al II-lea în 1989 a consolidat statutul acestui lăcaș drept inima catolicismului malgaș. Geografie K7 — structura urbană istorică și monumente religioase.",
       "factsAdvanced": [
-        "Este cea mai veche unitate de procesare la scară mare dedicată produselor de igienă și săpun din țară.",
-        "A fost inaugurată formal în anul 1967 pe teritoriul puternic urbanizat al capitalei Antananarivo.",
-        "Are monopol asupra utilizării materiilor prime vegetale complet naturale sută la sută de origine malgașă.",
-        "Brandurile sale emblematice populare de săpun (precum Nosy) pot fi regăsite în cele mai izolate sate africane.",
-        "Garantează utilizarea intensivă a cantităților uriașe de ulei pur de cocos preluat de pe coastele regiunii SAVA.",
-        "S-a profilat global devenind principalul exportator național pe nișa produselor bio adresate parfumeriilor de lux."
+        "Sediul Arhidiecezei de Antananarivo și cel mai mare lăcaș catolic din oraș.",
+        "Piatra de temelie a fost pusă în 1873, fiind finalizată abia în 1890.",
+        "Situată pe dealul Andohalo, locul tradițional al discursurilor regale.",
+        "Proiectată de părintele Alphonse Taix în stil neo-gotic francez.",
+        "Turnurile sale ating o înălțime de aproximativ 30 de metri.",
+        "Găzduiește mormintele unor figuri religioase importante ale Madagascarului.",
+        "Vitrajele colorate înfățișează scene biblice și viața sfinților misionari.",
+        "Este construită din granit local și cărămidă arsă, specifice zonei montane."
       ]
     },
     {
-      "id": "jb-confectionery-economic-v2",
-      "descriptionAdvanced": "În topul preferințelor dulci ale malgașilor domină neîntrerupt produsele gigantului JB (Chocolaterie Confiserie JB), principala hală națională de dulciuri. Funcționând ca o uzină ultramodernă complexă, compania a capitalizat pe faima istorică a superbei calități a arborelui de cacao cultivat pe solul național (în valea Sambirano), transformând materia primă excelentă în bomboane, napolitane și ciocolată de larg consum accesibilă. Zgomotul constant al mașinilor de împachetat, care eliberează zilnic sute de mii de pachete viu colorate, face din brandul JB o amintire universală a copilăriei pentru aproape fiecare cetățean malgaș contemporan. Succesul uriaș comercial se datorează capacității de a oferi porții ieftine adaptate puterii mici de cumpărare a pieței naționale interne. Geografie K5 — industria alimentară și producția de dulciuri.",
+      "id": "mahamasina-stadium-landmarks-v2",
+      "descriptionAdvanced": "Stadionul Municipal Mahamasina, rebotezat oficial Stadionul Barea, este mai mult decât o arenă sportivă; este locul sacru al istoriei moderne a Madagascarului. Situat la baza dealului unde se află Palatul Reginei, stadionul a fost construit pe un teren care, în perioada monarhică, servea drept spațiu pentru marile adunări publice și exerciții militare ale armatei Merina. Aici a fost proclamată oficial independența Madagascarului față de Franța pe 26 iunie 1960, moment care transformă stadionul într-un monument național al libertății. Recent renovat pentru a atinge standarde internaționale, acesta are o capacitate de peste 40.000 de locuri și o fațadă modernă care integrează simbolurile culturale ale țării. Stadionul este casa echipei naționale de fotbal, Barea, fiind epicentrul pasiunii sportive naționale. În fiecare an, paradele de Ziua Independenței și învestirile prezidențiale au loc pe gazonul său, subliniind rolul său central în viața politică a republicii. Társadalom K5 — evenimente naționale și identitate sportivă.",
       "factsAdvanced": [
-        "Reprezintă la nivel național marca corporativă supremă pentru procesarea de dulciuri și ciocolată de uz zilnic.",
-        "Consumă o mare parte din ingrediente primare de pe plan intern (zahăr SIRAMA și faimoasa cacao din Ambanja).",
-        "Succesul comercial a depins decenii întregi de formatul produselor mici, împachetate individual, la cost minim.",
-        "Liniile masive automate moderne prelucrează mii de tone de pastă de zahăr cristalizat pe durata unui singur an.",
-        "Produsele ajung logistic pe trasee dure până la magazinele minuscule din cel mai îndepărtat nord sau sud.",
-        "Oferă pachete masive de sponsorizări constante ale marilor ligi ale campionatelor și evenimentelor sportive naționale."
+        "Locul oficial unde s-a proclamat independența Madagascarului în 1960.",
+        "Recent modernizat și extins, purtând numele oficial de Stadionul Barea.",
+        "Situat în cartierul Mahamasina, lângă Lacul Anosy.",
+        "Terenul a fost istoric câmpul de paradă al soldaților regelui Andrianampoinimerina.",
+        "Găzduiește anual festivitățile naționale de 26 iunie.",
+        "Este cea mai mare arenă sportivă și de evenimente de pe întreaga insulă.",
+        "A fost martorul vizitei istorice a Papei Francisc în anul 2019.",
+        "Arhitectura exterioară include elemente ce amintesc de coarnele de zebu."
       ]
     },
     {
-      "id": "tsimiroro-oil-economic-v2",
-      "descriptionAdvanced": "Situl de extracție a uleiului greu de la Tsimiroro se află de mulți ani în centrul visului energetic al națiunii. Situat în regiunea izolată Melaky din bazinul masiv Morondava, acest câmp de petrol vestic este renumit global pentru caracterul său atipic: conține țiței extrem de dens și vâscos (ulei greu). Pentru a forța fluidul prin piatră și a-l aduce la suprafață, consorțiul responsabil, Madagascar Oil, a trebuit să implementeze o tehnologie revoluționară rară și costisitoare denumită stimulare termică a aburului. Dacă rezervele se confirmă comercial pe deplin pe termen mediu, extracția are potențialul excepțional de a substitui total importurile costisitoare ale companiei electrice de stat pentru furnizarea generală a curentului. Științe Tehnologice K8 — extracția petrolului greu și independența energetică.",
+      "id": "gare-soarano-landmarks-v2",
+      "descriptionAdvanced": "Gara Soarano este punctul terminal al liniei ferate care leagă Antananarivo de portul de est Toamasina, fiind o capodoperă a arhitecturii coloniale franceze. Construită între 1908 și 1910 sub supravegherea inginerilor francezi, gara a fost odinioară inima pulsândă a transportului de mărfuri și pasageri de pe insulă. Numele său, care înseamnă „Apă Bună”, provine de la izvoarele cristaline care se aflau pe acest loc înainte de urbanizare. Clădirea se remarcă prin fațada sa elegantă din piatră, arcadele largi și detaliile din fier forjat care amintesc de stilul belle époque. Deși traficul de pasageri este astăzi redus, clădirea a fost restaurată și transformată într-un centru comercial și cultural de lux, găzduind magazine de nișă și expoziții de artă. Gara Soarano rămâne un simbol al ambițiilor logistice de la începutul secolului XX și o dovadă a legăturii vitale dintre platoul central și coasta Oceanului Indian. Geografie K7 — rețele de transport și patrimoniu urban.",
       "factsAdvanced": [
-        "Găzduiește rezerve imense certificate care depășesc sute de milioane de barili volum petrolier in situ.",
-        "Se extrage o formă densă de țiței brut, prea vâscoasă pentru procedurile ieftine clasice de puț și pompare.",
-        "Este vizat de compania energetică Madagascar Oil din primele faze avansate de explorare din anul 2004.",
-        "Presupune pomparea în subteran a uriașe volume presurizate de aburi fierbinți menite să încălzească țițeiul solid.",
-        "Zăcământul este poziționat structural complet în peisajul inaccesibil din vestul central (regiunea Melaky).",
-        "Comercializarea sa intenționează principal să ofere sursa masivă națională de păcură pentru compania JIRAMA."
+        "Inaugurată oficial în 1910 ca punct central al rețelei feroviare malgașe.",
+        "Situată la capătul bulevardului Independenței (Avenue de l'Indépendance).",
+        "Proiectată de arhitectul francez Fouchard în stil neoclasic colonial.",
+        "A funcționat ca hub principal pentru linia TCE (Tananarive-Côte Est).",
+        "Astăzi găzduiește celebrul „Café de la Gare” și diverse buticuri de lux.",
+        "Păstrează detalii originale de feronerie fabricate de atelierele Eiffel.",
+        "Numele Soarano reflectă existența unui fost iaz cu apă pură în acel loc.",
+        "Clădirea este inclusă pe lista monumentelor protejate ale capitalei."
       ]
     },
     {
-      "id": "bemolanga-tar-sands-economic-v2",
-      "descriptionAdvanced": "Zăcământul de nisipuri bituminoase de la Bemolanga împarte același bazin vestic (Morondava) cu Tsimiroro, dar prezintă o provocare geologică fundamental diferită. Aici, straturile uriașe de rocă de suprafață și nisip sunt complet saturate cu o cantitate colosală de bitum foarte solidificat. Cunoscut din perioada coloniștilor care foloseau roca tăiată brut pentru a repara drumurile, zăcământul este considerat drept una dintre marile rezerve neexploatate mondial de șisturi. Totuși, provocările ecologice și financiare uluitoare pentru extragerea lichidului (necesitând cantități gigantice de apă din râurile locale și de energie doar pentru a separa țițeiul de nisip) l-au menținut mai degrabă o oportunitate strategică suspendată decât o mină activă în prezent. Științe Tehnologice K8 — șisturile bituminoase și impactul minier hidro-intensiv.",
+      "id": "lake-anosy-monument-landmarks-v2",
+      "descriptionAdvanced": "Monumentul de pe Lacul Anosy, cunoscut sub numele de „Monument aux Morts”, este un înger de bronz aurit care se înalță pe o insulă artificială în centrul capitalei Antananarivo. Monumentul a fost ridicat în 1927 pentru a onora soldații malgași care și-au pierdut viața luptând pentru Franța în timpul Primului Război Mondial. Structura este conectată de mal printr-un pod îngust și este înconjurată de lacul Anosy, renumit pentru copacii săi Jacaranda care înfloresc în nuanțe superbe de violet în luna octombrie. Deși a fost construit într-un context colonial, monumentul a fost adoptat de localnici ca un simbol al orașului, silueta sa reflectându-se în apele liniștite ale lacului. Este unul dintre cele mai fotografiate repere din Madagascar, oferind o perspectivă solemnă asupra istoriei comune franco-malgașe și a sacrificiului uman în conflictele globale. Történelem K8 — participarea malgașă la războaiele mondiale și arta monumentală.",
       "factsAdvanced": [
-        "Constituie o rezervă strategică uriașă la scară internațională estimată la un volum uluitor de peste 20 miliarde barili.",
-        "Spre deosebire de forajul clasic cu puțuri, obținerea finală ar presupune o escavare destructivă majoră de mină de suprafață.",
-        "Locul este adesea menționat simbolic în istorie din secolul XIX ca o ciudățenie rară unde roca pur și simplu lua foc natural.",
-        "Procesarea sa industrială ar cere volume astronomice inacceptabile ecologic din resursele de apă curgătoare limitate vestice.",
-        "Terenul de interes geologic imediat este concesionat gigantului corporațional petrolier francez TotalEnergies.",
-        "Lipsa de infrastructură terestră uriașă în izolata regiune de vest a pus constant deceniile pe pauză orice extracție."
+        "Comemorează soldații malgași căzuți în Primul Război Mondial.",
+        "Monumentul constă într-un înger de bronz pe o coloană masivă de piatră.",
+        "Situat pe o mică insulă în mijlocul Lacului Anosy, creat artificial.",
+        "Lacul în sine a fost amenajat de arhitectul regal Jean Laborde.",
+        "Faimos pentru florile de Jacaranda care îl înconjoară în timpul primăverii.",
+        "Este un loc central pentru ceremoniile diplomatice și de comemorare.",
+        "Forma lacului este asemănătoare cu o inimă atunci când este privit de sus.",
+        "Cunoscut local drept „L'Ange Noir” (Îngerul Negru), deși este aurit."
       ]
     },
     {
-      "id": "sakoa-coal-economic-v2",
-      "descriptionAdvanced": "În bazinul arheologic Sakoa din sud-vestul extrem se ascund singurele rezerve substanțiale și cunoscute de cărbune (antracit și huilă) ale Madagascarului. Deși filonul uriaș de culoare neagră a fost exploatat intermitent și sărăcăcios la mijlocul secolului XX pentru a hrăni câteva trenuri cu aburi din perioada colonială, zona rămâne fundamental subdezvoltată. Astăzi, cu deficitul global de energie, proiectul Sakoa a reînviat masiv ambițiile de deschidere a unei mari cariere ce promite milioane de tone pe an orientate către centralele termice din India și China. Însă, absența unei căi ferate moderne care să lege zăcământul muntos izolat de un port maritim viabil (Toliara) ține în loc acest vis masiv de decenii de extracție a energiei fosile. Geografie K7 — combustibilii fosili solizi și limitele infrastructurii.",
+      "id": "phare-cap-minne-landmarks-v2",
+      "descriptionAdvanced": "Farul Cap Minne, situat la intrarea strategică în Golful Diego-Suarez (Antsiranana), este un gardian solitar al celei mai nordice coaste a Madagascarului. Construit la începutul secolului XX pentru a ghida navele prin pasajele înguste și periculoase ale celui de-al doilea cel mai mare golf natural din lume, farul este o piesă de inginerie maritimă esențială. Structura sa robustă de piatră albă contrastează puternic cu albastrul profund al Oceanului Indian și cu peisajul vulcanic accidentat din jur. Farul se află în apropierea unei zone cu fortificații militare vechi, amintind de importanța orașului Diego-Suarez ca bază navală franceză majoră. De pe platforma sa se poate observa spectaculoasa insulă Nosy Lonjo (Pâinea de Zahăr) și valurile care se sparg de stâncile Capului. Este o destinație deosebită pentru cei care caută să înțeleagă istoria maritimă a insulei și forța vânturilor Varatraza care domină regiunea. Geografie K6 — navigație maritimă și forme de relief de coastă.",
       "factsAdvanced": [
-        "Reprezintă la scară insulară zăcământul exclusiv unic de rocă solidă cărbunoasă (huilă/antracit).",
-        "Volumul geologic îngropat masiv se bucură de un plafon confirmat cu ușurință de zeci de milioane de tone.",
-        "Istoria sa de funcționare rudimentară datează din a doua eră război mondial târziu (1940 - 1950).",
-        "Este un sit plasat complet off-grid la zeci de kilometri dificili de cel mai apropiat drum asfaltat din sud-vest.",
-        "Planul viabil actual propus la scară globală implică construcția uluitoare a unui nou terminal maritim lângă Soalara.",
-        "Exploatarea efectivă ar schimba radical ecuația energetică a întregului stat, dependent azi strict de păcură."
+        "Ghidează navele prin intrarea îngustă a Golfului Diego-Suarez.",
+        "Construit de autoritățile coloniale franceze pentru securitatea bazei navale.",
+        "Situat pe o faleză înaltă, oferind vizibilitate pe zeci de mile marine.",
+        "Regiunea este cunoscută pentru vânturile foarte puternice și marea agitată.",
+        "În apropiere se află resturile bateriilor de coastă din cel de-al Doilea Război Mondial.",
+        "Farul este încă operațional, fiind administrat de autoritățile portuare.",
+        "Accesul la far oferă vederi unice spre Oceanul Indian și marea de coral.",
+        "Arhitectura sa simplă, cilindrică, este proiectată să reziste la cicloane."
       ]
     },
     {
-      "id": "fanalamanga-forestry-economic-v2",
-      "descriptionAdvanced": "Mergând de la capitală spre est, peisajul este înghițit complet de munții uniformi acoperiți cu pini zvelți ai companiei Fanalamanga. Această întreprindere uriașă deținută istoric de stat reprezintă o încercare curajoasă de a gestiona resursele forestiere ale națiunii, creând un ecosistem artificial de aproximativ 70.000 de hectare în jurul orașului Moramanga. Pepiniera enormă furnizează cantități impresionante de pin (Pinus patula), al cărui lemn masiv este vital atât pentru producția de mobilier național, cutii și bușteni, cât mai ales pentru rășină industrială și aprovizionarea cu mangal (cărbune de lemn) absolut indispensabil gătitului locuitorilor săraci din metropola Antananarivo. Aceste dealuri reprezintă cel mai bun exemplu al industriei forestiere intensive a insulei. Biologie K6 — silvicultura și monoculturile de pini.",
+      "id": "hotel-des-thermes-landmarks-v2",
+      "descriptionAdvanced": "Hotel des Thermes din Antsirabe este poate cea mai iconică structură hotelieră din Madagascar, reprezentând epoca de aur a turismului balnear de pe platoul central. Construit în 1897 și reconstruit într-un stil colonial francez grandios în 1922, hotelul se impune prin fațada sa galbenă, coloanele albe și grădinile impecabil întreținute. Situat chiar în fața izvoarelor termale, hotelul a fost conceput pentru a găzdui elitele europene și aristocrația malgașă care veneau „la băi” în climatul răcoros de la 1.500 m altitudine. O pagină celebră de istorie s-a scris aici în 1953, când regele Mohammed al V-lea al Marocului a fost trimis în exil de către francezi și a locuit în acest hotel timp de mai multe luni. Interiorul păstrează un aer nostalgic, cu tavane înalte și mobilier de epocă, fiind o fereastră vie către istoria diplomatică și socială a secolului trecut. Történelem K8 — exiluri regale și istoria termalismului.",
       "factsAdvanced": [
-        "A luat naștere masiv sub autoritatea guvernului central la începutul marilor planuri cincinale de stat din anul 1975.",
-        "Administrează cea mai vastă arie compactă forestieră din întreaga insulă cu o suprafață planificată de aproximativ 70.000 ha.",
-        "Este fundamentată complet ecologic pe o specie ne-nativă cu creștere exponențial rapidă (Pinus patula).",
-        "Furnizează o cotă uriașă la nivel național de materie primă prelucrată fin pentru chibrituri, carton și hârtie.",
-        "Rezervele sunt recoltate și uscate periodic masiv și de meșterii locali în masive cuptoare pentru indispensabilul cărbune.",
-        "Firma asigură pe statul de plată un venit permanent sigur pentru mii de gospodari ai satelor limitrofe districtului Moramanga."
+        "Locul de exil al regelui Mohammed al V-lea al Marocului în 1953-1954.",
+        "Inaugurat în forma sa actuală în 1922, fiind un exemplu de stil „Vichy”.",
+        "Reședința preferată a guvernatorilor francezi în timpul sezonului cald.",
+        "Dispune de acces direct la tratamentele cu apă termală radioactivă și minerală.",
+        "Situat chiar la capătul bulevardului principal al orașului Antsirabe.",
+        "Găzduiește un salon de ceai și o bibliotecă ce păstrează atmosfera anilor '20.",
+        "Arhitectura sa este definită de simetrie și de balcoane largi umbrite.",
+        "Este considerat unul dintre cele mai bine păstrate hoteluri istorice din Africa."
       ]
     },
     {
-      "id": "pecheries-nosy-be-economic-v2",
-      "descriptionAdvanced": "Compania Pêcheries de Nosy Be (PNB) definește de mai multe decenii peisajul economic intens debarcat al faimosului arhipelag de nord. Situată în Hell-Ville, această întreprindere și hală imensă industrială constituie sediul principal al uneia dintre cele mai vechi flote naționale axate pe captura valoroasă a creveților masivi sălbatici de mare adâncime (numiți și aurul roz malgaș). Vasele uriașe, traulere frigorifice complexe echipate din plin, părăsesc docul pentru expediții lunare de-a lungul coastelor vestice, revenind târziu cu zeci de tone pe care o armată de lucrători o curăță rapid și o sortează pentru exportul imediat congelat spre restaurantele rafinate din Europa. Fără activitatea sa uriașă pescărească, insula s-ar sprijini exclusiv pe hoteluri și turismul intermitent. Biologie K7 — acvacultura, flotele de traulere și exportul crustaceelor.",
+      "id": "morondava-mosque-landmarks-v2",
+      "descriptionAdvanced": "Marea Moschee din Morondava este un reper cultural și religios vital, reflectând diversitatea comunității de pe coasta de vest a Madagascarului. Cu arhitectura sa dominată de minarete zvelte și o fațadă de un alb imaculat, moscheea este inima spirituală pentru numeroșii musulmani de origine indiană, comoriană și malgașă care trăiesc în regiunea Menabe. Situată în apropierea piețelor aglomerate și a malului mării, moscheea simbolizează secolele de schimburi comerciale și culturale din Canalul Mozambic, unde influențele arabe s-au contopit cu tradițiile locale Sakalava. Clădirea nu este doar un loc de rugăciune, ci și un centru educațional, oferind cursuri de limbă arabă și teologie. Pentru vizitatori, moscheea reprezintă un contrast vizual plăcut față de clădirile coloniale degradate și oferă o imagine a coexistenței pașnice între diverse credințe într-un oraș cunoscut mai ales pentru baobabii săi. Geografie K5 — diversitate culturală și religioasă în orașele portuare.",
       "factsAdvanced": [
-        "Pilon de dezvoltare din 1969, având prima prezență comercială stabilă care viza creveții de coastă adâncă.",
-        "Garantează constant exportul masiv anual a mii de tone congelate brute spre marile lanțuri europene elitiste.",
-        "Operează logistica cu zeci de nave uriașe frigorifice cunoscute sub termenul maritim specific de traulere industriale.",
-        "În timpul respectării absolute a repausului biologic pescăresc, navele sunt intens reparate și docate în insulă.",
-        "Contribuie masiv la menținerea calitativă la cote înalte a standardelor sanitare ale Comunității Europene în țară.",
-        "Hala frigorifică imensă menține angajate permanent sute de femei locale specializate fin la decapitare și selectare."
+        "Cel mai important centru de cult islamic din regiunea Menabe.",
+        "Reflectă influența istorică a comercianților indieni de etnie Gujarat.",
+        "Se remarcă prin minaretele sale înalte, vizibile din multe puncte ale orașului.",
+        "Arhitectura îmbină stilul islamic modern cu adaptări la clima tropicală.",
+        "Comunitatea moscheii este activă în proiecte de asistență socială locală.",
+        "Situată strategic în zona comercială a orașului, aproape de bazar.",
+        "Adăpostește o curte interioară liniștită folosită pentru meditație.",
+        "Serviciile religioase sunt ținute în limbile malgașă, franceză și arabă."
       ]
     },
     {
-      "id": "somacou-textile-economic-v2",
-      "descriptionAdvanced": "Istoria modernă industrială malgașă include o componentă esențială de procesare a bumbacului, vizibilă la uzina uriașă SOMACOU. Funcționând ca un pivot absolut necesar în Antananarivo, această unitate colosală de prelucrare s-a distins pentru calitatea inegalabilă a pânzelor și acoperirilor de pat brodate manual care de zeci de ani protejează familiile africane. Deși globalizarea intensă a deschis piețele pentru zeci de companii de îmbrăcăminte rapide care au transformat Madagascarul într-un hub de prelucrare ieftină externă, SOMACOU se încăpățânează să rămână o prezență națională masivă independentă pe lanțul intern. Zgomotul mecanic masiv al sute de războaie de țesut gigantice ce țes fără oprire țesături grele face parte din patrimoniul vizual corporativ al metropolei. Tehnologie K6 — industria ușoară textilă africană.",
+      "id": "cathedrale-st-joseph-fianarantsoa-landmarks-v2",
+      "descriptionAdvanced": "Catedrala Sfântul Iosif din Fianarantsoa este piesa centrală a Orașului de Sus (Haute-Ville), fiind una dintre cele mai frumoase biserici catolice din Madagascar. Construită pe un pinten stâncos care domină întreaga regiune, catedrala este simbolul influenței intelectuale și spirituale a orașului Fianarantsoa. Arhitectura sa din piatră de granit și cărămidă nearsă reflectă măiestria constructorilor din etnia Betsileo, care au reușit să ridice această structură monumentală la sfârșitul secolului al XIX-lea. Drumul către catedrală șerpuiește prin străduțe înguste pietruite, oferind o atmosferă care amintește de satele medievale din Europa. Interiorul este sobru și solemn, cu ferestre înalte care lasă lumina montană să inunde naosul. Catedrala face parte din ansamblul istoric protejat de World Monuments Fund, fiind un pilon al educației și culturii creștine în sudul Madagascarului. Geografie K6 — arhitectura montană și centrele culturale regionale.",
       "factsAdvanced": [
-        "Reprezintă compania istorică legendară care definea standardul pânzei naționale durabile a gospodăriilor de pe insulă.",
-        "Terenul de producție se întinde pe vaste hale poziționate adânc în perimetrul principal estic urban Antananarivo.",
-        "Menține cu rigurozitate rețeta calității bumbacului solid filat masiv destinat uzului casnic robust de folosință.",
-        "Evoluția sa masivă a atras decenii de specializare unică a peste o mie de femei din mediul urban la mașinile gigant.",
-        "Uzina este capabilă a oferi cantități formidabile zilnice destinate uniformelor armatei sau echipamentului public de stat.",
-        "Compania a fost constant forțată deceniile trecute la o retehnologizare colosală contra exploziei importurilor asiatice ieftine."
+        "Inima spirituală a grupului etnic Betsileo din podișul central.",
+        "Situată la cea mai înaltă cotă a orașului istoric Fianarantsoa.",
+        "Construită integral din materiale locale: granit și argilă roșie.",
+        "Face parte dintr-un district protejat internațional pentru valoarea sa istorică.",
+        "Găzduiește un cor faimos la nivel național pentru muzica sa liturgică.",
+        "Oferă cea mai bună panoramă asupra teraselor de orez din jurul orașului.",
+        "Sediul unei dieceze catolice cu o lungă tradiție în domeniul educației.",
+        "A fost restaurată recent pentru a conserva zidăria originală afectată de umiditate."
       ]
     },
     {
-      "id": "antsingy-port-economic-v2",
-      "descriptionAdvanced": "Portul debarcader fluvial Antsingy oferă un instantaneu brut al vieții comerciale tradiționale dependente doar de ritmul marilor fluxuri de ape rurale de vest. Departe de marile nave de oțel moderne, acest doc colbuit pe râul Manambolo atrage cu greutate un roi haotic zilnic de zeci de pirogi lungi pline până la refuz cu vite, saci masivi de orez și bunuri africane de bază. Portul reprezintă cu adevărat ultima arteră serioasă de viață care menține un contact cu regiunea de neaccesat izolată unde tronează gresiile tsingy. Pe timpul ploilor, cheiul se pierde complet sub inundații agresive noroioase, însă în anotimpul secetos pe aici se vinde complet tot surplusul marfar, garantând existența grupurilor izolate. Geografie K6 — fluvii și logistica comercială de subzistență.",
+      "id": "pont-kamoro-landmarks-v2",
+      "descriptionAdvanced": "Podul Kamoro este o structură de o importanță strategică extremă, situată pe Route Nationale 4 (RN4), legătura vitală dintre Antananarivo și portul Mahajanga. Acest pod suspendat spectaculos traversează râul Kamoro și a fost construit inițial în perioada colonială franceză (1934), fiind una dintre lucrările de artă inginerească semnate de atelierele Giresse. Recent, un nou pod modern a fost construit chiar lângă cel vechi, cu sprijinul Băncii Mondiale, pentru a permite traficul greu și a asigura continuitatea comerțului național. Peisajul din jurul podului este unul de savană aridă, unde albia largă a râului Kamoro, adesea secată în sezonul uscat, se umple rapid de ape noroioase în timpul ploilor. Podul Kamoro reprezintă un punct de trecere critic pentru camioanele care transportă combustibil și mărfuri esențiale, fiind un simbol al provocărilor de infrastructură cu care se confruntă Madagascarul în zonele sale izolate. Geografie K7 — noduri de transport și infrastructură critică.",
       "factsAdvanced": [
-        "Unul dintre esențialele puncte logistice unice exclusiv pe malul noroios al puternicului râu vestic Manambolo.",
-        "Navele întâlnite aici sunt construite istoric integral manual din mari trunchiuri și denumite tradițional pirogi.",
-        "Operațiunile sunt fundamentate doar pe comerț local neorganizat, fără macarale de doc grele vizibile pe mal.",
-        "Fluviul reprezintă logistic ocolitoarea naturală gigantă forțată de imensa imposibilitate de penetrare a stâncilor Tsingy.",
-        "Volumul principal descărcat manual este alcătuit simplu din mari recolte de pește de apă dulce (tilapia) uscat/afumat.",
-        "Cheiul ad-hoc este invadat pe sezon de musoni masivi și colmatat de aluviuni, mutându-și constant limitele fixate."
+        "Cel mai lung pod suspendat de pe Route Nationale 4, legând centrul de nord-vest.",
+        "Podul original din 1934 a fost o minune tehnică a epocii sale.",
+        "Un nou pod paralel a fost inaugurat în 2017 pentru a susține vehicule de mare tonaj.",
+        "Traversează râul Kamoro, un afluent important al fluviului Betsiboka.",
+        "Păstrează designul iconic de pod suspendat cu stâlpi metalici înalți.",
+        "Economia nordului depinde în totalitate de funcționarea acestui punct de trecere.",
+        "Regiunea înconjurătoare este patria unor specii rare de păsări de pradă.",
+        "Podul este situat într-o zonă de stepă cu temperaturi foarte ridicate vara."
       ]
     },
     {
-      "id": "maintirano-port-economic-v2",
-      "descriptionAdvanced": "Pe plajele îndepărtatei regiuni vestice Melaky, Maintirano stă de pază în fața apelor agitate din Canalul Mozambic drept un port a cărui relevanță vine în principal din izolarea sa extremă terestră. Deservit de drumuri frecvent declarate impracticabile național pe termen lung, acest orășel este complet dependent de acostarea micilor cargoboturi ce vin pe mare să încarce capturile uriașe tradiționale de crabi rari, castraveți de mare valoroși (trepang) și creveți destinați exporturilor scumpe. Zidurile și casele portuare pur și simplu vibrează când vasul lunar se zărește la orizont aducând combustibilul și produsele absolut necesare de larg consum, subliniind dur o situație clasică a decuplajelor regiunilor de coastă de restul statului central. Geografie K7 — izolarea regională și economia fructelor de mare.",
+      "id": "university-of-antananarivo-landmarks-v2",
+      "descriptionAdvanced": "Universitatea din Antananarivo, situată pe colina Ankatso, este cea mai veche și prestigioasă instituție de învățământ superior din Madagascar. Campusul său vast, caracterizat printr-o arhitectură funcționalistă din anii '60 și '70, domină partea de est a capitalei. Universitatea a fost martora multor mișcări politice și sociale care au modelat istoria țării, fiind epicentrul protestelor studențești care au dus la schimbări de regim în repetate rânduri. Cu facultăți variind de la Științe și Litere până la Medicină și Drept, Ankatso este locul unde se formează elita intelectuală a țării. Deși se confruntă cu provocări legate de subfinanțare și suprapopulare, universitatea rămâne un far al cercetării științifice, găzduind centre importante de studiu al biodiversității și al limbii malgașe. Atmosfera campusului este una efervescentă, cu mii de studenți veniți din toate regiunile insulei pentru a învăța. Társadalom K8 — educația superioară și rolul tineretului în politică.",
       "factsAdvanced": [
-        "Reședința portuară absolută a provinciei Melaky, una dintre cele mai insulare geografic regiuni terestre din stat.",
-        "Economia malurilor este sprijinită strict de tranzitul vaselor goelete, fără infrastructură mecanică serioasă fixă de descărcare.",
-        "Traficul se mândrește intens cu colectarea castraveților marini uscați masiv, extrem de valoroși pe marile piețe medii din Asia.",
-        "Depinde majoritar și periculos de mult de micul aeroport de pământ limitrof pentru orice aprovizionare rapidă pe cod roșu.",
-        "Fluxurile sunt adesea sistate cu zilele de curenții de flux gigantici extremi și marea de mică adâncime de pe faleză.",
-        "Sutele de comunități rurale din zonă folosesc exclusiv portul ca unică speranță stabilă la alimente de import esențiale (ulei, zahăr)."
+        "Fondată oficial în 1961 ca prima universitate națională a Madagascarului.",
+        "Campusul principal este situat la Ankatso, pe un deal ce oferă vederi largi.",
+        "Găzduiește peste 30.000 de studenți în diverse domenii de specializare.",
+        "Deține cel mai important departament de studii malgașe din lume.",
+        "Grădina botanică universitară protejează specii vegetale endemice rare.",
+        "Este un centru istoric al activismului politic și al dezbaterilor democratice.",
+        "Aici funcționează Observatorul de Geofizică, vital pentru monitorizarea seismelor.",
+        "Include clădiri proiectate în stil modernist tropical de arhitecți francezi."
       ]
     },
     {
-      "id": "sainte-marie-port-economic-v2",
-      "descriptionAdvanced": "Ambodifotatra nu e doar o oprire istorică spectaculoasă plină de ecourile unor corsari, ci este în primul rând singura gură deschisă maritim a micii insule Sainte-Marie (Nosy Boraha). Pentru mia de localnici și hotelieri pretențioși izolați de ocean, docul îngust reprezintă de facto totul. Dimineața devreme, docul pulsează mecanic fiind umplut de stive colosale cu materiale de construcție și saci grei preluați de pe feriboturile "El Condor" sau "Melissa", în timp ce localnicii copleșesc locul încărcând cantități prețioase de condimente aromate – cuișoarele și pudra scumpă de vanilie – spre marea insulă-mamă. Acesta e punctul zero al oricărui balet comercial, incluzând urcarea turiștilor în vasele speciale orientate spre faimoasele expediții globale masive de observare oceanic a balenelor uriașe cu cocoașă. Economie K6 — logistica portuară a insulelor turistice mici.",
+      "id": "chateau-d-eau-amparibe-landmarks-v2",
+      "descriptionAdvanced": "Castelul de Apă din Amparibe este un turn istoric de o eleganță surprinzătoare, situat pe una dintre colinele centrale ale capitalei Antananarivo. Construit la începutul secolului XX pentru a asigura presiunea apei în zonele înalte ale orașului, acest turn nu este doar o facilitate tehnică, ci un monument arhitectural în sine. Designul său combină funcționalitatea inginerească cu detalii decorative ce amintesc de turnurile cetăților europene, fiind construit din cărămidă roșie arsă și piatră de munte. Situat într-un cartier istoric, Castelul de Apă oferă o perspectivă interesantă asupra dezvoltării urbane a orașului sub administrația generalului Gallieni, care a dorit modernizarea infrastructurii malgașe. Turnul rămâne un punct de reper vizual important pentru orientarea în labirintul de străzi abrupte ale capitalei. Astăzi, deși sistemele de alimentare au fost modernizate, turnul de la Amparibe stă ca o mărturie a primelor eforturi de sistematizare a rețelelor de utilități urbane în Madagascar. Geografie K5 — infrastructura urbană și gestiunea apei.",
       "factsAdvanced": [
-        "Punctul vamal comercial primar obligatoriu al uriașei insule liniștite exclusiviste tropicale, faimoasa Sainte-Marie.",
-        "Reprezintă baza logistică supremă anuală pentru flotele vaselor care urmăresc marile grupuri masive de balene cu cocoașă.",
-        "Exportul uriaș de muguri ascuțiți prețioși de cuișoare (girofle) din plantațiile aliniate traversează unic pe docul său.",
-        "Logistica maritimă uriașă o face principal port receptor care asigură fluxurile cu apă pură minerală și sticle de import.",
-        "Este dominat central și vizual copleșitor de o uriașă ancoră marină veche monumentală lăsată istoric din era corsarilor.",
-        "Transportul regulat zilnic masiv de pasageri dinspre orașul-mamă Soanierana Ivongo îl transformă într-un debarcader efervescent."
+        "Unul dintre primele mari rezervoare de apă construite în Antananarivo.",
+        "Arhitectură în stil industrial colonial cu elemente decorative medievale.",
+        "Situat pe colina Amparibe, un punct strategic pentru distribuția gravitațională.",
+        "A fost vital pentru combaterea incendiilor frecvente din perioada colonială.",
+        "Păstrează mecanisme de pompare originale de fabricație franceză.",
+        "Turnul este încă folosit de compania națională de apă, JIRAMA.",
+        "Constituie un subiect favorit pentru artiștii locali de acuarelă.",
+        "Regiunea din jur este marcată de case aristocratice Merina vechi."
       ]
     },
     {
-      "id": "soavoanio-coconut-economic-v2",
-      "descriptionAdvanced": "Spre sudul marelui hub Sambava pe litoralele de nord-est, compania mixtă agricolă de stat SOAVOANIO sfidează orizontul printr-un monolit agrar: este cel mai uriaș palmier din Oceanul Indian. Având sub îngrijire uluitoarea suprafață de aproximativ 5.000 de hectare acoperite exclusiv, rând pe rând simetric gigant, cu palmieri hibrizi, firma extrage fructele nucilor de cocos printr-un efort de muncă asiduu ce implică mii de țărani recolteori locali. Odată coborâte din copaci, nucile sunt sparte și golite manual, transformate rapid în depozite uriașe în miez de copra (pulpa albă deshidratată urât mirositoare), ce pleacă în containere internaționale pentru a fi prelucrat ca ulei fin extrem de scump dedicat industriilor de săpun și cosmetice corporatiste franceze și elvețiene. Biologie K7 — ecosistemele de coastă și industria uleiurilor de palmier.",
+      "id": "port-of-toamasina-landmarks-v2",
+      "descriptionAdvanced": "Portul Toamasina (Tamatave) este cel mai mare și important port maritim din Madagascar, gestionând peste 80% din traficul comercial extern al țării. Situat pe coasta de est, la Oceanul Indian, portul este o poartă vitală pentru exporturile de vanilie, cuișoare și minerale, dar și pentru importul de bunuri de larg consum și combustibili. Infrastructura sa masivă include dane specializate pentru containere, terminale petroliere și silozuri de cereale, fiind motorul economic al regiunii Atsinanana. Recent, portul a trecut printr-un proces major de extindere finanțat de parteneri internaționali, transformându-se într-unul dintre cele mai moderne porturi din Africa de Est. Vizita la port oferă o imagine fascinantă a globalizării economiei malgașe, unde nave cargo uriașe se întâlnesc cu ritmul rapid al logisticienilor locali. Securitatea sa și adâncimea apelor fac din Toamasina singurul port capabil să primească nave de mare tonaj în mod regulat. Wirtschaft K7 — comerț maritim și logistică portuară.",
       "factsAdvanced": [
-        "Întreprinderea gigantică de stat cu capital de tip hibrid poartă cu mândrie numele complet "Société Sambava Voanio".",
-        "Palmierul hibrid predominant a fost selectat în laboratoare și importat riguros inițial din îndepărtata Coastă de Fildeș.",
-        "Se mândrește internațional de a fi cotată cu respect ca cea mai extinsă livadă compactă gigantică de cocos din toată lumea.",
-        "Fructele obținute, zeci de mii pe zi absolută, sunt supuse expunerii extreme și uscării solare devenind dureros de uscată "copra".",
-        "Oferă de decenii de stabilitate socială și locuri imense de masă salariale unui ecosistem rural dens populat și vulnerabil nordic.",
-        "Sezonier zona plantațiilor nesfârșite intră sub cod roșu maxim la pericole uriașe ale dezrădăcinărilor generate de ciclonii devastatori."
+        "Nodul central al comerțului internațional din Madagascar.",
+        "Gestionează majoritatea exporturilor de vanilie și nichel ale țării.",
+        "Posedă o zonă de liber schimb care atrage investiții străine.",
+        "Este conectat prin calea ferată direct cu capitala Antananarivo.",
+        "A beneficiat de o extindere masivă cu o investiție de peste 600 milioane USD.",
+        "Terminalul de containere este operat de companii de logistică globale.",
+        "Situat într-un golf protejat de recife, dar expus ciclonilor tropicali.",
+        "Angajează direct și indirect mii de persoane, fiind cel mai mare angajator regional."
       ]
     },
     {
-      "id": "ambohimanga-royal-hill-history-v2",
-      "descriptionAdvanced": "Dealul Regal impunător din Ambohimanga este, fără îndoială, sanctuarul istoric și inima simbolică absolută de la care s-a clădit marea unificare a teritoriilor din interiorul Madagascarului. Înconjurat de un șir dublu masiv unic de ziduri defensive gigantice și șanțuri, ansamblul fortificat acoperit de pădure reprezenta fosta reședință capitală a marelui cuceritor Merina, Regele Andrianampoinimerina. Porțile de piatră colosale rotunde care păzesc fortul (printre care celebra poartă Ambatomitsangana ce necesita munca a zeci de oșteni pentru a se închide seara) au asigurat secole orașul regal rămas inaccesibil europenilor. Fiind unul dintre foarte puținele situri UNESCO de valoare supremă din țară, colina este loc de venerație continuă pentru regii străvechi asigurați mistic cu sânge de zebu. Istorie K8 — consolidarea puterii și regatul Merina.",
+      "id": "tour-zital-landmarks-v2",
+      "descriptionAdvanced": "Turnul Zital este una dintre cele mai înalte și moderne clădiri din Antananarivo, situată în cartierul industrial și comercial Ankorondrano. Această structură de sticlă și oțel reprezintă fața nouă, corporatistă a Madagascarului, găzduind sedii de companii internaționale, bănci și birouri diplomatice. Situat în „zona de afaceri” a capitalei, Turnul Zital contrastează puternic cu casele tradiționale de cărămidă de pe dealurile din jur, simbolizând aspirațiile de creștere economică și integrare globală ale țării. Zona Ankorondrano, unde se află turnul, a fost transformată dintr-o zonă mlăștinoasă într-un hub tehnologic și comercial modern. Clădirea oferă facilități de ultimă oră, inclusiv conectivitate prin fibră optică și sisteme de securitate avansate, fiind un reper pentru sectorul privat malgaș. Pentru observatorii urbani, Turnul Zital este un indicator al schimbării peisajului urban dinspre zonele istorice de pe dealuri către câmpiile dezvoltate recent. Wirtschaft K6 — dezvoltare urbană modernă și sectorul serviciilor.",
       "factsAdvanced": [
-        "Include reședința centrală regală conservată original masiv formată din lemn negru scump de palisandru masiv așezată la mare altitudine.",
-        "Este desemnat cu faimă din anul unic 2001, loc aparținător și complet apărat al Marelui Patrimoniu imens Mondial de către UNESCO.",
-        "Zidul uriaș antic circular fortificat a fost obținut istoric printr-un ciment tradițional puternic lipit chimic prin utilizarea albușurilor de ouă uriașe.",
-        "Tradiția spirituală vie locală indică fortăreața Ambohimanga ca locul mistic suprem rezervat exclusiv contactului cu sufletele ancestrale regale supreme.",
-        "Include celebre bazine colosale adânci săpate fin artizanal direct în pântecele stâncii dure pentru purificările exclusiviste dedicate soțiilor misticului monarh.",
-        "La origine zona sfântă interzicea și pedepsea ferm complet sub osândă capitală pătrunderea în poartă a porcilor și a străinilor cetățeni albi."
+        "Unul dintre puținii „zgârie-nori” moderni din inima Madagascarului.",
+        "Situat în zona economică exclusivă Ankorondrano din Antananarivo.",
+        "Găzduiește birouri ale Uniunii Europene și ale altor organisme internaționale.",
+        "Designul său arhitectural pune accent pe transparență și eficiență energetică.",
+        "Reprezintă polul de atracție pentru investițiile în tehnologie și telecomunicații.",
+        "Dispune de o vedere panoramică asupra zonelor joase ale capitalei.",
+        "Turnul a contribuit la creșterea prețului terenurilor în nordul orașului.",
+        "Simbolizează trecerea economiei malgașe spre servicii și business digital."
       ]
     },
     {
-      "id": "rova-antananarivo-history-v2",
-      "descriptionAdvanced": "Profilându-se magnific la peste 1.400 de metri deasupra vârfurilor de case urbane, complexul enorm al Palatului Regal (Rova din Antananarivo sau Manjakamiadana) reprezintă atât măreția istorică apusă a dinastiei uriașe Merina cât și memoria sa traumatică absolută. Construit ca focarul uriaș politic central monarhic inițial din sute de bârne uriașe neprețuite aduse brutal din est și înconjurat mai apoi de mari ziduri maiestuoase de piatră în stilul inconfundabil victorian (din ordinal Reginei Ranavalona a II-a și creat prin geniul misionarului gigant James Cameron), palatul a pierdut totul într-un uriaș și sfâșietor incendiu fatal în noaptea infamă fatidică de la finalul anului 1995. Ridicat din cenușa groasă în mod spectaculos doar decenii mai târziu, ansamblul regal este considerat templul suprem, stâlp vizual irezistibil de orientare și inima națională pentru locuitorii capitalei malgașe. Istorie K7 — capodopere arhitecturale, monarhie și tragedie.",
+      "id": "tulear-sea-museum-landmarks-v2",
+      "descriptionAdvanced": "Muzeul Mării din Toliara (Musée de la Mer), administrat de Institutul de Cercetări Oceanografice (IHSM), este o instituție științifică unică situată pe coasta de sud-vest a Madagascarului. Muzeul este celebru la nivel mondial pentru că adăpostește un exemplar conservat de Coelacanth, celebrul „pește fosilă” despre care se credea că a dispărut odată cu dinozaurii, până când a fost redescoperit în apele adânci ale Canalului Mozambic. Colecția muzeului include o varietate impresionantă de corali, scoici uriașe, specii de pești endemici și informații despre ecosistemele de recif barieră din apropiere. Muzeul joacă un rol educațional crucial, explicând importanța conservării biodiversității marine pentru supraviețuirea comunităților de pescari Vezo. Deși mic și modest ca amenajare, valoarea sa științifică este imensă, fiind un punct focal pentru cercetătorii marini din tot bazinul Oceanului Indian. Biologie K7 — oceanografie și specii marine relicte.",
       "factsAdvanced": [
-        "Punctul suprem urban cel mai măreț poziționat de departe superior falnic peste aglomerația capitalei naționale uriașe africane (Punctul Analamanga).",
-        "Clădirea uriașă exterioară centrală masivă cu impunătoare coloane albe sculptate fine (Manjakamiadana) tronează impunător adăugată original pe structura mare lemnoasă anterioară.",
-        "Este faimos adăpostitor istoric vechi oficial și funerar grandios destinat exclusiv multiplelor cavouri masive grandioase unice a capetelor suveranilor dinastici majori.",
-        "A fost lovit dur de o dramă colosală extremă națională de doliu complet ca urmare a distrugerii masive din misteriosul dezastruos foc uriaș din noiembrie 1995.",
-        "Reconstrucția complexă a grandiosului sit regal malgaș istoric a generat masive eforturi populare de lungă durată din solidaritatea națională masivă absolută malgașă.",
-        "La origini curtea uriașă masivă colosală includea palatul special "Besakana" cu pilonul central uriaș (andry) care venera ancestral marile forțe astrale."
+        "Adăpostește un exemplar de Coelacanth, considerat o fosilă vie.",
+        "Administrat de Institut Halieutique et des Sciences Marines (IHSM).",
+        "Situat chiar pe faleza orașului Toliara, lângă port.",
+        "Prezintă o colecție vastă de echinoderme și moluște din Canalul Mozambic.",
+        "Un centru de educație ecologică pentru protejarea recifului barieră Toliara.",
+        "Găzduiește expoziții despre tehnicile de pescuit tradițional ale poporului Vezo.",
+        "Singurul muzeu de acest profil din întreaga țară.",
+        "A fost implicat în numeroase misiuni de cercetare marină internațională."
       ]
     },
     {
-      "id": "ile-sainte-marie-pirate-cemetery-history-v2",
-      "descriptionAdvanced": "Scufundat complet în frunzișul de liane bogate exotice de pe mica și liniștita insulă estică Île Sainte-Marie se găsește unul dintre puținele locuri unice istorice veritabile rămase mondial vizuale care atestă epoca sumbră legendară a glorioaselor hoții marine: Cimitirul Piraților. Ascunse și pe alocuri scufundate direct masiv în mlaștini argiloase, pietrele masive mortuare uzate, așezate neregulat în dealul micuț ce veghează apele protejate ale insulei, etalează pe ici pe colo decorațiuni șocante în relief sculptate cu vechile motive inconfundabile infame masive, faimosul și clasicul craniu dur de os așezat dur deasupra a două masive oase încrucișate. Cimitirul sumbru a devenit vizual epicentrul romantizat masiv global al perioadei piraților sângeroși liberi faimoși vestiți (cum era de temut francezul La Buse și notoriul La Forban). Istorie K7 — epoca de aur a pirateriei globale.",
+      "id": "ambalonamana-market-hall-landmarks-v2",
+      "descriptionAdvanced": "Hala Pieței Ambalonamana din Fianarantsoa este inima comercială a regiunii Betsileo și un monument al vieții cotidiene malgașe. Această structură istorică, situată în Orașul de Sus, este locul unde tradiția se întâlnește cu comerțul agitat. Hala este renumită pentru diversitatea produselor artizanale, în special pânzeturile țesute manual și coșurile de rafie de o calitate excepțională, specifice zonei centrale. Arhitectura clădirii, cu arcade și acoperișuri de țiglă, reflectă stilul hibrid franco-malgaș al începutului de secol XX. Piața nu este doar un loc de schimb economic, ci și un spațiu social vital unde se află ultimele noutăți ale comunității și unde se practică arta negocierii. Pentru vizitatori, Ambalonamana este o explozie de culori și mirosuri, de la condimente proaspete la cereale și tutun local. Importanța sa este atât de mare încât a fost inclusă în programele de conservare a patrimoniului urban din Fianarantsoa. Wirtschaft K5 — piețe tradiționale și economie artizanală.",
       "factsAdvanced": [
-        "Reprezintă unul deosebit și vizual notoriu faimos dintre rarele masive și atestate sigure cimitire globale destinate exclusiv trupurilor piraților fioroși.",
-        "Stâncile sale se poziționează grandios pe teritoriul mistic ridicat a insulei izolate liniștite exclusiviste Sainte-Marie la un mic bazin liniștit malgaș adânc.",
-        "Mormintele reci găzduiesc lespezi de dimensiuni modeste din stâncă grea marcate adânc vizual cutremurător gravat faimosul însemn antic pirațesc internațional de groază dură.",
-        "Insula pe care își dorm legendar colosalul somn reprezenta gigantul sanctuar logistic absolut liber comercial ascuns pentru corsarii evadați colosali liberi.",
-        "Starea gravă de conservare a lespezilor a suferit uriaș de mult distrugere colosală datorită frecvențelor și marilor masive inundații ciclonice estice gigantice.",
-        "Printre pietrele colosale acoperite misterios intens de vegetația abundentă gigantică s-ar specula global turistic îngroparea inclusiv a vestitului căpitan global La Buse."
+        "Principalul centru de comerț cu textile Betsileo tradiționale.",
+        "Clădire istorică situată în districtul protejat Haute-Ville.",
+        "Cunoscută pentru calitatea excepțională a produselor de împletit din rafie.",
+        "Punct de colectare pentru cerealele și legumele din podișul central.",
+        "Arhitectura combină piatra de granit cu feroneria colonială.",
+        "Hala funcționează zilnic, dar piețele mari au loc în zile specifice.",
+        "Reprezintă o destinație turistică majoră pentru suveniruri autentice.",
+        "Recent restaurată pentru a menține structura originală a acoperișului."
       ]
     },
     {
-      "id": "fianarantsoa-old-town-history-v2",
-      "descriptionAdvanced": "Orașul Istoric Vechi (Haute Ville) din faimosul district muntos central Fianarantsoa stă cu o grație formidabilă agățat pitoresc de pantele de mari dimensiuni stâncoase abrupte estice ale văii colosale superioare montane. Construit inițial strategic militar din porunca absolută regală a nemiloasei suverane Merina Ranavalona întâia, care a vizat duplicarea masivă colosală fidelă a arhitecturii din inima capitalei imperiale Antananarivo, zona deține uluitor peste 500 de case impunătoare cu două nivele din cărămidă brută roșiatică masivă, balcoane magnifice extinse cu grinzi din lemn greu nobil dens (precum palisandrul antic sculptat elaborat) flancate vizual maiestuos de labirinturi pietruite lungi și înguste abrupte uriașe masive pitorești superbe. Datorită farmecului intact de mai multe veacuri unice a fost catalogat de mare valoare cu recunoaștere globală mondială salvatoare excepțională în lista monumentelor globului (World Monuments Watch). Geografie K8 — evoluția așezărilor istorice protejate urban.",
+      "id": "nosy-be-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "Farul de pe insula Nosy Be, situat strategic pe coasta de nord, este un monument istoric care a ghidat generații de navigatori prin apele arhipelagului. Ridicat în perioada colonială franceză pentru a asigura siguranța navelor care aduceau mărfuri și turiști pe „Insula Parfumurilor”, farul este o structură robustă și elegantă. Deși tehnologia modernă de navigație a redus dependența de el, farul rămâne un punct de referință vizual și un obiectiv turistic popular datorită panoramei spectaculoase pe care o oferă asupra Oceanului Indian și a insulelor vecine. Drumul către far trece prin plantații de Ylang-Ylang și cafea, oferind o experiență senzorială completă a insulei. Farul simbolizează legătura istorică a insulei Nosy Be cu rutele comerciale maritime și rolul său de hub de transport în nord-vestul Madagascarului. Este un loc ideal pentru a observa apusurile de soare legendare ale regiunii. Geografie K6 — sisteme de navigație și peisaje insulare.",
       "factsAdvanced": [
-        "Sectorul uriaș de clădiri vechi cu arhitectură colosală a fot oficial de mare interes preluat de experții faimosului World Monuments Watch de elită mondială protectoare.",
-        "Deține un labirint colosal pietonal imens impresionant lipsit complet general vizual de influența masivă rutieră uriașă auto tradițională clasică auto modernă asurzitoare.",
-        "A fost clădit absolut intenționat masiv simbolic de conducerea regală strictă a suveranei dure uriașe gigant Ranavalona drept oglindă directă regală pentru uriașul Antananarivo.",
-        "Găzduiește pe creasta cea mai masivă înaltă dominantă prima școală importantă monumentală clădită veche istoric cu piatră gigantică adusă cu mare chin protestantă.",
-        "Materialele uriașe din vechea argilă și uluitoarele zeci de fundații de grinzi groase gigant arată amprenta artei zidarilor locali meșteri geniali aparținând grupului Betsileo.",
-        "Oferă de la înălțime masivă cea mai cuprinzătoare vizuală imagine gigantică turistică faimoasă dinspre platoul central asupra marelui Lac verde Anosy situat la fundul văii."
+        "Unul dintre cele mai vechi repere de navigație din nordul Madagascarului.",
+        "Oferă o vedere panoramică de 360 de grade asupra arhipelagului Nosy Be.",
+        "Construit cu piatră bazaltică locală și mortar de var.",
+        "Situat în apropierea unor plaje izolate și a unor rezervații marine.",
+        "A supraviețuit numeroaselor cicloane tropicale datorită construcției sale solide.",
+        "Punct de reper pentru ambarcațiunile tradiționale (boutres) și iahturile moderne.",
+        "Găzduiește în apropiere mici comunități de pescari tradiționali.",
+        "Arhitectura sa este o atracție pentru pasionații de fotografie maritimă."
       ]
     },
     {
-      "id": "fort-dauphin-tolanaro-history-v2",
-      "descriptionAdvanced": "În izolarea dură dar incredibil de luxuriantă din sud-est, la marginea stâncoasă a uriașelor creste Taolagnaro, francezii au întemeiat masiv legendara bază comercială maritimă istorică Fort-Dauphin la începuturile crude ale epocii de colonizare de proporții globale din secolul XVII (1643). Gândit de la origine sub auspiciile colosale și controlul exclusiv masiv puternic ale giganticei monopoliste Companii Franceze a Indiilor Orientale fondate regal, fortul inițial construit greu defensiv servea din greu un focar absolut esențial logistic naval și barieră armată pe dificila rută vestică colonială mondială globală teribilă colosală extremă orientată puternic masiv spre comerțul de mirodenii indian opulent din est. Furtunile crunte extrem masive și mai presus rebeliunile aprige dure uriașe cu localnicii Antanosy au izolat și părăsit des grandioasa bază navală armată uriașă lăsând un oraș marcat masiv etern plin de misterioase vechi tunuri. Istorie K8 — avanposturile coloniale primordiale strategice din secolele uitate XVII.",
+      "id": "fort-flacourt-ruins-landmarks-v2",
+      "descriptionAdvanced": "Ruinele Fortului Flacourt din Tôlanaro (Fort-Dauphin) sunt vestigiile celei mai vechi așezări franceze permanente din Madagascar, datând din 1643. Situat pe un promontoriu stâncos care domină Oceanul Indian, fortul a fost numit după Etienne de Flacourt, guvernatorul care a explorat și documentat pentru prima dată flora și fauna insulei. Ruinele păstrează ziduri groase de piatră, bastioane de apărare și tunuri vechi care priveau spre mare pentru a respinge atacurile piraților sau ale triburilor locale ostile. Situl este de o importanță istorică crucială, marcând începutul prezenței europene sistematice în Madagascar și conflictele timpurii pentru controlul resurselor. Vizitarea fortului oferă o perspectivă asupra dificultăților întâmpinate de primii coloniști și asupra modului în care arhitectura militară a fost adaptată mediului tropical. Astăzi, situl este un muzeu în aer liber, oferind o lecție vie de istorie colonială și o panoramă superbă asupra golfului. Történelem K8 — primele colonii europene și Etienne de Flacourt.",
       "factsAdvanced": [
-        "A primit original numele aristocratic colonial în mod solemn măreț la nivel mondial național pentru micul fiu viitor onorat de monarhul Ludovic al 14-lea gigant masiv francez uriaș.",
-        "Aparține listei istorice restrânse ca fiind așezare masivă oficial unică prima gigant permanent din țară aparținând coloniștilor pionieri francezi timpurii uitați navali masivi.",
-        "Zidul uriaș de tip cazarmă dur al garnizoanei părăsite păstrează un șir colosal uluitor intact istoric veridic de masive faimoase antice mari și înspăimântătoare gigantice tunuri maritime apărate brutal.",
-        "Fondarea grandioasă colosală s-a făcut vizual sub comanda nemiloasă navală și dureroasă imensă colonială condusă ferm militar din ordine de vestitul uriaș temut comandant marin de proporții Sieur faimos de Pronis.",
-        "Amplasamentul fortăreței uriașe gigant stă poziționat periculos uriaș dominând spectaculos agresiv stâncile abrupte colosale vulcanice protejând strategic perfect cu artileria o masivă minunată și extinsă imensă prețioasă uriașă baie marină extremă stâncoasă oceanică colosală izolată.",
-        "Supraviețuirea de proporții logistice a zecilor de soldați masivi izolați în garnizoana dură enormă atârna exclusiv și fragil periculos strict total pe comerțul cu ambarcațiunile masive pânză fregate europene întârziate masiv colosal oceanic."
+        "Prima așezare franceză fortificată de pe insula Madagascar (1643).",
+        "Numit după Etienne de Flacourt, autorul primei enciclopedii a insulei.",
+        "Situat pe o locație strategică cu vedere asupra Golfului Tôlanaro.",
+        "Păstrează tunuri de fier originale din secolul al XVII-lea.",
+        "A fost centrul primei încercări eșuate de colonizare a Madagascarului.",
+        "Găzduiește un mic muzeu cu obiecte arheologice găsite în sit.",
+        "Zidurile fortului sunt construite din piatră de granit legată cu mortar de corali.",
+        "Reprezintă locul de naștere al orașului modern Fort-Dauphin."
       ]
     },
     {
-      "id": "prime-minister-palace-andafiavaratra-history-v2",
-      "descriptionAdvanced": "Situat pe uriașa platformă a dealurilor Analamanga superioare din inima Antananarivo, colosalul și falnicul Palat somptuos gigantic masiv victorian de sticlă roșie numit istoric și măreț Andafiavaratra reprezintă dinastia reală politică, fiind fosta măreață reședință uriașă regală masivă privată absolută a Prim-Ministrului dominant dur extrem Rainilaiarivony de a lungul finalului exploziv global din secolul faimos colosal nouăsprezecelea. Proiectat arhitectural britanic colosal superb din mii de cărămizi gigantice impecabil vizual aranjate greu imperial, edificiul uriaș are falnic patru maiestuoase cupole cu acoperiș elegant bombat, impunând vizual o imagine rară a forței puterii executive masive gigant din spatele monarhiilor oficiale reginelor absolute din fațadă. Funcționând istoric în mare taină extrem masiv un focar al controlului absolut uriaș birocratic de fier enorm decizional, astăzi sediul a fost reconvertit oficial istoric monumental servind public naționalului gigant extrem de apreciat muzeu spectaculos vizual unde arde flacăra rezistenței de amintiri prețioase. Istorie K8 — birocrația de palat și guvernarea absolută.",
+      "id": "palais-justice-amboasary-landmarks-v2",
+      "descriptionAdvanced": "Palatul de Justiție din Amboasary este o clădire administrativă impunătoare care reflectă eforturile de modernizare instituțională în zonele rurale din sudul Madagascarului. Construit într-un stil care îmbină funcționalitatea modernă cu elemente de design local, palatul este sediul autorității judiciare pentru un district vast, marcat de conflicte legate de posesia pământului și de furturile de vite zebu. Clădirea se remarcă prin prezența sa solidă într-un peisaj dominat de praf și vegetație aridă, fiind un punct de referință pentru comunitatea locală. Situat în apropierea drumului național RN13, Palatul de Justiție joacă un rol social crucial, fiind locul unde se soluționează disputele între clanurile de păstori și unde se aplică legile republicii. Arhitectura sa ordonată și curtea largă oferă o imagine de stabilitate și ordine într-o regiune adesea marcată de provocări de securitate. Este un monument al prezenței statului în cele mai îndepărtate colțuri ale insulei. Társadalom K7 — instituțiile statului și legea în zonele rurale.",
       "factsAdvanced": [
-        "Edificiul colosal victorian enorm uriaș de culoare sângerie tronează colosal din anul de fondare masiv 1872 absolut uriaș extrem vizual glorios de mândru.",
-        "Este conceput complet arhitectural enorm și monumental istoric masiv gigantic la exterior pe o schemă exclusivă dominată vizual extrem spectaculos și rar global unic faimos cu fix patru acoperișuri masive domuri turnate.",
-        "A deservit funcțional masiv unică uluitoare excepțională istoric lung absolut rol funcțional ca inima sediului exclusiv total guvernamental birocratic de putere politică uriașă gigant condus din umbră masiv de puternicul Rainilaiarivony.",
-        "Reprezintă adăpost oficial grandios uriaș absolut spectaculos la ora actula națională unică salvator pentru salvarea incredibilă monumentală inestimabilă masivă valoare relicve unice salvate din marele Rova mistuit ars masiv.",
-        "Poziționarea geografică urbană se regăsește absolut perfect dominant imediat vizual de un rang apropiat adiacent în raport vizibil concurent uriaș regal enorm lângă colosalul sediu complex regal masiv colosal Manjakamiadana de pe colina înaltă.",
-        "A rezistat norocos miraculos uluitor unic integral incendierii masive vecine mari fără nicio uriașă distrugere, devenind adăpost masiv istoric uluitor salvator gigantic prețios relicvar istoric neprețuit salvat la foc imens colosal."
+        "Principalul sediu al autorității judiciare din districtul Amboasary.",
+        "Arhitectură modernă adaptată la climatul extrem de cald al sudului.",
+        "Centru vital pentru medierea conflictelor legate de creșterea vitelor zebu.",
+        "Situat strategic pentru a deservi populația din regiunile Anosy și Androy.",
+        "Clădirea dispune de sisteme de ventilație naturală pentru a face față caniculei.",
+        "Simbolizează eforturile de descentralizare a justiției în Madagascar.",
+        "Găzduiește arhive importante despre proprietatea funciară din sud.",
+        "Reprezintă cel mai modern edificiu administrativ din localitate."
       ]
     },
     {
-      "id": "maromokotro-royal-tombs-history-v2",
-      "descriptionAdvanced": "Scunfundate tăcut masiv și cu greu accesibile în zonele masive superioare stâncoase uriașe falnice grele abrupte spectaculoase cele mai colosale greu gigantice unice ale grandiosului Masiv montan rar colosal Tsaratanana, uitate și adânci morminte regale antice izolate sacre ale liderilor triburilor izolate din vechi nord oferă dovada vizibilă profund respectuoasă de viață retrasă sfântă tribală antică de temut din colosale ere arhaice uitate necunoscute europenilor global. Sfințenia dură a colinei protejate interzice de decenii oricăror străini nepregătiți escaladarea sa sau purtarea strict a pălăriilor roșii tabu absolut gigant dur, pentru a omagia etern marii fioroși unici regi odihnind absolut sub mari mormane brute necioplite vulcanice ciudat așezate natural dur înfrigurat faimos colosal spectaculos monumental. Această colină mistică dominată vizual dur greu reprezintă spiritual epicentrul pur gigant faimos venerat grandios. Cultură K6 — pelerinajul mistic strămoșesc montan de cult religios animist local dur.",
+      "id": "monument-aux-morts-diego-suarez-landmarks-v2",
+      "descriptionAdvanced": "Monumentul Eroilor din Diego-Suarez (Antsiranana) este o structură comemorativă solemnă situată în inima orașului nordic, onorând victimele conflictelor militare din istoria Madagascarului. Diego-Suarez, având un trecut marcat de prezența unei baze navale franceze majore, a fost scena unor lupte intense, în special în timpul celui de-al Doilea Război Mondial, când forțele britanice au debarcat aici în cadrul Operațiunii Ironclad. Monumentul, de o simplitate arhitecturală demnă, este un loc de reculegere unde se depun coroane de flori la aniversările naționale. Acesta reflectă legătura profundă și adesea dureroasă a orașului cu istoria mondială și rolul strategic pe care portul Diego l-a jucat în Oceanul Indian. Situat într-o piață aerisită, monumentul este un reper pentru turiștii care doresc să înțeleagă complexitatea istoriei franco-malgașe și sacrificiul soldaților locali. Történelem K8 — Operațiunea Ironclad și monumentele comemorative.",
       "factsAdvanced": [
-        "Este localizat geografic masiv extrem de dur și inaccesibil izolat brutal greu adânc sub ocolul celor mai ascuțite aspre piscuri montane reci celebre insulare masive deosebit de grandioase colosale stâncoase grele de top ale națiunii întregi insulare izolate.",
-        "Constituie adăpostul sacru mistic religios gigant masiv sfânt absolut faimos uluitor vechi antic ancestral pios uluitor antic grandios rezervat etern din respectul grupurilor marilor și sângeroșilor respectabili lideri faimoși colosali locali de trib ai etniei puternice aspre rebele uitate Sakalava.",
-        "Situl colosal de munte adăpostește reguli faimoase și interdicții stricte uriașe grele extreme religioase colosale gigant severe de respect faimos tabu mistic denumite tradițional localnic faimos și obligatoriu general rigid fady de protecție magică masivă colosală animistă uluitoare interzisă public.",
-        "Aceste izolate masive locuri ascunse seceră anual vizitatorii neautorizați, din cauza obligațiilor grele uriașe aspre tradiționale tribale mistice extreme colosale mari de purificare de ritual sângeros vechi uriaș greu pre-escaladare, care trebuie neapărat vizualizat strict și onorat obligatoriu cu sacrificarea și sângerarea ofrandă obligatorie masivă uriașă uluitoare a nobilului bovin faimos regional gigant colosal zebu masiv.",
-        "Vegetația abundentă bogată grandioasă și rece deasă montană care protejează natural vizual masiv colosal absolut și tăcut grandios ascunde vizual complet oaza eternității sacre grele liniștite stânci regale antice ascunse din vizor public uriaș mondial.",
-        "Emană un prestigiu rar excepțional de o valoare masivă arhaică unică colosal de izolat necunoscut mondial general global uluitor și puțin uriaș masiv cercetat vizual intens arheologic din uriașul motiv al grelei absolute și izbitoare colosale uluitoare faimoase protecții grele ferme rigide tradiționale malgașe sfinte rurale izolate uitate de secole lungi."
-      ]
-    },
-    {
-      "id": "amozon-fort-flacourt-history-v2",
-      "descriptionAdvanced": "Istoria primei aventuri extreme și dure maritime ambițioase coloniale franceze are focar central la nivel regional vestigial colosal din primele momente ale secolului istoric faimos de aur șaptesprezece reprezentat brutal simbolic faimos global sub pilonii prăfuțiți ai micilor dar asprelor extrem rarisime fortificații de stâncă numite cu frică respectuos grandios Fort Flacourt, situate faimos grandios izolat extrem teribil vizual periculos colosal vizual în extremitatea uriașei faleze sud-estice. Numele său monumental colosal s-a bazat absolut onorând efortul uriaș extrem curajos de guvernator comandant faimos tiranic uluitor naval general Étienne de Flacourt care s-a străduit decenii să forțeze brutal prezența europeană militară uluitor pe teritoriile dure fierbinți inospitaliere insulare populate izolat cu lance de băștinași liberi mândri grandios sudici rebeli curajoși uluitori unici independenți liberi rari cunoscuți vizual global curajos extrem localnic liberi gigant etnici Antanosy independenți asupriți masiv. Istorie K7 — pionieratul colonialist brutal din insulele oceanului global sălbatic izolat periculos.",
-      "factsAdvanced": [
-        "Denumirea grandioasă militaristă monumentală aparține simbolic grandios comandantului istoric nobil guvernator francez militar faimos uluitor vizionar crud și uriaș sever administrativ maritim grandios nobil global naval Étienne de faimos ilustru dur Flacourt respectat marin imperial european istoric măreț.",
-        "Reprezintă una dintre clădirile cele mai monumentale ruine timpurii absolute excepționale militare uluitoare coloniale vizual grandios prime masive grandios stâncoase durabile colosale cele mai uriașe vestite fortificații uitate grandios prime vechi globale franceze istorice de rang extrem masiv unic prețios faimos.",
-        "Amplasamentul său ruinos așezat vizual uluitor se află colosal masiv înconjurat direct faimos brutal gigant dinamic pitoresc turistic vizual pe pământul izolat actualei vizuale grandioase frumoase și celebrei zone de elită portuară uriașe stâncoase vizual sud-estice pitorești spectaculos colosale Tolanaro de azi faimos urban oceanic turistic maritim relaxat modern.",
-        "Locul adăpostește de peste trei secole uriașe pietre stâncoase zidite dur colosal care atestă aspre bătălii istorice sângeroase teribile faimoase rare uriașe extreme dure lupte inegale violente locale izolate rebeliuni imense grele sângeroase anticoloniale legendare globale crâncene uluitoare aspre conduse masiv colosal de rebelul izolat sudic local indigen faimos mândru sălbatic respectabil Antanosy.",
-        "Eficiența și succesul dur uluitor masiv al avanpostului istoric extrem greu tiranic a fost redus masiv la eșec extrem falimentar dezastruos de o aspră climă ciclonică colosală ostilă și epuizantele vizuale boli tropicale misterioase faimoase dureroase ucigașe neașteptate uriașe mari exotice letale globale dure rare necruțătoare.",
-        "Resturile clădirii masive sunt însoțite de legende locale uluitoare care menționează prezența mistică ascunsă misterios grea a unora dintre marile comori sfinte comori de galioni ascunse grandios sub vechi stânci părăsite dur și brutal la plecare precipitată de disperare absolută exod masiv rapid uriaș neașteptat."
-      ]
-    },
-    {
-      "id": "ila-fitsarana-history-v2",
-      "descriptionAdvanced": "Ila Fitsarana reprezintă cel mai faimos pilon de teroare absolută, fiind o simplă lespede stâncoasă neagră legendară și grandioasă colosal așezată izolat vizual spectaculos din fostul și asprul regat colosal nemilos Merina absolut grandios așezat simbolic justițiar dur mistic în interiorul curții capitale. Cunoscut ca locul sumbru final al judecății divine tradiționale arhaice a justiției magice crude arhaice orbești mortale numită misterios testul otrăvirii tanguin ("Tangena"), stânca este o pată sumbră unde suspecții din regat treceau prin chinul uluitor brutal magic colosal teribil global necruțător: supraviețuitorul dovedea nevinovăția, cadavrul pedepsea imediat fapta vinovăției divine dovedite vizual suprem crud teribil brutal. A funcționat decenii drept o temută armă colosală extremă supremă absolută judiciară divină folosită politic vizual și înspăimântător crunt masiv eficientă colosal pe teritoriul regatelor timpurii pentru unificarea de teroare și curățarea oricăror posibili adversari rebeli nobili uitați și prețioși trădători izolați. Istorie K8 — justiția magică și teroarea regală absolutistă din timpurile regilor.",
-      "factsAdvanced": [
-        "Traducerea literară a stâncii aspre semnifică de altfel la figurat o zonă teribilă cutremurătoare grandioasă temută judiciară vizual denumită simplu tradițional colosal Piatra Destinului extrem Judecății divine aspre nemiloase arhaice vizuale malgașe faimoase unice cutremurătoare absolute sacre masive mortale colosale justițiare faimoase antice.",
-        "Constituia altarul central vizual faimos al teribilei crude colosale judecăți uriașe absolute bazate vizual exclusiv arhaic pe obligatoria faimoasă mistică grandioasă probă magică absolut mortală bazată letal mistic otrăvitor masiv numită global exotic tangena orbilă neagră sumbră fatală misterioasă grea a secolelor lungi uluitoare.",
-        "Procesul magic sumbru înspăimântător neiertător și sângeros se baza pe simpla metodă barbară uluitoare vizual tradițională în care cel judecat ingera praf măcinat extrem otrăvitor toxic global letal faimos vizual din sâmburele alunului faimos de origine masiv local denumit botanic Cerbera tanghin masiv mortal faimos.",
-        "Rata uluitoare uriașă tragică de pierdere a vieții din cauza ingestiei brutale colosale extreme magice a stârnit protestele misionarilor vizuali europeni și abolirea sa de o extrem de târzie regină a țării faimoase uluitoare vizuale monarha uriașă suverană regină faimoasă grandioasă modernizatoare absolută nobilă masivă.",
-        "Aproximativ procentul teribil cutremurător istoric al victimelor fatale se ridica mistic colosal deseori uluitor imens vizual enorm groaznic până masiv uriaș la deasupra cifrei copleșitoare oribile brutale aspre imense crunte ucigătoare faimoase sângeroase letale fatale groaznice de fix jumătate din toți cei judecați misterios magic.",
-        "Rămâne până azi un reper de memorie vizual respectuos și tăcut grandios care servește la amintirea istorică aspră grea masivă teribilă faimoasă a puterii dictatoriale a foștilor regi absoluți."
-      ]
-    },
-    {
-      "id": "betioky-royal-tombs-history-v2",
-      "descriptionAdvanced": "Scufundate misterios masiv pe fundalul unui pământ plat uriaș stâncos arid de sud extrem roșiatic fierbinte asfixiant și uluitor bizar, peisajul este perforat maiestuos și solemn pe kilometri colosali uriași vizuali întregi grandioși magnific de celebrele colosale și extravagante neînchipuit de vizual faimoase grandios bogate morminte masive regale antice Mahafaly din teritoriul asprului district fierbinte spectaculos sudic izolat dur Betioky. Faimoase pentru statuile grandioase vizual colosale extrem magnifice de tip pilastru din lemn greu nobil de abanos de dimensiuni uluitoare rare numite exotic magic global de faimă unică mondială neprețuită vizual "aloalo" ce străjuiesc de la înălțime mormântul, decorate grandios asimetric simbolic fin faimos vizual tăiat scobit mistic manual minunat splendid rar unic spectaculos cu zeci de zebu mari și eroi antici mistici curajoși deosebiți uluitori faimoși global ancestrali și onorabili respectați temut mistic. Monumentele vizuale atestă la propriu imensa și uriașa vizual grea opulență a elitelor pastorale grandioase arhaice care sacrificau mistic magic un număr uriaș grandios brutal sute impresionante mii colosale uluitoare de cornute pentru cranii magice funerare grandios așezate vizual impunător mândru excepțional unic masiv în onoarea regilor lor morți antici uriași. Cultură K8 — arta funerară animistă, opulența și totemurile aloalo africane.",
-      "factsAdvanced": [
-        "Aparțin mândrei și formidabilei civilizații rurale izolate dure globale extrem vizuale uriașe războinice faimoase uluitoare a regiunilor semi-aride sud-vestice ale insulei masive necunoscute faimoase și glorioase temute globale mari sudice nomade numită vizual trib etnie faimos Mahafaly unică respectată global extrem masiv temută nomadă arhaică colosal.",
-        "Sunt încoronate artistic absolut impresionant grandios de faimoasele statui și totemuri masive sculpate manual magic tradițional uriaș de artizani locali de geniu izolați denumite tradițional global în patrimoniul de istorie vizual unic rar aloalo faimos gigant rar.",
-        "Monumentul colosal mormânt cub masiv pătrat uriaș și spectaculos dur de dimensiuni vizual mari gigant e decorat la suprafață vizual dur cu cranii imense masive numeroase reale autentice groase brutale provenite de la taurii măreți faimoși uriași sacrificați la moartea brutală colosală grandioasă a decedatului grandios.",
-        "Costul și imensa muncă pentru ridicarea lor ruinează de obicei satele, ele fiind adesea uluitor vizual mai colosale mai grandioase superioare și opulente masiv extrem glorios vizual izbitor superior vizual mari excepțional falnice faimoase uluitoare mari faimoase frumoase magnifice scumpe falnice neprețuite fața de absolut casele unde locuiesc vii.",
-        "Motivele gravate includ figuri bizare misterioase scene faimoase asimetrice cotidiene gigant grandioase istorice asimetrice de soldați de cai mari mașini ciudate de motociclete scene intime magice faimoase globale sau polițiști adăugate modern vizual la artă.",
-        "Tabuurile locale sau regulile stricte dure magice și spirituale uluitoare izolate masive denumite fady interzic sub mari extrem pedepse grave dure oricărui cetățean să folosească colosal vreo resursă sau lemn faimos dintr-o pădure sacră unde sunt așezate monumentele vizuale misterioase funerare colosale mortuare."
-      ]
-    },
-    {
-      "id": "mahabo-royal-cemetery-history-v2",
-      "descriptionAdvanced": "Situat în profunzimea peisajului forestier sacru din preajma coastelor vestice, cimitirul Mahabo deține o greutate istorică tăcută și impunătoare ca adăpost final pentru conducătorii suverani (mampanjaka) ai legendarului regat Menabe din vestul Madagascarului. Tradiția funerară practicată aici de poporul Sakalava, considerată una dintre cele mai spectaculoase ritualuri animiste globale, necesită vizitarea ciclică și îngrijirea minuțioasă a rămășițelor conservate (relicvele sfinte cunoscute drept 'dady'). Într-un ritual complex de purificare ce adună mii de supuși la fiecare câțiva ani, osemintele sunt scoase cu un imens respect pentru faimoasa ceremonie națională de spălare regală a relicvelor, cunoscută global ca "Fitampoha". Liniștea care domină permanent acest sanctuar subliniază conexiunea neîntreruptă a locuitorilor regiunii cu forța spirituală și mistică a monarhilor divinizați din umbra istoriei africane. Cultură K8 — venerarea relivelor sacre și ritualurile de spălare animistă.",
-      "factsAdvanced": [
-        "Deservește exclusiv nevoile mormintelor tradiționale închise destinate absolut exclusiv liderilor antici regali glorioși faimoși izolați aparținând marii monarhii globale regionale faimoase aparținând de ramura etnică de putere regală Sakalava de Menabe.",
-        "Se află fizic situat de-a lungul cursurilor superioare ale marilor artere hidrografice puternice grandioase faimoase de vest râuri masive în regiunile de vest de la gurile apelor spectaculoase din uriașa depresiune râu Morondava.",
-        "Situl reprezintă originea geografică fixă colosală unică sacră mistică supremă religioasă unde se derulează spectaculos periodic ceremonia rară de a scoate și spăla tradițional la interval magic relicvele străvechi grandioase (Fitampoha uluitor).",
-        "Este interzisă strict vizita celor din afară care refuză și nu onorează ritualurile complexe vizuale faimoase aspre grele mistice colosale dure sacrificii și descălțarea umilă obligatorie faimoasă din umilință în incinte.",
-        "Se găsește sub o supraveghere severă pioasă dură magică permanentă masivă garantată strict vizual din partea familiilor alese și desemnate ereditare magic de a sluji strict tăcut regii denumite faimos mistic uluitor global tradițional pios respectabil antakarana slujitor mistic dady străjeri.",
-        "Zona mormântului încorporează de asemenea elemente unice de sculpturi bizare misterioase masive sculptate dur vizual din lemn brut adesea recunoscute și extrem faimoase pentru explicitatea sexuală curajoasă magică vizuală proeminent falnic izbitoare și arogant faimos dur grandios masiv arhaic fertil fecund erotic tăiată masiv brutal grandios tradițional magic."
-      ]
-    },
-    {
-      "id": "zoma-market-historical-site-history-v2",
-      "descriptionAdvanced": "Faimoasa piață Zoma din inima istorică a vechii capitale Antananarivo a constituit, decenii la rând, una dintre cele mai formidabile și aglomerate intersecții economice umane din întreaga lume și, cu siguranță, considerată drept cea mai colosală imensă grandioasă piață de aer liber absolut impresionant din continent. Denumirea sa semnifică pur și simplu ziua de Vineri, evocând originile în care regele Merina stabilise acea zi drept unică pentru grandioase schimburi masive economice libere și de informări sociale oficiale vitale. De-a lungul istoriei pieței uriașe care umplea vizual bulevardele centrale de sute de mii de corturi umbrele de bumbac alb specifice pline de condimente artizanat, bijuterii rurale, alimente calde magice și bunuri masive, aceasta devenise simbolul economic inegalabil. Interzicerea formei sale istorice clasice extinsă la sfârșitul anilor 1990 pentru decongestionarea urbană a lăsat în urmă o nostalgie grea a apogeului urbanismului tradițional comunitar deschis și colosal masiv zgomotos plin de mirosuri rare, o pierdere uriașă de memorie pentru patrimoniul comercial antic deschis național istoric gigant global. Istorie K7 — urbanism, inima economică premodernă și târgurile libere.",
-      "factsAdvanced": [
-        "În limba oficială malgașă, termenul izbitor faimos Zoma traduce literar și absolut strict din timpuriu istoric conceptul simplu tradițional al ultimei zile masive vizuale active de dinaintea weekendului, denumind direct ziua grandioasă a săptămânii absolut masiv simbolic de Vineri.",
-        "A deținut un titlu oficial mondial neoficial extrem curajos uriaș global faimos global gigantic masiv excepțional respectat la scară gigantic de cea mai uluitoare și măreață masivă vizual densă uriașă și gigant aglomerată grandios și de aer liber extinsă faimoasă din uriașul întreg gigant continent magic de renume African masiv uriaș.",
-        "A fost inaugurată ca spațiu și tradiție comunitară de afaceri faimoasă oficial nobil la origine sub mandatul strict al primilor din marii fondatori suverani legendari vizuali grandioși din regalitatea vizionară a măreței faimoase dinastiei izbitoare nobile istorice Merina din anii glorioși arhaici vechi timpurii.",
-        "Extinderea pieței istorice sub umbreluțele imense de alb specifice cotidiene bloca absolut complet circulația publică imensă grandioasă modernă a masivelor bulevarde uriașe din capitală faimoasă Analakely colosal gigant și zgomotos.",
-        "A suferit interzicerea modernă sub edict guvernamental strict faimos izbitor nepopular asupru tăios nemilos uriaș masiv grandios de restructurare globală masivă uriașă din 1997, desființând brutal conceptul enorm gigant zilnic stradal uriaș faimos haotic dens gigant mistic neoficial dens masiv informal deschis faimos.",
-        "Locul aduna pentru a tranzacționa schimburi de orice de la celebre pietre de zebu masiv prețioase până uluitoare faimoase poțiuni medicinale magice secrete faimoase uriașe vechi ancestrale grandioase rurale aduse proaspăt umed vizual magic adânc uluitoare mistice masiv grandios mistic magic secret faimos rar."
+        "Comemorează în special victimele bătăliei de la Diego-Suarez din 1942.",
+        "Situat într-un punct central al orașului Antsiranana, aproape de port.",
+        "Diego-Suarez a fost singura bază navală importantă vizată de Aliați în Madagascar.",
+        "Monumentul este locul central pentru ceremoniile de pe 26 iunie și 11 noiembrie.",
+        "Arhitectura sa este sobră, punând accent pe nume și date istorice.",
+        "Reflectă amestecul de onoare militară franceză și identitate națională malgașă.",
+        "În apropiere se află cimitirele militare ale forțelor Commonwealth și franceze.",
+        "Este un punct de plecare pentru tururile istorice ale orașului colonial."
       ]
     }
   ]
