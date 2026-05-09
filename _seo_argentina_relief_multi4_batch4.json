@@ -1,0 +1,73 @@
+
+{
+  "lang": "multi4",
+  "country": "argentina",
+  "files": ["lib/visualLab/data/poiExtraArgentinaReliefV2.ts"],
+  "items": [
+    {
+      "id": "canon-de-talampaya-relief-v2",
+      "descriptionAdvancedEn": "The Talampaya Canyon, located in the Talampaya National Park in La Rioja province, is a geological wonder and a UNESCO World Heritage Site. The spectacular gorge features towering vertical walls of deep red sandstone, reaching heights of up to 150 meters. These formations were created over millions of years by erosion and now offer a glimpse into the Triassic period of Earth's history. In addition to its impressive geology, Talampaya is also known for its archaeological treasures, including numerous petroglyphs (rock carvings) by indigenous peoples. Famous formations like 'The Cathedral' or 'The Monk' were carved into the stone by the wind. Together with the neighboring Ischigualasto Park, Talampaya forms one of the world's most important sites for dinosaur fossils, fascinatingly telling the story of the continents' formation.",
+      "factsAdvancedEn": [
+        "Designated a UNESCO World Heritage Site in 2000, along with Ischigualasto.",
+        "Its vertical red sandstone walls reach heights of over 140 meters.",
+        "An important site for fossils from the Triassic period.",
+        "Famous for the echo in the 'The Cathedral' formation.",
+        "Preserves valuable pre-Columbian petroglyphs.",
+        "The national park covers an area of about 215,000 hectares.",
+        "The name Talampaya means 'Dry River of the Tala Tree' in the Cacáno language."
+      ]
+    },
+    {
+      "id": "yungas-relief-v2",
+      "descriptionAdvancedEn": "The Yungas are a narrow belt of moist, subtropical mountain rainforest extending along the eastern slopes of the Andes in northwestern Argentina. These cloud forests form a dramatic contrast to the dry Puna and are fed by the moist winds from the Atlantic, which rise and precipitate on the mountains. The Yungas are one of the most biodiverse ecosystems in the country, home to jaguars, tapirs, and over 500 species of birds. The vegetation is extremely dense, with giant trees, ferns, and epiphytes. The region is also a vital water reservoir, supplying drinking water to the agriculturally used valleys. Protected areas like the Calilegua National Park or El Rey Park preserve this green lung of Argentina, which exudes a mystical atmosphere with its steep slopes and constant cloud formation.",
+      "factsAdvancedEn": [
+        "Subtropical mountain forests on the eastern slopes of the Andean ranges.",
+        "One of the areas with the highest biodiversity in Argentina.",
+        "The last refuge for the endangered jaguar in the northwest.",
+        "Ranges from 400 meters to over 3,000 meters in altitude.",
+        "Characterized by a humid climate with up to 2,500 mm of annual rainfall.",
+        "The most important protected area is the Calilegua National Park in Jujuy.",
+        "Acts as the region's green lung and most important water reservoir."
+      ]
+    },
+    {
+      "id": "el-impenetrable-relief-v2",
+      "descriptionAdvancedEn": "El Impenetrable is a vast forest area in northeastern Argentina, mainly extending over the province of Chaco and part of the Gran Chaco. Its name, 'The Impenetrable,' refers to the extremely dense vegetation of thorny bushes, quebracho trees, and cacti that make passage almost impossible. This ecosystem is characterized by extreme heat in summer and long dry periods. It is one of the last great wilderness areas in South America, providing habitat for endangered species such as the maned wolf, the giant anteater, and the giant armadillo. Culturally, the region is closely linked to the indigenous communities of the Wichí and Qom, who have lived in harmony with this challenging forest for centuries. Today, El Impenetrable is protected by a national park to prevent destruction from logging and agriculture.",
+      "factsAdvancedEn": [
+        "Largest continuous forest area in northern Argentina.",
+        "Covers about 4 million hectares in the province of Chaco.",
+        "Home to the extremely hard Quebracho ('ax-breaker') tree.",
+        "Declared a national park in 2014 (approx. 128,000 hectares).",
+        "Region with the highest recorded temperatures in Argentina.",
+        "An important refuge for the Wichí and Qom communities.",
+        "Home to over 300 bird species and rare mammals."
+      ]
+    },
+    {
+      "id": "quebrada-de-las-conchas-relief-v2",
+      "descriptionAdvancedEn": "The Quebrada de las Conchas, also known as Quebrada de Cafayate, is a spectacular river valley in the province of Salta, world-famous for its bizarre, intensely glowing red rock formations. The gorge was formed over millions of years by the Río de las Conchas, while wind and water created sculptures like the Amphitheater, the Devil's Throat (Garganta del Diablo), or The Castle (El Castillo). The rock layers predominantly date back to the Cretaceous period and contain numerous marine shell fossils, which gave the valley its name. Route 68 runs directly through this surreal landscape, connecting the city of Salta with the wine village of Cafayate. Especially in the evening light, the rocks glow in deep red and orange hues, making the Quebrada one of Argentina's most photographed natural wonders.",
+      "factsAdvancedEn": [
+        "Fascinating red rock formations along Route 68 in Salta.",
+        "The name refers to fossilized shells (conchas).",
+        "Most famous formations are the Amphitheater and the Devil's Throat.",
+        "Created by tectonic uplift and erosion 90 million years ago.",
+        "The Amphitheater has perfect natural acoustics.",
+        "An important nature reserve of the province of Salta since 1995.",
+        "A popular destination for hikers, cyclists, and landscape photographers."
+      ]
+    },
+    {
+      "id": "cuesta-del-obispo-relief-v2",
+      "descriptionAdvancedEn": "The Cuesta del Obispo is one of Argentina's most spectacular mountain passes, located in the province of Salta. The road winds in countless serpentines from the fertile Lerma Valley up to the barren high-altitude desert of the Puna. Over a stretch of just 20 kilometers, it climbs an altitude difference of over 1,200 meters, reaching its highest point at Piedra del Molino at 3,348 meters. The name ('Bishop's Slope') dates back to a bishop who camped here during an arduous journey in the 17th century. Dense clouds often hang on the slopes, giving the moss-covered landscape a mysterious atmosphere. From the viewpoints, there is a breathtaking panoramic view of the deep gorges and the bizarre formation of the Valle Encantado (Enchanted Valley), known for its unique high-mountain flora.",
+      "factsAdvancedEn": [
+        "Spectacular mountain pass road with over 1,200 meters of altitude difference.",
+        "Highest point is Piedra del Molino at 3,348 meters.",
+        "Connects the Lerma Valley with the Los Cardones National Park.",
+        "The name commemorates a journey by Bishop Cortázar in 1622.",
+        "Part of the provincial Route 33, leading to Cachi.",
+        "Famous for the Valle Encantado with its bizarre rock forms.",
+        "The region is often covered in dense fog clouds (Garúa)."
+      ]
+    }
+  ]
+}

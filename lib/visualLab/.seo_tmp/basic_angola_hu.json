@@ -50,4 +50,18 @@
     },
     {
       "id": "estadio-nacional-tundavala-landmarks-v2",
-      "description": "A 20 000 férőhelyes Lubangó
+      "description": "A 20 000 férőhelyes Lubangói Nemzeti Stadion, amely egyedülálló módon illeszkedik a környező hegyvidéki tájba.",
+      "facts": ["20 000 férőhely", "Afrika-kupára épült", "Hegyvidéki környezet", "Modern sportlétesítmény"]
+    },
+    {
+      "id": "assembleia-nacional-landmarks-v2",
+      "description": "Luanda impozáns nemzetgyűlési épülete, amely 2015-ös átadása óta a modern angolai törvényhozás székhelye.",
+      "facts": ["2015-ben avatták", "Monumentális kupola", "A parlament székhelye", "Modern építészet"]
+    },
+    {
+      "id": "fortim-do-kikombo-landmarks-v2",
+      "description": "Kisebb, 17. századi portugál erőd a tengerparton, amely az egykori védekezést és kereskedelmet szolgálta.",
+      "facts": ["17. században épült", "Parti erődítmény", "Nemzeti műemlék", "Történelmi falak"]
+    }
+  ]
+}
