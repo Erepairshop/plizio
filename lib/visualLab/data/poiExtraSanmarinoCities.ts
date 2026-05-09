@@ -110,7 +110,7 @@ export const poiExtraSanmarinoCities: POI[] = [
     parent: "SM-009",
     coords: [12.453, 43.944],
     name: { de: "Cà Melone", hu: "Cà Melone", ro: "Cà Melone", en: "Cà Melone" },
-    description: { de: "", hu: "", ro: "", en: "" },
+    description: { de: "Cà Melone ist ein kleines Dorf in der Gemeinde Borgo Maggiore in der Republik San Marino. Es bietet eine ruhige Wohnatmosphäre in der Nähe der Hauptstadt des Landes.", hu: "Cà Melone egy kis falu San Marino Köztársaságban, Borgo Maggiore községben. Csendes lakókörnyezetet kínál az ország fővárosának közelében.", ro: "Cà Melone este un mic sat situat în municipiul Borgo Maggiore din Republica San Marino. Oferă o atmosferă rezidențială liniștită, aproape de capitala țării.", en: "Cà Melone is a small village situated in the municipality of Borgo Maggiore in the Republic of San Marino. It offers a tranquil residential atmosphere close to the country's capital." },
     descriptionAdvanced: {
       de: "",
       hu: "Cà Melone egy kisebb, karakteres település Borgo Maggiore kastélyának területén, amely csendes lakóövezetként szolgál a régióban. A helység fekvése különleges, mivel a San Marino-i dombvidék részeként számos pontjáról páratlan kilátás nyílik a környező lankákra és az Appenninek vonulataira. A lakóközösség mindennapjait a csend és a diszkréció jellemzi, távol a főutak zajától, így ideális környezetet biztosít a nyugodt családi élethez. A település infrastruktúrája szorosan kapcsolódik Borgo Maggiore központjához, amely biztosítja az alapvető szolgáltatásokat és kereskedelmi lehetőségeket. Cà Melone jellegzetessége a jól megőrzött helyi építészeti stílus, amely harmonikusan illeszkedik a változatos domborzati viszonyokhoz. Az itt élő közösség számára a természet közelsége mindennapos valóság, mivel a települést körülvevő zöldövezetek kiváló lehetőséget nyújtanak szabadtéri tevékenységekre és a helyi mikroklíma élvezésére minden évszakban.",
@@ -147,7 +147,7 @@ export const poiExtraSanmarinoCities: POI[] = [
         "Located in the more densely populated central region of the country."
       ]
     },
-    facts: { de: [], hu: [], ro: [], en: [] }
+    facts: { de: ["Befindet sich im Castello Borgo Maggiore.", "Es ist eine ruhige, vorwiegend als Wohngebiet genutzte Gegend.", "Bietet malerische Ausblicke auf die umliegende Landschaft von San Marino."], hu: ["Borgo Maggiore várában található.", "Ez egy csendes, elsősorban lakóövezet.", "Festői kilátást nyújt a környező San Marino-i tájra."], ro: ["Situat în castelul Borgo Maggiore.", "Este o zonă liniștită, în principal rezidențială.", "Oferă vederi pitorești ale peisajului înconjurător din San Marino."], en: ["Located in the Borgo Maggiore castle.", "It is a quiet, primarily residential area.", "Offers scenic views of the surrounding Sammarinese landscape."] }
   },
   {
     id: "city-ca-rigo-extra",
@@ -155,7 +155,7 @@ export const poiExtraSanmarinoCities: POI[] = [
     parent: "SM-009",
     coords: [12.452, 43.952],
     name: { de: "Cà Rigo", hu: "Cà Rigo", ro: "Cà Rigo", en: "Cà Rigo" },
-    description: { de: "", hu: "", ro: "", en: "" },
+    description: { de: "Cà Rigo ist eine friedliche Siedlung in der Gemeinde Borgo Maggiore in San Marino. Die Gegend zeichnet sich durch ihren ländlichen Charme und eine enge lokale Gemeinschaft aus.", hu: "Cà Rigo egy békés település San Marinóban, Borgo Maggiore község területén. A környéket vidéki bája és összetartó helyi közössége jellemzi.", ro: "Cà Rigo este o așezare pașnică situată în municipiul Borgo Maggiore din San Marino. Zona se caracterizează prin farmecul său rural și o comunitate locală unită.", en: "Cà Rigo is a peaceful settlement located within the Borgo Maggiore municipality of San Marino. The area is characterized by its rural charm and tight-knit local community." },
     descriptionAdvanced: {
       de: "",
       hu: "Cà Rigo szintén Borgo Maggiore kastélyának része, egy olyan lakótelepülés, amely a modern életmód és a történelmi környezet egyensúlyát keresi. Elhelyezkedése optimális, mivel közel van a fontosabb közlekedési útvonalakhoz, ugyanakkor megőrzi a közösségre jellemző csendet és békét. A település az elmúlt években lassú, de folyamatos fejlődésen ment keresztül, növelve lakóépületeinek számát és javítva a lakóközösség számára elérhető szolgáltatások színvonalát. A környező területek mezőgazdasági és zöldövezeti karaktere biztosítja a település számára a természetes szűrőt a városi zajjal szemben. Cà Rigo lakói számára a közösségi élet és a környék nyújtotta kikapcsolódási lehetőségek központi szerepet játszanak, legyen szó akár gyalogos túrákról vagy egyszerűen a táj szépségének élvezetének. A település elhelyezkedése miatt kiváló stratégiai pont lehet az ország középső régióinak felfedezéséhez, összekötve a városias Borgo Maggioret és a környező csendesebb területeket.",
@@ -192,7 +192,7 @@ export const poiExtraSanmarinoCities: POI[] = [
         "Serves as an excellent strategic point for accessing the central region."
       ]
     },
-    facts: { de: [], hu: [], ro: [], en: [] }, image: "/poi-images/city-ca-rigo-extra.webp"},
+    facts: { de: ["Teil der Verwaltungseinheit Borgo Maggiore.", "Bekannt für sein traditionelles ländliches Flair in San Marino.", "Bietet einfachen Zugang zum Berg Titano und historischen Stätten."], hu: ["Borgo Maggiore közigazgatási egységének része.", "A hagyományos San Marino-i vidéki hangulatról ismert.", "Könnyű hozzáférést biztosít a Titán-hegyhez és a történelmi helyszínekhez."], ro: ["Face parte din diviziunea administrativă Borgo Maggiore.", "Cunoscut pentru atmosfera tradițională a peisajului din San Marino.", "Oferă acces ușor la Muntele Titano și la siturile istorice."], en: ["Part of the Borgo Maggiore administrative division.", "Known for its traditional Sammarinese countryside feel.", "Provides easy access to Mount Titano and historic sites."] }, image: "/poi-images/city-ca-rigo-extra.webp"},
   {
     id: "city-cailungo-extra",
     type: "city",

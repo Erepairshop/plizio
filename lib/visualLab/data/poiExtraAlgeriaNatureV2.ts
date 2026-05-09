@@ -33,11 +33,11 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     parent: "DZ-39",
     coords: [6.33, 34.25],
     name: { de: "Chott Melrhir", hu: "Chott Melrhir", ro: "Chott Melrhir", en: "Chott Melrhir" },
-    description: { de: "Ein großer endorheischer Salzsee.", hu: "Nagy lefolyástalan sós tó.", ro: "Un lac sărat endoreic mare.", en: "A large endorheic salt lake." },
+    description: { de: "Ein großer endorheischer Salzsee.", hu: "Algéria legnagyobb sós tava, amely a Szahara szélén található, fontos madárélőhely.", ro: "Chott Melrhir este cel mai mare lac sărat endoreic din Algeria, situat într-o depresiune aridă.", en: "A large endorheic salt lake." },
     facts: {
       de: ["Liegt unter dem Meeresspiegel.", "Saisonaler See."],
-      hu: ["Tengerszint alatt fekszik.", "Időszakos tó."],
-      ro: ["Situat sub nivelul mării.", "Lac sezonier."],
+      hu: ["Sóstó", "Szahara", "Madárélőhely"],
+      ro: ["Lac sărat", "Depresiune", "Sahara"],
       en: ["Lies below sea level.", "Seasonal lake."]
     },
     descriptionAdvanced: {

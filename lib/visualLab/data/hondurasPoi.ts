@@ -611,7 +611,7 @@ export const hondurasLandmarks: POI[] = [
     parent: "HN",
     coords: [-85.9167, 14.7500],
     name: { de: "Talgua-Höhlen", hu: "Talgua-barlangok", ro: "Peșterile Talgua", en: "Talgua Caves" },
-    description: { de: "Bekannt als die 'Höhlen der leuchtenden Schädel' aufgrund ihrer kristallisierten Knochen.", hu: "A \\\"világító koponyák barlangjaként\\\" ismert a kristályosodott csontmaradványok miatt.", ro: "Cunoscute sub numele de \\\"Peșterile craniilor strălucitoare\\\" datorită oaselor cristalizate.", en: "Known as the 'Caves of the Glowing Skulls' due to the crystallized skeletal remains found inside." },
+    description: { de: "Die Talgua-Höhlen, auch als Höhle der leuchtenden Schädel bekannt, sind eine wichtige archäologische Stätte in Honduras. Sie sind berühmt für die leuchtenden Kalzitablagerungen auf den dort gefundenen alten menschlichen Knochen.", hu: "A Talgua-barlang, amelyet a Ragyogó Koponyák Barlangjaként is ismernek, Honduras egyik fontos régészeti lelőhelye. Híres a barlangban talált ősi emberi csontokon lévő, fénylő kalcitlerakódásokról.", ro: "Peșterile Talgua, cunoscute și sub numele de Peștera Craniilor Strălucitoare, reprezintă un important sit arheologic din Honduras. Ele sunt faimoase pentru depozitele strălucitoare de calcit de pe oasele umane antice descoperite în interior.", en: "The Talgua Caves, also known as the Cave of the Glowing Skulls, are an important archaeological site in Honduras. They are famous for the glowing calcite deposits on ancient human bones found within." },
     descriptionAdvanced: {
       de: "In den Talgua-Höhlen wurden Knochen gefunden, die über Jahrhunderte von kalkhaltigem Wasser überzogen wurden und nun im Licht funkeln. Dies gibt wertvolle Einblicke in die Bestattungsriten vor der Maya-Zeit.",
       hu: "A Talgua-barlangokban olyan csontokat találtak, amelyeket az évszázadok során meszes víz vont be, így most csillognak a fényben. Ez értékes betekintést nyújt a maja kor előtti temetkezési rítusokba.",
@@ -619,10 +619,10 @@ export const hondurasLandmarks: POI[] = [
       en: "The Talgua Caves contain skeletal remains that have been coated in calcite over centuries, causing them to sparkle in the light. This site offers rare insights into pre-Maya funerary customs."
     },
     facts: {
-      de: ["Leuchtende Schädel", "Kristallisierte Knochen", "Prä-Maya Bestattungsort", "Nahe Catacamas"],
-      hu: ["Világító koponyák", "Kristályosodott csontok", "Maja kor előtti temetkezési hely", "Catacamas közelében"],
-      ro: ["Cranii strălucitoare", "Oase cristalizate", "Loc funerar pre-maiaș", "Lângă Catacamas"],
-      en: ["Glowing skulls phenomenon", "Crystallized skeletal remains", "Pre-Maya burial site", "Located near Catacamas"]
+      de: ["Die 1994 entdeckten Höhlen enthalten über 3.000 Jahre alte Skelettreste.", "Die Knochen \"leuchten\", weil sie von Kalziumkarbonatkristallen bedeckt sind, die im Laufe der Jahrtausende durch Wasser abgelagert wurden.", "Die Höhle diente einer präkolumbianischen Gesellschaft als Beinhaus und bietet seltene Einblicke in antike Bestattungspraktiken."],
+      hu: ["Az 1994-ben felfedezett barlang több mint 3000 éves csontvázmaradványokat rejt.", "A csontok azért \"ragyognak\", mert az évezredek során a víz által lerakott kalcium-karbonát kristályok borítják őket.", "A barlangot egy prekolumbián társadalom csontfülkeként használta, így ritka bepillantást enged az ősi temetkezési szokásokba."],
+      ro: ["Descoperite în 1994, peșterile conțin rămășițe scheletice vechi de peste 3.000 de ani.", "Oasele \"strălucesc\" deoarece sunt acoperite de cristale de carbonat de calciu depuse de apă de-a lungul mileniilor.", "Peștera a fost folosită ca osuar de către o societate precolumbiană, oferind o perspectivă rară asupra practicilor funerare antice."],
+      en: ["Discovered in 1994, the caves contain skeletal remains dating back over 3,000 years.", "The bones \"glow\" because they are covered in calcium carbonate crystals deposited by water over millennia.", "The cave was used as an ossuary for a pre-Columbian society, offering rare insights into ancient burial practices."]
     },
     factsAdvanced: {
       de: ["Entdeckt im Jahr 1994", "Diente als Beinhaus", "Wichtige archäologische Stätte"],

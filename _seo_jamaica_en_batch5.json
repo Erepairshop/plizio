@@ -1,0 +1,217 @@
+{
+  "lang": "en",
+  "country": "jamaica",
+  "files": ["lib/visualLab/data/poiExtraJamaicaLifeV2.ts"],
+  "items": [
+    {
+      "id": "jamaica-zoo-life-v2",
+      "descriptionAdvanced": "Jamaica Zoo, located in the Lacovia area of St. Elizabeth, is a premier family-friendly attraction dedicated to the conservation and display of both native and exotic wildlife. Set within a lush, rural environment, the zoo offers a relaxed atmosphere where visitors can encounter majestic lions, zebras, and llamas alongside Jamaica's unique local fauna. A primary focus is education regarding the island's indigenous species, including the Jamaican iguana and various tropical snakes. The zoo prides itself on its interactive experiences, allowing children to feed or touch select animals under professional supervision. With its shaded walkways and scenic picnic areas, it serves as an ideal destination for educational day trips. Jamaica Zoo plays a vital role in regional environmental education, fostering a deep respect for nature in a predominantly agricultural part of the island.",
+      "factsAdvanced": [
+        "Located in Lacovia, approximately 20 minutes from the historic Black River.",
+        "Home to over 25 different animal species from across the globe.",
+        "Features majestic lions as one of its most popular highlights.",
+        "Offers specialized guided educational tours for school groups and students.",
+        "Includes a large aviary filled with colorful parrots and exotic birds.",
+        "Actively participates in the rescue and rehabilitation of injured wildlife.",
+        "Visitors can see the zoo's mascot, a gentle tame crocodile, up close.",
+        "Privately operated and primarily funded through visitor entrance fees."
+      ]
+    },
+    {
+      "id": "hope-zoo-life-v2",
+      "descriptionAdvanced": "Nestled within the expansive Royal Botanical Gardens in Kingston, Hope Zoo is the island’s most significant zoological institution. Following extensive renovations, it has transformed into a modern facility that emphasizes the preservation of Caribbean biodiversity. It serves as a critical sanctuary for the endangered Jamaican iguana, as well as vibrant macaws and various native reptiles housed in naturalistic enclosures. Beyond local fauna, the zoo hosts international residents such as African lions, monkeys, and flamingos. Its popular petting zoo and educational programs are designed to raise environmental awareness among Jamaica’s youth. Offering a lush, green escape in the heart of the capital, Hope Zoo is a cornerstone of Kingston’s cultural and educational life. The combination of botanical variety and wildlife observation makes every visit a comprehensive nature experience.",
+      "factsAdvanced": [
+        "Originally opened in 1961 by Sir Kenneth Blackburne.",
+        "Part of the largest botanical garden in the English-speaking Caribbean.",
+        "Plays a vital role in the recovery program for the critically endangered Jamaican iguana.",
+        "Houses one of the region’s most significant collections of birds of prey.",
+        "Privatized and modernized by the Hope Zoo Preservation Foundation.",
+        "Features a modern café and versatile event spaces for private functions.",
+        "Offers a 'Zookeeper for a Day' program for immersive learning.",
+        "Proceeds from admissions are reinvested into animal welfare and research."
+      ]
+    },
+    {
+      "id": "kool-runnings-life-v2",
+      "descriptionAdvanced": "Kool Runnings Adventure Park in Negril is Jamaica’s largest and most advanced water-themed attraction, offering world-class entertainment for the entire family. Located along the famous Seven Mile Beach, the park features over ten thrilling water slides, a wave pool, and a tranquil lazy river that winds through lush surroundings. The park’s design is deeply rooted in Jamaican culture, reflected in the names of its attractions and its vibrant, festive atmosphere. Beyond the water slides, the Adventure Zone offers high-octane activities including go-kart racing, paintball, and laser tag. Kool Runnings adheres to the highest international safety standards while promoting sustainable tourism through eco-friendly water filtration systems. It is the perfect destination for those seeking action-packed refreshment and a break from the traditional beach experience in a safe, tropical setting.",
+      "factsAdvanced": [
+        "Recognized as the largest water park in the English-speaking Caribbean.",
+        "Named after the famous 1988 Jamaican Olympic bobsled team.",
+        "Features 10 diverse water slides with a total length of several hundred meters.",
+        "Employs a state-of-the-art water filtration system to protect the local environment.",
+        "The 'Kool Kanoo' area serves authentic Jamaican cuisine to visitors.",
+        "Includes a dedicated shallow-water zone designed specifically for toddlers.",
+        "A multiple-time winner of the TripAdvisor Travelers' Choice Award.",
+        "Conveniently located on Norman Manley Boulevard, across from Seven Mile Beach."
+      ]
+    },
+    {
+      "id": "cranbrook-flower-forest-life-v2",
+      "descriptionAdvanced": "Cranbrook Flower Forest, situated in the parish of St. Ann, is a breathtaking nature reserve and botanical park spanning 130 acres of the island’s northern hills. Once part of a historic sugar plantation, this paradise now features lush tropical gardens, exotic blooms, and the crystal-clear Little River, which meanders through the landscape creating natural pools and waterfalls. Visitors can choose between serene forest walks, birdwatching, or more adventurous activities such as ziplining over the dense canopy. The forest is renowned for its vast collections of orchids, giant ferns, and vibrant tropical flowers that flourish in the shaded river valley. Cranbrook promotes a lifestyle in harmony with nature, providing a peaceful escape and a stunning backdrop for outdoor events and weddings, showcasing Jamaica’s untouched natural beauty.",
+      "factsAdvanced": [
+        "Located in St. Ann, near the scenic Laughing Waters and Ocho Rios.",
+        "Home to more than 100 different species of tropical plants and flowers.",
+        "The source of the Little River is located directly on the property.",
+        "Features rare orchid and bromeliad displays throughout the gardens.",
+        "Known for its resident peacock population that roams freely among guests.",
+        "Offers horseback riding and designated forest clearings for family picnics.",
+        "The zipline course includes 9 stations providing a bird’s-eye view of the forest.",
+        "A highly sought-after location for professional photography and destination weddings."
+      ]
+    },
+    {
+      "id": "croydon-plantation-life-v2",
+      "descriptionAdvanced": "Croydon Plantation, tucked into the foothills of the Catadupa Mountains in St. James, is a spectacular working agricultural estate that produces coffee, pineapples, and citrus fruits. The property holds deep historical significance as the birthplace of National Hero Samuel Sharpe, the leader of the 1831 Christmas Rebellion. Today, visitors can explore the intersection of Jamaica’s struggle for freedom and its rich agricultural heritage. The plantation is famous for its panoramic views and warm hospitality, offering guided tours where guests can sample fresh exotic fruits and locally roasted coffee. Croydon serves as a perfect example of how traditional plantation life has evolved into modern ecotourism. The immersive experience includes learning about honey production and tropical spices while enjoying a traditional Jamaican lunch in a breathtaking mountain setting.",
+      "factsAdvanced": [
+        "A seven-time winner of the award for Jamaica's Best Plantation Tour.",
+        "Birthplace of National Hero Samuel Sharpe, a key figure in Jamaican history.",
+        "Cultivates sixteen different varieties of pineapples on its fertile slopes.",
+        "Produces some of the island’s finest 'High Mountain' specialty coffee.",
+        "Tours include demonstrations of beekeeping and the cultivation of tropical spices.",
+        "Offers stunning 360-degree views of the surrounding mountains and valleys.",
+        "Guests are treated to a traditional Jamaican buffet lunch at the tour's end.",
+        "Located near Catadupa, roughly a one-hour drive from Montego Bay."
+      ]
+    },
+    {
+      "id": "sun-valley-plantation-life-v2",
+      "descriptionAdvanced": "Sun Valley Plantation in St. Mary, near Oracabessa, is a family-owned agricultural estate that provides an educational journey through Jamaica’s rich botanical diversity. The tour focuses on the cultivation and medicinal uses of tropical plants, from cocoa and coconuts to traditional 'bush teas' used in folk medicine. Owners personally guide visitors, sharing stories of the plantation's history—from the colonial era to the present day—and the processing techniques for various crops. Known for its warm atmosphere and abundant fruit tastings, Sun Valley also serves as a genetic bank, preserving traditional Jamaican cultivars. The lush gardens are a haven for hummingbirds and butterflies, making it a favorite for nature enthusiasts. It offers an intimate look at rural Jamaican life while supporting the local economy through artisanal products.",
+      "factsAdvanced": [
+        "Situated in one of the most beautiful hilly regions of the St. Mary coast.",
+        "Showcases more than 30 different types of exotic tropical fruits during the tour.",
+        "Provides a detailed look at the steps of cocoa processing and chocolate making.",
+        "Famous for its fresh coconut water and homemade Jamaican banana bread.",
+        "Emphasizes chemical-free and sustainable organic farming practices.",
+        "The gardens are a prime spot for observing hummingbirds and tropical birdlife.",
+        "Offers visitors the chance to taste freshly prepared Jamaican ackee and saltfish.",
+        "Serves as a vital educational center for students of tropical botany."
+      ]
+    },
+    {
+      "id": "brimmer-hall-estate-life-v2",
+      "descriptionAdvanced": "Brimmer Hall Estate, located in the fertile parish of St. Mary, is one of Jamaica’s oldest and most imposing historic plantations, dating back to the 18th century. The Great House is a masterpiece of colonial architecture, featuring original mahogany woodwork and period furnishings that offer a window into the lifestyle of early planters. Far from being just a museum, Brimmer Hall remains an active agricultural hub, cultivating bananas, cocoa, and coconuts for international export. Visitors can explore the vast grounds on tractor-drawn jitneys, witnessing the blend of modern farming technology with colonial heritage. The estate reflects the rich agricultural history of the region and its economic evolution over centuries. With its swimming pool, bar, and restaurant serving traditional dishes, it provides a complete cultural and recreational experience.",
+      "factsAdvanced": [
+        "The Brimmer Hall Great House was built in the late 1700s in classic style.",
+        "Historically one of Jamaica’s largest suppliers of coconuts and bananas.",
+        "The interior is adorned with valuable antiques and crystal chandeliers.",
+        "Tours include a visit to the estate’s functional banana packing plant.",
+        "The grounds feature massive, centuries-old mahogany and cedar trees.",
+        "Includes a swimming pool and relaxation area for visiting guests.",
+        "Renowned for its on-site restaurant specializing in authentic Jamaican cuisine.",
+        "Located near Port Maria, easily accessible from the island’s north coast."
+      ]
+    },
+    {
+      "id": "high-mountain-coffee-life-v2",
+      "descriptionAdvanced": "High Mountain Coffee plantations, primarily located in the central highlands of Manchester and St. Catherine, represent a crucial pillar of Jamaica’s world-renowned coffee industry. While not grown within the specific Blue Mountain zone, High Mountain coffee thrives at elevations between 300 and 1,000 meters, producing a silky, rich flavor profile at a more accessible price point. The coffee trees are often interplanted with shade-providing banana and citrus trees, which contributes to the beans' unique aromatic notes. Visitors can follow the journey of the coffee cherry from the branch to the cup, observing traditional hand-harvesting, sun-drying, and the meticulous art of roasting. This industry supports thousands of small-scale farmers and embodies the agricultural expertise passed down through generations in the Jamaican mountains, making it a symbol of national pride.",
+      "factsAdvanced": [
+        "High Mountain coffee is typically grown at altitudes between 300 and 1,000 meters.",
+        "The processing facility in Williamsfield is one of the largest on the island.",
+        "The High Mountain Coffee brand is one of Jamaica's most recognized exports.",
+        "Many of the contributing plantations have been family-operated for decades.",
+        "Beans undergo rigorous quality control and grading before being exported.",
+        "The region's volcanic soil and cool climate provide ideal growing conditions.",
+        "Visitors can participate in cupping sessions to learn about different roast levels.",
+        "Coffee cultivation provides a vital livelihood for communities in the Manchester hills."
+      ]
+    },
+    {
+      "id": "st-mary-banana-life-v2",
+      "descriptionAdvanced": "The banana estates of St. Mary are the heart of Jamaica’s agricultural export history, as this region was the birthplace of the island’s banana trade in the late 19th century. The vast, verdant plantations still dominate the landscape around Oracabessa and Port Maria, where rich volcanic soil and high rainfall create perfect growing conditions. Jamaican bananas are celebrated for their sweetness and high quality, produced under strict standards for European and North American markets. Visitors to the estates can gain insight into the complex life cycle of the banana, from careful cultivation and protection of the fruit to modern harvesting and packing processes. The industry is not only an economic engine but also a cornerstone of St. Mary’s cultural identity, dictating the rhythm of life for local communities.",
+      "factsAdvanced": [
+        "Banana exports from Jamaica began in the 1860s from the ports of St. Mary.",
+        "The parish’s volcanic, nutrient-rich soil is considered the best for banana farming.",
+        "Most estates primarily cultivate the 'Cavendish' variety for international markets.",
+        "Fruit bunches are protected with special bags to prevent damage from pests and wind.",
+        "St. Mary Banana Chips is one of Jamaica’s most famous and popular snack brands.",
+        "The sector provides continuous employment for thousands of local residents.",
+        "Banana production was a key driver for infrastructure development on the north coast.",
+        "Modern estates utilize precision irrigation systems to optimize crop yields."
+      ]
+    },
+    {
+      "id": "duckenfield-sugar-life-v2",
+      "descriptionAdvanced": "The Duckenfield Sugar Cane Fields and its associated factory at the eastern tip of St. Thomas represent one of the last major bastions of Jamaica’s sugar industry. Situated near Morant Point, this area has been the center of sugar production for centuries, with vast plantations stretching all the way to the coastline. The Duckenfield factory is the primary employer in the region, producing raw sugar and molasses essential for the Jamaican rum industry. During the 'Crop Time' harvest season, the area is a hive of activity, blending traditional manual harvesting with modern mechanical loaders. Life in Duckenfield is governed by the rhythm of the cane, serving as a reminder of the island’s historical roots and the enduring importance of agriculture in 21st-century Jamaica.",
+      "factsAdvanced": [
+        "Duckenfield is the largest agricultural operation in the parish of St. Thomas.",
+        "The plantation area covers several thousand hectares along the eastern coast.",
+        "Molasses produced here is a key raw material for high-quality Jamaican rums.",
+        "The history of sugar mills in this specific region dates back to the 18th century.",
+        "The harvest season typically runs from January to June with 24-hour operations.",
+        "The Duckenfield economy is fundamental to the stability of the far eastern region.",
+        "Sugar cane waste, known as bagasse, is often used to generate energy for the plant.",
+        "The vast green 'sea of cane' offers a unique and iconic coastal landscape."
+      ]
+    },
+    {
+      "id": "orange-river-agriculture-life-v2",
+      "descriptionAdvanced": "The Orange River Agricultural Research Station in St. Mary is Jamaica’s scientific hub for tropical crop modernization. Specializing in the research of cocoa, citrus, and exotic fruits, the station develops disease-resistant varieties and tests sustainable farming methods. It serves as a vital bridge between theoretical science and practical application, providing training and technical advice to Jamaican farmers. The work performed at Orange River is crucial for the island’s food security and export growth, as researchers identify plants best suited to adapt to climate change. Visitors can tour experimental plots and nurseries, gaining a glimpse into the future of Jamaican agriculture. The station is also a center for preserving plant genetic resources, ensuring that the island’s unique agricultural heritage is protected for future generations.",
+      "factsAdvanced": [
+        "Jamaica’s oldest and most important center for cocoa research and development.",
+        "Located in the hills of St. Mary, near the town of Highgate.",
+        "Developed the famous Jamaican 'Trinitario' cocoa hybrids known for their flavor.",
+        "Operates a large nursery that provides high-quality seedlings to local farmers.",
+        "Research focuses on eco-friendly pest control and organic farming techniques.",
+        "Experts at Orange River collaborate with major international agricultural organizations.",
+        "The grounds host numerous experimental orchards with rare tropical fruit trees.",
+        "Serves as a primary training ground for young Jamaican agricultural engineers."
+      ]
+    },
+    {
+      "id": "bodles-research-life-v2",
+      "descriptionAdvanced": "Located near Old Harbour in St. Catherine, the Bodles Agricultural Research Station is the center of Jamaica’s livestock and crop research. The institution achieved worldwide acclaim for developing new cattle breeds, such as the heat-tolerant 'Jamaica Hope', which revolutionized dairy production in tropical climates. Spanning hundreds of hectares of pastures and laboratories, Bodles’ work directly impacts the nation’s self-sufficiency and the prosperity of rural communities. The station serves as a critical gene bank, protecting Jamaica’s unique agricultural heritage while supporting a modern, competitive economy. Beyond livestock, Bodles conducts extensive research on animal nutrition, sustainable grazing, and disease-resistant crop varieties, making it a pillar of scientific pride and an essential resource for farmers across the Caribbean.",
+      "factsAdvanced": [
+        "Founded in 1946 to modernize the Jamaican agricultural sector.",
+        "Birthplace of the 'Jamaica Hope' cattle breed, a mix of Jersey, Zebu, and Holstein.",
+        "Serves as the primary research base for the Ministry of Agriculture and Fisheries.",
+        "Renowned for its studies on forage crops and sustainable pasture management.",
+        "Houses the nation's most important gene bank for local livestock and plants.",
+        "Actively develops biological pest control methods and irrigation technologies.",
+        "Helped Jamaica become a regional leader in tropical dairy production.",
+        "Provides technical assistance and genetic material to other Caribbean nations."
+      ]
+    },
+    {
+      "id": "clarendon-citrus-life-v2",
+      "descriptionAdvanced": "Clarendon is Jamaica’s premier citrus-growing region, where sunny plains and fertile alluvial soils provide ideal conditions for oranges, grapefruits, and limes. The vast orchards are not only a scenic part of the landscape but also the primary source of raw materials for the island's famous fruit juices and concentrates. The citrus industry is the economic engine of Clarendon, built on decades of tradition while constantly adapting to modern market demands. The region is particularly famous for the 'Ortanique,' a unique Jamaican hybrid of an orange and a tangerine. Large-scale orchards are integrated with modern processing plants that ensure high-quality standards for both local consumption and export to the CARICOM and North American markets, supporting thousands of seasonal and permanent jobs.",
+      "factsAdvanced": [
+        "Over 60 percent of Jamaica's citrus production takes place in the parish of Clarendon.",
+        "Home to the central processing facility of the Jamaica Citrus Growers Association.",
+        "Famous for the 'Ugli Fruit,' a locally developed tangelo hybrid.",
+        "Many plantations utilize modern drip irrigation to ensure sustainable water use.",
+        "The air is filled with the sweet scent of citrus blossoms in February and March.",
+        "Byproducts are used to produce essential oils and high-protein animal feed.",
+        "The sector is a major source of export earnings within the Caribbean region.",
+        "The orchards provide a vital habitat for native birds and beneficial insects."
+      ]
+    },
+    {
+      "id": "flagaman-melon-life-v2",
+      "descriptionAdvanced": "Flagaman, located in the dry southern plains of St. Elizabeth, is recognized as the 'Melon Capital' of Jamaica. Local farmers are masters of dry-land farming, using innovative grass-mulching techniques to conserve soil moisture despite minimal rainfall. This ingenuity allows them to produce the island’s sweetest and largest watermelons, which have become a respected national brand. During harvest season, roadside vendors along the 'Melon Road' showcase the region’s agricultural excellence. Flagaman is a symbol of Jamaican resilience, where sweet abundance is coaxed from harsh natural conditions, defining the gastronomic and economic character of the south coast. The community’s success highlights the importance of traditional knowledge and community cooperation in sustaining a thriving rural economy in an arid environment.",
+      "factsAdvanced": [
+        "Flagaman farmers pioneered the use of grass mulch to retain soil moisture.",
+        "Besides watermelons, the area is famous for high-quality cantaloupes and pumpkins.",
+        "Located in the rain shadow of the Santa Cruz Mountains, one of the island's driest areas.",
+        "The intense sunlight results in melons with an exceptionally high sugar content.",
+        "Peak harvest season occurs between April and August each year.",
+        "Local farmers work closely with water authorities to optimize irrigation strategies.",
+        "The 'Melon Road' hosts annual festivals and competitions for the largest harvests.",
+        "Flagaman’s production significantly influences the supply of the national melon market."
+      ]
+    },
+    {
+      "id": "serge-island-dairy-life-v2",
+      "descriptionAdvanced": "Serge Island Dairies in the Morant River valley of St. Thomas is Jamaica’s largest and most advanced dairy operation. This massive farm integrates forage production with the raising of high-yielding cattle breeds, such as the 'Jamaica Hope,' to provide a significant portion of the island’s fresh milk. The estate has a deep historical significance, having successfully transitioned from a sugar plantation to a modern dairy powerhouse. Serge Island is a trusted national brand, producing not only fresh milk but also flavored milk drinks and juices that are staples in Jamaican households and school feeding programs. The farm emphasizes strict quality control and sustainable grazing practices, supporting the rural economy of the southeast through technology investment and training for local staff, ensuring national food security.",
+      "factsAdvanced": [
+        "Recognized as Jamaica’s largest contiguous dairy farming operation.",
+        "Located in the scenic Morant River valley near the town of Seaforth.",
+        "Utilizes the specially bred 'Jamaica Hope' cattle, adapted for tropical climates.",
+        "Famous for its range of flavored milk drinks and boxed cocoa beverages.",
+        "The facility operates under a strict HACCP food safety management system.",
+        "Manages several hundred hectares using sustainable pasture management techniques.",
+        "Plays a major role in the government's National School Milk Program.",
+        "Operates its own extensive logistics network to deliver products nationwide."
+      ]
+    }
+  ]
+}

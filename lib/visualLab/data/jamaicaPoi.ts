@@ -330,10 +330,10 @@ export const jamaicaCities: POI[] = [
     coords: [-76.84, 17.93],
     name: { de: "Port Royal", hu: "Port Royal", ro: "Port Royal", en: "Port Royal" },
     description: {
-      de: "Einst die \\\"sündigste Stadt der Welt\\\", heute ein ruhiges Fischerdorf.",
-      hu: "Egykor a \\\"világ legbűnösebb városa\\\", ma csendes halászfalu.",
-      ro: "Odinioară \\\"cel mai păcătos oraș de pe pământ\\\", acum un sat pescăresc liniștit.",
-      en: "Once the 'wickedest city on earth', now a quiet fishing village."
+      de: "Port Royal war vor einem verheerenden Erdbeben im Jahr 1692 als die „sündigste Stadt der Welt“ bekannt. Es ist ein historisches Fischerdorf am Ende der Palisadoes an der Mündung des Kingston Harbour.",
+      hu: "Port Royal az 1692-es pusztító földrengés előtt a „föld legbűnösebb városaként” volt ismert. Ez egy történelmi halászfalu, amely a Palisadoes végén, a Kingstoni kikötő torkolatánál található.",
+      ro: "Port Royal a fost cunoscut odinioară ca „cel mai pervers oraș de pe pământ” înainte de un cutremur devastator în 1692. Este un sat istoric de pescari situat la capătul peninsulei Palisadoes, la gura portului Kingston.",
+      en: "Port Royal was once known as the 'wickedest city on earth' before a devastating earthquake in 1692. It is a historic fishing village located at the end of the Palisadoes at the mouth of the Kingston Harbour."
     },
     descriptionAdvanced: {
       de: "Im 17. Jahrhundert war Port Royal das berüchtigte Zentrum für Piraterie in der Karibik. Nach einem verheerenden Erdbeben im Jahr 1692 versank ein Großteil der Stadt im Meer, was sie heute zu einer der bedeutendsten archäologischen Unterwasserstätten der Welt macht.",
@@ -342,10 +342,10 @@ export const jamaicaCities: POI[] = [
       en: "Port Royal was the 17th-century's most notorious pirate haven, once dubbed the 'wickedest city on earth.' Following a massive earthquake in 1692, two-thirds of the city sank into the sea, creating a globally unique underwater archaeological site."
     },
     facts: {
-      de: ["Piraten-Hauptstadt", "Erdbeben von 1692", "Unterwasser-Ruinen", "Fort Charles"],
-      hu: ["Kalózkapitányság", "1692-es földrengés", "Vízalatti romok", "Fort Charles erőd"],
-      ro: ["Capitala piraților", "Cutremurul din 1692", "Ruine subacvatice", "Fortul Charles"],
-      en: ["17th-century pirate capital", "Sank in 1692 earthquake", "Underwater archaeological site", "Home to Fort Charles"]
+      de: ["Es war ein berüchtigter Zufluchtsort für Piraten und Freibeuter.", "Ein gewaltiges Erdbeben im Jahr 1692 ließ einen großen Teil der Stadt im Meer versinken.", "Heute ist es ein ruhiges Fischerdorf und eine bedeutende archäologische Stätte."],
+      hu: ["Hírhedt menedékhelye volt a kalózoknak.", "Egy 1692-es hatalmas földrengés következtében a város nagy része a tengerbe süllyedt.", "Ma csendes halászfalu és fontos régészeti lelőhely."],
+      ro: ["A fost un refugiu notoriu pentru pirați și corsari.", "Un cutremur masiv în 1692 a făcut ca o mare parte din oraș să se scufunde în mare.", "Astăzi, este un sat liniștit de pescari și un important sit arheologic."],
+      en: ["It was a notorious haven for pirates and privateers.", "A massive earthquake in 1692 caused much of the city to sink into the sea.", "Today, it is a quiet fishing village and an important archaeological site."]
     },
     factsAdvanced: {
       de: ["Berühmte Piraten wie Henry Morgan machten Port Royal zu ihrer Basis", "Zwei Drittel der Stadt versanken bei der Katastrophe von 1692 im Hafen", "Heute ist es ein UNESCO-Kandidat wegen seiner archäologischen Bedeutung"],

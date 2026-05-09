@@ -181,10 +181,10 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Branau", "hu": "Baranya", "ro": "Baranya", "en": "Baranya"},
     image: "/geo-images/hungary/baranya.webp",
     description: {
-      "de": "Das Komitat Baranya liegt im äußersten Süden Ungarns an der Grenze zu Kroatien und ist bekannt für sein mildes, fast mediterranes Klima. Die Region wird im Norden durch das Mecsek-Gebirge und im Süden durch die Flüsse Drau und Donau begrenzt, was eine abwechslungsreiche und fruchtbare Landschaft schafft. Das kulturelle Zentrum ist die Stadt Pécs, die mit ihrem reichen römischen und osmanischen Erbe sowie ihrer lebendigen Kunstszene besticht. Baranya ist zudem berühmt für seine erstklassigen Weinregionen, insbesondere Villány, und seine vielfältigen ethnischen Traditionen, die durch das Zusammenleben von Ungarn, Deutschen und Kroaten geprägt sind. Die Region bietet eine einzigartige Mischung aus historischer Tiefe, natürlicher Schönheit und kulinarischen Genüssen.",
-      "hu": "Baranya vármegye Magyarország legdélebbi részén, a horvát határ mentén fekszik, és enyhe, szinte mediterrán éghajlatáról ismert. A régiót északról a Mecsek-hegység, délről pedig a Dráva és a Duna folyók határolják, változatos és termékeny tájat hozva létre. Kulturális központja Pécs, amely gazdag római és oszmán örökségével, valamint élénk művészeti életével nyűgözi le a látogatókat. Baranya emellett híres kiváló borvidékeiről, különösen Villányról, és sokszínű etnikai hagyományairól, amelyeket a magyarok, németek és horvátok együttélése formált. A vármegye a történelmi mélység, a természeti szépség és a kulináris élvezetek egyedülálló keverékét kínálja.",
-      "ro": "Județul Baranya este situat în extremitatea sudică a Ungariei, la granița cu Croația, și este cunoscut pentru clima sa blândă, aproape mediteraneană. Regiunea este mărginită la nord de munții Mecsek și la sud de râurile Drava și Dunăre, creând un peisaj variat și fertil. Centrul cultural este orașul Pécs, care impresionează prin moștenirea sa bogată romană și otomană, precum și prin scena sa artistică vibrantă. Baranya este, de asemenea, faimoasă pentru regiunile sale viticole de primă clasă, în special Villány, și pentru tradițiile sale etnice diverse, modelate de conviețuirea maghiarilor, germanilor și croaților. Județul oferă un amestec unic de profunzime istorică, frumusețe naturală și delicii culinare.",
-      "en": "Baranya County is located in the far south of Hungary on the border with Croatia and is known for its mild, almost Mediterranean climate. The region is bordered to the north by the Mecsek Mountains and to the south by the rivers Drava and Danube, creating a diverse and fertile landscape. Its cultural center is the city of Pécs, which impresses visitors with its rich Roman and Ottoman heritage and its vibrant art scene. Baranya is also famous for its world-class wine regions, particularly Villány, and its diverse ethnic traditions shaped by the coexistence of Hungarians, Germans, and Croatians. The county offers a unique blend of historical depth, natural beauty, and culinary delights."
+      "de": "Baranya ist ein Komitat im Süden Ungarns an der Grenze zu Kroatien. Es ist bekannt für sein mediterranes Klima, historische Städte und die Weinregion Villány.",
+      "hu": "Baranya Magyarország legdélebbi megyéje, mely Horvátországgal határos. Mediterrán klímájáról, történelmi városairól és a híres villányi borvidékről ismert.",
+      "ro": "Baranya este un județ în sudul Ungariei, la granița cu Croația. Este cunoscut pentru clima sa mediteraneană, orașele istorice și celebra regiune viticolă Villány.",
+      "en": "Baranya is a county in southern Hungary, sharing a border with Croatia. It is known for its Mediterranean climate, historic cities, and the famous Villány wine region."
     },
     descriptionAdvanced: {
       "de": "Das Komitat Baranya liegt im äußersten Süden Ungarns und grenzt an Kroatien. Die Region zeichnet sich durch ihr mildes, fast mediterranes Klima aus, das den Weinbau in Gebieten wie Villány besonders begünstigt. Im Norden wird die Landschaft vom malerischen Mecsek-Gebirge dominiert, während im Süden die Flüsse Drau und Donau eine natürliche Grenze bilden. Das kulturelle Zentrum ist die historische Stadt Pécs, die für ihr reiches römisches und osmanisches Erbe bekannt ist. Baranya ist zudem eine Region, in der verschiedene ethnische Traditionen von Ungarn, Deutschen und Kroaten harmonisch zusammenleben.",
@@ -193,54 +193,10 @@ export const hungaryRegions: POI[] = [
       "en": ""
     },
     facts: {
-      "de": [
-        "Sitz des Komitats ist Pécs, eine Stadt mit über 2000-jähriger Geschichte.",
-        "Das Mecsek-Gebirge schützt die Region vor kalten Nordwinden.",
-        "Villány ist eine der renommiertesten Rotweinregionen Ungarns.",
-        "Die frühchristlichen Grabkammern in Pécs gehören zum UNESCO-Welterbe.",
-        "Baranya hat einen hohen Anteil an nationalen Minderheiten, insbesondere Donauschwaben.",
-        "Die Burg von Siklós ist eine der am besten erhaltenen mittelalterlichen Burgen des Landes.",
-        "Das Heilbad Harkány ist weltweit für sein schwefelhaltiges Wasser bekannt.",
-        "Die Region war Schauplatz der historischen Schlacht von Mohács im Jahr 1526.",
-        "Das Busójárás-Festival in Mohács ist Teil des immateriellen UNESCO-Kulturerbes.",
-        "Baranya ist reich an Thermalquellen und bietet zahlreiche Wellness-Möglichkeiten."
-      ],
-      "hu": [
-        "A vármegye székhelye Pécs, amely több mint 2000 éves múltra tekint vissza.",
-        "A Mecsek-hegység óvja a régiót a hideg északi szelektől.",
-        "Villány Magyarország egyik legelismertebb vörösbortermelő vidéke.",
-        "A pécsi ókeresztény sírkamrák az UNESCO világörökség részét képezik.",
-        "Baranyában jelentős a nemzetiségi kisebbségek, különösen a németek és horvátok aránya.",
-        "A siklósi vár az ország egyik legépebben maradt középkori erődítménye.",
-        "A harkányi gyógyfürdő kénes vizéről világszerte híres.",
-        "A vármegye területén zajlott a történelmi jelentőségű mohácsi csata 1526-ban.",
-        "A mohácsi busójárás az UNESCO szellemi kulturális örökségének része.",
-        "Baranya gazdag termálforrásokban és számos wellness lehetőséget kínál."
-      ],
-      "ro": [
-        "Reședința județului este Pécs, un oraș cu o istorie de peste 2000 de ani.",
-        "Munții Mecsek protejează regiunea de vânturile reci din nord.",
-        "Villány este una dintre cele mai renumite regiuni de vin roșu din Ungaria.",
-        "Mormintele paleocreștine din Pécs fac parte din patrimoniul mondial UNESCO.",
-        "Baranya are o proporție ridicată de minorități naționale, în special șvabi dunăreni.",
-        "Castelul din Siklós este unul dintre cele mai bine conservate castele medievale din țară.",
-        "Stațiunea balneară Harkány este cunoscută în întreaga lume pentru apa sa sulfuroasă.",
-        "Regiunea a fost locul bătăliei istorice de la Mohács din anul 1526.",
-        "Festivalul Busójárás din Mohács face parte din patrimoniul cultural imaterial UNESCO.",
-        "Baranya este bogată în izvoare termale și oferă numeroase oportunități de wellness."
-      ],
-      "en": [
-        "The county seat is Pécs, a city with over 2,000 years of history.",
-        "The Mecsek Mountains protect the region from cold northern winds.",
-        "Villány is one of Hungary's most prestigious red wine regions.",
-        "The Early Christian Necropolis in Pécs is a UNESCO World Heritage site.",
-        "Baranya has a high proportion of national minorities, especially Danube Swabians.",
-        "Siklós Castle is one of the best-preserved medieval castles in the country.",
-        "The Harkány spa is world-famous for its sulfurous water.",
-        "The county was the site of the historic Battle of Mohács in 1526.",
-        "The Busójárás festival in Mohács is part of the UNESCO Intangible Cultural Heritage.",
-        "Baranya is rich in thermal springs and offers numerous wellness opportunities."
-      ]
+      "de": ["Die Hauptstadt ist Pécs.", "Es beherbergt das Mecsek-Gebirge.", "Es ist das südlichste Komitat Ungarns."],
+      "hu": ["Székhelye Pécs.", "Itt található a Mecsek hegység.", "Magyarország legdélebbi megyéje."],
+      "ro": ["Capitala sa este Pécs.", "Aici se află munții Mecsek.", "Este cel mai sudic județ al Ungariei."],
+      "en": ["The capital is Pécs.", "It features the Mecsek mountains.", "It is Hungary's southernmost county."]
     },
     factsAdvanced: {
       "de": ["Die frühchristlichen Grabkammern in Pécs gehören zum UNESCO-Welterbe.", "Das Mecsek-Gebirge schützt die Region vor kalten Nordwinden und sorgt für ein mildes Klima.", "Villány ist eine der renommiertesten Rotweinregionen Ungarns und international anerkannt.", "Die Burg von Siklós ist eine der am besten erhaltenen mittelalterlichen Festungen des Landes."],
@@ -266,10 +222,10 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Bács-Kiskun", "hu": "Bács-Kiskun", "ro": "Bács-Kiskun", "en": "Bács-Kiskun"},
     image: "/geo-images/hungary/bacs-kiskun.webp",
     description: {
-      "de": "Bács-Kiskun ist das flächenmäßig größte Komitat Ungarns und liegt im zentralen Süden des Landes zwischen den Flüssen Donau und Theiß. Die Region ist geprägt durch die weite Landschaft der Großen Ungarischen Tiefebene (Alföld) und beherbergt den Nationalpark Kiskunság mit seinen einzigartigen Sanddünen und Salzseen. Das wirtschaftliche und kulturelle Zentrum ist Kecskemét, eine Stadt, die für ihre prächtige Jugendstil-Architektur und die Produktion von hochwertigem Aprikosenschnaps (Barackpálinka) bekannt ist. Bács-Kiskun spielt eine zentrale Rolle in der ungarischen Landwirtschaft und ist berühmt für seine Traditionen in der Pferdehaltung und Viehzucht. Die Region bietet Besuchern eine authentische Erfahrung der ungarischen Puszta-Kultur gepaart mit moderner Gastfreundschaft.",
-      "hu": "Bács-Kiskun Magyarország legnagyobb területű vármegyéje, amely az ország déli-középső részén, a Duna és a Tisza között terül el. A régiót az Alföld végtelen rónaságai határozzák meg, itt található a Kiskunsági Nemzeti Park is, amely egyedülálló homokbuckáiról és szikes tavairól nevezetes. Gazdasági és kulturális központja Kecskemét, amely lenyűgöző szecessziós építészetéről és a világhírű kecskeméti barackpálinkáról ismert. Bács-Kiskun központi szerepet tölt be a magyar mezőgazdaságban, és híres lovas hagyományairól, valamint állattenyésztési kultúrájáról, különösen Bugac környékén. A vármegye az alföldi táj szépségét, a pusztai hagyományokat és a modern vendéglátást ötvözi.",
-      "ro": "Bács-Kiskun este cel mai mare județ din Ungaria ca suprafață, situat în partea central-sudică a țării, între fluviile Dunărea și Tisa. Regiunea este caracterizată de peisajul vast al Marii Câmpii Maghiare (Alföld) și găzduiește Parcul Național Kiskunság, cu dunele sale de nisip unice și lacurile sărate. Centrul economic și cultural este Kecskemét, un oraș renumit pentru arhitectura sa splendidă în stil Art Nouveau și pentru producția de pălincă de caise de înaltă calitate (Barackpálinka). Bács-Kiskun joacă un rol central în agricultura maghiară și este faimos pentru tradițiile sale în creșterea cailor și a vitelor. Județul oferă vizitatorilor o experiență autentică a culturii maghiare de pustă, combinată cu o ospitalitate modernă.",
-      "en": "Bács-Kiskun is the largest county in Hungary by area, located in the central-southern part of the country between the Danube and Tisza rivers. The region is characterized by the vast landscape of the Great Hungarian Plain (Alföld) and is home to the Kiskunság National Park with its unique sand dunes and salt lakes. Its economic and cultural center is Kecskemét, a city famous for its stunning Art Nouveau architecture and the production of high-quality apricot brandy (Barackpálinka). Bács-Kiskun plays a central role in Hungarian agriculture and is famous for its traditions in horse breeding and livestock farming. The county offers visitors an authentic experience of Hungarian Puszta culture paired with modern hospitality."
+      "de": "Bács-Kiskun ist das flächenmäßig größte Komitat in Ungarn und liegt im Süden. Es ist berühmt für seine weiten Ebenen, die Landwirtschaft und die traditionelle ungarische Kultur.",
+      "hu": "Bács-Kiskun Magyarország legnagyobb területű megyéje, mely az ország déli részén található. Hatalmas síkságairól, mezőgazdaságáról és hagyományos magyar kultúrájáról híres.",
+      "ro": "Bács-Kiskun este cel mai mare județ din Ungaria, situat în partea de sud a țării. Este renumit pentru câmpiile sale vaste, agricultură și cultura maghiară tradițională.",
+      "en": "Bács-Kiskun is the largest county in Hungary, located in the southern part of the country. It is famous for its vast plains, agriculture, and traditional Hungarian culture."
     },
     descriptionAdvanced: {
       "de": "Das Komitat Bács-Kiskun ist das flächenmäßig größte in Ungarn und liegt in der weiten Ebene zwischen Donau und Theiß. Diese Region repräsentiert das klassische Bild der ungarischen Puszta, mit endlosen Weiten und einer tief verwurzelten landwirtschaftlichen Tradition. Die Landschaft ist geprägt von Sanddünen, Feuchtgebieten und Nationalparks, die eine einzigartige Flora und Fauna beheimaten. Kecskemét, die Hauptstadt des Komitats, besticht durch ihre prächtige Jugendstilarchitektur und ist weithin für ihren Aprikosenschnaps bekannt. Zudem ist die Region berühmt für das traditionelle Hirtenleben und die beeindruckenden Reitervorführungen, die noch heute gepflegt werden.",
@@ -278,54 +234,10 @@ export const hungaryRegions: POI[] = [
       "en": "Spanning the vast expanse between the Danube and Tisza rivers, Bács-Kiskun is Hungary's largest county and the quintessential embodiment of the iconic Puszta landscape. This region captures the untamed spirit of the Great Hungarian Plain, where endless horizons meet traditional horse-breeding heritage and vibrant folk customs. The Kiskunság National Park forms the ecological heart of the county, mesmerizing nature lovers with its shifting sand dunes, alkaline lakes, and diverse birdlife. At its center lies Kecskemét, a city celebrated for its breathtaking Art Nouveau architecture, such as the vividly tiled Cifra Palace. Bács-Kiskun is also a culinary powerhouse, famous worldwide for producing the aromatic Barackpálinka (apricot brandy) and robust, sun-ripened paprika."
     },
     facts: {
-      "de": [
-        "Sitz des Komitats ist Kecskemét, bekannt als die 'Stadt des Jugendstils'.",
-        "Es ist das einzige Komitat Ungarns, das an zwei große Flüsse (Donau und Theiß) grenzt.",
-        "Der Nationalpark Kiskunság schützt die einzigartige Flora und Fauna der Sandsteppe.",
-        "Bugac ist ein weltberühmtes Zentrum für ungarische Hirtentraditionen und Reitvorführungen.",
-        "Die Region ist einer der wichtigsten Produzenten von Obst und Gemüse in Ungarn.",
-        "Kajós ist bekannt für seine historischen Weinkeller, die in Lösswände gegraben wurden.",
-        "In Kecskemét befindet sich das berühmte Kodály-Institut für Musikpädagogik.",
-        "Das Komitat hat eine bedeutende deutsche Minderheit, insbesondere in der Gegend um Baja.",
-        "Die Fischsuppe aus Baja (Bajai halászlé) ist eine geschützte kulinarische Spezialität.",
-        "Bács-Kiskun ist ein wichtiger Standort für die Automobilindustrie (Mercedes-Benz Werk)."
-      ],
-      "hu": [
-        "A vármegye székhelye Kecskemét, amelyet a 'szecesszió városaként' is emlegetnek.",
-        "Ez az egyetlen vármegye, amely két nagy folyóval, a Dunával és a Tiszával is határos.",
-        "A Kiskunsági Nemzeti Park óvja a homokpuszták egyedülálló növény- és állatvilágát.",
-        "Bugac a magyar pásztorhagyományok és lovasbemutatók világhírű központja.",
-        "A régió Magyarország egyik legfontosabb zöldség- és gyümölcstermesztő vidéke.",
-        "Hajós híres a löszfalba vájt, több mint 1200 pincéből álló borfalujáról.",
-        "Kecskeméten található a neves Kodály Zoltán Zenepedagógiai Intézet.",
-        "A vármegyében jelentős német nemzetiség él, különösen Baja környékén.",
-        "A bajai halászlé hungarikum és a régió egyik legfontosabb gasztronómiai értéke.",
-        "Bács-Kiskun a hazai járműgyártás egyik fellegvára a kecskeméti Mercedes-gyár révén."
-      ],
-      "ro": [
-        "Reședința județului este Kecskemét, cunoscut sub numele de 'orașul secesiunii'.",
-        "Este singurul județ din Ungaria care se învecinează cu două fluvii mari (Dunărea și Tisa).",
-        "Parcul Național Kiskunság protejează flora și fauna unică a stepei de nisip.",
-        "Bugac este un centru renumit mondial pentru tradițiile păstorești maghiare și spectacolele ecvestre.",
-        "Regiunea este unul dintre cei mai importanți producători de fructe și legume din Ungaria.",
-        "Hajós este faimos pentru satul său de crame, cu peste 1.200 de pivnițe săpate în loess.",
-        "În Kecskemét se află renumitul Institut Kodály pentru pedagogie muzicală.",
-        "Județul are o minoritate germană semnificativă, în special în zona orașului Baja.",
-        "Ciorba de pește din Baja (Bajai halászlé) este o specialitate culinară protejată.",
-        "Bács-Kiskun este un centru important pentru industria auto (fabrica Mercedes-Benz)."
-      ],
-      "en": [
-        "The county seat is Kecskemét, known as the 'City of Art Nouveau'.",
-        "It is the only county in Hungary that borders two major rivers (Danube and Tisza).",
-        "The Kiskunság National Park protects the unique flora and fauna of the sand steppe.",
-        "Bugac is a world-famous center for Hungarian shepherd traditions and equestrian shows.",
-        "The region is one of the most important producers of fruits and vegetables in Hungary.",
-        "Hajós is famous for its wine cellar village, with over 1,200 cellars dug into loess walls.",
-        "Kecskemét is home to the prestigious Kodály Institute for music education.",
-        "The county has a significant German minority, especially in the area around Baja.",
-        "The fish soup from Baja (Bajai halászlé) is a protected culinary specialty.",
-        "Bács-Kiskun is a major hub for the automotive industry (Mercedes-Benz plant)."
-      ]
+      "de": ["Die Hauptstadt ist Kecskemét.", "Der Nationalpark Kiskunság befindet sich hier.", "Es liegt zwischen den Flüssen Donau und Theiß."],
+      "hu": ["Székhelye Kecskemét.", "Itt terül el a Kiskunsági Nemzeti Park.", "A Duna és a Tisza folyók között fekszik."],
+      "ro": ["Capitala sa este Kecskemét.", "Aici se află Parcul Național Kiskunság.", "Este situat între râurile Dunărea și Tisa."],
+      "en": ["Its capital is Kecskemét.", "The Kiskunság National Park is located here.", "It lies between the Danube and Tisza rivers."]
     },
     factsAdvanced: {
       "de": ["Bács-Kiskun nimmt etwa ein Zehntel der gesamten Fläche Ungarns ein.", "Der Kiskunság-Nationalpark ist das größte zusammenhängende Naturschutzgebiet zwischen Donau und Theiß.", "Kecskemét ist das Zentrum der ungarischen Jugendstilarchitektur und Geburtsort von Zoltán Kodály.", "Die Region ist berühmt für den traditionellen 'Barackpálinka', einen hochwertigen Aprikosenschnaps."],
@@ -351,10 +263,10 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Békés", "hu": "Békés", "ro": "Békés", "en": "Békés"},
     image: "/geo-images/hungary/bekes.webp",
     description: {
-      "de": "Das Komitat Békés liegt im Südosten Ungarns an der Grenze zu Rumänien und ist als das 'Brotkörbchen' des Landes bekannt. Die Region ist geprägt von extrem fruchtbaren Schwarzerdeböden und einer weiten, flachen Landschaft, die ideal für den großflächigen Ackerbau ist. Das kulturelle und administrative Zentrum ist Békéscsaba, eine Stadt, die weltweit für ihre Gastronomie, insbesondere die berühmte Csabaer Wurst (Csabai kolbász), bekannt ist. Békés beherbergt zudem bedeutende historische Stätten wie die Burg von Gyula, die einzige erhaltene Backsteinburg in Mitteleuropa, und ist reich an Thermalquellen. Die Region bewahrt stolz ihre vielfältigen Traditionen, die durch das jahrhundertelange Zusammenleben von Ungarn, Slowaken, Rumänen und Deutschen geformt wurden.",
-      "hu": "Békés vármegye Magyarország délkeleti részén, a román határ mentén fekszik, és az ország egyik legfontosabb mezőgazdasági területeként, az 'ország éléstáraként' ismert. A régiót rendívül termékeny mezőségi talajok és végtelen rónaságok jellemzik, amelyek ideálisak a szántóföldi növénytermesztéshez. Kulturális és közigazgatási központja Békéscsaba, amely világszerte híres gasztronómiájáról, különösen a hungarikumnak számító csabai kolbászról. Békés vármegye olyan jelentős történelmi emlékekkel is büszkélkedhet, mint a gyulai vár, amely Közép-Európa egyetlen épen maradt gótikus téglaerődítménye. A vármegye büszkén őrzi sokszínű hagyományait, amelyeket a magyarok, szlovákok, románok és németek évszázados együttélése formált.",
-      "ro": "Județul Békés este situat în sud-estul Ungariei, la granița cu România, și este cunoscut drept 'coșul de pâine' al țării. Regiunea este caracterizată de soluri de cernoziom extrem de fertile și de un peisaj plat și vast, ideal pentru agricultura la scară largă. Centrul cultural și administrativ este Békéscsaba, un oraș renumit în întreaga lume pentru gastronomia sa, în special pentru celebrul cârnat de Csaba (Csabai kolbász). Békés găzduiește, de asemenea, situri istorice importante, cum ar fi Castelul din Gyula, singura cetate de cărămidă conservată din Europa Centrală, și este bogat în izvoare termale. Județul își păstrează cu mândrie tradițiile diverse, modelate de conviețuirea de secole a maghiarilor, slovacilor, românilor și germanilor.",
-      "en": "Békés County is located in southeastern Hungary on the border with Romania and is known as the country's 'breadbasket'. The region is characterized by extremely fertile chernozem soils and a vast, flat landscape ideal for large-scale arable farming. Its cultural and administrative center is Békéscsaba, a city world-famous for its gastronomy, particularly the renowned Csaba sausage (Csabai kolbász). Békés also home to significant historical sites such as the Gyula Castle, the only preserved brick fortress in Central Europe, and is rich in thermal springs. The county proudly preserves its diverse traditions, shaped by centuries of coexistence between Hungarians, Slovaks, Romanians, and Germans."
+      "de": "Das Komitat Békés liegt im Südosten Ungarns an der rumänischen Grenze. Es ist eine landwirtschaftliche Region, die für ihre fruchtbaren Böden und Kurorte bekannt ist.",
+      "hu": "Békés megye Magyarország délkeleti sarkában található, Romániával határos. Elsősorban mezőgazdasági vidék, mely termékeny talajáról és fürdővárosairól ismert.",
+      "ro": "Județul Békés este situat în colțul de sud-est al Ungariei, la granița cu România. Este o regiune agricolă, cunoscută pentru solurile sale fertile și orașele balneare.",
+      "en": "Békés county is situated in the southeastern corner of Hungary, bordering Romania. It is primarily an agricultural region known for its fertile soils and spa towns."
     },
     descriptionAdvanced: {
       "de": "Békés liegt im Südosten Ungarns und ist eine der fruchtbarsten Agrarregionen des Landes, oft als die 'Speisekammer Ungarns' bezeichnet. Die Landschaft wird von der Großen Ungarischen Tiefebene und dem Fluss Körös (Kreisch) geprägt, der malerische Auenlandschaften bildet. Die Region ist stark durch Traditionen und Volkskunst geprägt, insbesondere durch die Herstellung von hochwertigen Wurstwaren wie der Csabai-Wurst. Die Komitatshauptstadt Békéscsaba und die historische Badestadt Gyula locken mit Thermalbädern und einer entspannten Atmosphäre. Zudem zeugt die Architektur von einer reichen Vergangenheit, in der verschiedene Kulturen ihre Spuren hinterließen.",
@@ -363,54 +275,10 @@ export const hungaryRegions: POI[] = [
       "en": "Often hailed as the 'breadbasket of Hungary,' Békés County lies in the sunlit southeastern corner of the country, bordering Romania. This remarkably flat and fertile region is defined by its rich black soil, which has supported thriving agricultural communities for centuries. The administrative center, Békéscsaba, has gained international fame not only for its tranquil charm but also for its legendary culinary export: the spicy, paprika-infused Csaba sausage. History enthusiasts are drawn to Gyula, home to Central Europe's only intact Gothic brick castle and a renowned thermal spa complex. The cultural landscape of Békés is beautifully complex, shaped by the peaceful coexistence and shared traditions of Hungarian, Slovak, Romanian, and German inhabitants."
     },
     facts: {
-      "de": [
-        "Sitz des Komitats ist Békéscsaba, Austragungsort des berühmten Wurstfestivals.",
-        "Die Burg von Gyula ist die einzige intakte gotische Backsteinburg in Mitteleuropa.",
-        "Die Region hat die besten Bodenqualitäten Ungarns für den Weizenanbau.",
-        "Szarvas beherbergt das größte Arboretum Ungarns und das historische Mühlendenkmal.",
-        "Die Csabaer Wurst (Csabai kolbász) ist ein geschütztes Hungarikum.",
-        "Das Heilbad in Gyula befindet sich im ehemaligen Park des Almásy-Schlosses.",
-        "Mezőhegyes ist berühmt für sein staatliches Gestüt und seine Pferdezucht-Tradition.",
-        "Die Region ist ein wichtiges Zentrum der slowakischen Minderheit in Ungarn.",
-        "Békés ist reich an Erdgasvorkommen und geothermischer Energie.",
-        "Die Flüsse Körös bieten hervorragende Möglichkeiten für Angler und Wassertouristen."
-      ],
-      "hu": [
-        "A vármegye székhelye Békéscsaba, a híres Csabai Kolbászfesztivál otthona.",
-        "A gyulai vár Közép-Európa egyetlen épen maradt gótikus téglaerődítménye.",
-        "A régió rendelkezik Magyarország legjobb minőségű termőföldjeivel.",
-        "Szarvason található az ország legnagyobb arborétuma és a történelmi Magyarország közepe.",
-        "A csabai kolbász és a gyulai kolbász is világszerte ismert hungarikum.",
-        "A Gyulai Várfürdő az egykori Almásy-kastély természetvédelmi területté nyilvánított parkjában található.",
-        "Mezőhegyes híres az Állami Ménesbirtokról és a nóniusz lófajta tenyésztéséről.",
-        "A vármegye a magyarországi szlovák kisebbség egyik legfontosabb kulturális központja.",
-        "Békés vármegye jelentős földgázkészletekkel és geotermikus energiával rendelkezik.",
-        "A Körösök vidéke kiváló lehetőségeket nyújt a horgászat és a vízi turizmus kedvelőinek."
-      ],
-      "ro": [
-        "Reședința județului este Békéscsaba, gazda celebrului Festival al Cârnatului.",
-        "Castelul din Gyula este singura cetate gotică de cărămidă intactă din Europa Centrală.",
-        "Regiunea are cele mai bune calități de sol din Ungaria pentru cultivarea grâului.",
-        "Szarvas găzduiește cel mai mare arboretum din Ungaria și centrul istoric al Ungariei Mari.",
-        "Cârnatul de Csaba (Csabai kolbász) este un produs Hungarikum protejat.",
-        "Băile termale din Gyula se află în fostul parc al castelului Almásy.",
-        "Mezőhegyes este faimos pentru herghelia sa de stat și tradiția creșterii cailor.",
-        "Regiunea este un centru important al minorității slovace din Ungaria.",
-        "Békés este bogat în zăcăminte de gaze naturale și energie geotermală.",
-        "Râurile Criș (Körös) oferă oportunități excelente pentru pescari și turiștii nautici."
-      ],
-      "en": [
-        "The county seat is Békéscsaba, home to the famous Sausage Festival.",
-        "Gyula Castle is the only intact Gothic brick fortress in Central Europe.",
-        "The region has the best soil quality in Hungary for wheat cultivation.",
-        "Szarvas is home to Hungary's largest arboretum and the historic center of old Hungary.",
-        "The Csaba sausage (Csabai kolbász) is a protected Hungarikum product.",
-        "The Gyula thermal bath is located in the former park of the Almásy Castle.",
-        "Mezőhegyes is famous for its State Stud Farm and horse breeding traditions.",
-        "The region is an important center for the Slovak minority in Hungary.",
-        "Békés is rich in natural gas deposits and geothermal energy.",
-        "The Körös rivers offer excellent opportunities for anglers and water tourists."
-      ]
+      "de": ["Die Hauptstadt ist Békéscsaba.", "Es ist berühmt für die Burg Gyula.", "Die Region produziert ausgezeichnete Wurstwaren."],
+      "hu": ["Székhelye Békéscsaba.", "Híres a gyulai várról.", "A régió kiváló kolbászokat készít."],
+      "ro": ["Capitala sa este Békéscsaba.", "Este renumit pentru Castelul din Gyula.", "Regiunea produce cârnați excelenți."],
+      "en": ["The capital city is Békéscsaba.", "It is famous for the Gyula Castle.", "The region produces excellent sausages."]
     },
     factsAdvanced: {
       "de": ["Békés ist landesweit bekannt für die Herstellung der traditionellen Csabai-Paprikawurst.", "Die Burg von Gyula ist die einzige erhaltene Ziegelsteinburg der Ebene in Mitteleuropa.", "Der Fluss Körös bietet hervorragende Bedingungen für den Wassertourismus und das Angeln.", "Die Region hat eine starke slowakische und rumänische Minderheit, die die lokale Kultur bereichern."],
@@ -435,10 +303,10 @@ export const hungaryRegions: POI[] = [
     coords: [20.79, 48.1],
     name: {"de": "Borsod-Abaúj-Zemplén", "hu": "Borsod-Abaúj-Zemplén", "ro": "Borsod-Abaúj-Zemplén", "en": "Borsod-Abaúj-Zemplén"},
     description: {
-      "de": "Das Komitat Borsod-Abaúj-Zemplén liegt im Nordosten Ungarns und ist eine der landschaftlich vielfältigsten Regionen des Landes. Es umfasst die majestätischen Gebirgszüge des Bükk und des Zemplén sowie die weltberühmte Weinregion Tokaj, die zum UNESCO-Welterbe gehört. Das administrative Zentrum ist Miskolc, eine Stadt mit einer starken industriellen Vergangenheit, die heute für ihre touristischen Attraktionen wie das einzigartige Höhlenbad von Miskolctapolca bekannt ist. Die Region ist reich an mittelalterlichen Burgen, historischen Städten und bietet mit dem Nationalpark Aggtelek eines der beeindruckendsten Höhlensysteme Europas. Borsod-Abaúj-Zemplén verbindet auf faszinierende Weise unberührte Natur, jahrhundertealte Weinkultur und ein reiches historisches Erbe.",
-      "hu": "Borsod-Abaúj-Zemplén vármegye Magyarország északkeleti részén fekszik, és az ország egyik legváltozatosabb tájegysége. Területén osztozik a Bükk és a Zempléni-hegység vonulata, valamint itt található a világhírű Tokaji borvidék is, amely az UNESCO világörökség része. Székhelye Miskolc, amely jelentős ipari múltja mellett ma már turisztikai látványosságairól, például a miskolctapolcai Barlangfürdőről híres. A vármegye rendkívül gazdag középkori várakban, történelmi városokban, és itt található az Aggteleki Nemzeti Park is Európa egyik leglenyűgözőbb barlangrendszerével. Borsod-Abaúj-Zemplén a vadregényes természet, az évezredes borkultúra és a gazdag történelmi örökség különleges elegyét kínálja.",
-      "ro": "Județul Borsod-Abaúj-Zemplén este situat în nord-estul Ungariei și este una dintre cele mai diverse regiuni din punct de vedere peisagistic ale țării. Acesta cuprinde lanțurile muntoase maiestuoase Bükk și Zemplén, precum și regiunea viticolă Tokaj, renumită în întreaga lume și inclusă în patrimoniul mondial UNESCO. Centrul administrativ este Miskolc, un oraș cu un trecut industrial puternic, cunoscut astăzi pentru atracțiile sale turistice, cum ar fi baia unică în peșteră de la Miskolctapolca. Regiunea este bogată în castele medievale, orașe istorice și oferă, prin Parcul Național Aggtelek, unul dintre cele mai impresionante sisteme de peșteri din Europa. Borsod-Abaúj-Zemplén îmbină într-un mod fascinant natura virgină, cultura viticolă seculară și o moștenire istorică bogată.",
-      "en": "Borsod-Abaúj-Zemplén County is located in northeastern Hungary and is one of the country's most geographically diverse regions. It encompasses the majestic mountain ranges of Bükk and Zemplén, as well as the world-famous Tokaj wine region, which is a UNESCO World Heritage site. Its administrative center is Miskolc, a city with a strong industrial past that is now famous for its tourist attractions, such as the unique Cave Bath of Miskolctapolca. The county is rich in medieval castles, historic towns, and is home to the Aggtelek National Park, featuring one of Europe's most impressive cave systems. Borsod-Abaúj-Zemplén offers a fascinating blend of wild nature, centuries-old wine culture, and a rich historical heritage."
+      "de": "Borsod-Abaúj-Zemplén ist ein Komitat im Nordosten Ungarns, bekannt für seine vielfältigen Landschaften. Es bietet Industriestädte, Berge und die historische Weinregion Tokaj.",
+      "hu": "Borsod-Abaúj-Zemplén Északkelet-Magyarország megyéje, mely változatos tájairól ismert. Ipari városok, hegyek és a történelmi tokaji borvidék jellemzik.",
+      "ro": "Borsod-Abaúj-Zemplén este un județ din nord-estul Ungariei, cunoscut pentru peisajele sale diverse. Aici se găsesc orașe industriale, munți și regiunea istorică viticolă Tokaj.",
+      "en": "Borsod-Abaúj-Zemplén is a county in northeastern Hungary, known for its diverse landscapes. It features industrial cities, mountains, and the historic Tokaj wine region."
     },
     descriptionAdvanced: {
       "de": "Borsod-Abaúj-Zemplén ist das nördlichste und zweitgrößte Komitat Ungarns, bekannt für seine beeindruckende geographische Vielfalt. Hier treffen die schroffen Gipfel des Bükk- und des Zemplén-Gebirges auf die weiten Ebenen der Puszta. Die Region beherbergt Miskolc, eine wichtige Industriestadt, die sich zunehmend zu einem Zentrum für Kultur und Tourismus wandelt. Besonders berühmt ist das Komitat für die historische Weinregion Tokaj, deren edelsüße Weine Weltruhm genießen. Neben der Weinbaukultur bietet die Gegend unzählige Naturwunder, darunter das spektakuläre Höhlensystem von Aggtelek, das Besucher aus aller Welt anzieht.",
@@ -447,54 +315,10 @@ export const hungaryRegions: POI[] = [
       "en": "Borsod-Abaúj-Zemplén, situated in northeastern Hungary, is a region of breathtaking geographical contrasts and unparalleled historical depth. It stretches from the dramatic karst formations of the Aggtelek National Park to the legendary volcanic slopes of the Tokaj wine region, the world's first demarcated wine appellation. The county's capital, Miskolc, has brilliantly transformed its heavy industrial legacy into a dynamic cultural hub, highlighted by the extraordinary Cave Bath of Miskolctapolca. Scattered across the rugged landscapes of the Bükk and Zemplén mountains are romantic medieval ruins, such as Diósgyőr Castle, which whisper tales of royal queens and fierce battles. This county provides travelers with a captivating blend of primeval nature, aristocratic heritage, and the golden nectar of Aszú wine."
     },
     facts: {
-      "de": [
-        "Sitz des Komitats ist Miskolc, die viertgrößte Stadt Ungarns.",
-        "Die Weinregion Tokaj-Hegyalja ist das erste geschlossene Weingebiet der Welt.",
-        "Das Höhlenbad von Miskolctapolca ist in Europa einzigartig.",
-        "Die Baradla-Höhle in Aggtelek gehört zum UNESCO-Weltnaturerbe.",
-        "Die Burg von Diósgyőr war einst ein beliebter Aufenthaltsort ungarischer Königinnen.",
-        "Sárospatak wird oft als das 'Athen am Bodrog' bezeichnet.",
-        "Lillafüred beherbergt den höchsten Wasserfall Ungarns und ein prächtiges Schlosshotel.",
-        "Die Region ist bekannt für ihre traditionelle Handwerkskunst, wie die Matyó-Stickerei.",
-        "Borsod-Abaúj-Zemplén hat die zweithöchste Anzahl an Burgen im Land.",
-        "Das Zemplén-Gebirge ist vulkanischen Ursprungs und reich an Mineralien."
-      ],
-      "hu": [
-        "A vármegye székhelye Miskolc, Magyarország negyedik legnépesebb városa.",
-        "A Tokaj-hegyaljai borvidék a világ első zárt borvidéke és UNESCO világörökségi helyszín.",
-        "A miskolctapolcai Barlangfürdő Európában egyedülálló természetes képződmény.",
-        "Az Aggteleki-karszt barlangrendszere az UNESCO világörökség része.",
-        "A diósgyőri vár a középkorban a magyar királynék jegyajándéka és kedvelt lakhelye volt.",
-        "Sárospatakot gyakran emlegetik a 'Bodrog-parti Athén' néven kulturális jelentősége miatt.",
-        "Lillafüreden található az ország legmagasabb vízesése és a festői Palotaszálló.",
-        "A vármegye híres népművészetéről, különösen a matyó hímzésről Mezőkövesden.",
-        "Borsod-Abaúj-Zemplén rendelkezik az egyik legtöbb középkori várral az országban.",
-        "A Zempléni-hegység vulkanikus eredetű, és rendkívül gazdag ásványkincsekben."
-      ],
-      "ro": [
-        "Reședința județului este Miskolc, al patrulea oraș ca mărime din Ungaria.",
-        "Regiunea viticolă Tokaj-Hegyalja este prima regiune viticolă închisă din lume.",
-        "Baia în peșteră de la Miskolctapolca este unică în Europa.",
-        "Peștera Baradla din Aggtelek face parte din patrimoniul mondial natural UNESCO.",
-        "Castelul Diósgyőr a fost odinioară reședința preferată a reginelor Ungariei.",
-        "Sárospatak este adesea numit 'Atena de pe malul Bodrogului'.",
-        "Lillafüred găzduiește cea mai înaltă cascadă din Ungaria și un hotel-castel magnific.",
-        "Regiunea este cunoscută pentru meșteșugurile tradiționale, cum ar fi broderia Matyó.",
-        "Borsod-Abaúj-Zemplén are al doilea cel mai mare număr de castele din țară.",
-        "Munții Zemplén sunt de origine vulcanică și sunt bogați în minerale."
-      ],
-      "en": [
-        "The county seat is Miskolc, the fourth largest city in Hungary.",
-        "The Tokaj-Hegyalja wine region is the world's first closed wine district.",
-        "The Cave Bath of Miskolctapolca is unique in Europe.",
-        "The Baradla Cave in Aggtelek is a UNESCO World Natural Heritage site.",
-        "Diósgyőr Castle was once a favorite residence of Hungarian queens.",
-        "Sárospatak is often referred to as the 'Athens on the Bodrog'.",
-        "Lillafüred is home to Hungary's highest waterfall and a magnificent castle hotel.",
-        "The region is known for its traditional crafts, such as Matyó embroidery.",
-        "Borsod-Abaúj-Zemplén has the second highest number of castles in the country.",
-        "The Zemplén Mountains are of volcanic origin and rich in minerals."
-      ]
+      "de": ["Miskolc ist die Hauptstadt des Komitats.", "Der berühmte Tokaji Aszú Wein stammt von hier.", "Der Nationalpark Aggtelek befindet sich hier."],
+      "hu": ["Miskolc a megyeszékhely.", "Innen származik a híres tokaji aszú.", "Itt található az Aggteleki Nemzeti Park."],
+      "ro": ["Miskolc este capitala județului.", "Celebrul vin Tokaji Aszú provine de aici.", "Aici se află Parcul Național Aggtelek."],
+      "en": ["Miskolc is the county capital.", "The famous Tokaji Aszú wine originates here.", "It contains the Aggtelek National Park."]
     },
     factsAdvanced: {
       "de": ["Die Weinregion Tokaj, Heimat des berühmten Aszú-Weins, ist ein UNESCO-Welterbe.", "Das Baradla-Höhlensystem im Aggtelek-Nationalpark ist das größte Tropfsteinhöhlensystem Europas.", "Miskolctapolca ist berühmt für sein einzigartiges Thermalbad, das sich in einer natürlichen Höhle befindet.", "Das Bükk-Gebirge beherbergt den höchsten durchschnittlichen Bergrücken Ungarns."],
@@ -520,10 +344,10 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Csongrád-Csanád", "hu": "Csongrád-Csanád", "ro": "Csongrád-Csanád", "en": "Csongrád-Csanád"},
     image: "/geo-images/hungary/csongrad-csanad.webp",
     description: {
-      "de": "Das Komitat Csongrád-Csanád liegt im sonnigen Süden Ungarns an der Grenze zu Serbien und Rumänien und wird durch den majestätischen Fluss Theiß in zwei Hälften geteilt. Die Region ist bekannt für ihre extrem hohe Anzahl an Sonnenstunden, was sie zum idealen Standort für den Anbau der weltberühmten Szegediner Paprika macht. Das kulturelle und wirtschaftliche Zentrum ist Szeged, eine prächtige Universitätsstadt, die für ihre beeindruckende Votivkirche, ihre lebendige Kulturszene und ihre einzigartige Jugendstil-Architektur berühmt ist. Csongrád-Csanád beherbergt zudem bedeutende historische Gedenkstätten wie den Nationalen Historischen Gedenkpark in Ópusztaszer, wo die ungarische Landnahme gewürdigt wird. Die Region bietet eine perfekte Mischung aus kulinarischen Genüssen, thermaler Entspannung und tiefgreifender ungarischer Geschichte.",
-      "hu": "Csongrád-Csanád vármegye Magyarország napsütötte déli részén, a szerb és a román határ mentén fekszik, és a fenséges Tisza folyó szeli ketté. A régió híres a rendkívül magas napsütéses órák számáról, ami ideálissá teszi a világhírű szegedi fűszerpaprika termesztéséhez. Kulturális és gazdasági központja Szeged, a patinás egyetemi város, amely lenyűgöző Fogadalmi templomáról, pezsgő kulturális életéről és egyedülálló szecessziós építészetéről ismert. Csongrád-Csanád ad otthont olyan jelentős történelmi emlékhelyeknek is, mint az Ópusztaszeri Nemzeti Történeti Emlékpark, ahol a magyar honfoglalás emléke előtt tiszteleghetünk. A vármegye a kulináris élvezetek, a termálvizes kikapcsolódás és a mélyre nyúló magyar történelem tökéletes ötvözetét kínálja.",
-      "ro": "Județul Csongrád-Csanád este situat în sudul însorit al Ungariei, la granița cu Serbia și România, și este împărțit în două jumătăți de maiestuosul râu Tisa. Regiunea este cunoscută pentru numărul său extrem de mare de ore de soare, ceea ce o face locația ideală pentru cultivarea faimoasei boia de Szeged. Centrul cultural și economic este Szeged, un oraș universitar splendid, renumit pentru impresionanta sa Biserică Votivă, scena culturală vibrantă și arhitectura sa unică în stil Art Nouveau. Csongrád-Csanád găzduiește, de asemenea, situri istorice importante, cum ar fi Parcul Național Memorial Istoric din Ópusztaszer, unde este comemorată descălecarea maghiarilor. Județul oferă un amestec perfect de delicii culinare, relaxare termală și istorie maghiară profundă.",
-      "en": "Csongrád-Csanád County is located in the sunny south of Hungary on the border with Serbia and Romania, and is divided into two halves by the majestic river Tisza. The region is famous for its extremely high number of sunshine hours, making it the ideal location for growing the world-renowned Szeged paprika. Its cultural and economic center is Szeged, a prestigious university city famous for its stunning Votive Church, vibrant cultural scene, and unique Art Nouveau architecture. Csongrád-Csanád is also home to significant historical sites such as the Ópusztaszer National Heritage Park, where the Hungarian conquest is commemorated. The county offers a perfect blend of culinary delights, thermal relaxation, and deep-rooted Hungarian history."
+      "de": "Csongrád-Csanád ist ein Komitat in Südungarn, das vom Fluss Theiß geteilt wird. Es ist bekannt für sein sonniges Wetter, Universitätsstädte und landwirtschaftliche Produkte wie Paprika.",
+      "hu": "Csongrád-Csanád Dél-Magyarország megyéje, melyet a Tisza folyó szel ketté. Napos időjárásáról, egyetemvárosairól és mezőgazdasági termékeiről, például a paprikáról ismert.",
+      "ro": "Csongrád-Csanád este un județ din sudul Ungariei, împărțit de râul Tisa. Este cunoscut pentru vremea însorită, orașele universitare și produsele agricole, cum ar fi boiaua.",
+      "en": "Csongrád-Csanád is a county in southern Hungary, divided by the river Tisza. It is known for its sunny weather, university towns, and agricultural produce like paprika."
     },
     descriptionAdvanced: {
       "de": "Csongrád-Csanád liegt in der sonnenverwöhnten südlichen Tiefebene Ungarns, wo der Fluss Maros in die Theiß mündet. Diese Region ist das landwirtschaftliche Herzstück Ungarns und besonders berühmt für den Anbau von Gewürzpaprika und Zwiebeln. Die Hauptstadt Szeged, oft als 'Stadt des Sonnenscheins' bezeichnet, ist ein bedeutendes Bildungs- und Kulturzentrum mit einer prächtigen Architektur, die nach der großen Flut von 1879 neu entstand. Die Region kombiniert auf einzigartige Weise städtisches Flair mit tief verwurzelten ländlichen Traditionen. Zudem bieten die zahlreichen Thermalquellen in Städten wie Makó und Szeged Erholung pur für die Besucher.",
@@ -532,54 +356,10 @@ export const hungaryRegions: POI[] = [
       "en": "Bathed in glorious sunshine, Csongrád-Csanád County lies in southern Hungary, gracefully divided by the winding Tisza River. This vibrant region is celebrated as the undisputed capital of Hungarian paprika, thriving thanks to the exceptionally high number of sunny days that grace its fertile soils. The magnificent city of Szeged serves as its cultural and academic core, distinguished by its grandiose Votive Church and elegant eclectic palaces built after the devastating 1879 flood. Beyond urban sophistication, the county preserves the roots of the nation at the Ópusztaszer National Heritage Park, where the monumental Feszty Panorama depicts the arrival of the Magyars. Combining rich intellectual life, world-class thermal baths, and fiery gastronomy, Csongrád-Csanád offers a deeply authentic Hungarian experience."
     },
     facts: {
-      "de": [
-        "Sitz des Komitats ist Szeged, bekannt als die 'Stadt des Sonnenscheins'.",
-        "Die Region beherbergt den tiefsten Punkt Ungarns in der Nähe von Szeged.",
-        "Szegediner Salami (Pick) und Paprika sind weltweit bekannte Exportprodukte.",
-        "In Ópusztaszer befindet sich das monumentale Feszty-Panorama-Gemälde.",
-        "Die Stadt Makó ist berühmt für ihre Zwiebelproduktion und das Hagymatikum-Bad.",
-        "Die Theiß-Blüte (Eintagsfliegen-Phänomen) ist ein einzigartiges Naturschauspiel der Region.",
-        "Die Universität von Szeged gehört zu den renommiertesten Bildungseinrichtungen Mitteleuropas.",
-        "Das Szegediner Freilichtfestival ist eines der größten Theaterereignisse Ungarns.",
-        "Die Region hat eine bedeutende Erdöl- und Erdgasförderung.",
-        "Die Fischsuppe aus Szeged (Szegedi halászlé) ist ein geschütztes kulinarisches Erbe."
-      ],
-      "hu": [
-        "A vármegye székhelye Szeged, amelyet a 'napfény városaként' is emlegetnek.",
-        "Itt található Magyarország legmélyebb pontja, Szeged közelében.",
-        "A szegedi Pick szalámi és a fűszerpaprika világszerte ismert hungarikumok.",
-        "Ópusztaszeren látható a monumentális Feszty-körkép, a magyarok bejöveteléről.",
-        "Makó városa híres a vöröshagymájáról és a különleges Hagymatikum fürdőről.",
-        "A tiszavirágzás egyedülálló természeti jelenség, amely minden évben vonzza a látogatókat.",
-        "A Szegedi Tudományegyetem a közép-európai régió egyik legnevesebb felsőoktatási intézménye.",
-        "A Szegedi Szabadtéri Játékok az ország legnagyobb színházi fesztiválja.",
-        "A vármegye területén jelentős kőolaj- és földgázkitermelés folyik.",
-        "A szegedi halászlé a magyar gasztronómia egyik legfontosabb alapköve."
-      ],
-      "ro": [
-        "Reședința județului este Szeged, cunoscut sub numele de 'orașul soarelui'.",
-        "Regiunea găzduiește cel mai jos punct din Ungaria, în apropiere de Szeged.",
-        "Salamul de Szeged (Pick) și boiaua sunt produse de export cunoscute în întreaga lume.",
-        "În Ópusztaszer se află monumentala pictură panoramică Feszty.",
-        "Orașul Makó este faimos pentru producția de ceapă și băile Hagymatikum.",
-        "Înflorirea Tisei (fenomenul rusalii) este un spectacol natural unic în regiune.",
-        "Universitatea din Szeged este una dintre cele mai prestigioase instituții de învățământ din Europa Centrală.",
-        "Festivalul în aer liber din Szeged este unul dintre cele mai mari evenimente teatrale din Ungaria.",
-        "Regiunea are o producție semnificativă de petrol și gaze naturale.",
-        "Ciorba de pește din Szeged (Szegedi halászlé) este o moștenire culinară protejată."
-      ],
-      "en": [
-        "The county seat is Szeged, known as the 'City of Sunshine'.",
-        "The region is home to the lowest point in Hungary, located near Szeged.",
-        "Szeged salami (Pick) and paprika are world-famous export products.",
-        "The monumental Feszty Panorama painting is located in Ópusztaszer.",
-        "The city of Makó is famous for its onion production and the Hagymatikum bath.",
-        "The 'blooming of the Tisza' (mayfly phenomenon) is a unique natural spectacle in the region.",
-        "The University of Szeged is one of the most prestigious educational institutions in Central Europe.",
-        "The Szeged Open Air Festival is one of Hungary's largest theatrical events.",
-        "The region has significant oil and natural gas production.",
-        "The fish soup from Szeged (Szegedi halászlé) is a protected culinary heritage."
-      ]
+      "de": ["Die Hauptstadt ist Szeged.", "Szeged wird oft als \"Stadt des Sonnenscheins\" bezeichnet.", "Die Region ist berühmt für Pick-Salami."],
+      "hu": ["Székhelye Szeged.", "Szegedet gyakran a \"Napfény Városának\" hívják.", "A régió a Pick szalámiról is híres."],
+      "ro": ["Capitala sa este Szeged.", "Szeged este adesea numit \"Orașul Soarelui\".", "Regiunea este renumită pentru salamul Pick."],
+      "en": ["The capital is Szeged.", "Szeged is often called the \"City of Sunshine\".", "The region is famous for Pick salami."]
     },
     factsAdvanced: {
       "de": ["Szeged verzeichnet die meisten Sonnenstunden im Jahr in ganz Ungarn.", "Die Region ist das ungarische Zentrum für den Anbau der berühmten Szegediner Paprika.", "Die Votivkirche in Szeged ist die viertgrößte Kirche Ungarns und ein architektonisches Meisterwerk.", "Makó ist landesweit bekannt für seinen Zwiebelanbau und sein beeindruckendes, von Imre Makovecz entworfenes Thermalbad."],
@@ -605,10 +385,10 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Weißenburg", "hu": "Fejér", "ro": "Fejér", "en": "Fejér"},
     image: "/geo-images/hungary/fejer.webp",
     description: {
-      "de": "Das Komitat Fejér liegt im Herzen Ungarns, in der Region Mitteltransdanubien, und ist eine der historisch bedeutendsten Gegenden des Landes. Das administrative Zentrum ist Székesfehérvár, die 'Stadt der Könige', die im Mittelalter als Krönungs- und Grabstätte ungarischer Monarchen diente. Die Region besticht durch ihre geografische Vielfalt, die vom malerischen Velencer See, dem wärmsten Binnensee Europas, bis zu den sanften Hügeln des Vértes-Gebirges reicht. Fejér ist heute ein dynamisches wirtschaftliches Zentrum mit einer starken Industrie, bewahrt aber gleichzeitig seine reichen kulturellen Traditionen und architektonischen Schätze. Besucher finden hier eine faszinierende Verbindung aus königlicher Geschichte, moderner Entwicklung und erholsamen Naturerlebnissen.",
-      "hu": "Fejér vármegye Magyarország szívében, a Közép-Dunántúli régióban fekszik, és az ország egyik legjelentősebb történelmi múltú területe. Székhelye Székesfehérvár, a 'királyok városa', amely a középkorban a magyar uralkodók koronázási és temetkezési helyeként szolgált. A vármegye földrajzi adottságai rendkívül változatosak: itt található a Velencei-tó, Európa egyik legmelegebb édesvízi tava, valamint a Vértes-hegység festői vonulatai. Fejér ma már dinamikusan fejlődő gazdasági központ, ahol a modern ipar és a gazdag kulturális örökség jól megfér egymás mellett. A látogatókat királyi történelem, lenyűgöző kastélyok és pihentető természeti környezet várja ebben a különleges régióban.",
-      "ro": "Județul Fejér este situat în inima Ungariei, în regiunea Transdanubia Centrală, și este una dintre cele mai importante zone din punct de vedere istoric ale țării. Centrul administrativ este Székesfehérvár, 'orașul regilor', care în Evul Mediu a servit drept loc de încoronare și înmormântare a monarhilor maghiari. Regiunea impresionează prin diversitatea sa geografică, variind de la pitorescul Lac Velence, unul dintre cele mai calde lacuri cu apă dulce din Europa, până la dealurile blânde ale munților Vértes. Fejér este astăzi un centru economic dinamic, cu o industrie puternică, păstrându-și în același timp tradițiile culturale bogate și comorile arhitecturale. Vizitatorii găsesc aici o combinație fascinantă de istorie regală, dezvoltare modernă și experiențe relaxante în natură.",
-      "en": "Fejér County is located in the heart of Hungary, in the Central Transdanubia region, and is one of the country's most historically significant areas. Its administrative center is Székesfehérvár, the 'City of Kings', which served as the coronation and burial site for Hungarian monarchs during the Middle Ages. The county boasts diverse geographical features, ranging from the picturesque Lake Velence, one of Europe's warmest freshwater lakes, to the rolling hills of the Vértes Mountains. Fejér is now a dynamic economic hub with a strong industrial base, while simultaneously preserving its rich cultural traditions and architectural treasures. Visitors will find a fascinating blend of royal history, modern development, and relaxing natural experiences in this unique region."
+      "de": "Fejér ist ein Komitat in Zentralungarn, westlich der Donau. Es hat eine reiche Geschichte als Zentrum des mittelalterlichen Königreichs Ungarn.",
+      "hu": "Fejér Közép-Magyarország megyéje, a Dunától nyugatra. Gazdag történelemmel rendelkezik, mint a középkori Magyar Királyság központja.",
+      "ro": "Fejér este un județ în centrul Ungariei, la vest de Dunăre. Are o istorie bogată, fiind centrul regatului medieval al Ungariei.",
+      "en": "Fejér is a county in central Hungary, located west of the Danube river. It has a rich history as the center of the medieval Kingdom of Hungary."
     },
     descriptionAdvanced: {
       "de": "Das Komitat Fejér (Weißenburg) liegt im Herzen der Region Transdanubien und ist reich an historischer und wirtschaftlicher Bedeutung. Die Hauptstadt Székesfehérvár (Stuhlweißenburg) war einst die Krönungs- und Grabstätte der ungarischen Könige und ist somit eine der geschichtsträchtigsten Städte des Landes. Geographisch wird die Region von sanften Hügeln, weiten Tälern und dem Velencer See, dem drittgrößten natürlichen See Ungarns, geprägt. Die abwechslungsreiche Landschaft bietet ideale Bedingungen für Landwirtschaft und Erholung. Moderne Industrie und tief verwurzelte Traditionen verbinden sich in Fejér zu einer dynamischen und gleichzeitig historisch faszinierenden Region.",
@@ -617,54 +397,10 @@ export const hungaryRegions: POI[] = [
       "en": "Fejér County, located in the heart of the Central Transdanubia region, is steeped in monumental historical significance and diverse natural beauty. Its majestic capital, Székesfehérvár, holds the prestigious title of the 'City of Kings,' having witnessed the coronation of 37 Hungarian monarchs and serving as the medieval center of the kingdom. The landscape gracefully transitions from the warm, tranquil waters of Lake Velence to the densely forested slopes of the Vértes and Bakony mountains. Today, Fejér seamlessly bridges its glorious past with modern dynamism, acting as a crucial industrial and economic engine for the country. Visitors are continually enchanted by its royal ruins, elegant aristocratic estates like the Brunszvik Palace, and serene lakeside resorts."
     },
     facts: {
-      "de": [
-        "Sitz des Komitats ist Székesfehérvár, eine der ältesten Städte Ungarns.",
-        "Der Velencer See ist als 'See des Sonnenscheins' bekannt und ideal zum Segeln.",
-        "In Székesfehérvár wurden 37 ungarische Könige gekrönt.",
-        "Die Burg Bory in Székesfehérvár ist ein monumentales Kunstwerk aus Beton.",
-        "Martonvásár beherbergt das Brunszvik-Schloss und das Beethoven-Museum.",
-        "Die Region ist ein bedeutendes Zentrum der ungarischen Automobil- und Elektronikindustrie.",
-        "Gárdony ist ein beliebter Ferienort am Ufer des Velencer Sees.",
-        "Das Vértes-Gebirge bietet zahlreiche Wanderwege und historische Burgruinen.",
-        "Mór ist das Zentrum einer berühmten Weißweinregion, bekannt für den 'Ezerjó'.",
-        "Die antike römische Stadt Gorsium bei Tác ist eine bedeutende archäologische Stätte."
-      ],
-      "hu": [
-        "A vármegye székhelye Székesfehérvár, az ország egyik legősibb városa.",
-        "A Velencei-tó Magyarország harmadik legnagyobb természetes tava és kedvelt üdülőhely.",
-        "Székesfehérváron összesen 37 magyar királyt koronáztak meg.",
-        "A Bory-vár egy különleges, betonból épült 'szerelmi vallomás' és művészeti alkotás.",
-        "Martonvásáron található a Brunszvik-kastély és a híres Beethoven Múzeum.",
-        "A vármegye a hazai járműgyártás és elektronikai ipar egyik legfontosabb központja.",
-        "Gárdony és Agárd a Velencei-tó partjának legnépszerűbb turisztikai célpontjai.",
-        "A Vértes-hegység számos túraútvonalat és középkori várromot rejt.",
-        "Mór városa a híres móri ezerjó fehérbor és a helyi borkultúra központja.",
-        "Tác határában található Gorsium, az egyik legjelentősebb római kori szabadtéri múzeum."
-      ],
-      "ro": [
-        "Reședința județului este Székesfehérvár, unul dintre cele mai vechi orașe din Ungaria.",
-        "Lacul Velence este cunoscut drept 'lacul soarelui' și este ideal pentru navigație.",
-        "În Székesfehérvár au fost încoronați 37 de regi ai Ungariei.",
-        "Castelul Bory din Székesfehérvár este o operă de artă monumentală construită din beton.",
-        "Martonvásár găzduiește Castelul Brunszvik și Muzeul Beethoven.",
-        "Regiunea este un centru important al industriei auto și electronice din Ungaria.",
-        "Gárdony este o stațiune populară pe malul Lacului Velence.",
-        "Munții Vértes oferă numeroase trasee de drumeție și ruine de castele istorice.",
-        "Mór este centrul unei renumite regiuni de vin alb, cunoscută pentru soiul 'Ezerjó'.",
-        "Orașul antic roman Gorsium de lângă Tác este un sit arheologic important."
-      ],
-      "en": [
-        "The county seat is Székesfehérvár, one of the oldest cities in Hungary.",
-        "Lake Velence is known as the 'Lake of Sunshine' and is ideal for sailing.",
-        "A total of 37 Hungarian kings were crowned in Székesfehérvár.",
-        "Bory Castle in Székesfehérvár is a monumental work of art built from concrete.",
-        "Martonvásár is home to the Brunszvik Castle and the Beethoven Museum.",
-        "The county is a major hub for the Hungarian automotive and electronics industries.",
-        "Gárdony is a popular holiday resort on the shores of Lake Velence.",
-        "The Vértes Mountains offer numerous hiking trails and historic castle ruins.",
-        "Mór is the center of a famous white wine region, known for the 'Ezerjó' grape.",
-        "The ancient Roman city of Gorsium near Tác is a significant archaeological site."
-      ]
+      "de": ["Die Hauptstadt ist Székesfehérvár.", "Der Velencer See ist hier ein beliebtes Reiseziel.", "Székesfehérvár war die Krönungsstadt der ungarischen Könige."],
+      "hu": ["Székhelye Székesfehérvár.", "A Velencei-tó népszerű turisztikai célpont itt.", "Székesfehérvár a magyar királyok koronázóvárosa volt."],
+      "ro": ["Capitala sa este Székesfehérvár.", "Lacul Velence este o destinație turistică populară aici.", "Székesfehérvár a fost orașul de încoronare al regilor maghiari."],
+      "en": ["The capital is Székesfehérvár.", "Lake Velence is a popular tourist destination here.", "Székesfehérvár was the coronation city of Hungarian kings."]
     },
     factsAdvanced: {
       "de": ["Székesfehérvár war im Mittelalter das wichtigste Machtzentrum Ungarns, in dem 37 Könige gekrönt wurden.", "Der Velencer See wird wegen seines flachen, schnell erwärmenden Wassers oft als der 'See des Sonnenscheins' bezeichnet.", "Die Region beherbergt das beeindruckende Bory-Schloss, ein architektonisches Meisterwerk des 20. Jahrhunderts.", "Das Komitat Fejér ist ein wichtiger Standort für die moderne ungarische Industrie und Technologie."],
@@ -690,10 +426,10 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Raab-Wieselburg-Ödenburg", "hu": "Győr-Moson-Sopron", "ro": "Győr-Moson-Sopron", "en": "Győr-Moson-Sopron"},
     image: "/geo-images/hungary/gyor-moson-sopron.webp",
     description: {
-      "de": "Das Komitat Győr-Moson-Sopron liegt im Nordwesten Ungarns an der strategisch wichtigen Grenze zu Österreich und der Slowakei. Die Region gilt als das 'Tor zum Westen' und ist eine der wirtschaftlich am weitesten entwickelten Gegenden des Landes. Das administrative Zentrum ist Győr, die 'Stadt der Flüsse', die für ihre barocke Altstadt und ihre bedeutende Industrie bekannt ist. Ein weiteres Juwel der Region ist Sopron, eine Stadt mit einer reichen Geschichte und einer malerischen mittelalterlichen Architektur. Győr-Moson-Sopron beherbergt zudem UNESCO-Welterbestätten wie die Erzabtei Pannonhalma und den Neusiedler See, was die Region zu einem erstklassigen Ziel für Kultur- und Naturinteressierte macht.",
-      "hu": "Győr-Moson-Sopron vármegye Magyarország északnyugati részén, az osztrák és a szlovák határ mentén fekszik, stratégiai kaput nyitva Nyugat-Európa felé. A régió az ország egyik legfejlettebb gazdasági területe, ahol a modern ipar és a történelmi hagyományok tökéletes összhangban élnek. Székhelye Győr, a 'folyók városa', amely lenyűgöző barokk belvárosáról és jelentős járműiparáról híres. A vármegye másik ékköve Sopron, a hűség városa, amely gazdag történelmi múltjával és festői középkori építészetével vonzza a látogatókat. Győr-Moson-Sopron olyan UNESCO világörökségi helyszíneknek is otthont ad, mint a Pannonhalmi Főapátság és a Fertő-táj, így a kultúra és a természet kedvelői számára is kiemelkedő úti cél.",
-      "ro": "Județul Győr-Moson-Sopron este situat în nord-vestul Ungariei, la granița strategică cu Austria și Slovacia. Regiunea este considerată 'poarta către vest' și este una dintre cele mai dezvoltate zone economice ale țării. Centrul administrativ este Győr, 'orașul râurilor', cunoscut pentru centrul său vechi baroc și industria sa semnificativă. O altă bijuterie a regiunii este Sopron, un oraș cu o istorie bogată și o arhitectură medievală pitorească. Győr-Moson-Sopron găzduiește, de asemenea, situri din patrimoniul mondial UNESCO, cum ar fi Abația Teritorială din Pannonhalma și Lacul Fertő (Neusiedler See), ceea ce face din regiune o destinație de primă clasă pentru cei interesați de cultură și natură.",
-      "en": "Győr-Moson-Sopron County is located in northwestern Hungary on the strategically important border with Austria and Slovakia. The region is considered the 'Gateway to the West' and is one of the most economically developed areas in the country. Its administrative center is Győr, the 'City of Rivers', famous for its stunning Baroque old town and significant industrial base. Another jewel of the region is Sopron, a city with a rich history and picturesque medieval architecture. Győr-Moson-Sopron is also home to UNESCO World Heritage sites such as the Pannonhalma Archabbey and Lake Fertő (Neusiedler See), making the county a premier destination for those interested in culture and nature."
+      "de": "Győr-Moson-Sopron liegt im Nordwesten Ungarns, an der Grenze zu Österreich und der Slowakei. Es ist eine wirtschaftlich entwickelte Region mit reichem kulturellen Erbe und schönen Landschaften.",
+      "hu": "Győr-Moson-Sopron Északnyugat-Magyarországon fekszik, Ausztriával és Szlovákiával határos. Gazdaságilag fejlett régió, gazdag kulturális örökséggel és gyönyörű tájakkal.",
+      "ro": "Győr-Moson-Sopron este situat în nord-vestul Ungariei, la granița cu Austria și Slovacia. Este o regiune dezvoltată economic, cu un bogat patrimoniu cultural și peisaje frumoase.",
+      "en": "Győr-Moson-Sopron is located in northwestern Hungary, bordering Austria and Slovakia. It is an economically developed region with a rich cultural heritage and beautiful landscapes."
     },
     descriptionAdvanced: {
       "de": "Gyor-Moson-Sopron liegt im Nordwesten Ungarns, strategisch günstig im Dreiländereck mit Österreich und der Slowakei. Diese Region ist eine der wirtschaftlich dynamischsten des Landes und fungiert als wichtiges Tor zu Westeuropa. Die Landschaft wird geprägt von der Pannonischen Tiefebene und dem Neusiedler See, der ein wichtiges Vogelschutzgebiet und UNESCO-Welterbe ist. Die Hauptstadt Győr (Raab) besticht durch ihre barocke Altstadt und starke Industrie, während Sopron (Ödenburg) als die 'treueste Stadt' mit mittelalterlichem Charme und exzellenten Weinen lockt. Die Region verbindet eine reiche, grenzüberschreitende Geschichte mit moderner Entwicklung.",
@@ -702,54 +438,10 @@ export const hungaryRegions: POI[] = [
       "en": "Positioned strategically at the northwestern edge of Hungary bordering Austria and Slovakia, Győr-Moson-Sopron is historically revered as the 'Gateway to the West.' The county is a dynamic fusion of high-tech industry and meticulously preserved historical marvels. Győr, the 'City of Rivers,' enchants visitors with its splendid Baroque town center and the majestic Basilica, while Sopron boasts one of the most intact medieval cores in Central Europe. The region's natural crown jewel is the vast, reed-fringed expanse of Lake Fertő (Neusiedler See), a cross-border paradise for cyclists and birdwatchers. Crowned by the monumental Pannonhalma Archabbey, this county offers an exquisite journey through centuries of architectural brilliance and ecological wealth."
     },
     facts: {
-      "de": [
-        "Sitz des Komitats ist Győr, ein bedeutendes Zentrum der Automobilindustrie (Audi).",
-        "Die Erzabtei Pannonhalma ist eines der ältesten historischen Denkmäler Ungarns.",
-        "Sopron ist als die 'treueste Stadt' (Civitas Fidelissima) bekannt.",
-        "Der Neusiedler See (Fertő-tó) ist der westlichste Steppensee Europas.",
-        "Das Schloss Esterházy in Fertőd wird oft als das 'ungarische Versailles' bezeichnet.",
-        "Die Region ist berühmt für ihre Weinbaugebiete, insbesondere Sopron und Pannonhalma.",
-        "Szigetköz ist eine einzigartige Flusslandschaft zwischen der Großen und Kleinen Donau.",
-        "Mosonmagyaróvár ist bekannt für seine Thermalbäder und seine landwirtschaftliche Universität.",
-        "Die Region hat eine der niedrigsten Arbeitslosenquoten in Ungarn.",
-        "Das Paneuropäische Picknick bei Sopron war ein Meilenstein beim Fall des Eisernen Vorhangs."
-      ],
-      "hu": [
-        "A vármegye székhelye Győr, a hazai járműgyártás egyik legfontosabb központja (Audi).",
-        "A Pannonhalmi Főapátság az ország egyik legősibb történelmi emléke és UNESCO világörökség.",
-        "Sopron a 'leghűségesebb város' (Civitas Fidelissima) címet viseli.",
-        "A Fertő-tó Európa legnyugatibb sztyeppei tava és közös világörökség Ausztriával.",
-        "A fertődi Esterházy-kastélyt gyakran nevezik a 'magyar Versailles'-nak.",
-        "A vármegye híres borvidékeiről, különösen a soproni és a pannonhalmi borokról.",
-        "A Szigetköz a Duna ágai által körülölelt egyedülálló vízi világ és természetvédelmi terület.",
-        "Mosonmagyaróvár híres gyógyvizéről és nagy múltú agrárfelsőoktatásáról.",
-        "A régió gazdasági fejlettsége és foglalkoztatottsága országos szinten is kiemelkedő.",
-        "A Sopron melletti Páneurópai Piknik sorsfordító esemény volt a vasfüggöny lebontásában."
-      ],
-      "ro": [
-        "Reședința județului este Győr, un centru important al industriei auto (Audi).",
-        "Abația Teritorială din Pannonhalma este unul dintre cele mai vechi monumente istorice din Ungaria.",
-        "Sopron este cunoscut drept 'cel mai fidel oraș' (Civitas Fidelissima).",
-        "Lacul Fertő (Neusiedler See) este cel mai vestic lac de stepă din Europa.",
-        "Castelul Esterházy din Fertőd este adesea numit 'Versailles-ul maghiar'.",
-        "Regiunea este faimoasă pentru zonele sale viticole, în special Sopron și Pannonhalma.",
-        "Szigetköz este un peisaj fluvial unic între Dunărea Mare și Dunărea Mică.",
-        "Mosonmagyaróvár este cunoscut pentru băile sale termale și universitatea sa agricolă.",
-        "Regiunea are una dintre cele mai scăzute rate ale șomajului din Ungaria.",
-        "Picnicul Paneuropean de lângă Sopron a fost un moment decisiv în căderea Cortinei de Fier."
-      ],
-      "en": [
-        "The county seat is Győr, a major hub for the automotive industry (Audi).",
-        "The Pannonhalma Archabbey is one of Hungary's oldest historical monuments.",
-        "Sopron is known as the 'Most Loyal City' (Civitas Fidelissima).",
-        "Lake Fertő (Neusiedler See) is the westernmost steppe lake in Europe.",
-        "The Esterházy Castle in Fertőd is often referred to as the 'Hungarian Versailles'.",
-        "The region is famous for its wine districts, particularly Sopron and Pannonhalma.",
-        "Szigetköz is a unique river landscape between the Great and Little Danube.",
-        "Mosonmagyaróvár is famous for its thermal baths and its agricultural university.",
-        "The region has one of the lowest unemployment rates in Hungary.",
-        "The Pan-European Picnic near Sopron was a milestone in the fall of the Iron Curtain."
-      ]
+      "de": ["Győr ist die Hauptstadt.", "Sopron ist als die \"treueste Stadt\" bekannt.", "Der Nationalpark Fertő-Hanság liegt teilweise hier."],
+      "hu": ["Győr a megyeszékhely.", "Sopron a \"Leghűségesebb Város\" néven ismert.", "A Fertő-Hanság Nemzeti Park részben itt található."],
+      "ro": ["Győr este capitala județului.", "Sopron este cunoscut drept \"Cel mai loial oraș\".", "Parcul Național Fertő-Hanság este parțial situat aici."],
+      "en": ["Győr is the capital city.", "Sopron is known as the \"Most Loyal City\".", "The Fertő-Hanság National Park is partly located here."]
     },
     factsAdvanced: {
       "de": ["Sopron wird als 'treueste Stadt' (Civitas Fidelissima) bezeichnet, da sie nach dem Ersten Weltkrieg für den Verbleib bei Ungarn stimmte.", "Das Benediktinerkloster Pannonhalma ist über tausend Jahre alt und ein UNESCO-Welterbe.", "Der Neusiedler See (Fertő tó) ist der größte Steppensee Mitteleuropas und ein grenzüberschreitender Nationalpark.", "Győr ist ein bedeutendes Zentrum der Automobilindustrie und ein wichtiger europäischer Verkehrsknotenpunkt."],
@@ -775,10 +467,10 @@ export const hungaryRegions: POI[] = [
     name: {"de": "Hajdú-Bihar", "hu": "Hajdú-Bihar", "ro": "Hajdú-Bihar", "en": "Hajdú-Bihar"},
     image: "/geo-images/hungary/hajdu-bihar.webp",
     description: {
-      "de": "Das Komitat Hajdú-Bihar liegt im Osten Ungarns an der Grenze zu Rumänien und ist das Herz der Großen Ungarischen Tiefebene (Alföld). Die Region ist weltberühmt für den Nationalpark Hortobágy, die größte natürliche Grassteppe Europas, die zum UNESCO-Welterbe gehört und die traditionelle Hirtenkultur bewahrt. Das administrative und kulturelle Zentrum ist Debrecen, die zweitgrößte Stadt Ungarns, die oft als das 'kalvinistische Rom' bezeichnet wird und eine zentrale Rolle in der ungarischen Geschichte spielte. Hajdú-Bihar ist zudem ein bedeutendes Zentrum für Gesundheitstourismus, insbesondere durch das Heilbad Hajdúszoboszló, das über eines der größten Badekomplexe Europas verfügt. Die Region bietet Besuchern eine einzigartige Kombination aus unendlichen Weiten, tief verwurzelten Traditionen und moderner urbaner Dynamik.",
-      "hu": "Hajdú-Bihar vármegye Magyarország keleti részén, a román határ mentén fekszik, és az Alföld szívének tekinthető. A régió világszerte híres a Hortobágyi Nemzeti Parkról, amely Európa legnagyobb összefüggő füves pusztája, UNESCO világörökségi helyszín, és a mai napig őrzi a hagyományos pásztoréletformát. Székhelye Debrecen, az ország második legnépesebb városa, amelyet gyakran a 'kálvinista Róma' néven emlegetnek, és amely többször is sorsfordító szerepet játszott a magyar történelemben. Hajdú-Bihar emellett az egészségturizmus fellegvára is, köszönhetően Hajdúszoboszlónak, ahol Európa egyik legnagyobb fürdőkomplexuma található. A vármegye a végtelen rónaságok szabadságát, a gazdag kulturális örökséget és a modern városi pezsgést ötvözi.",
-      "ro": "Județul Hajdú-Bihar este situat în estul Ungariei, la granița cu România, și este inima Marii Câmpii Maghiare (Alföld). Regiunea este renumită în întreaga lume pentru Parcul Național Hortobágy, cea mai mare stepă naturală de iarbă din Europa, inclusă în patrimoniul mondial UNESCO, care păstrează cultura tradițională a păstorilor. Centrul administrativ și cultural este Debrecen, al doilea oraș ca mărime din Ungaria, numit adesea 'Roma calvinistă', care a jucat un rol central în istoria maghiară. Hajdú-Bihar este, de asemenea, un centru important pentru turismul de sănătate, în special prin stațiunea Hajdúszoboszló, care dispune de unul dintre cele mai mari complexe balneare din Europa. Județul oferă vizitatorilor o combinație unică de spații infinite, tradiții adânc înrădăcinate și dinamică urbană modernă.",
-      "en": "Hajdú-Bihar County is located in eastern Hungary on the border with Romania and is the heart of the Great Hungarian Plain (Alföld). The region is world-famous for the Hortobágy National Park, Europe's largest continuous natural grassland, which is a UNESCO World Heritage site and preserves traditional pastoral culture. Its administrative and cultural center is Debrecen, Hungary's second-largest city, often referred to as the 'Calvinist Rome', which has played a pivotal role in Hungarian history. Hajdú-Bihar is also a major hub for health tourism, particularly due to the Hajdúszoboszló spa, which boasts one of Europe's largest bathing complexes. The county offers visitors a unique combination of vast open spaces, deep-rooted traditions, and modern urban vibrancy."
+      "de": "Hajdú-Bihar ist ein Komitat in Ostungarn an der Grenze zu Rumänien. Es wird von der Großen Ungarischen Tiefebene geprägt und ist ein Zentrum für Landwirtschaft, Bildung und Kurtourismus.",
+      "hu": "Hajdú-Bihar Kelet-Magyarország megyéje, mely Romániával határos. Az Alföld jellemzi, a mezőgazdaság, az oktatás és az egészségturizmus központja.",
+      "ro": "Hajdú-Bihar este un județ din estul Ungariei, la granița cu România. Este caracterizat de Marea Câmpie Maghiară și este un centru pentru agricultură, educație și turism de sănătate.",
+      "en": "Hajdú-Bihar is a county in eastern Hungary, bordering Romania. It is characterized by the Great Hungarian Plain and is a center for agriculture, education, and health tourism."
     },
     descriptionAdvanced: {
       "de": "Hajdú-Bihar liegt im Osten Ungarns und repräsentiert wie kaum eine andere Region die weite, romantische Landschaft der Puszta. Die Komitatshauptstadt Debrecen ist die zweitgrößte Stadt Ungarns und wird oft als das 'kalvinistische Rom' bezeichnet, da sie das geistige Zentrum des ungarischen Protestantismus ist. Ein großer Teil der Region wird vom Hortobágy-Nationalpark eingenommen, dem größten zusammenhängenden Grasland Europas und einem UNESCO-Welterbe. Hier wird noch heute die traditionelle Viehzucht mit ungarischen Graurindern und Zackelschafen gepflegt. Die Region ist zudem für ihre heilenden Thermalwässer berühmt, insbesondere im Kurort Hajdúszoboszló.",
@@ -787,54 +479,10 @@ export const hungaryRegions: POI[] = [
       "en": "Hajdú-Bihar County, dominating eastern Hungary, is the quintessential heartland of the Great Hungarian Plain, where tradition and nature converge on a massive scale. The undeniable highlight of the region is the Hortobágy National Park, an endless expanse of grassy steppe that preserves the ancient pastoral lifestyle of horsemen and herdsmen. Its vibrant capital, Debrecen, is proudly known as the 'Calvinist Rome' due to its monumental Reformed Great Church and historically independent spirit. Hajdú-Bihar has also established itself as a premier destination for wellness tourism, anchored by the colossal thermal spa complex in Hajdúszoboszló. Here, the endless horizons of the Puszta are perfectly complemented by rich cultural festivals and healing subterranean waters."
     },
     facts: {
-      "de": [
-        "Sitz des Komitats ist Debrecen, ein historisches Zentrum der Reformation in Ungarn.",
-        "Der Nationalpark Hortobágy war der erste Nationalpark Ungarns (gegründet 1973).",
-        "Hajdúszoboszló beherbergt das größte Heilbad Europas.",
-        "Die Region ist bekannt für die Zucht des ungarischen Graurindes und des Zackelschafs.",
-        "Die Große Reformierte Kirche in Debrecen ist ein Symbol der ungarischen Unabhängigkeit.",
-        "Die Neunbögige Brücke in Hortobágy ist die längste Steinbrücke Ungarns.",
-        "Debrecen ist ein bedeutendes Bildungszentrum mit einer der ältesten Universitäten des Landes.",
-        "Die Region ist berühmt für ihre traditionelle Gastronomie, wie den Hortobágyer Fleischpfannkuchen.",
-        "Hajdú-Bihar hat eine bedeutende Erdgasförderung und Landwirtschaft.",
-        "Der Blumenkarneval in Debrecen ist eines der spektakulärsten Sommerfestivals Ungarns."
-      ],
-      "hu": [
-        "A vármegye székhelye Debrecen, a magyarországi reformáció történelmi központja.",
-        "A Hortobágyi Nemzeti Park Magyarország első és legnagyobb kiterjedésű nemzeti parkja.",
-        "Hajdúszoboszlón található Európa legnagyobb fürdőkomplexuma.",
-        "A régió híres az őshonos magyar állatfajtákról, mint a szürkemarha és a rackajuh.",
-        "A debreceni Református Nagytemplom a magyar függetlenségi törekvések jelképe.",
-        "A hortobágyi Kilenclyukú híd az ország leghosszabb kőhídja.",
-        "Debrecen jelentős oktatási központ, egyeteme az ország egyik legrangosabb intézménye.",
-        "A vármegye gasztronómiájának egyik legismertebb étele a hortobágyi húsos palacsinta.",
-        "Hajdú-Bihar jelentős földgázkitermeléssel és fejlett mezőgazdasággal rendelkezik.",
-        "A Debreceni Virágkarnevál az ország egyik leglátványosabb és legnépszerűbb nyári fesztiválja."
-      ],
-      "ro": [
-        "Reședința județului este Debrecen, un centru istoric al Reformei în Ungaria.",
-        "Parcul Național Hortobágy a fost primul parc național din Ungaria (fondat în 1973).",
-        "Hajdúszoboszló găzduiește cel mai mare complex balnear din Europa.",
-        "Regiunea este cunoscută pentru creșterea vitelor sure maghiare și a oilor Rațca.",
-        "Marea Biserică Reformată din Debrecen este un simbol al independenței maghiare.",
-        "Podul cu nouă arcuri din Hortobágy este cel mai lung pod de piatră din Ungaria.",
-        "Debrecen este un centru educațional important, cu una dintre cele mai vechi universități din țară.",
-        "Regiunea este faimoasă pentru gastronomia sa tradițională, cum ar fi clătitele de Hortobágy.",
-        "Hajdú-Bihar are o producție semnificativă de gaze naturale și o agricultură dezvoltată.",
-        "Carnavalul Florilor din Debrecen este unul dintre cele mai spectaculoase festivaluri de vară din Ungaria."
-      ],
-      "en": [
-        "The county seat is Debrecen, a historic center of the Reformation in Hungary.",
-        "Hortobágy National Park was Hungary's first national park (founded in 1973).",
-        "Hajdúszoboszló is home to the largest spa complex in Europe.",
-        "The region is known for breeding indigenous Hungarian Grey cattle and Racka sheep.",
-        "The Great Reformed Church in Debrecen is a symbol of Hungarian independence.",
-        "The Nine-arched Bridge in Hortobágy is the longest stone bridge in Hungary.",
-        "Debrecen is a major educational center with one of the country's oldest universities.",
-        "The county is famous for its traditional gastronomy, such as the Hortobágy meat pancakes.",
-        "Hajdú-Bihar has significant natural gas production and a strong agricultural sector.",
-        "The Debrecen Flower Carnival is one of Hungary's most spectacular summer festivals."
-      ]
+      "de": ["Die Hauptstadt ist Debrecen.", "Der Nationalpark Hortobágy, die \"Puszta\", ist die Hauptattraktion.", "Debrecen ist die zweitgrößte Stadt Ungarns."],
+      "hu": ["Székhelye Debrecen.", "Fő látványossága a Hortobágyi Nemzeti Park, a \"Puszta\".", "Debrecen Magyarország második legnagyobb városa."],
+      "ro": ["Capitala sa este Debrecen.", "Parcul Național Hortobágy, \"Puszta\", este principala sa atracție.", "Debrecen este al doilea oraș ca mărime din Ungaria."],
+      "en": ["The capital is Debrecen.", "Hortobágy National Park, the \"Puszta\", is its main attraction.", "Debrecen is Hungary's second-largest city."]
     },
     factsAdvanced: {
       "de": ["Debrecen ist die Heimat der Großen Reformierten Kirche, des größten protestantischen Gotteshauses in Ungarn.", "Der Hortobágy-Nationalpark ist Europas größtes Naturschutzgebiet in einer Puszta-Landschaft.", "Hajdúszoboszló verfügt über den größten Bäderkomplex Europas, der jährlich Millionen von Besuchern anzieht.", "Die traditionellen Pferdehirten (Csikós) der Region sind weltweit für ihre beeindruckende Reitkunst bekannt."],

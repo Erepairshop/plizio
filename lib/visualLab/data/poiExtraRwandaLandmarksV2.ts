@@ -15,7 +15,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Ein ikonisches Kongresszentrum in Ruanda, bekannt für seine beeindruckende, leuchtende Kuppel, die an eine traditionelle ruandische Hütte erinnert.",
       hu: "Egy ikonikus kongresszusi központ Ruandában, amely lenyugözo, világító kupolájáról ismert, ami a hagyományos ruandai kunyhókat idézi.",
-      ro: "Un centru de conven?ii iconic din Rwanda, cunoscut pentru cupola sa impresionanta ?i luminoasa, care aminte?te de o coliba tradi?ionala.",
+      ro: "Un centru de conven?ii iconic din Rwanda, cunoscut pentru cupola sa impresionanta ?i luminoasa, care amintește de o coliba tradiționala.",
       en: "An iconic convention center in Rwanda known for its impressive illuminated dome resembling a traditional Rwandan hut."
     },
     facts: {
@@ -87,7 +87,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Die größte Mehrzweckhalle in Ostafrika, die für Sportveranstaltungen, Konzerte und große Konferenzen in Kigali genutzt wird.",
       hu: "Kelet-Afrika legnagyobb többcélú arénája, amelyet sporteseményekre, koncertekre és nagy konferenciákra használnak Kigaliban.",
-      ro: "Cea mai mare arena multifunc?ionala din Africa de Est, folosita pentru evenimente sportive ?i concerte în Kigali.",
+      ro: "Cea mai mare arena multifuncționala din Africa de Est, folosita pentru evenimente sportive ?i concerte în Kigali.",
       en: "The largest indoor multipurpose arena in East Africa, used for sporting events, concerts, and major conferences in Kigali."
     },
     facts: {
@@ -123,7 +123,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Eines der höchsten Gebäude in Ruanda, ein moderner Wolkenkratzer im Herzen von Kigali, der Büros und ein großes Einkaufszentrum beherbergt.",
       hu: "Ruanda egyik legmagasabb épülete, egy modern felhokarcoló Kigali szívében, amely irodáknak és egy nagy bevásárlóközpontnak ad otthont.",
-      ro: "Una dintre cele mai înalte cladiri din Rwanda, un zgârie-nori modern în inima ora?ului Kigali.",
+      ro: "Una dintre cele mai înalte cladiri din Rwanda, un zgârie-nori modern în inima orașului Kigali.",
       en: "One of the tallest buildings in Rwanda, a modern skyscraper in the heart of Kigali housing offices and a large shopping center."
     },
     facts: {
@@ -159,7 +159,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Ein wichtiges Museum in Butare (Huye), das eine der besten ethnologischen Sammlungen Zentralafrikas zur traditionellen ruandischen Kultur beherbergt.",
       hu: "Egy fontos múzeum Butare (Huye) városában, amely Közép-Afrika egyik legjobb néprajzi gyujteményét orzi a hagyományos ruandai kultúráról.",
-      ro: "Un muzeu important în Butare (Huye), care gazduie?te una dintre cele mai bune colec?ii etnologice din Africa Centrala.",
+      ro: "Un muzeu important în Butare (Huye), care gazduiește una dintre cele mai bune colec?ii etnologice din Africa Centrala.",
       en: "An important museum in Butare (Huye) housing one of the best ethnological collections in Central Africa on traditional Rwandan culture."
     },
     facts: {
@@ -195,7 +195,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Eine detaillierte Rekonstruktion der traditionellen königlichen Residenz in Nyanza, die Einblicke in die vorkoloniale ruandische Monarchie bietet.",
       hu: "A hagyományos királyi rezidencia részletes rekonstrukciója Nyanzában, amely bemutatja a gyarmatosítás elotti ruandai monarchiát.",
-      ro: "O reconstruc?ie detaliata a re?edin?ei regale tradi?ionale din Nyanza, oferind o privire asupra monarhiei precoloniale din Rwanda.",
+      ro: "O reconstrucție detaliata a re?edin?ei regale tradiționale din Nyanza, oferind o privire asupra monarhiei precoloniale din Rwanda.",
       en: "A detailed reconstruction of the traditional royal residence in Nyanza, offering insights into the pre-colonial Rwandan monarchy."
     },
     facts: {
@@ -231,7 +231,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Eine ehemalige technische Schule in Südruanda, die zu einer erschütternden Gedenkstätte für die Tausenden Tutsi wurde, die dort 1994 massakriert wurden.",
       hu: "Egykori muszaki iskola Dél-Ruandában, amely egy megrázó emlékmuvé vált az ott 1994-ben lemészárolt több ezer tuszi számára.",
-      ro: "O fosta ?coala tehnica transformata într-un memorial cutremurator pentru miile de tutsi masacra?i acolo în 1994.",
+      ro: "O fosta ?coala tehnica transformata într-un memorial cutremurator pentru miile de tutsi masacrați acolo în 1994.",
       en: "A former technical school in southern Rwanda that became a harrowing memorial for the thousands of Tutsi massacred there in 1994."
     },
     facts: {
@@ -339,7 +339,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Bekannt als das Denkmal des Widerstands, ehrt dieser Ort die Tutsi, die sich auf den Hügeln von Bisesero tapfer gegen die Milizen verteidigten.",
       hu: "Az Ellenállás Emlékmuveként ismert helyszín azokat a tuszikat tiszteli, akik bátran védekeztek a milíciák ellen a Bisesero dombjain.",
-      ro: "Cunoscut ca Memorialul Rezisten?ei, onoreaza tutsi care s-au aparat cu curaj împotriva mili?iilor pe dealurile din Bisesero.",
+      ro: "Cunoscut ca Memorialul Rezisten?ei, onoreaza tutsi care s-au aparat cu curaj împotriva milițiilor pe dealurile din Bisesero.",
       en: "Known as the Memorial of Resistance, this site honors the Tutsi who bravely defended themselves against militias on the hills of Bisesero."
     },
     facts: {
@@ -388,7 +388,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
         "Tíz kooszlop képviseli az áldozatokat.",
       ],
       ro: [
-        "Comemoreaza 10 solda?i belgieni.",
+        "Comemoreaza 10 soldați belgieni.",
         "Zece stâlpi de piatra reprezinta victimele.",
       ],
       en: [
@@ -519,7 +519,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Ein wichtiges kulturelles und künstlerisches Zentrum in Kigali, das nicht nur lokale Kunst präsentiert, sondern auch gefährdeten Kindern durch Kunstausbildung hilft.",
       hu: "Fontos kulturális és muvészeti központ Kigaliban, amely nemcsak a helyi muvészetet mutatja be, hanem veszélyeztetett gyermekeket is segít muvészeti oktatással.",
-      ro: "Un important centru cultural ?i artistic din Kigali, care ajuta copiii vulnerabili prin educa?ie artistica.",
+      ro: "Un important centru cultural ?i artistic din Kigali, care ajuta copiii vulnerabili prin educație artistica.",
       en: "An important cultural and artistic center in Kigali that not only showcases local art but also helps vulnerable children through arts education."
     },
     facts: {
@@ -533,7 +533,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       ],
       ro: [
         "Sprijina copiii orfani.",
-        "Promoveaza tobele ?i dansurile tradi?ionale.",
+        "Promoveaza tobele ?i dansurile tradiționale.",
       ],
       en: [
         "Supports orphaned children.",
@@ -555,7 +555,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Ein lebendiges Museum nahe dem Vulkan-Nationalpark, in dem Besucher traditionelle ruandische Kultur, Tänze und das Leben ehemaliger Wilderer erleben können.",
       hu: "Egy élo múzeum a Vulkánok Nemzeti Park közelében, ahol a látogatók megtapasztalhatják a hagyományos ruandai kultúrát, táncokat és az egykori orvvadászok életét.",
-      ro: "Un muzeu viu în apropierea Parcului Na?ional al Vulcanilor, unde vizitatorii pot experimenta cultura tradi?ionala rwandeza.",
+      ro: "Un muzeu viu în apropierea Parcului Național al Vulcanilor, unde vizitatorii pot experimenta cultura tradiționala rwandeza.",
       en: "A living museum near the Volcanoes National Park where visitors can experience traditional Rwandan culture, dances, and the lives of former poachers."
     },
     facts: {
@@ -568,8 +568,8 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
         "Egykori orvvadászok üzemeltetik.",
       ],
       ro: [
-        "Ofera dansuri tradi?ionale Intore.",
-        "Administrat de fo?ti braconieri.",
+        "Ofera dansuri tradiționale Intore.",
+        "Administrat de foști braconieri.",
       ],
       en: [
         "Features traditional Intore dancing.",
@@ -591,7 +591,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Ein wichtiger katholischer Wallfahrtsort in Südrwanda, an dem in den 1980er Jahren Marienerscheinungen vom Vatikan offiziell anerkannt wurden.",
       hu: "Egy fontos katolikus zarándokhely Dél-Ruandában, ahol az 1980-as években történt Mária-jelenéseket a Vatikán hivatalosan elismerte.",
-      ro: "Un loc de pelerinaj catolic important în sudul Rwandei, recunoscut oficial de Vatican pentru apari?iile mariane din anii 1980.",
+      ro: "Un loc de pelerinaj catolic important în sudul Rwandei, recunoscut oficial de Vatican pentru aparițiile mariane din anii 1980.",
       en: "A major Catholic pilgrimage site in southern Rwanda where Marian apparitions in the 1980s were officially recognized by the Vatican."
     },
     facts: {
@@ -627,7 +627,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Ein einzigartiges Museum am Ufer des Kivu-Sees, das sich auf erneuerbare Energien, den Klimawandel und den Schutz der ruandischen Umwelt konzentriert.",
       hu: "Egy egyedülálló múzeum a Kivu-tó partján, amely a megújuló energiákra, a klímaváltozásra és a ruandai környezet védelmére összpontosít.",
-      ro: "Un muzeu unic pe malul Lacului Kivu, axat pe energia regenerabila ?i protec?ia mediului în Rwanda.",
+      ro: "Un muzeu unic pe malul Lacului Kivu, axat pe energia regenerabila ?i protecția mediului în Rwanda.",
       en: "A unique museum on the shores of Lake Kivu focusing on renewable energy, climate change, and protecting the Rwandan environment."
     },
     facts: {
@@ -657,13 +657,13 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     name: {
       de: "Amahoro-Nationalstadion",
       hu: "Amahoro Nemzeti Stadion",
-      ro: "Stadionul Na?ional Amahoro",
+      ro: "Stadionul Național Amahoro",
       en: "Amahoro National Stadium"
     },
     description: {
       de: "Das größte Mehrzweckstadion in Ruanda, das hauptsächlich für Fußballspiele genutzt wird und während des Völkermords 1994 als Zufluchtsort der UN diente.",
       hu: "A legnagyobb többcélú stadion Ruandában, amelyet foleg labdarúgó-mérkozésekre használnak, és amely 1994-ben az ENSZ menedékhelyeként szolgált.",
-      ro: "Cel mai mare stadion multifunc?ional din Rwanda, folosit în principal pentru meciuri de fotbal.",
+      ro: "Cel mai mare stadion multifuncțional din Rwanda, folosit în principal pentru meciuri de fotbal.",
       en: "The largest multi-purpose stadium in Rwanda, used primarily for football matches and served as a UN refuge during the 1994 genocide."
     },
     facts: {
@@ -771,7 +771,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Ein modernes, markantes Hochhaushotel im Geschäftszentrum von Kigali, das für seinen Panoramablick über die Hügel der Stadt bekannt ist.",
       hu: "Egy modern, jellegzetes toronyhotel Kigali üzleti központjában, amely a város dombjaira nyíló panorámájáról híres.",
-      ro: "Un hotel modern în centrul de afaceri din Kigali, cunoscut pentru priveli?tile sale panoramice asupra dealurilor ora?ului.",
+      ro: "Un hotel modern în centrul de afaceri din Kigali, cunoscut pentru priveli?tile sale panoramice asupra dealurilor orașului.",
       en: "A modern, prominent high-rise hotel in the business district of Kigali, known for its panoramic views over the city's hills."
     },
     facts: {
@@ -893,7 +893,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       ],
       ro: [
         "Centrul vie?ii islamice din Provincia de Vest.",
-        "Arhitectura cu minarete tradi?ionale.",
+        "Arhitectura cu minarete tradiționale.",
       ],
       en: [
         "Center of Islamic life in the Western Province.",
@@ -915,7 +915,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Die Hauptkathedrale der Diözese Ruhengeri in der Stadt Musanze, einem wichtigen Ausgangspunkt für Gorilla-Trekking-Touristen.",
       hu: "A Ruhengeri egyházmegye fo katedrálisa Musanze városában, amely a gorillatúrák turistáinak fontos kiindulópontja.",
-      ro: "Catedrala principala a Episcopiei Ruhengeri din ora?ul Musanze, o baza importanta pentru turi?tii care merg în drume?ii cu gorile.",
+      ro: "Catedrala principala a Episcopiei Ruhengeri din orașul Musanze, o baza importanta pentru turi?tii care merg în drume?ii cu gorile.",
       en: "The main cathedral of the Diocese of Ruhengeri in the city of Musanze, a major hub for gorilla trekking tourists."
     },
     facts: {
@@ -928,7 +928,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
         "Népszeru hely a hétvégi misékre.",
       ],
       ro: [
-        "Arhitectura domina centrul ora?ului Musanze.",
+        "Arhitectura domina centrul orașului Musanze.",
         "Loc popular pentru slujbele de weekend.",
       ],
       en: [
@@ -965,7 +965,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       ],
       ro: [
         "Construita în 1913.",
-        "Fa?ada din caramida ro?ie este un punct de reper izbitor.",
+        "Fa?ada din caramida roție este un punct de reper izbitor.",
       ],
       en: [
         "Built in 1913.",
@@ -1000,7 +1000,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
         "Feltuno modern üveg dizájn.",
       ],
       ro: [
-        "Gazduie?te diverse companii interna?ionale.",
+        "Gazduiește diverse companii internaționale.",
         "Design modern impresionant din sticla.",
       ],
       en: [
@@ -1023,7 +1023,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Eine der ältesten und größten Teefabriken in Ruanda, umgeben von malerischen Teeplantagen, die einen großen Beitrag zur Agrarwirtschaft leisten.",
       hu: "Ruanda egyik legrégebbi és legnagyobb teagyára, amelyet festoi teaültetvények vesznek körül, és nagyban hozzájárul az agrártörténelemhez.",
-      ro: "Una dintre cele mai vechi ?i mari fabrici de ceai din Rwanda, înconjurata de planta?ii pitore?ti.",
+      ro: "Una dintre cele mai vechi ?i mari fabrici de ceai din Rwanda, înconjurata de planta?ii pitorești.",
       en: "One of the oldest and largest tea factories in Rwanda, surrounded by picturesque tea estates, making a major contribution to the agricultural economy."
     },
     facts: {
@@ -1059,7 +1059,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Eine strategisch wichtige internationale Brücke über den Akagera-Fluss an der Grenze zwischen Ruanda und Tansania in der Nähe der Rusumo-Fälle.",
       hu: "Stratégiailag fontos nemzetközi híd az Akagera folyón Ruanda és Tanzánia határán, a Rusumo-vízesés közelében.",
-      ro: "Un pod interna?ional important din punct de vedere strategic peste râul Akagera, la grani?a dintre Rwanda ?i Tanzania.",
+      ro: "Un pod internațional important din punct de vedere strategic peste râul Akagera, la grani?a dintre Rwanda ?i Tanzania.",
       en: "A strategically important international bridge over the Akagera River on the border between Rwanda and Tanzania near the Rusumo Falls."
     },
     facts: {

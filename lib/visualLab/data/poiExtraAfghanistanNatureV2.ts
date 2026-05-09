@@ -14,7 +14,8 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Altitudine: 7.492 metri", "Cel mai înalt munte din țară", "Parte a Hindu Kush", "Munte de frontieră cu Pakistan"],
       en: ["Elevation: 7,492 meters", "Highest mountain in the country", "Part of the Hindu Kush", "Border mountain with Pakistan"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Elevation: 7,492 m (24,580 ft)", "First ascent: 1960 by a Japanese team", "First winter ascent: 1973 by a Polish team", "Part of the Hindu Kush mountain range", "Second highest peak in the Hindu Kush", "Located on the Afghanistan-Pakistan border", "The surrounding area is a habitat for snow leopards", "Part of the Wakhan National Park"] }},
   {
     id: "afghanistan-hindukusch-nature-v2",
     type: "mountain",
@@ -28,21 +29,23 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Peste 800 km lungime", "Separă Asia Centrală de Asia de Sud", "Cele mai înalte vârfuri peste 7.000m", "Importantă cumpănă a apelor"],
       en: ["Over 800 km long", "Separates Central and South Asia", "Highest peaks over 7,000m", "Important watershed"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Length: Over 800 kilometers (500 miles)", "Highest peak: Tirich Mir (7,708 m)", "Separates the Amu Darya valley from the Indus River valley", "Historically known as the 'Caucasus Indicus'", "Crossed by Alexander the Great in 329 BC", "Source of major rivers like the Helmand, Hari Rud, and Kabul", "Prone to significant seismic activity", "The name translates to 'Killer of Hindus'"] }},
   {
     id: "afghanistan-pamir-nature-v2",
     type: "mountain",
     parent: "AF-BDS",
     coords: [73.0, 38.0],
     name: { de: "Pamir-Gebirge", hu: "Pamír-hegység", ro: "Munții Pamir", en: "Pamir Mountains" },
-    description: { de: "Das Pamir-Gebirge berührt den Nordosten Afghanistans im Wakhan-Korridor. Diese hochalpine Region wird oft als 'Dach der Welt' bezeichnet.", hu: "A Pamír-hegység a Vahán-folyosónál érinti Afganisztán északkeleti részét. Ezt a magashegyi régiót gyakran 'a világ tetejeként' emlegetik.", ro: "Munții Pamir ating nord-estul Afganistanului în Coridorul Wakhan. Această regiune alpină înaltă este adesea numită 'Acoperișul Lumii'.", en: "The Pamir Mountains touch northeastern Afghanistan in the Wakhan Corridor. This high alpine region is often referred to as the 'Roof of the World'." },
+    description: { de: "Das Pamir-Gebirge im Nordosten Afghanistans bildet eine Hochgebirgsregion, die als Dach der Welt bekannt ist.", hu: "Afganisztán északkeleti részén, a Vahán-folyosóban húzódó magashegység, amelyet gyakran emlegetnek a világ tetejeként.", ro: "Munții Pamir ating nord-estul Afganistanului în Coridorul Wakhan. Această regiune alpină înaltă este adesea numită 'Acoperișul Lumii'.", en: "The Pamir Mountains touch northeastern Afghanistan in the Wakhan Corridor. This high alpine region is often referred to as the 'Roof of the World'." },
     facts: {
-      de: ["Liegt im Wakhan-Korridor", "Extremes Hochgebirgsklima", "Heimat seltener Tierarten", "Dach der Welt"],
-      hu: ["A Vahán-folyosóban található", "Extrém magashegyi éghajlat", "Ritka állatfajok otthona", "A világ teteje"],
+      de: ["Teil des Großen Pamir und Kleinen Pamir", "Heimat des seltenen Marco-Polo-Schafes", "Durchschnittliche Höhe über 4.000 Meter", "Wichtiger ökologischer Korridor in Zentralasien"],
+      hu: ["Magaslati fennsíkok vidéke", "A Vahán-folyosóban fekszik", "Átlagmagassága 4000 méter felett", "Ritka Marco Polo-juhok élőhelye"],
       ro: ["Situat în Coridorul Wakhan", "Climat alpin extrem", "Adăpostește specii rare de animale", "Acoperișul lumii"],
       en: ["Located in the Wakhan Corridor", "Extreme high alpine climate", "Home to rare animal species", "Roof of the World"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Known as the 'Roof of the World'", "Junction of several major Asian mountain ranges", "Average elevation exceeds 4,000 meters (13,123 ft)", "Afghan portion is mainly in the Wakhan Corridor", "Home to nomadic Kyrgyz and Wakhi people", "Habitat for the Marco Polo sheep", "Lake Zorkul, a major lake, is located here", "Contains extensive glacial systems"] }},
   {
     id: "afghanistan-wakhan-national-park-nature-v2",
     type: "national-park",
@@ -56,7 +59,8 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Al doilea parc național din Afganistan", "Zonă protejată pentru leopardul de zăpadă", "Înființat în 2014", "Peisaj de deșert alpin"],
       en: ["Afghanistan's second national park", "Protected area for snow leopards", "Established in 2014", "Alpine desert landscape"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Established on April 3, 2014", "Afghanistan's second national park", "Area: 10,951 square kilometers", "Covers the entire Wakhan District", "Protects over 120 snow leopards", "Home to the Marco Polo sheep and Siberian ibex", "Supports the indigenous Wakhi and Kyrgyz communities", "Connects to protected areas in Tajikistan, Pakistan, and China"] }},
   {
     id: "afghanistan-nuristan-national-park-nature-v2",
     type: "national-park",
@@ -70,7 +74,8 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Protejează pădurile afgane", "Climat musonic unic", "Numeroase specii de păsări", "Înființat în 2020"],
       en: ["Protects Afghan forests", "Unique monsoon climate", "Numerous bird species", "Established in 2020"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Established in 2020", "Located in Nuristan Province, eastern Afghanistan", "Protects unique Western Himalayan broadleaf and coniferous forests", "Habitat for the endangered Kashmir musk deer", "Home to Himalayan black bears and leopards", "Characterized by steep, V-shaped valleys", "The region is known for its distinct languages and culture", "Covers an area of approximately 1,200 square kilometers"] }},
   {
     id: "afghanistan-amudarja-nature-v2",
     type: "river",
@@ -84,7 +89,8 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Cel mai lung râu din Asia Centrală", "Formează granița de nord", "Se varsă în Marea Aral", "Cunoscut istoric sub numele de Oxus"],
       en: ["Longest river in Central Asia", "Forms the northern border", "Flows into the Aral Sea", "Historically known as Oxus"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Ancient name: Oxus River", "Length: Approximately 2,540 km (1,578 miles)", "Forms the border between Afghanistan and several Central Asian countries", "Source: Pamir Mountains, from the confluence of the Vakhsh and Panj rivers", "Historically flowed into the Aral Sea", "Vital for irrigation, especially for cotton crops", "Mentioned in the works of ancient Greek historians", "Its flow has significantly decreased in modern times"] }},
   {
     id: "afghanistan-helmand-river-nature-v2",
     type: "river",
@@ -98,7 +104,8 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Cel mai lung râu din interiorul Afganistanului", "Se termină în bazinul Sistan", "Important pentru agricultură", "Izvorăște lângă Kabul"],
       en: ["Longest inner-Afghan river", "Ends in the Sistan Basin", "Important for agriculture", "Rises near Kabul"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Length: 1,150 km (715 miles)", "Longest river entirely within Afghanistan", "Source: Koh-e Baba range of the Hindu Kush", "Mouth: Hamun Lake in the Sistan Basin", "The Kajaki Dam is a major hydroelectric station on the river", "Main tributary is the Arghandab River", "Crucial for agriculture in southern Afghanistan", "Water rights are a point of dispute with Iran"] }},
   {
     id: "afghanistan-hari-rud-nature-v2",
     type: "river",
@@ -112,7 +119,8 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Aprox. 1.100 km lungime", "Trece prin Herat", "Formează granițe internaționale", "Se pierde în deșertul Karakum"],
       en: ["Approx. 1,100 km long", "Flows through Herat", "Forms international borders", "Sinks into the Karakum Desert"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Length: Approximately 1,100 km (680 miles)", "Source: Koh-e Baba mountains, central Afghanistan", "Flows through the city of Herat", "Forms the border between Afghanistan-Iran and Iran-Turkmenistan", "Disappears in the Karakum Desert", "The Salma Dam is a major hydroelectric project on the river", "Known as the Tejen River in Turkmenistan", "Its valley has been a historically significant cultural corridor"] }},
   {
     id: "afghanistan-kabul-river-nature-v2",
     type: "river",
@@ -126,7 +134,8 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Aproximativ 700 km lungime", "Trece prin Kabul", "Se varsă în râul Indus", "Rută comercială istorică importantă"],
       en: ["About 700 km long", "Flows through Kabul", "Flows into the Indus", "Historically important trade route"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Length: Approximately 700 km (435 miles)", "Source: Sanglakh Range, Hindu Kush", "Flows through the capitals of Kabul and Jalalabad", "Tributary of the Indus River", "Joined by the Panjshir and Kunar rivers in Afghanistan", "Historically significant route (Khyber Pass)", "Heavily utilized for irrigation and hydropower", "Faces severe pollution issues, especially around Kabul"] }},
   {
     id: "afghanistan-pandschschir-river-nature-v2",
     type: "river",
@@ -140,7 +149,8 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Dă numele Văii Panjshir", "Se varsă în râul Kabul", "Sursă importantă de apă potabilă", "Cunoscut pentru minele de smarald din vale"],
       en: ["Namesake of the Panjshir Valley", "Flows into the Kabul River", "Important drinking water source", "Known for emerald mines in the valley"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Main river of the Panjshir Valley", "Tributary of the Kabul River", "Approximately 150 km (93 miles) long", "The valley is famous for its high-quality emeralds", "Historically a stronghold of resistance", "The name 'Panjshir' means 'Five Lions'", "The valley is densely populated, with over 100,000 residents", "Water is used for irrigation and small-scale hydropower"] }},
   {
     id: "afghanistan-arghandab-river-nature-v2",
     type: "river",
@@ -154,7 +164,8 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 400 km", "Afluent al râului Helmand", "Alimentează barajul Dahla", "Oază verde lângă Kandahar"],
       en: ["Length of about 400 km", "Tributary of the Helmand", "Feeds the Dahla Dam", "Green oasis near Kandahar"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Length: Approximately 400 km (250 miles)", "Main tributary of the Helmand River", "Source: Ghazni Province", "Flows past the city of Kandahar", "The Dahla Dam is located on this river", "Its valley is famous for its pomegranates", "Provides irrigation for a large agricultural area", "Historically significant in the Kandahar region"] }},
   {
     id: "afghanistan-koktscha-river-nature-v2",
     type: "river",
@@ -168,7 +179,8 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Afluent al Amu Daria", "Trece prin Fayzabad", "Cunoscut pentru lapis lazuli", "Apă de munte rapidă"],
       en: ["Tributary of the Amu Darya", "Flows through Fayzabad", "Known for lapis lazuli", "Torrential mountain water"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Located in Badakhshan Province", "Tributary of the Amu Darya (Oxus River)", "Valley is the world's primary source of high-grade lapis lazuli", "Lapis lazuli mines have been active for over 6,000 years", "Flows through the provincial capital, Fayzabad", "The river is approximately 320 km (200 miles) long", "Water is used for irrigation and local hydropower", "The region is also known for ruby and spinel deposits"] }},
   {
     id: "afghanistan-murgab-river-nature-v2",
     type: "river",
@@ -182,35 +194,38 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Lungime de 850 km", "Izvorăște în provincia Ghor", "Curge spre Turkmenistan", "Se pierde în nisip"],
       en: ["Length of 850 km", "Rises in Ghor Province", "Flows to Turkmenistan", "Sinks into the sand"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Total length: 978 km (608 miles)", "Source: Ghor Province, Afghanistan", "Flows through Afghanistan and Turkmenistan", "Forms a large oasis and inland delta at Mary, Turkmenistan", "The ancient city of Merv was located in its delta", "Does not flow into any sea (endorheic basin)", "Crucial for agriculture in the Badghis province", "Historically part of the region of Bactria"] }},
   {
     id: "afghanistan-schah-foladi-nature-v2",
     type: "mountain",
     parent: "AF-BAM",
     coords: [67.6, 34.65],
     name: { de: "Schah Foladi", hu: "Shah Foladi", ro: "Shah Foladi", en: "Shah Foladi" },
-    description: { de: "Der Schah Foladi ist der höchste Gipfel der Koh-e Baba-Gebirgskette. Seine Hänge sind oft schneebedeckt und dominieren die Landschaft der Provinz Bamiyan.", hu: "A Shah Foladi a Koh-e Baba hegylánc legmagasabb csúcsa. Lejtőit gyakran hó borítja, és uralják Bámiján tartomány táját.", ro: "Shah Foladi este cel mai înalt vârf din lanțul muntos Koh-e Baba. Pantele sale sunt adesea acoperite de zăpadă și domină peisajul provinciei Bamiyan.", en: "Shah Foladi is the highest peak of the Koh-e Baba mountain range. Its slopes are often covered with snow and dominate the landscape of Bamiyan Province." },
+    description: { de: "Der Schah Foladi ist mit 4.951 Metern der höchste Gipfel der Koh-i-Baba-Kette im zentralen Hochland.", hu: "A Shah Foladi a Koh-e Baba hegylánc legmagasabb csúcsa. Lejtőit gyakran hó borítja, és uralják Bámiján tartomány táját.", ro: "Shah Foladi este cel mai înalt vârf din lanțul muntos Koh-e Baba. Pantele sale sunt adesea acoperite de zăpadă și domină peisajul provinciei Bamiyan.", en: "The highest peak of the Koh-i-Baba mountain range, offering rugged alpine scenery and permanent snow fields." },
     facts: {
-      de: ["Über 5.000 Meter hoch", "Höchster Berg im Koh-e Baba", "Beliebt für Bergsteigen", "Nahe Bamiyan"],
+      de: ["Gipfelhöhe erreicht 4.951 Meter", "Dominierender Berg der Provinz Bamiyan", "Ganzjährig schneebedeckte Gipfelregionen", "Ursprung zahlreicher Gebirgsflüsse"],
       hu: ["Több mint 5000 méter magas", "A Koh-e Baba legmagasabb hegye", "Népszerű a hegymászók körében", "Bámiján közelében"],
       ro: ["Peste 5.000 de metri altitudine", "Cel mai înalt munte din Koh-e Baba", "Popular pentru alpinism", "Aproape de Bamiyan"],
-      en: ["Over 5,000 meters high", "Highest mountain in Koh-e Baba", "Popular for mountaineering", "Near Bamiyan"]
+      en: ["Reaches an elevation of 4,951 meters", "Part of the Hindu Kush mountain system", "Located in the Bamyan Province", "Popular destination for extreme mountaineers"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Elevation: 5,143 m (16,873 ft)", "Highest peak of the Koh-e-Baba range", "Located in Bamiyan Province", "Part of the Band-e-Amir National Park watershed", "The name translates to 'King of Steel'", "Considered the source of many of Afghanistan's rivers", "A popular but challenging destination for trekking", "Summit is snow-capped for most of the year"] }},
   {
     id: "afghanistan-zorkulsee-nature-v2",
     type: "lake",
     parent: "AF-BDS",
     coords: [73.66, 37.45],
     name: { de: "Zorkulsee", hu: "Zorkul-tó", ro: "Lacul Zorkul", en: "Lake Zorkul" },
-    description: { de: "Dieser abgelegene Hochgebirgssee im Pamir-Gebirge markiert einen Teil der Grenze zwischen Afghanistan und Tadschikistan. Er liegt in einer unberührten, kargen Landschaft.", hu: "Ez a távoli magashegyi tó a Pamír-hegységben az Afganisztán és Tádzsikisztán közötti határ egy részét jelöli. Érintetlen, kietlen tájon fekszik.", ro: "Acest lac alpin izolat din Munții Pamir marchează o parte a graniței dintre Afganistan și Tadjikistan. Este situat într-un peisaj arid, neatins.", en: "This remote high mountain lake in the Pamir Mountains marks part of the border between Afghanistan and Tajikistan. It lies in a pristine, barren landscape." },
+    description: { de: "Dieser abgelegene Hochgebirgssee im Pamir-Gebirge markiert einen Teil der Grenze zwischen Afghanistan und Tadschikistan. Er liegt in einer unberührten, kargen Landschaft.", hu: "Ez a távoli magashegyi tó a Pamír-hegységben az Afganisztán és Tádzsikisztán közötti határ egy részét jelöli. Érintetlen, kietlen tájon fekszik.", ro: "Lacul Zorkul este un lac alpin spectaculos situat în Munții Pamir, la granița dintre Afganistan și Tadjikistan.", en: "This remote high mountain lake in the Pamir Mountains marks part of the border between Afghanistan and Tajikistan. It lies in a pristine, barren landscape." },
     facts: {
       de: ["Auf 4.130 Metern Höhe", "Grenze zu Tadschikistan", "Ursprung des Pamir-Flusses", "Zugefroren im Winter"],
       hu: ["4130 méteres magasságban", "Határ Tádzsikisztán felé", "A Pamír folyó forrása", "Télen befagyott"],
-      ro: ["La 4.130 de metri altitudine", "Granița cu Tadjikistan", "Izvorul râului Pamir", "Înghețat iarna"],
+      ro: ["Altitudine de aproximativ 4.126 metri", "Situat în coridorul Wakhan", "Suprafață de circa 38 km pătrați", "Sursă importantă pentru râul Pamir"],
       en: ["At 4,130 meters elevation", "Border with Tajikistan", "Source of the Pamir River", "Frozen in winter"]
     }
-  },
+  ,
+    factsAdvanced: { multi4: ["Elevation: 4,130 m (13,550 ft)", "Straddles the border of Afghanistan and Tajikistan", "Source of the Pamir River", "Designated as a Ramsar wetland of international importance", "Also known as Lake Victoria in 19th-century British sources", "Length: 25 km (16 miles)", "The lake is frozen for about 8-9 months of the year", "Important habitat for migratory birds like the bar-headed goose"] }},
   {
     id: "afghanistan-chaqmaqtin-see-nature-v2",
     type: "lake",
@@ -224,35 +239,59 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Situat în Micul Pamir", "La aproximativ 4.024 metri altitudine", "Atrage păsările migratoare", "Pășune de vară pentru nomazi"],
       en: ["Located in the Little Pamir", "About 4,024 meters high", "Attracts migratory birds", "Summer pasture for nomads"]
     }
-  },
+  ,
+    descriptionAdvanced: {
+    
+    "de": "Der Chaqmaqtin-See liegt in der abgelegenen Region des Kleinen Pamir im Wakhan-Korridor Afghanistans auf einer Höhe von über 4.000 Metern. Dieser Süßwassersee ist von weiten, grasbewachsenen Tälern umgeben, die traditionell als Sommerweiden für die Herden der nomadischen Kirgisen dienen. Der See entsteht durch Schmelzwasser aus den umliegenden Gletschern und ist eine wichtige Wasserquelle in dieser hochgelegenen und trockenen Umgebung. Die Region ist bekannt für ihre extreme Abgeschiedenheit und die raue Schönheit der Landschaft. Der See und seine Umgebung sind ein wichtiger Lebensraum für verschiedene Wildtiere, darunter Murmeltiere und verschiedene Vogelarten. Aufgrund seiner isolierten Lage ist das Ökosystem des Chaqmaqtin-Sees weitgehend unberührt geblieben und bietet einen Einblick in eine der letzten wirklich wilden Gegenden Zentralasiens.",
+    "hu": "A Chaqmaqtin-tó Afganisztán Vahán-folyosójának távoli Kis-Pamír régiójában található, több mint 4000 méteres magasságban. Ezt az édesvizű tavat tágas, füves völgyek veszik körül, amelyeket a nomád kirgizek hagyományosan nyári legelőként használnak nyájaik számára. A tó a környező gleccserek olvadékvizéből jön létre, és fontos vízforrást jelent ebben a magaslati és száraz környezetben. A régió extrém elszigeteltségéről és a táj zord szépségéről ismert. A tó és környéke fontos élőhelyet biztosít különböző vadon élő állatoknak, köztük mormotáknak és különféle madárfajoknak. Elszigetelt fekvésének köszönhetően a Chaqmaqtin-tó ökoszisztémája nagyrészt érintetlen maradt, betekintést nyújtva Közép-Ázsia egyik utolsó valóban vad területébe.",
+    "ro": "Lacul Chaqmaqtin este situat în regiunea izolată Micul Pamir din Coridorul Wakhan al Afganistanului, la o altitudine de peste 4.000 de metri. Acest lac de apă dulce este înconjurat de văi largi, ierboase, folosite în mod tradițional ca pășuni de vară pentru turmele nomazilor kârgâzi. Lacul este format din topirea apelor din ghețarii înconjurători și reprezintă o sursă de apă vitală în acest mediu de mare altitudine și arid. Regiunea este cunoscută pentru izolarea sa extremă și pentru frumusețea aspră a peisajului. Lacul și împrejurimile sale sunt un habitat important pentru diverse specii de animale sălbatice, inclusiv marmote și diferite specii de păsări. Datorită locației sale izolate, ecosistemul lacului Chaqmaqtin a rămas în mare parte neatins, oferind o privire asupra uneia dintre ultimele zone cu adevărat sălbatice din Asia Centrală.",
+    "en": "Chaqmaqtin Lake is located in the remote Little Pamir region of Afghanistan's Wakhan Corridor, at an altitude of over 4,000 meters. This freshwater lake is surrounded by wide, grassy valleys traditionally used as summer pastures for the herds of the nomadic Kyrgyz people. The lake is formed by meltwater from the surrounding glaciers and provides a vital water source in this high-altitude and arid environment. The region is known for its extreme remoteness and the rugged beauty of its landscape. The lake and its surroundings are an important habitat for various wildlife, including marmots and different bird species. Due to its isolated location, the Chaqmaqtin Lake ecosystem has remained largely untouched, offering a glimpse into one of the last truly wild areas of Central Asia."
+    },
+    factsAdvanced: { multi4: ["Location: Little Pamir, Wakhan Corridor, Afghanistan", "Elevation: Approx. 4,024 m (13,202 ft)", "Type: Freshwater lake", "Source of the Aksu or Murghab river", "Surrounded by summer pastures for Kyrgyz nomads", "Area is extremely remote and sparsely populated", "Habitat for Marco Polo sheep and other wildlife", "Frozen for more than half the year"] }},
   {
     id: "afghanistan-shiva-see-nature-v2",
     type: "lake",
     parent: "AF-BDS",
     coords: [70.36, 37.38],
     name: { de: "Shiva-See", hu: "Shiva-tó", ro: "Lacul Shiva", en: "Shiva Lake" },
-    description: { de: "Der Shiva-See, auch Shewa-See genannt, ist ein Süßwassersee in der Provinz Badachschan. Die umgebenden grünen Wiesen werden von Nomaden als Sommerweideland genutzt.", hu: "A Shiva-tó, más néven Shewa-tó egy édesvizű tó Badahsán tartományban. A környező zöld réteket nomádok használják nyári legelőként.", ro: "Lacul Shiva, cunoscut și sub numele de Lacul Shewa, este un lac de apă dulce din provincia Badakhshan. Pajiștile verzi din jur sunt folosite de nomazi ca pășuni de vară.", en: "Shiva Lake, also known as Shewa Lake, is a freshwater lake in Badakhshan Province. The surrounding green meadows are used by nomads as summer pastures." },
+    description: { de: "Der Schiwa-See ist ein Gebirgssee in der Provinz Badachschan, der in einer Höhe von etwa 3.100 Metern liegt.", hu: "Badahsán tartományban található édesvízi hegyi tó, amely 3100 méteres magasságban helyezkedik el.", ro: "Lacul Shiva, cunoscut și sub numele de Lacul Shewa, este un lac de apă dulce din provincia Badakhshan. Pajiștile verzi din jur sunt folosite de nomazi ca pășuni de vară.", en: "Shiva Lake, also known as Shewa Lake, is a freshwater lake in Badakhshan Province. The surrounding green meadows are used by nomads as summer pastures." },
     facts: {
-      de: ["Süßwassersee", "In der Provinz Badachschan", "Gefriert im langen Winter", "Beliebt bei Hirten"],
-      hu: ["Édesvizű tó", "Badahsán tartományban", "A hosszú tél alatt befagy", "Népszerű a pásztorok körében"],
+      de: ["Höchstgelegener großer See Afghanistans", "Wichtige Wasserquelle für die Region", "Nur in den Sommermonaten eisfrei", "Umgeben von alpinen Weideflächen"],
+      hu: ["Badahsán tartományban található", "Édesvízi hegyi tó", "3100 méteres magasságban", "Környéke népszerű nyári legelő"],
       ro: ["Lac cu apă dulce", "În provincia Badakhshan", "Îngheață în timpul iernii lungi", "Popular printre ciobani"],
       en: ["Freshwater lake", "In Badakhshan Province", "Freezes in the long winter", "Popular with herders"]
     }
-  },
+  ,
+    descriptionAdvanced: {
+    
+    "de": "Der Shiva-See, auch Shewa-See genannt, ist ein beeindruckender See in der Provinz Badachschan im Nordosten Afghanistans. Er liegt auf einer Höhe von etwa 3.100 Metern und wurde durch einen massiven prähistorischen Erdrutsch gebildet, der den Fluss Arakht blockierte. Dieser natürliche Damm schuf einen tiefen, etwa 11 Kilometer langen See mit leuchtend blauem Wasser. Der See ist von steilen, felsigen Hängen umgeben, die in den Sommermonaten mit grünen Weiden durchsetzt sind. Die Region ist abgelegen und schwer zugänglich, was zur Erhaltung ihrer unberührten Schönheit beigetragen hat. Der Shiva-See ist ein wichtiges Wasserreservoir und beeinflusst das lokale Mikroklima. Er ist ein Beispiel für die dramatischen geologischen Prozesse, die die Landschaft dieser Hochgebirgsregion geprägt haben.",
+    "hu": "A Shiva-tó, más néven Shewa-tó, egy lenyűgöző tó Badahsán tartományban, Északkelet-Afganisztánban. Körülbelül 3100 méteres magasságban fekszik, és egy hatalmas, őskori földcsuszamlás hozta létre, amely elzárta az Arakht folyót. Ez a természetes gát egy mély, körülbelül 11 kilométer hosszú, ragyogó kék vizű tavat hozott létre. A tavat meredek, sziklás lejtők veszik körül, amelyeket a nyári hónapokban zöld legelők tarkítanak. A régió elszigetelt és nehezen megközelíthető, ami hozzájárult érintetlen szépségének megőrzéséhez. A Shiva-tó fontos víztározó és befolyásolja a helyi mikroklímát. Példája azoknak a drámai geológiai folyamatoknak, amelyek ezt a magashegyi régió tájképét formálták.",
+    "ro": "Lacul Shiva, cunoscut și sub numele de Lacul Shewa, este un lac impresionant situat în provincia Badakhshan din nord-estul Afganistanului. Aflat la o altitudine de aproximativ 3.100 de metri, lacul a fost format de o alunecare de teren preistorică masivă care a blocat râul Arakht. Acest baraj natural a creat un lac adânc, lung de aproximativ 11 kilometri, cu ape de un albastru vibrant. Lacul este înconjurat de versanți abrupți și stâncoși, intercalați cu pășuni verzi în lunile de vară. Regiunea este izolată și greu accesibilă, ceea ce a contribuit la conservarea frumuseții sale neatinse. Lacul Shiva este un rezervor de apă important și influențează microclimatul local, fiind un exemplu al proceselor geologice dramatice care au modelat peisajul acestei regiuni de mare altitudine.",
+    "en": "Shiva Lake, also known as Shewa Lake, is a stunning lake located in the Badakhshan Province of northeastern Afghanistan. Situated at an altitude of about 3,100 meters, the lake was formed by a massive prehistoric landslide that blocked the Arakht River. This natural dam created a deep lake, approximately 11 kilometers long, with vibrant blue waters. The lake is surrounded by steep, rocky slopes interspersed with green pastures during the summer months. The region is remote and difficult to access, which has helped preserve its pristine beauty. Shiva Lake is an important water reservoir and influences the local microclimate, serving as an example of the dramatic geological processes that have shaped the landscape of this high-mountain region."
+    },
+    factsAdvanced: { multi4: ["Location: Badakhshan Province, Afghanistan", "Elevation: Approximately 3,100 m (10,170 ft)", "Type: Landslide-dammed lake", "Formed by a landslide blocking the Arakht River", "Length: Approximately 11 km (6.8 miles)", "Known for its deep, vibrant blue color", "The region is seismically active", "Access to the lake is difficult and often requires trekking"] }},
   {
     id: "afghanistan-kajaki-stausee-nature-v2",
     type: "lake",
     parent: "AF-HEL",
     coords: [65.11, 32.32],
     name: { de: "Kajaki-Stausee", hu: "Kajaki-víztározó", ro: "Lacul de acumulare Kajaki", en: "Kajaki Reservoir" },
-    description: { de: "Der Kajaki-Stausee am Helmand-Fluss ist eines der wichtigsten Wasserreservoirs Afghanistans. Er dient der Bewässerung der südlichen Wüsten und der Stromerzeugung.", hu: "A Kajaki-víztározó a Helmand folyón Afganisztán egyik legfontosabb víztározója. A déli sivatagok öntözését és az áramtermelést szolgálja.", ro: "Lacul de acumulare Kajaki de pe râul Helmand este unul dintre cele mai importante rezervoare de apă din Afganistan. Acesta servește la irigarea deșerturilor din sud și la generarea de energie.", en: "The Kajaki Reservoir on the Helmand River is one of Afghanistan's most important water reservoirs. It serves to irrigate the southern deserts and generate electricity." },
+    description: { de: "Der Kajaki-Stausee am Helmand-Fluss ist eines der wichtigsten Wasserreservoirs Afghanistans. Er dient der Bewässerung der südlichen Wüsten und der Stromerzeugung.", hu: "A Helmand folyón kialakított hatalmas víztározó, amely kulcsfontosságú az ország déli részének öntözésében és áramellátásában.", ro: "Lacul de acumulare Kajaki de pe râul Helmand este unul dintre cele mai importante rezervoare de apă din Afganistan. Acesta servește la irigarea deșerturilor din sud și la generarea de energie.", en: "The Kajaki Reservoir on the Helmand River is one of Afghanistan's most important water reservoirs. It serves to irrigate the southern deserts and generate electricity." },
     facts: {
       de: ["Am Helmand-Fluss", "Wichtiges Kraftwerk", "Bewässert Helmand-Provinz", "Bau in den 1950er Jahren"],
-      hu: ["A Helmand folyón", "Fontos erőmű", "Helmand tartományt öntözi", "Az 1950-es években épült"],
+      hu: ["A Helmand folyón épült", "Fontos vízerőmű működik itt", "Dél-Afganisztán öntözőbázisa", "Az 1950-es években létesült"],
       ro: ["Pe râul Helmand", "Centrală electrică importantă", "Irigă provincia Helmand", "Construit în anii 1950"],
       en: ["On the Helmand River", "Important power plant", "Irrigates Helmand Province", "Built in the 1950s"]
     }
-  },
+  ,
+    descriptionAdvanced: {
+    
+    "de": "Der Kajaki-Staudamm und der dazugehörige Stausee sind ein zentrales Infrastrukturprojekt am Helmand-Fluss in der Provinz Helmand im Süden Afghanistans. Der Damm wurde ursprünglich in den 1950er Jahren mit Unterstützung der USA gebaut, um die Bewässerung zu regulieren und Strom zu erzeugen. Der Stausee ist einer der größten Wasserspeicher des Landes und von entscheidender Bedeutung für die Landwirtschaft in der Helmand-Flussaue, einer der fruchtbarsten Regionen Afghanistans. Er versorgt Tausende von Hektar Land mit Wasser und ermöglicht den Anbau von Weizen, Baumwolle und Obst. Der Damm beherbergt auch ein Wasserkraftwerk, das eine wichtige Stromquelle für die Provinzen Helmand und Kandahar darstellt. Das Projekt war im Laufe der Jahrzehnte immer wieder Ziel von Konflikten, was seine strategische Bedeutung unterstreicht.",
+    "hu": "A Kajaki-gát és a hozzá tartozó víztározó egy központi infrastrukturális projekt a Helmand folyón, Helmand tartományban, Dél-Afganisztánban. A gátat eredetileg az 1950-es években építették az Egyesült Államok támogatásával az öntözés szabályozására és villamosenergia-termelésre. A víztározó az ország egyik legnagyobb víztárolója, és létfontosságú a Helmand folyó árterületén folytatott mezőgazdaság számára, amely Afganisztán egyik legtermékenyebb régiója. Több ezer hektár földet lát el vízzel, lehetővé téve a búza, gyapot és gyümölcsök termesztését. A gát egy vízerőműnek is otthont ad, amely fontos áramforrás Helmand és Kandahár tartományok számára. A projekt az évtizedek során többször is konfliktusok célpontjává vált, ami hangsúlyozza stratégiai jelentőségét.",
+    "ro": "Barajul Kajaki și rezervorul său sunt un proiect de infrastructură central pe râul Helmand, în provincia Helmand din sudul Afganistanului. Construit inițial în anii 1950 cu sprijin american, barajul a fost proiectat pentru a regla irigațiile și a genera energie hidroelectrică. Rezervorul este unul dintre cele mai mari corpuri de apă stocată din țară și este de o importanță critică pentru agricultura din valea râului Helmand, una dintre cele mai fertile regiuni ale Afganistanului. Acesta furnizează apă pentru mii de hectare de teren, permițând cultivarea grâului, bumbacului și fructelor. Barajul găzduiește și o centrală hidroelectrică, o sursă vitală de electricitate pentru provinciile Helmand și Kandahar. Proiectul a fost o țintă a conflictelor de-a lungul decadelor, subliniind importanța sa strategică.",
+    "en": "The Kajaki Dam and its reservoir are a central piece of infrastructure on the Helmand River in Helmand Province, southern Afghanistan. Originally constructed in the 1950s with American support, the dam was designed to regulate irrigation and generate hydroelectric power. The reservoir is one of the largest bodies of stored water in the country and is critically important for agriculture in the Helmand river valley, one of Afghanistan's most fertile regions. It provides water to thousands of hectares of land, enabling the cultivation of wheat, cotton, and fruits. The dam also houses a hydroelectric power station, a vital source of electricity for Helmand and Kandahar provinces. The project has been a target of conflict over the decades, highlighting its strategic importance."
+    },
+    factsAdvanced: { multi4: ["Location: Kajaki District, Helmand Province", "Built on the Helmand River", "Original construction completed in 1953", "Provides electricity and irrigation water for southern Afghanistan", "Reservoir capacity: 1.715 billion cubic meters", "A key strategic asset during conflicts", "Major expansion projects have been undertaken since the 2000s", "Crucial for the agricultural economy of the region"] }},
   {
     id: "afghanistan-spin-ghar-nature-v2",
     type: "mountain",
@@ -266,7 +305,15 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf: Muntele Sikaram", "Înseamnă Munții Albi", "Aproape de Pasul Khyber", "Regiune disputată istoric"],
       en: ["Highest peak: Mount Sikaram", "Means White Mountains", "Near the Khyber Pass", "Historically contested region"]
     }
-  },
+  ,
+    descriptionAdvanced: {
+    
+    "de": "Die Spīn Ghar-Bergkette, was auf Paschtu „Weißer Berg“ bedeutet, erstreckt sich entlang der Grenze zwischen Afghanistan und Pakistan. Ihr höchster Gipfel, der Mount Sikaram, erreicht eine Höhe von 4.761 Metern. Die Berge sind für ihre ausgedehnten Wälder aus Kiefern und Himalaya-Zedern bekannt, die einen starken Kontrast zu den trockeneren Regionen im Süden bilden. Diese Wälder sind ein wichtiger Lebensraum für eine Vielzahl von Wildtieren. Die Bergkette ist auch von großer historischer und strategischer Bedeutung, da sie den berühmten Khyber-Pass im Norden überblickt, der seit Jahrtausenden eine wichtige Invasions- und Handelsroute zwischen Zentral- und Südasien darstellt. Die Region war Schauplatz zahlreicher Militäroperationen und Stammeskonflikte. Die schneebedeckten Gipfel, die den Bergen ihren Namen geben, sind ein markantes Merkmal der Landschaft an der Durand-Linie.",
+    "hu": "A Spin Ghar-hegylánc, amely pastu nyelven „Fehér Hegyeket” jelent, az Afganisztán és Pakisztán közötti határ mentén húzódik. Legmagasabb csúcsa, a Mount Sikaram, eléri a 4761 métert. A hegyek kiterjedt fenyő- és himalájai cédruserdeikről ismertek, amelyek éles ellentétben állnak a délebbre fekvő szárazabb régiókkal. Ezek az erdők fontos élőhelyet biztosítanak számos vadon élő állatfaj számára. A hegylánc történelmi és stratégiai jelentősége is nagy, mivel északról a híres Haibár-hágóra néz, amely évezredek óta fontos inváziós és kereskedelmi útvonal Közép- és Dél-Ázsia között. A régió számos katonai művelet és törzsi konfliktus helyszíne volt. A hegyeknek nevet adó, hóval borított csúcsok a Durand-vonal menti táj jellegzetes elemei.",
+    "ro": "Lanțul muntos Spīn Ghar, care înseamnă „Muntele Alb” în paștună, se întinde de-a lungul graniței dintre Afganistan și Pakistan. Cel mai înalt vârf al său, Muntele Sikaram, atinge o altitudine de 4.761 de metri. Munții sunt cunoscuți pentru pădurile lor extinse de pin și cedru de Himalaya, care contrastează puternic cu regiunile mai aride din sud. Aceste păduri sunt un habitat important pentru o varietate de animale sălbatice. Lanțul muntos are, de asemenea, o mare importanță istorică și strategică, deoarece domină faimosul Pas Khyber la nord, care a fost o rută cheie de invazie și comerț între Asia Centrală și de Sud timp de milenii. Regiunea a fost scena a numeroase operațiuni militare și conflicte tribale. Vârfurile acoperite de zăpadă, care dau numele munților, sunt o caracteristică proeminentă a peisajului de-a lungul Liniei Durand.",
+    "en": "The Spīn Ghar mountain range, meaning 'White Mountain' in Pashto, stretches along the border between Afghanistan and Pakistan. Its highest peak, Mount Sikaram, reaches an altitude of 4,761 meters. The mountains are known for their extensive forests of pine and deodar cedar, which stand in sharp contrast to the more arid regions to the south. These forests are an important habitat for a variety of wildlife. The range is also of great historical and strategic importance as it overlooks the famous Khyber Pass to the north, which has been a key invasion and trade route between Central and South Asia for millennia. The region has been the site of numerous military operations and tribal conflicts. The snow-clad peaks that give the mountains their name are a prominent feature of the landscape along the Durand Line."
+    },
+    factsAdvanced: { multi4: ["Pashto name meaning 'White Mountains'", "Forms a natural border between Afghanistan and Pakistan", "Highest peak: Mount Sikaram at 4,761 m (15,620 ft)", "Overlooks the historic Khyber Pass", "Features extensive pine and deodar cedar forests", "The Tora Bora cave complex is located within this range", "Part of the larger Hindu Kush mountain system", "Historically a contested and strategic region"] }},
   {
     id: "afghanistan-koh-e-baba-nature-v2",
     type: "mountain",
@@ -280,5 +327,13 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["Centrul Afganistanului", "Alimentare importantă a râurilor", "Mediu alpin aspru", "Parte a sistemului Hindu Kush"],
       en: ["Center of Afghanistan", "Important river supply", "Rugged alpine environment", "Part of the Hindu Kush system"]
     }
-  }
+  ,
+    descriptionAdvanced: {
+    
+    "de": "Das Koh-e-Baba-Gebirge ist die westliche Verlängerung des Hindukusch und liegt im Herzen Afghanistans, hauptsächlich in der Provinz Bamiyan. Sein höchster Gipfel ist der Schah Foladi. Das Gebirge ist von entscheidender hydrologischer Bedeutung für das Land, da hier mehrere der wichtigsten Flüsse Afghanistans entspringen, darunter der Helmand, der Hari Rud und der Kabul-Fluss. Diese Flüsse versorgen weite Teile des Landes mit Wasser für Landwirtschaft und Trinkwasser. Die Landschaft ist rau und karg, mit hohen Gipfeln und tiefen Tälern. Die Region ist die Heimat des Hazara-Volkes. Das Koh-e-Baba-Gebirge ist auch Teil des Einzugsgebiets des Band-e-Amir-Nationalparks, der für seine Seen bekannt ist. Die Erhaltung des Ökosystems dieses Gebirges ist für die Wassersicherheit Afghanistans von größter Bedeutung.",
+    "hu": "A Koh-e Baba-hegység a Hindukus nyugati kiterjesztése, és Afganisztán szívében, főként Bámiján tartományban található. Legmagasabb csúcsa a Shah Foladi. A hegység létfontosságú hidrológiai jelentőséggel bír az ország számára, mivel itt ered Afganisztán több fontos folyója, köztük a Helmand, a Hari Rud és a Kabul folyó. Ezek a folyók az ország nagy részét ellátják vízzel a mezőgazdaság és az ivóvízellátás számára. A táj zord és kopár, magas csúcsokkal és mély völgyekkel. A régió a hazara nép otthona. A Koh-e Baba-hegység a Band-e-Amir Nemzeti Park vízgyűjtő területének is része, amely tavairól ismert. Ennek a hegységnek az ökoszisztémájának megőrzése rendkívül fontos Afganisztán vízbiztonsága szempontjából.",
+    "ro": "Munții Koh-e Baba reprezintă extensia vestică a Hindu Kush și sunt situați în inima Afganistanului, în principal în provincia Bamiyan. Cel mai înalt vârf al său este Shah Foladi. Lanțul muntos are o importanță hidrologică crucială pentru țară, fiind locul de unde izvorăsc mai multe dintre cele mai importante râuri ale Afganistanului, inclusiv râurile Helmand, Hari Rud și Kabul. Aceste râuri furnizează apă pentru agricultură și consum în mari părți ale țării. Peisajul este aspru și arid, cu vârfuri înalte și văi adânci. Regiunea este locuită de poporul Hazara. Munții Koh-e Baba fac, de asemenea, parte din bazinul hidrografic al Parcului Național Band-e-Amir, renumit pentru lacurile sale. Conservarea ecosistemului acestui lanț muntos este de o importanță capitală pentru securitatea apei din Afganistan.",
+    "en": "The Koh-e Baba mountain range is the western extension of the Hindu Kush, located in the heart of Afghanistan, primarily in Bamiyan province. Its highest peak is Shah Foladi. The range is of critical hydrological importance to the country, as it is the source of several of Afghanistan's major rivers, including the Helmand, Hari Rud, and Kabul rivers. These rivers provide water for agriculture and drinking to large parts of the nation. The landscape is rugged and stark, with high peaks and deep valleys. The region is the homeland of the Hazara people. The Koh-e Baba range also forms part of the watershed for the Band-e-Amir National Park, famous for its lakes. Conservation of this range's ecosystem is of utmost importance for Afghanistan's water security."
+    },
+    factsAdvanced: { multi4: ["Western extension of the Hindu Kush range", "Located in central Afghanistan, primarily Bamiyan Province", "Highest peak: Shah Foladi (5,143 m)", "Source of Afghanistan's major rivers: Helmand, Hari Rud, Kabul", "Considered the 'water tower' of Afghanistan", "Homeland of the Hazara ethnic group", "Characterized by a semi-arid, alpine climate", "Name translates to 'Grandfather Mountains'"] }}
 ];

@@ -15,7 +15,20 @@ export const montenegroOtherExtra = ([
       hu: ["A tó mérete a vízállástól függően 370 és 530 négyzerkilométer között változik.", "Több mint 280 madárfaj és 50 halfaj otthona a tó területe.", "A montenegrói rész 1983 óta nemzeti parki védelem alatt áll.", "Számos apró szigeten ősi szerb ortodox kolostorok találhatók."], 
       ro: ["Suprafața lacului variază între 370 și 530 km².", "Este una dintre cele mai mari rezervații de păsări din Europa.", "Peste 280 de specii de păsări trăiesc în zona lacului.", "Pe insulele din lac se află numeroase mănăstiri antice.", "Apa lacului este bogată în resurse piscicole (de exemplu, crap).", "Partea de sud a lacului este un parc național muntenegrean."], 
       en: ["The lake surface area fluctuates between 370 and 530 square kilometers.", "It is recognized as one of Europe's largest bird reserves.", "Over 280 distinct bird species reside within the lake's ecosystem.", "Multiple ancient monasteries are situated on various lake islands.", "The lake contains highly productive fish stocks, such as carp.", "The southern section is officially designated as a Montenegrin national park."] 
-    }, image: "/poi-images/me-skadar-lake.webp"},
+    }, image: "/poi-images/me-skadar-lake.webp",
+    description: {
+      de: "Der Skutarisee ist der größte See der Balkanhalbinsel, berühmt für seine reiche Vogelwelt und landschaftliche Schönheit. Er liegt an der Grenze zwischen Montenegro und Albanien.",
+      hu: "A Szkadar-tó a Balkán-félsziget legnagyobb tava, amely gazdag madárvilágáról és festői szépségéről híres. Montenegró és Albánia határán fekszik.",
+      ro: "Lacul Skadar este cel mai mare lac din Peninsula Balcanică, faimos pentru avifauna sa bogată și frumusețea pitorească. Acesta se află la granița dintre Muntenegru și Albania.",
+      en: "Skadar Lake is the largest lake on the Balkan Peninsula, famous for its rich birdlife and scenic beauty. It straddles the border of Montenegro and Albania."
+    },
+    facts: {
+      de: ["Er beheimatet den seltenen Krauskopfpelikan.", "Der See hat die Form eines Delfins.", "Ein großer Teil der montenegrinischen Seite ist ein Nationalpark."],
+      hu: ["Itt él a ritka borzas gödény.", "A tó delfin alakú.", "A montenegrói oldal nagy része nemzeti park."],
+      ro: ["Găzduiește pelicanul creț, o specie rară.", "Lacul are forma unui delfin.", "O mare parte din partea muntenegreană este parc național."],
+      en: ["It is home to the rare Dalmatian pelican.", "The lake is shaped like a dolphin.", "A large part of the Montenegrin side is a national park."]
+    }
+  },
   {
     id: "me-durmitor",
     descriptionAdvanced: { 
@@ -29,7 +42,20 @@ export const montenegroOtherExtra = ([
       hu: ["A hegységben 48 olyan csúcs található, amely meghaladja a 2000 méteres magasságot.", "A legmagasabb pontja a Bobotov Kuk, amely 2523 méter magas.", "A park 18 gleccsertavát a helyiek hegyi szemeknek hívják.", "A Durmitor Nemzeti Park területén ritka barna medvék és farkasok is élnek."], 
       ro: ["Durmitor include 22 de vârfuri montane de peste 2000 de metri.", "Suprafața parcului național este de 390 km².", "Aici se află vârful Bobotov Kuk, de 2522 de metri.", "Parcul include 18 lacuri glaciare (ochiuri de munte).", "Canionul Tara este unul dintre cele mai adânci din lume.", "Zona este bogată în floră și faună specială."], 
       en: ["Durmitor features 22 distinct mountain peaks above 2,000 meters.", "The total national park area spans 390 square kilometers.", "The Bobotov Kuk peak rises to an impressive 2,522 meters.", "The park contains 18 glacial lakes known as 'mountain eyes'.", "The Tara Canyon ranks as one of the deepest river canyons in the world.", "The park sustains a high diversity of endemic mountain flora and fauna."] 
-    }, image: "/poi-images/me-durmitor.webp"},
+    }, image: "/poi-images/me-durmitor.webp",
+    description: {
+      de: "Durmitor ist ein beeindruckendes Bergmassiv und Nationalpark im Nordwesten Montenegros, bekannt für seine dramatischen Gipfel und Gletscherseen. Es bietet atemberaubende Landschaften zum Wandern und für Wintersport.",
+      hu: "A Durmitor egy lenyűgöző hegytömb és nemzeti park Montenegró északnyugati részén, amely drámai csúcsairól és gleccsertavairól ismert. Lélegzetelállító tájakat kínál túrázáshoz és téli sportokhoz.",
+      ro: "Durmitor este un masiv muntos uimitor și un parc național din nord-vestul Muntenegrului, cunoscut pentru vârfurile sale dramatice și lacurile glaciare. Oferă peisaje uluitoare pentru drumeții și sporturi de iarnă.",
+      en: "Durmitor is a stunning mountain massif and national park in northwestern Montenegro, known for its dramatic peaks and glacial lakes. It offers breathtaking landscapes for hiking and winter sports."
+    },
+    facts: {
+      de: ["Bobotov Kuk ist mit 2.523 Metern der höchste Gipfel.", "Es verfügt über 18 Gletscherseen, die als \"Bergaugen\" bekannt sind.", "Der Park ist ein UNESCO-Weltnaturerbe."],
+      hu: ["Legmagasabb csúcsa a Bobotov Kuk, 2523 méter magas.", "18 gleccsertóval rendelkezik, amelyeket \"Hegyi szemeknek\" hívnak.", "A park az UNESCO Világörökség része."],
+      ro: ["Bobotov Kuk este cel mai înalt vârf al său, la 2.523 de metri.", "Are 18 lacuri glaciare cunoscute sub numele de \"Ochii muntelui\".", "Parcul este un sit al Patrimoniului Mondial UNESCO."],
+      en: ["Bobotov Kuk is its highest peak at 2,523 meters.", "It features 18 glacial lakes known as \"Mountain Eyes\".", "The park is a UNESCO World Heritage site."]
+    }
+  },
   {
     id: "me-tara-canyon",
     descriptionAdvanced: { 
@@ -43,7 +69,20 @@ export const montenegroOtherExtra = ([
       hu: ["A szurdok maximális mélysége eléri az 1300 métert a környező hegyekhez képest.", "A kanyon hossza mintegy 82 kilométeren keresztül kanyarog a hegyek között.", "A Tara-folyó vize olyan tiszta, hogy számos szakaszon emberi fogyasztásra is alkalmas.", "A vadvízi evezés (rafting) során a sportolók számos zúgón kelnek át."], 
       ro: ["Adâncimea canionului atinge 1300 de metri.", "Canionul are o lungime de 82 km.", "Râul Tara este supranumit 'Lacrima Europei'.", "Canionul face parte din Parcul Național Durmitor.", "Raftingul este cea mai populară activitate de aici.", "Apa din canion este de o puritate potabilă."], 
       en: ["The canyon reaches a maximum depth of 1,300 meters.", "The gorge extends for a total length of 82 kilometers.", "The Tara River is poetically referred to as the 'Tear of Europe'.", "The canyon is a core component of Durmitor National Park.", "White-water rafting is the region's primary adventure activity.", "The water within the river is of exceptional, drinkable purity."] 
-    }, image: "/poi-images/me-tara-canyon.webp"},
+    }, image: "/poi-images/me-tara-canyon.webp",
+    description: {
+      de: "Die Tara-Schlucht ist einer der tiefsten und spektakulärsten Flusscanyons Europas, der in die raue montenegrinische Landschaft geschnitten wurde. Sie ist bekannt für ihr aufregendes Wildwasser-Rafting und unberührte Natur.",
+      hu: "A Tara-kanyon Európa egyik legmélyebb és leglátványosabb folyókanyonja, amely a zord montenegrói tájba vájta magát. Híres az izgalmas vadvízi evezésről és az érintetlen természetről.",
+      ro: "Canionul râului Tara este unul dintre cele mai profunde și mai spectaculoase canioane fluviale din Europa, sculptat în peisajul accidentat al Muntenegrului. Este renumit pentru raftingul palpitant pe ape repezi și natura curată.",
+      en: "Tara River Canyon is one of the deepest and most spectacular river canyons in Europe, carved into the rugged Montenegrin landscape. It is renowned for its thrilling whitewater rafting and pristine nature."
+    },
+    facts: {
+      de: ["An ihrer tiefsten Stelle ist die Schlucht 1.300 Meter tief.", "Der Tara-Fluss ist wegen seines klaren Wassers als \"Träne Europas\" bekannt.", "Die Đurđevića-Tara-Brücke bietet spektakuläre Ausblicke über die Schlucht."],
+      hu: ["Legmélyebb pontján a kanyon 1300 méter mély.", "A Tara folyót tiszta vize miatt \"Európa könnyének\" is nevezik.", "A Đurđevića Tara híd lenyűgöző kilátást nyújt a kanyonra."],
+      ro: ["În cel mai adânc punct al său, canionul are o adâncime de 1.300 de metri.", "Râul Tara este cunoscut sub numele de \"Lacrima Europei\" datorită apei sale limpezi.", "Podul Đurđevića Tara oferă vederi spectaculoase asupra canionului."],
+      en: ["At its deepest point, the canyon is 1,300 meters deep.", "The Tara River is known as the \"Tear of Europe\" due to its clear water.", "The Đurđevića Tara Bridge offers spectacular views over the canyon."]
+    }
+  },
   {
     id: "me-lovcen",
     descriptionAdvanced: { 
@@ -57,6 +96,18 @@ export const montenegroOtherExtra = ([
       hu: ["A hegyvidék legmagasabb pontja, a Štirovnik-csúcs 1749 méter magas.", "A Kotortól a Lovćenbe vezető hegyi szerpentin 25 hajtűkanyarból áll.", "A park területén több mint 1300 regisztrált növényfaj él.", "A karsztos talajon hagyományos, kőből épült nyári pásztorszállások (katunok) találhatók."], 
       ro: ["Lovćen este format din două vârfuri: Štirovnik și Jezerski Vrh.", "Suprafața parcului național este de 62 km².", "Pe teritoriu se găsesc peste 1100 de specii de plante.", "Pe muntele Lovćen se află mausoleul lui Njegoš.", "Amplasarea muntelui permite vizualizarea simultană a mării și a uscatului.", "În parc se află unul dintre cele mai frumoase drumuri panoramice din Muntenegru."], 
       en: ["Lovćen features two main peaks: Štirovnik and Jezerski Vrh.", "The total national park covers 62 square kilometers.", "Over 1,100 plant species have been documented within the park boundaries.", "The mausoleum of Njegoš is the park's primary historic site.", "The peak provides simultaneous views of both the sea and the mainland.", "The park includes one of the most scenic panoramic roads in Montenegro."] 
+    },
+    description: {
+      de: "Der Berg Lovćen ist ein markanter Berg und Nationalpark im Südwesten Montenegros, der die montenegrinische Identität und Widerstandsfähigkeit symbolisiert. Auf seinem Gipfel ruht das prächtige Mausoleum von Petar II. Petrović-Njegoš.",
+      hu: "A Lovćen-hegy egy kiemelkedő hegy és nemzeti park Montenegró délnyugati részén, amely a montenegrói identitást és ellenállóképességet szimbolizálja. Csúcsán nyugszik II. Petar Petrović-Njegoš fenséges mauzóleuma.",
+      ro: "Muntele Lovćen este un munte proeminent și un parc național din sud-vestul Muntenegrului, simbolizând identitatea și rezistența muntenegreană. În vârful său se află magnificul mausoleu al lui Petar al II-lea Petrović-Njegoš.",
+      en: "Mount Lovćen is a prominent mountain and national park in southwestern Montenegro, symbolising Montenegrin identity and resilience. At its peak rests the magnificent mausoleum of Petar II Petrović-Njegoš."
+    },
+    facts: {
+      de: ["Er bietet Panoramablicke, die bis über die Adria reichen.", "Das Njegoš-Mausoleum wird über 461 Stufen erreicht.", "Der Name des Berges ist eng mit der Geschichte des montenegrinischen Staates verbunden."],
+      hu: ["Panorámás kilátást nyújt, amely egészen az Adriai-tengerig nyúlik.", "A Njegoš-mauzóleum 461 lépcsőfok megmászásával érhető el.", "A hegy neve szorosan kapcsolódik a montenegrói állam történetéhez."],
+      ro: ["Oferă vederi panoramice care se extind peste Marea Adriatică.", "Mausoleul lui Njegoš este accesat urcând 461 de trepte.", "Numele muntelui este strâns legat de istoria statului muntenegrean."],
+      en: ["It offers panoramic views extending across the Adriatic Sea.", "The Mausoleum of Njegoš is reached by climbing 461 steps.", "The mountain's name is closely linked to the history of the Montenegrin state."]
     }
   },
   {
@@ -72,6 +123,18 @@ export const montenegroOtherExtra = ([
       hu: ["A területet már 1878-ban védetté nyilvánította Nikola király ('Királyi Erdő' néven).", "A parkban 86 különböző őshonos fafaj és több mint 200 madárfaj él.", "A Biograd-tó 1094 méteres tengerszint feletti magasságban, glaciális medencében fekszik.", "Az erdő olyan sűrű, hogy egyes részein a napfény alig jut el a talajig."], 
       ro: ["Parcul național a fost fondat în 1952.", "Suprafața teritoriului este de 54 km².", "În mijlocul parcului se află lacul Biograd.", "În pădurea virgină există arbori cu o vechime de peste 500 de ani.", "Parcul este bogat în faună sălbatică (urși, lupi, căprioare).", "Zona face parte din masivul muntos Bjelasica."], 
       en: ["The national park was officially established in 1952.", "The protected area spans 54 square kilometers.", "Biograd Lake serves as the central geographic feature of the park.", "Ancient trees aged over 500 years stand within the protected forest.", "The park supports a rich variety of wildlife, including bears and deer.", "The region is an integral part of the Bjelasica mountain range."] 
+    },
+    description: {
+      de: "Biogradska Gora ist ein Nationalpark in Montenegro, der einen der drei letzten großen Urwälder Europas beherbergt. Das Herz des Parks ist der ruhige Biogradsko-See, der von uralten Bäumen umgeben ist.",
+      hu: "A Biogradska Gora egy nemzeti park Montenegróban, amely Európa három utolsó nagy őserdejének egyikével büszkélkedhet. A park szíve a békés Biogradsko-tó, amelyet ősi fák vesznek körül.",
+      ro: "Biogradska Gora este un parc național din Muntenegru care prezintă una dintre ultimele trei mari păduri virgine din Europa. Inima parcului este lacul liniștit Biogradsko, înconjurat de copaci străvechi.",
+      en: "Biogradska Gora is a national park in Montenegro featuring one of the last three large virgin forests in Europe. The heart of the park is the serene Biogradsko Lake surrounded by ancient trees."
+    },
+    facts: {
+      de: ["Einige Bäume im Urwald sind über 400 Jahre alt.", "Der Biogradsko-See ist der größte der Gletscherseen des Parks.", "Er wurde 1878 von König Nikola geschützt und ist damit eines der ältesten Schutzgebiete der Welt."],
+      hu: ["Az őserdő néhány fája több mint 400 éves.", "A Biogradsko-tó a park legnagyobb gleccsertava.", "Nikola király 1878-ban védetté nyilvánította, így a világ egyik legrégebbi védett területe."],
+      ro: ["Unii copaci din pădurea primordială au peste 400 de ani.", "Lacul Biogradsko este cel mai mare dintre lacurile glaciare ale parcului.", "A fost protejat de regele Nikola în 1878, devenind una dintre cele mai vechi arii protejate din lume."],
+      en: ["Some trees in the primeval forest are over 400 years old.", "Biogradsko Lake is the largest of the park's glacial lakes.", "It was protected by King Nikola in 1878, making it one of the oldest protected areas in the world."]
     }
   }
 ] as unknown as POI[]);

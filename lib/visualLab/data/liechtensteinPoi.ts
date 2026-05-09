@@ -34,49 +34,152 @@ export const liechtensteinRegions: POI[] = [
       ro: "Liechtenstein",
       en: "Liechtenstein"
     },
+    description: {
+      de: "Liechtenstein ist ein souveräner Zwergstaat in den Alpen zwischen Österreich und der Schweiz.",
+      hu: "Liechtenstein egy szuverén törpeállam az Alpokban, Ausztria és Svájc között.",
+      ro: "Liechtenstein este un microstat suveran situat în Alpi, între Austria și Elveția.",
+      en: "Liechtenstein is a sovereign state and microstate located in the Alps between Austria and Switzerland."
+    },
+    facts: {
+      de: ["Es ist die sechstkleinste Nation der Welt.", "Deutsch ist die Amtssprache.", "Es ist bekannt für seine wunderschönen alpinen Landschaften und mittelalterlichen Burgen."],
+      hu: ["A világ hatodik legkisebb országa.", "A hivatalos nyelv a német.", "Gyönyörű alpesi tájairól és középkori várairól ismert."],
+      ro: ["Este a șasea cea mai mică națiune din lume.", "Germana este limba oficială.", "Este cunoscut pentru peisajele sale alpine frumoase și castelele medievale."],
+      en: ["It is the 6th smallest nation in the world.", "German is the official language.", "It is known for its beautiful alpine landscapes and medieval castles."]
+    }
   },
   {
     id: "LI-001",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5333, 47.1000],
-    name: { de: "Triesen", hu: "Triesen", ro: "Triesen", en: "Triesen" }, image: "/poi-images/LI-001.webp"},
+    name: { de: "Triesen", hu: "Triesen", ro: "Triesen", en: "Triesen" }, image: "/poi-images/LI-001.webp",
+    description: {
+      de: "Triesen ist die drittgrößte Gemeinde Liechtensteins und bietet historische Kirchen und malerische Bergaussichten.",
+      hu: "Triesen Liechtenstein harmadik legnagyobb önkormányzata, történelmi templomokkal és festői hegyi kilátással.",
+      ro: "Triesen este a treia cea mai mare municipalitate din Liechtenstein, având biserici istorice și vederi pitorești la munte.",
+      en: "Triesen is the third largest municipality in Liechtenstein, featuring historic churches and scenic mountain views."
+    },
+    facts: {
+      de: ["Liegt im Süden des Landes.", "Beherbergt eine bemerkenswerte Weberei aus dem 19. Jahrhundert.", "Bietet hervorragende Wanderwege in die Alpen."],
+      hu: ["Az ország déli részén található.", "Itt található egy figyelemre méltó 19. századi szövőmalom.", "Kiváló túraútvonalakat kínál az Alpok felé."],
+      ro: ["Situat în sudul țării.", "Găzduiește o moară de țesut notabilă din secolul al XIX-lea.", "Oferă trasee excelente de drumeții spre Alpi."],
+      en: ["Located in the south of the country.", "It is home to a notable weaving mill from the 19th century.", "Offers excellent hiking trails towards the Alps."]
+    }
+  },
   {
     id: "LI-002",
     type: "region",
     parent: "LI-ALL",
     coords: [9.4833, 47.1666],
-    name: { de: "Schaan", hu: "Schaan", ro: "Schaan", en: "Schaan" }, image: "/poi-images/LI-002.webp"},
+    name: { de: "Schaan", hu: "Schaan", ro: "Schaan", en: "Schaan" }, image: "/poi-images/LI-002.webp",
+    description: {
+      de: "Schaan ist die bevölkerungsreichste Gemeinde Liechtensteins und ein wichtiges industrielles und wirtschaftliches Zentrum.",
+      hu: "Schaan Liechtenstein legnépesebb önkormányzata, amely fontos ipari és gazdasági központként működik.",
+      ro: "Schaan este cea mai populată municipalitate din Liechtenstein, acționând ca un important centru industrial și economic.",
+      en: "Schaan is the largest municipality of Liechtenstein by population, acting as an important industrial and economic hub."
+    },
+    facts: {
+      de: ["Liegt zentral im Land, nördlich von Vaduz.", "Heimat großer internationaler Unternehmen.", "Weist archäologische Stätten aus der Römerzeit auf."],
+      hu: ["Központilag helyezkedik el az országban, Vaduztól északra.", "Nagy nemzetközi vállalatok otthona.", "A római korból származó régészeti lelőhelyekkel is rendelkezik."],
+      ro: ["Este situat central în țară, la nord de Vaduz.", "Găzduiește mari companii internaționale.", "Are situri arheologice din epoca romană."],
+      en: ["It is located centrally in the country, just north of Vaduz.", "Home to major international companies.", "Features archaeological sites from the Roman era."]
+    }
+  },
   {
     id: "LI-003",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5333, 47.1166],
-    name: { de: "Triesenberg", hu: "Triesenberg", ro: "Triesenberg", en: "Triesenberg" }, image: "/poi-images/LI-003.webp"},
+    name: { de: "Triesenberg", hu: "Triesenberg", ro: "Triesenberg", en: "Triesenberg" }, image: "/poi-images/LI-003.webp",
+    description: {
+      de: "Triesenberg ist die höchstgelegene Gemeinde in Liechtenstein, bekannt für ihre ausgeprägte Walserkultur und Panoramablicke.",
+      hu: "Triesenberg Liechtenstein legmagasabban fekvő önkormányzata, amely különleges walser kultúrájáról és panorámás kilátásairól ismert.",
+      ro: "Triesenberg este cea mai înaltă municipalitate din Liechtenstein, cunoscută pentru cultura sa distinctă Walser și vederile panoramice.",
+      en: "Triesenberg is the highest municipality in Liechtenstein, known for its distinct Walser culture and panoramic views."
+    },
+    facts: {
+      de: ["Im 14. Jahrhundert von Walser Einwanderern besiedelt.", "Liegt auf einer Höhe von über 800 Metern.", "Der lokale Dialekt unterscheidet sich stark vom Rest des Landes."],
+      hu: ["A 14. században walser bevándorlók telepítették be.", "Több mint 800 méteres tengerszint feletti magasságban fekszik.", "A helyi dialektus jelentősen eltér az ország többi részétől."],
+      ro: ["Așezată de migranții Walser în secolul al XIV-lea.", "Situată la o altitudine de peste 800 de metri.", "Dialectul local diferă semnificativ de restul țării."],
+      en: ["Settled by Walser migrants in the 14th century.", "Located at an altitude of over 800 meters.", "The local dialect differs significantly from the rest of the country."]
+    }
+  },
   {
     id: "LI-004",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5000, 47.0666],
-    name: { de: "Balzers", hu: "Balzers", ro: "Balzers", en: "Balzers" }, image: "/poi-images/LI-004.webp"},
+    name: { de: "Balzers", hu: "Balzers", ro: "Balzers", en: "Balzers" }, image: "/poi-images/LI-004.webp",
+    description: {
+      de: "Balzers ist ein malerisches Dorf im Süden Liechtensteins, berühmt für die markante Burg Gutenberg.",
+      hu: "Balzers egy festői falu Dél-Liechtensteinben, amely híres a kiemelkedő Gutenberg-várról.",
+      ro: "Balzers este un sat pitoresc în sudul Liechtensteinului, faimos pentru remarcabilul Castel Gutenberg.",
+      en: "Balzers is a picturesque village in southern Liechtenstein, famous for the prominent Gutenberg Castle."
+    },
+    facts: {
+      de: ["Die Burg Gutenberg thront stolz auf einem felsigen Hügel im Dorfzentrum.", "Zur Gemeinde gehört auch das Dorf Mäls.", "Hat eine starke landwirtschaftliche Tradition."],
+      hu: ["A Gutenberg-vár büszkén áll egy sziklás dombon a falu központjában.", "Az önkormányzathoz tartozik Mäls falu is.", "Erős mezőgazdasági hagyományokkal rendelkezik."],
+      ro: ["Castelul Gutenberg se înalță mândru pe un deal stâncos în centrul satului.", "Municipalitatea include și satul Mäls.", "Are o puternică tradiție agricolă."],
+      en: ["Gutenberg Castle stands proudly on a rocky hill in the village center.", "The municipality includes the village of Mäls.", "It has a strong agricultural tradition."]
+    }
+  },
   {
     id: "LI-005",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5444, 47.1855],
-    name: { de: "Planken", hu: "Planken", ro: "Planken", en: "Planken" }, image: "/poi-images/LI-005.webp"},
+    name: { de: "Planken", hu: "Planken", ro: "Planken", en: "Planken" }, image: "/poi-images/LI-005.webp",
+    description: {
+      de: "Planken ist die kleinste Gemeinde in Liechtenstein und bietet einen ruhigen Rückzugsort mit herrlichem Blick auf das Rheintal.",
+      hu: "Planken Liechtenstein legkisebb önkormányzata, amely csendes menedéket kínál lenyűgöző kilátással a Rajna-völgyre.",
+      ro: "Planken este cea mai mică municipalitate din Liechtenstein, oferind o retragere liniștită cu vederi uimitoare asupra Văii Rinului.",
+      en: "Planken is the smallest municipality in Liechtenstein, offering a quiet retreat with stunning views of the Rhine Valley."
+    },
+    facts: {
+      de: ["Hat eine Bevölkerung von weniger als 500 Einwohnern.", "Liegt am Westhang des Drei-Schwestern-Massivs.", "Der Name leitet sich von einem lateinischen Wort ab, das 'Lichtung' bedeutet."],
+      hu: ["Lakossága kevesebb mint 500 fő.", "A Drei Schwestern-hegység nyugati lejtőjén található.", "Nevét egy latin szóból kapta, ami 'tisztást' jelent."],
+      ro: ["Are o populație de sub 500 de locuitori.", "Situat pe versantul vestic al masivului Drei Schwestern.", "Numele provine de la un cuvânt latin care înseamnă 'luminiș'."],
+      en: ["It has a population of less than 500 residents.", "Located on the western slope of the Drei Schwestern massif.", "It is named after a Latin word meaning 'clearing'."]
+    }
+  },
   {
     id: "LI-006",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5166, 47.2000],
-    name: { de: "Eschen", hu: "Eschen", ro: "Eschen", en: "Eschen" }, image: "/poi-images/LI-006.webp"},
+    name: { de: "Eschen", hu: "Eschen", ro: "Eschen", en: "Eschen" }, image: "/poi-images/LI-006.webp",
+    description: {
+      de: "Eschen ist der Hauptort des liechtensteinischen Unterlandes und bietet eine Mischung aus moderner Industrie und historischen Stätten.",
+      hu: "Eschen a liechtensteini Unterland fő önkormányzata, a modern ipar és történelmi helyszínek keverékével.",
+      ro: "Eschen este principala municipalitate din Unterlandul Liechtensteinului, cu un amestec de industrie modernă și situri istorice.",
+      en: "Eschen is the principal municipality of the Liechtenstein Unterland, featuring a mix of modern industry and historical sites."
+    },
+    facts: {
+      de: ["Es ist die größte Gemeinde im nördlichen Teil des Landes.", "Das Pfrundhaus ist ein bekanntes historisches Gebäude hier.", "Gilt oft als das wirtschaftliche Zentrum des Unterlandes."],
+      hu: ["Az ország északi részének legnagyobb közössége.", "A Pfrundhaus egy jól ismert történelmi épület itt.", "Gyakran az Unterland gazdasági központjának tekintik."],
+      ro: ["Este cea mai mare comunitate din partea de nord a țării.", "Pfrundhaus este o clădire istorică bine cunoscută aici.", "Considerat adesea centrul economic al Unterlandului."],
+      en: ["It is the largest community in the northern part of the country.", "The Pfrundhaus is a well-known historical building here.", "Often considered the economic center of the Unterland."]
+    }
+  },
   {
     id: "LI-007",
     type: "region",
     parent: "LI-ALL",
     coords: [9.5333, 47.2166],
-    name: { de: "Mauren", hu: "Mauren", ro: "Mauren", en: "Mauren" }, image: "/poi-images/LI-007.webp"},
+    name: { de: "Mauren", hu: "Mauren", ro: "Mauren", en: "Mauren" }, image: "/poi-images/LI-007.webp",
+    description: {
+      de: "Mauren ist eine Gemeinde im Unterland, bekannt für ihre reiche Geschichte und das wunderschöne Vogelparadies Birka.",
+      hu: "Mauren egy önkormányzat az Unterland régióban, gazdag történelméről és a gyönyörű Birka Madárparadicsomról ismert.",
+      ro: "Mauren este o municipalitate în regiunea Unterland, cunoscută pentru istoria sa bogată și frumosul Paradis al Păsărilor Birka.",
+      en: "Mauren is a municipality in the Unterland region, known for its rich history and the beautiful Birka Bird Sanctuary."
+    },
+    facts: {
+      de: ["Erstmals im 12. Jahrhundert urkundlich erwähnt.", "Umfasst auch das Dorf Schaanwald.", "Verfügt über ein Denkmal für Peter Kaiser, einen berühmten lokalen Historiker."],
+      hu: ["Először a 12. században említik oklevelekben.", "Magában foglalja Schaanwald falut.", "Emlékművet állítottak Peter Kaisernek, a híres helyi történésznek."],
+      ro: ["Menționat pentru prima dată în documente în secolul al XII-lea.", "Include și satul Schaanwald.", "Are un memorial dedicat lui Peter Kaiser, un faimos istoric local."],
+      en: ["First mentioned in documents in the 12th century.", "Includes the village of Schaanwald.", "Features a memorial dedicated to Peter Kaiser, a famous local historian."]
+    }
+  },
   {
     id: "LI-008",
     type: "region",

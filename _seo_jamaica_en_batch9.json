@@ -1,0 +1,359 @@
+{
+  "lang": "en",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "blue-mountain-peak-relief-v2",
+      "descriptionAdvanced": "Blue Mountain Peak is the highest point in Jamaica, soaring to an elevation of 2,256 meters (7,402 feet) above sea level. Located within the Blue and John Crow Mountains National Park, a UNESCO World Heritage site, it dominates the island's eastern skyline. The peak is famous for its cool, often mist-shrouded climate, which supports unique montane cloud forests and a vast array of endemic plant and animal species. Hiking to the summit is a popular adventure, typically started in the early morning hours to reach the peak by sunrise. On clear mornings, the view from the top is breathtaking, offering a panoramic vista of the entire island and, occasionally, the distant outline of Cuba. This majestic summit stands as a symbol of Jamaica's natural beauty and is a critical ecological sanctuary for the region, offering a climate that contrasts sharply with the sunny tropical coasts.",
+      "factsAdvanced": [
+        "The peak is the highest point in Jamaica at 2,256 meters (7,402 feet).",
+        "It is a central feature of the Blue and John Crow Mountains National Park.",
+        "The area was designated as a UNESCO World Heritage site in 2015.",
+        "Temperatures at the summit can drop near freezing, a rarity in the tropics.",
+        "It is home to the Giant Swallowtail butterfly, one of the world's largest.",
+        "On exceptionally clear days, the coast of Cuba can be seen 90 miles to the north.",
+        "The mountain is composed of Cretaceous volcanic rocks and metamorphic formations.",
+        "The 11-kilometer trail to the summit passes through rare elfin forests."
+      ]
+    },
+    {
+      "id": "john-crow-mountains-relief-v2",
+      "descriptionAdvanced": "The John Crow Mountains form a rugged and mysterious limestone range in eastern Jamaica, running parallel to the Blue Mountains towards the coast. This area is one of the wildest and most inaccessible parts of the island, characterized by sharp limestone ridges, deep sinkholes, and nearly impenetrable rainforests. Named after the turkey vulture (locally known as 'John Crow') that frequently circles its peaks, the range is part of the UNESCO World Heritage list. Beyond its natural value, the John Crow Mountains hold profound historical significance as the invincible sanctuary of the Windward Maroons, who defended their freedom against colonial forces for centuries. The extreme biodiversity and untouched nature of this range make it a premier destination for biologists and adventurous explorers seeking the last true wilderness in the Caribbean, where the spirit of resistance and natural majesty reside together.",
+      "factsAdvanced": [
+        "The highest point of the John Crow Mountains reaches approximately 1,140 meters.",
+        "It is the wettest region in Jamaica, receiving over 7,000 mm of rain annually.",
+        "The range contains the largest contiguous tract of primary limestone forest in the Caribbean.",
+        "It was a primary stronghold for the Maroon resistance led by Queen Nanny.",
+        "The mountains are home to over 300 endemic plant species.",
+        "The area serves as a vital watershed for major rivers like the Rio Grande.",
+        "It was inscribed as a UNESCO World Heritage site in 2015.",
+        "The rugged karst topography created a natural fortress that colonial troops could not conquer."
+      ]
+    },
+    {
+      "id": "cockpit-country-valley-relief-v2",
+      "descriptionAdvanced": "The valleys of the Cockpit Country represent some of the most unique and enigmatic karst formations in the world, spanning the parishes of Trelawny and St. Elizabeth. This landscape is defined by its characteristic 'cockpits'—deep, bowl-shaped depressions—and steep, conical limestone hills that create an otherworldly, egg-carton appearance from above. Formed over millions of years through the dissolution of limestone by rainwater, the region is a sanctuary for Jamaica’s biodiversity, housing numerous species found nowhere else on Earth. The dense forests and difficult terrain historically provided a secure refuge for the Leeward Maroons. Today, the Cockpit Country is a critical ecological asset, filtering and storing about 40% of Jamaica's freshwater reserves. It remains a strictly protected area, vital for the island's environmental health, historical legacy, and the preservation of its ancient, untouched tropical ecosystems.",
+      "factsAdvanced": [
+        "The Cockpit Country covers an area of approximately 500 square kilometers.",
+        "It is the world's type-site for 'cockpit karst' topography.",
+        "The region provides about 40% of Jamaica's domestic freshwater needs.",
+        "It is home to over 90% of Jamaica's endemic amphibian species.",
+        "The first peace treaty between the Maroons and the British was signed here in 1739.",
+        "The landscape contains hundreds of largely unexplored cave systems.",
+        "No paved roads fully cross the central core of the Cockpit Country.",
+        "The area is a major habitat for the endangered Yellow-billed and Black-billed parrots."
+      ]
+    },
+    {
+      "id": "catherine-peak-relief-v2",
+      "descriptionAdvanced": "Catherine's Peak is a prominent and majestic summit in the Blue Mountains, rising to an elevation of 1,540 meters (5,056 feet) in the parish of St. Andrew. Known worldwide as the source of some of Jamaica's purest spring water, the peak dominates the northern horizon of Kingston. The surrounding slopes are covered in lush cloud forests, providing a cool and misty habitat for rare orchids, ferns, and endemic bird species. The peak is a popular destination for hikers starting from the historic Newcastle military station. From its flanks, travelers are rewarded with breathtaking panoramic views of the capital city, Kingston Harbour, and the sprawling mountain ranges. Catherine's Peak symbolizes the ecological importance of the Blue Mountains in providing essential water resources and maintaining the environmental balance of the island's most populous region, blending natural beauty with vital utility.",
+      "factsAdvanced": [
+        "Catherine's Peak reaches an altitude of 1,540 meters (5,056 feet).",
+        "It is named after Catherine Long, the first woman recorded to climb it in 1760.",
+        "The peak is the source of Jamaica's most famous premium bottled spring water.",
+        "It houses important telecommunications and military observation posts at the summit.",
+        "The slopes are famous for cultivating high-quality Blue Mountain coffee.",
+        "It is part of the protected Blue and John Crow Mountains National Park.",
+        "The area features a distinct microclimate, often 10-15 degrees cooler than the coast.",
+        "On clear days, the runways of Norman Manley International Airport are visible from the peak."
+      ]
+    },
+    {
+      "id": "corkscrew-ridge-relief-v2",
+      "descriptionAdvanced": "Corkscrew Ridge is a spectacular and steeply winding limestone formation located on Jamaica’s north coast in the parish of St. Ann. It earns its name from the extremely sharp hairpin turns of the road that traverses it, offering a thrilling drive and stunning vistas of the Caribbean Sea. The ridge is draped in dense tropical rainforests, which serve as a vital ecological buffer between the coastal resorts and the rugged interior highlands. The area is rich in geological wonders, featuring intricate karst rock formations and hidden waterfalls that showcase the vertical beauty of the Jamaican landscape. For travelers, the journey across Corkscrew Ridge provides some of the most dramatic coastal views on the island, highlighting the raw natural power that shaped the northern shores of Jamaica and offering a glimpse into the island's lush, untamed heart.",
+      "factsAdvanced": [
+        "The road along the ridge is one of Jamaica's most famous and scenic serpentine routes.",
+        "The area is renowned for its lush fern forests and exotic tropical flora.",
+        "Corkscrew Ridge serves as a critical watershed for rivers flowing into Ocho Rios.",
+        "The ridge offers panoramic views of the mouth of the Dunn's River Falls.",
+        "Numerous endemic Jamaican butterfly species can be observed in the surrounding forests.",
+        "The karst limestone cliffs contain several small, largely unexplored caves.",
+        "It acts as a natural windbreak, protecting the interior valleys from strong northern breezes.",
+        "The region is a favorite for nature photographers and adventure seekers."
+      ]
+    },
+    {
+      "id": "dry-harbour-mountains-relief-v2",
+      "descriptionAdvanced": "The Dry Harbour Mountains form a majestic limestone barrier in north-central Jamaica, stretching through the parishes of St. Ann and Trelawny. Part of the island's central plateau, this range is characterized by classic karst topography, featuring undulating hills and expansive depressions. The name 'Dry Harbour' reflects the porous nature of the limestone soil, which causes rainwater to vanish rapidly into underground networks, leaving the surface relatively dry despite heavy rainfall. Geologically, these mountains are rich in high-purity white limestone and are a primary site for bauxite mining. The landscape is dotted with spectacular sinkholes and caves, such as the famous Green Grotto. The Dry Harbour Mountains offer an austere yet beautiful landscape, serving as a massive underground reservoir that feeds the coastal springs of the northern tourist regions and maintaining the island's hydrological balance.",
+      "factsAdvanced": [
+        "The highest elevations in the Dry Harbour Mountains reach approximately 760 meters.",
+        "The range is one of the most important bauxite mining regions in the world.",
+        "It contains one of the largest underground lake systems in Jamaica.",
+        "The Green Grotto Caves served as a hideout for Spaniards during colonial wars.",
+        "The geology is dominated by Tertiary 'White Limestone' formations.",
+        "Most of the water in the region flows through subterranean channels rather than surface rivers.",
+        "The upland valleys provide an ideal climate for cattle ranching and pimento farming.",
+        "Discovery Bay is located directly at the foot of this mountain range."
+      ]
+    },
+    {
+      "id": "may-day-mountains-relief-v2",
+      "descriptionAdvanced": "The May Day Mountains are a prominent central range in the parish of Manchester, characterizing the high plateau region of Jamaica. This range is defined by a succession of high hills and fertile valleys, reaching altitudes of over 900 meters. The mountains are famous for their temperate and cool climate, offering a refreshing escape from the tropical heat of the coast. The geology is dominated by limestone, but the striking red soil (terra rossa) that covers the valleys is extremely rich in aluminum ore, making this the heart of Jamaica's bauxite industry. Mandeville, the island's highest town, is nestled within these mountains and benefits from the fresh air and picturesque surroundings. The May Day Mountains represent the rural heart of central Jamaica, offering a landscape of calm elegance with roads winding through plantations and mountain pastures under a mist-covered sky.",
+      "factsAdvanced": [
+        "The highest point in the May Day Mountains exceeds 900 meters above sea level.",
+        "It is home to Mandeville, the highest-elevation town in Jamaica.",
+        "The mountains are world-renowned for their vast deposits of red bauxite soil.",
+        "The climate is often described as 'eternal spring' due to its mild temperatures.",
+        "Major bauxite companies like Kirkvine have historically operated in this region.",
+        "The area is a significant producer of citrus fruits and highland coffee.",
+        "The forests are home to several endemic Jamaican orchid and bird species.",
+        "The range acts as a natural barrier for clouds moving from the north coast."
+      ]
+    },
+    {
+      "id": "clarendon-hills-relief-v2",
+      "descriptionAdvanced": "The Clarendon Hills form a complex and picturesque hilly landscape in the center of Clarendon parish, serving as a bridge between the central mountains and the southern plains. These hills are characterized by a varied topography with sharp ridges and alluvial valleys, carved by the Rio Minho river system. Geologically, the hills are composed of a mixture of sedimentary and igneous rocks, leading to a great variety of soil types. Their relief is essential for capturing the rainfall that feeds agriculture in the southern part of the parish. The Clarendon Hills offer a vibrant rural landscape, with traditional villages perched on ridges and slopes cultivated with pimento and tobacco. This hilly terrain acts as a natural barrier, creating specific microclimates in each valley and contributing to the ecological diversity of the central region while offering expansive views to the sea.",
+      "factsAdvanced": [
+        "The Clarendon Hills include the Mocho Mountains range in their northern section.",
+        "The Rio Minho, Jamaica's longest river, traverses this hill range.",
+        "The region contains significant deposits of copper and gold.",
+        "The hills serve as a critical catchment area for the Clarendon Plains' water supply.",
+        "Elevations in the hills typically range between 300 and 600 meters.",
+        "The vegetation is characterized by dry tropical forests in the lower reaches.",
+        "The area is well-known for producing high-quality honey.",
+        "Numerous caves in the limestone sections were historically used by the Taino people."
+      ]
+    },
+    {
+      "id": "st-thomas-mountains-relief-v2",
+      "descriptionAdvanced": "The St. Thomas Mountains are a wild and rugged southern branch of the Blue Mountain range, dominating the landscape of St. Thomas parish in southeastern Jamaica. This relief is marked by extremely steep slopes and narrow ridges that descend rapidly toward the Caribbean Sea. The geology of the area is complex and unstable, consisting of highly faulted igneous and metamorphic rocks, which makes the region prone to massive landslides during the rainy season. The St. Thomas Mountains capture moisture from the eastern trade winds and are covered in exuberant tropical mountain forest vegetation. Their rugged relief has limited infrastructure development, preserving an impressive natural wilderness. These mountains are the source of many short but fast-flowing rivers that feed the coastal wetlands and estuaries, making them vital to the hydrological balance and ecological health of the southeastern part of the island.",
+      "factsAdvanced": [
+        "The mountains are geologically part of the massive Blue Mountain system.",
+        "The highest peaks in this range reach over 1,200 meters.",
+        "The region is notorious for intense erosion processes during hurricanes.",
+        "High-quality coffee and tropical fruits are cultivated extensively on the slopes.",
+        "The famous Bath Hot Springs are located at the foot of these mountains.",
+        "The soil is a complex mix of shale and igneous rock formations.",
+        "St. Thomas is considered one of the greenest and most water-rich parishes.",
+        "From the ridge tops, the island of Hispaniola can occasionally be seen on clear days."
+      ]
+    },
+    {
+      "id": "holywell-forest-relief-v2",
+      "descriptionAdvanced": "Holywell Forest is an enchanting mountain reserve in the Blue Mountains, situated at an altitude of approximately 1,200 meters (4,000 feet) on the border of St. Andrew and Portland. It is part of the Blue and John Crow Mountains National Park and serves as a vital recreational area and research center for montane cloud forest flora and fauna. The landscape is characterized by giant tree ferns, fragrant pines, and a constant cloud cover that bathes the forest in a mystical atmosphere. Holywell offers several well-marked trails that lead through dense woods to breathtaking viewpoints overlooking Kingston and the coast. With its cool temperatures, the park provides a welcome escape from the tropical heat of the plains. It is a paradise for birdwatchers, who can spot the rare Jamaican Trogon or the Doctor Bird here, amidst the lush, mossy greenery.",
+      "factsAdvanced": [
+        "Holywell is located about 60 minutes north of Kingston in the St. Andrew hills.",
+        "The park covers approximately 120 hectares of pristine mountain forest.",
+        "Average temperatures are about 10 degrees Celsius lower than in Kingston.",
+        "It offers rustic cabins for visitors to experience the forest overnight.",
+        "The Blue Mahoe, Jamaica's national tree, grows abundantly in this reserve.",
+        "It is a key area for the survival of many endemic orchid species.",
+        "The humidity in the forest often reaches 100%, supporting a lush mossy environment.",
+        "The park is managed by the Jamaica Conservation and Development Trust (JCDT)."
+      ]
+    },
+    {
+      "id": "hardwar-gap-relief-v2",
+      "descriptionAdvanced": "Hardwar Gap is a high mountain pass in the Blue Mountains that serves as a gateway between the parishes of St. Andrew and Portland. Located at an altitude of approximately 1,200 meters, this spot is famous for its dramatic weather changes and the thick mist that often envelops the road. The pass offers spectacular views into the deep Buff Bay Valley and is a hub for hikers and naturalists. The flora at Hardwar Gap is exceptionally rich in epiphytes, mosses, and ferns that thrive due to the constant moisture. Nearby is the famous Gap Café, a popular stop for travelers to enjoy the view with a cup of local coffee. Hardwar Gap symbolizes the challenges and beauty of mountain crossing in Jamaica. It is a place where one can feel the wild, untamed nature of the island while driving the narrow and atmospheric pass road.",
+      "factsAdvanced": [
+        "Hardwar Gap is the highest motorable point on the main road through the Blue Mountains.",
+        "It is known as one of the best locations for high-altitude birdwatching.",
+        "Rare Jamaican bromeliads grow directly on the rock faces in this area.",
+        "The pass was named after Captain Edward Hardwar, an early British surveyor.",
+        "Visibility is often limited to less than 10 meters due to dense cloud cover.",
+        "It separates the watershed of the Hope River from that of the Buff Bay River.",
+        "The air is so pure that rare species of lichens can be found on the trees.",
+        "It is a classic stop on the famous 'Mountain Spring' tours."
+      ]
+    },
+    {
+      "id": "yallahs-valley-relief-v2",
+      "descriptionAdvanced": "The Yallahs Valley in St. Thomas is a dramatic river valley shaped by the steep slopes and the powerful erosive forces of the Yallahs River. The landscape showcases the raw energy of Jamaican geology, with massive debris cones and deep incisions into the mountain range. The valley is one of the most important water sources for the capital city of Kingston, as large pipelines transport the precious water over many kilometers. Agriculturally, the valley is known for growing onions, tomatoes, and other vegetables that thrive on the fertile alluvial soils. Driving through the valley offers constantly changing perspectives on the Blue Mountains and the rugged coastal region. At the same time, the Yallahs Valley illustrates the island's vulnerability to extreme weather events, as massive mudslides often occur after heavy rains, reminding visitors of the relentless power of nature's geological sculpting.",
+      "factsAdvanced": [
+        "The Yallahs Valley is the largest river catchment area in southeastern Jamaica.",
+        "The Yallahs River originates at over 1,800 meters in the Blue Mountains.",
+        "It features 'Judgement Cliff,' a massive landslide site dating back to 1692.",
+        "The valley supplies over 40% of Kingston's population with drinking water.",
+        "Erosion in the valley is among the most intensive in the entire Caribbean.",
+        "Important irrigation projects support local small-scale farmers in the valley.",
+        "The region is known for its traditional healing practices and herbalists.",
+        "In the dry season, the river often turns into a wide, stony bed."
+      ]
+    },
+    {
+      "id": "hills-of-hanover-relief-v2",
+      "descriptionAdvanced": "The Hills of Hanover form a lush, rolling emerald backbone across Jamaica's westernmost parish, providing a starkly beautiful contrast to the rugged limestone peaks of the east. Characterized by gentle slopes and deep fertile valleys, this region is a vital agricultural hub, famous for producing some of the island's finest yams, ginger, and pimento. The hills are cooled by the constant Atlantic trade winds, creating a mist-covered landscape that supports a rich diversity of birdlife and tropical flora. Historically, these hills served as a pastoral retreat and a center for livestock breeding, with many historic ruins of 18th-century great houses and sugar mills still visible today. Offering panoramic views that stretch from the historic port of Lucea all the way to the cliffs of Negril, the Hills of Hanover embody the serene and productive rural heart of western Jamaica.",
+      "factsAdvanced": [
+        "The highest point in the Hanover hills is Dolphin Head, standing at 545 meters.",
+        "Composed primarily of white limestone and shale formations.",
+        "The region is a primary catchment area for the rivers that supply Negril.",
+        "Home to a high concentration of the endemic Jamaican Royal Palm.",
+        "Features a distinctive 'cockpit' karst topography on its eastern edges.",
+        "Includes the Dolphin Head Mountain, an area of high plant endemism.",
+        "Historically significant as a center for cattle and horse breeding in Jamaica.",
+        "Offers a unique microclimate that is significantly cooler than the nearby coast."
+      ]
+    },
+    {
+      "id": "mount-diabolo-relief-v2",
+      "descriptionAdvanced": "Mount Diabolo is a majestic limestone massif located in the heart of Jamaica, serving as a dramatic natural boundary between the parishes of St. Catherine and St. Ann. Rising to an elevation of approximately 500 meters (1,640 feet), it is a prominent feature of the island's central mountain system and a strategic landmark on the main route connecting Kingston to the north coast. The mountain is famous for its steep, winding pass, often shrouded in thick mist, which offers travelers spectacular views of the fertile Linstead Basin and the surrounding bauxite-rich hills. Geologically, Mount Diabolo is part of the Great River Formation, characterized by deep sinkholes, complex cave systems, and a porous structure that acts as a vital groundwater reservoir for the interior. Its name, of Spanish origin, reflects the formidable challenge the rugged terrain once posed to early colonial travelers and engineers.",
+      "factsAdvanced": [
+        "Strategically located at the border of St. Catherine and St. Ann parishes.",
+        "Stands as a natural climatic divide between the island's dry south and wet north.",
+        "The mountain's geology is dominated by Cretaceous limestone and volcanic sediments.",
+        "Its steep pass was traditionally the most challenging part of the journey to the north coast.",
+        "Home to numerous rare species of tropical ferns and endemic orchids.",
+        "Features significant bauxite deposits, a major driver of Jamaica's mining industry.",
+        "The area is prone to sudden, dense fog, creating a mystical alpine atmosphere.",
+        "Critical for the recharge of underground aquifers that feed the Rio Cobre."
+      ]
+    },
+    {
+      "id": "st-catherine-hills-relief-v2",
+      "descriptionAdvanced": "The St. Catherine Hills form a varied hilly and mountainous relief that surrounds the fertile plains of St. Catherine parish in southern Jamaica. This region includes the Red Hills to the east and the foothills of the central mountains to the north and west. The relief is characterized by slopes with variable inclination, covered partly by dry forest and partly by mountain residential settlements. The St. Catherine Hills are crucial for the natural drainage of the region, collecting water that feeds the Rio Cobre and Black River. Geologically, the hills feature many karst forms, including caves and sinkholes, which store essential water reserves for lowland agriculture. This relief offers a protective barrier against northern storms and constitutes the imposing green backdrop for the old capital, Spanish Town, while providing cool residential retreats for the nearby urban population.",
+      "factsAdvanced": [
+        "The hills include the famous Red Hills area with views over Kingston.",
+        "Altitudes vary between 200 and 600 meters above sea level.",
+        "Composed primarily of white limestone dating back to the Miocene epoch.",
+        "Acts as a natural barrier between the Kingston basin and the interior.",
+        "A major source for the groundwater systems of the southern plains.",
+        "Includes conservation zones for rare limestone-dwelling flora.",
+        "The relief has historically favored terrace agriculture and cattle grazing.",
+        "It is a key geographical landmark for the south-central part of the island."
+      ]
+    },
+    {
+      "id": "trelawny-highlands-relief-v2",
+      "descriptionAdvanced": "The Trelawny Highlands represent a high and rugged relief region located in the heart of Trelawny parish, being an integral part of Jamaica's central limestone plateau system. This relief is dominated by the northern edge of the Cockpit Country, presenting a fragmented topography with thousands of conical hills and closed valleys. The highlands are renowned for the richness of their soil and their ability to retain moisture at altitudes of over 500 meters, making the region ideal for mountain agriculture. Geologically, it is an area of highly evolved karst, where rivers flow predominantly through vast underground networks, reappearing as springs in the lowlands. The Trelawny Highlands offer a landscape of wild beauty and a cool microclimate, being a bastion of conserved nature where the tropical forest meets the stone relief in a stunning display of natural architecture.",
+      "factsAdvanced": [
+        "It is the agricultural heart of northern Jamaica, famous for yam production.",
+        "The average altitude of the highlands ranges from 400 to 650 meters.",
+        "The relief is marked by thousands of 'cockpit' style formations.",
+        "It is the source for the Martha Brae River and its tributaries.",
+        "The area is rich in biodiversity, including rare orchid species.",
+        "It forms an imposing natural barrier south of the town of Falmouth.",
+        "The region has an exceptional natural underground drainage system.",
+        "The rugged relief allowed for the historical isolation of Maroon communities."
+      ]
+    },
+    {
+      "id": "st-ann-hills-relief-v2",
+      "descriptionAdvanced": "The St. Ann Hills form a superb mountain and hill relief that dominates Jamaica's 'Garden Parish,' rising spectacularly from the north coast toward the central plateau. Characterized by green slopes and deep valleys, this relief is made of high-purity limestone, which has led to the creation of unique natural phenomena such as Fern Gully and countless waterfalls. The hills reach altitudes of over 700 meters and are renowned for their extraordinary fertility, being covered with lush vegetation that includes giant pimento and juniper trees. Hydrologically, the St. Ann Hills relief is an immense water reservoir, feeding the Dunn's River and White River. It is a landscape of perfect visual harmony, representing the quintessence of the Jamaican tropical garden on a mountain scale, offering breathtaking views of the Caribbean Sea and fertile inland valleys.",
+      "factsAdvanced": [
+        "Altitudes range from sea level up to approximately 750 meters.",
+        "Composed of a very pure and porous white limestone.",
+        "Includes natural attractions such as Fern Gully and Moneague Lake.",
+        "Renowned for its mild climate and clean, refreshing air.",
+        "Source for the most famous waterfalls on the island.",
+        "Ideal relief for the cultivation of allspice (pimento).",
+        "Includes massive bauxite deposits in the plateau areas.",
+        "Offers unforgettable panoramas over the Ocho Rios bay."
+      ]
+    },
+    {
+      "id": "claren-valley-relief-v2",
+      "descriptionAdvanced": "The Claren Valley (or Clarendon Valley) is an alluvial plain and wide depression located in southern Clarendon, being one of the most extensive and fertile flat regions in Jamaica. The relief of the valley is shaped by the sedimentary deposits of the Rio Minho over millennia, creating a deep and rich soil ideal for large-scale agriculture. The valley is framed by the Clarendon Hills to the north and the Mocho Mountains to the west, forming a protected natural agricultural basin. Hydrologically, the valley is a critical region where mountain rivers slow down and deposit nutrients, but where flood risk is high during cyclonic periods. The Claren Valley represents the engine of Jamaican sugar, its flat relief allowing extensive mechanization and being the economic heart of the central region, producing high yields of sugarcane and citrus.",
+      "factsAdvanced": [
+        "It is one of the largest alluvial plains on the island.",
+        "The relief is flat, situated between 0 and 100 meters in altitude.",
+        "It is the main hydrological basin for the Rio Minho.",
+        "Extremely fertile clay-type soils are ideal for sugarcane.",
+        "Includes vast areas of both natural and artificial irrigation.",
+        "Prone to flooding during southern hurricanes.",
+        "It is the heart of sugar and rum production in Clarendon parish.",
+        "Represents a major geographical depression between the mountains and the sea."
+      ]
+    },
+    {
+      "id": "manchester-plateau-relief-v2",
+      "descriptionAdvanced": "The Manchester Plateau is a high mountain relief unit located in central Jamaica, famous for its constant altitude and cool, almost European climate. With an average height of over 600 meters, the plateau represents a massive limestone uplift that dominates the island's central landscape. The relief is characterized by sinkhole topography, with circular valleys having no surface drainage, which led to a historical lack of permanent rivers. The bright red soil (terra rossa) provides a stunning visual contrast with the dark green vegetation of coffee and citrus trees. The Manchester Plateau is home to the town of Mandeville and is considered the most seismically stable relief on the island, offering an environment of sober elegance and major economic importance through bauxite deposits and thriving highland agriculture.",
+      "factsAdvanced": [
+        "Constant average altitude between 600 and 900 meters.",
+        "The most geologically stable region of the island.",
+        "Absence of surface rivers due to the porosity of the limestone.",
+        "Known for the volcanic-like red soil called 'Terra Rossa.'",
+        "Temperate climate with the lowest temperatures in the country's interior.",
+        "Base for the largest bauxite reserves in the Caribbean.",
+        "The relief favored garden-style urbanization in Mandeville.",
+        "Offers an aerial perspective over Clarendon and St. Elizabeth parishes."
+      ]
+    },
+    {
+      "id": "st-elizabeth-plains-relief-v2",
+      "descriptionAdvanced": "The St. Elizabeth Plains represent a low and extensive relief in southwestern Jamaica, famous as the island's 'breadbasket.' This relief is characterized by arid and semi-arid plains, located at the base of the Santa Cruz Mountains, which block most precipitation, creating a rain shadow phenomenon. The relief is partly occupied by the Black River Lower Morass to the west, while the rest is an open plain with fertile, though dry, soils. Geologically, the plains are formed from recent sedimentary deposits and limestone, traversed by the Black River. This flat region is ideal for intensive vegetable and fruit agriculture, where farmers use advanced mulching techniques and groundwater irrigation. The St. Elizabeth Plains offer a unique landscape where dry savanna meets agricultural fertility under a relentless tropical sun.",
+      "factsAdvanced": [
+        "The largest agricultural production area in Jamaica.",
+        "Plain relief with altitudes between 0 and 50 meters.",
+        "Characterized by a very low precipitation regime.",
+        "Includes the lower basin of the Black River.",
+        "Soils are rich in minerals transported from the mountains.",
+        "Region marked by tropical savanna microclimates.",
+        "Central pillar for the nation's food security.",
+        "The relief allows easy transport of products to ports."
+      ]
+    },
+    {
+      "id": "portland-ridge-relief-v2",
+      "descriptionAdvanced": "Portland Ridge is a massive limestone peninsula and ridge that projects deep into the Caribbean Sea in southern Clarendon. This coastal relief represents one of the most isolated and wild points of Jamaica, characterized by steep cliffs of old coral and intact dry tropical forests. The ridge reaches a height of about 150 meters and offers a strategic observation point over the entire Portland Bight. Geologically, Portland Ridge is an uplifted limestone block that has escaped intense human development, preserving a rare biodiversity of reptiles and birds adapted to drought conditions. Its relief is dotted with numerous unexplored caves and provides a vital natural barrier for the rear bays against the force of the open ocean, standing as a testament to the island's geological resilience and untouched maritime beauty.",
+      "factsAdvanced": [
+        "The southernmost point of the Portland peninsula in Jamaica.",
+        "Limestone ridge with an altitude of 150 meters.",
+        "Includes the strategic Portland Point lighthouse.",
+        "Protected habitat for the rare dry tropical forest.",
+        "Relief marked by severe marine erosion on the south side.",
+        "Historical zone used for maritime signaling.",
+        "Absence of surface freshwater sources.",
+        "A key element in the configuration of the Portland Bight bay."
+      ]
+    },
+    {
+      "id": "hellshire-hills-relief-v2",
+      "descriptionAdvanced": "The Hellshire Hills represent a relief of dry forest on limestone located in southern St. Catherine, right next to the Kingston metropolitan area. This hilly massif is one of the harshest and least hospitable natural environments on the island, characterized by extremely sharp 'honeycomb' limestone relief and an arid climate. Despite its suggestive name, the hills are a biological treasure, being the last significant refuge for endemic dry forest flora and rare fauna, including the Jamaican iguana. The relief is dotted with numerous caves and sinkholes that house Taino artifacts and fossil water reserves. The Hellshire Hills offer a striking contrast with the turquoise sea at their base, representing an invaluable natural barrier that protects the capital from coastal erosion and urban sprawl while preserving a fragment of ancient Jamaica.",
+      "factsAdvanced": [
+        "The largest intact tropical dry forest in the Caribbean.",
+        "Very sharp 'honeycomb limestone' karst relief.",
+        "Low altitudes, between 0 and 200 meters.",
+        "Critical sanctuary for the threatened Jamaican iguana.",
+        "Area with high biodiversity of cacti and xerophytic shrubs.",
+        "Includes vast networks of caves with archaeological significance.",
+        "Natural barrier against storm waves for Portmore.",
+        "A fragile natural environment located at the edge of urban expansion."
+      ]
+    },
+    {
+      "id": "johannesburg-mountain-relief-v2",
+      "descriptionAdvanced": "Johannesburg Mountain is a prominent peak located in the parish of St. Catherine, part of the foothills that frame the Rio Cobre river valley. This mountain offers a rugged relief with steep slopes that dominate the landscape above the Bog Walk Gorge. Geologically, it is formed from massive limestone that has been eroded to create a landscape of bare rock and mountain shrub vegetation. The relief of Johannesburg Mountain is an important visual reference point for those traveling through the center of the island, offering spectacular views toward the mountains in St. Andrew and over the plains of St. Catherine. Its importance is doubled by its role in natural drainage, its slopes collecting rainfall that feeds many springs flowing into the Rio Cobre, thus supporting the hydrological balance of central Jamaica's fertile basins.",
+      "factsAdvanced": [
+        "Strategic peak with views over Bog Walk Gorge.",
+        "Altitude of over 600 meters above sea level.",
+        "Part of the south-central mountain system.",
+        "Formed from porous white limestone subject to karstification.",
+        "Offers a mountain microclimate above the hot lowland areas.",
+        "Habitat for endemic reptiles and forest birds.",
+        "A geographical landmark for old rail and road infrastructure.",
+        "The mountain slopes are visible from Spanish Town."
+      ]
+    },
+    {
+      "id": "blue-mountain-peak-north-relief-v2",
+      "descriptionAdvanced": "Blue Mountain Peak North represents the dramatic northern slope of Jamaica's highest point, facing the parish of Portland. This relief is distinguished from the southern slope by its much steeper slopes and extremely high rainfall, which supports a much denser and more luxuriant cloud forest. The relief is marked by numerous deep gorges and hidden waterfalls, being the area where major rivers such as the Swift River and Spanish River originate. Due to direct exposure to the trade winds from the Atlantic, the northern slopes are often shrouded in clouds, creating a mystical and cool environment. The geology here is complex, with layers of volcanic rocks alternating with limestone, providing a protected habitat for rare species of ferns and giant trees in one of the island's most untouched wilderness areas.",
+      "factsAdvanced": [
+        "The wettest and wildest slope of the Blue Mountains.",
+        "Altitudes starting from 1,000 m up to 2,256 m.",
+        "Source for the rivers that flow on the northeast coast.",
+        "Zone dominated by intact primary cloud forests.",
+        "Includes the steepest elevation gains in the Caribbean.",
+        "Protected habitat within the UNESCO World Heritage Site.",
+        "Extremely rugged relief, limiting human presence.",
+        "Global center of endemism for high mountain plants."
+      ]
+    },
+    {
+      "id": "mocho-mountains-relief-v2",
+      "descriptionAdvanced": "The Mocho Mountains form an interior mountain range located in the heart of Clarendon parish, representing an important portion of Jamaica's limestone plateau. Their relief is characterized by undulating hills and high plateaus that reach altitudes of approximately 600-700 meters. The Mocho Mountains are geologically famous for the quality of their limestone and the rich bauxite deposits found in the soil pockets of the relief. The area offers a calm rural landscape, with many sinkholes occupied by small agricultural communities. The relief acts as an essential collection basin for the tributaries of the Rio Minho, draining mountain waters toward the southern plains. Despite mining activity, the Mocho Mountains preserve areas of natural vegetation and offer panoramic vistas of central Jamaica's rugged and productive landscape.",
+      "factsAdvanced": [
+        "Central mountain range with an East-West orientation.",
+        "Average altitude of approximately 600 meters.",
+        "Major area for bauxite extraction and processing.",
+        "Includes numerous historic rural settlements on the peaks.",
+        "Source for many springs and small watercourses.",
+        "Vegetația cuprinde arbori de cedru și mahon jamaican.",
+        "Hilly relief favors a cool hill climate.",
+        "A geographical pillar for Clarendon parish."
+      ]
+    }
+  ]
+}

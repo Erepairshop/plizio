@@ -1,0 +1,217 @@
+{
+  "lang": "en",
+  "country": "jamaica",
+  "files": ["lib/visualLab/data/poiExtraJamaicaNatureV2.ts"],
+  "items": [
+    {
+      "id": "great-river-bay-nature-v2",
+      "descriptionAdvanced": "Great River Bay, located on the boundary of St. James and Hanover parishes, is a breathtaking coastal estuary where the powerful Great River flows into the Caribbean Sea. This unique meeting point of fresh and saltwater creates a thriving ecosystem, particularly rich in red and black mangroves that protect the shoreline from erosion. Historically significant, the bay served as a vital shipping point for Jamaica's sugar and pimento industries in centuries past. Today, it is a serene haven for eco-tourism, offering activities like river rafting and kayaking that allow visitors to glide through lush rainforest scenery before reaching the open ocean. The bay is also a known habitat for West Indian manatees and numerous seabirds, including ospreys and pelicans. Its tranquil atmosphere provides a refreshing contrast to the bustling tourist hubs nearby, making it a perfect spot for nature lovers seeking peace and biological diversity.",
+      "factsAdvanced": [
+        "Acts as a natural border between the parishes of St. James and Hanover.",
+        "Features a significant mangrove ecosystem that serves as a nursery for marine life.",
+        "The Great River is one of Jamaica's longest rivers, stretching approximately 74 kilometers.",
+        "Popular terminus for scenic bamboo rafting excursions.",
+        "Habitat for the endangered West Indian manatee.",
+        "Historical port for the export of sugar and pimento from local estates.",
+        "Excellent birdwatching spot for ospreys, egrets, and brown pelicans.",
+        "The water often displays a striking emerald green hue due to river sediments."
+      ]
+    },
+    {
+      "id": "wag-water-river-nature-v2",
+      "descriptionAdvanced": "The Wag Water River, originally named Rio Agua Alta by Spanish settlers, is a majestic waterway that originates high in the Blue Mountains and winds through the parishes of St. Andrew and St. Mary. It is celebrated for its crystal-clear mountain pools and dramatic rocky terrain, providing a vital freshwater source for the northeastern region of Jamaica. The river is perhaps most famous for its connection to the historic Castleton Botanical Gardens, which were established along its banks in 1862. The surrounding valley is a lush corridor of tropical flora, including towering bamboo groves and giant ferns. During the rainy season, the river transforms into a powerful force, carving the landscape and depositing nutrient-rich silt. For those seeking an authentic Jamaican nature experience, the Wag Water offers numerous 'swimming holes' and opportunities for river trekking amidst a pristine rainforest backdrop.",
+      "factsAdvanced": [
+        "Originates at high altitudes within the Blue Mountains range.",
+        "Historically known by the Spanish name Rio Agua Alta, meaning 'High Water.'",
+        "Supplies water to the historic Castleton Botanical Gardens.",
+        "Empties into the Caribbean Sea at Annotto Bay in St. Mary.",
+        "Known for its deep, clear natural swimming pools favored by locals.",
+        "Home to endemic freshwater crayfish and various species of tilapia.",
+        "Crucial ecological corridor connecting mountain forests to coastal zones.",
+        "The river valley is a prime habitat for the endemic Jamaican Tody."
+      ]
+    },
+    {
+      "id": "yallahs-ponds-nature-v2",
+      "descriptionAdvanced": "Yallahs Ponds in St. Thomas represent one of Jamaica's most intriguing natural phenomena. These two large hypersaline lagoons are separated from the Caribbean Sea by a narrow shingle bar. They are famous for their occasional dramatic transformation, where the water turns a vibrant reddish-pink hue due to the presence of salt-loving microorganisms like Dunaliella salina and halobacteria. Located in one of the island's driest regions, the ponds experience high evaporation, leading to the formation of natural salt crusts along their edges—a resource historically harvested by local communities. Despite the extreme salinity, the ponds support a specialized ecosystem that attracts a variety of migratory and resident shorebirds. The surrounding landscape, characterized by dry scrubland and cacti, offers a surreal and wild beauty, with the distant peaks of the Blue Mountains providing a stunning backdrop to this unique coastal wetland.",
+      "factsAdvanced": [
+        "Consists of two large lagoons with salinity levels often triple that of seawater.",
+        "The pinkish-red color is caused by the algae Dunaliella salina.",
+        "Located in the rain shadow of the Blue Mountains, leading to high evaporation rates.",
+        "Important wintering ground for various species of migratory waterbirds.",
+        "Historically used for commercial salt extraction during the colonial era.",
+        "Separated from the ocean by a massive natural barrier of sand and pebbles.",
+        "One of the few hypersaline lake ecosystems found in the West Indies.",
+        "Local legends suggest the ponds were formed after a dispute between plantation owners."
+      ]
+    },
+    {
+      "id": "bull-head-mountain-nature-v2",
+      "descriptionAdvanced": "Rising to an elevation of approximately 853 meters in the parish of Clarendon, Bull Head Mountain is famously recognized as the geographical center of Jamaica. Its distinctive silhouette, which resembles a bull's head from a distance, makes it a prominent landmark in the island's central highlands. The mountain is covered by a protected forest reserve that safeguards some of the last remaining stands of primary and secondary montane forest in the region. This area is a critical watershed, giving rise to several tributaries of the Rio Minho, Jamaica’s longest river. Hikers who reach the summit are rewarded with spectacular 360-degree panoramic views, where on clear days, both the north and south coasts of the island can be seen simultaneously. The cool mountain air and rich biodiversity, including numerous endemic bird species and rare ferns, make it a premier destination for eco-tourism and scientific research.",
+      "factsAdvanced": [
+        "Officially marked with a monument as the geometric center of Jamaica.",
+        "Reaches a peak elevation of 854 meters (2,802 feet) above sea level.",
+        "Serves as a vital source for the Rio Minho river basin.",
+        "Composed geologically of very ancient volcanic rock, rare for Jamaica.",
+        "Declared a forest reserve in the 1950s to protect its unique flora.",
+        "Provides a habitat for endemic birds like the Jamaican Parrot and Streamertail Hummingbird.",
+        "Features hiking trails that pass through historic coffee and citrus groves.",
+        "Offers a unique microclimate that is significantly cooler than the coastal plains."
+      ]
+    },
+    {
+      "id": "great-morass-nature-v2",
+      "descriptionAdvanced": "The Great Morass in Negril is a vast and ecologically vital wetland that covers thousands of hectares in the parishes of Westmoreland and Hanover. As Jamaica's largest freshwater wetland, it acts as a massive natural filter, purifying groundwater before it reaches the delicate coral reefs of the Negril Marine Park and the famous Seven Mile Beach. The landscape is a complex mosaic of sawgrass marshes, peat bogs, and dense mangrove forests. It is home to the island's largest stand of the endemic Royal Palm (Roystonea princeps) and provides a sanctuary for a wealth of wildlife, including the American crocodile and over 100 bird species. Efforts to preserve this fragile ecosystem are crucial, as it serves as a significant carbon sink and a buffer against storm surges. Visitors can explore this mystical environment at the Royal Palm Reserve, which features boardwalks through the heart of the swamp.",
+      "factsAdvanced": [
+        "Spans approximately 6,000 hectares, making it Jamaica's largest wetland.",
+        "Contains the largest deposit of peat in the entire Caribbean region.",
+        "Home to the endemic Jamaican Royal Palm, which can reach heights of 30 meters.",
+        "Functions as a critical bio-filter protecting Negril’s white sand beaches and reefs.",
+        "Habitat for the endangered American crocodile and the West Indian manatee.",
+        "Designated as part of the Negril Environmental Protection Area (EPA).",
+        "More than 300 species of plants and 100 species of birds have been identified here.",
+        "The peat layers act as a major carbon sequestering system for the island."
+      ]
+    },
+    {
+      "id": "rio-cobre-river-nature-v2",
+      "descriptionAdvanced": "The Rio Cobre is one of Jamaica's most historically and geographically significant rivers, winding through the parish of St. Catherine. It is most famous for carving the spectacular Bog Walk Gorge, a deep limestone canyon with sheer walls rising up to 100 meters high. The river’s name, meaning 'Copper River' in Spanish, reflects its importance since colonial times. In 1899, the Rio Cobre was the site of one of the first hydroelectric plants in the Caribbean, and it continues to provide a major source of irrigation for the fertile St. Catherine plains and drinking water for Kingston. The river valley is a lush area of bamboo groves and fruit trees, though the gorge itself is known for its dramatic and sometimes dangerous flooding during heavy rains. Crossing the river at Spanish Town is the historic Cast Iron Bridge, the oldest of its kind in the Western Hemisphere, symbolizing the river's long-standing role in Jamaica's infrastructure.",
+      "factsAdvanced": [
+        "Carved the 6-kilometer long Bog Walk Gorge, a major geological landmark.",
+        "The name 'Rio Cobre' is Spanish for 'Copper River.'",
+        "Feeds one of Jamaica's oldest and most extensive irrigation systems.",
+        "Home to the historic 1801 Cast Iron Bridge in Spanish Town.",
+        "Site of an early hydroelectric power station established in the late 19th century.",
+        "Crucial water source for the metropolitan areas of Kingston and St. Catherine.",
+        "Known for sudden and dramatic water level increases during the hurricane season.",
+        "The river basin supports local fisheries of tilapia and freshwater shrimp."
+      ]
+    },
+    {
+      "id": "long-bay-nature-v2",
+      "descriptionAdvanced": "Long Bay, situated on the rugged eastern coast of Portland, is widely regarded as one of Jamaica's most authentic and unspoiled stretches of coastline. This crescent-shaped beach extends for over a mile and is characterized by its fine, pink-hued sand and the deep, turquoise waters of the Atlantic Ocean. Unlike the sheltered coves found elsewhere on the island, Long Bay is exposed to the full force of the Atlantic, creating consistent waves that have made it a favorite destination for surfers and backpackers. The vibe here is decidedly low-key and bohemian, with local guest houses and 'jerk' shacks lining the coastal road. The lush, emerald-green mountains of Portland provide a dramatic backdrop to the crashing surf. Long Bay represents a retreat into the 'real' Jamaica, offering a wilder, more natural experience that remains relatively untouched by large-scale resort development.",
+      "factsAdvanced": [
+        "Features a unique pinkish sand tint derived from crushed coral and shells.",
+        "One of the few reliable surfing locations on the island due to Atlantic swells.",
+        "Stretches for approximately 1.5 kilometers, making it one of Portland's longest beaches.",
+        "Known for its relaxed, bohemian atmosphere and lack of large commercial hotels.",
+        "Located in Jamaica's wettest parish, resulting in exceptionally lush coastal vegetation.",
+        "Important nesting site for several species of endangered sea turtles.",
+        "Frequently used as a picturesque location for international fashion shoots and films.",
+        "Famous for local beachside jerk pits serving authentic Jamaican cuisine."
+      ]
+    },
+    {
+      "id": "milk-river-nature-v2",
+      "descriptionAdvanced": "The Milk River in Clarendon is world-renowned for its remarkable mineral springs, which boast some of the highest levels of natural radioactivity in the world. The water, which maintains a constant temperature of 33 degrees Celsius, flows from limestone rocks and is incredibly rich in magnesium, calcium, and sodium chloride. It is reported to be nine times more radioactive than the waters of Baden-Baden in Germany, making it highly effective for treating rheumatism, arthritis, and skin conditions. The historic Milk River Bath spa was established as early as 1794. Beyond the spa, the river itself meanders through a landscape of mangroves and dry wetlands before emptying into the Caribbean Sea. This area is a significant habitat for the West Indian manatee and numerous water birds. Milk River offers a unique blend of natural healing traditions and wild, coastal ecology, providing a serene escape in the southern part of the island.",
+      "factsAdvanced": [
+        "Holds the record for some of the highest levels of natural curative radioactivity globally.",
+        "Constant water temperature of 33 degrees Celsius (91 degrees Fahrenheit).",
+        "Mineral content includes high concentrations of magnesium, calcium, and sulfate.",
+        "The spa was officially opened in 1794 after a discovery by an enslaved person.",
+        "Nine times more radioactive than the famous mineral springs in Baden-Baden, Germany.",
+        "The river estuary is a protected habitat for the West Indian manatee.",
+        "Located within the Portland Bight Protected Area on Jamaica's south coast.",
+        "Known for its opalescent or 'milky' appearance, which gave the river its name."
+      ]
+    },
+    {
+      "id": "dolphin-head-mountains-nature-v2",
+      "descriptionAdvanced": "The Dolphin Head Mountains in Hanover form a vital ecological sanctuary in western Jamaica, rising sharply from the surrounding coastal plains. Named for the distinctive shape of its highest peak, which resembles the head of a dolphin leaping from the sea, this limestone massif is recognized globally as a biodiversity hotspot. Due to its geological isolation, the range has evolved an extraordinary number of endemic plant species—at least 23 of which are found nowhere else on Earth. The mountains are covered in dense tropical hardwood forests and are home to rare land snails, butterflies, and forest birds. Serving as a natural 'water tower,' the range captures moisture from trade winds to feed local rivers like the Lucea and Cabarita. For hikers, the ascent through lush rainforest offers breathtaking views extending to Negril and, on exceptionally clear days, the distant silhouette of Cuba.",
+      "factsAdvanced": [
+        "Reaches a maximum elevation of 545 meters (1,789 feet) in western Jamaica.",
+        "Home to 23 species of plants that are unique to this specific mountain range.",
+        "Designated as a Forest Reserve to protect its rare tropical hardwood species.",
+        "Functions as the primary watershed for the Lucea and Cabarita Rivers.",
+        "Globally recognized as a priority site for botanical conservation.",
+        "Managed by the Dolphin Head Trust in collaboration with the Forestry Department.",
+        "The limestone terrain features numerous caves and sinkholes harboring rare bats.",
+        "Offers panoramic views of Jamaica's western coastline and the Caribbean Sea."
+      ]
+    },
+    {
+      "id": "black-river-lower-morass-nature-v2",
+      "descriptionAdvanced": "The Black River Lower Morass in St. Elizabeth is Jamaica's largest freshwater wetland and an ecosystem of international significance. Covering over 5,700 hectares, this vast labyrinth of rivers, channels, sawgrass marshes, and mangrove forests acts as a massive natural filter for the Black River. It was the first site in Jamaica to be designated under the Ramsar Convention for its importance as a habitat for migratory birds and endangered species. The Morass is most famous for hosting the island’s largest population of American crocodiles, which can often be seen sunning themselves on the riverbanks. It is also a critical nursery for freshwater fish and shrimp, supporting a traditional local industry. Boat safaris allow visitors to explore the deep mangrove tunnels and witness the incredible birdlife, including egrets, herons, and jacanas, in one of the Caribbean’s most pristine wild environments.",
+      "factsAdvanced": [
+        "Jamaica's largest freshwater wetland, spanning more than 14,000 acres.",
+        "Designated as a Ramsar site of international importance in 1997.",
+        "Supports the highest concentration of American crocodiles in Jamaica.",
+        "Home to over 150 species of resident and migratory birds.",
+        "Features three distinct types of mangroves: Red, Black, and White.",
+        "Crucial for flood control and water purification for the St. Elizabeth region.",
+        "Famous for its 'river shrimp' which are a staple of the local culinary culture.",
+        "Contains the largest peat deposit in Jamaica, serving as a vital carbon sink."
+      ]
+    },
+    {
+      "id": "navy-island-nature-v2",
+      "descriptionAdvanced": "Navy Island is a lush, emerald gem located just off the coast of Port Antonio in Portland. This small private island has a storied past, serving as a British Royal Navy base in the 18th century—hence its name—to repair and refit ships. In the 1940s, it gained international fame when it was purchased by Hollywood legend Errol Flynn, who used it as his private tropical retreat and hosted legendary parties for the global elite. Today, the island is a tranquil nature reserve where the jungle has begun to reclaim the ruins of Flynn’s former estate, creating a 'lost paradise' atmosphere. Surrounded by vibrant coral reefs and crystal-clear waters, Navy Island offers secluded white-sand beaches like the famous Errol Flynn Beach. It is a haven for snorkeling, birdwatching, and quiet exploration, providing a unique mix of naval history, cinematic glamour, and untamed tropical beauty.",
+      "factsAdvanced": [
+        "Historically used by the British Royal Navy as a strategic repair station.",
+        "Once owned by actor Errol Flynn, becoming a symbol of Hollywood's golden age in Jamaica.",
+        "Features several secluded beaches, including one formerly known as a clothing-optional spot.",
+        "Acts as a natural breakwater protecting Port Antonio's West Harbour.",
+        "Accessible only by a short boat ride from the Port Antonio mainland.",
+        "The surrounding waters are part of a protected marine park with diverse coral life.",
+        "Home to numerous species of exotic plants introduced during the mid-20th century.",
+        "Served as a filming location for scenes in the 1954 movie 'Treasure Island.'"
+      ]
+    },
+    {
+      "id": "rio-minho-river-nature-v2",
+      "descriptionAdvanced": "Stretching approximately 92 kilometers, the Rio Minho is the longest river in Jamaica and the lifeblood of the parish of Clarendon. Originating in the central highlands near Bull Head Mountain, it flows through a diverse landscape of steep mountain valleys and broad alluvial plains before emptying into the Caribbean Sea at Carlisle Bay. A fascinating geological feature of the Rio Minho is its partially subterranean nature; during the dry season, large stretches of the lower riverbed may appear completely dry as the water flows through underground limestone channels. However, during heavy rains, it can quickly transform into a powerful torrent that fertilizes the valley with rich sediments. The river is essential for the region's agriculture, particularly for the large-scale cultivation of sugarcane and citrus. Its basin is a vital ecological system, supporting mangrove forests at the coast and a variety of freshwater species in its upper reaches.",
+      "factsAdvanced": [
+        "The longest river in Jamaica, with a total length of approximately 92.8 kilometers.",
+        "Originates at Bull Head Mountain, the geographical center of the island.",
+        "Known for flowing through underground limestone passages during dry periods.",
+        "Empties into the sea at Carlisle Bay on Jamaica's southern coast.",
+        "The river basin covers nearly 10% of the island's total land area.",
+        "Historically vital for powering sugar mills and irrigating the Clarendon Plains.",
+        "Known for dramatic flash floods that frequently reshape the riverbanks.",
+        "Supports significant populations of kingfishers and river iguanas in its valley."
+      ]
+    },
+    {
+      "id": "portland-bight-nature-v2",
+      "descriptionAdvanced": "The Portland Bight Protected Area (PBPA) is Jamaica’s largest protected area, encompassing a vast expanse of both land and sea along the southern coast. This massive reserve protects a diverse array of ecosystems, including the dry limestone forests of the Hellshire Hills, the island's most extensive mangrove systems, and vibrant coral reefs. It is the last remaining sanctuary for the critically endangered Jamaican Iguana, a species once thought to be extinct. The Bight includes numerous small coral cays that serve as essential nesting sites for seabirds and sea turtles. Beyond its ecological importance, Portland Bight is a vital economic zone, supporting thousands of artisanal fishermen. The challenge of balancing industrial development around Old Harbour with the conservation of these fragile habitats makes it a focal point for environmental management. It is a place where Jamaica’s terrestrial and marine biodiversity is preserved on a grand scale.",
+      "factsAdvanced": [
+        "The largest state-managed protected area in Jamaica, covering over 1,800 square kilometers.",
+        "Only remaining natural habitat for the critically endangered endemic Jamaican Iguana.",
+        "Contains over 50% of Jamaica's total mangrove forest coverage.",
+        "Includes 21 offshore coral cays, such as the Little Goat Island.",
+        "Designated as an Important Bird Area (IBA) of international significance.",
+        "Managed through a partnership between the government and the NGO C-CAM.",
+        "Home to the largest population of West Indian manatees in Jamaica.",
+        "Features rare dry limestone forest ecosystems found nowhere else in the world."
+      ]
+    },
+    {
+      "id": "santa-cruz-mountains-nature-v2",
+      "descriptionAdvanced": "The Santa Cruz Mountains in St. Elizabeth are a striking limestone ridge that rises abruptly from the southern plains of Jamaica. Known for having some of the cleanest and healthiest air on the island, the range offers a cool, dry microclimate that contrasts sharply with the tropical heat below. The mountains reach elevations of over 700 meters and are characterized by fertile 'terra rossa' (red) soils, which are ideal for agriculture and also contain significant bauxite deposits. A major highlight is the dramatic 500-meter cliff at Lover’s Leap, where the mountains meet the sea in a sheer drop. The vegetation includes unique dry montane forests and rare species of cacti and orchids. Historically, the area has been a favored residential location and health retreat since the colonial era. The winding mountain roads provide some of the most scenic drives in Jamaica, with panoramic views of the coastline and the Pedro Plains.",
+      "factsAdvanced": [
+        "Reaches heights of approximately 730 meters, providing a temperate microclimate.",
+        "Home to the legendary Lover's Leap, a 500-meter vertical sea cliff.",
+        "Characterized by deep red bauxite-rich soils used for both mining and farming.",
+        "Renowned for its exceptionally high air quality, traditionally recommended for respiratory health.",
+        "Features a unique 'dry forest' ecosystem with specialized flora and fauna.",
+        "Houses some of Jamaica's oldest and most prestigious educational institutions like Munro College.",
+        "The mountains act as a rain barrier, significantly affecting the climate of St. Elizabeth.",
+        "Rich in Taino archaeological sites, particularly within its numerous limestone caves."
+      ]
+    },
+    {
+      "id": "fern-gully-nature-v2",
+      "descriptionAdvanced": "Fern Gully is one of Jamaica's most iconic and photogenic natural attractions, located near the town of Ocho Rios in St. Ann. This three-mile-long scenic road winds through a deep limestone canyon where the walls are blanketed by a dense canopy of over 300 species of ferns and towering tropical trees. The gully was formed in the 19th century following an earthquake that destroyed the course of an underground river, leaving behind a steep-walled ravine. As you drive through this natural 'green tunnel,' the temperature drops noticeably, and the sunlight filters through the fronds to create a mystical, verdant atmosphere. Fern Gully serves as a living botanical museum, showcasing the incredible diversity of Jamaica's flora. While vehicle traffic and pollution pose challenges, it remains a breathtaking example of the island's lush interior and a must-see for anyone traveling between the north coast and the central highlands.",
+      "factsAdvanced": [
+        "A natural 'green tunnel' extending for approximately 5 kilometers (3 miles).",
+        "Lined with over 300 different species of ferns, many of which are endemic to Jamaica.",
+        "Formed in the dry bed of an ancient river following an earthquake in 1907.",
+        "Features rare tree ferns and tropical hardwoods like mahogany and cedar.",
+        "The dense canopy creates a microclimate that is 3-5 degrees cooler than the surroundings.",
+        "Protected by law as a national natural monument and botanical reserve.",
+        "Important ecological corridor for local butterflies and forest birds.",
+        "A major tourist attraction known for the local vendors selling traditional wood carvings at its entrance."
+      ]
+    }
+  ]
+}

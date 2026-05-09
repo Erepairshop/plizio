@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-montego-freeport-economic-v2",
+      "descriptionAdvanced": "A Montego Freeport egy stratégiai fontosságú gazdasági és kikötői övezet Montego Bay területén, amely alapvető szerepet játszik Jamaica északi partvidékének kereskedelmében. Az 1960-as évek végén, egy ambiciózus területfeltöltési projekt keretében létrehozott zóna ma modern tengerjáró kikötőnek, szabadkereskedelmi övezetnek és ipari parknak ad otthont. A terület jelentősége túlmutat a turizmuson, hiszen itt találhatóak a régió legfontosabb raktározási és logisztikai központjai, amelyek az üzemanyag-ellátástól az élelmiszer-elosztásig minden kritikus folyamatot kiszolgálnak. A Freeport sikeresen ötvözi a kereskedelmi funkciókat a luxuslakóingatlanokkal és a jachtkikötőkkel, így a sziget egyik legsokoldalúbb gazdasági csomópontjává vált, amely folyamatosan vonzza a nemzetközi befektetéseket és munkahelyeket teremt a helyi lakosság számára.",
+      "factsAdvanced": [
+        "Az 1960-as évek végén jött létre tengerparti területfeltöltéssel.",
+        "Kiemelt szabadkereskedelmi övezetként (Free Zone) működik.",
+        "A Montego Bay-i tengerjáró hajók termináljának helyszíne.",
+        "Itt található a régió legnagyobb kőolaj-tároló terminálja.",
+        "Jelentős gyártókapacitásokkal rendelkezik a ruházati szektorban.",
+        "Közvetlen vasúti és közúti kapcsolatokkal bír a hátországgal.",
+        "A területen található Jamaica egyik legmodernebb jachtkikötője.",
+        "Több száz helyi lakosnak biztosít állandó munkahelyet az iparban."
+      ]
+    },
+    {
+      "id": "jm-bauxite-kaiser-economic-v2",
+      "descriptionAdvanced": "A Kaiser bauxitbánya és a hozzá kapcsolódó feldolgozó létesítmények évtizedek óta a jamaicai nehézipar gerincét alkotják St. Elizabeth plébániában. Jamaica a világ egyik legnagyobb bauxitkészletével rendelkezik, és a Kaiser (ma gyakran a JISCO vagy korábbi partnerek neve alatt ismert) üzemeltetése kulcsfontosságú az ország exportbevételei szempontjából. A kitermelés Port Kaiser kikötőjén keresztül kapcsolódik a világpiachoz, ahol a nyers bauxitot és a finomított timföldet hatalmas teherhajókra rakodják. A bányászati tevékenység nemcsak gazdasági hasznot hoz, hanem jelentős infrastrukturális fejlesztéseket is indukált a környéken, beleértve a speciális vasútvonalakat és elektromos hálózatokat. Az üzem Jamaica ipari függetlenségének és globális nyersanyagpiaci jelenlétének szimbóluma, amely generációk óta biztosít megélhetést a helyi bányászok és mérnökök számára.",
+      "factsAdvanced": [
+        "St. Elizabeth plébánia déli részén található a központja.",
+        "A kitermelt bauxitot Port Kaiser kikötőjébe szállítják vasúton.",
+        "Jamaica a világ egyik vezető bauxit- és timföldexportőre.",
+        "A Kaiser Aluminium 1952-ben kezdte meg itt a működését.",
+        "A kitermeléshez használt vasútvonal az egyik legterheltebb a szigeten.",
+        "Jelentős szerepet játszik az ország devizabevételeiben.",
+        "Az üzemhez kapcsolódó kikötő mélyvízi terminállal rendelkezik.",
+        "A bányászati területek rekultivációja folyamatos környezetvédelmi feladat."
+      ]
+    },
+    {
+      "id": "jm-sugar-factory-economic-v2",
+      "descriptionAdvanced": "A jamaicai cukorgyárak, mint például a Frome vagy a Worthy Park, az ország legrégebbi és legmeghatározóbb gazdasági ágazatát képviselik, amely mélyen gyökerezik a sziget történelmében és kultúrájában. Bár a globális cukorpiac változásai kihívások elé állították az ágazatot, a modern gyárak ma már a hatékonyságra és a diverzifikációra összpontosítanak, a nyerscukor mellett melaszt és etanolt is előállítva. A cukornád-feldolgozás köré egész közösségek épültek, ahol a gyár a legfőbb foglalkoztató és a szociális háló központja. A betakarítási szezonban, az úgynevezett 'crop time' alatt a gyárak éjjel-nappal üzemelnek, feldolgozva a környező ültetvényekről érkező hatalmas mennyiségű nádat. A jamaicai cukor különleges minősége miatt továbbra is keresett termék Európában és az Egyesült Államokban, fenntartva az ágazat relevanciáját a 21. században is.",
+      "factsAdvanced": [
+        "A cukornád-termesztés a 15. század óta jelen van a szigeten.",
+        "A Worthy Park Estate 1720 óta folyamatosan működik.",
+        "A melasz a híres jamaicai rumgyártás alapanyaga.",
+        "A gyárak melléktermékeit ma már bioenergia-termelésre is használják.",
+        "A Frome cukorgyár Westmoreland legnagyobb ipari létesítménye.",
+        "Jelentős mennyiségű exportot bonyolítanak az EU országaiba.",
+        "A betakarítási szezon általában januártól júniusig tart.",
+        "Az ágazat több tízezer embernek ad közvetett munkát."
+      ]
+    },
+    {
+      "id": "jm-falcmouth-port-economic-v2",
+      "descriptionAdvanced": "Falmouth kikötője a Karib-térség egyik legmodernebb és leglátványosabb tengerjáró hajó terminálja, amely a történelmi grúz stílusú város és a 21. századi turizmus találkozásából született. A 2011-ben átadott, több száz millió dolláros beruházás kifejezetten a world legnagyobb óceánjáróinak fogadására épült, újjáélesztve Falmouth gazdaságát. A kikötő nem csupán egy dokkolóhely, hanem egy komplex kereskedelmi övezet, ahol éttermek, luxusüzletek és kézműves piacok várják az érkező turistákat, közvetlen hozzáférést biztosítva Trelawny látnivalóihoz. A fejlesztés során nagy hangsúlyt fektettek a város történelmi örökségének megőrzésére, így a terminál építészete harmonizál a környező 18. századi épületekkel. Falmouth ma Jamaica egyik legforgalmasabb belépési pontja, amely jelentősen hozzájárul az ország idegenforgalmi bevételeinek növekedéséhez.",
+      "factsAdvanced": [
+        "A modern terminált 2011 márciusában nyitották meg.",
+        "Kifejezetten az 'Oasis' osztályú óceánjárók fogadására tervezték.",
+        "A fejlesztés a Royal Caribbean és a jamaicai állam közös projektje volt.",
+        "A kikötő építészete a 18-19. századi grúz stílust idézi.",
+        "Naponta akár 10 000 turistát is képes fogadni és kiszolgálni.",
+        "Trelawny plébánia legjelentősebb gazdasági hajtóereje.",
+        "A kikötő környezetében számos műemlék épületet restauráltak.",
+        "Közvetlen buszjáratok indulnak innen a Dunn's River Falls-hoz."
+      ]
+    },
+    {
+      "id": "jm-energy-power-economic-v2",
+      "descriptionAdvanced": "Jamaica energiagazdálkodása jelenleg egy kritikus átalakuláson megy keresztül, ahol a hagyományos, importált kőolajra épülő áramtermelést fokozatosan felváltja a cseppfolyósított földgáz (LNG) és a megújuló források. Az olyan nagy erőművek, mint az Old Harbour Bay-ben található komplexumok, a sziget elektromos hálózatának szívét jelentik, biztosítva az ipar és a lakosság folyamatos ellátását. A Jamaica Public Service (JPS) felügyelete alatt az infrastruktúra modernizálása folyamatos, beleértve az okos hálózatok bevezetését és az átviteli veszteségek csökkentését. Az energiabiztonság növelése érdekében Jamaica célul tűzte ki a zöld energia arányának jelentős emelését, ösztönözve a magánbefektetéseket a szél- és napenergia szektorban. Ez a váltás nemcsak a környezetvédelmi célokat szolgálja, hanem hosszú távon csökkenti a gazdaság kitettségét a világpiaci olajárak ingadozásának.",
+      "factsAdvanced": [
+        "Az Old Harbour Bay erőmű Jamaica legnagyobb áramtermelő egysége.",
+        "Az ország az utóbbi években tért át jelentős részben az LNG használatára.",
+        "A JPS (Jamaica Public Service) a sziget fő áramszolgáltatója.",
+        "A kormány célja, hogy 2030-ra 50%-ra emelje a megújuló energia arányát.",
+        "Jelentős beruházások történtek a tengerparti szélfarmok területén.",
+        "Az energiafüggetlenség stratégiai prioritás a jamaicai kormány számára.",
+        "Több hőtárolós és kombinált ciklusú erőmű üzemel a szigeten.",
+        "Az elektromos hálózat folyamatos fejlesztése elengedhetetlen a hurrikánszezon miatt."
+      ]
+    },
+    {
+      "id": "jm-rum-distillery-economic-v2",
+      "descriptionAdvanced": "A jamaicai rumlepárlók nem csupán ipari létesítmények, hanem az ország nemzeti identitásának és globális hírnevének őrzői, ahol a hagyományos mesterség találkozik a modern tömegtermeléssel. Az olyan világhírű márkák, mint az Appleton Estate vagy a Hampden Estate, saját ültetvényekkel és generációk óta őrzött titkos receptekkel rendelkeznek, amelyek a jamaicai rum jellegzetes, karakteres ízét adják. A lepárlás folyamata során felhasznált melasz a helyi cukorgyárakból érkezik, így a két ágazat szorosan összefonódik. A tölgyfahordós érlelés a sziget trópusi klímáján sokkal intenzívebb, mint Európában, ami gyorsabb érést és gazdagabb aromákat eredményez. A rumexport Jamaica egyik legjövedelmezőbb mezőgazdasági alapú iparága, amely a világ minden tájára eljuttatja a sziget ízeit, miközben a lepárlók egyre népszerűbb turisztikai célpontokká is válnak.",
+      "factsAdvanced": [
+        "A jamaicai rumot a világ legjobbjai között tartják számon.",
+        "Az Appleton Estate már 1749 óta gyárt rumot St. Elizabeth-ben.",
+        "A rumgyártás alapja a cukornád-feldolgozás mellékterméke, a melasz.",
+        "Kizárólag természetes élesztőt és hagyományos rézüstöket használnak sok helyen.",
+        "A 'Wray & Nephew White Overproof' a sziget legnépszerűbb itala.",
+        "Jelentős exportpiacai közé tartozik az USA, Kanada és az Egyesült Királyság.",
+        "A lepárlók látogatóközpontjai évente több százezer turistát fogadnak.",
+        "A jamaicai rum szigorú eredetvédelmi szabályozás alá tartozik."
+      ]
+    },
+    {
+      "id": "jm-coffee-processor-economic-v2",
+      "descriptionAdvanced": "A jamaicai kávéfeldolgozók, különösen a Blue Mountains lábánál található üzemek, a világ egyik legértékesebb és legkeresettebb mezőgazdasági termékét kezelik. A Jamaica Blue Mountain kávé feldolgozása rendkívül precíz folyamat, amely szigorú minőségellenőrzés mellett zajlik, a kézi válogatástól a speciális nedves eljáráson át a végső minősítésig. A Coffee Industry Board (CIB) felügyeli, hogy csak a meghatározott tengerszint feletti magasságban termett szemek kerülhessenek a jellegzetes fahordókba. A feldolgozó üzemek fontos gazdasági bázisok a hegyvidéki közösségek számára, munkát adva a helyi lakosoknak és biztosítva a kistermelők piacra jutását. A kávéexport Japánba, az USA-ba és Európába irányul, ahol a jamaicai kávéért a prémium árat is hajlandóak megfizetni a különlegesen selymes és savmentes ízvilág miatt.",
+      "factsAdvanced": [
+        "A Jamaica Blue Mountain kávé a világ egyik legdrágább fajtája.",
+        "A feldolgozás során minden egyes zsák kávét szigorúan ellenőriznek.",
+        "A termelés több mint 70%-át hagyományosan Japán vásárolja fel.",
+        "A kávét nem zsákokban, hanem különleges fahordókban exportálják.",
+        "A feldolgozók többsége a Blue Mountains keleti és középső részén települt.",
+        "Csak az 1800 méter felett termett kávé kaphatja meg a legmagasabb minősítést.",
+        "A feldolgozó üzemekben gyakran tartanak kóstolókat a látogatóknak.",
+        "A kávéipar jelentős devizabevételt generál az országnak."
+      ]
+    },
+    {
+      "id": "jm-port-royal-terminal-economic-v2",
+      "descriptionAdvanced": "A Port Royal-i tengerjáró terminál Jamaica egyik legújabb és legizgalmasabb turisztikai-gazdasági fejlesztése, amely a történelmi 'kalózváros' újjáélesztését célozza meg. A 2020-ban átadott terminál egy speciális, úszó mólótechnológiát (SeaWalk) alkalmaz, amely lehetővé teszi a hatalmas hajók kikötését anélkül, hogy károsítanák a tengerfenéken nyugvó régészeti leleteket. A projekt célja, hogy Kingstont és környékét bekapcsolja a nemzetközi tengerjáró turizmus vérkeringésébe, új piaci lehetőségeket teremtve a helyi kereskedőknek, múzeumoknak és vendéglátóhelyeknek. A terminál érkezési központja stílusában illeszkedik a Fort Charles és a történelmi épületek hangulatához, kulturális élményt nyújtva már az első pillanattól kezdve. Ez a beruházás kulcsfontosságú Kingston gazdasági diverzifikációja és a történelmi örökség fenntartható hasznosítása szempontjából.",
+      "factsAdvanced": [
+        "A terminál 2020 januárjában fogadta az első tengerjáró hajót.",
+        "Egyedülálló SeaWalk technológiát használ a környezetvédelem érdekében.",
+        "Közvetlen kapcsolatot biztosít a történelmi Fort Charles erődhöz.",
+        "A beruházás célja Kingston turisztikai vonzerejének növelése.",
+        "A terminál környékén kézműves falu és éttermek épültek.",
+        "Közel található a Norman Manley nemzetközi repülőtérhez.",
+        "A kikötő üzemeltetése szigorú környezetvédelmi előírások mellett zajlik.",
+        "Segít tehermentesíteni az északi parti kikötőket (Ocho Rios, Montego Bay)."
+      ]
+    },
+    {
+      "id": "jm-alpart-plant-economic-v2",
+      "descriptionAdvanced": "Az Alpart (Alumina Partners of Jamaica) timföldgyár Nainban, St. Elizabeth plébániában található, és az ország egyik legnagyobb ipari komplexuma, amely a bauxit timfölddé történő finomítására szakosodott. Az óriási üzem évtizedek óta meghatározó szerepet játszik Jamaica GDP-jében és exportkapacitásában, közvetlenül kapcsolódva Port Kaiser kikötőjéhez. A gyár működése szorosan összefügg a globális alumíniumpiac keresletével, és az elmúlt években jelentős modernizáción ment keresztül kínai befektetők (JISCO) bevonásával. Az Alpart nem csupán egy gyár, hanem a régió gazdasági motorja, amely több ezer embernek biztosít munkát közvetve és közvetlenül, valamint fenntartja a hozzá kapcsolódó logisztikai és szállítási hálózatot. A környezetvédelmi szempontok, mint a zagykezelés és a levegőminőség, kiemelt figyelmet kapnak az üzem modernizált működése során.",
+      "factsAdvanced": [
+        "Az Alpart gyár Nain városában, St. Elizabeth déli részén fekszik.",
+        "Éves szinten több mint 1,6 millió tonna timföld előállítására képes.",
+        "A bauxitot a környező hegyekből szállítják ide speciális futószalagokon.",
+        "Az üzem saját vasútvonallal rendelkezik Port Kaiser felé.",
+        "A 2010-es évek közepén a kínai JISCO csoport vette át az irányítást.",
+        "Jelentős fejlesztéseket hajtottak végre az energiahatékonyság terén.",
+        "A gyár által kibocsátott hőenergiát részben visszaforgatják a folyamatba.",
+        "A régió szakképzett munkaerejének legfőbb foglalkoztatója."
+      ]
+    },
+    {
+      "id": "jm-sand-export-economic-v2",
+      "descriptionAdvanced": "A jamaicai homokkitermelés és -export, bár kevésbé ismert, mint a bauxitipar, fontos szelete az ország építőipari és nyersanyag-gazdálkodásának. A folyómedrekből és meghatározott tengerparti területekről kinyert homokot elsősorban a hazai építkezésekhez használják fel, de a magas minőségű kvarchomokot exportálják is a környező karibi szigetekre és az USA-ba. A szabályozott kitermelés elengedhetetlen a környezeti egyensúly fenntartásához, hiszen a túlzott homokbányászat partmenti erózióhoz és a folyók ökológiájának károsodásához vezethet. A kormány szigorú engedélyezési rendszert tart fenn a bányászati zónára, ösztönözve a fenntartható technológiák alkalmazását. Az ágazat jelentősége az idegenforgalmi ingatlanfejlesztések és az infrastrukturális beruházások növekedésével párhuzamosan emelkedett az utóbbi években.",
+      "factsAdvanced": [
+        "A kitermelés nagy része a Rio Minho és más nagy folyók medrében zajlik.",
+        "A homokot exportra elsősorban ömlesztettáru-szállító hajókkal viszik el.",
+        "Szigorú környezetvédelmi engedélyekhez kötött a bányászat.",
+        "Az építőipar fellendülése miatt a belföldi igény is folyamatosan nő.",
+        "Bizonyos típusú homokot üveggyártáshoz is felhasználnak.",
+        "A folyami homok tisztítása modern szűrőrendszerekkel történik.",
+        "A bányák gyakran a folyók torkolatának közelében helyezkednek el.",
+        "A kitermelés ellenőrzése a Mines and Geology Division feladata."
+      ]
+    },
+    {
+      "id": "jm-port-kaiser-economic-v2",
+      "descriptionAdvanced": "Port Kaiser egy speciális ipari mélyvízi kikötő St. Elizabeth déli partján, amely kizárólag a bauxit- és timföldexport kiszolgálására jött létre. A kikötő közvetlen összeköttetésben áll az Alpart timföldgyárral és a környező bauxitbányákkal egy magánvasúti hálózaton keresztül. Itt találhatók Jamaica legnagyobb ömlesztettáru-rakodó termináljai, amelyek képesek a legnagyobb óceánjáró teherhajók fogadására is. Port Kaiser stratégiai elhelyezkedése lehetővé teszi a jamaicai ásványkincsek gyors és hatékony eljuttatását a globális piacokra, minimalizálva a szállítási költségeket. A kikötői infrastruktúra magában foglalja a hatalmas tároló silókat, a nagy teljesítményű futószalagrendszereket és a modern navigációs eszközöket, biztosítva az üzem zavartalan működését a nap 24 órájában.",
+      "factsAdvanced": [
+        "A kikötő Alligator Pond közelében, a déli parton található.",
+        "Elsődleges funkciója az Alpart gyár timföldjének elszállítása.",
+        "Mélyvízi mólója a legnagyobb merülésű teherhajókat is fogadja.",
+        "Saját, 20 km hosszú vasútvonal köti össze a timföldgyárral.",
+        "A rakodási kapacitás eléri az óránkénti több ezer tonnát.",
+        "A terület szigorúan őrzött ipari zóna, korlátozott belépéssel.",
+        "A kikötő üzemeltetése kulcsfontosságú a bauxitipar jövedelmezőségéhez.",
+        "A környező vizek védelme érdekében folyamatos monitoring zajlik."
+      ]
+    },
+    {
+      "id": "jm-fisheries-economic-v2",
+      "descriptionAdvanced": "A halászat Jamaica gazdaságának egyik legrégebbi pillére, amely nemcsak jelentős élelmiszerforrás, hanem több tízezer család megélhetésének alapja is. A sziget partjai mentén elszórtan számos halászfalu található, de a modern gazdaságban a hangsúly egyre inkább a fenntartható mélytengeri halászatra és az akvakultúrára tolódik el. Olyan helyek, mint Rocky Point vagy Old Harbour, központi szerepet játszanak a tengeri gyümölcsök feldolgozásában és elosztásában, kiszolgálva a belföldi piacot és a turisztikai szektort is. A kormány és a nemzetközi szervezetek támogatják a halászok modernizációját, az új hűtési technológiák bevezetését és a védett tengeri területek létrehozását a halállomány megőrzése érdekében. A jamaicai homár és a tengeri sügér (snapper) keresett exporttermékek, amelyek a prémium gasztronómiai piacokon is megállják a helyüket.",
+      "factsAdvanced": [
+        "Több mint 20 000 regisztrált halász dolgozik a szigeten.",
+        "Rocky Point az egyik legnagyobb kézműves halászkikötő a déli parton.",
+        "A jamaicai homár (Spiny Lobster) fontos exportcikk.",
+        "Szigorú tilalmi időszakokat tartanak be a fajok védelmében.",
+        "Az akvakultúra (pl. tilapia tenyésztés) egyre népszerűbb Clarendonban.",
+        "A halászat a GDP mintegy 0,5-1%-át teszi ki közvetlenül.",
+        "A Bluefields-öböl az egyik legsikeresebb védett halászati terület.",
+        "A kormány támogatja a GPS és a modern biztonsági eszközök használatát."
+      ]
+    },
+    {
+      "id": "jm-cement-plant-economic-v2",
+      "descriptionAdvanced": "A Caribbean Cement Company Rockfortban, Kingston szélén található, és Jamaica egyetlen cementgyára, amely az ország építőiparának alapkövét jelenti. Az 1950-es években alapított üzem saját mészkőbányával rendelkezik közvetlenül a gyár mellett, ami rendkívül költséghatékony termelést tesz lehetővé. A gyár folyamatos fejlesztések alatt áll, célja az önellátás biztosítása Jamaica számára, sőt a környező karibi szigetekre irányuló export növelése is. A modernizáció során nagy hangsúlyt fektettek a környezeti hatások csökkentésére, például a szálló por minimalizálására és a gyártási folyamat energiahatékonyságának növelésére. A cementgyár nemcsak alapanyagot szolgáltat a sziget nagyszabású útépítési és lakásépítési projektjeihez, hanem jelentős adófizető és szakmai munkáltató is a fővárosi régióban.",
+      "factsAdvanced": [
+        "A Rockfort területén található gyár 1952 óta üzemel.",
+        "A CEMEX csoport többségi tulajdonában van jelenleg.",
+        "Éves termelési kapacitása meghaladja az egymillió tonnát.",
+        "Saját kikötői terminállal rendelkezik a cement exportjához.",
+        "Az alapanyagul szolgáló mészkövet a gyár mögötti hegyekből nyerik.",
+        "Jelentős szerepet játszik a jamaicai infrastruktúra fejlesztésében.",
+        "A gyár modern laboratóriummal rendelkezik a minőség ellenőrzésére.",
+        "Folyamatosan növelik az alternatív üzemanyagok használatát a kemencékben."
+      ]
+    },
+    {
+      "id": "jm-lumber-mill-economic-v2",
+      "descriptionAdvanced": "A jamaicai fűrészüzemek és faipari központok alapvető szerepet játszanak a sziget építőiparának és bútorgyártásának kiszolgálásában, fenntartható módon hasznosítva a helyi erdőállományt. A Forestry Department felügyelete alatt működő üzemek elsősorban a fenyő- és keményfa-ültetvényekről származó alapanyagokat dolgozzák fel. A modern fűrészüzemek nemcsak alapvető építőfát állítanak elő, hanem speciális termékeket is, mint például a tradicionális jamaicai építészethez használt tetőzsindelyeket vagy dekoratív paneleket. A faipar fejlődése szorosan összefügg az erdőtelepítési programokkal, biztosítva, hogy a kitermelés ne veszélyeztesse a sziget biológiai sokféleségét. Az ágazat munkahelyeket teremt a vidéki területeken, különösen a hegyvidéki régiókban, ahol a fakitermelés és a feldolgozás a helyi gazdaság gerincét adja.",
+      "factsAdvanced": [
+        "A fűrészüzemek nagy része a kék hegyek (Blue Mountains) lábánál található.",
+        "A jamaicai fenyő (Pinus caribaea) a leggyakrabban feldolgozott fafaj.",
+        "A Forestry Department szigorúan szabályozza a fakitermelési engedélyeket.",
+        "Sok kisüzem szakosodott egyedi kézműves bútorok alapanyagaira.",
+        "A faipar jelentősen hozzájárul a vidéki foglalkoztatáshoz.",
+        "Modern szárítókamrákat használnak a fa minőségének megőrzése érdekében.",
+        "A hulladékfát gyakran használják fel biomassza-energia termelésére.",
+        "Az ültetvényes gazdálkodás biztosítja a hosszú távú alapanyag-ellátást."
+      ]
+    },
+    {
+      "id": "jm-poultry-processing-economic-v2",
+      "descriptionAdvanced": "A jamaicai baromfifeldolgozás az ország élelmiszeriparának egyik legfejlettebb és legszervezettebb ágazata, amely szinte teljes egészében képes kielégíteni a hazai keresletet. Az olyan nagyvállalatok, mint a Jamaica Broilers vagy a Caribbean Broilers, vertikálisan integrált rendszereket működtetnek, a takarmánygyártástól és a keltetéstől kezdve a feldolgozáson át az országos elosztásig. A feldolgozó üzemek megfelelnek a legszigorúbb nemzetközi higiéniai előírásoknak, biztosítva a friss és fagyasztott csirkehús folyamatos ellátását a boltokban és az éttermekben. Ez a szektor nemcsak a közvetlen foglalkoztatásban játszik nagy szerepet, hanem több ezer független gazdának is biztos megélhetést nyújt szerződéses nevelési programokon keresztül. A jamaicai csirkehús kiváló minősége miatt népszerű a fogyasztók körében, és alapvető részét képezi a nemzeti konyhának.",
+      "factsAdvanced": [
+        "A baromfiipar Jamaica mezőgazdasági GDP-jének egyik legnagyobb szelete.",
+        "A Jamaica Broilers Group a régió egyik legnagyobb élelmiszeripari cége.",
+        "Az üzemekben szigorú HACCP és ISO minőségbiztosítási rendszerek működnek.",
+        "A szektor csaknem 100 000 embernek ad munkát közvetve vagy közvetlenül.",
+        "Saját kutatási központok foglalkoznak a genetikai állomány fejlesztésével.",
+        "A feldolgozók jelentős része St. Catherine és St. Elizabeth plébániákban van.",
+        "A jamaicai csirkehús mentes a növekedési hormonoktól.",
+        "A vállalatok jelentős összegeket fektetnek a környezetbarát hulladékkezelésbe."
+      ]
+    },
+    {
+      "id": "jm-bottling-plant-economic-v2",
+      "descriptionAdvanced": "A jamaicai palackozó üzemek, mint például a Pepsi vagy a Coca-Cola helyi partnerei, valamint az olyan hazai márkák, mint a Wisynco, a sziget iparának legdinamikusabb szereplői közé tartoznak. Ezek a létesítmények nemcsak szénsavas üdítőitalokat, hanem ásványvizet, gyümölcsleveket és energiaitalokat is nagy mennyiségben állítanak elő a belföldi és a karibi piacokra. A modern palackozó technológia alkalmazása lehetővé tette a kapacitások jelentős bővítését és a termékpaletta diverzifikálását. Az üzemek kiemelt figyelmet fordítanak a logisztikára és az újrahasznosításra, hiszen a palackvisszaváltási és -újrafeldolgozási programok egyre fontosabbak Jamaica környezetvédelmi céljai szempontjából. A palackozó iparág stabil munkahelyeket kínál, és jelentős befektetéseket vonz a gyártási technológia és az elosztási hálózatok területén.",
+      "factsAdvanced": [
+        "A Wisynco Group Jamaica egyik legmodernebb palackozó üzemét működteti.",
+        "Sok üzem saját kúttal rendelkezik a kiváló minőségű víz biztosításához.",
+        "A jamaicai 'Bigga' üdítőital már nemzetközi hírnévnek örvend.",
+        "Az üzemek nagy kapacitású, automata töltősorokat használnak.",
+        "Jelentős export irányul a környező karibi szigetekre és Panamába.",
+        "A vállalatok aktívan részt vesznek a műanyag hulladék csökkentését célzó projektekben.",
+        "A palackozók többsége a Kingston-Spanish Town ipari tengely mentén található.",
+        "Szigorú élelmiszerbiztonsági és higiéniai kontroll mellett zajlik a gyártás."
+      ]
+    },
+    {
+      "id": "jm-telecom-hub-economic-v2",
+      "descriptionAdvanced": "Jamaica telekommunikációs és digitális központjai, különösen Kingstonban és Montego Bay-ben, a sziget modern gazdaságának alapkövei, amelyek lehetővé teszik a globális összeköttetést és a digitális szolgáltatások terjedését. Az olyan szolgáltatók, mint a Digicel és a Flow, hatalmas összegeket fektettek az optikai hálózatok és az 5G infrastruktúra fejlesztésébe, pozicionálva Jamaicát mint a karibi régió digitális vezetőjét. Ezek a hubok nemcsak az internet- és telefonszolgáltatást biztosítják, hanem bázisai a dinamikusan növekvő BPO (Business Process Outsourcing) szektornak is, ahol tízezrek dolgoznak nemzetközi ügyfélszolgálati és informatikai központokban. A technológiai hubok jelenléte vonzza a startupokat és a nemzetközi tech-vállalatokat, elősegítve a tudásalapú gazdaság fejlődését és a fiatal generációk magas szintű digitális képzését.",
+      "factsAdvanced": [
+        "A Digicel karibi központja egy ultramodern, zöld épület Kingstonban.",
+        "Jamaica rendelkezik az egyik legfejlettebb optikai hálózattal a régióban.",
+        "A BPO szektor több mint 50 000 embert foglalkoztat az országban.",
+        "Több tenger alatti kábelrendszer is befut a jamaicai partokra.",
+        "A kormány kiemelt figyelmet fordít a digitális írástudás fejlesztésére.",
+        "A távközlési szektor a GDP jelentős és növekvő hányadát adja.",
+        "Kingstonban számos technológiai inkubátorház segíti a startupokat.",
+        "Az ország célja, hogy a Karib-térség logisztikai és digitális csomópontjává váljon."
+      ]
+    },
+    {
+      "id": "jm-solar-farm-economic-v2",
+      "descriptionAdvanced": "Jamaica napenergia-parkjai, mint például a Paradise Park Westmorelandben, az ország fenntartható energiára való átállásának leglátványosabb eredményei. Ezek a nagyszabású beruházások kihasználják a sziget bőséges napsütéses óráit, hogy tiszta és olcsó elektromos áramot tápláljanak az országos hálózatba. A napenergia-projektek jelentősen csökkentik Jamaica függőségét az importált fosszilis tüzelőanyagoktól, és hozzájárulnak a szén-dioxid-kibocsátás mérsékléséhez. A modern fotovoltaikus technológia alkalmazása mellett a parkok üzemeltetése minimális környezeti hatással jár, és gyakran mezőgazdasági területekkel kombinálva (agrivoltaics) működik. A kormány kedvező szabályozási környezettel és adókedvezményekkel ösztönzi az újabb napenergia-beruházásokat, célul tűzve ki, hogy Jamaica váljon a karibi régió zöldenergia-központjává.",
+      "factsAdvanced": [
+        "A Paradise Park Jamaica és a régió egyik legnagyobb napenergia-farmja.",
+        "Több mint 130 000 napelem-panellel rendelkezik a legnagyobb létesítmény.",
+        "Évente több tízezer tonna szén-dioxid-kibocsátást váltanak ki.",
+        "A napenergia-termelés költsége mára versenyképes a hagyományos forrásokkal.",
+        "A projektek gyakran nemzetközi fejlesztési bankok támogatásával valósulnak meg.",
+        "A napelemek elrendezése optimalizált a maximális beesési szög érdekében.",
+        "A farmok üzemeltetése alacsony fenntartási költséggel jár a kiépítés után.",
+        "Helyi mérnökök és technikusok számára biztosítanak speciális munkalehetőséget."
+      ]
+    },
+    {
+      "id": "jm-airport-cargo-economic-v2",
+      "descriptionAdvanced": "A jamaicai repülőtéri teherforgalmi terminálok, különösen a Norman Manley (Kingston) és a Sangster (Montego Bay) nemzetközi repülőtereken, a sziget globális kereskedelmének gyorsreagálású kapui. Ezek a létesítmények kritikus szerepet játszanak a gyorsan romló áruk, mint a friss tengeri halak, egzotikus gyümölcsök és vágott virágok exportjában, valamint a sürgős ipari alkatrészek és gyógyszerek importjában. A terminálok modern hűtőházakkal, szigorú vámkezelési rendszerekkel és biztonsági berendezésekkel vannak felszerelve a hatékony árukezelés érdekében. A légi áruszállítás bővülése elengedhetetlen a jamaicai exportőrök számára, hogy elérjék az észak-amerikai és európai piacokat a lehető legrövidebb idő alatt. A repülőtéri cargo-logisztika fejlődése szorosan összefügg a sziget azon törekvésével, hogy a Karib-térség logisztikai csomópontjává (Hub) váljon.",
+      "factsAdvanced": [
+        "A Norman Manley repülőtér kezeli a legtöbb ipari és mezőgazdasági árut.",
+        "Modern hideglánc-logisztikai központok működnek a terminálok mellett.",
+        "A gyorsan romló áruk (perishables) teszik ki az export jelentős részét.",
+        "Szigorú nemzetközi repülésbiztonsági előírások vonatkoznak a rakományokra.",
+        "Speciális állat- és növényegészségügyi ellenőrző pontü üzemelnek a helyszínen.",
+        "A cargo-járatok közvetlen kapcsolatot biztosítanak Miamihoz és Londonhoz.",
+        "A terminálok kapacitását folyamatosan bővítik a növekvő igények miatt.",
+        "A digitalizált vámkezelés jelentősen gyorsítja az áruk átfutási idejét."
+      ]
+    },
+    {
+      "id": "jm-mineral-terminal-economic-v2",
+      "descriptionAdvanced": "A jamaicai ásványianyag-terminálok speciális kikötői létesítmények, amelyeket a bauxiton kívüli egyéb nyersanyagok, például mészkő, gipsz és adalékanyagok exportjára terveztek. Ezek a terminálok, mint például a Rocky Point-i, kulcsfontosságúak az ország bányászati diverzifikációja szempontjából, lehetővé téve a nagy tömegű nyersanyagok hatékony hajóra rakodását. A terminálok infrastruktúrája speciális silókból, nagy teherbírású futószalagokból és mélyvízi mólókból áll, amelyek képesek kiszolgálni a nemzetközi építőipari piacok igényeit. Az ásványkincsek exportja stabil bevételi forrást jelent a gazdaságnak, miközben a terminálok technológiai fejlesztése folyamatos a környezeti terhelés csökkentése és a rakodási sebesség növelése érdekében. Ezek a pontok kötik össze a jamaicai bányákat a globális ellátási láncokkal.",
+      "factsAdvanced": [
+        "A Rocky Point-i terminál elsősorban a mészkőexport központja.",
+        "Saját, nagy kapacitású rakodókarokkal rendelkeznek az ömlesztett árukhoz.",
+        "A mészkövet a környező bányákból teherautókkal szállítják ide.",
+        "A terminálok elhelyezkedése védi a hajókat a nyílt tengeri áramlatoktól.",
+        "Jelentős mennyiségű gipszet is exportálnak az amerikai piacra.",
+        "A kikötői üzemeltetés megfelel a nemzetközi tengerészeti előírásoknak.",
+        "A terminálok fontos munkaadók a part menti közösségekben.",
+        "Folyamatos beruházások történnek a pormentes rakodási technológiákba."
+      ]
+    },
+    {
+      "id": "jm-agri-processing-economic-v2",
+      "descriptionAdvanced": "A jamaicai mezőgazdasági feldolgozó üzemek a sziget terményeinek hozzáadott értékét növelik, friss alapanyagokból tartós élelmiszereket, szószokat, fűszerkeverékeket és konzerveket előállítva. Az olyan márkák, mint a GraceKennedy, világszerte ismertek, feldolgozóikban pedig a tradicionális jamaicai ízeket (mint a jerk fűszerezés vagy az ackee) modern technológiával csomagolják. Ezek az üzemek hidat képeznek a kistermelők és a globális kereskedelem között, biztos piacot nyújtva a gazdáknak és fenntartva az élelmiszerbiztonságot. A feldolgozóipar fejlődése kulcsfontosságú az export növeléséhez, hiszen a feldolgozott termékek könnyebben szállíthatók és hosszabb ideig tárolhatók. Az innováció, mint például a fagyasztva szárítás vagy az új típusú csomagolások, lehetővé teszi, hogy a jamaicai termékek a világ legigényesebb szupermarketjeiben is megjelenjenek.",
+      "factsAdvanced": [
+        "Az ackee konzerválása szigorú élelmiszerbiztonsági szabályokhoz kötött.",
+        "A jerk szószok exportja az egyik leggyorsabban növekvő szegmens.",
+        "A feldolgozó üzemek nagy része Kingstonban és St. Catherine-ben települt.",
+        "Sok üzem rendelkezik nemzetközi minőségügyi tanúsítvánnyal (pl. FSSC 22000).",
+        "A kormány támogatja az értékteremtő mezőgazdasági beruházásokat.",
+        "Az ágazat jelentősen hozzájárul az ország exportbevételeihez.",
+        "A feldolgozás során melléktermékként keletkező hulladékot gyakran takarmányként hasznosítják.",
+        "A helyi alapanyagok használata prioritást élvez a gyártás során."
+      ]
+    },
+    {
+      "id": "jm-water-works-economic-v2",
+      "descriptionAdvanced": "Jamaica vízművei és vízkezelő létesítményei az ország legalapvetőbb közműszolgáltatását biztosítják, kezelve a sziget bőséges, de egyenlőtlen eloszlású vízkészleteit. A National Water Commission (NWC) által üzemeltetett gátak, víztisztító telepek és szivattyúállomások elengedhetetlenek a lakosság, az ipar és a mezőgazdaság ellátásához. Az olyan nagy tározók, mint a Hermitage vagy a Mona Reservoir, a száraz évszakban is biztosítják a főváros vízellátását. A modern technológiák, mint a sótalanító üzemek vagy a szennyvíz-újrahasznosítás, egyre fontosabbá válnak a klímaváltozás hatásainak mérséklése érdekében. A vízügyi infrastruktúra folyamatos karbantartása és fejlesztése stratégiai jelentőségű, hiszen a tiszta vízhez való hozzáférés alapvető feltétele a gazdasági növekedésnek és a közegészségügy fenntartásának.",
+      "factsAdvanced": [
+        "A Mona Reservoir Kingston legfontosabb felszíni víztározója.",
+        "A Hermitage-gátat az 1920-as években építették a főváros ellátására.",
+        "Jamaica jelentős föld alatti karsztvízkészletekkel rendelkezik.",
+        "Az NWC folyamatosan korszerűsíti a szivattyútelepek energiahatékonyságát.",
+        "A víztisztítás során modern klórozási és szűrési eljárásokat alkalmaznak.",
+        "A csőhálózatok cseréje kiemelt prioritás a veszteségek csökkentése érdekében.",
+        "Több kisebb sótalanító egység működik a szárazabb partmenti területeken.",
+        "A vízminőség-ellenőrzést független laboratóriumok is végzik."
+      ]
+    },
+    {
+      "id": "jm-fruit-packhouse-economic-v2",
+      "descriptionAdvanced": "A jamaicai gyümölcscsomagoló központok a mezőgazdasági export-logisztika elsődleges állomásai, ahol a frissen betakarított terményeket válogatják, tisztítják és a nemzetközi szabványoknak megfelelően csomagolják. Ezek a packhouse-ok kritikusak az olyan exporttermékek esetében, mint a mangó, a papaya and a különféle citrusfélék, mivel itt dől el a termék piaci értéke és eltarthatósága. A modern létesítményekben hideglánc-kezelés zajlik, biztosítva, hogy a gyümölcsök a lehető legfrissebb állapotban kerüljenek a repülőgépekre vagy hajókra. A csomagolóházak szoros kapcsolatban állnak a helyi gazdákkal, oktatást és technikai támogatást nyújtva nekik a minőségi követelmények betartásához. Az ágazat fejlődése lehetővé teszi, hogy Jamaica egyre szélesebb körben juttassa el egzotikus gyümölcseit a globális prémium piacokra.",
+      "factsAdvanced": [
+        "A csomagolóházakban szigorú növényegészségügyi ellenőrzés zajlik.",
+        "A mangóexport esetében speciális melegvizes kezelést (HWT) alkalmaznak a kártevők ellen.",
+        "A legtöbb ilyen központ St. Catherine és Clarendon mezőgazdasági övezeteiben található.",
+        "A csomagolás során környezetbarát és újrahasznosítható anyagokat preferálnak.",
+        "Közvetlen kapcsolatban állnak a repülőtéri cargo-terminálokkal.",
+        "A válogatást gyakran kézzel végzik a gyümölcsök épségének megőrzése érdekében.",
+        "Jelentős mennyiségű papayát szállítanak innen az észak-amerikai piacokra.",
+        "A létesítmények megfelelnek a GlobalG.A.P. és más nemzetközi tanúsítványoknak."
+      ]
+    },
+    {
+      "id": "jm-shipyard-economic-v2",
+      "descriptionAdvanced": "Jamaica hajójavító üzemei és tengeri szervizközpontjai a Karib-térség központi elhelyezkedését kihasználva nyújtanak alapvető szolgáltatásokat a nemzetközi kereskedelmi flották és a helyi hajótulajdonosok számára. A Kingston Harbour területén található dokkok képesek kisebb és közepes méretű teherhajók, halászhajók és jachtok javítására, karbantartására és felújítására. A szakképzett munkaerő, a hegesztők, gépészek és hajómérnökök jelenléte vonzóvá teszi a szigetet a tranzitforgalom számára. A kormány célja a hajójavító kapacitások bővítése, beleértve a szárazdokkok modernizálását, hogy nagyobb hajókat is fogadhassanak. Ez az ágazat nemcsak devizabevételt termel, hanem elősegíti a tengerészeti szakértelem fejlődését és erősíti Jamaica pozícióját mint regionális tengeri szolgáltató központ.",
+      "factsAdvanced": [
+        "A hajógyárak elsősorban Kingston védett öblében koncentrálódnak.",
+        "Szolgáltatásaik közé tartozik a hajótest tisztítása és a motorjavítás is.",
+        "Fontos bázisai a helyi halászflotta karbantartásának.",
+        "A jachtszerviz egyre népszerűbb a Montego Bay-i és Port Antonio-i kikötőkben.",
+        "Szigorú környezetvédelmi szabályok vonatkoznak a tengeri festékhasználatra.",
+        "A szakképzésben szoros együttműködés van a Caribbean Maritime University-vel.",
+        "A hajójavítás a kék gazdaság (Blue Economy) egyik fontos pillére.",
+        "A kikötői daruk és emelőberendezések folyamatos fejlesztés alatt állnak."
+      ]
+    },
+    {
+      "id": "jm-bio-fuel-plant-economic-v2",
+      "descriptionAdvanced": "A jamaicai bioüzemanyag-üzemek az ország zöldenergia-stratégiájának fontos részét képezik, a mezőgazdasági hulladékot és a cukornádat megújuló energiaforrássá alakítva. Az etanol-előállítás, amely szorosan kapcsolódik a cukoriparhoz, nemcsak az üzemanyag-adalékok piacát szolgálja ki, hanem csökkenti a közlekedési szektor szén-dioxid-kibocsátását is. A modern biofinomítók képesek különféle alapanyagok, például pálmaolaj vagy használt sütőolaj feldolgozására is biodízel előállítása céljából. Ez az iparág elősegíti az energiafüggetlenséget és új piaci lehetőségeket teremt a mezőgazdaság számára. A kutatás-fejlesztés során a hangsúly a második generációs bioüzemanyagokon van, amelyek nem élelmiszer-alapú növényekből készülnek, így nem veszélyeztetik az élelmiszerbiztonságot, miközben fenntartható alternatívát nyújtanak a fosszilis tüzelőanyagokkal szemben.",
+      "factsAdvanced": [
+        "Az etanolgyártás alapanyaga elsősorban a cukornád melasz.",
+        "Jamaica célja az üzemanyagok bio-összetevőinek arányának növelése.",
+        "A bioüzemanyagok használata javítja a levegőminőséget a városokban.",
+        "Kísérleti projektek zajlanak algákból történő üzemanyag-előállításra is.",
+        "A gyárak gyakran saját bioenergiát termelnek a működésükhöz.",
+        "Jelentős exportlehetőségek vannak az amerikai és európai piacokon.",
+        "A technológiai transzfer révén modern európai és brazil eljárásokat alkalmaznak.",
+        "Az ágazat támogatja a mezőgazdaság diverzifikációját és modernizálását."
+      ]
+    }
+  ]
+}

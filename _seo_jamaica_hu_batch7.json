@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "glistening-waters-nature-v2",
+      "descriptionAdvanced": "A Glistening Waters (Fénylő Vizek) Luminous Lagoon Falmouth közelében Jamaica és a világ egyik legritkább és leglátványosabb természeti csodája. Az öböl vize különleges, mikroszkopikus organizmusoknak (dinoflagellátáknak) ad otthont, amelyek érintésre vagy mozgásra intenzív kékes-neonfényű fényt bocsátanak ki. Ez a biolumineszcencia akkor a leglátványosabb, amikor a sötét éjszakában a hajók motorja vagy az úszók mozgása felkavarja a vizet, misztikus fénybe borítva mindent. A Glistening Waters ökoszisztémája rendkívül érzékeny, a folyóvíz és a tengeri víz találkozása ideális környezetet teremt e parányi lények számára, felejthetetlen élményt nyújtva a látogatóknak.",
+      "factsAdvanced": [
+        "Ez az öböl a világ azon kevés helyének egyike, ahol a biolumineszcencia egész évben megfigyelhető.",
+        "A fénylést a Pyrodinium bahamense nevű egysejtű organizmusok okozzák.",
+        "A víz sekély és meleg, ami kedvez a mikroorganizmusok elszaporodásának.",
+        "Az öböl ott található, ahol a Martha Brae folyó találkozik a tengerrel.",
+        "A látogatók számára éjszakai csónaktúrákat szerveznek, és úszni is lehet a fénylő vízben.",
+        "A biolumineszcencia intenzitása függ a csapadékmennyiségtől és a holdfázistól is.",
+        "A terület szigorú környezetvédelmi szabályozás alatt áll a vízminőség megőrzése érdekében.",
+        "A Glistening Waters Jamaica egyik legtöbbet fotózott és legkülönlegesebb turisztikai látványossága."
+      ]
+    },
+    {
+      "id": "alligator-pond-river-nature-v2",
+      "descriptionAdvanced": "Az Alligator Pond folyó és a hozzá tartozó tengerparti övezet St. Elizabeth és Manchester plébániák határán Jamaica egyik legautentikusabb halászati és természeti területe. A folyó kristálytiszta vize a mészkőhegyekből fakad és egy rövid szakaszon kanyarog a tengerig, ahol a 'Little Ochie' nevű híres halászfalu található. A terület híres vadregényes, fekete homokos partjáról és a tenger nyers erejéről, amely éles kontrasztban áll a folyó békés folyásával. Az Alligator Pond nemcsak a gasztronómia kedvelőinek paradicsoma, hanem fontos ökológiai terület is, ahol a folyami és tengeri élővilág zavartalanul létezik egymás mellett a modern turizmustól távolabb eső déli parton.",
+      "factsAdvanced": [
+        "A folyó neve ellenére ma már ritkán látni krokodilokat a környéken.",
+        "Híres a jéghideg forrásvizéről, amely közvetlenül a forró homokos part mellett folyik.",
+        "Az Alligator Pond-i strand Jamaica egyik legnagyobb kézműves halászkikötője.",
+        "A terület a Canoe Valley Természetvédelmi Park szomszédságában fekszik.",
+        "A tengerparti sziklákban számos kisebb barlang és üreg található.",
+        "Kedvelt helyszíne a hétvégi családi piknikeknek és a friss tengeri ételek fogyasztásának.",
+        "A folyó torkolata fontos ívóhelye több tengeri halfajnak.",
+        "Az Alligator Pond környéke mentes a nagy szállodakomplexumoktól, megőrizve a sziget eredeti arcát."
+      ]
+    },
+    {
+      "id": "somerset-falls-nature-v2",
+      "descriptionAdvanced": "A Somerset Falls Portland plébániában, Port Antonio közelében Jamaica egyik legrejtettebb és legromantikusabb vízesés-rendszere. A vízesést a Daniels-folyó táplálja, amely buja trópusi esőerdőn keresztül zúdul alá, majd egy misztikus, barlangszerű szurdokban tűnik el. A látogatók egy kis csónaktúrával juthatnak be a sziklák közé, ahol a 'Hidden Falls' (Rejtett Vízesés) dübörög a félhomályban, lenyűgöző látványt nyújtva a smaragdzöld mohával borított falak között. A Somerset Falls környéke egy gyönyörűen parkosított botanikus kert, ahol a természet ereje és a gondozott környezet nyugalma találkozik, ideális menedéket nyújtva a kikapcsolódásra vágyóknak.",
+      "factsAdvanced": [
+        "A vízesés egy egykori nagy cukornádültetvény területén található.",
+        "A 'Hidden Falls' csak csónakkal érhető el a fő folyómedren keresztül.",
+        "A víz rendkívül tiszta és hűvös, ideális a frissítő fürdőzésre.",
+        "A vízesések körüli sziklákban ritka trópusi páfrányok és orchideák élnek.",
+        "A területen számos egzotikus madárfaj, köztük papagájok is megfigyelhetők.",
+        "A Somerset Falls Jamaica egyik legrégebbi és legkedveltebb természeti látványossága.",
+        "A folyó mentén több kisebb természetes úszómedencét is kialakítottak a látogatóknak.",
+        "A helyszín híres a békés és tiszteletteljes atmoszférájáról."
+      ]
+    },
+    {
+      "id": "roaring-river-nature-v2",
+      "descriptionAdvanced": "A Roaring River (Üvöltő-folyó) Westmoreland plébániában egy különleges természeti és kulturális helyszín, amely híres föld alatti forrásairól és monumentális mészkőbarlangjairól. A folyó vize egy hatalmas barlangrendszer mélyéből bukkan elő, majd tiszta és sebes folyásával táplálja a környező dús vegetációt. A látogatók felfedezhetik a barlangokat, ahol természetes forrásvízű medencékben fürödhetnek a cseppkövek árnyékában, és megismerhetik a helyi közösség legendáit, amelyek a folyóhoz fűződnek. A Roaring River park és botanikus kert Jamaica egyik legszebb rejtett kincse, ahol a geológiai ritkaságok és a trópusi flóra gazdagsága egyedülálló élményt nyújt az utazóknak.",
+      "factsAdvanced": [
+        "A folyó egy egykori brit ültetvényes, William Beckford birtokán található.",
+        "A barlangrendszerben található medencék vize állítólag gyógyhatású.",
+        "Itt található Jamaica egyik legnagyobb és legöregebb pamut fája (Cotton Tree).",
+        "A terület a közösségi alapú turizmus egyik sikeres példája a szigeten.",
+        "A barlangokban ritka karsztképződmények és denevérkolóniák figyelhetők meg.",
+        "A Roaring River vizét egykor cukormalmok meghajtására használták.",
+        "A környék híres a gazdag néprajzi hagyományairól és a gyógyfüves orvoslásról.",
+        "A folyó völgye az ország egyik legfontosabb botanikai gyűjtőhelye."
+      ]
+    },
+    {
+      "id": "blue-mountain-peak-relief-v2",
+      "descriptionAdvanced": "A Blue Mountain Peak Jamaica legmagasabb pontja, amely 2256 méterrel magasodik a tengerszint fölé, uralva a sziget keleti részének látképét. A csúcs a Blue and John Crow Mountains Nemzeti Park szívében található, amely az UNESCO világörökség része. A hegy híres hűvös, gyakran ködbe burkolózó klímájáról, amely lehetővé teszi a különleges hegyi köderdők és számos endemikus növényfaj fennmaradását. A csúcsra vezető túra az ország egyik legnépszerűbb és legnehezebb fizikai kihívása, amelyet gyakran éjszaka teljesítenek, hogy a túrázók napfelkeltekor érjenek fel, és tiszta időben megcsodálhassák a sziget egészét, sőt, néha még Kuba távoli körvonalait is. Ez a fenséges hegycsúcs Jamaica nemzeti büszkeségének és természeti erejének legfőbb szimbóluma.",
+      "factsAdvanced": [
+        "A csúcs tengerszint feletti magassága pontosan 2256 méter.",
+        "Tiszta hajnalokon az északra fekvő Kuba partjai is láthatóak a csúcsról.",
+        "A hegység Jamaica legöregebb kőzeteiből, kréta kori vulkáni maradványokból áll.",
+        "Itt él a világ egyik legnagyobb pillangója, a jamaicai fecskefarkú pillangó.",
+        "A csúcson a hőmérséklet fagypont közelébe is süllyedhet, ami ritka a trópusokon.",
+        "A hegy oldalában termesztik a világ egyik legdrágább kávéját (Blue Mountain Coffee).",
+        "A csúcsra vezető túraösvény körülbelül 11 kilométer hosszú.",
+        "A terület több mint 500 endemikus virágos növényfajnak ad otthont."
+      ]
+    },
+    {
+      "id": "sir-john-peak-relief-v2",
+      "descriptionAdvanced": "A Sir John Peak a Blue Mountains hegylánc egyik legmagasabb és legfontosabb csúcsa, amely a főcsúcstól nyugatra helyezkedik el. A több mint 1800 méteres magasságával ez a hegy meghatározó eleme a St. Andrew plébánia feletti horizontnak. A csúcs és a környező gerincek sűrű esőerdőkkel borítottak, amelyekben számos ritka orchidea és páfrányfaj található. Sir John Peak neve szorosan összefonódik Jamaica korai brit gyarmati és botanikai kutatásaival, ma pedig a Nemzeti Park egyik legfontosabb természetvédelmi magzónáját alkotja. A hegység ezen szakasza kulcsfontosságú vízgyűjtő terület Kingston és környéke számára, biztosítva a főváros ivóvízellátását a tiszta hegyi patakokon keresztül.",
+      "factsAdvanced": [
+        "A csúcs magassága meghaladja az 1860 métert a tengerszint felett.",
+        "Névadója Sir John Peter Grant, Jamaica egykori brit kormányzója.",
+        "A hegy erdeiben található az ország egyik legfontosabb endemikus madár-élőhelye.",
+        "Itt mérték Jamaica egyik legalacsonyabb évi középhőmérsékletét.",
+        "A csúcs környéke népszerű célpontja a tapasztalt hegyi túrázóknak.",
+        "A terület geológiailag rendkívül stabil mészkő- és vulkáni kőzetkeverék.",
+        "Sir John Peak fontos állomása a hegyi felhőerdők kutatásának.",
+        "A hegyről tiszta időben pazar kilátás nyílik a kingstoni öbölre."
+      ]
+    },
+    {
+      "id": "high-peak-relief-v2",
+      "descriptionAdvanced": "A High Peak Jamaica középső hegyvidékének egyik markáns csúcsa, amely kiemelkedik a környező dombságokból, fontos tájékozódási pontot nyújtva Manchester és Clarendon határán. Ez a hegyvidéki terület híres termékeny, vörös mészkőtalajáról és a hűvös, párás levegőről, amely ideális a hagyományos jamaicai mezőgazdaság számára. A High Peak környéke gazdag karsztformációkban, barlangokban és víznyelőkben, amelyek Jamaica bonyolult föld alatti vízhálózatának részét képezik. A csúcsról és a környező fennsíkokról belátni a sziget déli síkságait, bemutatva Jamaica domborzatának változatos és drámai átmeneteit a tengerpart és a belső hegyek között.",
+      "factsAdvanced": [
+        "A High Peak a sziget belső mészkőfennsíkjának egyik legmagasabb pontja.",
+        "A terület híres a kiterjedt bauxitkészleteiről, amelyek meghatározzák a régió gazdaságát.",
+        "A hegy lejtőin kiváló minőségű citrusféléket és kávét termesztenek.",
+        "Fontos szerepet játszik a déli síkságok vízgyűjtő területeként.",
+        "A csúcs környékén számos ritka, szárazságtűrő endemikus növényfaj él.",
+        "A High Peak északról védi a déli partot a hidegebb északnyugati szelektől.",
+        "A hegy oldalában több kisebb vízesés is található a csapadékos időszakokban.",
+        "A terület kedvelt helyszíne a természetjáró és geológiai túráknak."
+      ]
+    },
+    {
+      "id": "mossmans-peak-relief-v2",
+      "descriptionAdvanced": "A Mossmans Peak a Blue Mountains keleti részének egyik látványos csúcsa, amely Portland plébánia határán emelkedik a magasba. Ez a hegyvidéki terület Jamaica legvadabb és legnehezebben megközelíthető esőerdőit rejti, ahol a természet érintetlensége szinte teljes. A Mossmans Peak híres a rendkívül gazdag biodiverzitásáról, különösen a mohák, páfrányok és broméliák sokféleségéről, amelyek a folyamatos párás, felhős klímán virulnak. A hegység ezen része fontos menedéke Jamaica ritka endemikus madarainak, és stratégiai fontosságú vízgyűjtőként szolgál az északkeleti partvidék folyói számára. A csúcs megmászása csak a legfelkészültebb túrázóknak ajánlott, igazi kalandot kínálva az érintetlen trópusi vadon mélyén.",
+      "factsAdvanced": [
+        "A csúcs magassága körülbelül 1700 méter felett van.",
+        "Itt található Jamaica egyik legfontosabb érintetlen hegyi esőerdője.",
+        "A terület a Blue and John Crow Mountains UNESCO világörökségi övezetének része.",
+        "Híres a ritka hegyi madarak, köztük a jamaicai galamb fészkelőhelyeiről.",
+        "A Mossmans Peak környéke kapja az egyik legtöbb csapadékot a szigeten.",
+        "A hegy kőzetei értékes információkkal szolgálnak a Karib-lemez kialakulásáról.",
+        "A területen számos olyan növényfaj él, amelyet csak a 20. század végén fedeztek fel.",
+        "A csúcsról lélegzetelállító kilátás nyílik az északi partvidék öbleire."
+      ]
+    },
+    {
+      "id": "middle-peak-relief-v2",
+      "descriptionAdvanced": "A Middle Peak a Blue Mountains központi gerincének egyik meghatározó csúcsa, amely nevéhez hűen a hegylánc főbb vonulatai között helyezkedik el. Ez a magaslati pont kritikus fontosságú az ökológiai folyosók szempontjából, összekötve a keleti és nyugati hegyvidéki élőhelyeket. A Middle Peak környezete tipikus hegyi köderdő, ahol a fák ágait sűrű szakállzuzmók és epifita növények borítják. A terület a természetvédelem egyik legfontosabb bástyája, ahol szigorú kutatási programok folynak a klímaváltozás magaslati élővilágra gyakorolt hatásairól. A csúcsról nyíló panoráma segít megérteni a Blue Mountains bonyolult, mély völgyekkel szabdalt szerkezetét és Jamaica domborzati sokszínűségét.",
+      "factsAdvanced": [
+        "A csúcs tengerszint feletti magassága körülbelül 1800 méter.",
+        "A Middle Peak Jamaica egyik legfontosabb endemikus növénymegőrző területe.",
+        "Fontos szerepet játszik a sziget éghajlati egyensúlyának fenntartásában.",
+        "A területen számos tiszta vizű hegyi forrás ered.",
+        "Híres a különleges, kisméretű hegyi madarairól és pillangóiról.",
+        "A csúcsra vezető utak gyakran régi maron ösvényeket követnek.",
+        "A Middle Peak erdei alapvető fontosságúak a talajerózió elleni védekezésben.",
+        "A terület látogatása szigorúan szabályozott a természetvédelmi zóna megóvása érdekében."
+      ]
+    },
+    {
+      "id": "sugar-loaf-peak-relief-v2",
+      "descriptionAdvanced": "A Sugar Loaf Peak (Süveg-hegy) Jamaica egyik legjellegzetesebb alakú hegycsúcsa a Blue Mountains déli vonulatában, St. Andrew plébániában. Nevét meredek, kúpszerű formájáról kapta, amely messziről is jól felismerhetővé teszi a hegység vonulatai között. A csúcs környezete rendkívül változatos: a szárazabb déli lejtők és a párásabb völgyek találkozása egyedi mikroklímát hoz létre, ahol a trópusi flóra számos variációja megtalálható. A Sugar Loaf Peak népszerű célpontja a kingstoni természetjáróknak, mivel viszonylag közel fekszik a fővároshoz, mégis valódi hegyvidéki élményt nyújt. A hegycsúcs nemcsak esztétikai értékkel bír, hanem fontos szerepet játszik a környék helyi vízgyűjtő rendszerében is.",
+      "factsAdvanced": [
+        "A csúcs alakja a 19. századi tengerészek számára is fontos navigációs pont volt.",
+        "Magassága körülbelül 1300 méter a tengerszint felett.",
+        "A hegy lejtőin számos kistermelői kávéültetvény található.",
+        "Itt található a sziget egyik legészakibb pontja, ahonnan még látható Kingston városa.",
+        "A Sugar Loaf Peak kőzetei gazdagok különféle ásványi anyagokban.",
+        "A hegycsúcs körül gyakran alakulnak ki látványos felhőformációk.",
+        "A terület fontos élőhelye a jamaicai énekesmadaraknak.",
+        "A csúcsra vezető túraösvények keresztülhaladnak régi ültetvényes utak maradványain."
+      ]
+    },
+    {
+      "id": "john-crow-mountains-relief-v2",
+      "descriptionAdvanced": "A John Crow-hegység Jamaica legkeletibb és legtitokzatosabb hegylánca Portland plébániában, amely a Blue Mountains hegységgel párhuzamosan fut a tengerpart felé. Ez a terület Jamaica egyik legvadabb vidéke, amelyet meredek mészkőszirtek, mély víznyelők és szinte áthatolhatatlan esőerdők jellemeznek. A hegység nevét a barna keselyűkről (helyi nevén John Crow) kapta, amelyek gyakran keringenek a csúcsok felett. A John Crow-hegység az UNESCO világörökség része, nemcsak természeti értékei, hanem történelmi jelentősége miatt is: évszázadokon át a szökött rabszolgák, a maronok legyőzhetetlen menedéke volt. A terület érintetlensége és rendkívüli biodiverzitása miatt a John Crow-hegység a biológusok és a kalandvágyó felfedezők egyik utolsó igazi paradicsoma a Karib-térségben.",
+      "factsAdvanced": [
+        "A hegység legmagasabb pontja körülbelül 1140 méter.",
+        "Ez Jamaica legcsapadékosabb területe, éves szinten akár 7000 mm esővel.",
+        "A John Crow-hegység erdei több mint 300 endemikus növényfajnak adnak otthont.",
+        "Itt található a Karib-térség legnagyobb összefüggő érintetlen mészkőerdője.",
+        "A terület központi szerepet játszott a Nanny-féle maron ellenállásban.",
+        "A hegység vizeiből táplálkoznak a híres északkeleti parti folyók, mint a Rio Grande.",
+        "Híres a különleges tölcséres broméliáiról, amelyekben sajátos vízi világ él.",
+        "A John Crow-hegység Jamaica egyik legfontosabb szén-dioxid-elnyelő övezete."
+      ]
+    },
+    {
+      "id": "mount-diablo-relief-v2",
+      "descriptionAdvanced": "A Mount Diablo egy monumentális mészkőhegység Jamaica középső részén, St. Catherine és St. Ann plébániák határán, amely stratégiai választóvonalat képez az ország déli és északi része között. A hegységen áthaladó hágó évszázadok óta az egyik legfontosabb és leglátványosabb útvonal a szigeten, ahonnan pazar kilátás nyílik a környező völgyekre és bauxitbányákra. Mount Diablo híres karsztos domborzatáról, víznyelőiről és barlangjairól, amelyek alapvető fontosságúak a sziget belső vízháztartása szempontjából. A hegység magasabb régiói hűvösebb klímát biztosítanak, dús növényzetük pedig fontos menedéket nyújt a helyi vadvilág számára. Mount Diablo Jamaica domborzatának egyik legmeghatározóbb eleme, amely a modern közlekedés és az ipar számára is komoly kihívást és lehetőséget jelent.",
+      "factsAdvanced": [
+        "A hegység legmagasabb pontjai meghaladják a 700 métert.",
+        "Névadója a spanyoloktól származik, a meredek és veszélyes utak miatt nevezték 'Ördög-hegynek'.",
+        "A Mount Diablo-hágó Jamaica egyik legfontosabb közlekedési csomópontja.",
+        "A hegység alatt húzódik Jamaica egyik legnagyobb föld alatti víztározó rendszere.",
+        "A terület híres a kiváló minőségű bauxit- és mészkőkészleteiről.",
+        "A hegység oldalában gyakran láthatók látványos mészkő-formációk és sziklafalak.",
+        "A Mount Diablo-n keresztül vezető út híres a helyi árusokról és a friss gyümölcsökről.",
+        "A hegység fontos ökológiai folyosót alkot az északi és déli part között."
+      ]
+    },
+    {
+      "id": "mount-denham-relief-v2",
+      "descriptionAdvanced": "A Mount Denham Manchester plébánia legmagasabb pontja, amely 989 méteres magasságával Jamaica középső hegyvidékének egyik legfontosabb csúcsa. Ez a hegy a Manchester-fennsík északi peremén helyezkedik el, meghatározva a régió hűvös és csapadékos éghajlatát. Mount Denham környéke híres termékeny talajáról, ahol a sziget legjobb minőségű zöldségeit és burgonyáját termesztik a teraszos lejtőkön. A hegycsúcs és a környező gerincek fontos vízgyűjtő területet alkotnak, táplálva a központi Jamaica számos forrását és patakját. A Mount Denham tetejéről lenyűgöző panoráma nyílik az északi Cockpit Country-ra és a déli síkságokra, bemutatva Jamaica belső vidékeinek harmonikus és békés szépségét.",
+      "factsAdvanced": [
+        "A Mount Denham magassága 989 méter, ezzel Manchester plébánia csúcsa.",
+        "A hegy nevét Sir Edward Denham egykori brit kormányzóról kapta.",
+        "A terület híres a hűvös, hegyvidéki klímájáról, ahol a hőmérséklet jóval alacsonyabb a tengerpartnál.",
+        "Mount Denham környéke Jamaica burgonyatermesztésének (Irish Potato) központja.",
+        "A hegy tetején fontos telekommunikációs adótornyok találhatók.",
+        "A terület gazdag mészkő-barlangokban és karsztos víznyelőkben.",
+        "A Mount Denham erdei fontos fészkelőhelyei a jamaicai énekesmadaraknak.",
+        "A csúcsról tiszta időben az északi és a déli tengerpart is látható."
+      ]
+    },
+    {
+      "id": "pike-peak-relief-v2",
+      "descriptionAdvanced": "A Pike Peak Manchester plébánia egyik karakteres magaslata, amely a sziget középső részén, a mészkőfennsíkok és mély völgyek találkozásánál emelkedik. Ez a hegyvidéki terület Jamaica egyik legfontosabb mezőgazdasági régiója, ahol a gazdák a meredek lejtőkön is sikeresen termesztenek különféle gyökérzöldségeket és citrusféléket. A Pike Peak környéke geológiailag is izgalmas, hiszen a területet számos víznyelő és barlang tarkítja, amelyek elvezetik a bőséges hegyi csapadékot a föld alatti víztározókba. A csúcsról nyíló kilátás bemutatja Manchester plébánia jellegzetes, hullámzó dombvidékét és azokat a békés falvakat, amelyek Jamaica belső vidékeinek gazdasági és kulturális stabilitását adják.",
+      "factsAdvanced": [
+        "A Pike Peak fontos tájékozódási pont a Manchester-fennsík északi részén.",
+        "A hegy környezete híres a sötétvörös, tápanyagban gazdag mészkőtalajáról.",
+        "A területen jelentős kávé- és fűszerpaprika-termesztés folyik.",
+        "A Pike Peak környéke fontos szerepet játszik a sziget élelmiszer-ellátásában.",
+        "A hegy barlangjai közül több is régészeti jelentőséggel bír.",
+        "A Pike Peak csúcsa közelében több friss vizű hegyi forrás is fakad.",
+        "A terület klímája ideális a trópusi gyümölcsök lassú, aromás éréséhez.",
+        "A Pike Peak kedvelt kiindulópontja a hegyi kerékpáros túráknak."
+      ]
+    },
+    {
+      "id": "catadupa-relief-v2",
+      "descriptionAdvanced": "Catadupa egy varázslatos hegyvidéki terület St. James plébánia déli részén, ahol Jamaica egyik leglátványosabb karsztformációi és esőerdői találhatók. Ez a vidék a Cockpit Country peremén fekszik, és híres meredek mészkőhegyeiről, amelyek sűrűn borítottak dús trópusi növényzettel. Catadupa neve a folyami zúgókra és vízesésekre utal, amelyek a hegyekből lezúduló patakok mentén jöttek létre. A terület híres volt egykori vasútvonaláról, amely keresztülvágott a vadregényes tájon, ma pedig az ökoturizmus és a fenntartható mezőgazdaság, különösen a kávétermesztés központja. Catadupa a természet nyers erejének és a jamaicai hegyvidéki élet nyugalmának tökéletes találkozási pontja.",
+      "factsAdvanced": [
+        "Catadupa magasan fekszik a tenger szintje felett, hűvös és csapadékos klímát biztosítva.",
+        "A terület híres a kézműves fafaragóiról és a hagyományos textiltermékeiről.",
+        "Itt termesztik Jamaica egyik legjobb 'High Mountain' kávéját.",
+        "Catadupa barlangjai fontos élőhelyei számos ritka denevérfajnak.",
+        "A területen található vízesések kristálytiszta forrásvízből táplálkoznak.",
+        "A Catadupa-hegység gerincéről belátni a Cockpit Country misztikus kúphegyeire.",
+        "A környék dús növényzete több száz orchideafajnak ad otthont.",
+        "A terület fontos állomása a jamaicai madármegfigyelő túráknak."
+      ]
+    },
+    {
+      "id": "moro-relief-v2",
+      "descriptionAdvanced": "A Moro (vagy El Moro) egy drámai mészkőmagaslat és barlangrendszer Jamaica központi részén, amely nevével is a spanyol gyarmati múltra utal. Ez a terület híres meredek sziklafalaival és bonyolult föld alatti járataival, amelyek évszázadok óta foglalkoztatják a felfedezőket és a helyieket egyaránt. A Moro környéke tipikus jamaicai karsztvidék, ahol a felszíni vizek mély víznyelőkön keresztül tűnnek el, hogy később hatalmas forrásokként bukkanjanak fel a völgyekben. A hegység dús esőerdői és rejtett barlangjai egykor a szabadságkeresők és maronok menedéke volt, ma pedig a biológusok és geológusok fontos kutatási területe, őrizve Jamaica domborzatának legvadabb és legérintetlenebb formáit.",
+      "factsAdvanced": [
+        "A Moro csúcsa kiemelkedik a környező fennsíkokból, pazar kilátópontot nyújtva.",
+        "Itt található Jamaica egyik legmélyebb barlangrendszerének bejárata.",
+        "A terület geológiája a Karib-térség mészkőképződésének klasszikus példája.",
+        "A Moro erdeiben számos endemikus hüllő- és kétéltűfaj él.",
+        "A hegység fontos vízgyűjtő területe a központi Jamaica folyóinak.",
+        "A barlangok falait helyenként ősi Taino barlangrajzok díszítik.",
+        "A Moro környéke híres a különleges, karsztos növénytársulásairól.",
+        "A terület megközelítése csak tapasztalt vezetőkkel, kalandtúra keretében ajánlott."
+      ]
+    },
+    {
+      "id": "nassau-mountains-relief-v2",
+      "descriptionAdvanced": "A Nassau-hegység St. Elizabeth plébániában Jamaica egyik legszebb és gazdaságilag is legjelentősebb mészkőhegysége, amely a festői Nassau-völgyet övezi. A hegység híres meredek sziklagerinceiről és dús esőerdőiről, amelyek kristálytiszta hegyi patakokat és forrásokat táplálnak. A Nassau-hegység lábánál található a világhírű Appleton Estate rumlepárló, amelynek sikere szorosan összefügg a hegységből eredő tiszta vízzel és a völgy különleges mikroklímájával. A hegység nemcsak turisztikai és ipari értékkel bír, hanem fontos ökológiai rezervátum is, ahol számos endemikus növény- és madárfaj talál menedéket, reprezentálva Jamaica belső hegyvidékeinek érintetlen szépségét.",
+      "factsAdvanced": [
+        "A Nassau-hegység magassága több helyen meghaladja a 600 métert.",
+        "Itt található Jamaica egyik legfontosabb karsztvizes forrásvidéke.",
+        "A hegység barlangjai gazdag gipsz- és kalcitkristály lerakódásokban.",
+        "A terület fontos fészkelőhelye a jamaicai papagájoknak és kolibriknek.",
+        "A Nassau-hegység erdei védik a völgyet a szélsőséges időjárási hatásoktól.",
+        "A hegység kőzetei értékes információkkal szolgálnak a sziget geológiai múltjáról.",
+        "A területen számos kistermelői kávé- és kakaóültetvény található.",
+        "A Nassau-hegység gerincéről lélegzetelállító panoráma nyílik a Cockpit Country déli részére."
+      ]
+    },
+    {
+      "id": "don-figuerero-mountains-relief-v2",
+      "descriptionAdvanced": "A Don Figuerero-hegység Manchester plébániában Jamaica egyik legkarakteresebb domborzati egysége, amely drámai falként emelkedik ki a déli part menti síkságokból. A hegység híres hűvös, szárazabb klímájáról és a jellegzetes mészkőfennsíkjairól, amelyek már a gyarmati idők óta kedvelt lakóhelyek és üdülőhelyek. Don Figuerero-hegység fontos mezőgazdasági terület, ahol a mészkő talaj és a magasság ideális feltételeket teremt a zöldségtermesztéshez és az állattenyésztéshez. A hegység déli pereméről pazar kilátás nyílik a Karib-tengerre és a déli part vonulatára, megmutatva Jamaica domborzatának egyik legimpozánsabb átmenetét a tenger és a belső hegyvidék között.",
+      "factsAdvanced": [
+        "A hegység legmagasabb pontjai körülbelül 700 méter felett vannak.",
+        "Nevét állítólag egy korai spanyol telepesről vagy kormányzóról kapta.",
+        "A terület híres a kiváló minőségű legelőiről és a 'Jamaica Hope' szarvasmarhákról.",
+        "A Don Figuerero-hegység fontos vízgyűjtője a Manchester-i felföldnek.",
+        "A hegység lejtőin találhatók Jamaica legfontosabb bauxitbányászati övezetei.",
+        "A területen számos történelmi udvarház és anglikán templom található.",
+        "Híres a tiszta hegyi levegőjéről és a rendkívül alacsony páratartalomról.",
+        "A hegység gerincén vezető út Jamaica egyik legfontosabb közlekedési artériája a déli részen."
+      ]
+    },
+    {
+      "id": "may-day-mountains-relief-v2",
+      "descriptionAdvanced": "A May Day-hegység Manchester plébániában Jamaica középső mészkőfennsíkjának egyik legmagasabb és legfontosabb láncolata, amely meghatározza Mandeville városának és környékének domborzatát. A hegység híres hűvös, esős klímájáról, amely szinte európai hangulatot kölcsönöz a vidéknek, és ideálissá teszi a területet a trópusi kertészkedéshez és a kávétermesztéshez. A May Day-hegység dús erdői és gondozott legelői Jamaica egyik legrendezettebb és legszebb tájképét alkotják. A hegység belső részein számos barlang és víznyelő található, amelyek elengedhetetlenek a sziget vízháztartásához. Ez a terület Jamaica intellektuális és gazdasági stabilitásának egyik központja, ahol a természet szépsége és az emberi munka harmonikus egységben él.",
+      "factsAdvanced": [
+        "A May Day-hegység legmagasabb pontja több mint 800 méter.",
+        "Itt található Mandeville, Jamaica legmagasabban fekvő városa.",
+        "A hegység erdeiben számos endemikus jamaicai orchideafaj él.",
+        "A terület fontos bázisa a jamaicai bauxit- és timföldiparnak.",
+        "Híres a különleges, hűvös mikroklímájáról, ahol gyakoriak a reggeli ködök.",
+        "A May Day-hegység erdei fontos fészkelőhelyei a ritka kék galambnak.",
+        "A hegység lejtőin találhatók a sziget legrégebbi citrusültetvényei.",
+        "A terület a természetjárók és a kényelmes hegyi túrák kedvelt célpontja."
+      ]
+    },
+    {
+      "id": "hellshire-hills-relief-v2",
+      "descriptionAdvanced": "A Hellshire Hills (Hellshire-dombság) St. Catherine plébánia déli partján Jamaica és a Karib-térség egyik legfontosabb és legérintetlenebb száraz trópusi erdőrezervátuma. Ez a karsztos mészkővidék rendkívül zord, forró és száraz környezetet biztosít, ahol egyedülálló, tüskés növénytársulások és ritka állatfajok élnek. A Hellshire Hills a világhírű jamaicai iguana utolsó természetes menedéke, de itt fészkel számos ritka madárfaj is. A terület geológiailag is izgalmas, éles mészkőszikláival és rejtett barlangjaival, amelyek egykor a Taino indiánok és később a maronok rejtekhelyei voltak. A Hellshire Hills védelme stratégiai jelentőségű Jamaica biológiai örökségének megőrzésében és a part menti ökoszisztéma fenntartásában a főváros közvetlen közelében.",
+      "factsAdvanced": [
+        "A Hellshire Hills több mint 100 négyzetkilométernyi védett területet foglal magában.",
+        "Itt található Jamaica legnagyobb és legjobb állapotban fennmaradt száraz trópusi erdője.",
+        "A terület a kritikusan veszélyeztetett jamaicai iguana (Cyclura collei) egyetlen vadon élőhelye.",
+        "A dombság mentes az állandó felszíni vizektől, az élővilág a hajnali párából és az esővízből él.",
+        "A Hellshire Hills barlangjaiban jelentős prekolumbián régészeti leleteket tártak fel.",
+        "A terület a Portland Bight Védett Övezet (PBPA) egyik legértékesebb magzónája.",
+        "A dombság lábánál találhatók a népszerű Hellshire strandok, híres halas éttermeikkel.",
+        "A terület látogatása szigorúan szabályozott a veszélyeztetett fajok védelme érdekében."
+      ]
+    },
+    {
+      "id": "brazilletto-mountains-relief-v2",
+      "descriptionAdvanced": "A Brazilletto-hegység Clarendon plébánia déli partján egy markáns és vadregényes mészkővonulat, amely elválasztja a tengerparti mocsarakat a belső síkságoktól. A hegység nevét a brazilfa (brazilletto) után kapta, amely egykor bőségesen termett a lejtőin, és fontos exportcikk volt a gyarmati időkben. A hegység száraz trópusi erdői és karsztos sziklái gazdag biodiverzitást rejtenek, beleértve ritka hüllőket és endemikus növényeket. A Brazilletto-hegység fontos vízgyűjtő terület a déli part menti források számára, és barlangjaiban gazdag történelmi-régészeti emlékeket őriz. Ez a vidék mentes a tömegturizmustól, megőrizve Jamaica déli részének nyers, érintetlen természeti karakterét.",
+      "factsAdvanced": [
+        "A Brazilletto-hegység legmagasabb pontjai körülbelül 300 méterrel magasodnak a tenger szintje fölé.",
+        "A hegység a Portland Bight Védett Terület (PBPA) szerves részét képezi.",
+        "Híres a Salt River forrásvidékéről, amely a hegység lábánál fakad.",
+        "A hegység erdei fontos fészkelőhelyei a jamaicai papagájoknak.",
+        "A területen található mészkő kiváló minőségű és fontos építőipari alapanyag.",
+        "A hegység barlangjai egykor rabszolgák és maronok menedékeként szolgáltak.",
+        "A Brazilletto-hegység jellegzetes karsztos domborzata távolról is jól felismerhető.",
+        "A terület fontos ökológiai pufferzónát képez az ipari övezetek és a természetvédelmi területek között."
+      ]
+    },
+    {
+      "id": "port-royal-mountains-relief-v2",
+      "descriptionAdvanced": "A Port Royal-hegység egy drámai mészkőhegylánc, amely Kingston keleti határát alkotja, és meredek lejtőivel közvetlenül a tengerbe vész. A hegység nemcsak geológiai védőgátat jelent a főváros számára, hanem Jamaica egyik legfontosabb történelmi és kulturális tájegysége is. A hegyoldalakon kanyargó utak és apró falvak hűvösebb klímát és friss levegőt kínálnak a város zajától távol. A Port Royal-hegység híres dús növényzetéről és rejtett vízeséseiről, valamint a Kék-hegységhez hasonló kávéültetvényeiről. A hegység gerincéről lélegzetelállító kilátás nyílik a kingstoni kikötőre, Port Royalra és a végtelen Karib-tengerre, emlékeztetve az utazókat a sziget és a főváros szoros kapcsolatára a természettel.",
+      "factsAdvanced": [
+        "A Port Royal-hegység legmagasabb pontjai meghaladják a 600 métert.",
+        "A hegység közvetlenül határos a Blue and John Crow Mountains Nemzeti Parkkal.",
+        "Itt található a híres Mavis Bank kávéfeldolgozó üzem közelében több ültetvény is.",
+        "A terület fontos fészkelőhelye a vándorló énekesmadaraknak.",
+        "A hegység lejtőin számos történelmi erődítmény és megfigyelőpont maradványa látható.",
+        "A Port Royal-hegység völgyeiben több kristálytiszta folyó és patak ered.",
+        "A hegység gerincén futó utak Jamaica leglátványosabb panorámaútjai közé tartoznak.",
+        "A terület védelme alapvető fontosságú Kingston mikroklímájának szabályozásában."
+      ]
+    },
+    {
+      "id": "cockpit-country-relief-v2",
+      "descriptionAdvanced": "A Cockpit Country Jamaica és az egész Karib-térség legkülönlegesebb és legvadabb mészkő-karsztvidéke, amely Trelawny, St. James és St. Elizabeth plébániák területén húzódik. Ez a hatalmas, áthatolhatatlan terület mély víznyelőkből (úgynevezett 'cockpits') és meredek kúphegyekből áll, amelyek egyedülálló, holdbéli tájat hoznak létre. A Cockpit Country Jamaica biodiverzitásának szentélye: az itt élő növény- és állatfajok jelentős része endemikus, és csak ezen a területen található meg. Történelmileg ez a vidék volt a maronok bevehetetlen erődítménye, ahol a britek évszázadokon át képtelenek voltak győzelmet aratni. Ma a Cockpit Country szigorúan védett terület, amely alapvető fontosságú a sziget ivóvízkészleteinek megőrzéséhez és az ökológiai egyensúly fenntartásához.",
+      "factsAdvanced": [
+        "A Cockpit Country több mint 500 négyzetkilométeren terül el.",
+        "Itt található Jamaica legmagasabb endemikus fajsűrűsége.",
+        "A terület biztosítja Jamaica édesvízkészletének közel 40 százalékát.",
+        "A Cockpit Country barlangrendszere a leghosszabb és legmélyebb a szigeten.",
+        "Ez a vidék volt a helyszíne a brit-maron békeszerződés megkötésének 1739-ben.",
+        "A terület szinte teljesen lakatlan, csak a peremén találhatók kisebb települések.",
+        "A Cockpit Country mészkőkúpjai a világ egyik legszebb karsztformációit alkotják.",
+        "A terület védelme folyamatos küzdelem a bauxitbányászati törekvésekkel szemben."
+      ]
+    },
+    {
+      "id": "lluidas-vale-relief-v2",
+      "descriptionAdvanced": "A Lluidas-völgy St. Catherine plébánia szívében Jamaica egyik legszebb és legtermékenyebb belső völgye, amelyet magas mészkőhegyek ölelnek körül. Ez a zárt medence egyedülálló mikroklímával és kiváló talajadottságokkal rendelkezik, ami évszázadok óta Jamaica egyik legfontosabb cukornád- és rumtermelő vidékévé tette. A völgyben található a történelmi Worthy Park birtok, amely hűen őrzi az ültetvényes kor hagyományait. A Lluidas-völgy látképe a smaragdzöld nádmezőkkel és a felette tornyosuló kék hegyekkel Jamaica egyik legikonikusabb vidéki tájképe. A völgy elszigeteltsége és nyugalma miatt a látogatók itt valóban átélhetik a szigetország mezőgazdasági szívének lüktetését és történelmi folytonosságát.",
+      "factsAdvanced": [
+        "A Lluidas-völgy egy természetes mészkőmedence (polje), amelynek nincs felszíni lefolyása.",
+        "A völgy mélyén található sötét, alluviális talaj Jamaica legtermékenyebbjei közé tartozik.",
+        "Itt működik 1720 óta folyamatosan a Worthy Park Estate.",
+        "A völgyet körülvevő hegyekben számos kristálytiszta forrás fakad.",
+        "A Lluidas-völgy fontos megállóhelye a madárvonulásoknak a sziget belsejében.",
+        "A terület híres a kiváló minőségű, magas észtertartalmú rumjairól.",
+        "A völgybe vezető utak meredek szerpentineken kanyarognak le a hegyekből.",
+        "A Lluidas-völgy Jamaica egyik legjobban megőrzött agrártörténeti kincse."
+      ]
+    },
+    {
+      "id": "st-thomas-in-the-vale-relief-v2",
+      "descriptionAdvanced": "St. Thomas-in-the-Vale (ma Bog Walk völgyként ismert) St. Catherine plébánia egyik legfontosabb történelmi és természeti tájegysége, amely a Rio Cobre folyó völgyében fekszik. Ez a tágas és termékeny medence évszázadok óta Jamaica egyik legfontosabb mezőgazdasági központja, ahol a citrusfélék, a cukornád és a kakaó termesztése dominál. A völgy híres a Bog Walk-szurdokról, ahol a folyó mély utat vágott a mészkősziklák között, lélegzetelállító belépést nyújtva a területre. St. Thomas-in-the-Vale nemcsak a gazdaság, hanem a közlekedés szempontjából is kulcsfontosságú, hiszen itt találkoznak az északi és déli partot összekötő legfontosabb utak és vasútvonalak. A völgy pazar növényzete és történelmi emlékei Jamaica fejlődésének élő krónikáját alkotják.",
+      "factsAdvanced": [
+        "A völgy eredetileg egy önálló plébánia volt Jamaica korai gyarmati korszakában.",
+        "Itt található Bog Walk városa, amely fontos ipari és kereskedelmi csomópont.",
+        "A völgy híres a sűrű reggeli ködökről, amelyek különleges atmoszférát teremtenek.",
+        "St. Thomas-in-the-Vale területén épült fel Jamaica első vízerőműve a Rio Cobre-n.",
+        "A völgyben számos 18. és 19. századi ültetvényes kúria maradványa látható.",
+        "Híres a kiváló minőségű citrus-koncentrátumairól és gyümölcsleveiről.",
+        "A völgy dús legelőin tenyésztik Jamaica legszebb szarvasmarha-állományait.",
+        "A terület a Kék-hegység és a központi mészkőfennsík közötti természetes átmeneti zóna."
+      ]
+    }
+  ]
+}

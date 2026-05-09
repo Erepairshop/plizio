@@ -17,7 +17,19 @@ export const serbiaPoiExtraHistory = ([
         ro: ["Fortăreața se întinde pe o suprafață de peste 50 de hectare", "Conține vestigii din peste 2000 de ani de istorie", "Găzduiește Muzeul Militar al Serbiei", "Statuia 'Învingătorul' (Pobednik) este simbolul orașului", "Acces gratuit pentru vizitatori pe aproape întreg teritoriul cetății", "Loc de întâlnire pentru numeroase evenimente culturale și sportive"], 
         en: ["Spans over 50 hectares of prime land.", "Contains archaeological layers spanning over 2,000 years.", "Houses the extensive Military Museum of Serbia.", "Features 'The Victor' (Pobednik) statue, a defining landmark of Belgrade.", "Offers free access to visitors across most of its territory.", "Hosts a variety of significant cultural and athletic events throughout the year."] 
     },
-    factsAdvancedEn: ["Spans over 50 hectares of prime land.", "Contains archaeological layers spanning over 2,000 years.", "Houses the extensive Military Museum of Serbia.", "Features 'The Victor' (Pobednik) statue, a defining landmark of Belgrade.", "Offers free access to visitors across most of its territory.", "Hosts a variety of significant cultural and athletic events throughout the year."]
+    factsAdvancedEn: ["Spans over 50 hectares of prime land.", "Contains archaeological layers spanning over 2,000 years.", "Houses the extensive Military Museum of Serbia.", "Features 'The Victor' (Pobednik) statue, a defining landmark of Belgrade.", "Offers free access to visitors across most of its territory.", "Hosts a variety of significant cultural and athletic events throughout the year."],
+    description: {
+      de: "Die Festung Kalemegdan ist der historische Kern Belgrads, gelegen am Zusammenfluss von Save und Donau. Sie bietet einen weitläufigen Park und jahrhundertelanges architektonisches Erbe.",
+      hu: "A Kalemegdan-erőd Belgrád történelmi központja, a Száva és a Duna összefolyásánál fekszik. Hatalmas parkot és több évszázados építészeti örökséget rejt.",
+      ro: "Cetatea Kalemegdan este nucleul istoric al Belgradului, situată la confluența râurilor Sava și Dunăre. Dispune de un parc întins și un patrimoniu arhitectural de secole.",
+      en: "Kalemegdan Fortress is the historic core of Belgrade, situated at the confluence of the River Sava and Danube. It features a sprawling park and centuries of architectural heritage."
+    },
+    facts: {
+      de: ["Ursprünglich im 2. Jahrhundert als römisches Castrum erbaut.", "Wurde während osmanischer und österreichisch-ungarischer Konflikte mehrfach zerstört und wieder aufgebaut.", "Heute beherbergt sie Museen, einen Zoo und bietet einen herrlichen Blick auf den Fluss."],
+      hu: ["Eredetileg római castrumként épült a 2. században.", "Az oszmán és osztrák-magyar konfliktusok során számos alkalommal elpusztult és újjáépült.", "Ma múzeumoknak, állatkertnek ad otthont, és lenyűgöző kilátást nyújt a folyóra."],
+      ro: ["Construită inițial ca un castrum roman în secolul al II-lea.", "A fost distrusă și reconstruită de numeroase ori în timpul conflictelor otomane și austro-ungare.", "Astăzi găzduiește muzee, o grădină zoologică și oferă vederi uimitoare la râu."],
+      en: ["Originally built as a Roman castrum in the 2nd century.", "It was destroyed and rebuilt numerous times during Ottoman and Austro-Hungarian conflicts.", "Today it hosts museums, a zoo, and offers stunning river views."]
+    }
   },
   {
     id: "castle-petrovaradin",
@@ -34,7 +46,20 @@ export const serbiaPoiExtraHistory = ([
         ro: ["Construită între 1692 și 1780", "Sistemul de tuneluri subterane se întinde pe peste 16 kilometri", "Locul de desfășurare al celebrului festival EXIT", "Turnul cu ceas este faimos pentru acele sale inversate", "Un sit istoric de importanță strategică majoră în trecut", "Panoramă deosebită asupra orașului Novi Sad și a Dunării"], 
         en: ["Constructed between 1692 and 1780.", "Includes a complex subterranean tunnel system extending over 16 kilometers.", "Permanent home of the world-famous EXIT music festival.", "Famous for its landmark clock tower with reversed hour and minute hands.", "Historically served as a military site of primary strategic importance.", "Offers an unrivaled panoramic view of Novi Sad and the Danube River."] 
     },
-    factsAdvancedEn: ["Constructed between 1692 and 1780.", "Includes a complex subterranean tunnel system extending over 16 kilometers.", "Permanent home of the world-famous EXIT music festival.", "Famous for its landmark clock tower with reversed hour and minute hands.", "Historically served as a military site of primary strategic importance.", "Offers an unrivaled panoramic view of Novi Sad and the Danube River."], image: "/poi-images/castle-petrovaradin.webp"},
+    factsAdvancedEn: ["Constructed between 1692 and 1780.", "Includes a complex subterranean tunnel system extending over 16 kilometers.", "Permanent home of the world-famous EXIT music festival.", "Famous for its landmark clock tower with reversed hour and minute hands.", "Historically served as a military site of primary strategic importance.", "Offers an unrivaled panoramic view of Novi Sad and the Danube River."], image: "/poi-images/castle-petrovaradin.webp",
+    description: {
+      de: "Die Festung Petrovaradin in Novi Sad an der Donau ist als 'Gibraltar der Donau' bekannt. Ihr markanter Uhrenturm ist ein berühmtes Wahrzeichen der Stadt.",
+      hu: "Az Újvidéken, a Duna partján található Péterváradi vár a 'Duna Gibraltárja' néven is ismert. Kiemelkedő óratornya a város híres szimbóluma.",
+      ro: "Situată în Novi Sad, pe fluviul Dunărea, Cetatea Petrovaradin este cunoscută sub numele de 'Gibraltarul Dunării'. Turnul său cu ceas proeminent este un simbol faimos al orașului.",
+      en: "Located in Novi Sad on the Danube river, Petrovaradin Fortress is known as the 'Gibraltar of the Danube'. Its prominent clock tower is a famous symbol of the city."
+    },
+    facts: {
+      de: ["Der Bau der heutigen Festung begann 1692 unter dem österreichischen Kaiserreich.", "Sie enthält ein komplexes System von unterirdischen Tunneln mit einer Länge von 16 Kilometern.", "Die berühmte Uhr hat vertauschte Zeiger, damit Fischer die Stunde von weitem sehen konnten."],
+      hu: ["A jelenlegi erőd építése 1692-ben kezdődött az Osztrák Birodalom idején.", "16 kilométer hosszú, bonyolult föld alatti alagútrendszert rejt.", "A híres óratorony mutatói fel vannak cserélve, hogy a halászok messziről is lássák az órát."],
+      ro: ["Construcția cetății actuale a început în 1692 sub Imperiul Austriac.", "Conține un sistem complex de tuneluri subterane de 16 kilometri.", "Cunoscutul turn cu ceas are limbile inversate pentru ca pescarii să poată vedea ora de la distanță."],
+      en: ["Construction of the current fortress began in 1692 under the Austrian Empire.", "It contains a complex system of underground tunnels measuring 16 kilometers.", "The famous clock tower has reversed hands so fishermen could see the hour from afar."]
+    }
+  },
   {
     id: "church-studenica",
     descriptionAdvanced: { 
@@ -50,7 +75,20 @@ export const serbiaPoiExtraHistory = ([
         ro: ["Fondată în anul 1190 de Ștefan Nemanja", "Fresce bizantine rafinate din secolul al XIII-lea", "Construită din marmură albă pură", "Unul dintre cele mai sfinte locuri ale Serbiei", "Considerată leagănul statalității sârbe medievale", "Ansamblu monastic UNESCO de o valoare inestimabilă"], 
         en: ["Founded in 1190 by Stefan Nemanja.", "Features refined Byzantine frescoes dating from the 13th century.", "Constructed using high-quality white marble.", "Regarded as one of the holiest and most significant religious sites in Serbia.", "Often considered the cradle of medieval Serbian statehood.", "UNESCO World Heritage monastic ensemble of immeasurable cultural value."] 
     },
-    factsAdvancedEn: ["Founded in 1190 by Stefan Nemanja.", "Features refined Byzantine frescoes dating from the 13th century.", "Constructed using high-quality white marble.", "Regarded as one of the holiest and most significant religious sites in Serbia.", "Often considered the cradle of medieval Serbian statehood.", "UNESCO World Heritage monastic ensemble of immeasurable cultural value."], image: "/poi-images/church-studenica.webp"},
+    factsAdvancedEn: ["Founded in 1190 by Stefan Nemanja.", "Features refined Byzantine frescoes dating from the 13th century.", "Constructed using high-quality white marble.", "Regarded as one of the holiest and most significant religious sites in Serbia.", "Often considered the cradle of medieval Serbian statehood.", "UNESCO World Heritage monastic ensemble of immeasurable cultural value."], image: "/poi-images/church-studenica.webp",
+    description: {
+      de: "Das Kloster Studenica ist ein serbisch-orthodoxes Kloster aus dem 12. Jahrhundert, berühmt für seine atemberaubenden mittelalterlichen Fresken und die Architektur aus weißem Marmor. Es ist ein UNESCO-Weltkulturerbe.",
+      hu: "A Studenica-kolostor egy 12. századi szerb ortodox kolostor, amely lenyűgöző középkori freskóiról és fehér márvány építészetéről híres. Az UNESCO Világörökség része.",
+      ro: "Mănăstirea Studenica este o mănăstire ortodoxă sârbă din secolul al XII-lea, renumită pentru frescele sale medievale uimitoare și arhitectura din marmură albă. Este un sit al Patrimoniului Mondial UNESCO.",
+      en: "Studenica Monastery is a 12th-century Serbian Orthodox monastery, renowned for its stunning medieval frescoes and white marble architecture. It is a UNESCO World Heritage site."
+    },
+    facts: {
+      de: ["Gegründet 1190 von Stefan Nemanja, dem Gründer des mittelalterlichen serbischen Staates.", "Seine zwei Hauptkirchen sind die Marienkirche und die Königskirche.", "Es beherbergt einige der schönsten byzantinischen Fresken der Region."],
+      hu: ["Nemanja István, a középkori szerb állam alapítója hozta létre 1190-ben.", "Két fő temploma a Szűzanya-templom és a Király-templom.", "A régió legszebb bizánci stílusú freskóit őrzi."],
+      ro: ["Fondată în 1190 de Ștefan Nemanja, fondatorul statului medieval sârb.", "Cele două biserici principale ale sale sunt Biserica Fecioarei și Biserica Regelui.", "Adăpostește unele dintre cele mai frumoase fresce în stil bizantin din regiune."],
+      en: ["Founded in 1190 by Stefan Nemanja, founder of the medieval Serbian state.", "Its two principal churches are the Church of the Virgin and the Church of the King.", "It houses some of the most beautiful Byzantine-style frescoes in the region."]
+    }
+  },
   {
     id: "castle-golubac",
     descriptionAdvanced: { 
@@ -66,7 +104,20 @@ export const serbiaPoiExtraHistory = ([
         ro: ["Cele 10 turnuri ale sale oferă o protecție strategică excelentă", "Situată într-un punct îngust și periculos al Dunării", "A fost disputată succesiv de sârbi, unguri și otomani", "Funcționează în prezent ca muzeu modern și centru de vizitare", "Cel mai mare turn al său, Donjon, are 30 de metri înălțime", "O destinație turistică de top pe Dunăre"], 
         en: ["Includes 10 towers that originally provided excellent strategic defense.", "Strategically located at a narrow and historically treacherous point of the Danube.", "Historically contested between Serbian, Hungarian, and Ottoman forces.", "Currently functions as a modern museum and visitor center.", "The main keep, known as the Donjon, reaches 30 meters in height.", "Recognized as a premier tourist destination along the Danube River."] 
     },
-    factsAdvancedEn: ["Includes 10 towers that originally provided excellent strategic defense.", "Strategically located at a narrow and historically treacherous point of the Danube.", "Historically contested between Serbian, Hungarian, and Ottoman forces.", "Currently functions as a modern museum and visitor center.", "The main keep, known as the Donjon, reaches 30 meters in height.", "Recognized as a premier tourist destination along the Danube River."], image: "/poi-images/castle-golubac.webp"},
+    factsAdvancedEn: ["Includes 10 towers that originally provided excellent strategic defense.", "Strategically located at a narrow and historically treacherous point of the Danube.", "Historically contested between Serbian, Hungarian, and Ottoman forces.", "Currently functions as a modern museum and visitor center.", "The main keep, known as the Donjon, reaches 30 meters in height.", "Recognized as a premier tourist destination along the Danube River."], image: "/poi-images/castle-golubac.webp",
+    description: {
+      de: "Die Festung Golubac ist eine prächtige mittelalterliche Festungsstadt, die auf dramatischen Klippen über der Donau erbaut wurde. Sie bewacht den Eingang zur Schlucht des Eisernen Tors.",
+      hu: "A Galambóci vár egy csodálatos középkori erődített város, amely a Duna fölé magasodó drámai sziklákra épült. A Vaskapu-szoros bejáratát őrzi.",
+      ro: "Cetatea Golubac este un oraș medieval fortificat magnific, construit pe stânci abrupte cu vedere la Dunăre. Păzește cu faimă intrarea în defileul Porțile de Fier.",
+      en: "Golubac Fortress is a magnificent medieval fortified town built on dramatic cliffs overlooking the Danube River. It famously guards the entrance to the Iron Gates gorge."
+    },
+    facts: {
+      de: ["Ihre genauen Ursprünge sind unbekannt, wurde aber 1335 erstmals urkundlich erwähnt.", "Die Festung verfügt über zehn massive Türme, die durch stabile Mauern verbunden sind.", "Sie wurde im Laufe der Geschichte von Ungarn, Serben, Österreichern und Osmanen kontrolliert."],
+      hu: ["Pontos eredete ismeretlen, de történelmi feljegyzésekben 1335-ben említik először.", "Az erőd tíz hatalmas toronnyal rendelkezik, amelyeket erős falak kötnek össze.", "A történelem során magyarok, szerbek, osztrákok és oszmánok is uralták."],
+      ro: ["Originile sale exacte sunt necunoscute, dar a fost menționată prima dată în documente istorice în 1335.", "Cetatea dispune de zece turnuri masive conectate de ziduri solide.", "A fost controlată de maghiari, sârbi, austrieci și otomani de-a lungul istoriei."],
+      en: ["Its exact origins are unknown, but it was first mentioned in historical records in 1335.", "The fortress features ten massive towers connected by sturdy walls.", "It has been controlled by Hungarians, Serbs, Austrians, and Ottomans throughout history."]
+    }
+  },
   {
     id: "church-saint-sava",
     descriptionAdvanced: { 
@@ -82,7 +133,20 @@ export const serbiaPoiExtraHistory = ([
         ro: ["Capacitate de peste 10.000 de credincioși", "Înălțimea cupolei este de 70 de metri", "Dedicată Sfântului Sava, întemeietorul bisericii sârbe", "Construcția a început în 1935", "Interiorul este decorat cu mozaicuri impresionante", "Un reper dominant al peisajului urban din Belgrad"], 
         en: ["Can accommodate over 10,000 worshippers.", "The dome rises to a height of 70 meters.", "Dedicated to Saint Sava, the founder of the Serbian Church.", "Initial construction began in 1935.", "Features interior walls adorned with impressive, high-quality mosaics.", "Serves as a dominant architectural landmark of Belgrade's urban landscape."] 
     },
-    factsAdvancedEn: ["Can accommodate over 10,000 worshippers.", "The dome rises to a height of 70 meters.", "Dedicated to Saint Sava, the founder of the Serbian Church.", "Initial construction began in 1935.", "Features interior walls adorned with impressive, high-quality mosaics.", "Serves as a dominant architectural landmark of Belgrade's urban landscape."], image: "/poi-images/church-saint-sava.webp"},
+    factsAdvancedEn: ["Can accommodate over 10,000 worshippers.", "The dome rises to a height of 70 meters.", "Dedicated to Saint Sava, the founder of the Serbian Church.", "Initial construction began in 1935.", "Features interior walls adorned with impressive, high-quality mosaics.", "Serves as a dominant architectural landmark of Belgrade's urban landscape."], image: "/poi-images/church-saint-sava.webp",
+    description: {
+      de: "Der Dom des Heiligen Sava in Belgrad ist eine der größten orthodoxen Kirchen der Welt. Ihre monumentale Kuppel dominiert die Skyline der Stadt.",
+      hu: "A belgrádi Szent Száva-templom a világ egyik legnagyobb ortodox temploma. Monumentális kupolája uralja a város látképét.",
+      ro: "Catedrala Sfântul Sava din Belgrad este una dintre cele mai mari biserici ortodoxe din lume. Domul său monumental domină orizontul orașului.",
+      en: "The Church of Saint Sava in Belgrade is one of the largest Orthodox churches in the world. Its monumental dome dominates the city's skyline."
+    },
+    facts: {
+      de: ["Erbaut an der Stelle, wo die sterblichen Überreste des Heiligen Sava vermutlich 1595 von den Osmanen verbrannt wurden.", "Der Bau begann 1935, wurde aber durch Kriege unterbrochen und erst in den 2000er Jahren größtenteils abgeschlossen.", "Der Innenraum ist mit Tausenden Quadratmetern an aufwendigen Goldmosaiken verziert."],
+      hu: ["Azon a helyen épült, ahol Szent Száva földi maradványait feltételezések szerint az oszmánok 1595-ben elégették.", "Építése 1935-ben kezdődött, de háborúk és politikai változások miatt megszakadt, és nagyrészt a 2000-es években fejeződött be.", "Belsejét több ezer négyzetméternyi bonyolult arany mozaik díszíti."],
+      ro: ["Este construită pe locul unde se crede că rămășițele Sfântului Sava au fost arse de otomani în 1595.", "Construcția a început în 1935, dar a fost întreruptă de războaie, finalizându-se în mare parte în anii 2000.", "Interiorul este decorat cu mii de metri pătrați de mozaicuri aurii complexe."],
+      en: ["It is built on the site where the remains of Saint Sava are believed to have been burned by the Ottomans in 1595.", "Construction began in 1935 but was interrupted by wars and political changes, completing mostly in the 2000s.", "The interior is decorated with thousands of square meters of intricate golden mosaics."]
+    }
+  },
   {
     id: "castle-smederevo",
     descriptionAdvanced: { 
@@ -98,7 +162,20 @@ export const serbiaPoiExtraHistory = ([
         ro: ["Construită în jurul anului 1430 de despotul Đurađ Branković", "Suprafață de peste 11 hectare", "Dispune de 25 de turnuri de apărare", "A servit drept reședință regală pentru o scurtă perioadă", "Zidurile sunt impresionante, fiind protejate parțial de Dunăre", "Un sit de o valoare istorică majoră"], 
         en: ["Built around 1430 by Despot Đurađ Branković.", "Covers an expansive area exceeding 11 hectares.", "Features 25 defensive towers.", "Served briefly as the royal residence of the Serbian state.", "The imposing walls are partially protected by the Danube River.", "Site of major historical and defensive importance."] 
     },
-    factsAdvancedEn: ["Built around 1430 by Despot Đurađ Branković.", "Covers an expansive area exceeding 11 hectares.", "Features 25 defensive towers.", "Served briefly as the royal residence of the Serbian state.", "The imposing walls are partially protected by the Danube River.", "Site of major historical and defensive importance."], image: "/poi-images/castle-smederevo.webp"},
+    factsAdvancedEn: ["Built around 1430 by Despot Đurađ Branković.", "Covers an expansive area exceeding 11 hectares.", "Features 25 defensive towers.", "Served briefly as the royal residence of the Serbian state.", "The imposing walls are partially protected by the Danube River.", "Site of major historical and defensive importance."], image: "/poi-images/castle-smederevo.webp",
+    description: {
+      de: "Die Festung Smederevo ist eine massive mittelalterliche Festungsstadt an der Donau und war im 15. Jahrhundert die temporäre Hauptstadt Serbiens. Sie ist eine der größten Flachlandfestungen Europas.",
+      hu: "A Szendrői vár egy hatalmas középkori erődített város a Dunánál, amely a 15. században Szerbia ideiglenes fővárosaként szolgált. Európa egyik legnagyobb síkvidéki erődje.",
+      ro: "Cetatea Smederevo este un masiv oraș medieval fortificat pe Dunăre, servind drept capitală temporară a Serbiei în secolul al XV-lea. Este una dintre cele mai mari cetăți de șes din Europa.",
+      en: "Smederevo Fortress is a massive medieval fortified city on the Danube, serving as the temporary capital of Serbia in the 15th century. It is one of the largest lowland fortresses in Europe."
+    },
+    facts: {
+      de: ["Erbaut von Despot Đurađ Branković zwischen 1427 und 1430.", "Sie hat eine dreieckige Form mit 25 hohen Wehrtürmen.", "Die Festung wurde im Zweiten Weltkrieg durch eine gewaltige Munitionsexplosion schwer beschädigt."],
+      hu: ["Brankovics György despota építtette 1427 és 1430 között.", "Háromszög alakú, 25 magas védőtoronnyal.", "A második világháború során egy hatalmas lőszerrobbanás súlyosan megrongálta."],
+      ro: ["Construită de Despotul Đurađ Branković între 1427 și 1430.", "Are o formă triunghiulară cu 25 de turnuri înalte de apărare.", "Cetatea a fost grav avariată în timpul celui de-Al Doilea Război Mondial de o explozie masivă de muniție."],
+      en: ["Built by Despot Đurađ Branković between 1427 and 1430.", "It has a triangular shape with 25 tall defensive towers.", "The fortress was heavily damaged during World War II by a massive ammunition explosion."]
+    }
+  },
   {
     id: "church-ljubostinja",
     descriptionAdvanced: { 
@@ -114,7 +191,19 @@ export const serbiaPoiExtraHistory = ([
         ro: ["Fondată de prințesa Milica la sfârșitul secolului XIV", "Ferestre bogat decorate cu motive sculptate", "Capodoperă a școlii arhitecturale Morava", "Loc de pelerinaj și centru spiritual", "Context natural pitoresc și liniștit", "Un monument religios și cultural esențial"], 
         en: ["Founded by Princess Milica at the end of the 14th century.", "Features windows and facades richly decorated with intricate carved motifs.", "Recognized as a masterpiece of the Morava architectural school.", "Maintains a long-standing tradition as a site of pilgrimage.", "Set in a picturesque, tranquil natural environment.", "Acts as an essential monument of regional religious and cultural history."] 
     },
-    factsAdvancedEn: ["Founded by Princess Milica at the end of the 14th century.", "Features windows and facades richly decorated with intricate carved motifs.", "Recognized as a masterpiece of the Morava architectural school.", "Maintains a long-standing tradition as a site of pilgrimage.", "Set in a picturesque, tranquil natural environment.", "Acts as an essential monument of regional religious and cultural history."]
+    factsAdvancedEn: ["Founded by Princess Milica at the end of the 14th century.", "Features windows and facades richly decorated with intricate carved motifs.", "Recognized as a masterpiece of the Morava architectural school.", "Maintains a long-standing tradition as a site of pilgrimage.", "Set in a picturesque, tranquil natural environment.", "Acts as an essential monument of regional religious and cultural history."],
+    description: {
+      de: "Das Kloster Ljubostinja ist ein wunderschönes serbisch-orthodoxes Kloster aus dem 14. Jahrhundert, das im architektonischen Morava-Stil erbaut wurde. Es ist der Heiligen Jungfrau gewidmet.",
+      hu: "A Ljubostinja-kolostor egy gyönyörű, 14. századi szerb ortodox kolostor, amely a moravai építészeti stílusban épült. A Szent Szűznek szentelték.",
+      ro: "Mănăstirea Ljubostinja este o frumoasă mănăstire ortodoxă sârbă din secolul al XIV-lea, construită în stilul arhitectural Morava. Este închinată Sfintei Fecioare.",
+      en: "Ljubostinja Monastery is a beautiful 14th-century Serbian Orthodox monastery built in the Morava architectural style. It is dedicated to the Holy Virgin."
+    },
+    facts: {
+      de: ["Gegründet von Prinzessin Milica im Jahr 1388, kurz vor der Schlacht im Amselfeld.", "Prinzessin Milica wurde Nonne und verbrachte hier den Rest ihres Lebens.", "Die Kirche weist markante, aufwendige Steinmetzarbeiten und Rosettenfenster auf."],
+      hu: ["Milica hercegnő alapította 1388-ban, közvetlenül a rigómezei csata előtt.", "Milica hercegnő apáca lett, és élete hátralévő részét itt töltötte.", "A templom jellegzetes, bonyolult kőfaragásokkal és rozetta ablakokkal büszkélkedhet."],
+      ro: ["Fondată de Prințesa Milica în 1388, chiar înainte de Bătălia de la Kosovo.", "Prințesa Milica a devenit călugăriță și și-a petrecut restul vieții aici.", "Biserica se remarcă prin sculpturile complexe în piatră și ferestrele în formă de rozetă."],
+      en: ["Founded by Princess Milica in 1388, just before the Battle of Kosovo.", "Princess Milica became a nun and spent the rest of her life here.", "The church features distinctive intricate stone carvings and rosette windows."]
+    }
   },
   {
     id: "monument-oplenac",
@@ -131,7 +220,20 @@ export const serbiaPoiExtraHistory = ([
         ro: ["Mozaicuri magnifice compuse din milioane de piese", "Biserica Sfântul Gheorghe servește drept mausoleu", "Loc de odihnă pentru dinastia Karađorđević", "Simbol important al identității și istoriei sârbe", "O destinație de pelerinaj și istorică de top", "Situat în inima regiunii viticole Šumadija"], 
         en: ["Features magnificent mosaics composed of millions of colored glass pieces.", "The Church of Saint George serves as the official royal mausoleum.", "Final resting place for members of the Karađorđević dynasty.", "Acts as a primary symbol of Serbian identity and historical continuity.", "Recognized as a premier historical and pilgrimage destination in Serbia.", "Strategically situated in the heart of the scenic Šumadija wine region."] 
     },
-    factsAdvancedEn: ["Features magnificent mosaics composed of millions of colored glass pieces.", "The Church of Saint George serves as the official royal mausoleum.", "Final resting place for members of the Karađorđević dynasty.", "Acts as a primary symbol of Serbian identity and historical continuity.", "Recognized as a premier historical and pilgrimage destination in Serbia.", "Strategically situated in the heart of the scenic Šumadija wine region."], image: "/poi-images/monument-oplenac.webp"},
+    factsAdvancedEn: ["Features magnificent mosaics composed of millions of colored glass pieces.", "The Church of Saint George serves as the official royal mausoleum.", "Final resting place for members of the Karađorđević dynasty.", "Acts as a primary symbol of Serbian identity and historical continuity.", "Recognized as a premier historical and pilgrimage destination in Serbia.", "Strategically situated in the heart of the scenic Šumadija wine region."], image: "/poi-images/monument-oplenac.webp",
+    description: {
+      de: "Oplenac, auch bekannt als St.-Georgs-Kirche, ist das Mausoleum des serbischen und jugoslawischen Königshauses Karađorđević in Topola. Es ist berühmt für sein atemberaubendes Mosaik-Interieur.",
+      hu: "Az Oplenac, más néven Szent György-templom, a szerb és jugoszláv Karađorđević királyi ház mauzóleuma Topolyán. Lenyűgöző mozaikbelsőjéről híres.",
+      ro: "Oplenac, cunoscută și sub numele de Biserica Sf. Gheorghe, este mausoleul casei regale sârbe și iugoslave Karađorđević din Topola. Este faimoasă pentru interiorul său uimitor din mozaic.",
+      en: "Oplenac, also known as St. George's Church, is the mausoleum of the Serbian and Yugoslav royal house of Karađorđević in Topola. It is famous for its breathtaking mosaic interior."
+    },
+    facts: {
+      de: ["1910 von König Peter I. von Serbien gegründet.", "Die Mosaike im Inneren bestehen aus über 40 Millionen Glasstücken in 15.000 verschiedenen Farbnuancen.", "In der Krypta befinden sich die Gräber von 28 Mitgliedern der Karađorđević-Dynastie."],
+      hu: ["I. Péter szerb király alapította 1910-ben.", "A belső teret díszítő mozaikok több mint 40 millió üvegdarabból állnak, 15 000 különböző színárnyalatban.", "A kripta a Karađorđević dinasztia 28 tagjának sírját rejti."],
+      ro: ["Fondată de Regele Petru I al Serbiei în 1910.", "Mozaicurile din interior constau în peste 40 de milioane de piese de sticlă în 15.000 de nuanțe diferite.", "Cripta adăpostește mormintele a 28 de membri ai dinastiei Karađorđević."],
+      en: ["Founded by King Peter I of Serbia in 1910.", "The mosaics inside consist of over 40 million glass pieces in 15,000 different shades of color.", "The crypt houses the tombs of 28 members of the Karađorđević dynasty."]
+    }
+  },
   {
     id: "church-zica",
     descriptionAdvanced: { 

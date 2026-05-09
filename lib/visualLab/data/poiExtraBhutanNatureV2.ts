@@ -295,7 +295,7 @@ export const poiExtraBhutanNatureV2: POI[] = [
     },
     facts: {
       de: ["Höhe beträgt 7.528 Meter.", "Vollständig von Gletschern umgeben.", "Wurde 1986 erstmals bezwungen."],
-      hu: ["MagassÃ¡ga 7528 mÃ©ter.", "Teljesen gleccserek borÃ­tjÃ¡k.", "1986-ban mÃ¡szta meg elÅ‘szÃ¶r."],
+      hu: ["Magassága 7528 méter.", "Teljesen gleccserek borítják.", "1986-ban mászta meg először."],
       ro: ["Fluviul „Tată” transportă ape glaciare din nord și este cunoscut pentru curenții săi furtunoși și reci."],
       en: ["The 'Father River' carries glacial water from the north and is known for its stormy and cold currents."]
     }

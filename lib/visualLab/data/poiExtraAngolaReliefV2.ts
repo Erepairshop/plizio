@@ -137,11 +137,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-HUI",
     coords: [14.0, -15.0],
     name: { de: "Huíla-Hochland", hu: "Huíla-felföld", ro: "Podi?ul Huíla", en: "Huíla Plateau" },
-    description: { de: "Hochlandebene im Süden.", hu: "Fennsík a délen.", ro: "Podi? în sud.", en: "Plateau in the south." },
+    description: { de: "Hochlandebene im Süden.", hu: "Fennsík a délen.", ro: "Un platou muntos impunător situat în sudul Angolei, cunoscut pentru clima sa temperată și relieful spectaculos.", en: "Plateau in the south." },
     facts: {
       de: ["Günstiges Klima für Landwirtschaft.", "Weites, offenes Land."],
       hu: ["Kedvezo éghajlat a mezogazdasághoz.", "Széles, nyílt vidék."],
-      ro: ["Clima favorabila pentru agricultura.", "?inut vast ?i deschis."],
+      ro: ["Situat în provincia Huíla", "Climă temperată", "Relief înalt"],
       en: ["Favorable climate for agriculture.", "Vast, open land."]
     },
     descriptionAdvanced: {
@@ -193,19 +193,19 @@ export const poiExtraAngolaReliefV2: POI[] = [
     facts: {
       de: ["Wichtige Erosionsform.", "Große Tallage."],
       hu: ["Fontos eróziós forma.", "Nagy völgyi fekvés."],
-      ro: ["Forma importanta de eroziune.", "Pozi?ie în vale vasta."],
+      ro: ["Forma importanta de eroziune.", "Poziție în vale vasta."],
       en: ["Important erosion form.", "Large valley position."]
     },
     descriptionAdvanced: {
       de: "Kwanza-Tal ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Das zentrale Flusstal. Wichtige Erosionsform. Große Tallage. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Kwanza-völgy az angolai foldrajz es kultura figyelemre melto eleme. A központi folyóvölgy. Fontos eróziós forma. Nagy völgyi fekvés. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Valea Kwanza este un element remarcabil al geografiei si culturii angoleze. Valea centrala a râului. Forma importanta de eroziune. Pozi?ie în vale vasta. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Valea Kwanza este un element remarcabil al geografiei si culturii angoleze. Valea centrala a râului. Forma importanta de eroziune. Poziție în vale vasta. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Kwanza Valley is a remarkable feature of the geography and culture of Angola. The central river valley. Important erosion form. Large valley position. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Wichtige Erosionsform.", "Große Tallage.", "Das zentrale Flusstal.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Fontos eróziós forma.", "Nagy völgyi fekvés.", "A központi folyóvölgy.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Forma importanta de eroziune.", "Pozi?ie în vale vasta.", "Valea centrala a râului.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Forma importanta de eroziune.", "Poziție în vale vasta.", "Valea centrala a râului.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Important erosion form.", "Large valley position.", "The central river valley.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
@@ -215,11 +215,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-LNO",
     coords: [19.0, -8.0],
     name: { de: "Lunda-Berge", hu: "Lunda-hegyek", ro: "Mun?ii Lunda", en: "Lunda Mountains" },
-    description: { de: "Hügellandschaft im Nordosten.", hu: "Dombvidék északkeleten.", ro: "?inut deluros în nord-est.", en: "Hilly landscape in the northeast." },
+    description: { de: "Hügellandschaft im Nordosten.", hu: "Dombvidék északkeleten.", ro: "O zonă muntoasă extinsă în estul țării, caracterizată prin platouri înalte și văi adânci.", en: "Hilly landscape in the northeast." },
     facts: {
       de: ["Reich an Mineralien.", "Sanfte Erhebungen."],
       hu: ["Ásványkincsekben gazdag.", "Szelíd emelkedok."],
-      ro: ["Bogat în minerale.", "Eleva?ii line."],
+      ro: ["Situat în est", "Regiune muntoasă", "Forme de relief variate"],
       en: ["Rich in minerals.", "Gentle elevations."]
     },
     descriptionAdvanced: {
@@ -245,19 +245,19 @@ export const poiExtraAngolaReliefV2: POI[] = [
     facts: {
       de: ["Geologischer Übergang.", "Große Höhenunterschiede."],
       hu: ["Geológiai átmenet.", "Nagy magasságkülönbségek."],
-      ro: ["Tranzi?ie geologica.", "Diferen?e mari de altitudine."],
+      ro: ["Tranziție geologica.", "Diferen?e mari de altitudine."],
       en: ["Geological transition.", "Large altitude differences."]
     },
     descriptionAdvanced: {
       de: "Westlicher Abfall ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Abfallende Stufe zum Atlantik. Geologischer Übergang. Große Höhenunterschiede. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Nyugati lejto az angolai foldrajz es kultura figyelemre melto eleme. Atlanti-óceán felé lejto lépcso. Geológiai átmenet. Nagy magasságkülönbségek. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Panta vestica este un element remarcabil al geografiei si culturii angoleze. Trepa coborând spre Atlantic. Tranzi?ie geologica. Diferen?e mari de altitudine. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Panta vestica este un element remarcabil al geografiei si culturii angoleze. Trepa coborând spre Atlantic. Tranziție geologica. Diferen?e mari de altitudine. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Western Escarpment is a remarkable feature of the geography and culture of Angola. Escarpment descending to the Atlantic. Geological transition. Large altitude differences. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Geologischer Übergang.", "Große Höhenunterschiede.", "Abfallende Stufe zum Atlantik.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Geológiai átmenet.", "Nagy magasságkülönbségek.", "Atlanti-óceán felé lejto lépcso.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Tranzi?ie geologica.", "Diferen?e mari de altitudine.", "Trepa coborând spre Atlantic.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Tranziție geologica.", "Diferen?e mari de altitudine.", "Trepa coborând spre Atlantic.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Geological transition.", "Large altitude differences.", "Escarpment descending to the Atlantic.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
@@ -323,19 +323,19 @@ export const poiExtraAngolaReliefV2: POI[] = [
     facts: {
       de: ["Trockenheit prägt das Relief.", "Starke Erosion."],
       hu: ["Szárazság jellemzi a domborzatot.", "Eros erózió."],
-      ro: ["Ariditatea define?te relieful.", "Eroziune puternica."],
+      ro: ["Ariditatea definește relieful.", "Eroziune puternica."],
       en: ["Aridity defines the relief.", "Strong erosion."]
     },
     descriptionAdvanced: {
       de: "Benguela-Höhen ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Bergiges Hinterland von Benguela. Trockenheit prägt das Relief. Starke Erosion. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Benguela-magaslatok az angolai foldrajz es kultura figyelemre melto eleme. Benguela hegyes hátországa. Szárazság jellemzi a domborzatot. Eros erózió. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Înal?imile Benguela este un element remarcabil al geografiei si culturii angoleze. Interior muntos al Benguelei. Ariditatea define?te relieful. Eroziune puternica. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Înal?imile Benguela este un element remarcabil al geografiei si culturii angoleze. Interior muntos al Benguelei. Ariditatea definește relieful. Eroziune puternica. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Benguela Highlands is a remarkable feature of the geography and culture of Angola. Mountainous hinterland of Benguela. Aridity defines the relief. Strong erosion. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Trockenheit prägt das Relief.", "Starke Erosion.", "Bergiges Hinterland von Benguela.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Szárazság jellemzi a domborzatot.", "Eros erózió.", "Benguela hegyes hátországa.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Ariditatea define?te relieful.", "Eroziune puternica.", "Interior muntos al Benguelei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Ariditatea definește relieful.", "Eroziune puternica.", "Interior muntos al Benguelei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Aridity defines the relief.", "Strong erosion.", "Mountainous hinterland of Benguela.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
@@ -345,11 +345,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-MAL",
     coords: [16.0, -9.5],
     name: { de: "Malanje-Hochland", hu: "Malanje-felföld", ro: "Podi?ul Malanje", en: "Malanje Plateau" },
-    description: { de: "Ebene Hochlandschaft.", hu: "Síksági felföld.", ro: "Podi? plan.", en: "Flat highland landscape." },
+    description: { de: "Ebene Hochlandschaft.", hu: "Síksági felföld.", ro: "Un platou fertil situat în partea central-nordică, esențial pentru agricultură și climatul regional.", en: "Flat highland landscape." },
     facts: {
       de: ["Günstige landwirtschaftliche Böden.", "Offene Flächen."],
       hu: ["Kedvezo mezogazdasági talajok.", "Nyílt területek."],
-      ro: ["Soluri agricole favorabile.", "Suprafe?e deschise."],
+      ro: ["Situat în Malanje", "Regiune fertilă", "Relief platou"],
       en: ["Favorable agricultural soils.", "Open areas."]
     },
     descriptionAdvanced: {
@@ -371,23 +371,23 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-LSU",
     coords: [19.5, -9.0],
     name: { de: "Lunda-Steilstufe", hu: "Lunda-lépcso", ro: "Escarpa Lunda", en: "Lunda Escarpment" },
-    description: { de: "Geländestufe im Nordosten.", hu: "Tereplépcso északkeleten.", ro: "Trepa de teren în nord-est.", en: "Escarpment in the northeast." },
+    description: { de: "Geländestufe im Nordosten.", hu: "Tereplépcso északkeleten.", ro: "O formațiune de escarpă notabilă care marchează tranziția între regiunile joase și podișurile înalte.", en: "Escarpment in the northeast." },
     facts: {
       de: ["Übergang zur Kongo-Senke.", "Steiles Profil."],
       hu: ["Átmenet a Kongó-medencéhez.", "Meredek profil."],
-      ro: ["Tranzi?ie spre bazinul Congo.", "Profil abrupt."],
+      ro: ["Bariera geografică", "Formațiune de escarpă", "Diferență de nivel"],
       en: ["Transition to Congo basin.", "Steep profile."]
     },
     descriptionAdvanced: {
       de: "Lunda-Steilstufe ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Geländestufe im Nordosten. Übergang zur Kongo-Senke. Steiles Profil. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Lunda-lépcso az angolai foldrajz es kultura figyelemre melto eleme. Tereplépcso északkeleten. Átmenet a Kongó-medencéhez. Meredek profil. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Escarpa Lunda este un element remarcabil al geografiei si culturii angoleze. Trepa de teren în nord-est. Tranzi?ie spre bazinul Congo. Profil abrupt. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Escarpa Lunda este un element remarcabil al geografiei si culturii angoleze. Trepa de teren în nord-est. Tranziție spre bazinul Congo. Profil abrupt. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Lunda Escarpment is a remarkable feature of the geography and culture of Angola. Escarpment in the northeast. Transition to Congo basin. Steep profile. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Übergang zur Kongo-Senke.", "Steiles Profil.", "Geländestufe im Nordosten.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Átmenet a Kongó-medencéhez.", "Meredek profil.", "Tereplépcso északkeleten.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Tranzi?ie spre bazinul Congo.", "Profil abrupt.", "Trepa de teren în nord-est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Tranziție spre bazinul Congo.", "Profil abrupt.", "Trepa de teren în nord-est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Transition to Congo basin.", "Steep profile.", "Escarpment in the northeast.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
@@ -397,11 +397,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-UIG",
     coords: [15.0, -7.0],
     name: { de: "Uíge-Hügel", hu: "Uíge-dombok", ro: "Colinele Uíge", en: "Uíge Hills" },
-    description: { de: "Hügellandschaft im Norden.", hu: "Dombvidék északon.", ro: "?inut colinar în nord.", en: "Hilly landscape in the north." },
+    description: { de: "Hügellandschaft im Norden.", hu: "Dombvidék északon.", ro: "O zonă deluroasă pitorească situată în nordul țării, caracterizată prin vegetație bogată și relief unduit.", en: "Hilly landscape in the north." },
     facts: {
       de: ["Sehr grün.", "Hohe Niederschläge."],
       hu: ["Nagyon zöld.", "Magas csapadék."],
-      ro: ["Foarte verde.", "Precipita?ii mari."],
+      ro: ["Situat în Uíge", "Relief deluros", "Peisaj verde"],
       en: ["Very green.", "High rainfall."]
     },
     descriptionAdvanced: {
@@ -423,7 +423,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.8, -12.2],
     name: { de: "Kaparanga", hu: "Kaparanga", ro: "Kaparanga", en: "Kaparanga" },
-    description: { de: "Erhebung in Huambo.", hu: "Emelkedo Huambóban.", ro: "Eleva?ie în Huambo.", en: "Elevation in Huambo." },
+    description: { de: "Erhebung in Huambo.", hu: "Emelkedo Huambóban.", ro: "Elevație în Huambo.", en: "Elevation in Huambo." },
     facts: {
       de: ["Geologisch alt.", "Granitmassiv."],
       hu: ["Geológiailag régi.", "Gránitmasszívum."],
@@ -433,13 +433,13 @@ export const poiExtraAngolaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Kaparanga ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Erhebung in Huambo. Geologisch alt. Granitmassiv. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Kaparanga az angolai foldrajz es kultura figyelemre melto eleme. Emelkedo Huambóban. Geológiailag régi. Gránitmasszívum. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Kaparanga este un element remarcabil al geografiei si culturii angoleze. Eleva?ie în Huambo. Geologic vechi. Masiv granitic. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Kaparanga este un element remarcabil al geografiei si culturii angoleze. Elevație în Huambo. Geologic vechi. Masiv granitic. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Kaparanga is a remarkable feature of the geography and culture of Angola. Elevation in Huambo. Geologically old. Granite massif. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Geologisch alt.", "Granitmassiv.", "Erhebung in Huambo.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Geológiailag régi.", "Gránitmasszívum.", "Emelkedo Huambóban.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Geologic vechi.", "Masiv granitic.", "Eleva?ie în Huambo.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Geologic vechi.", "Masiv granitic.", "Elevație în Huambo.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Geologically old.", "Granite massif.", "Elevation in Huambo.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
@@ -449,23 +449,23 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-NAM",
     coords: [12.5, -15.5],
     name: { de: "Namibe-Ebene", hu: "Namibe-síkság", ro: "Câmpia Namibe", en: "Namibe Plain" },
-    description: { de: "Küstenebene.", hu: "Parti síkság.", ro: "Câmpie de coasta.", en: "Coastal plain." },
+    description: { de: "Küstenebene.", hu: "Parti síkság.", ro: "O câmpie aridă extinsă care se întinde de-a lungul coastei de sud, fiind una dintre cele mai secetoase zone.", en: "Coastal plain." },
     facts: {
       de: ["Trocken.", "Wenig Vegetation."],
       hu: ["Száraz.", "Kevés növényzet."],
-      ro: ["Uscat.", "Pu?ina vegeta?ie."],
+      ro: ["Zona de coastă", "Câmpie deșertică", "Climă aridă"],
       en: ["Dry.", "Little vegetation."]
     },
     descriptionAdvanced: {
       de: "Namibe-Ebene ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Küstenebene. Trocken. Wenig Vegetation. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Namibe-síkság az angolai foldrajz es kultura figyelemre melto eleme. Parti síkság. Száraz. Kevés növényzet. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Câmpia Namibe este un element remarcabil al geografiei si culturii angoleze. Câmpie de coasta. Uscat. Pu?ina vegeta?ie. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Câmpia Namibe este un element remarcabil al geografiei si culturii angoleze. Câmpie de coasta. Uscat. Pu?ina vegetație. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Namibe Plain is a remarkable feature of the geography and culture of Angola. Coastal plain. Dry. Little vegetation. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Trocken.", "Wenig Vegetation.", "Küstenebene.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Száraz.", "Kevés növényzet.", "Parti síkság.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Uscat.", "Pu?ina vegeta?ie.", "Câmpie de coasta.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Uscat.", "Pu?ina vegetație.", "Câmpie de coasta.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Dry.", "Little vegetation.", "Coastal plain.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
@@ -501,11 +501,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-MOX",
     coords: [22.0, -12.0],
     name: { de: "Sambesi-Tal", hu: "Zambézi-völgy", ro: "Valea Zambezi", en: "Zambezi Valley" },
-    description: { de: "Tal des Sambesi-Flusses.", hu: "A Zambézi folyó völgye.", ro: "Valea râului Zambezi.", en: "Valley of the Zambezi river." },
+    description: { de: "Tal des Sambesi-Flusses.", hu: "A Zambézi folyó völgye.", ro: "Un vale importantă a bazinului râului Zambezi, care prezintă un relief specific zonelor de vale tropicală.", en: "Valley of the Zambezi river." },
     facts: {
       de: ["Grenznah.", "Wichtige Lebenszone."],
       hu: ["Határközeli.", "Fontos élettér."],
-      ro: ["Aproape de frontiera.", "Zona vitala."],
+      ro: ["Regiune de vale", "Bazin hidrografic", "Zona joasă"],
       en: ["Near the border.", "Important life zone."]
     },
     descriptionAdvanced: {
@@ -527,11 +527,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.3, -15.1],
     name: { de: "Tundavala", hu: "Tundavala", ro: "Tundavala", en: "Tundavala" },
-    description: { de: "Steilabbruch bei Lubango.", hu: "Merdek szakadék Lubango közelében.", ro: "Prapastie abrupta lânga Lubango.", en: "Steep escarpment near Lubango." },
+    description: { de: "Steilabbruch bei Lubango.", hu: "Merdek szakadék Lubango közelében.", ro: "O formațiune muntoasă spectaculoasă, faimoasă pentru prăpăstiile sale adânci și vedere asupra platoului.", en: "Steep escarpment near Lubango." },
     facts: {
       de: ["Spektakulärer Abgrund.", "Sehr hoch."],
       hu: ["Látványos szakadék.", "Nagyon magas."],
-      ro: ["Abis spectaculos.", "Foarte înalt."],
+      ro: ["Situat în Lubango", "Fisură geologică", "Punct de panoramă"],
       en: ["Spectacular abyss.", "Very high."]
     },
     descriptionAdvanced: {
@@ -553,11 +553,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.5, -15.0],
     name: { de: "Humpata-Hochland", hu: "Humpata-felföld", ro: "Podi?ul Humpata", en: "Humpata Plateau" },
-    description: { de: "Kühles Hochland.", hu: "Huvös felföld.", ro: "Podi? racoros.", en: "Cool highland." },
+    description: { de: "Kühles Hochland.", hu: "Huvös felföld.", ro: "Un platou înalt cu un microclimat unic, situat în apropierea orașului Lubango, cunoscut pentru biodiversitatea sa.", en: "Cool highland." },
     facts: {
       de: ["Günstiges Klima.", "Touristisch bekannt."],
       hu: ["Kedvezo éghajlat.", "Turisztikailag ismert."],
-      ro: ["Clima favorabila.", "Cunoscut turistic."],
+      ro: ["Situat în Huíla", "Platou muntos", "Microclimat specific"],
       en: ["Favorable climate.", "Known for tourism."]
     },
     descriptionAdvanced: {
@@ -579,23 +579,23 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-MOX",
     coords: [20.0, -12.5],
     name: { de: "Mochico", hu: "Mochico", ro: "Mochico", en: "Mochico" },
-    description: { de: "Erhebung im Osten.", hu: "Emelkedo keleten.", ro: "Eleva?ie în est.", en: "Elevation in the east." },
+    description: { de: "Erhebung im Osten.", hu: "Emelkedo keleten.", ro: "Un munte proeminent care se ridică peste peisajul regiunii, oferind un punct de reper geografic important.", en: "Elevation in the east." },
     facts: {
       de: ["Flache Gipfel.", "Savannen-Landschaft."],
       hu: ["Lapos csúcsok.", "Szavannás táj."],
-      ro: ["Vârfuri plate.", "Peisaj de savana."],
+      ro: ["Înălțime dominantă", "Formațiune muntoasă", "Reper geografic"],
       en: ["Flat peaks.", "Savannah landscape."]
     },
     descriptionAdvanced: {
       de: "Mochico ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Erhebung im Osten. Flache Gipfel. Savannen-Landschaft. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Mochico az angolai foldrajz es kultura figyelemre melto eleme. Emelkedo keleten. Lapos csúcsok. Szavannás táj. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Mochico este un element remarcabil al geografiei si culturii angoleze. Eleva?ie în est. Vârfuri plate. Peisaj de savana. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Mochico este un element remarcabil al geografiei si culturii angoleze. Elevație în est. Vârfuri plate. Peisaj de savana. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Mochico is a remarkable feature of the geography and culture of Angola. Elevation in the east. Flat peaks. Savannah landscape. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Flache Gipfel.", "Savannen-Landschaft.", "Erhebung im Osten.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Lapos csúcsok.", "Szavannás táj.", "Emelkedo keleten.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Vârfuri plate.", "Peisaj de savana.", "Eleva?ie în est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Vârfuri plate.", "Peisaj de savana.", "Elevație în est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Flat peaks.", "Savannah landscape.", "Elevation in the east.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
@@ -605,11 +605,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-LNO",
     coords: [19.5, -8.5],
     name: { de: "Lunda-Hochland", hu: "Lunda-felföld", ro: "Podi?ul Lunda", en: "Lunda Plateau" },
-    description: { de: "Weite Hochebene.", hu: "Széles fennsík.", ro: "Podi? vast.", en: "Vast plateau." },
+    description: { de: "Weite Hochebene.", hu: "Széles fennsík.", ro: "Un podiș vast care ocupă o mare parte din estul Angolei, influențând rețeaua hidrografică regională.", en: "Vast plateau." },
     facts: {
       de: ["Diamantenvorkommen.", "Wichtiges Relief."],
       hu: ["Gyémántlelohelyek.", "Fontos domborzati elem."],
-      ro: ["Zacaminte de diamante.", "Element de relief important."],
+      ro: ["Podis vast", "Estul Angolei", "Zonă de cumpănă de ape"],
       en: ["Diamond deposits.", "Important relief element."]
     },
     descriptionAdvanced: {
@@ -631,11 +631,11 @@ export const poiExtraAngolaReliefV2: POI[] = [
     parent: "AO-BIE",
     coords: [17.0, -11.5],
     name: { de: "Oberes Cuanza-Tal", hu: "Felso-Cuanza-völgy", ro: "Valea superioara a Cuanzei", en: "Upper Cuanza Valley" },
-    description: { de: "Ursprung des Cuanza.", hu: "A Cuanza eredete.", ro: "Originea Cuanzei.", en: "Origin of the Cuanza." },
+    description: { de: "Ursprung des Cuanza.", hu: "A Cuanza eredete.", ro: "O vale fertilă creată de râul Cuanza, fiind inima geografică și economică a multor activități agricole.", en: "Origin of the Cuanza." },
     facts: {
       de: ["Hügeliges Gelände.", "Viele Quellen."],
       hu: ["Dombos terep.", "Sok forrás."],
-      ro: ["Teren deluros.", "Multe izvoare."],
+      ro: ["Vale de râu", "Bazinul râului Cuanza", "Regiune fertilă"],
       en: ["Hilly terrain.", "Many springs."]
     },
     descriptionAdvanced: {

@@ -1,0 +1,73 @@
+
+{
+  "lang": "multi4",
+  "country": "argentina",
+  "files": ["lib/visualLab/data/poiExtraArgentinaReliefV2.ts"],
+  "items": [
+    {
+      "id": "volcan-domuyo-relief-v2",
+      "descriptionAdvancedEn": "Nicknamed 'The Roof of Patagonia,' Domuyo Volcano, located in the north of Neuquén province, stands as the highest peak in the entire Patagonian region at 4,709 meters. Despite its classification as a volcano, its structure is not a typical cone but rather an imposing mountain massif. The area is exceptionally active geothermally, renowned for its geysers, fumaroles, and hot springs, such as those at Las Olletas. The ascent is considered challenging due to extremely strong winds and geographical isolation. From the summit, the panoramic view of the Andes Cordillera is spectacular, encompassing numerous volcanic peaks in both Argentina and Chile, making it a prized destination for experienced mountaineers seeking a remote adventure.",
+      "factsAdvancedEn": [
+        "Highest mountain in Patagonia, with an elevation of 4,709 meters.",
+        "Located in the Cordillera del Viento in Neuquén province.",
+        "Its name means 'to tremble and grumble' in the Mapuche language.",
+        "Home to Argentina's only geysers in the Las Olletas area.",
+        "First climbed by Europeans in 1903.",
+        "Part of a vast, inactive volcanic complex.",
+        "A major site for geothermal studies in the region."
+      ]
+    },
+    {
+      "id": "cerro-mercedario-relief-v2",
+      "descriptionAdvancedEn": "Cerro Mercedario is one of the giants of the Andes, ranking as the eighth-highest mountain in South America with an altitude of 6,720 meters. Located in the Ramada massif in the province of San Juan, this imposing mountain is often overshadowed by the fame of Aconcagua, though its ascent is considered by many climbers to be more technical and spectacular. Mercedario hosts massive glaciers, such as the Ollada Glacier, which feed vital watersheds for agriculture in the Cuyo region. The mountain's history is linked to the Inca civilization, with evidence of their presence found at high altitudes. The first modern ascent was accomplished by a Polish expedition in 1934, marking the beginning of systematic alpine exploration in the area.",
+      "factsAdvancedEn": [
+        "Its maximum altitude is 6,720 meters above sea level.",
+        "It is located in the San Juan province, in the Ramada massif.",
+        "Ranks among the top 10 highest peaks in the Andes.",
+        "The first successful ascent was on January 18, 1934.",
+        "Hosts high-altitude archaeological sites of Inca origin.",
+        "Its glaciers are essential water sources for the San Juan River.",
+        "Visible from great distances due to its relative isolation."
+      ]
+    },
+    {
+      "id": "volcan-maipo-relief-v2",
+      "descriptionAdvancedEn": "Maipo Volcano is an active and symmetrical stratovolcano located on the border between Argentina and Chile, within the stunning Laguna del Diamante Provincial Reserve in Mendoza. Standing at 5,264 meters, it dominates the landscape above the lagoon, whose diamond shape reflecting the volcano gave the place its name. Maipo is famous for its huge collapse caldera, formed about 450,000 years ago, one of the largest in the world. The landscape is one of the wildest and most beautiful in the Central Andes, accessible only during the summer months due to massive snow accumulation. The volcano and its surrounding lagoon form a fragile high-altitude ecosystem, where wildlife is adapted to extreme conditions of radiation and cold.",
+      "factsAdvancedEn": [
+        "The summit elevation is 5,264 meters.",
+        "It is mirrored in Laguna del Diamante, creating a unique visual effect.",
+        "Its Diamante caldera measures approximately 15 by 20 kilometers.",
+        "The last significant eruptive activity was recorded in 1912.",
+        "It is a top destination for landscape photography and mountaineering.",
+        "The area was flown over by Antoine de Saint-Exupéry in the 1930s.",
+        "Access is usually through the Maipo River valley."
+      ]
+    },
+    {
+      "id": "cerro-bonete-chico-relief-v2",
+      "descriptionAdvancedEn": "Cerro Bonete Chico is the fourth highest mountain in South America, reaching 6,759 meters, located in the province of La Rioja in one of the most isolated regions of the Andes. It is part of the volcanic circle of the Puna de Atacama and is a massive, multi-peaked mountain composed largely of volcanic rock. Although its name suggests something 'small,' it is a silent giant, situated near the Monte Pissis complex. The region is characterized by extreme aridity, strong winds, and an almost lunar landscape, with colorful lagoons at its base where flamingos can be seen. Due to its isolation and logistical difficulties, it was one of the last great mountains of the Andes to be explored in detail and accurately measured by GPS.",
+      "factsAdvancedEn": [
+        "The official height is 6,759 meters above sea level.",
+        "Located in the northwest of La Rioja province.",
+        "It is the fourth highest peak in the Western and Southern Hemispheres.",
+        "The name 'Bonete' refers to the cap-like shape of the summit.",
+        "The first documented ascent was in 1913 by geologist Walther Penck.",
+        "Part of the protected area of the Laguna Brava Provincial Reserve.",
+        "Hosts small high-altitude glaciers on its southern slopes."
+      ]
+    },
+    {
+      "id": "tupungato-relief-v2",
+      "descriptionAdvancedEn": "Mount Tupungato is a massive, dormant stratovolcano located on the border between the Mendoza province and Chile, reaching 6,570 meters. It is one of the highest mountains in the Cuyo region and an iconic symbol of the Andes Cordillera. Tupungato rises above the famous wine valleys, providing a spectacular backdrop to the city of Mendoza. The mountain is covered by permanent glaciers and is considered a major challenge for climbers due to its altitude and unpredictable weather. Historically, the mountain was the scene of the tragic 'Star Dust' plane crash in 1947, the wreckage of which was found in the glaciers decades later. Tupungato remains a pillar of the Andean landscape, serving as a crucial water source for the river of the same name.",
+      "factsAdvancedEn": [
+        "Maximum altitude is 6,570 meters.",
+        "The name comes from the indigenous language and is thought to mean 'star gazer'.",
+        "It is located approximately 80 km southwest of Aconcagua.",
+        "The first ascent was made in 1897 by Matthias Zurbriggen and Stuart Vines.",
+        "Features impressive valley glaciers on its eastern slope.",
+        "The surrounding region was declared a Provincial Park in Argentina.",
+        "It is visible from the city of Santiago de Chile and the plains of Mendoza."
+      ]
+    }
+  ]
+}

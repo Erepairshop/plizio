@@ -233,11 +233,11 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-07",
     coords: [5.7275, 34.85],
     name: { de: "Biskra", hu: "Biszákra", ro: "Biskra", en: "Biskra" },
-    description: { de: "Biskra wird oft als das 'Tor zur Sahara' bezeichnet und ist berühmt für seine Datteln.", hu: "Biszákrát gyakran a 'Szahara kapujaként' emlegetik, és híres a datolyájáról.", ro: "Biskra este adesea numită 'Poarta Saharei' și este renumită pentru curmalele sale.", en: "Biskra is often referred to as the 'Gateway to the Sahara' and is famous for its dates." },
+    description: { de: "Biskra ist als \"Tor zur Sahara\" bekannt und ein bedeutendes Zentrum für den Dattelanbau in der Ziban-Region.", hu: "Biszákrát gyakran a 'Szahara kapujaként' emlegetik, és híres a datolyájáról.", ro: "Biskra este un oraș important situat la poarta deșertului Sahara, cunoscut pentru oazele sale de curmali.", en: "Biskra is often referred to as the 'Gateway to the Sahara' and is famous for its dates." },
     facts: {
-      de: ["Tor zur Sahara", "Zentrum der Dattelproduktion"],
+      de: ["Zentrum des Dattelanbaus", "Tor zur Sahara-Wüste", "Historische Oasenstadt"],
       hu: ["A Szahara kapuja", "A datolyatermelés központja"],
-      ro: ["Poarta Saharei", "Centrul producției de curmale"],
+      ro: ["Poarta Saharei", "Faimoasă pentru curmale", "Climat arid"],
       en: ["Gateway to the Sahara", "Center of date production"]
     },
     descriptionAdvanced: {
@@ -408,11 +408,11 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-30",
     coords: [5.325, 31.95],
     name: { de: "Ouargla", hu: "Ouargla", ro: "Ouargla", en: "Ouargla" },
-    description: { de: "Ouargla ist eine wohlhabende Stadt in der Sahara, das Zentrum der algerischen Erdölindustrie.", hu: "Ouargla egy gazdag város a Szaharában, az algériai kőolajipar központja.", ro: "Ouargla este un oraș prosper din Sahara, centrul industriei petroliere algeriene.", en: "Ouargla is a wealthy city in the Sahara, the center of the Algerian oil industry." },
+    description: { de: "Ouargla ist eine wohlhabende Stadt in der Sahara, das Zentrum der algerischen Erdölindustrie.", hu: "Ouargla egy gazdag város a Szaharában, az algériai kőolajipar központja.", ro: "Ouargla este centrul unei regiuni petroliere majore, situată într-o oază vastă din deșertul algerian.", en: "Ouargla is a wealthy city in the Sahara, the center of the Algerian oil industry." },
     facts: {
       de: ["Zentrum der Erdölindustrie", "Große Oasenstadt"],
       hu: ["A kőolajipar központja", "Nagy oázisváros"],
-      ro: ["Centrul industriei petroliere", "Oraș mare oază"],
+      ro: ["Regiune petrolieră", "Centru de oază", "Altitudine joasă"],
       en: ["Center of the oil industry", "Large oasis city"]
     },
     descriptionAdvanced: {
@@ -433,9 +433,9 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-08",
     coords: [-2.2167, 31.6167],
     name: { de: "Béchar", hu: "Béchar", ro: "Béchar", en: "Béchar" },
-    description: { de: "Béchar ist die Hauptstadt der Saoura-Region im Südwesten Algeriens nahe der Grenze zu Marokko.", hu: "Béchar a Saoura régió fővárosa Délnyugat-Algériában, a marokkói határ közelében.", ro: "Béchar este capitala regiunii Saoura din sud-vestul Algeriei, aproape de granița cu Marocul.", en: "Béchar is the capital of the Saoura region in southwestern Algeria near the Moroccan border." },
+    description: { de: "Bechar ist eine strategisch wichtige Stadt im Südwesten Algeriens, die als administratives und wirtschaftliches Zentrum der Saoura-Region dient.", hu: "Béchar a Saoura régió fővárosa Délnyugat-Algériában, a marokkói határ közelében.", ro: "Béchar este capitala regiunii Saoura din sud-vestul Algeriei, aproape de granița cu Marocul.", en: "Béchar is the capital of the Saoura region in southwestern Algeria near the Moroccan border." },
     facts: {
-      de: ["Wichtigster Ort in Südwestalgerien", "Handelszentrum"],
+      de: ["Zentrum der Saoura-Region", "Wichtiger Militärstützpunkt", "Tor zur westlichen Sahara"],
       hu: ["Délnyugat-Algéria legfontosabb települése", "Kereskedelmi központ"],
       ro: ["Cel mai important loc din sud-vestul Algeriei", "Centru comercial"],
       en: ["Most important place in southwestern Algeria", "Commercial center"]
@@ -458,11 +458,11 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-27",
     coords: [0.0894, 35.9311],
     name: { de: "Mostaganem", hu: "Mosztaganem", ro: "Mostaganem", en: "Mostaganem" },
-    description: { de: "Mostaganem ist eine Hafenstadt am Golf von Arzew mit Stränden und historischer Architektur.", hu: "Mosztaganem kikötőváros az Arzewi-öbölben, strandokkal és történelmi építészettel.", ro: "Mostaganem este un oraș-port din Golful Arzew, cu plaje și arhitectură istorică.", en: "Mostaganem is a port city on the Gulf of Arzew with beaches and historical architecture." },
+    description: { de: "Mostaganem ist eine charmante Hafenstadt am Mittelmeer, die für ihre kulturelle Bedeutung und ihre schönen Sandstrände bekannt ist.", hu: "A Földközi-tenger partján fekvő kikötőváros, amely fontos mezőgazdasági és kereskedelmi központ a régióban.", ro: "Mostaganem este un oraș portuar la Marea Mediterană, cu o istorie bogată și plaje frumoase.", en: "Mostaganem is a port city on the Gulf of Arzew with beaches and historical architecture." },
     facts: {
-      de: ["Hafenstadt", "Bekannt für seine Strände"],
-      hu: ["Kikötőváros", "Strandjairól ismert"],
-      ro: ["Oraș-port", "Cunoscut pentru plajele sale"],
+      de: ["Bedeutende Hafenstadt", "Kulturelles Zentrum", "Beliebtes Touristenziel"],
+      hu: ["Kikötőváros", "Földközi-tenger partja", "Mezőgazdasági központ"],
+      ro: ["Oraș portuar", "Pe coasta mediteraneană", "Istorie diversă"],
       en: ["Port city", "Known for its beaches"]
     },
     descriptionAdvanced: {
@@ -483,10 +483,10 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-34",
     coords: [4.7611, 36.0686],
     name: { de: "Bordj Bou Arréridj", hu: "Bordzs Bú Arreridzs", ro: "Bordj Bou Arréridj", en: "Bordj Bou Arréridj" },
-    description: { de: "Bordj Bou Arréridj ist eine schnell wachsende Industriestadt im Norden Algeriens.", hu: "Bordzs Bú Arreridzs gyorsan növekvő iparváros Észak-Algériában.", ro: "Bordj Bou Arréridj este un oraș industrial în creștere rapidă din nordul Algeriei.", en: "Bordj Bou Arréridj is a fast-growing industrial city in northern Algeria." },
+    description: { de: "Bordj Bou Arreridj ist ein aufstrebendes industrielles Zentrum in den Hochebenen Algeriens, besonders bekannt für die Elektronikfertigung.", hu: "Az Atlasz-hegység lábánál fekvő város, amelyet gyakran az ország elektronikai iparának fővárosaként emlegetnek.", ro: "Bordj Bou Arréridj este un oraș industrial în creștere rapidă din nordul Algeriei.", en: "Bordj Bou Arréridj is a fast-growing industrial city in northern Algeria." },
     facts: {
-      de: ["Wichtiges Zentrum für Elektronik", "Industriestadt"],
-      hu: ["Az elektronika fontos központja", "Iparváros"],
+      de: ["Industrielles Zentrum", "Elektronik-Hauptstadt", "Knotenpunkt in den Highlands"],
+      hu: ["Atlasz-hegység", "Elektronikai ipar központja", "Magasan fekvő város"],
       ro: ["Centru important pentru electronică", "Oraș industrial"],
       en: ["Important center for electronics", "Industrial city"]
     },
@@ -764,11 +764,11 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-48",
     coords: [0.5558, 35.7372],
     name: { de: "Relizane", hu: "Relizane", ro: "Relizane", en: "Relizane" },
-    description: { de: "Relizane ist ein landwirtschaftliches und kommerzielles Zentrum im Cheliff-Tal.", hu: "Relizane mezőgazdasági és kereskedelmi központ a Cheliff völgyében.", ro: "Relizane este un centru agricol și comercial din valea Cheliff.", en: "Relizane is an agricultural and commercial center in the Cheliff Valley." },
+    description: { de: "Relizane liegt in einer fruchtbaren landwirtschaftlichen Region und ist ein wichtiger Verkehrsknotenpunkt im Nordwesten des Landes.", hu: "A Cheliff-völgyben elterülő település, amely gazdag történelmi múlttal és jelentős mezőgazdasági területekkel rendelkezik.", ro: "Relizane este situat în valea râului Cheliff, o zonă agricolă fertilă și importantă pentru regiune.", en: "Relizane is an agricultural and commercial center in the Cheliff Valley." },
     facts: {
-      de: ["Antike Stadt Mina", "Agrarzentrum"],
-      hu: ["Az ókori Mina városa", "Agrárközpont"],
-      ro: ["Orașul antic Mina", "Centru agricol"],
+      de: ["Landwirtschaftliches Zentrum", "Wichtiger Verkehrsknotenpunkt", "Hauptstadt der Provinz Relizane"],
+      hu: ["Cheliff-völgy", "Mezőgazdasági terület", "Történelmi város"],
+      ro: ["Valea râului Cheliff", "Centru agricol", "Climat mediteranean"],
       en: ["Ancient city of Mina", "Agricultural center"]
     },
     descriptionAdvanced: {
@@ -1239,10 +1239,10 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-46",
     coords: [-1.14, 35.2975],
     name: { de: "Aïn Témouchent", hu: "Aïn Témouchent", ro: "Aïn Témouchent", en: "Aïn Témouchent" },
-    description: { de: "Aïn Témouchent liegt nahe der westlichen Küste und ist bekannt für Weinbau und Strände.", hu: "Aïn Témouchent a nyugati part közelében fekszik, borászatáról és strandjairól ismert.", ro: "Aïn Témouchent este situat în apropierea coastei de vest și este cunoscut pentru viticultură și plaje.", en: "Aïn Témouchent is located near the western coast and is known for viticulture and beaches." },
+    description: { de: "Aïn Témouchent liegt nahe der westlichen Küste und ist bekannt für Weinbau und Strände.", hu: "Nyugat-Algéria egyik városa, amely híres a környékén található termékeny talajról és szőlőültetvényekről.", ro: "Aïn Témouchent este situat în apropierea coastei de vest și este cunoscut pentru viticultură și plaje.", en: "Aïn Témouchent is located near the western coast and is known for viticulture and beaches." },
     facts: {
       de: ["Großes Weinbaugebiet", "Bedeutende römische und spanische Einflüsse"],
-      hu: ["Nagy borvidék", "Jelentős római és spanyol hatások"],
+      hu: ["Nyugat-Algéria", "Mezőgazdasági régió", "Szőlőtermesztés"],
       ro: ["Zonă viticolă mare", "Influențe romane și spaniole semnificative"],
       en: ["Large wine-growing area", "Significant Roman and Spanish influences"]
     },
@@ -1339,10 +1339,10 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-54",
     coords: [5.7722, 19.5714],
     name: { de: "In Guezzam", hu: "In Guezzam", ro: "In Guezzam", en: "In Guezzam" },
-    description: { de: "In Guezzam ist der südlichste Grenzort Algeriens und ein wichtiger Transitpunkt in den Niger.", hu: "In Guezzam Algéria legdélibb határvárosa és fontos tranzitpont Niger felé.", ro: "In Guezzam este cel mai sudic punct de frontieră al Algeriei și un important punct de tranzit către Niger.", en: "In Guezzam is the southernmost border crossing of Algeria and an important transit point into Niger." },
+    description: { de: "In Guezzam ist der südlichste Grenzort Algeriens und ein wichtiger Transitpunkt in den Niger.", hu: "Dél-Algéria elszigetelt települése a Szahara szívében, amely fontos határállomás a szomszédos Niger felé.", ro: "In Guezzam este cel mai sudic punct de frontieră al Algeriei și un important punct de tranzit către Niger.", en: "In Guezzam is the southernmost border crossing of Algeria and an important transit point into Niger." },
     facts: {
       de: ["Südlichste Siedlung Algeriens", "Grenze zum Niger"],
-      hu: ["Algéria legdélibb települése", "Határ Nigerrel"],
+      hu: ["Szahara", "Határállomás", "Dél-Algéria"],
       ro: ["Cea mai sudică așezare din Algeria", "Granița cu Niger"],
       en: ["Southernmost settlement of Algeria", "Border with Niger"]
     },
@@ -1489,10 +1489,10 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     parent: "DZ-44",
     coords: [2.2289, 36.2611],
     name: { de: "Khemis Miliana", hu: "Khemis Miliana", ro: "Khemis Miliana", en: "Khemis Miliana" },
-    description: { de: "Khemis Miliana ist eine wichtige Industrie- und Handelsstadt im Cheliff-Tal.", hu: "Khemis Miliana egy fontos ipari és kereskedelmi város a Cheliff völgyében.", ro: "Khemis Miliana este un important oraș industrial și comercial din valea Cheliff.", en: "Khemis Miliana is an important industrial and commercial city in the Cheliff Valley." },
+    description: { de: "Khemis Miliana ist eine wichtige Industrie- und Handelsstadt im Cheliff-Tal.", hu: "A Cheliff-völgy völgyében fekvő város, amely stratégiai elhelyezkedése miatt fontos közlekedési csomópont.", ro: "Khemis Miliana este un important oraș industrial și comercial din valea Cheliff.", en: "Khemis Miliana is an important industrial and commercial city in the Cheliff Valley." },
     facts: {
       de: ["Industrielles Zentrum", "Antike Stadt Malliana"],
-      hu: ["Ipari központ", "Az ókori Malliana városa"],
+      hu: ["Cheliff-völgy", "Közlekedési csomópont", "Észak-Algéria"],
       ro: ["Centru industrial", "Orașul antic Malliana"],
       en: ["Industrial center", "Ancient city of Malliana"]
     },

@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-meat-packing-economic-v2",
+      "descriptionAdvanced": "A jamaicai húsfeldolgozó üzemek a sziget állattenyésztési ágazatának központi egységei, ahol a helyi farmokról érkező marha-, sertés- és kecskehúst dolgozzák fel a belföldi fogyasztás és a vendéglátóipar számára. Ezek a létesítmények szigorú állat-egészségügyi és élelmiszerbiztonsági ellenőrzés mellett működnek, biztosítva a magas minőségű hústermékek folyamatos ellátását. A modern húsfeldolgozás során nagy hangsúlyt fektetnek a higiéniára, a pontos darabolásra és a vákuumcsomagolási technológiákra, amelyek meghosszabbítják a termékek eltarthatóságát. Az ágazat fontos pillére Jamaica élelmiszer-önrendelkezésének, csökkentve a húsimporttól való függőséget, miközben stabil piacot teremt a vidéki állattartók számára, különösen St. Elizabeth és Westmoreland plébániákban.",
+      "factsAdvanced": [
+        "A húsfeldolgozók jelentős része a legeltetési körzetek közelében található.",
+        "Szigorú kormányzati ellenőrzés garantálja a húsmentességet a betegségektől.",
+        "A kecskehús (mutton) feldolgozása kiemelt fontosságú a nemzeti konyha miatt.",
+        "Modern hűtőházi infrastruktúra biztosítja a friss áru elosztását.",
+        "Az üzemekben képzett hentesek és élelmiszer-technológusok dolgoznak.",
+        "Jelentős mennyiségű húst szállítanak a sziget luxusszállodáiba.",
+        "A feldolgozás során keletkező melléktermékeket gyakran ipari célokra hasznosítják.",
+        "Az ágazat támogatja a helyi 'Jamaica Hope' szarvasmarha-fajta tenyésztését."
+      ]
+    },
+    {
+      "id": "jm-cold-storage-economic-v2",
+      "descriptionAdvanced": "Jamaica hűtőházi és mélyhűtő raktárai a sziget élelmiszer-logisztikai láncának kritikus láncszemei, amelyek lehetővé teszik a romlandó áruk hosszú távú tárolását és biztonságos elosztását. Ezek a modern létesítmények, amelyek főként Kingston és Montego Bay kikötőinek közelében helyezkednek el, precíz hőmérséklet-szabályozást biztosítanak a hústermékek, tengeri gyümölcsök, tejtermékek és importált gyümölcsök számára. A hűtőházi kapacitások bővítése elengedhetetlen a sziget élelmiszerbiztonsága szempontjából, különösen a hurrikánszezon idején, amikor a tartalékok megőrzése létfontosságú. A modern technológiák, mint az automata polcrendszerek és az energiahatékony hűtőrendszerek, növelik az üzemeltetés hatékonyságát és csökkentik a működési költségeket, támogatva a nagykereskedelmi és exporttevékenységeket.",
+      "factsAdvanced": [
+        "A hűtőházak többsége a nagy kikötők és elosztó központok mellett fekszik.",
+        "Számítógépesített készletkezelő rendszereket alkalmaznak a pontos nyomon követéshez.",
+        "Különálló zónák biztosítják a különböző hőmérsékleti igényű áruk tárolását.",
+        "Tartalék generátorok garantálják a folyamatos hűtést áramszünet esetén.",
+        "Jelentős szerepet játszanak a tengeri exportra szánt termékek előkészítésében.",
+        "A létesítmények megfelelnek a nemzetközi logisztikai és higiéniai szabványoknak.",
+        "Az iparág fejlődése segít csökkenteni a mezőgazdasági betakarítás utáni veszteségeket.",
+        "A hűtőházi logisztika a modern jamaicai kereskedelem egyik legdinamikusabb ága."
+      ]
+    },
+    {
+      "id": "jm-textile-factory-economic-v2",
+      "descriptionAdvanced": "A jamaicai textil- és ruházati gyárak, amelyek gyakran a szabadkereskedelmi övezetekben találhatók, az ország könnyűiparának fontos szegmensét képviselik. Ezek az üzemek elsősorban exportra gyártanak ruházati cikkeket, sportruházatot és egyenruhákat neves nemzetközi márkák számára, kihasználva a kedvező kereskedelmi egyezményeket és a szakképzett helyi munkaerőt. A textilipar jelentős női foglalkoztató a városi területeken, hozzájárulva a családok megélhetéséhez és a gazdasági stabilitáshoz. Bár a globális verseny éles, a jamaicai gyárak a gyors átfutási időre, a minőségi kivitelezésre és a speciális igények kielégítésére összpontosítanak. A modernizáció során bevezetett új szabás- és varrástechnológiák növelik a termelékenységet, biztosítva az ágazat versenyképességét a nemzetközi piacon.",
+      "factsAdvanced": [
+        "A textilgyárak nagy része a Kingston-i és Montego Bay-i szabadkereskedelmi övezetekben üzemel.",
+        "Jelentős mennyiségű készruhát exportálnak az amerikai piacra.",
+        "Az ágazat kiemelt szerepet játszik a nők munkaerőpiaci integrációjában.",
+        "Szigorú minőségellenőrzési folyamatokon mennek keresztül a termékek.",
+        "Sok üzem szakosodott technikai sportruházat és iskolai egyenruhák gyártására.",
+        "A kedvező vámtarifák segítik a jamaicai termékek versenyképességét.",
+        "A gyárakban modern varrógéppark és digitális tervezőrendszerek működnek.",
+        "Az iparág hozzájárul a sziget ipari bázisának diverzifikálásához."
+      ]
+    },
+    {
+      "id": "taino-middens-white-marl-history-v2",
+      "descriptionAdvanced": "A White Marl területén található Taino kagylóhalmok (middens) Jamaica egyik legjelentősebb prekolumbián régészeti lelőhelyét alkotják, bepillantást engedve a sziget őslakosainak mindennapi életébe. Ezek a mesterséges dombok évszázadok alatt halmozódtak fel a Taino lakóhelyek közelében, és ételmaradékokat, törött cserépedényeket, valamint kőszerszámokat tartalmaznak. A régészeti feltárások során itt találták meg a Karib-térség egyik leggazdagabb kerámialelet-együttesét, amely segített a tudósoknak rekonstruálni a Taino társadalom szerkezetét, étrendjét és kereskedelmi kapcsolatait. A lelőhely St. Catherine plébániában található, és bár a városiasodás veszélyezteti, továbbra is alapvető forrása Jamaica legkorábbi történelmének és kulturális örökségének megismeréséhez.",
+      "factsAdvanced": [
+        "A White Marl lelőhely St. Catherine-ben, a Ferry folyó közelében fekszik.",
+        "A kagylóhalmok elsősorban tengeri élőlények maradványaiból állnak.",
+        "A leletek az i. sz. 900 és 1500 közötti időszakból származnak.",
+        "Itt fedezték fel a jellegzetes vörös festésű Taino kerámiák számos példányát.",
+        "A területen egy kisebb múzeum is működött a leletek bemutatására.",
+        "A lelőhelyet nemzeti emlékművé nyilvánították Jamaicában.",
+        "Segített igazolni a Taino nép fejlett mezőgazdasági és halászati technikáit.",
+        "A régészek számos díszített amulettet és kőeszközt is találtak itt."
+      ]
+    },
+    {
+      "id": "nanny-town-ruins-history-v2",
+      "descriptionAdvanced": "Nanny Town romjai a Blue Mountains mélyén találhatók, és a jamaicai maronok (szökött rabszolgák) ellenállásának legszentebb és legnehezebben megközelíthető helyszínét jelentik. A települést Nanny, a maronok legendás vezetője és Jamaica nemzeti hősnője alapította a 18. században stratégiai pontként a brit gyarmati erők elleni harchoz. A hegyvidéki erődítmény elhelyezkedése lehetővé tette a maronok számára, hogy évtizedekig sikeresen verjék vissza a túlerőben lévő brit csapatokat, kihasználva a meredek terep és a sűrű erdő adottságait. Bár 1734-ben a briteknek sikerült elfoglalniuk a várost, Nanny Town szellemisége és a szabadságért vívott küzdelem emléke máig él a maron közösségekben. A romok ma az UNESCO világörökség részét képezik, mint az ellenállás és az afrikai örökség megőrzésének globális jelképei.",
+      "factsAdvanced": [
+        "Nanny Town a Blue and John Crow Mountains Nemzeti Park területén fekszik.",
+        "A település névadója Nanny, a maronok híres vezére és nemzeti hős.",
+        "A helyszín tengerszint feletti magassága és elszigeteltsége miatt természetes erőd volt.",
+        "A maronok itt fejlesztették tökélyre a gerilla-hadviselést.",
+        "1734-ben kapitány Stoddart vezetésével a britek ágyúkkal ostromolták meg.",
+        "A területen ma is láthatók az egykori kőépítmények és sáncok maradványai.",
+        "A helyszín csak többnapos, nehéz túrával érhető el képzett vezetőkkel.",
+        "Nanny Town ma az emberi jogok és a szabadság nemzetközi szimbóluma."
+      ]
+    },
+    {
+      "id": "morant-bay-courthouse-history-v2",
+      "descriptionAdvanced": "A Morant Bay-i bíróság épülete Jamaica történelmének egyik legfontosabb tragikus eseményének, az 1865-ös lázadásnak a központi helyszíne. Paul Bogle, a baptista diakónus és nemzeti hős vezetésével a helyi lakosok itt tiltakoztak az elnyomás, az igazságtalanság és a szegénység ellen, ami végül véres összecsapáshoz vezetett a gyarmati hatóságokkal. A bíróság épületének felgyújtása a felkelés csúcspontja volt, amelyet brutális megtorlás követett Eyre kormányzó részéről, megváltoztatva Jamaica alkotmányos berendezkedését és a brit gyarmati politikát. Bár az eredeti épület jelentős része elpusztult, a helyszín továbbra is az igazságkeresés és a polgári jogokért vívott küzdelem szimbóluma maradt. Az épület előtt álló Paul Bogle-szobor örök emléket állít azoknak, akik életüket adták a szabadságért és az egyenlőségért.",
+      "factsAdvanced": [
+        "A bíróság az 1865-ös Morant Bay-i lázadás epicentruma volt.",
+        "Paul Bogle-t a felkelés után az épület közelében végezték ki.",
+        "A lázadás közvetlen következményeként Jamaica közvetlen brit koronagyarmat lett.",
+        "Az épület előtt Paul Bogle nemzeti hős bronzszobra látható.",
+        "Az eredeti 18. századi épület egy része tűzvészben pusztult el.",
+        "A bíróságot 2007-ben egy újabb tűz sújtotta, jelentős károkat okozva.",
+        "A helyszín Jamaica egyik legfontosabb történelmi emlékhelye.",
+        "Minden évben megemlékezéseket tartanak itt a lázadás évfordulóján."
+      ]
+    },
+    {
+      "id": "halse-hall-great-house-history-v2",
+      "descriptionAdvanced": "A Halse Hall kúria Clarendon plébániában Jamaica egyik legszebb és legjobb állapotban fennmaradt ültetvényes háza, amely a 17. századi brit gyarmati építészet jegyeit viseli magán. Az eredetileg erődként is szolgáló épületet Thomas Halse őrnagy építtette a sziget brit elfoglalása után, és évszázadokon át a család tulajdonában maradt, mielőtt a modern korban ipari és kulturális célokat kapott volna. A ház vastag kőfalai és stratégiai elhelyezkedése a korai telepesek biztonsági igényeit tükrözi a támadásokkal szemben. Ma az Alcoa/Jamalco bauxitvállalat tulajdonában van, de továbbra is látogatható történelmi emlékhelyként, ahol a látogatók megismerhetik az ültetvényes életmódot, a rabszolgatartás korszakát és a sziget mezőgazdasági fejlődését. A kúria kertje és belső berendezése hűen őrzi a múlt eleganciáját és ellentmondásos történelmét.",
+      "factsAdvanced": [
+        "Az épület alapjai az 1670-es évekből származnak.",
+        "Eredetileg Thomas Halse őrnagy rezidenciája és védelmi pontja volt.",
+        "A kúria alsó szintje masszív kőből, a felső pedig fából épült.",
+        "Clarendon plébánia egyik legrégebbi, ma is álló lakóépülete.",
+        "A ház alatt egykor raktárak és börtöncellák is helyet kaptak.",
+        "Híres vendégei között tudhatta a sziget számos kormányzóját.",
+        "A kúria ma a Jamalco timföldvállalat vendégházaként és múzeumaként funkcionál.",
+        "A környéken végzett ásatások számos koloniális kori leletet tártak fel."
+      ]
+    },
+    {
+      "id": "st-peters-church-port-royal-history-v2",
+      "descriptionAdvanced": "A port royal-i Szent Péter-templom Jamaica egyik legjelentősebb vallási és történelmi műemléke, amely a hírhedt 'kalózfőváros' viharos múltját idézi. Az eredeti templomok az 1692-es pusztító földrengés során megsemmisültek, de a jelenlegi épület, amelyet 1725-ben emeltek, hűen őrzi a korabeli anglikán építészet jegyeit és számos értékes ereklyét. Itt található többek között Henry Morgan kalózvezér és kormányzó sírhelyének feltételezett közelében számos tengerészeti tiszt és kalandor emléktáblája. A templom belső tere, a sötét mahagóni padokkal és a történelmi ezüsttárgyakkal, csendes menedéket nyújt a látogatóknak a város zajától. A Szent Péter-templom nemcsak istentiszteleti hely, hanem a port royal-i közösség túlélésének és újjászületésének szimbóluma is a természeti katasztrófák után.",
+      "factsAdvanced": [
+        "A jelenlegi templom 1725-1726 körül épült fel.",
+        "Az 1692-es földrengés előtt három korábbi templom is állt Port Royalban.",
+        "Itt őrzik azt az ezüst úrvacsorai készletet, amelyet állítólag Henry Morgan adományozott.",
+        "A falakon számos, a 18. századból származó tengerészeti emléktábla látható.",
+        "Az épület téglafalai és mahagóni tetőszerkezete az eredeti formájában maradt meg.",
+        "A templomkertben számos híres tengerész és katona nyugszik.",
+        "Itt keresztelték meg Jamaica történelmének több neves személyiségét is.",
+        "A templom ma is aktív anglikán hitélet központja."
+      ]
+    },
+    {
+      "id": "colbeck-castle-history-v2",
+      "descriptionAdvanced": "A Colbeck Castle romjai St. Catherine plébániában Jamaica egyik legrejtélyesebb és legmonumentálisabb koloniális építményét alkotják. A 17. század végén épült, inkább egy erődített kastélyra, mint ültetvényes házra emlékeztető épületet John Colbeck ezredesnek tulajdonítják, aki a sziget brit elfoglalása után kapott itt hatalmas földterületeket. A kastély négy saroktornyával és masszív kőfalaival egyedülálló építészeti jelenség a Karib-térségben, tükrözve a korai brit telepesek állandó védelmi készenlétét a spanyol vagy rabszolgatámadásokkal szemben. Bár mára tető nélkül áll és az enyészeté, méretei és szerkezete ma is lenyűgözik a látogatókat. A Colbeck Castle fontos régészeti lelőhely, amely segít megérteni a korai jamaicai társadalom militarizált jellegét és a gyarmati hatalom megszilárdításának folyamatát.",
+      "factsAdvanced": [
+        "A kastély feltehetően az 1680-as években épült.",
+        "John Colbeck ezredesről kapta a nevét, aki a brit inváziós sereg tagja volt.",
+        "Ez Jamaica legnagyobb 17. századi épületmaradványa.",
+        "Négy sarokbástyája lőrésekkel volt ellátva a védelem érdekében.",
+        "Az épületet olasz palladiánus stílusjegyek is jellemzik.",
+        "A kastély egykor 2000 hektáros cukornádültetvény központja volt.",
+        "A helyszínt a Jamaica National Heritage Trust felügyeli.",
+        "A romok Old Harbour közelében, sík területen fekszenek."
+      ]
+    },
+    {
+      "id": "stewart-castle-ruins-history-v2",
+      "descriptionAdvanced": "Stewart Castle romjai Trelawny plébániában egy tipikus 18. századi erődített kúria maradványai, amely a gyarmati korszak gazdagságát és bizonytalanságát egyaránt reprezentálja. James Stewart építette 1754-ben, és a ház nemcsak kényelmes otthonként szolgált, hanem védelmi pontként is a gyakori rabszolgalázadások és kalóztámadások ellen. A vastag mészkőfalak, a lőrésszerű ablakok és a masszív szerkezet a 'Great House' építészet egy különleges, erőd-szerű típusát mutatják be. A kastély környékén végzett ásatások rávilágítottak a rabszolgák életkörülményeire is, akik az ültetvény fenntartásán dolgoztak. Bár ma romos állapotban van, a Stewart Castle fontos történelmi tanúhely, amely segít rekonstruálni az északi partvidék 18. századi társadalmi és gazdasági viszonyait.",
+      "factsAdvanced": [
+        "Az épületet 1754-ben James Stewart építtette.",
+        "A kastély erődített 'Great House' stílusban készült.",
+        "Trelawny plébánia egyik legfontosabb 18. századi műemléke.",
+        "A romok között egykor tágas báltermek és lakosztályok voltak.",
+        "A falak helyi mészkőből épültek, sárga tégla díszítéssel.",
+        "A területen Taino indiánok nyomait is felfedezték a régészek.",
+        "A helyszín panorámás kilátást nyújt a környező partvidékre.",
+        "Stewart Castle egykor a környék legnagyobb cukornádültetvényének központja volt."
+      ]
+    },
+    {
+      "id": "good-hope-great-house-history-v2",
+      "descriptionAdvanced": "A Good Hope kúria Trelawny plébániában Jamaica egyik legszebb és leginkább autentikus állapotban megmaradt 18. századi ültetvényes háza, amely a Martha Brae folyó völgyére néz. John Tharp építtette 1755-ben, és az épület a palladiánus építészet gyönyörű példája a Karib-térségben, mahagóni belső tereivel és klasszikus arányaival. A birtok egykor a sziget egyik leggazdagabb és legmodernebb cukorültetvénye volt, saját kórházzal, templommal és rabszolgalakásokkal, amelyek közül több ma is látható. Ma a Good Hope egy luxus turisztikai desztináció, amely ötvözi a történelmi örökséget a modern kalandturizmussal, lehetőséget adva a látogatóknak az ültetvényes múlt megismerésére és a természet élvezetére. A ház falai között sétálva megelevenedik Jamaica aranykora és a rabszolgaság drámai időszaka is.",
+      "factsAdvanced": [
+        "A kúria 1755-ben épült John Tharp, a gazdag ültetvényes számára.",
+        "A birtok fénykorában több mint 3000 embert foglalkoztatott.",
+        "Good Hope saját pénzverdével és belső vasúti hálózattal is rendelkezett.",
+        "Az épület belső tereiben eredeti mahagóni padlók és ajtók találhatók.",
+        "A kúria kertjéből lenyűgöző kilátás nyílik a Cockpit Country hegyeire.",
+        "A birtokon található Jamaica egyik legfontosabb történelmi ipari műemléke, a vízikerekes malom.",
+        "Híres filmforgatások helyszíne is volt az évek során.",
+        "A helyszín ma ökoturisztikai és kulturális központként működik."
+      ]
+    },
+    {
+      "id": "fort-haldane-history-v2",
+      "descriptionAdvanced": "Fort Haldane egy 18. századi brit erőd romja St. Mary plébániában, Port Maria közelében, amely a sziget északi partjának védelmére épült a tengeri támadások ellen. Az 1759-ben emelt erőd Robert Haldane kormányzóról kapta a nevét, és stratégiai pontként szolgált a brit haditengerészet számára. Bár az erődítmény nagy része mára elpusztult, a fennmaradt ágyúk és kőfalak ma is büszkén tekintenek a Karib-tengerre, emlékeztetve a látogatókat a gyarmati korszak katonai feszültségeire. Fort Haldane különösen fontos helyszín a jamaicai történelemben, mivel központi szerepet játszott az 1760-as Tacky-féle rabszolgalázadás leverésében, amely az egyik legjelentősebb felkelés volt a szigeten. A helyszín ma csendes emlékpark, ahonnan lenyűgöző kilátás nyílik a Port Maria-i öbölre és a szemközti Cabarita-szigetre.",
+      "factsAdvanced": [
+        "Az erődöt 1759-ben építették a Port Maria-i öböl védelmére.",
+        "Névadója Robert Haldane, Jamaica egykori brit kormányzója.",
+        "Az erőd ágyúit Londonban öntötték, és ma is az eredeti helyükön láthatók.",
+        "1760-ban innen indultak a csapatok a Tacky-lázadás leverésére.",
+        "Az erődítmény mészkőből és helyi kőzetből épült.",
+        "A terület ma nemzeti történelmi emlékhely és park.",
+        "Látványos panorámát nyújt a tengerre és a környező partvidékre.",
+        "A közelben található a Firefly birtok, Noel Coward egykori otthona."
+      ]
+    },
+    {
+      "id": "edinburgh-castle-ruins-jamaica-history-v2",
+      "descriptionAdvanced": "Az edinburgh-i kastély romjai St. Ann plébániában Jamaica történetének egyik legsötétebb és legbizarrabb fejezetéhez kapcsolódnak. Ez volt az otthona Lewis Hutchinsonnak, a hírhedt skót származású sorozatgyilkosnak, akit a 'Mad Doctor'-ként emlegettek a 18. század végén. Hutchinson az elszigetelt, várszerű épületből leste meg a magányos utazókat, akiket kirabolt és meggyilkolt, majd testüket egy közeli víznyelőbe dobta. Az építmény maga egy masszív, kéttornyos kőház volt, amely egyszerre szolgált otthonként és védelmi pontként a vadon közepén. Hutchinson elfogása és kivégzése után a ház elhagyatottá vált, és az idők folyamán rommá lett. Ma a helyszín a sötét turizmus kedvelőit és a történelem iránt érdeklődőket vonzza, mementóként szolgálva a gyarmati korszak törvénytelenségeiről és egy zavart elme pusztításáról.",
+      "factsAdvanced": [
+        "Az épület a 18. század közepén épült Lewis Hutchinson számára.",
+        "Hutchinson Jamaica első ismert és legkegyetlenebb sorozatgyilkosa volt.",
+        "A kastély romjai közelében található a hírhedt 'Hutchinson's Hole' víznyelő.",
+        "Az építmény stratégiailag fontos útvonal mentén feküdt az északi és déli part között.",
+        "Hutchinsont 1773-ban akasztották fel Spanish Townban.",
+        "A romok ma is látogathatók, bár állapotuk erősen leromlott.",
+        "Az épület stílusa a skót várakat idézte, vastag falakkal és tornyokkal.",
+        "A helyszín számos helyi legenda és kísértethistória alapja."
+      ]
+    },
+    {
+      "id": "rockfort-mineral-bath-history-v2",
+      "descriptionAdvanced": "A rockforti ásványfürdő Kingston keleti kapujában egyedülálló módon ötvözi a gyógyító természeti kincseket és a katonai történelmet. A fürdőhely az 1907-es nagy földrengés után jött létre, amikor a kőzetek elmozdulása révén feltörtek az ásványi anyagokban gazdag gyógyvizek a Fort Rockfort nevű 17. századi brit erőd lábánál. Az erődöt eredetileg a főváros védelmére építették a tengeri támadások ellen, és ma is láthatók masszív falai és lőrései a fürdőzők közvetlen közelében. A sós, radioaktív gyógyvíz híres reumatikus és idegi panaszok enyhítésére, vonzva a gyógyulni vágyókat és a kikapcsolódást keresőket egyaránt. Rockfort ma egy szépen karbantartott komplexum, ahol a látogatók a történelmi falak árnyékában élvezhetik a természet adta terápiát és a kingstoni öböl látványát.",
+      "factsAdvanced": [
+        "A gyógyforrások az 1907-es kingstoni földrengés után fakadtak fel.",
+        "A fürdő egy 17. századi brit tengerparti erőd mellett található.",
+        "A víz gazdag magnéziumban, kalciumban és nátrium-kloridban.",
+        "Az erődöt eredetileg 1694-ben erősítették meg a francia invázió ellen.",
+        "A komplexumban több privát fürdő és egy nagy közösségi medence is található.",
+        "A rockforti cementgyár közvetlen szomszédságában fekszik.",
+        "A víz hőmérséklete állandó és kellemesen langyos az év minden szakában.",
+        "A helyszínt a Caribbean Cement Company és a nemzeti örökségvédelmi hivatal kezeli."
+      ]
+    },
+    {
+      "id": "old-naval-hospital-port-royal-history-v2",
+      "descriptionAdvanced": "A port royal-i régi tengerészeti kórház Jamaica gyarmati múltjának egyik legimpozánsabb és funkcionálisan legérdekesebb épülete. A 19. század elején, 1818 körül épült létesítmény a brit haditengerészet katonáinak és matrózainak ellátására szolgált a sárgaláz és más trópusi betegségek elleni küzdelemben. Az épület különlegessége a korai öntöttvas szerkezet használata, amely segített ellenállni a tűzvészeknek és a hurrikánoknak, valamint a hatalmas verandák, amelyek a légáramlást biztosították a gyógyuláshoz. Ma az épület a Jamaica National Heritage Trust székhelyének és egy helytörténeti múzeumnak ad otthont, ahol a látogatók megismerhetik Port Royal katonai-tengerészeti jelentőségét és a korabeli orvoslás történetét. Ez a monumentális építmény a partvonalon állva ma is uralja Port Royal látképét.",
+      "factsAdvanced": [
+        "A jelenlegi épületet 1818 körül fejezték be.",
+        "Ez az egyik legrégebbi öntöttvas vázas épület a Karib-térségben.",
+        "A szerkezet előregyártott elemeit Angliából szállították Jamaicába.",
+        "Eredetileg a sárgalázban szenvedő tengerészek kezelésére specializálódott.",
+        "Az épületet az 1951-es Charlie hurrikán után jelentősen restaurálták.",
+        "Ma múzeumként működik, bemutatva Port Royal régészeti leleteit.",
+        "A vastag falak és a tágas verandák a trópusi klímához való alkalmazkodást tükrözik.",
+        "A kórház egykor a brit Royal Navy legfontosabb egészségügyi bázisa volt a térségben."
+      ]
+    },
+    {
+      "id": "rodney-memorial-spanish-town-history-v2",
+      "descriptionAdvanced": "A Rodney-emlékmű Spanish Town történelmi főterén (Emancipation Square) áll, és a brit haditengerészeti dicsőség egyik legpazarabb emléke Jamaicában. A neoklasszicista stílusú szobrot és a hozzá tartozó pavilont John Bacon híres brit szobrász készítette George Rodney admirális tiszteletére, aki az 1782-es Saintes-i csatában legyőzte a francia flottát, megmentve Jamaicát a megszállástól. Az admirális római tógában ábrázolt szobra egy díszes boltív alatt áll, mellette két elfoglalt francia ágyúval, szimbolizálva a tengeri fölényt. Az emlékmű nemcsak egy katonai győzelemnek állít emléket, hanem a 18. századi Spanish Town politikai és kulturális központjának is dísze volt. Ma a látogatók a városi múzeumba belépve tekinthetik meg az emlékművet, amely Jamaica gyarmati építészetének egyik legszebb fennmaradt együttese.",
+      "factsAdvanced": [
+        "Az emlékművet 1792-ben állították fel Spanish Town központjában.",
+        "John Bacon szobrászművész alkotása, aki a korszak egyik legnevesebb művésze volt.",
+        "George Rodney admirálist a győztes Saintes-i tengeri csata után ünnepelték hősként.",
+        "A szobor melletti ágyúkat a francia 'Ville de Paris' zászlóshajóról zsákmányolták.",
+        "Az emlékművet egykor fűtött viták övezték a Kingstonba való esetleges áthelyezése miatt.",
+        "A pavilon klasszikus dór oszlopokkal és boltívekkel rendelkezik.",
+        "A szobor admirálist római parancsnokként, tógában ábrázolja.",
+        "A Rodney-emlékmű a Spanish Town-i történelmi negyed szívében található."
+      ]
+    },
+    {
+      "id": "hibbert-house-kingston-history-v2",
+      "descriptionAdvanced": "A Hibbert House, más néven Headquarters House, Kingston belvárosában Jamaica egyik legfontosabb polgári és politikai történeti emléke. Thomas Hibbert gazdag kereskedő építtette 1755-ben magánrezidenciaként, egy fogadás részeként, hogy melyik kereskedő tudja a legszebb házat építeni a városban. Később az épület katonai parancsnokságként, majd a sziget parlamentjének székhelyeként szolgált több mint egy évszázadon át, mielőtt a Gordon House felváltotta volna. A ház a palladiánus építészet gyönyörű példája, mahagóni lépcsőházaival, tágas termeivel és tégla szerkezetével hűen tükrözi a 18. századi Kingston gazdagságát. Ma a Jamaica National Heritage Trust otthona, és múzeumként is funkcionál, ahol a látogatók megismerhetik a sziget közigazgatásának és szabadságharcának történetét.",
+      "factsAdvanced": [
+        "A ház 1755-ben épült Thomas Hibbert megbízásából.",
+        "1872 és 1960 között itt ülésezett a jamaicai parlament (Legislative Council).",
+        "Az épületet a brit hadsereg is használta főhadiszállásként a 19. században.",
+        "Egyike Kingston kevés fennmaradt 18. századi téglaépületének.",
+        "Belső tereiben eredeti mahagóni faragások és korabeli bútorok láthatók.",
+        "A ház központi elhelyezkedése miatt mindig is a politikai események gyújtópontja volt.",
+        "Az épületet alaposan restaurálták az 1907-es földrengés után.",
+        "Ma itt találhatók a Jamaica National Heritage Trust irodái."
+      ]
+    },
+    {
+      "id": "old-iron-bridge-spanish-town-history-v2",
+      "descriptionAdvanced": "A Spanish Town-i öntöttvas híd, amely a Rio Cobre folyón ível át, a mérnöki tudomány és az ipari forradalom egyik legértékesebb emléke a Karib-térségben. Az 1801-ben felavatott híd az egész nyugati félteke legrégebbi fennmaradt öntöttvas szerkezete, amelyet Angliában gyártottak és darabokban szállítottak Jamaicába. A híd megépítése forradalmasította a belső közlekedést a szigeten, biztonságos átkelést nyújtva a korábban kiszámíthatatlan folyón. Bár ma már csak gyalogos forgalomra alkalmas és állapota aggodalomra ad okot, kecses ívei és történelmi jelentősége továbbra is vonzza a látogatókat és a technikatörténet iránt érdeklődőket. A híd nemcsak egy közlekedési eszköz volt, hanem a modernizáció és a brit technológiai export szimbóluma is a gyarmati Jamaicában.",
+      "factsAdvanced": [
+        "A hidat 1801-ben adták át a forgalomnak.",
+        "A szerkezet elemeit a Walker & Company öntödében készítették az angol Rotherhamben.",
+        "Ez a legrégebbi ilyen típusú híd Amerikában.",
+        "A híd 25 méter hosszú és egyetlen öntöttvas ívből áll.",
+        "Tervezését Thomas Wilson nevéhez kötik.",
+        "Az 1950-es évek óta nemzeti emlékműként tartják nyilván.",
+        "Súlyos károkat szenvedett az évszázadok során a hurrikánok és az erózió miatt.",
+        "A híd Spanish Town keleti bejáratánál található."
+      ]
+    },
+    {
+      "id": "fort-augusta-history-v2",
+      "descriptionAdvanced": "Fort Augusta egy monumentális 18. századi erődítmény Jamaica déli partján, amely Kingston kikötőjének védelmére épült. A 1740-es években emelt erőd stratégiai elhelyezkedése a Mosquito Pointon tette lehetővé, hogy ellenőrizze a hajóforgalmat Port Royal és Kingston között. Az erődítmény különlegessége hatalmas kiterjedése és az a tény, hogy falai között egykor több száz katona állomásozott, és több tucat ágyú sorakozott a tenger felé. Történelme során az erőd nemcsak katonai bázisként, hanem börtönként is funkcionált, és itt történt a jamaicai történelem egyik legsúlyosabb lőporraktár-robbanása is 1763-ban. Ma az erőd falai között működik Jamaica egyetlen női börtöne, így a helyszín korlátozottan látogatható, de történelmi jelentősége és impozáns falai továbbra is fontos részét képezik a partmenti védelmi rendszernek.",
+      "factsAdvanced": [
+        "Az erőd építése 1740-ben kezdődött és évekig tartott.",
+        "Nevét Szász-Gothai Auguszta hercegnő, III. György anyja tiszteletére kapta.",
+        "1763-ban egy villámcsapás miatt felrobbant a lőporraktára, 300 ember halálát okozva.",
+        "Fénykorában 80 ágyúval volt felszerelve.",
+        "Az erődítmény mészkőből és téglából épült, hatalmas bástyákkal.",
+        "A 20. század közepétől büntetés-végrehajtási intézetként használják.",
+        "Stratégiai szerepe volt a napóleoni háborúk idején a Karib-tengeren.",
+        "Az erőd falaiból kiváló kilátás nyílik a kingstoni kikötőre."
+      ]
+    },
+    {
+      "id": "falmouth-historic-courthouse-history-v2",
+      "descriptionAdvanced": "A falmouth-i történelmi bíróság épülete a jamaicai grúz építészet egyik legszebb és legimpozánsabb példája az északi parton. Az eredetileg 1815-ben emelt épület a város gazdasági virágkorát jelképezte, amikor Falmouth a sziget egyik legfontosabb cukorexportáló kikötője volt. Klasszikus oszlopaival, elegáns lépcsősorával és tágas termeivel az épület nemcsak bíróságként, hanem a közösségi élet és a közigazgatás központjaként is szolgált Trelawny plébániában. Az 1920-as években egy pusztító tűzvész után újjáépítették, megőrizve az eredeti terveket és stílusjegyeket. Ma a bíróság épülete a város történelmi negyedének ékköve, amely a modern tengerjáró kikötő szomszédságában fogadja a látogatókat, emlékeztetve őket Jamaica koloniális múltjának pompájára és jogi történelmére.",
+      "factsAdvanced": [
+        "Az eredeti bíróságot 1815-ben fejezték be.",
+        "Az épület Falmouth történelmi központjában, a Water Square közelében fekszik.",
+        "A jamaicai grúz stílus (Jamaican Georgian) egyik legtisztább példája.",
+        "Az 1926-os tűzvész után hűen az eredeti stílushoz állították helyre.",
+        "Ma a Trelawny Parish Municipal Corporation székhelye is egyben.",
+        "Az épület emeleti részén nagyszabású bálokat is rendeztek a 19. században.",
+        "Impozáns óratornya a város tájékozódási pontja.",
+        "A bíróság falai között számos fontos politikai és jogi döntés született Jamaica története során."
+      ]
+    },
+    {
+      "id": "liberty-hall-legacy-of-marcus-garvey-history-v2",
+      "descriptionAdvanced": "A Liberty Hall Kingston belvárosában Jamaica nemzeti hősének, Marcus Garvey-nak és az általa alapított UNIA (Universal Negro Improvement Association) mozgalomnak a szellemi központja. Az 1920-as évek elején vásárolt épület a fekete öntudat, az oktatás és a gazdasági önrendelkezés jelképévé vált világszerte a pán-afrikai mozgalom hívei számára. Itt tartották a mozgalom nagygyűléseit, kulturális rendezvényeit és itt működött a Garvey által kezdeményezett számos szociális program is. Az épületet a közelmúltban teljesen felújították, és ma múzeumként, könyvtárként és kutatóközpontként üzemel, ahol a látogatók interaktív módon ismerhetik meg Garvey életét, tanításait és a globális hatást, amelyet a polgárjogi küzdelmekre gyakorolt. A Liberty Hall ma is a büszkeség és az intellektuális ellenállás helyszíne Kingston szívében.",
+      "factsAdvanced": [
+        "A Liberty Hall-t 1923-ban szentelte fel Marcus Garvey.",
+        "Ez volt a világ első olyan intézménye, amely a fekete történelem és kultúra bemutatására szakosodott.",
+        "Az épület homlokzatán Garvey és más afrikai vezetők arcképei láthatók.",
+        "A házban működik a Marcus Mosiah Garvey Multimédia Múzeum.",
+        "Az UNIA mozgalom híres jelszava, az 'One God! One Aim! One Destiny!' itt hangzott el legtöbbször.",
+        "Az 1990-es években nemzeti emlékművé nyilvánították.",
+        "A könyvtár ritka dokumentumokat őriz a pán-afrikai mozgalom történetéről.",
+        "A helyszín rendszeresen ad otthont oktatási programoknak és kulturális fesztiváloknak."
+      ]
+    },
+    {
+      "id": "blenheim-birthplace-alexander-bustamante-history-v2",
+      "descriptionAdvanced": "Blenheim egy csendes domboldalon fekszik Hanover plébániában, és Jamaica egyik legmeghatározóbb politikai alakjának, Sir Alexander Bustamante nemzeti hősnek a szülőhelye. A szerény vidéki ház és a hozzá tartozó birtok ma nemzeti emlékhely, amely bemutatja Bustamante korai éveit, mielőtt a szakszervezeti mozgalom vezetőjévé és Jamaica első miniszterelnökévé vált volna. A múzeummá alakított szülőházban korabeli fotók, személyes tárgyak és dokumentumok mesélnek a 'Főnök' küzdelmes életéről és a függetlenségi törekvésekben játszott kulcsszerepéről. A helyszín atmoszférája hűen tükrözi a 19. század végi vidéki Jamaica hangulatát, lehetőséget adva a látogatóknak, hogy megértsék azokat a gyökereket, amelyek Bustamante karizmatikus és népbarát politikáját formálták. Blenheim nemcsak egy emlékház, hanem a jamaicai demokrácia bölcsője is.",
+      "factsAdvanced": [
+        "Sir Alexander Bustamante 1884. február 24-én született ebben a házban.",
+        "A szülőház egy tipikus 19. századi jamaicai vidéki épület.",
+        "A múzeumot 1970-ben nyitották meg a nyilvánosság előtt.",
+        "Itt látható Bustamante eredeti keresztelői anyakönyvi kivonata.",
+        "A birtokon egy kisebb színház és kiállítóterem is található.",
+        "A helyszínt a Jamaica National Heritage Trust gondozza.",
+        "Blenheim Hanover plébánia egyik legfontosabb kulturális turisztikai célpontja.",
+        "Az emlékhelyet gyakran látogatják iskolás csoportok a nemzeti történelem oktatása keretében."
+      ]
+    },
+    {
+      "id": "lover-s-leap-history-v2",
+      "descriptionAdvanced": "A Lover's Leap egy drámai, több mint 500 méter magas sziklafal St. Elizabeth déli partján, amelyhez Jamaica egyik legmeghatóbb és legszomorúbb legendája fűződik. A történet szerint két rabszolga szerelmes, Mizpah és Eustace, innen vetette magát a mélybe a 18. században, hogy elkerüljék az elszakadást és a kegyetlen büntetést, miután ültetvényesük el akarta adni egyiküket. A sziklafalról nyíló lélegzetelállító panoráma a végtelen Karib-tengerre ma is lenyűgözi a látogatókat, miközben a legenda a szabadságvágy és a hűség örök szimbólumává tette a helyet. A területen ma egy látogatóközpont, egy világítótorony és egy étterem is található, de a Lover's Leap valódi erejét a természet nyers szépsége és az emberi sorsok drámája adja, amely összefonódik a sziget történelmével.",
+      "factsAdvanced": [
+        "A sziklafal magassága körülbelül 520 méter a tengerszint felett.",
+        "A legenda szerint a szerelmesek inkább a halált választották a rabszolgaság és az elválás helyett.",
+        "Ez Jamaica egyik legmagasabb tengerparti kilátópontja.",
+        "A helyszínen található világítótorony a sziget egyik legmagasabb pontján működik.",
+        "Tiszta időben a látóhatár több tíz kilométerre is kitágul a tenger felé.",
+        "A terület St. Elizabeth plébánia déli részén, Treasure Beach közelében található.",
+        "A sziklafal geológiailag a Santa Cruz-hegység végpontja.",
+        "A helyszín kedvelt célpontja a naplementét kereső turistáknak és a romantikázóknak."
+      ]
+    },
+    {
+      "id": "trench-town-culture-yard-history-v2",
+      "descriptionAdvanced": "A Trench Town Culture Yard Kingston egyik legikonikusabb kulturális és történelmi helyszíne, amely a reggae zene bölcsőjeként és Bob Marley korai életének otthonaként vált világhírűvé. Az eredetileg állami bérházakból álló 'udvar' a 20. század közepén a szegénység és a kreativitás találkozási pontja volt, ahol a Marley, Peter Tosh és Bunny Wailer alkotta legendás trió elkezdte zenei pályafutását. A Culture Yard ma múzeumként működik, ahol a látogatók megtekinthetik Bob Marley egykori egyszerű szobáját, híres Volkswagen kisbuszát és azokat a közösségi tereket, ahol a sziget sorsát meghatározó dalok születtek. Ez a hely nemcsak a zenéről szól, hanem Trench Town közösségének büszkeségéről, az utcai kultúra erejéről és arról a globális üzenetről, amely innen indulva hódította meg a világot.",
+      "factsAdvanced": [
+        "A helyszín Bob Marley otthona volt az 1960-as évek végén és 70-es évek elején.",
+        "Itt íródott számos világhírű dal, többek között a 'No Woman, No Cry' is.",
+        "A Culture Yard-ot 2007-ben nemzeti örökségvédelmi helyszínné nyilvánították.",
+        "A múzeumban Bob Marley eredeti gitárja és személyes tárgyai is láthatók.",
+        "A bérházak az 1940-es években épültek a városi szegények elhelyezésére.",
+        "Trench Town a nevét egykori ír földbirtokosáról, Daniel Trench-ről kapta.",
+        "A helyszín ma is a rastafari kultúra és a közösségi művészet aktív központja.",
+        "A látogatókat gyakran helyi zenészek és idegenvezetők kalauzolják, akik ismerték a legendákat."
+      ]
+    },
+    {
+      "id": "lacovia-tombstones-history-v2",
+      "descriptionAdvanced": "A lacoviai sírkövek St. Elizabeth plébániában Jamaica gyarmati múltjának egyik legérdekesebb, az út szélén fekvő történelmi emlékei. A két díszes, 18. századi síremlék egy tragikus párbaj emlékét őrzi, amely a legenda szerint két fiatal barát, Thomas Jordan Spencer és John S. Maddison között zajlott le 1738-ban egy lány szerelme miatt. A párbajban mindkét fél életét vesztette, és ott temették el őket, ahol összeestek, közvetlenül a főút mellett. A sírkövek feliratai hűen tükrözik a korabeli gyarmati társadalom becsületkódexét és a halálhoz való viszonyát. Lacovia egykor a plébánia székhelye és fontos kereskedelmi csomópont volt, a sírok pedig ma is arra emlékeztetik az elhaladókat, hogy a sziget csendes vidéki útjai mögött gyakran drámai és véres történelmi események húzódnak meg.",
+      "factsAdvanced": [
+        "A síremlékek 1738-ból származnak.",
+        "A két elhunyt barát egy párbaj során vesztette életét Lacovia főutcáján.",
+        "A sírköveken látható családi címerek a brit nemességhez való kötődést mutatják.",
+        "Lacovia egykor St. Elizabeth plébánia közigazgatási központja volt.",
+        "A sírok közvetlenül a Black River felé vezető főút mentén találhatók.",
+        "A legenda szerint a két fiatalember ugyanabba a hölgybe volt szerelmes.",
+        "A síremlékeket a Jamaica National Heritage Trust gondozza.",
+        "A feliratok ma is jól olvashatók a fehér mészkőbe faragott köveken."
+      ]
+    }
+  ]
+}

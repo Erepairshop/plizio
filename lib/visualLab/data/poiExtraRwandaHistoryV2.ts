@@ -45,7 +45,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     facts: {
       de: ["Früher eine Schule.", "Zeigt die Überreste der Opfer."],
       hu: ["Korábban iskola volt.", "Az áldozatok maradványait mutatja be."],
-      ro: ["Fosta ?coala.", "Afi?eaza rama?i?ele victimelor."],
+      ro: ["Fosta ?coala.", "Afi?eaza ramați?ele victimelor."],
       en: ["Formerly a school.", "Displays the remains of the victims."]
     }
   },
@@ -87,7 +87,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Eine weitere Kirche, die zum Schauplatz brutaler Morde wurde und heute als nationale Gedenkstätte dient.",
       hu: "Egy másik templom, amely brutális gyilkosságok helyszíne volt, és ma nemzeti emlékhelyként szolgál.",
-      ro: "O alta biserica care a devenit scena unor crime brutale ?i care serve?te acum ca memorial na?ional.",
+      ro: "O alta biserica care a devenit scena unor crime brutale ?i care servește acum ca memorial național.",
       en: "Another church that became the scene of brutal murders and now serves as a national memorial."
     },
     facts: {
@@ -111,7 +111,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Dieses Denkmal ehrt den heldenhaften Widerstand der Tutsi in der Region Bisesero gegen die Interahamwe-Milizen.",
       hu: "Ez az emlékmu a biseserói tuszik hosies ellenállását tiszteli az Interahamwe milíciákkal szemben.",
-      ro: "Acest memorial onoreaza rezisten?a eroica a tutsilor din regiunea Bisesero împotriva mili?iilor Interahamwe.",
+      ro: "Acest memorial onoreaza rezisten?a eroica a tutsilor din regiunea Bisesero împotriva milițiilor Interahamwe.",
       en: "This monument honors the heroic resistance of the Tutsi in the Bisesero region against the Interahamwe militias."
     },
     facts: {
@@ -135,7 +135,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Ein ehemaliges Kloster, an dem Tausende von Flüchtlingen, die Zuflucht suchten, während des Völkermords getötet wurden.",
       hu: "Egy egykori kolostor, ahol menedéket kereso menekültek ezreit ölték meg a népirtás során.",
-      ro: "O fosta manastire unde mii de refugia?i care cautau adapost au fost uci?i în timpul genocidului.",
+      ro: "O fosta manastire unde mii de refugiați care cautau adapost au fost uci?i în timpul genocidului.",
       en: "A former monastery where thousands of refugees seeking shelter were killed during the genocide."
     },
     facts: {
@@ -159,13 +159,13 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Eine Rekonstruktion des traditionellen königlichen Palastes, die Einblicke in das Leben der ruandischen Könige gibt.",
       hu: "A hagyományos királyi palota rekonstrukciója, amely bepillantást enged a ruandai királyok életébe.",
-      ro: "O reconstruc?ie a palatului regal tradi?ional care ofera o perspectiva asupra vie?ii regilor rwandezi.",
+      ro: "O reconstrucție a palatului regal tradițional care ofera o perspectiva asupra vie?ii regilor rwandezi.",
       en: "A reconstruction of the traditional royal palace that provides insight into the life of the Rwandan kings."
     },
     facts: {
       de: ["Sitz der alten Monarchie.", "Beherbergt traditionelle Inyambo-Rinder."],
       hu: ["A régi monarchia székhelye.", "Hagyományos Inyambo szarvasmarháknak ad otthont."],
-      ro: ["Sediul vechii monarhii.", "Gazduie?te vite tradi?ionale Inyambo."],
+      ro: ["Sediul vechii monarhii.", "Gazduiește vite tradiționale Inyambo."],
       en: ["Seat of the old monarchy.", "Houses traditional Inyambo cattle."]
     }
   },
@@ -189,7 +189,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     facts: {
       de: ["1989 eröffnet.", "Besitzt eine große Sammlung ruandischer Artefakte."],
       hu: ["1989-ben nyílt meg.", "Ruandai tárgyak nagy gyujteményével rendelkezik."],
-      ro: ["Deschis în 1989.", "De?ine o colec?ie mare de artefacte rwandeze."],
+      ro: ["Deschis în 1989.", "De?ine o colecție mare de artefacte rwandeze."],
       en: ["Opened in 1989.", "Holds a large collection of Rwandan artifacts."]
     }
   },
@@ -255,7 +255,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Ein historisch bedeutender Ort, der von frühen Forschern als mögliche südlichste Quelle des Nils identifiziert wurde.",
       hu: "Történelmileg jelentos hely, amelyet a korai felfedezok a Nílus lehetséges legdélebbi forrásaként azonosítottak.",
-      ro: "Un loc cu semnifica?ie istorica, identificat de exploratorii timpurii ca fiind posibila sursa sudica a Nilului.",
+      ro: "Un loc cu semnificație istorica, identificat de exploratorii timpurii ca fiind posibila sursa sudica a Nilului.",
       en: "A historically significant site identified by early explorers as the possible southernmost source of the Nile."
     },
     facts: {
@@ -285,7 +285,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     facts: {
       de: ["Teil der ruandischen Folklore.", "Erinnert an historische Gerechtigkeit."],
       hu: ["A ruandai folklór része.", "A történelmi igazságosságra emlékeztet."],
-      ro: ["Parte a folclorului rwandez.", "Aminte?te de justi?ia istorica."],
+      ro: ["Parte a folclorului rwandez.", "Amintește de justiția istorica."],
       en: ["Part of Rwandan folklore.", "Recalls historical justice."]
     }
   },
@@ -303,7 +303,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Ein Gedenkort an zehn belgische UN-Soldaten, die am ersten Tag des Völkermords von 1994 ermordet wurden.",
       hu: "Emlékhely annak a tíz belga ENSZ-katonának, akiket az 1994-es népirtás elso napján gyilkoltak meg.",
-      ro: "Un loc memorial pentru zece solda?i belgieni ai ONU care au fost uci?i în prima zi a genocidului din 1994.",
+      ro: "Un loc memorial pentru zece soldați belgieni ai ONU care au fost uci?i în prima zi a genocidului din 1994.",
       en: "A memorial site for ten Belgian UN peacekeepers who were murdered on the first day of the 1994 genocide."
     },
     facts: {
@@ -351,13 +351,13 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Ein rekonstruiertes Dorf, das die traditionelle ruandische Kultur, Tänze und Lebensweise bewahrt und präsentiert.",
       hu: "Egy rekonstruált falu, amely megorzi és bemutatja a hagyományos ruandai kultúrát, táncokat és életmódot.",
-      ro: "Un sat reconstruit care pastreaza ?i prezinta cultura, dansurile ?i modul de via?a tradi?ional rwandez.",
+      ro: "Un sat reconstruit care pastreaza ?i prezinta cultura, dansurile ?i modul de viața tradițional rwandez.",
       en: "A reconstructed village that preserves and showcases traditional Rwandan culture, dances, and lifestyle."
     },
     facts: {
       de: ["Erhaltung der lokalen Kultur.", "Wird von ehemaligen Wilderen betrieben."],
       hu: ["A helyi kultúra megorzése.", "Egykori orvvadászok üzemeltetik."],
-      ro: ["Conservarea culturii locale.", "Operat de fo?ti braconieri."],
+      ro: ["Conservarea culturii locale.", "Operat de foști braconieri."],
       en: ["Preservation of local culture.", "Operated by former poachers."]
     }
   },
@@ -375,7 +375,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Dieses Museum in Nyanza widmet sich der Geschichte Ruandas vor der Kolonialisierung und den Traditionen der Könige.",
       hu: "Ez a nyanzai múzeum a gyarmatosítás elotti Ruanda történetének és a királyok hagyományainak szenteli magát.",
-      ro: "Acest muzeu din Nyanza este dedicat istoriei Rwandei dinainte de colonizare ?i tradi?iilor regilor.",
+      ro: "Acest muzeu din Nyanza este dedicat istoriei Rwandei dinainte de colonizare ?i tradițiilor regilor.",
       en: "This museum in Nyanza is dedicated to the history of pre-colonial Rwanda and the traditions of the kings."
     },
     facts: {
@@ -423,13 +423,13 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Ein heiliger Ort, an dem mehrere Mitglieder der ruandischen Königsfamilie beerdigt sind.",
       hu: "Szent hely, ahol a ruandai királyi család több tagja van eltemetve.",
-      ro: "Un loc sacru unde sunt îngropa?i mai mul?i membri ai familiei regale rwandeze.",
+      ro: "Un loc sacru unde sunt îngropați mai mul?i membri ai familiei regale rwandeze.",
       en: "A sacred place where several members of the Rwandan royal family are buried."
     },
     facts: {
       de: ["Traditionelle Gräber.", "Heiliger Ort in Nyanza."],
       hu: ["Hagyományos sírok.", "Szent hely Nyanzában."],
-      ro: ["Morminte tradi?ionale.", "Loc sacru în Nyanza."],
+      ro: ["Morminte tradiționale.", "Loc sacru în Nyanza."],
       en: ["Traditional graves.", "Sacred place in Nyanza."]
     }
   },
@@ -471,7 +471,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Ursprünglich als Palast für König Mutara III erbaut, dient das Gebäude heute als nationales Kunstmuseum.",
       hu: "Eredetileg III. Mutara király palotájának épült, ma nemzeti muvészeti múzeumként muködik az épület.",
-      ro: "Construita ini?ial ca palat pentru regele Mutara III, cladirea serve?te acum ca muzeu na?ional de arta.",
+      ro: "Construita ini?ial ca palat pentru regele Mutara III, cladirea servește acum ca muzeu național de arta.",
       en: "Originally built as a palace for King Mutara III, the building now serves as a national art museum."
     },
     facts: {
@@ -495,7 +495,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Ein Museum, das die historische Beziehung zwischen der Bevölkerung Ruandas und ihrer natürlichen Umgebung beleuchtet.",
       hu: "Múzeum, amely bemutatja Ruanda lakosságának és természeti környezetének történelmi kapcsolatát.",
-      ro: "Un muzeu care eviden?iaza rela?ia istorica dintre popula?ia din Rwanda ?i mediul ei natural.",
+      ro: "Un muzeu care eviden?iaza relația istorica dintre populația din Rwanda ?i mediul ei natural.",
       en: "A museum that highlights the historical relationship between the people of Rwanda and their natural environment."
     },
     facts: {
@@ -525,7 +525,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     facts: {
       de: ["Ehrt widerständige Politiker.", "Ruhige Lage auf einem Hügel."],
       hu: ["Az ellenálló politikusokat tiszteli.", "Csendes helyen, egy dombon fekszik."],
-      ro: ["Onoreaza politicienii rezisten?i.", "Loca?ie lini?tita pe un deal."],
+      ro: ["Onoreaza politicienii rezisten?i.", "Locație lini?tita pe un deal."],
       en: ["Honors resisting politicians.", "Quiet location on a hill."]
     }
   },
@@ -549,7 +549,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     facts: {
       de: ["Natürliches Heilbad.", "Teil der lokalen Tradition."],
       hu: ["Természetes gyógyfürdo.", "A helyi hagyomány része."],
-      ro: ["Spa natural de vindecare.", "Parte a tradi?iei locale."],
+      ro: ["Spa natural de vindecare.", "Parte a tradiției locale."],
       en: ["Natural healing spa.", "Part of local tradition."]
     }
   },
@@ -567,7 +567,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Der erste offiziell anerkannte Marienerscheinungsort in Afrika, der in den 1980er Jahren historische Bedeutung erlangte.",
       hu: "Az elso hivatalosan elismert Mária-jelenés helyszíne Afrikában, amely az 1980-as években kapott történelmi jelentoséget.",
-      ro: "Primul loc de apari?ie a Fecioarei Maria recunoscut oficial în Africa, care a dobândit semnifica?ie istorica în anii 1980.",
+      ro: "Primul loc de apariție a Fecioarei Maria recunoscut oficial în Africa, care a dobândit semnificație istorica în anii 1980.",
       en: "The first officially recognized Marian apparition site in Africa, which gained historical significance in the 1980s."
     },
     facts: {
@@ -597,7 +597,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     facts: {
       de: ["Zeichen der nationalen Heilung.", "Gemeinschaftsprojekt."],
       hu: ["A nemzeti gyógyulás jele.", "Közösségi projekt."],
-      ro: ["Semn de vindecare na?ionala.", "Proiect comunitar."],
+      ro: ["Semn de vindecare naționala.", "Proiect comunitar."],
       en: ["Sign of national healing.", "Community project."]
     }
   },
@@ -663,13 +663,13 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Ein wichtiger Bestandteil des Kigali Memorial Centers in Gisozi, der an die Tragödie der Hauptstadt erinnert.",
       hu: "A Gisozi-i Kigali Emlékközpont fontos része, amely a fováros tragédiájára emlékeztet.",
-      ro: "O parte importanta a Centrului Memorial Kigali din Gisozi, care aminte?te de tragedia capitalei.",
+      ro: "O parte importanta a Centrului Memorial Kigali din Gisozi, care amintește de tragedia capitalei.",
       en: "An important part of the Kigali Memorial Center in Gisozi, which commemorates the tragedy of the capital."
     },
     facts: {
       de: ["Liegt im Bezirk Gisozi.", "Umfasst Ausstellungssäle."],
       hu: ["A Gisozi negyedben található.", "Kiállítótermeket is magában foglal."],
-      ro: ["Situat în districtul Gisozi.", "Include sali de expozi?ie."],
+      ro: ["Situat în districtul Gisozi.", "Include sali de expoziție."],
       en: ["Located in the Gisozi district.", "Includes exhibition halls."]
     }
   },
@@ -693,7 +693,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     facts: {
       de: ["Erinnert an verlassene Flüchtlinge.", "Liegt im Bezirk Kicukiro."],
       hu: ["Az elhagyott menekültekre emlékezik.", "A Kicukiro negyedben található."],
-      ro: ["Aminte?te de refugia?ii abandona?i.", "Situat în districtul Kicukiro."],
+      ro: ["Amintește de refugia?ii abandonați.", "Situat în districtul Kicukiro."],
       en: ["Remembers abandoned refugees.", "Located in the Kicukiro district."]
     }
   },
@@ -711,7 +711,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Ein historisch relevanter Komplex in Kigali, der eng mit der politischen Geschichte und Verwaltung Ruandas verbunden ist.",
       hu: "Egy történelmileg releváns komplexum Kigaliban, amely szorosan kapcsolódik Ruanda politikai történetéhez és közigazgatásához.",
-      ro: "Un complex relevant istoric în Kigali, strâns legat de istoria politica ?i administra?ia Rwandei.",
+      ro: "Un complex relevant istoric în Kigali, strâns legat de istoria politica ?i administrația Rwandei.",
       en: "A historically relevant complex in Kigali, closely linked to the political history and administration of Rwanda."
     },
     facts: {

@@ -1,0 +1,73 @@
+
+{
+  "lang": "multi4",
+  "country": "argentina",
+  "files": ["lib/visualLab/data/poiExtraArgentinaReliefV2.ts"],
+  "items": [
+    {
+      "id": "incahuasi-relief-v2",
+      "descriptionAdvancedEn": "Nevado de Incahuasi is a massive stratovolcano on the border between the Argentine province of Catamarca and the Atacama Region of Chile. At 6,621 meters, it is one of the giants of the Andes, located in the famous region of 6,000-meter peaks. The name Incahuasi means 'Inca House' in Quechua, alluding to the mountain's spiritual significance for the Inca civilization. Remains of ceremonial sites have been found on its summit, making Incahuasi one of the highest archaeological sites in the world. The area is characterized by extreme dryness, leading to bizarre rock formations and an almost lunar landscape. Despite the extreme conditions, the technical routes and historical importance attract climbers each year who seek the solitude of the Puna.",
+      "factsAdvancedEn": [
+        "Summit elevation of 6,621 meters on the border with Chile.",
+        "The name Incahuasi means 'Inca House' in Quechua.",
+        "Important Inca ruins and archaeological finds were discovered on the summit.",
+        "Located near the Paso de San Francisco pass in Catamarca province.",
+        "It is among the twelve highest peaks on the American continent.",
+        "First climbed in modern times by Walther Penck in 1913.",
+        "Extreme dryness prevents the formation of large glaciers."
+      ]
+    },
+    {
+      "id": "cerro-galan-relief-v2",
+      "descriptionAdvancedEn": "Cerro Galán is a monumental volcanic massif in the Argentine province of Catamarca, primarily known for its huge caldera, considered one of the largest in the world. The caldera has a diameter of about 35 kilometers and was formed about 2.2 million years ago in one of the most powerful eruptions in Earth's history. In the center of the collapsed crater rises the actual summit of Cerro Galán to an altitude of 5,912 meters. The landscape within the caldera is surreal, featuring the Laguna Diamante, an extremely salty and alkaline lake where flamingos and specialized microorganisms survive. Due to its isolation and extreme altitude conditions, the area is one of the most pristine spots in the Puna, safely accessible only with special off-road vehicles and local guidance.",
+      "factsAdvancedEn": [
+        "Features one of the largest volcanic calderas in the world (35 km diameter).",
+        "The highest point of the massif is 5,912 meters above sea level.",
+        "Formed during a super-eruption about 2.2 million years ago.",
+        "The crater contains the salty Laguna Diamante lake.",
+        "An important research area for extreme habitats (extremophiles).",
+        "Located on the inhospitable Puna plateau of Catamarca.",
+        "The caldera is so large that it was only fully recognized from space."
+      ]
+    },
+    {
+      "id": "cerro-tres-cruces-relief-v2",
+      "descriptionAdvancedEn": "The Tres Cruces massif is a spectacular volcanic complex on the border between Argentina and Chile, in the Puna de Atacama region. This giant has two main peaks exceeding 6,000 meters: Tres Cruces Sur (6,748 m) and Tres Cruces Central (6,629 m). The volcano is situated in an area of extreme isolation, where the landscape is dominated by ocher colors, high-altitude blues, and penitentes snow formations. It is one of the most imposing mountains in the Andes, forming a massive natural barrier. Geologically, it is a complex of lava domes and stratovolcanoes that were active during the Pleistocene. Climbers who venture here must face temperatures that frequently drop below -20 degrees Celsius and extremely complex logistics.",
+      "factsAdvancedEn": [
+        "The south summit reaches 6,748 meters, being the sixth highest in the Andes.",
+        "It is a massif composed of three main peaks arranged in a horseshoe shape.",
+        "Located in the province of Catamarca on the Argentine side.",
+        "The first ascent was made by a Polish expedition in 1937.",
+        "Hosts very well-preserved volcanic remains due to aridity.",
+        "The area is part of the Nevado de Tres Cruces National Park in Chile.",
+        "It is surrounded by other giant peaks such as Ojos del Salado and El Muerto."
+      ]
+    },
+    {
+      "id": "sierras-de-cordoba-relief-v2",
+      "descriptionAdvancedEn": "The Sierras de Córdoba are an ancient and picturesque mountain range located in the center of Argentina, offering a cool contrast to the plains of the Pampas. These mountains, with their rounded shapes and green valleys, are divided into three main cordilleras: Sierras Chicas, Sierras Grandes, and Sierras de Pocho. The highest point is Cerro Champaquí (2,790 m). The region is famous for its crystal-clear rivers, hidden waterfalls, and tabaquillo forests, being the main domestic tourism destination in the country. The mild climate and varied landscapes, from alpine meadows to mountain lakes, make this area a paradise for hiking, horseback riding, and bird watching. The mountains also shelter picturesque villages with colonial traditions and craft production centers.",
+      "factsAdvancedEn": [
+        "They are much older than the Andes, having formed in the Paleozoic era.",
+        "The highest peak is Cerro Champaquí, at 2,790 meters.",
+        "Includes the Pampa de Achala Provincial Hydrological Reserve.",
+        "They are renowned for medicinal and aromatic plants (peperina).",
+        "Host numerous caves with indigenous rock paintings.",
+        "The mountain system stretches for a length of about 500 km.",
+        "They are the main water source for the cities of Córdoba and Villa María."
+      ]
+    },
+    {
+      "id": "sierras-de-la-ventana-relief-v2",
+      "descriptionAdvancedEn": "Sierras de la Ventana, located in the south of the province of Buenos Aires, are part of the Ventania mountain system and offer a unique landscape in the midst of the vast pampas. Their most iconic feature is the natural 'window' – a considerable-sized opening on the summit of Mount Ventana, caused by wind erosion over millennia. These mountains are some of the oldest in Argentina and are notable for their rugged relief and their particular biodiversity, including endemic species of flora and fauna. The Ernesto Tornquist Provincial Park protects a large part of this ecosystem, offering hiking trails that lead to waterfalls like 'Garganta del Diablo' or to the famous hole in the rock, providing spectacular panoramic views of the surrounding plains.",
+      "factsAdvancedEn": [
+        "The highest peak is Cerro Tres Picos, at 1,239 meters.",
+        "The 'La Ventana' formation is about 9 meters wide and 11 meters high.",
+        "The mountains were formed about 500 million years ago.",
+        "It is one of the few places in the province of Buenos Aires where it snows in winter.",
+        "Hosts rare species such as the mountain iguana and the dwarf fern.",
+        "The site contains rock paintings in the 'Cueva del Toro' area.",
+        "The region is an important center for adventure and relaxation tourism."
+      ]
+    }
+  ]
+}

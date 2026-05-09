@@ -633,7 +633,7 @@ export const panamaLandmarks: POI[] = [
     parent: "PA", 
     coords: [-79.5583, 8.8000], 
     name: { de: "Insel Taboga", hu: "Taboga-sziget", ro: "Insula Taboga", en: "Taboga Island" }, 
-    description: { de: "Bekannt als die 'Insel der Blumen', ein beliebtes Ausflugsziel nahe Panama-Stadt.", hu: "A \\\"virágok szigeteként\\\" ismert népszerű kirándulóhely Panamaváros közelében.", ro: "Cunoscută sub numele de \\\"Insula Florilor\\\", o destinație populară lângă Panama City.", en: "Known as the 'Island of Flowers', a popular getaway near Panama City." },
+    description: { de: "Die Isla Taboga, auch bekannt als \"Blumeninsel\", ist eine malerische Vulkaninsel im Golf von Panama. Sie bietet wunderschöne Strände und eine reiche Geschichte, nur eine kurze Bootsfahrt von Panama-Stadt entfernt.", hu: "A Taboga-sziget, más néven a \"Virágok szigete\", egy festői vulkáni sziget a Panama-öbölben. Gyönyörű strandokat és gazdag történelmet kínál, mindössze egy rövid hajóútra Panamavárostól.", ro: "Insula Taboga, cunoscută și sub numele de \"Insula Florilor\", este o insulă vulcanică pitorească situată în Golful Panama. Oferă plaje frumoase și o istorie bogată, la o scurtă călătorie cu barca de orașul Panama.", en: "Taboga Island, also known as the \"Island of Flowers,\" is a picturesque volcanic island situated in the Gulf of Panama. It offers beautiful beaches and a rich history just a short boat ride from Panama City." },
     descriptionAdvanced: {
       de: "Taboga ist eine charmante, autofreie Insel im Golf von Panama, nur eine kurze Fährfahrt von der Hauptstadt entfernt. Sie ist bekannt für ihre üppige Vegetation, ihre bunte Architektur und ihre geschichtsträchtige Vergangenheit, die bis in die frühe Kolonialzeit zurückreicht.",
       hu: "Taboga egy bájos, autómentes sziget a Panamai-öbölben, csak egy rövid kompútra a fővárostól. Lush növényzetéről, színes építészetéről és gazdag történelmi múltjáról ismert, amely a korai gyarmati időkig nyúlik vissza.",
@@ -641,10 +641,10 @@ export const panamaLandmarks: POI[] = [
       en: "Taboga is a charming, car-free island in the Gulf of Panama, just a short ferry ride from the capital. It is famous for its lush tropical flora, colorful village architecture, and a history stretching back to the earliest days of Spanish exploration."
     },
     facts: {
-      de: ["Gegründet 1524.", "Autofreie Insel.", "Zweitälteste Kirche der westlichen Hemisphäre.", "Beliebt für Tagesausflüge."],
-      hu: ["1524-ben alapították.", "Autómentes sziget.", "A nyugati félteke második legrégebbi temploma.", "Népszerű egynapos kirándulóhely."],
-      ro: ["Fondată în 1524.", "Insulă fără mașini.", "A doua cea mai veche biserică din emisfera vestică.", "Populară pentru excursii de o zi."],
-      en: ["Founded in 1524.", "Car-free island environment.", "Home to the 2nd oldest church in the Western Hemisphere.", "Popular day-trip destination from the city."]
+      de: ["Aufgrund ihrer üppigen tropischen Pflanzenwelt ist sie als \"Blumeninsel\" bekannt.", "Die 1550 gegründete Kirche San Pedro ist die zweitälteste Kirche der westlichen Hemisphäre.", "Sie liegt etwa 20 Kilometer vor der Küste von Panama-Stadt."],
+      hu: ["Buja trópusi növényvilága miatt \"Virágok szigete\" néven ismert.", "A sziget 1550-ben alapított San Pedro temploma a nyugati félteke második legrégebbi temploma.", "Körülbelül 20 kilométerre fekszik Panamaváros partjaitól."],
+      ro: ["Este renumită ca \"Insula Florilor\" datorită vegetației sale tropicale luxuriante.", "Biserica San Pedro de pe insulă, fondată în 1550, este a doua cea mai veche biserică din emisfera vestică.", "Este situată la aproximativ 20 de kilometri de coasta orașului Panama."],
+      en: ["It is famously known as the \"Island of Flowers\" due to its lush tropical plant life.", "The island's San Pedro church, founded in 1550, is the second oldest church in the Western Hemisphere.", "It is located approximately 20 kilometers off the coast of Panama City."]
     },
     factsAdvanced: {
       de: ["Der Maler Paul Gauguin verbrachte einige Zeit auf der Insel.", "Die Kirche San Pedro gilt als eine der ältesten des Kontinents.", "Taboga diente früher als Stützpunkt für Piraten und Konquistadoren."],

@@ -15,7 +15,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Zentrale Industriezone für Logistik, Produktion und Verarbeitung in Ruanda.",
       hu: "Ruanda központi ipari zónája a logisztika, gyártás és feldolgozás számára.",
-      ro: "Zona industriala centrala pentru logistica, produc?ie ?i prelucrare în Rwanda.",
+      ro: "Zona industriala centrala pentru logistica, producție ?i prelucrare în Rwanda.",
       en: "Central industrial zone for logistics, manufacturing, and processing in Rwanda."
     },
     facts: {
@@ -39,7 +39,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Ein wichtiges Gebiet für den Abbau von Kassiterit, Wolfram und Coltan.",
       hu: "Fontos terület a kassziterit, volfrám és koltán bányászatában.",
-      ro: "O zona importanta pentru extrac?ia casiteritului, wolframului ?i coltanului.",
+      ro: "O zona importanta pentru extracția casiteritului, wolframului ?i coltanului.",
       en: "A major area for the extraction of cassiterite, wolfram, and coltan."
     },
     facts: {
@@ -93,7 +93,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     facts: {
       de: ["Zentrum der Kaffeeproduktion", "Wichtige Einnahmequelle"],
       hu: ["A kávétermelés központja", "Fontos bevételi forrás"],
-      ro: ["Centrul produc?iei de cafea", "Sursa importanta de venit"],
+      ro: ["Centrul producției de cafea", "Sursa importanta de venit"],
       en: ["Center of coffee production", "Important source of income"]
     }
   },
@@ -111,13 +111,13 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Ein im Aufbau befindlicher Industriepark in der Nähe des neuen internationalen Flughafens.",
       hu: "Egy épülo ipari park az új nemzetközi repülotér közelében.",
-      ro: "Un parc industrial în construc?ie lânga noul aeroport interna?ional.",
+      ro: "Un parc industrial în construcție lânga noul aeroport internațional.",
       en: "An industrial park under construction near the new international airport."
     },
     facts: {
       de: ["Fokus auf Leichtindustrie", "Strategisch günstig gelegen"],
       hu: ["Fókuszban a könnyuipar", "Stratégiailag kedvezo elhelyezkedés"],
-      ro: ["Concentrat pe industria u?oara", "Loca?ie strategica excelenta"],
+      ro: ["Concentrat pe industria u?oara", "Locație strategica excelenta"],
       en: ["Focus on light industry", "Strategically located"]
     }
   },
@@ -183,13 +183,13 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Ein großes Wasserkraftwerk am Fluss Nyabarongo zur Deckung des nationalen Energiebedarfs.",
       hu: "Nagy vízeromu a Nyabarongo folyón a nemzeti energiaigény fedezésére.",
-      ro: "O mare centrala hidroelectrica pe râul Nyabarongo pentru a satisface cererea na?ionala de energie.",
+      ro: "O mare centrala hidroelectrica pe râul Nyabarongo pentru a satisface cererea naționala de energie.",
       en: "A large hydroelectric plant on the Nyabarongo River to meet national energy demand."
     },
     facts: {
       de: ["28 Megawatt Leistung", "Bau kostete 110 Mio. USD"],
       hu: ["28 megawatt teljesítmény", "Az építés 110 millió dollárba került"],
-      ro: ["Capacitate de 28 megawa?i", "Construc?ia a costat 110 milioane USD"],
+      ro: ["Capacitate de 28 megawați", "Construcția a costat 110 milioane USD"],
       en: ["28 megawatt capacity", "Construction cost $110 million"]
     }
   },
@@ -207,7 +207,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Eine der traditionellen Zinnminen (Kassiterit) in der Nähe von Kigali.",
       hu: "Az egyik hagyományos ón- (kassziterit) bánya Kigali közelében.",
-      ro: "Una dintre minele tradi?ionale de staniu (casiterit) de lânga Kigali.",
+      ro: "Una dintre minele tradiționale de staniu (casiterit) de lânga Kigali.",
       en: "One of the traditional tin (cassiterite) mines near Kigali."
     },
     facts: {
@@ -279,7 +279,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Ein südlicher Hafen am Kiwusee, der als Handelszentrum für Waren dient.",
       hu: "Egy déli kiköto a Kivu-tavon, amely áruk kereskedelmi központjaként szolgál.",
-      ro: "Un port sudic pe Lacul Kivu care serve?te drept centru comercial pentru marfuri.",
+      ro: "Un port sudic pe Lacul Kivu care servește drept centru comercial pentru marfuri.",
       en: "A southern port on Lake Kivu serving as a trade hub for goods."
     },
     facts: {
@@ -333,7 +333,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     facts: {
       de: ["Kapazität: 500 Tonnen/Tag", "Verbessert Ernährungssicherheit"],
       hu: ["Kapacitás: 500 tonna/nap", "Javítja az élelmezésbiztonságot"],
-      ro: ["Capacitate: 500 tone/zi", "Îmbunata?e?te securitatea alimentara"],
+      ro: ["Capacitate: 500 tone/zi", "Îmbunata?ește securitatea alimentara"],
       en: ["Capacity: 500 tons/day", "Improves food security"]
     }
   },
@@ -357,7 +357,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     facts: {
       de: ["Produziert 600.000 Tonnen jährlich", "Wichtig für Bauwirtschaft"],
       hu: ["Évente 600 000 tonnát termel", "Fontos az építoipar számára"],
-      ro: ["Produce 600.000 tone anual", "Important pentru industria construc?iilor"],
+      ro: ["Produce 600.000 tone anual", "Important pentru industria construcțiilor"],
       en: ["Produces 600,000 tons annually", "Vital for the construction industry"]
     }
   },
@@ -423,7 +423,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Ein Abbaugebiet für Coltan, das essentiell für die Elektronikindustrie weltweit ist.",
       hu: "Koltán bányászati terület, amely elengedhetetlen a világ elektronikai ipara számára.",
-      ro: "O zona de extrac?ie a coltanului, esen?iala pentru industria electronica la nivel mondial.",
+      ro: "O zona de extracție a coltanului, esen?iala pentru industria electronica la nivel mondial.",
       en: "A mining area for coltan, essential for the global electronics industry."
     },
     facts: {
@@ -471,13 +471,13 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Eine bedeutende Mine für die Gewinnung von Wolfram, einem strategischen Hartmetall.",
       hu: "Jelentos bánya a volfrám, egy stratégiai keményfém kitermelésére.",
-      ro: "O mina semnificativa pentru extrac?ia wolframului, un metal dur strategic.",
+      ro: "O mina semnificativa pentru extracția wolframului, un metal dur strategic.",
       en: "A significant mine for the extraction of wolfram, a strategic hard metal."
     },
     facts: {
       de: ["Produziert Wolframit", "Exportiert in internationale Märkte"],
       hu: ["Volfrámot termel", "Nemzetközi piacokra exportál"],
-      ro: ["Produce wolframit", "Exporta pe pie?ele interna?ionale"],
+      ro: ["Produce wolframit", "Exporta pe pie?ele internaționale"],
       en: ["Produces wolframite", "Exports to international markets"]
     }
   },
@@ -495,7 +495,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Eine industrielle landwirtschaftliche Anlage, die Mais und Sojabohnen im großen Stil verarbeitet.",
       hu: "Ipari mezogazdasági létesítmény, amely kukoricát és szójababot dolgoz fel nagy tételben.",
-      ro: "O instala?ie agricola industriala care prelucreaza porumb ?i soia la scara larga.",
+      ro: "O instalație agricola industriala care prelucreaza porumb ?i soia la scara larga.",
       en: "An industrial agricultural facility processing maize and soybeans on a large scale."
     },
     facts: {
@@ -519,7 +519,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Eine Fabrik in Kigali zur Herstellung von Laptops, Tablets und Computern für den afrikanischen Markt.",
       hu: "Egy gyár Kigaliban laptopok, táblagépek és számítógépek gyártására az afrikai piac számára.",
-      ro: "O fabrica în Kigali pentru produc?ia de laptopuri ?i computere pentru pia?a africana.",
+      ro: "O fabrica în Kigali pentru producția de laptopuri ?i computere pentru pia?a africana.",
       en: "A factory in Kigali manufacturing laptops, tablets, and computers for the African market."
     },
     facts: {
@@ -567,13 +567,13 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Ein Standort für den Abbau von Halbedelsteinen, insbesondere Amethyst, für den Export.",
       hu: "Féldrágakövek, különösen az ametiszt bányászatának helyszíne export céljából.",
-      ro: "O loca?ie pentru extrac?ia pietrelor semipre?ioase, în special ametist.",
+      ro: "O locație pentru extracția pietrelor semipre?ioase, în special ametist.",
       en: "A site for mining semi-precious stones, especially amethyst, for export."
     },
     facts: {
       de: ["Gewinnung von Halbedelsteinen", "Nischenmarkt im Bergbau"],
       hu: ["Féldrágakövek kitermelése", "Réspiac a bányászatban"],
-      ro: ["Extrac?ia pietrelor semipre?ioase", "Pia?a de ni?a în minerit"],
+      ro: ["Extracția pietrelor semipre?ioase", "Pia?a de ni?a în minerit"],
       en: ["Extraction of semi-precious stones", "Niche market in mining"]
     }
   },
@@ -591,13 +591,13 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Ein großer Steinbruch nördlich von Kigali, der Baumaterialien für Infrastrukturprojekte liefert.",
       hu: "Nagy kobánya Kigalitól északra, amely építoanyagokat szállít az infrastrukturális projektekhez.",
-      ro: "O cariera mare la nord de Kigali, care furnizeaza materiale de construc?ie.",
+      ro: "O cariera mare la nord de Kigali, care furnizeaza materiale de construcție.",
       en: "A large quarry north of Kigali supplying construction materials for infrastructure projects."
     },
     facts: {
       de: ["Produziert Schotter", "Wichtig für Straßenbau"],
       hu: ["Zúzott követ termel", "Fontos az útépítéshez"],
-      ro: ["Produce piatra concasata", "Importanta pentru construc?ia de drumuri"],
+      ro: ["Produce piatra concasata", "Importanta pentru construcția de drumuri"],
       en: ["Produces crushed stone", "Important for road construction"]
     }
   },
@@ -621,7 +621,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     facts: {
       de: ["Gegründet 1957", "Produziert lokale und internationale Biermarken"],
       hu: ["1957-ben alapították", "Helyi és nemzetközi sörmárkákat gyárt"],
-      ro: ["Fondata în 1957", "Produce marci locale ?i interna?ionale de bere"],
+      ro: ["Fondata în 1957", "Produce marci locale ?i internaționale de bere"],
       en: ["Founded in 1957", "Produces local and international beer brands"]
     }
   },
@@ -639,7 +639,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Einer der traditionsreichsten Textil- und Bekleidungshersteller im Land.",
       hu: "Az ország egyik legnagyobb hagyományokkal rendelkezo textil- és ruházati gyártója.",
-      ro: "Unul dintre cei mai tradi?ionali producatori de textile ?i îmbracaminte din ?ara.",
+      ro: "Unul dintre cei mai tradiționali producatori de textile ?i îmbracaminte din ?ara.",
       en: "One of the most traditional textile and garment manufacturers in the country."
     },
     facts: {
@@ -663,13 +663,13 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Ein medizinisches Produktionszentrum, das Laborausrüstung und ausgewählte Arzneimittel herstellt.",
       hu: "Orvosi gyártóközpont, amely laboratóriumi felszereléseket és kiválasztott gyógyszereket állít elo.",
-      ro: "Un centru de produc?ie medicala care produce echipamente de laborator.",
+      ro: "Un centru de producție medicala care produce echipamente de laborator.",
       en: "A medical production center that manufactures laboratory equipment and selected medicines."
     },
     facts: {
       de: ["Unterstützt das Gesundheitssystem", "Herstellung medizinischer Verbrauchsgüter"],
       hu: ["Támogatja az egészségügyi rendszert", "Orvosi fogyóeszközök gyártása"],
-      ro: ["Sprijina sistemul de sanatate", "Produc?ia de consumabile medicale"],
+      ro: ["Sprijina sistemul de sanatate", "Producția de consumabile medicale"],
       en: ["Supports the healthcare system", "Manufacturing of medical consumables"]
     }
   },
@@ -711,13 +711,13 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Eine Anlage zur Verhüttung und Veredelung von ruandischen Zinnerzen (Kassiterit) für den Export.",
       hu: "A ruandai ónércek (kassziterit) olvasztására és finomítására szolgáló létesítmény exportra.",
-      ro: "O instala?ie de topire ?i rafinare a minereurilor de staniu rwandeze pentru export.",
+      ro: "O instalație de topire ?i rafinare a minereurilor de staniu rwandeze pentru export.",
       en: "A facility for smelting and refining Rwandan tin ores (cassiterite) for export."
     },
     facts: {
       de: ["Erhöht Wertschöpfung im Inland", "Exportiert reines Zinn"],
       hu: ["Növeli a hazai hozzáadott értéket", "Tiszta ónt exportál"],
-      ro: ["Cre?te valoarea adaugata pe plan intern", "Exporta staniu pur"],
+      ro: ["Crește valoarea adaugata pe plan intern", "Exporta staniu pur"],
       en: ["Increases domestic value addition", "Exports pure tin"]
     }
   }

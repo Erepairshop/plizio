@@ -10,10 +10,10 @@ export const irelandCountry: POI = {
   coords: [-7.5023, 53.4129],
   name: { de: "Irland", hu: "Írország", ro: "Irlanda", en: "Ireland" },
   description: {
-    de: "Irland, die 'Grüne Insel', ist bekannt für seine üppigen Landschaften, reiche Folklore und die herzliche Gastfreundschaft seiner Bewohner.",
-    hu: "Írország, a \\\"Smaragd-sziget\\\", buja tájairól, gazdag folklórjáról és lakóinak szívélyes vendégszeretetéről ismert.",
-    ro: "Irlanda, \\\"Insula de Smarald\\\", este cunoscută pentru peisajele sale luxuriante, folclorul bogat și ospitalitatea caldă a locuitorilor săi.",
-    en: "Ireland, the 'Emerald Isle', is known for its lush landscapes, rich folklore, and the warm hospitality of its people."
+    de: "Irland ist ein Inselstaat in Westeuropa, der für seine üppigen grünen Landschaften, seine reiche Geschichte und seine lebendige keltische Kultur bekannt ist.",
+    hu: "Írország egy nyugat-európai szigetország, amely buja zöld tájairól, gazdag történelméről és élénk kelta kultúrájáról ismert.",
+    ro: "Irlanda este o țară insulară din Europa de Vest, cunoscută pentru peisajele sale verzi luxuriante, istoria bogată și cultura celtică vibrantă.",
+    en: "Ireland is an island nation in Western Europe known for its lush green landscapes, rich history, and vibrant Celtic culture."
   },
   descriptionAdvanced: {
     de: "Irland, offiziell die Republik Irland, ist ein faszinierendes Land am westlichen Rand Europas, das für seine atemberaubende natürliche Schönheit, seine tief verwurzelte Geschichte und seine weltweit geschätzte Kultur bekannt ist. Die Insel, die oft als 'Grüne Insel' bezeichnet wird, besticht durch ihre dramatischen Küstenlinien, wie die Cliffs of Moher, und ihre sanften, smaragdgrünen Hügellandschaften. Die irische Geschichte reicht von den antiken keltischen Stämmen über die christliche Missionierung durch den Heiligen Patrick bis hin zur modernen, dynamischen Republik. Die Hauptstadt Dublin ist ein lebendiges Zentrum für Literatur, Musik und Technologie, in dem historisches Erbe auf zeitgenössische Innovation trifft. Irland ist weltberühmt für seine literarischen Giganten wie James Joyce, Oscar Wilde und Samuel Beckett sowie für seine mitreißende traditionelle Musik und den Stepptanz. Ein zentraler Aspekt der irischen Identität ist die Gastfreundschaft und das Konzept von 'Craic' – ein Gefühl von Spaß, Unterhaltung und angenehmer Gesellschaft. Kulinarisch bietet Irland ehrliche Genüsse wie das Irish Stew, frische Meeresfrüchte und natürlich das weltbekannte Guinness-Bier. Heute ist Irland ein modernes EU-Mitglied mit einer der am schnellsten wachsenden Volkswirtschaften Europas, insbesondere im IT- und Pharmasektor. Ob man durch die mystischen Landschaften von Connemara wandert, die historischen Klöster wie Glendalough besichtigt oder die lebendige Pub-Kultur in Dublin genießt – Irland empfängt seine Besucher mit einer Herzlichkeit und einer landschaftlichen Pracht, die einen bleibenden Eindruck hinterlassen.",
@@ -38,54 +38,10 @@ export const irelandCountry: POI = {
     ]
   },
   facts: {
-    en: [
-      "Ireland is known as the 'Emerald Isle' because of its lush green landscape.",
-      "St. Patrick is the patron saint of Ireland, celebrated annually on March 17th.",
-      "The harp is the national symbol of Ireland.",
-      "Ireland has won the Eurovision Song Contest a record seven times.",
-      "Halloween has its origins in the ancient Celtic festival of Samhain celebrated in Ireland.",
-      "The longest place name in Ireland is Muckanaghederdauhaulia.",
-      "Ireland is the only country in the world with a musical instrument (the harp) as its national symbol.",
-      "The White House in Washington D.C. was designed by Irish architect James Hoban.",
-      "There are no snakes in Ireland, according to legend because St. Patrick drove them out.",
-      "The guillotine was used in Ireland almost 500 years before it was used in France."
-    ],
-    de: [
-      "Irland ist wegen seiner üppigen grünen Landschaft als 'Grüne Insel' bekannt.",
-      "St. Patrick ist der Schutzpatron Irlands und wird jährlich am 17. März gefeiert.",
-      "Die Harfe ist das Nationalsymbol Irlands.",
-      "Irland hat den Eurovision Song Contest rekordverdächtige sieben Mal gewonnen.",
-      "Halloween hat seinen Ursprung im antiken keltischen Samhain-Fest, das in Irland gefeiert wurde.",
-      "Der längste Ortsname in Irland ist Muckanaghederdauhaulia.",
-      "Irland ist das einzige Land der Welt, das ein Musikinstrument (die Harfe) als Nationalsymbol hat.",
-      "Das Weiße Haus in Washington D.C. wurde vom irischen Architekten James Hoban entworfen.",
-      "In Irland gibt es keine Schlangen; der Legende nach hat St. Patrick sie vertrieben.",
-      "Die Guillotine wurde in Irland fast 500 Jahre vor ihrem Einsatz in Frankreich verwendet."
-    ],
-    hu: [
-      "Írországot buja zöld tájai miatt 'Smaragd-szigetnek' is nevezik.",
-      "Szent Patrik Írország védőszentje, akit minden évben március 17-én ünnepelnek.",
-      "A hárfa Írország nemzeti jelképe.",
-      "Írország rekordnak számító hét alkalommal nyerte meg az Eurovíziós Dalfesztivált.",
-      "A Halloween az ősi kelta Samhain fesztiválból ered, amelyet Írországban ünnepeltek.",
-      "Írország leghosszabb helyneve Muckanaghederdauhaulia.",
-      "Írország az egyetlen ország a világon, amelynek nemzeti jelképe egy hangszer (a hárfa).",
-      "A washingtoni Fehér Házat az ír építész, James Hoban tervezte.",
-      "Írországban nincsenek kígyók; a legenda szerint Szent Patrik űzte ki őket.",
-      "A nyaktilót (guillotine) Írországban már majdnem 500 évvel azelőtt használták, hogy Franciaországban bevezették volna."
-    ],
-    ro: [
-      "Irlanda este cunoscută sub numele de 'Insula de Smarald' datorită peisajului său verde luxuriant.",
-      "Sfântul Patrick este patronul Irlandei, sărbătorit anual pe 17 martie.",
-      "Harpa este simbolul național al Irlandei.",
-      "Irlanda a câștigat Eurovision Song Contest de șapte ori, un record.",
-      "Halloween-ul își are originile în vechiul festival celtic Samhain, sărbătorit în Irlanda.",
-      "Cel mai lung nume de loc din Irlanda este Muckanaghederdauhaulia.",
-      "Irlanda este singura țară din lume care are un instrument muzical (harpa) ca simbol național.",
-      "Casa Albă din Washington D.C. a fost proiectată de arhitectul irlandez James Hoban.",
-      "În Irlanda nu există șerpi; conform legendei, Sfântul Patrick i-a alungat.",
-      "Ghilotina a fost folosită în Irlanda cu aproape 500 de ani înainte de a fi folosită în Franța."
-    ]
+    en: ["It is often referred to as the Emerald Isle due to its expansive green fields.", "The country has two official languages: English and Irish (Gaeilge).", "Dublin is the capital city and home to the famous Trinity College."],
+    de: ["Wegen ihrer weiten grünen Felder wird sie oft die Grüne Insel genannt.", "Das Land hat zwei Amtssprachen: Englisch und Irisch (Gaeilge).", "Dublin ist die Hauptstadt und Heimat des berühmten Trinity College."],
+    hu: ["Kiterjedt zöld mezői miatt gyakran nevezik Smaragd-szigetnek.", "Az országnak két hivatalos nyelve van: az angol és az ír (Gaeilge).", "Dublin a főváros, és itt található a híres Trinity College."],
+    ro: ["Este adesea numită Insula de Smarald datorită câmpurilor sale verzi întinse.", "Țara are două limbi oficiale: engleza și irlandeza (Gaeilge).", "Dublin este capitala și găzduiește celebrul Trinity College."]
   },
   image: "/geo-images/ireland/ireland-main.webp",
 };

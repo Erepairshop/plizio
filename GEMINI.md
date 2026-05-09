@@ -51,8 +51,17 @@ Auto-loadolt context. Legtöbb feladat: SEO-tartalom feltöltés POI fájlokba.
 
 ## BATCH MÉRET
 
-- Max 30-50 POI/batch. 100+ → biztos template-fallback.
-- Output token limit ~32k — ha sok kell, oszd több commit-ra.
+- **multi4 SEO task (4 lang egyszerre):** 10-12 POI/batch (4 lang × 600+ char × 12 POI ≈ output cap szélén)
+- **single-lang task:** Max 30-50 POI/batch
+- 100+ → biztos template-fallback.
+- Output token limit ~32k — ha sok kell, oszd több batch-re, mindegyik után apply_seo_json.py futtatás.
+
+## WIKIPEDIA KONTEXTUS (multi4 promptban)
+
+A multi4 prompt elején `## WIKIPEDIA KONTEXTUS` blokk van, POI-nkénti faktikus alapokkal.
+- Ezeket a tényeket HASZNÁLD (dátumok, népesség, koordináta).
+- NE halucinálj — ami nincs a wikiben + nem általános földrajzi tudás → hagyd ki.
+- Saját stílusban írd meg, NE másold a wiki szöveget.
 
 ## ÖNELLENŐRZÉS commit előtt
 

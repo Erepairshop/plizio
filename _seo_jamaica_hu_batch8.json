@@ -1,0 +1,309 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cockpit-country-valley-relief-v2",
+      "descriptionAdvanced": "A Cockpit Country völgyei Jamaica egyik legkülönlegesebb és legrejtélyesebb karsztformációit alkotják Trelawny és St. Elizabeth plébániák határán. Ezek a mély, tölcsér alakú víznyelők (úgynevezett 'cockpits') és a köztük magasodó meredek mészkőkúpok egyedülálló, holdbéli tájat hoznak létre, amely a világ egyik legszebb karsztvidéke. A völgyek alján felhalmozódott termékeny talaj dús trópusi növényzetnek ad otthont, a sűrű erdők pedig évszázadokon át a maronok (szökött rabszolgák) bevehetetlen menedékeként szolgáltak. Ez a terület Jamaica biodiverzitásának szentélye, ahol számos olyan növény- és állatfaj él, amely a világon sehol máshol nem található meg, és amely alapvető fontosságú a sziget édesvízkészleteinek megőrzéséhez.",
+      "factsAdvanced": [
+        "A terület több mint 500 négyzetkilométeren terül el Jamaica középső részén.",
+        "A mészkőkúpok és völgyek rendszere évmilliók alatt alakult ki az erózió hatására.",
+        "Itt található Jamaica legtöbb endemikus növény- és állatfaja.",
+        "A völgyekben összegyűlő esővíz táplálja Jamaica édesvízkészletének 40 százalékát.",
+        "A terület híres a hatalmas barlangrendszereiről és föld alatti folyóiról.",
+        "A Cockpit Country völgyeiben még ma is találni érintetlen őserdőket.",
+        "Történelmileg ez volt a brit gyarmati erők elleni maron ellenállás központja.",
+        "A terület szigorúan védett övezet a bauxitbányászat és az erdőirtás ellen."
+      ]
+    },
+    {
+      "id": "catherine-peak-relief-v2",
+      "descriptionAdvanced": "A Catherine Peak a Blue Mountains hegylánc egyik legmagasabb és legfontosabb csúcsa St. Andrew plébániában, amely 1540 méterrel magasodik a tengerszint fölé. A hegy nemcsak drámai látványt nyújt Kingston felett, hanem Jamaica egyik legtisztább ivóvízforrásaként is világhírű: innen ered az azonos nevű, prémium minőségű forrásvíz. A csúcs környéke hűvös köderdőkkel borított, ahol ritka orchideák, páfrányok és endemikus madárfajok élnek zavartalanul. A Catherine Peak fontos navigációs pont és kedvelt túracélpont, ahonnan tiszta időben lélegzetelállító panoráma nyílik a fővárosra, a kingstoni öbölre és a Blue Mountains távolabbi vonulataira.",
+      "factsAdvanced": [
+        "A csúcs magassága 1540 méter a tengerszint felett.",
+        "Nevét Catherine Long-ról kapta, aki az első nő volt, aki megmászta a csúcsot 1760-ban.",
+        "A hegyről származó 'Catherine's Peak' forrásvíz Jamaica legnépszerűbb ásványvize.",
+        "A csúcson fontos telekommunikációs adótornyok és katonai megfigyelőpontok találhatók.",
+        "A hegy lejtőin kiváló minőségű Blue Mountain kávét termesztenek.",
+        "A Catherine Peak környéke Jamaica egyik legfontosabb köderdő rezervátuma.",
+        "A hegyről tiszta időben jól látható a Norman Manley repülőtér kifutópályája is.",
+        "A csúcsra vezető út sűrű bambuszerdőkön és trópusi kerteken halad keresztül."
+      ]
+    },
+    {
+      "id": "corkscrew-ridge-relief-v2",
+      "descriptionAdvanced": "A Corkscrew Ridge (Dugóhúzó-gerinc) egy látványos és meredek mészkővonulat Jamaica északi partján, amely St. Ann plébániában magasodik az óceán felé. Nevét a rajta keresztül kanyargó, rendkívül éles hajtűkanyarokkal teli útról kapta, amely igazi kihívást és lenyűgöző panorámát kínál az utazóknak. A gerinc dús esőerdőkkel borított, amelyek fontos ökológiai pufferzónát képeznek a tengerparti üdülőhelyek és a belső hegyvidék között. A Corkscrew Ridge környéke gazdag geológiai ritkaságokban, karsztos sziklaformációkban és rejtett vízesésekben, megmutatva Jamaica domborzatának nyers és függőleges szépségét az északi part közvetlen közelében.",
+      "factsAdvanced": [
+        "A gerinc mentén haladó út Jamaica egyik leglátványosabb szerpentinje.",
+        "A terület híres a sűrű páfrányerdőiről és egzotikus trópusi növényeiről.",
+        "A Corkscrew Ridge fontos vízgyűjtője az Ocho Rios környéki folyóknak.",
+        "A gerincről pazar kilátás nyílik a Dunn's River Falls torkolatára és a Karib-tengerre.",
+        "A területen számos endemikus jamaicai pillangófaj figyelhető meg.",
+        "A karsztos mészkősziklákban több kisebb, feltáratlan barlang is található.",
+        "A gerinc környéke kedvelt helyszíne a természetfotózásnak és a kalandtúráknak.",
+        "A Corkscrew Ridge északról védi a belső völgyeket az erős óceáni szelektől."
+      ]
+    },
+    {
+      "id": "dry-harbour-mountains-relief-v2",
+      "descriptionAdvanced": "A Dry Harbour-hegység (Száraz Kikötő-hegység) St. Ann plébánia gerincét alkotja, és Jamaica egyik legkiterjedtebb karsztvidéke, amely híres különleges geológiai adottságairól. A hegységet mély víznyelők, tágas barlangrendszerek és meredek mészkőszirtek jellemzik, amelyek szinte teljesen elnyelik a felszíni csapadékot, hatalmas föld alatti víztározókat táplálva. A terület dús növényzete és hűvösebb hegyi klímája kontrasztban áll a forró tengerparttal, ideális élőhelyet biztosítva számos endemikus madár- és növényfajnak. A Dry Harbour-hegység fontos történelmi menedékhely is volt, ma pedig a bauxitbányászat és a fenntartható hegyi gazdálkodás egyik legfontosabb központja Jamaicában.",
+      "factsAdvanced": [
+        "A hegység legmagasabb pontjai meghaladják a 700 métert.",
+        "Nevét a part menti Dry Harbour-öbölről kapta, ahol Kolumbusz is horgonyt vert.",
+        "Itt található Jamaica egyik legfontosabb bauxitbányászati övezete.",
+        "A hegység barlangjai közül a Green Grotto a legismertebb turisztikai látványosság.",
+        "A terület biztosítja az északi partvízrendszer ivóvízellátásának jelentős részét.",
+        "A hegység erdeiben számos ritka bromélia és orchideafaj virul.",
+        "A Dry Harbour-hegység geológiai szerkezete alapvető a Karib-térség karsztkutatásai számára.",
+        "A területen keresztül vezet az ország egyik legfontosabb észak-déli közlekedési útvonala."
+      ]
+    },
+    {
+      "id": "clarendon-hills-relief-v2",
+      "descriptionAdvanced": "A Clarendon-dombság (Clarendon Hills) Jamaica középső részén egy hullámzó, mészkőből álló dombvidék, amely összeköti a déli síkságokat a központi hegyvidékkel. Ez a terület híres festői tájairól, termékeny völgyeiről és a hagyományos jamaicai vidéki élet nyugalmáról. A dombság lejtőin hatalmas citrusültetvények és állattenyésztő gazdaságok sorakoznak, kihasználva a kiváló talajadottságokat és a bőséges napsütést. A Clarendon-dombság belső részein számos karsztos formáció, rejtett forrás és barlang található, amelyek fontos ökológiai és vízügyi szerepet töltenek be. Ez a vidék Jamaica 'agrár-szíve', ahol a természet szépsége és a gazdasági termelékenység harmonikusan fonódik össze.",
+      "factsAdvanced": [
+        "A dombság magassága 200 és 500 méter között váltakozik.",
+        "Clarendon parókia citrus-termesztésének jelentős része ezen a dombvidéken zajlik.",
+        "A terület geológiailag a 'White Limestone' formáció része, amely gazdag ásványkincsekben.",
+        "A dombság fontos vízgyűjtő terület a Rio Minho folyó számára.",
+        "Itt található Jamaica több híres 'Great House' kúriájának maradványa.",
+        "A dombok között fekvő völgyekben különleges, párás mikroklíma alakult ki.",
+        "A Clarendon Hills népszerű célpontja a kerékpáros és gyalogos túráknak.",
+        "A terület fontos fészkelőhelye a jamaicai papagájoknak és kolibriknek."
+      ]
+    },
+    {
+      "id": "st-thomas-mountains-relief-v2",
+      "descriptionAdvanced": "A St. Thomas-hegység Jamaica délkeleti részén a Blue Mountains és a John Crow Mountains déli nyúlványaiból áll, meredek és vadregényes terepet alkotva. Ez a hegység híres sűrű esőerdőiről, kristálytiszta hegyi folyóiról és a Kék-hegység közelsége miatti hűvös, csapadékos klímájáról. A St. Thomas-hegység Jamaica egyik legkevésbé felfedezett vidéke, ahol az érintetlen természet és a gyarmati múlt emlékei, mint a régi cukorültetvények romjai, egyedülálló módon léteznek együtt. A hegység gerinceiről pazar kilátás nyílik a Morant-öbölre és a sziget legkeletibb csücskére, emlékeztetve az utazókat Jamaica domborzatának nyers és fenséges erejére.",
+      "factsAdvanced": [
+        "A hegység legmagasabb csúcsai meghaladják az 1000 métert.",
+        "Itt ered Jamaica több fontos folyója, köztük a Yallahs és a Morant folyó.",
+        "A terület gazdag különleges hegyi páfrányokban és endemikus orchideákban.",
+        "A St. Thomas-hegység fontos menedéke volt a maron ellenállásnak a 18. században.",
+        "A hegység vize táplálja a déli part legnagyobb kókuszdió-ültetvényeit.",
+        "Híres a hirtelen lezúduló hegyi esőiről, amelyek látványos vízeséseket hoznak létre.",
+        "A területen számos ritka trópusi madárfaj, köztük a jamaicai tukan is megfigyelhető.",
+        "A hegység fontos ökológiai hidat képez a Kék-hegység és a tengerparti övezetek között."
+      ]
+    },
+    {
+      "id": "holywell-forest-relief-v2",
+      "descriptionAdvanced": "A Holywell Forest (Holywell-erdő) a Blue and John Crow Mountains Nemzeti Park legkönnyebben elérhető és legnépszerűbb magaslati pihenőhelye St. Andrew és Portland határán. A 1200 méteres magasságban fekvő terület egy varázslatos hegyi esőerdő, ahol a levegő friss és hűvös, a fák ágait pedig buja broméliák és mohák borítják. Holywell a kingstoniak kedvelt menedéke a városi hőség elől, ahol jól kiépített túraösvények, piknikezőhelyek és kilátópontok várják a látogatókat. Az erdő biológiai sokfélesége lenyűgöző: itt él Jamaica szinte összes endemikus madárfaja, az ösvények mentén pedig ritka trópusi virágok virulnak. Holywell nemcsak természeti kincs, hanem a környezeti nevelés és a fenntartható turizmus jamaicai fellegvára is.",
+      "factsAdvanced": [
+        "A Holywell park tengerszint feletti magassága körülbelül 1200-1300 méter.",
+        "A terület Jamaica első hivatalos nemzeti parkjának része.",
+        "Itt található a sziget egyik legjobb madármegfigyelő központja.",
+        "A parkból tiszta időben pazar kilátás nyílik Kingstonra és az északi partra is.",
+        "Holywell híres a 'három plébánia pontjáról', ahol St. Andrew, St. Mary és Portland összeér.",
+        "A területen faházak (cabins) is bérelhetők az éjszakai erdei élményhez.",
+        "Az erdőben számos 19. századi katonai és botanikai emlékhely található.",
+        "A parkot a Jamaica Conservation and Development Trust (JCDT) kezeli."
+      ]
+    },
+    {
+      "id": "hardwar-gap-relief-v2",
+      "descriptionAdvanced": "A Hardwar Gap egy stratégiai fontosságú és rendkívül látványos hegyi hágó a Blue Mountains hegylánc gerincén, amely összeköti Kingstont az északi parttal St. Andrew és Portland plébániák között. A több mint 1200 méter magasan fekvő hágó híres misztikus ködbe burkolózó tájairól, meredek sziklafalairól és a körülötte elterülő buja köderdőkről. Hardwar Gap évszázadok óta fontos közlekedési útvonal, amelynek mentén különleges növényvilág, köztük óriás páfrányok és vad orchideák virulnak. A hágónál található kilátópontokról lélegzetelállító panoráma nyílik mindkét irányba, megmutatva Jamaica domborzatának drámai kettősségét: a déli városi síkságokat és az északi érintetlen esőerdőket.",
+      "factsAdvanced": [
+        "A Hardwar Gap magassága körülbelül 1220 méter a tengerszint felett.",
+        "Nevét Edward Hardwar kapitányról kapta, aki fontos szerepet játszott a terület feltérképezésében.",
+        "Ez Jamaica egyik legmagasabban fekvő aszfaltozott útszakasza.",
+        "A hágó környéke kapja az ország egyik legtöbb csapadékát.",
+        "Itt található a híres Catherine's Peak forrásvíz palackozó üzemének közelében több forrás is.",
+        "Hardwar Gap népszerű megállóhely a kávérajongók és a madármegfigyelők számára.",
+        "A terület erdei a Blue Mountains Nemzeti Park szigorúan védett magzónájához tartoznak.",
+        "A hágón áthaladó út híres a buja páfrányos szegélyeiről és a hirtelen hőmérséklet-csökkenésről."
+      ]
+    },
+    {
+      "id": "yallahs-valley-relief-v2",
+      "descriptionAdvanced": "A Yallahs-völgy St. Thomas plébániában Jamaica egyik legdinamikusabb és leglátványosabb folyóvölgye, amely a Blue Mountains déli lejtőitől egészen a Karib-tengerig húzódik. A völgy névadója a Yallahs-folyó, amelynek sebes vize és hatalmas hordalékos medre meghatározza a táj képét. A völgy híres meredek hegyoldalairól, ahol a gazdák ügyesen alakítottak ki teraszos földeket a kávé és a zöldségek termesztéséhez. A Yallahs-völgy fontos ökológiai és gazdasági folyosó, amely ivóvízzel látja el Kingston jelentős részét a monumentális Yallahs-vízvezeték rendszeren keresztül. A völgy drámai formái és a folyó ereje emlékeztetik a látogatókat Jamaica geológiai aktivitására és a természetformáló erők jelenlétére.",
+      "factsAdvanced": [
+        "A völgy hossza több mint 25 kilométer a hegyektől a tengerig.",
+        "A Yallahs-völgy biztosítja Kingston ivóvízellátásának közel egyharmadát.",
+        "Itt található Jamaica egyik legfontosabb hagymatermesztő vidéke.",
+        "A völgy vize a mészkőhegyekből fakadva rendkívül gazdag ásványi anyagokban.",
+        "Gyakoriak a földcsuszamlások a meredek lejtőkön a heves esőzések idején.",
+        "A völgyben több történelmi híd és vízvezeték-maradvány látható.",
+        "A Yallahs-folyó torkolatánál találhatók a különleges sós tavak (Yallahs Ponds).",
+        "A völgy fontos kutatóhelyszíne a trópusi erózió és a vízgazdálkodás tanulmányozásának."
+      ]
+    },
+    {
+      "id": "hills-of-hanover-relief-v2",
+      "descriptionAdvanced": "Hanover dombsága (Hills of Hanover) Jamaica északnyugati csücskében egy lágyan hullámzó, smaragdzöld mészkővidék, amely elegáns hátteret biztosít Lucea városának és a környező tengerpartnak. Ez a dombvidék híres buja legelőiről, ahol Jamaica legjobb szarvasmarha-állományait tenyésztik, valamint sűrű kókusz- és pimento-ligeteiről. A Hanover-i dombok klímája kiegyensúlyozott és párás, ami kedvez a dús trópusi vegetációnak és a gazdag madárvilágnak. A dombtetőkön megbújó apró falvak és régi ültetvényes házak Jamaica békés vidéki hangulatát árasztják, messze a nagyvárosok zajától. A dombságról nyíló kilátás az óceánra és a nyugati partvidékre Jamaica egyik legharmonikusabb tájképe.",
+      "factsAdvanced": [
+        "A dombság legmagasabb pontja a Dolphin Head hegycsúcs (545 m).",
+        "Hanover dombjai híresek a kiváló minőségű 'yam' gyökér termesztéséről.",
+        "A terület geológiája gazdag mészkő-barlangokban és kristálytiszta forrásokban.",
+        "Itt található Jamaica egyik legfontosabb kókuszolaj-termelő vidéke.",
+        "A dombok között fekvő völgyekben számos rejtett vízesés és patak található.",
+        "A Hanover-i dombság fontos megállóhelye a vándorló énekesmadaraknak.",
+        "A területen jelentős pimento (jamaicai bors) ültetvények működnek.",
+        "A dombság gerincéről belátni az egész északnyugati partvonalat Negril-ig."
+      ]
+    },
+    {
+      "id": "mount-diabolo-relief-v2",
+      "descriptionAdvanced": "A Mount Diabolo (vagy Mount Diablo) egy monumentális mészkőhegység Jamaica középső részén, St. Catherine és St. Ann plébániák határán, amely stratégiai választóvonalat képez az ország déli és északi része között. A hegységen áthaladó hágó évszázadok óta az egyik legfontosabb és leglátványosabb útvonal a szigeten, ahonnan pazar kilátás nyílik a környező völgyekre és bauxitbányákra. Mount Diabolo híres karsztos domborzatáról, víznyelőiről és barlangjairól, amelyek alapvető fontosságúak a sziget belső vízháztartása szempontjából. A hegység magasabb régiói hűvösebb klímát biztosítanak, dús növényzetük pedig fontos menedéket nyújt a helyi vadvilág számára. Mount Diabolo Jamaica domborzatának egyik legmeghatározóbb eleme, amely a modern közlekedés és az ipar számára is komoly kihívást és lehetőséget jelent.",
+      "factsAdvanced": [
+        "A hegység legmagasabb pontjai meghaladják a 700 métert.",
+        "Névadója a spanyoloktól származik, a meredek és veszélyes utak miatt nevezték 'Ördög-hegynek'.",
+        "A Mount Diabolo-hágó Jamaica egyik legfontosabb közlekedési csomópontja.",
+        "A hegység alatt húzódik Jamaica egyik legnagyobb föld alatti víztározó rendszere.",
+        "A terület híres a kiváló minőségű bauxit- és mészkőkészleteiről.",
+        "A hegység oldalában gyakran láthatók látványos mészkő-formációk és sziklafalak.",
+        "A Mount Diabolo-n keresztül vezető út híres a helyi árusokról és a friss gyümölcsökről.",
+        "A hegység fontos ökológiai folyosót alkot az északi és déli part között."
+      ]
+    },
+    {
+      "id": "st-catherine-hills-relief-v2",
+      "descriptionAdvanced": "St. Catherine dombsága (St. Catherine Hills) Jamaica egyik legváltozatosabb domborzati egysége, amely a főváros, Kingston hátországát alkotja. Ez a dombvidék magában foglalja a Hellshire-hegyeket, a Guanaboa-völgyet övező magaslatokat és a Rio Cobre völgyét kísérő mészkőgerinceket. A terület híres karsztformációiról, barlangjairól és a száraz trópusi erdőktől a dúsabb völgyi vegetációig terjedő növényvilágáról. St. Catherine dombjai stratégiai fontosságúak Kingston védelme és vízellátása szempontjából, miközben történelmi emlékekben is gazdagok, a Taino indiánok barlangjaitól a gyarmati korszak erődítményeiig. A dombság tetejéről nyíló panoráma a St. Catherine-síkságra és a tengerre Jamaica egyik legimpozánsabb városközeli látványa.",
+      "factsAdvanced": [
+        "A dombság magassága 100 és 600 méter között váltakozik.",
+        "Itt található Jamaica egyik legfontosabb karsztforrás-rendszere.",
+        "A St. Catherine Hills ad otthont a híres Two Sisters barlangoknak Hellshire-ben.",
+        "A terület fontos bázisa a kingstoni építőipar számára szükséges mészkőbányászatnak.",
+        "A dombok között számos történelmi cukorültetvény és üdülőház maradványa látható.",
+        "St. Catherine dombsága fontos élőhelye a jamaicai iguanának és több ritka madárfajnak.",
+        "A terület klímája jelentősen befolyásolja a Kingston-i öböl széljárását.",
+        "A dombság gerincén futó utak népszerűek a hétvégi kirándulók és kerékpárosok körében."
+      ]
+    },
+    {
+      "id": "trelawny-highlands-relief-v2",
+      "descriptionAdvanced": "Trelawny felvidéke (Trelawny Highlands) Jamaica egyik legvadabb és legkülönlegesebb tájegysége, amely magában foglalja a Cockpit Country északi részét és a környező mészkőhegyeket. Ez a magasan fekvő terület híres meredek kúphegyeiről, mély víznyelőiről és sűrű, érintetlen trópusi erdőiről, amelyek a szigetország legfontosabb biodiverzitási forró pontjai. A felvidék klímája hűvös és csapadékos, ami ideális környezetet teremt Jamaica számos endemikus fajának, köztük ritka papagájoknak és orchideáknak. Trelawny felvidéke történelmi szempontból is kiemelkedő, hiszen évszázadokon át a maronok legyőzhetetlen erődítménye volt. Ma ez a terület Jamaica édesvíz-forrásainak legfontosabb védőbástyája és az ökoturizmus rejtett kincsesládája.",
+      "factsAdvanced": [
+        "A felvidék tengerszint feletti magassága 300 és 700 méter között mozog.",
+        "Itt található a világ egyik legszebb trópusi karsztformációja.",
+        "Trelawny felvidéke biztosítja az északi partvízrendszer vízellátásának jelentős részét.",
+        "A területen több mint 100 olyan növényfaj él, amely csak itt található meg.",
+        "Itt fészkel a veszélyeztetett sárgafülű amazonpapagáj legnagyobb populációja.",
+        "A felvidék barlangrendszerei a leghosszabbak és legbonyolultabbak Jamaicában.",
+        "A terület szinte teljesen lakatlan, megőrizve ősi, természetes állapotát.",
+        "A Trelawny Highlands védelme kulcsfontosságú Jamaica klímastabilitása szempontjából."
+      ]
+    },
+    {
+      "id": "st-ann-hills-relief-v2",
+      "descriptionAdvanced": "St. Ann dombsága (St. Ann Hills) Jamaica északi partjának 'zöld szíve', amely smaragdzöld láncolatként húzódik végig a plébánia mentén. Ez a terület híres buja vegetációjáról, kristálytiszta folyóiról és a Kék-hegység után Jamaica legszebb hegyvidéki tájairól. A dombság lejtőin találhatók a sziget leghíresebb vízesései, köztük a Dunn's River Falls és a Blue Hole, amelyek a mészkőhegyekből fakadó forrásokból táplálkoznak. St. Ann dombjai fontos mezőgazdasági területek, ahol a hűvösebb klíma ideális a citrusfélék, a kávé és a pimento termesztéséhez. A dombtetőkön megbújó elegáns villák és barátságos falvak Jamaica legvonzóbb lakókörnyezetét alkotják, ahol a természet szépsége és a modern kényelem találkozik.",
+      "factsAdvanced": [
+        "A dombság magassága 200 és 600 méter között váltakozik.",
+        "St. Ann dombjai híresek a pimento (jamaicai bors) kiváló minőségéről.",
+        "A terület alatt húzódik Jamaica egyik leggazdagabb föld alatti vízhálózata.",
+        "Itt található a híres Fern Gully, egy természetes zöld alagút a dombok között.",
+        "A dombság lejtőin számos bauxitbánya és timföldgyár működik.",
+        "St. Ann Hills Jamaica egyik legfontosabb botanikai gyűjtőhelye.",
+        "A dombokról lélegzetelállító kilátás nyílik Ocho Rios kikötőjére és a tengerre.",
+        "A terület népszerű célpontja a lovas túráknak és az ökoturizmusnak."
+      ]
+    },
+    {
+      "id": "claren-valley-relief-v2",
+      "descriptionAdvanced": "A Claren-völgy (vagy Clarendon-völgy) Jamaica középső részén, a Bull Head-hegység és a déli síkságok között fekvő tágas és termékeny medence. Ez a völgy Jamaica egyik legfontosabb mezőgazdasági kosara, ahol a tápanyagban gazdag alluviális talajon cukornádat, citrusféléket és különféle zöldségeket termesztenek nagy mennyiségben. A völgyet a Rio Minho folyó és számos kisebb patak élteti, meghatározva a vidék gazdasági ritmusát és biodiverzitását. A Claren-völgy tájképe a hullámzó nádmezőkkel, a domboldalakon sorakozó gyümölcsösökkel és a távoli hegyek kék vonulatával Jamaica egyik legidillibb vidéki panorámája, amely hűen tükrözi a szigetország agrártörténeti gazdagságát.",
+      "factsAdvanced": [
+        "A völgy Jamaica egyik legnagyobb összefüggő mezőgazdasági területe.",
+        "A terület híres a kiváló minőségű cukornád- és melasz-termeléséről.",
+        "A Claren-völgyben találhatók az ország legfontosabb ivóvíz-kutai.",
+        "A völgy klímája meleg és napsütéses, ideális a trópusi növénytermesztéshez.",
+        "Itt működik Jamaica több történelmi cukorgyára, mint például a Monymusk.",
+        "A völgyben számos ritka trópusi madárfaj talál táplálkozóhelyet a nádasok mentén.",
+        "A terület fontos szerepet játszik az ország élelmiszer-önellátási stratégiájában.",
+        "A völgyön keresztül vezet az egyik legforgalmasabb déli közlekedési útvonal."
+      ]
+    },
+    {
+      "id": "manchester-plateau-relief-v2",
+      "descriptionAdvanced": "A Manchester-fennsík (Manchester Plateau) Jamaica középső részén egy monumentális mészkőfennsík, amely 600-900 méterrel magasodik a tengerszint fölé. Ez a terület híres hűvös, szárazabb klímájáról és a jellegzetes vörös színű, bauxitban gazdag talajáról, amely meghatározza a régió gazdasági és természeti arculatát. A fennsík domborzatát hullámzó dombok, mély víznyelők és rejtett barlangok tarkítják, sajátos karsztos tájat hozva létre. Manchester fennsíkja Jamaica egyik legfejlettebb vidéke, ahol Mandeville városa körül virágzó mezőgazdaság, bányászat és oktatási központok találhatók. A fennsík peremeiről lélegzetelállító panoráma nyílik a déli tengerpartra és a központi hegyvidékre, megmutatva Jamaica domborzatának egyik legstabilabb és legértékesebb egységét.",
+      "factsAdvanced": [
+        "A fennsík átlagos magassága 700 méter a tengerszint felett.",
+        "Itt található Jamaica legfontosabb bauxit- és timföldipari központja.",
+        "A terület híres a hűvös reggeleiről és az alacsony páratartalomról.",
+        "A Manchester-fennsíkon termesztik Jamaica legjobb burgonya- és yam-készleteit.",
+        "A fennsík barlangrendszere fontos régészeti és geológiai kutatóhelyszín.",
+        "Itt található a sziget legöregebb kávé- és citrusültetvényeinek jelentős része.",
+        "A terület klímája miatt már a 19. században népszerű gyógyhely volt.",
+        "A fennsík gerincén futó utakról belátni szinte az egész déli partvidéket."
+      ]
+    },
+    {
+      "id": "st-elizabeth-plains-relief-v2",
+      "descriptionAdvanced": "St. Elizabeth síkságai (St. Elizabeth Plains) Jamaica délnyugati részén az ország legfontosabb és legváltozatosabb alföldi területei. Ez a tágas vidék magában foglalja a Black River menti hatalmas mocsárvidékeket (Morass) és a déli part szárazabb, napsütötte szavannáit. A síkság Jamaica 'kosara', ahol a gazdák mesterei a különféle környezeti feltételek kihasználásának: a mocsarak szélén rizst és nádcukrot, a szárazabb részeken pedig dinnyét és gyökérzöldségeket termesztenek. A St. Elizabeth-i síkságok látképe a legelésző szarvasmarhákkal, a végtelen nádmezőkkel és a háttérben magasodó Santa Cruz-hegységgel Jamaica mezőgazdasági erejének és természeti sokszínűségének legfőbb bizonyítéka.",
+      "factsAdvanced": [
+        "A síkságokon található Jamaica legnagyobb összefüggő mocsárvidéke, a Black River Lower Morass.",
+        "Itt termesztik az ország görögdinnye- és paradicsom-készleteinek jelentős részét.",
+        "A terület híres a különleges 'szárazföldi' halászatáról a mocsári csatornák mentén.",
+        "A síkságokon keresztül kanyarog Jamaica leghosszabb hajózható folyója, a Black River.",
+        "Itt él Jamaica legnagyobb amerikai krokodil populációja.",
+        "A terület fontos fészkelőhelye a vándorló vízimadaraknak a Karib-térségben.",
+        "A síkságok talaja gazdag alluviális lerakódásokban, ami rendkívül termékennyé teszi.",
+        "St. Elizabeth síkságai kulcsszerepet játszanak Jamaica élelmiszerbiztonságában."
+      ]
+    },
+    {
+      "id": "portland-ridge-relief-v2",
+      "descriptionAdvanced": "A Portland-gerinc (Portland Ridge) Jamaica legdélibb pontján, a Clarendon-síkságból kinyúló monumentális mészkőfennsík, amely uralja a déli tengerpart látképét. Ez a terület Jamaica egyik legszárazabb és legvadabb vidéke, ahol a karsztos sziklákat sűrű, tüskés trópusi erdők és kiterjedt mangrove-rendszerek övezik. A Portland-gerinc biológiai jelentősége felbecsülhetetlen: itt található az ország egyik legfontosabb tengeri madárrezervátuma és fészkelőhelye. A gerinc tetejéről, különösen a világítótorony környékéről, lenyűgöző panoráma nyílik a nyílt tengerre és a távoli Pedro-padokra. Ez a vidék mentes minden modern beépítéstől, megőrizve a sziget déli partjának nyers, érintetlen és fenséges természeti karakterét.",
+      "factsAdvanced": [
+        "A gerinc legmagasabb pontja körülbelül 150 méterrel emelkedik a tenger fölé.",
+        "Itt található a Portland Point világítótorony, Jamaica egyik legfontosabb navigációs jele.",
+        "A terület a Portland Bight Védett Övezet (PBPA) egyik legértékesebb magzónája.",
+        "A Portland-gerinc barlangjaiban ritka denevérfajok és endemikus hüllők élnek.",
+        "Ez Jamaica egyik legfontosabb fészkelőhelye a veszélyeztetett barna pelikánoknak.",
+        "A gerinc part menti vizei híresek a Queen Conch (szárnyas csiga) gazdagságáról.",
+        "A terület geológiája értékes információkkal szolgál a karibi mészkőképződésről.",
+        "A Portland Ridge látogatása csak engedéllyel, természetvédelmi szakemberek kíséretében ajánlott."
+      ]
+    },
+    {
+      "id": "johannesburg-mountain-relief-v2",
+      "descriptionAdvanced": "A Johannesburg-hegy (vagy Johannesburg Mountain) St. Catherine plébánia belső részén egy karakteres mészkőmagaslat, amely a Mount Diablo hegylánc egyik legfontosabb tagja. Ez a hegyvidéki terület híres meredek lejtőiről és a rajta átvezető stratégiai utakról, amelyek Kingstont kötik össze az északi parttal. A Johannesburg-hegy környéke tipikus jamaicai karsztvidék, ahol a felszíni vizek mély víznyelőkön keresztül táplálják a föld alatti víztározókat. A hegy dús erdői és a környező völgyek hűvösebb mikroklímája ideális élőhelyet biztosít számos endemikus madárfajnak és ritka trópusi növénynek. A hegycsúcsról tiszta időben pazar kilátás nyílik a St. Catherine-síkságra és a központi hegyvidék vonulataira.",
+      "factsAdvanced": [
+        "A hegy magassága több helyen meghaladja a 600 métert.",
+        "Fontos szerepet játszik a fővárosi régió észak-déli közlekedési hálózatában.",
+        "A Johannesburg-hegy környezete gazdag kiváló minőségű mészkőben és bauxitban.",
+        "A terület fontos vízgyűjtője a Rio Cobre és a Rio Minho folyóknak.",
+        "A hegy barlangjaiban jelentős cseppkő-képződmények figyelhetők meg.",
+        "Itt található Jamaica egyik legfontosabb hegyi köderdő maradványa a központi régióban.",
+        "A hegycsúcs közelében több kisebb, friss vizű hegyi forrás is fakad.",
+        "A terület népszerű célpontja a geológiai és botanikai tanulmányutaknak."
+      ]
+    },
+    {
+      "id": "blue-mountain-peak-north-relief-v2",
+      "descriptionAdvanced": "A Blue Mountain Peak északi lejtői Portland plébánia felé néznek, és Jamaica legvadságukban is lenyűgöző esőerdős tájait alkotják. Ez a terület éles kontrasztban áll a déli lejtőkkel: itt a csapadékmennyiség jóval magasabb, ami szinte áthatolhatatlan, örökzöld növényzetet és drámai vízeséseket eredményez. Az északi lejtők adják a Kék-hegység legérintetlenebb részeit, ahol a természetes ökoszisztéma szinte zavartalanul működik. Ez a régió a jamaicai biodiverzitás igazi menedéke, ahol olyan ritka fajok élnek, mint a jamaicai óriás pillangó és számos endemikus madár. Az északi lejtőkön keresztül vezető utak a világ legszebb panorámaútjai közé tartoznak, bemutatva a trópusi hegyvidék nyers és fenséges erejét.",
+      "factsAdvanced": [
+        "Az északi lejtők kapják Jamaica legmagasabb évi csapadékmennyiségét (akár 7000 mm).",
+        "A terület a Blue and John Crow Mountains UNESCO világörökségi helyszín központi része.",
+        "Itt ered Jamaica legtöbb és legtisztább hegyi folyója.",
+        "Az északi lejtőkön található az ország egyik leggazdagabb páfrány- és orchidea-lelőhelye.",
+        "A terület fontos menedéke volt a maron közösségeknek a gyarmati küzdelmek idején.",
+        "Híres a 'Silver Hill' és más látványos kilátópontjairól Portland felé.",
+        "Az északi lejtők erdei kritikus szerepet játszanak a globális klímavédelemben.",
+        "A területen számos olyan növényfaj él, amely csak a 1500 méter feletti zónában marad életben."
+      ]
+    },
+    {
+      "id": "mocho-mountains-relief-v2",
+      "descriptionAdvanced": "A Mocho-hegység Clarendon plébánia szívében Jamaica egyik legősibb és legkarakteresebb domborzati egysége. A hegység híres meredek mészkőszirtjeiről, mély szurdokairól és kiterjedt barlangrendszereiről, amelyek egyedülálló karsztos tájat hoznak létre. A Mocho-hegység fontos mezőgazdasági és bányászati övezet, ahol a föld mélye gazdag bauxitkészleteket rejt, felszíne pedig kiváló minőségű citrusültetvényeknek és kávéligeteknek ad otthont. A hegység erdei és rejtett völgyei gazdag biodiverzitással büszkélkedhetnek, számos endemikus fajnak nyújtva menedéket. A Mocho-hegység nemcsak természeti kincs, hanem kulturális szempontból is jelentős, hiszen barlangjaiban és gerincein évszázadok történelme, a Taino indiánoktól a modern iparosodásig, hagyott nyomot.",
+      "factsAdvanced": [
+        "A hegység legmagasabb pontjai meghaladják a 600 métert.",
+        "A Mocho-hegység Jamaica egyik legfontosabb bauxitbányászati körzete.",
+        "A terület barlangrendszereiben fontos prekolumbián régészeti leleteket találtak.",
+        "A hegység vízgyűjtője táplálja a Clarendon-síkság jelentős ivóvíz-készleteit.",
+        "Itt él a ritka jamaicai fekete rigó és több endemikus papagájfaj is.",
+        "A Mocho-hegység híres a különleges, karsztos növénytársulásairól.",
+        "A területen keresztül vezető utak pazar panorámát nyújtanak a központi Jamaica vonulataira.",
+        "A hegység védelme alapvető fontosságú a régió ökológiai egyensúlyának fenntartásához."
+      ]
+    }
+  ]
+}

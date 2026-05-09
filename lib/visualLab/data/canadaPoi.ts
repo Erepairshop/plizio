@@ -251,7 +251,7 @@ export const canadaCities: POI[] = [
     coords: [-52.7126, 47.5615], type: 'landmark', parent: 'CA', image: "/poi-images/can_stj.webp"},
   {
     id: "can_cha",    name: { de: "Charlottetown", hu: "Charlottetown", ro: "Charlottetown", en: "Charlottetown" },
-    description: { de: "Capital of PEI", hu: "Capital of PEI", ro: "Capital of PEI", en: "Capital of PEI" },
+    description: { de: "Charlottetown ist die charmante Hauptstadt von Prince Edward Island und gilt als Geburtsort der kanadischen Konföderation. Sie besticht durch wunderschöne viktorianische Architektur und einen malerischen Hafen.", hu: "Charlottetown a Prince Edward-sziget bájos fővárosa, amelyet a kanadai konföderáció szülőhelyeként ismernek. Gyönyörű viktoriánus építészettel és festői kikötővel büszkélkedhet.", ro: "Charlottetown este capitala fermecătoare a Insulei Prince Edward și este cunoscută ca locul de naștere al Confederației Canadiene. Se remarcă prin arhitectura sa victoriană frumoasă și portul pitoresc.", en: "Charlottetown is the charming capital of Prince Edward Island and is known as the birthplace of Canadian Confederation. It features beautiful Victorian architecture and a scenic harbor." },
     descriptionAdvanced: {
       de: "Charlottetown ist die charmante Hauptstadt von Prince Edward Island und gilt als 'Geburtsort der Konföderation' Kanadas. Die Stadt besticht durch ihre gut erhaltene viktorianische Architektur, ihre Bedeutung als Kulturzentrum und ihre Nähe zu wunderschönen roten Sandstränden.",
       hu: "Charlottetown a Prince Edward-sziget bájos fővárosa, amelyet Kanada 'konföderációjának bölcsőjeként' emlegetnek. A várost jól megőrzött viktoriánus építészete, kulturális jelentősége és a gyönyörű vörös homokos strandok közelsége teszi vonzóvá. Történelem K8 – Kanada születése.",
@@ -264,7 +264,7 @@ export const canadaCities: POI[] = [
       ro: [],
       en: []
     },
-    facts: { de: ["Hauptstadt von PEI", "Geburtsort der Konföderation", "Viktorianische Architektur", "Heimat von Anne auf Green Gables", "Wichtiger Fischereihafen"], hu: ["PEI fővárosa", "A konföderáció szülőhelye", "Viktoriánus építészet", "Anne a Zöld Oromból otthona", "Fontos halászkikötő"], ro: ["Capitala PEI", "Locul de naștere al Confederației", "Arhitectură victoriană", "Casa personajului Anne of Green Gables", "Port de pescuit important"], en: ["Capital of PEI", "Birthplace of Confederation", "Victorian architecture", "Home of Anne of Green Gables", "Important fishing port"] },
+    facts: { de: ["Hauptstadt von Prince Edward Island", "Geburtsort der Konföderation", "Berühmt für viktorianische Architektur"], hu: ["A Prince Edward-sziget fővárosa", "A konföderáció szülőhelye", "Viktoriánus építészetéről híres"], ro: ["Capitala Insulei Prince Edward", "Locul de naștere al Confederației", "Faimoasă pentru arhitectura victoriană"], en: ["Capital of Prince Edward Island", "Birthplace of Confederation", "Famous for Victorian architecture"] },
     elevation: 8, historyYear: 1764, historyPeriod: "Colonial/Victorian",
     coords: [-63.1311, 46.2382], type: 'landmark', parent: 'CA', image: "/poi-images/can_cha.webp"},
   {
@@ -305,7 +305,7 @@ export const canadaCities: POI[] = [
     coords: [-135.0568, 60.7212], type: 'landmark', parent: 'CA', image: "/poi-images/can_whi.webp"},
   {
     id: "can_yel",    name: { de: "Yellowknife", hu: "Yellowknife", ro: "Yellowknife", en: "Yellowknife" },
-    description: { de: "Capital of NWT", hu: "Capital of NWT", ro: "Capital of NWT", en: "Capital of NWT" },
+    description: { de: "Yellowknife ist die Hauptstadt der Nordwest-Territorien und liegt am Nordufer des Großen Sklavensees. Sie ist ein wichtiges Zentrum für den Diamantenabbau und einer der besten Orte, um Polarlichter zu sehen.", hu: "Yellowknife az Északnyugati területek fővárosa, amely a Nagy-Rabszolga-tó északi partján fekszik. A gyémántbányászat jelentős központja, és az egyik legjobb hely a sarki fény megfigyelésére.", ro: "Yellowknife este capitala Teritoriilor de Nord-Vest, situată pe malul nordic al Marelui Lac al Sclavilor. Este un centru major pentru extracția diamantelor și unul dintre cele mai bune locuri pentru a vedea aurora boreală.", en: "Yellowknife is the capital of the Northwest Territories, situated on the northern shore of Great Slave Lake. It is a major center for diamond mining and one of the best places to view the Northern Lights." },
     descriptionAdvanced: {
       de: "Yellowknife, am Ufer des Großen Sklavensees gelegen, ist die Diamantenhauptstadt Kanadas. Die Stadt hat sich von einer Bergbausiedlung zu einem modernen Verwaltungszentrum entwickelt und ist weltweit als einer der besten Orte zur Beobachtung von Polarlichtern bekannt.",
       hu: "A Nagy-Rabszolga-tó partján fekvő Yellowknife Kanada gyémántfővárosa. A város bányásztelepülésből fejlődött modern közigazgatási központtá, és világszerte a sarki fény megfigyelésének egyik legjobb helyszíneként ismerik. Földrajz K8 – geológia.",
@@ -318,7 +318,7 @@ export const canadaCities: POI[] = [
       ro: [],
       en: []
     },
-    facts: { de: ["Hauptstadt der NWT", "Diamantenzentrum", "Am Großen Sklavensee", "Beste Polarlichter", "Nördliches Wirtschaftszentrum"], hu: ["Az Északnyugati területek fővárosa", "Gyémántközpont", "A Nagy-Rabszolga-tónál fekszik", "Legszebb sarki fény", "Északi gazdasági központ"], ro: ["Capitala Teritoriilor de Nord-Vest", "Centrul diamantelor", "Pe malul lacului Marele Sclav", "Cea mai bună auroră boreală", "Centru economic nordic"], en: ["Capital of NWT", "Diamond capital", "On Great Slave Lake", "Best Northern Lights", "Northern economic hub"] },
+    facts: { de: ["Hauptstadt der Nordwest-Territorien", "Diamantenhauptstadt Nordamerikas", "Bester Ort für Polarlichter"], hu: ["Az Északnyugati területek fővárosa", "Észak-Amerika gyémántfővárosa", "Kiváló hely a sarki fény megfigyelésére"], ro: ["Capitala Teritoriilor de Nord-Vest", "Capitala diamantelor din America de Nord", "Loc excelent pentru aurora boreală"], en: ["Capital of the Northwest Territories", "Diamond capital of North America", "Prime spot for Northern Lights"] },
     elevation: 206, historyYear: 1934, historyPeriod: "Modern/Mining Era",
     coords: [-114.3718, 62.454], type: 'landmark', parent: 'CA', image: "/poi-images/can_yel.webp"},
   {
@@ -510,7 +510,7 @@ export const canadaCities: POI[] = [
     coords: [-115.5683, 51.1784], type: 'landmark', parent: 'CA', image: "/poi-images/can_banff.webp"},
   {
     id: "can_niagara",    name: { de: "Niagarafälle", hu: "Niagara-vízesés", ro: "Cascada Niagara", en: "Niagara Falls" },
-    description: { de: "Famous waterfalls", hu: "Híres vízesés", ro: "Cascade faimoase", en: "Famous waterfalls" },
+    description: { de: "Die Niagarafälle bestehen aus drei gewaltigen Wasserfällen an der Grenze zwischen Kanada und den USA. Die majestätischen Horseshoe Falls auf der kanadischen Seite sind ein weltberühmtes Naturwunder.", hu: "A Niagara-vízesés három hatalmas vízesésből áll Kanada és az Egyesült Államok határán. A kanadai oldalon található fenséges Patkó-vízesés világhírű természeti csoda.", ro: "Cascada Niagara constă din trei cascade masive la granița dintre Canada și Statele Unite. Majestuoasa cascadă Potcoava de pe partea canadiană este o minune naturală de renume mondial.", en: "Niagara Falls consists of three massive waterfalls on the border between Canada and the United States. The majestic Horseshoe Falls on the Canadian side is a world-renowned natural wonder." },
     descriptionAdvanced: {
       de: "Die Niagarafälle bestehen aus drei gewaltigen Wasserfällen an der Grenze zwischen Kanada und den USA. Die kanadischen Horseshoe Falls sind die beeindruckendsten und stürzen mit unglaublicher Kraft in die Tiefe, was sie zu einer der meistbesuchten Naturattraktionen der Welt macht.",
       hu: "A Niagara-vízesés három hatalmas vízesésből áll Kanada és az USA határán. A kanadai oldalon található Patkó-vízesés a leglátványosabb, amely elképesztő erővel zúdul a mélybe, a világ egyik leglátogatottabb természeti látványosságává téve a helyet.",
@@ -523,7 +523,7 @@ export const canadaCities: POI[] = [
       ro: [],
       en: []
     },
-    facts: { de: ["Drei große Wasserfälle", "Grenze Kanada/USA", "Gewaltige Wassermassen", "Wichtige Wasserkraftquelle", "Ikonisches Touristenziel"], hu: ["Három nagy vízesés", "Kanada és az USA határa", "Hatalmas víztömeg", "Fontos vízenergia-forrás", "Ikonikus turisztikai célpont"], ro: ["Trei cascade majore", "Granița Canada/SUA", "Volum uriaș de apă", "Sursă importantă de energie hidroelectrică", "Destinație turistică iconică"], en: ["Three major waterfalls", "Canada/USA border", "Vast water volume", "Major source of hydroelectric power", "Iconic tourist destination"] },
+    facts: { de: ["An der Grenze zwischen Kanada und den USA", "Umfasst die gewaltigen Horseshoe Falls", "Wichtige Quelle für Wasserkraft"], hu: ["Kanada és az USA határán található", "Része a hatalmas Patkó-vízesés", "Jelentős vízenergia-forrás"], ro: ["Situată la granița dintre SUA și Canada", "Include masiva cascadă Potcoava", "O sursă majoră de energie hidroelectrică"], en: ["Located on the US-Canada border", "Includes the massive Horseshoe Falls", "A major source of hydroelectric power"] },
     elevation: 51, length: 1203,
     coords: [-79.0849, 43.0896], type: 'landmark', parent: 'CA', image: "/poi-images/can_niagara.webp"},
   {
@@ -551,7 +551,7 @@ export const canadaCities: POI[] = [
     coords: [-117.7615, 52.8737], type: 'landmark', parent: 'CA', image: "/poi-images/can_jasper.webp"},
   {
     id: "can_whistler",    name: { de: "Whistler", hu: "Whistler", ro: "Whistler", en: "Whistler" },
-    description: { de: "Ski resort town", hu: "Sípálya-város", ro: "Stațiune de schi", en: "Ski resort town" },
+    description: { de: "Whistler ist ein Weltklasse-Resort in British Columbia, eingebettet in die spektakulären Coast Mountains. Es ist weltweit berühmt für seine außergewöhnlichen Ski- und Snowboardmöglichkeiten sowie sein lebhaftes Alpendorf.", hu: "Whistler egy világszínvonalú üdülőváros Brit Kolumbiában, a látványos Parti-hegységben. Világszerte híres kiváló síelési és snowboardozási lehetőségeiről, valamint nyüzsgő alpesi falujáról.", ro: "Whistler este o stațiune de clasă mondială din Columbia Britanică, situată în spectaculoșii Munți de Coastă. Este renumită la nivel global pentru schi, snowboarding și satul său alpin plin de viață.", en: "Whistler is a world-class resort town in British Columbia, nestled in the spectacular Coast Mountains. It is globally famous for its exceptional skiing, snowboarding, and vibrant alpine village." },
     coords: [-122.9574, 50.1163], type: 'landmark', parent: 'CA', image: "/poi-images/can_whistler.webp"},
   {
     id: "can_fundy",    name: { de: "Bay of Fundy", hu: "Fundy-öböl", ro: "Golful Fundy", en: "Bay of Fundy" },
@@ -873,7 +873,7 @@ export const canadaCities: POI[] = [
     parent: "CA",
     coords: [-94.1, 58.7],
     name: { de: "Churchill-Eisbären", hu: "Churchill-i jegesmedvék", ro: "Urșii polari din Churchill", en: "Churchill Polar Bears" },
-    description: { de: "Die 'Weltstadt der Eisbären' an der Hudson Bay.", hu: "A 'jegesmedvék világfővárosa' a Hudson-öböl partján.", ro: "\\\"Capitala mondială a urșilor polari\\\" la Golful Hudson.", en: "The 'Polar Bear Capital of the World' on the Hudson Bay." },
+    description: { de: "Churchill im Norden Manitobas ist international als die Welthauptstadt der Eisbären bekannt. Jeden Herbst versammeln sich hier hunderte Eisbären, während sie auf das Zufrieren der Hudson Bay warten.", hu: "Az észak-manitobai Churchill nemzetközileg a jegesmedvék világfővárosaként ismert. Minden ősszel több száz jegesmedve gyűlik itt össze, várva, hogy a Hudson-öböl befagyjon.", ro: "Churchill, situat în nordul Manitobei, este cunoscut la nivel internațional drept Capitala Mondială a Urșilor Polari. În fiecare toamnă, sute de urși polari se adună aici așteptând să se formeze gheața pe Golful Hudson.", en: "Churchill, located in northern Manitoba, is internationally known as the Polar Bear Capital of the World. Every autumn, hundreds of polar bears gather here as they wait for the sea ice to form on Hudson Bay." },
     descriptionAdvanced: {
       de: "Churchill in Manitoba gilt als die Welthauptstadt der Eisbären, da sich hier im Herbst hunderte von Bären versammeln, um auf das Gefrieren der Hudson Bay zu warten. Dies bietet die seltene Gelegenheit, das größte an Land lebende Raubtier der Erde in freier Wildbahn zu beobachten.",
       hu: "A manitobai Churchill a világ jegesmedve-fővárosa, mivel ősszel több száz medve gyűlik itt össze, várva a Hudson-öböl befagyását. Ez ritka lehetőséget kínál a Föld legnagyobb szárazföldi ragadozójának megfigyelésére természetes élőhelyén.",
@@ -886,7 +886,7 @@ export const canadaCities: POI[] = [
       ro: [],
       en: []
     },
-    facts: { de: ["Welthauptstadt der Eisbären", "An der Hudson Bay", "Beste Zeit: Oktober/November", "Beobachtung per Tundra-Buggy"], hu: ["A jegesmedvék világfővárosa", "A Hudson-öböl partján", "Legjobb időszak: október/november", "Megfigyelés tundra-buggykkal"], ro: ["Capitala mondială a urșilor polari", "La Golful Hudson", "Perioada optimă: oct./nov.", "Observare cu vehicule Tundra Buggy"], en: ["Polar Bear Capital of the World", "Located on Hudson Bay", "Peak season: October and November", "Viewed from custom Tundra Buggies"] }, image: "/poi-images/ca-churchill-polar-bear.webp"},
+    facts: { de: ["Welthauptstadt der Eisbären", "An den Ufern der Hudson Bay gelegen", "Hauptbeobachtungszeit ist im Herbst"], hu: ["A jegesmedvék világfővárosa", "A Hudson-öböl partján található", "A főszezon ősszel van"], ro: ["Capitala mondială a urșilor polari", "Situat pe țărmul Golfului Hudson", "Sezonul principal de observare este toamna"], en: ["Polar Bear Capital of the World", "Located on the shores of Hudson Bay", "Prime viewing season is in autumn"] }, image: "/poi-images/ca-churchill-polar-bear.webp"},
   {
     id: "ca-wood-buffalo-bison",
     type: "animal-habitat",

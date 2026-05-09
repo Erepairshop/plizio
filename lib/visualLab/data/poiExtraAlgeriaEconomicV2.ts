@@ -49,13 +49,13 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: "Hassi Messaoud Oil Field"
     },
     description: {
-      de: "Das wichtigste und größte Ölfeld in Algerien, das das Rückgrat der nationalen Wirtschaft bildet.",
+      de: "Hassi Messaoud ist das größte und wichtigste Erdölfeld Algeriens und bildet das Rückgrat der nationalen Energiewirtschaft.",
       hu: "Algéria legfontosabb és legnagyobb olajmezője, amely a nemzeti gazdaság gerincét alkotja.",
       ro: "Cel mai important și mare câmp petrolier din Algeria, formând coloana vertebrală a economiei naționale.",
       en: "The most important and largest oil field in Algeria, forming the backbone of the national economy."
     },
     facts: {
-      de: ["1956 entdeckt", "Größtes Ölfeld Algeriens", "Befindet sich in der Sahara", "Zieht internationale Firmen an", "Herzstück der Wirtschaft"],
+      de: ["Größtes Ölfeld Algeriens", "Rückgrat der Wirtschaft", "Wüstensiedlung für Facharbeiter"],
       hu: ["1956-ban fedezték fel", "Algéria legnagyobb olajmezője", "A Szaharában található", "Nemzetközi cégeket vonz", "A gazdaság központja"],
       ro: ["Descoperit în 1956", "Cel mai mare câmp petrolier algerian", "Situat în Sahara", "Atrage companii internaționale", "Inima economiei"],
       en: ["Discovered in 1956", "Largest Algerian oil field", "Located in the Sahara", "Attracts international firms", "Heart of the economy"]
@@ -85,13 +85,13 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: "Hassi R'Mel Gas Field"
     },
     description: {
-      de: "Eines der größten Erdgasfelder der Welt und eine zentrale Energiequelle für Europa.",
+      de: "Hassi R'Mel ist eines der weltweit größten Erdgasfelder und ein zentraler Knotenpunkt für Gasexporte nach Europa.",
       hu: "A világ egyik legnagyobb földgázmezője és Európa egyik legfontosabb energiaforrása.",
       ro: "Unul dintre cele mai mari zăcăminte de gaze naturale din lume și o sursă cheie de energie pentru Europa.",
       en: "One of the largest natural gas fields in the world and a key energy source for Europe."
     },
     facts: {
-      de: ["1956 entdeckt", "Riesige Gasreserven", "Versorgt Pipelines nach Europa", "Eines der größten weltweit", "Zentrum der Gasförderung"],
+      de: ["Riesiges Erdgasvorkommen", "Exportzentrum für Europa", "Strategischer Energieknoten"],
       hu: ["1956-ban fedezték fel", "Hatalmas gáztartalékok", "Európai vezetékeket lát el", "Világviszonylatban is óriási", "A gázkitermelés központja"],
       ro: ["Descoperit în 1956", "Rezerve masive de gaz", "Alimentează conducte spre Europa", "Printre cele mai mari global", "Centru de extracție a gazelor"],
       en: ["Discovered in 1956", "Massive gas reserves", "Supplies pipelines to Europe", "Among the world's largest", "Gas extraction center"]
@@ -120,14 +120,14 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: "Arzew Port"
     },
     description: {
-      de: "Ein bedeutender Industrie- und Hafenkomplex, der auf den Export von verflüssigtem Erdgas (LNG) spezialisiert ist.",
-      hu: "Jelentős ipari és kikötői komplexum, amely cseppfolyósított földgáz (LNG) exportjára specializálódott.",
+      de: "Der Hafen von Arzew ist ein führendes Zentrum für die petrochemische Industrie und den Export von Flüssigerdgas (LNG).",
+      hu: "Algéria egyik legfontosabb ipari és kőolaj-vegyipari központja a Földközi-tenger partján.",
       ro: "Un complex industrial și portuar major specializat în exportul de gaz natural lichefiat (GNL).",
       en: "A major industrial and port complex specialized in the export of liquefied natural gas (LNG)."
     },
     facts: {
-      de: ["Fokus auf LNG-Export", "Riesige Raffinerien", "Nahe Oran", "Wichtig für die Energiewirtschaft", "Umfangreiche Infrastruktur"],
-      hu: ["Az LNG exportra fókuszál", "Hatalmas finomítók", "Orán közelében", "Fontos az energiaiparnak", "Kiterjedt infrastruktúra"],
+      de: ["LNG-Exportzentrum", "Petrochemischer Industriekomplex", "Wichtiger Mittelmeerhafen"],
+      hu: ["Kőolaj-vegyipar", "Ipari kikötő", "Energiaexport"],
       ro: ["Axat pe exportul de GNL", "Rafinării uriașe", "Aproape de Oran", "Vital pentru sectorul energetic", "Infrastructură extinsă"],
       en: ["Focus on LNG export", "Huge refineries", "Near Oran", "Vital for the energy sector", "Extensive infrastructure"]
     },
@@ -261,13 +261,13 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
     },
     description: {
       de: "Ein wichtiger Tiefwasserhafen, der viel Stückgut und Öl abwickelt und als Tor zur Kabylei dient.",
-      hu: "Fontos mélyvízi kikötő, amely jelentős darabáru- és olajforgalmat bonyolít le a Kabilia kapujaként.",
+      hu: "Az ország egyik meghatározó kereskedelmi kikötője, amely létfontosságú az export-import forgalom számára.",
       ro: "Un port de ape adânci important care manipulează mărfuri generale și petrol, servind ca poartă spre Kabylia.",
       en: "An important deepwater port handling general cargo and oil, serving as the gateway to Kabylia."
     },
     facts: {
       de: ["Großer Tiefwasserhafen", "Wichtiges Ölterminal", "Tor zur Kabylei", "Steigendes Frachtaufkommen", "Lage in malerischer Bucht"],
-      hu: ["Nagy mélyvízi kikötő", "Fontos olajterminál", "Kabilia kapuja", "Növekvő teherforgalom", "Festői öbölben fekszik"],
+      hu: ["Kereskedelmi kikötő", "Földközi-tenger", "Export-import központ"],
       ro: ["Port major de ape adânci", "Terminal petrolier important", "Poarta către Kabylia", "Volum de marfă în creștere", "Situat într-un golf pitoresc"],
       en: ["Major deepwater port", "Important oil terminal", "Gateway to Kabylia", "Increasing freight volume", "Located in a scenic bay"]
     },
@@ -330,14 +330,14 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: "Port of Mostaganem"
     },
     description: {
-      de: "Ein mittelgroßer Hafen an der Westküste, der landwirtschaftliche Produkte und Güter abfertigt.",
-      hu: "Közepes méretű kikötő a nyugati parton, amely mezőgazdasági termékeket és árukat kezel.",
+      de: "Der Hafen von Mostaganem spielt eine wichtige Rolle im algerischen Außenhandel, insbesondere für den Umschlag von Stückgut und Nahrungsmitteln.",
+      hu: "Egy jelentős regionális kikötő, amely támogatja a környék mezőgazdasági és ipari termékeinek szállítását.",
       ro: "Un port de mărime medie pe coasta de vest, manipulând produse agricole și bunuri.",
       en: "A medium-sized port on the west coast, handling agricultural products and goods."
     },
     facts: {
-      de: ["Agrarprodukte-Export", "Nahe bei Oran", "Zunehmender Fährverkehr", "Regionales Handelszentrum", "Entlastet den Hafen von Oran"],
-      hu: ["Mezőgazdasági termékek exportja", "Orán közelében", "Növekvő kompforgalom", "Regionális kereskedelmi központ", "Tehermentesíti Orán kikötőjét"],
+      de: ["Handelshafen am Mittelmeer", "Wichtiger Logistikstandort", "Fährverbindung nach Europa"],
+      hu: ["Regionális kikötő", "Mezőgazdasági szállítás", "Kereskedelem"],
       ro: ["Export de produse agricole", "Aproape de Oran", "Trafic de feribot în creștere", "Centru comercial regional", "Eliberează portul Oran"],
       en: ["Agricultural products export", "Near Oran", "Increasing ferry traffic", "Regional trade center", "Relieves Oran port"]
     },
@@ -401,14 +401,14 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: "Ghazaouet Port"
     },
     description: {
-      de: "Ein wichtiger Fischer- und Handelshafen nahe der marokkanischen Grenze mit Verbindungen nach Spanien.",
-      hu: "Fontos halász- és kereskedelmi kikötő a marokkói határ közelében, spanyolországi kapcsolatokkal.",
+      de: "Ghazaouet ist ein strategisch gelegener Hafen im Westen Algeriens, der besonders für den Export von Bergbauprodukten wichtig ist.",
+      hu: "Fontos kikötőváros az ország északnyugati részén, jelentős szereppel a tengeri kereskedelemben.",
       ro: "Un important port de pescuit și comercial aproape de granița cu Marocul, având conexiuni cu Spania.",
       en: "An important fishing and commercial port near the Moroccan border, with connections to Spain."
     },
     facts: {
-      de: ["Nahe der marokkanischen Grenze", "Bedeutender Fischereihafen", "Fährverbindung nach Almería", "Zinkerz-Export", "Wichtig für die Region Tlemcen"],
-      hu: ["A marokkói határ közelében", "Jelentős halászkikötő", "Kompkapcsolat Almería felé", "Cinkérc export", "Fontos Tlemcen régiójának"],
+      de: ["Fischerei- und Handelshafen", "Tor zum westlichen Mittelmeer", "Export von Zink und Blei"],
+      hu: ["Északnyugat-Algéria", "Tengeri kereskedelem", "Kikötő"],
       ro: ["Aproape de granița cu Maroc", "Port pescăresc important", "Conexiune feribot cu Almería", "Export de minereu de zinc", "Important pentru regiunea Tlemcen"],
       en: ["Near the Moroccan border", "Significant fishing port", "Ferry connection to Almería", "Zinc ore export", "Important for Tlemcen region"]
     },
@@ -436,13 +436,13 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: "Ouenza Iron Mine"
     },
     description: {
-      de: "Eine der ältesten und größten Eisenerzminen Algeriens, die den Stahlkomplex El Hadjar versorgt.",
+      de: "Die Ouenza-Mine ist das bedeutendste Eisenerzvorkommen Algeriens und versorgt die nationale Stahlindustrie mit Rohstoffen.",
       hu: "Algéria egyik legrégebbi és legnagyobb vasércbányája, amely az El Hadjar acélkomplexumot látja el.",
       ro: "Una dintre cele mai vechi și mari mine de fier din Algeria, aprovizionând complexul siderurgic El Hadjar.",
       en: "One of the oldest and largest iron ore mines in Algeria, supplying the El Hadjar steel complex."
     },
     facts: {
-      de: ["Nahe der tunesischen Grenze", "Tagebau", "Hoher Eisengehalt", "Gegründet Anfang des 20. Jhs.", "Schienenanbindung nach Annaba"],
+      de: ["Größte Eisenerzmine", "Wichtig für die Stahlindustrie", "Gelegen im Osten des Landes"],
       hu: ["A tunéziai határ közelében", "Külszíni fejtés", "Magas vastartalom", "20. század elején alapították", "Vasúti kapcsolat Annabával"],
       ro: ["Aproape de granița cu Tunisia", "Mină de suprafață", "Conținut ridicat de fier", "Fondată la începutul sec. 20", "Legătură feroviară spre Annaba"],
       en: ["Near the Tunisian border", "Open-pit mine", "High iron content", "Founded in the early 20th century", "Rail connection to Annaba"]
@@ -506,15 +506,15 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: "Djebel Onk Phosphate Mine"
     },
     description: {
-      de: "Die größte Phosphatlagerstätte Algeriens, von entscheidender Bedeutung für die Düngemittelindustrie und den Export.",
+      de: "Djebel Onk beherbergt eines der weltweit größten Phosphatvorkommen und ist zentral für die algerische Düngemittelproduktion.",
       hu: "Algéria legnagyobb foszfátlelőhelye, amely létfontosságú a műtrágyaipar és az export számára.",
-      ro: "Cel mai mare zăcământ de fosfați din Algeria, esențial pentru industria îngrășămintelor și pentru export.",
+      ro: "Mina de fosfați de la Djebel Onk este una dintre cele mai mari și importante resurse miniere din Algeria.",
       en: "The largest phosphate deposit in Algeria, crucial for the fertilizer industry and export."
     },
     facts: {
-      de: ["Riesige Reserven", "Verarbeitet in Annaba", "Wichtig für die Landwirtschaft", "Tagebaubetrieb", "Eines der größten in Afrika"],
+      de: ["Riesiges Phosphatvorkommen", "Basis für Düngemittel", "Bedeutender Exportrohstoff"],
       hu: ["Hatalmas tartalékok", "Annabában dolgozzák fel", "Fontos a mezőgazdaság számára", "Külszíni fejtésű üzem", "Afrika egyik legnagyobbja"],
-      ro: ["Rezerve uriașe", "Procesat în Annaba", "Important pentru agricultură", "Operațiune de suprafață", "Unul dintre cele mai mari din Africa"],
+      ro: ["Zăcământ de fosfați", "Importanță economică", "Sursă de export"],
       en: ["Huge reserves", "Processed in Annaba", "Important for agriculture", "Open-pit operation", "One of the largest in Africa"]
     },
     descriptionAdvanced: {
@@ -541,14 +541,14 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: "In Amenas Gas Plant"
     },
     description: {
-      de: "Ein bedeutendes Gasförderprojekt in der Sahara, das von Sonatrach und internationalen Partnern betrieben wird.",
-      hu: "Jelentős gázkitermelési projekt a Szaharában, amelyet a Sonatrach és nemzetközi partnerek üzemeltetnek.",
+      de: "Die Gasförderanlage In Amenas nahe der libyschen Grenze ist ein wichtiger Standort für die internationale Energiekooperation.",
+      hu: "Az ország egyik legnagyobb földgázkitermelő és feldolgozó létesítménye a Szahara sivatagban.",
       ro: "Un proiect major de extracție a gazelor în Sahara, operat de Sonatrach și parteneri internaționali.",
       en: "A major gas extraction project in the Sahara, operated by Sonatrach and international partners."
     },
     facts: {
-      de: ["Startete 2006", "Große Produktionskapazität", "Joint Venture", "Liegt tief in der Wüste", "Wichtig für Gaskondensat"],
-      hu: ["2006-ban indult", "Nagy termelési kapacitás", "Közös vállalat", "Mélyen a sivatagban található", "Fontos a gázkondenzátumhoz"],
+      de: ["Große Erdgasaufbereitung", "Internationale Kooperation", "Gelegen in der Sahara"],
+      hu: ["Földgázkitermelés", "Szahara", "Energiaipar"],
       ro: ["A început în 2006", "Capacitate mare de producție", "Societate mixtă", "Situat adânc în deșert", "Important pentru condensatul de gaz"],
       en: ["Started in 2006", "Large production capacity", "Joint Venture", "Located deep in the desert", "Important for gas condensate"]
     },
@@ -719,13 +719,13 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
     },
     description: {
       de: "Ein schnell wachsender Sektor in Constantine mit Produktionsstätten für Arzneimittel und Impfstoffe.",
-      hu: "Gyorsan növekvő ágazat Constantine-ban, gyógyszerek és vakcinák gyártóüzemeivel.",
+      hu: "Constantine a gyógyszeripar fontos központja, számos üzemmel és kutatóegységgel.",
       ro: "Un sector în creștere rapidă în Constantine cu facilități de producție pentru medicamente și vaccinuri.",
       en: "A rapidly growing sector in Constantine with production facilities for medicines and vaccines."
     },
     facts: {
       de: ["Fokus auf Medikamente", "Impfstoffproduktion", "Zieht Investitionen an", "Hohe Qualitätsstandards", "Wichtig für das Gesundheitswesen"],
-      hu: ["Fókuszban a gyógyszerek", "Vakcinagyártás", "Befektetéseket vonz", "Magas minőségi elvárások", "Fontos az egészségügynek"],
+      hu: ["Gyógyszeripar", "Constantine", "Ipari központ"],
       ro: ["Concentrat pe medicamente", "Producție de vaccinuri", "Atrage investiții", "Standarde înalte de calitate", "Important pentru sistemul de sănătate"],
       en: ["Focus on medicines", "Vaccine production", "Attracts investments", "High quality standards", "Important for healthcare"]
     },
@@ -930,14 +930,14 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: "Touat Gas Field"
     },
     description: {
-      de: "Ein bedeutendes Gasentwicklungsprojekt in der Provinz Adrar, das die Gasversorgung des Landes sicherstellt.",
-      hu: "Jelentős gázfejlesztési projekt Adrar tartományban, amely biztosítja az ország gázellátását.",
+      de: "Das Touat-Gasfeld ist ein bedeutendes Erschließungsprojekt im Südwesten Algeriens zur Steigerung der nationalen Gasproduktion.",
+      hu: "Jelentős földgázmező az algériai sivatagban, amely kulcsszerepet játszik a kitermelésben.",
       ro: "Un proiect major de dezvoltare a gazelor în provincia Adrar, care asigură aprovizionarea cu gaze a țării.",
       en: "A major gas development project in Adrar province, ensuring the country's gas supply."
     },
     facts: {
-      de: ["Nahe Adrar", "Mehrere Bohrlöcher", "Zentrale Aufbereitungsanlage", "Partnerschaft mit Neptune Energy", "Wichtige Gasressource"],
-      hu: ["Adrar közelében", "Több fúrólyuk", "Központi feldolgozó üzem", "Partnerség a Neptune Energy-vel", "Fontos gázforrás"],
+      de: ["Erdgasförderung im Südwesten", "Modernes Förderprojekt", "Wichtig für Energieexporte"],
+      hu: ["Földgázmező", "Szahara", "Energiaexport"],
       ro: ["Aproape de Adrar", "Mai multe puțuri", "Instalație centrală de procesare", "Parteneriat cu Neptune Energy", "Resursă importantă de gaz"],
       en: ["Near Adrar", "Multiple wells", "Central processing facility", "Partnership with Neptune Energy", "Important gas resource"]
     },
@@ -1001,13 +1001,13 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       en: "Algiers Refinery"
     },
     description: {
-      de: "Eine der ältesten und wichtigsten Raffinerien des Landes, die die Hauptstadt und die Zentralregion versorgt.",
+      de: "Die Raffinerie von Algier ist eine zentrale Anlage zur Versorgung der Hauptstadtregion mit Treibstoffen und petrochemischen Produkten.",
       hu: "Az ország egyik legrégebbi és legfontosabb finomítója, amely a fővárost és a központi régiót látja el.",
       ro: "Una dintre cele mai vechi și importante rafinării din țară, aprovizionând capitala și regiunea centrală.",
       en: "One of the oldest and most important refineries in the country, supplying the capital and the central region."
     },
     facts: {
-      de: ["Erbaut in den 1960ern", "Mehrfach modernisiert", "Versorgt die Hauptstadtregion", "Produziert diverse Kraftstoffe", "Nahe dem Hafen"],
+      de: ["Zentrale Treibstoffversorgung", "Modernisierte Industrieanlage", "Wichtig für den Inlandsmarkt"],
       hu: ["Az 1960-as években épült", "Többször korszerűsítették", "A fővárosi régiót látja el", "Különféle üzemanyagokat gyárt", "A kikötő közelében"],
       ro: ["Construită în anii 1960", "Modernizată de mai multe ori", "Aprovizionează regiunea capitalei", "Produce diverși combustibili", "Aproape de port"],
       en: ["Built in the 1960s", "Modernized several times", "Supplies the capital region", "Produces various fuels", "Near the port"]
@@ -1039,13 +1039,13 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
     description: {
       de: "Ein regionaler Hafen in der Provinz Chlef, der dem lokalen Handel und dem Fischfang dient.",
       hu: "Regionális kikötő Chlef tartományban, amely a helyi kereskedelmet és halászatot szolgálja.",
-      ro: "Un port regional în provincia Chlef, care deservește comerțul local și pescuitul.",
+      ro: "Portul din Ténès este un punct maritim strategic situat pe coasta de nord a Algeriei.",
       en: "A regional port in Chlef province, serving local trade and fishing."
     },
     facts: {
       de: ["Kleiner Handelsraum", "Wichtiger Fischereihafen", "Zwischen Algier und Oran", "Historische Küstenstadt", "Unterstützt Chlef"],
       hu: ["Kisebb kereskedelmi terület", "Fontos halászkikötő", "Algír és Orán között", "Történelmi parti város", "Chlef-et támogatja"],
-      ro: ["Zonă comercială mică", "Port pescăresc important", "Între Alger și Oran", "Oraș de coastă istoric", "Sprijină Chlef"],
+      ro: ["Port strategic", "Marea Mediterană", "Centru comercial"],
       en: ["Small commercial area", "Important fishing port", "Between Algiers and Oran", "Historic coastal town", "Supports Chlef"]
     },
     descriptionAdvanced: {

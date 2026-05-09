@@ -1,0 +1,64 @@
+{
+  "lang": "en",
+  "country": "Algeria",
+  "files": [
+    "lib/visualLab/data/poiExtraAlgeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraAlgeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "blida-cities-v2",
+      "description": "Known as the City of Roses, Blida is located near the Chiffa Gorge and Atlas Mountains. It serves as an important agricultural and administrative hub south of Algiers.",
+      "facts": ["Known as City of Roses", "Near Atlas Mountains", "Established in 1535"]
+    },
+    {
+      "id": "mostaganem-cities-v2",
+      "description": "A port city on the Mediterranean coast, Mostaganem features a mix of historic Andalusian influence and modern development. It is an active center for trade and tourism.",
+      "facts": ["Mediterranean port city", "Historic Andalusian influence", "Regional commerce hub"]
+    },
+    {
+      "id": "timimoun-cities-v2",
+      "description": "Located in the Gourara region, Timimoun is famous for its distinct red-ochre earthen architecture. It is an oasis town deeply connected to traditional desert culture.",
+      "facts": ["Gourara region oasis", "Red-ochre architecture", "Desert cultural hub"]
+    },
+    {
+      "id": "arzew-petrochemical-port-economic-v2",
+      "description": "Arzew is a major industrial hub and one of the largest petrochemical ports in the Mediterranean. It plays a critical role in Algeria's natural gas and oil exports.",
+      "facts": ["Major petrochemical port", "Key LNG export site", "Mediterranean industrial hub"]
+    },
+    {
+      "id": "port-of-mostaganem-economic-v2",
+      "description": "This port serves as a vital logistics node for northern Algeria's commercial maritime traffic. It facilitates imports, exports, and regional trade.",
+      "facts": ["Northern maritime node", "Supports regional trade", "Commercial logistics hub"]
+    },
+    {
+      "id": "djendjen-port-economic-v2",
+      "description": "Located in Jijel Province, Djendjen is one of the largest deep-water ports in Algeria. It is essential for heavy industry logistics and international shipping.",
+      "facts": ["Deep-water Mediterranean port", "Heavy industry logistics", "Jijel Province location"]
+    },
+    {
+      "id": "ouenza-iron-mine-economic-v2",
+      "description": "Ouenza is one of Algeria's most significant iron ore mining centers. It supplies domestic steel production and supports the nation's industrial sector.",
+      "facts": ["Iron ore mining site", "Supports steel industry", "Strategic industrial resource"]
+    },
+    {
+      "id": "djebel-onk-phosphate-mine-economic-v2",
+      "description": "Djebel Onk is the largest phosphate mining complex in the country. It is a cornerstone for the fertilizer industry and chemical sector.",
+      "facts": ["Largest phosphate mine", "Fertilizer industry source", "National industrial asset"]
+    },
+    {
+      "id": "in-amenas-gas-plant-economic-v2",
+      "description": "In Amenas is a strategic natural gas production and processing facility in the Sahara. It significantly contributes to the national energy output.",
+      "facts": ["Sahara gas complex", "Key energy producer", "Strategic processing plant"]
+    },
+    {
+      "id": "bellara-steel-complex-economic-v2",
+      "description": "This industrial complex is a major steel manufacturing facility in Jijel. It is designed to meet domestic demand and boost industrial capacity.",
+      "facts": ["Major steel facility", "Jijel industrial site", "Boosts national output"]
+    }
+  ]
+}

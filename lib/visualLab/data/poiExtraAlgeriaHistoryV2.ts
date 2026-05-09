@@ -891,13 +891,13 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     description: {
       de: "Die antiken römischen Hafenruinen beim heutigen Bethioua, die in der Antike für den Agrarexport von strategischer Bedeutung waren.",
       hu: "Az ókori római kikötő romjai a mai Bethioua közelében, amely az ókorban stratégiai fontosságú volt az agrárkivitel szempontjából.",
-      ro: "Vechile ruine ale portului roman din apropierea actualului Bethioua, care au avut o importanță strategică pentru exporturile agricole în antichitate.",
+      ro: "Portus Magnus a fost un vechi oraș roman situat în apropiere de actualul oraș Bethioua.",
       en: "The ancient Roman port ruins near present-day Bethioua, which were of strategic importance for agricultural exports in antiquity."
     },
     facts: {
       de: ["Bedeutete auf Lateinisch 'Großer Hafen'.", "Wichtiger Exportpunkt für Weizen."],
       hu: ["A neve latinul 'Nagy Kikötő'-t jelentett.", "A búza fontos exportáló helye volt."],
-      ro: ["Însemna \\\"Marele Port\\\" în latină.", "Important punct de export pentru grâu."],
+      ro: ["Așezare romană", "Vestigii arheologice", "Perioada antică"],
       en: ["Meant 'Great Port' in Latin.", "Important export point for wheat."]
     },
     descriptionAdvanced: {
@@ -961,13 +961,13 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     description: {
       de: "Der ehemalige Sitz der osmanischen Herrscher von Algier, der eine wichtige Rolle in der diplomatischen Geschichte des Landes spielte.",
       hu: "Algír oszmán uralkodóinak egykori székhelye, amely fontos szerepet játszott az ország diplomáciai történelmében.",
-      ro: "Fosta reședință a conducătorilor otomani din Alger, care a jucat un rol important în istoria diplomatică a țării.",
+      ro: "Palatul Dey este un monument istoric din Casbah-ul Algerului, simbol al puterii otomane de altădată.",
       en: "The former seat of the Ottoman rulers of Algiers, which played an important role in the country's diplomatic history."
     },
     facts: {
       de: ["Ort des berühmten 'Fächer-Vorfalls' von 1827.", "Liegt in der Kasbah."],
       hu: ["Az 1827-es híres 'legyező-incidens' helyszíne.", "A Kaszbában található."],
-      ro: ["Locul celebrului \\\"incident al fanilor\\\" din 1827.", "Situat în Kasbah."],
+      ro: ["Casbah din Alger", "Arhitectură otomană", "Monument istoric"],
       en: ["Site of the famous 'Fan Incident' of 1827.", "Located in the Kasbah."]
     },
     descriptionAdvanced: {

@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-greenwood-great-house-landmarks-v2",
+      "descriptionAdvanced": "A Greenwood kúria St. James és Trelawny plébániák határán Jamaica egyik legpazarabbul fennmaradt 18. századi ültetvényes háza, amely egykor Richard Barrett, Elizabeth Barrett Browning költőnő családtagjának tulajdonában volt. Az 1780 és 1800 között épült kúria egyedülálló módon sértetlenül vészelte át az 1831-es nagy rabszolgafelkelést, így ma is eredeti pompájában mutatja be a korszak gazdagságát. A ház belső terei valóságos múzeumnak tekinthetők, ahol a Karib-térség legértékesebb antik bútor- és hangszergyűjteménye, valamint ritka könyvtára található. Greenwood nemcsak az építészeti szépségéről híres, hanem a teraszáról nyíló 180 fokos tengeri panorámájáról is, amely a föld görbületét is láthatóvá teszi a távolban.",
+      "factsAdvanced": [
+        "A kúriát Richard Barrett építtette a 18. század végén.",
+        "A ház Jamaica egyik legjobb állapotban fennmaradt 'Great House'-a.",
+        "Itt található a Karib-térség legnagyobb működőképes antik hangszergyűjteménye.",
+        "A könyvtárban 16. századi ritka köteteket is őriznek.",
+        "A birtok egykor több ezer hektáros cukornádültetvény központja volt.",
+        "A kúria teraszáról belátni az északi part jelentős szakaszát.",
+        "Az 1831-es lázadás során a felkelők kímélték meg a házat Richard Barrett népszerűsége miatt.",
+        "A látogatók megtekinthetik az eredeti konyhát és a rabszolgák egykori használati tárgyait is."
+      ]
+    },
+    {
+      "id": "jm-falmouth-cruise-terminal-landmarks-v2",
+      "descriptionAdvanced": "A Falmouth-i Tengerjáró Terminál Trelawny plébánia ékköve és Jamaica egyik legmodernebb turisztikai kapuja, amely a 18. századi grúz építészet stílusát ötvözi a 21. századi technológiával. A 2011-ben átadott komplexumot kifejezetten a világ legnagyobb óceánjáró hajóinak fogadására tervezték, újjáélesztve Falmouth történelmi városát. A terminál egy komplex élményközpont, ahol luxusüzletek, éttermek és kézműves piacok várják az érkezőket egy biztonságos és esztétikus környezetben. A fejlesztés során nagy hangsúlyt fektettek arra, hogy az új épületek harmonizáljanak a város műemléki jellegével, így a látogatók már a kikötés pillanatában átélhetik Jamaica koloniális hangulatát. A terminál kulcsszerepet játszik az ország idegenforgalmi bevételeinek növelésében és a helyi munkaerő foglalkoztatásában.",
+      "factsAdvanced": [
+        "A terminált 2011. március 22-én avatták fel hivatalosan.",
+        "Kifejezetten az Oasis-osztályú hajók számára építették a Royal Caribbean partnereként.",
+        "A kikötő építészete a 18. századi 'Jamaican Georgian' stílust követi.",
+        "A komplexum területén több mint 100 üzlet és vendéglátóhely található.",
+        "Naponta akár két hatalmas óceánjárót és több mint 10 000 turistát is képes fogadni.",
+        "A terminál építése során több hektárnyi területet töltöttek fel a tengerparton.",
+        "Közvetlen gyalogos kapcsolatot biztosít Falmouth történelmi belvárosához.",
+        "A kikötő üzemeltetése során kiemelt figyelmet fordítanak a fenntartható vízgazdálkodásra."
+      ]
+    },
+    {
+      "id": "jm-columbus-park-landmarks-v2",
+      "descriptionAdvanced": "A Columbus Park Discovery Bay-ben egy lenyűgöző szabadtéri múzeum, amely Kolumbusz Kristóf 1494-es jamaicai partraszállásának állít emléket. A park területe eredetileg az Arawak indiánok egyik települése volt, ma pedig a sziget történelmének különböző korszakaiból származó relikviák gyűjtőhelye. A látogatók itt megtekinthetik az ültetvényes kor hatalmas cukormalmait, vízikerekeit, ágyúit és azokat a kőépítményeket, amelyek Jamaica gazdasági fejlődését határozták meg az évszázadok során. A parkból pazar kilátás nyílik a Discovery Bay-öböl azúrkék vizére, ahol a legenda szerint az első spanyol hajók horgonyt vertek. Ez a helyszín egyfajta időutazás, ahol a történelem tárgyi emlékei és a természet szépsége összefonódik a látogatók szeme előtt.",
+      "factsAdvanced": [
+        "A park Discovery Bay-ben található, ahol Kolumbusz először partra lépett Jamaicán.",
+        "A területet egykor 'Puerto Seco'-nak, azaz száraz kikötőnek nevezték a spanyolok.",
+        "A szabadtéri kiállítás ingyenesen látogatható és közvetlenül a főút mellett fekszik.",
+        "Számos 18. és 19. századi ágyú látható, amelyek egykor a partot védték.",
+        "Itt őrzik az egyik legnagyobb fennmaradt ültetvényes vízikereket a szigeten.",
+        "A parkban kiállított gőzgépek a jamaicai ipari forradalom kezdeteit idézik.",
+        "A területen Taino indiánok kerámia- és kőleleteit is felfedezték a régészek.",
+        "A park kedvelt megállóhely az északi part mentén utazó turisták számára."
+      ]
+    },
+    {
+      "id": "jm-firefly-estate-landmarks-v2",
+      "descriptionAdvanced": "A Firefly birtok St. Mary plébániában Noel Coward, a világhírű brit drámaíró, zeneszerző és színész egykori jamaicai otthona, amely egy meredek dombtetőn trónol, pazar kilátással Port Mariára. Az egyszerű, de elegáns ház Coward menedéke volt a világ zajától, ahol olyan hírességeket látott vendégül, mint Errol Flynn, Vivien Leigh vagy a brit anyakirályné. A birtok története azonban messzebbre nyúlik vissza: eredetileg Henry Morgan kalózvezér kilátóhelye volt, és Coward kertjében található Morgan egykori tüzérségi állásának maradványa is. A ház belseje ma is úgy néz ki, mintha Coward épp csak kisétált volna belőle, zongorájával, festményeivel és személyes tárgyaival teli. Noel Coward a birtok területén nyugszik, egy egyszerű sírban, amely örökre az általa olyannyira kedvelt jamaicai tájat nézi.",
+      "factsAdvanced": [
+        "Noel Coward 1956-ban vásárolta meg a birtokot és élete végéig itt élt.",
+        "A ház neve a kertben esti órákban tömegesen megjelenő szentjánosbogarakra utal.",
+        "A teraszról nyíló kilátást Jamaica egyik legszebb panorámájának tartják.",
+        "Sir Winston Churchill is vendégeskedett itt és festett a kertben.",
+        "A birtokon található Noel Coward egyszerű, márvánnyal fedett síremléke.",
+        "Az épületben egy kisebb múzeum mutatja be a drámaíró életművét.",
+        "A helyszín korábban Henry Morgan kalózvezér stratégiai megfigyelőpontja volt.",
+        "A Firefly ma a Jamaica National Heritage Trust által védett kulturális műemlék."
+      ]
+    },
+    {
+      "id": "jm-rio-nuevo-battle-site-landmarks-v2",
+      "descriptionAdvanced": "A Rio Nuevo csatatér St. Mary plébániában Jamaica történelmének egyik legmeghatározóbb katonai helyszíne, ahol 1658-ban eldőlt a sziget sorsa. Itt zajlott le az utolsó nagy összecsapás a spanyol és a brit erők között Jamaica birtoklásáért, amely a britek döntő győzelmével zárult, végleg kiszorítva a spanyolokat a szigetről. A csatatér ma egy méltóságteljes emlékpark, ahol egy monumentális emlékmű tiszteleg mindkét fél katonáinak bátorsága előtt. A terület geológiailag is érdekes, hiszen a Rio Nuevo folyó torkolatánál fekszik, stratégiai pontot kínálva a partvédelemhez. A látogatók a parkban sétálva információs táblák segítségével ismerhetik meg a csata részleteit és azt a geopolitikai jelentőséget, amelyet ez az ütközet a Karib-térség gyarmati történetében képviselt.",
+      "factsAdvanced": [
+        "A csata 1658. június 17-én kezdődött és több napig tartott.",
+        "Ez volt a legnagyobb katonai összecsapás, amit valaha vívtak jamaicai földön.",
+        "A brit erőket Edward D'Oyley kormányzó vezette a spanyol Cristóbal Arnaldo Isasi ellen.",
+        "Az emlékművet 1958-ban, a csata 300. évfordulóján emelték.",
+        "A csatatér a Rio Nuevo folyó keleti partján, közvetlenül a tengerparton fekszik.",
+        "A győzelem tette lehetővé a brit gyarmati közigazgatás megszilárdítását a szigeten.",
+        "A területen végzett régészeti kutatások spanyol és brit fegyvermaradványokat is feltártak.",
+        "A park csendes környezete ideális a történelmi elmélkedésre és a tengerparti pihenésre."
+      ]
+    },
+    {
+      "id": "jm-roxborough-landmarks-v2",
+      "descriptionAdvanced": "Roxborough egy békés vidéki birtok Manchester plébániában, amely Jamaica modern történelmének egyik legfontosabb szülőhelyeként ismert. Itt született 1893-ban Norman Washington Manley, Jamaica nemzeti hőse, az ország egyik alapító atyja és a függetlenségi mozgalom kulcsfigurája. Az eredeti kúria sajnos 1968-ban egy tűzvészben elpusztult, de a fennmaradt alapok és a gyönyörűen parkosított kert ma is méltó emlékhelyként szolgál. A birtokon felállított emlékmű és a látogatóközpont bemutatja Manley életútját, ügyvédi és politikusi pályafutását, valamint azt a látomásos munkát, amellyel a jamaicai nép önrendelkezését segítette. Roxborough a nemzeti büszkeség helyszíne, ahol a látogatók megérthetik azokat a gyökereket, amelyek Jamaica demokratikus berendezkedését és nemzeti identitását formálták.",
+      "factsAdvanced": [
+        "Norman Manley 1893. július 4-én született ezen a birtokon.",
+        "A terület ma nemzeti emlékhely és a Jamaica National Heritage Trust kezeli.",
+        "A birtokról pazar kilátás nyílik a Manchester-i hegyvidékre.",
+        "A látogatóközpontban ritka fotók és dokumentumok láthatók a Manley családról.",
+        "A birtok kertjében Jamaica számos endemikus növényfaja megtalálható.",
+        "Roxborough fontos állomása a jamaicai iskolások történelmi tanulmányútjainak.",
+        "Az emlékműnél minden évben megemlékezést tartanak Manley születésnapján.",
+        "A helyszín nyugalma és friss hegyi levegője különleges atmoszférát teremt a látogatók számára."
+      ]
+    },
+    {
+      "id": "jm-mandeville-courthouse-landmarks-v2",
+      "descriptionAdvanced": "A Mandeville-i Bíróság Manchester plébánia székhelyének egyik legszebb és legfontosabb középülete, amely a város központi terén uralja a látképet. Az 1817 körül, röviddel a plébánia alapítása után emelt épület a jamaicai gyarmati építészet klasszikus példája, vörös téglából és helyi mészkőből készült falaival, valamint elegáns fa verandáival. A bíróság az elmúlt két évszázadban folyamatosan ellátta funkcióját, tanúja volt a város fejlődésének és a sziget jogrendszerének alakulásának. Az épület kétszintes szerkezete és arányai hűen tükrözik a 19. századi brit adminisztratív stílust a Karib-térségben. Mandeville hűvösebb hegyi klímáján ez a bírósági épület a rend és a történeti folytonosság szimbólumává vált, amely ma is központi szerepet játszik a helyi közösség életében.",
+      "factsAdvanced": [
+        "Az épületet 1817-ben emelték, Manchester plébánia létrehozása után.",
+        "Ez Mandeville legrégebbi, eredeti funkcióját ma is betöltő középülete.",
+        "A bíróság alsó szintje masszív mészkőből, a felső pedig téglából és fából épült.",
+        "A város főterén, a Cecil Charlton Park szomszédságában található.",
+        "Az épület homlokzatát díszes dupla lépcsősor teszi jellegzetessé.",
+        "Az 1907-es és 1957-es földrengéseket is kisebb károkkal vészelte át.",
+        "Ma nemzeti műemlékvédelem alatt áll Jamaica legfontosabb történelmi épületei között.",
+        "A bíróság előtti tér a város lakóinak hagyományos találkozóhelye."
+      ]
+    },
+    {
+      "id": "jm-lovers-leap-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A Lover's Leap világítótorony St. Elizabeth plébániában nemcsak egy fontos tengerészeti jelzőfény, hanem Jamaica egyik legdrámaibb helyszínének őre is. A több mint 500 méter magas, függőleges sziklafal tetején álló torony figyelmezteti a hajókat a sziget veszélyes déli partvidékére, miközben modern technológiájával a Karib-tenger egyik legtávolabbról látható fényét bocsátja ki. A torony közvetlen szomszédságában található a legendás kilátóterasz, ahol a történet szerint a rabszolga szerelmesek a mélybe vetették magukat a szabadságért. A torony és a hozzá tartozó látogatóközpont ideális pont a végtelen óceán és a naplemente megfigyelésére, ahol a természet nyers ereje és az emberi történelem drámája egyedülálló módon fonódik össze. A világítótorony fehér törzse éles kontrasztban áll a tenger kékjével és a sziklák vörösével.",
+      "factsAdvanced": [
+        "A világítótorony 520 méterrel a tenger szintje felett található.",
+        "Ez Jamaica egyik legmagasabban fekvő világítótornya.",
+        "A torony fénye tiszta időben akár 40 kilométerre is ellátszik a tengeren.",
+        "A torony teljesen automata és napenergiával működik.",
+        "A helyszín geológiailag a Santa Cruz-hegység tengerbe nyúló végpontja.",
+        "A kilátóból tiszta időben néha még a távoli Pedro-padok is kivehetők.",
+        "A torony mellett modern étterem és kézműves bolt várja a turistákat.",
+        "A világítótorony a déli part hajózási útvonalainak kulcsfontosságú navigációs pontja."
+      ]
+    },
+    {
+      "id": "jm-appleton-estate-landmarks-v2",
+      "descriptionAdvanced": "Az Appleton Estate St. Elizabeth plébániában Jamaica legrégebbi és leghíresebb rumlepárlója, amely 1749 óta folyamatosan működik a Nassau-völgy szívében. A birtok egyedülálló 'terroir'-ja, a völgy különleges mikroklímája és a környező karszthegységből eredő kristálytiszta víz adja az Appleton rumok világhírű, selymes ízét. A látogatók a birtokon egy interaktív túra keretében ismerhetik meg a cukornád-termesztéstől a lepárláson át a tölgyfahordós érlelésig tartó folyamatot, bepillantást nyerve a jamaicai rumgyártás mesterfogásaiba. Az Appleton Estate nemcsak egy ipari létesítmény, hanem a jamaicai identitás része és egy modern turisztikai központ, ahol a történelem, a technológia és a kulináris élvezetek találkoznak a buja trópusi környezetben.",
+      "factsAdvanced": [
+        "Az Appleton Estate már 1749-ben is termelt rumot, a brit gyarmati időkben.",
+        "A birtok területe több mint 4400 hektár cukornádültetvényt foglal magában.",
+        "Itt dolgozik Joy Spence, a világ első női rum-mesterkeverője (Master Blender).",
+        "A lepárlóban hagyományos rézüstöket (Pot Still) használnak a karakteres aroma érdekében.",
+        "Az Appleton Estate Jamaica első és egyetlen eredetvédett rumgyártója.",
+        "A látogatóközpontot nemrégiben több millió dolláros beruházással modernizálták.",
+        "A túra során a látogatók megkóstolhatják a 21 éves vagy még idősebb prémium rumokat is.",
+        "A birtok saját vasútállomással rendelkezett a cukor és rum szállítására."
+      ]
+    },
+    {
+      "id": "jm-negril-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A negrili világítótorony Jamaica legnyugatibb pontján, a West End sziklás partján áll, és a város egyik legismertebb történelmi jelképe. Az 1894-ben, egy francia cég által épített öntöttvas torony már több mint egy évszázada figyelmezteti a hajókat a sziget nyugati csücskének veszélyes zátonyaira. A 20 méter magas fehér torony ma már napenergiával működik, de megőrizte eredeti szerkezetét és klasszikus báját. A torony tetejéről lélegzetelállító panoráma nyílik a hétmérföldes strandra és a végtelen Karib-tengerre, különösen naplemente idején, amikor a turisták tömegei gyűlnek össze a környező sziklákon. A világítótorony nemcsak navigációs célokat szolgál, hanem Negril bohém és természetközeli hangulatának is elválaszthatatlan része, ahol a technika és a romantika találkozik.",
+      "factsAdvanced": [
+        "A világítótorony 1894-ben készült el öntöttvas elemekből.",
+        "A torony magassága 20 méter, de a tengerszint felett 30 méterrel sugároz.",
+        "Eredetileg petróleumlámpával működött, majd 1985-ben tértek át a napenergiára.",
+        "A torony szerkezete rázkódásbiztos, hogy ellenálljon a földrengéseknek.",
+        "A látogatók egy meredek csigalépcsőn juthatnak fel a lámpaházba.",
+        "A torony mellett található a korábbi világítótorony-őr lakóháza is.",
+        "Negril West End negyedének legnépszerűbb történelmi látványossága.",
+        "A világítótorony fénye tiszta éjszakákon 25 kilométeres körzetben látható."
+      ]
+    },
+    {
+      "id": "jm-peter-tosh-monument-landmarks-v2",
+      "descriptionAdvanced": "A Peter Tosh-emlékmű Westmoreland plébániában, a művész szülőfalujában, Belmontban található, és a reggae zene egyik legnagyobb lázadójának és zsenijének állít méltó emléket. A mauzóleum és a hozzá tartozó kert Peter Tosh nyughelye, aki Bob Marley és Bunny Wailer mellett a The Wailers alapító tagja volt. A helyszín a rastafari kultúra és a zenei zarándoklatok fontos pontja, ahol a rajongók megtekinthetik Tosh személyes tárgyait, kitüntetéseit és megismerhetik küzdelmét az egyenlő jogokért és az igazságosságért. Az emlékmű atmoszférája hűen tükrözi Tosh kompromisszumot nem ismerő szellemiségét és a jamaicai vidéki élet nyugalmát, lehetőséget adva a látogatóknak a spirituális elmélyülésre és a reggae gyökereinek felfedezésére.",
+      "factsAdvanced": [
+        "Az emlékmű Peter Tosh (született Winston Hubert McIntosh) belmonti birtokán található.",
+        "A mauzóleumot Tosh családja tartja fenn és gondozza a mai napig.",
+        "A helyszínen látható Tosh híres M16 alakú gitárjának másolata is.",
+        "Peter Tosh 1987-ben hunyt el, és ebben az évben helyezték örök nyugalomra itt.",
+        "A kertben számos növény és raszta szimbólum díszíti a környezetet.",
+        "Az emlékműnél minden évben nagyszabású ünnepséget tartanak Tosh születésnapján, október 19-én.",
+        "A látogatókat gyakran Tosh családtagjai vagy közeli ismerősei kalauzolják körbe.",
+        "A helyszín fontos kulturális turisztikai pont az ország délnyugati partján."
+      ]
+    },
+    {
+      "id": "jm-morant-point-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A Morant Point világítótorony Jamaica legkeletibb pontján áll, és a sziget legrégebbi ilyen jellegű építményeként büszkélkedik. Az 1841-ben felállított, 30 méter magas öntöttvas tornyot Londonban öntötték, majd darabokban szállították a helyszínre, ahol szabad afrikai munkások szerelték össze. Ez a monumentális szerkezet Jamaica egyik legfontosabb tengerészeti műemléke, amely évszázadok óta jelzi az utat a Karib-tenger keleti kapujában. A világítótorony elhelyezkedése vad és elszigetelt, ahol a sziget északi és déli partjának áramlatai találkoznak, lélegzetelállító kilátást nyújtva a nyílt óceánra. Morant Point nemcsak technikai bravúr, hanem a jamaicai tengerparti védelem és navigáció történelmi alapköve is, amely ma is rendíthetetlenül áll a sós szélben.",
+      "factsAdvanced": [
+        "A tornyot 1841-ben helyezték üzembe, ezzel Jamaica legöregebb világítótornya.",
+        "A szerkezetet a híres Alexander Gordon tervezte és Londonban gyártották.",
+        "A torony magassága 30 méter, anyaga tiszta öntöttvas.",
+        "A világítótorony szerelését a 'Kru men'-ként ismert szabad afrikaiak végezték.",
+        "Az építmény túlélte az összes nagy 19. és 20. századi hurrikánt.",
+        "Fénye tiszta időben 22 tengeri mérföldről is látható.",
+        "A torony a sziget legkeletibb földrajzi pontját jelöli.",
+        "Ma nemzeti emlékhely és a Jamaica National Heritage Trust felügyelete alatt áll."
+      ]
+    },
+    {
+      "id": "jm-morant-bay-courthouse-landmarks-v2",
+      "descriptionAdvanced": "A Morant Bay-i Bíróság St. Thomas plébánia székhelyének legfontosabb történelmi és politikai emléke, amely mélyen beíródott Jamaica nemzettudatába. Az épület és az előtte lévő tér volt az 1865-ös Morant Bay-i lázadás központi helyszíne, ahol Paul Bogle és hívei az igazságtalanság és az elnyomás ellen tiltakoztak. A lázadás során a bíróság épülete leégett, és az ezt követő brutális megtorlás örökre megváltoztatta a sziget társadalmi és politikai szerkezetét. Bár az épületet később újjáépítették, és 2007-ben egy újabb tűzvész rongálta meg, a helyszín spirituális jelentősége töretlen maradt. A bíróság bejáratánál álló Paul Bogle-szobor és a történelmi falak a szabadság és a polgári jogokért vívott küzdelem örök mementói Jamaicában.",
+      "factsAdvanced": [
+        "A bíróság az 1865-ös jamaicai szabadságharc (Morant Bay Rebellion) epicentruma volt.",
+        "Az eredeti épületet a felkelők gyújtották fel a harcok során.",
+        "Az épület előtt Paul Bogle nemzeti hős monumentális szobra látható.",
+        "A lázadás után Jamaicát közvetlen brit koronagyarmattá nyilvánították.",
+        "A bíróságot 2007-ben egy véletlen tűzeset súlyosan károsította, de újra restaurálták.",
+        "A helyszín minden év októberében a nemzeti hősök napjának kiemelt emlékhelye.",
+        "Az épület homlokzata hűen őrzi a 19. századi gyarmati stílusjegyeket.",
+        "A bíróság ma is a plébánia jogi és adminisztratív központja."
+      ]
+    },
+    {
+      "id": "jm-cast-iron-bridge-landmarks-v2",
+      "descriptionAdvanced": "A Spanish Town-i öntöttvas híd, amely a Rio Cobre folyón ível át, a mérnöki tudomány és az ipari forradalom egyik legértékesebb emléke a Karib-térségben és az egész nyugati féltekén. Az 1801-ben felavatott híd Jamaica egyik legkülönlegesebb technikatörténeti műemléke, amelyet Angliában gyártottak és darabokban szállítottak a szigetre, hogy megoldják az átkelést a stratégiai fontosságú folyón. Kecses íve és masszív kőfundamentumai a 19. század eleji brit hídépítés csúcstechnológiáját képviselik, amely azóta is dacol az idővel és a természeti erőkkel. Bár ma már csak gyalogosan látogatható, a híd továbbra is büszkén hirdeti Spanish Town egykori fővárosi rangját és Jamaica technológiai fejlődését, elnyerve ezzel a világörökségi várományosi rangot is.",
+      "factsAdvanced": [
+        "A híd 1801-ben készült el, elemeit a Walker & Co. öntötte Angliában.",
+        "Ez az amerikai kontinens legrégebbi fennmaradt öntöttvas hídja.",
+        "A híd fesztávolsága 25 méter, és egyetlen elegáns ívből áll.",
+        "Tervezése és kivitelezése a korabeli világ legmodernebb eljárásait alkalmazta.",
+        "A hidat eredetileg a kocsiforgalom számára építették Spanish Town és Kingston között.",
+        "1924-ben nyilvánították nemzeti műemlékké Jamaicában.",
+        "A híd szerkezete különleges rögzítési technikákat tartalmaz, csavarok nélkül.",
+        "A helyszín ma kedvelt pontja a történelmi fotózásoknak és sétáknak."
+      ]
+    },
+    {
+      "id": "jamaica-zoo-life-v2",
+      "descriptionAdvanced": "A Jamaica Zoo St. Elizabeth plébániában, Lacovia közelében található, és a sziget egyik legkedveltebb családi látványossága, amely az egzotikus vadállatok és a helyi fauna bemutatására szakosodott. A zoo küldetése az oktatás és a fajmegőrzés, lehetőséget adva a látogatóknak, hogy testközelből találkozzanak olyan állatokkal, mint az oroszlánok, zebrák, lámák és a jamaicai vadvilág számos képviselője. A park barátságos és gondozott környezetben várja az állatbarátokat, ahol a gyerekek számára állatsimogató és játszótér is rendelkezésre áll. A Jamaica Zoo nemcsak egy bemutatóhely, hanem fontos szerepet játszik a környezettudatos szemléletmód elterjesztésében is, tanítva a látogatókat a természet tiszteletére és az állatvilág védelmének fontosságára a Karib-térségben.",
+      "factsAdvanced": [
+        "A zoo St. Elizabeth plébánia szívében, egy buja trópusi birtokon fekszik.",
+        "A gyűjteményben több mint 25 különböző állatfaj található meg.",
+        "Híres az interaktív programjairól, ahol a látogatók etethetnek bizonyos állatokat.",
+        "Itt található Jamaica egyik legnagyobb madárháza egzotikus papagájokkal.",
+        "A zoo rendszeresen fogad iskolás csoportokat természetismereti órákra.",
+        "A park területén egy kis tó is található, ahol vízi madarak élnek.",
+        "A zoo magántulajdonban van és folyamatosan fejleszti a kifutók minőségét.",
+        "A látogatás ideális kiegészítő program a közeli Black River szafari mellé."
+      ]
+    },
+    {
+      "id": "hope-zoo-life-v2",
+      "descriptionAdvanced": "A Hope Zoo Kingstonban, a Hope Királyi Botanikus Kert területén fekszik, és Jamaica legnagyobb és legmodernebb állatkertje, amely a vadvilág védelmének és az oktatásnak szenteli tevékenységét. Az 1960-as években alapított park az utóbbi években teljes megújuláson ment keresztül, tágas, természetközeli kifutókat hozva létre az állatok számára. A zoo különlegessége a 'Jamaica hüllőház', ahol a sziget endemikus fajait, köztük a veszélyeztetett jamaicai leguánt is megtekinthetik a látogatók. A Hope Zoo nemcsak a helyi állatvilágot mutatja be, hanem nemzetközi fajmegőrzési programokban is részt vesz, miközben Kingston lakói számára a legnépszerűbb hétvégi kikapcsolódási helyszínt nyújtja, ahol a természet és a városi élet harmonikusan találkozik.",
+      "factsAdvanced": [
+        "A Hope Zoo 1961-ben nyitotta meg kapuit a nagyközönség előtt.",
+        "Része a hatalmas Hope Royal Botanical Gardens komplexumnak.",
+        "Kiemelt szerepet játszik a kihalófélben lévő jamaicai leguán visszatelepítési programjában.",
+        "A parkban afrikai oroszlánok, majmok és flamingók is láthatók.",
+        "A zoo-ban modern oktatási központ és rendezvényhelyszín is működik.",
+        "A 'Petting Zoo' részlegben a gyerekek közelebbről megismerhetik a háziállatokat.",
+        "A park tervezése során nagy hangsúlyt fektettek az akadálymentesítésre.",
+        "A látogatás bevételeit az állatok jólétének javítására és kutatásra fordítják."
+      ]
+    },
+    {
+      "id": "kool-runnings-life-v2",
+      "descriptionAdvanced": "A Kool Runnings Vízipark Negrilben Jamaica legnagyobb és legszórakoztatóbb vizes élményparkja, amely a Karib-térség minden korosztálya számára felejthetetlen kalandokat kínál. A park több mint tíz izgalmas óriáscsúszdával, egy lassú folyóval és egy hatalmas hullámmedencével rendelkezik, mindezt a legmagasabb nemzetközi biztonsági szabványok mellett. A vízi élmények mellett a Kool Runnings kalandparkkal is büszkélkedhet, ahol gokartozás, paintball és lézerharc várja azokat, akik szárazföldi izgalmakra vágynak. A park kialakítása során nagy figyelmet fordítottak a jamaicai kultúra és vendégszeretet megjelenítésére, így a látogatók valódi trópusi fesztiválhangulatban tölthetik el a napot a híres hétmérföldes strand közvetlen szomszédságában.",
+      "factsAdvanced": [
+        "A vízipark Negril északi részén, a Norman Manley Boulevard mentén található.",
+        "Nevét a híres jamaicai bobcsapatról és a róla készült filmről kapta.",
+        "A csúszdák közül a 'Jamaica Bobsled' a legnépszerűbb és leggyorsabb.",
+        "Különleges gyermekzónával rendelkezik a legkisebbek biztonságos szórakozásához.",
+        "A parkban számos tematikus étterem és ajándékbolt kínál helyi termékeket.",
+        "Gyakran ad otthont céges rendezvényeknek és nagyszabású születésnapi partiknak.",
+        "A víztisztítás során modern szűrőrendszereket alkalmaznak a környezetvédelem érdekében.",
+        "A Kool Runnings több nemzetközi díjat is nyert a régió legjobb családi parkjaként."
+      ]
+    },
+    {
+      "id": "cranbrook-flower-forest-life-v2",
+      "descriptionAdvanced": "A Cranbrook Flower Forest St. Ann plébániában egy varázslatos természetvédelmi terület és botanikus park, amely 130 hektáron terül el Jamaica északi partjának dombjai között. Ez a paradicsomi helyszín egykor egy nagy cukorültetvény része volt, ma pedig buja trópusi kerteknek, egzotikus virágoknak és egy kristálytiszta folyónak ad otthont, amely vízesésekkel és természetes úszómedencékkel szeli át a tájat. A látogatók választhatnak a csendes erdei séták, a madármegfigyelés vagy az aktívabb kikapcsolódás, mint a drótkötélpályás csúszás (ziplining) között a sűrű lombkorona felett. A Cranbrook Virágerdő az egyik legjobb helyszín Jamaicán, hogy megtapasztaljuk a sziget érintetlen természetét és a trópusi növényvilág lenyűgöző sokszínűségét.",
+      "factsAdvanced": [
+        "A park St. Ann-ben, Laughing Waters és Ocho Rios közelében található.",
+        "Területén több mint 100 különböző trópusi növény- és virágfaj él.",
+        "A Little River folyó forrása is itt található a birtok területén.",
+        "A kertekben ritka orchideák és broméliák is megcsodálhatók.",
+        "A park híres a pávaállományáról, amelyek szabadon sétálnak a látogatók között.",
+        "Lehetőség van lovaglásra és piknikezésre a kijelölt erdei tisztásokon.",
+        "A drótkötélpálya 9 különböző állomáson keresztül mutatja be az erdőt felülről.",
+        "A helyszín kedvelt esküvői és fotózási célpont a természetes háttere miatt."
+      ]
+    },
+    {
+      "id": "croydon-plantation-life-v2",
+      "descriptionAdvanced": "A Croydon ültetvény St. James plébániában, a Catadupa-hegység lábánál fekszik, és egyike Jamaica leglátványosabb működő mezőgazdasági birtokainak, amely ma is termel kávét, ananászt és citrusféléket. A birtok történelmi jelentőségét az adja, hogy ez volt Samuel Sharpe nemzeti hős szülőhelye, így a látogatás során a mezőgazdasági ismeretek mellett a jamaicai szabadságharc emlékeivel is találkozhatnak a turisták. A Croydon ültetvény híres a vendégszeretetéről és a pazar panorámájáról, a látogatók pedig egy vezetett túra során megkóstolhatják a frissen szüretelt egzotikus gyümölcsöket és a helyben pörkölt kávét. Ez a helyszín tökéletes példája annak, hogyan él tovább a hagyományos jamaicai ültetvényes gazdálkodás a modern ökoturizmussal összefonódva.",
+      "factsAdvanced": [
+        "A birtok hétszer nyerte el Jamaica legjobb ültetvénytúrája díját.",
+        "Croydon Samuel Sharpe nemzeti hős, a rabszolgalázadás vezérének szülőhelye.",
+        "Az ültetvényen 16 különböző ananászfajtát termesztenek.",
+        "Itt készül Jamaica egyik legfinomabb 'High Mountain' kávéja.",
+        "A túra során bemutatják a méhészetet és a trópusi fűszernövényeket is.",
+        "A birtokról lélegzetelállító kilátás nyílik a környező hegyekre és völgyekre.",
+        "A látogatók hagyományos jamaicai ebédet is kapnak a túra végén.",
+        "Az ültetvény Catadupa közelében, Montego Bay-től kb. egy órás autóútra található."
+      ]
+    },
+    {
+      "id": "sun-valley-plantation-life-v2",
+      "descriptionAdvanced": "A Sun Valley ültetvény St. Ann plébániában, Oracabessa közelében egy családias és informatív mezőgazdasági birtok, amely bemutatja Jamaica gazdag növényvilágát a kókuszdiótól kezdve a kakaón át egészen a gyógynövényekig. A látogatók egy kényelmes sétán vehetnek részt, ahol az ültetvényesek személyesen mesélnek a növények termesztéséről, feldolgozásáról és azok gyógyító hatásairól a jamaicai népi gyógyászatban. A Sun Valley különlegessége a közvetlen hangulat és az a bőség, amellyel a látogatókat friss gyümölcskóstolókkal és házi készítésű finomságokkal várják. Ez a birtok nemcsak a turisták számára érdekes, hanem egyfajta génbankként is szolgál, megőrizve a sziget hagyományos kultúrnövényeit és mezőgazdasági tudását az utókor számára.",
+      "factsAdvanced": [
+        "Az ültetvény St. Ann északi partvidékének egyik legszebb dombos területén fekszik.",
+        "A túra során több mint 30 különböző egzotikus gyümölcsöt mutatnak be.",
+        "A látogatók láthatják a kakaó feldolgozásának és a csokoládékészítésnek a lépéseit.",
+        "Híres a friss kókuszvízről és a helyben sütött banánkenyérről.",
+        "A birtokon nagy hangsúlyt fektetnek a vegyszermentes, fenntartható gazdálkodásra.",
+        "A kertekben számos kolibri és más trópusi madárfaj is megfigyelhető.",
+        "A túra végén a látogatók megkóstolhatják a híres jamaicai ackee-t is.",
+        "Az ültetvény kiváló oktatóhelyszín a trópusi botanika iránt érdeklődőknek."
+      ]
+    },
+    {
+      "id": "brimmer-hall-estate-life-v2",
+      "descriptionAdvanced": "A Brimmer Hall birtok St. Mary plébániában Jamaica egyik legrégebbi és legimpozánsabb történelmi ültetvénye, amely a 18. század óta fontos mezőgazdasági központ. A birtok kúriája a gyarmati építészet remekműve, amely ma is őrzi eredeti berendezését és mahagóni díszítéseit, bepillantást engedve az egykori ültetvényesek életmódjába. Brimmer Hall azonban nemcsak múzeum, hanem egy ma is aktív gazdaság, ahol nagy területen termesztenek banánt, kakaót és kókuszdiót az exportpiacokra. A látogatók traktorvontatású kocsikkal járhatják be a hatalmas ültetvényt, megismerve a modern mezőgazdasági technológiákat és a gyarmati múlt örökségének találkozását. A birtok hűen tükrözi St. Mary plébánia gazdag agrártörténetét és a sziget gazdasági átalakulását.",
+      "factsAdvanced": [
+        "A Brimmer Hall kúria az 1700-as évek végén épült klasszikus 'Great House' stílusban.",
+        "A birtok egykor Jamaica egyik legnagyobb kókuszdió- és banánszállítója volt.",
+        "A ház belső tereit értékes antik bútorok és kristálycsillárok díszítik.",
+        "A birtoktúra során megtekinthető a működő banáncsomagoló üzem is.",
+        "A kertekben monumentális mahagóni- és cédrusfák találhatók.",
+        "A birtokhoz saját úszómedence és pihenőterület is tartozik a látogatók számára.",
+        "Brimmer Hall híres a hagyományos jamaicai ételeket kínáló étterméről.",
+        "A helyszín Port Maria közelében található, könnyen elérhető az északi partról."
+      ]
+    },
+    {
+      "id": "high-mountain-coffee-life-v2",
+      "descriptionAdvanced": "A High Mountain kávéültetvények Jamaica belső hegyvidékein, különösen Manchester és St. Catherine plébániákban találhatók, és a sziget kávéiparának egyik legfontosabb szegmensét képviselik a híres Blue Mountain kávé mellett. A High Mountain kávé, ahogy a neve is jelzi, magasan fekvő területeken terem, de nem a Blue Mountains meghatározott zónájában, így bár ízvilága hasonlóan selymes és gazdag, ára kedvezőbb a fogyasztók számára. Az ültetvényeken a kávécserjéket gyakran árnyékot adó fák (például banán- vagy narancsfák) közé ültetik, ami különleges aromát kölcsönöz a szemeknek. A látogatók itt megismerhetik a kávé útját a cserjétől a csészéig, beleértve a kézi szüretelést, a napon történő szárítást és a pörkölés művészetét, amely generációk óta száll apáról fiúra a jamaicai hegyekben.",
+      "factsAdvanced": [
+        "A High Mountain kávét általában 300 és 1000 méter közötti magasságban termesztik.",
+        "A Williamsfield-ben található feldolgozó üzem az egyik legnagyobb a szigeten.",
+        "A High Mountain Coffee márka Jamaica egyik legelismertebb exportterméke.",
+        "Az ültetvények nagy része családi gazdaságként működik évtizedek óta.",
+        "A kávészemeket szigorú minőségellenőrzés után válogatják exportra.",
+        "A terület vulkanikus talaja és hűvösebb klímája ideális a kávéfejlődéshez.",
+        "A látogatók gyakran részt vehetnek kávékóstolókon, ahol megismerhetik a különböző pörkölési fokozatokat.",
+        "A kávétermesztés fontos megélhetési forrást biztosít a manchesteri hegyvidéki közösségeknek."
+      ]
+    },
+    {
+      "id": "st-mary-banana-life-v2",
+      "descriptionAdvanced": "St. Mary plébánia banánültetvényei Jamaica agrártörténetének szívét alkotják, hiszen ez a régió volt a szigetországi banánexport szülőhelye a 19. század végén. A hatalmas, zöldellő ültetvények ma is uralják a tájat Oracabessa és Port Maria környékén, ahol a vulkanikus talaj és a bőséges csapadék ideális körülményeket teremt a gyümölcs számára. A jamaicai banán híres az édességéről és kiváló minőségéről, amit a mai napig szigorú technológiai előírások mellett termelnek az európai és amerikai piacokra. A látogatók az ültetvényeken bepillantást nyerhetnek a banán bonyolult életciklusába, a gondozástól kezdve a szüretelésen át a modern csomagolási folyamatokig. A banánipar nemcsak gazdasági motor, hanem St. Mary kulturális identitásának is alapköve, amely meghatározza a helyi közösségek életét és ritmusát.",
+      "factsAdvanced": [
+        "A banánexport Jamaicából St. Mary kikötőiből indult el az 1860-as években.",
+        "A plébánia vulkanikus, tápanyagban gazdag talaja a legjobb a szigeten a banántermesztéshez.",
+        "A legtöbb ültetvényen a 'Cavendish' fajtát termesztik exportra.",
+        "A banánt speciális zsákokban védik az ültetvényeken a kártevőktől és a széltől.",
+        "A St. Mary Banana Chips Jamaica egyik legnépszerűbb és legismertebb márkája.",
+        "Az ágazat több ezer helyi lakosnak biztosít folyamatos munkát a földeken és a csomagolókban.",
+        "A banántermelés jelentős szerepet játszott az északi partvidék infrastrukturális fejlődésében.",
+        "A modern ültetvények precíziós öntözőrendszereket alkalmaznak a hozam növelése érdekében."
+      ]
+    },
+    {
+      "id": "duckenfield-sugar-life-v2",
+      "descriptionAdvanced": "A Duckenfield cukornádültetvények és a hozzájuk kapcsolódó gyár St. Thomas plébánia keleti végén Jamaica cukoriparának egyik utolsó nagy bástyája. Ez a terület, amely Morant Point közelében fekszik, évszázadok óta a cukornád-termelés központja, ahol a hatalmas ültetvények egészen a tengerpartig érnek. A Duckenfield gyár az egyik legfontosabb munkaadó a régióban, amely nemcsak nyerscukrot, hanem melaszt is előállít a jamaicai rumgyártás számára. A betakarítási szezonban, az úgynevezett 'crop time' alatt a terület felbolydul, és a hagyományos kézi aratás mellett a modern gépi technológia is megjelenik. A Duckenfield-i életet a cukornád ritmusa határozza meg, emlékeztetve a látogatókat a sziget történelmi gyökereire és a mezőgazdaság töretlen jelentőségére a 21. századi Jamaicában.",
+      "factsAdvanced": [
+        "Duckenfield St. Thomas plébánia legnagyobb mezőgazdasági üzeme.",
+        "Az ültetvények területe több ezer hektárt tesz ki a keleti partvidéken.",
+        "A gyár által termelt melasz a legjobb minőségű jamaicai rumok alapanyaga.",
+        "A területen található cukormalmok története a 18. századig nyúlik vissza.",
+        "A betakarítási szezon általában januártól júniusig tart, éjjel-nappali üzemeléssel.",
+        "A Duckenfield-i gazdaság alapvető fontosságú a távoli keleti régió stabilitásához.",
+        "A cukornád-hulladékot (bagasse) gyakran energiatermelésre használják fel az üzemben.",
+        "A terület híres a hatalmas, zöldellő 'nádmezőiről', amelyek különleges látványt nyújtanak a tenger mellett."
+      ]
+    },
+    {
+      "id": "orange-river-agriculture-life-v2",
+      "descriptionAdvanced": "Az Orange River Mezőgazdasági Kutatóállomás St. Mary plébániában Jamaica tudományos és agrárszakmai tudásközpontja, amely a trópusi növénytermesztés modernizálásán dolgozik. Az állomás elsősorban a kakaó, a citrusfélék és az egzotikus gyümölcsök kutatására szakosodott, új, betegség-ellenálló fajták kifejlesztésével és a fenntartható termesztési módszerek tesztelésével. A kutatóhely hidat képez az elméleti tudomány és a gyakorlati gazdálkodás között, oktatást és szaktanácsadást nyújtva a jamaicai gazdák számára. Az Orange River állomáson végzett munka kulcsfontosságú a sziget élelmiszerbiztonsága és exportkapacitásának növelése szempontjából, hiszen itt dől el, mely növények lesznek képesek alkalmazkodni a klímaváltozás kihívásaihoz. A látogatók betekintést nyerhetnek a laboratóriumi kísérletekbe és a mintakertek gondozásába, megismerve Jamaica mezőgazdaságának jövőjét.",
+      "factsAdvanced": [
+        "Az állomás Jamaica legrégebbi és legfontosabb kakaókutatási központja.",
+        "A kutatóhely St. Mary dombjai között, Highgate közelében található.",
+        "Itt fejlesztették ki a híres jamaicai 'Trinitario' kakaó hibrideket.",
+        "Az állomás saját faiskolával rendelkezik, ahonnan minőségi palántákat adnak el a gazdáknak.",
+        "A kutatások hangsúlya a környezetbarát kártevőirtáson és a bio-gazdálkodáson van.",
+        "Az Orange River-i szakértők szorosan együttműködnek a nemzetközi mezőgazdasági szervezetekkel.",
+        "A területen számos kísérleti ültetvény található ritka trópusi gyümölcsfákkal.",
+        "Az állomás fontos bázisa a fiatal jamaicai agrármérnökök képzésének."
+      ]
+    }
+  ]
+}

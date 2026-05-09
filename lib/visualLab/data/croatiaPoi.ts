@@ -207,10 +207,10 @@ export const croatiaAllPoi = [
       en: "Dubrovnik"
     },
     description: {
-      de: "Dubrovnik, die 'Perle der Adria', ist weltberühmt für seine spektakuläre mittelalterliche Altstadt und die massiven Stadtmauern über dem Meer.",
-      hu: "Dubrovnik, az \\\"Adria gyöngyszeme\\\", világhírű látványos középkori óvárosáról és a tenger fölé magasodó masszív városfalairól.",
-      ro: "Dubrovnik, \\\"Perla Adriaticii\\\", este faimos în întreaga lume pentru orașul său vechi medieval spectaculos și zidurile masive ale orașului de deasupra mării.",
-      en: "Dubrovnik, the 'Pearl of the Adriatic', is world-famous for its spectacular medieval Old Town and the massive city walls above the sea."
+      de: "Dubrovnik ist eine historische Stadt an der Adria im Süden Kroatiens, bekannt für ihre charakteristische Altstadt. Sie wird oft als \"Perle der Adria\" bezeichnet und ist ein beliebtes Touristenziel.",
+      hu: "Dubrovnik egy történelmi város az Adriai-tenger partján, Dél-Horvátországban, amely jellegzetes óvárosáról ismert. Gyakran az \"Adria gyöngyének\" is nevezik, és népszerű turisztikai célpont.",
+      ro: "Dubrovnik este un oraș istoric la Marea Adriatică în sudul Croației, cunoscut pentru Orașul său Vechi distinctiv. Este adesea denumit \"Perla Adriaticii\" și este o destinație turistică populară.",
+      en: "Dubrovnik is a historic city on the Adriatic Sea in southern Croatia, known for its distinctive Old Town. It is often referred to as the \"Pearl of the Adriatic\" and is a popular tourist destination."
     },
     descriptionAdvanced: {
       de: "Dubrovnik, oft als 'Perle der Adria' bezeichnet, ist eine der am besten erhaltenen mittelalterlichen Städte der Welt und ein UNESCO-Weltkulturerbe. Die imposanten Stadtmauern, die die Altstadt vollständig umschließen, sind die Hauptattraktion und bieten atemberaubende Ausblicke auf die terrakottafarbenen Dächer und das azurblaue Meer. Der Stradun, die Hauptstraße der Altstadt, ist eine elegante Flaniermeile aus poliertem Kalkstein, gesäumt von historischen Gebäuden, Kirchen und Palästen. Dubrovnik war einst die Hauptstadt der mächtigen Republik Ragusa, einer Seerepublik, die mit Venedig konkurrierte. Dieses reiche Erbe spiegelt sich in der prächtigen Architektur wider, wie dem Rektorenpalast und der Sponza-Palast. Die Stadt erlangte in jüngerer Zeit zusätzliche Berühmtheit als Hauptdrehort für 'Königsmund' in der Serie 'Game of Thrones'. Eine Seilbahnfahrt auf den Berg Srđ bietet einen unvergesslichen Panoramablick auf die Stadt und die umliegenden Inseln.",
@@ -219,10 +219,10 @@ export const croatiaAllPoi = [
       en: "Known as the \\\\\\\"Pearl of the Adriatic,\\\\\\\" Dubrovnik is a breathtaking medieval walled city that stands as a testament to the power of the former Republic of Ragusa. Its massive stone walls, which stretch for nearly two kilometers, completely encircle the Old Town and offer some of the most spectacular views in Europe. The main thoroughfare, Stradun, is paved with polished limestone that shines like silver after the rain, lined with elegant Baroque buildings. Visitors can explore historic landmarks such as the Rector's Palace, the Onofrio Fountain, and the Franciscan Monastery, which houses one of the world's oldest pharmacies. Dubrovnik's unique blend of Gothic, Renaissance, and Baroque architecture has earned it a place on the UNESCO World Heritage list. Beyond the walls, the sparkling Adriatic invites travelers to explore the nearby Elafiti Islands or take a cable car up Mount Srđ for a panoramic sunset."
     },
     facts: {
-      de: ["UNESCO-Weltkulturerbe", "Beliebtes Touristenziel"],
-      hu: ["UNESCO világörökség", "Népszerű turisztikai célpont"],
-      ro: ["Patrimoniul Mondial UNESCO", "Destinație turistică populară"],
-      en: ["UNESCO World Heritage site", "Popular tourist destination"]
+      de: ["Die Stadtmauern von Dubrovnik sind fast 2 Kilometer lang und umschließen die gesamte Altstadt.", "Dubrovnik war jahrhundertelang eine unabhängige Republik namens Republik Ragusa.", "Die Stadt diente als Drehort für Königsmund in der Fernsehserie Game of Thrones."],
+      hu: ["Dubrovnik városfalai majdnem 2 kilométer hosszúak, és az egész óvárost körülveszik.", "Dubrovnik évszázadokon át független köztársaság volt, Raguzai Köztársaság néven.", "A város a Trónok harca című tévésorozat Királyvárának forgatási helyszíneként szolgált."],
+      ro: ["Zidurile orașului Dubrovnik au o lungime de aproape 2 kilometri și înconjoară întregul Oraș Vechi.", "Dubrovnik a fost o republică independentă cunoscută sub numele de Republica Ragusa timp de secole.", "Orașul a servit drept locație de filmare pentru Debarcaderul Regelui din serialul TV Urzeala Tronurilor."],
+      en: ["The city walls of Dubrovnik are almost 2 kilometers long and encircle the entire Old Town.", "Dubrovnik was an independent republic known as the Republic of Ragusa for centuries.", "The city served as the filming location for King's Landing in the TV series Game of Thrones."]
     },
     factsAdvanced: {
         de: [

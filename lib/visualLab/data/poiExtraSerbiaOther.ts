@@ -17,7 +17,20 @@ export const serbiaPoiExtraOther = ([
         en: ["Listed as a UNESCO World Heritage site since 2007.", "Constructed by order of Emperor Galerius.", "Features spectacular and exceptionally well-preserved ancient mosaics.", "Originally defended by a massive structure with 20 defensive towers.", "Recognized as a premier historical tourism destination in Serbia.", "Provides invaluable insights into Roman life during the Late Antiquity period."] 
     },
     descriptionAdvancedEn: "Felix Romuliana stands as one of the most significant Roman imperial residences from the 4th century, originally commissioned by Emperor Galerius to honor his mother. The palatial complex, which is designated as a UNESCO World Heritage site, serves as a remarkable example of late imperial architecture, featuring elaborate mosaic floors and imposing defensive fortifications. These extensive ruins offer a fascinating window into the luxurious lifestyle of the Roman elite within the eastern provinces of the empire. History K6 — ancient Roman architecture.",
-    factsAdvancedEn: ["Listed as a UNESCO World Heritage site since 2007.", "Constructed by order of Emperor Galerius.", "Features spectacular and exceptionally well-preserved ancient mosaics.", "Originally defended by a massive structure with 20 defensive towers.", "Recognized as a premier historical tourism destination in Serbia.", "Provides invaluable insights into Roman life during the Late Antiquity period."], image: "/poi-images/archaeology-felix-romuliana.webp"},
+    factsAdvancedEn: ["Listed as a UNESCO World Heritage site since 2007.", "Constructed by order of Emperor Galerius.", "Features spectacular and exceptionally well-preserved ancient mosaics.", "Originally defended by a massive structure with 20 defensive towers.", "Recognized as a premier historical tourism destination in Serbia.", "Provides invaluable insights into Roman life during the Late Antiquity period."], image: "/poi-images/archaeology-felix-romuliana.webp",
+    description: {
+      de: "Felix Romuliana ist ein antiker römischer Kaiserpalast und UNESCO-Weltkulturerbe in der Nähe von Zaječar. Er wurde vom Kaiser Galerius im 3. und 4. Jahrhundert erbaut.",
+      hu: "Felix Romuliana egy ókori római császári palota és UNESCO világörökségi helyszín Zaječar közelében. Galerius császár építtette a 3. és 4. században.",
+      ro: "Felix Romuliana este un vechi palat imperial roman și un sit al Patrimoniului Mondial UNESCO situat lângă Zaječar. A fost construit de împăratul Galerius în secolele III și IV.",
+      en: "Felix Romuliana is an ancient Roman imperial palace and a UNESCO World Heritage site located near Zaječar. It was built by Emperor Galerius in the 3rd and 4th centuries."
+    },
+    facts: {
+      de: ["Vom römischen Kaiser Galerius erbaut.", "Seit 2007 ein UNESCO-Weltkulturerbe.", "Besitzt gut erhaltene Mosaike und Befestigungen."],
+      hu: ["Galerius római császár építtette.", "2007 óta UNESCO világörökségi helyszín.", "Jól karbantartott mozaikokkal és erődítményekkel rendelkezik."],
+      ro: ["Construit de împăratul roman Galerius.", "Desemnat sit al Patrimoniului Mondial UNESCO în 2007.", "Prezintă mozaicuri și fortificații bine conservate."],
+      en: ["Built by Roman Emperor Galerius.", "Designated a UNESCO World Heritage site in 2007.", "Features well-preserved mosaics and fortifications."]
+    }
+  },
   {
     id: "monument-skull-tower",
     descriptionAdvanced: { 
@@ -33,7 +46,20 @@ export const serbiaPoiExtraOther = ([
         en: ["Commissioned by Ottoman vizier Hurshid Pasha in 1809.", "Originally integrated 952 skulls into its defensive wall structure.", "Currently, 58 skulls remain visible within the preserved monument.", "Functions as a solemn memorial dedicated to Serbian resistance.", "Widely considered a globally unique monument due to its morbid construction.", "Represents a national symbol of the long struggle for independence."] 
     },
     descriptionAdvancedEn: "The Skull Tower (Ćele Kula) in Niš remains a haunting yet vital historical monument, originally commissioned by Ottoman authorities as a brutal warning to Serbian insurgents following the Battle of Čegar. Initially, the structure incorporated hundreds of skulls from fallen Serbian warriors, ultimately transforming into a powerful symbol of national resistance against foreign oppression. Today, the preserved structure is enclosed within a memorial chapel, serving as a solemn tribute to the courage and ultimate sacrifice of those who fought for freedom. History K8 — national liberation movements.",
-    factsAdvancedEn: ["Commissioned by Ottoman vizier Hurshid Pasha in 1809.", "Originally integrated 952 skulls into its defensive wall structure.", "Currently, 58 skulls remain visible within the preserved monument.", "Functions as a solemn memorial dedicated to Serbian resistance.", "Widely considered a globally unique monument due to its morbid construction.", "Represents a national symbol of the long struggle for independence."], image: "/poi-images/monument-skull-tower.webp"},
+    factsAdvancedEn: ["Commissioned by Ottoman vizier Hurshid Pasha in 1809.", "Originally integrated 952 skulls into its defensive wall structure.", "Currently, 58 skulls remain visible within the preserved monument.", "Functions as a solemn memorial dedicated to Serbian resistance.", "Widely considered a globally unique monument due to its morbid construction.", "Represents a national symbol of the long struggle for independence."], image: "/poi-images/monument-skull-tower.webp",
+    description: {
+      de: "Der Schädelturm ist ein steinernes Bauwerk in Niš, in das menschliche Schädel eingelassen sind. Er wurde vom Osmanischen Reich nach der Schlacht von Čegar 1809 errichtet.",
+      hu: "A Koponya-torony egy emberi koponyákkal kirakott kőépítmény Nišben. Az Oszmán Birodalom építtette az 1809-es čegari csata után.",
+      ro: "Turnul Craniilor este o structură de piatră în care sunt încorporate cranii umane, situată în Niš. A fost construit de Imperiul Otoman după bătălia de la Čegar din 1809.",
+      en: "The Skull Tower is a stone structure embedded with human skulls located in Niš. It was constructed by the Ottoman Empire following the Battle of Čegar in 1809."
+    },
+    facts: {
+      de: ["Enthält die Schädel serbischer Rebellen.", "Von den Osmanen zur Abschreckung erbaut.", "Befindet sich in der Stadt Niš."],
+      hu: ["Szerb lázadók koponyáit tartalmazza.", "Az oszmánok építették elrettentésül.", "Niš városában található."],
+      ro: ["Conține craniile rebelilor sârbi.", "Construit de otomani ca avertisment.", "Situat în orașul Niš."],
+      en: ["Contains the skulls of Serbian rebels.", "Built by Ottomans as a warning.", "Located in the city of Niš."]
+    }
+  },
   {
     id: "spa-vrnjacka-banja",
     descriptionAdvanced: { 
@@ -49,7 +75,20 @@ export const serbiaPoiExtraOther = ([
         en: ["Recognized as the most important spa and wellness resort in Serbia.", "Features over 7 distinct therapeutic mineral springs.", "The resort's park is famed across Europe for its beauty and design.", "Functions as a premier tourism destination with a long-standing tradition.", "The 'Bridge of Love' serves as a globally recognized romantic symbol.", "Operates as a high-tier center for medical treatment and wellness."] 
     },
     descriptionAdvancedEn: "Vrnjačka Banja stands as the most renowned spa resort in Serbia, celebrated since ancient times for the healing properties of its mineral waters. Its expansive, meticulously maintained parks, elegant 19th-century architecture, and abundance of therapeutic thermal springs continue to attract visitors seeking medical treatment and relaxation. The local 'Bridge of Love' serves as an iconic landmark where couples symbolize their commitment by locking padlocks to the bridge railing. Geography K7 — balneology and therapeutic spa resorts.",
-    factsAdvancedEn: ["Recognized as the most important spa and wellness resort in Serbia.", "Features over 7 distinct therapeutic mineral springs.", "The resort's park is famed across Europe for its beauty and design.", "Functions as a premier tourism destination with a long-standing tradition.", "The 'Bridge of Love' serves as a globally recognized romantic symbol.", "Operates as a high-tier center for medical treatment and wellness."], image: "/poi-images/spa-vrnjacka-banja.webp"},
+    factsAdvancedEn: ["Recognized as the most important spa and wellness resort in Serbia.", "Features over 7 distinct therapeutic mineral springs.", "The resort's park is famed across Europe for its beauty and design.", "Functions as a premier tourism destination with a long-standing tradition.", "The 'Bridge of Love' serves as a globally recognized romantic symbol.", "Operates as a high-tier center for medical treatment and wellness."], image: "/poi-images/spa-vrnjacka-banja.webp",
+    description: {
+      de: "Vrnjačka Banja ist Serbiens berühmtester Kurort, bekannt für seine heißen Quellen und Heilwasser. Er hat eine lange Tradition im Gesundheitstourismus, die bis in die Römerzeit zurückreicht.",
+      hu: "Vrnjačka Banja Szerbia leghíresebb és legnépszerűbb fürdővárosa, amely meleg forrásairól és gyógyvizéről ismert. Hosszú, a római korig visszanyúló egészségturisztikai hagyományokkal rendelkezik.",
+      ro: "Vrnjačka Banja este cea mai celebră și populară stațiune balneară din Serbia, faimoasă pentru izvoarele sale termale și apele vindecătoare. Are o lungă tradiție în turismul de sănătate, datând din perioada romană.",
+      en: "Vrnjačka Banja is Serbia's most celebrated and popular spa town, famous for its hot springs and healing waters. It has a long tradition of health tourism dating back to Roman times."
+    },
+    facts: {
+      de: ["Verfügt über sieben Mineralquellen.", "Ein beliebter Kurort seit dem 19. Jahrhundert.", "Bekannt als die 'Königin des serbischen Tourismus'."],
+      hu: ["Hét ásványvízforrással rendelkezik.", "A 19. század óta népszerű gyógyhely.", "A 'szerb turizmus királynőjeként' ismert."],
+      ro: ["Dispune de șapte izvoare minerale.", "O stațiune de sănătate populară încă din secolul al XIX-lea.", "Cunoscută drept 'Regina turismului sârbesc'."],
+      en: ["Features seven mineral springs.", "A popular health resort since the 19th century.", "Known as the 'Queen of Serbian Tourism'."]
+    }
+  },
   {
     id: "spa-sokobanja",
     descriptionAdvanced: { 
@@ -65,7 +104,20 @@ export const serbiaPoiExtraOther = ([
         en: ["Boasts air exceptionally rich in ozone, known for its curative effects.", "Features historic Ottoman-era baths (hammams) that remain active today.", "Set against a spectacular mountain landscape carved by the Moravica River.", "Resort with a deep and long-standing balneological tradition.", "Highly sought-after center for health recovery and rest.", "Provides an ideal destination for nature lovers and outdoor tourists."] 
     },
     descriptionAdvancedEn: "Sokobanja serves as a historic resort renowned for its curative mountain climate and exceptionally pure air, nestled between the majestic Ozren and Rtanj mountains. Its traditional Ottoman baths (hammams), combined with modern health treatment facilities, make it a popular destination for those seeking health restoration and the tranquility of nature. Furthermore, the resort serves as an ideal base for mountain hiking and exploration throughout the Eastern Serbian region. Geography K6 — therapeutic mountain climates.",
-    factsAdvancedEn: ["Boasts air exceptionally rich in ozone, known for its curative effects.", "Features historic Ottoman-era baths (hammams) that remain active today.", "Set against a spectacular mountain landscape carved by the Moravica River.", "Resort with a deep and long-standing balneological tradition.", "Highly sought-after center for health recovery and rest.", "Provides an ideal destination for nature lovers and outdoor tourists."], image: "/poi-images/spa-sokobanja.webp"},
+    factsAdvancedEn: ["Boasts air exceptionally rich in ozone, known for its curative effects.", "Features historic Ottoman-era baths (hammams) that remain active today.", "Set against a spectacular mountain landscape carved by the Moravica River.", "Resort with a deep and long-standing balneological tradition.", "Highly sought-after center for health recovery and rest.", "Provides an ideal destination for nature lovers and outdoor tourists."], image: "/poi-images/spa-sokobanja.webp",
+    description: {
+      de: "Sokobanja ist einer der ältesten und beliebtesten Kurorte Serbiens, bekannt für seine unberührte Natur und Thermalquellen. Er ist von wunderschönen Bergen und frischer Luft umgeben.",
+      hu: "Sokobanja Szerbia egyik legrégebbi és legnépszerűbb fürdővárosa, amely érintetlen természetéről és termálforrásairól ismert. Gyönyörű hegyek és friss levegő veszi körül.",
+      ro: "Sokobanja este una dintre cele mai vechi și populare stațiuni balneare din Serbia, cunoscută pentru natura sa curată și izvoarele termale. Este înconjurată de munți frumoși și aer proaspăt.",
+      en: "Sokobanja is one of the oldest and most popular spa towns in Serbia, known for its pristine nature and thermal springs. It is surrounded by beautiful mountains and fresh air."
+    },
+    facts: {
+      de: ["Einer der ältesten Kurorte Serbiens.", "Berühmt für seine saubere, frische Luft.", "Umgeben von den Bergen Ozren und Rtanj."],
+      hu: ["Szerbia egyik legrégebbi gyógyfürdője.", "Híres tiszta, friss levegőjéről.", "Az Ozren és az Rtanj hegyek veszik körül."],
+      ro: ["Una dintre cele mai vechi stațiuni balneare din Serbia.", "Renumită pentru aerul său curat și proaspăt.", "Înconjurată de munții Ozren și Rtanj."],
+      en: ["One of Serbia's oldest spa resorts.", "Renowned for its clean, fresh air.", "Surrounded by Mount Ozren and Rtanj."]
+    }
+  },
   {
     id: "nature-tara-national-park",
     descriptionAdvanced: { 
@@ -81,7 +133,19 @@ export const serbiaPoiExtraOther = ([
         en: ["Covers a protected area exceeding 19,000 hectares.", "The only site containing the natural habitat of the rare Pančić's spruce.", "Serves as an essential habitat for large mammals like brown bears.", "The Drina River Gorge stands as a spectacular masterpiece of nature.", "Provides numerous hiking trails through pristine, virgin forest zones.", "Boasts a rich and strictly conserved regional biodiversity."] 
     },
     descriptionAdvancedEn: "Tara National Park functions as a sanctuary of biodiversity, characterized by vast virgin forests, deep gorges carved by the Drina River, and breathtaking mountain landscapes. It is home to the extremely rare Serbian spruce (Pančić's spruce) and provides a crucial habitat for large wildlife, including the brown bear. Numerous viewing points, such as the iconic Banjska Stena, offer stunning panoramic vistas over the winding meanders of the Drina River. Geography K8 — national parks and protected forest ecosystems.",
-    factsAdvancedEn: ["Covers a protected area exceeding 19,000 hectares.", "The only site containing the natural habitat of the rare Pančić's spruce.", "Serves as an essential habitat for large mammals like brown bears.", "The Drina River Gorge stands as a spectacular masterpiece of nature.", "Provides numerous hiking trails through pristine, virgin forest zones.", "Boasts a rich and strictly conserved regional biodiversity."]
+    factsAdvancedEn: ["Covers a protected area exceeding 19,000 hectares.", "The only site containing the natural habitat of the rare Pančić's spruce.", "Serves as an essential habitat for large mammals like brown bears.", "The Drina River Gorge stands as a spectacular masterpiece of nature.", "Provides numerous hiking trails through pristine, virgin forest zones.", "Boasts a rich and strictly conserved regional biodiversity."],
+    description: {
+      de: "Der Tara-Nationalpark ist bekannt für seine üppigen Wälder, tiefen Schluchten und die wunderschöne Drina-Schlucht. Er ist ein Paradies für Wildtiere und Naturliebhaber.",
+      hu: "A Tara Nemzeti Park buja erdeiről, mély szurdokairól és a gyönyörű Drina folyó kanyonjáról ismert. A vadvilág és a szabadtéri tevékenységek szerelmeseinek paradicsoma.",
+      ro: "Parcul Național Tara este cunoscut pentru pădurile sale luxuriante, defileele adânci și frumosul canion al râului Drina. Este un refugiu pentru fauna sălbatică și pasionații de aer liber.",
+      en: "Tara National Park is known for its lush forests, deep gorges, and the beautiful Drina River canyon. It is a haven for wildlife and outdoor enthusiasts."
+    },
+    facts: {
+      de: ["Heimat der seltenen Serbischen Fichte.", "Beinhaltet die spektakuläre Drina-Schlucht.", "Reich an vielfältiger Flora und Fauna."],
+      hu: ["A ritka szerb lucfenyő otthona.", "Itt található a látványos Drina-kanyon.", "Változatos növény- és állatvilágban gazdag."],
+      ro: ["Adăpostește rarul molid sârbesc.", "Include spectaculosul Canion al râului Drina.", "Bogat în floră și faună diversă."],
+      en: ["Home to the rare Serbian spruce.", "Features the spectacular Drina River Canyon.", "Rich in diverse flora and fauna."]
+    }
   },
   {
     id: "nature-djerdap-national-park",
@@ -98,7 +162,20 @@ export const serbiaPoiExtraOther = ([
         en: ["Recognized as the longest and deepest river gorge in Europe.", "Contains the world-renowned Lepenski Vir archaeological site.", "Supports a diverse and strictly protected range of flora and fauna.", "Served for millennia as a vital historical commercial route along the Danube.", "Defined by dramatic cliffs and unique fluvial landscapes.", "Regarded as one of the most iconic natural reserves in the country."] 
     },
     descriptionAdvancedEn: "Đerdap National Park hosts the Iron Gates, the longest and most spectacular Danube river gorge in Europe, where the river carves through the Carpathian Mountains. The area holds immense historical importance, housing the Lepenski Vir archaeological site, which demonstrates the continuity of human habitation since prehistoric times. With its dramatic landscapes and a rich variety of aquatic fauna, the park stands as a crown jewel of Serbia's natural heritage. Geography K7 — fluvial relief and trans-mountain river valleys.",
-    factsAdvancedEn: ["Recognized as the longest and deepest river gorge in Europe.", "Contains the world-renowned Lepenski Vir archaeological site.", "Supports a diverse and strictly protected range of flora and fauna.", "Served for millennia as a vital historical commercial route along the Danube.", "Defined by dramatic cliffs and unique fluvial landscapes.", "Regarded as one of the most iconic natural reserves in the country."], image: "/poi-images/nature-djerdap-national-park.webp"},
+    factsAdvancedEn: ["Recognized as the longest and deepest river gorge in Europe.", "Contains the world-renowned Lepenski Vir archaeological site.", "Supports a diverse and strictly protected range of flora and fauna.", "Served for millennia as a vital historical commercial route along the Danube.", "Defined by dramatic cliffs and unique fluvial landscapes.", "Regarded as one of the most iconic natural reserves in the country."], image: "/poi-images/nature-djerdap-national-park.webp",
+    description: {
+      de: "Der Djerdap-Nationalpark erstreckt sich entlang der Donau und beherbergt das beeindruckende Eiserne Tor. Er bietet reiche archäologische Stätten und vielfältige Naturschönheiten.",
+      hu: "A Vaskapu Nemzeti Park (Djerdap) a Duna mentén húzódik, és a lenyűgöző Vaskapu-szorost foglalja magában. Gazdag régészeti lelőhelyekkel és változatos természeti szépségekkel büszkélkedhet.",
+      ro: "Parcul Național Porțile de Fier (Djerdap) se întinde de-a lungul fluviului Dunărea, cuprinzând impresionantul defileu Porțile de Fier. Se mândrește cu situri arheologice bogate și frumuseți naturale diverse.",
+      en: "Djerdap National Park stretches along the Danube River, featuring the impressive Iron Gates gorge. It boasts rich archaeological sites and diverse natural beauty."
+    },
+    facts: {
+      de: ["Beinhaltet die Schlucht Eisernes Tor an der Donau.", "Heimat der antiken Ausgrabungsstätte Lepenski Vir.", "Der größte Nationalpark in Serbien."],
+      hu: ["Magában foglalja a Vaskapu-szorost a Dunán.", "Az ősi Lepenski Vir régészeti lelőhely otthona.", "Szerbia legnagyobb nemzeti parkja."],
+      ro: ["Conține defileul Porțile de Fier de pe Dunăre.", "Adăpostește vechiul sit arheologic Lepenski Vir.", "Cel mai mare parc național din Serbia."],
+      en: ["Contains the Iron Gates gorge on the Danube.", "Home to the ancient Lepenski Vir archaeological site.", "The largest national park in Serbia."]
+    }
+  },
   {
     id: "nature-kopaonik",
     descriptionAdvanced: { 
@@ -114,7 +191,19 @@ export const serbiaPoiExtraOther = ([
         en: ["Highest peak: Pančićev Vrh (2,017 meters).", "Functions as the largest and most developed ski resort in Serbia.", "Boasts over 200 sunny days annually.", "Provides a habitat for numerous rare plant and animal species.", "Acts as an ideal destination for summer mountain tourism.", "Maintains protected biodiversity through National Park status."] 
     },
     descriptionAdvancedEn: "Kopaonik, frequently called the 'Mountain of the Sun,' stands as the largest mountain range in Serbia and the country's premier ski resort. During the winter months, it attracts thousands of athletes and tourists to its well-maintained slopes, while summer transforms the peaks into an ideal refuge for hiking, cycling, and health tourism. The Kopaonik National Park protects a remarkable level of biodiversity, including rare conifer forests and protected plant species. Sports K7 — winter sports and year-round mountain tourism.",
-    factsAdvancedEn: ["Highest peak: Pančićev Vrh (2,017 meters).", "Functions as the largest and most developed ski resort in Serbia.", "Boasts over 200 sunny days annually.", "Provides a habitat for numerous rare plant and animal species.", "Acts as an ideal destination for summer mountain tourism.", "Maintains protected biodiversity through National Park status."]
+    factsAdvancedEn: ["Highest peak: Pančićev Vrh (2,017 meters).", "Functions as the largest and most developed ski resort in Serbia.", "Boasts over 200 sunny days annually.", "Provides a habitat for numerous rare plant and animal species.", "Acts as an ideal destination for summer mountain tourism.", "Maintains protected biodiversity through National Park status."],
+    description: {
+      de: "Kopaonik ist das größte Gebirge Serbiens und ein erstklassiges Ziel für Wintersport. Im Sommer bietet es hervorragende Wandermöglichkeiten und eine atemberaubende alpine Landschaft.",
+      hu: "A Kopaonik Szerbia legnagyobb hegysége és a téli sportok első számú célpontja. Nyáron kiváló túrázási lehetőségeket és lenyűgöző alpesi tájat kínál.",
+      ro: "Kopaonik este cel mai mare lanț muntos din Serbia și o destinație de top pentru sporturile de iarnă. Vara, oferă drumeții excelente și peisaje alpine uimitoare.",
+      en: "Kopaonik is the largest mountain range in Serbia and a premier destination for winter sports. In summer, it offers excellent hiking and stunning alpine scenery."
+    },
+    facts: {
+      de: ["Serbiens größtes und bekanntestes Skigebiet.", "Wegen seiner vielen Sonnentage als 'Berg der Sonne' bekannt.", "1981 zum Nationalpark erklärt."],
+      hu: ["Szerbia legnagyobb és leghíresebb síközpontja.", "A sok napsütéses nap miatt 'A Nap hegyeként' ismert.", "1981-ben nyilvánították nemzeti parkká."],
+      ro: ["Cea mai mare și mai faimoasă stațiune de schi din Serbia.", "Cunoscut drept 'Muntele Soarelui' pentru numeroasele sale zile însorite.", "Desemnat parc național în 1981."],
+      en: ["Serbia's largest and most famous ski resort.", "Known as the 'Mountain of the Sun' for its many sunny days.", "Designated as a national park in 1981."]
+    }
   },
   {
     id: "nature-fruska-gora",
@@ -131,7 +220,19 @@ export const serbiaPoiExtraOther = ([
         en: ["Protected as a National Park since 1960.", "Home to a famous historic network of Orthodox monasteries.", "Renowned viticultural region, particularly famous for dessert wines.", "Located in the immediate vicinity of the city of Novi Sad.", "Harbors numerous rare plant species.", "Acts as a distinct island of mountain relief within the Pannonian Plain."] 
     },
     descriptionAdvancedEn: "Fruška Gora is a solitary mountain rising from the middle of the Pannonian Plain, celebrated for its excellent vineyards and numerous Orthodox monasteries tucked away within its forests, earning it the nickname the 'Serbian Athos.' The National Park provides a variety of trails for hiking and cycling, serving as a tranquil oasis in close proximity to Novi Sad. The region's viticultural tradition, particularly noted for its high-quality dessert wines, has been cultivated for centuries. Geography K6 — isolated mountain ranges within lowland plains.",
-    factsAdvancedEn: ["Protected as a National Park since 1960.", "Home to a famous historic network of Orthodox monasteries.", "Renowned viticultural region, particularly famous for dessert wines.", "Located in the immediate vicinity of the city of Novi Sad.", "Harbors numerous rare plant species.", "Acts as a distinct island of mountain relief within the Pannonian Plain."]
+    factsAdvancedEn: ["Protected as a National Park since 1960.", "Home to a famous historic network of Orthodox monasteries.", "Renowned viticultural region, particularly famous for dessert wines.", "Located in the immediate vicinity of the city of Novi Sad.", "Harbors numerous rare plant species.", "Acts as a distinct island of mountain relief within the Pannonian Plain."],
+    description: {
+      de: "Fruška Gora ist ein wunderschönes Gebirge und Nationalpark in der Vojvodina, berühmt für seine sanften Hügel, Weinberge und historischen orthodoxen Klöster. Er wird oft als das 'Juwel Serbiens' bezeichnet.",
+      hu: "A Fruška Gora (Tarcal-hegység) egy gyönyörű hegység és nemzeti park a Vajdaságban, amely dombjairól, szőlőültetvényeiről és történelmi ortodox kolostorairól híres. Gyakran nevezik 'Szerbia ékkövének'.",
+      ro: "Fruška Gora este un munte frumos și un parc național din Voivodina, faimos pentru dealurile sale, podgoriile și mănăstirile ortodoxe istorice. Este adesea numit 'Bijuteria Serbiei'.",
+      en: "Fruška Gora is a beautiful mountain and national park in Vojvodina, famous for its rolling hills, vineyards, and historic Orthodox monasteries. It is often referred to as the 'Jewel of Serbia'."
+    },
+    facts: {
+      de: ["Heimat von 16 historischen orthodoxen Klöstern.", "Serbiens ältester Nationalpark.", "Bekannt für seine ausgezeichnete Weinproduktion."],
+      hu: ["16 történelmi ortodox kolostor otthona.", "Szerbia legrégebbi nemzeti parkja.", "Kiváló bortermeléséről híres."],
+      ro: ["Găzduiește 16 mănăstiri ortodoxe istorice.", "Cel mai vechi parc național din Serbia.", "Renumit pentru producția sa excelentă de vin."],
+      en: ["Home to 16 historic Orthodox monasteries.", "Serbia's oldest national park.", "Renowned for its excellent wine production."]
+    }
   },
   {
     id: "nature-uvac",

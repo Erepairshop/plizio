@@ -1,0 +1,54 @@
+{
+  "lang": "hu",
+  "country": "Angola",
+  "files": [
+    "lib/visualLab/data/poiExtraAngolaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rio-lungue-bungo-nature-v2",
+      "description": "Az angolai Lungue Bungo folyó gazdag élővilágával és vízrendszerével tűnik ki.",
+      "facts": ["vízi világ", "ökológiai jelentőség", "természeti táj"]
+    },
+    {
+      "id": "monte-serra-da-leba-nature-v2",
+      "description": "Lenyűgöző hegyvonulat, amely látványos kanyargós útjáról ismert.",
+      "facts": ["hegyi táj", "panoráma", "természeti látványosság"]
+    },
+    {
+      "id": "floresta-do-bengo-nature-v2",
+      "description": "Bengo tartomány erdőségei, amelyek fontos szerepet töltenek be a helyi ökoszisztémában.",
+      "facts": ["erdővidék", "biológiai sokféleség", "növényvilág"]
+    },
+    {
+      "id": "lago-mungue-nature-v2",
+      "description": "Csendes és szép tó, amely Angola természeti kincsei közé tartozik.",
+      "facts": ["állóvíz", "természeti környezet", "ökológia"]
+    },
+    {
+      "id": "monte-bue-nature-v2",
+      "description": "Angola egyik hegycsúcsa, amely a környező régió természeti szépségét adja.",
+      "facts": ["hegyvidék", "természeti kilátás", "geográfia"]
+    },
+    {
+      "id": "rio-kwango-nature-v2",
+      "description": "Jelentős folyó, amely Angola és a Kongói Demokratikus Köztársaság határvidékét érinti.",
+      "facts": ["folyóvölgy", "vízrajz", "határfolyó"]
+    },
+    {
+      "id": "monte-boco-nature-v2",
+      "description": "Kisebb hegyi terület, amely a környező táj jellegzetes része.",
+      "facts": ["hegyvonulat", "tájformálás", "geográfia"]
+    },
+    {
+      "id": "rio-cuango-nature-v2",
+      "description": "Az ország egyik meghatározó folyója, amely az északi régiót táplálja.",
+      "facts": ["vízrendszer", "ökológiai zóna", "folyó"]
+    },
+    {
+      "id": "rio-kassai-nature-v2",
+      "description": "Fontos vízfolyás, amely kiterjedt völgyrendszerével meghatározza a tájat.",
+      "facts": ["folyó", "vízrajzi elem", "természeti érték"]
+    }
+  ]
+}

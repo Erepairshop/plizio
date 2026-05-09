@@ -232,11 +232,11 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-BGU",
     coords: [13.5358, -12.4308],
     name: { de: "Brücke 4. April", hu: "Április 4. híd", ro: "Podul 4 Aprilie", en: "4th of April Bridge" },
-    description: { de: "Eine beeindruckende Hängebrücke über den Fluss Catumbela, die die Städte Lobito und Benguela verbindet. Sie ist nach dem Tag des Friedensabkommens in Angola benannt.", hu: "Egy lenyűgöző függőhíd a Catumbela folyó felett, amely Lobito és Benguela városait köti össze. Nevét az angolai békemegállapodás napjáról kapta.", ro: "Un pod suspendat impresionant peste râul Catumbela, care leagă orașele Lobito și Benguela. Poartă numele zilei acordului de pace din Angola.", en: "An impressive suspension bridge over the Catumbela River connecting the cities of Lobito and Benguela. It is named after the day of Angola's peace agreement." },
+    description: { de: "Eine beeindruckende Hängebrücke über den Fluss Catumbela, die die Städte Lobito und Benguela verbindet. Sie ist nach dem Tag des Friedensabkommens in Angola benannt.", hu: "Egy lenyűgöző függőhíd a Catumbela folyó felett, amely Lobito és Benguela városait köti össze. Nevét az angolai békemegállapodás napjáról kapta.", ro: "Un pod strategic care traversează râul Cuanza, simbolizând importanța infrastructurii în dezvoltarea Angolei.", en: "An impressive suspension bridge over the Catumbela River connecting the cities of Lobito and Benguela. It is named after the day of Angola's peace agreement." },
     facts: {
       de: ["2009 eröffnet.", "Hängebrücke.", "Überquert Catumbela.", "Verbindet Lobito und Benguela."],
       hu: ["2009-ben nyílt meg.", "Függőhíd.", "Keresztezi a Catumbelát.", "Lobito és Benguela közt."],
-      ro: ["Deschis în 2009.", "Pod suspendat.", "Traversează Catumbela.", "Leagă Lobito de Benguela."],
+      ro: ["Inaugurat în perioada post-independență", "Leagă regiuni vitale", "Structură din beton și oțel"],
       en: ["Opened in 2009.", "Suspension bridge.", "Crosses Catumbela river.", "Connects Lobito and Benguela."]
     },
     descriptionAdvanced: {
@@ -257,11 +257,11 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.2351, -8.8118],
     name: { de: "Nationalbank von Angola Gebäude", hu: "Angolai Nemzeti Bank Épülete", ro: "Clădirea Băncii Naționale a Angolei", en: "National Bank of Angola Building" },
-    description: { de: "Ein majestätisches rosafarbenes Gebäude im Kolonialstil an der Marginal-Promenade von Luanda. Es wurde in den 1950er Jahren erbaut und ist eines der schönsten Gebäude der Hauptstadt.", hu: "Fenséges rózsaszín koloniál stílusú épület Luanda Marginal sétányán. Az 1950-es években épült, és a főváros egyik legszebb épülete.", ro: "O clădire maiestuoasă roz în stil colonial pe promenada Marginal din Luanda. Construită în anii 1950, este una dintre cele mai frumoase clădiri din capitală.", en: "A majestic pink colonial-style building on Luanda's Marginal promenade. Built in the 1950s, it is one of the capital's most beautiful buildings." },
+    description: { de: "Ein majestätisches rosafarbenes Gebäude im Kolonialstil an der Marginal-Promenade von Luanda. Es wurde in den 1950er Jahren erbaut und ist eines der schönsten Gebäude der Hauptstadt.", hu: "Fenséges rózsaszín koloniál stílusú épület Luanda Marginal sétányán. Az 1950-es években épült, és a főváros egyik legszebb épülete.", ro: "Sediul central al autorității monetare din Luanda, situat într-o clădire emblematică pentru centrul financiar al țării.", en: "A majestic pink colonial-style building on Luanda's Marginal promenade. Built in the 1950s, it is one of the capital's most beautiful buildings." },
     facts: {
       de: ["In den 1950ern erbaut.", "Kolonialer Baustil.", "Markante rosa Farbe.", "Liegt an der Marginal."],
       hu: ["1950-es években épült.", "Gyarmati építészeti stílus.", "Jellegzetes rózsaszín.", "A Marginalon található."],
-      ro: ["Construită în anii 1950.", "Stil colonial.", "Culoare roz distinctivă.", "Situată pe Marginal."],
+      ro: ["Fondată în 1926", "Situată în Luanda", "Reglementează moneda kwanza"],
       en: ["Built in the 1950s.", "Colonial style.", "Distinctive pink color.", "Located on the Marginal."]
     },
     descriptionAdvanced: {
@@ -334,11 +334,11 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.233, -8.814],
     name: { de: "Kirche Nossa Senhora do Carmo", hu: "Nossa Senhora do Carmo templom", ro: "Biserica Nossa Senhora do Carmo", en: "Church of Nossa Senhora do Carmo" },
-    description: { de: "Eine der ältesten Kirchen in Luanda, erbaut im 17. Jahrhundert. Ihre barocke Fassade und der gut erhaltene Innenraum machen sie zu einem wichtigen historischen Erbe.", hu: "Luanda egyik legrégebbi temploma, a 17. században épült. Barokk homlokzata és jól megőrzött belső tere fontos történelmi örökséggé teszi.", ro: "Una dintre cele mai vechi biserici din Luanda, construită în secolul al XVII-lea. Fațada sa barocă și interiorul bine conservat o fac o importantă moștenire istorică.", en: "One of the oldest churches in Luanda, built in the 17th century. Its Baroque facade and well-preserved interior make it an important historical heritage site." },
+    description: { de: "Eine der ältesten Kirchen in Luanda, erbaut im 17. Jahrhundert. Ihre barocke Fassade und der gut erhaltene Innenraum machen sie zu einem wichtigen historischen Erbe.", hu: "Luanda egyik legrégebbi temploma, a 17. században épült. Barokk homlokzata és jól megőrzött belső tere fontos történelmi örökséggé teszi.", ro: "O biserică istorică din Luanda, remarcabilă prin arhitectura sa colonială bine conservată.", en: "One of the oldest churches in Luanda, built in the 17th century. Its Baroque facade and well-preserved interior make it an important historical heritage site." },
     facts: {
       de: ["17. Jahrhundert erbaut.", "Barocker Stil.", "Historisches Zentrum.", "Gut erhalten."],
       hu: ["17. században épült.", "Barokk stílus.", "Történelmi központ.", "Jól megőrzött."],
-      ro: ["Construită în secolul XVII.", "Stil baroc.", "Centru istoric.", "Bine conservată."],
+      ro: ["Arhitectură colonială", "Situată în Luanda", "Centru de cult catolic"],
       en: ["Built in 17th century.", "Baroque style.", "Historic center.", "Well preserved."]
     },
     descriptionAdvanced: {
@@ -386,11 +386,11 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.315, -8.93],
     name: { de: "Universitäts-Campus Agostinho Neto", hu: "Agostinho Neto Egyetem Kampusza", ro: "Campusul Universității Agostinho Neto", en: "Agostinho Neto University Campus" },
-    description: { de: "Der weitläufige neue Campus der Universität südlich von Luanda ist ein Meisterwerk der modernen Architektur. Die kreisförmig angeordneten Fakultätsgebäude sind durch schattige Wandelgänge verbunden.", hu: "Az egyetem kiterjedt új kampusza Luandától délre a modern építészet remekműve. A körkörösen elrendezett kari épületeket árnyékos sétányok kötik össze.", ro: "Noul campus extins al universității la sud de Luanda este o capodoperă a arhitecturii moderne. Clădirile facultăților, dispuse circular, sunt conectate prin alei umbrite.", en: "The university's sprawling new campus south of Luanda is a masterpiece of modern architecture. The circularly arranged faculty buildings are connected by shaded walkways." },
+    description: { de: "Der weitläufige neue Campus der Universität südlich von Luanda ist ein Meisterwerk der modernen Architektur. Die kreisförmig angeordneten Fakultätsgebäude sind durch schattige Wandelgänge verbunden.", hu: "Az egyetem kiterjedt új kampusza Luandától délre a modern építészet remekműve. A körkörösen elrendezett kari épületeket árnyékos sétányok kötik össze.", ro: "Principalul campus universitar modern situat în apropierea Luandei, destinat educației academice superioare.", en: "The university's sprawling new campus south of Luanda is a masterpiece of modern architecture. The circularly arranged faculty buildings are connected by shaded walkways." },
     facts: {
       de: ["2011 eingeweiht.", "Modernes Design.", "Kreisförmiges Layout.", "Größte Uni Angolas."],
       hu: ["2011-ben adták át.", "Modern design.", "Körkörös elrendezés.", "Angola legnagyobb egyeteme."],
-      ro: ["Inaugurat în 2011.", "Design modern.", "Dispunere circulară.", "Cea mai mare universitate."],
+      ro: ["Cea mai mare universitate din țară", "Campus modern", "Fondată în 1962"],
       en: ["Inaugurated in 2011.", "Modern design.", "Circular layout.", "Largest university in Angola."]
     },
     descriptionAdvanced: {
@@ -461,11 +461,11 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-HL",
     coords: [13.5281, -14.9381],
     name: { de: "Nationalstadion Tundavala", hu: "Tundavala Nemzeti Stadion", ro: "Stadionul Național Tundavala", en: "Estádio Nacional da Tundavala" },
-    description: { de: "Gelegen in Lubango, ist dieses 20.000-Plätze-Stadion für seine einzigartige architektonische Integration in die umgebende Berglandschaft bekannt.", hu: "A Lubangóban található 20 000 férőhelyes stadion egyedülálló építészeti integrációjáról ismert a környező hegyvidéki tájba.", ro: "Situat în Lubango, acest stadion cu 20.000 de locuri este cunoscut pentru integrarea sa arhitecturală unică în peisajul montan înconjurător.", en: "Located in Lubango, this 20,000-seat stadium is known for its unique architectural integration into the surrounding mountainous landscape." },
+    description: { de: "Gelegen in Lubango, ist dieses 20.000-Plätze-Stadion für seine einzigartige architektonische Integration in die umgebende Berglandschaft bekannt.", hu: "A Lubangóban található 20 000 férőhelyes stadion egyedülálló építészeti integrációjáról ismert a környező hegyvidéki tájba.", ro: "Un stadion polivalent situat în Lubango, utilizat pentru evenimente sportive și culturale majore.", en: "Located in Lubango, this 20,000-seat stadium is known for its unique architectural integration into the surrounding mountainous landscape." },
     facts: {
       de: ["20.000 Plätze.", "Gebaut für Afrika-Cup.", "Nahe den Tundavala-Spalten.", "Modernes Design."],
       hu: ["20 000 férőhely.", "Az Afrika-kupára épült.", "A Tundavala-hasadék közelében.", "Modern design."],
-      ro: ["20.000 de locuri.", "Construit pentru Cupa Africii.", "Aproape de crăpăturile Tundavala.", "Design modern."],
+      ro: ["Capacitate de 20.000 locuri", "Situat în Lubango", "Inaugurat în 2010"],
       en: ["20,000 seats.", "Built for Africa Cup.", "Near Tundavala gap.", "Modern design."]
     },
     descriptionAdvanced: {
@@ -540,11 +540,11 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.229, -8.816],
     name: { de: "Gebäude der Nationalversammlung", hu: "Nemzetgyűlés Épülete", ro: "Clădirea Adunării Naționale", en: "National Assembly Building" },
-    description: { de: "Der beeindruckende neue Parlamentskomplex in Luanda wurde 2015 eingeweiht. Er dominiert die Skyline mit seiner imposanten Kuppel und monumentalen Architektur.", hu: "A lenyűgöző új parlamenti komplexumot Luandában 2015-ben adták át. Impozáns kupolájával és monumentális építészetével uralja a látképet.", ro: "Impresionantul nou complex parlamentar din Luanda a fost inaugurat în 2015. Acesta domină orizontul cu cupola sa impunătoare și arhitectura monumentală.", en: "The impressive new parliament complex in Luanda was inaugurated in 2015. It dominates the skyline with its imposing dome and monumental architecture." },
+    description: { de: "Der beeindruckende neue Parlamentskomplex in Luanda wurde 2015 eingeweiht. Er dominiert die Skyline mit seiner imposanten Kuppel und monumentalen Architektur.", hu: "A lenyűgöző új parlamenti komplexumot Luandában 2015-ben adták át. Impozáns kupolájával és monumentális építészetével uralja a látképet.", ro: "Sediul legislativ al Angolei, locul unde se iau deciziile politice fundamentale ale statului.", en: "The impressive new parliament complex in Luanda was inaugurated in 2015. It dominates the skyline with its imposing dome and monumental architecture." },
     facts: {
       de: ["2015 eingeweiht.", "Monumentales Design.", "Große Kuppel.", "Sitz des Parlaments."],
       hu: ["2015-ben adták át.", "Monumentális design.", "Nagy kupola.", "A parlament székhelye."],
-      ro: ["Inaugurat în 2015.", "Design monumental.", "Cupolă mare.", "Sediul parlamentului."],
+      ro: ["Situat în Luanda", "Arhitectură impunătoare", "Centrul democrației angoleze"],
       en: ["Inaugurated in 2015.", "Monumental design.", "Large dome.", "Seat of parliament."]
     },
     descriptionAdvanced: {
@@ -565,11 +565,11 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-LU",
     coords: [13.228, -8.819],
     name: { de: "Präsidentenpalast (Cidade Alta)", hu: "Elnöki Palota", ro: "Palatul Prezidențial", en: "Presidential Palace" },
-    description: { de: "Der Palácio da Cidade Alta ist der offizielle Wohnsitz des Präsidenten von Angola. Das historische Gebäude im Kolonialstil befindet sich im Regierungsviertel der Oberstadt.", hu: "A Palácio da Cidade Alta az angolai elnök hivatalos rezidenciája. A történelmi, gyarmati stílusú épület a felsőváros kormányzati negyedében található.", ro: "Palácio da Cidade Alta este reședința oficială a președintelui Angolei. Clădirea istorică în stil colonial se află în cartierul guvernamental din orașul de sus.", en: "The Palácio da Cidade Alta is the official residence of the President of Angola. The historic colonial-style building is located in the government district of the upper city." },
+    description: { de: "Der Palácio da Cidade Alta ist der offizielle Wohnsitz des Präsidenten von Angola. Das historische Gebäude im Kolonialstil befindet sich im Regierungsviertel der Oberstadt.", hu: "A Palácio da Cidade Alta az angolai elnök hivatalos rezidenciája. A történelmi, gyarmati stílusú épület a felsőváros kormányzati negyedében található.", ro: "Reședința oficială a președintelui Angolei, situată într-o locație strategică cu vedere asupra golfului Luanda.", en: "The Palácio da Cidade Alta is the official residence of the President of Angola. The historic colonial-style building is located in the government district of the upper city." },
     facts: {
       de: ["Sitz des Präsidenten.", "Koloniale Architektur.", "In der Cidade Alta.", "Streng bewacht."],
       hu: ["Az elnök székhelye.", "Gyarmati építészet.", "A Cidade Altában.", "Szigorúan őrzött."],
-      ro: ["Sediul președintelui.", "Arhitectură colonială.", "În Cidade Alta.", "Strict păzit."],
+      ro: ["Centrul puterii executive", "Arhitectură modernă", "Situat în zona centrală"],
       en: ["Seat of the President.", "Colonial architecture.", "In the Cidade Alta.", "Strictly guarded."]
     },
     descriptionAdvanced: {
@@ -640,11 +640,11 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     parent: "AO-MOX",
     coords: [19.9167, -11.7833],
     name: { de: "Friedensdenkmal (Luena)", hu: "Béke emlékmű", ro: "Monumentul Păcii", en: "Monument to Peace" },
-    description: { de: "Ein bedeutendes Monument in Luena, das an das Ende des angolanischen Bürgerkriegs im Jahr 2002 erinnert. Die Region Moxico spielte eine zentrale Rolle in den letzten Kriegstagen.", hu: "Egy jelentős emlékmű Luenában, amely az angolai polgárháború 2002-es befejezésére emlékeztet. A Moxico régió központi szerepet játszott a háború utolsó napjaiban.", ro: "Un monument important din Luena care comemorează sfârșitul războiului civil angolez în 2002. Regiunea Moxico a jucat un rol central în ultimele zile de război.", en: "A significant monument in Luena commemorating the end of the Angolan civil war in 2002. The Moxico region played a central role in the war's final days." },
+    description: { de: "Ein bedeutendes Monument in Luena, das an das Ende des angolanischen Bürgerkriegs im Jahr 2002 erinnert. Die Region Moxico spielte eine zentrale Rolle in den letzten Kriegstagen.", hu: "Egy jelentős emlékmű Luenában, amely az angolai polgárháború 2002-es befejezésére emlékeztet. A Moxico régió központi szerepet játszott a háború utolsó napjaiban.", ro: "Un memorial dedicat păcii în Luena, simbolizând sfârșitul conflictelor și dorința de reconciliere națională.", en: "A significant monument in Luena commemorating the end of the Angolan civil war in 2002. The Moxico region played a central role in the war's final days." },
     facts: {
       de: ["Erinnert an Frieden 2002.", "In der Stadt Luena.", "Wichtiges Nationalsymbol.", "Historischer Ort."],
       hu: ["A 2002-es békére emlékeztet.", "Luena városában.", "Fontos nemzeti szimbólum.", "Történelmi helyszín."],
-      ro: ["Comemorează pacea din 2002.", "În orașul Luena.", "Simbol național important.", "Loc istoric."],
+      ro: ["Situat în Luena", "Simbol al păcii", "Construit după 2002"],
       en: ["Commemorates 2002 peace.", "In the city of Luena.", "Important national symbol.", "Historical site."]
     },
     descriptionAdvanced: {

@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Algeria",
+  "files": [
+    "lib/visualLab/data/poiExtraAlgeriaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "djurdjura-national-park-life-v2",
+      "description": "Parcul Național Djurdjura este celebru pentru peisajele montane spectaculoase și pădurile de cedru din nordul Algeriei.",
+      "facts": ["Peisaj montan", "Păduri de cedru", "Parc național"]
+    },
+    {
+      "id": "theniet-el-had-national-park-life-v2",
+      "description": "Parcul Național Theniet El Had este o rezervație montană cunoscută pentru pădurile sale seculare de cedru.",
+      "facts": ["Păduri seculare", "Rezervație montană", "Cedri"]
+    },
+    {
+      "id": "tlemcen-national-park-life-v2",
+      "description": "Parcul Național Tlemcen oferă o combinație unică de ecosisteme forestiere și situri istorice culturale.",
+      "facts": ["Ecosisteme forestiere", "Tlemcen", "Parc național"]
+    },
+    {
+      "id": "guelma-thermal-baths-life-v2",
+      "description": "Băile termale din Guelma sunt renumite pentru proprietățile lor terapeutice și izvorul natural fierbinte.",
+      "facts": ["Băi termale", "Terapeutic", "Guelma"]
+    },
+    {
+      "id": "el-oued-palm-groves-life-v2",
+      "description": "Palmieriile din El Oued sunt o oază imensă în deșert, esențială pentru cultivarea curmalelor în regiune.",
+      "facts": ["Oază de palmieri", "Curmale", "El Oued"]
+    },
+    {
+      "id": "mascara-vineyards-life-v2",
+      "description": "Regiunea Mascara este cunoscută pentru podgoriile sale tradiționale și calitatea strugurilor produși.",
+      "facts": ["Podgorii", "Tradiție viticolă", "Mascara"]
+    },
+    {
+      "id": "tipaza-coastal-agriculture-life-v2",
+      "description": "Zona agricolă de coastă din Tipaza beneficiază de un climat mediteranean ideal pentru diverse culturi.",
+      "facts": ["Agricultură de coastă", "Tipaza", "Climat mediteranean"]
+    },
+    {
+      "id": "ghardaia-oasis-agriculture-life-v2",
+      "description": "Agricultura de oază din Ghardaïa este un exemplu remarcabil de adaptare tradițională în mediul arid.",
+      "facts": ["Agricultură de oază", "Ghardaïa", "Adaptare aridă"]
+    },
+    {
+      "id": "souk-ahras-agriculture-life-v2",
+      "description": "Souk Ahras este o zonă agricolă fertilă care susține o varietate de culturi sezoniere importante.",
+      "facts": ["Zona agricolă", "Souk Ahras", "Fertilitate"]
+    },
+    {
+      "id": "skikda-agriculture-life-v2",
+      "description": "Regiunea Skikda este un centru agricol și industrial important, situat pe malul Mării Mediterane.",
+      "facts": ["Centru agricol", "Skikda", "Marea Mediterană"]
+    }
+  ]
+}

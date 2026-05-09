@@ -17,7 +17,19 @@ export const serbiaPoiExtraCities = ([
         ro: ["Populație de aproximativ 1,7 milioane de locuitori", "Unul dintre cele mai vechi orașe locuite continuu din Europa", "Cetatea Kalemegdan acoperă peste 50 de hectare", "Zemun păstrează arhitectura tipică fostei monarhii austro-ungare", "Capitala Serbiei din anul 1403", "Gazdă a numeroase festivaluri internaționale de muzică și film"], 
         en: ["Home to over 1.7 million residents.", "One of Europe's oldest continuously inhabited cities.", "The Kalemegdan Fortress spans over 50 hectares.", "The historic Zemun district retains its Austro-Hungarian architectural style.", "Official capital of Serbia since 1403.", "Hosts numerous international music and film festivals.", "Situated at the strategic confluence of the Sava and Danube rivers."] 
     },
-    factsAdvancedEn: ["Home to over 1.7 million residents.", "One of Europe's oldest continuously inhabited cities.", "The Kalemegdan Fortress spans over 50 hectares.", "The historic Zemun district retains its Austro-Hungarian architectural style.", "Official capital of Serbia since 1403.", "Hosts numerous international music and film festivals.", "Situated at the strategic confluence of the Sava and Danube rivers."]
+    factsAdvancedEn: ["Home to over 1.7 million residents.", "One of Europe's oldest continuously inhabited cities.", "The Kalemegdan Fortress spans over 50 hectares.", "The historic Zemun district retains its Austro-Hungarian architectural style.", "Official capital of Serbia since 1403.", "Hosts numerous international music and film festivals.", "Situated at the strategic confluence of the Sava and Danube rivers."],
+    description: {
+      de: "Belgrad ist die Hauptstadt und größte Stadt Serbiens und liegt am Zusammenfluss von Save und Donau.",
+      hu: "Belgrád Szerbia fővárosa és legnagyobb városa, amely a Száva és a Duna összefolyásánál fekszik.",
+      ro: "Belgrad este capitala și cel mai mare oraș al Serbiei, situat la confluența râurilor Sava și Dunărea.",
+      en: "Belgrade is the capital and largest city of Serbia, located at the confluence of the Sava and Danube rivers."
+    },
+    facts: {
+      de: ["Es ist eine der ältesten durchgehend bewohnten Städte Europas.", "Die Festung von Belgrad ist ein bedeutendes historisches Wahrzeichen.", "Die Stadt ist für ihr pulsierendes Nachtleben bekannt."],
+      hu: ["Európa egyik legrégebbi, folyamatosan lakott városa.", "A belgrádi erőd jelentős történelmi nevezetesség.", "A város híres nyüzsgő éjszakai életéről."],
+      ro: ["Este unul dintre cele mai vechi orașe locuite continuu din Europa.", "Fortăreața Belgrad este un important punct de reper istoric.", "Orașul este cunoscut pentru viața sa de noapte vibrantă."],
+      en: ["It is one of the oldest continuously inhabited cities in Europe.", "The Belgrade Fortress is a major historical landmark.", "It is known for its vibrant nightlife."]
+    }
   },
   {
     id: "city-novi-sad",
@@ -34,7 +46,20 @@ export const serbiaPoiExtraCities = ([
         ro: ["Populație de peste 300.000 de locuitori", "Capitală Culturală Europeană în 2022", "Cetatea Petrovaradin găzduiește festivalul EXIT", "Piața Libertății găzduiește Primăria și Catedrala Catolică", "Centrul universitar al Voivodinei", "Punct de confluență între culturile central-europene"], 
         en: ["Population of over 300,000.", "Designated European Capital of Culture in 2022.", "The Petrovaradin Fortress hosts the internationally acclaimed EXIT music festival.", "Liberty Square features the historic Town Hall and the Catholic Cathedral.", "Serves as the academic heart of the Vojvodina region.", "Acts as a cultural junction between Central European and Balkan influences."] 
     },
-    factsAdvancedEn: ["Population of over 300,000.", "Designated European Capital of Culture in 2022.", "The Petrovaradin Fortress hosts the internationally acclaimed EXIT music festival.", "Liberty Square features the historic Town Hall and the Catholic Cathedral.", "Serves as the academic heart of the Vojvodina region.", "Acts as a cultural junction between Central European and Balkan influences."], image: "/poi-images/city-novi-sad.webp"},
+    factsAdvancedEn: ["Population of over 300,000.", "Designated European Capital of Culture in 2022.", "The Petrovaradin Fortress hosts the internationally acclaimed EXIT music festival.", "Liberty Square features the historic Town Hall and the Catholic Cathedral.", "Serves as the academic heart of the Vojvodina region.", "Acts as a cultural junction between Central European and Balkan influences."], image: "/poi-images/city-novi-sad.webp",
+    description: {
+      de: "Novi Sad ist die zweitgrößte Stadt Serbiens und die Hauptstadt der Provinz Vojvodina.",
+      hu: "Újvidék Szerbia második legnagyobb városa és a Vajdaság tartomány székhelye.",
+      ro: "Novi Sad este al doilea oraș ca mărime din Serbia și capitala provinciei Voivodina.",
+      en: "Novi Sad is the second-largest city in Serbia and the capital of the Vojvodina province."
+    },
+    facts: {
+      de: ["Sie liegt an den Ufern der Donau.", "Die Festung Petrovaradin überblickt die Stadt.", "Jährlich findet hier das berühmte EXIT-Musikfestival statt."],
+      hu: ["A város a Duna partján fekszik.", "A péterváradi erőd a város fölé magasodik.", "Itt rendezik meg évente a híres EXIT zenei fesztivált."],
+      ro: ["Este situat pe malurile fluviului Dunărea.", "Fortăreața Petrovaradin domină orașul.", "Găzduiește anual celebrul festival de muzică EXIT."],
+      en: ["It is situated on the banks of the Danube river.", "The Petrovaradin Fortress overlooks the city.", "It hosts the famous EXIT music festival annually."]
+    }
+  },
   {
     id: "city-nis",
     descriptionAdvanced: { 
@@ -50,7 +75,20 @@ export const serbiaPoiExtraCities = ([
         ro: ["Populație de aproximativ 250.000 de locuitori", "Locul de naștere al împăratului Constantin cel Mare", "Cetatea Niș este una dintre cele mai bine conservate fortificații otomane", "Turnul Craniilor (Ćele Kula) este un monument unic în lume", "Orașul este traversat de râul Nišava", "Centru universitar important al regiunii"], 
         en: ["Home to approximately 250,000 people.", "Birthplace of Roman Emperor Constantine the Great.", "Niš Fortress is recognized as one of the best-preserved Ottoman fortifications in the region.", "The Skull Tower (Ćele Kula) is a globally unique and tragic historical monument.", "Located along the Nišava River.", "Serves as a major university and economic hub in Southern Serbia."] 
     },
-    factsAdvancedEn: ["Home to approximately 250,000 people.", "Birthplace of Roman Emperor Constantine the Great.", "Niš Fortress is recognized as one of the best-preserved Ottoman fortifications in the region.", "The Skull Tower (Ćele Kula) is a globally unique and tragic historical monument.", "Located along the Nišava River.", "Serves as a major university and economic hub in Southern Serbia."], image: "/poi-images/city-nis.webp"},
+    factsAdvancedEn: ["Home to approximately 250,000 people.", "Birthplace of Roman Emperor Constantine the Great.", "Niš Fortress is recognized as one of the best-preserved Ottoman fortifications in the region.", "The Skull Tower (Ćele Kula) is a globally unique and tragic historical monument.", "Located along the Nišava River.", "Serves as a major university and economic hub in Southern Serbia."], image: "/poi-images/city-nis.webp",
+    description: {
+      de: "Niš ist die drittgrößte Stadt Serbiens und ein wichtiges kulturelles und wirtschaftliches Zentrum im Süden.",
+      hu: "Niš Szerbia harmadik legnagyobb városa, a déli régió jelentős kulturális és gazdasági központja.",
+      ro: "Niș este al treilea oraș ca mărime din Serbia și un important centru cultural și economic în sud.",
+      en: "Niš is the third-largest city in Serbia and a major cultural and economic center in the south."
+    },
+    facts: {
+      de: ["Es ist der Geburtsort von Konstantin dem Großen.", "Die Festung von Niš ist ein gut erhaltenes Denkmal.", "Der Schädelturm ist eine einzigartige historische Stätte."],
+      hu: ["Itt született Nagy Konstantin császár.", "A niši erőd egy jól megőrzött műemlék.", "A Koponya-torony egyedülálló történelmi emlékhely."],
+      ro: ["Este locul de naștere al lui Constantin cel Mare.", "Fortăreața Niș este un monument bine conservat.", "Turnul Craniilor este un sit istoric unic."],
+      en: ["It is the birthplace of Constantine the Great.", "The Niš Fortress is a well-preserved monument.", "The Skull Tower is a unique historical site."]
+    }
+  },
   {
     id: "city-kragujevac",
     descriptionAdvanced: { 
@@ -66,7 +104,20 @@ export const serbiaPoiExtraCities = ([
         ro: ["Populație de circa 180.000 de locuitori", "Prima capitală a Serbiei moderne", "Gazdă a fabricii auto Zastava", "Parcul memorial Šumarice este un loc de comemorare tragică", "Centru universitar în inima Serbiei", "Situat pe râul Lepenica"], 
         en: ["Population of around 180,000.", "Served as the first capital of modern Serbia.", "Historical center of the Zastava automotive industry.", "Šumarice Memorial Park provides a somber site of commemoration.", "Major academic center in the heart of central Serbia.", "Situated along the banks of the Lepenica River."] 
     },
-    factsAdvancedEn: ["Population of around 180,000.", "Served as the first capital of modern Serbia.", "Historical center of the Zastava automotive industry.", "Šumarice Memorial Park provides a somber site of commemoration.", "Major academic center in the heart of central Serbia.", "Situated along the banks of the Lepenica River."], image: "/poi-images/city-kragujevac.webp"},
+    factsAdvancedEn: ["Population of around 180,000.", "Served as the first capital of modern Serbia.", "Historical center of the Zastava automotive industry.", "Šumarice Memorial Park provides a somber site of commemoration.", "Major academic center in the heart of central Serbia.", "Situated along the banks of the Lepenica River."], image: "/poi-images/city-kragujevac.webp",
+    description: {
+      de: "Kragujevac ist die viertgrößte Stadt Serbiens und liegt in der Region Šumadija.",
+      hu: "Kragujevac Szerbia negyedik legnagyobb városa, a Šumadija régióban található.",
+      ro: "Kragujevac este al patrulea oraș ca mărime din Serbia, situat în regiunea Šumadija.",
+      en: "Kragujevac is the fourth-largest city in Serbia, situated in the Šumadija region."
+    },
+    facts: {
+      de: ["Sie war im 19. Jahrhundert die erste Hauptstadt des modernen Serbien.", "Die Stadt hat eine starke Tradition in der Automobilindustrie.", "Der Gedenkpark Šumarice ehrt die Opfer des Zweiten Weltkriegs."],
+      hu: ["A 19. században a modern Szerbia első fővárosa volt.", "A város jelentős autóipari örökséggel rendelkezik.", "A Šumarice Emlékpark a második világháború áldozatai előtt tiszteleg."],
+      ro: ["A fost prima capitală a Serbiei moderne în secolul al XIX-lea.", "Orașul are o moștenire puternică în industria auto.", "Parcul Memorial Šumarice onorează victimele celui de-al Doilea Război Mondial."],
+      en: ["It was the first capital of modern Serbia in the 19th century.", "The city has a strong automotive industry heritage.", "The Šumarice Memorial Park honors WWII victims."]
+    }
+  },
   {
     id: "city-subotica",
     descriptionAdvanced: { 
@@ -82,7 +133,20 @@ export const serbiaPoiExtraCities = ([
         ro: ["Populație de circa 100.000 de locuitori", "Primăria este o capodoperă a stilului Secession", "Apropierea de lacul Palić", "Centru important al comunității maghiare din Serbia", "Oraș de frontieră strategic", "Bogată viață culturală"], 
         en: ["Population of approximately 100,000.", "The City Hall is considered a masterpiece of the Secession architectural style.", "Located in close proximity to the scenic Palić Lake.", "Key center for the Hungarian community in Serbia.", "Strategically located border city.", "Boasts a rich and active cultural life."] 
     },
-    factsAdvancedEn: ["Population of approximately 100,000.", "The City Hall is considered a masterpiece of the Secession architectural style.", "Located in close proximity to the scenic Palić Lake.", "Key center for the Hungarian community in Serbia.", "Strategically located border city.", "Boasts a rich and active cultural life."], image: "/poi-images/city-subotica.webp"},
+    factsAdvancedEn: ["Population of approximately 100,000.", "The City Hall is considered a masterpiece of the Secession architectural style.", "Located in close proximity to the scenic Palić Lake.", "Key center for the Hungarian community in Serbia.", "Strategically located border city.", "Boasts a rich and active cultural life."], image: "/poi-images/city-subotica.webp",
+    description: {
+      de: "Subotica ist eine Stadt im Norden Serbiens, bekannt für ihre ausgeprägte Jugendstilarchitektur.",
+      hu: "Szabadka Észak-Szerbia egyik városa, amely különleges szecessziós építészetéről ismert.",
+      ro: "Subotica este un oraș în nordul Serbiei, cunoscut pentru arhitectura sa distinctă Art Nouveau.",
+      en: "Subotica is a city in northern Serbia, known for its distinct Art Nouveau architecture."
+    },
+    facts: {
+      de: ["Sie liegt nahe der Grenze zu Ungarn.", "Das Rathaus ist ein Meisterwerk des ungarischen Jugendstils.", "Der Palić-See ist ein beliebtes nahes Ausflugsziel."],
+      hu: ["A magyar határ közelében fekszik.", "A városháza a magyar szecesszió remekműve.", "A Palicsi-tó népszerű turisztikai célpont a közelben."],
+      ro: ["Este situat aproape de granița cu Ungaria.", "Primăria este o capodoperă a stilului Art Nouveau maghiar.", "Lacul Palić este o destinație turistică populară în apropiere."],
+      en: ["It is located near the border with Hungary.", "The City Hall is a masterpiece of Hungarian Art Nouveau.", "Lake Palić is a popular nearby tourist destination."]
+    }
+  },
   {
     id: "city-cacak",
     descriptionAdvanced: { 
@@ -98,7 +162,20 @@ export const serbiaPoiExtraCities = ([
         ro: ["Populație de aproximativ 70.000 de locuitori", "Poartă către defileul Ovčar-Kablar", "Centru industrial cu tradiții bogate", "Muzeul Național al orașului are colecții etnografice valoroase", "Situat pe râul Morava de Vest", "Zonă agricolă prosperă"], 
         en: ["Population of approximately 70,000.", "Gateway to the breathtaking Ovčar-Kablar Gorge.", "Established industrial center with a deep-rooted cultural legacy.", "The National Museum houses valuable ethnographic collections.", "Situated along the West Morava River.", "Located in a prosperous agricultural zone."] 
     },
-    factsAdvancedEn: ["Population of approximately 70,000.", "Gateway to the breathtaking Ovčar-Kablar Gorge.", "Established industrial center with a deep-rooted cultural legacy.", "The National Museum houses valuable ethnographic collections.", "Situated along the West Morava River.", "Located in a prosperous agricultural zone."], image: "/poi-images/city-cacak.webp"},
+    factsAdvancedEn: ["Population of approximately 70,000.", "Gateway to the breathtaking Ovčar-Kablar Gorge.", "Established industrial center with a deep-rooted cultural legacy.", "The National Museum houses valuable ethnographic collections.", "Situated along the West Morava River.", "Located in a prosperous agricultural zone."], image: "/poi-images/city-cacak.webp",
+    description: {
+      de: "Čačak ist eine Stadt in Zentralserbien, die im Tal des Flusses Westliche Morava liegt.",
+      hu: "Čačak Közép-Szerbia egyik városa, amely a Nyugati-Morava folyó völgyében fekszik.",
+      ro: "Čačak este un oraș în centrul Serbiei, situat în valea râului Morava de Vest.",
+      en: "Čačak is a city in central Serbia, located in the valley of the West Morava river."
+    },
+    facts: {
+      de: ["Sie ist von wunderschönen Bergen und Schluchten umgeben.", "Die Ovčar-Kablar-Schlucht ist berühmt für ihre Klöster.", "Die Stadt hat eine reiche Geschichte, die bis in die Römerzeit zurückreicht."],
+      hu: ["Gyönyörű hegyek és szurdokok veszik körül.", "Az Ovčar-Kablar szurdok híres a kolostorairól.", "A város gazdag történelme a római korig nyúlik vissza."],
+      ro: ["Este înconjurat de munți și chei frumoase.", "Cheile Ovčar-Kablar sunt faimoase pentru mănăstirile lor.", "Orașul are o istorie bogată care datează din perioada romană."],
+      en: ["It is surrounded by beautiful mountains and gorges.", "The Ovčar-Kablar Gorge is famous for its monasteries.", "The city has a rich history dating back to Roman times."]
+    }
+  },
   {
     id: "city-zrenjanin",
     descriptionAdvanced: { 
@@ -114,6 +191,19 @@ export const serbiaPoiExtraCities = ([
         ro: ["Populație de aproximativ 75.000 de locuitori", "Oraș traversat de râul Bega", "Arhitectură urbană variată", "Centru regional al Banatului", "Tradiții teatrale bogate", "Oraș cu numeroase poduri istorice"], 
         en: ["Population of approximately 75,000.", "Divided and defined by the Bega River.", "Features a varied landscape of historical urban architecture.", "Key regional center for the Banat territory.", "Boasts a long-standing tradition of local theater.", "Known for its numerous historical bridges."] 
     },
-    factsAdvancedEn: ["Population of approximately 75,000.", "Divided and defined by the Bega River.", "Features a varied landscape of historical urban architecture.", "Key regional center for the Banat territory.", "Boasts a long-standing tradition of local theater.", "Known for its numerous historical bridges."], image: "/poi-images/city-zrenjanin.webp"}
+    factsAdvancedEn: ["Population of approximately 75,000.", "Divided and defined by the Bega River.", "Features a varied landscape of historical urban architecture.", "Key regional center for the Banat territory.", "Boasts a long-standing tradition of local theater.", "Known for its numerous historical bridges."], image: "/poi-images/city-zrenjanin.webp",
+    description: {
+      de: "Zrenjanin ist eine Stadt in der Region Banat in der serbischen Provinz Vojvodina.",
+      hu: "Nagybecskerek a vajdasági Bánság régió egyik városa Szerbiában.",
+      ro: "Zrenjanin este un oraș în regiunea Banat din provincia Voivodina din Serbia.",
+      en: "Zrenjanin is a city in the Banat region of Vojvodina province in Serbia."
+    },
+    facts: {
+      de: ["Es ist die größte Stadt im serbischen Teil der Region Banat.", "Die Stadt verfügt über ein wunderschönes historisches Zentrum.", "Sie ist nach dem Weltkriegshelden Žarko Zrenjanin benannt."],
+      hu: ["Ez a Bánság szerbiai részének legnagyobb városa.", "A város gyönyörű történelmi központtal büszkélkedhet.", "Nevét Žarko Zrenjanin második világháborús hősről kapta."],
+      ro: ["Este cel mai mare oraș din partea sârbă a regiunii Banat.", "Orașul prezintă un centru istoric frumos.", "Este numit după Žarko Zrenjanin, un erou din al Doilea Război Mondial."],
+      en: ["It is the largest city in the Serbian part of the Banat region.", "The city features a beautiful historical center.", "It is named after Žarko Zrenjanin, a WWII hero."]
+    }
+  }
 ] as unknown as POI[]);
 

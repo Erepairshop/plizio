@@ -83,10 +83,10 @@ export const montenegroAllPoi: POI[] = [
     coords: [19.7667, 42.5000],
     parent: "ME-ALL",
     description: {
-      de: "Das 'verwunschene Gebirge', bekannt für seine schroffe und dramatische Landschaft.",
-      hu: "Az 'elátkozott hegyek', melyek zord és drámai tájukról ismertek.",
-      ro: "\\\"Munții Blestemați\\\", cunoscuți pentru peisajul lor accidentat și dramatic.",
-      en: "The 'Accursed Mountains', known for their rugged and dramatic landscape."
+      de: "Der Nationalpark Prokletije, auch als die Albanischen Alpen bekannt, beeindruckt mit dramatischen, schroffen Gipfeln und tiefen Tälern. Er ist ein Paradies für Abenteurer und Wanderer abseits der Massen.",
+      hu: "A Prokletije Nemzeti Park, vagyis az Albán-Alpok drámai, csipkézett hegycsúcsairól és mély völgyeiről híres. Ideális célpont a tömegtől távol eső, vadregényes túrák kedvelőinek.",
+      ro: "Parcul Național Prokletije, cunoscut și sub numele de Alpii Albanezi, impresionează prin vârfurile sale ascuțite și văile adânci. Este un paradis sălbatic pentru drumeții în căutare de aventuri autentice.",
+      en: "Prokletije National Park, also known as the Albanian Alps, features dramatic, jagged peaks and deep, pristine valleys. It is a remote and wild paradise for hikers and adventurers."
     },
     descriptionAdvanced: {
       de: "Das Prokletije-Gebirge, oft auch als die 'Verwunschenen Berge' bezeichnet, ist das am schwersten zugängliche und dramatische Gebirgsmassiv des Balkans. Mit seinen schroffen, steil aufragenden Felsspitzen und tiefen, von Gletschern geformten Tälern bildet es eine natürliche Grenze zu Albanien und Kosovo. Dieses wilde Terrain bietet erfahrenen Alpinisten und Naturliebhabern eine fast völlig unberührte, alpine Wildnis fernab des Massentourismus. Geographie K7 – Karstgebirge und Grenzen.",

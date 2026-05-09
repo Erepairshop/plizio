@@ -10,10 +10,10 @@ export const albaniaCountry: POI = {
     en: "Albania"
   },
   description: {
-    de: "Land der Adler",
-    hu: "A sasok földje",
-    ro: "Țara Vulturilor",
-    en: "Land of the Eagles"
+    de: "Albanien ist ein Land in Südosteuropa, bekannt für seine vielfältigen Landschaften und seine reiche Geschichte.",
+    hu: "Albánia egy délkelet-európai ország, amely változatos tájairól és gazdag történelméről ismert.",
+    ro: "Albania este o țară din sud-estul Europei, cunoscută pentru peisajele sale diverse și istoria bogată.",
+    en: "Albania is a country in Southeastern Europe known for its diverse landscapes and rich history."
   },
   descriptionAdvanced: {
     de: "Ein faszinierendes Land auf der Balkanhalbinsel mit einer reichen Geschichte, beeindruckenden Berglandschaften und einer wunderschönen Adriaküste. Die albanische Kultur ist tief in alten Traditionen verwurzelt, während das Land gleichzeitig eine rasante Modernisierung durchläuft. Besucher entdecken hier eine beeindruckende Mischung aus antiken römischen Ruinen, osmanischen Städten und unberührten Naturparadiesen. Das Land entwickelt sich zunehmend zu einem beliebten Reiseziel für Abenteurer, die noch ursprüngliche europäische Landschaften suchen. Albaniens Gastfreundschaft gilt dabei als eine der herzlichsten weltweit, was jeden Besuch besonders macht.",
@@ -52,41 +52,17 @@ export const albaniaCountry: POI = {
   coords: [20.1683, 41.1533],
   parent: "europe",
   facts: {
-    de: [
-      "Albanien hat über 300 Sonnentage im Jahr.",
-      "Die albanische Sprache ist ein eigener Zweig der indogermanischen Sprachen.",
-      "Es gibt mehr Albaner, die außerhalb des Landes leben als innerhalb.",
-      "Mutter Teresa war albanischer Herkunft.",
-      "Das Land hat eine der gastfreundlichsten Kulturen der Welt."
-    ],
-    hu: [
-      "Albániában évente több mint 300 napsütéses nap van.",
-      "Az albán nyelv az indoeurópai nyelvcsalád különálló ága.",
-      "Több albán él az országon kívül, mint azon belül.",
-      "Teréz anya albán származású volt.",
-      "Az ország a világ egyik legvendégszeretőbb kultúrájával rendelkezik."
-    ],
-    ro: [
-      "Albania are peste 300 de zile însorite pe an.",
-      "Limba albaneză este o ramură distinctă a limbilor indoeuropene.",
-      "Există mai mulți albanezi care trăiesc în afara țării decât în interiorul ei.",
-      "Maica Tereza a fost de origine albaneză.",
-      "Țara are una dintre cele mai ospitaliere culturi din lume."
-    ],
-    en: [
-      "Albania has over 300 sunny days a year.",
-      "The Albanian language is a distinct branch of the Indo-European languages.",
-      "There are more Albanians living outside the country than inside.",
-      "Mother Teresa was of Albanian descent.",
-      "The country has one of the most hospitable cultures in the world."
-    ]
+    de: ["Es liegt auf der Balkanhalbinsel.", "Die Hauptstadt ist Tirana.", "Es hat Küsten an der Adria und am Ionischen Meer."],
+    hu: ["A Balkán-félszigeten található.", "Fővárosa Tirana.", "Az Adriai- és a Jón-tenger mosza a partjait."],
+    ro: ["Este situată în Peninsula Balcanică.", "Capitala sa este Tirana.", "Are ieșire la Marea Adriatică și Marea Ionică."],
+    en: ["It is located on the Balkan Peninsula.", "The capital city is Tirana.", "It has coastlines on the Adriatic and Ionian Seas."]
   }, image: "/poi-images/country-albania.webp"};
 
 export const albaniaCities: POI[] = [
   {
     id: "city-tirana",
     name: { de: "Tirana", hu: "Tirana", ro: "Tirana", en: "Tirana" },
-    description: { de: "Die Hauptstadt", hu: "A főváros", ro: "Capitala", en: "The capital" },
+    description: { de: "Tirana ist die pulsierende Hauptstadt Albaniens, bekannt für ihre farbenfrohe Architektur aus der osmanischen, faschistischen und sowjetischen Zeit.", hu: "Tirana Albánia nyüzsgő fővárosa, amely oszmán, fasiszta és szovjet kori színes építészetéről ismert.", ro: "Tirana este capitala vibrantă a Albaniei, recunoscută pentru arhitectura sa colorată din perioadele otomană, fascistă și sovietică.", en: "Tirana is the vibrant capital of Albania, known for its colorful architecture from the Ottoman, Fascist, and Soviet eras." },
     descriptionAdvanced: {
       de: "Tirana ist das lebendige Herz Albaniens und ein faszinierender Ort zwischen Tradition und Moderne. Die Stadt hat sich in den letzten Jahrzehnten von einem grauen, kommunistischen Zentrum zu einer farbenfrohen und dynamischen Hauptstadt entwickelt. Markant sind die bunt bemalten Gebäude, die heute das Stadtbild prägen und eine fröhliche Atmosphäre schaffen.",
       hu: "Tirana, Albánia lüktető fővárosa, az ország politikai, gazdasági és kulturális központja, amely az utóbbi évtizedekben látványos átalakuláson ment keresztül. A város egyik legismertebb jellegzetessége a színesre festett épületek sora, amelyeket a korábbi polgármester kezdeményezésére varázsoltak vidámmá a szürke kommunista tömbökből.",
@@ -118,16 +94,16 @@ export const albaniaCities: POI[] = [
     coords: [19.8187, 41.3275],
     parent: "AL-009",
     facts: {
-      de: ["Hauptstadt seit 1920.", "Bekannt für bunte Gebäude.", "Zentrum der albanischen Kultur."],
-      hu: ["1920 óta főváros.", "Színes épületeiről ismert.", "Az albán kultúra központja."],
-      ro: ["Capitală din 1920.", "Cunoscută pentru clădirile colorate.", "Centrul culturii albaneze."],
-      en: ["Capital since 1920.", "Known for colorful buildings.", "Center of Albanian culture."]
+      de: ["Sie ist das wirtschaftliche und kulturelle Zentrum des Landes.", "Der Skanderbeg-Platz ist der zentrale Punkt der Stadt.", "Bunk'Art ist ein Museum in einem ehemaligen Atombunker."],
+      hu: ["Az ország gazdasági és kulturális központja.", "A Szkander bég tér a város központi része.", "A Bunk'Art egy egykori atombunkerben kialakított múzeum."],
+      ro: ["Este centrul economic și cultural al țării.", "Piața Skanderbeg este punctul central al orașului.", "Bunk'Art este un muzeu amenajat într-un fost buncăr nuclear."],
+      en: ["It is the economic and cultural center of the country.", "Skanderbeg Square is the central hub of the city.", "Bunk'Art is a museum housed in a former nuclear bunker."]
     }
   },
   {
     id: "city-durres",
     name: { de: "Durrës", hu: "Durrës", ro: "Durrës", en: "Durrës" },
-    description: { de: "Hafenstadt", hu: "Kikötőváros", ro: "Oraș portuar", en: "Port city" },
+    description: { de: "Durrës ist eine der ältesten und bedeutendsten Hafenstädte Albaniens an der Adriaküste.", hu: "Durrës Albánia egyik legrégebbi és legfontosabb kikötővárosa az Adriai-tenger partján.", ro: "Durrës este unul dintre cele mai vechi și mai importante orașe-port ale Albaniei, situat pe coasta Mării Adriatice.", en: "Durrës is one of Albania's oldest and most important port cities on the Adriatic coast." },
     descriptionAdvanced: {
       de: "Durrës ist eine der geschichtsträchtigsten Städte Albaniens und diente einst als wichtiger römischer Hafen. Die Stadt verbindet heute ein reiches antikes Erbe mit einem modernen Badeort-Charakter. Das römische Amphitheater, das mitten in der Stadt liegt, ist ein absolutes Highlight und zeugt von der glanzvollen Vergangenheit.",
       hu: "Durrës Albánia második legnagyobb városa és legfontosabb kikötője, amely több mint 2500 éves múltra tekint vissza. Az ókorban Epidamnosz, majd Dyrrhachium néven ismert település a római korban a Via Egnatia, a Konstantinápolyba vezető kereskedelmi útvonal kiindulópontja volt.",
@@ -159,10 +135,10 @@ export const albaniaCities: POI[] = [
     coords: [19.4558, 41.3246],
     parent: "AL-010",
     facts: {
-      de: ["Größter Hafen des Landes.", "Antikes Amphitheater.", "Beliebter Strandort."],
-      hu: ["Az ország legnagyobb kikötője.", "Ókori amfiteátrum.", "Népszerű tengerparti hely."],
-      ro: ["Cel mai mare port al țării.", "Amfiteatru antic.", "Stațiune populară."],
-      en: ["Largest port in the country.", "Ancient amphitheater.", "Popular beach destination."]
+      de: ["Die Stadt besitzt ein großes römisches Amphitheater.", "Sie war einst die Hauptstadt von Albanien.", "Durrës ist ein beliebtes Ziel für Strandurlauber."],
+      hu: ["A városban található egy nagy római amfiteátrum.", "Egykor Albánia fővárosa volt.", "Durrës a tengerparti nyaralók kedvelt célpontja."],
+      ro: ["Orașul deține un mare amfiteatru roman.", "A fost odată capitala Albaniei.", "Durrës este o destinație populară pentru vacanțele la plajă."],
+      en: ["The city features a large Roman amphitheater.", "It was once the capital of Albania.", "Durrës is a popular destination for beachgoers."]
     }, image: "/poi-images/city-durres.webp"},
   {
     id: "city-vlore",
@@ -367,7 +343,7 @@ export const albaniaCities: POI[] = [
   {
     id: "city-gjirokaster",
     name: { de: "Gjirokastra", hu: "Gjirokastra", ro: "Gjirokastra", en: "Gjirokastra" },
-    description: { de: "Stadt der Steine", hu: "A kövek városa", ro: "Orașul de piatră", en: "City of stone" },
+    description: { de: "Gjirokastra ist eine historische Stadt im Süden Albaniens, die für ihre gut erhaltene osmanische Architektur bekannt ist.", hu: "Gjirokastra egy történelmi város Albánia déli részén, amely jól karbantartott oszmán építészetéről híres.", ro: "Gjirokastra este un oraș istoric din sudul Albaniei, renumit pentru arhitectura sa otomană bine conservată.", en: "Gjirokaster is a historic city in southern Albania, renowned for its well-preserved Ottoman architecture." },
     descriptionAdvanced: {
       de: "Gjirokastra wird oft als die 'Stadt der Steine' bezeichnet und gehört zum UNESCO-Welterbe. Die osmanische Architektur hier ist besonders wehrhaft und beeindruckend, geprägt von den charakteristischen 'Kulle'-Häusern. Die Stadt thront majestätisch am Hang über dem Drino-Tal, und ihre riesige Burg ist eine der größten in der gesamten Balkanregion.",
       hu: "Gjirokastra, egy másik UNESCO világörökségi kincs, egy lenyűgöző \\\"kőváros\\\", amely a Drino-völgy meredek lejtőire épült. Híres az erődített toronyházairól, az úgynevezett \\\"kule\\\"-kről.",
@@ -399,10 +375,10 @@ export const albaniaCities: POI[] = [
     coords: [20.1388, 40.0758],
     parent: "AL-005",
     facts: {
-      de: ["Steildächer aus Schiefer.", "Große Festung.", "UNESCO-Weltkulturerbe."],
-      hu: ["Pala tetős házak.", "Hatalmas erőd.", "UNESCO világörökség."],
-      ro: ["Acoperișuri de ardezie.", "Fortăreață mare.", "Patrimoniu mondial UNESCO."],
-      en: ["Slate-roofed houses.", "Massive fortress.", "UNESCO World Heritage site."]
+      de: ["Die Altstadt gehört zum UNESCO-Weltkulturerbe.", "Sie wird wegen ihrer Steindächer auch \"Stadt der Steine\" genannt.", "Die Burg von Gjirokastra überragt die Stadt."],
+      hu: ["Az óváros az UNESCO Világörökség része.", "Kőtetős házai miatt \"Kővárosnak\" is nevezik.", "A Gjirokastrai vár a város fölé magasodik."],
+      ro: ["Centrul vechi este inclus în Patrimoniul Mondial UNESCO.", "Mai este numit \"Orașul de Piatră\" datorită acoperișurilor sale din piatră.", "Castelul Gjirokastra domină orașul."],
+      en: ["The old town is a UNESCO World Heritage site.", "It is often called the \"City of Stone\" because of its distinctive stone roofs.", "Gjirokaster Castle overlooks the city."]
     }, image: "/poi-images/city-gjirokaster.webp"},
   {
     id: "city-sarande",
@@ -450,7 +426,7 @@ export const albaniaHistorical: POI[] = [
   {
     id: "hist-butrint",
     name: { de: "Butrint", hu: "Butrint", ro: "Butrint", en: "Butrint" },
-    description: { de: "Antike Ruinenstadt", hu: "Ókori romváros", ro: "Oraș antic în ruine", en: "Ancient ruined city" },
+    description: { de: "Butrint ist eine antike Ruinenstadt und ein Nationalpark im Süden Albaniens in der Nähe von Saranda.", hu: "Butrint egy ókori romváros és nemzeti park Albánia déli részén, Saranda közelében.", ro: "Butrint este un vechi oraș în ruine și un parc național în sudul Albaniei, aproape de Saranda.", en: "Butrint is an ancient ruined city and a national park in southern Albania near Saranda." },
     descriptionAdvanced: {
       de: "Butrint ist einer der bedeutendsten archäologischen Schätze auf dem Balkan. Die Stätte liegt auf einer Halbinsel, umgeben von Wasser und üppiger Vegetation, was ihr eine fast magische Atmosphäre verleiht. Hier lassen sich Schichten aus griechischer, römischer, byzantinischer und venezianischer Zeit freilegen, die die wechselvolle Geschichte der Region dokumentieren.",
       hu: "Butrint Albánia legjelentősebb régészeti lelőhelye és az UNESCO Világörökség része, amely több mint 2500 év történelmét öleli fel.",
@@ -482,10 +458,10 @@ export const albaniaHistorical: POI[] = [
     coords: [20.0195, 39.7431],
     parent: "AL-006",
     facts: {
-      de: ["Römische und griechische Ruinen.", "Inmitten eines Nationalparks.", "Venedig hat hier Spuren hinterlassen."],
-      hu: ["Római és görög romok.", "Egy nemzeti park közepén.", "Velence is nyomot hagyott itt."],
-      ro: ["Ruine romane și grecești.", "În mijlocul unui parc național.", "Veneția a lăsat urme aici."],
-      en: ["Roman and Greek ruins.", "In the middle of a national park.", "Venice left traces here."]
+      de: ["Es ist eine UNESCO-Welterbestätte.", "Die Ruinen umfassen griechische, römische, byzantinische und venezianische Bauwerke.", "Es liegt malerisch an einer Lagune am Ionischen Meer."],
+      hu: ["UNESCO Világörökségi helyszín.", "A romok között görög, római, bizánci és velencei építmények is találhatók.", "Festői környezetben, a Jón-tenger egyik lagúnájánál fekszik."],
+      ro: ["Este un sit al Patrimoniului Mondial UNESCO.", "Ruinele includ structuri grecești, romane, bizantine și venețiene.", "Este situat pitoresc pe o lagună la Marea Ionică."],
+      en: ["It is a UNESCO World Heritage site.", "The ruins include Greek, Roman, Byzantine, and Venetian structures.", "It is picturesquely situated on a lagoon by the Ionian Sea."]
     }
   },
   {

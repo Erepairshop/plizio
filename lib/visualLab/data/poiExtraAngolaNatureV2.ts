@@ -82,11 +82,11 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-CUS",
     coords: [13.98, -11.12],
     name: { de: "Queve", hu: "Queve", ro: "Queve", en: "Queve" },
-    description: { de: "Fluss, der im westlichen Angola fließt.", hu: "Nyugat-angolai folyó.", ro: "Râu în vestul Angolei.", en: "River in western Angola." },
+    description: { de: "Fluss, der im westlichen Angola fließt.", hu: "Nyugat-angolai folyó.", ro: "Un râu major care traversează peisajul angolez, contribuind semnificativ la irigarea regiunilor agricole din jur.", en: "River in western Angola." },
     facts: {
       de: ["Speist zahlreiche Wasserfälle.", "Wichtige Lebensader."],
       hu: ["Számos vízesést táplál.", "Fontos élettér."],
-      ro: ["Alimentează numeroase cascade.", "Linie vitală."],
+      ro: ["Bazin hidrografic", "Resursă hidrică importantă", "Trece prin regiuni fertile"],
       en: ["Feeds numerous waterfalls.", "Important lifeline."]
     },
     descriptionAdvanced: {
@@ -411,11 +411,11 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BGO",
     coords: [13.5, -8.5],
     name: { de: "Bengo-Wald", hu: "Bengo-erdő", ro: "Pădurea Bengo", en: "Bengo Forest" },
-    description: { de: "Waldgebiet nahe Luanda.", hu: "Erdőterület Luanda közelében.", ro: "Zonă forestieră lângă Luanda.", en: "Forest area near Luanda." },
+    description: { de: "Waldgebiet nahe Luanda.", hu: "Erdőterület Luanda közelében.", ro: "O zonă forestieră densă situată în provincia Bengo, cu o biodiversitate bogată și importanță ecologică locală.", en: "Forest area near Luanda." },
     facts: {
       de: ["Grüner Gürtel.", "Lokale Flora."],
       hu: ["Zöld övezet.", "Helyi növényzet."],
-      ro: ["Centură verde.", "Floră locală."],
+      ro: ["Situată în Bengo", "Vegetație tropicală", "Importanță ecologică"],
       en: ["Green belt.", "Local flora."]
     },
     descriptionAdvanced: {
@@ -438,11 +438,11 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BIE",
     coords: [17.0, -12.0],
     name: { de: "Mungue", hu: "Mungue", ro: "Mungue", en: "Mungue" },
-    description: { de: "Kleinerer See in Bié.", hu: "Kisebb tó Biében.", ro: "Lac mai mic în Bié.", en: "Smaller lake in Bié." },
+    description: { de: "Kleinerer See in Bié.", hu: "Kisebb tó Biében.", ro: "Un lac liniștit situat într-o regiune pitorească, oferind un habitat important pentru fauna aviară locală.", en: "Smaller lake in Bié." },
     facts: {
       de: ["Ruhiges Gewässer.", "In Hochlandlage."],
       hu: ["Csendes víz.", "Felföldi elhelyezkedés."],
-      ro: ["Apă liniștită.", "Situat la altitudine."],
+      ro: ["Habitat acvatic", "Loc de observație aviară", "Cadru natural"],
       en: ["Quiet water.", "Highland location."]
     },
     descriptionAdvanced: {
@@ -463,11 +463,11 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.25, -8.75],
     name: { de: "Ilha de Luanda", hu: "Ilha de Luanda", ro: "Ilha de Luanda", en: "Ilha de Luanda" },
-    description: { de: "Touristische Insel vor der Hauptstadt.", hu: "Turisztikai sziget a főváros előtt.", ro: "Insulă turistică în fața capitalei.", en: "Tourist island off the capital." },
+    description: { de: "Touristische Insel vor der Hauptstadt.", hu: "Turisztikai sziget a főváros előtt.", ro: "O peninsulă iconică ce delimitează golful Luanda de Oceanul Atlantic, fiind un centru de agrement și natură.", en: "Tourist island off the capital." },
     facts: {
       de: ["Sehr belebt.", "Strände vorhanden."],
       hu: ["Nagyon forgalmas.", "Strandok vannak."],
-      ro: ["Foarte circulată.", "Există plaje."],
+      ro: ["Situată lângă Luanda", "Bariera naturală", "Centru de agrement"],
       en: ["Very busy.", "Beaches available."]
     },
     descriptionAdvanced: {
@@ -513,11 +513,11 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-BIE",
     coords: [17.5, -13.0],
     name: { de: "Bue", hu: "Bue", ro: "Bue", en: "Bue" },
-    description: { de: "Erhebung im Zentrum.", hu: "Emelkedő a központban.", ro: "Elevație în centru.", en: "Elevation in the center." },
+    description: { de: "Erhebung im Zentrum.", hu: "Emelkedő a központban.", ro: "Un munte proeminent care domină peisajul regiunii sale, oferind puncte de panoramă spectaculoase asupra zonei.", en: "Elevation in the center." },
     facts: {
       de: ["Im Hochland.", "Sanfte Hänge."],
       hu: ["A felföldön.", "Szelíd lejtők."],
-      ro: ["În podiș.", "Pante line."],
+      ro: ["Formațiune muntoasă", "Punct de observație", "Peisaj stâncos"],
       en: ["In the highlands.", "Gentle slopes."]
     },
     descriptionAdvanced: {
@@ -588,11 +588,11 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.2, -12.5],
     name: { de: "Boco", hu: "Boco", ro: "Boco", en: "Boco" },
-    description: { de: "Gipfel im Huambo-Gebiet.", hu: "Csúcs a Huambo régióban.", ro: "Vârf în regiunea Huambo.", en: "Peak in the Huambo region." },
+    description: { de: "Gipfel im Huambo-Gebiet.", hu: "Csúcs a Huambo régióban.", ro: "O înălțime muntoasă caracteristică terenului variat al Angolei, cu o floră și faună specifică zonelor de altitudine.", en: "Peak in the Huambo region." },
     facts: {
       de: ["Steiniges Gelände.", "Schöne Aussicht."],
       hu: ["Köves terep.", "Szép kilátás."],
-      ro: ["Teren stâncos.", "Priveliște frumoasă."],
+      ro: ["Altitudine medie", "Flora montană", "Zona de interes geologic"],
       en: ["Rocky terrain.", "Beautiful view."]
     },
     descriptionAdvanced: {
@@ -663,11 +663,11 @@ export const poiExtraAngolaNatureV2: POI[] = [
     parent: "AO-NAM",
     coords: [11.8, -16.6],
     name: { de: "Ilha dos Tigres", hu: "Ilha dos Tigres", ro: "Ilha dos Tigres", en: "Ilha dos Tigres" },
-    description: { de: "Ehemalige Insel, jetzt Halbinsel.", hu: "Volt sziget, ma félsziget.", ro: "Fostă insulă, acum peninsulă.", en: "Former island, now a peninsula." },
+    description: { de: "Ehemalige Insel, jetzt Halbinsel.", hu: "Volt sziget, ma félsziget.", ro: "O insulă fascinantă în sudul Angolei, cunoscută pentru izolarea sa și peisajele deșertice care se întâlnesc cu oceanul.", en: "Former island, now a peninsula." },
     facts: {
       de: ["Trockenes Klima.", "Einstige Siedlung."],
       hu: ["Száraz éghajlat.", "Volt település."],
-      ro: ["Climă uscată.", "Fostă așezare."],
+      ro: ["Situată în Namibe", "Insulă deșertică", "Izolare geografică"],
       en: ["Dry climate.", "Former settlement."]
     },
     descriptionAdvanced: {

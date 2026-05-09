@@ -15,6 +15,18 @@ export const montenegroCitiesExtra = ([
       hu: ["A várost 1946 és 1992 között Titogradnak hívták a jugoszláv elnök, Josip Broz Tito tiszteletére.", "A város területén található az ősi római település, Doclea (Duklja) romja.", "Podgorica az egyik legforróbb európai főváros a nyári hónapokban.", "A Stara Varoš (Óváros) negyedben máig fennmaradt az oszmán óratorony (Sahat Kula).", "A város öt folyó találkozásánál épült, ami egyedülálló ökológiai környezetet biztosít."], 
       ro: ["Are o suprafață de 108 km².", "Orașul este situat la confluența râurilor Morača, Ribnica, Zeta, Cijevna și Sitnica.", "Aici se află cel mai mare aeroport din Muntenegru.", "Între anii 1946 și 1992, orașul a purtat numele de Titograd.", "Podul Millennium este unul dintre cele mai cunoscute simboluri moderne ale orașului.", "Orașul găzduiește peste 10 parcuri semnificative."], 
       en: ["The city spans an area of approximately 108 square kilometers.", "Podgorica is uniquely located at the confluence of five major rivers.", "It hosts the Podgorica Airport, the largest international hub in Montenegro.", "The city was known as Titograd between 1946 and 1992.", "The Millennium Bridge is a modern architectural icon of the capital.", "There are over 10 significant parks within the city limits for public recreation."] 
+    },
+    description: {
+      de: "Podgorica ist die Hauptstadt und größte Stadt Montenegros, gelegen am Zusammenfluss von Ribnica und Morača.",
+      hu: "Podgorica Montenegró fővárosa és legnagyobb városa, a Ribnica és a Morača folyók összefolyásánál fekszik.",
+      ro: "Podgorica este capitala și cel mai mare oraș al Muntenegrului, situat la confluența râurilor Ribnica și Morača.",
+      en: "Podgorica is the capital and largest city of Montenegro, located at the confluence of the Ribnica and Morača rivers."
+    },
+    facts: {
+      de: ["Die Stadt hieß von 1946 bis 1992 Titograd.", "Sie ist das wirtschaftliche und kulturelle Zentrum des Landes.", "Das Millennium-Brücke ist ein Wahrzeichen der Stadt."],
+      hu: ["A várost 1946 és 1992 között Titogradnak hívták.", "Az ország gazdasági és kulturális központja.", "A Millennium híd a város egyik jelképe."],
+      ro: ["Orașul s-a numit Titograd între 1946 și 1992.", "Este centrul economic și cultural al țării.", "Podul Mileniului este un simbol al orașului."],
+      en: ["The city was named Titograd from 1946 to 1992.", "It is the economic and cultural center of the country.", "The Millennium Bridge is a landmark of the city."]
     }
   },
   {
@@ -30,6 +42,18 @@ export const montenegroCitiesExtra = ([
       hu: ["Kotor óvárosában található a 12. században épült, román stílusú Szent Tripun-székesegyház.", "A várost övező védőfalak hossza meghaladja a 4,5 kilométert.", "A várost szokatlanul nagy számú, a lakosok által tisztelt kóbor macska lakja.", "A helyi Tengerészeti Múzeum az Adriai-tenger hajózásának gazdag történelmét mutatja be.", "A városfalak közvetlenül a tengerpartra épültek, védelmet nyújtva a kalózok ellen."], 
       ro: ["Lungimea zidurilor orașului atinge 4,5 kilometri.", "Catedrala Sfântul Trifon a fost construită în anul 1166.", "Kotor face parte din Patrimoniul Mondial UNESCO din 1979.", "Orașul se mândrește cu o catedrală veche de peste 300 de ani.", "Golful Kotor este adesea numit cel mai sudic fiord al Europei.", "Peste 2000 de trepte duc către fortăreața San Giovanni."], 
       en: ["The defensive city walls stretch over 4.5 kilometers along the mountainside.", "The Cathedral of Saint Tryphon was originally constructed in 1166.", "Kotor has been a designated UNESCO World Heritage site since 1979.", "The cathedral within the walls has stood for over 850 years.", "The Kotor Bay is frequently cited as the southernmost fjord in Europe.", "More than 1,300 steps lead up to the historic San Giovanni Fortress."] 
+    },
+    description: {
+      de: "Kotor ist eine Küstenstadt in Montenegro, bekannt für ihre gut erhaltene mittelalterliche Altstadt.",
+      hu: "Kotor egy montenegrói tengerparti város, amely jól karbantartott középkori óvárosáról ismert.",
+      ro: "Kotor este un oraș de coastă din Muntenegru, cunoscut pentru orașul său vechi medieval bine conservat.",
+      en: "Kotor is a coastal town in Montenegro, known for its well-preserved medieval old town."
+    },
+    facts: {
+      de: ["Die Bucht von Kotor wird oft als der südlichste Fjord Europas bezeichnet.", "Die Altstadt gehört zum UNESCO-Weltkulturerbe.", "Die Stadtmauer erstreckt sich über 4,5 Kilometer den Berg hinauf."],
+      hu: ["A Kotori-öblöt gyakran Európa legdélebbi fjordjának nevezik.", "Az óváros az UNESCO Világörökség része.", "A városfal 4,5 kilométer hosszan húzódik fel a hegyre."],
+      ro: ["Golful Kotor este adesea numit cel mai sudic fiord din Europa.", "Orașul vechi este inclus în Patrimoniul Mondial UNESCO.", "Zidurile orașului se întind pe 4,5 kilometri pe munte."],
+      en: ["The Bay of Kotor is often called the southernmost fjord in Europe.", "The old town is a UNESCO World Heritage Site.", "The city walls stretch for 4.5 kilometers up the mountain."]
     }
   },
   {
@@ -45,6 +69,18 @@ export const montenegroCitiesExtra = ([
       hu: ["Budva az egyik legősibb település az Adriai-tenger partján, története 2500 évre nyúlik vissza.", "A város mellett 35 különböző homokos és kavicsos strand található.", "Nyáron itt rendezik meg az egyik legnagyobb szabadtéri zenei fesztivált, a Sea Dance Festivalt.", "A város partjaitól nem messze található Sveti Nikola lakatlan szigete, amelyet 'Hawaiként' emlegetnek.", "Az óváros citadellája évszázadokon át védte a várost a tengeri kalózoktól."], 
       ro: ["Orașul are o istorie de peste 2500 de ani.", "Centrul vechi al Budvei este situat pe o peninsulă.", "Orașul se mândrește cu un litoral de 17 kilometri.", "Citadela este cel mai înalt punct al orașului din interiorul zidurilor.", "Budva este centrul 'Rivierei Budva'.", "Aici se află populara plajă Mogren."], 
       en: ["Budva boasts a documented historical legacy spanning over 2,500 years.", "The historic Old Town is uniquely situated on a small peninsula.", "The city controls a stunning coastline stretching for 17 kilometers.", "The Citadel serves as the highest fortification point within the Old Town walls.", "Budva acts as the central hub for the renowned 'Budva Riviera'.", "The famous Mogren Beach remains one of the area's top natural attractions."] 
+    },
+    description: {
+      de: "Budva ist ein beliebter Badeort an der montenegrinischen Adriaküste.",
+      hu: "Budva egy népszerű üdülőhely a montenegrói Adriai-tenger partján.",
+      ro: "Budva este o stațiune balneară populară pe coasta Mării Adriatice din Muntenegru.",
+      en: "Budva is a popular seaside resort on the Montenegrin Adriatic coast."
+    },
+    facts: {
+      de: ["Die Budva Riviera ist berühmt für ihre Sandstrände und ihr Nachtleben.", "Die Altstadt von Budva ist über 2.500 Jahre alt.", "In der Nähe liegt die luxuriöse Insel Sveti Stefan."],
+      hu: ["A Budvai Riviéra híres homokos strandjairól és éjszakai életéről.", "Budva óvárosa több mint 2500 éves.", "A közelben található a luxus sziget, Sveti Stefan."],
+      ro: ["Riviera Budva este renumită pentru plajele sale cu nisip și viața de noapte.", "Orașul vechi din Budva are o vechime de peste 2.500 de ani.", "În apropiere se află insula de lux Sveti Stefan."],
+      en: ["The Budva Riviera is famous for its sandy beaches and nightlife.", "The old town of Budva is over 2,500 years old.", "Nearby is the luxury island of Sveti Stefan."]
     }
   },
   {
@@ -60,6 +96,18 @@ export const montenegroCitiesExtra = ([
       hu: ["Cetinje 1946-ig volt Montenegró fővárosa, mielőtt a közigazgatás átköltözött Podgoricába.", "A város ma Montenegró hivatalos tiszteletbeli kulturális fővárosa.", "A helyi karsztos környezet miatt a város a Balkán egyik legcsapadékosabb területe.", "Több mint tíz nemzeti múzeum, köztük a Nemzeti Múzeum működik a város kis területén.", "Itt írták alá az ország történelmének legfontosabb szerződéseit."], 
       ro: ["Orașul a fost fondat în secolul al XV-lea.", "Cetinje a fost capitala Muntenegrului de la obținerea statalității până în 1918.", "Aici se află faimoasa Mănăstire Cetinje.", "În oraș funcționează peste 10 muzee naționale.", "Cetinje este situat la poalele muntelui Lovćen.", "Vechiile clădiri ale ambasadelor sunt astăzi instituții culturale."], 
       en: ["The city was officially founded in the 15th century.", "Cetinje served as the national capital until 1918.", "The renowned Cetinje Monastery remains the city's spiritual anchor.", "Over 10 specialized national museums are currently operational in the city.", "The city is strategically located at the foot of Mount Lovćen.", "Historic embassy buildings have been repurposed into contemporary cultural centers."] 
+    },
+    description: {
+      de: "Cetinje ist die historische königliche Hauptstadt Montenegros und das kulturelle Zentrum des Landes.",
+      hu: "Cetinje Montenegró történelmi királyi fővárosa és az ország kulturális központja.",
+      ro: "Cetinje este fosta capitală regală istorică a Muntenegrului și centrul cultural al țării.",
+      en: "Cetinje is the historical royal capital of Montenegro and the cultural center of the country."
+    },
+    facts: {
+      de: ["Die Stadt liegt auf einer Karstebene am Fuße des Berges Lovćen.", "Sie war das Zentrum des montenegrinischen Widerstands gegen das Osmanische Reich.", "Cetinje beherbergt viele Museen und alte Botschaftsgebäude."],
+      hu: ["A város egy karsztfennsíkon fekszik a Lovćen-hegy lábánál.", "A montenegrói oszmánok elleni ellenállás központja volt.", "Cetinje számos múzeumnak és régi nagykövetségi épületnek ad otthont."],
+      ro: ["Orașul este situat pe un platou carstic la poalele muntelui Lovćen.", "A fost centrul rezistenței muntenegrene împotriva Imperiului Otoman.", "Cetinje găzduiește multe muzee și clădiri vechi de ambasade."],
+      en: ["The city is located on a karst plain at the foot of Mount Lovćen.", "It was the center of Montenegrin resistance against the Ottoman Empire.", "Cetinje is home to many museums and old embassy buildings."]
     }
   },
   {
@@ -75,6 +123,18 @@ export const montenegroCitiesExtra = ([
       hu: ["Itt gyártják a híres Nikšićko sört (Nikšićko Pivo), amely Montenegró nemzeti itala.", "A várost egyedi, 19. században tervezett sugárutas utcahálózat jellemzi.", "Nikšić az ország legfontosabb acélipari és bányászati központja.", "A város fölé magasodik az ősi Bedem erődítmény romja.", "Környéke gazdag karsztbarlangokban, amelyek őskori leleteket rejtenek."], 
       ro: ["Orașul are o suprafață de 2065 km².", "Aici funcționează fabrica de bere Trebjesa, care produce faimoasa bere Nikšićko.", "Nikšić este sediul Facultății de Filozofie.", "Lacul Krupac este cel mai mare centru de recreere din apropierea orașului.", "Muntele Trebjesa este o pădure-parc vastă în centrul orașului.", "În împrejurimi se găsesc mai multe situri arheologice importante din perioada romană."], 
       en: ["The municipal area covers approximately 2,065 square kilometers.", "The Trebjesa Brewery, famous for Nikšićko beer, is a major employer.", "Nikšić hosts the primary campus of the Faculty of Philosophy.", "Lake Krupac acts as the largest recreational lake facility in the region.", "Mount Trebjesa is a protected forest park within the city limits.", "Multiple significant Roman-era archaeological sites exist in the nearby vicinity."] 
+    },
+    description: {
+      de: "Nikšić ist die zweitgrößte Stadt in Montenegro und ein wichtiges Industriezentrum.",
+      hu: "Nikšić Montenegró második legnagyobb városa és fontos ipari központja.",
+      ro: "Nikšić este al doilea oraș ca mărime din Muntenegru și un important centru industrial.",
+      en: "Nikšić is the second-largest city in Montenegro and an important industrial center."
+    },
+    facts: {
+      de: ["Die Stadt ist berühmt für ihr Trebjesa-Bier (Nikšićko pivo).", "Hier befindet sich die monumentale Saborni Hram-Kirche.", "In der Nähe liegen die künstlichen Seen Krupac und Slano."],
+      hu: ["A város híres Trebjesa (Nikšićko pivo) söréről.", "Itt található a monumentális Saborni Hram templom.", "A közelben találhatók a Krupac és Slano mesterséges tavak."],
+      ro: ["Orașul este renumit pentru berea sa Trebjesa (Nikšićko pivo).", "Aici se află biserica monumentală Saborni Hram.", "În apropiere sunt lacurile artificiale Krupac și Slano."],
+      en: ["The city is famous for its Trebjesa beer (Nikšićko pivo).", "It is home to the monumental Saborni Hram church.", "Nearby are the artificial lakes Krupac and Slano."]
     }
   },
   {
@@ -90,6 +150,18 @@ export const montenegroCitiesExtra = ([
       hu: ["A kikötőváros a híres, hegyeken átvezető Belgrád-Bar vasútvonal végállomása.", "Itt áll a Balkán egyik legnagyobb és legkorszerűbb ortodox temploma, a Szent Jovan Vladimir-templom.", "A város kikötőjéből közvetlen kompjáratok indulnak az olaszországi Bariba.", "A modern Bar városa csak a 19. század végén kezdett kiépülni a tengerparton.", "A területen található egy több mint 2000 éves olajfa, a Stara Maslina."], 
       ro: ["Orașul este capătul de linie al căii ferate Belgrad-Bar.", "Stari Bar este unul dintre cele mai mari orașe fortificate în ruine din lume.", "Bar este unul dintre centrele producției de ulei de măsline din Muntenegru.", "Un măslin cu o vechime de peste 2000 de ani se află în împrejurimi.", "Portul orașului este unul dintre cele mai importante centre de pe Marea Adriatică.", "Orașul Bar a fost grav afectat de un cutremur în 1979, după care a fost reconstruit."], 
       en: ["The city serves as the final terminal for the Belgrade-Bar railway.", "Stari Bar ranks among the world's largest fortified ruin cities.", "Bar is a major regional hub for Montenegrin olive oil production.", "A notable ancient olive tree, aged over 2,000 years, grows nearby.", "The commercial port is a vital center for Adriatic maritime trade.", "The modern city was extensively reconstructed following a 1979 earthquake."] 
+    },
+    description: {
+      de: "Bar ist eine Küstenstadt und der wichtigste Seehafen Montenegros.",
+      hu: "Bar egy tengerparti város és Montenegró legfontosabb tengeri kikötője.",
+      ro: "Bar este un oraș de coastă și cel mai important port maritim al Muntenegrului.",
+      en: "Bar is a coastal town and the most important seaport in Montenegro."
+    },
+    facts: {
+      de: ["Stari Bar (Alt-Bar) ist eine faszinierende verlassene Ruinenstadt.", "In Bar steht einer der ältesten Olivenbäume der Welt, die Stara Maslina.", "Die Stadt hat regelmäßige Fährverbindungen nach Italien."],
+      hu: ["Stari Bar (Ó-Bar) egy lenyűgöző elhagyatott romváros.", "Barban található a világ egyik legrégebbi olajfája, a Stara Maslina.", "A városból rendszeres kompjáratok indulnak Olaszországba."],
+      ro: ["Stari Bar (Vechiul Bar) este un oraș fascinant în ruină și părăsit.", "În Bar se află unul dintre cei mai vechi măslini din lume, Stara Maslina.", "Orașul are legături regulate de feribot către Italia."],
+      en: ["Stari Bar (Old Bar) is a fascinating abandoned ruined city.", "Bar is home to one of the oldest olive trees in the world, the Stara Maslina.", "The city has regular ferry connections to Italy."]
     }
   },
   {
@@ -105,7 +177,20 @@ export const montenegroCitiesExtra = ([
       hu: ["A várost 1382-ben alapították, eredetileg tengeri sókereskedelmi központként.", "A Kanli Kula erőd az oszmán uralom idején hírhedt börtönként funkcionált.", "A város februárban rendezi meg híres Mimóza-fesztiválját a tavasz köszöntésére.", "Több mint 100 egzotikus növényfaj él a helyi parkokban és kertekben.", "A város tengerparti sétánya (Šetalište) több mint 7 kilométer hosszú."], 
       ro: ["Orașul a fost fondat în secolul al XIV-lea.", "Peste 100 de specii de plante exotice diferite pot fi găsite în oraș.", "Herceg Novi este gazda celebrului Festival al Mimozelor.", "Fortărețele Forte Mare și Kanli Kula sunt principalele monumente defensive ale orașului.", "Promenada de coastă (Šetalište) are o lungime de peste 6 km.", "Orașul se bucură de o climă mediteraneană plăcută pe tot parcursul anului."], 
       en: ["The town was officially founded in the 14th century.", "Over 100 diverse exotic plant species thrive in the local climate.", "Herceg Novi serves as the host city for the popular Mimosa Festival.", "The Forte Mare and Kanli Kula fortresses are key historic defensive structures.", "The coastal promenade, known as Šetalište, extends for over 6 kilometers.", "The region enjoys a consistent, mild Mediterranean climate year-round."] 
-    }, image: "/poi-images/me-herceg-novi.webp"},
+    }, image: "/poi-images/me-herceg-novi.webp",
+    description: {
+      de: "Herceg Novi ist eine malerische Küstenstadt am Eingang der Bucht von Kotor.",
+      hu: "Herceg Novi egy festői tengerparti város a Kotori-öböl bejáratánál.",
+      ro: "Herceg Novi este un oraș de coastă pitoresc situat la intrarea în Golful Kotor.",
+      en: "Herceg Novi is a picturesque coastal town at the entrance to the Bay of Kotor."
+    },
+    facts: {
+      de: ["Die Stadt ist bekannt als die 'Stadt der Treppen'.", "Sie hat dank ihres Mikroklimas eine üppige mediterrane Vegetation.", "Festungen wie Forte Mare und Kanli Kula prägen das Stadtbild."],
+      hu: ["A várost a 'lépcsők városaként' is ismerik.", "Mikroklímájának köszönhetően buja mediterrán növényzettel rendelkezik.", "Az olyan erődök, mint a Forte Mare és a Kanli Kula meghatározzák a városképet."],
+      ro: ["Orașul este cunoscut sub numele de 'Orașul treptelor'.", "Are o vegetație mediteraneană luxuriantă datorită microclimatului său.", "Fortărețe precum Forte Mare și Kanli Kula domină peisajul orașului."],
+      en: ["The town is known as the 'City of Stairs'.", "It has lush Mediterranean vegetation thanks to its microclimate.", "Fortresses such as Forte Mare and Kanli Kula dominate the cityscape."]
+    }
+  },
   {
     id: "me-tivat",
     descriptionAdvanced: { 
@@ -119,6 +204,18 @@ export const montenegroCitiesExtra = ([
       hu: ["Itt található a Montenegró partvidékét kiszolgáló két nemzetközi repülőtér egyike.", "A városban egy különleges, 24 hektáros városi park található, tele ritka egzotikus fákkal.", "A Tivat melletti tengerészeti múzeumban egy eredeti jugoszláv támadó tengeralattjáró is megtekinthető.", "A város klímája az öböl legnaposabb és legkellemesebb mikroklímája.", "Porto Montenegro ma a világ egyik legfontosabb szuperjacht kikötője."], 
       ro: ["În Tivat se află unul dintre aeroporturile internaționale ale țării.", "Portul de iahturi Porto Montenegro este capabil să găzduiască super-iahturi.", "Orașul a funcționat ca arsenal naval în secolul al XIX-lea.", "În Tivat se află muzeul patrimoniului maritim, întins pe 24 de hectare.", "Clima orașului este una dintre cele mai blânde din golf.", "Împrejurimile se mândresc cu numeroase insulițe."], 
       en: ["The city hosts one of Montenegro's two primary international airports.", "The Porto Montenegro marina is specifically designed to accommodate superyachts.", "The site formerly functioned as a naval arsenal throughout the 19th century.", "A 24-hectare Maritime Heritage Museum is open to the public.", "Tivat's local microclimate remains among the mildest within the Kotor Bay.", "The surrounding coastal area is dotted with numerous small islands."] 
+    },
+    description: {
+      de: "Tivat ist eine moderne Küstenstadt in der Bucht von Kotor und Heimat eines internationalen Flughafens.",
+      hu: "Tivat egy modern tengerparti város a Kotori-öbölben, ahol nemzetközi repülőtér is található.",
+      ro: "Tivat este un oraș de coastă modern în Golful Kotor și găzduiește un aeroport internațional.",
+      en: "Tivat is a modern coastal town in the Bay of Kotor and home to an international airport."
+    },
+    facts: {
+      de: ["Porto Montenegro in Tivat ist ein luxuriöser Yachthafen für Superyachten.", "Die Stadt entwickelte sich aus einem kleinen Marine-Arsenal.", "Tivat ist bekannt für seine sonnigen Strände und Promenaden."],
+      hu: ["A tivati Porto Montenegro egy luxus kikötő szuperjachtok számára.", "A város egy kis tengerészeti arzenálból fejlődött ki.", "Tivat napsütéses strandjairól és sétányairól ismert."],
+      ro: ["Porto Montenegro din Tivat este un port de agrement de lux pentru superyachturi.", "Orașul s-a dezvoltat dintr-un mic arsenal naval.", "Tivat este cunoscut pentru plajele și promenadele sale însorite."],
+      en: ["Porto Montenegro in Tivat is a luxury marina for superyachts.", "The town developed from a small naval arsenal.", "Tivat is known for its sunny beaches and promenades."]
     }
   },
   {
@@ -134,6 +231,18 @@ export const montenegroCitiesExtra = ([
       hu: ["A város 1456 méteres tengerszint feletti magasságban helyezkedik el.", "A település körül 18 tengerszem, úgynevezett 'hegyi szem' található.", "Télen a hóvastagság gyakran meghaladja a két métert, hónapokig fedve a tájat.", "A helyi éttermekben népszerű a hagyományos hegyvidéki étel, a kacamak.", "A Durmitor-hegység 48 csúcsa emelkedik 2000 méter fölé."], 
       ro: ["Orașul este situat la o altitudine de 1456 de metri.", "Parcul Național Durmitor face parte din patrimoniul mondial UNESCO.", "În împrejurimi se află 18 lacuri glaciare (ochiuri de munte).", "Žabljak este cel mai faimos centru de sporturi de iarnă din Muntenegru.", "Cel mai înalt vârf din zonă este Bobotov Kuk (2522 m).", "În jurul orașului alternează pădurile de conifere cu pășunile alpine."], 
       en: ["The town sits at an impressive elevation of 1,456 meters.", "Durmitor National Park is officially recognized as a UNESCO World Heritage site.", "The surrounding area contains 18 distinct glacial lakes.", "Žabljak remains the most prominent winter sports hub in Montenegro.", "The highest peak in the vicinity is Bobotov Kuk at 2,522 meters.", "The landscape features a mosaic of coniferous forests and alpine pastures."] 
+    },
+    description: {
+      de: "Žabljak ist die am höchsten gelegene Stadt auf dem Balkan und das Zentrum des alpinen Tourismus in Montenegro.",
+      hu: "Žabljak a Balkán legmagasabban fekvő városa, és a montenegrói alpesi turizmus központja.",
+      ro: "Žabljak este orașul situat la cea mai mare altitudine din Balcani și centrul turismului alpin din Muntenegru.",
+      en: "Žabljak is the highest town in the Balkans and the center of alpine tourism in Montenegro."
+    },
+    facts: {
+      de: ["Die Stadt liegt auf einer Höhe von 1456 Metern über dem Meeresspiegel.", "Sie befindet sich im Herzen des Durmitor-Nationalparks.", "In der Umgebung gibt es 18 spektakuläre Gletscherseen."],
+      hu: ["A város 1456 méteres tengerszint feletti magasságban helyezkedik el.", "A Durmitor Nemzeti Park szívében található.", "A környéken 18 látványos gleccsertó (hegyi szem) található."],
+      ro: ["Orașul este situat la o altitudine de 1456 de metri deasupra nivelului mării.", "Se află în inima Parcului Național Durmitor.", "În împrejurimi există 18 lacuri glaciare spectaculoase."],
+      en: ["The town sits at an elevation of 1,456 meters above sea level.", "It is located in the heart of Durmitor National Park.", "There are 18 spectacular glacial lakes in the surrounding area."]
     }
   },
   {
@@ -149,6 +258,18 @@ export const montenegroCitiesExtra = ([
       hu: ["Az Ulcinji Nagystrand (Velika Plaža) 13 km hosszú.", "Ulcinj a legöregebb város az adriai parton.", "A városban keveredik az iszlám és az ortodox kultúra.", "A városban található az Adá-sziget (Ada Bojana), amely a folyótorkolatban fekszik.", "A 17. században Ulcinj a kalózok központja volt.", "A város környéke olajfaligetekben bővelkedik."], 
       ro: ["Marea plajă din Ulcinj (Velika Plaža) are o lungime de 13 km.", "Ulcinj este unul dintre cele mai vechi orașe de pe coasta Adriatică.", "În oraș se întrepătrund culturile islamică și ortodoxă.", "În oraș se află insula Ada (Ada Bojana).", "În secolul al XVII-lea, Ulcinj a fost un centru al piraților.", "Împrejurimile orașului sunt bogate în plantații de măslini."], 
       en: ["The Great Beach (Velika Plaža) stretches for an impressive 13 kilometers.", "Ulcinj is documented as one of the oldest settlements on the Adriatic coast.", "The city reflects a unique intersection of Islamic and Orthodox cultural traditions.", "Ada Bojana, a river island, is located within the municipal boundary.", "During the 17th century, Ulcinj served as a notorious pirate stronghold.", "The surrounding region is characterized by extensive, historic olive groves."] 
+    },
+    description: {
+      de: "Ulcinj ist die südlichste Stadt Montenegros und bekannt für ihr orientalisches Flair sowie lange Sandstrände.",
+      hu: "Ulcinj Montenegró legdélibb városa, amely keleti hangulatáról és hosszú homokos strandjairól ismert.",
+      ro: "Ulcinj este cel mai sudic oraș din Muntenegru, cunoscut pentru atmosfera sa orientală și plajele lungi de nisip.",
+      en: "Ulcinj is the southernmost city in Montenegro, known for its oriental flair and long sandy beaches."
+    },
+    facts: {
+      de: ["Der 'Velika Plaža' (Große Strand) ist mit 13 Kilometern einer der längsten an der Adria.", "Die Stadt war im 17. Jahrhundert eine berüchtigte Piratenhochburg.", "Ulcinj ist eine der ältesten Siedlungen an der Adriaküste."],
+      hu: ["Az Ulcinji Nagystrand (Velika Plaža) mintegy 13 kilométer hosszú.", "A város a 17. században egy hírhedt kalózközpont volt.", "Ulcinj az egyik legrégebbi település az adriai parton."],
+      ro: ["Marea Plajă (Velika Plaža) are o lungime de aproximativ 13 kilometri.", "Orașul a fost un faimos centru al piraților în secolul al XVII-lea.", "Ulcinj este una dintre cele mai vechi așezări de pe coasta Adriatică."],
+      en: ["The Great Beach (Velika Plaža) is about 13 kilometers long.", "The city was a notorious pirate stronghold in the 17th century.", "Ulcinj is one of the oldest settlements on the Adriatic coast."]
     }
   }
 ] as unknown as POI[]);

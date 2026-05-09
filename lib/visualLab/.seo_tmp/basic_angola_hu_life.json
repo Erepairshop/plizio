@@ -1,0 +1,99 @@
+{
+  "lang": "hu",
+  "country": "Angola",
+  "files": [
+    "lib/visualLab/data/poiExtraAngolaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fazenda-tchipeio-life-v2",
+      "description": "Jelentős mezőgazdasági farm, amely Angola vidékének növénytermesztéséért felelős.",
+      "facts": ["helyi termelés", "mezőgazdasági központ", "vidékfejlesztés"]
+    },
+    {
+      "id": "fazenda-maquela-do-zombo-life-v2",
+      "description": "Mezőgazdasági létesítmény a zöldellő északi régióban.",
+      "facts": ["északi régió", "növénytermesztés", "gazdasági szereplő"]
+    },
+    {
+      "id": "parque-infantil-luanda-life-v2",
+      "description": "Luanda népszerű közösségi parkja a családok és gyerekek számára.",
+      "facts": ["családi kikapcsolódás", "városi zöldövezet", "játszótér"]
+    },
+    {
+      "id": "fazenda-kwanza-sul-life-v2",
+      "description": "Kiterjedt mezőgazdasági terület a Kwanza Sul tartományban.",
+      "facts": ["termőföldek", "régiós gazdaság", "mezőgazdaság"]
+    },
+    {
+      "id": "centro-ambiental-lubango-life-v2",
+      "description": "Környezetvédelmi központ Lubango város közelében a természet megőrzéséért.",
+      "facts": ["környezetvédelem", "oktatási központ", "ökoszisztéma"]
+    },
+    {
+      "id": "parque-nacional-da-quiçama-life-v2",
+      "description": "Angola egyik leghíresebb nemzeti parkja, amely gazdag élővilággal rendelkezik.",
+      "facts": ["nemzeti park", "biodiverzitás", "szafari"]
+    },
+    {
+      "id": "fazenda-benguela-life-v2",
+      "description": "Benguela tartomány meghatározó mezőgazdasági üzeme.",
+      "facts": ["gazdasági termelés", "régiós fejlődés", "mezőgazdasági bázis"]
+    },
+    {
+      "id": "jardim-botanico-do-lubango-life-v2",
+      "description": "Lubango botanikus kertje, amely az angolai növényvilágot mutatja be.",
+      "facts": ["botanikus kert", "növénygyűjtemény", "természeti látnivaló"]
+    },
+    {
+      "id": "reserva-de-caça-do-luando-life-v2",
+      "description": "Természetvédelmi terület a Luando folyó vidékén.",
+      "facts": ["természetvédelem", "élőhely-megőrzés", "biológiai sokféleség"]
+    },
+    {
+      "id": "parque-urbano-da-cidadela-life-v2",
+      "description": "Luanda városi központi parkja a kikapcsolódásra.",
+      "facts": ["városi park", "közösségi tér", "pihenőhely"]
+    },
+    {
+      "id": "reserva-natural-do-quissama-life-v2",
+      "description": "Természeti rezervátum, amely a helyi vadvilág számára biztosít otthont.",
+      "facts": ["természeti érték", "vadvédelem", "biodiverzitás"]
+    },
+    {
+      "id": "jardim-da-independencia-life-v2",
+      "description": "Függetlenségi kert, amely Luanda történelmi és városi központjában található.",
+      "facts": ["városi kert", "emlékhely", "közösségi tér"]
+    },
+    {
+      "id": "fazenda-huambo-life-v2",
+      "description": "Huambo régió fontos mezőgazdasági farmja.",
+      "facts": ["mezőgazdaság", "helyi gazdaság", "termelés"]
+    },
+    {
+      "id": "parque-infantil-benguela-life-v2",
+      "description": "Gyermekpark Benguelában a családok kikapcsolódásáért.",
+      "facts": ["gyerekeknek", "városi zöldövezet", "szórakozás"]
+    },
+    {
+      "id": "reserva-do-lumeje-life-v2",
+      "description": "Természetvédelmi terület a Lumeje régióban.",
+      "facts": ["ökológia", "természeti terület", "élőhely"]
+    },
+    {
+      "id": "parque-ecologico-de-luanda-life-v2",
+      "description": "Ökológiai park Luandában a környezettudatosságért.",
+      "facts": ["ökológiai központ", "városi természet", "oktatás"]
+    },
+    {
+      "id": "reserva-de-cangandala-life-v2",
+      "description": "Természetvédelmi terület a ritka állatfajok megőrzésére.",
+      "facts": ["vadvédelem", "rezervátum", "biológiai sokféleség"]
+    },
+    {
+      "id": "parque-botanico-huambo-life-v2",
+      "description": "Huambo botanikus kertje az angolai flóra bemutatására.",
+      "facts": ["botanikus kert", "flóra", "kutatás"]
+    }
+  ]
+}

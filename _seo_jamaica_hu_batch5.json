@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monymusk-sugar-factory-life-v2",
+      "descriptionAdvanced": "A Monymusk cukorgyár Clarendon plébániában Jamaica egyik legrégebbi és legjelentősebb ipari-mezőgazdasági létesítménye, amely évszázadok óta meghatározza a régió gazdasági életét. A hatalmas síkságon fekvő ültetvények és a gyár komplexuma a cukornád-feldolgozás teljes folyamatát lefedi, a nyers nád beérkezésétől a cukor és melasz előállításáig. Monymusk neve világszerte ismert a prémium minőségű jamaicai rum alapanyagaként is, hiszen a gyár melasza adja az ital jellegzetes karakterét. Bár a globális cukorpiac változásai kihívások elé állították az üzemet, Monymusk továbbra is a jamaicai agráripar egyik tartóoszlopa, ahol a hagyományos munkamódszerek és a modern technológiai fejlesztések találkoznak a fenntartható jövő érdekében.",
+      "factsAdvanced": [
+        "A Monymusk birtok története egészen a 18. század elejéig nyúlik vissza.",
+        "Jamaica egyik legnagyobb összefüggő cukornád-termő területének központja.",
+        "A gyár által termelt melasz alapvető az exportra szánt jamaicai rumokhoz.",
+        "A betakarítási szezonban az üzem a nap 24 órájában folyamatosan működik.",
+        "A területen jelentős kutatások zajlanak a cukornád-alapú bioetanol előállítására.",
+        "Clarendon plébánia egyik legfontosabb munkahelyteremtő létesítménye.",
+        "Az üzem mellett egykor saját vasúti hálózat működött a szállítás megkönnyítésére.",
+        "A Monymusk márkanév alatt palackozott rumok nemzetközi díjakat is nyertek."
+      ]
+    },
+    {
+      "id": "worthy-park-estate-life-v2",
+      "descriptionAdvanced": "A Worthy Park birtok St. Catherine plébánia szívében, a festői Lluidas-völgyben található, és 1720-as alapítása óta folyamatosan működik, ezzel Jamaica egyik legősibb és legtiszteltebb mezőgazdasági intézménye. A birtok különlegessége a teljes vertikális integráció: a cukornádat a környező saját földeken termesztik, majd a helyi gyárban dolgozzák fel, és a lepárlóban készítik belőle a világhírű rumokat. Worthy Park híres arról, hogy megőrizte függetlenségét és a hagyományos kézműves megközelítést, miközben modern technológiával biztosítja a kiváló minőséget. A látogatók a birtokon megtapasztalhatják a valódi jamaicai ültetvényes életérzést, ahol a történelem minden kőben és minden pohár rumban jelen van.",
+      "factsAdvanced": [
+        "A Worthy Park Estate már 1720-ban is létezett, és azóta is ugyanaz a család birtokolja.",
+        "A birtok egy elszigetelt völgyben fekszik, ami egyedi mikroklímát biztosít a termesztéshez.",
+        "Jamaica egyik legmodernebb és leghatékonyabb cukorgyárát működtetik itt.",
+        "A Worthy Park rumokat kizárólag saját termelésű melaszból, pot still eljárással készítik.",
+        "Az ültetvény területén több mint 20 különböző cukornádfajtát tesztelnek folyamatosan.",
+        "A lepárló 2005-ös újjáépítése óta a prémium fehér és érlelt rumok piacán is vezető szerepet tölt be.",
+        "A birtoktúra során a látogatók megismerhetik a fenntartható gazdálkodás minden lépését.",
+        "Worthy Park híres a környezetvédelmi törekvéseiről, beleértve a víz újrahasznosítását is."
+      ]
+    },
+    {
+      "id": "hampden-estate-rum-life-v2",
+      "descriptionAdvanced": "A Hampden Estate Trelawny plébániában a jamaicai rumgyártás igazi 'szentélye', amely világszerte ismert a rendkívül intenzív aromájú, magas észtertartalmú rumjairól. Az 1753-ban alapított birtok több mint két évszázada szinte változatlan formában alkalmazza a hagyományos lepárlási eljárásokat, beleértve a kizárólag természetes vadélesztővel történő erjesztést és a klasszikus rézüstök használatát. Hampden rumjai a legkeresettebbek a nemzetközi blenderek körében, hiszen egyedi karaktert kölcsönöznek bármely italnak. A birtok buja trópusi környezete és történelmi épületei visszarepítik a látogatót az időben, bemutatva egy olyan mesterséget, amelyben a türelem és a természet ereje fontosabb a tömegtermelésnél. Ez a helyszín a jamaicai kulturális örökség és a kézműves gasztronómia elválaszthatatlan része.",
+      "factsAdvanced": [
+        "A Hampden Estate 1753 óta működik, Trelawny egyik legrégebbi birtoka.",
+        "Híres az úgynevezett 'Dunder' technológiáról, amely az extra aromás erjesztést segíti.",
+        "A lepárlóban kizárólag természetes forrásvizet használnak a hegyekből.",
+        "Itt nem használnak hozzáadott cukrot vagy színezéket a rumok készítésekor.",
+        "A birtok egykor Skóciából érkezett telepesek tulajdona volt, innen a neve.",
+        "A Hampden Estate rumok alapvetőek az európai, különösen a németországi rumimport számára.",
+        "A látogatóközpont bemutatja az ültetvény 18. századi 'Great House' épületét is.",
+        "A birtokon nagy hangsúlyt fektetnek a biodiverzitás megőrzésére a cukornádültetvények körül."
+      ]
+    },
+    {
+      "id": "long-pond-sugar-estate-life-v2",
+      "descriptionAdvanced": "A Long Pond cukorbirtok Trelawny plébániában a jamaicai északi partvidék egyik legfontosabb történelmi és ma is működő mezőgazdasági központja. A birtok híres hatalmas kiterjedésű cukornádültetvényeiről, amelyek a Cockpit Country pereméig nyúlnak, valamint a gyáráról, amely a környék számos kistermelőjének terményét dolgozza fel. Long Pond neve összefonódott a híres jamaicai 'high ester' rumokkal, mivel a gyárhoz tartozó lepárló az egyik legfontosabb forrása az intenzív ízvilágú párlatoknak. Bár az utóbbi években a gyár üzemeltetése többször is gazdát cserélt, Long Pond továbbra is a jamaicai cukor- és rumipar egyik meghatározó bástyája, amely generációk óta biztosít megélhetést a helyi közösségeknek és őrzi a sziget agrártörténeti hagyományait.",
+      "factsAdvanced": [
+        "A Long Pond birtok a 18. század közepén jött létre.",
+        "Itt található Jamaica egyik legfontosabb 'high ester' rumlepárlója.",
+        "A gyár kulcsfontosságú Trelawny plébánia gazdasági stabilitása szempontjából.",
+        "A területen található ültetvények a karsztos talaj miatt különleges cukornádat teremnek.",
+        "A Long Pond márka prémium kiadásai a világ legdrágább rumjai közé tartoznak.",
+        "Az üzem jelentős szerepet játszott az 1900-as évek eleji jamaicai iparosításban.",
+        "A gyár technológiája a hagyományos rézüstös és a modern oszlopos lepárlást ötvözi.",
+        "A birtok környéke híres a gazdag madárvilágáról és trópusi növényzetéről."
+      ]
+    },
+    {
+      "id": "serge-island-dairy-life-v2",
+      "descriptionAdvanced": "A Serge Island tejgazdaság St. Thomas plébániában Jamaica legnagyobb és legfejlettebb tejipari üzeme, amely az ország friss tej- és tejtermék-ellátásának egyik legfontosabb bázisa. A hegyek és a tenger között fekvő hatalmas legelőkön kiváló minőségű szarvasmarha-állományt tartanak, amelyet modern fejési és feldolgozási technológiákkal kombinálnak. A Serge Island nemcsak tejet, hanem gyümölcsleveket és különféle italokat is gyárt, amelyek a jamaicai háztartások és iskolai étkeztetési programok alapvető cikkei. Az üzem nagy hangsúlyt fektet a minőségellenőrzésre és a helyi alapanyagok használatára, támogatva a régió kistermelőit is. Ez a gazdaság a bizonyíték arra, hogy Jamaica képes magas színvonalú, modern mezőgazdasági és élelmiszeripari termelést folytatni a fővárostól távolabb eső területeken is.",
+      "factsAdvanced": [
+        "A Serge Island Jamaica legnagyobb egybefüggő tejgazdasága.",
+        "Az üzem a sziget délkeleti részén, Seaforth közelében található.",
+        "Saját, speciálisan a jamaicai klímához nemesített állományuk van (Jamaica Hope fajta).",
+        "Híres a tejalapú italairól és a gyerekkor kedvencének számító dobozos kakaóiról.",
+        "A gyárban szigorú HACCP élelmiszerbiztonsági rendszert alkalmaznak.",
+        "A gazdaság több száz hektáron gazdálkodik, fenntartható legeltetési módszerekkel.",
+        "Jelentős szerepet játszanak a kormányzati iskolatej-programban.",
+        "Az üzem saját logisztikai hálózattal juttatja el termékeit az ország minden pontjára."
+      ]
+    },
+    {
+      "id": "seprod-factory-kingston-life-v2",
+      "descriptionAdvanced": "A Seprod gyárkomplexum Kingstonban Jamaica élelmiszeriparának egyik legbefolyásosabb szereplője, amely több mint nyolc évtizede látja el a szigetet alapvető élelmiszerekkel. A vállalat a kókuszolaj- és zsírtermelésből indult, de mára hatalmas portfólióval rendelkezik, beleértve a lisztet, a tejet, a kekszeket és a különféle étolajokat. A Seprod nemcsak gyártó, hanem jelentős exportőr is, termékei a Karib-térség szinte minden országában megtalálhatók. A kingstoni gyárak modernizációja folyamatos, nagy hangsúlyt fektetve a hatékonyságra és a csomagolástechnikára. A Seprod a jamaicai gazdasági stabilitás szimbóluma, amely képes volt alkalmazkodni a piaci változásokhoz, miközben hű maradt alapvető küldetéséhez: a megfizethető és minőségi élelmiszerek biztosításához a nemzet számára.",
+      "factsAdvanced": [
+        "A Seprod csoportot 1940-ben alapították, eredetileg 'Coconut Industry Board'-ként.",
+        "Központja és fő gyártóegységei a Kingston-i kikötő közelében, az ipari negyedben találhatók.",
+        "A vállalatcsoport több mint 1000 embert foglalkoztat közvetlenül.",
+        "Hozzájuk tartoznak olyan ikonikus márkák, mint a 'Butterkist' kekszek és a 'Serge Island' tej.",
+        "Jelentős befektetéseket eszközölnek a megújuló energiaforrások használatába a gyáraikban.",
+        "A Seprod alapvető partnere a jamaicai kistermelőknek a pálmaolaj és tej felvásárlásában.",
+        "Termékeik exportja Kanadától Angliáig az egész világra kiterjed.",
+        "A vállalat aktív társadalmi felelősségvállalási programot működtet az oktatás támogatására."
+      ]
+    },
+    {
+      "id": "red-stripe-brewery-life-v2",
+      "descriptionAdvanced": "A Red Stripe sörfőzde Kingstonban Jamaica egyik legikonikusabb és világszerte legismertebb márkájának otthona. Az 1918-ban alapított gyárban készül a híres, rövid nyakú üvegbe zárt világos sör, amely a jamaicai életérzés és vendégszeretet nemzetközi jelképévé vált. A sörfőzde a modern technológiát ötvözi a hagyományos receptúrával, miközben úttörő szerepet játszik a fenntarthatóságban, például a helyi termesztésű manióka (cassava) használatával az árpa egy részének kiváltására. A látogatók a főzdében megismerhetik a sörfőzés folyamatát, a márka gazdag történelmét és megkóstolhatják a legfrissebb csapolt Red Stripe-ot. Ez a gyár nemcsak egy gazdasági óriás, hanem a jamaicai büszkeség forrása is, amely a világ minden pontjára eljuttatja a sziget hírnevét.",
+      "factsAdvanced": [
+        "A Red Stripe sört először 1928-ban főzték le a jelenlegi recept alapján.",
+        "A sörfőzde Kingstonban, a Spanish Town Road mentén található.",
+        "A gyár a HEINEKEN csoport tagja, de megőrizte erős jamaicai identitását.",
+        "A 'Project Plastic' keretében az üvegek és rekeszek nagy részét újrahasznosítják.",
+        "A sörgyár saját víztisztító és biogáz-előállító rendszerrel rendelkezik.",
+        "A Red Stripe sör több mint 25 nemzetközi aranyérmet nyert minőségéért.",
+        "A gyár mellett egy modern látogatóközpont és márkamúzeum is működik.",
+        "Itt készülnek a népszerű ízesített sörök is, mint a citromos vagy sorrel-es változatok."
+      ]
+    },
+    {
+      "id": "j-wray-nephew-life-v2",
+      "descriptionAdvanced": "A J. Wray & Nephew Ltd. Jamaica legrégebbi vállalata és a szigetországi rumkultúra abszolút vezetője, amelynek története 1825-ig nyúlik vissza. A cég kingstoni központja és lepárlói a nemzeti identitás részei, itt készül többek között a legendás 'White Overproof Rum', amely minden jamaicai háztartás és bár elengedhetetlen kelléke. A vállalat szakértelme az erjesztéstől a blendelésig egyedülálló, és ők tulajdonolják a híres Appleton Estate birtokot is. A J. Wray & Nephew nemcsak egy szeszipari cég, hanem a jamaicai társadalom és gazdaság tartóoszlopa, amely jelentős adóbevételt generál és világszerte népszerűsíti a sziget kiválóságait. A cég története hűen tükrözi Jamaica fejlődését a gyarmati korszaktól a modern, globális piaci szereplővé válásig.",
+      "factsAdvanced": [
+        "A céget John Wray alapította 1825-ben egy egyszerű kingstoni tavernában.",
+        "A 'Wray & Nephew White Overproof' Jamaica legkeresettebb alkoholos itala.",
+        "A vállalat a Campari csoport része, biztosítva a globális disztribúciót.",
+        "Itt őrzik a világ egyik legértékesebb és legöregebb érlelt rumkészletét.",
+        "A cég központja a New Kingston-i üzleti negyedben található.",
+        "Szigorú minőségellenőrzési laboratóriumaik a legmagasabb nemzetközi szabványoknak felelnek meg.",
+        "A J. Wray & Nephew alapítványa jelentős összegekkel támogatja a helyi közösségi projekteket.",
+        "A márka elválaszthatatlan része a jamaicai vallási szertartásoknak és népi gyógyászatnak is."
+      ]
+    },
+    {
+      "id": "grace-kennedy-logistics-life-v2",
+      "descriptionAdvanced": "A GraceKennedy logisztikai központ Kingstonban Jamaica egyik legsikeresebb és legsokoldalúbb vállalatbirodalmának, a 'Grace'-nek a szíve. Az 1922-ben alapított cég mára globális élelmiszeripari és pénzügyi szolgáltatóvá nőtte ki magát, logisztikai hálózata pedig kulcsfontosságú a szigetország ellátásában és exporttevékenységében. A modern raktárbázisok és elosztó központok a legújabb technológiával biztosítják a termékek frissességét és gyors eljuttatását a fogyasztókhoz. A GraceKennedy neve a minőség és a megbízhatóság szinonimája Jamaicában, legyen szó élelmiszerről, biztosításról vagy pénzátutalásról. A logisztikai divízió fejlődése szorosan összefügg Jamaica azon törekvésével, hogy a Karib-térség kereskedelmi csomópontjává váljon, kihasználva a sziget stratégiai elhelyezkedését.",
+      "factsAdvanced": [
+        "A GraceKennedy csoportot Fred William Kennedy és James Moss-Solomon alapította 1922-ben.",
+        "A vállalat több mint 60 országba exportál jamaicai élelmiszereket.",
+        "Logisztikai központjuk Kingston kikötőjének közvetlen szomszédságában található.",
+        "Ők a Western Union hivatalos képviselői Jamaicában és a régióban.",
+        "A cég központja egy modern épület Kingston vízparti negyedében.",
+        "A logisztikai rendszerükben RFID és más vonalkódos nyomkövetést alkalmaznak.",
+        "A GraceKennedy rendszeresen elnyeri 'Az év legjobb jamaicai vállalata' címet.",
+        "Nagy hangsúlyt fektetnek a 'zöld logisztikára' és a károsanyag-kibocsátás csökkentésére."
+      ]
+    },
+    {
+      "id": "lasco-manufacturing-life-v2",
+      "descriptionAdvanced": "A LASCO Manufacturing St. Catherine plébániában, White Marl területén Jamaica egyik legmodernebb és leggyorsabban fejlődő élelmiszeripari és gyógyszeripari vállalata. A gyárkomplexum világszínvonalú technológiával állít elő különféle termékeket, a poralapú élelmiszerektől és italoktól kezdve a személyi higiéniai cikkekig. A LASCO alapítója, Lascelles Chin látomása a megfizethető luxus és a minőségi alaptermékek biztosítása volt minden jamaicai számára, ami mára sikeres üzleti modellé vált az egész Karib-térségben. Az üzemekben folyó gyártás során nagy hangsúlyt fektetnek a kutatás-fejlesztésre és az innovációra, biztosítva a termékek versenyképességét a nemzetközi piacon is. A LASCO nemcsak egy gyártó cég, hanem a jamaicai vállalkozói szellem és a társadalmi felelősségvállalás kiemelkedő példája.",
+      "factsAdvanced": [
+        "A LASCO Manufacturing központja White Marlban található, stratégiai ponton az autópálya mellett.",
+        "A cég egyik legnépszerűbb terméke a LASCO Food Drink tejalapú italpor.",
+        "A gyógyszeripari divíziójuk a régió egyik legnagyobb generikus gyógyszergyártója.",
+        "A vállalat részvényeit a jamaicai tőzsdén is jegyzik.",
+        "A LASCO alapítványa évente díjazza az év tanárát, rendőrét és ápolóját Jamaicában.",
+        "Az üzemben modern, automata töltő- és csomagolósorok működnek.",
+        "Termékeik nagy része mentes a mesterséges tartósítószerektől.",
+        "A cég jelentős exportpiacokkal rendelkezik Közép- és Dél-Amerikában."
+      ]
+    },
+    {
+      "id": "digicel-hq-kingston-life-v2",
+      "descriptionAdvanced": "A Digicel globális központja Kingston vízparti negyedében nemcsak egy irodaház, hanem Jamaica modern kori építészetének és gazdasági ambícióinak egyik leglátványosabb jelképe. A 2013-ban átadott épület a Karib-térség legzöldebb irodaháza, amely napenergiát, szélenergiát és esővíz-gyűjtő rendszereket is alkalmaz a fenntartható működés érdekében. A Digicel, mint a régió vezető telekommunikációs szolgáltatója, innen irányítja több tucat országban folyó tevékenységét, hozzájárulva Kingston 'digitális várossá' válásához. Az épület belseje modern munkakörnyezetet kínál, beépítve a jamaicai művészetet és kultúrát a mindennapi üzleti életbe. A központ jelenléte katalizátorként hatott Kingston belvárosának rehabilitációjára, vonzva más nemzetközi befektetéseket is a környékre.",
+      "factsAdvanced": [
+        "Az épületet 2013-ban fejezték be, és ez a Digicel Group nemzetközi székhelye.",
+        "A homlokzaton elhelyezett napelemek és szélturbinák fedezik az energiaigény jelentős részét.",
+        "Az irodaház belső udvarát buja vertikális kertek díszítik.",
+        "Itt található Jamaica egyik legmodernebb adatközpontja és hálózati irányítója.",
+        "Az épület bejárata előtt kortárs jamaicai szobrok és installációk láthatók.",
+        "A Digicel HQ közvetlen szomszédságában található a Nemzeti Galéria is.",
+        "Az irodaház elnyerte a legmagasabb szintű környezetvédelmi tanúsítványokat a régióban.",
+        "A felső szintekről pazar kilátás nyílik a kingstoni kikötőre és a Kék-hegységre."
+      ]
+    },
+    {
+      "id": "montego-bay-convention-centre-life-v2",
+      "descriptionAdvanced": "A Montego Bay Konferencia Központ Rose Hallban Jamaica és a Karib-térség első számú üzleti és rendezvényhelyszíne, amely világszínvonalú infrastruktúrával várja a nemzetközi találkozókat. A 2011-ben, kínai-jamaicai együttműködés keretében épült komplexum több mint 50 000 négyzetméteren kínál kiállítótereket, báltermeket és tárgyalókat, pazar kilátással az óceánra. A központ kulcsszerepet játszik Jamaica MICE (Meetings, Incentives, Conferences, Exhibitions) turizmusának fejlesztésében, lehetővé téve nagyszabású világkonferenciák, zenei fesztiválok és diplomáciai csúcstalálkozók megrendezését. Modern építészete és trópusi környezete egyedülálló atmoszférát teremt, pozicionálva Montego Bay-t mint a régió üzleti fővárosát. A központ sikere jelentősen hozzájárul a környező luxusszállodák telítettségéhez és az ország nemzetközi presztízséhez.",
+      "factsAdvanced": [
+        "A központot 2011 januárjában adták át hivatalosan.",
+        "Ez Jamaica legnagyobb fedett rendezvényhelyszíne.",
+        "Többször is elnyerte a 'Karib-térség vezető konferencia-központja' díjat.",
+        "A komplexum teljes mértékben akadálymentesített és korszerű technológiával felszerelt.",
+        "Közvetlen szomszédságában található a híres Rose Hall Great House és több golfpálya.",
+        "A központ saját catering-szolgáltatása képes akár több ezer vendég kiszolgálására is.",
+        "A terület parkolója több mint 600 autó befogadására alkalmas.",
+        "Gyakran ad otthont olyan eseményeknek, mint a Jamaica Product Exchange (JAPEX)."
+      ]
+    },
+    {
+      "id": "falmouth-market-life-v2",
+      "descriptionAdvanced": "A falmouth-i piac, különösen a híres szerdai 'hajnali piac' (Bend-down Market), Jamaica egyik legélettelibb és legautentikusabb kereskedelmi élményét nyújtja. Trelawny plébánia szívében ez a piac a környék mezőgazdasági termelőinek és kézműveseinek gyűjtőhelye, ahol a látogatók a legfrissebb trópusi gyümölcsöket, zöldségeket, fűszereket és helyi használati tárgyakat találhatják meg. A piac hangulata, az árusok harsány kínálása és a színek kavalkádja a valódi jamaicai életérzést tükrözi, távol a turistáknak szánt mesterséges övezetektől. A falmouth-i piac nemcsak a gazdaság, hanem a közösségi élet központja is, ahol generációk óta cserélnek gazdát a sziget kincsei, és ahol a látogatók bepillantást nyerhetnek Jamaica vidéki kultúrájának és gasztronómiájának alapjaiba.",
+      "factsAdvanced": [
+        "A szerdai piac napja a legfontosabb, már hajnali 4-kor kezdődik az árusítás.",
+        "Nevét (Bend-down) onnan kapta, hogy az áruk egy részét a földön, ponyvákon kínálják.",
+        "Itt található az északi part egyik legjobb választéka friss jamaicai yamgyökérből.",
+        "A piac Falmouth történelmi grúz negyedének közvetlen szomszédságában fekszik.",
+        "Az árusok gyakran a közeli Cockpit Country hegyei közül érkeznek.",
+        "A piacon kiváló minőségű házi készítésű kókuszolajat és mézet is lehet vásárolni.",
+        "Az utóbbi években modernizálták a fedett csarnokokat a higiénia javítása érdekében.",
+        "A piac a tengerjáró hajókkal érkező turisták számára is egyre népszerűbb célpont."
+      ]
+    },
+    {
+      "id": "coronation-market-kingston-life-v2",
+      "descriptionAdvanced": "A Coronation Market Kingston belvárosában Jamaica legnagyobb és legikonikusabb nagybani piaca, amelyet gyakran az ország 'éléskamrájának' is neveznek. Az 1936-ban, VI. György koronázásának tiszteletére elnevezett piac egy hatalmas, nyüzsgő univerzum, ahol a sziget minden pontjáról érkező termelők és kereskedők adják-veszik a mezőgazdasági terményeket. A piac atmoszférája páratlan: a teherautókról lepakolt hatalmas banánfürtök, az egzotikus fűszerek illata és a tömeg moraja a jamaicai gazdaság nyers és őszinte valóságát mutatja be. A Coronation Market nemcsak egy kereskedelmi központ, hanem kulturális jelenség is, amely meghatározza az élelmiszerárakat az egész országban, és ahol Kingston lüktetése a legintenzívebben érezhető.",
+      "factsAdvanced": [
+        "A piacot 1936-ban alapították Kingston történelmi nyugati részén.",
+        "Területe több háztömböt foglal el, és naponta több tízezer ember fordul meg itt.",
+        "Itt található Jamaica legszélesebb választéka egzotikus gyümölcsökből és zöldségekből.",
+        "A piacot nemrégiben teljesen felújították a Digicel és a kormány támogatásával.",
+        "A csütörtöki és pénteki éjszakák a legforgalmasabbak, amikor a vidéki szállítmányok befutnak.",
+        "A Coronation Market a jamaicai utcai kultúra és a kreol nyelv egyik legfontosabb színtere.",
+        "Az árusok közötti szociális háló és bizalom a piac működésének alapköve.",
+        "A látogatás csak helyi kísérővel vagy erős városismerettel ajánlott a tömeg miatt."
+      ]
+    },
+    {
+      "id": "knutsford-express-hub-life-v2",
+      "descriptionAdvanced": "A Knutsford Express központi hubjai Kingstonban, Montego Bay-ben és más nagyvárosokban Jamaica modern és megbízható tömegközlekedésének alapkövei. A vállalat forradalmasította a szigeten belüli utazást a menetrend szerinti, légkondicionált, luxuskivitelű autóbuszjárataival, amelyek összekötik a legfontosabb gazdasági és turisztikai központokat. A központi állomások (hubok) modern várótermekkel, ingyenes Wi-Fi-vel és professzionális ügyfélszolgálattal várják az utasokat, biztonságos és kényelmes alternatívát nyújtva a magánautózással vagy a hagyományos kisbuszokkal szemben. A Knutsford Express hálózata nélkülözhetetlen az üzleti utazók, a turisták és a helyi lakosság számára egyaránt, segítve a sziget gazdasági integrációját és a mobilitás növelését.",
+      "factsAdvanced": [
+        "A vállalat Jamaica első és egyetlen prémium távolsági autóbusz-szolgáltatója.",
+        "A központi Kingston-i terminál New Kingston szívében található.",
+        "Járataik közvetlen kapcsolatot biztosítanak a repülőterek és a nagyvárosok között.",
+        "A buszokon fedélzeti szórakoztató rendszer és mosdó is rendelkezésre áll.",
+        "A Knutsford Express saját cargo-szolgáltatást is működtet a gyors áruszállításhoz.",
+        "Menetrendjük precíz, ami ritkaság a Karib-térség tömegközlekedésében.",
+        "A hubok környékén számos étterem és üzlet települt a tranzitforgalom miatt.",
+        "A vállalat folyamatosan bővíti flottáját a legmodernebb környezetbarát buszokkal."
+      ]
+    },
+    {
+      "id": "jamaica-public-service-life-v2",
+      "descriptionAdvanced": "A Jamaica Public Service (JPS) az ország fő áramszolgáltatója, amelynek központja és infrastruktúrája Jamaica modernizációjának és energetikai biztonságának alapkövét jelenti. A több mint egy évszázada alapított társaság ma már vegyes tulajdonban van, és folyamatosan dolgozik a sziget elektromos hálózatának fejlesztésén, beleértve az okos mérőórák bevezetését és a megújuló energiaforrások integrálását. A JPS telephelyei, az erőművektől az elosztó központokig, a sziget technológiai vázát alkotják, biztosítva a lakosság és az ipar zavartalan működését. A vállalat stratégiai célja az energiaárak csökkentése és a hatékonyság növelése, ami alapvető fontosságú Jamaica globális versenyképessége szempontjából a 21. században.",
+      "factsAdvanced": [
+        "A JPS-t 1923-ban alapították, jelenleg a Marubeni és a Korea East-West Power a fő tulajdonosok.",
+        "A cég felelős a sziget szinte teljes elektromos átviteli és elosztó hálózatáért.",
+        "Központja Kingston belvárosában, a Knutsford Boulevard közelében található.",
+        "Jelentős beruházásokat hajtanak végre a cseppfolyósított földgáz (LNG) alapú energiatermelésbe.",
+        "A JPS alapítványa kiemelt figyelmet fordít a természettudományos oktatás támogatására.",
+        "A vállalat üzemelteti Jamaica legnagyobb hőtárolós és kombinált ciklusú erőműveit.",
+        "Az utóbbi években elindították az elektromos autók töltőhálózatának kiépítését a szigeten.",
+        "A hálózat felügyeletét modern, digitalizált központból végzik a nap 24 órájában."
+      ]
+    },
+    {
+      "id": "national-water-commission-life-v2",
+      "descriptionAdvanced": "A Nemzeti Vízügyi Bizottság (National Water Commission - NWC) Jamaica legfontosabb közműcége, amely a szigetország ivóvíz-ellátásáért és szennyvízkezeléséért felelős. Az NWC kezeli a hatalmas tározókat, mint a Mona és a Hermitage, valamint több száz vízművet, kutat és szivattyúállomást, amelyek a legeldugottabb hegyi falvaktól a luxusszállodákig mindenkit kiszolgálnak. A vízügyi infrastruktúra folyamatos karbantartása és fejlesztése kritikus jelentőségű Jamaica egészségügye és gazdasága számára, különösen a klímaváltozás okozta aszályos időszakokban. Az NWC tevékenysége kiterjed a vízminőség szigorú ellenőrzésére és a fenntartható vízgazdálkodás népszerűsítésére, biztosítva, hogy a sziget bőséges természeti kincsei mindenki számára elérhetővé váljanak.",
+      "factsAdvanced": [
+        "Az NWC naponta több mint 190 millió gallon vizet juttat el a lakossághoz.",
+        "A szervezet 1980-ban jött létre több kisebb vízügyi hatóság összevonásával.",
+        "Hozzájuk tartozik a főváros vízellátását biztosító Mona Reservoir és Hermitage Dam.",
+        "A vállalat nagy hangsúlyt fektet a csőhálózatok cseréjére a szivárgási veszteségek csökkentése érdekében.",
+        "Modern víztisztító telepeik a legmagasabb higiéniai szabványoknak megfelelően működnek.",
+        "Az NWC központi irodája Kingstonban, a Marescaux Roadon található.",
+        "Számos sótalanító és újrahasznosító projektet indítottak a vízhiányos területeken.",
+        "A szervezet kulcsszerepet játszik Jamaica katasztrófavédelmi terveiben a hurrikánszezon idején."
+      ]
+    },
+    {
+      "id": "bank-of-jamaica-life-v2",
+      "descriptionAdvanced": "A Bank of Jamaica (BoJ) a szigetország központi bankja, amely Kingston modern vízparti negyedében található monumentális épületéből irányítja Jamaica monetáris politikáját. Az 1960-ban alapított intézet felelős a jamaicai dollár kibocsátásáért, az árstabilitás fenntartásáért és a pénzügyi rendszer felügyeletéért. A bank épülete Kingston egyik építészeti jelképe, amelynek falai között nemcsak szigorú közgazdasági munka folyik, hanem egy kiváló pénztörténeti múzeum és egy hangversenyterem is helyet kapott. A BoJ döntései alapvetően befolyásolják Jamaica gazdasági növekedését, az inflációt és a nemzetközi hitelképességet, biztosítva az ország pénzügyi szuverenitását és stabilitását a globális piacokon.",
+      "factsAdvanced": [
+        "A Bank of Jamaica 1961. május 1-jén kezdte meg működését.",
+        "Az épületkomplexum Kingston egyik legbiztonságosabb és legmodernebb létesítménye.",
+        "Itt található a Pénzmúzeum (Money Museum), amely bemutatja Jamaica valutájának történetét.",
+        "A bank kormányzóját a főkormányzó nevezi ki miniszterelnöki javaslatra.",
+        "A BoJ aktívan használja a közösségi médiát és az utcai művészetet a gazdasági edukációra.",
+        "Ők felügyelik a sziget összes kereskedelmi bankját és pénzügyi intézményét.",
+        "A bank épülete előtt álló szobrok és terek a független Jamaica modernitását hirdetik.",
+        "A BoJ volt az egyik első központi bank a világon, amely bevezette saját digitális valutáját (Jam-Dex)."
+      ]
+    },
+    {
+      "id": "port-authority-jamaica-life-v2",
+      "descriptionAdvanced": "A Jamaica Kikötői Hatóság (Port Authority of Jamaica - PAJ) az ország tengeri kereskedelmének és turizmusának legfőbb irányító szerve, amelynek tevékenysége alapvető Jamaica mint globális logisztikai csomópont felemelkedéséhez. A PAJ felügyeli az összes nagy kereskedelmi kikötőt, beleértve a Kingston-i konténerterminált, valamint a világszínvonalú tengerjáró hajó terminálokat Falmouth-ban, Ocho Rios-ban és Montego Bay-ben. A szervezet feladata a kikötői infrastruktúra fejlesztése, a tengeri biztonság garantálása és a környezetvédelmi előírások betartatása. A PAJ sikeresen pozicionálta Jamaicát a Panama-csatorna bővítése utáni új világkereskedelmi útvonalakon, jelentős nemzetközi befektetéseket és modern technológiát vonzva a sziget partjaira.",
+      "factsAdvanced": [
+        "A PAJ egy állami szervezet, amely Jamaica összes hivatalos kikötőjét kezeli.",
+        "Központjuk Kingston belvárosában, a vízparti negyedben található.",
+        "Hozzájuk tartozik a Kingstont és Port Royalt összekötő modern komp-szolgáltatás is.",
+        "A PAJ vezette a Falmouth-i tengerjáró terminál több száz millió dolláros fejlesztését.",
+        "Kulcsszerepet játszanak a jamaicai szabadkereskedelmi övezetek (Free Zones) kialakításában.",
+        "A hatóság szigorú nemzetközi ISPS biztonsági kódex alapján üzemelteti a kikötőket.",
+        "Folyamatosan fejlesztik a kikötők digitális irányítási rendszerét (Port Community System).",
+        "A PAJ felelős a világítótornyok és tengeri jelzőfények karbantartásáért is a sziget körül."
+      ]
+    },
+    {
+      "id": "great-river-bay-nature-v2",
+      "descriptionAdvanced": "A Great River-öböl St. James és Hanover plébániák határán Jamaica egyik legérintetlenebb és természeti értékekben leggazdagabb tengerparti területe. Itt torkollik a tengerbe a Great River folyó, édes és sós víz különleges találkozási pontját hozva létre, amely ideális élőhelyet biztosít számos hal- és madárfajnak. Az öböl környéke híres buja mangroveerdőiről, amelyek természetes gátként védik a partvonalat az eróziótól és viharoktól. A látogatók számára a Great River-öböl a nyugalom szigete, ahol lehetőség nyílik kajakozásra, madármegfigyelésre vagy egyszerűen a kristálytiszta víz élvezetére. Ez a helyszín a bizonyíték Jamaica északi partjának rejtett szépségeire, ahol a természet ereje és a folyó torkolatának misztikus hangulata elvarázsol minden utazót.",
+      "factsAdvanced": [
+        "Az öböl közvetlenül a Great River folyó torkolatánál, Montego Bay-től nyugatra fekszik.",
+        "A terület a Great River tengeri védett övezet része.",
+        "Híres a torkolatnál megfigyelhető gazdag madárvilágáról, köztük kócsagokról és pelikánokról.",
+        "A folyóvíz hordaléka miatt az öböl tengerfeneke rendkívül tápanyagdús.",
+        "Kedvelt helyszíne a folyami rafting túrák befejező pontjának.",
+        "A környék mangroveerdői kritikus szerepet játszanak a sziget ökoszisztémájában.",
+        "Az öböl vizeiben gyakran látni delfineket és tengeri teknősöket.",
+        "A helyszín csendes alternatívát nyújt a forgalmas montego bay-i strandok mellett."
+      ]
+    },
+    {
+      "id": "montegobay-marinepark-nature-v2",
+      "descriptionAdvanced": "A Montego Bay Tengeri Park Jamaica első és egyik legfontosabb tengeri természetvédelmi területe, amely a várost övező korallzátonyokat, tengerifű-mezőket és mangroveerdőket óvja. Az 1991-ben alapított park küldetése a biológiai sokféleség megőrzése és a fenntartható turizmus elősegítése egy olyan környezetben, amelyet a városi fejlődés erősen igénybe vesz. A park területén a látogatók szigorúan szabályozott keretek között ismerkedhetnek meg a tengeri élővilággal: a sznorkelezés és a búvárkodás során színpompás korallok, trópusi halak és tengeri teknősök tárulnak a szemük elé. A park oktatási programjai és tudományos kutatásai alapvető fontosságúak a jamaicai zátonyok jövője szempontjából, tanítva a helyi közösségeket és a turistákat a tengeri ökoszisztéma sérülékenységére és tiszteletére.",
+      "factsAdvanced": [
+        "A parkot 1991-ben hozták létre, több mint 15 négyzetkilométernyi tengeri területet fed le.",
+        "A területén tilos a kereskedelmi halászat és a korallok gyűjtése.",
+        "Híres a 'Doctor's Cave' zátonyról és más látványos merülőhelyeiről.",
+        "A park nonprofit szervezetként működik, szoros együttműködésben a helyi hatóságokkal.",
+        "A mangrove-mocsarakban számos veszélyeztetett madárfaj fészkel.",
+        "Rendszeresen szerveznek parttakarítási és zátony-rehabilitációs programokat.",
+        "A látogatók számára interaktív információs központ érhető el a kikötőben.",
+        "A park léte elengedhetetlen Montego Bay strandjainak és tiszta vizének megőrzéséhez."
+      ]
+    },
+    {
+      "id": "discovery-bay-marine-nature-v2",
+      "descriptionAdvanced": "A Discovery Bay tengeri rezervátum St. Ann plébániában egy nemzetközileg elismert tengerbiológiai kutatóhely és természetvédelmi zóna, amely egyedülálló ökoszisztémájáról híres. Az öböl mélyvízi és sekély tengeri élőhelyei között számos ritka korallfaj és tengeri élőlény található, amelyeket évtizedek óta tanulmányoznak a Nyugat-indiai Egyetem (UWI) kutatói. A rezervátum célja a halállomány megőrzése és a zátonyok egészségének helyreállítása, ami kulcsfontosságú a helyi halászati közösségek és a turizmus számára. A Discovery Bay kristálytiszta vize és a tengerfenék változatos domborzata ideális terep a tudományos megfigyelésekhez és a felelős vízi sportokhoz, emlékeztetve minket a Karib-tenger rejtett biológiai kincseire és azok védelmének fontosságára.",
+      "factsAdvanced": [
+        "Itt található az UWI Discovery Bay Tengerbiológiai Laboratóriuma (DBML).",
+        "Az öböl karsztos forrásai friss édesvizet juttatnak a tengerbe, egyedi sószintet teremtve.",
+        "A terület úttörő a koralltelepítési és zátony-rehabilitációs technológiákban.",
+        "A rezervátum területén szigorúan korlátozzák a motoros vízi járművek forgalmát.",
+        "Híres a nagy méretű tengeri szivacsokról és a különleges lágykorallokról.",
+        "Az öböl védett fekvése miatt ideális kikötőhely volt már a spanyol időkben is.",
+        "A kutatók itt figyelték meg először a klímaváltozás hatását a karibi korallfehéredésre.",
+        "A rezervátum fontos oktatóközpont a világ minden tájáról érkező tengerbiológus hallgatók számára."
+      ]
+    },
+    {
+      "id": "ocho-rios-marine-nature-v2",
+      "descriptionAdvanced": "Az Ocho Rios tengeri park Jamaica északi partjának egyik legnépszerűbb és leglátványosabb védett vizi területe, amely a híres Dunn's River Falls torkolatától egészen a város keleti határáig terjed. A park célja a korallzátonyok és a hozzájuk kapcsolódó tengeri fauna megóvása a tömegturizmus hatásaitól, miközben lehetőséget biztosít a fenntartható kikapcsolódásra. Az öböl vizeiben úszva a látogatók találkozhatnak tengeri csillagokkal, rájákkal és színes korallsügérekkel a gondozott víz alatti ösvényeken. A park mangrove-szegélyei fontos bölcsődéi a fiatal halaknak, biztosítva a tengeri ökoszisztéma folytonosságát. Ocho Rios tengeri rezervátuma a tökéletes példája annak, hogyan férhet meg egymás mellett a lüktető idegenforgalom és a tudatos természetvédelem egy trópusi paradicsomban.",
+      "factsAdvanced": [
+        "A védett terület magában foglalja a híres Devil's Reef merülőhelyet is.",
+        "A parkban tilos a szigonypuskás halászat és az élővilág bármilyen jellegű zavarása.",
+        "Az Ocho Rios-i zátonyok híresek a hatalmas tengeri legyezőkorallokról.",
+        "A tengeri park közvetlen kapcsolatban áll a közeli botanikus kertekkel a vízgyűjtő területen keresztül.",
+        "A part mentén több üvegfenekű hajó is közlekedik a zátonyok bemutatására.",
+        "Rendszeresen végeznek tudományos felméréseket a tengeri fűmezők állapotáról.",
+        "A park önkéntesei aktívan részt vesznek a tengerparti szemétgyűjtési akciókban.",
+        "Az Ocho Rios Marine Park fontos szerepet játszik a város partvédelmi stratégiájában."
+      ]
+    },
+    {
+      "id": "port-antonio-marine-nature-v2",
+      "descriptionAdvanced": "A Port Antonio tengeri védett terület Jamaica legvadregényesebb és legmélyebb vizű partvidékét öleli fel Portland plébániában. Ez a régió híres meredek víz alatti sziklafalairól, kék lyukairól és a smaragdzöld tengerpartról, amely az ország legcsapadékosabb területeként dús növényzetet és tiszta folyóvizeket kínál. A rezervátum védi a Blue Lagoon misztikus vizeit és az öböl menti korallpadokat, ahol az élővilág a tenger mélysége miatt különleges fajokat is rejt. Port Antonio tengeri világa sokkal kevésbé zsúfolt, mint az északi part más részei, így itt a természet nyers és érintetlen szépsége dominál. A védett övezet kulcsfontosságú Portland ökoturisztikai vonzerejének fenntartásához és a különleges tengeri biodiverzitás hosszú távú megőrzéséhez.",
+      "factsAdvanced": [
+        "A terület magában foglalja a világhírű Blue Lagoon-t és az Alligator Head zátonyt.",
+        "Portland vizei Jamaica legmélyebb tengerparti szakaszai közé tartoznak.",
+        "A rezervátum híres a ritka fekete korallokról, amelyek a mélyebb részeken élnek.",
+        "A területen tilos a korallzátonyok károsítása és a védett halfajok halászata.",
+        "A part menti sziklákban számos tengeri barlang található, amelyek fontos fészkelőhelyek.",
+        "A víz alatti látótávolság itt gyakran meghaladja a 30 métert a tiszta forrásvizek miatt.",
+        "A rezervátumot helyi civil szervezetek és a nemzeti környezetvédelmi hatóság közösen felügyeli.",
+        "A Port Antonio-i tengeri világ a búvárfotósok és a kalandvágyó búvárok kedvenc helyszíne."
+      ]
+    },
+    {
+      "id": "port-royal-marine-nature-v2",
+      "descriptionAdvanced": "A Port Royal tengeri védett terület Kingston kikötőjének bejáratánál Jamaica egyik legérdekesebb ökoszisztémája, ahol a történelem a víz alatt folytatódik. A védett zóna nemcsak a korallzátonyokat és a Palisadoes-félsziget kiterjedt mangrovéit óvja, hanem az 1692-es földrengés során víz alá süllyedt várost is, amely ma egyedülálló mesterséges zátonyként szolgál a tengeri élővilág számára. A Port Royal Cays (apró korallszigetek) kristálytiszta vizei és homokpadjai ideális fészkelőhelyei a tengeri teknősöknek és pihenőhelyei a vándormadaraknak. Ez a terület Jamaica tengerészeti és természeti múltjának élő archívuma, ahol a régészeti leletek és a biológiai sokféleség szoros szimbiózisban létezik a főváros közvetlen szomszédságában.",
+      "factsAdvanced": [
+        "A terület a Palisadoes-Port Royal Védett Övezet része, amely Ramsari terület is.",
+        "Magában foglalja a víz alatti romvárost, amely UNESCO világörökségi várományos.",
+        "A Port Royal Cays (pl. Lime Cay, Maiden Cay) kedvelt hétvégi célpontjai a kingstoniaknak.",
+        "A területen található mangrovék Jamaica egyik legfontosabb partvédelmi zónáját alkotják.",
+        "A zátonyok körül gyakran látni tengeri teheneket (manatee) és ritka cápafajokat is.",
+        "A vízalatti régészeti leletek védelme érdekében a búvárkodás bizonyos részeken engedélyköteles.",
+        "A környék vizei fontosak a helyi kisüzemi halászat fenntartható kezelése szempontjából.",
+        "A Port Royal-i tengeri rezervátum alapvető a kingstoni kikötő vízminőségének javításához."
+      ]
+    }
+  ]
+}

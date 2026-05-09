@@ -57,11 +57,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.2500, -8.8333],
     name: { de: "Zoo Luanda", hu: "Luandai Állatkert", ro: "Grădina Zoologică din Luanda", en: "Luanda Zoo" },
-    description: { de: "Ein beliebter Ort für Familien, um einheimische Tierarten aus Angola zu entdecken.", hu: "Népszerű hely a családok számára, ahol megismerhetik Angola őshonos állatfajait.", ro: "Un loc popular pentru familii pentru a descoperi speciile native de animale din Angola.", en: "A popular place for families to discover native animal species from Angola." },
+    description: { de: "Ein beliebter Ort für Familien, um einheimische Tierarten aus Angola zu entdecken.", hu: "Népszerű hely a családok számára, ahol megismerhetik Angola őshonos állatfajait.", ro: "O grădină zoologică dedicată conservării faunei locale și educării publicului despre biodiversitatea angoleză.", en: "A popular place for families to discover native animal species from Angola." },
     facts: {
       de: ["Bildungszentrum", "Afrikanische Tierwelt"],
       hu: ["Oktatási központ", "Afrikai vadvilág"],
-      ro: ["Centru educativ", "Fauna africană"],
+      ro: ["Situată în Luanda", "Adăpostește specii autohtone", "Centru de educație"],
       en: ["Educational center", "African wildlife"]
     },
     descriptionAdvanced: {
@@ -107,11 +107,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-UIG",
     coords: [15.7500, -6.0000],
     name: { de: "Maquela do Zombo Plantage", hu: "Maquela do Zombo Ültetvény", ro: "Plantația Maquela do Zombo", en: "Maquela do Zombo Plantation" },
-    description: { de: "Eine landwirtschaftliche Region im Norden, die für den Anbau tropischer Früchte und Kaffee bekannt ist.", hu: "Északi mezőgazdasági régió, amely trópusi gyümölcsök és kávé termesztéséről ismert.", ro: "O regiune agricolă din nord, cunoscută pentru cultivarea fructelor tropicale și a cafelei.", en: "An agricultural region in the north known for cultivating tropical fruits and coffee." },
+    description: { de: "Eine landwirtschaftliche Region im Norden, die für den Anbau tropischer Früchte und Kaffee bekannt ist.", hu: "Északi mezőgazdasági régió, amely trópusi gyümölcsök és kávé termesztéséről ismert.", ro: "O fermă agricolă importantă situată în provincia Uíge, reprezentativă pentru producția locală de cafea și culturi tropicale.", en: "An agricultural region in the north known for cultivating tropical fruits and coffee." },
     facts: {
       de: ["Uíge Provinz", "Günstiges tropisches Klima"],
       hu: ["Uíge tartomány", "Kedvező trópusi éghajlat"],
-      ro: ["Provincia Uíge", "Climat tropical favorabil"],
+      ro: ["Situată în Uíge", "Producție agricolă", "Tradiție în cultivarea cafelei"],
       en: ["Uíge province", "Favorable tropical climate"]
     },
     descriptionAdvanced: {
@@ -157,11 +157,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-NAM",
     coords: [12.0000, -15.0000],
     name: { de: "Namibe Teilreservat", hu: "Namibe Részleges Rezervátum", ro: "Rezervația Parțială Namibe", en: "Namibe Partial Reserve" },
-    description: { de: "Ein Wüstenökosystem, das einzigartige Pflanzenarten und Wüstentiere beherbergt.", hu: "Sivatagi ökoszisztéma, amely egyedülálló növényfajoknak és sivatagi állatoknak ad otthont.", ro: "Un ecosistem deșertic care găzduiește specii unice de plante și animale de deșert.", en: "A desert ecosystem that hosts unique plant species and desert animals." },
+    description: { de: "Ein Wüstenökosystem, das einzigartige Pflanzenarten und Wüstentiere beherbergt.", hu: "Sivatagi ökoszisztéma, amely egyedülálló növényfajoknak és sivatagi állatoknak ad otthont.", ro: "O zonă protejată cu un ecosistem arid unic, fiind casa speciilor adaptate la condițiile aspre din deșertul Namibe.", en: "A desert ecosystem that hosts unique plant species and desert animals." },
     facts: {
       de: ["Wüstenanpassung", "Einzigartige Flora"],
       hu: ["Sivatagi alkalmazkodás", "Egyedülálló növényvilág"],
-      ro: ["Adaptare la deșert", "Floră unică"],
+      ro: ["Ecosistem arid", "Situată în Namibe", "Biodiversitate unică"],
       en: ["Desert adaptation", "Unique flora"]
     },
     descriptionAdvanced: {
@@ -282,11 +282,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.4800, -14.9200],
     name: { de: "Umweltzentrum Lubango", hu: "Lubangói Környezetvédelmi Központ", ro: "Centrul de Mediu Lubango", en: "Lubango Environmental Center" },
-    description: { de: "Ein interaktives Zentrum, das Kindern Wissen über die Natur Angolas vermittelt.", hu: "Interaktív központ, amely megtanítja a gyerekeket Angola természetéről.", ro: "Un centru interactiv care îi învață pe copii despre natura Angolei.", en: "An interactive center that teaches children about the nature of Angola." },
+    description: { de: "Ein interaktives Zentrum, das Kindern Wissen über die Natur Angolas vermittelt.", hu: "Interaktív központ, amely megtanítja a gyerekeket Angola természetéről.", ro: "Un centru dedicat conservării mediului înconjurător în zona muntoasă din jurul orașului Lubango.", en: "An interactive center that teaches children about the nature of Angola." },
     facts: {
       de: ["Bildung", "Naturkunde"],
       hu: ["Oktatás", "Természettudomány"],
-      ro: ["Educație", "Științele naturii"],
+      ro: ["Situat în Lubango", "Promovează conservarea", "Ecosistem montan"],
       en: ["Education", "Natural history"]
     },
     descriptionAdvanced: {
@@ -307,11 +307,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-BGO",
     coords: [13.5000, -9.6000],
     name: { de: "Quiçama Nationalpark", hu: "Quiçama Nemzeti Park", ro: "Parcul Național Quiçama", en: "Quiçama National Park" },
-    description: { de: "Ein weitläufiges Schutzgebiet, ideal für Safaris und die Beobachtung afrikanischer Fauna.", hu: "Hatalmas védett terület, ideális szafarikhoz és az afrikai vadvilág megfigyeléséhez.", ro: "O zonă protejată vastă, ideală pentru safari și observarea faunei africane.", en: "A vast protected area, ideal for safaris and observing African wildlife." },
+    description: { de: "Ein weitläufiges Schutzgebiet, ideal für Safaris und die Beobachtung afrikanischer Fauna.", hu: "Hatalmas védett terület, ideális szafarikhoz és az afrikai vadvilág megfigyeléséhez.", ro: "Unul dintre cele mai importante parcuri naționale, celebru pentru eforturile sale de repopulare cu animale sălbatice.", en: "A vast protected area, ideal for safaris and observing African wildlife." },
     facts: {
       de: ["Artenvielfalt", "Große Säugetiere"],
       hu: ["Fajgazdagság", "Nagytestű emlősök"],
-      ro: ["Biodiversitate", "Mamifere mari"],
+      ro: ["Situat lângă Luanda", "Reabilitarea faunei", "Destinație safari"],
       en: ["Biodiversity", "Large mammals"]
     },
     descriptionAdvanced: {
@@ -357,11 +357,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-HUI",
     coords: [13.4900, -14.9100],
     name: { de: "Botanischer Garten Lubango", hu: "Lubangói Füvészkert", ro: "Grădina Botanică Lubango", en: "Lubango Botanical Garden" },
-    description: { de: "Ein schöner Garten mit heimischen Pflanzen aus Angola, der auch als Erholungsort dient.", hu: "Szép kert angolai őshonos növényekkel, amely pihenőhelyként is szolgál.", ro: "O grădină frumoasă cu plante native din Angola, care servește și ca loc de relaxare.", en: "A beautiful garden with native plants from Angola, which also serves as a place for relaxation." },
+    description: { de: "Ein schöner Garten mit heimischen Pflanzen aus Angola, der auch als Erholungsort dient.", hu: "Szép kert angolai őshonos növényekkel, amely pihenőhelyként is szolgál.", ro: "O grădină botanică ce prezintă flora diversă a platoului Huíla într-un cadru protejat.", en: "A beautiful garden with native plants from Angola, which also serves as a place for relaxation." },
     facts: {
       de: ["Heimische Flora", "Erholung"],
       hu: ["Őshonos növényvilág", "Pihenés"],
-      ro: ["Floră nativă", "Relaxare"],
+      ro: ["Situat în Lubango", "Flora platoului Huíla", "Educație botanică"],
       en: ["Native flora", "Relaxation"]
     },
     descriptionAdvanced: {
@@ -407,11 +407,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-LNO",
     coords: [20.0000, -8.0000],
     name: { de: "Fazenda Lunda Norte", hu: "Lunda Norte Gazdaság", ro: "Ferma Lunda Norte", en: "Lunda Norte Farm" },
-    description: { de: "Ein landwirtschaftliches Gebiet im Nordosten, bekannt für seine vielfältigen Anbaumöglichkeiten.", hu: "Északkeleti mezőgazdasági terület, amely sokszínű termesztési lehetőségeiről ismert.", ro: "O zonă agricolă în nord-est, cunoscută pentru oportunitățile sale diverse de cultivare.", en: "An agricultural area in the northeast, known for its diverse cultivation opportunities." },
+    description: { de: "Ein landwirtschaftliches Gebiet im Nordosten, bekannt für seine vielfältigen Anbaumöglichkeiten.", hu: "Északkeleti mezőgazdasági terület, amely sokszínű termesztési lehetőségeiről ismert.", ro: "O exploatație agricolă reprezentativă pentru potențialul agricol al regiunii Lunda Norte.", en: "An agricultural area in the northeast, known for its diverse cultivation opportunities." },
     facts: {
       de: ["Lunda Norte Provinz", "Fruchtbarer Boden"],
       hu: ["Lunda Norte tartomány", "Termékeny talaj"],
-      ro: ["Provincia Lunda Norte", "Sol fertil"],
+      ro: ["Situată în Lunda Norte", "Potențial agricol", "Producție regională"],
       en: ["Lunda Norte province", "Fertile soil"]
     },
     descriptionAdvanced: {
@@ -432,11 +432,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.2300, -8.8450],
     name: { de: "Cidadela Stadtpark", hu: "Cidadela Városliget", ro: "Parc Urban Cidadela", en: "Cidadela Urban Park" },
-    description: { de: "Ein Park mit vielen Flächen für Kinder und Familien zum Spielen in Luanda.", hu: "Park sok területtel a gyerekek és családok számára a játékhoz Luandában.", ro: "Un parc cu multe zone pentru copii și familii pentru joacă în Luanda.", en: "A park with many spaces for children and families to play in Luanda." },
+    description: { de: "Ein Park mit vielen Flächen für Kinder und Familien zum Spielen in Luanda.", hu: "Park sok területtel a gyerekek és családok számára a játékhoz Luandában.", ro: "Un spațiu verde recreativ situat în inima urbană a orașului, oferind locuri de relaxare și aer curat.", en: "A park with many spaces for children and families to play in Luanda." },
     facts: {
       de: ["Grünfläche", "Freizeit"],
       hu: ["Zöldterület", "Szabadidő"],
-      ro: ["Spațiu verde", "Recreere"],
+      ro: ["Situat în Luanda", "Spațiu verde urban", "Zona de relaxare"],
       en: ["Green space", "Recreation"]
     },
     descriptionAdvanced: {
@@ -509,11 +509,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.2400, -8.8400],
     name: { de: "Garten der Unabhängigkeit", hu: "Függetlenség Kertje", ro: "Grădina Independenței", en: "Garden of Independence" },
-    description: { de: "Ein öffentlicher Raum in Luanda, der oft für familienorientierte Veranstaltungen genutzt wird.", hu: "Luandai nyilvános tér, amelyet gyakran családközpontú rendezvényekre használnak.", ro: "Un spațiu public în Luanda, adesea folosit pentru evenimente orientate către familie.", en: "A public space in Luanda, often used for family-oriented events." },
+    description: { de: "Ein öffentlicher Raum in Luanda, der oft für familienorientierte Veranstaltungen genutzt wird.", hu: "Luandai nyilvános tér, amelyet gyakran családközpontú rendezvényekre használnak.", ro: "O grădină publică simbolică pentru istoria recentă a Angolei, situată într-o zonă urbană centrală.", en: "A public space in Luanda, often used for family-oriented events." },
     facts: {
       de: ["Öffentliche Versammlungen", "Familien"],
       hu: ["Nyilvános összejövetelek", "Családok"],
-      ro: ["Adunări publice", "Familii"],
+      ro: ["Situat în Luanda", "Simbol al independenței", "Spațiu civic"],
       en: ["Public gatherings", "Families"]
     },
     descriptionAdvanced: {
@@ -588,11 +588,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-MOX",
     coords: [21.5000, -11.5000],
     name: { de: "Lumeje Reservat", hu: "Lumeje Rezervátum", ro: "Rezervația Lumeje", en: "Lumeje Reserve" },
-    description: { de: "Ein Naturschutzgebiet, das den Schutz von Wildtieren im Osten Angolas fördert.", hu: "Természetvédelmi terület, amely elősegíti a vadvilág védelmét Angola keleti részén.", ro: "O arie protejată care promovează conservarea faunei sălbatice în estul Angolei.", en: "A nature reserve that promotes the conservation of wildlife in eastern Angola." },
+    description: { de: "Ein Naturschutzgebiet, das den Schutz von Wildtieren im Osten Angolas fördert.", hu: "Természetvédelmi terület, amely elősegíti a vadvilág védelmét Angola keleti részén.", ro: "O rezervație naturală ce protejează flora și fauna specifică bazinului râului Lumeje.", en: "A nature reserve that promotes the conservation of wildlife in eastern Angola." },
     facts: {
       de: ["Ost-Angola", "Wildtiererhalt"],
       hu: ["Kelet-Angola", "Vadvilág megőrzése"],
-      ro: ["Estul Angolei", "Conservarea faunei"],
+      ro: ["Situată în Lunda Sul", "Protejează fauna locală", "Biodiversitate riverană"],
       en: ["Eastern Angola", "Wildlife conservation"]
     },
     descriptionAdvanced: {
@@ -638,11 +638,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-LUA",
     coords: [13.2600, -8.8500],
     name: { de: "Ökopark Luanda", hu: "Luandai Ökopark", ro: "Parcul Ecologic Luanda", en: "Luanda Eco Park" },
-    description: { de: "Ein Lernort für Kinder über ökologische Zusammenhänge und Umweltschutz.", hu: "Tanulási hely gyerekeknek az ökológiai összefüggésekről és a környezetvédelemről.", ro: "Un loc de învățare pentru copii despre interdependențele ecologice și protecția mediului.", en: "A learning place for children about ecological relationships and environmental protection." },
+    description: { de: "Ein Lernort für Kinder über ökologische Zusammenhänge und Umweltschutz.", hu: "Tanulási hely gyerekeknek az ökológiai összefüggésekről és a környezetvédelemről.", ro: "Un parc ecologic ce promovează conservarea naturii și activitățile în aer liber în apropierea capitalei.", en: "A learning place for children about ecological relationships and environmental protection." },
     facts: {
       de: ["Umweltbildung", "Natur"],
       hu: ["Környezeti nevelés", "Természet"],
-      ro: ["Educație ecologică", "Natură"],
+      ro: ["Situat în Luanda", "Educație ecologică", "Destinație recreativă"],
       en: ["Environmental education", "Nature"]
     },
     descriptionAdvanced: {
@@ -663,11 +663,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-MAL",
     coords: [16.6000, -9.8500],
     name: { de: "Cangandala Reservat", hu: "Cangandala Rezervátum", ro: "Rezervația Cangandala", en: "Cangandala Reserve" },
-    description: { de: "Ein wichtiger Schutzraum zur Bewahrung der Riesen-Rappenantilopen-Population.", hu: "Fontos menedék az óriás fekete lóantilop populáció megőrzésére.", ro: "Un refugiu important pentru conservarea populației de antilope negre gigant.", en: "An important sanctuary for the conservation of the giant sable antelope population." },
+    description: { de: "Ein wichtiger Schutzraum zur Bewahrung der Riesen-Rappenantilopen-Population.", hu: "Fontos menedék az óriás fekete lóantilop populáció megőrzésére.", ro: "O rezervație creată inițial pentru protejarea antilopei sable gigante, simbolul național al Angolei.", en: "An important sanctuary for the conservation of the giant sable antelope population." },
     facts: {
       de: ["Erhaltungszucht", "Seltene Art"],
       hu: ["Megőrző tenyésztés", "Ritka faj"],
-      ro: ["Conservare", "Specie rară"],
+      ro: ["Situată în Malanje", "Protecție sable gigante", "Parc național important"],
       en: ["Conservation breeding", "Rare species"]
     },
     descriptionAdvanced: {
@@ -715,11 +715,11 @@ export const poiExtraAngolaLifeV2: POI[] = [
     parent: "AO-HUA",
     coords: [15.7500, -12.7500],
     name: { de: "Botanischer Park Huambo", hu: "Huambo Botanikus Park", ro: "Parcul Botanic Huambo", en: "Huambo Botanical Park" },
-    description: { de: "Ein pädagogischer Garten in Huambo, der Familien die Flora Angolas näherbringt.", hu: "Oktatókert Huambóban, amely közelebb hozza a családokhoz Angola növényvilágát.", ro: "O grădină educativă în Huambo, care aduce flora Angolei mai aproape de familii.", en: "An educational garden in Huambo that brings the flora of Angola closer to families." },
+    description: { de: "Ein pädagogischer Garten in Huambo, der Familien die Flora Angolas näherbringt.", hu: "Oktatókert Huambóban, amely közelebb hozza a családokhoz Angola növényvilágát.", ro: "O grădină botanică situată în Huambo, concentrată pe studierea și conservarea plantelor din regiunile interioare.", en: "An educational garden in Huambo that brings the flora of Angola closer to families." },
     facts: {
       de: ["Bildung", "Pflanzenwelt"],
       hu: ["Oktatás", "Növényvilág"],
-      ro: ["Educație", "Lumea plantelor"],
+      ro: ["Situat în Huambo", "Cercetare botanică", "Flora platoului central"],
       en: ["Education", "Plant life"]
     },
     descriptionAdvanced: {

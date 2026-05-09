@@ -1,0 +1,52 @@
+{
+  "lang": "ro",
+  "country": "Angola",
+  "files": [
+    "lib/visualLab/data/poiExtraAngolaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraAngolaLifeV2.ts",
+    "lib/visualLab/data/poiExtraAngolaNatureV2.ts",
+    "lib/visualLab/data/poiExtraAngolaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ponte-4-de-abril-landmarks-v2",
+      "description": "Un pod strategic care traversează râul Cuanza, simbolizând importanța infrastructurii în dezvoltarea Angolei.",
+      "facts": ["Inaugurat în perioada post-independență", "Leagă regiuni vitale", "Structură din beton și oțel"]
+    },
+    {
+      "id": "banco-nacional-angola-landmarks-v2",
+      "description": "Sediul central al autorității monetare din Luanda, situat într-o clădire emblematică pentru centrul financiar al țării.",
+      "facts": ["Fondată în 1926", "Situată în Luanda", "Reglementează moneda kwanza"]
+    },
+    {
+      "id": "igreja-nossa-senhora-carmo-landmarks-v2",
+      "description": "O biserică istorică din Luanda, remarcabilă prin arhitectura sa colonială bine conservată.",
+      "facts": ["Arhitectură colonială", "Situată în Luanda", "Centru de cult catolic"]
+    },
+    {
+      "id": "universidade-agostinho-neto-campus-landmarks-v2",
+      "description": "Principalul campus universitar modern situat în apropierea Luandei, destinat educației academice superioare.",
+      "facts": ["Cea mai mare universitate din țară", "Campus modern", "Fondată în 1962"]
+    },
+    {
+      "id": "estadio-nacional-tundavala-landmarks-v2",
+      "description": "Un stadion polivalent situat în Lubango, utilizat pentru evenimente sportive și culturale majore.",
+      "facts": ["Capacitate de 20.000 locuri", "Situat în Lubango", "Inaugurat în 2010"]
+    },
+    {
+      "id": "assembleia-nacional-landmarks-v2",
+      "description": "Sediul legislativ al Angolei, locul unde se iau deciziile politice fundamentale ale statului.",
+      "facts": ["Situat în Luanda", "Arhitectură impunătoare", "Centrul democrației angoleze"]
+    },
+    {
+      "id": "palacio-presidencial-luanda-landmarks-v2",
+      "description": "Reședința oficială a președintelui Angolei, situată într-o locație strategică cu vedere asupra golfului Luanda.",
+      "facts": ["Centrul puterii executive", "Arhitectură modernă", "Situat în zona centrală"]
+    },
+    {
+      "id": "monumento-a-paz-luena-landmarks-v2",
+      "description": "Un memorial dedicat păcii în Luena, simbolizând sfârșitul conflictelor și dorința de reconciliere națională.",
+      "facts": ["Situat în Luena", "Simbol al păcii", "Construit după 2002"]
+    }
+  ]
+}

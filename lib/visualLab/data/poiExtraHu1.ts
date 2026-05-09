@@ -651,10 +651,10 @@ export const poiExtraHu1: POI[] = [
     coords: [16.87, 47.55],
     name: { de: "Schloss Esterházy (Fertőd)", hu: "Esterházy-kastély (Fertőd)", ro: "Castelul Esterházy (Fertőd)", en: "Esterházy Palace (Fertőd)" },
     description: {
-      de: "Das 'ungarische Versailles', ein prächtiges Rokokoschloss in Fertőd.",
-      hu: "A 'magyar Versailles', egy pompás rokokó kastély Fertődön.",
-      ro: "\"Versailles-ul maghiar\", un castel rococo magnific în Fertőd.",
-      en: "The 'Hungarian Versailles', a magnificent Rococo palace in Fertőd."
+      de: "Das Schloss Eszterházy in Fertőd ist eines der größten und prächtigsten Barockschlösser Ungarns, oft als \"ungarisches Versailles\" bezeichnet.",
+      hu: "A fertődi Esterházy-kastély Magyarország egyik legnagyobb és legpompásabb barokk kastélya, amelyet gyakran a \"magyar Versailles\"-ként emlegetnek.",
+      ro: "Palatul Eszterházy din Fertőd este unul dintre cele mai mari și mai magnifice palate baroce din Ungaria, adesea numit \"Versailles-ul maghiar\".",
+      en: "Eszterházy Palace in Fertőd is one of the largest and most magnificent Baroque palaces in Hungary, often referred to as the \"Hungarian Versailles\"."
     },
     descriptionAdvanced: {
       de: "Das Esterházy-Schloss in Fertőd ist das größte und schönste Barock-Rokokoschloss Ungarns. Es wurde im 18. Jahrhundert von Fürst Nikolaus I. Esterházy erbaut. Der Komponist Joseph Haydn lebte und arbeitete hier über 30 Jahre lang. Das Schloss ist berühmt für seinen Prunksaal, das Opernhaus und die weitläufigen Gärten.",
@@ -663,10 +663,10 @@ export const poiExtraHu1: POI[] = [
       en: "The Esterházy Palace in Fertőd is the largest and most beautiful Baroque-Rococo palace in Hungary. It was built in the 18th century by Prince Nikolaus I Esterházy. The composer Joseph Haydn lived and worked here for over 30 years. The palace is famous for its banquet hall, opera house, and extensive gardens."
     },
     facts: {
-      de: ["Größtes Rokokoschloss Ungarns.", "Wirkungsstätte von Joseph Haydn.", "Hunderte von Zimmern.", "Wunderschöne französische Gärten."],
-      hu: ["Magyarország legnagyobb rokokó kastélya.", "Joseph Haydn munkahelye volt.", "Több száz szobával rendelkezik.", "Gyönyörű francia kertek."],
-      ro: ["Cel mai mare castel rococo din Ungaria.", "Locul unde a activat Joseph Haydn.", "Sute de camere.", "Grădini franceze minunate."],
-      en: ["Largest Rococo palace in Hungary.", "Workplace of Joseph Haydn.", "Hundreds of rooms.", "Beautiful French gardens."]
+      de: ["Es wurde im 18. Jahrhundert von Fürst Nikolaus I. Joseph Esterházy erbaut.", "Der berühmte Komponist Joseph Haydn lebte und arbeitete hier für fast drei Jahrzehnte.", "Das Schloss verfügt über einen weitläufigen, kunstvoll gestalteten Schlosspark."],
+      hu: ["A 18. században építtette I. (Fényes) Miklós herceg.", "Joseph Haydn, a híres zeneszerző közel három évtizeden át élt és alkotott itt.", "A kastélyhoz egy hatalmas, művészien kialakított park is tartozik."],
+      ro: ["A fost construit în secolul al XVIII-lea de prințul Nikolaus I Joseph Esterházy.", "Celebrul compozitor Joseph Haydn a trăit și a lucrat aici timp de aproape trei decenii.", "Palatul are un parc extins, amenajat artistic."],
+      en: ["It was built in the 18th century by Prince Nikolaus I Joseph Esterházy.", "The famous composer Joseph Haydn lived and worked here for nearly three decades.", "The palace features an extensive, artistically landscaped park."]
     }, image: "/poi-images/geschichte-eszterhazy-kastely-extra.webp"},
   // HU-HB: Hajdú-Bihar
   {
@@ -1022,10 +1022,10 @@ export const poiExtraHu1: POI[] = [
     coords: [19.79, 48.16],
     name: { de: "Karancs", hu: "Karancs", ro: "Karancs", en: "Karancs" },
     description: {
-      de: "Der 'Olymp der Paloczen', ein markanter Berg an der ungarisch-slowakischen Grenze.",
-      hu: "A 'palóc Olimposz', jellegzetes hegy a magyar-szlovák határon.",
-      ro: "\"Olimpul Palocilor\", un munte distinctiv la granița ungaro-slovacă.",
-      en: "The 'Olympus of the Palóc', a distinctive mountain on the Hungarian-Slovak border."
+      de: "Der Karancs ist ein markanter Berg an der ungarisch-slowakischen Grenze, der wegen seiner dominanten Form auch als \"Palóczen-Olymp\" bekannt ist.",
+      hu: "A Karancs egy jellegzetes hegy a magyar-szlovák határon, amelyet uralkodó formája miatt a \"palócok Olümposzának\" is neveznek.",
+      ro: "Karancs este un munte proeminent la granița ungaro-slovacă, cunoscut și sub numele de \"Olimpul Palocilor\" datorită formei sale dominante.",
+      en: "Karancs is a prominent mountain on the Hungarian-Slovak border, also known as the \"Olympus of the Palóc\" due to its dominant shape."
     },
     descriptionAdvanced: {
       de: "Der Karancs ist der höchste Gipfel des Karancs-Gebirges (729 m). Er wird oft als der Olymp der Paloczen (einer lokalen Volksgruppe) bezeichnet. Auf dem Gipfel steht ein Aussichtsturm, der einen weiten Blick über das Nógráder Bergland und bis in die Slowakei bietet. Die Region ist reich an Sagen und Legenden.",
@@ -1034,10 +1034,10 @@ export const poiExtraHu1: POI[] = [
       en: "The Karancs is the highest peak of the Karancs Mountains (729 m). It is often referred to as the Olympus of the Palóc (a local ethnic group). At the summit stands a lookout tower offering a wide view over the Nógrád hills and into Slovakia. The region is rich in myths and legends."
     },
     facts: {
-      de: ["Höchster Gipfel des Karancs-Gebirges (729 m).", "Grenzberg zur Slowakei.", "Wird 'Olymp der Paloczen' genannt.", "Aussichtsturm auf dem Gipfel."],
-      hu: ["A Karancs-hegység legmagasabb pontja (729 m).", "Határhegy Szlovákia felé.", "A 'palóc Olimposzként' ismerik.", "Kilátó a hegytetőn."],
-      ro: ["Cel mai înalt vârf din munții Karancs (729 m).", "Munte de frontieră cu Slovacia.", "Numit \"Olimpul Palocilor\".", "Turn de observație în vârf."],
-      en: ["Highest peak of the Karancs Mountains (729 m).", "Border mountain with Slovakia.", "Known as the 'Olympus of the Palóc'.", "Lookout tower on the summit."]
+      de: ["Sein höchster Gipfel erreicht eine Höhe von 727 Metern.", "Auf dem Gipfel befindet sich ein beliebter Aussichtsturm, der ein weites Panorama bietet.", "Der Berg ist vulkanischen Ursprungs und reich an geologischen Formationen."],
+      hu: ["Legmagasabb csúcsa eléri a 727 méteres magasságot.", "A csúcson egy népszerű kilátó található, amely széles panorámát kínál.", "A hegy vulkanikus eredetű és gazdag geológiai képződményekben."],
+      ro: ["Cel mai înalt vârf al său atinge o altitudine de 727 metri.", "Pe vârf se află un popular turn de belvedere care oferă o panoramă largă.", "Muntele este de origine vulcanică și bogat în formațiuni geologice."],
+      en: ["Its highest peak reaches an elevation of 727 meters.", "There is a popular lookout tower on the summit offering a wide panorama.", "The mountain is of volcanic origin and rich in geological formations."]
     }, image: "/poi-images/geo-karanc-extra.webp"},
     {
     id: "geschichte-somoskoi-var-extra",

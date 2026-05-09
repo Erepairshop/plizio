@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "wag-water-river-nature-v2",
+      "descriptionAdvanced": "A Wag Water folyó Jamaica egyik legfestőibb és legfontosabb folyója, amely St. Andrew és St. Mary plébániákon keresztül kanyarog az északi part felé. A folyó a Blue Mountains hegyei között ered, és tiszta, hűvös vize számos természetes úszómedencét és vízesést hoz létre a meredek völgyekben. A Wag Water mentén található a híres Castleton Botanikus Kert is, ahol a látogatók a folyóparti piknikezés mellett a trópusi növényvilág pazar gyűjteményét is megcsodálhatják. A folyó völgye kulcsfontosságú ökológiai folyosó, amely összeköti a hegyvidéki erdőket a tengerparti övezetekkel, biztosítva a biológiai sokféleség fenntartását ezen a vadregényes területen.",
+      "factsAdvanced": [
+        "A Wag Water folyó hossza körülbelül 36 kilométer.",
+        "Nevét állítólag a spanyol 'Agua Alta' (magas víz) kifejezés angolosításából kapta.",
+        "A folyó keresztülfolyik a történelmi Castleton Botanikus Kerten.",
+        "Számos endemikus jamaicai halfaj és rák élőhelye.",
+        "A folyóvölgyben található St. Mary egyik legtermékenyebb mezőgazdasági területe.",
+        "Híres a nagy szikláiról és a monszun idején tapasztalható gyors vízszint-emelkedéséről.",
+        "A folyó mentén több kisebb gátat is építettek az öntözés segítésére.",
+        "Népszerű helyszíne a helyi folyami halászatnak és a természetjáróknak."
+      ]
+    },
+    {
+      "id": "yallahs-ponds-nature-v2",
+      "descriptionAdvanced": "A Yallahs-tavak St. Thomas plébániában Jamaica egyik legkülönlegesebb és legrejtélyesebb természeti jelenségei közé tartoznak. Ez a két nagy, sós vizű lagúna közvetlenül a tengerpart mellett fekszik, és híresek arról, hogy bizonyos időszakokban, a mikroorganizmusok elszaporodása miatt, vízük drámai vöröses-rózsaszínes árnyalatot ölt. A tavak ökoszisztémája rendkívül érzékeny, magas sótartalmuk ellenére számos különleges növény- és állatfajnak, köztük ritka vízimadaraknak adnak otthont. A Yallahs-tavak környéke vad és szeles, pazar kilátást nyújtva a Blue Mountains távoli csúcsaira és a végtelen Karib-tengerre, emlékeztetve a látogatókat a természet nyers és kiszámíthatatlan erejére.",
+      "factsAdvanced": [
+        "A két tó összesen több mint 100 hektáron terül el.",
+        "Vízük sótartalma gyakran magasabb, mint a környező tengeré.",
+        "A vörös elszíneződést a Dunaliella salina nevű alga okozza.",
+        "A tavak környéke fontos megállóhely a vándorló madarak számára.",
+        "A legenda szerint a tavak helyén egykor virágzó ültetvények álltak.",
+        "A terület a Yallahs-folyó torkolatának közelében található.",
+        "A tavak vize reumatikus panaszok enyhítésére is alkalmas a helyiek szerint.",
+        "Szigorú környezetvédelmi szabályok védik a tavak körüli mangrove-szegélyeket."
+      ]
+    },
+    {
+      "id": "bull-head-mountain-nature-v2",
+      "descriptionAdvanced": "A Bull Head-hegység Clarendon plébánia szívében Jamaica földrajzi középpontját jelöli, és a sziget egyik legfontosabb hegyvidéki természetvédelmi területe. A hegység nevét jellegzetes alakjáról kapta, amely egy bika fejére emlékeztet a távolból. Több mint 800 méteres magasságával a hegység hűvös menedéket nyújt a trópusi hőség elől, lejtőit pedig sűrű másodlagos erdők és endemikus növények borítják. A Bull Head-hegység stratégiai jelentőségű vízgyűjtő terület, innen ered Jamaica több fontos folyója, köztük a Rio Minho is. A túrázók számára a csúcsról nyíló panoráma felejthetetlen élményt nyújt, hiszen tiszta időben a sziget északi és déli partja is egyszerre látható.",
+      "factsAdvanced": [
+        "A Bull Head-hegység legmagasabb pontja körülbelül 850 méter.",
+        "Itt található Jamaica hivatalos földrajzi középpontja (Center of the Island).",
+        "A terület több mint 100 endemikus növényfajnak ad otthont.",
+        "Fontos fészkelőhelye a jamaicai papagájoknak és kolibriknek.",
+        "A hegység erdeit a Forestry Department kezeli és védi.",
+        "A csúcsra vezető túraösvények keresztülhaladnak régi kávéültetvényeken is.",
+        "A hegység kőzetei vulkanikus eredetűek, ami ritka Jamaicában.",
+        "A környék híres a tiszta hegyi levegőjéről és a csendes vidéki nyugalmáról."
+      ]
+    },
+    {
+      "id": "great-morass-nature-v2",
+      "descriptionAdvanced": "A Great Morass Jamaica nyugati végén, Negril közelében az ország egyik legnagyobb és legfontosabb vizes élőhelyi ökoszisztémája. Ez a hatalmas mocsárvidék természetes szűrőként működik, megtisztítva a szárazföldről érkező vizeket, mielőtt azok a Karib-tengerbe érnének, ezzel védve a híres Negril-i korallzátonyokat. A Great Morass dús tőzeglábjai és mangroveerdői kritikus élőhelyet biztosítanak számos veszélyeztetett fajnak, köztük a jamaicai krokodilnak és több tucat ritka madárfajnak. A terület ökológiai egyensúlya kulcsfontosságú Jamaica nyugati partvidékének stabilitásához, miközben a látogatók számára a Royal Palm Reserve-en keresztül nyújt bepillantást e misztikus, vizes világ érintetlen szépségébe.",
+      "factsAdvanced": [
+        "A Great Morass több mint 2000 hektáron terül el.",
+        "Ez Jamaica legnagyobb összefüggő tőzegláp-területe.",
+        "A mocsárban található a sziget legnagyobb őshonos királypálma-állománya.",
+        "Kritikus szerepet játszik az árvízvédelemben és a partmenti víztisztításban.",
+        "Itt él a ritka és veszélyeztetett jamaicai mocsári teknős.",
+        "A terület a Negril-i Környezetvédelmi Terület (EPA) központi része.",
+        "A mocsár vizeiben számos édesvízi halfaj és rák él.",
+        "A Great Morass feletti alkonyati madárvonulás látványos természeti jelenség."
+      ]
+    },
+    {
+      "id": "rio-cobre-river-nature-v2",
+      "descriptionAdvanced": "A Rio Cobre Jamaica egyik legjelentősebb és legtörténelmibb folyója, amely St. Catherine plébánián keresztül haladva látja el vízzel a sziget egyik legtermékenyebb síkságát. A folyó híres a látványos Rio Cobre-szurdokról (Bog Walk Gorge), ahol a víz meredek mészkőfalak között tör utat magának, lenyűgöző tájképet hozva létre. A Rio Cobre évszázadok óta alapvető fontosságú az öntözés és az energiatermelés szempontjából, partjai mentén pedig Jamaica legősibb települései, köztük Spanish Town is létrejöttek. Bár a modern iparosodás kihívások elé állítja, a folyó továbbra is a sziget életereje, amelynek völgye gazdag biodiverzitással és kulturális emlékekkel büszkélkedhet.",
+      "factsAdvanced": [
+        "A Rio Cobre hossza körülbelül 50 kilométer.",
+        "A Bog Walk-szurdokon keresztül vezető út Jamaica egyik leglátványosabb útszakasza.",
+        "A folyó táplálja az ország legrégebbi öntözőrendszerét a St. Catherine-síkságon.",
+        "A folyó torkolata közelében található a történelmi öntöttvas híd.",
+        "A Rio Cobre völgyében több vízerőmű is működik.",
+        "Híres a folyami rákjairól, amelyek a helyi gasztronómia különlegességei.",
+        "A folyó menti barlangokban Taino indiánok nyomait fedezték fel a régészek.",
+        "A Rio Cobre fontos szerepet játszik Kingston és környéke vízellátásában."
+      ]
+    },
+    {
+      "id": "long-bay-nature-v2",
+      "descriptionAdvanced": "A Long Bay Portland plébánia északkeleti partján Jamaica egyik legvadságában is gyönyörű, érintetlen tengerparti szakasza. A több mint egy kilométer hosszan elnyúló, sarló alakú öböl híres mélykék vizéről és az Atlanti-óceán felől érkező hatalmas hullámokról, amelyek a szörfösök kedvelt célpontjává teszik a helyet. Long Bay mentes a tömegturizmustól, partján egyszerű halászkunyhók és kis vendégházak sorakoznak, megőrizve a sziget eredeti, bohém hangulatát. A terület természeti szépségét a partot övező buja, smaragdzöld hegyek és a fehér homokos part éles kontrasztja adja. Long Bay a nyugalom és a természetes erő találkozási pontja, ahol a látogatók valóban átélhetik a jamaicai tengerpart nyers varázsát.",
+      "factsAdvanced": [
+        "Long Bay Jamaica egyik leghosszabb összefüggő szabadstrandja.",
+        "A hullámzás itt sokkal erősebb, mint az északi part nyugodtabb öbleiben.",
+        "A strand híres a rózsaszínes árnyalatú homokjáról és a tiszta vizéről.",
+        "Kedvelt helyszíne a helyi szörfös közösségnek és a hátizsákos turistáknak.",
+        "A környék Portland legcsapadékosabb része, ami dús növényzetet eredményez.",
+        "A parton számos 'jerk' sütöde kínálja a hagyományos jamaicai ételeket.",
+        "Long Bay tengerpartja fontos fészkelőhelye a tengeri teknősöknek.",
+        "Az öböl látképe számos nemzetközi divatfotózás és film forgatási helyszíne volt."
+      ]
+    },
+    {
+      "id": "milk-river-nature-v2",
+      "descriptionAdvanced": "A Milk River (Tej-folyó) Clarendon plébániában Jamaica egyik legkülönlegesebb természeti adottságokkal rendelkező folyója, amely világhírét gyógyító hatású ásványvíz-forrásainak köszönheti. A folyó vize rendkívül gazdag magnéziumban, kalciumban és nátrium-kloridban, radioaktivitása pedig a legmagasabbak közé tartozik a világon, felülmúlva a híres európai gyógyfürdőket is. A Milk River völgye csendes és érintetlen, ahol a folyó lassan kanyarog a déli part felé, mangrove-erdőkkel és trópusi növényzettel övezve. A folyó torkolata közelében található gyógyfürdő évszázadok óta vonzza a gyógyulni vágyókat, miközben a folyó maga fontos élőhelye a jamaicai lamantinoknak és számos ritka vízimadárnak.",
+      "factsAdvanced": [
+        "A Milk River Bath forrásvize állandó 33 Celsius-fokos hőmérsékletű.",
+        "Vize kilencszer radioaktívabb, mint a franciaországi Vichy forrásaié.",
+        "A folyó neve a víz fehéres, opálos színére utal.",
+        "A Milk River a sziget egyik legfontosabb lamantin-élőhelye.",
+        "A folyó torkolata a Portland Bight védett terület része.",
+        "A gyógyforrást állítólag egy rabszolga fedezte fel az 1700-as években.",
+        "A folyó menti mocsárvidék gazdag egzotikus orchideákban.",
+        "A Milk River völgye kedvelt helyszíne a madármegfigyelő túráknak."
+      ]
+    },
+    {
+      "id": "dolphin-head-mountains-nature-v2",
+      "descriptionAdvanced": "A Dolphin Head-hegység Hanover plébániában Jamaica nyugati részének legfontosabb biológiai gócpontja, amely kiemelkedik a környező síkságokból. A hegység nevét jellegzetes csúcsáról kapta, amely egy ugró delfin fejére emlékeztet. Ez a terület Jamaica egyik legmagasabb endemikus növény-sűrűségével büszkélkedhet; számos olyan faj él itt, amely a világon sehol máshol nem található meg. A Dolphin Head sűrű esőerdői és mészkőbarlangjai kritikus élőhelyet biztosítanak a ritka madaraknak és hüllőknek. A hegység nemcsak természeti kincs, hanem fontos vízgyűjtő terület is a nyugati part számára, védelme pedig alapvető fontosságú a sziget ökológiai örökségének megőrzéséhez.",
+      "factsAdvanced": [
+        "A Dolphin Head hegység legmagasabb pontja 545 méter.",
+        "Több mint 20 olyan növényfaj él itt, amely csak ezen a hegyen található meg.",
+        "A terület a Dolphin Head Trust és a Forestry Department közös védelme alatt áll.",
+        "A hegység barlangjaiban ritka denevérfajok kolóniái élnek.",
+        "Fontos kutatóhelyszíne a karibi botanikai expedícióknak.",
+        "A csúcsra vezető túraösvényekről pazar kilátás nyílik Lucea öblére.",
+        "A területen jelentős orchidea- és bromélia-gyűjtemény található a vadonban.",
+        "A Dolphin Head hegység Jamaica egyik 'vörös listás' védett területe."
+      ]
+    },
+    {
+      "id": "black-river-lower-morass-nature-v2",
+      "descriptionAdvanced": "A Black River Lower Morass St. Elizabeth plébániában Jamaica legnagyobb és legösszetettebb édesvízi mocsárvidéke, amely nemzetközi jelentőségű vizes élőhelyként (Ramsari terület) elismert. Ez a hatalmas ökoszisztéma a Black River folyó torkolatánál terül el, ahol a víz szétterülve sűrű mangrove-erdőket, nádasokat és tőzeglápokat hoz létre. A Lower Morass Jamaica egyik utolsó nagy menedéke az amerikai krokodilok számára, és fészkelőhelye több mint 100 madárfajnak, köztük ritka gémeknek és kacsáknak. A terület ökológiai szerepe felbecsülhetetlen a víztisztításban és a part menti viharok elleni védelemben, miközben a látogatók számára a híres folyami szafarikon keresztül tárul fel a trópusi vadvilág lenyűgöző közelsége.",
+      "factsAdvanced": [
+        "A Lower Morass több mint 5700 hektáron terül el.",
+        "Itt él Jamaica legnagyobb amerikai krokodil (Crocodylus acutus) populációja.",
+        "A terület 1997 óta szerepel a nemzetközi jelentőségű Ramsari vizes élőhelyek listáján.",
+        "A mocsárvidék természetes víztározóként működik, megelőzve az árvizeket.",
+        "Híres a hatalmas vörös mangrove fáiról, amelyek gyökerei között gazdag halállomány él.",
+        "A madármegfigyelők itt láthatják a ritka karibi szárcsát és a sárga gémeket.",
+        "A mocsár tőzegrétege fontos szén-dioxid-elnyelő, segítve a klímavédelmet.",
+        "A folyami túrák során a látogatók megismerhetik a 'halászó krokodilok' szokásait is."
+      ]
+    },
+    {
+      "id": "navy-island-nature-v2",
+      "descriptionAdvanced": "A Navy Island egy parányi, buja növényzetű sziget Port Antonio öblének bejáratánál, amely a természetes szépség és a hollywoodi romantika különleges keverékét nyújtja. A sziget nevét a brit királyi haditengerészetről kapta, amely egykor bázisként használta, de világhírét az 1940-es években szerezte, amikor Errol Flynn színészlegenda tulajdonába került. Ma Navy Island egy lakatlan természetvédelmi terület, ahol érintetlen strandok, sűrű trópusi erdők és egykori luxusvillák romjai találhatók. A szigetet körülvevő korallzátonyok és a kristálytiszta, mély víz ideális a sznorkelezéshez és a búvárkodáshoz, miközben a szárazföldön ritka madarak és egzotikus növények várják a felfedezőket Port Antonio pazar látképének árnyékában.",
+      "factsAdvanced": [
+        "A sziget mindössze néhány perces csónakútra van Port Antonio kikötőjétől.",
+        "Errol Flynn egykor privát klubot és rezidenciát tartott fenn itt.",
+        "A sziget partjait gyönyörű, sekély vizű lagúnák és fehér homok díszíti.",
+        "Navy Island fontos fészkelőhelye a tengeri madaraknak és a teknősöknek.",
+        "A sziget belsejében található dús növényzet számos endemikus fajt rejt.",
+        "Itt forgatták az 1954-es 'Kincses sziget' film több jelenetét.",
+        "A sziget körüli zátonyok a Portland Marine Park védelme alatt állnak.",
+        "Navy Island ideális célpont a csendet és a természet közelségét kereső kirándulóknak."
+      ]
+    },
+    {
+      "id": "rio-minho-river-nature-v2",
+      "descriptionAdvanced": "A Rio Minho Jamaica leghosszabb folyója, amely Clarendon plébánia gerincén végighaladva köti össze a központi hegyvidéket a déli tengerparttal. Bár a folyó felső szakasza gyakran kiszárad a mészkő talaj elnyelő hatása miatt, alsó szakasza hatalmas vízmennyiséget szállít, meghatározva a Clarendon-síkság mezőgazdasági termőképességét. A Rio Minho völgye geológiai és biológiai szempontból is rendkívül változatos, a meredek hegyi szurdokoktól a széles hordalékos alföldekig. A folyó mentén található ártéri erdők és vizes élőhelyek fontos ökológiai pufferzónák, amelyek számos vízi élőlénynek adnak otthont. A Rio Minho Jamaica gazdasági és természeti vérkeringésének egyik legfontosabb artériája, amelynek kezelése kulcsfontosságú a sziget fenntartható fejlődéséhez.",
+      "factsAdvanced": [
+        "A Rio Minho hossza körülbelül 92 kilométer.",
+        "A folyó a Bull Head-hegységben, Jamaica középpontjában ered.",
+        "A száraz évszakban a folyó medrének nagy része száraznak tűnik a föld alatti folyások miatt.",
+        "A folyó völgye Jamaica egyik legfontosabb cukornád- és citrus-termesztő vidéke.",
+        "A Rio Minho táplálja a déli part legnagyobb mangrove-rendszereit.",
+        "Híres a monszun idején tapasztalható hatalmas árvizeiről, amelyek formálják a tájat.",
+        "A folyó mentén számos történelmi cukormalom és híd maradványa látható.",
+        "A Rio Minho torkolata a Carlisle-öbölben található, fontos halászati területen."
+      ]
+    },
+    {
+      "id": "portland-bight-nature-v2",
+      "descriptionAdvanced": "A Portland Bight Védett Terület (PBPA) Jamaica legnagyobb és legösszetettebb természetvédelmi övezete, amely a sziget déli partján több mint 1800 négyzetkilométeren terül el. Ez a hatalmas terület magában foglalja a tengerparti síkságokat, a Hellshire-hegyeket, kiterjedt mangrove-erdőket, korallzátonyokat és számos kisebb szigetet, mint például a Goat Islands. A Portland Bight Jamaica biológiai sokféleségének igazi kincsesládája, itt él az ország legtöbb veszélyeztetett faja, köztük a jamaicai iguana és az antillai lamantin. A terület kulcsfontosságú a halállomány fenntartásához, a partvédelemhez és a fenntartható közösségi fejlesztésekhez, szimbolizálva a gazdasági érdekek és a természetvédelem közötti kényes egyensúlyt.",
+      "factsAdvanced": [
+        "Ez Jamaica legnagyobb védett területe, a sziget területének jelentős részét lefedi.",
+        "A Portland Bight ad otthont a Karib-térség egyik legnagyobb mangrove-erdő rendszerének.",
+        "A területen több mint 50 különböző endemikus állatfaj található meg.",
+        "Itt található Jamaica legfontosabb tengeri fű mezőinek jelentős része.",
+        "A védett övezetet a C-CAM nevű civil szervezet és a kormány közösen kezeli.",
+        "A Portland Bight vizei adják Jamaica haltermelésének közel felét.",
+        "A terület magában foglalja a történelmi Old Harbour-öblöt is.",
+        "A rezervátum nemzetközi szinten is elismert madárvédelmi terület (IBA)."
+      ]
+    },
+    {
+      "id": "santa-cruz-mountains-nature-v2",
+      "descriptionAdvanced": "A Santa Cruz-hegység St. Elizabeth plébániában Jamaica egyik legkarakteresebb mészkőhegysége, amely drámai falként emelkedik ki a déli part menti síkságokból. A hegység híres hűvös, száraz mikroklímájáról, amely éles kontrasztban áll az alatta fekvő forró völgyekkel, így már a gyarmati idők óta kedvelt lakóhely és egészségügyi üdülőhely. A Santa Cruz-hegység lejtőin és fennsíkjain sajátos növénytársulások alakultak ki, beleértve ritka orchideákat és szárazságtűrő erdőket. A hegység déli vége a Lover's Leap monumentális sziklafalában végződik, ahonnan lélegzetelállító panoráma nyílik a tengerre. Ez a vidék nemcsak természeti szépségéről, hanem mezőgazdasági értékéről, különösen a bauxitkészleteiről is ismert.",
+      "factsAdvanced": [
+        "A hegység legmagasabb pontjai meghaladják a 700 métert.",
+        "Híres a Malvern nevű településről, amely az egyik legrégebbi 'hegyi gyógyhely' a szigeten.",
+        "A hegység nyugati oldalán található a híres bauxitbányászati övezet.",
+        "A mészkő talajon kiváló minőségű zöldségféléket és gyümölcsöket termesztenek.",
+        "A hegység barlangjai gazdag Taino indián leletanyagot őriznek.",
+        "A Santa Cruz-hegység gerincén vezető út Jamaica egyik leglátványosabb panorámaútja.",
+        "A területen számos történelmi anglikán templom és iskola található.",
+        "A hegység szélén található a Lover's Leap, Jamaica egyik legmagasabb tengerparti sziklája."
+      ]
+    },
+    {
+      "id": "fern-gully-nature-v2",
+      "descriptionAdvanced": "A Fern Gully (Páfrány-szurdok) St. Ann plébániában Jamaica egyik legkülönlegesebb és leglátványosabb természeti képződménye, amely egy egykori folyómederben jött létre Ocho Rios felett. Ez a három mérföld hosszú, mély szurdok egy természetes 'zöld alagút', ahol a hatalmasra növő páfrányok és trópusi fák lombkoronája szinte teljesen összezáródik az út felett, misztikus félhomályt és hűvöset teremtve a legforróbb nappalokon is. A Fern Gully több mint 300 páfrányfajnak és számos egzotikus növénynek ad otthont, amelyek a szurdok párás, védett klímáján virulnak. Bár az autóforgalom kihívást jelent a terület számára, a Páfrány-szurdok továbbra is Jamaica egyik legikonikusabb 'zöld útja', amely felejthetetlen élményt nyújt minden utazónak.",
+      "factsAdvanced": [
+        "A szurdokot az 1907-es földrengés után alakították ki közúttá az egykori mederben.",
+        "Több mint 300 páfrányfaj és számos trópusi virág él a szurdok falaiban.",
+        "A Páfrány-szurdok körülbelül 5 kilométer hosszan kanyarog a hegyek felé.",
+        "A fák magassága és sűrűsége miatt a hőmérséklet itt több fokkal alacsonyabb, mint a parton.",
+        "A terület Jamaica egyik legfontosabb botanikai védett övezete.",
+        "A szurdok bejáratánál helyi kézművesek és fafaragók kínálják termékeiket.",
+        "A Páfrány-szurdok szerepel Jamaica legszebb tájait bemutató minden útikönyvben.",
+        "Szigorú sebességkorlátozás és környezetvédelmi felügyelet védi az érzékeny flórát."
+      ]
+    },
+    {
+      "id": "swift-river-nature-v2",
+      "descriptionAdvanced": "A Swift River (Gyors-folyó) Portland plébániában Jamaica egyik legvadregényesebb és legtisztább hegyi folyója, amely a Blue Mountains meredek északi lejtőiről zúdul a tenger felé. Nevéhez hűen a folyó vize sebes és kristálytiszta, számos vízesést, zúgót és mély, azúrkék medencét hozva létre a sűrű esőerdő mélyén. A Swift River völgye az ökoturizmus paradicsoma, ahol a látogatók távol a tömegtől fedezhetik fel a trópusi természetet, fürödhetnek a frissítő forrásvízben és megfigyelhetik a ritka hegyi madarakat. A folyó környéke Portland egyik legcsapadékosabb területe, ami lenyűgöző biodiverzitást és dús növényzetet eredményez, emlékeztetve a látogatókat Jamaica érintetlen, nyers arcára.",
+      "factsAdvanced": [
+        "A Swift River a Blue and John Crow Mountains Nemzeti Park területén ered.",
+        "Híres a kristálytiszta, ivóvíz tisztaságú vízéről.",
+        "A folyó völgye fontos menedéke a veszélyeztetett jamaicai fecskefarkú pillangónak.",
+        "A folyó mentén található Fishdone vízesés a környék egyik rejtett ékköve.",
+        "A Swift River környékén számos kis maron közösség él, őrizve hagyományaikat.",
+        "Népszerű helyszíne a vadvízi úszásnak és a természetfotózásnak.",
+        "A folyó völgye az ország egyik leggazdagabb páfrány- és orchidea-lelőhelye.",
+        "A terület csak nehezen járható utakon, valódi kalandtúra keretében érhető el."
+      ]
+    },
+    {
+      "id": "boston-bay-nature-v2",
+      "descriptionAdvanced": "A Boston Bay Portland plébánia északi partján nemcsak a híres 'jerk' fűszerezés szülőhelyeként ismert, hanem Jamaica egyik legszebb és legkülönlegesebb természeti adottságú öbleként is. A smaragdzöld hegyekkel övezett, fehér homokos part és az öbölbe besétáló óceáni hullámok egyedülálló látványt nyújtanak. Boston Bay Jamaica egyik legjobb szörfparadicsoma, ahol az áramlatok és a szél ideális feltételeket teremtenek a sport kedvelőinek. Az öböl vize rendkívül tiszta, a part menti sziklák és a buja növényzet pedig vadregényes hátteret biztosít a pihenéshez. Ez a helyszín a jamaicai kultúra és a természet erejének tökéletes fúziója, ahol a tenger illata és a füstölt húsok aromája örökre beleivódik az utazó emlékezetébe.",
+      "factsAdvanced": [
+        "Boston Bay az egész Karib-térség egyik leghíresebb szörfös helyszíne.",
+        "A strand híres a mély, azúrkék vízéről és a környező mészkősziklákról.",
+        "Itt található Jamaica legautentikusabb jerk-sütödéinek központja.",
+        "A tengerpartot dús mandulafák és kókuszpálmák árnyékolják.",
+        "Az öböl vizeiben gyakran láthatóak tengeri teknősök és ráják.",
+        "A terület Portland keleti részén, Port Antonio-tól kb. 20 kilométerre fekszik.",
+        "Minden évben itt rendezik meg a nemzetközi Boston Jerk Fesztivált.",
+        "A strand közösségi tulajdonban van, megőrizve barátságos, helyi jellegét."
+      ]
+    },
+    {
+      "id": "cabarita-river-nature-v2",
+      "descriptionAdvanced": "A Cabarita folyó Westmoreland plébánia legfontosabb folyóvize, amely a sziget délnyugati részének termékeny síkságait élteti. A folyó a hegyekben ered és lassan kanyarog keresztül a hatalmas cukornádültetvényeken, mielőtt a Savanna-la-Mar közelében a tengerbe torkollna. A Cabarita folyó partjait buja trópusi vegetáció és mangroveerdők szegélyezik, amelyek gazdag élőhelyet biztosítanak a helyi vízi fauna számára. A folyó nemcsak a mezőgazdasági öntözés alapköve, hanem a helyi közösségek életében is fontos szerepet játszik: partjai kedvelt pihenőhelyek, vize pedig a hagyományos folyami halászat színtere. A Cabarita torkolatvidéke egy komplex vizes élőhely, amely kulcsfontosságú a nyugat-jamaicai partvonal ökológiai egyensúlyához.",
+      "factsAdvanced": [
+        "A Cabarita folyó hossza körülbelül 40 kilométer.",
+        "A folyó táplálja Westmoreland plébánia hatalmas cukornádültetvényeit.",
+        "Torkolata közelében kiterjedt mangrove-mocsarak találhatók, gazdag madárvilággal.",
+        "A folyó vize híres a bőségéről, különösen a tilápia és a folyami rák tekintetében.",
+        "A Cabarita mentén több történelmi vízmű és gát is található.",
+        "A folyóvölgyben rendszeresen tartanak természetjáró és madármegfigyelő túrákat.",
+        "Súlyos esőzések idején a folyó jelentősen megárad, formálva a környező tájat.",
+        "A folyó a Savanna-la-Mar-i öböl vízminőségének egyik legfontosabb meghatározója."
+      ]
+    },
+    {
+      "id": "montpelier-mountains-nature-v2",
+      "descriptionAdvanced": "A Montpelier-hegység St. James és Westmoreland plébániák határán Jamaica nyugati részének egyik legszebb és legfontosabb hegyvidéki tájegysége. A lankás dombokból és meredekebb csúcsokból álló vonulat híres buja, zöld legelőiről és az ültetvényes korból fennmaradt történelmi emlékeiről. A hegység klímája hűvösebb és csapadékosabb a tengerpartnál, ami kedvez a dús trópusi erdőknek és a gazdag madárvilágnak. Montpelier környéke egykor Jamaica egyik legnagyobb citrus- és állattenyésztő központja volt, ma pedig az ökoturizmus és a fenntartható gazdálkodás egyik mintaterülete. A hegység csúcsairól lenyűgöző panoráma nyílik a nyugati partvidékre és a távoli óceánra, megmutatva Jamaica belső vidékeinek harmonikus szépségét.",
+      "factsAdvanced": [
+        "A Montpelier-hegység központi része körülbelül 400-500 méterrel magasodik a tenger szintje fölé.",
+        "A területen található Jamaica egyik legrégebbi és legfontosabb vasúti csomópontjának romjai.",
+        "Híres a Montpelier Estate történelmi romjairól és a 18. századi vízvezetékről.",
+        "A hegység erdeiben számos endemikus orchideafaj virul.",
+        "Fontos fészkelőhelye a jamaicai papagájoknak és a kék galambnak.",
+        "A környék legelőin tenyésztik a híres 'Jamaica Red Poll' szarvasmarha-fajtát.",
+        "A hegységen keresztül vezet a történelmi út Montego Bay és Savanna-la-Mar között.",
+        "A terület gazdag mészkő-barlangokban, amelyek jelentős denevérkolóniáknak adnak otthont."
+      ]
+    },
+    {
+      "id": "mason-river-game-sanctuary-nature-v2",
+      "descriptionAdvanced": "A Mason River Vadrezervátum St. Ann és Clarendon plébániák határán Jamaica egyik legkülönlegesebb és legjobban védett természetvédelmi területe. Ez a rezervátum az ország egyetlen természetes felföldi mocsara, amely egyedülálló tőzegláp ökoszisztémát őriz a hegyek között. A terület botanikai szempontból felbecsülhetetlen értékű, hiszen számos húsevő növénynek, ritka orchideának és olyan fajoknak ad otthont, amelyek Jamaica más részein nem találhatók meg. A Mason River rezervátumot a Jamaica Intézet kezeli, és szigorúan védett kutatóhelyszínként működik, ahol a biológusok a trópusi mocsarak különleges életközösségeit tanulmányozzák. A látogatók számára a rezervátum bepillantást enged egy olyan ősi, érintetlen világba, amely alapvető fontosságú a sziget biológiai örökségének megértéséhez.",
+      "factsAdvanced": [
+        "A rezervátumot 1963-ban hozták létre, több mint 80 hektáron fekszik.",
+        "Itt él Jamaica egyetlen őshonos húsevő növénye, az észak-amerikai kancsóka rokona.",
+        "A terület több mint 400 növényfajnak ad otthont, amelyek 10%-a endemikus.",
+        "A rezervátum tengerszint feletti magassága körülbelül 650 méter.",
+        "Fontos kutatóhelyszíne a paleobotanikai és tőzegkutatásoknak.",
+        "A terület a Mason River folyó felső folyását és vízgyűjtőjét védi.",
+        "A látogatás csak előzetes engedéllyel és szakvezetéssel lehetséges.",
+        "A rezervátumot nemzetközi jelentőségű madárvédelmi területté nyilvánították."
+      ]
+    },
+    {
+      "id": "salt-river-nature-v2",
+      "descriptionAdvanced": "A Salt River (Sós-folyó) Clarendon plébánia déli partján Jamaica egyik legérdekesebb természeti helyszíne, ahol az ásványi anyagokban gazdag gyógyforrások találkoznak a tengerparti mangroveerdőkkel. A folyó vize, ahogy a neve is sugallja, sós ízű a környező mészkőhegyekből kioldott ásványok miatt, és a helyiek körében régóta híres gyógyító erejéről, különösen bőrbetegségek és reumatikus panaszok kezelésére. A Salt River környéke egy vadregényes, mocsaras vidék, amely a Portland Bight védett terület része, biztosítva a ritka vízimadarak és tengeri tehenek háborítatlan életét. A látogatók számára a Salt River természetes forrásmedencéi és a folyóparti piknikezőhelyek kínálnak felejthetetlen kikapcsolódást a jamaicai természet lágy ölén.",
+      "factsAdvanced": [
+        "A Salt River forrásai a Brazillette-hegység lábánál fakadnak.",
+        "A víz hőmérséklete állandó és kellemes, ideális az egész évben való fürdőzéshez.",
+        "A folyó mentén található mangrove-erdők Jamaica egyik legfontosabb hal-bölcsődéje.",
+        "A terület fontos megállóhely a vándorló flamingók és pelikánok számára.",
+        "A Salt River forrásvidékét nemrégiben turisztikai fejlesztésekkel tették vonzóbbá.",
+        "A folyó vize rendkívül tiszta és áttetsző, látni a mederben élő halakat.",
+        "A környék híres a tiszta, sólepárlással nyert kézműves sójáról is.",
+        "A Salt River torkolata kiváló kiindulópont a közeli korall-szigetek felfedezéséhez."
+      ]
+    },
+    {
+      "id": "alligator-hole-river-nature-v2",
+      "descriptionAdvanced": "Az Alligator Hole folyó Manchester plébánia déli partján Jamaica egyik legtitokzatosabb és legértékesebb természetvédelmi helyszíne, amely a ritka antillai lamantinok (tengeri tehenek) egyik utolsó menedéke. A folyó rövid, lassú folyású és kristálytiszta vize sűrű mangrove-erdők között kanyarog a tenger felé, ideális táplálkozóhelyet nyújtva a békés vízi óriásoknak. A terület a Canoe Valley Természetvédelmi Park része, ahol a látogatók szigorú felügyelet mellett, csendes csónaktúrákon vehetnek részt, hogy megpillanthassák ezeket a különleges élőlényeket. Az Alligator Hole folyó ökoszisztémája a jamaicai természetvédelem büszkesége, ahol a ritka állatfajok megőrzése és az oktatás kéz a kézben jár a buja mocsári táj védelmével.",
+      "factsAdvanced": [
+        "Az Alligator Hole folyó a nevét a benne élő krokodilokról kapta, de ma a lamantinokról híres.",
+        "Itt él Jamaica egyik legstabilabb és legjobban megfigyelhető lamantin populációja.",
+        "A folyó vize keveréke a mészkőhegyekből fakadó édesvíznek és a tenger sós vizének.",
+        "A Canoe Valley-ben található látogatóközpont bemutatja a lamantinok életmódját és védelmét.",
+        "A folyó mentén számos endemikus madárfaj és ritka mocsári növény figyelhető meg.",
+        "A motoros csónakok használata tilos a lamantinok nyugalma és biztonsága érdekében.",
+        "A terület fontos kutatóhelyszíne a karibi tengeri emlősök védelmével foglalkozó szakembereknek.",
+        "Az Alligator Hole folyó partján kiépített kilátópontokról biztonságosan szemlélhető a vadvilág."
+      ]
+    },
+    {
+      "id": "long-mountain-nature-v2",
+      "descriptionAdvanced": "A Long Mountain egy monumentális mészkőhegy, amely Kingston keleti határát alkotja, és meghatározza a főváros látképét. A hegység gerince és lejtői Jamaica egyik legfontosabb városközeli zöldterületét alkotják, ahol a száraz trópusi erdők és a karsztos sziklaformációk egyedülálló biodiverzitást rejtenek. Long Mountain számos endemikus növény- és madárfaj otthona, és fontos ökológiai pufferzónaként szolgál a városiasodott területek és a természet között. A hegység tetejéről lélegzetelállító panoráma nyílik Kingston kikötőjére, a Palisadoes-félszigetre és a Kék-hegység távoli csúcsaira. A Long Mountain nemcsak természetvédelmi terület, hanem népszerű kirándulóhely is, amely friss levegőt és csendes elvonulást kínál a város lakói számára.",
+      "factsAdvanced": [
+        "A Long Mountain legmagasabb pontja körülbelül 450 méter.",
+        "Geológiailag a hegység fiatalabb mészkőből áll, mint a szomszédos hegyek.",
+        "Itt található Jamaica egyik legfontosabb 'száraz erdő' rezervátuma.",
+        "A hegység gerincén futó túraösvények a kingstoni természetjárók kedvencei.",
+        "A területen számos ritka denevérfaj és éjszakai madár fészkel.",
+        "Long Mountain fontos vízgyűjtő terület Kingston keleti negyedei számára.",
+        "A hegység lejtőin található az egykori Mona-birtok több történelmi emléke.",
+        "A terület védelme kulcsfontosságú a városi hősziget-effektus mérséklésében."
+      ]
+    },
+    {
+      "id": "hope-river-nature-v2",
+      "descriptionAdvanced": "A Hope-folyó Jamaica egyik legfontosabb folyója St. Andrew plébániában, amely a Blue Mountains déli lejtőin ered és keresztülfolyik Kingston keleti részén. A folyó évszázadok óta meghatározza a főváros fejlődését, hiszen ez volt Kingston legfőbb ivóvízforrása a gyarmati korszaktól kezdve. A Hope-folyó völgye vadregényes és meredek, ahol a tiszta hegyi víz vízeséseken és mély szurdokokon keresztül tör utat magának a tenger felé. A folyó mentén található a híres Hope Botanikus Kert és az egykori vízművek történelmi maradványai, amelyek ma is emlékeztetnek a víz stratégiai fontosságára. Bár a folyó vízszintje az évszakoktól függően sokat változik, a Hope-folyó továbbra is a sziget és a főváros ökológiai örökségének egyik legfontosabb tartóoszlopa.",
+      "factsAdvanced": [
+        "A Hope-folyó a Blue Mountains lábánál, Papine közelében lép be a városi övezetbe.",
+        "Az 1700-as években épült Mona-vízvezeték is ebből a folyóból szállította a vizet.",
+        "A folyó torkolata a Seventh Mile strand közelében található a déli parton.",
+        "Híres a 'Hope River Gorge' látványos kőformációiról és mély völgyéről.",
+        "A folyó vízgyűjtő területe Jamaica egyik legvédettebb erdős övezete.",
+        "Heves esőzések idején a folyó rendkívül sebes és pusztító erejű lehet.",
+        "A folyó menti kertekben számos ritka trópusi fafaj és virág található.",
+        "A Hope-folyó kezelése alapvető Kingston árvízvédelmi stratégiájában."
+      ]
+    },
+    {
+      "id": "canoe-valley-wetlands-nature-v2",
+      "descriptionAdvanced": "A Canoe Valley vizes élőhelyek Manchester és St. Elizabeth plébániák határán Jamaica egyik legérintetlenebb és legfontosabb természetvédelmi területe a déli parton. Ez a hatalmas mocsárvidék, amely magában foglalja a Milk River és az Alligator Hole folyók torkolatát, a biológiai sokféleség igazi fellegvára. A Canoe Valley híres arról, hogy ez Jamaica legfontosabb menedékhelye a veszélyeztetett antillai lamantinok számára, de otthont ad krokodiloknak, ritka madaraknak és különleges mocsári növényeknek is. A terület érintetlensége és csendje egyedülálló élményt nyújt az ökoturistáknak, akik csendes csónaktúrákon fedezhetik fel a sűrű mangroveerdők és a kristálytiszta források világát, megismerve a szigetország rejtett természeti kincseit.",
+      "factsAdvanced": [
+        "A Canoe Valley Védett Terület több mint 10 000 hektáron fekszik.",
+        "Ez Jamaica egyik legfontosabb élőhelye a nyugat-indiai manátuszoknak.",
+        "A területen található mészkősziklák és barlangok ritka denevérfajok otthonai.",
+        "A vizes élőhely fontos védelmi gátat alkot a tengeri erózió ellen.",
+        "Híres a 'Two Rivers' találkozásáról, ahol az édes és a sós víz keveredik.",
+        "A Canoe Valley-ben számos endemikus jamaicai vízinövény faj él.",
+        "A terület a nemzetközi madárvédelmi hálózat (IBA) kiemelt pontja.",
+        "A természetvédelmi őrök folyamatosan monitorozzák a lamantin-populáció fejlődését."
+      ]
+    },
+    {
+      "id": "pedro-bluff-nature-v2",
+      "descriptionAdvanced": "A Pedro Bluff St. Elizabeth déli partján Jamaica egyik legimpozánsabb és legvadabb tengerparti sziklaképződménye, amely függőlegesen emelkedik ki a Karib-tengerből. Ez a monumentális mészkőfal nemcsak geológiai ritkaság, hanem fontos történelmi és régészeti lelőhely is, hiszen a sziklákban található barlangok egykor a Taino indiánok szent helyei és temetkezési pontjai voltak. A Pedro Bluff tetejéről nyíló panoráma a nyílt tengerre és a környező érintetlen partvidékre páratlan élményt nyújt az utazóknak. A terület biodiverzitása is kiemelkedő: a sziklák réseiben ritka tengeri madarak fészkelnek, a környék pedig mentes a modern beépítéstől, megőrizve a sziget déli partjának ősi, nyers és fenséges hangulatát.",
+      "factsAdvanced": [
+        "A Pedro Bluff sziklái több mint 60 méter magasak közvetlenül a tenger felett.",
+        "A környék barlangjaiban jelentős prekolumbián Taino kerámia- és kőleleteket találtak.",
+        "A sziklák tetején jellegzetes, szárazságtűrő karsztnövényzet alakult ki.",
+        "Fontos navigációs pont a déli parti halászok és tengerészek számára.",
+        "A terület mentes a fényszennyezéstől, így kiváló csillagászati megfigyelőhely.",
+        "A Pedro Bluff közelében találhatók Jamaica legjobb vadon élő teknősfészkelő strandjai.",
+        "A sziklák falánál a tenger rendkívül mély, gazdag vízi élővilággal.",
+        "A terület a Treasure Beach régió legdélibb, legvadregényesebb pontja."
+      ]
+    }
+  ]
+}

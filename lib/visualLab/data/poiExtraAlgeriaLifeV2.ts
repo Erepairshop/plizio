@@ -33,11 +33,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-11",
     coords: [5.5, 23.0],
     name: { de: "Hoggar-Gebirge", hu: "Hoggar-hegység", ro: "Munții Hoggar", en: "Hoggar Mountains" },
-    description: { de: "Eine beeindruckende Gebirgsregion mit einzigartiger Wüstenfauna.", hu: "Lenyűgöző hegyvidék egyedi sivatagi állatvilággal.", ro: "O regiune muntoasă impresionantă cu o faună deșertică unică.", en: "An impressive mountain region with unique desert fauna." },
+    description: { de: "Eine beeindruckende Gebirgsregion mit einzigartiger Wüstenfauna.", hu: "Lenyűgöző hegyvidék egyedi sivatagi állatvilággal.", ro: "Munții Hoggar sunt un lanț muntos vulcanic impresionant în inima deșertului Sahara din Algeria.", en: "An impressive mountain region with unique desert fauna." },
     facts: {
       de: ["Höchster Gipfel: Tahat", "Vulkanisches Gestein", "Seltene Antilopenarten"],
       hu: ["Legmagasabb csúcs: Tahat", "Vulkanikus kőzetek", "Ritka antilopfajok"],
-      ro: ["Cel mai înalt vârf: Tahat", "Roci vulcanice", "Specii rare de antilope"],
+      ro: ["Relief vulcanic", "Sahara", "Peisaj dramatic"],
       en: ["Highest peak: Tahat", "Volcanic rocks", "Rare antelope species"]
     },
     descriptionAdvanced: {
@@ -83,10 +83,10 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-09",
     coords: [2.8, 36.4],
     name: { de: "Nationalpark Chréa", hu: "Chréa Nemzeti Park", ro: "Parcul Național Chréa", en: "Chréa National Park" },
-    description: { de: "Bekannt für seine Berberaffenpopulation im Atlasgebirge.", hu: "Az Atlasz-hegységben élő berber majom populációjáról ismert.", ro: "Cunoscut pentru populația sa de macaci de Berberia din Munții Atlas.", en: "Known for its Barbary macaque population in the Atlas Mountains." },
+    description: { de: "Der Chréa-Nationalpark ist ein beliebtes Erholungsgebiet in den Atlasbergen, bekannt für seine Wälder und das Skigebiet.", hu: "Az Atlasz-hegység egyik gyönyörű nemzeti parkja, amely népszerű túrázóhely és téli sportközpont.", ro: "Cunoscut pentru populația sa de macaci de Berberia din Munții Atlas.", en: "Known for its Barbary macaque population in the Atlas Mountains." },
     facts: {
-      de: ["Berberaffen beheimatet", "Beliebtes Wandergebiet", "Zedernwälder"],
-      hu: ["Berber majmok otthona", "Népszerű túrázóhely", "Cédruserdők"],
+      de: ["Atlas-Nationalpark", "Zedernwälder", "Skigebiet bei Blida"],
+      hu: ["Atlasz-hegység", "Nemzeti park", "Túrázás"],
       ro: ["Acasă pentru macacii de Berberia", "Zonă populară de drumeții", "Păduri de cedru"],
       en: ["Home to Barbary macaques", "Popular hiking area", "Cedar forests"]
     },
@@ -108,11 +108,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-06",
     coords: [5.1, 36.7],
     name: { de: "Nationalpark Gouraya", hu: "Gouraya Nemzeti Park", ro: "Parcul Național Gouraya", en: "Gouraya National Park" },
-    description: { de: "Ein Park an der Mittelmeerküste mit vielfältiger Flora und Fauna.", hu: "A Földközi-tenger partján fekvő park változatos növény- és állatvilággal.", ro: "Un parc de pe coasta Mediteranei cu o floră și faună diversă.", en: "A park on the Mediterranean coast with diverse flora and fauna." },
+    description: { de: "Dieser Nationalpark bei Bejaia bietet eine atemberaubende Kombination aus steilen Klippen, dichten Wäldern und Küstenlandschaft.", hu: "Bejaia mellett található nemzeti park, amely lenyűgöző kilátást nyújt a Földközi-tengerre.", ro: "Parcul Național Gouraya protejează o zonă costieră diversă, incluzând peisaje montane și marine lângă Bejaia.", en: "A park on the Mediterranean coast with diverse flora and fauna." },
     facts: {
-      de: ["Meeresküste", "Berberaffen", "Wanderwege"],
-      hu: ["Tengerpart", "Berber majmok", "Túraútvonalak"],
-      ro: ["Coasta mării", "Macaci de Berberia", "Trasee de drumeție"],
+      de: ["Küsten-Nationalpark", "Blick vom Pic des Singes", "Vielfältige Flora und Fauna"],
+      hu: ["Bejaia", "Nemzeti park", "Tengerpart"],
+      ro: ["Protecție costieră", "Bejaia", "Diversitate biologică"],
       en: ["Seacoast", "Barbary macaques", "Hiking trails"]
     },
     descriptionAdvanced: {
@@ -133,11 +133,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-09",
     coords: [3.0, 36.5],
     name: { de: "Mitidja-Ebene", hu: "Mitidja-alföld", ro: "Câmpia Mitidja", en: "Mitidja Plain" },
-    description: { de: "Das fruchtbarste landwirtschaftliche Gebiet Algeriens, bekannt für Zitrusfrüchte.", hu: "Algéria legtermékenyebb mezőgazdasági területe, amely citrusféléiről ismert.", ro: "Cea mai fertilă zonă agricolă din Algeria, cunoscută pentru citrice.", en: "The most fertile agricultural area in Algeria, known for citrus fruits." },
+    description: { de: "Das fruchtbarste landwirtschaftliche Gebiet Algeriens, bekannt für Zitrusfrüchte.", hu: "Algéria egyik legtermékenyebb síksága, amely gyümölcstermesztéséről és kertészetéről híres.", ro: "Mitidja este o câmpie fertilă situată la sud de Alger, inima agricolă a țării.", en: "The most fertile agricultural area in Algeria, known for citrus fruits." },
     facts: {
       de: ["Zitrusfrüchteanbau", "Hauptanbaugebiet", "Reichhaltiger Boden"],
-      hu: ["Citrusfélék termesztése", "Fő termőterület", "Gazdag talaj"],
-      ro: ["Cultivarea citricelor", "Principală zonă de producție", "Sol bogat"],
+      hu: ["Mezőgazdasági síkság", "Gyümölcstermesztés", "Algéria"],
+      ro: ["Câmpie fertilă", "Agricultură intensivă", "Lângă Alger"],
       en: ["Citrus production", "Main farming region", "Rich soil"]
     },
     descriptionAdvanced: {
@@ -183,11 +183,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-23",
     coords: [7.7, 36.9],
     name: { de: "Annaba Umland", hu: "Annaba környéke", ro: "Împrejurimile Annaba", en: "Annaba Surroundings" },
-    description: { de: "Region mit intensivem Weinbau und Gemüseanbau.", hu: "Intenzív szőlőtermesztésről és zöldségtermesztésről ismert régió.", ro: "Regiune cunoscută pentru viticultură și cultivarea legumelor.", en: "Region known for intensive viticulture and vegetable farming." },
+    description: { de: "Die Region Annaba ist für ihre fruchtbaren Böden und den Anbau von Getreide, Oliven und Zitrusfrüchten bekannt.", hu: "Annaba környéke fontos mezőgazdasági régió, jelentős növénytermesztéssel.", ro: "Regiunea Annaba este cunoscută pentru productivitatea sa agricolă și activitățile legate de prelucrarea produselor.", en: "Region known for intensive viticulture and vegetable farming." },
     facts: {
-      de: ["Weinbaugebiet", "Gemüseanbau", "Küstenklima"],
-      hu: ["Szőlőtermő vidék", "Zöldségtermesztés", "Parti klíma"],
-      ro: ["Zonă viticolă", "Cultivarea legumelor", "Climat costier"],
+      de: ["Fruchtbare Küstenebene", "Getreide- und Olivenanbau", "Landwirtschaftliche Bedeutung"],
+      hu: ["Annaba", "Mezőgazdaság", "Növénytermesztés"],
+      ro: ["Centru agricol", "Annaba", "Productivitate ridicată"],
       en: ["Viticulture area", "Vegetable farming", "Coastal climate"]
     },
     descriptionAdvanced: {
@@ -209,11 +209,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-07",
     coords: [5.7, 34.8],
     name: { de: "Biskra Oase", hu: "Biskra oázis", ro: "Oaza Biskra", en: "Biskra Oasis" },
-    description: { de: "Zentrum für den Anbau von hochwertigen Datteln.", hu: "A kiváló minőségű datolya termesztésének központja.", ro: "Centrul pentru cultivarea curmalelor de înaltă calitate.", en: "Center for the cultivation of high-quality dates." },
+    description: { de: "Biskra ist das Zentrum der Dattelproduktion in Algerien, berühmt für die hochwertige Sorte \"Deglet Nour\".", hu: "Biskra városa a sivatagi mezőgazdaság és a datolyatermesztés központja.", ro: "Regiunea Biskra este renumită pentru oazele sale vaste de curmali, esențiale pentru economia locală.", en: "Center for the cultivation of high-quality dates." },
     facts: {
-      de: ["Deglet-Nour-Datteln", "Wüstenklima", "Bewässerung"],
-      hu: ["Deglet-Nour datolya", "Sivatagi klíma", "Öntözés"],
-      ro: ["Curmale Deglet-Nour", "Climat deșertic", "Irigare"],
+      de: ["Dattelpalmen-Oasen", "Sorte Deglet Nour", "Hauptexporteur von Datteln"],
+      hu: ["Biskra", "Datolyatermesztés", "Oázis"],
+      ro: ["Producție de curmale", "Oaze", "Biskra"],
       en: ["Deglet Nour dates", "Desert climate", "Irrigation"]
     },
     descriptionAdvanced: {
@@ -234,11 +234,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-19",
     coords: [5.4, 36.2],
     name: { de: "Sétif Hochland", hu: "Sétif-fennsík", ro: "Podișul Sétif", en: "Sétif Highlands" },
-    description: { de: "Wichtige Region für Getreideanbau im Norden Algeriens.", hu: "Fontos gabonatermesztő régió Algéria északi részén.", ro: "Regiune importantă pentru cultivarea cerealelor în nordul Algeriei.", en: "Important region for grain farming in northern Algeria." },
+    description: { de: "Die Hochebenen von Sétif sind die Kornkammer Algeriens, in denen vorwiegend Hartweizen und Gerste angebaut werden.", hu: "Setif felföldjein jelentős gabonatermesztés és állattenyésztés folyik.", ro: "Regiunea Sétif este cunoscută pentru platourile sale înalte, potrivite pentru agricultura cerealelor.", en: "Important region for grain farming in northern Algeria." },
     facts: {
-      de: ["Getreideanbau", "Hochlandklima", "Landwirtschaftliche Zentrale"],
-      hu: ["Gabonatermesztés", "Fennsíki klíma", "Mezőgazdasági központ"],
-      ro: ["Cultivarea cerealelor", "Climat de podiș", "Centru agricol"],
+      de: ["Getreideanbau im Hochland", "Kornkammer Algeriens", "Viehzuchtregion"],
+      hu: ["Setif", "Felföld", "Gabonatermesztés"],
+      ro: ["Platouri înalte", "Sétif", "Agricultură cerealieră"],
       en: ["Grain farming", "Highland climate", "Agricultural hub"]
     },
     descriptionAdvanced: {
@@ -260,11 +260,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-16",
     coords: [3.0, 36.7],
     name: { de: "Botanischer Garten Hamma", hu: "Hamma Botanikus Kert", ro: "Grădina Botanică Hamma", en: "Hamma Botanical Garden" },
-    description: { de: "Ein grüner Park in Algier, ideal für Familien und Kinder.", hu: "Zöld park Algírban, ideális családoknak és gyerekeknek.", ro: "O grădină verde în Alger, ideală pentru familii și copii.", en: "A green park in Algiers, ideal for families and children." },
+    description: { de: "Der Jardin d'Essai du Hamma in Algier ist einer der weltweit bedeutendsten botanischen Gärten mit einer riesigen Pflanzenvielfalt.", hu: "Algír nagy botanikus kertje, amely változatos növényvilággal és pihenőhelyekkel várja a látogatókat.", ro: "Grădina Botanică din Alger este o oază verde urbană ce găzduiește o varietate mare de specii exotice.", en: "A green park in Algiers, ideal for families and children." },
     facts: {
-      de: ["Seltene Pflanzen", "Spielbereiche", "Erholungsort"],
-      hu: ["Ritka növények", "Játszóterek", "Pihenőhely"],
-      ro: ["Plante rare", "Zone de joacă", "Loc de relaxare"],
+      de: ["Botanischer Garten", "Gegründet 1832", "Tropische und europäische Flora"],
+      hu: ["Algír", "Botanikus kert", "Pihenőhely"],
+      ro: ["Grădină urbană", "Alger", "Specii exotice"],
       en: ["Rare plants", "Play areas", "Recreation spot"]
     },
     descriptionAdvanced: {
@@ -285,11 +285,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-16",
     coords: [3.2, 36.7],
     name: { de: "Aquafortland", hu: "Aquafortland", ro: "Aquafortland", en: "Aquafortland" },
-    description: { de: "Ein beliebter Wasserpark für Kinder in Algier.", hu: "Népszerű vízi élménypark gyerekeknek Algírban.", ro: "Un parc acvatic popular pentru copii în Alger.", en: "A popular water park for kids in Algiers." },
+    description: { de: "Aquafortland ist ein beliebter Wasser- und Freizeitpark in Algier, der Familien Entspannung und Unterhaltung bietet.", hu: "Szórakoztató vízi park Algírban, népszerű családi úti cél a nyári időszakban.", ro: "Aquafortland este un parc acvatic popular în suburbiile Algerului, destinat recreerii familiilor.", en: "A popular water park for kids in Algiers." },
     facts: {
-      de: ["Wasserrutschen", "Schwimmbecken", "Familienattraktion"],
-      hu: ["Csúszdák", "Medencék", "Családi attrakció"],
-      ro: ["Tobogane cu apă", "Piscine", "Atracție de familie"],
+      de: ["Wasserpark in Algier", "Freizeit für Familien", "Erholungszentrum"],
+      hu: ["Algír", "Vízi park", "Szórakozás"],
+      ro: ["Parc acvatic", "Recreere", "Lângă Alger"],
       en: ["Water slides", "Swimming pools", "Family attraction"]
     },
     descriptionAdvanced: {
@@ -311,11 +311,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-19",
     coords: [5.3, 36.1],
     name: { de: "Dinosaurierpark Sétif", hu: "Dinoszaurusz Park Sétif", ro: "Parcul Dinozaurilor Sétif", en: "Dinosaur Park Sétif" },
-    description: { de: "Ein Themenpark mit Dinosauriernachbildungen für Kinder.", hu: "Tematikus park dinoszaurusz-replikákkal gyerekeknek.", ro: "Un parc tematic cu replici de dinozauri pentru copii.", en: "A theme park with dinosaur replicas for children." },
+    description: { de: "Der Dinosaurierpark in Sétif ist eine einzigartige Attraktion, die Bildung und Spaß für Kinder und Erwachsene verbindet.", hu: "Setif tematikus parkja, amely dinoszaurusz-szobrokkal és oktató jellegű kiállításokkal rendelkezik.", ro: "Parcul Dinozaurilor din Sétif este o atracție tematică educativă situată într-un cadru natural plăcut.", en: "A theme park with dinosaur replicas for children." },
     facts: {
-      de: ["Lebensgroße Modelle", "Bildungsangebot", "Unterhaltung"],
-      hu: ["Élethű modellek", "Oktató jellegű", "Szórakozás"],
-      ro: ["Modele în mărime naturală", "Valoare educativă", "Divertisment"],
+      de: ["Themenpark in Sétif", "Prähistorische Exponate", "Familienausflugsziel"],
+      hu: ["Setif", "Tematikus park", "Családi program"],
+      ro: ["Atracție tematică", "Sétif", "Educativ"],
       en: ["Life-sized models", "Educational value", "Entertainment"]
     },
     descriptionAdvanced: {
@@ -336,11 +336,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-27",
     coords: [0.1, 35.9],
     name: { de: "Tierpark Mostaganem", hu: "Mostaganem Állatkert", ro: "Grădina Zoologică Mostaganem", en: "Mostaganem Zoo" },
-    description: { de: "Ein kleiner Zoo mit Fokus auf lokale Tierarten.", hu: "Kis állatkert, amely a helyi állatfajokra összpontosít.", ro: "O grădină zoologică mică axată pe specii locale de animale.", en: "A small zoo focusing on local animal species." },
+    description: { de: "Der Wildpark in Mostaganem beherbergt zahlreiche Tierarten und dient dem Schutz der regionalen Biodiversität.", hu: "Vadaspark Mostaganemben, ahol a helyi és egzotikus állatfajok közelebbről is megtekinthetők.", ro: "Parcul de animale sălbatice din Mostaganem oferă vizitatorilor ocazia de a observa specii locale.", en: "A small zoo focusing on local animal species." },
     facts: {
-      de: ["Familienbesuche", "Lokale Fauna", "Bildung"],
-      hu: ["Családi látogatások", "Helyi fauna", "Oktatás"],
-      ro: ["Vizite în familie", "Faună locală", "Educație"],
+      de: ["Zoo und Wildpark", "Schutz der Artenvielfalt", "Beliebtes Ausflugsziel"],
+      hu: ["Mostaganem", "Vadaspark", "Állatvilág"],
+      ro: ["Faună locală", "Mostaganem", "Observare"],
       en: ["Family visits", "Local fauna", "Education"]
     },
     descriptionAdvanced: {
@@ -361,11 +361,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-31",
     coords: [-0.6, 35.7],
     name: { de: "Aquarium von Oran", hu: "Oráni Akvárium", ro: "Acvariul din Oran", en: "Oran Aquarium" },
-    description: { de: "Ein Aquarium, das das Meeresleben des Mittelmeers zeigt.", hu: "A Földközi-tenger élővilágát bemutató akvárium.", ro: "Un acvariu care prezintă viața marină a Mediteranei.", en: "An aquarium showcasing the marine life of the Mediterranean." },
+    description: { de: "Das Aquarium von Oran präsentiert die faszinierende Unterwasserwelt des Mittelmeers und dient der Umweltbildung.", hu: "Orán tengeri akváriuma, amely bemutatja a Földközi-tenger változatos élővilágát.", ro: "Acvariul din Oran prezintă biodiversitatea marină a Mării Mediterane într-un cadru didactic.", en: "An aquarium showcasing the marine life of the Mediterranean." },
     facts: {
-      de: ["Unterwasserwelt", "Bildung", "Kinderattraktion"],
-      hu: ["Vízalatti világ", "Oktatás", "Gyerekattrakció"],
-      ro: ["Lume subacvatică", "Educație", "Atracție pentru copii"],
+      de: ["Meeresmuseum in Oran", "Mittelmeer-Fauna", "Bildungszentrum"],
+      hu: ["Orán", "Akvárium", "Tengeri élővilág"],
+      ro: ["Biodiversitate marină", "Oran", "Educație"],
       en: ["Underwater world", "Education", "Kids attraction"]
     },
     descriptionAdvanced: {
@@ -386,11 +386,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-18",
     coords: [5.6, 36.6],
     name: { de: "Nationalpark Taza", hu: "Taza Nemzeti Park", ro: "Parcul Național Taza", en: "Taza National Park" },
-    description: { de: "Ein Park, der eine große Vielfalt an Vögeln und Säugetieren schützt.", hu: "Park, amely madarak és emlősök nagy változatosságát védi.", ro: "Un parc care protejează o mare varietate de păsări și mamifere.", en: "A park protecting a great variety of birds and mammals." },
+    description: { de: "Der Taza-Nationalpark ist ein UNESCO-Biosphärenreservat, das für seine dichten Eichenwälder und den Schutz des Berberaffen bekannt ist.", hu: "Jijel mellett fekvő, biodiverzitásáról híres nemzeti park a tengerpart közelében.", ro: "Parcul Național Taza este o rezervație naturală de coastă celebră pentru peisajele sale verzi și biodiversitate.", en: "A park protecting a great variety of birds and mammals." },
     facts: {
-      de: ["Biosphärenreservat", "Küstenlandschaft", "Flora"],
-      hu: ["Bioszféra-rezervátum", "Parti táj", "Növényvilág"],
-      ro: ["Rezervație a biosferei", "Peisaj costier", "Floră"],
+      de: ["Biosphärenreservat", "Schutz der Berberaffen", "Dichte Korkeichenwälder"],
+      hu: ["Jijel", "Nemzeti park", "Biodiverzitás"],
+      ro: ["Rezervație naturală", "Peisaj costier", "Diversitate"],
       en: ["Biosphere reserve", "Coastal landscape", "Flora"]
     },
     descriptionAdvanced: {
@@ -411,11 +411,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-05",
     coords: [6.1, 35.6],
     name: { de: "Nationalpark Belezma", hu: "Belezma Nemzeti Park", ro: "Parcul Național Belezma", en: "Belezma National Park" },
-    description: { de: "Ein bergiger Park, bekannt für seine Atlas-Zedern.", hu: "Hegyvidéki park, amely az atlaszi cédrusairól ismert.", ro: "Un parc muntos cunoscut pentru cedrii săi din Atlas.", en: "A mountainous park known for its Atlas cedars." },
+    description: { de: "Belezma ist ein ökologisch wertvoller Nationalpark in der Region Batna, geprägt von einer einzigartigen Flora und Fauna der Bergregion.", hu: "Batna közelében található, változatos tájakkal rendelkező nemzeti park.", ro: "Parcul Național Belezma este cunoscut pentru pădurile sale de cedru și peisajul montan din zona Aures.", en: "A mountainous park known for its Atlas cedars." },
     facts: {
-      de: ["Atlas-Zedern", "Wildtiere", "Wandern"],
-      hu: ["Atlaszi cédrus", "Vadvilág", "Túrázás"],
-      ro: ["Cedri de Atlas", "Animale sălbatice", "Drumeții"],
+      de: ["Berg-Nationalpark", "Biologische Vielfalt", "Landschaft bei Batna"],
+      hu: ["Batna", "Nemzeti park", "Természet"],
+      ro: ["Păduri de cedru", "Munții Aures", "Parc național"],
       en: ["Atlas cedars", "Wildlife", "Hiking"]
     },
     descriptionAdvanced: {
@@ -436,11 +436,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-10",
     coords: [4.1, 36.4],
     name: { de: "Nationalpark Djurdjura", hu: "Djurdjura Nemzeti Park", ro: "Parcul Național Djurdjura", en: "Djurdjura National Park" },
-    description: { de: "Hohe Gipfel und Heimat der Berberaffen.", hu: "Magas csúcsok és a berber majmok otthona.", ro: "Vârfuri înalte și casa macacilor de Berberia.", en: "High peaks and home to Barbary macaques." },
+    description: { de: "Der Djurdjura-Nationalpark beeindruckt durch seine markanten Gebirgszüge, tiefen Schluchten und seltenen Tierarten in der Kabylei.", hu: "Az ország egyik leglátványosabb hegyvidéki nemzeti parkja a Djurdjura-hegységben.", ro: "Parcul Național Djurdjura este celebru pentru peisajele montane spectaculoase și pădurile de cedru din nordul Algeriei.", en: "High peaks and home to Barbary macaques." },
     facts: {
-      de: ["Berberaffen", "Hohe Gipfel", "Naturlandschaft"],
-      hu: ["Berber majmok", "Magas csúcsok", "Természeti táj"],
-      ro: ["Macaci de Berberia", "Vârfuri înalte", "Peisaj natural"],
+      de: ["Hochgebirgspark", "Region der Kabylei", "Tiefe Felshöhlen"],
+      hu: ["Djurdjura-hegység", "Nemzeti park", "Hegység"],
+      ro: ["Peisaj montan", "Păduri de cedru", "Parc național"],
       en: ["Barbary macaques", "High peaks", "Natural landscape"]
     },
     descriptionAdvanced: {
@@ -461,11 +461,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-38",
     coords: [2.0, 35.8],
     name: { de: "Nationalpark Theniet El Had", hu: "Theniet El Had Nemzeti Park", ro: "Parcul Național Theniet El Had", en: "Theniet El Had National Park" },
-    description: { de: "Berühmt für seine dichten Zedernwälder.", hu: "Híres a sűrű cédruserdőiről.", ro: "Faimos pentru pădurile sale dese de cedru.", en: "Famous for its dense cedar forests." },
+    description: { de: "Dieser Nationalpark ist berühmt für seine jahrhundertealten Atlas-Zedernwälder und bietet ideale Bedingungen zum Wandern.", hu: "Tlemcen felé vezető úton található, gyönyörű erdőkkel borított nemzeti park.", ro: "Parcul Național Theniet El Had este o rezervație montană cunoscută pentru pădurile sale seculare de cedru.", en: "Famous for its dense cedar forests." },
     facts: {
-      de: ["Zedernwald", "Wanderwege", "Ruhe"],
-      hu: ["Cédruserdő", "Túraútvonalak", "Nyugalom"],
-      ro: ["Pădure de cedru", "Trasee de drumeție", "Liniște"],
+      de: ["Alte Zedernwälder", "Wanderparadies", "Atlas-Gebirgsregion"],
+      hu: ["Nemzeti park", "Erdő", "Természet"],
+      ro: ["Păduri seculare", "Rezervație montană", "Cedri"],
       en: ["Cedar forest", "Hiking trails", "Tranquility"]
     },
     descriptionAdvanced: {
@@ -486,11 +486,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-13",
     coords: [-1.3, 34.8],
     name: { de: "Nationalpark Tlemcen", hu: "Tlemcen Nemzeti Park", ro: "Parcul Național Tlemcen", en: "Tlemcen National Park" },
-    description: { de: "Ein Park, der eine reiche Flora und historische Stätten umfasst.", hu: "Park, amely gazdag növényvilágot és történelmi helyszíneket foglal magában.", ro: "Un parc care cuprinde o floră bogată și situri istorice.", en: "A park that includes rich flora and historical sites." },
+    description: { de: "Der Nationalpark von Tlemcen vereint historische Stätten, Wasserfälle und eine reiche Flora in einer malerischen Umgebung.", hu: "Tlemcen mellett elterülő nemzeti park, amely fontos szerepet tölt be a helyi ökoszisztémában.", ro: "Parcul Național Tlemcen oferă o combinație unică de ecosisteme forestiere și situri istorice culturale.", en: "A park that includes rich flora and historical sites." },
     facts: {
-      de: ["Flora", "Tlemcen-Wasserfälle", "Natur"],
-      hu: ["Növényvilág", "Tlemcen vízesések", "Természet"],
-      ro: ["Floră", "Cascadele Tlemcen", "Natură"],
+      de: ["Kultur und Natur", "Berühmte Wasserfälle", "Nahe der Stadt Tlemcen"],
+      hu: ["Tlemcen", "Nemzeti park", "Ökoszisztéma"],
+      ro: ["Ecosisteme forestiere", "Tlemcen", "Parc național"],
       en: ["Flora", "Tlemcen waterfalls", "Nature"]
     },
     descriptionAdvanced: {
@@ -511,11 +511,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-24",
     coords: [7.5, 36.4],
     name: { de: "Hammam Debagh", hu: "Hammam Debagh", ro: "Hammam Debagh", en: "Hammam Debagh" },
-    description: { de: "Thermalquellen, die bei Familien sehr beliebt sind.", hu: "Termálforrások, amelyek nagyon népszerűek a családok körében.", ro: "Izvoare termale foarte populare printre familii.", en: "Thermal springs that are very popular among families." },
+    description: { de: "Guelma ist bekannt für seine heilenden Thermalquellen, insbesondere Hammam Meskhoutine mit seinen spektakulären Sinterterrassen.", hu: "Guelma termálforrásai, amelyek gyógyhatású vizükről és környezetükről ismertek.", ro: "Băile termale din Guelma sunt renumite pentru proprietățile lor terapeutice și izvorul natural fierbinte.", en: "Thermal springs that are very popular among families." },
     facts: {
-      de: ["Heißes Wasser", "Erholung", "Familien"],
-      hu: ["Forró víz", "Pihenés", "Családok"],
-      ro: ["Apă caldă", "Relaxare", "Familii"],
+      de: ["Heilende Thermalquellen", "Sinterterrassen", "Historischer Kurort"],
+      hu: ["Guelma", "Termálfürdő", "Gyógyvíz"],
+      ro: ["Băi termale", "Terapeutic", "Guelma"],
       en: ["Hot water", "Relaxation", "Families"]
     },
     descriptionAdvanced: {
@@ -536,11 +536,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-39",
     coords: [6.8, 33.3],
     name: { de: "Palmenhaine von El Oued", hu: "El Oued pálmaligetek", ro: "Lunzile de palmieri El Oued", en: "El Oued Palm Groves" },
-    description: { de: "Traditionelle Oasen-Landwirtschaft in der Wüste.", hu: "Hagyományos oázis-mezőgazdaság a sivatagban.", ro: "Agricultură tradițională de oază în deșert.", en: "Traditional oasis farming in the desert." },
+    description: { de: "Die Palmenhaine von El Oued, der \"Stadt der tausend Kuppeln\", nutzen traditionelle Anbautechniken inmitten der Sanddünen.", hu: "El Oued híres pálmaligetei, amelyek a sivatagi oázisok jellegzetes tájait képezik.", ro: "Palmieriile din El Oued sunt o oază imensă în deșert, esențială pentru cultivarea curmalelor în regiune.", en: "Traditional oasis farming in the desert." },
     facts: {
-      de: ["Oasenbau", "Datteln", "Tradition"],
-      hu: ["Oázisépítés", "Datolya", "Hagyomány"],
-      ro: ["Amenajarea oazelor", "Curmale", "Tradiție"],
+      de: ["Oasenlandwirtschaft", "Stadt der tausend Kuppeln", "Traditionelle Bewässerung"],
+      hu: ["El Oued", "Pálmaliget", "Oázis"],
+      ro: ["Oază de palmieri", "Curmale", "El Oued"],
       en: ["Oasis farming", "Dates", "Tradition"]
     },
     descriptionAdvanced: {
@@ -561,11 +561,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-29",
     coords: [0.1, 35.3],
     name: { de: "Weinberge von Mascara", hu: "Mascara szőlőskertek", ro: "Podgoriile Mascara", en: "Mascara Vineyards" },
-    description: { de: "Region mit langer Tradition im Weinanbau.", hu: "Hosszú hagyományokkal rendelkező régió a szőlőtermesztésben.", ro: "Regiune cu o lungă tradiție în viticultură.", en: "Region with a long tradition in viticulture." },
+    description: { de: "Mascara ist das Zentrum der algerischen Weinproduktion, bekannt für seine fruchtbaren Hänge und die lange Weinbautradition.", hu: "Mascara térsége, ahol jelentős borkultúra és szőlőültetvények találhatók.", ro: "Regiunea Mascara este cunoscută pentru podgoriile sale tradiționale și calitatea strugurilor produși.", en: "Region with a long tradition in viticulture." },
     facts: {
-      de: ["Weinbau", "Klima", "Tradition"],
-      hu: ["Szőlőtermesztés", "Klíma", "Hagyomány"],
-      ro: ["Viticultură", "Climat", "Tradiție"],
+      de: ["Zentrum des Weinbaus", "Fruchtbare Böden", "Traditionelle Kellereien"],
+      hu: ["Mascara", "Szőlőültetvény", "Borkultúra"],
+      ro: ["Podgorii", "Tradiție viticolă", "Mascara"],
       en: ["Viticulture", "Climate", "Tradition"]
     },
     descriptionAdvanced: {
@@ -586,11 +586,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-42",
     coords: [2.4, 36.6],
     name: { de: "Küstenlandwirtschaft Tipaza", hu: "Tipaza parti mezőgazdasága", ro: "Agricultura costieră Tipaza", en: "Tipaza Coastal Agriculture" },
-    description: { de: "Fruchtbares Land direkt am Meer.", hu: "Termékeny föld közvetlenül a tengerparton.", ro: "Pământ fertil chiar pe malul mării.", en: "Fertile land right by the sea." },
+    description: { de: "Die Küstenregion Tipaza ist ein wichtiges landwirtschaftliches Gebiet für den Anbau von Gemüse und Früchten am Mittelmeer.", hu: "Termékeny föld közvetlenül a tengerparton.", ro: "Zona agricolă de coastă din Tipaza beneficiază de un climat mediteranean ideal pentru diverse culturi.", en: "Fertile land right by the sea." },
     facts: {
-      de: ["Obstbau", "Gemüse", "Küstenklima"],
+      de: ["Küstenlandwirtschaft", "Obst- und Gemüseanbau", "Mittelmeerklima"],
       hu: ["Gyümölcstermesztés", "Zöldségek", "Parti klíma"],
-      ro: ["Cultivarea fructelor", "Legume", "Climat costier"],
+      ro: ["Agricultură de coastă", "Tipaza", "Climat mediteranean"],
       en: ["Fruit growing", "Vegetables", "Coastal climate"]
     },
     descriptionAdvanced: {
@@ -611,11 +611,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-47",
     coords: [3.7, 32.5],
     name: { de: "Oase Ghardaia", hu: "Ghardaia oázis", ro: "Oaza Ghardaia", en: "Ghardaia Oasis" },
-    description: { de: "Einzigartige Oasen-Kultur mit traditioneller Bewässerung.", hu: "Egyedülálló oázis-kultúra hagyományos öntözéssel.", ro: "Cultură de oază unică cu irigare tradițională.", en: "Unique oasis culture with traditional irrigation." },
+    description: { de: "Die Oasen von Ghardaia im M'Zab-Tal zeigen ein ausgeklügeltes System der Wüstenlandwirtschaft und Wasserverteilung.", hu: "Egyedülálló oázis-kultúra hagyományos öntözéssel.", ro: "Agricultura de oază din Ghardaïa este un exemplu remarcabil de adaptare tradițională în mediul arid.", en: "Unique oasis culture with traditional irrigation." },
     facts: {
-      de: ["Datteln", " Bewässerung", "Kultur"],
+      de: ["UNESCO-M'Zab-Tal", "Wüstenlandwirtschaft", "Traditionelle Wassersysteme"],
       hu: ["Datolya", "Öntözés", "Kultúra"],
-      ro: ["Curmale", "Irigare", "Cultură"],
+      ro: ["Agricultură de oază", "Ghardaïa", "Adaptare aridă"],
       en: ["Dates", "Irrigation", "Culture"]
     },
     descriptionAdvanced: {
@@ -636,11 +636,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-41",
     coords: [7.9, 36.3],
     name: { de: "Souk Ahras Landwirtschaft", hu: "Souk Ahras mezőgazdasága", ro: "Agricultura Souk Ahras", en: "Souk Ahras Agriculture" },
-    description: { de: "Region mit Fokus auf Getreide und Hülsenfrüchte.", hu: "Gabonafélékre és hüvelyesekre fókuszáló régió.", ro: "Regiune axată pe cereale și leguminoase.", en: "Region focusing on grains and legumes." },
+    description: { de: "Souk Ahras ist eine bedeutende Agrarregion im Nordosten Algeriens, spezialisiert auf Getreide und Viehzucht.", hu: "Gabonafélékre és hüvelyesekre fókuszáló régió.", ro: "Souk Ahras este o zonă agricolă fertilă care susține o varietate de culturi sezoniere importante.", en: "Region focusing on grains and legumes." },
     facts: {
-      de: ["Getreide", "Hülsenfrüchte", "Klima"],
+      de: ["Agrarzentrum im Nordosten", "Getreide- und Fleischproduktion", "Hügellandschaften"],
       hu: ["Gabonafélék", "Hüvelyesek", "Klíma"],
-      ro: ["Cereale", "Leguminoase", "Climat"],
+      ro: ["Zona agricolă", "Souk Ahras", "Fertilitate"],
       en: ["Grains", "Legumes", "Climate"]
     },
     descriptionAdvanced: {
@@ -661,11 +661,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-21",
     coords: [6.9, 36.8],
     name: { de: "Skikda Obstbau", hu: "Skikda gyümölcstermesztése", ro: "Cultivarea fructelor Skikda", en: "Skikda Fruit Growing" },
-    description: { de: "Bekannt für Erdbeeren und Zitrusfrüchte.", hu: "Eperről és citrusfélékről ismert.", ro: "Cunoscută pentru căpșuni și citrice.", en: "Known for strawberries and citrus fruits." },
+    description: { de: "Die Provinz Skikda ist bekannt für ihre vielfältige Landwirtschaft, insbesondere für den Anbau von Zitrusfrüchten und Erdbeeren.", hu: "Eperről és citrusfélékről ismert.", ro: "Regiunea Skikda este un centru agricol și industrial important, situat pe malul Mării Mediterane.", en: "Known for strawberries and citrus fruits." },
     facts: {
-      de: ["Erdbeeren", "Zitrusfrüchte", "Klima"],
+      de: ["Zitrusfrüchte-Anbau", "Erdbeerregion", "Export landwirtschaftlicher Güter"],
       hu: ["Eper", "Citrusfélék", "Klíma"],
-      ro: ["Căpșuni", "Citrice", "Climat"],
+      ro: ["Centru agricol", "Skikda", "Marea Mediterană"],
       en: ["Strawberries", "Citrus fruits", "Climate"]
     },
     descriptionAdvanced: {
@@ -686,11 +686,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-37",
     coords: [-8.1, 27.7],
     name: { de: "Landwirtschaft in Tindouf", hu: "Mezőgazdaság Tindoufban", ro: "Agricultura în Tindouf", en: "Agriculture in Tindouf" },
-    description: { de: "Kleine landwirtschaftliche Projekte in der Wüste.", hu: "Kicsi mezőgazdasági projektek a sivatagban.", ro: "Mici proiecte agricole în deșert.", en: "Small agricultural projects in the desert." },
+    description: { de: "Trotz extremer Wüstenbedingungen werden in Tindouf innovative Projekte zur Selbstversorgung durch Oasenlandwirtschaft umgesetzt.", hu: "Kicsi mezőgazdasági projektek a sivatagban.", ro: "Tindouf este situat în sud-vestul Algeriei, într-o zonă deșertică ce dezvoltă mici inițiative agricole locale.", en: "Small agricultural projects in the desert." },
     facts: {
-      de: ["Wüstenanbau", "Resilienz", "Datteln"],
+      de: ["Wüstenlandwirtschaft", "Projekte zur Selbstversorgung", "Südwest-Algerien"],
       hu: ["Sivatagi termesztés", "Rugalmasság", "Datolya"],
-      ro: ["Agricultură în deșert", "Reziliență", "Curmale"],
+      ro: ["Sud-vest", "Zona deșertică", "Agricultură locală"],
       en: ["Desert farming", "Resilience", "Dates"]
     },
     descriptionAdvanced: {
@@ -711,11 +711,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-06",
     coords: [5.1, 36.7],
     name: { de: "Botanischer Garten Béjaïa", hu: "Béjaïa Botanikus Kert", ro: "Grădina Botanică Béjaïa", en: "Béjaïa Botanical Garden" },
-    description: { de: "Ein entspannender Garten für Familien in Béjaïa.", hu: "Pihentető kert családoknak Béjaïában.", ro: "O grădină relaxantă pentru familii în Béjaïa.", en: "A relaxing garden for families in Béjaïa." },
+    description: { de: "Der botanische Garten von Bejaia pflegt eine wertvolle Sammlung mediterraner Pflanzen in direkter Küstennähe.", hu: "Bejaia botanikus kertje, amely a város zöld oázisa és fontos oktatási központ.", ro: "Grădina Botanică din Bejaia oferă un spațiu de conservare pentru flora mediteraneană și locală.", en: "A relaxing garden for families in Béjaïa." },
     facts: {
-      de: ["Pflanzenwelt", "Ruhe", "Spaziergänge"],
-      hu: ["Növényvilág", "Nyugalom", "Séták"],
-      ro: ["Floră", "Liniște", "Plimbări"],
+      de: ["Pflanzensammlung am Meer", "Mediterrane Flora", "Wissenschaftlicher Garten"],
+      hu: ["Bejaia", "Botanikus kert", "Oázis"],
+      ro: ["Grădină botanică", "Flora mediteraneană", "Bejaia"],
       en: ["Flora", "Tranquility", "Walks"]
     },
     descriptionAdvanced: {
@@ -736,11 +736,11 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     parent: "DZ-05",
     coords: [6.1, 35.5],
     name: { de: "Freizeitpark Batna", hu: "Batna Vidámpark", ro: "Parc de Distracții Batna", en: "Batna Amusement Park" },
-    description: { de: "Unterhaltungspark für Kinder in Batna.", hu: "Szórakoztató park gyerekeknek Batnában.", ro: "Parc de divertisment pentru copii în Batna.", en: "Amusement park for kids in Batna." },
+    description: { de: "Der Vergnügungspark von Batna ist ein populäres Ziel für Familien in der Aures-Region und bietet zahlreiche Attraktionen.", hu: "Szórakoztató park Batna városában, népszerű családi szabadidős helyszín.", ro: "Parcul de distracții din Batna este un spațiu recreativ popular pentru familii în inima regiunii Aures.", en: "Amusement park for kids in Batna." },
     facts: {
-      de: ["Fahrgeschäfte", "Spiele", "Spaß"],
-      hu: ["Lovaglás", "Játékok", "Szórakozás"],
-      ro: ["Atracții", "Jocuri", "Distracție"],
+      de: ["Freizeitpark in Batna", "Aures-Gebirgsregion", "Attraktionen für Kinder"],
+      hu: ["Batna", "Szórakoztató park", "Szabadidő"],
+      ro: ["Spațiu recreativ", "Batna", "Regiunea Aures"],
       en: ["Rides", "Games", "Fun"]
     },
     descriptionAdvanced: {

@@ -110,7 +110,6 @@ def apply_seo(json_file):
             if not id_match:
                 continue
             
-            # Find the start of the object containing this ID
             obj_start = content.rfind('{', 0, id_match.start())
             if obj_start == -1: continue
             
@@ -121,42 +120,93 @@ def apply_seo(json_file):
             poi_block = content[obj_start:end_index + 1]
             new_poi_block = poi_block
 
-            # Handle descriptionAdvanced
-            if 'descriptionAdvanced' in item:
-                new_desc = item['descriptionAdvanced'].replace('"', chr(92) + '"').replace('\n', ' ')
-                
-                if 'descriptionAdvanced:' not in new_poi_block:
-                    addition = f',\n    descriptionAdvanced: {{ {lang_setting}: "{new_desc}" }}'
-                    last_brace = new_poi_block.rfind('}')
-                    new_poi_block = new_poi_block[:last_brace] + addition + new_poi_block[last_brace:]
-                else:
-                    bounds = get_field_inner_bounds(new_poi_block, "descriptionAdvanced", lang_setting)
-                    if bounds:
-                        new_poi_block = new_poi_block[:bounds[0]] + '"' + new_desc + '"' + new_poi_block[bounds[1]:]
-                    else:
-                        match = re.search(r'descriptionAdvanced:\s*\{', new_poi_block)
-                        if match:
-                            insert_pos = match.end()
-                            new_poi_block = new_poi_block[:insert_pos] + f' {lang_setting}: "{new_desc}",' + new_poi_block[insert_pos:]
+            if lang_setting == 'multi4':
+                # MULTI4 descriptionAdvanced
+                desc_adv_items = {}
+                for lang_code in ['de', 'hu', 'ro', 'en']:
+                    key = f'descriptionAdvanced{lang_code.capitalize()}'
+                    if key in item:
+                        desc_adv_items[lang_code] = item[key]
 
-            # Handle factsAdvanced
-            if 'factsAdvanced' in item:
-                new_facts = item['factsAdvanced']
-                facts_json = json.dumps(new_facts, ensure_ascii=False)
-                
-                if 'factsAdvanced:' not in new_poi_block:
-                    addition = f',\n    factsAdvanced: {{ {lang_setting}: {facts_json} }}'
-                    last_brace = new_poi_block.rfind('}')
-                    new_poi_block = new_poi_block[:last_brace] + addition + new_poi_block[last_brace:]
-                else:
-                    bounds = get_field_inner_bounds(new_poi_block, "factsAdvanced", lang_setting)
-                    if bounds:
-                        new_poi_block = new_poi_block[:bounds[0]] + facts_json + new_poi_block[bounds[1]:]
+                if desc_adv_items:
+                    if 'descriptionAdvanced:' not in new_poi_block:
+                        # Add the whole block
+                        json_str = json.dumps(desc_adv_items, ensure_ascii=False, indent=4)
+                        # Quick format
+                        json_str = json_str.replace('}', '    }').replace('{', '{\n    ')
+                        addition = f',\n    descriptionAdvanced: {json_str}'
+                        last_brace = new_poi_block.rfind('}')
+                        new_poi_block = new_poi_block[:last_brace] + addition + new_poi_block[last_brace:]
                     else:
-                        match = re.search(r'factsAdvanced:\s*\{', new_poi_block)
-                        if match:
-                            insert_pos = match.end()
-                            new_poi_block = new_poi_block[:insert_pos] + f' {lang_setting}: {facts_json},' + new_poi_block[insert_pos:]
+                        # Field exists, add languages one by one
+                        for lang_code, desc_text in desc_adv_items.items():
+                            bounds = get_field_inner_bounds(new_poi_block, "descriptionAdvanced", lang_code)
+                            if bounds:
+                                # Language already exists, replace it
+                                new_poi_block = new_poi_block[:bounds[0]] + f'"{desc_text}"' + new_poi_block[bounds[1]:]
+                            else:
+                                # Add new language to existing object
+                                match = re.search(r'descriptionAdvanced:\s*\{', new_poi_block)
+                                if match:
+                                    insert_pos = match.end()
+                                    new_poi_block = new_poi_block[:insert_pos] + f'\n        {lang_code}: "{desc_text}",' + new_poi_block[insert_pos:]
+                
+                # MULTI4 factsAdvanced
+                if 'factsAdvanced' in item:
+                    new_facts = item['factsAdvanced']
+                    facts_json = json.dumps(new_facts, ensure_ascii=False)
+                    
+                    if 'factsAdvanced:' not in new_poi_block:
+                        addition = f',\n    factsAdvanced: {{ multi4: {facts_json} }}'
+                        last_brace = new_poi_block.rfind('}')
+                        new_poi_block = new_poi_block[:last_brace] + addition + new_poi_block[last_brace:]
+                    else:
+                        bounds = get_field_inner_bounds(new_poi_block, "factsAdvanced", 'multi4')
+                        if bounds:
+                            new_poi_block = new_poi_block[:bounds[0]] + facts_json + new_poi_block[bounds[1]:]
+                        else:
+                            match = re.search(r'factsAdvanced:\s*\{', new_poi_block)
+                            if match:
+                                insert_pos = match.end()
+                                new_poi_block = new_poi_block[:insert_pos] + f' multi4: {facts_json},' + new_poi_block[insert_pos:]
+
+            else: # Single language logic
+                # Handle descriptionAdvanced
+                if 'descriptionAdvanced' in item:
+                    new_desc = item['descriptionAdvanced'].replace('"', '\\"').replace('\n', ' ')
+                    
+                    if 'descriptionAdvanced:' not in new_poi_block:
+                        addition = f',\n    descriptionAdvanced: {{ {lang_setting}: "{new_desc}" }}'
+                        last_brace = new_poi_block.rfind('}')
+                        new_poi_block = new_poi_block[:last_brace] + addition + new_poi_block[last_brace:]
+                    else:
+                        bounds = get_field_inner_bounds(new_poi_block, "descriptionAdvanced", lang_setting)
+                        if bounds:
+                            new_poi_block = new_poi_block[:bounds[0]] + '"' + new_desc + '"' + new_poi_block[bounds[1]:]
+                        else:
+                            match = re.search(r'descriptionAdvanced:\s*\{', new_poi_block)
+                            if match:
+                                insert_pos = match.end()
+                                new_poi_block = new_poi_block[:insert_pos] + f' {lang_setting}: "{new_desc}",' + new_poi_block[insert_pos:]
+
+                # Handle factsAdvanced
+                if 'factsAdvanced' in item:
+                    new_facts = item['factsAdvanced']
+                    facts_json = json.dumps(new_facts, ensure_ascii=False)
+                    
+                    if 'factsAdvanced:' not in new_poi_block:
+                        addition = f',\n    factsAdvanced: {{ {lang_setting}: {facts_json} }}'
+                        last_brace = new_poi_block.rfind('}')
+                        new_poi_block = new_poi_block[:last_brace] + addition + new_poi_block[last_brace:]
+                    else:
+                        bounds = get_field_inner_bounds(new_poi_block, "factsAdvanced", lang_setting)
+                        if bounds:
+                            new_poi_block = new_poi_block[:bounds[0]] + facts_json + new_poi_block[bounds[1]:]
+                        else:
+                            match = re.search(r'factsAdvanced:\s*\{', new_poi_block)
+                            if match:
+                                insert_pos = match.end()
+                                new_poi_block = new_poi_block[:insert_pos] + f' {lang_setting}: {facts_json},' + new_poi_block[insert_pos:]
 
             if new_poi_block != poi_block:
                 content = content.replace(poi_block, new_poi_block)

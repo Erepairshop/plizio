@@ -1,0 +1,73 @@
+
+{
+  "lang": "multi4",
+  "country": "argentina",
+  "files": ["lib/visualLab/data/poiExtraArgentinaReliefV2.ts"],
+  "items": [
+    {
+      "id": "sistema-de-tandilia-relief-v2",
+      "descriptionAdvancedEn": "The Tandilia System is an ancient mountain formation that runs diagonally through the center of the province of Buenos Aires, from the city of Olavarría to Mar del Plata. These mountains are among the oldest on the planet, with rocks dating back over 2 billion years. The relief is characterized by low hills with smooth, rounded shapes, alternating with areas of stone quarries important to the national economy. The city of Tandil is the heart of this system, renowned for the beauty of its miniature mountain landscape and its natural parks. Tandilia offers a distinct visual contrast to the surrounding steppe and is a key point for understanding the early geology of the South American continent, while also offering numerous opportunities for rural and adventure tourism.",
+      "factsAdvancedEn": [
+        "One of the oldest mountain ranges in the world (2.2 billion years).",
+        "The highest point is Cerro La Juanita, at 524 meters.",
+        "The system has a total length of about 350 kilometers.",
+        "The predominant rocks are granite and quartzite.",
+        "It is home to the most important stone quarries in the country.",
+        "Includes the famous 'Piedra Movediza' rock in Tandil.",
+        "The hills act as natural freshwater reservoirs for the region."
+      ]
+    },
+    {
+      "id": "quebrada-de-humahuaca-relief-v2",
+      "descriptionAdvancedEn": "The Quebrada de Humahuaca is a spectacular and colorful mountain valley located in the province of Jujuy, declared a UNESCO World Heritage Site in the cultural landscape category. This 155-kilometer-long depression, traversed by the Grande River, has been an essential commercial and cultural route for millennia between the high Andean region and the warm valleys. It is famous for its multicolored mountains, such as the 'Cerro de los Siete Colores' in Purmamarca and the 'Serranía de Hornocal' in Humahuaca, whose geological strata reveal millions of years of Earth's history. The Quebrada is home to picturesque colonial villages, historic churches, and pre-Inca ruins (pucarás), keeping alive ancestral traditions and popular festivals that attract thousands of visitors annually.",
+      "factsAdvancedEn": [
+        "Declared a UNESCO World Heritage Site in 2003.",
+        "The valley is 155 km long and is located at over 2,000 m altitude.",
+        "The Hill of Seven Colors displays sediments from different geological periods.",
+        "Pucará de Tilcara is the most important archaeological site in the valley.",
+        "Humahuaca is the largest town and the historical center of the region.",
+        "It is famous for its Carnival, full of indigenous symbolism.",
+        "Route 9 runs the entire length of the Quebrada, offering panoramic views."
+      ]
+    },
+    {
+      "id": "valles-calchaquies-relief-v2",
+      "descriptionAdvancedEn": "The Calchaquí Valleys are one of the most impressive and varied geographical systems in northwestern Argentina, stretching through the provinces of Salta, Catamarca, and Tucumán. The landscape is a spectacular mix of reddish mountains, deep canyons, high-altitude vineyards, and white colonial villages. This region is the heart of northern viticulture, famous for the Torrontés wine produced in Cafayate. The road through the valleys offers remarkable natural attractions such as the 'Quebrada de las Conchas' and 'Quebrada de las Flechas,' where erosion has created surreal shapes. Historically, the valleys were the scene of a heroic resistance by the Diaguita people against the Spanish conquest. Today, they combine raw natural beauty with a refined local gastronomy and a rich artisanal tradition.",
+      "factsAdvancedEn": [
+        "The valleys extend for a distance of over 500 kilometers.",
+        "They host some of the highest vineyards in the world (over 3,000 m).",
+        "The name honors the indigenous Calchaquí tribe that inhabited the area.",
+        "Cafayate is the main tourist and wine-growing center of the region.",
+        "Includes the amazing 'Quebrada de las Flechas' on Route 40.",
+        "The region is renowned for its craftsmanship in ceramics and textiles.",
+        "The Calchaquí River is the main watercourse of the valley."
+      ]
+    },
+    {
+      "id": "meseta-patagonica-relief-v2",
+      "descriptionAdvancedEn": "The Patagonian Meseta (Patagonian Plateau) is a characteristic relief of southern Argentina, consisting of a succession of gigantic steps that descend from the base of the Andes to the Atlantic Ocean. This vast and arid landscape is marked by deep valleys (cañadones), salt depressions, and isolated volcanic cones. The climate is harsh, with constant winds and little rainfall, creating a steppe dominated by low shrubs and hardy grasses. Despite its desolate appearance at first glance, the meseta is a region rich in mineral and hydrocarbon resources, and is also the habitat of emblematic species such as the guanaco and the lesser rhea (choique). The edges of these plateaus form high cliffs where they meet the sea, offering a landscape of overwhelming solitude and unique wild beauty.",
+      "factsAdvancedEn": [
+        "Covers over 600,000 square kilometers of Argentine territory.",
+        "The altitude gradually decreases from 1,500 m in the west to 100 m in the east.",
+        "The Bajo del Gualicho depression is one of the lowest points (-72 m).",
+        "Includes vast deposits of oil, natural gas, and uranium.",
+        "Fluvial-glacial erosion has created deep canyons in the relief.",
+        "It is the main area for sheep farming (wool production).",
+        "Preserves geological traces of ancient petrified forests."
+      ]
+    },
+    {
+      "id": "puna-de-atacama-relief-v2",
+      "descriptionAdvancedEn": "The Puna de Atacama is a high-altitude desert plateau located in northwestern Argentina, part of the vast Altiplano system. Situated at over 3,500 meters above sea level, the Puna is characterized by extreme aridity, intense solar radiation, and a huge daily thermal amplitude. The landscape is lunar, dominated by dazzling salt flats (salares), colorful lagoons, and volcanic peaks reaching almost 7,000 meters. It is one of the least populated regions in the world, where life is possible only in small oases near watercourses. The region holds immense lithium resources, the 'white gold' of the 21st century. Beyond its economic importance, the Puna offers a mystical experience, with endless horizons and exceptionally clear skies, ideal for astronomical observations.",
+      "factsAdvancedEn": [
+        "The average altitude exceeds 3,800 meters above sea level.",
+        "Hosts some of the highest active volcanoes on Earth.",
+        "Salinas Grandes is one of the largest salt deserts in the world.",
+        "The region holds over 60% of the world's known lithium reserves.",
+        "The temperature can vary from 20°C during the day to -20°C at night.",
+        "It is the natural habitat of high-altitude flamingos and vicuñas.",
+        "Includes the famous 'Cono de Arita', a perfect natural salt pyramid."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bodles-research-life-v2",
+      "descriptionAdvanced": "St. Catherine parókiában, Old Harbour közelében található a Bodles Mezőgazdasági Kutatóállomás, amely Jamaica állattenyésztési és növénytermesztési kutatásainak központja. Az intézmény világhírű eredményeket ért el az új szarvasmarha-fajták, például a hőségtűrő 'Jamaica Hope' nemesítésében, amely alapjaiban reformálta meg a karibi tejtermelést. A Bodles hatalmas legelőin és laboratóriumaiban zajló munka közvetlen hatással van az ország önellátó képességére és a vidéki lakosság jólétére. Az állomás nemcsak a kutatásról szól; fontos génmegőrző szerepet is betölt, védve Jamaica egyedülálló mezőgazdasági örökségét és támogatva a modern, versenyképes gazdálkodást.",
+      "factsAdvanced": [
+        "A Bodles állomást 1946-ban alapították a jamaicai mezőgazdaság modernizálására.",
+        "Itt nemesítették ki a 'Jamaica Hope' szarvasmarha-fajtát, amely a jersey, zebu és holstein-fríz keveréke.",
+        "Az intézmény a jamaicai Mezőgazdasági és Halászati Minisztérium legfontosabb kutatóbázisa.",
+        "Bodles híres a takarmánynövényekkel és a fenntartható legeltetéssel kapcsolatos kutatásairól is.",
+        "Itt található az ország legfontosabb génbankja a helyi haszonállatok és növények számára.",
+        "A kutatóállomás részt vesz a biológiai növényvédelem és az öntözéses gazdálkodás fejlesztésében.",
+        "A Bodles-ben végzett munka segítette Jamaicát a trópusi tejipar vezetőjévé válni a régióban.",
+        "Az intézmény szakemberei rendszeresen nyújtanak technikai segítséget a Karib-térség más országaiban is."
+      ]
+    },
+    {
+      "id": "clarendon-citrus-life-v2",
+      "descriptionAdvanced": "Clarendon parókiája Jamaica legfontosabb citrus-termesztő vidéke, ahol a napsütötte síkságok és a kiváló talajadottságok ideálisak a narancs, a grépfrút és a lime termesztéséhez. A területen található hatalmas citrusligetek nemcsak látványosak, hanem alapanyagul szolgálnak a híres jamaicai gyümölcslevek és koncentrátumok gyártásához. A citrusipar Clarendon gazdasági motorja, amely évezredes hagyományokra épül, miközben folyamatosan alkalmazkodik a modern piaci igényekhez. A látogatók itt megismerhetik a gyümölcsösök gondozását, az oltási technikákat és a betakarítás folyamatát, miközben átélhetik azt a frissességet és életerőt, amelyet a jamaicai citrusok világszerte képviselnek.",
+      "factsAdvanced": [
+        "Clarendon parókiában termesztik a jamaicai citrusok több mint 60 százalékát.",
+        "Itt található a Jamaica Citrus Growers Association központi feldolgozóüzeme Bog Walk közelében.",
+        "A régió leghíresebb citrusfajtája a 'Ugli fruit', amely egy helyi nemesítésű tangelo hibrid.",
+        "Az ültetvények nagy részét a fenntartható gazdálkodás jegyében modern öntözőrendszerekkel látták el.",
+        "A citrus virágzásakor, februárban és márciusban a levegőt bódító illat tölti meg a parókiában.",
+        "A gyümölcsökből nemcsak ivólé, hanem illóolaj és takarmány is készül a melléktermékekből.",
+        "Az iparág jelentős exportbevételt biztosít a CARICOM és az észak-amerikai piacokon.",
+        "A Clarendon-i citrusligetek a jamaicai agrár-tájkép elválaszthatatlan és gyönyörű részei."
+      ]
+    },
+    {
+      "id": "flagaman-melon-life-v2",
+      "descriptionAdvanced": "St. Elizabeth parókiájának déli, szárazabb vidékén található Flagaman környéke, amely Jamaica 'dinnyés-fővárosaként' ismert. A helyi gazdák mesterei a víztakarékos, mulcsozásos gazdálkodásnak, amellyel a kevés csapadék ellenére is a sziget legédesebb és legnagyobb görögdinnyeit termesztik. A Flagaman-i dinnye nemzeti márka lett Jamaicában, a betakarítás idején pedig a főutak mentén sorakozó árusok hirdetik a vidék mezőgazdasági kiválóságát. Ez a terület a jamaicai paraszti leleményesség és szívósság szimbóluma, ahol a zord természeti körülményekből fakasztanak édes bőséget, meghatározva a déli partvidék gasztronómiai és gazdasági arculatát.",
+      "factsAdvanced": [
+        "Flagaman gazdái úttörők voltak a szalmás mulcsozás alkalmazásában a nedvesség megőrzése érdekében.",
+        "A görögdinnye mellett a terület híres a kiváló minőségű sárgadinnyéről és sütőtökről is.",
+        "St. Elizabeth déli partja Jamaica egyik legkevesebb csapadékkal rendelkező vidéke.",
+        "A Flagaman-i dinnyék híresek rendkívül magas cukortartalmukról az erős napsütés miatt.",
+        "A betakarítási szezon csúcsa április és augusztus közé esik.",
+        "A helyi gazdálkodók szorosan együttműködnek a vízügyi hatóságokkal az öntözés optimalizálása érdekében.",
+        "A 'dinnyés út' mentén minden évben fesztiválokat és versenyeket rendeznek a legnagyobb termések tiszteletére.",
+        "Flagaman sikere alapvetően meghatározza Jamaica belső dinnyepiacának kínálatát."
+      ]
+    },
+    {
+      "id": "serge-island-dairy-life-v2",
+      "descriptionAdvanced": "A Serge Island tejgazdaság St. Thomas plébániában Jamaica legnagyobb és legfejlettebb tejipari üzeme, amely az ország friss tej- és tejtermék-ellátásának egyik legfontosabb bázisa. A hegyek és a tenger között fekvő hatalmas legelőkön kiváló minőségű szarvasmarha-állományt tartanak, amelyet modern fejési és feldolgozási technológiákkal kombinálnak. A Serge Island nemcsak tejet, hanem gyümölcsleveket és különféle italokat is gyárt, amelyek a jamaicai háztartások és iskolai étkeztetési programok alapvető cikkei. Az üzem nagy hangsúlyt fektet a minőségellenőrzésre és a helyi alapanyagok használatára, támogatva a régió kistermelőit is. Ez a gazdaság a bizonyíték arra, hogy Jamaica képes magas színvonalú, modern mezőgazdasági és élelmiszeripari termelést folytatni a fővárostól távolabb eső területeken is.",
+      "factsAdvanced": [
+        "A Serge Island Jamaica legnagyobb egybefüggő tejgazdasága.",
+        "Az üzem a sziget délkeleti részén, Seaforth közelében található.",
+        "Saját, speciálisan a jamaicai klímához nemesített állományuk van (Jamaica Hope fajta).",
+        "Híres a tejalapú italairól és a gyerekkor kedvencének számító dobozos kakaóiról.",
+        "A gyárban szigorú HACCP élelmiszerbiztonsági rendszert alkalmaznak.",
+        "A gazdaság több száz hektáron gazdálkodik, fenntartható legeltetési módszerekkel.",
+        "Jelentős szerepet játszanak a kormányzati iskolatej-programban.",
+        "Az üzem saját logisztikai hálózattal juttatja el termékeit az ország minden pontjára."
+      ]
+    },
+    {
+      "id": "swamp-safari-life-v2",
+      "descriptionAdvanced": "A Falmouth közelében található Swamp Safari egy izgalmas vadvédelmi park, amely Jamaica mocsaras területeinek és hüllőinek világába vezeti be a látogatókat. A park különösen híres a hatalmas amerikai krokodilokról, amelyeket biztonságos távolságból, szakértő vezetők kíséretében figyelhetnek meg az érdeklődők. A Swamp Safari történetéhez hozzátartozik, hogy itt forgatták a 'Live and Let Die' című James Bond-film híres krokodilos jelenetét, ahol a kaszkadőr az állatok hátán futott át. Ma a park a természetvédelemre és az oktatásra összpontosít, bemutatva a jamaicai mocsarak biodiverzitását, beleértve a ritka madarakat, kígyókat és a különleges 'tengeri teheneket' (manátuszokat) is.",
+      "factsAdvanced": [
+        "A park Jamaica egyik legnagyobb krokodil-rezervátuma és mentőközpontja.",
+        "Ross Kananga, a park alapítója volt a kaszkadőr a James Bond film krokodilos jelenetében.",
+        "Itt láthatóak Jamaica egyetlen fogságban tartott és mentett manátuszai.",
+        "A mocsári túra során a látogatók megismerhetik a vörös mangrove erdők ökológiai szerepét.",
+        "A parkban számos egzotikus és őshonos madárfaj, például flamingók is láthatók.",
+        "A Swamp Safari fontos szerepet játszik a helyi hüllőpopuláció kutatásában és védelmében.",
+        "Az interaktív bemutatók során a látogatók közelebbről is megismerhetik a sárga boákat.",
+        "A terület a Falmouth környéki vizes élőhelyek védett zónájához tartozik."
+      ]
+    },
+    {
+      "id": "ras-natango-garden-life-v2",
+      "descriptionAdvanced": "A Montego Bay feletti hegyekben található Ras Natango Garden egy varázslatos botanikus kert és művészeti galéria, amely a természet és a kreativitás harmóniáját hirdeti. A kertet Ian Williams (művésznevén Ras Natango) és családja hozta létre egy meredek, sziklás domboldalon, mára pedig Jamaica egyik legszebb magánkertjévé vált, ahol egzotikus virágok, orchideák és trópusi növények százai virulnak. A helyszín különlegessége a kolibrik közelsége; a látogatók kézből etethetek ezeket a parányi madarakat, köztük Jamaica nemzeti madarát, a Doctor Bird-öt is. A Ras Natango Garden nemcsak esztétikai élményt, hanem mély spirituális feltöltődést is kínál, bepillantást engedve a tulajdonosok természet iránti szenvedélyébe és művészi látásmódjába.",
+      "factsAdvanced": [
+        "A kert több mint 600 méterrel a tengerszint felett fekszik, pazar kilátást nyújtva Montego Bay-re.",
+        "Itt található Jamaica egyik legjobb kolibri-megfigyelő helyszíne.",
+        "A kert minden egyes teraszát és kőfalát kézzel építették ki a tulajdonosok.",
+        "A galériában Ras Natango és fia, Ayale festményei tekinthetők meg és vásárolhatók meg.",
+        "A botanikai gyűjteményben számos endemikus jamaicai növényfaj található.",
+        "A kertet a National Geographic és több nemzetközi természetvédelmi magazin is méltatta.",
+        "Rendszeresen tartanak művészeti workshopokat és környezeti nevelési programokat gyerekeknek.",
+        "A Ras Natango Garden a fenntartható turizmus és a családi vállalkozás sikeres példája Jamaicában."
+      ]
+    },
+    {
+      "id": "barneys-hummingbird-life-v2",
+      "descriptionAdvanced": "A Negril West End negyedében található Barney's Hummingbird Garden egy kicsiny, de annál elragadóbb trópusi paradicsom, amely kifejezetten a kolibrik megfigyelésére és védelmére szakosodott. A sűrűn beültetett, virágzó kertben a látogatók egyedülálló élményben részesülhetnek: cukros vízzel telt kisméretű etetőkből közvetlenül a kezükben tarthatják és etethetik ezeket a szivárványszínű, apró madarakat. Barney és csapata mély ismeretekkel rendelkezik a helyi madárvilágról, és szívesen osztják meg tudásukat a különböző kolibrifajok szokásairól és Jamaica ökológiai kincseiről. A kert békéje és a madarak szárnyainak surrogása felejthetetlen élményt nyújt a természetkedvelőknek a népszerű üdülőváros szélén.",
+      "factsAdvanced": [
+        "A kertben rendszeresen látható Jamaica nemzeti madara, a Red-billed Streamertail (Doctor Bird).",
+        "A látogatók kis kézi etetők segítségével csalogathatják magukhoz a madarakat.",
+        "A kertben több mint 20 féle trópusi virág és cserje biztosít természetes nektárt a kolibriknek.",
+        "Ez Negril egyik legnépszerűbb és legmagasabbra értékelt ökoturisztikai látványossága.",
+        "A kert látogatása limitált létszámú csoportokban történik a madarak nyugalma érdekében.",
+        "Barney, a tulajdonos több évtizede gondozza a kertet és a madárpopulációt.",
+        "A kolibrik mellett számos egzotikus pillangó és gyíkfaj is megfigyelhető a sűrű növényzetben.",
+        "A helyszín fontos oktatási pont a karibi madárvédelem és a biodiverzitás népszerűsítésében."
+      ]
+    },
+    {
+      "id": "rocklands-bird-life-v2",
+      "descriptionAdvanced": "A Montego Bay közelében, Anchovy faluban található Rocklands Bird Sanctuary Jamaica egyik legrégebbi és legtekintélyesebb madárrezervátuma. A rezervátumot Lisa Salmon, a sziget híres madárvédője alapította az 1950-es években, aki elsőként érte el, hogy a vadon élő kolibrik és más madarak az ember kezéből fogadják el az élelmet. A rezervátum egy csendes dombtetőn fekszik, távol a város zajától, és a mai napig megőrizte családias, természetközeli hangulatát. A látogatók itt nemcsak Jamaica nemzeti madarát, a Doctor Bird-öt etethetik, hanem számos más endemikus és vándorló fajt is megfigyelhetnek az árnyas teraszon pihenve, miközben szakavatott vezetők mesélnek a sziget gazdag ornitológiai örökségéről.",
+      "factsAdvanced": [
+        "A rezervátumot 1952-ben nyitották meg a nagyközönség előtt.",
+        "Lisa Salmon, a 'Madárhölgy' munkássága nemzetközileg elismert a madárvédelem területén.",
+        "A rezervátum területén több mint 20 különböző jamaicai madárfaj fészkel vagy látogat el rendszeresen.",
+        "Itt látható a ritka jamaicai feketerigó és a narancssárga mellű oriola is.",
+        "A kolibrik etetése cukros vízzel telt kis üvegcsékből történik.",
+        "A helyszín fontos állomása a nemzetközi madármegfigyelő túráknak a Karib-térségben.",
+        "A rezervátumot ma is a Salmon család és elkötelezett önkéntesek kezelik.",
+        "Rocklands híres a csendes és tiszteletteljes légköréről, amely védi az állatok nyugalmát."
+      ]
+    },
+    {
+      "id": "royal-palm-reserve-life-v2",
+      "descriptionAdvanced": "A Negril melletti Great Morass mocsárvidék szívében található Royal Palm Reserve Jamaica egyik legfontosabb vizes élőhelyi rezervátuma. A terület névadója a fenséges jamaicai királypálma (Roystonea princeps), amely itt alkotja a sziget egyik utolsó nagy, összefüggő erdőségét. A rezervátumban kiépített fapallós sétautak vezetik be a látogatókat a mocsári ökoszisztéma rejtelmeibe, ahol ritka madarak, hüllők és különleges trópusi növények figyelhetők meg természetes közegükben. A Royal Palm Reserve nemcsak a kirándulók számára vonzó, hanem fontos kutatóhely is, amely kulcsszerepet játszik Jamaica nyugati partvidékének ökológiai egyensúlyában és a biológiai sokféleség megőrzésében.",
+      "factsAdvanced": [
+        "A rezervátum több mint 300 hektáron fekszik Negril közvetlen szomszédságában.",
+        "Itt található Jamaica legnagyobb őshonos királypálma-állománya.",
+        "A területen több mint 100 különböző madárfaj, köztük ritka gémek és vízimadarak élnek.",
+        "A mocsári ökoszisztéma természetes szűrőként funkcionál a Negril-i korallzátonyok védelmében.",
+        "A rezervátum központi részén egy kilátótorony és egy kis természetvédelmi múzeum is található.",
+        "A fapallós sétautak lehetővé teszik a mocsár biztonságos felfedezését száraz lábbal.",
+        "A terület a Negril Environmental Protection Area (NEPA) kiemelt zónája.",
+        "Rendszeresen szerveznek ide éjszakai túrákat a mocsári állatvilág megfigyelésére."
+      ]
+    },
+    {
+      "id": "goat-islands-iguana-life-v2",
+      "descriptionAdvanced": "A Jamaica déli partján, az Old Harbour-öbölben található Goat Islands (Kecske-szigetek) a természetvédelem egyik legfontosabb sikertörténetének helyszíne. A szigetek adnak otthont a kritikusan veszélyeztetett jamaicai iguanának (Cyclura collei), amelyet egykor kihaltnak hittek, de a közeli Hellshire-hegyekben újra felfedezték. A Goat Islands ideális, ragadozóktól mentes élőhelyet biztosítanak ezen ősi hüllők számára, ahol a visszatelepítési programnak köszönhetően a populáció fokozatosan regenerálódik. A szigetek és a környező mangrove-erdők szigorú védelem alatt állnak, szimbolizálva Jamaica elkötelezettségét endemikus fajainak megmentése és a természetes élőhelyek helyreállítása mellett.",
+      "factsAdvanced": [
+        "A jamaicai iguana a világ egyik legveszélyeztetettebb hüllőfaja.",
+        "A szigetek visszanyerték eredeti ökológiai állapotukat a behurcolt ragadozók (pl. mongúzok) kiirtása után.",
+        "A Goat Islands a Portland Bight Protected Area (PBPA) szerves részét képezik.",
+        "A szigeteken folyó munkát a Hope Zoo és nemzetközi iguana-védelmi alapítványok támogatják.",
+        "A terület fontos fészkelőhelye számos tengeri madárnak és tengeri teknősnek is.",
+        "A szigetek látogatása szigorúan korlátozott és csak kutatási célból engedélyezett.",
+        "A projekt segített megakadályozni egy nagyszabású ipari kikötő építését a területen.",
+        "Az iguana-populáció növekedése a biológiai diverzitás megőrzésének globális példája."
+      ]
+    },
+    {
+      "id": "galleon-harbour-manatee-life-v2",
+      "descriptionAdvanced": "A St. Catherine és Clarendon parókiák határán fekvő Galleon Harbour egy védett tengeri terület, amely Jamaica egyik utolsó menedéke a veszélyeztetett nyugat-indiai manátuszok (tengeri tehenek) számára. Az öböl sekély, füves vizei és a sűrű mangrove-erdők tökéletes táplálkozó- és pihenőhelyet biztosítanak ezeknek a békés óriásoknak. A területen aktív közösségi alapú természetvédelem zajlik, ahol a helyi halászok és szakemberek együttműködnek a manátuszok megfigyelésében és védelmében az illegális vadászat és a hajóforgalom ellen. Galleon Harbour nemcsak a manátuszok miatt fontos; gazdag halállománya és érintetlen korallzátonyai Jamaica déli partjának egyik legértékesebb tengeri ökoszisztémáját alkotják.",
+      "factsAdvanced": [
+        "A Galleon Harbour a Portland Bight Protected Area része, Jamaica legnagyobb védelt területén belül.",
+        "A manátuszok (Trichechus manatus) a tengeri fűvel táplálkoznak, amit itt bőségesen megtalálnak.",
+        "A területen tilos a motoros vízi sportok űzése a manátuszok nyugalma érdekében.",
+        "A mangrove-erdők fontos bölcsőhelyei számos tengeri halfajnak.",
+        "Helyi természetvédelmi csoportok (mint a C-CAM) oktatóközpontot tartanak fenn a közelben.",
+        "A Galleon Harbour fontos fészkelőhelye a veszélyeztetett tengeri teknősöknek is.",
+        "A manátuszok jelenléte a víz tisztaságának és az ökoszisztéma egészségének jelzője.",
+        "A terület látogatása vezetett ökotúrák keretében lehetséges, minimalizálva a környezeti hatást."
+      ]
+    },
+    {
+      "id": "bogue-islands-bird-life-v2",
+      "descriptionAdvanced": "A Montego Bay közvetlen szomszédságában található Bogue-szigetek (Bogue Islands) egy kis, mangrove-szigetekből álló láncolat, amely Jamaica északi partjának egyik legfontosabb madárrezervátuma. A szigetek szövevényes vízi útjai és dús növényzete biztonságos fészkelőhelyet nyújtanak számos vízimadárnak, köztük gémeknek, kócsagoknak és pelikánoknak. A terület különlegessége a 'Bird Island', ahol alkonyatkor madarak ezrei gyűlnek össze az éjszakai pihenőre, lenyűgöző látványt és hangélményt nyújtva a közelben hajózóknak. A Bogue-szigetek ökoszisztémája létfontosságú a Montego Bay-i öböl víztisztaságának megőrzésében és a part menti viharok elleni védelemben.",
+      "factsAdvanced": [
+        "A szigetek elsősorban vörös és fekete mangrove erdőkből állnak.",
+        "A területen több mint 50 fészkelő és vándorló madárfajt regisztráltak.",
+        "A Bogue-szigetek fontos ívóhelyei a Montego Bay környéki halállománynak.",
+        "A szigetek közötti csatornák népszerűek a kajakosok és a csendes motoros csónaktúrák körében.",
+        "A Bird Island-en a barna pelikánok egyik legnagyobb jamaicai kolóniája él.",
+        "A terület a Montego Bay Marine Park védelme alá tartozik.",
+        "A mangrove gyökerek között különleges tengeri élőlények, például osztrigák és rákok figyelhetők meg.",
+        "A szigetek természetes gátat alkotnak, védve a várost a tengeri eróziótól."
+      ]
+    },
+    {
+      "id": "middle-cay-bird-life-v2",
+      "descriptionAdvanced": "A Jamaica déli partjaitól messze fekvő Pedro Bank zátonyai között található Middle Cay egy apró, homokos korall-sziget, amely a nyílt tengeri madarak egyik legfontosabb fészkelőhelye a Karib-térségben. Ez az elszigetelt pont az olyan fajok birodalma, mint az álarcos szula és a barna noddi, amelyek ezrével rakják itt fészkeiket a ragadozóktól mentes környezetben. Middle Cay nemcsak ornitológiai szempontból jelentős; a környező korallzátonyok és a mélykék vizek gazdag tengeri élővilágnak ad otthont, és fontos halászati bázisként szolgálnak a jamaicai halászok számára. A sziget szigorú természetvédelmi kezelés alatt áll, hogy megőrizzék ezt az érzékeny és egyedülálló ökoszisztémát a nyílt tenger közepén.",
+      "factsAdvanced": [
+        "Middle Cay a Pedro Cays szigetcsoport tagja, mintegy 80 km-re a jamaicai partoktól.",
+        "Itt található Jamaica egyik legnagyobb Masked Booby (álarcos szula) kolóniája.",
+        "A sziget fontos megállóhely a vándorló madarak számára az Atlanti-óceán felett.",
+        "A környező vizek híresek a Queen Conch (szárnyas csiga) állományukról.",
+        "A területen folyamatos tudományos monitorozás zajlik a tengerszint-emelkedés hatásai miatt.",
+        "A szigeten csak ideiglenes halászkunyhók találhatók, állandó lakossága nincs.",
+        "A Pedro Bank Jamaica legfontosabb kereskedelmi halászati területeinek egyike.",
+        "Middle Cay 2004-ben nemzetközi jelentőségű madárvédelmi területté (IBA) lett nyilvánítva."
+      ]
+    },
+    {
+      "id": "morant-cays-turtle-life-v2",
+      "descriptionAdvanced": "A Jamaica keleti partjaitól délkeletre fekvő Morant Cays szigetcsoport a tengeri teknősök, különösen a veszélyeztetett cserepesteknősök egyik legfontosabb fészkelőhelye a régióban. Ezek az apró, elszigetelt korall-szigetek ideális feltételeket biztosítanak a teknősöknek a tojásrakáshoz, távol a szárazföldi ragadozóktól és az emberi zavarástól. A Morant Cays emellett hatalmas tengeri madárkolóniák otthona is, ahol a madarak évezredek óta zavartalanul fészkelnek. A terület kiemelt tengeri rezervátum, ahol a kutatók és a természetvédők szoros felügyelet alatt tartják a teknősfészkeket, biztosítva a következő generációk túlélését és Jamaica tengeri biodiverzitásának megőrzését ezen a távoli, vadregényes helyszínen.",
+      "factsAdvanced": [
+        "A Morant Cays négy kis korall-szigetből áll, mintegy 50 km-re Jamaica délkeleti csücskétől.",
+        "A szigetek a Hawksbill (cserepesteknős) és a Green Turtle (leves-teknős) fontos szaporodóhelyei.",
+        "Minden évben május és október között teknősök százai érkeznek a homokos partokra.",
+        "A Morant Cays a barna noddi és a kormos csér egyik legnépesebb karibi kolóniájának ad otthont.",
+        "A szigetek gazdag guano-lerakódásokkal rendelkezik, ami különleges növényzetet eredményez.",
+        "A terület szigorúan védett, a látogatás csak speciális engedéllyel lehetséges.",
+        "A környező zátonyok Jamaica legérintetlenebb korall-ökoszisztémái közé tartoznak.",
+        "A szigeteken állandó meteorológiai és természetvédelmi állomás működik."
+      ]
+    },
+    {
+      "id": "font-hill-dairy-life-v2",
+      "descriptionAdvanced": "St. Elizabeth parókiában, a déli part mentén fekvő Font Hill Jamaica egyik legjelentősebb mezőgazdasági és természetvédelmi területe, ahol a modern állattenyésztés és a vadvédelem kéz a kézben jár. A Font Hill Dairy híres a 'Jamaica Black' és a 'Jamaica Hope' szarvasmarha-fajtáiról, amelyeket a terület dús, tengerparti legelőin tenyésztenek. A birtok mellett közvetlenül található a Font Hill Beach és Természetvédelmi Terület, amely fontos vizes élőhelyeket és fészkelőhelyeket foglal magában. Ez a kettősség teszi a Font Hill-t Jamaica egyik legérdekesebb vidéki tájává, ahol a gazdasági tevékenység és az ökológiai felelősségvállalás harmonikus egységben jelenik meg a Karib-tenger partján.",
+      "factsAdvanced": [
+        "A Font Hill egykor hatalmas cukorültetvény volt, ma a tejtermelés és állattenyésztés mintagazdasága.",
+        "A területen található Jamaica egyik legnagyobb mocsári és mangrove erdő rezervátuma.",
+        "Híres a ritka vízimadarak, köztük a jamaicai gémfélék állományáról.",
+        "A gazdaságban alkalmazott modern tenyésztési technológiák mintául szolgálnak a karibi térség számára.",
+        "A Font Hill Beach népszerű a tengeri teknősök tojásrakása idején is.",
+        "A birtok területén egy 18. századi udvarház romjai is emlékeztetnek a múltra.",
+        "A terület a Petroleum Corporation of Jamaica (PCJ) tulajdonában és védelme alatt áll.",
+        "Rendszeresen tartanak mezőgazdasági és természetvédelmi szimpóziumokat a birtokon."
+      ]
+    },
+    {
+      "id": "seven-rivers-citrus-life-v2",
+      "descriptionAdvanced": "A St. James parókiában fekvő Seven Rivers környéke Jamaica egyik legtermékenyebb hegyvidéki citrus-termesztő vidéke, ahol a névadó hét patak biztosítja a folyamatos öntözést és a talaj gazdagságát. A meredek domboldalakon és a völgyekben sorakozó narancs- és grépfrútligetek lenyűgöző látványt nyújtanak, a virágzás idején pedig az egész környéket betölti a citrusok bódító illata. A Seven Rivers-i gyümölcsök híresek lédússágukról és édességükről, amit a hűvösebb hegyi klíma és a bőséges csapadék garantál. Az itt zajló gazdálkodás a jamaicai kisgazdák szívósságát és szakértelmét dicséri, akik generációk óta őrzik a minőségi gyümölcstermesztés hagyományait.",
+      "factsAdvanced": [
+        "Seven Rivers híres a kristálytiszta forrásairól, amelyek a mészkőhegyekből fakadnak.",
+        "A citrusfélék mellett kávét és kakaót is termesztenek a területen a dús árnyékos kertekben.",
+        "A régió fontos beszállítója a jamaicai gyümölcslé-gyáraknak és a helyi piacoknak.",
+        "A hegyi terep miatt a betakarítás nagy része ma is kézi munkával történik.",
+        "A Seven Rivers-i gazdák úttörők a biológiai növényvédelem alkalmazásában.",
+        "A terület a Great River vízgyűjtő területéhez tartozik, kiemelt környezeti fontossággal.",
+        "A völgyben több kisebb, látványos vízesés is található a patakok mentén.",
+        "A Seven Rivers-i citrusok fontos szerepet játszanak a karibi export-piacokon."
+      ]
+    },
+    {
+      "id": "kendal-yam-farms-life-v2",
+      "descriptionAdvanced": "Manchester parókiájában, a hűvös és esős Kendal környékén találhatók Jamaica legtermékenyebb yam-gyökér gazdaságai. Ez a vidék az ország 'kosara', ahol a sötét, tápanyagban gazdag vörös földben a legjobb minőségű sárga és fehér yams terem, amely a jamaicai étrend alapvető eleme. A Kendal-i gazdák különleges, karós termesztési technikája a domboldalakon jellegzetes tájképet hoz létre. A yam-termesztés itt nemcsak munka, hanem életforma és kulturális örökség, amit minden évben a híres Kendal-i mezőgazdasági fesztivállal ünnepelnek meg, bemutatva a vidék terményeinek sokszínűségét és a gazdák kiemelkedő teljesítményét.",
+      "factsAdvanced": [
+        "Manchester parókia adja Jamaica yam-termelésének jelentős részét.",
+        "A sárga yam (Yellow Yam) Jamaica egyik legfontosabb exportált mezőgazdasági cikke.",
+        "A Kendal-i gazdák generációk óta fejlesztik a magasabb hozamú fajtákat.",
+        "A yam-gyökér a legfontosabb komplex szénhidrátforrás a jamaicai atléták étrendjében.",
+        "A terület híres a vörös mészkőtalajáról (Terra Rossa), amely ideális a gyökérzöldségeknek.",
+        "Kendalban minden évben megrendezik a Manchester Parish Show-t, a sziget egyik legnagyobb agrárkiállítását.",
+        "A gazdák szövetkezetbe tömörülve biztosítják a termékek piacra jutását.",
+        "A yam-termesztés mellett a vidék híres a pimento (jamaicai bors) termeléséről is."
+      ]
+    },
+    {
+      "id": "devon-potato-farms-life-v2",
+      "descriptionAdvanced": "A Manchester parókiában fekvő Devon környéke Jamaica 'burgonya-fővárosa', ahol a hűvös, hegyvidéki klíma és a mélyrétegű talaj tökéletes feltételeket biztosít az ízletes gumók termesztéséhez. A Devon-i gazdaságok látják el a sziget piacait friss burgonyával, az itt alkalmazott technológiák pedig mintául szolgálnak a karibi zöldségtermesztés számára. A tájképet a szépen gondozott, teraszos földek uralják, ahol a vetésforgó és a fenntartható gazdálkodás alapvető gyakorlat. A Devon-i burgonya nemzeti márka lett, az itteni gazdák pedig büszkék arra, hogy a sziget élelmiszer-önellátásának egyik legfontosabb bázisát alkotják a Manchester-i felföld szívében.",
+      "factsAdvanced": [
+        "Devon és környéke Jamaica legmagasabb pontjain fekvő mezőgazdasági régiói közé tartozik.",
+        "Az itt termelt ír burgonya (Irish Potato) híres tartósságáról és ízéről.",
+        "A parókiában kísérleti állomás segíti a gazdákat az új, vírusmentes vetőgumók előállításában.",
+        "A Devon-i gazdák úttörők az esővíz-gyűjtés és a csepegtető öntözés alkalmazásában.",
+        "A betakarítási időszakban a vidék Kingston és Montego Bay fő beszállítójává válik.",
+        "A területen sikeresen termesztik a káposztát és a sárgarépát is a burgonya mellett.",
+        "A Devon-i burgonya-fesztivál a vidék legfontosabb közösségi eseménye.",
+        "A gazdálkodás ezen a területen családi hagyomány, amely apáról fiúra száll."
+      ]
+    },
+    {
+      "id": "billys-bay-turtle-life-v2",
+      "descriptionAdvanced": "St. Elizabeth parókiájának déli partján, Billy's Bay békés öblében található Jamaica egyik legfontosabb teknősvédelmi helyszíne. A helyi közösség és a természetvédők szoros együttműködésében működő projekt célja a veszélyeztetett cserepesteknősök (Hawksbill turtle) védelme a tojásrakás és a kikelés idején. A strand érintetlensége és a fényszennyezés hiánya ideális fészkelőhelyet biztosít a teknősöknek. A látogatók a főszezonban, szakértő kíséretében részt vehetnek az éjszakai megfigyeléseken, és tanúi lehetnek annak a csodának, ahogy a parányi teknősök elindulnak a végtelen tenger felé. Billy's Bay a fenntartható közösségi turizmus és az ökológiai felelősségvállalás kiemelkedő példája Jamaicában.",
+      "factsAdvanced": [
+        "Billy's Bay a Treasure Beach régió része, amely híres a környezettudatos turizmusáról.",
+        "A 'Galleon Beach Sanctuary' és a helyi halászok őrzik a teknősfészkeket a ragadozók ellen.",
+        "Minden évben több ezer teknősfióka kel ki ezen a partszakaszon.",
+        "A teknősvédelmi szezon júniustól decemberig tart a déli parton.",
+        "A program keretében oktató táblák és helyi vezetők segítik a látogatók tájékoztatását.",
+        "A fészkeket jelölő karókkal látják el, és rendszeresen ellenőrzik a fejlődésüket.",
+        "Billy's Bay korallzátonyai fontos táplálkozóhelyei a felnőtt teknősöknek.",
+        "A projekt sikere hozzájárult a helyi tengeri biodiverzitás látványos növekedéséhez."
+      ]
+    },
+    {
+      "id": "great-river-bay-nature-v2",
+      "descriptionAdvanced": "A Great River-öböl St. James és Hanover plébániák határán Jamaica egyik legérintetlenebb és természeti értékekben leggazdagabb tengerparti területe. Itt torkollik a tengerbe a Great River folyó, édes és sós víz különleges találkozási pontját hozva létre, amely ideális élőhelyet biztosít számos hal- és madárfajnak. Az öböl környéke híres buja mangroveerdőiről, amelyek természetes gátként védik a partvonalat az eróziótól és viharoktól. A látogatók számára a Great River-öböl a nyugalom szigete, ahol lehetőség nyílik kajakozásra, madármegfigyelésre vagy egyszerűen a kristálytiszta víz élvezetére. Ez a helyszín a bizonyíték Jamaica északi partjának rejtett szépségeire, ahol a természet ereje és a folyó torkolatának misztikus hangulata elvarázsol minden utazót.",
+      "factsAdvanced": [
+        "Az öböl közvetlenül a Great River folyó torkolatánál, Montego Bay-től nyugatra fekszik.",
+        "A terület a Great River tengeri védett övezet része.",
+        "Híres a torkolatnál megfigyelhető gazdag madárvilágáról, köztük kócsagokról és pelikánokról.",
+        "A folyóvíz hordaléka miatt az öböl tengerfeneke rendkívül tápanyagdús.",
+        "Kedvelt helyszíne a folyami rafting túrák befejező pontjának.",
+        "A környék mangroveerdői kritikus szerepet játszanak a sziget ökoszisztémájában.",
+        "Az öböl vizeiben gyakran látni delfineket és tengeri teknősöket.",
+        "A helyszín csendes alternatívát nyújt a forgalmas montego bay-i strandok mellett."
+      ]
+    },
+    {
+      "id": "montegobay-marinepark-nature-v2",
+      "descriptionAdvanced": "A Montego Bay Tengeri Park Jamaica első és egyik legfontosabb tengeri természetvédelmi területe, amely a várost övező korallzátonyokat, tengerifű-mezőket és mangroveerdőket óvja. Az 1991-ben alapított park küldetése a biológiai sokféleség megőrzése és a fenntartható turizmus elősegítése egy olyan környezetben, amelyet a városi fejlődés erősen igénybe vesz. A park területén a látogatók szigorúan szabályozott keretek között ismerkedhetnek meg a tengeri élővilággal: a sznorkelezés és a búvárkodás során színpompás korallok, trópusi halak és tengeri teknősök tárulnak a szemük elé. A park oktatási programjai és tudományos kutatásai alapvető fontosságúak a jamaicai zátonyok jövője szempontjából, tanítva a helyi közösségeket és a turistákat a tengeri ökoszisztéma sérülékenységére és tiszteletére.",
+      "factsAdvanced": [
+        "A parkot 1991-ben hozták létre, több mint 15 négyzetkilométernyi tengeri területet fed le.",
+        "A területén tilos a kereskedelmi halászat és a korallok gyűjtése.",
+        "Híres a 'Doctor's Cave' zátonyról és más látványos merülőhelyeiről.",
+        "A park nonprofit szervezetként működik, szoros együttműködésben a helyi hatóságokkal.",
+        "A mangrove-mocsarakban számos veszélyeztetett madárfaj fészkel.",
+        "Rendszeresen szerveznek parttakarítási és zátony-rehabilitációs programokat.",
+        "A látogatók számára interaktív információs központ érhető el a kikötőben.",
+        "A park léte elengedhetetlen Montego Bay strandjainak és tiszta vizének megőrzéséhez."
+      ]
+    },
+    {
+      "id": "discovery-bay-marine-nature-v2",
+      "descriptionAdvanced": "A Discovery Bay tengeri rezervátum St. Ann plébániában egy nemzetközileg elismert tengerbiológiai kutatóhely és természetvédelmi zóna, amely egyedülálló ökoszisztémájáról híres. Az öböl mélyvízi és sekély tengeri élőhelyei között számos ritka korallfaj és tengeri élőlény található, amelyeket évtizedek óta tanulmányoznak a Nyugat-indiai Egyetem (UWI) kutatói. A rezervátum célja a halállomány megőrzése és a zátonyok egészségének helyreállítása, ami kulcsfontosságú a helyi halászati közösségek és a turizmus számára. A Discovery Bay kristálytiszta vize és a tengerfenék változatos domborzata ideális terep a tudományos megfigyelésekhez és a felelős vízi sportokhoz, emlékeztetve minket a Karib-tenger rejtett biológiai kincseire és azok védelmének fontosságára.",
+      "factsAdvanced": [
+        "Itt található az UWI Discovery Bay Tengerbiológiai Laboratóriuma (DBML).",
+        "Az öböl karsztos forrásai friss édesvizet juttatnak a tengerbe, egyedi sószintet teremtve.",
+        "A terület úttörő a koralltelepítési és zátony-rehabilitációs technológiákban.",
+        "A rezervátum területén szigorúan korlátozzák a motoros vízi járművek forgalmát.",
+        "Híres a nagy méretű tengeri szivacsokról és a különleges lágykorallokról.",
+        "Az öböl védett fekvése miatt ideális kikötőhely volt már a spanyol időkben is.",
+        "A kutatók itt figyelték meg először a klímaváltozás hatását a karibi korallfehéredésre.",
+        "A rezervátum fontos oktatóközpont a világ minden tájáról érkező tengerbiológus hallgatók számára."
+      ]
+    },
+    {
+      "id": "ocho-rios-marine-nature-v2",
+      "descriptionAdvanced": "Az Ocho Rios tengeri park Jamaica északi partjának egyik legnépszerűbb és leglátványosabb védett vizi területe, amely a híres Dunn's River Falls torkolatától egészen a város keleti határáig terjed. A park célja a korallzátonyok és a hozzájuk kapcsolódó tengeri fauna megóvása a tömegturizmus hatásaitól, miközben lehetőséget biztosít a fenntartható kikapcsolódásra. Az öböl vizeiben úszva a látogatók találkozhatnak tengeri csillagokkal, rájákkal és színes korallsügérekkel a gondozott víz alatti ösvényeken. A park mangrove-szegélyei fontos bölcsődéi a fiatal halaknak, biztosítva a tengeri ökoszisztéma folytonosságát. Ocho Rios tengeri rezervátuma a tökéletes példája annak, hogyan férhet meg egymás mellett a lüktető idegenforgalom és a tudatos természetvédelem egy trópusi paradicsomban.",
+      "factsAdvanced": [
+        "A védett terület magában foglalja a híres Devil's Reef merülőhelyet is.",
+        "A parkban tilos a szigonypuskás halászat és az élővilág bármilyen jellegű zavarása.",
+        "Az Ocho Rios-i zátonyok híresek a hatalmas tengeri legyezőkorallokról.",
+        "A tengeri park közvetlen kapcsolatban áll a közeli botanikus kertekkel a vízgyűjtő területen keresztül.",
+        "A part mentén több üvegfenekű hajó is közlekedik a zátonyok bemutatására.",
+        "Rendszeresen végeznek tudományos felméréseket a tengeri fűmezők állapotáról.",
+        "A park önkéntesei aktívan részt vesznek a tengerparti szemétgyűjtési akciókban.",
+        "Az Ocho Rios Marine Park fontos szerepet játszik a város partvédelmi stratégiájában."
+      ]
+    },
+    {
+      "id": "port-antonio-marine-nature-v2",
+      "descriptionAdvanced": "A Port Antonio tengeri védett terület Jamaica legvadregényesebb és legmélyebb vizű partvidékét öleli fel Portland plébániában. Ez a régió híres meredek víz alatti sziklafalairól, kék lyukairól és a smaragdzöld tengerpartról, amely az ország legcsapadékosabb területeként dús növényzetet és tiszta folyóvizeket kínál. A rezervátum védi a Blue Lagoon misztikus vizeit és az öböl menti korallpadokat, ahol az élővilág a tenger mélysége miatt különleges fajokat is rejt. Port Antonio tengeri világa sokkal kevésbé zsúfolt, mint az északi part más részei, így itt a természet nyers és érintetlen szépsége dominál. A védett övezet kulcsfontosságú Portland ökoturisztikai vonzerejének fenntartásához és a különleges tengeri biodiverzitás hosszú távú megőrzéséhez.",
+      "factsAdvanced": [
+        "A terület magában foglalja a világhírű Blue Lagoon-t és az Alligator Head zátonyt.",
+        "Portland vizei Jamaica legmélyebb tengerparti szakaszai közé tartoznak.",
+        "A rezervátum híres a ritka fekete korallokról, amelyek a mélyebb részeken élnek.",
+        "A területen tilos a korallzátonyok károsítása és a védett halfajok halászata.",
+        "A part menti sziklákban számos tengeri barlang található, amelyek fontos fészkelőhelyek.",
+        "A víz alatti látótávolság itt gyakran meghaladja a 30 métert a tiszta forrásvizek miatt.",
+        "A rezervátumot helyi civil szervezetek és a nemzeti környezetvédelmi hatóság közösen felügyeli.",
+        "A Port Antonio-i tengeri világ a búvárfotósok és a kalandvágyó búvárok kedvenc helyszíne."
+      ]
+    },
+    {
+      "id": "port-royal-marine-nature-v2",
+      "descriptionAdvanced": "A Port Royal tengeri védett terület Kingston kikötőjének bejáratánál Jamaica egyik legérdekesebb ökoszisztémája, ahol a történelem a víz alatt folytatódik. A védett zóna nemcsak a korallzátonyokat és a Palisadoes-félsziget kiterjedt mangrovéit óvja, hanem az 1692-es földrengés során víz alá süllyedt várost is, amely ma egyedülálló mesterséges zátonyként szolgál a tengeri élővilág számára. A Port Royal Cays (apró korallszigetek) kristálytiszta vizei és homokpadjai ideális fészkelőhelyei a tengeri teknősöknek és pihenőhelyei a vándormadaraknak. Ez a terület Jamaica tengerészeti és természeti múltjának élő archívuma, ahol a régészeti leletek és a biológiai sokféleség szoros szimbiózisban létezik a főváros közvetlen szomszédságában.",
+      "factsAdvanced": [
+        "A terület a Palisadoes-Port Royal Védett Övezet része, amely Ramsari terület is.",
+        "Magában foglalja a víz alatti romvárost, amely UNESCO világörökségi várományos.",
+        "A Port Royal Cays (pl. Lime Cay, Maiden Cay) kedvelt hétvégi célpontjai a kingstoniaknak.",
+        "A területen található mangrovék Jamaica egyik legfontosabb partvédelmi zónáját alkotják.",
+        "A zátonyok körül gyakran látni tengeri teheneket (manatee) és ritka cápafajokat is.",
+        "A vízalatti régészeti leletek védelme érdekében a búvárkodás bizonyos részeken engedélyköteles.",
+        "A környék vizei fontosak a helyi kisüzemi halászat fenntartható kezelése szempontjából.",
+        "A Port Royal-i tengeri rezervátum alapvető a kingstoni kikötő vízminőségének javításához."
+      ]
+    }
+  ]
+}

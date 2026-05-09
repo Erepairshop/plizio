@@ -1,0 +1,24 @@
+{
+  "lang": "ro",
+  "country": "Algeria",
+  "files": [
+    "lib/visualLab/data/poiExtraAlgeriaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tindouf-agriculture-life-v2",
+      "description": "Tindouf este situat în sud-vestul Algeriei, într-o zonă deșertică ce dezvoltă mici inițiative agricole locale.",
+      "facts": ["Sud-vest", "Zona deșertică", "Agricultură locală"]
+    },
+    {
+      "id": "bejaia-botanical-garden-life-v2",
+      "description": "Grădina Botanică din Bejaia oferă un spațiu de conservare pentru flora mediteraneană și locală.",
+      "facts": ["Grădină botanică", "Flora mediteraneană", "Bejaia"]
+    },
+    {
+      "id": "batna-amusement-park-life-v2",
+      "description": "Parcul de distracții din Batna este un spațiu recreativ popular pentru familii în inima regiunii Aures.",
+      "facts": ["Spațiu recreativ", "Batna", "Regiunea Aures"]
+    }
+  ]
+}

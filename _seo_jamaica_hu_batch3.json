@@ -1,0 +1,365 @@
+{
+  "lang": "hu",
+  "country": "jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLifeV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "georg-liele-memorial-history-v2",
+      "descriptionAdvanced": "A George Liele-emlékmű Kingstonban Jamaica egyik legfontosabb, mégis gyakran háttérbe szoruló vallástörténeti alakjának állít emléket. George Liele, egy egykori rabszolga az Amerikai Egyesült Államokból, az 1780-as években érkezett a szigetre, és megalapította az első baptista gyülekezetet, ezzel elindítva a jamaicai fekete baptista mozgalmat. Liele tevékenysége forradalmi volt, hiszen az oktatáson és a valláson keresztül adott reményt és önbecsülést a rabszolgasorban élőknek, lefektetve az alapokat a későbbi emancipációs törekvésekhez. Az emlékmű és a hozzá kapcsolódó történeti kutatások rávilágítanak arra a hatalmas spirituális és társadalmi hatásra, amelyet ez a karizmatikus vezető gyakorolt Jamaica fejlődésére és az afro-jamaicai identitás kialakulására.",
+      "factsAdvanced": [
+        "George Liele volt az első felszentelt fekete baptista misszionárius Jamaicában.",
+        "1783-ban érkezett Savannah-ból (Georgia) Kingstonba.",
+        "Megalapította az 'Ethiopian Baptist Church'-öt a szigeten.",
+        "Saját forrásaiból iskolát is fenntartott a rabszolgák gyermekei számára.",
+        "Tevékenysége miatt többször is bebörtönözték a gyarmati hatóságok.",
+        "Nagy hatással volt az 1831-es karácsonyi lázadás szellemi hátterére.",
+        "Az emlékmű Kingston belvárosában, a történelmi baptista templom közelében található.",
+        "Munkássága megelőzte a híres brit misszionáriusok érkezését."
+      ]
+    },
+    {
+      "id": "national-heroes-park-history-v2",
+      "descriptionAdvanced": "A Nemzeti Hősök Parkja (National Heroes Park) Kingston szívében Jamaica legszentebb emlékhelye, ahol a nemzet legnagyobb alakjai, politikusok, szabadságharcosok és művészek nyugszanak. Az egykor lóversenypályaként funkcionáló hatalmas terület ma egy gyönyörűen parkosított kegyeleti hely, ahol modern szobrok és emlékművek tisztelegnek a hét nemzeti hős, valamint több egykori miniszterelnök előtt. Itt található többek között Marcus Garvey, Sir Alexander Bustamante és Norman Manley síremléke is, mindegyik egyedi művészeti alkotás, amely tükrözi az adott személyiség történelmi jelentőségét. A park nemcsak a nemzeti emlékezet központja, hanem a fontos állami ünnepségek és koszorúzások helyszíne is, ahol a jamaicai nép kifejezheti tiszteletét múltja és szabadságának kivívói előtt.",
+      "factsAdvanced": [
+        "A terület eredetileg 'Kingston Race Course' néven volt ismert.",
+        "1973-ban kapta meg mai hivatalos nevét és funkcióját.",
+        "Hét nemzeti hős számára állítottak itt monumentális emlékműveket.",
+        "Itt található Marcus Garvey, a pán-afrikai mozgalom vezetőjének mauzóleuma.",
+        "A parkban minden nap ünnepélyes őrségváltás zajlik.",
+        "Számos botanikai különlegesség és trópusi növény díszíti a sétányokat.",
+        "A helyszín gyakran ad otthont katonai parádéknak és nemzeti napoknak.",
+        "Ingyenesen látogatható, fontos állomása a Kingston-i városnéző túráknak."
+      ]
+    },
+    {
+      "id": "the-cage-montego-bay-history-v2",
+      "descriptionAdvanced": "The Cage (A Ketrec) Montego Bay történelmi belvárosában, a Sam Sharpe téren álló kisméretű, masszív kőépület, amely Jamaica gyarmati igazságszolgáltatásának rideg valóságát idézi. Az 1806-ban épült apró börtön eredetileg a csavargók, a részeg matrózok és a kijárási tilalmat megszegő rabszolgák ideiglenes elhelyezésére szolgált, mielőtt a bíróság elé állították volna őket. Neve a korábbi, fából készült szerkezetre utal, amelyet ez a tartósabb tégla- és kőépítmény váltott fel. Bár ma már csak egy csendes műemlék a forgalmas tér közepén, a Ketrec továbbra is emlékeztet a város múltjára, a szigorú társadalmi kontrollra és azokra a névtelen tömegekre, akik falai között várták sorsuk jobbra fordulását a rabszolgaság idején.",
+      "factsAdvanced": [
+        "Az épület 1806-ban készült el a korábbi faépítmény helyett.",
+        "Montego Bay szívében, az egykori Charles Square-en (ma Sam Sharpe tér) található.",
+        "Eredeti funkciója a 'fegyelmezetlen elemek' éjszakai bezárása volt.",
+        "A tetőszerkezet piramis alakú, ami jellemző a korabeli jamaicai középületekre.",
+        "Az épület falai vastag vörös téglából és helyi kőből épültek.",
+        "Ma idegenforgalmi látványosság és a város történelmi sétájának része.",
+        "A Ketrec szomszédságában zajlott le számos rabszolgapiac a 19. század előtt.",
+        "A Jamaica National Heritage Trust által védett történelmi emlékhely."
+      ]
+    },
+    {
+      "id": "sam-sharpe-square-history-v2",
+      "descriptionAdvanced": "A Sam Sharpe tér Montego Bay lüktető szíve és Jamaica egyik legfontosabb történelmi jelentőségű közterülete. A korábban Charles Square néven ismert teret 1976-ban nevezték át Sam Sharpe nemzeti hős tiszteletére, aki a közeli baptista templom diakónusaként az 1831-es nagy rabszolgafelkelés (a Karácsonyi Lázadás) szellemi vezére volt. A téren található bronz szoborcsoport Sharpe-ot ábrázolja, amint társaihoz beszél, emlékeztetve a látogatókat a szabadságért hozott hatalmas áldozatra. A teret övező történelmi épületek, mint a Bíróság és a Ketrec, egyedülálló építészeti keretet adnak a helyszínnek, ahol ma a modern városi élet találkozik a drámai múlttal. Ez a helyszín a jamaicai ellenállás és az emberi méltóság melletti kiállás örök szimbóluma.",
+      "factsAdvanced": [
+        "A teret 1976-ban nevezték át Sam Sharpe nemzeti hős tiszteletére.",
+        "Itt végezték ki Sharpe-ot 1832-ben a lázadásban betöltött szerepe miatt.",
+        "A tér központi eleme a Kay Sullivan által alkotott bronz szoborcsoport.",
+        "Montego Bay legfontosabb turisztikai és kereskedelmi találkozópontja.",
+        "Itt található az újjáépített Montego Bay-i bíróság épülete is.",
+        "A tér körüli utcák megőrizték 18-19. századi grúz stílusú jellegüket.",
+        "Minden évben itt tartják a nemzeti hősök napjának legfontosabb vidéki ünnepségeit.",
+        "A helyszín gyalogosan könnyen megközelíthető a kikötőből és a szállodákból."
+      ]
+    },
+    {
+      "id": "tryall-great-house-history-v2",
+      "descriptionAdvanced": "A Tryall kúria Hanover plébániában egyike Jamaica legelegánsabb történelmi ültetvényes házainak, amely ma egy világhírű luxusüdülőhely és golfklub központja. Az 1830-as években, egy korábbi épület alapjain újjáépített ház pazar kilátást nyújt a Karib-tengerre, és hűen őrzi a jamaicai arisztokrácia fénykorának hangulatát. A birtok leglátványosabb történelmi emléke a hatalmas, még ma is működőképes vízikerekes malom, amely egykor a cukornád feldolgozásához szolgáltatott energiát. Tryall története szorosan összefonódik a sziget gazdasági átalakulásával, a cukortermeléstől a modern, magas színvonalú turizmusig, miközben építészeti örökségét és természetes szépségét példás módon sikerült megőrizni az utókor számára.",
+      "factsAdvanced": [
+        "A kúria jelenlegi formája az 1834-es újjáépítés után alakult ki.",
+        "A birtokon található Jamaica egyik legnagyobb, ma is álló vízikereke.",
+        "Az 1831-es lázadás során az eredeti épületek súlyos károkat szenvedtek.",
+        "A ház belső tereit antik bútorok és értékes műalkotások díszítik.",
+        "Tryall ma a világ egyik legexkluzívabb privát klubjának ad otthont.",
+        "A kertben 18. századi ágyúk védik jelképesen a partvonalat.",
+        "A kúria teraszáról lélegzetelállító naplementéket lehet megcsodálni.",
+        "A történelmi örökség megőrzéséért a birtok számos nemzetközi díjat kapott."
+      ]
+    },
+    {
+      "id": "cinnamon-hill-great-house-history-v2",
+      "descriptionAdvanced": "A Cinnamon Hill kúria St. James plébániában nemcsak építészeti szépsége, hanem híres lakói miatt is Jamaica egyik leglátogatottabb történelmi háza. Az 1734-ben épült ház évszázadokig az angol költőnő, Elizabeth Barrett Browning családjának, a Barrett-eknek a tulajdonában volt, később pedig a legendás country-énekes, Johnny Cash és felesége, June Carter Cash jamaicai otthonává vált több mint harminc éven át. A kúria belső terei ma is úgy festenek, mintha a zenész házaspár épp csak elment volna, személyes tárgyaikkal és hangszereikkel teli. A Cinnamon Hill egy különleges helyszín, ahol a 18. századi ültetvényes múlt és a 20. századi popkulturális történelem egyedülálló módon fonódik össze a buja trópusi kertek ölelésében.",
+      "factsAdvanced": [
+        "A házat 1734-ben építtette Edward Barrett ültetvényes.",
+        "Johnny Cash 1970-ben vásárolta meg az ingatlant, és haláláig itt élt telente.",
+        "A kúria belső berendezése Cash és felesége eredeti bútorait tartalmazza.",
+        "A ház falai között íródott több híres zeneszám és memoár is.",
+        "A birtok egykor hatalmas cukornád- és fahéjültetvény volt.",
+        "A legenda szerint a házat egy 'fehér asszony' szelleme kísérti.",
+        "A közeli temetőben nyugszanak a Barrett család híres és névtelen tagjai is.",
+        "A helyszín csak előzetes bejelentkezéssel, vezetett túra keretében látogatható."
+      ]
+    },
+    {
+      "id": "stokes-hall-great-house-ruins-history-v2",
+      "descriptionAdvanced": "Stokes Hall romjai St. Thomas plébániában Jamaica legrégebbi és legimpozánsabb erődített ültetvényes házának maradványai. Luke Stokes, Nevis egykori kormányzója építtette az 1600-as évek végén, amikor családjával és több száz telepesével Jamaicába költözött, hogy segítse a brit gyarmatosítás megszilárdítását. Az épület egyedülálló módon négy masszív bástyával rendelkezett, amelyek lehetővé tették a védelmet minden irányból, tükrözve a korai telepesek állandó félelmét a külső és belső támadásoktól. Bár az 1907-es földrengés során az épület jelentős része összeomlott, a megmaradt falak és tornyok még ma is monumentális látványt nyújtanak. Stokes Hall a korai brit korszak egyik legfontosabb mementója, amely bemutatja a sziget pionírjainak kemény és veszélyekkel teli életmódját.",
+      "factsAdvanced": [
+        "Az épületet az 1660-as és 1670-es évek között emelték.",
+        "Luke Stokes kormányzó alapította, aki Nevis szigetéről érkezett ide.",
+        "Ez Jamaica legrégebbi 'Great House' típusú épületmaradványa.",
+        "A ház sarkain elhelyezkedő bástyák lőrésekkel voltak felszerelve.",
+        "A romok egy dombtetőn állnak, kilátással a Morant-öbölre.",
+        "Az épületet az 1907-es földrengés tette végleg lakhatatlanná.",
+        "A helyszín fontos régészeti kutatási terület a korai brit kolonizáció tanulmányozásához.",
+        "A romokat a Jamaica National Heritage Trust tartja nyilván és gondozza."
+      ]
+    },
+    {
+      "id": "black-river-spa-mineral-spring-history-v2",
+      "descriptionAdvanced": "A Black River-i gyógyfürdő és ásványforrás St. Elizabeth plébániában a 19. század végén és a 20. század elején Jamaica egyik legnépszerűbb gyógyüdülőhelye volt. A forrás vizét, amely magas kén- és magnéziumtartalmáról ismert, már a gyarmati időkben is használták különféle bőrbetegségek és reumatikus panaszok kezelésére. A fürdő köré épült elegáns épületek és kertek a korabeli felső osztály találkozóhelyéül szolgáltak, hozzájárulva Black River városának aranykorához és gazdagságához. Bár az intézmény fénye az idők folyamán megkopott, a forrás gyógyító ereje és a helyszín történelmi aurája ma is vonzza azokat, akik a természetes gyógymódok és a sziget múltjának emlékei iránt érdeklődnek. A fürdő fontos része a város turisztikai vonzerejének, felidézve a korszakot, amikor Jamaica a 'Karib-tenger gyógyhelyeként' volt ismert.",
+      "factsAdvanced": [
+        "A forrás gyógyvizét már az 1700-as évek közepén leírták a kutatók.",
+        "A fürdőhely a 19. század végén élte virágkorát.",
+        "Vize gazdag nátrium-kloridban, kalciumban és szulfátokban.",
+        "A főépület tipikus viktoriánus stílusban épült, nagy verandákkal.",
+        "Egykor speciális hajójáratok hozták ide a gyógyulni vágyókat Kingstonból.",
+        "A forrás közvetlenül a Black River folyó torkolata közelében található.",
+        "A helyszín ma felújítás alatt áll, hogy visszanyerje egykori pompáját.",
+        "A forrásvíz állandó hőmérséklete körülbelül 28-30 Celsius-fok."
+      ]
+    },
+    {
+      "id": "lyssons-beach-public-park-history-v2",
+      "descriptionAdvanced": "A Lyssons Beach és a hozzá tartozó nyilvános park St. Thomas plébániában egy különleges helyszín, ahol a jamaicai történelem és a modern kikapcsolódás találkozik. A terület eredetileg egy nagy cukornádültetvény része volt, amelynek egykori mólói és raktárai ma is sejthetők a part mentén. A 20. század második felében a területet nyilvános stranddá és pihenőparkká alakították, amely a helyi közösség és a turisták kedvenc helyévé vált az ország délkeleti részén. A park nemrégiben jelentős modernizáción ment keresztül, új pavilonokkal és sétányokkal gazdagodva, miközben megőrizte természetes varázsát és a régi ültetvényes idők emlékét. Lyssons Beach a bizonyíték arra, hogyan válhat egy történelmi gazdasági terület a társadalmi kohézió és a fenntartható turizmus modern központjává.",
+      "factsAdvanced": [
+        "A strand St. Thomas plébánia székhelye, Morant Bay közelében található.",
+        "Nevét a terület egykori tulajdonosáról, Sir Nicholas Lawes-ról kapta.",
+        "A területen korábban egy fontos kikötő működött a cukorexporthoz.",
+        "A strand híres finom fehér homokjáról és sekély, nyugodt vizéről.",
+        "A parkban modern piknikezőhelyek és sportpályák várják a látogatókat.",
+        "Gyakran ad otthont helyi kulturális fesztiváloknak és családi napoknak.",
+        "A projekt a Tourism Enhancement Fund támogatásával újult meg teljesen.",
+        "A helyszínről tiszta időben jól látható a Morant Point világítótorony távoli körvonala."
+      ]
+    },
+    {
+      "id": "jm-independence-park-landmarks-v2",
+      "descriptionAdvanced": "Az Independence Park Kingstonban Jamaica sport- és nemzeti büszkeségének központja, amely a sziget 1962-es függetlenné válása tiszteletére épült. A komplexum szíve a Nemzeti Stadion, ahol az ország legendás atlétái, köztük Usain Bolt és Shelly-Ann Fraser-Pryce érték el legfényesebb sikereiket. A park nemcsak a nemzetközi atlétikai versenyek és labdarúgó-mérkőzések helyszíne, hanem itt található a Nemzeti Aréna és a Nemzeti Beltéri Sportközpont is, amelyek kulturális eseményeknek és koncerteknek adnak otthont. A stadion bejáratánál álló szobrok, mint Bob Marley vagy a híres sprinterek alakjai, állandó emlékeztetők Jamaica globális kulturális és sportbeli hatására. Ez a helyszín minden jamaicai számára az egység és a kiválóság szimbóluma, ahol a nemzet együtt ünnepli győzelmeit.",
+      "factsAdvanced": [
+        "A parkot 1962-ben nyitották meg, Jamaica függetlenségének évében.",
+        "A Nemzeti Stadion befogadóképessége körülbelül 35 000 fő.",
+        "Itt rendezték meg az 1966-os Brit Nemzetközösségi Játékokat.",
+        "A stadion előtt Usain Bolt és Arthur Wint bronzszobra köszönti a látogatókat.",
+        "A komplexum részét képezi egy olimpiai méretű úszómedence is.",
+        "Az 'Independence Park' ad otthont a legtöbb nemzeti bajnokságnak.",
+        "A terület a New Kingston üzleti negyed közelében található.",
+        "A stadion gyepszőnyegét a régió egyik legjobbjának tartják."
+      ]
+    },
+    {
+      "id": "jm-sabina-park-landmarks-v2",
+      "descriptionAdvanced": "A Sabina Park Kingstonban Jamaica legszentebb krikettpályája, amely világszerte ismert a sportág rajongói körében történelmi hangulatáról és legendás mérkőzéseiről. A Kingston Cricket Club otthonaként szolgáló pálya az egyik legősibb teszt-krikett helyszín a Karib-térségben, ahol a világ legjobb csapatai küzdenek meg egymással a trópusi hőségben. A park egyik jellegzetessége a 'The Party Stand', ahol a nézők a jamaicai kultúrára jellemző életörömmel, zenével és tánccal kísérik a játékot, egyedülálló atmoszférát teremtve. A Sabina Park számos sporttörténeti pillanat tanúja volt, beleértve Sir Garry Sobers világrekordot jelentő ütéseit 1958-ban. A stadion modernizációja után is megőrizte klasszikus báját, továbbra is a jamaicai krikettélet és a nemzeti sportidentitás fellegvára maradva.",
+      "factsAdvanced": [
+        "Az első teszt-mérkőzést 1930-ban játszották itt Anglia ellen.",
+        "A pálya híres a rendkívül kemény és gyors talajáról.",
+        "Itt állította fel Sir Garry Sobers 365 futásos világrekordját.",
+        "A stadion a Blue Mountains hegyláncra nyíló panorámájáról is ismert.",
+        "2007-ben jelentős felújításon esett át a krikett-világbajnokságra.",
+        "A 'North Stand' Jamaica egyik legmodernebb lelátója.",
+        "A krikett mellett időnként más közösségi eseményeket is tartanak itt.",
+        "A pálya Kingston belvárosának történelmi negyedében fekszik."
+      ]
+    },
+    {
+      "id": "jm-national-gallery-landmarks-v2",
+      "descriptionAdvanced": "A Jamaica Nemzeti Galéria Kingston vízparti negyedében az angolszász Karib-térség legrégebbi és legnagyobb nyilvános művészeti múzeuma, amely a szigetország gazdag vizuális kultúrájának legfontosabb gyűjteményét őrzi. Az 1974-ben alapított intézmény bemutatja Jamaica művészettörténetét a Taino őslakosok alkotásaitól kezdve a gyarmati korszak festményein át a modern és kortárs mesterművekig. A galéria büszkesége Edna Manley szobrászművész életműve, valamint az olyan úttörők munkái, mint Mallica 'Kapo' Reynolds vagy Barrington Watson. Az állandó kiállítások mellett a múzeum dinamikus időszaki tárlatoknak és a híres Nemzeti Biennálénak is otthont ad, elősegítve a fiatal művészgenerációk bemutatkozását. A Nemzeti Galéria nemcsak egy kiállítóhely, hanem a jamaicai nemzeti öntudat és kreatív géniusz tükre, amely minden látogató számára mély kulturális élményt kínál.",
+      "factsAdvanced": [
+        "A galériát 1974-ben hozták létre a Devon House-ban, majd később költözött a jelenlegi helyére.",
+        "Itt található a világ legjelentősebb jamaicai művészeti gyűjteménye.",
+        "A múzeum több mint 10 állandó galériával rendelkezik.",
+        "Edna Manley 'Negro Aroused' című szobra az egyik legfontosabb kiállított mű.",
+        "A galéria rendszeresen tart ingyenes családi vasárnapokat.",
+        "A 'Kapo' galéria a naiv és intuitív művészet kiváló példáit mutatja be.",
+        "Az épület Kingston egyik modernista építészeti nevezetessége.",
+        "A galéria shopja egyedi jamaicai kézműves termékeket és művészeti albumokat kínál."
+      ]
+    },
+    {
+      "id": "jm-ward-theatre-landmarks-v2",
+      "descriptionAdvanced": "A Ward Színház Kingston történelmi szívében Jamaica legfontosabb kulturális szentélye, amely több mint egy évszázada a sziget szellemi életének központja. Az épületet 1912-ben Charles Ward ezredes ajándékozta a városnak, és azóta a jamaicai színházművészet, az opera és a híres jamaicai pantomim bölcsőjeként szolgál. A színház neoklasszicista homlokzata és pazar belső tere a századforduló Kingstonjának gazdagságát idézi, falai között pedig olyan nagyságok léptek fel, mint Paul Robeson vagy Marian Anderson. Bár az épület az utóbbi években komoly felújításra szorult, történelmi jelentősége és az itt született kulturális mozgalmak hatása megkerülhetetlen. A Ward Színház nemcsak egy előadóhely, hanem Jamaica függetlenségi törekvéseinek és művészi önkifejezésének élő emlékműve, amely várja újjászületését.",
+      "factsAdvanced": [
+        "A színházat 1912-ben nyitották meg a nyilvánosság előtt.",
+        "Charles James Ward ezredes finanszírozta az építkezést és adományozta Kingstonnak.",
+        "Ez a legrégebbi folyamatosan működő színház a Karib-térség angol nyelvű részén.",
+        "Itt alapították meg a Jamaica Labour Party-t és a People's National Party-t is.",
+        "A színház 800 néző befogadására alkalmas.",
+        "Híres az akusztikájáról és a díszes páholysorairól.",
+        "A jamaicai pantomim tradíciója minden évben innen indul december 26-án.",
+        "Az épületet 2000-ben nemzeti örökségvédelmi helyszínné nyilvánították."
+      ]
+    },
+    {
+      "id": "jm-gordon-house-landmarks-v2",
+      "descriptionAdvanced": "A Gordon House Kingston belvárosában Jamaica törvényhozásának székhelye, ahol a nemzet sorsát meghatározó viták és döntések születnek. Az 1960-ban épült modernista stílusú épület George William Gordonról, a jamaicai nemzeti hősről és vértanúról kapta a nevét, aki életét áldozta a nép jogaiért az 1865-ös lázadás idején. Az épület egyszerű, de méltóságteljes megjelenése tükrözi az ifjú demokrácia értékeit, felváltva a korábbi, szűkös Headquarters House-t. A Gordon House üléstermeiben folyik a parlamenti munka, a törvények megalkotása és a kormány elszámoltatása, biztosítva a sziget alkotmányos rendjét. A látogatók a galériáról követhetik figyelemmel az üléseket, megismerve a jamaicai politikai kultúra és a demokratikus párbeszéd sajátosságait.",
+      "factsAdvanced": [
+        "A parlament 1960. október 26-án költözött át ebbe az épületbe.",
+        "Nevét George William Gordon tiszteletére kapta, akit 1865-ben végeztek ki.",
+        "Az épület tervezése a funkcionális modernizmus jegyeit viseli.",
+        "Itt található a Képviselőház és a Szenátus közös ülésterme.",
+        "A Gordon House a Duke Street és a Beeston Street sarkán áll.",
+        "A belső falakat Jamaica történetét ábrázoló portrék és címerek díszítik.",
+        "Az épület előtt gyakran zajlanak politikai demonstrációk és események.",
+        "A parlament ülései a nyilvánosság számára korlátozottan látogathatók."
+      ]
+    },
+    {
+      "id": "jm-kings-house-landmarks-v2",
+      "descriptionAdvanced": "A King's House Kingston egyik legelegánsabb és legimpozánsabb történelmi rezidenciája, amely Jamaica főkormányzójának hivatalos otthonaként és irodájaként szolgál. A hatalmas, több mint 180 hektáros birtokon fekvő épület eredetileg anglikán püspöki palotának épült a 19. században, majd az 1907-es földrengés után neoklasszicista stílusban építették újjá. A King's House nemcsak az államfő képviselőjének rezidenciája, hanem a sziget diplomáciai életének központja is, ahol külföldi méltóságokat fogadnak és fontos állami kitüntetéseket adnak át. Pompás kertjei, amelyekben számos egzotikus növény és történelmi emlékhely található, időnként megnyílnak a nyilvánosság előtt is, bepillantást engedve Jamaica gyarmati és modern államszervezeti örökségének pazar környezetébe.",
+      "factsAdvanced": [
+        "Az épület 1872 óta szolgál a kormányzók lakhelyeként.",
+        "A jelenlegi struktúra Sir Charles Nicholson tervei alapján készült 1907 után.",
+        "A birtok területe eredetileg a Hope Estate része volt.",
+        "Bálterme Jamaica egyik legnagyobb és legdíszesebb ilyen jellegű helyisége.",
+        "A kertekben található egy 18. századi víztározó maradványa is.",
+        "A King's House-ban őrzik a sziget legértékesebb antik bútorgyűjteményét.",
+        "Minden évben itt rendezik meg a nemzeti kitüntetések átadási ceremóniáját.",
+        "A rezidencia szigorúan őrzött állami létesítmény, csak engedéllyel látogatható."
+      ]
+    },
+    {
+      "id": "jm-emancipation-park-landmarks-v2",
+      "descriptionAdvanced": "Az Emancipáció Park New Kingston üzleti negyedének szívében egy modern és jelentőségteljes oázis, amely a rabszolgaság alóli felszabadulás emlékének és a szabadság eszményének szenteltetett. A 2002-ben megnyitott park hét hektáros területével a város lakóinak kedvenc pihenőhelye, ahol a gondozott pázsitok, trópusi virágok és szökőkutak között sétálva emlékezhetnek meg a nemzet történetéről. A park bejáratánál álló monumentális bronzszobor, a Laura Facey által alkotott 'Redemption Song', két rabszolgát ábrázol, amint a jövőbe tekintenek, szimbolizálva a jamaicai nép kitartását és győzelmét az elnyomás felett. Az Emancipáció Park nemcsak egy zöldterület, hanem a büszkeség, a méltóság és a közösségi szellem helyszíne, ahol koncertek, kiállítások és családi rendezvények fűzik szorosabbra a társadalmi kapcsolatokat.",
+      "factsAdvanced": [
+        "A parkot 2002. július 31-én nyitották meg, az emancipáció napja előtt.",
+        "A központi 'Redemption Song' szobor hét méter magas.",
+        "A park tervezése során a nyugati és afrikai kertművészet elemeit is ötvözték.",
+        "Híres a különlegesen megvilágított szökőkútjairól az esti órákban.",
+        "Kiválóan alkalmas kocogásra és szabadtéri jógázásra a kijelölt utakon.",
+        "A park területén tilos a dohányzás és az alkoholfogyasztás.",
+        "Számos információs tábla mutatja be Jamaica nemzeti hőseinek életét.",
+        "A belépés mindenki számára ingyenes és a nap 24 órájában őrzött."
+      ]
+    },
+    {
+      "id": "jm-national-heroes-park-landmarks-v2",
+      "descriptionAdvanced": "A Nemzeti Hősök Parkja (National Heroes Park) Kingston szívében Jamaica legfontosabb történeti emlékhelye és temetője, ahol a nemzet kiválóságai nyugszanak méltóságteljes környezetben. A park központi részén találhatók a nemzeti hősök monumentális mauzóleumai, mint Marcus Garvey futurisztikus síremléke vagy Sir Alexander Bustamante és Norman Manley nyughelyei. Az egykori lóversenypálya helyén kialakított tér ma egy hatalmas szabadtéri múzeum, ahol a szobrok és feliratok mesélnek a sziget függetlenségi küzdelmeiről és társadalmi fejlődéséről. A park nemcsak a gyász és az emlékezés helye, hanem a nemzeti öntudat forrása is, ahol a látogatók átélhetik Jamaica történetének súlyát és a hősök örökségének erejét a főváros lüktető környezetében.",
+      "factsAdvanced": [
+        "A park korábban 'Race Course' néven volt ismert és lóversenyeknek adott otthont.",
+        "1973-ban nyilvánították hivatalosan is nemzeti hősök parkjává.",
+        "Itt nyugszik Jamaica összes eddigi elhunyt nemzeti hőse és több miniszterelnöke.",
+        "A park területén egy hatalmas fémobeliszk emlékeztet a szabadságharcra.",
+        "A helyszínen rendszeresen látható a Jamaica Defence Force díszőrsége.",
+        "A parkban található növényvilág Jamaica flórájának reprezentatív darabjait mutatja be.",
+        "Itt tartják a minden év októberében esedékes központi koszorúzási ünnepséget.",
+        "A terület a város egyik legnagyobb egybefüggő zöldterülete."
+      ]
+    },
+    {
+      "id": "jm-holy-trinity-cathedral-landmarks-v2",
+      "descriptionAdvanced": "A Szentháromság-székesegyház (Holy Trinity Cathedral) Kingston belvárosában a jamaicai katolikus közösség spirituális és építészeti ékköve. Az 1907-es nagy földrengésben elpusztult korábbi templom helyén 1911-ben emelt bizánci-román stílusú épület lenyűgöző kupolájával és gazdag belső díszítésével tűnik ki a városképből. A templom belsejét Brother Francis Schroen testvér által festett pazar freskók és aranyozott oltárok díszítik, amelyek a Karib-térség egyik legszebb egyházművészeti együttesét alkotják. A székesegyház nemcsak istentiszteleti hely, hanem fontos kulturális és szociális központ is, amely évszázadok óta szolgálja a kingstoni közösséget, és menedéket nyújt a hit és a szépség keresőinek. Restaurálása után a templom régi fényében tündököl, hirdetve a jamaicai vallási élet sokszínűségét és kitartását.",
+      "factsAdvanced": [
+        "A jelenlegi katedrálist 1911. február 5-én szentelték fel.",
+        "Az épületet az amerikai Raymond F. Almirall tervezte.",
+        "Központi kupolája 25 méter magas és messziről látható a városban.",
+        "A belső falfestmények összesen több mint 1000 négyzetmétert tesznek ki.",
+        "A katedrális orgonája az egyik legszebb hangzású hangszer a szigeten.",
+        "A székesegyház fontos szerepet játszott az 1930-as évek szociális mozgalmaiban.",
+        "Az épületet 2008-ban teljesen felújították nemzetközi adományokból.",
+        "A North Streeten található, közel a Nemzeti Hősök Parkjához."
+      ]
+    },
+    {
+      "id": "jm-trench-town-culture-yard-landmarks-v2",
+      "descriptionAdvanced": "A Trench Town Culture Yard Kingston egyik legfontosabb kulturális mérföldköve, amely a reggae zene és a globális rasztafari kultúra bölcsőjeként vált világhírűvé. Ebben az egyszerű, állami bérházakból álló udvarban nőtt fel és alkotott Bob Marley, Peter Tosh és Bunny Wailer, akik innen indultak el, hogy megváltoztassák a világ zenei térképét. A ma múzeumként működő Culture Yard bemutatja azt a kreatív energiát, amely a szegénység és a társadalmi kihívások ellenére is képes volt világraszóló üzeneteket megfogalmazni a szeretetről, az ellenállásról és a szabadságról. A látogatók megtekinthetik Marley egykori szobáját és személyes tárgyait, miközben átélhetik Trench Town közösségének büszkeségét és vendégszeretetét, amely ma is inspirációt nyújt minden művész és szabadságkereső számára.",
+      "factsAdvanced": [
+        "A helyszínt 2007-ben nemzeti örökségvédelmi hellyé nyilvánították.",
+        "Itt született meg a világhírű 'Redemption Song' és 'No Woman, No Cry' inspirációja.",
+        "A múzeumot a helyi közösség tagjai üzemeltetik és tartják fenn.",
+        "Látható Bob Marley első gitárja és a híres Volkswagen kisteherautója is.",
+        "A bérházak az 1940-es években épültek a városfejlesztési program keretében.",
+        "Trench Town a nevét Daniel Trench ír bevándorlóról kapta, akié egykor a föld volt.",
+        "A Culture Yard rendszeresen ad otthont élő reggae koncerteknek és workshopoknak.",
+        "A látogatás bevételét a közösség oktatási és szociális céljaira fordítják."
+      ]
+    },
+    {
+      "id": "jm-half-way-tree-clock-tower-landmarks-v2",
+      "descriptionAdvanced": "A Half Way Tree óratorony St. Andrew plébánia legfontosabb és legforgalmasabb találkozási pontja, amely Kingston modern lüktetésének szívében áll. A viktoriánus stílusú, neogótikus elemekkel díszített tornyot 1913-ban emelték VII. Eduárd brit király emlékére, és azóta a város egyik legismertebb jelképévé vált. A torony elhelyezkedése történelmi jelentőségű, hiszen itt állt egykor az a hatalmas gyapotfa, amelynél az utazók pihentek meg félúton a tengerparti Kingston és a hegyvidéki ültetvények között. Ma az óratorony körül egy ultramodern közlekedési csomópont és üzleti negyed terül el, ahol a múlt eleganciája éles kontrasztban áll a jelen dinamizmusával. A torony órái évtizedek óta mutatják az időt a jamaicaiak generációi számára, tanúi lévén a város folyamatos átalakulásának.",
+      "factsAdvanced": [
+        "Az órát 1913-ban helyezték üzembe a gyarmati kormányzat megbízásából.",
+        "Neogótikus stílusa és tégla szerkezete a korabeli angol építészetet idézi.",
+        "Half Way Tree ma Jamaica legforgalmasabb közúti és gyalogos kereszteződése.",
+        "A torony sértetlenül vészelte át az elmúlt évszázad nagy hurrikánjait.",
+        "Egykor itt volt a kingstoni villamoshálózat egyik fontos megállója is.",
+        "Az óratorony környéke ma a jamaicai könnyűzene és utcai divat központja.",
+        "A torony négy oldalán lévő óralapok eredetileg Angliából érkeztek.",
+        "A helyszín gyakori kiindulópontja a városi tüntetéseknek és győzelmi ünnepségeknek."
+      ]
+    },
+    {
+      "id": "jm-institute-of-jamaica-landmarks-v2",
+      "descriptionAdvanced": "A Jamaica Intézet (Institute of Jamaica) Kingston belvárosában az ország legrégibb és legfontosabb kulturális és tudományos intézménye, amely a szigetország intellektuális emlékezetének őrzője. Az 1879-ben Sir Anthony Musgrave kormányzó által alapított intézet feladata Jamaica irodalmának, tudományának és művészetének támogatása és dokumentálása. Az épületkomplexum több fontos egységet foglal magában, köztük a Nemzeti Múzeumot, a Természettudományi Múzeumot és a híres Afrikai-Karibi Intézetet. Gazdag archívuma és ritka könyvgyűjteménye nélkülözhetetlen a kutatók számára, míg kiállításai a nagyközönségnek mutatják be Jamaica geológiáját, flóráját, faunáját és néprajzát. Az Intézet a sziget kulturális identitásának alapköve, ahol a múlt ismerete és a jövő kutatása találkozik.",
+      "factsAdvanced": [
+        "Az intézetet 1879-ben alapították, a brit viktoriánus tudományos akadémiák mintájára.",
+        "Itt található a Karib-térség egyik legjelentősebb történeti archívuma.",
+        "A Természettudományi Múzeumban több ezer endemikus növény- és állatpéldányt őriznek.",
+        "Az intézet kezeli a sziget nemzeti képzőművészeti díjait is.",
+        "Az épületben található könyvtár ritka térképeket őriz a koloniális korszakból.",
+        "Itt működik a Jamaica Journal szerkesztősége, amely a legnevesebb kulturális folyóirat.",
+        "Az intézet központi szerepet játszik a jamaicai kreol nyelv kutatásában.",
+        "Rendszeresen szerveznek oktatási programokat és tudományos előadásokat iskolásoknak."
+      ]
+    },
+    {
+      "id": "jm-plumb-point-lighthouse-landmarks-v2",
+      "descriptionAdvanced": "A Plumb Point-világítótorony a Palisadoes-félsziget végén, a kingstoni kikötő bejáratánál áll, és már több mint 160 éve vezeti biztonságba a szigetre érkező hajókat. Az 1853-ban épült, 21 méter magas fehér torony Jamaica egyik legfontosabb navigációs pontja, amely túlélte az 1907-es pusztító földrengést és számos pusztító hurrikánt. Az öntöttvasból és kőből emelt szerkezet ma is aktívan működik, jellegzetes fényjelei kilométerekre ellátszanak a Karib-tengeren. A világítótorony környéke vadregényes és szeles, pazar kilátást nyújtva a nyílt tengerre és Port Royal távoli partjaira. Plumb Point nemcsak technikai eszköz, hanem a tengerészeti múlt romantikus szimbóluma is, amely hűen őrzi a kingstoni öböl biztonságát az ipari korszak kezdete óta.",
+      "factsAdvanced": [
+        "A világítótornyot 1853-ban helyezték üzembe.",
+        "Fénye tiszta időben akár 25 tengeri mérföldről is látható.",
+        "A torony magassága a tengerszint felett körülbelül 21 méter.",
+        "Eredetileg olajlámpával működött, ma már modern elektromos rendszere van.",
+        "Ez az egyik legfontosabb jelzőfény a Panama-csatorna felé tartó hajóknak.",
+        "A torony szerkezete speciális rázkódásvédelemmel rendelkezik a földrengések ellen.",
+        "A világítótorony közelében található Jamaica nemzetközi repülőtere is.",
+        "A helyszín korlátozottan látogatható, de a félszigetről jól látható."
+      ]
+    },
+    {
+      "id": "jm-uwi-mona-campus-landmarks-v2",
+      "descriptionAdvanced": "A Nyugat-indiai Egyetem (UWI) monai kampusza Kingston északkeleti részén nemcsak a régió legnevesebb oktatási intézménye, hanem egy rendkívül látványos történelmi és építészeti helyszín is. Az egykori cukornádültetvények területén kialakított kampusz harmonikusan ötvözi a modern egyetemi épületeket a 18. századi vízvezetékek és cukormalmok romjaival. A Mona Campus a Karib-térség intellektuális központja, ahol számos államfő és nemzetközi hírű tudós tanult, és ahol a kutatómunkák a régió fejlődésének alapjait rakják le. A kampusz területén sétálva a látogatók megcsodálhatják a monumentális kőboltíveket, az elegáns kápolnát és a Blue Mountains hegységre nyíló lenyűgöző panorámát, miközben átélhetik a tudomány és a történelem különleges találkozását.",
+      "factsAdvanced": [
+        "A kampuszt 1948-ban alapították a brit gyarmati kormányzat támogatásával.",
+        "Itt tanult Jamaica szinte összes miniszterelnöke és számos Nobel-díjas tudós is.",
+        "A területen található kővízvezeték (aqueduct) a 18. századból származik.",
+        "Az egyetemi kápolna egy egykori cukorraktár köveiből épült újjá.",
+        "A kampusz területe több mint 260 hektár, saját botanikus kerttel és sportlétesítményekkel.",
+        "Itt működik a híres Nemzetközi Szeizmológiai Központ és több orvosi kutatóhely.",
+        "A kampusz parkjaiban számos egzotikus és ritka trópusi fafaj található.",
+        "A UWI Mona a világ egyetemi rangsorainak előkelő helyein szerepel a régióból."
+      ]
+    },
+    {
+      "id": "jm-sam-sharpe-square-landmarks-v2",
+      "descriptionAdvanced": "A Sam Sharpe tér Montego Bay lüktető szíve és Jamaica egyik legfontosabb történelmi jelentőségű közterülete. A korábban Charles Square néven ismert teret 1976-ban nevezték át Sam Sharpe nemzeti hős tiszteletére, aki a közeli baptista templom diakónusaként az 1831-es nagy rabszolgafelkelés (a Karácsonyi Lázadás) szellemi vezére volt. A téren található bronz szoborcsoport Sharpe-ot ábrázolja, amint társaihoz beszél, emlékeztetve a látogatókat a szabadságért hozott hatalmas áldozatra. A teret övező történelmi épületek, mint a Bíróság és a Ketrec, egyedülálló építészeti keretet adnak a helyszínnek, ahol ma a modern városi élet találkozik a drámai múlttal. Ez a helyszín a jamaicai ellenállás és az emberi méltóság melletti kiállás örök szimbóluma.",
+      "factsAdvanced": [
+        "A teret 1976-ban nevezték át Sam Sharpe nemzeti hős tiszteletére.",
+        "Itt végezték ki Sharpe-ot 1832-ben a lázadásban betöltött szerepe miatt.",
+        "A tér központi eleme a Kay Sullivan által alkotott bronz szoborcsoport.",
+        "Montego Bay legfontosabb turisztikai és kereskedelmi találkozópontja.",
+        "Itt található az újjáépített Montego Bay-i bíróság épülete is.",
+        "A tér körüli utcák megőrizték 18-19. századi grúz stílusú jellegüket.",
+        "Minden évben itt tartják a nemzeti hősök napjának legfontosabb vidéki ünnepségeit.",
+        "A helyszín gyalogosan könnyen megközelíthető a kikötőből és a szállodákból."
+      ]
+    },
+    {
+      "id": "jm-st-james-parish-church-landmarks-v2",
+      "descriptionAdvanced": "A Szent Jakab-plébániatemplom (St. James Parish Church) Montego Bay-ben Jamaica egyik legszebb és legjelentősebb vallási épülete, amelyet gyakran az ország építészeti ékkövének neveznek. Az 1775 és 1782 között emelt templom görög kereszt alaprajzával és pazar klasszicista stílusával a Karib-térség anglikán építészetének csúcspontját képviseli. A belső térben John Bacon híres szobrász alkotásai és díszes márvány emléktáblák őrzik a város egykori előkelőségeinek emlékét, miközben a hatalmas ólomüveg ablakokon beszűrődő fény misztikus hangulatot áraszt. A templomkertben évszázados fák árnyékában pihennek a város múltjának neves alakjai. A Szent Jakab-templom nemcsak istentiszteleti hely, hanem Montego Bay büszkesége is, amely túlélte a történelem viharait és földrengéseit, megőrizve méltóságát és spirituális erejét.",
+      "factsAdvanced": [
+        "A templom építése 1775-ben kezdődött és hét évig tartott.",
+        "A sziget egyik legjobb állapotban fennmaradt 18. századi egyházi épülete.",
+        "John Bacon szobrászművész számos gyönyörű márványszobrot készített a belső térbe.",
+        "Görög kereszt alakú alaprajza egyedülálló a jamaicai templomépítészetben.",
+        "A templom az 1957-es földrengésben súlyos károkat szenvedett, de hűen helyreállították.",
+        "A kertben található sírkövek között számos 18. századi felirat olvasható.",
+        "A templom óratornya Montego Bay egyik legfontosabb tájékozódási pontja.",
+        "Az épület belső faborításai és oltára eredeti jamaicai mahagóniból készültek."
+      ]
+    }
+  ]
+}

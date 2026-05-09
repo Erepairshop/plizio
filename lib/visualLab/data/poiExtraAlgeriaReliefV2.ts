@@ -69,15 +69,15 @@ export const poiExtraAlgeriaReliefV2: POI[] = [
     coords: [5.5, 23.3],
     name: { de: "Djebel Tahat", hu: "Djebel Tahat", ro: "Djebel Tahat", en: "Djebel Tahat" },
     description: {
-      de: "Der hochste Berg Algeriens, gelegen im Hoggar-Gebirge.",
+      de: "Der Djebel Tahat ist der höchste Berg Algeriens und befindet sich im beeindruckenden Hoggar-Massiv in der Zentralsahara.",
       hu: "Algéria legmagasabb hegye, a Hoggar-hegysegben.",
-      ro: "Cel mai inalt munte din Algeria, situat in muntii Hoggar.",
+      ro: "Djebel Tahat este cel mai înalt vârf muntos din Algeria, situat în masivul vulcanic Hoggar.",
       en: "The highest mountain in Algeria, located in the Hoggar Mountains."
     },
     facts: {
-      de: ["Hoehe 2908 Meter.", "Vulkangipfel."],
+      de: ["Höchster Gipfel (2.908m)", "Hoggar-Gebirge", "Vulkanischer Ursprung"],
       hu: ["Magassaga 2908 meter.", "Vulkanikus csucs."],
-      ro: ["Inaltime 2908 metri.", "Varf vulcanic."],
+      ro: ["Cel mai înalt vârf", "Masivul Hoggar", "3003 metri"],
       en: ["Elevation 2908 meters.", "Volcanic peak."]
     },
     descriptionAdvanced: {

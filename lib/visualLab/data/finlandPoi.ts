@@ -3307,16 +3307,16 @@ export const finlandNatureExtended: POI[] = [
       ro: "Muzeul Alvar Aalto, plasat în orașul Jyväskylä pe un teren universitar elegant proiectat chiar de vizionar, servește ca un impresionant templu adus stilului modern funcționalist scandinav al anilor 1950. Acest muzeu extrem de curat, decorat cu ceramica și formele din lemn curbat revoluționare specifice epocii, este dedicat aprofundat investigării operelor imense ale celui mai cunoscut fiu al arhitecturii finlandeze, arhitectul Alvar Aalto. Vizitatorii pot experimenta o secvență vizuală vastă de schițe timpurii de planșă, machete din carton, primele exemple celebre de sticlărie Artek – printre care vazele de tip Savoy – și faimoasele scaune din mesteacăn presat care au remodelat fundamental istoria de design mondial postbelic. Clădirea deține fațade ondulate unice, îmbinând natural natura brutală finlandeză cu rigoarea matematică exactă a volumelor și sticlei masive."
     },
     description: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Das Alvar Aalto Museum ist ein Spezialmuseum, das das architektonische und gestalterische Erbe des berühmten finnischen Architekten Alvar Aalto zeigt.",
+      hu: "Az Alvar Aalto Múzeum egy különleges múzeum, amely a híres finn építész, Alvar Aalto építészeti és formatervezési örökségét mutatja be.",
+      ro: "Muzeul Alvar Aalto este un muzeu specializat care prezintă moștenirea arhitecturală și de design a renumitului arhitect finlandez Alvar Aalto.",
+      en: "The Alvar Aalto Museum is a specialized museum showcasing the architectural and design legacy of the renowned Finnish architect Alvar Aalto."
     },
     facts: {
-      de: ["", "", "", "", ""],
-      hu: ["", "", "", "", ""],
-      ro: ["", "", "", "", ""],
-      en: ["", "", "", "", ""]
+      de: ["Es befindet sich in Jyväskylä, einer Stadt mit vielen Aalto-Gebäuden.", "Das Museum beherbergt eine große Sammlung seiner Möbel, Glaswaren und Architekturzeichnungen.", "Es finden dort oft temporäre Ausstellungen zu Architektur und Design statt."],
+      hu: ["Jyväskylä városában található, ahol számos Aalto-épület áll.", "A múzeum nagy gyűjteménnyel rendelkezik bútoraiból, üvegtárgyaiból és építészeti rajzaiból.", "Gyakran ad otthont építészeti és formatervezési időszaki kiállításoknak."],
+      ro: ["Este situat în Jyväskylä, un oraș cu multe clădiri proiectate de Aalto.", "Muzeul găzduiește o colecție mare din mobilierul, sticlăria și desenele sale arhitecturale.", "Acesta găzduiește adesea expoziții temporare de arhitectură și design."],
+      en: ["It is located in Jyväskylä, a city with many Aalto buildings.", "The museum houses a large collection of his furniture, glassware, and architectural drawings.", "It often hosts temporary exhibitions on architecture and design."]
     },
     
     factsAdvanced: {
@@ -3502,16 +3502,16 @@ export const finlandNatureExtended: POI[] = [
       ro: "Zona Neristan din cartierul central al splendidului oraș maritim pitoresc vestic din Ostrobotnia scandinavă mediteraneeană, Kokkola, constituie cu mândrie una dintre superbele zone urbane comerciale, extrem de extinse, acoperite complet istoric de clădiri mari și imense de lemn, dintre puținele excepționale perfect păstrate din toate teritoriile scandinave naționale. Orașul a fost intens și constant populat bogat cu succes de generațiile bogate vechi formate din armatorii secolului 17 care importau și exportau rășină nobilă curată; cartierul conservat adăpostind aleile sale nealterate prezintă astăzi curți lungi, romantice în care comercianții iscusiți antici au trăit glorios și bogat, unde depozitau butoaie prețioase de sare naturală pură și miresme. Astăzi este un colț de cultură estetică colorat idilic, împodobit exclusiv elegant și fin cu detalii de uși masive pretențioase, galerii și terase boeme pentru călătorii avizi romantici europeni, cafenele de lemn fine romantice izolate complet protejate sub patrimoniul urban."
     },
     description: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Die Altstadt von Kokkola, bekannt als Neristan, ist ein gut erhaltenes historisches Holzstadtviertel, das einen Einblick in das finnische Leben des 19. Jahrhunderts bietet.",
+      hu: "Kokkola óvárosa, más néven Neristan, egy jól megőrzött történelmi faépületes negyed, amely bepillantást enged a 19. századi finn életbe.",
+      ro: "Centrul vechi din Kokkola, cunoscut sub numele de Neristan, este un cartier istoric cu case din lemn, bine conservat, oferind o privire în viața finlandeză din secolul al XIX-lea.",
+      en: "The Kokkola Old Town, known as Neristan, is a well-preserved historical wooden town district offering a glimpse into 19th-century Finnish life."
     },
     facts: {
-      de: ["", "", "", "", ""],
-      hu: ["", "", "", "", ""],
-      ro: ["", "", "", "", ""],
-      en: ["", "", "", "", ""]
+      de: ["Sie verfügt über farbenfrohe Holzhäuser, die Jahrhunderte alt sind.", "Neristan war traditionell das Wohnviertel der Handwerker und Seeleute.", "Die Gegend lässt sich mit ihren engen Gassen und ihrer charmanten Atmosphäre leicht zu Fuß erkunden."],
+      hu: ["Színes, több évszázados faházakkal büszkélkedhet.", "Neristan hagyományosan a kézművesek és tengerészek lakónegyede volt.", "A terület szűk utcáival és hangulatos légkörével könnyen bejárható gyalog."],
+      ro: ["Prezintă case colorate din lemn, care datează de secole.", "Neristan era în mod tradițional zona de locuit a meșteșugarilor și marinarilor.", "Zona poate fi explorată ușor pe jos, având străzi înguste și o atmosferă fermecătoare."],
+      en: ["It features colorful wooden houses dating back centuries.", "Neristan was traditionally the living area for craftsmen and sailors.", "The area is easily explored on foot with its narrow streets and charming atmosphere."]
     },
     
     factsAdvanced: {
@@ -3541,16 +3541,16 @@ export const finlandNatureExtended: POI[] = [
       ro: "Acest institut internațional muzical cultural reprezentativ adunat strategic pentru inima comunei Kaustinen este dedicat protejării folclorului tradițional autohton incredibil al patrimoniului profund sonor nordic și a celebrei viori, adunând sub cupole instrumente clasice autentice. Vioara populară Kaustinen a devenit o stare absolută oficial inestimabilă de trăire pură muzicală care a generat cel mai proeminent fenomen, propulsând această muzică ancestrală distinctă de secole în registrul UNESCO prestigios pentru umanitate absolută intangibilă globală ca identitate. Aici ritmul polkas sau jenkka cu influențe arhaice nu dispare, ci devine o stare interactivă puternică și proaspătă de perpetuare unde toți artiștii instrumentelor de cord folclorice vin cu devotament. Complexul acționează constant și masiv prin studii muzicale nordice avansate unice pe timp de vară ca loc imens mondial și unicul loc scandinav pur de întâlnire pentru profesori muzicanți."
     },
     description: {
-      de: "",
-      hu: "",
-      ro: "",
-      en: ""
+      de: "Das Kaustinen Folk Music Centre feiert die reiche Tradition der finnischen Volksmusik und ist das Herzstück des berühmten Kaustinen Folk Music Festivals.",
+      hu: "A Kaustinen Népzenei Központ a finn népzene gazdag hagyományát ünnepli, és a híres Kaustineni Népzenei Fesztivál központja.",
+      ro: "Centrul de Muzică Folk din Kaustinen celebrează bogata tradiție a muzicii populare finlandeze și este inima faimosului Festival de Muzică Folk din Kaustinen.",
+      en: "The Kaustinen Folk Music Centre celebrates the rich tradition of Finnish folk music and is the heart of the famous Kaustinen Folk Music Festival."
     },
     facts: {
-      de: ["", "", "", "", ""],
-      hu: ["", "", "", "", ""],
-      ro: ["", "", "", "", ""],
-      en: ["", "", "", "", ""]
+      de: ["Es fördert die von der UNESCO anerkannte Kaustinen-Geigenspieltradition.", "Das Zentrum umfasst Ausstellungen zu traditionellen finnischen Instrumenten.", "Es dient das ganze Jahr über als kultureller Knotenpunkt für Musiker und Forscher."],
+      hu: ["Támogatja az UNESCO által elismert kaustineni hegedülési hagyományt.", "A központ kiállításokat rendez hagyományos finn hangszerekből.", "Egész évben kulturális központként szolgál zenészek és kutatók számára."],
+      ro: ["Acesta promovează tradiția cântatului la vioară din Kaustinen, recunoscută de UNESCO.", "Centrul include expoziții despre instrumentele tradiționale finlandeze.", "Servește drept centru cultural pentru muzicieni și cercetători pe tot parcursul anului."],
+      en: ["It promotes the UNESCO-recognized Kaustinen fiddle playing tradition.", "The centre includes exhibitions on traditional Finnish instruments.", "It serves as a cultural hub for musicians and researchers year-round."]
     },
     
     factsAdvanced: {

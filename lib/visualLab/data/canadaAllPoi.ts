@@ -225,7 +225,7 @@ export const canadaAllPoi: POI[] = [
     coords: [-52.7126, 47.5615], type: 'landmark', parent: 'CA', image: "/poi-images/can_stj.webp"},
   {
     id: "can_cha",    name: { de: "Charlottetown", hu: "Charlottetown", ro: "Charlottetown", en: "Charlottetown" },
-    description: { de: "Capital of PEI", hu: "Capital of PEI", ro: "Capital of PEI", en: "Capital of PEI" },
+    description: { de: "Charlottetown ist die Hauptstadt von Prince Edward Island und bekannt als die \"Geburtsstätte der Konföderation\". Sie besticht durch eine historische Innenstadt mit viktorianischer Architektur.", hu: "Charlottetown a Prince Edward-sziget fővárosa, és a \"Konföderáció szülőhelyeként\" ismert. Történelmi belvárosában viktoriánus korabeli építészet dominál.", ro: "Charlottetown este capitala Insulei Prințului Edward și este cunoscută drept \"Locul de naștere al Confederației\". Are un centru istoric cu o arhitectură din epoca victoriană.", en: "Charlottetown is the capital of Prince Edward Island and is known as the \"Birthplace of Confederation\". It features a historic downtown with Victorian-era architecture." },
     descriptionAdvanced: {
       de: "Charlottetown ist die charmante Hauptstadt von Prince Edward Island und gilt als 'Geburtsort der Konföderation' Kanadas. Die Stadt besticht durch ihre gut erhaltene viktorianische Architektur, ihre Bedeutung als Kulturzentrum und ihre Nähe zu wunderschönen roten Sandstränden.",
       hu: "Charlottetown a Prince Edward-sziget bájos fővárosa, amelyet Kanada 'konföderációjának bölcsőjeként' emlegetnek. A várost jól megőrzött viktoriánus építészete, kulturális jelentősége és a gyönyörű vörös homokos strandok közelsége teszi vonzóvá. Történelem K8 – Kanada születése.",
@@ -276,7 +276,7 @@ export const canadaAllPoi: POI[] = [
     coords: [-135.0568, 60.7212], type: 'landmark', parent: 'CA', image: "/poi-images/can_whi.webp"},
   {
     id: "can_yel",    name: { de: "Yellowknife", hu: "Yellowknife", ro: "Yellowknife", en: "Yellowknife" },
-    description: { de: "Capital of NWT", hu: "Capital of NWT", ro: "Capital of NWT", en: "Capital of NWT" },
+    description: { de: "Yellowknife ist die Hauptstadt der kanadischen Nordwest-Territorien und liegt am Nordufer des Großen Sklavensees. Sie ist bekannt für die hervorragende Sichtbarkeit der Polarlichter und ihre Diamantenminen.", hu: "Yellowknife Kanada Északnyugati területeinek fővárosa, amely a Nagy-Rabszolga-tó északi partján található. Híres a sarki fény megfigyeléséről és a gyémántbányászatról.", ro: "Yellowknife este capitala Teritoriilor de Nord-Vest ale Canadei, situată pe țărmul nordic al Marelui Lac al Sclavilor. Este renumită pentru vizionarea aurorei boreale și pentru industria minieră de diamante.", en: "Yellowknife is the capital of Canada's Northwest Territories, located on the northern shore of Great Slave Lake. It is renowned for its excellent aurora borealis viewing and diamond mining industry." },
     descriptionAdvanced: {
       de: "Yellowknife, am Ufer des Großen Sklavensees gelegen, ist die Diamantenhauptstadt Kanadas. Die Stadt hat sich von einer Bergbausiedlung zu einem modernen Verwaltungszentrum entwickelt und ist weltweit als einer der besten Orte zur Beobachtung von Polarlichtern bekannt.",
       hu: "A Nagy-Rabszolga-tó partján fekvő Yellowknife Kanada gyémántfővárosa. A város bányásztelepülésből fejlődött modern közigazgatási központtá, és világszerte a sarki fény megfigyelésének egyik legjobb helyszíneként ismerik. Földrajz K8 – geológia.",
