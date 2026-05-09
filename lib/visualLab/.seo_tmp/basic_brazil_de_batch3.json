@@ -1,0 +1,108 @@
+{
+  "lang": "de",
+  "country": "Brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "br-amazon-river-nature-v2",
+      "description": "Der Amazonas ist der wasserreichste Fluss der Erde und das Rückgrat des größten Regenwaldes der Welt. Er prägt Transport, Klima und Alltag in weiten Teilen Nordbrasiliens.",
+      "facts": [
+        "Größter Abfluss der Welt",
+        "Zentral für den Amazonaswald",
+        "Wichtige Verkehrsader"
+      ]
+    },
+    {
+      "id": "br-sao-francisco-river-nature-v2",
+      "description": "Der Rio São Francisco ist der längste Fluss, der vollständig durch Brasilien fließt. Er verbindet das Landesinnere mit dem Atlantik und ist wichtig für Bewässerung und Energie.",
+      "facts": [
+        "Längster Fluss nur in Brasilien",
+        "Verbindet Binnenland und Küste",
+        "Wichtig für Wasserkraft"
+      ]
+    },
+    {
+      "id": "br-parana-river-nature-v2",
+      "description": "Der Paraná ist einer der wichtigsten Flüsse Südamerikas und bildet teils Grenzen zwischen Ländern der Region. Sein Wasser ist eng mit Wasserkraft, Handel und Verkehr verbunden.",
+      "facts": [
+        "Wichtiger Fluss in Südamerika",
+        "Grenzfluss in der Region",
+        "Bedeutend für Wasserkraft"
+      ]
+    },
+    {
+      "id": "br-tocantins-river-nature-v2",
+      "description": "Der Tocantins ist ein großer Strom im Inneren Brasiliens und Teil eines wichtigen Flusssystems im Norden. Er spielt eine Rolle für Energie, Transport und regionale Entwicklung.",
+      "facts": [
+        "Großer Fluss in Zentralbrasilien",
+        "Wichtig für Transport",
+        "Teil eines großen Einzugsgebiets"
+      ]
+    },
+    {
+      "id": "br-araguaia-river-nature-v2",
+      "description": "Der Araguaia ist ein markanter Fluss im Zentrum Brasiliens mit breiten Sandbänken in der Trockenzeit. Er verläuft durch das Cerrado-Gebiet und ist wichtig für die Tierwelt.",
+      "facts": [
+        "Breite Sandstrände in der Trockenzeit",
+        "Durchquert den Cerrado",
+        "Wichtig für Ökotourismus"
+      ]
+    },
+    {
+      "id": "br-negro-river-nature-v2",
+      "description": "Der Rio Negro ist ein schwarzwasserreicher Nebenfluss des Amazonas. An seiner Mündung bei Manaus entsteht das bekannte Naturschauspiel der zusammentreffenden Gewässer.",
+      "facts": [
+        "Schwarzwasserfluss",
+        "Nebenfluss des Amazonas",
+        "Bekannt für die Wassermischung bei Manaus"
+      ]
+    },
+    {
+      "id": "br-madeira-river-nature-v2",
+      "description": "Der Rio Madeira gehört zu den großen Nebenflüssen des Amazonas und ist für den Norden Brasiliens wirtschaftlich wichtig. Er wird für Schifffahrt, Energie und den Transport von Gütern genutzt.",
+      "facts": [
+        "Großer Amazonas-Nebenfluss",
+        "Wichtig für Schifffahrt",
+        "Relevant für Wasserkraft"
+      ]
+    },
+    {
+      "id": "br-tapajos-river-nature-v2",
+      "description": "Der Tapajós ist für sein klares Wasser und seine Sandstrände bekannt. Der Fluss ist ein wichtiger Teil des Amazonasraums und ein Ziel für Naturtourismus.",
+      "facts": [
+        "Klares Flusswasser",
+        "Bekannte Sandstrände",
+        "Teil des Amazonasgebiets"
+      ]
+    },
+    {
+      "id": "br-xingu-river-nature-v2",
+      "description": "Der Xingu ist ein bedeutender Fluss im Amazonasbecken und eng mit Schutzgebieten und indigenen Gebieten verbunden. Er steht für die ökologische Vielfalt des Nordens Brasiliens.",
+      "facts": [
+        "Im Amazonasbecken",
+        "Wichtig für Biodiversität",
+        "Verbunden mit indigenen Gebieten"
+      ]
+    },
+    {
+      "id": "br-iguazu-river-nature-v2",
+      "description": "Der Iguaçu ist der Fluss hinter den berühmten Iguaçu-Fällen an der Grenze zu Argentinien. Er gehört zu den bekanntesten Naturlandschaften im Süden Brasiliens.",
+      "facts": [
+        "Bildet die Iguaçu-Fälle",
+        "An der Grenze zu Argentinien",
+        "Bekanntes Naturwahrzeichen"
+      ]
+    },
+    {
+      "id": "br-mount-roraima-nature-v2",
+      "description": "Der Berg Roraima ist ein markanter Tafelberg an der Grenze von Brasilien, Venezuela und Guyana. Seine steilen Wände und die abgelegene Lage machen ihn zu einem besonderen Naturraum.",
+      "facts": [
+        "Tafelberg an der Grenze",
+        "Zwischen drei Ländern",
+        "Bekannt für endemische Arten"
+      ]
+    }
+  ]
+}

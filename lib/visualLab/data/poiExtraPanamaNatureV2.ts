@@ -17,7 +17,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/rio-tuira-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Der R?o Tuira bildet das hydrologische R?ckgrat von Dari?n und bleibt f?r viele D?rfer die einzige verl?ssliche Verbindung zwischen Regenwald, M?ndung und Pazifik. Sein breites Bett sammelt das Wasser aus schwer zug?nglichen Nebenfl?ssen, w?hrend Einb?ume und kleine Motorboote die allt?gliche Mobilit?t bestimmen. F?r Ember?- und Wounaan-Gemeinschaften ist der Fluss zugleich Verkehrsweg, Fischgrund und Orientierungslinie im dichten Wald. An der M?ndung prägen Mangroven das Bild, und die Küste reagiert sp?rbar auf Regen und Gezeiten. Geographie K8 ? Flusssysteme im tropischen Tiefland.",
+      de: "Der R?o Tuira bildet das hydrologische R?ckgrat von Dari?n und bleibt f?r viele D?rfer die einzige verlässliche Verbindung zwischen Regenwald, M?ndung und Pazifik. Sein breites Bett sammelt das Wasser aus schwer zugänglichen Nebenfl?ssen, w?hrend Einb?ume und kleine Motorboote die alltägliche Mobilit?t bestimmen. F?r Ember?- und Wounaan-Gemeinschaften ist der Fluss zugleich Verkehrsweg, Fischgrund und Orientierungslinie im dichten Wald. An der M?ndung prägen Mangroven das Bild, und die Küste reagiert spürbar auf Regen und Gezeiten. Geographie K8 ? Flusssysteme im tropischen Tiefland.",
       ro: "Râul Tuira este cea mai mare și mai impunătoare arteră fluvială din Panama, străbătând inima provinciei Darién și servind drept coloană vertebrală a transportului în această regiune sălbatică. Cu o lungime de peste 230 de kilometri, râul primește numeroși afluenți, inclusiv Chucunaque, formând un bazin hidrografic uriaș care se varsă în Golful San Miguel (Oceanul Pacific). Tuira este vital pentru comunitățile indigene Emberá și Wounaan, fiind singura cale de acces către multe sate izolate din jungla Darién-ului. Malurile sale sunt acoperite de păduri tropicale virgine, adăpostind o biodiversitate incredibilă. Din punct de vedere istoric, râul a fost o rută strategică pentru spanioli și pirați, rămânând până astăzi un simbol al naturii neîmblânzite și al importanței hidrologice a estului Panamei. Geografie K7 — Sisteme fluviale tropicale și transportul fluvial."
     },
     factsAdvanced: {
@@ -40,11 +40,11 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/rio-chucunaque-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Der R?o Chucunaque ist der m?chtige Nebenfluss des Tuira und zieht in weiten Schleifen durch das Herz von Dari?n. Er entw?ssert große Regenwaldfl?chen und zeigt in der Regenzeit ein anderes Gesicht als in der Trockenzeit, wenn das Wasser sinkt und Sandb?nke sichtbar werden. Entlang seines Laufs liegen indigene Siedlungen, Waldpfade und Gebiete, in denen der Wald noch deutlich dominiert. Das Flusssystem ist ein Schl?ssel f?r Artenvielfalt, Transport und die Versorgung abgelegener Orte. Biologie K7 ? Regenwald?kologie und Flussr?ume.",
+      de: "Der R?o Chucunaque ist der m?chtige Nebenfluss des Tuira und zieht in weiten Schleifen durch das Herz von Dari?n. Er entw?ssert große Regenwaldflächen und zeigt in der Regenzeit ein anderes Gesicht als in der Trockenzeit, wenn das Wasser sinkt und Sandb?nke sichtbar werden. Entlang seines Laufs liegen indigene Siedlungen, Waldpfade und Gebiete, in denen der Wald noch deutlich dominiert. Das Flusssystem ist ein Schlüssel f?r Artenvielfalt, Transport und die Versorgung abgelegener Orte. Biologie K7 ? Regenwald?kologie und Flussräume.",
       ro: "Râul Chucunaque este cel mai lung afluent al râului Tuira și un element geografic dominant în provincia Darién, fiind renumit pentru cursul său sinuos care șerpuiește prin junglele cele mai dense ale Americii Centrale. Acest râu joacă un rol crucial ca barieră naturală și cale de comunicație în regiunea unde lipsește autostrada Panamericană (Dopul Darién). Chucunaque traversează teritorii ancestrale indigene, fiind inima culturii fluviale a grupului Wounaan. Malurile sale sunt bogate în specii de arbori gigantici și faună exotică, inclusiv jaguari și diverse specii de caimani. Importanța sa hidrologică este imensă, drenând o suprafață vastă de pădure tropicală care contribuie la echilibrul climatic regional. Este un râu al extremelor, cu inundații puternice în sezonul ploios și o frumusețe sălbatică constantă. Geografie K7 — Geografia estului Panamei și importanța bazinelor hidrografice."
     },
     factsAdvanced: {
-      de: ["Gr??ter Nebenfluss des R?o Tuira.", "Zweitl?ngster Fluss Panamas.", "Durchquert die Provinz Dari?n.", "Wichtig f?r indigene Gemeinschaften.", "Sch?tzt ?berg?nge zwischen Wald und Auen.", "Sein Lauf bleibt stark saisonal gepr?gt."],
+      de: ["Gr??ter Nebenfluss des R?o Tuira.", "Zweitl?ngster Fluss Panamas.", "Durchquert die Provinz Dari?n.", "Wichtig f?r indigene Gemeinschaften.", "Schützt ?bergänge zwischen Wald und Auen.", "Sein Lauf bleibt stark saisonal geprägt."],
       ro: ["Principalul afluent al râului Tuira, formând împreună cel mai mare bazin din țară.", "Cursul său este caracterizat de numeroase meandre (curbe) strânse.", "Servește ca frontieră naturală între diverse zone de protecție forestieră.", "Unica cale de transport pentru produsele agricole din interiorul Darién-ului.", "Bazinul său adăpostește specii de pești endemici încă puțin studiate.", "Nivelul apei poate varia cu câțiva metri între sezonul uscat și cel ploios.", "Malurile sale sunt situri arheologice importante pentru istoria precolumbiană."]
     }
   },
@@ -63,11 +63,11 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/lago-bayano-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Der Bayano-See entstand durch den Bayano-Damm und verwandelte einen Flusslauf in einen der wichtigsten Energier?ume Panamas. Heute liegen auf dem Wasser still wirkende Buchten, Inselreste und Ufer mit H?hlen, die den Stausee von vielen anderen Binnengew?ssern unterscheiden. Die Region ist zugleich ?kologisch und sozial komplex: ?berflutung, Umsiedlungen und neue Verkehrswege geh?ren zur Geschichte dieses Ortes. F?r die Stromversorgung der Hauptstadt ist das Reservoir bis heute relevant, w?hrend die Ufer Lebensraum f?r V?gel, Reptilien und dichte Ufervegetation bleiben. Physik K8 ? Staud?mme und Wasserkraft.",
+      de: "Der Bayano-See entstand durch den Bayano-Damm und verwandelte einen Flusslauf in einen der wichtigsten Energieräume Panamas. Heute liegen auf dem Wasser still wirkende Buchten, Inselreste und Ufer mit Höhlen, die den Stausee von vielen anderen Binnengew?ssern unterscheiden. Die Region ist zugleich ?kologisch und sozial komplex: ?berflutung, Umsiedlungen und neue Verkehrswege gehören zur Geschichte dieses Ortes. F?r die Stromversorgung der Hauptstadt ist das Reservoir bis heute relevant, w?hrend die Ufer Lebensraum f?r V?gel, Reptilien und dichte Ufervegetation bleiben. Physik K8 ? Staud?mme und Wasserkraft.",
       ro: "Lacul Bayano este al doilea cel mai mare lac artificial din Panama, creat în 1976 prin bararea râului Bayano pentru a genera energie hidroelectrică vitală pentru țară. Situat în estul provinciei Panama, lacul a transformat radical peisajul regiunii, formând o întindere de apă spectaculoasă înconjurată de munți și păduri tropicale. Bayano este faimos pentru peșterile sale calcaroase spectaculoase, accesibile cu barca, unde vizitatorii pot explora formațiuni geologice subterane și pot vedea colonii de lilieci. Deși scopul său principal este industrial, lacul a devenit un hub pentru ecoturism și cercetare biologică, oferind habitat pentru numeroase păsări acvatice și specii de pești. Regiunea din jur găzduiește comunități indigene Guna și Emberá, care își păstrează stilul de viață tradițional pe malurile acestui vast rezervor. Geografie K7 — Resursele hidroelectrice și transformarea peisajului."
     },
     factsAdvanced: {
-      de: ["Zweitgr??ter See Panamas.", "Entstand 1976 durch den Bayano-Damm.", "Dient der Wasserkraftversorgung.", "Liegt in der Provinz Panam?.", "Bekannt f?r H?hlen an den Ufern.", "Prägte die Geschichte indigener Gemeinschaften."],
+      de: ["Zweitgr??ter See Panamas.", "Entstand 1976 durch den Bayano-Damm.", "Dient der Wasserkraftversorgung.", "Liegt in der Provinz Panam?.", "Bekannt f?r Höhlen an den Ufern.", "Prägte die Geschichte indigener Gemeinschaften."],
       ro: ["Acoperă o suprafață de aproximativ 350 de kilometri pătrați.", "Barajul Bayano generează o parte semnificativă din electricitatea capitalei.", "Peșterile de la Bayano sunt printre cele mai mari sisteme de caverne din Panama.", "Lacul include numeroase insule care au fost anterior vârfuri de deal.", "Un loc ideal pentru observarea vulturului pescar și a altor păsări răpitoare.", "Accesul se face de obicei prin localitatea Cañita, pe drumul spre Darién.", "Apa lacului este esențială pentru agricultură în regiunea Chepo."]
     }
   },
@@ -86,7 +86,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/isla-colon-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Isla Col?n ist die Hauptinsel des Bocas-del-Toro-Archipels und verbindet karibische Küstenlandschaft mit einer vergleichsweise lebhaften Ortsstruktur. Rund um die Insel treffen Str?nde, kleine Buchten, Wasser?taxis und touristische Infrastruktur aufeinander, ohne dass der Inselcharakter verloren geht. Der Reiz liegt im Wechsel zwischen Küste, Lagunen und kurzer Distanz zu Riffen und Nachbarinseln. F?r Besucher ist die Insel oft der Einstiegspunkt in die Region, f?r Einheimische der funktionale Mittelpunkt des Archipels. Geographie K6 ? Inselr?ume und Küstenverkehr.",
+      de: "Isla Col?n ist die Hauptinsel des Bocas-del-Toro-Archipels und verbindet karibische Küstenlandschaft mit einer vergleichsweise lebhaften Ortsstruktur. Rund um die Insel treffen Str?nde, kleine Buchten, Wasser?taxis und touristische Infrastruktur aufeinander, ohne dass der Inselcharakter verloren geht. Der Reiz liegt im Wechsel zwischen Küste, Lagunen und kurzer Distanz zu Riffen und Nachbarinseln. F?r Besucher ist die Insel oft der Einstiegspunkt in die Region, f?r Einheimische der funktionale Mittelpunkt des Archipels. Geographie K6 ? Inselräume und Küstenverkehr.",
       ro: "Isla Colón este cea mai mare și mai vibrantă insulă din arhipelagul Bocas del Toro, situată pe coasta caraibiană a Panamei. Găzduind capitala provinciei, Bocas Town, insula este punctul de plecare pentru explorarea biodiversității uimitoare a regiunii. Isla Colón este celebră pentru plajele sale de o frumusețe rară, precum Playa Estrella, unde pot fi văzute sute de stele de mare în apele puțin adânci, și Bluff Beach, un paradis pentru surferi și un loc crucial pentru cuibăritul țestoaselor marine. Interiorul insulei este acoperit de păduri tropicale verzi, unde pot fi observați leneși și maimuțe, în timp ce coastele sale sunt mărginite de recife de corali vibrante. Mixul cultural afro-caraibian, arhitectura colorată din lemn și natura exuberantă fac din Isla Colón una dintre cele mai populare destinații ecoturistice din America Centrală. Geografie K7 — Ecosisteme insulare și turism sustenabil."
     },
     factsAdvanced: {
@@ -109,7 +109,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/isla-bastimentos-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Isla Bastimentos wirkt ruhiger und wilder als die st?rker besuchte Nachbarinsel Isla Col?n. Mangroven, feuchte Waldst?cke und Küstenabschnitte mit Riffen formen hier einen Lebensraum, in dem Meer und Land eng ineinandergreifen. Der Meeresnationalpark sch?tzt genau dieses Mosaik aus Wasser, Wurzeln und Str?nden, das f?r Amphibien, V?gel und Fische wichtig ist. Der bekannte Red Frog Beach ist nur ein Teil dieser Inselwelt; ebenso prägend sind die Wege ohne Autos und die sehr direkte Erfahrung der Küste. Biologie K7 ? Mangroven und Küsten?kosysteme.",
+      de: "Isla Bastimentos wirkt ruhiger und wilder als die stärker besuchte Nachbarinsel Isla Col?n. Mangroven, feuchte Waldst?cke und Küstenabschnitte mit Riffen formen hier einen Lebensraum, in dem Meer und Land eng ineinandergreifen. Der Meeresnationalpark schützt genau dieses Mosaik aus Wasser, Wurzeln und Str?nden, das f?r Amphibien, V?gel und Fische wichtig ist. Der bekannte Red Frog Beach ist nur ein Teil dieser Inselwelt; ebenso prägend sind die Wege ohne Autos und die sehr direkte Erfahrung der Küste. Biologie K7 ? Mangroven und Küsten?kosysteme.",
       ro: "Isla Bastimentos este una dintre cele mai mari și mai bine conservate insule din Bocas del Toro, găzduind celebrul Parc Național Marin Isla Bastimentos. Această insulă oferă un contrast fascinant între plajele sălbatice bătute de valurile Atlanticului, precum faimoasa Red Frog Beach, și apele liniștite ale mangrovelor din sud. Insula este renumită pentru biodiversitatea sa endemică, inclusiv micile broaște roșii de săgeată (Oophaga pumilio) care i-au dat numele plajei. Bastimentos păstrează o atmosferă autentică în comunitatea Old Bank, unde se vorbește limba Guari-Guari, un dialect local unic. Cu recife de corali spectaculoase în zone precum Cayo Zapatilla și păduri tropicale virgine, insula este un sanctuar neprețuit pentru conservarea speciilor marine și terestre din Caraibele panameze. Științe Naturale K8 — Parcuri naționale marine și specii endemice."
     },
     factsAdvanced: {
@@ -131,7 +131,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Encompasses Darién National Park.", "UNESCO World Heritage Site.", "Inmense biodiversity.", "Habitat for indigenous peoples."]
     },
     descriptionAdvanced: {
-      de: "Der Dari?n-Regenwald steht f?r eine Landschaft, in der der Wald noch immer den Takt vorgibt und nicht die Straße. Zwischen Grenzraum, Flüssen und feuchten Niederungen entsteht ein schwer zug?nglicher Naturraum, der zu den artenreichsten Gebieten Mittelamerikas z?hlt. Hier treffen große Schutzgebiete, indigene Lebensr?ume und eine extrem ungleich verteilte Erschlie?ung aufeinander. Genau diese Mischung macht den Reiz und die Zerbrechlichkeit des Gebietes aus. Wer Dari?n betrachtet, sieht nicht nur einen Wald, sondern ein ganzes System aus Wasser, Boden, Schatten und Mobilit?t. Biologie K8 ? tropische Biodiversit?t.",
+      de: "Der Dari?n-Regenwald steht f?r eine Landschaft, in der der Wald noch immer den Takt vorgibt und nicht die Straße. Zwischen Grenzraum, Flüssen und feuchten Niederungen entsteht ein schwer zugänglicher Naturraum, der zu den artenreichsten Gebieten Mittelamerikas z?hlt. Hier treffen große Schutzgebiete, indigene Lebensräume und eine extrem ungleich verteilte Erschließung aufeinander. Genau diese Mischung macht den Reiz und die Zerbrechlichkeit des Gebietes aus. Wer Dari?n betrachtet, sieht nicht nur einen Wald, sondern ein ganzes System aus Wasser, Boden, Schatten und Mobilit?t. Biologie K8 ? tropische Biodiversit?t.",
       ro: "Parcul Național Darién, situat la granița cu Columbia, este cea mai mare zonă protejată din Panama și din întreaga Americă Centrală, fiind declarat Patrimoniu Mondial și Rezervație a Biosferei de către UNESCO. Această vastă întindere de peste 570.000 de hectare cuprinde o diversitate incredibilă de habitate, de la plaje nisipoase și coaste stâncoase la mangrove, mlaștini și păduri tropicale de munte. Darién este 'podul biologic' care unește America de Nord de America de Sud, adăpostind specii rare și pe cale de dispariție, precum Vulturul Harpie, jaguarul și tapirul lui Baird. Parcul este, de asemenea, casa comunităților indigene Emberá, Wounaan și Guna, care trăiesc în armonie cu natura folosind tehnici ancestrale. Este una dintre ultimele frontiere sălbatice ale lumii, un tezaur neprețuit de biodiversitate și cultură. Științe Naturale K8 — Rezervații ale biosferei și coridoare biologice continentale."
     },
     factsAdvanced: {
@@ -154,7 +154,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/isla-del-rey-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Isla del Rey ist die gr??te Insel der Perleninseln und steht f?r die eher l?ndliche, weitl?ufige Seite des Golfs von Panama. Zwischen H?geln, kleinen Orten und Küstenlinien ist die Insel weniger mond?n als andere Namen der Region, daf?r aber st?rker von Fischerei, Landwirtschaft und allt?glicher Schifffahrt gepr?gt. Ihre Lage macht sie zu einem wichtigen Bezugspunkt f?r das Verst?ndnis des Archipels, weil hier Gr??e, Entfernung und Versorgung besonders deutlich werden. Geographie K6 ? Inseln im Pazifik.",
+      de: "Isla del Rey ist die gr??te Insel der Perleninseln und steht f?r die eher l?ndliche, weitläufige Seite des Golfs von Panama. Zwischen H?geln, kleinen Orten und Küstenlinien ist die Insel weniger mond?n als andere Namen der Region, daf?r aber stärker von Fischerei, Landwirtschaft und alltäglicher Schifffahrt geprägt. Ihre Lage macht sie zu einem wichtigen Bezugspunkt f?r das Verst?ndnis des Archipels, weil hier Gr??e, Entfernung und Versorgung besonders deutlich werden. Geographie K6 ? Inseln im Pazifik.",
       ro: "Isla del Rey este cea mai mare insulă din Arhipelagul Las Perlas (Insulele Perlelor) în Golful Panama, având o dimensiune care o depășește pe cea a multor țări insulare mici. Cu o istorie care datează de la cucerirea spaniolă, când era celebră pentru perlele uriașe găsite în apele sale, insula a rămas o zonă de o frumusețe sălbatică și o biodiversitate marină remarcabilă. Deși este mai puțin dezvoltată turistic decât vecina sa Contadora, Isla del Rey oferă plaje virgine întinse, estuare bogate în mangrove și păduri tropicale care adăpostesc numeroase specii de păsări. Economia locală se bazează pe pescuitul artizanal și pe agricultura de subzistență în localități precum San Miguel. Apele din jurul insulei sunt puncte cheie pentru observarea balenelor cu cocoașă în timpul sezonului de migrație, reprezentând un ecosistem critic în Pacificul panamez. Geografie K7 — Arhipelagurile din Pacific și economia perlelor."
     },
     factsAdvanced: {
@@ -177,11 +177,11 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/isla-contadora-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Isla Contadora ist die bekannteste Insel der Perleninseln und wurde früh zu einem Synonym f?r kuratierte Küstenlandschaft und gehobenen Inselurlaub. Kleine Landebahn, Str?nde und kompakte Infrastruktur machen sie zur logistischen Ausnahme im Archipel. Der Name taucht oft im Zusammenhang mit R?ckzug, Privatsph?re und internationaler Prominenz auf, doch geographisch bleibt die Insel vor allem ein ?berschaubarer Knotenpunkt im Pazifik. Wer den Ort versteht, erkennt den Kontrast zwischen großer Insellage und sehr konzentrierter Nutzung. Geographie K6 ? Touristische Inselr?ume.",
+      de: "Isla Contadora ist die bekannteste Insel der Perleninseln und wurde früh zu einem Synonym f?r kuratierte Küstenlandschaft und gehobenen Inselurlaub. Kleine Landebahn, Str?nde und kompakte Infrastruktur machen sie zur logistischen Ausnahme im Archipel. Der Name taucht oft im Zusammenhang mit R?ckzug, Privatsph?re und internationaler Prominenz auf, doch geographisch bleibt die Insel vor allem ein ?berschaubarer Knotenpunkt im Pazifik. Wer den Ort versteht, erkennt den Kontrast zwischen großer Insellage und sehr konzentrierter Nutzung. Geographie K6 ? Touristische Inselräume.",
       ro: "Isla Contadora este perla turistică a Arhipelagului Las Perlas, renumită pentru plajele sale de nisip alb fin și apele cristaline de un smarald orbitor. Numele său provine din perioada colonială, când aici se 'numărau' perlele colectate din arhipelag înainte de a fi trimise în Spania. Astăzi, Contadora este o destinație de lux care îmbină facilitățile moderne cu natura exuberantă, fiind faimoasă pentru cele 13 plaje ale sale, unele dintre ele fiind considerate printre cele mai bune din Panama pentru snorkeling și relaxare. Insula este, de asemenea, o bază de top pentru observarea balenelor cu cocoașă între iulie și octombrie, oferind o experiență de neuitat în inima Oceanului Pacific. Cu o atmosferă exclusivistă și o viață marină bogată, Contadora rămâne un simbol al eleganței naturale panameze. Geografie K7 — Turismul insular și istoria colonială a perlelor."
     },
     factsAdvanced: {
-      de: ["Tourismuszentrum der Perleninseln.", "Bekannt f?r exklusive Resorts.", "Verf?gt ?ber eine kleine Landebahn.", "Ehemaliger Zufluchtsort des Schahs von Persien.", "Liegt im Golf von Panama.", "Teil des Perlenarchipels."],
+      de: ["Tourismuszentrum der Perleninseln.", "Bekannt f?r exklusive Resorts.", "Verfügt ?ber eine kleine Landebahn.", "Ehemaliger Zufluchtsort des Schahs von Persien.", "Liegt im Golf von Panama.", "Teil des Perlenarchipels."],
       ro: ["A găzduit semnarea tratatelor istorice ale Grupului Contadora pentru pace.", "Insula nu are surse naturale de apă dulce, depinzând de desalinizare și ploaie.", "Singura insulă din arhipelag cu o infrastructură turistică dezvoltată.", "Plaja Galeón este poarta de intrare pentru avioanele mici și feriboturi.", "Unul dintre cele mai bune locuri din Panama pentru scufundări de agrement.", "Frecventată de vedete internaționale și politicieni pentru discreția sa.", "Apele din jur au furnizat celebra perlă 'La Peregrina' deținută de Elizabeth Taylor."]
     }
   },
@@ -200,11 +200,11 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/golfo-de-chiriqui-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Der Golf von Chiriqu? ist ein maritimer Raum, in dem Inseln, Riffe und gesch?tzte Gew?sser eng zusammenliegen. Vor allem der Coiba-Nationalpark hat die Region international sichtbar gemacht, weil hier Pazifikinseln, Unterwasserlebensr?ume und Beobachtungsgebiete f?r Meeress?uger aufeinandertreffen. F?r Fischer, Taucher und Bootsfahrten ist der Golf ein vielschichtiger Arbeits- und Erfahrungsraum, der nicht nur aus einer Küstenlinie besteht, sondern aus einem ganzen Archipel. Geographie K7 ? Küstenmeere und Inselr?ume.",
+      de: "Der Golf von Chiriqu? ist ein maritimer Raum, in dem Inseln, Riffe und geschützte Gewässer eng zusammenliegen. Vor allem der Coiba-Nationalpark hat die Region international sichtbar gemacht, weil hier Pazifikinseln, Unterwasserlebensräume und Beobachtungsgebiete f?r Meeress?uger aufeinandertreffen. F?r Fischer, Taucher und Bootsfahrten ist der Golf ein vielschichtiger Arbeits- und Erfahrungsraum, der nicht nur aus einer Küstenlinie besteht, sondern aus einem ganzen Archipel. Geographie K7 ? Küstenmeere und Inselräume.",
       ro: "Golful Chiriquí, situat de-a lungul coastei de vest a Panamei, este unul dintre cele mai bogate și diverse ecosisteme marine din lume, protejând numeroase insule, recife de corali și zone vaste de mangrove. Parcul Național Marin Golful Chiriquí, inima acestei regiuni, adăpostește mii de specii marine și este un sanctuar vital pentru reproducerea balenelor cu cocoașă care sosesc din ambele emisfere. Insulele din golf, precum Islas Secas sau Isla Parida, oferă plaje virgine de un alb imaculat și ape ideale pentru snorkeling, unde pot fi văzuți rechini de recif, pisici de mare și pești tropicali multicolori. Golful este, de asemenea, renumit la nivel mondial pentru pescuitul sportiv 'catch and release', fiind un motor economic major pentru provincia Chiriquí. Conservarea acestui golf este esențială pentru menținerea biodiversității în Pacificul de Est. Științe Naturale K8 — Biodiversitatea marină și conservarea oceanelor."
     },
     factsAdvanced: {
-      de: ["Beherbergt den Coiba-Nationalpark.", "Wichtig f?r Walbeobachtung.", "Vielf?ltige Korallenriffe.", "Beliebt zum Sportfischen.", "Liegt an der Pazifikk?ste Panamas.", "Umfasst zahlreiche Inseln."],
+      de: ["Beherbergt den Coiba-Nationalpark.", "Wichtig f?r Walbeobachtung.", "Vielf?ltige Korallenriffe.", "Beliebt zum Sportfischen.", "Liegt an der Pazifikküste Panamas.", "Umfasst zahlreiche Inseln."],
       ro: ["Include peste 25 de insule mari și numeroase insulițe stâncoase.", "Unul dintre puținele locuri unde balenele cu cocoașă vin să fete.", "Protejează mlaștini de mangrove care sunt 'creșe' naturale pentru pești.", "Renumit pentru faimosul banc de nisip Hannibal Bank, bogat în viață marină.", "Găzduiește țestoase marine care vin să se hrănească în recifele de corali.", "Turismul în golf este axat pe sustenabilitate și impact minim asupra mediului.", "Apele golfului sunt mai calde și mai calme decât în alte zone ale Pacificului."]
     }
   },
@@ -223,11 +223,11 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/golfo-de-san-miguel-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Der Golf von San Miguel markiert den s?d?stlichen Zugang des Pazifiks in Dari?n und ist eng mit der Flussm?ndung des Tuira verbunden. Hier zeigen sich Mangroven, Sedimente und Gezeiten in einem klar lesbaren Küstenbild, das f?r Fischerei und Schifffahrt gleicherma?en wichtig ist. Der Golf ist auch historisch aufgeladen, weil er in den Erz?hlungen ?ber die erste Sichtung des Pazifiks durch Balboa auftaucht. So verbindet er Naturraum und Entdeckungsgeschichte auf engem Raum. Geschichte K8 ? Küstenr?ume der Kolonialzeit.",
+      de: "Der Golf von San Miguel markiert den s?d?stlichen Zugang des Pazifiks in Dari?n und ist eng mit der Flussm?ndung des Tuira verbunden. Hier zeigen sich Mangroven, Sedimente und Gezeiten in einem klar lesbaren Küstenbild, das f?r Fischerei und Schifffahrt gleicherma?en wichtig ist. Der Golf ist auch historisch aufgeladen, weil er in den Erz?hlungen ?ber die erste Sichtung des Pazifiks durch Balboa auftaucht. So verbindet er Naturraum und Entdeckungsgeschichte auf engem Raum. Geschichte K8 ? Küstenräume der Kolonialzeit.",
       ro: "Golful San Miguel, situat în provincia Darién, este locul istoric unde Vasco Núñez de Balboa a văzut pentru prima dată Oceanul Pacific în 1513, numindu-l 'Marea Sudului'. Acest golf vast reprezintă estuarul unde se varsă marile râuri Tuira și Sabanas, creând un mediu marin unic caracterizat de variații extreme de maree și de unele dintre cele mai înalte mangrove din lume. Regiunea este o zonă de o importanță ecologică critică, servind drept coridor între ocean și junglele virgine din interiorul Darién-ului. Biodiversitatea sa include numeroase specii de păsări marine, delfini și o faună piscicolă abundentă care susține comunitățile locale. Golful San Miguel rămâne una dintre cele mai izolate și mai puțin explorate zone de coastă din Panama, păstrând o aură de mister și o sălbăticie aproape intactă de secole. Istorie K8 — Descoperirea Pacificului și estuarele tropicale."
     },
     factsAdvanced: {
-      de: ["M?ndungsgebiet des R?o Tuira.", "Große Mangrovenw?lder.", "Wichtig f?r die lokale Fischerei.", "Historisch mit Balboa verbunden.", "Lage in der Provinz Dari?n.", "Teil der Pazifikk?ste Panamas."],
+      de: ["M?ndungsgebiet des R?o Tuira.", "Große Mangrovenw?lder.", "Wichtig f?r die lokale Fischerei.", "Historisch mit Balboa verbunden.", "Lage in der Provinz Dari?n.", "Teil der Pazifikküste Panamas."],
       ro: ["Locul geografic al primei vederi europene asupra Pacificului din America.", "Înregistrează maree care pot atinge o diferență de peste 6 metri.", "Include insula Iguana (a nu se confunda cu cea din Los Santos) și alte formațiuni.", "Este poarta maritimă de acces către inima junglei Darién.", "Găzduiește populații de balene cu cocoașă în timpul sezonului de împerechere.", "Vegetația de mangrove de aici acționează ca un filtru natural uriaș.", "O zonă strategică pentru pescuitul artizanal de creveți și pește de mare."]
     }
   },
@@ -245,11 +245,11 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Protected forest reserve.", "Offers panoramic views of the city.", "Symbol of Panamanian sovereignty.", "Home to toucans and sloths."]
     },
     descriptionAdvanced: {
-      de: "Der Cerro Anc?n ragt als bewaldeter H?gel direkt ?ber Panama-Stadt auf und macht sichtbar, wie nah Gro?stadt und Natur in der Hauptstadt zusammenliegen. Vom Gipfel aus lassen sich Kanalzone, Skyline und Küstenlinie ?berblicken, w?hrend unten schon der dichte Verkehr beginnt. Der Ort ist zugleich Schutzgebiet, Aussichtspunkt und Symbol nationaler Identit?t, nicht zuletzt wegen der großen Flagge am Hang. Zwischen Stadtwald, offenen Blickachsen und stadtnaher Tierwelt hat der H?gel einen besonderen Stellenwert. Geographie K6 ? Stadtlandschaften und Schutzr?ume.",
+      de: "Der Cerro Anc?n ragt als bewaldeter H?gel direkt ?ber Panama-Stadt auf und macht sichtbar, wie nah Großstadt und Natur in der Hauptstadt zusammenliegen. Vom Gipfel aus lassen sich Kanalzone, Skyline und Küstenlinie ?berblicken, w?hrend unten schon der dichte Verkehr beginnt. Der Ort ist zugleich Schutzgebiet, Aussichtspunkt und Symbol nationaler Identit?t, nicht zuletzt wegen der großen Flagge am Hang. Zwischen Stadtwald, offenen Blickachsen und stadtnaher Tierwelt hat der H?gel einen besonderen Stellenwert. Geographie K6 ? Stadtlandschaften und Schutzräume.",
       ro: "Cerro Ancón este cel mai înalt punct din Ciudad de Panama și un simbol puternic al suveranității naționale, oferind cea mai spectaculoasă vedere asupra capitalei, a canalului și a podului Americilor. Acest deal, acoperit de o pădure tropicală luxuriantă, a fost timp de aproape un secol sub jurisdicție americană ca parte a Zonei Canalului, fiind returnat Panamei în 1977. Astăzi, dealul este o zonă protejată unde pot fi observați leneși, căprioare, maimuțe și peste 200 de specii de păsări chiar în mijlocul metropolei. În vârful său flutură un drapel gigant al Panamei, vizibil din aproape orice punct al orașului. Cerro Ancón nu este doar un plămân verde esențial pentru capitală, ci și un monument istoric viu care amintește de lupta națiunii pentru integritate teritorială. Istorie K8 — Suveranitatea națională și conservarea urbană."
     },
     factsAdvanced: {
-      de: ["Gesch?tztes Waldgebiet in Panama-Stadt.", "Symbol der panamaischen Souver?nit?t.", "Bietet Panoramablick auf die Stadt.", "Heimat von Tukanen und Faultieren.", "Liegt nahe der Kanalzone.", "Markanter H?gel ?ber der Hauptstadt."],
+      de: ["Geschütztes Waldgebiet in Panama-Stadt.", "Symbol der panamaischen Souver?nit?t.", "Bietet Panoramablick auf die Stadt.", "Heimat von Tukanen und Faultieren.", "Liegt nahe der Kanalzone.", "Markanter H?gel ?ber der Hauptstadt."],
       ro: ["Înălțime de 199 de metri deasupra nivelului mării.", "Drapelul din vârf are mărimea unui teren de baschet.", "A servit drept punct strategic de observație în timpul construcției canalului.", "Drumul spre vârf este închis traficului auto pentru a proteja fauna.", "Declarat Patrimoniu Istoric și Zonă Naturală Protejată.", "Numele provine de la nava 'Ancón', prima care a tranzitat oficial canalul.", "Un loc preferat pentru exerciții fizice și observarea păsărilor migratoare."]
     }
   },
@@ -267,7 +267,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["The only tropical forest within a capital city.", "An important 'green lung' for the city.", "Numerous hiking trails.", "Home to monkeys, agoutis, and birds."]
     },
     descriptionAdvanced: {
-      de: "Der Metropolitan Naturpark ist ein ungew?hnlicher Fall von tropischem Wald mitten in einer Hauptstadt. Statt Randlage oder abgelegener Schutzgebiete liegt hier ein echtes Waldst?ck im unmittelbaren Stadtraum von Panama-Stadt, mit Wanderwegen, Aussichtspunkten und tierischen Begegnungen. Affen, Agutis und zahlreiche V?gel machen den Park zu einem wichtigen Lernort f?r urbane ?kologie. Zugleich ist er eine grüne Reserve, die Klima, Artenvielfalt und Freizeitnutzung in Balance h?lt. Biologie K6 ? Stadtnatur im Tropenraum.",
+      de: "Der Metropolitan Naturpark ist ein ungewöhnlicher Fall von tropischem Wald mitten in einer Hauptstadt. Statt Randlage oder abgelegener Schutzgebiete liegt hier ein echtes Waldst?ck im unmittelbaren Stadtraum von Panama-Stadt, mit Wanderwegen, Aussichtspunkten und tierischen Begegnungen. Affen, Agutis und zahlreiche V?gel machen den Park zu einem wichtigen Lernort f?r urbane ?kologie. Zugleich ist er eine grüne Reserve, die Klima, Artenvielfalt und Freizeitnutzung in Balance h?lt. Biologie K6 ? Stadtnatur im Tropenraum.",
       ro: "Parcul Natural Metropolitan este singura pădure tropicală protejată din America Latină situată în interiorul limitelor unui oraș metropolitan, fiind considerat 'plămânul Ciudad de Panama'. Cu o suprafață de 232 de hectare, parcul oferă un habitat vital pentru fauna sălbatică, incluzând leneși, maimuțe Titi și sute de specii de păsări tropicale care coexistă cu zgârie-norii din apropiere. Traseele de drumeție, precum 'El Mono Tití', duc spre puncte de observație unde vizitatorii pot admira contrastul uimitor între jungla densă și orizontul modern al orașului. Parcul joacă un rol crucial în educația ecologică și în cercetarea științifică, fiind administrat de un patronat dedicat conservării biodiversității urbane. Este o dovadă vie a angajamentului Panamei de a menține un echilibru între dezvoltarea economică rapidă și protejarea patrimoniului său natural unic. Științe Naturale K8 — Biodiversitatea urbană și protecția pădurilor tropicale."
     },
     factsAdvanced: {
@@ -289,11 +289,11 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Encloses numerous islands.", "Important site for mangroves.", "Sheltered waters.", "Key habitat for manatees."]
     },
     descriptionAdvanced: {
-      de: "Die Chiriqu?-Lagune ist kein offenes Meer, sondern ein karibisch gepr?gter, gesch?tzter Wasserraum mit Inseln, Mangroven und ruhigen Verbindungen zum Festland. Genau diese Kombination macht das Gebiet ?kologisch wertvoll, weil hier Küstenfische, Seegrasfl?chen und gr??ere Meerestiere denselben Raum nutzen. Die Lagune funktioniert wie ein natürlicher Puffer zwischen Brandung und Land und gehört zu den Orten, an denen die Küstenstruktur besonders gut lesbar ist. Geographie K7 ? Lagunen und Küsten?kologie.",
+      de: "Die Chiriqu?-Lagune ist kein offenes Meer, sondern ein karibisch geprägter, geschützter Wasserraum mit Inseln, Mangroven und ruhigen Verbindungen zum Festland. Genau diese Kombination macht das Gebiet ?kologisch wertvoll, weil hier Küstenfische, Seegrasflächen und gr??ere Meerestiere denselben Raum nutzen. Die Lagune funktioniert wie ein natürlicher Puffer zwischen Brandung und Land und gehört zu den Orten, an denen die Küstenstruktur besonders gut lesbar ist. Geographie K7 ? Lagunen und Küsten?kologie.",
       ro: "Laguna de Chiriquí este o vastă întindere de apă protejată situată în provincia Bocas del Toro, pe coasta caraibiană, fiind separată de mare de arhipelagul Bocas. Această lagună spectaculoasă este mărginită de munți înalți și păduri tropicale virgine, creând un peisaj de o frumusețe dramatică unde natura rămâne aproape neatinsă. Apele sale adânci și calme sunt ideale pentru navigație și adăpostesc ecosisteme de corali și iarbă marină esențiale pentru viața marină. Laguna este, de asemenea, un punct logistic important, găzduind terminalul petrolier de la Chiriquí Grande, unde se termină conducta transisthmică. Pentru călători, laguna oferă acces către comunități indigene izolate și oportunități de observare a delfinilor și a manatilor, reprezentând una dintre zonele cele mai bogate în resurse naturale și peisaje sălbatice din Panama. Geografie K7 — Laguna de coastă și resursele naturale strategice."
     },
     factsAdvanced: {
-      de: ["Liegt in Bocas del Toro.", "Umschlie?t zahlreiche Inseln.", "Wichtiger Mangrovenraum.", "Gesch?tzte Gew?sser.", "Lebensraum f?r Seek?he.", "Teil der Karibikk?ste Panamas."],
+      de: ["Liegt in Bocas del Toro.", "Umschlie?t zahlreiche Inseln.", "Wichtiger Mangrovenraum.", "Geschützte Gewässer.", "Lebensraum f?r Seek?he.", "Teil der Karibikküste Panamas."],
       ro: ["Unul dintre cele mai mari și mai adânci sisteme de lagună din Panama.", "Protejată de vânturile puternice de către arhipelagul Bocas del Toro.", "Include terminalul maritim vital de la Chiriquí Grande.", "Apele sunt bogate în specii de pești de mare valoare comercială.", "Zona este înconjurată de Rezervația Forestieră Palo Seco.", "Un loc critic pentru conservarea vacii de mare (manati) din Caraibe.", "Malurile sale găzduiesc comunități tradiționale Ngäbe-Buglé."]
     }
   },
@@ -312,11 +312,11 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/rio-balsas-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Der R?o Balsas ist ein wichtiger Flussraum im Dari?n, der das Netz der Nebenfl?sse des Tuira erg?nzt und Regenwaldfl?chen miteinander verbindet. F?r die Region ist er weniger als touristischer Name relevant, sondern als praktischer Wasser- und Transportkorridor in einem schwer erschlossenen Gebiet. Seine Ufer stehen exemplarisch f?r den ?bergang zwischen dichter Vegetation, Fischgr?nden und kleinen Siedlungsr?umen. Wer den Balsas betrachtet, sieht einen typischen Fluss des ?stlichen Panama: abgelegen, biodivers und funktional. Geographie K7 ? Flüsse im tropischen Tiefland.",
+      de: "Der R?o Balsas ist ein wichtiger Flussraum im Dari?n, der das Netz der Nebenfl?sse des Tuira ergänzt und Regenwaldflächen miteinander verbindet. F?r die Region ist er weniger als touristischer Name relevant, sondern als praktischer Wasser- und Transportkorridor in einem schwer erschlossenen Gebiet. Seine Ufer stehen exemplarisch f?r den ?bergang zwischen dichter Vegetation, Fischgr?nden und kleinen Siedlungsräumen. Wer den Balsas betrachtet, sieht einen typischen Fluss des ?stlichen Panama: abgelegen, biodivers und funktional. Geographie K7 ? Flüsse im tropischen Tiefland.",
       ro: "Râul Balsas este unul dintre principalii afluenți ai sistemului fluvial Tuira din provincia Darién, jucând un rol esențial în drenajul junglei virgine din sud-estul Panamei. Numele său provine de la lemnul de balsa, ușor și rezistent, care crește abundent pe malurile sale și care a fost utilizat istoric pentru construcția plutelor de către indigeni. Râul traversează zone de o sălbăticie extremă, fiind accesibil doar cu ambarcațiuni mici (piraguas), și este o arteră vitală pentru biodiversitatea Parcului Național Darién. Apele sale cristaline în amonte și tulburi în zonele joase adăpostesc o faună acvatică bogată, inclusiv specii endemice de pești. Explorarea râului Balsas oferă o incursiune în inima 'Dopului Darién', oferind perspective asupra modului în care comunitățile locale depind de resursele fluviale pentru viața de zi cu zi. Geografie K7 — Geografia Darién-ului și resursele forestiere."
     },
     factsAdvanced: {
-      de: ["Wichtiger Nebenfluss des Tuira.", "Flie?t durch unber?hrten Regenwald.", "Wichtig f?r den Transport in der Region.", "Reich an S??wasserfischen.", "Liegt in der Provinz Dari?n.", "Verbunden mit indigenen Lebensr?umen."],
+      de: ["Wichtiger Nebenfluss des Tuira.", "Flie?t durch unber?hrten Regenwald.", "Wichtig f?r den Transport in der Region.", "Reich an S??wasserfischen.", "Liegt in der Provinz Dari?n.", "Verbunden mit indigenen Lebensräumen."],
       ro: ["Afluent major al râului Tuira, situat în districtul Chepigana.", "Râul șerpuiește prin unele dintre cele mai dense păduri tropicale din lume.", "Lemnul de balsa extras de aici a fost vital pentru navigația indigenă timpurie.", "Include cascade și repezișuri spectaculoase în cursul său superior.", "Zonă de habitat pentru maimuța urlătoare și tapir.", "Crucial pentru aprovizionarea cu apă a biodiversității din sudul Darién-ului.", "Navigația pe râu depinde strict de cunoștințele ghizilor locali indigeni."]
     }
   },
@@ -339,7 +339,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       ro: "Isla Escudo de Veraguas este o bijuterie izolată în Marea Caraibilor, situată în largul coastei Golfului Chiriquí, fiind considerată unul dintre cele mai prețioase sanctuare naturale ale Panamei. Deși aparține administrativ regiunii indigene Ngäbe-Buglé, izolarea sa la 17 kilometri de continent a permis evoluția unor specii endemice unice, cea mai faimoasă fiind leneșul pitic cu trei degete (Bradypus pygmaeus), care se găsește exclusiv pe această insulă. Peisajul insulei este desprins din basme, cu plaje de nisip alb, ape turcoaz cristaline și o rețea de canale de mangrove care pătrund în interiorul pădurii. Escudo de Veraguas nu este doar un paradis vizual, ci un sit de o importanță biologică globală, reprezentând un exemplu rar de endemism insular tropical ce necesită măsuri stricte de protecție împotriva turismului necontrolat. Științe Naturale K8 — Endemismul insular și speciile în pericol critic."
     },
     factsAdvanced: {
-      de: ["Heimat des endemischen Dreifinger-Faultiers.", "Seit etwa 9000 Jahren vom Festland isoliert.", "Mangroven und Korallenriffe.", "Unbewohnte Insel.", "Liegt vor der Karibikk?ste Panamas.", "Ein Schl?sselort f?r Endemismus."],
+      de: ["Heimat des endemischen Dreifinger-Faultiers.", "Seit etwa 9000 Jahren vom Festland isoliert.", "Mangroven und Korallenriffe.", "Unbewohnte Insel.", "Liegt vor der Karibikküste Panamas.", "Ein Schlüsselort f?r Endemismus."],
       ro: ["Singurul loc din lume unde trăiește leneșul pitic cu trei degete.", "Insula este un sit sacru pentru poporul indigen Ngäbe.", "Include peșteri marine și formațiuni stâncoase sculptate de valuri.", "Apele din jur sunt incredibil de bogate în corali și viață marină.", "Nu există așezări umane permanente, fiind vizitată doar de pescari sezonieri.", "Recent declarată zonă protejată cu regim special de conservare.", "Un laborator natural pentru studiul evoluției mamiferelor izolate."]
     }
   },
@@ -357,10 +357,10 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Protects the continental divide.", "Over 300 bird species.", "Many hiking trails and waterfalls.", "Important source of rivers."]
     }, image: "/poi-images/parque-nacional-santa-fe-forest-v2.webp",
     descriptionAdvanced: {
-      de: "Der Nationalpark Santa F? sch?tzt ein gebirgiges St?ck Veraguas, in dem Flüsse, Nebelwald und Wasserf?lle eng zusammengeh?ren. Der Park liegt in einem ?bergangsraum zwischen feuchten Bergw?ldern und wasserreichen T?lern, weshalb hier viele Vogelarten und Quellgebiete konzentriert sind. F?r Wanderer ist er vor allem ein Ort langer Pfade und klarer H?henunterschiede, f?r die Region ein wichtiger Wasserspeicher. Biologie K7 ? Bergregenwald und Quellschutz."
+      de: "Der Nationalpark Santa F? schützt ein gebirgiges Stück Veraguas, in dem Flüsse, Nebelwald und Wasserf?lle eng zusammengehören. Der Park liegt in einem ?bergangsraum zwischen feuchten Bergw?ldern und wasserreichen T?lern, weshalb hier viele Vogelarten und Quellgebiete konzentriert sind. F?r Wanderer ist er vor allem ein Ort langer Pfade und klarer Höhenunterschiede, f?r die Region ein wichtiger Wasserspeicher. Biologie K7 ? Bergregenwald und Quellschutz."
     },
     factsAdvanced: {
-      de: ["Sch?tzt die kontinentale Wasserscheide.", "?ber 300 Vogelarten.", "Viele Wanderwege und Wasserf?lle.", "Wichtiger Quellort f?r Flüsse.", "Liegt in der Provinz Veraguas.", "Gebirgiger Nationalpark."]
+      de: ["Schützt die kontinentale Wasserscheide.", "?ber 300 Vogelarten.", "Viele Wanderwege und Wasserf?lle.", "Wichtiger Quellort f?r Flüsse.", "Liegt in der Provinz Veraguas.", "Gebirgiger Nationalpark."]
     }
   },
   {
@@ -377,10 +377,10 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Part of the crater rim.", "Protects the cloud forest.", "Key habitat for the golden frog.", "Offers great views of the valley."]
     }, image: "/poi-images/cerro-gaital-mountain-v2.webp",
     descriptionAdvanced: {
-      de: "Der Cerro Gaital erhebt sich ?ber dem Valle de Ant?n und gehört zu den markantesten Punkten des alten Kraterrandes. Sein Nebelwald ist nicht nur landschaftlich prägend, sondern auch ?kologisch sensibel, weil hier Arten leben, die auf feuchte H?henlagen angewiesen sind. Der Berg verbindet Panorama, Schutzgebiet und geologische Geschichte in einem vergleichsweise kompakten Raum. Gerade die N?he zum Tal macht ihn zu einem guten Beispiel f?r ?berg?nge zwischen Siedlungsraum und Bergnatur. Geographie K7 ? Vulkankrater und Nebelwald."
+      de: "Der Cerro Gaital erhebt sich ?ber dem Valle de Ant?n und gehört zu den markantesten Punkten des alten Kraterrandes. Sein Nebelwald ist nicht nur landschaftlich prägend, sondern auch ?kologisch sensibel, weil hier Arten leben, die auf feuchte Höhenlagen angewiesen sind. Der Berg verbindet Panorama, Schutzgebiet und geologische Geschichte in einem vergleichsweise kompakten Raum. Gerade die N?he zum Tal macht ihn zu einem guten Beispiel f?r ?bergänge zwischen Siedlungsraum und Bergnatur. Geographie K7 ? Vulkankrater und Nebelwald."
     },
     factsAdvanced: {
-      de: ["Teil des Kraterrandes von El Valle.", "Sch?tzt den Nebelwald.", "Wichtiger Lebensraum f?r den Goldfrosch.", "Bietet Aussicht auf das Tal.", "Liegt im Valle de Ant?n.", "Geologisch eng mit dem Krater verbunden."]
+      de: ["Teil des Kraterrandes von El Valle.", "Schützt den Nebelwald.", "Wichtiger Lebensraum f?r den Goldfrosch.", "Bietet Aussicht auf das Tal.", "Liegt im Valle de Ant?n.", "Geologisch eng mit dem Krater verbunden."]
     }
   },
   {
@@ -398,7 +398,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/isla-cebaco-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Isla C?baco ist eine große, aber vergleichsweise ruhig genutzte Insel im Golf von Montijo und steht f?r die weniger verdichteten Küstenr?ume Panamas. Ihre Str?nde, Buchten und marinen Lebensr?ume machen sie interessant f?r Surfer ebenso wie f?r Naturliebhaber, die abgelegene Inseln bevorzugen. Trotz ihrer Gr??e ist die Insel d?nn besiedelt, was den Eindruck eines offenen, weitgehend unverbauten Küstenraums verst?rkt. Geographie K6 ? Inseln und Pazifikstr?nde.",
+      de: "Isla C?baco ist eine große, aber vergleichsweise ruhig genutzte Insel im Golf von Montijo und steht f?r die weniger verdichteten Küstenräume Panamas. Ihre Str?nde, Buchten und marinen Lebensräume machen sie interessant f?r Surfer ebenso wie f?r Naturliebhaber, die abgelegene Inseln bevorzugen. Trotz ihrer Gr??e ist die Insel d?nn besiedelt, was den Eindruck eines offenen, weitgehend unverbauten Küstenraums verstärkt. Geographie K6 ? Inseln und Pazifikstr?nde.",
       ro: "Isla Cébaco este o insulă de o frumusețe sălbatică situată în Golful Montijo, provincia Veraguas, fiind a treia cea mai mare insulă din Panama. Cu o formă alungită și un relief muntos acoperit de păduri tropicale, Cébaco este o destinație de top pentru ecoturism și pescuit sportiv. Insula oferă plaje virgine de nisip auriu și ape cristaline ideale pentru snorkeling, fiind înconjurată de o viață marină incredibil de bogată. Comunitățile locale de pescari trăiesc într-o armonie strânsă cu mediul, păstrând un stil de viață tradițional. Poziția sa strategică, în apropierea Parcului Național Coiba, o transformă într-un punct de escală important pentru exploratorii Pacificului panamez. Insula este, de asemenea, un loc de observare a balenelor cu cocoașă, oferind o experiență autentică de izolare și conexiune cu natura neîmblânzită. Geografie K7 — Ecosisteme insulare și viața marină din Pacific."
     },
     factsAdvanced: {
@@ -420,10 +420,10 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Popular for whitewater rafting.", "Flows through lush landscapes.", "Empties into the Pacific Ocean.", "Important for local agriculture."]
     }, image: "/poi-images/rio-pacora-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Der R?o Pacora liegt ?stlich von Panama-Stadt und ist f?r viele Einwohner eher als Freizeit- und Naturraum denn als klassischer Gro?fluss pr?sent. Besonders das Rafting hat dem Fluss einen Namen gegeben, zugleich versorgt er umliegende Landschaften mit Wasser und verbindet bewachsene H?nge mit dem Pazifik. Seine Bedeutung liegt in der N?he zur Hauptstadt und in der Mischung aus Erholung, Landwirtschaft und Fluss?kologie. Wer hier unterwegs ist, erlebt den Kontrast zwischen urbaner N?he und deutlich natürlicher Flusslandschaft. Geographie K6 ? Flüsse im Umland der Hauptstadt."
+      de: "Der R?o Pacora liegt ?stlich von Panama-Stadt und ist f?r viele Einwohner eher als Freizeit- und Naturraum denn als klassischer Großfluss präsent. Besonders das Rafting hat dem Fluss einen Namen gegeben, zugleich versorgt er umliegende Landschaften mit Wasser und verbindet bewachsene H?nge mit dem Pazifik. Seine Bedeutung liegt in der N?he zur Hauptstadt und in der Mischung aus Erholung, Landwirtschaft und Fluss?kologie. Wer hier unterwegs ist, erlebt den Kontrast zwischen urbaner N?he und deutlich natürlicher Flusslandschaft. Geographie K6 ? Flüsse im Umland der Hauptstadt."
     },
     factsAdvanced: {
-      de: ["Beliebt f?r Wildwasser-Rafting.", "Flie?t ?stlich von Panama-Stadt.", "M?ndet in den Pazifischen Ozean.", "Wichtig f?r die lokale Landwirtschaft.", "Verl?uft durch ?ppige Landschaften.", "Naherholungsraum f?r die Hauptstadtregion."]
+      de: ["Beliebt f?r Wildwasser-Rafting.", "Flie?t ?stlich von Panama-Stadt.", "M?ndet in den Pazifischen Ozean.", "Wichtig f?r die lokale Landwirtschaft.", "Verläuft durch ?ppige Landschaften.", "Naherholungsraum f?r die Hauptstadtregion."]
     }
   },
   {
@@ -440,7 +440,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Location of Panama City.", "Important anchorage for ships.", "Includes islands like Taboga.", "High tidal variations."]
     }, image: "/poi-images/bahia-de-panama-sea-v2.webp",
     descriptionAdvanced: {
-      de: "Die Bucht von Panama bildet den großen, offenen Vorraum zum Panamakanal und ist damit einer der wichtigsten maritimen Stadtr?ume des Landes. Panama-Stadt liegt direkt an ihrem Rand, w?hrend Taboga, Schifffahrtsrouten und Gezeitenfl?chen das Bild erg?nzen. Die Bucht ist weniger eine Postkartenkulisse als ein funktionaler Raum, in dem Verkehr, Hafenlogik und Küstendynamik zusammenkommen. Gerade diese Mischung macht sie geographisch so lehrreich. Geographie K7 ? Hafenbuchten und Küstenverkehr."
+      de: "Die Bucht von Panama bildet den großen, offenen Vorraum zum Panamakanal und ist damit einer der wichtigsten maritimen Stadträume des Landes. Panama-Stadt liegt direkt an ihrem Rand, w?hrend Taboga, Schifffahrtsrouten und Gezeitenflächen das Bild ergänzen. Die Bucht ist weniger eine Postkartenkulisse als ein funktionaler Raum, in dem Verkehr, Hafenlogik und Küstendynamik zusammenkommen. Gerade diese Mischung macht sie geographisch so lehrreich. Geographie K7 ? Hafenbuchten und Küstenverkehr."
     },
     factsAdvanced: {
       de: ["Standort von Panama-Stadt.", "Wichtiger Ankerplatz f?r Schiffe.", "Beinhaltet Inseln wie Taboga.", "Liegt am Pazifikeingang des Kanals.", "Hohe Gezeitenunterschiede.", "Zentrale maritime Zone der Hauptstadtregion."]
@@ -460,10 +460,10 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Southernmost point of Costa Rica.", "Shared between Panama and Costa Rica.", "Remote beaches and surf spots.", "Important tectonic zone."]
     }, image: "/poi-images/punta-burica-mountain-v2.webp",
     descriptionAdvanced: {
-      de: "Punta Burica markiert den ?u?ersten s?dwestlichen Rand Panamas an der Grenze zu Costa Rica und zeigt eine Küstenlandschaft, die zugleich abgelegen und geopolitisch bedeutsam ist. Die Halbinsel verbindet Fels, Strand und tektonische Dynamik, w?hrend die Siedlungen weit auseinanderliegen. F?r den Blick auf den Isthmus ist dieser Ort interessant, weil hier Staatsgrenze, Meer und Relief sehr eng zusammenfallen. Geographie K7 ? Grenzr?ume an der Pazifikk?ste."
+      de: "Punta Burica markiert den ?u?ersten s?dwestlichen Rand Panamas an der Grenze zu Costa Rica und zeigt eine Küstenlandschaft, die zugleich abgelegen und geopolitisch bedeutsam ist. Die Halbinsel verbindet Fels, Strand und tektonische Dynamik, w?hrend die Siedlungen weit auseinanderliegen. F?r den Blick auf den Isthmus ist dieser Ort interessant, weil hier Staatsgrenze, Meer und Relief sehr eng zusammenfallen. Geographie K7 ? Grenzräume an der Pazifikküste."
     },
     factsAdvanced: {
-      de: ["Markiert die Grenze zu Costa Rica.", "Abgelegene Str?nde und Surfspots.", "Wichtige tektonische Zone.", "Liegt an der Pazifikk?ste.", "Halbinsel mit großer Entfernung zur Stadt.", "S?dwestlicher Rand Panamas."]
+      de: ["Markiert die Grenze zu Costa Rica.", "Abgelegene Str?nde und Surfspots.", "Wichtige tektonische Zone.", "Liegt an der Pazifikküste.", "Halbinsel mit großer Entfernung zur Stadt.", "S?dwestlicher Rand Panamas."]
     }
   },
   {
@@ -480,7 +480,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Important for the region's agriculture.", "Flows into the Gulf of Parita.", "Forms a fertile floodplain.", "Historically significant."]
     }, image: "/poi-images/rio-santa-maria-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Der R?o Santa Mar?a durchzieht die Landwirtschaftsr?ume von Veraguas und Herrera und speist eine der fruchtbarsten Ebenen an der Pazifikk?ste. Der Fluss ist f?r Bew?sserung, B?den und die Alltags?konomie wichtiger als f?r spektakul?re Bilder, gerade deshalb aber zentral f?r das Verst?ndnis der Region. Seine M?ndung im Golf von Parita verbindet Flusssystem und Küstenfeuchtgebiet. Historisch und wirtschaftlich ist er ein klassischer Nutzfluss des Azuero- und Zentralpanamas. Geographie K6 ? Flussebenen und Agrarr?ume."
+      de: "Der R?o Santa Mar?a durchzieht die Landwirtschaftsräume von Veraguas und Herrera und speist eine der fruchtbarsten Ebenen an der Pazifikküste. Der Fluss ist f?r Bew?sserung, B?den und die Alltags?konomie wichtiger als f?r spektakul?re Bilder, gerade deshalb aber zentral f?r das Verst?ndnis der Region. Seine M?ndung im Golf von Parita verbindet Flusssystem und Küstenfeuchtgebiet. Historisch und wirtschaftlich ist er ein klassischer Nutzfluss des Azuero- und Zentralpanamas. Geographie K6 ? Flussebenen und Agrarräume."
     },
     factsAdvanced: {
       de: ["Wichtig f?r die Landwirtschaft der Region.", "M?ndet in den Golf von Parita.", "Durchquert Veraguas und Herrera.", "Bildet eine fruchtbare Flussebene.", "Historisch bedeutsam.", "Verbindet Binnenland und Küste."]
@@ -500,7 +500,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Also known as 'Swan's Cay'.", "Nesting site for seabirds.", "Landing on the island is not permitted.", "Popular destination for boat tours."]
     }, image: "/poi-images/isla-de-las-aves-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Isla de los P?jaros ist ein kleiner Felsen im Meer, dessen Bedeutung fast vollst?ndig aus seiner Funktion als Brut- und Rastplatz f?r Seev?gel entsteht. Genau diese Reduktion auf den Lebensraum macht den Ort so klar lesbar: wenig Land, viel Luft, viel Vogelbewegung. Als Schutzraum nahe Bocas del Toro steht die Insel f?r ein Küstenmanagement, das St?rung bewusst minimiert. Wer vorbeif?hrt, erlebt einen Ort, der mehr Beobachtungsstation als klassische Insel ist. Biologie K6 ? Vogelschutz an der Küste."
+      de: "Isla de los P?jaros ist ein kleiner Felsen im Meer, dessen Bedeutung fast vollständig aus seiner Funktion als Brut- und Rastplatz f?r Seev?gel entsteht. Genau diese Reduktion auf den Lebensraum macht den Ort so klar lesbar: wenig Land, viel Luft, viel Vogelbewegung. Als Schutzraum nahe Bocas del Toro steht die Insel f?r ein Küstenmanagement, das St?rung bewusst minimiert. Wer vorbeiführt, erlebt einen Ort, der mehr Beobachtungsstation als klassische Insel ist. Biologie K6 ? Vogelschutz an der Küste."
     },
     factsAdvanced: {
       de: ["Auch bekannt als Swan's Cay.", "Brutplatz f?r Seev?gel.", "Kein Anlegen an der Insel erlaubt.", "Beliebtes Ziel f?r Bootstouren.", "Liegt bei Bocas del Toro.", "Kleiner Felsen mit hoher Schutzfunktion."]
@@ -520,10 +520,10 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Established in 1966.", "Protects part of the continental divide.", "Unique geological formations.", "Panoramic views of the Pacific."]
     }, image: "/poi-images/parque-nacional-altos-de-campana-forest-v2.webp",
     descriptionAdvanced: {
-      de: "Der Nationalpark Altos de Campana ist ein Schl?sselort der panamaischen Schutzgebietsgeschichte, weil er schon 1966 eingerichtet wurde. Seine Nebelw?lder und geologischen Formen liegen in einem ?bergangsrraum zwischen Pazifikn?he und Bergklima, wodurch Wasser und Vegetation besonders eng verkn?pft sind. Der Park zeigt, wie früh Naturschutz in Panama mit dem Schutz der kontinentalen Wasserscheide zusammenfiel. Geographie K7 ? Schutzgebiete und Wasserscheiden."
+      de: "Der Nationalpark Altos de Campana ist ein Schlüsselort der panamaischen Schutzgebietsgeschichte, weil er schon 1966 eingerichtet wurde. Seine Nebelw?lder und geologischen Formen liegen in einem ?bergangsrraum zwischen Pazifikn?he und Bergklima, wodurch Wasser und Vegetation besonders eng verknüpft sind. Der Park zeigt, wie früh Naturschutz in Panama mit dem Schutz der kontinentalen Wasserscheide zusammenfiel. Geographie K7 ? Schutzgebiete und Wasserscheiden."
     },
     factsAdvanced: {
-      de: ["Gegr?ndet 1966.", "Erster Nationalpark Panamas.", "Sch?tzt einen Teil der kontinentalen Wasserscheide.", "Einzigartige geologische Formationen.", "Panoramablick auf den Pazifik.", "Nebelwald im Bergland."]
+      de: ["Gegr?ndet 1966.", "Erster Nationalpark Panamas.", "Schützt einen Teil der kontinentalen Wasserscheide.", "Einzigartige geologische Formationen.", "Panoramablick auf den Pazifik.", "Nebelwald im Bergland."]
     }
   },
   {
@@ -540,10 +540,10 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Includes the Punta Chame peninsula.", "Important habitat for migratory birds.", "Shallow waters ideal for water sports.", "Significant mangrove areas."]
     }, image: "/poi-images/bahia-de-chame-sea-v2.webp",
     descriptionAdvanced: {
-      de: "Die Bucht von Chame ist ein flacher Pazifikraum, in dem Wind, Wasserstand und Mangroven das Bild bestimmen. Vor allem Punta Chame macht die Bucht f?r Kitesurfen und andere windabh?ngige Aktivit?ten bekannt, w?hrend die ruhigen Uferzonen wichtige Rastpl?tze f?r Zugv?gel bleiben. Die Mischung aus Freizeitnutzung und Feuchtgebiet ist typisch f?r die Küste westlich der Hauptstadt. Geographie K6 ? Flache Buchten und Mangrovensysteme."
+      de: "Die Bucht von Chame ist ein flacher Pazifikraum, in dem Wind, Wasserstand und Mangroven das Bild bestimmen. Vor allem Punta Chame macht die Bucht f?r Kitesurfen und andere windabhängige Aktivitäten bekannt, w?hrend die ruhigen Uferzonen wichtige Rastpl?tze f?r Zugv?gel bleiben. Die Mischung aus Freizeitnutzung und Feuchtgebiet ist typisch f?r die Küste westlich der Hauptstadt. Geographie K6 ? Flache Buchten und Mangrovensysteme."
     },
     factsAdvanced: {
-      de: ["Beinhaltet die Halbinsel Punta Chame.", "Wichtiger Lebensraum f?r Zugv?gel.", "Flaches Wasser, ideal f?r Wassersport.", "Bedeutende Mangrovengebiete.", "Lage an der Pazifikk?ste.", "Bekannt f?r Kitesurfen."]
+      de: ["Beinhaltet die Halbinsel Punta Chame.", "Wichtiger Lebensraum f?r Zugv?gel.", "Flaches Wasser, ideal f?r Wassersport.", "Bedeutende Mangrovengebiete.", "Lage an der Pazifikküste.", "Bekannt f?r Kitesurfen."]
     }
   },
   {
@@ -560,7 +560,7 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Flows through the Boquete valley.", "Used for 'mini-rafting' tours.", "Important for the local water supply.", "Has caused floods in the past."]
     }, image: "/poi-images/rio-calderas-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Der R?o Caldera prägt das Tal von Boquete und ist dort weniger ein gro?räumiger Strom als ein sehr pr?senter Begleiter des Alltags, des Tourismus und der Wasserversorgung. Der Fluss ist wegen des sogenannten Mini-Raftings bekannt, zugleich erinnert er an die Erosionskr?fte, die das Hochland geformt haben. Nach starken Regenf?llen kann er schnell anschwellen, was die N?he zwischen Vulkanlandschaft, Siedlung und Wasserlauf sichtbar macht. Geographie K6 ? Hochlandfl?sse und Talr?ume."
+      de: "Der R?o Caldera prägt das Tal von Boquete und ist dort weniger ein großräumiger Strom als ein sehr präsenter Begleiter des Alltags, des Tourismus und der Wasserversorgung. Der Fluss ist wegen des sogenannten Mini-Raftings bekannt, zugleich erinnert er an die Erosionskr?fte, die das Hochland geformt haben. Nach starken Regenf?llen kann er schnell anschwellen, was die N?he zwischen Vulkanlandschaft, Siedlung und Wasserlauf sichtbar macht. Geographie K6 ? Hochlandfl?sse und Talräume."
     },
     factsAdvanced: {
       de: ["Flie?t durch das Tal von Boquete.", "Wird f?r Mini-Rafting genutzt.", "Wichtig f?r die lokale Wasserversorgung.", "Hat in der Vergangenheit ?berschwemmungen verursacht.", "Liegt in Chiriqu?.", "Verbindet Hochland und Talboden."]
@@ -580,10 +580,10 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Protects the headwaters of 10 rivers.", "Last remaining rainforest on Azuero.", "High degree of endemism.", "Very remote and difficult to access."]
     }, image: "/poi-images/parque-nacional-cerro-hoya-forest-v2.webp",
     descriptionAdvanced: {
-      de: "Der Nationalpark Cerro Hoya sch?tzt die abgelegenen Gipfel an der Azuero-Halbinsel und damit eines der letzten großen Waldgebiete dieser Region. Der Ort ist ?kologisch bedeutend, weil hier Quellgebiete, Bergwald und eine hohe Zahl endemischer Arten zusammenkommen. Die geringe Erschlie?ung hat die Landschaft lange abgeschirmt, was den Naturschutz erleichtert, aber Forschung und Zugang erschwert. Gerade diese Kombination macht Cerro Hoya zu einem der stillsten und zugleich wichtigeren Schutzr?ume Panamas. Biologie K8 ? Endemismus und Schutzgebiete."
+      de: "Der Nationalpark Cerro Hoya schützt die abgelegenen Gipfel an der Azuero-Halbinsel und damit eines der letzten großen Waldgebiete dieser Region. Der Ort ist ?kologisch bedeutend, weil hier Quellgebiete, Bergwald und eine hohe Zahl endemischer Arten zusammenkommen. Die geringe Erschließung hat die Landschaft lange abgeschirmt, was den Naturschutz erleichtert, aber Forschung und Zugang erschwert. Gerade diese Kombination macht Cerro Hoya zu einem der stillsten und zugleich wichtigeren Schutzräume Panamas. Biologie K8 ? Endemismus und Schutzgebiete."
     },
     factsAdvanced: {
-      de: ["Sch?tzt die Quellgebiete von 10 Flüssen.", "Letzter verbliebener Regenwald auf Azuero.", "Hoher Grad an Endemismus.", "Sehr abgelegen und schwer zug?nglich.", "Bewahrt die h?chsten Gipfel der Halbinsel.", "Liegt auf der Azuero-Halbinsel."]
+      de: ["Schützt die Quellgebiete von 10 Flüssen.", "Letzter verbliebener Regenwald auf Azuero.", "Hoher Grad an Endemismus.", "Sehr abgelegen und schwer zugänglich.", "Bewahrt die h?chsten Gipfel der Halbinsel.", "Liegt auf der Azuero-Halbinsel."]
     }
   },
   {
@@ -600,10 +600,10 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Important Ramsar wetland site.", "Includes mangroves, estuaries, and islands.", "High biodiversity.", "Habitat for crocodiles and birds."]
     }, image: "/poi-images/golfo-de-montijo-sea-v2.webp",
     descriptionAdvanced: {
-      de: "Der Golf von Montijo ist ein weit verzweigter Küstenraum mit Mangroven, Flussm?ndungen, Inseln und seichten Gew?ssern. Als Ramsar-Gebiet ist er vor allem wegen seiner Feuchtgebiets?kologie interessant, denn hier treffen S??wasser, Salzwasser und Wattfl?chen in einem produktiven System aufeinander. F?r V?gel, Reptilien und Küstenfischer ist der Golf ein ?beraus wichtiger Lebensraum, der Natur und Nutzung eng verkn?pft. Geographie K7 ? Feuchtgebiete an der Pazifikk?ste."
+      de: "Der Golf von Montijo ist ein weit verzweigter Küstenraum mit Mangroven, Flussm?ndungen, Inseln und seichten Gewässern. Als Ramsar-Gebiet ist er vor allem wegen seiner Feuchtgebiets?kologie interessant, denn hier treffen S??wasser, Salzwasser und Wattflächen in einem produktiven System aufeinander. F?r V?gel, Reptilien und Küstenfischer ist der Golf ein ?beraus wichtiger Lebensraum, der Natur und Nutzung eng verknüpft. Geographie K7 ? Feuchtgebiete an der Pazifikküste."
     },
     factsAdvanced: {
-      de: ["Wichtiges Ramsar-Feuchtgebiet.", "Umfasst Mangroven, M?ndungen und Inseln.", "Hohe Biodiversit?t.", "Lebensraum f?r Krokodile und V?gel.", "Lage an der Pazifikk?ste.", "Teil der Feuchtgebiete von Veraguas."]
+      de: ["Wichtiges Ramsar-Feuchtgebiet.", "Umfasst Mangroven, M?ndungen und Inseln.", "Hohe Biodiversit?t.", "Lebensraum f?r Krokodile und V?gel.", "Lage an der Pazifikküste.", "Teil der Feuchtgebiete von Veraguas."]
     }
   },
   {
@@ -621,11 +621,11 @@ export const poiExtraPanamaNatureV2: POI[] = [
     },
  image: "/poi-images/isla-iguana-nature-v2.webp",
     descriptionAdvanced: {
-      de: "Isla Iguana ist ein kleines Schutzgebiet vor Pedas?, das vor allem wegen seines Korallenriffs und seiner Vogelk?sten bekannt ist. Die Insel zeigt, wie stark sich ein kompaktes Pazifikbiotop aus Strand, Riff und Brutpl?tzen auf engem Raum verdichten kann. Schnorchler erleben hier vor allem klares Wasser und eine unmittelbare N?he zur Unterwasserwelt, w?hrend ?ber dem Strand Fregattv?gel kreisen. Der Ort ist klein, aber ?kologisch und touristisch sehr klar profiliert. Biologie K6 ? Korallenriffe und Küstenv?gel.",
+      de: "Isla Iguana ist ein kleines Schutzgebiet vor Pedas?, das vor allem wegen seines Korallenriffs und seiner Vogelküsten bekannt ist. Die Insel zeigt, wie stark sich ein kompaktes Pazifikbiotop aus Strand, Riff und Brutpl?tzen auf engem Raum verdichten kann. Schnorchler erleben hier vor allem klares Wasser und eine unmittelbare N?he zur Unterwasserwelt, w?hrend ?ber dem Strand Fregattv?gel kreisen. Der Ort ist klein, aber ?kologisch und touristisch sehr klar profiliert. Biologie K6 ? Korallenriffe und Küstenv?gel.",
       ro: "Isla Iguana, situată în largul coastei provinciei Los Santos (Azuero), este un refugiu de viață sălbatică renumit pentru plajele sale de nisip alb coralifer și apele sale de un turcoaz spectaculos. Insula a fost formată prin acumularea de resturi de corali și este înconjurată de cel mai mare recif de coral din Golful Panama, oferind condiții ideale pentru snorkeling și scufundări. Numele său provine de la marea populație de iguane negre (Ctenosaura similis) care trăiesc nestingherite pe insulă. Isla Iguana este, de asemenea, un loc de cuibărit crucial pentru fregate și alte păsări marine, cerul fiind adesea plin de mii de păsări în zbor. În timpul sezonului, apele din jur devin scena spectaculoasă a migrației balenelor cu cocoașă, transformând acest mic colț de paradis într-un laborator viu de biodiversitate marină. Științe Naturale K8 — Recife de corali și habitate de coastă."
     },
     factsAdvanced: {
-      de: ["Wichtiges Korallenriff an der Pazifikk?ste.", "Brutplatz f?r Fregattv?gel.", "Wei?e Sandstr?nde.", "Beliebt zum Schnorcheln.", "Liegt vor der Küste von Pedas?.", "Kleines Wildschutzgebiet."],
+      de: ["Wichtiges Korallenriff an der Pazifikküste.", "Brutplatz f?r Fregattv?gel.", "Wei?e Sandstr?nde.", "Beliebt zum Schnorcheln.", "Liegt vor der Küste von Pedas?.", "Kleines Wildschutzgebiet."],
       ro: ["Reciful de coral din jurul insulei are o vechime de peste 4.800 de ani.", "Include cea mai mare colonie de fregate din Pacificul panamez.", "Plajele sale au un nisip format aproape exclusiv din corali zdrobiți.", "A fost utilizată ca zonă de antrenament pentru bombardamente în Al Doilea Război Mondial.", "Declarată Refugiu de Viață Sălbatică în anul 1981.", "Unul dintre puținele locuri din Panama unde pot fi văzuți rechini de recif inofensivi.", "Accesibilă printr-o călătorie scurtă cu barca din localitatea Pedasí."]
     }
   },
@@ -643,10 +643,10 @@ export const poiExtraPanamaNatureV2: POI[] = [
       en: ["Important area for salt extraction.", "Large mudflats at low tide.", "Habitat for many shorebirds.", "Mouth of several rivers."]
     },
     descriptionAdvanced: {
-      de: "Die Bucht von Parita ist ein flacher Pazifikraum an der Azuero-Halbinsel, in dem Wattfl?chen, Salzgewinnung und Vogelbeobachtung zusammenkommen. Durch ihre geringe Tiefe reagiert sie stark auf Gezeiten, was den Wechsel zwischen offenem Wasser und gro?flächigen Schlick- und Wattzonen besonders sichtbar macht. Die Bucht ist damit kein spektakul?rer, sondern ein funktionaler Küstenraum, dessen ?kologischer Wert gerade aus seiner Produktivit?t entsteht. Geographie K6 ? Wattenk?sten und Küstennutzung."
+      de: "Die Bucht von Parita ist ein flacher Pazifikraum an der Azuero-Halbinsel, in dem Wattflächen, Salzgewinnung und Vogelbeobachtung zusammenkommen. Durch ihre geringe Tiefe reagiert sie stark auf Gezeiten, was den Wechsel zwischen offenem Wasser und großflächigen Schlick- und Wattzonen besonders sichtbar macht. Die Bucht ist damit kein spektakul?rer, sondern ein funktionaler Küstenraum, dessen ?kologischer Wert gerade aus seiner Produktivit?t entsteht. Geographie K6 ? Wattenküsten und Küstennutzung."
     },
     factsAdvanced: {
-      de: ["Wichtiges Gebiet f?r die Salzgewinnung.", "Große Wattfl?chen bei Ebbe.", "Lebensraum f?r viele Watv?gel.", "M?ndungsgebiet mehrerer Flüsse.", "Lage an der Azuero-Küste.", "Flacher Pazifikraum."]
+      de: ["Wichtiges Gebiet f?r die Salzgewinnung.", "Große Wattflächen bei Ebbe.", "Lebensraum f?r viele Watv?gel.", "M?ndungsgebiet mehrerer Flüsse.", "Lage an der Azuero-Küste.", "Flacher Pazifikraum."]
     }
   }
 ];

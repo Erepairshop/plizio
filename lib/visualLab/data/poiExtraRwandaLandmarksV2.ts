@@ -173,7 +173,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       ],
       ro: [
         "Deschis în 1989.",
-        "Cadou de la guvernul belgian pentru a 25-a aniversare a independen?ei.",
+        "Cadou de la guvernul belgian pentru a 25-a aniversare a independenței.",
       ],
       en: [
         "Opened in 1989.",
@@ -483,7 +483,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Eine der lebhaftesten Kunstgalerien in Kigali, gegründet von zwei ruandischen Brüdern, die lokale Künstler fördert und eine Plattform für kreativen Ausdruck bietet.",
       hu: "Kigali egyik legpezsgobb muvészeti galériája, amelyet két ruandai testvér alapított, a helyi muvészek támogatására és a kreatív kifejezés platformjának biztosítására.",
-      ro: "Una dintre cele mai vibrante galerii de arta din Kigali, sus?inând arti?tii locali ?i oferind o platforma pentru expresia creativa.",
+      ro: "Una dintre cele mai vibrante galerii de arta din Kigali, susținând arti?tii locali ?i oferind o platforma pentru expresia creativa.",
       en: "One of the most vibrant art galleries in Kigali, founded by two Rwandan brothers, supporting local artists and providing a platform for creative expression."
     },
     facts: {
@@ -497,7 +497,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       ],
       ro: [
         "Fondat în 2012.",
-        "Ofera ateliere ?i expozi?ii.",
+        "Ofera ateliere ?i expoziții.",
       ],
       en: [
         "Founded in 2012.",
@@ -843,7 +843,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Eine historisch bedeutende Kirche in Nyanza, die eng mit der Geschichte der ruandischen Königsfamilie und der Christianisierung des Landes verbunden ist.",
       hu: "Történelmileg jelentos templom Nyanzában, amely szorosan kapcsolódik a ruandai királyi család történetéhez és az ország keresztényesítéséhez.",
-      ro: "O biserica semnificativa istoric în Nyanza, legata de istoria familiei regale rwandeze ?i cre?tinarea ?arii.",
+      ro: "O biserica semnificativa istoric în Nyanza, legata de istoria familiei regale rwandeze ?i creștinarea ?arii.",
       en: "A historically significant church in Nyanza closely associated with the history of the Rwandan royal family and the Christianization of the country."
     },
     facts: {
@@ -879,7 +879,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Ein auffälliges islamisches Gebetshaus in Rubavu (Gisenyi) nahe der kongolesischen Grenze, das die wachsende muslimische Gemeinschaft Ruandas repräsentiert.",
       hu: "Egy feltuno iszlám imaház Rubavuban (Gisenyi), a kongói határ közelében, amely a növekvo ruandai muszlim közösséget képviseli.",
-      ro: "Un loc de rugaciune islamic remarcabil în Rubavu (Gisenyi), reprezentând comunitatea musulmana în cre?tere din Rwanda.",
+      ro: "Un loc de rugaciune islamic remarcabil în Rubavu (Gisenyi), reprezentând comunitatea musulmana în creștere din Rwanda.",
       en: "A striking Islamic place of worship in Rubavu (Gisenyi) near the Congolese border, representing Rwanda's growing Muslim community."
     },
     facts: {
@@ -892,7 +892,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
         "Építészet hagyományos minaretekkel.",
       ],
       ro: [
-        "Centrul vie?ii islamice din Provincia de Vest.",
+        "Centrul vieții islamice din Provincia de Vest.",
         "Arhitectura cu minarete tradiționale.",
       ],
       en: [
@@ -915,7 +915,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Die Hauptkathedrale der Diözese Ruhengeri in der Stadt Musanze, einem wichtigen Ausgangspunkt für Gorilla-Trekking-Touristen.",
       hu: "A Ruhengeri egyházmegye fo katedrálisa Musanze városában, amely a gorillatúrák turistáinak fontos kiindulópontja.",
-      ro: "Catedrala principala a Episcopiei Ruhengeri din orașul Musanze, o baza importanta pentru turi?tii care merg în drume?ii cu gorile.",
+      ro: "Catedrala principala a Episcopiei Ruhengeri din orașul Musanze, o baza importanta pentru turiștii care merg în drumeții cu gorile.",
       en: "The main cathedral of the Diocese of Ruhengeri in the city of Musanze, a major hub for gorilla trekking tourists."
     },
     facts: {
@@ -965,7 +965,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       ],
       ro: [
         "Construita în 1913.",
-        "Fa?ada din caramida roție este un punct de reper izbitor.",
+        "Fațada din caramida roție este un punct de reper izbitor.",
       ],
       en: [
         "Built in 1913.",
@@ -1023,7 +1023,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     description: {
       de: "Eine der ältesten und größten Teefabriken in Ruanda, umgeben von malerischen Teeplantagen, die einen großen Beitrag zur Agrarwirtschaft leisten.",
       hu: "Ruanda egyik legrégebbi és legnagyobb teagyára, amelyet festoi teaültetvények vesznek körül, és nagyban hozzájárul az agrártörténelemhez.",
-      ro: "Una dintre cele mai vechi ?i mari fabrici de ceai din Rwanda, înconjurata de planta?ii pitorești.",
+      ro: "Una dintre cele mai vechi ?i mari fabrici de ceai din Rwanda, înconjurata de plantații pitorești.",
       en: "One of the oldest and largest tea factories in Rwanda, surrounded by picturesque tea estates, making a major contribution to the agricultural economy."
     },
     facts: {

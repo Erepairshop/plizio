@@ -159,7 +159,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Eine Rekonstruktion des traditionellen königlichen Palastes, die Einblicke in das Leben der ruandischen Könige gibt.",
       hu: "A hagyományos királyi palota rekonstrukciója, amely bepillantást enged a ruandai királyok életébe.",
-      ro: "O reconstrucție a palatului regal tradițional care ofera o perspectiva asupra vie?ii regilor rwandezi.",
+      ro: "O reconstrucție a palatului regal tradițional care ofera o perspectiva asupra vieții regilor rwandezi.",
       en: "A reconstruction of the traditional royal palace that provides insight into the life of the Rwandan kings."
     },
     facts: {
@@ -189,7 +189,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     facts: {
       de: ["1989 eröffnet.", "Besitzt eine große Sammlung ruandischer Artefakte."],
       hu: ["1989-ben nyílt meg.", "Ruandai tárgyak nagy gyujteményével rendelkezik."],
-      ro: ["Deschis în 1989.", "De?ine o colecție mare de artefacte rwandeze."],
+      ro: ["Deschis în 1989.", "Deține o colecție mare de artefacte rwandeze."],
       en: ["Opened in 1989.", "Holds a large collection of Rwandan artifacts."]
     }
   },
@@ -213,7 +213,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     facts: {
       de: ["Haus eines frühen Forschers.", "Beleuchtet die deutsche Kolonialzeit."],
       hu: ["Egy korai felfedezo háza.", "A német gyarmati idoszakot világítja meg."],
-      ro: ["Casa unui explorator timpuriu.", "Eviden?iaza perioada coloniala germana."],
+      ro: ["Casa unui explorator timpuriu.", "Evidențiaza perioada coloniala germana."],
       en: ["House of an early explorer.", "Highlights the German colonial period."]
     }
   },
@@ -297,7 +297,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     name: {
       de: "Denkmal für belgische Friedenstruppen",
       hu: "Belga Békefenntartók Emlékmuve",
-      ro: "Memorialul For?elor de Men?inere a Pacii Belgiene",
+      ro: "Memorialul Forțelor de Menținere a Pacii Belgiene",
       en: "Belgian Peacekeepers Memorial"
     },
     description: {
@@ -441,19 +441,19 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     name: {
       de: "Ku Ndaro Höhlen",
       hu: "Ku Ndaro Barlangok",
-      ro: "Pe?terile Ku Ndaro",
+      ro: "Peșterile Ku Ndaro",
       en: "Ku Ndaro Caves"
     },
     description: {
       de: "Historische Höhlen, die in der Vergangenheit als Verstecke und Kultstätten für lokale Führer dienten.",
       hu: "Történelmi barlangok, amelyek a múltban a helyi vezetok búvóhelyeként és kultikus helyeként szolgáltak.",
-      ro: "Pe?teri istorice care în trecut serveau ca ascunzatori ?i locuri de cult pentru liderii locali.",
+      ro: "Peșteri istorice care în trecut serveau ca ascunzatori ?i locuri de cult pentru liderii locali.",
       en: "Historical caves that in the past served as hiding places and places of worship for local leaders."
     },
     facts: {
       de: ["Natürliche Höhlenformation.", "Wurde historisch genutzt."],
       hu: ["Természetes barlangképzodmény.", "Történelmileg használták."],
-      ro: ["Forma?iune naturala de pe?tera.", "Folosit istoric."],
+      ro: ["Forma?iune naturala de peștera.", "Folosit istoric."],
       en: ["Natural cave formation.", "Used historically."]
     }
   },
@@ -471,7 +471,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Ursprünglich als Palast für König Mutara III erbaut, dient das Gebäude heute als nationales Kunstmuseum.",
       hu: "Eredetileg III. Mutara király palotájának épült, ma nemzeti muvészeti múzeumként muködik az épület.",
-      ro: "Construita ini?ial ca palat pentru regele Mutara III, cladirea servește acum ca muzeu național de arta.",
+      ro: "Construita inițial ca palat pentru regele Mutara III, cladirea servește acum ca muzeu național de arta.",
       en: "Originally built as a palace for King Mutara III, the building now serves as a national art museum."
     },
     facts: {
@@ -495,7 +495,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Ein Museum, das die historische Beziehung zwischen der Bevölkerung Ruandas und ihrer natürlichen Umgebung beleuchtet.",
       hu: "Múzeum, amely bemutatja Ruanda lakosságának és természeti környezetének történelmi kapcsolatát.",
-      ro: "Un muzeu care eviden?iaza relația istorica dintre populația din Rwanda ?i mediul ei natural.",
+      ro: "Un muzeu care evidențiaza relația istorica dintre populația din Rwanda ?i mediul ei natural.",
       en: "A museum that highlights the historical relationship between the people of Rwanda and their natural environment."
     },
     facts: {
@@ -525,7 +525,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     facts: {
       de: ["Ehrt widerständige Politiker.", "Ruhige Lage auf einem Hügel."],
       hu: ["Az ellenálló politikusokat tiszteli.", "Csendes helyen, egy dombon fekszik."],
-      ro: ["Onoreaza politicienii rezisten?i.", "Locație lini?tita pe un deal."],
+      ro: ["Onoreaza politicienii rezisten?i.", "Locație liniștita pe un deal."],
       en: ["Honors resisting politicians.", "Quiet location on a hill."]
     }
   },
@@ -543,7 +543,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Historisch bedeutende Thermalquellen, die seit Generationen für Heilzwecke und als Versammlungsort genutzt werden.",
       hu: "Történelmileg jelentos hoforrások, amelyeket generációk óta gyógyászati ??célokra és gyülekezohelyként használnak.",
-      ro: "Izvoare termale cu importan?a istorica, folosite de genera?ii pentru scopuri vindecatoare ?i ca loc de adunare.",
+      ro: "Izvoare termale cu importan?a istorica, folosite de generații pentru scopuri vindecatoare ?i ca loc de adunare.",
       en: "Historically significant thermal springs used for generations for healing purposes and as a gathering place."
     },
     facts: {
@@ -639,7 +639,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     description: {
       de: "Die frühere Residenz von Präsident Juvénal Habyarimana, auf dessen Grundstück sich die Trümmer seines abgestürzten Flugzeugs befinden.",
       hu: "Juvénal Habyarimana elnök egykori rezidenciája, akinek birtokán egy lezuhant repülogépének roncsai találhatók.",
-      ro: "Fosta re?edin?a a pre?edintelui Juvénal Habyarimana, pe a carui proprietate se afla epava avionului sau prabu?it.",
+      ro: "Fosta re?edin?a a președintelui Juvénal Habyarimana, pe a carui proprietate se afla epava avionului sau prabu?it.",
       en: "The former residence of President Juvénal Habyarimana, on whose property the wreckage of his crashed plane is located."
     },
     facts: {
@@ -693,7 +693,7 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     facts: {
       de: ["Erinnert an verlassene Flüchtlinge.", "Liegt im Bezirk Kicukiro."],
       hu: ["Az elhagyott menekültekre emlékezik.", "A Kicukiro negyedben található."],
-      ro: ["Amintește de refugia?ii abandonați.", "Situat în districtul Kicukiro."],
+      ro: ["Amintește de refugiații abandonați.", "Situat în districtul Kicukiro."],
       en: ["Remembers abandoned refugees.", "Located in the Kicukiro district."]
     }
   },

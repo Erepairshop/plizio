@@ -10,8 +10,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     name: { en: "Port of Santos", de: "Hafen von Santos", hu: "Santos kikötője", ro: "Portul Santos" },
     description: {
       en: "The largest port in Latin America, handling a significant portion of Brazil's foreign trade.",
-      de: "Der größte Hafen Lateinamerikas, der einen großen Teil des brasilianischen Außenhandels abwickelt.",
-      hu: "Latin-Amerika legnagyobb kikötője, amely a brazil külkereskedelem jelentős részét bonyolítja le.",
+      de: "Der Hafen von Santos ist der wichtigste Seehafen Brasiliens und ein zentraler Umschlagplatz für Exportgüter. Über ihn laufen große Mengen an Kaffee, Soja und Zucker.",
+      hu: "Santos Brazília egyik legfontosabb tengeri kapuja São Paulo államban. A kikötő a külkereskedelem és a konténerforgalom egyik fő központja.",
       ro: "Cel mai mare port din America Latină, care gestionează o mare parte din comerțul exterior al Braziliei."
     },
     descriptionAdvanced: {
@@ -34,8 +34,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     name: { en: "Port of Paranaguá", de: "Hafen von Paranaguá", hu: "Paranaguá kikötője", ro: "Portul Paranaguá" },
     description: {
       en: "One of the most important ports for agricultural exports in Brazil, especially soybeans and corn.",
-      de: "Einer der wichtigsten Häfen für Agrarexporte in Brasilien, insbesondere für Sojabohnen und Mais.",
-      hu: "Brazília egyik legfontosabb agrár-export kikötője, különösen a szója és a kukorica terén.",
+      de: "Der Hafen von Paranaguá gehört zu den wichtigsten Exporthäfen für Agrarprodukte in Brasilien. Vor allem Soja, Mais und andere Massengüter werden hier abgefertigt.",
+      hu: "Paranaguá kikötője Paraná állam legfontosabb tengeri kijárata. Erős szerepe van a mezőgazdasági exportban, különösen a tömegáru-forgalomban.",
       ro: "Unul dintre cele mai importante porturi pentru exporturile agricole din Brazilia, în special soia și porumb."
     },
     descriptionAdvanced: {
@@ -58,8 +58,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     name: { en: "Port of Rio Grande", de: "Hafen von Rio Grande", hu: "Rio Grande kikötője", ro: "Portul Rio Grande" },
     description: {
       en: "The main port of the Rio Grande do Sul state, serving as a key maritime gateway for the southern region.",
-      de: "Der Haupthafen des Bundesstaates Rio Grande do Sul, der als wichtiges maritimes Tor für die Südregion dient.",
-      hu: "Rio Grande do Sul állam fő kikötője, amely a déli régió kulcsfontosságú tengeri kapuja.",
+      de: "Der Hafen von Rio Grande ist ein zentraler Seezugang für den Süden Brasiliens. Er verbindet den Bundesstaat Rio Grande do Sul mit internationalen Handelsrouten.",
+      hu: "Rio Grande kikötője Rio Grande do Sul állam fő tengeri csomópontja. A déli régió ellátását és exportját szolgálja.",
       ro: "Portul principal al statului Rio Grande do Sul, servind ca poartă maritimă cheie pentru regiunea de sud."
     },
     descriptionAdvanced: {
@@ -83,8 +83,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     name: { en: "Port of Vitória", de: "Hafen von Vitória", hu: "Vitória kikötője", ro: "Portul Vitória" },
     description: {
       en: "A vital port complex in Espírito Santo, well-known for handling iron ore and steel products.",
-      de: "Ein wichtiger Hafenkomplex in Espírito Santo, der für den Umschlag von Eisenerz und Stahlprodukten bekannt ist.",
-      hu: "Fontos kikötőkomplexum Espírito Santóban, amely a vasérc és az acéltermékek kezeléséről ismert.",
+      de: "Der Hafen von Vitória ist ein wichtiger Industriehafen im Bundesstaat Espírito Santo. Er ist eng mit dem Umschlag von Eisenerz, Stahl und Zellulose verbunden.",
+      hu: "Vitória kikötői rendszere Espírito Santo ipari és exportlogisztikai központja. Különösen a nyersanyagok és fémipari termékek mozgatásában fontos.",
       ro: "Un complex portuar vital în Espírito Santo, binecunoscut pentru manipularea minereului de fier și a produselor din oțel."
     },
     descriptionAdvanced: {
@@ -107,8 +107,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     name: { en: "Port of Itaqui", de: "Hafen von Itaqui", hu: "Itaqui kikötője", ro: "Portul Itaqui" },
     description: {
       en: "A deep-water port in Maranhão, known for exporting minerals and soybeans from the interior of Brazil.",
-      de: "Ein Tiefwasserhafen in Maranhão, bekannt für den Export von Mineralien und Sojabohnen aus dem Landesinneren Brasiliens.",
-      hu: "Mélytengeri kikötő Maranhão államban, amely a Brazília belsejéből származó ásványkincsek és szója exportjáról ismert.",
+      de: "Der Hafen von Itaqui ist ein tiefwasserfähiger Hafen im Norden Brasiliens. Er spielt eine wichtige Rolle für den Export von Mineralien und Agrargütern aus dem Hinterland.",
+      hu: "Az Itaqui kikötőkomplexum São Luís térségében, Maranhão államban működik. Az északkeleti kikötői hálózat egyik fontos exportpontja.",
       ro: "Un port cu apă adâncă în Maranhão, cunoscut pentru exportul de minerale și soia din interiorul Braziliei."
     },
     descriptionAdvanced: {
@@ -132,8 +132,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     name: { en: "Port of Suape", de: "Hafen von Suape", hu: "Suape kikötője", ro: "Portul Suape" },
     description: {
       en: "An industrial and port complex in Pernambuco, highly integrated with local petroleum and shipbuilding industries.",
-      de: "Ein Industrie- und Hafenkomplex in Pernambuco, der stark in die lokale Erdöl- und Schiffbauindustrie integriert ist.",
-      hu: "Ipari és kikötőkomplexum Pernambuco államban, amely szorosan integrálódik a helyi kőolaj- és hajóépítő iparba.",
+      de: "Der Hafen von Suape ist ein großer Industrie- und Hafenknoten in Pernambuco. Er ist eng mit Erdöl, Schiffbau und Logistik verbunden.",
+      hu: "Suape Pernambuco egyik legfontosabb kikötő- és ipari övezete. Recife közelében fekszik, és az energia- valamint konténerlogisztikában is szerepet kap.",
       ro: "Un complex industrial și portuar în Pernambuco, puternic integrat cu industriile locale de petrol și construcții navale."
     },
     descriptionAdvanced: {
@@ -156,8 +156,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     name: { en: "Port of Pecém", de: "Hafen von Pecém", hu: "Pecém kikötője", ro: "Portul Pecém" },
     description: {
       en: "An offshore industrial port terminal in Ceará, expanding rapidly as a hub for green hydrogen and steel.",
-      de: "Ein Offshore-Industriehafenterminal in Ceará, das schnell zu einem Zentrum für grünen Wasserstoff und Stahl expandiert.",
-      hu: "Tengeri ipari kikötőterminál Ceará államban, amely gyorsan növekszik a zöld hidrogén és az acél központjaként.",
+      de: "Der Hafen von Pecém ist ein moderner Industriehafen im Bundesstaat Ceará. Er gewinnt an Bedeutung durch Stahlproduktion, Logistik und Projekte für grünen Wasserstoff.",
+      hu: "Pecém Ceará egyik legfontosabb port- és ipari komplexuma. Fortaleza térségében működik, és az exportlogisztika mellett az energiaiparhoz is kötődik.",
       ro: "Un terminal portuar industrial offshore în Ceará, extinzându-se rapid ca un centru pentru hidrogen verde și oțel."
     },
     descriptionAdvanced: {
@@ -180,8 +180,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     name: { en: "Port of Rio de Janeiro", de: "Hafen von Rio de Janeiro", hu: "Rio de Janeiro kikötője", ro: "Portul Rio de Janeiro" },
     description: {
       en: "A major commercial port in Guanabara Bay, handling diverse cargo including automobiles and containerized goods.",
-      de: "Ein bedeutender Handelshafen in der Guanabara-Bucht, der verschiedene Frachten, darunter Automobile und Containergüter, umschlägt.",
-      hu: "Jelentős kereskedelmi kikötő a Guanabara-öbölben, amely különféle rakományokat kezel, beleértve az autókat és a konténeres árukat.",
+      de: "Der Hafen von Rio de Janeiro liegt in der Guanabara-Bucht und ist ein wichtiger Handelspunkt der Stadt. Er wickelt verschiedene Ladungen ab und bleibt eng mit der Geschichte der Metropole verbunden.",
+      hu: "Rio de Janeiro kikötője a Guanabara-öböl partján fekvő történelmi tengeri csomópont. Ma is fontos a teherszállítás és a hajóforgalom számára.",
       ro: "Un port comercial major în Golful Guanabara, care manipulează mărfuri diverse, inclusiv automobile și bunuri containerizate."
     },
     descriptionAdvanced: {
@@ -204,8 +204,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     name: { en: "Port of Itajaí", de: "Hafen von Itajaí", hu: "Itajaí kikötője", ro: "Portul Itajaí" },
     description: {
       en: "One of the main container ports in Brazil, driving the economy of Santa Catarina through robust international trade.",
-      de: "Einer der wichtigsten Containerhäfen in Brasilien, der die Wirtschaft von Santa Catarina durch robusten internationalen Handel antreibt.",
-      hu: "Brazília egyik fő konténerkikötője, amely az erős nemzetközi kereskedelem révén hajtja Santa Catarina gazdaságát.",
+      de: "Der Hafen von Itajaí ist einer der wichtigsten Containerhäfen Brasiliens. Er unterstützt die exportorientierte Wirtschaft von Santa Catarina und den Handel mit vielen Industriegütern.",
+      hu: "Itajaí kikötője Santa Catarina egyik legfontosabb tengeri kapuja. Különösen a konténeres forgalomban és a déli exportláncban fontos.",
       ro: "Unul dintre principalele porturi de containere din Brazilia, stimulând economia din Santa Catarina printr-un comerț internațional robust."
     },
     descriptionAdvanced: {
@@ -229,8 +229,8 @@ export const poiExtraBrazilEconomicV2: POI[] = [
     name: { en: "Port of São Francisco do Sul", de: "Hafen von São Francisco do Sul", hu: "São Francisco do Sul kikötője", ro: "Portul São Francisco do Sul" },
     description: {
       en: "An essential port for southern Brazil, primarily moving agricultural commodities and steel products.",
-      de: "Ein wichtiger Hafen für den Süden Brasiliens, der hauptsächlich landwirtschaftliche Rohstoffe und Stahlprodukte umschlägt.",
-      hu: "Dél-Brazília alapvető kikötője, amely elsősorban mezőgazdasági nyersanyagokat és acéltermékeket mozgat.",
+      de: "Der Hafen von São Francisco do Sul ist ein zentraler Hafen im Süden Brasiliens. Er dient vor allem dem Umschlag von Agrarprodukten und Stahlwaren.",
+      hu: "São Francisco do Sul kikötője Santa Catarina történelmi kikötővárosához tartozik. Ma is jelentős szerepet tölt be a gabona- és ömlesztettáru-forgalomban.",
       ro: "Un port esențial pentru sudul Braziliei, deplasând în primul rând mărfuri agricole și produse din oțel."
     },
     descriptionAdvanced: {

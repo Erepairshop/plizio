@@ -162,8 +162,8 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-NAM",
     coords: [12.0, -16.0],
-    name: { de: "Namib-Wüste", hu: "Namib-sivatag", ro: "De?ertul Namib", en: "Namib Desert" },
-    description: { de: "Küstenzone der Namib-Wüste.", hu: "A Namib-sivatag part menti övezete.", ro: "Zona de coasta a de?ertului Namib.", en: "Coastal zone of the Namib Desert." },
+    name: { de: "Namib-Wüste", hu: "Namib-sivatag", ro: "Deșertul Namib", en: "Namib Desert" },
+    description: { de: "Küstenzone der Namib-Wüste.", hu: "A Namib-sivatag part menti övezete.", ro: "Zona de coasta a deșertului Namib.", en: "Coastal zone of the Namib Desert." },
     facts: {
       de: ["Sehr trockenes Gelände.", "Sanddünen an der Küste."],
       hu: ["Nagyon száraz terep.", "Homokdunék a tengerparton."],
@@ -173,13 +173,13 @@ export const poiExtraAngolaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Namib-Wüste ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Küstenzone der Namib-Wüste. Sehr trockenes Gelände. Sanddünen an der Küste. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Namib-sivatag az angolai foldrajz es kultura figyelemre melto eleme. A Namib-sivatag part menti övezete. Nagyon száraz terep. Homokdunék a tengerparton. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "De?ertul Namib este un element remarcabil al geografiei si culturii angoleze. Zona de coasta a de?ertului Namib. Teren foarte uscat. Dune de nisip pe coasta. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Deșertul Namib este un element remarcabil al geografiei si culturii angoleze. Zona de coasta a deșertului Namib. Teren foarte uscat. Dune de nisip pe coasta. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Namib Desert is a remarkable feature of the geography and culture of Angola. Coastal zone of the Namib Desert. Very dry terrain. Sand dunes on the coast. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Sehr trockenes Gelände.", "Sanddünen an der Küste.", "Küstenzone der Namib-Wüste.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Nagyon száraz terep.", "Homokdunék a tengerparton.", "A Namib-sivatag part menti övezete.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Teren foarte uscat.", "Dune de nisip pe coasta.", "Zona de coasta a de?ertului Namib.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Teren foarte uscat.", "Dune de nisip pe coasta.", "Zona de coasta a deșertului Namib.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Very dry terrain.", "Sand dunes on the coast.", "Coastal zone of the Namib Desert.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
@@ -214,7 +214,7 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "mountain",
     parent: "AO-LNO",
     coords: [19.0, -8.0],
-    name: { de: "Lunda-Berge", hu: "Lunda-hegyek", ro: "Mun?ii Lunda", en: "Lunda Mountains" },
+    name: { de: "Lunda-Berge", hu: "Lunda-hegyek", ro: "Munții Lunda", en: "Lunda Mountains" },
     description: { de: "Hügellandschaft im Nordosten.", hu: "Dombvidék északkeleten.", ro: "O zonă muntoasă extinsă în estul țării, caracterizată prin platouri înalte și văi adânci.", en: "Hilly landscape in the northeast." },
     facts: {
       de: ["Reich an Mineralien.", "Sanfte Erhebungen."],
@@ -225,13 +225,13 @@ export const poiExtraAngolaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Lunda-Berge ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Hügellandschaft im Nordosten. Reich an Mineralien. Sanfte Erhebungen. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Lunda-hegyek az angolai foldrajz es kultura figyelemre melto eleme. Dombvidék északkeleten. Ásványkincsekben gazdag. Szelíd emelkedok. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Mun?ii Lunda este un element remarcabil al geografiei si culturii angoleze. ?inut deluros în nord-est. Bogat în minerale. Eleva?ii line. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Munții Lunda este un element remarcabil al geografiei si culturii angoleze. ?inut deluros în nord-est. Bogat în minerale. Elevații line. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Lunda Mountains is a remarkable feature of the geography and culture of Angola. Hilly landscape in the northeast. Rich in minerals. Gentle elevations. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Reich an Mineralien.", "Sanfte Erhebungen.", "Hügellandschaft im Nordosten.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Ásványkincsekben gazdag.", "Szelíd emelkedok.", "Dombvidék északkeleten.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Bogat în minerale.", "Eleva?ii line.", "?inut deluros în nord-est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Bogat în minerale.", "Elevații line.", "?inut deluros în nord-est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Rich in minerals.", "Gentle elevations.", "Hilly landscape in the northeast.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
@@ -297,19 +297,19 @@ export const poiExtraAngolaReliefV2: POI[] = [
     facts: {
       de: ["Flusslandschaft.", "Saisonale Überschwemmungen."],
       hu: ["Folyó táj.", "Szezonális áradások."],
-      ro: ["Peisaj fluvial.", "Inunda?ii sezoniere."],
+      ro: ["Peisaj fluvial.", "Inundații sezoniere."],
       en: ["River landscape.", "Seasonal flooding."]
     },
     descriptionAdvanced: {
       de: "Cunene-Tal ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Talsenke an der Südgrenze. Flusslandschaft. Saisonale Überschwemmungen. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Cunene-völgy az angolai foldrajz es kultura figyelemre melto eleme. Völgyi mélyedés a déli határon. Folyó táj. Szezonális áradások. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Valea Cunene este un element remarcabil al geografiei si culturii angoleze. Depresiune de vale la grani?a de sud. Peisaj fluvial. Inunda?ii sezoniere. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Valea Cunene este un element remarcabil al geografiei si culturii angoleze. Depresiune de vale la grani?a de sud. Peisaj fluvial. Inundații sezoniere. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Cunene Valley is a remarkable feature of the geography and culture of Angola. Valley depression on the southern border. River landscape. Seasonal flooding. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Flusslandschaft.", "Saisonale Überschwemmungen.", "Talsenke an der Südgrenze.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Folyó táj.", "Szezonális áradások.", "Völgyi mélyedés a déli határon.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Peisaj fluvial.", "Inunda?ii sezoniere.", "Depresiune de vale la grani?a de sud.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Peisaj fluvial.", "Inundații sezoniere.", "Depresiune de vale la grani?a de sud.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["River landscape.", "Seasonal flooding.", "Valley depression on the southern border.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
@@ -407,13 +407,13 @@ export const poiExtraAngolaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Uíge-Hügel ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Hügellandschaft im Norden. Sehr grün. Hohe Niederschläge. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Uíge-dombok az angolai foldrajz es kultura figyelemre melto eleme. Dombvidék északon. Nagyon zöld. Magas csapadék. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Colinele Uíge este un element remarcabil al geografiei si culturii angoleze. ?inut colinar în nord. Foarte verde. Precipita?ii mari. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Colinele Uíge este un element remarcabil al geografiei si culturii angoleze. ?inut colinar în nord. Foarte verde. Precipitații mari. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Uíge Hills is a remarkable feature of the geography and culture of Angola. Hilly landscape in the north. Very green. High rainfall. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Sehr grün.", "Hohe Niederschläge.", "Hügellandschaft im Norden.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Nagyon zöld.", "Magas csapadék.", "Dombvidék északon.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Foarte verde.", "Precipita?ii mari.", "?inut colinar în nord.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Foarte verde.", "Precipitații mari.", "?inut colinar în nord.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Very green.", "High rainfall.", "Hilly landscape in the north.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },
@@ -459,13 +459,13 @@ export const poiExtraAngolaReliefV2: POI[] = [
     descriptionAdvanced: {
       de: "Namibe-Ebene ist ein bemerkenswertes Element der angolanischen Geografie und Kultur. Küstenebene. Trocken. Wenig Vegetation. Diese Gelaendeform praegt die Topografie Angolas. Wie viele bedeutende Orte in Angola vereint dieser Ort regionale Eigenheiten und uebergreifende Bedeutung. Damit traegt dieser Ort zum vielseitigen Profil Angolas bei.",
       hu: "A(z) Namibe-síkság az angolai foldrajz es kultura figyelemre melto eleme. Parti síkság. Száraz. Kevés növényzet. Ez a domborzati elem Angola felszinet alakitja. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Câmpia Namibe este un element remarcabil al geografiei si culturii angoleze. Câmpie de coasta. Uscat. Pu?ina vegetație. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
+      ro: "Câmpia Namibe este un element remarcabil al geografiei si culturii angoleze. Câmpie de coasta. Uscat. Puțina vegetație. Aceasta forma de relief modeleaza topografia Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
       en: "Namibe Plain is a remarkable feature of the geography and culture of Angola. Coastal plain. Dry. Little vegetation. This landform shapes the topography of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
     },
     factsAdvanced: {
       de: ["Trocken.", "Wenig Vegetation.", "Küstenebene.", "Liegt im Gebiet der Republik Angola.", "Spielt eine Rolle in der lokalen Identitaet der Region.", "Bekannt fuer seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
       hu: ["Száraz.", "Kevés növényzet.", "Parti síkság.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Uscat.", "Pu?ina vegetație.", "Câmpie de coasta.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      ro: ["Uscat.", "Puțina vegetație.", "Câmpie de coasta.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Dry.", "Little vegetation.", "Coastal plain.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
   },

@@ -21,6 +21,18 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Inaugurated: 1931", "Height: 30 meters (plus pedestal)", "Located on Corcovado Mountain (710m)", "New Seven Wonders of the World", "Material: reinforced concrete and soapstone", "Symbol of peace and national pride"]
     },
+    description: {
+      de: "Die Christusstatue auf dem Corcovado ist eines der bekanntesten Wahrzeichen Brasiliens. Von dort aus überblickt sie Rio de Janeiro und gilt als starkes Symbol der Stadt.",
+      hu: "A Krisztus Megváltó-szobor Rio de Janeiro fölött, a Corcovado tetején áll. Brazília legismertebb jelképei közé tartozik.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Eröffnet 1931", "30 Meter hoch", "Auf dem Corcovado", "Symbol von Rio"],
+      hu: ["A Corcovado-hegyen áll", "1931-ben avatták fel", "Rio de Janeiro jelképének számít"],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "br-rj-maracana-landmarks-v2",
@@ -40,7 +52,20 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Inaugurated: 1950", "Host of 1950 and 2014 World Cup finals", "Iconic symbol of Brazilian football", "Located in Rio de Janeiro", "Historical site for legendary players", "Modernized for global events"]
-    }, image: "/poi-images/br-rj-maracana-landmarks-v2.webp"},
+    }, image: "/poi-images/br-rj-maracana-landmarks-v2.webp",
+    description: {
+      de: "Das Maracanã ist eines der berühmtesten Fußballstadien der Welt und ein zentrales Symbol der brasilianischen Sportkultur. In Rio de Janeiro fanden hier große Spiele und historische Turniere statt.",
+      hu: "A Maracanã Rio de Janeiro ikonikus stadionja, amely a brazil futball egyik központja. Nagy nemzetközi mérkőzések és döntők helyszíne volt.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Eröffnet 1950", "In Rio de Janeiro", "Host von WM-Finals", "Ikone des Fußballs"],
+      hu: ["1950-ben nyílt meg", "Rio de Janeiro stadionja", "Világbajnoki döntőknek is otthont adott"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "br-df-catedral-brasilia-landmarks-v2",
     type: "landmark",
@@ -58,7 +83,20 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Architect: Oscar Niemeyer", "Completed: 1970", "16 hyperbolic concrete columns", "Iconic glass roof structure", "UNESCO World Heritage Site (as part of Brasília)", "Reflects Brasília's bold modernism"]
-    }, image: "/poi-images/br-df-catedral-brasilia-landmarks-v2.webp"},
+    }, image: "/poi-images/br-df-catedral-brasilia-landmarks-v2.webp",
+    description: {
+      de: "Die Kathedrale von Brasília ist ein Schlüsselwerk der modernen Architektur in der Hauptstadt. Oscar Niemeyers Entwurf prägt mit seinen geschwungenen Betonstreben das Stadtbild.",
+      hu: "A brasíliavárosi székesegyház Oscar Niemeyer egyik legismertebb alkotása. A modernista szerkezet Brasília központi építészeti pontja.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Von Oscar Niemeyer", "Fertiggestellt 1970", "16 Betonstreben", "Teil des UNESCO-Brasília"],
+      hu: ["Brasíliában található", "Oscar Niemeyer tervezte", "1970-ben szentelték fel"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "br-df-palacio-planalto-landmarks-v2",
     type: "landmark",
@@ -77,6 +115,18 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Designed by Oscar Niemeyer", "Official presidential office", "Located on Three Powers Plaza", "Iconic wing-like columns", "Symbol of Brazilian political power", "Part of Brasília's UNESCO modernist complex"]
     },
+    description: {
+      de: "Der Palácio do Planalto ist der Amtssitz des brasilianischen Präsidenten in Brasília. Das Gebäude steht am Praça dos Três Poderes und gehört zum modernen Regierungszentrum der Hauptstadt.",
+      hu: "A Palácio do Planalto a brazil elnök hivatalos munkahelye Brasília központjában. A Praça dos Três Poderes tér egyik fő épülete.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Amtssitz des Präsidenten", "In Brasília", "Am Praça dos Três Poderes", "Entwurf von Oscar Niemeyer"],
+      hu: ["A brazil elnök hivatala", "Brasíliában áll", "Oscar Niemeyer munkája"],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "br-df-congresso-nacional-landmarks-v2",
@@ -96,6 +146,18 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     factsAdvanced: {
       en: ["Designed by Oscar Niemeyer", "Twin towers and distinct geometric domes", "House of the Senate and Chamber of Deputies", "Dominant feature of Brasília's horizon", "Symbol of Brazilian democracy", "UNESCO World Heritage Site (as part of Brasília)"]
     },
+    description: {
+      de: "Der Nationalkongress von Brasilien ist das politische Herz der Hauptstadt Brasília. Die zwei Türme und die markanten Kuppeln machen den Bau zu einem der sichtbarsten Symbole der Demokratie des Landes.",
+      hu: "A Congresso Nacional Brasília kormányzati negyedének meghatározó épülete. Itt működik a brazil törvényhozás két háza.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Sitz von Senat und Abgeordnetenkammer", "In Brasília", "Entwurf von Oscar Niemeyer", "Zwei Türme und Kuppeln"],
+      hu: ["A brazil parlament székhelye", "Brasíliában található", "1960-ban adták át"],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "br-sp-ponte-estaiada-landmarks-v2",
@@ -113,7 +175,20 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Modern közlekedési híd", "'X' alakú torony", "São Paulo látképe", "Éjszakai kivilágítás", "Technológiai mérföldkő", "Városi összeköttetés"]
-    }, image: "/poi-images/br-sp-ponte-estaiada-landmarks-v2.webp"},
+    }, image: "/poi-images/br-sp-ponte-estaiada-landmarks-v2.webp",
+    description: {
+      de: "Die Ponte Estaiada ist eine markante Schrägseilbrücke in São Paulo. Ihr X-förmiger Pylon und die nächtliche Beleuchtung machen sie zu einem modernen Stadtzeichen.",
+      hu: "A Ponte Estaiada São Paulo egyik legjobban felismerhető modern városi jelképe. A Pinheiros folyó fölött ível át, és a város északi részét köti össze.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Eröffnet 2008", "In São Paulo", "X-förmiger Pylon", "Wichtige Verkehrsbrücke"],
+      hu: ["São Paulóban van", "A Pinheiros folyó fölött áll", "Kábelhidas városi ikon"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "br-sp-masp-landmarks-v2",
     type: "landmark",
@@ -130,7 +205,20 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Avenida Paulista művészeti központja", "Modern építészeti csoda", "Négy hatalmas vörös oszlop", "Déli félteke legnagyobb gyűjteménye", "Művészeti múzeum", "Kulturális központ"]
-    }, image: "/poi-images/br-sp-masp-landmarks-v2.webp"},
+    }, image: "/poi-images/br-sp-masp-landmarks-v2.webp",
+    description: {
+      de: "Das MASP ist eines der wichtigsten Kunstmuseen Südamerikas und liegt an der Avenida Paulista. Der schwebende Bau auf roten Pfeilern ist selbst ein bekanntes Architekturmotiv.",
+      hu: "A MASP az Avenida Paulista legismertebb kulturális épületei közé tartozik. Lebegő tömegű modernista háza és nagy gyűjteménye miatt ismert.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["An der Avenida Paulista", "Gegründet 1947", "Berühmter Hängebau", "Wichtiges Kunstmuseum"],
+      hu: ["Avenida Paulista mellett áll", "1968-ban nyílt meg", "Modernista, függesztett épület"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "br-ba-elevador-lacerda-landmarks-v2",
     type: "landmark",
@@ -147,6 +235,18 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Salvador közlekedési lift", "Világ első nyilvános liftje", "Alsó- és Felsőváros összekötője", "Történelmi mérföldkő", "Kilátás az öbölre", "Közlekedéstörténet"]
+    },
+    description: {
+      de: "Der Elevador Lacerda verbindet die Ober- und Unterstadt von Salvador. Der historische Aufzug ist ein fester Bestandteil des Stadtbilds und des Alltags in Bahia.",
+      hu: "Az Elevador Lacerda Salvador felső és alsó városrésze között teremt kapcsolatot. A város egyik legfontosabb közlekedési és látképi eleme.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Eröffnet 1873", "Verbindet Cidade Alta und Baixa", "In Salvador", "Ikone des Stadtverkehrs"],
+      hu: ["Salvadorban található", "A Cidade Alta és Cidade Baixa között működik", "1873-ban nyitották meg"],
+      ro: [],
+      en: []
     }
   },
   {
@@ -165,6 +265,18 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Canela neogótikus székesegyháza", "Rio Grande do Sul műemléke", "Magas, impozáns torony", "Színes esti kivilágítás", "Turisztikai célpont", "Déli vallási központ"]
+    },
+    description: {
+      de: "Die Catedral de Pedra ist eine neugotische Kirche in Canela in der Serra Gaúcha. Ihr hoher Steinturm und die Abendbeleuchtung machen sie zu einem prägenden Wahrzeichen der Stadt.",
+      hu: "A Catedral de Pedra Canela legismertebb temploma Rio Grande do Sul államban. Neogótikus formája miatt a város egyik fő látványossága.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["In Canela", "Neugotischer Stil", "Markanter Steinturm", "Beliebtes Touristenziel"],
+      hu: ["Canela városában áll", "Rio Grande do Sul államban található", "Neogótikus stílusú"],
+      ro: [],
+      en: []
     }
   },
   {
@@ -183,6 +295,18 @@ export const poiExtraBrazilLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Futurisztikus épület", "Santiago Calatrava alkotása", "Tudomány és fenntarthatóság", "Interaktív kiállítások", "Klímaváltozás vizsgálata", "Modern kulturális fejlesztés"]
+    },
+    description: {
+      de: "Das Museu do Amanhã ist ein futuristisches Wissenschaftsmuseum am Hafen von Rio de Janeiro. Es verbindet moderne Architektur mit Themen wie Klima, Stadt und Zukunft.",
+      hu: "A Museu do Amanhã Rio de Janeiro Porto Maravilha városrészének kortárs múzeuma. Tudományos és jövőorientált kiállításairól ismert.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Eröffnet 2015", "Am Praça Mauá", "Entwurf von Santiago Calatrava", "Fokus auf Zukunft und Nachhaltigkeit"],
+      hu: ["Rio de Janeiro kikötői övezetében van", "2015-ben nyílt meg", "Kortárs tudományos múzeum"],
+      ro: [],
+      en: []
     }
   },
   {

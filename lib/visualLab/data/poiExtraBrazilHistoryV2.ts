@@ -112,9 +112,9 @@ export const poiExtraBrazilHistoryV2: POI[] = [
     parent: "BR-MG",
     coords: [-43.8569, -20.4994],
     name: { de: "Heiligtum von Congonhas", hu: "Congonhas szentélye", ro: "Sanctuarul din Congonhas", en: "Sanctuary of Congonhas" },
-    description: { de: "Ein Wallfahrtsort mit berühmten Skulpturen des Künstlers Aleijadinho aus dem 18. Jahrhundert.", hu: "Zarándokhely, amely a 18. századi Aleijadinho művész híres szobrairól ismert.", ro: "Un loc de pelerinaj cu sculpturi faimoase ale artistului Aleijadinho din secolul al XVIII-lea.", en: "A pilgrimage site featuring famous sculptures by the 18th-century artist Aleijadinho." },
+    description: { de: "Das Heiligtum von Congonhas ist eine bedeutende Wallfahrtsstätte in Minas Gerais. Besonders bekannt ist es für die Prophetenstatuen und die barocke Anlage von Aleijadinho.", hu: "Zarándokhely, amely a 18. századi Aleijadinho művész híres szobrairól ismert.", ro: "Un loc de pelerinaj cu sculpturi faimoase ale artistului Aleijadinho din secolul al XVIII-lea.", en: "A pilgrimage site featuring famous sculptures by the 18th-century artist Aleijadinho." },
     facts: {
-      de: ["UNESCO-Weltkulturerbe.", "Zw\\\\u00f6lf Prophetenstatuen.", "Barocke Kunst.", "Wichtiger Wallfahrtsort.", "Erbaut im 18. Jahrhundert."],
+      de: ["UNESCO-Welterbe", "Im Bundesstaat Minas Gerais", "Berühmt für die Zwölf Propheten"],
       hu: ["UNESCO vil\\\\u00e1g\\\\u00f6r\\\\u00f6ks\\\\u00e9g.", "Tizenk\\\\u00e9t pr\\\\u00f3f\\\\u00e9taszobor.", "Barokk m\\\\u0171v\\\\u00e9szet.", "Fontos zar\\\\u00e1ndokhely.", "A 18. sz\\\\u00e1zadban \\\\u00e9p\\\\u00fclt."],
       ro: ["Patrimoniu Mondial UNESCO.", "Dou\\\\u0103sprezece statui de profe\\\\u021bi.", "Art\\\\u0103 baroc\\\\u0103.", "Loc important de pelerinaj.", "Construit \\\\u00een secolul al XVIII-lea."],
       en: ["UNESCO World Heritage site.", "Twelve prophet statues.", "Baroque art.", "Important pilgrimage site.", "Built in the 18th century."]

@@ -17,21 +17,23 @@ import {
 } from "@/lib/seo/routes";
 import {
   SUPPORTED_LANGS,
+  COUNTRY_SLUGS,
   buildCountryPath,
   buildStatePath,
   countrySlugFor,
+  getCountryId,
   regions,
   type Lang,
 } from "@/lib/seo/slugs";
 
+// Mind a 100+ orszag URL-jet ki kell adni a build-hez (statikus export miatt nincs ISR runtime).
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return SUPPORTED_LANGS.flatMap((lang) => [
-    { lang, country: countrySlugFor(lang, "germany") },
-    { lang, country: countrySlugFor(lang, "romania") },
-    { lang, country: countrySlugFor(lang, "hungary") },
-  ]);
+  const countryIds = Object.keys(COUNTRY_SLUGS);
+  return SUPPORTED_LANGS.flatMap((lang) =>
+    countryIds.map((countryId) => ({ lang, country: countrySlugFor(lang, countryId) }))
+  );
 }
 
 export async function generateMetadata({
@@ -42,11 +44,11 @@ export async function generateMetadata({
   const { lang, country } = await params;
   if (!isLang(lang)) return {};
   
-  let countryId: string = "germany";
-  if (country === countrySlugFor(lang, "romania")) countryId = "romania";
-  else if (country === countrySlugFor(lang, "hungary")) countryId = "hungary";
-
-  if (country !== countrySlugFor(lang, countryId)) return {};
+  // Reverse lookup: orszag-slug az aktualis nyelven -> countryId
+  const countryId = Object.keys(COUNTRY_SLUGS).find(
+    (cid) => COUNTRY_SLUGS[cid][lang] === country
+  );
+  if (!countryId) return {};
 
   return countryMetadata(lang, countryId);
 }
@@ -59,20 +61,27 @@ export default async function CountryPage({
   const { lang, country } = await params;
   if (!isLang(lang)) notFound();
 
-  let countryId: string = "germany";
-  if (country === countrySlugFor(lang, "romania")) countryId = "romania";
-  else if (country === countrySlugFor(lang, "hungary")) countryId = "hungary";
-
-  if (country !== countrySlugFor(lang, countryId)) notFound();
+  const countryId = Object.keys(COUNTRY_SLUGS).find(
+    (cid) => COUNTRY_SLUGS[cid][lang] === country
+  );
+  if (!countryId) notFound();
 
   const copy = SEO_COPY[lang];
   const countryCopy = getCountryCopy(countryId, lang);
   const alternates = getCountryAlternates(countryId);
-  
+
+  // ISO2 prefix az aktualis orszaghoz (pl. "DE", "ZA"), getCountryId reverse-en at
+  // EU/N.America: pelda mappingek a 3 hardcoded csoporthoz, egyebkent ISO2 prefix matching
   const countryRegions = regions.filter(r => {
     if (countryId === "romania") return r.id.startsWith("RO-");
-    if (countryId === "hungary") return r.parent === "HU";
-    return r.id.startsWith("DE-");
+    if (countryId === "hungary") return r.parent === "HU" || r.parent?.startsWith("HU-");
+    if (countryId === "germany") return r.id.startsWith("DE-");
+    // For all other countries: match via getCountryId on the region id
+    try {
+      return getCountryId(r.id) === countryId;
+    } catch {
+      return false;
+    }
   });
 
   let mapData = deutschlandMap;

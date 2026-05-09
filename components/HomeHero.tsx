@@ -66,7 +66,7 @@ const CONTINENTS = [
     name: { de: "Europa", hu: "Európa", ro: "Europa", en: "Europe" } },
   { id: "north-america", lat: 40, lng: -100, color: "#f87171", route: "/northamerica-map",
     name: { de: "Nordamerika", hu: "Észak-Amerika", ro: "America de Nord", en: "North America" } },
-  { id: "south-america", lat: -15, lng: -60, color: "#fbbf24", route: "/sa-map",
+  { id: "south-america", lat: -15, lng: -60, color: "#fbbf24", route: "/southamerica-map",
     name: { de: "Südamerika", hu: "Dél-Amerika", ro: "America de Sud", en: "South America" } },
   { id: "africa", lat: 2, lng: 20, color: "#34d399", route: "/africa-map",
     name: { de: "Afrika", hu: "Afrika", ro: "Africa", en: "Africa" } },

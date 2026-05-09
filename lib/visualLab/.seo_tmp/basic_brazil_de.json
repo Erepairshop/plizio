@@ -1,0 +1,109 @@
+{
+  "lang": "de",
+  "country": "Brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilEconomicV2.ts",
+    "lib/visualLab/data/poiExtraBrazilHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "santos-port-economic-v2",
+      "description": "Der Hafen von Santos ist der wichtigste Seehafen Brasiliens und ein zentraler Umschlagplatz für Exportgüter. Über ihn laufen große Mengen an Kaffee, Soja und Zucker.",
+      "facts": [
+        "Größter Hafen Lateinamerikas",
+        "Wichtige Rolle im Außenhandel",
+        "Im Bundesstaat São Paulo"
+      ]
+    },
+    {
+      "id": "paranagua-port-economic-v2",
+      "description": "Der Hafen von Paranaguá gehört zu den wichtigsten Exporthäfen für Agrarprodukte in Brasilien. Vor allem Soja, Mais und andere Massengüter werden hier abgefertigt.",
+      "facts": [
+        "Starker Fokus auf Agrarexporte",
+        "Im Bundesstaat Paraná",
+        "Wichtiger Umschlag für Schüttgut"
+      ]
+    },
+    {
+      "id": "rio-grande-port-economic-v2",
+      "description": "Der Hafen von Rio Grande ist ein zentraler Seezugang für den Süden Brasiliens. Er verbindet den Bundesstaat Rio Grande do Sul mit internationalen Handelsrouten.",
+      "facts": [
+        "Wichtiger Hafen im Süden",
+        "Im Bundesstaat Rio Grande do Sul",
+        "Bedeutend für Container- und Massengut"
+      ]
+    },
+    {
+      "id": "vitoria-port-economic-v2",
+      "description": "Der Hafen von Vitória ist ein wichtiger Industriehafen im Bundesstaat Espírito Santo. Er ist eng mit dem Umschlag von Eisenerz, Stahl und Zellulose verbunden.",
+      "facts": [
+        "Starker Bezug zu Erz und Stahl",
+        "Im Bundesstaat Espírito Santo",
+        "Teil eines wichtigen Hafenkomplexes"
+      ]
+    },
+    {
+      "id": "itaqui-port-economic-v2",
+      "description": "Der Hafen von Itaqui ist ein tiefwasserfähiger Hafen im Norden Brasiliens. Er spielt eine wichtige Rolle für den Export von Mineralien und Agrargütern aus dem Hinterland.",
+      "facts": [
+        "Tiefwasserhafen",
+        "Im Bundesstaat Maranhão",
+        "Wichtig für Erz- und Sojaexporte"
+      ]
+    },
+    {
+      "id": "suape-port-economic-v2",
+      "description": "Der Hafen von Suape ist ein großer Industrie- und Hafenknoten in Pernambuco. Er ist eng mit Erdöl, Schiffbau und Logistik verbunden.",
+      "facts": [
+        "Industrieller Hafenkomplex",
+        "Im Bundesstaat Pernambuco",
+        "Wichtig für Öl und Schiffbau"
+      ]
+    },
+    {
+      "id": "pecem-port-economic-v2",
+      "description": "Der Hafen von Pecém ist ein moderner Industriehafen im Bundesstaat Ceará. Er gewinnt an Bedeutung durch Stahlproduktion, Logistik und Projekte für grünen Wasserstoff.",
+      "facts": [
+        "Moderner Industriehafen",
+        "Im Bundesstaat Ceará",
+        "Wachsender Energie- und Logistikstandort"
+      ]
+    },
+    {
+      "id": "rio-de-janeiro-port-economic-v2",
+      "description": "Der Hafen von Rio de Janeiro liegt in der Guanabara-Bucht und ist ein wichtiger Handelspunkt der Stadt. Er wickelt verschiedene Ladungen ab und bleibt eng mit der Geschichte der Metropole verbunden.",
+      "facts": [
+        "In der Guanabara-Bucht",
+        "Wichtiger Handelshafen",
+        "Eng mit Rio de Janeiro verbunden"
+      ]
+    },
+    {
+      "id": "itajai-port-economic-v2",
+      "description": "Der Hafen von Itajaí ist einer der wichtigsten Containerhäfen Brasiliens. Er unterstützt die exportorientierte Wirtschaft von Santa Catarina und den Handel mit vielen Industriegütern.",
+      "facts": [
+        "Einer der großen Containerhäfen",
+        "Im Bundesstaat Santa Catarina",
+        "Wichtig für den Exportsektor"
+      ]
+    },
+    {
+      "id": "sao-francisco-do-sul-port-economic-v2",
+      "description": "Der Hafen von São Francisco do Sul ist ein zentraler Hafen im Süden Brasiliens. Er dient vor allem dem Umschlag von Agrarprodukten und Stahlwaren.",
+      "facts": [
+        "Wichtiger Hafen im Süden",
+        "Im Bundesstaat Santa Catarina",
+        "Starker Fokus auf Agrar- und Stahlgüter"
+      ]
+    },
+    {
+      "id": "congonhas-sanctuary-history-v2",
+      "description": "Das Heiligtum von Congonhas ist eine bedeutende Wallfahrtsstätte in Minas Gerais. Besonders bekannt ist es für die Prophetenstatuen und die barocke Anlage von Aleijadinho.",
+      "facts": [
+        "UNESCO-Welterbe",
+        "Im Bundesstaat Minas Gerais",
+        "Berühmt für die Zwölf Propheten"
+      ]
+    }
+  ]
+}

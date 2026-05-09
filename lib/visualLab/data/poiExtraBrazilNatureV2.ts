@@ -21,6 +21,18 @@ export const poiExtraBrazilNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Largest river in the world by water discharge", "Central to the Amazon rainforest ecosystem", "Winds across South America to the Atlantic", "Supports unmatched aquatic biodiversity", "Crucial component of the Earth's climate", "Vital transport route for Amazonian communities"]
     },
+    description: {
+      de: "Der Amazonas ist der wasserreichste Fluss der Erde und das Rückgrat des größten Regenwaldes der Welt. Er prägt Transport, Klima und Alltag in weiten Teilen Nordbrasiliens.",
+      hu: "Az Amazon-folyó Dél-Amerika legnagyobb vízrendszerének központi eleme. Brazil területen hatalmas esőerdőkkel és árterekkel érintkezik.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Größter Abfluss der Welt", "Zentral für den Amazonaswald", "Wichtige Verkehrsader"],
+      hu: ["A világ egyik legnagyobb vízhozamú folyója", "Az Amazonas-medence fő folyója", "Brazília északi részén is áthalad"],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "br-sao-francisco-river-nature-v2",
@@ -39,7 +51,20 @@ export const poiExtraBrazilNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Longest river entirely within Brazil", "Known as the 'River of National Unity'", "Stretches from Minas Gerais to the Atlantic", "Essential for irrigation and hydroelectric power", "Connects Brazil's interior to the coast", "Key ecological and economic artery"]
-    }, image: "/poi-images/br-sao-francisco-river-nature-v2.webp"},
+    }, image: "/poi-images/br-sao-francisco-river-nature-v2.webp",
+    description: {
+      de: "Der Rio São Francisco ist der längste Fluss, der vollständig durch Brasilien fließt. Er verbindet das Landesinnere mit dem Atlantik und ist wichtig für Bewässerung und Energie.",
+      hu: "A São Francisco folyó Brazília egyik legfontosabb, teljes egészében az országon belül futó folyója. A szárazabb északkeleti térségekben különösen fontos a vízellátás és az öntözés miatt.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Längster Fluss nur in Brasilien", "Verbindet Binnenland und Küste", "Wichtig für Wasserkraft"],
+      hu: ["Teljesen brazil folyó", "Északkelet-Brazíliában kulcsfontosságú", "Öntözéshez és energiatermeléshez használják"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "br-parana-river-nature-v2",
     type: "river",
@@ -57,7 +82,20 @@ export const poiExtraBrazilNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Significant South American river system", "Forms part of the Brazil-Paraguay-Argentina border", "Key site of the Itaipu hydroelectric dam", "Vital for regional trade and transportation", "Critical economic engine for South America", "Provides massive renewable energy production"]
-    }, image: "/poi-images/br-parana-river-nature-v2.webp"},
+    }, image: "/poi-images/br-parana-river-nature-v2.webp",
+    description: {
+      de: "Der Paraná ist einer der wichtigsten Flüsse Südamerikas und bildet teils Grenzen zwischen Ländern der Region. Sein Wasser ist eng mit Wasserkraft, Handel und Verkehr verbunden.",
+      hu: "A Paraná folyó Dél-Amerika egyik fő vízi útvonala, Brazília, Paraguay és Argentína térségében. Nagy szerepe van az energiaellátásban és a határvidéki folyami rendszerekben.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Wichtiger Fluss in Südamerika", "Grenzfluss in der Region", "Bedeutend für Wasserkraft"],
+      hu: ["Több ország határvidékéhez kapcsolódik", "Erős vízerőműves jelentősége van", "A La Plata vízrendszer része"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "br-tocantins-river-nature-v2",
     type: "river",
@@ -76,6 +114,18 @@ export const poiExtraBrazilNatureV2: POI[] = [
     factsAdvanced: {
       en: ["Flows northward through Brazil's interior", "Merges with the Amazon delta region", "Traverses states like Goiás and Tocantins", "Important route for trade and energy generation", "Supports diverse regional landscapes", "Key waterway for Northern and Central development"]
     },
+    description: {
+      de: "Der Tocantins ist ein großer Strom im Inneren Brasiliens und Teil eines wichtigen Flusssystems im Norden. Er spielt eine Rolle für Energie, Transport und regionale Entwicklung.",
+      hu: "A Tocantins folyó Közép- és Észak-Brazília egyik nagy vízfolyása. A térség vízrendszerének és energiahasznosításának fontos eleme.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Großer Fluss in Zentralbrasilien", "Wichtig für Transport", "Teil eines großen Einzugsgebiets"],
+      hu: ["Közép-Brazíliában folyik", "Az Araguaia-Tocantins rendszer része", "Nagy vízerő-potenciál jellemzi"],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "br-araguaia-river-nature-v2",
@@ -94,7 +144,20 @@ export const poiExtraBrazilNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Prominent river in central Brazil", "Flows through the cerrado biome", "Famous for extensive seasonal sandy beaches", "Key corridor for regional wildlife", "Popular eco-tourism destination", "Vital ecological resource for central Brazil"]
-    }, image: "/poi-images/br-araguaia-river-nature-v2.webp"},
+    }, image: "/poi-images/br-araguaia-river-nature-v2.webp",
+    description: {
+      de: "Der Araguaia ist ein markanter Fluss im Zentrum Brasiliens mit breiten Sandbänken in der Trockenzeit. Er verläuft durch das Cerrado-Gebiet und ist wichtig für die Tierwelt.",
+      hu: "Az Araguaia folyó Közép-Brazília egyik meghatározó folyója. Természetes élőhelyekben gazdag folyóvidéket formál.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Breite Sandstrände in der Trockenzeit", "Durchquert den Cerrado", "Wichtig für Ökotourismus"],
+      hu: ["Közép-Brazílián halad át", "A Tocantins vízrendszeréhez tartozik", "Nagy ártéri területei vannak"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "br-negro-river-nature-v2",
     type: "river",
@@ -111,7 +174,20 @@ export const poiExtraBrazilNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Amazonas mellékfolyója", "Sötét, huminsavas víz", "'Vizek találkozása' jelenség", "Érintetlen erdőségek", "Természeti látványosság", "Fekete színű folyó"]
-    }, image: "/poi-images/br-negro-river-nature-v2.webp"},
+    }, image: "/poi-images/br-negro-river-nature-v2.webp",
+    description: {
+      de: "Der Rio Negro ist ein schwarzwasserreicher Nebenfluss des Amazonas. An seiner Mündung bei Manaus entsteht das bekannte Naturschauspiel der zusammentreffenden Gewässer.",
+      hu: "A Rio Negro az Amazonas egyik legismertebb mellékfolyója. Sötét vizű folyóként ismert, és Manaus térségében találkozik az Amazonas főágával.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Schwarzwasserfluss", "Nebenfluss des Amazonas", "Bekannt für die Wassermischung bei Manaus"],
+      hu: ["Az Amazonas mellékfolyója", "Manaus közelében torkollik", "Sötét vizű folyóként ismert"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "br-madeira-river-nature-v2",
     type: "river",
@@ -128,6 +204,18 @@ export const poiExtraBrazilNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Amazonas-medence vízi útja", "Mezőgazdasági szállítás", "Ásványi kincsek közlekedése", "Északi régió energiaellátása", "Vízierőművek", "Amazóniai élővilág"]
+    },
+    description: {
+      de: "Der Rio Madeira gehört zu den großen Nebenflüssen des Amazonas und ist für den Norden Brasiliens wirtschaftlich wichtig. Er wird für Schifffahrt, Energie und den Transport von Gütern genutzt.",
+      hu: "A Madeira folyó az Amazonas egyik legnagyobb mellékfolyója. Nyugat-brazíliai vízrendszerek fontos eleme.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Großer Amazonas-Nebenfluss", "Wichtig für Schifffahrt", "Relevant für Wasserkraft"],
+      hu: ["Az Amazonas nagy mellékfolyója", "Brazília nyugati részéhez kapcsolódik", "Nagy hordalékszállítás jellemzi"],
+      ro: [],
+      en: []
     }
   },
   {
@@ -146,6 +234,18 @@ export const poiExtraBrazilNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Kristálytiszta folyóvíz", "Homokos folyópartok", "Alter do Chão (üdülőhely)", "Amazonasi közlekedési tengely", "Ökológiai szerep", "Turisztikai jelentőség"]
+    },
+    description: {
+      de: "Der Tapajós ist für sein klares Wasser und seine Sandstrände bekannt. Der Fluss ist ein wichtiger Teil des Amazonasraums und ein Ziel für Naturtourismus.",
+      hu: "A Tapajós folyó tiszta vizű amazóniai mellékfolyó, amely Pará államban ömlik az Amazonasba. A folyó a térség természeti sokféleségének fontos része.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Klares Flusswasser", "Bekannte Sandstrände", "Teil des Amazonasgebiets"],
+      hu: ["Az Amazonas mellékfolyója", "Pará államban található", "Tiszta vizű folyóként ismert"],
+      ro: [],
+      en: []
     }
   },
   {
@@ -164,6 +264,18 @@ export const poiExtraBrazilNatureV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Xingu Nemzeti Park", "Őslakosok védett területe", "Amazonasi biodiverzitás", "Kulturális megőrzés", "Természetvédelmi bástya", "Folyórendszer"]
+    },
+    description: {
+      de: "Der Xingu ist ein bedeutender Fluss im Amazonasbecken und eng mit Schutzgebieten und indigenen Gebieten verbunden. Er steht für die ökologische Vielfalt des Nordens Brasiliens.",
+      hu: "A Xingu folyó Mato Grosso és Pará térségében formál nagy amazóniai vízrendszert. A folyóvidék sok helyen őshonos közösségek és erdős élőhelyek otthona.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Im Amazonasbecken", "Wichtig für Biodiversität", "Verbunden mit indigenen Gebieten"],
+      hu: ["Az Amazonas vízgyűjtőjéhez tartozik", "Mato Grosso és Pará államokhoz kapcsolódik", "Gazdag biodiverzitású térség"],
+      ro: [],
+      en: []
     }
   },
   {
@@ -184,6 +296,18 @@ export const poiExtraBrazilNatureV2: POI[] = [
     factsAdvanced: {
       hu: ["Iguaçu-vízesés helyszíne", "Brazília–Argentína határ", "UNESCO világörökségi helyszín", "Esőerdők szívében", "Természeti csoda", "Fontos idegenforgalmi központ"]
     },
+    description: {
+      de: "Der Iguaçu ist der Fluss hinter den berühmten Iguaçu-Fällen an der Grenze zu Argentinien. Er gehört zu den bekanntesten Naturlandschaften im Süden Brasiliens.",
+      hu: "Az Iguaçu folyó Paraná állam egyik legismertebb folyója. A brazil-argentin határvidék és az Iguaçu-vízesés környéke teszi híressé.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Bildet die Iguaçu-Fälle", "An der Grenze zu Argentinien", "Bekanntes Naturwahrzeichen"],
+      hu: ["A Paraná mellékfolyója", "A határvidékhez kapcsolódik", "Az Iguaçu-vízesés térségéhez tartozik"],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "br-pico-da-neblina-nature-v2",
@@ -272,7 +396,20 @@ export const poiExtraBrazilNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Tafelberg (Tepui)", "Grenzpunkt (Brasilien, Ven, Guy)", "Geologisch sehr alt", "Hohe Zahl endemischer Arten", "Steile Felswände", "Markante flache Gipfelform"]
-    }, image: "/poi-images/br-mount-roraima-nature-v2.webp"},
+    }, image: "/poi-images/br-mount-roraima-nature-v2.webp",
+    description: {
+      de: "Der Berg Roraima ist ein markanter Tafelberg an der Grenze von Brasilien, Venezuela und Guyana. Seine steilen Wände und die abgelegene Lage machen ihn zu einem besonderen Naturraum.",
+      hu: "A Roraima-hegy lapos tetejű, különleges asztalhegy a brazil határvidéken. Brazília, Venezuela és Guyana találkozásának térségében emelkedik.",
+      ro: "",
+      en: ""
+    },
+    facts: {
+      de: ["Tafelberg an der Grenze", "Zwischen drei Ländern", "Bekannt für endemische Arten"],
+      hu: ["Asztalhegy típusú", "Három ország határvidékén áll", "A Pakaraima-hegység része"],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "br-pico-da-bandeira-nature-v2",
     type: "mountain",

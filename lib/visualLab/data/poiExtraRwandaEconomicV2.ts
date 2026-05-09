@@ -231,7 +231,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Ein Kraftwerk, das lokale Torfvorkommen nutzt, um das ruandische Stromnetz zu stabilisieren.",
       hu: "Egy eromu, amely helyi tozeglelohelyeket használ a ruandai elektromos hálózat stabilizálására.",
-      ro: "O centrala electrica care utilizeaza zacamintele locale de turba pentru a stabiliza re?eaua rwandeza.",
+      ro: "O centrala electrica care utilizeaza zacamintele locale de turba pentru a stabiliza rețeaua rwandeza.",
       en: "A power plant that utilizes local peat deposits to stabilize the Rwandan grid."
     },
     facts: {
@@ -423,7 +423,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     description: {
       de: "Ein Abbaugebiet für Coltan, das essentiell für die Elektronikindustrie weltweit ist.",
       hu: "Koltán bányászati terület, amely elengedhetetlen a világ elektronikai ipara számára.",
-      ro: "O zona de extracție a coltanului, esen?iala pentru industria electronica la nivel mondial.",
+      ro: "O zona de extracție a coltanului, esențiala pentru industria electronica la nivel mondial.",
       en: "A mining area for coltan, essential for the global electronics industry."
     },
     facts: {
@@ -477,7 +477,7 @@ export const poiExtraRwandaEconomicV2: POI[] = [
     facts: {
       de: ["Produziert Wolframit", "Exportiert in internationale Märkte"],
       hu: ["Volfrámot termel", "Nemzetközi piacokra exportál"],
-      ro: ["Produce wolframit", "Exporta pe pie?ele internaționale"],
+      ro: ["Produce wolframit", "Exporta pe piețele internaționale"],
       en: ["Produces wolframite", "Exports to international markets"]
     }
   },

@@ -1,105 +1,125 @@
 
 import json
+import re
 import sys
 import os
-import re
 
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: python apply_seo_json_v2.py <json_file>")
-        sys.exit(1)
+def find_object_bounds(content, start_index):
+    brace_count = 0
+    in_string = False
+    escape = False
+    
+    real_start = content.find('{', start_index)
+    if real_start == -1:
+        return -1, -1
+    brace_count = 1
+    
+    for i in range(real_start + 1, len(content)):
+        char = content[i]
+        
+        if in_string:
+            if escape:
+                escape = False
+            elif char == '':
+                escape = True
+            elif char == in_string:
+                in_string = False
+        else:
+            if char in ('"', "'", "`"):
+                in_string = char
+            elif char == '{':
+                brace_count += 1
+            elif char == '}':
+                brace_count -= 1
+                if brace_count == 0:
+                    return real_start, i
+                    
+    return -1, -1
 
-    json_file_path = sys.argv[1]
-    if not os.path.exists(json_file_path):
-        print(f"Error: JSON file not found at {json_file_path}")
-        sys.exit(1)
-
-    with open(json_file_path, 'r', encoding='utf-8') as f:
+def apply_seo(json_file):
+    with open(json_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    project_root = r'C:/Users/User/plizio-repo'
-    files_to_update = data.get("files", [])
-    
-    for file_path_suffix in files_to_update:
-        file_path = os.path.join(project_root, file_path_suffix).replace('/', os.sep)
-        if not os.path.exists(file_path):
-            print(f"Warning: File not found, skipping: {file_path}")
+    lang_setting = data.get('lang', 'en')
+    items = data.get('items', [])
+    files = data.get('files', [])
+
+    item_map = {item['id']: item for item in items}
+
+    for ts_file in files:
+        if not os.path.exists(ts_file):
+            print(f"File not found: {ts_file}")
             continue
 
-        with open(file_path, 'r', encoding='utf-8') as f:
+        with open(ts_file, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        for item in data.get("items", []):
-            poi_id = item.get("id")
-            if not poi_id:
-                continue
-            
-            poi_regex = re.compile(r"{\s*id:\s*"" + re.escape(poi_id) + r""[\s\S]*?}(?=\s*,\s*|(?:\s*]))", re.DOTALL)
-            match = poi_regex.search(content)
-
-            if not match:
-                print(f"Warning: POI with id '{poi_id}' not found in {file_path}")
+        original_content = content
+        
+        for poi_id, item in item_map.items():
+            # Find the POI object by its ID
+            id_pattern = r'id:\s*(?:"|'|`)' + re.escape(poi_id) + r'(?:"|'|`)'
+            id_match = re.search(id_pattern, content)
+            if not id_match:
+                print(f"POI with id '{poi_id}' not found in {ts_file}")
                 continue
 
-            poi_text = match.group(0)
+            # Find the start and end of the POI object
+            obj_start, obj_end = find_object_bounds(content, id_match.start())
+            if obj_start == -1:
+                print(f"Could not find object boundaries for POI with id '{poi_id}'")
+                continue
+
+            poi_block = content[obj_start:obj_end + 1]
             
-            new_poi_text = poi_text.rstrip().rstrip('}').rstrip()
-            
-            if "descriptionAdvancedDe" in item:
-                desc_de = json.dumps(item["descriptionAdvancedDe"], ensure_ascii=False)
-                desc_hu = json.dumps(item["descriptionAdvancedHu"], ensure_ascii=False)
-                desc_ro = json.dumps(item["descriptionAdvancedRo"], ensure_ascii=False)
-                desc_en = json.dumps(item["descriptionAdvancedEn"], ensure_ascii=False)
+            # Add descriptionAdvanced
+            if any(f'descriptionAdvanced{lang.capitalize()}' in item for lang in ['de', 'hu', 'ro', 'en']):
+                desc_adv_items = {}
+                for lang_code in ['de', 'hu', 'ro', 'en']:
+                    key = f'descriptionAdvanced{lang_code.capitalize()}'
+                    if key in item:
+                        desc_adv_items[lang_code] = item[key]
                 
-                desc_block = "descriptionAdvanced: {
-" + 
-                             "      de: " + desc_de + ",
-" + 
-                             "      hu: " + desc_hu + ",
-" + 
-                             "      ro: " + desc_ro + ",
-" + 
-                             "      en: " + desc_en + "
-" + 
-                             "    }"
+                if desc_adv_items:
+                    json_str = json.dumps(desc_adv_items, ensure_ascii=False, indent=4)
+                    
+                    # Add a comma if the object is not empty
+                    if poi_block.strip().endswith('}'):
+                        last_brace_index = poi_block.rfind('}')
+                        if last_brace_index != -1:
+                            poi_block = poi_block[:last_brace_index].rstrip()
+                            if not poi_block.endswith(','):
+                                poi_block += ','
+                            poi_block += f'
+    descriptionAdvanced: {json_str}
+' + '}'
 
-                if "descriptionAdvanced:" in new_poi_text:
-                     new_poi_text = re.sub(r"descriptionAdvanced:\s*\{[\s\S]*?\}", desc_block, new_poi_text, flags=re.DOTALL)
-                else:
-                    new_poi_text += ",
-    " + desc_block
+            # Add factsAdvanced
+            if 'factsAdvanced' in item:
+                new_facts = item['factsAdvanced']
+                facts_json = json.dumps(new_facts, ensure_ascii=False)
+                
+                if poi_block.strip().endswith('}'):
+                    last_brace_index = poi_block.rfind('}')
+                    if last_brace_index != -1:
+                        poi_block = poi_block[:last_brace_index].rstrip()
+                        if not poi_block.endswith(','):
+                            poi_block += ','
+                        poi_block += f'
+    factsAdvanced: {{ "multi4": {facts_json} }}
+' + '}'
 
-            if "factsAdvanced" in item:
-                facts_de = json.dumps(item["factsAdvanced"], ensure_ascii=False)
-                facts_hu = json.dumps(item.get("factsAdvancedHu", item["factsAdvanced"]), ensure_ascii=False)
-                facts_ro = json.dumps(item.get("factsAdvancedRo", item["factsAdvanced"]), ensure_ascii=False)
-                facts_en = json.dumps(item.get("factsAdvancedEn", item["factsAdvanced"]), ensure_ascii=False)
 
-                facts_block = "factsAdvanced: {
-" + 
-                              "      de: " + facts_de + ",
-" + 
-                              "      hu: " + facts_hu + ",
-" + 
-                              "      ro: " + facts_ro + ",
-" + 
-                              "      en: " + facts_en + "
-" + 
-                              "    }"
+            # Replace the old POI block with the new one
+            content = content[:obj_start] + poi_block + content[obj_end + 1:]
 
-                if "factsAdvanced:" in new_poi_text:
-                    new_poi_text = re.sub(r"factsAdvanced:\s*\{[\s\S]*?\}", facts_block, new_poi_text, flags=re.DOTALL)
-                else:
-                    new_poi_text += ",
-    " + facts_block
-
-            new_poi_text += "
-  }"
-            content = content.replace(poi_text, new_poi_text)
-            print(f"Updated POI '{poi_id}' in {file_path}")
-
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(content)
+        if content != original_content:
+            with open(ts_file, 'w', encoding='utf-8') as f:
+                f.write(content)
+            print(f"Saved changes to {ts_file}")
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) < 2:
+        print("Usage: python apply_seo_json_v2.py <json_file>")
+    else:
+        apply_seo(sys.argv[1])

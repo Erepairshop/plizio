@@ -24,6 +24,27 @@ CONTINENTS = {
             "VE": "venezuela",
         },
     },
+    "asia": {
+        "viewbox_label": "asia",
+        "iso_label": "AS",
+        "lon_clip": (25, 180),
+        "lat_clip": (-12, 60),
+        "countries": {
+            "CN": "china", "JP": "japan", "KR": "southkorea", "KP": "northkorea",
+            "MN": "mongolia", "VN": "vietnam", "LA": "laos", "KH": "cambodia",
+            "TH": "thailand", "MM": "myanmar", "MY": "malaysia", "SG": "singapore",
+            "ID": "indonesia", "PH": "philippines", "BN": "brunei", "IN": "india",
+            "PK": "pakistan", "BD": "bangladesh", "LK": "srilanka", "NP": "nepal",
+            "BT": "bhutan", "MV": "maldives", "AF": "afghanistan", "IR": "iran",
+            "IQ": "iraq", "SY": "syria", "LB": "lebanon", "JO": "jordan",
+            "IL": "israel", "PS": "palestine", "SA": "saudiarabia", "YE": "yemen",
+            "OM": "oman", "AE": "uae", "QA": "qatar", "BH": "bahrain",
+            "KW": "kuwait", "TR": "turkey", "CY": "cyprus", "GE": "georgia",
+            "AM": "armenia", "AZ": "azerbaijan", "KZ": "kazakhstan", "UZ": "uzbekistan",
+            "TM": "turkmenistan", "KG": "kyrgyzstan", "TJ": "tajikistan", "TW": "taiwan",
+            "TL": "timorleste",
+        },
+    },
     "africa": {
         "viewbox_label": "africa",
         "iso_label": "AF",
@@ -168,10 +189,12 @@ def generate(continent_key, geojson):
             )
         ts += "];\n"
 
-        out_path = os.path.join(MAPS_DIR, f"{slug}.svg.ts")
-        with open(out_path, "w", encoding="utf-8") as f:
-            f.write(ts)
-        print(f"  wrote {slug}.svg.ts ({len(feats)} feats)")
+        # Asia: csak a kontinens fájl, country .svg.ts-eket NEM írunk most
+        if continent_key != "asia":
+            out_path = os.path.join(MAPS_DIR, f"{slug}.svg.ts")
+            with open(out_path, "w", encoding="utf-8") as f:
+                f.write(ts)
+            print(f"  wrote {slug}.svg.ts ({len(feats)} feats)")
         cont_countries.append((iso, slug, feats))
 
     if not cont_lons:
@@ -245,7 +268,8 @@ def main():
         geojson = json.load(f)
     print(f"  {len(geojson.get('features', []))} features")
 
-    for cont in ["southamerica", "africa"]:
+    targets = sys.argv[1:] if len(sys.argv) > 1 else ["southamerica", "africa"]
+    for cont in targets:
         print(f"=== {cont} ===")
         generate(cont, geojson)
 

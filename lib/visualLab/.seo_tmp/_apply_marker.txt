@@ -64,3 +64,9 @@
 1778337294 Botswana en matched=12 files=poiExtraBotswanaLandmarksV2.ts
 1778337315 Botswana en matched=12 files=poiExtraBotswanaLandmarksV2.ts,poiExtraBotswanaLifeV2.ts,poiExtraBotswanaReliefV2.ts
 1778337327 Botswana en matched=6 files=poiExtraBotswanaReliefV2.ts
+1778351425 Brazil de matched=11 files=poiExtraBrazilEconomicV2.ts,poiExtraBrazilHistoryV2.ts
+1778351439 Brazil de matched=10 files=poiExtraBrazilLandmarksV2.ts
+1778351455 Brazil de matched=11 files=poiExtraBrazilNatureV2.ts
+1778351612 Brazil hu matched=10 files=poiExtraBrazilEconomicV2.ts
+1778351617 Brazil hu matched=10 files=poiExtraBrazilLandmarksV2.ts
+1778351617 Brazil hu matched=11 files=poiExtraBrazilNatureV2.ts

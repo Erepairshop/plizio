@@ -2,39 +2,87 @@
 
 import { useRef, useState } from "react";
 import { useRouter } from "next/navigation";
-import { southamericaMap, southamericaViewBox, projectCoordsSA } from "@/lib/visualLab/maps/southamerica.svg";
-import { SOUTH_AMERICA_CAPITALS } from "@/lib/visualLab/maps/southAmericaCapitals";
+import { asiaMap, asiaViewBox, projectCoordsAS } from "@/lib/visualLab/maps/asia.svg";
+import { ASIA_CAPITALS } from "@/lib/visualLab/maps/asiaCapitals";
 import type { Lang } from "@/lib/visualLab/maps/resolver";
 import { motion, AnimatePresence } from "framer-motion";
 import { Plus, Minus, Maximize2 } from "lucide-react";
 import type { WheelEvent as RWheelEvent, PointerEvent as RPointerEvent } from "react";
 
-interface SouthAmericaMapProps {
+interface AsiaMapProps {
   lang: Lang;
 }
 
 const COUNTRY_BINDINGS: Record<string, string> = {
-  argentina: '/argentina-map', bolivia: '/bolivia-map', brazil: '/brazil-map',
-  chile: '/chile-map', colombia: '/colombia-map', ecuador: '/ecuador-map',
-  guyana: '/guyana-map', paraguay: '/paraguay-map', peru: '/peru-map',
-  suriname: '/suriname-map', uruguay: '/uruguay-map', venezuela: '/venezuela-map',
-  frenchguiana: '/frenchguiana-map',
+  china: "/china-map", japan: "/japan-map", southkorea: "/southkorea-map",
+  northkorea: "/northkorea-map", mongolia: "/mongolia-map", vietnam: "/vietnam-map",
+  laos: "/laos-map", cambodia: "/cambodia-map", thailand: "/thailand-map",
+  myanmar: "/myanmar-map", malaysia: "/malaysia-map", singapore: "/singapore-map",
+  indonesia: "/indonesia-map", philippines: "/philippines-map", brunei: "/brunei-map",
+  india: "/india-map", pakistan: "/pakistan-map", bangladesh: "/bangladesh-map",
+  srilanka: "/srilanka-map", nepal: "/nepal-map", bhutan: "/bhutan-map",
+  maldives: "/maldives-map", afghanistan: "/afghanistan-map", iran: "/iran-map",
+  iraq: "/iraq-map", syria: "/syria-map", lebanon: "/lebanon-map",
+  jordan: "/jordan-map", israel: "/israel-map", palestine: "/palestine-map",
+  saudiarabia: "/saudiarabia-map", yemen: "/yemen-map", oman: "/oman-map",
+  uae: "/uae-map", qatar: "/qatar-map", bahrain: "/bahrain-map",
+  kuwait: "/kuwait-map", turkey: "/turkey-map", cyprus: "/cyprus-map",
+  georgia: "/georgia-map", armenia: "/armenia-map", azerbaijan: "/azerbaijan-map",
+  kazakhstan: "/kazakhstan-map", uzbekistan: "/uzbekistan-map", turkmenistan: "/turkmenistan-map",
+  kyrgyzstan: "/kyrgyzstan-map", tajikistan: "/tajikistan-map", taiwan: "/taiwan-map",
+  timorleste: "/timorleste-map",
 };
 
 const COUNTRY_LABELS: Record<string, { de: string; hu: string; ro: string; en: string }> = {
-  argentina: { de: "Argentinien", hu: "Argentína", ro: "Argentina", en: "Argentina" },
-  bolivia: { de: "Bolivien", hu: "Bolívia", ro: "Bolivia", en: "Bolivia" },
-  brazil: { de: "Brasilien", hu: "Brazília", ro: "Brazilia", en: "Brazil" },
-  chile: { de: "Chile", hu: "Chile", ro: "Chile", en: "Chile" },
-  colombia: { de: "Kolumbien", hu: "Kolumbia", ro: "Columbia", en: "Colombia" },
-  ecuador: { de: "Ecuador", hu: "Ecuador", ro: "Ecuador", en: "Ecuador" },
-  guyana: { de: "Guyana", hu: "Guyana", ro: "Guyana", en: "Guyana" },
-  paraguay: { de: "Paraguay", hu: "Paraguay", ro: "Paraguay", en: "Paraguay" },
-  peru: { de: "Peru", hu: "Peru", ro: "Peru", en: "Peru" },
-  suriname: { de: "Suriname", hu: "Suriname", ro: "Suriname", en: "Suriname" },
-  uruguay: { de: "Uruguay", hu: "Uruguay", ro: "Uruguay", en: "Uruguay" },
-  venezuela: { de: "Venezuela", hu: "Venezuela", ro: "Venezuela", en: "Venezuela" },
-  frenchguiana: { de: "Französisch-Guayana", hu: "Francia Guyana", ro: "Guyana Franceză", en: "French Guiana" },
+  china:        { de: "China",          hu: "Kína",            ro: "China",          en: "China" },
+  japan:        { de: "Japan",          hu: "Japán",           ro: "Japonia",        en: "Japan" },
+  southkorea:   { de: "Südkorea",       hu: "Dél-Korea",       ro: "Coreea de Sud",  en: "South Korea" },
+  northkorea:   { de: "Nordkorea",      hu: "Észak-Korea",     ro: "Coreea de Nord", en: "North Korea" },
+  mongolia:     { de: "Mongolei",       hu: "Mongólia",        ro: "Mongolia",       en: "Mongolia" },
+  vietnam:      { de: "Vietnam",        hu: "Vietnám",         ro: "Vietnam",        en: "Vietnam" },
+  laos:         { de: "Laos",           hu: "Laosz",           ro: "Laos",           en: "Laos" },
+  cambodia:     { de: "Kambodscha",     hu: "Kambodzsa",       ro: "Cambodgia",      en: "Cambodia" },
+  thailand:     { de: "Thailand",       hu: "Thaiföld",        ro: "Thailanda",      en: "Thailand" },
+  myanmar:      { de: "Myanmar",        hu: "Mianmar",         ro: "Myanmar",        en: "Myanmar" },
+  malaysia:     { de: "Malaysia",       hu: "Malajzia",        ro: "Malaezia",       en: "Malaysia" },
+  singapore:    { de: "Singapur",       hu: "Szingapúr",       ro: "Singapore",      en: "Singapore" },
+  indonesia:    { de: "Indonesien",     hu: "Indonézia",       ro: "Indonezia",      en: "Indonesia" },
+  philippines:  { de: "Philippinen",    hu: "Fülöp-szigetek",  ro: "Filipine",       en: "Philippines" },
+  brunei:       { de: "Brunei",         hu: "Brunei",          ro: "Brunei",         en: "Brunei" },
+  india:        { de: "Indien",         hu: "India",           ro: "India",          en: "India" },
+  pakistan:     { de: "Pakistan",       hu: "Pakisztán",       ro: "Pakistan",       en: "Pakistan" },
+  bangladesh:   { de: "Bangladesch",    hu: "Banglades",       ro: "Bangladesh",     en: "Bangladesh" },
+  srilanka:     { de: "Sri Lanka",      hu: "Srí Lanka",       ro: "Sri Lanka",      en: "Sri Lanka" },
+  nepal:        { de: "Nepal",          hu: "Nepál",           ro: "Nepal",          en: "Nepal" },
+  bhutan:       { de: "Bhutan",         hu: "Bhután",          ro: "Bhutan",         en: "Bhutan" },
+  maldives:     { de: "Malediven",      hu: "Maldív-szigetek", ro: "Maldive",        en: "Maldives" },
+  afghanistan:  { de: "Afghanistan",    hu: "Afganisztán",     ro: "Afganistan",     en: "Afghanistan" },
+  iran:         { de: "Iran",           hu: "Irán",            ro: "Iran",           en: "Iran" },
+  iraq:         { de: "Irak",           hu: "Irak",            ro: "Irak",           en: "Iraq" },
+  syria:        { de: "Syrien",         hu: "Szíria",          ro: "Siria",          en: "Syria" },
+  lebanon:      { de: "Libanon",        hu: "Libanon",         ro: "Liban",          en: "Lebanon" },
+  jordan:       { de: "Jordanien",      hu: "Jordánia",        ro: "Iordania",       en: "Jordan" },
+  israel:       { de: "Israel",         hu: "Izrael",          ro: "Israel",         en: "Israel" },
+  palestine:    { de: "Palästina",      hu: "Palesztina",      ro: "Palestina",      en: "Palestine" },
+  saudiarabia:  { de: "Saudi-Arabien",  hu: "Szaúd-Arábia",    ro: "Arabia Saudită", en: "Saudi Arabia" },
+  yemen:        { de: "Jemen",          hu: "Jemen",           ro: "Yemen",          en: "Yemen" },
+  oman:         { de: "Oman",           hu: "Omán",            ro: "Oman",           en: "Oman" },
+  uae:          { de: "VAE",            hu: "EAE",             ro: "EAU",            en: "UAE" },
+  qatar:        { de: "Katar",          hu: "Katar",           ro: "Qatar",          en: "Qatar" },
+  bahrain:      { de: "Bahrain",        hu: "Bahrein",         ro: "Bahrain",        en: "Bahrain" },
+  kuwait:       { de: "Kuwait",         hu: "Kuvait",          ro: "Kuwait",         en: "Kuwait" },
+  turkey:       { de: "Türkei",         hu: "Törökország",     ro: "Turcia",         en: "Turkey" },
+  cyprus:       { de: "Zypern",         hu: "Ciprus",          ro: "Cipru",          en: "Cyprus" },
+  georgia:      { de: "Georgien",       hu: "Grúzia",          ro: "Georgia",        en: "Georgia" },
+  armenia:      { de: "Armenien",       hu: "Örményország",    ro: "Armenia",        en: "Armenia" },
+  azerbaijan:   { de: "Aserbaidschan",  hu: "Azerbajdzsán",    ro: "Azerbaidjan",    en: "Azerbaijan" },
+  kazakhstan:   { de: "Kasachstan",     hu: "Kazahsztán",      ro: "Kazahstan",      en: "Kazakhstan" },
+  uzbekistan:   { de: "Usbekistan",     hu: "Üzbegisztán",     ro: "Uzbekistan",     en: "Uzbekistan" },
+  turkmenistan: { de: "Turkmenistan",   hu: "Türkmenisztán",   ro: "Turkmenistan",   en: "Turkmenistan" },
+  kyrgyzstan:   { de: "Kirgisistan",    hu: "Kirgizisztán",    ro: "Kârgâzstan",     en: "Kyrgyzstan" },
+  tajikistan:   { de: "Tadschikistan",  hu: "Tádzsikisztán",   ro: "Tadjikistan",    en: "Tajikistan" },
+  taiwan:       { de: "Taiwan",         hu: "Tajvan",          ro: "Taiwan",         en: "Taiwan" },
+  timorleste:   { de: "Osttimor",       hu: "Kelet-Timor",     ro: "Timorul de Est", en: "Timor-Leste" },
 };
 
 const COMING_SOON: Partial<Record<Lang, string>> = {
@@ -46,9 +94,8 @@ const COMING_SOON: Partial<Record<Lang, string>> = {
 const MIN_SCALE = 1;
 const MAX_SCALE = 50;
 
-// Aggregate paths by slug (multiple admin-1 features per country)
 const countriesBySlug: Record<string, { id: string; path: string }[]> = {};
-for (const f of southamericaMap) {
+for (const f of asiaMap) {
   if (!countriesBySlug[f.id]) countriesBySlug[f.id] = [];
   countriesBySlug[f.id].push(f);
 }
@@ -57,7 +104,7 @@ const aggregated = Object.entries(countriesBySlug).map(([slug, parts]) => ({
   path: parts.map((p) => p.path).join(""),
 }));
 
-export default function SouthAmericaMap({ lang }: SouthAmericaMapProps) {
+export default function AsiaMap({ lang }: AsiaMapProps) {
   const router = useRouter();
   const svgRef = useRef<SVGSVGElement | null>(null);
   const pointers = useRef<Map<number, { x: number; y: number }>>(new Map());
@@ -69,7 +116,7 @@ export default function SouthAmericaMap({ lang }: SouthAmericaMapProps) {
   const [view, setView] = useState({ x: 0, y: 0, scale: 1 });
   const [toast, setToast] = useState<{ title: string; info: string } | null>(null);
 
-  const [vbX, vbY, vbW, vbH] = southamericaViewBox.split(" ").map(Number);
+  const [vbX, vbY, vbW, vbH] = asiaViewBox.split(" ").map(Number);
 
   const clampView = (v: { x: number; y: number; scale: number }) => {
     const scale = Math.max(MIN_SCALE, Math.min(MAX_SCALE, v.scale));
@@ -185,7 +232,7 @@ export default function SouthAmericaMap({ lang }: SouthAmericaMapProps) {
       </div>
 
       <svg
-        ref={svgRef} viewBox={southamericaViewBox}
+        ref={svgRef} viewBox={asiaViewBox}
         className="w-full h-[calc(100vh-90px)] select-none"
         preserveAspectRatio="xMidYMid meet"
         style={{ touchAction: "none", cursor: view.scale > 1 ? "grab" : "default", filter: "drop-shadow(0 0 20px rgba(0,255,255,0.08))" }}
@@ -214,11 +261,11 @@ export default function SouthAmericaMap({ lang }: SouthAmericaMapProps) {
 
           {/* Country name + capital labels — always visible */}
           <g pointerEvents="none">
-            {SOUTH_AMERICA_CAPITALS.map((cap) => {
+            {ASIA_CAPITALS.map((cap) => {
               const labels = COUNTRY_LABELS[cap.countryId];
               const countryLabel = labels ? labels[lang as keyof typeof labels] || labels.en : cap.countryId;
               const capitalName = cap.name[lang as keyof typeof cap.name] || cap.name.en;
-              const [cx, cy] = projectCoordsSA(cap.lon, cap.lat);
+              const [cx, cy] = projectCoordsAS(cap.lon, cap.lat);
               const dotR = 4 / view.scale;
               const countryFont = 18 / view.scale;
               const capitalFont = 13 / view.scale;

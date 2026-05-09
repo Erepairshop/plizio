@@ -117,6 +117,127 @@ export const COUNTRY_SLUGS: Record<string, Record<Lang, string>> = {
   trinidad:       { de: "trinidad-und-tobago", hu: "trinidad-es-tobago", ro: "trinidad-tobago", en: "trinidad-tobago" },
   belize:         { de: "belize", hu: "belize", ro: "belize", en: "belize" },
   "el-salvador":  { de: "el-salvador", hu: "el-salvador", ro: "el-salvador", en: "el-salvador" },
+  // South America (covered via templateCopy/COUNTRY_NAMES if missing)
+  argentina:      { de: "argentinien", hu: "argentina", ro: "argentina", en: "argentina" },
+  brazil:         { de: "brasilien", hu: "brazilia", ro: "brazilia", en: "brazil" },
+  chile:          { de: "chile", hu: "chile", ro: "chile", en: "chile" },
+  colombia:       { de: "kolumbien", hu: "kolumbia", ro: "columbia", en: "colombia" },
+  venezuela:      { de: "venezuela", hu: "venezuela", ro: "venezuela", en: "venezuela" },
+  peru:           { de: "peru", hu: "peru", ro: "peru", en: "peru" },
+  ecuador:        { de: "ecuador", hu: "ecuador", ro: "ecuador", en: "ecuador" },
+  bolivia:        { de: "bolivien", hu: "bolivia", ro: "bolivia", en: "bolivia" },
+  paraguay:       { de: "paraguay", hu: "paraguay", ro: "paraguay", en: "paraguay" },
+  uruguay:        { de: "uruguay", hu: "uruguay", ro: "uruguay", en: "uruguay" },
+  guyana:         { de: "guyana", hu: "guyana", ro: "guyana", en: "guyana" },
+  suriname:       { de: "suriname", hu: "suriname", ro: "suriname", en: "suriname" },
+  // Asia
+  japan:          { de: "japan", hu: "japan", ro: "japonia", en: "japan" },
+  thailand:       { de: "thailand", hu: "thaifold", ro: "thailanda", en: "thailand" },
+  vietnam:        { de: "vietnam", hu: "vietnam", ro: "vietnam", en: "vietnam" },
+  china:          { de: "china", hu: "kina", ro: "china", en: "china" },
+  india:          { de: "indien", hu: "india", ro: "india", en: "india" },
+  indonesia:      { de: "indonesien", hu: "indonezia", ro: "indonezia", en: "indonesia" },
+  philippines:    { de: "philippinen", hu: "fulop-szigetek", ro: "filipine", en: "philippines" },
+  malaysia:       { de: "malaysia", hu: "malajzia", ro: "malaezia", en: "malaysia" },
+  singapore:      { de: "singapur", hu: "szingapur", ro: "singapore", en: "singapore" },
+  "south-korea":  { de: "suedkorea", hu: "del-korea", ro: "coreea-de-sud", en: "south-korea" },
+  "north-korea":  { de: "nordkorea", hu: "eszak-korea", ro: "coreea-de-nord", en: "north-korea" },
+  taiwan:         { de: "taiwan", hu: "tajvan", ro: "taiwan", en: "taiwan" },
+  mongolia:       { de: "mongolei", hu: "mongolia", ro: "mongolia", en: "mongolia" },
+  kazakhstan:     { de: "kasachstan", hu: "kazahsztan", ro: "kazahstan", en: "kazakhstan" },
+  uzbekistan:     { de: "usbekistan", hu: "uzbegisztan", ro: "uzbekistan", en: "uzbekistan" },
+  turkmenistan:   { de: "turkmenistan", hu: "turkmenisztan", ro: "turkmenistan", en: "turkmenistan" },
+  kyrgyzstan:     { de: "kirgisistan", hu: "kirgizisztan", ro: "kargazstan", en: "kyrgyzstan" },
+  tajikistan:     { de: "tadschikistan", hu: "tadzsikisztan", ro: "tadjikistan", en: "tajikistan" },
+  afghanistan:    { de: "afghanistan", hu: "afganisztan", ro: "afganistan", en: "afghanistan" },
+  pakistan:       { de: "pakistan", hu: "pakisztan", ro: "pakistan", en: "pakistan" },
+  bangladesh:     { de: "bangladesch", hu: "banglades", ro: "bangladesh", en: "bangladesh" },
+  "sri-lanka":    { de: "sri-lanka", hu: "sri-lanka", ro: "sri-lanka", en: "sri-lanka" },
+  nepal:          { de: "nepal", hu: "nepal", ro: "nepal", en: "nepal" },
+  bhutan:         { de: "bhutan", hu: "bhutan", ro: "bhutan", en: "bhutan" },
+  myanmar:        { de: "myanmar", hu: "mianmar", ro: "myanmar", en: "myanmar" },
+  cambodia:       { de: "kambodscha", hu: "kambodzsa", ro: "cambodgia", en: "cambodia" },
+  laos:           { de: "laos", hu: "laosz", ro: "laos", en: "laos" },
+  iran:           { de: "iran", hu: "iran", ro: "iran", en: "iran" },
+  iraq:           { de: "irak", hu: "irak", ro: "irak", en: "iraq" },
+  syria:          { de: "syrien", hu: "szíria", ro: "siria", en: "syria" },
+  lebanon:        { de: "libanon", hu: "libanon", ro: "liban", en: "lebanon" },
+  jordan:         { de: "jordanien", hu: "jordania", ro: "iordania", en: "jordan" },
+  israel:         { de: "israel", hu: "izrael", ro: "israel", en: "israel" },
+  palestine:      { de: "palaestina", hu: "palesztina", ro: "palestina", en: "palestine" },
+  "saudi-arabia": { de: "saudi-arabien", hu: "szaud-arabia", ro: "arabia-saudita", en: "saudi-arabia" },
+  yemen:          { de: "jemen", hu: "jemen", ro: "yemen", en: "yemen" },
+  oman:           { de: "oman", hu: "oman", ro: "oman", en: "oman" },
+  qatar:          { de: "katar", hu: "katar", ro: "qatar", en: "qatar" },
+  bahrain:        { de: "bahrain", hu: "bahrein", ro: "bahrain", en: "bahrain" },
+  kuwait:         { de: "kuwait", hu: "kuvait", ro: "kuwait", en: "kuwait" },
+  "united-arab-emirates": { de: "vereinigte-arabische-emirate", hu: "egyesult-arab-emirsegek", ro: "emiratele-arabe-unite", en: "united-arab-emirates" },
+  azerbaijan:     { de: "aserbaidschan", hu: "azerbajdzsan", ro: "azerbaidjan", en: "azerbaijan" },
+  armenia:        { de: "armenien", hu: "ormenyorszag", ro: "armenia", en: "armenia" },
+  georgia:        { de: "georgien", hu: "grúzia", ro: "georgia", en: "georgia" },
+  "timor-leste":  { de: "osttimor", hu: "kelet-timor", ro: "timorul-de-est", en: "timor-leste" },
+  brunei:         { de: "brunei", hu: "brunei", ro: "brunei", en: "brunei" },
+  maldives:       { de: "malediven", hu: "maldiv-szigetek", ro: "maldive", en: "maldives" },
+  // Africa
+  algeria:        { de: "algerien", hu: "algeria", ro: "algeria", en: "algeria" },
+  angola:         { de: "angola", hu: "angola", ro: "angola", en: "angola" },
+  benin:          { de: "benin", hu: "benin", ro: "benin", en: "benin" },
+  botswana:       { de: "botsuana", hu: "botswana", ro: "botswana", en: "botswana" },
+  "burkina-faso": { de: "burkina-faso", hu: "burkina-faso", ro: "burkina-faso", en: "burkina-faso" },
+  burundi:        { de: "burundi", hu: "burundi", ro: "burundi", en: "burundi" },
+  cameroon:       { de: "kamerun", hu: "kamerun", ro: "camerun", en: "cameroon" },
+  "cape-verde":   { de: "kap-verde", hu: "zold-foki-koztarsasag", ro: "capul-verde", en: "cape-verde" },
+  "central-african-republic": { de: "zentralafrikanische-republik", hu: "kozep-afrikai-koztarsasag", ro: "republica-centrafricana", en: "central-african-republic" },
+  chad:           { de: "tschad", hu: "csad", ro: "ciad", en: "chad" },
+  comoros:        { de: "komoren", hu: "comore-szigetek", ro: "comore", en: "comoros" },
+  congo:          { de: "kongo", hu: "kongoi-koztarsasag", ro: "republica-congo", en: "congo" },
+  "democratic-republic-of-congo": { de: "demokratische-republik-kongo", hu: "kongoi-demokratikus-koztarsasag", ro: "republica-democrata-congo", en: "democratic-republic-of-congo" },
+  djibouti:       { de: "dschibuti", hu: "dzsibuti", ro: "djibouti", en: "djibouti" },
+  egypt:          { de: "aegypten", hu: "egyiptom", ro: "egipt", en: "egypt" },
+  "equatorial-guinea": { de: "aequatorialguinea", hu: "egyenlitoi-guinea", ro: "guineea-ecuatoriala", en: "equatorial-guinea" },
+  eritrea:        { de: "eritrea", hu: "eritrea", ro: "eritreea", en: "eritrea" },
+  eswatini:       { de: "eswatini", hu: "szvazifold", ro: "eswatini", en: "eswatini" },
+  ethiopia:       { de: "aethiopien", hu: "etiopia", ro: "etiopia", en: "ethiopia" },
+  gabon:          { de: "gabun", hu: "gabon", ro: "gabon", en: "gabon" },
+  gambia:         { de: "gambia", hu: "gambia", ro: "gambia", en: "gambia" },
+  ghana:          { de: "ghana", hu: "ghana", ro: "ghana", en: "ghana" },
+  guinea:         { de: "guinea", hu: "guinea", ro: "guineea", en: "guinea" },
+  "guinea-bissau":{ de: "guinea-bissau", hu: "bissau-guinea", ro: "guineea-bissau", en: "guinea-bissau" },
+  "ivory-coast":  { de: "elfenbeinkueste", hu: "elefantcsontpart", ro: "coasta-de-fildes", en: "ivory-coast" },
+  kenya:          { de: "kenia", hu: "kenya", ro: "kenya", en: "kenya" },
+  lesotho:        { de: "lesotho", hu: "lesotho", ro: "lesotho", en: "lesotho" },
+  liberia:        { de: "liberia", hu: "liberia", ro: "liberia", en: "liberia" },
+  libya:          { de: "libyen", hu: "libia", ro: "libia", en: "libya" },
+  madagascar:     { de: "madagaskar", hu: "madagaszkar", ro: "madagascar", en: "madagascar" },
+  malawi:         { de: "malawi", hu: "malawi", ro: "malawi", en: "malawi" },
+  mali:           { de: "mali", hu: "mali", ro: "mali", en: "mali" },
+  mauritania:     { de: "mauretanien", hu: "mauritania", ro: "mauritania", en: "mauritania" },
+  mauritius:      { de: "mauritius", hu: "mauritius", ro: "mauritius", en: "mauritius" },
+  morocco:        { de: "marokko", hu: "marokko", ro: "maroc", en: "morocco" },
+  mozambique:     { de: "mosambik", hu: "mozambik", ro: "mozambic", en: "mozambique" },
+  namibia:        { de: "namibia", hu: "namibia", ro: "namibia", en: "namibia" },
+  niger:          { de: "niger", hu: "niger", ro: "niger", en: "niger" },
+  nigeria:        { de: "nigeria", hu: "nigeria", ro: "nigeria", en: "nigeria" },
+  rwanda:         { de: "ruanda", hu: "ruanda", ro: "rwanda", en: "rwanda" },
+  "sao-tome-and-principe": { de: "sao-tome-und-principe", hu: "sao-tome-es-principe", ro: "sao-tome-si-principe", en: "sao-tome-and-principe" },
+  senegal:        { de: "senegal", hu: "szenegal", ro: "senegal", en: "senegal" },
+  seychelles:     { de: "seychellen", hu: "seychelle-szigetek", ro: "seychelles", en: "seychelles" },
+  "sierra-leone": { de: "sierra-leone", hu: "sierra-leone", ro: "sierra-leone", en: "sierra-leone" },
+  somalia:        { de: "somalia", hu: "szomalia", ro: "somalia", en: "somalia" },
+  "south-africa": { de: "suedafrika", hu: "del-afrika", ro: "africa-de-sud", en: "south-africa" },
+  "south-sudan":  { de: "suedsudan", hu: "del-szudan", ro: "sudanul-de-sud", en: "south-sudan" },
+  sudan:          { de: "sudan", hu: "szudan", ro: "sudan", en: "sudan" },
+  tanzania:       { de: "tansania", hu: "tanzania", ro: "tanzania", en: "tanzania" },
+  togo:           { de: "togo", hu: "togo", ro: "togo", en: "togo" },
+  tunisia:        { de: "tunesien", hu: "tunezia", ro: "tunisia", en: "tunisia" },
+  uganda:         { de: "uganda", hu: "uganda", ro: "uganda", en: "uganda" },
+  zambia:         { de: "sambia", hu: "zambia", ro: "zambia", en: "zambia" },
+  zimbabwe:       { de: "simbabwe", hu: "zimbabwe", ro: "zimbabwe", en: "zimbabwe" },
+  // Oceania
+  australia:      { de: "australien", hu: "ausztralia", ro: "australia", en: "australia" },
+  "new-zealand":  { de: "neuseeland", hu: "uj-zeland", ro: "noua-zeelanda", en: "new-zealand" },
+  fiji:           { de: "fidschi", hu: "fidzsi", ro: "fiji", en: "fiji" },
+  "papua-new-guinea": { de: "papua-neuguinea", hu: "papua-uj-guinea", ro: "papua-noua-guinee", en: "papua-new-guinea" },
 };
 
 export const STATE_SLUGS: Record<string, Record<Lang, string>> = {
@@ -269,6 +390,70 @@ const ISO2_TO_COUNTRY: Record<string, string> = {
   US: "usa", CA: "canada", MX: "mexico", GT: "guatemala", HN: "honduras",
   NI: "nicaragua", CR: "costa-rica", PA: "panama", CU: "cuba", DO: "dominican-republic",
   HT: "haiti", JM: "jamaica", BS: "bahamas", TT: "trinidad", BZ: "belize", SV: "el-salvador",
+  // South America
+  AR: "argentina", BR: "brazil", CL: "chile", CO: "colombia", VE: "venezuela",
+  PE: "peru", EC: "ecuador", BO: "bolivia", PY: "paraguay", UY: "uruguay",
+  GY: "guyana", SR: "suriname",
+  // Asia
+  JP: "japan", TH: "thailand", VN: "vietnam", CN: "china", IN: "india",
+  ID: "indonesia", PH: "philippines", MY: "malaysia", SG: "singapore",
+  KR: "south-korea", KP: "north-korea", TW: "taiwan", MN: "mongolia",
+  KZ: "kazakhstan", UZ: "uzbekistan", TM: "turkmenistan", KG: "kyrgyzstan",
+  TJ: "tajikistan", AF: "afghanistan", PK: "pakistan", BD: "bangladesh",
+  LK: "sri-lanka", NP: "nepal", BT: "bhutan", MM: "myanmar", KH: "cambodia",
+  LA: "laos", IR: "iran", IQ: "iraq", SY: "syria", LB: "lebanon",
+  JO: "jordan", IL: "israel", PS: "palestine", SA: "saudi-arabia", YE: "yemen",
+  OM: "oman", QA: "qatar", BH: "bahrain", KW: "kuwait", AE: "united-arab-emirates",
+  AZ: "azerbaijan", AM: "armenia", GE: "georgia", TL: "timor-leste",
+  BN: "brunei", MV: "maldives",
+  // Africa
+  DZ: "algeria", AO: "angola", BJ: "benin", BW: "botswana", BF: "burkina-faso",
+  BI: "burundi", CM: "cameroon", CV: "cape-verde", CF: "central-african-republic",
+  TD: "chad", KM: "comoros", CG: "congo", CD: "democratic-republic-of-congo",
+  DJ: "djibouti", EG: "egypt", GQ: "equatorial-guinea", ER: "eritrea",
+  SZ: "eswatini", ET: "ethiopia", GA: "gabon", GM: "gambia", GH: "ghana",
+  GN: "guinea", GW: "guinea-bissau", CI: "ivory-coast", KE: "kenya",
+  LS: "lesotho", LR: "liberia", LY: "libya", MG: "madagascar", MW: "malawi",
+  ML: "mali", MR: "mauritania", MU: "mauritius", MA: "morocco", MZ: "mozambique",
+  NA: "namibia", NE: "niger", NG: "nigeria", RW: "rwanda",
+  ST: "sao-tome-and-principe", SN: "senegal", SC: "seychelles", SL: "sierra-leone",
+  SO: "somalia", ZA: "south-africa", SS: "south-sudan", SD: "sudan",
+  TZ: "tanzania", TG: "togo", TN: "tunisia", UG: "uganda", ZM: "zambia",
+  ZW: "zimbabwe",
+  // Oceania
+  AU: "australia", NZ: "new-zealand", FJ: "fiji", PG: "papua-new-guinea",
+};
+
+// Compact (one-word) country-id alias -> kanonikus dashed slug
+// (POI fajlnevek/aggregator-ok pl. drcongoAllPoi, sanmarinoPoi, saotomeAllPoi)
+const COUNTRY_ID_ALIASES: Record<string, string> = {
+  drcongo: "democratic-republic-of-congo",
+  equatorialguinea: "equatorial-guinea",
+  saotome: "sao-tome-and-principe",
+  centralafricanrepublic: "central-african-republic",
+  capeverde: "cape-verde",
+  burkinafaso: "burkina-faso",
+  ivorycoast: "ivory-coast",
+  guineabissau: "guinea-bissau",
+  sierraleone: "sierra-leone",
+  southafrica: "south-africa",
+  southsudan: "south-sudan",
+  northmacedonia: "north-macedonia",
+  northkorea: "north-korea",
+  southkorea: "south-korea",
+  costarica: "costa-rica",
+  elsalvador: "el-salvador",
+  dominicanrepublic: "dominican-republic",
+  sanmarino: "san-marino",
+  unitedkingdom: "united-kingdom",
+  unitedarabemirates: "united-arab-emirates",
+  saudiarabia: "saudi-arabia",
+  srilanka: "sri-lanka",
+  newzealand: "new-zealand",
+  papuanewguinea: "papua-new-guinea",
+  timorleste: "timor-leste",
+  czechrepublic: "czech-republic",
+  mk: "north-macedonia",
 };
 
 export function getCountryId(id: string) {
@@ -276,7 +461,21 @@ export function getCountryId(id: string) {
   // HU regions: legacy slug ("budapest", "fejer") VAGY uj parent="HU-XX" -> hungary
   const huMatch = regions.some(r => r.id === id && (r.parent === "HU" || r.parent?.startsWith("HU-")));
   if (huMatch) return "hungary";
-  if (id.startsWith("country-")) return id.replace("country-", "");
+  if (id.startsWith("country-")) {
+    const rest = id.replace("country-", "");
+    // direct match (pl. "albania", "san-marino")
+    if (COUNTRY_SLUGS[rest]) return rest;
+    // ISO2 fallback (pl. "country-mk" -> "MK" -> "north-macedonia")
+    const iso2 = rest.toUpperCase();
+    if (ISO2_TO_COUNTRY[iso2]) return ISO2_TO_COUNTRY[iso2];
+    // Compact-name aliases (pl. "country-sanmarino" -> "san-marino", "country-drcongo" -> "democratic-republic-of-congo")
+    const alias = COUNTRY_ID_ALIASES[rest];
+    if (alias) return alias;
+    return rest;
+  }
+  // Compact id passed directly (pl. parent="drcongo")
+  const aliasDirect = COUNTRY_ID_ALIASES[id];
+  if (aliasDirect) return aliasDirect;
   // Strip "XX-YY" prefix to get ISO2
   const iso2 = id.includes("-") ? id.split("-")[0].toUpperCase() : id.toUpperCase();
   return ISO2_TO_COUNTRY[iso2] ?? "germany";

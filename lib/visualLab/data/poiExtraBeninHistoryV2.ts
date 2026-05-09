@@ -28,13 +28,13 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }, image: "/poi-images/royal-palaces-abomey-history-v2.webp",
     description: {
       de: "",
-      hu: "Az Abomey KirÃ¡lysÃ¡g egykori uralkodÃ³inak rezidenciÃ¡ja, amely az UNESCO vilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze. A 17. Ã©s 19. szÃ¡zad kÃ¶zÃ¶tt Ã©pÃ¼lt Ã©pÃ¼letegyÃ¼ttes a daho-mi kultÃºra kÃ¶zpontja.",
+      hu: "Az Abomey Királyság egykori uralkodóinak rezidenciája, amely az UNESCO világörökség része. A 17. és 19. század között épült épületegyüttes a daho-mi kultúra központja.",
       ro: "Fostul sediu al Regatului Dahomey, complexul cuprinde palate regale construite între secolele XVII și XIX. Aceste structuri din pământ sunt un simbol al puterii monarhilor locali.",
       en: ""
     },
     facts: {
       de: [],
-      hu: ["UNESCO Ã¶rÃ¶ksÃ©g", "Korszak: 17-19. szÃ¡zad", "HelyszÃ­n: Abomey", "KulturÃ¡lis kÃ¶zpont"],
+      hu: ["UNESCO örökség", "Korszak: 17-19. század", "Helyszín: Abomey", "Kulturális központ"],
       ro: ["Sediul Regatului Dahomey", "Construite sec. XVII-XIX", "Material: pământ și argilă", "Patrimoniu mondial UNESCO"],
       en: []
     }
@@ -65,13 +65,13 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }, image: "/poi-images/door-no-return-ouidah-history-v2.webp",
     description: {
       de: "",
-      hu: "EmlÃ©kmÅ± Ouidah tengerpartjÃ¡n, amely a transzatlanti rabszolga-kereskedelem Ã¡ldozataira emlÃ©keztet. A rabszolgÃ¡k itt lÃ©ptÃ©k Ã¡t utoljÃ¡ra az afrikai kontinenst.",
+      hu: "Emlékmű Ouidah tengerpartján, amely a transzatlanti rabszolga-kereskedelem áldozataira emlékeztet. A rabszolgák itt lépték át utoljára az afrikai kontinenst.",
       ro: "Poarta simbolică din Ouidah marchează punctul final al drumului sclavilor către mare. Este un monument de comemorare a miilor de oameni trimiși forțat în exil.",
       en: ""
     },
     facts: {
       de: [],
-      hu: ["HelyszÃ­n: Ouidah", "Korszak: Rabszolga-kereskedelem", "TÃ­pus: EmlÃ©kmÅ±", "SÃ¶tÃ©t turisztikai helyszÃ­n"],
+      hu: ["Helyszín: Ouidah", "Korszak: Rabszolga-kereskedelem", "Típus: Emlékmű", "Sötét turisztikai helyszín"],
       ro: ["Memorial al sclaviei", "Situată în Ouidah", "Punct de plecare maritim", "Simbol al suferinței"],
       en: []
     }
@@ -102,13 +102,13 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }, image: "/poi-images/temple-pythons-ouidah-history-v2.webp",
     description: {
       de: "",
-      hu: "Ouidah egyik leghÃ­resebb vallÃ¡si helyszÃ­ne, ahol szent pitonokat tisztelnek. A vudu hagyomÃ¡nyok Ã©s a helyi hitvilÃ¡g fontos talÃ¡lkozÃ¡si pontja.",
+      hu: "Ouidah egyik leghíresebb vallási helyszíne, ahol szent pitonokat tisztelnek. A vudu hagyományok és a helyi hitvilág fontos találkozási pontja.",
       ro: "Un lăcaș de cult tradițional din Ouidah unde pitonii sunt considerați creaturi sacre. Templele găzduiesc zeci de șerpi care circulă liber în incintă.",
       en: ""
     },
     facts: {
       de: [],
-      hu: ["VallÃ¡s: Vudu", "HelyszÃ­n: Ouidah", "Szent Ã¡llat: Piton", "Turisztikai lÃ¡tnivalÃ³"],
+      hu: ["Vallás: Vudu", "Helyszín: Ouidah", "Szent állat: Piton", "Turisztikai látnivaló"],
       ro: ["Lăcaș de cult voodoo", "Pitonii sunt sacri", "Situat în Ouidah", "Ritualuri tradiționale"],
       en: []
     }
@@ -139,13 +139,13 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }, image: "/poi-images/portuguese-fort-ouidah-history-v2.webp",
     description: {
       de: "",
-      hu: "Egy 18. szÃ¡zadi erÅ‘dÃ­tmÃ©ny Ouidahban, amely egykor a portugÃ¡l kereskedÅ‘k Ã¡llomÃ¡sa volt. Ma mÃºzeumkÃ©nt mutatja be a rÃ©giÃ³ gyarmati mÃºltjÃ¡t.",
+      hu: "Egy 18. századi erődítmény Ouidahban, amely egykor a portugál kereskedők állomása volt. Ma múzeumként mutatja be a régió gyarmati múltját.",
       ro: "Construit de portughezi în secolul al XVIII-lea, acest fort a fost un centru important al comerțului colonial. Astăzi găzduiește un muzeu istoric despre perioada colonială.",
       en: ""
     },
     facts: {
       de: [],
-      hu: ["Ã‰pÃ­tÃ©s Ã©ve: 1721", "HelyszÃ­n: Ouidah", "TÃ­pus: ErÅ‘d/MÃºzeum", "Korszak: Gyarmati"],
+      hu: ["Építés éve: 1721", "Helyszín: Ouidah", "Típus: Erőd/Múzeum", "Korszak: Gyarmati"],
       ro: ["Construit sec. XVIII", "Fost centru comercial", "Muzeu istoric local", "Arhitectură colonială"],
       en: []
     }
@@ -176,13 +176,13 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }, image: "/poi-images/musee-honme-porto-novo-history-v2.webp",
     description: {
       de: "",
-      hu: "Porto-Novo egyik kiemelkedÅ‘ mÃºzeuma, a egykori Hogbonou kirÃ¡lyok palotÃ¡ja. A kiÃ¡llÃ­tÃ¡s a helyi kirÃ¡lyi csalÃ¡dok Ã©letÃ©t Ã©s tÃ¶rtÃ©nelmÃ©t mutatja be.",
+      hu: "Porto-Novo egyik kiemelkedő múzeuma, a egykori Hogbonou királyok palotája. A kiállítás a helyi királyi családok életét és történelmét mutatja be.",
       ro: "Muzeul Honmé este fosta reședință a regilor din Porto-Novo. Expoziția prezintă obiecte regale, tronuri și artefacte ce ilustrează viața suveranilor locali.",
       en: ""
     },
     facts: {
       de: [],
-      hu: ["HelyszÃ­n: Porto-Novo", "TÃ­pus: MÃºzeum", "Korszak: KirÃ¡lyi korszak", "KulturÃ¡lis Ã¶rÃ¶ksÃ©g"],
+      hu: ["Helyszín: Porto-Novo", "Típus: Múzeum", "Korszak: Királyi korszak", "Kulturális örökség"],
       ro: ["Fostă reședință regală", "Situat în Porto-Novo", "Colecție de artă regală", "Istorie locală"],
       en: []
     }
@@ -213,13 +213,13 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }, image: "/poi-images/great-mosque-porto-novo-history-v2.webp",
     description: {
       de: "",
-      hu: "BrazÃ­liai stÃ­lusÃº mecset Porto-NovÃ³ban, amely a felszabadÃ­tott rabszolgÃ¡k Ã©pÃ­tÃ©szeti hatÃ¡sÃ¡t viseli. A vÃ¡ros egyik legrÃ©gebbi Ã©s legimpozÃ¡nsabb szakrÃ¡lis Ã©pÃ¼lete.",
+      hu: "Brazíliai stílusú mecset Porto-Novóban, amely a felszabadított rabszolgák építészeti hatását viseli. A város egyik legrégebbi és legimpozánsabb szakrális épülete.",
       ro: "Această moschee distinctivă este renumită pentru arhitectura sa braziliană unică. Este un monument religios și cultural major al orașului Porto-Novo.",
       en: ""
     },
     facts: {
       de: [],
-      hu: ["StÃ­lus: Afro-brazil", "HelyszÃ­n: Porto-Novo", "TÃ­pus: Mecset", "TÃ¶rtÃ©nelmi Ã©pÃ¼let"],
+      hu: ["Stílus: Afro-brazil", "Helyszín: Porto-Novo", "Típus: Mecset", "Történelmi épület"],
       ro: ["Arhitectură braziliană", "Situată în Porto-Novo", "Centru religios major", "Construcție istorică"],
       en: []
     }
@@ -250,13 +250,13 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }, image: "/poi-images/agongointo-underground-history-v2.webp",
     description: {
       de: "",
-      hu: "FÃ¶ldalatti lakÃ³helyek komplexuma Abomey kÃ¶zelÃ©ben, amelyet a daho-mi harcosok hasznÃ¡ltak. RÃ©gÃ©szeti jelentÅ‘sÃ©ge a 16-17. szÃ¡zadig nyÃºlik vissza.",
+      hu: "Földalatti lakóhelyek komplexuma Abomey közelében, amelyet a daho-mi harcosok használtak. Régészeti jelentősége a 16-17. századig nyúlik vissza.",
       ro: "Satul subteran Agongointo constă într-o rețea de adăposturi construite de regele Dakodonou în secolul al XVII-lea. Structurile au fost descoperite în timpul unor lucrări moderne.",
       en: ""
     },
     facts: {
       de: [],
-      hu: ["HelyszÃ­n: Abomey kÃ¶rnyÃ©ke", "TÃ­pus: RÃ©gÃ©szeti lelÅ‘hely", "Korszak: 16-17. szÃ¡zad", "Rejtett lakÃ³helyek"],
+      hu: ["Helyszín: Abomey környéke", "Típus: Régészeti lelőhely", "Korszak: 16-17. század", "Rejtett lakóhelyek"],
       ro: ["Construit sec. XVII", "Rețea de adăposturi", "Descoperire arheologică", "Tehnici defensive"],
       en: []
     }
@@ -287,13 +287,13 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }, image: "/poi-images/palace-king-nikki-history-v2.webp",
     description: {
       de: "",
-      hu: "Az Ã©szaki Nikki kirÃ¡lysÃ¡g uralkodÃ³inak hagyomÃ¡nyos palotÃ¡ja. A Bariba nÃ©p tÃ¶rtÃ©nelmÃ©nek Ã©s politikai hatalmÃ¡nak egyik kÃ¶zponti szimbÃ³luma.",
+      hu: "Az északi Nikki királyság uralkodóinak hagyományos palotája. A Bariba nép történelmének és politikai hatalmának egyik központi szimbóluma.",
       ro: "Palatul este centrul administrativ și spiritual al regatului Nikki din nordul Beninului. Este locul unde au loc ceremoniile tradiționale ale conducătorilor Bariba.",
       en: ""
     },
     facts: {
       de: [],
-      hu: ["HelyszÃ­n: Nikki", "TÃ­pus: Palota", "NÃ©pcsoport: Bariba", "KulturÃ¡lis kÃ¶zpont"],
+      hu: ["Helyszín: Nikki", "Típus: Palota", "Népcsoport: Bariba", "Kulturális központ"],
       ro: ["Sediul regatului Nikki", "Centru spiritual Bariba", "Nordul Beninului", "Ceremonii tradiționale"],
       en: []
     }
@@ -324,13 +324,13 @@ export const poiExtraBeninHistoryV2: POI[] = [
     },
     description: {
       de: "",
-      hu: "Ketou tÃ¶rtÃ©nelmi vÃ¡roskapuja, amely a vÃ¡ros vÃ©delmÃ©t szolgÃ¡lta a korÃ¡bbi Ã©vszÃ¡zadokban. A joruba Ã©pÃ­tÃ©szeti hagyomÃ¡nyok egyik fontos emlÃ©ke.",
+      hu: "Ketou történelmi városkapuja, amely a város védelmét szolgálta a korábbi évszázadokban. A joruba építészeti hagyományok egyik fontos emléke.",
       ro: "Poarta sacră Akaba Idenan este intrarea istorică în orașul vechi Ketou. Este considerată un simbol al protecției și identității comunității locale.",
       en: ""
     },
     facts: {
       de: [],
-      hu: ["HelyszÃ­n: Ketou", "TÃ­pus: VÃ¡roskapu", "NÃ©pcsoport: Joruba", "TÃ¶rtÃ©nelmi vÃ©delem"],
+      hu: ["Helyszín: Ketou", "Típus: Városkapu", "Népcsoport: Joruba", "Történelmi védelem"],
       ro: ["Poartă istorică", "Situată în Ketou", "Simbol identitar", "Protecție spirituală"],
       en: []
     }
@@ -361,13 +361,13 @@ export const poiExtraBeninHistoryV2: POI[] = [
     }, image: "/poi-images/tata-somba-houses-history-v2.webp",
     description: {
       de: "",
-      hu: "KÃ¼lÃ¶nleges, vÃ¡rszerÅ± lakÃ³hÃ¡zak a KÃ¶li rÃ©giÃ³ban, amelyeket a Somba nÃ©p Ã©pÃ­tett. A hagyomÃ¡nyos Ã©letforma Ã©s vÃ©delem egyedÃ¼lÃ¡llÃ³ kombinÃ¡ciÃ³ja.",
+      hu: "Különleges, várszerű lakóházak a Köli régióban, amelyeket a Somba nép épített. A hagyományos életforma és védelem egyedülálló kombinációja.",
       ro: "Casele Tata Somba sunt fortărețe tradiționale din lut, specifice etniei Betammaribe din regiunea Atakora. Structura lor defensivă este unică în arhitectura africană.",
       en: ""
     },
     facts: {
       de: [],
-      hu: ["HelyszÃ­n: Atakora-hegysÃ©g", "NÃ©pcsoport: Somba", "TÃ­pus: ErÅ‘dÃ­tett hÃ¡z", "Ã‰pÃ­tÃ©szeti Ã¶rÃ¶ksÃ©g"],
+      hu: ["Helyszín: Atakora-hegység", "Népcsoport: Somba", "Típus: Erődített ház", "Építészeti örökség"],
       ro: ["Case-fortărețe", "Etnia Betammaribe", "Regiunea Atakora", "Arhitectură defensivă"],
       en: []
     }

@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Brazil",
+  "files": [
+    "lib/visualLab/data/poiExtraBrazilLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "br-rj-cristo-redentor-landmarks-v2",
+      "description": "A Krisztus Megváltó-szobor Rio de Janeiro fölött, a Corcovado tetején áll. Brazília legismertebb jelképei közé tartozik.",
+      "facts": ["A Corcovado-hegyen áll", "1931-ben avatták fel", "Rio de Janeiro jelképének számít"]
+    },
+    {
+      "id": "br-rj-maracana-landmarks-v2",
+      "description": "A Maracanã Rio de Janeiro ikonikus stadionja, amely a brazil futball egyik központja. Nagy nemzetközi mérkőzések és döntők helyszíne volt.",
+      "facts": ["1950-ben nyílt meg", "Rio de Janeiro stadionja", "Világbajnoki döntőknek is otthont adott"]
+    },
+    {
+      "id": "br-df-catedral-brasilia-landmarks-v2",
+      "description": "A brasíliavárosi székesegyház Oscar Niemeyer egyik legismertebb alkotása. A modernista szerkezet Brasília központi építészeti pontja.",
+      "facts": ["Brasíliában található", "Oscar Niemeyer tervezte", "1970-ben szentelték fel"]
+    },
+    {
+      "id": "br-df-palacio-planalto-landmarks-v2",
+      "description": "A Palácio do Planalto a brazil elnök hivatalos munkahelye Brasília központjában. A Praça dos Três Poderes tér egyik fő épülete.",
+      "facts": ["A brazil elnök hivatala", "Brasíliában áll", "Oscar Niemeyer munkája"]
+    },
+    {
+      "id": "br-df-congresso-nacional-landmarks-v2",
+      "description": "A Congresso Nacional Brasília kormányzati negyedének meghatározó épülete. Itt működik a brazil törvényhozás két háza.",
+      "facts": ["A brazil parlament székhelye", "Brasíliában található", "1960-ban adták át"]
+    },
+    {
+      "id": "br-sp-ponte-estaiada-landmarks-v2",
+      "description": "A Ponte Estaiada São Paulo egyik legjobban felismerhető modern városi jelképe. A Pinheiros folyó fölött ível át, és a város északi részét köti össze.",
+      "facts": ["São Paulóban van", "A Pinheiros folyó fölött áll", "Kábelhidas városi ikon"]
+    },
+    {
+      "id": "br-sp-masp-landmarks-v2",
+      "description": "A MASP az Avenida Paulista legismertebb kulturális épületei közé tartozik. Lebegő tömegű modernista háza és nagy gyűjteménye miatt ismert.",
+      "facts": ["Avenida Paulista mellett áll", "1968-ban nyílt meg", "Modernista, függesztett épület"]
+    },
+    {
+      "id": "br-ba-elevador-lacerda-landmarks-v2",
+      "description": "Az Elevador Lacerda Salvador felső és alsó városrésze között teremt kapcsolatot. A város egyik legfontosabb közlekedési és látképi eleme.",
+      "facts": ["Salvadorban található", "A Cidade Alta és Cidade Baixa között működik", "1873-ban nyitották meg"]
+    },
+    {
+      "id": "br-rs-catedral-pedra-landmarks-v2",
+      "description": "A Catedral de Pedra Canela legismertebb temploma Rio Grande do Sul államban. Neogótikus formája miatt a város egyik fő látványossága.",
+      "facts": ["Canela városában áll", "Rio Grande do Sul államban található", "Neogótikus stílusú"]
+    },
+    {
+      "id": "br-rj-museu-amanha-landmarks-v2",
+      "description": "A Museu do Amanhã Rio de Janeiro Porto Maravilha városrészének kortárs múzeuma. Tudományos és jövőorientált kiállításairól ismert.",
+      "facts": ["Rio de Janeiro kikötői övezetében van", "2015-ben nyílt meg", "Kortárs tudományos múzeum"]
+    }
+  ]
+}
