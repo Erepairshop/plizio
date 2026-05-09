@@ -11,6 +11,8 @@ import { type BundeslandPath } from "../maps/deutschland.svg";
 import { projectInState } from "../maps/bundeslandSubregions";
 import { getCountryMap } from "../maps/resolver";
 import { getAfricaCountryMap } from "../maps/africaResolver";
+import { getAsiaCountryMap } from "../maps/asiaResolver";
+import { getSouthAmericaCountryMap } from "../maps/southAmericaResolver";
 import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 import { useLang } from "@/components/LanguageProvider";
 import { usePanZoom } from "./usePanZoom";
@@ -147,7 +149,7 @@ export const InteractiveMap = ({
 
   // ---- Country map resolver (countryId prop vagy lang-alapu) --------------
   const countryData = useMemo(
-    () => (countryId ? getAfricaCountryMap(countryId) ?? getCountryMap(lang as Lang) : getCountryMap(lang as Lang)),
+    () => (countryId ? getAsiaCountryMap(countryId) ?? getSouthAmericaCountryMap(countryId) ?? getAfricaCountryMap(countryId) ?? getCountryMap(lang as Lang) : getCountryMap(lang as Lang)),
     [countryId, lang]
   );
   const deutschlandMap = countryData.map;

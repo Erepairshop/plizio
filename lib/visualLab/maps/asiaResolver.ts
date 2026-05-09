@@ -1,8 +1,10 @@
-// Ázsia ország resolver — ISO-2 ↔ slug mapping.
-// MEGJEGYZES: A per-country `<slug>.svg.ts` fájlok jelenleg MÉG NEM létrehozva.
-// Amint elkészültek, ide kerül egy `getAsiaCountryMap(slug)` függvény,
-// hasonló struktúrában mint az `africaResolver.ts` (CountryMapData visszaadás).
+// Azsia orszag resolver — ISO-2 ↔ slug mapping + per-country resolver.
+// MEGJEGYZES: A legtobb azsiai per-country `<slug>.svg.ts` fajl jelenleg MEG NEM letrehozva.
+// Ahol megvan (cyprus), ott teljes CountryMapData visszaadas, egyebkent null
+// (a hivo InteractiveMap a continent / lang-alapu terkepre fog visszaesni).
+import type { BundeslandPath } from "./deutschland.svg";
 import type { CountryMapData } from "./resolver";
+import { cyprusMap, cyprusViewBox, projectCoordsCY } from "./cyprus.svg";
 
 export const ASIA_ISO_TO_SLUG: Record<string, string> = {
   CN: "china",
@@ -61,10 +63,21 @@ export const ASIA_SLUG_TO_ISO: Record<string, string> = Object.fromEntries(
 );
 
 /**
- * getAsiaCountryMap — Stub. A per-country svg.ts fájlok hiányában jelenleg `null`.
- * Külön sonnet feladat lesz a country mappa-fájlok generálása + ennek a kibővítése
- * az `africaResolver.getAfricaCountryMap` mintájára.
+ * getAsiaCountryMap — Per-country azsiai terkep visszaadasa, vagy null.
+ * Ahol meg nincs `<slug>.svg.ts`, null -> a hivo continent / lang-alapu fallback-re esik.
  */
-export function getAsiaCountryMap(_countryId: string): CountryMapData | null {
-  return null;
+export function getAsiaCountryMap(countryId: string): CountryMapData | null {
+  switch (countryId) {
+    case "cyprus":
+      return {
+        countryId: "CY",
+        map: cyprusMap as unknown as BundeslandPath[],
+        viewBox: cyprusViewBox,
+        projectCoords: projectCoordsCY,
+        pois: [],
+        subregions: [],
+      };
+    default:
+      return null;
+  }
 }
